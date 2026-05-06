@@ -1,1 +1,5 @@
 node_modules
+
+# Quartz build output
+quartz-engine/public
+quartz-engine/quartz/.quartz-cache
