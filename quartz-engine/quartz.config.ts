@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Echo Wiki",
-    pageTitleSuffix: " — Taiwanese American Historical Society",
+    pageTitle: "Taiwanese American Historical Society",
+    pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
