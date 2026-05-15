@@ -14,9 +14,10 @@
 ## Key Settlement Areas
 
 ### California Communities
-- **Bay Area**: Cupertino, San Jose, Fremont, Newark, Pleasanton, Palo Alto, San Mateo, Dublin
-- **Southern California**: Arcadia, San Marino, Temple City, South Pasadena, Hacienda Heights, Rowland Heights, Walnut, Diamond Bar
+### Southern California
+- **Arcadia, San Marino, Temple City, South Pasadena, Hacienda Heights, Rowland Heights, Walnut, Diamond Bar**
 - **Monterey Park**: Historic center, still hosts annual Taiwanese cultural events during Taiwanese Heritage Week
+- **San Gabriel Valley**: Heart of the Taiwanese American community — home to [[Formosan-Presbyterian-Church-Los-Angeles-FPCLA\|FPCLA]], [[LA-Taiwanese-Cultural-Association-大洛杉磯台灣會館\|LA Taiwanese Cultural Association]], and [[TARSA-Southern-California\|TARSA]]
 
 ### New York Communities
 - **Flushing, Queens**: Main Taiwanese cultural, commercial, and political center in NYC
@@ -71,3 +72,6 @@
 - [[organizations-taiwanese-americans]]
 - [[history-taiwanese-americans]]
 - [[notable-taiwanese-americans]]
+- [[Formosan-Presbyterian-Church-Los-Angeles-FPCLA]]
+- [[NATPA-South-California-Chapter]]
+- [[LA-Taiwanese-Cultural-Association-大洛杉磯台灣會館]]

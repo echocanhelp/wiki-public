@@ -11,6 +11,27 @@
 - [[Jensen Huang]] (b.1963) — Co-founder & CEO, Nvidia
 - [[Lisa Su]] (b.1969) — CEO & Chair, AMD
 
+## Community Leaders
+
+| Name | Notability |
+|------|------------|
+| [[Sze-ya-Yeh-葉思雅\|Sze-ya Yeh (葉思雅)]] | Community leader, TARSA co-founder, Evergreen Fellowship leader |
+| [[Hsu-Wen-pin-許文彬\|Hsu Wen-Pin (許文彬)]] | Lawyer, founder of CAHR, Community Federation president |
+| [[Albert-S-Lai-賴信雄\|Albert S. Lai (賴信雄)]] | Community leader |
+| [[Isaiah-Lee-李宗派\|Isaiah Lee (李宗派)]] | Community leader |
+| [[Dr-Bob-Cheng-鄭寶鼎\|Dr. Bob Cheng (鄭寶鼎)]] | Community leader |
+| [[Chen-Zhaojun-陳昭俊\|Chen Zhaojun (陳昭俊)]] | NATPA SoCal president, professor |
+| [[Rev-RH-Chang-張瑞雄\|Rev. R.H. Chang (張瑞雄)]] | Pastor, community leader |
+
+## Community Founders (LA)
+
+| Name | Notability |
+|------|------------|
+| [[Rev-Chang-Feng-Chang-張逢昌\|Rev. Chang Feng-Chang (張逢昌)]] | Founder of FPCLA |
+| [[Gao-Guangmin-高光民\|Gao Guangmin (高光民)]] | Founding supporter of FPCLA |
+| [[Wang-Chunxiong-王春雄\|Wang Chunxiong (王春雄)]] | Founding supporter of FPCLA |
+| [[Wu-Zhengyan-吳政彥\|Wu Zhengyan (吳政彥)]] | Founding supporter of FPCLA |
+
 ## Politics & Government
 
 | Name | Born | Role |
@@ -83,4 +104,4 @@
 ## Related
 
 - [[Taiwanese Americans]]
-- [[TAHS]]
+- [[TAHS-Profile]]

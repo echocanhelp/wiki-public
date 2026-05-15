@@ -16,7 +16,7 @@
 
 | Organization | Founded | Focus |
 |---|---|---|
-| North American Taiwanese Professors Association (NATPA) | 1982 | Academic |
+| [[NATPA-Parent\|North American Taiwanese Professors Association (NATPA)]] | 1982 | Academic | See also: [[NATPA-South-California-Chapter]] — ~100 members, founded via 1984 Ad Hoc Committee ([[Jen-Chinbiao-簡錦標]], [[Ho-Yuhhsia-何汝諧]], [[Chen-Zhaojun-陳昭俊]], [[Wang-Chiusen-王秋森]]) |
 | North American Taiwanese Medical Association (NATMA) | 1984 | Medical |
 | Taiwanese Americans Citizens' League (TACL) | 1985 | Political | Lobbied to count Taiwanese Americans separately from Chinese Americans |
 | North American Taiwanese Women's Association (NATWA) | 1988 | Women |
@@ -55,9 +55,22 @@
 
 - **Chaotian Temple** (Taiwan) — Established Ma-Tsu Temple branch in San Francisco Chinatown (1986)
 - Ma-Tsu Temple — Located in San Francisco Chinatown
+- [[Formosan-Presbyterian-Church-Los-Angeles-FPCLA\|Formosa Presbyterian Church, Los Angeles]] (FPCLA) — Founded by [[Rev-Chang-Feng-Chang-張逢昌\|Rev. Chang Feng-Chang]], one of the earliest Taiwanese American religious institutions in Southern California. Founding supporters included [[Gao-Guangmin-高光民\|Gao Guangmin]], [[Wang-Chunxiong-王春雄\|Wang Chunxiong]], and [[Wu-Zhengyan-吳政彥\|Wu Zhengyan]]
+
+## Community Organizations
+
+- [[Community-Federation-社團聯合會\|Community Federation (社團聯合會)]] — Umbrella organization for LA Taiwanese American groups in the 1980s
+- [[CAHR\|Chinese Association for Human Rights (CAHR)]] — Founded by [[Hsu-Wen-pin-許文彬\|Hsu Wen-Pin]]
+- [[LA-Taiwanese-Cultural-Association-大洛杉磯台灣會館\|LA Taiwanese Cultural Association (大洛杉磯台灣會館)]] — Community center in the San Gabriel Valley
+- [[Evergreen-Fellowship-長青團契\|Evergreen Fellowship (長青團契)]] — Elder fellowship group within FPCLA
+
+## Cultural & Literary
+
+- [[Taiwan-Minpao-臺灣民報\|Taiwan Minpao (臺灣民報)]] — Taiwanese-language newspaper (1923–1941), crucial platform for Taiwanese literature during the Japanese colonial period
+- [[Lai-Ho-Cultural-and-Educational-Foundation\|Lai Ho Cultural and Educational Foundation (賴和文教基金會)]] — Founded by [[Lai-Yuehyan-賴悅顏\|Lai Yueh-Yan]] to preserve the legacy of [[Lai-Ho-賴和\|Lai Ho]], "Father of Taiwanese New Literature"
 
 ## Related
 
 - [[Community Organizations (taiwaneseamerican.org)]]
-- [[TAHS]]
+- [[TAHS-Profile]]
 - [[notable-taiwanese-americans]]
