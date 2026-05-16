@@ -53,9 +53,23 @@
 
 ## Religious
 
+### Presbyterian Churches
+
+- [[NTPC\|National Taiwanese Presbyterian Council (NTPC, 美國基督長老教會全國台灣人教會聯合會)]] — National umbrella organization uniting 16 Taiwanese Presbyterian churches across the US under [[PC(USA)]] (c. 1974–present). 52nd annual conference held in 2026.
+- [[Formosan-Presbyterian-Church-Los-Angeles-FPCLA\|Formosa Presbyterian Church, Los Angeles]] (FPCLA) — Founded by [[Rev-Chang-Feng-Chang-張逢昌\|Rev. Chang Feng-Chang]], one of the earliest Taiwanese American religious institutions in Southern California. Founding supporters included [[Gao-Guangmin-高光民\|Gao Guangmin]], [[Wang-Chunxiong-王春雄\|Wang Chunxiong]], and [[Wu-Zhengyan-吳政彥\|Wu Zhengyan]]
+- [[Good-Shepherd-Taiwanese-Presbyterian-Church\|Good Shepherd Taiwanese Presbyterian Church (好牧者臺灣基督長老教會)]] — Monterey Park, CA. Founded by Taiwanese immigrants and students. Worship primarily in [[Taiwanese language|台語]]. Current pastor: [[Rev.-Ming-Yuan-Hsu-許明遠\|Rev. Ming Yuan Hsu (許明遠)]] (2019–present). Member of [[NTPC]].
+- [[First-Taiwanese-Presbyterian-Church\|First Taiwanese Presbyterian Church (第一台灣基督長老教會)]] — Pasadena, CA. Multilingual worship (台語/華語/English). Current pastor: [[Rev.-Frank-Hsieh-謝信光\|Rev. Frank Hsieh (謝信光)]], who also serves as Secretary of [[NTPC]]. Member of [[NTPC]].
+
+### Other
+
 - **Chaotian Temple** (Taiwan) — Established Ma-Tsu Temple branch in San Francisco Chinatown (1986)
 - Ma-Tsu Temple — Located in San Francisco Chinatown
+
+### Presbyterian Churches (San Gabriel Valley)
+
 - [[Formosan-Presbyterian-Church-Los-Angeles-FPCLA\|Formosa Presbyterian Church, Los Angeles]] (FPCLA) — Founded by [[Rev-Chang-Feng-Chang-張逢昌\|Rev. Chang Feng-Chang]], one of the earliest Taiwanese American religious institutions in Southern California. Founding supporters included [[Gao-Guangmin-高光民\|Gao Guangmin]], [[Wang-Chunxiong-王春雄\|Wang Chunxiong]], and [[Wu-Zhengyan-吳政彥\|Wu Zhengyan]]
+- [[Good-Shepherd-Taiwanese-Presbyterian-Church\|Good Shepherd Taiwanese Presbyterian Church (好牧者臺灣基督長老教會)]] — Monterey Park, CA. Founded by Taiwanese immigrants and students. Worship in [[Taiwanese language|台語]]. Pastor: [[Rev.-Ming-Yuan-Hsu-許明遠\|Rev. Ming Yuan Hsu (許明遠)]] (July 2019–present). Member of [[NTPC]].
+- [[First-Taiwanese-Presbyterian-Church\|First Taiwanese Presbyterian Church (第一台灣基督長老教會)]] — Pasadena, CA. Multilingual worship (台語/華語/English). Pastor: [[Rev.-Frank-Hsieh-謝信光\|Rev. Frank Hsieh (謝信光)]] who also serves as [[NTPC]] Secretary. Member of [[NTPC]].
 
 ## Community Organizations
 

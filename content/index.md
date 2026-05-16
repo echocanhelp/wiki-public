@@ -21,7 +21,9 @@ Welcome to the **Taiwanese American Historical Society** knowledge base — a li
 
 Browse individual profiles and organization pages:
 
-**Community Leaders:** [[Sze-ya-Yeh-葉思雅]], [[Hsu-Wen-pin-許文彬]], [[Albert-S-Lai-賴信雄]], [[Isaiah-Lee-李宗派]], [[Dr-Bob-Cheng-鄭寶鼎]], [[Chen-Zhaojun-陳昭俊]], [[Rev-RH-Chang-張瑞雄]]
+**Notable Taiwanese Americans:** [[Michelle-Wu-吳弭]], [[Jensen-Huang-黃仁勳]], [[Lisa-Su-蘇姿丰]]
+
+**Community Leaders:** [[Sze-ya-Yeh-葉思雅]], [[Hsu-Wen-pin-許文彬]], [[Albert-S-Lai-賴信雄]], [[Isaiah-Lee-李宗派]], [[Dr-Bob-Cheng-鄭寶鼎]], [[Chen-Zhaojun-陳昭俊]], [[Rev-RH-Chang-張瑞雄]], [[Rev.-Ming-Yuan-Hsu-許明遠]], [[Rev.-Frank-Hsieh-謝信光]]
 
 **NATPA SoCal Founders:** [[Jen-Chinbiao-簡錦標]], [[Ho-Yuhhsia-何汝諧]], [[Hsieh-Chingchih-謝清志]], [[Wang-Chiusen-王秋森]]
 
@@ -29,7 +31,9 @@ Browse individual profiles and organization pages:
 
 **Cultural Heritage:** [[Lai-Ho-賴和]], [[Lai-Yuehyan-賴悅顏]], [[Taiwan-Minpao-臺灣民報]]
 
-**Organizations:** [[Formosan-Presbyterian-Church-Los-Angeles-FPCLA]], [[NATPA-Parent]], [[NATPA-South-California-Chapter]], [[TARSA-Southern-California]], [[Community-Federation-社團聯合會]], [[CAHR]], [[Lai-Ho-Cultural-and-Educational-Foundation]], [[LA-Taiwanese-Cultural-Association-大洛杉磯台灣會館]], [[Evergreen-Fellowship-長青團契]]
+**Key Locations:** [[San-Gabriel-Valley-聖蓋博谷]]
+
+**Organizations:** [[TAHS-臺美人文史學會]], [[TaiwaneseAmerican.org]], [[PC(USA)]], [[NTPC]], [[Formosan-Presbyterian-Church-Los-Angeles-FPCLA]], [[Good-Shepherd-Taiwanese-Presbyterian-Church]], [[First-Taiwanese-Presbyterian-Church]], [[NATPA-Parent]], [[NATPA-South-California-Chapter]], [[TARSA-Southern-California]], [[Community-Federation-社團聯合會]], [[CAHR]], [[Lai-Ho-Cultural-and-Educational-Foundation]], [[LA-Taiwanese-Cultural-Association-大洛杉磯台灣會館]], [[Evergreen-Fellowship-長青團契]], [[TA-Archives-台美史料中心]]
 
 ## About This Project
 

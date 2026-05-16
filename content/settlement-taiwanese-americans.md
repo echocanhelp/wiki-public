@@ -16,8 +16,8 @@
 ### California Communities
 ### Southern California
 - **Arcadia, San Marino, Temple City, South Pasadena, Hacienda Heights, Rowland Heights, Walnut, Diamond Bar**
-- **Monterey Park**: Historic center, still hosts annual Taiwanese cultural events during Taiwanese Heritage Week
-- **San Gabriel Valley**: Heart of the Taiwanese American community — home to [[Formosan-Presbyterian-Church-Los-Angeles-FPCLA\|FPCLA]], [[LA-Taiwanese-Cultural-Association-大洛杉磯台灣會館\|LA Taiwanese Cultural Association]], and [[TARSA-Southern-California\|TARSA]]
+- **Monterey Park**: Historic center, still hosts annual Taiwanese cultural events during Taiwanese Heritage Week. Home to [[Good-Shepherd-Taiwanese-Presbyterian-Church\|Good Shepherd Taiwanese Presbyterian Church (好牧者)]]
+- **San Gabriel Valley**: Heart of the Taiwanese American community — home to [[Formosan-Presbyterian-Church-Los-Angeles-FPCLA\|FPCLA]], [[Good-Shepherd-Taiwanese-Presbyterian-Church\|Good Shepherd Taiwanese Presbyterian Church]], [[First-Taiwanese-Presbyterian-Church\|First Taiwanese Presbyterian Church]], [[LA-Taiwanese-Cultural-Association-大洛杉磯台灣會館\|LA Taiwanese Cultural Association]], and [[TARSA-Southern-California\|TARSA]]
 
 ### New York Communities
 - **Flushing, Queens**: Main Taiwanese cultural, commercial, and political center in NYC

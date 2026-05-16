@@ -6,10 +6,9 @@
 
 ## Featured
 
-- [[Michelle Wu]] (吳弭, b.1985) — Mayor of Boston
-- [[Andrew Yang]] (楊安澤, b.1975) — Co-Chair, Forward Party
-- [[Jensen Huang]] (b.1963) — Co-founder & CEO, Nvidia
-- [[Lisa Su]] (b.1969) — CEO & Chair, AMD
+- [[Michelle-Wu-吳弭|Michelle Wu (吳弭)]] (b.1985) — Mayor of Boston
+- [[Jensen-Huang-黃仁勳|Jensen Huang (黃仁勳)]] (b.1963) — Co-founder & CEO, NVIDIA
+- [[Lisa-Su-蘇姿丰|Lisa Su (蘇姿丰)]] (b.1969) — CEO & Chair, AMD
 
 ## Community Leaders
 
@@ -22,6 +21,8 @@
 | [[Dr-Bob-Cheng-鄭寶鼎\|Dr. Bob Cheng (鄭寶鼎)]] | Community leader |
 | [[Chen-Zhaojun-陳昭俊\|Chen Zhaojun (陳昭俊)]] | NATPA SoCal president, professor |
 | [[Rev-RH-Chang-張瑞雄\|Rev. R.H. Chang (張瑞雄)]] | Pastor, community leader |
+| [[Rev.-Ming-Yuan-Hsu-許明遠\|Rev. Ming Yuan Hsu (許明遠)]] | Pastor, [[Good-Shepherd-Taiwanese-Presbyterian-Church\|Good Shepherd TPC]], Monterey Park |
+| [[Rev.-Frank-Hsieh-謝信光\|Rev. Frank Hsieh (謝信光)]] | Pastor, [[First-Taiwanese-Presbyterian-Church\|First TPC]], Pasadena; Secretary, [[NTPC]] |
 
 ## Community Founders (LA)
 
