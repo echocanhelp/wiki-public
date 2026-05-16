@@ -12,7 +12,7 @@ description: National umbrella organization uniting Taiwanese Presbyterian churc
 
 # NTPC (美國基督長老教會全國台灣人教會聯合會)
 
-The **National Taiwanese Presbyterian Council** (NTPC, 美國基督長老教會全國台灣人教會聯合會) is the national umbrella organization uniting Taiwanese Presbyterian churches across the United States under the [[organization/PC(USA)]].
+The **National Taiwanese Presbyterian Council** (NTPC, 美國基督長老教會全國台灣人教會聯合會) is the national umbrella organization uniting Taiwanese Presbyterian churches across the United States under the organization/PC(USA).
 
 ## Basic Information
 
@@ -76,5 +76,5 @@ Annual dues: $100 for churches with under 50 weekly attendance; $300 for churche
 ## Related
 
 - [[organization/PC(USA)]]
-- [[NATPA]]
+- [[organization/NATPA-Parent]]
 - [[location/San-Gabriel-Valley-聖蓋博谷|San Gabriel Valley]]

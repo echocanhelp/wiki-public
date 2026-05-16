@@ -104,5 +104,5 @@
 
 ## Related
 
-- [[Taiwanese Americans]]
-- [[TAHS-Profile]]
+- Taiwanese Americans
+- [[organization/TAHS-臺美人文史學會]]

@@ -33,4 +33,4 @@
 
 - [[organizations-taiwanese-americans]]
 - [[notable-taiwanese-americans]]
-- [[TAHS-Profile]]
+- [[organization/TAHS-臺美人文史學會]]

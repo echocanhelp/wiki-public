@@ -15,7 +15,7 @@ tags:
 
 ## Role in the Community
 
-高光民 was listed as one of the founding supporters of the [[organization/Formosan-Presbyterian-Church-Los-Angeles-FPCLA]] (Formosa Presbyterian Church, Los Angeles). He is recognized as one of the early community founders in the Taiwanese American community of Los Angeles.
+高光民 was listed as one of the founding supporters of the organization/Formosan-Presbyterian-Church-Los-Angeles-FPCLA (Formosa Presbyterian Church, Los Angeles). He is recognized as one of the early community founders in the Taiwanese American community of Los Angeles.
 
 ## Key Connections
 

@@ -85,4 +85,4 @@
 ## Related
 
 - [[organizations-taiwanese-americans]]
-- [[TAHS]]
+- [[organization/TAHS-臺美人文史學會]]

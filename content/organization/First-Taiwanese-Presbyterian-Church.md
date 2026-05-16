@@ -13,7 +13,7 @@ description: Taiwanese Presbyterian church in Pasadena, California, affiliated w
 
 # First Taiwanese Presbyterian Church (第一台灣基督長老教會)
 
-**First Taiwanese Presbyterian Church** (第一台灣基督長老教會), abbreviated **FTPC**, is a Taiwanese Presbyterian congregation in Pasadena, California. The church serves the Taiwanese American community in the [[location/San-Gabriel-Valley-聖蓋博谷|San Gabriel Valley]] with worship services in [[Taiwanese language|台語]], Mandarin, and English.
+**First Taiwanese Presbyterian Church** (第一台灣基督長老教會), abbreviated **FTPC**, is a Taiwanese Presbyterian congregation in Pasadena, California. The church serves the Taiwanese American community in the San Gabriel Valley with worship services in [[language/Taiwanese-language-台語|台語]], Mandarin, and English.
 
 ## Basic Information
 
@@ -25,12 +25,12 @@ description: Taiwanese Presbyterian church in Pasadena, California, affiliated w
 - **Worship Languages:** Taiwanese (台語), Mandarin (華語), English
 - **Sunday Service:** 10:30 AM
 - **Presbytery:** San Gabriel Presbytery, [[organization/PC(USA)]]
-- **Affiliation:** [[organization/NTPC]] (美國基督長老教會全國台灣人教會聯合會)
+- **Affiliation:** organization/NTPC (美國基督長老教會全國台灣人教會聯合會)
 
 ## Pastoral Leadership
 
 **Rev. Frank Hsieh (謝信光牧師)** — Current pastor
-- Also serves as Secretary (書記) of [[organization/NTPC]]
+- Also serves as Secretary (書記) of organization/NTPC
 - Phone: (626) 298-2974
 - Email: frankhsieh7@gmail.com
 
@@ -57,7 +57,7 @@ The church maintains a blog at [ftpcusa.com](https://www.ftpcusa.com) with regul
 
 ## Affiliations
 
-FTPC is part of the [[organization/NTPC]] (National Taiwanese Presbyterian Council), which unites Taiwanese Presbyterian churches across the United States under the Presbyterian Church (U.S.A.). The church's pastor, Rev. 謝信光, also serves as NTPC Secretary.
+FTPC is part of the organization/NTPC (National Taiwanese Presbyterian Council), which unites Taiwanese Presbyterian churches across the United States under the Presbyterian Church (U.S.A.). The church's pastor, Rev. 謝信光, also serves as NTPC Secretary.
 
 ## Related
 

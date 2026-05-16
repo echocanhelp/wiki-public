@@ -13,7 +13,7 @@ description: Taiwanese Presbyterian church in Monterey Park, California, serving
 
 # Good Shepherd Taiwanese Presbyterian Church (好牧者臺灣基督長老教會)
 
-**Good Shepherd Taiwanese Presbyterian Church** (好牧者臺灣基督長老教會), abbreviated **GSTPC**, is a Taiwanese Presbyterian congregation in Monterey Park, California. Founded by Taiwanese immigrants and students in Southern California, the church serves the [[location/San-Gabriel-Valley-聖蓋博谷|San Gabriel Valley]] Taiwanese American community with worship in [[Taiwanese language|台語]].
+**Good Shepherd Taiwanese Presbyterian Church** (好牧者臺灣基督長老教會), abbreviated **GSTPC**, is a Taiwanese Presbyterian congregation in Monterey Park, California. Founded by Taiwanese immigrants and students in Southern California, the church serves the San Gabriel Valley Taiwanese American community with worship in [[language/Taiwanese-language-台語|台語]].
 
 ## Basic Information
 
@@ -24,7 +24,7 @@ description: Taiwanese Presbyterian church in Monterey Park, California, serving
 - **Website:** [gstpc.org](https://www.gstpc.org)
 - **Worship Language:** Taiwanese (台語), with Mandarin translation available
 - **Presbytery:** Los Ranchos Presbytery, [[organization/PC(USA)]]
-- **Affiliation:** [[organization/NTPC]] (美國基督長老教會全國台灣人教會聯合會)
+- **Affiliation:** organization/NTPC (美國基督長老教會全國台灣人教會聯合會)
 
 ## Worship Schedule
 
@@ -37,7 +37,7 @@ description: Taiwanese Presbyterian church in Monterey Park, California, serving
 ## Pastoral Leadership
 
 **Rev. Ming Yuan Hsu (許明遠牧師)** — Current pastor (July 2019–Present)
-- Born in [[Tainan]] (台南), Taiwan
+- Born in [[location/Tainan-台南]] (台南), Taiwan
 - Ordained Minister of Word and Sacrament, Los Ranchos Presbytery, PC(USA)
 - Graduated from National Institute of the Arts (國立藝專), majoring in broadcasting and television
 - Former executive producer of television gospel programs in Taiwan
@@ -61,7 +61,7 @@ GSTPC describes itself as a congregation of Taiwanese immigrants and internation
 
 ## Affiliations
 
-GSTPC is part of the [[organization/NTPC]] (National Taiwanese Presbyterian Council), which unites Taiwanese Presbyterian churches across the United States under the Presbyterian Church (U.S.A.). NTPC holds annual conferences — the 51st was held in May 2025 at Houston's Grace Taiwanese Presbyterian Church (恩惠台灣基督長老教會), and the 52nd was held in April 2026 at Atlanta Taiwanese Presbyterian Church (亞特蘭大台灣基督長老教會).
+GSTPC is part of the organization/NTPC (National Taiwanese Presbyterian Council), which unites Taiwanese Presbyterian churches across the United States under the Presbyterian Church (U.S.A.). NTPC holds annual conferences — the 51st was held in May 2025 at Houston's Grace Taiwanese Presbyterian Church (恩惠台灣基督長老教會), and the 52nd was held in April 2026 at Atlanta Taiwanese Presbyterian Church (亞特蘭大台灣基督長老教會).
 
 ## Related
 

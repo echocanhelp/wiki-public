@@ -65,8 +65,8 @@ The 228 Incident's impact on the diaspora was a **key research area of Dr. Alber
 ## Related Entities
 
 - [[person/Albert-S-Lai-賴信雄]]
-- [[Formosa-Betrayed]]
-- [[Taiwanese-American-Identity]]
+- Formosa Betrayed
+- [[concept/Taiwanese-American-Identity]]
 
 ---
 

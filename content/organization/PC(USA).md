@@ -11,7 +11,7 @@ description: The Presbyterian Church (USA), the largest Presbyterian denominatio
 
 # Presbyterian Church (USA) (PC(USA))
 
-The **Presbyterian Church (USA)** is the largest Presbyterian denomination in the United States and the parent body of the [[organization/NTPC|National Taiwanese Presbyterian Council]]. It is a mainline Protestant Christian denomination with approximately 900,000 members and 7,000 congregations.
+The **Presbyterian Church (USA)** is the largest Presbyterian denomination in the United States and the parent body of the National Taiwanese Presbyterian Council. It is a mainline Protestant Christian denomination with approximately 900,000 members and 7,000 congregations.
 
 ## Structure
 
@@ -30,10 +30,10 @@ PC(USA) is organized in a representative democratic form with four governing bod
 
 PC(USA) has a significant Taiwanese American presence through:
 
-- [[organization/NTPC|National Taiwanese Presbyterian Council (NTPC)]] — Represents Taiwanese Presbyterian congregations within PC(USA), uniting approximately 16-42 congregations across the United States
-- **Asian Intercultural Congregation Support Office** — A PC(USA) office dedicated to supporting Asian American ministries, staffed by [[Rev. Ralph Su]]
+- National Taiwanese Presbyterian Council (NTPC) — Represents Taiwanese Presbyterian congregations within PC(USA), uniting approximately 16-42 congregations across the United States
+- **Asian Intercultural Congregation Support Office** — A PC(USA) office dedicated to supporting Asian American ministries, staffed by Rev. Ralph Su
 - **National Asian Presbyterian Women (NAPW)** — Women's ministry within the Asian American Presbyterian community
-- [[organization/NTPC|NTPW]] — Taiwanese Presbyterian Women, the women's ministry affiliate of NTPC
+- NTPW — Taiwanese Presbyterian Women, the women's ministry affiliate of NTPC
 
 ## History
 

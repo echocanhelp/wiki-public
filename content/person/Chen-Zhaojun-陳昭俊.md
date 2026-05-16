@@ -23,9 +23,9 @@ tags:
 ## NATPA South California Chapter
 
 - One of the **5 founding members** of the NATPA (North America Taiwanese Professors' Association) South California Chapter, established **1985**
-- The Ad Hoc Committee consisted of: [[person/Chen-Zhaojun-陳昭俊]], [[person/Jen-Chinbiao-簡錦標]], [[person/Ho-Yuhhsia-何汝諧]], [[person/Hsieh-Chingchih-謝清志]], [[person/Wang-Chiusen-王秋森]]
+- The Ad Hoc Committee consisted of: [[person/Chen-Zhaojun-陳昭俊]], person/Jen-Chinbiao-簡錦標, person/Ho-Yuhhsia-何汝諧, person/Hsieh-Chingchih-謝清志, person/Wang-Chiusen-王秋森
 - Elected **Vice President** of the S Cal Chapter at the founding meeting
-- [[person/Ho-Yuhhsia-何汝諧]] served as the first President; [[person/Hsieh-Chingchih-謝清志]] as Secretary/Treasurer
+- person/Ho-Yuhhsia-何汝諧 served as the first President; person/Hsieh-Chingchih-謝清志 as Secretary/Treasurer
 
 ## Founding Ceremony
 

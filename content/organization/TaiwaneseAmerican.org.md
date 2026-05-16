@@ -52,7 +52,7 @@ The site has covered numerous Taiwanese American figures and events, including:
 
 ## Relationship with TAHS
 
-[TaiwaneseAmerican.org](https://www.taiwaneseamerican.org) and the [[organization/TAHS-臺美人文史學會|Taiwanese American Historical Society (TAHS)]] are separate organizations with complementary missions. TaiwaneseAmerican.org focuses on contemporary community connections and storytelling, while TAHS focuses specifically on historical documentation and archival work.
+[TaiwaneseAmerican.org](https://www.taiwaneseamerican.org) and the Taiwanese American Historical Society (TAHS) are separate organizations with complementary missions. TaiwaneseAmerican.org focuses on contemporary community connections and storytelling, while TAHS focuses specifically on historical documentation and archival work.
 
 ## See Also
 

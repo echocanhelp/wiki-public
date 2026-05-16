@@ -24,9 +24,9 @@ NATPA was established to:
 
 The [[organization/NATPA-South-California-Chapter]] was organized through an Ad Hoc Committee formed in 1984. Key figures in the founding included:
 
-- **Ad Hoc Committee (1984):** [[person/Jen-Chinbiao-簡錦標]] (簡錦標), [[person/Chen-Zhaojun-陳昭俊]] (陳昭俊), [[person/Ho-Yuhhsia-何汝諧]] (何汝諧), [[person/Wang-Chiusen-王秋森]] (王秋森)
-- **First President (1985):** [[person/Ho-Yuhhsia-何汝諧]] (何汝諧)
-- **Secretary/Treasurer:** [[person/Hsieh-Chingchih-謝清志]] (謝清志)
+- **Ad Hoc Committee (1984):** person/Jen-Chinbiao-簡錦標 (簡錦標), person/Chen-Zhaojun-陳昭俊 (陳昭俊), person/Ho-Yuhhsia-何汝諧 (何汝諧), person/Wang-Chiusen-王秋森 (王秋森)
+- **First President (1985):** person/Ho-Yuhhsia-何汝諧 (何汝諧)
+- **Secretary/Treasurer:** person/Hsieh-Chingchih-謝清志 (謝清志)
 
 ## NATPA SoCal Chapter — Key Figures
 

@@ -17,7 +17,7 @@ tags:
 
 ## Role in the Community
 
-何汝諧 was the first president of the [[organization/NATPA-South-California-Chapter]] (North America Taiwanese Professors' Association, Southern California Chapter). He served on the Ad Hoc Committee in 1984 that organized the chapter, alongside [[person/Jen-Chinbiao-簡錦標]], [[person/Chen-Zhaojun-陳昭俊]], and [[person/Wang-Chiusen-王秋森]]. He was elected as the chapter's first president in 1985.
+何汝諧 was the first president of the organization/NATPA-South-California-Chapter (North America Taiwanese Professors' Association, Southern California Chapter). He served on the Ad Hoc Committee in 1984 that organized the chapter, alongside person/Jen-Chinbiao-簡錦標, person/Chen-Zhaojun-陳昭俊, and person/Wang-Chiusen-王秋森. He was elected as the chapter's first president in 1985.
 
 ## Key Connections
 

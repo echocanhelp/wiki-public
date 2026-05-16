@@ -16,7 +16,7 @@ tags:
 
 ## Role in the Community
 
-王秋森 was a founding member of the [[organization/NATPA-South-California-Chapter]] (North America Taiwanese Professors' Association, Southern California Chapter). He served on the Ad Hoc Committee in 1984 that organized the chapter, alongside [[person/Jen-Chinbiao-簡錦標]], [[person/Chen-Zhaojun-陳昭俊]], and [[person/Ho-Yuhhsia-何汝諧]].
+王秋森 was a founding member of the organization/NATPA-South-California-Chapter (North America Taiwanese Professors' Association, Southern California Chapter). He served on the Ad Hoc Committee in 1984 that organized the chapter, alongside person/Jen-Chinbiao-簡錦標, person/Chen-Zhaojun-陳昭俊, and person/Ho-Yuhhsia-何汝諧.
 
 ## Key Connections
 

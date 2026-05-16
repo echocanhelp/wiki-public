@@ -17,9 +17,9 @@ tags:
 
 ## Role in the Community
 
-Rev. 張逢昌 was a Presbyterian minister who served in Taiwan before emigrating to the United States. He founded the [[organization/Formosan-Presbyterian-Church-Los-Angeles-FPCLA]] (Formosa Presbyterian Church, Los Angeles), one of the earliest Taiwanese American religious institutions in Southern California.
+Rev. 張逢昌 was a Presbyterian minister who served in Taiwan before emigrating to the United States. He founded the organization/Formosan-Presbyterian-Church-Los-Angeles-FPCLA (Formosa Presbyterian Church, Los Angeles), one of the earliest Taiwanese American religious institutions in Southern California.
 
-According to historical records connected to the [[person/Sze-ya-Yeh-葉思雅]] family, Rev. 張逢昌 was a key spiritual leader for early Taiwanese immigrants in the Los Angeles area.
+According to historical records connected to the person/Sze-ya-Yeh-葉思雅 family, Rev. 張逢昌 was a key spiritual leader for early Taiwanese immigrants in the Los Angeles area.
 
 ## Key Connections
 

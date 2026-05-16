@@ -66,7 +66,7 @@ Extensive collection of historical photographs documenting Taiwanese American li
 
 - [[person/Albert-S-Lai-賴信雄]]
 - [[person/Dr-Bob-Cheng-鄭寶鼎]]
-- [[taiwaneseamericanhistory-org]]
+- [[organization/TA-Archives-台美史料中心]]
 
 ---
 

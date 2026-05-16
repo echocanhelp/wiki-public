@@ -16,7 +16,7 @@ tags:
 
 ## Role in the Community
 
-謝清志 served as Secretary/Treasurer of the [[organization/NATPA-South-California-Chapter]] (North America Taiwanese Professors' Association, Southern California Chapter). He was part of the founding group that established the chapter in 1984-1985.
+謝清志 served as Secretary/Treasurer of the organization/NATPA-South-California-Chapter (North America Taiwanese Professors' Association, Southern California Chapter). He was part of the founding group that established the chapter in 1984-1985.
 
 ## Key Connections
 

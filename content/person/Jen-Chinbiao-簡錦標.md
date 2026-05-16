@@ -16,7 +16,7 @@ tags:
 
 ## Role in the Community
 
-簡錦標 was a founding member of the [[organization/NATPA-South-California-Chapter]] (North America Taiwanese Professors' Association, Southern California Chapter). He served on the Ad Hoc Committee in 1984 that organized the chapter, alongside [[person/Chen-Zhaojun-陳昭俊]], [[person/Ho-Yuhhsia-何汝諧]], and [[person/Wang-Chiusen-王秋森]].
+簡錦標 was a founding member of the organization/NATPA-South-California-Chapter (North America Taiwanese Professors' Association, Southern California Chapter). He served on the Ad Hoc Committee in 1984 that organized the chapter, alongside person/Chen-Zhaojun-陳昭俊, person/Ho-Yuhhsia-何汝諧, and person/Wang-Chiusen-王秋森.
 
 ## Key Connections
 

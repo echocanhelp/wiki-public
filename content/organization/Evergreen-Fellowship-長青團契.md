@@ -12,7 +12,7 @@ tags:
 
 ## Overview
 
-The Evergreen Fellowship (長青團契) was an elder fellowship group within the [[organization/Formosan-Presbyterian-Church-Los-Angeles-FPCLA]] (Formosa Presbyterian Church, Los Angeles). It provided spiritual community and fellowship for senior members of the congregation.
+The Evergreen Fellowship (長青團契) was an elder fellowship group within the organization/Formosan-Presbyterian-Church-Los-Angeles-FPCLA (Formosa Presbyterian Church, Los Angeles). It provided spiritual community and fellowship for senior members of the congregation.
 
 ## History
 
@@ -22,7 +22,7 @@ The 長青團契 was an important part of FPCLA's community life, providing:
 - Community service opportunities
 - Social activities for the elderly Taiwanese American population
 
-According to historical records, **葉思雅** (Sze-ya Yeh) was a leader of the Evergreen Fellowship and co-founder of [[organization/TARSA-Southern-California]] (Taiwanese American Republican Scholars Association) after her 2009 resignation from NATMA.
+According to historical records, **葉思雅** (Sze-ya Yeh) was a leader of the Evergreen Fellowship and co-founder of organization/TARSA-Southern-California (Taiwanese American Republican Scholars Association) after her 2009 resignation from NATMA.
 
 ## Key Connections
 

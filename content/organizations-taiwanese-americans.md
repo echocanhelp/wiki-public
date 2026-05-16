@@ -55,10 +55,10 @@
 
 ### Presbyterian Churches
 
-- [[organization/NTPC|National Taiwanese Presbyterian Council (NTPC, 美國基督長老教會全國台灣人教會聯合會)]] — National umbrella organization uniting 16 Taiwanese Presbyterian churches across the US under [[organization/PC(USA)]] (c. 1974–present). 52nd annual conference held in 2026.
-- [[organization/Formosan-Presbyterian-Church-Los-Angeles-FPCLA|Formosa Presbyterian Church, Los Angeles]] (FPCLA) — Founded by [[person/Rev-Chang-Feng-Chang-張逢昌|Rev. Chang Feng-Chang]], one of the earliest Taiwanese American religious institutions in Southern California. Founding supporters included [[person/Gao-Guangmin-高光民|Gao Guangmin]], [[person/Wang-Chunxiong-王春雄|Wang Chunxiong]], and [[person/Wu-Zhengyan-吳政彥|Wu Zhengyan]]
-- [[organization/Good-Shepherd-Taiwanese-Presbyterian-Church|Good Shepherd Taiwanese Presbyterian Church (好牧者臺灣基督長老教會)]] — Monterey Park, CA. Founded by Taiwanese immigrants and students. Worship primarily in [[Taiwanese language|台語]]. Current pastor: [[person/Rev.-Ming-Yuan-Hsu-許明遠|Rev. Ming Yuan Hsu (許明遠)]] (2019–present). Member of [[organization/NTPC]].
-- [[organization/First-Taiwanese-Presbyterian-Church|First Taiwanese Presbyterian Church (第一台灣基督長老教會)]] — Pasadena, CA. Multilingual worship (台語/華語/English). Current pastor: [[person/Rev.-Frank-Hsieh-謝信光|Rev. Frank Hsieh (謝信光)]], who also serves as Secretary of [[organization/NTPC]]. Member of [[organization/NTPC]].
+- National Taiwanese Presbyterian Council (NTPC, 美國基督長老教會全國台灣人教會聯合會) — National umbrella organization uniting 16 Taiwanese Presbyterian churches across the US under [[organization/PC(USA)]] (c. 1974–present). 52nd annual conference held in 2026.
+- Formosa Presbyterian Church, Los Angeles (FPCLA) — Founded by Rev. Chang Feng-Chang, one of the earliest Taiwanese American religious institutions in Southern California. Founding supporters included Gao Guangmin, Wang Chunxiong, and Wu Zhengyan
+- Good Shepherd Taiwanese Presbyterian Church (好牧者臺灣基督長老教會) — Monterey Park, CA. Founded by Taiwanese immigrants and students. Worship primarily in 台語. Current pastor: Rev. Ming Yuan Hsu (許明遠) (2019–present). Member of organization/NTPC.
+- First Taiwanese Presbyterian Church (第一台灣基督長老教會) — Pasadena, CA. Multilingual worship (台語/華語/English). Current pastor: Rev. Frank Hsieh (謝信光), who also serves as Secretary of organization/NTPC. Member of organization/NTPC.
 
 ### Other
 
@@ -68,8 +68,8 @@
 ### Presbyterian Churches (San Gabriel Valley)
 
 - [[organization/Formosan-Presbyterian-Church-Los-Angeles-FPCLA|Formosa Presbyterian Church, Los Angeles]] (FPCLA) — Founded by [[person/Rev-Chang-Feng-Chang-張逢昌|Rev. Chang Feng-Chang]], one of the earliest Taiwanese American religious institutions in Southern California. Founding supporters included [[person/Gao-Guangmin-高光民|Gao Guangmin]], [[person/Wang-Chunxiong-王春雄|Wang Chunxiong]], and [[person/Wu-Zhengyan-吳政彥|Wu Zhengyan]]
-- [[organization/Good-Shepherd-Taiwanese-Presbyterian-Church|Good Shepherd Taiwanese Presbyterian Church (好牧者臺灣基督長老教會)]] — Monterey Park, CA. Founded by Taiwanese immigrants and students. Worship in [[Taiwanese language|台語]]. Pastor: [[person/Rev.-Ming-Yuan-Hsu-許明遠|Rev. Ming Yuan Hsu (許明遠)]] (July 2019–present). Member of [[organization/NTPC]].
-- [[organization/First-Taiwanese-Presbyterian-Church|First Taiwanese Presbyterian Church (第一台灣基督長老教會)]] — Pasadena, CA. Multilingual worship (台語/華語/English). Pastor: [[person/Rev.-Frank-Hsieh-謝信光|Rev. Frank Hsieh (謝信光)]] who also serves as [[organization/NTPC]] Secretary. Member of [[organization/NTPC]].
+- [[organization/Good-Shepherd-Taiwanese-Presbyterian-Church|Good Shepherd Taiwanese Presbyterian Church (好牧者臺灣基督長老教會)]] — Monterey Park, CA. Founded by Taiwanese immigrants and students. Worship in [[language/Taiwanese-language-台語|台語]]. Pastor: [[person/Rev.-Ming-Yuan-Hsu-許明遠|Rev. Ming Yuan Hsu (許明遠)]] (July 2019–present). Member of organization/NTPC.
+- [[organization/First-Taiwanese-Presbyterian-Church|First Taiwanese Presbyterian Church (第一台灣基督長老教會)]] — Pasadena, CA. Multilingual worship (台語/華語/English). Pastor: [[person/Rev.-Frank-Hsieh-謝信光|Rev. Frank Hsieh (謝信光)]] who also serves as organization/NTPC Secretary. Member of [[organization/NTPC]].
 
 ## Community Organizations
 
@@ -85,6 +85,6 @@
 
 ## Related
 
-- [[Community Organizations (taiwaneseamerican.org)]]
-- [[TAHS-Profile]]
+- [[community-organizations-tao]]
+- [[organization/TAHS-臺美人文史學會]]
 - [[notable-taiwanese-americans]]
