@@ -12,7 +12,7 @@ tags:
 
 ## Overview
 
-The Evergreen Fellowship (長青團契) was an elder fellowship group within the [[Formosan-Presbyterian-Church-Los-Angeles-FPCLA]] (Formosa Presbyterian Church, Los Angeles). It provided spiritual community and fellowship for senior members of the congregation.
+The Evergreen Fellowship (長青團契) was an elder fellowship group within the [[organization/Formosan-Presbyterian-Church-Los-Angeles-FPCLA]] (Formosa Presbyterian Church, Los Angeles). It provided spiritual community and fellowship for senior members of the congregation.
 
 ## History
 
@@ -22,14 +22,14 @@ The 長青團契 was an important part of FPCLA's community life, providing:
 - Community service opportunities
 - Social activities for the elderly Taiwanese American population
 
-According to historical records, **葉思雅** (Sze-ya Yeh) was a leader of the Evergreen Fellowship and co-founder of [[TARSA-Southern-California]] (Taiwanese American Republican Scholars Association) after her 2009 resignation from NATMA.
+According to historical records, **葉思雅** (Sze-ya Yeh) was a leader of the Evergreen Fellowship and co-founder of [[organization/TARSA-Southern-California]] (Taiwanese American Republican Scholars Association) after her 2009 resignation from NATMA.
 
 ## Key Connections
 
-- [[Sze-ya-Yeh-葉思雅]] (葉思雅) — Leader of Evergreen Fellowship, co-founder of TARSA
-- [[Formosan-Presbyterian-Church-Los-Angeles-FPCLA]] — Parent church
-- [[TARSA-Southern-California]] (Taiwanese American Republican Scholars Association) — Founded after 2009 resignation
-- [[Rev-Chang-Feng-Chang-張逢昌]] (張逢昌) — Founded FPCLA, spiritual father of the fellowship
+- [[person/Sze-ya-Yeh-葉思雅]] (葉思雅) — Leader of Evergreen Fellowship, co-founder of TARSA
+- [[organization/Formosan-Presbyterian-Church-Los-Angeles-FPCLA]] — Parent church
+- [[organization/TARSA-Southern-California]] (Taiwanese American Republican Scholars Association) — Founded after 2009 resignation
+- [[person/Rev-Chang-Feng-Chang-張逢昌]] (張逢昌) — Founded FPCLA, spiritual father of the fellowship
 
 ## Notes
 

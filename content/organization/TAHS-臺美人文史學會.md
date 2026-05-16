@@ -48,7 +48,7 @@ TAHS works alongside [TaiwaneseAmerican.org](https://www.taiwaneseamerican.org),
 
 ## See Also
 
-- [[TA-Archives-台美史料中心|TA Archives (台美史料中心)]]
-- [[TaiwaneseAmerican.org]]
+- [[organization/TA-Archives-台美史料中心|TA Archives (台美史料中心)]]
+- [[organization/TaiwaneseAmerican.org]]
 - [[notable-taiwanese-americans]]
 - [[organizations-taiwanese-americans]]

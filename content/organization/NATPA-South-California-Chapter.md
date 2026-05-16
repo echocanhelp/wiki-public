@@ -49,8 +49,8 @@ At the time of the chapter's establishment (1985), there were **45 active Taiwan
 
 ## Related Entities
 
-- [[Chen-Zhaojun-陳昭俊]]
-- [[Albert-S-Lai-賴信雄]]
+- [[person/Chen-Zhaojun-陳昭俊]]
+- [[person/Albert-S-Lai-賴信雄]]
 
 ---
 

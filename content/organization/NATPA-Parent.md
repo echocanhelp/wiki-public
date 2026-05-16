@@ -22,26 +22,26 @@ NATPA was established to:
 
 ## History
 
-The [[NATPA-South-California-Chapter]] was organized through an Ad Hoc Committee formed in 1984. Key figures in the founding included:
+The [[organization/NATPA-South-California-Chapter]] was organized through an Ad Hoc Committee formed in 1984. Key figures in the founding included:
 
-- **Ad Hoc Committee (1984):** [[Jen-Chinbiao-簡錦標]] (簡錦標), [[Chen-Zhaojun-陳昭俊]] (陳昭俊), [[Ho-Yuhhsia-何汝諧]] (何汝諧), [[Wang-Chiusen-王秋森]] (王秋森)
-- **First President (1985):** [[Ho-Yuhhsia-何汝諧]] (何汝諧)
-- **Secretary/Treasurer:** [[Hsieh-Chingchih-謝清志]] (謝清志)
+- **Ad Hoc Committee (1984):** [[person/Jen-Chinbiao-簡錦標]] (簡錦標), [[person/Chen-Zhaojun-陳昭俊]] (陳昭俊), [[person/Ho-Yuhhsia-何汝諧]] (何汝諧), [[person/Wang-Chiusen-王秋森]] (王秋森)
+- **First President (1985):** [[person/Ho-Yuhhsia-何汝諧]] (何汝諧)
+- **Secretary/Treasurer:** [[person/Hsieh-Chingchih-謝清志]] (謝清志)
 
 ## NATPA SoCal Chapter — Key Figures
 
 The Southern California chapter is the largest and most active, with approximately 100 members:
 
-- [[Chen-Zhaojun-陳昭俊]] (陳昭俊) — NATPA SoCal founding member, later President
-- [[Ho-Yuhhsia-何汝諧]] (何汝諧) — First president of SoCal chapter
-- [[Jen-Chinbiao-簡錦標]] (簡錦標) — SoCal founding committee
-- [[Wang-Chiusen-王秋森]] (王秋森) — SoCal founding committee
-- [[Hsieh-Chingchih-謝清志]] (謝清志) — SoCal Secretary/Treasurer
+- [[person/Chen-Zhaojun-陳昭俊]] (陳昭俊) — NATPA SoCal founding member, later President
+- [[person/Ho-Yuhhsia-何汝諧]] (何汝諧) — First president of SoCal chapter
+- [[person/Jen-Chinbiao-簡錦標]] (簡錦標) — SoCal founding committee
+- [[person/Wang-Chiusen-王秋森]] (王秋森) — SoCal founding committee
+- [[person/Hsieh-Chingchih-謝清志]] (謝清志) — SoCal Secretary/Treasurer
 
 ## Related Organizations
 
-- [[TARSA-Southern-California]] — Similar academic-professional organization (different political orientation)
-- [[Community-Federation-社團聯合會]] — Broader community umbrella
+- [[organization/TARSA-Southern-California]] — Similar academic-professional organization (different political orientation)
+- [[organization/Community-Federation-社團聯合會]] — Broader community umbrella
 
 ## Notes
 

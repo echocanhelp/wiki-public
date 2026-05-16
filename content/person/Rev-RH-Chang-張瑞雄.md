@@ -40,9 +40,9 @@ Rev. Rei-Hsiung Chang (張瑞雄牧師) was a pivotal figure in establishing Tai
 
 ## Related Entities
 
-- [[Albert-S-Lai-賴信雄]]
-- [[Formosan-Presbyterian-Church-Los-Angeles-FPCLA]]
-- [[Sze-ya-Yeh-葉思雅]] (son-in-law)
+- [[person/Albert-S-Lai-賴信雄]]
+- [[organization/Formosan-Presbyterian-Church-Los-Angeles-FPCLA]]
+- [[person/Sze-ya-Yeh-葉思雅]] (son-in-law)
 
 ---
 

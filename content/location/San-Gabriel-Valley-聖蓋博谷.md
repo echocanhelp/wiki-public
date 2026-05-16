@@ -29,19 +29,19 @@ The San Gabriel Valley is one of the most ethnically diverse regions in the Unit
 
 ### Key Taiwanese American Institutions
 
-- [[Good-Shepherd-Taiwanese-Presbyterian-Church|Good Shepherd Taiwanese Presbyterian Church (好牧者)]] — Monterey Park
-- [[First-Taiwanese-Presbyterian-Church|First Taiwanese Presbyterian Church (第一台灣基督長老教會)]] — Pasadena
-- [[Formosan-Presbyterian-Church-Los-Angeles-FPCLA|Formosa Presbyterian Church, Los Angeles (FPCLA)]]
-- [[LA-Taiwanese-Cultural-Association-大洛杉磯台灣會館|LA Taiwanese Cultural Association (大洛杉磯台灣會館)]]
-- [[NTPC|National Taiwanese Presbyterian Council (NTPC)]]
-- [[TARSA-Southern-California|Taiwanese Americans for Repatriation to the Southeast Asia (TARSA)]]
+- [[organization/Good-Shepherd-Taiwanese-Presbyterian-Church|Good Shepherd Taiwanese Presbyterian Church (好牧者)]] — Monterey Park
+- [[organization/First-Taiwanese-Presbyterian-Church|First Taiwanese Presbyterian Church (第一台灣基督長老教會)]] — Pasadena
+- [[organization/Formosan-Presbyterian-Church-Los-Angeles-FPCLA|Formosa Presbyterian Church, Los Angeles (FPCLA)]]
+- [[organization/LA-Taiwanese-Cultural-Association-大洛杉磯台灣會館|LA Taiwanese Cultural Association (大洛杉磯台灣會館)]]
+- [[organization/NTPC|National Taiwanese Presbyterian Council (NTPC)]]
+- [[organization/TARSA-Southern-California|Taiwanese Americans for Repatriation to the Southeast Asia (TARSA)]]
 
 ### Key Cities
 
 - **Monterey Park** — Historic center of the Taiwanese American community, still hosts annual Taiwanese cultural events during Taiwanese Heritage Week
 - **San Gabriel** — Cultural hub with significant Taiwanese business presence
 - **Rowland Heights** — Large Taiwanese residential community
-- **Arcadia** — Home to [[Evergreen-Fellowship-長青團契|Evergreen Fellowship (長青團契)]]
+- **Arcadia** — Home to [[organization/Evergreen-Fellowship-長青團契|Evergreen Fellowship (長青團契)]]
 - **Pasadena** — Home to First Taiwanese Presbyterian Church
 - **Alhambra, Rosemead, Temple City, Hacienda Heights, South Pasadena, Walnut, Diamond Bar, San Marino**
 

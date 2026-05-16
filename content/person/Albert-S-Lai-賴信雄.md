@@ -73,19 +73,19 @@ Dr. Lai's scholarship helped establish the understanding that Taiwanese American
 
 ### FPCLA Founding Circle
 Listed as one of those who "積極參與支持張牧師開拓事工者" (actively participated in supporting Pastor Chang's pioneering ministry) in the Los Angeles Taiwanese American community alongside:
-- [[Rev-RH-Chang-張瑞雄]] — FPCLA founding pastor (张瑞雄牧師)
-- [[Sze-ya-Yeh-葉思雅]] — FPCLA elder, physician, later founded TARSA
-- [[Isaiah-Lee-李宗派]] — Social worker, CSULB professor, gerontologist
-- [[Chen-Zhaojun-陳昭俊]] — NATPA S Cal co-founder and VP
-- [[Hsu-Wen-pin-許文彬]] — Lawyer, CAHR founder
-- [[Gao-Guangmin-高光民]] — Community founder
-- [[Wang-Chunxiong-王春雄]] — Community founder
-- [[Wu-Zhengyan-吳政彥]] — Community founder
+- [[person/Rev-RH-Chang-張瑞雄]] — FPCLA founding pastor (张瑞雄牧師)
+- [[person/Sze-ya-Yeh-葉思雅]] — FPCLA elder, physician, later founded TARSA
+- [[person/Isaiah-Lee-李宗派]] — Social worker, CSULB professor, gerontologist
+- [[person/Chen-Zhaojun-陳昭俊]] — NATPA S Cal co-founder and VP
+- [[person/Hsu-Wen-pin-許文彬]] — Lawyer, CAHR founder
+- [[person/Gao-Guangmin-高光民]] — Community founder
+- [[person/Wang-Chunxiong-王春雄]] — Community founder
+- [[person/Wu-Zhengyan-吳政彥]] — Community founder
 
 ### Academic and Organizational Ties
-- Documented in the [[TA-Archives-台美史料中心]] (founded by [[Dr-Bob-Cheng-鄭寶鼎]])
-- Recipient of the [[Lai-Ho-Memorial-Special-Award]] (1997), named after [[Lai-Ho-賴和]] (1894–1943)
-- Research on the [[228-Incident-二二八事件]] and its impact on diaspora identity
+- Documented in the [[organization/TA-Archives-台美史料中心]] (founded by [[person/Dr-Bob-Cheng-鄭寶鼎]])
+- Recipient of the [[award/Lai-Ho-Memorial-Special-Award]] (1997), named after [[person/Lai-Ho-賴和]] (1894–1943)
+- Research on the [[event/228-Incident-二二八事件]] and its impact on diaspora identity
 
 ## Related Entities
 
@@ -94,9 +94,9 @@ Listed as one of those who "積極參與支持張牧師開拓事工者" (activel
 - [[Asian American Studies]]
 - [[Chinese immigration to Hawaii]]
 - [[Taiwanese American Historical Society]]
-- [[Formosan-Presbyterian-Church-Los-Angeles-FPCLA]]
-- [[NATPA-South-California-Chapter]]
-- [[TARSA-Southern-California]]
+- [[organization/Formosan-Presbyterian-Church-Los-Angeles-FPCLA]]
+- [[organization/NATPA-South-California-Chapter]]
+- [[organization/TARSA-Southern-California]]
 
 ---
 

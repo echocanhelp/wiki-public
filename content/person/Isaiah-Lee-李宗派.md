@@ -47,9 +47,9 @@ tags:
 
 ## Related Entities
 
-- [[Albert-S-Lai-賴信雄]]
-- [[Formosan-Presbyterian-Church-Los-Angeles-FPCLA]]
-- [[NATPA-South-California-Chapter]]
+- [[person/Albert-S-Lai-賴信雄]]
+- [[organization/Formosan-Presbyterian-Church-Los-Angeles-FPCLA]]
+- [[organization/NATPA-South-California-Chapter]]
 
 ---
 

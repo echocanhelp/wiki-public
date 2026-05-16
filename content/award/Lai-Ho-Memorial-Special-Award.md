@@ -33,9 +33,9 @@ Dr. Lai's work on Taiwanese immigration to Hawaii, the 228 Incident's impact on 
 
 ## Related Entities
 
-- [[Albert-S-Lai-賴信雄]]
-- [[Lai-Ho-賴和]]
-- [[Lai-Ho-Cultural-and-Educational-Foundation]]
+- [[person/Albert-S-Lai-賴信雄]]
+- [[person/Lai-Ho-賴和]]
+- [[organization/Lai-Ho-Cultural-and-Educational-Foundation]]
 
 ---
 

@@ -32,7 +32,7 @@ The Taiwan Minpao was established by Taiwanese intellectuals and activists who s
 
 The Taiwan Minpao was a crucial platform for Taiwanese literature. Many of the most important Taiwanese writers of the colonial era published their works in the newspaper, including:
 
-- [[Lai-Ho-賴和]] (Lai Ho, 1894-1943) — Served as **literary editor** (文艺编辑). Lai Ho, known as the "Father of Taiwanese New Literature," used the newspaper to publish his influential short stories, poetry, and essays.
+- [[person/Lai-Ho-賴和]] (Lai Ho, 1894-1943) — Served as **literary editor** (文艺编辑). Lai Ho, known as the "Father of Taiwanese New Literature," used the newspaper to publish his influential short stories, poetry, and essays.
 - Other prominent Taiwanese writers and intellectuals also contributed to the publication
 
 The newspaper's literary section helped define modern Taiwanese literature and established many of the forms and themes that continue to influence Taiwanese writing today.
@@ -51,13 +51,13 @@ The Taiwan Minpao remains one of the most important historical documents of Taiw
 - Scholars of Taiwanese literature
 - Historians of Japanese colonial Taiwan
 - Researchers of Taiwanese language and culture
-- [[Lai-Ho-Cultural-and-Educational-Foundation]] (賴和文教基金會), which preserves and promotes this literary heritage
+- [[organization/Lai-Ho-Cultural-and-Educational-Foundation]] (賴和文教基金會), which preserves and promotes this literary heritage
 
 ## Key Connections
 
-- [[Lai-Ho-賴和]] (賴和) — Literary editor, Father of Taiwanese New Literature
-- [[Lai-Yuehyan-賴悅顏]] (賴悅顏) — Descendant of Lai Ho, founder of Lai Ho Foundation
-- [[Lai-Ho-Cultural-and-Educational-Foundation]] (賴和文教基金會) — Preserves literary heritage of this era
+- [[person/Lai-Ho-賴和]] (賴和) — Literary editor, Father of Taiwanese New Literature
+- [[person/Lai-Yuehyan-賴悅顏]] (賴悅顏) — Descendant of Lai Ho, founder of Lai Ho Foundation
+- [[organization/Lai-Ho-Cultural-and-Educational-Foundation]] (賴和文教基金會) — Preserves literary heritage of this era
 - **Japanese colonial period** (1895-1945) — Historical context
 
 ## Notes

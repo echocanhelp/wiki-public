@@ -43,10 +43,10 @@ TARSA represents an important chapter in the evolution of Taiwanese American com
 
 ## Related Entities
 
-- [[Sze-ya-Yeh-葉思雅]]
-- [[Formosan-Presbyterian-Church-Los-Angeles-FPCLA]]
-- [[Evergreen-Fellowship-長青團契]]
-- [[LA-Taiwanese-Cultural-Association-大洛杉磯台灣會館]]
+- [[person/Sze-ya-Yeh-葉思雅]]
+- [[organization/Formosan-Presbyterian-Church-Los-Angeles-FPCLA]]
+- [[organization/Evergreen-Fellowship-長青團契]]
+- [[organization/LA-Taiwanese-Cultural-Association-大洛杉磯台灣會館]]
 
 ---
 

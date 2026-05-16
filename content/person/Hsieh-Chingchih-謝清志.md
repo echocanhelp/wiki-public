@@ -16,19 +16,19 @@ tags:
 
 ## Role in the Community
 
-謝清志 served as Secretary/Treasurer of the [[NATPA-South-California-Chapter]] (North America Taiwanese Professors' Association, Southern California Chapter). He was part of the founding group that established the chapter in 1984-1985.
+謝清志 served as Secretary/Treasurer of the [[organization/NATPA-South-California-Chapter]] (North America Taiwanese Professors' Association, Southern California Chapter). He was part of the founding group that established the chapter in 1984-1985.
 
 ## Key Connections
 
-- [[Ho-Yuhhsia-何汝諧]] (何汝諧) — First chapter President
-- [[Jen-Chinbiao-簡錦標]] (簡錦標) — Fellow founding committee member
-- [[Wang-Chiusen-王秋森]] (王秋森) — Fellow founding committee member
-- [[Chen-Zhaojun-陳昭俊]] (陳昭俊) — Fellow founding member
+- [[person/Ho-Yuhhsia-何汝諧]] (何汝諧) — First chapter President
+- [[person/Jen-Chinbiao-簡錦標]] (簡錦標) — Fellow founding committee member
+- [[person/Wang-Chiusen-王秋森]] (王秋森) — Fellow founding committee member
+- [[person/Chen-Zhaojun-陳昭俊]] (陳昭俊) — Fellow founding member
 
 ## Affiliated Organizations
 
-- [[NATPA-South-California-Chapter]]
-- [[NATPA-Parent]] (North America Taiwanese Professors' Association)
+- [[organization/NATPA-South-California-Chapter]]
+- [[organization/NATPA-Parent]] (North America Taiwanese Professors' Association)
 
 ## Notes
 

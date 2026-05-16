@@ -6,32 +6,32 @@
 
 ## Featured
 
-- [[Michelle-Wu-吳弭|Michelle Wu (吳弭)]] (b.1985) — Mayor of Boston
-- [[Jensen-Huang-黃仁勳|Jensen Huang (黃仁勳)]] (b.1963) — Co-founder & CEO, NVIDIA
-- [[Lisa-Su-蘇姿丰|Lisa Su (蘇姿丰)]] (b.1969) — CEO & Chair, AMD
+- [[person/Michelle-Wu-吳弭|Michelle Wu (吳弭)]] (b.1985) — Mayor of Boston
+- [[person/Jensen-Huang-黃仁勳|Jensen Huang (黃仁勳)]] (b.1963) — Co-founder & CEO, NVIDIA
+- [[person/Lisa-Su-蘇姿丰|Lisa Su (蘇姿丰)]] (b.1969) — CEO & Chair, AMD
 
 ## Community Leaders
 
 | Name | Notability |
 |------|------------|
-| [[Sze-ya-Yeh-葉思雅\|Sze-ya Yeh (葉思雅)]] | Community leader, TARSA co-founder, Evergreen Fellowship leader |
-| [[Hsu-Wen-pin-許文彬\|Hsu Wen-Pin (許文彬)]] | Lawyer, founder of CAHR, Community Federation president |
-| [[Albert-S-Lai-賴信雄\|Albert S. Lai (賴信雄)]] | Community leader |
-| [[Isaiah-Lee-李宗派\|Isaiah Lee (李宗派)]] | Community leader |
-| [[Dr-Bob-Cheng-鄭寶鼎\|Dr. Bob Cheng (鄭寶鼎)]] | Community leader |
-| [[Chen-Zhaojun-陳昭俊\|Chen Zhaojun (陳昭俊)]] | NATPA SoCal president, professor |
-| [[Rev-RH-Chang-張瑞雄\|Rev. R.H. Chang (張瑞雄)]] | Pastor, community leader |
-| [[Rev.-Ming-Yuan-Hsu-許明遠\|Rev. Ming Yuan Hsu (許明遠)]] | Pastor, [[Good-Shepherd-Taiwanese-Presbyterian-Church\|Good Shepherd TPC]], Monterey Park |
-| [[Rev.-Frank-Hsieh-謝信光\|Rev. Frank Hsieh (謝信光)]] | Pastor, [[First-Taiwanese-Presbyterian-Church\|First TPC]], Pasadena; Secretary, [[NTPC]] |
+| [[person/Sze-ya-Yeh-葉思雅|Sze-ya Yeh (葉思雅)]] | Community leader, TARSA co-founder, Evergreen Fellowship leader |
+| [[person/Hsu-Wen-pin-許文彬|Hsu Wen-Pin (許文彬)]] | Lawyer, founder of CAHR, Community Federation president |
+| [[person/Albert-S-Lai-賴信雄|Albert S. Lai (賴信雄)]] | Community leader |
+| [[person/Isaiah-Lee-李宗派|Isaiah Lee (李宗派)]] | Community leader |
+| [[person/Dr-Bob-Cheng-鄭寶鼎|Dr. Bob Cheng (鄭寶鼎)]] | Community leader |
+| [[person/Chen-Zhaojun-陳昭俊|Chen Zhaojun (陳昭俊)]] | NATPA SoCal president, professor |
+| [[person/Rev-RH-Chang-張瑞雄|Rev. R.H. Chang (張瑞雄)]] | Pastor, community leader |
+| [[person/Rev.-Ming-Yuan-Hsu-許明遠|Rev. Ming Yuan Hsu (許明遠)]] | Pastor, [[organization/Good-Shepherd-Taiwanese-Presbyterian-Church|Good Shepherd TPC]], Monterey Park |
+| [[person/Rev.-Frank-Hsieh-謝信光|Rev. Frank Hsieh (謝信光)]] | Pastor, [[organization/First-Taiwanese-Presbyterian-Church|First TPC]], Pasadena; Secretary, [[organization/NTPC]] |
 
 ## Community Founders (LA)
 
 | Name | Notability |
 |------|------------|
-| [[Rev-Chang-Feng-Chang-張逢昌\|Rev. Chang Feng-Chang (張逢昌)]] | Founder of FPCLA |
-| [[Gao-Guangmin-高光民\|Gao Guangmin (高光民)]] | Founding supporter of FPCLA |
-| [[Wang-Chunxiong-王春雄\|Wang Chunxiong (王春雄)]] | Founding supporter of FPCLA |
-| [[Wu-Zhengyan-吳政彥\|Wu Zhengyan (吳政彥)]] | Founding supporter of FPCLA |
+| [[person/Rev-Chang-Feng-Chang-張逢昌|Rev. Chang Feng-Chang (張逢昌)]] | Founder of FPCLA |
+| [[person/Gao-Guangmin-高光民|Gao Guangmin (高光民)]] | Founding supporter of FPCLA |
+| [[person/Wang-Chunxiong-王春雄|Wang Chunxiong (王春雄)]] | Founding supporter of FPCLA |
+| [[person/Wu-Zhengyan-吳政彥|Wu Zhengyan (吳政彥)]] | Founding supporter of FPCLA |
 
 ## Politics & Government
 

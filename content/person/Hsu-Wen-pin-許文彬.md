@@ -45,10 +45,10 @@ tags:
 
 ## Related Entities
 
-- [[Albert-S-Lai-賴信雄]]
-- [[Formosan-Presbyterian-Church-Los-Angeles-FPCLA]]
-- [[CAHR]]
-- [[Community-Federation-社團聯合會]]
+- [[person/Albert-S-Lai-賴信雄]]
+- [[organization/Formosan-Presbyterian-Church-Los-Angeles-FPCLA]]
+- [[organization/CAHR]]
+- [[organization/Community-Federation-社團聯合會]]
 
 ---
 

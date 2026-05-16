@@ -13,7 +13,7 @@ description: Taiwanese Presbyterian church in Monterey Park, California, serving
 
 # Good Shepherd Taiwanese Presbyterian Church (好牧者臺灣基督長老教會)
 
-**Good Shepherd Taiwanese Presbyterian Church** (好牧者臺灣基督長老教會), abbreviated **GSTPC**, is a Taiwanese Presbyterian congregation in Monterey Park, California. Founded by Taiwanese immigrants and students in Southern California, the church serves the [[San Gabriel Valley]] Taiwanese American community with worship in [[Taiwanese language|台語]].
+**Good Shepherd Taiwanese Presbyterian Church** (好牧者臺灣基督長老教會), abbreviated **GSTPC**, is a Taiwanese Presbyterian congregation in Monterey Park, California. Founded by Taiwanese immigrants and students in Southern California, the church serves the [[location/San-Gabriel-Valley-聖蓋博谷|San Gabriel Valley]] Taiwanese American community with worship in [[Taiwanese language|台語]].
 
 ## Basic Information
 
@@ -23,8 +23,8 @@ description: Taiwanese Presbyterian church in Monterey Park, California, serving
 - **Email:** goodshepherdtpc@gmail.com
 - **Website:** [gstpc.org](https://www.gstpc.org)
 - **Worship Language:** Taiwanese (台語), with Mandarin translation available
-- **Presbytery:** Los Ranchos Presbytery, [[PC(USA)]]
-- **Affiliation:** [[NTPC]] (美國基督長老教會全國台灣人教會聯合會)
+- **Presbytery:** Los Ranchos Presbytery, [[organization/PC(USA)]]
+- **Affiliation:** [[organization/NTPC]] (美國基督長老教會全國台灣人教會聯合會)
 
 ## Worship Schedule
 
@@ -61,12 +61,12 @@ GSTPC describes itself as a congregation of Taiwanese immigrants and internation
 
 ## Affiliations
 
-GSTPC is part of the [[NTPC]] (National Taiwanese Presbyterian Council), which unites Taiwanese Presbyterian churches across the United States under the Presbyterian Church (U.S.A.). NTPC holds annual conferences — the 51st was held in May 2025 at Houston's Grace Taiwanese Presbyterian Church (恩惠台灣基督長老教會), and the 52nd was held in April 2026 at Atlanta Taiwanese Presbyterian Church (亞特蘭大台灣基督長老教會).
+GSTPC is part of the [[organization/NTPC]] (National Taiwanese Presbyterian Council), which unites Taiwanese Presbyterian churches across the United States under the Presbyterian Church (U.S.A.). NTPC holds annual conferences — the 51st was held in May 2025 at Houston's Grace Taiwanese Presbyterian Church (恩惠台灣基督長老教會), and the 52nd was held in April 2026 at Atlanta Taiwanese Presbyterian Church (亞特蘭大台灣基督長老教會).
 
 ## Related
 
-- [[Formosan Presbyterian Church Los Angeles (FPCLA)]]
-- [[First Taiwanese Presbyterian Church (FTPC)]]
-- [[NTPC]]
-- [[San Gabriel Valley]]
-- [[Rev.-Ming-Yuan-Hsu-許明遠]]
+- [[organization/Formosan-Presbyterian-Church-Los-Angeles-FPCLA|Formosan Presbyterian Church Los Angeles (FPCLA)]]
+- [[organization/First-Taiwanese-Presbyterian-Church|First Taiwanese Presbyterian Church (FTPC)]]
+- [[organization/NTPC]]
+- [[location/San-Gabriel-Valley-聖蓋博谷|San Gabriel Valley]]
+- [[person/Rev.-Ming-Yuan-Hsu-許明遠]]

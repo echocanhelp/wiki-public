@@ -54,11 +54,11 @@ Dr. Albert S. Lai received the **賴和紀念特別獎 (Lai Ho Memorial Special 
 
 ## Related Entities
 
-- [[Albert-S-Lai-賴信雄]]
-- [[Lai-Ho-Cultural-and-Educational-Foundation]]
-- [[Lai-Ho-Memorial-Special-Award]]
-- [[Taiwan-Minpao-臺灣民報]]
-- [[Lai-Yuehyan-賴悅顏]]
+- [[person/Albert-S-Lai-賴信雄]]
+- [[organization/Lai-Ho-Cultural-and-Educational-Foundation]]
+- [[award/Lai-Ho-Memorial-Special-Award]]
+- [[publication/Taiwan-Minpao-臺灣民報]]
+- [[person/Lai-Yuehyan-賴悅顏]]
 
 ---
 

@@ -37,8 +37,8 @@ Dr. Cheng's work has become one of the most important resources for Taiwanese Am
 
 ## Related Entities
 
-- [[TA-Archives-台美史料中心]]
-- [[Albert-S-Lai-賴信雄]]
+- [[organization/TA-Archives-台美史料中心]]
+- [[person/Albert-S-Lai-賴信雄]]
 
 ---
 

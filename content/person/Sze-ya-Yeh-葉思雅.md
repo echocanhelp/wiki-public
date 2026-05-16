@@ -56,11 +56,11 @@ tags:
 
 ## Related Entities
 
-- [[Albert-S-Lai-賴信雄]]
-- [[Rev-Chang-Feng-Chang-張逢昌]]
-- [[Formosan-Presbyterian-Church-Los-Angeles-FPCLA]]
-- [[TARSA-Southern-California]]
-- [[Evergreen-Fellowship-長青團契]]
+- [[person/Albert-S-Lai-賴信雄]]
+- [[person/Rev-Chang-Feng-Chang-張逢昌]]
+- [[organization/Formosan-Presbyterian-Church-Los-Angeles-FPCLA]]
+- [[organization/TARSA-Southern-California]]
+- [[organization/Evergreen-Fellowship-長青團契]]
 
 ---
 

@@ -25,8 +25,8 @@ The 會館 (cultural association/clubhouse) model is common in Taiwanese communi
 
 ## Key Connections
 
-- [[TARSA-Southern-California]] (Taiwanese American Republican Scholars Association) — Monthly meetings held here
-- [[Formosan-Presbyterian-Church-Los-Angeles-FPCLA]] — Part of broader Taiwanese American institutional network in LA
+- [[organization/TARSA-Southern-California]] (Taiwanese American Republican Scholars Association) — Monthly meetings held here
+- [[organization/Formosan-Presbyterian-Church-Los-Angeles-FPCLA]] — Part of broader Taiwanese American institutional network in LA
 
 ## Notes
 

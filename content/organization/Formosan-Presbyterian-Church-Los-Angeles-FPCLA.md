@@ -54,28 +54,28 @@ After the turn of the millennium, membership declined as immigration from Taiwan
 ## Key Founders and Early Leaders
 
 Among those who "積極參與支持張牧師開拓事工" (actively participated in supporting Pastor Chang's pioneering ministry):
-- [[Gao-Guangmin-高光民]]
-- [[Chen-Zhaojun-陳昭俊]]
-- [[Sze-ya-Yeh-葉思雅]] (first elder, first choir director 1971–1974)
-- [[Isaiah-Lee-李宗派]]
-- [[Hsu-Wen-pin-許文彬]]
-- [[Wang-Chunxiong-王春雄]]
-- [[Wu-Zhengyan-吳政彥]]
-- [[Albert-S-Lai-賴信雄]]
+- [[person/Gao-Guangmin-高光民]]
+- [[person/Chen-Zhaojun-陳昭俊]]
+- [[person/Sze-ya-Yeh-葉思雅]] (first elder, first choir director 1971–1974)
+- [[person/Isaiah-Lee-李宗派]]
+- [[person/Hsu-Wen-pin-許文彬]]
+- [[person/Wang-Chunxiong-王春雄]]
+- [[person/Wu-Zhengyan-吳政彥]]
+- [[person/Albert-S-Lai-賴信雄]]
 
 ## Related Entities
 
-- [[Rev-RH-Chang-張瑞雄]]
-- [[Rev-Chang-Feng-Chang-張逢昌]]
-- [[Sze-ya-Yeh-葉思雅]]
-- [[Albert-S-Lai-賴信雄]]
-- [[Chen-Zhaojun-陳昭俊]]
-- [[Isaiah-Lee-李宗派]]
-- [[Hsu-Wen-pin-許文彬]]
-- [[Gao-Guangmin-高光民]]
-- [[Wang-Chunxiong-王春雄]]
-- [[Wu-Zhengyan-吳政彥]]
-- [[Evergreen-Fellowship-長青團契]]
+- [[person/Rev-RH-Chang-張瑞雄]]
+- [[person/Rev-Chang-Feng-Chang-張逢昌]]
+- [[person/Sze-ya-Yeh-葉思雅]]
+- [[person/Albert-S-Lai-賴信雄]]
+- [[person/Chen-Zhaojun-陳昭俊]]
+- [[person/Isaiah-Lee-李宗派]]
+- [[person/Hsu-Wen-pin-許文彬]]
+- [[person/Gao-Guangmin-高光民]]
+- [[person/Wang-Chunxiong-王春雄]]
+- [[person/Wu-Zhengyan-吳政彥]]
+- [[organization/Evergreen-Fellowship-長青團契]]
 
 ---
 

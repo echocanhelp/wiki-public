@@ -64,8 +64,8 @@ Extensive collection of historical photographs documenting Taiwanese American li
 
 ## Related Entities
 
-- [[Albert-S-Lai-賴信雄]]
-- [[Dr-Bob-Cheng-鄭寶鼎]]
+- [[person/Albert-S-Lai-賴信雄]]
+- [[person/Dr-Bob-Cheng-鄭寶鼎]]
 - [[taiwaneseamericanhistory-org]]
 
 ---
