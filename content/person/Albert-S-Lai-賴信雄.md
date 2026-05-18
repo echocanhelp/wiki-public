@@ -89,11 +89,11 @@ Listed as one of those who "積極參與支持張牧師開拓事工者" (activel
 
 ## Related Entities
 
-- Taiwanese Americans
-- University of Hawaii at Manoa
-- Asian American Studies
-- Chinese immigration to Hawaii
-- [[organization/TAHS-臺美人文史學會]]
+- [[Taiwanese Americans]]
+- [[University of Hawaii at Manoa]]
+- [[Asian American Studies]]
+- [[Chinese immigration to Hawaii]]
+- [[Taiwanese American Historical Society]]
 - [[organization/Formosan-Presbyterian-Church-Los-Angeles-FPCLA]]
 - [[organization/NATPA-South-California-Chapter]]
 - [[organization/TARSA-Southern-California]]
