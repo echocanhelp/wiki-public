@@ -8,6 +8,8 @@
 **/*.secret
 **/runtime/backups/**/*.env
 echopedia/ingest/**/.env.bak*
+echopedia/ingest/**/profiles/**/auth.json
+echopedia/ingest/**/profiles/**/sessions/
 
 # Python
 __pycache__/
