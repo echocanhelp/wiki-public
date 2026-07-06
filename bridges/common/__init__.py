@@ -1,0 +1,1 @@
+"""Shared bridge utilities for Echo System 3.0."""

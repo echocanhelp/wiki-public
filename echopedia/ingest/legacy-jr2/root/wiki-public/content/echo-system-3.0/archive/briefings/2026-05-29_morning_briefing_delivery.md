@@ -1,0 +1,55 @@
+**Final Delivery Message**
+
+Morning pulse for Leonard: Echo System operational but degraded (health score 20, status 🟠 Autonomous loop degraded). Core services hermes-gateway and echo-autoloop both active at check time. Cron jobs present with recent ok runs; root disk 76% used, memory headroom available. Unresolved signals: public MCP watchdog cron missing, gateway NRestarts=3 with sqlite3.OperationalError disk I/O trace in status, public healthz returned 404, Telegram network warnings (4), and upstream profile blocks (orchestrator, historian, archivist, videoforge, vision) due to missing Codex/xAI OAuth credentials. Content stage completed successfully. No repairs or external effects claimed in this evidence window. Verification-first posture maintained.
+
+**Public-Redacted Summary**
+
+Echo System morning status: running but degraded. Gateway and autoloop active; automation and resources within normal range. Open control-plane signals include missing watchdog cron, gateway restart history, failed public endpoint check, and profile authentication gaps. State recorded only; no fixes asserted.
+
+**Suggested Follow-up**
+
+- Review gateway status logs for disk I/O root cause
+- Run hermes auth / hermes model on blocked profiles
+- Confirm public MCP watchdog cron addition in next cycle
+- Re-check public healthz endpoint after any config changes
+
+**Verification Footer**
+
+Sourced exclusively from SystemPulse.json (collected 2026-05-29T07:00:35.890922-07:00) and upstream artifacts. All statements map directly to provided checks, issues, cautions, and STDERR traces. No file edits performed.
+
+```json
+{
+  "delivery_ready": false,
+  "blocked_reasons": [
+    "public MCP watchdog cron missing",
+    "hermes-gateway NRestarts=3 with sqlite3.OperationalError: disk I/O error",
+    "xAI OAuth access_token and Codex credentials missing for multiple upstream profiles",
+    "public healthz endpoint returned HTTP 404",
+    "Telegram network errors logged (4)"
+  ],
+  "channel": "LINE",
+  "recipient": "Leonard Hsu",
+  "message_markdown": "**Final Delivery Message**\n\nMorning pulse for Leonard: Echo System operational but degraded (health score 20, status 🟠 Autonomous loop degraded). Core services hermes-gateway and echo-autoloop both active at check time. Cron jobs present with recent ok runs; root disk 76% used, memory headroom available. Unresolved signals: public MCP watchdog cron missing, gateway NRestarts=3 with sqlite3.OperationalError disk I/O trace in status, public healthz returned 404, Telegram network warnings (4), and upstream profile blocks (orchestrator, historian, archivist, videoforge, vision) due to missing Codex/xAI OAuth credentials. Content stage completed successfully. No repairs or external effects claimed in this evidence window. Verification-first posture maintained.\n\n**Public-Redacted Summary**\n\nEcho System morning status: running but degraded. Gateway and autoloop active; automation and resources within normal range. Open control-plane signals include missing watchdog cron, gateway restart history, failed public endpoint check, and profile authentication gaps. State recorded only; no fixes asserted.\n\n**Suggested Follow-up**\n\n- Review gateway status logs for disk I/O root cause\n- Run hermes auth / hermes model on blocked profiles\n- Confirm public MCP watchdog cron addition in next cycle\n- Re-check public healthz endpoint after any config changes\n\n**Verification Footer**\n\nSourced exclusively from SystemPulse.json (collected 2026-05-29T07:00:35.890922-07:00) and upstream artifacts. All statements map directly to provided checks, issues, cautions, and STDERR traces. No file edits performed.",
+  "public_summary": "Echo System morning status: running but degraded. Gateway and autoloop active; automation and resources within normal range. Open control-plane signals include missing watchdog cron, gateway restart history, failed public endpoint check, and profile authentication gaps. State recorded only; no fixes asserted.",
+  "follow_up_actions": [
+    "Review gateway status logs for disk I/O root cause",
+    "Run hermes auth / hermes model on blocked profiles",
+    "Confirm public MCP watchdog cron addition in next cycle",
+    "Re-check public healthz endpoint after any config changes"
+  ],
+  "source_refs": [
+    "Evidence.collected_at: 2026-05-29T07:00:35.890922-07:00",
+    "checks.gateway_active.stdout=active",
+    "checks.gateway_restarts_total.stdout=3",
+    "checks.gateway_status.stdout includes sqlite3.OperationalError: disk I/O error",
+    "checks.public_healthz.stderr=curl: (22) ... 404",
+    "issues[0]=public MCP watchdog cron missing",
+    "cautions[0]=hermes-gateway has nonzero restart count",
+    "derived.gateway_log_metrics.telegram_network_errors=4",
+    "upstream_artifacts.orchestrator.STDERR includes AuthError: No Codex credentials stored",
+    "upstream_artifacts.videoforge.STDERR includes AuthError: xAI OAuth state is missing access_token",
+    "pulse.system_health_score=20",
+    "pulse.overall_status=🟠 Autonomous loop degraded"
+  ]
+}
+```

@@ -1,0 +1,29 @@
+{
+  "channel_access_token": "uZXu5lmiWBMH20OX6y6sFbGlL1txKjlpcVrcgWH7V6pVnXunIG9AxqaiNYdB8tETxL2Csg4dEGv1/EOl1Pj0VubtgG3iF8eF2c8L9RJvpKlssZR02n3d9B0cVNH8py5U2csOA5Dz+Gh7I77XqT5OzAdB04t89/1O/w1cDnyilFU=",
+  "channel_secret": "6cb4631100f868a6dc843f055eba3ff8",
+  "profile": "echohsu",
+  "sources": {
+    "Ce8dc1486f31c15ca2864fc8dba927399": {
+      "group_id": "Ce8dc1486f31c15ca2864fc8dba927399",
+      "id": "Ce8dc1486f31c15ca2864fc8dba927399",
+      "last_event_type": "memberJoined",
+      "last_seen_at": "2026-05-11T00:05:37.692684+00:00",
+      "source_type": "group"
+    },
+    "U0f32fb11347263a3fc985718caffbdd7": {
+      "display_name": "Leonard Hsu Junior",
+      "group_id": "Ce8dc1486f31c15ca2864fc8dba927399",
+      "id": "U0f32fb11347263a3fc985718caffbdd7",
+      "language": "en",
+      "last_event_type": "message",
+      "last_message_id": "614489101194494191",
+      "last_message_type": "image",
+      "last_seen_at": "2026-05-18T09:09:10.997697+00:00",
+      "picture_url": "https://profile.line-scdn.net/0m034423467251f063894de95d8341e311e94ad1debf50",
+      "source_type": "user",
+      "status_message": "Main line",
+      "user_id": "U0f32fb11347263a3fc985718caffbdd7"
+    }
+  },
+  "updated_at": "2026-05-18T09:09:10.997890+00:00"
+}

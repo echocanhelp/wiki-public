@@ -1,0 +1,78 @@
+{
+  "render_ready": false,
+  "blocked_reasons": [
+    "Historian media gate CLOSED — zero verified historical entities at 3+ star verification",
+    "Content agent script marked video_ready: false — meta-narrative about system status, not historical content",
+    "VideoForge executor blocked since 2026-05-13 (exit code 1) — requires model topology restoration",
+    "No portrait images or verified physical descriptions available for any entity",
+    "EchoHsu delivery stage also blocked since 2026-05-13"
+  ],
+  "output_basename": "echo-system-status-2026-05-14.mp4",
+  "scenes": [
+    {
+      "slug": "hook_health_score",
+      "visual": "Dark terminal screen, blinking prompt. Text overlay: 'Health Score: 20/100'",
+      "voiceover": "Every great archive starts with a question: what happens when the storytellers go silent?"
+    },
+    {
+      "slug": "diagnosis_pipeline",
+      "visual": "System dashboard view — services listed, some green, some red. Camera pans across agent pipeline showing 6 OK, 3 blocked.",
+      "voiceover": "Six diagnostic agents ran this morning. Three downstream stages have been blocked for over a day. The root cause: a model topology that drifted from frontier AI to a single local engine."
+    },
+    {
+      "slug": "bottleneck_zero_content",
+      "visual": "Flow diagram showing data pipeline stopping at Content stage with red X mark.",
+      "voiceover": "The Historian agent executed cleanly but found zero historical entities. The Archivist synchronized but had nothing new to archive. Without verified stories, there is nothing to produce."
+    },
+    {
+      "slug": "recovery_plan",
+      "visual": "Three cards appear sequentially: 'Restore Frontier Models', 'Restore MCP Server', 'Automate Lifecycle Management'.",
+      "voiceover": "Three recovery proposals have been approved. Restoring the tiered model topology could lift health from 20 to 70. But execution requires human hands."
+    },
+    {
+      "slug": "stakes_resource_pressure",
+      "visual": "Clock ticking, disk usage bar growing. Text overlay: '80% disk in ~3 days'",
+      "voiceover": "Disk at 50 percent and climbing. Memory stores saturated. The system is surviving, but every day without recovery tightens the margin for error."
+    },
+    {
+      "slug": "closing_mission",
+      "visual": "Fade to Echo System logo with tagline.",
+      "voiceover": "This is the infrastructure behind the stories of Taiwanese American history. Recovery begins with a single command."
+    }
+  ],
+  "asset_requirements": [
+    "System dashboard screenshot for Scene 2 visual reference",
+    "Pipeline flow diagram for Scene 3",
+    "Echo System logo for Scene 6 closing frame",
+    "Terminal/CLI aesthetic overlay for all scenes",
+    "Ambient background music track (tension to resolution mood)",
+    "Grok Imagine Video API access for text-to-video clip generation",
+    "Grok TTS or cloned voice for voiceover narration",
+    "ffmpeg for clip stitching, subtitle burning, music mixing, end screen"
+  ],
+  "delivery_checklist": [
+    "Await Historian gate OPEN with >= 1 verified handle at 3+ stars",
+    "Await Content agent video_ready: true with approved historical script",
+    "Await model topology restoration (Evolver Proposal #1)",
+    "Generate clips via Grok Imagine Video (6 scenes x ~10s each)",
+    "Download clips to /root/echo_system/render/2026-05-14/",
+    "Generate voiceover via Grok TTS",
+    "ffmpeg: stitch clips, add voiceover, burn subtitles, add background music",
+    "Add end screen with 'Source: TAHS Wiki — verified [level] star'",
+    "Upload final MP4 to Google Drive /Echo_System/Videos/2026-05-14/",
+    "Append delivery confirmation to SystemPulse.json"
+  ],
+  "source_refs": [
+    "SystemPulse.json (2026-05-14T06:15:14-07:00) — system health score 20/100, agent statuses",
+    "historian.gate.json — approved_for_media: false, verified_handles_count: 0",
+    "archivist.plan.json — 4 deferred items, no wiki updates, no new entities",
+    "content manifest — video_ready: false, Media Approval DENIED",
+    "videoforge agent status — exit_code: 1, executor_status: blocked since 2026-05-13",
+    "echohsu agent status — exit_code: 1, executor_status: blocked since 2026-05-13",
+    "hermes profile list — all 13 profiles on local Qwen3.6-27B-FP8",
+    "Evolver proposals — 3 approved (restore frontier models, restore MCP, automate lifecycle)",
+    "Deployment reality audit — 9 drift items detected"
+  ],
+  "valid": true,
+  "errors": []
+}

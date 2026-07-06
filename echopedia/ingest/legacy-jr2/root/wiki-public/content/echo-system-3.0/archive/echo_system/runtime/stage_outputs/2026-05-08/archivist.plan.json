@@ -1,0 +1,55 @@
+{
+  "private_wiki_updates": [
+    {
+      "title": "Echo System Operational State - 2026-05-08 PT Morning Verification",
+      "body_markdown": "## Verified State\n- Evidence collected at `2026-05-08T23:46:58.050646-07:00`.\n- `hermes-gateway` direct check was `active`; `systemctl status` shows running since `2026-05-09 04:48:07 UTC`.\n- `hermes-gateway` restart counter was `0`.\n- Public health check for `https://bucked-diabetes-shucking.ngrok-free.dev/healthz` returned `ok`.\n- Active cron watchdogs listed with last run `ok`: `public-hermes-mcp-watchdog`, `gateway-platform-ownership-watchdog`.\n- Root disk usage reported `41%` (`20G` total, `7.6G` used, `11G` free).\n- Direct memory sample reported `Mem: 2048 total / 1175 used / 332 free / 539 buff-cache / 872 available`.\n\n## Contradictions and Cautions\n- `echo-autoloop` state is contradictory in supplied evidence:\n  - direct check: `inactive`\n  - pulse summary: `active`\n- Gateway log cautions in evidence:\n  - secret redaction disabled warning present\n  - Telegram network/protocol errors with reconnect attempts\n\n## Verification Boundary\n- No repair execution is evidenced for this cycle.\n- No consent artifact is supplied.\n- Downstream completion beyond the provided artifacts should not be asserted from this bundle alone.\n\n## Historian Gate\n- Historian artifact allows limited public reuse of operational facts only.\n- Media approval remains blocked.",
+      "source_refs": [
+        "evidence.checks.gateway_active",
+        "evidence.checks.gateway_status",
+        "evidence.checks.gateway_restarts_total",
+        "evidence.checks.public_healthz",
+        "evidence.checks.cron_list",
+        "evidence.checks.disk_root",
+        "evidence.checks.memory",
+        "evidence.checks.autoloop_active",
+        "evidence.pulse.services.echo-autoloop",
+        "evidence.cautions",
+        "evidence.derived.gateway_log_metrics",
+        "evidence.upstream_artifacts.historian"
+      ]
+    }
+  ],
+  "public_wiki_safe_items": [
+    {
+      "title": "Operational facts potentially safe for public informational reuse",
+      "notes": [
+        "Gateway active at collection time",
+        "Public health endpoint returned ok",
+        "Two watchdog cron jobs active with last run ok",
+        "Root disk usage reported at 41 percent"
+      ]
+    },
+    {
+      "title": "Required caveat",
+      "notes": [
+        "Any mention of autonomous loop health must preserve the unresolved echo-autoloop contradiction"
+      ]
+    }
+  ],
+  "deferred_items": [
+    "Resolve the contradiction between direct `echo-autoloop` check (`inactive`) and pulse summary (`active`).",
+    "Obtain later-cycle evidence before recording any repair, remediation, or downstream completion.",
+    "Obtain consent/release evidence before allowing media reuse.",
+    "Re-verify whether secret redaction was re-enabled before recording improved security status.",
+    "Reassess Telegram error frequency in later evidence before stating a persistent trend."
+  ],
+  "redaction_notes": [
+    "No consent artifact was supplied in the evidence bundle.",
+    "Secret redaction disabled warning indicates elevated handling sensitivity.",
+    "Do not publish secrets, tokens, or log-derived sensitive details.",
+    "Do not claim external sync success, repairs, or downstream completion without direct receipts.",
+    "Media reuse remains blocked per the supplied Historian artifact."
+  ],
+  "valid": true,
+  "errors": []
+}

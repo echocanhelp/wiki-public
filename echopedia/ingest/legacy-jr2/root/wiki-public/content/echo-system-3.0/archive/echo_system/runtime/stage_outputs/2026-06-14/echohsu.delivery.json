@@ -1,0 +1,36 @@
+{
+  "delivery_ready": true,
+  "blocked_reasons": [],
+  "channel": "staged-only",
+  "recipient": "Leonard",
+  "message_markdown": "Leonard — Echo System morning delivery package for 2026-06-14 PT is staged, not sent.\n\nCurrent evidence shows the autonomous loop is degraded but still running:\n\n- `hermes-gateway`: active\n- `echo-autoloop`: active\n- Root disk: 73% used\n- Memory: 4096 MB total, 2166 MB available\n- Gateway restart count: 5\n- Autoloop restart count: 0 in the fresh runtime check\n- Public `/healthz`: returned 404 at the ngrok URL\n- Active issue: public MCP watchdog cron missing\n- Active caution: hermes-gateway has nonzero restart count\n\nMain operational risk is the gateway kanban dispatcher repeatedly reporting that `/root/.hermes/kanban.db` is not a valid SQLite database, causing dispatch for the default board to pause.\n\nMedia/vision lanes remain blocked by profile/provider evidence:\n- `videoforge`: exit 1, missing xAI OAuth access token\n- `vision`: exit 1, missing xAI OAuth access token\n- `content`: returned empty content after retries\n\nNo repairs or outbound delivery are evidenced in this package.",
+  "public_summary": "Echo System is online but degraded. Core services are active, but workflow dispatch is partially blocked by an invalid kanban database, the public health endpoint is not returning healthy, the public MCP watchdog cron is missing, and some media/vision lanes are blocked by authentication/provider state. No external delivery confirmation is present.",
+  "follow_up_actions": [
+    "Repair or restore `/root/.hermes/kanban.db`, then restart/verify the gateway.",
+    "Re-check the public ngrok `/healthz` route because the fresh probe returned 404.",
+    "Add or restore the missing public MCP watchdog cron.",
+    "Re-authenticate the affected xAI-backed profiles before retrying `videoforge` or `vision`.",
+    "Re-run the autonomous loop health pulse after the above checks."
+  ],
+  "source_refs": [
+    "Evidence collected_at: 2026-06-14T07:00:40.360505-07:00",
+    "Fresh check: systemctl --user is-active hermes-gateway -> active",
+    "Fresh check: systemctl --user is-active echo-autoloop -> active",
+    "Fresh check: systemctl --user status hermes-gateway --no-pager -> repeated kanban.db invalid SQLite dispatcher errors",
+    "Fresh check: systemctl --user show hermes-gateway -p NRestarts --value -> 5",
+    "Fresh check: systemctl --user show echo-autoloop -p NRestarts --value -> 0",
+    "Fresh check: df -h / -> /dev/loop0 20G total, 14G used, 5.2G free, 73% used",
+    "Fresh check: free -m -> 4096 MB total, 2166 MB available",
+    "Fresh check: hermes cron list -> active jobs listed; public MCP watchdog not present in issues",
+    "Fresh check: hermes profile list -> default, archivist, audioforge, echohsu, orchestrator running; several profiles stopped",
+    "Fresh check: ss -ltnp | grep -E ':8079|:8080|:8090' -> 8080 and 8090 listening; 8079 not shown",
+    "Fresh check: curl https://bucked-diabetes-shucking.ngrok-free.dev/healthz -> HTTP 404",
+    "Upstream artifact: orchestrator 2026-06-14T05:00:42.383489-07:00",
+    "Upstream artifact: content 2026-06-14T06:00:16.006625-07:00",
+    "Upstream artifact: videoforge 2026-06-14T06:30:34.996416-07:00",
+    "Upstream artifact: vision 2026-06-14T06:45:40.348900-07:00",
+    "SystemPulse timestamp: 2026-06-14T06:45:40.349173-07:00"
+  ],
+  "valid": true,
+  "errors": []
+}

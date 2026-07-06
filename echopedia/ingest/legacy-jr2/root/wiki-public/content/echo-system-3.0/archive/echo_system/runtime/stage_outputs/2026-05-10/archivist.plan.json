@@ -1,0 +1,56 @@
+{
+  "private_wiki_updates": [
+    {
+      "title": "Echo System Morning Operational State - 2026-05-10",
+      "body_markdown": "## Verified Morning Snapshot\n- Evidence collected: `2026-05-10T05:30:29.750281-07:00`\n- `hermes-gateway`: `active`\n- `echo-autoloop`: `active`\n- Public health check: `/healthz -> ok`\n- Listening ports evidenced: `8079`, `8080`, `8090`\n- Root disk usage: `43%`\n- Memory snapshot line: `Mem: 2048 total / 908 used / 1109 available`\n- Active cron jobs evidenced: `public-hermes-mcp-watchdog`, `gateway-platform-ownership-watchdog`, `echo-system-docs-daily-sync`, `echo-system-deployment-reality-audit`\n- Live caution: `hermes-gateway` nonzero restart count (`2` in live evidence)\n\n## Qualified Warning Evidence\nGateway status output includes warnings about failed context-summary generation, auxiliary compression fallback failure, summary timeout, and unsupported Telegram `/health` slash command.\n\n## Reconciliation Notes\nDo not treat the following as canonical without same-time reconciliation:\n- gateway restart count differs across evidence layers\n- loop topology differs between `SystemPulse` summary and `EnvironmentOracle` wired-stage statement\n- running profile state differs between pulse summary and live profile list\n\n## Repair Claim Boundary\nNo explicit human or agent repair is evidenced. The evidence supports only that `hermes-gateway.service` failed earlier and was restarted by systemd, after which it was active at collection time.",
+      "source_refs": [
+        "evidence.checks.gateway_active",
+        "evidence.checks.autoloop_active",
+        "evidence.checks.public_healthz",
+        "evidence.checks.ports",
+        "evidence.checks.disk_root",
+        "evidence.checks.memory",
+        "evidence.checks.cron_list",
+        "evidence.checks.gateway_status",
+        "evidence.derived.gateway_restarts_total",
+        "/root/echo_system/system_pulse/SystemPulse.json",
+        "/root/echo_system/environment/EnvironmentOracle.json",
+        "evidence.upstream_artifacts.historian",
+        "evidence.upstream_artifacts.orchestrator"
+      ]
+    },
+    {
+      "title": "Echo System Evidence Reconciliation Queue - 2026-05-10 Morning",
+      "body_markdown": "## Items Requiring Reconciliation Before Canonicalization\n1. Gateway restart history: `SystemPulse` service block shows `restarts_total: 0`, while newer live evidence shows `NRestarts: 2`.\n2. Autonomous loop topology: `SystemPulse` summary includes downstream stages through `echohsu`, while `EnvironmentOracle` evidence says wired self-management stages are `sentinel`, `healer`, `evolver`, `orchestrator`.\n3. Running profile state: pulse profile summary and live `hermes profile list` do not fully match.\n\n## Publication Boundary\nUntil reconciled, these fields should remain internal-only and should not be promoted as settled public facts.",
+      "source_refs": [
+        "/root/echo_system/system_pulse/SystemPulse.json",
+        "/root/echo_system/environment/EnvironmentOracle.json",
+        "evidence.checks.gateway_restarts_total",
+        "evidence.checks.profiles",
+        "evidence.upstream_artifacts.historian"
+      ]
+    }
+  ],
+  "public_wiki_safe_items": [
+    "Informational only for Phase 1: gateway active at collection time.",
+    "Informational only for Phase 1: autoloop active at collection time.",
+    "Informational only for Phase 1: public health endpoint returned `ok` at collection time.",
+    "Informational only for Phase 1: listening ports evidenced on 8079, 8080, and 8090.",
+    "Informational only for Phase 1: root disk usage was about 43 percent.",
+    "Informational only for Phase 1: no active issues were listed in the current evidence bundle."
+  ],
+  "deferred_items": [
+    "Reconcile gateway restart-count drift across evidence layers before canonical graph or wiki promotion.",
+    "Reconcile autonomous-loop stage list in SystemPulse against EnvironmentOracle wired-stage evidence.",
+    "Reconcile pulse profile summary against live `hermes profile list` state.",
+    "Do not archive any claim that a human or agent repaired the system today; only systemd restart/recovery is evidenced.",
+    "Do not advance this evidence set into narrative media or cultural storytelling without separate consent-bearing and historical sources."
+  ],
+  "redaction_notes": [
+    "Operational telemetry only; no personal, medical, financial, family, or cultural-history data should be inferred from this bundle.",
+    "No consent evidence was supplied for promotional or narrative reuse beyond technical status reporting.",
+    "Conflicting fields should be kept private until reconciled and should not appear as settled public facts."
+  ],
+  "valid": true,
+  "errors": []
+}

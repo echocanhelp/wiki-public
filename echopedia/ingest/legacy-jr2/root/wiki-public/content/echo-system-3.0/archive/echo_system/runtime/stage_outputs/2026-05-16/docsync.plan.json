@@ -1,0 +1,11 @@
+{
+  "valid": false,
+  "errors": [
+    "No JSON block found in docsync output"
+  ],
+  "drift_items": [],
+  "auto_fix_safe": [],
+  "approval_gated": [],
+  "missing_docs": [],
+  "stale_refs": []
+}

@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "stage": "archivist",
+  "timestamp": "2026-05-27T05:31:30.144004-07:00",
+  "artifact_path": "/root/echo_system/runtime/stage_outputs/2026-05-27/archivist.md",
+  "status": "executed",
+  "success": true,
+  "blocked": false,
+  "actions_attempted": [
+    {
+      "type": "google_docs_create",
+      "target": "private_wiki",
+      "input_ref": "Echo System Morning Runtime Verification — 2026-05-27 (PT)"
+    },
+    {
+      "type": "google_docs_create",
+      "target": "private_wiki",
+      "input_ref": "Public Health Endpoint Contract Observation — /healthz Returned 404"
+    },
+    {
+      "type": "google_docs_create",
+      "target": "private_wiki",
+      "input_ref": "Open Governance Issue — Public MCP Watchdog Cron Missing"
+    },
+    {
+      "type": "public_wiki_write",
+      "target": "github_pages",
+      "slug": "event/echo-system-morning-runtime-verification-2026-05-27-pt",
+      "input_ref": "Echo System Morning Runtime Verification — 2026-05-27 (PT)"
+    },
+    {
+      "type": "public_wiki_write",
+      "target": "github_pages",
+      "slug": "topic/public-health-endpoint-contract-observation-healthz-returned-404",
+      "input_ref": "Public Health Endpoint Contract Observation — /healthz Returned 404"
+    },
+    {
+      "type": "public_wiki_write",
+      "target": "github_pages",
+      "slug": "topic/open-governance-issue-public-mcp-watchdog-cron-missing",
+      "input_ref": "Open Governance Issue — Public MCP Watchdog Cron Missing"
+    }
+  ],
+  "external_handles": [
+    {
+      "type": "google_doc",
+      "id": "1Ffd8mqvZ7sOanRK0lRV92F-YKxYsMmmn2Qibr6tHFGY",
+      "title": "Echo System Morning Runtime Verification — 2026-05-27 (PT)",
+      "url": "https://docs.google.com/document/d/1Ffd8mqvZ7sOanRK0lRV92F-YKxYsMmmn2Qibr6tHFGY/edit?usp=drivesdk"
+    },
+    {
+      "type": "google_doc",
+      "id": "1_Z0NTrR-_Wo_TPeRmsWDXPiyT9M881-g2uAy0IwCfIU",
+      "title": "Public Health Endpoint Contract Observation — /healthz Returned 404",
+      "url": "https://docs.google.com/document/d/1_Z0NTrR-_Wo_TPeRmsWDXPiyT9M881-g2uAy0IwCfIU/edit?usp=drivesdk"
+    },
+    {
+      "type": "google_doc",
+      "id": "1vSpGVpk8dss1jImFHEm0fJuvX-F1v4H3Gw8Sfb4vnb8",
+      "title": "Open Governance Issue — Public MCP Watchdog Cron Missing",
+      "url": "https://docs.google.com/document/d/1vSpGVpk8dss1jImFHEm0fJuvX-F1v4H3Gw8Sfb4vnb8/edit?usp=drivesdk"
+    }
+  ],
+  "verification": [
+    {
+      "method": "read_back",
+      "ok": true,
+      "details": "Verified Google Doc create for Echo System Morning Runtime Verification — 2026-05-27 (PT)"
+    },
+    {
+      "method": "read_back",
+      "ok": true,
+      "details": "Verified Google Doc create for Public Health Endpoint Contract Observation — /healthz Returned 404"
+    },
+    {
+      "method": "read_back",
+      "ok": true,
+      "details": "Verified Google Doc create for Open Governance Issue — Public MCP Watchdog Cron Missing"
+    },
+    {
+      "method": "file_write",
+      "ok": true,
+      "details": "Wrote public wiki file: event/echo-system-morning-runtime-verification-2026-05-27-pt"
+    },
+    {
+      "method": "file_write",
+      "ok": true,
+      "details": "Wrote public wiki file: topic/public-health-endpoint-contract-observation-healthz-returned-404"
+    },
+    {
+      "method": "file_write",
+      "ok": true,
+      "details": "Wrote public wiki file: topic/open-governance-issue-public-mcp-watchdog-cron-missing"
+    }
+  ],
+  "warnings": [],
+  "errors": [],
+  "published_private_docs": 3,
+  "published_public_wiki_items": 0
+}

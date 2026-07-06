@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-05-10T06:01:36.560146-07:00",
+  "executive_summary": "As of the verified morning snapshot on 2026-05-10 PT, the Echo System was live, externally reachable, and showed no active issues in the current evidence bundle. Hermes-gateway and echo-autoloop were both active, the public /healthz endpoint returned ok, and listeners were evidenced on ports 8079, 8080, and 8090. The main caution is a nonzero hermes-gateway restart count of 2 plus warning lines in service status output. Broader narrative media is not approved from this evidence set; only a narrow technical recap is supported.",
+  "video_ready": false,
+  "script": "Internal-use operational recap only. Hook: At 6:00 AM Pacific, the Echo System is already online. Beat 1: hermes-gateway and echo-autoloop are active. Beat 2: the public health endpoint returns ok and ports 8079, 8080, and 8090 are listening. Beat 3: watchdog and sync jobs are scheduled and recently ok. Beat 4: caution that hermes-gateway shows 2 restarts and warning lines in status output. Close: the verified story is live, reachable, and monitored, while unresolved evidence conflicts remain under review.",
+  "scenes": [
+    {
+      "slug": "hook-public-edge",
+      "visual": "Dark terminal morning telemetry with the public ngrok health endpoint returning ok.",
+      "voiceover": "At 6:00 AM Pacific, the Echo System is already online."
+    },
+    {
+      "slug": "services-active",
+      "visual": "Status cards showing hermes-gateway active and echo-autoloop active.",
+      "voiceover": "The gateway is active. The autonomous loop is active."
+    },
+    {
+      "slug": "reachability",
+      "visual": "Simple network map highlighting listeners on 8079, 8080, and 8090, then the public endpoint.",
+      "voiceover": "From local listeners to the public edge, the morning check shows reachable infrastructure."
+    },
+    {
+      "slug": "automation-watchdogs",
+      "visual": "Scheduler cards for watchdog, sync, and audit jobs with recent ok markers.",
+      "voiceover": "Watchdogs and scheduled jobs remain in motion across the morning cycle."
+    },
+    {
+      "slug": "qualified-caution",
+      "visual": "Amber caution badge over service logs reading gateway restarts: 2 with warning snippets behind it.",
+      "voiceover": "The main caution is not an outage, but qualified stability: the gateway shows two restarts and warning churn."
+    },
+    {
+      "slug": "evidence-boundary-close",
+      "visual": "Split frame of verified facts on one side and unresolved fields on the other, ending on the public URL.",
+      "voiceover": "Live, reachable, and monitored — but still careful not to claim more than the evidence proves."
+    }
+  ],
+  "subtitle_text": "Echo System Morning Brief • 2026-05-10 PT • gateway active • autoloop active • healthz ok • ports 8079 8080 8090 • caution: gateway restarts 2",
+  "asset_requirements": [
+    "Terminal-style motion background",
+    "Clean system status overlays for hermes-gateway and echo-autoloop",
+    "Network diagram graphic for ports 8079, 8080, 8090",
+    "Scheduler/job cards for watchdogs and audits",
+    "Amber caution badge for nonzero restart count",
+    "On-screen source footer with evidence reference labels"
+  ],
+  "source_refs": [
+    "evidence.collected_at",
+    "evidence.checks.gateway_active",
+    "evidence.checks.autoloop_active",
+    "evidence.checks.public_healthz",
+    "evidence.checks.ports",
+    "evidence.checks.cron_list",
+    "evidence.checks.gateway_restarts_total",
+    "evidence.checks.gateway_status",
+    "evidence.checks.disk_root",
+    "evidence.issues",
+    "evidence.derived.issue_count",
+    "evidence.cautions",
+    "evidence.upstream_artifacts.historian",
+    "evidence.upstream_artifacts.archivist",
+    "evidence.pulse"
+  ]
+}

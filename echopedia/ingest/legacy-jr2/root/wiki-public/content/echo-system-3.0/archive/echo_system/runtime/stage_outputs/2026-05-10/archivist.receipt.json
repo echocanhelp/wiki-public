@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "stage": "archivist",
+  "timestamp": "2026-05-10T05:31:23.478547-07:00",
+  "artifact_path": "/root/echo_system/runtime/stage_outputs/2026-05-10/archivist.md",
+  "status": "executed",
+  "success": true,
+  "blocked": false,
+  "actions_attempted": [
+    {
+      "type": "google_docs_create",
+      "target": "private_wiki",
+      "input_ref": "Echo System Morning Operational State - 2026-05-10"
+    },
+    {
+      "type": "google_docs_create",
+      "target": "private_wiki",
+      "input_ref": "Echo System Evidence Reconciliation Queue - 2026-05-10 Morning"
+    }
+  ],
+  "external_handles": [
+    {
+      "type": "google_doc",
+      "id": "1lYkMAsj_OqAHDIktdS2Mn2QllzB6U3y_3k3kPs6hV-I",
+      "title": "Echo System Morning Operational State - 2026-05-10",
+      "url": "https://docs.google.com/document/d/1lYkMAsj_OqAHDIktdS2Mn2QllzB6U3y_3k3kPs6hV-I/edit?usp=drivesdk"
+    },
+    {
+      "type": "google_doc",
+      "id": "1Y6SEKFBhng9WP0O66WnT4XvW1AC307p236eU7ewzaGQ",
+      "title": "Echo System Evidence Reconciliation Queue - 2026-05-10 Morning",
+      "url": "https://docs.google.com/document/d/1Y6SEKFBhng9WP0O66WnT4XvW1AC307p236eU7ewzaGQ/edit?usp=drivesdk"
+    }
+  ],
+  "verification": [
+    {
+      "method": "read_back",
+      "ok": true,
+      "details": "Verified Google Doc create for Echo System Morning Operational State - 2026-05-10"
+    },
+    {
+      "method": "read_back",
+      "ok": true,
+      "details": "Verified Google Doc create for Echo System Evidence Reconciliation Queue - 2026-05-10 Morning"
+    }
+  ],
+  "warnings": [],
+  "errors": [],
+  "published_private_docs": 2
+}

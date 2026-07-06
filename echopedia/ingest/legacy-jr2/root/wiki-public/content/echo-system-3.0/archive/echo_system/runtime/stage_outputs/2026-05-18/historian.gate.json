@@ -1,0 +1,30 @@
+{
+  "approved_for_public_reuse": true,
+  "approved_for_media": false,
+  "safe_facts": [
+    "Hermes-gateway active with 0 restarts",
+    "Public healthz status OK",
+    "Disk usage 53-54%",
+    "Memory utilization 31%",
+    "Ports 8079 and 8080 listening",
+    "3 cron jobs healthy; public MCP watchdog missing",
+    "Autoloop in CRASH_LOOP (120 restarts, TypeError at line 1101)",
+    "All agent stages: 1 issue, 0 auto-fixes, 0 cautions"
+  ],
+  "blocked_claims": [
+    "Any historical or cultural TAHS claims",
+    "Repairs or external effects"
+  ],
+  "source_gaps": [
+    "No primary sources or family oral history",
+    "No community records or published books",
+    "Missing public MCP watchdog cron",
+    "Autoloop crash details require code-level confirmation"
+  ],
+  "consent_notes": [
+    "System operational data only",
+    "No family or community verification involved"
+  ],
+  "valid": true,
+  "errors": []
+}

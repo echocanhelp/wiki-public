@@ -1,0 +1,73 @@
+{
+  "schema_version": "1.0",
+  "stage": "archivist",
+  "timestamp": "2026-05-26T05:31:30.752837-07:00",
+  "artifact_path": "/root/echo_system/runtime/stage_outputs/2026-05-26/archivist.md",
+  "status": "executed",
+  "success": true,
+  "blocked": false,
+  "actions_attempted": [
+    {
+      "type": "google_docs_create",
+      "target": "private_wiki",
+      "input_ref": "Echo System Verified Morning Runtime State — 2026-05-26 (PT)"
+    },
+    {
+      "type": "google_docs_create",
+      "target": "private_wiki",
+      "input_ref": "Historian Gate Decision Snapshot — 2026-05-26"
+    },
+    {
+      "type": "public_wiki_write",
+      "target": "github_pages",
+      "slug": "event/echo-system-verified-morning-runtime-state-2026-05-26-pt",
+      "input_ref": "Echo System Verified Morning Runtime State — 2026-05-26 (PT)"
+    },
+    {
+      "type": "public_wiki_write",
+      "target": "github_pages",
+      "slug": "topic/historian-gate-decision-snapshot-2026-05-26",
+      "input_ref": "Historian Gate Decision Snapshot — 2026-05-26"
+    }
+  ],
+  "external_handles": [
+    {
+      "type": "google_doc",
+      "id": "1IjBmZmWnWGHNvwjlM2LKDT_lyoPgJ6RP2er6aY8zriM",
+      "title": "Echo System Verified Morning Runtime State — 2026-05-26 (PT)",
+      "url": "https://docs.google.com/document/d/1IjBmZmWnWGHNvwjlM2LKDT_lyoPgJ6RP2er6aY8zriM/edit?usp=drivesdk"
+    },
+    {
+      "type": "google_doc",
+      "id": "10EubnKEPyT-UtmcFp8fwfp3d1UEaq3cE75FCNPyGaro",
+      "title": "Historian Gate Decision Snapshot — 2026-05-26",
+      "url": "https://docs.google.com/document/d/10EubnKEPyT-UtmcFp8fwfp3d1UEaq3cE75FCNPyGaro/edit?usp=drivesdk"
+    }
+  ],
+  "verification": [
+    {
+      "method": "read_back",
+      "ok": true,
+      "details": "Verified Google Doc create for Echo System Verified Morning Runtime State — 2026-05-26 (PT)"
+    },
+    {
+      "method": "read_back",
+      "ok": true,
+      "details": "Verified Google Doc create for Historian Gate Decision Snapshot — 2026-05-26"
+    },
+    {
+      "method": "file_write",
+      "ok": true,
+      "details": "Wrote public wiki file: event/echo-system-verified-morning-runtime-state-2026-05-26-pt"
+    },
+    {
+      "method": "file_write",
+      "ok": true,
+      "details": "Wrote public wiki file: topic/historian-gate-decision-snapshot-2026-05-26"
+    }
+  ],
+  "warnings": [],
+  "errors": [],
+  "published_private_docs": 2,
+  "published_public_wiki_items": 0
+}

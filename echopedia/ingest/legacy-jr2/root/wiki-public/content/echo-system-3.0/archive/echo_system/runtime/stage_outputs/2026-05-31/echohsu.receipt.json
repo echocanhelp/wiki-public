@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "stage": "echohsu",
+  "timestamp": "2026-05-31T07:01:06.883642-07:00",
+  "artifact_path": "/root/echo_system/runtime/stage_outputs/2026-05-31/echohsu.md",
+  "status": "blocked",
+  "success": false,
+  "blocked": true,
+  "actions_attempted": [],
+  "external_handles": [],
+  "verification": [
+    {
+      "method": "planner_gate",
+      "ok": true,
+      "details": "Delivery package explicitly marked not ready for channel handoff"
+    }
+  ],
+  "warnings": [
+    "public MCP watchdog cron missing",
+    "hermes-gateway NRestarts=3 with SQLite I/O history",
+    "multiple stages executor_blocked or exit 1 (videoforge, vision, audioforge, voice, docsync)",
+    "echohsu executor blocked in prior cycle",
+    "xAI OAuth missing for several profiles",
+    "no external delivery confirmation in evidence",
+    "/healthz 404 mismatch"
+  ],
+  "errors": [],
+  "delivery_ready": false
+}

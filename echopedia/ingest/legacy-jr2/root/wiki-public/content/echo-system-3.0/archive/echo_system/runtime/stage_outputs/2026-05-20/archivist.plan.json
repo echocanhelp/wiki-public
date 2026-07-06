@@ -1,0 +1,16 @@
+{
+  "wiki_items": [],
+  "deferred_items": [
+    "xAI OAuth access_token missing (blocks healer, evolver, historian)",
+    "echo-autoloop deterministic crash loop (TypeError at echo_autonomous_loop.py:1101; 120 restarts)",
+    "Public MCP watchdog cron missing (5-min interval)",
+    "18 deployment drifts from echo-system-deployment-reality-audit",
+    "Stopped profiles: profiler, videoforge, vision, voice",
+    "Agent memory utilization at 95% capacity"
+  ],
+  "redaction_notes": [
+    "No sensitive data or participant identifiers present in morning state scan"
+  ],
+  "valid": true,
+  "errors": []
+}

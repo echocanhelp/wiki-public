@@ -1,0 +1,69 @@
+{
+  "executive_summary": "The 2026-05-11 morning evidence shows the Echo System core running with cautions: hermes-gateway and echo-autoloop are active with zero live restarts, and pulse reports a 94 health score with yellow status. However, external reliability is not verified because the live public /healthz check returned HTTP 500, gateway logs show failed supergrok_control_plane MCP connection attempts through ngrok, and pulse-vs-live conflicts remain unresolved around health status and port 8090.",
+  "video_ready": false,
+  "script": "Scene 1: The loop is awake, but the signal is yellow. Scene 2: Core services are active and stable, with zero live restarts. Scene 3: Watchdogs, audits, and scheduled jobs show the system still tending itself. Scene 4: At the public edge, /healthz fails with HTTP 500 and MCP connection attempts break against the ngrok path. Scene 5: Pulse and live checks disagree on health and port alignment, so contradictions are preserved rather than explained away. Scene 6: The disciplined conclusion is internal-only: the loop is alive, but external reliability is not yet confirmed.",
+  "scenes": [
+    {
+      "slug": "yellow-morning",
+      "visual": "Dark operations dashboard with a yellow status halo and a timestamp reading 2026-05-11 10:52 PT.",
+      "voiceover": "This morning, the Echo loop is running — but not yet clear for a green-light story."
+    },
+    {
+      "slug": "core-services-stable",
+      "visual": "Two illuminated service panels labeled hermes-gateway and echo-autoloop, each marked active with restart counters fixed at zero.",
+      "voiceover": "At the core, both gateway and autoloop are active, and neither shows a restart in the live check."
+    },
+    {
+      "slug": "scheduler-and-resources",
+      "visual": "A timeline of five active cron jobs beside calm disk and memory gauges on a compact 2GB system.",
+      "voiceover": "The scheduler is populated, disk usage is moderate, and available memory remains workable on a small system."
+    },
+    {
+      "slug": "public-edge-failure",
+      "visual": "A public health probe to the ngrok URL flashes red with HTTP 500 while gateway warning lines appear in sequence.",
+      "voiceover": "But the public edge does not verify cleanly. The live health probe fails, and gateway logs show MCP connection failures through ngrok."
+    },
+    {
+      "slug": "conflicting-signals",
+      "visual": "Split-screen comparison: pulse says healthz ok and mcp-server on 8090; live checks show HTTP 500 and listeners only on 8079 and 8080.",
+      "voiceover": "The most important signal is contradiction. Pulse and live checks do not fully agree, so the record must stay yellow."
+    },
+    {
+      "slug": "verified-closing",
+      "visual": "An internal archive card stamped verified morning briefing with unresolved items still highlighted in yellow.",
+      "voiceover": "The verified conclusion is disciplined: the loop is alive, stability is real, but external reliability is not yet confirmed."
+    }
+  ],
+  "subtitle_text": "Echo System Morning Briefing — core loop active, zero live restarts, but public health remains unverified due to HTTP 500 and unresolved pulse-versus-live conflicts.",
+  "asset_requirements": [
+    "Dark terminal-style operations dashboard background",
+    "Animated systemd service cards for hermes-gateway and echo-autoloop",
+    "Simple cron timeline graphic showing five active jobs",
+    "Resource gauges for disk and memory on a 2GB system",
+    "Error-state overlay for HTTP 500 health check",
+    "Split-screen comparison card for pulse versus live evidence",
+    "Yellow internal-briefing end card with verification emphasis"
+  ],
+  "source_refs": [
+    "evidence.collected_at",
+    "evidence.checks.gateway_active",
+    "evidence.checks.autoloop_active",
+    "evidence.checks.gateway_status",
+    "evidence.checks.gateway_restarts_total",
+    "evidence.checks.autoloop_restarts_total",
+    "evidence.checks.disk_root",
+    "evidence.checks.memory",
+    "evidence.checks.cron_list",
+    "evidence.checks.profiles",
+    "evidence.checks.ports",
+    "evidence.checks.public_healthz",
+    "evidence.pulse.overall_status",
+    "evidence.pulse.system_health_score",
+    "evidence.pulse.cautions",
+    "evidence.pulse.agents",
+    "evidence.upstream_artifacts.historian",
+    "evidence.upstream_artifacts.archivist"
+  ],
+  "valid": true,
+  "errors": []
+}

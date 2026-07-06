@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-05-16T07:11:46.000100-07:00",
+  "staged_only": true,
+  "delivery_ready": true,
+  "blocked_reasons": [],
+  "channel": "LINE",
+  "recipient": "Leonard Hsu",
+  "message_markdown": "Echo Morning Briefing — Saturday, May 16, 2026\n\nLeonard, good morning. System status: RECOVERING (75/100).\n\nOvernight recovery: The autoloop crash loop (120 restarts, 23-min cycle) was diagnosed and fixed by the Healer agent — a type mismatch at echo_autonomous_loop.py:1100. Restart count dropped from 120 to 1.\n\nWorking: Gateway stable (PID 423, 0 restarts), all public endpoints healthy (dashboard/SMS/LINE), disk 53%, RAM 20%. Three autonomous agents completed cycles this morning (Sentinel, Healer, Evolver).\n\nNeeds attention: (1) Docs sync cron still failing — patch applied, 14:15 UTC run is the test. (2) Memory capacity at 83-98% — writes failing silently. (3) MCP watchdog cron missing — flagged by all 11 agents. (4) VideoForge blocked — no T2V backend.\n\nNo new TAHS historical content this cycle. Historian/Archivist gates idle. Content Agent produced a system recovery meta-narrative script but VideoForge cannot render it.\n\nThree improvements approved: subagent timeout 600s->300s, memory compaction, MCP watchdog cron creation.",
+  "public_summary": "Echo System 3.0 completed autonomous self-repair cycle. Autoloop crash loop resolved (120 restarts to 1). Public endpoints operational. Health 75/100 RECOVERING. Three infrastructure improvements approved. No new historical content verified.",
+  "follow_up_actions": [
+    "Run memory compaction to reduce agent memory stores below 80% capacity",
+    "Monitor docs sync cron at 14:15 UTC to validate ARCHITECTURE_ROOT patch",
+    "Register MCP watchdog cron (5-minute ngrok healthz check)",
+    "Provision video generation infrastructure (Grok/ComfyUI/Manim) if VideoForge rendering is desired",
+    "Submit TAHS historical content to Historian verification gate when available"
+  ],
+  "source_refs": [
+    "SystemPulse.json (2026-05-16T06:44:16 PT)",
+    "checks.gateway_status (systemd: PID 423, 0 restarts, 502.9M RAM)",
+    "checks.autoloop_active (systemctl: active, 1 restart total)",
+    "checks.public_healthz (curl: all upstreams OK)",
+    "checks.cron_list (echo-system-docs-daily-sync: exit code 1, NameError)",
+    "checks.disk_root (53% used)",
+    "checks.memory (833/4096 MB, 20%)",
+    "upstream_artifacts.orchestrator (2026-05-16T05:14:33 PT)",
+    "upstream_artifacts.content (2026-05-16, video script with 6 scenes)",
+    "upstream_artifacts.videoforge (blocked: no T2V backend)",
+    "pulse.agents.sentinel (completed 2026-05-16T03:24 PT)",
+    "pulse.agents.healer (completed 2026-05-16T04:23 PT)",
+    "pulse.agents.evolver (completed 2026-05-16T04:41 PT)",
+    "pulse.issues (I-AUTO-003: crash loop, I-MCP-002: watchdog missing, I-MEM-001: capacity)"
+  ]
+}

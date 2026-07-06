@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "stage": "echohsu",
+  "timestamp": "2026-05-14T07:11:54.270573-07:00",
+  "artifact_path": "/root/echo_system/runtime/stage_outputs/2026-05-14/echohsu.md",
+  "status": "blocked",
+  "success": false,
+  "blocked": true,
+  "actions_attempted": [],
+  "external_handles": [],
+  "verification": [
+    {
+      "method": "planner_gate",
+      "ok": true,
+      "details": "Delivery package explicitly marked not ready for channel handoff"
+    }
+  ],
+  "warnings": [
+    "EchoHsu executor blocked since 2026-05-13 (exit code 1) — this session is the unblocking attempt",
+    "Historian media gate CLOSED — zero verified historical entities at 3+ star verification",
+    "Content script marked video_ready: false — infrastructure meta-narrative, not historical content",
+    "VideoForge render blocked — no approved content to render",
+    "Public MCP endpoint returning HTTP 500 — external control plane degraded",
+    "MCP watchdog cron missing from scheduled jobs",
+    "Memory tool stores near capacity — general 93%, user 27%"
+  ],
+  "errors": [],
+  "delivery_ready": false
+}

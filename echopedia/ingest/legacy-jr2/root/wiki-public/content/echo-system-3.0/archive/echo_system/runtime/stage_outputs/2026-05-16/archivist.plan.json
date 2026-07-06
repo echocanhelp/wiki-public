@@ -1,0 +1,19 @@
+{
+  "wiki_items": [],
+  "deferred_items": [
+    "Public MCP watchdog cron creation (flagged by all 11 agents)",
+    "DocSync profile creation (profile 'docsync' does not exist)",
+    "Docs sync cron fix verification (ARCHITECTURE_ROOT patch — awaiting 14:15 UTC cron run)",
+    "Memory compaction (user profile 94%, memory notes 88%, active write failures)",
+    "Subagent timeout reduction (600s to 300s — approved, not yet applied)",
+    "Port 8090 MCP server investigation (not listening despite ngrok healthz OK)"
+  ],
+  "redaction_notes": [
+    "No historical content published this cycle — nothing to redact.",
+    "DocSync profile missing: 'docsync' profile does not exist. Blocked on profile creation.",
+    "Memory capacity approaching hard limit: gateway logged 3 consecutive memory tool failures at 11:19-11:22 UTC. Compaction required before next cycle.",
+    "Historian gate idle: zero TAHS entities or narratives submitted for verification."
+  ],
+  "valid": true,
+  "errors": []
+}

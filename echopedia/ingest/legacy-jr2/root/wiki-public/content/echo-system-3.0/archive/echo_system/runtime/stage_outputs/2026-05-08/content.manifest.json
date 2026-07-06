@@ -1,0 +1,65 @@
+{
+  "executive_summary": "The verified morning-state bundle shows a live and externally reachable gateway path, but the autonomous loop cannot be treated as fully trustworthy because echo-autoloop is contradictory across sources: the direct check reports inactive while the pulse snapshot reports active. Hermes-gateway was active with zero restarts, the public health endpoint returned ok, and both watchdog cron jobs were active with last runs ok. Evidence also preserves two cautions: secret redaction disabled and intermittent Telegram transport/protocol errors with reconnect behavior. No repairs or broader downstream completion should be claimed from this bundle.",
+  "video_ready": false,
+  "script": "Hook: Echo's public edge is alive, but one critical autonomy signal does not agree with itself. The gateway is verified active, the public health endpoint returns ok, and both watchdog cron jobs report healthy runs. Yet the core loop status remains disputed: direct service evidence says echo-autoloop is inactive while the pulse snapshot says active. Add two cautions — secret redaction disabled and intermittent Telegram transport errors — and the correct story becomes disciplined rather than celebratory. Close: the edge is up, the loop is degraded, and verification must lead before confidence follows.",
+  "scenes": [
+    {
+      "slug": "hook-split-status",
+      "visual": "Dark operations dashboard with one green gateway tile and one split-status echo-autoloop tile showing conflicting states.",
+      "voiceover": "This morning, Echo's public face was alive, but its autonomy signal did not fully agree with itself."
+    },
+    {
+      "slug": "gateway-stable",
+      "visual": "Terminal-style service card showing hermes-gateway active, running since 2026-05-09 04:48:07 UTC, NRestarts equals 0.",
+      "voiceover": "The gateway was verified active and cleanly running, with zero recorded restarts."
+    },
+    {
+      "slug": "public-healthz",
+      "visual": "Animated ngrok tunnel path ending at a health endpoint with the response text ok.",
+      "voiceover": "Externally, the public health endpoint answered ok at collection time."
+    },
+    {
+      "slug": "watchdogs-ok",
+      "visual": "Two watchdog job panels labeled public-hermes-mcp-watchdog and gateway-platform-ownership-watchdog, both marked active and ok.",
+      "voiceover": "Two watchdog cron jobs remained active, and both most recent runs were recorded as ok."
+    },
+    {
+      "slug": "cautions-overlay",
+      "visual": "Warning overlays for secret redaction disabled and intermittent Telegram reconnect errors scrolling across log snippets.",
+      "voiceover": "The evidence also preserved two cautions: secret redaction was disabled, and Telegram experienced intermittent network and protocol errors with reconnect behavior."
+    },
+    {
+      "slug": "verified-close",
+      "visual": "Side-by-side inactive versus active status labels for echo-autoloop, ending on a restrained verification stamp.",
+      "voiceover": "So the verified conclusion is careful, not triumphant: the edge is up, the loop is degraded, and full trust waits on contradiction resolution."
+    }
+  ],
+  "subtitle_text": "Gateway active. Public health ok. Watchdogs ok. echo-autoloop contradictory. Redaction disabled. Telegram reconnect noise. Verification remains the gate.",
+  "asset_requirements": [
+    "Operations dashboard background with service status tiles",
+    "Terminal-style typography overlays for systemctl and health checks",
+    "Public endpoint or tunnel visualization for healthz ok",
+    "Two watchdog cron job status cards",
+    "Log-warning visual treatment for redaction and Telegram errors",
+    "Verification stamp or restrained closing title card"
+  ],
+  "source_refs": [
+    "evidence.collected_at",
+    "evidence.checks.gateway_active",
+    "evidence.checks.gateway_status",
+    "evidence.checks.gateway_restarts_total",
+    "evidence.checks.autoloop_active",
+    "evidence.checks.cron_list",
+    "evidence.checks.disk_root",
+    "evidence.checks.public_healthz",
+    "evidence.cautions",
+    "evidence.issues",
+    "evidence.derived.gateway_log_metrics",
+    "evidence.upstream_artifacts.historian",
+    "evidence.upstream_artifacts.archivist",
+    "evidence.pulse.services.echo-autoloop",
+    "evidence.pulse.services.hermes-gateway"
+  ],
+  "valid": true,
+  "errors": []
+}

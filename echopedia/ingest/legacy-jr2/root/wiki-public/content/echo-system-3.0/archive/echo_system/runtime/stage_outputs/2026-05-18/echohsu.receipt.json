@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "stage": "echohsu",
+  "timestamp": "2026-05-18T07:01:23.224998-07:00",
+  "artifact_path": "/root/echo_system/runtime/stage_outputs/2026-05-18/echohsu.md",
+  "status": "blocked",
+  "success": false,
+  "blocked": true,
+  "actions_attempted": [],
+  "external_handles": [],
+  "verification": [
+    {
+      "method": "planner_gate",
+      "ok": true,
+      "details": "Delivery package explicitly marked not ready for channel handoff"
+    }
+  ],
+  "warnings": [
+    "Historian media gate denied: zero TAHS entities at 3+ stars",
+    "VideoForge profile stopped and render blocked",
+    "System health 22/100 with open MCP watchdog issue",
+    "No historical or TAHS content available for delivery"
+  ],
+  "errors": [],
+  "delivery_ready": false
+}

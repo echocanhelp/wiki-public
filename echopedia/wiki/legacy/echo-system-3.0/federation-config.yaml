@@ -1,0 +1,48 @@
+# GBrain Federation Configuration
+# Version: 0.1
+# Last Updated: 2026-06-23
+
+federation:
+  # Format: source_profile -> target_profile with allowed page types
+  rules:
+    - from: echohsu
+      to: historian
+      allow:
+        - type: person
+
+    - from: historian
+      to: echohsu
+      allow:
+        - type: person
+
+    - from: echohsu
+      to: archivist
+      allow:
+        - type: person
+        - type: ingestion-wave
+
+    - from: archivist
+      to: echohsu
+      allow:
+        - type: person
+
+    - from: content
+      to: videoforge
+      allow:
+        - type: content
+        - type: video
+
+  # Profiles with no federation
+  isolated:
+    - echonomics
+    - sentinel
+
+  # Shared scopes (optional)
+  shared_scopes:
+    - shared-public
+    - shared-identity
+
+# Notes:
+# - All rules are read-only by default
+# - Add new rules as needed
+# - echonomics must remain in the isolated list at all times

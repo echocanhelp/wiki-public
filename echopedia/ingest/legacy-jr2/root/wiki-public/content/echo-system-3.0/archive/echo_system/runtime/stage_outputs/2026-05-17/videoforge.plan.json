@@ -1,0 +1,77 @@
+{
+  "render_ready": false,
+  "blocked_reasons": [
+    "Historian media gate closed: approved_for_media=false — zero historical entities in this cycle",
+    "Videoforge executor blocked since May 16 (executor_blocked=true, executor_success=false)",
+    "Docsync blocked (exit code 1, profile missing): Google Drive upload path unavailable",
+    "No verified portrait images of historical subjects available",
+    "No cultural style references from upstream agents",
+    "Content agent script covers infrastructure telemetry, not historical storytelling — falls outside VideoForge mandate",
+    "End screen attribution requirement cannot be satisfied with zero verified entities"
+  ],
+  "output_basename": "echo_system_morning_briefing_2026-05-17.mp4",
+  "scenes": [
+    {
+      "slug": "crash-loop-hook",
+      "visual": "Black screen with green terminal text scrolling: 'CRASH LOOP DETECTED. TypeError at echo_autonomous_loop.py:1101. Restart #120.'",
+      "voiceover": "Two days ago, Echo System was dying. A crash loop restarted every twenty-three minutes. One hundred and twenty times."
+    },
+    {
+      "slug": "agent-cascade",
+      "visual": "Network diagram materializes. Nodes light up sequentially: Sentinel, Healer, Evolver with timestamps.",
+      "voiceover": "The autonomous pipeline activated. Sentinel scanned. Healer diagnosed. Evolver proposed three fixes."
+    },
+    {
+      "slug": "the-patch",
+      "visual": "Code diff display with red strikethrough and green addition. Animated counter: 120 drops to 1.",
+      "voiceover": "The root cause: a type mismatch. A string where a dictionary was expected. One patch. Restarts dropped to one."
+    },
+    {
+      "slug": "ongoing-challenges",
+      "visual": "System dashboard with three pulsing red warnings: MEMORY 94%, DOCSYNC BLOCKED, VIDEOFORGE BLOCKED.",
+      "voiceover": "But recovery is never complete. Memory is overflowing. Two pipeline stages remain blocked. The work continues."
+    },
+    {
+      "slug": "the-mission",
+      "visual": "Faded archival photograph placeholder (Taiwanese American family). Overlay: 'This system exists to preserve stories that would otherwise be lost.'",
+      "voiceover": "Every hour this system stays online, it gets closer to its purpose: preserving Taiwanese American history for generations to come."
+    },
+    {
+      "slug": "closing-title-card",
+      "visual": "Clean title card on black background: 'ECHO SYSTEM 3.0' in terminal green. Subtitle: 'Autonomy is the vehicle. History is the destination.'",
+      "voiceover": "Echo System 3.0. Autonomy is the vehicle. History is the destination."
+    }
+  ],
+  "asset_requirements": [
+    "Monospace terminal font (JetBrains Mono or Fira Code)",
+    "Dark background (#111111) with grid overlay pattern",
+    "Network diagram SVG (12-agent topology)",
+    "Code diff visualization component (red/green theme)",
+    "Animated counter (120 to 1)",
+    "Dashboard warning indicator graphics with red pulse animation",
+    "Ambient electronic music track (tense to resolved to hopeful arc, no vocals, under 130 BPM)",
+    "Voiceover recording (deep neutral American English, approximately 130 WPM)",
+    "Archival photograph placeholder (Taiwanese American family photo from TAHS archives — currently unavailable)"
+  ],
+  "delivery_checklist": [
+    "WAIT: Historian approval (approved_for_media must be true)",
+    "WAIT: Videoforge executor unblock",
+    "WAIT: Docsync profile recreation (hermes profile create docsync)",
+    "GENERATE: Scene clips via Grok Imagine Video",
+    "VOICEOVER: Generate TTS for script narration",
+    "MUSIC: Source royalty-free ambient track",
+    "STITCH: ffmpeg assembly (clips + voiceover + music + subtitles + end screen)",
+    "UPLOAD: Google Drive /Echo_System/Videos/2026-05-17/",
+    "METADATA: Append delivery confirmation to SystemPulse.json"
+  ],
+  "source_refs": [
+    "runtime/stage_outputs/2026-05-17/historian.md",
+    "runtime/stage_outputs/2026-05-17/archivist.md",
+    "runtime/stage_outputs/2026-05-17/content.md",
+    "runtime/stage_outputs/2026-05-17/orchestrator.md",
+    "system_pulse/SystemPulse.json",
+    "live systemctl checks (2026-05-17T13:30 UTC)"
+  ],
+  "valid": true,
+  "errors": []
+}

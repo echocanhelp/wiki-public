@@ -1,0 +1,72 @@
+{
+  "schema_version": "1.0",
+  "stage": "archivist",
+  "timestamp": "2026-05-17T05:45:23.094212-07:00",
+  "artifact_path": "/root/echo_system/runtime/stage_outputs/2026-05-17/archivist.md",
+  "status": "executed",
+  "success": true,
+  "blocked": false,
+  "actions_attempted": [
+    {
+      "type": "google_docs_create",
+      "target": "private_wiki",
+      "input_ref": "Echo System 3.0 Infrastructure Status — 2026-05-17"
+    },
+    {
+      "type": "public_wiki_write",
+      "target": "github_pages",
+      "slug": "topic/echo-system-30-infrastructure-status-2026-05-17",
+      "input_ref": "Echo System 3.0 Infrastructure Status — 2026-05-17"
+    },
+    {
+      "type": "git_add",
+      "exit_code": 0
+    },
+    {
+      "type": "git_commit",
+      "exit_code": 0,
+      "message": "Archivist: add 1 wiki item(s) (2026-05-17)"
+    },
+    {
+      "type": "git_push",
+      "exit_code": 0
+    }
+  ],
+  "external_handles": [
+    {
+      "type": "google_doc",
+      "id": "19Nfc8_tXfGRP4Ip8B7lUlsOUPJNvncQoKKcNwI8d65U",
+      "title": "Echo System 3.0 Infrastructure Status — 2026-05-17",
+      "url": "https://docs.google.com/document/d/19Nfc8_tXfGRP4Ip8B7lUlsOUPJNvncQoKKcNwI8d65U/edit?usp=drivesdk"
+    },
+    {
+      "type": "github_pages_push",
+      "items_published": 1,
+      "files": [
+        "topic/echo-system-30-infrastructure-status-2026-05-17"
+      ],
+      "trigger": "GitHub Actions deploy on push"
+    }
+  ],
+  "verification": [
+    {
+      "method": "read_back",
+      "ok": true,
+      "details": "Verified Google Doc create for Echo System 3.0 Infrastructure Status — 2026-05-17"
+    },
+    {
+      "method": "file_write",
+      "ok": true,
+      "details": "Wrote public wiki file: topic/echo-system-30-infrastructure-status-2026-05-17"
+    },
+    {
+      "method": "git_push",
+      "ok": true,
+      "details": "Pushed 1 public wiki files — GitHub Actions will build and deploy"
+    }
+  ],
+  "warnings": [],
+  "errors": [],
+  "published_private_docs": 1,
+  "published_public_wiki_items": 1
+}

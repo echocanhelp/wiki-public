@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "stage": "archivist",
+  "timestamp": "2026-05-24T05:31:41.965857-07:00",
+  "artifact_path": "/root/echo_system/runtime/stage_outputs/2026-05-24/archivist.md",
+  "status": "executed",
+  "success": true,
+  "blocked": false,
+  "actions_attempted": [
+    {
+      "type": "google_docs_create",
+      "target": "private_wiki",
+      "input_ref": "Echo Autonomous Loop Runtime Snapshot (2026-05-24 Morning PT)"
+    },
+    {
+      "type": "google_docs_create",
+      "target": "private_wiki",
+      "input_ref": "Echo Reliability Signals: Gateway 403 Errors and Restart Caution (2026-05-24)"
+    },
+    {
+      "type": "google_docs_create",
+      "target": "private_wiki",
+      "input_ref": "Echo Operations Inventory: Cron, Ports, and Public Health Probe (2026-05-24)"
+    },
+    {
+      "type": "public_wiki_write",
+      "target": "github_pages",
+      "slug": "event/echo-autonomous-loop-runtime-snapshot-2026-05-24-morning-pt",
+      "input_ref": "Echo Autonomous Loop Runtime Snapshot (2026-05-24 Morning PT)"
+    },
+    {
+      "type": "public_wiki_write",
+      "target": "github_pages",
+      "slug": "topic/echo-reliability-signals-gateway-403-errors-and-restart-caution-2026-05-24",
+      "input_ref": "Echo Reliability Signals: Gateway 403 Errors and Restart Caution (2026-05-24)"
+    },
+    {
+      "type": "public_wiki_write",
+      "target": "github_pages",
+      "slug": "topic/echo-operations-inventory-cron-ports-and-public-health-probe-2026-05-24",
+      "input_ref": "Echo Operations Inventory: Cron, Ports, and Public Health Probe (2026-05-24)"
+    }
+  ],
+  "external_handles": [
+    {
+      "type": "google_doc",
+      "id": "1gEj_fda58fnX4eiNV49ZbuaJ6d80l7lAhX2GZosK2nA",
+      "title": "Echo Autonomous Loop Runtime Snapshot (2026-05-24 Morning PT)",
+      "url": "https://docs.google.com/document/d/1gEj_fda58fnX4eiNV49ZbuaJ6d80l7lAhX2GZosK2nA/edit?usp=drivesdk"
+    },
+    {
+      "type": "google_doc",
+      "id": "1T7WDtSpBpykveUtDdlcjXFXS5TECgzzLThqzUCl5Z3U",
+      "title": "Echo Reliability Signals: Gateway 403 Errors and Restart Caution (2026-05-24)",
+      "url": "https://docs.google.com/document/d/1T7WDtSpBpykveUtDdlcjXFXS5TECgzzLThqzUCl5Z3U/edit?usp=drivesdk"
+    },
+    {
+      "type": "google_doc",
+      "id": "1tcZgfUWd9-SUXlRe_m3twC-WJvwboOudWUnAGPfEtCg",
+      "title": "Echo Operations Inventory: Cron, Ports, and Public Health Probe (2026-05-24)",
+      "url": "https://docs.google.com/document/d/1tcZgfUWd9-SUXlRe_m3twC-WJvwboOudWUnAGPfEtCg/edit?usp=drivesdk"
+    }
+  ],
+  "verification": [
+    {
+      "method": "read_back",
+      "ok": true,
+      "details": "Verified Google Doc create for Echo Autonomous Loop Runtime Snapshot (2026-05-24 Morning PT)"
+    },
+    {
+      "method": "read_back",
+      "ok": true,
+      "details": "Verified Google Doc create for Echo Reliability Signals: Gateway 403 Errors and Restart Caution (2026-05-24)"
+    },
+    {
+      "method": "read_back",
+      "ok": true,
+      "details": "Verified Google Doc create for Echo Operations Inventory: Cron, Ports, and Public Health Probe (2026-05-24)"
+    },
+    {
+      "method": "file_write",
+      "ok": true,
+      "details": "Wrote public wiki file: event/echo-autonomous-loop-runtime-snapshot-2026-05-24-morning-pt"
+    },
+    {
+      "method": "file_write",
+      "ok": true,
+      "details": "Wrote public wiki file: topic/echo-reliability-signals-gateway-403-errors-and-restart-caution-2026-05-24"
+    },
+    {
+      "method": "file_write",
+      "ok": true,
+      "details": "Wrote public wiki file: topic/echo-operations-inventory-cron-ports-and-public-health-probe-2026-05-24"
+    }
+  ],
+  "warnings": [],
+  "errors": [],
+  "published_private_docs": 3,
+  "published_public_wiki_items": 0
+}

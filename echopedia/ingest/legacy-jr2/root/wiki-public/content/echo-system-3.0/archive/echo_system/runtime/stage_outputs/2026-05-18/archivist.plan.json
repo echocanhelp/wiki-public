@@ -1,0 +1,16 @@
+{
+  "wiki_items": [],
+  "deferred_items": [
+    "I-MCP-002: public MCP watchdog cron missing",
+    "I-AUTO-003: autoloop crash loop (TypeError line 1101, 120 restarts)",
+    "I-TEL-002: Telegram connectivity degraded",
+    "I-MEM-001: memory capacity 95%"
+  ],
+  "redaction_notes": [
+    "System operational data only",
+    "No historical or TAHS entities verified",
+    "No private contact, medical, or financial data present"
+  ],
+  "valid": true,
+  "errors": []
+}

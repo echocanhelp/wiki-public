@@ -1,0 +1,80 @@
+{
+  "render_ready": false,
+  "blocked_reasons": [
+    "No text-to-video backend available (Grok Imagine Video not installed/configured; no ComfyUI/Manim running)",
+    "Historian media gate was IDLE — no content approved for public reuse or media generation",
+    "No background music asset provisioned on disk",
+    "Voiceover audio not yet synthesized",
+    "Agent memory at 88-98% capacity — delivery confirmation may fail silently",
+    "Content is operational meta-narrative, not TAHS historical content — requires Orchestrator authorization to proceed"
+  ],
+  "output_basename": "echo-system-morning-briefing-2026-05-16.mp4",
+  "scenes": [
+    {
+      "slug": "hook-120-crashes",
+      "visual": "Dark terminal screen, red error text scrolling. Number 120 pulses in center, shatters into green checkmarks.",
+      "voiceover": "One hundred and twenty crashes. Every twenty-three minutes. This was Echo System — until it fixed itself."
+    },
+    {
+      "slug": "the-crash-23-minute-loop",
+      "visual": "Code editor view. Single line highlighted: summary = data.setdefault. Arrow points to type mismatch. Error text overlay.",
+      "voiceover": "A string where a dictionary was expected. The simplest kind of bug — until it becomes a crash loop that never stops."
+    },
+    {
+      "slug": "diagnosis-sentinel-healer",
+      "visual": "Split screen: Sentinel scanning (red to amber), Healer applying patch (amber to green). Log lines stream I-AUTO-003 FIXED.",
+      "voiceover": "Sentinel detected the pattern. Healer traced the root cause. A one-line fix — type coercion — and the loop was broken."
+    },
+    {
+      "slug": "recovery-confirmed",
+      "visual": "Dashboard view. Services turning green sequentially. Health score counter ticks from 20 toward 75.",
+      "voiceover": "Gateway stable. Autoloop breathing. Public endpoints healthy. But the system knows the story isn't over."
+    },
+    {
+      "slug": "lessons-autonomous-resilience",
+      "visual": "Agent network visualization. Three amber nodes (memory, watchdog, timeouts), rest pulsing green.",
+      "voiceover": "Autonomous systems don't eliminate failure — they learn to recover from it faster. The real test is what happens next."
+    },
+    {
+      "slug": "closing-remember-repair-endure",
+      "visual": "Dark background. Typography: Building systems that remember, repair, and endure. TAHS Knowledge Engine footer.",
+      "voiceover": "Building systems that remember, repair, and endure. Because history deserves better than fragility."
+    }
+  ],
+  "asset_requirements": [
+    "Text-to-video backend (Grok Imagine, ComfyUI, or Manim fallback)",
+    "Voiceover TTS audio (60s, male authoritative tone, chunked)",
+    "Background music (electronic ambient, tense-to-resolved)",
+    "ffmpeg for stitching, subtitle burn, end screen overlay",
+    "Static slide fallback assets (terminal screenshot, code editor mockup, dashboard mockup, network graph, typography)",
+    "End screen: verification badge + source attribution text"
+  ],
+  "delivery_checklist": [
+    "Obtain Orchestrator authorization (Historian gate was IDLE)",
+    "Provision video generation method (manim-video skill or static slides)",
+    "Generate 6 scene visuals (clips or static frames)",
+    "Synthesize 60s voiceover audio via TTS tool",
+    "Source or generate background music",
+    "Stitch clips with ffmpeg (16:9, 720p)",
+    "Burn SRT subtitles",
+    "Add end screen with source attribution and verification level",
+    "Upload to Google Drive /Echo_System/Videos/2026-05-16/",
+    "Append delivery confirmation to SystemPulse.json"
+  ],
+  "source_refs": [
+    "SystemPulse.json (2026-05-16T06:15:40 PT)",
+    "checks.gateway_status (systemd service output)",
+    "checks.autoloop_active (systemctl is-active)",
+    "checks.public_healthz (curl ngrok endpoint)",
+    "checks.cron_list (hermes cron list)",
+    "checks.gateway_restarts_total (0 restarts)",
+    "pulse.services.echo-autoloop (crash loop: 120 restarts, 23-min cycle)",
+    "pulse.recommended_repairs[0] (fix: type coercion at line 1100)",
+    "content agent artifact (2026-05-16, script with 6 scenes)",
+    "historian gate (IDLE — no historical content submitted)",
+    "archivist memo (2026-05-16, zero wiki actions)",
+    "videoforge last run (2026-05-15, executor_status: blocked)"
+  ],
+  "valid": true,
+  "errors": []
+}

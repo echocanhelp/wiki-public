@@ -1,0 +1,20 @@
+{
+  "id": "20260527-070600-pre-update",
+  "timestamp": "20260527-070600",
+  "label": "pre-update",
+  "file_count": 11,
+  "total_size": 91718452,
+  "files": {
+    "state.db": 91684864,
+    "config.yaml": 10576,
+    ".env": 1504,
+    "auth.json": 10824,
+    "cron/jobs.json": 6430,
+    "gateway_state.json": 887,
+    "channel_directory.json": 3158,
+    "processes.json": 2,
+    "pairing/line-approved.json": 139,
+    "pairing/line-pending.json": 2,
+    "pairing/_rate_limits.json": 66
+  }
+}

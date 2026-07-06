@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "stage": "archivist",
+  "timestamp": "2026-05-23T05:31:52.473284-07:00",
+  "artifact_path": "/root/echo_system/runtime/stage_outputs/2026-05-23/archivist.md",
+  "status": "executed",
+  "success": true,
+  "blocked": false,
+  "actions_attempted": [
+    {
+      "type": "google_docs_create",
+      "target": "private_wiki",
+      "input_ref": "Echo System Operational State Snapshot — 2026-05-23 Morning"
+    },
+    {
+      "type": "google_docs_create",
+      "target": "private_wiki",
+      "input_ref": "Deployment Reality Audit Drift Event — 2026-05-23"
+    },
+    {
+      "type": "google_docs_create",
+      "target": "private_wiki",
+      "input_ref": "Public MCP Health Contract Mismatch (`/healthz` 404) — 2026-05-23"
+    },
+    {
+      "type": "public_wiki_write",
+      "target": "github_pages",
+      "slug": "topic/echo-system-operational-state-snapshot-2026-05-23-morning",
+      "input_ref": "Echo System Operational State Snapshot — 2026-05-23 Morning"
+    },
+    {
+      "type": "public_wiki_write",
+      "target": "github_pages",
+      "slug": "event/deployment-reality-audit-drift-event-2026-05-23",
+      "input_ref": "Deployment Reality Audit Drift Event — 2026-05-23"
+    },
+    {
+      "type": "public_wiki_write",
+      "target": "github_pages",
+      "slug": "event/public-mcp-health-contract-mismatch-healthz-404-2026-05-23",
+      "input_ref": "Public MCP Health Contract Mismatch (`/healthz` 404) — 2026-05-23"
+    }
+  ],
+  "external_handles": [
+    {
+      "type": "google_doc",
+      "id": "1fq6pvcOBQNqGd-k--QzYkIjprktTBhGhXlmE03o9Iqw",
+      "title": "Echo System Operational State Snapshot — 2026-05-23 Morning",
+      "url": "https://docs.google.com/document/d/1fq6pvcOBQNqGd-k--QzYkIjprktTBhGhXlmE03o9Iqw/edit?usp=drivesdk"
+    },
+    {
+      "type": "google_doc",
+      "id": "1d-jI6uP8qSG6Qd3F23fRtmyqaeGiBtPSt2rQJGQq3Fs",
+      "title": "Deployment Reality Audit Drift Event — 2026-05-23",
+      "url": "https://docs.google.com/document/d/1d-jI6uP8qSG6Qd3F23fRtmyqaeGiBtPSt2rQJGQq3Fs/edit?usp=drivesdk"
+    },
+    {
+      "type": "google_doc",
+      "id": "1RkSNn9uUtBHCsxbRy4WQfHkQF9jA89JFpMPtH89ZSW8",
+      "title": "Public MCP Health Contract Mismatch (`/healthz` 404) — 2026-05-23",
+      "url": "https://docs.google.com/document/d/1RkSNn9uUtBHCsxbRy4WQfHkQF9jA89JFpMPtH89ZSW8/edit?usp=drivesdk"
+    }
+  ],
+  "verification": [
+    {
+      "method": "read_back",
+      "ok": true,
+      "details": "Verified Google Doc create for Echo System Operational State Snapshot — 2026-05-23 Morning"
+    },
+    {
+      "method": "read_back",
+      "ok": true,
+      "details": "Verified Google Doc create for Deployment Reality Audit Drift Event — 2026-05-23"
+    },
+    {
+      "method": "read_back",
+      "ok": true,
+      "details": "Verified Google Doc create for Public MCP Health Contract Mismatch (`/healthz` 404) — 2026-05-23"
+    },
+    {
+      "method": "file_write",
+      "ok": true,
+      "details": "Wrote public wiki file: topic/echo-system-operational-state-snapshot-2026-05-23-morning"
+    },
+    {
+      "method": "file_write",
+      "ok": true,
+      "details": "Wrote public wiki file: event/deployment-reality-audit-drift-event-2026-05-23"
+    },
+    {
+      "method": "file_write",
+      "ok": true,
+      "details": "Wrote public wiki file: event/public-mcp-health-contract-mismatch-healthz-404-2026-05-23"
+    }
+  ],
+  "warnings": [],
+  "errors": [],
+  "published_private_docs": 3,
+  "published_public_wiki_items": 0
+}

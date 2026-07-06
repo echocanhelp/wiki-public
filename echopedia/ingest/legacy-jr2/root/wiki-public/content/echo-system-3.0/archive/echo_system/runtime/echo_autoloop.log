@@ -1,0 +1,1510 @@
+[2026-05-08T17:26:09.864189-07:00] Echo autonomous loop service started
+[2026-05-08T17:26:09.864971-07:00] Starting scheduled stage sentinel
+[2026-05-08T17:26:09.864807-07:00] Starting one-shot stage sentinel
+[2026-05-08T17:30:56.300672-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/sentinel.md
+[2026-05-08T17:30:56.301258-07:00] Starting one-shot stage healer
+[2026-05-08T17:30:56.658649-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/sentinel.md
+[2026-05-08T17:30:56.661658-07:00] Starting scheduled stage healer
+[2026-05-08T17:32:16.835269-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/healer.md
+[2026-05-08T17:32:16.836552-07:00] Starting scheduled stage evolver
+[2026-05-08T17:32:16.985725-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/healer.md
+[2026-05-08T17:32:16.986164-07:00] Starting one-shot stage evolver
+[2026-05-08T17:32:30.352505-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/evolver.md
+[2026-05-08T17:32:30.354370-07:00] Starting scheduled stage orchestrator
+[2026-05-08T17:32:30.562591-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/evolver.md
+[2026-05-08T17:32:30.563068-07:00] Starting one-shot stage orchestrator
+[2026-05-08T17:33:26.588042-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-05-08_morning_briefing.md
+[2026-05-08T17:33:26.588486-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/orchestrator.md
+[2026-05-08T17:33:39.637100-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-05-08_morning_briefing.md
+[2026-05-08T17:33:39.637245-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/orchestrator.md
+[2026-05-08T17:33:52.726240-07:00] Starting one-shot stage sentinel
+[2026-05-08T17:33:52.733256-07:00] Echo autonomous loop service started
+[2026-05-08T17:33:55.355456-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/sentinel.md
+[2026-05-08T17:33:55.355752-07:00] Starting one-shot stage healer
+[2026-05-08T17:33:57.858898-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/healer.md
+[2026-05-08T17:33:57.859195-07:00] Starting one-shot stage evolver
+[2026-05-08T17:34:00.455908-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/evolver.md
+[2026-05-08T17:34:00.456292-07:00] Starting one-shot stage orchestrator
+[2026-05-08T17:34:02.976906-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-05-08_morning_briefing.md
+[2026-05-08T17:34:02.977046-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/orchestrator.md
+[2026-05-08T17:34:15.052903-07:00] Starting one-shot stage sentinel
+[2026-05-08T17:34:15.073235-07:00] Echo autonomous loop service started
+[2026-05-08T17:34:22.028976-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/sentinel.md
+[2026-05-08T17:34:22.029274-07:00] Starting one-shot stage healer
+[2026-05-08T17:34:28.784317-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/healer.md
+[2026-05-08T17:34:28.784944-07:00] Starting one-shot stage evolver
+[2026-05-08T17:34:35.703831-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/evolver.md
+[2026-05-08T17:34:35.704103-07:00] Starting one-shot stage orchestrator
+[2026-05-08T17:35:27.234324-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-05-08_morning_briefing.md
+[2026-05-08T17:35:27.234450-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/orchestrator.md
+[2026-05-08T17:36:25.585878-07:00] Starting one-shot stage sentinel
+[2026-05-08T17:36:25.608008-07:00] Echo autonomous loop service started
+[2026-05-08T17:36:52.674605-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/sentinel.md
+[2026-05-08T17:36:52.674915-07:00] Starting one-shot stage healer
+[2026-05-08T17:37:12.341878-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/healer.md
+[2026-05-08T17:37:12.342174-07:00] Starting one-shot stage evolver
+[2026-05-08T17:37:58.730389-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/evolver.md
+[2026-05-08T17:37:58.730654-07:00] Starting one-shot stage orchestrator
+[2026-05-08T17:38:37.313517-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-05-08_morning_briefing.md
+[2026-05-08T17:38:37.313633-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/orchestrator.md
+[2026-05-08T17:50:18.083641-07:00] Starting one-shot stage sentinel
+[2026-05-08T17:50:40.173349-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/sentinel.md
+[2026-05-08T17:50:40.173658-07:00] Starting one-shot stage healer
+[2026-05-08T17:50:59.544250-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/healer.md
+[2026-05-08T17:50:59.544550-07:00] Starting one-shot stage evolver
+[2026-05-08T17:51:59.556107-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/evolver.md
+[2026-05-08T17:51:59.556387-07:00] Starting one-shot stage orchestrator
+[2026-05-08T17:52:27.723451-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-05-08_morning_briefing.md
+[2026-05-08T17:52:27.723570-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/orchestrator.md
+[2026-05-08T17:52:27.723844-07:00] Starting one-shot stage historian
+[2026-05-08T17:53:07.471514-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/historian.md
+[2026-05-08T17:53:07.471838-07:00] Starting one-shot stage archivist
+[2026-05-08T17:53:59.772378-07:00] Starting one-shot stage sentinel
+[2026-05-08T17:54:25.140910-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/sentinel.md
+[2026-05-08T17:54:25.141205-07:00] Starting one-shot stage healer
+[2026-05-08T17:54:45.890381-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/healer.md
+[2026-05-08T17:54:45.890690-07:00] Starting one-shot stage evolver
+[2026-05-08T17:55:16.560248-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/evolver.md
+[2026-05-08T17:55:16.560523-07:00] Starting one-shot stage orchestrator
+[2026-05-08T17:55:48.073192-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-05-08_morning_briefing.md
+[2026-05-08T17:55:48.073294-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/orchestrator.md
+[2026-05-08T17:55:48.073564-07:00] Starting one-shot stage historian
+[2026-05-08T17:56:29.835807-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/historian.md
+[2026-05-08T17:56:29.836096-07:00] Starting one-shot stage archivist
+[2026-05-08T17:56:57.466453-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/archivist.md
+[2026-05-08T17:56:57.466758-07:00] Starting one-shot stage content
+[2026-05-08T17:57:43.699337-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-05-08_morning_briefing_polished.md
+[2026-05-08T17:57:43.699488-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/content.md
+[2026-05-08T17:57:43.699923-07:00] Starting one-shot stage videoforge
+[2026-05-08T17:58:18.458634-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-05-08_video_summary_plan.md
+[2026-05-08T17:58:18.458730-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/videoforge.md
+[2026-05-08T17:58:18.459089-07:00] Starting one-shot stage echohsu
+[2026-05-08T18:02:47.666613-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-05-08_morning_briefing_delivery.md
+[2026-05-08T18:02:47.666717-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/echohsu.md
+[2026-05-08T20:22:38.785798-07:00] Echo autonomous loop service started
+[2026-05-08T23:06:57.494440-07:00] Starting one-shot stage sentinel
+[2026-05-08T23:09:34.127296-07:00] Echo autonomous loop service started
+[2026-05-08T23:43:52.218538-07:00] Starting one-shot stage sentinel
+[2026-05-08T23:44:19.782463-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/sentinel.md
+[2026-05-08T23:44:19.782767-07:00] Starting one-shot stage healer
+[2026-05-08T23:44:42.903344-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/healer.md
+[2026-05-08T23:44:42.903660-07:00] Starting one-shot stage evolver
+[2026-05-08T23:45:46.186653-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/evolver.md
+[2026-05-08T23:45:46.186981-07:00] Starting one-shot stage orchestrator
+[2026-05-08T23:46:21.346946-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-05-08_morning_briefing.md
+[2026-05-08T23:46:21.347105-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/orchestrator.md
+[2026-05-08T23:46:21.347423-07:00] Starting one-shot stage historian
+[2026-05-08T23:46:58.050151-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/historian.md
+[2026-05-08T23:46:58.050472-07:00] Starting one-shot stage archivist
+[2026-05-08T23:47:38.997059-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/archivist.md
+[2026-05-08T23:47:38.997418-07:00] Starting one-shot stage content
+[2026-05-08T23:48:29.356928-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-05-08_morning_briefing_polished.md
+[2026-05-08T23:48:29.357067-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/content.md
+[2026-05-08T23:48:29.357411-07:00] Starting one-shot stage videoforge
+[2026-05-08T23:48:59.807191-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-05-08_video_summary_plan.md
+[2026-05-08T23:48:59.807376-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/videoforge.md
+[2026-05-08T23:48:59.807920-07:00] Starting one-shot stage echohsu
+[2026-05-08T23:49:20.168046-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-05-08_morning_briefing_delivery.md
+[2026-05-08T23:49:20.168159-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-05-08/echohsu.md
+[2026-05-08T23:49:20.284445-07:00] Echo autonomous loop service started
+[2026-05-09T03:00:20.390760-07:00] Starting scheduled stage sentinel
+[2026-05-09T03:00:46.172399-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-05-09/sentinel.md
+[2026-05-09T03:30:46.188311-07:00] Starting scheduled stage healer
+[2026-05-09T03:31:08.015959-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-05-09/healer.md
+[2026-05-09T04:30:08.042752-07:00] Starting scheduled stage evolver
+[2026-05-09T04:30:38.717322-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-05-09/evolver.md
+[2026-05-09T05:00:38.729630-07:00] Starting scheduled stage orchestrator
+[2026-05-09T05:01:16.236871-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-05-09_morning_briefing.md
+[2026-05-09T05:01:16.237048-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-05-09/orchestrator.md
+[2026-05-09T05:15:16.245623-07:00] Starting scheduled stage historian
+[2026-05-09T05:15:53.228518-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-05-09/historian.md
+[2026-05-09T05:30:53.236067-07:00] Starting scheduled stage archivist
+[2026-05-09T05:31:39.557658-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-05-09/archivist.md
+[2026-05-09T06:00:39.570930-07:00] Starting scheduled stage content
+[2026-05-09T06:01:49.530102-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-05-09_morning_briefing_polished.md
+[2026-05-09T06:01:49.530221-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-05-09/content.md
+[2026-05-09T06:30:49.543653-07:00] Starting scheduled stage videoforge
+[2026-05-09T06:31:20.835265-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-05-09_video_summary_plan.md
+[2026-05-09T06:31:20.835371-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-05-09/videoforge.md
+[2026-05-09T07:00:20.848878-07:00] Starting scheduled stage echohsu
+[2026-05-09T07:00:46.735322-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-05-09_morning_briefing_delivery.md
+[2026-05-09T07:00:46.735435-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-05-09/echohsu.md
+[2026-05-09T11:25:56.154139-07:00] Starting one-shot stage sentinel
+[2026-05-09T11:26:23.752388-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-05-09/sentinel.md
+[2026-05-09T11:26:23.752698-07:00] Starting one-shot stage healer
+[2026-05-09T11:27:02.151923-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-05-09/healer.md
+[2026-05-09T11:27:02.152267-07:00] Starting one-shot stage evolver
+[2026-05-09T11:27:44.505678-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-05-09/evolver.md
+[2026-05-09T11:27:44.506194-07:00] Starting one-shot stage orchestrator
+[2026-05-09T11:28:22.839603-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-05-09_morning_briefing.md
+[2026-05-09T11:28:22.839718-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-05-09/orchestrator.md
+[2026-05-09T11:28:22.840029-07:00] Starting one-shot stage historian
+[2026-05-09T11:28:59.813907-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-05-09/historian.md
+[2026-05-09T11:28:59.814252-07:00] Starting one-shot stage archivist
+[2026-05-09T11:29:43.399408-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-05-09/archivist.md
+[2026-05-09T11:29:43.399751-07:00] Starting one-shot stage content
+[2026-05-09T11:30:38.876458-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-05-09_morning_briefing_polished.md
+[2026-05-09T11:30:38.876568-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-05-09/content.md
+[2026-05-09T11:30:38.876972-07:00] Starting one-shot stage videoforge
+[2026-05-09T11:31:20.603857-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-05-09_video_summary_plan.md
+[2026-05-09T11:31:20.603975-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-05-09/videoforge.md
+[2026-05-09T11:31:20.604389-07:00] Starting one-shot stage echohsu
+[2026-05-09T11:31:51.738794-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-05-09_morning_briefing_delivery.md
+[2026-05-09T11:31:51.738919-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-05-09/echohsu.md
+[2026-05-09T11:31:51.861948-07:00] Echo autonomous loop service started
+[2026-05-10T03:00:52.261441-07:00] Starting scheduled stage sentinel
+[2026-05-10T03:01:19.267286-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-05-10/sentinel.md
+[2026-05-10T03:30:19.281144-07:00] Starting scheduled stage healer
+[2026-05-10T03:30:43.921318-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-05-10/healer.md
+[2026-05-10T04:30:43.958524-07:00] Starting scheduled stage evolver
+[2026-05-10T04:31:41.832777-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-05-10/evolver.md
+[2026-05-10T05:00:41.849624-07:00] Starting scheduled stage orchestrator
+[2026-05-10T05:01:43.388729-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-05-10_morning_briefing.md
+[2026-05-10T05:01:43.389523-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-05-10/orchestrator.md
+[2026-05-10T05:15:43.412180-07:00] Starting scheduled stage historian
+[2026-05-10T05:16:29.742597-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-05-10/historian.md
+[2026-05-10T05:30:29.749917-07:00] Starting scheduled stage archivist
+[2026-05-10T05:31:23.482872-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-05-10/archivist.md
+[2026-05-10T06:00:23.496942-07:00] Starting scheduled stage content
+[2026-05-10T06:01:36.563224-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-05-10_morning_briefing_polished.md
+[2026-05-10T06:01:36.563356-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-05-10/content.md
+[2026-05-10T06:30:36.577968-07:00] Starting scheduled stage videoforge
+[2026-05-10T06:31:15.307683-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-05-10_video_summary_plan.md
+[2026-05-10T06:31:15.307818-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-05-10/videoforge.md
+[2026-05-10T07:00:15.320827-07:00] Starting scheduled stage echohsu
+[2026-05-10T07:00:47.630165-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-05-10_morning_briefing_delivery.md
+[2026-05-10T07:00:47.630288-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-05-10/echohsu.md
+[2026-05-10T22:26:40.655364-07:00] Echo autonomous loop service started
+[2026-05-10T23:09:25.181488-07:00] Echo autonomous loop service started
+[2026-05-10T23:11:35.321296-07:00] Echo autonomous loop service started
+[2026-05-10T23:20:23.605670-07:00] Echo autonomous loop service started
+[2026-05-10T23:23:13.733910-07:00] Echo autonomous loop service started
+[2026-05-10T23:28:01.036098-07:00] Echo autonomous loop service started
+[2026-05-10T23:29:33.823730-07:00] Echo autonomous loop service started
+[2026-05-10T23:31:04.766618-07:00] Echo autonomous loop service started
+[2026-05-10T23:33:31.804619-07:00] Echo autonomous loop service started
+[2026-05-10T23:37:18.235064-07:00] Echo autonomous loop service started
+[2026-05-10T23:39:01.114478-07:00] Echo autonomous loop service started
+[2026-05-10T23:41:02.647657-07:00] Echo autonomous loop service started
+[2026-05-11T10:13:22.914481-07:00] Echo autonomous loop service started
+[2026-05-11T10:13:22.916779-07:00] Starting scheduled stage sentinel
+[2026-05-11T10:14:03.051849-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-05-11/sentinel.md
+[2026-05-11T10:14:03.057211-07:00] Starting scheduled stage healer
+[2026-05-11T10:14:50.386544-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-05-11/healer.md
+[2026-05-11T10:14:50.395582-07:00] Starting scheduled stage evolver
+[2026-05-11T10:37:06.964300-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-05-11/evolver.md
+[2026-05-11T10:37:06.972486-07:00] Starting scheduled stage orchestrator
+[2026-05-11T10:50:08.297698-07:00] Echo autonomous loop service started
+[2026-05-11T10:50:08.304543-07:00] Starting scheduled stage orchestrator
+[2026-05-11T10:51:03.407546-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-05-11_morning_briefing.md
+[2026-05-11T10:51:03.407746-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-05-11/orchestrator.md
+[2026-05-11T10:51:03.408284-07:00] Starting scheduled stage historian
+[2026-05-11T10:51:50.449666-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-05-11/historian.md
+[2026-05-11T10:51:50.450070-07:00] Starting scheduled stage archivist
+[2026-05-11T10:52:42.446937-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-05-11/archivist.md
+[2026-05-11T10:52:42.447325-07:00] Starting scheduled stage content
+[2026-05-11T10:53:42.546070-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-05-11_morning_briefing_polished.md
+[2026-05-11T10:53:42.546241-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-05-11/content.md
+[2026-05-11T10:53:42.546695-07:00] Starting scheduled stage videoforge
+[2026-05-11T10:54:27.832305-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-05-11_video_summary_plan.md
+[2026-05-11T10:54:27.832792-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-05-11/videoforge.md
+[2026-05-11T10:54:27.833203-07:00] Starting scheduled stage echohsu
+[2026-05-11T10:55:10.372086-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-05-11_morning_briefing_delivery.md
+[2026-05-11T10:55:10.372244-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-05-11/echohsu.md
+[2026-05-11T21:53:50.064674-07:00] Echo autonomous loop service started
+[2026-05-12T03:00:50.212191-07:00] Starting scheduled stage sentinel
+[2026-05-12T03:01:07.861076-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-05-12/sentinel.md
+[2026-05-12T03:30:07.875093-07:00] Starting scheduled stage healer
+[2026-05-12T03:30:24.429799-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-05-12/healer.md
+[2026-05-12T04:30:24.453782-07:00] Starting scheduled stage evolver
+[2026-05-12T04:30:41.450897-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-05-12/evolver.md
+[2026-05-12T05:00:41.464771-07:00] Starting scheduled stage orchestrator
+[2026-05-12T05:01:07.035987-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-05-12_morning_briefing.md
+[2026-05-12T05:01:07.036176-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-05-12/orchestrator.md
+[2026-05-12T05:15:07.042412-07:00] Starting scheduled stage historian
+[2026-05-12T05:15:23.911448-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-05-12/historian.md
+[2026-05-12T05:30:23.918775-07:00] Starting scheduled stage archivist
+[2026-05-12T05:30:42.058316-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-05-12/archivist.md
+[2026-05-12T06:00:42.072390-07:00] Starting scheduled stage content
+[2026-05-12T06:01:00.566142-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-05-12_morning_briefing_polished.md
+[2026-05-12T06:01:00.566255-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-05-12/content.md
+[2026-05-12T06:30:00.580086-07:00] Starting scheduled stage videoforge
+[2026-05-12T06:30:18.115021-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-05-12_video_summary_plan.md
+[2026-05-12T06:30:18.115127-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-05-12/videoforge.md
+[2026-05-12T07:00:18.130005-07:00] Starting scheduled stage echohsu
+[2026-05-12T07:00:36.896311-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-05-12_morning_briefing_delivery.md
+[2026-05-12T07:00:36.896422-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-05-12/echohsu.md
+[2026-05-13T03:00:37.434874-07:00] Starting scheduled stage sentinel
+[2026-05-13T03:00:42.025517-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-05-13/sentinel.md
+[2026-05-13T03:30:42.039167-07:00] Starting scheduled stage healer
+[2026-05-13T03:30:46.720954-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-05-13/healer.md
+[2026-05-13T04:30:46.749940-07:00] Starting scheduled stage evolver
+[2026-05-13T04:30:51.301127-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-05-13/evolver.md
+[2026-05-13T05:00:51.315138-07:00] Starting scheduled stage orchestrator
+[2026-05-13T05:01:03.641018-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-05-13_morning_briefing.md
+[2026-05-13T05:01:03.641134-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-05-13/orchestrator.md
+[2026-05-13T05:15:03.648280-07:00] Starting scheduled stage historian
+[2026-05-13T05:15:08.351339-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-05-13/historian.md
+[2026-05-13T05:30:08.358063-07:00] Starting scheduled stage archivist
+[2026-05-13T05:30:13.060849-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-05-13/archivist.md
+[2026-05-13T06:00:13.073782-07:00] Starting scheduled stage content
+[2026-05-13T06:00:17.761984-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-05-13_morning_briefing_polished.md
+[2026-05-13T06:00:17.762093-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-05-13/content.md
+[2026-05-13T06:30:17.776558-07:00] Starting scheduled stage videoforge
+[2026-05-13T06:30:22.391637-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-05-13_video_summary_plan.md
+[2026-05-13T06:30:22.391751-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-05-13/videoforge.md
+[2026-05-13T07:00:22.405678-07:00] Starting scheduled stage echohsu
+[2026-05-13T07:00:27.115732-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-05-13_morning_briefing_delivery.md
+[2026-05-13T07:00:27.115863-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-05-13/echohsu.md
+[2026-05-14T02:38:04.358516-07:00] Echo autonomous loop service started
+[2026-05-14T02:56:43.394644-07:00] Starting one-shot stage sentinel
+[2026-05-14T03:00:04.368769-07:00] Starting scheduled stage sentinel
+[2026-05-14T03:22:46.336228-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-05-14/sentinel.md
+[2026-05-14T03:30:46.339949-07:00] Starting scheduled stage healer
+[2026-05-14T04:00:59.229235-07:00] Echo autonomous loop service started
+[2026-05-14T04:00:59.229616-07:00] Starting scheduled stage healer
+[2026-05-14T04:17:30.778377-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-05-14/healer.md
+[2026-05-14T04:30:30.785125-07:00] Starting scheduled stage evolver
+[2026-05-14T04:47:10.764054-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-05-14/evolver.md
+[2026-05-14T05:00:10.770764-07:00] Starting scheduled stage orchestrator
+[2026-05-14T05:10:54.087360-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-05-14_morning_briefing.md
+[2026-05-14T05:10:54.087551-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-05-14/orchestrator.md
+[2026-05-14T05:15:54.090295-07:00] Starting scheduled stage historian
+[2026-05-14T05:22:37.012528-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-05-14/historian.md
+[2026-05-14T05:30:37.016431-07:00] Starting scheduled stage archivist
+[2026-05-14T05:37:42.991606-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-05-14/archivist.md
+[2026-05-14T06:00:43.003466-07:00] Starting scheduled stage content
+[2026-05-14T06:15:14.104803-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-05-14_morning_briefing_polished.md
+[2026-05-14T06:15:14.104929-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-05-14/content.md
+[2026-05-14T06:30:14.112488-07:00] Starting scheduled stage videoforge
+[2026-05-14T06:42:23.012328-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-05-14_video_summary_plan.md
+[2026-05-14T06:42:23.012455-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-05-14/videoforge.md
+[2026-05-14T07:00:23.021304-07:00] Starting scheduled stage echohsu
+[2026-05-14T07:11:54.272837-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-05-14_morning_briefing_delivery.md
+[2026-05-14T07:11:54.272957-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-05-14/echohsu.md
+[2026-05-14T18:18:39.088294-07:00] Starting one-shot stage sentinel
+[2026-05-14T18:57:45.893696-07:00] Starting one-shot stage sentinel
+[2026-05-14T23:35:42.767243-07:00] Echo autonomous loop service started
+[2026-05-14T23:35:42.767814-07:00] Starting scheduled stage docsync
+[2026-05-14T23:35:55.479003-07:00] Echo autonomous loop service started
+[2026-05-14T23:35:55.479391-07:00] Starting scheduled stage docsync
+[2026-05-14T23:36:08.227582-07:00] Echo autonomous loop service started
+[2026-05-14T23:36:08.227983-07:00] Starting scheduled stage docsync
+[2026-05-14T23:36:20.974163-07:00] Echo autonomous loop service started
+[2026-05-14T23:36:20.974553-07:00] Starting scheduled stage docsync
+[2026-05-14T23:36:33.725738-07:00] Echo autonomous loop service started
+[2026-05-14T23:36:33.726152-07:00] Starting scheduled stage docsync
+[2026-05-14T23:36:46.478360-07:00] Echo autonomous loop service started
+[2026-05-14T23:36:46.478731-07:00] Starting scheduled stage docsync
+[2026-05-14T23:36:58.976538-07:00] Echo autonomous loop service started
+[2026-05-14T23:36:58.976955-07:00] Starting scheduled stage docsync
+[2026-05-14T23:37:11.720188-07:00] Echo autonomous loop service started
+[2026-05-14T23:37:11.720566-07:00] Starting scheduled stage docsync
+[2026-05-14T23:37:24.474260-07:00] Echo autonomous loop service started
+[2026-05-14T23:37:24.474653-07:00] Starting scheduled stage docsync
+[2026-05-14T23:37:36.971731-07:00] Echo autonomous loop service started
+[2026-05-14T23:37:36.972143-07:00] Starting scheduled stage docsync
+[2026-05-14T23:37:49.739543-07:00] Echo autonomous loop service started
+[2026-05-14T23:37:49.740614-07:00] Starting scheduled stage docsync
+[2026-05-14T23:38:02.227686-07:00] Echo autonomous loop service started
+[2026-05-14T23:38:02.228095-07:00] Starting scheduled stage docsync
+[2026-05-14T23:38:14.976320-07:00] Echo autonomous loop service started
+[2026-05-14T23:38:14.976707-07:00] Starting scheduled stage docsync
+[2026-05-14T23:38:27.725391-07:00] Echo autonomous loop service started
+[2026-05-14T23:38:27.725764-07:00] Starting scheduled stage docsync
+[2026-05-14T23:38:40.480181-07:00] Echo autonomous loop service started
+[2026-05-14T23:38:40.480575-07:00] Starting scheduled stage docsync
+[2026-05-14T23:38:52.978920-07:00] Echo autonomous loop service started
+[2026-05-14T23:38:52.979309-07:00] Starting scheduled stage docsync
+[2026-05-14T23:39:05.727907-07:00] Echo autonomous loop service started
+[2026-05-14T23:39:05.728762-07:00] Starting scheduled stage docsync
+[2026-05-14T23:39:18.221964-07:00] Echo autonomous loop service started
+[2026-05-14T23:39:18.222444-07:00] Starting scheduled stage docsync
+[2026-05-14T23:39:30.981357-07:00] Echo autonomous loop service started
+[2026-05-14T23:39:30.981742-07:00] Starting scheduled stage docsync
+[2026-05-14T23:39:43.726313-07:00] Echo autonomous loop service started
+[2026-05-14T23:39:43.726696-07:00] Starting scheduled stage docsync
+[2026-05-14T23:39:56.225688-07:00] Echo autonomous loop service started
+[2026-05-14T23:39:56.226090-07:00] Starting scheduled stage docsync
+[2026-05-14T23:40:08.729634-07:00] Echo autonomous loop service started
+[2026-05-14T23:40:08.730028-07:00] Starting scheduled stage docsync
+[2026-05-14T23:40:21.477280-07:00] Echo autonomous loop service started
+[2026-05-14T23:40:21.477655-07:00] Starting scheduled stage docsync
+[2026-05-14T23:40:34.225961-07:00] Echo autonomous loop service started
+[2026-05-14T23:40:34.226334-07:00] Starting scheduled stage docsync
+[2026-05-14T23:40:46.975199-07:00] Echo autonomous loop service started
+[2026-05-14T23:40:46.975589-07:00] Starting scheduled stage docsync
+[2026-05-14T23:40:59.722692-07:00] Echo autonomous loop service started
+[2026-05-14T23:40:59.723114-07:00] Starting scheduled stage docsync
+[2026-05-14T23:41:12.231848-07:00] Echo autonomous loop service started
+[2026-05-14T23:41:12.232229-07:00] Starting scheduled stage docsync
+[2026-05-14T23:41:24.973671-07:00] Echo autonomous loop service started
+[2026-05-14T23:41:24.974077-07:00] Starting scheduled stage docsync
+[2026-05-14T23:41:37.729891-07:00] Echo autonomous loop service started
+[2026-05-14T23:41:37.730336-07:00] Starting scheduled stage docsync
+[2026-05-14T23:41:50.482192-07:00] Echo autonomous loop service started
+[2026-05-14T23:41:50.482563-07:00] Starting scheduled stage docsync
+[2026-05-14T23:42:03.001135-07:00] Echo autonomous loop service started
+[2026-05-14T23:42:03.001796-07:00] Starting scheduled stage docsync
+[2026-05-14T23:42:15.720124-07:00] Echo autonomous loop service started
+[2026-05-14T23:42:15.720507-07:00] Starting scheduled stage docsync
+[2026-05-14T23:42:28.223225-07:00] Echo autonomous loop service started
+[2026-05-14T23:42:28.223598-07:00] Starting scheduled stage docsync
+[2026-05-14T23:42:40.980472-07:00] Echo autonomous loop service started
+[2026-05-14T23:42:40.980884-07:00] Starting scheduled stage docsync
+[2026-05-14T23:42:53.724762-07:00] Echo autonomous loop service started
+[2026-05-14T23:42:53.725169-07:00] Starting scheduled stage docsync
+[2026-05-14T23:43:06.482187-07:00] Echo autonomous loop service started
+[2026-05-14T23:43:06.482577-07:00] Starting scheduled stage docsync
+[2026-05-14T23:43:18.977754-07:00] Echo autonomous loop service started
+[2026-05-14T23:43:18.978150-07:00] Starting scheduled stage docsync
+[2026-05-14T23:43:31.727678-07:00] Echo autonomous loop service started
+[2026-05-14T23:43:31.728576-07:00] Starting scheduled stage docsync
+[2026-05-14T23:43:44.480136-07:00] Echo autonomous loop service started
+[2026-05-14T23:43:44.480517-07:00] Starting scheduled stage docsync
+[2026-05-14T23:43:57.228854-07:00] Echo autonomous loop service started
+[2026-05-14T23:43:57.229228-07:00] Starting scheduled stage docsync
+[2026-05-14T23:44:09.970112-07:00] Echo autonomous loop service started
+[2026-05-14T23:44:09.970489-07:00] Starting scheduled stage docsync
+[2026-05-14T23:44:22.469760-07:00] Echo autonomous loop service started
+[2026-05-14T23:44:22.470149-07:00] Starting scheduled stage docsync
+[2026-05-14T23:44:35.221942-07:00] Echo autonomous loop service started
+[2026-05-14T23:44:35.222313-07:00] Starting scheduled stage docsync
+[2026-05-14T23:44:47.973557-07:00] Echo autonomous loop service started
+[2026-05-14T23:44:47.973949-07:00] Starting scheduled stage docsync
+[2026-05-14T23:45:00.724689-07:00] Echo autonomous loop service started
+[2026-05-14T23:45:00.725084-07:00] Starting scheduled stage docsync
+[2026-05-14T23:45:13.473877-07:00] Echo autonomous loop service started
+[2026-05-14T23:45:13.474249-07:00] Starting scheduled stage docsync
+[2026-05-14T23:45:25.976863-07:00] Echo autonomous loop service started
+[2026-05-14T23:45:25.977245-07:00] Starting scheduled stage docsync
+[2026-05-14T23:45:38.731564-07:00] Echo autonomous loop service started
+[2026-05-14T23:45:38.732000-07:00] Starting scheduled stage docsync
+[2026-05-14T23:45:51.228364-07:00] Echo autonomous loop service started
+[2026-05-14T23:45:51.228752-07:00] Starting scheduled stage docsync
+[2026-05-14T23:46:03.974490-07:00] Echo autonomous loop service started
+[2026-05-14T23:46:03.974957-07:00] Starting scheduled stage docsync
+[2026-05-14T23:46:16.725807-07:00] Echo autonomous loop service started
+[2026-05-14T23:46:16.726181-07:00] Starting scheduled stage docsync
+[2026-05-14T23:46:29.227087-07:00] Echo autonomous loop service started
+[2026-05-14T23:46:29.227465-07:00] Starting scheduled stage docsync
+[2026-05-14T23:46:41.976677-07:00] Echo autonomous loop service started
+[2026-05-14T23:46:41.977085-07:00] Starting scheduled stage docsync
+[2026-05-14T23:46:54.729729-07:00] Echo autonomous loop service started
+[2026-05-14T23:46:54.730142-07:00] Starting scheduled stage docsync
+[2026-05-14T23:47:07.479532-07:00] Echo autonomous loop service started
+[2026-05-14T23:47:07.479936-07:00] Starting scheduled stage docsync
+[2026-05-14T23:47:19.983742-07:00] Echo autonomous loop service started
+[2026-05-14T23:47:19.984165-07:00] Starting scheduled stage docsync
+[2026-05-14T23:47:32.733201-07:00] Echo autonomous loop service started
+[2026-05-14T23:47:32.733578-07:00] Starting scheduled stage docsync
+[2026-05-14T23:47:45.476211-07:00] Echo autonomous loop service started
+[2026-05-14T23:47:45.476582-07:00] Starting scheduled stage docsync
+[2026-05-14T23:47:57.976018-07:00] Echo autonomous loop service started
+[2026-05-14T23:47:57.976402-07:00] Starting scheduled stage docsync
+[2026-05-14T23:48:10.478694-07:00] Echo autonomous loop service started
+[2026-05-14T23:48:10.479093-07:00] Starting scheduled stage docsync
+[2026-05-14T23:48:23.230579-07:00] Echo autonomous loop service started
+[2026-05-14T23:48:23.231001-07:00] Starting scheduled stage docsync
+[2026-05-14T23:48:35.972263-07:00] Echo autonomous loop service started
+[2026-05-14T23:48:35.972653-07:00] Starting scheduled stage docsync
+[2026-05-14T23:48:48.480704-07:00] Echo autonomous loop service started
+[2026-05-14T23:48:48.481104-07:00] Starting scheduled stage docsync
+[2026-05-14T23:49:01.227015-07:00] Echo autonomous loop service started
+[2026-05-14T23:49:01.227404-07:00] Starting scheduled stage docsync
+[2026-05-14T23:49:13.974021-07:00] Echo autonomous loop service started
+[2026-05-14T23:49:13.974396-07:00] Starting scheduled stage docsync
+[2026-05-14T23:49:26.729053-07:00] Echo autonomous loop service started
+[2026-05-14T23:49:26.729439-07:00] Starting scheduled stage docsync
+[2026-05-14T23:49:39.238516-07:00] Echo autonomous loop service started
+[2026-05-14T23:49:39.238966-07:00] Starting scheduled stage docsync
+[2026-05-14T23:49:51.976356-07:00] Echo autonomous loop service started
+[2026-05-14T23:49:51.976729-07:00] Starting scheduled stage docsync
+[2026-05-14T23:50:04.741651-07:00] Echo autonomous loop service started
+[2026-05-14T23:50:04.742074-07:00] Starting scheduled stage docsync
+[2026-05-14T23:50:17.480867-07:00] Echo autonomous loop service started
+[2026-05-14T23:50:17.481247-07:00] Starting scheduled stage docsync
+[2026-05-14T23:50:29.974885-07:00] Echo autonomous loop service started
+[2026-05-14T23:50:29.975277-07:00] Starting scheduled stage docsync
+[2026-05-14T23:50:42.723644-07:00] Echo autonomous loop service started
+[2026-05-14T23:50:42.724187-07:00] Starting scheduled stage docsync
+[2026-05-14T23:50:55.229518-07:00] Echo autonomous loop service started
+[2026-05-14T23:50:55.229909-07:00] Starting scheduled stage docsync
+[2026-05-14T23:51:07.972822-07:00] Echo autonomous loop service started
+[2026-05-14T23:51:07.973206-07:00] Starting scheduled stage docsync
+[2026-05-14T23:51:20.725389-07:00] Echo autonomous loop service started
+[2026-05-14T23:51:20.725768-07:00] Starting scheduled stage docsync
+[2026-05-14T23:51:33.477772-07:00] Echo autonomous loop service started
+[2026-05-14T23:51:33.478162-07:00] Starting scheduled stage docsync
+[2026-05-14T23:51:45.974740-07:00] Echo autonomous loop service started
+[2026-05-14T23:51:45.975143-07:00] Starting scheduled stage docsync
+[2026-05-14T23:51:58.478293-07:00] Echo autonomous loop service started
+[2026-05-14T23:51:58.478678-07:00] Starting scheduled stage docsync
+[2026-05-14T23:52:11.228181-07:00] Echo autonomous loop service started
+[2026-05-14T23:52:11.228567-07:00] Starting scheduled stage docsync
+[2026-05-14T23:52:23.976984-07:00] Echo autonomous loop service started
+[2026-05-14T23:52:23.977368-07:00] Starting scheduled stage docsync
+[2026-05-14T23:52:36.474763-07:00] Echo autonomous loop service started
+[2026-05-14T23:52:36.475152-07:00] Starting scheduled stage docsync
+[2026-05-14T23:52:48.975526-07:00] Echo autonomous loop service started
+[2026-05-14T23:52:48.975926-07:00] Starting scheduled stage docsync
+[2026-05-14T23:53:01.734314-07:00] Echo autonomous loop service started
+[2026-05-14T23:53:01.734703-07:00] Starting scheduled stage docsync
+[2026-05-14T23:53:14.477160-07:00] Echo autonomous loop service started
+[2026-05-14T23:53:14.477545-07:00] Starting scheduled stage docsync
+[2026-05-14T23:53:26.974155-07:00] Echo autonomous loop service started
+[2026-05-14T23:53:26.974542-07:00] Starting scheduled stage docsync
+[2026-05-14T23:53:39.476194-07:00] Echo autonomous loop service started
+[2026-05-14T23:53:39.476572-07:00] Starting scheduled stage docsync
+[2026-05-14T23:53:52.237885-07:00] Echo autonomous loop service started
+[2026-05-14T23:53:52.238266-07:00] Starting scheduled stage docsync
+[2026-05-14T23:54:04.980172-07:00] Echo autonomous loop service started
+[2026-05-14T23:54:04.980569-07:00] Starting scheduled stage docsync
+[2026-05-14T23:54:17.729202-07:00] Echo autonomous loop service started
+[2026-05-14T23:54:17.729582-07:00] Starting scheduled stage docsync
+[2026-05-14T23:54:30.471559-07:00] Echo autonomous loop service started
+[2026-05-14T23:54:30.471958-07:00] Starting scheduled stage docsync
+[2026-05-14T23:54:42.974891-07:00] Echo autonomous loop service started
+[2026-05-14T23:54:42.975278-07:00] Starting scheduled stage docsync
+[2026-05-14T23:54:55.721054-07:00] Echo autonomous loop service started
+[2026-05-14T23:54:55.721724-07:00] Starting scheduled stage docsync
+[2026-05-14T23:55:08.223196-07:00] Echo autonomous loop service started
+[2026-05-14T23:55:08.223573-07:00] Starting scheduled stage docsync
+[2026-05-14T23:55:20.977098-07:00] Echo autonomous loop service started
+[2026-05-14T23:55:20.977481-07:00] Starting scheduled stage docsync
+[2026-05-14T23:55:33.733368-07:00] Echo autonomous loop service started
+[2026-05-14T23:55:33.733746-07:00] Starting scheduled stage docsync
+[2026-05-14T23:55:46.479260-07:00] Echo autonomous loop service started
+[2026-05-14T23:55:46.479642-07:00] Starting scheduled stage docsync
+[2026-05-14T23:55:59.243502-07:00] Echo autonomous loop service started
+[2026-05-14T23:55:59.243987-07:00] Starting scheduled stage docsync
+[2026-05-14T23:56:11.977467-07:00] Echo autonomous loop service started
+[2026-05-14T23:56:11.977882-07:00] Starting scheduled stage docsync
+[2026-05-14T23:56:24.728811-07:00] Echo autonomous loop service started
+[2026-05-14T23:56:24.729181-07:00] Starting scheduled stage docsync
+[2026-05-14T23:56:37.220384-07:00] Echo autonomous loop service started
+[2026-05-14T23:56:37.220765-07:00] Starting scheduled stage docsync
+[2026-05-14T23:56:49.976089-07:00] Echo autonomous loop service started
+[2026-05-14T23:56:49.976460-07:00] Starting scheduled stage docsync
+[2026-05-14T23:57:02.730170-07:00] Echo autonomous loop service started
+[2026-05-14T23:57:02.730553-07:00] Starting scheduled stage docsync
+[2026-05-14T23:57:15.476596-07:00] Echo autonomous loop service started
+[2026-05-14T23:57:15.477012-07:00] Starting scheduled stage docsync
+[2026-05-14T23:57:28.221989-07:00] Echo autonomous loop service started
+[2026-05-14T23:57:28.222392-07:00] Starting scheduled stage docsync
+[2026-05-14T23:57:40.724041-07:00] Echo autonomous loop service started
+[2026-05-14T23:57:40.724419-07:00] Starting scheduled stage docsync
+[2026-05-14T23:57:53.474598-07:00] Echo autonomous loop service started
+[2026-05-14T23:57:53.475003-07:00] Starting scheduled stage docsync
+[2026-05-14T23:58:05.972388-07:00] Echo autonomous loop service started
+[2026-05-14T23:58:05.972853-07:00] Starting scheduled stage docsync
+[2026-05-14T23:58:18.726610-07:00] Echo autonomous loop service started
+[2026-05-14T23:58:18.727009-07:00] Starting scheduled stage docsync
+[2026-05-14T23:58:31.481127-07:00] Echo autonomous loop service started
+[2026-05-14T23:58:31.481503-07:00] Starting scheduled stage docsync
+[2026-05-14T23:58:44.228501-07:00] Echo autonomous loop service started
+[2026-05-14T23:58:44.228897-07:00] Starting scheduled stage docsync
+[2026-05-14T23:58:56.976548-07:00] Echo autonomous loop service started
+[2026-05-14T23:58:56.976969-07:00] Starting scheduled stage docsync
+[2026-05-14T23:59:09.729511-07:00] Echo autonomous loop service started
+[2026-05-14T23:59:09.729906-07:00] Starting scheduled stage docsync
+[2026-05-14T23:59:22.226325-07:00] Echo autonomous loop service started
+[2026-05-14T23:59:22.226714-07:00] Starting scheduled stage docsync
+[2026-05-14T23:59:34.980217-07:00] Echo autonomous loop service started
+[2026-05-14T23:59:34.980603-07:00] Starting scheduled stage docsync
+[2026-05-14T23:59:47.722334-07:00] Echo autonomous loop service started
+[2026-05-14T23:59:47.722709-07:00] Starting scheduled stage docsync
+[2026-05-15T00:00:00.499033-07:00] Echo autonomous loop service started
+[2026-05-15T03:00:00.588577-07:00] Starting scheduled stage sentinel
+[2026-05-15T03:13:15.989622-07:00] Echo autonomous loop service started
+[2026-05-15T03:13:15.990016-07:00] Starting scheduled stage sentinel
+[2026-05-15T03:36:41.228613-07:00] Echo autonomous loop service started
+[2026-05-15T03:36:41.229421-07:00] Starting scheduled stage sentinel
+[2026-05-15T03:54:33.485991-07:00] Echo autonomous loop service started
+[2026-05-15T03:54:33.486832-07:00] Starting scheduled stage sentinel
+[2026-05-15T04:07:54.724583-07:00] Echo autonomous loop service started
+[2026-05-15T04:07:54.724981-07:00] Starting scheduled stage sentinel
+[2026-05-15T04:30:47.971061-07:00] Echo autonomous loop service started
+[2026-05-15T04:30:47.971432-07:00] Starting scheduled stage sentinel
+[2026-05-15T04:52:09.134000-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-05-15/sentinel.md
+[2026-05-15T04:52:09.134430-07:00] Starting scheduled stage healer
+[2026-05-15T05:05:18.433243-07:00] Echo autonomous loop service started
+[2026-05-15T05:05:18.433627-07:00] Starting scheduled stage healer
+[2026-05-15T05:13:22.877648-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-05-15/healer.md
+[2026-05-15T05:13:22.878105-07:00] Starting scheduled stage evolver
+[2026-05-15T05:18:31.826729-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-05-15/evolver.md
+[2026-05-15T05:18:31.827192-07:00] Starting scheduled stage orchestrator
+[2026-05-15T05:26:50.093197-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-05-15_morning_briefing.md
+[2026-05-15T05:26:50.093310-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-05-15/orchestrator.md
+[2026-05-15T05:27:50.094227-07:00] Starting scheduled stage docsync
+[2026-05-15T05:27:52.440338-07:00] Completed stage docsync; artifact=/root/echo_system/runtime/stage_outputs/2026-05-15/docsync.md
+[2026-05-15T05:27:52.441111-07:00] Starting scheduled stage historian
+[2026-05-15T05:31:43.994234-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-05-15/historian.md
+[2026-05-15T05:32:43.995181-07:00] Starting scheduled stage archivist
+[2026-05-15T05:37:58.410896-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-05-15/archivist.md
+[2026-05-15T06:00:58.422640-07:00] Starting scheduled stage content
+[2026-05-15T06:13:07.036518-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-05-15_morning_briefing_polished.md
+[2026-05-15T06:13:07.037669-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-05-15/content.md
+[2026-05-15T06:30:07.046092-07:00] Starting scheduled stage videoforge
+[2026-05-15T06:39:48.551501-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-05-15_video_summary_plan.md
+[2026-05-15T06:39:48.551617-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-05-15/videoforge.md
+[2026-05-15T07:00:48.562137-07:00] Starting scheduled stage echohsu
+[2026-05-15T07:09:58.699937-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-05-15_morning_briefing_delivery.md
+[2026-05-15T07:09:58.700044-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-05-15/echohsu.md
+[2026-05-15T19:45:15.040564-07:00] Echo autonomous loop service started
+[2026-05-16T03:00:25.915261-07:00] Starting scheduled stage sentinel
+[2026-05-16T03:23:58.936909-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-05-16/sentinel.md
+[2026-05-16T03:30:58.940675-07:00] Starting scheduled stage healer
+[2026-05-16T04:01:11.502514-07:00] Echo autonomous loop service started
+[2026-05-16T04:01:11.502917-07:00] Starting scheduled stage healer
+[2026-05-16T04:22:48.972605-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-05-16/healer.md
+[2026-05-16T04:30:48.976692-07:00] Starting scheduled stage evolver
+[2026-05-16T04:40:56.387776-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-05-16/evolver.md
+[2026-05-16T05:00:56.397849-07:00] Starting scheduled stage orchestrator
+[2026-05-16T05:14:33.328349-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-05-16_morning_briefing.md
+[2026-05-16T05:14:33.328464-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-05-16/orchestrator.md
+[2026-05-16T05:15:33.329406-07:00] Starting scheduled stage docsync
+[2026-05-16T05:15:35.719997-07:00] Completed stage docsync; artifact=/root/echo_system/runtime/stage_outputs/2026-05-16/docsync.md
+[2026-05-16T05:15:35.721157-07:00] Starting scheduled stage historian
+[2026-05-16T05:24:00.060362-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-05-16/historian.md
+[2026-05-16T05:30:00.063701-07:00] Starting scheduled stage archivist
+[2026-05-16T05:36:34.380790-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-05-16/archivist.md
+[2026-05-16T06:00:34.393022-07:00] Starting scheduled stage content
+[2026-05-16T06:15:40.910753-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-05-16_morning_briefing_polished.md
+[2026-05-16T06:15:40.910869-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-05-16/content.md
+[2026-05-16T06:30:40.918331-07:00] Starting scheduled stage videoforge
+[2026-05-16T06:44:16.734524-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-05-16_video_summary_plan.md
+[2026-05-16T06:44:16.734642-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-05-16/videoforge.md
+[2026-05-16T07:00:16.742731-07:00] Starting scheduled stage echohsu
+[2026-05-16T07:11:46.003690-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-05-16_morning_briefing_delivery.md
+[2026-05-16T07:11:46.003921-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-05-16/echohsu.md
+[2026-05-17T03:00:46.560794-07:00] Starting scheduled stage sentinel
+[2026-05-17T03:21:12.958376-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-05-17/sentinel.md
+[2026-05-17T03:30:12.963228-07:00] Starting scheduled stage healer
+[2026-05-17T03:40:04.840887-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-05-17/healer.md
+[2026-05-17T04:30:04.865335-07:00] Starting scheduled stage evolver
+[2026-05-17T04:41:44.544826-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-05-17/evolver.md
+[2026-05-17T05:00:44.554248-07:00] Starting scheduled stage orchestrator
+[2026-05-17T05:17:17.837541-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-05-17_morning_briefing.md
+[2026-05-17T05:17:17.837672-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-05-17/orchestrator.md
+[2026-05-17T05:18:17.838626-07:00] Starting scheduled stage docsync
+[2026-05-17T05:18:20.142246-07:00] Completed stage docsync; artifact=/root/echo_system/runtime/stage_outputs/2026-05-17/docsync.md
+[2026-05-17T05:18:20.142756-07:00] Starting scheduled stage historian
+[2026-05-17T05:34:27.930256-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-05-17/historian.md
+[2026-05-17T05:35:27.931265-07:00] Starting scheduled stage archivist
+[2026-05-17T05:45:23.096486-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-05-17/archivist.md
+[2026-05-17T06:00:23.104826-07:00] Starting scheduled stage content
+[2026-05-17T06:15:43.985195-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-05-17_morning_briefing_polished.md
+[2026-05-17T06:15:43.985312-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-05-17/content.md
+[2026-05-17T06:30:43.993318-07:00] Starting scheduled stage videoforge
+[2026-05-17T06:43:39.046491-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-05-17_video_summary_plan.md
+[2026-05-17T06:43:39.046624-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-05-17/videoforge.md
+[2026-05-17T07:00:39.055407-07:00] Starting scheduled stage echohsu
+[2026-05-17T07:08:00.826664-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-05-17_morning_briefing_delivery.md
+[2026-05-17T07:08:00.826779-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-05-17/echohsu.md
+[2026-05-17T22:32:54.454887-07:00] Echo autonomous loop service started
+[2026-05-18T03:00:54.588285-07:00] Starting scheduled stage sentinel
+[2026-05-18T03:01:18.174209-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-05-18/sentinel.md
+[2026-05-18T03:30:18.189707-07:00] Starting scheduled stage healer
+[2026-05-18T03:30:40.395870-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-05-18/healer.md
+[2026-05-18T04:30:40.424847-07:00] Starting scheduled stage evolver
+[2026-05-18T04:31:12.407372-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-05-18/evolver.md
+[2026-05-18T05:00:12.420353-07:00] Starting scheduled stage orchestrator
+[2026-05-18T05:00:38.931271-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-05-18_morning_briefing.md
+[2026-05-18T05:00:38.931397-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-05-18/orchestrator.md
+[2026-05-18T05:15:38.939378-07:00] Starting scheduled stage docsync
+[2026-05-18T05:15:41.430257-07:00] Completed stage docsync; artifact=/root/echo_system/runtime/stage_outputs/2026-05-18/docsync.md
+[2026-05-18T05:15:41.430968-07:00] Starting scheduled stage historian
+[2026-05-18T05:16:20.617256-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-05-18/historian.md
+[2026-05-18T05:30:20.625446-07:00] Starting scheduled stage archivist
+[2026-05-18T05:30:53.414893-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-05-18/archivist.md
+[2026-05-18T06:00:53.430461-07:00] Starting scheduled stage content
+[2026-05-18T06:13:20.501760-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-05-18_morning_briefing_polished.md
+[2026-05-18T06:13:20.501887-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-05-18/content.md
+[2026-05-18T06:30:20.510938-07:00] Starting scheduled stage videoforge
+[2026-05-18T06:39:53.054445-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-05-18_video_summary_plan.md
+[2026-05-18T06:39:53.054573-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-05-18/videoforge.md
+[2026-05-18T07:00:53.065634-07:00] Starting scheduled stage echohsu
+[2026-05-18T07:01:23.229070-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-05-18_morning_briefing_delivery.md
+[2026-05-18T07:01:23.229205-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-05-18/echohsu.md
+[2026-05-19T03:00:23.817159-07:00] Starting scheduled stage sentinel
+[2026-05-19T03:00:50.605716-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-05-19/sentinel.md
+[2026-05-19T03:30:50.621406-07:00] Starting scheduled stage healer
+[2026-05-19T03:31:04.685242-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-05-19/healer.md
+[2026-05-19T04:30:04.715419-07:00] Starting scheduled stage evolver
+[2026-05-19T04:30:17.937576-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-05-19/evolver.md
+[2026-05-19T05:00:17.953510-07:00] Starting scheduled stage orchestrator
+[2026-05-19T05:00:23.623875-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-05-19_morning_briefing.md
+[2026-05-19T05:00:23.624185-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-05-19/orchestrator.md
+[2026-05-19T05:15:23.632445-07:00] Starting scheduled stage docsync
+[2026-05-19T05:15:26.246900-07:00] Completed stage docsync; artifact=/root/echo_system/runtime/stage_outputs/2026-05-19/docsync.md
+[2026-05-19T05:15:26.247624-07:00] Starting scheduled stage historian
+[2026-05-19T05:15:39.659112-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-05-19/historian.md
+[2026-05-19T05:30:39.667734-07:00] Starting scheduled stage archivist
+[2026-05-19T05:30:52.935114-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-05-19/archivist.md
+[2026-05-19T06:00:52.950852-07:00] Starting scheduled stage content
+[2026-05-19T06:00:58.351054-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-05-19_morning_briefing_polished.md
+[2026-05-19T06:00:58.351188-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-05-19/content.md
+[2026-05-19T06:30:58.363947-07:00] Starting scheduled stage videoforge
+[2026-05-19T06:31:03.871637-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-05-19_video_summary_plan.md
+[2026-05-19T06:31:03.871765-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-05-19/videoforge.md
+[2026-05-19T07:00:03.886985-07:00] Starting scheduled stage echohsu
+[2026-05-19T07:01:09.614132-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-05-19_morning_briefing_delivery.md
+[2026-05-19T07:01:09.614261-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-05-19/echohsu.md
+[2026-05-20T03:00:10.211326-07:00] Starting scheduled stage sentinel
+[2026-05-20T03:00:39.644798-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-05-20/sentinel.md
+[2026-05-20T03:30:39.659928-07:00] Starting scheduled stage healer
+[2026-05-20T03:30:53.447278-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-05-20/healer.md
+[2026-05-20T04:30:53.479347-07:00] Starting scheduled stage evolver
+[2026-05-20T04:31:06.661685-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-05-20/evolver.md
+[2026-05-20T05:00:06.677624-07:00] Starting scheduled stage orchestrator
+[2026-05-20T05:00:36.647435-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-05-20_morning_briefing.md
+[2026-05-20T05:00:36.647560-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-05-20/orchestrator.md
+[2026-05-20T05:15:36.656061-07:00] Starting scheduled stage docsync
+[2026-05-20T05:15:39.448375-07:00] Completed stage docsync; artifact=/root/echo_system/runtime/stage_outputs/2026-05-20/docsync.md
+[2026-05-20T05:15:39.449854-07:00] Starting scheduled stage historian
+[2026-05-20T05:15:54.079454-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-05-20/historian.md
+[2026-05-20T05:30:54.089846-07:00] Starting scheduled stage archivist
+[2026-05-20T05:31:39.274569-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-05-20/archivist.md
+[2026-05-20T06:00:39.289220-07:00] Starting scheduled stage content
+[2026-05-20T06:00:54.247829-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-05-20_morning_briefing_polished.md
+[2026-05-20T06:00:54.247988-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-05-20/content.md
+[2026-05-20T06:30:54.264977-07:00] Starting scheduled stage videoforge
+[2026-05-20T06:31:01.289687-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-05-20_video_summary_plan.md
+[2026-05-20T06:31:01.289833-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-05-20/videoforge.md
+[2026-05-20T07:00:01.301659-07:00] Starting scheduled stage echohsu
+[2026-05-20T07:00:27.984891-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-05-20_morning_briefing_delivery.md
+[2026-05-20T07:00:27.985018-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-05-20/echohsu.md
+[2026-05-21T03:00:28.577374-07:00] Starting scheduled stage sentinel
+[2026-05-21T03:00:59.254330-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-05-21/sentinel.md
+[2026-05-21T03:30:59.269953-07:00] Starting scheduled stage healer
+[2026-05-21T03:31:12.608811-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-05-21/healer.md
+[2026-05-21T04:30:12.640539-07:00] Starting scheduled stage evolver
+[2026-05-21T04:30:26.019057-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-05-21/evolver.md
+[2026-05-21T05:00:26.034392-07:00] Starting scheduled stage orchestrator
+[2026-05-21T05:01:13.182497-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-05-21_morning_briefing.md
+[2026-05-21T05:01:13.182673-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-05-21/orchestrator.md
+[2026-05-21T05:15:13.191953-07:00] Starting scheduled stage docsync
+[2026-05-21T05:15:16.020453-07:00] Completed stage docsync; artifact=/root/echo_system/runtime/stage_outputs/2026-05-21/docsync.md
+[2026-05-21T05:15:16.021209-07:00] Starting scheduled stage historian
+[2026-05-21T05:15:29.579097-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-05-21/historian.md
+[2026-05-21T05:30:29.587662-07:00] Starting scheduled stage archivist
+[2026-05-21T05:31:00.670682-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-05-21/archivist.md
+[2026-05-21T06:00:00.686019-07:00] Starting scheduled stage content
+[2026-05-21T06:00:14.899240-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-05-21_morning_briefing_polished.md
+[2026-05-21T06:00:14.899377-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-05-21/content.md
+[2026-05-21T06:30:14.915503-07:00] Starting scheduled stage videoforge
+[2026-05-21T06:30:20.848483-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-05-21_video_summary_plan.md
+[2026-05-21T06:30:20.848638-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-05-21/videoforge.md
+[2026-05-21T07:00:20.864813-07:00] Starting scheduled stage echohsu
+[2026-05-21T07:00:57.803835-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-05-21_morning_briefing_delivery.md
+[2026-05-21T07:00:57.803961-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-05-21/echohsu.md
+[2026-05-22T03:00:58.401036-07:00] Starting scheduled stage sentinel
+[2026-05-22T03:03:36.768706-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-05-22/sentinel.md
+[2026-05-22T03:30:36.783020-07:00] Starting scheduled stage healer
+[2026-05-22T03:30:50.085283-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-05-22/healer.md
+[2026-05-22T04:30:50.115978-07:00] Starting scheduled stage evolver
+[2026-05-22T04:31:03.259298-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-05-22/evolver.md
+[2026-05-22T05:00:03.274966-07:00] Starting scheduled stage orchestrator
+[2026-05-22T05:05:49.786983-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-05-22_morning_briefing.md
+[2026-05-22T05:05:49.787119-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-05-22/orchestrator.md
+[2026-05-22T05:15:49.793078-07:00] Starting scheduled stage docsync
+[2026-05-22T05:15:52.585945-07:00] Completed stage docsync; artifact=/root/echo_system/runtime/stage_outputs/2026-05-22/docsync.md
+[2026-05-22T05:15:52.586818-07:00] Starting scheduled stage historian
+[2026-05-22T05:16:05.945539-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-05-22/historian.md
+[2026-05-22T05:30:05.952725-07:00] Starting scheduled stage archivist
+[2026-05-22T05:35:32.753020-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-05-22/archivist.md
+[2026-05-22T06:00:32.766770-07:00] Starting scheduled stage content
+[2026-05-22T06:00:46.659716-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-05-22_morning_briefing_polished.md
+[2026-05-22T06:00:46.659840-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-05-22/content.md
+[2026-05-22T06:30:46.675498-07:00] Starting scheduled stage videoforge
+[2026-05-22T06:30:52.313511-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-05-22_video_summary_plan.md
+[2026-05-22T06:30:52.313677-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-05-22/videoforge.md
+[2026-05-22T07:00:52.329454-07:00] Starting scheduled stage echohsu
+[2026-05-22T07:01:05.864031-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-05-22_morning_briefing_delivery.md
+[2026-05-22T07:01:05.864152-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-05-22/echohsu.md
+[2026-05-23T03:00:17.076094-07:00] Starting scheduled stage sentinel
+[2026-05-23T03:00:53.166640-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-05-23/sentinel.md
+[2026-05-23T03:30:53.182486-07:00] Starting scheduled stage healer
+[2026-05-23T03:31:25.441653-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-05-23/healer.md
+[2026-05-23T04:30:25.475188-07:00] Starting scheduled stage evolver
+[2026-05-23T04:31:42.253392-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-05-23/evolver.md
+[2026-05-23T05:00:42.269880-07:00] Starting scheduled stage orchestrator
+[2026-05-23T05:01:13.347969-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-05-23_morning_briefing.md
+[2026-05-23T05:01:13.348118-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-05-23/orchestrator.md
+[2026-05-23T05:15:13.356493-07:00] Starting scheduled stage docsync
+[2026-05-23T05:15:16.270854-07:00] Completed stage docsync; artifact=/root/echo_system/runtime/stage_outputs/2026-05-23/docsync.md
+[2026-05-23T05:15:16.271741-07:00] Starting scheduled stage historian
+[2026-05-23T05:15:55.139914-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-05-23/historian.md
+[2026-05-23T05:30:55.148659-07:00] Starting scheduled stage archivist
+[2026-05-23T05:31:52.472873-07:00] No git changes detected in /root/wiki-public despite writing 3 files
+[2026-05-23T05:31:52.476098-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-05-23/archivist.md
+[2026-05-23T06:00:52.491985-07:00] Starting scheduled stage content
+[2026-05-23T06:01:06.387741-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-05-23_morning_briefing_polished.md
+[2026-05-23T06:01:06.387871-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-05-23/content.md
+[2026-05-23T06:30:06.403486-07:00] Starting scheduled stage videoforge
+[2026-05-23T06:30:12.398519-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-05-23_video_summary_plan.md
+[2026-05-23T06:30:12.398678-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-05-23/videoforge.md
+[2026-05-23T07:00:12.413401-07:00] Starting scheduled stage echohsu
+[2026-05-23T07:00:53.767831-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-05-23_morning_briefing_delivery.md
+[2026-05-23T07:00:53.767997-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-05-23/echohsu.md
+[2026-05-24T03:00:54.960330-07:00] Starting scheduled stage sentinel
+[2026-05-24T03:01:31.350727-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-05-24/sentinel.md
+[2026-05-24T03:30:31.378990-07:00] Starting scheduled stage healer
+[2026-05-24T03:30:45.236097-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-05-24/healer.md
+[2026-05-24T04:30:45.269470-07:00] Starting scheduled stage evolver
+[2026-05-24T04:31:15.710493-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-05-24/evolver.md
+[2026-05-24T05:00:15.728071-07:00] Starting scheduled stage orchestrator
+[2026-05-24T05:00:48.082421-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-05-24_morning_briefing.md
+[2026-05-24T05:00:48.082572-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-05-24/orchestrator.md
+[2026-05-24T05:15:48.090888-07:00] Starting scheduled stage docsync
+[2026-05-24T05:15:51.243240-07:00] Completed stage docsync; artifact=/root/echo_system/runtime/stage_outputs/2026-05-24/docsync.md
+[2026-05-24T05:15:51.244016-07:00] Starting scheduled stage historian
+[2026-05-24T05:16:39.632347-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-05-24/historian.md
+[2026-05-24T05:30:39.640415-07:00] Starting scheduled stage archivist
+[2026-05-24T05:31:41.965325-07:00] No git changes detected in /root/wiki-public despite writing 3 files
+[2026-05-24T05:31:41.968721-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-05-24/archivist.md
+[2026-05-24T06:00:41.985334-07:00] Starting scheduled stage content
+[2026-05-24T06:01:36.467096-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-05-24_morning_briefing_polished.md
+[2026-05-24T06:01:36.467225-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-05-24/content.md
+[2026-05-24T06:30:36.479212-07:00] Starting scheduled stage videoforge
+[2026-05-24T06:30:43.007183-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-05-24_video_summary_plan.md
+[2026-05-24T06:30:43.007396-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-05-24/videoforge.md
+[2026-05-24T07:00:43.022881-07:00] Starting scheduled stage echohsu
+[2026-05-24T07:01:21.558755-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-05-24_morning_briefing_delivery.md
+[2026-05-24T07:01:21.558988-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-05-24/echohsu.md
+[2026-05-24T13:48:10.849873-07:00] Echo autonomous loop service started
+[2026-05-24T13:48:10.854476-07:00] Starting scheduled stage audioforge
+[2026-05-24T13:48:25.903291-07:00] Completed stage audioforge; artifact=/root/echo_system/runtime/stage_outputs/2026-05-24/audioforge.md
+[2026-05-24T13:48:25.904833-07:00] Starting scheduled stage voice
+[2026-05-24T13:48:34.196354-07:00] Completed stage voice; artifact=/root/echo_system/runtime/stage_outputs/2026-05-24/voice.md
+[2026-05-24T13:48:34.197481-07:00] Starting scheduled stage vision
+[2026-05-24T13:48:42.216808-07:00] Completed stage vision; artifact=/root/echo_system/runtime/stage_outputs/2026-05-24/vision.md
+[2026-05-25T03:00:42.610867-07:00] Starting scheduled stage sentinel
+[2026-05-25T03:01:12.853806-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-05-25/sentinel.md
+[2026-05-25T03:30:12.868651-07:00] Starting scheduled stage healer
+[2026-05-25T03:30:40.751820-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-05-25/healer.md
+[2026-05-25T04:30:40.780999-07:00] Starting scheduled stage evolver
+[2026-05-25T04:31:07.443784-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-05-25/evolver.md
+[2026-05-25T05:00:07.458454-07:00] Starting scheduled stage orchestrator
+[2026-05-25T05:00:36.923501-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-05-25_morning_briefing.md
+[2026-05-25T05:00:36.925363-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-05-25/orchestrator.md
+[2026-05-25T05:15:36.933460-07:00] Starting scheduled stage docsync
+[2026-05-25T05:15:40.031520-07:00] Completed stage docsync; artifact=/root/echo_system/runtime/stage_outputs/2026-05-25/docsync.md
+[2026-05-25T05:15:40.032153-07:00] Starting scheduled stage historian
+[2026-05-25T05:16:17.926549-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-05-25/historian.md
+[2026-05-25T05:30:17.934397-07:00] Starting scheduled stage archivist
+[2026-05-25T05:31:12.917428-07:00] No git changes detected in /root/wiki-public despite writing 3 files
+[2026-05-25T05:31:12.920173-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-05-25/archivist.md
+[2026-05-25T06:00:12.935006-07:00] Starting scheduled stage content
+[2026-05-25T06:01:05.889988-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-05-25_morning_briefing_polished.md
+[2026-05-25T06:01:05.890096-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-05-25/content.md
+[2026-05-25T06:15:05.897821-07:00] Starting scheduled stage audioforge
+[2026-05-25T06:15:12.210631-07:00] Completed stage audioforge; artifact=/root/echo_system/runtime/stage_outputs/2026-05-25/audioforge.md
+[2026-05-25T06:15:12.211209-07:00] Starting scheduled stage voice
+[2026-05-25T06:15:18.294158-07:00] Completed stage voice; artifact=/root/echo_system/runtime/stage_outputs/2026-05-25/voice.md
+[2026-05-25T06:30:18.303512-07:00] Starting scheduled stage videoforge
+[2026-05-25T06:30:24.549830-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-05-25_video_summary_plan.md
+[2026-05-25T06:30:24.549934-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-05-25/videoforge.md
+[2026-05-25T06:45:24.558042-07:00] Starting scheduled stage vision
+[2026-05-25T06:45:30.755842-07:00] Completed stage vision; artifact=/root/echo_system/runtime/stage_outputs/2026-05-25/vision.md
+[2026-05-25T07:00:30.763154-07:00] Starting scheduled stage echohsu
+[2026-05-25T07:01:10.140408-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-05-25_morning_briefing_delivery.md
+[2026-05-25T07:01:10.140523-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-05-25/echohsu.md
+[2026-05-26T03:00:10.741795-07:00] Starting scheduled stage sentinel
+[2026-05-26T03:00:53.435440-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-05-26/sentinel.md
+[2026-05-26T03:30:53.451258-07:00] Starting scheduled stage healer
+[2026-05-26T03:31:29.265818-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-05-26/healer.md
+[2026-05-26T04:30:29.295919-07:00] Starting scheduled stage evolver
+[2026-05-26T04:31:08.722685-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-05-26/evolver.md
+[2026-05-26T05:00:08.737913-07:00] Starting scheduled stage orchestrator
+[2026-05-26T05:00:49.211695-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-05-26_morning_briefing.md
+[2026-05-26T05:00:49.211808-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-05-26/orchestrator.md
+[2026-05-26T05:15:49.220079-07:00] Starting scheduled stage docsync
+[2026-05-26T05:15:52.274008-07:00] Completed stage docsync; artifact=/root/echo_system/runtime/stage_outputs/2026-05-26/docsync.md
+[2026-05-26T05:15:52.274600-07:00] Starting scheduled stage historian
+[2026-05-26T05:16:33.475749-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-05-26/historian.md
+[2026-05-26T05:30:33.483010-07:00] Starting scheduled stage archivist
+[2026-05-26T05:31:30.752631-07:00] No git changes detected in /root/wiki-public despite writing 2 files
+[2026-05-26T05:31:30.755311-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-05-26/archivist.md
+[2026-05-26T06:00:30.769968-07:00] Starting scheduled stage content
+[2026-05-26T06:01:23.383288-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-05-26_morning_briefing_polished.md
+[2026-05-26T06:01:23.383399-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-05-26/content.md
+[2026-05-26T06:15:23.391404-07:00] Starting scheduled stage audioforge
+[2026-05-26T06:15:29.650479-07:00] Completed stage audioforge; artifact=/root/echo_system/runtime/stage_outputs/2026-05-26/audioforge.md
+[2026-05-26T06:15:29.651112-07:00] Starting scheduled stage voice
+[2026-05-26T06:15:35.730298-07:00] Completed stage voice; artifact=/root/echo_system/runtime/stage_outputs/2026-05-26/voice.md
+[2026-05-26T06:30:35.738490-07:00] Starting scheduled stage videoforge
+[2026-05-26T06:30:42.013019-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-05-26_video_summary_plan.md
+[2026-05-26T06:30:42.013141-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-05-26/videoforge.md
+[2026-05-26T06:45:42.021156-07:00] Starting scheduled stage vision
+[2026-05-26T06:45:48.126045-07:00] Completed stage vision; artifact=/root/echo_system/runtime/stage_outputs/2026-05-26/vision.md
+[2026-05-26T07:00:48.134518-07:00] Starting scheduled stage echohsu
+[2026-05-26T07:01:51.086196-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-05-26_morning_briefing_delivery.md
+[2026-05-26T07:01:51.086438-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-05-26/echohsu.md
+[2026-05-26T22:34:20.266328-07:00] Echo autonomous loop service started
+[2026-05-27T03:00:20.416235-07:00] Starting scheduled stage sentinel
+[2026-05-27T03:00:52.665800-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-05-27/sentinel.md
+[2026-05-27T03:30:52.681727-07:00] Starting scheduled stage healer
+[2026-05-27T03:31:25.152794-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-05-27/healer.md
+[2026-05-27T04:30:25.181181-07:00] Starting scheduled stage evolver
+[2026-05-27T04:31:01.567328-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-05-27/evolver.md
+[2026-05-27T05:00:01.582144-07:00] Starting scheduled stage orchestrator
+[2026-05-27T05:00:39.442161-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-05-27_morning_briefing.md
+[2026-05-27T05:00:39.442327-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-05-27/orchestrator.md
+[2026-05-27T05:15:39.450395-07:00] Starting scheduled stage docsync
+[2026-05-27T05:15:42.260615-07:00] Completed stage docsync; artifact=/root/echo_system/runtime/stage_outputs/2026-05-27/docsync.md
+[2026-05-27T05:15:42.261176-07:00] Starting scheduled stage historian
+[2026-05-27T05:16:27.175620-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-05-27/historian.md
+[2026-05-27T05:30:27.183416-07:00] Starting scheduled stage archivist
+[2026-05-27T05:31:30.143809-07:00] No git changes detected in /root/wiki-public despite writing 3 files
+[2026-05-27T05:31:30.146444-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-05-27/archivist.md
+[2026-05-27T06:00:30.161962-07:00] Starting scheduled stage content
+[2026-05-27T06:01:30.014533-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-05-27_morning_briefing_polished.md
+[2026-05-27T06:01:30.014738-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-05-27/content.md
+[2026-05-27T06:15:30.021797-07:00] Starting scheduled stage audioforge
+[2026-05-27T06:15:36.507761-07:00] Completed stage audioforge; artifact=/root/echo_system/runtime/stage_outputs/2026-05-27/audioforge.md
+[2026-05-27T06:15:36.508375-07:00] Starting scheduled stage voice
+[2026-05-27T06:15:42.242859-07:00] Completed stage voice; artifact=/root/echo_system/runtime/stage_outputs/2026-05-27/voice.md
+[2026-05-27T06:30:42.253990-07:00] Starting scheduled stage videoforge
+[2026-05-27T06:30:48.045431-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-05-27_video_summary_plan.md
+[2026-05-27T06:30:48.045569-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-05-27/videoforge.md
+[2026-05-27T06:45:48.054782-07:00] Starting scheduled stage vision
+[2026-05-27T06:45:53.639933-07:00] Completed stage vision; artifact=/root/echo_system/runtime/stage_outputs/2026-05-27/vision.md
+[2026-05-27T07:00:53.648104-07:00] Starting scheduled stage echohsu
+[2026-05-27T07:01:35.065278-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-05-27_morning_briefing_delivery.md
+[2026-05-27T07:01:35.065391-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-05-27/echohsu.md
+[2026-05-28T03:00:35.652085-07:00] Starting scheduled stage sentinel
+[2026-05-28T03:01:03.236188-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-05-28/sentinel.md
+[2026-05-28T03:30:03.252121-07:00] Starting scheduled stage healer
+[2026-05-28T03:30:19.371901-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-05-28/healer.md
+[2026-05-28T04:30:19.401894-07:00] Starting scheduled stage evolver
+[2026-05-28T04:30:36.148189-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-05-28/evolver.md
+[2026-05-28T05:00:36.164513-07:00] Starting scheduled stage orchestrator
+[2026-05-28T05:00:45.085345-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-05-28_morning_briefing.md
+[2026-05-28T05:00:45.085460-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-05-28/orchestrator.md
+[2026-05-28T05:15:45.095999-07:00] Starting scheduled stage docsync
+[2026-05-28T05:15:47.729369-07:00] Completed stage docsync; artifact=/root/echo_system/runtime/stage_outputs/2026-05-28/docsync.md
+[2026-05-28T05:15:47.729993-07:00] Starting scheduled stage historian
+[2026-05-28T05:16:03.739572-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-05-28/historian.md
+[2026-05-28T05:30:03.747337-07:00] Starting scheduled stage archivist
+[2026-05-28T05:30:20.571446-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-05-28/archivist.md
+[2026-05-28T06:00:20.588375-07:00] Starting scheduled stage content
+[2026-05-28T06:01:11.602653-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-05-28_morning_briefing_polished.md
+[2026-05-28T06:01:11.602763-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-05-28/content.md
+[2026-05-28T06:15:11.610534-07:00] Starting scheduled stage audioforge
+[2026-05-28T06:15:17.734815-07:00] Completed stage audioforge; artifact=/root/echo_system/runtime/stage_outputs/2026-05-28/audioforge.md
+[2026-05-28T06:15:17.735511-07:00] Starting scheduled stage voice
+[2026-05-28T06:15:23.364914-07:00] Completed stage voice; artifact=/root/echo_system/runtime/stage_outputs/2026-05-28/voice.md
+[2026-05-28T06:30:23.373045-07:00] Starting scheduled stage videoforge
+[2026-05-28T06:30:29.232852-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-05-28_video_summary_plan.md
+[2026-05-28T06:30:29.232985-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-05-28/videoforge.md
+[2026-05-28T06:45:29.241375-07:00] Starting scheduled stage vision
+[2026-05-28T06:45:34.845208-07:00] Completed stage vision; artifact=/root/echo_system/runtime/stage_outputs/2026-05-28/vision.md
+[2026-05-28T07:00:34.853967-07:00] Starting scheduled stage echohsu
+[2026-05-28T07:01:05.053811-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-05-28_morning_briefing_delivery.md
+[2026-05-28T07:01:05.054437-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-05-28/echohsu.md
+[2026-05-29T03:00:05.661053-07:00] Starting scheduled stage sentinel
+[2026-05-29T03:00:19.255948-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-05-29/sentinel.md
+[2026-05-29T03:30:19.272032-07:00] Starting scheduled stage healer
+[2026-05-29T03:30:32.195467-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-05-29/healer.md
+[2026-05-29T04:30:32.227930-07:00] Starting scheduled stage evolver
+[2026-05-29T04:30:45.321388-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-05-29/evolver.md
+[2026-05-29T05:00:45.339547-07:00] Starting scheduled stage orchestrator
+[2026-05-29T05:00:50.757140-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-05-29_morning_briefing.md
+[2026-05-29T05:00:50.757255-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-05-29/orchestrator.md
+[2026-05-29T05:15:50.765937-07:00] Starting scheduled stage docsync
+[2026-05-29T05:15:53.434276-07:00] Completed stage docsync; artifact=/root/echo_system/runtime/stage_outputs/2026-05-29/docsync.md
+[2026-05-29T05:15:53.435273-07:00] Starting scheduled stage historian
+[2026-05-29T05:16:06.649818-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-05-29/historian.md
+[2026-05-29T05:30:06.657867-07:00] Starting scheduled stage archivist
+[2026-05-29T05:30:19.613790-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-05-29/archivist.md
+[2026-05-29T06:00:19.630513-07:00] Starting scheduled stage content
+[2026-05-29T06:01:09.084817-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-05-29_morning_briefing_polished.md
+[2026-05-29T06:01:09.084948-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-05-29/content.md
+[2026-05-29T06:15:09.093177-07:00] Starting scheduled stage audioforge
+[2026-05-29T06:15:18.565428-07:00] Completed stage audioforge; artifact=/root/echo_system/runtime/stage_outputs/2026-05-29/audioforge.md
+[2026-05-29T06:15:18.566135-07:00] Starting scheduled stage voice
+[2026-05-29T06:15:24.231527-07:00] Completed stage voice; artifact=/root/echo_system/runtime/stage_outputs/2026-05-29/voice.md
+[2026-05-29T06:30:24.240240-07:00] Starting scheduled stage videoforge
+[2026-05-29T06:30:30.107361-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-05-29_video_summary_plan.md
+[2026-05-29T06:30:30.107474-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-05-29/videoforge.md
+[2026-05-29T06:45:30.115482-07:00] Starting scheduled stage vision
+[2026-05-29T06:45:35.882333-07:00] Completed stage vision; artifact=/root/echo_system/runtime/stage_outputs/2026-05-29/vision.md
+[2026-05-29T07:00:35.890627-07:00] Starting scheduled stage echohsu
+[2026-05-29T07:01:15.826237-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-05-29_morning_briefing_delivery.md
+[2026-05-29T07:01:15.826370-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-05-29/echohsu.md
+[2026-05-30T03:00:16.421678-07:00] Starting scheduled stage sentinel
+[2026-05-30T03:00:29.332454-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-05-30/sentinel.md
+[2026-05-30T03:30:29.348449-07:00] Starting scheduled stage healer
+[2026-05-30T03:30:42.308571-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-05-30/healer.md
+[2026-05-30T04:30:42.339831-07:00] Starting scheduled stage evolver
+[2026-05-30T04:30:55.311665-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-05-30/evolver.md
+[2026-05-30T05:00:55.328799-07:00] Starting scheduled stage orchestrator
+[2026-05-30T05:01:00.828088-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-05-30_morning_briefing.md
+[2026-05-30T05:01:00.828204-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-05-30/orchestrator.md
+[2026-05-30T05:15:00.836039-07:00] Starting scheduled stage docsync
+[2026-05-30T05:15:03.435933-07:00] Completed stage docsync; artifact=/root/echo_system/runtime/stage_outputs/2026-05-30/docsync.md
+[2026-05-30T05:15:03.436609-07:00] Starting scheduled stage historian
+[2026-05-30T05:15:16.444834-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-05-30/historian.md
+[2026-05-30T05:30:16.454106-07:00] Starting scheduled stage archivist
+[2026-05-30T05:30:29.455474-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-05-30/archivist.md
+[2026-05-30T06:00:29.470888-07:00] Starting scheduled stage content
+[2026-05-30T06:01:23.384750-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-05-30_morning_briefing_polished.md
+[2026-05-30T06:01:23.384916-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-05-30/content.md
+[2026-05-30T06:15:23.393004-07:00] Starting scheduled stage audioforge
+[2026-05-30T06:15:33.028067-07:00] Completed stage audioforge; artifact=/root/echo_system/runtime/stage_outputs/2026-05-30/audioforge.md
+[2026-05-30T06:15:33.028703-07:00] Starting scheduled stage voice
+[2026-05-30T06:15:38.604316-07:00] Completed stage voice; artifact=/root/echo_system/runtime/stage_outputs/2026-05-30/voice.md
+[2026-05-30T06:30:38.612278-07:00] Starting scheduled stage videoforge
+[2026-05-30T06:30:44.409759-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-05-30_video_summary_plan.md
+[2026-05-30T06:30:44.409920-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-05-30/videoforge.md
+[2026-05-30T06:45:44.417238-07:00] Starting scheduled stage vision
+[2026-05-30T06:45:50.124754-07:00] Completed stage vision; artifact=/root/echo_system/runtime/stage_outputs/2026-05-30/vision.md
+[2026-05-30T07:00:50.133466-07:00] Starting scheduled stage echohsu
+[2026-05-30T07:01:12.228540-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-05-30_morning_briefing_delivery.md
+[2026-05-30T07:01:12.228668-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-05-30/echohsu.md
+[2026-05-31T03:00:12.839996-07:00] Starting scheduled stage sentinel
+[2026-05-31T03:00:44.297035-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-05-31/sentinel.md
+[2026-05-31T03:30:44.313734-07:00] Starting scheduled stage healer
+[2026-05-31T03:31:11.467024-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-05-31/healer.md
+[2026-05-31T04:30:11.498138-07:00] Starting scheduled stage evolver
+[2026-05-31T04:31:08.470804-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-05-31/evolver.md
+[2026-05-31T05:00:08.485495-07:00] Starting scheduled stage orchestrator
+[2026-05-31T05:00:46.801164-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-05-31_morning_briefing.md
+[2026-05-31T05:00:46.801281-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-05-31/orchestrator.md
+[2026-05-31T05:15:46.809467-07:00] Starting scheduled stage docsync
+[2026-05-31T05:15:49.500363-07:00] Completed stage docsync; artifact=/root/echo_system/runtime/stage_outputs/2026-05-31/docsync.md
+[2026-05-31T05:15:49.500998-07:00] Starting scheduled stage historian
+[2026-05-31T05:16:29.032853-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-05-31/historian.md
+[2026-05-31T05:30:29.040670-07:00] Starting scheduled stage archivist
+[2026-05-31T05:31:21.650788-07:00] No git changes detected in /root/wiki-public despite writing 2 files
+[2026-05-31T05:31:21.653436-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-05-31/archivist.md
+[2026-05-31T06:00:21.667862-07:00] Starting scheduled stage content
+[2026-05-31T06:01:13.802722-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-05-31_morning_briefing_polished.md
+[2026-05-31T06:01:13.802832-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-05-31/content.md
+[2026-05-31T06:15:13.810803-07:00] Starting scheduled stage audioforge
+[2026-05-31T06:15:22.695901-07:00] Completed stage audioforge; artifact=/root/echo_system/runtime/stage_outputs/2026-05-31/audioforge.md
+[2026-05-31T06:15:22.696642-07:00] Starting scheduled stage voice
+[2026-05-31T06:15:28.238740-07:00] Completed stage voice; artifact=/root/echo_system/runtime/stage_outputs/2026-05-31/voice.md
+[2026-05-31T06:30:28.246883-07:00] Starting scheduled stage videoforge
+[2026-05-31T06:30:33.972944-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-05-31_video_summary_plan.md
+[2026-05-31T06:30:33.973058-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-05-31/videoforge.md
+[2026-05-31T06:45:33.981510-07:00] Starting scheduled stage vision
+[2026-05-31T06:45:39.645562-07:00] Completed stage vision; artifact=/root/echo_system/runtime/stage_outputs/2026-05-31/vision.md
+[2026-05-31T07:00:39.654439-07:00] Starting scheduled stage echohsu
+[2026-05-31T07:01:06.885894-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-05-31_morning_briefing_delivery.md
+[2026-05-31T07:01:06.886007-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-05-31/echohsu.md
+[2026-06-01T03:00:07.501554-07:00] Starting scheduled stage sentinel
+[2026-06-01T03:00:34.524060-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-06-01/sentinel.md
+[2026-06-01T03:30:34.540017-07:00] Starting scheduled stage healer
+[2026-06-01T03:30:58.448809-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-06-01/healer.md
+[2026-06-01T04:30:58.476017-07:00] Starting scheduled stage evolver
+[2026-06-01T04:31:21.830655-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-06-01/evolver.md
+[2026-06-01T05:00:21.846752-07:00] Starting scheduled stage orchestrator
+[2026-06-01T05:01:06.264031-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-06-01_morning_briefing.md
+[2026-06-01T05:01:06.264202-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-06-01/orchestrator.md
+[2026-06-01T05:15:06.272097-07:00] Starting scheduled stage docsync
+[2026-06-01T05:15:09.002103-07:00] Completed stage docsync; artifact=/root/echo_system/runtime/stage_outputs/2026-06-01/docsync.md
+[2026-06-01T05:15:09.003197-07:00] Starting scheduled stage historian
+[2026-06-01T05:15:41.494653-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-06-01/historian.md
+[2026-06-01T05:30:41.503060-07:00] Starting scheduled stage archivist
+[2026-06-01T05:31:23.134909-07:00] No git changes detected in /root/wiki-public despite writing 2 files
+[2026-06-01T05:31:23.137698-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-06-01/archivist.md
+[2026-06-01T06:00:23.153347-07:00] Starting scheduled stage content
+[2026-06-01T06:01:24.311456-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-06-01_morning_briefing_polished.md
+[2026-06-01T06:01:24.311564-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-06-01/content.md
+[2026-06-01T06:15:24.319364-07:00] Starting scheduled stage audioforge
+[2026-06-01T06:15:33.271337-07:00] Completed stage audioforge; artifact=/root/echo_system/runtime/stage_outputs/2026-06-01/audioforge.md
+[2026-06-01T06:15:33.271976-07:00] Starting scheduled stage voice
+[2026-06-01T06:15:38.235851-07:00] Completed stage voice; artifact=/root/echo_system/runtime/stage_outputs/2026-06-01/voice.md
+[2026-06-01T06:30:38.244412-07:00] Starting scheduled stage videoforge
+[2026-06-01T06:30:43.439960-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-06-01_video_summary_plan.md
+[2026-06-01T06:30:43.440111-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-06-01/videoforge.md
+[2026-06-01T06:45:43.448478-07:00] Starting scheduled stage vision
+[2026-06-01T06:45:48.543620-07:00] Completed stage vision; artifact=/root/echo_system/runtime/stage_outputs/2026-06-01/vision.md
+[2026-06-01T07:00:48.552361-07:00] Starting scheduled stage echohsu
+[2026-06-01T07:01:15.471159-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-06-01_morning_briefing_delivery.md
+[2026-06-01T07:01:15.471280-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-06-01/echohsu.md
+[2026-06-02T03:00:16.094523-07:00] Starting scheduled stage sentinel
+[2026-06-02T03:00:21.948438-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-06-02/sentinel.md
+[2026-06-02T03:30:21.964790-07:00] Starting scheduled stage healer
+[2026-06-02T03:30:27.587294-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-06-02/healer.md
+[2026-06-02T04:30:27.619014-07:00] Starting scheduled stage evolver
+[2026-06-02T04:30:33.333543-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-06-02/evolver.md
+[2026-06-02T05:00:33.350062-07:00] Starting scheduled stage orchestrator
+[2026-06-02T05:00:38.583660-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-06-02_morning_briefing.md
+[2026-06-02T05:00:38.583798-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-06-02/orchestrator.md
+[2026-06-02T05:15:38.592329-07:00] Starting scheduled stage docsync
+[2026-06-02T05:15:41.209181-07:00] Completed stage docsync; artifact=/root/echo_system/runtime/stage_outputs/2026-06-02/docsync.md
+[2026-06-02T05:15:41.209831-07:00] Starting scheduled stage historian
+[2026-06-02T05:15:46.793649-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-06-02/historian.md
+[2026-06-02T05:30:46.802952-07:00] Starting scheduled stage archivist
+[2026-06-02T05:30:52.663834-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-06-02/archivist.md
+[2026-06-02T06:00:52.680042-07:00] Starting scheduled stage content
+[2026-06-02T06:01:02.831743-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-06-02_morning_briefing_polished.md
+[2026-06-02T06:01:02.831859-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-06-02/content.md
+[2026-06-02T06:15:02.840159-07:00] Starting scheduled stage audioforge
+[2026-06-02T06:15:12.091127-07:00] Completed stage audioforge; artifact=/root/echo_system/runtime/stage_outputs/2026-06-02/audioforge.md
+[2026-06-02T06:15:12.092284-07:00] Starting scheduled stage voice
+[2026-06-02T06:15:17.077707-07:00] Completed stage voice; artifact=/root/echo_system/runtime/stage_outputs/2026-06-02/voice.md
+[2026-06-02T06:30:17.086291-07:00] Starting scheduled stage videoforge
+[2026-06-02T06:30:22.387695-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-06-02_video_summary_plan.md
+[2026-06-02T06:30:22.387808-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-06-02/videoforge.md
+[2026-06-02T06:45:22.395934-07:00] Starting scheduled stage vision
+[2026-06-02T06:45:27.605224-07:00] Completed stage vision; artifact=/root/echo_system/runtime/stage_outputs/2026-06-02/vision.md
+[2026-06-02T07:00:27.614135-07:00] Starting scheduled stage echohsu
+[2026-06-02T07:00:46.402616-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-06-02_morning_briefing_delivery.md
+[2026-06-02T07:00:46.402738-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-06-02/echohsu.md
+[2026-06-03T03:00:47.027243-07:00] Starting scheduled stage sentinel
+[2026-06-03T03:00:52.857638-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-06-03/sentinel.md
+[2026-06-03T03:30:52.874249-07:00] Starting scheduled stage healer
+[2026-06-03T03:30:58.199932-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-06-03/healer.md
+[2026-06-03T04:30:58.231880-07:00] Starting scheduled stage evolver
+[2026-06-03T04:31:03.479059-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-06-03/evolver.md
+[2026-06-03T05:00:03.495517-07:00] Starting scheduled stage orchestrator
+[2026-06-03T05:00:08.454627-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-06-03_morning_briefing.md
+[2026-06-03T05:00:08.454741-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-06-03/orchestrator.md
+[2026-06-03T05:15:08.463268-07:00] Starting scheduled stage docsync
+[2026-06-03T05:15:11.105469-07:00] Completed stage docsync; artifact=/root/echo_system/runtime/stage_outputs/2026-06-03/docsync.md
+[2026-06-03T05:15:11.106182-07:00] Starting scheduled stage historian
+[2026-06-03T05:15:16.548990-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-06-03/historian.md
+[2026-06-03T05:30:16.557493-07:00] Starting scheduled stage archivist
+[2026-06-03T05:30:21.809458-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-06-03/archivist.md
+[2026-06-03T06:00:21.826012-07:00] Starting scheduled stage content
+[2026-06-03T06:00:31.900449-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-06-03_morning_briefing_polished.md
+[2026-06-03T06:00:31.900562-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-06-03/content.md
+[2026-06-03T06:15:31.908953-07:00] Starting scheduled stage audioforge
+[2026-06-03T06:15:41.238289-07:00] Completed stage audioforge; artifact=/root/echo_system/runtime/stage_outputs/2026-06-03/audioforge.md
+[2026-06-03T06:15:41.239007-07:00] Starting scheduled stage voice
+[2026-06-03T06:15:46.309913-07:00] Completed stage voice; artifact=/root/echo_system/runtime/stage_outputs/2026-06-03/voice.md
+[2026-06-03T06:30:46.318135-07:00] Starting scheduled stage videoforge
+[2026-06-03T06:30:51.512993-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-06-03_video_summary_plan.md
+[2026-06-03T06:30:51.513108-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-06-03/videoforge.md
+[2026-06-03T06:45:51.521530-07:00] Starting scheduled stage vision
+[2026-06-03T06:45:56.766723-07:00] Completed stage vision; artifact=/root/echo_system/runtime/stage_outputs/2026-06-03/vision.md
+[2026-06-03T07:00:56.775270-07:00] Starting scheduled stage echohsu
+[2026-06-03T07:01:18.544992-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-06-03_morning_briefing_delivery.md
+[2026-06-03T07:01:18.545109-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-06-03/echohsu.md
+[2026-06-04T03:00:19.152151-07:00] Starting scheduled stage sentinel
+[2026-06-04T03:00:24.475290-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-06-04/sentinel.md
+[2026-06-04T03:30:24.490924-07:00] Starting scheduled stage healer
+[2026-06-04T03:30:29.796412-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-06-04/healer.md
+[2026-06-04T04:30:29.829326-07:00] Starting scheduled stage evolver
+[2026-06-04T04:30:35.129224-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-06-04/evolver.md
+[2026-06-04T05:00:35.147515-07:00] Starting scheduled stage orchestrator
+[2026-06-04T05:00:39.877997-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-06-04_morning_briefing.md
+[2026-06-04T05:00:39.878147-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-06-04/orchestrator.md
+[2026-06-04T05:15:39.887511-07:00] Starting scheduled stage docsync
+[2026-06-04T05:15:42.444523-07:00] Completed stage docsync; artifact=/root/echo_system/runtime/stage_outputs/2026-06-04/docsync.md
+[2026-06-04T05:15:42.446296-07:00] Starting scheduled stage historian
+[2026-06-04T05:15:47.840041-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-06-04/historian.md
+[2026-06-04T05:30:47.848480-07:00] Starting scheduled stage archivist
+[2026-06-04T05:30:53.144739-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-06-04/archivist.md
+[2026-06-04T06:00:53.161228-07:00] Starting scheduled stage content
+[2026-06-04T06:01:04.224486-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-06-04_morning_briefing_polished.md
+[2026-06-04T06:01:04.224625-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-06-04/content.md
+[2026-06-04T06:15:04.232518-07:00] Starting scheduled stage audioforge
+[2026-06-04T06:15:12.997637-07:00] Completed stage audioforge; artifact=/root/echo_system/runtime/stage_outputs/2026-06-04/audioforge.md
+[2026-06-04T06:15:12.998270-07:00] Starting scheduled stage voice
+[2026-06-04T06:15:18.072430-07:00] Completed stage voice; artifact=/root/echo_system/runtime/stage_outputs/2026-06-04/voice.md
+[2026-06-04T06:30:18.080855-07:00] Starting scheduled stage videoforge
+[2026-06-04T06:30:24.664983-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-06-04_video_summary_plan.md
+[2026-06-04T06:30:24.665097-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-06-04/videoforge.md
+[2026-06-04T06:45:24.673374-07:00] Starting scheduled stage vision
+[2026-06-04T06:45:29.777784-07:00] Completed stage vision; artifact=/root/echo_system/runtime/stage_outputs/2026-06-04/vision.md
+[2026-06-04T07:00:29.786717-07:00] Starting scheduled stage echohsu
+[2026-06-04T07:00:47.419234-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-06-04_morning_briefing_delivery.md
+[2026-06-04T07:00:47.419347-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-06-04/echohsu.md
+[2026-06-05T03:00:48.035809-07:00] Starting scheduled stage sentinel
+[2026-06-05T03:00:53.182081-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-06-05/sentinel.md
+[2026-06-05T03:30:53.199068-07:00] Starting scheduled stage healer
+[2026-06-05T03:30:58.534544-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-06-05/healer.md
+[2026-06-05T04:30:58.565090-07:00] Starting scheduled stage evolver
+[2026-06-05T04:31:03.752057-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-06-05/evolver.md
+[2026-06-05T05:00:03.767878-07:00] Starting scheduled stage orchestrator
+[2026-06-05T05:00:08.640056-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-06-05_morning_briefing.md
+[2026-06-05T05:00:08.640170-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-06-05/orchestrator.md
+[2026-06-05T05:15:08.648493-07:00] Starting scheduled stage docsync
+[2026-06-05T05:15:11.147298-07:00] Completed stage docsync; artifact=/root/echo_system/runtime/stage_outputs/2026-06-05/docsync.md
+[2026-06-05T05:15:11.147941-07:00] Starting scheduled stage historian
+[2026-06-05T05:15:16.308960-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-06-05/historian.md
+[2026-06-05T05:30:16.317537-07:00] Starting scheduled stage archivist
+[2026-06-05T05:30:21.518614-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-06-05/archivist.md
+[2026-06-05T06:00:21.534877-07:00] Starting scheduled stage content
+[2026-06-05T06:00:31.733168-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-06-05_morning_briefing_polished.md
+[2026-06-05T06:00:31.733282-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-06-05/content.md
+[2026-06-05T06:15:31.741943-07:00] Starting scheduled stage audioforge
+[2026-06-05T06:15:42.385902-07:00] Completed stage audioforge; artifact=/root/echo_system/runtime/stage_outputs/2026-06-05/audioforge.md
+[2026-06-05T06:15:42.386535-07:00] Starting scheduled stage voice
+[2026-06-05T06:15:47.647281-07:00] Completed stage voice; artifact=/root/echo_system/runtime/stage_outputs/2026-06-05/voice.md
+[2026-06-05T06:30:47.655645-07:00] Starting scheduled stage videoforge
+[2026-06-05T06:30:52.937858-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-06-05_video_summary_plan.md
+[2026-06-05T06:30:52.938040-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-06-05/videoforge.md
+[2026-06-05T06:45:52.946953-07:00] Starting scheduled stage vision
+[2026-06-05T06:45:58.014350-07:00] Completed stage vision; artifact=/root/echo_system/runtime/stage_outputs/2026-06-05/vision.md
+[2026-06-05T07:00:58.021962-07:00] Starting scheduled stage echohsu
+[2026-06-05T07:01:16.223496-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-06-05_morning_briefing_delivery.md
+[2026-06-05T07:01:16.223627-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-06-05/echohsu.md
+[2026-06-06T03:00:16.860406-07:00] Starting scheduled stage sentinel
+[2026-06-06T03:00:58.028872-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-06-06/sentinel.md
+[2026-06-06T03:30:58.045117-07:00] Starting scheduled stage healer
+[2026-06-06T03:31:08.101682-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-06-06/healer.md
+[2026-06-06T04:30:08.131758-07:00] Starting scheduled stage evolver
+[2026-06-06T04:30:18.991075-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-06-06/evolver.md
+[2026-06-06T05:00:19.009904-07:00] Starting scheduled stage orchestrator
+[2026-06-06T05:00:39.670446-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-06-06_morning_briefing.md
+[2026-06-06T05:00:39.670560-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-06-06/orchestrator.md
+[2026-06-06T05:15:39.679363-07:00] Starting scheduled stage docsync
+[2026-06-06T05:15:42.454473-07:00] Completed stage docsync; artifact=/root/echo_system/runtime/stage_outputs/2026-06-06/docsync.md
+[2026-06-06T05:15:42.455387-07:00] Starting scheduled stage historian
+[2026-06-06T05:15:52.593205-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-06-06/historian.md
+[2026-06-06T05:30:52.601748-07:00] Starting scheduled stage archivist
+[2026-06-06T05:31:03.502924-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-06-06/archivist.md
+[2026-06-06T06:00:03.519155-07:00] Starting scheduled stage content
+[2026-06-06T06:00:15.803496-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-06-06_morning_briefing_polished.md
+[2026-06-06T06:00:15.803627-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-06-06/content.md
+[2026-06-06T06:15:15.812290-07:00] Starting scheduled stage audioforge
+[2026-06-06T06:15:25.091917-07:00] Completed stage audioforge; artifact=/root/echo_system/runtime/stage_outputs/2026-06-06/audioforge.md
+[2026-06-06T06:15:25.092598-07:00] Starting scheduled stage voice
+[2026-06-06T06:15:30.416957-07:00] Completed stage voice; artifact=/root/echo_system/runtime/stage_outputs/2026-06-06/voice.md
+[2026-06-06T06:30:30.425766-07:00] Starting scheduled stage videoforge
+[2026-06-06T06:30:35.927757-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-06-06_video_summary_plan.md
+[2026-06-06T06:30:35.927869-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-06-06/videoforge.md
+[2026-06-06T06:45:35.936821-07:00] Starting scheduled stage vision
+[2026-06-06T06:45:41.509562-07:00] Completed stage vision; artifact=/root/echo_system/runtime/stage_outputs/2026-06-06/vision.md
+[2026-06-06T07:00:41.518285-07:00] Starting scheduled stage echohsu
+[2026-06-06T07:01:04.107894-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-06-06_morning_briefing_delivery.md
+[2026-06-06T07:01:04.108008-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-06-06/echohsu.md
+[2026-06-07T03:00:04.735379-07:00] Starting scheduled stage sentinel
+[2026-06-07T03:00:58.639997-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-06-07/sentinel.md
+[2026-06-07T03:30:58.656510-07:00] Starting scheduled stage healer
+[2026-06-07T03:31:08.562648-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-06-07/healer.md
+[2026-06-07T04:30:08.594325-07:00] Starting scheduled stage evolver
+[2026-06-07T04:30:18.613445-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-06-07/evolver.md
+[2026-06-07T05:00:18.630431-07:00] Starting scheduled stage orchestrator
+[2026-06-07T05:00:43.579341-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-06-07_morning_briefing.md
+[2026-06-07T05:00:43.579534-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-06-07/orchestrator.md
+[2026-06-07T05:15:43.588351-07:00] Starting scheduled stage docsync
+[2026-06-07T05:15:46.380245-07:00] Completed stage docsync; artifact=/root/echo_system/runtime/stage_outputs/2026-06-07/docsync.md
+[2026-06-07T05:15:46.380925-07:00] Starting scheduled stage historian
+[2026-06-07T05:15:56.130467-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-06-07/historian.md
+[2026-06-07T05:30:56.139138-07:00] Starting scheduled stage archivist
+[2026-06-07T05:31:07.055944-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-06-07/archivist.md
+[2026-06-07T06:00:07.071494-07:00] Starting scheduled stage content
+[2026-06-07T06:00:17.354243-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-06-07_morning_briefing_polished.md
+[2026-06-07T06:00:17.354360-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-06-07/content.md
+[2026-06-07T06:15:17.362440-07:00] Starting scheduled stage audioforge
+[2026-06-07T06:15:25.623984-07:00] Completed stage audioforge; artifact=/root/echo_system/runtime/stage_outputs/2026-06-07/audioforge.md
+[2026-06-07T06:15:25.624723-07:00] Starting scheduled stage voice
+[2026-06-07T06:15:30.968024-07:00] Completed stage voice; artifact=/root/echo_system/runtime/stage_outputs/2026-06-07/voice.md
+[2026-06-07T06:30:30.975822-07:00] Starting scheduled stage videoforge
+[2026-06-07T06:30:36.458299-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-06-07_video_summary_plan.md
+[2026-06-07T06:30:36.458414-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-06-07/videoforge.md
+[2026-06-07T06:45:36.466476-07:00] Starting scheduled stage vision
+[2026-06-07T06:45:41.875038-07:00] Completed stage vision; artifact=/root/echo_system/runtime/stage_outputs/2026-06-07/vision.md
+[2026-06-07T07:00:41.883626-07:00] Starting scheduled stage echohsu
+[2026-06-07T07:01:20.760712-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-06-07_morning_briefing_delivery.md
+[2026-06-07T07:01:20.761329-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-06-07/echohsu.md
+[2026-06-08T03:00:21.372906-07:00] Starting scheduled stage sentinel
+[2026-06-08T03:01:04.722478-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-06-08/sentinel.md
+[2026-06-08T03:30:04.738246-07:00] Starting scheduled stage healer
+[2026-06-08T03:30:14.546578-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-06-08/healer.md
+[2026-06-08T04:30:14.579667-07:00] Starting scheduled stage evolver
+[2026-06-08T04:30:24.574161-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-06-08/evolver.md
+[2026-06-08T05:00:24.591187-07:00] Starting scheduled stage orchestrator
+[2026-06-08T05:00:46.095511-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-06-08_morning_briefing.md
+[2026-06-08T05:00:46.095645-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-06-08/orchestrator.md
+[2026-06-08T05:15:46.104532-07:00] Starting scheduled stage docsync
+[2026-06-08T05:15:48.989841-07:00] Completed stage docsync; artifact=/root/echo_system/runtime/stage_outputs/2026-06-08/docsync.md
+[2026-06-08T05:15:48.990661-07:00] Starting scheduled stage historian
+[2026-06-08T05:15:58.774047-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-06-08/historian.md
+[2026-06-08T05:30:58.782758-07:00] Starting scheduled stage archivist
+[2026-06-08T05:31:09.631320-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-06-08/archivist.md
+[2026-06-08T06:00:09.647715-07:00] Starting scheduled stage content
+[2026-06-08T06:00:22.437576-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-06-08_morning_briefing_polished.md
+[2026-06-08T06:00:22.437815-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-06-08/content.md
+[2026-06-08T06:15:22.447185-07:00] Starting scheduled stage audioforge
+[2026-06-08T06:15:31.053865-07:00] Completed stage audioforge; artifact=/root/echo_system/runtime/stage_outputs/2026-06-08/audioforge.md
+[2026-06-08T06:15:31.054672-07:00] Starting scheduled stage voice
+[2026-06-08T06:15:36.478922-07:00] Completed stage voice; artifact=/root/echo_system/runtime/stage_outputs/2026-06-08/voice.md
+[2026-06-08T06:30:36.487945-07:00] Starting scheduled stage videoforge
+[2026-06-08T06:30:41.931862-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-06-08_video_summary_plan.md
+[2026-06-08T06:30:41.932034-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-06-08/videoforge.md
+[2026-06-08T06:45:41.940031-07:00] Starting scheduled stage vision
+[2026-06-08T06:45:47.381458-07:00] Completed stage vision; artifact=/root/echo_system/runtime/stage_outputs/2026-06-08/vision.md
+[2026-06-08T07:00:47.390068-07:00] Starting scheduled stage echohsu
+[2026-06-08T07:01:31.356934-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-06-08_morning_briefing_delivery.md
+[2026-06-08T07:01:31.357085-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-06-08/echohsu.md
+[2026-06-09T03:00:31.960565-07:00] Starting scheduled stage sentinel
+[2026-06-09T03:00:59.934385-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-06-09/sentinel.md
+[2026-06-09T03:30:59.951017-07:00] Starting scheduled stage healer
+[2026-06-09T03:31:09.934986-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-06-09/healer.md
+[2026-06-09T04:30:09.967492-07:00] Starting scheduled stage evolver
+[2026-06-09T04:30:19.537063-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-06-09/evolver.md
+[2026-06-09T05:00:19.553274-07:00] Starting scheduled stage orchestrator
+[2026-06-09T05:00:42.390815-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-06-09_morning_briefing.md
+[2026-06-09T05:00:42.390921-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-06-09/orchestrator.md
+[2026-06-09T05:15:42.399696-07:00] Starting scheduled stage docsync
+[2026-06-09T05:15:45.227145-07:00] Completed stage docsync; artifact=/root/echo_system/runtime/stage_outputs/2026-06-09/docsync.md
+[2026-06-09T05:15:45.227805-07:00] Starting scheduled stage historian
+[2026-06-09T05:15:54.956295-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-06-09/historian.md
+[2026-06-09T05:30:54.965151-07:00] Starting scheduled stage archivist
+[2026-06-09T05:31:05.518673-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-06-09/archivist.md
+[2026-06-09T06:00:05.534508-07:00] Starting scheduled stage content
+[2026-06-09T06:00:15.567786-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-06-09_morning_briefing_polished.md
+[2026-06-09T06:00:15.567946-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-06-09/content.md
+[2026-06-09T06:15:15.576510-07:00] Starting scheduled stage audioforge
+[2026-06-09T06:15:24.187256-07:00] Completed stage audioforge; artifact=/root/echo_system/runtime/stage_outputs/2026-06-09/audioforge.md
+[2026-06-09T06:15:24.188004-07:00] Starting scheduled stage voice
+[2026-06-09T06:15:29.450728-07:00] Completed stage voice; artifact=/root/echo_system/runtime/stage_outputs/2026-06-09/voice.md
+[2026-06-09T06:30:29.459463-07:00] Starting scheduled stage videoforge
+[2026-06-09T06:30:34.966102-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-06-09_video_summary_plan.md
+[2026-06-09T06:30:34.966215-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-06-09/videoforge.md
+[2026-06-09T06:45:34.974862-07:00] Starting scheduled stage vision
+[2026-06-09T06:45:40.259153-07:00] Completed stage vision; artifact=/root/echo_system/runtime/stage_outputs/2026-06-09/vision.md
+[2026-06-09T07:00:40.266066-07:00] Starting scheduled stage echohsu
+[2026-06-09T07:01:24.139692-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-06-09_morning_briefing_delivery.md
+[2026-06-09T07:01:24.139809-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-06-09/echohsu.md
+[2026-06-10T03:00:24.760335-07:00] Starting scheduled stage sentinel
+[2026-06-10T03:00:55.898269-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-06-10/sentinel.md
+[2026-06-10T03:30:55.914773-07:00] Starting scheduled stage healer
+[2026-06-10T03:31:05.627950-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-06-10/healer.md
+[2026-06-10T04:30:05.660023-07:00] Starting scheduled stage evolver
+[2026-06-10T04:30:15.647811-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-06-10/evolver.md
+[2026-06-10T05:00:15.663994-07:00] Starting scheduled stage orchestrator
+[2026-06-10T05:00:43.046451-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-06-10_morning_briefing.md
+[2026-06-10T05:00:43.046565-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-06-10/orchestrator.md
+[2026-06-10T05:15:43.055161-07:00] Starting scheduled stage docsync
+[2026-06-10T05:15:45.934277-07:00] Completed stage docsync; artifact=/root/echo_system/runtime/stage_outputs/2026-06-10/docsync.md
+[2026-06-10T05:15:45.935114-07:00] Starting scheduled stage historian
+[2026-06-10T05:15:55.692328-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-06-10/historian.md
+[2026-06-10T05:30:55.701002-07:00] Starting scheduled stage archivist
+[2026-06-10T05:31:07.277551-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-06-10/archivist.md
+[2026-06-10T06:00:07.293788-07:00] Starting scheduled stage content
+[2026-06-10T06:00:17.289725-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-06-10_morning_briefing_polished.md
+[2026-06-10T06:00:17.289832-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-06-10/content.md
+[2026-06-10T06:15:17.297928-07:00] Starting scheduled stage audioforge
+[2026-06-10T06:15:26.019510-07:00] Completed stage audioforge; artifact=/root/echo_system/runtime/stage_outputs/2026-06-10/audioforge.md
+[2026-06-10T06:15:26.020274-07:00] Starting scheduled stage voice
+[2026-06-10T06:15:31.284007-07:00] Completed stage voice; artifact=/root/echo_system/runtime/stage_outputs/2026-06-10/voice.md
+[2026-06-10T06:30:31.293461-07:00] Starting scheduled stage videoforge
+[2026-06-10T06:30:36.936416-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-06-10_video_summary_plan.md
+[2026-06-10T06:30:36.936532-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-06-10/videoforge.md
+[2026-06-10T06:45:36.945088-07:00] Starting scheduled stage vision
+[2026-06-10T06:45:42.253865-07:00] Completed stage vision; artifact=/root/echo_system/runtime/stage_outputs/2026-06-10/vision.md
+[2026-06-10T07:00:42.262329-07:00] Starting scheduled stage echohsu
+[2026-06-10T07:01:43.801559-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-06-10_morning_briefing_delivery.md
+[2026-06-10T07:01:43.801762-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-06-10/echohsu.md
+[2026-06-11T03:00:44.417574-07:00] Starting scheduled stage sentinel
+[2026-06-11T03:01:05.730989-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-06-11/sentinel.md
+[2026-06-11T03:30:05.746461-07:00] Starting scheduled stage healer
+[2026-06-11T03:30:15.547091-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-06-11/healer.md
+[2026-06-11T04:30:15.577567-07:00] Starting scheduled stage evolver
+[2026-06-11T04:30:25.675627-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-06-11/evolver.md
+[2026-06-11T05:00:25.690750-07:00] Starting scheduled stage orchestrator
+[2026-06-11T05:00:46.250694-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-06-11_morning_briefing.md
+[2026-06-11T05:00:46.251324-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-06-11/orchestrator.md
+[2026-06-11T05:15:46.259914-07:00] Starting scheduled stage docsync
+[2026-06-11T05:15:49.080909-07:00] Completed stage docsync; artifact=/root/echo_system/runtime/stage_outputs/2026-06-11/docsync.md
+[2026-06-11T05:15:49.081653-07:00] Starting scheduled stage historian
+[2026-06-11T05:15:58.773126-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-06-11/historian.md
+[2026-06-11T05:30:58.781553-07:00] Starting scheduled stage archivist
+[2026-06-11T05:31:09.725852-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-06-11/archivist.md
+[2026-06-11T06:00:09.741847-07:00] Starting scheduled stage content
+[2026-06-11T06:00:20.024506-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-06-11_morning_briefing_polished.md
+[2026-06-11T06:00:20.024643-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-06-11/content.md
+[2026-06-11T06:15:20.033024-07:00] Starting scheduled stage audioforge
+[2026-06-11T06:15:28.865143-07:00] Completed stage audioforge; artifact=/root/echo_system/runtime/stage_outputs/2026-06-11/audioforge.md
+[2026-06-11T06:15:28.865828-07:00] Starting scheduled stage voice
+[2026-06-11T06:15:34.228326-07:00] Completed stage voice; artifact=/root/echo_system/runtime/stage_outputs/2026-06-11/voice.md
+[2026-06-11T06:30:34.236570-07:00] Starting scheduled stage videoforge
+[2026-06-11T06:30:39.881539-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-06-11_video_summary_plan.md
+[2026-06-11T06:30:39.881689-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-06-11/videoforge.md
+[2026-06-11T06:45:39.890285-07:00] Starting scheduled stage vision
+[2026-06-11T06:45:45.194880-07:00] Completed stage vision; artifact=/root/echo_system/runtime/stage_outputs/2026-06-11/vision.md
+[2026-06-11T07:00:45.203552-07:00] Starting scheduled stage echohsu
+[2026-06-11T07:01:26.249287-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-06-11_morning_briefing_delivery.md
+[2026-06-11T07:01:26.249467-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-06-11/echohsu.md
+[2026-06-12T03:00:26.857498-07:00] Starting scheduled stage sentinel
+[2026-06-12T03:01:05.572849-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-06-12/sentinel.md
+[2026-06-12T03:30:05.589032-07:00] Starting scheduled stage healer
+[2026-06-12T03:30:15.227147-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-06-12/healer.md
+[2026-06-12T04:30:15.258475-07:00] Starting scheduled stage evolver
+[2026-06-12T04:30:25.159686-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-06-12/evolver.md
+[2026-06-12T05:00:25.176430-07:00] Starting scheduled stage orchestrator
+[2026-06-12T05:00:49.825160-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-06-12_morning_briefing.md
+[2026-06-12T05:00:49.825313-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-06-12/orchestrator.md
+[2026-06-12T05:15:49.834231-07:00] Starting scheduled stage docsync
+[2026-06-12T05:15:52.579622-07:00] Completed stage docsync; artifact=/root/echo_system/runtime/stage_outputs/2026-06-12/docsync.md
+[2026-06-12T05:15:52.580297-07:00] Starting scheduled stage historian
+[2026-06-12T05:16:02.239144-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-06-12/historian.md
+[2026-06-12T05:30:02.246784-07:00] Starting scheduled stage archivist
+[2026-06-12T05:30:12.814997-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-06-12/archivist.md
+[2026-06-12T06:00:12.831706-07:00] Starting scheduled stage content
+[2026-06-12T06:00:22.941321-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-06-12_morning_briefing_polished.md
+[2026-06-12T06:00:22.941440-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-06-12/content.md
+[2026-06-12T06:15:22.950111-07:00] Starting scheduled stage audioforge
+[2026-06-12T06:15:31.566121-07:00] Completed stage audioforge; artifact=/root/echo_system/runtime/stage_outputs/2026-06-12/audioforge.md
+[2026-06-12T06:15:31.566834-07:00] Starting scheduled stage voice
+[2026-06-12T06:15:36.862994-07:00] Completed stage voice; artifact=/root/echo_system/runtime/stage_outputs/2026-06-12/voice.md
+[2026-06-12T06:30:36.871774-07:00] Starting scheduled stage videoforge
+[2026-06-12T06:30:42.390160-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-06-12_video_summary_plan.md
+[2026-06-12T06:30:42.390279-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-06-12/videoforge.md
+[2026-06-12T06:45:42.398495-07:00] Starting scheduled stage vision
+[2026-06-12T06:45:47.678954-07:00] Completed stage vision; artifact=/root/echo_system/runtime/stage_outputs/2026-06-12/vision.md
+[2026-06-12T07:00:47.687608-07:00] Starting scheduled stage echohsu
+[2026-06-12T07:01:29.523221-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-06-12_morning_briefing_delivery.md
+[2026-06-12T07:01:29.523380-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-06-12/echohsu.md
+[2026-06-13T03:00:30.149616-07:00] Starting scheduled stage sentinel
+[2026-06-13T03:00:53.727607-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-06-13/sentinel.md
+[2026-06-13T03:30:53.744204-07:00] Starting scheduled stage healer
+[2026-06-13T03:31:03.422821-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-06-13/healer.md
+[2026-06-13T04:30:03.452726-07:00] Starting scheduled stage evolver
+[2026-06-13T04:30:13.349945-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-06-13/evolver.md
+[2026-06-13T05:00:13.366805-07:00] Starting scheduled stage orchestrator
+[2026-06-13T05:00:36.588974-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-06-13_morning_briefing.md
+[2026-06-13T05:00:36.589643-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-06-13/orchestrator.md
+[2026-06-13T05:15:36.598249-07:00] Starting scheduled stage docsync
+[2026-06-13T05:15:39.408426-07:00] Completed stage docsync; artifact=/root/echo_system/runtime/stage_outputs/2026-06-13/docsync.md
+[2026-06-13T05:15:39.409501-07:00] Starting scheduled stage historian
+[2026-06-13T05:15:49.003482-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-06-13/historian.md
+[2026-06-13T05:30:49.011384-07:00] Starting scheduled stage archivist
+[2026-06-13T05:30:59.932380-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-06-13/archivist.md
+[2026-06-13T06:00:59.948526-07:00] Starting scheduled stage content
+[2026-06-13T06:01:10.273256-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-06-13_morning_briefing_polished.md
+[2026-06-13T06:01:10.273370-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-06-13/content.md
+[2026-06-13T06:15:10.281102-07:00] Starting scheduled stage audioforge
+[2026-06-13T06:15:18.762273-07:00] Completed stage audioforge; artifact=/root/echo_system/runtime/stage_outputs/2026-06-13/audioforge.md
+[2026-06-13T06:15:18.763024-07:00] Starting scheduled stage voice
+[2026-06-13T06:15:24.106702-07:00] Completed stage voice; artifact=/root/echo_system/runtime/stage_outputs/2026-06-13/voice.md
+[2026-06-13T06:30:24.115109-07:00] Starting scheduled stage videoforge
+[2026-06-13T06:30:29.475636-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-06-13_video_summary_plan.md
+[2026-06-13T06:30:29.475756-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-06-13/videoforge.md
+[2026-06-13T06:45:29.484718-07:00] Starting scheduled stage vision
+[2026-06-13T06:45:34.868620-07:00] Completed stage vision; artifact=/root/echo_system/runtime/stage_outputs/2026-06-13/vision.md
+[2026-06-13T07:00:34.877416-07:00] Starting scheduled stage echohsu
+[2026-06-13T07:01:18.621128-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-06-13_morning_briefing_delivery.md
+[2026-06-13T07:01:18.621246-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-06-13/echohsu.md
+[2026-06-14T03:00:19.255122-07:00] Starting scheduled stage sentinel
+[2026-06-14T03:01:02.641289-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-06-14/sentinel.md
+[2026-06-14T03:30:02.657536-07:00] Starting scheduled stage healer
+[2026-06-14T03:30:12.297907-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-06-14/healer.md
+[2026-06-14T04:30:12.329911-07:00] Starting scheduled stage evolver
+[2026-06-14T04:30:22.224989-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-06-14/evolver.md
+[2026-06-14T05:00:22.241117-07:00] Starting scheduled stage orchestrator
+[2026-06-14T05:00:42.388557-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-06-14_morning_briefing.md
+[2026-06-14T05:00:42.388780-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-06-14/orchestrator.md
+[2026-06-14T05:15:42.397577-07:00] Starting scheduled stage docsync
+[2026-06-14T05:15:45.171444-07:00] Completed stage docsync; artifact=/root/echo_system/runtime/stage_outputs/2026-06-14/docsync.md
+[2026-06-14T05:15:45.172141-07:00] Starting scheduled stage historian
+[2026-06-14T05:15:54.721867-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-06-14/historian.md
+[2026-06-14T05:30:54.729793-07:00] Starting scheduled stage archivist
+[2026-06-14T05:31:05.419702-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-06-14/archivist.md
+[2026-06-14T06:00:05.433979-07:00] Starting scheduled stage content
+[2026-06-14T06:00:16.009769-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-06-14_morning_briefing_polished.md
+[2026-06-14T06:00:16.009889-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-06-14/content.md
+[2026-06-14T06:15:16.017956-07:00] Starting scheduled stage audioforge
+[2026-06-14T06:15:24.173049-07:00] Completed stage audioforge; artifact=/root/echo_system/runtime/stage_outputs/2026-06-14/audioforge.md
+[2026-06-14T06:15:24.173769-07:00] Starting scheduled stage voice
+[2026-06-14T06:15:29.483793-07:00] Completed stage voice; artifact=/root/echo_system/runtime/stage_outputs/2026-06-14/voice.md
+[2026-06-14T06:30:29.492662-07:00] Starting scheduled stage videoforge
+[2026-06-14T06:30:34.999250-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-06-14_video_summary_plan.md
+[2026-06-14T06:30:34.999361-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-06-14/videoforge.md
+[2026-06-14T06:45:35.006992-07:00] Starting scheduled stage vision
+[2026-06-14T06:45:40.352078-07:00] Completed stage vision; artifact=/root/echo_system/runtime/stage_outputs/2026-06-14/vision.md
+[2026-06-14T07:00:40.360232-07:00] Starting scheduled stage echohsu
+[2026-06-14T07:01:28.229481-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-06-14_morning_briefing_delivery.md
+[2026-06-14T07:01:28.229622-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-06-14/echohsu.md
+[2026-06-15T03:00:28.853428-07:00] Starting scheduled stage sentinel
+[2026-06-15T03:00:57.783411-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-06-15/sentinel.md
+[2026-06-15T03:30:57.799337-07:00] Starting scheduled stage healer
+[2026-06-15T03:31:07.606367-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-06-15/healer.md
+[2026-06-15T04:30:07.636554-07:00] Starting scheduled stage evolver
+[2026-06-15T04:30:17.713474-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-06-15/evolver.md
+[2026-06-15T05:00:17.729444-07:00] Starting scheduled stage orchestrator
+[2026-06-15T05:00:36.693401-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-06-15_morning_briefing.md
+[2026-06-15T05:00:36.693516-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-06-15/orchestrator.md
+[2026-06-15T05:15:36.701930-07:00] Starting scheduled stage docsync
+[2026-06-15T05:15:39.526000-07:00] Completed stage docsync; artifact=/root/echo_system/runtime/stage_outputs/2026-06-15/docsync.md
+[2026-06-15T05:15:39.526895-07:00] Starting scheduled stage historian
+[2026-06-15T05:15:49.176439-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-06-15/historian.md
+[2026-06-15T05:30:49.185247-07:00] Starting scheduled stage archivist
+[2026-06-15T05:31:00.154631-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-06-15/archivist.md
+[2026-06-15T06:00:00.171998-07:00] Starting scheduled stage content
+[2026-06-15T06:00:10.748458-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-06-15_morning_briefing_polished.md
+[2026-06-15T06:00:10.748570-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-06-15/content.md
+[2026-06-15T06:15:10.756884-07:00] Starting scheduled stage audioforge
+[2026-06-15T06:15:19.302084-07:00] Completed stage audioforge; artifact=/root/echo_system/runtime/stage_outputs/2026-06-15/audioforge.md
+[2026-06-15T06:15:19.303297-07:00] Starting scheduled stage voice
+[2026-06-15T06:15:24.625658-07:00] Completed stage voice; artifact=/root/echo_system/runtime/stage_outputs/2026-06-15/voice.md
+[2026-06-15T06:30:24.634486-07:00] Starting scheduled stage videoforge
+[2026-06-15T06:30:30.108397-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-06-15_video_summary_plan.md
+[2026-06-15T06:30:30.108507-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-06-15/videoforge.md
+[2026-06-15T06:45:30.117073-07:00] Starting scheduled stage vision
+[2026-06-15T06:45:35.440756-07:00] Completed stage vision; artifact=/root/echo_system/runtime/stage_outputs/2026-06-15/vision.md
+[2026-06-15T07:00:35.449167-07:00] Starting scheduled stage echohsu
+[2026-06-15T07:01:18.124058-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-06-15_morning_briefing_delivery.md
+[2026-06-15T07:01:18.124831-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-06-15/echohsu.md
+[2026-06-16T03:00:32.395718-07:00] Starting scheduled stage sentinel
+[2026-06-22T02:15:27.907669-07:00] Echo autonomous loop service started
+[2026-06-22T03:00:27.965016-07:00] Starting scheduled stage sentinel
+[2026-06-22T03:01:15.851776-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-06-22/sentinel.md
+[2026-06-22T03:30:15.867700-07:00] Starting scheduled stage healer
+[2026-06-22T03:31:02.824400-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-06-22/healer.md
+[2026-06-22T04:30:02.855380-07:00] Starting scheduled stage evolver
+[2026-06-22T04:30:49.835318-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-06-22/evolver.md
+[2026-06-22T05:00:49.851158-07:00] Starting scheduled stage orchestrator
+[2026-06-22T05:01:10.790066-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-06-22_morning_briefing.md
+[2026-06-22T05:01:10.790252-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-06-22/orchestrator.md
+[2026-06-22T05:15:10.798278-07:00] Starting scheduled stage docsync
+[2026-06-22T05:15:13.551119-07:00] Completed stage docsync; artifact=/root/echo_system/runtime/stage_outputs/2026-06-22/docsync.md
+[2026-06-22T05:15:13.551881-07:00] Starting scheduled stage historian
+[2026-06-22T05:16:02.580539-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-06-22/historian.md
+[2026-06-22T05:30:02.588713-07:00] Starting scheduled stage archivist
+[2026-06-22T05:30:51.529654-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-06-22/archivist.md
+[2026-06-22T06:00:51.546294-07:00] Starting scheduled stage content
+[2026-06-22T06:01:41.352377-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-06-22_morning_briefing_polished.md
+[2026-06-22T06:01:41.352536-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-06-22/content.md
+[2026-06-22T06:15:41.360428-07:00] Starting scheduled stage audioforge
+[2026-06-22T06:15:50.568376-07:00] Completed stage audioforge; artifact=/root/echo_system/runtime/stage_outputs/2026-06-22/audioforge.md
+[2026-06-22T06:15:50.569184-07:00] Starting scheduled stage voice
+[2026-06-22T06:15:55.803299-07:00] Completed stage voice; artifact=/root/echo_system/runtime/stage_outputs/2026-06-22/voice.md
+[2026-06-22T06:30:55.812199-07:00] Starting scheduled stage videoforge
+[2026-06-22T06:31:01.362163-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-06-22_video_summary_plan.md
+[2026-06-22T06:31:01.362392-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-06-22/videoforge.md
+[2026-06-22T06:45:01.370309-07:00] Starting scheduled stage vision
+[2026-06-22T06:45:06.692269-07:00] Completed stage vision; artifact=/root/echo_system/runtime/stage_outputs/2026-06-22/vision.md
+[2026-06-22T07:00:06.701250-07:00] Starting scheduled stage echohsu
+[2026-06-22T07:00:48.729624-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-06-22_morning_briefing_delivery.md
+[2026-06-22T07:00:48.729739-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-06-22/echohsu.md
+[2026-06-23T03:00:14.688224-07:00] Starting scheduled stage sentinel
+[2026-06-23T03:00:52.323763-07:00] Completed stage sentinel; artifact=/root/echo_system/runtime/stage_outputs/2026-06-23/sentinel.md
+[2026-06-23T03:30:52.343703-07:00] Starting scheduled stage healer
+[2026-06-23T03:31:18.899880-07:00] Completed stage healer; artifact=/root/echo_system/runtime/stage_outputs/2026-06-23/healer.md
+[2026-06-23T04:30:18.927482-07:00] Starting scheduled stage evolver
+[2026-06-23T04:30:45.185930-07:00] Completed stage evolver; artifact=/root/echo_system/runtime/stage_outputs/2026-06-23/evolver.md
+[2026-06-23T05:00:45.201919-07:00] Starting scheduled stage orchestrator
+[2026-06-23T05:01:23.580860-07:00] Wrote morning briefing draft to /root/echo_system/briefings/2026-06-23_morning_briefing.md
+[2026-06-23T05:01:23.581504-07:00] Completed stage orchestrator; artifact=/root/echo_system/runtime/stage_outputs/2026-06-23/orchestrator.md
+[2026-06-23T05:15:23.590479-07:00] Starting scheduled stage docsync
+[2026-06-23T05:15:35.476902-07:00] Completed stage docsync; artifact=/root/echo_system/runtime/stage_outputs/2026-06-23/docsync.md
+[2026-06-23T05:15:35.478305-07:00] Starting scheduled stage historian
+[2026-06-23T05:16:02.298615-07:00] Completed stage historian; artifact=/root/echo_system/runtime/stage_outputs/2026-06-23/historian.md
+[2026-06-23T05:30:02.306132-07:00] Starting scheduled stage archivist
+[2026-06-23T05:30:28.652209-07:00] Completed stage archivist; artifact=/root/echo_system/runtime/stage_outputs/2026-06-23/archivist.md
+[2026-06-23T06:00:28.667636-07:00] Starting scheduled stage content
+[2026-06-23T06:00:55.549072-07:00] Wrote polished narrative briefing to /root/echo_system/briefings/2026-06-23_morning_briefing_polished.md
+[2026-06-23T06:00:55.549693-07:00] Completed stage content; artifact=/root/echo_system/runtime/stage_outputs/2026-06-23/content.md
+[2026-06-23T06:15:55.557220-07:00] Starting scheduled stage audioforge
+[2026-06-23T06:16:19.304966-07:00] Completed stage audioforge; artifact=/root/echo_system/runtime/stage_outputs/2026-06-23/audioforge.md
+[2026-06-23T06:16:19.306978-07:00] Starting scheduled stage voice
+[2026-06-23T06:16:39.849012-07:00] Completed stage voice; artifact=/root/echo_system/runtime/stage_outputs/2026-06-23/voice.md
+[2026-06-23T06:30:39.857473-07:00] Starting scheduled stage videoforge
+[2026-06-23T06:31:01.090927-07:00] Wrote video summary plan to /root/echo_system/briefings/2026-06-23_video_summary_plan.md
+[2026-06-23T06:31:01.091544-07:00] Completed stage videoforge; artifact=/root/echo_system/runtime/stage_outputs/2026-06-23/videoforge.md
+[2026-06-23T06:45:01.099122-07:00] Starting scheduled stage vision
+[2026-06-23T06:45:22.392906-07:00] Completed stage vision; artifact=/root/echo_system/runtime/stage_outputs/2026-06-23/vision.md
+[2026-06-23T07:00:22.400139-07:00] Starting scheduled stage echohsu
+[2026-06-23T07:00:42.557821-07:00] Wrote EchoHsu delivery package to /root/echo_system/briefings/2026-06-23_morning_briefing_delivery.md
+[2026-06-23T07:00:42.558500-07:00] Completed stage echohsu; artifact=/root/echo_system/runtime/stage_outputs/2026-06-23/echohsu.md

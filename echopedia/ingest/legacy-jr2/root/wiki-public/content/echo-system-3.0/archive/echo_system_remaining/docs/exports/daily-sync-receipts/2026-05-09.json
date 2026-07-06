@@ -1,0 +1,68 @@
+{
+  "bundle_bytes": 145753,
+  "bundle_path": "/root/echo_system/docs/exports/daily-sync/Echo_System_Canonical_Docs_Daily_Sync_2026-05-09.md",
+  "bundle_scope": "canonical_docs_only",
+  "bundle_sha256": "d1298e777304c9c4318215ba775a77a78860c41a1fc6b4a610578588f1fb35d3",
+  "canonical_docs": [
+    "Echo_System_Master_Index.md",
+    "Echo_System_Vision_Architecture.md",
+    "Echo_System_Agent_Prompts.md",
+    "Echo_System_Knowledge_Core.md",
+    "Echo_System_Runtime_and_Self_Management.md",
+    "Echo_System_Operations_Guide.md"
+  ],
+  "date_key": "2026-05-09",
+  "drive_file": {
+    "id": "1YnuN6tQRtI4A0Qx7ZxceVqdYum98oIkP",
+    "mimeType": "text/markdown",
+    "name": "Echo_System_Canonical_Docs_Daily_Sync_2026-05-09.md",
+    "parents": [
+      "0ABhqZwu84cYbUk9PVA"
+    ],
+    "size": "145753",
+    "webViewLink": "https://drive.google.com/file/d/1YnuN6tQRtI4A0Qx7ZxceVqdYum98oIkP/view?usp=drivesdk"
+  },
+  "drive_folder_id": "0ABhqZwu84cYbUk9PVA",
+  "generated_at": "2026-05-09T17:02:48.931288-07:00",
+  "source_count": 6,
+  "source_manifest": [
+    {
+      "bytes": 9215,
+      "path": "Echo_System_Master_Index.md",
+      "sha256": "859c37acbcf6a3d161f25c738edc6a5b17083dd34eb1258f82a2d8e0462c904f"
+    },
+    {
+      "bytes": 20340,
+      "path": "Echo_System_Vision_Architecture.md",
+      "sha256": "c1be7034184d877aa01b7e3fdce3e8f0bc8d1ad7f48a121e0b500980b767af76"
+    },
+    {
+      "bytes": 41611,
+      "path": "Echo_System_Agent_Prompts.md",
+      "sha256": "f5d98f385979a2139b72b5f7c7fb74644ccac80f2eb30b6adbe29b661444d314"
+    },
+    {
+      "bytes": 22030,
+      "path": "Echo_System_Knowledge_Core.md",
+      "sha256": "e81661d6c4941f15a6ab7db5ad0957776f227af081f135969d623f64f57e2035"
+    },
+    {
+      "bytes": 27522,
+      "path": "Echo_System_Runtime_and_Self_Management.md",
+      "sha256": "a34d5be8e2b36f68275a5c907351b5a987c82ef5302ba1958e02b33b9411d785"
+    },
+    {
+      "bytes": 24324,
+      "path": "Echo_System_Operations_Guide.md",
+      "sha256": "5e990979e2d9ae6040cc649e9ff7f3d3d6371efcb93a7f606a1bd45d7bafad60"
+    }
+  ],
+  "source_root": "/root/echo_system/docs",
+  "status": "uploaded",
+  "verification": {
+    "remote_name_matches": true,
+    "remote_parent_matches": true,
+    "remote_size_matches": true
+  },
+  "verified": true
+}

@@ -1,0 +1,48 @@
+{
+  "private_wiki_updates": [
+    {
+      "title": "Echo System Operational State - 2026-05-09 Morning Verification",
+      "body_markdown": "## Summary\nVerified morning-state operational evidence collected at `2026-05-09T11:28:59.814478-07:00` shows `hermes-gateway` active, public `/healthz` returning `ok`, and `echo-autoloop` inactive by direct service check.\n\n## Verified Facts\n- `hermes-gateway`: `active` by direct service check\n- `echo-autoloop`: `inactive` by direct service check\n- Public health endpoint `https://bucked-diabetes-shucking.ngrok-free.dev/healthz`: `ok`\n- Two watchdog cron jobs listed as active; both last run `ok`\n- Open listeners observed on ports `8079`, `8080`, and `8090`\n- Root disk usage: `41%`\n- Direct memory snapshot: `2048 MB total`, `1275 MB used`, `130 MB free`, `643 MB buff/cache`, `772 MB available`\n\n## Cautions\n- Repeated warnings indicate secret redaction disabled: `HERMES_REDACT_SECRETS=false`\n- Gateway logs show timeout/retry noise and auxiliary title-generation failures while the gateway remained running\n\n## Verification Conflict\nA source-of-truth conflict exists in the supplied evidence:\n- raw direct check: `echo-autoloop` = `inactive`\n- synthesized pulse field: `pulse.services.echo-autoloop.status` = `active`\nThis should remain archived as unresolved pending fresh direct verification.\n\n## Verification Metadata\n- Last Updated: 2026-05-09T11:28:59.814478-07:00\n- Verification Level: 4/5 for direct command-backed operational facts\n- Consent Status: operational telemetry; no human-subject consent content present\n",
+      "source_refs": [
+        "checks.autoloop_active",
+        "checks.gateway_active",
+        "checks.public_healthz",
+        "checks.cron_list",
+        "checks.ports",
+        "checks.disk_root",
+        "checks.memory",
+        "derived.gateway_log_metrics",
+        "upstream_artifacts.historian",
+        "upstream_artifacts.orchestrator",
+        "pulse.services.echo-autoloop.status"
+      ]
+    }
+  ],
+  "public_wiki_safe_items": [
+    {
+      "title": "Operational facts safe for bounded public status reuse",
+      "summary": [
+        "`hermes-gateway` active at collection time",
+        "public `/healthz` returned `ok`",
+        "`echo-autoloop` direct service check returned `inactive`",
+        "two watchdog cron jobs active with last run `ok`",
+        "ports `8079`, `8080`, and `8090` observed listening",
+        "root disk usage `41%`"
+      ]
+    }
+  ],
+  "deferred_items": [
+    "Any claim that `echo-autoloop` was repaired or restarted successfully after the captured evidence",
+    "Any normalization of the raw/pulse conflict without a fresh direct service check",
+    "Any statement that secret leakage was confirmed rather than merely a redaction-disabled exposure risk",
+    "Any current-state Telegram/network instability claim based on older pulse cautions when derived metrics show `telegram_network_errors: 0`",
+    "Any external impact or all-systems-healthy claim"
+  ],
+  "redaction_notes": [
+    "Evidence contains repeated warnings that `HERMES_REDACT_SECRETS=false`; public summaries should avoid unnecessary operational detail.",
+    "Do not publish any claim that keys or tokens were actually exposed; the evidence supports risk, not confirmed disclosure.",
+    "This bundle is operational telemetry only and contains no human-subject consent content."
+  ],
+  "valid": true,
+  "errors": []
+}

@@ -1,0 +1,13 @@
+{
+  "valid": false,
+  "errors": [
+    "missing keys: ['missing JSON object']"
+  ],
+  "executive_summary": "",
+  "video_ready": false,
+  "script": "",
+  "scenes": [],
+  "subtitle_text": "",
+  "asset_requirements": [],
+  "source_refs": []
+}

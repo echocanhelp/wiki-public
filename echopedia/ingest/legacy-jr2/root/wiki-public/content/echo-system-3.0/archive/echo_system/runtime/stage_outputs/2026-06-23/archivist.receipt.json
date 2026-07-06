@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0",
+  "stage": "archivist",
+  "timestamp": "2026-06-23T05:30:28.649091-07:00",
+  "artifact_path": "/root/echo_system/runtime/stage_outputs/2026-06-23/archivist.md",
+  "status": "blocked",
+  "success": false,
+  "blocked": true,
+  "actions_attempted": [],
+  "external_handles": [],
+  "verification": [],
+  "warnings": [],
+  "errors": [
+    "missing keys: ['missing JSON object']"
+  ]
+}

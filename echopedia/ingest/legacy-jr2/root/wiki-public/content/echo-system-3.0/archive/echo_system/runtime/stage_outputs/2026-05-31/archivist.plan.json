@@ -1,0 +1,65 @@
+{
+  "wiki_items": [
+    {
+      "title": "Echo System Morning State Verification - 2026-05-31 (PT)",
+      "body_markdown": "- Evidence collection time: `2026-05-31T05:30:29.040973-07:00`.\n- `hermes-gateway`: active.\n- `echo-autoloop`: active.\n- Pulse status: `🟠 Autonomous loop degraded` with health score `20`.\n- Active issue: `public MCP watchdog cron missing`.\n- Active caution: `hermes-gateway has nonzero restart count`.\n- Restart counters: gateway `3`, autoloop `0`.\n- Root disk snapshot: `15G/20G` used (`77%`).\n- Listening ports observed: `127.0.0.1:8080`, `0.0.0.0:8090`.\n- Public probe: `https://bucked-diabetes-shucking.ngrok-free.dev/healthz` returned HTTP `404`.\n- Listed cron jobs in evidence were active with last-run status `ok`.",
+      "source_refs": [
+        "evidence.checks.utc_now",
+        "evidence.checks.gateway_active",
+        "evidence.checks.autoloop_active",
+        "evidence.checks.gateway_restarts_total",
+        "evidence.checks.autoloop_restarts_total",
+        "evidence.checks.disk_root",
+        "evidence.checks.memory",
+        "evidence.checks.ports",
+        "evidence.checks.public_healthz",
+        "evidence.checks.cron_list",
+        "evidence.pulse.system_health_score",
+        "evidence.pulse.overall_status",
+        "evidence.issues",
+        "evidence.cautions",
+        "evidence.derived"
+      ],
+      "category": "event",
+      "tags": [
+        "echo-system",
+        "autonomous-loop",
+        "operations",
+        "verification",
+        "morning-state",
+        "2026-05-31"
+      ]
+    },
+    {
+      "title": "Historian Gate Decision - Operational Facts Reuse Scope (2026-05-31)",
+      "body_markdown": "- Historian output approved public reuse of narrowly scoped operational facts from the supplied evidence bundle.\n- Historian did not approve media publication at this time.\n- Claims blocked pending additional corroboration include: current deterministic autoloop crash-loop, 8090 not listening, disk at 53%, external `/healthz` healthy, and claims that repairs were applied today.\n- Publication model for verified items: publish to both private wiki and public wiki, then moderate publicly via community enforcement.",
+      "source_refs": [
+        "evidence.upstream_artifacts.historian",
+        "evidence.pulse.agents.historian.key_metrics",
+        "evidence.issues",
+        "evidence.cautions"
+      ],
+      "category": "topic",
+      "tags": [
+        "historian",
+        "editorial-gate",
+        "publish-then-moderate",
+        "verification-scope",
+        "public-wiki"
+      ]
+    }
+  ],
+  "deferred_items": [
+    "Reconcile contradictions between current command-level checks and legacy narrative pulse fields before promoting stronger health claims.",
+    "Address missing public MCP watchdog cron and verify active scheduling plus successful runs in future evidence.",
+    "Resolve public ngrok `/healthz` route mismatch (currently HTTP 404) before asserting external health success.",
+    "Fix missing `docsync` profile so documentation synchronization stage can execute."
+  ],
+  "redaction_notes": [
+    "No personal-data consent artifact provided in this evidence bundle.",
+    "No explicit publication-consent document provided in this evidence bundle.",
+    "Archive only operational facts explicitly evidenced; avoid inferred causality or unverified repair claims."
+  ],
+  "valid": true,
+  "errors": []
+}

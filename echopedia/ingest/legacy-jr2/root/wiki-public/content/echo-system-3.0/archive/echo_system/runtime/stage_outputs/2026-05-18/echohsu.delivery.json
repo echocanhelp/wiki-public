@@ -1,0 +1,30 @@
+{
+  "delivery_ready": false,
+  "blocked_reasons": [
+    "Historian media gate denied: zero TAHS entities at 3+ stars",
+    "VideoForge profile stopped and render blocked",
+    "System health 22/100 with open MCP watchdog issue",
+    "No historical or TAHS content available for delivery"
+  ],
+  "channel": "LINE",
+  "recipient": "Leonard Hsu",
+  "message_markdown": "Echo System 3.0 Morning Briefing — 2026-05-18 PT. Health Score: 22 (🟠 Degraded). Gateway and autoloop active (0 restarts). 5 cron jobs healthy. Sole open issue: public MCP watchdog cron missing. No TAHS historical entities verified; all media generation blocked. Resources comfortable (disk 54%, memory 31%). No repairs executed.",
+  "public_summary": "Echo System operating degraded but stable. Core services active with zero restarts. One open issue noted. No new historical content today.",
+  "follow_up_actions": [
+    "Create public MCP watchdog cron (5-min interval)",
+    "Monitor autoloop stability vs stale crash data",
+    "Address memory capacity alert",
+    "Review 18-item deployment drift report"
+  ],
+  "source_refs": [
+    "SystemPulse.json collected 2026-05-18T06:39:53-07:00",
+    "orchestrator artifact 2026-05-18T05:00",
+    "content artifact 2026-05-18T06:13",
+    "videoforge artifact 2026-05-18T06:39",
+    "historian gate receipt: executor_blocked=false, verified_handles=0",
+    "live checks: hermes-gateway active, echo-autoloop active, ports 8079/8080 listening",
+    "hermes cron list: 5 jobs healthy, public-mcp-watchdog missing"
+  ],
+  "valid": true,
+  "errors": []
+}

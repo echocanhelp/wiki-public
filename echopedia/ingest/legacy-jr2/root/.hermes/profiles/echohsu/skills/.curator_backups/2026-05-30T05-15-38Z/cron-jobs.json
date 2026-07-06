@@ -1,0 +1,222 @@
+{
+  "jobs": [
+    {
+      "id": "21cb2eea7084",
+      "name": "identity-link-guard",
+      "prompt": "",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": "identity_link_guard.py",
+      "no_agent": true,
+      "context_from": null,
+      "schedule": {
+        "kind": "interval",
+        "minutes": 30,
+        "display": "every 30m"
+      },
+      "schedule_display": "every 30m",
+      "repeat": {
+        "times": null,
+        "completed": 235
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-25T07:55:11.396142+00:00",
+      "next_run_at": "2026-05-30T05:44:38.066922+00:00",
+      "last_run_at": "2026-05-30T05:14:38.066922+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin,discord",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "6769573480",
+        "chat_name": "Hsuperman",
+        "thread_id": null
+      },
+      "enabled_toolsets": null,
+      "workdir": null,
+      "profile": null
+    },
+    {
+      "id": "14799a1b4e48",
+      "name": "line-security-guard-p07",
+      "prompt": "",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": "line_security_guard.py",
+      "no_agent": true,
+      "context_from": null,
+      "schedule": {
+        "kind": "interval",
+        "minutes": 5,
+        "display": "every 5m"
+      },
+      "schedule_display": "every 5m",
+      "repeat": {
+        "times": null,
+        "completed": 1296
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-25T16:57:49.412960+00:00",
+      "next_run_at": "2026-05-30T05:19:38.019348+00:00",
+      "last_run_at": "2026-05-30T05:14:38.019348+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin,discord",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "6769573480",
+        "chat_name": "Hsuperman",
+        "thread_id": null
+      },
+      "enabled_toolsets": null,
+      "workdir": null,
+      "profile": null
+    },
+    {
+      "id": "28f6ffa3ab03",
+      "name": "echohsu-codex-hardfail-watchdog",
+      "prompt": "",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": "codex_hardfail_watchdog.sh",
+      "no_agent": true,
+      "context_from": null,
+      "schedule": {
+        "kind": "interval",
+        "minutes": 10,
+        "display": "every 10m"
+      },
+      "schedule_display": "every 10m",
+      "repeat": {
+        "times": null,
+        "completed": 423
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-27T06:42:56.346098+00:00",
+      "next_run_at": "2026-05-30T05:25:38.187520+00:00",
+      "last_run_at": "2026-05-30T05:15:38.187520+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": null,
+      "profile": "echohsu"
+    },
+    {
+      "id": "c76a0d120a49",
+      "name": "Echopedia Homepage Daily Refresh",
+      "prompt": "",
+      "skills": [
+        "echopedia-homepage-curator"
+      ],
+      "skill": "echopedia-homepage-curator",
+      "model": "grok-4.3",
+      "provider": "xai-oauth",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 9 * * *",
+        "display": "0 9 * * *"
+      },
+      "schedule_display": "0 9 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 2
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-28T22:48:12.378305+00:00",
+      "next_run_at": "2026-05-30T09:00:00+00:00",
+      "last_run_at": "2026-05-29T09:03:36.487273+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "6769573480",
+        "chat_name": "Hsuperman",
+        "thread_id": null
+      },
+      "enabled_toolsets": [
+        "web",
+        "terminal",
+        "file",
+        "skills"
+      ],
+      "workdir": "/root/wiki-public",
+      "profile": "echohsu"
+    },
+    {
+      "id": "421f984cdb94",
+      "name": "kevin-lee-birthday-wish",
+      "prompt": "Send this enhanced birthday message to the LINE group for Kevin Lee: \"\ud83c\udf39\ud83c\udf39\ud83c\udf39 Sending you roses from the concrete, Kevin Lee.\n\nIn the style of Eminem:\n\nGuess who's back, back again \u2014 Kevin's birthday, my friend.  \nSlim Shady flow, but we keep it clean, represent.  \nRoses grow where the concrete cracks, you planted the seeds,  \nAnother year older, still dropping bars with ease.  \nWordplay sharper than a chainsaw, slicing through the pain,  \nJune 8th in Taiwan time, lighting up the lane.  \nLose yourself in the moment, own it, don't choke,  \nThrough the mathers of life, you stayed real, never broke.  \nHappy Birthday, king, the realest in the room,  \nLegacy stacking, watch the flowers bloom.  \nOnly God can judge the path that you chose,  \nBut today we celebrate \u2014 raise a toast, here we go!\"",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "once",
+        "run_at": "2026-06-08T00:00:00+00:00",
+        "display": "once at 2026-06-08 00:00"
+      },
+      "schedule_display": "once at 2026-06-08 00:00",
+      "repeat": {
+        "times": 1,
+        "completed": 0
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-29T06:25:54.256067+00:00",
+      "next_run_at": "2026-06-08T00:00:00+00:00",
+      "last_run_at": null,
+      "last_status": null,
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "line:C8d5891e93f6cab1950ddadfbd4d68e8a",
+      "origin": {
+        "platform": "line",
+        "chat_id": "C8d5891e93f6cab1950ddadfbd4d68e8a",
+        "chat_name": "C8d5891e93f6cab1950ddadfbd4d68e8a",
+        "thread_id": null
+      },
+      "enabled_toolsets": null,
+      "workdir": null,
+      "profile": null
+    }
+  ],
+  "updated_at": "2026-05-30T05:15:38.187786+00:00"
+}

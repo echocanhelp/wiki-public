@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "stage": "historian",
+  "timestamp": "2026-05-26T05:16:33.473526-07:00",
+  "artifact_path": "/root/echo_system/runtime/stage_outputs/2026-05-26/historian.md",
+  "status": "executed",
+  "success": true,
+  "blocked": false,
+  "actions_attempted": [],
+  "external_handles": [],
+  "verification": [
+    {
+      "method": "json_block_validation",
+      "ok": true,
+      "details": "Historian gate JSON parsed and validated"
+    }
+  ],
+  "warnings": [],
+  "errors": [],
+  "gate": {
+    "approved_for_public_reuse": true,
+    "approved_for_media": false,
+    "safe_facts": [
+      "Evidence bundle timestamp is 2026-05-26T05:15:52-07:00.",
+      "hermes-gateway is active and has NRestarts=1 in the supplied checks.",
+      "echo-autoloop is active and has NRestarts=0 in the supplied checks.",
+      "Root filesystem usage is 70% (13G/20G, 5.6G free) per provided df output.",
+      "Port checks show listeners on 127.0.0.1:8080 and 0.0.0.0:8090 in the supplied ss output.",
+      "A curl probe to the public ngrok /healthz endpoint returned HTTP 404 in the supplied check.",
+      "The supplied cron listing shows five active jobs with last run status marked ok.",
+      "Supplied gateway status logs include repeated Discord token errors and a Discord pause after repeated failures.",
+      "Supplied gateway status logs include repeated warnings for unrecognized /debate_start Telegram command.",
+      "The pulse section reports system_health_score=20 and overall_status=🟠 Autonomous loop degraded."
+    ],
+    "blocked_claims": [
+      "That any repairs were applied today.",
+      "That external integrations were restored.",
+      "That the public MCP watchdog cron policy is satisfied.",
+      "That /healthz is the correct canonical public health endpoint and therefore the system is down.",
+      "That all pulse service narratives are current and internally consistent."
+    ],
+    "source_gaps": [
+      "Authoritative health endpoint contract for the ngrok-routed public service.",
+      "Authoritative policy/source defining required watchdog cron jobs and cadence.",
+      "Independent corroboration for stage-level impact of blocked agents on public deliverables.",
+      "Longitudinal telemetry to validate trend claims versus single-snapshot observations."
+    ],
+    "consent_notes": [
+      "Assessment is constrained to user-supplied evidence only.",
+      "No file edits or repair actions were performed in this response.",
+      "No external side effects are claimed."
+    ],
+    "valid": true,
+    "errors": []
+  }
+}

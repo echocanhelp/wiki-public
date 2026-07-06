@@ -1,0 +1,104 @@
+{
+  "version": "3.0-skeleton",
+  "host": {
+    "name": "pinto",
+    "tailscale_ip": "100.104.120.42",
+    "lan_ip": "192.168.7.1"
+  },
+  "migration": {
+    "source_host": "100.125.172.124",
+    "status": "tier_a_complete",
+    "completed_at": "2026-07-02",
+    "staging_path": "/home/leedt/echo-system/echopedia/ingest/legacy-jr2",
+    "note": "Tier A+B merged: Memory.md, wiki/legacy/, agent prompts. Secrets and archive deferred."
+  },
+  "paths": {
+    "root": "/home/leedt/echo-system",
+    "tauergon": "/home/leedt/echo-system/tauergon/src",
+    "echopedia": "/home/leedt/echo-system/echopedia",
+    "agents": "/home/leedt/echo-system/agents",
+    "sessions": "/home/leedt/echo-system/sessions",
+    "logs": "/home/leedt/echo-system/logs"
+  },
+  "services": {
+    "llm": {
+      "url": "http://localhost:8001/v1",
+      "model": "qwen36",
+      "model_id": "AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-NVFP4",
+      "compose": "docker-compose.qwen36-nvfp4-dflash-v024.yml",
+      "image": "ghcr.io/aeon-7/aeon-vllm-ultimate:2026-07-01-v0.24.0",
+      "dflash": "z-lab/Qwen3.6-27B-DFlash",
+      "health": "http://localhost:8001/v1/models",
+      "max_model_len": 131072
+    },
+    "cloud_llm": {
+      "provider": "xai-oauth",
+      "model": "grok-4.3",
+      "url": "https://api.x.ai/v1",
+      "auth": "SuperGrok subscription OAuth (no API key)"
+    },
+    "cpu_llm": {
+      "url": "http://localhost:8004/v1",
+      "model": "gemma2-2b",
+      "model_id": "google/gemma-2-2b-it",
+      "health": "http://localhost:8004/health",
+      "device": "cpu",
+      "note": "llama.cpp fallback for simple tasks and gx10 outage"
+    },
+    "routing": {
+      "config": "/home/leedt/echo-system/config/routing.json",
+      "default": "hybrid",
+      "local_group": "gx10",
+      "light_group": "cpu-light",
+      "cloud_group": "supergrok",
+      "voice_group": "gx10"
+    },
+    "whisper": {
+      "url": "http://localhost:8002/v1",
+      "health": "http://localhost:8002/v1/models",
+      "device": "cpu",
+      "enabled": true
+    },
+    "tts": {
+      "url": "http://localhost:8003/v1",
+      "health": "http://localhost:8003/v1/models",
+      "model_default": "tts-1",
+      "model_fallback": "tts-1-hd",
+      "device": "cpu",
+      "note": "GB10 ARM: openedai-speech image lacks CUDA; piper tts-1 on CPU. GPU compose available as echo-tts-gpu.yml.",
+      "voice_default": "alloy",
+      "enabled": true
+    },
+    "embeddings": {
+      "url": "http://localhost:8009/v1",
+      "model": "BAAI/bge-m3",
+      "enabled": false,
+      "note": "Enable after skeleton validation; competes for GB10 GPU memory."
+    }
+  },
+  "tauergon": {
+    "default_llm_group": "hybrid",
+    "config": "/home/leedt/echo-system/tauergon/src/tau.json"
+  },
+  "bridges": {
+    "root": "/home/leedt/echo-system/bridges",
+    "env": "/home/leedt/echo-system/bridges/.env",
+    "telegram": {
+      "mode": "long_polling",
+      "enabled": true
+    },
+    "line": {
+      "mode": "webhook",
+      "local_port": 8787,
+      "webhook_path": "/line/webhook",
+      "public_url_env": "LINE_PUBLIC_URL",
+      "tunnel": "ngrok",
+      "note": "Set NGROK_AUTHTOKEN in bridges/.env, run scripts/start-ngrok.sh"
+    },
+    "security": {
+      "rate_limit_per_minute": 6,
+      "rate_limit_per_hour": 30,
+      "admin_key_env": "BRIDGE_ADMIN_KEY"
+    }
+  }
+}

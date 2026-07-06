@@ -1,0 +1,47 @@
+{
+  "bundle_bytes": 441,
+  "bundle_path": "/root/wiki-public/content/echo-system-3.0/docs/exports/control-plane-sync/Echo_System_Control_Plane_Truth_2026-06-24.md",
+  "bundle_scope": "control_plane_truth",
+  "bundle_sha256": "cf7f3d758a1d02ebfe837d9a2bb3b7b61c710ef4050cd92d29cd94fa72210a4c",
+  "date_key": "2026-06-24",
+  "drive_file": {
+    "id": "1hC9nxtfM7SeCVmz1EFYJ16dDilEmHq3F",
+    "name": "Echo_System_Control_Plane_Truth_2026-06-24.md",
+    "parents": [
+      "0ABhqZwu84cYbUk9PVA"
+    ],
+    "size": "441",
+    "webViewLink": "https://drive.google.com/file/d/1hC9nxtfM7SeCVmz1EFYJ16dDilEmHq3F/view?usp=drivesdk"
+  },
+  "drive_folder_id": "0ABhqZwu84cYbUk9PVA",
+  "generated_at": "2026-06-24T07:55:53.078501-07:00",
+  "manifest": [
+    {
+      "label": "EnvironmentOracle.json",
+      "missing": true,
+      "path": "/root/wiki-public/content/echo-system-3.0/environment/EnvironmentOracle.json"
+    },
+    {
+      "label": "EnvironmentOracle.md",
+      "missing": true,
+      "path": "/root/wiki-public/content/echo-system-3.0/environment/EnvironmentOracle.md"
+    },
+    {
+      "label": "SystemPulse.json",
+      "missing": true,
+      "path": "/root/wiki-public/content/echo-system-3.0/system_pulse/SystemPulse.json"
+    },
+    {
+      "label": "SystemPulse.md",
+      "missing": true,
+      "path": "/root/wiki-public/content/echo-system-3.0/system_pulse/SystemPulse.md"
+    }
+  ],
+  "status": "uploaded",
+  "verification": {
+    "remote_name_matches": true,
+    "remote_parent_matches": true,
+    "remote_size_matches": true
+  },
+  "verified": true
+}

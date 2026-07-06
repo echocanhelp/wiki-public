@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "stage": "videoforge",
+  "timestamp": "2026-05-16T06:44:16.732449-07:00",
+  "artifact_path": "/root/echo_system/runtime/stage_outputs/2026-05-16/videoforge.md",
+  "status": "blocked",
+  "success": false,
+  "blocked": true,
+  "actions_attempted": [],
+  "external_handles": [],
+  "verification": [
+    {
+      "method": "planner_gate",
+      "ok": true,
+      "details": "Video plan explicitly marked not render ready"
+    }
+  ],
+  "warnings": [
+    "No text-to-video backend available (Grok Imagine Video not installed/configured; no ComfyUI/Manim running)",
+    "Historian media gate was IDLE — no content approved for public reuse or media generation",
+    "No background music asset provisioned on disk",
+    "Voiceover audio not yet synthesized",
+    "Agent memory at 88-98% capacity — delivery confirmation may fail silently",
+    "Content is operational meta-narrative, not TAHS historical content — requires Orchestrator authorization to proceed"
+  ],
+  "errors": [],
+  "render_ready": false
+}

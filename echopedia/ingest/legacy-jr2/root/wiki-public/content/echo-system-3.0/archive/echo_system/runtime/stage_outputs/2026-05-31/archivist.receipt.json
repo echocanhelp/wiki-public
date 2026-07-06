@@ -1,0 +1,73 @@
+{
+  "schema_version": "1.0",
+  "stage": "archivist",
+  "timestamp": "2026-05-31T05:31:21.651005-07:00",
+  "artifact_path": "/root/echo_system/runtime/stage_outputs/2026-05-31/archivist.md",
+  "status": "executed",
+  "success": true,
+  "blocked": false,
+  "actions_attempted": [
+    {
+      "type": "google_docs_create",
+      "target": "private_wiki",
+      "input_ref": "Echo System Morning State Verification - 2026-05-31 (PT)"
+    },
+    {
+      "type": "google_docs_create",
+      "target": "private_wiki",
+      "input_ref": "Historian Gate Decision - Operational Facts Reuse Scope (2026-05-31)"
+    },
+    {
+      "type": "public_wiki_write",
+      "target": "github_pages",
+      "slug": "event/echo-system-morning-state-verification---2026-05-31-pt",
+      "input_ref": "Echo System Morning State Verification - 2026-05-31 (PT)"
+    },
+    {
+      "type": "public_wiki_write",
+      "target": "github_pages",
+      "slug": "topic/historian-gate-decision---operational-facts-reuse-scope-2026-05-31",
+      "input_ref": "Historian Gate Decision - Operational Facts Reuse Scope (2026-05-31)"
+    }
+  ],
+  "external_handles": [
+    {
+      "type": "google_doc",
+      "id": "1_AzRWaWsvNyCgOstmOkSJvvSR7MUAkVKaoGY-43i8PU",
+      "title": "Echo System Morning State Verification - 2026-05-31 (PT)",
+      "url": "https://docs.google.com/document/d/1_AzRWaWsvNyCgOstmOkSJvvSR7MUAkVKaoGY-43i8PU/edit?usp=drivesdk"
+    },
+    {
+      "type": "google_doc",
+      "id": "1RRE0QwUYXYammeZzkLkYl86sEe9NS14A5GRyRA-x854",
+      "title": "Historian Gate Decision - Operational Facts Reuse Scope (2026-05-31)",
+      "url": "https://docs.google.com/document/d/1RRE0QwUYXYammeZzkLkYl86sEe9NS14A5GRyRA-x854/edit?usp=drivesdk"
+    }
+  ],
+  "verification": [
+    {
+      "method": "read_back",
+      "ok": true,
+      "details": "Verified Google Doc create for Echo System Morning State Verification - 2026-05-31 (PT)"
+    },
+    {
+      "method": "read_back",
+      "ok": true,
+      "details": "Verified Google Doc create for Historian Gate Decision - Operational Facts Reuse Scope (2026-05-31)"
+    },
+    {
+      "method": "file_write",
+      "ok": true,
+      "details": "Wrote public wiki file: event/echo-system-morning-state-verification---2026-05-31-pt"
+    },
+    {
+      "method": "file_write",
+      "ok": true,
+      "details": "Wrote public wiki file: topic/historian-gate-decision---operational-facts-reuse-scope-2026-05-31"
+    }
+  ],
+  "warnings": [],
+  "errors": [],
+  "published_private_docs": 2,
+  "published_public_wiki_items": 0
+}

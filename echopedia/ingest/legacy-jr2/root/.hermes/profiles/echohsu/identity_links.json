@@ -1,0 +1,127 @@
+{
+  "version": "1.0",
+  "updated_at": "2026-06-22T17:50:40Z",
+  "links": [
+    {
+      "link_id": "lnk_20260525_albert_s_lai",
+      "person_slug": "albert-s-lai",
+      "display_name_en": "Albert S. Lai",
+      "display_name_zh": "賴信雄",
+      "line_user_ids": [],
+      "line_group_ids_seen": [
+        "C12d20c0b0ddbf3d2f767e3d4a7799dde",
+        "C4d885bb46dc994c854aec30fdddeafa5"
+      ],
+      "state": "owner_verified",
+      "state_reason": "Owner confirmed Albert identity and Echopedia page linkage",
+      "confidence": "high",
+      "consent": {
+        "profile_linking": true,
+        "dm_processing": "private_only",
+        "public_quote_reuse": false
+      },
+      "verified_by": "leonard-hsu",
+      "last_verified_at": "2026-05-25T07:47:46Z",
+      "created_at": "2026-05-25T07:47:46Z",
+      "updated_at": "2026-05-25T07:47:46Z"
+    },
+    {
+      "link_id": "lnk_20260525_david_lee",
+      "person_slug": "david-lee",
+      "display_name_en": "David Lee",
+      "display_name_zh": "",
+      "line_user_ids": [
+        "U0b1b4329eb17c7ec32c0f3c469eff01f"
+      ],
+      "line_group_ids_seen": [
+        "C12d20c0b0ddbf3d2f767e3d4a7799dde"
+      ],
+      "state": "owner_verified",
+      "state_reason": "Owner approved David Lee linkage",
+      "confidence": "medium",
+      "consent": {
+        "profile_linking": true,
+        "dm_processing": "none",
+        "public_quote_reuse": false
+      },
+      "verified_by": "leonard-hsu",
+      "last_verified_at": "2026-05-25T07:50:17Z",
+      "created_at": "2026-05-25T07:47:46Z",
+      "updated_at": "2026-05-25T07:50:17Z"
+    },
+    {
+      "link_id": "lnk_20260615_rex_chen",
+      "person_slug": "rex-chen",
+      "display_name_en": "Rex Chen",
+      "display_name_zh": "陳乃光",
+      "line_user_ids": [
+        "U726b32357dd1e5fec08d4b4774b85e15"
+      ],
+      "line_group_ids_seen": [
+        "C70086677e2bc13e4fb148af09150c58a"
+      ],
+      "line_mention_label": "Rex Chen",
+      "state": "owner_verified",
+      "state_reason": "Triple-check correction: Rex Chen sender account provided “My Chinese name is 陳乃光”; Leonard confirmed U0f... is Leonard and @Rex Chen/U726... is Rex. 陳乃光 belongs to Rex Chen, not Leonard Hsu Jr.",
+      "confidence": "high",
+      "consent": {
+        "profile_linking": true,
+        "dm_processing": "none",
+        "public_quote_reuse": false
+      },
+      "verified_by": "leonard-hsu",
+      "last_verified_at": "2026-06-16T00:04:39Z",
+      "created_at": "2026-06-15T23:57:32Z",
+      "updated_at": "2026-06-16T00:04:39Z"
+    },
+    {
+      "link_id": "lnk_20260616_leonard_hsu_jr",
+      "person_slug": "leonard-hsu-jr",
+      "created_at": "2026-06-16T00:04:39Z",
+      "display_name_en": "Leonard Hsu Jr.",
+      "display_name_zh": "許景鴻",
+      "line_user_ids": [
+        "U0f32fb11347263a3fc985718caffbdd7"
+      ],
+      "line_group_ids_seen": [
+        "C70086677e2bc13e4fb148af09150c58a"
+      ],
+      "state": "owner_verified",
+      "state_reason": "Owner/self identity confirmed in LINE group correction: U0f... is Leonard Hsu Jr.; 陳乃光 belongs to Rex Chen.",
+      "confidence": "high",
+      "consent": {
+        "profile_linking": true,
+        "dm_processing": "private_only",
+        "public_quote_reuse": false
+      },
+      "verified_by": "leonard-hsu",
+      "last_verified_at": "2026-06-16T00:04:39Z",
+      "updated_at": "2026-06-16T00:04:39Z"
+    },
+    {
+      "link_id": "lnk_20260616_ken_wu",
+      "person_slug": "ken-wu",
+      "display_name_en": "Ken Wu",
+      "display_name_zh": "吳兆峯",
+      "line_user_ids": [
+        "U7162d61dc8436edfe378eeff7b7532a5"
+      ],
+      "line_group_ids_seen": [
+        "C937a67c7d5be127009799ce1d930507c"
+      ],
+      "line_mention_label": "Ken Wu",
+      "state": "owner_verified",
+      "state_reason": "Owner identified Ken Wu as the participant who replied “yes, this is pretty cool” in the three-way LINE group conversation; runtime log captured the sender LINE user ID.",
+      "confidence": "high",
+      "consent": {
+        "profile_linking": true,
+        "dm_processing": "none",
+        "public_quote_reuse": false
+      },
+      "verified_by": "leonard-hsu",
+      "last_verified_at": "2026-06-22T17:50:40Z",
+      "created_at": "2026-06-16T01:30:18Z",
+      "updated_at": "2026-06-22T17:50:40Z"
+    }
+  ]
+}

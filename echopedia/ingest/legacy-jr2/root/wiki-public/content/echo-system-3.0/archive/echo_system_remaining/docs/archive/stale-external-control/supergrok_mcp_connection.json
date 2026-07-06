@@ -1,0 +1,19 @@
+{
+  "name": "Hermes MCP via ngrok (authenticated)",
+  "transport": "streamable-http",
+  "url": "https://bucked-diabetes-shucking.ngrok-free.dev/mcp",
+  "healthz": "https://bucked-diabetes-shucking.ngrok-free.dev/healthz",
+  "headers": {
+    "Authorization": "Bearer V14LFoNPFIt-9a8L8ss3WfnT4P5q6jBssp2otWn8lL0",
+    "ngrok-skip-browser-warning": "true"
+  },
+  "fallback_headers": {
+    "X-Hermes-MCP-Token": "V14LFoNPFIt-9a8L8ss3WfnT4P5q6jBssp2otWn8lL0",
+    "ngrok-skip-browser-warning": "true"
+  },
+  "notes": [
+    "Use Authorization Bearer first if the client supports standard auth headers.",
+    "If the client only supports custom headers, send X-Hermes-MCP-Token with the same token.",
+    "Dashboard root and /healthz remain public; /mcp now requires auth."
+  ]
+}

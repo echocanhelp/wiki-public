@@ -1,0 +1,27 @@
+{
+  "approved_for_public_reuse": false,
+  "approved_for_media": false,
+  "safe_facts": [
+    "Echo System 3.0 health score is 20/100 as of 2026-05-14 pulse.",
+    "Five downstream autoloop stages have been failing since May 13 with exit code 1.",
+    "All 13 agent profiles collapsed to local model Qwen/Qwen3.6-27B-FP8.",
+    "Public MCP endpoint returns HTTP 500 on /healthz.",
+    "Root disk at 50% utilization (9.2G of 20G)."
+  ],
+  "blocked_claims": [
+    "No historical content present in this cycle — Historian agent blocked since May 13.",
+    "Cannot verify or enrich any TAHS entities while downstream pipeline is stalled.",
+    "Model topology drift identified as root cause; unverified until tiered topology is restored and agents re-execute."
+  ],
+  "source_gaps": [
+    "No historical sources reviewed — Historian executor blocked, no entities entered verification pipeline.",
+    "Previous cycle artifacts (May 13) may contain unreviewed content pending pipeline recovery.",
+    "Deployment reality audit reports 9 drift items — scope unknown without audit report access."
+  ],
+  "consent_notes": [
+    "No individual names, family stories, or personal narratives in scope for this cycle.",
+    "No consent reviews required until historical content resumes flowing through autoloop."
+  ],
+  "valid": true,
+  "errors": []
+}

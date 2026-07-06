@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-05-14T06:15:14.102489-07:00",
+  "executive_summary": "Echo System 3.0 health score 20/100. 6/9 autoloop stages completed today (Sentinel through Archivist). Content, VideoForge, EchoHsu blocked since May 13. Historian executed cleanly with zero historical entities — media approval gate CLOSED. Root cause: model topology drift to local Qwen3.6-27B-FP8 across all 13 profiles. Three recovery proposals approved (restore frontier models, restore MCP server, automate lifecycle). Estimated recovery: 20 to 70/100.",
+  "video_ready": false,
+  "script": "60-second meta-narrative about Echo System infrastructure status. 6 scenes: Hook (health score reveal), Diagnosis (pipeline status), Bottleneck (zero historical content), Recovery Plan (3 approved proposals), Stakes (disk/memory pressure), Closing (mission reminder). Not historical content — system status documentary style.",
+  "scenes": [
+    {
+      "slug": "hook_health_score",
+      "visual": "Dark screen, terminal prompt blinking. Text appears: 'Health Score: 20/100'",
+      "voiceover": "Every great archive starts with a question: what happens when the storytellers go silent?"
+    },
+    {
+      "slug": "diagnosis_pipeline",
+      "visual": "System dashboard — services listed, some green some red. Camera pans across agent pipeline showing 6 OK, 3 blocked.",
+      "voiceover": "Six diagnostic agents ran this morning. Three downstream stages have been blocked for over a day. The root cause: a model topology that drifted from frontier AI to a single local engine."
+    },
+    {
+      "slug": "bottleneck_zero_content",
+      "visual": "Flow diagram showing data pipeline stopping at Content stage with red X.",
+      "voiceover": "The Historian agent executed cleanly but found zero historical entities. The Archivist synchronized but had nothing new to archive. Without verified stories, there is nothing to produce."
+    },
+    {
+      "slug": "recovery_plan",
+      "visual": "Three cards appear sequentially: Restore Frontier Models, Restore MCP Server, Automate Lifecycle Management.",
+      "voiceover": "Three recovery proposals have been approved. Restoring the tiered model topology could lift health from 20 to 70. But execution requires human hands."
+    },
+    {
+      "slug": "stakes_resource_pressure",
+      "visual": "Clock ticking, disk usage bar growing. Text overlay: '80% disk in ~3 days'",
+      "voiceover": "Disk at 50 percent and climbing. Memory stores saturated. The system is surviving, but every day without recovery tightens the margin for error."
+    },
+    {
+      "slug": "closing_mission",
+      "visual": "Fade to Echo System logo with tagline.",
+      "voiceover": "This is the infrastructure behind the stories of Taiwanese American history. Recovery begins with a single command."
+    }
+  ],
+  "subtitle_text": "Echo System 3.0 — May 14, 2026. Health Score: 20/100. 6 stages operational, 3 blocked. Root cause: model topology drift. Recovery plan approved. Building the TAHS Knowledge Engine.",
+  "asset_requirements": [
+    "System dashboard screenshot (for Scene 2 visual reference)",
+    "Pipeline flow diagram (for Scene 3)",
+    "Echo System logo (for Scene 6)",
+    "Terminal font/CLI aesthetic overlay",
+    "Ambient background music track (tension to resolution)"
+  ],
+  "source_refs": [
+    "SystemPulse.json (2026-05-14T05:37:42-07:00) — system health score, agent statuses",
+    "historian.gate.json — media approval gate CLOSED, zero verified handles",
+    "archivist.plan.json — 4 deferred items, no wiki updates",
+    "Orchestrator artifact — morning briefing with Evolver proposals",
+    "hermes profile list output — all 13 profiles on Qwen3.6-27B-FP8",
+    "df -h / output — disk 50% (9.2G/20G)",
+    "free -m output — RAM 36% (1461/4096MB)",
+    "systemctl status hermes-gateway — 0 restarts, 1d 18h uptime",
+    "curl /healthz stderr — HTTP 500 on ngrok endpoint",
+    "ss -ltnp output — port 8090 not listening",
+    "hermes cron list output — MCP watchdog cron missing",
+    "Gateway logs — Telegram fallback IP, memory write failures"
+  ]
+}

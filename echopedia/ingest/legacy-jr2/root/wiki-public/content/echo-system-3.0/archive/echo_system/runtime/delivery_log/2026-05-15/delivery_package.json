@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-05-15T07:09:58.697488-07:00",
+  "staged_only": true,
+  "delivery_ready": true,
+  "blocked_reasons": [
+    "Video production blocked: Historian media gate returned approved_for_media=false",
+    "Video production blocked: TTS voiceover pipeline not configured",
+    "Video production blocked: background music source not confirmed",
+    "Video production blocked: Grok Imagine Video API credentials not evidenced",
+    "Telegram channel unreachable for 23+ hours — cannot deliver via that platform"
+  ],
+  "channel": "LINE",
+  "recipient": "Leonard Hsu",
+  "message_markdown": "Good morning, Leonard. Echo Morning Briefing — Friday, May 15, 2026.\n\n**System Health: Recovered.** Overnight crash loop (120 restarts, 23-min cycle) resolved by Sentinel agent at 04:52 PT. Autoloop stable with 0 restarts. Permanent code patch approved but unapplied.\n\n**Gateway: Stable.** 2d 11h uptime, 0 restarts, 209M RAM.\n\n**Public Services: Operational.** ngrok healthz OK — dashboard, SMS, LINE all healthy.\n\n**Items needing attention:**\n- Telegram unreachable 23+ hours\n- Agent memory at 95% capacity (silent write failures)\n- MCP server port 8090 not listening\n\n**Pipeline:** 8/10 agents completed. Video script ready but rendering blocked on Historian gate + missing assets.\n\nI can prioritize any remaining action items. What would you like to tackle first?",
+  "public_summary": "Echo System 3.0 autonomous infrastructure recovered from an overnight crash loop. Sentinel agent detected and corrected data corruption; loop stabilized within minutes. Public-facing services operational. Four medium-priority items remain: latent code bug, Telegram offline, MCP watchdog missing, memory near capacity. Video production pipeline staged but blocked on asset verification.",
+  "follow_up_actions": [
+    "Approve one-line autoloop code patch (echo_autonomous_loop.py:1100)",
+    "Diagnose Telegram connectivity (DNS + curl tests against api.telegram.org)",
+    "Consolidate agent memory stores to reclaim 30-40% capacity",
+    "Clear Historian media gate for video production if documentary is desired",
+    "Create public MCP watchdog cron (5-minute interval)"
+  ],
+  "source_refs": [
+    "SystemPulse.json (2026-05-15T06:39:48 PT)",
+    "Live evidence checks: systemctl autoloop/gateway status, df, free, curl healthz",
+    "Orchestrator artifact: /root/echo_system/runtime/stage_outputs/2026-05-15/orchestrator.md",
+    "Content artifact: /root/echo_system/runtime/stage_outputs/2026-05-15/content.md",
+    "VideoForge artifact: /root/echo_system/runtime/stage_outputs/2026-05-15/videoforge.md",
+    "Sentinel/Healer/Evolver artifacts: stage_outputs/2026-05-15/",
+    "Gateway logs: Telegram failures, memory capacity errors, warning timestamps"
+  ]
+}

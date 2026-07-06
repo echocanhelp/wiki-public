@@ -1,0 +1,11 @@
+.env
+ngrok.yml
+bin/ngrok
+.venv/
+__pycache__/
+*.pyc
+logs/*.log
+pids/*.pid
+contexts/
+media/
+*.pyc

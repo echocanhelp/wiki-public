@@ -1,0 +1,51 @@
+{
+  "bundle_bytes": 34262,
+  "bundle_path": "/root/echo_system/docs/exports/control-plane-sync/Echo_System_Control_Plane_Truth_2026-05-24.md",
+  "bundle_scope": "control_plane_truth",
+  "bundle_sha256": "9a49efd412e9251c3d041863c021042894573ad115cc621aa7f709751d65338b",
+  "date_key": "2026-05-24",
+  "drive_file": {
+    "id": "10p18BlREQXUXo7c-0qwCu1byBkhw4nE4",
+    "name": "Echo_System_Control_Plane_Truth_2026-05-24.md",
+    "parents": [
+      "0ABhqZwu84cYbUk9PVA"
+    ],
+    "size": "34262",
+    "webViewLink": "https://drive.google.com/file/d/10p18BlREQXUXo7c-0qwCu1byBkhw4nE4/view?usp=drivesdk"
+  },
+  "drive_folder_id": "0ABhqZwu84cYbUk9PVA",
+  "generated_at": "2026-05-24T07:45:04.830926-07:00",
+  "manifest": [
+    {
+      "bytes": 8219,
+      "label": "EnvironmentOracle.json",
+      "path": "/root/echo_system/environment/EnvironmentOracle.json",
+      "sha256": "697f6847795e5518db53499f1eacc8c6ebac64940e851f3f1dd38b1d6dec518b"
+    },
+    {
+      "bytes": 3145,
+      "label": "EnvironmentOracle.md",
+      "path": "/root/echo_system/environment/EnvironmentOracle.md",
+      "sha256": "7551f9a17cc7553bed09c5023fd780a7c445f3e81a87b24835c77b0441bd3b57"
+    },
+    {
+      "bytes": 17313,
+      "label": "SystemPulse.json",
+      "path": "/root/echo_system/system_pulse/SystemPulse.json",
+      "sha256": "60a05c8753c23825b2fa05c60783889d8a63bd2c3e3b80ff409df12cdbcd4823"
+    },
+    {
+      "bytes": 2281,
+      "label": "SystemPulse.md",
+      "path": "/root/echo_system/system_pulse/SystemPulse.md",
+      "sha256": "3ae8714f0d52d17b52a67c16a5e9c9f7c8140ea96b122bf19ef891a7f7c60b93"
+    }
+  ],
+  "status": "uploaded",
+  "verification": {
+    "remote_name_matches": true,
+    "remote_parent_matches": true,
+    "remote_size_matches": true
+  },
+  "verified": true
+}

@@ -1,0 +1,32 @@
+{
+  "approved_for_public_reuse": true,
+  "approved_for_media": false,
+  "safe_facts": [
+    "Evidence bundle collected at 2026-05-25T05:15:40-07:00 (PT), with UTC command output 2026-05-25T12:15:40+00:00.",
+    "hermes-gateway is active in current checks and shows 0 restarts in systemctl show output.",
+    "echo-autoloop is active in current checks and shows 0 restarts in systemctl show output.",
+    "Root filesystem check reports 70% usage (20G total, 13G used, 5.8G free).",
+    "Port checks show listeners on 127.0.0.1:8080 and 0.0.0.0:8090 at collection time.",
+    "Public /healthz probe at the ngrok URL returned HTTP 404.",
+    "The explicit issue list in this bundle contains: public MCP watchdog cron missing.",
+    "Listed cron jobs in the provided output are active and last-run status shown is ok."
+  ],
+  "blocked_claims": [
+    "echo-autoloop is currently in a deterministic crash loop.",
+    "Port 8090 is currently not listening.",
+    "A verified repair was applied in this cycle.",
+    "The public MCP endpoint is down based solely on /healthz returning 404."
+  ],
+  "source_gaps": [
+    "Need reconciled, same-window evidence to resolve contradictions between live checks and stale/embedded pulse service fields.",
+    "Need endpoint inventory to confirm which public health path is canonical (if not /healthz).",
+    "Need repair receipts/verified handles before any fix-complete statement.",
+    "Need additional independent probes/logs before asserting causal degradation narratives."
+  ],
+  "consent_notes": [
+    "No user/community consent artifacts were provided in this evidence bundle.",
+    "No publication approval artifact was provided beyond technical telemetry."
+  ],
+  "valid": true,
+  "errors": []
+}

@@ -1,0 +1,10 @@
+{
+  "valid": false,
+  "errors": [
+    "missing keys: ['missing JSON object']"
+  ],
+  "private_wiki_updates": [],
+  "public_wiki_safe_items": [],
+  "deferred_items": [],
+  "redaction_notes": []
+}

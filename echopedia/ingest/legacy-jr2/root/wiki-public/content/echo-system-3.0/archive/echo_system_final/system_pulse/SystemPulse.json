@@ -1,0 +1,63 @@
+{
+  "agents": {
+    "docsync": {
+      "status": "🔴",
+      "last_scan": "2026-06-23T12:27:45.033849-07:00",
+      "issues_found": 1,
+      "auto_fixes_applied": 0,
+      "cautions_found": 0,
+      "notes": "Artifact: /root/echo_system/runtime/stage_outputs/2026-06-23/docsync.md. Structured: /root/echo_system/runtime/stage_outputs/2026-06-23/docsync.plan.json. Receipt: /root/echo_system/runtime/stage_outputs/2026-06-23/docsync.receipt.json. Issues: ['public MCP watchdog cron missing']. Cautions: []",
+      "key_metrics": {
+        "artifact_path": "/root/echo_system/runtime/stage_outputs/2026-06-23/docsync.md",
+        "profile_exit_code": 1,
+        "repairs_attempted": 0,
+        "runtime_issue_count": 1,
+        "runtime_caution_count": 0,
+        "structured_path": "/root/echo_system/runtime/stage_outputs/2026-06-23/docsync.plan.json",
+        "receipt_path": "/root/echo_system/runtime/stage_outputs/2026-06-23/docsync.receipt.json",
+        "executor_status": "blocked",
+        "executor_success": false,
+        "executor_blocked": true,
+        "verified_handles_count": 0
+      }
+    }
+  },
+  "timestamp": "2026-06-23T12:27:45.033849-07:00",
+  "system_health_score": 76,
+  "overall_status": "🟠 Autonomous loop degraded",
+  "summary": {
+    "compatibility_profiles_repaired": [],
+    "autonomous_loop": {
+      "service": "echo-autoloop.service",
+      "timezone": "America/Los_Angeles",
+      "stages": [
+        "sentinel",
+        "healer",
+        "evolver",
+        "orchestrator",
+        "docsync",
+        "historian",
+        "archivist",
+        "content",
+        "audioforge",
+        "voice",
+        "videoforge",
+        "vision",
+        "echohsu"
+      ],
+      "last_updated": "2026-06-23T12:27:45.033849-07:00",
+      "runtime_signals": {
+        "gateway_restarts_total": 0,
+        "autoloop_restarts_total": 0,
+        "redaction_disabled_warnings": 0,
+        "remote_protocol_errors": 0,
+        "telegram_network_errors": 0,
+        "recent_warning_lines": []
+      },
+      "health_penalties": [
+        "docsync exit code 1",
+        "docsync reported 1 issue(s)"
+      ]
+    }
+  }
+}

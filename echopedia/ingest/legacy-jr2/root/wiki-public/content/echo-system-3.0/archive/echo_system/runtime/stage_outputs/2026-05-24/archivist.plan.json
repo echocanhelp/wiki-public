@@ -1,0 +1,94 @@
+{
+  "wiki_items": [
+    {
+      "title": "Echo Autonomous Loop Runtime Snapshot (2026-05-24 Morning PT)",
+      "body_markdown": "- Evidence collection time: `2026-05-24T05:30:39.642724-07:00` (PT context).\n- Direct timestamp check: `2026-05-24T12:30:39+00:00`.\n- Service states at collection:\n  - `hermes-gateway`: `active`\n  - `echo-autoloop`: `active`\n- Restart counters:\n  - `hermes-gateway NRestarts=4`\n  - `echo-autoloop NRestarts=0`\n- Pulse-reported status field in provided artifact: `system_health_score=20`, `overall_status=🟠 Autonomous loop degraded`.\n\nPublication model: publish to both private and public wiki, then community moderation on public wiki.",
+      "source_refs": [
+        "evidence.checks.utc_now",
+        "evidence.checks.gateway_active",
+        "evidence.checks.autoloop_active",
+        "evidence.checks.gateway_restarts_total",
+        "evidence.checks.autoloop_restarts_total",
+        "evidence.pulse.system_health_score",
+        "evidence.pulse.overall_status",
+        "evidence.upstream_artifacts.historian"
+      ],
+      "category": "event",
+      "tags": [
+        "systempulse",
+        "autoloop",
+        "gateway",
+        "runtime",
+        "morning-state"
+      ]
+    },
+    {
+      "title": "Echo Reliability Signals: Gateway 403 Errors and Restart Caution (2026-05-24)",
+      "body_markdown": "- Gateway status log excerpt includes repeated `x_search` failures: HTTP `403 Forbidden` to `https://api.x.ai/v1/responses` with permission/credits error text.\n- Caution in evidence: `hermes-gateway has nonzero restart count`.\n- This item records symptoms only; no confirmed root-cause closure or repair receipt is present in the provided evidence.\n\nPublication model: publish to both private and public wiki, then community moderation on public wiki.",
+      "source_refs": [
+        "evidence.checks.gateway_status",
+        "evidence.cautions",
+        "evidence.derived.gateway_restarts_total",
+        "evidence.upstream_artifacts.historian"
+      ],
+      "category": "topic",
+      "tags": [
+        "reliability",
+        "gateway",
+        "x_search",
+        "403",
+        "caution"
+      ]
+    },
+    {
+      "title": "Echo Operations Inventory: Cron, Ports, and Public Health Probe (2026-05-24)",
+      "body_markdown": "- Cron inventory shows 5 active scheduled jobs with last run marked `ok` in the provided listing.\n- Open/listening ports in check output:\n  - `8090` on `0.0.0.0`\n  - `8080` on `127.0.0.1`\n- Public probe result:\n  - `curl https://bucked-diabetes-shucking.ngrok-free.dev/healthz` returned HTTP `404`.\n- Listed issue remains: `public MCP watchdog cron missing`.\n\nPublication model: publish to both private and public wiki, then community moderation on public wiki.",
+      "source_refs": [
+        "evidence.checks.cron_list",
+        "evidence.checks.ports",
+        "evidence.checks.public_healthz",
+        "evidence.issues",
+        "evidence.upstream_artifacts.historian"
+      ],
+      "category": "topic",
+      "tags": [
+        "cron",
+        "ports",
+        "healthz",
+        "ngrok",
+        "mcp",
+        "operations"
+      ]
+    }
+  ],
+  "deferred_items": [
+    {
+      "title": "Current deterministic autoloop crash-loop claim",
+      "reason": "Contradicted by direct check showing echo-autoloop active with NRestarts=0 at collection time; older pulse narrative conflict unresolved."
+    },
+    {
+      "title": "Claim that MCP port 8090 is not listening",
+      "reason": "Contradicted by socket check showing 8090 LISTEN."
+    },
+    {
+      "title": "Claim that ngrok /healthz is currently healthy",
+      "reason": "Contradicted by current probe returning HTTP 404 on /healthz."
+    },
+    {
+      "title": "Any statement that repairs succeeded in this cycle",
+      "reason": "No repair receipt/verified external handle in provided evidence."
+    },
+    {
+      "title": "Definitive root cause for gateway restarts",
+      "reason": "Provided evidence shows symptoms (403 and restarts) but not complete causal proof."
+    }
+  ],
+  "redaction_notes": [
+    "No secret values were exposed in the provided evidence excerpts; keep logs clipped to operational fields when publishing.",
+    "Retain timestamps and probe-path context to avoid overgeneralized public claims.",
+    "Do not infer cultural/content quality impacts from infrastructure telemetry without independent content-lane verification.",
+    "No explicit consent/publication authorization artifact was supplied in this evidence bundle."
+  ],
+  "valid": true,
+  "errors": []
+}

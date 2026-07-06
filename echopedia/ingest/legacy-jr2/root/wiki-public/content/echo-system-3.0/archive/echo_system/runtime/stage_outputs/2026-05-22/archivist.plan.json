@@ -1,0 +1,36 @@
+{
+  "wiki_items": [],
+  "deferred_items": [
+    {
+      "reason": "historian_blocked",
+      "detail": "xAI OAuth access_token expired. Historian, DocSync, Content, VideoForge all fail with AuthError. Requires manual re-auth via hermes auth.",
+      "blocked_since": "2026-05-22T03:30:00-07:00",
+      "affected_agents": [
+        "historian",
+        "docsync",
+        "content",
+        "videoforge"
+      ]
+    },
+    {
+      "reason": "mcp_watchdog_missing",
+      "detail": "Public MCP watchdog cron (5-min interval) not configured. Port 8090 not listening, ngrok healthz returns 404.",
+      "severity": "medium",
+      "issue_id": "I-MCP-002"
+    },
+    {
+      "reason": "memory_capacity",
+      "detail": "Agent memory at 95% capacity (user profile 1305/1375, notes 1950/2200). Pruning required before next cycle.",
+      "severity": "medium",
+      "issue_id": "I-MEM-001"
+    }
+  ],
+  "redaction_notes": [
+    "No content eligible for public wiki — Historian verification failed (OAuth expired). Zero items passed the editorial gate this cycle.",
+    "Last successful Archivist run: 2026-05-21T05:31 PT. No new graph entities or relationships verified since then.",
+    "Autoloop crash loop (I-AUTO-003) appears resolved between pulses — systemctl shows 0 restarts, active status. The underlying patch (line 1100 type guard) was applied by a prior cycle.",
+    "Echo autoloop service currently active. Gateway stable at 2 days 11h uptime with 0 restarts."
+  ],
+  "valid": true,
+  "errors": []
+}

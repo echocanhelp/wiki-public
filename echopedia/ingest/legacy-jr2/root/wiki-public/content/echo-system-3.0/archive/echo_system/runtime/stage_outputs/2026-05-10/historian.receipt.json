@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "stage": "historian",
+  "timestamp": "2026-05-10T05:16:29.739550-07:00",
+  "artifact_path": "/root/echo_system/runtime/stage_outputs/2026-05-10/historian.md",
+  "status": "executed",
+  "success": true,
+  "blocked": false,
+  "actions_attempted": [],
+  "external_handles": [],
+  "verification": [
+    {
+      "method": "json_block_validation",
+      "ok": true,
+      "details": "Historian gate JSON parsed and validated"
+    }
+  ],
+  "warnings": [],
+  "errors": [],
+  "gate": {
+    "approved_for_public_reuse": true,
+    "approved_for_media": false,
+    "safe_facts": [
+      "At evidence collection time on 2026-05-10 PT, hermes-gateway was reported active.",
+      "At evidence collection time on 2026-05-10 PT, echo-autoloop was reported active.",
+      "The public health endpoint at https://bucked-diabetes-shucking.ngrok-free.dev/healthz returned ok.",
+      "Listening services were evidenced on ports 8079, 8080, and 8090.",
+      "The newer evidence snapshot reported root disk usage at approximately 43 percent.",
+      "No active issues were listed in the supplied current evidence bundle.",
+      "EnvironmentOracle.json states the wired self-management loop stages are sentinel, healer, evolver, and orchestrator."
+    ],
+    "blocked_claims": [
+      "The gateway restart count is definitively zero.",
+      "The gateway restart count is definitively two without timestamp qualification.",
+      "All downstream stages are currently wired into the autonomous loop.",
+      "The profile-running state in SystemPulse fully matches the live system state.",
+      "A human or agent repaired the system today.",
+      "The degraded health score reflects only live faults rather than stale-stage penalties."
+    ],
+    "source_gaps": [
+      "Need reconciled, same-time snapshots for gateway restart count, PID, and uptime.",
+      "Need authoritative confirmation of which autonomous loop stages are actually wired versus merely planned or reported in stale artifacts.",
+      "Need reconciled profile-state evidence to determine which gateways were truly running at the same capture time.",
+      "Need explicit consent/provenance evidence before using this material in promotional or narrative media."
+    ],
+    "consent_notes": [
+      "No personal or family-story consent evidence was supplied.",
+      "No community-source or oral-history consent evidence was supplied.",
+      "The supplied evidence supports technical status reporting only, not biographical or cultural storytelling."
+    ],
+    "valid": true,
+    "errors": []
+  }
+}

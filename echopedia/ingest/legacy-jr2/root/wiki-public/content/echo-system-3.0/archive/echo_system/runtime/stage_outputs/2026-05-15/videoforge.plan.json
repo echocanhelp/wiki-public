@@ -1,0 +1,74 @@
+{
+  "render_ready": false,
+  "blocked_reasons": [
+    "Historian media gate returned approved_for_media: false — no content approved for video generation",
+    "Grok Imagine Video API credentials not evidenced in this evidence batch",
+    "No TTS voiceover pipeline configured or available",
+    "No background music source (royalty-free library or generation tool) confirmed",
+    "ffmpeg presence not verified in this evidence batch",
+    "Content is infrastructure-themed (system self-repair), not Taiwanese American historical content — requires explicit non-historical content exemption or Historian re-approval"
+  ],
+  "output_basename": "echo-system-self-repair-2026-05-15.mp4",
+  "scenes": [
+    {
+      "slug": "hook-crash-loop",
+      "visual": "Dark server rack with pulsing red warning lights. On-screen text: '120 CRASHES. 23-MINUTE CYCLE. NO HUMAN ON CALL.'",
+      "voiceover": "At 4 in the morning, an autonomous system started tearing itself apart. 120 restarts. Counting."
+    },
+    {
+      "slug": "sentinel-detection",
+      "visual": "Terminal output scrolling. Sentinel agent artifact highlighted in yellow. Error: TypeError at line 1101.",
+      "voiceover": "The Sentinel agent caught it first. A type mismatch — one string where a dictionary should be. A single line of corrupted data triggering an infinite crash loop."
+    },
+    {
+      "slug": "root-cause-diagnosis",
+      "visual": "Code diff view. echo_autonomous_loop.py:1101 highlighted. Arrow from corrupted SystemPulse.json field to crash point.",
+      "voiceover": "Root cause traced to SystemPulse.json. The autoloop expected a dictionary. It got a string. The result: deterministic failure, every 23 minutes like clockwork."
+    },
+    {
+      "slug": "self-repair-executed",
+      "visual": "Green checkmarks appearing sequentially. Service status: RED to GREEN. '0 restarts' counter updates. Three agent icons (Sentinel, Healer, Evolver) light up.",
+      "voiceover": "Sentinel wrote a corrected pulse. Healer confirmed stabilization. Evolver proposed a permanent code patch. Three agents. Three minutes. Zero humans."
+    },
+    {
+      "slug": "system-overview",
+      "visual": "Architecture diagram of 13 agent profiles lighting up. Gateway uptime counter: '2 DAYS 11 HOURS'. ngrok tunnel shown as active.",
+      "voiceover": "This is Echo System 3.0 — a 13-agent autonomous infrastructure built to monitor, diagnose, and repair itself. Part of the Taiwanese American Historical Society Knowledge Engine."
+    },
+    {
+      "slug": "closing-status",
+      "visual": "Dashboard: Health 82/100. Four risks listed in amber/red. Final text: 'Echo System. Always Watching.'",
+      "voiceover": "The loop is stable. But four risks remain. The autonomous age isn't about perfection — it's about never stopping the repair. Echo System. Always watching."
+    }
+  ],
+  "asset_requirements": [
+    "Grok Imagine Video API access for text-to-video generation (6 scenes, ~10s each, 720p, 16:9)",
+    "TTS voiceover engine: deep measured male voice, ~60 seconds of narration",
+    "Ambient electronic background music track (tense opening, resolving to steady pulse)",
+    "ffmpeg for clip stitching, subtitle burning, audio mixing",
+    "End screen template with source attribution and verification badge",
+    "Google Drive upload path: /Echo_System/Videos/2026-05-15/"
+  ],
+  "delivery_checklist": [
+    "Obtain Historian media gate approval or explicit non-historical content exemption",
+    "Verify Grok Imagine Video API credentials and connectivity",
+    "Generate 6 video clips via text-to-video prompts",
+    "Generate voiceover audio via TTS",
+    "Source ambient electronic background music (royalty-free)",
+    "Stitch clips with ffmpeg, add voiceover + subtitles + music",
+    "Burn end screen with source attribution and verification badge",
+    "Upload final MP4 to Google Drive /Echo_System/Videos/2026-05-15/",
+    "Append delivery confirmation to SystemPulse.json"
+  ],
+  "source_refs": [
+    "Content agent artifact: /root/echo_system/runtime/stage_outputs/2026-05-15/content.md — full script, scenes, visual cues",
+    "Content manifest: /root/echo_system/runtime/stage_outputs/2026-05-15/content.manifest.json — video_ready: true",
+    "Historian artifact: /root/echo_system/runtime/stage_outputs/2026-05-15/historian.md — approved_for_media: false",
+    "Historian gate: /root/echo_system/runtime/stage_outputs/2026-05-15/historian.gate.json",
+    "Archivist artifact: /root/echo_system/runtime/stage_outputs/2026-05-15/archivist.md — no wiki items, 4 deferred items",
+    "SystemPulse.json (2026-05-15T06:13:07 PT) — health score 34, 4 issues documented",
+    "Live evidence checks: gateway active (0 restarts), autoloop active (0 restarts), ngrok healthz OK, disk 53%, memory 31%"
+  ],
+  "valid": true,
+  "errors": []
+}

@@ -1,0 +1,9 @@
+{
+  "last_report_path": "/root/.hermes/profiles/echohsu/logs/curator/20260629-104611",
+  "last_run_at": "2026-06-29T10:46:11.778782+00:00",
+  "last_run_duration_seconds": 0.982509,
+  "last_run_summary": "auto: no changes; llm: skipped (consolidation off)",
+  "last_run_summary_shown_at": "2026-05-23T04:37:19.918259+00:00",
+  "paused": false,
+  "run_count": 7
+}

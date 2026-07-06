@@ -1,0 +1,46 @@
+---
+title: "Rev. Guo Dongxu (郭東緒牧師)"
+type: person
+tags:
+  - person
+  - Taiwanese American
+  - Presbyterian
+  - GSTPC
+---
+
+# Rev. Guo Dongxu (郭東緒牧師)
+
+Rev. Guo Dongxu (郭東緒牧師) appears in GSTPC bulletin records as a visiting preacher during the 2020 period.
+
+## Historical Significance
+His documented preaching during the early pandemic months contributed to maintaining worship continuity when in-person gathering was restricted.
+
+## Evidence Coverage Summary
+- Canonical bulletin entity key: 郭東緒牧師
+- Bulletin pages with mentions: 10
+- Year spread: 2020, 2021
+
+## Context Highlights
+
+1. **Preaching during pandemic transition**
+   - Delivered sermons while the church operated under restricted gathering.
+   - Example:
+     - [[gstpc-bulletins/2020/gstpc-bulletin-2020-07-26|GSTPC Bulletin 2020-07-26]]
+
+2. **Support for worship life**
+   - Part of the visiting preacher rotation during a critical period.
+
+## Source Notes and Confidence
+- High confidence: named preaching appearances.
+- Needs verification: expanded ministry relationship.
+
+## Name Variants / Disambiguation
+- Chinese: 郭東緒牧師
+- Romanized: Guo Dongxu
+
+## Contribution Invitation
+Use [[echopedia-community-contributions-hub|Echopedia Community Contributions Hub]].
+
+## Related Pages
+- [[good-shepherd-taiwanese-presbyterian-church-好牧者臺灣基督長老教會|Good Shepherd Taiwanese Presbyterian Church (好牧者臺灣基督長老教會)]]
+- [[gstpc-tier-a-person-wikification-queue|GSTPC Tier-A Person Wikification Queue]]

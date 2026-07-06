@@ -1,0 +1,24 @@
+# Voice autonomous loop artifact
+
+- Timestamp: 2026-06-06T06:15:30.414236-07:00
+- Profile: voice
+- Exit code: 1
+- Issues seen: 1
+- Cautions seen: 1
+
+## Model Output
+
+(no stdout)
+
+## Runtime Cautions
+
+- hermes-gateway has nonzero restart count
+
+## Supporting Gateway Warnings
+
+- 2026-06-06 01:01:17,660 WARNING gateway.platforms.telegram: [Telegram] Telegram network error, scheduling reconnect: httpx.ReadError: 
+- 2026-06-06 01:01:17,662 WARNING gateway.platforms.telegram: [Telegram] Telegram network error (attempt 1/10), reconnecting in 5s. Error: httpx.ReadError: 
+
+## STDERR
+
+hermes -z: agent failed: xAI OAuth state is missing access_token. Re-authenticate with `hermes model`.

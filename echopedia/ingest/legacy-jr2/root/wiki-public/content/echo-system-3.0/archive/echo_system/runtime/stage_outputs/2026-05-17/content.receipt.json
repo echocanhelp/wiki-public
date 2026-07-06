@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "stage": "content",
+  "timestamp": "2026-05-17T06:15:43.983146-07:00",
+  "artifact_path": "/root/echo_system/runtime/stage_outputs/2026-05-17/content.md",
+  "status": "executed",
+  "success": true,
+  "blocked": false,
+  "actions_attempted": [
+    {
+      "type": "write_render_manifest",
+      "target": "/root/echo_system/runtime/render_jobs/2026-05-17/render_manifest.json"
+    }
+  ],
+  "external_handles": [
+    {
+      "type": "file",
+      "path": "/root/echo_system/runtime/render_jobs/2026-05-17/render_manifest.json"
+    }
+  ],
+  "verification": [
+    {
+      "method": "read_back",
+      "ok": true,
+      "details": "Verified render manifest JSON round-trip"
+    }
+  ],
+  "warnings": [],
+  "errors": [],
+  "manifest_path": "/root/echo_system/runtime/render_jobs/2026-05-17/render_manifest.json"
+}

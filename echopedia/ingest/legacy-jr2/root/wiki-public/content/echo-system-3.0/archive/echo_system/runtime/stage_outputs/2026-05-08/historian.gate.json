@@ -1,0 +1,33 @@
+{
+  "approved_for_public_reuse": true,
+  "approved_for_media": false,
+  "safe_facts": [
+    "At collection time, hermes-gateway was reported active and systemctl status showed it running since 2026-05-09 04:48:07 UTC.",
+    "The public health endpoint at https://bucked-diabetes-shucking.ngrok-free.dev/healthz returned ok in the supplied check.",
+    "Two cron watchdog jobs were listed as active and their last recorded runs were ok: public-hermes-mcp-watchdog and gateway-platform-ownership-watchdog.",
+    "Root disk usage was reported as 41 percent (20G total, 7.6G used, 11G free).",
+    "The evidence records caution signals for secret redaction disabled and Telegram network/protocol errors with reconnect attempts.",
+    "The evidence bundle flags echo-autoloop inactive as an issue."
+  ],
+  "blocked_claims": [
+    "The autonomous loop was fully healthy or fully complete at the sampled time.",
+    "echo-autoloop was definitively active.",
+    "Repairs were executed in this cycle.",
+    "All downstream stages completed successfully.",
+    "Telegram messaging was in a confirmed sustained outage.",
+    "Secrets were proven to have been exposed in the supplied evidence."
+  ],
+  "source_gaps": [
+    "No independent corroboration resolving the conflict between direct check output and pulse summary for echo-autoloop status.",
+    "No repair receipt, executor receipt, or service-change evidence showing remediation in this cycle.",
+    "No consent or release record for converting these operational observations into media.",
+    "No external log sample or delivery artifact proving downstream completion beyond the supplied artifacts."
+  ],
+  "consent_notes": [
+    "No consent artifact was supplied in the evidence bundle.",
+    "No family or community source authorization is evidenced for media reuse.",
+    "Operational facts may be archived, but media reuse should remain blocked until consent and contradiction resolution are documented."
+  ],
+  "valid": true,
+  "errors": []
+}

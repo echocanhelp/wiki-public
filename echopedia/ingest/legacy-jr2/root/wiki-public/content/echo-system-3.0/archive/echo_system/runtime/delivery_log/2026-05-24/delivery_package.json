@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-05-24T07:01:21.555692-07:00",
+  "staged_only": true,
+  "delivery_ready": true,
+  "blocked_reasons": [],
+  "channel": "LINE",
+  "recipient": "Leonard Hsu",
+  "message_markdown": "### Final Delivery Message\nLeonard，早安。以下是 2026-05-24（PT）自動化迴圈的證據對齊狀態：\n\n- 系統目前為「在線但降級」：`hermes-gateway` 與 `echo-autoloop` 均顯示 `active`。\n- 主要未解決議題：`public MCP watchdog cron missing`。\n- 主要風險訊號：`hermes-gateway` 累計重啟 `4` 次，且日誌出現多次 `x_search` 的 `403 Forbidden`（權限/額度相關）。\n- 公網健康檢查目前不綠：`/healthz` 回傳 `404`（ngrok URL）。\n- 本批證據中**沒有**可驗證的修復收據；因此不主張任何修復已完成。\n\n### Public-Redacted Summary\nEcho System autonomous loop is running but degraded. Core services are active, one persistent issue remains (missing public MCP watchdog cron), and gateway reliability/entitlement signals need follow-up (nonzero restarts and repeated `x_search` 403 errors). Public health endpoint check returned 404. No verified repair effects in this evidence set.\n\n### Suggested Follow-up\n1. 補上或還原 public MCP watchdog cron，並在排程清單中確認出現且 `Last run: ok`。  \n2. 針對 `x_search` 403 做憑證/訂閱/額度路徑檢查，避免 gateway 持續報錯。  \n3. 校正公開健康檢查路徑（`/healthz`）與實際對外路由設定，消除 404。  \n4. 以最新 live checks 為準，持續對齊並清理與歷史 pulse 的矛盾敘述。  \n\n### Verification Footer\n- Evidence timestamp: `2026-05-24T07:00:43.023233-07:00`  \n- UTC check: `2026-05-24T14:00:43+00:00`  \n- Scope: staged delivery package only (Phase 2); no outbound send confirmation claimed.",
+  "public_summary": "Echo System autonomous loop is running but degraded: core services are active, one issue remains (missing public MCP watchdog cron), gateway has nonzero restarts with repeated x_search 403 errors, and public /healthz returned 404. No verified repair receipts are present in this evidence bundle.",
+  "follow_up_actions": [
+    "Add or restore the public MCP watchdog cron and verify it appears in cron inventory with a successful run.",
+    "Investigate x_search 403 entitlement path (credentials/subscription/credits) to reduce recurring gateway errors.",
+    "Reconcile public health probe routing so /healthz behavior matches expected external health checks.",
+    "Use fresh live checks as source of truth when pulse history conflicts with current telemetry."
+  ],
+  "source_refs": [
+    "evidence.collected_at",
+    "evidence.checks.utc_now.stdout",
+    "evidence.checks.gateway_active.stdout",
+    "evidence.checks.autoloop_active.stdout",
+    "evidence.checks.gateway_status.stdout",
+    "evidence.checks.gateway_restarts_total.stdout",
+    "evidence.checks.cron_list.stdout",
+    "evidence.checks.ports.stdout",
+    "evidence.checks.public_healthz.stderr",
+    "evidence.issues",
+    "evidence.cautions",
+    "evidence.derived"
+  ]
+}

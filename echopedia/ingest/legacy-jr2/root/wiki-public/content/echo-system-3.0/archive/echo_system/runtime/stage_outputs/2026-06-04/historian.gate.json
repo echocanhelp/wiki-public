@@ -1,0 +1,12 @@
+{
+  "valid": false,
+  "errors": [
+    "missing keys: ['missing JSON object']"
+  ],
+  "approved_for_public_reuse": false,
+  "approved_for_media": false,
+  "safe_facts": [],
+  "blocked_claims": [],
+  "source_gaps": [],
+  "consent_notes": []
+}

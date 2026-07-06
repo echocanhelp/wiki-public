@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "stage": "historian",
+  "timestamp": "2026-05-24T05:16:39.629476-07:00",
+  "artifact_path": "/root/echo_system/runtime/stage_outputs/2026-05-24/historian.md",
+  "status": "executed",
+  "success": true,
+  "blocked": false,
+  "actions_attempted": [],
+  "external_handles": [],
+  "verification": [
+    {
+      "method": "json_block_validation",
+      "ok": true,
+      "details": "Historian gate JSON parsed and validated"
+    }
+  ],
+  "warnings": [],
+  "errors": [],
+  "gate": {
+    "approved_for_public_reuse": true,
+    "approved_for_media": false,
+    "safe_facts": [
+      "Direct check timestamp: 2026-05-24T12:15:51+00:00.",
+      "systemctl checks report hermes-gateway active and echo-autoloop active at collection time.",
+      "Gateway restart count is nonzero (NRestarts=4).",
+      "Gateway logs include repeated x_search HTTP 403 permission/credits errors.",
+      "Issue list includes: public MCP watchdog cron missing.",
+      "Caution list includes: hermes-gateway has nonzero restart count.",
+      "Cron listing shows five active jobs with last-run status marked ok.",
+      "Port check shows 8090 and 8080 are listening at collection time.",
+      "Public ngrok /healthz probe returned HTTP 404.",
+      "Pulse object reports system_health_score=20 and overall_status=Autonomous loop degraded."
+    ],
+    "blocked_claims": [
+      "echo-autoloop is currently in deterministic crash loop with 120 restarts.",
+      "MCP port 8090 is currently not listening.",
+      "ngrok public healthz is currently OK.",
+      "Repairs were successfully applied in this cycle."
+    ],
+    "source_gaps": [
+      "Conflicting evidence between pulse narrative history and current direct checks requires reconciliation before media use.",
+      "No verified repair receipts/handles demonstrating completed fixes for listed issues.",
+      "No independent second-source confirmation for inferred root causes beyond log excerpts."
+    ],
+    "consent_notes": [
+      "No user/community consent artifacts were included in this evidence bundle.",
+      "No external publication authorization record was provided in the supplied data."
+    ],
+    "valid": true,
+    "errors": []
+  }
+}

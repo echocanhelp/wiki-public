@@ -1,0 +1,19 @@
+[Unit]
+Description=Echo ngrok tunnel for LINE webhook
+After=network-online.target echo-bridge-line.service
+Wants=network-online.target
+Requires=echo-bridge-line.service
+PartOf=echo-bridges.target
+
+[Service]
+Type=simple
+EnvironmentFile=-/home/leedt/echo-system/bridges/.env
+ExecStart=/home/leedt/echo-system/scripts/bridge-ngrok-run.sh
+ExecStartPost=/home/leedt/echo-system/scripts/bridge-ngrok-post.sh
+Restart=always
+RestartSec=10
+StandardOutput=append:/home/leedt/echo-system/bridges/logs/ngrok.log
+StandardError=append:/home/leedt/echo-system/bridges/logs/ngrok.log
+
+[Install]
+WantedBy=echo-bridges.target default.target

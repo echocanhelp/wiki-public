@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0",
+  "stage": "videoforge",
+  "timestamp": "2026-05-21T06:30:20.846216-07:00",
+  "artifact_path": "/root/echo_system/runtime/stage_outputs/2026-05-21/videoforge.md",
+  "status": "blocked",
+  "success": false,
+  "blocked": true,
+  "actions_attempted": [],
+  "external_handles": [],
+  "verification": [],
+  "warnings": [],
+  "errors": [
+    "missing keys: ['missing JSON object']"
+  ]
+}

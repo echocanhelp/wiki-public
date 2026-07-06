@@ -1,0 +1,39 @@
+{
+  "wiki_items": [],
+  "deferred_items": [
+    {
+      "id": "DEFC-001",
+      "description": "DocSync profile missing — create with 'hermes profile create docsync --model Qwen/Qwen3.6-27B-FP8'",
+      "severity": "critical",
+      "blocks": [
+        "wiki-sync-private",
+        "wiki-sync-public"
+      ]
+    },
+    {
+      "id": "DEFC-002",
+      "description": "Public MCP watchdog cron (5-min interval) not created — referenced by all 6 agents in today's scan",
+      "severity": "medium",
+      "blocks": []
+    },
+    {
+      "id": "DEFC-003",
+      "description": "Autoloop code patch (I-AUTO-003): add type guard at echo_autonomous_loop.py:1100 — Evolver approved, data fix applied by Sentinel, but code remains unpatched",
+      "severity": "critical",
+      "blocks": []
+    },
+    {
+      "id": "DEFC-004",
+      "description": "Agent memory store consolidation — both user profile (95%) and memory notes (95%) at capacity; Evolver proposal approved",
+      "severity": "medium",
+      "blocks": []
+    }
+  ],
+  "redaction_notes": [
+    "No historical content processed — no redactions applied",
+    "DocSync profile must exist before any wiki content reaches private or public destinations",
+    "When biographical content arrives: redact contact info, medical, and financial data from public wiki before GitHub push"
+  ],
+  "valid": true,
+  "errors": []
+}

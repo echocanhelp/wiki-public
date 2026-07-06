@@ -1,0 +1,73 @@
+{
+  "schema_version": "1.0",
+  "stage": "archivist",
+  "timestamp": "2026-06-01T05:31:23.135106-07:00",
+  "artifact_path": "/root/echo_system/runtime/stage_outputs/2026-06-01/archivist.md",
+  "status": "executed",
+  "success": true,
+  "blocked": false,
+  "actions_attempted": [
+    {
+      "type": "google_docs_create",
+      "target": "private_wiki",
+      "input_ref": "Echo System Morning Runtime Snapshot (2026-06-01 PT)"
+    },
+    {
+      "type": "google_docs_create",
+      "target": "private_wiki",
+      "input_ref": "Open Reliability Flags (2026-06-01 PT Morning)"
+    },
+    {
+      "type": "public_wiki_write",
+      "target": "github_pages",
+      "slug": "event/echo-system-morning-runtime-snapshot-2026-06-01-pt",
+      "input_ref": "Echo System Morning Runtime Snapshot (2026-06-01 PT)"
+    },
+    {
+      "type": "public_wiki_write",
+      "target": "github_pages",
+      "slug": "topic/open-reliability-flags-2026-06-01-pt-morning",
+      "input_ref": "Open Reliability Flags (2026-06-01 PT Morning)"
+    }
+  ],
+  "external_handles": [
+    {
+      "type": "google_doc",
+      "id": "1e8LGW1oMtJ5FH47Z0tC1F9mw6T-UztLEJkXsUqv91O0",
+      "title": "Echo System Morning Runtime Snapshot (2026-06-01 PT)",
+      "url": "https://docs.google.com/document/d/1e8LGW1oMtJ5FH47Z0tC1F9mw6T-UztLEJkXsUqv91O0/edit?usp=drivesdk"
+    },
+    {
+      "type": "google_doc",
+      "id": "1Bm-ckWrC2bkzIjVkCB8WKG-1fbhNBNMi1K0pOsV3wbU",
+      "title": "Open Reliability Flags (2026-06-01 PT Morning)",
+      "url": "https://docs.google.com/document/d/1Bm-ckWrC2bkzIjVkCB8WKG-1fbhNBNMi1K0pOsV3wbU/edit?usp=drivesdk"
+    }
+  ],
+  "verification": [
+    {
+      "method": "read_back",
+      "ok": true,
+      "details": "Verified Google Doc create for Echo System Morning Runtime Snapshot (2026-06-01 PT)"
+    },
+    {
+      "method": "read_back",
+      "ok": true,
+      "details": "Verified Google Doc create for Open Reliability Flags (2026-06-01 PT Morning)"
+    },
+    {
+      "method": "file_write",
+      "ok": true,
+      "details": "Wrote public wiki file: event/echo-system-morning-runtime-snapshot-2026-06-01-pt"
+    },
+    {
+      "method": "file_write",
+      "ok": true,
+      "details": "Wrote public wiki file: topic/open-reliability-flags-2026-06-01-pt-morning"
+    }
+  ],
+  "warnings": [],
+  "errors": [],
+  "published_private_docs": 2,
+  "published_public_wiki_items": 0
+}

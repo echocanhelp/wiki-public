@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-05-18T06:13:20.499407-07:00",
+  "executive_summary": "Echo System 3.0 health score 22/100 (degraded). Gateway and autoloop active with 0 restarts. Five cron jobs healthy. Four persistent issues unaddressed: autoloop crash loop (fix identified), Telegram degraded, MCP port 8090 silent, memory at 95%. No historical or TAHS content produced this cycle.",
+  "video_ready": true,
+  "script": "60-90 second system status video titled 'The Autonomic Heartbeat — Echo System 3.0 Morning Pulse'. Six scenes: Hook (amber LED server room), Gateway Stability (dashboard green), The Wound (crash log terminal), Persistent Drift (four issue cards), Resources & Outlook (gauges), Closing (amber-to-green LED). Dark tech aesthetic, ambient electronic music, authoritative voiceover.",
+  "scenes": [
+    {
+      "slug": "hook-amber-pulse",
+      "visual": "Dark server room, pulsing LED indicators. One amber light among greens. Camera slow push-in.",
+      "voiceover": "Every morning at 6 AM Pacific, the Echo System takes its own pulse. Today's verdict: alive, but limping."
+    },
+    {
+      "slug": "gateway-stable",
+      "visual": "Clean dashboard UI. hermes-gateway and echo-autoloop both showing green ACTIVE status. Cron jobs ticking through successfully.",
+      "voiceover": "Gateway and autoloop are both standing. Zero restarts today. Five scheduled jobs firing on time."
+    },
+    {
+      "slug": "crash-loop-wound",
+      "visual": "Terminal window showing TypeError crash at line 1101. Side-by-side diff view of current code vs proposed fix.",
+      "voiceover": "But the system carries scars. An autoloop crash loop was detected — 120 restarts in a 23-minute cycle — caused by a type mismatch at one line of code. The fix is known but unapplied."
+    },
+    {
+      "slug": "four-persistent-issues",
+      "visual": "Four numbered cards animate in sequence: broken Telegram icon, dark port 8090, memory gauge at 95%, missing watchdog clock.",
+      "voiceover": "Four persistent issues linger: Telegram connectivity down, MCP port silent, agent memory nearly full, and a missing watchdog cron. Each one manageable — together, a slow bleed."
+    },
+    {
+      "slug": "resources-comfortable",
+      "visual": "Resource gauges: disk at 54% green, memory at 31% green. Transition to amber status panel listing next actions.",
+      "voiceover": "Resources are comfortable. Disk at 54 percent, memory at 31 percent. The real work today: apply the autoloop fix, restore Telegram, and reclaim memory headroom."
+    },
+    {
+      "slug": "closing-green-transition",
+      "visual": "Amber LED from opening scene transitions to green. System logo fades in with tagline.",
+      "voiceover": "The Echo System doesn't sleep. It monitors, it diagnoses, it waits. Tomorrow, we make it stronger."
+    }
+  ],
+  "subtitle_text": "Every morning at 6 AM Pacific, the Echo System takes its own pulse. Today's verdict: alive, but limping. Gateway and autoloop are both standing. Zero restarts today. Five scheduled jobs firing on time. But the system carries scars. An autoloop crash loop was detected — 120 restarts in a 23-minute cycle — caused by a type mismatch at one line of code. The fix is known but unapplied. Four persistent issues linger: Telegram connectivity down, MCP port silent, agent memory nearly full, and a missing watchdog cron. Resources are comfortable. Disk at 54 percent, memory at 31 percent. The real work today: apply the autoloop fix, restore Telegram, and reclaim memory headroom. The Echo System doesn't sleep. It monitors, it diagnoses, it waits. Tomorrow, we make it stronger.",
+  "asset_requirements": [
+    "Dark server room footage with LED indicators (stock or generated)",
+    "Dashboard UI mockup showing service statuses",
+    "Terminal window rendering of crash log and code diff",
+    "Four issue-card graphics (Telegram, port, memory, clock icons)",
+    "Resource gauge graphics (disk/memory circular meters)",
+    "System logo and tagline overlay",
+    "Ambient electronic background music (70-80 BPM)",
+    "Voiceover recording (authoritative, calm tone)"
+  ],
+  "source_refs": [
+    "SystemPulse.json collected 2026-05-18T06:00:53-07:00",
+    "systemctl --user is-active hermes-gateway -> active",
+    "systemctl --user is-active echo-autoloop -> active",
+    "hermes cron list -> 5 active jobs",
+    "df -h / -> 54% used",
+    "free -m -> 31% used",
+    "ss -ltnp -> ports 8079/8080 listening, 8090 not",
+    "curl healthz -> OK with LINE error 501",
+    "pulse.issues array -> 4 issues (I-AUTO-003, I-TEL-002, I-MCP-002, I-MEM-001)",
+    "Historian artifact -> media generation blocked (no TAHS entities)",
+    "Archivist artifact -> no historical items verified"
+  ]
+}

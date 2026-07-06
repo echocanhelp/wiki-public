@@ -1,0 +1,15 @@
+# Crawl Blocklist - URLs to NEVER crawl or extract from
+# Prevents infinite loops where we crawl our own published content
+# Updated: 2026-05-16
+
+# Our own published wiki (prevent circular crawling)
+echocanhelp.github.io/wiki-public
+echocanhelp.github.io
+
+# Local dev URLs
+localhost
+127.0.0.1
+
+# Self-referential
+http://localhost
+https://localhost

@@ -1,0 +1,37 @@
+{
+  "delivery_ready": false,
+  "blocked_reasons": [
+    "EchoHsu executor blocked since 2026-05-13 (exit code 1) — this session is the unblocking attempt",
+    "Historian media gate CLOSED — zero verified historical entities at 3+ star verification",
+    "Content script marked video_ready: false — infrastructure meta-narrative, not historical content",
+    "VideoForge render blocked — no approved content to render",
+    "Public MCP endpoint returning HTTP 500 — external control plane degraded",
+    "MCP watchdog cron missing from scheduled jobs",
+    "Memory tool stores near capacity — general 93%, user 27%"
+  ],
+  "channel": "LINE",
+  "recipient": "Leonard Hsu",
+  "message_markdown": "Good morning, Leonard. Echo System morning briefing — May 14, 2026. Health: 28/100 (improving from 20). 7/9 autoloop stages completed today. Gateway stable, 0 restarts. Blocked: VideoForge (zero verified historical entities), EchoHsu delivery (unblocking now), public MCP endpoint (HTTP 500), MCP watchdog cron (missing). Disk at 50% and growing ~1.5GB/day. Three recovery proposals approved: restore frontier models (+30-40 points), restore MCP server, automate disk lifecycle. No historical content this cycle — Historian gate closed. Action needed: execute model topology restoration commands to unblock the full downstream pipeline.",
+  "public_summary": "Echo System 3.0 health 28/100, improving. 7/9 stages operational. No historical content produced — Historian gate closed. Three recovery proposals approved. Disk cleanup needed.",
+  "follow_up_actions": [
+    "Restore tiered model topology: hermes profile set-model for default/orchestrator/director to frontier models",
+    "Restart MCP server to restore port 8090 listening state",
+    "Recreate public-hermes-mcp-watchdog cron job (every 5m)",
+    "Clean up stage outputs older than 7 days to reclaim disk space",
+    "Consolidate memory stores to free headroom for agent state persistence",
+    "Resume TAHS Knowledge Engine pipeline when historical entities become available"
+  ],
+  "source_refs": [
+    "SystemPulse.json (2026-05-14T06:42:23-07:00) — health score 28, agent statuses, resource metrics",
+    "Orchestrator artifact (2026-05-14T05:10:54-07:00) — morning briefing, 3 Evolver proposals approved",
+    "Content manifest (2026-05-14T06:15:14-07:00) — video_ready: false, 60s meta-narrative script",
+    "VideoForge plan (2026-05-14T06:42:23-07:00) — render blocked, zero verified entities",
+    "Evidence checks (2026-05-14T14:00:23Z) — gateway active, autoloop active, healthz 500, port 8090 absent, disk 50%",
+    "historian.gate.json — approved_for_media: false, verified_handles_count: 0",
+    "archivist.plan.json — 4 deferred items, no wiki updates this cycle",
+    "hermes profile list — all 13 profiles on Qwen3.6-27B-FP8 local model",
+    "hermes cron list — MCP watchdog cron missing, 3 other jobs active"
+  ],
+  "valid": true,
+  "errors": []
+}

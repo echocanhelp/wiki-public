@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "stage": "archivist",
+  "timestamp": "2026-05-25T05:31:12.917648-07:00",
+  "artifact_path": "/root/echo_system/runtime/stage_outputs/2026-05-25/archivist.md",
+  "status": "executed",
+  "success": true,
+  "blocked": false,
+  "actions_attempted": [
+    {
+      "type": "google_docs_create",
+      "target": "private_wiki",
+      "input_ref": "Echo System Morning Runtime Snapshot (Verified) — 2026-05-25 PT"
+    },
+    {
+      "type": "google_docs_create",
+      "target": "private_wiki",
+      "input_ref": "Public MCP Health Probe Result (Path-Scoped) — 2026-05-25 PT"
+    },
+    {
+      "type": "google_docs_create",
+      "target": "private_wiki",
+      "input_ref": "Open Operational Issue: Public MCP Watchdog Cron Missing"
+    },
+    {
+      "type": "public_wiki_write",
+      "target": "github_pages",
+      "slug": "event/echo-system-morning-runtime-snapshot-verified-2026-05-25-pt",
+      "input_ref": "Echo System Morning Runtime Snapshot (Verified) — 2026-05-25 PT"
+    },
+    {
+      "type": "public_wiki_write",
+      "target": "github_pages",
+      "slug": "topic/public-mcp-health-probe-result-path-scoped-2026-05-25-pt",
+      "input_ref": "Public MCP Health Probe Result (Path-Scoped) — 2026-05-25 PT"
+    },
+    {
+      "type": "public_wiki_write",
+      "target": "github_pages",
+      "slug": "topic/open-operational-issue-public-mcp-watchdog-cron-missing",
+      "input_ref": "Open Operational Issue: Public MCP Watchdog Cron Missing"
+    }
+  ],
+  "external_handles": [
+    {
+      "type": "google_doc",
+      "id": "1TCWOn52EFUohOQQj3k7MR4u2gLqcDkikwMoMYvijTfY",
+      "title": "Echo System Morning Runtime Snapshot (Verified) — 2026-05-25 PT",
+      "url": "https://docs.google.com/document/d/1TCWOn52EFUohOQQj3k7MR4u2gLqcDkikwMoMYvijTfY/edit?usp=drivesdk"
+    },
+    {
+      "type": "google_doc",
+      "id": "14aJT6a6j24zLX8wPSskdLt8PjtMkTKj04CEdDB0pCrg",
+      "title": "Public MCP Health Probe Result (Path-Scoped) — 2026-05-25 PT",
+      "url": "https://docs.google.com/document/d/14aJT6a6j24zLX8wPSskdLt8PjtMkTKj04CEdDB0pCrg/edit?usp=drivesdk"
+    },
+    {
+      "type": "google_doc",
+      "id": "1rILNEqnh6qOqkiAjjCwGJKVJp256JPukkggGGPHQOIA",
+      "title": "Open Operational Issue: Public MCP Watchdog Cron Missing",
+      "url": "https://docs.google.com/document/d/1rILNEqnh6qOqkiAjjCwGJKVJp256JPukkggGGPHQOIA/edit?usp=drivesdk"
+    }
+  ],
+  "verification": [
+    {
+      "method": "read_back",
+      "ok": true,
+      "details": "Verified Google Doc create for Echo System Morning Runtime Snapshot (Verified) — 2026-05-25 PT"
+    },
+    {
+      "method": "read_back",
+      "ok": true,
+      "details": "Verified Google Doc create for Public MCP Health Probe Result (Path-Scoped) — 2026-05-25 PT"
+    },
+    {
+      "method": "read_back",
+      "ok": true,
+      "details": "Verified Google Doc create for Open Operational Issue: Public MCP Watchdog Cron Missing"
+    },
+    {
+      "method": "file_write",
+      "ok": true,
+      "details": "Wrote public wiki file: event/echo-system-morning-runtime-snapshot-verified-2026-05-25-pt"
+    },
+    {
+      "method": "file_write",
+      "ok": true,
+      "details": "Wrote public wiki file: topic/public-mcp-health-probe-result-path-scoped-2026-05-25-pt"
+    },
+    {
+      "method": "file_write",
+      "ok": true,
+      "details": "Wrote public wiki file: topic/open-operational-issue-public-mcp-watchdog-cron-missing"
+    }
+  ],
+  "warnings": [],
+  "errors": [],
+  "published_private_docs": 3,
+  "published_public_wiki_items": 0
+}

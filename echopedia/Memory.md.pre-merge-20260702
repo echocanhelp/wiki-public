@@ -1,0 +1,27 @@
+# Echo Memory
+
+Persistent memory for Echo System 3.0 on **pinto** (GX10).
+
+> Skeleton install — no data migrated from `100.125.172.124` yet.
+
+## Identity
+
+- **System**: Echo 3.0 (local autonomous multi-agent concierge)
+- **Host**: ASUS Ascent GX10 / NVIDIA GB10
+- **Inference**: vLLM — `ornith` (Ornith 1.0 35B AEON NVFP4) on `:8001`
+- **Orchestration**: TauErgon (`echo-system/tauergon`)
+
+## Preferences
+
+- Keep `gpu-memory-utilization` at **0.80 or below** on GB10 unified memory.
+- Prefer GNOME Remote Desktop (desktop sharing), not xrdp remote-login.
+- Do not relax CUTLASS kernel disables without stability testing.
+
+## Active Projects
+
+- [ ] Validate clean Echo 3.0 skeleton on GX10
+- [ ] Plan controlled migration from old server (`100.125.172.124`)
+
+## Notes
+
+_Add operational notes here as the system is used._

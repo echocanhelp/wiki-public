@@ -1,0 +1,36 @@
+{
+  "delivery_ready": true,
+  "blocked_reasons": [
+    "No evidence of outbound delivery confirmation.",
+    "Live public /healthz check returned HTTP 500, so external reliability is not verified.",
+    "Pulse and live evidence conflict on public health status and port topology."
+  ],
+  "channel": "sms",
+  "recipient": "Leonard (+16268900234)",
+  "message_markdown": "## Final Delivery Message\n\nHi Leonard — here’s the verified Echo System morning briefing for Monday, 2026-05-11 (PT).\n\nCore services are up: `hermes-gateway` and `echo-autoloop` both show `active`, and the live restart counters are `0` for each. Current resource checks look workable, with root disk at `44%` used and a 2 GB system showing substantial available memory at collection time.\n\nThe main caution is external verification. The live public `/healthz` check against the ngrok URL returned `HTTP 500`, and gateway logs also show failed initial connection attempts to `supergrok_control_plane` through the public MCP path. Because of that, I would treat the system as operational at the core but not fully externally verified.\n\nThere is also an evidence mismatch worth preserving: the pulse snapshot reports the ngrok tunnel as healthy and lists `mcp-server` on port `8090`, while the live listener check only evidenced ports `8079` and `8080`. Upstream content and videoforge artifacts both treat this as an unresolved contradiction rather than something to smooth over.\n\nBottom line: the loop appears alive and stable internally, but the public edge should still be treated with caution until the `/healthz` and port-alignment discrepancies are reconciled.\n\n## Public-Redacted Summary\n\nMorning status remains usable but not fully green. Core services are active with zero live restarts, but the public health endpoint failed during live verification, so external reliability is not yet confirmed.\n\n## Suggested Follow-up\n\n- Verify why the public `/healthz` endpoint returned `HTTP 500`.\n- Reconcile pulse-reported port `8090` with the live listener snapshot showing only `8079` and `8080`.\n- Review the `supergrok_control_plane` MCP connection failures shown in gateway logs.\n- Keep the briefing internal-facing until the external health contradiction is resolved.\n\n## Verification Footer\n\nPrepared as a staged delivery package only. No outbound send is claimed. All statements above are grounded in the supplied evidence bundle and upstream artifacts, including live service checks, gateway status/log output, pulse data, and the content/videoforge assessments. This package avoids claiming repairs, restored public health, or media readiness because those outcomes are not evidenced.",
+  "public_summary": "Morning status remains usable but not fully green. Core services are active with zero live restarts, but the public health endpoint failed during live verification, so external reliability is not yet confirmed.",
+  "follow_up_actions": [
+    "Verify why the public /healthz endpoint returned HTTP 500.",
+    "Reconcile pulse-reported port 8090 with the live listener snapshot showing only 8079 and 8080.",
+    "Review the supergrok_control_plane MCP connection failures shown in gateway logs.",
+    "Keep the briefing internal-facing until the external health contradiction is resolved."
+  ],
+  "source_refs": [
+    "evidence.collected_at",
+    "evidence.checks.gateway_active",
+    "evidence.checks.autoloop_active",
+    "evidence.checks.gateway_status",
+    "evidence.checks.gateway_restarts_total",
+    "evidence.checks.autoloop_restarts_total",
+    "evidence.checks.disk_root",
+    "evidence.checks.memory",
+    "evidence.checks.ports",
+    "evidence.checks.public_healthz",
+    "evidence.upstream_artifacts.orchestrator",
+    "evidence.upstream_artifacts.content",
+    "evidence.upstream_artifacts.videoforge",
+    "evidence.pulse"
+  ],
+  "valid": true,
+  "errors": []
+}

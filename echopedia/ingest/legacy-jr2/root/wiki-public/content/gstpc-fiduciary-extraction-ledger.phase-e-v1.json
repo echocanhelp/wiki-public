@@ -1,0 +1,6021 @@
+[
+  {
+    "bulletin": "gstpc-bulletins/2016/gstpc-bulletin-2016-08-21",
+    "source_url": "https://gstpc.org/home/08-21-2016-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "96e0cb338df6f4e9f2cfbc1a647447a263dc1f6fda016a58c37b09ff45ba44c5",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Alfie",
+      "請為蔡牧師"
+    ],
+    "scripture_refs": [],
+    "people_ref_count": 2,
+    "scripture_ref_count": 0
+  },
+  {
+    "bulletin": "gstpc-bulletins/2016/gstpc-bulletin-2016-10-30",
+    "source_url": "https://gstpc.org/home/10-30-2016-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "ffc751109b02d152de48f1ba51037dde16f73a920557502e1a91a00e184d7785",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Alfie",
+      "Pastor Ralph Su",
+      "改選長老",
+      "於李洋誌牧師",
+      "蔡維仁牧師",
+      "記廖蓓理長老",
+      "請繼續為牧師",
+      "謝蘇惠智牧師"
+    ],
+    "scripture_refs": [],
+    "people_ref_count": 8,
+    "scripture_ref_count": 0
+  },
+  {
+    "bulletin": "gstpc-bulletins/2016/gstpc-bulletin-2016-11-13",
+    "source_url": "https://gstpc.org/home/11-13-2016-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "cdeafd12c617f5dd93cf259d6c2096bb4995b8dbdd38b85870b337738afb57fb",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Davy Lin",
+      "於李洋誌牧師",
+      "算及改選長老",
+      "蔡維仁牧師",
+      "記廖蓓理長老",
+      "謝林雍迪牧師"
+    ],
+    "scripture_refs": [
+      "Psalm 20:8"
+    ],
+    "people_ref_count": 6,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2016/gstpc-bulletin-2016-12-11",
+    "source_url": "https://gstpc.org/home/12-11-2016-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "aa72687e415363552ad3cc11f656e66677bf28324df0a37d977d99fa3137e432",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Lin",
+      "謝林雍迪牧師"
+    ],
+    "scripture_refs": [
+      "Luke 1:26-38"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-01-05",
+    "source_url": "https://gstpc.org/home/01-05-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "dfcc943b4d388894a9ec3d0085c421b90a9195cc1c9fc9dfc055a78ff76ca671",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "與邱乙如姊妹"
+    ],
+    "scripture_refs": [
+      "Matthew 2:1-12"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-01-12",
+    "source_url": "https://gstpc.org/home/01-12-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "aea238c675daef59c414366c204937a9ad92dbaeff48cca60f27773d94ff6b14",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "向王信心長老",
+      "簡芳珍姊妹",
+      "講員大樹牧師"
+    ],
+    "scripture_refs": [
+      "Deuteronomy 10:12",
+      "Luke 5:1-11"
+    ],
+    "people_ref_count": 3,
+    "scripture_ref_count": 2
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-01-26",
+    "source_url": "https://gstpc.org/home/01-26-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "efa720dfbfc6a9f8acff01517ef778d26633e45c07fe6537326eb26fd8b37704",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "向王信心長老",
+      "找許文凱長老",
+      "講員大樹牧師"
+    ],
+    "scripture_refs": [
+      "Matthew 4:12-23"
+    ],
+    "people_ref_count": 3,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-02-02",
+    "source_url": "https://gstpc.org/home/02-02-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "27862834b35ca3a0a5a4c3b9168be0e42ab480f043a687d2f329216d5dce82f3",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "與邱瑜嫩長老"
+    ],
+    "scripture_refs": [
+      "Psalm 15:1-5",
+      "Psalm 24:3-5"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 2
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-02-09",
+    "source_url": "https://gstpc.org/home/02-09-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "03d106afc530adf9966e97ee4570fafbe28d3c33e9506e07d471ad2cc666d86e",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Sister Zhengzi Hou",
+      "侯政子姊妹",
+      "為鄧淑貞長老",
+      "由蕭錫恩長老",
+      "由許牧師",
+      "美玲牧師",
+      "與邱瑜嫩長老",
+      "許明遠牧師",
+      "連素真牧師"
+    ],
+    "scripture_refs": [],
+    "people_ref_count": 9,
+    "scripture_ref_count": 0
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-02-16",
+    "source_url": "https://gstpc.org/home/02-16-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "05301e78fee9d86e5a756b4c78551c0dd713cc2891066c4d1588e000c9cb5f1b",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Sister Zhengzi Hou",
+      "侯政子姊妹",
+      "為鄧淑貞長老",
+      "由蕭錫恩長老",
+      "由許牧師",
+      "美玲牧師",
+      "許明遠牧師",
+      "連素真牧師"
+    ],
+    "scripture_refs": [
+      "1 Corinthians 3:1-9",
+      "1 Corinthians 3:9"
+    ],
+    "people_ref_count": 8,
+    "scripture_ref_count": 2
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-02-23",
+    "source_url": "https://gstpc.org/home/02-23-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "2d774cbfbcfd114f0d86d1671c112d52b2c10ff79b3bcf8116cd63f858bfbb50",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Sister Judy",
+      "Sister Tammy",
+      "Sister Zhengzi Hou",
+      "侯政子姊妹",
+      "向林幼麗姊妹",
+      "為鄧淑貞長老",
+      "美玲牧師",
+      "連素真牧師",
+      "陳玉慧姊妹"
+    ],
+    "scripture_refs": [
+      "1 Corinthians 3:10",
+      "1 Corinthians 3:9-23"
+    ],
+    "people_ref_count": 9,
+    "scripture_ref_count": 2
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-03-01",
+    "source_url": "https://gstpc.org/home/03-01-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "fe16153ecd954f5389087a57ee1492214f892ff5f3dfc308fbcbf923449c7b2c",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Sister Judy",
+      "Sister Tammy",
+      "Sister Zhengzi Hou",
+      "侯政子姊妹",
+      "向林幼麗姊妹",
+      "為鄧淑貞長老",
+      "美玲牧師",
+      "連素真牧師",
+      "陳玉慧姊妹"
+    ],
+    "scripture_refs": [],
+    "people_ref_count": 9,
+    "scripture_ref_count": 0
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-03-08",
+    "source_url": "https://gstpc.org/home/03-08-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "ca69f48530aa886310a1388bcf80fbde4c25ca7dca8716488c7980818dd80dca",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Sister Judy",
+      "向林幼麗姊妹"
+    ],
+    "scripture_refs": [
+      "Matthew 4:1-11"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-03-15",
+    "source_url": "https://gstpc.org/home/03-15-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "3ddd9096a20bc3ba1fa01cad83141ab361e40b69e715381697aa17d36362798c",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "本會榮譽長老",
+      "王清圻長老"
+    ],
+    "scripture_refs": [
+      "John 3:1-8"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-05-24",
+    "source_url": "https://gstpc.org/home/05-24-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "59fc6e5e76582210a2d776b23ba1d500b37253af285c61b602be582ee3be6e7d",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Hsieh",
+      "Rev. Ralph Su",
+      "由黃德利牧師",
+      "蘇惠智牧師",
+      "謝信中牧師",
+      "黃德利牧師"
+    ],
+    "scripture_refs": [
+      "John 4:19-26"
+    ],
+    "people_ref_count": 6,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-05-31",
+    "source_url": "https://gstpc.org/home/05-31-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "d3082ebd98de85d097729569eb40bb18d559cc86730ab9c6131c92a60c10768a",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Ralph Su",
+      "Rev. Tsai",
+      "會蔡尚男牧師",
+      "李仁豪牧師",
+      "李洋誌牧師",
+      "王信心長老",
+      "由黃德利牧師",
+      "胡宏業長老",
+      "蔡尚男牧師",
+      "蕭淑惠長老",
+      "蘇惠智牧師",
+      "陳柏志牧師",
+      "黃德利牧師"
+    ],
+    "scripture_refs": [
+      "Acts 2:1-11"
+    ],
+    "people_ref_count": 13,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-06-07",
+    "source_url": "https://gstpc.org/home/06-07-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "219345608e084f78b28b5150e69be1954fe3b6460ab8a07ef894ee1a89c47dd6",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Tsai",
+      "林德昭牧師",
+      "由黃德利牧師",
+      "蔡尚男牧師",
+      "謝信中牧師",
+      "陳柏志牧師",
+      "黃德利牧師"
+    ],
+    "scripture_refs": [
+      "Isaiah 50:4-9"
+    ],
+    "people_ref_count": 7,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-06-14",
+    "source_url": "https://gstpc.org/home/06-14-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "f0fb9d1089480586b67c8406b92898f320f4e07e3f1808d15258cda67789096e",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Chen",
+      "Pastor Lee",
+      "張宣信牧師",
+      "林千琇長老",
+      "林國泰牧師",
+      "記李洋誌牧師",
+      "謝大立牧師",
+      "陳柏志牧師",
+      "黃德利牧師"
+    ],
+    "scripture_refs": [
+      "1 Samuel 17:3-11"
+    ],
+    "people_ref_count": 9,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-06-21",
+    "source_url": "https://gstpc.org/home/06-21-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "5237b52763da01c2da4e17b528ec31afec18a78b446ea9f9e6f231061c32e773",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Chang",
+      "張宣信牧師",
+      "李怡靚長老",
+      "胡忠銘牧師",
+      "許明遠牧師",
+      "郭東緒牧師"
+    ],
+    "scripture_refs": [
+      "John 21:13-23"
+    ],
+    "people_ref_count": 6,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-06-28",
+    "source_url": "https://gstpc.org/home/06-28-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "07ee5d875f0582c6253dff9fa0a6c4d8c13760f573efa4a43708317b967b7c5b",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "呂玉美牧師",
+      "夠尚優耀牧師",
+      "李洋誌牧師",
+      "許明遠牧師",
+      "謝信光牧師"
+    ],
+    "scripture_refs": [
+      "Matthew 22:34-40"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-07-05",
+    "source_url": "https://gstpc.org/home/07-05-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "be8b3b8d428192cbf4c8947a9154fa7fd0482332e9fa3de3e922ef3fc73e2143",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Hsieh",
+      "王光智牧師",
+      "許明遠牧師",
+      "謝信光牧師",
+      "黃春生牧師"
+    ],
+    "scripture_refs": [
+      "Philippians 2:6-11"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-07-12",
+    "source_url": "https://gstpc.org/home/07-12-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "e2360675eec926512e3bdfc1729b96afaac11886df5fb317d8f9a519e9f7efcf",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Wang",
+      "李洋誌牧師",
+      "為鄧淑貞長老",
+      "王光智牧師",
+      "董俊蘭牧師",
+      "許明遠牧師",
+      "迫休假的弟兄",
+      "邱瑜嫩長老"
+    ],
+    "scripture_refs": [
+      "Genesis 15:1"
+    ],
+    "people_ref_count": 8,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-07-19",
+    "source_url": "https://gstpc.org/home/07-19-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "6ce545f5a7b04297f312d0569beeb4ee69125565364bb44f4c0694da8c32f911",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Lee",
+      "李洋誌牧師",
+      "為鄧淑貞長老",
+      "許文凱長老",
+      "迫休假的弟兄",
+      "郭東緒牧師",
+      "陳柏志牧師"
+    ],
+    "scripture_refs": [
+      "Romans 8:31-39"
+    ],
+    "people_ref_count": 7,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-07-26",
+    "source_url": "https://gstpc.org/home/07-26-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "43a4a78d768e0d2054da5a24ef9789d521a5be9eed704efd5ea622c4bf7c9610",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Rev. Thomas Kuo",
+      "組許文凱長老",
+      "許明遠牧師",
+      "請與許牧師",
+      "郭東緒牧師",
+      "黃德利牧師"
+    ],
+    "scripture_refs": [
+      "Philippians 1:12-21"
+    ],
+    "people_ref_count": 6,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-08-02",
+    "source_url": "https://gstpc.org/home/08-02-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "f30e1f5b5c1c8ee92d969863c8e78be647b6a72b5826d24e20a66e51fcec3b17",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "廖蓓理長老",
+      "組許文凱長老",
+      "許明遠牧師",
+      "請與許牧師",
+      "謝信中牧師",
+      "謝信光牧師",
+      "黃德利牧師"
+    ],
+    "scripture_refs": [
+      "Genesis 12:1",
+      "Hebrews 11:8"
+    ],
+    "people_ref_count": 7,
+    "scripture_ref_count": 2
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-08-09",
+    "source_url": "https://gstpc.org/home/08-09-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "9886d5962f1ece67a18c97e153ee7603c17e6daa9c1ca91c7be1d38f477c27a0",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Hsieh",
+      "組許文凱長老",
+      "許明遠牧師",
+      "請與許牧師",
+      "謝信中牧師"
+    ],
+    "scripture_refs": [],
+    "people_ref_count": 5,
+    "scripture_ref_count": 0
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-08-16",
+    "source_url": "https://gstpc.org/home/08-16-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "67599650068c12322dfc8366bba55c16156188876e1dc6e57269e59e39769ce7",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Lin",
+      "林國泰牧師",
+      "組許文凱長老",
+      "許明遠牧師",
+      "請與許牧師"
+    ],
+    "scripture_refs": [
+      "Psalm 88:1-18"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-08-23",
+    "source_url": "https://gstpc.org/home/08-23-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "062f0b8ab419aa133e64733dd0f0885069dd56e8fd6ecadc0ff39c3101cfabb9",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Tsai",
+      "張志偉牧師",
+      "蔡尚男牧師",
+      "許明遠牧師",
+      "請與許牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "Lamentations 3:19-25"
+    ],
+    "people_ref_count": 6,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-08-30",
+    "source_url": "https://gstpc.org/home/08-30-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "39f37382abcbb6486c5ea866e307ab39eeda88294d8305cf287d1a9945b99a41",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Chen",
+      "許明遠牧師",
+      "請與許牧師",
+      "鄧淑貞長老",
+      "陳柏志牧師",
+      "陳美蕙牧師"
+    ],
+    "scripture_refs": [
+      "Psalm 119:1-9"
+    ],
+    "people_ref_count": 6,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-09-06",
+    "source_url": "https://gstpc.org/home/09-06-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "e5899c9184b89824a7b6a4d62d85b62895a47e3cea6b6b7f0418c140a6127629",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Chen",
+      "許明遠牧師",
+      "請與許牧師",
+      "鄧淑貞長老",
+      "陳美蕙牧師"
+    ],
+    "scripture_refs": [
+      "Genesis 45:1-15"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-09-13",
+    "source_url": "https://gstpc.org/home/09-13-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "6cc8949b16aeb8f657206c4f74f7e25ddfb29566df877b49d68a14196333fb70",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Mark 6:7-13"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-09-20",
+    "source_url": "https://gstpc.org/home/09-20-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "5b2a6ce9f7b6a4087a0abdcbd2d2608be907dda22a59866e5c57e4bff9b955df",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Hsieh",
+      "楊順從牧師",
+      "許明遠牧師",
+      "謝信光牧師",
+      "長徐信德牧師"
+    ],
+    "scripture_refs": [
+      "Colossians 3:12-13"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-09-27",
+    "source_url": "https://gstpc.org/home/09-27-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "17c873f3ddfbcdd999f0625d9f1888bda82216cb981251697542d8057f903994",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Lee",
+      "徐信德牧師",
+      "李洋誌牧師",
+      "李郁文姊妹",
+      "許信靖牧師",
+      "許明遠牧師",
+      "長徐信德牧師"
+    ],
+    "scripture_refs": [
+      "Joel 2:28-32"
+    ],
+    "people_ref_count": 7,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-10-04",
+    "source_url": "https://gstpc.org/home/10-04-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "256bf0e3ecc0306f0a2052dcd054b0c6fb2e26513057bdb0e2dbe3f8104ac4a6",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Guo",
+      "Pastor Wu",
+      "伍迦勒牧師",
+      "廖蓓理長老",
+      "徐信得牧師",
+      "是王信心長老",
+      "為郭東緒牧師",
+      "紀元訓牧師",
+      "許明遠牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "Matthew 28:18-20"
+    ],
+    "people_ref_count": 10,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-10-11",
+    "source_url": "https://gstpc.org/home/10-11-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "0955564e64142f29a62649ade4cc3859df9f6c75335a1ae56200a9c6fa0a7038",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Chuang. Please",
+      "Pastor Guo",
+      "Pastor Wu",
+      "人王信心長老",
+      "伍迦勒牧師",
+      "徐信得牧師",
+      "李定印牧師",
+      "為郭東緒牧師",
+      "許明遠牧師",
+      "請莊信德牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "Exodus 5:1-2"
+    ],
+    "people_ref_count": 11,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-10-18",
+    "source_url": "https://gstpc.org/home/10-18-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "b5e9d7d634088024f0edb0b29e2390cbf8cfdc4391e72af836d3a8967931cb2a",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Chuang",
+      "Pastor Chuang. Pastors",
+      "Pastor Guo",
+      "Pastor Wu",
+      "人王信心長老",
+      "伍迦勒牧師",
+      "為郭東緒牧師",
+      "請莊信德牧師",
+      "鄧淑貞長老",
+      "鍾毅勳牧師"
+    ],
+    "scripture_refs": [
+      "Mark 10:46-52"
+    ],
+    "people_ref_count": 10,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-10-25",
+    "source_url": "https://gstpc.org/home/10-25-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "e65f26e4c6d37594830c85dd88088b8e3e211b3842dd8d7ef8551079784581c8",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Chuang. Pastors",
+      "Pastor Hsieh",
+      "莊信德牧師",
+      "蔡尚男牧師",
+      "蕭錫恩長老",
+      "許明遠牧師",
+      "謝信中牧師"
+    ],
+    "scripture_refs": [
+      "1 Peter 5:7-9",
+      "Philippians 4:6-7"
+    ],
+    "people_ref_count": 7,
+    "scripture_ref_count": 2
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-11-01",
+    "source_url": "https://gstpc.org/home/11-01-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "f447868722601f29eade067bd7913f384ccb95267915f0936fdba4899c7ccf0a",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Chuang. Pastors",
+      "Pastor Tsai",
+      "莊信德牧師",
+      "蔡尚男牧師",
+      "請莊信德牧師",
+      "陳柏志牧師"
+    ],
+    "scripture_refs": [
+      "Hosea 14:1-9"
+    ],
+    "people_ref_count": 6,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-11-08",
+    "source_url": "https://gstpc.org/home/11-08-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "9fb1d85fa86d338fd38e3d33ac18a2df5c3cdc959c9926e79e45acdc034090e7",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Chen",
+      "莊信德牧師",
+      "陳柏志牧師"
+    ],
+    "scripture_refs": [
+      "Matthew 25:31-40"
+    ],
+    "people_ref_count": 3,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-11-15",
+    "source_url": "https://gstpc.org/home/11-15-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "a04ac53d3491d164fb4bfa455151decf5574d5824c282c9f2b1c2441c023e7ce",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Hsieh",
+      "Pastor Lee",
+      "李洋誌牧師",
+      "許明遠牧師",
+      "謝信光牧師"
+    ],
+    "scripture_refs": [
+      "Amos 2:4-5"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-11-22",
+    "source_url": "https://gstpc.org/home/11-22-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "75ae02cf97e3db7e23e2b78c30619d0d074269e9f43c16f54dfcd01c71ef99ff",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Hsieh",
+      "Pastor Su",
+      "蘇惠智牧師",
+      "許明遠牧師",
+      "謝信光牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "Psalm 100:1-5"
+    ],
+    "people_ref_count": 6,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-11-29",
+    "source_url": "https://gstpc.org/home/11-29-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "aaf9be67735abf9af3aa5950c81097f35fe3699a32f1b5c778fd1c49d9bf85cc",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Kuo",
+      "Pastor Ralph Su",
+      "蘇惠智牧師",
+      "許明遠牧師",
+      "郭東緒牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "1 Corinthians 1:4-9"
+    ],
+    "people_ref_count": 6,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-12-06",
+    "source_url": "https://gstpc.org/home/12-06-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "ab80b50690568d0ff5f8327d126a0698c4161d8d20c84101e71d5b0e773ac18b",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Kuo",
+      "許文凱長老",
+      "許明遠牧師",
+      "郭東緒牧師"
+    ],
+    "scripture_refs": [
+      "Matthew 3:1-12"
+    ],
+    "people_ref_count": 4,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-12-13",
+    "source_url": "https://gstpc.org/home/12-13-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "bedc6d8725be6e858a4c79c425769e45c3ebba4b6ef20765648626b7fe173d34",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師",
+      "黃德利牧師"
+    ],
+    "scripture_refs": [
+      "Luke 2:8-21"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2020/gstpc-bulletin-2020-12-20",
+    "source_url": "https://gstpc.org/home/12-20-2020-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "91c2a154705139ffbec2afd9122d77729c3a47555ef25fd25ea035d1c913b149",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "感謝長老",
+      "黃德利牧師"
+    ],
+    "scripture_refs": [
+      "John 3:16"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-01-03",
+    "source_url": "https://gstpc.org/home/01-03-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "140fc41d47824c53f86efc3163f39f86f80f167ebfdad9115a42d8d8ccd84b51",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Matthew 2:1-12"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-01-10",
+    "source_url": "https://gstpc.org/home/01-10-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "e1394ce3706f78b8125fb31a88084620169a0a2d1fe6739aef261e557c72c397",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Psalm 29:1-11"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-01-17",
+    "source_url": "https://gstpc.org/home/01-17-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "e9bc5a73bb652d1188707f67e4d0f89cadffcaf37d564fe300431fea1485573e",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "1 Samuel 3:1-10"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-01-24",
+    "source_url": "https://gstpc.org/home/01-24-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "769bf981ea1b60e0e1ca92a3c7f8bdd3a6424bca2f8551cd6e7149a5460032aa",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Jonah 3:1-10"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-01-31",
+    "source_url": "https://gstpc.org/home/01-31-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "7c2763eddc36e9f41724691aa42eba37faac56dc07ffbb7543d9585460e00d1b",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Kuo",
+      "郭東緒牧師"
+    ],
+    "scripture_refs": [
+      "John 2:1-11"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-02-07",
+    "source_url": "https://gstpc.org/home/02-07-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "ccf4ca6aa18bbb7a6ec5c6a30ad3bcc88fc3d1f7aff18f3bd871147de846a7e4",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Mark 1:21-22"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-02-14",
+    "source_url": "https://gstpc.org/home/02-14-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "232d5287e84279dba17877d9167c3ac6211c8df3c797ca4051120536f3d182c3",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Mark 9:2-9"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-02-21",
+    "source_url": "https://gstpc.org/home/02-21-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "003fcd4c0c8cb1ad11a4b4cf4113d406a77cbfe1defc731d49f79fad7bb2a891",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Matthew 6:1-6"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-02-28",
+    "source_url": "https://gstpc.org/home/02-28-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "1794ec7b644888938047e524293170a69fb73b578258c41055c380cf4d93aea1",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Chang",
+      "張宣信牧師"
+    ],
+    "scripture_refs": [
+      "Luke 10:30-37",
+      "Matthew 9:35-38"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 2
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-03-07",
+    "source_url": "https://gstpc.org/home/03-07-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "c426ff27fc4dbefe1514bd09571d6ad6f8f4e1f2820cf9b37da5597fc203521b",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "1 Corinthians 1:18-25"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-03-14",
+    "source_url": "https://gstpc.org/home/03-14-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "19c46952d926a2d730fdae8511dd48147540c62971698deb7d2abba1f3ae6826",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "2 Kings 18:3",
+      "Numbers 21:4-9"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 2
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-03-21",
+    "source_url": "https://gstpc.org/home/03-21-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "1c4693e43101c6c48a43e66fba79bac79fb1c295b20aeb6e065c64514cbb47e5",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "John 12:20-33"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-03-28",
+    "source_url": "https://gstpc.org/home/03-28-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "34456fae6b22902dd68127cddef3106d3d5df5e19ebe12cb8dd17a4eaa77b2e8",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Rev. Frank Hsieh",
+      "謝信光牧師"
+    ],
+    "scripture_refs": [],
+    "people_ref_count": 2,
+    "scripture_ref_count": 0
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-04-04",
+    "source_url": "https://gstpc.org/home/04-04-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "68a3320d53723951a05ed878be25580d5dfb6e0ad3a0e2aa87496ef6351c9875",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Rev. Joshua Hsieh",
+      "謝信中牧師"
+    ],
+    "scripture_refs": [
+      "Luke 9:23-27"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-04-11",
+    "source_url": "https://gstpc.org/home/04-11-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "0bf199c6bf196feb58257668d5dd44e59750b92b238d7d1f27a436efebdbcd66",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師",
+      "體欠安的弟兄"
+    ],
+    "scripture_refs": [
+      "Psalm 133:1-3"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-04-18",
+    "source_url": "https://gstpc.org/home/04-18-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "6932666f38451048a40f721df254bd7b185c595163234c481600abc1e79eabf2",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "Acts 3:12-19"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-05-02",
+    "source_url": "https://gstpc.org/home/05-02-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "728086e076ce3a54c25c9367c8a5395a0bac0dbe876dc431f6d0d8f926dfa0ca",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "John 15:1-8"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-05-09",
+    "source_url": "https://gstpc.org/home/05-09-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "5bc0041d34fafed3c6f617495f654d6a23037e86d93b147e79ef3e89fcc25689",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "會賴榮亨長老",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "John 2:1-11"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-05-16",
+    "source_url": "https://gstpc.org/home/05-16-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "0e2cb536cc1b15c24bbc60b771918ed4d7492bb9ba06a1d49c2498b824a3ec3b",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Acts 1:15-17"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-05-23",
+    "source_url": "https://gstpc.org/home/05-23-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "7297be27147c4c3bb9e255495c381da106ce8bc252862f8446fcb422b5516181",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Acts 2:1-21"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-05-30",
+    "source_url": "https://gstpc.org/home/05-30-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "8eaa3ca89117cf63403bf430601512d30da61d4803240400ee740ddb86d9a888",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Joshua Hsieh",
+      "謝信中牧師"
+    ],
+    "scripture_refs": [
+      "John 5:1-10"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-06-06",
+    "source_url": "https://gstpc.org/home/06-06-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "f4ad56a5049066f675cdd26d01d6c8e2322e7158534017b26b6f6d32b4ef1278",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "2 Corinthians 4:13-5"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-06-13",
+    "source_url": "https://gstpc.org/home/06-13-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "05fee7ea640518ef0110a7bfc2da2d1bd4ea8cfd6c4becfe44b0751b82d49edd",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Genesis 22:1-14"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-06-20",
+    "source_url": "https://gstpc.org/home/06-20-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "181b491a2b6c4a6e4bdc953be58835192d0b71313ed7fefd114dd81234c651f5",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Matthew 1:18-25"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-06-27",
+    "source_url": "https://gstpc.org/home/06-27-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "131d17ebb4242344df4f3babb5ee0ce19b063192a00772099d938258ac99d316",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "目前由牧師",
+      "黃德利牧師"
+    ],
+    "scripture_refs": [
+      "1 Peter 5:7-10"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-07-04",
+    "source_url": "https://gstpc.org/home/07-04-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "0db2b142469c84705395653a0d8381f50dd6a2b2d9d7cf897f2876bbb39c2085",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "目前由牧師",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Deuteronomy 30:15-20"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-07-11",
+    "source_url": "https://gstpc.org/home/07-11-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "ce6d85099652b2f06e5afde047bddfa8a698821dabb3ae89af3dee5bee1d7f00",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "目前由牧師",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Romans 8:22-27"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-07-18",
+    "source_url": "https://gstpc.org/home/07-18-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "107bfa673d2e8a50a1ee0e7f151099505c54034da52847d8acaa2b18c665636f",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Frank Lin",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Deuteronomy 30:15-20"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-07-25",
+    "source_url": "https://gstpc.org/home/07-25-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "13c816994c1c336cddf346ff5fcec346c35d19bb567e093c353ebaf0d0c5c36f",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Ephesians 3:14-21"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-08-01",
+    "source_url": "https://gstpc.org/home/08-01-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "a3ee41a36fd0948ff3d63ebf1d7b89e80f5c596537b2d6674ea3d1cd81941acc",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Chuang",
+      "許明遠牧師",
+      "請莊信德牧師"
+    ],
+    "scripture_refs": [
+      "Ephesians 4:7-16"
+    ],
+    "people_ref_count": 3,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-08-08",
+    "source_url": "https://gstpc.org/home/08-08-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "f7c6c941247a2d2f759dd9254d15ef83c59a1fa4da621d160759bbd9e591b35a",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Chuang",
+      "向蕭錫恩長老",
+      "許明遠牧師",
+      "請莊信德牧師"
+    ],
+    "scripture_refs": [
+      "1 Kings 19:1-8"
+    ],
+    "people_ref_count": 4,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-08-15",
+    "source_url": "https://gstpc.org/home/08-15-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "fd94d2bf13547cc06e8d141e3bb6657938f549f2e696de13fc16b3b8e24a6c96",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Chuang",
+      "向蕭錫恩長老",
+      "由莊瑞芳長老",
+      "許明遠牧師",
+      "請莊信德牧師"
+    ],
+    "scripture_refs": [
+      "Psalm 85:1-13"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-08-22",
+    "source_url": "https://gstpc.org/home/08-22-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "ab2ad9d20356dc1e7d04f02ac61ddf354f21f638f85490c48deeb86954018c4f",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Chuang",
+      "許明遠牧師",
+      "請莊信德牧師"
+    ],
+    "scripture_refs": [
+      "Joshua 24:14-22"
+    ],
+    "people_ref_count": 3,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-08-29",
+    "source_url": "https://gstpc.org/home/08-29-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "b2842268bebb92b3453f7ac4def83e1e30a7d925375a880917d0d1a53d0481d1",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Chuang",
+      "Pastor Lee",
+      "Pastor Wu",
+      "Rev. Daniel Chuang",
+      "台灣竹塘長老",
+      "教會新任牧師",
+      "會伍迦勒牧師",
+      "會莊孝盛牧師",
+      "會郭東緒牧師",
+      "李輔仁牧師",
+      "疫情及無牧師",
+      "莊信德牧師",
+      "許明遠牧師",
+      "謝莊信德牧師"
+    ],
+    "scripture_refs": [
+      "Matthew 28:18-20"
+    ],
+    "people_ref_count": 14,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-09-05",
+    "source_url": "https://gstpc.org/home/09-05-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "cf2d62f0dd2380b9ab5328fc2c4bc95ac63e7a1a3d787fbb46d114b017f8e469",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Hsieh",
+      "日謝信光牧師",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Psalm 30:1-12"
+    ],
+    "people_ref_count": 3,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-09-12",
+    "source_url": "https://gstpc.org/home/09-12-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "928303a9f69d56b9b9692ff8b986f59c89130e28062f7ad62d3d9862a1315b66",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Rev. Frank Hsieh",
+      "帝祝福謝牧師",
+      "謝信光牧師",
+      "迎謝信光牧師"
+    ],
+    "scripture_refs": [
+      "Isaiah 40:25-31"
+    ],
+    "people_ref_count": 4,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-09-19",
+    "source_url": "https://gstpc.org/home/09-19-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "9aa8cd483745929ffa8c7984c558f7307f6e108d90b38c2d2b5ebcd0849a45d0",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Mark 9:30-37"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-09-26",
+    "source_url": "https://gstpc.org/home/09-26-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "93fad068e532a2ea881c7d1556a07d2b4ede3a1b76e229cce4b257e6b84a0eb3",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Luke 11:5-13"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-10-03",
+    "source_url": "https://gstpc.org/home/10-03-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "83a3a114820bbe0d1d0e911e250f2ac91242d4e704f6a623d09b65d7a2d633d2",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Proverbs 27:8-9"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-10-10",
+    "source_url": "https://gstpc.org/home/10-10-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "2d0d01b8bdb90868a360c0f999760c951ef563266ee2b6291212b479768a5b0b",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師",
+      "請現任長老"
+    ],
+    "scripture_refs": [
+      "Matthew 12:22-33",
+      "Ruth 1:1-10",
+      "馬太福音"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 3
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-10-17",
+    "source_url": "https://gstpc.org/home/10-17-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "32a948477c63919204dee7561c2db7b21fc4009d9a4f96615c29f92a703c0b4f",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師",
+      "請現任長老"
+    ],
+    "scripture_refs": [
+      "Ruth 1:8-20"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-10-24",
+    "source_url": "https://gstpc.org/home/10-24-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "413e13c3fe411442eacceb5ce620fcabe30d51febdb978c40145491bfdf208a3",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Rev. John McCall",
+      "是馬約翰牧師",
+      "許明遠牧師",
+      "請現任長老"
+    ],
+    "scripture_refs": [
+      "Ruth 2:1-13"
+    ],
+    "people_ref_count": 4,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-10-31",
+    "source_url": "https://gstpc.org/home/10-31-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "6ce2c074fdd95c5ad4727a1995f71a46a398bed878cba3ce8d96bf792d9e75a5",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Rev. John McCall",
+      "Rev. McCall",
+      "感謝馬牧師",
+      "是馬約翰牧師",
+      "識教會和弟兄",
+      "馬約翰牧師"
+    ],
+    "scripture_refs": [
+      "Deuteronomy 30:15-20"
+    ],
+    "people_ref_count": 6,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-11-07",
+    "source_url": "https://gstpc.org/home/11-07-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "95537e40d80aad21cdff7e0d8db0e7933c792bbd745762b44f3401e232c66ed5",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師",
+      "識教會和弟兄"
+    ],
+    "scripture_refs": [
+      "Ruth 3:6-13"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-11-14",
+    "source_url": "https://gstpc.org/home/11-14-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "6fc28b6de9041003c419dfef0a04ea90c48254c0cd3baaa3a9bc21da2031bdde",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師",
+      "識教會和弟兄"
+    ],
+    "scripture_refs": [
+      "Ruth 4:13-17"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-11-21",
+    "source_url": "https://gstpc.org/home/11-21-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "ea20f8fc9cd50a725149c59ab2134ce6a092478915bc208755702059dfa7c2de",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師",
+      "識教會和弟兄"
+    ],
+    "scripture_refs": [
+      "1 Thessalonians 5:16-18"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-11-28",
+    "source_url": "https://gstpc.org/home/11-28-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "6fa7a14c9c5a8253bdcdbbab6642d5f9ec3bb26febff941d2ede7158e649dea7",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Lee",
+      "李輔仁牧師",
+      "識教會和弟兄"
+    ],
+    "scripture_refs": [
+      "Isaiah 9:1-7"
+    ],
+    "people_ref_count": 3,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-12-05",
+    "source_url": "https://gstpc.org/home/12-05-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "300975dfb44eb9e19ae0453d2a2e780e6b05a9ad1e0b0580be7495ccbf4bfa2b",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "識教會和弟兄",
+      "黃德利牧師"
+    ],
+    "scripture_refs": [
+      "Isaiah 40:1-5",
+      "Joshua 4:19-24",
+      "以賽亞書"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 3
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-12-12",
+    "source_url": "https://gstpc.org/home/12-12-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "12c526d77ab063fc278c0703e8d0cfd9eff5b1b2befa33f8ccfaf0d56fcb4ac3",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "分享姊妹",
+      "許明遠牧師",
+      "識教會和弟兄",
+      "邀請弟兄姊妹"
+    ],
+    "scripture_refs": [
+      "Philippians 4:4-7",
+      "Zephaniah 3:14-17",
+      "西番雅書"
+    ],
+    "people_ref_count": 4,
+    "scripture_ref_count": 3
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-12-19",
+    "source_url": "https://gstpc.org/home/12-19-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "d4db72fb4e66766922ca8b42a3742b6136bb8ffefd4c7ed406bfa253c4f284be",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother David",
+      "Sister Lin",
+      "和林惠琦姊妹",
+      "或是長老",
+      "的兄姊向牧師",
+      "聯絡小會長老",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Luke 1:39-45"
+    ],
+    "people_ref_count": 7,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2021/gstpc-bulletin-2021-12-26",
+    "source_url": "https://gstpc.org/home/12-26-2021-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "b846b6b1ff9d42e138d1334fb4cd5349a68c12c39f3ca8af7a79d9f7cb02e19b",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "聯絡小會長老",
+      "許明遠牧師",
+      "黃德利牧師"
+    ],
+    "scripture_refs": [
+      "Joshua 3:1-6"
+    ],
+    "people_ref_count": 3,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-01-02",
+    "source_url": "https://gstpc.org/home/01-02-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "67aba7060e648ad804aff9df6297f13a9f72763b5cd5d2f0c0078c6a3704cc33",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Rev. Tsai",
+      "儘速聯絡牧師",
+      "蔡尚男牧師"
+    ],
+    "scripture_refs": [
+      "Matthew 9:35-38"
+    ],
+    "people_ref_count": 3,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-01-09",
+    "source_url": "https://gstpc.org/home/01-09-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "154d273fb496c1cd8c7e29af32617f1b88d2ca31bbb93f9d9ffee36885e83c56",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Rev. Hsieh",
+      "Sister Monica",
+      "謝信中牧師"
+    ],
+    "scripture_refs": [
+      "Proverbs 1:1-7"
+    ],
+    "people_ref_count": 3,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-01-16",
+    "source_url": "https://gstpc.org/home/01-16-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "90f6d6b851797b6fa60c690f8db4a2270fa0c3de25913cb88a6407029dd57901",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Rev. Tsai",
+      "會蔡政道牧師",
+      "歌蔡尚男牧師",
+      "蔡尚男牧師"
+    ],
+    "scripture_refs": [
+      "Exodus 14:8-18"
+    ],
+    "people_ref_count": 4,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-01-23",
+    "source_url": "https://gstpc.org/home/01-23-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "f2dc882fef7d25e647f0aa776c3a6af6b6f5f2cd6dc7b3c1e332d80275cbab76",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Chen",
+      "Pastor Chuang",
+      "Pastor Tsai",
+      "Rev. Tsai",
+      "會蔡政道牧師",
+      "此議題的弟兄",
+      "莊孝盛牧師",
+      "蔡政道牧師",
+      "請為牧師",
+      "陳進宏牧師"
+    ],
+    "scripture_refs": [
+      "1 Kings 17:8-24"
+    ],
+    "people_ref_count": 10,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-01-30",
+    "source_url": "https://gstpc.org/home/01-30-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "32b00e77cef572e5ff4ef3959cd3e47d6ee2fda08ea22d67c6dbf384f8ecaed9",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Rev. Chen",
+      "此議題的弟兄",
+      "請為牧師",
+      "陳進宏牧師"
+    ],
+    "scripture_refs": [
+      "Nehemiah 6:1-9"
+    ],
+    "people_ref_count": 4,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-02-06",
+    "source_url": "https://gstpc.org/home/02-06-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "d283d9d4ec23fc9b18e01a6561ff2801d279e1fc1600401f4916fb2e42db4dc6",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "臺灣基督長老"
+    ],
+    "scripture_refs": [],
+    "people_ref_count": 1,
+    "scripture_ref_count": 0
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-02-13",
+    "source_url": "https://gstpc.org/home/02-13-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "5bd20631eaba618de61b5f8a2c64106fc567db3bd222fdbf4b80e4b376f0b38c",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Genesis 37:1-4"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-02-20",
+    "source_url": "https://gstpc.org/home/02-20-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "e2e49a095b3037eda699d0a9b64d576fa66129dc543f34f6b2e08afee0b774a4",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Genesis 41:1-8"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-02-27",
+    "source_url": "https://gstpc.org/home/02-27-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "fa512d170c598084bb49971779176db0ee50d2eb0e592af024bda63dd5a9e729",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Rev. BinCy Liu",
+      "劉炳熹牧師",
+      "在洛杉磯長老",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Luke 5:1-11"
+    ],
+    "people_ref_count": 4,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-03-06",
+    "source_url": "https://gstpc.org/home/03-06-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "4eda38f1c78bfadf2ca06c46b6840e370035f0e457e047704d5b04c34e2c7115",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Lee",
+      "以及教會牧師",
+      "谷教會李牧師"
+    ],
+    "scripture_refs": [
+      "John 12:24-25"
+    ],
+    "people_ref_count": 3,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-03-13",
+    "source_url": "https://gstpc.org/home/03-13-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "53c6cbf37315dcfda108f15b3c4bbe6b734f3b631a8b21163374d094f6d84596",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Sister Chen",
+      "梁陳慈美姊妹",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Genesis 45:1-8"
+    ],
+    "people_ref_count": 3,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-03-20",
+    "source_url": "https://gstpc.org/home/03-20-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "383a85430d11d6821a039cc757b3bccebeb816e376ef6633d2711ad5f1290678",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Isaiah 55:1-9"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-03-27",
+    "source_url": "https://gstpc.org/home/03-27-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "7ce22bcccc9f9bf4b6c692be8224e68051f8a2f3975854ae324cf11f823f6483",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Joshua 5:1-12"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-04-03",
+    "source_url": "https://gstpc.org/home/04-03-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "14e0efa629c08eba8eca8363e699ad5f414c65a9ffa14b1eb28964cbf02cc9f9",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Mark 14:1-11"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-04-10",
+    "source_url": "https://gstpc.org/home/04-10-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "4e33c4071274a759b1a40d4c26240dca0b134df3799a99d8c7a7757bed14d486",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Philippians 2:5-11"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-04-17",
+    "source_url": "https://gstpc.org/home/04-17-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "81325a3b960f3d41229043273a922feb8647ca73fce837f8c085a6e347a092d3",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "John 20:11-18"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-04-24",
+    "source_url": "https://gstpc.org/home/04-24-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "6ab67cb769e7126e24ac485f8701cbddb03b2593d7a7b7334fea6e3558b84934",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "John 20:19-31"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-05-01",
+    "source_url": "https://gstpc.org/home/05-01-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "85b6cd6f1285b2d4142d90d9fdc03088ef7d9d31cde5eaa3c56f2496c2361098",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Chen",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "John 21:1-19"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-05-08",
+    "source_url": "https://gstpc.org/home/05-08-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "6eb30ef5eb823e8086892eb75f57193552fad4ff512e751740d8c13e287fdf4b",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Matthew 15:21-28"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-05-15",
+    "source_url": "https://gstpc.org/home/05-15-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "576ee267ea847dce62f432b6a360e3f104e8afe7a837843c4c8de345862e1d83",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Sister Mengfen",
+      "早上十點姊妹",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Revelation 21:1-6"
+    ],
+    "people_ref_count": 3,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-05-22",
+    "source_url": "https://gstpc.org/home/05-22-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "4c02a1f4b8fb700d1cecc835f481aac4ab87323465489c6cb14aef4bdafd8906",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "對此牧師",
+      "本爾灣長老",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Romans 8:35-39"
+    ],
+    "people_ref_count": 3,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-05-29",
+    "source_url": "https://gstpc.org/home/05-29-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "112f7ceba22054cd9a6bb1135a2ffa6c077bd2e16415c2c6ddef1184e5914265",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "向許文凱長老",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Acts 1:1-11"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-06-05",
+    "source_url": "https://gstpc.org/home/06-05-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "3a50dbfc59ca1c7ddd3997d525b94f58b299353249e3968371d63a3ccf2e4a8a",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "向許文凱長老",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Acts 2:1-12"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-06-12",
+    "source_url": "https://gstpc.org/home/06-12-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "8098a065700fee1224ad5e8470ba22e7b90445d336ab72e30239308b1317daa9",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "向許文凱長老",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "1 Corinthians 11:23-26"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-06-19",
+    "source_url": "https://gstpc.org/home/06-19-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "b53734bbc77e4f0509ed33b1543bba1ccaf0b23748bafbf48a035d92f9e7c52c",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Lai",
+      "許明遠牧師",
+      "請賴俊明牧師"
+    ],
+    "scripture_refs": [
+      "Luke 15:11-32"
+    ],
+    "people_ref_count": 3,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-06-26",
+    "source_url": "https://gstpc.org/home/06-26-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "c42b867cd18bf46cb24ac995247d0c0c36c117309cbcc6255a2049c4f0a6eafd",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Rev. David Lai",
+      "位弟兄姊妹",
+      "賴俊明牧師"
+    ],
+    "scripture_refs": [
+      "John 10:1-15"
+    ],
+    "people_ref_count": 3,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-07-03",
+    "source_url": "https://gstpc.org/home/07-03-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "1649adc4a1aa876981cbaa559db846fd3b1e8e446c0dadc1e4ec322a9aeb988f",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "2 Kings 5:1-14"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-07-10",
+    "source_url": "https://gstpc.org/home/07-10-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "4a8405db55c7d53cd772d459619536d5e1726f57e7ef36e84bd1176593c83890",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Frank Lin",
+      "Sister Annie",
+      "下週五姊妹",
+      "林雍肇傳道",
+      "謝林雍肇傳道"
+    ],
+    "scripture_refs": [
+      "Matthew 9:35-38"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-07-17",
+    "source_url": "https://gstpc.org/home/07-17-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "d4732d2ebf8e2ab0ae9b19b5c6247bf8a6b8b3fef356cbdc8d047030f2d4476a",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "西門基督長老",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Psalm 15:1-5"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-07-24",
+    "source_url": "https://gstpc.org/home/07-24-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "a2a47def236097c6ade1dd25c45f293fadefc472a0cd70f72e71051032b5f309",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師",
+      "請莊瑞芳長老",
+      "赴洛杉磯長老"
+    ],
+    "scripture_refs": [
+      "Genesis 22:1-14"
+    ],
+    "people_ref_count": 3,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-07-31",
+    "source_url": "https://gstpc.org/home/07-31-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "ffb95b9e8db38fdd2ce2e84aa209142551aa674d769f56dcd144f695f9c0fb5e",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "本主日許牧師",
+      "莊瑞芳長老",
+      "許明遠牧師",
+      "謝莊瑞芳長老",
+      "赴洛杉磯長老"
+    ],
+    "scripture_refs": [
+      "Psalm 24:1-10"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-08-07",
+    "source_url": "https://gstpc.org/home/08-07-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "040e2f3231fe45e33d2f50cfe460e22340a65d5341d76596fbc84b850933c1e2",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Mark 10:13-16"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-08-14",
+    "source_url": "https://gstpc.org/home/08-14-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "838feec18a88645452dcefd84e3e825cc544693b7c36ce9844bdcb72a5b15366",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Sister Lin",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Luke 12:49-56"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-08-21",
+    "source_url": "https://gstpc.org/home/08-21-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "a9f9470cacbb6d1a5e3e266783a80334259b58131cd5d5a30b631efed86f5381",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Rev. Hsieh",
+      "日在柑縣長老",
+      "日在第一長老",
+      "洽蕭錫恩長老",
+      "許明遠牧師",
+      "請謝大立牧師"
+    ],
+    "scripture_refs": [
+      "Psalm 71:1-9"
+    ],
+    "people_ref_count": 6,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-08-28",
+    "source_url": "https://gstpc.org/home/08-28-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "283456228f29cd63f3802ee279fa9a0f1790451c5a9765fbf2aa6c9d35edcc13",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Rev. Hsieh",
+      "日在柑縣長老",
+      "日在第一長老",
+      "洽蕭錫恩長老",
+      "許明遠牧師",
+      "請謝大立牧師"
+    ],
+    "scripture_refs": [
+      "Luke 14:1"
+    ],
+    "people_ref_count": 6,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-09-04",
+    "source_url": "https://gstpc.org/home/09-04-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "f3f92e856008f683666cad2596cf4182842820c16f255997f8546bd1872ebbb6",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Huang",
+      "Pastor Hsieh",
+      "Rev. Hsieh",
+      "日在柑縣長老",
+      "日在第一長老",
+      "洽蕭錫恩長老",
+      "與本會牧師",
+      "許明遠牧師",
+      "請謝大立牧師",
+      "謝信光牧師"
+    ],
+    "scripture_refs": [],
+    "people_ref_count": 10,
+    "scripture_ref_count": 0
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-09-11",
+    "source_url": "https://gstpc.org/home/09-11-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "e540771fce0583c895aa69ba7eed037ecd3055e6648f9bdb9cf19b8c1466c614",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Huang",
+      "Pastor Hsieh",
+      "Rev. Hsieh",
+      "或邱長老",
+      "日在柑縣長老",
+      "日在第一長老",
+      "洽蕭錫恩長老",
+      "與本會牧師",
+      "許明遠牧師",
+      "請謝大立牧師",
+      "謝信光牧師"
+    ],
+    "scripture_refs": [
+      "Luke 15:1-10"
+    ],
+    "people_ref_count": 11,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-09-18",
+    "source_url": "https://gstpc.org/home/09-18-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "629f166eaa6f656c8f5845d5232a721f8a8d48b2bcaf51b4bc2b61f0afd543e8",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Huang",
+      "Rev. Frank Hsieh",
+      "Rev. Hsieh",
+      "感謝謝牧師",
+      "或邱長老",
+      "日在柑縣長老",
+      "日在第一長老",
+      "洽蕭錫恩長老",
+      "與本會牧師",
+      "許明遠牧師",
+      "請謝大立牧師",
+      "謝信光牧師"
+    ],
+    "scripture_refs": [
+      "Philippians 3:7-11"
+    ],
+    "people_ref_count": 12,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-09-25",
+    "source_url": "https://gstpc.org/home/09-25-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "eec57bdebc9b8d30ee56d009f7b5d63349ed78c4091fb9569f733e792956f4c5",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Gu",
+      "Brother Huang",
+      "Rev. Hsieh",
+      "或邱長老",
+      "為黃春男弟兄",
+      "爸古秀偉弟兄",
+      "許明遠牧師",
+      "謝大立牧師"
+    ],
+    "scripture_refs": [
+      "2 Timothy 1:1-12"
+    ],
+    "people_ref_count": 8,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-10-02",
+    "source_url": "https://gstpc.org/home/10-02-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "161856fe25d70b777077b64536c86c97dc0baa5c989e6ead2fd39615511ec816",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Gu",
+      "Rev. Thomas Lee",
+      "或邱長老",
+      "李廷樞牧師",
+      "爸古秀偉弟兄",
+      "許明遠牧師",
+      "許牧師及牧師",
+      "請為牧師"
+    ],
+    "scripture_refs": [
+      "Deuteronomy 26:1-2"
+    ],
+    "people_ref_count": 8,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-10-09",
+    "source_url": "https://gstpc.org/home/10-09-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "fd6f9b9fa58298475cd3724acfdbbd28f7d5ce470fa4725a0765d725d935d1db",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Gu",
+      "Rev. David Lai",
+      "Rev. Thomas Lee",
+      "帝安慰李牧師",
+      "感謝賴牧師",
+      "李廷樞牧師",
+      "為李廷樞牧師",
+      "爸古秀偉弟兄",
+      "由潘淑姃長老",
+      "許明遠牧師",
+      "許牧師及牧師",
+      "請為牧師",
+      "請賴俊明牧師",
+      "賴俊明牧師"
+    ],
+    "scripture_refs": [
+      "Romans 13:11-14"
+    ],
+    "people_ref_count": 14,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-10-16",
+    "source_url": "https://gstpc.org/home/10-16-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "5a9f41b6e6743d7c0833e75818b03e66b35ea6d0710b2f69db962c43be3bde5b",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Gu",
+      "Rev. Thomas Lee",
+      "員會提名長老",
+      "帝安慰李牧師",
+      "李廷樞牧師",
+      "為李廷樞牧師",
+      "爸古秀偉弟兄",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [],
+    "people_ref_count": 8,
+    "scripture_ref_count": 0
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-10-23",
+    "source_url": "https://gstpc.org/home/10-23-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "f5892a7b9271595175bd16137c5540cf21c5698685db82e22ed05d94474537ee",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Gu",
+      "員大會中牧師",
+      "在洛杉磯長老",
+      "新選出長老",
+      "爸古秀偉弟兄",
+      "許明遠牧師",
+      "請莊瑞芳長老"
+    ],
+    "scripture_refs": [
+      "Joel 2:17"
+    ],
+    "people_ref_count": 7,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-10-30",
+    "source_url": "https://gstpc.org/home/10-30-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "ba3f3750fbdf2ad7be16819189402810114651fda1ff23fa4b3c884a590b3f3d",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Rev. Thomas Lee",
+      "加李廷樞牧師",
+      "台灣大甲長老",
+      "員大會中牧師",
+      "在洛杉磯長老",
+      "感謝牧師",
+      "新選出長老",
+      "本會許牧師",
+      "李宗正長老",
+      "莊瑞芳長老",
+      "許明遠牧師",
+      "謝莊瑞芳長老"
+    ],
+    "scripture_refs": [
+      "1 John 3:1-10"
+    ],
+    "people_ref_count": 12,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-11-06",
+    "source_url": "https://gstpc.org/home/11-06-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "657be952577f54e73bc38a4ff4cab807d37865642926637e859275f57362c76d",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Rev. Thomas Lee",
+      "Sister Monica",
+      "台灣大甲長老",
+      "和母親李牧師",
+      "姊同心和牧師",
+      "將李廷樞牧師",
+      "為李宗正長老",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Ezekiel 20:1-4"
+    ],
+    "people_ref_count": 8,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-11-13",
+    "source_url": "https://gstpc.org/home/11-13-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "a7c9910a54303d9c428799c34039b980c6f36515689822a260e7341ba88388ac",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Sister Monica",
+      "姊同心和牧師",
+      "後舉行黃牧師",
+      "由邱瑜嫩長老",
+      "許明遠牧師",
+      "黃德利牧師"
+    ],
+    "scripture_refs": [
+      "Isaiah 65:17-25"
+    ],
+    "people_ref_count": 6,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-11-20",
+    "source_url": "https://gstpc.org/home/11-20-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "736d2432e05838fc58c15f2efaf53baaae45948c7b3ded67e3cebe7d9cbc127d",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Rev. Thomas Lee",
+      "台灣大甲長老",
+      "姊同心和牧師",
+      "後舉行黃牧師",
+      "昨天姊妹",
+      "行李廷樞牧師",
+      "許明遠牧師",
+      "謝莊富盛長老",
+      "黃德利牧師"
+    ],
+    "scripture_refs": [
+      "Matthew 20:1-16"
+    ],
+    "people_ref_count": 9,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-11-27",
+    "source_url": "https://gstpc.org/home/11-27-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "8c2b8f3a213ebae61345b3617cbb9a9bbf1d8d75a9f0b8047b61216927683335",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Rev. Thomas Lee",
+      "台灣大甲長老",
+      "後舉行黃牧師",
+      "行李廷樞牧師",
+      "許明遠牧師",
+      "謝莊富盛長老",
+      "黃德利牧師"
+    ],
+    "scripture_refs": [
+      "Isaiah 2:1-5"
+    ],
+    "people_ref_count": 7,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-12-04",
+    "source_url": "https://gstpc.org/home/12-04-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "e37b6d8af6f822d6cd315b013d2c4a25074ec778d58da650512ae1af6c3f5b59",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Huang",
+      "Rev. Huang",
+      "帝祝福黃牧師",
+      "後舉行黃牧師",
+      "教會開拓牧師",
+      "爸古秀偉弟兄",
+      "籍可以讓牧師",
+      "黃德利牧師"
+    ],
+    "scripture_refs": [],
+    "people_ref_count": 8,
+    "scripture_ref_count": 0
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-12-11",
+    "source_url": "https://gstpc.org/home/12-11-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "fa647309d2b0440ea3691bd4c7eddc0c8c20f23447cd78a979c322e97090c66a",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Sister Lulu",
+      "Sister Mengfu",
+      "教會舉行姊妹",
+      "會長孟芬姊妹",
+      "爸古秀偉弟兄",
+      "由邱乙如姊妹",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Matthew 11:1-11"
+    ],
+    "people_ref_count": 7,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-12-18",
+    "source_url": "https://gstpc.org/home/12-18-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "28bad42a10de8bd5f43f933c2b61d5f58f2eca4e52975b80b158f09f9a0295ec",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "爸古秀偉弟兄",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [],
+    "people_ref_count": 2,
+    "scripture_ref_count": 0
+  },
+  {
+    "bulletin": "gstpc-bulletins/2022/gstpc-bulletin-2022-12-25",
+    "source_url": "https://gstpc.org/home/12-25-2022-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "53e437f0f66de70c7696219635c7034b3ab70139125451fbe1c5f59b017e959c",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "務王灼熒長老",
+      "和古秀偉弟兄",
+      "祝福弟兄姊妹",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Luke 2:8-20"
+    ],
+    "people_ref_count": 4,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-01-01",
+    "source_url": "https://gstpc.org/home/01-01-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "8e0be14de0307e6012aa41a67ddccfd48bac0c93c89ce76eed485a2123adf597",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Rev. Lai",
+      "下主日牧師",
+      "務王灼熒長老",
+      "和古秀偉弟兄",
+      "祝福弟兄姊妹",
+      "許明遠牧師",
+      "請賴俊明牧師"
+    ],
+    "scripture_refs": [
+      "Colossians 1:9-14"
+    ],
+    "people_ref_count": 7,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-01-08",
+    "source_url": "https://gstpc.org/home/01-08-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "59a66cc0753b2715ad780826a01c4a0f2c554533b9ce3880bf4fa5b2fe0f04a5",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Rev. David Lai",
+      "Sister Lulu",
+      "古秀偉弟兄",
+      "師邱乙如姊妹",
+      "許明遠牧師",
+      "謝賴俊明牧師",
+      "賴俊明牧師",
+      "邱乙如姊妹"
+    ],
+    "scripture_refs": [],
+    "people_ref_count": 8,
+    "scripture_ref_count": 0
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-01-15",
+    "source_url": "https://gstpc.org/home/01-15-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "f07d9f19270b8d0f845fb9443b22209e32dd625294c69a0e3a7fc76348129336",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Guo",
+      "Sister Chen",
+      "Sister Lulu",
+      "古秀偉弟兄",
+      "和陳夏蓮長老",
+      "年新任長老",
+      "王信心長老",
+      "許明遠牧師",
+      "許牧師和牧師",
+      "請邱乙如姊妹"
+    ],
+    "scripture_refs": [
+      "1 Corinthians 1:1-11"
+    ],
+    "people_ref_count": 10,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-01-22",
+    "source_url": "https://gstpc.org/home/01-22-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "928646ae4fc8f4498b5ef3c35d34353ee98bc7596a6c8d3c57fa56c868b83551",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Rev. KaoFang Yeh",
+      "Rev. Yeh",
+      "Sister Lulu",
+      "葉高芳牧師",
+      "許牧師和牧師",
+      "謝葉高芳牧師"
+    ],
+    "scripture_refs": [
+      "Luke 6:45",
+      "Proverbs 4:23"
+    ],
+    "people_ref_count": 6,
+    "scripture_ref_count": 2
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-01-29",
+    "source_url": "https://gstpc.org/home/01-29-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "a9c08f94e1558778e194056dfc86737c0171ae7d6b28328e178ff32228e7a325",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Ku",
+      "Sister Chen",
+      "古秀偉弟兄",
+      "和陳夏蓮長老",
+      "許牧師和牧師",
+      "謝黃德利牧師",
+      "黃德利牧師"
+    ],
+    "scripture_refs": [
+      "Romans 6:1-14"
+    ],
+    "people_ref_count": 7,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-02-05",
+    "source_url": "https://gstpc.org/home/02-05-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "2ed7566de8081b20a08456b5076fbae83d5bbd088d538ccdb198bbd9eec068bb",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Ku",
+      "Pastor Philip Lee",
+      "Rev. Philip Lee",
+      "古秀偉弟兄",
+      "李基藏牧師",
+      "謝李基藏牧師"
+    ],
+    "scripture_refs": [
+      "Ephesians 4:17-24"
+    ],
+    "people_ref_count": 6,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-02-12",
+    "source_url": "https://gstpc.org/home/02-12-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "5bf39b3a893cc64a56b2536953d4322c2a5d5c45f433806ebdd3ef80c8176911",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Ku",
+      "Sister Lin",
+      "古秀偉弟兄",
+      "早上十點姊妹",
+      "由林娟芬姊妹",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Matthew 5:1-12"
+    ],
+    "people_ref_count": 6,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-02-19",
+    "source_url": "https://gstpc.org/home/02-19-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "d283d9d4ec23fc9b18e01a6561ff2801d279e1fc1600401f4916fb2e42db4dc6",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "臺灣基督長老"
+    ],
+    "scripture_refs": [],
+    "people_ref_count": 1,
+    "scripture_ref_count": 0
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-02-26",
+    "source_url": "https://gstpc.org/home/02-26-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "b9bb6fb1286dd03d9be8e5e879381d6df415d53f24ba85d6abd9eaabca56bf75",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Ku",
+      "古秀偉弟兄",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [],
+    "people_ref_count": 3,
+    "scripture_ref_count": 0
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-03-05",
+    "source_url": "https://gstpc.org/home/03-05-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "25e6ed6d6b3902fd6e98faacd3eb9252a3e2659cccb9dfcf5f042bdea1562e22",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師",
+      "透過美國長老"
+    ],
+    "scripture_refs": [
+      "Genesis 12:1",
+      "Psalm 121:1-8"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 2
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-03-12",
+    "source_url": "https://gstpc.org/home/03-12-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "1218fa552b4fcd19ae0d40f139ccf64a4963ee81beae25c02166c35fe9460479",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Sister Angela",
+      "底前向許牧師",
+      "許明遠牧師",
+      "透過美國長老"
+    ],
+    "scripture_refs": [
+      "Exodus 17:1-7"
+    ],
+    "people_ref_count": 4,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-03-19",
+    "source_url": "https://gstpc.org/home/03-19-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "344b6f7825debe36087713e9dbb654a086db93b2b02212e02d69991bea51a370",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Sister Angela",
+      "灣人基督長老",
+      "許明遠牧師",
+      "透過美國長老"
+    ],
+    "scripture_refs": [
+      "1 Samuel 16:1-13"
+    ],
+    "people_ref_count": 4,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-03-26",
+    "source_url": "https://gstpc.org/home/03-26-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "f2e006798ad6f4f8fcdcefdc60e5d155aa7632fde9aa30d9f3f166f34f4a10f8",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "灣人基督長老",
+      "牧師和牧師",
+      "透過美國長老",
+      "點在柑縣長老"
+    ],
+    "scripture_refs": [
+      "Exodus 3:12-15"
+    ],
+    "people_ref_count": 4,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-04-02",
+    "source_url": "https://gstpc.org/home/04-02-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "c835d3960783dc94a47c9210d41ffafed44b936f218590cbc5750ac8ba2017cd",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "柑縣長老",
+      "灣人基督長老",
+      "牧師和牧師",
+      "許明遠牧師",
+      "透過美國長老"
+    ],
+    "scripture_refs": [
+      "Matthew 21:1-11"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-04-09",
+    "source_url": "https://gstpc.org/home/04-09-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "ad84d9958530532bf8f08ab44d2573a8ade5982409fc0f089ff72a9d66938030",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Kuo",
+      "呂耀斌弟兄",
+      "許明遠牧師",
+      "透過美國長老"
+    ],
+    "scripture_refs": [
+      "John 11:25-26"
+    ],
+    "people_ref_count": 4,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-04-16",
+    "source_url": "https://gstpc.org/home/04-16-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "6d4b961efb74253746dd553542cedc75ee68ba628714418bec9a50a4b430412e",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Hu",
+      "Brother Kuo",
+      "Brother Lyu",
+      "許明遠牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "1 Peter 1:3-9"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-04-23",
+    "source_url": "https://gstpc.org/home/04-23-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "67166f25b920cdc3a239ca316efdfc21003def030cdf561027751aae9301567d",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Hu",
+      "Brother Kuo",
+      "Brother Lyu",
+      "Rev. Alfie Tsay",
+      "灣人基督長老",
+      "許明遠牧師",
+      "許牧師和牧師",
+      "請蔡維仁牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "1 Peter 1:17-25"
+    ],
+    "people_ref_count": 9,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-04-30",
+    "source_url": "https://gstpc.org/home/04-30-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "cfb6e96e78c36f9b2e1203709f08a6fb8efd6598864b953d10bd6b9a237b5a6d",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Hu",
+      "Brother Kuo",
+      "Brother Lyu",
+      "Rev. Alfie Tsay",
+      "呂耀斌弟兄",
+      "蔡維仁牧師",
+      "許明遠牧師",
+      "許牧師和牧師",
+      "謝蔡維仁牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "Psalm 48:9-14"
+    ],
+    "people_ref_count": 10,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-05-07",
+    "source_url": "https://gstpc.org/home/05-07-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "20e21f09e0f013c03334812cf6d3469b906dbb30a08f6364c9cdaa24bf6a2916",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Hu",
+      "Brother Ku",
+      "Brother Lyu",
+      "Brother Wang",
+      "呂耀斌弟兄",
+      "許明遠牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "1 Peter 2:4-10"
+    ],
+    "people_ref_count": 7,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-05-14",
+    "source_url": "https://gstpc.org/home/05-14-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "00de5b0986ec2a8e1e8a6b6d21aa5d7f47e26005d60b5e06544c80f757ec29cb",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Hu",
+      "Brother Ku",
+      "Brother Wang",
+      "許明遠牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "Isaiah 49:14-16"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-05-21",
+    "source_url": "https://gstpc.org/home/05-21-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "0eaf2a053d3328db9324a3ee43aac923eb33c881e127256d1ed715b0ab4bbb9b",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Hu",
+      "Brother Ku",
+      "Brother Wang",
+      "許明遠牧師",
+      "財務部王長老",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "Luke 24:44-53"
+    ],
+    "people_ref_count": 6,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-05-28",
+    "source_url": "https://gstpc.org/home/05-28-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "81d0c6509c127fa35e27d625b6c245f3c32a10544fde496329eecb3ff3d2b983",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Hu",
+      "Brother Ku",
+      "Brother Wang",
+      "許明遠牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "Acts 2:1-21"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-06-04",
+    "source_url": "https://gstpc.org/home/06-04-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "4b323a8116bedd9d37cac7bddad4ffa0ce7eab195a9089ad85681b0a5b52d4c0",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Matthew 28:16-20"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-06-11",
+    "source_url": "https://gstpc.org/home/06-11-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "3b43102b30475d6df251fd6113180ba519588d519ed87a40ae6020f9f5ea5c08",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Sister Monica",
+      "在教會有姊妹",
+      "由張孟芬姊妹",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "John 17:1-11"
+    ],
+    "people_ref_count": 4,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-06-18",
+    "source_url": "https://gstpc.org/home/06-18-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "0093bbb39857f3bd144eb3630465f889b8a2de4c97e71aefdb6d7a0140ce68d2",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Cheng",
+      "許明遠牧師",
+      "請鄭宏輝牧師"
+    ],
+    "scripture_refs": [
+      "Galatians 4:6-7"
+    ],
+    "people_ref_count": 3,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-06-25",
+    "source_url": "https://gstpc.org/home/06-25-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "81158147234bf6fd76b748789f2e5a00d06739e344cd853f7fb982401464b8c4",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Rev. Cheng",
+      "謝鄭宏輝牧師",
+      "鄭宏輝牧師"
+    ],
+    "scripture_refs": [
+      "Ephesians 4:11-13"
+    ],
+    "people_ref_count": 3,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-07-02",
+    "source_url": "https://gstpc.org/home/07-02-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "6017bc7cfc2178f47631348e95beb1121ba31233ab048399e3a0e6f67c5f7d61",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Rev. Ming Yuan Hs",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Matthew 10:40-42"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-07-09",
+    "source_url": "https://gstpc.org/home/07-09-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "104194413b4d5f249a3c5ae19af75e24975c9dc15109d201bd3242d08dd7af23",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師",
+      "長老或許牧師"
+    ],
+    "scripture_refs": [
+      "Matthew 11:16-19"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-07-16",
+    "source_url": "https://gstpc.org/home/07-16-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "477371487546718867c1713928988714fe73dbb01f6160afb84b0cf8f1ed4534",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Hu",
+      "Brother Ku",
+      "Brother Wang",
+      "許明遠牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "Matthew 6:25-34"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-07-23",
+    "source_url": "https://gstpc.org/home/07-23-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "ba19906a1cb571726d909341790bd2551da14467a1ba3d8062c1df9350caeee0",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Frank Lin",
+      "Brother Hu",
+      "Brother Ku",
+      "Brother Wang",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "2 Kings 22:1-20"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-07-30",
+    "source_url": "https://gstpc.org/home/07-30-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "88d0ba9cdab0f2ff0d5fce3043e603303e3bdf7c6285248e6d5c1bf2898bd9b8",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Hu",
+      "Brother Ku",
+      "Brother Wang",
+      "許明遠牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "Genesis 29:15-28"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-08-06",
+    "source_url": "https://gstpc.org/home/08-06-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "0b1d1c4ae33076f3f619f43d5fa8e91b400de8203c08c169c1f47e4a6e8f96e5",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Hu",
+      "Brother Ku",
+      "Brother Wang",
+      "或邱長老",
+      "的同工和弟兄",
+      "許明遠牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "John 3:16-17"
+    ],
+    "people_ref_count": 7,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-08-13",
+    "source_url": "https://gstpc.org/home/08-13-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "40d38c44fa872a6f81c3a353bc6c23f7bc2ea5d8c80e0c8346fafd46ef9d5882",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Ku",
+      "或邱長老",
+      "許明遠牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "Matthew 9:35-38"
+    ],
+    "people_ref_count": 4,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-08-20",
+    "source_url": "https://gstpc.org/home/08-20-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "ffa0d53a45322ac501104364aeeab044738a57cb2376f91c98f63c54e190f950",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Hu",
+      "Brother Ku",
+      "Brother Wang",
+      "或邱長老",
+      "許明遠牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [],
+    "people_ref_count": 6,
+    "scripture_ref_count": 0
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-08-27",
+    "source_url": "https://gstpc.org/home/08-27-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "a92837da94a876f8d084606c48a27124824a7f8773fdb470fee5528ed23b6ed7",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Rev. Frank Hsieh",
+      "Rev. Hu",
+      "會謝信光牧師",
+      "第一長老",
+      "許明遠牧師",
+      "鄧淑貞長老",
+      "院胡淑貞牧師"
+    ],
+    "scripture_refs": [
+      "Exodus 1:15-2"
+    ],
+    "people_ref_count": 7,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-09-03",
+    "source_url": "https://gstpc.org/home/09-03-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "0905d0afcb20360ab8b625a15d021a8b0f2bff5e43ec03e0840753f768244347",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Ku",
+      "Rev. Frank Hsieh",
+      "Rev. Hu",
+      "Sister Ku",
+      "感謝第一長老",
+      "會謝信光牧師",
+      "謝信光牧師",
+      "院胡淑貞牧師",
+      "高滿紀姊妹"
+    ],
+    "scripture_refs": [
+      "Acts 1:4-8"
+    ],
+    "people_ref_count": 9,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-09-10",
+    "source_url": "https://gstpc.org/home/09-10-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "b0a9f1fd6eae73b0c2967ee8dfac8cbd1da14788d4d955cacc7418d23593ab97",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Rev. Hu",
+      "本月姊妹",
+      "許明遠牧師",
+      "請聯絡邱長老",
+      "院胡淑貞牧師",
+      "黃德利牧師"
+    ],
+    "scripture_refs": [
+      "2 Timothy 1:9-10"
+    ],
+    "people_ref_count": 6,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-09-17",
+    "source_url": "https://gstpc.org/home/09-17-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "c8f64406f5ee75b4cb230762ef710f23784de420a7886ab30950adf1d92910af",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Chuang",
+      "Rev. Hu",
+      "本月姊妹",
+      "胡淑貞牧師",
+      "許明遠牧師",
+      "請聯絡邱長老",
+      "請莊雅棠牧師",
+      "院胡淑貞牧師",
+      "黃德利牧師"
+    ],
+    "scripture_refs": [
+      "Acts 20:32-38"
+    ],
+    "people_ref_count": 9,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-09-24",
+    "source_url": "https://gstpc.org/home/09-24-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "88d39718f051ee9aee71296133e980eae365d15ef6b1dbea32ee7b0e8c4341fc",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Hu",
+      "Brother Ku",
+      "Brother Wang",
+      "Pastor Chuang",
+      "本月姊妹",
+      "許明遠牧師",
+      "請聯絡邱長老",
+      "請莊雅棠牧師",
+      "謝黃德利牧師",
+      "鄧淑貞長老",
+      "黃德利牧師"
+    ],
+    "scripture_refs": [
+      "John 5:1-9"
+    ],
+    "people_ref_count": 11,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-10-01",
+    "source_url": "https://gstpc.org/home/10-01-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "904ccc27e64e7f6301ece2c37a20459c584a52da44f94f350e868d45e03741ef",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Hu",
+      "Brother Ku",
+      "Brother Wang",
+      "Rev. Chuang",
+      "Rev. Y. T. Chuang",
+      "莊雅棠牧師",
+      "謝莊雅棠牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [],
+    "people_ref_count": 8,
+    "scripture_ref_count": 0
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-10-08",
+    "source_url": "https://gstpc.org/home/10-08-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "e149bd2e3a1b6f4f2594fc506562f1000f38cd40b5deecceb3f532959fbcd841",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Hu",
+      "Brother Ku",
+      "Brother Wang",
+      "許明遠牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [],
+    "people_ref_count": 5,
+    "scripture_ref_count": 0
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-10-15",
+    "source_url": "https://gstpc.org/home/10-15-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "c77402f84fe4ae33b90946f81c2159db8e870e946e6462a2180c03b4208c9636",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Hu",
+      "Brother Ku",
+      "Brother Wang",
+      "許明遠牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "Philippians 4:1-9"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-10-22",
+    "source_url": "https://gstpc.org/home/10-22-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "8452e2a8bc860befba4139fbe8daff84862e10bb2da37f05b0f4a2f044269531",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Hu",
+      "Brother Ku",
+      "Brother Wang",
+      "午四點在牧師",
+      "許明遠牧師",
+      "請新舊任長老",
+      "鄧淑貞長老",
+      "長執改選長老"
+    ],
+    "scripture_refs": [
+      "Isaiah 45:1-7"
+    ],
+    "people_ref_count": 8,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-10-29",
+    "source_url": "https://gstpc.org/home/10-29-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "cc34e23505fda41884cfaa39dd56649929e4987b46744914e58040faa121e078",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "本主日許牧師",
+      "長執改選長老"
+    ],
+    "scripture_refs": [],
+    "people_ref_count": 2,
+    "scripture_ref_count": 0
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-11-05",
+    "source_url": "https://gstpc.org/home/11-05-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "5970c0a19cebb7e33354b1998665acf926510785a7ccfb91a59a4df8966c0851",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Hu",
+      "Brother Ku",
+      "Brother Wang",
+      "許明遠牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [],
+    "people_ref_count": 5,
+    "scripture_ref_count": 0
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-11-12",
+    "source_url": "https://gstpc.org/home/11-12-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "2af01968928f0e8791ccdc3233b2f17fadc82255b59f704f599ad87d73bb8d10",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Hu",
+      "Brother Ku",
+      "Brother Wang",
+      "許明遠牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "Matthew 25:1-13"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-11-19",
+    "source_url": "https://gstpc.org/home/11-19-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "d283d9d4ec23fc9b18e01a6561ff2801d279e1fc1600401f4916fb2e42db4dc6",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "臺灣基督長老"
+    ],
+    "scripture_refs": [],
+    "people_ref_count": 1,
+    "scripture_ref_count": 0
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-11-26",
+    "source_url": "https://gstpc.org/home/11-26-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "28d3f96cb7c392888c612242ae69a512081a950b6b6d657976a6ebfb49aa8459",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Hu",
+      "Brother Ku",
+      "Brother Wang",
+      "Rev. Frank Hsieh",
+      "帝在每位弟兄",
+      "許明遠牧師",
+      "請謝信中牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "Luke 17:1-10"
+    ],
+    "people_ref_count": 8,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-12-03",
+    "source_url": "https://gstpc.org/home/12-03-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "47eea87c2959c7afca6dd34786257eb84f15c44320ef084bee69493bce3c6e77",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Rev. Joshua Hsieh",
+      "帝在每位弟兄",
+      "謝信中牧師",
+      "謝謝中信牧師"
+    ],
+    "scripture_refs": [
+      "Philippians 2:5-11"
+    ],
+    "people_ref_count": 4,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-12-10",
+    "source_url": "https://gstpc.org/home/12-10-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "67d18c82c03def45bf5ea7dee445b522e3c89ff15b9bac222b5748c64ab2b8ef",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Sister Corina",
+      "在每位弟兄",
+      "許明遠牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "Mark 1:1-8"
+    ],
+    "people_ref_count": 4,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-12-17",
+    "source_url": "https://gstpc.org/home/12-17-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "04dae9cf3bbe0c75eb4bbb03b7a7c80d78e37ec746e85b9b7b61fef92765cf99",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Hu",
+      "Brother Ku",
+      "Brother Wang",
+      "Sister Corina",
+      "在每位弟兄",
+      "許明遠牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [],
+    "people_ref_count": 7,
+    "scripture_ref_count": 0
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-12-24",
+    "source_url": "https://gstpc.org/home/12-24-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "8f185c3f7994bd438145e7a895b7111d87f87e8ee627939520c10b6ac62f34b4",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Hu",
+      "Brother Ku",
+      "Brother Wang",
+      "Rev. Chuang",
+      "下主日許牧師",
+      "去洛杉磯長老",
+      "許明遠牧師",
+      "請莊瑞堂牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [],
+    "people_ref_count": 9,
+    "scripture_ref_count": 0
+  },
+  {
+    "bulletin": "gstpc-bulletins/2023/gstpc-bulletin-2023-12-31",
+    "source_url": "https://gstpc.org/home/12-31-2023-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "7e49b273082a0f6b959aea8abafa3e2eeaf44d077487d579cf5290015b7afdc9",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Hu",
+      "Brother Ku",
+      "Brother Wang",
+      "Rev. Chuang",
+      "去洛杉磯長老",
+      "感謝莊牧師",
+      "本主日許牧師",
+      "莊瑞堂牧師",
+      "許明遠牧師",
+      "請莊瑞堂牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "Revelation 21:1-5"
+    ],
+    "people_ref_count": 11,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-01-07",
+    "source_url": "https://gstpc.org/home/01-07-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "01ad63e3f034529005b356a8e7a7d45a6282aa7c741f56cd0f45cf4c77fdeaa5",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "加州牧谷長老",
+      "國台灣人長老",
+      "年新受選長老",
+      "許明遠牧師",
+      "講英文的弟兄",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "Revelation 21:1-5"
+    ],
+    "people_ref_count": 6,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-01-14",
+    "source_url": "https://gstpc.org/home/01-14-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "d0125cc9ce4104ab5a1c7c73ed2920f4ce78fc7b1a911d53ab2d7e840ea232e8",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師",
+      "講英文的弟兄"
+    ],
+    "scripture_refs": [
+      "John 1:43-48"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-01-21",
+    "source_url": "https://gstpc.org/home/01-21-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "8bf112727d6ec125566b0c8dadca2bfc2e2143535db8a6169f172101a4f28aae",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "加州牧谷長老",
+      "國台灣人長老",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Psalm 62:5-12"
+    ],
+    "people_ref_count": 3,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-01-28",
+    "source_url": "https://gstpc.org/home/01-28-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "179ae9310acb6026a130c98b419a1c8aac52f07fe9aaf84d705ce0bc2b4fec91",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "加州牧谷長老",
+      "國台灣人長老",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Mark 1:21-28"
+    ],
+    "people_ref_count": 3,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-02-04",
+    "source_url": "https://gstpc.org/home/02-04-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "8c42add429e9226149a60f707e01c7a6e9e85724c2597eacdd72cc764fbe68a9",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "1 Corinthians 9:16-23"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-02-11",
+    "source_url": "https://gstpc.org/home/02-11-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "39a5b08cf527fe4827e1e5a3339e0fb04b6a442a5dbfe63ed04e5b96e7541772",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "經計劃的弟兄",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Leviticus 23:23-25"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-02-18",
+    "source_url": "https://gstpc.org/home/02-18-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "2724b100e1d5164014711b38de25ee8c854c6a164f06ece825056abbc570f9ad",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Kevin",
+      "下主日牧師",
+      "經計劃的弟兄",
+      "美國長老",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Nehemiah 2:17-18"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-02-25",
+    "source_url": "https://gstpc.org/home/02-25-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "69b3df832c0a3e94ec32a0067f64f229ecaf203a50b8cc0f628e1723f21804bc",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Jeremy Wang",
+      "Brother Kevin",
+      "本主日牧師",
+      "王子銘弟兄",
+      "經計劃的弟兄",
+      "美國長老"
+    ],
+    "scripture_refs": [
+      "Genesis 11:1-9",
+      "Proverbs 18:10-11"
+    ],
+    "people_ref_count": 6,
+    "scripture_ref_count": 2
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-03-03",
+    "source_url": "https://gstpc.org/home/03-03-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "ec36f5cd44da4451f84702f6e3c6935ed9c492c8ff09a9b36f878f36718cdc29",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Kevin",
+      "或邱瑜嫩長老",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "John 2:13-22"
+    ],
+    "people_ref_count": 3,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-03-10",
+    "source_url": "https://gstpc.org/home/03-10-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "297e92ea45e71380105902854809bac433e8768386d4d405364bd5aacbdf83ad",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Kevin",
+      "許明遠牧師",
+      "請現任長老"
+    ],
+    "scripture_refs": [
+      "Numbers 21:4-9"
+    ],
+    "people_ref_count": 3,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-03-17",
+    "source_url": "https://gstpc.org/home/03-17-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "adef0809feb9b069ada2e048d4ac415b68becc1edf9812bd270dd1c647f98fcd",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Kevin",
+      "Sister Chen",
+      "許明遠牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "Psalm 119:9-16"
+    ],
+    "people_ref_count": 4,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-03-24",
+    "source_url": "https://gstpc.org/home/03-24-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "ff115e3b8794070517255fef926b673b25b2a7a31746e4559eb80b20a380c00e",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Kevin",
+      "許明遠牧師",
+      "請為牧師"
+    ],
+    "scripture_refs": [
+      "Mark 11:1-11"
+    ],
+    "people_ref_count": 3,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-03-31",
+    "source_url": "https://gstpc.org/home/03-31-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "9b701e9f4f1084368dcbf291a80d50b2f7be3ec9a76af7dd3c5a0f610aac1583",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Hu",
+      "Brother Ku",
+      "Brother Wang",
+      "Rev. James Chi",
+      "Sister Chen",
+      "紀元訓牧師",
+      "許明遠牧師",
+      "請為牧師",
+      "鄧淑貞長老",
+      "黃德利牧師"
+    ],
+    "scripture_refs": [
+      "John 20:1-10"
+    ],
+    "people_ref_count": 10,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-04-07",
+    "source_url": "https://gstpc.org/home/04-07-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "26a6a8f30d6e19c79ed5fc916074c4b17d228e05e047cad3e249e0180fd13f7d",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "王子銘弟兄",
+      "請為牧師",
+      "請黃德利牧師",
+      "黃德利牧師"
+    ],
+    "scripture_refs": [
+      "Matthew 6:25-34"
+    ],
+    "people_ref_count": 4,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-04-14",
+    "source_url": "https://gstpc.org/home/04-14-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "99a4c44f58b49bdf679e96017893cf18e569d945d9bdd8c658e2e6217ffde2f4",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "下週日許牧師",
+      "個週日帶弟兄",
+      "帝祝福黃牧師",
+      "謝黃德利牧師",
+      "黃德利牧師"
+    ],
+    "scripture_refs": [
+      "Luke 24:13-35"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-04-21",
+    "source_url": "https://gstpc.org/home/04-21-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "95200f959954945f8f8e0e1936ec11e7cb0cb5ab1663a0886475bfc7cba14da5",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Rev. James Chi",
+      "上帝祝福牧師",
+      "個週日帶弟兄",
+      "感謝許牧師",
+      "許明遠牧師",
+      "請紀元訓牧師"
+    ],
+    "scripture_refs": [
+      "Luke 5:1-11"
+    ],
+    "people_ref_count": 6,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-04-28",
+    "source_url": "https://gstpc.org/home/04-28-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "780e19e50f50f3aa4d098c66e6215c1bb562e263bf4454a065084597269bac00",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Rev. James Chi",
+      "Sister Chen",
+      "個週日帶弟兄",
+      "在芝加哥長老",
+      "帝祝福紀牧師",
+      "紀元訓牧師",
+      "謝紀元訓牧師",
+      "陳玉慧姊妹"
+    ],
+    "scripture_refs": [
+      "Matthew 4:17-22"
+    ],
+    "people_ref_count": 8,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-05-05",
+    "source_url": "https://gstpc.org/home/05-05-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "22a88eaeeff37a4856df2e4281f0660d1b064b70d4083d94b646455b72545bb5",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Hu",
+      "Brother Ku",
+      "Brother Wang",
+      "Sister Chen",
+      "將帶領弟兄",
+      "許明遠牧師",
+      "鄧淑貞長老",
+      "陳玉慧姊妹"
+    ],
+    "scripture_refs": [
+      "1 John 5:1-6"
+    ],
+    "people_ref_count": 8,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-05-12",
+    "source_url": "https://gstpc.org/home/05-12-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "4cdd00c358d79e2b7706db5f59ecfbfde724e060c6f8f3c676feecaabec8ab44",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother David Yu",
+      "Brother Hu",
+      "Brother Ku",
+      "Brother Wang",
+      "Sister Chen",
+      "在陳玉慧姊妹",
+      "士與余達弟兄",
+      "許明遠牧師",
+      "鄧淑貞長老",
+      "陳玉慧姊妹"
+    ],
+    "scripture_refs": [
+      "Genesis 3:20",
+      "Luke 1:46-48"
+    ],
+    "people_ref_count": 10,
+    "scripture_ref_count": 2
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-05-19",
+    "source_url": "https://gstpc.org/home/05-19-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "aa7f5d0243a565a826b03ec9fa60210659b68261e92cc14215363d65a632e7fd",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother David Yu",
+      "Brother Ku",
+      "Brother Wang",
+      "Sister Chao",
+      "Sister Tammy Chao",
+      "在陳玉慧姊妹",
+      "士與余達弟兄",
+      "許明遠牧師",
+      "鄧淑貞長老",
+      "陳玉慧姊妹"
+    ],
+    "scripture_refs": [
+      "Acts 2:1-13"
+    ],
+    "people_ref_count": 10,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-05-26",
+    "source_url": "https://gstpc.org/home/05-26-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "6c3553a80135ce5b6b57e43f87b72f449c1c1ba5edf6e65f582af69c3644a062",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Hu",
+      "Brother Ku",
+      "Brother Wang",
+      "胡紹禎弟兄",
+      "許明遠牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "Isaiah 6:1-8"
+    ],
+    "people_ref_count": 6,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-06-02",
+    "source_url": "https://gstpc.org/home/06-02-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "fbf6c24e2e243639ae9e91bc0c9a79b58143ea45c0203f03dfd2bcc11f7544d1",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Hu",
+      "Brother Ku",
+      "Brother Wang",
+      "胡紹禎弟兄",
+      "許明遠牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "Deuteronomy 5:12-15"
+    ],
+    "people_ref_count": 6,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-06-09",
+    "source_url": "https://gstpc.org/home/06-09-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "3fbaca80022a0617e474b839f5097bdcd6ab1714f89baf0e5417b1b658e758e9",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Ku",
+      "Brother Wang",
+      "由林孝誠長老",
+      "許明遠牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "2 Corinthians 4:13-5"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-06-16",
+    "source_url": "https://gstpc.org/home/06-16-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "e364d189cad1a1d391eef084a3880b17212eb87ae13c7d7b9d021fabe44d9a7f",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Ku",
+      "Brother Wang",
+      "Pastor Chen",
+      "羅珮文牧師",
+      "許明遠牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [],
+    "people_ref_count": 6,
+    "scripture_ref_count": 0
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-06-23",
+    "source_url": "https://gstpc.org/home/06-23-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "325c24c69832bacc7298b6bb5a013558027573d45dca7d69607694e040a92163",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Ku",
+      "Brother Wang",
+      "Sister Melody Lin",
+      "林惠琦姊妹",
+      "許明遠牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "1 Samuel 17:32-49"
+    ],
+    "people_ref_count": 6,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-06-30",
+    "source_url": "https://gstpc.org/home/06-30-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "5a373d3c294aded74288069364b8b299ea70de14c0f7661f7c0c2ef44efb1442",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Frank Lin",
+      "Brother Ku",
+      "Brother Wang",
+      "Pastor Lee",
+      "三峽基督長老",
+      "上午十點姊妹",
+      "日許牧師",
+      "會李仁豪牧師",
+      "李仁豪牧師",
+      "許明遠牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [],
+    "people_ref_count": 11,
+    "scripture_ref_count": 0
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-07-07",
+    "source_url": "https://gstpc.org/home/07-07-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "9d3ac42ec8a6262adbd961128f235709d279cbe9ba6b313da8f2857debaeebf0",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Frank Lin",
+      "Brother Hu",
+      "Brother Sam Sun",
+      "Pastor Chuang",
+      "上午十點姊妹",
+      "向蕭錫恩長老",
+      "日許牧師",
+      "胡紹禎弟兄",
+      "許明遠牧師",
+      "請莊雅堂牧師"
+    ],
+    "scripture_refs": [
+      "Amos 7:7-15"
+    ],
+    "people_ref_count": 10,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-07-14",
+    "source_url": "https://gstpc.org/home/07-14-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "0ee2da9046fae6d89cd21a535fe5020904b898acf2094d462074c9d6908a1508",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Frank Lin",
+      "Brother Hu",
+      "Brother Sam Sun",
+      "Pastor Chuang",
+      "上午十點姊妹",
+      "向蕭錫恩長老",
+      "日許牧師",
+      "胡紹禎弟兄",
+      "許明遠牧師",
+      "請莊雅堂牧師"
+    ],
+    "scripture_refs": [
+      "Joshua 5:13-6"
+    ],
+    "people_ref_count": 10,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-07-21",
+    "source_url": "https://gstpc.org/home/07-21-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "2a4723b75a386c0d8a1715d09fb4d961e7bd2b995402b495a20fb78b0031881e",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Hu",
+      "Brother Ku",
+      "Brother Wang",
+      "Pastor Chuang",
+      "上午十點姊妹",
+      "向蕭錫恩長老",
+      "王子銘弟兄",
+      "胡紹禎弟兄",
+      "請莊雅堂牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [],
+    "people_ref_count": 10,
+    "scripture_ref_count": 0
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-07-28",
+    "source_url": "https://gstpc.org/home/07-28-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "615a4bca3aff980a0b861abad9a16296c15aa2d87698186d87017318ee455e58",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Ku",
+      "Brother Sam Sun",
+      "Brother Wang",
+      "Pastor Chuang",
+      "向蕭錫恩長老",
+      "許明遠牧師",
+      "請莊雅堂牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "2 Kings 4:42-44"
+    ],
+    "people_ref_count": 8,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-08-04",
+    "source_url": "https://gstpc.org/home/08-04-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "30c2dbd540ec8f88e72793b484d55c2a37f499a1ee9418ba571ed92471043887",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Sam Sun",
+      "Pastor Chuang",
+      "上午十點姊妹",
+      "向蕭錫恩長老",
+      "許明遠牧師",
+      "請莊雅堂牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "Exodus 16:2-4"
+    ],
+    "people_ref_count": 7,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-08-11",
+    "source_url": "https://gstpc.org/home/08-11-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "c6ea462940de88bd6a628e82bc1d9f77f0cbc2805061e7a1c4d31d5b240df73d",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Chuang",
+      "上午十點姊妹",
+      "向蕭錫恩長老",
+      "許明遠牧師",
+      "請莊雅堂牧師"
+    ],
+    "scripture_refs": [
+      "Psalm 34:1-8"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-08-18",
+    "source_url": "https://gstpc.org/home/08-18-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "77c3a04599882128c1c837f52569332f2bd41cf9db59259daf9cbbead554c05e",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Ku",
+      "Brother Sam Sun",
+      "Brother Wang",
+      "Pastor Chuang",
+      "莊雅堂牧師",
+      "許明遠牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "1 Kings 3:3-14"
+    ],
+    "people_ref_count": 7,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-08-25",
+    "source_url": "https://gstpc.org/home/08-25-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "abe5bbcfb131937c0d6d4ad50fccefb9d90d53f39183aa8a678b8711f3f18b1b",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Ku",
+      "Brother Sam Sun",
+      "Brother Wang",
+      "Pastor Chuang",
+      "Rev. Chuang",
+      "莊雅堂牧師",
+      "請莊雅堂牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "2 Timothy 3:16-17",
+      "Isaiah 59:21",
+      "John 6:63"
+    ],
+    "people_ref_count": 8,
+    "scripture_ref_count": 3
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-09-08",
+    "source_url": "https://gstpc.org/home/09-08-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "53b4ec2883424a0a185d62b5e24bb9bd62ac9814c9e8d5a2268087e1ed7d74fd",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Ku",
+      "Brother Sam Sun",
+      "Brother Wang",
+      "Rev. Hsieh",
+      "會中牧師",
+      "會謝信光牧師",
+      "本會許牧師",
+      "許明遠牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "Proverbs 22:1-2"
+    ],
+    "people_ref_count": 9,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-09-15",
+    "source_url": "https://gstpc.org/home/09-15-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "8988207b19f8eb0091c979e2ed62e1a29932bb838d23deb9bec7299b8458db00",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Ku",
+      "Brother Sam Sun",
+      "Brother Wang",
+      "Pastor Frank Hsieh",
+      "Rev. Frank Hsieh",
+      "會中牧師",
+      "會謝信光牧師",
+      "本會許牧師",
+      "謝信光牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "Luke 12:22-25"
+    ],
+    "people_ref_count": 10,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-09-22",
+    "source_url": "https://gstpc.org/home/09-22-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "f1bb41fe65da2784289e2dcd88cf50509fc89d17d6986b5e506f541b5230acfa",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Ku",
+      "Brother Sam Sun",
+      "Brother Wang",
+      "會中牧師",
+      "活動許多弟兄",
+      "許明遠牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "Psalm 1:1-6"
+    ],
+    "people_ref_count": 7,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-09-29",
+    "source_url": "https://gstpc.org/home/09-29-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "ae43a3329d9372c77e46c9c8eed00a688c947401c7241099f6bf332b9004da8e",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Ku",
+      "Brother Sam Sun",
+      "Brother Wang",
+      "會中牧師",
+      "許明遠牧師",
+      "請現任長老",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "James 5:12-20"
+    ],
+    "people_ref_count": 7,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-10-06",
+    "source_url": "https://gstpc.org/home/10-06-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "d0d45c53ed07606d88a89bb3fc8c726a76cb254a050adaae800405717ba2d0be",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Ku",
+      "Brother Wang",
+      "會中牧師",
+      "許明遠牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "Psalm 8:1-9"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-10-13",
+    "source_url": "https://gstpc.org/home/10-13-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "9acb2da86034c380ea1e25d501101cb930a01c005a6f56036f110cfcb76c005a",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Peter",
+      "Sister Angela",
+      "後一次的姊妹",
+      "會中牧師",
+      "許明遠牧師",
+      "請儘速向牧師"
+    ],
+    "scripture_refs": [
+      "Hebrews 4:12-16"
+    ],
+    "people_ref_count": 6,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-10-20",
+    "source_url": "https://gstpc.org/home/10-20-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "40e144fbce9d4ea9f74fbe630c1c1e7627da6486076a4b955db9c541d0da839c",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Ku",
+      "Brother Wang",
+      "會中牧師",
+      "許明遠牧師",
+      "請儘速向牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "Matthew 28:18-20"
+    ],
+    "people_ref_count": 6,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-10-27",
+    "source_url": "https://gstpc.org/home/10-27-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "968e010aaf6bf214d753361dd4c7b6bca89b95c814b91d25b42278577aa4ebbc",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "接納牧師",
+      "會建議為牧師",
+      "王子銘弟兄",
+      "許明遠牧師",
+      "請儘速向牧師"
+    ],
+    "scripture_refs": [
+      "Ruth 2:1"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-11-03",
+    "source_url": "https://gstpc.org/home/11-03-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "566ef0ce2a310ec5a9d37c22621b7a24b846a57d73b3721a77f34374ff0abd77",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Ku",
+      "Brother Wang",
+      "許明遠牧師",
+      "請儘速向牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "Deuteronomy 6:1-9"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-11-10",
+    "source_url": "https://gstpc.org/home/11-10-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "5a3d27bfab5bda7d1d333fbb5f74befb4e6c057fb5ff5d5b31aa4100543e4a16",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Ku",
+      "Brother Wang",
+      "許明遠牧師",
+      "請儘速向牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "1 Kings 17:8-16"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-11-17",
+    "source_url": "https://gstpc.org/home/11-17-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "9866a668fdccc9ad88684a2922e00ebf3921d1a384af784f27082b096d50cfe2",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Ku",
+      "Brother Wang",
+      "許明遠牧師",
+      "請儘速向牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "Psalm 16:1-11"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-11-24",
+    "source_url": "https://gstpc.org/home/11-24-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "554427e84fab710edfeac5d10769b64ac8c27180dbb7b84afd62ebc42898cb4f",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Ku",
+      "Brother Wang",
+      "許明遠牧師",
+      "請儘速向牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "Luke 17:11-19"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-12-01",
+    "source_url": "https://gstpc.org/home/12-01-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "4ea4a69bab521937d010d793bcf50d2b7210cbccb1e5980f2e6652f669b6559c",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "南灣長老",
+      "許明遠牧師",
+      "請儘速向牧師",
+      "邀請第一長老"
+    ],
+    "scripture_refs": [
+      "1 Thessalonians 3:9-13"
+    ],
+    "people_ref_count": 4,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-12-08",
+    "source_url": "https://gstpc.org/home/12-08-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "934a5cd24baa6f42cd669b23e868b99576ed7ae477623c011998f0ebaa456922",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "南灣長老",
+      "許明遠牧師",
+      "邀請第一長老"
+    ],
+    "scripture_refs": [
+      "Malachi 3:1-4"
+    ],
+    "people_ref_count": 3,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-12-15",
+    "source_url": "https://gstpc.org/home/12-15-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "20fb65751814fbc3f727c6a6e91f27f7db258e4e9eb651e2d947c60244cb5073",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "南灣長老",
+      "許明遠牧師",
+      "邀請第一長老",
+      "鄧淑貞長老",
+      "陳夏蓮長老"
+    ],
+    "scripture_refs": [
+      "Isaiah 12:1-6"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-12-22",
+    "source_url": "https://gstpc.org/home/12-22-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "368984039929e5cd3e90347124f09480825b270a9332bfd486e885e85ba90088",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Ku",
+      "Brother Wang",
+      "Pastor Hsieh",
+      "許明遠牧師",
+      "請謝信生牧師",
+      "鄧淑貞長老",
+      "陳夏蓮長老"
+    ],
+    "scripture_refs": [
+      "Matthew 1:18-23"
+    ],
+    "people_ref_count": 7,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2024/gstpc-bulletin-2024-12-29",
+    "source_url": "https://gstpc.org/home/12-29-2024-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "fdcaae055614aa77787d5bcb95890711f29caf6ba8a93ce06bf47e1103f96c12",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Ku",
+      "Brother Wang",
+      "Rev. Johnson Hsieh",
+      "往洛杉磯長老",
+      "日謝信生牧師",
+      "督教會的牧師",
+      "謝信生牧師",
+      "鄧淑貞長老",
+      "陳夏蓮長老"
+    ],
+    "scripture_refs": [
+      "John 5:1-14"
+    ],
+    "people_ref_count": 9,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-01-05",
+    "source_url": "https://gstpc.org/home/01-05-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "0ad7d259610fdf64ecdbaae46333c90a876966a8126930fb6f2b504e5d3f8421",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Ku",
+      "Brother Wang",
+      "將由牧師",
+      "許明遠牧師",
+      "鄧淑貞長老",
+      "陳夏蓮長老"
+    ],
+    "scripture_refs": [
+      "Jeremiah 31:7-14"
+    ],
+    "people_ref_count": 6,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-01-12",
+    "source_url": "https://gstpc.org/home/01-12-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "645471e39be0416013c2fb69a151da4f8ffca72ed0a048e4d9d22b41aa2a7d35",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Ku",
+      "Brother Wang",
+      "將由牧師",
+      "許明遠牧師",
+      "鄧淑貞長老",
+      "陳夏蓮長老"
+    ],
+    "scripture_refs": [
+      "Isaiah 43:1-7",
+      "Luke 3:15-17"
+    ],
+    "people_ref_count": 6,
+    "scripture_ref_count": 2
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-01-19",
+    "source_url": "https://gstpc.org/home/01-19-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "45b68cf0bf127cf2c2cf992604a77c00701e72e2c1ea54f08f1e7db10acb2251",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Ku",
+      "Brother Wang",
+      "將由牧師",
+      "許明遠牧師",
+      "鄧淑貞長老",
+      "陳夏蓮長老"
+    ],
+    "scripture_refs": [
+      "Isaiah 62:1-5"
+    ],
+    "people_ref_count": 6,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-01-26",
+    "source_url": "https://gstpc.org/home/01-26-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "9074926f652379d9c672a2377255ceb31f81515eef04e2695b811c02b66c7540",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "各位在任長老",
+      "請現任長老"
+    ],
+    "scripture_refs": [
+      "Luke 16:1-13"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-02-02",
+    "source_url": "https://gstpc.org/home/02-02-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "54fe780593897391dc1aaa59f7fa3951e394e97a6a48dac392d807f08bf4b102",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Ku",
+      "學的時間牧師",
+      "許明遠牧師",
+      "請現任長老",
+      "鄧淑貞長老",
+      "陳夏蓮長老"
+    ],
+    "scripture_refs": [
+      "Jeremiah 1:4-10"
+    ],
+    "people_ref_count": 6,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-02-09",
+    "source_url": "https://gstpc.org/home/02-09-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "91964698a00f00edc5ce7d7f6f6617d85efb1e6deda4460cdd55859cf5ccbf07",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Ku",
+      "Brother Wang",
+      "許明遠牧師",
+      "鄧淑貞長老",
+      "陳夏蓮長老"
+    ],
+    "scripture_refs": [
+      "Luke 5:1-11"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-02-16",
+    "source_url": "https://gstpc.org/home/02-16-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "29f3423f9e54f300a21daba4c441ac14267dc484f027c48d3f1329fb2ea52c31",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Ku",
+      "Brother Wang",
+      "王子銘弟兄",
+      "許明遠牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "Hebrews 4:1-11"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-02-23",
+    "source_url": "https://gstpc.org/home/02-23-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "68f1ff5426a5ad37afb13d7c170a752b2a7144daf6aa3dfaf9a833282597f544",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Ku",
+      "Brother Wang",
+      "上帝保守牧師",
+      "許明遠牧師",
+      "請黃德利牧師",
+      "鄧淑貞長老",
+      "黃德利牧師"
+    ],
+    "scripture_refs": [
+      "Psalm 37:1-11"
+    ],
+    "people_ref_count": 7,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-03-02",
+    "source_url": "https://gstpc.org/home/03-02-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "0d69bc681810dfdb71666397aa43aadc145beceeaabbd47b842b444b2f526a21",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Ku",
+      "Brother Wang",
+      "上帝保守牧師",
+      "上帝祝福牧師",
+      "教會主任牧師",
+      "許健全牧師",
+      "許明遠牧師",
+      "謝黃德利牧師",
+      "鄧淑貞長老",
+      "黃德利牧師"
+    ],
+    "scripture_refs": [
+      "Luke 19:1-10"
+    ],
+    "people_ref_count": 10,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-03-09",
+    "source_url": "https://gstpc.org/home/03-09-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "4dca8ca9713e7c3836be0e4f30eb4ffb543bfa50f0412d2e6e59490240583b26",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Ku",
+      "Brother Wang",
+      "Pastor Wang",
+      "上帝保守牧師",
+      "上帝祝福牧師",
+      "基諾教會牧師",
+      "教會主任牧師",
+      "許健全牧師",
+      "許明遠牧師",
+      "請王光智牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "John 17:13-19"
+    ],
+    "people_ref_count": 11,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-03-16",
+    "source_url": "https://gstpc.org/home/03-16-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "84ec63f40bb1a17617fa1d99965c163994267d2a330a34d9b69f4903ad60efc9",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Ku",
+      "Brother Wang",
+      "Rev. Wang",
+      "上帝保守牧師",
+      "上帝祝福牧師",
+      "感謝基諾長老",
+      "會王光智牧師",
+      "王光智牧師",
+      "許明遠牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "Mark 4:35-40"
+    ],
+    "people_ref_count": 10,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-03-23",
+    "source_url": "https://gstpc.org/home/03-23-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "190fff13996b820d5634ac62594d4bcb52e79b9df356981251c8705dbb100f41",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Ku",
+      "Brother Wang",
+      "前向許牧師",
+      "許明遠牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "2 Corinthians 4:7-10",
+      "Romans 5:3-5"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 2
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-03-30",
+    "source_url": "https://gstpc.org/home/03-30-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "ea9cce1d099cc9ba0611764ce485029560069e093417f59e9ede0bdb45a24cdd",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Rev. Li-Shu Huang",
+      "會黃力書牧師",
+      "柑縣長老",
+      "治周崑滬牧師",
+      "許明遠牧師",
+      "邀請孫牧師",
+      "鄧淑貞長老"
+    ],
+    "scripture_refs": [
+      "2 Corinthians 5:16-21"
+    ],
+    "people_ref_count": 7,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-04-06",
+    "source_url": "https://gstpc.org/home/04-06-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "bcb0c99b6f8e866663591ef073050869e63e46e7e4a21e9d9ae848ab7c7d2957",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Rev. Li-Shu Huang",
+      "會黃力書牧師",
+      "柑縣長老",
+      "許明遠牧師",
+      "邀請孫牧師"
+    ],
+    "scripture_refs": [
+      "Isaiah 43:16-21"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-04-13",
+    "source_url": "https://gstpc.org/home/04-13-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "38e0e11652d439256260d372629532b3f70991cca4efbaaa2bb0ad10cf8a9e9b",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師",
+      "邀請孫牧師",
+      "黃德利牧師"
+    ],
+    "scripture_refs": [
+      "Isaiah 50:4"
+    ],
+    "people_ref_count": 3,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-04-27",
+    "source_url": "https://gstpc.org/home/04-27-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "ff3c5392a76642d223701838c83175ac573c33cff3eb64033745b7c0e86b29b9",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Ku",
+      "Brother Wang",
+      "Rev. Chou",
+      "治周崑滬牧師",
+      "許明遠牧師",
+      "鄧淑貞長老",
+      "黃德利牧師"
+    ],
+    "scripture_refs": [
+      "John 20:19"
+    ],
+    "people_ref_count": 7,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-05-04",
+    "source_url": "https://gstpc.org/home/05-04-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "d074cc259fead6076dc3aa60eff75c57951bbabc992ca0cc38d0b26b861d6465",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother YuehHan Lu",
+      "呂約翰傳道",
+      "許明遠牧師",
+      "謝呂約翰傳道",
+      "黃德利牧師"
+    ],
+    "scripture_refs": [
+      "Matthew 25:14-30"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-05-11",
+    "source_url": "https://gstpc.org/home/05-11-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "5656b32921f77ba7bf17a0b60d8ab72e23a818fb1374ea7b6419dbf7f2eabf4c",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Rev. Chou",
+      "治周崑滬牧師",
+      "祝黃德利牧師",
+      "許明遠牧師",
+      "鄧淑貞長老",
+      "黃德利牧師"
+    ],
+    "scripture_refs": [
+      "Matthew 15:21-28"
+    ],
+    "people_ref_count": 6,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-05-18",
+    "source_url": "https://gstpc.org/home/05-18-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "d25b98e58e86f7670c65b6fc490cb7cf303b6ca60752bfbaf5cff116bf5beefb",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Ku",
+      "Brother Wang",
+      "Rev. Chou",
+      "治周崑滬牧師",
+      "祝黃德利牧師",
+      "者攤位的弟兄",
+      "蘇子獻弟兄",
+      "鄧淑貞長老",
+      "黃德利牧師"
+    ],
+    "scripture_refs": [
+      "John 4:23"
+    ],
+    "people_ref_count": 9,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-06-01",
+    "source_url": "https://gstpc.org/home/06-01-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "f60440fc89019c6e8cecf1c75fc14007690637b30609e2c871de889c5a7368f9",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Chen",
+      "員陳南州牧師",
+      "牧谷長老",
+      "許明遠牧師",
+      "請陳南州牧師"
+    ],
+    "scripture_refs": [
+      "Psalm 2:1-12"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-06-08",
+    "source_url": "https://gstpc.org/home/06-08-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "3cc0105d84b674390924f2b462de79aa64fc4c47b3ee0742b406108d7888fc32",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Chen",
+      "向邱瑜嫩長老",
+      "員陳南州牧師",
+      "許明遠牧師",
+      "請陳南州牧師"
+    ],
+    "scripture_refs": [
+      "John 14:8"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-06-15",
+    "source_url": "https://gstpc.org/home/06-15-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "6d18ba3c6bd31325af7b4b925bb54e68b5ddd685b15e4f1b348a92812fc2fa29",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Chen",
+      "向邱瑜嫩長老",
+      "員陳南州牧師",
+      "許明遠牧師",
+      "請陳南州牧師"
+    ],
+    "scripture_refs": [
+      "Matthew 3:13-17"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-06-22",
+    "source_url": "https://gstpc.org/home/06-22-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "886260f881921528f279c89c349f45f322345019202154a0bf2225c912c06105",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Chen",
+      "員陳南州牧師",
+      "許明遠牧師",
+      "請陳南州牧師"
+    ],
+    "scripture_refs": [
+      "Isaiah 65:1-9"
+    ],
+    "people_ref_count": 4,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-06-29",
+    "source_url": "https://gstpc.org/home/06-29-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "27830c5fb8f0c7e4793b812585d16f35048b05d32e5bb8ef2a95d33b7d23a349",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Sister Victoria Shen",
+      "王子銘弟兄"
+    ],
+    "scripture_refs": [
+      "Judges 3:12-23"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-07-06",
+    "source_url": "https://gstpc.org/home/07-06-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "7e991a20b49cafe6f49282ded9376357fca6845c1d322c9759be70911d34e2db",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Rev. Chen",
+      "恩惠長老",
+      "者陳瑞騰牧師",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [],
+    "people_ref_count": 4,
+    "scripture_ref_count": 0
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-07-13",
+    "source_url": "https://gstpc.org/home/07-13-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "118107f6f895eebb6577a2d04e5c02f96cdf1f66286eaabc50ca6fd7a7abfb59",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Chang",
+      "Brother Frank Lin",
+      "張錦峰弟兄"
+    ],
+    "scripture_refs": [],
+    "people_ref_count": 3,
+    "scripture_ref_count": 0
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-07-20",
+    "source_url": "https://gstpc.org/home/07-20-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "3157aeb108bc0badc73b20ad3ebaab1c60bdfc2aa7175e99f0e1809b7cb93fd2",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Chung",
+      "台美基督長老",
+      "許明遠牧師",
+      "請鍾國義牧師",
+      "需要請與長老"
+    ],
+    "scripture_refs": [
+      "Psalm 15:1-5"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-07-27",
+    "source_url": "https://gstpc.org/home/07-27-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "b81e5472ea5c2674721f2eb0763ce526a76ad8fc82d41ebe953fc16c6f92cd57",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Chang",
+      "Rev. Kuo-Yi Chung",
+      "台美基督長老",
+      "張錦峰弟兄",
+      "許明遠牧師",
+      "謝鍾國義牧師",
+      "鍾國義牧師",
+      "需要請與長老"
+    ],
+    "scripture_refs": [
+      "Philippians 4:8-9"
+    ],
+    "people_ref_count": 8,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-08-03",
+    "source_url": "https://gstpc.org/home/08-03-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "7def7e4252c2242309b819e2f56eb865c591e0ebea117ee92d7c27e60f54c464",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother George Chang",
+      "張錦峰弟兄",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Ecclesiastes 1:2"
+    ],
+    "people_ref_count": 3,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-08-10",
+    "source_url": "https://gstpc.org/home/08-10-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "576230be1ca638e2103582234ade5d3185ab95dc5317f6986888e6d7c38daf59",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "教學歡迎弟兄",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "1 Samuel 3:1-10"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-08-17",
+    "source_url": "https://gstpc.org/home/08-17-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "f841decf554de7459c30ccc107a303aff8c9e715c9e199ba66f58315e4d2775d",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Sun",
+      "員孫雅各牧師",
+      "單位邀請弟兄",
+      "經報名的弟兄",
+      "許明遠牧師",
+      "讓弟兄姊妹"
+    ],
+    "scripture_refs": [
+      "Jeremiah 23:23-29"
+    ],
+    "people_ref_count": 6,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-08-24",
+    "source_url": "https://gstpc.org/home/08-24-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "2aaa8b3bbe417dc9294ef66ccd0fbf0ba0eeb3fe11fd2b25ba5c66b80b8f45a7",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Sun",
+      "員孫雅各牧師",
+      "單位邀請弟兄",
+      "為弟兄姊妹",
+      "許明遠牧師",
+      "讓弟兄姊妹"
+    ],
+    "scripture_refs": [
+      "Luke 13:10-17"
+    ],
+    "people_ref_count": 6,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-08-31",
+    "source_url": "https://gstpc.org/home/08-31-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "c90d22e3dbf21a3c42c2e7bd088db40d11d9fca5139003277d50e3be99d9c6f5",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Sun",
+      "員孫雅各牧師",
+      "單位邀請弟兄",
+      "為弟兄姊妹",
+      "許明遠牧師",
+      "邀請弟兄姊妹"
+    ],
+    "scripture_refs": [
+      "Psalm 103:1-8"
+    ],
+    "people_ref_count": 6,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-09-07",
+    "source_url": "https://gstpc.org/home/09-07-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "b8c7d4a1a4026e26f1f4e6c4bcaae57ca464d671273de1a60692b319905349ca",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Ku",
+      "Pastor Sun",
+      "員孫雅各牧師",
+      "為弟兄姊妹",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Nehemiah 1:1-11"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-09-14",
+    "source_url": "https://gstpc.org/home/09-14-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "46946bb3d5c96c79e46e5f97b3c068e1ce38049cc37140cc8a858f697199b388",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Sun",
+      "員孫雅各牧師",
+      "為弟兄姊妹",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "1 Timothy 2:1-7"
+    ],
+    "people_ref_count": 4,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-09-21",
+    "source_url": "https://gstpc.org/home/09-21-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "a25afbcee4af3a9cea5aac956f92989f3e50b57202fd841175a0fbc2c957ef80",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Rev. Liu",
+      "會劉炳熹牧師",
+      "為弟兄姊妹",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Luke 16:1"
+    ],
+    "people_ref_count": 4,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-09-28",
+    "source_url": "https://gstpc.org/home/09-28-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "19f702710224aede416a55bb3f6b2a4da407dc2acb5c2be5b1229a202f8eb139",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Chang",
+      "Rev. Liu",
+      "劉炳熹牧師",
+      "帝祝福劉牧師",
+      "教會張莫牧師",
+      "為弟兄姊妹",
+      "請弟兄姊妹",
+      "謝劉炳熹牧師"
+    ],
+    "scripture_refs": [
+      "Romans 1:1-17"
+    ],
+    "people_ref_count": 8,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-10-05",
+    "source_url": "https://gstpc.org/home/10-05-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "7f82f972634f4107ba9b10cc6fb16cca7bdb743c8274590199f869089bb03636",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Chang",
+      "Rev. Chang",
+      "住民建新長老",
+      "張莫牧師",
+      "會的張莫牧師",
+      "為弟兄姊妹"
+    ],
+    "scripture_refs": [
+      "Mark 2:21-22"
+    ],
+    "people_ref_count": 6,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-10-12",
+    "source_url": "https://gstpc.org/home/10-12-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "2b38095daf3dac18642e7a217f473bc6cd27ccb18f1f60312dacb4dac8dbd612",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "或邱瑜嫩長老",
+      "為弟兄姊妹",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Colossians 1:28-29",
+      "Psalm 92:12-15"
+    ],
+    "people_ref_count": 3,
+    "scripture_ref_count": 2
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-10-19",
+    "source_url": "https://gstpc.org/home/10-19-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "990e3f10c72a94332e30e8e00ae2ded9ec6998047a0751b213bf8b6ea0769ffa",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "或邱瑜嫩長老",
+      "為弟兄姊妹",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Romans 10:14-15"
+    ],
+    "people_ref_count": 3,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-10-26",
+    "source_url": "https://gstpc.org/home/10-26-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "87286352d694a12c1309383f81a75a66ca095411d7d03527bff18be211645ab0",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Jeremy Wang",
+      "Rev. James Yeh",
+      "或邱瑜嫩長老",
+      "日葉君勇牧師",
+      "為弟兄姊妹",
+      "王子銘弟兄",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "1 Thessalonians 4:9-12"
+    ],
+    "people_ref_count": 7,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-11-02",
+    "source_url": "https://gstpc.org/home/11-02-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "954591f2b9f6740f7f0c311cbe44477aaf591574d91b93e9a1c32b1d3085c917",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Rev. James Yeh",
+      "Rev. Sen-Yuan Su",
+      "後葉君勇牧師",
+      "會蘇森源牧師",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "2 Thessalonians 1:1-4"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-11-09",
+    "source_url": "https://gstpc.org/home/11-09-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "8ee3dd0b18e70d2dfdedb902dfe5b06faf012d46a44607bc153fb2b01bfb89a6",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Rev. Sen-Yuan Su",
+      "會蘇森源牧師",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Haggai 2:1-9"
+    ],
+    "people_ref_count": 3,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-11-16",
+    "source_url": "https://gstpc.org/home/11-16-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "65d8e3442598bdc274c1e00a36553b6520295a700bc0e3c535e1fbaeaf4ce313",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Rev. Sen-Yuan Su",
+      "會蘇森源牧師",
+      "蘇森源牧師"
+    ],
+    "scripture_refs": [
+      "Luke 17:11-19"
+    ],
+    "people_ref_count": 3,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-11-23",
+    "source_url": "https://gstpc.org/home/11-23-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "d4dc4361f841b27ee613447b2805cee090718b26baa2ce4a6a6b77a4d86325fc",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Wendy Tamaji",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "1 Thessalonians 5:16-18"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-11-30",
+    "source_url": "https://gstpc.org/home/11-30-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "accd5e54b0ef49138d58fb4de896f99a9dd5c356cb335895f2dcc8eb56624598",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Wendy Tajima",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Isaiah 2:1-5"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-12-07",
+    "source_url": "https://gstpc.org/home/12-07-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "0d298c3456a52897e97ba3f48c7f08484c882ce41d9afdcc8e747977e7d4b7a5",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Pastor Wendy Tajima",
+      "Rev. Wendy Tajima"
+    ],
+    "scripture_refs": [
+      "Isaiah 11:1-10",
+      "Matthew 3:1-12"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 2
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-12-14",
+    "source_url": "https://gstpc.org/home/12-14-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "d14dabe534763712687b647128176163403c2a5c0b22959303001c0289a6477f",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "上帝帶領弟兄",
+      "束後在許牧師",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Isaiah 35:1-10"
+    ],
+    "people_ref_count": 3,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-12-21",
+    "source_url": "https://gstpc.org/home/12-21-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "e78dd3f04163673c8a5824fff6db88841e0feda88d11bcf8a22de4258c7e3ef5",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師",
+      "謝黃德利牧師",
+      "黃德利牧師"
+    ],
+    "scripture_refs": [
+      "John 3:16"
+    ],
+    "people_ref_count": 3,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2025/gstpc-bulletin-2025-12-28",
+    "source_url": "https://gstpc.org/home/12-28-2025-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "b9e6291d5dbf37cb030d75b838f2f36488190533d52e5040a53cafb1bd449c46",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Jeremy Wang",
+      "王子銘弟兄",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Hebrews 5:11-14"
+    ],
+    "people_ref_count": 3,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2026/gstpc-bulletin-2026-01-04",
+    "source_url": "https://gstpc.org/home/01-04-2026-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "073ab5e67b7164b37dd35dffca50093ad062af56074fa22db7300b1332102ef4",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "新任長老",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Ephesians 1:3-14"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2026/gstpc-bulletin-2026-01-11",
+    "source_url": "https://gstpc.org/home/01-11-2026-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "d89a2fac2be56c13c93cc474bdfc7db2ec72c0a36106c666d9d6a99b98f53a0c",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Darren",
+      "Brother Frank Lin",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Isaiah 42:1-9"
+    ],
+    "people_ref_count": 3,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2026/gstpc-bulletin-2026-01-18",
+    "source_url": "https://gstpc.org/home/01-18-2026-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "b9f1e927e5c9a02d558cccc8c4454da23dab35c4eaa7934ab4d5649b2ddfaa38",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Darren",
+      "Brother Frank Lin"
+    ],
+    "scripture_refs": [
+      "Deuteronomy 1:19-46"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2026/gstpc-bulletin-2026-01-25",
+    "source_url": "https://gstpc.org/home/01-25-2026-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "37ad69cf48fa3865e9b82f60c7f72ac52a973cdd9500dde35333623b3aa7af8c",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Sister Chen",
+      "Sister Wang",
+      "王孜敏姊妹",
+      "蕭錫恩長老",
+      "親蕭廖足姊妹",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Matthew 4:12-23"
+    ],
+    "people_ref_count": 6,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2026/gstpc-bulletin-2026-02-01",
+    "source_url": "https://gstpc.org/home/02-01-2026-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "414cf279fbcd7ecf6eef648aaf88c3c7ef8327ef65eebda52ff8e023a94e1e0e",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Micah 6:1-8"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2026/gstpc-bulletin-2026-02-08",
+    "source_url": "https://gstpc.org/home/02-08-2026-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "0b5749f08569e91301ad9078bfa9e2fdcadbac8cb2fda6a00fd1066e3def00f1",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Psalm 112:1-10"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2026/gstpc-bulletin-2026-02-15",
+    "source_url": "https://gstpc.org/home/02-15-2026-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "661342c70aea332fc39732d81f5613ccb1e5ee46eb44cefad4a38946b416fe0f",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "日黃德利牧師",
+      "許明遠牧師",
+      "黃德利牧師"
+    ],
+    "scripture_refs": [
+      "Matthew 17:1-9"
+    ],
+    "people_ref_count": 3,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2026/gstpc-bulletin-2026-02-22",
+    "source_url": "https://gstpc.org/home/02-22-2026-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "638b2eb1991ab1445bc8b2bb0fe3fa40cd39c646c06219eb00ecdec88a64089b",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師",
+      "謝黃德利牧師",
+      "黃德利牧師"
+    ],
+    "scripture_refs": [
+      "Psalm 1:1-6"
+    ],
+    "people_ref_count": 3,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2026/gstpc-bulletin-2026-03-01",
+    "source_url": "https://gstpc.org/home/03-01-2026-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "522426599786153f401c55573b5e758dd95673db5657a60414afa0b733b69d28",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Psalm 121:1-8"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2026/gstpc-bulletin-2026-03-08",
+    "source_url": "https://gstpc.org/home/03-08-2026-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "040f5bc52a9ab386c4a74d412f65d1229408d0256773d8969817aa52600ef8aa",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Rev. Kao-Fang Yeh",
+      "許惲哲傳道",
+      "許明遠牧師",
+      "請葉高芳牧師",
+      "謝許惲哲傳道"
+    ],
+    "scripture_refs": [],
+    "people_ref_count": 5,
+    "scripture_ref_count": 0
+  },
+  {
+    "bulletin": "gstpc-bulletins/2026/gstpc-bulletin-2026-03-15",
+    "source_url": "https://gstpc.org/home/03-15-2026-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "2fcb03c746e2db0f6e8f38e4f0980b651025fb4e54f53317e5fe3f16d1e3388c",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Rev. Hsieh",
+      "Rev. KaoFang Yeh",
+      "期不適的弟兄",
+      "葉高芳牧師",
+      "許明遠牧師",
+      "請謝建國牧師",
+      "謝葉高芳牧師"
+    ],
+    "scripture_refs": [
+      "Proverbs 24:3-4"
+    ],
+    "people_ref_count": 7,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2026/gstpc-bulletin-2026-03-22",
+    "source_url": "https://gstpc.org/home/03-22-2026-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "1f386ff896043a71ae29d7d3b42590594a440d90781507d04803b4b57b80681c",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Rev. Chien-Kou Hsieh",
+      "Rev. Chien-Kou Shieh",
+      "許明遠牧師",
+      "謝建國牧師",
+      "謝謝建國牧師"
+    ],
+    "scripture_refs": [
+      "Genesis 48:15",
+      "Hosea 12:2-6"
+    ],
+    "people_ref_count": 5,
+    "scripture_ref_count": 2
+  },
+  {
+    "bulletin": "gstpc-bulletins/2026/gstpc-bulletin-2026-03-29",
+    "source_url": "https://gstpc.org/home/03-29-2026-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "e74610fe9d37025675f33a65497a9d1fd57cf185b3bff50dbebab3dc3e52189f",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Isaiah 50:4",
+      "Philippians 2:5-11"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 2
+  },
+  {
+    "bulletin": "gstpc-bulletins/2026/gstpc-bulletin-2026-04-05",
+    "source_url": "https://gstpc.org/home/04-05-2026-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "17aa9f86c5a5c28fb57b8adee70379d92af42afc62a3bb73f886e13b8d732692",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "期不適的弟兄",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "John 20:1-18"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2026/gstpc-bulletin-2026-04-12",
+    "source_url": "https://gstpc.org/home/04-12-2026-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "7900179a4310934b412bea5cdcbf50adce0551aefdf773d86fc0068cf3ae812b",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "1 Peter 1:3-9"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2026/gstpc-bulletin-2026-04-19",
+    "source_url": "https://gstpc.org/home/04-19-2026-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "d0cc139d972ede60056974f046823c35a9fc1e584c20243488c86653d3cecc09",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "1 Peter 1:17-25"
+    ],
+    "people_ref_count": 1,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2026/gstpc-bulletin-2026-04-26",
+    "source_url": "https://gstpc.org/home/04-26-2026-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "f4313d548f456e743e5dbbb53ea0bdcd0433441455ec619a4e351b126302bc9f",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師",
+      "請弟兄姊妹"
+    ],
+    "scripture_refs": [
+      "1 Peter 2:18-25"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2026/gstpc-bulletin-2026-05-03",
+    "source_url": "https://gstpc.org/home/05-03-2026-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "7133657edddb1873008bbd5b1623de760e4a72bc4d53ed89d025b0f590c5268e",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "許明遠牧師",
+      "請弟兄姊妹"
+    ],
+    "scripture_refs": [
+      "1 Peter 2:2-10"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2026/gstpc-bulletin-2026-05-10",
+    "source_url": "https://gstpc.org/home/05-10-2026-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "782100b908d0c8eb326aecd96545ee6d2cba2e2e7a61aa438417b19bd4b2a54f",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "廳為所有姊妹",
+      "歡迎弟兄姊妹",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Proverbs 31:10"
+    ],
+    "people_ref_count": 3,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2026/gstpc-bulletin-2026-05-17",
+    "source_url": "https://gstpc.org/home/05-17-2026-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "e8eb94bf9483245dae0eb8e925889f3acb7f2a15fd888ccdee9a88a2a40b86b8",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "歡迎弟兄姊妹",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "1 Peter 4:12-19"
+    ],
+    "people_ref_count": 2,
+    "scripture_ref_count": 1
+  },
+  {
+    "bulletin": "gstpc-bulletins/2026/gstpc-bulletin-2026-05-24",
+    "source_url": "https://gstpc.org/home/05-24-2026-sunday-bulletin/",
+    "capture_date": "2026-05-27",
+    "source_hash_sha256": "75469729cd5d558b8cd7187e833fe2e2f8166b315a724ad8a73247f6126dde8c",
+    "extraction_version": "phase-e-v2",
+    "people_refs": [
+      "Brother Jeremy Wang",
+      "有需要的弟兄",
+      "歡迎弟兄姊妹",
+      "求神保守牧師",
+      "由王子銘弟兄",
+      "許明遠牧師"
+    ],
+    "scripture_refs": [
+      "Acts 2:1-4",
+      "John 20:19-23"
+    ],
+    "people_ref_count": 6,
+    "scripture_ref_count": 2
+  }
+]

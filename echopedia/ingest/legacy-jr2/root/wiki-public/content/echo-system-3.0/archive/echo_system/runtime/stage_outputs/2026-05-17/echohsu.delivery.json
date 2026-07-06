@@ -1,0 +1,28 @@
+{
+  "delivery_ready": true,
+  "blocked_reasons": [],
+  "channel": "line",
+  "recipient": "Leonard",
+  "message_markdown": "Good morning, Leonard. Echo System Morning Briefing — May 17, 2026. Health: 75/100 (improving). Autoloop crash loop resolved (120 restarts -> 1). Gateway stable, 0 restarts since May 12. ngrok tunnel operational across dashboard, SMS, LINE. Five cron jobs healthy. Attention needed: agent memory at 88-94% causing silent write failures (I-MEM-001), MCP server port 8090 not listening (I-MCP-002), vLLM timeout pattern emerging, docsync and videoforge stages blocked since May 16. Three implementation proposals approved: memory consolidation, vLLM staggering, MCP watchdog cron. No historical content this cycle — infrastructure recovery only. No video produced; VideoForge held at Historian media gate. Say the word and I'll route any stories, names, or photos through the pipeline.",
+  "public_summary": "Echo System completed a recovery cycle on May 17. The autoloop crash loop affecting operations since May 15 has been resolved. System services are stable. Agent memory capacity requires consolidation. Two pipeline stages remain blocked. No historical or cultural content was processed this cycle.",
+  "follow_up_actions": [
+    "Approve memory consolidation to reduce utilization below 70%",
+    "Investigate and unblock docsync (exit code 1, missing profile)",
+    "Investigate and unblock videoforge executor",
+    "Share historical content for pipeline processing",
+    "Optional: authorize infrastructure-themed video render"
+  ],
+  "source_refs": [
+    "system_pulse/SystemPulse.json (2026-05-17T06:43:39-07:00)",
+    "runtime/stage_outputs/2026-05-17/orchestrator.md",
+    "runtime/stage_outputs/2026-05-17/content.md",
+    "runtime/stage_outputs/2026-05-17/videoforge.md",
+    "runtime/stage_outputs/2026-05-17/sentinel.md",
+    "runtime/stage_outputs/2026-05-17/healer.md",
+    "runtime/stage_outputs/2026-05-17/evolver.md",
+    "live systemctl checks (2026-05-17T14:00 UTC)",
+    "ngrok healthz: https://bucked-diabetes-shucking.ngrok-free.dev/healthz"
+  ],
+  "valid": true,
+  "errors": []
+}

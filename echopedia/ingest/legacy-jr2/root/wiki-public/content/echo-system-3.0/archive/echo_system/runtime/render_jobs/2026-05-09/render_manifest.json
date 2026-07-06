@@ -1,0 +1,70 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-05-09T11:30:38.873742-07:00",
+  "executive_summary": "As of 2026-05-09 11:29 PT, the verified morning evidence shows hermes-gateway active, the public health endpoint returning ok, and both watchdog cron jobs healthy, but the autonomous loop remains degraded because a direct service check shows echo-autoloop inactive while the synthesized pulse still reports it active. Repeated warnings also show secret redaction disabled, creating exposure risk without confirmed leakage. No verified repair is present in the supplied evidence.",
+  "video_ready": false,
+  "script": "Scene 1: Open on a live operations board—gateway active, health endpoint green, watchdogs still running. Scene 2: Shift to the direct service check showing echo-autoloop inactive. Scene 3: Contrast that with the synthesized pulse still labeling the loop active, highlighting a source-of-truth conflict. Scene 4: Re-center on what is verified: ports 8079, 8080, and 8090 are listening, and both cron watchdogs last ran ok. Scene 5: Surface the quiet security warning—secret redaction is disabled, so exposure risk is present even though leakage is not confirmed. Scene 6: Close with disciplined restraint: access is up, autonomy is degraded, and no recovery is claimed without evidence.",
+  "scenes": [
+    {
+      "slug": "hook-access-layers-up",
+      "visual": "Dark operations dashboard with gateway status active, public health check marked ok, and two watchdog job indicators pulsing green.",
+      "voiceover": "This morning, the access layers held: the gateway stayed up, the public health check answered, and the watchdogs kept running."
+    },
+    {
+      "slug": "autoloop-break",
+      "visual": "Terminal close-up highlighting the direct service result: echo-autoloop inactive, with the rest of the screen dimmed.",
+      "voiceover": "But one direct check changed the story: the autonomous loop itself was inactive."
+    },
+    {
+      "slug": "truth-gap",
+      "visual": "Split screen between raw service output showing inactive and a synthesized pulse card showing active, with a subtle warning divider.",
+      "voiceover": "The evidence then split in two—raw service truth said inactive, while the synthesized pulse still claimed active."
+    },
+    {
+      "slug": "verified-foundations",
+      "visual": "Minimal terminal montage showing listeners on ports 8079, 8080, and 8090, plus cron jobs with last run ok.",
+      "voiceover": "Even so, the supporting foundations were visible: listening ports, healthy watchdog runs, and a reachable public path."
+    },
+    {
+      "slug": "security-caution",
+      "visual": "Amber warning text over gateway log lines referencing disabled secret redaction, without showing any actual secrets.",
+      "voiceover": "A second caution stayed in the background: secret redaction was disabled, raising exposure risk without proving disclosure."
+    },
+    {
+      "slug": "disciplined-close",
+      "visual": "Clean archival title card reading Evidence over assumption, with status labels: Gateway active, Health ok, Autoloop inactive by direct check.",
+      "voiceover": "So the verified briefing is disciplined and simple: core access is alive, autonomy is degraded, and no repair is claimed without evidence."
+    }
+  ],
+  "subtitle_text": "Gateway active. Public health ok. Echo-autoloop inactive by direct check. Secret redaction disabled warning present. No verified repair recorded.",
+  "asset_requirements": [
+    "Dark operations-dashboard background",
+    "Terminal-style overlays for service and health checks",
+    "Split-screen graphic for raw-check versus pulse conflict",
+    "Amber warning treatment for security caution",
+    "Calm neutral voiceover",
+    "Low ambient background music",
+    "On-screen labels for gateway, healthz, autoloop, cron jobs, and ports"
+  ],
+  "source_refs": [
+    "collected_at",
+    "checks.gateway_active",
+    "checks.gateway_status",
+    "checks.autoloop_active",
+    "checks.gateway_restarts_total",
+    "checks.cron_list",
+    "checks.ports",
+    "checks.disk_root",
+    "checks.public_healthz",
+    "issues",
+    "cautions",
+    "derived.disk_root_used_pct",
+    "derived.gateway_log_metrics.recent_warning_lines",
+    "pulse.overall_status",
+    "pulse.system_health_score",
+    "pulse.services.echo-autoloop.status",
+    "upstream_artifacts.historian",
+    "upstream_artifacts.archivist",
+    "upstream_artifacts.orchestrator"
+  ]
+}

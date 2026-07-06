@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-05-25T06:01:05.887319-07:00",
+  "executive_summary": "Verified morning checks (2026-05-25 PT) show hermes-gateway and echo-autoloop active with zero restarts in-window; system capacity is stable (root disk 70% used, moderate memory usage). The single explicitly confirmed issue is a missing public MCP watchdog cron. Public /healthz returned 404, which is path-level failure evidence only and not sufficient to assert full public outage.",
+  "video_ready": true,
+  "script": "At this morning’s verified snapshot, both core services are running: hermes-gateway and echo-autoloop are active, and each shows zero restarts in the same check window. Capacity remains workable, with root disk at seventy percent used and moderate memory utilization. The confirmed open issue is specific: the public MCP watchdog cron is missing. Public probing adds one more signal: slash healthz on the ngrok URL returned HTTP 404. That confirms a path-level mismatch or failure, but it does not prove full public service outage on its own. Bottom line: the platform is operating, one monitoring control is missing, and endpoint interpretation should remain scoped to verified evidence only.",
+  "scenes": [
+    {
+      "slug": "verified-service-state",
+      "visual": "Ops dashboard with timestamp and badges: hermes-gateway active, echo-autoloop active, restarts 0/0.",
+      "voiceover": "Morning verification shows both core services active, with zero restarts in this check window."
+    },
+    {
+      "slug": "capacity-snapshot",
+      "visual": "Simple resource panel: root disk 70 percent used, memory line showing 4096 total and 1292 used.",
+      "voiceover": "Capacity is stable: disk is at seventy percent utilization and memory remains moderate."
+    },
+    {
+      "slug": "confirmed-open-issue",
+      "visual": "Cron inventory list with a highlighted missing item marker for public MCP watchdog cron.",
+      "voiceover": "The explicitly confirmed issue is a missing public MCP watchdog cron."
+    },
+    {
+      "slug": "public-probe-boundary",
+      "visual": "Endpoint check card reading: ngrok /healthz returned 404, with a boundary note.",
+      "voiceover": "The public slash healthz probe returned 404, which is path-level evidence only, not proof of full outage."
+    },
+    {
+      "slug": "decision-posture",
+      "visual": "Split frame: Verified same-window checks on left, conflicting historical fields on right, with left side emphasized.",
+      "voiceover": "Use same-window live checks as decision truth until conflicting historical fields are reconciled."
+    }
+  ],
+  "subtitle_text": "Verified morning state: services active, zero restarts, one confirmed issue (missing public MCP watchdog cron), and /healthz=404 interpreted as path-level signal only.",
+  "asset_requirements": [
+    "16:9 master frame sequence with dark operations aesthetic",
+    "Consistent color coding: green for verified healthy signals, amber for risks, red only for confirmed failures",
+    "On-screen timestamp and metric overlays sourced from evidence values",
+    "Endpoint card visual for /healthz 404 with explicit scope disclaimer",
+    "Five-scene storyboard with lower-third captions aligned to voiceover beats"
+  ],
+  "source_refs": [
+    "evidence.collected_at",
+    "evidence.checks.utc_now.stdout",
+    "evidence.checks.gateway_active.stdout",
+    "evidence.checks.autoloop_active.stdout",
+    "evidence.checks.gateway_restarts_total.stdout",
+    "evidence.checks.autoloop_restarts_total.stdout",
+    "evidence.checks.disk_root.stdout",
+    "evidence.checks.memory.stdout",
+    "evidence.checks.cron_list.stdout",
+    "evidence.checks.ports.stdout",
+    "evidence.checks.public_healthz.stderr",
+    "evidence.issues[0]",
+    "evidence.derived.issue_count",
+    "evidence.upstream_artifacts.historian"
+  ]
+}

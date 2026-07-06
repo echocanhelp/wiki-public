@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "stage": "historian",
+  "timestamp": "2026-05-27T05:16:27.173379-07:00",
+  "artifact_path": "/root/echo_system/runtime/stage_outputs/2026-05-27/historian.md",
+  "status": "executed",
+  "success": true,
+  "blocked": false,
+  "actions_attempted": [],
+  "external_handles": [],
+  "verification": [
+    {
+      "method": "json_block_validation",
+      "ok": true,
+      "details": "Historian gate JSON parsed and validated"
+    }
+  ],
+  "warnings": [],
+  "errors": [],
+  "gate": {
+    "approved_for_public_reuse": true,
+    "approved_for_media": false,
+    "safe_facts": [
+      "At 2026-05-27T12:15:42+00:00, live checks reported hermes-gateway active and echo-autoloop active.",
+      "Live systemd show output reported hermes-gateway NRestarts=1 and echo-autoloop NRestarts=0.",
+      "Root filesystem usage check reported 76% used on /dev/loop0 (20G total, 4.7G free).",
+      "Socket check output showed listeners on 127.0.0.1:8080 and 0.0.0.0:8090.",
+      "Public probe to https://bucked-diabetes-shucking.ngrok-free.dev/healthz returned HTTP 404.",
+      "Cron listing showed five active scheduled jobs in the provided output.",
+      "Bundle-level issue list includes: public MCP watchdog cron missing.",
+      "Upstream orchestrator artifact records 1 issue and 1 caution with no evidenced auto-fixes."
+    ],
+    "blocked_claims": [
+      "echo-autoloop is currently in a deterministic crash loop",
+      "mcp-server port 8090 is not listening",
+      "ngrok healthz is OK for all upstreams",
+      "resource usage is 53% disk and 31% memory at current time",
+      "specific code-line root cause remains the active present-state fault"
+    ],
+    "source_gaps": [
+      "Fresh reconciled pulse required to resolve contradictions between pulse.services/resources and live checks.",
+      "Canonical public health endpoint/path contract definition is missing; only /healthz probe result is provided.",
+      "Current-cycle logs needed to confirm or refute historical crash-loop/root-cause claims.",
+      "Independent second-source validation for health score methodology and weighting is absent."
+    ],
+    "consent_notes": [
+      "No personal or community-sensitive PII is included in the approved facts.",
+      "Operational infrastructure identifiers (service names, port numbers, ngrok host) are present; publish only if infrastructure disclosure is authorized by policy."
+    ],
+    "valid": true,
+    "errors": []
+  }
+}

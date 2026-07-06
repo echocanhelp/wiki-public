@@ -1,0 +1,36 @@
+{
+  "approved_for_public_reuse": true,
+  "approved_for_media": false,
+  "safe_facts": [
+    "As of 2026-05-11 10:51 PT, echo-autoloop is evidenced active.",
+    "As of 2026-05-11 10:51 PT, hermes-gateway is evidenced active.",
+    "Live evidence shows gateway restart count 0 and autoloop restart count 0 at collection time.",
+    "SystemPulse.json records overall status as 'Autonomous loop active with cautions' with health score 90.",
+    "SystemPulse.json records two active cautions: secret redaction disabled and historical Telegram transient network errors with successful auto-reconnect.",
+    "EnvironmentOracle.json states the self-management loop currently includes sentinel, healer, evolver, and orchestrator.",
+    "EnvironmentOracle.json records a known gap that Archivist, Content, VideoForge, and EchoHsu are not yet wired into the systemd loop.",
+    "Same-day pulse evidence is present for sentinel, healer, evolver, and orchestrator, while downstream stage timestamps shown there remain from 2026-05-10."
+  ],
+  "blocked_claims": [
+    "The public /healthz endpoint is confirmed healthy.",
+    "The public MCP stack is confirmed externally healthy end-to-end.",
+    "A listener on port 8090 is confirmed active by the supplied live port evidence.",
+    "All downstream autonomous stages ran today.",
+    "Evolver timeout details are verified from the core evidence files alone.",
+    "Any repair or remediation succeeded today."
+  ],
+  "source_gaps": [
+    "Resolve conflict between pulse ngrok healthz=ok and live curl returning HTTP 500.",
+    "Resolve conflict between pulse mcp-server port 8090 and live listener evidence showing only 8079 and 8080.",
+    "If reusing the Evolver timeout claim, cite the underlying evolver artifact directly.",
+    "If claiming full loop continuity for downstream stages, provide same-day artifacts or receipts for Historian, Archivist, Content, VideoForge, and EchoHsu.",
+    "If claiming scheduler completeness, reconcile pulse cron summary with the fuller live cron list."
+  ],
+  "consent_notes": [
+    "No family or community personal-history content is present in the supplied evidence.",
+    "No consent evidence is supplied for converting telemetry into promotional or narrative media.",
+    "Operational telemetry may be archived as an internal verification memo, but it should not be framed as a personal or community story."
+  ],
+  "valid": true,
+  "errors": []
+}

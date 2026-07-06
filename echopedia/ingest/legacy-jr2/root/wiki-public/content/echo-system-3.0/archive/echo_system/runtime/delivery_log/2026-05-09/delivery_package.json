@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-05-09T11:31:51.736424-07:00",
+  "staged_only": true,
+  "delivery_ready": true,
+  "blocked_reasons": [],
+  "channel": "sms",
+  "recipient": "Leonard (+16268900234)",
+  "message_markdown": "Hi Leonard — here’s today’s Echo System status update for Saturday, May 9.\n\nCore access appears available: the gateway is running and the public health check responded normally. At the same time, one direct service check reported the autonomous loop as inactive, so today’s status should be treated as degraded rather than fully healthy.\n\nWe also have an active security caution in the logs related to secret redaction settings. I’m not seeing evidence of a confirmed leak or a verified repair in the materials provided.\n\nBottom line: core access is up, automation health is degraded, and no recovery should be claimed yet.",
+  "public_summary": "Core access is up and the public health check responded normally, but a direct service check reported the autonomous loop inactive. A security caution remains present, and no verified repair is evidenced.",
+  "follow_up_actions": [
+    "Re-run a fresh direct check for echo-autoloop before any all-clear message.",
+    "Resolve the conflict between the direct service result and the synthesized pulse status.",
+    "Address the active security warning before broader public distribution.",
+    "If sent now, keep the recipient-facing wording cautious and evidence-based."
+  ],
+  "source_refs": [
+    "checks.gateway_active",
+    "checks.public_healthz",
+    "checks.autoloop_active",
+    "issues",
+    "cautions",
+    "derived.gateway_log_metrics.recent_warning_lines",
+    "upstream_artifacts.orchestrator",
+    "upstream_artifacts.content",
+    "upstream_artifacts.videoforge",
+    "pulse.overall_status"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "valid": false,
+  "errors": [
+    "missing keys: ['missing JSON object']"
+  ],
+  "delivery_ready": false,
+  "blocked_reasons": [],
+  "channel": "",
+  "recipient": "",
+  "message_markdown": "",
+  "public_summary": "",
+  "follow_up_actions": [],
+  "source_refs": []
+}

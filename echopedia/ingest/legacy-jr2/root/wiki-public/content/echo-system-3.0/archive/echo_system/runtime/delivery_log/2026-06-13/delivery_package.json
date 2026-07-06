@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-06-13T07:01:18.618479-07:00",
+  "staged_only": true,
+  "delivery_ready": true,
+  "blocked_reasons": [
+    "Phase 2 rule requires staging only; no outbound send should be claimed.",
+    "No external delivery confirmation is present in the provided evidence.",
+    "System remains degraded: missing public MCP watchdog cron, nonzero gateway restarts, invalid kanban database, public healthz 404, and media/vision authentication failures."
+  ],
+  "channel": "LINE direct message",
+  "recipient": "Leonard Hsu",
+  "message_markdown": "Leonard — 2026-06-13 PT Echo System autonomous-loop delivery package is staged, not sent.\n\nCurrent evidence shows the system is operational but degraded:\n\n- Overall health score: 20 / degraded.\n- `hermes-gateway`: active, but with 5 recorded restarts.\n- `echo-autoloop`: active, 0 recorded restarts in the latest check.\n- Root disk: 72% used.\n- Memory: 4 GB total, about 2.2 GB available.\n- Main issue: public MCP watchdog cron is missing.\n- Main caution: gateway restart count is nonzero.\n- Gateway logs repeatedly report invalid `/root/.hermes/kanban.db`, blocking kanban dispatcher activity until repaired or reinitialized.\n- Public `/healthz` check at the ngrok URL returned 404.\n- Telegram had 2 recent network warnings.\n- Media/vision lanes show blockers:\n  - `videoforge`: exit 1; xAI OAuth state missing `access_token`.\n  - `vision`: exit 1; xAI OAuth state missing `access_token`.\n  - `audioforge` and `voice`: exit 1 in today’s pulse data.\n- No auto-repairs are evidenced in the provided artifacts.\n\nRecommended next order:\n\n1. Repair or reinitialize `/root/.hermes/kanban.db`.\n2. Restore the missing public MCP watchdog cron.\n3. Investigate the public `/healthz` 404.\n4. Re-authenticate xAI-backed media/vision profiles with `hermes model`.\n5. Re-run the autonomous loop after repairs and compare a fresh SystemPulse.",
+  "public_summary": "Echo System is running but degraded. Core gateway and autoloop services are active, but watchdog coverage, public health routing, kanban dispatch, and media/vision profile authentication need follow-up. No outbound delivery or repair is confirmed by the evidence.",
+  "follow_up_actions": [
+    "Repair or reinitialize `/root/.hermes/kanban.db`.",
+    "Restore the missing 5-minute public MCP watchdog cron.",
+    "Investigate why the public ngrok `/healthz` endpoint returns 404.",
+    "Re-authenticate xAI-backed media and vision profiles with `hermes model`.",
+    "Re-run the autonomous loop and compare a fresh SystemPulse after repairs."
+  ],
+  "source_refs": [
+    "Evidence collected_at: 2026-06-13T07:00:34.877691-07:00",
+    "/root/echo_system/system_pulse/SystemPulse.json",
+    "/root/echo_system/environment/EnvironmentOracle.json",
+    "checks.gateway_active",
+    "checks.autoloop_active",
+    "checks.gateway_status",
+    "checks.cron_list",
+    "checks.public_healthz",
+    "checks.profiles",
+    "derived.gateway_log_metrics",
+    "upstream_artifacts.orchestrator",
+    "upstream_artifacts.videoforge",
+    "upstream_artifacts.vision",
+    "pulse.summary.autonomous_loop.health_penalties"
+  ]
+}

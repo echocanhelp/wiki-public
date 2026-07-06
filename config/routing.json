@@ -1,0 +1,102 @@
+{
+  "version": "1.1",
+  "default_group": "cpu-light",
+  "hybrid_enabled": true,
+  "local_group": "gx10",
+  "local_api_base": "http://localhost:8001/v1",
+  "light_group": "cpu-light",
+  "cloud_group": "supergrok",
+  "local_signals": {
+    "keywords": [
+      "private",
+      "sensitive",
+      "confidential",
+      "secret",
+      "credential",
+      "password",
+      "oauth",
+      "api key",
+      "ssn",
+      "echopedia",
+      "memory.md",
+      "line channel",
+      "telegram",
+      "local file",
+      "file_read",
+      "file_write",
+      "do not send",
+      "stay local",
+      "on pinto",
+      "gx10"
+    ],
+    "path_patterns": [
+      "/home/leedt/echo-system",
+      "echopedia/",
+      ".env",
+      "bridges/.env"
+    ],
+    "min_chars_for_long_context": 6000
+  },
+  "voice_signals": {
+    "keywords": [
+      "voice message",
+      "transcript",
+      "speak tool",
+      "speak aloud",
+      "spoken",
+      "whisper",
+      "audio message"
+    ],
+    "route_to": "gx10",
+    "note": "Voice loop needs tool-calling (speak); cpu-light cannot run full Tau agent"
+  },
+  "light_signals": {
+    "keywords": [
+      "quick",
+      "briefly",
+      "short answer",
+      "yes or no",
+      "one line",
+      "one word",
+      "translate",
+      "define",
+      "what is",
+      "hello",
+      "hi ",
+      "ping",
+      "status",
+      "simple",
+      "fast",
+      "just say"
+    ],
+    "max_chars_for_short": 400,
+    "min_light_score": 1
+  },
+  "cloud_signals": {
+    "keywords": [
+      "step by step",
+      "reason step",
+      "prove that",
+      "derive",
+      "architecture design",
+      "trade-off",
+      "compare approaches",
+      "multi-step",
+      "orchestrat",
+      "complex reasoning",
+      "frontier",
+      "supergrok",
+      "grok-4"
+    ],
+    "min_reasoning_score": 2
+  },
+  "fallback": {
+    "gx10_unhealthy_to": "cpu-light",
+    "note": "When gx10 vLLM is down or loading, hybrid routes private tasks to cpu-light"
+  },
+  "agent_overrides": {
+    "orchestrator": "supergrok",
+    "echo-concierge": "hybrid",
+    "researcher": "gx10"
+  }
+}

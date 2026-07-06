@@ -1,0 +1,74 @@
+{
+  "bundle_bytes": 173824,
+  "bundle_path": "/root/echo_system/docs/exports/daily-sync/Echo_System_Canonical_Docs_Daily_Sync_2026-05-16.md",
+  "bundle_scope": "canonical_docs_only",
+  "bundle_sha256": "e76ab2e64b596608b253eaa526aad17142598b78ef53303203b340b820932a9c",
+  "canonical_docs": [
+    "Echo_System_Master_Index.md",
+    "Echo_System_Vision_Architecture.md",
+    "Echo_System_Agent_Prompts.md",
+    "Echo_System_Knowledge_Core.md",
+    "Echo_System_Runtime_and_Self_Management.md",
+    "Echo_System_Operations_Guide.md"
+  ],
+  "date_key": "2026-05-16",
+  "drive_file": {
+    "id": "17RMyxFCMVLAUDwkJPv0G5XAwZKAjpQGH",
+    "mimeType": "text/markdown",
+    "name": "Echo_System_Canonical_Docs_Daily_Sync_2026-05-16.md",
+    "parents": [
+      "0ABhqZwu84cYbUk9PVA"
+    ],
+    "size": "173824",
+    "webViewLink": "https://drive.google.com/file/d/17RMyxFCMVLAUDwkJPv0G5XAwZKAjpQGH/view?usp=drivesdk"
+  },
+  "drive_folder_id": "0ABhqZwu84cYbUk9PVA",
+  "environment_oracle": {
+    "canonical_docs_tracked": 6,
+    "drift_count": 2,
+    "drift_summary": "master_index: hash changed (last synced); operations_guide: hash changed (last synced)",
+    "updated": true
+  },
+  "generated_at": "2026-05-16T07:15:38.671827-07:00",
+  "source_count": 6,
+  "source_manifest": [
+    {
+      "bytes": 14023,
+      "path": "Echo_System_Master_Index.md",
+      "sha256": "e380d8964c814546913f764b35a09c74378d75dd140b359900c856c408983615"
+    },
+    {
+      "bytes": 21735,
+      "path": "Echo_System_Vision_Architecture.md",
+      "sha256": "9acbf79433ed5f70e788deafef23eac579e34faa7f559132d835fd1138803d91"
+    },
+    {
+      "bytes": 46443,
+      "path": "Echo_System_Agent_Prompts.md",
+      "sha256": "c1248cbd8c8fc633e657d1842384ea3a91c27afe2983fddc43df098f21aa8190"
+    },
+    {
+      "bytes": 23198,
+      "path": "Echo_System_Knowledge_Core.md",
+      "sha256": "7d7a941bb2e8f70fe7e536c9e4253fa7279fd26cb518d58676112a056957145e"
+    },
+    {
+      "bytes": 29047,
+      "path": "Echo_System_Runtime_and_Self_Management.md",
+      "sha256": "095524c9cab2ee9a4a03d0f691fe4b6edd50b600d6e516d825b072ad1508e8c9"
+    },
+    {
+      "bytes": 38667,
+      "path": "Echo_System_Operations_Guide.md",
+      "sha256": "cb8924a01335656ca132e3f80038c1c6a0218323a22978df63249b8fbccf9e25"
+    }
+  ],
+  "source_root": "/root/echo_system/docs",
+  "status": "uploaded",
+  "verification": {
+    "remote_name_matches": true,
+    "remote_parent_matches": true,
+    "remote_size_matches": true
+  },
+  "verified": true
+}

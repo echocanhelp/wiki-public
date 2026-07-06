@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0",
+  "stage": "docsync",
+  "timestamp": "2026-06-08T05:15:48.987737-07:00",
+  "artifact_path": "/root/echo_system/runtime/stage_outputs/2026-06-08/docsync.md",
+  "status": "blocked",
+  "success": false,
+  "blocked": true,
+  "actions_attempted": [],
+  "external_handles": [],
+  "verification": [],
+  "warnings": [],
+  "errors": [
+    "No JSON block found in docsync output"
+  ]
+}

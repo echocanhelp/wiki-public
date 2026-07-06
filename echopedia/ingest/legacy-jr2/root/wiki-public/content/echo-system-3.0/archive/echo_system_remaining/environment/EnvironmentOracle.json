@@ -1,0 +1,215 @@
+{
+  "system": "Echo System 3.0",
+  "status": "autonomous-loop-active",
+  "timestamp_basis": "local machine state at rebuild time",
+  "architecture_note": "Lean 13-profile model (v1.5.1): Director and ToolGateway permanently removed. Media pipeline restored with 5 new profiles (content, videoforge, audioforge, voice, vision) using xAI grok-imagine model family. All profiles use xai-oauth provider.",
+  "public_endpoints": {
+    "dashboard": "https://bucked-diabetes-shucking.ngrok-free.dev",
+    "mcp": "https://bucked-diabetes-shucking.ngrok-free.dev/mcp",
+    "healthz": "https://bucked-diabetes-shucking.ngrok-free.dev/healthz"
+  },
+  "runtime": {
+    "gateway_dispatcher": "embedded in gateway",
+    "standalone_dispatcher": "disabled/preferred-off",
+    "main_profiles": [
+      "orchestrator",
+      "echohsu",
+      "sentinel",
+      "healer",
+      "evolver",
+      "archivist",
+      "historian",
+      "profiler",
+      "content",
+      "videoforge",
+      "audioforge",
+      "voice",
+      "vision"
+    ],
+    "profile_models": {
+      "orchestrator": "grok-4.3",
+      "echohsu": "grok-4.3",
+      "sentinel": "grok-4.3",
+      "healer": "grok-4.3",
+      "evolver": "grok-4.3",
+      "archivist": "grok-4.3",
+      "historian": "grok-4.3",
+      "profiler": "grok-4.3",
+      "content": "grok-imagine-image-quality",
+      "videoforge": "grok-imagine-video",
+      "audioforge": "grok-imagine-audio",
+      "voice": "grok-tts-1",
+      "vision": "grok-2-vision-latest"
+    },
+    "provider": "xai-oauth",
+    "self_management_loop": {
+      "service": "echo-autoloop.service",
+      "scheduler": "systemd user service with internal America/Los_Angeles stage schedule",
+      "stages": [
+        "sentinel",
+        "healer",
+        "evolver",
+        "orchestrator",
+        "docsync",
+        "historian",
+        "archivist",
+        "content",
+        "audioforge",
+        "voice",
+        "videoforge",
+        "vision",
+        "echohsu"
+      ]
+    },
+    "paths": {
+      "cache_documents": "/root/.hermes/cache/documents",
+      "architecture_root": "/root/echo_system",
+      "system_pulse": "/root/echo_system/system_pulse/SystemPulse.json",
+      "environment_oracle_json": "/root/echo_system/environment/EnvironmentOracle.json",
+      "environment_oracle_md": "/root/echo_system/environment/EnvironmentOracle.md"
+    }
+  },
+  "known_gaps": [
+    "No recovered prototype .py files were found in the local filesystem during this repair.",
+    "No live Google Drive/wiki entity pipeline was reconstructed in this step; this repair restores architecture state, prompts, and canonical files.",
+    "Kanban board currently has no ready/running worker tasks after rebuild.",
+    "Media profiles (content, videoforge, audioforge, voice, vision) created and configured but not yet verified with live API calls \u2014 requires valid xai-oauth token"
+  ],
+  "wiki_memory": {
+    "content_path": "/root/wiki-public/content/",
+    "format": "Quartz v4.5.2 with wikilinks",
+    "repository": "/root/wiki-public",
+    "public_url": "https://echocanhelp.github.io/wiki-public",
+    "content_pages": [
+      "index.md",
+      "love_note.md",
+      "notable-taiwanese-americans.md",
+      "status/automation.md"
+    ]
+  },
+  "data_sources": {
+    "wikipedia_api": {
+      "endpoint": "https://en.wikipedia.org/w/api.php",
+      "method": "curl + JSON parsing via Python",
+      "reliability": "high",
+      "notes": "API endpoint is reliable; browser has bot detection issues"
+    },
+    "taiwaneseamerican_org": {
+      "url": "https://www.taiwaneseamerican.org",
+      "content": "Community orgs, stories, interviews, creative writing prizes, book club",
+      "reliability": "moderate - browser sometimes blank, curl fallback needed",
+      "value": "rich community data for wiki enrichment"
+    }
+  },
+  "extraction_notes": "Wikipedia API (curl+JSON) is the reliable method for structured data. Browser browsing has bot detection issues without residential proxies. Local wiki content files are the primary memory architecture \u2014 no GitHub push required.",
+  "line_channel": {
+    "status": "live",
+    "activated": "2026-05-10",
+    "bridge": "/root/line_bridge.py",
+    "role": "primary public-facing channel for EchoHsu (replaces SMS as primary)",
+    "features": [
+      "Quick Replies",
+      "Flex Messages",
+      "Carousels",
+      "Rich Menus",
+      "Buttons",
+      "Postbacks"
+    ],
+    "quota_tiers": {
+      "free": "~200 messages/month per recipient",
+      "light": "~5,000 messages/month per recipient",
+      "standard": "~30,000 messages/month per recipient + paid extras (~JPY 3 each)"
+    },
+    "quota_notes": "Reply messages (user-initiated) are quota-efficient. Push, multicast, narrowcast, broadcast consume quota heavily."
+  },
+  "channel_status": {
+    "line": "live - primary EchoHsu public channel",
+    "twilio_sms": "active - secondary EchoHsu public channel",
+    "telegram": "active - default/root developer support",
+    "discord": "active - orchestrator/kanban operations"
+  },
+  "documentation_state": {
+    "canonical_docs_version": "1.0.0-draft",
+    "canonical_docs": [
+      {
+        "doc_id": "master_index",
+        "path": "docs/Echo_System_Master_Index.md",
+        "owner": "Archivist",
+        "version": "1.5.0",
+        "sha256": "c9ebc287532d2182cd7cd22e4e1a987cab9269da52e3f46c8bc0110bcdc1646a",
+        "size_bytes": 21216,
+        "last_updated": "2026-05-26T23:08:30.200210+00:00",
+        "runtime_alignment_status": "pending_review"
+      },
+      {
+        "doc_id": "vision_architecture",
+        "path": "docs/Echo_System_Vision_Architecture.md",
+        "owner": "Orchestrator",
+        "version": "1.3.0",
+        "sha256": "eec5354406f27e1b0cf5295bca14057ac5a2ffd16b082ec91489d8c3d230015c",
+        "size_bytes": 24009,
+        "last_updated": "2026-05-24T06:12:33.246563+00:00",
+        "runtime_alignment_status": "pending_review"
+      },
+      {
+        "doc_id": "agent_prompts",
+        "path": "docs/Echo_System_Agent_Prompts.md",
+        "owner": "Orchestrator",
+        "version": "1.4.0-draft",
+        "sha256": "1c8bed3b98c937ce2b0529bf41c9a0b875dd6b112799021221ad449bbb9b02fa",
+        "size_bytes": 89026,
+        "last_updated": "2026-05-26T23:17:24.432007+00:00",
+        "runtime_alignment_status": "pending_review"
+      },
+      {
+        "doc_id": "knowledge_core",
+        "path": "docs/Echo_System_Knowledge_Core.md",
+        "owner": "Archivist + Historian",
+        "version": "1.4.1",
+        "sha256": "4eda62863d8efbab69699228e6fe0f06d3c97be303f879c25e5311c70dd1425a",
+        "size_bytes": 47882,
+        "last_updated": "2026-05-20T06:56:27.601974+00:00",
+        "runtime_alignment_status": "pending_review"
+      },
+      {
+        "doc_id": "runtime_self_management",
+        "path": "docs/Echo_System_Runtime_and_Self_Management.md",
+        "owner": "Orchestrator + Sentinel",
+        "version": "1.0.0-draft",
+        "sha256": "ce8de8f130ac9c1b4e93f94643477d88d1aabaf15eda5a6fe4b12557e699a492",
+        "size_bytes": 31931,
+        "last_updated": "2026-05-26T23:17:02.199223+00:00",
+        "runtime_alignment_status": "pending_review"
+      },
+      {
+        "doc_id": "operations_guide",
+        "path": "docs/Echo_System_Operations_Guide.md",
+        "owner": "ToolGateway + Orchestrator",
+        "version": "1.2.4",
+        "sha256": "510a795fd45d7049c28cb6819612a85407ecb23d1aa849f9fdec183798d73433",
+        "size_bytes": 82993,
+        "last_updated": "2026-05-26T23:17:14.648102+00:00",
+        "runtime_alignment_status": "pending_review"
+      }
+    ],
+    "deprecated_docs": [],
+    "last_docsync_at": "2026-06-23T07:15:18.474030-07:00",
+    "last_docsync_receipt": "",
+    "last_drift_count": 0,
+    "last_drift_summary": "No drift detected"
+  },
+  "profiles_active": [
+    "orchestrator",
+    "echohsu",
+    "archivist",
+    "historian",
+    "profiler",
+    "sentinel",
+    "healer",
+    "evolver"
+  ],
+  "deprecated_profiles": [
+    "director",
+    "toolgateway"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "wiki_items": [
+    {
+      "title": "Echo System Morning Runtime Verification — 2026-05-27 (PT)",
+      "body_markdown": "Verified live checks at 2026-05-27T05:30:27-07:00 show `hermes-gateway` and `echo-autoloop` both active. Restart counters were `hermes-gateway=1` and `echo-autoloop=0`. Root filesystem usage was `76%` on `/dev/loop0` (20G total, 4.7G free). Observed listening sockets included `127.0.0.1:8080` and `0.0.0.0:8090`; no `:8079` listener appeared in the same check output. This item is approved for publication under limited-claim reuse.",
+      "source_refs": [
+        "evidence.checks.gateway_active",
+        "evidence.checks.autoloop_active",
+        "evidence.checks.gateway_restarts_total",
+        "evidence.checks.autoloop_restarts_total",
+        "evidence.checks.disk_root",
+        "evidence.checks.ports",
+        "evidence.upstream_artifacts.historian"
+      ],
+      "category": "event",
+      "tags": [
+        "runtime-verification",
+        "systemd",
+        "operations",
+        "morning-state",
+        "historian-approved"
+      ]
+    },
+    {
+      "title": "Public Health Endpoint Contract Observation — /healthz Returned 404",
+      "body_markdown": "A public probe to `https://bucked-diabetes-shucking.ngrok-free.dev/healthz` returned HTTP `404` in the verified check set. This supports a path-contract mismatch observation for `/healthz` and should not be generalized to a full upstream outage without additional canonical path validation.",
+      "source_refs": [
+        "evidence.checks.public_healthz",
+        "evidence.upstream_artifacts.historian"
+      ],
+      "category": "topic",
+      "tags": [
+        "health-check",
+        "ngrok",
+        "mcp",
+        "contract-mismatch",
+        "historian-approved"
+      ]
+    },
+    {
+      "title": "Open Governance Issue — Public MCP Watchdog Cron Missing",
+      "body_markdown": "The issue `public MCP watchdog cron missing` remains open in the verified morning bundle. Cron output shows five active jobs, but the missing watchdog issue persists and remains an operational follow-up item.",
+      "source_refs": [
+        "evidence.issues",
+        "evidence.checks.cron_list",
+        "evidence.upstream_artifacts.historian",
+        "evidence.upstream_artifacts.orchestrator"
+      ],
+      "category": "topic",
+      "tags": [
+        "cron",
+        "watchdog",
+        "mcp",
+        "open-issue",
+        "historian-approved"
+      ]
+    }
+  ],
+  "deferred_items": [
+    "Do not publish stale pulse claims that contradict live checks (e.g., autoloop crash-loop present tense, mcp 8090 not listening, old resource percentages).",
+    "Do not publish root-cause certainty for historical crash-loop behavior without fresh current-cycle log corroboration.",
+    "Do not publish claims of successful repairs, remediations, or external sync completion; none are evidenced in this bundle.",
+    "Do not treat a single /healthz 404 as global endpoint failure without canonical route confirmation."
+  ],
+  "redaction_notes": [
+    "No personal PII identified in approved items.",
+    "Public entries include operational identifiers (service names, ports, ngrok hostname); maintain policy-based infrastructure disclosure controls.",
+    "Frame language as evidence-state reporting, not fault attribution."
+  ],
+  "valid": true,
+  "errors": []
+}

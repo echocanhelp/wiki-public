@@ -1,0 +1,83 @@
+# Phase 1 DocSync Receipt
+
+**Generated:** 2026-05-17T06:28:05+00:00
+**Task:** t_2ca54447 - T6: Run DocSync + verify all Phase 1 updates
+**Orchestrator:** run_id=102
+
+## Sync Results
+
+### Stream 1: Canonical Docs Sync (echo_system_docs_sync.py)
+- Status: COMPLETED (local hash computation)
+- Drive sync: SKIPPED (Google OAuth token expired/revoked - requires `python3 setup.py --auth-url` re-auth)
+- Script created: /root/echo_system/runtime/echo_system_docs_sync.py
+
+### Stream 2: Wiki Structure Sync (echo_wiki_structure_sync.py)
+- Status: COMPLETED (local hash computation)
+- Drive sync: SKIPPED (Google OAuth token expired/revoked)
+- Script created: /root/echo_system/runtime/echo_wiki_structure_sync.py
+
+### Stream 3: Control Plane Sync (echo_control_plane_sync.py)
+- Status: COMPLETED (local hash computation)
+- Drive sync: SKIPPED (Google OAuth token expired/revoked)
+- Script created: /root/echo_system/runtime/echo_control_plane_sync.py
+
+## EnvironmentOracle.documentation_state Updated
+
+All 6 canonical docs verified with new SHA256 hashes:
+
+| Doc ID | File | Version | SHA256 (prefix) | Size | Status |
+|--------|------|---------|-----------------|------|--------|
+| master_index | Echo_System_Master_Index.md | 1.3.0 | d83bf0d6... | 14620 | aligned |
+| vision_architecture | Echo_System_Vision_Architecture.md | 1.0.0-draft | 9acbf794... | 21735 | aligned |
+| agent_prompts | Echo_System_Agent_Prompts.md | 1.0.1-draft | 90694938... | 40468 | aligned |
+| knowledge_core | Echo_System_Knowledge_Core.md | 1.0.1-draft | 5bff7d8e... | 26534 | aligned |
+| runtime_self_management | Echo_System_Runtime_and_Self_Management.md | 1.0.0-draft | 095524c9... | 29047 | aligned |
+| operations_guide | Echo_System_Operations_Guide.md | 1.0.1-draft | 602392ed... | 44536 | aligned |
+
+- last_drift_count: 0
+- last_drift_summary: "All docs aligned after Phase 1 DocSync"
+- canonical_docs_version: 1.3.0
+
+## Phase 1 Changes Summary
+
+### 1. Echo_System_Agent_Prompts.md (T1)
+- **Change:** EchoHsu prompt replaced with condensed v1.2
+- **Lines replaced:** 426-518 (93 lines removed, ~29 lines added)
+- **Title changed to:** "Public Community Interface"
+- **Removed:** Verbose rich-interaction guidance, quota tables, model routing details, JSON output specs, internal system leaks
+- **Preserved:** All guardrails (silent observer, privacy-by-default, LINE quota awareness, group chat rules, self-reference as 'Echo')
+- **Version:** 1.0.1-draft
+
+### 2. Echo_System_Operations_Guide.md
+- **Change:** 5 new sections added
+- **Size change:** 38667 -> 44536 bytes (+5869 bytes)
+- **Version:** 1.0.1-draft
+
+### 3. Echo_System_Knowledge_Core.md
+- **Change:** Archivist + Publication Gate updated
+- **Size change:** 23198 -> 26534 bytes (+3336 bytes)
+- **Version:** 1.0.1-draft
+
+### 4. Echo_System_Master_Index.md (T5)
+- **Change:** Version bumped to 1.3.0, Change Log entry added documenting all EchoHsu Phase 1 Updates
+- **Size change:** 14023 -> 14620 bytes (+597 bytes)
+- **Version:** 1.3.0
+
+## Verification
+
+- [x] All 3 sync scripts created and executed
+- [x] All 6 canonical docs SHA256 hashes computed and stored
+- [x] EnvironmentOracle.documentation_state updated with new hashes
+- [x] All 4 updated docs show runtime_alignment_status: aligned
+- [x] All 6 docs show runtime_alignment_status: aligned
+- [x] last_drift_count: 0
+- [x] Receipt written
+- [ ] Google Drive sync pending (requires auth refresh)
+
+## Blockers
+
+Google Drive sync requires OAuth token refresh. Run:
+```bash
+python3 /root/.hermes/skills/productivity/google-workspace/scripts/setup.py --auth-url
+```
+Then paste the redirect URL to complete re-auth.

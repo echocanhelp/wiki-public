@@ -1,0 +1,54 @@
+# Echo System 3.0 — Baseline Skill Configuration
+# Version: 1.0
+# Last Updated: 2026-06-23
+
+baseline:
+  required_for_all:
+    - retrieval-reflex          # Automatic GBrain entity injection
+    - gbrain                    # GBrain integration helpers
+    - echo-system-implementation
+    - echo-autonomous-loop-verification
+    - echo-prompt-output-harmony
+
+role_specific:
+  historian:
+    - wiki-safe-edit
+    - wiki-maintenance
+    - echopedia-tahs-workflows
+
+  archivist:
+    - wiki-maintenance
+    - echopedia-tahs-workflows
+    - wiki-maintenance
+
+  content:
+    - content-generation
+    - media-content-pipeline
+
+  videoforge:
+    - video
+    - video_gen
+    - comfyui
+
+  orchestrator:
+    - delegate_task
+    - kanban-codex-lane
+
+  profiler:
+    - identity-link-guard
+    - identity_links
+
+  evolver:
+    - autonomous-ai-agents
+
+  healer:
+    - autonomous-ai-agents
+
+  sentinel:
+    - monitoring
+    - health-checks
+
+# Notes:
+# - "baseline.required_for_all" should be loaded by default on new profiles
+# - Role-specific skills are additive to the baseline
+# - Update this file when adding new roles or capabilities

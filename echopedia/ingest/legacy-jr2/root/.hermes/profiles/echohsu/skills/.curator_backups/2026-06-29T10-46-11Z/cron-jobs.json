@@ -1,0 +1,229 @@
+{
+  "jobs": [
+    {
+      "id": "21cb2eea7084",
+      "name": "identity-link-guard",
+      "prompt": "",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": "identity_link_guard.py",
+      "no_agent": true,
+      "context_from": null,
+      "schedule": {
+        "kind": "interval",
+        "minutes": 30,
+        "display": "every 30m"
+      },
+      "schedule_display": "every 30m",
+      "repeat": {
+        "times": null,
+        "completed": 1109
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-25T07:55:11.396142+00:00",
+      "next_run_at": "2026-06-23T17:50:25.913217+00:00",
+      "last_run_at": "2026-06-23T17:20:25.913217+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin,discord",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "6769573480",
+        "chat_name": "Hsuperman",
+        "thread_id": null
+      },
+      "enabled_toolsets": null,
+      "workdir": null,
+      "profile": null
+    },
+    {
+      "id": "14799a1b4e48",
+      "name": "line-security-guard-p07",
+      "prompt": "",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": "line_security_guard.py",
+      "no_agent": true,
+      "context_from": null,
+      "schedule": {
+        "kind": "interval",
+        "minutes": 5,
+        "display": "every 5m"
+      },
+      "schedule_display": "every 5m",
+      "repeat": {
+        "times": null,
+        "completed": 6112
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-25T16:57:49.412960+00:00",
+      "next_run_at": "2026-06-23T17:48:26.385508+00:00",
+      "last_run_at": "2026-06-23T17:43:26.385508+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin,discord",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "6769573480",
+        "chat_name": "Hsuperman",
+        "thread_id": null
+      },
+      "enabled_toolsets": null,
+      "workdir": null,
+      "profile": null
+    },
+    {
+      "id": "28f6ffa3ab03",
+      "name": "echohsu-codex-hardfail-watchdog",
+      "prompt": "",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": "codex_hardfail_watchdog.sh",
+      "no_agent": true,
+      "context_from": null,
+      "schedule": {
+        "kind": "interval",
+        "minutes": 10,
+        "display": "every 10m"
+      },
+      "schedule_display": "every 10m",
+      "repeat": {
+        "times": null,
+        "completed": 3047
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-27T06:42:56.346098+00:00",
+      "next_run_at": "2026-06-23T17:49:26.270173+00:00",
+      "last_run_at": "2026-06-23T17:39:26.270173+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": null,
+      "profile": "echohsu"
+    },
+    {
+      "id": "c76a0d120a49",
+      "name": "Echopedia Homepage Daily Refresh",
+      "prompt": "",
+      "skills": [
+        "echopedia-homepage-curator"
+      ],
+      "skill": "echopedia-homepage-curator",
+      "model": "grok-4.3",
+      "provider": "xai-oauth",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 9 * * *",
+        "display": "0 9 * * *"
+      },
+      "schedule_display": "0 9 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 20
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-28T22:48:12.378305+00:00",
+      "next_run_at": "2026-06-24T09:00:00+00:00",
+      "last_run_at": "2026-06-23T09:00:52.575954+00:00",
+      "last_status": "error",
+      "last_error": "ImportError: cannot import name 'PARALLEL_TOOL_CALL_GUIDANCE' from 'agent.prompt_builder' (/usr/local/lib/hermes-agent/agent/prompt_builder.py)",
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "6769573480",
+        "chat_name": "Hsuperman",
+        "thread_id": null
+      },
+      "enabled_toolsets": [
+        "web",
+        "terminal",
+        "file",
+        "skills"
+      ],
+      "workdir": "/root/wiki-public",
+      "profile": "echohsu"
+    },
+    {
+      "id": "7f9995680a62",
+      "name": "Echopedia Daily Accuracy & Link Audit",
+      "prompt": "Daily Echopedia public-site accuracy and improvement audit. This job runs after the Echopedia Homepage Daily Refresh, so treat the homepage as freshly rotated and verify it.\n\nScope:\n- Public wiki live URL: https://echocanhelp.github.io/wiki-public/\n- Source workspace: /root/wiki-public/content/\n- Deployment repo: /root/wiki-deploy/ (remote github.com/echocanhelp/wiki-public)\n\nDo not crawl or extract from echocanhelp.github.io/wiki-public beyond link/status checks of the homepage and selected live pages. Respect the crawl blocklist; this is QA, not source ingestion.\n\nRequired workflow:\n1. Load and follow the wiki-maintenance skill.\n2. Inspect current cron context only if needed, but do not create or modify cron jobs.\n3. Fetch and fast-forward /root/wiki-deploy from origin/master before edits.\n4. Audit the live homepage:\n   - HTTP 200 for homepage.\n   - Extract homepage hrefs with dependency-light Python requests + regex.\n   - Classify resource/preconnect URLs as non-content; validate user-facing internal links only.\n   - Confirm Featured People / Featured Institutional Memory links return non-404.\n5. Run wiki maintenance checks:\n   - symlink loop check under /root/wiki-public/content.\n   - broken wiki-link scan using /root/.hermes/profiles/echohsu/skills/devops/wiki-maintenance/scripts/scan-broken-links.py.\n6. Check homepage accuracy metrics against the deployed corpus in /root/wiki-deploy/content, not only source workspace:\n   - published markdown page count.\n   - type: person count.\n   - type: publication count.\n   If homepage metrics are stale or misleading, update /root/wiki-public/content/index.md and /root/wiki-deploy/content/index.md consistently.\n7. Run a privacy/accuracy smoke check on public person/navigation pages touched or featured on homepage:\n   - remove unnecessary private personal details if accidentally exposed.\n   - preserve public role/community/source-verifiable context.\n8. If a homepage/navigation link is broken, repair it. If an index page is missing and clearly needed (e.g., people), create a conservative index page from local content.\n9. Before committing:\n   - run broken-link scan again.\n   - run git diff --check in /root/wiki-deploy.\n   - reproduce the GitHub Actions Quartz build if material markdown/frontmatter changes were made: clone jackyzha0/quartz at the branch/version named in /root/wiki-deploy/.github/workflows/deploy.yml, copy config + content, run node quartz/bootstrap-cli.mjs build.\n10. Commit and push only if there are actual deployment changes. Use a clear message like \"Wiki daily audit: fix links and homepage accuracy\".\n11. If pushed, wait for the matching GitHub Actions run to complete. If failed, fix the build before reporting success. After success, verify live homepage and changed/created pages return HTTP 200, with retry/backoff for propagation.\n12. Final response must be concise and include:\n   - status: healthy / fixed / blocked.\n   - what was checked.\n   - what changed, if anything.\n   - commit hash if pushed.\n   - live verification results.\n\nGuardrails:\n- Never overwrite rich pages with stubs.\n- Prefer targeted edits and targeted deploy copies unless a full mirror publish is explicitly necessary.\n- Do not expose internal ops links on public pages.\n- Do not invent verification output; report blockers honestly.",
+      "skills": [
+        "wiki-maintenance"
+      ],
+      "skill": "wiki-maintenance",
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "45 9 * * *",
+        "display": "45 9 * * *"
+      },
+      "schedule_display": "45 9 * * *",
+      "repeat": {
+        "times": 3650,
+        "completed": 9
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-06-09T09:34:32.093262+00:00",
+      "next_run_at": "2026-06-24T09:45:00+00:00",
+      "last_run_at": "2026-06-23T09:45:16.999575+00:00",
+      "last_status": "error",
+      "last_error": "ImportError: cannot import name 'PARALLEL_TOOL_CALL_GUIDANCE' from 'agent.prompt_builder' (/usr/local/lib/hermes-agent/agent/prompt_builder.py)",
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "6769573480",
+        "chat_name": "Hsuperman",
+        "thread_id": null
+      },
+      "enabled_toolsets": [
+        "terminal",
+        "file",
+        "web",
+        "skills"
+      ],
+      "workdir": "/root/wiki-public",
+      "profile": "echohsu"
+    }
+  ],
+  "updated_at": "2026-06-23T17:43:26.385743+00:00"
+}

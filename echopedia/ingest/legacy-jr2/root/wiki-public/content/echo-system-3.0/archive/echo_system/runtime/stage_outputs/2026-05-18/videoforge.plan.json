@@ -1,0 +1,78 @@
+{
+  "render_ready": false,
+  "blocked_reasons": [
+    "Historian media gate denied: no TAHS entities verified at 3+ stars today",
+    "No approved historical script — Content produced ops-telemetry fallback only",
+    "No verified portrait images or style references from Content",
+    "Videoforge profile is stopped (not running)",
+    "Text-to-video generation tool (Grok Imagine Video) not available in current toolset",
+    "Previous Videoforge run (2026-05-17) also blocked with 0 verified handles",
+    "No voiceover/TTS pipeline confirmed for videoforge profile"
+  ],
+  "output_basename": "echo_system_ops_briefing_2026-05-18.mp4",
+  "scenes": [
+    {
+      "slug": "hook-amber-pulse",
+      "visual": "Dark server room, pulsing LED indicators. One amber light among greens. Camera slow push-in.",
+      "voiceover": "Every morning at 6 AM Pacific, the Echo System takes its own pulse. Today's verdict: alive, but limping."
+    },
+    {
+      "slug": "gateway-stable",
+      "visual": "Clean dashboard UI. hermes-gateway and echo-autoloop both showing green ACTIVE status. Cron jobs ticking through successfully.",
+      "voiceover": "Gateway and autoloop are both standing. Zero restarts today. Five scheduled jobs firing on time."
+    },
+    {
+      "slug": "crash-loop-wound",
+      "visual": "Terminal window showing TypeError crash at line 1101. Side-by-side diff view of current code vs proposed fix.",
+      "voiceover": "But the system carries scars. An autoloop crash loop was detected -- 120 restarts in a 23-minute cycle -- caused by a type mismatch at one line of code. The fix is known but unapplied."
+    },
+    {
+      "slug": "four-persistent-issues",
+      "visual": "Four numbered cards animate in sequence: broken Telegram icon, dark port 8090, memory gauge at 95 percent, missing watchdog clock.",
+      "voiceover": "Four persistent issues linger: Telegram connectivity down, MCP port silent, agent memory nearly full, and a missing watchdog cron. Each one manageable -- together, a slow bleed."
+    },
+    {
+      "slug": "resources-comfortable",
+      "visual": "Resource gauges: disk at 54 percent green, memory at 31 percent green. Transition to amber status panel listing next actions.",
+      "voiceover": "Resources are comfortable. Disk at 54 percent, memory at 31 percent. The real work today: apply the autoloop fix, restore Telegram, and reclaim memory headroom."
+    },
+    {
+      "slug": "closing-green-transition",
+      "visual": "Amber LED from opening scene transitions to green. System logo fades in with tagline.",
+      "voiceover": "The Echo System doesn't sleep. It monitors, it diagnoses, it waits. Tomorrow, we make it stronger."
+    }
+  ],
+  "asset_requirements": [
+    "Text-to-video generation tool (Grok Imagine Video or equivalent)",
+    "Videoforge profile started and running",
+    "Voiceover TTS recording (75 seconds, authoritative calm tone)",
+    "Ambient electronic background music (70-80 BPM, royalty-free)",
+    "Subtitle file (SRT format)",
+    "End screen graphic with verification badge",
+    "ffmpeg render pipeline for stitching, mixing, and subtitle burn"
+  ],
+  "delivery_checklist": [
+    "Historian approves script with entities at 3+ verification",
+    "Portrait images and style references delivered from Content agent",
+    "Videoforge profile started",
+    "Text-to-video clips generated (all 6 scenes)",
+    "Voiceover audio recorded and synced",
+    "Background music sourced and mixed",
+    "ffmpeg renders final MP4 (720p, 16:9)",
+    "End screen includes TAHS Wiki source attribution",
+    "Final video uploaded to Google Drive /Echo_System/Videos/2026-05-18/",
+    "Delivery confirmation appended to SystemPulse.json"
+  ],
+  "source_refs": [
+    "SystemPulse.json collected 2026-05-18T06:13:20-07:00 (health_score: 22)",
+    "Historian artifact: media generation blocked (approved_for_media: false, no entities at 3+ stars)",
+    "Archivist artifact: zero wiki items published, no historical content",
+    "Content artifact: ops-telemetry script generated as fallback (6 scenes, 75 seconds)",
+    "Videoforge receipt (2026-05-17): executor_blocked=true, verified_handles=0",
+    "hermes profile list: videoforge profile stopped",
+    "Live checks: gateway active, autoloop active, 5 cron jobs healthy",
+    "Pulse issues: I-AUTO-003 (crash loop), I-TEL-002 (Telegram), I-MCP-002 (port 8090), I-MEM-001 (memory 95 percent)"
+  ],
+  "valid": true,
+  "errors": []
+}

@@ -1,0 +1,110 @@
+{
+  "changes": {
+    "agent_prompts": {
+      "changes": [
+        "EchoHsu trigger rules + enriched metadata (context passing)",
+        "Profiler EchoFeelings synthesis responsibilities (5-step workflow)",
+        "Structured Themes Table output format (6 fields)",
+        "Narrative Summary Format template",
+        "Handoff to Archivist guidelines (4 rules)",
+        "Quality Guardrails (5 rules)",
+        "Real-time + Batch triggers",
+        "Director quality signals for low-value task reduction"
+      ],
+      "doc": "Echo_System_Agent_Prompts.md",
+      "version": "1.4.0-draft"
+    },
+    "knowledge_core": {
+      "changes": [
+        "Archivist EchoFeelings Review and Publication duties (section 13.1.1)",
+        "Publication Gate with EchoFeelings Quality Gates (section 16.3)",
+        "Narrative vs Structured Knowledge distinction (section 17)",
+        "EchoFeelings data structure spec (Structured Themes + Narrative Summary)",
+        "Storage location (private wiki)",
+        "Relationship to entity cards",
+        "Cross-references validated across all sections"
+      ],
+      "doc": "Echo_System_Knowledge_Core.md",
+      "version": "1.4.1"
+    },
+    "master_index": {
+      "changes": [
+        "Updated Change Log with Phase 2 entry",
+        "Updated version table for all canonical docs",
+        "Backup Policy reflects three-stream architecture",
+        "Cron inventory shows 5 active jobs"
+      ],
+      "doc": "Echo_System_Master_Index.md",
+      "version": "1.5.0"
+    },
+    "operations_guide": {
+      "changes": [
+        "EchoFeelings operational workflow (section 5.10)",
+        "Public First + Fast Correction model",
+        "Responsibility Matrix (cross-agent roles)",
+        "Controlled Public Showcasing Model (section 5.8)",
+        "Eligibility Criteria (6 mandatory checks)",
+        "Redaction Guidelines (9-category table)",
+        "Consent Verification Process (5-step)",
+        "Labeling Requirements (4 mandatory labels)",
+        "Section numbering fixed (5.4->5.8, 5.7->5.9, 5.8->5.10)"
+      ],
+      "doc": "Echo_System_Operations_Guide.md",
+      "version": "1.2.4"
+    }
+  },
+  "description": "EchoFeelings Phase 2: Context passing, responsibility matrix, trigger rules, structured themes, public showcasing model, and doc updates.",
+  "environment_oracle": {
+    "alignment_status": "all_aligned",
+    "canonical_docs": [
+      {
+        "path": "docs/Echo_System_Master_Index.md",
+        "sha256": "e0469fa81e8fce386406fc73956d4d58b6c3f85bfb75872ce0f47f6319744c0e",
+        "size_bytes": 15761
+      },
+      {
+        "path": "docs/Echo_System_Vision_Architecture.md",
+        "sha256": "9acbf79433ed5f70e788deafef23eac579e34faa7f559132d835fd1138803d91",
+        "size_bytes": 21735
+      },
+      {
+        "path": "docs/Echo_System_Agent_Prompts.md",
+        "sha256": "f26d7b28f44dce15ce68a89de1ca491174ee287bf05b00c060f709e4dfb6515e",
+        "size_bytes": 57161
+      },
+      {
+        "path": "docs/Echo_System_Knowledge_Core.md",
+        "sha256": "7383c7a143154bceae9c499eda7a983e6101bf6f991eb16d0606318a316e085d",
+        "size_bytes": 45862
+      },
+      {
+        "path": "docs/Echo_System_Operations_Guide.md",
+        "sha256": "cb371eb26b2050f523eb9d297c34770fc54c474bbb8efe3eb391cd5c5599efa1",
+        "size_bytes": 69200
+      },
+      {
+        "path": "docs/Echo_System_Runtime_and_Self_Management.md",
+        "sha256": "095524c9cab2ee9a4a03d0f691fe4b6edd50b600d6e516d825b072ad1508e8c9",
+        "size_bytes": 29047
+      }
+    ],
+    "canonical_docs_version": "1.5.0",
+    "updated": true
+  },
+  "generated_at": "2026-05-17T19:54:03.092647+00:00",
+  "master_index_version": "1.5.0",
+  "parent_tasks": {
+    "t_61c1a1d2": "Profiler responsibilities updated (Agent Prompts)",
+    "t_7ec0fe20": "Controlled Public Showcasing Model added (Operations Guide section 5.8)",
+    "t_94ed085a": "EchoFeelings structure finalized (Knowledge Core section 17)",
+    "t_e6706a50": "Archivist EchoFeelings duties added (Knowledge Core section 13.1.1)"
+  },
+  "phase": "EchoFeelings Phase 2",
+  "receipt_type": "phase2_completion",
+  "sync_scripts": {
+    "echo_control_plane_sync": "failed_oauth_revoked",
+    "echo_system_docs_sync": "failed_oauth_revoked",
+    "echo_wiki_structure_sync": "failed_oauth_revoked",
+    "note": "Google OAuth token revoked. Requires re-authentication via hermes config or Google Cloud Shell. Token file not found at ~/.hermes/google_token.json."
+  }
+}

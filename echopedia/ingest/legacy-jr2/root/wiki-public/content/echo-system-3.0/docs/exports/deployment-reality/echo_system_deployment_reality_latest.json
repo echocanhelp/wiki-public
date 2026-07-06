@@ -1,0 +1,133 @@
+{
+  "all_profiles": [
+    "archivist",
+    "content",
+    "default",
+    "echohsu",
+    "echonomics",
+    "historian",
+    "orchestrator",
+    "videoforge"
+  ],
+  "contract": {
+    "base_url": null,
+    "provider": "openai-codex"
+  },
+  "drift": [
+    {
+      "expected": "openai-codex",
+      "issue": "provider_mismatch",
+      "observed": "xai-oauth",
+      "profile": "archivist"
+    },
+    {
+      "expected": null,
+      "issue": "base_url_mismatch",
+      "observed": "https://api.x.ai/v1",
+      "profile": "archivist"
+    },
+    {
+      "expected": "openai-codex",
+      "issue": "provider_mismatch",
+      "observed": "xai-oauth",
+      "profile": "default"
+    },
+    {
+      "expected": null,
+      "issue": "base_url_mismatch",
+      "observed": "https://api.x.ai/v1",
+      "profile": "default"
+    },
+    {
+      "expected": "openai-codex",
+      "issue": "provider_mismatch",
+      "observed": "custom",
+      "profile": "echonomics"
+    },
+    {
+      "expected": null,
+      "issue": "base_url_mismatch",
+      "observed": "http://192.168.7.1:8001/v1",
+      "profile": "echonomics"
+    },
+    {
+      "expected": "openai-codex",
+      "issue": "provider_mismatch",
+      "observed": "xai-oauth",
+      "profile": "historian"
+    },
+    {
+      "expected": null,
+      "issue": "base_url_mismatch",
+      "observed": "https://api.x.ai/v1",
+      "profile": "historian"
+    },
+    {
+      "expected": "openai-codex",
+      "issue": "provider_mismatch",
+      "observed": "xai-oauth",
+      "profile": "orchestrator"
+    },
+    {
+      "expected": null,
+      "issue": "base_url_mismatch",
+      "observed": "https://api.x.ai/v1",
+      "profile": "orchestrator"
+    }
+  ],
+  "drift_count": 10,
+  "generated_at": "2026-07-01T13:45:08.623803+00:00",
+  "observed_local_models": [
+    {
+      "model": "grok-4.3",
+      "profile_count": 7
+    },
+    {
+      "model": "RedHatAI/gemma-4-26B-A4B-it-FP8-Dynamic",
+      "profile_count": 1
+    }
+  ],
+  "ok": false,
+  "profiles": {
+    "archivist": {
+      "base_url": "https://api.x.ai/v1",
+      "default": "grok-4.3",
+      "provider": "xai-oauth"
+    },
+    "content": {
+      "base_url": "https://api.x.ai/v1",
+      "default": "grok-4.3",
+      "provider": "xai-oauth"
+    },
+    "default": {
+      "base_url": "https://api.x.ai/v1",
+      "default": "grok-4.3",
+      "provider": "xai-oauth"
+    },
+    "echohsu": {
+      "base_url": "https://api.x.ai/v1",
+      "default": "grok-4.3",
+      "provider": "xai-oauth"
+    },
+    "echonomics": {
+      "base_url": "http://192.168.7.1:8001/v1",
+      "default": "RedHatAI/gemma-4-26B-A4B-it-FP8-Dynamic",
+      "provider": "custom"
+    },
+    "historian": {
+      "base_url": "https://api.x.ai/v1",
+      "default": "grok-4.3",
+      "provider": "xai-oauth"
+    },
+    "orchestrator": {
+      "base_url": "https://api.x.ai/v1",
+      "default": "grok-4.3",
+      "provider": "xai-oauth"
+    },
+    "videoforge": {
+      "base_url": "https://api.x.ai/v1",
+      "default": "grok-4.3",
+      "provider": "xai-oauth"
+    }
+  }
+}

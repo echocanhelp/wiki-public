@@ -1,0 +1,39 @@
+# Credentials and secrets
+.env
+*.key
+*.pem
+**/.env
+**/*.secret
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# Logs
+logs/
+logs.*
+
+# PID files
+*.pid
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Media (large files - track in git-lfs separately)
+media/
+**/*.mp4
+**/*.mov
+**/*.avi
+
+# Herme internals
+.scratch/
+.herme/
+
+# System files
+.DS_Store
+Thumbs.db

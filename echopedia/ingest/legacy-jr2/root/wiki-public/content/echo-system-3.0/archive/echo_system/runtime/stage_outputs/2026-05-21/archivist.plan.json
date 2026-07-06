@@ -1,0 +1,13 @@
+{
+  "wiki_items": [],
+  "deferred_items": [
+    "public MCP watchdog cron missing",
+    "xAI OAuth access_token missing (AuthError on resolve)",
+    "vLLM ReadTimeout / stream drops on Qwen/Qwen3.6-27B-FP8",
+    "2 model-distribution drifts from deployment-reality audit",
+    "Telegram network ReadError warnings (2 instances)"
+  ],
+  "redaction_notes": [],
+  "valid": true,
+  "errors": []
+}

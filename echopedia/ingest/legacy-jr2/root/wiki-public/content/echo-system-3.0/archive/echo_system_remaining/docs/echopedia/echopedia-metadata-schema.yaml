@@ -1,0 +1,132 @@
+# Echopedia Content Metadata Schema
+# Section 8 of Echopedia System Redesign Execution Plan v2.0
+# Every content item published to Echopedia MUST carry this metadata.
+
+# Source tracking fields (REQUIRED on all content items)
+source_tracking:
+  source_type:
+    type: enum
+    required: true
+    description: "Primary origin category of this content"
+    values:
+      - book
+      - user_interview
+      - EchoFeelings
+      - community_record
+    defaults:
+      book: "Published book, academic paper, or printed reference"
+      user_interview: "Direct conversation with a user (LINE, SMS, phone, in-person)"
+      EchoFeelings: "Synthesized emotional/narrative memory extracted by Profiler"
+      community_record: "Official community document, archive entry, or organizational record"
+
+  source_reference:
+    type: string
+    required: true
+    description: "Citation, URL, document path, or conversation identifier for traceability"
+    examples:
+      book: "Hsu, L. (2024). Taiwanese American Oral Histories. p. 42-45."
+      user_interview: "session_20260520_abc123 (LINE chat, 2026-05-20)"
+      EchoFeelings: "ef_20260520_00001"
+      community_record: "/archive/tahs-minutes-2023-06.pdf"
+
+  contributor:
+    type: string
+    required: true
+    description: "Who originated or submitted this content (sanitized username or source title)"
+    examples:
+      user: "lin-meiling"
+      book: "Hsu, L."
+      system: "Profiler (auto-synthesized)"
+      community: "TAHS Board Minutes"
+
+  verification_level:
+    type: integer
+    required: true
+    description: "Operational verification rating 1-5 (see Knowledge Core §7)"
+    minimum: 1
+    maximum: 5
+    labels:
+      5: "Primary Source — direct quote, official record, firsthand testimony"
+      4: "Multi-Source Corroborated — confirmed by 2+ independent sources"
+      3: "Community Consensus — widely accepted oral history, needs documentation"
+      2: "Plausible Inference — logical but unconfirmed, requires approval"
+      1: "AI-Generated / Speculative — not eligible for normal publication"
+
+  public_eligibility:
+    type: enum
+    required: true
+    description: "Publication status — gate-controlled by Archivist"
+    values:
+      - approved
+      - rejected
+      - pending_review
+      - revision_requested
+    defaults:
+      approved: "Cleared for Echopedia public layer publication"
+      rejected: "Blocked from public publication (rejection_reasons recorded)"
+      pending_review: "Awaiting Archivist review"
+      revision_requested: "Returned to contributor/Profiler for edits"
+
+# Extended metadata (RECOMMENDED)
+extended_metadata:
+  rejection_reasons:
+    type: array
+    description: "Structured reasons if rejected (from Archivist rejection taxonomy)"
+    values:
+      - insufficient_age
+      - identifiable_info
+      - consent_issue
+      - cultural_concern
+      - single_incident_low_impact
+      - pending_historian_review
+
+  archivist_reviewed_at:
+    type: string
+    format: date-time
+    description: "ISO 8601 timestamp of last Archivist review"
+
+  historian_verified:
+    type: boolean
+    description: "Whether Historian has independently verified this content"
+
+  labels_applied:
+    type: array
+    description: "Mandatory labels attached (for EchoFeelings entries)"
+    values:
+      - source_attribution
+      - development_status
+      - anonymization_notice
+      - opt_out_mechanism
+
+  aggregation_group:
+    type: string
+    description: "Group ID if this entry is aggregated with others thematically"
+
+  created_at:
+    type: string
+    format: date-time
+    description: "Content creation timestamp"
+
+  updated_at:
+    type: string
+    format: date-time
+    description: "Last content update timestamp"
+
+# Filtering configuration (for public UI)
+filtering:
+  filterable_fields:
+    - source_type
+    - verification_level
+  sort_options:
+    - verification_level_desc
+    - verification_level_asc
+    - created_at_desc
+    - created_at_asc
+    - contributor
+  default_filters:
+    public_eligibility: approved
+    verification_level_min: 2
+  description: >
+    Public-facing filtering allows users to narrow Echopedia content
+    by Source Type and Verification Level for quick identification
+    and rollback of false-positive contributions.

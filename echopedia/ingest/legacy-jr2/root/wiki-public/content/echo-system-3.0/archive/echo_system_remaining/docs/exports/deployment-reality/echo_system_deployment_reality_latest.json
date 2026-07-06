@@ -1,0 +1,231 @@
+{
+  "all_profiles": [
+    "archivist",
+    "audioforge",
+    "content",
+    "default",
+    "echohsu",
+    "echohsu-staging",
+    "echonomics",
+    "evolver",
+    "healer",
+    "historian",
+    "orchestrator",
+    "profiler",
+    "sentinel",
+    "videoforge",
+    "vision",
+    "voice"
+  ],
+  "contract": {
+    "base_url": null,
+    "provider": "openai-codex"
+  },
+  "drift": [
+    {
+      "expected": null,
+      "issue": "base_url_mismatch",
+      "observed": "https://chatgpt.com/backend-api/codex",
+      "profile": "archivist"
+    },
+    {
+      "expected": null,
+      "issue": "base_url_mismatch",
+      "observed": "https://chatgpt.com/backend-api/codex",
+      "profile": "default"
+    },
+    {
+      "expected": null,
+      "issue": "base_url_mismatch",
+      "observed": "https://chatgpt.com/backend-api/codex",
+      "profile": "echohsu-staging"
+    },
+    {
+      "expected": "openai-codex",
+      "issue": "provider_mismatch",
+      "observed": "custom",
+      "profile": "echonomics"
+    },
+    {
+      "expected": null,
+      "issue": "base_url_mismatch",
+      "observed": "http://192.168.7.1:8001/v1",
+      "profile": "echonomics"
+    },
+    {
+      "expected": null,
+      "issue": "base_url_mismatch",
+      "observed": "https://chatgpt.com/backend-api/codex",
+      "profile": "evolver"
+    },
+    {
+      "expected": null,
+      "issue": "base_url_mismatch",
+      "observed": "https://chatgpt.com/backend-api/codex",
+      "profile": "healer"
+    },
+    {
+      "expected": null,
+      "issue": "base_url_mismatch",
+      "observed": "https://chatgpt.com/backend-api/codex",
+      "profile": "historian"
+    },
+    {
+      "expected": null,
+      "issue": "base_url_mismatch",
+      "observed": "https://chatgpt.com/backend-api/codex",
+      "profile": "orchestrator"
+    },
+    {
+      "expected": null,
+      "issue": "base_url_mismatch",
+      "observed": "https://chatgpt.com/backend-api/codex",
+      "profile": "profiler"
+    },
+    {
+      "expected": null,
+      "issue": "base_url_mismatch",
+      "observed": "https://chatgpt.com/backend-api/codex",
+      "profile": "sentinel"
+    },
+    {
+      "expected": "openai-codex",
+      "issue": "provider_mismatch",
+      "observed": "xai-oauth",
+      "profile": "vision"
+    },
+    {
+      "expected": null,
+      "issue": "base_url_mismatch",
+      "observed": "https://api.x.ai/v1",
+      "profile": "vision"
+    },
+    {
+      "expected": "openai-codex",
+      "issue": "provider_mismatch",
+      "observed": "xai-oauth",
+      "profile": "voice"
+    },
+    {
+      "expected": null,
+      "issue": "base_url_mismatch",
+      "observed": "https://api.x.ai/v1",
+      "profile": "voice"
+    }
+  ],
+  "drift_count": 15,
+  "generated_at": "2026-06-23T13:45:18.243493+00:00",
+  "observed_local_models": [
+    {
+      "model": "gpt-5.3-codex",
+      "profile_count": 10
+    },
+    {
+      "model": "RedHatAI/gemma-4-26B-A4B-it-FP8-Dynamic",
+      "profile_count": 1
+    },
+    {
+      "model": "gpt-5.5",
+      "profile_count": 1
+    },
+    {
+      "model": "grok-2-vision-latest",
+      "profile_count": 1
+    },
+    {
+      "model": "grok-imagine-image-quality",
+      "profile_count": 1
+    },
+    {
+      "model": "grok-imagine-video",
+      "profile_count": 1
+    },
+    {
+      "model": "grok-tts-1",
+      "profile_count": 1
+    }
+  ],
+  "ok": false,
+  "profiles": {
+    "archivist": {
+      "base_url": "https://chatgpt.com/backend-api/codex",
+      "default": "gpt-5.3-codex",
+      "provider": "openai-codex"
+    },
+    "audioforge": {
+      "base_url": "https://api.x.ai/v1",
+      "default": "grok-imagine-image-quality",
+      "provider": "xai-oauth"
+    },
+    "content": {
+      "base_url": "https://chatgpt.com/backend-api/codex",
+      "default": "gpt-5.3-codex",
+      "provider": "openai-codex"
+    },
+    "default": {
+      "base_url": "https://chatgpt.com/backend-api/codex",
+      "default": "gpt-5.3-codex",
+      "provider": "openai-codex"
+    },
+    "echohsu": {
+      "base_url": "https://chatgpt.com/backend-api/codex",
+      "default": "gpt-5.5",
+      "provider": "openai-codex"
+    },
+    "echohsu-staging": {
+      "base_url": "https://chatgpt.com/backend-api/codex",
+      "default": "gpt-5.3-codex",
+      "provider": "openai-codex"
+    },
+    "echonomics": {
+      "base_url": "http://192.168.7.1:8001/v1",
+      "default": "RedHatAI/gemma-4-26B-A4B-it-FP8-Dynamic",
+      "provider": "custom"
+    },
+    "evolver": {
+      "base_url": "https://chatgpt.com/backend-api/codex",
+      "default": "gpt-5.3-codex",
+      "provider": "openai-codex"
+    },
+    "healer": {
+      "base_url": "https://chatgpt.com/backend-api/codex",
+      "default": "gpt-5.3-codex",
+      "provider": "openai-codex"
+    },
+    "historian": {
+      "base_url": "https://chatgpt.com/backend-api/codex",
+      "default": "gpt-5.3-codex",
+      "provider": "openai-codex"
+    },
+    "orchestrator": {
+      "base_url": "https://chatgpt.com/backend-api/codex",
+      "default": "gpt-5.3-codex",
+      "provider": "openai-codex"
+    },
+    "profiler": {
+      "base_url": "https://chatgpt.com/backend-api/codex",
+      "default": "gpt-5.3-codex",
+      "provider": "openai-codex"
+    },
+    "sentinel": {
+      "base_url": "https://chatgpt.com/backend-api/codex",
+      "default": "gpt-5.3-codex",
+      "provider": "openai-codex"
+    },
+    "videoforge": {
+      "base_url": "https://api.x.ai/v1",
+      "default": "grok-imagine-video",
+      "provider": "xai-oauth"
+    },
+    "vision": {
+      "base_url": "https://api.x.ai/v1",
+      "default": "grok-2-vision-latest",
+      "provider": "xai-oauth"
+    },
+    "voice": {
+      "base_url": "https://api.x.ai/v1",
+      "default": "grok-tts-1",
+      "provider": "xai-oauth"
+    }
+  }
+}

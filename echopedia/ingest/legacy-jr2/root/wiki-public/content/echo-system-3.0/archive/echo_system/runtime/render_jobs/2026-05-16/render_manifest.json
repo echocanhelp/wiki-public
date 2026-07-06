@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-05-16T06:15:40.908315-07:00",
+  "executive_summary": "Echo System 3.0 recovered from CRITICAL autoloop crash loop (I-AUTO-003 resolved: 120 restarts to 1). Gateway stable (PID 423, 0 restarts). Health assessed at 75/100 (RECOVERING). Risks remain: memory capacity exhaustion (88-98%), stale health score, subagent timeout cascades, and persistent MCP watchdog cron gap. No TAHS historical content entered the pipeline this cycle.",
+  "video_ready": true,
+  "script": "60-second narrative: The Night the System Saved Itself. 6 scenes covering crash detection, root cause analysis, autonomous repair, recovery confirmation, lessons learned, and closing call to action.",
+  "scenes": [
+    {
+      "slug": "hook-120-crashes",
+      "visual": "Dark terminal screen, red error text scrolling. Number 120 pulses in center, shatters into green checkmarks.",
+      "voiceover": "One hundred and twenty crashes. Every twenty-three minutes. This was Echo System — until it fixed itself."
+    },
+    {
+      "slug": "the-crash-23-minute-loop",
+      "visual": "Code editor view. Single line highlighted: summary = data.setdefault. Arrow points to type mismatch. Error text overlay.",
+      "voiceover": "A string where a dictionary was expected. The simplest kind of bug — until it becomes a crash loop that never stops."
+    },
+    {
+      "slug": "diagnosis-sentinel-healer",
+      "visual": "Split screen: Sentinel scanning (red to amber), Healer applying patch (amber to green). Log lines stream I-AUTO-003 FIXED.",
+      "voiceover": "Sentinel detected the pattern. Healer traced the root cause. A one-line fix — type coercion — and the loop was broken."
+    },
+    {
+      "slug": "recovery-confirmed",
+      "visual": "Dashboard view. Services turning green sequentially. Health score counter ticks from 20 toward 75.",
+      "voiceover": "Gateway stable. Autoloop breathing. Public endpoints healthy. But the system knows the story isn't over."
+    },
+    {
+      "slug": "lessons-autonomous-resilience",
+      "visual": "Agent network visualization. Three amber nodes (memory, watchdog, timeouts), rest pulsing green.",
+      "voiceover": "Autonomous systems don't eliminate failure — they learn to recover from it faster. The real test is what happens next."
+    },
+    {
+      "slug": "closing-remember-repair-endure",
+      "visual": "Dark background. Typography: Building systems that remember, repair, and endure. TAHS Knowledge Engine footer.",
+      "voiceover": "Building systems that remember, repair, and endure. Because history deserves better than fragility."
+    }
+  ],
+  "subtitle_text": "Echo System 3.0 autonomous recovery: from 120 crash-loop restarts to stable operation. Memory capacity and MCP watchdog gaps remain.",
+  "asset_requirements": [
+    "Terminal screenshot mockup (red error scrolling)",
+    "Code editor mockup (highlighted line 1100)",
+    "Dashboard mockup (services status indicators)",
+    "Agent network visualization (11-node graph)",
+    "Typography overlay assets (numbers, labels, closing text)"
+  ],
+  "source_refs": [
+    "SystemPulse.json (2026-05-16T05:36:34 PT)",
+    "checks.gateway_status (systemd service output)",
+    "checks.autoloop_active (systemctl is-active)",
+    "checks.public_healthz (curl ngrok endpoint)",
+    "checks.cron_list (hermes cron list)",
+    "pulse.services.echo-autoloop (crash loop metadata)",
+    "pulse.recommended_repairs[0] (fix specification)",
+    "orchestrator artifact (2026-05-16T05:14:33 PT)",
+    "historian artifact (verification gate: idle)",
+    "archivist artifact (wiki sync: deferred items)"
+  ]
+}

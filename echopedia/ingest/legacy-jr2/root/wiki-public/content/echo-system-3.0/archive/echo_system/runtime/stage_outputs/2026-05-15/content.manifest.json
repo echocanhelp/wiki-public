@@ -1,0 +1,61 @@
+{
+  "executive_summary": "Echo System 3.0 autonomously recovered from a deterministic crash loop (120 restarts, 23-min cycle) on 2026-05-15. Sentinel identified root cause (type mismatch in SystemPulse.json), applied data fix, autoloop stabilized. Gateway maintained 2d 11h uptime. Health score: 82/100. Four risks remain: unpatched code bug, Telegram offline 23h, MCP watchdog missing, memory at 95%.",
+  "video_ready": true,
+  "script": "The Night the System Saved Itself — A 60-second documentary of Echo System 3.0's autonomous self-repair operation. Six scenes: crisis detection, diagnosis, self-repair, broader context, closing reflection. Dark terminal aesthetic, ambient electronic music, measured male voiceover.",
+  "scenes": [
+    {
+      "slug": "hook-crash-loop",
+      "visual": "Dark server rack with pulsing red warning lights. On-screen text: '120 CRASHES. 23-MINUTE CYCLE. NO HUMAN ON CALL.'",
+      "voiceover": "At 4 in the morning, an autonomous system started tearing itself apart. 120 restarts. Counting."
+    },
+    {
+      "slug": "sentinel-detection",
+      "visual": "Terminal output scrolling. Sentinel agent artifact highlighted in yellow. Error: TypeError at line 1101.",
+      "voiceover": "The Sentinel agent caught it first. A type mismatch — one string where a dictionary should be. A single line of corrupted data triggering an infinite crash loop."
+    },
+    {
+      "slug": "root-cause-diagnosis",
+      "visual": "Code diff view. echo_autonomous_loop.py:1101 highlighted. Arrow from corrupted SystemPulse.json field to crash point.",
+      "voiceover": "Root cause traced to SystemPulse.json. The autoloop expected a dictionary. It got a string. The result: deterministic failure, every 23 minutes like clockwork."
+    },
+    {
+      "slug": "self-repair-executed",
+      "visual": "Green checkmarks appearing sequentially. Service status: RED to GREEN. '0 restarts' counter updates. Three agent icons (Sentinel, Healer, Evolver) light up.",
+      "voiceover": "Sentinel wrote a corrected pulse. Healer confirmed stabilization. Evolver proposed a permanent code patch. Three agents. Three minutes. Zero humans."
+    },
+    {
+      "slug": "system-overview",
+      "visual": "Architecture diagram of 13 agent profiles lighting up. Gateway uptime counter: '2 DAYS 11 HOURS'. ngrok tunnel shown as active.",
+      "voiceover": "This is Echo System 3.0 — a 13-agent autonomous infrastructure built to monitor, diagnose, and repair itself. Part of the Taiwanese American Historical Society Knowledge Engine."
+    },
+    {
+      "slug": "closing-status",
+      "visual": "Dashboard: Health 82/100. Four risks listed in amber/red. Final text: 'Echo System. Always Watching.'",
+      "voiceover": "The loop is stable. But four risks remain. The autonomous age isn't about perfection — it's about never stopping the repair. Echo System. Always watching."
+    }
+  ],
+  "subtitle_text": "At 4 in the morning, an autonomous system started tearing itself apart. 120 restarts. Counting. The Sentinel agent caught it first. A type mismatch — one string where a dictionary should be. Root cause traced to SystemPulse.json. Deterministic failure, every 23 minutes. Sentinel wrote a corrected pulse. Healer confirmed stabilization. Three agents. Three minutes. Zero humans. This is Echo System 3.0 — autonomous infrastructure that repairs itself. The loop is stable. But four risks remain. The autonomous age isn't about perfection — it's about never stopping the repair.",
+  "asset_requirements": [
+    "Server rack / data center B-roll (dark, moody lighting)",
+    "Terminal screenshot mockup with error output",
+    "Code diff visualization (highlighted Python line 1101)",
+    "Service status dashboard (RED/GREEN state transitions)",
+    "System architecture diagram (13 agents, connections)",
+    "Ambient electronic background music track (tense to resolved)",
+    "Deep male voiceover recording (60 seconds, measured pace)"
+  ],
+  "source_refs": [
+    "SystemPulse.json (2026-05-15T05:37:58 PT) — service status, restart counts, health score",
+    "Gateway logs — Telegram failures, memory capacity errors, warning timestamps",
+    "Sentinel artifact: /root/echo_system/runtime/stage_outputs/2026-05-15/sentinel.md",
+    "Healer artifact: /root/echo_system/runtime/stage_outputs/2026-05-15/healer.md",
+    "Evolver artifact: /root/echo_system/runtime/stage_outputs/2026-05-15/evolver.md",
+    "Orchestrator artifact: /root/echo_system/runtime/stage_outputs/2026-05-15/orchestrator.md",
+    "Historian artifact: /root/echo_system/runtime/stage_outputs/2026-05-15/historian.md",
+    "Archivist artifact: /root/echo_system/runtime/stage_outputs/2026-05-15/archivist.md",
+    "Live systemctl checks: gateway active (0 restarts), autoloop active (0 restarts), ports 8079/8080 listening",
+    "Curl healthz: ngrok public endpoint OK (dashboard, sms, line upstreams)"
+  ],
+  "valid": true,
+  "errors": []
+}

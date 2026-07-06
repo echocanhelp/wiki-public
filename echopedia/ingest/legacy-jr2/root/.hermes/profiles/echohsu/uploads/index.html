@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Upload to echohsu</title>
+    <style>
+        body { font-family: system-ui; background:#111; color:#ddd; padding:40px; text-align:center; }
+        .box { background:#1a1a1a; padding:40px; border-radius:12px; max-width:420px; margin:0 auto; }
+        .drop { border:2px dashed #444; padding:40px; border-radius:8px; cursor:pointer; }
+        .drop.dragover { border-color:#3b82f6; background:#1a1a2e; }
+        .btn { background:#3b82f6; color:white; border:none; padding:12px 24px; border-radius:6px; margin-top:16px; cursor:pointer; }
+        .btn:disabled { background:#555; cursor:not-allowed; }
+        .status { margin-top:20px; padding:12px; border-radius:6px; }
+        .status.ok { background:#064e3b; color:#6ee7b7; }
+        .status.error { background:#7f1d1d; color:#fca5a5; }
+        .status.uploading { background:#1e3a5f; color:#93c5fd; }
+    </style>
+</head>
+<body>
+    <div class="box">
+        <h2>Upload to echohsu</h2>
+        <div class="drop" id="zone">
+            <p>Drop file here or click</p>
+            <input type="file" id="file" style="display:none">
+            <button class="btn" id="btn" onclick="document.getElementById('file').click()">Choose File</button>
+        </div>
+        <div id="status" class="status"></div>
+    </div>
+    <script>
+        const zone = document.getElementById('zone');
+        const input = document.getElementById('file');
+        const btn = document.getElementById('btn');
+        const status = document.getElementById('status');
+
+        // Extract upload_id from URL query params
+        const uploadId = new URLSearchParams(window.location.search).get('id') || '';
+
+        function upload(file) {
+            if (!file) return;
+            const fd = new FormData();
+            fd.append('file', file);
+
+            btn.disabled = true;
+            status.className = 'status uploading';
+            status.innerHTML = `Uploading ${file.name}...`;
+
+            // Build URL with upload_id if present
+            const url = '/upload' + (uploadId ? '?id=' + encodeURIComponent(uploadId) : '');
+
+            // credentials:'include' ensures ngrok session cookie is sent
+            fetch(url, {
+                method: 'POST',
+                body: fd,
+                credentials: 'include'
+            })
+            .then(r => {
+                if (!r.ok) throw new Error(`HTTP ${r.status}: ${r.statusText}`);
+                return r.json();
+            })
+            .then(d => {
+                if (d.path) {
+                    status.className = 'status ok';
+                    status.innerHTML = `✅ Uploaded!<br><small>${d.path}</small>`;
+                } else {
+                    status.className = 'status error';
+                    status.innerHTML = '❌ Error: no path in response';
+                }
+            })
+            .catch(e => {
+                status.className = 'status error';
+                status.innerHTML = `❌ Failed: ${e.message}<br><small>${e.name}</small>`;
+                console.error('Upload failed:', e);
+            })
+            .finally(() => {
+                btn.disabled = false;
+            });
+        }
+
+        zone.onclick = () => input.click();
+        input.onchange = () => upload(input.files[0]);
+        zone.ondrop = e => { e.preventDefault(); zone.classList.remove('dragover'); upload(e.dataTransfer.files[0]); };
+        zone.ondragover = e => { e.preventDefault(); zone.classList.add('dragover'); };
+        zone.ondragleave = () => zone.classList.remove('dragover');
+    </script>
+</body>
+</html>

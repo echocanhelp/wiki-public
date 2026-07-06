@@ -1,0 +1,87 @@
+{
+  "render_ready": false,
+  "blocked_reasons": [
+    "Historian artifact explicitly marks approved_for_media as false.",
+    "Live public /healthz check returned HTTP 500.",
+    "Evidence conflict remains unresolved between pulse-reported ngrok healthz ok and live HTTP 500.",
+    "Evidence conflict remains unresolved between pulse-reported mcp-server on port 8090 and live listeners only on 8079 and 8080.",
+    "No approved final production script is evidenced as a locked render input.",
+    "No verified visual asset package is supplied.",
+    "No voiceover, subtitle, music, or end-screen asset package is supplied."
+  ],
+  "output_basename": "echo-system-morning-briefing-2026-05-11-internal",
+  "scenes": [
+    {
+      "slug": "yellow-morning",
+      "visual": "Operations dashboard with yellow status emphasis and 2026-05-11 morning timestamp.",
+      "voiceover": "This morning, the Echo loop is active, but the verified signal remains cautionary."
+    },
+    {
+      "slug": "core-services-stable",
+      "visual": "hermes-gateway and echo-autoloop marked active with restart counters at zero.",
+      "voiceover": "At the core, gateway and autoloop are both active, with zero restarts in the live checks."
+    },
+    {
+      "slug": "scheduler-and-resources",
+      "visual": "Five active cron jobs, 44 percent root disk use, and workable memory on a 2 GB system.",
+      "voiceover": "Scheduled watchdogs and audits are active, while disk and memory remain within workable bounds."
+    },
+    {
+      "slug": "public-edge-failure",
+      "visual": "ngrok health probe returning HTTP 500 with gateway warning lines showing MCP connection failures.",
+      "voiceover": "However, the public edge does not verify cleanly: the live health probe fails and gateway logs show MCP connection errors."
+    },
+    {
+      "slug": "conflicting-signals",
+      "visual": "Split comparison between pulse-reported healthy ngrok and port 8090 versus live HTTP 500 and listeners only on 8079 and 8080.",
+      "voiceover": "The most important morning signal is contradiction: pulse and live checks do not fully agree."
+    },
+    {
+      "slug": "internal-only-close",
+      "visual": "Internal briefing end card with unresolved verification items highlighted.",
+      "voiceover": "The disciplined conclusion is internal-only: the loop is alive, but external reliability is not yet confirmed."
+    }
+  ],
+  "asset_requirements": [
+    "Approved final morning briefing script",
+    "Verified scene-by-scene visual prompts or style frames",
+    "Confirmed voiceover text and selected voice",
+    "Subtitle or SRT file from locked narration",
+    "Cleared background music asset",
+    "End screen with approved wiki link and verification badge text",
+    "Source attribution card for the internal briefing",
+    "Any required Echo System internal branding package"
+  ],
+  "delivery_checklist": [
+    "Reconcile live vs pulse health evidence",
+    "Reconcile live vs pulse port evidence",
+    "Obtain explicit media approval replacing the current historian block",
+    "Lock final internal-use script",
+    "Prepare verified visual asset package per scene",
+    "Generate or record approved narration",
+    "Create subtitle file from locked narration",
+    "Select and clear background music",
+    "Build end screen with source attribution and verification wording",
+    "Confirm output basename, duration target, and aspect ratio",
+    "Render only after all blockers are cleared"
+  ],
+  "source_refs": [
+    "evidence.collected_at",
+    "evidence.checks.gateway_active",
+    "evidence.checks.autoloop_active",
+    "evidence.checks.gateway_status",
+    "evidence.checks.gateway_restarts_total",
+    "evidence.checks.autoloop_restarts_total",
+    "evidence.checks.disk_root",
+    "evidence.checks.memory",
+    "evidence.checks.cron_list",
+    "evidence.checks.ports",
+    "evidence.checks.public_healthz",
+    "evidence.upstream_artifacts.content",
+    "evidence.upstream_artifacts.historian",
+    "evidence.upstream_artifacts.archivist",
+    "evidence.pulse"
+  ],
+  "valid": true,
+  "errors": []
+}

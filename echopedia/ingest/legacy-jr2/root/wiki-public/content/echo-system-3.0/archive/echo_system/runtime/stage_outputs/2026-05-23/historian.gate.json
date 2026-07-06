@@ -1,0 +1,33 @@
+{
+  "approved_for_public_reuse": true,
+  "approved_for_media": false,
+  "safe_facts": [
+    "SystemPulse timestamp 2026-05-23T05:15:16.268637-07:00 reports status '🟠 Autonomous loop degraded' with health score 20.",
+    "Current checks report hermes-gateway active and echo-autoloop active.",
+    "Current checks report gateway restart count 1 and autoloop restart count 0.",
+    "The evidence explicitly lists one issue: public MCP watchdog cron missing.",
+    "The evidence explicitly lists one caution: hermes-gateway has nonzero restart count.",
+    "Cron evidence shows echo-system-deployment-reality-audit last run failed (exit code 1) with drift_detected and drift_count 18.",
+    "Port check output shows 8080 listening; no 8079/8090 listener appears in the provided filtered output.",
+    "Public health probe evidence shows /healthz returned HTTP 404 on the ngrok URL."
+  ],
+  "blocked_claims": [
+    "The autonomous loop is fully repaired or stable.",
+    "Deployment drift has been resolved.",
+    "Public MCP endpoint health contract is fixed.",
+    "Blocked downstream stages have completed successfully today.",
+    "Any Taiwanese American historical or family narrative claim inferred from this telemetry."
+  ],
+  "source_gaps": [
+    "No independent second evidence set beyond the supplied pulse/check snapshot.",
+    "No successful follow-up deployment-reality audit run (exit 0) included.",
+    "No endpoint probe evidence for a known 200 OK public health route.",
+    "No historian-grade family/community/archive sources for cultural narrative validation."
+  ],
+  "consent_notes": [
+    "No consent artifacts for public storytelling subjects were included in the supplied evidence.",
+    "Operational telemetry can be reused; narrative media involving people/communities remains out of scope without source and consent evidence."
+  ],
+  "valid": true,
+  "errors": []
+}

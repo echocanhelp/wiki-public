@@ -1,0 +1,36 @@
+{
+  "approved_for_public_reuse": true,
+  "approved_for_media": false,
+  "safe_facts": [
+    "Evidence snapshot collected at 2026-05-31T05:15:49.501197-07:00.",
+    "hermes-gateway service check returned active.",
+    "echo-autoloop service check returned active.",
+    "Current issue list includes: public MCP watchdog cron missing.",
+    "Current caution list includes: hermes-gateway has nonzero restart count.",
+    "Gateway restart counter reported as 3.",
+    "Autoloop restart counter reported as 0.",
+    "Root filesystem check reported 77% usage (15G/20G used).",
+    "Port scan output showed listeners on 127.0.0.1:8080 and 0.0.0.0:8090.",
+    "Public curl probe to /healthz on the ngrok URL returned HTTP 404.",
+    "Listed cron jobs in evidence were active and last run status shown as ok.",
+    "Pulse status field reports autonomous loop degraded with health score 20."
+  ],
+  "blocked_claims": [
+    "Autoloop is currently in a deterministic crash loop.",
+    "MCP server port 8090 is currently not listening.",
+    "Root disk usage is 53%.",
+    "Public /healthz endpoint is healthy.",
+    "Repairs or auto-fixes were applied during this cycle."
+  ],
+  "source_gaps": [
+    "Conflicting values exist between command-level checks and legacy/narrative pulse subfields (autoloop state, port 8090, disk usage).",
+    "No independent second source (outside this bundle) was provided to resolve contradictions.",
+    "No direct command evidence provided for successful external public health endpoint path (only a failing /healthz probe)."
+  ],
+  "consent_notes": [
+    "No personal-data consent artifacts were included in the provided evidence.",
+    "No publication consent document was provided in this bundle."
+  ],
+  "valid": true,
+  "errors": []
+}

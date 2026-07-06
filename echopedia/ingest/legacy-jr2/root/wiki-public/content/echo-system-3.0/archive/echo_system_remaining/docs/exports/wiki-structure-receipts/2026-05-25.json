@@ -1,0 +1,94 @@
+{
+  "date_key": "2026-05-25",
+  "doc_count": 6,
+  "docs": [
+    {
+      "drive_id": "1mYtPW_FS5y9pa7g8OK7T43E5T9XpjhJa",
+      "drive_size": "20174",
+      "local_size": 20174,
+      "name": "Echo_System_Master_Index.md",
+      "sha256": "6714f23c2cb12d615a79f6c1e2ce02d7eb8370314f22bb960e95af95f44df387",
+      "verification": {
+        "actual_size": 20174,
+        "expected_size": 20174,
+        "name_matches": true,
+        "size_matches": true
+      },
+      "webViewLink": "https://drive.google.com/file/d/1mYtPW_FS5y9pa7g8OK7T43E5T9XpjhJa/view?usp=drivesdk"
+    },
+    {
+      "drive_id": "1pEwiLnyxssV_1afIZAd4ZmBaPhoUwcx-",
+      "drive_size": "24009",
+      "local_size": 24009,
+      "name": "Echo_System_Vision_Architecture.md",
+      "sha256": "eec5354406f27e1b0cf5295bca14057ac5a2ffd16b082ec91489d8c3d230015c",
+      "verification": {
+        "actual_size": 24009,
+        "expected_size": 24009,
+        "name_matches": true,
+        "size_matches": true
+      },
+      "webViewLink": "https://drive.google.com/file/d/1pEwiLnyxssV_1afIZAd4ZmBaPhoUwcx-/view?usp=drivesdk"
+    },
+    {
+      "drive_id": "1w4faAkUgMUoxSuqgxJ15C9ToPNtTQyVk",
+      "drive_size": "88559",
+      "local_size": 88559,
+      "name": "Echo_System_Agent_Prompts.md",
+      "sha256": "4c43574dbb4b98c613879524b6b37a61e57fe381c1911ddb299e4b84067367d6",
+      "verification": {
+        "actual_size": 88559,
+        "expected_size": 88559,
+        "name_matches": true,
+        "size_matches": true
+      },
+      "webViewLink": "https://drive.google.com/file/d/1w4faAkUgMUoxSuqgxJ15C9ToPNtTQyVk/view?usp=drivesdk"
+    },
+    {
+      "drive_id": "1L5Hrhen2vRGw-ETADTqmGulM_c9WMkc3",
+      "drive_size": "47882",
+      "local_size": 47882,
+      "name": "Echo_System_Knowledge_Core.md",
+      "sha256": "4eda62863d8efbab69699228e6fe0f06d3c97be303f879c25e5311c70dd1425a",
+      "verification": {
+        "actual_size": 47882,
+        "expected_size": 47882,
+        "name_matches": true,
+        "size_matches": true
+      },
+      "webViewLink": "https://drive.google.com/file/d/1L5Hrhen2vRGw-ETADTqmGulM_c9WMkc3/view?usp=drivesdk"
+    },
+    {
+      "drive_id": "1dQ2djH1IBxKDwS0DdHm_QHofrRv1PKi2",
+      "drive_size": "31899",
+      "local_size": 31899,
+      "name": "Echo_System_Runtime_and_Self_Management.md",
+      "sha256": "61c3b48caec031e4527395b31dc97e96a4540a3ff0cbc6a1241a90abf5ad4b19",
+      "verification": {
+        "actual_size": 31899,
+        "expected_size": 31899,
+        "name_matches": true,
+        "size_matches": true
+      },
+      "webViewLink": "https://drive.google.com/file/d/1dQ2djH1IBxKDwS0DdHm_QHofrRv1PKi2/view?usp=drivesdk"
+    },
+    {
+      "drive_id": "1nmxCzq7jnQ4_-_2NDYRzvQhFO2g35hz_",
+      "drive_size": "82520",
+      "local_size": 82520,
+      "name": "Echo_System_Operations_Guide.md",
+      "sha256": "26836e8396b746740f0d8fd1c025ad97d89435e614fe61748399b6258c5865b4",
+      "verification": {
+        "actual_size": 82520,
+        "expected_size": 82520,
+        "name_matches": true,
+        "size_matches": true
+      },
+      "webViewLink": "https://drive.google.com/file/d/1nmxCzq7jnQ4_-_2NDYRzvQhFO2g35hz_/view?usp=drivesdk"
+    }
+  ],
+  "generated_at": "2026-05-25T07:30:54.256211-07:00",
+  "source_root": "/root/echo_system/docs",
+  "status": "synced",
+  "wiki_folder_id": "1a_A7x-LVruKzhLvLRAuRj5rzhNwsjT6C"
+}

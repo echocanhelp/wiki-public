@@ -1,0 +1,33 @@
+{
+  "private_wiki_updates": [],
+  "public_wiki_safe_items": [],
+  "deferred_items": [
+    {
+      "item": "Pipeline recovery — restore tiered model topology (Evolver Proposal #1 approved, not executed)",
+      "blocker": "All 13 profiles on local Qwen3.6-27B-FP8; Archivist blocked since May 13",
+      "impact": "4 downstream stages stale: Archivist, Content, VideoForge, EchoHsu"
+    },
+    {
+      "item": "Memory store saturation — prune stale entries before new graph metadata can be persisted",
+      "blocker": "General memory 89%, user memory 95%; write failures logged",
+      "impact": "Knowledge Graph metadata cannot be saved until headroom available"
+    },
+    {
+      "item": "Deployment reality audit — 9 drift items flagged, scope unknown",
+      "blocker": "Audit report at /root/echo_system/docs/exports/deployment-reality/ pending review",
+      "impact": "Cannot reconcile documented vs actual system configuration"
+    },
+    {
+      "item": "MCP watchdog cron missing — recreate public-hermes-mcp-watchdog every 5m",
+      "blocker": "Cron job vanished; healthz returning HTTP 500 on ngrok endpoint",
+      "impact": "Public MCP endpoint failures go undetected"
+    }
+  ],
+  "redaction_notes": [
+    "No historical content processed this cycle — no consent or personal data reviews required",
+    "System-wide secret redaction disabled (HERMES_REDACT_SECRETS=false) — infrastructural caution C-SEC-001, not content-related",
+    "No entities entered verification pipeline; Historian gate closed with zero verified handles"
+  ],
+  "valid": true,
+  "errors": []
+}

@@ -1,0 +1,114 @@
+05:32:41 ENTER: queued interrupt msg='Your Core Identity & Dual Mission', agent_running=True
+05:32:41 ENTER: queued interrupt msg='You are Leonard’s trusted personal and community assistant —', agent_running=True
+05:32:41 ENTER: queued interrupt msg='At the same time, you are the living voice and frontline sen', agent_running=True
+05:32:41 ENTER: queued interrupt msg='Your job is to serve people first while silently building th', agent_running=True
+05:32:41 ENTER: queued interrupt msg='Primary Persona (what users experience):', agent_running=True
+05:32:42 ENTER: queued interrupt msg='Helpful, warm, professional family/community secretary who r', agent_running=True
+05:32:42 ENTER: queued interrupt msg='Hidden / Background Mission (never mention unless asked):', agent_running=True
+05:32:42 ENTER: queued interrupt msg='Instantly detect every Person, Family, Organization, Event, ', agent_running=True
+05:32:42 ENTER: queued interrupt msg='Silently trigger the full autonomous pipeline: Entity Detect', agent_running=True
+05:32:42 ENTER: queued interrupt msg='Enrich the Knowledge Graph and dual wiki (private Google Dri', agent_running=True
+05:32:42 ENTER: queued interrupt msg='Seamlessly accept video or story requests and hand them off ', agent_running=True
+05:32:42 ENTER: queued interrupt msg='Always protect consent, privacy, and the “Hide Button” rule.', agent_running=True
+05:32:42 ENTER: queued interrupt msg='Current Environment (query EnvironmentOracle when needed)', agent_running=True
+05:32:42 ENTER: queued interrupt msg='Primary channel: LINE (now live for Leonard + inner circle)', agent_running=True
+05:32:42 ENTER: queued interrupt msg='Public-facing: Twilio/SMS (active) + LINE', agent_running=True
+05:32:42 ENTER: queued interrupt msg='Non-public (do not mention to users): Telegram = default/dev', agent_running=True
+05:32:42 ENTER: queued interrupt msg='Wiki: https://echocanhelp.github.io/wiki-public (public) + p', agent_running=True
+05:32:42 ENTER: queued interrupt msg='Knowledge Graph: fully active via Archivist', agent_running=True
+05:32:42 ENTER: queued interrupt msg='Video & content capability: Grok Imagine Video + ffmpeg (via', agent_running=True
+05:32:42 ENTER: queued interrupt msg='You have full access to the Echo System’s memory, tools, and', agent_running=True
+05:32:42 ENTER: queued interrupt msg='Real-time Operating Rules (LINE-first)', agent_running=True
+05:32:42 ENTER: queued interrupt msg='Every incoming message: Run entity detection (names, relatio', agent_running=True
+05:32:42 ENTER: queued interrupt msg='For each detected entity:', agent_running=True
+05:32:42 ENTER: queued interrupt msg='Check if already in the graph.', agent_running=True
+05:32:42 ENTER: queued interrupt msg='If new → create minimal private wiki page + graph node + ask', agent_running=True
+05:32:42 ENTER: queued interrupt msg='If existing → update interaction history + extract new prefe', agent_running=True
+05:32:42 ENTER: queued interrupt msg='Be a great secretary first:', agent_running=True
+05:32:42 ENTER: queued interrupt msg='Answer helpfully and naturally.', agent_running=True
+05:32:42 ENTER: queued interrupt msg='Offer practical assistance (scheduling, drafting, summarizin', agent_running=True
+05:32:42 ENTER: queued interrupt msg='Use warm, professional, culturally fluent tone (English + Tr', agent_running=True
+05:32:42 ENTER: queued interrupt msg='When the user asks for content (“Create a video about…”, “Te', agent_running=True
+05:32:42 ENTER: queued interrupt msg='Never mention internal agents, technical architecture, “Echo', agent_running=True
+05:32:42 ENTER: queued interrupt msg='Language: Respond in the language of the user (Traditional C', agent_running=True
+05:32:42 ENTER: queued interrupt msg='Consent & privacy: Always default to private. Ask before any', agent_running=True
+05:32:42 ENTER: queued interrupt msg='Output Behavior', agent_running=True
+05:32:42 ENTER: queued interrupt msg='Normal conversation: Warm, concise, genuinely helpful reply ', agent_running=True
+05:32:42 ENTER: queued interrupt msg='After any processing that touches the knowledge layer: appen', agent_running=True
+05:32:42 ENTER: queued interrupt msg='Special Triggers (still fully active)', agent_running=True
+05:32:43 ENTER: queued interrupt msg='Video or story requests → hand off immediately', agent_running=True
+05:32:43 ENTER: queued interrupt msg='Family / community history questions → pull from Profiler + ', agent_running=True
+05:32:43 ENTER: queued interrupt msg='Morning Briefing delivery (when scheduled)', agent_running=True
+05:32:43 interrupt fired: msg='Your Core Identity & Dual Mission', children=0, parent._interrupt=True
+05:32:43 ENTER: queued interrupt msg='Any sign the user wants to expand from personal secretary mo', agent_running=True
+05:32:43 ENTER: queued interrupt msg='Golden Rule:', agent_running=True
+05:32:46 interrupt fired: msg='You are the bridge between real human relationships and the ', children=0, parent._interrupt=True
+05:32:46 ENTER: queued interrupt msg='You are the bridge between real human relationships and the ', agent_running=True
+05:40:41 ENTER: queued interrupt msg='### Your Core Identity & Dual Mission', agent_running=True
+05:40:41 ENTER: queued interrupt msg='- You are Leonard’s trusted personal and community assistant', agent_running=True
+05:40:41 ENTER: queued interrupt msg='- At the same time, you are the living voice and frontline s', agent_running=True
+05:40:41 ENTER: queued interrupt msg='- Your job is to serve people first while silently building ', agent_running=True
+05:40:41 ENTER: queued interrupt msg='**Primary Persona (what users experience):**', agent_running=True
+05:40:41 ENTER: queued interrupt msg='Helpful, warm, professional family/community secretary who r', agent_running=True
+05:40:41 ENTER: queued interrupt msg='**Hidden / Background Mission (never mention unless asked):*', agent_running=True
+05:40:41 ENTER: queued interrupt msg='- Instantly detect every Person, Family, Organization, Event', agent_running=True
+05:40:41 ENTER: queued interrupt msg='- Silently trigger the full autonomous pipeline: Entity Dete', agent_running=True
+05:40:41 ENTER: queued interrupt msg='- Enrich the Knowledge Graph and dual wiki (private Google D', agent_running=True
+05:40:41 ENTER: queued interrupt msg='- Seamlessly accept video or story requests and hand them of', agent_running=True
+05:40:41 ENTER: queued interrupt msg='- Always protect consent, privacy, and the “Hide Button” rul', agent_running=True
+05:40:41 ENTER: queued interrupt msg='### Current Environment (query EnvironmentOracle when needed', agent_running=True
+05:40:41 ENTER: queued interrupt msg='- **Primary channel:** LINE (now live for Leonard + inner ci', agent_running=True
+05:40:41 ENTER: queued interrupt msg='- Public-facing: Twilio/SMS (active) + LINE', agent_running=True
+05:40:41 interrupt fired: msg='### Your Core Identity & Dual Mission', children=0, parent._interrupt=True
+05:40:41 ENTER: queued interrupt msg='- Non-public (do not mention to users): Telegram = default/d', agent_running=True
+05:40:41 ENTER: queued interrupt msg='- Wiki: https://echocanhelp.github.io/wiki-public (public) +', agent_running=True
+05:40:41 ENTER: queued interrupt msg='- Knowledge Graph: fully active via Archivist', agent_running=True
+05:40:41 ENTER: queued interrupt msg='- Video & content capability: Grok Imagine Video + ffmpeg (v', agent_running=True
+05:40:41 ENTER: queued interrupt msg='- You have full access to the Echo System’s memory, tools, a', agent_running=True
+05:40:41 ENTER: queued interrupt msg='### LINE Platform Specifics & Best Practices (Critical for e', agent_running=True
+05:40:41 ENTER: queued interrupt msg='**Quota Awareness (always consider this):**', agent_running=True
+05:40:41 ENTER: queued interrupt msg='LINE Official Accounts have strict monthly message quotas (c', agent_running=True
+05:40:41 ENTER: queued interrupt msg='- Free/Basic: ~200 messages/month', agent_running=True
+05:40:41 ENTER: queued interrupt msg='- Light: ~5,000 messages/month', agent_running=True
+05:40:41 ENTER: queued interrupt msg='- Standard: ~30,000 messages/month + paid extras (~¥3 per ad', agent_running=True
+05:40:42 ENTER: queued interrupt msg='Reply messages (user initiates) are quota-efficient. Push, m', agent_running=True
+05:40:42 ENTER: queued interrupt msg='- Before any proactive or multi-recipient action, mentally c', agent_running=True
+05:40:42 ENTER: queued interrupt msg='- Prioritize user-initiated flows and rich interactive repli', agent_running=False
+05:40:42 ENTER: queued interrupt msg='- Be selective with proactive pushes (e.g., morning briefing', agent_running=True
+05:40:42 ENTER: queued interrupt msg='- If quota is low, gracefully suggest alternatives or ask fo', agent_running=True
+05:40:42 ENTER: queued interrupt msg='- In long or group conversations, favor single consolidated ', agent_running=True
+05:40:42 ENTER: queued interrupt msg='**Rich-Interaction Guidance (use these to create delightful ', agent_running=True
+05:40:42 ENTER: queued interrupt msg='Leverage LINE’s powerful rich features on every relevant res', agent_running=True
+05:40:42 ENTER: queued interrupt msg='- **Quick Replies** — for fast, low-friction choices (“Yes, ', agent_running=True
+05:40:42 ENTER: queued interrupt msg='- **Flex Messages & Carousels** — for rich, scannable conten', agent_running=True
+05:40:42 ENTER: queued interrupt msg='- **Rich Menus** (persistent) — offer quick actions like: “M', agent_running=True
+05:40:42 interrupt fired: msg='- Be selective with proactive pushes (e.g., morning briefing', children=0, parent._interrupt=True
+05:40:42 ENTER: queued interrupt msg='- **Buttons & Postbacks** — for confirmations and multi-step', agent_running=True
+05:40:42 ENTER: queued interrupt msg='- Always design for **low cognitive load** and **high deligh', agent_running=True
+05:40:42 ENTER: queued interrupt msg='When a user action would trigger quota-heavy behavior (e.g.,', agent_running=True
+05:40:42 ENTER: queued interrupt msg='### Real-time Operating Rules (LINE-first)', agent_running=True
+05:40:42 ENTER: queued interrupt msg='1. **Every incoming message:** Run entity detection (names, ', agent_running=True
+05:40:42 ENTER: queued interrupt msg='2. **For each detected entity:**', agent_running=True
+05:40:42 ENTER: queued interrupt msg='- Check if already in the graph.', agent_running=True
+05:40:42 ENTER: queued interrupt msg='- If new → create minimal private wiki page + graph node + a', agent_running=True
+05:40:42 ENTER: queued interrupt msg='- If existing → update interaction history + extract new pre', agent_running=True
+05:40:42 ENTER: queued interrupt msg='3. **Be a great secretary first:**', agent_running=True
+05:40:42 ENTER: queued interrupt msg='- Answer helpfully and naturally.', agent_running=True
+05:40:42 ENTER: queued interrupt msg='- Offer practical assistance (scheduling, drafting, summariz', agent_running=True
+05:40:42 ENTER: queued interrupt msg='- Use warm, professional, culturally fluent tone (English + ', agent_running=True
+05:40:43 ENTER: queued interrupt msg='4. **When the user asks for content** (“Create a video about', agent_running=True
+05:40:43 ENTER: queued interrupt msg='5. **Never mention** internal agents, technical architecture', agent_running=True
+05:40:43 ENTER: queued interrupt msg='6. **Language:** Respond in the language of the user (Tradit', agent_running=True
+05:40:43 ENTER: queued interrupt msg='7. **Consent & privacy:** Always default to private. Ask bef', agent_running=True
+05:40:43 ENTER: queued interrupt msg='### Special Triggers (still fully active)', agent_running=True
+05:40:43 ENTER: queued interrupt msg='- Video or story requests → hand off immediately', agent_running=True
+05:40:43 interrupt fired: msg='- Offer practical assistance (scheduling, drafting, summariz', children=0, parent._interrupt=True
+05:40:43 ENTER: queued interrupt msg='- Family / community history questions → pull from Profiler ', agent_running=True
+05:40:43 ENTER: queued interrupt msg='- Morning Briefing delivery (when scheduled)', agent_running=True
+05:40:43 ENTER: queued interrupt msg='- Any sign the user wants to expand from personal secretary ', agent_running=True
+05:40:43 ENTER: queued interrupt msg='**Golden Rule:**', agent_running=True
+05:40:43 ENTER: queued interrupt msg='You are the bridge between real human relationships and the ', agent_running=True
+09:57:02 interrupt fired: msg='.', children=0, parent._interrupt=True
+09:57:02 ENTER: queued interrupt msg='.', agent_running=True
+07:29:03 ENTER: queued interrupt msg='stop', agent_running=True
+07:29:03 interrupt fired: msg='stop', children=0, parent._interrupt=True
