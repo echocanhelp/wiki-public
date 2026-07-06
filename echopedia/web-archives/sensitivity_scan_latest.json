@@ -1,0 +1,149 @@
+{
+  "timestamp": "2026-07-06T21:50:18.285563+00:00",
+  "total_hits": 19,
+  "flagged_files": [
+    "/home/leedt/echo-system/echopedia/wiki/legacy/procedures/echopedia-community-contributions-hub.md",
+    "/home/leedt/echo-system/echopedia/wiki/legacy/people/david-lee.md",
+    "/home/leedt/echo-system/echopedia/wiki/legacy/people/gstpc-vision-and-mission-異象使命.md",
+    "/home/leedt/echo-system/echopedia/wiki/legacy/people/good-shepherd-taiwanese-presbyterian-church-好牧者臺灣基督長老教會.md",
+    "/home/leedt/echo-system/echopedia/wiki/legacy/people/irvine-taiwanese-presbyterian-church-爾灣台灣基督長老教會.md",
+    "/home/leedt/echo-system/echopedia/wiki/people/leonard-hsu.md",
+    "/home/leedt/echo-system/echopedia/wiki/legacy/echo-system-3.0/line-identity-standard.md",
+    "/home/leedt/echo-system/echopedia/wiki/legacy/people/gstpc-about-and-identity-好牧者教會簡介.md"
+  ],
+  "hits": [
+    {
+      "file": "/home/leedt/echo-system/echopedia/wiki/legacy/echo-system-3.0/line-identity-standard.md",
+      "line": 29,
+      "pattern": "line_user_id",
+      "description": "LINE user ID",
+      "match": "U0b1b4329eb17c7ec32c0f3c469eff01f"
+    },
+    {
+      "file": "/home/leedt/echo-system/echopedia/wiki/legacy/people/david-lee.md",
+      "line": 15,
+      "pattern": "line_user_id",
+      "description": "LINE user ID",
+      "match": "U0b1b4329eb17c7ec32c0f3c469eff01f"
+    },
+    {
+      "file": "/home/leedt/echo-system/echopedia/wiki/legacy/people/good-shepherd-taiwanese-presbyterian-church-好牧者臺灣基督長老教會.md",
+      "line": 22,
+      "pattern": "address",
+      "description": "Physical address",
+      "match": "606 South Atlantic Blvd"
+    },
+    {
+      "file": "/home/leedt/echo-system/echopedia/wiki/legacy/people/good-shepherd-taiwanese-presbyterian-church-好牧者臺灣基督長老教會.md",
+      "line": 30,
+      "pattern": "phone",
+      "description": "Phone number",
+      "match": "626) 282-1747"
+    },
+    {
+      "file": "/home/leedt/echo-system/echopedia/wiki/legacy/people/good-shepherd-taiwanese-presbyterian-church-好牧者臺灣基督長老教會.md",
+      "line": 31,
+      "pattern": "phone",
+      "description": "Phone number",
+      "match": "626) 408-6605"
+    },
+    {
+      "file": "/home/leedt/echo-system/echopedia/wiki/legacy/people/good-shepherd-taiwanese-presbyterian-church-好牧者臺灣基督長老教會.md",
+      "line": 32,
+      "pattern": "email",
+      "description": "Email address",
+      "match": "goodshepherdtpc@gmail.com"
+    },
+    {
+      "file": "/home/leedt/echo-system/echopedia/wiki/legacy/people/gstpc-about-and-identity-好牧者教會簡介.md",
+      "line": 38,
+      "pattern": "address",
+      "description": "Physical address",
+      "match": "606 South Atlantic Blvd"
+    },
+    {
+      "file": "/home/leedt/echo-system/echopedia/wiki/legacy/people/gstpc-about-and-identity-好牧者教會簡介.md",
+      "line": 39,
+      "pattern": "phone",
+      "description": "Phone number",
+      "match": "626) 282-1747"
+    },
+    {
+      "file": "/home/leedt/echo-system/echopedia/wiki/legacy/people/gstpc-about-and-identity-好牧者教會簡介.md",
+      "line": 40,
+      "pattern": "phone",
+      "description": "Phone number",
+      "match": "626) 408-6605"
+    },
+    {
+      "file": "/home/leedt/echo-system/echopedia/wiki/legacy/people/gstpc-about-and-identity-好牧者教會簡介.md",
+      "line": 41,
+      "pattern": "email",
+      "description": "Email address",
+      "match": "goodshepherdtpc@gmail.com"
+    },
+    {
+      "file": "/home/leedt/echo-system/echopedia/wiki/legacy/people/gstpc-vision-and-mission-異象使命.md",
+      "line": 30,
+      "pattern": "address",
+      "description": "Physical address",
+      "match": "606 South Atlantic Blvd"
+    },
+    {
+      "file": "/home/leedt/echo-system/echopedia/wiki/legacy/people/gstpc-vision-and-mission-異象使命.md",
+      "line": 31,
+      "pattern": "phone",
+      "description": "Phone number",
+      "match": "626) 282-1747"
+    },
+    {
+      "file": "/home/leedt/echo-system/echopedia/wiki/legacy/people/gstpc-vision-and-mission-異象使命.md",
+      "line": 32,
+      "pattern": "email",
+      "description": "Email address",
+      "match": "goodshepherdtpc@gmail.com"
+    },
+    {
+      "file": "/home/leedt/echo-system/echopedia/wiki/legacy/people/irvine-taiwanese-presbyterian-church-爾灣台灣基督長老教會.md",
+      "line": 23,
+      "pattern": "address",
+      "description": "Physical address",
+      "match": "24301 El Toro Rd"
+    },
+    {
+      "file": "/home/leedt/echo-system/echopedia/wiki/legacy/people/irvine-taiwanese-presbyterian-church-爾灣台灣基督長老教會.md",
+      "line": 79,
+      "pattern": "address",
+      "description": "Physical address",
+      "match": "18 linked Google Drive"
+    },
+    {
+      "file": "/home/leedt/echo-system/echopedia/wiki/legacy/procedures/echopedia-community-contributions-hub.md",
+      "line": 53,
+      "pattern": "email",
+      "description": "Email address",
+      "match": "echocanhelp@gmail.com"
+    },
+    {
+      "file": "/home/leedt/echo-system/echopedia/wiki/legacy/procedures/echopedia-community-contributions-hub.md",
+      "line": 53,
+      "pattern": "email",
+      "description": "Email address",
+      "match": "echocanhelp@gmail.com"
+    },
+    {
+      "file": "/home/leedt/echo-system/echopedia/wiki/people/leonard-hsu.md",
+      "line": 7,
+      "pattern": "phone",
+      "description": "Phone number",
+      "match": "626-890-0234"
+    },
+    {
+      "file": "/home/leedt/echo-system/echopedia/wiki/people/leonard-hsu.md",
+      "line": 7,
+      "pattern": "email",
+      "description": "Email address",
+      "match": "lhsu@tsasu-llc.com"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "events": [
+    {
+      "type": "message",
+      "timestamp": 1720281600000,
+      "source": {
+        "type": "group",
+        "groupId": "C70086677e2bc13e4fb148af09150c58a",
+        "userId": "U0f32fb11347263a3fc985718caffbdd7"
+      },
+      "message": {
+        "type": "text",
+        "text": "Please onboard @Test Volunteer Onboard for Echopedia"
+      },
+      "profile": {
+        "userId": "U0f32fb11347263a3fc985718caffbdd7",
+        "displayName": "Leonard Hsu Jr."
+      },
+      "mention_profile": {
+        "userId": "Utest9999999999999999999999999999",
+        "displayName": "Test Volunteer Onboard"
+      }
+    }
+  ]
+}

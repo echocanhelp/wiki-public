@@ -1,0 +1,20 @@
+{
+  "events": [
+    {
+      "type": "message",
+      "source": {
+        "type": "group",
+        "groupId": "Ctestgroup0000000000000000000001",
+        "userId": "Unewuser000000000000000000000001"
+      },
+      "message": {
+        "type": "text",
+        "text": "Hello from a new LINE member"
+      },
+      "profile": {
+        "userId": "Unewuser000000000000000000000001",
+        "displayName": "New Line Member"
+      }
+    }
+  ]
+}
