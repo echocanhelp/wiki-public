@@ -1,9 +1,13 @@
-# Credentials and secrets
+# Credentials and secrets — never commit live tokens
 .env
+**/.env
+**/.env.*
+!**/.env.example
 *.key
 *.pem
-**/.env
 **/*.secret
+**/runtime/backups/**/*.env
+echopedia/ingest/**/.env.bak*
 
 # Python
 __pycache__/
@@ -14,6 +18,7 @@ __pycache__/
 # Logs
 logs/
 logs.*
+*.log
 
 # PID files
 *.pid
@@ -24,16 +29,31 @@ logs.*
 *.swp
 *.swo
 
-# Media (large files - track in git-lfs separately)
+# Media (large files)
 media/
 **/*.mp4
 **/*.mov
 **/*.avi
 
-# Herme internals
+# Hermes scratch
 .scratch/
 .herme/
 
-# System files
+# OS
 .DS_Store
 Thumbs.db
+
+# Quartz / site build (wiki-public layout)
+node_modules
+quartz-engine/public
+quartz-engine/quartz/.quartz-cache
+public/
+quartz
+!quartz-engine/quartz/
+moderation-webhook/
+/root/package.json
+/root/package-lock.json
+
+# Local DB snapshots (not for public git)
+**/*.db
+state-snapshots/
