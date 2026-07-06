@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+set -euo pipefail
+ROOT="$(git rev-parse --show-toplevel)"
+cd "$ROOT"
+zero=0000000000000000000000000000000000000000
+failed=0
+
+while read -r local_ref local_sha remote_ref remote_sha; do
+  [[ "$local_sha" = "$zero" ]] && continue
+  range=""
+  if [[ "$remote_sha" != "$zero" ]]; then
+    range="${remote_sha}..${local_sha}"
+  fi
+  if ! "$ROOT/scripts/scan-live-tokens.sh" "$range" "$local_sha"; then
+    failed=1
+  fi
+done
+
+exit "$failed"

@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+set -euo pipefail
+ROOT="$(git rev-parse --show-toplevel)"
+cd "$ROOT"
+GITLEAKS="${GITLEAKS:-$HOME/.local/bin/gitleaks}"
+
+# Fast: staged-only generic leak patterns
+if [[ -x "$GITLEAKS" ]]; then
+  "$GITLEAKS" protect --staged --config "$ROOT/.gitleaks.toml" --no-banner 2>/dev/null || {
+    echo "gitleaks protect failed on staged files — review output above" >&2
+    exit 1
+  }
+fi
+
+exec "$ROOT/scripts/scan-live-tokens.sh" "" HEAD

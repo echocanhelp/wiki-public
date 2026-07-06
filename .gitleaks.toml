@@ -1,0 +1,26 @@
+title = "echo-system / wiki-public guardrails"
+
+[extend]
+useDefault = true
+
+# Doc placeholders only (not live PATs)
+[[rules.allowlists]]
+description = "Hermes skill doc PAT examples"
+paths = [
+  '''echopedia/ingest/.*/skills/.*/native-mcp\.md''',
+  '''echopedia/ingest/.*/skills/mcp/native-mcp/SKILL\.md''',
+]
+
+[[rules.allowlists]]
+description = "Redacted env stubs"
+paths = [
+  '''echopedia/ingest/.*/runtime/backups/.*\.env''',
+  '''bridges/\.env\.example''',
+]
+
+[[rules.allowlists]]
+description = "Redaction notices"
+paths = [
+  '''.*REDACTED\.md''',
+  '''README-CREDENTIALS-REDACTED\.md''',
+]
