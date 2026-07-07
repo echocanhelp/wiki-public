@@ -4,7 +4,7 @@
 # Uses Jina reader for clean markdown extraction
 #
 # Configured sources:
-# 1. https://www.gstpc.org — Guangzhou Society of Taiwan Professional and Executives (gstpc.org)
+# 1. https://www.gstpc.org — Good Shepherd Taiwanese Presbyterian Church (gstpc.org)
 # 2. https://www.irvinetpc.org — Irvine Taiwanese Presbyterian Church
 # 3. https://taiwancenter.org — 大洛杉磯台灣會館基金會
 
@@ -18,7 +18,7 @@ mkdir -p "$ARCHIVE_DIR"
 
 # URL list — one per line, format: URL|category|slug
 URLS=(
-  "https://www.gstpc.org|org|guangzhou-society-taiwan-professional-executives"
+  "https://www.gstpc.org|org|good-shepherd-taiwanese-presbyterian-church"
   "https://www.irvinetpc.org|org|irvine-taiwanese-presbyterian-church"
   "https://taiwancenter.org|org|taiwan-center"
 )

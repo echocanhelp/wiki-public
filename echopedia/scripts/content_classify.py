@@ -21,9 +21,9 @@ AUDIT_LOG = ECHOPEDIA / 'identity/identity_audit.jsonl'
 
 # Canonical org slugs from scrape_websites.sh (latest archive per slug wins)
 ORG_ARCHIVE_SPECS: dict[str, dict[str, str]] = {
-    'guangzhou-society-taiwan-professional-executives': {
-        'wiki_slug': 'guangzhou-society-taiwan-professional-executives',
-        'title': 'Guangzhou Society of Taiwan Professional and Executives',
+    'good-shepherd-taiwanese-presbyterian-church': {
+        'wiki_slug': 'good-shepherd-taiwanese-presbyterian-church',
+        'title': 'Good Shepherd Taiwanese Presbyterian Church',
         'title_zh': '好牧者臺灣基督長老教會',
         'canonical_url': 'https://www.gstpc.org',
     },
