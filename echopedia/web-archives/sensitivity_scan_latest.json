@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-07-06T21:50:18.285563+00:00",
+  "timestamp": "2026-07-07T02:14:23.106613+00:00",
   "total_hits": 19,
   "flagged_files": [
-    "/home/leedt/echo-system/echopedia/wiki/legacy/procedures/echopedia-community-contributions-hub.md",
-    "/home/leedt/echo-system/echopedia/wiki/legacy/people/david-lee.md",
-    "/home/leedt/echo-system/echopedia/wiki/legacy/people/gstpc-vision-and-mission-異象使命.md",
     "/home/leedt/echo-system/echopedia/wiki/legacy/people/good-shepherd-taiwanese-presbyterian-church-好牧者臺灣基督長老教會.md",
-    "/home/leedt/echo-system/echopedia/wiki/legacy/people/irvine-taiwanese-presbyterian-church-爾灣台灣基督長老教會.md",
-    "/home/leedt/echo-system/echopedia/wiki/people/leonard-hsu.md",
+    "/home/leedt/echo-system/echopedia/wiki/legacy/people/david-lee.md",
+    "/home/leedt/echo-system/echopedia/wiki/legacy/people/gstpc-about-and-identity-好牧者教會簡介.md",
     "/home/leedt/echo-system/echopedia/wiki/legacy/echo-system-3.0/line-identity-standard.md",
-    "/home/leedt/echo-system/echopedia/wiki/legacy/people/gstpc-about-and-identity-好牧者教會簡介.md"
+    "/home/leedt/echo-system/echopedia/wiki/legacy/procedures/echopedia-community-contributions-hub.md",
+    "/home/leedt/echo-system/echopedia/wiki/legacy/people/irvine-taiwanese-presbyterian-church-爾灣台灣基督長老教會.md",
+    "/home/leedt/echo-system/echopedia/wiki/legacy/people/gstpc-vision-and-mission-異象使命.md",
+    "/home/leedt/echo-system/echopedia/wiki/people/leonard-hsu.md"
   ],
   "hits": [
     {

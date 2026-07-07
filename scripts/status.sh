@@ -74,71 +74,19 @@ echo "=== Agents ==="
 ls -1 "$ROOT/agents"/*.json 2>/dev/null | xargs -I{} basename {} || echo "  none"
 
 echo ""
-echo "=== Bridges (LINE / Telegram) ==="
-BRIDGE_ENV="$ROOT/bridges/.env"
-PIDS="$ROOT/bridges/pids"
-if [[ -f "$BRIDGE_ENV" ]]; then
-  echo "  OK   bridges/.env"
-else
-  echo "  MISS bridges/.env — run scripts/import-bridge-env.sh"
-fi
-if systemctl --user list-unit-files echo-bridges.target &>/dev/null && \
-   systemctl --user list-unit-files echo-bridges.target 2>/dev/null | grep -q echo-bridges.target; then
-  for unit in echo-bridge-telegram echo-bridge-line echo-bridge-ngrok; do
-    if systemctl --user is-active "${unit}.service" &>/dev/null; then
-      echo "  RUN  ${unit#echo-bridge-} (systemd active)"
-    else
-      echo "  DOWN ${unit#echo-bridge-} (systemd $(systemctl --user is-active "${unit}.service" 2>/dev/null || echo inactive))"
-    fi
-  done
-else
-  for name in telegram line; do
-    pidfile="$PIDS/${name}.pid"
-    if [[ -f "$pidfile" ]] && kill -0 "$(cat "$pidfile")" 2>/dev/null; then
-      echo "  RUN  $name pid=$(cat "$pidfile")"
-    else
-      echo "  DOWN $name"
-    fi
-  done
-fi
-if [[ -f "$BRIDGE_ENV" ]]; then
-  line_port=$(grep -E '^LINE_WEBHOOK_PORT=' "$BRIDGE_ENV" 2>/dev/null | tail -1 | cut -d= -f2- || echo 8787)
-  check "LINE webhook (local)" "http://127.0.0.1:${line_port}/health"
-  line_public=$(grep -E '^LINE_PUBLIC_URL=' "$BRIDGE_ENV" 2>/dev/null | tail -1 | cut -d= -f2- || true)
-  if [[ -n "$line_public" ]]; then
-    check "LINE webhook (public)" "${line_public%/}/health"
-  fi
-  if systemctl --user is-active echo-bridge-ngrok.service &>/dev/null; then
-    echo "  RUN  ngrok (systemd active)"
-  elif [[ -f "$ROOT/bridges/pids/ngrok.pid" ]] && kill -0 "$(cat "$ROOT/bridges/pids/ngrok.pid")" 2>/dev/null; then
-    echo "  RUN  ngrok pid=$(cat "$ROOT/bridges/pids/ngrok.pid")"
-    ngrok_url=$(curl -sf --max-time 2 http://127.0.0.1:4040/api/tunnels 2>/dev/null | python3 -c "
-import json,sys
-try:
-    d=json.load(sys.stdin)
-    for t in d.get('tunnels',[]):
-        u=t.get('public_url','')
-        if u.startswith('https://'):
-            print(u); break
-except Exception: pass
-" 2>/dev/null || true)
-    [[ -n "$ngrok_url" ]] && echo "  ngrok tunnel: $ngrok_url"
+echo "=== Messaging (Hermes gateway) ==="
+for unit in hermes-gateway hermes-line-ngrok; do
+  if systemctl --user is-active "${unit}.service" &>/dev/null; then
+    echo "  RUN  ${unit}.service"
   else
-    echo "  DOWN ngrok"
+    echo "  DOWN ${unit}.service ($(systemctl --user is-active "${unit}.service" 2>/dev/null || echo inactive))"
   fi
-  if command -v curl >/dev/null && grep -qE '^LINE_CHANNEL_ACCESS_TOKEN=' "$BRIDGE_ENV" 2>/dev/null; then
-    line_token=$(grep -E '^LINE_CHANNEL_ACCESS_TOKEN=' "$BRIDGE_ENV" | tail -1 | cut -d= -f2-)
-    registered=$(curl -sf --max-time 5 "https://api.line.me/v2/bot/channel/webhook/endpoint" \
-      -H "Authorization: Bearer ${line_token}" 2>/dev/null | python3 -c "import json,sys; d=json.load(sys.stdin); print(d.get('endpoint','?'))" 2>/dev/null || echo "unreachable")
-    echo "  LINE registered webhook: $registered"
-  fi
-  if systemctl --user list-unit-files echo-bridges.target &>/dev/null && \
-     systemctl --user list-unit-files echo-bridges.target 2>/dev/null | grep -q echo-bridges.target; then
-    linger=$(loginctl show-user "$(id -un)" -p Linger --value 2>/dev/null || echo no)
-    if [[ "$linger" == "yes" ]]; then
-      echo "  OK   boot persistence (linger enabled)"
-    else
-      echo "  WARN boot persistence — run: loginctl enable-linger $(id -un)"
-    fi
-  fi
+done
+check "Hermes gateway" "http://127.0.0.1:8646/health"
+BRIDGE_ENV="$ROOT/bridges/.env"
+if [[ -f "$BRIDGE_ENV" ]] && command -v curl >/dev/null && grep -qE '^LINE_CHANNEL_ACCESS_TOKEN=' "$BRIDGE_ENV" 2>/dev/null; then
+  line_token=$(grep -E '^LINE_CHANNEL_ACCESS_TOKEN=' "$BRIDGE_ENV" | tail -1 | cut -d= -f2-)
+  registered=$(curl -sf --max-time 5 "https://api.line.me/v2/bot/channel/webhook/endpoint" \
+    -H "Authorization: Bearer ${line_token}" 2>/dev/null | python3 -c "import json,sys; d=json.load(sys.stdin); print(d.get('endpoint','?'))" 2>/dev/null || echo "unreachable")
+  echo "  LINE registered webhook: $registered"
 fi

@@ -1,6 +1,0 @@
-[Unit]
-Description=Echo messaging bridges (Telegram + LINE + ngrok)
-Wants=echo-bridge-telegram.service echo-bridge-line.service echo-bridge-ngrok.service
-
-[Install]
-WantedBy=default.target

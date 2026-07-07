@@ -1,14 +1,8 @@
 #!/bin/bash
+# Stop legacy nohup bridge processes (if any). Systemd echo-bridge units removed 2026-07-06.
 set -euo pipefail
 
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
-
-if systemctl --user is-active echo-bridges.target &>/dev/null; then
-  echo "=== Stopping Echo Bridges (systemd) ==="
-  systemctl --user stop echo-bridges.target
-  exit 0
-fi
-
 PIDS="$ROOT/bridges/pids"
 
 _stop() {
@@ -55,7 +49,7 @@ _stop_ngrok() {
   rm -f "$pidfile"
 }
 
-echo "=== Stopping Echo Bridges ==="
+echo "=== Stopping legacy Echo bridge processes (nohup only) ==="
 _stop telegram
 _stop line
 _stop_ngrok

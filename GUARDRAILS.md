@@ -33,11 +33,11 @@ Last updated: 2026-07-06
 ### Model Routing
 | Setting | Value |
 |---------|-------|
-| `model.default` | `nvidia/Qwen3.6-35B-A3B-NVFP4` |
-| `model.provider` | `custom:pinto` (`192.168.7.1:8001/v1`) |
-| `fallback_providers` | CPU only: `qwen3-8b-cpu` @ `:8004` |
+| `model.default` | `qwen36-35b-q8-xl` |
+| `model.provider` | `custom:pinto` (`127.0.0.1:8001/v1`) |
+| `fallback_providers` | `xai-oauth` / `grok-composer-2.5-fast` (NVFP4 @ :8002 retired 2026-07-06) |
 | `auxiliary.vision` | xai-oauth |
-| `auxiliary.compression` | xai-oauth (⚠️ **Migrate to local :8001**) |
+| `auxiliary.compression` | xai-oauth primary; Q8 `fallback_chain` @ `:8001` |
 | `delegation.provider` | xai-oauth |
 | `delegation.model` | `grok-composer-2.5-fast` |
 
@@ -86,9 +86,9 @@ Last updated: 2026-07-06
 ### Services
 | Service | Status | Notes |
 |---------|--------|-------|
-| `echo-bridge-ngrok.service` | DISABLED | Legacy — was on :8787 |
-| `echo-bridge-line.service` | DISABLED | Legacy — was dead bridge |
-| `hermes-gateway.service` | ACTIVE | Native LINE integration |
+| `echo-bridge-*` units | **REMOVED** | TauErgon bridges retired 2026-07-06 |
+| `hermes-gateway.service` | ACTIVE | Native LINE + Telegram |
+| `hermes-line-ngrok.service` | ACTIVE | ngrok → :8646 |
 
 ### ngrok Setup
 ```bash
@@ -131,17 +131,16 @@ PasswordAuthentication yes
 
 ## Hybrid Model Routing (Draft)
 
-### Three-Tier Policy
+### Two-Tier Policy
 | Tier | Model | When |
 |------|-------|------|
 | A — Frontier | xAI Grok | Public data only — architecture, coding, web research |
-| B — Private LAN | Qwen36 35B @ :8001 | **Default** — everything private |
-| C — Emergency | Qwen3-8B @ :8004 | Outage only |
+| B — Private LAN | Qwen36 35B Q8 @ :8001 | **Default** — everything private |
 
 ### Privacy Rules
-- `auxiliary.compression` → move to local :8001
+- `auxiliary.compression` → local :8001; Grok `fallback_chain` when GPU down
 - Delegation → sanitized briefs only
-- No cloud in `fallback_providers`
+- No `fallback_providers` (health-guard restarts vLLM on outage)
 - `auxiliary.vision` → Grok OK (main stays local)
 
 ---
