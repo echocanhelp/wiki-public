@@ -1,0 +1,649 @@
+{
+  "generated": "2026-07-08",
+  "legacy_person_pages": [
+    {
+      "source": "echopedia/wiki/legacy/people/albert-chapter1-audiobook-consent-and-recording-kit.md",
+      "canonical_name": "albert-chapter1-audiobook-consent-and-recording-kit",
+      "display_name": "Albert Chapter1 Audiobook Consent And Recording Kit",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "echopedia/wiki/legacy/people/albert-chapter1-audiobook-taiwanese-female.md",
+      "canonical_name": "albert-chapter1-audiobook-taiwanese-female",
+      "display_name": "Albert Chapter1 Audiobook Taiwanese Female",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/cai-weiren-\\350\\224\\241\\347\\266\\255\\344\\273\\201.md\"",
+      "canonical_name": "cai-weiren-350224241347266255344273201",
+      "display_name": "Cai Weiren \\350\\224\\241\\347\\266\\255\\344\\273\\201\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/chen-bozhi-\\351\\231\\263\\346\\237\\217\\345\\277\\227.md\"",
+      "canonical_name": "chen-bozhi-351231263346237217345277227",
+      "display_name": "Chen Bozhi \\351\\231\\263\\346\\237\\217\\345\\277\\227\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/chen-meihui-\\351\\231\\263\\347\\276\\216\\350\\225\\231.md\"",
+      "canonical_name": "chen-meihui-351231263347276216350225231",
+      "display_name": "Chen Meihui \\351\\231\\263\\347\\276\\216\\350\\225\\231\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/chen-xialian-\\351\\231\\263\\345\\244\\217\\350\\223\\256.md\"",
+      "canonical_name": "chen-xialian-351231263345244217350223256",
+      "display_name": "Chen Xialian \\351\\231\\263\\345\\244\\217\\350\\223\\256\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/ching-fang-chen-\\351\\231\\263\\346\\270\\205\\350\\212\\263.md\"",
+      "canonical_name": "ching-fang-chen-351231263346270205350212263",
+      "display_name": "Ching Fang Chen \\351\\231\\263\\346\\270\\205\\350\\212\\263\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/choan-seng-song-\\345\\256\\213\\346\\263\\211\\347\\233\\233.md\"",
+      "canonical_name": "choan-seng-song-345256213346263211347233233",
+      "display_name": "Choan Seng Song \\345\\256\\213\\346\\263\\211\\347\\233\\233\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/david-huang-\\351\\273\\203\\345\\276\\267\\345\\210\\251.md\"",
+      "canonical_name": "david-huang-351273203345276267345210251",
+      "display_name": "David Huang \\351\\273\\203\\345\\276\\267\\345\\210\\251\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/deng-shuzhen-\\351\\204\\247\\346\\267\\221\\350\\262\\236.md\"",
+      "canonical_name": "deng-shuzhen-351204247346267221350262236",
+      "display_name": "Deng Shuzhen \\351\\204\\247\\346\\267\\221\\350\\262\\236\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/en-sheng-pan-\\346\\275\\230\\346\\201\\251\\347\\233\\233.md\"",
+      "canonical_name": "en-sheng-pan-346275230346201251347233233",
+      "display_name": "En Sheng Pan \\346\\275\\230\\346\\201\\251\\347\\233\\233\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/good-shepherd-taiwanese-presbyterian-church-\\345\\245\\275\\347\\211\\247\\350\\200\\205\\350\\207\\272\\347\\201\\243\\345\\237\\272\\347\\235\\243\\351\\225\\267\\350\\200\\201\\346\\225\\231\\346\\234\\203.md\"",
+      "canonical_name": "good-shepherd-taiwanese-presbyterian-church-345245275347211247350200205350207272347201243345237272347235243351225267350200201346225231346234203",
+      "display_name": "Good Shepherd Taiwanese Presbyterian Church \\345\\245\\275\\347\\211\\247\\350\\200\\205\\350\\207\\272\\347\\201\\243\\345\\237\\272\\347\\235\\243\\351\\225\\267\\350\\200\\201\\346\\225\\231\\346\\234\\203\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/gstpc-pastoral-profile-mingyuan-hsu-\\350\\250\\261\\346\\230\\216\\351\\201\\240.md\"",
+      "canonical_name": "gstpc-pastoral-profile-mingyuan-hsu-350250261346230216351201240",
+      "display_name": "Gstpc Pastoral Profile Mingyuan Hsu \\350\\250\\261\\346\\230\\216\\351\\201\\240\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/guo-dongxu-\\351\\203\\255\\346\\235\\261\\347\\267\\222.md\"",
+      "canonical_name": "guo-dongxu-351203255346235261347267222",
+      "display_name": "Guo Dongxu \\351\\203\\255\\346\\235\\261\\347\\267\\222\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/guo-yingyan-\\351\\203\\255\\346\\207\\211\\350\\250\\200.md\"",
+      "canonical_name": "guo-yingyan-351203255346207211350250200",
+      "display_name": "Guo Yingyan \\351\\203\\255\\346\\207\\211\\350\\250\\200\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/irvine-taiwanese-presbyterian-church-\\347\\210\\276\\347\\201\\243\\345\\217\\260\\347\\201\\243\\345\\237\\272\\347\\235\\243\\351\\225\\267\\350\\200\\201\\346\\225\\231\\346\\234\\203.md\"",
+      "canonical_name": "irvine-taiwanese-presbyterian-church-347210276347201243345217260347201243345237272347235243351225267350200201346225231346234203",
+      "display_name": "Irvine Taiwanese Presbyterian Church \\347\\210\\276\\347\\201\\243\\345\\217\\260\\347\\201\\243\\345\\237\\272\\347\\235\\243\\351\\225\\267\\350\\200\\201\\346\\225\\231\\346\\234\\203\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/itpc-senior-class-\\351\\225\\267\\351\\235\\222\\346\\225\\231\\345\\256\\244.md\"",
+      "canonical_name": "itpc-senior-class-351225267351235222346225231345256244",
+      "display_name": "Itpc Senior Class \\351\\225\\267\\351\\235\\222\\346\\225\\231\\345\\256\\244\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/lai-junming-\\350\\263\\264\\344\\277\\212\\346\\230\\216.md\"",
+      "canonical_name": "lai-junming-350263264344277212346230216",
+      "display_name": "Lai Junming \\350\\263\\264\\344\\277\\212\\346\\230\\216\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/lien-hwa-chow-\\345\\221\\250\\350\\201\\257\\350\\217\\257.md\"",
+      "canonical_name": "lien-hwa-chow-345221250350201257350217257",
+      "display_name": "Lien Hwa Chow \\345\\221\\250\\350\\201\\257\\350\\217\\257\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/los-angeles-taiwanese-american-heritage-week-2025-\\346\\264\\233\\346\\235\\211\\347\\243\\257\\345\\217\\260\\347\\276\\216\\344\\272\\272\\345\\202\\263\\347\\265\\261\\351\\200\\261.md\"",
+      "canonical_name": "los-angeles-taiwanese-american-heritage-week-2025-346264233346235211347243257345217260347276216344272272345202263347265261351200261",
+      "display_name": "Los Angeles Taiwanese American Heritage Week 2025 \\346\\264\\233\\346\\235\\211\\347\\243\\257\\345\\217\\260\\347\\276\\216\\344\\272\\272\\345\\202\\263\\347\\265\\261\\351\\200\\261\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/los-angeles-\\346\\264\\233\\346\\235\\211\\347\\243\\257.md\"",
+      "canonical_name": "los-angeles-346264233346235211347243257",
+      "display_name": "Los Angeles \\346\\264\\233\\346\\235\\211\\347\\243\\257\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/mingyuan-hsu-\\350\\250\\261\\346\\230\\216\\351\\201\\240.md\"",
+      "canonical_name": "mingyuan-hsu-350250261346230216351201240",
+      "display_name": "Mingyuan Hsu \\350\\250\\261\\346\\230\\216\\351\\201\\240\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/miss-taiwanese-american-pageant-2025-\\345\\217\\260\\347\\276\\216\\345\\260\\217\\345\\247\\220.md\"",
+      "canonical_name": "miss-taiwanese-american-pageant-2025-345217260347276216345260217345247220",
+      "display_name": "Miss Taiwanese American Pageant 2025 \\345\\217\\260\\347\\276\\216\\345\\260\\217\\345\\247\\220\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/new-taiwan-center-building-project-\\346\\226\\260\\351\\244\\250\\345\\273\\272\\351\\244\\250\\345\\267\\245\\347\\250\\213.md\"",
+      "canonical_name": "new-taiwan-center-building-project-346226260351244250345273272351244250345267245347250213",
+      "display_name": "New Taiwan Center Building Project \\346\\226\\260\\351\\244\\250\\345\\273\\272\\351\\244\\250\\345\\267\\245\\347\\250\\213\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "echopedia/wiki/legacy/people/people.md",
+      "canonical_name": "people",
+      "display_name": "People",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/pinghsi-liu-\\345\\212\\211\\347\\202\\263\\347\\206\\271.md\"",
+      "canonical_name": "pinghsi-liu-345212211347202263347206271",
+      "display_name": "Pinghsi Liu \\345\\212\\211\\347\\202\\263\\347\\206\\271\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/presbyterian-church-in-taiwan-\\345\\217\\260\\347\\201\\243\\345\\237\\272\\347\\235\\243\\351\\225\\267\\350\\200\\201\\346\\225\\231\\346\\234\\203.md\"",
+      "canonical_name": "presbyterian-church-in-taiwan-345217260347201243345237272347235243351225267350200201346225231346234203",
+      "display_name": "Presbyterian Church In Taiwan \\345\\217\\260\\347\\201\\243\\345\\237\\272\\347\\235\\243\\351\\225\\267\\350\\200\\201\\346\\225\\231\\346\\234\\203\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/qiu-yunen-\\351\\202\\261\\347\\221\\234\\345\\253\\251.md\"",
+      "canonical_name": "qiu-yunen-351202261347221234345253251",
+      "display_name": "Qiu Yunen \\351\\202\\261\\347\\221\\234\\345\\253\\251\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "echopedia/wiki/legacy/people/san-francisco-theological-seminary.md",
+      "canonical_name": "san-francisco-theological-seminary",
+      "display_name": "San Francisco Theological Seminary",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/shoki-coe-\\351\\273\\203\\345\\275\\260\\350\\274\\235.md\"",
+      "canonical_name": "shoki-coe-351273203345275260350274235",
+      "display_name": "Shoki Coe \\351\\273\\203\\345\\275\\260\\350\\274\\235\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "echopedia/wiki/legacy/people/tahs-member-onboarding.md",
+      "canonical_name": "tahs-member-onboarding",
+      "display_name": "Tahs Member Onboarding",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/taiwan-and-who-forum-2021-\\345\\217\\260\\347\\201\\243\\345\\212\\240\\345\\205\\245\\344\\270\\226\\350\\241\\233\\347\\265\\204\\347\\271\\224.md\"",
+      "canonical_name": "taiwan-and-who-forum-2021-345217260347201243345212240345205245344270226350241233347265204347271224",
+      "display_name": "Taiwan And Who Forum 2021 \\345\\217\\260\\347\\201\\243\\345\\212\\240\\345\\205\\245\\344\\270\\226\\350\\241\\233\\347\\265\\204\\347\\271\\224\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/taiwan-center-228-memorial-2026-\\344\\272\\214\\344\\272\\214\\345\\205\\253\\350\\277\\275\\346\\200\\235\\347\\264\\200\\345\\277\\265\\346\\234\\203.md\"",
+      "canonical_name": "taiwan-center-228-memorial-2026-344272214344272214345205253350277275346200235347264200345277265346234203",
+      "display_name": "Taiwan Center 228 Memorial 2026 \\344\\272\\214\\344\\272\\214\\345\\205\\253\\350\\277\\275\\346\\200\\235\\347\\264\\200\\345\\277\\265\\346\\234\\203\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/taiwan-center-annual-gala-2025-\\347\\254\\25427\\345\\261\\206\\345\\271\\264\\346\\234\\203\\346\\232\\250\\345\\213\\237\\346\\254\\276\\346\\231\\232\\345\\256\\264.md\"",
+      "canonical_name": "taiwan-center-annual-gala-2025-34725425427345261206345271264346234203346232250345213237346254276346231232345256264",
+      "display_name": "Taiwan Center Annual Gala 2025 \\347\\254\\25427\\345\\261\\206\\345\\271\\264\\346\\234\\203\\346\\232\\250\\345\\213\\237\\346\\254\\276\\346\\231\\232\\345\\256\\264\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/taiwan-center-board-and-leadership-roster-\\350\\221\\243\\344\\272\\213\\346\\234\\203.md\"",
+      "canonical_name": "taiwan-center-board-and-leadership-roster-350221243344272213346234203",
+      "display_name": "Taiwan Center Board And Leadership Roster \\350\\221\\243\\344\\272\\213\\346\\234\\203\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/taiwan-center-construction-progress-\\346\\226\\260\\351\\244\\250\\345\\273\\272\\351\\244\\250\\345\\267\\245\\347\\250\\213\\351\\200\\262\\345\\272\\246.md\"",
+      "canonical_name": "taiwan-center-construction-progress-346226260351244250345273272351244250345267245347250213351200262345272246",
+      "display_name": "Taiwan Center Construction Progress \\346\\226\\260\\351\\244\\250\\345\\273\\272\\351\\244\\250\\345\\267\\245\\347\\250\\213\\351\\200\\262\\345\\272\\246\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/taiwan-center-foundation-of-greater-los-angeles-\\345\\244\\247\\346\\264\\233\\346\\235\\211\\347\\243\\257\\345\\217\\260\\347\\201\\243\\346\\234\\203\\351\\244\\250\\345\\237\\272\\351\\207\\221\\346\\234\\203.md\"",
+      "canonical_name": "taiwan-center-foundation-of-greater-los-angeles-345244247346264233346235211347243257345217260347201243346234203351244250345237272351207221346234203",
+      "display_name": "Taiwan Center Foundation Of Greater Los Angeles \\345\\244\\247\\346\\264\\233\\346\\235\\211\\347\\243\\257\\345\\217\\260\\347\\201\\243\\346\\234\\203\\351\\244\\250\\345\\237\\272\\351\\207\\221\\346\\234\\203\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/taiwan-center-governance-public-documents-\\346\\234\\203\\351\\244\\250\\347\\253\\240\\347\\250\\213\\350\\210\\207\\345\\205\\254\\351\\226\\213\\350\\241\\250\\345\\226\\256.md\"",
+      "canonical_name": "taiwan-center-governance-public-documents-346234203351244250347253240347250213350210207345205254351226213350241250345226256",
+      "display_name": "Taiwan Center Governance Public Documents \\346\\234\\203\\351\\244\\250\\347\\253\\240\\347\\250\\213\\350\\210\\207\\345\\205\\254\\351\\226\\213\\350\\241\\250\\345\\226\\256\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/taiwan-center-groundbreaking-ceremony-2025-\\345\\244\\247\\346\\264\\233\\346\\235\\211\\347\\243\\257\\345\\217\\260\\347\\201\\243\\346\\234\\203\\351\\244\\250\\345\\213\\225\\345\\234\\237\\345\\205\\270\\347\\246\\256.md\"",
+      "canonical_name": "taiwan-center-groundbreaking-ceremony-2025-345244247346264233346235211347243257345217260347201243346234203351244250345213225345234237345205270347246256",
+      "display_name": "Taiwan Center Groundbreaking Ceremony 2025 \\345\\244\\247\\346\\264\\233\\346\\235\\211\\347\\243\\257\\345\\217\\260\\347\\201\\243\\346\\234\\203\\351\\244\\250\\345\\213\\225\\345\\234\\237\\345\\205\\270\\347\\246\\256\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/taiwan-center-group-member-network-\\345\\234\\230\\351\\253\\224\\346\\234\\203\\345\\223\\241\\347\\266\\262\\347\\265\\241.md\"",
+      "canonical_name": "taiwan-center-group-member-network-345234230351253224346234203345223241347266262347265241",
+      "display_name": "Taiwan Center Group Member Network \\345\\234\\230\\351\\253\\224\\346\\234\\203\\345\\223\\241\\347\\266\\262\\347\\265\\241\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/taiwan-center-overseas-student-thanksgiving-dinner-2024-\\346\\265\\267\\345\\244\\226\\347\\225\\231\\345\\255\\270\\347\\224\\237\\346\\204\\237\\346\\201\\251\\347\\257\\200\\351\\244\\220\\346\\234\\203.md\"",
+      "canonical_name": "taiwan-center-overseas-student-thanksgiving-dinner-2024-346265267345244226347225231345255270347224237346204237346201251347257200351244220346234203",
+      "display_name": "Taiwan Center Overseas Student Thanksgiving Dinner 2024 \\346\\265\\267\\345\\244\\226\\347\\225\\231\\345\\255\\270\\347\\224\\237\\346\\204\\237\\346\\201\\251\\347\\257\\200\\351\\244\\220\\346\\234\\203\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/taiwan-center-publications-\\346\\234\\203\\351\\244\\250\\345\\210\\212\\347\\211\\251.md\"",
+      "canonical_name": "taiwan-center-publications-346234203351244250345210212347211251",
+      "display_name": "Taiwan Center Publications \\346\\234\\203\\351\\244\\250\\345\\210\\212\\347\\211\\251\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/taiwan-center-taiwan-school-\\345\\244\\247\\346\\264\\233\\346\\235\\211\\347\\243\\257\\345\\217\\260\\347\\201\\243\\346\\234\\203\\351\\244\\250\\345\\217\\260\\347\\201\\243\\345\\255\\270\\346\\240\\241.md\"",
+      "canonical_name": "taiwan-center-taiwan-school-345244247346264233346235211347243257345217260347201243346234203351244250345217260347201243345255270346240241",
+      "display_name": "Taiwan Center Taiwan School \\345\\244\\247\\346\\264\\233\\346\\235\\211\\347\\243\\257\\345\\217\\260\\347\\201\\243\\346\\234\\203\\351\\244\\250\\345\\217\\260\\347\\201\\243\\345\\255\\270\\346\\240\\241\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/taiwan-formosa-\\345\\217\\260\\347\\201\\243.md\"",
+      "canonical_name": "taiwan-formosa-345217260347201243",
+      "display_name": "Taiwan Formosa \\345\\217\\260\\347\\201\\243\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/taiwanese-american-historical-society-\\345\\217\\260\\347\\276\\216\\344\\272\\272\\346\\255\\267\\345\\217\\262\\345\\215\\224\\346\\234\\203.md\"",
+      "canonical_name": "taiwanese-american-historical-society-345217260347276216344272272346255267345217262345215224346234203",
+      "display_name": "Taiwanese American Historical Society \\345\\217\\260\\347\\276\\216\\344\\272\\272\\346\\255\\267\\345\\217\\262\\345\\215\\224\\346\\234\\203\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/wang-gui-rong-memorial-library-\\347\\216\\213\\346\\241\\202\\346\\246\\256\\345\\234\\226\\346\\233\\270\\351\\244\\250.md\"",
+      "canonical_name": "wang-gui-rong-memorial-library-347216213346241202346246256345234226346233270351244250",
+      "display_name": "Wang Gui Rong Memorial Library \\347\\216\\213\\346\\241\\202\\346\\246\\256\\345\\234\\226\\346\\233\\270\\351\\244\\250\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/wang-gui-rong-\\347\\216\\213\\346\\241\\202\\346\\246\\256.md\"",
+      "canonical_name": "wang-gui-rong-347216213346241202346246256",
+      "display_name": "Wang Gui Rong \\347\\216\\213\\346\\241\\202\\346\\246\\256\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/wang-xinxin-\\347\\216\\213\\344\\277\\241\\345\\277\\203.md\"",
+      "canonical_name": "wang-xinxin-347216213344277241345277203",
+      "display_name": "Wang Xinxin \\347\\216\\213\\344\\277\\241\\345\\277\\203\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/willy-pan-\\346\\275\\230\\345\\273\\272\\345\\256\\207.md\"",
+      "canonical_name": "willy-pan-346275230345273272345256207",
+      "display_name": "Willy Pan \\346\\275\\230\\345\\273\\272\\345\\256\\207\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/wu-li-pei-\\345\\220\\263\\346\\276\\247\\345\\237\\271.md\"",
+      "canonical_name": "wu-li-pei-345220263346276247345237271",
+      "display_name": "Wu Li Pei \\345\\220\\263\\346\\276\\247\\345\\237\\271\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/xiao-xien-\\350\\225\\255\\351\\214\\253\\346\\201\\251.md\"",
+      "canonical_name": "xiao-xien-350225255351214253346201251",
+      "display_name": "Xiao Xien \\350\\225\\255\\351\\214\\253\\346\\201\\251\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/xie-dali-\\350\\254\\235\\345\\244\\247\\347\\253\\213.md\"",
+      "canonical_name": "xie-dali-350254235345244247347253213",
+      "display_name": "Xie Dali \\350\\254\\235\\345\\244\\247\\347\\253\\213\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/xie-xinguang-\\350\\254\\235\\344\\277\\241\\345\\205\\211.md\"",
+      "canonical_name": "xie-xinguang-350254235344277241345205211",
+      "display_name": "Xie Xinguang \\350\\254\\235\\344\\277\\241\\345\\205\\211\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/xie-xinzhong-\\350\\254\\235\\344\\277\\241\\344\\270\\255.md\"",
+      "canonical_name": "xie-xinzhong-350254235344277241344270255",
+      "display_name": "Xie Xinzhong \\350\\254\\235\\344\\277\\241\\344\\270\\255\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/xu-wenkai-\\350\\250\\261\\346\\226\\207\\345\\207\\261.md\"",
+      "canonical_name": "xu-wenkai-350250261346226207345207261",
+      "display_name": "Xu Wenkai \\350\\250\\261\\346\\226\\207\\345\\207\\261\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/yang-chia-yu-\\346\\245\\212\\345\\230\\211\\347\\214\\267.md\"",
+      "canonical_name": "yang-chia-yu-346245212345230211347214267",
+      "display_name": "Yang Chia Yu \\346\\245\\212\\345\\230\\211\\347\\214\\267\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/yunching-yeh-davis-\\350\\221\\211\\350\\212\\270\\351\\235\\222.md\"",
+      "canonical_name": "yunching-yeh-davis-350221211350212270351235222",
+      "display_name": "Yunching Yeh Davis \\350\\221\\211\\350\\212\\270\\351\\235\\222\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/zhang-xuanxin-\\345\\274\\265\\345\\256\\243\\344\\277\\241.md\"",
+      "canonical_name": "zhang-xuanxin-345274265345256243344277241",
+      "display_name": "Zhang Xuanxin \\345\\274\\265\\345\\256\\243\\344\\277\\241\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/zheng-quansheng-\\351\\204\\255\\346\\263\\211\\350\\201\\262.md\"",
+      "canonical_name": "zheng-quansheng-351204255346263211350201262",
+      "display_name": "Zheng Quansheng \\351\\204\\255\\346\\263\\211\\350\\201\\262\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/zhuang-xinde-\\350\\216\\212\\344\\277\\241\\345\\276\\267.md\"",
+      "canonical_name": "zhuang-xinde-350216212344277241345276267",
+      "display_name": "Zhuang Xinde \\350\\216\\212\\344\\277\\241\\345\\276\\267\"",
+      "type": "person",
+      "should_migrate": true,
+      "notes": "High value - historical figure or community member"
+    }
+  ],
+  "legacy_system_docs": [
+    {
+      "source": "echopedia/wiki/legacy/people/fpcla.md",
+      "canonical_name": "fpcla",
+      "display_name": "Fpcla",
+      "type": "organization",
+      "should_migrate": true,
+      "notes": "Organization or historical document"
+    },
+    {
+      "source": "echopedia/wiki/legacy/people/ntpc.md",
+      "canonical_name": "ntpc",
+      "display_name": "Ntpc",
+      "type": "organization",
+      "should_migrate": true,
+      "notes": "Organization or historical document"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/pasadena-\\345\\270\\225\\350\\226\\251\\350\\277\\252\\347\\264\\215.md\"",
+      "canonical_name": "pasadena-345270225350226251350277252347264215",
+      "display_name": "Pasadena \\345\\270\\225\\350\\226\\251\\350\\277\\252\\347\\264\\215\"",
+      "type": "document",
+      "should_migrate": true,
+      "notes": "Organization or historical document"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/tainan-theological-college-and-seminary-\\345\\217\\260\\345\\215\\227\\347\\245\\236\\345\\255\\270\\351\\231\\242.md\"",
+      "canonical_name": "tainan-theological-college-and-seminary-345217260345215227347245236345255270351231242",
+      "display_name": "Tainan Theological College And Seminary \\345\\217\\260\\345\\215\\227\\347\\245\\236\\345\\255\\270\\351\\231\\242\"",
+      "type": "organization",
+      "should_migrate": true,
+      "notes": "Organization or historical document"
+    },
+    {
+      "source": "\"echopedia/wiki/legacy/people/tainan-\\345\\217\\260\\345\\215\\227.md\"",
+      "canonical_name": "tainan-345217260345215227",
+      "display_name": "Tainan \\345\\217\\260\\345\\215\\227\"",
+      "type": "document",
+      "should_migrate": true,
+      "notes": "Organization or historical document"
+    }
+  ],
+  "legacy_book_chapters": [
+    {
+      "source": "echopedia/wiki/legacy/people/toward-a-community-of-hope-1971-2025-publication-history.md",
+      "canonical_name": "toward-a-community-of-hope-1971-2025-publication-history",
+      "display_name": "Toward A Community Of Hope 1971 2025 Publication History",
+      "type": "book",
+      "should_migrate": true,
+      "notes": "Toward a Community of Hope book content"
+    },
+    {
+      "source": "echopedia/wiki/legacy/people/toward-a-community-of-hope-chapter-i-formosan-in-formosa-yesterday.md",
+      "canonical_name": "toward-a-community-of-hope-chapter-i-formosan-in-formosa-yesterday",
+      "display_name": "Toward A Community Of Hope Chapter I Formosan In Formosa Yesterday",
+      "type": "book",
+      "should_migrate": true,
+      "notes": "Toward a Community of Hope book content"
+    },
+    {
+      "source": "echopedia/wiki/legacy/people/toward-a-community-of-hope-chapter-ii-formosan-in-formosa-today.md",
+      "canonical_name": "toward-a-community-of-hope-chapter-ii-formosan-in-formosa-today",
+      "display_name": "Toward A Community Of Hope Chapter Ii Formosan In Formosa Today",
+      "type": "book",
+      "should_migrate": true,
+      "notes": "Toward a Community of Hope book content"
+    },
+    {
+      "source": "echopedia/wiki/legacy/people/toward-a-community-of-hope-chapter-iii-formosan-in-the-united-states.md",
+      "canonical_name": "toward-a-community-of-hope-chapter-iii-formosan-in-the-united-states",
+      "display_name": "Toward A Community Of Hope Chapter Iii Formosan In The United States",
+      "type": "book",
+      "should_migrate": true,
+      "notes": "Toward a Community of Hope book content"
+    },
+    {
+      "source": "echopedia/wiki/legacy/people/toward-a-community-of-hope-chapter-iv-formosan-christian-church-in-los-angeles.md",
+      "canonical_name": "toward-a-community-of-hope-chapter-iv-formosan-christian-church-in-los-angeles",
+      "display_name": "Toward A Community Of Hope Chapter Iv Formosan Christian Church In Los Angeles",
+      "type": "book",
+      "should_migrate": true,
+      "notes": "Toward a Community of Hope book content"
+    },
+    {
+      "source": "echopedia/wiki/legacy/people/toward-a-community-of-hope-chapter-vi-toward-a-community-of-hope.md",
+      "canonical_name": "toward-a-community-of-hope-chapter-vi-toward-a-community-of-hope",
+      "display_name": "Toward A Community Of Hope Chapter Vi Toward A Community Of Hope",
+      "type": "book",
+      "should_migrate": true,
+      "notes": "Toward a Community of Hope book content"
+    },
+    {
+      "source": "echopedia/wiki/legacy/people/toward-a-community-of-hope-conclusion.md",
+      "canonical_name": "toward-a-community-of-hope-conclusion",
+      "display_name": "Toward A Community Of Hope Conclusion",
+      "type": "book",
+      "should_migrate": true,
+      "notes": "Toward a Community of Hope book content"
+    },
+    {
+      "source": "echopedia/wiki/legacy/people/toward-a-community-of-hope-entity-glossary.md",
+      "canonical_name": "toward-a-community-of-hope-entity-glossary",
+      "display_name": "Toward A Community Of Hope Entity Glossary",
+      "type": "book",
+      "should_migrate": true,
+      "notes": "Toward a Community of Hope book content"
+    },
+    {
+      "source": "echopedia/wiki/legacy/people/toward-a-community-of-hope-people-network-map.md",
+      "canonical_name": "toward-a-community-of-hope-people-network-map",
+      "display_name": "Toward A Community Of Hope People Network Map",
+      "type": "book",
+      "should_migrate": true,
+      "notes": "Toward a Community of Hope book content"
+    },
+    {
+      "source": "echopedia/wiki/legacy/people/toward-a-community-of-hope-primary-source-extracts.md",
+      "canonical_name": "toward-a-community-of-hope-primary-source-extracts",
+      "display_name": "Toward A Community Of Hope Primary Source Extracts",
+      "type": "book",
+      "should_migrate": true,
+      "notes": "Toward a Community of Hope book content"
+    },
+    {
+      "source": "echopedia/wiki/legacy/people/toward-a-community-of-hope-republication-voices-and-testaments.md",
+      "canonical_name": "toward-a-community-of-hope-republication-voices-and-testaments",
+      "display_name": "Toward A Community Of Hope Republication Voices And Testaments",
+      "type": "book",
+      "should_migrate": true,
+      "notes": "Toward a Community of Hope book content"
+    },
+    {
+      "source": "echopedia/wiki/legacy/people/toward-a-community-of-hope-source-critical-notes.md",
+      "canonical_name": "toward-a-community-of-hope-source-critical-notes",
+      "display_name": "Toward A Community Of Hope Source Critical Notes",
+      "type": "book",
+      "should_migrate": true,
+      "notes": "Toward a Community of Hope book content"
+    },
+    {
+      "source": "echopedia/wiki/legacy/people/toward-a-community-of-hope-terminology-and-translation-notes.md",
+      "canonical_name": "toward-a-community-of-hope-terminology-and-translation-notes",
+      "display_name": "Toward A Community Of Hope Terminology And Translation Notes",
+      "type": "book",
+      "should_migrate": true,
+      "notes": "Toward a Community of Hope book content"
+    },
+    {
+      "source": "echopedia/wiki/legacy/people/toward-a-community-of-hope-timeline.md",
+      "canonical_name": "toward-a-community-of-hope-timeline",
+      "display_name": "Toward A Community Of Hope Timeline",
+      "type": "book",
+      "should_migrate": true,
+      "notes": "Toward a Community of Hope book content"
+    },
+    {
+      "source": "echopedia/wiki/legacy/people/toward-a-community-of-hope.md",
+      "canonical_name": "toward-a-community-of-hope",
+      "display_name": "Toward A Community Of Hope",
+      "type": "book",
+      "should_migrate": true,
+      "notes": "Toward a Community of Hope book content"
+    }
+  ]
+}
