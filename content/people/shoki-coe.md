@@ -2,10 +2,10 @@
 title: "Dr. Shoki Coe (黃彰輝)"
 type: person
 tags:
-  - Taiwanese-American
-  - theologian
+  - 
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
-
 # Dr. Shoki Coe (黃彰輝)
 
 **Dr. Shoki Coe (黃彰輝)** is a prominent Taiwanese-American theologian and ecumenical leader whose work bridged Taiwan's church history with global theological discourse.

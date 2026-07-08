@@ -2,11 +2,10 @@
 title: "Brother Hu (GSTPC, verification needed)"
 type: person
 tags:
-  - Taiwanese-American
-  - GSTPC
-  - verification-needed
+  - 
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
-
 # Brother Hu (GSTPC, verification needed)
 
 **Brother Hu** is a community member associated with the Good Shepherd Taiwanese Presbyterian Church (GSTPC).

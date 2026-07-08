@@ -2,10 +2,10 @@
 title: "Rev. Xie Xinzhong (謝信中)"
 type: person
 tags:
-  - Taiwanese-American
-  - clergy
+  - 
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
-
 # Rev. Xie Xinzhong (謝信中)
 
 **Rev. Xie Xinzhong (謝信中)** is a Taiwanese-American ordained minister recognized in church records.

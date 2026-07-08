@@ -2,12 +2,10 @@
 title: "North Taiwan Presbyterian Church (NTPC)"
 type: organization
 tags:
-  - Taiwanese-American
-  - organization
-  - Presbyterian
-  - church
+  - 
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
-
 # North Taiwan Presbyterian Church (NTPC)
 
 The **North Taiwan Presbyterian Church (NTPC)** is a regional body within the Presbyterian Church in Taiwan, serving congregations in northern Taiwan.

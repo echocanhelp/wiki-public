@@ -1,26 +1,11 @@
 ---
-title: Leonard Hsu Jr. (許景鴻)
+title: "Leonard Hsu Jr. (許景鴻)"
 type: person
 tags:
-  - Taiwanese American
-  - TAHS
-  - Echopedia
-slug: leonard-hsu-jr
-status: Published
-last_updated: 2026-06-16
-person_type: Living Person
-name_en: Leonard Hsu Jr.
-name_zh_hanzi: 許景鴻
-name_zh_romanization: Hsu Ching-Hung
-aliases: []
-identity_confidence: high
-verification_state: self_verified
-sources_public:
-  - https://github.com/echocanhelp
-  - https://github.com/echocanhelp/wiki-public
-  - https://www.facebook.com/juniorhsu
+  - 
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
-
 # Leonard Hsu Jr. (許景鴻 / Hsu Ching-Hung)
 
 ## Summary

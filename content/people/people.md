@@ -1,13 +1,8 @@
 ---
-
-title: "People index (legacy)"
-type: person
-tags:
-  - Taiwanese American
-  - people
-  - index
+title: People
+type: index
+tags: [people, index]
 ---
-
 
 # People
 
@@ -28,9 +23,9 @@ This index lists current person records in Echopedia. Names are kept with Chines
 - [[en-sheng-pan-潘恩盛|Rev. En Sheng Pan (潘恩盛)]]
 - [[guo-dongxu-郭東緒|Rev. Guo Dongxu (郭東緒牧師)]]
 - [[guo-yingyan-郭應言|Guo Yingyan (郭應言)]]
-- [[brother-hu-gstpc-verification-needed|Brother Hu (GSTPC, verification needed)]]
+- [[hu-gstpc|Brother Hu (GSTPC, verification needed)]]
 - [[ken-wu|Ken Wu (吳兆峯)]]
-- [[brother-ku-gstpc-verification-needed|Brother Ku (GSTPC, verification needed)]]
+- [[ku-gstpc|Brother Ku (GSTPC, verification needed)]]
 - [[lai-junming-賴俊明|Rev. Lai Junming (賴俊明牧師)]]
 - [[lien-hwa-chow-周聯華|Dr. Lien-Hwa Chow (周聯華)]]
 - [[mingyuan-hsu-許明遠|Rev. Mingyuan Hsu (許明遠)]]
@@ -38,7 +33,7 @@ This index lists current person records in Echopedia. Names are kept with Chines
 - [[qiu-yunen-邱瑜嫩|Elder Qiu Yunen (邱瑜嫩長老)]]
 - [[rex-chen|Rex Chen (陳乃光)]]
 - [[shoki-coe-黃彰輝|Dr. Shoki Coe (黃彰輝)]]
-- [[brother-wang-gstpc-verification-needed|Brother Wang (GSTPC, verification needed)]]
+- [[wang-gstpc|Brother Wang (GSTPC, verification needed)]]
 - [[wang-xinxin-王信心|Elder Wang Xinxin (王信心長老)]]
 - [[willy-pan-潘建宇|Willy Pan (潘建宇)]]
 - [[xiao-xien-蕭錫恩|Elder Xiao Xien (蕭錫恩長老)]]

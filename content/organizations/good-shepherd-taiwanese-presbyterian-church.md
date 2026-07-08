@@ -1,14 +1,12 @@
 ---
 title: "Good Shepherd Taiwanese Presbyterian Church"
-slug: "good-shepherd-taiwanese-presbyterian-church"
 type: organization
-source: web_archive
-scraped_at: 2026-07-06T19:13:15+00:00
-summary: "[07-05-2026 Sunday Bulletin](https://gstpc.org/home/07-05-2026-sunday-bulletin/) 使你們得著安息 You Will Find Rest For Your Souls (馬太福音 Matthew 11:16-19, 25-30) 許明遠牧師 Rev. Ming Yuan Hsu 消息報告 Announcements 代禱 Intercession"
-canonical_url: "https://www.gstpc.org"
-archive_file: "org_good-shepherd-taiwanese-presbyterian-church_20260706_191315.md"
+tags:
+  - organization
+  - Taiwanese-American
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
-
 # Good Shepherd Taiwanese Presbyterian Church
 
 ## Summary

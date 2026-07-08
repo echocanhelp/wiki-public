@@ -2,12 +2,10 @@
 title: "Presbyterian Church in Taiwan (PCT)"
 type: organization
 tags:
-  - Taiwanese-American
-  - organization
-  - Presbyterian
-  - church
+  - 
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
-
 # Presbyterian Church in Taiwan (PCT)
 
 The **Presbyterian Church in Taiwan (PCT)** is one of the oldest Christian denominations in Taiwan with deep historical roots and significant influence on Taiwanese society.

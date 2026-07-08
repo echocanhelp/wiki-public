@@ -1,15 +1,11 @@
 ---
-
 title: "Albert ch.1 audiobook (Taiwanese female)"
 type: person
 tags:
-  - publication
-  - Audio
-  - Audiobook
-  - Taiwanese American
+  - 
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
-
-
 # Albert Chapter 1 Audiobook（第一章有聲版）
 
 This page hosts the full audiobook narration for Chapter I of *Toward A Community of Hope*.

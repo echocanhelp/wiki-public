@@ -2,12 +2,10 @@
 title: "Taiwanese American Historical Society (TAHS)"
 type: organization
 tags:
-  - Taiwanese-American
-  - organization
-  - TAHS
-  - historical-preservation
+  - 
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
-
 # Taiwanese American Historical Society (TAHS)
 
 The **Taiwanese American Historical Society (TAHS)** is an organization dedicated to preserving and promoting Taiwanese American history, culture, and heritage.

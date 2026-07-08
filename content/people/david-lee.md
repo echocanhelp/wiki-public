@@ -2,40 +2,10 @@
 title: "David Lee (中文待補)"
 type: person
 tags:
-  - person
-  - TAHS
-  - leadership
-identity:
-  canonical_name_en: "David Lee"
-  canonical_name_zh: ""
-  aliases: []
-  line_identity:
-    status: owner_verified
-    line_user_ids:
-      - "U0b1b4329eb17c7ec32c0f3c469eff01f"
-    line_group_ids_seen:
-      - "C12d20c0b0ddbf3d2f767e3d4a7799dde"
-    last_verified_at: "2026-05-25T07:50:17Z"
-    verified_by: "leonard-hsu"
-governance:
-  member_role: cto
-  historical_priority: high
-  operational_authority: elevated
-  echo_access_tier: operator
-  sensitive_scope: restricted
-  dm_processing_consent: none
-  public_quote_consent: false
-  self_edit_enabled: true
-controls:
-  requires_human_approval_for:
-    - governance_changes
-    - consent_changes
-    - public_quote_publish
-audit:
-  last_policy_review_at: "2026-05-25T07:49:18Z"
-  last_policy_review_by: "echohsu"
+  - 
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
-
 # David Lee (中文待補)
 
 ## Identity Snapshot

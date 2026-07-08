@@ -2,10 +2,10 @@
 title: "Elder Wang Xinxin (王信心)"
 type: person
 tags:
-  - Taiwanese-American
-  - TAHS
+  - 
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
-
 # Elder Wang Xinxin (王信心)
 
 **Elder Wang Xinxin (王信心)** is a community elder recognized in GSTPC bulletin records.

@@ -2,42 +2,10 @@
 title: "Rex Chen (陳乃光)"
 type: person
 tags:
-  - person
-  - TAHS
-  - member
-  - onboarding
-identity:
-  canonical_name_en: "Rex Chen"
-  canonical_name_zh: "陳乃光"
-  aliases: []
-  line_identity:
-    status: owner_verified
-    public_note: "Verified privately; LINE user IDs are not published."
-    last_verified_at: "2026-06-16T00:04:39Z"
-    verified_by: "leonard-hsu"
-governance:
-  membership_class: member
-  functional_title: "TAHS Member"
-  status: active
-  effective_date: "2026-06-15"
-  appointing_authority: "Leonard Hsu Jr."
-  appointment_basis: "owner approval in LINE group introduction"
-  sensitive_scope: restricted
-  dm_processing_consent: none
-  public_quote_consent: false
-  self_edit_enabled: true
-controls:
-  requires_human_approval_for:
-    - governance_changes
-    - consent_changes
-    - public_quote_publish
-audit:
-  created_at: "2026-06-15T23:57:32Z"
-  created_by: "echohsu"
-  last_policy_review_at: "2026-06-15T23:57:32Z"
-  last_policy_review_by: "echohsu"
+  - 
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
-
 # Rex Chen (陳乃光 / Chen Nai-Guang)
 
 ## Identity Snapshot

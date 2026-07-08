@@ -1,15 +1,11 @@
 ---
-
 title: "NTPC"
 type: person
 tags:
-  - organization
-  - Taiwanese American
-  - Presbyterian Church
-  - Historical Preservation
+  - 
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
-
-
 # National Taiwanese Presbyterian Council (NTPC)
 
 The **National Taiwanese Presbyterian Council (NTPC)** is a key organizational body in Taiwanese Presbyterian life in the United States.

@@ -2,8 +2,9 @@
 title: "Rev. Lai Junming (賴俊明牧師)"
 type: person
 tags:
-  - TAHS
-  - Taiwanese-American
+  - 
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
 # Rev. Lai Junming (賴俊明牧師)
 

@@ -2,10 +2,10 @@
 title: "Rev. Xie Dali (謝大立)"
 type: person
 tags:
-  - Taiwanese-American
-  - clergy
+  - 
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
-
 # Rev. Xie Dali (謝大立)
 
 **Rev. Xie Dali (謝大立)** is a Taiwanese-American ordained minister recognized in church records.

@@ -2,10 +2,10 @@
 title: "Willy Pan (潘建宇)"
 type: person
 tags:
-  - Taiwanese-American
-  - TAHS
+  - 
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
-
 # Willy Pan (潘建宇)
 
 **Willy Pan (潘建宇)** is a member of the Taiwanese American Historical Society community.

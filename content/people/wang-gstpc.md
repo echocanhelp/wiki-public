@@ -2,11 +2,10 @@
 title: "Brother Wang (GSTPC, verification needed)"
 type: person
 tags:
-  - Taiwanese-American
-  - GSTPC
-  - verification-needed
+  - 
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
-
 # Brother Wang (GSTPC, verification needed)
 
 **Brother Wang** is a community member associated with the Good Shepherd Taiwanese Presbyterian Church (GSTPC).

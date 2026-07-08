@@ -2,10 +2,10 @@
 title: "Elder Xiao Xien (蕭錫恩)"
 type: person
 tags:
-  - Taiwanese-American
-  - TAHS
+  - 
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
-
 # Elder Xiao Xien (蕭錫恩)
 
 **Elder Xiao Xien (蕭錫恩)** is a community elder recognized in Taiwanese Presbyterian church records.

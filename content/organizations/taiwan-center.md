@@ -1,14 +1,12 @@
 ---
 title: "Taiwan Center Foundation of Greater Los Angeles"
-slug: "taiwan-center"
 type: organization
-source: web_archive
-scraped_at: 2026-07-06T19:13:15+00:00
-summary: "[活動訊息 #### 二二八追思紀念會暨系列活動 大洛杉磯台灣會館暨洛杉磯台美社團聯合舉辦二二八79週年追思系列活動，透過紀念會、音樂會、兒童故事時間及電影放映座談，回顧228與白色恐怖歷史，向受難者致敬。 Feb 28, 2026 ![Image 1: Architecture](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c9f/698d9ea25cf3a6a496d08a85_228%20cocver.png)](https://www.taiwancenter.org/event/228-memorial-com..."
-canonical_url: "https://taiwancenter.org"
-archive_file: "org_taiwan-center_20260706_191315.md"
+tags:
+  - organization
+  - Taiwanese-American
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
-
 # Taiwan Center Foundation of Greater Los Angeles
 
 ## Summary

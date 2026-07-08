@@ -1,14 +1,12 @@
 ---
 title: "Test Volunteer Onboard"
-slug: "test-volunteer-onboard"
-created: 2026-07-06
-identity:
-  source: LINE
-  verification_state: proposed
-  verified_by: ""
-  verified_at: ""
+type: person
+tags:
+  - person
+  - Taiwanese-American
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
-
 # Test Volunteer Onboard
 
 ## About

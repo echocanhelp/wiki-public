@@ -2,8 +2,9 @@
 title: "Dr. Lien-Hwa Chow (周聯華)"
 type: person
 tags:
-  - TAHS
-  - Taiwanese-American
+  - 
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
 # Dr. Lien-Hwa Chow (周聯華)
 

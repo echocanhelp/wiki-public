@@ -2,10 +2,10 @@
 title: "Zhang Xuanxin (張宣信)"
 type: person
 tags:
-  - Taiwanese-American
-  - TAHS
+  - 
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
-
 # Zhang Xuanxin (張宣信)
 
 **Zhang Xuanxin (張宣信)** is a member of the Taiwanese American Historical Society community.

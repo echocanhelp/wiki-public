@@ -2,8 +2,9 @@
 title: "Elder Chen Xialian (陳夏蓮長老)"
 type: person
 tags:
-  - TAHS
-  - Taiwanese-American
+  - 
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
 # Elder Chen Xialian (陳夏蓮長老)
 

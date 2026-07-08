@@ -1,14 +1,11 @@
 ---
 title: "Dr. Albert S. Lai (賴信雄)"
-tags:
-  - person
-  - Taiwanese American
-  - Presbyterian
-  - Clergy
-  - Theologian
 type: person
+tags:
+  - 
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
-
 # Dr. Albert S. Lai (賴信雄)
 
 **Dr. Albert S. Lai (賴信雄, Lai Sin-hiong)** is a Taiwanese American pastor, theologian, and foundational interpreter of Taiwanese immigrant church formation in North America.

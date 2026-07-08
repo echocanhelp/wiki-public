@@ -2,10 +2,10 @@
 title: "Elder Xu Wenkai (許文凱)"
 type: person
 tags:
-  - Taiwanese-American
-  - TAHS
+  - 
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
-
 # Elder Xu Wenkai (許文凱)
 
 **Elder Xu Wenkai (許文凱)** is a community elder recognized in Taiwanese Presbyterian church records.

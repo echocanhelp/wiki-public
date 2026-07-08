@@ -2,10 +2,10 @@
 title: "Dr. Yunching Yeh Davis (葉芸青)"
 type: person
 tags:
-  - Taiwanese-American
-  - TAHS
+  - 
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
-
 # Dr. Yunching Yeh Davis (葉芸青)
 
 **Dr. Yunching Yeh Davis (葉芸青)** is a Taiwanese-American scholar and community member.

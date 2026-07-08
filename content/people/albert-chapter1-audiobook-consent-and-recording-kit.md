@@ -1,15 +1,11 @@
 ---
-
 title: "Albert ch.1 audiobook consent kit"
 type: person
 tags:
-  - concept
-  - Audio
-  - Consent
-  - Taiwanese American
+  - 
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
-
-
 # Albert Chapter 1 Audiobook — Consent & Recording Kit
 
 This page is the execution kit for producing Chapter 1 audiobook narration using Albert’s voice with explicit permission and source traceability.

@@ -2,8 +2,9 @@
 title: "Guo Yingyan (郭應言)"
 type: person
 tags:
-  - TAHS
-  - Taiwanese-American
+  - 
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
 # Guo Yingyan (郭應言)
 

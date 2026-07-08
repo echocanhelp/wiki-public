@@ -2,8 +2,9 @@
 title: "Rev. En Sheng Pan (潘恩盛)"
 type: person
 tags:
-  - TAHS
-  - Taiwanese-American
+  - 
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
 # Rev. En Sheng Pan (潘恩盛)
 

@@ -1,15 +1,11 @@
 ---
-
 title: "FPCLA"
 type: person
 tags:
-  - organization
-  - Taiwanese American
-  - Presbyterian Church
-  - Los Angeles
+  - 
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
-
-
 # Formosan Presbyterian Church in Los Angeles (FPCLA)
 
 **Formosan Presbyterian Church in Los Angeles (FPCLA)** is remembered as the earliest Taiwanese church community established in North America (founding era: 1970).

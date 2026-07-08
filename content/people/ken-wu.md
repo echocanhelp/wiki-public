@@ -2,43 +2,10 @@
 title: "Ken Wu (吳兆峯)"
 type: person
 tags:
-  - person
-  - TAHS
-  - member
-  - onboarding
-identity:
-  canonical_name_en: "Ken Wu"
-  canonical_name_zh: "吳兆峯"
-  romanization_note: "Wu Zhao-Feng; romanization pending member confirmation"
-  aliases: []
-  line_identity:
-    status: owner_verified
-    public_note: "Introduced and verified in a LINE group; exact LINE user ID captured at runtime and linked privately."
-    last_verified_at: "2026-06-22T17:50:40Z"
-    verified_by: "leonard-hsu"
-governance:
-  membership_class: member
-  functional_title: "TAHS Member"
-  status: active
-  effective_date: "2026-06-16"
-  appointing_authority: "Leonard Hsu Jr."
-  appointment_basis: "owner approval in LINE group introduction"
-  sensitive_scope: restricted
-  dm_processing_consent: none
-  public_quote_consent: false
-  self_edit_enabled: true
-controls:
-  requires_human_approval_for:
-    - governance_changes
-    - consent_changes
-    - public_quote_publish
-audit:
-  created_at: "2026-06-16T01:30:18Z"
-  created_by: "echohsu"
-  last_policy_review_at: "2026-06-16T01:30:18Z"
-  last_policy_review_by: "echohsu"
+  - 
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
-
 # Ken Wu (吳兆峯 / Wu Zhao-Feng)
 
 ## Identity Snapshot

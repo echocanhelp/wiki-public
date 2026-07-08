@@ -1,15 +1,11 @@
 ---
-
 title: "San Francisco Theological Seminary"
 type: person
 tags:
-  - organization
-  - Seminary
-  - Presbyterian
-  - United States
+  - 
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
-
-
 # San Francisco Theological Seminary
 
 **San Francisco Theological Seminary** is the institution where Dr. Albert S. Lai (賴信雄) completed his Doctor of Ministry dissertation in 1971: Toward A Community of Hope.

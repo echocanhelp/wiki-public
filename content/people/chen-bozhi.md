@@ -2,8 +2,9 @@
 title: "Rev. Chen Bozhi (陳柏志牧師)"
 type: person
 tags:
-  - TAHS
-  - Taiwanese-American
+  - 
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
 # Rev. Chen Bozhi (陳柏志牧師)
 

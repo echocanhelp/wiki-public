@@ -2,10 +2,10 @@
 title: "Zheng Quansheng (鄭泉聲)"
 type: person
 tags:
-  - Taiwanese-American
-  - TAHS
+  - 
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
-
 # Zheng Quansheng (鄭泉聲)
 
 **Zheng Quansheng (鄭泉聲)** is a member of the Taiwanese American Historical Society community.

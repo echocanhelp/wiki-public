@@ -1,14 +1,12 @@
 ---
 title: "New Line Member"
-slug: "new-line-member"
-created: 2026-07-06
-identity:
-  source: LINE
-  verification_state: proposed
-  verified_by: ""
-  verified_at: ""
+type: person
+tags:
+  - person
+  - Taiwanese-American
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
-
 # New Line Member
 
 ## About

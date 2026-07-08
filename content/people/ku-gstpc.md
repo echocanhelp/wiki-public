@@ -2,11 +2,10 @@
 title: "Brother Ku (GSTPC, verification needed)"
 type: person
 tags:
-  - Taiwanese-American
-  - GSTPC
-  - verification-needed
+  - 
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
-
 # Brother Ku (GSTPC, verification needed)
 
 **Brother Ku** is a community member associated with the Good Shepherd Taiwanese Presbyterian Church (GSTPC).

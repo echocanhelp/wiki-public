@@ -2,8 +2,9 @@
 title: "Rev. David Huang (黃德利)"
 type: person
 tags:
-  - TAHS
-  - Taiwanese-American
+  - 
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
 # Rev. David Huang (黃德利)
 

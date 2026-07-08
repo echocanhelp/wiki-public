@@ -2,10 +2,10 @@
 title: "Rev. Zhuang Xinde (莊信德)"
 type: person
 tags:
-  - Taiwanese-American
-  - clergy
+  - 
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
-
 # Rev. Zhuang Xinde (莊信德)
 
 **Rev. Zhuang Xinde (莊信德)** is a Taiwanese-American ordained minister recognized in church records.

@@ -2,10 +2,10 @@
 title: "Taiwan Formosa"
 type: organization
 tags:
-  - Taiwanese-American
-  - organization
+  - 
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
-
 # Taiwan Formosa
 
 **Taiwan Formosa** is an organization or initiative associated with Taiwanese cultural and historical preservation efforts.

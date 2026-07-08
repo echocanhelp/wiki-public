@@ -1,3 +1,15 @@
+---
+title: "Leonard Hsu (許景鴻)"
+type: person
+tags:
+  - Taiwanese American
+  - TAHS
+  - Echopedia
+  - leadership
+verification_status: verified
+last_reviewed: 2026-07-08
+---
+
 # Leonard Hsu (許景鴻 / Hsu Ching-Hung)
 
 ## Personal Information

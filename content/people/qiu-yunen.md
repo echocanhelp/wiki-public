@@ -2,10 +2,10 @@
 title: "Elder Qiu Yunen (邱瑜嫩)"
 type: person
 tags:
-  - Taiwanese-American
-  - TAHS
+  - 
+verification_status: pending
+last_reviewed: 2026-07-08
 ---
-
 # Elder Qiu Yunen (邱瑜嫩)
 
 **Elder Qiu Yunen (邱瑜嫩)** is a community elder recognized in Taiwanese Presbyterian church records.
