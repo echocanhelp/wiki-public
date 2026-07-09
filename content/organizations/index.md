@@ -1,25 +1,29 @@
 ---
 title: Organizations
 type: index
-tags: [organizations, index]
+tags:
+  - organizations
+  - index
+description: Directory of Taiwanese American organizations, churches, and institutions documented in Echopedia.
 ---
 
 # Organizations
 
-This index lists current organization records in Echopedia.
+Organization records in **Echopedia** — churches, cultural centers, historical societies, and related institutions.
 
-## Organization Records
+## Directory
 
+- [[taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
 - [[good-shepherd-taiwanese-presbyterian-church|Good Shepherd Taiwanese Presbyterian Church (好牧者臺灣基督長老教會)]]
 - [[irvine-taiwanese-presbyterian-church|Irvine Taiwanese Presbyterian Church (IRVINE台灣基督長老教會)]]
 - [[taiwan-center|Taiwan Center Foundation of Greater Los Angeles (大洛杉磯台灣會館基金會)]]
-- [[taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
 - [[presbyterian-church-in-taiwan|Presbyterian Church in Taiwan (PCT)]]
-- [[taiwan-formosa|Taiwan Formosa]]
 - [[ntpc|North Taiwan Presbyterian Church (NTPC)]]
-- [[fpcla|Faithful Presbyterian Chinese Lutheran Association]]
+- [[taiwan-formosa|Taiwan Formosa]]
+- [[guangzhou-society-taiwan-professional-executives|Guangzhou Society of Taiwan Professional Executives]]
 
 ## Notes
 
-- This page is generated from records with `type: organization` in the wiki source.
-- Some organizations may appear inside person pages before receiving standalone organization records.
+- Some organizations appear first on person pages before receiving a standalone organization record.
+- Related pages may also live under [People](../people/) when the source material is primarily biographical.
+- [← Back to Echopedia home](../)
