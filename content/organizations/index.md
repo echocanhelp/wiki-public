@@ -13,14 +13,14 @@ Organization records in **Echopedia** — churches, cultural centers, historical
 
 ## Directory
 
-- [[taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
-- [[good-shepherd-taiwanese-presbyterian-church|Good Shepherd Taiwanese Presbyterian Church (好牧者臺灣基督長老教會)]]
-- [[irvine-taiwanese-presbyterian-church|Irvine Taiwanese Presbyterian Church (IRVINE台灣基督長老教會)]]
-- [[taiwan-center|Taiwan Center Foundation of Greater Los Angeles (大洛杉磯台灣會館基金會)]]
-- [[presbyterian-church-in-taiwan|Presbyterian Church in Taiwan (PCT)]]
-- [[ntpc|North Taiwan Presbyterian Church (NTPC)]]
-- [[taiwan-formosa|Taiwan Formosa]]
-- [[guangzhou-society-taiwan-professional-executives|Guangzhou Society of Taiwan Professional Executives]]
+- [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
+- [[organizations/good-shepherd-taiwanese-presbyterian-church|Good Shepherd Taiwanese Presbyterian Church (好牧者臺灣基督長老教會)]]
+- [[organizations/irvine-taiwanese-presbyterian-church|Irvine Taiwanese Presbyterian Church (IRVINE台灣基督長老教會)]]
+- [[organizations/taiwan-center|Taiwan Center Foundation of Greater Los Angeles (大洛杉磯台灣會館基金會)]]
+- [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan (PCT)]]
+- [[organizations/ntpc|North Taiwan Presbyterian Church (NTPC)]]
+- [[organizations/taiwan-formosa|Taiwan Formosa]]
+- [[organizations/guangzhou-society-taiwan-professional-executives|Guangzhou Society of Taiwan Professional Executives]]
 
 ## Notes
 

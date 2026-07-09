@@ -24,6 +24,6 @@ In early Taiwanese immigrant life, FPCLA functioned as:
 
 ## Related Pages
 
-- [[albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
-- [[toward-a-community-of-hope|Toward A Community of Hope]]
-- [[ntpc|National Taiwanese Presbyterian Council (NTPC)]]
+- [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
+- Toward A Community of Hope
+- [[people/ntpc|National Taiwanese Presbyterian Council (NTPC)]]

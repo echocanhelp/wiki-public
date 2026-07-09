@@ -21,7 +21,7 @@ Supported worship and special events including Father’s Day and regular Sunday
 ## Context Highlights
 1. **Preaching on special occasions**
    - Father’s Day and regular worship.
-   - Examples: [[gstpc-bulletins/2022/gstpc-bulletin-2022-06-26|GSTPC Bulletin 2022-06-26]], [[gstpc-bulletins/2023/gstpc-bulletin-2023-01-08|GSTPC Bulletin 2023-01-08]]
+   - Examples: GSTPC Bulletin 2022-06-26, GSTPC Bulletin 2023-01-08
 
 ## Source Notes and Confidence
 - High confidence: named preaching.
@@ -32,8 +32,8 @@ Supported worship and special events including Father’s Day and regular Sunday
 - Romanized: Lai Junming
 
 ## Contribution Invitation
-Use [[echopedia-community-contributions-hub|Echopedia Community Contributions Hub]].
+Use Echopedia Community Contributions Hub.
 
 ## Related Pages
-- [[good-shepherd-taiwanese-presbyterian-church-好牧者臺灣基督長老教會|Good Shepherd Taiwanese Presbyterian Church (好牧者臺灣基督長老教會)]]
-- [[gstpc-tier-a-person-wikification-queue|GSTPC Tier-A Person Wikification Queue]]
+- [[organizations/good-shepherd-taiwanese-presbyterian-church|Good Shepherd Taiwanese Presbyterian Church (好牧者臺灣基督長老教會)]]
+- GSTPC Tier-A Person Wikification Queue

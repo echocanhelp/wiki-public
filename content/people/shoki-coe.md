@@ -32,5 +32,5 @@ Dr. Coe is recognized as a key figure in Taiwan's Christian ecumenical movement 
 - Romanized: Shoki Coe / Huang Zhanghui
 
 ## Related Pages
-- [[people|People Index]]
-- [[good-shepherd-taiwanese-presbyterian-church-好牧者臺灣基督長老教會|Good Shepherd Taiwanese Presbyterian Church]]
+- [[people/index|People Index]]
+- [[organizations/good-shepherd-taiwanese-presbyterian-church|Good Shepherd Taiwanese Presbyterian Church]]

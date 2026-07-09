@@ -28,7 +28,7 @@ last_reviewed: 2026-07-08
 > “At the beginning of 2023, Rev. Mingyuan Hsu returned to Taiwan and sincerely invited us to assist in translating Dr. Albert S. Lai's doctoral dissertation ... while also promoting the possibility of its publication.”
 - Date/Period: 2023 action recalled in 2025 publication
 - Context: Republication collaboration narrative
-- Source: [[toward-a-community-of-hope-republication-voices-and-testaments|Republication Voices and Testaments (2025)]]
+- Source: Republication Voices and Testaments (2025)
 - Source tier: A (direct first-person quotation in republication material)
 
 ## Historical Context
@@ -66,8 +66,8 @@ Use the shared intake process at Echopedia Community Contributions Hub and inclu
 Your contribution helps preserve this life record with both dignity and historical traceability.
 
 ## Related Pages
-- [[toward-a-community-of-hope|Toward A Community of Hope]]
-- [[ntpc|National Taiwanese Presbyterian Council (NTPC)]]
-- [[albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
-- [[echopedia-person-recordation-framework|Echopedia Person Recordation Framework]]
-- [[echopedia-community-contributions-hub|Echopedia Community Contributions Hub]]
+- Toward A Community of Hope
+- [[people/ntpc|National Taiwanese Presbyterian Council (NTPC)]]
+- [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
+- Echopedia Person Recordation Framework
+- Echopedia Community Contributions Hub

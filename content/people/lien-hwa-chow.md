@@ -21,7 +21,7 @@ last_reviewed: 2026-07-08
 > “Recommendation by Dr. Lien-Hwa Chow（周聯華）...”
 - Date/Period: 2025 framing context
 - Context: recommendation heading in republication materials
-- Source: [[toward-a-community-of-hope-republication-voices-and-testaments|Republication Voices and Testaments (2025)]]
+- Source: Republication Voices and Testaments (2025)
 - Source pointer: `/tmp/albert_lai_english.txt` recommendation section heading
 - Source tier: A (direct textual attribution in available source export)
 
@@ -55,7 +55,7 @@ In this cluster, Dr. Chow functions as a reference point in theological lineage 
 - Romanization variant: Chow Lien-hwa
 
 ## Contribution Invitation
-Use the shared intake process at [[echopedia-community-contributions-hub|Echopedia Community Contributions Hub]] and include:
+Use the shared intake process at Echopedia Community Contributions Hub and include:
 - Person/page name
 - Your relationship to the person/event
 - Memory/quote/correction text
@@ -63,7 +63,7 @@ Use the shared intake process at [[echopedia-community-contributions-hub|Echoped
 - Source type and permission status
 
 ## Related Pages
-- [[toward-a-community-of-hope]]
-- [[ntpc|National Taiwanese Presbyterian Council (NTPC)]]
-- [[presbyterian-church-in-taiwan-台灣基督長老教會|Presbyterian Church in Taiwan (台灣基督長老教會)]]
-- [[echopedia-person-recordation-framework|Echopedia Person Recordation Framework]]
+- toward-a-community-of-hope
+- [[people/ntpc|National Taiwanese Presbyterian Council (NTPC)]]
+- [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan (台灣基督長老教會)]]
+- Echopedia Person Recordation Framework

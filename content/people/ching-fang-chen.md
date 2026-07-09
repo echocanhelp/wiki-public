@@ -58,7 +58,7 @@ Rev. Chen appears in the transition from anniversary commemoration (NTPC 50th in
 - Romanization variant: Chen Ching-fang
 
 ## Contribution Invitation
-Use the shared intake process at [[echopedia-community-contributions-hub|Echopedia Community Contributions Hub]] and include:
+Use the shared intake process at Echopedia Community Contributions Hub and include:
 - Person/page name
 - Your relationship to the person/event
 - Memory/quote/correction text
@@ -66,7 +66,7 @@ Use the shared intake process at [[echopedia-community-contributions-hub|Echoped
 - Source type and permission status
 
 ## Related Pages
-- [[toward-a-community-of-hope]]
-- [[toward-a-community-of-hope-republication-voices-and-testaments|Republication Voices and Testaments (2025)]]
-- [[ntpc|National Taiwanese Presbyterian Council (NTPC)]]
-- [[echopedia-person-recordation-framework|Echopedia Person Recordation Framework]]
+- toward-a-community-of-hope
+- Republication Voices and Testaments (2025)
+- [[people/ntpc|National Taiwanese Presbyterian Council (NTPC)]]
+- Echopedia Person Recordation Framework

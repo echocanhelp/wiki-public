@@ -21,7 +21,7 @@ Contributed to worship in both early years (2016) and recent years (2023).
 ## Context Highlights
 1. **Longitudinal preaching presence**
    - Sermons in 2016 and 2023.
-   - Example: [[gstpc-bulletins/2023/gstpc-bulletin-2023-04-30|GSTPC Bulletin 2023-04-30]]
+   - Example: GSTPC Bulletin 2023-04-30
 
 ## Source Notes and Confidence
 - High confidence: named preaching across years.
@@ -32,8 +32,8 @@ Contributed to worship in both early years (2016) and recent years (2023).
 - Romanized: Cai Weiren
 
 ## Contribution Invitation
-Use [[echopedia-community-contributions-hub|Echopedia Community Contributions Hub]].
+Use Echopedia Community Contributions Hub.
 
 ## Related Pages
-- [[good-shepherd-taiwanese-presbyterian-church-好牧者臺灣基督長老教會|Good Shepherd Taiwanese Presbyterian Church (好牧者臺灣基督長老教會)]]
-- [[gstpc-tier-a-person-wikification-queue|GSTPC Tier-A Person Wikification Queue]]
+- [[organizations/good-shepherd-taiwanese-presbyterian-church|Good Shepherd Taiwanese Presbyterian Church (好牧者臺灣基督長老教會)]]
+- GSTPC Tier-A Person Wikification Queue

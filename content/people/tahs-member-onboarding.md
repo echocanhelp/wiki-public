@@ -40,7 +40,7 @@ TAHS onboarding should help a new member understand:
 
 ## Related Pages
 
-- [[taiwanese-american-historical-society-台美人歷史協會|Taiwanese American Historical Society (台美人歷史協會)]]
-- [[echopedia-community-contributions-hub|Echopedia Community Contributions Hub]]
-- [[line-echopedia-identity-linking-decision-tree|LINE ↔ Echopedia Identity Linking — Decision Tree]]
-- [[line-echopedia-identity-linking-v1-schema|LINE ↔ Echopedia Identity Linking v1 Schema]]
+- [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (台美人歷史協會)]]
+- Echopedia Community Contributions Hub
+- LINE ↔ Echopedia Identity Linking — Decision Tree
+- LINE ↔ Echopedia Identity Linking v1 Schema

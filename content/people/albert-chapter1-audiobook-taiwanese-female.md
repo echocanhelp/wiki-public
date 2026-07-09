@@ -20,6 +20,6 @@ This page hosts the full audiobook narration for Chapter I of *Toward A Communit
 
 ## Related Pages
 
-- [[toward-a-community-of-hope-chapter-i-formosan-in-formosa-yesterday|Chapter I: Formosan in Formosa Yesterday]]
-- [[toward-a-community-of-hope|Toward A Community of Hope]]
-- [[albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
+- Chapter I: Formosan in Formosa Yesterday
+- Toward A Community of Hope
+- [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]

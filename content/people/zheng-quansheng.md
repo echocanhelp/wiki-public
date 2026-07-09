@@ -31,4 +31,4 @@ Zheng Quansheng is recognized as a member of the Taiwanese American historical a
 - Romanized: Zheng Quansheng / Zheng Quansheng
 
 ## Related Pages
-- [[people|People Index]]
+- [[people/index|People Index]]

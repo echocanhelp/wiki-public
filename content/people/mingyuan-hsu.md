@@ -87,23 +87,23 @@ Rev. Mingyuan Hsu is a high-continuity pastoral figure across both republication
 1. **Sunday sermon leadership continuity**
    - Repeated sermon-line attribution across years shows durable pulpit leadership continuity.
    - Examples:
-     - [[gstpc-bulletins/2026/gstpc-bulletin-2026-05-24|GSTPC Bulletin 2026-05-24]]
-     - [[gstpc-bulletins/2025/gstpc-bulletin-2025-01-05|GSTPC Bulletin 2025-01-05]]
+     - GSTPC Bulletin 2026-05-24
+     - GSTPC Bulletin 2025-01-05
 
 2. **Pastoral operations and congregational governance context**
    - Bulletin contexts repeatedly place Rev. Hsu in coordination spaces (training, church planning, board-related rhythms).
    - Examples:
-     - [[gstpc-bulletins/2020/gstpc-bulletin-2020-02-16|GSTPC Bulletin 2020-02-16]]
-     - [[gstpc-bulletins/2020/gstpc-bulletin-2020-03-01|GSTPC Bulletin 2020-03-01]]
+     - GSTPC Bulletin 2020-02-16
+     - GSTPC Bulletin 2020-03-01
 
 3. **Historical-preservation bridge context**
    - Republication testimony layer complements bulletin signals by documenting preservation intent in first-person narrative.
    - Example:
-     - [[toward-a-community-of-hope-republication-voices-and-testaments|Republication Voices and Testaments (2025)]]
+     - Republication Voices and Testaments (2025)
 
 ### Canonicalization note
 - This page is the canonical person record.
-- [[gstpc-pastoral-profile-mingyuan-hsu-許明遠|GSTPC pastoral profile page]] is retained as a source-note/provenance page, not a second person profile.
+- GSTPC pastoral profile page is retained as a source-note/provenance page, not a second person profile.
 
 ## Contribution Invitation
 Use the shared intake process at Echopedia Community Contributions Hub and include:
@@ -116,8 +116,8 @@ Use the shared intake process at Echopedia Community Contributions Hub and inclu
 Your contribution helps preserve this life record with both dignity and historical traceability.
 
 ## Related Pages
-- [[toward-a-community-of-hope|Toward A Community of Hope]]
-- [[ntpc|National Taiwanese Presbyterian Council (NTPC)]]
-- [[albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
-- [[echopedia-person-recordation-framework|Echopedia Person Recordation Framework]]
-- [[echopedia-community-contributions-hub|Echopedia Community Contributions Hub]]
+- Toward A Community of Hope
+- [[people/ntpc|National Taiwanese Presbyterian Council (NTPC)]]
+- [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
+- Echopedia Person Recordation Framework
+- Echopedia Community Contributions Hub

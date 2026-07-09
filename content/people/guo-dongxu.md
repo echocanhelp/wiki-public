@@ -23,7 +23,7 @@ His documented preaching during the early pandemic months contributed to maintai
 1. **Preaching during pandemic transition**
    - Delivered sermons while the church operated under restricted gathering.
    - Example:
-     - [[gstpc-bulletins/2020/gstpc-bulletin-2020-07-26|GSTPC Bulletin 2020-07-26]]
+     - GSTPC Bulletin 2020-07-26
 
 2. **Support for worship life**
    - Part of the visiting preacher rotation during a critical period.
@@ -37,8 +37,8 @@ His documented preaching during the early pandemic months contributed to maintai
 - Romanized: Guo Dongxu
 
 ## Contribution Invitation
-Use [[echopedia-community-contributions-hub|Echopedia Community Contributions Hub]].
+Use Echopedia Community Contributions Hub.
 
 ## Related Pages
-- [[good-shepherd-taiwanese-presbyterian-church-好牧者臺灣基督長老教會|Good Shepherd Taiwanese Presbyterian Church (好牧者臺灣基督長老教會)]]
-- [[gstpc-tier-a-person-wikification-queue|GSTPC Tier-A Person Wikification Queue]]
+- [[organizations/good-shepherd-taiwanese-presbyterian-church|Good Shepherd Taiwanese Presbyterian Church (好牧者臺灣基督長老教會)]]
+- GSTPC Tier-A Person Wikification Queue

@@ -31,4 +31,4 @@ Zhang Xuanxin is recognized as a member of the Taiwanese American historical and
 - Romanized: Zhang Xuanxin / Zhang Xuanxin
 
 ## Related Pages
-- [[people|People Index]]
+- [[people/index|People Index]]

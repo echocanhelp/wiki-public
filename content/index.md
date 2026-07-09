@@ -101,10 +101,10 @@ tags:
 
 | Theme | Start here |
 |:--|:--|
-| **Historical society & archive work** | [[taiwanese-american-historical-society\|TAHS]] · [[albert-s-lai\|Dr. Albert S. Lai]] |
-| **Theology & church leadership** | [[shoki-coe\|Shoki Coe]] · [[choan-seng-song\|C.S. Song]] · [[lien-hwa-chow\|Lien-Hwa Chow]] |
-| **Southern California congregations** | [[good-shepherd-taiwanese-presbyterian-church\|GSTPC]] · [[irvine-taiwanese-presbyterian-church\|ITPC]] |
-| **Community infrastructure** | [[leonard-hsu-jr\|Leonard Hsu Jr.]] · [[people\|People index]] · [[organizations\|Organizations index]] |
+| **Historical society & archive work** | [TAHS](./organizations/taiwanese-american-historical-society) · [Dr. Albert S. Lai](./people/albert-s-lai) |
+| **Theology & church leadership** | [Shoki Coe](./people/shoki-coe) · [C.S. Song](./people/choan-seng-song) · [Lien-Hwa Chow](./people/lien-hwa-chow) |
+| **Southern California congregations** | [GSTPC](./organizations/good-shepherd-taiwanese-presbyterian-church) · [ITPC](./organizations/irvine-taiwanese-presbyterian-church) |
+| **Community infrastructure** | [Leonard Hsu Jr.](./people/leonard-hsu-jr) · [People index](./people/) · [Organizations index](./organizations/) |
 
 ## What Echopedia is (and isn't)
 
@@ -132,8 +132,8 @@ Community memory is stronger when many hands review it.
 
 ## Site map
 
-- [[people|People]] — person records
-- [[organizations|Organizations]] — churches, societies, and institutions
+- [People](./people/) — person records
+- [Organizations](./organizations/) — churches, societies, and institutions
 - [Tags](./tags/) — cross-cutting labels (where present)
 
 ---

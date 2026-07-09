@@ -31,4 +31,4 @@ Elder Qiu appears in church bulletin records and is recognized as a community el
 - Romanized: Qiu Yunen / Qiu Yunen
 
 ## Related Pages
-- [[people|People Index]]
+- [[people/index|People Index]]

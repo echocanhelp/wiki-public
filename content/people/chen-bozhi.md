@@ -21,7 +21,7 @@ His preaching during the early pandemic period contributed to maintaining worshi
 ## Context Highlights
 1. **Preaching during restricted gathering**
    - Delivered sermons including “Facing the Giants” and “Education Brings Value to Life”.
-   - Examples: [[gstpc-bulletins/2020/gstpc-bulletin-2020-06-14|GSTPC Bulletin 2020-06-14]], [[gstpc-bulletins/2020/gstpc-bulletin-2020-08-30|GSTPC Bulletin 2020-08-30]]
+   - Examples: GSTPC Bulletin 2020-06-14, GSTPC Bulletin 2020-08-30
 
 ## Source Notes and Confidence
 - High confidence: named preaching appearances.
@@ -32,8 +32,8 @@ His preaching during the early pandemic period contributed to maintaining worshi
 - Romanized: Chen Bozhi
 
 ## Contribution Invitation
-Use [[echopedia-community-contributions-hub|Echopedia Community Contributions Hub]].
+Use Echopedia Community Contributions Hub.
 
 ## Related Pages
-- [[good-shepherd-taiwanese-presbyterian-church-好牧者臺灣基督長老教會|Good Shepherd Taiwanese Presbyterian Church (好牧者臺灣基督長老教會)]]
-- [[gstpc-tier-a-person-wikification-queue|GSTPC Tier-A Person Wikification Queue]]
+- [[organizations/good-shepherd-taiwanese-presbyterian-church|Good Shepherd Taiwanese Presbyterian Church (好牧者臺灣基督長老教會)]]
+- GSTPC Tier-A Person Wikification Queue

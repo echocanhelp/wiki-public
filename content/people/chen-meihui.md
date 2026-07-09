@@ -31,7 +31,7 @@ The ITPC official site's 2025–2026 pastor page lists 李輔仁牧師 (Rev. Fu-
 
 ## Related Pages
 
-- [[irvine-taiwanese-presbyterian-church-爾灣台灣基督長老教會|Irvine Taiwanese Presbyterian Church]]
-- [[zhang-xuanxin-張宣信|Zhang Xuanxin (張宣信)]]
-- [[presbyterian-church-in-taiwan-台灣基督長老教會|Presbyterian Church in Taiwan]]
-- [[echopedia-community-contributions-hub|Echopedia Community Contributions Hub]]
+- [[organizations/irvine-taiwanese-presbyterian-church|Irvine Taiwanese Presbyterian Church]]
+- [[people/zhang-xuanxin|Zhang Xuanxin (張宣信)]]
+- [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]]
+- Echopedia Community Contributions Hub

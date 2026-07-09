@@ -24,13 +24,13 @@ NTPC-related materials are important for:
 
 ## Related Pages
 
-- [[toward-a-community-of-hope|Toward A Community of Hope]]
-- [[albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
-- [[fpcla|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
-- [[presbyterian-church-in-taiwan-台灣基督長老教會|Presbyterian Church in Taiwan (台灣基督長老教會)]]
-- [[mingyuan-hsu-許明遠|Rev. Mingyuan Hsu (許明遠)]]
-- [[pinghsi-liu-劉炳熹|Rev. Pinghsi Liu (劉炳熹)]]
-- [[yunching-yeh-davis-葉芸青|Dr. Yunching Yeh Davis (葉芸青)]]
-- [[shoki-coe-黃彰輝|Dr. Shoki Coe (黃彰輝)]]
-- [[choan-seng-song-宋泉盛|Dr. Choan-Seng Song (宋泉盛)]]
-- [[lien-hwa-chow-周聯華|Dr. Lien-Hwa Chow (周聯華)]]
+- Toward A Community of Hope
+- [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
+- [[people/fpcla|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
+- [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan (台灣基督長老教會)]]
+- [[people/mingyuan-hsu|Rev. Mingyuan Hsu (許明遠)]]
+- [[people/pinghsi-liu|Rev. Pinghsi Liu (劉炳熹)]]
+- [[people/yunching-yeh-davis|Dr. Yunching Yeh Davis (葉芸青)]]
+- [[people/shoki-coe|Dr. Shoki Coe (黃彰輝)]]
+- [[people/choan-seng-song|Dr. Choan-Seng Song (宋泉盛)]]
+- [[people/lien-hwa-chow|Dr. Lien-Hwa Chow (周聯華)]]

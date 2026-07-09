@@ -21,7 +21,7 @@ last_reviewed: 2026-07-08
 > “Rev. En Sheng Pan , 潘恩盛 — Moderator of the 70th General Assembly of the Presbyterian Church in Taiwan — June 15, 2025.”
 - Date/Period: 2025
 - Context: recommendation/signature block in republication framing materials
-- Source: [[toward-a-community-of-hope-republication-voices-and-testaments|Republication Voices and Testaments (2025)]]
+- Source: Republication Voices and Testaments (2025)
 - Source pointer: `/tmp/albert_lai_english.txt` around lines 146–148
 - Source tier: A-tier (direct quotation)
 
@@ -55,7 +55,7 @@ Rev. Pan’s inclusion indicates ongoing transnational ties between Taiwan-based
 - Romanization variant: Pan En-sheng
 
 ## Contribution Invitation
-Use the shared intake process at [[echopedia-community-contributions-hub|Echopedia Community Contributions Hub]] and include:
+Use the shared intake process at Echopedia Community Contributions Hub and include:
 - Person/page name
 - Your relationship to the person/event
 - Memory/quote/correction text
@@ -63,7 +63,7 @@ Use the shared intake process at [[echopedia-community-contributions-hub|Echoped
 - Source type and permission status
 
 ## Related Pages
-- [[toward-a-community-of-hope]]
-- [[ntpc|National Taiwanese Presbyterian Council (NTPC)]]
-- [[presbyterian-church-in-taiwan-台灣基督長老教會|Presbyterian Church in Taiwan (台灣基督長老教會)]]
-- [[echopedia-person-recordation-framework|Echopedia Person Recordation Framework]]
+- toward-a-community-of-hope
+- [[people/ntpc|National Taiwanese Presbyterian Council (NTPC)]]
+- [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan (台灣基督長老教會)]]
+- Echopedia Person Recordation Framework

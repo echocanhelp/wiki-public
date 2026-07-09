@@ -26,7 +26,7 @@ The ITPC history document states that after 鄭泉聲牧師 returned to Japan, t
 
 ## Related Pages
 
-- [[irvine-taiwanese-presbyterian-church-爾灣台灣基督長老教會|Irvine Taiwanese Presbyterian Church]]
-- [[zheng-quansheng-鄭泉聲|Zheng Quansheng (鄭泉聲)]]
-- [[presbyterian-church-in-taiwan-台灣基督長老教會|Presbyterian Church in Taiwan]]
-- [[echopedia-community-contributions-hub|Echopedia Community Contributions Hub]]
+- [[organizations/irvine-taiwanese-presbyterian-church|Irvine Taiwanese Presbyterian Church]]
+- [[people/zheng-quansheng|Zheng Quansheng (鄭泉聲)]]
+- [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]]
+- Echopedia Community Contributions Hub

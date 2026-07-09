@@ -31,4 +31,4 @@ Rev. Xie is recognized as an ordained minister within the Taiwanese Presbyterian
 - Romanized: Xie Dali / Xie Dali
 
 ## Related Pages
-- [[people|People Index]]
+- [[people/index|People Index]]

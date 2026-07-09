@@ -23,8 +23,8 @@ Her continued visibility in bulletin records reflects stable elder leadership co
 1. **Elder installment and worship participation**
    - Mentioned in context of new elder installation and regular worship life.
    - Examples:
-     - [[gstpc-bulletins/2023/gstpc-bulletin-2023-01-15|GSTPC Bulletin 2023-01-15]]
-     - [[gstpc-bulletins/2024/gstpc-bulletin-2024-12-15|GSTPC Bulletin 2024-12-15]]
+     - GSTPC Bulletin 2023-01-15
+     - GSTPC Bulletin 2024-12-15
 
 2. **Sustained elder service**
    - Mentions across three consecutive years indicate ongoing leadership continuity.
@@ -38,8 +38,8 @@ Her continued visibility in bulletin records reflects stable elder leadership co
 - Romanized: Chen Xialian
 
 ## Contribution Invitation
-Use [[echopedia-community-contributions-hub|Echopedia Community Contributions Hub]].
+Use Echopedia Community Contributions Hub.
 
 ## Related Pages
-- [[good-shepherd-taiwanese-presbyterian-church-好牧者臺灣基督長老教會|Good Shepherd Taiwanese Presbyterian Church (好牧者臺灣基督長老教會)]]
-- [[gstpc-tier-a-person-wikification-queue|GSTPC Tier-A Person Wikification Queue]]
+- [[organizations/good-shepherd-taiwanese-presbyterian-church|Good Shepherd Taiwanese Presbyterian Church (好牧者臺灣基督長老教會)]]
+- GSTPC Tier-A Person Wikification Queue

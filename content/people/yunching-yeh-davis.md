@@ -31,4 +31,4 @@ Dr. Yeh Davis is recognized as a member of the Taiwanese American historical and
 - Romanized: Yunching Yeh Davis / Ye Yunqing
 
 ## Related Pages
-- [[people|People Index]]
+- [[people/index|People Index]]

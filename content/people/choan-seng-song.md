@@ -54,7 +54,7 @@ Within this cluster, Dr. Song is treated as an intellectual reference rather tha
 - Romanization variant: Song Choan-seng
 
 ## Contribution Invitation
-Use the shared intake process at [[echopedia-community-contributions-hub|Echopedia Community Contributions Hub]] and include:
+Use the shared intake process at Echopedia Community Contributions Hub and include:
 - Person/page name
 - Your relationship to the person/event
 - Memory/quote/correction text
@@ -62,6 +62,6 @@ Use the shared intake process at [[echopedia-community-contributions-hub|Echoped
 - Source type and permission status
 
 ## Related Pages
-- [[toward-a-community-of-hope]]
-- [[presbyterian-church-in-taiwan-台灣基督長老教會|Presbyterian Church in Taiwan (台灣基督長老教會)]]
-- [[echopedia-person-recordation-framework|Echopedia Person Recordation Framework]]
+- toward-a-community-of-hope
+- [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan (台灣基督長老教會)]]
+- Echopedia Person Recordation Framework

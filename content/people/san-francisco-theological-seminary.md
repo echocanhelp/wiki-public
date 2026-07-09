@@ -16,6 +16,6 @@ Through leaders trained there, the seminary is connected to early theological in
 
 ## Related Pages
 
-- [[albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
-- [[toward-a-community-of-hope|Toward A Community of Hope]]
-- [[tainan-theological-college-and-seminary-台南神學院|Tainan Theological College and Seminary (台南神學院)]]
+- [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
+- Toward A Community of Hope
+- Tainan Theological College and Seminary (台南神學院)

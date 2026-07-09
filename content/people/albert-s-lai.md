@@ -28,14 +28,14 @@ last_reviewed: 2026-07-08
 > “A man living in a period of transition searches for knowledge of the future...”
 - Date/Period: 1971
 - Context: Chapter VI constructive-theology framing
-- Source: [[toward-a-community-of-hope-primary-source-extracts|Primary Source Extracts]]
+- Source: Primary Source Extracts
 - Source tier: A-tier (primary dissertation text)
 
 ### Testament 3
 > “Since everyone agrees that this dissertation still holds publishing value over 50 years later, I am, of course, willing and eager to facilitate its publication.”
 - Date/Period: 2025 republication context
 - Context: Author reflection in republication materials
-- Source: [[toward-a-community-of-hope-republication-voices-and-testaments|Republication Voices and Testaments (2025)]]
+- Source: Republication Voices and Testaments (2025)
 - Source tier: A (direct first-person quotation in republication material)
 
 ## Historical Context
@@ -43,7 +43,7 @@ Dr. Lai’s life-work sits at the junction of migration-era pastoral care and in
 
 ## Contributions and Legacy
 1. Documented an early Taiwanese American migration/church framework in Toward A Community of Hope — A Mission to Formosan Community in Los Angeles. — Source: Toward A Community of Hope — A Mission to Formosan Community in Los Angeles (A)
-2. Helped articulate church as both ethnic refuge and public mission community in Los Angeles founding-era context. — Source: [[toward-a-community-of-hope-chapter-iv-formosan-christian-church-in-los-angeles|Chapter IV analysis]] (A/B)
+2. Helped articulate church as both ethnic refuge and public mission community in Los Angeles founding-era context. — Source: Chapter IV analysis (A/B)
 3. Became a cross-generational reference point through 2025 republication efforts linked to NTPC. — Source: book page republication notes (C)
 
 ## Source Notes and Confidence
@@ -73,9 +73,9 @@ Use the shared intake process at Echopedia Community Contributions Hub and inclu
 Your contribution helps preserve this life record with both dignity and historical traceability.
 
 ## Related Pages
-- [[toward-a-community-of-hope|Toward A Community of Hope — A Mission to Formosan Community in Los Angeles]]
-- [[fpcla|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
-- [[ntpc|National Taiwanese Presbyterian Council (NTPC)]]
-- [[echopedia-person-recordation-framework|Echopedia Person Recordation Framework]]
-- [[echopedia-community-contributions-hub|Echopedia Community Contributions Hub]]
-- [[echopedia-person-page-template|Echopedia Person Page Template]]
+- Toward A Community of Hope — A Mission to Formosan Community in Los Angeles
+- [[people/fpcla|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
+- [[people/ntpc|National Taiwanese Presbyterian Council (NTPC)]]
+- Echopedia Person Recordation Framework
+- Echopedia Community Contributions Hub
+- Echopedia Person Page Template

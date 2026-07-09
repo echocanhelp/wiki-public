@@ -19,5 +19,5 @@ last_reviewed: 2026-07-08
 Taiwan Formosa works to promote awareness and preservation of Taiwanese history, culture, and heritage.
 
 ## Related Pages
-- [[people|People Index]]
-- [[taiwanese-american-historical-society|Taiwanese American Historical Society]]
+- [[people/index|People Index]]
+- [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society]]

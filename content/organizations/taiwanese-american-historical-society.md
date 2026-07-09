@@ -23,5 +23,5 @@ TAHS works to:
 4. Maintain digital archives and knowledge bases (Echopedia)
 
 ## Related Pages
-- [[people|People Index]]
-- [[echopedia-community-contributions-hub|Echopedia Community Contributions Hub]]
+- [[people/index|People Index]]
+- Echopedia Community Contributions Hub

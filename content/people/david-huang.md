@@ -82,9 +82,9 @@ Rev. David Huang sits at the intersection of commemoration and continuity work: 
 2. **Recurring invited pastoral presence in GSTPC bulletin stream**
    - Bulletin mentions across multiple years indicate periodic but repeated ministry visibility.
    - Examples:
-     - [[gstpc-bulletins/2025/gstpc-bulletin-2025-11-30|GSTPC Bulletin 2025-11-30]]
-     - [[gstpc-bulletins/2024/gstpc-bulletin-2024-09-08|GSTPC Bulletin 2024-09-08]]
-     - [[gstpc-bulletins/2020/gstpc-bulletin-2020-06-07|GSTPC Bulletin 2020-06-07]]
+     - GSTPC Bulletin 2025-11-30
+     - GSTPC Bulletin 2024-09-08
+     - GSTPC Bulletin 2020-06-07
 
 3. **Intergenerational memory-transmission context**
    - His profile signals a role in carrying institutional memory into structured historical recordation.
@@ -94,7 +94,7 @@ Rev. David Huang sits at the intersection of commemoration and continuity work: 
 - Scope note: bulletin and republication materials jointly support recurring pastoral reference; expanded ministry timeline remains verification-gated.
 
 ## Contribution Invitation
-Use the shared intake process at [[echopedia-community-contributions-hub|Echopedia Community Contributions Hub]] and include:
+Use the shared intake process at Echopedia Community Contributions Hub and include:
 - Person/page name
 - Your relationship to the person/event
 - Memory/quote/correction text
@@ -102,7 +102,7 @@ Use the shared intake process at [[echopedia-community-contributions-hub|Echoped
 - Source type and permission status
 
 ## Related Pages
-- [[toward-a-community-of-hope]]
-- [[toward-a-community-of-hope-republication-voices-and-testaments|Republication Voices and Testaments (2025)]]
-- [[ntpc|National Taiwanese Presbyterian Council (NTPC)]]
-- [[echopedia-person-recordation-framework|Echopedia Person Recordation Framework]]
+- toward-a-community-of-hope
+- Republication Voices and Testaments (2025)
+- [[people/ntpc|National Taiwanese Presbyterian Council (NTPC)]]
+- Echopedia Person Recordation Framework

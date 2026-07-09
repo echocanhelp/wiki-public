@@ -22,5 +22,5 @@ The NTPC has been involved in:
 3. Connection with diaspora Presbyterian churches
 
 ## Related Pages
-- [[presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]]
-- [[people|People Index]]
+- [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]]
+- [[people/index|People Index]]

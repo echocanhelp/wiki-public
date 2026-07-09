@@ -31,4 +31,4 @@ Willy Pan is recognized as a member of the Taiwanese American historical and com
 - Romanized: Willy Pan / Pan Jianyu
 
 ## Related Pages
-- [[people|People Index]]
+- [[people/index|People Index]]

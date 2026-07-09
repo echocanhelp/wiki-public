@@ -23,5 +23,5 @@ The PCT has played a crucial role in:
 4. Diaspora church connections worldwide
 
 ## Related Pages
-- [[good-shepherd-taiwanese-presbyterian-church-好牧者臺灣基督長老教會|Good Shepherd Taiwanese Presbyterian Church]]
-- [[people|People Index]]
+- [[organizations/good-shepherd-taiwanese-presbyterian-church|Good Shepherd Taiwanese Presbyterian Church]]
+- [[people/index|People Index]]

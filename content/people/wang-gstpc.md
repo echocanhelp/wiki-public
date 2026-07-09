@@ -30,5 +30,5 @@ Brother Wang appears in GSTPC bulletin records. Further biographical details are
 - Romanized: Wang / Wang
 
 ## Related Pages
-- [[people|People Index]]
-- [[good-shepherd-taiwanese-presbyterian-church-好牧者臺灣基督長老教會|Good Shepherd Taiwanese Presbyterian Church]]
+- [[people/index|People Index]]
+- [[organizations/good-shepherd-taiwanese-presbyterian-church|Good Shepherd Taiwanese Presbyterian Church]]

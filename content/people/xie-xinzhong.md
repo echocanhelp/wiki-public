@@ -31,4 +31,4 @@ Rev. Xie is recognized as an ordained minister within the Taiwanese Presbyterian
 - Romanized: Xie Xinzhong / Xie Xinzhong
 
 ## Related Pages
-- [[people|People Index]]
+- [[people/index|People Index]]
