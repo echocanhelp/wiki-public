@@ -1,3 +1,6 @@
 
 echopedia/staging/
 echopedia/logs/
+
+# Audiobook production (private; not for Pages)
+audiobook-albert-lai/

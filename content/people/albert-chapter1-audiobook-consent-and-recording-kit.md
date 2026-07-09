@@ -68,7 +68,21 @@ Status update:
 - Source confidence note
 - Link to this kit page
 
+## 8) Commercial streaming upgrade (2026-07)
+
+Archival Echopedia website scope is **not** enough for YouTube Music / Spotify / Apple retail.
+
+Production files live **privately** on the server (not published to gh-pages):
+
+- Project root: `echo-system/audiobook-albert-lai/`
+- Plan: `MASTER_PLAN.md` · Status: `STATUS.md` · Next: `NEXT_ACTIONS.md`
+- Commercial text license template + streaming voice consent under `00_legal/` and `08_consents/`
+
+Do **not** upload signed consents, personal phone numbers, or raw session WAVs to the public wiki.
+
 ## Related Pages
 - [[toward-a-community-of-hope-chapter-i-formosan-in-formosa-yesterday]]
 - [[toward-a-community-of-hope]]
 - [[echopedia-community-contributions-hub]]
+- [[albert-chapter1-audiobook-taiwanese-female|Albert Chapter 1 Audiobook（第一章有聲版）]]
+- [[albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
