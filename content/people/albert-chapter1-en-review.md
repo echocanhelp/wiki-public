@@ -13,6 +13,13 @@ last_reviewed: 2026-07-09
 
 **Status:** Scratch AI narration for **voice / tempo / style review** only. **Not** the retail master (retail = human cast).
 
+## Identity Snapshot
+
+- Work: Chapter I, *Toward A Community of Hope* (EN AMT v1.0)
+- Narration: AI scratch · `en-US-ChristopherNeural` · ~29 min · ~149 wpm
+- Purpose: Echopedia review of voice, tempo, and style before human cast
+- Retail: human narrator; this build is not final master
+
 **Source AMT:** v1.0 frozen · Chapter I — *Formosan in Formosa Yesterday*  
 **Book:** Dr. Albert S. Lai, *Toward A Community of Hope*
 
@@ -21,15 +28,15 @@ last_reviewed: 2026-07-09
 **Full chapter (~29 min)**
 
 <audio controls preload="metadata" style="width:100%;max-width:40rem">
-  <source src="/media/albert-ch01-en-christopher-v1-scratch.mp3" type="audio/mpeg">
+  <source src="../media/albert-ch01-en-christopher-v1-scratch.mp3" type="audio/mpeg">
 </audio>
 
-- [Download MP3](/media/albert-ch01-en-christopher-v1-scratch.mp3)
+- [Download MP3](../media/albert-ch01-en-christopher-v1-scratch.mp3)
 
 **90-second voice sample (same voice/settings)**
 
 <audio controls preload="metadata" style="width:100%;max-width:40rem">
-  <source src="/media/albert-ch01-en-voice-bakeoff-sample.mp3" type="audio/mpeg">
+  <source src="../media/albert-ch01-en-voice-bakeoff-sample.mp3" type="audio/mpeg">
 </audio>
 
 ## Narration QC (double-checked)

@@ -74,6 +74,7 @@ Your contribution helps preserve this life record with both dignity and historic
 
 ## Related Pages
 - Toward A Community of Hope — A Mission to Formosan Community in Los Angeles
+- [[people/albert-chapter1-en-review|Ch.1 English audiobook review (voice/tempo)]]
 - [[people/fpcla|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
 - [[people/ntpc|National Taiwanese Presbyterian Council (NTPC)]]
 - Echopedia Person Recordation Framework
