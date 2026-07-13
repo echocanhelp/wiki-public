@@ -39,6 +39,11 @@ His documented preaching during the early pandemic months contributed to maintai
 ## Contribution Invitation
 Use Echopedia Community Contributions Hub.
 
+## Identity Snapshot
+- Era: 2020–2021
+- Geography: Southern California
+- Core roles: visiting preacher, ordained minister
+
 ## Related Pages
 - [[organizations/good-shepherd-taiwanese-presbyterian-church|Good Shepherd Taiwanese Presbyterian Church (好牧者臺灣基督長老教會)]]
 - GSTPC Tier-A Person Wikification Queue

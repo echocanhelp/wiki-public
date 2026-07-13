@@ -22,6 +22,11 @@ In early Taiwanese immigrant life, FPCLA functioned as:
 - Social support network for new arrivals
 - Space for negotiating faith, identity, and public belonging
 
+## Identity Snapshot
+- Type: Taiwanese Presbyterian congregation
+- Geography: Los Angeles, California
+- Core roles: worship, community support, immigrant church formation
+
 ## Related Pages
 
 - [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]

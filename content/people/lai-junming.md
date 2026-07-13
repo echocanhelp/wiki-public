@@ -34,6 +34,11 @@ Supported worship and special events including Father’s Day and regular Sunday
 ## Contribution Invitation
 Use Echopedia Community Contributions Hub.
 
+## Identity Snapshot
+- Era: 2022–2023
+- Geography: Southern California
+- Core roles: visiting preacher, ordained minister
+
 ## Related Pages
 - [[organizations/good-shepherd-taiwanese-presbyterian-church|Good Shepherd Taiwanese Presbyterian Church (好牧者臺灣基督長老教會)]]
 - GSTPC Tier-A Person Wikification Queue

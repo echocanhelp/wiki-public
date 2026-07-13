@@ -1,0 +1,191 @@
+---
+id: ch02_part01
+title: "Chapter II — Formosan in Formosa Today (Part 1)"
+parent: ch02
+amt_version: v1.0
+word_count: 4743
+est_minutes_at_150wpm: 31.6
+language: en
+retail_default: true
+---
+
+# Chapter II — Formosan in Formosa Today (Part 1)
+
+CHAPTER II
+ FORMOSAN IN FORMOSA TODAY
+
+ I. FORMOSA IS NOT CHINESE
+
+ Formosa became a Japanese territory as a result of the Sino-Japanese For in 1894-1895. For roughly half a century, until Japan’s defeat in the Second World War, Formosa was under Japanese rule. This period coincided with a time of confusion and chaos in China. War, civil strife, and colonialism served to intensify China’s backwardness; but Formosa by contrast enjoyed relative social stability and economic well being. Improved methods of cultivating rice and sugar cane were devised, and island achieved a certain degree of industrialization. Formosa escaped destruction in
+ World War II, and at the war’s end the Formosans enjoyed better living conditions than the people of devastated Japan.
+ When the Chinese Nationalist landed on the island in the wake of the Chinese Civil War, the
+ Formosans with considerable justi cation regarded Chiang’s troops as morally and socially inferior and Chiang Kai-shek’s government as authoritarian and corrupt. The 14 million islanders, who are mostly of Chinese origin, outnumbered the newly arrived “pigs” loyal to Chiang Kai-shek by a ratio of 8-1. In 1947, the ‘’Two-Two-Eight Incident” occurred; riots started in Taipei and spread throughout the entire island. Chinese reinforcements were hastily dispatched from the continent, crushed the rebellion; and the Formosans still harbor a deep distrust of the Nationalist Chinese.
+ Today, Chiang Kai-shek’s authoritarian rule depends on the vigilance of a police force of six hundred thousand men backed by an army of equal size.
+ Although Chiang’s government can no longer maintain not only its prestige in the United
+ Nations and other international bodies, it is still ruling Formosa as the legitimate government of
+ China. If the Chiang Kai-shek regime were not supported by the United States, it would be no more than a government in exile. With American support, however, Chiang maintains his seat of power in Taipei while the government of the province of Taiwan has been removed to Taichung.
+ Furthermore, of the 773 seats in the Legislative Yuan in Taipei, only 464 are held by members who actually live on Formosa and only 14 represent Formosa itself. Chiang Kai-shek maintains the ction that the Legislative Yuan in Taipei represents the whole of China, and the remaining seats are reserved for “Chinese”. Were the Formosans to establish home rule by plebiscite, Nationalist
+ Chinese authority would be restricted to Quemoy and Matsus Islands. Furthermore, 457 of the representatives in the Yuan would also have to move to Quemoy and Matsu.
+ The Peking government frequently reiterates that it will, without fail, liberate Formosa; but
+ “liberation” does not mean Formosan self-determination. Like Chiang Kai-shek, Peking’s interest is in achieving uni cation of all China. The Communists rmly reject the principle of two China and will oppose any legal separation of Formosa from China, including the creation of an independent fi fi
+
+State of Formosa. In a perverse sense, Chiang Kai-shek is the comrade of the mainland Chinese.
+Should his claim to sovereign power over “one China” collapse, the People’s Republic would lose a powerful supporter of her own assertion that the government of China may legally exercise hegemony over all historically Chinese territory. It is signi cant that China bombards Quemoy and
+Matsu periodically, but so too does it attempt to take the islands and destroy Chiang Kai-shek’s impossible dream.
+ It is essential to understand that all Formosans think of themselves as Formosans and not as
+Chinese, except in a racial and to some degree in a cultural sense. Formosa is their only home; to restore mainland China makes no sense to a Formosan -- they have never been there and have no interests or stake there.
+
+ II. In A Danger Of Being Bargained Away
+
+ As a result of the ideologies cultivated by the Nationalist regime, the Formosan people have been psychologically “disarmed”. Their sense of identity is obscured, and they are uncertain as to what strategies to use in struggling for status. The police control of the Nationalist government has deprived them of organized military strength and political organization. Under the term of the
+“emergency order” enforced since 1949, there is no freedom of speech, assembly, association or peaceful petition. A potential opposition party that promised to re ect the demands and interests of native Formosans was crushed even before it was organized, and a principal initiator, Lei Chen, was sentenced to ten years of imprisonment for sedition. The only in uential Formosan newspaper, headed by Li Wan-chin, was taken over by the government when Li also played a part in the attempt to organize a constructive opposition party.
+ In order to prevent organized armed revolt, a substantial percentage of Formosan draftees are sent to Quemoy and Matsu -- a hundred miles away from Formosa. Formosan soldiers stationed inside Formosa are denied access to ammunition. By preventing the Formosan people from becoming effectively organized and armed, the Nationalists have been able to keep them in subjection. As every political analyst knows, it is extremely dif cult in the contemporary world to initiate a successful, popular revolution without the support of armed forces. In Formosa key military positions are occupied exclusively by Nationalist generals. Native Formosans, on the other hand account for more than 80 percent of the rank and le of the Nationalist armed forces. Hence, it is not altogether certain when the balance of military strength would be during a crisis.
+ Unless Formosans are for themselves, who will be for them? To obtain international support, they will have to show the world that they can be helped to help themselves and provide a promising alternative for the future of Formosa. If the overthrow of its Nationalist regime would lead only to a series of chaotic emergencies, as in South Vietnam after the death of Ngo Dinh Diem, even the most generous and sympathetic friends would hesitate to embroil themselves in another impasse.
+ At that critical hour when Formosa is in imminent danger of being bargained away, the only hope for Formosans is for the Formosan people to demonstrate their common aspirations fi fl
+
+unmistakably to the world. A settlement that disposes of the destiny of 14 million people as though they were rocks and sand cannot be tolerated.
+
+ III. The Victims in the Myth of Formosa’s Economic Progress
+
+ As for wealth, the regime has amassed substantial resources by their economic policies and by managing the national treasury, public enterprises, and party enterprises. Compared with the assets of the Nationalist regime, Formosans’ private wealth is limited. In spite of the rosy picture of a
+Formosa that has graduated from dependence on U.S. aids, some economists believe -- and some
+Nationalist elites cautiously suspect -- that of cial American echoes of the Nationalist economic achievement could be a calculated tactic to draw America’s attention away from Chiang’s slogan of
+“the recovery of Mainland China” and to insure continuing congressional support for selective aid programs. Why, if Formosa’s economic progress is as great as alleged, are the problems of unemployment and underemployment becoming worse than ever? Why does in ation continue steadily? Why are more business rms going bankrupt?
+ In talking about Formosa’s economic progress, the land reform program quickly occupies the focus of attention. Reform can claim its success because the landlords who were exposed to deprivation happened to be law-abiding Formosans. (Aside from bene ts to tenant farmers, one direct consequence of the land reform is to consolidate the Nationalist’s power by weakening the only Formosan elite having substantial local in uence. Had the landlords been mainland Chinese, there would have been no successful land reform. Some offset must be recognized; moreover, against the alleged gain for farmers resulting from land reform by the combined effect of the imposition of manifold taxes, the low-price policy imposed on farm products, and the unfair rice-fertilizer exchange ratio. The burden of taxes borne by the people is re ected by a popular saying in the
+Formosan community, “Taiwan wan-swei!”, meaning both “long live Formosa” and “Taiwan, the island of Ten Thousand Taxes”. The main farm product in Formosa is rice purchased in large quantity by the government to feed 600,000 soldiers and hundreds of thousands of government employees. Although the relative price index of nonfarm products rises sharply every year, the regime has consistently held very tight control over rice price to assure a supply of staple food at minimum cost -- an operation executed at the expense of the relative purchasing power of the farmers. As to the unfair rice-fertilizer exchange ratio, it is a unique phenomenon in Formosa. The government monopolizes the fertilizer market; hence, the farmers must trade rice for governmentcontrolled fertilizer in order to get the fertilizer needed for farming. The ratio of exchange is not a result of the market operation of supply and demand, but one of administratively determined price set by the government, and obviously disadvantageous to farmers.
+ Businessmen, laborers, and civil servants are hardly better off. In the “thriving” economy, businessmen would seem to be the chosen bene ciaries of “economic progress.” But this is not so.
+Far from being a “free economy” in any responsible sense, Formosa’s economy is peculiarly
+“politicized.” The success or failure of a business rm depends not upon its management according fi fi fl
+
+to economic and technological consideration but upon its “political connections” which enable it to evade disproportionately heavy tax and to obtain government loans and favors. Often a business concern survives primarily because of its ability to “evade taxes” by the use of bribery or fraudulent bookkeeping. In these undercover matters, mainland Chinese businessmen are relatively well off, since the key government positions are dominated by mainland Chinese. Pro t-making through collusion between governmental of cials and businessmen is in no sense an uncommon practice in
+Formosa. In 1966 there were ve corruption cases involving many top government of cials --
+Cabinet members as well as members of Legislative and Control Yuan and the delegates to the
+National Assembly. The total loss to the public in these cases was estimated to amount to 75 million dollars. In a case concerning illegal policy loans to a textile company, the Control Yuan initiated an impeachment proceeding against the Minister of Economic Affairs and the Minister of Finance. In a case of collusive theft of soy beans, a number of top legislators were indicted.
+ For the lower-income class, life is made harsh by the imposition of a heavy tax. According to the present tax structure, about 80 percent of the government revenue comes from “indirect taxes” primarily in the form of a sales tax or other commodity tax. While there is no lack of relatively rich people, these people usually can get out of paying taxes through skillful manipulation of their wealth; and the regime has refrained from resorting to a direct tax as a principle source of revenue.
+As for the poor, they have no money to buy or in uence power-wielders -- though they are “skinny,” they are taxpayers. Hence, the standard of living of lower-income people is made lower because of basically unjust system.
+
+ IV. Under a Permanent “State of Siege”
+
+ The Nationalist Government now had control over a relatively small territory and it had taken steps to ensure that its rule over Formosa would be virtually complete. On May 19, 1949, the
+Nationalist Chinese Garrison Command in Formosa had proclaimed a general “State of Siege” or martial law over Formosa and the other islands. The effect of civil liberties of the people was devastating. Illustrative of its severity was the large number of offenses carrying the death penalty including:
+
+ 1. Circulating rumors and beguiling the public,
+ 2. disrupting the money market,
+ 3. striking by workers or traders,
+ 4. encouraging students to strike, and
+ 5. disrupting water supplies or electric and gas service.
+
+ Examination of these martial law regulations is essentially to an understanding of the internal situation in Formosa, because the “State of Siege” still exists. Since 1949, a major portion of community life in Formosa has been under the control and surveillance of military authority. Most fi fi
+
+guarantee and protection of individual rights and freedom written into 1947 Chinese Constitution have been suspended, and the judicial system has become a pawn of the military.
+ Political offenses are de ned generally as “crimes,” which are incidental to and form a part of political disturbances, including offenses consisting in an attack upon the political order of things established in the country as well as offenses committed to obtain any political object.
+ Several laws were added to ensure complete control over the local population. The Statute for
+Punishment of Rebellion (June 21, 1949), the Statute for Denouncement and Suppression of Rebels
+(instituted in 1940 and amended in 1959), and the Judicial Interpretation of the Council of Grand
+Justices (1956) has formed the basis for the militarization of the judicial system. Since 1949, political offenses have been under the control of a military court.
+ Special practices abrogate important provisions of the judicial system:
+
+ 1. In practice, the statute of limitations is not applicable for political offenses. Individuals have been tried for political crimes allegedly committed nearly two decades ago.
+ 2. The principle prohibiting ex post facto laws is not applicable to political offenses. This results in trials and convictions of “offenders” for political acts committed before laws prohibited the acts.
+ 3. Immunities and privileges of legislators are not recognized for political offenses. A number of the Legislative Yuan are “permanently responsible for opinions expressed in it if the opinion constitutes a political offense,” even though the Constitution provides immunity for
+ “an opinion expressed or a vote cast in the Yuan.”
+ 4. Persons are not given remission of punishment for political offenses committed when they were underage. Recently, several persons were convicted of offenses committed over 24 years ago when they were less than 14 years old.
+ 5. Leniencies given to an offender’s family who shielded him is not applicable for political offenses. Everyone is obligated to renounce the “rebel.” No one is safe from being reported by members of his family. Imprisonment of one to seven years is meted out to those who knowingly failed to denounce the “rebel.”
+ 6. There is no parole for political offenders.
+
+ If you are caught in the web of these laws, you can be politically detained under the Statutes for Denouncement and Suppression of Rebels. This law stipulates that “those who committed
+(political) offenses and need reform shall be sent for reform.” These are two supplements to the fundamental laws already mentioned. They are “Measures for Control of Hooligans during the
+Enforcement of Martial Law in Formosa” and “Measures for the Reform of Rebels during the
+Period of Communist Rebellion.” If the government cannot imprison you on a speci c charge, it can intern you for suspected thoughts or behavior. The rst term is three years and it is inde nitely renewable. Political internment can, without trial, amount to life imprisonment.
+ The State of Siege was instituted before the Nationalist Government was evicted from the mainland and is to last as long as the “Period of Communist Rebellion” exists on the Chinese fi fi
+
+ mainland -- that is, until the forces of Chiang Kai-shek return to and occupy the mainland. Since the move to Taipei, the “temporary” capital of China, the laws have been enacted by a legislature elected on the mainland over 20 years ago and composed of representatives of all of China.
+ According to the election laws governing the elections held in 1947-1948, (it was at these elections that the existing government was in effect selected), Formosa’s quota of representatives was
+ 19 of 3045 members of the National Assembly, 8 of 773 members of the Legislative Yuan, and 5 of
+ 223 members of the Control Yuan. These three bodies functionally constituted the “Congress,” as the term is commonly understood in other political systems. Formosa’s representation today in the
+ National “Congress” remains proportionately about the same as it was in 1948.
+ Formosans have less than 3 percent representation. Yet, in practice these laws apply only to
+ Formosa. To suggest that the status quo should be changed and self-determination given the people of Formosa is regarded by the Nationalist regime as sedition and dealt with harshly.
+ These laws, produced by a system in which Formosans have almost no role, are executed by an equally undemocratic court system. Political prisoners are tried in a military court. That court is controlled by the Garrison Command of Taiwan responsible for the general security of the island.
+ And a political prisoner can be held incommunicado for months or years without even being charged. His trial is virtually always secret. The permanent state of siege instituted in Formosa 21 years ago has eliminated political life in Formosa.
+ Conservative United Nations sources estimate at least 1,500 political prisoners are now being held by the Nationalist Government. Other sources, largely Formosan, place the gure at from
+ 10,000 to 20,000. The March 1968 issue of the Independent Formosa published in Tokyo, Paris, and Philadelphia reported, “It has been estimated that there are approximately two hundred executions and 1,500 arrests of political offenders each year, out of a total population of only twelve million.” Since the Nationalist Government considers guilt established by association with “rebels” and such association is punishable under the law, the families of these detainees live under a constant threat of arrest.
+ Here are a few illustrations of the Formosan political climate provided by Hon. Donald M.
+ Fraser of Minnesota from sources he believed to be very reliable to Members of Congress for Peace
+ Through Law (CPL) at a luncheon. (The title of his speech was “Political Repression in ‘Free
+ China’.”)
+
+ Prisoner A was arrested in 1960 for distributing pamphlets which discussed the possibility of
+ Formosa being ruled some day by Formosans. Given a life sentence, Prisoner A is 43 years old.
+ Before arrest he was a photographer by profession. He maintained a middle-class family of wife and ve children. Soon after he was put into prison, the prisoner was tortured. Torture included being suspended from a rafter and having gasoline put into his nose drop by drop. He was beaten severely.
+ Torture was intermittent. When after several months he became very weak, he was taken out of the solitary con nement section and put into a common cell with sick prisoners. Some had tuberculosis, and soon A developed tuberculosis. After A developed a bleeding ulcer. Soon after the prisoner’s arrest, his father became very ill and required extensive medical care and hospitalization. The fi prisoner’s wife attempted to pay the medical bills of her father-in-law and went deeply into debt.
+ The family now has a debt equivalent to $1,000. The family is very poor. The wife and all ve children (now ages 16-22) work. All of them rmly believe that A was right to do what he did.
+
+ B was arrested at the same time and for the same offenses as A. He was sentenced to 12 years instead of life. The prisoner is 35 years old. Before he was arrested, he was a camera operator at a
+ Taipei movie house. He is married and has one child, all relations with B, his wife, and his child for fear of themselves coming under suspicion. B’s wife became a prostitute to support herself and her daughter and her aged mother.
+
+ C was arrested in 1960 when he was a freshman in law school. He was charged with organizing a group planning to overthrow the government. He was sentenced to 12 years in prison.
+ C is the only member of the family to go to college. The others are illiterate. The family are shermen, and they make very little money. Since C’s arrest, the family has been constantly harassed by the police. The father, mother, two younger sisters and younger brother live in a single room and are very poor. Mother is in very bad health and frequently has fainting spells.
+
+ D was arrested in 1963 and sentenced to 10 years in prison for allegedly being involved in a plot to overthrow the government. He talked about the unlikeliness of the government ever recovering the mainland. His family only learned about his arrest when the police came to their home to tell of his arrest and not to tell anyone. At the time of the arrest, he was a student at a military academy. His mother and father are illiterate and very poor. They live in a one-room house in the country. He has ve sisters who are in school.
+
+ E was arrested in 1960 and charged with having participated in the February 28, 1947, revolt on Formosa. He was sentenced to 10 years in prison. E’s wife and two sons have been taken in by his wife’s brother.
+
+ F was a factory foreman. He is Formosan. Some of the men working for him were Chinese.
+ Three Chinese workers for him denounced him for listening to broadcasts from the mainland China and for having “contact to maintain Formosa.” He was sentenced to 5 years in prison.
+
+ G is about 38 years old. He is now on trial for having distributed pamphlets which were critical of the government. If convicted, the only punishment can be death. He was arrested in March
+ 1967. In 1968 his family received a letter from him saying that he was on a bus trip and he was well.
+ He was forced by the police to write the letter. He is held incommunicado. He is imprisoned at Chin
+ Mei in a suburb of Taipei.
+
+ H was arrested in 1967 and charged with failing to denounce men who hoped to overthrow the government. His only connection with the group is that he was hired for $2.50 to make a name fi fi
+
+stamp which read “Action Group of the Formosan Independence Center” for the group. He has not been tried. If he is convicted, he will receive seven years in prison. He has been in prison since 1967 awaiting trial.
+
+ V. Education Without Freedom
+
+ A dictatorial regime must, if it is to have any future, thoroughly control the educational process of the country. This lesson has been learned by the Kuomintang (KMT), Chiang’s National Party -- the only political party in Formosa’s leadership, and they are now implementing that control. In
+1951, two years after the ight to Formosa, Chiang Kai-shek addressed a joint meeting of the
+Revolutionary Academy and Of cer’s Training School. He said,
+
+ “ . . . the greatest cause of our failure on the mainland was the failure in education and culture”.
+“Only because we failed in the eld of education did we fail in so many other elds as well.”
+
+ Chiang went on to explain that K.M.T. Party had formulated since 1928 resolutions on educational policies, but they had not been implemented throughout China, He continued:
+
+ “They did not actively incorporate our party’s policy into their teaching. They disregarded party policy on education. They thought that party policy on education had nothing to do with actual education. As a result we have never realized our party’s ideals in education.”
+
+ On August 11, 1952, Chiang Chin-Kuo, the head of his father’s secret police, delivered a “Top
+Secret” address to cadets at a training class for party workers in which he related the goal of the
+K.M.T. Party in education as follows:
+
+ “We must start a large-scale youth movement to elevate and strengthen the political education of youths. Every school must have a systematic plan for strengthening political knowledge of its students.
+In both youth movements and in political education we must carry out thought indoctrination and, with the struggle for the mind of youths and make the youths accept our correct thoughts and abandon all incorrect thoughts. This course will lead to the uni cation of the political motives and political directions of youths and make them love our party, support our party and make them voluntarily join our party and aid it in accomplishing its mission.”
+
+ A year later, Chiang Kai-shek in a secret address related the control of education to the consolidation and enhancement of the powers and position of the leader of K.M.T. Party.
+ fi fi
+
+ “In brief, if there is no party ideology then there can be no revolution. If there is no fatherland and no revolution can be successful. When we examine our painful experience on the mainland, we must recognize that our failure to believe in the three People Principle and especially on the loss of con dence in our leader. That was the cause of our tragedy. Now, today, for the sake of our revolution, for the sake of the fatherland and for the sake of our anti-Communist and anti-Russian mission, we have to restore con dence in the three People Principle and especially restore con dence in our leader.
+ We cannot emphasize too much the importance of the central leadership of the revolution. Our slogan will be: “Party Ideology, Leader, Fatherland, Responsibility, and Honor.”
+
+ To implement the goal enunciated by Chiang Chin-kuo in 1952, the “Chinese Youth Corps for
+ Anti-Communism and the salvation of the Fatherland,” known as the Youth Corps, was established largely to study K.M.T. literature and the thoughts of Chiang Kai-shek. All students above 12 wanting high school certi cates must “voluntarily” become members. Non-youth corps members are not allowed to graduate from high school. In addition to the Youth Corps, the Party
+ Headquarters for Intellectual Youth has a branch in every college in Formosa. It generally has monthly meetings in small cells of 10 members, and leaders report directly to the party hierarchy.
+ The Ministry of Education naturally is controlled by the K.M.T. Party. The minister is usually a trusted aide of either the President or his son. In local colleges, the dean of students and the chief military instructor are either directly or indirectly appointed by the K.M.T. The security of cers, required in each school by a 1959 statute, are directly responsible for reporting to the secret police on the activities occurring in the school. He is required to know what happens in each classroom.
+ Consequently, at least one pupil in each class reports to the security of cer. In one university these
+ “professional students” are often veterans of the armed forces. Students, faculty, and staff members who apply for either a passport or a job must be approved by the security of cer of their school.
+ Many faculty and student arrested are believed to result from reports by the security of cer.
+ The most obvious aspect of the totalitarian educational system in Formosa is that each faculty member in every school must persuade some person other than a member of his immediate family to sign the following statement:
+
+ I guarantee that Mr. Someone will abide by the law and government orders. I guarantee that he is not a Communist, or a member of any other subversive element. If he fails to do so, or is any of the above, then I have the obligation to denounce him. If I do not denounce him, then I am willing to receive punishment for the Denouncement of Rebels.
+
+ The result of this system is that “if the guarantor even has the slightest suspicion that the thoughts or actions of the guaranteed, then he is moved by fear to denounce the guaranteed immediately.” A similar system is used for every student in high school and college.
+ fi fi fi fi
+
+ Dr. Marilyn Young of the Center for Chinese Studies at the University of Michigan wrote in a recent letter that:
+
+ “Few American students can be unaware of the fact that the system of informal spies which permeates Taiwan has overseas branches throughout the United States. It is a safe assumption that no student from Taiwan, particularly if he is Taiwanese, can comfortably engage in public discussion of political issues unless he has permanently abandoned any intention of returning to the island.”
+
+ She gave to speci c examples. In August 1968, Chen Yu-hsi was “tried and sentenced for apparently having read “The Thoughts of Mao” ... in the Oriental section of the University of
+Hawaii’s East-West Center Library and for having written articles for a journal deemed left-wing by the Nationalist Government.” And in 1966, Huang Ch’i-ming, a graduate student at the University of Wisconsin, home on a brief lial visit, was arrested and convicted on the charge of having attended meetings in Madison where “the problem of Formosa” was discussed. Professor Young draws certain conclusions from these two cases and others and asks hard questions:

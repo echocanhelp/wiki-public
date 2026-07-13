@@ -20,7 +20,6 @@ Organization records in **Echopedia** — churches, cultural centers, historical
 - [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan (PCT)]]
 - [[organizations/ntpc|North Taiwan Presbyterian Church (NTPC)]]
 - [[organizations/taiwan-formosa|Taiwan Formosa]]
-- [[organizations/guangzhou-society-taiwan-professional-executives|Guangzhou Society of Taiwan Professional Executives]]
 
 ## Notes
 

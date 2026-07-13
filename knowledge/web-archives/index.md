@@ -1,4 +1,11 @@
 ---
+title: "Echopedia"
+category: "web-archives"
+source: "content/index.md"
+created: "2026-07-12"
+---
+
+---
 title: Echopedia
 description: Public knowledge base of Taiwanese American people, churches, and organizations — stewarded by the Taiwanese American Historical Society (TAHS).
 tags:
@@ -21,12 +28,12 @@ tags:
 
 ## At a glance
 
-| | |
-|:--|:--|
-| **People** | Dozens of person pages — theologians, pastors, elders, organizers, and community builders |
-| **Organizations** | Churches, cultural centers, and historical bodies across the diaspora |
-| **Languages** | English + Chinese names and romanizations where known |
-| **Steward** | [Taiwanese American Historical Society (TAHS)](./organizations/taiwanese-american-historical-society) |
+|| | |
+||:--|:--|
+|| **People** | Dozens of person pages — theologians, pastors, elders, organizers, and community builders |
+|| **Organizations** | Churches, cultural centers, and historical bodies across the diaspora |
+|| **Languages** | English + Chinese names and romanizations where known |
+|| **Steward** | [Taiwanese American Historical Society (TAHS)](./organizations/taiwanese-american-historical-society) |
 
 > [!info] How to use this wiki
 > Start from **People** or **Organizations**, follow `[[wikilinks]]` between related pages, and treat `verification_status: pending` entries as living drafts that welcome community correction.
@@ -99,12 +106,12 @@ tags:
 
 ## Explore by theme
 
-| Theme | Start here |
-|:--|:--|
-| **Historical society & archive work** | [TAHS](./organizations/taiwanese-american-historical-society) · [Dr. Albert S. Lai](./people/albert-s-lai) |
-| **Theology & church leadership** | [Shoki Coe](./people/shoki-coe) · [C.S. Song](./people/choan-seng-song) · [Lien-Hwa Chow](./people/lien-hwa-chow) |
-| **Southern California congregations** | [GSTPC](./organizations/good-shepherd-taiwanese-presbyterian-church) · [ITPC](./organizations/irvine-taiwanese-presbyterian-church) |
-| **Community infrastructure** | [Leonard Hsu Jr.](./people/leonard-hsu-jr) · [People index](./people/) · [Organizations index](./organizations/) |
+|| Theme | Start here |
+||:--|:--|
+|| **Historical society & archive work** | [TAHS](./organizations/taiwanese-american-historical-society) · [Dr. Albert S. Lai](./people/albert-s-lai) |
+|| **Theology & church leadership** | [Shoki Coe](./people/shoki-coe) · [C.S. Song](./people/choan-seng-song) · [Lien-Hwa Chow](./people/lien-hwa-chow) |
+|| **Southern California congregations** | [GSTPC](./organizations/good-shepherd-taiwanese-presbyterian-church) · [ITPC](./organizations/irvine-taiwanese-presbyterian-church) |
+|| **Community infrastructure** | [Leonard Hsu Jr.](./people/leonard-hsu-jr) · [People index](./people/) · [Organizations index](./organizations/) |
 
 ## What Echopedia is (and isn't)
 

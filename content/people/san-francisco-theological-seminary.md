@@ -14,6 +14,11 @@ last_reviewed: 2026-07-08
 
 Through leaders trained there, the seminary is connected to early theological interpretation of Taiwanese immigrant church formation in North America.
 
+## Identity Snapshot
+- Type: Theological seminary
+- Geography: San Francisco, California
+- Core roles: theological education, research, ecclesial training
+
 ## Related Pages
 
 - [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]

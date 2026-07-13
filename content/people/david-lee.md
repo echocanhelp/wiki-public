@@ -32,6 +32,10 @@ This page was created from LINE-first onboarding to establish canonical identity
 - LINE identity status: Owner-verified
 - Owner verification required: No
 
+## Related Pages
+- [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
+- [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]]
+
 ## Revision History
 - 2026-05-25: LINE linkage approved by owner; status upgraded to owner-verified.
 - 2026-05-25: Draft page created for LINE-linked onboarding bootstrap.

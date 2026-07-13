@@ -8,7 +8,10 @@ last_reviewed: 2026-07-08
 ---
 # Rev. Cai Weiren (蔡維仁牧師)
 
-Rev. Cai Weiren (蔡維仁牧師) appears in GSTPC bulletin records as a visiting preacher across multiple periods.
+## Identity Snapshot
+- Era: 2016–2023
+- Geography: Southern California
+- Core roles: visiting preacher, ordained minister
 
 ## Historical Significance
 Contributed to worship in both early years (2016) and recent years (2023).

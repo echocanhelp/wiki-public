@@ -60,3 +60,9 @@ A business card shared during onboarding identifies Rex Chen as First Vice Presi
 
 - 2026-06-15: Created Echopedia onboarding page for Rex Chen following Leonard Hsu Jr.'s LINE group introduction and membership instruction.
 - 2026-06-16: Corrected attribution after triple-check: assigned 陳乃光 to Rex Chen, restored Leonard Hsu Jr. to 許景鴻, and linked Rex's LINE sender account as owner-confirmed.
+
+## Related Pages
+- [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
+- [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]]
+- [[people/ken-wu|Ken Wu (吳兆峯)]]
+- [[people/david-lee|David Lee]]

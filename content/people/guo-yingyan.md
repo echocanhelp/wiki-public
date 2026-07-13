@@ -24,6 +24,11 @@ The ITPC history document states that after 鄭泉聲牧師 returned to Japan, t
 - Source confidence: high for his appearance in ITPC's pastoral chronology; limited for wider biography because no independent biographical source was located in this pass.
 - Romanization note: "Guo Yingyan" is a working Mandarin pinyin romanization of 郭應言; future community correction is welcome if a church/family-preferred romanization is documented.
 
+## Identity Snapshot
+- Era: late 1990s
+- Geography: Irvine, California
+- Core roles: pastor, ordained minister
+
 ## Related Pages
 
 - [[organizations/irvine-taiwanese-presbyterian-church|Irvine Taiwanese Presbyterian Church]]

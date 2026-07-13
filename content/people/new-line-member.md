@@ -9,6 +9,11 @@ last_reviewed: 2026-07-08
 ---
 # New Line Member
 
+## Identity Snapshot
+- Era: Contemporary
+- Geography: Unknown
+- Core roles: Community member
+
 ## About
 [Person bio to be filled during onboarding]
 
@@ -17,3 +22,6 @@ last_reviewed: 2026-07-08
 
 ## Sources
 - LINE interaction capture
+
+## Related Pages
+- [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]

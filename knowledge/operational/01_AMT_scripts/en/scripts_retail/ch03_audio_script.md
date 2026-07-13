@@ -1,0 +1,189 @@
+---
+title: "ch03_audio_script"
+category: "operational"
+source: "audiobook-albert-lai/01_AMT_scripts/en/scripts_retail/ch03_audio_script.md"
+created: "2026-07-12"
+---
+
+# AUDIO SCRIPT — Chapter III — Formosan in The United States
+**AMT:** `ch03.md` · v1.0 · retail_default=True
+**Words:** 5404 · **Est.:** 36.0 min @ 150 wpm
+**Direction:** Warm scholarly-pastoral; ~1.2s at major section heads
+
+---
+
+## SLATE (not in master)
+Chapter III — Formosan in The United States — take ___
+
+## OPEN
+[0.8s silence]
+
+Chapter III — Formosan in The United States.
+
+[1.2s silence]
+
+## BODY (verbatim AMT v1.0)
+
+CHAPTER III
+ FORMOSAN IN THE UNITED STATES
+
+ I. Refugees In A Modern Exodus
+
+ After realizing the political and economical situation existing in Formosa nowadays, as previously discussed in the prior chapter, we shall have no dif culty in understanding why there was practically no Formosan in the United States before World War II, why in the last two decades nearly two thousand Formosan students came to the U.S. yearly for their graduate studies and why only less than 5 per cent of them return to Formosa upon completing their graduate studies.
+ An enquiry made by the Institute for International Education revealed that 30 per cent of the
+Asian students desired to remain in the United States but that 100 per cent of Formosan students wanted to stay.
+ It is important to keep in mind that Formosans in the United States come from such extraordinary backgrounds. Strictly speaking, the Formosans in the United States, unlike emigrants from other countries, are refugees.
+ An emigrant is one who on his own decides to leave his country and goes to another with the intention of becoming its citizen; whereas, a refugee is one who seeks asylum outside of his own country in order to escape whatever predicament (usually political in nature but occasionally economic, religious or even occupational) he could not escape at home. He has every intention of returning to his own country as soon as the situation permits and has no intention, at the outset at any rate, to become a citizen, which gives him asylum.
+ The main reason for the “exodus” (estimated 2,000 annually) from Formosa to the United
+States can be summed up in one word — PANIC. It is a panic created by the Nationalist Chinese as sketched in previous chapters.
+ It is very important to recognize the psychological differences that exist between the Formosan refugees and the Chinese who come from Formosa. Americans are likely to identify both groups as
+“Chinese.”
+ In the United States today, there are perhaps more mainland Chinese students than native
+Formosans, although the number of the latter recently has increased substantially. Their perspectives regarding the future of Formosa are strikingly distinct.
+ Mainland Chinese students do not identify Formosa as their home even though for the most part they have been reared and educated in Formosa. When they leave Formosa for the United
+States, they generally have a long-term plan. For them, what the future holds for China (or Formosa) is uncertain, and they take the view that an individual can do little to change the course of China’s future. The future will take care of itself; therefore, there is little rational ground for an individual to pursue an uncertain path full of hazards. What counts is to live today with a decent income and an assurance of permanent residence in the United States (or even better, with U.S. citizenship).
+Engineers and scientists are the most well off among the aliens living in the United States. Many who formerly were specialized in the social sciences and the humanities have out of necessity changed their specialization to library science, computer science, mathematics, engineering, and so on in order to obtain a dependable job and sponsorship for permanent residence. They study, work, and prepare for the future with increasing experience and skill and with some personal wealth accumulated by conscious saving.
+ Should Sino-U.S. relations become normalized and mainland China once again become a desirable place in which even those Chinese from “reactionary elements” or with “capitalist indoctrination” can feel secure, they probably would go back to the mainland. They have been patiently waiting for the day they can join their brothers on the mainland in building up a “new
+China” and share in the grandeur of a rejuvenated “fatherland.” They tend to think that nobody can prevent China from reasserting its proud and rightful place under the sun. While at the moment the regime “on the other side of the Straits” happens to be Communist and totalitarian in every sense of the word, they expect this phase to pass as China eventually evolves into a community more tolerable than it appears to be now. Hence, their immediate concern while in the United States is to equip themselves without getting frustrated by the tide of world events, which are beyond their immediate comprehension or control. As for the future, it belongs to those who prepare for it.
+ The native Formosans are in a somewhat different position. Impressionable as they are, they get highly stirred up by what they see, read, and experience in the United States. It does not take them long to realize that they have been victims of the K.M.T.’s systematic and “hypnotic” rule. They suddenly become skeptical of practically all the K.M.T.’s dogmatic indoctrinations. For them,
+Formosa is indeed their home and their affection for it grows stronger. Their families are there and they hope that what they learn abroad can make a contribution to the island. The gap between mainland Chinese and native Formosans appears much wider than they had realized. During their stay in the U.S., their association with mainland Chinese, if any, is generally con ned to a handful of those who happen to be friends and classmates back in Formosa. With an awakening sense of identity and grievance at the hands of mainland Chinese, they are aware of the hazards ahead should they choose to return while Formosa remains under the totalitarian control of the
+Nationalists. They have a home, but one to which they do not feel secure to return to, and they become reconciled to the idea of staying in the U.S. for the time being at least.
+ Of thousands of young Formosans in the U.S., some are highly apprehensive of political involvement caused by a predisposition molded by the Nationalist’s reign of terror. They were taught to regard any political involvement as a risky business, endangering not only the safety of their family in Formosa under Nationalist’s control but also their continued stay in the U.S. Should they be put on the K.M.T.’s blacklist because of utterances and behavior repugnant to the party line, they could not be assured of the annual extension of the passport that allows them to stay in the host country. Their withdrawal from political involvement can be clearly seen from their evasion of issues both in public and private.
+ Political passivity cherishes a “Pan-China” ideal, favoring reuni cation with mainland China so as to share the grandeur of a “great China.” The formation of such a mentality may have resulted fi
+
+ partly from alleged “farsightedness” and partly from frustration of being under the care of a corrupt government. Some, like many mainland Chinese, become convinced more than ever before that in twenty or thirty years China will “inevitably” emerge as a rst-rate power, if not the dominant power, on the earth. Others, because of the frustrations that result from personal failures abroad in the pursuit of respect, skill, wealth, and affection reason that if only they were proud citizens of a
+ “Great China” would their place anywhere be universally acknowledged by aliens — whites and non-whites alike. Their failures abroad as they see it come in no small measure from their lowly status as citizens of a small nation dominated by a corrupt regime.
+ There are some, as might be expected, whose sense of futility has led to the view that Formosa is doomed to be ruled by aliens — Japanese yesterday, Nationalists today, and Chinese Communists tomorrow. Their cynical view is forti ed by their reading of history. Formosans’ past resistance against alien rulers have invariably led to tragedy. As Communist China appears to be far more formidable than the Japanese empire or the Nationalist regime, out of a cynical sense of “realism” these Formosans believe that it is only rational to come to terms with their lot. They feel strongly that even if Formosa could be independent for the time being with external assistance, notably from the U.S., it would in the long run be at the mercy of Communist China. China’s takeover being
+ “inevitable,” Formosans cannot afford to be so foolish as to “offend” the Communists by proclaiming an independence that can be made possible only under the dominating and temporary in uence of the United States.
+ A large segment of Formosans in the States do not fall into the above-mentioned categories; however. These people do care a great deal for the future of Formosa and intuitively hope that an independent Formosa may someday come into being. They would like to do something about it but have only vague notions about how to proceed. Their personal enthusiasm, weakened through limited contact and discouraging communication with others, gradually fades away. They tend to have a sense of limitation and severely discounted the signi cance of an individual’s contribution to such an overall cause. Moreover, in the stress of a repressive environment, they nd that their personal enthusiasm not only sparks no re but also adversely affects the ef ciency of their daily work, which intensi es the dissatisfactions of their life. It is too much for an ordinary human being to make life intolerable for himself by vague, though absorbing, ideals. After all, happiness seems to mean that one lives today and devotes time and energy to study, work, courtship, marriage, and family. Concern for the future of Formosa tends to grow weaker and weaker, rather than to stabilize in forms of collective action.
+ There are, however, a number of Formosans who have not lost faith in the future of the island and its people and have dedicated themselves to furthering the cause of Formosa’s self- determination. In the contemporary context, 1947 can be regarded as the beginning of Formosa’s independence movement. After the 1947 massacre, the so-called “Two-Two-Eight Incident,” the surviving leaders realized that Formosa’s only hope of a distinctive evolution lies in its own independence outside the framework of Chinese rule in any form.
+ fi fi fi
+ II. The Rise Of Formosan Independence Movement
+
+ Because the United Nation’s headquarters is situated in New York and the United States is the key nation whose decision is most likely to affect the future of Formosa, the success or failure of
+ Formosa’s independence movement in the United States will probably be decisive for the future.
+ Formosans studying in the United States organized the United Formosan for Independence in
+ 1960 and published Ilha Formosa, but independence activities in the United States so far are less than impressive. Aside from a lack of numbers, there is no strong nancial backing similar to that in
+ Japan. Nor is the support that the U.S. has given the Nationalist regime in the past a trivial obstacle.
+ Nevertheless, the wide circulation of the Declaration of Formosan, for whose authorship
+ Professor Peng and Messrs. Shieh and Wei were convicted of “sedition” by the Nationalists, has most recently evoked a spontaneous grass-root response among the Formosan student groups in the
+ United States. If the Formosan youth on the island — under the tight supervision of the K.M.T.
+ police control -- dare to speak up at great risk, Formosans abroad must respond to the call.
+ In the 1950’s the center for Formosan Independence Movement was in Japan. In the 1960’s, with the increase in the number of Formosan students studying in Japan, America, and Europe, the organization of the independence movement have spread all over the world. Where ever there are
+ Formosans, there is an organization for the Formosan independence movement.
+ The main organizations were: The Union of Free Taiwan, the United Formosans in America for Independence, the Union of Formosa’s Independence in Europe and the Committee for Human
+ Rights in Formosa (in Canada).
+ In the spring of 1968, in order to achieve unity, four independence organizations abroad jointly undertook to publish the monthly Taiwan Chenglian and the English quarterly Independent
+ Formosa. More than one and a half years of joint effort had paved the way for forming a worldwide organization for the self-determined independence of Formosa.
+ In order to carry out the sacred historical mission, the above-mentioned ve organizations merged into the World United Formosans For Independence as of January 1, 1970. The general headquarters is in New York; and the branches are in Formosa, Japan, Canada and France.
+ These organizations are presently limited by a shortage of funds and of full-time devotees of the task. While the organizations in Japan are substantially nanced by Formosan businessmen in
+ Japan, the nancial backing here in the United States is relatively weak, though contributions are said to be on the increase. Here, too, active members are typical graduate students working for their
+ Ph.D. or individuals who are otherwise employed; hence, working for Formosa is a part-time operation.Unlike the K.M.T., the Formosan independence organizations have practically no armed forces, no strong staff, no substantial economic assets, and no access to diplomatic arenas. But one thing is clear: The organization had enough in uence among overseas Formosans that it was able to raise $210,000 bail for two members accused of trying to shoot Chiang Ching-Kuo, son of Chiang
+ Kai-shek, in New York last year; and inside Formosa, it had dramatically helped Dr. Min-ming Peng escape from Formosa last year in spite of secret police’s “heavy escort.” Mr. Peng was tried by an army court-martial in 1964 when he was head of Political Science Department of National Taiwan fi
+University and sentenced to eight years in prison for helping to write and print a lea et demanding that the government give up pretentions of going back to China and write a democratic constitution for Formosa. There were so many complaints from foreigners he had known abroad that Chiang
+Kai-shek pardoned Dr. Peng 14 months later and instead put him under surveillance so rigid that he was unable to work and had to depend on his relatives for support. “There were always at least four agents in front of my house,” Dr. Peng recalls, “when I’d go out they would escort me: one in front, one in back, one on my left, and one on my right. When I got on a bus, they all got on.”
+ Mr. Peng, through underground organizations’ help, vanished from the midst of all these guards in January 1970 and mysteriously turned up in Sweden. Last September he was allowed to enter this country to accept a long-promised job doing legal research at the University of Michigan.
+His escape led many Formosans to hope.
+ As a means of fostering common perspectives and of contributing to the future, new intellectual methods now are being applied where possible, particularly in big university towns. Take a concrete example, in Los Angeles Formosan intellectuals make fruitful use of the “decision seminar” technique. A decision seminar is a “problem-solving” enterprise. Such a seminar focuses on the policy problem of building a Formosan nation-state. Special attention is paid to the questions that are likely to arise in the period of transition. A fact of political life is that the functions of planning (intelligence) and appraisal can be adequately performed by intellectuals even without access to power (i.e., before independence).
+ Problem solving calls for a contextual procedure that guides the focus of attention back and forth between part and whole. Initially, participants are selective and limited. But as the seminar progresses, its scope gradually expands. Such seminars are quite active in the United States,
+Canada, and Japan where many Formosan intellectuals are gathered. Decision seminars are relatively costless. They are conducted at convenient locations on major campuses, cities, or regions; and they are informal in style. As the prospective participants are well educated (They have either completed or are completing graduate degrees) and familiar to one another through past or present shared experience, they work smoothly with each other.
+ One task of a seminar is to clarify the overriding goals of the participants and to translate these into objectives for the short term, the mid term, and the long term. Trained in a variety of disciplines, participants can be expected to bring an interdisciplinary approach to bear on practical problem solving.
+ Such an interacting process is a fresh and exciting experience for every participant. The rewards are more immediate than national problem solving itself and surely improves the capability of the participants to articulate and reason together.
+ III. Illustrations Of Oriental Refugees In An Occidental Society
+
+ As we saw in previous chapters, Formosans in the United States come with an extraordinary background. More exactly, the Formosans in this country are refugees. Being a refugee of a modern exodus means coming to the country without a long-term plan, without a psychological preparation, without an intention to merge into American society. Therefore, mentally and culturally he still is one hundred percent Formosan. Until he realizes that because of the dif cult political situation, he has been forced to stay in this country for a l-o-n-g time, might end up staying in this land forever, and might never have a chance of going back to Formosa even for just a visit, he will always be struggling with cultural con icts and never feel comfortable.
+ History has told us that the life of refugees in any country always is painful. A foreigner lives in a strange land where life for him is generally uneasy. This is particularly so for these Oriental refugees in an Occidental society. They immediately encountered all kinds of problems and dif culties such as cultural shock, language barrier, schooling, employment, housing, social customs, etc., you name it, from the rst moment in this country.
+ In the following section, I will try to demonstrate the dif culties and problems these people are encountering in their everyday life. Unless we know where the people are, we will never be able to help them to help themselves.
+ fi fi
+
+ Mr. Chen
+
+ He was born in a small rural village, graduated from Taiwan National University in 1965 with a
+ B.S. degree in electronics, and worked for two years at a government-owned electronics rm. Seeing that there was no future for him to work for the government for low pay, he decided to go to the
+ United States for graduate study. After application, he obtained a scholarship at the University of
+ Missouri.
+ Up to this point, Mr. Chen is quite satis ed with the governmental structure and operation. The turning point occurred when he had to obtain a visa, a passport and a sailing permit. The more troublesome procedures he went through, the angrier he got at the government. For instance, he was required to ll in over 20 forms for various departments (i.e., Police, Military and Party), was interviewed by a government o cial, a police o cial, and a party o cial, and was required to write an oath of loyalty to the government. The fact that he had to bribe a police o cial in order to obtain the sailing permit hurt his pride and destroyed his faith in the government. Therefore, he left Formosa with the vow never to return unless the government changed.
+ After Mr. Chen studied in the U.S. for a while and read articles, books, pamphlets, and so forth
+ (In Formosa such materials are censured by the Nationalist Government), he more fully realized the unfairness of the political system in Formosa, saw the real situation and how miserably the Formosans are treated. The more he thought about it, the more convinced he became that the government would never change its ways unless there was a new government.
+ After he graduated with his Ph.D. in electronics and obtained a job, he actively became involved in the Formosan Independence Movement by using his spare time in writing articles for the revolutionary periodicals and contributing money to the cause. In all probabilities, Chen will continue to dedicate his time for the movement.
+ ffi ffi
+
+ ffi
+
+ ffi
+ Mr. Sau
+
+ He is 29 years old and comes from a poor family. Sau worked for two years after obtaining a B.S.
+degree in chemistry in 1966 from the National Taiwan University, saved enough money for a one-way ticket to attend a university in the United States that o ered him a scholarship, and arrived in San
+Francisco with just $100 in his pocket for necessities.
+ Because he knew no one in California or for that matter no one in the U.S., he encountered numerous di culties. Most of his immediate problems arose out of language di culties. Actually, as other students in Formosa, he had studied English from junior high through high school and two years in college with high grades and thus thought that he could handle the language fairly well.
+Although he thought he could speak, read, and write very good English, he realized upon arrival that this was not so.
+ Classroom English was not good enough for him to communicate with Americans to satisfy his daily needs, which was a shock to him. It was a struggle to catch a bus, to get a cheap hotel room, and to even obtain food. He caught a bus from the airport depot to Chinatown. Unfortunately, he was under the misconception that the Chinese in Chinatown could help him to obtain a cheap hotel room and get him on a bus to Michigan, his destination. The Chinese in Chinatown speak only Cantonese, while the only Chinese language Mr. Sau speaks is Mandarin. Therefore, he found no help and had to use his own faltering English to nd a room at the local YMCA.
+ In Formosa, a decent meal costs only about 10 cents, equivalent to a meal costing $1 in San
+Francisco. With only $100 for bus fare to Michigan, for room, and food, he could not a ord much for meals. The only American foods he knew about were hamburger, hot dog and steak, the latter he knew was too expensive. So he lived on hamburgers and hot dogs from the stands and milk from the machines.
+ Because of shock to the strange environment and Oriental shyness, he did not ask the Caucasians at the YMCA for help and struggled for two nights and three days by himself in nding the bus depot to catch a bus to Michigan. While enroute, he lost his way twice because he followed people he recognized on the bus thinking they were all heading for Michigan. His anxiety was increased by the fact that he lost his luggage when he jumped on the wrong buses.
+ After three days of travel, he nally reached Michigan, settled down at the school dormitory, and found himself 10 pounds lighter.
+ffi fi
+
+ ff
+
+ ffi ff
+
+ Mrs. Tsai
+
+ She is 30 years of age now, has been married for 10 years, and has three children, ages 8, 7, and 2, the latter being unexpected.
+ Mrs. Tsai met her husband when she was a senior in high school and he was a senior in college.
+Soon after her graduation from high school, they were married. For half a year, they lived in an apartment till he was drafted into the Nationalist Army. She lived with her parents while he lived in the barracks far away from their home city for a year. It is a requirement that every high school and college graduate serve one or two years in the armed forces. Her husband returned and after half a year left for the U.S. to attend graduate school in the East Coast, leaving her pregnant and with a one-yearold child to face another lengthy separation. It was impossible for her to go with him because the government’s regulation is that a student going abroad cannot take his wife and must wait until he has graduated and settled down.
+ Three years later, after completion of his studies, she and her two children joined her husband in
+Los Angeles where he worked as an executive in a computer rm. Problems arose for her as a newcomer to the States. She had to become reacquainted with her husband and to learn the language and customs, which she has not been successful in doing although she has been here for more than ve years. This is due to the fact that she has spent most of her time caring for the children and doing the household chores.
+ Mrs. Tsai had planned to take English lessons and the unexpected third child interrupted the plans. It might seem reasonable to hire a sitter to care for the baby while taking lessons, but this is not done in a traditional Oriental household.
+ Due to the language barrier, she felt she could not attend P.T.A. meetings or talk with the children’s teachers, which is sometimes necessary. Her husband would perform this duty whenever he could, but he is a busy man. The two older children realize that their mother is unable to help them in their studies and go to their father for this. By so doing, Mrs. Tsai feels alienated by her children.
+ In emergency situations, such as when the baby is ill, it is di cult for her to take the baby to a doctor. Her husband is generally tied up in business conferences and cannot get away. Over the phone, she has problems describing the baby’s symptoms to the doctor. Catching a taxi to the doctor’s o ce is not easy either.
+ Due to the language barrier, she could not attend the many social functions with her husband, which is demanded because of his executive position. She has gone to a few but feels awkward and uncomfortable. She feels insecure when he goes to these functions or is out of town on a business trip, wondering what he is doing, suspecting that he might leave her one day.
+ ffi ffi
+ Miss Young
+
+ She is now 26 with only a high school education. With the intention of staying in the U.S., she traveled to a small Mid-west town to visit her brother, who taught at a college there. She did not like living in a small mid-west town because of few friends and no job opportunity.
+ She came to Los Angeles to live with her girlfriend intending to obtain a job, to be independent, and to nd a husband. Because she only has a visitor’s visa, she technically could not remain long and could not work in the U.S. That is why the only job she could nd was at a sewing factory in
+ Chinatown making pillow cases and bedspreads. The owner knows that she is working illegally and takes advantage of this by paying her $1.35 an hour, below the minimum wage, and by giving a lot of overtime work, including Saturdays and Sundays.
+ Socially, it has been di cult for her to meet many people due to the language problem, excessive hours spent at the factory, and conservatism on her part. Because of her conservative views and the cultural di erences, she does not want to marry an American and will not date an American. What she wants is a Formosan with permanent residency or citizenship. This is like looking for a needle in a haystack.
+ Marriage would solve a great many problems. She would not be as lonely and be more secure; she would not be cheated by an employer for she would no longer be working illegally; she would be a permanent resident if married to a resident or citizen. The pressure of deportation from the
+ Immigration Department would stop. There would be no more pressures from the family for her to get married.
+ Miss Young does not want to let her family back in Formosa or her brother in the Mid-west know about her unhappy life. If her family knew, they would call her home or tell her to live with her brother, destroying her independence and pride.
+ For two years she has been living under this lonesome condition with her girlfriend, who is also a
+ Formosan working illegally, feeling cheated and growing more pessimistic. It will be di cult for her to realize her dream because she is not very attractive, has only a high school education, while most of the male Formosans here either have plans to obtain a master degree or Ph.D. degree or already have done that and want an equally educated wife with less traditional views, and has little opportunity to meet
+ Formosan men.
+ ff
+
+ ffi ffi
+
+ Mr. Liu
+
+ He is 30 years old and comes from a wealthy Formosan family of medical doctors. After graduating with honors from Taiwan University with an M.D. degree, he and his wife, who is a dentist, came to the United States four years ago. He studied at Stanford for three years and received his Ph.D. in medicine and is now interning in Los Angeles.
+ Life has always been smooth running for members of his family in Formosa and for himself. He attributes this fact to their Christian faith and devotes much of his time to church work in Los
+Angeles.
+ Some of his closest college friends are activists in the Formosan Independence Movement, but because his family owns much property and wealth in Formosa, he does not want to jeopardize their status or endanger them by participating in the Movement, although he strongly believes in it.
+Therefore, the only alternative way in which he can help the Formosan people and indirectly help the
+Movement is through the church. His activist friends, however, feel di erently about it. They feel that he is shirking his responsibility, and they urge him to involve himself and not to escape into the church.
+ ff
+
+ Mr. Song
+
+ Aged 34, born into a poor shing village family, whose father was killed in the 2-28 massacre by
+ Chiang Kai-shek’s army, was raised together with three other children by his widowed mother. For many years Mrs. Song supported the family alone by working as a maid and operating a vegetable stand. Incredibly, she sent all her children to high school and college.
+ He nished his college education and worked for two years. Being the oldest, he tried to help his mother support the other children but found his earning power insu cient to do so. Therefore, he decided to go to the United States where he knew he could make more money.
+ In 1963 he arrived in the East Coast. By working part time, he nished his master in computer science. He moved to Los Angeles and found a well-paying job. Monthly, out of loyalty and responsibility, he sent his mother, sister and brothers in college money.
+ Partially because his father was killed in the Massacre and partially because he experienced poverty and hardship, he enthusiastically partook in the Movement. His involvement was learned, and his family has been threatened and harassed ever since by the Nationalist Government, by the secret police. Also, his brother’s application to go to the United States was rejected for the same reason.
+ Last year his mother died. He loved her very much and wanted to return for the funeral but was unable to do so, for he knew that if they would not let his brother out that they would not allow him to leave Formosa once he went back. This was the greatest tragedy in his entire life. He became more infuriated with the government of Formosa. From this point on, he gave whatever sums he would have sent his mother to the Formosa freedom movement.
+ One facet of Mr. Song’s life must be mentioned. In 1966, before becoming a member of the
+ Movement, he agreed to go home to Formosa to marry a “picture bride” selected by his mother. (A picture bride is generally carefully chosen by the son’s family. A picture of the woman with a short resume is then forwarded to the young man who either agrees to marry or not to marry the woman selected.) Two months later, he traveled back to the U.S.A. with his Formosan bride.
+ The marriage itself has worked out well, but the bride has not been able to acculturate. For this reason, too, Song feels that their home is Formosa and that one day they will go back when conditions are better.
+ Formosa itself is in a transitional stage from agricultural to industrial. In general, picture brides have been abandoned and rejected by educated Formosans in Formosa; but Formosans in the U.S., because of their traditional, conservative view on marriage, are not willing to marry non-Formosans.
+ Therefore, the picture bride system is generally in practice. It is a risky gamble but still works.
+ fi ffi
+
+
+## END
+[1.0s silence]
+End of this section.
+[1.0s silence]

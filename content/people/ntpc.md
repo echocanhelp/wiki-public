@@ -22,8 +22,12 @@ NTPC-related materials are important for:
 - Leadership and committee documentation
 - Intergenerational transmission of Taiwanese American faith narratives
 
-## Related Pages
+## Identity Snapshot
+- Type: Presbyterian council (US diaspora)
+- Geography: United States
+- Core roles: church governance, historical preservation, leadership
 
+## Related Pages
 - Toward A Community of Hope
 - [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
 - [[people/fpcla|Formosan Presbyterian Church in Los Angeles (FPCLA)]]

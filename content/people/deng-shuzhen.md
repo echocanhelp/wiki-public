@@ -69,6 +69,11 @@ Use Echopedia Community Contributions Hub and include:
 - Date or estimated period
 - Source type and permission status
 
+## Identity Snapshot
+- Era: 2020–2025
+- Geography: Southern California
+- Core roles: elder, pastoral care, community leader
+
 ## Related Pages
 - GSTPC Tier-A Person Wikification Queue (第一優先人物建頁佇列)
 - GSTPC Bulletin Person Wikification Candidates (週報人物頁候選清單)

@@ -8,7 +8,10 @@ last_reviewed: 2026-07-08
 ---
 # Rev. Chen Bozhi (陳柏志牧師)
 
-Rev. Chen Bozhi (陳柏志牧師) appears in GSTPC bulletin records as a visiting preacher during 2020.
+## Identity Snapshot
+- Era: 2020
+- Geography: Southern California
+- Core roles: visiting preacher, ordained minister
 
 ## Historical Significance
 His preaching during the early pandemic period contributed to maintaining worship continuity.

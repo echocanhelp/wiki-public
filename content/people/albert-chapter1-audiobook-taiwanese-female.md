@@ -10,6 +10,11 @@ last_reviewed: 2026-07-08
 
 This page hosts the full audiobook narration for Chapter I of *Toward A Community of Hope*.
 
+## Identity Snapshot
+- Type: Audio production / narrator
+- Geography: Taiwan → North America
+- Core roles: audiobook narration, voice performance
+
 ## Audio
 
 - Narration: Taiwanese-accented female AI voice

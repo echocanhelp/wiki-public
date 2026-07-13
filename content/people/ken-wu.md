@@ -60,3 +60,10 @@ A business card shared during onboarding identifies Ken Wu (吳兆峯) as Secret
 
 - 2026-06-16: Created Echopedia onboarding page for Ken Wu following Leonard Hsu Jr.'s LINE group verification and membership instruction.
 - 2026-06-16: Corrected Chinese name to 吳兆峯 after Ken Wu reviewed the page and requested the correction.
+
+## Related Pages
+- [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
+- [[organizations/taiwan-center|Taiwan Center Foundation of Greater Los Angeles]]
+- [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]]
+- [[people/david-lee|David Lee]]
+- [[people/rex-chen|Rex Chen (陳乃光)]]

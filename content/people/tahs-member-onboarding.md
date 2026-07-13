@@ -38,6 +38,11 @@ TAHS onboarding should help a new member understand:
 - Prefer public source links, official documents, and contributor-approved material.
 - If a person asks for a correction or removal of sensitive information, route it through the Echopedia correction process.
 
+## Identity Snapshot
+- Era: 2026
+- Geography: United States (Taiwanese American diaspora)
+- Core roles: community onboarding, identity verification, contribution workflow
+
 ## Related Pages
 
 - [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (台美人歷史協會)]]

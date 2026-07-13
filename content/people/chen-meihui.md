@@ -8,9 +8,15 @@ last_reviewed: 2026-07-08
 ---
 # Chen Meihui (陳美蕙)
 
-**Chen Meihui (陳美蕙, Rev. Chen / 陳牧師)** was identified in Irvine Taiwanese Presbyterian Church (爾灣台灣基督長老教會) official history as the pastor who took up ITPC pastoral leadership after 張宣信牧師 concluded his long tenure in 2020.
+## Identity Snapshot
+- Era: 2020–2025
+- Geography: Irvine, California
+- Core roles: pastor, ordained minister, ITPC pastoral leader
 
-## ITPC Role
+## Related Pages
+- [[organizations/irvine-taiwanese-presbyterian-church|Irvine Taiwanese Presbyterian Church]]
+- [[people/zhang-xuanxin|Zhang Xuanxin (張宣信)]]
+- [[people/li-furen|Li Fu-Jen (李輔仁)]]
 
 The official ITPC history states that 張宣信牧師 left ITPC in June 2020 after twenty-one years of service and that 陳美蕙牧師 was called immediately afterward to continue pastoral ministry without interruption. The document describes her as having substantial ability and experience, while giving no extended biography in the extracted text.
 

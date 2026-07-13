@@ -60,6 +60,11 @@ Before full production, produce a 60–90 second pilot and check:
 Status update:
 - Full Chapter 1 narration has now been published at [[people/albert-chapter1-audiobook-taiwanese-female|Albert Chapter 1 Audiobook（第一章有聲版）]].
 
+## Identity Snapshot
+- Type: Production kit / consent documentation
+- Geography: North America
+- Core roles: audiobook production, consent management, archival
+
 ## 7) Publication Metadata (required on page)
 
 - Narrator / voice attribution

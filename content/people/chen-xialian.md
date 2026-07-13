@@ -40,6 +40,11 @@ Her continued visibility in bulletin records reflects stable elder leadership co
 ## Contribution Invitation
 Use Echopedia Community Contributions Hub.
 
+## Identity Snapshot
+- Era: 2023–2025
+- Geography: Southern California
+- Core roles: elder, ordained minister, community leader
+
 ## Related Pages
 - [[organizations/good-shepherd-taiwanese-presbyterian-church|Good Shepherd Taiwanese Presbyterian Church (好牧者臺灣基督長老教會)]]
 - GSTPC Tier-A Person Wikification Queue
