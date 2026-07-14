@@ -30,7 +30,6 @@ Person records in **Echopedia**. Names keep Chinese characters and romanized for
 - [[people/ken-wu|Ken Wu (吳兆峯)]]
 - [[people/ku-gstpc|Brother Ku (GSTPC, verification needed)]]
 - [[people/lai-junming|Rev. Lai Junming (賴俊明)]]
-- [[people/leonard-hsu|Leonard Hsu]]
 - [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]]
 - [[people/lien-hwa-chow|Dr. Lien-Hwa Chow (周聯華)]]
 - [[people/mingyuan-hsu|Rev. Mingyuan Hsu (許明遠)]]

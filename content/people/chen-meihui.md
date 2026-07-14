@@ -16,7 +16,7 @@ last_reviewed: 2026-07-08
 ## Related Pages
 - [[organizations/irvine-taiwanese-presbyterian-church|Irvine Taiwanese Presbyterian Church]]
 - [[people/zhang-xuanxin|Zhang Xuanxin (張宣信)]]
-- [[people/li-furen|Li Fu-Jen (李輔仁)]]
+- Li Fu-Jen (李輔仁) — current ITPC pastor per official site; no Echopedia person page yet
 
 The official ITPC history states that 張宣信牧師 left ITPC in June 2020 after twenty-one years of service and that 陳美蕙牧師 was called immediately afterward to continue pastoral ministry without interruption. The document describes her as having substantial ability and experience, while giving no extended biography in the extracted text.
 
