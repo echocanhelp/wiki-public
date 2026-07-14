@@ -12,7 +12,7 @@ last_reviewed: 2026-07-08
 
 - English name: Ken Wu
 - Chinese name: 吳兆峯 (Wu Zhao-Feng; romanization pending member confirmation)
-- Current TAHS role context: Member, Taiwanese American Historical Society (台美人歷史協會)
+- Current TAHS role context: Member, Taiwanese American Historical Society ([[organizations/taiwanese-american-historical-society|台美人歷史學會 (TAHS)]])
 - LINE linkage state: Owner-introduced and verified in the LINE group; exact LINE user ID pending capture and not published
 
 ## TAHS Membership Assignment

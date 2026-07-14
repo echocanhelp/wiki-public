@@ -8,7 +8,7 @@ last_reviewed: 2026-07-08
 ---
 # Guo Yingyan (郭應言)
 
-**Guo Yingyan (郭應言, Rev. Guo / 郭牧師)** was a pastor connected with the early development of Irvine Taiwanese Presbyterian Church (爾灣台灣基督長老教會). The church's official history identifies him as a pastor who served ITPC after the departure of the founding-stage pastor 鄭泉聲牧師.
+**Guo Yingyan (郭應言, Rev. Guo / 郭牧師)** was a pastor connected with the early development of Irvine Taiwanese Presbyterian Church (爾灣[[organizations/presbyterian-church-in-taiwan|台灣基督長老教會 (PCT)]]). The church's official history identifies him as a pastor who served ITPC after the departure of the founding-stage pastor 鄭泉聲牧師.
 
 ## ITPC Role
 
@@ -20,7 +20,7 @@ The ITPC history document states that after 鄭泉聲牧師 returned to Japan, t
 
 ## Source Notes and Confidence
 
-- Primary source: official ITPC history document, "Irvine 台灣基督長老教會的歷史," linked from the church About page and captured from the official website crawl on 2026-06-06.
+- Primary source: official ITPC history document, "Irvine [[organizations/presbyterian-church-in-taiwan|台灣基督長老教會 (PCT)]]的歷史," linked from the church About page and captured from the official website crawl on 2026-06-06.
 - Source confidence: high for his appearance in ITPC's pastoral chronology; limited for wider biography because no independent biographical source was located in this pass.
 - Romanization note: "Guo Yingyan" is a working Mandarin pinyin romanization of 郭應言; future community correction is welcome if a church/family-preferred romanization is documented.
 

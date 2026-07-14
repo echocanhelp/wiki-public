@@ -33,15 +33,15 @@ last_reviewed: 2026-07-12
 
 ## Summary
 
-Leonard Hsu Jr. (許景鴻 / Hsu Ching-Hung) is a Taiwanese American community organizer, systems builder, and the current **President** of the Taiwanese American Historical Society (台美人歷史協會). He leads Echo System and Echopedia initiatives focused on preserving Taiwanese American history, identity documentation, and community memory infrastructure.
+Leonard Hsu Jr. (許景鴻 / Hsu Ching-Hung) is a Taiwanese American community organizer, systems builder, and the current **President** of the Taiwanese American Historical Society ([[organizations/taiwanese-american-historical-society|台美人歷史學會 (TAHS)]]). He leads Echo System and Echopedia initiatives focused on preserving Taiwanese American history, identity documentation, and community memory infrastructure.
 
 ## Role
 
-Lead of Echo System 3.0 and key figure in the Taiwanese American Historical Society (TAHS / 台美人歷史協會).
+Lead of Echo System 3.0 and key figure in the Taiwanese American Historical Society (TAHS / [[organizations/taiwanese-american-historical-society|台美人歷史學會 (TAHS)]]).
 
 ## TAHS Leadership
 
-- **President** (會長), Taiwanese American Historical Society (台美人歷史協會)
+- **President** (會長), Taiwanese American Historical Society ([[organizations/taiwanese-american-historical-society|台美人歷史學會 (TAHS)]])
 - Tax ID: 46-4005384 (501(c)(3) public charity, reinstated June 2024)
 
 ## Known Public Footprint

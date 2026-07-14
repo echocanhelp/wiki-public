@@ -1,5 +1,5 @@
 ---
-title: "Irvine Taiwanese Presbyterian Church (IRVINE台灣基督長老教會)"
+title: "Irvine Taiwanese Presbyterian Church (IRVINE[[organizations/presbyterian-church-in-taiwan|台灣基督長老教會 (PCT)]])"
 type: organization
 tags:
   - organization
@@ -7,7 +7,7 @@ tags:
 verification_status: pending
 last_reviewed: 2026-07-08
 ---
-# Irvine Taiwanese Presbyterian Church (IRVINE台灣基督長老教會)
+# Irvine Taiwanese Presbyterian Church (IRVINE[[organizations/presbyterian-church-in-taiwan|台灣基督長老教會 (PCT)]])
 
 ## Summary
 蒙上帝的恩典和祝福，我們是一群從台灣出生，蒙神帶領來到美國，經歷跨文化的衝擊，認真接受專業教育訓練與努力工作並培育子女，又蒙神眷顧及恩典滿滿的基督徒。我們大都從全美國退休，移居離台灣最近及安全舒適誼居的Irvine及Laguna Woods Village。我們愛台灣、愛美國、我們相愛相扶持，並努力遵行上帝的旨意，繼續尋求上帝的旨意，希望我們還能多為主做工。 邀請您來到我們這愛的大家庭，一起把上帝的愛帶到Irvine我們教會與世界的每個角落。 自從我們得到了這間兄弟教會Geneva Presbyterian Church的愛心和包容，我們於2012年開始搬到Laguna village CA後，就在這個教會的Chapel做禮拜敬拜上帝，宣講主的福音，相愛相扶持過著黃金的歲月。

@@ -5,6 +5,7 @@ tags:
   - people
   - index
 description: Directory of Taiwanese American person records in Echopedia — clergy, elders, theologians, organizers, and community builders.
+last_reviewed: 2026-07-13
 ---
 
 # People
@@ -32,6 +33,7 @@ Person records in **Echopedia**. Names keep Chinese characters and romanized for
 - [[people/lai-junming|Rev. Lai Junming (賴俊明)]]
 - [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]]
 - [[people/lien-hwa-chow|Dr. Lien-Hwa Chow (周聯華)]]
+- [[people/li-furen|Li Fu-Jen (李輔仁)]]
 - [[people/mingyuan-hsu|Rev. Mingyuan Hsu (許明遠)]]
 - [[people/pinghsi-liu|Rev. Pinghsi Liu (劉炳熹)]]
 - [[people/qiu-yunen|Elder Qiu Yunen (邱瑜嫩)]]
@@ -71,3 +73,9 @@ Utility / process pages (not biographical entries):
 - Prefer exact file slugs for links (e.g. `[[people/cai-weiren]]`, not Chinese characters in the path).
 - Some figures still appear only inside organization or publication pages until they receive a standalone record.
 - [← Back to Echopedia home](../)
+
+## Related Pages
+
+- [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
+- [[organizations/irvine-taiwanese-presbyterian-church|Irvine Taiwanese Presbyterian Church (ITPC)]]
+- [[organizations/good-shepherd-taiwanese-presbyterian-church|Good Shepherd Taiwanese Presbyterian Church (GSTPC)]]

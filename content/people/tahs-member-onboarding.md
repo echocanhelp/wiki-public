@@ -8,7 +8,7 @@ last_reviewed: 2026-07-08
 ---
 # TAHS Member Onboarding
 
-**TAHS Member Onboarding** is the lightweight induction pathway for people who are being introduced into the Taiwanese American Historical Society (台美人歷史協會 / TAHS) and the Echopedia historical-record workflow.
+**TAHS Member Onboarding** is the lightweight induction pathway for people who are being introduced into the Taiwanese American Historical Society ([[organizations/taiwanese-american-historical-society|台美人歷史學會 (TAHS)]]) and the Echopedia historical-record workflow.
 
 This page exists to give public wiki links a stable destination. It does not publish private rosters, internal spreadsheets, personal contact details, or administrative credentials.
 

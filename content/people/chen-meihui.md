@@ -16,7 +16,7 @@ last_reviewed: 2026-07-08
 ## Related Pages
 - [[organizations/irvine-taiwanese-presbyterian-church|Irvine Taiwanese Presbyterian Church]]
 - [[people/zhang-xuanxin|Zhang Xuanxin (張宣信)]]
-- Li Fu-Jen (李輔仁) — current ITPC pastor per official site; no Echopedia person page yet
+- [[people/li-furen|Li Fu-Jen (李輔仁)]]
 
 The official ITPC history states that 張宣信牧師 left ITPC in June 2020 after twenty-one years of service and that 陳美蕙牧師 was called immediately afterward to continue pastoral ministry without interruption. The document describes her as having substantial ability and experience, while giving no extended biography in the extracted text.
 
@@ -30,7 +30,7 @@ The ITPC official site's 2025–2026 pastor page lists 李輔仁牧師 (Rev. Fu-
 
 ## Source Notes and Confidence
 
-- Primary source: official ITPC history document, "Irvine 台灣基督長老教會的歷史," linked from the church About page and captured from the official website crawl on 2026-06-06.
+- Primary source: official ITPC history document, "Irvine [[organizations/presbyterian-church-in-taiwan|台灣基督長老教會 (PCT)]]的歷史," linked from the church About page and captured from the official website crawl on 2026-06-06.
 - Supporting wiki source corpus: GSTPC bulletin pages mentioning 陳美蕙牧師 / Pastor Chen as a sermon speaker.
 - Source confidence: high for the 2020 ITPC succession note; medium for wider ministry context until more independent biographical sources are added.
 - Romanization note: "Chen Meihui" is a Mandarin pinyin romanization of 陳美蕙; source excerpts also use the English form "Pastor Chen." Future correction is welcome if a preferred full English romanization is documented.

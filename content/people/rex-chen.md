@@ -12,7 +12,7 @@ last_reviewed: 2026-07-08
 
 - English name: Rex Chen
 - Chinese name: 陳乃光 (Chen Nai-Guang)
-- Current TAHS role context: Member, Taiwanese American Historical Society (台美人歷史協會)
+- Current TAHS role context: Member, Taiwanese American Historical Society ([[organizations/taiwanese-american-historical-society|台美人歷史學會 (TAHS)]])
 - LINE linkage state: Owner-confirmed introduction plus self-stated Chinese name from Rex Chen's LINE sender account
 
 ## TAHS Membership Assignment

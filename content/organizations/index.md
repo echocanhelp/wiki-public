@@ -5,6 +5,7 @@ tags:
   - organizations
   - index
 description: Directory of Taiwanese American organizations, churches, and institutions documented in Echopedia.
+last_reviewed: 2026-07-13
 ---
 
 # Organizations
@@ -26,3 +27,12 @@ Organization records in **Echopedia** — churches, cultural centers, historical
 - Some organizations appear first on person pages before receiving a standalone organization record.
 - Related pages may also live under [People](../people/) when the source material is primarily biographical.
 - [← Back to Echopedia home](../)
+
+## Related Pages
+
+- [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
+- [[people/choan-seng-song|Dr. Choan-Seng Song (宋泉盛)]]
+- [[people/shoki-coe|Dr. Shoki Coe (黃彰輝)]]
+- [[people/lien-hwa-chow|Dr. Lien-Hwa Chow (周聯華)]]
+- [[people/cai-weiren|Rev. Cai Weiren (蔡維仁)]]
+- [[people/chen-bozhi|Rev. Chen Bozhi (陳柏志)]]
