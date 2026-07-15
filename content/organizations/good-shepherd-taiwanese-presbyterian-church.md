@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Presbyterian
 verification_status: pending
-last_reviewed: 2026-07-13
+last_reviewed: 2026-07-14
 ---
 # Good Shepherd Taiwanese Presbyterian Church
 
@@ -66,6 +66,18 @@ Historical schedule notes on the about page have listed additional discipleship 
 GSTPC’s public materials frame the church as a long-standing Taiwanese Presbyterian presence in Monterey Park, serving a diaspora community in Taiwanese. The site commemorates institutional milestones (e.g. 40th anniversary resources) and preserves memorial and historical posts (including remembrance services for prior pastoral leaders). [[people/mingyuan-hsu|Rev. Ming Yuan Hsu]] has led as full-time pastor since **July 2019**; weekly bulletins document sustained pulpit and pastoral ministry across multiple years.
 
 Source pages used for this article: [home](https://gstpc.org/home/), [about us](https://gstpc.org/home/about-us/), [vision](https://gstpc.org/home/our-vision/), [our pastor](https://gstpc.org/home/our-pastor/), and children’s ministry (scraped via r.jina.ai, 2026-07-13).
+
+## TPC Connection
+
+GSTPC is a congregation within the [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]] (台灣基督長老教會, TPC) network. The church maintains a close relationship with the broader TPC community, including participation in TPC worship programming and special events.
+
+Notably, GSTPC hosted the [[people/david-huang|Rev. David Huang (黃德利)]] for the TPC 50th Anniversary Special Program (TPC 50 週年特別節目) in May–June 2020, a multi-episode broadcast celebrating half a century of the TPC.
+
+### Resources
+
+- [Bulletin Archive](https://gstpc.org/home/bulletin-archive/) — Weekly bulletin listings
+- [Devotion Archive](https://gstpc.org/home/devotion-archive/) — Daily spiritual reflections (靈修默想) by Rev. Hsu
+- [TPC 50th Anniversary Special](https://gstpc.org/home/tpc-50/) — TPC 50th program featuring Rev. David Huang
 
 ## Related Pages
 - [[people/mingyuan-hsu|Rev. Ming Yuan Hsu (許明遠牧師)]]
