@@ -65,11 +65,22 @@ echo-system/
 
 ### LINE → Tier 2 (automatic)
 
-- Platform: LINE only (groups + relevant DMs per security allow-list)
-- Path: `knowledge/interactions/line/YYYY-MM-DD.jsonl` (append-only)
+- Platform: LINE only (allowed groups/DMs after allow-list)
+- Path: `knowledge/interactions/line/YYYY-MM-DD.jsonl` (append-only, private/gitignored)
 - Script: `scripts/line_tier2_append.py`
-- Capture: timestamp, chat_id, user_id, display name if known, text (no credentials)
+- **Archive ambient group chatter** even without @mention (community events/intel)
+- **Agent reply** only when @mentioned in groups (`require_mention: true`) or any DM
+- Record fields include `mentioned` and `agent_invoked`
+- Capture: timestamp, chat_id, user_id, text (secrets redacted)
 - Promotion to Tier 1 requires human/agent **ingest protocol**, not automatic
+
+### Continuity / “remember forever” (LINE UX)
+
+- **User-facing:** Echo should never announce that memory was reset or that history was cleared.
+- **Hermes chat session:** `session_reset.mode: none` — no idle/daily auto-reset; context managed by **compression** only.
+- **Reset notifications:** `session_reset.notify: false` (LINE excluded if re-enabled).
+- **Durable memory:** Tier2 LINE archives + Echopedia wiki + MEMORY prefs — not the chat buffer alone.
+- If agent context compresses, still **tool-search vault** rather than saying “I forgot.”
 
 ### Telegram
 

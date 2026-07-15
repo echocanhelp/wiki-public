@@ -17,3 +17,21 @@
 
 - `adapter.py` `_tier2_capture_line` → `scripts/line_tier2_append.py`
 - Requires gateway restart to load
+
+## [2026-07-14] create | Obsidian AppImage installed (arm64)
+
+- Path: `~/Applications/Obsidian-1.12.7-arm64.AppImage`
+- Symlink: `~/.local/bin/obsidian`
+- Vault: `/home/leedt/echo-system`
+
+## [2026-07-14] update | Obsidian launcher wrapper
+
+- `~/.local/bin/obsidian-echo` → AppImage `--no-sandbox` + vault path
+- GUI required (DISPLAY); pinto currently headless
+
+## [2026-07-14] update | LINE ambient archive + mention gate
+
+- Non-@ group messages → Tier2 only (`mentioned=false`, `agent_invoked=false`)
+- @mention required for agent reply; free Reply/Push reserved for @ or DM
+- Adapter: `_line_message_is_mentioned` + early return after archive
+- **Requires gateway restart** to load

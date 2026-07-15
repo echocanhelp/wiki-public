@@ -34,6 +34,8 @@ def main() -> int:
     p.add_argument("--display-name", default="")
     p.add_argument("--message-id", default="")
     p.add_argument("--source", default="group", choices=["group", "dm", "room"])
+    p.add_argument("--mentioned", default="0", help="1 if bot was @mentioned")
+    p.add_argument("--agent-invoked", default="0", help="1 if agent will/was run")
     p.add_argument("--dry-run", action="store_true")
     args = p.parse_args()
 
@@ -52,6 +54,8 @@ def main() -> int:
         "display_name": args.display_name,
         "message_id": args.message_id,
         "text": text,
+        "mentioned": args.mentioned in ("1", "true", "yes"),
+        "agent_invoked": args.agent_invoked in ("1", "true", "yes"),
     }
 
     out_path = OUT_DIR / f"{day}.jsonl"

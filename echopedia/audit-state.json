@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "last_run": "echopedia-nightly-audit",
+  "last_run_date": "2026-07-15",
+  "pages_audited": 56,
+  "issues_found": 3,
+  "issue_history": [
+    {
+      "run_date": "2026-07-13",
+      "total_issues": 6,
+      "broken_links": 2,
+      "missing_sections": 4,
+      "stale_content": 0,
+      "orphans": 0,
+      "details": [
+        "BROKEN: people/chen-meihui.md → people/li-furen",
+        "BROKEN: people/index.md → people/leonard-szu",
+        "NO_RELATED_PAGES: organizations/index.md",
+        "NO_LAST_REVIEWED: organizations/index.md",
+        "NO_RELATED_PAGES: people/index.md",
+        "NO_LAST_REVIEWED: people/index.md"
+      ]
+    },
+    {
+      "run_date": "2026-07-14",
+      "total_issues": 2,
+      "broken_links": 0,
+      "missing_sections": 0,
+      "stale_content": 0,
+      "orphans": 0,
+      "cross_references": 0,
+      "missing_pages": 0,
+      "web_issues": 2
+    },
+    {
+      "run_date": "2026-07-15",
+      "total_issues": 3,
+      "broken_links": 0,
+      "missing_sections": 0,
+      "stale_content": 0,
+      "orphans": 0,
+      "cross_references": 1,
+      "missing_pages": 1,
+      "web_issues": 1
+    }
+  ],
+  "resolved_issues": []
+}
