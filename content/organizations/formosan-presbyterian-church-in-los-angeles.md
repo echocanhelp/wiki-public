@@ -175,37 +175,70 @@ FPCLA organized a range of activities for the Formosan community in Los Angeles:
 
 ### "Internal Integration and External Harmony"
 
-Dr. Albert S. Lai's dissertation articulated a theological vision centered on the concept of "internal integration and external harmony" — a framework for understanding how the church could serve Formosan immigrants while maintaining their cultural identity.
+Dr. Albert S. Lai's dissertation articulated a theological vision centered on the concept of "internal integration and external harmony" — a framework for understanding how the church could serve Formosan immigrants while maintaining their cultural identity. This concept was drawn from both psychology and theology.
 
-**Internal Integration** refers to the degree to which an individual has achieved psychological coherence and stability. For Formosan immigrants, this meant:
+**Internal Integration** refers to the degree of integration as a dynamic, process-oriented concept rather than a static state. It draws on Jung's "individuation," Maslow's "self-actualization," Allport's "functional autonomy," and Erickson's "ego-identity." Erich Fromm's positive view of self-love and Paul Tillich's "courage to be oneself" informed this understanding. For Formosan immigrants, internal integration meant:
 - Maintaining cultural identity while adapting to American society
 - Finding spiritual meaning beyond work and family
 - Developing a sense of belonging in a foreign land
-- Choosing love in adversity, service in marginality, and witness in brokenness
+- Achieving the "courage to be oneself" — not being completely lost in a strange culture
+- Becoming an independent, autonomous self capable of accepting new experiences, digesting them, and integrating them into a new identity
 
-**External Harmony** refers to the relationship between the individual and the broader society. This meant:
+**External Harmony** refers to the relationship between the individual and the broader society. It is the integration and harmony between two polarities — "one-in-two" and "two-in-one." This meant:
 - Engaging with American society while maintaining distinctiveness
 - Building bridges between Formosan culture and American culture
 - Serving as a missional community in the local context
 - Contributing to the broader society while preserving unique identity
 
+The source of internal integration and external harmony is **love** — encompassing self-love, love-for-other, agape-eros, familial love, human-heartedness, compassion, and productive love. Without love, there is no sense of security; without security, no trust; without trust, no peace of heart. "God is love" is thus theologically central: with love, internal wounds are healed, conflicts resolved, and the disintegrated person becomes whole.
+
+### From "Melting Pot" to Pluralistic Society
+
+The dissertation examined the historical context of immigrant integration in America, contrasting two models:
+
+- **The "Melting Pot" theory:** Insisted European immigrants should become amalgamated or assimilated into U.S. society as fast as humanly possible by "becoming like us." No immigrant community was encouraged to assert its group identity or cultural integrity.
+- **Segregation and exclusion:** Oriental immigrants (Chinese, Japanese, and by extension Formosans) were treated differently — expected to remain "alien" under the Oriental Exclusion Act of 1924, kept segregated, and forced to remain foreigners regardless of how long they lived in the U.S.
+
+Lai argued that neither a racially divided America nor a culturally homogenized America was truly desirable. A pluralistic America, in which "every ethnic group is accepted for what it is and encouraged to become an integral part of U.S. society while maintaining its own group identity," was the ideal.
+
+The distinction between "accepted by Americans" and "to become American" was crucial: the former meant being accepted as a Formosan, while the latter meant no longer being Formosan. Formosans wanted to be treated like Americans but not to live culturally in American style — they wanted acceptance without assimilation.
+
 ### The Church as "Community of Hope"
 
-The vision for FPCLA was not merely to be a haven for immigrants, but to become a **dynamic body for the hope of the world**. This vision was rooted in:
+The vision for FPCLA was not merely to be a haven for immigrants, but to become a **community of hope** — a theological concept drawn from multiple sources:
 
-- **Biblical truth:** Drawing from Acts and Pauline letters, the church as a dynamic body for the hope of the world
-- **Missional community:** Choosing to serve in marginality and witness in brokenness
-- **Cultural integrity:** Maintaining Formosan identity while engaging with American society
-- **Political consciousness:** Understanding the Formosan independence movement as a self-preservation movement of the island's people
+**Hope as Possibility:** Hope involves three basic ideas: what one hopes for, one does not yet have or see; it may be difficult, but it is possible. Hope is neither passive waiting nor unrealistic forcing. To hope means to be ready at every moment for that which is not yet born, and not to become desperate if there is no birth in one's lifetime.
 
-### Formosan Identity and Independence
+**Hope as Adventure:** Gabriel Marcel spoke of "hoping" (the verb) rather than "hope" (the noun) — a psychic activity, a real occurrence in a concrete setting. Hoping occurs when a person is visited by calamity, caught by the human condition. As Roy W. Fairchild remarked: "Hope allows one to live in uncertainty... the hoping person sees reality as open-ended and not fixed, assumes that reality has resources which are as yet undiscovered and untapped. This is his risk and his adventure."
 
-The dissertation addressed the complex political identity of Formosans in the United States:
+**Hope as Sharing:** Hope is basically a sharing experience requiring a responsive other. Isolation leads to hopelessness and disintegration. Marcel stressed that true hoping requires an interpersonal context. Theologically, hope is the Holy Spirit in the Christian Church — "Without the experience of the Spirit, there is no distinctly Christian understanding of hope; and even if Jesus had spoken much about it, it would have signified little beyond what Judaism already understood." **Christian Church is a Community of Hope. Without hope, there will never have been such a thing as 'Christian Church.'**
 
-- The vast majority of Formosans in the US supported the independence movement
-- Most hoped to remain abroad until their home island became a democratic republic safe from both Nationalist and Communist rule
-- Younger Formosans, influenced by the civil rights movement and Vietnam War debates, were more likely to adopt militant positions
-- The church served as a space for navigating these political tensions while maintaining spiritual focus
+**The God of Promise:** Christian hope is grounded in the God of promise — the God of exodus in the Old Testament and the God of resurrection in the New Testament. The church is not the Kingdom of God but a community of hope. It is a "moving church" — moving toward the future, the eschatological "Kingdom of God." As Dietrich Bonhoeffer wrote: "To be a Christian does not mean to be religious in a particular way... But to be a Christian is to be a man. It is not some religious act that makes a Christian what he is, but participation in the suffering of God in the life of the world."
+
+**Ekklesia as "Called Out":** The term "ekklesia" indicates that the "chosen" are in no way to be called into or stay in the shelter of any organized community, but rather *out* of their customary attachment and security, *out* of the world. To follow Christ is to venture out of tradition, out of consensus of opinion, out of any comfortable settling down.
+
+### Formosan Identity and Independence: A Theological Reading
+
+The dissertation addressed the complex political identity of Formosans through a theological lens:
+
+**National Independence — Political:** The Formosan Independence Movement was fundamentally a self-preservation movement of the island's 14 million people willing neither to be ruled by the Chinese Communists nor to be destroyed by the Chinese Nationalist regime. The vast majority of Formosans in the U.S. hoped to remain abroad until their home island became a democratic republic safe from both Nationalist and Communist rule.
+
+**Personal Independence — Psychological:** Drawing on Yukichi Fukuzawa's insight that "when a person is independent, a nation is independent," Lai argued that spiritual and mental independence of the person and political independence of the nation are indivisible. Only when independent persons participate in nation-building can the nation itself attain independence.
+
+**Ethnos as a Vital Dimension:** Every ethnic group builds up its own unique identity. Formosan study should be separated from Chinese study, since modern Formosan is very different from Chinese in terms of cultural experience and political interests. Formosan peculiarities should not be disregarded.
+
+**Colonialism and Alienation:** Drawing on liberation theology (particularly Paulo Freire's concepts), Lai described how Formosans experienced a "colonial relationship" in which the powerful dominated and controlled the lives of the weak and powerless. Formosan consciousness was "domesticated by the situation" — unable to be the subject, deprived of a sense of direction and of historical vocation. They were not simply without freedom; they were *made* without-freedom.
+
+**Hope as the Basis of the Independence Movement:** Lai observed that "according to percentage there are more Christians than non-Christians involved in the Formosan Independence Movement." He concluded that "the phenomenon was from a Biblical Hope Movement" — Formosan activists identified contemporary Formosan history with the Israelite Exodus, and identified themselves with biblical characters such as Abraham, Moses, Joshua, and Jesus. The theology of hope was, in his analysis, the driving force behind the political movement.
+
+### The Church's Role in Identity Negotiation
+
+The church served as a space where Formosan immigrants could negotiate their identity on multiple levels:
+
+- **Between Formosa and America:** Formosans in the U.S. were "even more Formosan than Formosans in Formosa" — they began to appreciate their folk music, kept their home-town newspapers, and searched for identity in their cultural heritage
+- **Between Christians and non-Christians:** Half of church attendees were non-Christians searching for fellowship and the enlightenment of Christian faith
+- **Between integration and differentiation:** The church affirmed that "without differentiation, there is no integration" — cultural integrity required both maintaining identity and engaging with the broader society
+- **Between the personal and the political:** The church provided a space where the political tensions of the independence movement could be held alongside spiritual formation
 
 ## Historical Significance
 

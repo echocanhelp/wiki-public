@@ -252,31 +252,6 @@ Dr. Lai's dissertation, written in 1971, is described as "not only a profound de
 4. **Cross-generational reference** — 2025 republication linked to NTPC, PCT, and broader Taiwanese church heritage
 5. **Seminarian mentor** — Taught at TTCS where future leaders including Rev. Chaolong Kao were students
 
-## Recall the Story Behind the Dissertation
-
-The rediscovery of Dr. Lai's dissertation was itself a story of grace and historical preservation. In 2022, during an initial visit to Albert Lai, Rev. Mingyuan Hsu chanced upon a doctoral dissertation sealed in dust for over half a century. The discovery led to a two-year journey of translation and publication, culminating in the 2025 republication.
-
-> "This is a pastoral research dissertation; will anyone be interested in reading it?" Albert humbly inquired. Yet, it was as if a voice declared, "This history ought to be seen; this grace must not be forgotten!"
-
-The dissertation was not merely an academic treatise but a "forgotten stream, softly recounting the faith stories of the first generation of Taiwanese immigrant Christians." The paradigm of faith left by those early spiritual forebears remains an undying flame across generations.
-
-## Chapter VI: Toward a Community
-
-In the final chapter of his dissertation, Dr. Lai articulated his vision for the church as a **community of hope** — a missional community that transcends ethnic boundaries while maintaining cultural identity. Key themes include:
-
-- **Dynamic body for the hope of the world:** The church as a dynamic body for the hope of the world, not a safe retreat for insiders
-- **Missional community:** Choosing to serve in marginality and witness in brokenness
-- **Cultural integrity:** Maintaining Formosan identity while engaging with American society
-- **Theological vision:** The church as a beacon of hope and witness to the gospel in the larger society
-
-## Conclusion: Lessons from History and Sustainability of Democracy
-
-Dr. Lai's dissertation concluded with reflections on the broader implications of the Formosan experience:
-
-- **Lessons from history:** The Formosan experience demonstrates the importance of maintaining cultural identity while adapting to new environments
-- **Sustainability of democracy:** The Formosan independence movement reflects a broader struggle for self-determination and democratic values
-- **Community building:** The church as a model for community building that balances integration and differentiation
-
 ## Source Notes and Confidence
 
 ### Source Confidence Legend
