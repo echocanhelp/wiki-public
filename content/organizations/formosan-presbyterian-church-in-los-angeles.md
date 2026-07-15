@@ -146,31 +146,6 @@ By establishing FPCLA under the UPCUSA/PC(USA) system, the founders created a co
 
 FPCLA was the central case study in Dr. Albert S. Lai's 1971 doctoral dissertation *Toward A Community of Hope — A Mission to Formosan Community in Los Angeles*, which documented the church's struggles, aspirations, and theological vision. The dissertation was reprinted in 2025 with a 50th anniversary foreword.
 
-## First Worship Service
-
-On the first experimental Sunday worship held on **August 9, 1970**, by Rev. Jonah Chang, **22 attendees** gathered — a modest beginning for what would become the first Taiwanese Presbyterian church in North America.
-
-## Mission and Community Role
-
-### Proposed Mission Goals
-
-The proposed organization of FPCLA sought to serve a clearly defined community with needs peculiar to Formosan immigrants:
-
-- **Worship community in the mother tongue:** Taiwanese-language worship for immigrants
-- **Social support network:** Assistance for new arrivals navigating life in America
-- **Space for identity negotiation:** A place where Taiwanese immigrants could negotiate faith, identity, and public belonging
-- **Missional community:** A beacon of hope and witness to the gospel in the larger society
-- **Spiritual anchor:** A familiar place amid cultural transition, linguistic barriers, and identity uncertainty
-
-### Community Activities
-
-FPCLA organized a range of activities for the Formosan community in Los Angeles:
-
-- **Saturday afternoon open church:** Every Saturday afternoon the church was open to the entire Formosan community
-- **Youth programs:** Programs for young Formosan immigrants and students
-- **Bible study groups:** Small group gatherings for spiritual growth
-- **Cultural events:** Activities that preserved Taiwanese identity while fostering integration
-
 ## Theological Framework
 
 ### "Internal Integration and External Harmony"
@@ -239,20 +214,6 @@ The church served as a space where Formosan immigrants could negotiate their ide
 - **Between Christians and non-Christians:** Half of church attendees were non-Christians searching for fellowship and the enlightenment of Christian faith
 - **Between integration and differentiation:** The church affirmed that "without differentiation, there is no integration" — cultural integrity required both maintaining identity and engaging with the broader society
 - **Between the personal and the political:** The church provided a space where the political tensions of the independence movement could be held alongside spiritual formation
-
-## Historical Significance
-
-### First Taiwanese Church in North America
-
-FPCLA was the first Taiwanese Presbyterian church established in North America, setting a precedent for subsequent Taiwanese Presbyterian churches across the continent. Over 40 Taiwanese Presbyterian churches would be established in North America in the decades following FPCLA's founding.
-
-### Foundation for PC(USA) Connection
-
-By establishing FPCLA under the UPCUSA/PC(USA) system, the founders created a connection with Presbyterian churches around the world, maximizing strength to care for the future of Taiwanese people. This connection resonated with church headquarters in New York, including the UPCUSA, National Council of Churches (NCC), and World Council of Churches (WCC) in Geneva.
-
-### Dissertation and Legacy
-
-FPCLA was the central case study in Dr. Albert S. Lai's 1971 doctoral dissertation *Toward A Community of Hope — A Mission to Formosan Community in Los Angeles*, which documented the church's struggles, aspirations, and theological vision. The dissertation was reprinted in 2025 with a 50th anniversary foreword.
 
 ## Related Pages
 

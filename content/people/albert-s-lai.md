@@ -60,22 +60,6 @@ In his Self-Preface, Dr. Lai reflected:
 
 He noted that existing writings about Taiwanese churches in North America all start from the 1980s, while his dissertation reflects the lives of Taiwanese and Taiwanese Christians in Southern California from the 1960s to the early 1970s — a period when Taiwan was under the Kuomintang's White Terror, and thousands of Taiwanese students came to the US each year.
 
-### The Missing 50 Years
-
-In the "Missing 50 Years" section, Dr. Lai wrote:
-
-> "Personally, the events have passed, and I am no longer involved, so I do not need to worry. Moreover, I am now over 84 years old, entering my ninth decade. If I don't speak out now, my old friends will soon be gone. When else will I have a chance to share my experiences?"
-
-He reflected on his original intention to help establish the first Taiwanese Presbyterian Church in the US under the UPCUSA system, making it a genuine Presbyterian church that could unite with Presbyterian churches around the world and maximize strength to care for the future of Taiwanese people. He hoped the establishment would symbolize the awakening of Taiwanese people and resonate with church headquarters in New York, including the UPCUSA, National Council of Churches (NCC), and World Council of Churches (WCC) in Geneva.
-
-### Postscript
-
-In his Postscript, Dr. Lai wrote:
-
-> "As I write this background story, I must reflect on the struggles shared over fifty years ago, starting from the experimental church 'Taiyou Church,' which borrowed the facilities of a Japanese Methodist church, to the temporary establishment of the 'Formosan Presbyterian Church in Los Angeles,' and the dream of joining the United Presbyterian Church, followed by San Francisco Theological Seminary accepting my doctoral dissertation project..."
-
-> "More than 50 years later, it remains vivid in my memory! I am endlessly grateful!"
-
 ## Recall the Story Behind the Dissertation
 
 In his extended postscript written over 50 years later, Dr. Lai narrated the remarkable story of how his 1971 dissertation was rediscovered, translated, and published — a journey he could never have imagined while writing it.
