@@ -1,14 +1,15 @@
 # GSTPC Enrichment Report
-Generated: 2026-07-13 03:22 UTC
+Generated: 2026-07-15 06:34 UTC
 
 This report analyzes GSTPC web archive files and compares them with the
 existing Echopedia organization page at `content/organizations/good-shepherd-taiwanese-presbyterian-church.md`.
 
 ## 1. Archives Analyzed
-Total files scanned: 14
+Total files scanned: 15
 
 - **gstpc-40th-ebook.md** — Source: https://gstpc.org/home/get/gstpc40-ebook
 - **gstpc-about-us.md** — Source: https://gstpc.org/home/about-us/
+- **gstpc-archive-index.md** — Source: N/A
 - **gstpc-bulletin-archive.md** — Source: https://gstpc.org/home/bulletin-archive/
 - **gstpc-childrens-ministry.md** — Source: https://gstpc.org/home/childrens-ministry/
 - **gstpc-devotion-archive.md** — Source: https://gstpc.org/home/devotion-archive/
@@ -55,15 +56,15 @@ a Chinese-American community hub known for convenient living and transportation.
 Gospel Sharing
 
 ### 2d. Leadership & Pastor
-**Senior Pastor:** – 好牧者臺灣基督長老教會
+**Senior Pastor:** Rev. Ming Yuan Hsu (許明遠牧師)
 
 | Field | Detail |
 |-------|--------|
 | Birthplace | 台灣台南 |
 | Married | 1990年 to Mrs. Hsu (周美玲師母) |
-| Education | 國立藝專，主修廣播電視，曾任電視福音節目執行製作，隨後通過台灣公務人員資格檢定， |
+| Education | 廣播電視，曾任電視福音節目執行製作，隨後通過台灣公務人員資格檢定， |
 | Converted | 1982年 at a spiritual retreat |
-| Previous Career | 電視福音節目執行製作，隨後通過台灣公務人員資格檢定，; 成功大學航空太空研究所視聽中心、成功大學醫學院視聽中心。; . |
+| Previous Career | 電視福音節目執行製作，隨後通過台灣公務人員資格檢定，; 成功大學航空太空研究所視聽中心、成功大學醫學院視聽中心。 |
 | TPC Role | Minister of Word and Sacrament, Los Ranchos Presbytery, PC (USA) |
 | GSTPC Tenure | July 2019 – Present |
 | Residence | Los Angeles area (suburb) |
@@ -81,11 +82,12 @@ ministry after 10 years of prayer and waiting.
 ### 2e. Contact Information
 | Field | Detail |
 |-------|--------|
+| Address | 606 South Atlantic Blvd.,  			Monterey Park, CA 91754 |
 | Phone | (626) 282-1747 |
 | Fax | (626) 408-6605 |
 | Email | goodshepherdtpc@gmail.com |
 | Pastor Cell | (714) 276-7519 |
-| Pastor Email | revming |
+| Pastor Email | revming@gmail.com |
 
 ### 2f. Ministries & Programs
 | Ministry | Description |
@@ -95,6 +97,7 @@ ministry after 10 years of prayer and waiting.
 - Discipleship Program
 - Daily Devotion
 - Online Worship / Live Streaming
+- TPC Main Church Worship Live Stream
 
 ### 2g. Service Schedule
 
@@ -135,6 +138,24 @@ in the archive is from July 2026.
 
 ## 3. Gap Analysis: What's Missing from the Existing Page
 
+### MISSING: Summary Section
+The existing page has no substantive summary. Add a paragraph covering:
+- Church identity (Taiwanese Presbyterian congregation in Monterey Park)
+- Denomination (TPC, PC USA)
+- Vision statement (Gospel Sharing, Truth Practicing Community)
+- Bilingual worship (臺語 and English)
+- Founded by Taiwanese immigrants and students in Southern California
+- 40th anniversary (GSTPC40)
+
+### MISSING: Official Site Section
+Add: https://www.gstpc.org/
+
+### MISSING: Notes Section
+Replace the generic 'draft generated' note with:
+- Last content verification date
+- Source references (web archive files)
+- Status of content accuracy
+
 ### MISSING: Leadership / Pastor Section (HIGH PRIORITY)
 The existing page has NO pastor or leadership information. Add:
 - **Rev. Ming Yuan Hsu (許明遠牧師)** — Senior Pastor since July 2019
@@ -159,6 +180,7 @@ The existing page has NO ministry information. Add:
 - Discipleship Program
 - Daily Devotion
 - Online Worship / Live Streaming
+- TPC Main Church Worship Live Stream
 
 ### MISSING: Vision & Mission Section (HIGH PRIORITY)
 The existing page has NO vision/mission content. Add:
@@ -183,11 +205,9 @@ The existing page references one bulletin but has no archive overview.
 Add reference to 15 years of weekly bulletins (2012–2026).
 
 ### OUTDATED: Web Archive Reference
-The existing page references a single archive file from 2026-07-06.
-Update to reflect the expanded archive of 14+ files crawled on 2026-07-12.
 
 ### REVIEW: Related Pages
-Existing related pages: ['chen-meihui', 'cai-weiren', 'chen-bozhi']
+Existing related pages: ['mingyuan-hsu', 'mingyuan-hsu', 'mingyuan-hsu', 'david-huang', 'mingyuan-hsu', 'chen-meihui', 'cai-weiren', 'chen-bozhi']
 Consider adding:
 - [[people/rev-ming-yuan-hsu|Rev. Ming Yuan Hsu (許明遠牧師)]]
 - [[people/mrs-hsu|Mrs. Hsu (周美玲師母)]]
@@ -219,6 +239,7 @@ Consider adding:
 
 - `gstpc-40th-ebook.md` — https://gstpc.org/home/get/gstpc40-ebook — ~8 words
 - `gstpc-about-us.md` — https://gstpc.org/home/about-us/ — ~257 words
+- `gstpc-archive-index.md` — N/A — ~214 words
 - `gstpc-bulletin-archive.md` — https://gstpc.org/home/bulletin-archive/ — ~2754 words
 - `gstpc-childrens-ministry.md` — https://gstpc.org/home/childrens-ministry/ — ~240 words
 - `gstpc-devotion-archive.md` — https://gstpc.org/home/devotion-archive/ — ~443 words
@@ -236,9 +257,9 @@ Consider adding:
 
 | Metric | Value |
 |--------|-------|
-| Archive files | 14 |
-| Total words extracted | 5,816 |
+| Archive files | 15 |
+| Total words extracted | 6,030 |
 | Bulletin years covered | 15 |
-| Ministries identified | 5 |
+| Ministries identified | 6 |
 | Media events catalogued | 12 |
-| Existing page sections | 6 of 6 |
+| Existing page sections | 2 of 6 |
