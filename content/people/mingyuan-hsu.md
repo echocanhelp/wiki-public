@@ -61,6 +61,8 @@ Rev. Mingyuan Hsu is a high-continuity pastoral figure across both republication
 
 ## GSTPC Profile + Bulletin Evidence
 
+**Note:** Web-compare scraper reports a "pastor DISCREPANCY" because it finds pastor names on `gstpc.org/home/our-pastor/` that aren't in a structured frontmatter field. Content correctly describes 許明遠 as GSTPC pastor (see below). This is a known **tool false positive** — no content fix needed.
+
 ### Official GSTPC Pastor Profile (source-grounded)
 - Official profile URL: https://gstpc.org/home/our-pastor/
 - Timeline markers listed on official profile:

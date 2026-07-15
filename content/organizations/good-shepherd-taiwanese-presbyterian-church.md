@@ -18,7 +18,7 @@ last_reviewed: 2026-07-13
 - **Location:** 606 South Atlantic Blvd., Monterey Park, CA 91754
 - **Denomination / language:** Presbyterian; primary worship in Taiwanese; integrated English ministry (Noah’s Ark) for youth and children
 - **Leadership:** [[people/mingyuan-hsu|Rev. Ming Yuan Hsu (許明遠牧師)]] (full-time pastor, July 2019–present per official profile)
-- **Official site:** [https://gstpc.org/home/](https://gstpc.org/home/)
+- **Official site:** [GSTPC Official Site](https://gstpc.org/home/)
 
 ## Overview
 
