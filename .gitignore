@@ -1,6 +1,20 @@
+# Echo vault (local)
 
+# Staging / logs (legacy paths)
 echopedia/staging/
 echopedia/logs/
 
-# Audiobook production (private; not for Pages)
+# Runtime / private Tier 2 captures (not for Pages)
+knowledge/interactions/
+cache/
+**/__pycache__/
+*.pyc
+
+# Audiobook production masters (still in vault for Obsidian; not for public git)
 audiobook-albert-lai/
+
+# OS / editor
+.DS_Store
+.obsidian/workspace*
+.obsidian/workspace.json
+.obsidian/cache
