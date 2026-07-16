@@ -32,6 +32,13 @@ Official website of the **[[organizations/taiwan-center|Taiwan Center Foundation
 
 **Not on-domain (not archived):** Facebook, Instagram, YouTube, PayPal, Charity Navigator, Google Drive PDFs, Miss Taiwanese American external site.
 
+## Graph absorption (finish pass)
+
+- **76** group-member org stubs
+- **27** board person pages
+- **10** event pages under `content/events/tc-event-*`
+- School teachers as people pages
+
 ## How Echopedia uses this source
 
 1. Facts applied to **[[organizations/taiwan-center|Taiwan Center]]** primary page  

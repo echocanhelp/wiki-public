@@ -10,21 +10,22 @@ last_reviewed: 2026-07-16
 ---
 # Institute for Taiwanese Studies
 
-**Institute for Taiwanese Studies** (美國台灣研究院). Group member of Taiwan Center (listing).
+**Institute for Taiwanese Studies** (美國台灣研究院) is listed as a **group member** of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]].
 
 ## Identity Snapshot
 
-- **Relation:** Listed among group members / related entities of [[organizations/taiwan-center|Taiwan Center (TWCLA)]]
-- **Source:** https://www.taiwancenter.org/group-members · archive `taiwancenter-org-group-members.md`
+- **Chinese:** 美國台灣研究院
+- **English (as listed):** Institute for Taiwanese Studies
+- **Relation:** Taiwan Center group member (official listing)
+- **Source:** https://www.taiwancenter.org/group-members · `taiwancenter-org-group-members.md`
 
 ## Source Notes
 
 - **A-tier:** Name on Taiwan Center group-members page  
 - **Hub:** [[sources/taiwancenter-org|taiwancenter.org]]  
-- **C-tier:** Independent org history not expanded here
+- **C-tier:** Independent history not expanded from listing alone  
 
 ## Related Pages
 
 - [[organizations/taiwan-center|Taiwan Center]]
 - [[sources/taiwancenter-org|taiwancenter.org]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]

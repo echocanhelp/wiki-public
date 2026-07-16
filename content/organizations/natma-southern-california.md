@@ -1,5 +1,5 @@
 ---
-title: "North American Taiwanese Medical Association — Southern California (NATMA-SCC)"
+title: "North American Taiwanese Medical Association - Southern California Chapter（NATMA-SCC）"
 type: organization
 tags:
   - organization
@@ -8,23 +8,24 @@ tags:
 verification_status: published
 last_reviewed: 2026-07-16
 ---
-# North American Taiwanese Medical Association — Southern California (NATMA-SCC)
+# North American Taiwanese Medical Association - Southern California Chapter（NATMA-SCC）
 
-**North American Taiwanese Medical Association — Southern California (NATMA-SCC)** (南加州台灣醫學會). Group member of Taiwan Center (listing).
+**North American Taiwanese Medical Association - Southern California Chapter（NATMA-SCC）** (南加州台灣醫學會) is listed as a **group member** of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]].
 
 ## Identity Snapshot
 
-- **Relation:** Listed among group members / related entities of [[organizations/taiwan-center|Taiwan Center (TWCLA)]]
-- **Source:** https://www.taiwancenter.org/group-members · archive `taiwancenter-org-group-members.md`
+- **Chinese:** 南加州台灣醫學會
+- **English (as listed):** North American Taiwanese Medical Association - Southern California Chapter（NATMA-SCC）
+- **Relation:** Taiwan Center group member (official listing)
+- **Source:** https://www.taiwancenter.org/group-members · `taiwancenter-org-group-members.md`
 
 ## Source Notes
 
 - **A-tier:** Name on Taiwan Center group-members page  
 - **Hub:** [[sources/taiwancenter-org|taiwancenter.org]]  
-- **C-tier:** Independent org history not expanded here
+- **C-tier:** Independent history not expanded from listing alone  
 
 ## Related Pages
 
 - [[organizations/taiwan-center|Taiwan Center]]
 - [[sources/taiwancenter-org|taiwancenter.org]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]

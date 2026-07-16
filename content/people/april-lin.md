@@ -20,6 +20,8 @@ last_reviewed: 2026-07-16
 - **Role:** 個人董事
 - **Organization:** [[organizations/taiwan-center|Taiwan Center (TWCLA)]]
 
+Also named as a senior **Chinese (華文班)** instructor at the Taiwan Center Taiwan School (師大中文; 10+ years overseas teaching).
+
 ## Source Notes and Confidence
 
 - **A-tier:** Name and role on https://www.taiwancenter.org/board (archived `taiwancenter-org-board.md`)
