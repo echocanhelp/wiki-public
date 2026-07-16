@@ -4,6 +4,7 @@
 
 **Last reviewed:** 2026-07-15  
 **Standards:** v5 · **Autonomy:** L3  
+**Start here:** [USER_MANUAL.md](USER_MANUAL.md)  
 **Hub skill:** `echopedia-ops` (load first for any wiki work)
 
 ---

@@ -1,9 +1,10 @@
 # Echopedia System Status
 
-*Generated: 2026-07-15 22:07 PDT*
+*Generated: 2026-07-15 22:10 PDT*
 
 ## Orientation
-- **Mission / remains (narrative):** [WHERE_WE_ARE.md](WHERE_WE_ARE.md)
+- **User manual (start here):** [USER_MANUAL.md](USER_MANUAL.md)
+- **Mission / remains:** [WHERE_WE_ARE.md](WHERE_WE_ARE.md)
 - **This file:** auto machine snapshot (refreshed by system-status / ci-heal)
 
 ## Autonomy
@@ -16,7 +17,7 @@
 ## Content
 - **Markdown pages:** 65
 - **Janitor queue depth:** 5
-- **Uncommitted files:** 2
+- **Uncommitted files:** 3
 
 ## What runs automatically
 | When | Job | Role |
@@ -57,7 +58,7 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-07-15T05:00:46.321292-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-07-15T22:07:15.612072-07:00  ok
+    Last run:  2026-07-15T22:09:15.685035-07:00  ok
     Name:      echopedia-nightly-audit
     Schedule:  0 4 * * *
     Last run:  2026-07-15T04:01:14.905422-07:00  ok
