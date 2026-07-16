@@ -96,7 +96,7 @@ After retiring from the United Bible Societies, Pastor Lai established **"Taiwan
 ## Related Pages
 
 - [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
-- [[people/barclay|Dr. James W. Barclay]]
+- Dr. Thomas Barclay (巴克禮) — historical missionary context (no dedicated Echopedia page yet)
 - [[people/chaolong-kao|Dr. Chaolong Kao (高昭龍)]]
 - [[organizations/national-taiwanese-presbyterian-council|National Taiwanese Presbyterian Council (NTPC)]]
 - [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]]

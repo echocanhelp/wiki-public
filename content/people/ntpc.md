@@ -1,40 +1,28 @@
 ---
-title: "NTPC"
-type: person
+title: "NTPC (see organization page)"
+type: organization
 tags:
-  - 
-verification_status: pending
-last_reviewed: 2026-07-08
+  - redirect
+  - NTPC
+verification_status: published
+last_reviewed: 2026-07-15
 ---
 # National Taiwanese Presbyterian Council (NTPC)
 
-The **National Taiwanese Presbyterian Council (NTPC)** is a key organizational body in Taiwanese Presbyterian life in the United States.
+**Canonical page:** [[organizations/national-taiwanese-presbyterian-council|National Taiwanese Presbyterian Council (NTPC)]]
 
-## Historical Preservation Role
-
-In 2025, NTPC's historical preservation efforts supported republication and reframing of Toward A Community of Hope, highlighting the need to preserve first-generation Taiwanese American church memory.
-
-## Relevance to TAHS / Echo Wiki
-
-NTPC-related materials are important for:
-
-- Church history timelines
-- Leadership and committee documentation
-- Intergenerational transmission of Taiwanese American faith narratives
+This file is a **redirect stub** (legacy path `people/ntpc`). Do not confuse with other NTPC usages; US diaspora council content is on the organization page.
 
 ## Identity Snapshot
-- Type: Presbyterian council (US diaspora)
+- Type: Presbyterian council (US diaspora) — redirect
 - Geography: United States
-- Core roles: church governance, historical preservation, leadership
+- Core roles: church network, historical preservation
 
 ## Related Pages
-- Toward A Community of Hope
+- [[organizations/national-taiwanese-presbyterian-council|National Taiwanese Presbyterian Council (NTPC)]]
+- [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
 - [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
-- [[people/fpcla|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
-- [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan (台灣基督長老教會)]]
+- [[people/yunching-yeh-davis|Dr. Yunching Yeh Davis (葉芸青)]]
+- [[people/ching-fang-chen|Rev. Ching Fang Chen (陳清芳)]]
 - [[people/mingyuan-hsu|Rev. Mingyuan Hsu (許明遠)]]
 - [[people/pinghsi-liu|Rev. Pinghsi Liu (劉炳熹)]]
-- [[people/yunching-yeh-davis|Dr. Yunching Yeh Davis (葉芸青)]]
-- [[people/shoki-coe|Dr. Shoki Coe (黃彰輝)]]
-- [[people/choan-seng-song|Dr. Choan-Seng Song (宋泉盛)]]
-- [[people/lien-hwa-chow|Dr. Lien-Hwa Chow (周聯華)]]

@@ -255,16 +255,15 @@ Dr. Lai's dissertation, written in 1971, is described as "not only a profound de
 
 ## Related Pages
 
-- [[people/fpcla|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
-- [[people/chaolong-kao|Dr. Chaolong Kao (高昭龍)]]
+- [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
+- [[people/chaolong-kao|Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)]]
 - [[people/jonah-chang|Rev. Jonah Chang (張瑞雄)]]
+- [[people/pingtung-lai|Pastor Pingtung Lai (賴炳烔)]]
 - [[people/yunching-yeh-davis|Dr. Yunching Yeh Davis (葉芸青)]]
 - [[people/mingyuan-hsu|Rev. Mingyuan Hsu (許明遠)]]
 - [[people/pinghsi-liu|Rev. Pinghsi Liu (劉炳熹)]]
+- [[people/ching-fang-chen|Rev. Ching Fang Chen (陳清芳)]]
+- [[people/en-sheng-pan|Rev. En Sheng Pan (潘恩盛)]]
 - [[organizations/national-taiwanese-presbyterian-council|National Taiwanese Presbyterian Council (NTPC)]]
 - [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]]
-- [[people/shoki-coe|Dr. Shoki Coe (鄺輝迎)]]
-- [[people/ntpc|North Taiwan Presbyterian Church (NTPC)]]
-- Echopedia Person Recordation Framework
-- Echopedia Community Contributions Hub
-- Echopedia Person Page Template
+- [[people/shoki-coe|Dr. Shoki Coe (黃彰輝 / Shoki Coe)]]

@@ -1,34 +1,24 @@
 ---
-title: "FPCLA"
-type: person
+title: "FPCLA (see organization page)"
+type: organization
 tags:
-  - 
-verification_status: pending
-last_reviewed: 2026-07-08
+  - redirect
+  - FPCLA
+verification_status: published
+last_reviewed: 2026-07-15
 ---
 # Formosan Presbyterian Church in Los Angeles (FPCLA)
 
-**Formosan Presbyterian Church in Los Angeles (FPCLA)** is remembered as the earliest Taiwanese church community established in North America (founding era: 1970).
+**Canonical page:** [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
 
-## Historical Importance
-
-FPCLA appears centrally in Toward A Community of Hope, where it is treated as a living case of immigrant church formation: language, identity, pastoral care, and mission in diaspora.
-
-## Community Role
-
-In early Taiwanese immigrant life, FPCLA functioned as:
-
-- Worship community in the mother tongue
-- Social support network for new arrivals
-- Space for negotiating faith, identity, and public belonging
+This file is a **redirect stub** (legacy path `people/fpcla`). All content lives on the organization page.
 
 ## Identity Snapshot
-- Type: Taiwanese Presbyterian congregation
+- Type: Taiwanese Presbyterian congregation (redirect)
 - Geography: Los Angeles, California
-- Core roles: worship, community support, immigrant church formation
+- Core roles: worship, immigrant church formation, mission base
 
 ## Related Pages
-
+- [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
 - [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
-- Toward A Community of Hope
-- [[people/ntpc|National Taiwanese Presbyterian Council (NTPC)]]
+- [[organizations/national-taiwanese-presbyterian-council|National Taiwanese Presbyterian Council (NTPC)]]

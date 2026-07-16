@@ -78,7 +78,7 @@ His leadership signals a transition from the NTPC's immigrant-church era into a 
 - [[people/david-huang|Rev. David Huang (黃德利)]]
 - [[people/yunching-yeh-davis|Dr. Yunching Yeh Davis (葉芸青)]]
 - [[organizations/national-taiwanese-presbyterian-council|National Taiwanese Presbyterian Council (NTPC)]]
-- [[organizations/formosan-presbyterian-church-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
+- [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
 - Echopedia Person Recordation Framework
 - Echopedia Community Contributions Hub
 - Echopedia Person Page Template

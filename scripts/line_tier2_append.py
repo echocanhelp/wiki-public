@@ -36,6 +36,11 @@ def main() -> int:
     p.add_argument("--source", default="group", choices=["group", "dm", "room"])
     p.add_argument("--mentioned", default="0", help="1 if bot was @mentioned")
     p.add_argument("--agent-invoked", default="0", help="1 if agent will/was run")
+    p.add_argument(
+        "--allowed",
+        default="1",
+        help="1 if chat is on LINE allowlist (agent-eligible); 0 = archive-only unauthorized",
+    )
     p.add_argument("--dry-run", action="store_true")
     args = p.parse_args()
 
@@ -56,6 +61,7 @@ def main() -> int:
         "text": text,
         "mentioned": args.mentioned in ("1", "true", "yes"),
         "agent_invoked": args.agent_invoked in ("1", "true", "yes"),
+        "allowed": args.allowed in ("1", "true", "yes"),
     }
 
     out_path = OUT_DIR / f"{day}.jsonl"

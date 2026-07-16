@@ -39,7 +39,7 @@ FPCLA was founded through the collaboration of:
 
 - **Taiwanese believers:** A group of Taiwanese immigrants including Dr. & Mrs. Daniel Kao (高光民), Dr. & Mrs. C. C. Chen (陳昭俊), Mr. & Mrs. Norman Hsu (許彬), Dr. & Mrs. Isiah Lee (李宗派), Dr. & Mrs. Joseph T. C. Lu (盧俊哲), Mr. & Mrs. Morris Chen (陳茂雄), Mr. & Mrs. George Chen (陳進琛), Dr. & Mrs. Sze-Ya Yeh (葉思雅), Mr. & Mrs. Wang Chun Hsiung (王春雄), Dr. & Mrs. Jang Yan Wu (吳政彥), Dr. Wen-Cho Yang (楊哲), Dr. & Mrs. Justin Chen (陳有義), Meiling Lai (賴美玲), Michael Chen (陳明章), and others
 - **UPCUSA support:** Pastors and elders from the United Presbyterian Church system, including San Francisco Theological Seminary, the General Assembly of the United Presbyterian Church, the Southern California/Hawaii Presbytery, and the Pacific Presbytery
-- **Organizing Pastor:** Dr. Chaolong Kao (高昭龍), born 1932, was called as the church's first organizing pastor. He graduated from Taiwan Theological College and Seminary (TTCS), was sent to study in the US by President Shoki Coe (鄺輝迎), returned to teach at TTCS where Dr. Albert S. Lai was a student, and later accepted the call to FPCLA
+- **Organizing Pastor:** Dr. **Charles C.L. Kao / Chaolong Kao (高昭龍)** — called by Presbytery of Los Angeles Southwest in September 1971 (former TTCS Assistant Professor; Visiting Scholar at Harvard). Distinct from co-founder Dr. Daniel Kao (高光民).
 
 ### Theological Vision
 
@@ -63,7 +63,7 @@ The Presbyterian Church of Formosa was the largest and only financially independ
 
 The Presbytery Committee voted on March 27, 1971, to work with the church leadership to develop a plan for a self-supporting United Presbyterian congregation within three to five years. A formal funding request submitted on April 14, 1971, stated: "The present request is for support of what the Committee feels to be already a highly significant ministry and mission that offers promise of becoming a successful model by a somewhat different form of church development with ethnic minorities within our Synod."
 
-The Presbytery of Los Angeles Southwest approved the proposed organization of the Formosan Presbyterian Church on September 28, 1971, at a meeting held at Brentwood Presbyterian Church. The Presbytery Committee concluded that "this group has a valid and viable mission." Reverend Dr. Charles C.L. Kao (高光民), a native Formosan and former Assistant Professor at Tainan Theological College (then a Visiting Scholar at Harvard University), was called as the organizing minister in September 1971.
+The Presbytery of Los Angeles Southwest approved the proposed organization of the Formosan Presbyterian Church on September 28, 1971, at a meeting held at Brentwood Presbyterian Church. The Presbytery Committee concluded that "this group has a valid and viable mission." Reverend Dr. **Charles C.L. Kao (Chaolong Kao, 高昭龍)** — a native Formosan, former Assistant Professor at Tainan Theological College, and then Visiting Scholar at Harvard University — was called as the organizing minister in September 1971. (**Not** the co-founder Dr. Daniel Kao / 高光民.)
 
 ### The Presbytery's Strategic Rationale
 
