@@ -12,7 +12,7 @@ last_reviewed: 2026-07-15
 ---
 # Dr. C.C. Chen (陳昭俊)
 
-**Dr. C.C. Chen (陳昭俊)** and his wife are named by Dr. Albert S. Lai among the enthusiastic believers who **co-founded** the Formosan Presbyterian Church in Los Angeles (FPCLA) / Formosan Christian Church in the 1970 founding generation.
+**Dr. C.C. Chen (陳昭俊)** and his wife are named by [[people/albert-s-lai|Dr. Albert S. Lai]] among the enthusiastic believers who **co-founded** the [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]] / Formosan Christian Church in the 1970 founding generation.
 
 ## Identity Snapshot
 
@@ -24,7 +24,7 @@ last_reviewed: 2026-07-15
 
 ## Role in FPCLA
 
-In the 2025 Self-Preface to *Toward A Community of Hope*, Dr. Lai lists **Dr. & Mrs. C. C. Chen (陳昭俊夫婦)** immediately after the Daniel Kao family among the core co-founding households who organized the first Taiwanese Presbyterian church in North America, alongside other lay leaders and UPCUSA supporters.
+In the 2025 Self-Preface to [[sources/toward-a-community-of-hope|Toward A Community of Hope]], Dr. Lai lists **Dr. & Mrs. C. C. Chen (陳昭俊夫婦)** immediately after the [[people/daniel-kao|Daniel Kao]] family among the core co-founding households who organized the first Taiwanese Presbyterian church in North America, alongside other lay leaders and UPCUSA supporters.
 
 ## Source Notes and Confidence
 
@@ -39,6 +39,7 @@ In the 2025 Self-Preface to *Toward A Community of Hope*, Dr. Lai lists **Dr. & 
 ## Related Pages
 
 - [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
+- [[sources/toward-a-community-of-hope|Toward A Community of Hope]]
 - [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
 - [[people/daniel-kao|Dr. Daniel Kao (高光民)]]
 - [[people/chaolong-kao|Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)]]

@@ -12,7 +12,7 @@ last_reviewed: 2026-07-15
 ---
 # Dr. Daniel Kao (高光民)
 
-**Dr. Daniel Kao (高光民)** and his wife are named by Dr. Albert S. Lai among the enthusiastic believers who **co-founded** the Formosan Presbyterian Church in Los Angeles (FPCLA) / Formosan Christian Church in the 1970 founding generation.
+**Dr. Daniel Kao (高光民)** and his wife are named by [[people/albert-s-lai|Dr. Albert S. Lai]] among the enthusiastic believers who **co-founded** the [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]] / Formosan Christian Church in the 1970 founding generation.
 
 ## Identity Snapshot
 
@@ -24,9 +24,9 @@ last_reviewed: 2026-07-15
 
 ## Role in FPCLA
 
-In the 2025 Self-Preface to *Toward A Community of Hope*, Dr. Lai lists **Dr. & Mrs. Daniel Kao (高光民夫婦)** among the core co-founding families who, together with UPCUSA pastors and elders, organized the first Taiwanese Presbyterian church in North America.
+In the 2025 Self-Preface to [[sources/toward-a-community-of-hope|Toward A Community of Hope]], Dr. Lai lists **Dr. & Mrs. Daniel Kao (高光民夫婦)** among the core co-founding families who, together with UPCUSA pastors and elders, organized the first Taiwanese Presbyterian church in North America.
 
-**Disambiguation:** Not the same person as **Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)**, who was called as **organizing minister** by the Presbytery of Los Angeles Southwest in September 1971.
+**Disambiguation:** Not the same person as [[people/chaolong-kao|Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)]], who was called as **organizing minister** by the Presbytery of Los Angeles Southwest in September 1971.
 
 ## Source Notes and Confidence
 
@@ -42,6 +42,7 @@ In the 2025 Self-Preface to *Toward A Community of Hope*, Dr. Lai lists **Dr. & 
 ## Related Pages
 
 - [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
+- [[sources/toward-a-community-of-hope|Toward A Community of Hope]]
 - [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
 - [[people/chaolong-kao|Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)]]
 - [[people/c-c-chen|Dr. C.C. Chen (陳昭俊)]]

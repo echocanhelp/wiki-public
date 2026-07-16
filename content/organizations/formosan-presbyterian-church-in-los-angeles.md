@@ -31,7 +31,7 @@ last_reviewed: 2026-07-15
 
 ### Predecessor: Taiyou Church (太陽教會)
 
-Before FPCLA, an experimental church called "Taiyou Church" (太陽教會, "Sun Church") was established in 1967 by Rev. Jonah Chang (張瑞雄) at a Japanese Methodist church facility. This experiment laid the groundwork for a separate Taiwanese congregation.
+Before FPCLA, an experimental church called "Taiyou Church" (太陽教會, "Sun Church") was associated with [[people/jonah-chang|Rev. Jonah Chang (張瑞雄)]] (c. 1967 Japanese Methodist facility context; B-tier). This experiment laid the groundwork for a separate Taiwanese congregation.
 
 ### Founding Process (1970)
 
@@ -39,17 +39,20 @@ FPCLA was founded through the collaboration of:
 
 - **Taiwanese believers:** A group of Taiwanese immigrants including [[people/daniel-kao|Dr. & Mrs. Daniel Kao (高光民)]], [[people/c-c-chen|Dr. & Mrs. C. C. Chen (陳昭俊)]], Mr. & Mrs. Norman Hsu (許彬), Dr. & Mrs. Isiah Lee (李宗派), Dr. & Mrs. Joseph T. C. Lu (盧俊哲), Mr. & Mrs. Morris Chen (陳茂雄), Mr. & Mrs. George Chen (陳進琛), Dr. & Mrs. Sze-Ya Yeh (葉思雅), Mr. & Mrs. Wang Chun Hsiung (王春雄), Dr. & Mrs. Jang Yan Wu (吳政彥), Dr. Wen-Cho Yang (楊哲), Dr. & Mrs. Justin Chen (陳有義), Meiling Lai (賴美玲), Michael Chen (陳明章), and others
 - **UPCUSA support:** Pastors and elders from the United Presbyterian Church system, including San Francisco Theological Seminary, the General Assembly of the United Presbyterian Church, the Southern California/Hawaii Presbytery, and the Pacific Presbytery
-- **Organizing Pastor:** Dr. **Charles C.L. Kao / Chaolong Kao (高昭龍)** — called by Presbytery of Los Angeles Southwest in September 1971 (former TTCS Assistant Professor; Visiting Scholar at Harvard). Distinct from co-founder Dr. Daniel Kao (高光民).
+- **Organizing Pastor:** [[people/chaolong-kao|Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)]] — called by Presbytery of Los Angeles Southwest in September 1971 (former TTCS Assistant Professor; Visiting Scholar at Harvard). Distinct from co-founder [[people/daniel-kao|Dr. Daniel Kao (高光民)]].
 
 ### Theological Vision
 
-Dr. Albert S. Lai, who participated in the founding and later wrote his doctoral dissertation on the church, articulated a vision that transcended the church being merely a haven for immigrants. FPCLA was intended to become a "mission base" in the local community — a missional community that would witness to the gospel in the larger society.
+[[people/albert-s-lai|Dr. Albert S. Lai]], who participated in the founding and later wrote his doctoral dissertation on the church, articulated a vision that transcended the church being merely a haven for immigrants. FPCLA was intended to become a "mission base" in the local community — a missional community that would witness to the gospel in the larger society.
+
+> **Primary source:** [[sources/toward-a-community-of-hope|Toward A Community of Hope (work & sources)]]  
+> **Full text (GitHub):** [complete extract](https://github.com/echocanhelp/wiki-public/blob/gh-pages/knowledge/web-archives/albert-lai-toward-community-of-hope.md) · [fact sheet](https://github.com/echocanhelp/wiki-public/blob/gh-pages/knowledge/research/albert-lai-facts.md)
 
 ## Founding Process: A Detailed Account
 
 ### The First Experimental Worship (August 1970)
 
-On August 9, 1970, Reverend Jonah Chang (張瑞雄), a former minister of the Presbyterian Church of Formosa then serving at the United Methodist Church in Fresno, California, led the first experimental Sunday worship service for Formosan Christians in Los Angeles. Twenty-two adults and eleven children attended — a turnout that exceeded expectations and confirmed the viability of a dedicated Formosan congregation. Over the following four weeks, the experimental church drew growing numbers, culminating in a strong conviction among the majority that a permanent church fellowship was essential.
+On August 9, 1970, [[people/jonah-chang|Reverend Jonah Chang (張瑞雄)]], a former minister of the Presbyterian Church of Formosa then serving at the United Methodist Church in Fresno, California, led the first experimental Sunday worship service for Formosan Christians in Los Angeles. Twenty-two adults and eleven children attended — a turnout that exceeded expectations and confirmed the viability of a dedicated Formosan congregation. Over the following four weeks, the experimental church drew growing numbers, culminating in a strong conviction among the majority that a permanent church fellowship was essential.
 
 ### From Prayer Circle to Congregation
 
