@@ -1,6 +1,10 @@
 # Echopedia System Status
 
-*Generated: 2026-07-15 21:47 PDT*
+*Generated: 2026-07-15 22:07 PDT*
+
+## Orientation
+- **Mission / remains (narrative):** [WHERE_WE_ARE.md](WHERE_WE_ARE.md)
+- **This file:** auto machine snapshot (refreshed by system-status / ci-heal)
 
 ## Autonomy
 - **Standards:** v5
@@ -29,6 +33,7 @@ bash ~/.hermes/scripts/echopedia-ops-check.sh
 bash ~/.hermes/scripts/echopedia-deploy-drift.sh
 bash ~/.hermes/scripts/echopedia-ci-heal.sh --dry-run
 bash ~/.hermes/scripts/echopedia-publish.sh --check
+cat ~/echo-system/echopedia/WHERE_WE_ARE.md
 cat ~/echo-system/echopedia/SYSTEM_STATUS.md
 ls ~/echo-system/knowledge/operational/incidents/
 ```
@@ -52,7 +57,7 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-07-15T05:00:46.321292-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-07-15T21:47:15.170787-07:00  ok
+    Last run:  2026-07-15T22:07:15.612072-07:00  ok
     Name:      echopedia-nightly-audit
     Schedule:  0 4 * * *
     Last run:  2026-07-15T04:01:14.905422-07:00  ok
