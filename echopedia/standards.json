@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "updated": "2026-07-15",
   "description": "Bump version when echopedia-ops / linking / ingestion standards change so the janitor re-prioritizes the corpus.",
   "rules": [
@@ -10,7 +10,9 @@
     "first_mention_body_links",
     "sources_work_page_for_major_works",
     "sources_github_callout_for_work_hosts",
-    "no_knowledge_wikilinks"
+    "no_knowledge_wikilinks",
+    "publish_via_echopedia_publish_sh",
+    "ops_check_before_trusting_map"
   ],
   "janitor": {
     "window_local": "04:00-06:00",
@@ -22,6 +24,14 @@
     "auto_apply_agent": false,
     "auto_commit": false,
     "auto_push": false,
-    "auto_quartz": false
+    "auto_quartz": false,
+    "skip_path_regexes": [
+      "audiobook",
+      "chapter\\d",
+      "consent-and-recording",
+      "-en-review\\.md$",
+      "recording-kit"
+    ],
+    "skip_types": ["media", "audiobook", "template", "stub-kit"]
   }
 }

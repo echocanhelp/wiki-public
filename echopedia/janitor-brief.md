@@ -1,12 +1,12 @@
 ## Echopedia Janitor — 2026-07-15
-- Standards v2
-- Pages with findings: **14**
+- Standards v3
+- Pages with findings: **11**
 - Queued tonight (max 5): **5**
 - Queue:
   - `people/david-huang.md` age≈8.2d · LINK_UNLINKED_ENTITY, LINK_MISSING_SOURCE_PAGE
-  - `people/albert-chapter1-audiobook-consent-and-recording-kit.md` age≈8.2d · LINK_UNLINKED_ENTITY, LINK_MISSING_SOURCE_PAGE
-  - `people/albert-chapter1-audiobook-taiwanese-female.md` age≈8.2d · LINK_UNLINKED_ENTITY, LINK_MISSING_SOURCE_PAGE
   - `people/san-francisco-theological-seminary.md` age≈8.2d · LINK_UNLINKED_ENTITY, LINK_MISSING_SOURCE_PAGE
-  - `people/albert-chapter1-en-review.md` age≈7.2d · LINK_UNLINKED_ENTITY, LINK_MISSING_SOURCE_PAGE
+  - `people/mingyuan-hsu.md` age≈2.2d · LINK_UNLINKED_ENTITY, LINK_MISSING_SOURCE_PAGE
+  - `people/jonah-chang.md` age≈1.2d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
+  - `organizations/ntpc.md` age≈8.2d · LINK_UNLINKED_ENTITY
 - Log: `knowledge/operational/janitor-log/2026-07-15.jsonl`
 - Agent auto-apply: **False** (local pin only if enabled)
