@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "updated": "2026-07-15",
   "description": "Bump version when echopedia-ops / linking / ingestion standards change so the janitor re-prioritizes the corpus.",
   "rules": [
@@ -15,7 +15,9 @@
     "ops_check_before_trusting_map",
     "deploy_drift_check",
     "fact_sheet_freshness",
-    "entity_hints_sync"
+    "entity_hints_sync",
+    "l2_auto_heal",
+    "l3_auto_push_on_green"
   ],
   "janitor": {
     "window_local": "04:00-06:00",
@@ -40,5 +42,22 @@
   "improvement": {
     "weekly_drain": true,
     "weekly_cron": "0 5 * * 1"
+  },
+  "autonomy": {
+    "level": "L3",
+    "l2_auto_publish_on_drift": true,
+    "l2_auto_drain_on_ci": true,
+    "l2_auto_commit_on_heal": true,
+    "l3_auto_push_on_green": true,
+    "require_ops_not_fail": true,
+    "require_smoke_pass": true,
+    "require_drift_ok": true,
+    "require_clean_git_for_push": false,
+    "max_broken_links_for_green": 0,
+    "smoke_urls": [
+      "https://echocanhelp.github.io/wiki-public/people/albert-s-lai",
+      "https://echocanhelp.github.io/wiki-public/organizations/formosan-presbyterian-church-in-los-angeles",
+      "https://echocanhelp.github.io/wiki-public/sources/toward-a-community-of-hope"
+    ]
   }
 }
