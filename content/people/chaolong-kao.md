@@ -51,6 +51,7 @@ According to Dr. Albert S. Lai's 1971 dissertation *Toward A Community of Hope*:
 
 - [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
 - [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
+- [[people/daniel-kao|Dr. Daniel Kao (高光民)]]
 - [[people/jonah-chang|Rev. Jonah Chang (張瑞雄)]]
 - [[people/shoki-coe|Dr. Shoki Coe]]
 - [[organizations/national-taiwanese-presbyterian-council|National Taiwanese Presbyterian Council (NTPC)]]

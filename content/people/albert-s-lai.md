@@ -257,6 +257,8 @@ Dr. Lai's dissertation, written in 1971, is described as "not only a profound de
 
 - [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
 - [[people/chaolong-kao|Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)]]
+- [[people/daniel-kao|Dr. Daniel Kao (高光民)]]
+- [[people/c-c-chen|Dr. C.C. Chen (陳昭俊)]]
 - [[people/jonah-chang|Rev. Jonah Chang (張瑞雄)]]
 - [[people/pingtung-lai|Pastor Pingtung Lai (賴炳烔)]]
 - [[people/yunching-yeh-davis|Dr. Yunching Yeh Davis (葉芸青)]]

@@ -37,7 +37,7 @@ Before FPCLA, an experimental church called "Taiyou Church" (太陽教會, "Sun 
 
 FPCLA was founded through the collaboration of:
 
-- **Taiwanese believers:** A group of Taiwanese immigrants including Dr. & Mrs. Daniel Kao (高光民), Dr. & Mrs. C. C. Chen (陳昭俊), Mr. & Mrs. Norman Hsu (許彬), Dr. & Mrs. Isiah Lee (李宗派), Dr. & Mrs. Joseph T. C. Lu (盧俊哲), Mr. & Mrs. Morris Chen (陳茂雄), Mr. & Mrs. George Chen (陳進琛), Dr. & Mrs. Sze-Ya Yeh (葉思雅), Mr. & Mrs. Wang Chun Hsiung (王春雄), Dr. & Mrs. Jang Yan Wu (吳政彥), Dr. Wen-Cho Yang (楊哲), Dr. & Mrs. Justin Chen (陳有義), Meiling Lai (賴美玲), Michael Chen (陳明章), and others
+- **Taiwanese believers:** A group of Taiwanese immigrants including [[people/daniel-kao|Dr. & Mrs. Daniel Kao (高光民)]], [[people/c-c-chen|Dr. & Mrs. C. C. Chen (陳昭俊)]], Mr. & Mrs. Norman Hsu (許彬), Dr. & Mrs. Isiah Lee (李宗派), Dr. & Mrs. Joseph T. C. Lu (盧俊哲), Mr. & Mrs. Morris Chen (陳茂雄), Mr. & Mrs. George Chen (陳進琛), Dr. & Mrs. Sze-Ya Yeh (葉思雅), Mr. & Mrs. Wang Chun Hsiung (王春雄), Dr. & Mrs. Jang Yan Wu (吳政彥), Dr. Wen-Cho Yang (楊哲), Dr. & Mrs. Justin Chen (陳有義), Meiling Lai (賴美玲), Michael Chen (陳明章), and others
 - **UPCUSA support:** Pastors and elders from the United Presbyterian Church system, including San Francisco Theological Seminary, the General Assembly of the United Presbyterian Church, the Southern California/Hawaii Presbytery, and the Pacific Presbytery
 - **Organizing Pastor:** Dr. **Charles C.L. Kao / Chaolong Kao (高昭龍)** — called by Presbytery of Los Angeles Southwest in September 1971 (former TTCS Assistant Professor; Visiting Scholar at Harvard). Distinct from co-founder Dr. Daniel Kao (高光民).
 
@@ -218,10 +218,12 @@ The church served as a space where Formosan immigrants could negotiate their ide
 ## Related Pages
 
 - [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
-- [[people/chaolong-kao|Dr. Chaolong Kao (高昭龍)]]
+- [[people/chaolong-kao|Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)]]
+- [[people/daniel-kao|Dr. Daniel Kao (高光民)]]
+- [[people/c-c-chen|Dr. C.C. Chen (陳昭俊)]]
 - [[people/jonah-chang|Rev. Jonah Chang (張瑞雄)]]
 - [[people/pingtung-lai|Pastor Pingtung Lai (賴炳烔)]]
-- [[people/shoki-coe|Dr. Shoki Coe (鄺輝迎)]]
+- [[people/shoki-coe|Dr. Shoki Coe]]
 - [[organizations/national-taiwanese-presbyterian-council|National Taiwanese Presbyterian Council (NTPC)]]
 - [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]]
 - Toward A Community of Hope

@@ -22,8 +22,8 @@ last_updated: 2026-07-15
 | Ching Fang Chen 陳清芳 | NTPC Historical Committee chair | people/ching-fang-chen.md |
 | Mingyuan Hsu 許明遠 | Catalyst for republication | people/mingyuan-hsu.md |
 | Pinghsi Liu 劉炳熹 | Translation/publication partner | people/pinghsi-liu.md |
-| Daniel Kao 高光民 | Co-founder (distinct from Charles C.L. Kao) | plain text / future page |
-| C.C. Chen 陳昭俊 | Co-founder | plain text / future page |
+| Daniel Kao 高光民 | Co-founder (distinct from Charles C.L. Kao) | people/daniel-kao.md |
+| C.C. Chen 陳昭俊 | Co-founder | people/c-c-chen.md |
 
 ## A-priority org facts (FPCLA / Formosan Christian Church)
 | Fact | Detail | Confidence |
@@ -65,7 +65,7 @@ Daniel Kao, C.C. Chen, Norman Hsu, Isiah Lee, Joseph T.C. Lu, Morris Chen, Georg
 - Disambiguate Charles C.L. Kao ≠ Daniel Kao
 
 ## Residual (optional later)
+- Additional co-founder stubs (Norman Hsu, Isiah Lee, …) only if A-tier detail appears
 - Full Ch I–III narrative summaries
-- Co-founder person pages (Daniel Kao, C.C. Chen, …)
 - Barclay person page if desired
 - Index regeneration `.wiki-index.md`
