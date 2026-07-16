@@ -33,6 +33,8 @@ Ken Wu was introduced by Leonard Hsu Jr. in a LINE group as a verified member of
 
 A business card shared during onboarding identifies Ken Wu (吳兆峯) as Secretary General (秘書長) of the Taiwan Center Foundation of Greater Los Angeles (大洛杉磯台灣會館基金會). Private contact details from the card are intentionally not republished here.
 
+**Confirmed on official board page (archived 2026-07-16):** 秘書長 of [[organizations/taiwan-center|Taiwan Center]] — see also [[sources/taiwancenter-org|taiwancenter.org source hub]] and `knowledge/web-archives/taiwancenter-org-board.md`.
+
 ## Testimony / Self-Introduction (Member-editable)
 
 > Pending Ken Wu's first-person introduction.
@@ -64,6 +66,9 @@ A business card shared during onboarding identifies Ken Wu (吳兆峯) as Secret
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
 - [[organizations/taiwan-center|Taiwan Center Foundation of Greater Los Angeles]]
+- [[sources/taiwancenter-org|taiwancenter.org website source]]
 - [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]]
+- [[people/alan-thian|Alan Thian (田詒鴻)]]
+- [[people/simon-lin|Simon Lin (林榮松)]]
 - [[people/david-lee|David Lee]]
 - [[people/rex-chen|Rex Chen (陳乃光)]]
