@@ -22,6 +22,19 @@ Do **not** create a second wiki for the same community entities.
 | **B Session** | Hermes `state.db` | Conversations; search with session tools |
 | **C Vault knowledge** | This tree | Compounding second brain |
 
+### Agent *procedures* (not Layer A essays)
+
+Executable protocols live in **Hermes skills**, not scattered in chat or MEMORY:
+
+| Hub | Path |
+|-----|------|
+| **Map (load first)** | skill `echopedia-ops` |
+| Wiki pipeline canon | skill `echopedia-ingestion-protocol` |
+| Large documents | skill `large-document-ingestion` |
+| Automation | `~/.hermes/scripts/echopedia-*` |
+
+**Rule:** one lesson → one canonical skill/reference (+ update `echopedia-ops` if the map changes). No parallel copies.
+
 ## Directory map
 
 ```
@@ -31,12 +44,13 @@ echo-system/
 ├── content/                  # Tier 1 — curated publishable wiki
 │   ├── people/
 │   ├── organizations/
+│   ├── sources/              # works: dissertations, books (link + full-text GitHub)
 │   ├── media/
 │   └── .wiki-index.md
 ├── knowledge/                # Tier 2 — private / raw / work product
 │   ├── interactions/         # LINE community auto-capture (default private)
-│   ├── web-archives/         # org site scrapes / raw web
-│   ├── research/
+│   ├── web-archives/         # org site scrapes / raw web / PDF extracts
+│   ├── research/             # fact sheets, analyzers (*-facts.md = data not procedures)
 │   ├── staging/              # drafts toward content/
 │   └── operational/          # community projects (incl. audiobook ops)
 ├── audiobook-albert-lai/     # community knowledge project (local vault; gitignored from public)
