@@ -1,0 +1,12 @@
+## Echopedia Janitor — 2026-07-15
+- Standards v2 **(bumped — resweep)**
+- Pages with findings: **47**
+- Queued tonight (max 5): **5**
+- Queue:
+  - `people/en-sheng-pan.md` age≈1.2d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY, LINK_MISSING_SOURCE_PAGE
+  - `people/yunching-yeh-davis.md` age≈1.2d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY, LINK_MISSING_SOURCE_PAGE
+  - `people/ching-fang-chen.md` age≈1.2d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY, LINK_MISSING_SOURCE_PAGE
+  - `people/pingtung-lai.md` age≈1.2d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY, LINK_MISSING_SOURCE_PAGE
+  - `people/pinghsi-liu.md` age≈8.2d · LINK_UNLINKED_ENTITY, LINK_MISSING_SOURCE_PAGE
+- Log: `knowledge/operational/janitor-log/2026-07-15.jsonl`
+- Agent auto-apply: **False** (local pin only if enabled)

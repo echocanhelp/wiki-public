@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "updated": "2026-07-15",
+  "description": "Bump version when echopedia-ops / linking / ingestion standards change so the janitor re-prioritizes the corpus.",
+  "rules": [
+    "identity_snapshot",
+    "related_pages",
+    "last_reviewed",
+    "no_broken_wikilinks",
+    "first_mention_body_links",
+    "sources_work_page_for_major_works",
+    "sources_github_callout_for_work_hosts",
+    "no_knowledge_wikilinks"
+  ],
+  "janitor": {
+    "window_local": "04:00-06:00",
+    "max_pages_per_night": 5,
+    "max_wall_seconds": 5400,
+    "model_provider": "custom:pinto",
+    "model": "nvidia/Qwen3.6-35B-A3B-NVFP4",
+    "auto_apply_programmable": true,
+    "auto_apply_agent": false,
+    "auto_commit": false,
+    "auto_push": false,
+    "auto_quartz": false
+  }
+}

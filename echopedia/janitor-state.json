@@ -1,0 +1,131 @@
+{
+  "version": 1,
+  "last_run": "2026-07-15",
+  "standards_version_seen": 2,
+  "runs": [
+    {
+      "date": "2026-07-15",
+      "candidates": 47,
+      "selected": 5,
+      "standards_version": 2,
+      "standards_bumped": true
+    }
+  ],
+  "queue": [
+    {
+      "path": "people/en-sheng-pan.md",
+      "findings": [
+        "LINK_BODY_SPARSE",
+        "LINK_UNLINKED_ENTITY",
+        "LINK_MISSING_SOURCE_PAGE"
+      ],
+      "hygiene": [
+        "LINK_BODY_SPARSE: people/en-sheng-pan.md (body_wikis=0 related=7)",
+        "LINK_UNLINKED_ENTITY: people/en-sheng-pan.md → people/albert-s-lai",
+        "LINK_UNLINKED_ENTITY: people/en-sheng-pan.md → sources/toward-a-community-of-hope",
+        "LINK_MISSING_SOURCE_PAGE: people/en-sheng-pan.md"
+      ],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "people/yunching-yeh-davis.md",
+      "findings": [
+        "LINK_BODY_SPARSE",
+        "LINK_UNLINKED_ENTITY",
+        "LINK_MISSING_SOURCE_PAGE"
+      ],
+      "hygiene": [
+        "LINK_BODY_SPARSE: people/yunching-yeh-davis.md (body_wikis=0 related=6)",
+        "LINK_UNLINKED_ENTITY: people/yunching-yeh-davis.md → organizations/formosan-presbyterian-church-in-los-angeles",
+        "LINK_UNLINKED_ENTITY: people/yunching-yeh-davis.md → organizations/national-taiwanese-presbyterian-council",
+        "LINK_UNLINKED_ENTITY: people/yunching-yeh-davis.md → people/albert-s-lai",
+        "LINK_UNLINKED_ENTITY: people/yunching-yeh-davis.md → sources/toward-a-community-of-hope",
+        "LINK_MISSING_SOURCE_PAGE: people/yunching-yeh-davis.md"
+      ],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "people/ching-fang-chen.md",
+      "findings": [
+        "LINK_BODY_SPARSE",
+        "LINK_UNLINKED_ENTITY",
+        "LINK_MISSING_SOURCE_PAGE"
+      ],
+      "hygiene": [
+        "LINK_BODY_SPARSE: people/ching-fang-chen.md (body_wikis=0 related=7)",
+        "LINK_UNLINKED_ENTITY: people/ching-fang-chen.md → organizations/national-taiwanese-presbyterian-council",
+        "LINK_UNLINKED_ENTITY: people/ching-fang-chen.md → people/albert-s-lai",
+        "LINK_UNLINKED_ENTITY: people/ching-fang-chen.md → sources/toward-a-community-of-hope",
+        "LINK_MISSING_SOURCE_PAGE: people/ching-fang-chen.md"
+      ],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "people/pingtung-lai.md",
+      "findings": [
+        "LINK_BODY_SPARSE",
+        "LINK_UNLINKED_ENTITY",
+        "LINK_MISSING_SOURCE_PAGE"
+      ],
+      "hygiene": [
+        "LINK_BODY_SPARSE: people/pingtung-lai.md (body_wikis=0 related=6)",
+        "LINK_UNLINKED_ENTITY: people/pingtung-lai.md → people/albert-s-lai",
+        "LINK_UNLINKED_ENTITY: people/pingtung-lai.md → sources/toward-a-community-of-hope",
+        "LINK_MISSING_SOURCE_PAGE: people/pingtung-lai.md"
+      ],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "people/pinghsi-liu.md",
+      "findings": [
+        "LINK_UNLINKED_ENTITY",
+        "LINK_MISSING_SOURCE_PAGE"
+      ],
+      "hygiene": [
+        "LINK_UNLINKED_ENTITY: people/pinghsi-liu.md → people/albert-s-lai",
+        "LINK_UNLINKED_ENTITY: people/pinghsi-liu.md → people/mingyuan-hsu",
+        "LINK_UNLINKED_ENTITY: people/pinghsi-liu.md → sources/toward-a-community-of-hope",
+        "LINK_MISSING_SOURCE_PAGE: people/pinghsi-liu.md"
+      ],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    }
+  ],
+  "last_candidates": 47,
+  "last_selected": [
+    "people/en-sheng-pan.md",
+    "people/yunching-yeh-davis.md",
+    "people/ching-fang-chen.md",
+    "people/pingtung-lai.md",
+    "people/pinghsi-liu.md"
+  ]
+}
