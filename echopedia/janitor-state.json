@@ -5,25 +5,23 @@
   "runs": [
     {
       "date": "2026-07-15",
-      "candidates": 47,
+      "candidates": 14,
       "selected": 5,
       "standards_version": 2,
-      "standards_bumped": true
+      "standards_bumped": false
     }
   ],
   "queue": [
     {
-      "path": "people/en-sheng-pan.md",
+      "path": "people/david-huang.md",
       "findings": [
-        "LINK_BODY_SPARSE",
         "LINK_UNLINKED_ENTITY",
         "LINK_MISSING_SOURCE_PAGE"
       ],
       "hygiene": [
-        "LINK_BODY_SPARSE: people/en-sheng-pan.md (body_wikis=0 related=7)",
-        "LINK_UNLINKED_ENTITY: people/en-sheng-pan.md → people/albert-s-lai",
-        "LINK_UNLINKED_ENTITY: people/en-sheng-pan.md → sources/toward-a-community-of-hope",
-        "LINK_MISSING_SOURCE_PAGE: people/en-sheng-pan.md"
+        "LINK_UNLINKED_ENTITY: people/david-huang.md → organizations/national-taiwanese-presbyterian-council",
+        "LINK_UNLINKED_ENTITY: people/david-huang.md → sources/toward-a-community-of-hope",
+        "LINK_MISSING_SOURCE_PAGE: people/david-huang.md"
       ],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
@@ -34,19 +32,14 @@
       ]
     },
     {
-      "path": "people/yunching-yeh-davis.md",
+      "path": "people/albert-chapter1-audiobook-consent-and-recording-kit.md",
       "findings": [
-        "LINK_BODY_SPARSE",
         "LINK_UNLINKED_ENTITY",
         "LINK_MISSING_SOURCE_PAGE"
       ],
       "hygiene": [
-        "LINK_BODY_SPARSE: people/yunching-yeh-davis.md (body_wikis=0 related=6)",
-        "LINK_UNLINKED_ENTITY: people/yunching-yeh-davis.md → organizations/formosan-presbyterian-church-in-los-angeles",
-        "LINK_UNLINKED_ENTITY: people/yunching-yeh-davis.md → organizations/national-taiwanese-presbyterian-council",
-        "LINK_UNLINKED_ENTITY: people/yunching-yeh-davis.md → people/albert-s-lai",
-        "LINK_UNLINKED_ENTITY: people/yunching-yeh-davis.md → sources/toward-a-community-of-hope",
-        "LINK_MISSING_SOURCE_PAGE: people/yunching-yeh-davis.md"
+        "LINK_UNLINKED_ENTITY: people/albert-chapter1-audiobook-consent-and-recording-kit.md → sources/toward-a-community-of-hope",
+        "LINK_MISSING_SOURCE_PAGE: people/albert-chapter1-audiobook-consent-and-recording-kit.md"
       ],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
@@ -57,18 +50,14 @@
       ]
     },
     {
-      "path": "people/ching-fang-chen.md",
+      "path": "people/albert-chapter1-audiobook-taiwanese-female.md",
       "findings": [
-        "LINK_BODY_SPARSE",
         "LINK_UNLINKED_ENTITY",
         "LINK_MISSING_SOURCE_PAGE"
       ],
       "hygiene": [
-        "LINK_BODY_SPARSE: people/ching-fang-chen.md (body_wikis=0 related=7)",
-        "LINK_UNLINKED_ENTITY: people/ching-fang-chen.md → organizations/national-taiwanese-presbyterian-council",
-        "LINK_UNLINKED_ENTITY: people/ching-fang-chen.md → people/albert-s-lai",
-        "LINK_UNLINKED_ENTITY: people/ching-fang-chen.md → sources/toward-a-community-of-hope",
-        "LINK_MISSING_SOURCE_PAGE: people/ching-fang-chen.md"
+        "LINK_UNLINKED_ENTITY: people/albert-chapter1-audiobook-taiwanese-female.md → sources/toward-a-community-of-hope",
+        "LINK_MISSING_SOURCE_PAGE: people/albert-chapter1-audiobook-taiwanese-female.md"
       ],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
@@ -79,17 +68,15 @@
       ]
     },
     {
-      "path": "people/pingtung-lai.md",
+      "path": "people/san-francisco-theological-seminary.md",
       "findings": [
-        "LINK_BODY_SPARSE",
         "LINK_UNLINKED_ENTITY",
         "LINK_MISSING_SOURCE_PAGE"
       ],
       "hygiene": [
-        "LINK_BODY_SPARSE: people/pingtung-lai.md (body_wikis=0 related=6)",
-        "LINK_UNLINKED_ENTITY: people/pingtung-lai.md → people/albert-s-lai",
-        "LINK_UNLINKED_ENTITY: people/pingtung-lai.md → sources/toward-a-community-of-hope",
-        "LINK_MISSING_SOURCE_PAGE: people/pingtung-lai.md"
+        "LINK_UNLINKED_ENTITY: people/san-francisco-theological-seminary.md → people/albert-s-lai",
+        "LINK_UNLINKED_ENTITY: people/san-francisco-theological-seminary.md → sources/toward-a-community-of-hope",
+        "LINK_MISSING_SOURCE_PAGE: people/san-francisco-theological-seminary.md"
       ],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
@@ -100,16 +87,15 @@
       ]
     },
     {
-      "path": "people/pinghsi-liu.md",
+      "path": "people/albert-chapter1-en-review.md",
       "findings": [
         "LINK_UNLINKED_ENTITY",
         "LINK_MISSING_SOURCE_PAGE"
       ],
       "hygiene": [
-        "LINK_UNLINKED_ENTITY: people/pinghsi-liu.md → people/albert-s-lai",
-        "LINK_UNLINKED_ENTITY: people/pinghsi-liu.md → people/mingyuan-hsu",
-        "LINK_UNLINKED_ENTITY: people/pinghsi-liu.md → sources/toward-a-community-of-hope",
-        "LINK_MISSING_SOURCE_PAGE: people/pinghsi-liu.md"
+        "LINK_UNLINKED_ENTITY: people/albert-chapter1-en-review.md → people/albert-s-lai",
+        "LINK_UNLINKED_ENTITY: people/albert-chapter1-en-review.md → sources/toward-a-community-of-hope",
+        "LINK_MISSING_SOURCE_PAGE: people/albert-chapter1-en-review.md"
       ],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
@@ -120,12 +106,12 @@
       ]
     }
   ],
-  "last_candidates": 47,
+  "last_candidates": 14,
   "last_selected": [
-    "people/en-sheng-pan.md",
-    "people/yunching-yeh-davis.md",
-    "people/ching-fang-chen.md",
-    "people/pingtung-lai.md",
-    "people/pinghsi-liu.md"
+    "people/david-huang.md",
+    "people/albert-chapter1-audiobook-consent-and-recording-kit.md",
+    "people/albert-chapter1-audiobook-taiwanese-female.md",
+    "people/san-francisco-theological-seminary.md",
+    "people/albert-chapter1-en-review.md"
   ]
 }

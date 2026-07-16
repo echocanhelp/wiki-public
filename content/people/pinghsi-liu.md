@@ -2,72 +2,55 @@
 title: "Rev. Pinghsi Liu (劉炳熹)"
 type: person
 tags:
-  - 
-verification_status: pending
-last_reviewed: 2026-07-08
+  - person
+  - pastor
+  - Taiwanese
+  - Presbyterian
+  - 2025-republication
+  - translation
+verification_status: published
+last_reviewed: 2026-07-15
 ---
 # Rev. Pinghsi Liu (劉炳熹)
 
-**Rev. Pinghsi Liu (劉炳熹, Liu Ping-hsi)** is referenced in the 2025 republication context of Toward A Community of Hope as part of a collaborative preservation network.
+**Rev. Pinghsi Liu (劉炳熹, Liu Ping-hsi)** is Senior Pastor of Tainan East Gate Barclay Memorial Church and a key collaborator in the 2025 republication of [[people/albert-s-lai|Dr. Albert S. Lai]]'s dissertation [[sources/toward-a-community-of-hope|Toward A Community of Hope]], working with [[people/mingyuan-hsu|Rev. Mingyuan Hsu]] and the Barclay History Education Promotion network.
 
 ## Identity Snapshot
-- Era: 2020s republication and preservation context
-- Geography: Taiwanese American church network (North America)
-- Core roles: pastor, collaborator, historical education partner
 
-## Testaments / Voice
+- **English:** Rev. Pinghsi Liu / Ping Hsi Liu / Liu Ping-hsi
+- **Chinese:** 劉炳熹
+- **Era:** 2010s–2020s (documented in 2025 republication materials)
+- **Geography:** Tainan, Taiwan; connection to North American Taiwanese churches
+- **Core roles:** Senior pastor; translation/publication partner; historical education collaborator
 
-### Testament 1
-> “In 2016, at the invitation of the Presbyterian Church in Taiwan General Assembly, Evangelism Committee, I had the honor of serving as a theological lecturer ... thus beginning my connection with pastors and churches in North America.”
-- Date/Period: 2016 event recalled in 2025 publication
-- Context: “The Mission of Connection: A Faith Journey Across the Ocean”
-- Source: Republication Voices and Testaments (2025)
-- Source tier: A (direct first-person quotation in republication material)
+## Role in the 2025 Republication
 
-### Testament 2
-> “At the beginning of 2023, Rev. Mingyuan Hsu returned to Taiwan and sincerely invited us to assist in translating Dr. Albert S. Lai's doctoral dissertation ... while also promoting the possibility of its publication.”
-- Date/Period: 2023 action recalled in 2025 publication
-- Context: Republication collaboration narrative
-- Source: Republication Voices and Testaments (2025)
-- Source tier: A (direct first-person quotation in republication material)
+> **Primary work page:** [[sources/toward-a-community-of-hope|Toward A Community of Hope (work & sources)]]  
+> **Full text (GitHub):** [complete extract](https://github.com/echocanhelp/wiki-public/blob/gh-pages/knowledge/web-archives/albert-lai-toward-community-of-hope.md)
 
-## Historical Context
-Rev. Liu is currently documented in this cluster through retrospective preservation framing rather than direct 1971 chapter voice. His record is important for mapping who helped carry foundational texts into present-day circulation.
+From his 2025 foreword material:
 
-## Contributions and Legacy
-1. Linked to collaborative republication-era educational/preservation efforts around Taiwanese American church history. — Source: Toward A Community of Hope (C)
-2. Helps connect church leadership and historical recordation networks in the current era. — Source: existing page synthesis (C)
-3. Preserves name variants and identity continuity for historical retrieval and recognition. — Source: this page's disambiguation section (B/C)
+- **2016** — Theological lecturer for TCCANA at PCT General Assembly Evangelism Committee invitation; connection with North American pastors/churches
+- **2018** — Family trip to North America with hospitality of Rev. Mingyuan Hsu
+- **2020** — Began service at Tainan East Gate Barclay Memorial Church
+- **2023** — Invited by Rev. Mingyuan Hsu to help translate Lai's dissertation and pursue publication
 
 ## Source Notes and Confidence
 
-### Source Confidence Legend
-- A-tier: direct quotations or primary-source textual attributions from the currently attached source set.
-- B-tier: near-contemporary attributed references or secondary materials closely tied to the event/person.
-- C-tier: compiled contextual interpretation layers that require further primary-source confirmation.
-
-- High confidence: referenced in republication-associated materials
-- Medium confidence: specific institutional role scope
-- Needs verification: direct quotations, dated publications, and role-specific archival records
+- **A-tier:** First-person republication narrative; collaboration with Hsu; Barclay Memorial Church role
+- **Needs verification:** Full career timeline, education
 
 ## Name Variants / Disambiguation
-- Chinese: 劉炳熹
-- Romanization variants: Pinghsi Liu / Ping Hsi Liu / Liu Ping-hsi
-- Note: in this cluster these forms are treated as the same individual pending contradictory evidence
 
-## Contribution Invitation
-Use the shared intake process at Echopedia Community Contributions Hub and include:
-- Person/page name
-- Your relationship to the person/event
-- Memory/quote/correction text
-- Date or estimated period
-- Source type and permission status
-
-Your contribution helps preserve this life record with both dignity and historical traceability.
+- Pinghsi Liu · Ping Hsi Liu · Liu Ping-hsi · 劉炳熹
 
 ## Related Pages
-- Toward A Community of Hope
-- [[people/ntpc|National Taiwanese Presbyterian Council (NTPC)]]
+
+- [[sources/toward-a-community-of-hope|Toward A Community of Hope]]
 - [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
-- Echopedia Person Recordation Framework
-- Echopedia Community Contributions Hub
+- [[people/mingyuan-hsu|Rev. Mingyuan Hsu (許明遠)]]
+- [[organizations/national-taiwanese-presbyterian-council|National Taiwanese Presbyterian Council (NTPC)]]
+- [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]]
+- [[people/yunching-yeh-davis|Dr. Yunching Yeh Davis (葉芸青)]]
+- [[people/ching-fang-chen|Rev. Ching Fang Chen (陳清芳)]]
+- [[people/en-sheng-pan|Rev. En Sheng Pan (潘恩盛)]]
