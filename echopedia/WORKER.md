@@ -49,6 +49,7 @@ NEXT: STOP | human decision needed: <one line>
 | orient, status, health, where are we, what's running | **P0** |
 | broken site, drift, stale html, smoke, heal, ci | **P5** |
 | publish, quartz, deploy, rebuild html | **P2** |
+| **echopedia &lt;url/site&gt;** (no override) | **Planner full pipeline** then P2 **push** (see USER_MANUAL command language) — not archive-only |
 | fix links, link hygiene, first-mention, one page | **P3** |
 | drain queue, janitor queue, fix queue | **P4** |
 | turn off push, disable auto, autonomy flag, standards | **P6** |

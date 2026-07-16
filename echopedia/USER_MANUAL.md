@@ -16,6 +16,31 @@ Vault: `/home/leedt/echo-system` · Live: https://echocanhelp.github.io/wiki-pub
 
 ---
 
+## Command language: what “Echopedia …” means
+
+**Default (Leonard / Hsuperman):** saying **Echopedia** + a target means **live wiki**, not research-only.
+
+| You say | System must do |
+|---------|----------------|
+| `Echopedia refresh <url/site>` | Archive → **apply** to wiki page(s) → **publish + push** (viewable on GitHub Pages) |
+| `Echopedia full-domain archive <site>` | Full Tier2 archive **and** apply A-tier to the main org/person page(s) → **publish + push** |
+| `Echopedia <site>` / `Echopedia <name>` | Same default: archive if needed → apply → **publish + push** |
+
+**Override only if you explicitly say otherwise:**
+
+| Override | Stops at |
+|----------|----------|
+| `archive only` / `Tier2 only` | `knowledge/web-archives/` (no wiki edit, no push) |
+| `no publish` / `no push` | Apply to `content/` only (local md; wait for later publish/ci-heal) |
+| `draft` / `pending` | Apply but leave `verification_status: pending` if appropriate; still publish if you didn’t forbid push |
+
+**Done = viewable:**  
+`https://echocanhelp.github.io/wiki-public/...` updated (after CDN), not merely files on disk.
+
+Agents: if Leonard says “Echopedia …” without override, **do not stop after archive**. Complete apply + `echopedia-publish.sh --push` (or equivalent P2 push) unless blocked by failure.
+
+---
+
 ## Adding a feature (Google, Twilio, media, tools, crons, APIs)
 
 **Same procedure for every tool** — including future **Twilio (SMS/voice)** and **photo/video generation**.  
