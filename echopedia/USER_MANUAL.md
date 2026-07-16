@@ -22,22 +22,27 @@ Vault: `/home/leedt/echo-system` · Live: https://echocanhelp.github.io/wiki-pub
 
 | You say | System must do |
 |---------|----------------|
-| `Echopedia refresh <url/site>` | Archive → **apply** to wiki page(s) → **publish + push** (viewable on GitHub Pages) |
-| `Echopedia full-domain archive <site>` | Full Tier2 archive **and** apply A-tier to the main org/person page(s) → **publish + push** |
-| `Echopedia <site>` / `Echopedia <name>` | Same default: archive if needed → apply → **publish + push** |
+| **`Echopedia website <domain>`** | **Full-domain** archive + **absorb into wiki graph** + publish push — see **[WEBSITE_INGEST.md](WEBSITE_INGEST.md)** completeness bar |
+| `Echopedia refresh <url/site>` | Same as website when target is a site; else archive→apply→publish push for that URL’s entity |
+| `Echopedia full-domain archive <site>` | Synonym of **website** (not archive-only) |
+| `Echopedia <site>` / `Echopedia <name>` | Prefer full **website** pipeline if a domain; else entity refresh + publish push |
+
+**“Website” completeness (not optional):**  
+Tier2 MANIFEST for whole domain → **entities/facts sheet** → `content/sources/` hub → rich primary page → **thin pages / links for valuable people & orgs** → hygiene → **publish push**.  
+Stopping after archives or a single summary page = **PARTIAL**, not done.
 
 **Override only if you explicitly say otherwise:**
 
 | Override | Stops at |
 |----------|----------|
-| `archive only` / `Tier2 only` | `knowledge/web-archives/` (no wiki edit, no push) |
-| `no publish` / `no push` | Apply to `content/` only (local md; wait for later publish/ci-heal) |
-| `draft` / `pending` | Apply but leave `verification_status: pending` if appropriate; still publish if you didn’t forbid push |
+| `archive only` / `Tier2 only` | `knowledge/web-archives/` only |
+| `primary page only` | Skip new person/org stubs; still publish primary |
+| `no publish` / `no push` | Apply to `content/` only |
+| `create all member org stubs` | Expand group-member list into many thin org pages |
 
-**Done = viewable:**  
-`https://echocanhelp.github.io/wiki-public/...` updated (after CDN), not merely files on disk.
+**Done = viewable + linked:** live GitHub Pages URLs, not merely disk files.
 
-Agents: if Leonard says “Echopedia …” without override, **do not stop after archive**. Complete apply + `echopedia-publish.sh --push` (or equivalent P2 push) unless blocked by failure.
+Agents: **do not stop after archive.** Follow `WEBSITE_INGEST.md` until COMPLETE or explicit override.
 
 ---
 
