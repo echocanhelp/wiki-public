@@ -11,6 +11,10 @@ last_reviewed: 2026-07-08
 **Rev. David Huang (黃德利, Huang De-li)** is referenced in NTPC republication-era historical work tied to toward-a-community-of-hope, especially around commemorative editorial efforts.
 
 ## Identity Snapshot
+
+> **Primary work page:** [[sources/toward-a-community-of-hope|Toward A Community of Hope (work & sources)]]  
+> **Full text (GitHub):** [complete extract](https://github.com/echocanhelp/wiki-public/blob/gh-pages/knowledge/web-archives/albert-lai-toward-community-of-hope.md)
+
 - Era: 2024–2025 documented cluster context
 - Geography: North American Taiwanese Presbyterian network
 - Core roles: commemorative editor (NTPC 50th context), preservation collaborator
@@ -102,6 +106,8 @@ Use the shared intake process at Echopedia Community Contributions Hub and inclu
 - Source type and permission status
 
 ## Related Pages
+
+- [[sources/toward-a-community-of-hope|Toward A Community of Hope]]
 - toward-a-community-of-hope
 - Republication Voices and Testaments (2025)
 - [[people/ntpc|National Taiwanese Presbyterian Council (NTPC)]]

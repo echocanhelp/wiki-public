@@ -17,6 +17,10 @@ last_reviewed: 2026-07-15
 
 ## Identity Snapshot
 
+> **Primary work page:** [[sources/toward-a-community-of-hope|Toward A Community of Hope (work & sources)]]  
+> **Full text (GitHub):** [complete extract](https://github.com/echocanhelp/wiki-public/blob/gh-pages/knowledge/web-archives/albert-lai-toward-community-of-hope.md)
+
+
 - **English:** Rev. Jonah Chang
 - **Chinese:** 張瑞雄
 - **Era:** 1960s–1970s (documented 1967–1970 experiments)
@@ -50,6 +54,8 @@ Later republication materials and wiki narrative also associate Chang with an ea
 - 張瑞雄
 
 ## Related Pages
+
+- [[sources/toward-a-community-of-hope|Toward A Community of Hope]]
 
 - [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
 - [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]

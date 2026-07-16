@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "updated": "2026-07-15",
   "description": "Bump version when echopedia-ops / linking / ingestion standards change so the janitor re-prioritizes the corpus.",
   "rules": [
@@ -12,7 +12,10 @@
     "sources_github_callout_for_work_hosts",
     "no_knowledge_wikilinks",
     "publish_via_echopedia_publish_sh",
-    "ops_check_before_trusting_map"
+    "ops_check_before_trusting_map",
+    "deploy_drift_check",
+    "fact_sheet_freshness",
+    "entity_hints_sync"
   ],
   "janitor": {
     "window_local": "04:00-06:00",
@@ -33,5 +36,9 @@
       "recording-kit"
     ],
     "skip_types": ["media", "audiobook", "template", "stub-kit"]
+  },
+  "improvement": {
+    "weekly_drain": true,
+    "weekly_cron": "0 5 * * 1"
   }
 }

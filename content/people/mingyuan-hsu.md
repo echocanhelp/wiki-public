@@ -12,6 +12,10 @@ last_reviewed: 2026-07-14
 
 ## Identity Snapshot
 
+> **Primary work page:** [[sources/toward-a-community-of-hope|Toward A Community of Hope (work & sources)]]  
+> **Full text (GitHub):** [complete extract](https://github.com/echocanhelp/wiki-public/blob/gh-pages/knowledge/web-archives/albert-lai-toward-community-of-hope.md)
+
+
 - Era: 2020s documented republication context
 - Geography: Southern California church network context
 - Core roles: pastor, preservation advocate, connector in church-history collaboration
@@ -158,6 +162,8 @@ Use the shared intake process at Echopedia Community Contributions Hub and inclu
 Your contribution helps preserve this life record with both dignity and historical traceability.
 
 ## Related Pages
+
+- [[sources/toward-a-community-of-hope|Toward A Community of Hope]]
 
 - Toward A Community of Hope
 - [[people/ntpc|National Taiwanese Presbyterian Council (NTPC)]]

@@ -12,6 +12,10 @@ last_reviewed: 2026-07-08
 
 ## Significance in Taiwanese American Church History
 
+> **Primary work page:** [[sources/toward-a-community-of-hope|Toward A Community of Hope (work & sources)]]  
+> **Full text (GitHub):** [complete extract](https://github.com/echocanhelp/wiki-public/blob/gh-pages/knowledge/web-archives/albert-lai-toward-community-of-hope.md)
+
+
 Through leaders trained there, the seminary is connected to early theological interpretation of Taiwanese immigrant church formation in North America.
 
 ## Identity Snapshot
@@ -20,6 +24,8 @@ Through leaders trained there, the seminary is connected to early theological in
 - Core roles: theological education, research, ecclesial training
 
 ## Related Pages
+
+- [[sources/toward-a-community-of-hope|Toward A Community of Hope]]
 
 - [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
 - Toward A Community of Hope
