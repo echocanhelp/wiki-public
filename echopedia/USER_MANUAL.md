@@ -16,24 +16,25 @@ Vault: `/home/leedt/echo-system` · Live: https://echocanhelp.github.io/wiki-pub
 
 ---
 
-## Adding a feature (Google, tools, crons, APIs)
+## Adding a feature (Google, Twilio, media, tools, crons, APIs)
 
-**Yes — same procedure for every tool.**  
+**Same procedure for every tool** — including future **Twilio (SMS/voice)** and **photo/video generation**.  
 Do **not** invent a new doc tree per product.
 
-→ Full checklist: **[FEATURE_ADD.md](FEATURE_ADD.md)**
+→ Full checklist + patterns: **[FEATURE_ADD.md](FEATURE_ADD.md)**
 
-| Class | Example | ~Files to touch |
-|-------|---------|-----------------|
-| A Tooling only | Gmail/Drive CLI for you | 1–3 |
-| B Scheduled | Nightly sync script | 5–8 |
-| C Echopedia-integrated | Drive → wiki ingest | 8–12 |
+| Class | Example | ~Files |
+|-------|---------|--------|
+| A Tooling only | Gmail; chat image gen; ad-hoc SMS tool | 1–3 |
+| B Scheduled | Nightly sync; Twilio webhook worker; batch video | 5–8 |
+| C Echopedia-integrated | Channel → Tier2/wiki; new publish step | 8–12 |
 
 **Prompt:**
 ```text
 Feature add per echopedia/FEATURE_ADD.md. Classify A/B/C. List files, then implement.
 ```
 
+Messaging platforms ≠ wiki dump by default. Prefer existing media tools before new vendors.
 ---
 
 ## Division of labor
