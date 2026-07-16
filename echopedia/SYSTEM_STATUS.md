@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-07-15 22:18 PDT*
+*Generated: 2026-07-16 04:15 PDT*
 
 ## Orientation
 - **User manual (start here):** [USER_MANUAL.md](USER_MANUAL.md)
@@ -13,10 +13,10 @@
 - **Level:** L3
 - **L2 auto-publish on drift:** True
 - **L3 auto-push when green:** True
-- **Last good deploy:** `b4bf33d`
+- **Last good deploy:** `f8927e1`
 
 ## Content
-- **Markdown pages:** 65
+- **Markdown pages:** 79
 - **Janitor queue depth:** 5
 - **Uncommitted files:** 2
 
@@ -47,24 +47,25 @@ Load skill **echopedia-ops** first for any wiki work.
 ```
     Name:      unified-watchdog
     Schedule:  every 30m
-    Last run:  2026-07-15T22:12:15.787174-07:00  ok
+    Last run:  2026-07-16T04:12:43.014040-07:00  ok
     Name:      echopedia-digest
     Schedule:  0 9 * * *
     Last run:  2026-07-15T09:00:52.399312-07:00  ok
     Name:      kanban-sync
     Schedule:  every 30m
-    Last run:  2026-07-15T22:10:15.706740-07:00  ok
+    Last run:  2026-07-16T04:11:42.995588-07:00  ok
     Name:      memory-audit
     Schedule:  0 5 * * *
     Last run:  2026-07-15T05:00:46.321292-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-07-15T22:17:15.929483-07:00  ok
+    Last run:  2026-07-16T04:15:43.113754-07:00  ok
     Name:      echopedia-nightly-audit
     Schedule:  0 4 * * *
-    Last run:  2026-07-15T04:01:14.905422-07:00  ok
+    Last run:  2026-07-16T04:00:49.311309-07:00  ok
     Name:      echopedia-janitor
     Schedule:  0 4 * * *
+    Last run:  2026-07-16T04:00:42.906771-07:00  ok
     Name:      echopedia-weekly-improvement
     Schedule:  0 5 * * 1
     Name:      echopedia-ci-heal

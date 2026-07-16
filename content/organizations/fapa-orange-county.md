@@ -10,24 +10,21 @@ last_reviewed: 2026-07-16
 ---
 # Formosan Association for Public Affairs — Orange County (FAPA-OC)
 
-**Formosan Association for Public Affairs — Orange County (FAPA-OC)** (台灣人公共事務會-柑縣). Listed as a **group member** of the Taiwan Center Foundation of Greater Los Angeles.
+**Formosan Association for Public Affairs — Orange County (FAPA-OC)** (台灣人公共事務會-柑縣). Group member of Taiwan Center (listing).
 
 ## Identity Snapshot
 
-- **Type:** Taiwanese American community organization
-- **Geography:** Southern California (as named)
-- **Relation:** Group member / linked entity of [[organizations/taiwan-center|Taiwan Center (TWCLA)]]
-- **Source:** Taiwan Center group-members page (archived 2026-07-16)
+- **Relation:** Listed among group members / related entities of [[organizations/taiwan-center|Taiwan Center (TWCLA)]]
+- **Source:** https://www.taiwancenter.org/group-members · archive `taiwancenter-org-group-members.md`
 
-## Source Notes and Confidence
+## Source Notes
 
-- **A-tier:** Name and membership listing on https://www.taiwancenter.org/group-members  
-  Archive: `knowledge/web-archives/taiwancenter-org-group-members.md`  
-  Hub: [[sources/taiwancenter-org|taiwancenter.org]]
-- **C-tier:** Full independent history — not expanded from this listing alone
+- **A-tier:** Name on Taiwan Center group-members page  
+- **Hub:** [[sources/taiwancenter-org|taiwancenter.org]]  
+- **C-tier:** Independent org history not expanded here
 
 ## Related Pages
 
-- [[organizations/taiwan-center|Taiwan Center Foundation of Greater Los Angeles]]
-- [[sources/taiwancenter-org|taiwancenter.org website source]]
+- [[organizations/taiwan-center|Taiwan Center]]
+- [[sources/taiwancenter-org|taiwancenter.org]]
 - [[organizations/taiwanese-american-historical-society|TAHS]]
