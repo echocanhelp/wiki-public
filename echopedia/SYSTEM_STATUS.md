@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-07-15 22:16 PDT*
+*Generated: 2026-07-15 22:18 PDT*
 
 ## Orientation
 - **User manual (start here):** [USER_MANUAL.md](USER_MANUAL.md)
@@ -13,12 +13,12 @@
 - **Level:** L3
 - **L2 auto-publish on drift:** True
 - **L3 auto-push when green:** True
-- **Last good deploy:** `96a5f2f`
+- **Last good deploy:** `b4bf33d`
 
 ## Content
 - **Markdown pages:** 65
 - **Janitor queue depth:** 5
-- **Uncommitted files:** 5
+- **Uncommitted files:** 2
 
 ## What runs automatically
 | When | Job | Role |
@@ -59,7 +59,7 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-07-15T05:00:46.321292-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-07-15T22:15:15.864081-07:00  ok
+    Last run:  2026-07-15T22:17:15.929483-07:00  ok
     Name:      echopedia-nightly-audit
     Schedule:  0 4 * * *
     Last run:  2026-07-15T04:01:14.905422-07:00  ok

@@ -78,7 +78,10 @@ Then P2 commit only. You may run them or emit exact worker prompts.
 
 ## Autonomy switches (no thinking required)
 
-Edit `/home/leedt/echo-system/echopedia/standards.json` key `autonomy`, **or** worker **P6**:
+Edit `/home/leedt/echo-system/echopedia/standards.json` key `autonomy`, **or** worker **P6**.
+
+Nightly automation is **100% bash** (`no_agent`). See WORKER.md **AUTOMATED CRONS**.  
+Workers never “reason through” cron prompts — only run scripts or P5/P11.
 
 | Flag | true means |
 |------|------------|
@@ -89,7 +92,7 @@ Edit `/home/leedt/echo-system/echopedia/standards.json` key `autonomy`, **or** w
 
 Turn off all auto-push: P6 `l3_auto_push_on_green=false`.
 
-Nightly: 04:00 janitor+audit · **04:15 ci-heal** · Mon 05:00 weekly · 09:00 digest.
+Schedule: 04:00 janitor+audit · **04:15 ci-heal** · Mon 05:00 weekly · 09:00 digest · + infra watchdogs.
 
 ---
 
@@ -120,6 +123,7 @@ bash /home/leedt/.hermes/scripts/echopedia-ci-heal.sh --dry-run
 |---------|----------|
 | Don’t know state | **P0** |
 | Ops/drift/smoke check | **P1** |
+| Cron errors / missing script | **P11** then fix script path |
 | Site HTML stale | **P2** or **P5** |
 | One page bad links | **P3** |
 | Janitor queue | **P4** |

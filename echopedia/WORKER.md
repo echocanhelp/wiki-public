@@ -53,6 +53,7 @@ NEXT: STOP | human decision needed: <one line>
 | drain queue, janitor queue, fix queue | **P4** |
 | turn off push, disable auto, autonomy flag, standards | **P6** |
 | improve pack, weekly, intake, freshness | **P7** |
+| cron check, cron broken, jobs.json | **P11** |
 | edit person/org page content (not just links) | **P8** |
 | new work/source page for book/dissertation | **P9** |
 | plan only / don't execute | **P0** then STOP (no other playbook) |
@@ -284,6 +285,44 @@ PY
 
 **SUCCESS:** commit hash or NOTHING_TO_COMMIT  
 **DO NOT:** force push; do not change git config.
+
+---
+
+## AUTOMATED CRONS (no LLM — do not reimplement)
+
+These jobs are **`no_agent: true`**. The scheduler runs a **bash script only**.  
+Worker models must **never** “interpret” cron prompts or invent steps for these.
+
+| Job | Schedule | Script | Behavior |
+|-----|----------|--------|----------|
+| unified-watchdog | every 30m | `unified-watchdog.sh` | Silent OK; alert on fail |
+| vllm-thermal-scaler | every 1m | `vllm-thermal-scaler.sh` | Adaptive silent / alert |
+| kanban-sync | every 30m | `kanban-sync.sh` | Silent if no change |
+| memory-audit | 05:00 daily | `memory-audit.sh` | Report if issues |
+| echopedia-janitor | 04:00 | `echopedia-janitor-wrapper.sh` | Queue + log (local) |
+| echopedia-nightly-audit | 04:00 | `echopedia-nightly-audit-wrapper.sh` | Alert if thresholds |
+| **echopedia-ci-heal** | **04:15** | `echopedia-ci-heal-wrapper.sh` | L2/L3 heal (= P5) |
+| echopedia-weekly-improvement | Mon 05:00 | `echopedia-weekly-improvement.sh` | Pack+drain+heal |
+| echopedia-digest | 09:00 | `echopedia-digest.sh` | Morning dashboard |
+
+**Selfcheck:** `bash /home/leedt/.hermes/scripts/echopedia-cron-selfcheck.sh`  
+Expect `CRON_STATUS: OK`.
+
+### Worker rules for crons
+1. Do **not** create agent cron jobs (`no_agent: false`) for Echopedia.
+2. Do **not** put multi-step English procedures in cron `prompt` — only script path.
+3. To change behavior: edit the **script** or `standards.json` flags — not the prompt.
+4. Manual equivalent of nightly heal: playbook **P5**.
+5. If cron fails: read `knowledge/operational/incidents/`, re-run the **script** with bash, fix script.
+
+### P11 — CRON SELFCHECK
+**STEPS:**
+1. `bash /home/leedt/.hermes/scripts/echopedia-cron-selfcheck.sh`
+2. If WARN about not executable: re-run (selfcheck chmods) or `chmod +x` the named script
+3. If FAIL missing script: Report FAIL — human must fix jobs.json
+
+**SUCCESS:** `CRON_STATUS: OK`  
+**DO NOT:** enable LLM agent crons to “replace” these scripts.
 
 ---
 
