@@ -6,12 +6,33 @@
 |------|-----|------|
 | **[USER_MANUAL.md](USER_MANUAL.md)** (this) | Human + smart model | How the system works; how to assign work |
 | **[WORKER.md](WORKER.md)** | Local worker model | Execute one playbook, no design |
+| **[FEATURE_ADD.md](FEATURE_ADD.md)** | Human + planner | Checklist when adding Google/tools/crons/etc. |
 | [WHERE_WE_ARE.md](WHERE_WE_ARE.md) | Both (read) | Built vs remains |
 | [SYSTEM_STATUS.md](SYSTEM_STATUS.md) | Both (read) | Live health (auto) |
 | skill `echopedia-ops` | Agent | Routing map |
 | [standards.json](standards.json) | Both | Autonomy switches + version |
 
 Vault: `/home/leedt/echo-system` · Live: https://echocanhelp.github.io/wiki-public/
+
+---
+
+## Adding a feature (Google, tools, crons, APIs)
+
+**Yes — same procedure for every tool.**  
+Do **not** invent a new doc tree per product.
+
+→ Full checklist: **[FEATURE_ADD.md](FEATURE_ADD.md)**
+
+| Class | Example | ~Files to touch |
+|-------|---------|-----------------|
+| A Tooling only | Gmail/Drive CLI for you | 1–3 |
+| B Scheduled | Nightly sync script | 5–8 |
+| C Echopedia-integrated | Drive → wiki ingest | 8–12 |
+
+**Prompt:**
+```text
+Feature add per echopedia/FEATURE_ADD.md. Classify A/B/C. List files, then implement.
+```
 
 ---
 
@@ -139,6 +160,7 @@ bash /home/leedt/.hermes/scripts/echopedia-ci-heal.sh --dry-run
 |--------|--------|
 | How human assigns work | **USER_MANUAL** |
 | Exact worker steps | **WORKER.md** |
+| New tool / Google / cron feature | **FEATURE_ADD.md** (+ only listed files) |
 | Mission built/remains | **WHERE_WE_ARE** |
 | Live health | auto **SYSTEM_STATUS** |
 | Official script list / routing | skill **echopedia-ops** |
