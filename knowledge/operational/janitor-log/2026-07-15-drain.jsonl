@@ -3,3 +3,8 @@
 {"path": "people/mingyuan-hsu.md", "findings": ["LINK_UNLINKED_ENTITY", "LINK_MISSING_SOURCE_PAGE"], "acts": ["inject sources callout", "related sources link", "WROTE"]}
 {"path": "people/jonah-chang.md", "findings": ["LINK_BODY_SPARSE", "LINK_UNLINKED_ENTITY"], "acts": ["inject sources callout", "related sources link", "WROTE"]}
 {"path": "organizations/ntpc.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/ken-wu.md", "findings": ["LINK_BODY_SPARSE", "LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/li-furen.md", "findings": ["LINK_BODY_SPARSE", "LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "organizations/taiwanese-american-historical-society.md", "findings": ["STANDARDS_RESWEEP"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "organizations/taiwan-formosa.md", "findings": ["STANDARDS_RESWEEP"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "organizations/presbyterian-church-in-taiwan.md", "findings": ["STANDARDS_RESWEEP"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}

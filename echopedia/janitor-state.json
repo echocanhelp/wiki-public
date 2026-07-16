@@ -1,13 +1,13 @@
 {
   "version": 1,
   "last_run": "2026-07-15",
-  "standards_version_seen": 4,
+  "standards_version_seen": 5,
   "runs": [
     {
       "date": "2026-07-15",
       "candidates": 48,
       "selected": 5,
-      "standards_version": 4,
+      "standards_version": 5,
       "standards_bumped": true
     }
   ],

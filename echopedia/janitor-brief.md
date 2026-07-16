@@ -1,5 +1,5 @@
 ## Echopedia Janitor — 2026-07-15
-- Standards v4 **(bumped — resweep)**
+- Standards v5 **(bumped — resweep)**
 - Pages with findings: **48**
 - Queued tonight (max 5): **5**
 - Queue:
