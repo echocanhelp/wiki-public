@@ -1,87 +1,79 @@
 ---
-source_url: https://www.taiwancenter.org
+source_url: https://www.taiwancenter.org/en/home
 fetched: 2026-07-16T01:12:07
 method: jina
 ---
 
-Title: Taiwan Center 大洛杉磯台灣會館基金會：台灣文化在海外的光亮燈塔
+Title: Taiwan center Foundation of the Greater Los Angeles: A Beacon of Taiwanese Culture
 
-URL Source: https://www.taiwancenter.org/
-
-Published Time: Thu, 16 Jul 2026 08:12:02 GMT
+URL Source: https://www.taiwancenter.org/en/home
 
 Markdown Content:
-[![Image 1](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/69295d17b252af7b3230a0eb_TWCLA%20logo.png)](https://www.taiwancenter.org/)
+[![Image 1](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/69295d17b252af7b3230a0eb_TWCLA%20logo.png)](https://www.taiwancenter.org/en/home)
 
-[![Image 2](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/691d4cbd1eafeb2777757e47_256.png)](https://www.taiwancenter.org/#)
+[![Image 2](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/691d4cbd1eafeb2777757e47_256.png)](https://www.taiwancenter.org/templates/home-1)
 
 ![Image 3: icon](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/68a69cbd7fc3be5050e05c9e_close-btn.svg)
 
-關於我們
+About
 
-[會館簡介](https://www.taiwancenter.org/introduction)[會館設施](https://www.taiwancenter.org/facility)[會館章程](https://www.taiwancenter.org/bylaws)[董事會](https://www.taiwancenter.org/board)[團體會員](https://www.taiwancenter.org/group-members)
+[Introduction](https://www.taiwancenter.org/en/introduction)[Facility](https://www.taiwancenter.org/en/facility)[bylaws](https://www.taiwancenter.org/en/bylaws)[board](https://www.taiwancenter.org/en/board)[group members](https://www.taiwancenter.org/en/group-members)
 
-台灣學校
+Taiwan School
 
-[學校簡介](https://www.taiwancenter.org/about-taiwan-school)[課程資訊](https://www.taiwancenter.org/class-information)
+[about school](https://www.taiwancenter.org/en/about-taiwan-school)[class information](https://www.taiwancenter.org/en/class-information)
 
-活動專區
+Events
 
-[最新活動公告](https://www.taiwancenter.org/latest-events)[台美人傳統週](https://www.facebook.com/TAHeritageWeek)[台美小姐](https://www.misstaiwaneseamericanpageant.org/)[表單下載](https://www.taiwancenter.org/form-download)
+[Latest Events](https://www.taiwancenter.org/en/latest-events)[Taiwanese American Heritage Week](https://www.facebook.com/TAHeritageWeek)[Miss taiwanese american](https://www.misstaiwaneseamericanpageant.org/)[Forms & Downloads](https://www.taiwancenter.org/en/form-download)
 
-精彩回顧
+Moments
 
-[會館會訊](https://www.taiwancenter.org/newsletter)[會館刊物](https://www.taiwancenter.org/publication)[活動紀錄](https://www.taiwancenter.org/event-archive)
+[Newsletter](https://www.taiwancenter.org/en/newsletter)[publication](https://www.taiwancenter.org/en/publication)[Event Archive](https://www.taiwancenter.org/en/event-archive)
 
-相關連結
+Related Link
 
 [Facebook](https://www.facebook.com/TaiwanCenterLA)[Instagram](https://www.instagram.com/tcgla3001/)[Youtube](https://www.youtube.com/@taiwancenter2973)
 
 [線上捐款](https://www.charitynavigator.org/ein/954679702#overall-rating-section-2)
 
-[線上捐款](https://www.paypal.com/donate?hosted_button_id=CWVV5DE2WCTFQ)[EN](https://www.taiwancenter.org/en/home)
+[Donate Now](https://www.paypal.com/donate?hosted_button_id=CWVV5DE2WCTFQ)[中文](https://www.taiwancenter.org/en/home#)
 
-[![Image 4](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/69295d17b252af7b3230a0eb_TWCLA%20logo.png)](https://www.taiwancenter.org/)
+[![Image 4](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/69295d17b252af7b3230a0eb_TWCLA%20logo.png)](https://www.taiwancenter.org/en/home)
 
 ![Image 5: icon](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/68a69cbd7fc3be5050e05c9e_close-btn.svg)
 
-關於我們
+About
 
-[會館簡介](https://www.taiwancenter.org/introduction)[會館設施](https://www.taiwancenter.org/facility)[會館章程](https://www.taiwancenter.org/bylaws)[董事會](https://www.taiwancenter.org/board)[團體會員](https://www.taiwancenter.org/group-members)
+[Introduction](https://www.taiwancenter.org/en/introduction)[Facility](https://www.taiwancenter.org/en/facility)[bylaws](https://www.taiwancenter.org/en/bylaws)[board](https://www.taiwancenter.org/en/board)[group members](https://www.taiwancenter.org/en/group-members)
 
-台灣學校
+Taiwan School
 
-[學校簡介](https://www.taiwancenter.org/about-taiwan-school)[課程資訊](https://www.taiwancenter.org/class-information)
+[about school](https://www.taiwancenter.org/en/about-taiwan-school)[class information](https://www.taiwancenter.org/en/class-information)
 
-活動專區
+Events
 
-[最新活動公告](https://www.taiwancenter.org/latest-events)[台美人傳統週](https://www.facebook.com/TAHeritageWeek)[台美小姐](https://www.misstaiwaneseamericanpageant.org/)[表單下載](https://www.taiwancenter.org/form-download)
+[Latest Events](https://www.taiwancenter.org/en/latest-events)[Taiwanese American Heritage Week](https://www.facebook.com/TAHeritageWeek)[Miss taiwanese american](https://www.misstaiwaneseamericanpageant.org/)[Forms & Downloads](https://www.taiwancenter.org/en/form-download)
 
-精彩回顧
+Moments
 
-[會館會訊](https://www.taiwancenter.org/newsletter)[會館刊物](https://www.taiwancenter.org/publication)[活動紀錄](https://www.taiwancenter.org/event-archive)
+[Newsletter](https://www.taiwancenter.org/en/newsletter)[publication](https://www.taiwancenter.org/en/publication)[Event Archive](https://www.taiwancenter.org/en/event-archive)
 
-相關連結
+Related Link
 
 [Facebook](https://www.facebook.com/TaiwanCenterLA)[Instagram](https://www.instagram.com/tcgla3001/)[Youtube](https://www.youtube.com/@taiwancenter2973)
 
-[EN](https://www.taiwancenter.org/en/home)[線上捐款](https://www.paypal.com/donate?hosted_button_id=CWVV5DE2WCTFQ)
+[中文](https://www.taiwancenter.org/facility)[Donate Now](https://www.paypal.com/donate?hosted_button_id=CWVV5DE2WCTFQ)
 
 [線上捐款](https://www.charitynavigator.org/ein/954679702#overall-rating-section-2)
 
-Taiwan center Foundation of the Greater Los Angeles
+Taiwan center foundation of greater Los Angeles
 
-# 2026台灣會館年會
+# Connecting Heritage, Preserving Culture
 
-「從生存到發展:台美人在台灣民主化過程中的角色」
+Here, we host events, nurture talent, and exchange ideas, passing culture across generations. The Center serves as a bridge connecting Taiwan and America, and stands as a proud symbol of the Taiwanese American community.
 
-台灣由威權獨裁轉型為民主國家, 是民主世界的前段班, 也是亞太和平的基石。海外台灣人在這過程未曾缺席, 甚至扮演關鍵的角色。國史館陳儀深館長將以專家學者的身分, 講述這一段台美人寶貴的歷史。
-
-‍
-
-(建議用橫式觀看)
-
-[新館建館](https://www.taiwancenter.org/event/construction-progress-of-the-building)[8/22年會暨募款午宴](https://www.taiwancenter.org/event/2026-tai-wan-hui-guan-nian-hui)[最新會訊](https://drive.google.com/file/d/1OAY1HrGn8_KxgjxsEcZSkVmT4kaXjKKg/view?usp=sharing)
+[Learn More](https://www.taiwancenter.org/en/introduction)[Learn More](https://www.taiwancenter.org/en/introduction)[Learn More](https://www.taiwancenter.org/en/introduction)
 
 [Video 3](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92%2F6a5879276070662599319bf7_hero%20video0716_mp4.mp4)
 
@@ -89,33 +81,33 @@ Taiwan center Foundation of the Greater Los Angeles
 
 About Us
 
-## 關於會館
+## About the Center
 
-自 1998 年起，我們以推廣台灣文化、促進社區融合為使命。會館是台美人的文化地標，也是多元族群交流的溫暖平台。
+Since 1998, our mission has been to promote Taiwanese culture and foster community integration. The Center is a cultural landmark for Taiwanese Americans and a welcoming platform for multicultural exchange.
 
-[About Us](https://www.taiwancenter.org/introduction)
+[About Us](https://www.taiwancenter.org/en/introduction)
 
 ![Image 6](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/693f95d1408799aed8769123_an%20exterior%20photograph%20of.jpg)
 
 Our Services
 
-## 會館服務
+## Center Services
 
 ![Image 7](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/693f9b69118e2d63df155b48_a%20photograph%20of%20an%20office.jpg)
 
 1
 
-### 台灣學校
+### Taiwan School
 
-台灣會館提供多樣課程，例如：華文班、日文班、電腦班、蔬食烹飪班、台灣會館合唱團、縫紉班、攝影初級班等。
+Taiwan Center offers diverse classes including: Mandarin Chinese, Japanese, Computer, Vegetarian Cooking, Taiwan Center Choir, Sewing, and Beginner Photography.
 
-[Learn More](https://www.taiwancenter.org/about-taiwan-school)
+[Learn More](https://www.taiwancenter.org/en/about-taiwan-school)
 
-### 場地租借
+### Venue Rental
 
-我們提供多元場地空間，包括可容納250人的大禮堂、會議室、教室、影視廳、展覽室及空中花園，滿足各類活動需求。請下載場地租借申請表，填妥後聯繫會館辦公室洽詢細節。
+We offer a variety of venue options, including a 250-seat auditorium, conference room, classrooms, screening room, exhibition hall, and rooftop garden to suit all types of events. Download our rental application form and contact our office for details.
 
-[Learn More](https://www.taiwancenter.org/facility)
+[Learn More](https://www.taiwancenter.org/en/facility)
 
 2
 
@@ -125,17 +117,17 @@ Our Services
 
 3
 
-### 相關表單下載
+### Form & Downloads
 
-台灣會館提供各種申請表。請將表格下載、列印、填妥後連同所需費用交給台灣會館工作人員。如有任何疑問，請聯繫台灣會館辦公室。
+Taiwan Center provides various application forms. Please download, print, and complete the forms, then submit them with the required fees to Taiwan Center staff. For any questions, please contact the Taiwan Center office.
 
-[Learn More](https://www.taiwancenter.org/form-download)
+[Learn More](https://www.taiwancenter.org/en/form-download)
 
-### 王桂榮紀念圖書館
+### Memorial Library
 
-台灣會館目前收藏超過一萬冊書籍，內容包括美術、歷史、小說、音樂、語言、人文等各式各樣的書籍。歡迎各位多加利用圖書館豐富的資源。
+Taiwan Center currently houses over 10,000 books covering art, history, fiction, music, languages, humanities, and more. We welcome everyone to make full use of our library's rich resources.
 
-[Learn More](https://www.taiwancenter.org/facility)
+[Learn More](https://www.taiwancenter.org/en/facility)
 
 4
 
@@ -143,11 +135,11 @@ Our Services
 
 Events & Announcements
 
-## 最新活動公告
+## Latest Events & Announcements
 
-[Learn More](https://www.taiwancenter.org/latest-events)
+[Learn More](https://www.taiwancenter.org/en/latest-events)
 
-[全部](https://www.taiwancenter.org/#w-tabs-0-data-w-pane-0)[會館公告](https://www.taiwancenter.org/#w-tabs-0-data-w-pane-1)[活動訊息](https://www.taiwancenter.org/#w-tabs-0-data-w-pane-2)[媒體新聞](https://www.taiwancenter.org/#w-tabs-0-data-w-pane-3)[台灣學校](https://www.taiwancenter.org/#w-tabs-0-data-w-pane-4)[台美人傳統週](https://www.taiwancenter.org/#w-tabs-0-data-w-pane-5)[Tab 7](https://www.taiwancenter.org/#w-tabs-0-data-w-pane-6)
+[All](https://www.taiwancenter.org/en/home)[Announcements](https://www.taiwancenter.org/en/home)[Events](https://www.taiwancenter.org/en/home)[Media](https://www.taiwancenter.org/en/home)[Taiwan School](https://www.taiwancenter.org/en/home)[Traditional week](https://www.taiwancenter.org/en/home)
 
 [活動訊息 會館公告 #### 2026 台灣會館年會 年會暨募款午宴 ANNUAL GALA AND FUNDRAISING BANQUET 歡迎踴躍報名參加 Aug 22, 2026 ![Image 11: Architecture](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c9f/6a51c19c02e87239336d8cee_8-22-2026.jpg)](https://www.taiwancenter.org/event/2026-tai-wan-hui-guan-nian-hui)
 
@@ -189,33 +181,31 @@ No items found.
 
 Highlights Moments
 
-## 精彩回顧
+## Past Events
 
-#### [台美小姐](https://www.taiwancenter.org/event-archive)
+#### [Miss Taiwanese American](https://www.taiwancenter.org/en/event-archive)
 
-#### [二二八追思紀念會](https://www.taiwancenter.org/event-archive)
+#### [228 Memorial Service](https://www.taiwancenter.org/en/event-archive)
 
-#### [二二八小水牛兒童認識台灣歷史故事活動](https://www.taiwancenter.org/event-archive)
+#### [Little Water Buffalo: Taiwan History for Kids](https://www.taiwancenter.org/en/event-archive)
 
-#### [傳統週園遊會](https://www.taiwancenter.org/event-archive)
-
-Slide 2 of 4.
+#### [Taiwanese American Heritage Week](https://www.taiwancenter.org/en/event-archive)
 
 ![Image 29: Left Arrow](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/68a69cbd7fc3be5050e05cc3_Left%20Arrow.png)
 
 ![Image 30: Right Arrow](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/68a69cbd7fc3be5050e05d49_Right%20Arrow.png)
 
-[![Image 31](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/6a58719cc15a31857fa60306_8003e4fedd9c23ca114333818ff4c222_IMG_6263.jpg)](https://www.taiwancenter.org/#)[![Image 32](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/6a586e3863f5c9b0d8fcf668_IMG_6713.JPG)](https://www.taiwancenter.org/#)[![Image 33](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/6a586c1d5d845400f462d691_05162026-3-ss.JPG)](https://www.taiwancenter.org/#)[![Image 34](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/6a5870fd5fdbadce4c88a966_DSC_0570-s.JPG)](https://www.taiwancenter.org/#)
+[![Image 31](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/693fb684df79ecada6bd23ee_photo%20of%20modern%20interior.jpg)](https://www.taiwancenter.org/en/home#)[![Image 32](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/69325b2ad7dfba9f9b19475c_%E5%82%B3%E7%B5%B1%E9%80%B1%E5%9C%92%E9%81%8A%E6%9C%83.jpg)](https://www.taiwancenter.org/en/home#)[![Image 33](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/693f95d1408799aed8769123_an%20exterior%20photograph%20of.jpg)](https://www.taiwancenter.org/en/home#)[![Image 34](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/69325c45e3fd92f55aa11f93_286336.jpg)](https://www.taiwancenter.org/en/home#)
 
-[![Image 35](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/6a587050e4b80a582dd8470a_IMG_6287-s.JPG)](https://www.taiwancenter.org/#)[![Image 36](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/6a58821f7a5e0286bef1ebe9_IMG_0669.jpg)](https://www.taiwancenter.org/#)[![Image 37](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/6a586b0ee4b80a582dd6d506_05022026%E5%A4%A7%E5%90%88%E7%85%A7.JPG)](https://www.taiwancenter.org/#)[![Image 38](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/6a586f0fc3f5c73217ba7a1a_IMG_6706.JPG)](https://www.taiwancenter.org/#)
+[![Image 35](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/69325b1237fc016ef4cc2856_8M4A4894.jpeg)](https://www.taiwancenter.org/en/home#)[![Image 36](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/693fb2db49d5eb915300b232_photo%20of%20a%20dance%20studio.jpg)](https://www.taiwancenter.org/en/home#)[![Image 37](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/6936a0082d41f0da894a3297_thxgiving%20line.png)](https://www.taiwancenter.org/en/home#)[![Image 38](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/693fb4dde871add4d2bc6ba0_a%20modern%20university.jpg)](https://www.taiwancenter.org/en/home#)
 
 Leadership
 
-## 董事會
+## Board of Directors
 
-[Learn More](https://www.taiwancenter.org/board)
+[Learn More](https://www.taiwancenter.org/en/board)
 
-## 支持會館，傳承文化
+## Support the Center, Preserve Culture
 
 ![Image 39](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/69325b12b970ca55e674e25b_8M4A4829.jpeg)
 
@@ -225,35 +215,35 @@ Leadership
 
 ![Image 42](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/693141f3a52a6d57fad32c33_2024%E5%B9%B4%E6%B5%B7%E5%A4%96%E7%95%99%E5%AD%B8%E7%94%9F%E6%84%9F%E6%81%A9%E7%AF%80%E9%A4%90%E6%9C%83.png)
 
-您的每一份捐助，都是文化延續與社區繁榮的力量。讓我們一起守護這份共同的家園。
+Every donation you make is a force for cultural continuity and community prosperity. Let us together protect this shared home.
 
 [Donate now](https://www.paypal.com/donate?hosted_button_id=CWVV5DE2WCTFQ)
 
 Let's Build Community,
 
-[![Image 43](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/69295d17b252af7b3230a0eb_TWCLA%20logo.png)](https://www.taiwancenter.org/#)
-Taiwan Center 大洛杉磯台灣會館基金會 - 台灣文化的海外燈塔
+[![Image 43](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/69295d17b252af7b3230a0eb_TWCLA%20logo.png)](https://www.taiwancenter.org/templates/home-1)
+Taiwan Center foundation of greater Los Angeles - A Beacon of Taiwanese Culture Overseas
 
 Share Culture
 
 ![Image 44](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/68b69b6419fa15f6d0b346da_building.png)
 
+Taiwan Center
+
+[San Diego](https://www.taiwancenter.com/)[Northern CA.](https://sites.google.com/taiwanacenter.org/tac/home?pli=1)[New York](http://ww1.nytaiwancenter.us/)[Washington D.C.](https://www.facebook.com/TaiwanCultureCenterDC/)[Houston](https://www.houston-taiwanese.org/)[Canada](https://www.tccs.ca/zh-hant)
+
+Related Links
+
+[Pacific-Times](http://www.pacific-times.com/)[Taiwan Daily](https://taiwandaily.net/)[Taiwan Justice](https://taiwanjustice.net/)[Taipei Economic and Cultural Office in Los Angeles](https://www.taiwanembassy.org/uslax/index.html)[Overseas Community Affairs Council Los Angeles Service Center](http://www.ocac.gov.tw/OCAC/SubSites/Home.aspx?site=96775ef4-842d-4e5b-9491-abf5119661d1)
+
 各地會館
 
-[聖地牙哥台灣中心 San Diego](https://www.taiwancenter.com/)[北加州台灣會館 Northern CA.](https://sites.google.com/taiwanacenter.org/tac/home?pli=1)[紐約台灣會館 New York](http://ww1.nytaiwancenter.us/)[華府台灣中心 Washington D.C.](https://www.facebook.com/TaiwanCultureCenterDC/)[休士頓台灣中心 Houston](https://www.houston-taiwanese.org/)[台加文化協會 Canada](https://www.tccs.ca/zh-hant)
+[Bureau of Consular Affairs](https://www.boca.gov.tw/)[Taiwan Tourism Administration](https://www.taiwan.net.tw/)[Taiwan Academy Los Angeles](https://la.us.taiwan.culture.tw/)[Overseas Community Affairs Council](http://www.ocac.gov.tw/)[OCAC E-News](https://ocacnews.net/)[](https://www.taiwancenter.org/en/home#)
 
-友情連結
+Contact Us
 
-[太平洋時報 Pacific-Times](http://www.pacific-times.com/)[美洲台灣日報 Taiwan Daily](https://taiwandaily.net/)[台灣公義報 Taiwan Justice](https://taiwanjustice.net/)[駐洛杉磯台北經濟文化辦事處](https://www.taiwanembassy.org/uslax/index.html)[洛杉磯華僑文教服務中心](http://www.ocac.gov.tw/OCAC/SubSites/Home.aspx?site=96775ef4-842d-4e5b-9491-abf5119661d1)
+Tuesday to Sunday: 10am - 6pm
 
-各地會館
-
-[外交部領事事務局](https://www.boca.gov.tw/)[台灣觀光署](https://www.taiwan.net.tw/)[洛杉磯台灣書院](https://la.us.taiwan.culture.tw/)[僑務委員會](http://www.ocac.gov.tw/)[僑務電子報](https://ocacnews.net/)[](https://www.taiwancenter.org/#)
-
-聯絡我們
-
-週二至週日：10am - 6pm
-
-[tcgla@taiwancenterla.org](mailto:tcgla@taiwancenterla.org)[901 S. Fremont Ave. #118, Alhambra, CA 91803](https://maps.app.goo.gl/YJUmmksbN9Zd3BH97)[(626) 307-4881](tel:+16263074881)[影音使用聲明](https://www.taiwancenter.org/statement)
+[tcgla@taiwancenterla.org](mailto:tcgla@taiwancenterla.org)[901 S. Fremont Ave. #118, Alhambra, CA 91803](https://maps.app.goo.gl/YJUmmksbN9Zd3BH97)[(626) 307-4881](tel:+16263074881)[Statement](https://www.taiwancenter.org/statement)
 
 Copyright © 2026 Taiwan Center: Greater Los Angeles. All Rights Reserved. | Built by [Tenten](https://tenten.co/)

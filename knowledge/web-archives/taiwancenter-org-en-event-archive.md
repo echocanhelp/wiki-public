@@ -1,0 +1,22 @@
+---
+source_url: https://www.taiwancenter.org/en/event-archive
+fetched: 2026-07-16T01:12:07
+method: jina
+---
+
+Title: Event Archive | Taiwan Center of Greater Los Angeles
+
+URL Source: https://www.taiwancenter.org/en/event-archive
+
+Markdown Content:
+[![Image 1: architecture](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c9f/6a587eb8c4ec0c3be51317fa_IMG_6287-s.JPG) ![Image 2: architecture](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c9f/6a587eb8c4ec0c3be51317fa_IMG_6287-s.JPG) #### Miss Taiwanese American Aug 2025 The Miss Taiwanese American Pageant drew major media attention as contestants showcased both beauty and intellect, using the platform to become cultural ambassadors and role models for the Taiwanese American community.](https://www.worldjournal.com/wj/story/121359/8915793)
+
+[![Image 3: architecture](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c9f/6a58788e463a8eb76c2f6ef4_IMG_5409.JPG) ![Image 4: architecture](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c9f/6a58788e463a8eb76c2f6ef4_IMG_5409.JPG) #### 228 Memorial Service Feb 2025 The 2025 228 Memorial focused on "Preserving Sites of Injustice," featuring a virtual lecture by Professor Chen Yi-Shen, Director of Taiwan's Academia Historica. The event included a candlelight ceremony, poster exhibition, choir performance, and the "Little Water Buffalo" program introducing 228 history to second-generation youth.](https://drive.google.com/drive/folders/1wxmM85_6UdsycjNjNf3zq85xCqc2Ql25?usp=drive_link)
+
+[![Image 5: architecture](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c9f/6a587abd8db37049c42e0bfd_IMG_7326.JPG) ![Image 6: architecture](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c9f/6a587abd8db37049c42e0bfd_IMG_7326.JPG) #### Little Water Buffalo: Taiwan History for Kids Feb 2025 A special history program designed for second- and third-generation Taiwanese Americans! The 2023 Miss Taiwanese American shared the story of 228 in English, helping young people understand this important chapter of Taiwan's history in their own language.](https://drive.google.com/drive/folders/1hWweKXNISJWHqH-n2oxYXCS0sk2cGyAK?usp=drive_link)
+
+[![Image 7: architecture](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c9f/6a587ff7a1c73dbddfda0c62_05162026-3-s-tall.JPG) ![Image 8: architecture](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c9f/6a587ff7a1c73dbddfda0c62_05162026-3-s-tall.JPG) #### Taiwanese American Heritage Week Apr 2025 The annual Taiwanese American Heritage Week Festival took place at Barnes Park in Monterey Park, drawing thousands of enthusiastic attendees. Over 20 food and culture booths featured authentic Taiwanese treats—popcorn chicken, rice dumplings, bubble tea, and more—recreating a Taiwanese night market right here in LA.](https://drive.google.com/drive/folders/1UoEnkW142PHimDa3CFAGIDrW8Yjo44zs?usp=drive_link)
+
+[![Image 9: architecture](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c9f/6a587b917143018ed1597019_DSC_0366_Original.JPG) ![Image 10: architecture](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c9f/6a587b917143018ed1597019_DSC_0366_Original.JPG) #### Heritage Week Cultural Delegation Apr 2025 Thanks to the support of Taiwan's Overseas Community Affairs Council, the Taiwan Center has hosted the Heritage Week Cultural Delegation for two consecutive years, bringing Taiwan's finest performing arts to Los Angeles and letting thousands of community members experience home-country culture abroad.](https://drive.google.com/drive/folders/1-fpBznTkEQ4dQ8hy7iMUc4RBi-746oj-?usp=drive_link)
+
+[![Image 11: architecture](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c9f/69369c39f2293df40cbca377_2024%E5%B9%B4%E6%B5%B7%E5%A4%96%E7%95%99%E5%AD%B8%E7%94%9F%E6%84%9F%E6%81%A9%E7%AF%80%E9%A4%90%E6%9C%83.png) ![Image 12: architecture](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c9f/69369c39f2293df40cbca377_2024%E5%B9%B4%E6%B5%B7%E5%A4%96%E7%95%99%E5%AD%B8%E7%94%9F%E6%84%9F%E6%81%A9%E7%AF%80%E9%A4%90%E6%9C%83.png) #### 2024 International Students Thanksgiving Dinner Dec 2024 During this season of gratitude, the Taiwan Center opened its doors to Taiwanese students studying in the U.S. for a warm Thanksgiving celebration. When many students can't make it home for the holidays, the Center becomes their home away from home.](https://drive.google.com/drive/folders/1ajQG8iDxARA4Hr-Q1YDuV-9bJtg0WN6o?usp=drive_link)

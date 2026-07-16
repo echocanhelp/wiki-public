@@ -1,29 +1,35 @@
+---
+source_url: https://www.taiwancenter.org/about-taiwan-school
+fetched: 2026-07-16T01:12:07
+method: jina
+---
+
 Title: 學校簡介｜大洛杉磯台灣會館
 
-URL Source: https://taiwancenter.org/about-taiwan-school
+URL Source: https://www.taiwancenter.org/about-taiwan-school
 
 Markdown Content:
-[![Image 4](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/69295d17b252af7b3230a0eb_TWCLA%20logo.png)](https://taiwancenter.org/)
+[![Image 4](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/69295d17b252af7b3230a0eb_TWCLA%20logo.png)](https://www.taiwancenter.org/)
 
-[![Image 5](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/69295d17b252af7b3230a0eb_TWCLA%20logo.png)](https://taiwancenter.org/about-taiwan-school#)
+[![Image 5](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/69295d17b252af7b3230a0eb_TWCLA%20logo.png)](https://www.taiwancenter.org/about-taiwan-school#)
 
 ![Image 6: icon](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/68a69cbd7fc3be5050e05c9e_close-btn.svg)
 
 關於我們
 
-[會館簡介](https://taiwancenter.org/introduction)[會館設施](https://taiwancenter.org/facility)[會館章程](https://taiwancenter.org/bylaws)[董事會](https://taiwancenter.org/board)[團體會員](https://taiwancenter.org/group-members)
+[會館簡介](https://www.taiwancenter.org/introduction)[會館設施](https://www.taiwancenter.org/facility)[會館章程](https://www.taiwancenter.org/bylaws)[董事會](https://www.taiwancenter.org/board)[團體會員](https://www.taiwancenter.org/group-members)
 
 台灣學校
 
-[學校簡介](https://taiwancenter.org/about-taiwan-school)[課程資訊](https://taiwancenter.org/class-information)
+[學校簡介](https://www.taiwancenter.org/about-taiwan-school)[課程資訊](https://www.taiwancenter.org/class-information)
 
 活動專區
 
-[最新活動公告](https://taiwancenter.org/latest-events)[台美人傳統週](https://www.facebook.com/TAHeritageWeek)[台美小姐](https://www.misstaiwaneseamericanpageant.org/)[表單下載](https://taiwancenter.org/form-download)
+[最新活動公告](https://www.taiwancenter.org/latest-events)[台美人傳統週](https://www.facebook.com/TAHeritageWeek)[台美小姐](https://www.misstaiwaneseamericanpageant.org/)[表單下載](https://www.taiwancenter.org/form-download)
 
 精彩回顧
 
-[會館會訊](https://taiwancenter.org/newsletter)[會館刊物](https://taiwancenter.org/publication)[活動紀錄](https://taiwancenter.org/event-archive)
+[會館會訊](https://www.taiwancenter.org/newsletter)[會館刊物](https://www.taiwancenter.org/publication)[活動紀錄](https://www.taiwancenter.org/event-archive)
 
 相關連結
 
@@ -31,33 +37,33 @@ Markdown Content:
 
 [線上捐款](https://www.charitynavigator.org/ein/954679702#overall-rating-section-2)
 
-[線上捐款](https://www.paypal.com/donate?hosted_button_id=CWVV5DE2WCTFQ)[EN](https://taiwancenter.org/about-taiwan-school#)
+[線上捐款](https://www.paypal.com/donate?hosted_button_id=CWVV5DE2WCTFQ)[EN](https://www.taiwancenter.org/about-taiwan-school#)
 
-[![Image 7](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/69295d17b252af7b3230a0eb_TWCLA%20logo.png)](https://taiwancenter.org/)
+[![Image 7](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/69295d17b252af7b3230a0eb_TWCLA%20logo.png)](https://www.taiwancenter.org/)
 
 ![Image 8: icon](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/68a69cbd7fc3be5050e05c9e_close-btn.svg)
 
 關於我們
 
-[會館簡介](https://taiwancenter.org/introduction)[會館設施](https://taiwancenter.org/facility)[會館章程](https://taiwancenter.org/bylaws)[董事會](https://taiwancenter.org/board)[團體會員](https://taiwancenter.org/group-members)
+[會館簡介](https://www.taiwancenter.org/introduction)[會館設施](https://www.taiwancenter.org/facility)[會館章程](https://www.taiwancenter.org/bylaws)[董事會](https://www.taiwancenter.org/board)[團體會員](https://www.taiwancenter.org/group-members)
 
 台灣學校
 
-[學校簡介](https://taiwancenter.org/about-taiwan-school)[課程資訊](https://taiwancenter.org/class-information)
+[學校簡介](https://www.taiwancenter.org/about-taiwan-school)[課程資訊](https://www.taiwancenter.org/class-information)
 
 活動專區
 
-[最新活動公告](https://taiwancenter.org/latest-events)[台美人傳統週](https://www.facebook.com/TAHeritageWeek)[台美小姐](https://www.misstaiwaneseamericanpageant.org/)[表單下載](https://taiwancenter.org/form-download)
+[最新活動公告](https://www.taiwancenter.org/latest-events)[台美人傳統週](https://www.facebook.com/TAHeritageWeek)[台美小姐](https://www.misstaiwaneseamericanpageant.org/)[表單下載](https://www.taiwancenter.org/form-download)
 
 精彩回顧
 
-[會館會訊](https://taiwancenter.org/newsletter)[會館刊物](https://taiwancenter.org/publication)[活動紀錄](https://taiwancenter.org/event-archive)
+[會館會訊](https://www.taiwancenter.org/newsletter)[會館刊物](https://www.taiwancenter.org/publication)[活動紀錄](https://www.taiwancenter.org/event-archive)
 
 相關連結
 
 [Facebook](https://www.facebook.com/TaiwanCenterLA)[Instagram](https://www.instagram.com/tcgla3001/)[Youtube](https://www.youtube.com/@taiwancenter2973)
 
-[EN](https://taiwancenter.org/facility)[線上捐款](https://www.paypal.com/donate?hosted_button_id=CWVV5DE2WCTFQ)
+[EN](https://www.taiwancenter.org/facility)[線上捐款](https://www.paypal.com/donate?hosted_button_id=CWVV5DE2WCTFQ)
 
 [線上捐款](https://www.charitynavigator.org/ein/954679702#overall-rating-section-2)
 
@@ -79,9 +85,9 @@ about Taiwan School
 
 從語言文化到生活技能，我們相信學習不分年齡，每個人都能在這裡找到屬於自己的成長空間。專業師資、實用課程、溫馨氛圍，讓學習成為生活的一部分。
 
-[Apply Now](https://taiwancenter.org/about-taiwan-school#)
+[Apply Now](https://www.taiwancenter.org/about-taiwan-school#)
 
-[華文班 ![Image 14: Architecture](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/693fb852cbd37d3b81be9a71_asian%20university%20students.jpg) 三位科班資深教師帶領，以實用為導向的華文教學。林淑卿老師畢業於師大中文系，擁有十多年海外教學經驗；施郁麗老師專精外籍人士華文教學；何素美老師主修語言學，專長語言教學法。課程採用台灣原版教材，輔以美國大學華文教材，並根據時令節慶自編教材，讓學習更貼近生活、更有趣味。透過華文學習，深入認識台灣文化的豐富內涵。](https://taiwancenter.org/class-information)[日文班 ![Image 15: Architecture](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/693fbaa24727d093a17f9fe3_a%20japanese%20companys.jpg) 魏博基老師畢業於東京教育大學，在台灣及美國社區大學累積二十多年日文教學經驗。課程從基礎發音開始，涵蓋閱讀、文法、會話、聽寫等全方位訓練，並有兩位助教協助學習。無論是為了日本旅遊、與長輩溝通，或是想深入了解這個與台灣關係密切的國家，這門課都能滿足您的需求。](https://taiwancenter.org/class-information)[電腦班 ![Image 16: Architecture](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/693fbccd1b60ee036f7413ba_a%20photograph%20of%20two%20young%20%40Variation.jpg) 徐士坦老師授課的電腦班廣受歡迎，課程一推出即刻額滿。針對不同程度學員設計實用課程，從基礎操作到進階應用，幫助學員掌握現代數位工具，讓科技成為生活的好幫手。](https://taiwancenter.org/class-information)[蔬食烹飪班 ![Image 17: Architecture](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/6948d5756c1c5a70b5b4dc7d_A%20high-quality%2C%20candid%20%40Variation.jpg) 推廣「吃得好，吃得飽，健康又環保」的飲食理念。九位資深烹飪老師包括營養師、餐廳主廚與烹飪教師，分享健康蔬食料理秘訣。飲食不只是裹腹享受，更是養生之道，為個人健康與地球環境永續盡一份心力。](https://taiwancenter.org/class-information)
+[華文班 ![Image 14: Architecture](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/693fb852cbd37d3b81be9a71_asian%20university%20students.jpg) 三位科班資深教師帶領，以實用為導向的華文教學。林淑卿老師畢業於師大中文系，擁有十多年海外教學經驗；施郁麗老師專精外籍人士華文教學；何素美老師主修語言學，專長語言教學法。課程採用台灣原版教材，輔以美國大學華文教材，並根據時令節慶自編教材，讓學習更貼近生活、更有趣味。透過華文學習，深入認識台灣文化的豐富內涵。](https://www.taiwancenter.org/class-information)[日文班 ![Image 15: Architecture](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/693fbaa24727d093a17f9fe3_a%20japanese%20companys.jpg) 魏博基老師畢業於東京教育大學，在台灣及美國社區大學累積二十多年日文教學經驗。課程從基礎發音開始，涵蓋閱讀、文法、會話、聽寫等全方位訓練，並有兩位助教協助學習。無論是為了日本旅遊、與長輩溝通，或是想深入了解這個與台灣關係密切的國家，這門課都能滿足您的需求。](https://www.taiwancenter.org/class-information)[電腦班 ![Image 16: Architecture](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/693fbccd1b60ee036f7413ba_a%20photograph%20of%20two%20young%20%40Variation.jpg) 徐士坦老師授課的電腦班廣受歡迎，課程一推出即刻額滿。針對不同程度學員設計實用課程，從基礎操作到進階應用，幫助學員掌握現代數位工具，讓科技成為生活的好幫手。](https://www.taiwancenter.org/class-information)[蔬食烹飪班 ![Image 17: Architecture](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/6948d5756c1c5a70b5b4dc7d_A%20high-quality%2C%20candid%20%40Variation.jpg) 推廣「吃得好，吃得飽，健康又環保」的飲食理念。九位資深烹飪老師包括營養師、餐廳主廚與烹飪教師，分享健康蔬食料理秘訣。飲食不只是裹腹享受，更是養生之道，為個人健康與地球環境永續盡一份心力。](https://www.taiwancenter.org/class-information)
 
 ##### Jennifer C., 華文班學員
 
@@ -117,11 +123,11 @@ about Taiwan School
 
 名額有限，課程額滿即止。不要錯過這個與社區朋友一起學習成長的機會。立即報名，開啟您的學習之旅！
 
-[Apply Now](https://taiwancenter.org/about-taiwan-school#)
+[Apply Now](https://www.taiwancenter.org/about-taiwan-school#)
 
 Let's Build Community,
 
-[![Image 27](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/69295d17b252af7b3230a0eb_TWCLA%20logo.png)](https://taiwancenter.org/about-taiwan-school#)
+[![Image 27](https://cdn.prod.website-files.com/68a69cbd7fc3be5050e05c92/69295d17b252af7b3230a0eb_TWCLA%20logo.png)](https://www.taiwancenter.org/about-taiwan-school#)
 Taiwan Center 大洛杉磯台灣會館基金會 - 台灣文化的海外燈塔
 
 Share Culture
@@ -138,12 +144,12 @@ Share Culture
 
 各地會館
 
-[外交部領事事務局](https://www.boca.gov.tw/)[台灣觀光署](https://www.taiwan.net.tw/)[洛杉磯台灣書院](https://la.us.taiwan.culture.tw/)[僑務委員會](http://www.ocac.gov.tw/)[僑務電子報](https://ocacnews.net/)[](https://taiwancenter.org/about-taiwan-school#)
+[外交部領事事務局](https://www.boca.gov.tw/)[台灣觀光署](https://www.taiwan.net.tw/)[洛杉磯台灣書院](https://la.us.taiwan.culture.tw/)[僑務委員會](http://www.ocac.gov.tw/)[僑務電子報](https://ocacnews.net/)[](https://www.taiwancenter.org/about-taiwan-school#)
 
 聯絡我們
 
 週二至週日：10am - 6pm
 
-[tcgla@taiwancenterla.org](mailto:tcgla@taiwancenterla.org)[901 S. Fremont Ave. #118, Alhambra, CA 91803](https://maps.app.goo.gl/YJUmmksbN9Zd3BH97)[(626) 307-4881](tel:+16263074881)[影音使用聲明](https://taiwancenter.org/statement)
+[tcgla@taiwancenterla.org](mailto:tcgla@taiwancenterla.org)[901 S. Fremont Ave. #118, Alhambra, CA 91803](https://maps.app.goo.gl/YJUmmksbN9Zd3BH97)[(626) 307-4881](tel:+16263074881)[影音使用聲明](https://www.taiwancenter.org/statement)
 
 Copyright © 2026 Taiwan Center: Greater Los Angeles. All Rights Reserved. | Built by [Tenten](https://tenten.co/)

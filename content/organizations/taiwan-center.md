@@ -77,14 +77,13 @@ Collection described as **10,000+ volumes** (art, history, fiction, music, langu
 
 ## Source Notes and Confidence
 
-- **A-tier:** Official site pages archived 2026-07-15 via Jina reader: home, introduction, facility, about-taiwan-school, board  
-  - `knowledge/web-archives/taiwancenter-org-home.md`  
-  - `knowledge/web-archives/taiwancenter-org-introduction.md`  
-  - `knowledge/web-archives/taiwancenter-org-facility.md`  
-  - `knowledge/web-archives/taiwancenter-org-about-taiwan-school.md`  
-  - `knowledge/web-archives/taiwancenter-org-board.md`  
-- **Needs verification:** Exact street address, current board officer names (board page should be re-checked before naming individuals), construction timeline details  
-
+- **A-tier:** Full-domain archive 2026-07-15 via Jina reader:
+  - **Manifest:** `knowledge/web-archives/taiwancenter-org-MANIFEST.json` (**38** URLs, ~460KB total)
+  - **Method:** `sitemap.xml` + event discovery from home / latest-events / event-archive
+  - **Includes:** ZH core pages, EN mirrors (`/en/*`), bylaws, board, group-members, school/class, facility, forms, newsletter, publication, statement, event listing + individual event pages (2025–2026 gala, TAHW, 228, construction, etc.)
+  - Files: `knowledge/web-archives/taiwancenter-org-*.md`
+- **Not archived:** external hosts only (Facebook, Instagram, YouTube, PayPal, Charity Navigator, Google Drive newsletter PDFs, Miss Taiwanese American site)
+- **Needs verification:** Exact street address; current officer names before citing individuals from board page
 ## Related Pages
 
 - [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
