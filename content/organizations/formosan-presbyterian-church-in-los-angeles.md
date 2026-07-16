@@ -218,6 +218,7 @@ The church served as a space where Formosan immigrants could negotiate their ide
 ## Related Pages
 
 - [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
+- [[sources/toward-a-community-of-hope|Toward A Community of Hope (work & full-text links)]]
 - [[people/chaolong-kao|Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)]]
 - [[people/daniel-kao|Dr. Daniel Kao (高光民)]]
 - [[people/c-c-chen|Dr. C.C. Chen (陳昭俊)]]

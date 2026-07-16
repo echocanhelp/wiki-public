@@ -16,7 +16,7 @@ last_reviewed: 2026-07-15
 ---
 # Dr. Albert S. Lai (賴信雄)
 
-**Dr. Albert S. Lai (賴信雄, Lai Sin-hiong)** is a Taiwanese American pastor, theologian, and institution-builder who helped establish the first Taiwanese Presbyterian Church in North America and authored the landmark 1971 dissertation *Toward A Community of Hope — A Mission to Formosan Community in Los Angeles*, reprinted in 2025 with a 50th anniversary foreword.
+**Dr. Albert S. Lai (賴信雄, Lai Sin-hiong)** is a Taiwanese American pastor, theologian, and institution-builder who helped establish the first Taiwanese Presbyterian Church in North America and authored the landmark 1971 dissertation [[sources/toward-a-community-of-hope|Toward A Community of Hope — A Mission to Formosan Community in Los Angeles]], reprinted in 2025 with a 50th anniversary foreword.
 
 ## Identity Snapshot
 
@@ -28,18 +28,21 @@ last_reviewed: 2026-07-15
 
 ## Historical Context
 
-Dr. Lai's life and work sit at the intersection of migration-era pastoral care and institution formation. In 1970, he participated in the founding of the Formosan Presbyterian Church in Los Angeles (FPCLA), the first Taiwanese church in North America. In 1971, he produced a doctoral dissertation that connected historical memory, migration pressure, identity tension, and communal mission. His work remains a foundational reference for Taiwanese American church history.
+Dr. Lai's life and work sit at the intersection of migration-era pastoral care and institution formation. In 1970, he participated in the founding of the [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]], the first Taiwanese church in North America. In 1971, he produced a doctoral dissertation that connected historical memory, migration pressure, identity tension, and communal mission. His work remains a foundational reference for Taiwanese American church history.
 
 ## FPCLA Founding (1970)
 
-Dr. Lai was among the enthusiastic believers who co-founded FPCLA under the theology and system of the United Presbyterian Church (UPCUSA, now PC(USA)). The founding involved:
+Dr. Lai was among the enthusiastic believers who co-founded [[organizations/formosan-presbyterian-church-in-los-angeles|FPCLA]] under the theology and system of the United Presbyterian Church (UPCUSA, now PC(USA)). The founding involved:
 
-- **Co-founders:** Dr. & Mrs. Daniel Kao (高光民), Dr. & Mrs. C. C. Chen (陳昭俊), Mr. & Mrs. Norman Hsu (許彬), Dr. & Mrs. Isiah Lee (李宗派), Dr. & Mrs. Joseph T. C. Lu (盧俊哲), Mr. & Mrs. Morris Chen (陳茂雄), Mr. & Mrs. George Chen (陳進琛), Dr. & Mrs. Sze-Ya Yeh (葉思雅), Mr. & Mrs. Wang Chun Hsiung (王春雄), Dr. & Mrs. Jang Yan Wu (吳政彥), Dr. Wen-Cho Yang (楊哲), Dr. & Mrs. Justin Chen (陳有義), Meiling Lai (賴美玲), Michael Chen (陳明章), and others
+- **Co-founders:** [[people/daniel-kao|Dr. & Mrs. Daniel Kao (高光民)]], [[people/c-c-chen|Dr. & Mrs. C. C. Chen (陳昭俊)]], Mr. & Mrs. Norman Hsu (許彬), Dr. & Mrs. Isiah Lee (李宗派), Dr. & Mrs. Joseph T. C. Lu (盧俊哲), Mr. & Mrs. Morris Chen (陳茂雄), Mr. & Mrs. George Chen (陳進琛), Dr. & Mrs. Sze-Ya Yeh (葉思雅), Mr. & Mrs. Wang Chun Hsiung (王春雄), Dr. & Mrs. Jang Yan Wu (吳政彥), Dr. Wen-Cho Yang (楊哲), Dr. & Mrs. Justin Chen (陳有義), Meiling Lai (賴美玲), Michael Chen (陳明章), and others
 - **Supporting pastors and elders:** From the UPCUSA system including San Francisco Theological Seminary, the General Assembly of the United Presbyterian Church, the Southern California/Hawaii Presbytery, and the Pacific Presbytery
-- **Organizing Pastor:** Dr. Chaolong Kao (高昭龍), born 1932, graduated from TTCS, sent to study in the US by President Shoki Coe, returned to teach at TTCS where Dr. Lai was a second-year student
-- **Predecessor experiment:** "Taiyou Church" (太陽教會), an experimental church started by Rev. Jonah Chang (張瑞雄) at a Japanese Methodist church facility in 1967
+- **Organizing Pastor:** [[people/chaolong-kao|Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)]] — former TTCS faculty / Harvard Visiting Scholar; called by Presbytery of Los Angeles Southwest (Sep 1971). Distinct from co-founder Daniel Kao.
+- **Predecessor experiment:** "Taiyou Church" (太陽教會) and the Aug 1970 experimental worship led by [[people/jonah-chang|Rev. Jonah Chang (張瑞雄)]]
 
 ## Dissertation: *Toward A Community of Hope* (1971)
+
+> **Primary work page:** [[sources/toward-a-community-of-hope|Toward A Community of Hope (work & sources)]]  
+> **Full text (GitHub archive):** [complete extract](https://github.com/echocanhelp/wiki-public/blob/gh-pages/knowledge/web-archives/albert-lai-toward-community-of-hope.md) · [fact sheet](https://github.com/echocanhelp/wiki-public/blob/gh-pages/knowledge/research/albert-lai-facts.md)
 
 Dr. Lai's doctoral dissertation at San Francisco Theological Seminary was titled *Toward A Community of Hope — A Mission to Formosan Community in Los Angeles*. It was:
 
@@ -48,9 +51,11 @@ Dr. Lai's doctoral dissertation at San Francisco Theological Seminary was titled
 - **Vision:** The church as a "hopeful community" — not a safe retreat for insiders, but a dynamic body for the hope of the world, choosing love in adversity, service in marginality, and witness in brokenness
 - **Significance:** The first Taiwanese church in North America; FPCLA did not exist merely to bridge linguistic or cultural gaps but sought to become a "mission base" in the local community
 
+See also the [[organizations/formosan-presbyterian-church-in-los-angeles|FPCLA]] page for Chapter IV founding timeline, budget, membership, and activities.
+
 ## 50th Anniversary Republication (2025)
 
-In 2025, the dissertation was reprinted with a 50th anniversary foreword by Dr. Yunching Yeh Davis (NTPC Moderator), along with forewords from the PCT, NTPC Historical Committee, Rev. Mingyuan Hsu (Good Shepherd TPC), and Rev. Pinghsi Liu (Tainan East Gate Barclay Memorial Church). The republication was published by Taiwan Church Press and the Incorporated Association of Tainan East Gate Barclay History Education Promotion.
+In 2025, the dissertation was reprinted with a 50th anniversary foreword by [[people/yunching-yeh-davis|Dr. Yunching Yeh Davis]] (NTPC Moderator), along with forewords from the PCT ([[people/en-sheng-pan|Rev. En Sheng Pan]]), [[organizations/national-taiwanese-presbyterian-council|NTPC]] Historical Committee ([[people/ching-fang-chen|Rev. Ching Fang Chen]]), [[people/mingyuan-hsu|Rev. Mingyuan Hsu]] (Good Shepherd TPC), and [[people/pinghsi-liu|Rev. Pinghsi Liu]] (Tainan East Gate Barclay Memorial Church). The republication was published by Taiwan Church Press and the Incorporated Association of Tainan East Gate Barclay History Education Promotion.
 
 ### Self-Preface (May 2025)
 
@@ -255,6 +260,7 @@ Dr. Lai's dissertation, written in 1971, is described as "not only a profound de
 
 ## Related Pages
 
+- [[sources/toward-a-community-of-hope|Toward A Community of Hope (work & full-text links)]]
 - [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
 - [[people/chaolong-kao|Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)]]
 - [[people/daniel-kao|Dr. Daniel Kao (高光民)]]
