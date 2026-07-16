@@ -1,211 +1,154 @@
 # Echopedia User Manual
 
-**This is your single starting point** for understanding and changing the system.
+**Start here.** Humans use this file. **Local workers use [WORKER.md](WORKER.md)** (numbered playbooks only).
 
-If you only open one file, open **this one**. Everything else is linked from here.
+| Doc | Who | Role |
+|------|-----|------|
+| **[USER_MANUAL.md](USER_MANUAL.md)** (this) | Human + smart model | How the system works; how to assign work |
+| **[WORKER.md](WORKER.md)** | Local worker model | Execute one playbook, no design |
+| [WHERE_WE_ARE.md](WHERE_WE_ARE.md) | Both (read) | Built vs remains |
+| [SYSTEM_STATUS.md](SYSTEM_STATUS.md) | Both (read) | Live health (auto) |
+| skill `echopedia-ops` | Agent | Routing map |
+| [standards.json](standards.json) | Both | Autonomy switches + version |
 
-| Path | Role |
-|------|------|
-| **This manual** | How to operate & change the system |
-| [WHERE_WE_ARE.md](WHERE_WE_ARE.md) | What’s built / what remains (mission) |
-| [SYSTEM_STATUS.md](SYSTEM_STATUS.md) | Live health (auto-generated) |
-| skill `echopedia-ops` | Agent routing map (load first) |
-| [standards.json](standards.json) | Rules + autonomy switches |
-
-Vault root: `~/echo-system` · Scripts: `~/.hermes/scripts/echopedia-*` · Live site: https://echocanhelp.github.io/wiki-public/
-
----
-
-## 1. What this system is
-
-Echopedia is TAHS’s wiki plus an **automated operating layer**:
-
-- **Wiki content** → `content/people|organizations|sources/` → Quartz → GitHub Pages  
-- **Knowledge (not all public)** → `knowledge/` (archives, fact sheets, interactions, logs)  
-- **Agent map** → Hermes skill `echopedia-ops`  
-- **Nightly machine** → janitor, audit, **ci-heal** (heal + optional auto-push)  
-- **Morning brief** → `echopedia-digest` (Telegram/admin)
-
-You do **not** need to remember every script. You need this manual + the three docs above.
+Vault: `/home/leedt/echo-system` · Live: https://echocanhelp.github.io/wiki-public/
 
 ---
 
-## 2. Daily / weekly check (human)
+## Division of labor
+
+| Role | Does | Does not |
+|------|------|----------|
+| **You (human)** | Goals, approve plans, flip autonomy flags | Run every shell command |
+| **Smart model (frontier)** | Orient, plan, improve playbooks/skills, hard debug | Nightly bulk rewrite |
+| **Worker (local)** | Run **one** WORKER.md playbook exactly | Invent process, invent bios, redesign |
+
+---
+
+## Prompt the worker (copy-paste)
+
+Always name a playbook ID from WORKER.md:
+
+```text
+Open /home/leedt/echo-system/echopedia/WORKER.md
+Run playbook P0 only.
+End with the Report template. STOP.
+```
+
+```text
+WORKER.md playbook P3 PATH=people/jonah-chang.md
+No publish. Report. STOP.
+```
+
+```text
+WORKER.md playbook P5 live. Report. STOP.
+```
+
+```text
+WORKER.md playbook P6 set l3_auto_push_on_green=false
+Report. STOP.
+```
+
+```text
+WORKER.md P2 push. Then Report. STOP.
+```
+
+**Bad prompts for workers:** “improve linking across the wiki”, “figure out the best architecture”, “make it better”.  
+**Good:** playbook ID + path + push/no-push.
+
+---
+
+## Prompt the smart model (planning)
+
+```text
+Follow USER_MANUAL. You are planner (not worker).
+1) Read WHERE_WE_ARE + SYSTEM_STATUS + standards autonomy
+2) skill_view echopedia-ops if topology matters
+3) Propose: which WORKER playbook(s) in order, or skill patch if process change
+4) Do not implement until I say go — unless I said implement
+Topic: <...>
+```
+
+```text
+Implement: assign worker playbooks P3 for these paths: ...
+Then P2 commit only. You may run them or emit exact worker prompts.
+```
+
+---
+
+## Autonomy switches (no thinking required)
+
+Edit `/home/leedt/echo-system/echopedia/standards.json` key `autonomy`, **or** worker **P6**:
+
+| Flag | true means |
+|------|------------|
+| `l2_auto_publish_on_drift` | Nightly rebuild HTML trees when MD newer |
+| `l2_auto_drain_on_ci` | Nightly programmable queue drain |
+| `l2_auto_commit_on_heal` | Commit heal results |
+| `l3_auto_push_on_green` | Push gh-pages when ops+drift+smoke green |
+
+Turn off all auto-push: P6 `l3_auto_push_on_green=false`.
+
+Nightly: 04:00 janitor+audit · **04:15 ci-heal** · Mon 05:00 weekly · 09:00 digest.
+
+---
+
+## What the machine already does (don’t re-ask)
+
+- Sense queue, audit, drift, smoke  
+- Heal drift + optional push (L2/L3)  
+- Morning digest with briefs  
+
+You only intervene for content judgment, new sources, process design, or red alerts.
+
+---
+
+## Human daily check
 
 ```bash
-# Morning or when curious
-cat ~/echo-system/echopedia/SYSTEM_STATUS.md
-cat ~/echo-system/echopedia/WHERE_WE_ARE.md   # when planning work, not every day
-
-# If digest said FAIL / ACTION
-bash ~/.hermes/scripts/echopedia-ops-check.sh
-bash ~/.hermes/scripts/echopedia-ci-heal.sh --dry-run
-ls ~/echo-system/knowledge/operational/incidents/
-```
-
-**Healthy:** silent crons, digest without FAIL, `last good deploy` recent, uncommitted ≈ 0.  
-**Unhealthy:** open incidents, CI_STATUS FAIL, drift ACTION that won’t clear, ops FAIL.
-
----
-
-## 3. How to talk to the agent (copy-paste)
-
-### Always for system work
-
-```text
-Follow the Echopedia User Manual (echopedia/USER_MANUAL.md).
-
-1) Orient: skill_view(echopedia-ops), read WHERE_WE_ARE + SYSTEM_STATUS + standards.json autonomy
-2) Summarize control points and risks
-3) Plan only — wait for my go unless I said implement
-```
-
-### Content work (pages, ingest, links)
-
-```text
-Echopedia content work per USER_MANUAL + echopedia-ops first.
-Then: large-document-ingestion if big file, else echopedia-ingestion-protocol.
-No invented bios. First-mention links + sources callouts. Publish via echopedia-publish.sh.
-```
-
-### Change automation / autonomy
-
-```text
-Per USER_MANUAL § Changes.
-Orient first. Prefer a flag in standards.json autonomy over a new cron.
-Verify with ops-check and ci-heal --dry-run. Document topology in ops; mission shift in WHERE_WE_ARE.
-```
-
-### Something broken
-
-```text
-Per USER_MANUAL § Troubleshooting.
-Read SYSTEM_STATUS, ci-heal-brief, incidents. Run ops-check. Diagnose from script output. No drive-by refactors.
+cat /home/leedt/echo-system/echopedia/SYSTEM_STATUS.md
+# if FAIL/ACTION:
+bash /home/leedt/.hermes/scripts/echopedia-ops-check.sh
+bash /home/leedt/.hermes/scripts/echopedia-ci-heal.sh --dry-run
 ```
 
 ---
 
-## 4. Point of control (what to change for what)
+## Troubleshooting → playbook
 
-| I want to… | Change this |
-|------------|-------------|
-| Turn off auto-push to GitHub | `standards.json` → `autonomy.l3_auto_push_on_green: false` |
-| Turn off auto rebuild on drift | `autonomy.l2_auto_publish_on_drift: false` |
-| Turn off nightly queue drain in CI | `autonomy.l2_auto_drain_on_ci: false` |
-| Force resweep of pages after new rules | Bump `standards.json` **`version`** |
-| Change how pages are written/linked | Skill `echopedia-ingestion-protocol` / `wiki-linking` |
-| Change large PDF process | Skill `large-document-ingestion` |
-| Change routing / which script is official | Skill `echopedia-ops` |
-| Mission “built vs remains” narrative | `WHERE_WE_ARE.md` |
-| Live health snapshot | Auto → `SYSTEM_STATUS.md` (don’t hand-edit forever) |
-| One-line agent preference | MEMORY only (tiny) |
-| Task list | kanban |
-
-**Behavior knobs = `standards.json`.**  
-**Navigation = this manual + `echopedia-ops`.**
+| Symptom | Playbook |
+|---------|----------|
+| Don’t know state | **P0** |
+| Ops/drift/smoke check | **P1** |
+| Site HTML stale | **P2** or **P5** |
+| One page bad links | **P3** |
+| Janitor queue | **P4** |
+| Full auto heal | **P5** |
+| Disable push | **P6** |
+| Meta reports | **P7** |
 
 ---
 
-## 5. Making changes (correct sequence)
+## Document ownership
 
-```
-1. Orient (manual §3 prompt)
-2. Plan (files, SoT, verify, rollback, standards bump?)
-3. You say “go”
-4. Implement ONE canon place
-5. Verify: ops-check, hygiene, publish --check / ci-heal --dry-run
-6. If rules/autonomy changed → bump standards version
-7. If topology/cron/mission changed → ops + WHERE_WE_ARE
-8. Report: what changed, how to disable, verify output
-```
-
-### Do / don’t
-
-| Do | Don’t |
-|----|--------|
-| Start from **this manual** | Start from a random script name in chat |
-| Prefer flags over new permanent jobs | Add a 5th publish script |
-| Programmable heal before agent rewrite | Frontier model rewriting wiki at 4 AM |
-| Tree copy publish (`echopedia-publish.sh`) | Flatten HTML to repo root |
-| One lesson → one skill | Copy procedures into MEMORY and three READMEs |
+| Change | Update |
+|--------|--------|
+| How human assigns work | **USER_MANUAL** |
+| Exact worker steps | **WORKER.md** |
+| Mission built/remains | **WHERE_WE_ARE** |
+| Live health | auto **SYSTEM_STATUS** |
+| Official script list / routing | skill **echopedia-ops** |
+| Behavior flags | **standards.json** (+ version bump) |
 
 ---
 
-## 6. Autonomy levels (what the machine does alone)
+## Contract
 
-| Level | Does | Does not |
-|-------|------|----------|
-| **L1** | Sense + brief | Fix |
-| **L2** (on) | Drift → rebuild; optional drain; commit heal | Invent bios |
-| **L3** (on) | Push `gh-pages` when ops≠FAIL, drift OK, smoke OK | Push when red |
-
-Schedule: **04:15** `echopedia-ci-heal`. Details: `WHERE_WE_ARE.md`, skill ops.
+1. Humans start at **USER_MANUAL**.  
+2. Workers execute only **WORKER.md** playbooks.  
+3. Smart models plan and improve playbooks; they don’t dump philosophy into the worker context mid-task.  
+4. One lesson → one place (skill **or** WORKER step **or** script)—not all three.
 
 ---
 
-## 7. Common tasks (commands)
-
-```bash
-# Health
-bash ~/.hermes/scripts/echopedia-ops-check.sh
-bash ~/.hermes/scripts/echopedia-system-status.sh
-
-# Links on one page
-python3 ~/.hermes/scripts/echopedia-link-hygiene.py --path people/albert-s-lai.md
-
-# Publish (build + tree copy; optional commit/push)
-bash ~/.hermes/scripts/echopedia-publish.sh --check
-bash ~/.hermes/scripts/echopedia-publish.sh --push -m "your message"
-
-# Full L2/L3 cycle (or dry-run)
-bash ~/.hermes/scripts/echopedia-ci-heal.sh --dry-run
-bash ~/.hermes/scripts/echopedia-ci-heal.sh
-
-# Improvement pack + programmable drain
-bash ~/.hermes/scripts/echopedia-improvement-collect.sh --drain
-
-# New dissertation/work page stub
-python3 ~/.hermes/scripts/echopedia-source-stub.py --help
-```
-
----
-
-## 8. Troubleshooting
-
-| Symptom | Check |
-|---------|--------|
-| Site stale | `deploy-drift.sh` → `publish.sh` or wait for 04:15 ci-heal |
-| Auto-push unwanted | `l3_auto_push_on_green: false` |
-| Cron errors | `hermes cron list`; `knowledge/operational/incidents/` |
-| Agent ignores process | Remind: “USER_MANUAL + echopedia-ops first” |
-| Don’t know what’s left | `WHERE_WE_ARE.md` |
-| Don’t know if healthy | `SYSTEM_STATUS.md` |
-| Map vs scripts disagree | `ops-check.sh` |
-
----
-
-## 9. Document map (anti-scatter)
-
-```
-USER_MANUAL.md          ← you start here (this file)
-├── WHERE_WE_ARE.md     ← mission narrative
-├── SYSTEM_STATUS.md    ← auto health
-├── standards.json      ← switches + version
-├── *-brief.md          ← last night’s work
-└── (agent) echopedia-ops → canon skills → scripts
-```
-
-Update **this manual** when: how a *human* should operate changes.  
-Update **WHERE_WE_ARE** when: built/remains story changes.  
-Update **ops** when: topology/scripts/crons change.  
-Leave **SYSTEM_STATUS** to automation.
-
----
-
-## 10. One-line contract
-
-> **Start from the User Manual → orient on WHERE_WE_ARE + SYSTEM_STATUS + ops + standards → plan → one canon change → verify with scripts → document only the map/mission if topology or story changed.**
-
----
-
-*Maintainer note: keep this file short enough to read in 5 minutes. Link out; don’t paste full skill text here.*
+*Keep USER_MANUAL short. Put execution detail only in WORKER.md.*

@@ -29,6 +29,7 @@ Executable protocols live in **Hermes skills**, not scattered in chat or MEMORY:
 | Hub | Path |
 |-----|------|
 | **User entry** | `echopedia/USER_MANUAL.md` |
+| **Worker playbooks** | `echopedia/WORKER.md` |
 | **Map (load first)** | skill `echopedia-ops` |
 | **Mission / remains** | `echopedia/WHERE_WE_ARE.md` |
 | **Live machine status** | `echopedia/SYSTEM_STATUS.md` (auto) |

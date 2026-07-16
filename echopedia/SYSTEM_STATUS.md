@@ -1,9 +1,10 @@
 # Echopedia System Status
 
-*Generated: 2026-07-15 22:10 PDT*
+*Generated: 2026-07-15 22:16 PDT*
 
 ## Orientation
 - **User manual (start here):** [USER_MANUAL.md](USER_MANUAL.md)
+- **Worker playbooks:** [WORKER.md](WORKER.md)
 - **Mission / remains:** [WHERE_WE_ARE.md](WHERE_WE_ARE.md)
 - **This file:** auto machine snapshot (refreshed by system-status / ci-heal)
 
@@ -17,7 +18,7 @@
 ## Content
 - **Markdown pages:** 65
 - **Janitor queue depth:** 5
-- **Uncommitted files:** 3
+- **Uncommitted files:** 5
 
 ## What runs automatically
 | When | Job | Role |
@@ -46,19 +47,19 @@ Load skill **echopedia-ops** first for any wiki work.
 ```
     Name:      unified-watchdog
     Schedule:  every 30m
-    Last run:  2026-07-15T21:42:15.057924-07:00  ok
+    Last run:  2026-07-15T22:12:15.787174-07:00  ok
     Name:      echopedia-digest
     Schedule:  0 9 * * *
     Last run:  2026-07-15T09:00:52.399312-07:00  ok
     Name:      kanban-sync
     Schedule:  every 30m
-    Last run:  2026-07-15T21:40:15.038749-07:00  ok
+    Last run:  2026-07-15T22:10:15.706740-07:00  ok
     Name:      memory-audit
     Schedule:  0 5 * * *
     Last run:  2026-07-15T05:00:46.321292-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-07-15T22:09:15.685035-07:00  ok
+    Last run:  2026-07-15T22:15:15.864081-07:00  ok
     Name:      echopedia-nightly-audit
     Schedule:  0 4 * * *
     Last run:  2026-07-15T04:01:14.905422-07:00  ok
