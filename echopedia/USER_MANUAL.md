@@ -182,6 +182,7 @@ bash /home/leedt/.hermes/scripts/echopedia-ci-heal.sh --dry-run
 | Full auto heal | **P5** |
 | Disable push | **P6** |
 | Meta reports | **P7** |
+| Content mismatch (live ≠ repo) | **P5** + `references/ui-discrepancy-investigation.md` |
 
 ---
 
