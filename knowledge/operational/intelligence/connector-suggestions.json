@@ -1,0 +1,294 @@
+{
+  "suggestions": [
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "formosan-presbyterian-church-in-los-angeles.md",
+        "albert-s-lai.md"
+      ],
+      "reason": "Both link to people/jonah-chang"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "formosan-presbyterian-church-in-los-angeles.md",
+        "national-taiwanese-presbyterian-council.md"
+      ],
+      "reason": "Both link to people/albert-s-lai"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "formosan-presbyterian-church-in-los-angeles.md",
+        "chaolong-kao.md"
+      ],
+      "reason": "Both link to people/shoki-coe"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "albert-s-lai.md",
+        "chaolong-kao.md"
+      ],
+      "reason": "Both link to people/shoki-coe"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "formosan-presbyterian-church-in-los-angeles.md",
+        "good-shepherd-taiwanese-presbyterian-church.md"
+      ],
+      "reason": "Both link to organizations/presbyterian-church-in-taiwan"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "good-shepherd-taiwanese-presbyterian-church.md",
+        "ching-fang-chen.md"
+      ],
+      "reason": "Both link to people/david-huang"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "good-shepherd-taiwanese-presbyterian-church.md",
+        "irvine-taiwanese-presbyterian-church.md"
+      ],
+      "reason": "Both link to people/chen-meihui"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "good-shepherd-taiwanese-presbyterian-church.md",
+        "li-furen.md"
+      ],
+      "reason": "Both link to people/chen-meihui"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "irvine-taiwanese-presbyterian-church.md",
+        "li-furen.md"
+      ],
+      "reason": "Both link to people/chen-meihui"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "good-shepherd-taiwanese-presbyterian-church.md",
+        "taiwan-center.md"
+      ],
+      "reason": "Both link to organizations/taiwanese-american-historical-society"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "good-shepherd-taiwanese-presbyterian-church.md",
+        "taiwan-formosa.md"
+      ],
+      "reason": "Both link to organizations/taiwanese-american-historical-society"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "good-shepherd-taiwanese-presbyterian-church.md",
+        "david-lee.md"
+      ],
+      "reason": "Both link to organizations/taiwanese-american-historical-society"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "taiwan-center.md",
+        "taiwan-formosa.md"
+      ],
+      "reason": "Both link to organizations/taiwanese-american-historical-society"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "taiwan-center.md",
+        "david-lee.md"
+      ],
+      "reason": "Both link to organizations/taiwanese-american-historical-society"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "taiwan-formosa.md",
+        "david-lee.md"
+      ],
+      "reason": "Both link to organizations/taiwanese-american-historical-society"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "irvine-taiwanese-presbyterian-church.md",
+        "chen-meihui.md"
+      ],
+      "reason": "Both link to people/zhang-xuanxin"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "chen-meihui.md",
+        "li-furen.md"
+      ],
+      "reason": "Both link to people/zhang-xuanxin"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "national-taiwanese-presbyterian-council.md",
+        "albert-s-lai.md"
+      ],
+      "reason": "Both link to organizations/formosan-presbyterian-church-in-los-angeles"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "presbyterian-church-in-taiwan.md",
+        "alexander-macdonald.md"
+      ],
+      "reason": "Both link to organizations/good-shepherd-taiwanese-presbyterian-church"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "presbyterian-church-in-taiwan.md",
+        "cai-weiren.md"
+      ],
+      "reason": "Both link to organizations/good-shepherd-taiwanese-presbyterian-church"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "alexander-macdonald.md",
+        "cai-weiren.md"
+      ],
+      "reason": "Both link to organizations/good-shepherd-taiwanese-presbyterian-church"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "taiwan-center.md",
+        "ken-wu.md"
+      ],
+      "reason": "Both link to people/alan-thian"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "taiwan-center.md",
+        "rex-chen.md"
+      ],
+      "reason": "Both link to people/ken-wu"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "taiwan-center.md",
+        "he-sumei.md"
+      ],
+      "reason": "Both link to people/april-lin"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "taiwan-center.md",
+        "shi-yuli.md"
+      ],
+      "reason": "Both link to people/april-lin"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "he-sumei.md",
+        "shi-yuli.md"
+      ],
+      "reason": "Both link to people/april-lin"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "chen-meihui.md",
+        "guo-yingyan.md"
+      ],
+      "reason": "Both link to organizations/irvine-taiwanese-presbyterian-church"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "guo-yingyan.md",
+        "li-furen.md"
+      ],
+      "reason": "Both link to organizations/irvine-taiwanese-presbyterian-church"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "david-huang.md",
+        "lien-hwa-chow.md"
+      ],
+      "reason": "Both link to people/ntpc"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "david-huang.md",
+        "mingyuan-hsu.md"
+      ],
+      "reason": "Both link to people/ntpc"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "lien-hwa-chow.md",
+        "mingyuan-hsu.md"
+      ],
+      "reason": "Both link to people/ntpc"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "david-lee.md",
+        "ken-wu.md"
+      ],
+      "reason": "Both link to people/leonard-hsu-jr"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "david-lee.md",
+        "rex-chen.md"
+      ],
+      "reason": "Both link to people/leonard-hsu-jr"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "ken-wu.md",
+        "rex-chen.md"
+      ],
+      "reason": "Both link to people/leonard-hsu-jr"
+    }
+  ],
+  "orphan_folders": [
+    {
+      "type": "ORPHAN_FOLDER",
+      "folder": "organizations",
+      "reason": "85 pages, avg 6.0 links each, 0 internal links"
+    },
+    {
+      "type": "ORPHAN_FOLDER",
+      "folder": "people",
+      "reason": "84 pages, avg 5.2 links each, 4 internal links"
+    },
+    {
+      "type": "ORPHAN_FOLDER",
+      "folder": "events",
+      "reason": "10 pages, avg 4.0 links each, 0 internal links"
+    }
+  ],
+  "total_pages": 184
+}

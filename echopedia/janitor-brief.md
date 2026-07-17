@@ -1,12 +1,12 @@
-## Echopedia Janitor — 2026-07-16
+## Echopedia Janitor — 2026-07-17
 - Standards v5
 - Pages with findings: **28**
 - Queued tonight (max 5): **5**
 - Queue:
-  - `people/li-furen.md` age≈3.5d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
-  - `organizations/ntpc.md` age≈8.5d · LINK_UNLINKED_ENTITY
-  - `people/zhang-xuanxin.md` age≈8.5d · LINK_UNLINKED_ENTITY
-  - `people/zheng-quansheng.md` age≈8.5d · LINK_UNLINKED_ENTITY
-  - `people/choan-seng-song.md` age≈8.5d · LINK_UNLINKED_ENTITY
-- Log: `knowledge/operational/janitor-log/2026-07-16.jsonl`
+  - `people/li-furen.md` age≈4.5d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
+  - `organizations/ntpc.md` age≈9.5d · LINK_UNLINKED_ENTITY
+  - `people/zhang-xuanxin.md` age≈9.5d · LINK_UNLINKED_ENTITY
+  - `people/zheng-quansheng.md` age≈9.5d · LINK_UNLINKED_ENTITY
+  - `people/choan-seng-song.md` age≈9.5d · LINK_UNLINKED_ENTITY
+- Log: `knowledge/operational/janitor-log/2026-07-17.jsonl`
 - Agent auto-apply: **False** (local pin only if enabled)

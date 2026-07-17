@@ -1,5 +1,5 @@
-## CI heal — 2026-07-16
-- Started: 2026-07-16T04:15:42-07:00
+## CI heal — 2026-07-17
+- Started: 2026-07-17T04:15:43-07:00
 - dry_run=0 l2_drift=True l2_drain=True l3_push=True
 
 - OPS_WARN: legacy script still present (prefer echopedia-publish.sh): echopedia_publish_loop.py
@@ -12,20 +12,11 @@
 - DRAIN: people/zheng-quansheng.md → ['NO_SAFE_ACT (needs human/agent for body links)']
 - DRAIN: people/choan-seng-song.md → ['NO_SAFE_ACT (needs human/agent for body links)']
 - DRAIN_SUMMARY: items=5
-- DRIFT_SUMMARY: stale=0 missing_html=0
-- DRIFT_STATUS: OK
-- broken_wikilink_hits≈24 (max_green=0)
+- DRIFT_SUMMARY: stale=0 missing_html=2
+- DRIFT_STATUS: ACTION — run: bash ~/.hermes/scripts/echopedia-publish.sh
+- PUBLISH_STATUS: OK
+- post-publish drift: OK
+- broken_wikilink_hits≈14 (max_green=0)
 - SMOKE_SUMMARY: ok=3 fail=0
 - SMOKE_STATUS: OK
 - **green=1**
-- committed heal
-- PUBLISH_STATUS: OK
-- **L3 pushed** `f8927e1`
-
-### Actions
-- CI: ops-check WARN
-- CI: queue-drain done
-- CI: drift OK
-- CI: smoke OK
-- CI: committed heal
-- CI: L3 pushed f8927e1
