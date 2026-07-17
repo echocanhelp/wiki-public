@@ -44,7 +44,7 @@ tags:
 
 <div class="echo-card">
   <h3><a href="./people/albert-s-lai">Dr. Albert S. Lai (賴信雄)</a></h3>
-  <p>Physician, community voice, and extensively documented TAHS oral-history subject.</p>
+  <p>Pastor, theologian, and institution-builder who helped establish the first Taiwanese Presbyterian Church in North America.</p>
 </div>
 
 <div class="echo-card">
