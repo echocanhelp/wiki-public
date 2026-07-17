@@ -20,3 +20,5 @@
 - SMOKE_SUMMARY: ok=3 fail=0
 - SMOKE_STATUS: OK
 - **green=1**
+- committed heal
+- PUBLISH_STATUS: OK
