@@ -56,8 +56,9 @@ NEXT: STOP | human decision needed: <one line>
 | improve pack, weekly, intake, freshness | **P7** |
 | cron check, cron broken, jobs.json | **P11** |
 | edit person/org page content (not just links) | **P8** |
-| new work/source page for book/dissertation | **P9** |
-| plan only / don't execute | **P0** then STOP (no other playbook) |
+|| new work/source page for book/dissertation | **P9** |
+|| multi-entity publication (yearbook, 菁英錄-style) | **PUBLICATION_INGEST.md** (standalone playbook) |
+|| plan only / don't execute | **P0** then STOP (no other playbook) |
 
 If unclear → **P0** only, then ask human one question in NEXT.
 

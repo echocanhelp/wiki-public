@@ -22,7 +22,8 @@ Vault: `/home/leedt/echo-system` · Live: https://echocanhelp.github.io/wiki-pub
 
 | You say | System must do |
 |---------|----------------|
-| **`Echopedia website <domain>`** | **Full-domain** archive + **absorb into wiki graph** + publish push — see **[WEBSITE_INGEST.md](WEBSITE_INGEST.md)** completeness bar |
+|| **`Echopedia website <domain>`** | **Full-domain** archive + **absorb into wiki graph** + publish push — see **[WEBSITE_INGEST.md](WEBSITE_INGEST.md)** completeness bar |
+|| `Echopedia publication <name>` | Multi-entity publication ingest (yearbook, 菁英錄-style) — see **[PUBLICATION_INGEST.md](PUBLICATION_INGEST.md)** |
 | `Echopedia refresh <url/site>` | Same as website when target is a site; else archive→apply→publish push for that URL’s entity |
 | `Echopedia full-domain archive <site>` | Synonym of **website** (not archive-only) |
 | `Echopedia <site>` / `Echopedia <name>` | Prefer full **website** pipeline if a domain; else entity refresh + publish push |
