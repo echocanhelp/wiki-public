@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-07-16 04:15 PDT*
+*Generated: 2026-07-17 04:15 PDT*
 
 ## Orientation
 - **User manual (start here):** [USER_MANUAL.md](USER_MANUAL.md)
@@ -13,12 +13,12 @@
 - **Level:** L3
 - **L2 auto-publish on drift:** True
 - **L3 auto-push when green:** True
-- **Last good deploy:** `f8927e1`
+- **Last good deploy:** `8bb3642`
 
 ## Content
-- **Markdown pages:** 79
+- **Markdown pages:** 184
 - **Janitor queue depth:** 5
-- **Uncommitted files:** 2
+- **Uncommitted files:** 9
 
 ## What runs automatically
 | When | Job | Role |
@@ -47,29 +47,36 @@ Load skill **echopedia-ops** first for any wiki work.
 ```
     Name:      unified-watchdog
     Schedule:  every 30m
-    Last run:  2026-07-16T04:12:43.014040-07:00  ok
+    Last run:  2026-07-17T03:49:43.246752-07:00  ok
     Name:      echopedia-digest
     Schedule:  0 9 * * *
-    Last run:  2026-07-15T09:00:52.399312-07:00  ok
+    Last run:  2026-07-16T09:00:51.818335-07:00  ok
     Name:      kanban-sync
     Schedule:  every 30m
-    Last run:  2026-07-16T04:11:42.995588-07:00  ok
+    Last run:  2026-07-17T04:14:43.764229-07:00  ok
     Name:      memory-audit
     Schedule:  0 5 * * *
-    Last run:  2026-07-15T05:00:46.321292-07:00  ok
+    Last run:  2026-07-16T05:00:45.298900-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-07-16T04:15:43.113754-07:00  ok
+    Last run:  2026-07-17T04:15:43.831051-07:00  ok
     Name:      echopedia-nightly-audit
     Schedule:  0 4 * * *
-    Last run:  2026-07-16T04:00:49.311309-07:00  ok
+    Last run:  2026-07-17T04:00:56.104035-07:00  ok
     Name:      echopedia-janitor
     Schedule:  0 4 * * *
-    Last run:  2026-07-16T04:00:42.906771-07:00  ok
+    Last run:  2026-07-17T04:00:43.600475-07:00  ok
     Name:      echopedia-weekly-improvement
     Schedule:  0 5 * * 1
     Name:      echopedia-ci-heal
     Schedule:  15 4 * * *
+    Last run:  2026-07-16T04:15:49.546109-07:00  ok
+    Name:      vault-unfinished-threads
+    Schedule:  0 8 * * *
+    Name:      vault-connector-suggestions
+    Schedule:  0 9 * * *
+    Name:      vault-intelligence-digest
+    Schedule:  0 8 * * *
 ```
 
 ## Briefs
