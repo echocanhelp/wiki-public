@@ -1,0 +1,704 @@
+{
+  "source": "2017-tahs-publication",
+  "title": "2017 TAHS Publication (台美人歷史協會 菁英錄)",
+  "pages": "1-118",
+  "people": [
+    {
+      "slug": "yang-jia-you",
+      "zh": "楊嘉猷",
+      "en": "Charles Yang",
+      "role": "Founding President, TAHS",
+      "kind": "subject",
+      "tier": "A",
+      "action": "create",
+      "existing_path": null,
+      "part": "part1",
+      "start_line": 38,
+      "end_line": 115,
+      "facts": [
+        "歷史！以古鑑今而自強不息",
+        "吾等先祖，概在三百五十年前，為脫離惡政         質，應是緣於歷經三百多年時光共同生活、繼",
+        "及生活陋境，尋求安寧的自由新世界，紛紛以         續生命經驗所形成的吧！這就是歷史，台灣人",
+        "帆船獨舟密乘西風從唐山空手隻身，無懼生命         共有，要共同珍惜的歷史。",
+        "危險，勇渡洶湧澎湃的海峽黑水溝，到達台灣，"
+      ],
+      "orgs_mentioned": [
+        "TAHS"
+      ],
+      "related_existing_slugs": [
+        "organizations/taiwanese-american-historical-society"
+      ],
+      "notes": "創會會長; also co-authored 王能祥 profile; memorial author for 廖述宗"
+    },
+    {
+      "slug": "liao-shu-zong",
+      "zh": "廖述宗",
+      "en": "Prof. Liao Shu-zong",
+      "role": "Biochemist, NATPA founder, UC Chicago professor",
+      "kind": "subject",
+      "tier": "A",
+      "action": "create",
+      "existing_path": null,
+      "part": "part2",
+      "start_line": 1,
+      "end_line": 569,
+      "facts": [
+        "生命的執著 ─芝加哥大學廖述宗教授的故事",
+        "廖述宗教授在三十幾歲時，即發表一系列卓",
+        "越的男性荷爾蒙研究論文，揚名國際生化界。",
+        "他在 1980 年創立「北美洲台灣人教授協會",
+        "（NATPA，註一）」，支援島內民主運動，成"
+      ],
+      "orgs_mentioned": [
+        "NATPA",
+        "芝加哥大學",
+        "台灣綜合研究院"
+      ],
+      "related_existing_slugs": [
+        "organizations/taiwanese-american-historical-society"
+      ],
+      "notes": "Two sections: profile (L1-569) + memorial (L570-666); NATPA founder; 1931 born Tainan"
+    },
+    {
+      "slug": "yang-xin",
+      "zh": "楊信",
+      "en": "Yang Hsin",
+      "role": "Former government advisor, entrepreneur",
+      "kind": "subject",
+      "tier": "A",
+      "action": "create",
+      "existing_path": null,
+      "part": "part1",
+      "start_line": 290,
+      "end_line": 884,
+      "facts": [
+        "行政院政務顧問楊信的創業故事",
+        "(Editor's Note: Mr. Jackson Yang, an innovative, brilliant, and successful entrepreneur, was born",
+        "in Taiwan and immigrated to the U.S. in his early 40s. He learned international trade at the age",
+        "of 16 and started to build his business empire from a very humble beginning in America. Today,",
+        "he is the CEO of Seville Classics, Inc. Seville is a globally leading innovator and manufacturer"
+      ],
+      "orgs_mentioned": [],
+      "related_existing_slugs": [
+        "organizations/taiwanese-american-historical-society"
+      ],
+      "notes": "行政院政務顧問;创业故事"
+    },
+    {
+      "slug": "alan-thian",
+      "zh": "田詒鴻",
+      "en": "Alan Thian",
+      "role": "皇佳銀行總裁; Taiwan Center 董事長",
+      "kind": "subject",
+      "tier": "A",
+      "action": "expand",
+      "existing_path": "content/people/alan-thian.md",
+      "part": "part1",
+      "start_line": 885,
+      "end_line": 1019,
+      "facts": [
+        "皇佳銀行總裁田詒鴻 (AlanThian) 台灣的奇妙因緣",
+        "◎台美歷史協會專訪 Edda Huang 文字整理",
+        "(Editor's Note: Mr. Alan Thian was born in Singapore in 1952, where he received a bachelor's",
+        "degree in business administration. In 1976, he migrated to America with his parents. Six years later,",
+        "he graduated from the University of Southern California with an MBA degree. After several years"
+      ],
+      "orgs_mentioned": [
+        "皇佳銀行"
+      ],
+      "related_existing_slugs": [
+        "organizations/taiwanese-american-historical-society"
+      ],
+      "notes": "Expand existing; add bank/profile facts; keep TC 董事長"
+    },
+    {
+      "slug": "lisa-su",
+      "zh": "蘇姿丰",
+      "en": "Lisa T. Su",
+      "role": "AMD CEO",
+      "kind": "subject",
+      "tier": "A",
+      "action": "create",
+      "existing_path": null,
+      "part": "part2",
+      "start_line": 844,
+      "end_line": 1027,
+      "facts": [
+        "Dr. Lisa T. Su ( 蘇姿丰博士 )",
+        "超微公司 (AMD) 運籌帷幄",
+        "(Editor's Note: Dr. Lisa T. Su was born in Taiwan in 1969. She is currently the CEO and",
+        "President of the Sunnyvale, Calif.-based Advanced Micro Devices (AMD), a giant in semiconductor",
+        "industry. She immigrated with her family to the U.S. at the age of 2. Encouraged by her parents,"
+      ],
+      "orgs_mentioned": [
+        "AMD",
+        "IBM",
+        "MIT"
+      ],
+      "related_existing_slugs": [
+        "organizations/taiwanese-american-historical-society"
+      ],
+      "notes": "MIT EE PhD 1994; copper interconnect at IBM; AMD CEO; father 蘇春槐 profile at L1028"
+    },
+    {
+      "slug": "john-chiang",
+      "zh": "江俊輝",
+      "en": "John Chiang",
+      "role": "California State Controller",
+      "kind": "subject",
+      "tier": "A",
+      "action": "create",
+      "existing_path": null,
+      "part": "part2",
+      "start_line": 1126,
+      "end_line": 1412,
+      "facts": [
+        "在種族岐視的環境下力爭上游的江俊輝 (John Chiang)",
+        "(Editor's Note: Mr. John Chiang was born to Mr. Mudong Chiang and Ms. Yinhsiang Shen,",
+        "immigrants from Taiwan, in New York City in 1962. Like many other politicians on the East",
+        "Coast, he studied law and earned a J.D. degree from Georgetown University Law Center. His",
+        "future path to California State Controller (2007-2015) and California State Treasurer (2015-present)"
+      ],
+      "orgs_mentioned": [
+        "加州政府",
+        "加州州主計長辦公室"
+      ],
+      "related_existing_slugs": [
+        "organizations/taiwanese-american-historical-society"
+      ],
+      "notes": "Elected CA State Controller 2006; 45 years old at election; 12 years on Most Wanted"
+    },
+    {
+      "slug": "lin-fu-kun",
+      "zh": "林福坤",
+      "en": "Lin Fu-kun",
+      "role": "Biotech entrepreneur",
+      "kind": "subject",
+      "tier": "B",
+      "action": "create",
+      "existing_path": null,
+      "part": "part1",
+      "start_line": 1020,
+      "end_line": 1404,
+      "facts": [
+        "生技巨人林福坤的故事",
+        "(Editor's Note: Dr. Fu-Kuen Lin, born in Taiwan in 1941, is the inventor of Epogen (Epoetin",
+        "Alfa), a DNA engineering medicine, and thus becomes a big name in biomedical science. After Mr.",
+        "Lin received a B.S. degree in plant pathology and an M.S. degree in plant pathology at National",
+        "Taiwan University, he earned his doctorate in plant pathology at the University of Illinois/Urbana-"
+      ],
+      "orgs_mentioned": [],
+      "related_existing_slugs": [
+        "organizations/taiwanese-american-historical-society"
+      ],
+      "notes": "生技巨人"
+    },
+    {
+      "slug": "hsu-hsin-hung",
+      "zh": "徐新宏",
+      "en": "Hsu Hsin-hung",
+      "role": "Chairman & CEO, Chia Ho Enterprise Group",
+      "kind": "subject",
+      "tier": "B",
+      "action": "create",
+      "existing_path": null,
+      "part": "part1",
+      "start_line": 1405,
+      "end_line": 1584,
+      "facts": [
+        "加州佳和企業集團董事長兼總裁徐新宏博士",
+        "在台裔美國人中，加州佳和企業集",
+        "團董事長兼總裁徐新宏博士可說是一",
+        "位對美國、台灣與台美人社區都是很",
+        "有貢獻的人士，他在美國的事業的成"
+      ],
+      "orgs_mentioned": [
+        "加州佳和企業集團"
+      ],
+      "related_existing_slugs": [
+        "organizations/taiwanese-american-historical-society"
+      ],
+      "notes": "加州佳和企業集團董事長兼總裁; 博士"
+    },
+    {
+      "slug": "lin-yuan-ching",
+      "zh": "林元清",
+      "en": "Lin Yuan-qing",
+      "role": "Physician",
+      "kind": "subject",
+      "tier": "B",
+      "action": "create",
+      "existing_path": null,
+      "part": "part1",
+      "start_line": 1585,
+      "end_line": 1878,
+      "facts": [
+        "集集小孩力爭上游 林元清醫師專訪",
+        "◎台美人歷史協會專訪 Edda Huang 文字整理",
+        "林元清醫師祖先由福建移民到台灣南投集",
+        "集，至今第六代。集集以木材，樟腦和香蕉聞",
+        "名。他就在此山明水秀的鄉下自由自在成長。"
+      ],
+      "orgs_mentioned": [],
+      "related_existing_slugs": [
+        "organizations/taiwanese-american-historical-society"
+      ],
+      "notes": "集集小孩; 醫師專訪"
+    },
+    {
+      "slug": "wang-gui-rong",
+      "zh": "王桂榮",
+      "en": "Wang Gui-rong",
+      "role": "Entrepreneur/business leader",
+      "kind": "subject",
+      "tier": "B",
+      "action": "create",
+      "existing_path": null,
+      "part": "part1",
+      "start_line": 1879,
+      "end_line": 2396,
+      "facts": [
+        "(1931-2012)",
+        "(Author's Note: Mr. Kenjohn Wang was a successful entrepreneur. He was the founder of the",
+        "Kenjohn Group, which owned and operated international trade concerns, real estate investment",
+        "companies and several hotels in America and Taiwan. The business group is now managed by his",
+        "three sons, Kenneth, John and Michael. He also founded the Taiwanese-American Foundation (TAF),"
+      ],
+      "orgs_mentioned": [],
+      "related_existing_slugs": [
+        "organizations/taiwanese-american-historical-society"
+      ],
+      "notes": "傳略; longest profile in part1"
+    },
+    {
+      "slug": "anne-shih",
+      "zh": "施劉秀枝",
+      "en": "Anne Shih",
+      "role": "Chairman, Bowers Museum",
+      "kind": "subject",
+      "tier": "B",
+      "action": "create",
+      "existing_path": null,
+      "part": "part1",
+      "start_line": 2397,
+      "end_line": 2493,
+      "facts": [
+        "寶爾博物館 (Bowers Museum) 董事長 施劉秀枝 (Anne Shih)",
+        "◎台美歷史協會專訪 / 鄭炳全撰稿 黃樹人攝影",
+        "Originally from Chiayi, Taiwan, Anne Shih immigrated to the U.S. in 1978 with two children.",
+        "She started volunteer service at the Bower Museum in 1992. She joined the museum board in 1996",
+        "and created the Junior Ambassador program introducing high school students to art and culture."
+      ],
+      "orgs_mentioned": [
+        "Bowers Museum"
+      ],
+      "related_existing_slugs": [
+        "organizations/taiwanese-american-historical-society"
+      ],
+      "notes": "寶爾博物館董事長"
+    },
+    {
+      "slug": "wang-neng-xiang",
+      "zh": "王能祥",
+      "en": "Wang Neng-xiang",
+      "role": "Elder, religious leader",
+      "kind": "subject",
+      "tier": "B",
+      "action": "create",
+      "existing_path": null,
+      "part": "part1",
+      "start_line": 2494,
+      "end_line": 2559,
+      "facts": [
+        "心繫台灣、老驥扶櫪的王能祥長老",
+        "◎台美人歷史協會創會會長楊嘉猷與周威霖聯合執筆",
+        "(Author's Note: Mr. Neng-Hsiang Wang, born in a Christian family of Formosa (Taiwan)and",
+        "spent three years roaming alone on mountains when he was a nine-year old boy after being denied",
+        "schooling by Japanese colonial master, is a lifelong fighter for Taiwan’s international visibility"
+      ],
+      "orgs_mentioned": [],
+      "related_existing_slugs": [
+        "organizations/taiwanese-american-historical-society"
+      ],
+      "notes": "心繫台灣、老驥扶櫪; 長老; shortest profile (66 lines)"
+    },
+    {
+      "slug": "su-chun-huai",
+      "zh": "蘇春槐",
+      "en": "Su Chun-huai",
+      "role": "Father of Lisa Su",
+      "kind": "subject",
+      "tier": "B",
+      "action": "create",
+      "existing_path": null,
+      "part": "part2",
+      "start_line": 1028,
+      "end_line": 1125,
+      "facts": [
+        "虎爸談虎女 - 蘇春槐以女蘇姿丰為榮",
+        "紐約台灣會館的創會理事蘇春槐是一位關心",
+        "社區的成功企業家，「英格爾」(Engross Inc.)",
+        "公司的董事長，大家也都知道他有位傑出的女",
+        "兒，ADM 的執行長蘇姿丰 (Lisa Su)。4 年前，"
+      ],
+      "orgs_mentioned": [],
+      "related_existing_slugs": [
+        "organizations/taiwanese-american-historical-society"
+      ],
+      "notes": "虎爸談虎女; 以女蘇姿豐為榮"
+    },
+    {
+      "slug": "sam-chang",
+      "zh": "張善良",
+      "en": "Sam Chang",
+      "role": "Hotel developer",
+      "kind": "subject",
+      "tier": "B",
+      "action": "create",
+      "existing_path": null,
+      "part": "part2",
+      "start_line": 1413,
+      "end_line": 1644,
+      "facts": [
+        "紐約台裔旅館大王張善良的傳奇故事",
+        "(Editor's Note: Mr. Sam (Shen Leong) Chang was born in Taiwan in 1960. He is a successful",
+        "real estate developer, who at one time had a 7.5 percent stake in Trump Entertainment Resorts.",
+        "Sam is the Chairman of McSam Hotel Group, a Great Neck-based hotel development, construction,",
+        "management, and investment company. His company has completed 25 hotels in the five boroughs"
+      ],
+      "orgs_mentioned": [
+        "紐約台裔旅館"
+      ],
+      "related_existing_slugs": [
+        "organizations/taiwanese-american-historical-society"
+      ],
+      "notes": "旅館開發大王; 紐約台裔"
+    },
+    {
+      "slug": "ho-chie-tsai",
+      "zh": "蔡和杰",
+      "en": "Dr. Ho Chie Tsai",
+      "role": "Physician, founder TaiwaneseAmerican.org",
+      "kind": "subject",
+      "tier": "B",
+      "action": "create",
+      "existing_path": null,
+      "part": "part2",
+      "start_line": 1645,
+      "end_line": 1775,
+      "facts": [
+        "「TaiwaneseAmerican.org」創辦人",
+        "Dr. Ho Chie Tsai ( 蔡和杰醫師 )",
+        "◎楊遠薰 圖 / 文",
+        "Ho Chie Tsai is the founder of TaiwaneseAmerican.org, a non-profit organization and website",
+        "dedicated to connecting and highlighting the new generation of Taiwanese Americans. He has spent"
+      ],
+      "orgs_mentioned": [
+        "TaiwaneseAmerican.org"
+      ],
+      "related_existing_slugs": [
+        "organizations/taiwanese-american-historical-society"
+      ],
+      "notes": "TaiwaneseAmerican.org創辦人"
+    },
+    {
+      "slug": "martha-vandriel",
+      "zh": "瑪莎·范德瑞爾",
+      "en": "Martha S.H. VanDriel",
+      "role": "Colonel, U.S. Army",
+      "kind": "subject",
+      "tier": "B",
+      "action": "create",
+      "existing_path": null,
+      "part": "part2",
+      "start_line": 1776,
+      "end_line": 1925,
+      "facts": [
+        "Colonel Martha S.H. VanDriel, U.S. Army",
+        "( 許和瑞先生愛女 )",
+        "◎ Martha VanDriel",
+        "（編按 : Ms. Martha VanDriel 是南加州台美人社區領袖許和瑞先生的掌珠，許秀聰於 1991",
+        "年畢業於西點軍校，是首位從西點軍校畢業的女性台裔美國人。她在校主修國際關係與國際"
+      ],
+      "orgs_mentioned": [],
+      "related_existing_slugs": [
+        "organizations/taiwanese-american-historical-society"
+      ],
+      "notes": "Self-profile; Colonel"
+    },
+    {
+      "slug": "jack-j-chen",
+      "zh": "陳宏傑",
+      "en": "Jack J. Chen",
+      "role": "Clinical Pharmacist PhD",
+      "kind": "subject",
+      "tier": "B",
+      "action": "create",
+      "existing_path": null,
+      "part": "part2",
+      "start_line": 1926,
+      "end_line": 2007,
+      "facts": [
+        "( 編按 : Dr. Jack J. Chen 生於 Indiana 州的 South Bend 市，但他的生涯中的大部分時光卻是",
+        "在南加州度過。Jack 是一位知名的臨床藥師與藥學研究者，他於 1989 年，從加州大學聖地",
+        "牙哥分校獲得動物生理學學士學位，1993 年，從 Massachusetts College of Pharmacy and Health",
+        "Sciences 取得藥師學位，1995 年，從猶他大學取得藥學博士學位，最後於 1996 年，在芝加",
+        "哥 的 Rush University Medical Center 完 成 他 的 博 士 後 Specialty Pharmacy Residency (Internal"
+      ],
+      "orgs_mentioned": [],
+      "related_existing_slugs": [
+        "organizations/taiwanese-american-historical-society"
+      ],
+      "notes": "臨床藥學博士; self-profile"
+    },
+    {
+      "slug": "katherine-huang",
+      "zh": "黃愷怡",
+      "en": "Katherine Huang",
+      "role": "Attorney",
+      "kind": "subject",
+      "tier": "B",
+      "action": "create",
+      "existing_path": null,
+      "part": "part2",
+      "start_line": 2008,
+      "end_line": 2067,
+      "facts": [
+        "( 編按 : Ms. Katherine Kai-Yi Huang，黃愷怡，出生於台灣，五歲時，隨父母移民美國。",
+        "1996 年，她從哈佛大學化學系以最優異 (summa cum laude) 的成績畢業。2000 年，她從耶魯",
+        "法學院取得 J.D. 學位，在校時，曾擔任 The Yale Symposium on Law & Technology 刊物的總編",
+        "輯，我們由此可以推定，她在法學院的成績也必然極為優異。從法學院畢業後，她擔任聯邦",
+        "第三巡迴法院法官 Samuel A. Alito, Jr. (2006 年起，擔任美國最高法院大法官 ) 的助理。稍後，"
+      ],
+      "orgs_mentioned": [],
+      "related_existing_slugs": [
+        "organizations/taiwanese-american-historical-society"
+      ],
+      "notes": "律師; self-profile"
+    },
+    {
+      "slug": "bob-j-wu",
+      "zh": "吳瑞椿",
+      "en": "Bob J. Wu",
+      "role": "Surgical physician",
+      "kind": "subject",
+      "tier": "B",
+      "action": "create",
+      "existing_path": null,
+      "part": "part2",
+      "start_line": 2068,
+      "end_line": 2139,
+      "facts": [
+        "吳瑞椿 外科醫學博士",
+        "( 編按 :   吳瑞椿醫師出生於台灣，8 歲時，隨父母移民加州，住在台裔美國人比較集中的",
+        "南加州社區。從 UCLA 畢業後，他進入 Loma Linda School of Medicine 習醫，並受訓成為",
+        "外科醫師。他通西班牙語、台語、廣東話與華語，所以，很自然地，他就選擇在 Monterey",
+        "Park 與 Rowland Heights 這幾座城市行醫。由於他在微創外科手術的技術上領先群倫，所以，"
+      ],
+      "orgs_mentioned": [],
+      "related_existing_slugs": [
+        "organizations/taiwanese-american-historical-society"
+      ],
+      "notes": "外科醫學博士; self-profile"
+    },
+    {
+      "slug": "tiffany-huang",
+      "zh": "黃咏婷",
+      "en": "Tiffany Frances Huang",
+      "role": "Filmmaker",
+      "kind": "subject",
+      "tier": "B",
+      "action": "create",
+      "existing_path": null,
+      "part": "part2",
+      "start_line": 2140,
+      "end_line": 2206,
+      "facts": [
+        "黃咏婷 ( Tiffany Frances Huang)",
+        "拍攝的微電影：“Moment”",
+        "黃咏婷 , Tiffany Frances Huang                 這句名言做微電影。規定電影不得超過 6 分鐘，",
+        "並付給她 $15000 讓她去拍。",
+        "大 學 時 是 唸：UC SAN DIEGO：major in"
+      ],
+      "orgs_mentioned": [],
+      "related_existing_slugs": [
+        "organizations/taiwanese-american-historical-society"
+      ],
+      "notes": "拍攝微電影 Moment"
+    },
+    {
+      "slug": "shawna-yang-ryan",
+      "zh": "楊小娜",
+      "en": "Shawna Yang Ryan",
+      "role": "Novelist",
+      "kind": "subject",
+      "tier": "B",
+      "action": "create",
+      "existing_path": null,
+      "part": "part2",
+      "start_line": 2207,
+      "end_line": 2447,
+      "facts": [
+        "楊小娜 (Shawna Yang Ryan) 小說「綠島」（Green Island）",
+        "榮獲 2017 年美國圖書獎（American Book Awards）",
+        "◎台美人歷史協會 整理",
+        "Shawna Yang Ryan was born in Sacramento, California. Her mother and father met in Taichung,",
+        "Taiwan, her mother’s hometown, when her father was stationed there with the US Air Force. A latchkey"
+      ],
+      "orgs_mentioned": [],
+      "related_existing_slugs": [
+        "organizations/taiwanese-american-historical-society"
+      ],
+      "notes": "小說綠島; 2017 American Book Awards"
+    },
+    {
+      "slug": "franklin-ping-cheng",
+      "zh": "Franklin Ping Cheng",
+      "en": "Franklin Ping Cheng",
+      "role": "TAHS President 2014-2017",
+      "kind": "subject",
+      "tier": "A",
+      "action": "create",
+      "existing_path": null,
+      "part": "part2",
+      "start_line": 2594,
+      "end_line": 2618,
+      "facts": [
+        "After serving one year as the vice-president of the Taiwanese American",
+        "Historical Society, I was elected to as President of the Society in 2014. The",
+        "term was supposed be 3 years. Due to the physical condition of the founding",
+        "president Charles Yang, he handed the big job to me. Thanks to God, in one",
+        "year he fully recovered from two surgeries and helped me with the Society."
+      ],
+      "orgs_mentioned": [
+        "TAHS",
+        "TECO僑委會"
+      ],
+      "related_existing_slugs": [
+        "organizations/taiwanese-american-historical-society"
+      ],
+      "notes": "會長謝詞; president after founding president Charles Yang (楊嘉猷)"
+    }
+  ],
+  "orgs": [
+    {
+      "name": "Taiwanese American Historical Society",
+      "zh": "台美人歷史協會",
+      "abbr": "TAHS",
+      "action": "expand_primary"
+    },
+    {
+      "name": "North America Taiwanese Professors Association",
+      "zh": "北美洲台灣人教授協會",
+      "abbr": "NATPA",
+      "action": "link_or_plain",
+      "note": "Disambiguate: founded 1980 by 廖述宗; national org, not SC chapter"
+    },
+    {
+      "name": "Bowers Museum",
+      "zh": "寶爾博物館",
+      "action": "link_or_plain",
+      "note": "施劉秀枝 is Chairman"
+    },
+    {
+      "name": "TaiwaneseAmerican.org",
+      "zh": null,
+      "action": "link_or_plain",
+      "note": "Founded by 蔡和杰; website www.TAhistory.org"
+    },
+    {
+      "name": "皇佳銀行",
+      "zh": "皇佳銀行",
+      "action": "link_or_plain",
+      "note": "田詒鴻 is President; may not have existing wiki page"
+    },
+    {
+      "name": "AMD",
+      "zh": null,
+      "action": "link_or_plain",
+      "note": "Lisa Su CEO"
+    },
+    {
+      "name": "加州佳和企業集團",
+      "zh": "佳和企業集團",
+      "action": "link_or_plain",
+      "note": "徐新宏 Chairman & CEO"
+    }
+  ],
+  "bylines": [
+    {
+      "name": "黃樹人",
+      "role": "author",
+      "action": "list_only"
+    },
+    {
+      "name": "廖清山",
+      "role": "preface_author",
+      "action": "list_only"
+    },
+    {
+      "name": "周威廉",
+      "role": "author/essay",
+      "action": "list_only",
+      "note": "Also essay author on 緣起與展望; may be same as 周威霖"
+    },
+    {
+      "name": "周威霖",
+      "role": "author/compiler",
+      "action": "list_only",
+      "note": "May be same as 周威廉; co-authored 王能祥 profile"
+    },
+    {
+      "name": "楊文顯",
+      "role": "author",
+      "action": "list_only"
+    },
+    {
+      "name": "Edda Huang",
+      "role": "editor",
+      "action": "list_only"
+    },
+    {
+      "name": "鄭炳全",
+      "role": "author",
+      "action": "list_only"
+    },
+    {
+      "name": "楊遠薰",
+      "role": "author",
+      "action": "list_only"
+    },
+    {
+      "name": "陳婉真",
+      "role": "author",
+      "action": "list_only"
+    },
+    {
+      "name": "曾恆利",
+      "role": "author",
+      "action": "list_only"
+    },
+    {
+      "name": "賴慧娜",
+      "role": "author",
+      "action": "list_only"
+    },
+    {
+      "name": "台美人歷史協會 整理",
+      "role": "editor",
+      "action": "list_only"
+    }
+  ],
+  "lists": [
+    {
+      "name": "donors_2015_2016",
+      "pages": "115",
+      "action": "summary_on_source_only"
+    },
+    {
+      "name": "activities_summary",
+      "pages": "116",
+      "action": "expand_tahs_org"
+    }
+  ]
+}
