@@ -6,8 +6,9 @@ tags:
   - Taiwanese-American
   - Taiwan-Center
   - board
-verification_status: published
-last_reviewed: 2026-07-16
+verification_status: pending
+featured: true
+last_reviewed: 2026-07-17
 ---
 # Alan Thian (田詒鴻)
 

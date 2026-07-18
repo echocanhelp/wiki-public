@@ -247,6 +247,9 @@ last_reviewed: 2026-07-17
 - [ ] All 6 A-tier pages created (yang-jia-you, liao-shu-zong, yang-xin, lisa-su, john-chiang)
 - [ ] alan-thian.md expanded (TC 董事長 + 皇佳銀行總裁)
 - [ ] All have Identity Snapshot + Source Notes + Related Pages
+
+**Note:** Set `featured: true` in frontmatter for A-tier pages that deserve long-term homepage presence. B-tier pages rely on recency window (30 days) for visibility.
+
 - [ ] No invented bios — only publication content
 - [ ] verification_status = pending
 

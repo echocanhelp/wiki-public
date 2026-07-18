@@ -17,7 +17,8 @@
     "fact_sheet_freshness",
     "entity_hints_sync",
     "l2_auto_heal",
-    "l3_auto_push_on_green"
+    "l3_auto_push_on_green",
+    "l2_auto_featured_on_publish"
   ],
   "janitor": {
     "window_local": "04:00-06:00",
@@ -48,6 +49,7 @@
     "l2_auto_publish_on_drift": true,
     "l2_auto_drain_on_ci": true,
     "l2_auto_commit_on_heal": true,
+    "l2_auto_featured_on_publish": true,
     "l3_auto_push_on_green": true,
     "require_ops_not_fail": true,
     "require_smoke_pass": true,

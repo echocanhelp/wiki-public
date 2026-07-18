@@ -24,6 +24,7 @@ Vault: `/home/leedt/echo-system` · Live: https://echocanhelp.github.io/wiki-pub
 |---------|----------------|
 || **`Echopedia website <domain>`** | **Full-domain** archive + **absorb into wiki graph** + publish push — see **[WEBSITE_INGEST.md](WEBSITE_INGEST.md)** completeness bar |
 || `Echopedia publication <name>` | Multi-entity publication ingest (yearbook, 菁英錄-style) — see **[PUBLICATION_INGEST.md](PUBLICATION_INGEST.md)** |
+|| `Echopedia feature <name>` | Pin/unpin a page to homepage Featured section — see [Featured section docs](#featured-section) |
 | `Echopedia refresh <url/site>` | Same as website when target is a site; else archive→apply→publish push for that URL’s entity |
 | `Echopedia full-domain archive <site>` | Synonym of **website** (not archive-only) |
 | `Echopedia <site>` / `Echopedia <name>` | Prefer full **website** pipeline if a domain; else entity refresh + publish push |
@@ -184,6 +185,27 @@ bash /home/leedt/.hermes/scripts/echopedia-ci-heal.sh --dry-run
 | Disable push | **P6** |
 | Meta reports | **P7** |
 | Content mismatch (live ≠ repo) | **P5** + `references/ui-discrepancy-investigation.md` |
+
+---
+
+## Featured section
+
+The homepage shows **Featured people** and **Featured organizations** cards. These are auto-regenerated on every publish via `featured-regen.py`.
+
+**Hybrid model:**
+- **Pinned:** `featured: true` in frontmatter — stays forever, human-controlled
+- **Recency:** `last_reviewed` within last 30 days — auto-featuring, self-cleaning
+- **Cap:** 6 people, 3 orgs (prevents overflow)
+
+**How to pin a page to Featured:**
+1. Add `featured: true` to the page's frontmatter
+2. Publish (script auto-regenerates)
+
+**How to unpin:**
+1. Remove `featured: true` from frontmatter
+2. Publish (page drops off after recency window)
+
+**`Echopedia feature <name>`** — add or remove `featured: true` from the named page's frontmatter, then publish.
 
 ---
 

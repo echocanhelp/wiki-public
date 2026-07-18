@@ -8,6 +8,7 @@ tags:
   - natpa
   - biochemist
 verification_status: pending
+featured: true
 last_reviewed: 2026-07-17
 ---
 # Liao Shu-zong (廖述宗)

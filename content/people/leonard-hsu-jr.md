@@ -6,8 +6,9 @@ tags:
   - TAHS
   - Echopedia
   - leadership
-verification_status: verified
-last_reviewed: 2026-07-12
+verification_status: published
+featured: true
+last_reviewed: 2026-07-17
 ---
 # Leonard Hsu Jr. (許景鴻 / Hsu Ching-Hung)
 

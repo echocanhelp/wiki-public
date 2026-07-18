@@ -328,6 +328,19 @@ Expect `CRON_STATUS: OK`.
 
 ---
 
+## P12 — FEATURED REGENERATE
+
+**STEPS:**
+1. `python3 /home/leedt/.hermes/scripts/featured-regen.py --root /home/leedt/echo-system --dry-run`
+2. Verify selected pages match expectations (pinned + recency, within caps)
+3. `python3 /home/leedt/.hermes/scripts/featured-regen.py --root /home/leedt/echo-system --inject`
+4. Verify `index.html` has `<!-- featured-start -->` / `<!-- featured-end -->` markers
+5. Commit + publish via `echopedia-publish.sh`
+
+**DO NOT:** edit index.html manually; always use the script.
+
+---
+
 ## Anti-patterns (worker STOP)
 
 | If you want to… | STOP — do this instead |

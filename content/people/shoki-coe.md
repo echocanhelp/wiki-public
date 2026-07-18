@@ -3,8 +3,9 @@ title: "Dr. Shoki Coe (黃彰輝)"
 type: person
 tags:
   - 
-verification_status: pending
-last_reviewed: 2026-07-08
+verification_status: published
+featured: true
+last_reviewed: 2026-07-17
 ---
 # Dr. Shoki Coe (黃彰輝)
 

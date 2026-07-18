@@ -8,6 +8,7 @@ tags:
   - politician
   - california
 verification_status: pending
+featured: true
 last_reviewed: 2026-07-17
 ---
 # John Chiang (江俊輝)

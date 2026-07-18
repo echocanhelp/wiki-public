@@ -7,6 +7,7 @@ tags:
   - tahs-publication-2017
   - entrepreneur
 verification_status: pending
+featured: true
 last_reviewed: 2026-07-17
 ---
 # Yang Hsin (楊信)

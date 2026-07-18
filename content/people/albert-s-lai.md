@@ -12,7 +12,8 @@ tags:
   - 1971-dissertation
   - 2025-republication
 verification_status: published
-last_reviewed: 2026-07-15
+featured: true
+last_reviewed: 2026-07-17
 ---
 # Dr. Albert S. Lai (賴信雄)
 

@@ -39,6 +39,7 @@
 | **04:15** | **`echopedia-ci-heal`** | L2 heal + L3 green push |
 | Mon 05:00 | `echopedia-weekly-improvement` | Improvement pack + drain + ci-heal |
 | 09:00 | `echopedia-digest` | Janitor + CI + SYSTEM_STATUS |
+| **On publish** | **`featured-regen`** | Hybrid featured: pinned + recency → homepage cards |
 
 ### Autonomy flags (`echopedia/standards.json` → `autonomy`)
 - L2: publish on drift, drain on CI, commit heal

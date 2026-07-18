@@ -3,8 +3,9 @@ title: "Dr. Lien-Hwa Chow (周聯華)"
 type: person
 tags:
   - 
-verification_status: pending
-last_reviewed: 2026-07-08
+verification_status: published
+featured: true
+last_reviewed: 2026-07-17
 ---
 # Dr. Lien-Hwa Chow (周聯華)
 

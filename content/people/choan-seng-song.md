@@ -3,8 +3,9 @@ title: "Dr. Choan-Seng Song (宋泉盛)"
 type: person
 tags:
   - 
-verification_status: pending
-last_reviewed: 2026-07-08
+verification_status: published
+featured: true
+last_reviewed: 2026-07-17
 ---
 # Dr. Choan-Seng Song (宋泉盛)
 
