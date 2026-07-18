@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-07-17",
+  "last_run": "2026-07-18",
   "standards_version_seen": 5,
   "runs": [
     {
@@ -20,6 +20,13 @@
     {
       "date": "2026-07-17",
       "candidates": 28,
+      "selected": 5,
+      "standards_version": 5,
+      "standards_bumped": false
+    },
+    {
+      "date": "2026-07-18",
+      "candidates": 29,
       "selected": 5,
       "standards_version": 5,
       "standards_bumped": false
@@ -95,12 +102,12 @@
       ]
     },
     {
-      "path": "people/choan-seng-song.md",
+      "path": "people/ku-gstpc.md",
       "findings": [
         "LINK_UNLINKED_ENTITY"
       ],
       "hygiene": [
-        "LINK_UNLINKED_ENTITY: people/choan-seng-song.md → organizations/national-taiwanese-presbyterian-council"
+        "LINK_UNLINKED_ENTITY: people/ku-gstpc.md → organizations/good-shepherd-taiwanese-presbyterian-church"
       ],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
@@ -111,12 +118,12 @@
       ]
     }
   ],
-  "last_candidates": 28,
+  "last_candidates": 29,
   "last_selected": [
     "people/li-furen.md",
     "organizations/ntpc.md",
     "people/zhang-xuanxin.md",
     "people/zheng-quansheng.md",
-    "people/choan-seng-song.md"
+    "people/ku-gstpc.md"
   ]
 }
