@@ -27,6 +27,16 @@ last_reviewed: 2026-07-17
 - He emphasized that "the meaning of success lies not in the destination, but in the journey"
 - He passed away in 2017; a memorial service was held, and a memorial tribute was written by 楊嘉猷
 
+## Legacy & Memorial
+
+- 楊嘉猷 wrote a memorial tribute "典型在夙昔：懷念台美人的導師廖述宗教授" (Part 2, L570–666)
+- 廖's character was consistently shown in his democratic activism:
+  - When the 林宅血案 (Lin family massacre) occurred on 1980-02-28, 廖 received an urgent call from the "Beautiful Island" victim's family, terrified that murders would continue. He called the Chicago Chinese consulate and said: "If you continue killing, all Taiwanese will rise up and fight you with force"
+  - When 陳文成 (a young professor at Carnegie Mellon) died in June 1981, 廖 called the university president Cyert and stated it was murder, not suicide — contrary to official Chinese government claims. He hired two American forensic pathologists (Dr. Robert Kirschner and Dr. Cyvil Wecht) to investigate
+  - In 1982, he led a breakthrough trip to Taiwan as an international scholar (invited by Dr. Li Zhuo-hao, with a Taiwan University invitation letter), meeting with KMT Secretary General 蔣彥士 and requesting to speak with 李登輝
+- He served as NATPA's founding president (elected at the first member assembly, August 1980) and executive board member after his term
+- His legacy: a biochemist who used his platform to advocate for Taiwan's democracy, bridging overseas intellectuals and mainland dissidents
+
 ## Source Notes and Confidence
 - **A-tier:** 2017 TAHS Publication (profile L1–569, memorial L570–666, Part 2)
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
