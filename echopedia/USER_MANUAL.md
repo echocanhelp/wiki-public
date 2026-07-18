@@ -24,7 +24,7 @@ Vault: `/home/leedt/echo-system` · Live: https://echocanhelp.github.io/wiki-pub
 |---------|----------------|
 || **`Echopedia website <domain>`** | **Full-domain** archive + **absorb into wiki graph** + publish push — see **[WEBSITE_INGEST.md](WEBSITE_INGEST.md)** completeness bar |
 || `Echopedia publication <name>` | Multi-entity publication ingest (yearbook, 菁英錄-style) — see **[PUBLICATION_INGEST.md](PUBLICATION_INGEST.md)** |
-|| `Echopedia feature <name>` | Pin/unpin a page to homepage Featured section — see [Featured section docs](#featured-section) |
+| `Echopedia feature <name>` | Pin/unpin a page to homepage Featured section — see [Featured section docs](#featured-section) |
 | `Echopedia refresh <url/site>` | Same as website when target is a site; else archive→apply→publish push for that URL’s entity |
 | `Echopedia full-domain archive <site>` | Synonym of **website** (not archive-only) |
 | `Echopedia <site>` / `Echopedia <name>` | Prefer full **website** pipeline if a domain; else entity refresh + publish push |
@@ -143,6 +143,7 @@ Workers never “reason through” cron prompts — only run scripts or P5/P11.
 | `l2_auto_drain_on_ci` | Nightly programmable queue drain |
 | `l2_auto_commit_on_heal` | Commit heal results |
 | `l3_auto_push_on_green` | Push gh-pages when ops+drift+smoke green |
+| `l2_auto_featured_on_publish` | Auto-regenerate Featured section on every publish |
 
 Turn off all auto-push: P6 `l3_auto_push_on_green=false`.
 
