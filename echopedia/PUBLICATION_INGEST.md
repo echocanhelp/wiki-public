@@ -342,6 +342,41 @@ git commit -m "echopedia: ingest 2017 TAHS Publication (archive, facts, source h
 
 ### Task 12: Final report
 
+**Before COMPLETE, run depth bar (Task 11b):**
+
+### Task 11b: Depth / absorption gate (mandatory)
+
+Page **presence is not enough**. A 118-page yearbook with stub person pages is **PARTIAL**.
+
+**Clean-fact rule (Gate 3 quality):**
+- Each A/B subject must have a **facts-clean** list of human-readable bullets.
+- Reject bullets that are raw two-column shreds (interleaved half-lines, mid-sentence column jumps).
+- Cap is a **floor by section length**, not a universal “5 facts”:
+
+| Source section lines (`end-start`) | Min clean facts on wiki page | Guide min body chars |
+|-----------------------------------|------------------------------|----------------------|
+| &lt; 80 | 6 | ≥ 900 |
+| 80–200 | 10 | ≥ 1400 |
+| &gt; 200 | 15 | ≥ 2000 or Overview + Career/Legacy |
+
+**Hub rule:** every created person page must be `[[people/slug|label]]` on the source hub (not plain-text only).
+
+**Missing A-tier pages:** any `tier=A` without a file → cannot COMPLETE.
+
+Write matrix: `knowledge/research/<slug>-depth-matrix.md` with PASS/FAIL per subject.
+
+**GATE 11b checklist:**
+- [ ] facts-clean exists (not only raw extract dumps)
+- [ ] Depth matrix: all A-tier PASS; B-tier FAIL documented
+- [ ] Source hub wikilinks all created people
+- [ ] No “COMPLETE” if majority of long profiles are stubs
+
+If FAIL → open depth-pass plan (see 2017 example: `~/.hermes/plans/2026-07-19_2017-tahs-depth-pass.md`) and set STATUS PARTIAL.
+
+---
+
+### Task 12: Final report
+
 **Steps:**
 Write report in this format:
 
@@ -351,6 +386,7 @@ SOURCE_PDFS: <n> files (<sizes>)
 ARCHIVE_TEXT: <n> lines total
 MANIFEST: <path>
 FACT_SHEET: <path> (A: <n>, B: <n>, C: <n>)
+FACT_SHEET_CLEAN: <path> (avg facts, quality OK|FAIL)
 TOC: <path> (<n> entries)
 SECTIONS: <path> (<n> mapped)
 SOURCE_PAGE: <path>
@@ -359,6 +395,8 @@ PAGES_CREATED: <n> (<list slugs>)
 PAGES_UPDATED: <n> (<list slugs>)
 BYLINES_LIST_ONLY: <n> (<list names>)
 ORGS_TOUCHED: <list>
+DEPTH_MATRIX: PASS <n> FAIL <n> (<path>)
+HUB_WIKILINKS_PEOPLE: <n>
 HYGIENE: BROKEN on touched = <n> (<n> files scanned)
 COMMIT: <sha> (<files changed>, <insertions>, <deletions>)
 PUBLISH: pushed <sha> | blocked
@@ -367,21 +405,24 @@ GAPS: <list>
 STATUS: COMPLETE | PARTIAL (<reason>)
 ```
 
+**STATUS: COMPLETE requires** Gate 11b depth bar green (or human waiver).
+
 ---
 
 ## Subagent contract (for Task 7)
 
 Every delegation prompt must include:
 1. Exact output path (absolute)
-2. Thin page template (copy-paste)
-3. Fact bullets (from fact sheet)
+2. Page template (copy-paste) — thin is **minimum structure**, not max content
+3. **Clean** fact bullets (from facts-clean; count must meet depth floor)
 4. "Do NOT invent facts. Do NOT commit. Do NOT wikilink to non-existing slugs."
-5. Required return: path, bytes, headers
+5. Required return: path, bytes, headers, body_char_count, fact_count
 
 After completion, parent must:
 ```bash
 stat <output-path>
 head -15 <output-path>  # verify frontmatter + headers
+wc -c <output-path>     # reject if under depth floor for section size
 ```
 
 ---
@@ -392,12 +433,16 @@ head -15 <output-path>  # verify frontmatter + headers
 |---------|-----|
 | Subagent >5-10m vanishes (process not_found) | Keep batches <5m; 2–3 pages max; parent re-creates if failed |
 | Two-column layout → fabricated bios | Use fact-bullet template only; never paste raw interleaved text |
+| **5 raw pdftotext shreds labeled as “facts”** | **Gate 3 redo → facts-clean; reject column shreds** |
+| **Stub pages for 300–500 line profiles** | **Depth floors by section length; Gate 11b matrix** |
+| **Hub lists plain names without wikilinks** | **Hub must link every created page** |
 | Byline person pages created | Subject ≠ byline; C-tier = list only on source hub |
 | Root index.html Featured broken | Never edit without human ask; spot-check after publish |
 | Git add catches unrelated deletions | Verify git diff --cached before commit |
 | Subagent claims success but no write | Always stat + re-read before accepting |
 | Wikilinks to non-existing pages | Only link existing slugs; plain text otherwise |
 | Quartz HTML stale | Always rebuild + deploy HTML, not md only |
+| Counted “pages created” as COMPLETE | Presence ≠ absorption |
 
 ---
 
@@ -409,4 +454,4 @@ head -15 <output-path>  # verify frontmatter + headers
 
 ---
 
-*Related: large-document-ingestion (PDF chunking) · WEBSITE_INGEST (domain archive) · USER_MANUAL (command language) · echopedia-ingestion-protocol (general workflow)*
+*Related: large-document-ingestion (PDF chunking) · WEBSITE_INGEST (domain archive) · USER_MANUAL (command language) · echopedia-ingestion-protocol (general workflow) · depth audit example: `knowledge/research/2017-tahs-publication-depth-audit.md`*

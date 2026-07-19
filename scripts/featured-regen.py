@@ -210,40 +210,40 @@ def inject_into_index(html_cards: str, index_path: Path) -> bool:
     """Inject featured cards between markers in index.html.
 
     Returns True if markers were found and replaced.
-    If markers don't exist, appends before </body>.
+    Collapses duplicate marker pairs. If markers don't exist, appends before </body>.
     """
     if not index_path.exists():
         print(f"WARNING: {index_path} not found, skipping injection", file=sys.stderr)
         return False
 
     content = index_path.read_text()
-
     start_marker = "<!-- featured-start -->"
     end_marker = "<!-- featured-end -->"
 
-    if start_marker in content and end_marker in content:
-        # Replace between markers
-        start_idx = content.index(start_marker) + len(start_marker)
-        end_idx = content.index(end_marker)
-        new_content = content[:start_idx] + "\n" + html_cards + "\n" + content[end_idx:]
+    # Collapse any prior duplicate featured blocks to a single clean pair
+    if start_marker in content:
+        import re as _re
+        content = _re.sub(
+            _re.escape(start_marker) + r".*?" + _re.escape(end_marker),
+            "",
+            content,
+            flags=_re.DOTALL,
+        )
+
+    block = start_marker + "\n" + html_cards + "\n" + end_marker + "\n"
+
+    low = content.lower()
+    if "</body>" in low:
+        insert_point = low.rindex("</body>")
+        new_content = content[:insert_point] + "\n" + block + content[insert_point:]
         index_path.write_text(new_content)
-        print(f"Injected featured cards into {index_path.name} (between markers)")
+        print(f"Injected featured cards into {index_path} (before </body>, deduped)")
         return True
-    else:
-        # Append before </body>
-        if "</body>" in content:
-            insert_point = content.index("</body>")
-            new_content = (
-                content[:insert_point]
-                + "\n" + start_marker + "\n" + html_cards + "\n" + end_marker + "\n"
-                + content[insert_point:]
-            )
-            index_path.write_text(new_content)
-            print(f"Appended featured cards to {index_path.name} (before </body>)")
-            return True
-        else:
-            print(f"WARNING: No </body> tag in {index_path.name}", file=sys.stderr)
-            return False
+
+    # Fallback: append
+    index_path.write_text(content.rstrip() + "\n" + block)
+    print(f"Appended featured cards to {index_path}")
+    return True
 
 
 def main():
@@ -304,15 +304,16 @@ def main():
     else:
         print(html_cards)
 
-    # Inject into index.html
+    # Inject into homepage HTML (root + public tree — Quartz output lives in public/)
     if args.inject:
-        index_path = root / "index.html"
-        if not index_path.exists():
-            index_path = root / "root" / "index.html"
-        if index_path.exists():
+        targets = []
+        for cand in (root / "index.html", root / "public" / "index.html", root / "root" / "index.html"):
+            if cand.exists() and cand not in targets:
+                targets.append(cand)
+        if not targets:
+            print(f"WARNING: index.html not found under {root}", file=sys.stderr)
+        for index_path in targets:
             inject_into_index(html_cards, index_path)
-        else:
-            print(f"WARNING: index.html not found in {root} or {root}/root", file=sys.stderr)
 
 
 if __name__ == "__main__":

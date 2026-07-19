@@ -13,6 +13,9 @@ cache/
 # Audiobook production masters (still in vault for Obsidian; not for public git)
 audiobook-albert-lai/
 
+# Large media files (>20MB Obsidian limit)
+albert-ch01-en-christopher-v1-scratch.mp3
+
 # OS / editor
 .DS_Store
 .obsidian/workspace*

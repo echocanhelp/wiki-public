@@ -144,10 +144,14 @@ Workers never “reason through” cron prompts — only run scripts or P5/P11.
 | `l2_auto_commit_on_heal` | Commit heal results |
 | `l3_auto_push_on_green` | Push gh-pages when ops+drift+smoke green |
 | `l2_auto_featured_on_publish` | Auto-regenerate Featured section on every publish |
+| `l2_auto_site_design_heal` | Nightly site-design programmable heal (04:25) |
+| `l2_auto_site_design_featured` | Site-design heal may re-inject featured |
+| `l2_auto_site_design_publish` | Site-design heal may publish for MD↔HTML parity |
+| `l2_site_design_blocks_green` | Escalate CRITICAL site-design (default false) |
 
 Turn off all auto-push: P6 `l3_auto_push_on_green=false`.
 
-Schedule: 04:00 janitor+audit · **04:15 ci-heal** · Mon 05:00 weekly · 09:00 digest · + infra watchdogs.
+Schedule: 04:00 janitor+audit · **04:15 ci-heal** (includes site-design heal + **only nightly push**) · **04:30 site-design audit** · Mon 05:00 weekly · 09:00 digest · + infra watchdogs.
 
 ---
 
@@ -186,6 +190,8 @@ bash /home/leedt/.hermes/scripts/echopedia-ci-heal.sh --dry-run
 | Disable push | **P6** |
 | Meta reports | **P7** |
 | Content mismatch (live ≠ repo) | **P5** + `references/ui-discrepancy-investigation.md` |
+| Homepage / layout / mobile / featured bugs | **P13** (+ `SITE_DESIGN.md`) |
+| Featured pin only | **P12** or `Echopedia feature <name>` |
 
 ---
 
@@ -207,6 +213,33 @@ The homepage shows **Featured people** and **Featured organizations** cards. The
 2. Publish (page drops off after recency window)
 
 **`Echopedia feature <name>`** — add or remove `featured: true` from the named page's frontmatter, then publish.
+
+---
+
+## Site designer / layout manager (nightly)
+
+**Canon:** [SITE_DESIGN.md](SITE_DESIGN.md) · **Worker:** WORKER **P13** · **Cron:** 04:30 audit-only · **Heal:** inside 04:15 ci-heal before L3 push
+
+Keeps the live site usable after content changes:
+
+| Layer | What |
+|-------|------|
+| L0 audit | MD↔HTML parity, featured markers, viewport/mobile signals, stub sample, spelling sample |
+| L1 heal | runs **inside ci-heal** before the single nightly push (featured root+public, parity publish) |
+| L2 verify | 04:30 audit-only after push — alert if still CRITICAL/HIGH |
+| L3 agent | Only via P13 + brief `AGENT_SUGGESTED` — **no freeform redesign** |
+
+**Push rule:** heal yes → push yes, but **one pusher** (`ci-heal` L3). Site-design never pushes alone.
+
+**Commands:**
+
+| You say | System does |
+|---------|-------------|
+| `Echopedia site design` / `site audit` | Audit → `site-design-brief.md` |
+| `Echopedia site heal` | Audit + programmable heal |
+| Worker P13 agent | Bounded local fixes from brief |
+
+Morning digest includes the site-design brief head.
 
 ---
 

@@ -1,6 +1,6 @@
 === SUGGESTED CONNECTIONS ===
 
-[CO-CITATION] 34 suggestions
+[CO-CITATION] 41 suggestions
   • formosan-presbyterian-church-in-los-angeles.md ↔ albert-s-lai.md
     Both link to people/jonah-chang
   • formosan-presbyterian-church-in-los-angeles.md ↔ national-taiwanese-presbyterian-council.md
@@ -23,6 +23,6 @@
     Both link to organizations/taiwanese-american-historical-society
 
 [ORPHAN_FOLDERS]
-  • content/organizations: 85 pages, avg 6.0 links each, 0 internal links
-  • content/people: 84 pages, avg 5.2 links each, 4 internal links
+  • content/organizations: 85 pages, avg 6.1 links each, 0 internal links
+  • content/people: 105 pages, avg 4.9 links each, 4 internal links
   • content/events: 10 pages, avg 4.0 links each, 0 internal links

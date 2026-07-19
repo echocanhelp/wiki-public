@@ -2,8 +2,8 @@
 
 *Living snapshot of the vibe-coded Echopedia system. Update when autonomy level, major crons, or mission status changes. Not a second copy of procedures — those live in skills.*
 
-**Last reviewed:** 2026-07-15  
-**Standards:** v5 · **Autonomy:** L3  
+**Last reviewed:** 2026-07-18  
+**Standards:** v6 · **Autonomy:** L3  
 **Start here:** [USER_MANUAL.md](USER_MANUAL.md) · workers: [WORKER.md](WORKER.md)  
 **Hub skill:** `echopedia-ops`
 
@@ -36,10 +36,11 @@
 |------|-----|------|
 | 04:00 | `echopedia-janitor` | Sense / prioritize / queue |
 | 04:00 | `echopedia-nightly-audit` | Structural audit; incident on fail |
-| **04:15** | **`echopedia-ci-heal`** | L2 heal + L3 green push |
+| **04:15** | **`echopedia-ci-heal`** | L2 heal + **site-design L1** + L3 **single push** |
+| **04:30** | **`echopedia-site-design`** | Post-deploy **audit-only** (alerts; no push) |
 | Mon 05:00 | `echopedia-weekly-improvement` | Improvement pack + drain + ci-heal |
-| 09:00 | `echopedia-digest` | Janitor + CI + SYSTEM_STATUS |
-| **On publish** | **`featured-regen`** | Hybrid featured: pinned + recency → homepage cards |
+| 09:00 | `echopedia-digest` | Janitor + CI + site-design + SYSTEM_STATUS |
+| **On publish** | **`featured-regen`** | Hybrid featured: pinned + recency → homepage cards (root + public) |
 
 ### Autonomy flags (`echopedia/standards.json` → `autonomy`)
 - L2: publish on drift, drain on CI, commit heal
@@ -73,10 +74,12 @@
 
 ### Autonomy gaps (L4+)
 - Local agent body-link drain (programmable only today)
+- P13 site-design agent pass remains human-triggered (nightly is script-only)
 - Log → auto skill patches
 - Hard broken-link gate (parser noisy)
 - Deprecate legacy `echopedia_publish_*` scripts (WARN only)
 - Keep `standards_version_seen` in sync after bumps (next janitor run)
+- Homepage still dual (`index.html` + Quartz `public/index.html`) — site-design keeps both featured-injected
 
 ### Not autonomous (by design)
 - Inventing biographies

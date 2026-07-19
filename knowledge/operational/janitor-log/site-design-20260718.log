@@ -1,0 +1,9 @@
+=== SITE DESIGN HEAL — 2026-07-18 dry=0 audit_only=0 ===
+flags: heal=True featured=True publish=True
+SITE_DESIGN_STATUS: OK
+SITE_DESIGN_SUMMARY: critical=0 high=0 medium=0 md=203 heals=none
+SITE_DESIGN_BRIEF: /home/leedt/echo-system/echopedia/site-design-brief.md
+SMOKE_SUMMARY: ok=4 fail=0
+SMOKE_STATUS: OK
+SITE_DESIGN_HEAL_SUMMARY: status=OK featured=0 publish=0 dry=0
+SITE_DESIGN_HEAL_STATUS: OK

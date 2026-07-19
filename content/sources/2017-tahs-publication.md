@@ -34,21 +34,21 @@ Primary Tier-2/Tier-1 source for 2017 TAHS profiles of first- and second-generat
 - [[people/franklin-ping-cheng|Franklin Ping Cheng]] — TAHS President 2014–2017
 
 ### B-tier people (pages)
-- 林福坤 — Biotech entrepreneur
-- 徐新宏 — 加州佳和企業集團董事長兼總裁
-- 林元清 — Physician, 集集小孩
-- 王桂榮 — Entrepreneur
-- 施劉秀枝 (Anne Shih) — Bowers Museum Chairman
-- 王能祥 — Religious elder
-- 蘇春槐 — Father of Lisa Su
-- 張善良 (Sam Chang) — Hotel developer, 紐約台裔
-- 蔡和杰 (Dr. Ho Chie Tsai) — TaiwaneseAmerican.org founder
-- 瑪莎·范德瑞爾 (Martha VanDriel) — Colonel, U.S. Army
-- 陳宏傑 (Jack J. Chen) — Clinical Pharmacist PhD
-- 黃愷怡 (Katherine Huang) — Attorney
-- 吳瑞椿 (Bob J. Wu) — Surgical physician
-- 黃咏婷 (Tiffany Huang) — Filmmaker
-- 楊小娜 (Shawna Yang Ryan) — Novelist, 2017 American Book Awards
+- [[people/lin-fu-kun|林福坤 (Lin Fu-kun)]] — Biotech entrepreneur (Amgen, EPO/Epogen)
+- [[people/hsu-hsin-hung|徐新宏 (Hsu Hsin-hung)]] — 加州佳和企業集團董事長兼總裁
+- [[people/lin-yuan-ching|林元清 (Lin Yuan-qing)]] — Physician, 集集小孩
+- [[people/wang-gui-rong|王桂榮 (Wang Gui-rong)]] — Entrepreneur, philanthropist
+- [[people/anne-shih|施劉秀枝 (Anne Shih)]] — Bowers Museum Chairman
+- [[people/wang-neng-xiang|王能祥 (Wang Neng-xiang)]] — Religious elder, Taiwan democracy lobbyist
+- [[people/su-chun-huai|蘇春槐 (Su Chun-huai)]] — Father of Lisa Su
+- [[people/sam-chang|張善良 (Sam Chang)]] — Hotel developer, 紐約台裔
+- [[people/ho-chie-tsai|蔡和杰 (Dr. Ho Chie Tsai)]] — TaiwaneseAmerican.org founder
+- [[people/martha-vandriel|瑪莎·范德瑞爾 (Martha VanDriel)]] — Colonel, U.S. Army
+- [[people/jack-j-chen|陳宏傑 (Jack J. Chen)]] — Clinical Pharmacist PhD
+- [[people/katherine-huang|黃愷怡 (Katherine Huang)]] — Attorney
+- [[people/bob-j-wu|吳瑞椿 (Bob J. Wu)]] — General surgeon
+- [[people/tiffany-huang|黃咏婷 (Tiffany Huang)]] — Filmmaker
+- [[people/shawna-yang-ryan|楊小娜 (Shawna Yang Ryan)]] — Novelist, 2017 American Book Awards
 
 ### C-tier / bylines (no page)
 黃樹人, 廖清山, 周威廉, 周威霖, 楊文顯, Edda Huang, 鄭炳全, 楊遠薰, 陳婉真, 曾恆利, 賴慧娜, 台美人歷史協會 整理

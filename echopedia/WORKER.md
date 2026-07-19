@@ -55,6 +55,8 @@ NEXT: STOP | human decision needed: <one line>
 | turn off push, disable auto, autonomy flag, standards | **P6** |
 | improve pack, weekly, intake, freshness | **P7** |
 | cron check, cron broken, jobs.json | **P11** |
+| featured homepage cards | **P12** |
+| site design, layout, mobile, homepage look, spelling sample | **P13** |
 | edit person/org page content (not just links) | **P8** |
 || new work/source page for book/dissertation | **P9** |
 || multi-entity publication (yearbook, 菁英錄-style) | **PUBLICATION_INGEST.md** (standalone playbook) |
@@ -191,6 +193,11 @@ If unclear → **P0** only, then ask human one question in NEXT.
 - `l2_auto_drain_on_ci`
 - `l2_auto_commit_on_heal`
 - `l3_auto_push_on_green`
+- `l2_auto_featured_on_publish`
+- `l2_auto_site_design_heal`
+- `l2_auto_site_design_featured`
+- `l2_auto_site_design_publish`
+- `l2_site_design_blocks_green`
 
 **STEPS:**
 1. Read current:  
@@ -303,8 +310,9 @@ Worker models must **never** “interpret” cron prompts or invent steps for th
 | memory-audit | 05:00 daily | `memory-audit.sh` | Report if issues |
 | echopedia-janitor | 04:00 | `echopedia-janitor-wrapper.sh` | Queue + log (local) |
 | echopedia-nightly-audit | 04:00 | `echopedia-nightly-audit-wrapper.sh` | Alert if thresholds |
-| **echopedia-ci-heal** | **04:15** | `echopedia-ci-heal-wrapper.sh` | L2/L3 heal (= P5) |
+| **echopedia-ci-heal** | **04:15** | `echopedia-ci-heal-wrapper.sh` | L2/L3 heal + **site-design L1** + **only nightly push** |
 | echopedia-weekly-improvement | Mon 05:00 | `echopedia-weekly-improvement.sh` | Pack+drain+heal |
+| **echopedia-site-design** | **04:30** | `echopedia-site-design-wrapper.sh` | **Post-deploy audit-only** (heal lives inside ci-heal) |
 | echopedia-digest | 09:00 | `echopedia-digest.sh` | Morning dashboard |
 
 **Selfcheck:** `bash /home/leedt/.hermes/scripts/echopedia-cron-selfcheck.sh`  
@@ -331,13 +339,40 @@ Expect `CRON_STATUS: OK`.
 ## P12 — FEATURED REGENERATE
 
 **STEPS:**
-1. `python3 /home/leedt/.hermes/scripts/featured-regen.py --root /home/leedt/echo-system --dry-run`
+1. `python3 /home/leedt/echo-system/scripts/featured-regen.py --root /home/leedt/echo-system --dry-run`
 2. Verify selected pages match expectations (pinned + recency, within caps)
-3. `python3 /home/leedt/.hermes/scripts/featured-regen.py --root /home/leedt/echo-system --inject`
-4. Verify `index.html` has `<!-- featured-start -->` / `<!-- featured-end -->` markers
-5. Commit + publish via `echopedia-publish.sh`
+3. `python3 /home/leedt/echo-system/scripts/featured-regen.py --root /home/leedt/echo-system --inject`
+4. Verify `index.html` **and** `public/index.html` have `<!-- featured-start -->` / `<!-- featured-end -->` markers (single pair each)
+5. Commit + publish via `echopedia-publish.sh` if user said publish
 
-**DO NOT:** edit index.html manually; always use the script.
+**DO NOT:** edit index.html manually; always use the script. Script lives in **`echo-system/scripts/`**, not `.hermes/scripts/`.
+
+---
+
+## P13 — SITE DESIGN (layout manager)
+
+**GOAL:** Run the site designer loop from **`echopedia/SITE_DESIGN.md`**. Prefer scripts; local agent only for `AGENT_SUGGESTED` items.
+
+**INPUT:** `audit` (default) | `heal` | `agent` (bounded fixes). Optional `publish`.
+
+**STEPS:**
+1. Read head of canon: `head -80 /home/leedt/echo-system/echopedia/SITE_DESIGN.md`
+2. Audit only:  
+   `python3 /home/leedt/.hermes/scripts/echopedia-site-design-audit.py`
+3. If user said `heal` (or nightly equivalent):  
+   `bash /home/leedt/.hermes/scripts/echopedia-site-design-heal.sh`  
+   Dry-run: add `--dry-run`
+4. Read `/home/leedt/echo-system/echopedia/site-design-brief.md`
+5. **Agent branch only if user said `agent` or brief has AGENT_SUGGESTED and user allowed fixes:**  
+   - Max **5** content files OR featured/marker repair only  
+   - **Forbidden:** Quartz theme redesign, new nav IA, invent bios, bulk CSS  
+   - Spelling: clear English typos only; never “fix” Chinese names  
+   - Re-run audit after edits
+6. If user said `publish`: run **P2** (or heal already published for parity)
+7. Report → **STOP**
+
+**SUCCESS:** `SITE_DESIGN_STATUS: OK` or `WARN` without CRITICAL after heal; brief updated.  
+**DO NOT:** open-ended “make the site beautiful”; do not schedule agent crons for this.
 
 ---
 

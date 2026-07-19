@@ -1,0 +1,183 @@
+         Dr. Lisa T. Su ( 蘇姿丰博士 )
+          超微公司 (AMD) 運籌帷幄
+                                             ◎曾恆利
+
+    (Editor's Note: Dr. Lisa T. Su was born in Taiwan in 1969. She is currently the CEO and
+ President of the Sunnyvale, Calif.-based Advanced Micro Devices (AMD), a giant in semiconductor
+ industry. She immigrated with her family to the U.S. at the age of 2. Encouraged by her parents,
+ she attended the Bronx High School of Science (Bronx Science) and then the Massachusetts Institute
+ of Technology (MIT), ending up majoring in electrical engineering. She earned her bachelor's,
+ master's, and doctoral degrees at MIT. As a doctoral candidate, the MIT Technology reports, Lisa
+ was "one of the first researchers to look into silicon-on-insulator technology, a then unproven
+ technique for increasing transistors' efficiency by building them atop layers of an insulating
+ material." In 1994, Lisa served at Texas Instruments as a member of the technical staff, followed by
+ working at IBM as VP of its Semiconductor Research and Development Center. To acknowledge her
+ achievement and contribution, MIT Technology Review named her a "Top Innovator Under 35" in
+ 2001. The following year, she was selected as one of the "Top 100 Young Innovators" by the same
+ Review, and, in 2014, was named "Executive of the Year" by the EE Times. During 2012-2014, Dr.
+ Su served as Senior VP and General Manager at AMD. She was promoted to President and CEO in
+ 2014. As a pioneer in semiconductor industry, Dr. Su sits on the Board of the Global Semiconductor
+ Alliance and the U.S. Semiconductor Industry Association. In 2016, Lisa was named one of the "50
+ Most Powerful Women in Technology" by the National Diversity Council, and, in the same year, was
+ named one of the "Outstanding 50 Asian Americans in Business" by the Asian American Business
+ Development Center. In 2017, Dr. Su was named one of the "World's Greatest Leaders" by The
+ Fortune Magazine.)
+
+
+   吾友台灣會館                                             女均為台美人之光。
+副理事長蘇春槐
+博士之千金蘇姿丰                                                Dr. Lisa Su 於 1969 年 11 月出生於台南市，
+(Lisa Su) 博 士 ( 見                                     三歲時即隨父負笈美國。當時 Dr. Tom Su 在哥
+圖 )，係台美人第                                             倫比亞大學就讀研究院。Lisa Su 旋即入學哥大
+二代年輕有為的                                               師院附設的幼稚園及小學。1976 年，Tom 搬到
+企業家。超微公司                                              Bayside, Lisa 後來就進入附近的小學 PS203; 因
+(AMD) 係 紐 約 證                                         其成績優異，不久即跳級進入特殊初中 (2 年制 )
+券交易所上市科                                               隨後考上紐約市最有名的三所明星高中之一，
+技大公司，有數萬                                              Bronx High School of Science。Lisa 的數學和領
+                                                      導能力超強，鋼琴造詣亦高深。雖曾有機會入
+的員工。AMD 於 6 月 12 日宣布任命 Dr. Lisa T.
+                                                      茱利葉音樂學院就讀，卻放棄之。進入 Bronx
+Su( 蘇 姿 丰 博 士 ) 為 新 營 運 長 (Chief Operation
+                                                      Science 高中後，榮獲西屋 (Westinghouse) 科學
+Officer, 簡稱 COO)。其父蘇博士 (Dr. Tom Su)
+                                                      獎，並以優異成績畢業於 Bronx Science。
+接受恭賀時笑容滿面。Tom 非常注重子女教
+育，為人低調。他認為他千金的傑出成就與新                                   1986 進入 MIT 主修電機，大二研習 SOI 技
+派令是他父親節 (6/15/14) 的最佳禮物。蘇氏父                           術，今已發展成半導體主流。尤值得我們台美
+
+                                                 76
+
+                                           ▲全家福
+
+二代注意者，Lisa 在大學生時代，常到各工廠                                者”，而 Google 老闆也在同年入選。
+學習與見習晶片製造流程。她的高等教育 BS,
+MS 及 Ph. D. 皆在 MIT 完成，而且在年僅 24                          2007 年 Lisa 又 被 Freescale Semiconductor 挖
+歲時就得到 MIT 的電機博士。筆者相信，Lisa                              去 當 CTO (Chief Technology Officer)， 開 發 電
+是台灣人旅美歷史上，第一位最年輕而榮獲                                    子書 Kindle，並協助公司之 IPO，或因年紀尚
+MIT double E 博 士 的 佼 佼 者。This will inspire             輕，而與當 CEO 擦身而過，甚為可惜，但 Lisa
+for our young Taiwanese American generations to        領導能力超強，在科技上實力雄厚，擅長於談
+come.                                                  判，加上豐厚的人際關係，更具有多種才華，
+                                                       已成為現代科技公司難能尋覓的 CEO 最佳人
+  在 1994 年，Lisa 頂 著 MIT 電 機 博 士 的 光 環                  選之一。
+先 到 德 儀 (Texas Instruments)， 再 轉 入 IBM 研
+發部門，負責研發銅晶片的製程，利用 SOI 技                                  2012 年超微 (AMD) 面臨生存危機，PC 市場
+術，即是半導體革命性的發展，Lisa 居功厥偉，                               快速衰退，AMD 早期是半導體晶片大廠，僅
+也替 IBM 創造了百億的商機。之後 Lisa 擔任                             次於 Intel。但科技瞬息萬變，AMD 領導階層
+IBM 研發部門主管，CEO 特助。在 IBM CEO                            沒有快速反應市場變化，導致銷售業績持續下
+的調教下學習了不少領導、談判技巧。                                      滑，只好到 Freescale 來挖 Lisa Su，重金禮聘，
+                                                       委 以 大 任， 肩 負 Sr. VP 及 GM， 掌 其 全 球 之
+  爾 後 IBM 撥 給 一 筆 經 費 創 立 一 部 門， 首                     Business Unit， 負 責 研 發 Sony PS4 及 Microsoft
+度 研 發 cell chip， 應 用 在 Sony PS3, 後 用 於                 X-Box One，成功的創造數十億的商機，擔負
+Microsoft X-Box 及任天堂。Lisa 曾被稱 “Video                   領導公司轉型。
+Game Technology Queen”，2002 年 入 選 MIT
+Technology Review “全球百大科技最有創意                            「利用自己的優勢，走自己的路」已是她領
+
+
+                                                  77
+
+導的主軸。AMD 自 2013 年以來已見成效，漸                            Biographical Data
+入佳境。Lisa 為公司忙於創業與產品行銷外，
+仍不斷努力自我提升。其展現的個人睿智、毅                                 Name: 蘇姿丰博士 Lisa Tzwu-Fang Su, Ph.D.
+力與決心，讓科技大老敬重，也讓我們台美人                                 Birth Year: 1969
+敬佩之至 !
+                                                     Birth Place: Tainan, Taiwan
+  今年四月 Lisa 入選 EE Times 年度大獎 “Chief
+Executive of the Year”，表揚她在產業界的貢                     Residence: Austin, Texas
+獻。由此可見她頗受董事會、產業界及投資銀
+                                                     Family:
+行高度的肯定。今年 (2014)6 月 12 日，Lisa 被
+任命為 AMD 的營運長是一種榮譽，也是一種                               1. Father: 蘇春槐 (Chun-Hwai Su)
+挑戰。顯然地，AMD 董事會正在佈局 (Groom)
+以便 Lisa 在不久的將來接任 CEO。我們料她將                           2. Mother: 羅淑雅 (Sandy Su)
+全力以赴，以其堅強的意志，來實現她的願景，
+                                                     3. Husband: 林大耀（Daniel Lin)
+相信 Lisa 是充滿著信心，穩扎穩打出擊，AMD
+對她的這項新任命與新佈局，再次讓我們見證                                 Education:
+美國是一個崇尚公平正義的社會。其父 Dr. Su
+期許愛女 Lisa 繼續 “自我超越”，更上層樓，                            1. 麻 省 理 工 學 院。 1990。 電 機 工 程 學 士…
+以貢獻所學造福人群。                                         Massachusetts Institute. B.S. In Electrical
+                                                   Engineering of Technology
+ 目 前 Dr. Lisa Su 兼 任 Analog Device (ADI)
+的 Board of Director 及 MIT EE Advisory Board          2. 麻 省 理 工 學 院。 1991。 電 機 工 程 碩 士…
+Member。Lisa 具有年輕、少數族裔、女性等背                         Massachusetts Institute. M.S. In Electrical
+景，在科技界是位傳奇人物。而且這麼年輕就                               Engineering of Technology
+當了 Board Members，確實是一位世界級的女                          3. 麻 省 理 工 學 院。 1994。 電 機 工 程 博 士…
+強人。                                                Massachusetts Institute. Ph.D. In Electrical
+ 她雖然有這麼多的輝煌成就，但她仍保持著                               Engineering of Technology
+台灣人的純樸、有禮的風格，每次專訪都感謝                                 Employment:
+父母教養，尤其對母親自創事業的過程，給她
+很多的啟示。其父 Tom 說：Lisa 有寬宏的知識，                          1. 超 微 半 導 體。 2014。 總 裁 兼 執 行 長…
+且不限於科技，她會把不同的事務連結起來，                               AMD (Advanced Micro. Devices, Inc.). President
+產生不同的思維，看到別人看不到的，做人家                               & Chief Executive Officer(CEO)
+還沒有做的，以搶盡先機。同時她注重身體，
+在煩忙中 ( 她是空中飛人之一，常常到世界各                              2. 超 微 半 導 體。 2014。 營 運 長…
+地演講及洽商公務 ) 她都能保持最佳狀況，時                             AMD (Advanced Micro. Devices, Inc.) Chief
+刻做好準備，迎接各種挑戰，誠屬難能可貴。                               Operating Officer (COO)
+
+ Lisa 之父蘇春槐博士係某公司總裁，他是位                              3. 麻省理工學院。 2013。 Visiting Committee
+有高瞻遠矚，並有敏銳眼光的投資理財專家，                               Members 電 機 與 電 腦 學 系。 Electrical
+一向熱愛台灣，常常提攜鄉親及協助年輕人，                               Engineering & Computer (MIT EECS) Sciences,
+兼任台灣會館副理事長已有數年，平常在會館                               MIT
+主持 “大家來開講”節目，廣受鄉親歡迎。尤                               4.   超 微 半 導 體。 2012。                  資
+其對服務大眾及公益事業從不遺餘力，有口皆                               深 副 總 裁 暨 全 球 事 業 群 總 經 理…
+碑，是位仁人君子，大家十分敬重的台美社區                               AMD (Advanced Micro Devices Inc.) Sr. VP &
+領袖。父女不愧為台灣之光。天佑台灣！勉哉                               GM Global Business Units
+台美人！
+                                                     5.   亞 德 諾 半 導 體 2012.        獨 立 董 事…
+
+                                              78
+
+Analog Devices Inc. Board of Directors                （IEEE) 院士
+
+  6. 飛 思 卡 爾 半 導 體 2008。 資                              4. 在 IBM 研 發 Cell Microprocessor 應 用 於
+深 副 總 裁 兼 網 通 事 業 部 總 經 理…                            Sony Playstation 3, Microsoft X-Box 360
+Freescale semiconductor Sr. VP & GM Networking
+& Multimedia                                             5. 在 AMD 研 發 晶 片 用 於 新 一 代 Sony
+                                                      Playstation 4 及 Microsoft X-Box One 主機
+  7. 飛 思 卡 爾 半 導 體 2007。 技 術 長…
+Freescale Semiconductor Chief Technology officer        6. 撰寫或合撰超過 40 篇技術物
+(CTO)                                                  7. YWCA 2003 Outstanding Achievement
+  8. 國 際 商 業 機 器 公 司 2002. 半                          Award for Business
+導 體 研 究 暨 發 展 中 心 副 總 裁…                                8. 2002 年 獲 選 麻 省 理 工 學 院「Technology
+International Business Semiconductor Research         Review」”Top 100 Young Innovators” 全球百
+and Machines Corp. (IBM) Development Center           大青年創新發明家
+(SRDC)
+                                                        9. 在 IBM 成功研發銅晶片製程在 0.22 micron
+   9 .     國      際     商     業     機     器    公      generation
+司 2000.       創 新 產 品 部 門 主 任…
+International Business Director, Emerging Products       10. 博 士 論 文 ”Extreme-Submicrometer
+in Machines Corp. (IBM) Microelectronics              Silicon-On-Insulator(SOI) MOSFETs”, 指導教
+Division                                              授：Dr. Dimitri A. Antoniadis
+
+  10. 國 際 商 業 機 器 公 司 1999.                            11. 不到 25 歲獲得麻省理工學院（MIT) 電
+IBM      執 行 長 Louis Gerstner            特 助…         機博士
+International Business Machines Corp (IBM)
+                                                         12. 發表論文”Measurement and Modeling of
+Special Assistant to IBM CEO Louis V. Gerstner Jr.
+                                                      Self-Heating Effects In SOI nMOSFETs”獲”Best
+  11. 國際商業機器公司 1997. Project Manager…                 Student Paper Award” at International Electron
+International Business Machines Corp (IBM)            Devices Meeting (IEDM 1993)
+CMOS Logic Technology, SRDC
+                                                        Hobby：
+  12.     國 際 商 業 機 器 公 司
+                                                        1. Golf
+1 9 9 5 。 R e s e a r c h S t a f f M e m b e r…
+International Business Machines Corp (IBM)              2. Wine Tasting
+Advanced Logic and SRAM. Devices, SRDC
+                                                        3. Piano Playing
+  13. 德 州 儀 器 公 司。 1994。 半
+導 體 製 程 與 元 件 中 心 技 術 專 員…
+Texas Instrument Corp. Semiconductor Process
+and Device Center(SPDC) Technical Staff
+
+  Accomplishment:
+
+ 1. AMD 公 司 45 年 來 首 位 女 性 亞 裔 執 行 長
+（CEO)
+
+ 2.  獲 EE Times and EDN 2014 UBM Tech
+ACE Awards “Executive of the Year” category
+
+  3. 2009 年獲選為國際電機電子工程師學會
+
+                                                 79
