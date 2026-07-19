@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "last_run": "2026-07-18",
-  "standards_version_seen": 5,
+  "last_run": "2026-07-19",
+  "standards_version_seen": 6,
   "runs": [
     {
       "date": "2026-07-15",
@@ -30,6 +30,13 @@
       "selected": 5,
       "standards_version": 5,
       "standards_bumped": false
+    },
+    {
+      "date": "2026-07-19",
+      "candidates": 60,
+      "selected": 5,
+      "standards_version": 6,
+      "standards_bumped": true
     }
   ],
   "queue": [
@@ -44,6 +51,34 @@
         "LINK_UNLINKED_ENTITY: people/li-furen.md → people/chen-meihui",
         "LINK_UNLINKED_ENTITY: people/li-furen.md → people/zhang-xuanxin"
       ],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "organizations/taiwan-formosa.md",
+      "findings": [
+        "STANDARDS_RESWEEP"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "organizations/presbyterian-church-in-taiwan.md",
+      "findings": [
+        "STANDARDS_RESWEEP"
+      ],
+      "hygiene": [],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
         "Fix ONLY listed findings; no inventing biography",
@@ -84,46 +119,14 @@
         "Do not commit/push/quartz unless operator enabled",
         "Re-run link-hygiene on this path after edits"
       ]
-    },
-    {
-      "path": "people/zheng-quansheng.md",
-      "findings": [
-        "LINK_UNLINKED_ENTITY"
-      ],
-      "hygiene": [
-        "LINK_UNLINKED_ENTITY: people/zheng-quansheng.md → organizations/taiwanese-american-historical-society"
-      ],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "people/ku-gstpc.md",
-      "findings": [
-        "LINK_UNLINKED_ENTITY"
-      ],
-      "hygiene": [
-        "LINK_UNLINKED_ENTITY: people/ku-gstpc.md → organizations/good-shepherd-taiwanese-presbyterian-church"
-      ],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
     }
   ],
-  "last_candidates": 29,
+  "last_candidates": 60,
   "last_selected": [
     "people/li-furen.md",
+    "organizations/taiwan-formosa.md",
+    "organizations/presbyterian-church-in-taiwan.md",
     "organizations/ntpc.md",
-    "people/zhang-xuanxin.md",
-    "people/zheng-quansheng.md",
-    "people/ku-gstpc.md"
+    "people/zhang-xuanxin.md"
   ]
 }

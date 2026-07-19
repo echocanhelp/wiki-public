@@ -1,27 +1,27 @@
-## CI heal — 2026-07-18
-- Started: 2026-07-18T23:56:46-07:00
-- dry_run=1 l2_drift=True l2_drain=True l3_push=True
+## CI heal — 2026-07-19
+- Started: 2026-07-19T04:15:43-07:00
+- dry_run=0 l2_drift=True l2_drain=True l3_push=True
 
-- OPS_WARN: standards v6 not yet seen by janitor (seen=5) — next 4am run will resweep
 - OPS_WARN: legacy script still present (prefer echopedia-publish.sh): echopedia_publish_loop.py
 - OPS_WARN: legacy script still present (prefer echopedia-publish.sh): echopedia_publish_staging.sh
-- OPS_SUMMARY: fail=0 warn=3
+- OPS_SUMMARY: fail=0 warn=2
 - OPS_STATUS: WARN
-- would queue-drain
-- DRIFT_SUMMARY: stale=0 missing_html=0
-- DRIFT_STATUS: OK
-- would: site-design-heal
-- broken_wikilink_hits≈18 (max_green=0)
+- DRAIN: people/li-furen.md → ['NO_SAFE_ACT (needs human/agent for body links)']
+- DRAIN: organizations/taiwan-formosa.md → ['NO_SAFE_ACT (needs human/agent for body links)']
+- DRAIN: organizations/presbyterian-church-in-taiwan.md → ['NO_SAFE_ACT (needs human/agent for body links)']
+- DRAIN: organizations/ntpc.md → ['NO_SAFE_ACT (needs human/agent for body links)']
+- DRAIN: people/zhang-xuanxin.md → ['NO_SAFE_ACT (needs human/agent for body links)']
+- DRAIN_SUMMARY: items=5
+- DRIFT_SUMMARY: stale=22 missing_html=1
+- DRIFT_STATUS: ACTION — run: bash ~/.hermes/scripts/echopedia-publish.sh
+- PUBLISH_STATUS: OK
+- post-publish drift: OK
+- SITE_DESIGN_STATUS: OK
+- SITE_DESIGN_SUMMARY: critical=0 high=0 medium=0 md=204 heals=none
+- SITE_DESIGN_HEAL_SUMMARY: status=OK featured=0 publish=0 dry=0
+- SITE_DESIGN_HEAL_STATUS: OK
+- post-site-design drift: OK
+- broken_wikilink_hits≈15 (max_green=0)
 - SMOKE_SUMMARY: ok=4 fail=0
 - SMOKE_STATUS: OK
 - **green=1**
-- would push (L3 green)
-
-### Actions
-- CI: ops-check WARN
-- CI: would drain queue (dry-run)
-- CI: drift OK
-- CI: would site-design-heal (dry-run)
-- CI: smoke OK
-- CI: would commit heal (dry-run)
-- CI: would push gh-pages (dry-run green)

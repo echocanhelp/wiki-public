@@ -1,6 +1,6 @@
-## Site design audit — 2026-07-18 23:51
+## Site design audit — 2026-07-19 04:15
 
-- pages_md=203
+- pages_md=204
 - critical=0 high=0 medium=0
 - heals_suggested=none
 
@@ -8,24 +8,24 @@
 - **SITE_DESIGN_STATUS: OK**
 
 ### INFO (2)
-- **B2** pinned featured pages: 13
+- **B2** pinned featured pages: 29
   - `people/alan-thian.md`
   - `people/albert-s-lai.md`
-  - `people/choan-seng-song.md`
-  - `people/huang-gen-shen.md`
-  - `people/john-chiang.md`
-  - `people/leonard-hsu-jr.md`
-  - `people/liao-shu-zong.md`
-  - `people/lien-hwa-chow.md`
-- **B1** person/org touched ≤7d (rely on recency featured window): 138
-  - `people/alexander-macdonald.md`
   - `people/anne-shih.md`
-  - `people/april-lin.md`
   - `people/bob-j-wu.md`
+  - `people/choan-seng-song.md`
+  - `people/franklin-ping-cheng.md`
+  - `people/ho-chie-tsai.md`
+  - `people/hsu-hsin-hung.md`
+- **B1** person/org touched ≤7d (rely on recency featured window): 123
+  - `people/alexander-macdonald.md`
+  - `people/april-lin.md`
   - `people/c-c-chen.md`
   - `people/chaolong-kao.md`
   - `people/ching-fang-chen.md`
   - `people/daniel-kao.md`
+  - `people/danny-chen.md`
+  - `people/en-sheng-pan.md`
 
 ### Programmable heals
 - (none)
