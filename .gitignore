@@ -10,6 +10,10 @@ cache/
 **/__pycache__/
 *.pyc
 
+# Auto-generated ops artifacts (ci-heal output)
+echopedia/ci-heal-brief.md
+echopedia/last-good-deploy.json
+
 # Audiobook production masters (still in vault for Obsidian; not for public git)
 audiobook-albert-lai/
 

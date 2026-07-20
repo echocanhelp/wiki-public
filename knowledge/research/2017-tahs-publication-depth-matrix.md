@@ -87,3 +87,8 @@
 
 ## Commit Recommendation
 Commit all changes. Push only on explicit approval.
+
+
+## Final Commit
+- **Commit:** 2026-07-19 — pushed to origin/gh-pages
+- **Status:** ALL DONE — 23/23 people have substantive pages, 0 stubs remaining
