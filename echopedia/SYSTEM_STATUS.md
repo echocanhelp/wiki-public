@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-07-20 04:15 PDT*
+*Generated: 2026-07-20 05:00 PDT*
 
 ## Orientation
 - **User manual (start here):** [USER_MANUAL.md](USER_MANUAL.md)
@@ -13,12 +13,12 @@
 - **Level:** L3
 - **L2 auto-publish on drift:** True
 - **L3 auto-push when green:** True
-- **Last good deploy:** `7bc39ea`
+- **Last good deploy:** `b1cdae5`
 
 ## Content
 - **Markdown pages:** 208
 - **Janitor queue depth:** 5
-- **Uncommitted files:** 512
+- **Uncommitted files:** 8
 
 ## What runs automatically
 | When | Job | Role |
@@ -47,19 +47,19 @@ Load skill **echopedia-ops** first for any wiki work.
 ```
     Name:      unified-watchdog
     Schedule:  every 30m
-    Last run:  2026-07-20T04:13:41.679045-07:00  ok
+    Last run:  2026-07-20T04:43:42.242911-07:00  ok
     Name:      echopedia-digest
     Schedule:  0 9 * * *
     Last run:  2026-07-19T09:00:51.877344-07:00  ok
     Name:      kanban-sync
     Schedule:  every 30m
-    Last run:  2026-07-20T03:51:41.221540-07:00  ok
+    Last run:  2026-07-20T04:51:42.443058-07:00  ok
     Name:      memory-audit
     Schedule:  0 5 * * *
-    Last run:  2026-07-19T05:00:45.230625-07:00  ok
+    Last run:  2026-07-20T05:00:43.414485-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-07-20T04:14:41.717309-07:00  ok
+    Last run:  2026-07-20T05:00:42.719291-07:00  ok
     Name:      echopedia-nightly-audit
     Schedule:  0 4 * * *
     Last run:  2026-07-20T04:00:48.502017-07:00  ok
@@ -70,7 +70,7 @@ Load skill **echopedia-ops** first for any wiki work.
     Schedule:  0 5 * * 1
     Name:      echopedia-ci-heal
     Schedule:  15 4 * * *
-    Last run:  2026-07-19T04:16:00.251756-07:00  ok
+    Last run:  2026-07-20T04:15:58.493276-07:00  ok
     Name:      vault-unfinished-threads
     Schedule:  0 8 * * *
     Last run:  2026-07-19T08:00:49.580790-07:00  ok
@@ -82,7 +82,7 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-07-19T08:00:49.610289-07:00  ok
     Name:      echopedia-site-design
     Schedule:  30 4 * * *
-    Last run:  2026-07-19T04:30:43.824584-07:00  ok
+    Last run:  2026-07-20T04:30:42.082008-07:00  ok
 ```
 
 ## Briefs

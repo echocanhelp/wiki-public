@@ -1,60 +1,94 @@
-## Echopedia self-improvement — 2026-07-15
+## Echopedia self-improvement — 2026-07-20
 
 ### Ops check
-- OPS_WARN: legacy script still present (prefer echopedia-publish.sh): echopedia_publish_loop.py
-- OPS_WARN: legacy script still present (prefer echopedia-publish.sh): echopedia_publish_staging.sh
-- OPS_SUMMARY: fail=0 warn=2
-- OPS_STATUS: WARN
+- OPS_SUMMARY: fail=0 warn=0
+- OPS_STATUS: OK
 
 ### Deploy drift
-- DRIFT_STALE_HTML: people/jonah-chang (md newer by ~15m)
-- DRIFT_STALE_HTML: people/mingyuan-hsu (md newer by ~15m)
-- DRIFT_STALE_HTML: people/david-huang (md newer by ~15m)
-- DRIFT_STALE_HTML: people/san-francisco-theological-seminary (md newer by ~15m)
-- DRIFT_SUMMARY: stale=4 missing_html=0
-- DRIFT_STATUS: ACTION — run: bash ~/.hermes/scripts/echopedia-publish.sh
+- DRIFT_SUMMARY: stale=0 missing_html=0
+- DRIFT_STATUS: OK
 
 ### Knowledge freshness
 - FRESH_SUMMARY: stale=0 missing=0
 - FRESH_STATUS: OK
 
 ### Entity hints sync
-- HINTS_SUMMARY: added=0
+- HINTS_ADD: people/alan-thian
+- HINTS_ADD: people/albert-chapter1-audiobook-taiwanese-female
+- HINTS_ADD: people/anne-shih
+- HINTS_ADD: people/april-lin
+- HINTS_ADD: people/bob-j-wu
+- HINTS_ADD: people/danny-chen
+- HINTS_ADD: people/franklin-ping-cheng
+- HINTS_ADD: people/he-sumei
+- HINTS_ADD: people/ho-chie-tsai
+- HINTS_ADD: people/hsu-hsin-hung
+- HINTS_ADD: people/huang-gen-shen
+- HINTS_ADD: people/jack-j-chen
+- HINTS_ADD: people/james-yang
+- HINTS_ADD: people/joe-hu
+- HINTS_ADD: people/john-chiang
+- HINTS_ADD: people/jolie-chenn
+- HINTS_ADD: people/joseph-teng
+- HINTS_ADD: people/josephine-pan
+- HINTS_ADD: people/joyce-yeh
+- HINTS_ADD: people/katherine-huang
+- HINTS_ADD: people/liao-shu-zong
+- HINTS_ADD: people/lin-fu-kun
+- HINTS_ADD: people/lin-yuan-ching
+- HINTS_ADD: people/linda-liu
+- HINTS_ADD: people/lisa-hou
+- HINTS_ADD: people/lisa-liu
+- HINTS_ADD: people/lisa-su
+- HINTS_ADD: people/martha-vandriel
+- HINTS_ADD: people/meifeng-tsai
+- HINTS_ADD: people/paul-chen
+- HINTS_ADD: people/peter-lin
+- HINTS_ADD: people/ray-jan
+- HINTS_ADD: people/roger-tsai
+- HINTS_ADD: people/sam-chang
+- HINTS_ADD: people/samantha-yu
+- HINTS_ADD: people/sharon-huang
+- HINTS_ADD: people/shawn-yeh
+- HINTS_ADD: people/shawna-yang-ryan
+- HINTS_ADD: people/shi-yuli
+- HINTS_ADD: people/shirley-yu
 
 ### Intake opportunities
-- INTAKE_MISSING_PAGE: Formosan Christian Church (type: entity, mentioned 6x in: organizations/formosan-presbyterian-church-in-los-angeles.md, people/albert-s-lai.md, people/c-c-chen.md (+3 more))
-- INTAKE_MISSING_PAGE: Taiwanese American Presbyterian (type: entity, mentioned 4x in: organizations/national-taiwanese-presbyterian-council.md, people/david-huang.md, people/yunching-yeh-davis.md (+1 more))
-- INTAKE_MISSING_PAGE: Tainan East Gate Barclay (type: entity, mentioned 4x in: organizations/national-taiwanese-presbyterian-council.md, people/albert-s-lai.md, people/pinghsi-liu.md (+1 more))
-- INTAKE_MISSING_PAGE: Los Angeles Southwest (type: entity, mentioned 4x in: organizations/formosan-presbyterian-church-in-los-angeles.md, people/albert-s-lai.md, people/chaolong-kao.md (+1 more))
-- INTAKE_MISSING_PAGE: Tainan Theological College (type: entity, mentioned 4x in: organizations/formosan-presbyterian-church-in-los-angeles.md, people/chaolong-kao.md, people/pingtung-lai.md (+1 more))
-- INTAKE_MISSING_PAGE: United Presbyterian Church (type: entity, mentioned 3x in: organizations/formosan-presbyterian-church-in-los-angeles.md, organizations/national-taiwanese-presbyterian-council.md, people/albert-s-lai.md)
-- INTAKE_MISSING_PAGE: Historical Committee (type: entity, mentioned 3x in: organizations/national-taiwanese-presbyterian-council.md, people/albert-s-lai.md, people/ching-fang-chen.md)
-- INTAKE_MISSING_PAGE: Taiwan Church Press (type: entity, mentioned 3x in: organizations/national-taiwanese-presbyterian-council.md, people/albert-s-lai.md, sources/toward-a-community-of-hope.md)
-- INTAKE_MISSING_PAGE: History Education Promotion (type: entity, mentioned 3x in: organizations/national-taiwanese-presbyterian-council.md, people/albert-s-lai.md, sources/toward-a-community-of-hope.md)
-- INTAKE_MISSING_PAGE: Taiyou Church (type: entity, mentioned 3x in: organizations/formosan-presbyterian-church-in-los-angeles.md, people/albert-s-lai.md, people/jonah-chang.md)
-- INTAKE_MISSING_PAGE: General Assembly (type: entity, mentioned 3x in: organizations/formosan-presbyterian-church-in-los-angeles.md, people/albert-s-lai.md, people/en-sheng-pan.md)
-- INTAKE_MISSING_PAGE: Holy Spirit (type: entity, mentioned 3x in: organizations/formosan-presbyterian-church-in-los-angeles.md, people/albert-s-lai.md, people/mingyuan-hsu.md)
-- INTAKE_MISSING_PAGE: Los Angeles Formosan (type: entity, mentioned 3x in: people/c-c-chen.md, people/daniel-kao.md, sources/toward-a-community-of-hope.md)
+- INTAKE_OK: no high-threshold missing pages
 - INTAKE_OK: no interaction name candidates
-- INTAKE_SUMMARY: missing=13 interaction=0
-- INTAKE_STATUS: ACTION
+- INTAKE_SUMMARY: missing=0 interaction=0
+- INTAKE_STATUS: OK
+
+### Cron selfcheck
+- CRON_SUMMARY: fail=0 warn=0 jobs=13
+- CRON_STATUS: OK
+
+### Queue drain (programmable)
+- DRAIN: people/zheng-quansheng.md → ['NO_SAFE_ACT (needs human/agent for body links)']
+- DRAIN: people/willy-pan.md → ['NO_SAFE_ACT (needs human/agent for body links)']
+- DRAIN: people/rex-chen.md → ['NO_SAFE_ACT (needs human/agent for body links)']
+- DRAIN: people/chen-meihui.md → ['NO_SAFE_ACT (needs human/agent for body links)']
+- DRAIN: people/guo-yingyan.md → ['NO_SAFE_ACT (needs human/agent for body links)']
+- DRAIN_SUMMARY: items=5
+- DRAIN_STATUS: DONE
+
+### Drain detail
+## Queue drain — 2026-07-20
+- Items: **5**
+
+- `people/zheng-quansheng.md`: NO_SAFE_ACT (needs human/agent for body links)
+- `people/willy-pan.md`: NO_SAFE_ACT (needs human/agent for body links)
+- `people/rex-chen.md`: NO_SAFE_ACT (needs human/agent for body links)
+- `people/chen-meihui.md`: NO_SAFE_ACT (needs human/agent for body links)
+- `people/guo-yingyan.md`: NO_SAFE_ACT (needs human/agent for body links)
+
+Safe programmable only — body first-mentions still human/local agent.
 
 ### Intake detail
 ## Intake opportunities
 
-### Missing pages (wiki cross-ref)
-- `MISSING_PAGE: Formosan Christian Church (type: entity, mentioned 6x in: organizations/formosan-presbyterian-church-in-los-angeles.md, people/albert-s-lai.md, people/c-c-chen.md (+3 more))`
-- `MISSING_PAGE: Taiwanese American Presbyterian (type: entity, mentioned 4x in: organizations/national-taiwanese-presbyterian-council.md, people/david-huang.md, people/yunching-yeh-davis.md (+1 more))`
-- `MISSING_PAGE: Tainan East Gate Barclay (type: entity, mentioned 4x in: organizations/national-taiwanese-presbyterian-council.md, people/albert-s-lai.md, people/pinghsi-liu.md (+1 more))`
-- `MISSING_PAGE: Los Angeles Southwest (type: entity, mentioned 4x in: organizations/formosan-presbyterian-church-in-los-angeles.md, people/albert-s-lai.md, people/chaolong-kao.md (+1 more))`
-- `MISSING_PAGE: Tainan Theological College (type: entity, mentioned 4x in: organizations/formosan-presbyterian-church-in-los-angeles.md, people/chaolong-kao.md, people/pingtung-lai.md (+1 more))`
-- `MISSING_PAGE: United Presbyterian Church (type: entity, mentioned 3x in: organizations/formosan-presbyterian-church-in-los-angeles.md, organizations/national-taiwanese-presbyterian-council.md, people/albert-s-lai.md)`
-- `MISSING_PAGE: Historical Committee (type: entity, mentioned 3x in: organizations/national-taiwanese-presbyterian-council.md, people/albert-s-lai.md, people/ching-fang-chen.md)`
-- `MISSING_PAGE: Taiwan Church Press (type: entity, mentioned 3x in: organizations/national-taiwanese-presbyterian-council.md, people/albert-s-lai.md, sources/toward-a-community-of-hope.md)`
-- `MISSING_PAGE: History Education Promotion (type: entity, mentioned 3x in: organizations/national-taiwanese-presbyterian-council.md, people/albert-s-lai.md, sources/toward-a-community-of-hope.md)`
-- `MISSING_PAGE: Taiyou Church (type: entity, mentioned 3x in: organizations/formosan-presbyterian-church-in-los-angeles.md, people/albert-s-lai.md, people/jonah-chang.md)`
-- `MISSING_PAGE: General Assembly (type: entity, mentioned 3x in: organizations/formosan-presbyterian-church-in-los-angeles.md, people/albert-s-lai.md, people/en-sheng-pan.md)`
-- `MISSING_PAGE: Holy Spirit (type: entity, mentioned 3x in: organizations/formosan-presbyterian-church-in-los-angeles.md, people/albert-s-lai.md, people/mingyuan-hsu.md)`
+- No high-threshold MISSING_PAGE hits
 
 - No strong interaction name candidates
 
