@@ -1,0 +1,128 @@
+{
+  "description": "Entities to suppress from echopedia-missing-pages.py output. Loaded as extra skip phrases. One entry per line (JSON array). Updated from nightly audit review 2026-07-20.",
+  "categories": {
+    "places_us": [
+      "New York",
+      "Orange County",
+      "San Diego",
+      "Monterey Park",
+      "San Francisco",
+      "East Coast",
+      "Los Angeles",
+      "Southern California",
+      "Greater Los Angeles",
+      "United States",
+      "North America"
+    ],
+    "places_taiwan": [
+      "Tainan",
+      "Taipei",
+      "Kaohsiung",
+      "Taichung",
+      "Tainan East Gate Barclay"
+    ],
+    "places_other": [
+      "Taiwan Center Taiwan School",
+      "East Coast"
+    ],
+    "generic_titles": [
+      "Assistant Professor",
+      "General Assembly",
+      "Secretary General",
+      "Foreign Affairs",
+      "Distinguished Citizens Society International",
+      "Motel Association"
+    ],
+    "generic_org_terms": [
+      "Historical Committee",
+      "United Presbyterian Church",
+      "Taiwan Church Press",
+      "History Education Promotion",
+      "Taiyou Church",
+      "Formosan Association",
+      "Taiwanese Chambers",
+      "Motel Association"
+    ],
+    "generic_concepts": [
+      "World War",
+      "Holy Spirit",
+      "In August",
+      "Assistant Professor",
+      "White Terror"
+    ],
+    "universities": [
+      "Harvard University",
+      "Purdue University",
+      "Kansas State University",
+      "National Taiwan University"
+    ],
+    "broad_ethnic": [
+      "Taiwanese Americans",
+      "Asian American",
+      "洲台灣人",
+      "北美洲台灣人教授"
+    ],
+    "church_generic": [
+      "Taiwanese American Presbyterian",
+      "Tainan Theological College",
+      "Los Angeles Southwest",
+      "Tainan Theological College",
+      "Taiwan Center Foundation"
+    ],
+    "people_partial": [
+      "Charles Yang"
+    ],
+    "organizations_partial": [
+      "台美人歷史"
+    ]
+  },
+  "flat": [
+    "New York",
+    "Orange County",
+    "San Diego",
+    "Monterey Park",
+    "San Francisco",
+    "East Coast",
+    "Los Angeles",
+    "Southern California",
+    "Greater Los Angeles",
+    "United States",
+    "North America",
+    "Tainan",
+    "Taipei",
+    "Kaohsiung",
+    "Taichung",
+    "Tainan East Gate Barclay",
+    "Taiwan Center Taiwan School",
+    "Assistant Professor",
+    "General Assembly",
+    "Secretary General",
+    "Foreign Affairs",
+    "Distinguished Citizens Society International",
+    "Motel Association",
+    "Historical Committee",
+    "United Presbyterian Church",
+    "Taiwan Church Press",
+    "History Education Promotion",
+    "Taiyou Church",
+    "Formosan Association",
+    "Taiwanese Chambers",
+    "World War",
+    "Holy Spirit",
+    "In August",
+    "Harvard University",
+    "Purdue University",
+    "Kansas State University",
+    "National Taiwan University",
+    "Taiwanese Americans",
+    "Asian American",
+    "洲台灣人",
+    "北美洲台灣人教授",
+    "台美人歷史",
+    "Los Angeles Southwest",
+    "Tainan Theological College",
+    "Taiwanese American Presbyterian",
+    "Taiwan Center Foundation",
+    "Charles Yang"
+  ]
+}
