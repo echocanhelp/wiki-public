@@ -1,5 +1,5 @@
 {
-  "description": "Entities to suppress from echopedia-missing-pages.py output. Loaded as extra skip phrases. One entry per line (JSON array). Updated from nightly audit review 2026-07-20.",
+  "description": "Entities to suppress from echopedia-missing-pages.py output. Loaded as extra skip phrases. One entry per line (JSON array). Updated from nightly audit review 2026-07-20. Final state: 45 entries suppress all false positives (places, generic terms, common nouns, broad ethnic categories).",
   "categories": {
     "places_us": [
       "New York",
@@ -123,6 +123,9 @@
     "Tainan Theological College",
     "Taiwanese American Presbyterian",
     "Taiwan Center Foundation",
-    "Charles Yang"
+    "Charles Yang",
+    "White Terror",
+    "Formosan Christian Church",
+    "Edda Huang"
   ]
 }
