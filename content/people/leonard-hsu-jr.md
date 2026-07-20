@@ -64,7 +64,7 @@ Primary architect and maintainer of Echopedia, the community knowledge base for 
 
 ## Revision History
 
-- 2026-05-26: Initial draft scaffold
+- 2026-05-26: Initial scaffold
 - 2026-05-28: Updated with confirmed TAHS President role, family details, and location history. Status changed to Published.
 - 2026-06-16: Corrected prior attribution error; restored Leonard Hsu Jr.'s Chinese name to 許景鴻 (Hsu Ching-Hung) and removed Rex Chen's Chinese name from this page.
 

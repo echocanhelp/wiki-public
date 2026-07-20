@@ -4,6 +4,7 @@ type: person
 tags:
   - 
 verification_status: pending
+status: draft
 last_reviewed: 2026-07-08
 ---
 # David Lee (中文待補)
@@ -28,7 +29,7 @@ This page was created from LINE-first onboarding to establish canonical identity
 - Public quote reuse: not allowed until explicit consent
 
 ## Verification Block
-- Echopedia page status: Draft
+- Echopedia page status: In progress
 - LINE identity status: Owner-verified
 - Owner verification required: No
 
