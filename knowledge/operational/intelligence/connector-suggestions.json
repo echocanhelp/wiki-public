@@ -140,6 +140,22 @@
       "type": "CO-CITATION",
       "pages": [
         "national-taiwanese-presbyterian-council.md",
+        "ntpc.md"
+      ],
+      "reason": "Both link to organizations/formosan-presbyterian-church-in-los-angeles"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "national-taiwanese-presbyterian-council.md",
+        "albert-s-lai.md"
+      ],
+      "reason": "Both link to organizations/formosan-presbyterian-church-in-los-angeles"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "ntpc.md",
         "albert-s-lai.md"
       ],
       "reason": "Both link to organizations/formosan-presbyterian-church-in-los-angeles"
@@ -167,6 +183,78 @@
         "cai-weiren.md"
       ],
       "reason": "Both link to organizations/good-shepherd-taiwanese-presbyterian-church"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "taiwan-american-foundation.md",
+        "franklin-ping-cheng.md"
+      ],
+      "reason": "Both link to people/wang-gui-rong"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "taiwan-american-foundation.md",
+        "hsu-hsin-hung.md"
+      ],
+      "reason": "Both link to people/wang-gui-rong"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "taiwan-american-foundation.md",
+        "liao-shu-zong.md"
+      ],
+      "reason": "Both link to people/wang-gui-rong"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "franklin-ping-cheng.md",
+        "hsu-hsin-hung.md"
+      ],
+      "reason": "Both link to people/wang-gui-rong"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "franklin-ping-cheng.md",
+        "liao-shu-zong.md"
+      ],
+      "reason": "Both link to people/wang-gui-rong"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "hsu-hsin-hung.md",
+        "liao-shu-zong.md"
+      ],
+      "reason": "Both link to people/wang-gui-rong"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "taiwan-american-foundation.md",
+        "taiwanese-american-historical-society.md"
+      ],
+      "reason": "Both link to sources/2017-tahs-publication"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "taiwan-american-foundation.md",
+        "alan-thian.md"
+      ],
+      "reason": "Both link to sources/2017-tahs-publication"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "taiwanese-american-historical-society.md",
+        "alan-thian.md"
+      ],
+      "reason": "Both link to sources/2017-tahs-publication"
     },
     {
       "type": "CO-CITATION",
@@ -223,14 +311,6 @@
         "shi-yuli.md"
       ],
       "reason": "Both link to people/april-lin"
-    },
-    {
-      "type": "CO-CITATION",
-      "pages": [
-        "taiwanese-american-historical-society.md",
-        "alan-thian.md"
-      ],
-      "reason": "Both link to sources/2017-tahs-publication"
     },
     {
       "type": "CO-CITATION",
@@ -293,14 +373,6 @@
       "pages": [
         "taiwanese-american-historical-society.md",
         "lin-fu-kun.md"
-      ],
-      "reason": "Both link to people/huang-gen-shen"
-    },
-    {
-      "type": "CO-CITATION",
-      "pages": [
-        "franklin-ping-cheng.md",
-        "liao-shu-zong.md"
       ],
       "reason": "Both link to people/huang-gen-shen"
     },
@@ -435,30 +507,6 @@
     {
       "type": "CO-CITATION",
       "pages": [
-        "franklin-ping-cheng.md",
-        "hsu-hsin-hung.md"
-      ],
-      "reason": "Both link to people/wang-gui-rong"
-    },
-    {
-      "type": "CO-CITATION",
-      "pages": [
-        "hsu-hsin-hung.md",
-        "liao-shu-zong.md"
-      ],
-      "reason": "Both link to people/wang-gui-rong"
-    },
-    {
-      "type": "CO-CITATION",
-      "pages": [
-        "hsu-hsin-hung.md",
-        "lin-fu-kun.md"
-      ],
-      "reason": "Both link to people/wang-gui-rong"
-    },
-    {
-      "type": "CO-CITATION",
-      "pages": [
         "john-chiang.md",
         "liao-shu-zong.md"
       ],
@@ -485,7 +533,7 @@
     {
       "type": "ORPHAN_FOLDER",
       "folder": "organizations",
-      "reason": "85 pages, avg 6.1 links each, 0 internal links"
+      "reason": "86 pages, avg 6.1 links each, 0 internal links"
     },
     {
       "type": "ORPHAN_FOLDER",
@@ -498,5 +546,5 @@
       "reason": "10 pages, avg 4.0 links each, 0 internal links"
     }
   ],
-  "total_pages": 207
+  "total_pages": 208
 }

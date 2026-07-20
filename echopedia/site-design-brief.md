@@ -1,4 +1,4 @@
-## Site design audit — 2026-07-20 01:15
+## Site design audit — 2026-07-20 04:15
 
 - pages_md=205
 - critical=0 high=0 medium=0
@@ -17,7 +17,7 @@
   - `people/franklin-ping-cheng.md`
   - `people/ho-chie-tsai.md`
   - `people/hsu-hsin-hung.md`
-- **B1** person/org touched ≤7d (rely on recency featured window): 124
+- **B1** person/org touched ≤7d (rely on recency featured window): 127
   - `people/alexander-macdonald.md`
   - `people/april-lin.md`
   - `people/c-c-chen.md`
