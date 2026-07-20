@@ -1,5 +1,5 @@
 ## CI heal — 2026-07-20
-- Started: 2026-07-20T00:39:57-07:00
+- Started: 2026-07-20T00:40:30-07:00
 - dry_run=0 l2_drift=True l2_drain=True l3_push=True
 
 - OPS_SUMMARY: fail=0 warn=0
@@ -21,8 +21,3 @@
 - SMOKE_SUMMARY: ok=4 fail=0
 - SMOKE_STATUS: OK
 - **green=1**
-- committed heal
-- PUBLISH_STATUS: OK
-- post-publish SITE_DESIGN_STATUS: OK
-- post-publish SITE_DESIGN_SUMMARY: critical=0 high=0 medium=0 md=204 heals=none
-- post-publish SITE_DESIGN_HEAL_STATUS: OK
