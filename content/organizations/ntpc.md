@@ -23,4 +23,5 @@ The NTPC has been involved in:
 
 ## Related Pages
 - [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]]
+- [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
 - [[people/index|People Index]]

@@ -2,9 +2,11 @@
 title: "Brother Wang (GSTPC, verification needed)"
 type: person
 tags:
-  - 
+  - placeholder
+  - gstpc-bulletin
+provisional: true
 verification_status: pending
-last_reviewed: 2026-07-08
+last_reviewed: 2026-07-20
 ---
 # Brother Wang (GSTPC, verification needed)
 
