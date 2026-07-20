@@ -1,4 +1,4 @@
-## Queue drain — 2026-07-19
+## Queue drain — 2026-07-20
 - Items: **5**
 
 - `people/li-furen.md`: NO_SAFE_ACT (needs human/agent for body links)

@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-07-19 04:15 PDT*
+*Generated: 2026-07-20 00:40 PDT*
 
 ## Orientation
 - **User manual (start here):** [USER_MANUAL.md](USER_MANUAL.md)
@@ -13,12 +13,12 @@
 - **Level:** L3
 - **L2 auto-publish on drift:** True
 - **L3 auto-push when green:** True
-- **Last good deploy:** `8bb3642`
+- **Last good deploy:** `2e673b6`
 
 ## Content
 - **Markdown pages:** 207
 - **Janitor queue depth:** 5
-- **Uncommitted files:** 485
+- **Uncommitted files:** 14
 
 ## What runs automatically
 | When | Job | Role |
@@ -45,43 +45,7 @@ Load skill **echopedia-ops** first for any wiki work.
 
 ## Cron snapshot
 ```
-    Name:      unified-watchdog
-    Schedule:  every 30m
-    Last run:  2026-07-19T04:10:43.393750-07:00  ok
-    Name:      echopedia-digest
-    Schedule:  0 9 * * *
-    Last run:  2026-07-18T09:00:50.829152-07:00  ok
-    Name:      kanban-sync
-    Schedule:  every 30m
-    Last run:  2026-07-19T03:48:42.974864-07:00  ok
-    Name:      memory-audit
-    Schedule:  0 5 * * *
-    Last run:  2026-07-18T05:00:44.535657-07:00  ok
-    Name:      vllm-thermal-scaler
-    Schedule:  every 1m
-    Last run:  2026-07-19T04:14:43.483736-07:00  ok
-    Name:      echopedia-nightly-audit
-    Schedule:  0 4 * * *
-    Last run:  2026-07-19T04:00:56.376533-07:00  ok
-    Name:      echopedia-janitor
-    Schedule:  0 4 * * *
-    Last run:  2026-07-19T04:00:44.305309-07:00  ok
-    Name:      echopedia-weekly-improvement
-    Schedule:  0 5 * * 1
-    Name:      echopedia-ci-heal
-    Schedule:  15 4 * * *
-    Last run:  2026-07-18T04:15:49.714497-07:00  ok
-    Name:      vault-unfinished-threads
-    Schedule:  0 8 * * *
-    Last run:  2026-07-18T08:00:48.689958-07:00  error: Script exited with code 1
-    Name:      vault-connector-suggestions
-    Schedule:  0 9 * * *
-    Last run:  2026-07-18T09:00:49.924423-07:00  ok
-    Name:      vault-intelligence-digest
-    Schedule:  0 8 * * *
-    Last run:  2026-07-18T08:00:48.788849-07:00  ok
-    Name:      echopedia-site-design
-    Schedule:  30 4 * * *
+
 ```
 
 ## Briefs

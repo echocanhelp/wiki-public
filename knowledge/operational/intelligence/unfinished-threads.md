@@ -86,8 +86,9 @@ Brother Wang appears in GSTPC bulletin records. Further biographical details are
 [STALE_VERIFIED] 0 pages
   (none)
 
-[EXPLICIT_WIP] 4 pages
+[EXPLICIT_WIP] 5 pages
   - david-lee.md — contains 'Draft'
   - leonard-hsu-jr.md — contains 'Draft'
   - new-line-member.md — contains 'Draft'
   - test-volunteer-onboard.md — contains 'Draft'
+  - yang-xin.md — contains 'Draft'

@@ -92,7 +92,7 @@
       "type": "CO-CITATION",
       "pages": [
         "good-shepherd-taiwanese-presbyterian-church.md",
-        "anne-shih.md"
+        "alan-thian.md"
       ],
       "reason": "Both link to organizations/taiwanese-american-historical-society"
     },
@@ -108,7 +108,7 @@
       "type": "CO-CITATION",
       "pages": [
         "taiwan-center.md",
-        "anne-shih.md"
+        "alan-thian.md"
       ],
       "reason": "Both link to organizations/taiwanese-american-historical-society"
     },
@@ -116,7 +116,7 @@
       "type": "CO-CITATION",
       "pages": [
         "taiwan-formosa.md",
-        "anne-shih.md"
+        "alan-thian.md"
       ],
       "reason": "Both link to organizations/taiwanese-american-historical-society"
     },
@@ -172,6 +172,22 @@
       "type": "CO-CITATION",
       "pages": [
         "taiwan-center.md",
+        "john-chiang.md"
+      ],
+      "reason": "Both link to people/alan-thian"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "taiwan-center.md",
+        "ken-wu.md"
+      ],
+      "reason": "Both link to people/alan-thian"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "john-chiang.md",
         "ken-wu.md"
       ],
       "reason": "Both link to people/alan-thian"
@@ -220,9 +236,49 @@
       "type": "CO-CITATION",
       "pages": [
         "taiwanese-american-historical-society.md",
-        "huang-gen-shen.md"
+        "anne-shih.md"
       ],
       "reason": "Both link to people/yang-jia-you"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "taiwanese-american-historical-society.md",
+        "bob-j-wu.md"
+      ],
+      "reason": "Both link to people/yang-jia-you"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "alan-thian.md",
+        "anne-shih.md"
+      ],
+      "reason": "Both link to people/yang-jia-you"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "alan-thian.md",
+        "bob-j-wu.md"
+      ],
+      "reason": "Both link to people/yang-jia-you"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "anne-shih.md",
+        "bob-j-wu.md"
+      ],
+      "reason": "Both link to people/yang-jia-you"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "taiwanese-american-historical-society.md",
+        "franklin-ping-cheng.md"
+      ],
+      "reason": "Both link to people/huang-gen-shen"
     },
     {
       "type": "CO-CITATION",
@@ -230,23 +286,55 @@
         "taiwanese-american-historical-society.md",
         "liao-shu-zong.md"
       ],
-      "reason": "Both link to people/yang-jia-you"
+      "reason": "Both link to people/huang-gen-shen"
     },
     {
       "type": "CO-CITATION",
       "pages": [
-        "huang-gen-shen.md",
+        "taiwanese-american-historical-society.md",
+        "lin-fu-kun.md"
+      ],
+      "reason": "Both link to people/huang-gen-shen"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "franklin-ping-cheng.md",
         "liao-shu-zong.md"
       ],
-      "reason": "Both link to people/yang-jia-you"
+      "reason": "Both link to people/huang-gen-shen"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "franklin-ping-cheng.md",
+        "lin-fu-kun.md"
+      ],
+      "reason": "Both link to people/huang-gen-shen"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "liao-shu-zong.md",
+        "lin-fu-kun.md"
+      ],
+      "reason": "Both link to people/huang-gen-shen"
     },
     {
       "type": "CO-CITATION",
       "pages": [
         "taiwanese-american-historical-society.md",
-        "yang-jia-you.md"
+        "wang-gui-rong.md"
       ],
-      "reason": "Both link to people/franklin-ping-cheng"
+      "reason": "Both link to people/liao-shu-zong"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "taiwanese-american-historical-society.md",
+        "wang-neng-xiang.md"
+      ],
+      "reason": "Both link to people/liao-shu-zong"
     },
     {
       "type": "CO-CITATION",
@@ -254,15 +342,31 @@
         "taiwanese-american-historical-society.md",
         "yang-xin.md"
       ],
-      "reason": "Both link to people/franklin-ping-cheng"
+      "reason": "Both link to people/liao-shu-zong"
     },
     {
       "type": "CO-CITATION",
       "pages": [
-        "yang-jia-you.md",
+        "wang-gui-rong.md",
+        "wang-neng-xiang.md"
+      ],
+      "reason": "Both link to people/liao-shu-zong"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "wang-gui-rong.md",
         "yang-xin.md"
       ],
-      "reason": "Both link to people/franklin-ping-cheng"
+      "reason": "Both link to people/liao-shu-zong"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "wang-neng-xiang.md",
+        "yang-xin.md"
+      ],
+      "reason": "Both link to people/liao-shu-zong"
     },
     {
       "type": "CO-CITATION",
@@ -327,6 +431,54 @@
         "rex-chen.md"
       ],
       "reason": "Both link to people/leonard-hsu-jr"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "franklin-ping-cheng.md",
+        "hsu-hsin-hung.md"
+      ],
+      "reason": "Both link to people/wang-gui-rong"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "hsu-hsin-hung.md",
+        "liao-shu-zong.md"
+      ],
+      "reason": "Both link to people/wang-gui-rong"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "hsu-hsin-hung.md",
+        "lin-fu-kun.md"
+      ],
+      "reason": "Both link to people/wang-gui-rong"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "john-chiang.md",
+        "liao-shu-zong.md"
+      ],
+      "reason": "Both link to people/yang-xin"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "john-chiang.md",
+        "shawna-yang-ryan.md"
+      ],
+      "reason": "Both link to people/yang-xin"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "liao-shu-zong.md",
+        "shawna-yang-ryan.md"
+      ],
+      "reason": "Both link to people/yang-xin"
     }
   ],
   "orphan_folders": [
@@ -338,7 +490,7 @@
     {
       "type": "ORPHAN_FOLDER",
       "folder": "people",
-      "reason": "105 pages, avg 4.9 links each, 4 internal links"
+      "reason": "106 pages, avg 5.4 links each, 4 internal links"
     },
     {
       "type": "ORPHAN_FOLDER",
@@ -346,5 +498,5 @@
       "reason": "10 pages, avg 4.0 links each, 0 internal links"
     }
   ],
-  "total_pages": 206
+  "total_pages": 207
 }
