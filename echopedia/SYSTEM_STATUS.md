@@ -18,7 +18,7 @@
 ## Content
 - **Markdown pages:** 207
 - **Janitor queue depth:** 5
-- **Uncommitted files:** 6
+- **Uncommitted files:** 241
 
 ## What runs automatically
 | When | Job | Role |

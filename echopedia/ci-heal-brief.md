@@ -21,3 +21,8 @@
 - SMOKE_SUMMARY: ok=4 fail=0
 - SMOKE_STATUS: OK
 - **green=1**
+- committed heal
+- PUBLISH_STATUS: OK
+- post-publish SITE_DESIGN_STATUS: OK
+- post-publish SITE_DESIGN_SUMMARY: critical=0 high=0 medium=0 md=204 heals=none
+- post-publish SITE_DESIGN_HEAL_STATUS: OK
