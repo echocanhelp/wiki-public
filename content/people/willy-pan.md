@@ -8,7 +8,7 @@ last_reviewed: 2026-07-08
 ---
 # Willy Pan (潘建宇)
 
-**Willy Pan (潘建宇)** is a member of the Taiwanese American Historical Society community.
+**Willy Pan (潘建宇)** is a member of the [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society]] community.
 
 ## Identity Snapshot
 - Era: Contemporary

@@ -27,7 +27,7 @@ last_reviewed: 2026-07-08
 
 ## Introduction Context
 
-Rex Chen was introduced by Leonard Hsu Jr. in a LINE group as a new member of the Taiwanese American Historical Society. This page establishes a canonical Echopedia record for onboarding, identity confirmation, and future contribution history.
+Rex Chen was introduced by [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]] in a LINE group as a new member of the Taiwanese American Historical Society. This page establishes a canonical Echopedia record for onboarding, identity confirmation, and future contribution history.
 
 ## Professional Context
 
