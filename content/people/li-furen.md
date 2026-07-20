@@ -18,7 +18,7 @@ last_reviewed: 2026-07-13
 ## Overview
 Li Fu-Jen serves as the current pastor of the Irvine Taiwanese Presbyterian Church (ITPC), a Taiwanese Presbyterian congregation in Irvine, California. He is listed on the ITPC official website as the church's 2025–2026 pastoral leader.
 
-Li succeeded 張宣信 (Zhang Xuanxin), who left ITPC in June 2020 after twenty-one years of service. Following Zhang's departure, 陳美蕙 (Chen Meihui) was called to continue pastoral ministry at the church. Li Fu-Jen is now listed as the current ITPC pastor.
+Li succeeded [[people/zhang-xuanxin|Zhang Xuanxin (張宣信)]], who left ITPC in June 2020 after twenty-one years of service. Following Zhang's departure, [[people/chen-meihui|Chen Meihui (陳美蕙)]] was called to continue pastoral ministry at the church. Li Fu-Jen is now listed as the current ITPC pastor.
 
 ## Related Pages
 - [[people/chen-meihui|Chen Meihui (陳美蕙)]]
