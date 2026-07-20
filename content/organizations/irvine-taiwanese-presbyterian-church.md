@@ -422,3 +422,4 @@ From I-5, take the El Toro exit west (towards Laguna Hills). Continue about 3 mi
 - [[Laguna Woods|Laguna Woods Village]]
 - [[Laguna Hills|Laguna Hills, California]]
 - [[Irvine|Irvine, California]]
+- [[sources/irvine-taiwanese-presbyterian-church|ITPC Official Website (source)]]

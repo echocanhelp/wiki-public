@@ -161,3 +161,4 @@ GSTPC is a congregation within the [[organizations/presbyterian-church-in-taiwan
 - [[people/chen-bozhi|Rev. Chen Bozhi (陳柏志牧師)]]
 - [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]]
 - [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
+- [[sources/good-shepherd-taiwanese-presbyterian-church|GSTPC Official Website (source)]]

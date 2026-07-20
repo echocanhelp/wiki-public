@@ -7,6 +7,7 @@ tags:
   - review
 verification_status: pending
 last_reviewed: 2026-07-09
+echo: scratch
 ---
 
 # Chapter I English Audiobook — Review Build
