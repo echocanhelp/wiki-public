@@ -9,7 +9,7 @@ tags:
   - entrepreneur
 verification_status: pending
 featured: true
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 ---
 # Wang Gui-rong (王桂榮)
 
