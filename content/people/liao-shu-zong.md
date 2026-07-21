@@ -237,6 +237,36 @@ Chicago was the second-largest city in the US and the main gathering place for T
 
 In those years, Professor Liao often served as the liaison to rent the International House from UChicago. When the Taiwanese Student Association hosted, the preparations for hundreds of people were chaotic.
 
+## Family & 清水 Ties
+
+### 廖繼春's Political Awakening
+
+Beyond his artistic legacy, Liao Shu-zong's father 廖繼春 (Liao Jichun) underwent a profound political transformation after witnessing the 228 Incident. As a teacher at Taichung Normal School during the massacres, he observed the KMT government's corruption and the atrocities of the 228 massacre firsthand. He developed anti-KMT and Taiwan independence thoughts, believing that Taiwanese should forge their own path and no longer consider China as their homeland. Rather than fleeing to Japan, he went to Hong Kong and then to mainland China. Because of his Taiwan independence advocacy, he was imprisoned by the CCP for twenty-five years.
+
+### 林朝權 & 林朝棨
+
+Through his mother 林瓊仙's prominent Fengyuan family, Liao Shu-zong was connected to two notable Taiwanese figures:
+
+- **林朝權 (Lin Chao-quan)** — His maternal uncle (二舅), a post-war leader in Taiwan's sports movement and a former comrade of revolutionary leader Sun Wen.
+- **林朝棨 (Lin Chao-qi)** — His third maternal uncle (三舅), a renowned geologist famous for discovering the Banqiao site and other Taiwanese archaeological sites.
+
+### 清水同鄉 & 1984 Olympics
+
+In 1984, during the Los Angeles Olympics, 林朝權 and 林麗韞 (Lin Li-yun), both from 清水 (Fengyuan), came to Los Angeles. Since 楊嘉猷 (the memorial author), 林朝權, and 林麗韞 were all fellow townspeople from 清水, 楊嘉猷 visited them and gave them three books: the biography of 江文也, Peng Ming-min's *The Taste of Freedom* (自由的滋味), and Wu Zhuoliu's *Fig* (無花果). He hoped they would rediscover their Taiwanese identity and reconnect with their roots.
+
+This personal connection reflected the broader network of 清水 (Fengyuan) families that spanned generations and disciplines — from painting (廖繼春) to geology (林朝棨) to sports (林朝權) — all connected through the small town in central Taiwan.
+
+### 楊嘉猷's Personal Connection
+
+The memorial was written by 楊嘉猷 (Charles Yang), president of the Taiwanese American Historical Society and a founding member of NATPA. He knew the Liao family since his youth: his mother had worked with 廖繼春 at Taichung Normal School, and the Yang and Liao families were already acquainted through their shared 清水 (Fengyuan) roots.
+
+楊嘉猷's relationship with Liao Shu-zong deepened in the late 1980s. In 1989, when 楊嘉猷 was recruited by Democratic Progressive Party chairman Huang Hsin-chieh to run for Taichung County magistrate, Professor Liao invested considerable time in campaign support — making multiple appearances, holding seminars to raise funds and endorsements, and staying at former Representative Tian Zaiting's residence in Fengyuan. He visited 楊嘉猷's campaign office regularly to encourage staff and connect with voters.
+
+Through these connections, 楊嘉猷 came to see Liao as a model of Taiwanese intellectual integrity: "He was a man of wisdom who did not hide his intelligence; he did not play it safe, did not remain neutral, but spoke courageously for Taiwan and the Taiwanese."
+
+> "He was benevolent — he had great love for Taiwan and its homeland, leading the way in promoting Taiwan's independence, democracy, progress, and development. He was brave — when Taiwan faced crises, when Taiwanese suffered, when Taiwanese Americans encountered disasters, he always demonstrated moral courage and stepped forward."
+> — 楊嘉猷 (Charles Yang), 2014
+
 ## Legacy
 
 Liao Shu-zong's life embodied the dual commitment he valued most: scientific research for the benefit of all humanity, and Taiwanese intellectual conscience in service to his homeland. He was a biochemist who used his platform to advocate for Taiwan's democracy, bridging overseas intellectuals and mainland dissidents.
