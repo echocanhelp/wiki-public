@@ -73,7 +73,7 @@ Primary Tier-2/Tier-1 source for 2017 TAHS profiles of first- and second-generat
 - **Layout:** Two-column `pdftotext` extraction — long prose not fully reconstructed; fact bullets only
 - **Self-profiles** (Martha VanDriel, 陳宏傑, 黃愷怡, 吳瑞椿): higher factual reliability for personal details
 - **Living persons:** default `verification_status: pending` — needs steward review
-- **Name variant:** 周威廉 / 周威霖 may be the same person
+- **Resolved:** 周威廉 and 周威霖 are two distinct individuals (both listed as editors/compilers). 周威廉 wrote 緣起與展望 and the Sam Chang profile; 周威霖 (TAHS 秘書長) authored the 徐新宏, 王桂榮, and 王能祥 profiles. See `people/zhou-wei-liang.md` and `people/zhou-wei-lin.md`.
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]

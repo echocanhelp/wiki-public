@@ -38,6 +38,6 @@
 - **Two profiles on 廖述宗**: one biographical (p.58), one memorial tribute (p.70)
 - **Self-profiles** (author same as subject): Martha VanDriel, 陳宏傑, 黃愷怡, 吳瑞椿
 - **Bylines only** (no profile subject): 廖清山, 周威廉 (also essay author), 周威霖 (also profile author)
-- **Name variant**: 周威廉 / 周威霖 — may be same person; record both
+- **Resolved:** 周威廉 and 周威霖 are two distinct individuals (both listed as editors/compilers). 周威廉 wrote 緣起與展望 and the Sam Chang profile; 周威霖 (TAHS 秘書長) authored the 徐新宏, 王桂榮, and 王能祥 profiles. See `people/zhou-wei-liang.md` and `people/zhou-wei-lin.md`.
 - **楊嘉猷**: founding president, essay author, co-author of 王能祥 profile, memorial author for 廖述宗 — high-weight subject
 - **TAHS**: organization referenced throughout; primary absorb target

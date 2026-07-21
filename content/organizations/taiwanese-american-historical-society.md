@@ -29,7 +29,7 @@ TAHS works to:
 - **June 2013:** Dr. 鄭炳全 (Pacific Times) began convening community leaders, notably 楊嘉猷
 - **August 28, 2013:** First preparatory meeting in Fullerton, CA
 - **December 11, 2013:** Founding conference at Hilton Hotel, San Gabriel, with press conference
-- **Key founders:** 鄭炳全 (first convener), 楊嘉猷 (founding president), 周威霖 (secretary), 王耀廷 (vice president)
+- **Key founders:** 鄭炳全 (first convener), 楊嘉猷 (founding president), 周威霖 (秘書長 / Secretary General), 王耀廷 (vice president)
 - **Initial preparatory members:** 鄭炳全, 楊嘉猷, 周威霖, 王耀廷, 黃樹人, 黃根深, 林衡哲, 謝清志, 王廷宜, 李成奎, 鄭英松, 洪珠美, 楊子清, 吳光明, 周實, 陳隆, 曾俊嘉, 楊平猷, 楊文顯, 魏博基, 林小慧
 - **Motivation:** First-generation Taiwanese Americans who participated in Taiwan's democratization movement were aging; their stories needed to be recorded before they were lost
 - **Founding ideology:** 楊嘉猷's essay "歷史！以古鑑今而自強不息" (Part 1, L38–115) established the five principles that form TAHS's ideological foundation: 歷史傳承 (historical inheritance), 族群榮譽 (ethnic honor), 全民團結 (people's unity), 社會責任 (social responsibility), 前途希望 (future hope)
