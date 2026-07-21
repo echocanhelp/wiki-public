@@ -40,7 +40,7 @@ Part1 = pp.1–57 (2645 lines), Part2 = pp.58–118 (2559 lines).
 
 - **楊嘉猷 essay (L38-115):** Founding president's essay on Taiwanese history and five principles. Core narrative source for TAHS founding.
 - **廖清山 essay (L116-161):** Preface for the "台美菁英錄" (Elite Record). Byline author, not a profile subject.
-- **周威廉 essay (L162-289):** TAHS founding narrative — "緣起與展望" (origins and outlook). Primary source for org history.
+- **周威廉 essay (L162-289):** TAHS founding narrative — "緣起與展望" (origins and outlook). Primary source for org history. Distinct from 周威霖 (TAHS 秘書長).
 - **王能祥 profile (L2494-2559):** Shortest profile (66 lines). Co-authored by 楊嘉猷 (創會會長) and 周威霖.
 - **廖述宗 profile (L1-569):** Longest profile (569 lines) + memorial (570-666). Two separate sections on same person.
 - **Self-profiles (Martha, 陳宏傑, 黃愷怡, 吳瑞椿):** Written in first person or self-authored. Higher factual reliability for personal details.
