@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-07-20",
+  "last_run": "2026-07-21",
   "standards_version_seen": 6,
   "runs": [
     {
@@ -44,16 +44,27 @@
       "selected": 5,
       "standards_version": 6,
       "standards_bumped": false
+    },
+    {
+      "date": "2026-07-21",
+      "candidates": 52,
+      "selected": 5,
+      "standards_version": 6,
+      "standards_bumped": false
     }
   ],
   "queue": [
     {
-      "path": "people/zheng-quansheng.md",
+      "path": "people/zhou-wei-lin.md",
       "findings": [
+        "NO_IDENTITY_SNAPSHOT",
+        "NO_RELATED_PAGES",
         "LINK_UNLINKED_ENTITY"
       ],
       "hygiene": [
-        "LINK_UNLINKED_ENTITY: people/zheng-quansheng.md → organizations/taiwanese-american-historical-society"
+        "LINK_UNLINKED_ENTITY: people/zhou-wei-lin.md → people/hsu-hsin-hung",
+        "LINK_UNLINKED_ENTITY: people/zhou-wei-lin.md → people/wang-gui-rong",
+        "LINK_UNLINKED_ENTITY: people/zhou-wei-lin.md → people/wang-neng-xiang"
       ],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
@@ -64,12 +75,14 @@
       ]
     },
     {
-      "path": "people/willy-pan.md",
+      "path": "people/zhou-wei-liang.md",
       "findings": [
+        "NO_IDENTITY_SNAPSHOT",
+        "NO_RELATED_PAGES",
         "LINK_UNLINKED_ENTITY"
       ],
       "hygiene": [
-        "LINK_UNLINKED_ENTITY: people/willy-pan.md → organizations/taiwanese-american-historical-society"
+        "LINK_UNLINKED_ENTITY: people/zhou-wei-liang.md → people/sam-chang"
       ],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
@@ -80,12 +93,12 @@
       ]
     },
     {
-      "path": "people/rex-chen.md",
+      "path": "people/david-huang.md",
       "findings": [
         "LINK_UNLINKED_ENTITY"
       ],
       "hygiene": [
-        "LINK_UNLINKED_ENTITY: people/rex-chen.md → people/leonard-hsu-jr"
+        "LINK_UNLINKED_ENTITY: people/david-huang.md → organizations/national-taiwanese-presbyterian-council"
       ],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
@@ -96,12 +109,12 @@
       ]
     },
     {
-      "path": "people/chen-meihui.md",
+      "path": "people/san-francisco-theological-seminary.md",
       "findings": [
-        "LINK_BODY_SPARSE"
+        "LINK_UNLINKED_ENTITY"
       ],
       "hygiene": [
-        "LINK_BODY_SPARSE: people/chen-meihui.md (body_wikis=0 related=4)"
+        "LINK_UNLINKED_ENTITY: people/san-francisco-theological-seminary.md → people/albert-s-lai"
       ],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
@@ -112,12 +125,12 @@
       ]
     },
     {
-      "path": "people/guo-yingyan.md",
+      "path": "people/ken-wu.md",
       "findings": [
         "LINK_UNLINKED_ENTITY"
       ],
       "hygiene": [
-        "LINK_UNLINKED_ENTITY: people/guo-yingyan.md → people/zheng-quansheng"
+        "LINK_UNLINKED_ENTITY: people/ken-wu.md → people/leonard-hsu-jr"
       ],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
@@ -128,12 +141,12 @@
       ]
     }
   ],
-  "last_candidates": 38,
+  "last_candidates": 52,
   "last_selected": [
-    "people/zheng-quansheng.md",
-    "people/willy-pan.md",
-    "people/rex-chen.md",
-    "people/chen-meihui.md",
-    "people/guo-yingyan.md"
+    "people/zhou-wei-lin.md",
+    "people/zhou-wei-liang.md",
+    "people/david-huang.md",
+    "people/san-francisco-theological-seminary.md",
+    "people/ken-wu.md"
   ]
 }

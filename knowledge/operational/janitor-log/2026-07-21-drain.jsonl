@@ -1,0 +1,5 @@
+{"path": "people/zhou-wei-lin.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "LINK_UNLINKED_ENTITY"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "people/zhou-wei-liang.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "LINK_UNLINKED_ENTITY"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "people/david-huang.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/san-francisco-theological-seminary.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/ken-wu.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}

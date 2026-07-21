@@ -1,11 +1,16 @@
-## Site design audit — 2026-07-20 05:00
+## Site design audit — 2026-07-21 04:15
 
-- pages_md=205
+- pages_md=210
 - critical=0 high=0 medium=0
 - heals_suggested=none
 
 ### Summary
 - **SITE_DESIGN_STATUS: OK**
+
+### LOW (1)
+- **C1** spelling signals (sample): 2 `[AGENT_SUGGESTED]`
+  - `2017-tahs-publication.md: ?ching`
+  - `david-lee.md: ?onboarding`
 
 ### INFO (2)
 - **B2** pinned featured pages: 29
@@ -17,7 +22,7 @@
   - `people/franklin-ping-cheng.md`
   - `people/ho-chie-tsai.md`
   - `people/hsu-hsin-hung.md`
-- **B1** person/org touched ≤7d (rely on recency featured window): 127
+- **B1** person/org touched ≤7d (rely on recency featured window): 134
   - `people/alexander-macdonald.md`
   - `people/april-lin.md`
   - `people/c-c-chen.md`

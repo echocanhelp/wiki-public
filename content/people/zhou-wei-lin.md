@@ -29,3 +29,7 @@ last_reviewed: 2026-07-20
 - **A-tier:** 2017 TAHS Publication (台美菁英錄), multiple profiles
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Related:** [[organizations/taiwanese-american-historical-society|TAHS]], [[people/yang-jia-you|楊嘉猷 (Charles Yang)]]
+
+## Related Pages
+
+- [[people/albert-s-lai|Dr. Albert S. Lai]]
