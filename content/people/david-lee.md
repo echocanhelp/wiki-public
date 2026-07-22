@@ -11,6 +11,7 @@ status: draft
 last_reviewed: 2026-07-21
 sources:
   - https://www.linkedin.com/in/olufs3n
+  - https://github.com/olufs3n
 ---
 # David Lee (李東璞 / Li Dong-pu)
 
@@ -39,14 +40,23 @@ This page was created from LINE-first onboarding to establish canonical identity
 
 ## Professional / Career Context
 
-Public career headline facts from the owner-designated LinkedIn profile ([linkedin.com/in/olufs3n](https://www.linkedin.com/in/olufs3n)):
+Owner-designated public profile: [linkedin.com/in/olufs3n](https://www.linkedin.com/in/olufs3n)
 
-- **Headline roles:** Deputy CISO; cyber-security expert; mentor
-- **Background note:** USMC veteran
+### Public headline facts (scrapable without LinkedIn login)
+
+- **Name on profile:** David Lee, CISSP
+- **Headline:** Deputy CISO | Cyber-Security Expert | Mentor | USMC Veteran
 - **Location:** Irvine, California, United States
-- **Certification:** CISSP
+- **Network (public counters):** ~1K followers; 500+ connections
+- **Specialties (public index):** Information Security
+- **Certification shown on profile:** CISSP
+- **Related public tech identity:** GitHub [olufs3n](https://github.com/olufs3n) (public repos include terminal tooling setups; no employer bio on GitHub)
 
-Full employment history is not mirrored here (LinkedIn remains the living career source). Private contact details are not republished.
+### Experience / Education / About (not available to bots)
+
+LinkedIn guest/public endpoints and common scrapers return only the top-card headline for this profile. Full **About**, **Experience**, **Education**, **Licenses**, and **Skills** sections require an authenticated LinkedIn session and were **not** imported (to avoid inventing jobs from other people named David Lee).
+
+**Member action to complete career mirror:** paste those sections here, or share a LinkedIn PDF/export / screenshot, and they will be transcribed with source notes.
 
 ## Testimony / Self-Introduction (Member-editable)
 
@@ -89,7 +99,8 @@ Please confirm or change:
 
 ## Sources
 
-- [David Lee LinkedIn (olufs3n)](https://www.linkedin.com/in/olufs3n) — owner-designated career profile (public headline facts only)
+- [David Lee LinkedIn (olufs3n)](https://www.linkedin.com/in/olufs3n) — owner-designated career profile; full body auth-walled to scrapers
+- [GitHub olufs3n](https://github.com/olufs3n) — public username match from LinkedIn index
 - Self-stated Chinese name via verified LINE account (David Lee / David Lee (Work))
 
 ## Revision History
@@ -100,3 +111,4 @@ Please confirm or change:
 - 2026-07-21: Owner confirmed LINE display name "David Lee (Work)"; private identity registry updated.
 - 2026-07-21: Captured private LINE user ID from David Lee (Work) sender account; added public LinkedIn career facts (Deputy CISO, CISSP, USMC veteran, Irvine CA) from owner-designated profile.
 - 2026-07-21: Chinese name set to 李東璞 from David Lee's verified LINE sender account; title updated.
+- 2026-07-21: Deep LinkedIn pull attempted (Jina guest profile, Exa index, GitHub API). Full Experience/Education still auth-walled; page documents scrape limit and GitHub olufs3n link.
