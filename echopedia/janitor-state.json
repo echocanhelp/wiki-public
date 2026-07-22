@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-07-21",
+  "last_run": "2026-07-22",
   "standards_version_seen": 6,
   "runs": [
     {
@@ -51,47 +51,16 @@
       "selected": 5,
       "standards_version": 6,
       "standards_bumped": false
+    },
+    {
+      "date": "2026-07-22",
+      "candidates": 52,
+      "selected": 5,
+      "standards_version": 6,
+      "standards_bumped": false
     }
   ],
   "queue": [
-    {
-      "path": "people/zhou-wei-lin.md",
-      "findings": [
-        "NO_IDENTITY_SNAPSHOT",
-        "NO_RELATED_PAGES",
-        "LINK_UNLINKED_ENTITY"
-      ],
-      "hygiene": [
-        "LINK_UNLINKED_ENTITY: people/zhou-wei-lin.md → people/hsu-hsin-hung",
-        "LINK_UNLINKED_ENTITY: people/zhou-wei-lin.md → people/wang-gui-rong",
-        "LINK_UNLINKED_ENTITY: people/zhou-wei-lin.md → people/wang-neng-xiang"
-      ],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "people/zhou-wei-liang.md",
-      "findings": [
-        "NO_IDENTITY_SNAPSHOT",
-        "NO_RELATED_PAGES",
-        "LINK_UNLINKED_ENTITY"
-      ],
-      "hygiene": [
-        "LINK_UNLINKED_ENTITY: people/zhou-wei-liang.md → people/sam-chang"
-      ],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
     {
       "path": "people/david-huang.md",
       "findings": [
@@ -125,12 +94,44 @@
       ]
     },
     {
-      "path": "people/ken-wu.md",
+      "path": "organizations/ntpc.md",
       "findings": [
         "LINK_UNLINKED_ENTITY"
       ],
       "hygiene": [
-        "LINK_UNLINKED_ENTITY: people/ken-wu.md → people/leonard-hsu-jr"
+        "LINK_UNLINKED_ENTITY: organizations/ntpc.md → organizations/national-taiwanese-presbyterian-council"
+      ],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "people/chen-meihui.md",
+      "findings": [
+        "LINK_BODY_SPARSE"
+      ],
+      "hygiene": [
+        "LINK_BODY_SPARSE: people/chen-meihui.md (body_wikis=0 related=4)"
+      ],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "people/guo-yingyan.md",
+      "findings": [
+        "LINK_UNLINKED_ENTITY"
+      ],
+      "hygiene": [
+        "LINK_UNLINKED_ENTITY: people/guo-yingyan.md → sources/irvine-taiwanese-presbyterian-church"
       ],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
@@ -143,10 +144,10 @@
   ],
   "last_candidates": 52,
   "last_selected": [
-    "people/zhou-wei-lin.md",
-    "people/zhou-wei-liang.md",
     "people/david-huang.md",
     "people/san-francisco-theological-seminary.md",
-    "people/ken-wu.md"
+    "organizations/ntpc.md",
+    "people/chen-meihui.md",
+    "people/guo-yingyan.md"
   ]
 }
