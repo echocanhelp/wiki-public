@@ -25,3 +25,6 @@ albert-ch01-en-christopher-v1-scratch.mp3
 .obsidian/workspace*
 .obsidian/workspace.json
 .obsidian/cache
+
+# Private LINE identity (never public)
+echopedia/identity/
