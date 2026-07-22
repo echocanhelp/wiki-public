@@ -396,7 +396,7 @@
       "type": "CO-CITATION",
       "pages": [
         "taiwanese-american-historical-society.md",
-        "wang-gui-rong.md"
+        "guo-shu-qing.md"
       ],
       "reason": "Both link to people/liao-shu-zong"
     },
@@ -404,7 +404,7 @@
       "type": "CO-CITATION",
       "pages": [
         "taiwanese-american-historical-society.md",
-        "wang-neng-xiang.md"
+        "liao-ji-chun.md"
       ],
       "reason": "Both link to people/liao-shu-zong"
     },
@@ -412,31 +412,31 @@
       "type": "CO-CITATION",
       "pages": [
         "taiwanese-american-historical-society.md",
-        "yang-xin.md"
+        "lin-chao-chi.md"
       ],
       "reason": "Both link to people/liao-shu-zong"
     },
     {
       "type": "CO-CITATION",
       "pages": [
-        "wang-gui-rong.md",
-        "wang-neng-xiang.md"
+        "guo-shu-qing.md",
+        "liao-ji-chun.md"
       ],
       "reason": "Both link to people/liao-shu-zong"
     },
     {
       "type": "CO-CITATION",
       "pages": [
-        "wang-gui-rong.md",
-        "yang-xin.md"
+        "guo-shu-qing.md",
+        "lin-chao-chi.md"
       ],
       "reason": "Both link to people/liao-shu-zong"
     },
     {
       "type": "CO-CITATION",
       "pages": [
-        "wang-neng-xiang.md",
-        "yang-xin.md"
+        "liao-ji-chun.md",
+        "lin-chao-chi.md"
       ],
       "reason": "Both link to people/liao-shu-zong"
     },
@@ -445,14 +445,6 @@
       "pages": [
         "chen-meihui.md",
         "guo-yingyan.md"
-      ],
-      "reason": "Both link to organizations/irvine-taiwanese-presbyterian-church"
-    },
-    {
-      "type": "CO-CITATION",
-      "pages": [
-        "guo-yingyan.md",
-        "li-furen.md"
       ],
       "reason": "Both link to organizations/irvine-taiwanese-presbyterian-church"
     },
@@ -507,6 +499,14 @@
     {
       "type": "CO-CITATION",
       "pages": [
+        "guo-shu-qing.md",
+        "lin-qiong-xian.md"
+      ],
+      "reason": "Both link to people/liao-ji-chun"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
         "john-chiang.md",
         "liao-shu-zong.md"
       ],
@@ -538,7 +538,7 @@
     {
       "type": "ORPHAN_FOLDER",
       "folder": "people",
-      "reason": "106 pages, avg 5.4 links each, 4 internal links"
+      "reason": "111 pages, avg 5.4 links each, 4 internal links"
     },
     {
       "type": "ORPHAN_FOLDER",
@@ -546,5 +546,5 @@
       "reason": "10 pages, avg 4.0 links each, 0 internal links"
     }
   ],
-  "total_pages": 208
+  "total_pages": 213
 }

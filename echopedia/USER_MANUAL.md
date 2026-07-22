@@ -16,7 +16,163 @@ Vault: `/home/leedt/echo-system` · Live: https://echocanhelp.github.io/wiki-pub
 
 ---
 
-## Command language: what “Echopedia …” means
+## Architecture overview
+
+```
+┌─────────────┐    plan/review    ┌─────────────┐
+│  default    │ ◄──────────────── │  pinto      │
+│  profile    │   ← approve ←     │  profile    │
+│  (frontier) │                   │  (worker)   │
+│  Grok/     │                   │  NVFP4      │
+│  NVFP4     │                   │  NVFP4      │
+└─────┬───────┘                   └─────┬───────┘
+      │                                 │
+      │ delegate_task                   │ hermes -p pinto
+      │ (delegation.*→pinto)            │ chat -q <task>
+      ▼                                 ▼
+┌──────────────────────────────────────────────────┐
+│         DETERMINISTIC NODES                      │
+│  no_agent cron jobs (bash/Python)                │
+│  ci-heal · site-design · digest · janitor        │
+└──────────────────────────────────────────────────┘
+      │
+      │ deliver
+      ▼
+┌──────────────────────────────────────────────────┐
+│  Telegram home (6769573480)                      │
+│  ← human checkpoint / review gate                │
+└──────────────────────────────────────────────────┘
+```
+
+---
+
+## Quick start (first time)
+
+1. **Read this file** — it defines how to assign work.
+2. **Say** `Echopedia website <domain>` — full pipeline: archive → absorb → publish.
+3. **Review the digest** at 09:00 — morning brief of what the system did.
+
+**Command decision tree:**
+
+```
+Do you have a…
+├── Domain (website)? → “Echopedia website <domain>"
+├── PDF (yearbook, publication)? → "Echopedia publication <name>"
+├── Page to feature? → "Echopedia feature <name>"
+├── Site layout issue? → "Echopedia site design"
+├── Something broken? → Check SYSTEM_STATUS.md → pick a playbook
+└── Not sure? → "Echopedia <site>" (defaults to website pipeline)
+```
+
+---
+
+## Common workflows
+
+### Ingest a new website
+1. Say: `Echopedia website <domain>`
+2. Review morning digest (09:00) for progress
+3. Check SYSTEM_STATUS.md for any issues
+
+### Add a new feature (Google, Twilio, media, etc.)
+1. Follow FEATURE_ADD.md
+2. Classify as A (tooling), B (scheduled), or C (integrated)
+3. Implement + update only necessary docs
+
+### Fix a broken page
+1. Check SYSTEM_STATUS.md → find symptom
+2. Pick playbook from troubleshooting table
+3. Run worker playbook → verify → publish
+
+### Disable auto-push
+1. `Echopedia site design` → P6
+2. Set `l3_auto_push_on_green=false`
+3. Re-enable after fix
+
+---
+
+## First 24 hours — new user guide
+
+This is the path for someone who just joined the Echopedia project. In 24 hours you should: understand the system, see the live site, run a check, and know where to start contributing.
+
+### Hour 1 — Orientation (read-only)
+
+1. **Read this file** (USER_MANUAL.md). It defines how to assign work.
+2. **Read WHERE_WE_ARE.md** — mission progress and what remains.
+3. **Read SYSTEM_STATUS.md** — auto machine snapshot (crons, queue, last green push).
+4. **Load the routing skill:** `skill_view echopedia-ops` — the single map of scripts and topology.
+5. **Open the live site:** https://echocanhelp.github.io/wiki-public/
+
+**Goal:** You can answer "what does Echopedia do, and how do I know if it's healthy?"
+
+### Hour 2 — Check the machine
+
+```bash
+cat ~/echo-system/echopedia/SYSTEM_STATUS.md
+# if FAIL or ACTION:
+bash ~/.hermes/scripts/echopedia-ops-check.sh
+bash ~/.hermes/scripts/echopedia-ci-heal.sh --dry-run
+```
+
+Read the three briefs:
+- `echopedia/janitor-brief.md` — queue + link hygiene
+- `echopedia/ci-heal-brief.md` — last heal + push result
+- `echopedia/improvement-brief.md` — weekly improvement pack
+
+**Goal:** You can tell whether the system is green or red, and what the last run did.
+
+### Hours 3–4 — See how a page is built
+
+Pick one live page, e.g. https://echocanhelp.github.io/wiki-public/people/albert-s-lai
+
+1. Find its source: `content/people/albert-s-lai.md`
+2. Read its frontmatter — note `last_reviewed`, `featured`, `sources` callouts.
+3. Run `P0` (orient) then `P1` (ops/drift/smoke) to see what the worker checks.
+4. Read WORKER.md playbook P3 (one page links) — this is how a single page gets fixed.
+
+**Goal:** You understand the MD→HTML publish path and what "done" looks like for a page.
+
+### Hours 5–12 — Pick your first task
+
+Look at the **janitor queue** (depth is in SYSTEM_STATUS.md). Typical first tasks:
+
+| Queue item | Playbook | What you do |
+|------------|----------|-------------|
+| Thin person/org page | P3 | Fix links, add first-mention body links |
+| Broken wikilink | P3 | Repair or redirect |
+| Stale `last_reviewed` | P3 | Review content, bump date |
+| New source hub needed | P9 | Create `content/sources/<name>.md` |
+| Publish needed | P2 | Rebuild HTML + push |
+
+**Do not** pick: "improve linking across the wiki", "figure out the best architecture", "make it better". Pick a playbook ID + path.
+
+**Goal:** You have one concrete page or fix assigned with a playbook ID.
+
+### Hours 12–24 — Contribute
+
+1. **Clone the repo** (if you haven't): `git clone` the echo-system repo.
+2. **Make your edit** on a branch: `git checkout -b fix/<short-name>`
+3. **Run the worker** with your chosen playbook:
+   ```text
+   WORKER.md playbook P3 PATH=content/people/<name>.md
+   No publish. Report. STOP.
+   ```
+4. **Commit** your change (P10 if you need help).
+5. **Ask for a publish** (P2) or let ci-heal pick it up at 04:15.
+
+**Goal:** You've made one verified edit that follows the standards in `standards.json`.
+
+### What to do next
+
+- **Every morning at 09:00** — read the digest (delivered to your chat or `echopedia/digest-brief.md`).
+- **Every week (Mon 05:00)** — the improvement pack runs; review `improvement-brief.md`.
+- **When stuck** — check SYSTEM_STATUS.md → pick a playbook from the troubleshooting table.
+- **When adding a feature** — follow FEATURE_ADD.md (Google, Twilio, media, tools, crons).
+
+**Remember:** Humans set goals and approve plans. The worker runs one playbook exactly. The smart model plans and improves playbooks. You only intervene for content judgment, new sources, process design, or red alerts.
+
+---
+
+## Command language: what "Echopedia …" means
 
 **Default (Leonard / Hsuperman):** saying **Echopedia** + a target means **live wiki**, not research-only.
 
@@ -48,6 +204,8 @@ Agents: **do not stop after archive.** Follow `WEBSITE_INGEST.md` until COMPLETE
 
 ---
 
+---
+
 ## Adding a feature (Google, Twilio, media, tools, crons, APIs)
 
 **Same procedure for every tool** — including future **Twilio (SMS/voice)** and **photo/video generation**.  
@@ -67,6 +225,77 @@ Feature add per echopedia/FEATURE_ADD.md. Classify A/B/C. List files, then imple
 ```
 
 Messaging platforms ≠ wiki dump by default. Prefer existing media tools before new vendors.
+---
+
+## System architecture (visual)
+
+The diagram below shows the full Human → Planner → Worker → Git → Telegram flow.
+
+**Interactive HTML:** [architecture-diagram.html](architecture-diagram.html) (open in browser)
+
+**Quick reference (ASCII):**
+
+```
+ ┌──────┐   assign work   ┌────────┐   kanban assign   ┌────────┐
+ │Human │ ──────────────► │Planner │ ─────────────────► │Worker  │
+ │(Leonard)│              │(default│                   │(pinto) │
+ └──────┘                 │profile)│                   └────┬───┘
+    ▲                     └────────┘                        │
+    │                                                     │
+    │ reply                                               │ git add/commit/push
+    │                                                     ▼
+    │                                               ┌──────────┐
+    │                                               │   Git    │
+    │                                               │(echo-    │
+    │                                               │ system)  │
+    │                                               └────┬─────┘
+    │                                                    │
+    │                                               diff summary
+    │                                                    │
+    │                                              ┌─────┴─────┐
+    │                                              │  Worker   │
+    │                                              │(receives  │
+    │                                              │ feedback)  │
+    │                                              └─────┬─────┘
+    │                                                    │
+    │                                              deliver result
+    │                                                    ▼
+    │                                              ┌──────────┐
+    │                                              │Telegram  │
+    │                                              │(home     │
+    │                                              │6769573480)│
+    │                                              └────┬─────┘
+    │                                                   │
+    │                                              review gate
+    │                                                   │
+    └───────────────────────────────────────────────────┘
+```
+
+**Nodes:**
+
+| Node | Profile | Model | Role |
+|------|---------|-------|------|
+| Human | — | — | Goals, approve plans, flip autonomy flags |
+| Planner | `default` | Grok → NVFP4 (sticky) | Architecture design, user-facing chat, admin tasks |
+| Worker | `pinto` | NVFP4 only | Kanban execution, bounded template work, depth passes |
+| Git | — | — | Shared artifact store (echo-system repo) |
+| Telegram | delivery target | — | Human checkpoint / review gate (6769573480) |
+| Kanban | — | — | Dynamic work graph (t_* cards) |
+
+**Edges:**
+
+| Flow | Direction | Trigger |
+|------|-----------|---------|
+| Human → Planner | User → Frontier | "Echopedia …" command |
+| Planner → Worker | Frontier → Local | `hermes kanban assign <task> pinto` |
+| Worker → Git | Local → Artifact store | `git add/commit/push` in task workspace |
+| Git → Worker | Artifact store → Local | Diff summary feedback |
+| Worker → Telegram | Local → Human | `deliver` on cron or kanban result |
+| Telegram → Human | Delivery → Review | Review gate |
+| Telegram → Planner | Human → Frontier | User reply in chat |
+
+See also: [AGENT_GRAPH.md](AGENT_GRAPH.md) for the full topology including nightly cron pipelines and design principles.
+
 ---
 
 ## Division of labor
@@ -165,6 +394,71 @@ You only intervene for content judgment, new sources, process design, or red ale
 
 ---
 
+## When to intervene (decision matrix)
+
+The system runs 24/7: 04:00 janitor, 04:15 ci-heal, 04:30 site-design audit, 09:00 digest. **You only intervene when the matrix below says so.** Each row maps a digest/system-status signal to a concrete action (or "do nothing").
+
+|| Situation | Matrix trigger | Your action |
+||-----------|---------------|-------------|
+|| System healthy, no alerts | Morning digest shows `CI: OK` / `Drift: OK` / `Janitor: clean` | **Do nothing** — system is self-healing |
+|| New content source found | User says "Echopedia website/domain/publication" | **Assign work** — see Command language (full pipeline) |
+|| Janitor queue > 0 | Digest shows `Janitor: queue (N)` | **Review queue** — P4 if items need human judgment; otherwise let nightly drain handle safe fixes |
+|| CI drift = ACTION | Digest shows `Drift: ACTION` | **Run P5** or `echopedia-publish.sh` to rebuild trees; if persistent, investigate source |
+|| CI smoke FAIL | Digest shows `CI: FAIL` | **Run P1** — ops-check + smoke-test; file incident if live site broken |
+|| Site-design CRITICAL/HIGH | Digest or 04:30 audit shows critical layout issues | **Run P13** with `site-design-brief.md` — bounded local agent pass |
+|| Broken links > 0 | Link hygiene reports BROKEN | **Run P3** per path — fix wikilinks to existing slugs only |
+|| Page needs content update | You have new facts from a source | **Run P8** with source path — worker edits only with named source |
+|| New feature/tool needed | Google, Twilio, media, new cron, API | **Feature add** — see FEATURE_ADD.md (classify A/B/C, list files) |
+|| Autonomy too aggressive | Nightly push published something wrong | **Run P6** — `l3_auto_push_on_green=false`; review, then re-enable |
+|| Standards/rules changed | You changed linking/ingest rules | **Bump standards.json version** — janitor auto-resweeps next run |
+|| Nothing in digest is actionable | All green, no new sources, no user requests | **Do nothing** — system is working as designed |
+
+**Red flags (always intervene):**
+- `OPS_STATUS: FAIL` — missing scripts/skills (run `echopedia-ops-check.sh`, fix)
+- Smoke URLs returning non-200 — live site broken
+- Git push failed — check `knowledge/operational/incidents/`
+- Standards version mismatch persists > 1 day — bump not caught
+
+**Green flags (never intervene):**
+- CI = GREEN, drift = OK, smoke = OK, janitor = clean
+- Uncommitted files = 0, queue = 0
+- All smoke URLs 200
+
+---
+
+## Key metrics to watch
+
+SYSTEM_STATUS.md (auto, 04:15) and the 09:00 digest surface these. Know what each means and when to act.
+
+### Content health
+| Metric | Green | Yellow | Red | Source |
+|--------|-------|--------|-----|--------|
+| Markdown pages | growing | flat >2 weeks | shrinking | nightly audit |
+| Broken wikilinks | 0 | 1–5 | >5 | `echopedia-audit-collect.sh` |
+| Pages missing sections | 0 | 1–5 | >5 | nightly audit |
+| Stale 90D+ | <10 | 10–20 | >20 | nightly audit |
+| Orphan pages | <5 | 5–10 | >10 | nightly audit |
+
+### Pipeline health
+| Metric | Green | Yellow | Red | Source |
+|--------|-------|--------|-----|--------|
+| Janitor queue depth | 0–5 | 6–10 | >10 | SYSTEM_STATUS |
+| Uncommitted files | 0 | 1 | >1 | `git status` |
+| Drift (stale HTML) | 0 | 1–5 | >5 | ci-heal brief |
+| Smoke URLs OK | all 4 pass | 1 fails | >1 fail | ci-heal brief |
+| Site design issues | 0 critical | 1–2 medium | any critical | site-design brief |
+
+### Autonomy
+| Metric | Green | Yellow | Red | Source |
+|--------|-------|--------|-----|--------|
+| L3 push on green | True | — | False | standards.json |
+| Cron failures | 0 | 1 | >1 | improvement brief |
+| Last good deploy | <24h ago | 1–3 days | >3 days | SYSTEM_STATUS |
+
+**Red = intervene.** Yellow = monitor. Green = system is self-managing.
+
+---
+
 ## Human daily check
 
 ```bash
@@ -173,6 +467,19 @@ cat /home/leedt/echo-system/echopedia/SYSTEM_STATUS.md
 bash /home/leedt/.hermes/scripts/echopedia-ops-check.sh
 bash /home/leedt/.hermes/scripts/echopedia-ci-heal.sh --dry-run
 ```
+
+---
+
+## Script references
+
+| Script | Path | Purpose |
+|--------|------|---------|
+| `echopedia-publish.sh` | `~/.hermes/scripts/` | Deploy + featured regen |
+| `echopedia-ci-heal.sh` | `~/.hermes/scripts/` | Nightly heal + push |
+| `echopedia-ops-check.sh` | `~/.hermes/scripts/` | Health check |
+| `echopedia-link-hygiene.py` | `~/.hermes/scripts/` | Link audit |
+| `echopedia-site-design-audit.py` | `~/.hermes/scripts/` | Site design audit |
+| `featured-regen.py` | `echo-system/scripts/` | Featured section regen |
 
 ---
 
@@ -192,6 +499,25 @@ bash /home/leedt/.hermes/scripts/echopedia-ci-heal.sh --dry-run
 | Content mismatch (live ≠ repo) | **P5** + `references/ui-discrepancy-investigation.md` |
 | Homepage / layout / mobile / featured bugs | **P13** (+ `SITE_DESIGN.md`) |
 | Featured pin only | **P12** or `Echopedia feature <name>` |
+
+### WORKER playbook reference
+
+| ID | Name | When to use |
+|----|------|-------------|
+| P0 | Orient / status | Don't know current state |
+| P1 | Ops/drift/smoke | Run audit checks |
+| P2 | Publish/deploy | Rebuild HTML + push |
+| P3 | One page links | Fix bad links on a single page |
+| P4 | Janitor queue | Process queued items |
+| P5 | Heal/drift/smoke | Full auto heal + push |
+| P6 | Toggle autonomy | Enable/disable flags |
+| P7 | Meta reports | Generate reports |
+| P8 | Edit page content | Needs source path |
+| P9 | New work page | Create a new content page |
+| P10 | Commit/push git | Git operations |
+| P11 | Cron self-check | Diagnose cron errors |
+| P12 | Featured regen | Regenerate homepage featured |
+| P13 | Site design | Layout / mobile / featured bugs |
 
 ---
 
@@ -243,6 +569,274 @@ Morning digest includes the site-design brief head.
 
 ---
 
+## Glossary
+
+| Term | Definition |
+|------|------------|
+| **Tier2** | The archived, machine-indexed copy of source material (web archives, PDF chunks, raw source files) stored under `knowledge/`. Tier2 is the input layer: structured but not yet absorbed into the wiki graph. A full-domain website ingest always produces a Tier2 MANIFEST before generating the entities/facts sheet and content pages. |
+| **drift** | The condition where a source Markdown file in `content/` is newer than its deployed HTML tree (stale HTML). Measured by `echopedia-deploy-drift.sh` via mtime comparison. Drift triggers the L2 publish step in `ci-heal`. |
+| **smoke** | A post-deploy liveness check that curls the `smoke_urls` from `standards.json` and verifies HTTP 200 + minimum byte count. Run by `echopedia-smoke-test.sh`. A smoke failure blocks L3 auto-push even when ops and drift are green. |
+| **heal** | The L1/L2 remediation step in `ci-heal` that resolves drift (publish), runs site-design fixes (featured inject, parity), and commits results. Heal is programmable (`no_agent`) — never a freeform LLM rewrite. |
+| **ci-heal** | The 04:15 nightly orchestrator (`echopedia-ci-heal.sh`) that runs ops-check → optional drain → drift→publish → site-design L1 heal → broken-link gate → smoke → L3 green-push. It is the **only** nightly pusher. |
+| **L0** | Sense layer. Audit-only: collects findings into a brief + state JSON. Examples: `echopedia-site-design-audit.py` (L0 site-design), `echopedia-nightly-audit` (structural). No writes. |
+| **L1** | Heal layer. Programmable, deterministic fixes driven by L0 findings. Examples: `echopedia-site-design-heal.sh` (featured-regen, parity publish), `echopedia-publish.sh`. No LLM reasoning. |
+| **L2** | Gate/commit layer. Decides whether to commit heal artifacts and whether site-design issues should block green. Flags: `l2_auto_commit_on_heal`, `l2_site_design_blocks_green`. |
+| **L3** | Agent/push layer. The single nightly auto-push when green (`l3_auto_push_on_green`). Also the local-worker P13 bounded pass for site-design issues that L1 could not resolve. |
+
+---
+
+## Recovery procedures
+
+When something breaks, follow these runbooks. Each starts from `SYSTEM_STATUS.md` + the failing script's output. All incidents are auto-logged to `knowledge/operational/incidents/`.
+
+### R1 — CI heal aborted (ops FAIL)
+
+**Symptom:** `ci-heal` exits 1 with `CI: ops-check FAIL`. Push did not happen.
+
+**Recovery:**
+```bash
+# 1. See what failed
+bash ~/.hermes/scripts/echopedia-ops-check.sh
+# 2. Fix the missing script/skill/path the check names
+# 3. Re-run (dry-run first)
+bash ~/.hermes/scripts/echopedia-ci-heal.sh --dry-run
+bash ~/.hermes/scripts/echopedia-ci-heal.sh
+```
+
+**Common causes:** missing script in `~/.hermes/scripts/`, skill directory deleted, `content/people` or `quartz-v4` dir missing, standards version not seen by janitor.
+
+---
+
+### R2 — Drift remains after publish
+
+**Symptom:** `DRIFT_STATUS: ACTION` after `ci-heal` ran publish. Stale HTML or missing HTML pages.
+
+**Recovery:**
+```bash
+# 1. See which pages are stale
+bash ~/.hermes/scripts/echopedia-deploy-drift.sh
+# 2. Force rebuild (build trees only, no push)
+bash ~/.hermes/scripts/echopedia-publish.sh
+# 3. Re-check
+bash ~/.hermes/scripts/echopedia-deploy-drift.sh
+# 4. If still stale, push manually
+bash ~/.hermes/scripts/echopedia-publish.sh --push
+```
+
+**Root cause:** `npx quartz build` may silently skip pages with malformed frontmatter. Check the page's YAML header for syntax errors.
+
+---
+
+### R3 — Smoke test failure
+
+**Symptom:** `SMOKE_STATUS: FAIL` — live URLs returning non-200 or <500 bytes.
+
+**Recovery:**
+```bash
+# 1. Which URL(s) failed
+bash ~/.hermes/scripts/echopedia-smoke-test.sh
+# 2. If just deployed, wait 30s for CDN then re-test
+sleep 30 && bash ~/.hermes/scripts/echopedia-smoke-test.sh
+# 3. If still failing: the page may be missing from the tree
+#    Check if HTML exists locally
+ls ~/echo-system/people/<slug>.html
+# 4. If missing, run publish to rebuild trees
+bash ~/.hermes/scripts/echopedia-publish.sh
+```
+
+**Note:** Smoke failure blocks L3 auto-push. After fixing, ci-heal will push on the next green cycle.
+
+---
+
+### R4 — Git push failure
+
+**Symptom:** `git push origin gh-pages` fails in `ci-heal`. `last-good-deploy.json` is stale.
+
+**Recovery:**
+```bash
+# 1. See the error
+cd ~/echo-system
+git push origin gh-pages 2>&1 | tail -20
+# 2. Common: non-fast-forward — fetch and retry
+git fetch origin
+git push origin gh-pages
+# 3. If auth: refresh gh CLI token
+gh auth login
+# 4. If still failing, push manually after publish
+bash ~/.hermes/scripts/echopedia-publish.sh --push
+```
+
+---
+
+### R5 — Broken wikilinks
+
+**Symptom:** `echopedia-nightly-audit` or janitor reports broken `[[wikilinks]]`.
+
+**Recovery:**
+```bash
+# 1. Run the audit to see broken links
+bash ~/.hermes/scripts/echopedia-audit-collect.sh
+# 2. Fix by editing the source page — correct the slug
+#    Slug format: people/<kebab-name> or organizations/<kebab-name>
+# 3. Verify the target page exists
+ls ~/echo-system/content/people/<slug>.md
+# 4. Re-run audit to confirm
+```
+
+**Tip:** Use `echopedia-link-hygiene.py` for bulk fixes. Worker playbook **P3** handles single-page link fixes.
+
+---
+
+### R6 — Site design / layout / featured bugs
+
+**Symptom:** Homepage featured cards missing, mobile layout broken, HTML not matching MD.
+
+**Recovery:**
+```bash
+# 1. Run site-design audit
+bash ~/.hermes/scripts/echopedia-site-design-wrapper.sh
+# 2. If CRITICAL/HIGH: run heal
+bash ~/.hermes/scripts/echopedia-site-design-heal.sh
+# 3. If featured cards stale: regenerate
+python3 ~/echo-system/scripts/featured-regen.py --root ~/echo-system --inject
+# 4. Publish to apply
+bash ~/.hermes/scripts/echopedia-publish.sh --push
+```
+
+**Playbook:** **P13** for agent-assisted layout fixes. See `SITE_DESIGN.md`.
+
+---
+
+### R7 — Janitor queue stuck
+
+**Symptom:** `janitor-state.json` queue depth growing across nights. Pages not draining.
+
+**Recovery:**
+```bash
+# 1. Check queue
+python3 -c "import json; d=json.load(open('~/echo-system/echopedia/janitor-state.json')); print(len(d.get('queue',[])))"
+# 2. Run drain manually
+python3 ~/.hermes/scripts/echopedia-queue-drain.py
+# 3. Check brief for details
+cat ~/echo-system/echopedia/janitor-brief.md
+```
+
+**Note:** Queue drain is programmable only (`auto_apply_agent: false`). If queue grows, either standards changed (bump version so janitor resweeps) or pages need manual review.
+
+---
+
+### R8 — Standards version mismatch
+
+**Symptom:** `OPS_WARN: standards v6 not yet seen by janitor (seen=5)`.
+
+**Recovery:**
+```bash
+# The next 04:00 janitor run will resweep. To force now:
+bash ~/.hermes/scripts/echopedia-janitor-wrapper.sh
+# Then verify
+bash ~/.hermes/scripts/echopedia-ops-check.sh
+```
+
+---
+
+### R9 — Quartz build failure
+
+**Symptom:** `PUBLISH_FAIL` or `npx quartz build` errors during publish.
+
+**Recovery:**
+```bash
+# 1. Run build manually to see full error
+cd ~/quartz-v4
+npx quartz build 2>&1 | tail -30
+# 2. Common: malformed frontmatter in a content page
+#    Check recently edited pages for YAML syntax
+# 3. If a specific page fails, temporarily move it aside
+mv ~/echo-system/content/people/bad-page.md /tmp/
+# 4. Re-run publish
+bash ~/.hermes/scripts/echopedia-publish.sh
+# 5. Restore and fix the page
+mv /tmp/bad-page.md ~/echo-system/content/people/
+```
+
+---
+
+### R10 — Cron job failures
+
+**Symptom:** `CRON_STATUS: FAIL` from cron selfcheck, or a cron job stopped delivering.
+
+**Recovery:**
+```bash
+# 1. Run selfcheck
+bash ~/.hermes/scripts/echopedia-cron-selfcheck.sh
+# 2. Check specific job output
+#    List jobs:
+hermes cron list
+# 3. Re-run a failed job
+hermes cron run <job_id>
+# 4. If script not executable:
+chmod +x ~/.hermes/scripts/<script>
+```
+
+---
+
+### R11 — Uncommitted files blocking clean push
+
+**Symptom:** `ci-heal` commits heal but push fails on non-fast-forward, or `SYSTEM_STATUS` shows high uncommitted count.
+
+**Recovery:**
+```bash
+cd ~/echo-system
+# 1. See what's uncommitted
+git status --short
+# 2. Commit content changes
+git add content/ people/ organizations/ sources/ echopedia/
+git commit -m "manual: content sync"
+# 3. Push
+git push origin gh-pages
+```
+
+**Note:** `l3_auto_push_on_green` requires `require_clean_git_for_push: false` (current default). If you change that to true, uncommitted files will block push.
+
+---
+
+### R12 — Featured section not updating
+
+**Symptom:** Homepage featured cards don't reflect `featured: true` in frontmatter.
+
+**Recovery:**
+```bash
+# 1. Verify frontmatter has featured: true
+grep -r "featured: true" ~/echo-system/content/
+# 2. Regenerate featured section
+python3 ~/echo-system/scripts/featured-regen.py --root ~/echo-system --dry-run
+python3 ~/echo-system/scripts/featured-regen.py --root ~/echo-system --inject
+# 3. Verify markers in index.html
+grep -A2 "featured-start" ~/echo-system/index.html
+# 4. Publish
+bash ~/.hermes/scripts/echopedia-publish.sh --push
+```
+
+---
+
+### Quick reference: recovery command order
+
+```bash
+# Start here — always
+cat ~/echo-system/echopedia/SYSTEM_STATUS.md
+
+# Then pick your scenario:
+bash ~/.hermes/scripts/echopedia-ops-check.sh          # R1, R8
+bash ~/.hermes/scripts/echopedia-deploy-drift.sh       # R2
+bash ~/.hermes/scripts/echopedia-smoke-test.sh         # R3
+bash ~/.hermes/scripts/echopedia-ci-heal.sh --dry-run  # R1, R2, R3
+bash ~/.hermes/scripts/echopedia-publish.sh            # R2, R9
+bash ~/.hermes/scripts/echopedia-publish.sh --push     # R2, R4
+bash ~/.hermes/scripts/echopedia-cron-selfcheck.sh     # R10
+ls ~/echo-system/knowledge/operational/incidents/      # all incidents
+```
+
+---
+
 ## Document ownership
 
 | Change | Update |
@@ -254,6 +848,111 @@ Morning digest includes the site-design brief head.
 | Live health | auto **SYSTEM_STATUS** |
 | Official script list / routing | skill **echopedia-ops** |
 | Behavior flags | **standards.json** (+ version bump) |
+| Full-domain website ingest | **WEBSITE_INGEST.md** |
+| Publication (PDF) ingest | **PUBLICATION_INGEST.md** |
+| Site design / layout | **SITE_DESIGN.md** |
+| Org/work topology | **AGENT_GRAPH.md** |
+| General ingestion protocol | skill **echopedia-ingestion-protocol** |
+| Large document ingestion | skill **large-document-ingestion**
+
+---
+
+## Script path references
+
+| Script | Path | When to run | Owner |
+|--------|------|-------------|-------|
+| `publish.sh` | `~/.hermes/scripts/echopedia-publish.sh` | Build HTML trees + tree-copy; `--commit` / `--push` / `--check` | Worker P2/P5 |
+| `ci-heal.sh` | `~/.hermes/scripts/echopedia-ci-heal.sh` | Nightly L2/L3 heal + push (04:15); `--dry-run` / `--no-drain` | Worker P5 |
+| `ops-check.sh` | `~/.hermes/scripts/echopedia-ops-check.sh` | Health check; exit 0 OK, 1 FAIL | Worker P1/P11 |
+| `link-hygiene.py` | `~/.hermes/scripts/echopedia-link-hygiene.py` | Link quality audit; `--path <slug>` for single page | Worker P3 |
+
+---
+
+---
+
+## Before you push
+
+Run this checklist before any manual publish or when the nightly ci-heal push is about to fire. Each item has a one-line verification command.
+
+### 1. System health
+
+```bash
+cat ~/echo-system/echopedia/SYSTEM_STATUS.md
+```
+
+- [ ] `OPS_STATUS` is OK (no missing scripts/skills)
+- [ ] `DRIFT_STATUS` is OK (no stale HTML)
+- [ ] `SMOKE_STATUS` is OK (live URLs returning 200)
+- [ ] `JANITOR_STATUS` is clean or draining
+- [ ] No CRITICAL/HIGH in site-design brief
+
+### 2. Git state
+
+```bash
+cd ~/echo-system && git status --short
+```
+
+- [ ] Working tree is clean, **or** dirty changes are intentional and committed
+- [ ] `git log --oneline -3` shows expected recent commits
+- [ ] Branch is `main` (or the intended publish branch)
+
+### 3. Autonomy flags
+
+```bash
+grep l3_auto_push_on_green ~/echo-system/echopedia/standards.json
+```
+
+- [ ] `l3_auto_push_on_green` is `true` (unless you intentionally disabled it)
+- [ ] `l2_auto_commit_on_heal` is `true` (unless you need manual commit control)
+- [ ] `l2_auto_publish_on_drift` is `true`
+
+### 4. Build verification
+
+```bash
+bash ~/.hermes/scripts/echopedia-publish.sh --check
+```
+
+- [ ] Build completes without errors
+- [ ] No malformed frontmatter in recently edited pages
+- [ ] HTML tree includes all expected pages
+
+### 5. Smoke test
+
+```bash
+bash ~/.hermes/scripts/echopedia-smoke-test.sh
+```
+
+- [ ] All `smoke_urls` from `standards.json` return HTTP 200
+- [ ] All smoke URLs return >500 bytes
+- [ ] If just deployed, wait 30s for CDN then re-test
+
+### 6. Featured section
+
+```bash
+python3 ~/echo-system/scripts/featured-regen.py --root ~/echo-system --dry-run
+```
+
+- [ ] `featured: true` pages are in frontmatter
+- [ ] Recency-based candidates (last_reviewed ≤ 30 days) exist
+- [ ] Featured section is not empty (if candidates exist)
+
+### 7. Link hygiene
+
+```bash
+bash ~/.hermes/scripts/echopedia-link-hygiene.py --path all
+```
+
+- [ ] No broken `[[wikilinks]]`
+- [ ] No broken external links in recently edited pages
+- [ ] Slug format is correct: `people/<kebab-name>` or `organizations/<kebab-name>`
+
+### 8. Final gate
+
+- [ ] All above checks pass
+- [ ] You have reviewed the diff summary
+- [ ] Ready to push: `bash ~/.hermes/scripts/echopedia-publish.sh --push`
+
+**If any check fails:** stop, fix the issue, and re-run the checklist. Do not push with `SMOKE_STATUS: FAIL` or `OPS_STATUS: FAIL`.
 
 ---
 
@@ -267,3 +966,16 @@ Morning digest includes the site-design brief head.
 ---
 
 *Keep USER_MANUAL short. Put execution detail only in WORKER.md.*
+
+## Changelog
+
+This section tracks manual changes to USER_MANUAL.md. Auto-generated content (briefs, SYSTEM_STATUS) is not listed here.
+
+|| Date | Change |
+||------|--------|
+|| 2026-07-21 | Consolidated the two 'When to intervene' sections into a single comprehensive decision matrix: replaced the simple intervene?/why table with a situation→trigger→action matrix, added red/green flag lists, and removed the duplicate section from the prior run |
+|| 2026-07-19 | Added site-design autonomy flags (l2_auto_site_design_heal/featured/publish, l2_site_design_blocks_green) and updated schedule to include 04:30 site-design audit; added P12/P13 to troubleshooting table |
+|| 2026-07-18 | Added hybrid featured section (pinned + recency), l2_auto_featured_on_publish flag, Echopedia feature command row, and site design / layout manager section |
+|| 2026-07-17 | Added PUBLICATION_INGEST command and routing; linked ui-discrepancy-investigation.md from troubleshooting table |
+|| 2026-07-16 | Added Command language section defining Echopedia website/publication/feature/refresh/full-domain-archive defaults; added full-domain absorb bar for website commands |
+|| 2026-07-15 | Initial creation as operator entry point; added doc ownership table, WORKER.md routing, autonomy switches, cron safety rules, FEATURE_ADD.md procedure, and adding-a-feature section |
