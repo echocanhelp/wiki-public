@@ -16,7 +16,7 @@ last_reviewed: 2026-07-21
 - English name: David Lee
 - Chinese name: **待補** (please provide Chinese characters + preferred romanization)
 - Current TAHS role context: Chief Technology Officer (CTO) — scope pending member confirmation
-- LINE linkage state: Owner-verified (LINE user ID kept private; not published)
+- LINE linkage state: Owner-verified — display name "David Lee (Work)" confirmed by Leonard Hsu Jr. in group Echo/David (2026-07-21). Exact LINE user ID kept private and will be captured on David's first sender message.
 
 ## TAHS Membership Assignment
 
@@ -58,8 +58,9 @@ Please confirm or change:
 ## Verification Block
 
 - Echopedia page status: In progress / draft (blanks open for owner fill-in)
-- LINE identity status: Owner-verified
+- LINE identity status: Owner-verified (display name "David Lee (Work)"; private registry updated)
 - Owner verification required: No
+- 2026-07-21: Leonard Hsu Jr. stated in LINE group Echo/David: "@David Lee (Work) this is also David Lee verified line user account"
 
 ## Related Pages
 
@@ -74,3 +75,4 @@ Please confirm or change:
 - 2026-05-25: Draft page created for LINE-linked onboarding bootstrap.
 - 2026-05-25: LINE linkage approved by owner; status upgraded to owner-verified.
 - 2026-07-21: Onboarding refresh — structured blanks for Chinese name, self-intro, CTO scope, professional context, and consent confirmation.
+- 2026-07-21: Owner confirmed LINE display name "David Lee (Work)" as David Lee's verified account; identity registry + audit updated (U-id capture still pending first send).
