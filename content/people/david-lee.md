@@ -1,5 +1,5 @@
 ---
-title: "David Lee (中文待補)"
+title: "David Lee (李東璞)"
 type: person
 tags:
   - Taiwanese American
@@ -12,13 +12,13 @@ last_reviewed: 2026-07-21
 sources:
   - https://www.linkedin.com/in/olufs3n
 ---
-# David Lee (中文待補)
+# David Lee (李東璞 / Li Dong-pu)
 
 ## Identity Snapshot
 
 - English name: David Lee
+- Chinese name: 李東璞 (Li Dong-pu; romanization pending preferred style confirmation)
 - Credentials (public): CISSP
-- Chinese name: **待補** (please provide Chinese characters + preferred romanization)
 - Geography (public LinkedIn): Irvine, California, United States
 - Current TAHS role context: Chief Technology Officer (CTO) — scope pending member confirmation
 - LINE linkage state: Owner-verified — display name "David Lee (Work)" confirmed by Leonard Hsu Jr.; private LINE user ID captured and not published
@@ -35,7 +35,7 @@ sources:
 
 ## Introduction Context
 
-This page was created from LINE-first onboarding to establish canonical identity and governance linkage for David Lee within the Taiwanese American Historical Society ([[organizations/taiwanese-american-historical-society|台美人歷史學會 (TAHS)]]).
+This page was created from LINE-first onboarding to establish canonical identity and governance linkage for David Lee (李東璞) within the Taiwanese American Historical Society ([[organizations/taiwanese-american-historical-society|台美人歷史學會 (TAHS)]]).
 
 ## Professional / Career Context
 
@@ -68,11 +68,13 @@ Please confirm or change:
 1. OK to keep DM processing = none?
 2. OK to keep public quote reuse = not allowed (until you say otherwise)?
 3. OK to keep the LinkedIn career link on this page?
+4. Preferred romanization for 李東璞 (currently listed as Li Dong-pu)?
 
 ## Verification Block
 
-- Echopedia page status: In progress / draft (remaining blanks: Chinese name, self-intro, TAHS CTO scope, consent)
+- Echopedia page status: In progress / draft (remaining blanks: self-intro, TAHS CTO scope, consent, romanization preference)
 - LINE identity status: Owner-verified (display name "David Lee (Work)"; private registry U-id captured)
+- Chinese name: 李東璞 — self-stated by David Lee from his verified LINE sender account (2026-07-21)
 - Owner verification required: No
 - 2026-07-21: Leonard Hsu Jr. confirmed "@David Lee (Work)" as David Lee's verified LINE account
 - 2026-07-21: Owner designated career profile https://www.linkedin.com/in/olufs3n
@@ -88,6 +90,7 @@ Please confirm or change:
 ## Sources
 
 - [David Lee LinkedIn (olufs3n)](https://www.linkedin.com/in/olufs3n) — owner-designated career profile (public headline facts only)
+- Self-stated Chinese name via verified LINE account (David Lee / David Lee (Work))
 
 ## Revision History
 
@@ -96,3 +99,4 @@ Please confirm or change:
 - 2026-07-21: Onboarding refresh — structured blanks for Chinese name, self-intro, CTO scope, professional context, and consent confirmation.
 - 2026-07-21: Owner confirmed LINE display name "David Lee (Work)"; private identity registry updated.
 - 2026-07-21: Captured private LINE user ID from David Lee (Work) sender account; added public LinkedIn career facts (Deputy CISO, CISSP, USMC veteran, Irvine CA) from owner-designated profile.
+- 2026-07-21: Chinese name set to 李東璞 from David Lee's verified LINE sender account; title updated.
