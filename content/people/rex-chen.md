@@ -1,8 +1,7 @@
 ---
 title: "Rex Chen (陳乃光)"
 type: person
-tags:
-  - 
+tags: []
 verification_status: pending
 last_reviewed: 2026-07-08
 ---
