@@ -22,7 +22,7 @@ sources:
 - English name: Ken Wu
 - Chinese name: 吳兆峯 (Wu Chao-Feng / Chao Feng Wu; member-confirmed characters)
 - Core roles: Taiwanese American community leader; Secretary General (秘書長) and board member, Taiwan Center Foundation of Greater Los Angeles; FAPA Los Angeles chapter president (as of Wikipedia sources); WUFI branch (chipo) head; TAHS member
-- Current TAHS role context: Member, Taiwanese American Historical Society ([[organizations/taiwanese-american-historical-society|台美人歷史學會 (TAHS)]])
+- Current TAHS role context: Member, Taiwanese American Historical Society ([[organizations/taiwanese-american-historical-society|台美人歷史協會 (TAHS)]])
 - LINE linkage state: Owner-verified in LINE group; private LINE user ID captured and not published
 
 ## TAHS Membership Assignment

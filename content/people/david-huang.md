@@ -8,7 +8,7 @@ last_reviewed: 2026-07-08
 ---
 # Rev. David Huang (黃德利)
 
-**Rev. David Huang (黃德利, Huang De-li)** is referenced in NTPC republication-era historical work tied to toward-a-community-of-hope, especially around commemorative editorial efforts.
+**Rev. David Huang (黃德利, Huang De-li)** is referenced in [[organizations/national-taiwanese-presbyterian-council|NTPC]] republication-era historical work tied to toward-a-community-of-hope, especially around commemorative editorial efforts.
 
 ## Identity Snapshot
 

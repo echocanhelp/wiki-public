@@ -21,7 +21,7 @@ created: "2026-07-12"
 
 作者：賴信雄 博士，Albert S. Lai。
 
-本有聲書由臺灣美國歷史學會（Taiwanese American Historical Society）與 Echo 製作。
+本有聲書由台美人歷史協會（Taiwanese American Historical Society）與 Echo 製作。
 
 朗讀：[朗讀者全名]。
 

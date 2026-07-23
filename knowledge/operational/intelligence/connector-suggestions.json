@@ -284,6 +284,22 @@
       "type": "CO-CITATION",
       "pages": [
         "taiwan-center.md",
+        "david-lee.md"
+      ],
+      "reason": "Both link to people/ken-wu"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "taiwan-center.md",
+        "rex-chen.md"
+      ],
+      "reason": "Both link to people/ken-wu"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "david-lee.md",
         "rex-chen.md"
       ],
       "reason": "Both link to people/ken-wu"
@@ -483,14 +499,6 @@
     {
       "type": "CO-CITATION",
       "pages": [
-        "david-lee.md",
-        "rex-chen.md"
-      ],
-      "reason": "Both link to people/leonard-hsu-jr"
-    },
-    {
-      "type": "CO-CITATION",
-      "pages": [
         "ken-wu.md",
         "rex-chen.md"
       ],
@@ -538,7 +546,7 @@
     {
       "type": "ORPHAN_FOLDER",
       "folder": "people",
-      "reason": "111 pages, avg 5.4 links each, 4 internal links"
+      "reason": "111 pages, avg 5.5 links each, 4 internal links"
     },
     {
       "type": "ORPHAN_FOLDER",

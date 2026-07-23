@@ -6,6 +6,7 @@ tags:
   - TAHS
   - onboarding
   - cybersecurity
+  - scouting
 verification_status: pending
 status: draft
 last_reviewed: 2026-07-21
@@ -36,7 +37,7 @@ sources:
 
 ## Introduction Context
 
-This page was created from LINE-first onboarding to establish canonical identity and governance linkage for David Lee (李東璞) within the Taiwanese American Historical Society ([[organizations/taiwanese-american-historical-society|台美人歷史學會 (TAHS)]]).
+This page was created from LINE-first onboarding to establish canonical identity and governance linkage for David Lee (李東璞) within the Taiwanese American Historical Society ([[organizations/taiwanese-american-historical-society|台美人歷史協會 (TAHS)]]).
 
 ## Professional / Career Context
 
@@ -91,6 +92,16 @@ LinkedIn Experience UI showed **Show all →** at the bottom of the Broadcom blo
 - Job bullet narratives beyond the skill/focus lines above were not visible on the screenshots.
 - USMC veteran status comes from the public LinkedIn headline (service details not on screenshots).
 
+## Community / Volunteer Leadership
+
+Self-stated by David Lee via verified LINE account (2026-07-21):
+
+- **Committee Chairman**, Cub Scout Pack 214 — 2021
+- **Cubmaster**, Cub Scout Pack 1776 — 2022 and 2023
+- **Assistant Scoutmaster**, Boy Scout Troop 1776 — 2023 – present
+
+(Scouting America / Boy Scouts of America unit numbers as stated by member; council/district not specified.)
+
 ## Testimony / Self-Introduction (Member-editable)
 
 > (Pending David's first-person introduction — a short paragraph in English and/or 中文 is welcome)
@@ -119,6 +130,7 @@ Please confirm or change:
 - LINE identity status: Owner-verified (display name "David Lee (Work)"; private registry U-id captured)
 - Chinese name: 李東璞 — self-stated by David Lee from his verified LINE sender account (2026-07-21)
 - Career timeline: member-provided LinkedIn screenshots (2026-07-21)
+- Scouting roles: self-stated Pack 214 / Pack 1776 / Troop 1776 (2026-07-21)
 - Owner verification required: No
 - 2026-07-21: Leonard Hsu Jr. confirmed "@David Lee (Work)" as David Lee's verified LINE account
 - 2026-07-21: Owner designated career profile https://www.linkedin.com/in/olufs3n
@@ -137,6 +149,7 @@ Please confirm or change:
 - Member-provided LinkedIn Experience screenshots via LINE (2026-07-21) — primary source for employer/title/date table
 - [GitHub olufs3n](https://github.com/olufs3n) — public username match from LinkedIn index
 - Self-stated Chinese name via verified LINE account (David Lee / David Lee (Work))
+- Self-stated scouting leadership roles via verified LINE account (2026-07-21)
 
 ## Revision History
 
@@ -147,3 +160,4 @@ Please confirm or change:
 - 2026-07-21: Captured private LINE user ID from David Lee (Work) sender account; added public LinkedIn headline facts.
 - 2026-07-21: Chinese name set to 李東璞 from David Lee's verified LINE sender account; title updated.
 - 2026-07-21: Full Experience timeline transcribed from two member screenshots (Light & Wonder → GIA → Ingram Micro → Broadcom). Education not on screenshots.
+- 2026-07-21: Added scouting leadership — Pack 214 Committee Chairman (2021); Pack 1776 Cubmaster (2022–2023); Troop 1776 Assistant Scoutmaster (2023–present).

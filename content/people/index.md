@@ -63,10 +63,10 @@ Person records in **Echopedia**. Names keep Chinese characters and romanized for
 Utility / process pages (not biographical entries):
 
 - [[people/tahs-member-onboarding|TAHS member onboarding]]
-- [[people/test-volunteer-onboard|Test volunteer onboard]]
-- [[people/new-line-member|New LINE member]]
+
 - [[people/albert-chapter1-audiobook-consent-and-recording-kit|Albert Ch.1 audiobook consent kit]]
 - [[people/albert-chapter1-audiobook-taiwanese-female|Albert Ch.1 audiobook (Taiwanese female)]]
+- [[people/albert-chapter1-en-review|Albert Ch.1 EN audiobook review (Christopher scratch)]]
 
 ## Notes
 

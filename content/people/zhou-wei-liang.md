@@ -12,6 +12,15 @@ last_reviewed: 2026-07-20
 
 **Zhou Weiliang** (周威廉) is a Taiwanese American community writer and editor who contributed to the 2017 TAHS Publication (台美菁英錄).
 
+## Identity Snapshot
+- **English:** Zhou Weiliang
+- **Chinese:** 周威廉
+- **Role:** Community writer, editor, compiler
+- **Publication:** 2017 TAHS Publication (台美菁英錄)
+- **Contributions:** Authored 緣起與展望 (Origins and Outlook) founding essay; compiled the Sam Chang profile; listed as editor/compiler
+- **Distinction:** Distinct from 周威霖 (Zhou Weilin), TAHS Secretary General, who also served as an editor/compiler on the same publication
+- **Geography:** Taiwanese American community (Southern California)
+
 ## Role in 2017 TAHS Publication
 - **Essay author:** Wrote 緣起與展望 (Origins and Outlook), the founding narrative essay of TAHS (Part 1, L162–289)
 - **Profile author:** Compiled the Sam Chang 張善良 profile (Part 2, L1413–1644)
@@ -28,3 +37,4 @@ last_reviewed: 2026-07-20
 ## Related Pages
 
 - [[people/albert-s-lai|Dr. Albert S. Lai]]
+- [[people/sam-chang|Sam Chang (張善良)]] — profile compiled by Zhou Weiliang

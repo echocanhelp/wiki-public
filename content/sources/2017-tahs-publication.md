@@ -17,7 +17,7 @@ last_reviewed: 2026-07-17
 - Publisher: Taiwanese American Historical Society (台美人歷史協會, TAHS)
 - Year: 2017
 - Pages: 1–118 (bilingual Chinese/English)
-- Editors/Compilers: 周威廉, 周威霖, Edda Huang, 楊文顯, 楊遠薰, 陳婉真, 鄭炳全, etc.
+- Editors/Compilers: [[people/zhou-wei-liang|周威廉]], 周威霖, Edda Huang, 楊文顯, 楊遠薰, 陳婉真, 鄭炳全, etc.
 
 ## Overview
 Primary Tier-2/Tier-1 source for 2017 TAHS profiles of first- and second-generation Taiwanese Americans, plus founding essays, activity summary, and donor lists. Published by TAHS to document the community's history and celebrate prominent members.

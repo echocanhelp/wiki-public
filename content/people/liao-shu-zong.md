@@ -248,7 +248,7 @@ Beyond his artistic legacy, Liao Shu-zong's father 廖繼春 (Liao Jichun) under
 Through his mother 林瓊仙's prominent Fengyuan family, Liao Shu-zong was connected to two notable Taiwanese figures:
 
 - **林朝權 (Lin Chao-quan)** — His maternal uncle (二舅), a post-war leader in Taiwan's sports movement and a former comrade of revolutionary leader Sun Wen.
-- **林朝棨 (Lin Chao-qi)** — His third maternal uncle (三舅), a renowned geologist famous for discovering the Banqiao site and other Taiwanese archaeological sites.
+- **林朝棨 (Lin Chao-qi)** — His third maternal uncle (三舅), a renowned geologist famous for discovering the Banqiao site and other Taiwanese archaeological sites. See [[people/lin-chao-chi|林朝棨 (Lin Chao-chi)]] for details.
 
 ### 清水同鄉 & 1984 Olympics
 

@@ -54,6 +54,10 @@ Dr. Lai's doctoral dissertation at San Francisco Theological Seminary was titled
 
 See also the [[organizations/formosan-presbyterian-church-in-los-angeles|FPCLA]] page for Chapter IV founding timeline, budget, membership, and activities.
 
+## Audiobook Production
+
+Chapter I of *Toward A Community of Hope* has been produced as an audiobook for Echopedia review. See [[people/albert-chapter1-en-review|Chapter I English audiobook review (scratch build)]] for voice/tempo/style analysis and the [[people/albert-chapter1-audiobook-taiwanese-female|Chapter I Taiwanese female pilot]] for an alternate language experiment.
+
 ## 50th Anniversary Republication (2025)
 
 In 2025, the dissertation was reprinted with a 50th anniversary foreword by [[people/yunching-yeh-davis|Dr. Yunching Yeh Davis]] (NTPC Moderator), along with forewords from the PCT ([[people/en-sheng-pan|Rev. En Sheng Pan]]), [[organizations/national-taiwanese-presbyterian-council|NTPC]] Historical Committee ([[people/ching-fang-chen|Rev. Ching Fang Chen]]), [[people/mingyuan-hsu|Rev. Mingyuan Hsu]] (Good Shepherd TPC), and [[people/pinghsi-liu|Rev. Pinghsi Liu]] (Tainan East Gate Barclay Memorial Church). The republication was published by Taiwan Church Press and the Incorporated Association of Tainan East Gate Barclay History Education Promotion.

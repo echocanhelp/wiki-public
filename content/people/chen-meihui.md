@@ -11,7 +11,7 @@ last_reviewed: 2026-07-08
 ## Identity Snapshot
 - Era: 2020–2025
 - Geography: Irvine, California
-- Core roles: pastor, ordained minister, ITPC pastoral leader
+- Core roles: pastor, ordained minister, [[sources/irvine-taiwanese-presbyterterian-church|Irvine Taiwanese Presbyterian Church]] pastoral leader
 
 ## Related Pages
 - [[organizations/irvine-taiwanese-presbyterian-church|Irvine Taiwanese Presbyterian Church]]

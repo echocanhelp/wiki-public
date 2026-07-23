@@ -36,11 +36,11 @@ His portfolio includes hotels associated with major brands, including properties
 
 Chang was born in Taiwan in 1960 and came to the United States, initially spending time in Japan before settling in New York. He built his career in real estate development, focusing on the hospitality industry.
 
-His profile in the 2017 TAHS publication (菁英錄) was compiled by 周威廉, presenting him as a model of Taiwanese American entrepreneurial success on the East Coast.
+His profile in the 2017 TAHS publication (菁英錄) was compiled by [[people/zhou-wei-liang|周威廉 (Zhou Weiliang)]], presenting him as a model of Taiwanese American entrepreneurial success on the East Coast.
 
 ## Source Notes and Confidence
 
-- **A-tier:** 2017 TAHS Publication (Sam Chang 張善良 旅館開發大王), Part 2, ~231 lines, compiled by 周威廉
+- **A-tier:** 2017 TAHS Publication (Sam Chang 張善良 旅館開發大王), Part 2, ~231 lines, compiled by [[people/zhou-wei-liang|周威廉 (Zhou Weiliang)]]
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Note:** The full text contains detailed biographical information including his journey from Taiwan to Japan to the US, his real estate development career, and his hotel portfolio.
 

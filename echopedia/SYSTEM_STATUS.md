@@ -13,12 +13,12 @@
 - **Level:** L3
 - **L2 auto-publish on drift:** True
 - **L3 auto-push when green:** True
-- **Last good deploy:** `a4d0974`
+- **Last good deploy:** `1d3ab39`
 
 ## Content
 - **Markdown pages:** 213
 - **Janitor queue depth:** 5
-- **Uncommitted files:** 527
+- **Uncommitted files:** 4
 
 ## What runs automatically
 | When | Job | Role |

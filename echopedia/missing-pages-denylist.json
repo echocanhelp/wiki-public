@@ -31,7 +31,13 @@
       "Secretary General",
       "Foreign Affairs",
       "Distinguished Citizens Society International",
-      "Motel Association"
+      "Motel Association",
+      "Membership Class",
+      "Functional Title",
+      "Effective Date",
+      "Appointing Authority",
+      "Appointment Basis",
+      "Review Date"
     ],
     "generic_org_terms": [
       "Historical Committee",
@@ -100,6 +106,12 @@
     "Foreign Affairs",
     "Distinguished Citizens Society International",
     "Motel Association",
+    "Membership Class",
+    "Functional Title",
+    "Effective Date",
+    "Appointing Authority",
+    "Appointment Basis",
+    "Review Date",
     "Historical Committee",
     "United Presbyterian Church",
     "Taiwan Church Press",
