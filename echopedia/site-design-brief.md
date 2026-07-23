@@ -1,6 +1,6 @@
-## Site design audit — 2026-07-22 04:30
+## Site design audit — 2026-07-23 04:15
 
-- pages_md=210
+- pages_md=216
 - critical=0 high=0 medium=0
 - heals_suggested=none
 
@@ -8,9 +8,10 @@
 - **SITE_DESIGN_STATUS: OK**
 
 ### LOW (1)
-- **C1** spelling signals (sample): 3 `[AGENT_SUGGESTED]`
-  - `rex-chen.md: ?onboarding`
+- **C1** spelling signals (sample): 4 `[AGENT_SUGGESTED]`
   - `david-lee.md: ?onboarding`
+  - `tahs-member-onboarding.md: ?onboarding`
+  - `rex-chen.md: ?onboarding`
   - `2017-tahs-publication.md: ?ching`
 
 ### INFO (2)
@@ -23,15 +24,15 @@
   - `people/franklin-ping-cheng.md`
   - `people/ho-chie-tsai.md`
   - `people/hsu-hsin-hung.md`
-- **B1** person/org touched ≤7d (rely on recency featured window): 133
+- **B1** person/org touched ≤7d (rely on recency featured window): 124
   - `people/april-lin.md`
-  - `people/c-c-chen.md`
-  - `people/chaolong-kao.md`
-  - `people/ching-fang-chen.md`
-  - `people/daniel-kao.md`
   - `people/danny-chen.md`
   - `people/david-lee.md`
-  - `people/en-sheng-pan.md`
+  - `people/guo-shu-qing.md`
+  - `people/he-sumei.md`
+  - `people/hu-gstpc.md`
+  - `people/james-yang.md`
+  - `people/joe-hu.md`
 
 ### Programmable heals
 - (none)
