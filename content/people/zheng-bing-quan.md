@@ -5,11 +5,13 @@ tags:
   - person
   - Taiwanese-American
   - tahs-publication-2017
+  - tahs-publication-2023
   - tahs-leadership
   - founding-member
   - editor
 verification_status: pending
-last_reviewed: 2026-07-22
+featured: true
+last_reviewed: 2026-07-23
 ---
 # Zheng Bingquan (鄑炳全)
 

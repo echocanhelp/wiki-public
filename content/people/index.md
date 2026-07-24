@@ -75,6 +75,7 @@ Person records in **Echopedia**. Names keep Chinese characters and romanized for
 - [[people/meifeng-tsai|Meifeng Tsai (王梅鳳)]]
 - [[people/mingyuan-hsu|Rev. Mingyuan Hsu (許明遠)]]
 - [[people/paul-chen|Paul Chen (陳柏宇)]]
+- [[people/peng-ming-min|Peng Ming-min (彭明敏)]]
 - [[people/peter-lin|Peter Lin (林冠豪)]]
 - [[people/pinghsi-liu|Rev. Pinghsi Liu (劉炳熹)]]
 - [[people/pingtung-lai|Pastor Pingtung Lai (賴炳烔)]]
@@ -123,11 +124,13 @@ Person records in **Echopedia**. Names keep Chinese characters and romanized for
 
 
 
+
 ## Related organization pages sometimes filed under people
 
 - [[people/fpcla|Faithful Presbyterian Chinese Lutheran Association (FPCLA)]]
 - [[people/ntpc|North Taiwan Presbyterian Church (NTPC)]]
 - [[people/san-francisco-theological-seminary|San Francisco Theological Seminary]]
+
 
 
 
@@ -139,7 +142,9 @@ Person records in **Echopedia**. Names keep Chinese characters and romanized for
 - [[people/tahs-member-onboarding|TAHS member onboarding]]
 
 
+
 Utility / process pages (not biographical entries):
+
 
 
 
