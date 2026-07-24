@@ -1,50 +1,52 @@
 ---
-title: "楊惠喬 (Yang Huiqiao)"
+title: "Yang Huiqiao (楊惠喬)"
 type: person
 tags:
   - person
   - Taiwanese-American
   - tahs-publication-2023
+  - taiwan-independence
+  - activist
 verification_status: pending
 featured: true
 last_reviewed: 2026-07-23
 ---
-# 楊惠喬 (Yang Huiqiao)
+# Yang Huiqiao (楊惠喬)
 
-**Yang Huiqiao** (楊惠喬) is a Taiwanese American community figure / professional.
+**Yang Huiqiao** (楊惠喬) is a Taiwanese American activist who dedicated her life to the Taiwan independence movement. She is described as the "big sister" of the Los Angeles Taiwanese American community.
 
 ## Identity Snapshot
 
 - **English:** Yang Huiqiao
 - **Chinese:** 楊惠喬
-- **Core roles:** Community figure / professional
-- **Tier:** B
-- **Geography:** Taiwanese American community
+- **Core roles:** Activist, Taiwan independence advocate
+- **Geography:** Los Angeles, California
+- **TAHS role:** Community leader
 
-## Profile
+## Overview
 
-Yang Huiqiao is profiled in the 2023 TAHS Publication (台美菁英錄 第二輯). The profile includes details about their professional achievements, community service, and contributions to Taiwanese American society.
+Yang Huiqiao is a Taiwanese American activist whose life has been devoted to the cause of Taiwan independence. Known as the "big sister" of the Los Angeles Taiwanese American community, she has been a steadfast advocate for Taiwan's sovereignty and democratic rights.
 
-## Key Facts
+## Early Life and Education
 
-1. Profile includes her professional achievements
-2. Profile includes her community service
-3. Profile includes her educational background
-4. Profile includes her family background
-5. Profile includes her philosophy on life and work
-6. Profile includes her impact on the community
-7. Profile includes her views on cultural identity
-8. Profile includes her contributions to Taiwanese American causes
-9. Profile includes her mentorship of younger generations
-10. Profile includes her artistic or cultural interests
+Yang Huiqiao was educated in Taiwan, attending Taiwan Nanmen High School. During her school years, she read the magazine "Free China" by Lei Chen and expressed her opposition to election-buying in class. Her political awareness was shaped by these early experiences, and she developed a strong anti-authoritarian consciousness that would define her later activism.
+
+## Career and Activism
+
+After teaching for four years at Beimen Middle School in Tainan County, Yang decided to travel abroad. In 1971, through a friend's introduction, she met Zheng Dehe, a Tokyo University graduate specializing in urban planning. They married and both became active in the Taiwan independence movement.
+
+## Legacy
+
+Yang Huiqiao's dedication to Taiwan independence has inspired generations of Taiwanese Americans. Her story, as told in the 2023 TAHS Publication, exemplifies the immigrant experience and the commitment to preserving democratic values and Taiwan's sovereignty.
 
 ## Source Notes and Confidence
 
-- **A-tier:** 2023 TAHS Publication (profile, Part 2, ~59 lines)
+- **B-tier:** 2023 TAHS Publication (profile, Section 3, ~2720 lines)
 - **Hub:** [[sources/2023-tahs-publication|2023 TAHS Publication]]
-- **Note:** Profile details extracted from structured facts. Full text extraction pending.
+- **Archive:** `knowledge/web-archives/2023-tahs-publication-part2.md`
 
 ## Related Pages
 
 - [[organizations/taiwanese-american-historical-society|TAHS]]
 - [[sources/2023-tahs-publication|2023 TAHS Publication]]
+- [[people/zheng-bing-quan|Zheng Bingquan (鄭炳全)]]

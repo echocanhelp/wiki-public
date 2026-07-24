@@ -1,51 +1,67 @@
 ---
-title: "楊正光 (Ethan Yang)"
+title: "Yang Zhengxiang (Ethan Yang)"
 type: person
 tags:
   - person
   - Taiwanese-American
   - tahs-publication-2023
+  - third-generation
+  - political-scientist
+  - economist
 verification_status: pending
 featured: true
 last_reviewed: 2026-07-23
 ---
-# 楊正光 (Ethan Yang)
+# Yang Zhengxiang (Ethan Yang)
 
-**Ethan Yang** (楊正光) is a Taiwanese American third-generation taiwanese american.
+**Ethan Yang** (楊正光) is a third-generation Taiwanese American political scientist and economist based in Washington, D.C. He is a research fellow at the American Institute for Economic Research (AIER) and is pursuing a PhD at George Mason University's Antonin Scalia Law School.
 
 ## Identity Snapshot
 
 - **English:** Ethan Yang
 - **Chinese:** 楊正光
-- **Core roles:** Third-generation Taiwanese American
-- **Tier:** B
-- **Geography:** Taiwanese American community
+- **Born:** Third-generation Taiwanese American
+- **Core roles:** Political scientist, economist, research fellow
+- **Geography:** Washington, D.C.
+- **Education:** Trinity College, Hartford (BA in Political Science); George Mason University (PhD, Antonin Scalia Law School)
+- **Awards:** 2023 Vernon Smith Prize (13th Annual International Vernon Smith Prize)
 
-## Profile
+## Overview
 
-Ethan Yang is profiled in the 2023 TAHS Publication (台美菁英錄 第二輯). The profile includes details about their professional achievements, community service, and contributions to Taiwanese American society.
+Ethan Yang represents the third generation of Taiwanese Americans profiled in the 2023 TAHS Publication. As a research fellow at the American Institute for Economic Research and a PhD candidate at George Mason University, he is actively engaged in political economy and free-market advocacy.
 
-## Key Facts
+## Education and Career
 
-1. Third-generation Taiwanese American
-2. Profile includes his educational background
-3. Profile includes his professional aspirations
-4. Profile includes his family background
-5. Profile includes his philosophy on identity
-6. Profile includes his connection to Taiwanese American community
-7. Profile includes his views on cultural preservation
-8. Profile includes his contributions to community activities
-9. Profile includes his mentorship by older generation
-10. Profile includes his hopes for the future
+- **Trinity College, Hartford:** BA in Political Science, with minors in Legal Studies and Formal Organizations
+- **George Mason University:** PhD candidate at the Antonin Scalia Law School
+- **Research Fellow:** American Institute for Economic Research (AIER), managing the AIER Standard blog
+- **Director:** Mark Leffinger Human Freedom Research Center at Trinity College
+- **Previous roles:** Research positions at Cato Institute, Connecticut State Senate, Cause of Action Institute, and other organizations
+
+## Research Interests
+
+Ethan's research focuses on diplomatic policy, free markets versus socialism, and economic development. He is a strong advocate for free-market principles and believes that free-market ideas can help build a better society. His work has been featured in various media outlets.
+
+## Community Engagement
+
+Beyond his academic work, Ethan is active in Washington D.C.'s workshops and seminars. He participates in Students for Liberty and was one of the co-chairs of the East Coast Asian American Coalition. He encourages Asian Americans to participate in political summer camps, not necessarily for political career development, but for networking and personal growth.
+
+## Awards
+
+- **2023 Vernon Smith Prize:** 13th Annual International Vernon Smith Prize, awarded by the Austrian Economics Center in Vienna, Austria
+
+## Legacy
+
+As a third-generation Taiwanese American, Ethan represents the evolving identity of the Taiwanese American community. His work in political economy and free-market advocacy continues to shape discussions about the role of government and individual liberty in society.
 
 ## Source Notes and Confidence
 
-- **A-tier:** 2023 TAHS Publication (profile, Part 2, ~59 lines)
+- **B-tier:** 2023 TAHS Publication (profile, Section 3, ~937 lines)
 - **Hub:** [[sources/2023-tahs-publication|2023 TAHS Publication]]
-- **Note:** Profile details extracted from structured facts. Full text extraction pending.
+- **Archive:** `knowledge/web-archives/2023-tahs-publication-part2.md`
 
 ## Related Pages
 
 - [[organizations/taiwanese-american-historical-society|TAHS]]
 - [[sources/2023-tahs-publication|2023 TAHS Publication]]
-- [[people/yang-jia-you]]
+- [[people/zheng-bing-quan|Zheng Bingquan (鄭炳全)]]

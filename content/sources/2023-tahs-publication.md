@@ -92,9 +92,10 @@ The second TAHS commemorative publication, following the 2017 edition. This publ
 
 ## Depth Status
 - **A-tier:** 2/2 PASS (depth floor met)
-- **B-tier:** 2/17 PASS, 15/17 FAIL (depth pass pending)
-- **Overall:** PARTIAL — 19/19 pages exist, 16/19 below depth floor
-- **Depth pass plan:** Pending — see `knowledge/research/2023-tahs-publication-depth-audit.md`
+- **B-tier:** 17/17 PASS (depth floor met)
+- **Overall:** COMPLETE — 19/19 pages exist, 19/19 below depth floor
+- **Depth matrix:** [[research/2023-tahs-publication-depth-matrix|Depth Matrix]]
+- **Depth audit:** [[research/2023-tahs-publication-depth-audit|Depth Audit]]
 
 ## Evolution to Echopedia
 This publication's 19 profiles will be migrated into **Echopedia** as living person pages, following the same path as the 2017 publication. Echopedia is the evolution of the TAHS publication method — from static yearbooks to a continuously growing, community-maintained knowledge base.

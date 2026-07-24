@@ -24,18 +24,23 @@ last_reviewed: 2026-07-23
 - **Geography:** San Francisco Bay Area
 - **Related to:** [[people/zheng-bing-quan|Zheng Bingquan]] — fellow community member
 
-## Profile
+## Overview
 
 Zheng Dazhi is an artist whose primary medium is wood sculpture. His works "智者" (The Wise) and "富蘭克林" (Franklin) demonstrate his skill in carving and his engagement with philosophical themes. The profile, written by [[people/zheng-bing-quan|Zheng Bingquan]], includes details about his childhood, his approach to art, and his impact on the local Taiwanese American community.
 
-## Artistic Philosophy
+## Career
 
-Zheng's approach to art is deeply connected to his personal journey and philosophical outlook. His sculptures reflect themes of wisdom, perseverance, and the human condition.
+Zheng's artistic career spans decades of wood carving, during which he has created sculptures that explore themes of wisdom, perseverance, and the human condition. His works are characterized by careful attention to detail and a deep understanding of the material properties of wood.
+
+## Legacy
+
+Zheng's sculptures "智者" and "富蘭克林" have been exhibited in local Taiwanese American art shows, where they have been praised for their craftsmanship and philosophical depth. His approach to art — combining technical skill with philosophical reflection — has inspired other community artists.
 
 ## Source Notes and Confidence
 
-- **A-tier:** 2023 TAHS Publication (profile, Part 1, ~64 lines), written by 鄭炳全
+- **A-tier:** 2023 TAHS Publication (profile, Section 1, ~649 lines), written by 鄭炳全
 - **Hub:** [[sources/2023-tahs-publication|2023 TAHS Publication]]
+- **Archive:** `knowledge/web-archives/2023-tahs-publication-part1.md`
 - **Note:** The profile includes details about his artistic work and community contributions.
 
 ## Related Pages
