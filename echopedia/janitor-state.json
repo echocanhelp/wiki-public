@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-07-23",
+  "last_run": "2026-07-24",
   "standards_version_seen": 6,
   "runs": [
     {
@@ -62,6 +62,13 @@
     {
       "date": "2026-07-23",
       "candidates": 52,
+      "selected": 5,
+      "standards_version": 6,
+      "standards_bumped": false
+    },
+    {
+      "date": "2026-07-24",
+      "candidates": 58,
       "selected": 5,
       "standards_version": 6,
       "standards_bumped": false
@@ -155,7 +162,7 @@
       ]
     }
   ],
-  "last_candidates": 52,
+  "last_candidates": 58,
   "last_selected": [
     "people/chen-meihui.md",
     "organizations/ntpc.md",

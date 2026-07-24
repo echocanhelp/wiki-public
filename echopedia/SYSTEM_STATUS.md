@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-07-23 04:15 PDT*
+*Generated: 2026-07-24 04:15 PDT*
 
 ## Orientation
 - **User manual (start here):** [USER_MANUAL.md](USER_MANUAL.md)
@@ -16,9 +16,9 @@
 - **Last good deploy:** `4875390`
 
 ## Content
-- **Markdown pages:** 219
+- **Markdown pages:** 239
 - **Janitor queue depth:** 5
-- **Uncommitted files:** 5
+- **Uncommitted files:** 14
 
 ## What runs automatically
 | When | Job | Role |
@@ -47,43 +47,43 @@ Load skill **echopedia-ops** first for any wiki work.
 ```
     Name:      unified-watchdog
     Schedule:  every 30m
-    Last run:  2026-07-23T04:15:43.067368-07:00  ok
+    Last run:  2026-07-24T04:03:44.430186-07:00  ok
     Name:      echopedia-digest
     Schedule:  0 9 * * *
-    Last run:  2026-07-22T09:00:54.743299-07:00  ok
+    Last run:  2026-07-23T09:00:50.165214-07:00  ok
     Name:      kanban-sync
     Schedule:  every 30m
-    Last run:  2026-07-23T04:04:42.868477-07:00  ok
+    Last run:  2026-07-24T04:09:44.397797-07:00  ok
     Name:      memory-audit
     Schedule:  0 5 * * *
-    Last run:  2026-07-22T05:00:48.011904-07:00  ok
+    Last run:  2026-07-23T05:00:44.704593-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-07-23T04:14:43.023038-07:00  ok
+    Last run:  2026-07-24T04:14:44.553853-07:00  ok
     Name:      echopedia-nightly-audit
     Schedule:  0 4 * * *
-    Last run:  2026-07-23T04:00:51.267434-07:00  ok
+    Last run:  2026-07-24T04:00:56.406639-07:00  ok
     Name:      echopedia-janitor
     Schedule:  0 4 * * *
-    Last run:  2026-07-23T04:00:44.026118-07:00  ok
+    Last run:  2026-07-24T04:00:45.411456-07:00  ok
     Name:      echopedia-weekly-improvement
     Schedule:  0 5 * * 1
     Last run:  2026-07-20T05:00:55.194864-07:00  ok
     Name:      echopedia-ci-heal
     Schedule:  15 4 * * *
-    Last run:  2026-07-22T04:15:58.478099-07:00  ok
+    Last run:  2026-07-23T04:15:55.193244-07:00  ok
     Name:      vault-unfinished-threads
     Schedule:  0 8 * * *
-    Last run:  2026-07-22T08:00:53.415213-07:00  ok
+    Last run:  2026-07-23T08:00:48.849044-07:00  ok
     Name:      vault-connector-suggestions
     Schedule:  0 9 * * *
-    Last run:  2026-07-22T09:00:54.714999-07:00  ok
+    Last run:  2026-07-23T09:00:50.117140-07:00  ok
     Name:      vault-intelligence-digest
     Schedule:  0 8 * * *
-    Last run:  2026-07-22T08:00:53.344885-07:00  ok
+    Last run:  2026-07-23T08:00:48.885797-07:00  ok
     Name:      echopedia-site-design
     Schedule:  30 4 * * *
-    Last run:  2026-07-22T04:30:46.712239-07:00  ok
+    Last run:  2026-07-23T04:30:43.389166-07:00  ok
 ```
 
 ## Briefs
