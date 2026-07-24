@@ -75,7 +75,15 @@ Primary Tier-2/Tier-1 source for 2017 TAHS profiles of first- and second-generat
 - **Living persons:** default `verification_status: pending` — needs steward review
 - **Resolved:** 周威廉 and 周威霖 are two distinct individuals (both listed as editors/compilers). 周威廉 wrote 緣起與展望 and the Sam Chang profile; 周威霖 (TAHS 秘書長) authored the 徐新宏, 王桂榮, and 王能祥 profiles. See `people/zhou-wei-liang.md` and `people/zhou-wei-lin.md`.
 
+## Evolution to Echopedia
+This publication's 22 profiles have been migrated into **Echopedia** as living person pages. Where the yearbook was a static snapshot, Echopedia is the continuously evolving memory of the Taiwanese American community.
+
+**Profiles migrated:** All 22 people profiles are now living pages in Echopedia, with depth-floor-compliant facts and hyperlinked connections to organizations, sources, and related people.
+
+**Next step:** The 2023 TAHS Publication will follow the same migration path when ingested.
+
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
+- [[echopedia|Echopedia — Community Knowledge Hub]]
 - [[people/yang-jia-you|楊嘉猷 (Charles Yang)]]
 - [[people/liao-shu-zong|廖述宗]]

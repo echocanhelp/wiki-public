@@ -121,6 +121,7 @@ Source: 2015, 2016 年度捐款名單, 2017 TAHS Publication (Part 2, L2448–24
 
 ### Related Pages
 - [[sources/2017-tahs-publication|2017 TAHS Publication]]
+- [[sources/2023-tahs-publication|2023 TAHS Publication]]
 - [[people/yang-jia-you|楊嘉猷 (Charles Yang)]]
 - [[people/franklin-ping-cheng|Franklin Ping Cheng]]
 - [[people/huang-gen-shen|黃根深 (Huang Gen-shen)]]
@@ -128,7 +129,30 @@ Source: 2015, 2016 年度捐款名單, 2017 TAHS Publication (Part 2, L2448–24
 - [[people/zheng-bing-quan|鄭炳全]]
 - [[people/zhou-wei-lin|周威霖]]
 - [[people/wang-yao-ting|王耀廷]]
-- Echopedia Community Contributions Hub
+- [[echopedia|Echopedia — Community Knowledge Hub]]
+
+## Publication Evolution: From Yearbooks to Echopedia
+
+### The Static Era (2017, 2023)
+TAHS published two commemorative yearbooks:
+- **2017 TAHS Publication** (台美菁英錄) — 118 pages, 22 profiles of Taiwanese American leaders
+- **2023 TAHS Publication** — [profiles to be ingested]
+
+These were beautiful, curated snapshots — but static. Once printed, they couldn't grow or be updated.
+
+### The Living Era (2026+)
+**Echopedia** is the evolution of the TAHS publication method. Where the yearbooks captured a moment in time, Echopedia is the **continuously evolving memory** of the Taiwanese American community.
+
+| Aspect | 2017/2023 Publications | Echopedia |
+|--------|----------------------|-----------|
+| Format | Static yearbook (PDF/print) | Living wiki (web) |
+| Growth | Fixed at publication | Continuous community contributions |
+| Updates | Impossible after print | Anyone can update anytime |
+| Search | Manual index | Full-text search |
+| Connections | Linear reading | Hyperlinked graph of people/orgs |
+| Multimedia | Limited | Photos, audio, video, documents |
+
+**The 2017 yearbook's 22 profiles** have been migrated into Echopedia as living person pages. The 2023 yearbook's profiles will follow the same path. New community members can be added continuously — Echopedia is the yearbook that never stops growing.
 
 ## Source Notes and Confidence
 - **A-tier:** Founding details from 2017 TAHS Publication, 緣起與展望 essay by 周威霖 (Part 1)
