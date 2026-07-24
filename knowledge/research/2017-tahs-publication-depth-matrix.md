@@ -68,11 +68,12 @@
 - `content/people/lin-yuan-ching.md` (17,457B, deepened from ~1,047B stub)
 - `content/sources/2017-tahs-publication.md` (14 B-tier wikilinks added)
 
-### Not Modified (need future deepen)
-- `content/people/yang-xin.md` (~900B, 594-line section)
-- `content/people/liao-shu-zong.md` (~900B, 666-line section incl. memorial)
-- `content/people/shawna-yang-ryan.md` (~900B, 240-line section)
-- `content/people/john-chiang.md` (~900B, 286-line section)
+## Not Modified (need future deepen)
+- NONE — all 4 previously-flagged pages were deepened in the July 19 depth pass:
+  - `content/people/yang-xin.md` (14,066B, 15 facts, 594-line section) ✅
+  - `content/people/liao-shu-zong.md` (29,029B, 16 facts, 665-line section + memorial) ✅
+  - `content/people/shawna-yang-ryan.md` (6,252B, 25 facts, 240-line section) ✅
+  - `content/people/john-chiang.md` (10,701B, 28 facts, 286-line section) ✅
 
 ## GATE 0 (Facts-Clean)
 - 23 people: 23 / 23 meet depth floor

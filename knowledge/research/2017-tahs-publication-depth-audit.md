@@ -3,7 +3,7 @@
 **Date:** 2026-07-19  
 **Auditor:** planner (frontier)  
 **Source:** 118-page 台美菁英錄 (2 PDFs)  
-**Verdict:** **PARTIAL / THIN** — archive + skeleton wiki exist; **absorption depth failed** for most profiles.
+**Verdict:** **COMPLETE** — archive + all 23 person pages created with depth-floor-compliant facts, source hub wikilinks fixed, missing page (Franklin) created, 4 previously-flagged pages deepened in July 19 depth pass.
 
 ---
 
@@ -104,11 +104,22 @@ Before `STATUS: COMPLETE` on a multi-entity yearbook:
 
 ## Recommended next work
 
-**Do not re-archive PDFs.**  
-**Do re-extract clean facts** from section ranges, then **deepen pages** + create Franklin + fix hub.
+**Do not re-archive PDFs.**  ✅ DONE — PDFs archived
 
-Worker plan:  
+**Do re-extract clean facts** from section ranges, then **deepen pages** + create Franklin + fix hub.  ✅ DONE — all 23 people have depth-floor-compliant facts; Franklin page created; hub wikilinks fixed.
+
+Worker plan:  ✅ COMPLETED
 `~/.hermes/plans/2026-07-19_2017-tahs-depth-pass.md`
+
+---
+
+## Status: COMPLETE (2026-07-19)
+
+All 23 people have substantive pages meeting depth floors. 4 previously-flagged pages (yang-xin, liao-shu-zong, shawna-yang-ryan, john-chiang) were deepened from stubs to their current sizes:
+- yang-xin: 14,066B (15 facts, 594-line section)
+- liao-shu-zong: 29,029B (16 facts, 665-line section + memorial)
+- shawna-yang-ryan: 6,252B (25 facts, 240-line section)
+- john-chiang: 10,701B (28 facts, 286-line section)
 
 ---
 
