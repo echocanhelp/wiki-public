@@ -21,11 +21,15 @@ Person records in **Echopedia**. Names keep Chinese characters and romanized for
 - [[people/april-lin|April Lin (林淑卿)]]
 - [[people/bob-j-wu|Bob J. Wu (吳瑞椿)]]
 - [[people/c-c-chen|Dr. C.C. Chen (陳昭俊)]]
+- [[people/cai-jinrong|蔡錦榮 (Cai Jinrong)]]
 - [[people/cai-weiren|Rev. Cai Weiren (蔡維仁)]]
 - [[people/chaolong-kao|Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)]]
 - [[people/chen-bozhi|Rev. Chen Bozhi (陳柏志)]]
 - [[people/chen-meihui|Chen Meihui (陳美蕙)]]
+- [[people/chen-wenshi|陳文石 (Chen Wenshi)]]
+- [[people/chen-wenxue|陳文學 (Chen Wenxue)]]
 - [[people/chen-xialian|Elder Chen Xialian (陳夏蓮)]]
+- [[people/chen-zhefu-xu-chunhui|Chen Zhefu & Xu Chunhui (陳哲夫、許春惠)]]
 - [[people/ching-fang-chen|Rev. Ching Fang Chen (陳清芳)]]
 - [[people/choan-seng-song|Dr. Choan-Seng Song (宋泉盛)]]
 - [[people/daniel-kao|Dr. Daniel Kao (高光民)]]
@@ -34,6 +38,7 @@ Person records in **Echopedia**. Names keep Chinese characters and romanized for
 - [[people/david-lee|David Lee]]
 - [[people/deng-shuzhen|Elder Deng Shuzhen (鄧淑貞)]]
 - [[people/en-sheng-pan|Rev. En Sheng Pan (潘恩盛)]]
+- [[people/fan-qingliang|范清亮 (Fan Qingliang)]]
 - [[people/franklin-ping-cheng|Franklin Ping Cheng (程炳成)]]
 - [[people/freeman-huang|Freeman Huang (黃樹人)]]
 - [[people/guo-dongxu|Rev. Guo Dongxu (郭東緒)]]
@@ -59,6 +64,7 @@ Person records in **Echopedia**. Names keep Chinese characters and romanized for
 - [[people/lai-junming|Rev. Lai Junming (賴俊明)]]
 - [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]]
 - [[people/li-furen|Li Fu-Jen (李輔仁)]]
+- [[people/li-mutong|李木通 (Li Mutong)]]
 - [[people/liao-ji-chun|Liao Jichun (廖繼春)]]
 - [[people/liao-shu-zong|Liao Shu-zong (廖述宗)]]
 - [[people/lien-hwa-chow|Dr. Lien-Hwa Chow (周聯華)]]
@@ -100,27 +106,39 @@ Person records in **Echopedia**. Names keep Chinese characters and romanized for
 - [[people/vera-yang|Vera Yang (楊悅英)]]
 - [[people/wang-gstpc|Brother Wang (GSTPC, verification needed)]]
 - [[people/wang-gui-rong|Wang Gui-rong (王桂榮)]]
+- [[people/wang-kexiong|王克雄 (Wang Kexiong)]]
 - [[people/wang-neng-xiang|Wang Neng-xiang (王能祥)]]
 - [[people/wang-rongyi|Wang Rongyi (王榮義)]]
+- [[people/wang-taihe|Wang Taihe (王泰和)]]
 - [[people/wang-xinxin|Elder Wang Xinxin (王信心)]]
 - [[people/wang-yao-ting|Wang Yao-ting (王耀廷)]]
+- [[people/wang-yao-ting-xie-xiulan|Wang Yao-ting & Xie Xiulan (王耀廷、謝秀緞)]]
 - [[people/wei-boji|Wei Boji (魏博基)]]
 - [[people/willy-pan|Willy Pan (潘建宇)]]
 - [[people/xiao-xien|Elder Xiao Xien (蕭錫恩)]]
 - [[people/xie-dali|Rev. Xie Dali (謝大立)]]
+- [[people/xie-qingzhi-xie-poyi|謝清志、謝泊怡 (Xie Qingzhi & Xie Poyi)]]
 - [[people/xie-xinguang|Rev. Xie Xinguang (謝信光)]]
 - [[people/xie-xinzhong|Rev. Xie Xinzhong (謝信中)]]
 - [[people/xu-shitan|Xu Shitan (徐士坦)]]
 - [[people/xu-wenkai|Elder Xu Wenkai (許文凱)]]
+- [[people/xu-zongbang|許宗邦 (Xu Zongbang)]]
+- [[people/yang-chengwei|楊呵偉 (Yang Chengwei)]]
+- [[people/yang-huiqiao|楊惠喬 (Yang Huiqiao)]]
 - [[people/yang-jia-you|Charles Yang (楊嘉猷)]]
 - [[people/yang-xin|Yang Hsin (楊信)]]
+- [[people/yang-zhengxiang|楊正光 (Ethan Yang)]]
+- [[people/ye-siya-zhang-xinhui|Ye Siya & Zhang Xinhui (葉思雅、張信惠)]]
 - [[people/yunching-yeh-davis|Dr. Yunching Yeh Davis (葉芸青)]]
 - [[people/zhang-xuanxin|Zhang Xuanxin (張宣信)]]
 - [[people/zheng-bing-quan|Zheng Bingquan (鄭炳全)]]
+- [[people/zheng-dazhi|Zheng Dazhi (鄭達志)]]
 - [[people/zheng-quansheng|Zheng Quansheng (鄭泉聲)]]
+- [[people/zheng-shaoliang|Zheng Shaoliang (鄭紹良)]]
 - [[people/zhou-wei-liang|Zhou Weiliang (周威廉)]]
 - [[people/zhou-wei-lin|Zhou Weilin (周威霖)]]
 - [[people/zhuang-xinde|Rev. Zhuang Xinde (莊信德)]]
+
 
 
 
@@ -134,6 +152,7 @@ Person records in **Echopedia**. Names keep Chinese characters and romanized for
 
 
 
+
 ## Also in this tree
 
 - [[people/albert-chapter1-audiobook-consent-and-recording-kit|Albert Ch.1 audiobook consent kit]]
@@ -143,7 +162,9 @@ Person records in **Echopedia**. Names keep Chinese characters and romanized for
 
 
 
+
 Utility / process pages (not biographical entries):
+
 
 
 
