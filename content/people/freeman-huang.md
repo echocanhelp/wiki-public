@@ -8,9 +8,9 @@ tags:
   - founding-member
   - journalist
   - publisher
-verification_status: pending
+verification_status: owner_verified
 featured: true
-last_reviewed: 2026-07-23
+last_reviewed: 2026-07-24
 ---
 # Freeman Huang (黃樹人)
 
@@ -25,6 +25,7 @@ last_reviewed: 2026-07-23
 - **Education:** National Taiwan University (B.S.)
 - **Role:** Publisher, journalist, community leader
 - **Organizations:** [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
+- **Wiki authority:** Owner-authorized full editor (add / edit / delete Echopedia content via @Echo許)
 
 ## Career
 
@@ -57,6 +58,25 @@ Freeman Huang contributed to the **2017 TAHS Publication** as:
 - **Outstanding Taiwanese American** elected by T.A. Archives in December 2018
 - Published many articles in Taiwanese American newspapers, newsletters, and magazines
 
+## Testimony / Self-Introduction (member-editable)
+
+_(Optional — paste a short first-person intro anytime via LINE @Echo許.)_
+
+## Consent & Privacy
+
+- DM processing with Echo: none by default (group / @mention workflows only unless you request otherwise)
+- Public quote reuse: off until you explicitly allow
+- Personal phone / email / address: never published on this page
+- LINE user IDs: private registry only — never on the public wiki
+
+## Verification Block
+
+- Echopedia page status: Owner-verified (2026-07-24)
+- LINE identity status: Owner-verified display name 「黄樹人」 / 「黃樹人」 → person slug `freeman-huang` (private LINE U-id pending first send as sender)
+- Wiki edit authority: **Full** — Leonard Hsu Jr. authorized Freeman Huang to add / delete / edit Echopedia content as he likes (2026-07-24)
+- Owner verification required: No (complete)
+- 2026-07-24: Leonard Hsu Jr. introduced and verified @黄樹人 as Freeman Huang (黃樹人) in LINE group; authorized full edit rights
+
 ## Source Notes and Confidence
 
 - **A-tier:** 2017 TAHS Publication (profile of Yang Hsin, Part 1, L290–884, ~594 lines), written by 黃樹人 himself
@@ -72,3 +92,9 @@ Freeman Huang contributed to the **2017 TAHS Publication** as:
 - [[people/yang-xin|Yang Hsin (楊信)]] — profile written by Huang
 - [[people/anne-shih|Anne Shih (施劉秀枝)]] — photographed by Huang
 - [[people/yang-jia-you|Charles Yang (楊嘉猷)]] — TAHS founding president, co-founder
+- [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]]
+
+## Revision History
+
+- 2026-07-23: Person page published from TAHS sources (featured).
+- 2026-07-24: Owner verified LINE display name 黄樹人 as Freeman Huang; granted full Echopedia edit authority; added consent, verification, and member-editable testimony section.
