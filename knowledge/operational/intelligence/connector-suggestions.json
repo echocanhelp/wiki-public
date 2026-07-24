@@ -348,6 +348,30 @@
       "type": "CO-CITATION",
       "pages": [
         "taiwanese-american-historical-society.md",
+        "cai-jinrong.md"
+      ],
+      "reason": "Both link to sources/2023-tahs-publication"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "taiwanese-american-historical-society.md",
+        "chen-wenshi.md"
+      ],
+      "reason": "Both link to sources/2023-tahs-publication"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "cai-jinrong.md",
+        "chen-wenshi.md"
+      ],
+      "reason": "Both link to sources/2023-tahs-publication"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "taiwanese-american-historical-society.md",
         "anne-shih.md"
       ],
       "reason": "Both link to people/yang-jia-you"
@@ -476,9 +500,49 @@
       "type": "CO-CITATION",
       "pages": [
         "taiwanese-american-historical-society.md",
-        "wang-yao-ting.md"
+        "fan-qingliang.md"
       ],
       "reason": "Both link to people/zheng-bing-quan"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "taiwanese-american-historical-society.md",
+        "peng-ming-min.md"
+      ],
+      "reason": "Both link to people/zheng-bing-quan"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "cai-jinrong.md",
+        "fan-qingliang.md"
+      ],
+      "reason": "Both link to people/zheng-bing-quan"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "cai-jinrong.md",
+        "peng-ming-min.md"
+      ],
+      "reason": "Both link to people/zheng-bing-quan"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "fan-qingliang.md",
+        "peng-ming-min.md"
+      ],
+      "reason": "Both link to people/zheng-bing-quan"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "taiwanese-american-historical-society.md",
+        "wang-yao-ting.md"
+      ],
+      "reason": "Both link to people/zhou-wei-lin"
     },
     {
       "type": "CO-CITATION",
@@ -540,7 +604,7 @@
       "type": "CO-CITATION",
       "pages": [
         "david-lee.md",
-        "ken-wu.md"
+        "freeman-huang.md"
       ],
       "reason": "Both link to people/leonard-hsu-jr"
     },
@@ -548,25 +612,41 @@
       "type": "CO-CITATION",
       "pages": [
         "david-lee.md",
-        "rex-chen.md"
+        "ken-wu.md"
       ],
       "reason": "Both link to people/leonard-hsu-jr"
     },
     {
       "type": "CO-CITATION",
       "pages": [
-        "ken-wu.md",
-        "rex-chen.md"
+        "freeman-huang.md",
+        "ken-wu.md"
       ],
       "reason": "Both link to people/leonard-hsu-jr"
     },
     {
       "type": "CO-CITATION",
       "pages": [
-        "guo-shu-qing.md",
-        "lin-qiong-xian.md"
+        "freeman-huang.md",
+        "john-chiang.md"
       ],
-      "reason": "Both link to people/liao-ji-chun"
+      "reason": "Both link to people/yang-xin"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "freeman-huang.md",
+        "liao-shu-zong.md"
+      ],
+      "reason": "Both link to people/yang-xin"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "freeman-huang.md",
+        "shawna-yang-ryan.md"
+      ],
+      "reason": "Both link to people/yang-xin"
     },
     {
       "type": "CO-CITATION",
@@ -595,6 +675,22 @@
     {
       "type": "CO-CITATION",
       "pages": [
+        "guo-shu-qing.md",
+        "lin-qiong-xian.md"
+      ],
+      "reason": "Both link to people/liao-ji-chun"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "ken-wu.md",
+        "rex-chen.md"
+      ],
+      "reason": "Both link to people/david-lee"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
         "sam-chang.md",
         "zhou-wei-lin.md"
       ],
@@ -613,12 +709,12 @@
     {
       "type": "ORPHAN_FOLDER",
       "folder": "organizations",
-      "reason": "88 pages, avg 6.2 links each, 0 internal links"
+      "reason": "88 pages, avg 7.2 links each, 0 internal links"
     },
     {
       "type": "ORPHAN_FOLDER",
       "folder": "people",
-      "reason": "113 pages, avg 5.7 links each, 4 internal links"
+      "reason": "132 pages, avg 6.2 links each, 4 internal links"
     },
     {
       "type": "ORPHAN_FOLDER",
@@ -626,5 +722,5 @@
       "reason": "10 pages, avg 4.0 links each, 0 internal links"
     }
   ],
-  "total_pages": 219
+  "total_pages": 239
 }

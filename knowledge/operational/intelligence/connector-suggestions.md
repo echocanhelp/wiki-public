@@ -1,6 +1,6 @@
 === SUGGESTED CONNECTIONS ===
 
-[CO-CITATION] 76 suggestions
+[CO-CITATION] 88 suggestions
   • democratic-progressive-party.md ↔ overseas-community-affairs-council.md
     Both link to people/ken-wu
   • democratic-progressive-party.md ↔ formosan-presbyterian-church-in-los-angeles.md
@@ -23,6 +23,6 @@
     Both link to people/chen-meihui
 
 [ORPHAN_FOLDERS]
-  • content/organizations: 88 pages, avg 6.2 links each, 0 internal links
-  • content/people: 113 pages, avg 5.7 links each, 4 internal links
+  • content/organizations: 88 pages, avg 7.2 links each, 0 internal links
+  • content/people: 132 pages, avg 6.2 links each, 4 internal links
   • content/events: 10 pages, avg 4.0 links each, 0 internal links
