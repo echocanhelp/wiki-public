@@ -3,18 +3,26 @@
     {
       "type": "CO-CITATION",
       "pages": [
-        "formosan-presbyterian-church-in-los-angeles.md",
-        "albert-s-lai.md"
+        "democratic-progressive-party.md",
+        "overseas-community-affairs-council.md"
       ],
-      "reason": "Both link to people/jonah-chang"
+      "reason": "Both link to people/ken-wu"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "democratic-progressive-party.md",
+        "formosan-presbyterian-church-in-los-angeles.md"
+      ],
+      "reason": "Both link to sources/toward-a-community-of-hope"
     },
     {
       "type": "CO-CITATION",
       "pages": [
         "formosan-presbyterian-church-in-los-angeles.md",
-        "national-taiwanese-presbyterian-council.md"
+        "albert-s-lai.md"
       ],
-      "reason": "Both link to people/albert-s-lai"
+      "reason": "Both link to people/jonah-chang"
     },
     {
       "type": "CO-CITATION",
@@ -76,6 +84,14 @@
       "type": "CO-CITATION",
       "pages": [
         "good-shepherd-taiwanese-presbyterian-church.md",
+        "overseas-community-affairs-council.md"
+      ],
+      "reason": "Both link to organizations/taiwanese-american-historical-society"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "good-shepherd-taiwanese-presbyterian-church.md",
         "taiwan-center.md"
       ],
       "reason": "Both link to organizations/taiwanese-american-historical-society"
@@ -91,15 +107,15 @@
     {
       "type": "CO-CITATION",
       "pages": [
-        "good-shepherd-taiwanese-presbyterian-church.md",
-        "alan-thian.md"
+        "overseas-community-affairs-council.md",
+        "taiwan-center.md"
       ],
       "reason": "Both link to organizations/taiwanese-american-historical-society"
     },
     {
       "type": "CO-CITATION",
       "pages": [
-        "taiwan-center.md",
+        "overseas-community-affairs-council.md",
         "taiwan-formosa.md"
       ],
       "reason": "Both link to organizations/taiwanese-american-historical-society"
@@ -108,15 +124,7 @@
       "type": "CO-CITATION",
       "pages": [
         "taiwan-center.md",
-        "alan-thian.md"
-      ],
-      "reason": "Both link to organizations/taiwanese-american-historical-society"
-    },
-    {
-      "type": "CO-CITATION",
-      "pages": [
-        "taiwan-formosa.md",
-        "alan-thian.md"
+        "taiwan-formosa.md"
       ],
       "reason": "Both link to organizations/taiwanese-american-historical-society"
     },
@@ -159,6 +167,46 @@
         "albert-s-lai.md"
       ],
       "reason": "Both link to organizations/formosan-presbyterian-church-in-los-angeles"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "overseas-community-affairs-council.md",
+        "lin-yuan-ching.md"
+      ],
+      "reason": "Both link to people/hsu-hsin-hung"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "overseas-community-affairs-council.md",
+        "zhou-wei-lin.md"
+      ],
+      "reason": "Both link to people/hsu-hsin-hung"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "lin-yuan-ching.md",
+        "zhou-wei-lin.md"
+      ],
+      "reason": "Both link to people/hsu-hsin-hung"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "overseas-community-affairs-council.md",
+        "ken-wu.md"
+      ],
+      "reason": "Both link to organizations/fapa-los-angeles"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "taiwan-center.md",
+        "ken-wu.md"
+      ],
+      "reason": "Both link to organizations/fapa-los-angeles"
     },
     {
       "type": "CO-CITATION",
@@ -267,42 +315,10 @@
     {
       "type": "CO-CITATION",
       "pages": [
-        "taiwan-center.md",
-        "ken-wu.md"
-      ],
-      "reason": "Both link to people/alan-thian"
-    },
-    {
-      "type": "CO-CITATION",
-      "pages": [
         "john-chiang.md",
         "ken-wu.md"
       ],
       "reason": "Both link to people/alan-thian"
-    },
-    {
-      "type": "CO-CITATION",
-      "pages": [
-        "taiwan-center.md",
-        "david-lee.md"
-      ],
-      "reason": "Both link to people/ken-wu"
-    },
-    {
-      "type": "CO-CITATION",
-      "pages": [
-        "taiwan-center.md",
-        "rex-chen.md"
-      ],
-      "reason": "Both link to people/ken-wu"
-    },
-    {
-      "type": "CO-CITATION",
-      "pages": [
-        "david-lee.md",
-        "rex-chen.md"
-      ],
-      "reason": "Both link to people/ken-wu"
     },
     {
       "type": "CO-CITATION",
@@ -459,10 +475,42 @@
     {
       "type": "CO-CITATION",
       "pages": [
+        "taiwanese-american-historical-society.md",
+        "wang-yao-ting.md"
+      ],
+      "reason": "Both link to people/zheng-bing-quan"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "taiwanese-american-historical-society.md",
+        "zheng-bing-quan.md"
+      ],
+      "reason": "Both link to people/zhou-wei-lin"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "wang-yao-ting.md",
+        "zheng-bing-quan.md"
+      ],
+      "reason": "Both link to people/zhou-wei-lin"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "albert-chapter1-audiobook-consent-and-recording-kit.md",
+        "albert-s-lai.md"
+      ],
+      "reason": "Both link to people/albert-chapter1-audiobook-taiwanese-female"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
         "chen-meihui.md",
         "guo-yingyan.md"
       ],
-      "reason": "Both link to organizations/irvine-taiwanese-presbyterian-church"
+      "reason": "Both link to sources/irvine-taiwanese-presbyterterian-church"
     },
     {
       "type": "CO-CITATION",
@@ -493,6 +541,14 @@
       "pages": [
         "david-lee.md",
         "ken-wu.md"
+      ],
+      "reason": "Both link to people/leonard-hsu-jr"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "david-lee.md",
+        "rex-chen.md"
       ],
       "reason": "Both link to people/leonard-hsu-jr"
     },
@@ -535,18 +591,34 @@
         "shawna-yang-ryan.md"
       ],
       "reason": "Both link to people/yang-xin"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "sam-chang.md",
+        "zhou-wei-lin.md"
+      ],
+      "reason": "Both link to people/zhou-wei-liang"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "wang-gui-rong.md",
+        "zhou-wei-lin.md"
+      ],
+      "reason": "Both link to people/wang-neng-xiang"
     }
   ],
   "orphan_folders": [
     {
       "type": "ORPHAN_FOLDER",
       "folder": "organizations",
-      "reason": "86 pages, avg 6.1 links each, 0 internal links"
+      "reason": "88 pages, avg 6.2 links each, 0 internal links"
     },
     {
       "type": "ORPHAN_FOLDER",
       "folder": "people",
-      "reason": "111 pages, avg 5.5 links each, 4 internal links"
+      "reason": "113 pages, avg 5.7 links each, 4 internal links"
     },
     {
       "type": "ORPHAN_FOLDER",
@@ -554,5 +626,5 @@
       "reason": "10 pages, avg 4.0 links each, 0 internal links"
     }
   ],
-  "total_pages": 213
+  "total_pages": 219
 }

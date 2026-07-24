@@ -479,6 +479,7 @@ bash /home/leedt/.hermes/scripts/echopedia-ci-heal.sh --dry-run
 | `echopedia-ops-check.sh` | `~/.hermes/scripts/` | Health check |
 | `echopedia-link-hygiene.py` | `~/.hermes/scripts/` | Link audit |
 | `echopedia-site-design-audit.py` | `~/.hermes/scripts/` | Site design audit |
+| `echopedia-index-sync.py` | `~/.hermes/scripts/` | Directory index sync (new pages missing from index.md) |
 | `featured-regen.py` | `echo-system/scripts/` | Featured section regen |
 
 ---
@@ -497,8 +498,9 @@ bash /home/leedt/.hermes/scripts/echopedia-ci-heal.sh --dry-run
 | Disable push | **P6** |
 | Meta reports | **P7** |
 | Content mismatch (live ≠ repo) | **P5** + `references/ui-discrepancy-investigation.md` |
-| Homepage / layout / mobile / featured bugs | **P13** (+ `SITE_DESIGN.md`) |
-| Featured pin only | **P12** or `Echopedia feature <name>` |
+|| Homepage / layout / mobile / featured bugs | **P13** (+ `SITE_DESIGN.md`) |
+|| Featured pin only | **P12** or `Echopedia feature <name>` |
+|| Person page exists but not in directory | **P1** (audit shows INDEX SYNC) then `echopedia-index-sync.py --apply` |
 
 ### WORKER playbook reference
 

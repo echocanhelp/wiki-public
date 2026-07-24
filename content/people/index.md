@@ -35,6 +35,7 @@ Person records in **Echopedia**. Names keep Chinese characters and romanized for
 - [[people/deng-shuzhen|Elder Deng Shuzhen (鄧淑貞)]]
 - [[people/en-sheng-pan|Rev. En Sheng Pan (潘恩盛)]]
 - [[people/franklin-ping-cheng|Franklin Ping Cheng (程炳成)]]
+- [[people/freeman-huang|Freeman Huang (黃樹人)]]
 - [[people/guo-dongxu|Rev. Guo Dongxu (郭東緒)]]
 - [[people/guo-shu-qing|Guo Shu-qing (郭淑卿)]]
 - [[people/guo-yingyan|Guo Yingyan (郭應言)]]
@@ -121,11 +122,13 @@ Person records in **Echopedia**. Names keep Chinese characters and romanized for
 - [[people/zhuang-xinde|Rev. Zhuang Xinde (莊信德)]]
 
 
+
 ## Related organization pages sometimes filed under people
 
 - [[people/fpcla|Faithful Presbyterian Chinese Lutheran Association (FPCLA)]]
 - [[people/ntpc|North Taiwan Presbyterian Church (NTPC)]]
 - [[people/san-francisco-theological-seminary|San Francisco Theological Seminary]]
+
 
 
 ## Also in this tree
@@ -135,7 +138,9 @@ Person records in **Echopedia**. Names keep Chinese characters and romanized for
 - [[people/albert-chapter1-en-review|Albert Ch.1 EN audiobook review (Christopher scratch)]]
 - [[people/tahs-member-onboarding|TAHS member onboarding]]
 
+
 Utility / process pages (not biographical entries):
+
 
 
 
