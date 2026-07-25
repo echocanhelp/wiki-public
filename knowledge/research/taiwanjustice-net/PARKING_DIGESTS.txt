@@ -1,0 +1,4 @@
+# Digests identified as Hostinger parking / non-content.
+# Phase 1 leaves empty until Phase 2 samples homepage parking hash.
+# Known live parking title: 'Parked Domain name on Hostinger DNS system'
+# generated 2026-07-25T00:12:22Z

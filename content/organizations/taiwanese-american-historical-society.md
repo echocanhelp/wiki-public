@@ -2,20 +2,66 @@
 title: "Taiwanese American Historical Society (TAHS)"
 type: organization
 tags:
-  - 
+  - organization
+  - Taiwanese-American
+  - TAHS
+  - 501c3
 verification_status: pending
-last_reviewed: 2026-07-20
+last_reviewed: 2026-07-24
 ---
 # Taiwanese American Historical Society (TAHS)
 
 The **Taiwanese American Historical Society (TAHS)** (台美人歷史協會) is a 501(c)(3) non-profit organization dedicated to documenting, preserving, and promoting Taiwanese American history, culture, and heritage.
 
+## Legal / Tax Identity
+
+| Field | Value |
+|-------|--------|
+| **Legal name** | Taiwanese American Historical Society |
+| **Chinese name** | 台美人歷史協會 |
+| **Short name** | TAHS |
+| **EIN / Employer ID** | 46-4005384 |
+| **Federal tax status** | IRC §501(c)(3) public charity |
+| **Public charity status** | 170(b)(1)(A)(vi) |
+| **Contribution deductibility** | Yes (IRC §170); also qualified for deductible bequests/devises/transfers/gifts under §§2055, 2106, or 2522 |
+| **Effective date of exemption** | June 18, 2024 (reinstatement) |
+| **IRS determination letter date** | June 27, 2024 |
+| **Form 990 / 990-EZ / 990-N required** | Yes |
+| **Accounting period ending** | December 31 |
+| **DLN** | 26053572010194 |
+| **Reinstatement** | Approved under Revenue Procedure 2014-11 (per IRS letter) |
+
+### Addresses on record
+
+**Current mailing / care-of address** (filed 2026-07-24 by Leonard Hsu Jr.):
+
+```
+Taiwanese American Historical Society
+c/o Leonard Hsu
+279 S. Main St
+Orange, CA 92868
+```
+
+**Address on IRS determination letter** (2024-06-27):
+
+```
+TAIWANESE AMERICAN HISTORICAL SOCIETY
+C/O KUEI TUNG CHEN
+818 E BROADWAY UNIT C
+SAN GABRIEL, CA 91776
+```
+
+### Determination letter note
+
+IRS Tax Exempt and Government Entities determination letter (Department of the Treasury, Cincinnati OH), dated **06/27/2024**, confirms 501(c)(3) public-charity status and contribution deductibility after reinstatement. Photo of the letter is retained in private vault storage (`knowledge/operational/tahs-legal/`); not republished as a public wiki attachment. For donation-platform verification, attach that IRS letter (or an official IRS affirmation) with legal name + EIN as requested by the platform.
+
 ## Identity Snapshot
 - **Type:** Historical and cultural organization, 501(c)(3) non-profit
-- **Geography:** Southern California (Los Angeles area)
+- **Geography:** Southern California (Los Angeles / Orange County area)
 - **Founded:** December 11, 2013 (founding conference at Hilton Hotel, San Gabriel)
 - **First President:** 楊嘉猷 (Charles Yang) — founding president
 - **Second President:** Franklin Ping Cheng (2014–2017)
+- **Current President (on record):** Leonard Hsu Jr. (許景鴻)
 - **Mission:** Historical preservation, cultural education, community building
 
 ## Mission and Activities
@@ -157,5 +203,6 @@ These were beautiful, curated snapshots — but static. Once printed, they could
 ## Source Notes and Confidence
 - **A-tier:** Founding details from 2017 TAHS Publication, 緣起與展望 essay by 周威霖 (Part 1)
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
-- **Status:** Pending verification — needs cross-reference with TAHS official records
-- **Confidence:** High for founding narrative, activities classification, and future plans (directly from 周威霖's essay); moderate for specific event dates (corroborated by 活動紀要 in Part 2)
+- **Legal/tax:** IRS 501(c)(3) determination letter 2024-06-27 (EIN 46-4005384; public charity 170(b)(1)(A)(vi); effective exemption 2024-06-18); current c/o address filed by Leonard Hsu Jr. 2026-07-24
+- **Status:** Pending fuller verification — cross-reference California SOS when available
+- **Confidence:** High for founding narrative, activities classification, and future plans (directly from 周威霖's essay); high for EIN/exemption facts from IRS letter photo; moderate for specific event dates (corroborated by 活動紀要 in Part 2)

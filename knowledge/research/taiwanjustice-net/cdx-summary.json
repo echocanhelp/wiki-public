@@ -1,0 +1,211 @@
+{
+  "generated_at": "2026-07-25T00:12:22Z",
+  "started_at": "2026-07-25T00:07:38Z",
+  "domain": "taiwanjustice.net",
+  "cdx_hosts": [
+    "taiwanjustice.net/*",
+    "www.taiwanjustice.net/*"
+  ],
+  "unique_url_count": 63145,
+  "unique_digest_count_status_200": 73451,
+  "status_200_unique_urls": 61142,
+  "by_status": {
+    "200": 61142,
+    "202": 693,
+    "301": 608,
+    "503": 436,
+    "404": 219,
+    "-": 37,
+    "400": 5,
+    "403": 2,
+    "302": 2,
+    "405": 1
+  },
+  "by_mimetype_top": [
+    [
+      "text/html",
+      44229
+    ],
+    [
+      "image/jpeg",
+      13786
+    ],
+    [
+      "image/png",
+      1492
+    ],
+    [
+      "application/json",
+      980
+    ],
+    [
+      "application/rss+xml",
+      697
+    ],
+    [
+      "application/javascript",
+      497
+    ],
+    [
+      "text/xml",
+      486
+    ],
+    [
+      "text/css",
+      399
+    ],
+    [
+      "image/webp",
+      192
+    ],
+    [
+      "application/xml",
+      166
+    ],
+    [
+      "application/x-javascript",
+      55
+    ],
+    [
+      "warc/revisit",
+      37
+    ],
+    [
+      "image/svg+xml",
+      28
+    ],
+    [
+      "application/vnd.ms-fontobject",
+      21
+    ],
+    [
+      "image/gif",
+      17
+    ]
+  ],
+  "by_class": {
+    "wordpress_infra": 18836,
+    "article_candidate": 17617,
+    "other": 9763,
+    "tag": 8612,
+    "home": 6441,
+    "category": 1101,
+    "feed": 646,
+    "newsletter": 86,
+    "static_asset": 28,
+    "author": 10,
+    "comment_related": 3,
+    "pagination": 2
+  },
+  "by_year": {
+    "2017": 298,
+    "2018": 217,
+    "2019": 1571,
+    "2020": 4972,
+    "2021": 5031,
+    "2022": 10241,
+    "2023": 6678,
+    "2024": 8784,
+    "2025": 22373,
+    "2026": 2980
+  },
+  "article_candidate_count": 17459,
+  "newsletter_class_count": 86,
+  "comment_related_count": 3,
+  "host_row_counts": {
+    "taiwanjustice.net/*": 63145,
+    "www.taiwanjustice.net/*": 63145
+  },
+  "outputs": {
+    "unique_urls_jsonl": "/home/leedt/echo-system/knowledge/research/taiwanjustice-net/cdx-unique-urls.jsonl",
+    "by_year_csv": "/home/leedt/echo-system/knowledge/research/taiwanjustice-net/cdx-by-year.csv",
+    "by_class_csv": "/home/leedt/echo-system/knowledge/research/taiwanjustice-net/cdx-by-class.csv",
+    "sample_articles": "/home/leedt/echo-system/knowledge/research/taiwanjustice-net/sample-article-urls.json",
+    "parking_digests": "/home/leedt/echo-system/knowledge/research/taiwanjustice-net/PARKING_DIGESTS.txt"
+  },
+  "decisions": {
+    "hard_end_date": null,
+    "keep_comments": true,
+    "keep_newsletters": true,
+    "multi_day_download_ok": true,
+    "high_value_keep_all": true
+  },
+  "notes": [
+    "Live site is Hostinger parked — not a content source.",
+    "No hard end date: filter parking digests in P2, do not drop late real captures.",
+    "Unique URL count uses collapse=urlkey latest timestamp per original URL.",
+    "Digest count uses collapse=digest filter statuscode:200 across both hosts (may double-count same body under www/non-www)."
+  ],
+  "digest_samples": [
+    {
+      "timestamp": "20171108105003",
+      "original": "http://www.taiwanjustice.net:80/",
+      "mimetype": "text/html",
+      "length": "35798",
+      "digest": "RBYGXD7AZLVIXWOWYEXZVTR44T4CJKKB"
+    },
+    {
+      "timestamp": "20171203003508",
+      "original": "http://www.taiwanjustice.net:80/",
+      "mimetype": "text/html",
+      "length": "187251",
+      "digest": "6XYUDF6HE3FHWGHKAQN5STAIVI6LPGN5"
+    },
+    {
+      "timestamp": "20180413135833",
+      "original": "https://www.taiwanjustice.net/",
+      "mimetype": "text/html",
+      "length": "173893",
+      "digest": "JEUXKZB5FOKPHZQDFCN6BJ44IZMZKEIT"
+    },
+    {
+      "timestamp": "20190626053819",
+      "original": "https://www.taiwanjustice.net/",
+      "mimetype": "text/html",
+      "length": "43253",
+      "digest": "NISK5RA6KVNFT5EAK2XKDWUC4F4E5HKY"
+    },
+    {
+      "timestamp": "20191018065313",
+      "original": "https://www.taiwanjustice.net/",
+      "mimetype": "text/html",
+      "length": "46565",
+      "digest": "DNTHFJH4MRUH65G4SSB3S3NKDTZUIACQ"
+    },
+    {
+      "timestamp": "20191019020835",
+      "original": "https://www.taiwanjustice.net/",
+      "mimetype": "text/html",
+      "length": "46480",
+      "digest": "5QL2DKZHHGIK2HGNUM5MCRMJ6BGYETWC"
+    },
+    {
+      "timestamp": "20191112063445",
+      "original": "https://www.taiwanjustice.net/",
+      "mimetype": "text/html",
+      "length": "46771",
+      "digest": "U3WQ5MMDB7PC4Y3IV3GTY3OKWIC5G42I"
+    },
+    {
+      "timestamp": "20191115045215",
+      "original": "https://www.taiwanjustice.net/",
+      "mimetype": "text/html",
+      "length": "46882",
+      "digest": "WWL43VRTP7YXG2LPZQZE67EVHZ4CJCND"
+    },
+    {
+      "timestamp": "20191115094622",
+      "original": "https://www.taiwanjustice.net/",
+      "mimetype": "text/html",
+      "length": "46637",
+      "digest": "UFST547ENNHQPALG7BD2MARHAZXDVCA3"
+    },
+    {
+      "timestamp": "20191207101353",
+      "original": "https://www.taiwanjustice.net/",
+      "mimetype": "text/html",
+      "length": "47493",
+      "digest": "WZPOIEOA2V2C567US2FRRFTJ3YWHDW6A"
+    }
+  ]
+}

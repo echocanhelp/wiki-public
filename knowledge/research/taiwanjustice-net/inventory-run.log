@@ -1,0 +1,57 @@
+TJ CDX inventory start 2026-07-25T00:07:38Z
+Inventory unique URLs: taiwanjustice.net/*
+CDX retry 1/5 after error: HTTP Error 504: Gateway Time-out; sleep 1s
+  taiwanjustice.net/* collapse=urlkey page=0 +63145 total=63145
+CDX retry 1/2 after error: HTTP Error 503: Service Unavailable; sleep 1s
+CDX retry 2/2 after error: HTTP Error 400: BAD REQUEST; sleep 2s
+  page>0 not available (CDX failed after retries: HTTP Error 400: BAD REQUEST); using page0 only
+Inventory unique URLs: www.taiwanjustice.net/*
+  www.taiwanjustice.net/* collapse=urlkey page=0 +63145 total=63145
+CDX retry 1/2 after error: HTTP Error 503: Service Unavailable; sleep 1s
+CDX retry 2/2 after error: HTTP Error 400: BAD REQUEST; sleep 2s
+  page>0 not available (CDX failed after retries: HTTP Error 400: BAD REQUEST); using page0 only
+Inventory unique digests (status 200)...
+  digests taiwanjustice.net/* page=0 unique_so_far=73451
+CDX retry 1/2 after error: HTTP Error 400: BAD REQUEST; sleep 1s
+CDX retry 2/2 after error: HTTP Error 400: BAD REQUEST; sleep 2s
+  digests page>0 skip (CDX failed after retries: HTTP Error 400: BAD REQUEST)
+  digests www.taiwanjustice.net/* page=0 unique_so_far=73451
+CDX retry 1/2 after error: HTTP Error 400: BAD REQUEST; sleep 1s
+CDX retry 2/2 after error: HTTP Error 400: BAD REQUEST; sleep 2s
+  digests page>0 skip (CDX failed after retries: HTTP Error 400: BAD REQUEST)
+{
+  "generated_at": "2026-07-25T00:12:22Z",
+  "unique_url_count": 63145,
+  "status_200_unique_urls": 61142,
+  "unique_digest_count_status_200": 73451,
+  "article_candidate_count": 17459,
+  "newsletter_class_count": 86,
+  "comment_related_count": 3,
+  "by_year": {
+    "2017": 298,
+    "2018": 217,
+    "2019": 1571,
+    "2020": 4972,
+    "2021": 5031,
+    "2022": 10241,
+    "2023": 6678,
+    "2024": 8784,
+    "2025": 22373,
+    "2026": 2980
+  },
+  "by_class": {
+    "wordpress_infra": 18836,
+    "article_candidate": 17617,
+    "other": 9763,
+    "tag": 8612,
+    "home": 6441,
+    "category": 1101,
+    "feed": 646,
+    "newsletter": 86,
+    "static_asset": 28,
+    "author": 10,
+    "comment_related": 3,
+    "pagination": 2
+  }
+}
+WROTE /home/leedt/echo-system/knowledge/research/taiwanjustice-net/cdx-summary.json

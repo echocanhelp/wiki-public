@@ -1,0 +1,12 @@
+{
+  "updated_at": "2026-07-25T03:21:31Z",
+  "stats": {
+    "ok": 2875,
+    "parking": 0,
+    "fail": 191,
+    "skip": 0,
+    "bytes": 365133200
+  },
+  "done_count": 3066,
+  "started_at": "2026-07-25T00:25:52Z"
+}

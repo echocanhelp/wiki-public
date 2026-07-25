@@ -43,7 +43,8 @@ Lead of Echo System 3.0 and key figure in the Taiwanese American Historical Soci
 ## TAHS Leadership
 
 - **President** (會長), Taiwanese American Historical Society ([[organizations/taiwanese-american-historical-society|台美人歷史協會 (TAHS)]])
-- Tax ID: 46-4005384 (501(c)(3) public charity, reinstated June 2024)
+- Tax ID / EIN: 46-4005384 (501(c)(3) public charity; exemption effective June 18, 2024; IRS determination letter June 27, 2024)
+- Current org mailing address (c/o): 279 S. Main St, Orange, CA 92868
 
 ## Known Public Footprint
 
