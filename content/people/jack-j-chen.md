@@ -86,8 +86,8 @@ His research focus includes:
 
 ## Source Notes and Confidence
 
-- **A-tier:** 2017 TAHS Publication (self-profile + editor's note), Part 2, ~82 lines
-- **A-tier:** Contains detailed biographical narrative including education, career, research, and awards
+- **Content priority A:** 2017 TAHS Publication (self-profile + editor's note), Part 2, ~82 lines
+- **Content priority A:** Contains detailed biographical narrative including education, career, research, and awards
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Note:** The full text includes detailed biographical information including family background, education, and professional career.
 

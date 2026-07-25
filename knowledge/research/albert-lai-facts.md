@@ -65,7 +65,7 @@ Daniel Kao, C.C. Chen, Norman Hsu, Isiah Lee, Joseph T.C. Lu, Morris Chen, Georg
 - Disambiguate Charles C.L. Kao ≠ Daniel Kao
 
 ## Residual (optional later)
-- Additional co-founder stubs (Norman Hsu, Isiah Lee, …) only if A-tier detail appears
+- Additional co-founder stubs (Norman Hsu, Isiah Lee, …) only if Priority A detail appears
 - Full Ch I–III narrative summaries
 - Barclay person page if desired
 - Index regeneration `.wiki-index.md`

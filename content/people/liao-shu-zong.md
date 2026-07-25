@@ -277,9 +277,9 @@ He passed away in 2017. A memorial tribute was written by 楊嘉猷 (Charles Yan
 
 ## Source Notes and Confidence
 
-- **A-tier:** 2017 TAHS Publication 生命的執著 (The Persistence of Life) — Liao Shu-zong profile, Part 2, L1–569 (~568 lines), written by 楊遠薰
-- **A-tier:** Memorial by 楊嘉猷 (Charles Yang), Part 2, L570–666
-- **A-tier:** Contains extensive biographical narrative from birth through UChicago career, scientific breakthroughs, NATPA founding, and democratic activism
+- **Content priority A:** 2017 TAHS Publication 生命的執著 (The Persistence of Life) — Liao Shu-zong profile, Part 2, L1–569 (~568 lines), written by 楊遠薰
+- **Content priority A:** Memorial by 楊嘉猷 (Charles Yang), Part 2, L570–666
+- **Content priority A:** Contains extensive biographical narrative from birth through UChicago career, scientific breakthroughs, NATPA founding, and democratic activism
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Note:** The full text includes detailed biographical information including family background, education, 228/White Terror experiences, UChicago career, male hormone research, NATPA founding, and democratic movement involvement.
 

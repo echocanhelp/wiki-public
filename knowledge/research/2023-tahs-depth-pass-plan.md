@@ -1,7 +1,7 @@
 # 2023 TAHS Publication Depth Pass Plan
 
 ## Goal
-Deepen 16 B-tier person pages from section dump text to meet depth floor requirements.
+Deepen 16 Priority B person pages from section dump text to meet depth floor requirements.
 
 ## Background
 The 2023 publication person pages were created from structured facts (facts-clean.json) but lack full narrative text. Section dumps exist in `knowledge/research/tahs-2023-section-dumps/` but pages haven't been deepened.
@@ -13,7 +13,7 @@ The 2023 publication person pages were created from structured facts (facts-clea
 | 80–200 | 10 | ≥ 1400 |
 | > 200 | 15 | ≥ 2000 or Overview + Career/Legacy |
 
-## Pages to Deepen (16 B-tier, FAIL status)
+## Pages to Deepen (16 Priority B, FAIL status)
 
 ### Section 3 profiles (2720 lines, ~54KB text)
 These 13 profiles share one section dump file. Need to extract individual narrative from the combined text.

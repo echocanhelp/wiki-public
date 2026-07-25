@@ -149,16 +149,16 @@
 
 **Steps:**
 1. From each section, extract: name (EN/ZH), role, era, geography, key facts (2-5 bullets), confidence level.
-2. Assign priority tier:
-   - **A-tier:** Founding/TAHS narrative actors + dense bios + must-link public figures (7 people)
-   - **B-tier:** Remaining profiles with ≥3 solid facts (15 people)
-   - **C-tier:** Pure bylines, donors, name-only — list on source hub only, no pages (12 bylines)
+2. Assign content priority (not a personal rating — this is an ingestion-depth classification):
+   - **Priority A:** Founding/TAHS narrative actors + dense bios + must-link public figures (7 people)
+   - **Priority B:** Remaining profiles with ≥3 solid facts (15 people)
+   - **Priority C:** Pure bylines, donors, name-only — list on source hub only, no pages (12 bylines)
 3. Write machine-readable JSON to `knowledge/research/2017-tahs-publication-facts.json`
 4. Write human-readable coverage matrix to `knowledge/research/2017-tahs-publication-facts.md`
 
 **GATE 3 checklist:**
 - [ ] JSON parses (22 people, 7 orgs, 12 bylines, 2 lists)
-- [ ] Every profile subject has tier + action
+- [ ] Every profile subject has content priority + action
 - [ ] Bylines marked `list_only`
 - [ ] Alan Thian `action=expand` with existing_path
 - [ ] TAHS org flagged for expansion
@@ -201,10 +201,10 @@
 
 ---
 
-### Task 6: A-tier people (parent only — no subagents)
+### Task 6: Priority A people (parent only — no subagents)
 
 **Steps:**
-1. Create thin pages for all A-tier people (6 pages) using the template below.
+1. Create thin pages for all Priority A people (6 pages) using the template below.
 2. Expand Alan Thian (existing page) with publication facts.
 3. Template:
 
@@ -233,7 +233,7 @@ last_reviewed: 2026-07-17
 - Fact 3
 
 ## Source Notes and Confidence
-- **A-tier:** 2017 TAHS Publication ([section title])
+- **Content priority:** A (2017 TAHS Publication, [section title])
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Archive:** Part N, lines start–end (approx)
 - Layout-limited extraction; not a full translation
@@ -244,18 +244,18 @@ last_reviewed: 2026-07-17
 ```
 
 **GATE 6 checklist:**
-- [ ] All 6 A-tier pages created (yang-jia-you, liao-shu-zong, yang-xin, lisa-su, john-chiang)
+- [ ] All 6 Priority A pages created (yang-jia-you, liao-shu-zong, yang-xin, lisa-su, john-chiang)
 - [ ] alan-thian.md expanded (TC 董事長 + 皇佳銀行總裁)
 - [ ] All have Identity Snapshot + Source Notes + Related Pages
 
-**Note:** Set `featured: true` in frontmatter for A-tier pages that deserve long-term homepage presence. B-tier pages rely on recency window (30 days) for visibility.
+**Note:** Set `featured: true` in frontmatter for Priority A pages that deserve long-term homepage presence. Priority B pages rely on recency window (30 days) for visibility.
 
 - [ ] No invented bios — only publication content
 - [ ] verification_status = pending
 
 ---
 
-### Task 7: B-tier people (subagent batches of 2–3)
+### Task 7: Priority B people (subagent batches of 2–3)
 
 **Steps:**
 1. Dispatch subagents with **2–3 pages per batch** (never more). Each batch must include:
@@ -268,10 +268,10 @@ last_reviewed: 2026-07-17
 3. **If subagent fails:** parent creates remaining pages directly from fact-sheet bullets. Never re-delegate the same batch.
 4. Dispatch batches sequentially (not in parallel) to avoid concurrent file conflicts.
 
-**B-tier roster (15 people):** lin-fu-kun, hsu-hsin-hung, lin-yuan-ching, wang-gui-rong, anne-shih, wang-neng-xiang, su-chun-huai, sam-chang, ho-chie-tsai, martha-vandriel, jack-j-chen, katherine-huang, bob-j-wu, tiffany-huang, shawna-yang-ryan
+**Priority B roster (15 people):** lin-fu-kun, hsu-hsin-hung, lin-yuan-ching, wang-gui-rong, anne-shih, wang-neng-xiang, su-chun-huai, sam-chang, ho-chie-tsai, martha-vandriel, jack-j-chen, katherine-huang, bob-j-wu, tiffany-huang, shawna-yang-ryan
 
 **GATE 7 checklist:**
-- [ ] All 15 B-tier pages created
+- [ ] All 15 Priority B pages created
 - [ ] Each verified: stat size + headers present
 - [ ] No subagent-claimed success without verification
 
@@ -335,7 +335,7 @@ git commit -m "echopedia: ingest 2017 TAHS Publication (archive, facts, source h
 
 **GATE 11 checklist:**
 - [ ] PUBLISH_STATUS: OK
-- [ ] All A/B-tier pages return 200
+- [ ] All Priority A/B pages return 200
 - [ ] Root index.html Featured section unchanged
 
 ---
@@ -349,7 +349,7 @@ git commit -m "echopedia: ingest 2017 TAHS Publication (archive, facts, source h
 Page **presence is not enough**. A 118-page yearbook with stub person pages is **PARTIAL**.
 
 **Clean-fact rule (Gate 3 quality):**
-- Each A/B subject must have a **facts-clean** list of human-readable bullets.
+- Each Priority A/B subject must have a **facts-clean** list of human-readable bullets.
 - Reject bullets that are raw two-column shreds (interleaved half-lines, mid-sentence column jumps).
 - Cap is a **floor by section length**, not a universal “5 facts”:
 
@@ -361,13 +361,13 @@ Page **presence is not enough**. A 118-page yearbook with stub person pages is *
 
 **Hub rule:** every created person page must be `[[people/slug|label]]` on the source hub (not plain-text only).
 
-**Missing A-tier pages:** any `tier=A` without a file → cannot COMPLETE.
+**Missing Priority A pages:** any `priority=A` without a file → cannot COMPLETE.
 
 Write matrix: `knowledge/research/<slug>-depth-matrix.md` with PASS/FAIL per subject.
 
 **GATE 11b checklist:**
 - [ ] facts-clean exists (not only raw extract dumps)
-- [ ] Depth matrix: all A-tier PASS; B-tier FAIL documented
+- [ ] Depth matrix: all Priority A PASS; Priority B FAIL documented
 - [ ] Source hub wikilinks all created people
 - [ ] No “COMPLETE” if majority of long profiles are stubs
 
@@ -436,7 +436,7 @@ wc -c <output-path>     # reject if under depth floor for section size
 | **5 raw pdftotext shreds labeled as “facts”** | **Gate 3 redo → facts-clean; reject column shreds** |
 | **Stub pages for 300–500 line profiles** | **Depth floors by section length; Gate 11b matrix** |
 | **Hub lists plain names without wikilinks** | **Hub must link every created page** |
-| Byline person pages created | Subject ≠ byline; C-tier = list only on source hub |
+| Byline person pages created | Subject ≠ byline; Priority C = list only on source hub |
 | Root index.html Featured broken | Never edit without human ask; spot-check after publish |
 | Git add catches unrelated deletions | Verify git diff --cached before commit |
 | Subagent claims success but no write | Always stat + re-read before accepting |

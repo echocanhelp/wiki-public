@@ -23,14 +23,14 @@ Dr. Song is referenced as a theological horizon figure for interpreting migratio
 - Date/Period: retrospective reference context
 - Context: theological framing layer
 - Source: toward-a-community-of-hope related pages
-- Source tier: C-tier
+- Source confidence C
 
 ### Testament 2 (Attributed Summary)
 His influence aligns with postcolonial and contextual-theology trajectories used by later interpreters of Taiwanese church history.
 - Date/Period: historiographical interpretation layer
 - Context: conceptual synthesis
 - Source: source-cluster synthesis
-- Source tier: C-tier
+- Source confidence C
 
 ## Historical Context
 Within this cluster, Dr. Song is treated as an intellectual reference rather than a primary narrator of NTPC institutional events.
@@ -42,9 +42,9 @@ Within this cluster, Dr. Song is treated as an intellectual reference rather tha
 ## Source Notes and Confidence
 
 ### Source Confidence Legend
-- A-tier: direct quotations or primary-source textual attributions from the currently attached source set.
-- B-tier: near-contemporary attributed references or secondary materials closely tied to the event/person.
-- C-tier: compiled contextual interpretation layers that require further primary-source confirmation.
+- Source confidence A: direct quotations or primary-source textual attributions from the currently attached source set.
+- Source confidence B: near-contemporary attributed references or secondary materials closely tied to the event/person.
+- Source confidence C: compiled contextual interpretation layers that require further primary-source confirmation.
 
 - Medium confidence: significance as theological reference in this cluster (C)
 - Needs verification: direct quotation from source materials currently attached to this cluster

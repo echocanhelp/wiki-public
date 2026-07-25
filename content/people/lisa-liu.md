@@ -22,9 +22,9 @@ last_reviewed: 2026-07-16
 
 ## Source Notes and Confidence
 
-- **A-tier:** Name and role on https://www.taiwancenter.org/board (archived `taiwancenter-org-board.md`)
+- **Content priority A:** Name and role on https://www.taiwancenter.org/board (archived `taiwancenter-org-board.md`)
 - **Hub:** [[sources/taiwancenter-org|taiwancenter.org]]
-- **C-tier:** Full biography not in this source set
+- **Content priority C:** Full biography not in this source set
 
 ## Related Pages
 

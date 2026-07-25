@@ -31,7 +31,7 @@ last_reviewed: 2026-07-15
 
 ### Predecessor: Taiyou Church (太陽教會)
 
-Before FPCLA, an experimental church called "Taiyou Church" (太陽教會, "Sun Church") was associated with [[people/jonah-chang|Rev. Jonah Chang (張瑞雄)]] (c. 1967 Japanese Methodist facility context; B-tier). This experiment laid the groundwork for a separate Taiwanese congregation.
+Before FPCLA, an experimental church called "Taiyou Church" (太陽教會, "Sun Church") was associated with [[people/jonah-chang|Rev. Jonah Chang (張瑞雄)]] (c. 1967 Japanese Methodist facility context; content priority B). This experiment laid the groundwork for a separate Taiwanese congregation.
 
 ### Founding Process (1970)
 

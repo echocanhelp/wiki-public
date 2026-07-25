@@ -64,8 +64,8 @@ Yang's legacy is the establishment of TAHS as an organization dedicated to docum
 
 ## Source Notes and Confidence
 
-- **A-tier:** 2017 TAHS Publication (founding essay 緣起與展望, Part 1, ~77 lines), written by 楊嘉猷 himself
-- **A-tier:** Contains detailed philosophical framework for TAHS and the "台灣精神史觀" (Taiwanese Spirit Historical Perspective)
+- **Content priority A:** 2017 TAHS Publication (founding essay 緣起與展望, Part 1, ~77 lines), written by 楊嘉猷 himself
+- **Content priority A:** Contains detailed philosophical framework for TAHS and the "台灣精神史觀" (Taiwanese Spirit Historical Perspective)
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Note:** The full text includes detailed biographical information including family background, education, and decades of advocacy work.
 

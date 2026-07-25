@@ -17,7 +17,7 @@ last_reviewed: 2026-07-23
 - **English:** Chen Wenshi
 - **Chinese:** 陳文石
 - **Core roles:** Artist, interior designer, entrepreneur, cultural advocate
-- **Tier:** B
+- **Content priority:** B (ingestion depth — see [[sources/2023-tahs-publication|source]])
 - **Geography:** Taiwan, Japan, United States
 
 ## Overview
@@ -105,7 +105,7 @@ Chen Wenshi is profiled in the 2023 TAHS Publication (台美菁英錄 第二輯)
 
 ## Source Notes and Confidence
 
-- **A-tier:** 2023 TAHS Publication (profile, Part 2)
+- **Content priority:** A (primary source — 2023 TAHS Publication, profile Part 2)
 - **Hub:** [[sources/2023-tahs-publication|2023 TAHS Publication]]
 
 ## Related Pages

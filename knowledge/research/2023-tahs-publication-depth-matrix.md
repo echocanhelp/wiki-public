@@ -37,8 +37,8 @@
 | 19 | Yang Zhengxiang | B | ~937 | 15 | 10 | ~3402 | 2000 | ✅ PASS |
 
 ## Summary
-- **A-tier:** 2 (2 PASS)
-- **B-tier:** 17 (17 PASS)
+- **Priority A:** 2 (2 PASS)
+- **Priority B:** 17 (17 PASS)
 - **Overall:** 19/19 PASS ✅
 
 ## Note

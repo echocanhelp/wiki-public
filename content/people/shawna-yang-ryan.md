@@ -63,8 +63,8 @@ Yang Ryan's profile in the 2017 TAHS publication was prepared by the Taiwanese A
 
 ## Source Notes and Confidence
 
-- **A-tier:** 2017 TAHS Publication (profile Part 2, ~240 lines), prepared by TAHS editors
-- **A-tier:** Green Island won the 2017 American Book Awards (verifiable external source)
+- **Content priority A:** 2017 TAHS Publication (profile Part 2, ~240 lines), prepared by TAHS editors
+- **Content priority A:** Green Island won the 2017 American Book Awards (verifiable external source)
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Note:** The profile in the publication is relatively brief. Additional biographical details (education, earlier works, other publications) exist in external literary sources.
 

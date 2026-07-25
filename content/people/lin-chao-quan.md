@@ -41,7 +41,7 @@ In 1984, during the Los Angeles Olympics, Lin Chao-quan visited Los Angeles. He 
 
 ## Source Notes and Confidence
 
-- **A-tier:** Memorial by 楊嘉猷 (Charles Yang), Part 2, L25–32 — detailed account of Lin's life, political activism, imprisonment, and 1984 LA visit
+- **Content priority A:** Memorial by 楊嘉猷 (Charles Yang), Part 2, L25–32 — detailed account of Lin's life, political activism, imprisonment, and 1984 LA visit
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 
 ## Related Pages

@@ -45,8 +45,8 @@ His profile in the 2017 TAHS Publication was titled "皇佳銀行總裁田詒鴻
 
 ## Source Notes and Confidence
 
-- **A-tier:** 2017 TAHS Publication (profile Part 1, ~134 lines), interview conducted by TAHS, edited by Edda Huang
-- **A-tier:** Contains biographical narrative including education, banking career, and Taiwan Center service
+- **Content priority A:** 2017 TAHS Publication (profile Part 1, ~134 lines), interview conducted by TAHS, edited by Edda Huang
+- **Content priority A:** Contains biographical narrative including education, banking career, and Taiwan Center service
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]], [[sources/taiwancenter-org|taiwancenter.org]]
 - **Note:** The full text includes detailed biographical information including family background, education, and banking career.
 

@@ -87,8 +87,8 @@ Wang Yao-ting was born in 1941 in Taichung during Japanese colonial rule. He gre
 
 ## Source Notes and Confidence
 
-- **A-tier:** 2023 TAHS Publication (profile, Part 2)
-- **A-tier:** 2017 TAHS Publication (profile, Part 1)
+- **Content priority A:** 2023 TAHS Publication (profile, Part 2)
+- **Content priority A:** 2017 TAHS Publication (profile, Part 1)
 - **Hub:** [[sources/2023-tahs-publication|2023 TAHS Publication]]
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 

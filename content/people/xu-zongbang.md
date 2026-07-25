@@ -59,7 +59,7 @@ last_reviewed: 2026-07-23
 3. The team operated on a volunteer basis; each mission cost approximately $120,000, funded by NATMA member donations, fundraising, and personal contributions.
 
 ## Source Notes and Confidence
-- **A-tier:** 2023 TAHS Publication (profile, "奠基‧傳承" section, ~2720 lines)
+- **Content priority A:** 2023 TAHS Publication (profile, "奠基‧傳承" section, ~2720 lines)
 - **Hub:** [[sources/2023-tahs-publication|2023 TAHS Publication]]
 - **Archive:** Section dump at `knowledge/research/tahs-2023-section-dumps/ye-siya-zhang-xinhui-xu-zongbang-li-mutong-chen-wenxue-wang-kexiong-...txt` (lines 1353–1857)
 - Layout-limited extraction; not a full translation

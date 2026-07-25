@@ -153,8 +153,8 @@ Lin never hid his desire to return to Taiwan. In 2014, the World Chinese Busines
 
 ## Source Notes and Confidence
 
-- **A-tier:** 2017 TAHS Publication 集集小孩力爭上游 林元清醫師專訪, Part 1, L1585–1878 (~293 lines), compiled by TAHS, text by Edda Huang
-- **A-tier:** Contains extensive biographical narrative including family history (father's escape from Xiamen), medical training, Johns Hopkins orthopedic residency, practice challenges, and personal anecdotes
+- **Content priority A:** 2017 TAHS Publication 集集小孩力爭上游 林元清醫師專訪, Part 1, L1585–1878 (~293 lines), compiled by TAHS, text by Edda Huang
+- **Content priority A:** Contains extensive biographical narrative including family history (father's escape from Xiamen), medical training, Johns Hopkins orthopedic residency, practice challenges, and personal anecdotes
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Note:** This is a long interview-style profile. The full text contains detailed biographical information including family background, education, military service, residency training, and practice building.
 

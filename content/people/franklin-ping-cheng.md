@@ -40,8 +40,8 @@ The 2017 yearbook was made possible with special sponsorship from TECO (僑委�
 
 ## Source Notes and Confidence
 
-- **A-tier:** 2017 TAHS Publication 會長謝詞 (President's Gratitude) — Franklin Ping Cheng's own account, Part 2, L2594–2618
-- **A-tier:** TAHS organizational leadership records
+- **Content priority A:** 2017 TAHS Publication 會長謝詞 (President's Gratitude) — Franklin Ping Cheng's own account, Part 2, L2594–2618
+- **Content priority A:** TAHS organizational leadership records
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Note:** Franklin's profile is brief in the source — primarily the 會長謝詞 — rather than a long-form biographical interview like other 菁英錄 subjects. His significance derives from his institutional role as TAHS president during a formative period.
 

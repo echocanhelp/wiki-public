@@ -30,7 +30,7 @@ Wang Yao-ting was one of the key founders of the Taiwanese American Historical S
 
 ## Source Notes and Confidence
 
-- **B-tier:** 2017 TAHS Publication (founding narrative by 周威霖, Part 1)
+- **Content priority B:** 2017 TAHS Publication (founding narrative by 周威霖, Part 1)
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Status:** Stub — needs expanded biographical details
 

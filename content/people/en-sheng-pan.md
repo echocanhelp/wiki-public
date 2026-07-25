@@ -40,7 +40,7 @@ Key themes:
 
 ## Source Notes and Confidence
 
-- **A-tier:** PCT Moderator of the 70th General Assembly; foreword authorship and date; themes from foreword
+- **Content priority A:** PCT Moderator of the 70th General Assembly; foreword authorship and date; themes from foreword
 - **Needs verification:** Education, broader career history
 
 ## Name Variants / Disambiguation

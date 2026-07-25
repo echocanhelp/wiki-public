@@ -59,7 +59,7 @@ Yang Chengwei's story represents the bridge between Taiwanese American families 
 
 ## Source Notes and Confidence
 
-- **B-tier:** 2023 TAHS Publication (profile, Section 3, page 109)
+- **Content priority B:** 2023 TAHS Publication (profile, Section 3, page 109)
 - **Hub:** [[sources/2023-tahs-publication|2023 TAHS Publication]]
 - **Archive:** `knowledge/web-archives/2023-tahs-publication-part2.md`
 

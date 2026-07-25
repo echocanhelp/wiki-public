@@ -37,7 +37,7 @@ From his 2025 foreword material:
 
 ## Source Notes and Confidence
 
-- **A-tier:** First-person republication narrative; collaboration with Hsu; Barclay Memorial Church role
+- **Content priority A:** First-person republication narrative; collaboration with Hsu; Barclay Memorial Church role
 - **Needs verification:** Full career timeline, education
 
 ## Name Variants / Disambiguation

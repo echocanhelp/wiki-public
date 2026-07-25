@@ -63,13 +63,13 @@ The second TAHS commemorative publication, following the 2017 edition. This publ
 
 ## Entity Index
 
-### A-tier (2 people — deep narrative)
+### Priority A (2 people — deep narrative)
 | Person | Slug | Page |
 |--------|------|------|
 | Peng Ming-min | `peng-ming-min` | [[people/peng-ming-min\|彭明敏 (Peng Ming-min)]] |
 | Zheng Bingquan | `zheng-bing-quan` | [[people/zheng-bing-quan\|鄭炳全 (Zheng Bingquan)]] |
 
-### B-tier (17 people — stubs, depth pass pending)
+### Priority B (17 people — stubs, depth pass pending)
 | Person | Slug | Page |
 |--------|------|------|
 | Zheng Dazhi | `zheng-dazhi` | [[people/zheng-dazhi\|鄭達志 (Zheng Dazhi)]] |
@@ -91,8 +91,8 @@ The second TAHS commemorative publication, following the 2017 edition. This publ
 | Yang Zhengxiang | `yang-zhengxiang` | [[people/yang-zhengxiang\|楊正光 (Ethan Yang)]] |
 
 ## Depth Status
-- **A-tier:** 2/2 PASS (depth floor met)
-- **B-tier:** 17/17 PASS (depth floor met)
+- **Content priority A:** 2/2 PASS (depth floor met)
+- **Content priority B:** 17/17 PASS (depth floor met)
 - **Overall:** COMPLETE — 19/19 pages exist, 19/19 below depth floor
 - **Depth matrix:** [[research/2023-tahs-publication-depth-matrix|Depth Matrix]]
 - **Depth audit:** [[research/2023-tahs-publication-depth-audit|Depth Audit]]

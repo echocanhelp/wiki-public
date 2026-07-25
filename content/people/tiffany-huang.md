@@ -59,8 +59,8 @@ Before "Moment," Tiffany had previously created work for church/missionary group
 
 ## Source Notes and Confidence
 
-- **A-tier:** 2017 TAHS Publication (profile Part 2, ~66 lines)
-- **A-tier:** Contains biographical narrative including education, National Geographic project, and previous work
+- **Content priority A:** 2017 TAHS Publication (profile Part 2, ~66 lines)
+- **Content priority A:** Contains biographical narrative including education, National Geographic project, and previous work
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Note:** The full text includes detailed biographical information including education, National Geographic project details, and previous work.
 

@@ -62,7 +62,7 @@ The couple co-founded TARSA (Taiwanese American Religious Study Association) in 
 5. In 2004, Ye visited Japan's Yasukuni Shrine with Dr. Liu Yangchuan and Dr. Honda Hiroshi, seeking closure about his father's death in WWII; the visit confirmed his father Ye Bing-song was killed when the SS Buenger was torpedoed by USS Hake in 1944.
 
 ## Source Notes and Confidence
-- **A-tier:** 2023 TAHS Publication (profile, "典範‧傷逝" section, ~2720 lines)
+- **Content priority A:** 2023 TAHS Publication (profile, "典範‧傷逝" section, ~2720 lines)
 - **Hub:** [[sources/2023-tahs-publication|2023 TAHS Publication]]
 - **Archive:** Section dump at `knowledge/research/tahs-2023-section-dumps/ye-siya-zhang-xinhui-xu-zongbang-li-mutong-chen-wenxue-wang-kexiong-...txt` (lines 750–1340)
 - Layout-limited extraction; not a full translation

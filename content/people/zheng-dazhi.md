@@ -38,7 +38,7 @@ Zheng's sculptures "智者" and "富蘭克林" have been exhibited in local Taiw
 
 ## Source Notes and Confidence
 
-- **A-tier:** 2023 TAHS Publication (profile, Section 1, ~649 lines), written by 鄭炳全
+- **Content priority A:** 2023 TAHS Publication (profile, Section 1, ~649 lines), written by 鄭炳全
 - **Hub:** [[sources/2023-tahs-publication|2023 TAHS Publication]]
 - **Archive:** `knowledge/web-archives/2023-tahs-publication-part1.md`
 - **Note:** The profile includes details about his artistic work and community contributions.

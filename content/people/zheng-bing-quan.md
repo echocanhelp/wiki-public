@@ -35,7 +35,7 @@ Zheng was listed as an editor/compiler of the 2017 TAHS Publication, alongside �
 
 ## Source Notes and Confidence
 
-- **B-tier:** 2017 TAHS Publication (editor credits, founding narrative by 周威霖)
+- **Content priority B:** 2017 TAHS Publication (editor credits, founding narrative by 周威霖)
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Status:** Stub — needs expanded biographical details
 

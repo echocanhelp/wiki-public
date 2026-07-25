@@ -9,7 +9,6 @@
       "en": "Charles Yang",
       "role": "Founding President, TAHS",
       "kind": "subject",
-      "tier": "A",
       "action": "create",
       "existing_path": null,
       "part": "part1",
@@ -28,7 +27,8 @@
       "related_existing_slugs": [
         "organizations/taiwanese-american-historical-society"
       ],
-      "notes": "創會會長; also co-authored 王能祥 profile; memorial author for 廖述宗"
+      "notes": "創會會長; also co-authored 王能祥 profile; memorial author for 廖述宗",
+      "priority": "A"
     },
     {
       "slug": "liao-shu-zong",
@@ -36,7 +36,6 @@
       "en": "Prof. Liao Shu-zong",
       "role": "Biochemist, NATPA founder, UC Chicago professor",
       "kind": "subject",
-      "tier": "A",
       "action": "create",
       "existing_path": null,
       "part": "part2",
@@ -57,7 +56,8 @@
       "related_existing_slugs": [
         "organizations/taiwanese-american-historical-society"
       ],
-      "notes": "Two sections: profile (L1-569) + memorial (L570-666); NATPA founder; 1931 born Tainan"
+      "notes": "Two sections: profile (L1-569) + memorial (L570-666); NATPA founder; 1931 born Tainan",
+      "priority": "A"
     },
     {
       "slug": "yang-xin",
@@ -65,7 +65,6 @@
       "en": "Yang Hsin",
       "role": "Former government advisor, entrepreneur",
       "kind": "subject",
-      "tier": "A",
       "action": "create",
       "existing_path": null,
       "part": "part1",
@@ -82,7 +81,8 @@
       "related_existing_slugs": [
         "organizations/taiwanese-american-historical-society"
       ],
-      "notes": "行政院政務顧問;创业故事"
+      "notes": "行政院政務顧問;创业故事",
+      "priority": "A"
     },
     {
       "slug": "alan-thian",
@@ -90,7 +90,6 @@
       "en": "Alan Thian",
       "role": "皇佳銀行總裁; Taiwan Center 董事長",
       "kind": "subject",
-      "tier": "A",
       "action": "expand",
       "existing_path": "content/people/alan-thian.md",
       "part": "part1",
@@ -109,7 +108,8 @@
       "related_existing_slugs": [
         "organizations/taiwanese-american-historical-society"
       ],
-      "notes": "Expand existing; add bank/profile facts; keep TC 董事長"
+      "notes": "Expand existing; add bank/profile facts; keep TC 董事長",
+      "priority": "A"
     },
     {
       "slug": "lisa-su",
@@ -117,7 +117,6 @@
       "en": "Lisa T. Su",
       "role": "AMD CEO",
       "kind": "subject",
-      "tier": "A",
       "action": "create",
       "existing_path": null,
       "part": "part2",
@@ -138,7 +137,8 @@
       "related_existing_slugs": [
         "organizations/taiwanese-american-historical-society"
       ],
-      "notes": "MIT EE PhD 1994; copper interconnect at IBM; AMD CEO; father 蘇春槐 profile at L1028"
+      "notes": "MIT EE PhD 1994; copper interconnect at IBM; AMD CEO; father 蘇春槐 profile at L1028",
+      "priority": "A"
     },
     {
       "slug": "john-chiang",
@@ -146,7 +146,6 @@
       "en": "John Chiang",
       "role": "California State Controller",
       "kind": "subject",
-      "tier": "A",
       "action": "create",
       "existing_path": null,
       "part": "part2",
@@ -166,7 +165,8 @@
       "related_existing_slugs": [
         "organizations/taiwanese-american-historical-society"
       ],
-      "notes": "Elected CA State Controller 2006; 45 years old at election; 12 years on Most Wanted"
+      "notes": "Elected CA State Controller 2006; 45 years old at election; 12 years on Most Wanted",
+      "priority": "A"
     },
     {
       "slug": "lin-fu-kun",
@@ -174,7 +174,6 @@
       "en": "Lin Fu-kun",
       "role": "Biotech entrepreneur",
       "kind": "subject",
-      "tier": "B",
       "action": "create",
       "existing_path": null,
       "part": "part1",
@@ -191,7 +190,8 @@
       "related_existing_slugs": [
         "organizations/taiwanese-american-historical-society"
       ],
-      "notes": "生技巨人"
+      "notes": "生技巨人",
+      "priority": "B"
     },
     {
       "slug": "hsu-hsin-hung",
@@ -199,7 +199,6 @@
       "en": "Hsu Hsin-hung",
       "role": "Chairman & CEO, Chia Ho Enterprise Group",
       "kind": "subject",
-      "tier": "B",
       "action": "create",
       "existing_path": null,
       "part": "part1",
@@ -218,7 +217,8 @@
       "related_existing_slugs": [
         "organizations/taiwanese-american-historical-society"
       ],
-      "notes": "加州佳和企業集團董事長兼總裁; 博士"
+      "notes": "加州佳和企業集團董事長兼總裁; 博士",
+      "priority": "B"
     },
     {
       "slug": "lin-yuan-ching",
@@ -226,7 +226,6 @@
       "en": "Lin Yuan-qing",
       "role": "Physician",
       "kind": "subject",
-      "tier": "B",
       "action": "create",
       "existing_path": null,
       "part": "part1",
@@ -243,7 +242,8 @@
       "related_existing_slugs": [
         "organizations/taiwanese-american-historical-society"
       ],
-      "notes": "集集小孩; 醫師專訪"
+      "notes": "集集小孩; 醫師專訪",
+      "priority": "B"
     },
     {
       "slug": "wang-gui-rong",
@@ -251,7 +251,6 @@
       "en": "Wang Gui-rong",
       "role": "Entrepreneur/business leader",
       "kind": "subject",
-      "tier": "B",
       "action": "create",
       "existing_path": null,
       "part": "part1",
@@ -268,7 +267,8 @@
       "related_existing_slugs": [
         "organizations/taiwanese-american-historical-society"
       ],
-      "notes": "傳略; longest profile in part1"
+      "notes": "傳略; longest profile in part1",
+      "priority": "B"
     },
     {
       "slug": "anne-shih",
@@ -276,7 +276,6 @@
       "en": "Anne Shih",
       "role": "Chairman, Bowers Museum",
       "kind": "subject",
-      "tier": "B",
       "action": "create",
       "existing_path": null,
       "part": "part1",
@@ -295,7 +294,8 @@
       "related_existing_slugs": [
         "organizations/taiwanese-american-historical-society"
       ],
-      "notes": "寶爾博物館董事長"
+      "notes": "寶爾博物館董事長",
+      "priority": "B"
     },
     {
       "slug": "wang-neng-xiang",
@@ -303,7 +303,6 @@
       "en": "Wang Neng-xiang",
       "role": "Elder, religious leader",
       "kind": "subject",
-      "tier": "B",
       "action": "create",
       "existing_path": null,
       "part": "part1",
@@ -320,7 +319,8 @@
       "related_existing_slugs": [
         "organizations/taiwanese-american-historical-society"
       ],
-      "notes": "心繫台灣、老驥扶櫪; 長老; shortest profile (66 lines)"
+      "notes": "心繫台灣、老驥扶櫪; 長老; shortest profile (66 lines)",
+      "priority": "B"
     },
     {
       "slug": "su-chun-huai",
@@ -328,7 +328,6 @@
       "en": "Su Chun-huai",
       "role": "Father of Lisa Su",
       "kind": "subject",
-      "tier": "B",
       "action": "create",
       "existing_path": null,
       "part": "part2",
@@ -345,7 +344,8 @@
       "related_existing_slugs": [
         "organizations/taiwanese-american-historical-society"
       ],
-      "notes": "虎爸談虎女; 以女蘇姿豐為榮"
+      "notes": "虎爸談虎女; 以女蘇姿豐為榮",
+      "priority": "B"
     },
     {
       "slug": "sam-chang",
@@ -353,7 +353,6 @@
       "en": "Sam Chang",
       "role": "Hotel developer",
       "kind": "subject",
-      "tier": "B",
       "action": "create",
       "existing_path": null,
       "part": "part2",
@@ -372,7 +371,8 @@
       "related_existing_slugs": [
         "organizations/taiwanese-american-historical-society"
       ],
-      "notes": "旅館開發大王; 紐約台裔"
+      "notes": "旅館開發大王; 紐約台裔",
+      "priority": "B"
     },
     {
       "slug": "ho-chie-tsai",
@@ -380,7 +380,6 @@
       "en": "Dr. Ho Chie Tsai",
       "role": "Physician, founder TaiwaneseAmerican.org",
       "kind": "subject",
-      "tier": "B",
       "action": "create",
       "existing_path": null,
       "part": "part2",
@@ -399,7 +398,8 @@
       "related_existing_slugs": [
         "organizations/taiwanese-american-historical-society"
       ],
-      "notes": "TaiwaneseAmerican.org創辦人"
+      "notes": "TaiwaneseAmerican.org創辦人",
+      "priority": "B"
     },
     {
       "slug": "martha-vandriel",
@@ -407,7 +407,6 @@
       "en": "Martha S.H. VanDriel",
       "role": "Colonel, U.S. Army",
       "kind": "subject",
-      "tier": "B",
       "action": "create",
       "existing_path": null,
       "part": "part2",
@@ -424,7 +423,8 @@
       "related_existing_slugs": [
         "organizations/taiwanese-american-historical-society"
       ],
-      "notes": "Self-profile; Colonel"
+      "notes": "Self-profile; Colonel",
+      "priority": "B"
     },
     {
       "slug": "jack-j-chen",
@@ -432,7 +432,6 @@
       "en": "Jack J. Chen",
       "role": "Clinical Pharmacist PhD",
       "kind": "subject",
-      "tier": "B",
       "action": "create",
       "existing_path": null,
       "part": "part2",
@@ -449,7 +448,8 @@
       "related_existing_slugs": [
         "organizations/taiwanese-american-historical-society"
       ],
-      "notes": "臨床藥學博士; self-profile"
+      "notes": "臨床藥學博士; self-profile",
+      "priority": "B"
     },
     {
       "slug": "katherine-huang",
@@ -457,7 +457,6 @@
       "en": "Katherine Huang",
       "role": "Attorney",
       "kind": "subject",
-      "tier": "B",
       "action": "create",
       "existing_path": null,
       "part": "part2",
@@ -474,7 +473,8 @@
       "related_existing_slugs": [
         "organizations/taiwanese-american-historical-society"
       ],
-      "notes": "律師; self-profile"
+      "notes": "律師; self-profile",
+      "priority": "B"
     },
     {
       "slug": "bob-j-wu",
@@ -482,7 +482,6 @@
       "en": "Bob J. Wu",
       "role": "Surgical physician",
       "kind": "subject",
-      "tier": "B",
       "action": "create",
       "existing_path": null,
       "part": "part2",
@@ -499,7 +498,8 @@
       "related_existing_slugs": [
         "organizations/taiwanese-american-historical-society"
       ],
-      "notes": "外科醫學博士; self-profile"
+      "notes": "外科醫學博士; self-profile",
+      "priority": "B"
     },
     {
       "slug": "tiffany-huang",
@@ -507,7 +507,6 @@
       "en": "Tiffany Frances Huang",
       "role": "Filmmaker",
       "kind": "subject",
-      "tier": "B",
       "action": "create",
       "existing_path": null,
       "part": "part2",
@@ -524,7 +523,8 @@
       "related_existing_slugs": [
         "organizations/taiwanese-american-historical-society"
       ],
-      "notes": "拍攝微電影 Moment"
+      "notes": "拍攝微電影 Moment",
+      "priority": "B"
     },
     {
       "slug": "shawna-yang-ryan",
@@ -532,7 +532,6 @@
       "en": "Shawna Yang Ryan",
       "role": "Novelist",
       "kind": "subject",
-      "tier": "B",
       "action": "create",
       "existing_path": null,
       "part": "part2",
@@ -549,7 +548,8 @@
       "related_existing_slugs": [
         "organizations/taiwanese-american-historical-society"
       ],
-      "notes": "小說綠島; 2017 American Book Awards"
+      "notes": "小說綠島; 2017 American Book Awards",
+      "priority": "B"
     },
     {
       "slug": "franklin-ping-cheng",
@@ -557,7 +557,6 @@
       "en": "Franklin Ping Cheng",
       "role": "TAHS President 2014-2017",
       "kind": "subject",
-      "tier": "A",
       "action": "create",
       "existing_path": null,
       "part": "part2",
@@ -577,7 +576,8 @@
       "related_existing_slugs": [
         "organizations/taiwanese-american-historical-society"
       ],
-      "notes": "會長謝詞; president after founding president Charles Yang (楊嘉猷)"
+      "notes": "會長謝詞; president after founding president Charles Yang (楊嘉猷)",
+      "priority": "A"
     }
   ],
   "orgs": [

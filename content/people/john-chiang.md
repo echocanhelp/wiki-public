@@ -85,8 +85,8 @@ His childhood experience with racial discrimination shaped his worldview. He wit
 
 ## Source Notes and Confidence
 
-- **A-tier:** 2017 TAHS Publication (profile L1126–1412, Part 2, ~286 lines), written by 楊文顯
-- **A-tier:** Contains detailed biographical narrative including education, prosecutor career, State Controller election, Schwarzenegger dispute, and community support
+- **Content priority A:** 2017 TAHS Publication (profile L1126–1412, Part 2, ~286 lines), written by 楊文顯
+- **Content priority A:** Contains detailed biographical narrative including education, prosecutor career, State Controller election, Schwarzenegger dispute, and community support
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Note:** The full text includes detailed biographical information including family background, education, prosecutorial career, and political achievements.
 

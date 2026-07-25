@@ -201,7 +201,7 @@ These were beautiful, curated snapshots — but static. Once printed, they could
 **The 2017 yearbook's 22 profiles** have been migrated into Echopedia as living person pages. The 2023 yearbook's profiles will follow the same path. New community members can be added continuously — Echopedia is the yearbook that never stops growing.
 
 ## Source Notes and Confidence
-- **A-tier:** Founding details from 2017 TAHS Publication, 緣起與展望 essay by 周威霖 (Part 1)
+- **Content priority A:** Founding details from 2017 TAHS Publication, 緣起與展望 essay by 周威霖 (Part 1)
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Legal/tax:** IRS 501(c)(3) determination letter 2024-06-27 (EIN 46-4005384; public charity 170(b)(1)(A)(vi); effective exemption 2024-06-18); current c/o address filed by Leonard Hsu Jr. 2026-07-24
 - **Status:** Pending fuller verification — cross-reference California SOS when available

@@ -24,7 +24,7 @@ Primary Tier-2/Tier-1 source for 2017 TAHS profiles of first- and second-generat
 
 ## Coverage
 
-### A-tier people (pages)
+### Priority A people (pages)
 - [[people/yang-jia-you|楊嘉猷 (Charles Yang)]] — Founding President, TAHS
 - [[people/liao-shu-zong|廖述宗]] — Biochemist, NATPA founder, UC Chicago professor
 - [[people/yang-xin|楊信]] — Former government advisor, entrepreneur
@@ -33,7 +33,7 @@ Primary Tier-2/Tier-1 source for 2017 TAHS profiles of first- and second-generat
 - [[people/john-chiang|江俊輝 (John Chiang)]] — California State Controller
 - [[people/franklin-ping-cheng|Franklin Ping Cheng]] — TAHS President 2014–2017
 
-### B-tier people (pages)
+### Priority B people (pages)
 - [[people/lin-fu-kun|林福坤 (Lin Fu-kun)]] — Biotech entrepreneur (Amgen, EPO/Epogen)
 - [[people/hsu-hsin-hung|徐新宏 (Hsu Hsin-hung)]] — 加州佳和企業集團董事長兼總裁
 - [[people/lin-yuan-ching|林元清 (Lin Yuan-qing)]] — Physician, 集集小孩
@@ -50,7 +50,7 @@ Primary Tier-2/Tier-1 source for 2017 TAHS profiles of first- and second-generat
 - [[people/tiffany-huang|黃咏婷 (Tiffany Huang)]] — Filmmaker
 - [[people/shawna-yang-ryan|楊小娜 (Shawna Yang Ryan)]] — Novelist, 2017 American Book Awards
 
-### C-tier / bylines (no page)
+### Priority C / bylines (no page)
 黃樹人, 廖清山, 周威廉, 周威霖, 楊文顯, Edda Huang, 鄭炳全, 楊遠薰, 陳婉真, 曾恆利, 賴慧娜, 台美人歷史協會 整理
 
 ### Institutions mentioned
@@ -69,7 +69,7 @@ Primary Tier-2/Tier-1 source for 2017 TAHS profiles of first- and second-generat
 - Section map: `knowledge/research/2017-tahs-publication-sections.md`
 
 ## Source Notes and Confidence
-- **A-tier:** Named roles, dated claims, and biographical facts printed in publication
+- **Content priority A:** Named roles, dated claims, and biographical facts printed in publication
 - **Layout:** Two-column `pdftotext` extraction — long prose not fully reconstructed; fact bullets only
 - **Self-profiles** (Martha VanDriel, 陳宏傑, 黃愷怡, 吳瑞椿): higher factual reliability for personal details
 - **Living persons:** default `verification_status: pending` — needs steward review

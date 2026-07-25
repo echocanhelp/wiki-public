@@ -39,7 +39,7 @@ Despite his physical challenges, Zheng approached life with optimism. He reflect
 
 ## Source Notes and Confidence
 
-- **A-tier:** 2023 TAHS Publication (profile, Part 1, ~39 lines), written by 鄭炳全
+- **Content priority A:** 2023 TAHS Publication (profile, Part 1, ~39 lines), written by 鄭炳全
 - **Hub:** [[sources/2023-tahs-publication|2023 TAHS Publication]]
 - **Note:** The profile includes details about his pharmacy work, radio program, and philosophy on disability.
 

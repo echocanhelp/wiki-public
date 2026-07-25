@@ -37,7 +37,7 @@ Through his art and community involvement, Wang has helped to preserve and share
 
 ## Source Notes and Confidence
 
-- **A-tier:** 2023 TAHS Publication (profile, Section 1, ~649 lines), written by 鄭炳全
+- **Content priority A:** 2023 TAHS Publication (profile, Section 1, ~649 lines), written by 鄭炳全
 - **Hub:** [[sources/2023-tahs-publication|2023 TAHS Publication]]
 - **Archive:** `knowledge/web-archives/2023-tahs-publication-part1.md`
 - **Note:** The profile includes details about his artistic and cultural contributions.

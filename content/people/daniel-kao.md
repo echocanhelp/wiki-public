@@ -30,8 +30,8 @@ In the 2025 Self-Preface to [[sources/toward-a-community-of-hope|Toward A Commun
 
 ## Source Notes and Confidence
 
-- **A-tier:** Named as co-founder couple in Lai Self-Preface (2025 republication of 1971 dissertation context)
-- **C-tier:** Detailed biography (education, career, later life) — not in current source set
+- **Content priority A:** Named as co-founder couple in Lai Self-Preface (2025 republication of 1971 dissertation context)
+- **Content priority C:** Detailed biography (education, career, later life) — not in current source set
 
 ## Name Variants / Disambiguation
 

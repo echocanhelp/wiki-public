@@ -40,7 +40,7 @@ last_reviewed: 2026-07-22
 - Listed separately from 周威廉 (Zhou Weiliang), who also served as an editor/compiler and wrote the 緣起與展望 founding essay. Both names appear in the 2017 publication's editor list; they are distinct individuals. See also [[people/zhou-wei-liang|周威廉 (Zhou Weiliang)]] — the other Zhou who wrote the 緣起與展望 founding essay and compiled the Sam Chang profile.
 
 ## Sources
-- **A-tier:** 2017 TAHS Publication (台美菁英錄), multiple profiles
+- **Content priority A:** 2017 TAHS Publication (台美菁英錄), multiple profiles
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Related:** [[organizations/taiwanese-american-historical-society|TAHS]], [[people/yang-jia-you|楊嘉猷 (Charles Yang)]]
 

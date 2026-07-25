@@ -41,7 +41,7 @@ Yang Huiqiao's dedication to Taiwan independence has inspired generations of Tai
 
 ## Source Notes and Confidence
 
-- **B-tier:** 2023 TAHS Publication (profile, Section 3, ~2720 lines)
+- **Content priority B:** 2023 TAHS Publication (profile, Section 3, ~2720 lines)
 - **Hub:** [[sources/2023-tahs-publication|2023 TAHS Publication]]
 - **Archive:** `knowledge/web-archives/2023-tahs-publication-part2.md`
 

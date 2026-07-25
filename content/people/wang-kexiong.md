@@ -71,7 +71,7 @@ Wang has publicly demanded that the Chinese Nationalist Party (KMT) fulfill four
 4. Conversion of the Chiang Kai-shek Memorial Hall into a Taiwan Martyrs' Shrine honoring 228 victims, White Terror victims, and future defenders of Taiwan.
 
 ## Source Notes and Confidence
-- **A-tier:** 2023 TAHS Publication (profile, "典範‧傷逝" section, ~2720 lines)
+- **Content priority A:** 2023 TAHS Publication (profile, "典範‧傷逝" section, ~2720 lines)
 - **Hub:** [[sources/2023-tahs-publication|2023 TAHS Publication]]
 - **Archive:** Section dump at `knowledge/research/tahs-2023-section-dumps/ye-siya-zhang-xinhui-xu-zongbang-li-mutong-chen-wenxue-wang-kexiong-...txt` (lines 2452–2719)
 - Layout-limited extraction; not a full translation

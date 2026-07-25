@@ -39,7 +39,7 @@ last_reviewed: 2026-07-17
 - He was described as the hardest-working member at UFAI activities: providing artwork for charity auctions, assisting Taiwanese American organizations with events, drawing cartoons and designing covers for their publications
 
 ## Source Notes and Confidence
-- **A-tier:** 2017 TAHS Publication profile "用畫筆搞台獨的黃根深教授" (Part 2, L667–843), by 陳婉真
+- **Content priority A:** 2017 TAHS Publication profile "用畫筆搞台獨的黃根深教授" (Part 2, L667–843), by 陳婉真
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Archive:** Part 2, lines 667–843
 - Layout-limited extraction; not a full translation

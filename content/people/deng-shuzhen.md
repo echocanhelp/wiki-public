@@ -48,9 +48,9 @@ Elder Deng Shuzhen (鄧淑貞長老) appears as a recurring and pastoral-care-si
 
 ## Source Notes and Confidence
 ### Source Confidence Legend
-- A-tier: direct quotations or primary-source textual attributions from currently attached source set.
-- B-tier: near-contemporary attributed references or secondary materials closely tied to events/person.
-- C-tier: compiled contextual interpretation layers requiring further primary-source confirmation.
+- Source confidence A: direct quotations or primary-source textual attributions from currently attached source set.
+- Source confidence B: near-contemporary attributed references or secondary materials closely tied to events/person.
+- Source confidence C: compiled contextual interpretation layers requiring further primary-source confirmation.
 
 - High confidence: repeated named appearance across 86 bulletin pages.
 - Medium confidence: inferred role continuity from recurring prayer/care contexts.

@@ -21,9 +21,9 @@ last_reviewed: 2026-07-16
 
 ## Source Notes
 
-- **A-tier:** Name on Taiwan Center group-members page  
+- **Content priority A:** Name on Taiwan Center group-members page  
 - **Hub:** [[sources/taiwancenter-org|taiwancenter.org]]  
-- **C-tier:** Independent history not expanded from listing alone  
+- **Content priority C:** Independent history not expanded from listing alone  
 
 ## Related Pages
 

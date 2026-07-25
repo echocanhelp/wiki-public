@@ -22,9 +22,9 @@ last_reviewed: 2026-07-16
 
 ## Source Notes
 
-- **A-tier:** Named on Taiwan Center class-information page (`taiwancenter-org-class-information.md`)
+- **Content priority A:** Named on Taiwan Center class-information page (`taiwancenter-org-class-information.md`)
 - **Hub:** [[sources/taiwancenter-org|taiwancenter.org]]
-- **C-tier:** Full biography not published on site
+- **Content priority C:** Full biography not published on site
 
 ## Related Pages
 

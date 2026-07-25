@@ -88,8 +88,8 @@ Peng Ming-min died on April 8, 2022. A memorial tribute was written by 楊嘉猷
 
 ## Source Notes and Confidence
 
-- **A-tier:** 2023 TAHS Publication (profile, Part 1, ~58 lines), written by 楊嘐猷 (Charles Yang)
-- **A-tier:** Contains extensive biographical narrative from birth through escape, academic career, DPP founding, and 2000 presidential campaign
+- **Content priority A:** 2023 TAHS Publication (profile, Part 1, ~58 lines), written by 楊嘐猷 (Charles Yang)
+- **Content priority A:** Contains extensive biographical narrative from birth through escape, academic career, DPP founding, and 2000 presidential campaign
 - **Hub:** [[sources/2023-tahs-publication|2023 TAHS Publication]]
 - **Note:** The full text includes detailed biographical information including the 1964 Self-Salvation Movement, escape to Sweden, academic career at University of Michigan, DPP founding, and presidential campaign
 

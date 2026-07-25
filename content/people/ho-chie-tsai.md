@@ -45,8 +45,8 @@ Ho Chie is a **board-certified pediatrician** on staff at the **UCSF Benioff Chi
 
 ## Source Notes and Confidence
 
-- **A-tier:** 2017 TAHS Publication (profile Part 2, ~130 lines), written by 楊遠薰
-- **A-tier:** Contains biographical narrative including professional career and community involvement
+- **Content priority A:** 2017 TAHS Publication (profile Part 2, ~130 lines), written by 楊遠薰
+- **Content priority A:** Contains biographical narrative including professional career and community involvement
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Note:** The full text includes detailed biographical information including education, professional career, and community involvement.
 

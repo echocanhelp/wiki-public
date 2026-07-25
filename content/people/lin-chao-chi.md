@@ -35,7 +35,7 @@ As the third uncle (三舅) of 廖述宗, Lin Chao-chi was part of the extended 
 
 ## Source Notes and Confidence
 
-- **A-tier:** Memorial by 楊嘉猷 (Charles Yang), Part 2, L25–26 — mentions 林朝棨 as famous geologist who discovered 十三行遺址 (Shihping site)
+- **Content priority A:** Memorial by 楊嘉猷 (Charles Yang), Part 2, L25–26 — mentions 林朝棨 as famous geologist who discovered 十三行遺址 (Shihping site)
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 
 ## Related Pages

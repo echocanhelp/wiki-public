@@ -56,7 +56,7 @@ As a third-generation Taiwanese American, Ethan represents the evolving identity
 
 ## Source Notes and Confidence
 
-- **B-tier:** 2023 TAHS Publication (profile, Section 3, ~937 lines)
+- **Content priority B:** 2023 TAHS Publication (profile, Section 3, ~937 lines)
 - **Hub:** [[sources/2023-tahs-publication|2023 TAHS Publication]]
 - **Archive:** `knowledge/web-archives/2023-tahs-publication-part2.md`
 

@@ -74,8 +74,8 @@ Wang Neng-xiang is now in his eighties and still in excellent health. In additio
 
 ## Source Notes and Confidence
 
-- **A-tier:** 2017 TAHS Publication (profile Part 1, ~66 lines), co-authored by 楊嘉猷 and 周威霖
-- **A-tier:** Contains biographical narrative including education, CPA career, and decades of Taiwan democracy advocacy
+- **Content priority A:** 2017 TAHS Publication (profile Part 1, ~66 lines), co-authored by 楊嘉猷 and 周威霖
+- **Content priority A:** Contains biographical narrative including education, CPA career, and decades of Taiwan democracy advocacy
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Note:** The full text includes detailed biographical information including family background, education, and decades of advocacy work.
 

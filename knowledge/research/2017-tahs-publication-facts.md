@@ -1,6 +1,6 @@
 # 2017 TAHS Publication — Fact Sheet Coverage Matrix
 
-| slug | tier | action | #facts | existing_path | residual |
+|| slug | priority | action | #facts | existing_path | residual |
 |------|------|--------|--------|---------------|----------|
 | yang-jia-you | A | create | 5 | — | founding president essay, 創會會長 |
 | liao-shu-zong | A | create | 5 | — | 2 sections (profile + memorial), NATPA founder, 1931 born |
@@ -25,7 +25,7 @@
 | tiffany-huang | B | create | 5 | — | 微電影 Moment, self-profile |
 | shawna-yang-ryan | B | create | 5 | — | 小說綠島, 2017 American Book Awards |
 
-## Bylines (C-tier, list only — no pages)
+## Bylines (Priority C, list only — no pages)
 黃樹人, 廖清山, 周威廉, 周威霖, 楊文顯, Edda Huang, 鄭炳全, 楊遠薰, 陳婉真, 曾恆利, 賴慧娜, 台美人歷史協會 整理
 
 ## Institutions
@@ -37,7 +37,7 @@ donors_2015_2016 → source hub summary only
 
 ## GATE 3 CHECKLIST
 - [x] JSON parses (22 people, 7 orgs, 12 bylines, 2 lists)
-- [x] Every profile subject has an entry with tier + action
+- [x] Every profile subject has an entry with priority + action
 - [x] Bylines marked list_only, kind=byline
 - [x] Alan Thian action=expand, existing_path set
 - [x] TAHS org flagged for expansion

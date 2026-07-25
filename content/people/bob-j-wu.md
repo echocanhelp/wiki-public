@@ -73,8 +73,8 @@ Wu's personal American dream has come full circle. He works in the same neighbor
 
 ## Source Notes and Confidence
 
-- **A-tier:** 2017 TAHS Publication (self-authored "Brief Biography"), Part 2, ~71 lines
-- **A-tier:** Contains detailed biographical narrative including early life, education, medical training, and community practice
+- **Content priority A:** 2017 TAHS Publication (self-authored "Brief Biography"), Part 2, ~71 lines
+- **Content priority A:** Contains detailed biographical narrative including early life, education, medical training, and community practice
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Note:** The full text includes detailed biographical information including family background, education, and practice details.
 

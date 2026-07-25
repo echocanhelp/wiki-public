@@ -28,9 +28,9 @@
 ### Entity coverage
 | Class | Expected | On disk | Notes |
 |-------|----------|---------|-------|
-| Profile subjects | 22 | **21 pages** | **MISSING: `franklin-ping-cheng`** (A-tier, 會長謝詞) |
+| Profile subjects | 22 | **21 pages** | **MISSING: `franklin-ping-cheng`** (Priority A, 會長謝詞) |
 | Dense extras | 黃根深 | Present (rich ~3.7KB) | Gap-fill succeeded here |
-| Bylines C-tier | 12 | list-only | Correct (no pages) |
+| Bylines Priority C | 12 | list-only | Correct (no pages) |
 | Primary org | TAHS | Expanded | OK |
 
 ### Depth (body size) — the real failure
@@ -52,7 +52,7 @@
 | Martha VanDriel | part2 L1776–1925 (**~150 lines**) | ~698 chars stub |
 | 楊小娜 | part2 L2207–2447 (**~241 lines**) | ~715 chars stub |
 
-Hub B-tier list is **all plain text** (no `[[people/...]]`) even when pages exist → graph/discoverability fail.
+Hub Priority B list is **all plain text** (no `[[people/...]]`) even when pages exist → graph/discoverability fail.
 
 ---
 
@@ -69,11 +69,11 @@ Publication playbook correctly forbids pasting interleaved prose, but never requ
 ### 3. No depth gate before COMPLETE
 Postmortem counted "pages created" (22) not **absorption quality**. Completeness matrix used presence, not density.
 
-### 4. Missing A-tier page
+### 4. Missing Priority A page
 `franklin-ping-cheng` still **MISSING** despite facts.json entry and 會長謝詞 on TAHS org.
 
 ### 5. Hub hygiene incomplete
-B-tier not wikilinked; 黃根深 not listed in hub A/B sections.
+Priority B not wikilinked; 黃根深 not listed in hub A/B sections.
 
 ### 6. What already worked (do not redo)
 - Subject ≠ byline
@@ -95,7 +95,7 @@ Before `STATUS: COMPLETE` on a multi-entity yearbook:
    - source section **&lt; 80 lines** → ≥ **6** clean facts on page  
    - **80–200 lines** → ≥ **10** clean facts  
    - **&gt; 200 lines** → ≥ **15** clean facts **or** explicit multi-section page (Overview + Career/Legacy)  
-3. **Missing pages = 0** for all A-tier + all B-tier marked `action=create`.  
+3. **Missing pages = 0** for all Priority A + all Priority B marked `action=create`.  
 4. **Source hub** wikilinks every created person/org page.  
 5. **Primary org** holds founding + activities + publication pointer.  
 6. Residual long prose may stay in archive **only if** page meets depth floor and residual is noted.

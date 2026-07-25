@@ -87,8 +87,8 @@ Martha VanDriel's story is remarkable for several reasons:
 
 ## Source Notes and Confidence
 
-- **A-tier:** 2017 TAHS Publication (profile Part 2, ~150 lines), self-authored profile with editor's note
-- **A-tier:** Contains detailed biographical narrative including early life, West Point, military career, and retirement
+- **Content priority A:** 2017 TAHS Publication (profile Part 2, ~150 lines), self-authored profile with editor's note
+- **Content priority A:** Contains detailed biographical narrative including early life, West Point, military career, and retirement
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Note:** The full text includes detailed biographical information including family background, education, and military career.
 

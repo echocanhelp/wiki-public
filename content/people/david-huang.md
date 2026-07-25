@@ -27,14 +27,14 @@ last_reviewed: 2026-07-08
 - Context: NTPC continuity from commemoration to structured archival work
 - Source: Republication Voices and Testaments (2025)
 - Source pointer: `/tmp/albert_lai_english.txt` around line 157
-- Source tier: A-tier (direct quotation)
+- Source confidence A (direct quotation)
 
 ### Testament 2 (Attributed Summary)
 His role is situated within a wider effort to preserve five decades of Taiwanese American Presbyterian history and witness.
 - Date/Period: 2024–2025
 - Context: institutional preservation narrative
 - Source: toward-a-community-of-hope cluster pages
-- Source tier: C-tier (current compiled contextual layer)
+- Source confidence C (current compiled contextual layer)
 
 ## Historical Context
 Rev. Huang’s documented placement in the transition year helps trace how NTPC moved from anniversary remembrance to ongoing historical governance.
@@ -46,9 +46,9 @@ Rev. Huang’s documented placement in the transition year helps trace how NTPC 
 ## Source Notes and Confidence
 
 ### Source Confidence Legend
-- A-tier: direct quotations or primary-source textual attributions from the currently attached source set.
-- B-tier: near-contemporary attributed references or secondary materials closely tied to the event/person.
-- C-tier: compiled contextual interpretation layers that require further primary-source confirmation.
+- Source confidence A: direct quotations or primary-source textual attributions from the currently attached source set.
+- Source confidence B: near-contemporary attributed references or secondary materials closely tied to the event/person.
+- Source confidence C: compiled contextual interpretation layers that require further primary-source confirmation.
 
 - High confidence: direct quoted mention of named role in 2024 commemorative editorial context (A)
 - Medium confidence: preservation impact interpretation (C)

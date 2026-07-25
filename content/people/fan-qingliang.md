@@ -44,7 +44,7 @@ Fan Qingliang's entrepreneurial journey from rabbit farming to biotechnology rep
 
 ## Source Notes and Confidence
 
-- **B-tier:** 2023 TAHS Publication (profile, Section 3, ~2760 lines)
+- **Content priority B:** 2023 TAHS Publication (profile, Section 3, ~2760 lines)
 - **Hub:** [[sources/2023-tahs-publication|2023 TAHS Publication]]
 - **Archive:** `knowledge/web-archives/2023-tahs-publication-part2.md`
 

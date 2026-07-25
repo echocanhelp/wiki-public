@@ -31,7 +31,7 @@ His inclusion suggests intergenerational reliance on influential theological voi
 - Date/Period: retrospective framing
 - Context: interpretive contextualization
 - Source: source-cluster synthesis
-- Source tier: C-tier
+- Source confidence C
 
 ## Historical Context
 In this cluster, Dr. Chow functions as a reference point in theological lineage rather than as a primary narrator of NTPC institutional events.
@@ -43,9 +43,9 @@ In this cluster, Dr. Chow functions as a reference point in theological lineage 
 ## Source Notes and Confidence
 
 ### Source Confidence Legend
-- A-tier: direct quotations or primary-source textual attributions from the currently attached source set.
-- B-tier: near-contemporary attributed references or secondary materials closely tied to the event/person.
-- C-tier: compiled contextual interpretation layers that require further primary-source confirmation.
+- Source confidence A: direct quotations or primary-source textual attributions from the currently attached source set.
+- Source confidence B: near-contemporary attributed references or secondary materials closely tied to the event/person.
+- Source confidence C: compiled contextual interpretation layers that require further primary-source confirmation.
 
 - Medium confidence: named presence in republication-linked references (C)
 - Needs verification: direct citations from authored works or interviews in this cluster

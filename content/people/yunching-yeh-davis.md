@@ -40,8 +40,8 @@ Key themes:
 
 ## Source Notes and Confidence
 
-- **A-tier:** NTPC Moderator role; foreword authorship and themes
-- **C-tier:** Expanded personal biography
+- **Content priority A:** NTPC Moderator role; foreword authorship and themes
+- **Content priority C:** Expanded personal biography
 
 ## Name Variants / Disambiguation
 

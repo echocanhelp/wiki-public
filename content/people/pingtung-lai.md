@@ -34,7 +34,7 @@ last_reviewed: 2026-07-15
 
 ## Source Notes and Confidence
 
-- **A-tier:** Name, TTCS years, three-stage structure, Beigang/UBS/Good Friend, Barclay funeral 1935 student-council role (Albert Self-Preface)
+- **Content priority A:** Name, TTCS years, three-stage structure, Beigang/UBS/Good Friend, Barclay funeral 1935 student-council role (Albert Self-Preface)
 - **Needs verification:** Exact birth/death dates
 
 ## Name Variants / Disambiguation

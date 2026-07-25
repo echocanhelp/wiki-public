@@ -40,12 +40,12 @@ From Dr. Albert S. Lai's 1971 dissertation:
 
 ### Taiyou Church (太陽教會) Context
 
-Later republication materials and wiki narrative also associate Chang with an earlier **Taiyou Church (太陽教會)** experimental effort (c. 1967) using Japanese Methodist facilities — treat as **B-tier** context pending fuller primary citation in the archive chunks.
+Later republication materials and wiki narrative also associate Chang with an earlier **Taiyou Church (太陽教會)** experimental effort (c. 1967) using Japanese Methodist facilities — treat as **content priority B** context pending fuller primary citation in the archive chunks.
 
 ## Source Notes and Confidence
 
-- **A-tier:** Aug 1970 experiment; Aug 9, 1970 first worship attendance; Fresno UMC; former Formosan Presbyterian minister; catalyst for permanent organization (Lai dissertation Ch IV)
-- **B-tier:** Taiyou Church 1967 narrative
+- **Content priority A:** Aug 1970 experiment; Aug 9, 1970 first worship attendance; Fresno UMC; former Formosan Presbyterian minister; catalyst for permanent organization (Lai dissertation Ch IV)
+- **Content priority B:** Taiyou Church 1967 narrative
 - **Needs verification:** Full bio dates, later career, Chinese name characters confirmation
 
 ## Name Variants / Disambiguation

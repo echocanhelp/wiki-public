@@ -43,8 +43,8 @@ The family ran a stationery shop called "文藝社" (Wenyi She) at home. Lin Qio
 
 ## Source Notes and Confidence
 
-- **A-tier:** 2017 TAHS Publication 生命的執著 (The Persistence of Life) — Liao Shu-zong profile, Part 2, mentions of mother
-- **A-tier:** Memorial by 楊嘉猷 (Charles Yang), Part 2, L22–23 — mentions 林瓊仙 as from 清水 (Qingshui), same hometown as Yang family
+- **Content priority A:** 2017 TAHS Publication 生命的執著 (The Persistence of Life) — Liao Shu-zong profile, Part 2, mentions of mother
+- **Content priority A:** Memorial by 楊嘉猷 (Charles Yang), Part 2, L22–23 — mentions 林瓊仙 as from 清水 (Qingshui), same hometown as Yang family
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 
 ## Related Pages

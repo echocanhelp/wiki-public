@@ -30,14 +30,14 @@ According to [[people/albert-s-lai|Dr. Albert S. Lai]]'s 1971 dissertation [[sou
 
 - With financial assistance from the Synod Office of Southern California and National Missions, **Rev. Dr. Charles C.L. Kao** was called in **September 1971** by the Presbytery of Los Angeles Southwest as the Formosan congregation's organizing minister.
 - He was a **native Formosan**, former **Assistant Professor at Tainan Theological College**, and before accepting the call was a **Visiting Scholar at Harvard University**.
-- Related secondary narrative on the Albert S. Lai page also connects him to TTCS training under the era of President Shoki Coe and to teaching at TTCS while Lai was a student — treat detailed TTCS biography as **B-tier** pending additional primary sources.
+- Related secondary narrative on the Albert S. Lai page also connects him to TTCS training under the era of President Shoki Coe and to teaching at TTCS while Lai was a student — treat detailed TTCS biography as **content priority B** pending additional primary sources.
 
 **Disambiguation:** Co-founder [[people/daniel-kao|Dr. Daniel Kao (高光民)]] is a different person. Do not merge Charles C.L. Kao with Daniel Kao.
 
 ## Source Notes and Confidence
 
-- **A-tier:** Organizing minister call (Sep 1971); Harvard Visiting Scholar; former TTCS Assistant Professor; Presbytery call (Lai dissertation Ch IV)
-- **B-tier:** Extended TTCS student/teaching narrative from later republication framing
+- **Content priority A:** Organizing minister call (Sep 1971); Harvard Visiting Scholar; former TTCS Assistant Professor; Presbytery call (Lai dissertation Ch IV)
+- **Content priority B:** Extended TTCS student/teaching narrative from later republication framing
 - **Needs verification:** Full Chinese name characters beyond 高昭龍, birth year 1932 claim, exact romanization preference
 
 ## Name Variants / Disambiguation

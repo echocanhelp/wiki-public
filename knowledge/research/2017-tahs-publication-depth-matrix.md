@@ -42,13 +42,13 @@
 | T1 | Create missing page | content/people/franklin-ping-cheng.md (3,484B) |
 | T2-P0 | Deepen from section dumps | wang-gui-rong.md (9,743B), lin-fu-kun.md (12,216B) |
 | T2-P1 | Deepen from section dumps | hsu-hsin-hung.md (7,490B), lin-yuan-ching.md (17,457B) |
-| T3 | Fix hub wikilinks | content/sources/2017-tahs-publication.md (14 B-tier links added) |
+| T3 | Fix hub wikilinks | content/sources/2017-tahs-publication.md (14 Priority B links added) |
 | T4 | This depth matrix | knowledge/research/2017-tahs-publication-depth-matrix.md |
 
 ## Notes
 - All touched pages marked `featured: true` for visibility
 - All touched pages have `verification_status: pending`
-- Hub links now include all 14 B-tier people with proper `[[people/...]]` syntax
+- Hub links now include all 14 Priority B people with proper `[[people/...]]` syntax
 - Franklin Ping Cheng was missing entirely before T1
 - 4 people still have thin pages (yang-xin, liao-shu-zong, shawna-yang-ryan, john-chiang) — these are long sections that need additional deepen passes
 
@@ -66,7 +66,7 @@
 - `content/people/lin-fu-kun.md` (12,216B, deepened from ~970B stub)
 - `content/people/hsu-hsin-hung.md` (7,490B, deepened from ~1,009B stub)
 - `content/people/lin-yuan-ching.md` (17,457B, deepened from ~1,047B stub)
-- `content/sources/2017-tahs-publication.md` (14 B-tier wikilinks added)
+- `content/sources/2017-tahs-publication.md` (14 Priority B wikilinks added)
 
 ## Not Modified (need future deepen)
 - NONE — all 4 previously-flagged pages were deepened in the July 19 depth pass:
@@ -83,7 +83,7 @@
 ## GATE 1 (Wiki Depth)
 - 4 pages deepened from stubs (>5x size increase)
 - 1 missing page created
-- 14 B-tier hub wikilinks fixed
+- 14 Priority B hub wikilinks fixed
 - Total touched content: 50390B
 
 ## Commit Recommendation

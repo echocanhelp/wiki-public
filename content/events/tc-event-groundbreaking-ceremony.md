@@ -19,7 +19,7 @@ last_reviewed: 2026-07-16
 
 ## Source Notes
 
-- **A-tier:** Official event page archive `taiwancenter-org-event-groundbreaking-ceremony.md`
+- **Content priority A:** Official event page archive `taiwancenter-org-event-groundbreaking-ceremony.md`
 - **Hub:** [[sources/taiwancenter-org|taiwancenter.org]]
 
 ## Related Pages

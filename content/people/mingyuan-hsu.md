@@ -78,9 +78,9 @@ Rev. Hsu is currently represented in this cluster through republication-era memo
 
 ### Source Confidence Legend
 
-- A-tier: direct quotations or primary-source textual attributions from the currently attached source set.
-- B-tier: near-contemporary attributed references or secondary materials closely tied to the event/person.
-- C-tier: compiled contextual interpretation layers that require further primary-source confirmation.
+- Source confidence A: direct quotations or primary-source textual attributions from the currently attached source set.
+- Source confidence B: near-contemporary attributed references or secondary materials closely tied to the event/person.
+- Source confidence C: compiled contextual interpretation layers that require further primary-source confirmation.
 
 - High confidence: named presence in republication context (C-supported)
 - Medium confidence: exact scope of roles in inter-church collaboration

@@ -156,8 +156,8 @@ He describes his life as having always been blessed by "noble people" (貴人) w
 
 ## Source Notes and Confidence
 
-- **A-tier:** 2017 TAHS Publication 行政院政務顧問楊信的創業故事 (The Entrepreneurship Story of State Advisor Yang Hsin), Part 1, L290–884 (~594 lines), written by 黃樹人
-- **A-tier:** Contains extensive biographical narrative from birth through Seville Classics, chamber of commerce leadership, and TPP advocacy
+- **Content priority A:** 2017 TAHS Publication 行政院政務顧問楊信的創業故事 (The Entrepreneurship Story of State Advisor Yang Hsin), Part 1, L290–884 (~594 lines), written by 黃樹人
+- **Content priority A:** Contains extensive biographical narrative from birth through Seville Classics, chamber of commerce leadership, and TPP advocacy
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Note:** The full text includes detailed biographical information including family background, early work experiences, seat cushion invention, business growth, chamber of commerce activities, and community leadership.
 

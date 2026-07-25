@@ -41,7 +41,7 @@ Cai Jinrong's story represents the broader narrative of Taiwanese immigration to
 
 ## Source Notes and Confidence
 
-- **B-tier:** 2023 TAHS Publication (profile, Section 3, ~2720 lines)
+- **Content priority B:** 2023 TAHS Publication (profile, Section 3, ~2720 lines)
 - **Hub:** [[sources/2023-tahs-publication|2023 TAHS Publication]]
 - **Archive:** `knowledge/web-archives/2023-tahs-publication-part2.md`
 

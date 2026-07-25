@@ -28,8 +28,8 @@ In the 2025 Self-Preface to [[sources/toward-a-community-of-hope|Toward A Commun
 
 ## Source Notes and Confidence
 
-- **A-tier:** Named as co-founder couple in Lai Self-Preface
-- **C-tier:** Expanded biography — not in current source set
+- **Content priority A:** Named as co-founder couple in Lai Self-Preface
+- **Content priority C:** Expanded biography — not in current source set
 
 ## Name Variants / Disambiguation
 

@@ -107,8 +107,8 @@ The 2017 TAHS publication describes his story as one that "gives hope to Taiwane
 
 ## Source Notes and Confidence
 
-- **A-tier:** 2017 TAHS Publication 生技巨人林福坤的故事 (The Story of Biotech Giant Lin Fu-kun), Part 1, L1020–1404 (~380 lines), written by 楊文顯
-- **A-tier:** Contains detailed biographical narrative from birth through Amgen career, including the EPO discovery timeline
+- **Content priority A:** 2017 TAHS Publication 生技巨人林福坤的故事 (The Story of Biotech Giant Lin Fu-kun), Part 1, L1020–1404 (~380 lines), written by 楊文顯
+- **Content priority A:** Contains detailed biographical narrative from birth through Amgen career, including the EPO discovery timeline
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Note:** The full text contains extensive biographical detail including family background, education timeline, research methodology, and the EPO competitive race narrative.
 

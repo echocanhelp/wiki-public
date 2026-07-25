@@ -7,11 +7,11 @@
 
 ## Audit Results
 
-### A-tier (2 people) — PASS
+### Priority A (2 people) — PASS
 - **Peng Ming-min** — 7,053 bytes, 15 facts, deep narrative ✅
 - **Zheng Bingquan** — 2,101 bytes, 15 facts, expanded with 2023 tag ✅
 
-### B-tier (17 people) — ALL PASS
+### Priority B (17 people) — ALL PASS
 - **Zheng Dazhi** — 2,420 bytes, 10 facts ✅
 - **Zheng Shaoliang** — 2,636 bytes, 10 facts ✅
 - **Wang Taihe** — 2,216 bytes, 10 facts ✅

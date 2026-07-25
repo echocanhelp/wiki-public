@@ -62,8 +62,8 @@ Su's story is emblematic of the second-generation Taiwanese American experience 
 
 ## Source Notes and Confidence
 
-- **A-tier:** 2017 TAHS Publication (profile L844–1027, Part 2, ~183 lines), written by 曾恆利
-- **A-tier:** Contains biographical narrative including education, IBM career, and AMD leadership
+- **Content priority A:** 2017 TAHS Publication (profile L844–1027, Part 2, ~183 lines), written by 曾恆利
+- **Content priority A:** Contains biographical narrative including education, IBM career, and AMD leadership
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Note:** The full text includes detailed biographical information including family background, education, and career trajectory.
 

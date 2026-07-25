@@ -71,8 +71,8 @@ She is proficient in Taiwanese, Mandarin, and Spanish, and has taught creative w
 
 ## Source Notes and Confidence
 
-- **A-tier:** 2017 TAHS Publication (profile Part 2, ~60 lines), with detailed editor's note
-- **A-tier:** Contains biographical narrative including education, clerkship, firm career, and TASA lawsuit
+- **Content priority A:** 2017 TAHS Publication (profile Part 2, ~60 lines), with detailed editor's note
+- **Content priority A:** Contains biographical narrative including education, clerkship, firm career, and TASA lawsuit
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Note:** The profile includes detailed biographical information including education, clerkship, and professional career.
 

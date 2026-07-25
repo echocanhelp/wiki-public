@@ -79,9 +79,9 @@ _(Optional — paste a short first-person intro anytime via LINE @Echo許.)_
 
 ## Source Notes and Confidence
 
-- **A-tier:** 2017 TAHS Publication (profile of Yang Hsin, Part 1, L290–884, ~594 lines), written by 黃樹人 himself
-- **A-tier:** Photography by 黃樹人 for Anne Shih's profile in the 2017 TAHS Publication
-- **B-tier:** T.A. Archives Who's Who profile (taiwaneseamericanhistory.org/person/freeman-huang)
+- **Content priority A:** 2017 TAHS Publication (profile of Yang Hsin, Part 1, L290–884, ~594 lines), written by 黃樹人 himself
+- **Content priority A:** Photography by 黃樹人 for Anne Shih's profile in the 2017 TAHS Publication
+- **Content priority B:** T.A. Archives Who's Who profile (taiwaneseamericanhistory.org/person/freeman-huang)
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Note:** T.A. Archives profile lists birth year as "--" and family details as incomplete
 

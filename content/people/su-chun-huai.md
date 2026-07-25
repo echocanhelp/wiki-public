@@ -45,8 +45,8 @@ Su Chun-huai has been involved in various Taiwanese American community organizat
 
 ## Source Notes and Confidence
 
-- **A-tier:** 2017 TAHS Publication (profile Part 2, ~97 lines), written by 賴慧娜
-- **A-tier:** Contains biographical narrative including community involvement and father-daughter relationship
+- **Content priority A:** 2017 TAHS Publication (profile Part 2, ~97 lines), written by 賴慧娜
+- **Content priority A:** Contains biographical narrative including community involvement and father-daughter relationship
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Note:** The full text includes detailed biographical information including family background and community involvement.
 

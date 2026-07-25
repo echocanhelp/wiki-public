@@ -68,7 +68,7 @@ last_reviewed: 2026-07-23
 3. Advocated for mandatory military service extension in Taiwan, citing Israel as a model for full societal mobilization.
 
 ## Source Notes and Confidence
-- **A-tier:** 2023 TAHS Publication (profile, "奠基‧傳承" section, ~2720 lines)
+- **Content priority A:** 2023 TAHS Publication (profile, "奠基‧傳承" section, ~2720 lines)
 - **Hub:** [[sources/2023-tahs-publication|2023 TAHS Publication]]
 - **Archive:** Section dump at `knowledge/research/tahs-2023-section-dumps/ye-siya-zhang-xinhui-xu-zongbang-li-mutong-chen-wenxue-wang-kexiong-...txt` (lines 1860–2157)
 - Layout-limited extraction; not a full translation

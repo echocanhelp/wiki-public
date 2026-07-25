@@ -1,6 +1,6 @@
 {
-  "version": 6,
-  "updated": "2026-07-18",
+  "version": 7,
+  "updated": "2026-07-24",
   "description": "Bump version when echopedia-ops / linking / ingestion standards change so the janitor re-prioritizes the corpus.",
   "rules": [
     "identity_snapshot",

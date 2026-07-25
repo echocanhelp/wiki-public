@@ -31,7 +31,7 @@ last_reviewed: 2026-07-20
 - No standalone Echopedia page exists for 周威霖 yet; see `people/zhou-wei-lin.md`.
 
 ## Sources
-- **A-tier:** 2017 TAHS Publication (台美菁英錄), Part 1 (緣起與展望 essay), Part 2 (Sam Chang profile)
+- **Content priority A:** 2017 TAHS Publication (台美菁英錄), Part 1 (緣起與展望 essay), Part 2 (Sam Chang profile)
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 
 ## Related Pages

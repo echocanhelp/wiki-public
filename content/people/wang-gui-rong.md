@@ -103,8 +103,8 @@ He left behind two books, including his memoirs published in 1999. His three son
 
 ## Source Notes and Confidence
 
-- **A-tier:** 2017 TAHS Publication 王桂榮傳略 (Biography of Wang Gui-rong), Part 1, L1879–2396 (~518 lines), compiled by 周威霖
-- **A-tier:** Contains six chapters covering immigration, business, American experience, philanthropy, political participation, and legacy
+- **Content priority A:** 2017 TAHS Publication 王桂榮傳略 (Biography of Wang Gui-rong), Part 1, L1879–2396 (~518 lines), compiled by 周威霖
+- **Content priority A:** Contains six chapters covering immigration, business, American experience, philanthropy, political participation, and legacy
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Note:** This is the longest profile in Part 1 of the publication. The full text contains extensive biographical detail including dates, organizations, and specific achievements.
 

@@ -249,9 +249,9 @@ Dr. Lai's dissertation, written in 1971, is described as "not only a profound de
 ## Source Notes and Confidence
 
 ### Source Confidence Legend
-- **A-tier:** Direct quotations or primary-source textual attributions from the currently attached source set.
-- **B-tier:** Near-contemporary attributed references or secondary materials closely tied to the event/person.
-- **C-tier:** Compiled contextual interpretation layers that require further primary-source confirmation.
+- **Content priority A:** Direct quotations or primary-source textual attributions from the currently attached source set.
+- **Content priority B:** Near-contemporary attributed references or secondary materials closely tied to the event/person.
+- **Content priority C:** Compiled contextual interpretation layers that require further primary-source confirmation.
 
 - **High confidence:** FPCLA founding (1970), dissertation authorship (1971), co-founder names, Dr. Chaolong Kao as organizing pastor, Taiyou Church experiment (A)
 - **Medium confidence:** Detailed founding narrative, theological framework, 50-year reflection (A-B)

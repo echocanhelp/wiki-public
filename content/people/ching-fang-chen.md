@@ -33,7 +33,7 @@ His June 2025 foreword stressed urgency of preservation, history as theological 
 
 ## Source Notes and Confidence
 
-- **A-tier:** Inaugural Historical Committee Chair; foreword themes and endorsement narrative
+- **Content priority A:** Inaugural Historical Committee Chair; foreword themes and endorsement narrative
 - **Needs verification:** Education, full ministerial biography
 
 ## Name Variants / Disambiguation
