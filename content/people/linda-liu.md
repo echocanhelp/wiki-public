@@ -6,27 +6,81 @@ tags:
   - Taiwanese-American
   - Taiwan-Center
   - board
-verification_status: published
-last_reviewed: 2026-07-16
+  - TAHS
+verification_status: owner_verified
+last_reviewed: 2026-07-25
+sources:
+  - https://www.taiwancenter.org/board
+  - https://www.taiwancenter.org/
 ---
 # Linda Liu (劉玲華)
 
-**Linda Liu (劉玲華)** is listed as **副董事長** on the official board of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles (大洛杉磯台灣會館)]].
+**Linda Liu (劉玲華)** is **副董事長** (Vice Chair) of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles (大洛杉磯台灣會館)]] board, as listed on the official Taiwan Center website.
 
 ## Identity Snapshot
 
 - **English:** Linda Liu
 - **Chinese:** 劉玲華
-- **Role:** 副董事長
+- **Role:** 副董事長 (Vice Chair), Taiwan Center board
 - **Organization:** [[organizations/taiwan-center|Taiwan Center (TWCLA)]]
+- **LINE linkage state:** Owner-verified in TAHS core LINE group; private LINE user ID captured and not published
+
+## Introduction Context
+
+On 2026-07-25, [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]] directed Echopedia to verify the LINE display name **Linda** as this person page. Group member profile confirmed display name Linda. This page is the canonical public record for identity confirmation and future biography expansion.
+
+## Professional / Community Context
+
+- Listed officer on the Taiwan Center Foundation board (副董事長).
+- Full career biography not yet collected beyond the official board listing — Linda is invited to add education, work history, and community roles.
+
+## Testimony / Self-Introduction (Member-editable)
+
+> Pending Linda Liu's first-person introduction (any language). Paste via LINE @Echo許 anytime.
+
+## Contributions / Responsibilities
+
+- Taiwan Center board service as 副董事長 (per official board page).
+- Future TAHS / Echopedia contributions, oral-history leads, or documents should be added here with source and consent notes.
+
+## Consent & Privacy
+
+- LINE profile linkage: owner-verified in group; exact LINE user ID is private and not published.
+- DM processing: none by default until explicitly approved.
+- Public quote reuse: not allowed until explicit consent.
+- Personal phone / email / address: never published on this page.
+
+## Verification Block
+
+- Echopedia page status: **owner_verified** (2026-07-25)
+- LINE identity: Owner-verified display name 「Linda」 → person slug `linda-liu`
+- Owner verification: Leonard Hsu Jr. instructed verify @Linda as this wiki URL
+- LINE user ID: captured privately (registry only); confirmed via group member API displayName=Linda
+- Board role source: https://www.taiwancenter.org/board (archived `taiwancenter-org-board.md`)
 
 ## Source Notes and Confidence
 
-- **Content priority A:** Name and role on https://www.taiwancenter.org/board (archived `taiwancenter-org-board.md`)
+| Claim | Confidence | Notes |
+| --- | --- | --- |
+| Name Linda Liu / 劉玲華 | High | Official board listing + owner LINE verify |
+| 副董事長, Taiwan Center | High | taiwancenter.org/board archive |
+| LINE display Linda | High | Owner verify + group member profile |
+| Full biography | Low | Not yet provided |
+
 - **Hub:** [[sources/taiwancenter-org|taiwancenter.org]]
-- **Content priority C:** Full biography not in this source set
+- **Primary org:** [[organizations/taiwan-center|Taiwan Center]]
 
 ## Related Pages
 
-- [[organizations/taiwan-center|Taiwan Center]]
+- [[organizations/taiwan-center|Taiwan Center Foundation of Greater Los Angeles]]
 - [[sources/taiwancenter-org|taiwancenter.org source]]
+- [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
+- [[people/alan-thian|Alan Thian (田詒鴻)]]
+- [[people/ken-wu|Ken Wu (吳兆峯)]]
+- [[people/simon-lin|Simon Lin (林榮松)]]
+- [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]]
+
+## Revision History
+
+- 2026-07-16: Created thin person page from Taiwan Center board absorb.
+- 2026-07-25: Owner-verified LINE display name Linda as this page; captured private LINE user ID; expanded onboarding sections (identity, consent, verification). verification_status → owner_verified.
