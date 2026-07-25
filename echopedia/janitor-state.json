@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "last_run": "2026-07-24",
-  "standards_version_seen": 6,
+  "last_run": "2026-07-25",
+  "standards_version_seen": 7,
   "runs": [
     {
       "date": "2026-07-15",
@@ -72,17 +72,22 @@
       "selected": 5,
       "standards_version": 6,
       "standards_bumped": false
+    },
+    {
+      "date": "2026-07-25",
+      "candidates": 75,
+      "selected": 5,
+      "standards_version": 7,
+      "standards_bumped": true
     }
   ],
   "queue": [
     {
-      "path": "people/chen-meihui.md",
+      "path": "organizations/taiwan-formosa.md",
       "findings": [
-        "LINK_UNLINKED_ENTITY"
+        "STANDARDS_RESWEEP"
       ],
-      "hygiene": [
-        "LINK_UNLINKED_ENTITY: people/chen-meihui.md → sources/irvine-taiwanese-presbyterian-church"
-      ],
+      "hygiene": [],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
         "Fix ONLY listed findings; no inventing biography",
@@ -92,13 +97,11 @@
       ]
     },
     {
-      "path": "organizations/ntpc.md",
+      "path": "organizations/presbyterian-church-in-taiwan.md",
       "findings": [
-        "LINK_UNLINKED_ENTITY"
+        "STANDARDS_RESWEEP"
       ],
-      "hygiene": [
-        "LINK_UNLINKED_ENTITY: organizations/ntpc.md → organizations/national-taiwanese-presbyterian-council"
-      ],
+      "hygiene": [],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
         "Fix ONLY listed findings; no inventing biography",
@@ -108,13 +111,11 @@
       ]
     },
     {
-      "path": "people/guo-yingyan.md",
+      "path": "people/wang-xinxin.md",
       "findings": [
-        "LINK_UNLINKED_ENTITY"
+        "STANDARDS_RESWEEP"
       ],
-      "hygiene": [
-        "LINK_UNLINKED_ENTITY: people/guo-yingyan.md → sources/irvine-taiwanese-presbyterian-church"
-      ],
+      "hygiene": [],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
         "Fix ONLY listed findings; no inventing biography",
@@ -124,15 +125,11 @@
       ]
     },
     {
-      "path": "people/wang-neng-xiang.md",
+      "path": "people/qiu-yunen.md",
       "findings": [
-        "LINK_BODY_SPARSE",
-        "LINK_UNLINKED_ENTITY"
+        "STANDARDS_RESWEEP"
       ],
-      "hygiene": [
-        "LINK_BODY_SPARSE: people/wang-neng-xiang.md (body_wikis=1 related=5)",
-        "LINK_UNLINKED_ENTITY: people/wang-neng-xiang.md → people/yang-jia-you"
-      ],
+      "hygiene": [],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
         "Fix ONLY listed findings; no inventing biography",
@@ -142,17 +139,11 @@
       ]
     },
     {
-      "path": "people/yang-jia-you.md",
+      "path": "people/xie-xinguang.md",
       "findings": [
-        "LINK_BODY_SPARSE",
-        "LINK_UNLINKED_ENTITY"
+        "STANDARDS_RESWEEP"
       ],
-      "hygiene": [
-        "LINK_BODY_SPARSE: people/yang-jia-you.md (body_wikis=1 related=5)",
-        "LINK_UNLINKED_ENTITY: people/yang-jia-you.md → organizations/taiwanese-american-historical-society",
-        "LINK_UNLINKED_ENTITY: people/yang-jia-you.md → people/franklin-ping-cheng",
-        "LINK_UNLINKED_ENTITY: people/yang-jia-you.md → people/huang-gen-shen"
-      ],
+      "hygiene": [],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
         "Fix ONLY listed findings; no inventing biography",
@@ -162,12 +153,12 @@
       ]
     }
   ],
-  "last_candidates": 58,
+  "last_candidates": 75,
   "last_selected": [
-    "people/chen-meihui.md",
-    "organizations/ntpc.md",
-    "people/guo-yingyan.md",
-    "people/wang-neng-xiang.md",
-    "people/yang-jia-you.md"
+    "organizations/taiwan-formosa.md",
+    "organizations/presbyterian-church-in-taiwan.md",
+    "people/wang-xinxin.md",
+    "people/qiu-yunen.md",
+    "people/xie-xinguang.md"
   ]
 }
