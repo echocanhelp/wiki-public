@@ -13,6 +13,7 @@ last_reviewed: 2026-07-26
 sources:
   - https://www.linkedin.com/in/ashton-hsu-99593674
   - https://ashtonhsu20.github.io/
+  - Family memo pad (Teng-Lung Hsu, M.D. stationery, code 7CIM4107762, 2026-07-26)
 ---
 # Ashton Hsu
 
@@ -27,7 +28,7 @@ sources:
 ## Name Variants / Disambiguation
 
 - English: Ashton Hsu
-- Chinese name: not yet confirmed (do not invent)
+- Chinese name: **許思敦** (思敦) — confirmed from family memo pad header "Memo from TENG-LUNG HSU, M.D." (2026-07-26)
 - LinkedIn vanity: `ashton-hsu-99593674`
 - Public portfolio handle: `ashtonhsu20` (GitHub Pages) — same-person match is high-confidence by name + software career, still pending explicit owner confirmation
 - Not the same person as other Echopedia Hsu entries without evidence: [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]], [[people/mingyuan-hsu|Rev. Mingyuan Hsu (許明遠)]], [[people/hsu-hsin-hung|Hsu Hsin-hung (徐新宏)]]
@@ -60,6 +61,13 @@ Full experience timeline, about section, and skills were **not** available to an
 | 2015 | Food Chain | Java team game; agile sprints; MVC |
 | 2014 | Kulture | UX study / mockup connecting immigrants to orgs and events by interest |
 
+## Family / TAHS context
+
+- **Father:** Henry Hsu (許景恒 / 景恒) — confirmed from family memo pad (2026-07-26)
+- **Grandfather:** Teng-Lung Hsu, M.D. (wrote the memo pad header) — Leonard Hsu Jr.'s grandfather; Ashton's grandfather
+- **Relation to Leonard Hsu Jr.:** cousin (both descendants of Teng-Lung Hsu, M.D.)
+- Memo pad code: `7CIM4107762` (medical office stationery, Teng-Lung Hsu, M.D.)
+
 ## Community / TAHS context
 
 - No confirmed Taiwanese American Historical Society ([[organizations/taiwanese-american-historical-society|TAHS]]) role or membership on public sources used for this draft.
@@ -80,6 +88,7 @@ If you are Ashton Hsu or can verify details: preferred Chinese name, employment 
 ## Revision History
 
 - 2026-07-26: Initial draft from public LinkedIn meta/guest card + open portfolio scrape; `verification_status: pending`.
+- 2026-07-26: Added Chinese name 許思敦 (思敦), family relationships (father Henry Hsu 許景恒, grandfather Teng-Lung Hsu M.D.) from family memo pad.
 
 ## Related Pages
 
