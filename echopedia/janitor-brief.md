@@ -1,12 +1,12 @@
-## Echopedia Janitor — 2026-07-25
-- Standards v7 **(bumped — resweep)**
-- Pages with findings: **75**
+## Echopedia Janitor — 2026-07-26
+- Standards v7
+- Pages with findings: **58**
 - Queued tonight (max 5): **5**
 - Queue:
-  - `organizations/taiwan-formosa.md` age≈17.5d · STANDARDS_RESWEEP
-  - `organizations/presbyterian-church-in-taiwan.md` age≈17.5d · STANDARDS_RESWEEP
-  - `people/wang-xinxin.md` age≈17.5d · STANDARDS_RESWEEP
-  - `people/qiu-yunen.md` age≈17.5d · STANDARDS_RESWEEP
-  - `people/xie-xinguang.md` age≈17.5d · STANDARDS_RESWEEP
-- Log: `knowledge/operational/janitor-log/2026-07-25.jsonl`
+  - `people/chen-meihui.md` age≈18.5d · LINK_UNLINKED_ENTITY
+  - `organizations/ntpc.md` age≈18.5d · LINK_UNLINKED_ENTITY
+  - `people/guo-yingyan.md` age≈18.5d · LINK_UNLINKED_ENTITY
+  - `people/wang-neng-xiang.md` age≈7.5d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
+  - `people/yang-jia-you.md` age≈7.5d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
+- Log: `knowledge/operational/janitor-log/2026-07-26.jsonl`
 - Agent auto-apply: **False** (local pin only if enabled)

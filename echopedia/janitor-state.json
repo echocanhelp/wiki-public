@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-07-25",
+  "last_run": "2026-07-26",
   "standards_version_seen": 7,
   "runs": [
     {
@@ -79,15 +79,24 @@
       "selected": 5,
       "standards_version": 7,
       "standards_bumped": true
+    },
+    {
+      "date": "2026-07-26",
+      "candidates": 58,
+      "selected": 5,
+      "standards_version": 7,
+      "standards_bumped": false
     }
   ],
   "queue": [
     {
-      "path": "organizations/taiwan-formosa.md",
+      "path": "people/chen-meihui.md",
       "findings": [
-        "STANDARDS_RESWEEP"
+        "LINK_UNLINKED_ENTITY"
       ],
-      "hygiene": [],
+      "hygiene": [
+        "LINK_UNLINKED_ENTITY: people/chen-meihui.md → sources/irvine-taiwanese-presbyterian-church"
+      ],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
         "Fix ONLY listed findings; no inventing biography",
@@ -97,11 +106,13 @@
       ]
     },
     {
-      "path": "organizations/presbyterian-church-in-taiwan.md",
+      "path": "organizations/ntpc.md",
       "findings": [
-        "STANDARDS_RESWEEP"
+        "LINK_UNLINKED_ENTITY"
       ],
-      "hygiene": [],
+      "hygiene": [
+        "LINK_UNLINKED_ENTITY: organizations/ntpc.md → organizations/national-taiwanese-presbyterian-council"
+      ],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
         "Fix ONLY listed findings; no inventing biography",
@@ -111,11 +122,13 @@
       ]
     },
     {
-      "path": "people/wang-xinxin.md",
+      "path": "people/guo-yingyan.md",
       "findings": [
-        "STANDARDS_RESWEEP"
+        "LINK_UNLINKED_ENTITY"
       ],
-      "hygiene": [],
+      "hygiene": [
+        "LINK_UNLINKED_ENTITY: people/guo-yingyan.md → sources/irvine-taiwanese-presbyterian-church"
+      ],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
         "Fix ONLY listed findings; no inventing biography",
@@ -125,11 +138,15 @@
       ]
     },
     {
-      "path": "people/qiu-yunen.md",
+      "path": "people/wang-neng-xiang.md",
       "findings": [
-        "STANDARDS_RESWEEP"
+        "LINK_BODY_SPARSE",
+        "LINK_UNLINKED_ENTITY"
       ],
-      "hygiene": [],
+      "hygiene": [
+        "LINK_BODY_SPARSE: people/wang-neng-xiang.md (body_wikis=1 related=5)",
+        "LINK_UNLINKED_ENTITY: people/wang-neng-xiang.md → people/yang-jia-you"
+      ],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
         "Fix ONLY listed findings; no inventing biography",
@@ -139,11 +156,17 @@
       ]
     },
     {
-      "path": "people/xie-xinguang.md",
+      "path": "people/yang-jia-you.md",
       "findings": [
-        "STANDARDS_RESWEEP"
+        "LINK_BODY_SPARSE",
+        "LINK_UNLINKED_ENTITY"
       ],
-      "hygiene": [],
+      "hygiene": [
+        "LINK_BODY_SPARSE: people/yang-jia-you.md (body_wikis=1 related=5)",
+        "LINK_UNLINKED_ENTITY: people/yang-jia-you.md → organizations/taiwanese-american-historical-society",
+        "LINK_UNLINKED_ENTITY: people/yang-jia-you.md → people/franklin-ping-cheng",
+        "LINK_UNLINKED_ENTITY: people/yang-jia-you.md → people/huang-gen-shen"
+      ],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
         "Fix ONLY listed findings; no inventing biography",
@@ -153,12 +176,12 @@
       ]
     }
   ],
-  "last_candidates": 75,
+  "last_candidates": 58,
   "last_selected": [
-    "organizations/taiwan-formosa.md",
-    "organizations/presbyterian-church-in-taiwan.md",
-    "people/wang-xinxin.md",
-    "people/qiu-yunen.md",
-    "people/xie-xinguang.md"
+    "people/chen-meihui.md",
+    "organizations/ntpc.md",
+    "people/guo-yingyan.md",
+    "people/wang-neng-xiang.md",
+    "people/yang-jia-you.md"
   ]
 }
