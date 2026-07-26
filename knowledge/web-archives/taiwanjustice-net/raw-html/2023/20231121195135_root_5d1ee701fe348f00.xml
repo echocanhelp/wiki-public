@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>新聞深一度 &#8211; Taiwan Justice | 台灣公義報</title>
+	<atom:link href="https://www.taiwanjustice.net/?feed=rss2&#038;tag=%e6%96%b0%e8%81%9e%e6%b7%b1%e4%b8%80%e5%ba%a6" rel="self" type="application/rss+xml" />
+	<link>https://www.taiwanjustice.net</link>
+	<description>Voice of Taiwan</description>
+	<lastBuildDate>Sat, 05 May 2018 12:27:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+
+<image>
+	<url>https://www.taiwanjustice.net/wp-content/uploads/2017/11/cropped-icon-2017-32x32.png</url>
+	<title>新聞深一度 &#8211; Taiwan Justice | 台灣公義報</title>
+	<link>https://www.taiwanjustice.net</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>新聞深一度 20180505 六輕空汙&#8221;PM2.5&#8243;化身無聲殺手 台灣人每人平均折壽16個月！</title>
+		<link>https://www.taiwanjustice.net/?p=146661</link>
+					<comments>https://www.taiwanjustice.net/?p=146661#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 05 May 2018 12:27:53 +0000</pubDate>
+				<category><![CDATA[台灣新聞]]></category>
+		<category><![CDATA[影音]]></category>
+		<category><![CDATA[台灣人]]></category>
+		<category><![CDATA[PM2.5]]></category>
+		<category><![CDATA[新聞深一度]]></category>
+		<category><![CDATA[六輕空汙]]></category>
+		<category><![CDATA[無聲殺手]]></category>
+		<guid isPermaLink="false">https://www.taiwanjustice.net/?p=146661</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>https://www.taiwanjustice.net/?feed=rss2&#038;p=146661</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>新聞深一度 20170117 白色恐怖受害者黃秋爽 父親收容農運領袖 父親被槍決 甩不開&#8221;共匪女兒&#8221;標籤</title>
+		<link>https://www.taiwanjustice.net/?p=102467</link>
+					<comments>https://www.taiwanjustice.net/?p=102467#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 17 Jan 2017 14:38:39 +0000</pubDate>
+				<category><![CDATA[台灣史地]]></category>
+		<category><![CDATA[影音]]></category>
+		<category><![CDATA[黃秋爽]]></category>
+		<category><![CDATA[農運領袖]]></category>
+		<category><![CDATA[共匪女兒]]></category>
+		<category><![CDATA[白色恐怖]]></category>
+		<category><![CDATA[受害者]]></category>
+		<category><![CDATA[槍決]]></category>
+		<category><![CDATA[新聞深一度]]></category>
+		<guid isPermaLink="false">https://www.taiwanjustice.net/?p=102467</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>https://www.taiwanjustice.net/?feed=rss2&#038;p=102467</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>新聞深一度 20160619 無魚之島</title>
+		<link>https://www.taiwanjustice.net/?p=85323</link>
+					<comments>https://www.taiwanjustice.net/?p=85323#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 19 Jun 2016 17:56:12 +0000</pubDate>
+				<category><![CDATA[台灣新聞]]></category>
+		<category><![CDATA[影音]]></category>
+		<category><![CDATA[新聞深一度]]></category>
+		<category><![CDATA[無魚之島]]></category>
+		<guid isPermaLink="false">https://www.taiwanjustice.net/?p=85323</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>https://www.taiwanjustice.net/?feed=rss2&#038;p=85323</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

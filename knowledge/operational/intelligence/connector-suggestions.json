@@ -315,8 +315,32 @@
     {
       "type": "CO-CITATION",
       "pages": [
+        "taiwan-center.md",
+        "linda-liu.md"
+      ],
+      "reason": "Both link to people/alan-thian"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
         "john-chiang.md",
         "ken-wu.md"
+      ],
+      "reason": "Both link to people/alan-thian"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "john-chiang.md",
+        "linda-liu.md"
+      ],
+      "reason": "Both link to people/alan-thian"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "ken-wu.md",
+        "linda-liu.md"
       ],
       "reason": "Both link to people/alan-thian"
     },

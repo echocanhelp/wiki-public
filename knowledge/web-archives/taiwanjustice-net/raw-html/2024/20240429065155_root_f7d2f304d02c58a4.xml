@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>聚焦2.0 &#8211; Taiwan Justice | 台灣公義報</title>
+	<atom:link href="https://www.taiwanjustice.net/?feed=rss2&#038;cat=60437" rel="self" type="application/rss+xml" />
+	<link>https://www.taiwanjustice.net</link>
+	<description>Voice of Taiwan</description>
+	<lastBuildDate>Mon, 27 Feb 2017 14:07:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>https://www.taiwanjustice.net/wp-content/uploads/2017/11/cropped-icon-2017-32x32.png</url>
+	<title>聚焦2.0 &#8211; Taiwan Justice | 台灣公義報</title>
+	<link>https://www.taiwanjustice.net</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>聚焦2.0 20170226 魏崢</title>
+		<link>https://www.taiwanjustice.net/?p=105585</link>
+					<comments>https://www.taiwanjustice.net/?p=105585#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 27 Feb 2017 14:07:50 +0000</pubDate>
+				<category><![CDATA[台灣人文藝術]]></category>
+		<category><![CDATA[影音]]></category>
+		<category><![CDATA[聚焦2.0]]></category>
+		<category><![CDATA[魏崢]]></category>
+		<guid isPermaLink="false">https://www.taiwanjustice.net/?p=105585</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>https://www.taiwanjustice.net/?feed=rss2&#038;p=105585</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
