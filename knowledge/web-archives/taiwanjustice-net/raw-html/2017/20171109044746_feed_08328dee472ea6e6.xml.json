@@ -1,0 +1,16 @@
+{
+  "source_url": "http://www.taiwanjustice.net:80/feed/",
+  "archive_ts": "20171109044746",
+  "archive_url": "https://web.archive.org/web/20171109044746/http://www.taiwanjustice.net:80/feed/",
+  "wayback_id_url": "https://web.archive.org/web/20171109044746id_/http://www.taiwanjustice.net/feed/",
+  "cdx_digest": "BDLPKRKEOJJCDO7NMOVI7Y3H2HINEZJQ",
+  "cdx_mimetype": "application/rss+xml",
+  "cdx_class": "feed",
+  "content_type": "application/rss+xml; charset=UTF-8",
+  "sha256": "f41360cd0ea378272c0f4e8ef70bf4149c18b849598a55fa7f5d472f91344922",
+  "bytes": 15623,
+  "fetched_at": "2026-07-26T22:20:42Z",
+  "method": "wayback-id_",
+  "keep_comments": true,
+  "keep_newsletters": true
+}

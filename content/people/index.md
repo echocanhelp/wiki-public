@@ -19,7 +19,7 @@ Person records in **Echopedia**. Names keep Chinese characters and romanized for
 - [[people/alexander-macdonald|馬偕博士 (George Leslie Macdonald)]]
 - [[people/anne-shih|Anne Shih (施劉秀枝)]]
 - [[people/april-lin|April Lin (林淑卿)]]
-- [[people/ashton-hsu|Ashton Hsu]]
+- [[people/ashton-hsu|Ashton Hsu (許思敦)]]
 - [[people/bob-j-wu|Bob J. Wu (吳瑞椿)]]
 - [[people/c-c-chen|Dr. C.C. Chen (陳昭俊)]]
 - [[people/cai-jinrong|蔡錦榮 (Cai Jinrong)]]
