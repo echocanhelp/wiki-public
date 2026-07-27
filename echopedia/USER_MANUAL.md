@@ -176,6 +176,13 @@ Look at the **janitor queue** (depth is in SYSTEM_STATUS.md). Typical first task
 
 **Default (Leonard / Hsuperman):** saying **Echopedia** + a target means **live wiki**, not research-only.
 
+**Default workflow when user says "Echopedia <person> <fact>":**
+1. Run P8 with the fact as source
+2. Run P1 to verify (ops/drift/smoke)
+3. Run P2 to publish if green
+
+**This runs automatically.** The planner does NOT need to ask the user for playbook IDs. The user only needs to say "Echopedia <target> <fact>".
+
 | You say | System must do |
 |---------|----------------|
 || **`Echopedia website <domain>`** | **Full-domain** archive + **absorb into wiki graph** + publish push — see **[WEBSITE_INGEST.md](WEBSITE_INGEST.md)** completeness bar |
