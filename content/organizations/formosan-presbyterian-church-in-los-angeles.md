@@ -147,7 +147,7 @@ By establishing FPCLA under the UPCUSA/PC(USA) system, the founders created a co
 
 ### Dissertation and Legacy
 
-FPCLA was the central case study in Dr. Albert S. Lai's 1971 doctoral dissertation *Toward A Community of Hope — A Mission to Formosan Community in Los Angeles*, which documented the church's struggles, aspirations, and theological vision. The dissertation was reprinted in 2025 with a 50th anniversary foreword.
+FPCLA was the central case study in [[people/albert-s-lai|Dr. Albert S. Lai's]] 1971 doctoral dissertation *Toward A Community of Hope — A Mission to Formosan Community in Los Angeles*, which documented the church's struggles, aspirations, and theological vision. The dissertation was reprinted in 2025 with a 50th anniversary foreword.
 
 ## Theological Framework
 
@@ -222,6 +222,7 @@ The church served as a space where Formosan immigrants could negotiate their ide
 
 - [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
 - [[sources/toward-a-community-of-hope|Toward A Community of Hope (work & full-text links)]]
+- [[organizations/democratic-progressive-party|Democratic Progressive Party (民主進步黨)]] — linked through Albert Lai's dissertation documenting the democratization history that FPCLA witnessed
 - [[people/chaolong-kao|Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)]]
 - [[people/daniel-kao|Dr. Daniel Kao (高光民)]]
 - [[people/c-c-chen|Dr. C.C. Chen (陳昭俊)]]

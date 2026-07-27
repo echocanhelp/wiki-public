@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-07-26 04:15 PDT*
+*Generated: 2026-07-27 04:15 PDT*
 
 ## Orientation
 - **User manual (start here):** [USER_MANUAL.md](USER_MANUAL.md)
@@ -16,9 +16,9 @@
 - **Last good deploy:** `e16cd99b`
 
 ## Content
-- **Markdown pages:** 239
+- **Markdown pages:** 240
 - **Janitor queue depth:** 5
-- **Uncommitted files:** 24426
+- **Uncommitted files:** 7418
 
 ## What runs automatically
 | When | Job | Role |
@@ -47,43 +47,43 @@ Load skill **echopedia-ops** first for any wiki work.
 ```
     Name:      unified-watchdog
     Schedule:  every 30m
-    Last run:  2026-07-26T03:52:39.189544-07:00  ok
+    Last run:  2026-07-27T04:02:53.083086-07:00  error: Script exited with code 1
     Name:      echopedia-digest
     Schedule:  0 9 * * *
-    Last run:  2026-07-25T09:00:52.718920-07:00  ok
+    Last run:  2026-07-26T09:00:44.259919-07:00  ok
     Name:      kanban-sync
     Schedule:  every 30m
-    Last run:  2026-07-26T03:46:38.945221-07:00  ok
+    Last run:  2026-07-27T03:49:52.044619-07:00  ok
     Name:      memory-audit
     Schedule:  0 5 * * *
-    Last run:  2026-07-25T05:00:47.082752-07:00  ok
+    Last run:  2026-07-26T05:00:39.809224-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-07-26T04:15:39.341005-07:00  ok
+    Last run:  2026-07-27T04:14:52.376003-07:00  ok
     Name:      echopedia-nightly-audit
     Schedule:  0 4 * * *
-    Last run:  2026-07-26T04:00:47.963875-07:00  ok
+    Last run:  2026-07-27T04:01:04.374835-07:00  ok
     Name:      echopedia-janitor
     Schedule:  0 4 * * *
-    Last run:  2026-07-26T04:00:39.420269-07:00  ok
+    Last run:  2026-07-27T04:00:53.150975-07:00  ok
     Name:      echopedia-weekly-improvement
     Schedule:  0 5 * * 1
     Last run:  2026-07-20T05:00:55.194864-07:00  ok
     Name:      echopedia-ci-heal
     Schedule:  15 4 * * *
-    Last run:  2026-07-25T04:15:57.768060-07:00  ok
+    Last run:  2026-07-26T04:15:50.848105-07:00  ok
     Name:      vault-unfinished-threads
     Schedule:  0 8 * * *
-    Last run:  2026-07-25T08:00:51.359389-07:00  ok
+    Last run:  2026-07-26T08:00:43.072633-07:00  ok
     Name:      vault-connector-suggestions
     Schedule:  0 9 * * *
-    Last run:  2026-07-25T09:00:52.672377-07:00  ok
+    Last run:  2026-07-26T09:00:44.227299-07:00  ok
     Name:      vault-intelligence-digest
     Schedule:  0 8 * * *
-    Last run:  2026-07-25T08:00:51.489613-07:00  ok
+    Last run:  2026-07-26T08:00:43.167717-07:00  ok
     Name:      echopedia-site-design
     Schedule:  30 4 * * *
-    Last run:  2026-07-25T04:30:45.478300-07:00  ok
+    Last run:  2026-07-26T04:30:39.489724-07:00  ok
     Name:      tj-p2-download-progress
 ```
 

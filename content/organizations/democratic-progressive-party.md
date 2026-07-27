@@ -72,7 +72,7 @@ The DPP rejects the so-called "One China principle" as the basis for official di
 
 The DPP maintains overseas organizations in the United States, including the DPP US West Chapter. [[people/ken-wu|Ken Wu (吳兆峯)]], a Los Angeles-based Taiwanese-American community leader and FAPA Los Angeles chapter president, serves as an executive committee member of the DPP US West Chapter.
 
-The party's democratization history — including the Kaohsiung Incident (1979), the lifting of martial law (1987), the Wild Lily Movement (1990), and the first direct presidential election (1996) — is documented in [[sources/toward-a-community-of-hope|Toward a Community of Hope]] by [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]].
+The party's democratization history — including the Kaohsiung Incident (1979), the lifting of martial law (1987), the Wild Lily Movement (1990), and the first direct presidential election (1996) — is documented in [[sources/toward-a-community-of-hope|Toward a Community of Hope]] by [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]], whose 1971 dissertation chronicled the founding of [[organizations/formosan-presbyterian-church-in-los-angeles|FPCLA]] and the broader Taiwanese-American church experience. The DPP's current minister of the [[organizations/overseas-community-affairs-council|Overseas Community Affairs Council (OCAC)]] is Hsu Chia-ching (徐佳青).
 
 ## Factions
 
@@ -105,4 +105,5 @@ In 2006, the party ended official recognition of factions, though they remain re
 - [[people/ken-wu|Ken Wu (吳兆峯)]]
 - [[sources/toward-a-community-of-hope|Toward a Community of Hope]]
 - [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
+- [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]] — linked through Albert Lai's dissertation documenting the democratization history
 - [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]]

@@ -133,7 +133,7 @@ OCAC plays a significant role in the **Taiwanese-American experience** in Southe
 
 | Position | Name | Party | Term |
 |----------|------|-------|------|
-| Minister | Hsu Chia-ching (徐佳青) | DPP | Jan 2023 – present |
+| Minister | Hsu Chia-ching (徐佳青) | [[organizations/democratic-progressive-party|DPP]] | Jan 2023 – present |
 | Vice Minister | Roy Leu (呂欣彥) | — | — |
 
 ### Historical Ministers (selected)
