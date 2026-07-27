@@ -37,7 +37,7 @@ sources:
 - Chinese: 許思敦 (思敦) — confirmed from family memo pad header "Memo from TENG-LUNG HSU, M.D." (2026-07-26)
 - LinkedIn vanity: `ashton-hsu-99593674`
 - Public portfolio handle: `ashtonhsu20` (GitHub Pages)
-- Cousin of [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]] (shared grandfather Teng-Lung Hsu, M.D.)
+- Cousin of [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]] — Henry Hsu is Leonard's cousin; Ashton is Henry's son (Leonard's first cousin once removed). Teng-Lung Hsu, M.D. is Henry's father, not Leonard's grandfather.
 - Not the same person as [[people/mingyuan-hsu|Rev. Mingyuan Hsu (許明遠)]] or [[people/hsu-hsin-hung|Hsu Hsin-hung (徐新宏)]]
 - Unrelated open-web "Ashton Hsu" hits (e.g. youth sports) must not be merged here
 
