@@ -86,8 +86,8 @@ Full experience timeline, about section, and skills were not available to anonym
 ## Family / TAHS context
 
 - **Father:** Henry Hsu (許景恒 / 景恒) — confirmed from family memo pad (2026-07-26)
-- **Grandfather:** Teng-Lung Hsu, M.D. (memo pad stationery header) — also Leonard Hsu Jr.'s grandfather
-- **Relation to Leonard Hsu Jr.:** cousin (both descendants of Teng-Lung Hsu, M.D.)
+- **Grandfather:** Teng-Lung Hsu, M.D. (memo pad stationery header) — Henry Hsu's father; Ashton's grandfather
+- **Relation to Leonard Hsu Jr.:** cousin's son — Henry Hsu is Leonard's cousin; Ashton is Henry's son, making Ashton Leonard's first cousin once removed
 - Memo pad code: `7CIM4107762` (medical office stationery, Teng-Lung Hsu, M.D.)
 
 ## Contributions / Responsibilities
@@ -135,3 +135,4 @@ _(Optional — paste a short first-person intro anytime via LINE @Echo許.)_
 - 2026-07-26: Initial draft from public LinkedIn meta/guest card + open portfolio scrape; `verification_status: pending`.
 - 2026-07-26: Added Chinese name 許思敦 (思敦), family relationships (father Henry Hsu 許景恒, grandfather Teng-Lung Hsu M.D.) from family memo pad.
 - 2026-07-26: Owner-verified as TAHS/community member and Director of Echo System Engineering with full system permissions; `verification_status` → `owner_verified`; added membership, verification, consent sections.
+- 2026-07-26: Corrected family relationships — Henry Hsu is Leonard Hsu Jr.'s cousin (not father); Ashton is Henry's son, making him Leonard's first cousin once removed. Teng-Lung Hsu M.D. is Henry's father, not Leonard's grandfather.
