@@ -164,7 +164,7 @@ Found two relevant mechanisms:
 |----|------|------|-------|
 | P0 | Orient | Don't know state | 1. Read SYSTEM_STATUS.md 2. Read WHERE_WE_ARE.md 3. Report |
 | P1 | Ops/drift/smoke | Check health | 1. `echopedia-ops-check.sh` 2. `echopedia-ci-heal.sh --dry-run` 3. `echopedia-smoke-test.sh` 4. Report |
-| P2 | Publish/deploy | Push to live | 1. `echopedia-publish.sh --push` 2. Verify smoke URLs 3. Report |
+| P2 | Publish/deploy | Push to live | 1. `echopedia-publish.sh --push` (rsync→quartz build→tree-copy + root index.html copy→featured regen→commit+push→CDN verify) 2. Verify smoke URLs 3. Report |
 | P3 | One page links | Fix wikilinks | 1. Read page 2. Find broken wikilinks 3. Repair or redirect 4. Commit only (no publish) 5. Report |
 | P4 | Janitor queue | Queue items | 1. Read janitor-brief.md 2. Process items per type 3. Commit 4. Report |
 | P5 | Heal/drift/smoke | Full heal | 1. `echopedia-ci-heal.sh` 2. Verify 3. Report |
@@ -174,7 +174,7 @@ Found two relevant mechanisms:
 | P9 | New work page | Create stub | 1. Create page from template 2. Add frontmatter 3. Commit 4. Report |
 | P10 | Commit/push git | Git ops | 1. `git add` 2. `git commit` 3. `git push` 4. Report |
 | P12 | Featured regen | Homepage cards | 1. `featured-regen.py --dry-run` 2. Verify 3. `featured-regen.py --inject` 4. Commit + publish 5. Report |
-| P13 | Site design | Layout issues | 1. Read site-design-brief.md 2. Run audit 3. Propose fixes 4. Report |
+| P13 | Site design | Layout issues | 1. Read site-design-brief.md 2. Run audit 3. Propose fixes (incl. root index.html copy from quartz build, Pages build type migration) 4. Report |
 
 ### P8 — Edit page content (content update)
 

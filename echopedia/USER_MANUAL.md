@@ -482,7 +482,7 @@ bash /home/leedt/.hermes/scripts/echopedia-ci-heal.sh --dry-run
 
 | Script | Path | Purpose |
 |--------|------|---------|
-| `echopedia-publish.sh` | `~/.hermes/scripts/` | Deploy + featured regen + post-push CDN verify |
+| `echopedia-publish.sh` | `~/.hermes/scripts/` | Deploy + root index.html copy + featured regen + post-push CDN verify |
 | `echopedia-ci-heal.sh` | `~/.hermes/scripts/` | Nightly heal + push (includes post-push CDN verify) |
 | `echopedia-ops-check.sh` | `~/.hermes/scripts/` | Health check |
 | `echopedia-cdn-verify.sh` | `~/.hermes/scripts/` | Post-publish CDN 404 detection + auto-heal |
@@ -490,6 +490,43 @@ bash /home/leedt/.hermes/scripts/echopedia-ci-heal.sh --dry-run
 | `echopedia-site-design-audit.py` | `~/.hermes/scripts/` | Site design audit |
 | `echopedia-index-sync.py` | `~/.hermes/scripts/` | Directory index sync (new pages missing from index.md) |
 | `featured-regen.py` | `echo-system/scripts/` | Featured section regen |
+
+---
+
+## Publish pipeline internals
+
+The publish script (`echopedia-publish.sh`) does the following:
+
+1. **rsync** `content/` → `quartz/content/` (Quartz source)
+2. **Build** Quartz → `quartz/public/` (HTML output)
+3. **Tree-copy** subdirectories: `people/`, `organizations/`, `sources/`, `events/`, `articles/`, `tags/` from `quartz/public/` → repo root
+4. **Copy root `index.html`** from `quartz/public/index.html` → repo root (homepage with theme table, etc.)
+5. **Featured regen** — `featured-regen.py --inject` adds featured cards to root `index.html`
+6. **Commit + push** to `gh-pages`
+7. **Post-push CDN verify** — `echopedia-cdn-verify.sh --heal`
+
+**Critical step:** Step 4 (root `index.html` copy) is required because the tree-copy in step 3 only copies subdirectories. Without it, the homepage's "Explore by theme" table and other content from `content/index.md` never reaches the live site.
+
+### GitHub Pages build types: legacy vs unified
+
+The wiki-public repo currently uses the **legacy** build type, which has known CDN caching issues:
+
+| Aspect | Legacy (current) | Unified (recommended) |
+|--------|-----------------|----------------------|
+| **Build source** | Pre-built HTML on `gh-pages` branch | Source files in `/.github` workflows |
+| **CDN cache** | Aggressively caches 404s for new files (10+ min) | Proper cache invalidation on deploy |
+| **Deploy trigger** | Direct push to `gh-pages` | GitHub Actions workflow |
+| **Status API** | `errored`/`succeeded` on API | `built`/`disabled` |
+| **Cache headers** | `cache-control: max-age=600`, `x-cache: HIT` on stale content | Proper ETag-based invalidation |
+| **Migration effort** | — | Moderate: add `.github/workflows/pages.yml`, switch source to `/.github` |
+
+**Migration path:**
+1. Create `.github/workflows/pages.yml` with a build job that runs `echopedia-publish.sh` and uploads `public/` as artifact
+2. Update Pages config via API: `build_type: "workflow"`
+3. Remove direct push to `gh-pages` (let Actions handle it)
+4. Update `echopedia-publish.sh` to not push directly (Actions handles deploy)
+
+**Status:** Not yet migrated. CDN caching lag is mitigated by `echopedia-cdn-verify.sh` but not eliminated.
 
 ---
 
