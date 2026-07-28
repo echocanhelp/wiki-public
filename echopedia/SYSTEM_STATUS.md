@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-07-28 00:15 PDT*
+*Generated: 2026-07-28 00:43 PDT*
 
 ## Orientation
 - **User manual (start here):** [USER_MANUAL.md](USER_MANUAL.md)
@@ -13,12 +13,12 @@
 - **Level:** L3
 - **L2 auto-publish on drift:** True
 - **L3 auto-push when green:** True
-- **Last good deploy:** `d20848fb4`
+- **Last good deploy:** `d99ca92c0`
 
 ## Content
-- **Markdown pages:** 263
+- **Markdown pages:** 29366
 - **Janitor queue depth:** 5
-- **Uncommitted files:** 38700
+- **Uncommitted files:** 38425
 
 ## What runs automatically
 | When | Job | Role |
