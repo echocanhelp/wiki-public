@@ -56,7 +56,7 @@ See also the [[organizations/formosan-presbyterian-church-in-los-angeles|FPCLA]]
 
 ## Audiobook Production
 
-Chapter I of *Toward A Community of Hope* has been produced as an audiobook for Echopedia review. See [[people/albert-chapter1-en-review|Chapter I English audiobook review (scratch build)]] for voice/tempo/style analysis and the [[people/albert-chapter1-audiobook-taiwanese-female|Chapter I Taiwanese female pilot]] for an alternate language experiment.
+EN SKU A of *Toward A Community of Hope* (1971 Preface + Ch I–VI) has been produced as AI-scratch audiobook for Echopedia review. See [[people/albert-en-sku-a-scratch-review|full multi-track hub]], [[people/albert-chapter1-en-review|Chapter I detail]], and [[people/albert-chapter1-audiobook-taiwanese-female|Taiwanese female pilot]] (separate experiment).
 
 ## 50th Anniversary Republication (2025)
 
@@ -265,6 +265,8 @@ Dr. Lai's dissertation, written in 1971, is described as "not only a profound de
 
 ## Related Pages
 
+- [[people/albert-en-sku-a-scratch-review|EN SKU A full-book AI scratch review (~4.4 h)]]
+- [[people/albert-chapter1-en-review|Ch.1 English audiobook review (voice/tempo)]]
 - [[sources/toward-a-community-of-hope|Toward A Community of Hope (work & full-text links)]]
 - [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
 - [[people/chaolong-kao|Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)]]
