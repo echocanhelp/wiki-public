@@ -423,6 +423,7 @@ The system runs 24/7: 04:00 janitor, 04:15 ci-heal, 04:30 site-design audit, 09:
 **Red flags (always intervene):**
 - `OPS_STATUS: FAIL` — missing scripts/skills (run `echopedia-ops-check.sh`, fix)
 - Smoke URLs returning non-200 — live site broken
+- CDN serving stale 404s for newly published pages — auto-healed by `echopedia-cdn-verify.sh`
 - Git push failed — check `knowledge/operational/incidents/`
 - Standards version mismatch persists > 1 day — bump not caught
 
@@ -481,9 +482,10 @@ bash /home/leedt/.hermes/scripts/echopedia-ci-heal.sh --dry-run
 
 | Script | Path | Purpose |
 |--------|------|---------|
-| `echopedia-publish.sh` | `~/.hermes/scripts/` | Deploy + featured regen |
-| `echopedia-ci-heal.sh` | `~/.hermes/scripts/` | Nightly heal + push |
+| `echopedia-publish.sh` | `~/.hermes/scripts/` | Deploy + featured regen + post-push CDN verify |
+| `echopedia-ci-heal.sh` | `~/.hermes/scripts/` | Nightly heal + push (includes post-push CDN verify) |
 | `echopedia-ops-check.sh` | `~/.hermes/scripts/` | Health check |
+| `echopedia-cdn-verify.sh` | `~/.hermes/scripts/` | Post-publish CDN 404 detection + auto-heal |
 | `echopedia-link-hygiene.py` | `~/.hermes/scripts/` | Link audit |
 | `echopedia-site-design-audit.py` | `~/.hermes/scripts/` | Site design audit |
 | `echopedia-index-sync.py` | `~/.hermes/scripts/` | Directory index sync (new pages missing from index.md) |
@@ -654,6 +656,31 @@ bash ~/.hermes/scripts/echopedia-publish.sh
 ```
 
 **Note:** Smoke failure blocks L3 auto-push. After fixing, ci-heal will push on the next green cycle.
+
+---
+
+### R3b — CDN 404 lag (pages exist but live site returns 404)
+
+**Symptom:** A page was just published but `curl https://echocanhelp.github.io/wiki-public/people/<name>` returns 404. The HTML file exists on `gh-pages` (raw.githubusercontent.com returns 200) but the live site is serving a stale CDN cache.
+
+**Recovery:**
+```bash
+# 1. Verify it's CDN lag (not a real broken page)
+bash ~/.hermes/scripts/echopedia-cdn-verify.sh --paths people/<name>.html
+
+# 2. If CDN lag detected, force auto-heal
+bash ~/.hermes/scripts/echopedia-cdn-verify.sh --heal --paths people/<name>.html
+
+# 3. Or manually force a Pages rebuild
+#    (append a cache-buster comment, commit, push)
+echo "<!-- cache-refresh: $(date +%s) -->" >> ~/echo-system/people/<name>.html
+cd ~/echo-system && git add people/<name>.html && git commit -m "cdn-heal: force cache invalidation" && git push origin gh-pages
+
+# 4. Wait 30s for CDN propagation, then re-check
+sleep 30 && curl -sS -o /dev/null -w "%{http_code}" -L "https://echocanhelp.github.io/wiki-public/people/<name>"
+```
+
+**Note:** This is automatically handled after every `echopedia-publish.sh --push` and `echopedia-ci-heal.sh` via the post-push CDN verification step. See skill `echopedia-cdn-heal`.
 
 ---
 
