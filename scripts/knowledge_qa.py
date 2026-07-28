@@ -77,7 +77,11 @@ def similarity(a, b):
 
 
 def search_all(query, top_k=10):
-    """Search across both Tier 1 (wiki) and Tier 2 (raw knowledge)."""
+    """Search across both Tier 1 (wiki) and Tier 2 (raw knowledge).
+
+    Uses enhanced vault_search if available (vector + graph + LLM reranking).
+    Falls back to keyword-only search if vault_search is unavailable.
+    """
     # Check cache first
     if CACHE:
         cache_key = _cache_key(query, top_k)
@@ -85,7 +89,27 @@ def search_all(query, top_k=10):
         if cached:
             print(f"  [cache hit] {cache_key}")
             return cached["response"]
-    
+
+    # Try enhanced search first
+    try:
+        import sys as _sys
+        _sys.path.insert(0, str(Path(__file__).parent))
+        from vault_search import hybrid_search, llm_rerank, index_vault, get_db
+        import sqlite3
+
+        # Ensure index exists
+        conn = get_db()
+        c = conn.cursor()
+        c.execute("SELECT COUNT(*) FROM vault_embeddings")
+        if c.fetchone()[0] == 0:
+            index_vault()
+
+        results = hybrid_search(query, top_k=top_k)
+        results = llm_rerank(query, results, top_k=top_k)
+        return results
+    except Exception as e:
+        print(f"  [warn] Enhanced search unavailable, falling back to keyword: {e}", file=sys.stderr)
+        # Fall through to keyword search below
     query_lower = query.lower()
     query_words = set(query_lower.split())
     
@@ -210,8 +234,9 @@ def format_answer(query, results):
         lines.append(f"   - Relevance: {r['score']}")
         
         if r["tier"] == 1:
-            badge = "✅" if r["verification"] == "verified" else "⏳"
-            lines.append(f"   - Status: {badge} {r['verification']}")
+            verification = r.get("verification", "unknown")
+            badge = "✅" if verification == "verified" else "⏳"
+            lines.append(f"   - Status: {badge} {verification}")
             lines.append(f"   - Live URL: https://echocanhelp.github.io/wiki-public/{r['path'].replace('.md', '')}")
         
         lines.append(f"")
