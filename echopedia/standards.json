@@ -1,7 +1,7 @@
 {
-  "version": 7,
-  "updated": "2026-07-24",
-  "description": "Bump version when echopedia-ops / linking / ingestion standards change so the janitor re-prioritizes the corpus.",
+  "version": 8,
+  "updated": "2026-07-28",
+  "description": "Bump version when echopedia-ops / linking / ingestion standards change so the janitor re-prioritizes the corpus. Added content analysis integration (v8).",
   "rules": [
     "identity_snapshot",
     "related_pages",
@@ -19,7 +19,8 @@
     "l2_auto_heal",
     "l3_auto_push_on_green",
     "l2_auto_featured_on_publish",
-    "l2_auto_site_design"
+    "l2_auto_site_design",
+    "content_analysis_quality"
   ],
   "janitor": {
     "window_local": "04:00-06:00",
