@@ -64,3 +64,7 @@
 - All 47 converted files have complete frontmatter with all 10 required fields.
 - Output filenames preserve the Wayback timestamp + original slug + CDX digest for uniqueness.
 - Resume-safe: state file at `tier2-convert-state.json` tracks done/skipped/fail per file.
+
+## Related Pages
+
+- [[people/albert-s-lai|Dr. Albert S. Lai]]

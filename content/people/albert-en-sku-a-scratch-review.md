@@ -16,6 +16,10 @@ echo: scratch
 
 ## Identity Snapshot
 
+> **Primary work page:** [[sources/toward-a-community-of-hope|Toward A Community of Hope (work & sources)]]  
+> **Full text (GitHub):** [complete extract](https://github.com/echocanhelp/wiki-public/blob/gh-pages/knowledge/web-archives/albert-lai-toward-community-of-hope.md)
+
+
 - Work: Dr. Albert S. Lai, *Toward A Community of Hope* (EN AMT v1.0)
 - Scope SKU A: 1971 Preface + Chapters I–VI through CONCLUSION
 - Narration: AI scratch · `en-US-ChristopherNeural` · rate `+0%` · pitch `−1 Hz`
@@ -143,3 +147,7 @@ Same CLI settings as approved Ch.1. Some later tracks measure slower WPM (text d
 - [[people/albert-s-lai|Albert S. Lai]]
 - [[people/albert-chapter1-en-review|Ch.1 EN review]]
 - [[people/albert-chapter1-audiobook-taiwanese-female|Prior Taiwanese-female pilot (different experiment)]]
+
+## Related Pages
+
+- [[people/albert-s-lai|Dr. Albert S. Lai]]

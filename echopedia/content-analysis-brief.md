@@ -1,8 +1,8 @@
 ## Echopedia Content Analysis — 2026-07-28
-- Standards v7
+- Standards v8
 - Pages scanned: **257** with findings
 - Auto-queued for remediation: **90** (score ≥ 3)
-- Wall time: 0.31s
+- Wall time: 0.3s
 
 ### Top 10 pages needing attention:
 - `organizations/taiwanese-american-historical-society.md` score=5 ⚠️ DESC_TOO_SHORT — DESC_TOO_SHORT, LINKS_NO_RELATED, STRUCT_NO_HISTORY, READABILITY_MANY_LONG_SENTENCES_9

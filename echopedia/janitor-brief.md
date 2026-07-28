@@ -1,12 +1,12 @@
-## Echopedia Janitor — 2026-07-27
-- Standards v7
-- Pages with findings: **58**
+## Echopedia Janitor — 2026-07-28
+- Standards v8
+- Pages with findings: **29167**
 - Queued tonight (max 5): **5**
 - Queue:
-  - `people/chen-meihui.md` age≈19.5d · LINK_UNLINKED_ENTITY
-  - `organizations/ntpc.md` age≈19.5d · LINK_UNLINKED_ENTITY
-  - `people/guo-yingyan.md` age≈19.5d · LINK_UNLINKED_ENTITY
-  - `people/wang-neng-xiang.md` age≈8.5d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
-  - `people/yang-jia-you.md` age≈8.5d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
-- Log: `knowledge/operational/janitor-log/2026-07-27.jsonl`
+  - `people/chen-meihui.md` age≈20.5d · LINK_UNLINKED_ENTITY
+  - `organizations/ntpc.md` age≈20.5d · LINK_UNLINKED_ENTITY
+  - `people/guo-yingyan.md` age≈20.5d · LINK_UNLINKED_ENTITY
+  - `people/albert-en-sku-a-scratch-review.md` age≈0.5d · NO_RELATED_PAGES, LINK_UNLINKED_ENTITY, LINK_MISSING_SOURCE_PAGE
+  - `articles/taiwanjustice-net/PILOT_NOTES.md` age≈0.1d · NO_TYPE, NO_RELATED_PAGES, NO_LAST_REVIEWED
+- Log: `knowledge/operational/janitor-log/2026-07-28.jsonl`
 - Agent auto-apply: **False** (local pin only if enabled)
