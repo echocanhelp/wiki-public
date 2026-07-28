@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-07-27 05:01 PDT*
+*Generated: 2026-07-28 00:15 PDT*
 
 ## Orientation
 - **User manual (start here):** [USER_MANUAL.md](USER_MANUAL.md)
@@ -16,9 +16,9 @@
 - **Last good deploy:** `d20848fb4`
 
 ## Content
-- **Markdown pages:** 240
+- **Markdown pages:** 263
 - **Janitor queue depth:** 5
-- **Uncommitted files:** 8384
+- **Uncommitted files:** 39278
 
 ## What runs automatically
 | When | Job | Role |
@@ -45,46 +45,12 @@ Load skill **echopedia-ops** first for any wiki work.
 
 ## Cron snapshot
 ```
-    Name:      unified-watchdog
-    Schedule:  every 30m
-    Last run:  2026-07-27T04:33:52.752505-07:00  ok
-    Name:      echopedia-digest
-    Schedule:  0 9 * * *
-    Last run:  2026-07-26T09:00:44.259919-07:00  ok
-    Name:      kanban-sync
-    Schedule:  every 30m
-    Last run:  2026-07-27T04:49:52.761377-07:00  ok
-    Name:      memory-audit
-    Schedule:  0 5 * * *
-    Last run:  2026-07-27T05:00:53.982714-07:00  ok
-    Name:      vllm-thermal-scaler
-    Schedule:  every 1m
-    Last run:  2026-07-27T05:00:53.301018-07:00  ok
-    Name:      echopedia-nightly-audit
-    Schedule:  0 4 * * *
-    Last run:  2026-07-27T04:01:04.374835-07:00  ok
-    Name:      echopedia-janitor
-    Schedule:  0 4 * * *
-    Last run:  2026-07-27T04:00:53.150975-07:00  ok
-    Name:      echopedia-weekly-improvement
-    Schedule:  0 5 * * 1
-    Last run:  2026-07-20T05:00:55.194864-07:00  ok
-    Name:      echopedia-ci-heal
-    Schedule:  15 4 * * *
-    Last run:  2026-07-27T04:16:10.672203-07:00  ok
-    Name:      vault-unfinished-threads
+    Name:      cron-output-rotate
+    Schedule:  0 3 * * *
+    Last run:  2026-07-27T03:00:51.060596-07:00  ok
+    Name:      vault-morning-brief
     Schedule:  0 8 * * *
-    Last run:  2026-07-26T08:00:43.072633-07:00  ok
-    Name:      vault-connector-suggestions
-    Schedule:  0 9 * * *
-    Last run:  2026-07-26T09:00:44.227299-07:00  ok
-    Name:      vault-intelligence-digest
-    Schedule:  0 8 * * *
-    Last run:  2026-07-26T08:00:43.167717-07:00  ok
-    Name:      echopedia-site-design
-    Schedule:  30 4 * * *
-    Last run:  2026-07-27T04:30:52.565057-07:00  ok
-    Name:      tj-p2-download-progress
+    Last run:  2026-07-27T08:00:55.193319-07:00  ok
 ```
 
 ## Briefs

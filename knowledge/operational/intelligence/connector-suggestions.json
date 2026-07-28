@@ -19,10 +19,26 @@
     {
       "type": "CO-CITATION",
       "pages": [
+        "democratic-progressive-party.md",
+        "national-taiwanese-presbyterian-council.md"
+      ],
+      "reason": "Both link to organizations/formosan-presbyterian-church-in-los-angeles"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
         "formosan-presbyterian-church-in-los-angeles.md",
         "albert-s-lai.md"
       ],
       "reason": "Both link to people/jonah-chang"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "formosan-presbyterian-church-in-los-angeles.md",
+        "overseas-community-affairs-council.md"
+      ],
+      "reason": "Both link to organizations/democratic-progressive-party"
     },
     {
       "type": "CO-CITATION",
@@ -148,25 +164,17 @@
       "type": "CO-CITATION",
       "pages": [
         "national-taiwanese-presbyterian-council.md",
-        "ntpc.md"
+        "albert-s-lai.md"
       ],
-      "reason": "Both link to organizations/formosan-presbyterian-church-in-los-angeles"
+      "reason": "Both link to people/ching-fang-chen"
     },
     {
       "type": "CO-CITATION",
       "pages": [
-        "national-taiwanese-presbyterian-council.md",
-        "albert-s-lai.md"
+        "overseas-community-affairs-council.md",
+        "ashton-hsu.md"
       ],
-      "reason": "Both link to organizations/formosan-presbyterian-church-in-los-angeles"
-    },
-    {
-      "type": "CO-CITATION",
-      "pages": [
-        "ntpc.md",
-        "albert-s-lai.md"
-      ],
-      "reason": "Both link to organizations/formosan-presbyterian-church-in-los-angeles"
+      "reason": "Both link to people/hsu-hsin-hung"
     },
     {
       "type": "CO-CITATION",
@@ -179,16 +187,8 @@
     {
       "type": "CO-CITATION",
       "pages": [
-        "overseas-community-affairs-council.md",
-        "zhou-wei-lin.md"
-      ],
-      "reason": "Both link to people/hsu-hsin-hung"
-    },
-    {
-      "type": "CO-CITATION",
-      "pages": [
-        "lin-yuan-ching.md",
-        "zhou-wei-lin.md"
+        "ashton-hsu.md",
+        "lin-yuan-ching.md"
       ],
       "reason": "Both link to people/hsu-hsin-hung"
     },
@@ -595,6 +595,54 @@
     {
       "type": "CO-CITATION",
       "pages": [
+        "ashton-hsu.md",
+        "david-lee.md"
+      ],
+      "reason": "Both link to people/leonard-hsu-jr"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "ashton-hsu.md",
+        "freeman-huang.md"
+      ],
+      "reason": "Both link to people/leonard-hsu-jr"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "david-lee.md",
+        "freeman-huang.md"
+      ],
+      "reason": "Both link to people/leonard-hsu-jr"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "ashton-hsu.md",
+        "ken-wu.md"
+      ],
+      "reason": "Both link to people/david-lee"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "ashton-hsu.md",
+        "rex-chen.md"
+      ],
+      "reason": "Both link to people/david-lee"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "ken-wu.md",
+        "rex-chen.md"
+      ],
+      "reason": "Both link to people/david-lee"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
         "chen-meihui.md",
         "guo-yingyan.md"
       ],
@@ -628,25 +676,9 @@
       "type": "CO-CITATION",
       "pages": [
         "david-lee.md",
-        "freeman-huang.md"
-      ],
-      "reason": "Both link to people/leonard-hsu-jr"
-    },
-    {
-      "type": "CO-CITATION",
-      "pages": [
-        "david-lee.md",
         "ken-wu.md"
       ],
-      "reason": "Both link to people/leonard-hsu-jr"
-    },
-    {
-      "type": "CO-CITATION",
-      "pages": [
-        "freeman-huang.md",
-        "ken-wu.md"
-      ],
-      "reason": "Both link to people/leonard-hsu-jr"
+      "reason": "Both link to people/rex-chen"
     },
     {
       "type": "CO-CITATION",
@@ -707,14 +739,6 @@
     {
       "type": "CO-CITATION",
       "pages": [
-        "ken-wu.md",
-        "rex-chen.md"
-      ],
-      "reason": "Both link to people/david-lee"
-    },
-    {
-      "type": "CO-CITATION",
-      "pages": [
         "sam-chang.md",
         "zhou-wei-lin.md"
       ],
@@ -738,7 +762,7 @@
     {
       "type": "ORPHAN_FOLDER",
       "folder": "people",
-      "reason": "132 pages, avg 6.2 links each, 4 internal links"
+      "reason": "133 pages, avg 6.3 links each, 4 internal links"
     },
     {
       "type": "ORPHAN_FOLDER",
@@ -746,5 +770,5 @@
       "reason": "10 pages, avg 4.0 links each, 0 internal links"
     }
   ],
-  "total_pages": 239
+  "total_pages": 240
 }

@@ -9,5 +9,6 @@
 [STALE_VERIFIED] 0 pages
   (none)
 
-[EXPLICIT_WIP] 1 pages
+[EXPLICIT_WIP] 2 pages
+  - ashton-hsu.md — WIP: 'initial draft' detected
   - freeman-huang.md — WIP: 'incomplete' detected
