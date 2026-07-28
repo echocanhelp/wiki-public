@@ -28,10 +28,11 @@ last_reviewed: 2026-07-28
 
 | Metric | Value |
 |--------|------:|
-| CDX inventory | 59,422 unique URLs |
-| Wayback downloads | 57,708 OK, 1,718 failed |
+| CDX inventory (unique URL jobs) | 59,422 |
+| Wayback downloads (download-state) | **59,220 OK**, **202 fail** (~5.8 GB) |
 | Tier 2 conversion | 29,102 ok + 12,404 skip = 41,506 in state |
-| Archive files | 29,103 markdown files |
+| Archive files | 29,103 markdown files (143.1 MB) |
+| P4 secondary gap-fill | content residual 118 → recoverable 66 / still missing 52 |
 
 ## Content Distribution
 
@@ -167,7 +168,11 @@ The complete article archive (29,103 articles) is published at:
 
 A systematic privacy gate scan was run on all 29,103 Tier 2 files. See the full report at `knowledge/research/taiwanjustice-net-privacy-gate.md`.
 
-**Summary:** Content is safe to publish. Phone numbers and emails are in the context of event announcements and organizational contact info (public-facing). No private individual data beyond what was already published on the public website.
+**Summary:** Content is safe to publish. Phone numbers and emails are in the context of event announcements and organizational contact info (public-facing). No private individual data beyond what was already published on the public website. **No LINE user IDs** on Tier-1 pages.
+
+## Residual gaps (P4)
+
+See `knowledge/research/taiwanjustice-net/GAP_REPORT.md` — residual download fails and secondary-archive recoverability. **Does not block** Tier-1 hub absorb; optional body re-fetch of 66 recoverable URLs is backlog.
 
 ## Related Pages
 

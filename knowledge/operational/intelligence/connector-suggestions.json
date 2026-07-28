@@ -3,10 +3,18 @@
     {
       "type": "CO-CITATION",
       "pages": [
-        "democratic-progressive-party.md",
-        "overseas-community-affairs-council.md"
+        "PILOT_NOTES.md",
+        "democratic-progressive-party.md"
       ],
-      "reason": "Both link to people/ken-wu"
+      "reason": "Both link to people/albert-s-lai"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "PILOT_NOTES.md",
+        "formosan-presbyterian-church-in-los-angeles.md"
+      ],
+      "reason": "Both link to people/albert-s-lai"
     },
     {
       "type": "CO-CITATION",
@@ -14,7 +22,15 @@
         "democratic-progressive-party.md",
         "formosan-presbyterian-church-in-los-angeles.md"
       ],
-      "reason": "Both link to sources/toward-a-community-of-hope"
+      "reason": "Both link to people/albert-s-lai"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "democratic-progressive-party.md",
+        "overseas-community-affairs-council.md"
+      ],
+      "reason": "Both link to people/ken-wu"
     },
     {
       "type": "CO-CITATION",
@@ -587,10 +603,42 @@
     {
       "type": "CO-CITATION",
       "pages": [
+        "taiwanjustice-net.md",
+        "chen-maoxiong.md"
+      ],
+      "reason": "Both link to people/freeman-huang"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "albert-chapter1-audiobook-consent-and-recording-kit.md",
+        "albert-en-sku-a-scratch-review.md"
+      ],
+      "reason": "Both link to people/albert-chapter1-audiobook-taiwanese-female"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
         "albert-chapter1-audiobook-consent-and-recording-kit.md",
         "albert-s-lai.md"
       ],
       "reason": "Both link to people/albert-chapter1-audiobook-taiwanese-female"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "albert-en-sku-a-scratch-review.md",
+        "albert-s-lai.md"
+      ],
+      "reason": "Both link to people/albert-chapter1-audiobook-taiwanese-female"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "albert-chapter1-en-review.md",
+        "albert-s-lai.md"
+      ],
+      "reason": "Both link to people/albert-en-sku-a-scratch-review"
     },
     {
       "type": "CO-CITATION",
@@ -639,6 +687,54 @@
         "rex-chen.md"
       ],
       "reason": "Both link to people/david-lee"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "chen-maoxiong.md",
+        "chen-po-kong.md"
+      ],
+      "reason": "Both link to organizations/taiwanjustice-net"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "chen-maoxiong.md",
+        "chen-zhaonan.md"
+      ],
+      "reason": "Both link to organizations/taiwanjustice-net"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "chen-maoxiong.md",
+        "du-ao-cunfu.md"
+      ],
+      "reason": "Both link to organizations/taiwanjustice-net"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "chen-po-kong.md",
+        "chen-zhaonan.md"
+      ],
+      "reason": "Both link to organizations/taiwanjustice-net"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "chen-po-kong.md",
+        "du-ao-cunfu.md"
+      ],
+      "reason": "Both link to organizations/taiwanjustice-net"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "chen-zhaonan.md",
+        "du-ao-cunfu.md"
+      ],
+      "reason": "Both link to organizations/taiwanjustice-net"
     },
     {
       "type": "CO-CITATION",
@@ -757,12 +853,17 @@
     {
       "type": "ORPHAN_FOLDER",
       "folder": "organizations",
-      "reason": "88 pages, avg 7.2 links each, 0 internal links"
+      "reason": "89 pages, avg 7.8 links each, 0 internal links"
+    },
+    {
+      "type": "ORPHAN_FOLDER",
+      "folder": "articles",
+      "reason": "29103 pages, avg 0.0 links each, 0 internal links"
     },
     {
       "type": "ORPHAN_FOLDER",
       "folder": "people",
-      "reason": "133 pages, avg 6.3 links each, 4 internal links"
+      "reason": "155 pages, avg 6.1 links each, 4 internal links"
     },
     {
       "type": "ORPHAN_FOLDER",
@@ -770,5 +871,5 @@
       "reason": "10 pages, avg 4.0 links each, 0 internal links"
     }
   ],
-  "total_pages": 240
+  "total_pages": 29367
 }

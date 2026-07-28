@@ -129,16 +129,17 @@ The site hosts over 20 video series. Notable ones include:
 
 ## Archive Status
 
-- **CDX inventory:** 59,422 unique URLs
-- **Wayback downloads:** 57,708 OK, 1,718 failed
+- **CDX inventory:** 59,422 unique URL jobs
+- **Wayback downloads:** **59,220 OK**, **202 fail** (post P2b; ~5.8 GB)
 - **Tier 2 conversion:** 29,102 ok + 12,404 skip = 41,506 in state
-- **Tier 2 files:** 29,103 markdown files (143.1 MB)
-- **Total chars:** 81,844,451
+- **Tier 2 files:** 29,103 markdown files (143.1 MB on disk; ~81.8M extracted chars)
+- **P4 gap-fill:** residual content 118 → secondary hits 66 / still missing 52 (`GAP_REPORT.md`)
 - **Live site:** Hostinger-parked — not a content source
+- **Public wording:** Historical mirror with publisher permission; original site closed ~2025-10
 
 ## Privacy Gate
 
-A systematic privacy gate scan was run on all 29,103 Tier 2 files. Content is safe to publish — phone numbers and emails are in the context of event announcements and organizational contact info (public-facing). No private individual data beyond what was already published. See the full report at `knowledge/research/taiwanjustice-net-privacy-gate.md`.
+A systematic privacy gate scan was run on all 29,103 Tier 2 files. Content is safe to publish — phone numbers and emails are in the context of event announcements and organizational contact info (public-facing). No private individual data beyond what was already published. No LINE U-ids on this page. See `knowledge/research/taiwanjustice-net-privacy-gate.md`.
 
 ## Source Notes
 

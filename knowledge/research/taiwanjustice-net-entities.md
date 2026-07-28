@@ -22,9 +22,10 @@ confidence: A
 | **Language** | 99.7% Traditional Chinese (zh-Hant), 185 English |
 | **Publisher** | freeman-huang (all files) |
 | **Date range** | 2011–2026 (post dates) |
-| **CDX inventory** | 59,422 unique URLs (TJ-P1) |
-| **Wayback downloads** | 57,708 OK, 1,718 failed (TJ-P2) |
+| **CDX inventory** | 59,422 unique URL jobs (TJ-P1) |
+| **Wayback downloads** | **59,220 OK**, **202 fail** (TJ-P2 + P2b) |
 | **Tier 2 conversion** | 29,102 ok + 12,404 skip = 41,506 in state (TJ-P3.2) |
+| **P4 gap-fill** | residual content 118 → recoverable 66 / missing 52 (`GAP_REPORT.md`) |
 
 ## Archive Structure
 
@@ -106,9 +107,13 @@ knowledge/web-archives/taiwanjustice-net/
 | 陳水扁 | Chen Shuibian | chen-shuibian | 14 | President (2000–2008) |
 
 **Name collision notes:**
-- 陳水扁 exists as former president in Echopedia — the taiwanjustice.net columnist references are about the political figure, not a different person.
+- 陳水扁 — thin page `people/chen-shuibian.md` for graph; political figure, not a columnist persona.
 - 陳破空 (columnist) ≠ 陳柏志 (GSTPC preacher) — different Chinese characters, different people.
 - 范姣提昆 may be the same person as 范姜提昂 — needs verification.
+
+### Political thin pages (created TJ-P5 QA 2026-07-28)
+
+All 10 political figures listed above now have thin A-tier `people/` pages for wikilink hygiene (role + archive hit count only).
 
 ### Video Series (20+)
 

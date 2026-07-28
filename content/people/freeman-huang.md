@@ -10,7 +10,7 @@ tags:
   - publisher
 verification_status: owner_verified
 featured: true
-last_reviewed: 2026-07-24
+last_reviewed: 2026-07-28
 ---
 # Freeman Huang (黃樹人)
 
@@ -36,7 +36,16 @@ Freeman Huang served as **Publisher of New Asian Weekly** from 1994 to 2010, mak
 In 2015, Huang became **Producer of the Taiwanese American Channel**, a video platform serving the Southern California Taiwanese American community. The channel provides news, cultural programming, and community coverage.
 
 ### Taiwanjustice.net (台灣公義網)
-Also in 2015, Huang became **Publisher of Taiwanjustice.net**, a platform focused on Taiwan-related social and political issues.
+Also in 2015, Huang became **Publisher of [[organizations/taiwanjustice-net|taiwanjustice.net (台灣公義網)]]**, a platform focused on Taiwan-related social and political issues.
+
+#### Site closure and Echopedia archive (2025–2026)
+- Live site closed ~**2025-10**; domain later Hostinger-parked (no content).
+- **2026-07-24 (LINE):** Freeman consented to Echopedia copying/preserving the public site after confirming he had no private backup (“I'll be very happy if you can copy the site!”).
+- Echopedia program (TJ-P1–P5): Wayback bulk archive → Tier2 markdown (**29,103** files) → source hub + org page + columnist thin pages. Bulk corpus stays in vault/`content/articles/`; high-value graph on wiki.
+- **Source hub:** [[sources/taiwanjustice-net|taiwanjustice.net source hub]]
+- **Article index:** [[articles/taiwanjustice-net/index|taiwanjustice.net Article Archive]]
+- **Entities / gaps:** `knowledge/research/taiwanjustice-net-entities.md`, `knowledge/research/taiwanjustice-net/GAP_REPORT.md`
+- Consent note for public pages: *Historical mirror of taiwanjustice.net (publisher permission; original site closed ~2025-10).*
 
 ## TAHS Founding
 
@@ -88,6 +97,9 @@ _(Optional — paste a short first-person intro anytime via LINE @Echo許.)_
 ## Related Pages
 
 - [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
+- [[organizations/taiwanjustice-net|taiwanjustice.net (台灣公義網)]]
+- [[sources/taiwanjustice-net|taiwanjustice.net source hub]]
+- [[articles/taiwanjustice-net/index|taiwanjustice.net Article Archive]]
 - [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - [[people/yang-xin|Yang Hsin (楊信)]] — profile written by Huang
 - [[people/anne-shih|Anne Shih (施劉秀枝)]] — photographed by Huang
@@ -98,3 +110,4 @@ _(Optional — paste a short first-person intro anytime via LINE @Echo許.)_
 
 - 2026-07-23: Person page published from TAHS sources (featured).
 - 2026-07-24: Owner verified LINE display name 黄樹人 as Freeman Huang; granted full Echopedia edit authority; added consent, verification, and member-editable testimony section.
+- 2026-07-28: TJ-P5 absorb — linked taiwanjustice.org/source/archive; recorded LINE consent + closure ~2025-10; no private LINE U-ids.

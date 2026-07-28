@@ -1,12 +1,24 @@
 #!/usr/bin/env python3
 """
-Gap-fill taiwanjustice.net archive by checking failed content URLs against
-Common Crawl, Ghostarchive, and Memento.
+TJ-P4 gap-fill: residual Wayback fails → secondary archives.
 
-For each failed content URL, query the three alternative archive sources
-and report which URLs are recoverable from each source, overlap between
-sources, and a prioritized list of URLs to retry.
+Sources (priority):
+  1. Arquivo.pt CDX (works from pinto 2026-07-28)
+  2. Ghostarchive HTML search (domain + per-URL term)
+  3. Internet Archive CDX recheck (often flaky; best-effort)
+  4. Common Crawl index — often empty-reply from this host; recorded as unavailable
+
+Inputs:
+  download-state.json (authoritative residual fails)
+  failed_urls_tjp2b.json (legacy bulk fail list; optional)
+
+Outputs (same directory):
+  gap_fill_results.json
+  gap_fill_summary.json
+  ../../research/taiwanjustice-net/GAP_REPORT.md
 """
+
+from __future__ import annotations
 
 import json
 import os
@@ -14,356 +26,419 @@ import re
 import time
 import urllib.parse
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from datetime import datetime, timezone
+from pathlib import Path
 
 import requests
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-FAILED_URLS_FILE = os.path.join(BASE_DIR, "failed_urls_tjp2b.json")
-OUTPUT_FILE = os.path.join(BASE_DIR, "gap_fill_results.json")
-SUMMARY_FILE = os.path.join(BASE_DIR, "gap_fill_summary.json")
+BASE_DIR = Path(__file__).resolve().parent
+STATE_FILE = BASE_DIR / "download-state.json"
+LEGACY_FAILS = BASE_DIR / "failed_urls_tjp2b.json"
+RESULTS_FILE = BASE_DIR / "gap_fill_results.json"
+SUMMARY_FILE = BASE_DIR / "gap_fill_summary.json"
+REPORT_FILE = BASE_DIR.parent.parent / "research" / "taiwanjustice-net" / "GAP_REPORT.md"
 
-# --- URL classification: content URLs vs images/sitemaps/feeds ---
-IMAGE_EXTENSIONS = {".jpg", ".jpeg", ".png", ".gif", ".svg", ".webp", ".bmp", ".ico", ".tiff"}
-SKIP_PATTERNS = [
-    r"/wp-content/uploads/",          # images, media
-    r"\.jpg$", r"\.jpeg$", r"\.png$", r"\.gif$", r"\.svg$", r"\.webp$", r"\.bmp$", r"\.ico$", r"\.tiff$",
-    r"/feed/?$",                       # RSS feeds
-    r"/sitemap",                       # sitemaps
-    r"/\.xml$",                        # XML files
-    r"/robots\.txt$",                  # robots
-    r"\.pdf$",                         # PDFs
-    r"/wp-json/",                      # WordPress API
-    r"/wp-admin/",                     # admin
-    r"/wp-includes/",                  # includes
-    r"#\b",                            # fragments
-]
-SKIP_REGEX = re.compile("|".join(SKIP_PATTERNS), re.IGNORECASE)
+UA = "Echopedia-TJ-P4-gap-fill/1.1 (+https://echocanhelp.github.io/wiki-public/; archive recovery)"
+SESSION = requests.Session()
+SESSION.headers.update({"User-Agent": UA, "Accept": "*/*"})
+
+IMAGE_EXT = {".jpg", ".jpeg", ".png", ".gif", ".svg", ".webp", ".bmp", ".ico", ".tiff", ".pdf"}
+SKIP_RE = re.compile(
+    r"(/wp-content/uploads/|/feed/?$|/sitemap|\.xml$|/robots\.txt$|/wp-json/|/wp-admin/|/wp-includes/|"
+    r"\.(?:jpg|jpeg|png|gif|svg|webp|bmp|ico|tiff|pdf|css|js)(?:$|\?))",
+    re.I,
+)
 
 
-def is_content_url(url):
-    """Filter to content URLs (posts/pages) — exclude images, feeds, sitemaps, etc."""
-    if SKIP_REGEX.search(url):
+def utc_now() -> str:
+    return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+
+def normalize_url(url: str) -> str:
+    url = url.strip()
+    if "#" in url:
+        url = url.split("#", 1)[0]
+    # strip :80 from netloc
+    p = urllib.parse.urlparse(url)
+    host = p.hostname or ""
+    scheme = p.scheme or "https"
+    path = p.path or "/"
+    query = f"?{p.query}" if p.query else ""
+    # prefer https bare host
+    return f"{scheme}://{host}{path}{query}"
+
+
+def is_content_url(url: str) -> bool:
+    if SKIP_RE.search(url):
+        return False
+    path = urllib.parse.urlparse(url).path.lower()
+    _, ext = os.path.splitext(path)
+    if ext in IMAGE_EXT:
         return False
     return True
 
 
-def normalize_url_for_cc(url):
-    """
-    Common Crawl index uses the URL without fragment, and typically
-    lowercases the host. We query the raw URL.
-    """
-    # Remove fragment
-    if "#" in url:
-        url = url.split("#")[0]
-    return url
+def load_residual_fails() -> list[str]:
+    """Prefer download-state residual fails; fall back to legacy list."""
+    urls: list[str] = []
+    if STATE_FILE.exists():
+        st = json.loads(STATE_FILE.read_text(encoding="utf-8"))
+        done = st.get("done_urls") or {}
+        for u, v in done.items():
+            if isinstance(v, dict) and v.get("status") in ("fail", "failed", "error"):
+                urls.append(u)
+    if not urls and LEGACY_FAILS.exists():
+        raw = json.loads(LEGACY_FAILS.read_text(encoding="utf-8"))
+        if isinstance(raw, list):
+            urls = raw
+    # de-dupe by normalized form, keep first
+    seen = set()
+    out = []
+    for u in urls:
+        n = normalize_url(u)
+        if n not in seen:
+            seen.add(n)
+            out.append(n)
+    return out
 
 
-def check_common_crawl(url, timeout=15):
-    """
-    Check Common Crawl index for a URL.
-    API: http://web.archive.org/cdx/search/cdx?url=...&output=json&limit=1
-    Actually, Common Crawl index is at: http://index.commoncrawl.org/
-    We use the CC index API: http://index.commoncrawl.org/collinfo.json
-    and query: http://index.commoncrawl.org/CC-MAIN-2024-06-index?url=taiwanjustice.net/*&output=json
-    """
+def check_arquivo(url: str, timeout: float = 20.0) -> dict:
     result = {
         "found": False,
         "snapshot_url": None,
         "timestamp": None,
         "status_code": None,
-        "source": "common_crawl",
+        "source": "arquivo.pt",
+        "error": None,
     }
     try:
-        # Extract domain and path
-        parsed = urllib.parse.urlparse(url)
-        domain = parsed.netloc
-        path = parsed.path
-        if parsed.query:
-            path += "?" + parsed.query
-
-        # Common Crawl index API
-        # Query: http://index.commoncrawl.org/CC-MAIN-2024-06-index?url=example.com/path&output=json
-        # We need to try multiple collections or use the 'all' endpoint
-        cc_url = (
-            f"http://index.commoncrawl.org/CC-MAIN-2024-06-index?"
-            f"url={domain}{path}&output=json&limit=5&filter=statuscode:200"
-        )
-
-        resp = requests.get(cc_url, timeout=timeout, headers={"User-Agent": "gap-fill-bot/1.0"})
-        if resp.status_code == 200:
-            lines = resp.text.strip().split("\n")
-            if lines and len(lines) > 1:
-                # First line is header, subsequent lines are results
-                for line in lines[1:]:
-                    try:
-                        entry = json.loads(line)
-                        if len(entry) >= 5:
-                            result["found"] = True
-                            result["timestamp"] = entry[1]  # timestamp
-                            result["status_code"] = entry[2] if len(entry) > 2 else None
-                            # Construct wayback URL
-                            result["snapshot_url"] = f"https://web.archive.org/web/{entry[1]}/{entry[0]}"
-                            break
-                    except json.JSONDecodeError:
-                        continue
-        elif resp.status_code == 404:
-            result["found"] = False
-        else:
-            result["found"] = False
+        # strip scheme for broader match; arquivo CDX accepts full URL too
+        q = urllib.parse.quote(url, safe="")
+        api = f"https://arquivo.pt/wayback/cdx?url={q}&output=json&limit=5&filter=status:200"
+        r = SESSION.get(api, timeout=timeout)
+        if r.status_code != 200 or not r.text.strip():
+            # try host+path wildcard-ish by bare host path
+            p = urllib.parse.urlparse(url)
+            alt = f"{p.netloc}{p.path}"
+            api = f"https://arquivo.pt/wayback/cdx?url={urllib.parse.quote(alt, safe='')}&output=json&limit=5"
+            r = SESSION.get(api, timeout=timeout)
+        if r.status_code != 200:
+            result["error"] = f"http {r.status_code}"
+            return result
+        # NDJSON or JSON lines
+        lines = [ln for ln in r.text.strip().splitlines() if ln.strip()]
+        best = None
+        for ln in lines:
+            try:
+                obj = json.loads(ln)
+            except json.JSONDecodeError:
+                continue
+            if isinstance(obj, list):
+                # unlikely array form
+                continue
+            if not isinstance(obj, dict):
+                continue
+            status = str(obj.get("status") or obj.get("statuscode") or "")
+            ts = obj.get("timestamp")
+            orig = obj.get("url") or url
+            if status and status not in ("200", "226"):
+                # keep 200 preferred; allow others as weak
+                if best is None:
+                    best = (ts, orig, status, True)
+                continue
+            best = (ts, orig, status, False)
+            break
+        if best:
+            ts, orig, status, weak = best
+            if ts:
+                result["found"] = True
+                result["timestamp"] = ts
+                result["status_code"] = status
+                result["snapshot_url"] = f"https://arquivo.pt/wayback/{ts}/{orig}"
+                if weak:
+                    result["weak"] = True
     except Exception as e:
-        result["error"] = str(e)
+        result["error"] = str(e)[:300]
     return result
 
 
-def check_ghostarchive(url, timeout=15):
-    """
-    Check Ghostarchive for a URL snapshot.
-    Ghostarchive API: https://ghostarchive.org/search?query=...
-    Also: https://ghostarchive.org/api/v1/search?query=...
-    """
+def check_ghostarchive(url: str, timeout: float = 20.0) -> dict:
     result = {
         "found": False,
         "snapshot_url": None,
         "timestamp": None,
         "status_code": None,
         "source": "ghostarchive",
+        "error": None,
     }
     try:
-        # Ghostarchive search API
-        api_url = f"https://ghostarchive.org/search?query={urllib.parse.quote(url)}"
-        resp = requests.get(api_url, timeout=timeout, headers={"User-Agent": "gap-fill-bot/1.0"})
-        if resp.status_code == 200:
-            # Check if the response contains archive results
-            text = resp.text
-            # Look for archive URLs in the response
-            if "ghostarchive.org" in text and "archive" in text.lower():
-                # Try to find the snapshot URL
-                # Ghostarchive URLs look like: https://ghostarchive.org/...
+        # Ghostarchive search uses ?term=
+        term = urllib.parse.urlparse(url).path or url
+        # Prefer full URL without scheme for precision
+        p = urllib.parse.urlparse(url)
+        term = f"{p.netloc}{p.path}"
+        api = f"https://ghostarchive.org/search?term={urllib.parse.quote(term)}"
+        r = SESSION.get(api, timeout=timeout)
+        if r.status_code != 200:
+            result["error"] = f"http {r.status_code}"
+            return result
+        html = r.text
+        # rows: <a href="/archive/XXXX">URL</a> ... Date
+        for m in re.finditer(
+            r'href="(/archive/[^"]+)"[^>]*>(https?://[^<]+)</a></td><td>([^<]+)',
+            html,
+        ):
+            snap_path, found_url, date = m.group(1), m.group(2), m.group(3).strip()
+            # loose path match
+            if urllib.parse.urlparse(found_url).path.rstrip("/") == p.path.rstrip("/") or p.path in found_url:
                 result["found"] = True
-                result["snapshot_url"] = f"https://ghostarchive.org/search?query={urllib.parse.quote(url)}"
-                # Extract timestamp if available
-                ts_match = re.search(r'"timestamp"\s*:\s*"([^"]+)"', text)
-                if ts_match:
-                    result["timestamp"] = ts_match.group(1)
-        else:
-            result["found"] = False
+                result["snapshot_url"] = f"https://ghostarchive.org{snap_path}"
+                result["timestamp"] = date
+                break
+        # domain-only fallback already handled in bulk domain probe
     except Exception as e:
-        result["error"] = str(e)
+        result["error"] = str(e)[:300]
     return result
 
 
-def check_memento(url, timeout=15):
-    """
-    Check Memento (timetravel.mementoweb.org) for archived copies.
-    API: http://timetravel.mementoweb.org/api/json/<url>
-    """
+def check_ia_cdx(url: str, timeout: float = 25.0) -> dict:
     result = {
         "found": False,
         "snapshot_url": None,
         "timestamp": None,
         "status_code": None,
-        "source": "memento",
+        "source": "internet_archive_cdx",
+        "error": None,
     }
     try:
-        # Memento API returns JSON with available snapshots
-        memento_url = f"http://timetravel.mementoweb.org/api/json/{url}"
-        resp = requests.get(memento_url, timeout=timeout, headers={"User-Agent": "gap-fill-bot/1.0"})
-        if resp.status_code == 200:
-            try:
-                data = resp.json()
-                # Memento returns a list of mementos
-                if isinstance(data, list):
-                    for memento in data:
-                        if isinstance(memento, dict):
-                            result["found"] = True
-                            result["snapshot_url"] = memento.get("url", memento.get("uri"))
-                            result["timestamp"] = memento.get("datetime", memento.get("timestamp"))
-                            result["status_code"] = memento.get("status")
-                            break
-                elif isinstance(data, dict):
-                    # Some responses are dicts
-                    if "mementos" in data:
-                        mementos = data["mementos"]
-                        if isinstance(mementos, list) and mementos:
-                            result["found"] = True
-                            result["snapshot_url"] = mementos[0].get("url", mementos[0].get("uri"))
-                            result["timestamp"] = mementos[0].get("datetime", mementos[0].get("timestamp"))
-                            result["status_code"] = mementos[0].get("status")
-                    elif "url" in data or "uri" in data:
-                        result["found"] = True
-                        result["snapshot_url"] = data.get("url", data.get("uri"))
-                        result["timestamp"] = data.get("datetime", data.get("timestamp"))
-                        result["status_code"] = data.get("status")
-            except json.JSONDecodeError:
-                pass
-        else:
-            result["found"] = False
+        q = urllib.parse.quote(url, safe="")
+        api = (
+            "https://web.archive.org/cdx/search/cdx"
+            f"?url={q}&output=json&filter=statuscode:200&limit=3&fl=timestamp,original,statuscode,digest"
+        )
+        r = SESSION.get(api, timeout=timeout)
+        if r.status_code != 200:
+            result["error"] = f"http {r.status_code}"
+            return result
+        data = r.json()
+        if not isinstance(data, list) or len(data) < 2:
+            return result
+        # first row header
+        for row in data[1:]:
+            if len(row) < 3:
+                continue
+            ts, original, status = row[0], row[1], row[2]
+            result["found"] = True
+            result["timestamp"] = ts
+            result["status_code"] = status
+            result["snapshot_url"] = f"https://web.archive.org/web/{ts}id_/{original}"
+            break
     except Exception as e:
-        result["error"] = str(e)
+        result["error"] = str(e)[:300]
     return result
 
 
-def check_all_sources(url):
-    """Query all three archive sources for a single URL."""
-    url_result = {
+def check_common_crawl_probe(timeout: float = 12.0) -> dict:
+    """Single probe — CC index often empty-reply from this host."""
+    out = {"available": False, "error": None, "endpoint": "https://index.commoncrawl.org/collinfo.json"}
+    try:
+        r = SESSION.get(out["endpoint"], timeout=timeout)
+        out["available"] = r.status_code == 200 and bool(r.text.strip())
+        if not out["available"]:
+            out["error"] = f"http {r.status_code} empty={not bool(r.text.strip())}"
+    except Exception as e:
+        out["error"] = str(e)[:300]
+    return out
+
+
+def ghostarchive_domain_hits(timeout: float = 25.0) -> list[dict]:
+    hits = []
+    try:
+        r = SESSION.get("https://ghostarchive.org/search?term=taiwanjustice.net", timeout=timeout)
+        if r.status_code != 200:
+            return hits
+        for m in re.finditer(
+            r'href="(/archive/[^"]+)"[^>]*>(https?://[^<]+)</a></td><td>([^<]+)',
+            r.text,
+        ):
+            hits.append(
+                {
+                    "snapshot_url": f"https://ghostarchive.org{m.group(1)}",
+                    "url": m.group(2),
+                    "timestamp": m.group(3).strip(),
+                }
+            )
+    except Exception:
+        pass
+    return hits
+
+
+def check_all(url: str) -> dict:
+    row = {
         "url": url,
-        "common_crawl": check_common_crawl(url),
+        "arquivo": check_arquivo(url),
         "ghostarchive": check_ghostarchive(url),
-        "memento": check_memento(url),
+        "internet_archive_cdx": check_ia_cdx(url),
     }
-    # Determine which sources found it
-    sources_found = []
-    for source in ["common_crawl", "ghostarchive", "memento"]:
-        if url_result[source]["found"]:
-            sources_found.append(source)
-    url_result["sources_found"] = sources_found
-    url_result["total_sources"] = len(sources_found)
-    return url_result
+    sources = [k for k in ("arquivo", "ghostarchive", "internet_archive_cdx") if row[k].get("found")]
+    row["sources_found"] = sources
+    row["total_sources"] = len(sources)
+    return row
 
 
-def main():
-    print("Loading failed URLs...")
-    with open(FAILED_URLS_FILE, "r", encoding="utf-8") as f:
-        all_failed_urls = json.load(f)
+def main() -> int:
+    print(f"[{utc_now()}] TJ-P4 gap-fill start")
+    residual = load_residual_fails()
+    content = [u for u in residual if is_content_url(u)]
+    non_content = [u for u in residual if not is_content_url(u)]
+    print(f"Residual fails: {len(residual)} | content: {len(content)} | non-content: {len(non_content)}")
 
-    print(f"Total unique failed URLs: {len(all_failed_urls)}")
+    cc_probe = check_common_crawl_probe()
+    print(f"Common Crawl index available: {cc_probe}")
 
-    # Filter to content URLs only
-    content_urls = [u for u in all_failed_urls if is_content_url(u)]
-    print(f"Content URLs (filtered): {len(content_urls)}")
+    ga_domain = ghostarchive_domain_hits()
+    print(f"Ghostarchive domain hits: {len(ga_domain)}")
 
-    # Show some stats about what was filtered out
-    filtered_out = [u for u in all_failed_urls if not is_content_url(u)]
-    print(f"Filtered out (images/sitemaps/feeds/etc): {len(filtered_out)}")
-    if filtered_out:
-        print(f"  Examples: {filtered_out[:5]}")
-
-    # Process URLs with parallel requests
-    # Use a reasonable number of workers to avoid rate limiting
-    MAX_WORKERS = 20
     results = []
-    errors = []
+    max_workers = 4
+    t0 = time.time()
+    if content:
+        with ThreadPoolExecutor(max_workers=max_workers) as ex:
+            futs = {ex.submit(check_all, u): u for u in content}
+            done_n = 0
+            for fut in as_completed(futs):
+                results.append(fut.result())
+                done_n += 1
+                if done_n % 25 == 0 or done_n == len(content):
+                    rate = done_n / max(time.time() - t0, 0.1)
+                    print(f"  Progress {done_n}/{len(content)} ({rate:.2f}/s)")
 
-    print(f"\nQuerying 3 archive sources for {len(content_urls)} content URLs...")
-    print(f"  Workers: {MAX_WORKERS}")
-    print(f"  Sources: Common Crawl, Ghostarchive, Memento")
+    # coverage
+    def count_found(key):
+        return sum(1 for r in results if r.get(key, {}).get("found"))
 
-    start_time = time.time()
+    any_found = sum(1 for r in results if r.get("total_sources", 0) > 0)
+    none_found = [r["url"] for r in results if r.get("total_sources", 0) == 0]
+    recoverable = [r for r in results if r.get("total_sources", 0) > 0]
 
-    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-        future_to_url = {
-            executor.submit(check_all_sources, url): url
-            for url in content_urls
-        }
-
-        completed = 0
-        for future in as_completed(future_to_url):
-            url = future_to_url[future]
-            try:
-                result = future.result()
-                results.append(result)
-            except Exception as e:
-                errors.append({"url": url, "error": str(e)})
-            completed += 1
-            if completed % 100 == 0:
-                elapsed = time.time() - start_time
-                rate = completed / elapsed if elapsed > 0 else 0
-                print(f"  Progress: {completed}/{len(content_urls)} ({rate:.1f}/s)")
-
-    elapsed = time.time() - start_time
-    print(f"\nCompleted {len(results)} checks in {elapsed:.1f}s ({len(results)/elapsed:.1f}/s)")
-    if errors:
-        print(f"Errors: {len(errors)}")
-
-    # Save raw results
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(results, f, ensure_ascii=False, indent=2)
-    print(f"\nRaw results saved to: {OUTPUT_FILE}")
-
-    # Generate summary
-    summary = generate_summary(results, content_urls)
-    with open(SUMMARY_FILE, "w", encoding="utf-8") as f:
-        json.dump(summary, f, ensure_ascii=False, indent=2)
-    print(f"Summary saved to: {SUMMARY_FILE}")
-
-    # Print summary
-    print("\n" + "=" * 60)
-    print("GAP-FILL SUMMARY")
-    print("=" * 60)
-    print(f"Total content URLs checked: {len(content_urls)}")
-    print(f"  Common Crawl:  {summary['coverage']['common_crawl']} found ({summary['coverage']['common_crawl_pct']:.1f}%)")
-    print(f"  Ghostarchive:  {summary['coverage']['ghostarchive']} found ({summary['coverage']['ghostarchive_pct']:.1f}%)")
-    print(f"  Memento:       {summary['coverage']['memento']} found ({summary['coverage']['memento_pct']:.1f}%)")
-    print(f"  Any source:    {summary['coverage']['any_source']} found ({summary['coverage']['any_source_pct']:.1f}%)")
-    print(f"  No source:     {summary['coverage']['no_source']} not found")
-    print(f"\nOverlap (URLs found in multiple sources):")
-    for overlap_desc, count in summary["overlaps"].items():
-        if count > 0:
-            print(f"  {overlap_desc}: {count}")
-    print(f"\nPrioritized retry list: {len(summary['prioritized_retry'])} URLs")
-    print(f"  (URLs found in 0 sources, sorted by date)")
-
-    return summary
-
-
-def generate_summary(results, content_urls):
-    """Generate summary statistics from results."""
-    cc_found = 0
-    ga_found = 0
-    mem_found = 0
-    any_found = 0
-    no_source = []
-
-    # Track overlaps
-    cc_set = set()
-    ga_set = set()
-    mem_set = set()
-
-    for r in results:
-        url = r["url"]
-        found_any = False
-        if r["common_crawl"]["found"]:
-            cc_found += 1
-            cc_set.add(url)
-            found_any = True
-        if r["ghostarchive"]["found"]:
-            ga_found += 1
-            ga_set.add(url)
-            found_any = True
-        if r["memento"]["found"]:
-            mem_found += 1
-            mem_set.add(url)
-            found_any = True
-        if found_any:
-            any_found += 1
-        else:
-            no_source.append(url)
-
-    total = len(results)
     summary = {
-        "total_content_urls": total,
+        "generated_at": utc_now(),
+        "script_version": "gap_fill.py 1.1",
+        "residual_fails_total": len(residual),
+        "content_urls_checked": len(content),
+        "non_content_skipped": len(non_content),
+        "common_crawl_probe": cc_probe,
+        "ghostarchive_domain_hits": len(ga_domain),
+        "ghostarchive_domain_samples": ga_domain[:20],
         "coverage": {
-            "common_crawl": cc_found,
-            "common_crawl_pct": (cc_found / total * 100) if total > 0 else 0,
-            "ghostarchive": ga_found,
-            "ghostarchive_pct": (ga_found / total * 100) if total > 0 else 0,
-            "memento": mem_found,
-            "memento_pct": (mem_found / total * 100) if total > 0 else 0,
+            "arquivo": count_found("arquivo"),
+            "ghostarchive": count_found("ghostarchive"),
+            "internet_archive_cdx": count_found("internet_archive_cdx"),
             "any_source": any_found,
-            "any_source_pct": (any_found / total * 100) if total > 0 else 0,
-            "no_source": len(no_source),
+            "no_source": len(none_found),
+            "any_source_pct": round(100.0 * any_found / len(results), 1) if results else 0.0,
         },
-        "overlaps": {
-            "cc_and_ga": len(cc_set & ga_set),
-            "cc_and_mem": len(cc_set & mem_set),
-            "ga_and_mem": len(ga_set & mem_set),
-            "all_three": len(cc_set & ga_set & mem_set),
-        },
-        "prioritized_retry": no_source,  # URLs not found in any source
+        "prioritized_still_missing": none_found[:500],
+        "recoverable_count": len(recoverable),
     }
 
-    return summary
+    RESULTS_FILE.write_text(json.dumps(results, ensure_ascii=False, indent=2), encoding="utf-8")
+    SUMMARY_FILE.write_text(json.dumps(summary, ensure_ascii=False, indent=2), encoding="utf-8")
+
+    # GAP_REPORT.md for Freeman / Leonard
+    REPORT_FILE.parent.mkdir(parents=True, exist_ok=True)
+    lines = []
+    lines.append("# GAP_REPORT — taiwanjustice.net residual archive gaps")
+    lines.append("")
+    lines.append(f"**Generated:** {summary['generated_at']}  ")
+    lines.append(f"**Script:** `{summary['script_version']}`  ")
+    lines.append(f"**Kanban:** `t_6b71e5a7` TJ-P4  ")
+    lines.append("")
+    lines.append("## Context")
+    lines.append("")
+    lines.append("After Wayback bulk download (P2) + fail-retry (P2b), residual download-state fails were checked against secondary archives.")
+    lines.append("")
+    lines.append("| Metric | Count |")
+    lines.append("|--------|------:|")
+    lines.append(f"| Residual fails (download-state) | {len(residual)} |")
+    lines.append(f"| Content URLs checked | {len(content)} |")
+    lines.append(f"| Non-content skipped (media/feed/etc.) | {len(non_content)} |")
+    lines.append(f"| Recoverable from ≥1 secondary source | {any_found} |")
+    lines.append(f"| Still missing all secondaries | {len(none_found)} |")
+    lines.append(f"| Arquivo.pt hits | {summary['coverage']['arquivo']} |")
+    lines.append(f"| Ghostarchive per-URL hits | {summary['coverage']['ghostarchive']} |")
+    lines.append(f"| IA CDX recheck hits | {summary['coverage']['internet_archive_cdx']} |")
+    lines.append(f"| Ghostarchive domain-level hits | {len(ga_domain)} |")
+    lines.append("")
+    lines.append("## Source availability (from pinto, this run)")
+    lines.append("")
+    lines.append(f"- **Arquivo.pt CDX:** used as primary secondary index")
+    lines.append(f"- **Ghostarchive:** HTML search `?term=` works; domain search returned {len(ga_domain)} hit(s)")
+    lines.append(f"- **Internet Archive CDX:** best-effort recheck (timeouts/503 possible)")
+    lines.append(f"- **Common Crawl index:** **unavailable** from this host — `{cc_probe.get('error')}`")
+    lines.append(f"- **Memento TimeTravel (`timetravel.mementoweb.org`):** DNS resolve failed on pinto")
+    lines.append("")
+    lines.append("## Ghostarchive domain captures")
+    lines.append("")
+    if ga_domain:
+        for h in ga_domain:
+            lines.append(f"- [{h.get('timestamp','')}]({h.get('snapshot_url')}) — `{h.get('url')}`")
+    else:
+        lines.append("_None parsed._")
+    lines.append("")
+    lines.append("## Recoverable residual content URLs (sample)")
+    lines.append("")
+    if recoverable:
+        for r in recoverable[:50]:
+            srcs = ", ".join(r.get("sources_found") or [])
+            snap = None
+            for k in ("arquivo", "ghostarchive", "internet_archive_cdx"):
+                if r.get(k, {}).get("found"):
+                    snap = r[k].get("snapshot_url")
+                    break
+            lines.append(f"- `{r['url']}`")
+            lines.append(f"  - sources: {srcs}")
+            if snap:
+                lines.append(f"  - snapshot: {snap}")
+    else:
+        lines.append("_No residual content URL matched secondary indexes in this pass._")
+    lines.append("")
+    lines.append("## Still missing (content) — for Freeman if unique copies exist")
+    lines.append("")
+    lines.append("These residual content URLs were not found in Arquivo.pt / Ghostarchive / IA CDX during this run.")
+    lines.append("They may still exist only on private disks, email newsletters, or social shares.")
+    lines.append("")
+    if none_found:
+        for u in none_found[:100]:
+            lines.append(f"- {u}")
+        if len(none_found) > 100:
+            lines.append(f"- … and {len(none_found) - 100} more (see `gap_fill_summary.json`)")
+    else:
+        lines.append("_None — all residual content URLs had at least one secondary hit (or list empty)._")
+    lines.append("")
+    lines.append("## Artifacts")
+    lines.append("")
+    lines.append("- `knowledge/web-archives/taiwanjustice-net/gap_fill_results.json`")
+    lines.append("- `knowledge/web-archives/taiwanjustice-net/gap_fill_summary.json`")
+    lines.append("- `knowledge/research/taiwanjustice-net/GAP_REPORT.md` (this file)")
+    lines.append("")
+    lines.append("## Recommended next steps")
+    lines.append("")
+    lines.append("1. Optionally fetch Arquivo/Ghostarchive bodies for recoverable URLs into `raw-html/` + re-run Tier2 converter.")
+    lines.append("2. Ask Freeman only for **still-missing content** titles if high-value.")
+    lines.append("3. Proceed TJ-P5 Tier-1 absorb on healthy Tier2 corpus (29k md) — do not block P5 on residual media fails.")
+    lines.append("")
+    REPORT_FILE.write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+    print("Wrote", RESULTS_FILE)
+    print("Wrote", SUMMARY_FILE)
+    print("Wrote", REPORT_FILE)
+    print(
+        f"DONE content={len(content)} any={any_found} none={len(none_found)} "
+        f"arquivo={summary['coverage']['arquivo']} ga={summary['coverage']['ghostarchive']} ia={summary['coverage']['internet_archive_cdx']}"
+    )
+    return 0
 
 
 if __name__ == "__main__":
-    main()
+    raise SystemExit(main())

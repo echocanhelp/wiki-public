@@ -1,9 +1,9 @@
 =====================================================
-  VAULT INTELLIGENCE — 2026-07-27
+  VAULT INTELLIGENCE — 2026-07-28
 =====================================================
 
 📋 UNFINISHED THREADS          
-  • 2 pages WIP/incomplete
+  • 3 pages WIP/incomplete
 
 🔗 NEW CONNECTIONS             
   • 94 co-citation pairs
