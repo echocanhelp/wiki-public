@@ -6,7 +6,7 @@ source_url: https://www.taiwanjustice.net/wp-content/uploads/siteground-optimize
 archive_url: https://web.archive.org/web/20240905102318/https://www.taiwanjustice.net/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-cbd9c74b10808cbf7852c0aeb9433770.css
 archive_ts: 20240905102318
 archive_digest: FFEUQEP3GUMOUYPOFKG3PORBVDVU37UU
-fetched: 2026-07-28T00:12:38Z
+fetched: 2026-07-28 00:12:38+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: en

@@ -6,7 +6,7 @@ source_url: https://taiwanjustice.net/category/taiwan-news/relationship/?filter_
 archive_url: https://web.archive.org/web/20250210103457/https://taiwanjustice.net/category/taiwan-news/relationship/?filter_by=review_high
 archive_ts: 20250210103457
 archive_digest: Q6OYL7JVJQV62ZT546E5LINK5GTTI2HM
-fetched: 2026-07-26T05:59:23Z
+fetched: 2026-07-26 05:59:23+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant

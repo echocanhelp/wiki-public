@@ -6,16 +6,16 @@ source_url: http://www.taiwanjustice.net:80/category/column/chen-po-kong/
 archive_url: https://web.archive.org/web/20171109043028/http://www.taiwanjustice.net:80/category/column/chen-po-kong/
 archive_ts: 20171109043028
 archive_digest: YQLPLW4IJ6SCXHQCVCBU3QD2Y537BWNT
-fetched: 2026-07-26T05:14:11Z
+fetched: 2026-07-26 05:14:11+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
 categories:
-  - po-kong-chen
-  - chen-po-kong
-  - videos
-  - column
+- po-kong-chen
+- chen-po-kong
+- videos
+- column
 ---
 
 Home

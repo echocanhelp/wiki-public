@@ -6,12 +6,12 @@ source_url: https://www.taiwanjustice.net/category/videos/news-face/page/2/
 archive_url: https://web.archive.org/web/20200626073334/https://www.taiwanjustice.net/category/videos/news-face/page/2/
 archive_ts: 20200626073334
 archive_digest: 2FOFNOU4LVHQ3344OHBO53DMFJVSNB3Y
-fetched: 2026-07-26T05:25:40Z
+fetched: 2026-07-26 05:25:40+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2020-06-25T07:45:57-07:00
+post_date: 2020-06-25 07:45:57-07:00
 ---
 
 Home

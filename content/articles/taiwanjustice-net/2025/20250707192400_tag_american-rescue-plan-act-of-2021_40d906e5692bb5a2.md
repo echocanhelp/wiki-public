@@ -1,5 +1,5 @@
 ---
-title: Tag: American Rescue Plan Act of 2021
+title: 'Tag: American Rescue Plan Act of 2021'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/american-rescue-plan-act-of-2021/
 archive_url: https://web.archive.org/web/20250707192400/https://taiwanjustice.net/tag/american-rescue-plan-act-of-2021/
 archive_ts: 20250707192400
 archive_digest: WTU3PM5TFOKQSAZPLZRBED53XC7G4KBX
-fetched: 2026-07-26T11:22:21Z
+fetched: 2026-07-26 11:22:21+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-03-10T09:17:54-08:00
+post_date: 2021-03-10 09:17:54-08:00
 ---
 
 Home

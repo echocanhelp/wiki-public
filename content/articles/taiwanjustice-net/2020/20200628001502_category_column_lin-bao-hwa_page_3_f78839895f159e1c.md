@@ -6,12 +6,12 @@ source_url: https://www.taiwanjustice.net/category/column/lin-bao-hwa/page/3/
 archive_url: https://web.archive.org/web/20200628001502/https://www.taiwanjustice.net/category/column/lin-bao-hwa/page/3/
 archive_ts: 20200628001502
 archive_digest: LV2MZ7LBCT3OWF7DWG2X6NUUCYNEUELJ
-fetched: 2026-07-26T05:27:52Z
+fetched: 2026-07-26 05:27:52+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2020-06-09T19:35:56-07:00
+post_date: 2020-06-09 19:35:56-07:00
 ---
 
 Home

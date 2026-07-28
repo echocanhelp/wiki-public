@@ -1,0 +1,16 @@
+{
+  "source_url": "http://www.taiwanjustice.net:80/wp-json/oembed/1.0/embed?url=http://www.taiwanjustice.net/2017/12/04/%E6%96%B0%E8%81%9E%E6%8C%96%E6%8C%96%E5%93%87-20171204-%E5%A9%9A%E5%A7%BB%E4%B8%AD%E7%9A%84%E5%9B%B0%E9%9B%A3/&format=xml",
+  "archive_ts": "20171211191205",
+  "archive_url": "https://web.archive.org/web/20171211191205/http://www.taiwanjustice.net:80/wp-json/oembed/1.0/embed?url=http://www.taiwanjustice.net/2017/12/04/%E6%96%B0%E8%81%9E%E6%8C%96%E6%8C%96%E5%93%87-20171204-%E5%A9%9A%E5%A7%BB%E4%B8%AD%E7%9A%84%E5%9B%B0%E9%9B%A3/&format=xml",
+  "wayback_id_url": "https://web.archive.org/web/20171211191205id_/http://www.taiwanjustice.net/wp-json/oembed/1.0/embed?url=http://www.taiwanjustice.net/2017/12/04/%E6%96%B0%E8%81%9E%E6%8C%96%E6%8C%96%E5%93%87-20171204-%E5%A9%9A%E5%A7%BB%E4%B8%AD%E7%9A%84%E5%9B%B0%E9%9B%A3/&format=xml",
+  "cdx_digest": "NWQ3BMTL6FSPAK35PSRT654WUKCDRZ4D",
+  "cdx_mimetype": "text/xml",
+  "cdx_class": "wordpress_infra",
+  "content_type": "text/xml; charset=UTF-8",
+  "sha256": "d335fad9a2f9881b3cb3d86f0f9f1f8319d0666598f1d88c611f8ae342a1cdd2",
+  "bytes": 3146,
+  "fetched_at": "2026-07-27T08:12:17Z",
+  "method": "wayback-id_",
+  "keep_comments": true,
+  "keep_newsletters": true
+}

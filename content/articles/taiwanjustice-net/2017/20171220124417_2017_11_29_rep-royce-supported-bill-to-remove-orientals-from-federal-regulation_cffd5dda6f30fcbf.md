@@ -1,21 +1,22 @@
 ---
-title: Rep. Royce-Supported Bill to Remove “Orientals” from Federal Regulations Unanimously Passes the House 20017-11-29
+title: Rep. Royce-Supported Bill to Remove “Orientals” from Federal Regulations Unanimously
+  Passes the House 20017-11-29
 type: article
 domain: taiwanjustice.net
 source_url: http://www.taiwanjustice.net:80/2017/11/29/rep-royce-supported-bill-to-remove-orientals-from-federal-regulations-unanimously-passes-the-house-20017-11-29/
 archive_url: https://web.archive.org/web/20171220124417/http://www.taiwanjustice.net:80/2017/11/29/rep-royce-supported-bill-to-remove-orientals-from-federal-regulations-unanimously-passes-the-house-20017-11-29/
 archive_ts: 20171220124417
 archive_digest: PNHR6QDD53UEJ2RS7N3TTMKZEQUNIDQ3
-fetched: 2026-07-26T23:05:23Z
+fetched: 2026-07-26 23:05:23+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: en
 cdx_class: other
-post_date: 2017-11-29T10:40:28+00:00
+post_date: 2017-11-29 10:40:28+00:00
 categories:
-  - english-pages
-  - taiwaneseamerican
-  - internatinal
+- english-pages
+- taiwaneseamerican
+- internatinal
 ---
 
 | Royce-Supported Bill to Remove “Orientals” from Federal Regulations Unanimously Passes the House | 

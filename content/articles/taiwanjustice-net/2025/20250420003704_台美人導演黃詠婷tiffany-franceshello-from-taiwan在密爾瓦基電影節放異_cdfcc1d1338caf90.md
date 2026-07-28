@@ -6,16 +6,16 @@ source_url: https://taiwanjustice.net/%E5%8F%B0%E7%BE%8E%E4%BA%BA%E5%B0%8E%E6%BC
 archive_url: https://web.archive.org/web/20250420003704/https://taiwanjustice.net/%E5%8F%B0%E7%BE%8E%E4%BA%BA%E5%B0%8E%E6%BC%94%E9%BB%83%E8%A9%A0%E5%A9%B7tiffany-franceshello-from-taiwan%E5%9C%A8%E5%AF%86%E7%88%BE%E7%93%A6%E5%9F%BA%E9%9B%BB%E5%BD%B1%E7%AF%80%E6%94%BE%E7%95%B0/
 archive_ts: 20250420003704
 archive_digest: VU6RHN3A6C7HZKLZ5V4YOKKRVTRD7T7K
-fetched: 2026-07-25T02:56:08Z
+fetched: 2026-07-25 02:56:08+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: article_candidate
-post_date: 2021-03-15T18:25:28-07:00
+post_date: 2021-03-15 18:25:28-07:00
 categories:
-  - usa
-  - taiwaneseamerican
-  - usa_news
+- usa
+- taiwaneseamerican
+- usa_news
 ---
 
 敬請支持‧歡迎訂閱本報newsletter

@@ -1,5 +1,5 @@
 ---
-title: Tag: 比利時副總理 Sophie Wilmes 挺台參與WHA
+title: 'Tag: 比利時副總理 Sophie Wilmes 挺台參與WHA'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/%E6%AF%94%E5%88%A9%E6%99%82%E5%89%AF%E
 archive_url: https://web.archive.org/web/20251205052228/https://taiwanjustice.net/tag/%E6%AF%94%E5%88%A9%E6%99%82%E5%89%AF%E7%B8%BD%E7%90%86-sophie-wilmes-%E6%8C%BA%E5%8F%B0%E5%8F%83%E8%88%87wha/
 archive_ts: 20251205052228
 archive_digest: IPVX3VP7YML6T6WPHX54MYRHJ3BBC7NM
-fetched: 2026-07-26T15:02:13Z
+fetched: 2026-07-26 15:02:13+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-05-05T13:00:56-07:00
+post_date: 2021-05-05 13:00:56-07:00
 ---
 
 Home

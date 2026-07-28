@@ -1,5 +1,5 @@
 ---
-title: Tag: Michael Minihan
+title: 'Tag: Michael Minihan'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/michael-minihan/
 archive_url: https://web.archive.org/web/20230607053948/https://www.taiwanjustice.net/tag/michael-minihan/
 archive_ts: 20230607053948
 archive_digest: WL7LBA47VYA3ROCTVXGREI7GDLDUENJQ
-fetched: 2026-07-26T09:04:56Z
+fetched: 2026-07-26 09:04:56+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2023-02-02T07:02:12-08:00
+post_date: 2023-02-02 07:02:12-08:00
 ---
 
 Home

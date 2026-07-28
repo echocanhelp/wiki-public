@@ -6,7 +6,7 @@ source_url: https://www.taiwanjustice.net/category/videos/%E9%84%AD-%E7%9F%A5%E9
 archive_url: https://web.archive.org/web/20220122115822/https://www.taiwanjustice.net/category/videos/%E9%84%AD-%E7%9F%A5%E9%81%93%E4%BA%86/?filter_by=review_high
 archive_ts: 20220122115822
 archive_digest: DOFUBTVI5MSG5UYL7R4SUJE7YMCJAKUA
-fetched: 2026-07-26T05:38:55Z
+fetched: 2026-07-26 05:38:55+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant

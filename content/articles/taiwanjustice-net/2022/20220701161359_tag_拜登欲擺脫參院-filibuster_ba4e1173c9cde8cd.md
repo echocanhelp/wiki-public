@@ -1,5 +1,5 @@
 ---
-title: Tag: 拜登欲擺脫參院 filibuster
+title: 'Tag: 拜登欲擺脫參院 filibuster'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/%E6%8B%9C%E7%99%BB%E6%AC%B2%E6%93%
 archive_url: https://web.archive.org/web/20220701161359/https://www.taiwanjustice.net/tag/%E6%8B%9C%E7%99%BB%E6%AC%B2%E6%93%BA%E8%84%AB%E5%8F%83%E9%99%A2-filibuster/
 archive_ts: 20220701161359
 archive_digest: V63VOXDSJPJPAQFETS6SPCVDOABZCUWB
-fetched: 2026-07-26T07:51:04Z
+fetched: 2026-07-26 07:51:04+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-01-12T11:17:04-08:00
+post_date: 2022-01-12 11:17:04-08:00
 ---
 
 Home

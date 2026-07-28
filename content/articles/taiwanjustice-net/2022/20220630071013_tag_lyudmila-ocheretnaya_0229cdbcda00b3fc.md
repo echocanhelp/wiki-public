@@ -1,5 +1,5 @@
 ---
-title: Tag: Lyudmila Ocheretnaya
+title: 'Tag: Lyudmila Ocheretnaya'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/lyudmila-ocheretnaya/
 archive_url: https://web.archive.org/web/20220630071013/https://www.taiwanjustice.net/tag/lyudmila-ocheretnaya/
 archive_ts: 20220630071013
 archive_digest: RYCEBNFSJJQITVSOZMBSUED6S3JVYYZ3
-fetched: 2026-07-26T07:48:13Z
+fetched: 2026-07-26 07:48:13+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-05-13T13:39:27-07:00
+post_date: 2022-05-13 13:39:27-07:00
 ---
 
 Home

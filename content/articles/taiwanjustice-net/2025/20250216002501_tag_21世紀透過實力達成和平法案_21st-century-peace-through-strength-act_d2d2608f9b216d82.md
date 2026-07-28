@@ -1,5 +1,5 @@
 ---
-title: Tag: 「21世紀透過實力達成和平法案」（21st Century Peace through Strength Act）
+title: 'Tag: 「21世紀透過實力達成和平法案」（21st Century Peace through Strength Act）'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/%e3%80%8c21%e4%b8%96%e7%b4%80%e9%80%8f
 archive_url: https://web.archive.org/web/20250216002501/https://taiwanjustice.net/tag/%e3%80%8c21%e4%b8%96%e7%b4%80%e9%80%8f%e9%81%8e%e5%af%a6%e5%8a%9b%e9%81%94%e6%88%90%e5%92%8c%e5%b9%b3%e6%b3%95%e6%a1%88%e3%80%8d%ef%bc%8821st-century-peace-through-strength-act%ef%bc%89/
 archive_ts: 20250216002501
 archive_digest: W34BDLK4LY4SITFWMDXYXGVFCCVHGGBH
-fetched: 2026-07-26T09:26:45Z
+fetched: 2026-07-26 09:26:45+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2024-04-20T10:30:00-07:00
+post_date: 2024-04-20 10:30:00-07:00
 ---
 
 Home

@@ -6,17 +6,17 @@ source_url: https://taiwanjustice.net/%E5%B7%9D%E6%99%AE%E6%94%BF%E5%BA%9C%E6%99
 archive_url: https://web.archive.org/web/20250419235340/https://taiwanjustice.net/%E5%B7%9D%E6%99%AE%E6%94%BF%E5%BA%9C%E6%99%82%E6%9C%9F%E7%96%AB%E8%8B%97%E8%A8%88%E7%95%AB%E9%A6%96%E5%B8%AD%E9%A1%A7%E5%95%8Fmoncef-slaoui%E8%A2%AB%E6%8E%A7%E6%80%A7%E9%A8%B7%EF%BC%8C%E8%BD%89/
 archive_ts: 20250419235340
 archive_digest: 7SFGTA77WF4KRLVZTHWZ3HEK7GOYJDHN
-fetched: 2026-07-25T02:52:49Z
+fetched: 2026-07-25 02:52:49+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: article_candidate
-post_date: 2021-03-24T21:20:38-07:00
+post_date: 2021-03-24 21:20:38-07:00
 categories:
-  - usa
-  - internatinal
-  - usa_news
-  - vanity
+- usa
+- internatinal
+- usa_news
+- vanity
 ---
 
 敬請支持‧歡迎訂閱本報newsletter

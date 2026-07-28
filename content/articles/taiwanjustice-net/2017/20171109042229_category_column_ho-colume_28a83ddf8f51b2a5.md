@@ -6,14 +6,14 @@ source_url: http://www.taiwanjustice.net:80/category/column/ho-colume/
 archive_url: https://web.archive.org/web/20171109042229/http://www.taiwanjustice.net:80/category/column/ho-colume/
 archive_ts: 20171109042229
 archive_digest: 4JNQKECF6Y4E75V6OJEQC73SGJHQGFSR
-fetched: 2026-07-26T05:14:02Z
+fetched: 2026-07-26 05:14:02+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
 categories:
-  - ho-colume
-  - column
+- ho-colume
+- column
 ---
 
 Home

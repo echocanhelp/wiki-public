@@ -6,7 +6,7 @@ source_url: https://taiwanjustice.net/category/taiwaneseamerican/?filter_by=popu
 archive_url: https://web.archive.org/web/20250418233707/https://taiwanjustice.net/category/taiwaneseamerican/?filter_by=popular7
 archive_ts: 20250418233707
 archive_digest: 4NEPBOGUUMEBCEMRURGSAJCOBEPIRXF4
-fetched: 2026-07-26T06:06:16Z
+fetched: 2026-07-26 06:06:16+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant

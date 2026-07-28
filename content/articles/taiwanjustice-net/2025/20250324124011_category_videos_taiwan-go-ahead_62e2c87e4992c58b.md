@@ -6,7 +6,7 @@ source_url: https://taiwanjustice.net/category/videos/taiwan-go-ahead/?filter_by
 archive_url: https://web.archive.org/web/20250324124011/https://taiwanjustice.net/category/videos/taiwan-go-ahead/?filter_by=popular7
 archive_ts: 20250324124011
 archive_digest: SCVWQXQCQFZ7TZL7ZB2M4S2CRLMPRFW5
-fetched: 2026-07-26T06:03:52Z
+fetched: 2026-07-26 06:03:52+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant

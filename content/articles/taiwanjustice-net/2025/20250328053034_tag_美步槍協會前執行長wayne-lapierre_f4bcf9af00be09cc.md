@@ -1,5 +1,5 @@
 ---
-title: Tag: 美步槍協會前執行長Wayne LaPierre
+title: 'Tag: 美步槍協會前執行長Wayne LaPierre'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/%E7%BE%8E%E6%AD%A5%E6%A7%8D%E5%8D%94%E
 archive_url: https://web.archive.org/web/20250328053034/https://taiwanjustice.net/tag/%E7%BE%8E%E6%AD%A5%E6%A7%8D%E5%8D%94%E6%9C%83%E5%89%8D%E5%9F%B7%E8%A1%8C%E9%95%B7wayne-lapierre/
 archive_ts: 20250328053034
 archive_digest: XCGFFZDTMQCFMZO7FB5LQAZ7Z336CEID
-fetched: 2026-07-26T09:44:43Z
+fetched: 2026-07-26 09:44:43+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2024-02-24T10:04:21-08:00
+post_date: 2024-02-24 10:04:21-08:00
 ---
 
 Home

@@ -1,5 +1,5 @@
 ---
-title: Tag: NTSO Flashmob at Taoyuan Airport Taiwan 2015
+title: 'Tag: NTSO Flashmob at Taoyuan Airport Taiwan 2015'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,11 +7,10 @@ source_url: https://taiwanjustice.net/tag/ntso-flashmob-at-taoyuan-airport-taiwa
 archive_url: https://web.archive.org/web/20250807041435/https://taiwanjustice.net/tag/ntso-flashmob-at-taoyuan-airport-taiwan-2015/
 archive_ts: 20250807041435
 archive_digest: TINVGLUPEJKLAEECLEJTZU6VHAM7TBKG
-fetched: 2026-07-26T12:32:35Z
+fetched: 2026-07-26 12:32:35+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
 ---
 
 Home

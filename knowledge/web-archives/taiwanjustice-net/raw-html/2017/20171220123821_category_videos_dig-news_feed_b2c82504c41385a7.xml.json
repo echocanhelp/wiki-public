@@ -1,0 +1,17 @@
+{
+  "source_url": "http://www.taiwanjustice.net:80/category/videos/dig-news/feed/",
+  "archive_ts": "20171220123821",
+  "archive_url": "https://web.archive.org/web/20171220123821/http://www.taiwanjustice.net:80/category/videos/dig-news/feed/",
+  "wayback_id_url": "https://web.archive.org/web/20171220123821id_/http://www.taiwanjustice.net/category/videos/dig-news/feed/",
+  "cdx_digest": "KY7RXEVKPZ4HFZH7JUCFFBVZD7J3HXL7",
+  "cdx_mimetype": "application/rss+xml",
+  "cdx_class": "feed",
+  "content_type": "application/rss+xml; charset=UTF-8",
+  "sha256": "d78b20028fa73c281cd0531e8bb6bdca8e5910a820f18b1bdb80caffcbeeb632",
+  "bytes": 12264,
+  "fetched_at": "2026-07-28T05:00:53Z",
+  "method": "wayback-id_",
+  "keep_comments": true,
+  "keep_newsletters": true,
+  "retry": true
+}

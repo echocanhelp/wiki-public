@@ -1,5 +1,5 @@
 ---
-title: Tag: 「病患保護與平價醫療法」（Patient Protection and Affordable Care Act
+title: 'Tag: 「病患保護與平價醫療法」（Patient Protection and Affordable Care Act'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/%E3%80%8C%E7%97%85%E6%82%A3%E4%BF%
 archive_url: https://web.archive.org/web/20211025201941/https://www.taiwanjustice.net/tag/%E3%80%8C%E7%97%85%E6%82%A3%E4%BF%9D%E8%AD%B7%E8%88%87%E5%B9%B3%E5%83%B9%E9%86%AB%E7%99%82%E6%B3%95%E3%80%8D%EF%BC%88patient-protection-and-affordable-care-act/
 archive_ts: 20211025201941
 archive_digest: IDO3MUG7RRLKEQAWZE7KSVYIOSOD4BXF
-fetched: 2026-07-26T07:04:34Z
+fetched: 2026-07-26 07:04:34+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-06-17T15:48:51-07:00
+post_date: 2021-06-17 15:48:51-07:00
 ---
 
 Home

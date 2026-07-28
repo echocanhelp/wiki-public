@@ -6,15 +6,15 @@ source_url: http://www.taiwanjustice.net:80/category/taiwan_history/
 archive_url: https://web.archive.org/web/20171109044726/http://www.taiwanjustice.net:80/category/taiwan_history/
 archive_ts: 20171109044726
 archive_digest: ZLKRGVVRGNHYZJER25DBHUSSK5X37WXP
-fetched: 2026-07-28T04:07:57Z
+fetched: 2026-07-28 04:07:57+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
 categories:
-  - taiwan_history
-  - taiwan-history-geo
-  - videos
+- taiwan_history
+- taiwan-history-geo
+- videos
 ---
 
 Home

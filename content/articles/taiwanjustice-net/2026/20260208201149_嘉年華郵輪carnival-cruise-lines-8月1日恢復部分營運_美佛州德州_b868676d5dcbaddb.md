@@ -6,17 +6,17 @@ source_url: https://taiwanjustice.net/%E5%98%89%E5%B9%B4%E8%8F%AF%E9%83%B5%E8%BC
 archive_url: https://web.archive.org/web/20260208201149/https://taiwanjustice.net/%E5%98%89%E5%B9%B4%E8%8F%AF%E9%83%B5%E8%BC%AAcarnival-cruise-lines-8%E6%9C%881%E6%97%A5%E6%81%A2%E5%BE%A9%E9%83%A8%E5%88%86%E7%87%9F%E9%81%8B%EF%BC%8C%E7%BE%8E%E4%BD%9B%E5%B7%9E%E5%BE%B7%E5%B7%9E/
 archive_ts: 20260208201149
 archive_digest: TGV5KG27QW34JOML3LV4EKTBYPAWYKSY
-fetched: 2026-07-26T04:03:39Z
+fetched: 2026-07-26 04:03:39+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: article_candidate
-post_date: 2020-05-05T08:53:00-07:00
+post_date: 2020-05-05 08:53:00-07:00
 categories:
-  - international
-  - internatinal
-  - usa_news
-  - vanity
+- international
+- internatinal
+- usa_news
+- vanity
 ---
 
 敬請支持‧歡迎訂閱本報newsletter

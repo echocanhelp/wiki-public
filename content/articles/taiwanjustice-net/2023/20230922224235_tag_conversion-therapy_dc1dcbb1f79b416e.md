@@ -1,5 +1,5 @@
 ---
-title: Tag: conversion therapy
+title: 'Tag: conversion therapy'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/conversion-therapy/
 archive_url: https://web.archive.org/web/20230922224235/https://www.taiwanjustice.net/tag/conversion-therapy/
 archive_ts: 20230922224235
 archive_digest: ULCPQ3IEW2ZTHMNHM6EVVZW72YUZBGTX
-fetched: 2026-07-26T09:10:05Z
+fetched: 2026-07-26 09:10:05+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-01-26T11:20:47-08:00
+post_date: 2022-01-26 11:20:47-08:00
 ---
 
 Home

@@ -6,17 +6,17 @@ source_url: https://taiwanjustice.net/%E6%88%90%E4%BA%BA%E7%89%87%E5%A5%B3%E6%98
 archive_url: https://web.archive.org/web/20250426143054/https://taiwanjustice.net/%E6%88%90%E4%BA%BA%E7%89%87%E5%A5%B3%E6%98%9Fstormy-daniels%E7%B5%90%E6%9D%9F%E4%BD%9C%E8%AD%89-%E5%90%A6%E8%AA%8D%E5%88%A9%E7%94%A8%E5%B7%9D%E6%99%AE%E7%B7%A8%E6%95%85%E4%BA%8B%E7%89%9F%E5%88%A9/
 archive_ts: 20250426143054
 archive_digest: BU474K4S52MZGQKUE3W56BHNYMA7FUXW
-fetched: 2026-07-25T03:47:01Z
+fetched: 2026-07-25 03:47:01+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: article_candidate
-post_date: 2024-05-09T20:27:48-07:00
+post_date: 2024-05-09 20:27:48-07:00
 categories:
-  - usa
-  - internatinal
-  - usa_news
-  - vanity
+- usa
+- internatinal
+- usa_news
+- vanity
 ---
 
 （中央社紐約9日綜合外電報導）涉及美國前總統川普「封口費」案的成人片女星「暴風女」丹尼爾斯（Stormy Daniels）今天結束漫長的作證程序，川普的律師團企圖把她描繪成一個從指控中獲利的貪婪騙子。

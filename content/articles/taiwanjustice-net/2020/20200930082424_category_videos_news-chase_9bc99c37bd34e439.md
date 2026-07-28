@@ -6,7 +6,7 @@ source_url: https://www.taiwanjustice.net/category/videos/news-chase/?filter_by=
 archive_url: https://web.archive.org/web/20200930082424/https://www.taiwanjustice.net/category/videos/news-chase/?filter_by=popular7
 archive_ts: 20200930082424
 archive_digest: DZJBXNELLJ33IJ4F3IKLQFPCXBPHKQSK
-fetched: 2026-07-26T05:30:24Z
+fetched: 2026-07-26 05:30:24+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant

@@ -6,14 +6,14 @@ source_url: http://www.taiwanjustice.net:80/category/column/agie/
 archive_url: https://web.archive.org/web/20171109043159/http://www.taiwanjustice.net:80/category/column/agie/
 archive_ts: 20171109043159
 archive_digest: UUKYCUCD5KR5K3GJWKEJERJJLC7KQDJK
-fetched: 2026-07-26T05:14:37Z
+fetched: 2026-07-26 05:14:37+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
 categories:
-  - agie
-  - column
+- agie
+- column
 ---
 
 Home

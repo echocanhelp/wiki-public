@@ -1,5 +1,5 @@
 ---
-title: Tag: Wolfgang Amadeus Mozart
+title: 'Tag: Wolfgang Amadeus Mozart'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/wolfgang-amadeus-mozart/
 archive_url: https://web.archive.org/web/20210620132025/https://www.taiwanjustice.net/tag/wolfgang-amadeus-mozart/
 archive_ts: 20210620132025
 archive_digest: PIGO3EIEIWVUOKNAGGIKQJABDVMQQE2J
-fetched: 2026-07-26T06:47:27Z
+fetched: 2026-07-26 06:47:27+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-04-24T01:01:00-07:00
+post_date: 2021-04-24 01:01:00-07:00
 ---
 
 Home

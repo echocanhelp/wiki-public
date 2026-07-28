@@ -1,5 +1,5 @@
 ---
-title: Tag: 《世界理應知道法案》(the World Deserves To Know Act)
+title: 'Tag: 《世界理應知道法案》(the World Deserves To Know Act)'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/%E3%80%8A%E4%B8%96%E7%95%8C%E7%90%
 archive_url: https://web.archive.org/web/20210927003911/https://www.taiwanjustice.net/tag/%E3%80%8A%E4%B8%96%E7%95%8C%E7%90%86%E6%87%89%E7%9F%A5%E9%81%93%E6%B3%95%E6%A1%88%E3%80%8Bthe-world-deserves-to-know-act/
 archive_ts: 20210927003911
 archive_digest: Y327AMTRX4Q4ZEBWS4A24VTCEYSLP2I6
-fetched: 2026-07-26T06:55:38Z
+fetched: 2026-07-26 06:55:38+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-06-15T17:40:42-07:00
+post_date: 2021-06-15 17:40:42-07:00
 ---
 
 Home

@@ -6,14 +6,14 @@ source_url: https://www.taiwanjustice.net/2020/12/24/%E8%82%A1%E5%B8%82%E4%BA%AE
 archive_url: https://web.archive.org/web/20230530150718/https://www.taiwanjustice.net/2020/12/24/%E8%82%A1%E5%B8%82%E4%BA%AE%E9%BB%9E%EF%BC%88174%EF%BC%89-gbtc-grayscale-bitcoin-trust-otc/
 archive_ts: 20230530150718
 archive_digest: 2U5DIJLKPFNMECSXB6IIWHILDWOM4YX4
-fetched: 2026-07-27T07:29:45Z
+fetched: 2026-07-27 07:29:45+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: other
-post_date: 2020-12-24T19:15:31-08:00
+post_date: 2020-12-24 19:15:31-08:00
 categories:
-  - stock
+- stock
 ---
 
 【legal disclaimer :本專欄為作者個人之意見及心得分享，讀者買股前應諮詢自己的投資顧問，作者及本報不負任何法律責任，特此公告。】

@@ -6,15 +6,15 @@ source_url: http://www.taiwanjustice.net:80/category/taiwancenter/newsletter/
 archive_url: https://web.archive.org/web/20171109042239/http://www.taiwanjustice.net:80/category/taiwancenter/newsletter/
 archive_ts: 20171109042239
 archive_digest: 4KGKYS77SZRXP22NN2A52K5IRUFMARTX
-fetched: 2026-07-25T00:25:53Z
+fetched: 2026-07-25 00:25:53+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: newsletter
 categories:
-  - taiwancenter
-  - newsletter
-  - taiwaneseamerican
+- taiwancenter
+- newsletter
+- taiwaneseamerican
 ---
 
 Home

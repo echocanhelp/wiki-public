@@ -1,5 +1,5 @@
 ---
-title: Tag: 美國印第安納州州長侯康安（Eric Holcomb）抵達台北
+title: 'Tag: 美國印第安納州州長侯康安（Eric Holcomb）抵達台北'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/%E7%BE%8E%E5%9C%8B%E5%8D%B0%E7%AC%AC%E
 archive_url: https://web.archive.org/web/20251112170815/https://taiwanjustice.net/tag/%E7%BE%8E%E5%9C%8B%E5%8D%B0%E7%AC%AC%E5%AE%89%E7%B4%8D%E5%B7%9E%E5%B7%9E%E9%95%B7%E4%BE%AF%E5%BA%B7%E5%AE%89%EF%BC%88eric-holcomb%EF%BC%89%E6%8A%B5%E9%81%94%E5%8F%B0%E5%8C%97/
 archive_ts: 20251112170815
 archive_digest: KHQAXBZAMW6RV2POWD45CK5NFZMCY6J6
-fetched: 2026-07-26T14:50:34Z
+fetched: 2026-07-26 14:50:34+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-08-21T13:16:34-07:00
+post_date: 2022-08-21 13:16:34-07:00
 ---
 
 Home

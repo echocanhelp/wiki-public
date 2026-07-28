@@ -6,12 +6,12 @@ source_url: https://www.taiwanjustice.net/category/taiwan/page/3/?filter_by=feat
 archive_url: https://web.archive.org/web/20220626162527/https://www.taiwanjustice.net/category/taiwan/page/3/?filter_by=featured
 archive_ts: 20220626162527
 archive_digest: ZART52QPDULBPFUAYI373DZO3SEWKYZ3
-fetched: 2026-07-26T05:39:42Z
+fetched: 2026-07-26 05:39:42+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2022-06-25T19:34:44-07:00
+post_date: 2022-06-25 19:34:44-07:00
 ---
 
 Home

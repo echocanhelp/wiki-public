@@ -6,17 +6,17 @@ source_url: https://taiwanjustice.net/natma-scc-and-who-committee-%E5%85%A8%E5%8
 archive_url: https://web.archive.org/web/20250618180803/https://taiwanjustice.net/natma-scc-and-who-committee-%E5%85%A8%E5%8A%9B%E6%94%AF%E6%8C%81taiwan-for-who%E7%9A%84%E4%B8%89%E9%BB%9E%E8%81%B2%E6%98%8E%E5%8F%8A%E5%91%BC%E7%B1%B2/
 archive_ts: 20250618180803
 archive_digest: QYZZVAP37TNXQPROI4N7I62TA7EEVQBC
-fetched: 2026-07-25T09:57:01Z
+fetched: 2026-07-25 09:57:01+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: article_candidate
-post_date: 2020-05-12T12:54:36-07:00
+post_date: 2020-05-12 12:54:36-07:00
 categories:
-  - taiwan
-  - taiwaneseamerican
-  - internatinal
-  - usa_news
+- taiwan
+- taiwaneseamerican
+- internatinal
+- usa_news
 ---
 
 全力支持台灣加入世衛組織

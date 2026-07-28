@@ -6,16 +6,16 @@ source_url: http://www.taiwanjustice.net:80/category/taiwan-culture/
 archive_url: https://web.archive.org/web/20171109043459/http://www.taiwanjustice.net:80/category/taiwan-culture/
 archive_ts: 20171109043459
 archive_digest: 4ALNYQA4XEZPZSV2IYRSG4TY4KMOAOU7
-fetched: 2026-07-26T05:15:09Z
+fetched: 2026-07-26 05:15:09+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
 categories:
-  - 61371
-  - taiwan-culture
-  - taiwan-history-geo
-  - videos
+- 61371
+- taiwan-culture
+- taiwan-history-geo
+- videos
 ---
 
 Home

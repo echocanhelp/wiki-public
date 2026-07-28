@@ -6,12 +6,12 @@ source_url: https://taiwanjustice.net/category/taiwancenter/newsletter/page/3/?f
 archive_url: https://web.archive.org/web/20250524200809/https://taiwanjustice.net/category/taiwancenter/newsletter/page/3/?filter_by=popular
 archive_ts: 20250524200809
 archive_digest: 4IN57O6TYJ65OTJJC4U25MBYY6XZES7K
-fetched: 2026-07-25T00:30:43Z
+fetched: 2026-07-25 00:30:43+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: newsletter
-post_date: 2022-12-22T17:10:35-08:00
+post_date: 2022-12-22 17:10:35-08:00
 ---
 
 Home

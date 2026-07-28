@@ -1,5 +1,5 @@
 ---
-title: Tag: Jerome Powell
+title: 'Tag: Jerome Powell'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/jerome-powell/
 archive_url: https://web.archive.org/web/20220521152552/https://www.taiwanjustice.net/tag/jerome-powell/
 archive_ts: 20220521152552
 archive_digest: 6XXJFBX34VPQNIHSZB5TUQO3Q7ECXOWW
-fetched: 2026-07-26T07:40:11Z
+fetched: 2026-07-26 07:40:11+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-05-12T18:01:08-07:00
+post_date: 2022-05-12 18:01:08-07:00
 ---
 
 Home

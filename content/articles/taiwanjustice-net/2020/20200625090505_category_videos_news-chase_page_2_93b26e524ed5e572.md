@@ -6,12 +6,12 @@ source_url: https://www.taiwanjustice.net/category/videos/news-chase/page/2/
 archive_url: https://web.archive.org/web/20200625090505/https://www.taiwanjustice.net/category/videos/news-chase/page/2/
 archive_ts: 20200625090505
 archive_digest: IFYOOLZ2YSRP4J5OVD5HMLW22IB4RMR4
-fetched: 2026-07-26T05:23:01Z
+fetched: 2026-07-26 05:23:01+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2019-01-04T07:22:44-08:00
+post_date: 2019-01-04 07:22:44-08:00
 ---
 
 Home

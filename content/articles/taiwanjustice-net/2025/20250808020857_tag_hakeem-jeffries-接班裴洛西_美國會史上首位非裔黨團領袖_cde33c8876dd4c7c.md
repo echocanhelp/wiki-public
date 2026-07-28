@@ -1,5 +1,5 @@
 ---
-title: Tag: Hakeem Jeffries 接班裴洛西，美國會史上首位非裔黨團領袖
+title: 'Tag: Hakeem Jeffries 接班裴洛西，美國會史上首位非裔黨團領袖'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/hakeem-jeffries-%E6%8E%A5%E7%8F%AD%E8%
 archive_url: https://web.archive.org/web/20250808020857/https://taiwanjustice.net/tag/hakeem-jeffries-%E6%8E%A5%E7%8F%AD%E8%A3%B4%E6%B4%9B%E8%A5%BF%EF%BC%8C%E7%BE%8E%E5%9C%8B%E6%9C%83%E5%8F%B2%E4%B8%8A%E9%A6%96%E4%BD%8D%E9%9D%9E%E8%A3%94%E9%BB%A8%E5%9C%98%E9%A0%98%E8%A2%96/
 archive_ts: 20250808020857
 archive_digest: C2MTUIWW3BQEBR6QJ66BIWRKZITCT2US
-fetched: 2026-07-26T12:45:13Z
+fetched: 2026-07-26 12:45:13+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-11-30T16:11:46-08:00
+post_date: 2022-11-30 16:11:46-08:00
 ---
 
 Home

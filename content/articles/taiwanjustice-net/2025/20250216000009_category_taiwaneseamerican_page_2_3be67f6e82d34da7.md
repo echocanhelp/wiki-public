@@ -6,12 +6,12 @@ source_url: https://taiwanjustice.net/category/taiwaneseamerican/page/2/?filter_
 archive_url: https://web.archive.org/web/20250216000009/https://taiwanjustice.net/category/taiwaneseamerican/page/2/?filter_by=random_posts
 archive_ts: 20250216000009
 archive_digest: JZTYIJGJ65BT2IGUQPMHSPP6IASENPHI
-fetched: 2026-07-26T06:00:17Z
+fetched: 2026-07-26 06:00:17+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2020-11-05T11:36:10-08:00
+post_date: 2020-11-05 11:36:10-08:00
 ---
 
 Home

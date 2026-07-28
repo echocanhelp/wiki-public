@@ -6,12 +6,12 @@ source_url: https://www.taiwanjustice.net/category/culture/arthistory/
 archive_url: https://web.archive.org/web/20210619030754/https://www.taiwanjustice.net/category/culture/arthistory/
 archive_ts: 20210619030754
 archive_digest: 6WJBBU2WYQ5J3DTEZW64UVDZ54KYZLIS
-fetched: 2026-07-26T05:34:09Z
+fetched: 2026-07-26 05:34:09+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2021-05-02T18:28:31-07:00
+post_date: 2021-05-02 18:28:31-07:00
 ---
 
 Home

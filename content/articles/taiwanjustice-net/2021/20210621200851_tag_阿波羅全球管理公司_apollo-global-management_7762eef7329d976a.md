@@ -1,5 +1,5 @@
 ---
-title: Tag: 阿波羅全球管理公司（Apollo Global Management）
+title: 'Tag: 阿波羅全球管理公司（Apollo Global Management）'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/%E9%98%BF%E6%B3%A2%E7%BE%85%E5%85%
 archive_url: https://web.archive.org/web/20210621200851/https://www.taiwanjustice.net/tag/%E9%98%BF%E6%B3%A2%E7%BE%85%E5%85%A8%E7%90%83%E7%AE%A1%E7%90%86%E5%85%AC%E5%8F%B8%EF%BC%88apollo-global-management%EF%BC%89/
 archive_ts: 20210621200851
 archive_digest: XZPRRL3RUWCFF5TZETW4J5RRO674WSMX
-fetched: 2026-07-26T06:51:35Z
+fetched: 2026-07-26 06:51:35+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-05-03T13:05:06-07:00
+post_date: 2021-05-03 13:05:06-07:00
 ---
 
 Home

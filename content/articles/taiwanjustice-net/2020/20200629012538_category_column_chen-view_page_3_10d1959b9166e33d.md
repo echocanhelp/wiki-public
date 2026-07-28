@@ -6,12 +6,12 @@ source_url: https://www.taiwanjustice.net/category/column/chen-view/page/3/
 archive_url: https://web.archive.org/web/20200629012538/https://www.taiwanjustice.net/category/column/chen-view/page/3/
 archive_ts: 20200629012538
 archive_digest: BZ53RVJKK24O23Y6BQ6UXY45LBYLSHKG
-fetched: 2026-07-26T05:28:54Z
+fetched: 2026-07-26 05:28:54+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2020-06-28T11:55:23-07:00
+post_date: 2020-06-28 11:55:23-07:00
 ---
 
 Home

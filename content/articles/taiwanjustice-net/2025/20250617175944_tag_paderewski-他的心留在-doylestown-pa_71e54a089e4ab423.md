@@ -1,5 +1,5 @@
 ---
-title: Tag: Paderewski – 他的心留在 Doylestown PA
+title: 'Tag: Paderewski – 他的心留在 Doylestown PA'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/paderewski-%E4%BB%96%E7%9A%84%E5%BF%83
 archive_url: https://web.archive.org/web/20250617175944/https://taiwanjustice.net/tag/paderewski-%E4%BB%96%E7%9A%84%E5%BF%83%E7%95%99%E5%9C%A8-doylestown-pa/
 archive_ts: 20250617175944
 archive_digest: U3WIHKIQV5U4I46JGVD3SEVQPLNQJ5BR
-fetched: 2026-07-28T04:25:45Z
+fetched: 2026-07-28 04:25:45+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2020-08-14T23:25:44-07:00
+post_date: 2020-08-14 23:25:44-07:00
 ---
 
 Home

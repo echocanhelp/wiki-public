@@ -1,5 +1,5 @@
 ---
-title: Tag: 慕尼黑安全會議（Munich Security Conference）
+title: 'Tag: 慕尼黑安全會議（Munich Security Conference）'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/%E6%85%95%E5%B0%BC%E9%BB%91%E5%AE%89%E
 archive_url: https://web.archive.org/web/20250423025256/https://taiwanjustice.net/tag/%E6%85%95%E5%B0%BC%E9%BB%91%E5%AE%89%E5%85%A8%E6%9C%83%E8%AD%B0%EF%BC%88munich-security-conference%EF%BC%89/
 archive_ts: 20250423025256
 archive_digest: SZ3TBWIRFV5KVKVU7I5RWBR7KBTDVZKX
-fetched: 2026-07-26T10:09:52Z
+fetched: 2026-07-26 10:09:52+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2025-02-11T20:44:16-08:00
+post_date: 2025-02-11 20:44:16-08:00
 ---
 
 Home

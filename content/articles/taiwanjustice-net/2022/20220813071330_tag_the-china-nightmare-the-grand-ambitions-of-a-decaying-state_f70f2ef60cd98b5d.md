@@ -1,5 +1,5 @@
 ---
-title: Tag: The China Nightmare: The Grand Ambitions of a Decaying State
+title: 'Tag: The China Nightmare: The Grand Ambitions of a Decaying State'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/the-china-nightmare-the-grand-ambi
 archive_url: https://web.archive.org/web/20220813071330/https://www.taiwanjustice.net/tag/the-china-nightmare-the-grand-ambitions-of-a-decaying-state/
 archive_ts: 20220813071330
 archive_digest: RVOZHUL2BPZMZUY7FQVDVEITUZNEEG45
-fetched: 2026-07-26T08:02:19Z
+fetched: 2026-07-26 08:02:19+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2020-11-25T18:00:12-08:00
+post_date: 2020-11-25 18:00:12-08:00
 ---
 
 Home

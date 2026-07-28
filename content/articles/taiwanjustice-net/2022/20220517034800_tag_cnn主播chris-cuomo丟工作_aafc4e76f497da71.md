@@ -1,5 +1,5 @@
 ---
-title: Tag: CNN主播Chris Cuomo丟工作
+title: 'Tag: CNN主播Chris Cuomo丟工作'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/cnn%E4%B8%BB%E6%92%ADchris-cuomo%E
 archive_url: https://web.archive.org/web/20220517034800/https://www.taiwanjustice.net/tag/cnn%E4%B8%BB%E6%92%ADchris-cuomo%E4%B8%9F%E5%B7%A5%E4%BD%9C/
 archive_ts: 20220517034800
 archive_digest: 4EB7RYRDV7UJPLJIR3CLGNATB5WDDCKR
-fetched: 2026-07-26T07:16:50Z
+fetched: 2026-07-26 07:16:50+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-12-04T18:44:19-08:00
+post_date: 2021-12-04 18:44:19-08:00
 ---
 
 Home

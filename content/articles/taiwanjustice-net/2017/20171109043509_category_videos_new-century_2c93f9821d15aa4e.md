@@ -6,15 +6,15 @@ source_url: http://www.taiwanjustice.net:80/category/videos/new-century/
 archive_url: https://web.archive.org/web/20171109043509/http://www.taiwanjustice.net:80/category/videos/new-century/
 archive_ts: 20171109043509
 archive_digest: UDURADEASPM2CANESYCN7UL6UJAORQRE
-fetched: 2026-07-26T05:15:16Z
+fetched: 2026-07-26 05:15:16+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
 categories:
-  - new-century
-  - taiwan-news
-  - videos
+- new-century
+- taiwan-news
+- videos
 ---
 
 Home

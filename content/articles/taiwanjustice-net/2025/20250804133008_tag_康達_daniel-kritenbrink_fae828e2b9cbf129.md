@@ -1,5 +1,5 @@
 ---
-title: Tag: 康達（Daniel Kritenbrink）
+title: 'Tag: 康達（Daniel Kritenbrink）'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/%E5%BA%B7%E9%81%94%EF%BC%88daniel-krit
 archive_url: https://web.archive.org/web/20250804133008/https://taiwanjustice.net/tag/%E5%BA%B7%E9%81%94%EF%BC%88daniel-kritenbrink%EF%BC%89/
 archive_ts: 20250804133008
 archive_digest: AGP32Q74ASBJIU3IHKPMXUQNRRJJM2VT
-fetched: 2026-07-26T12:16:59Z
+fetched: 2026-07-26 12:16:59+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2023-05-02T20:20:09-07:00
+post_date: 2023-05-02 20:20:09-07:00
 ---
 
 Home

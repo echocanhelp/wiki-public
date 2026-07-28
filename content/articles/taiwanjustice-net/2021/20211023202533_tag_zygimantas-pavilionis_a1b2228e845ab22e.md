@@ -1,5 +1,5 @@
 ---
-title: Tag: Zygimantas Pavilionis
+title: 'Tag: Zygimantas Pavilionis'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/zygimantas-pavilionis/
 archive_url: https://web.archive.org/web/20211023202533/https://www.taiwanjustice.net/tag/zygimantas-pavilionis/
 archive_ts: 20211023202533
 archive_digest: W7RA4AVRRFTQ7UD4NPYOTJQAJ5FOZFAS
-fetched: 2026-07-26T06:58:22Z
+fetched: 2026-07-26 06:58:22+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-09-13T13:51:53-07:00
+post_date: 2021-09-13 13:51:53-07:00
 ---
 
 Home

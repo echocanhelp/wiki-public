@@ -1,5 +1,5 @@
 ---
-title: Tag: US International Development Finance Corporation
+title: 'Tag: US International Development Finance Corporation'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/us-international-development-finance-c
 archive_url: https://web.archive.org/web/20250804124324/https://taiwanjustice.net/tag/us-international-development-finance-corporation/
 archive_ts: 20250804124324
 archive_digest: 65O3HYBODFDXUTIZR62FUSCVIWBBGBAE
-fetched: 2026-07-26T12:15:23Z
+fetched: 2026-07-26 12:15:23+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-07-10T18:08:46-07:00
+post_date: 2021-07-10 18:08:46-07:00
 ---
 
 Home

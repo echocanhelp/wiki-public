@@ -1,5 +1,5 @@
 ---
-title: Tag: 「加台關係架構法」（Canada-Taiwan Relations Framework Act）
+title: 'Tag: 「加台關係架構法」（Canada-Taiwan Relations Framework Act）'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/%E3%80%8C%E5%8A%A0%E5%8F%B0%E9%97%9C%E
 archive_url: https://web.archive.org/web/20250804161917/https://taiwanjustice.net/tag/%E3%80%8C%E5%8A%A0%E5%8F%B0%E9%97%9C%E4%BF%82%E6%9E%B6%E6%A7%8B%E6%B3%95%E3%80%8D%EF%BC%88canada-taiwan-relations-framework-act%EF%BC%89/
 archive_ts: 20250804161917
 archive_digest: VE3W572KLWJKMBBTIEH4FQHECP75D3VZ
-fetched: 2026-07-26T12:25:10Z
+fetched: 2026-07-26 12:25:10+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-06-17T10:22:01-07:00
+post_date: 2021-06-17 10:22:01-07:00
 ---
 
 Home

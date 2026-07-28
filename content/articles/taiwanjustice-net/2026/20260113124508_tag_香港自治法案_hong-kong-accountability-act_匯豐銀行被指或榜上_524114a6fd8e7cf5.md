@@ -1,5 +1,5 @@
 ---
-title: Tag: 《香港自治法案》（Hong Kong Accountability Act）匯豐銀行被指或榜上有名
+title: 'Tag: 《香港自治法案》（Hong Kong Accountability Act）匯豐銀行被指或榜上有名'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/%E3%80%8A%E9%A6%99%E6%B8%AF%E8%87%AA%E
 archive_url: https://web.archive.org/web/20260113124508/https://taiwanjustice.net/tag/%E3%80%8A%E9%A6%99%E6%B8%AF%E8%87%AA%E6%B2%BB%E6%B3%95%E6%A1%88%E3%80%8B%EF%BC%88hong-kong-accountability-act%EF%BC%89%E5%8C%AF%E8%B1%90%E9%8A%80%E8%A1%8C%E8%A2%AB%E6%8C%87%E6%88%96%E6%A6%9C%E4%B8%8A/
 archive_ts: 20260113124508
 archive_digest: L5CL5DV3RTTG4NRAOXFG3HMGGSI46TEN
-fetched: 2026-07-26T15:44:04Z
+fetched: 2026-07-26 15:44:04+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2020-06-26T15:10:44-07:00
+post_date: 2020-06-26 15:10:44-07:00
 ---
 
 Home

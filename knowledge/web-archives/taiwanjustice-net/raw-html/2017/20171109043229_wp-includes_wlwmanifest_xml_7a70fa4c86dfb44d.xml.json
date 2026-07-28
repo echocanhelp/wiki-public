@@ -1,0 +1,16 @@
+{
+  "source_url": "http://www.taiwanjustice.net:80/wp-includes/wlwmanifest.xml",
+  "archive_ts": "20171109043229",
+  "archive_url": "https://web.archive.org/web/20171109043229/http://www.taiwanjustice.net:80/wp-includes/wlwmanifest.xml",
+  "wayback_id_url": "https://web.archive.org/web/20171109043229id_/http://www.taiwanjustice.net/wp-includes/wlwmanifest.xml",
+  "cdx_digest": "Z4ZPZP7W5ZKAGNNYLC2PTSYE2ZS5V4A2",
+  "cdx_mimetype": "application/xml",
+  "cdx_class": "wordpress_infra",
+  "content_type": "application/xml",
+  "sha256": "843351b8622c97ca4e5ffced1d4feb4a5ec506ea47ff67c699b4e26f8daa6543",
+  "bytes": 1045,
+  "fetched_at": "2026-07-27T08:12:07Z",
+  "method": "wayback-id_",
+  "keep_comments": true,
+  "keep_newsletters": true
+}

@@ -6,7 +6,7 @@ source_url: https://taiwanjustice.net/category/taiwaneseamerican/milo-judith/?fi
 archive_url: https://web.archive.org/web/20250323074011/https://taiwanjustice.net/category/taiwaneseamerican/milo-judith/?filter_by=popular7
 archive_ts: 20250323074011
 archive_digest: KXIU3RMPQ5FK42KJ2EYL6AQMSLEKH7UP
-fetched: 2026-07-26T06:03:05Z
+fetched: 2026-07-26 06:03:05+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant

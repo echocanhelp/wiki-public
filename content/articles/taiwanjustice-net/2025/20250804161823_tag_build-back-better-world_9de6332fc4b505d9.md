@@ -1,5 +1,5 @@
 ---
-title: Tag: Build Back Better World
+title: 'Tag: Build Back Better World'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/build-back-better-world/
 archive_url: https://web.archive.org/web/20250804161823/https://taiwanjustice.net/tag/build-back-better-world/
 archive_ts: 20250804161823
 archive_digest: 3IYI7UIU3GNL3WJODT4KM46GOSVTRONT
-fetched: 2026-07-26T12:25:00Z
+fetched: 2026-07-26 12:25:00+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-07-10T18:08:46-07:00
+post_date: 2021-07-10 18:08:46-07:00
 ---
 
 Home

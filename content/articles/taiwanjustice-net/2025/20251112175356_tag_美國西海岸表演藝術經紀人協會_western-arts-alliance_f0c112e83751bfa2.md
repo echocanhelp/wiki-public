@@ -1,5 +1,5 @@
 ---
-title: Tag: 美國西海岸表演藝術經紀人協會（Western Arts Alliance
+title: 'Tag: 美國西海岸表演藝術經紀人協會（Western Arts Alliance'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/%E7%BE%8E%E5%9C%8B%E8%A5%BF%E6%B5%B7%E
 archive_url: https://web.archive.org/web/20251112175356/https://taiwanjustice.net/tag/%E7%BE%8E%E5%9C%8B%E8%A5%BF%E6%B5%B7%E5%B2%B8%E8%A1%A8%E6%BC%94%E8%97%9D%E8%A1%93%E7%B6%93%E7%B4%80%E4%BA%BA%E5%8D%94%E6%9C%83%EF%BC%88western-arts-alliance/
 archive_ts: 20251112175356
 archive_digest: KNA3FYNBLRR55AI47Z3TZYQ66E6EYO62
-fetched: 2026-07-26T14:54:35Z
+fetched: 2026-07-26 14:54:35+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-08-29T13:16:54-07:00
+post_date: 2022-08-29 13:16:54-07:00
 ---
 
 Home

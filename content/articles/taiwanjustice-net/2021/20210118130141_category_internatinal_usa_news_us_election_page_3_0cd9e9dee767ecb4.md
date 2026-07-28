@@ -6,12 +6,12 @@ source_url: https://www.taiwanjustice.net/category/internatinal/usa_news/us_elec
 archive_url: https://web.archive.org/web/20210118130141/https://www.taiwanjustice.net/category/internatinal/usa_news/us_election/page/3/?filter_by=popular
 archive_ts: 20210118130141
 archive_digest: 7ZNC3BACOLX4GVGZNCKYWWGEBP5NJTDO
-fetched: 2026-07-26T05:31:28Z
+fetched: 2026-07-26 05:31:28+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2017-10-30T14:08:01-07:00
+post_date: 2017-10-30 14:08:01-07:00
 ---
 
 Home

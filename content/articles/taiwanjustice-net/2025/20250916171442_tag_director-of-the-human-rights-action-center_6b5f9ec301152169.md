@@ -1,5 +1,5 @@
 ---
-title: Tag: Director of the Human Rights Action Center
+title: 'Tag: Director of the Human Rights Action Center'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,11 +7,10 @@ source_url: https://taiwanjustice.net/tag/director-of-the-human-rights-action-ce
 archive_url: https://web.archive.org/web/20250916171442/https://taiwanjustice.net/tag/director-of-the-human-rights-action-center/
 archive_ts: 20250916171442
 archive_digest: J7N3F4DYS36Z3MBGNA5LX7EAYWWVL24D
-fetched: 2026-07-26T13:55:42Z
+fetched: 2026-07-26 13:55:42+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
 ---
 
 Home

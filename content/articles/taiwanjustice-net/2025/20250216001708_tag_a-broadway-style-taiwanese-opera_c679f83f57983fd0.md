@@ -1,5 +1,5 @@
 ---
-title: Tag: A Broadway style Taiwanese Opera
+title: 'Tag: A Broadway style Taiwanese Opera'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,11 +7,10 @@ source_url: https://taiwanjustice.net/tag/a-broadway-style-taiwanese-opera/
 archive_url: https://web.archive.org/web/20250216001708/https://taiwanjustice.net/tag/a-broadway-style-taiwanese-opera/
 archive_ts: 20250216001708
 archive_digest: UA3WYENRODVTRCOJRZPDIMAC6444G3WS
-fetched: 2026-07-28T04:18:10Z
+fetched: 2026-07-28 04:18:10+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
 ---
 
 Home

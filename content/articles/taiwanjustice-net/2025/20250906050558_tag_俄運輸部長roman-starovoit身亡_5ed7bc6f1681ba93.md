@@ -1,5 +1,5 @@
 ---
-title: Tag: 俄運輸部長Roman Starovoit身亡
+title: 'Tag: 俄運輸部長Roman Starovoit身亡'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/%E4%BF%84%E9%81%8B%E8%BC%B8%E9%83%A8%E
 archive_url: https://web.archive.org/web/20250906050558/https://taiwanjustice.net/tag/%E4%BF%84%E9%81%8B%E8%BC%B8%E9%83%A8%E9%95%B7roman-starovoit%E8%BA%AB%E4%BA%A1/
 archive_ts: 20250906050558
 archive_digest: LEYED2O3P6Y2MFGZ2SMYKYB5TGG6RO73
-fetched: 2026-07-26T13:31:43Z
+fetched: 2026-07-26 13:31:43+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2025-07-07T21:31:12-07:00
+post_date: 2025-07-07 21:31:12-07:00
 ---
 
 Home

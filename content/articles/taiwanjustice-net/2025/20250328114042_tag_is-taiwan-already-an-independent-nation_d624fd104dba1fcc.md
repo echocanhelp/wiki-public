@@ -1,5 +1,5 @@
 ---
-title: Tag: Is Taiwan Already An Independent Nation?
+title: 'Tag: Is Taiwan Already An Independent Nation?'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/is-taiwan-already-an-independent-natio
 archive_url: https://web.archive.org/web/20250328114042/https://taiwanjustice.net/tag/is-taiwan-already-an-independent-nation/
 archive_ts: 20250328114042
 archive_digest: J7PZ53744ITD2276L6VQIOXVILFROZYS
-fetched: 2026-07-26T09:46:26Z
+fetched: 2026-07-26 09:46:26+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2020-02-20T21:55:25-08:00
+post_date: 2020-02-20 21:55:25-08:00
 ---
 
 Home

@@ -1,5 +1,5 @@
 ---
-title: Tag: 俄中將Andrei Sychevoi冒充中校遭俘虜
+title: 'Tag: 俄中將Andrei Sychevoi冒充中校遭俘虜'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/%E4%BF%84%E4%B8%AD%E5%B0%87andrei-sych
 archive_url: https://web.archive.org/web/20250815065013/https://taiwanjustice.net/tag/%E4%BF%84%E4%B8%AD%E5%B0%87andrei-sychevoi%E5%86%92%E5%85%85%E4%B8%AD%E6%A0%A1%E9%81%AD%E4%BF%98%E8%99%9C/
 archive_ts: 20250815065013
 archive_digest: ZXKVIR3ZYKGUPQ5RPHAKP6NYLQUU3J75
-fetched: 2026-07-26T13:26:12Z
+fetched: 2026-07-26 13:26:12+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-09-09T12:29:22-07:00
+post_date: 2022-09-09 12:29:22-07:00
 ---
 
 Home

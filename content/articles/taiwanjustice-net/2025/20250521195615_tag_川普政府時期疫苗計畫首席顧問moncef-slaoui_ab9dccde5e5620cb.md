@@ -1,5 +1,5 @@
 ---
-title: Tag: 川普政府時期疫苗計畫首席顧問Moncef Slaoui
+title: 'Tag: 川普政府時期疫苗計畫首席顧問Moncef Slaoui'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/%E5%B7%9D%E6%99%AE%E6%94%BF%E5%BA%9C%E
 archive_url: https://web.archive.org/web/20250521195615/https://taiwanjustice.net/tag/%E5%B7%9D%E6%99%AE%E6%94%BF%E5%BA%9C%E6%99%82%E6%9C%9F%E7%96%AB%E8%8B%97%E8%A8%88%E7%95%AB%E9%A6%96%E5%B8%AD%E9%A1%A7%E5%95%8Fmoncef-slaoui/
 archive_ts: 20250521195615
 archive_digest: FQL2FKSYHA3G75JCXYXBCIFBQG2PPNHJ
-fetched: 2026-07-26T10:35:57Z
+fetched: 2026-07-26 10:35:57+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-03-24T21:20:38-07:00
+post_date: 2021-03-24 21:20:38-07:00
 ---
 
 Home

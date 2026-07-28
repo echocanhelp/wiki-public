@@ -1,5 +1,5 @@
 ---
-title: Tag: Charles Michel
+title: 'Tag: Charles Michel'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/charles-michel/
 archive_url: https://web.archive.org/web/20250807040224/https://taiwanjustice.net/tag/charles-michel/
 archive_ts: 20250807040224
 archive_digest: 3TAWVUC7KCIYXKL65VGLNIGAC5IZ7JVV
-fetched: 2026-07-26T12:31:44Z
+fetched: 2026-07-26 12:31:44+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2023-01-05T17:58:15-08:00
+post_date: 2023-01-05 17:58:15-08:00
 ---
 
 Home

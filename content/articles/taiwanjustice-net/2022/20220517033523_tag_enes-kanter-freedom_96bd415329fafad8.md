@@ -1,5 +1,5 @@
 ---
-title: Tag: Enes Kanter Freedom
+title: 'Tag: Enes Kanter Freedom'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/enes-kanter-freedom/
 archive_url: https://web.archive.org/web/20220517033523/https://www.taiwanjustice.net/tag/enes-kanter-freedom/
 archive_ts: 20220517033523
 archive_digest: RITAVG4IX3MWA5ISL7UYC2FYZYODTLQY
-fetched: 2026-07-26T07:16:07Z
+fetched: 2026-07-26 07:16:07+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-03-30T11:56:48-07:00
+post_date: 2022-03-30 11:56:48-07:00
 ---
 
 Home

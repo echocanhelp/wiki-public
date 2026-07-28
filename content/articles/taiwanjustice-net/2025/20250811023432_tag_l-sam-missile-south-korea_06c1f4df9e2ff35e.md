@@ -1,5 +1,5 @@
 ---
-title: Tag: l-sam missile south korea
+title: 'Tag: l-sam missile south korea'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/l-sam-missile-south-korea/
 archive_url: https://web.archive.org/web/20250811023432/https://taiwanjustice.net/tag/l-sam-missile-south-korea/
 archive_ts: 20250811023432
 archive_digest: UTLCXJV2VBY6HSTZP36H5JWFPRT3JCWD
-fetched: 2026-07-26T13:12:55Z
+fetched: 2026-07-26 13:12:55+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-11-22T13:18:00-08:00
+post_date: 2022-11-22 13:18:00-08:00
 ---
 
 Home

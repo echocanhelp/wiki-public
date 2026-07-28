@@ -6,12 +6,12 @@ source_url: https://www.taiwanjustice.net/category/gardenning/page/3/
 archive_url: https://web.archive.org/web/20200628195937/https://www.taiwanjustice.net/category/gardenning/page/3/
 archive_ts: 20200628195937
 archive_digest: B4CDGAPBALJKOLVX63FH6DKMAXPUT3GN
-fetched: 2026-07-26T05:28:40Z
+fetched: 2026-07-26 05:28:40+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2019-03-30T20:29:09-07:00
+post_date: 2019-03-30 20:29:09-07:00
 ---
 
 Home

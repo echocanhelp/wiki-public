@@ -1,5 +1,5 @@
 ---
-title: Tag: a major break with decades of U.S. policy on China
+title: 'Tag: a major break with decades of U.S. policy on China'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,11 +7,10 @@ source_url: https://taiwanjustice.net/tag/a-major-break-with-decades-of-u-s-poli
 archive_url: https://web.archive.org/web/20250317181109/https://taiwanjustice.net/tag/a-major-break-with-decades-of-u-s-policy-on-china/
 archive_ts: 20250317181109
 archive_digest: CTXUAGRM2IN5D4RBHD2HMIPIW45HUD3F
-fetched: 2026-07-26T09:34:56Z
+fetched: 2026-07-26 09:34:56+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
 ---
 
 Home

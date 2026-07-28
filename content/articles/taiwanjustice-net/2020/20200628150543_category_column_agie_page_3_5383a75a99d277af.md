@@ -6,12 +6,12 @@ source_url: https://www.taiwanjustice.net/category/column/agie/page/3/
 archive_url: https://web.archive.org/web/20200628150543/https://www.taiwanjustice.net/category/column/agie/page/3/
 archive_ts: 20200628150543
 archive_digest: NZ6XRFB6YZFFW7GCA43F3HJDIMUR6CPY
-fetched: 2026-07-26T05:28:25Z
+fetched: 2026-07-26 05:28:25+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2020-02-25T19:28:20-08:00
+post_date: 2020-02-25 19:28:20-08:00
 ---
 
 Home

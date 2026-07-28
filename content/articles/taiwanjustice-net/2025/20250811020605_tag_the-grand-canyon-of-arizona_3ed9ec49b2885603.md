@@ -1,5 +1,5 @@
 ---
-title: Tag: The Grand Canyon of Arizona
+title: 'Tag: The Grand Canyon of Arizona'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,11 +7,10 @@ source_url: https://taiwanjustice.net/tag/the-grand-canyon-of-arizona/
 archive_url: https://web.archive.org/web/20250811020605/https://taiwanjustice.net/tag/the-grand-canyon-of-arizona/
 archive_ts: 20250811020605
 archive_digest: TNJV3XVBEV4X7SPPBYXJMTLSQSSP5Z43
-fetched: 2026-07-26T13:11:08Z
+fetched: 2026-07-26 13:11:08+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
 ---
 
 Home

@@ -6,16 +6,16 @@ source_url: https://www.taiwanjustice.net/2017/03/12/%E3%80%8A%E6%92%B2%E7%81%AB
 archive_url: https://web.archive.org/web/20220517051352/https://www.taiwanjustice.net/2017/03/12/%E3%80%8A%E6%92%B2%E7%81%AB%E9%A3%9B%E8%9B%BE%E3%80%8Bfireproof-moth%E4%BD%9C%E8%80%85%E7%BE%8E%E5%9C%8B%E5%AE%A3%E6%95%99%E5%B8%AB%E5%94%90%E5%9F%B9%E7%A6%AE%EF%BC%88milo-thornberry%EF%BC%89/
 archive_ts: 20220517051352
 archive_digest: 7O63NTUFVX2LKT5SHLBZ4Q26TSMKA3TJ
-fetched: 2026-07-27T02:37:48Z
+fetched: 2026-07-27 02:37:48+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: other
-post_date: 2017-03-12T13:55:28-07:00
+post_date: 2017-03-12 13:55:28-07:00
 categories:
-  - milo-judith
-  - taiwaneseamerican
-  - taiwan-news
+- milo-judith
+- taiwaneseamerican
+- taiwan-news
 ---
 
 《撲火飛蛾》(Fireproof Moth)的作者，關切台灣民主政治和人權而於1971年被國民黨政府驅逐的美國宣教師唐培禮（Milo Thornberry），2017年3月8日於奧瑞岡州去世。

@@ -1,5 +1,5 @@
 ---
-title: Tag: 魯西迪（Salman Rushdie）
+title: 'Tag: 魯西迪（Salman Rushdie）'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/%E9%AD%AF%E8%A5%BF%E8%BF%AA%EF%BC%
 archive_url: https://web.archive.org/web/20230129130807/https://www.taiwanjustice.net/tag/%E9%AD%AF%E8%A5%BF%E8%BF%AA%EF%BC%88salman-rushdie%EF%BC%89/
 archive_ts: 20230129130807
 archive_digest: RRHAWLPHED66CLO2AFEFINE7GNBXI7R4
-fetched: 2026-07-26T08:30:05Z
+fetched: 2026-07-26 08:30:05+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-08-14T15:23:06-07:00
+post_date: 2022-08-14 15:23:06-07:00
 ---
 
 Home

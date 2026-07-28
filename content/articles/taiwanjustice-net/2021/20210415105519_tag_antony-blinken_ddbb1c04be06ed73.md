@@ -1,5 +1,5 @@
 ---
-title: Tag: Antony Blinken
+title: 'Tag: Antony Blinken'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/antony-blinken/
 archive_url: https://web.archive.org/web/20210415105519/https://www.taiwanjustice.net/tag/antony-blinken/
 archive_ts: 20210415105519
 archive_digest: FUDC2EFO5YSUMKAMR76XT4QJJYWPZURB
-fetched: 2026-07-26T06:35:12Z
+fetched: 2026-07-26 06:35:12+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-03-16T19:47:42-07:00
+post_date: 2021-03-16 19:47:42-07:00
 ---
 
 Home

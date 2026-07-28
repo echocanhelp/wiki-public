@@ -6,15 +6,15 @@ source_url: https://taiwanjustice.net/%E7%AC%AC62%E5%9B%9E%E4%B8%96%E7%95%8C%E8%
 archive_url: https://web.archive.org/web/20250906044722/https://taiwanjustice.net/%E7%AC%AC62%E5%9B%9E%E4%B8%96%E7%95%8C%E8%87%BA%E7%81%A3%E6%96%87%E5%8C%96%E8%AB%96%E5%A3%87%EF%BC%9Atai-gu-bun-ha%CC%8Dk-eng-e%CC%8Dk-e-me-me-kak-kak/
 archive_ts: 20250906044722
 archive_digest: P7CWAG7ILTO2PDPJ3MSHFNZTHZ2K3TOF
-fetched: 2026-07-25T18:49:10Z
+fetched: 2026-07-25 18:49:10+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: en
 cdx_class: article_candidate
-post_date: 2022-11-24T09:58:44-08:00
+post_date: 2022-11-24 09:58:44-08:00
 categories:
-  - taigu
-  - taiwaneseamerican
+- taigu
+- taiwaneseamerican
 ---
 
 Chòe-kīn Tâi-gú Bûn-ha̍k chhut-pán ê sò͘-liōng kap phín-chit it-ti̍t teh thê-seng. Khó-sioh tī Eng-gú sè-kài nā kóng tio̍h Taiwanese Literature, in só͘ siūⁿ—ê sī Tiong-kok-gú Bûn-ha̍k,bô lâng chai-iáⁿ ū Tâi-oân-ōe Bûn-ha̍k ê chûn-chāi.

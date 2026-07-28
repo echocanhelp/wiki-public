@@ -6,18 +6,18 @@ source_url: https://taiwanjustice.net/%E5%8F%B0%E7%BE%8E%E7%B0%BD%E7%BD%B2himars
 archive_url: https://web.archive.org/web/20250718064440/https://taiwanjustice.net/%E5%8F%B0%E7%BE%8E%E7%B0%BD%E7%BD%B2himars%E5%8F%8A%E9%AD%9A%E5%8F%89%E9%A3%9B%E5%BD%88%E8%BB%8D%E8%B3%BC%E6%A1%88%EF%BC%8C%E6%8F%90%E5%8D%87%E4%B8%8D%E5%B0%8D%E7%A8%B1%E6%88%B0%E5%8A%9B/
 archive_ts: 20250718064440
 archive_digest: KY3SSKBNYYVVHHQMDNZO4IV3VD2MQQFA
-fetched: 2026-07-25T17:15:14Z
+fetched: 2026-07-25 17:15:14+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: article_candidate
-post_date: 2021-06-17T11:20:31-07:00
+post_date: 2021-06-17 11:20:31-07:00
 categories:
-  - taiwan
-  - taiwan-news
-  - internatinal
-  - usa_news
-  - biden_era
+- taiwan
+- taiwan-news
+- internatinal
+- usa_news
+- biden_era
 ---
 
 2021/6/17

@@ -1,5 +1,5 @@
 ---
-title: Tag: 安華（Anwar Ibrahim）
+title: 'Tag: 安華（Anwar Ibrahim）'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/%E5%AE%89%E8%8F%AF%EF%BC%88anwar-ibrah
 archive_url: https://web.archive.org/web/20250807034210/https://taiwanjustice.net/tag/%E5%AE%89%E8%8F%AF%EF%BC%88anwar-ibrahim%EF%BC%89/
 archive_ts: 20250807034210
 archive_digest: 373IZJXETQWAFATAN6ZQTEOJXU5AQDXJ
-fetched: 2026-07-26T12:30:28Z
+fetched: 2026-07-26 12:30:28+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-11-24T12:11:17-08:00
+post_date: 2022-11-24 12:11:17-08:00
 ---
 
 Home

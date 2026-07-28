@@ -1,5 +1,5 @@
 ---
-title: Tag: 威爾第的「安魂曲」Giuseppe Verdi’s Requiem
+title: 'Tag: 威爾第的「安魂曲」Giuseppe Verdi’s Requiem'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/%E5%A8%81%E7%88%BE%E7%AC%AC%E7%9A%84%E
 archive_url: https://web.archive.org/web/20250328062137/https://taiwanjustice.net/tag/%E5%A8%81%E7%88%BE%E7%AC%AC%E7%9A%84%E3%80%8C%E5%AE%89%E9%AD%82%E6%9B%B2%E3%80%8Dgiuseppe-verdis-requiem/
 archive_ts: 20250328062137
 archive_digest: O3KWTE5NZW2XMSUBD56LOASLSWIOOKTG
-fetched: 2026-07-26T09:45:14Z
+fetched: 2026-07-26 09:45:14+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-12-16T12:46:30-08:00
+post_date: 2022-12-16 12:46:30-08:00
 ---
 
 Home

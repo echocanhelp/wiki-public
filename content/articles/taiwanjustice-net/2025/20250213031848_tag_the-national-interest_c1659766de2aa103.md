@@ -1,5 +1,5 @@
 ---
-title: Tag: The National Interest
+title: 'Tag: The National Interest'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,11 +7,10 @@ source_url: https://taiwanjustice.net/tag/the-national-interest/
 archive_url: https://web.archive.org/web/20250213031848/https://taiwanjustice.net/tag/the-national-interest/
 archive_ts: 20250213031848
 archive_digest: WLCY5SIERTXXOZK4IRFTS4WKOT4JFZA2
-fetched: 2026-07-26T09:22:38Z
+fetched: 2026-07-26 09:22:38+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
 ---
 
 Home

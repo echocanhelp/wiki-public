@@ -6,12 +6,12 @@ source_url: https://www.taiwanjustice.net/category/column/lawyer-huang/page/3/
 archive_url: https://web.archive.org/web/20200628164325/https://www.taiwanjustice.net/category/column/lawyer-huang/page/3/
 archive_ts: 20200628164325
 archive_digest: WGBBS3OSKH3KPQO4IH6AOZ5XAQCKRFFB
-fetched: 2026-07-26T05:28:27Z
+fetched: 2026-07-26 05:28:27+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2018-07-07T00:00:05-07:00
+post_date: 2018-07-07 00:00:05-07:00
 ---
 
 Home

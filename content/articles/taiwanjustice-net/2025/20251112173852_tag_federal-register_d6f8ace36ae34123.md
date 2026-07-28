@@ -1,5 +1,5 @@
 ---
-title: Tag: Federal Register
+title: 'Tag: Federal Register'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/federal-register/
 archive_url: https://web.archive.org/web/20251112173852/https://taiwanjustice.net/tag/federal-register/
 archive_ts: 20251112173852
 archive_digest: JPDDSB6QVG3EOWRH7WGKP73R3H4IG22Z
-fetched: 2026-07-26T14:53:02Z
+fetched: 2026-07-26 14:53:02+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-08-23T13:00:29-07:00
+post_date: 2022-08-23 13:00:29-07:00
 ---
 
 Home

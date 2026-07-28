@@ -6,15 +6,15 @@ source_url: http://www.taiwanjustice.net:80/category/videos/pen-ftv/
 archive_url: https://web.archive.org/web/20171109044741/http://www.taiwanjustice.net:80/category/videos/pen-ftv/
 archive_ts: 20171109044741
 archive_digest: M5CAVZL7WLI6CNHRCKQUH7JR7N4U2I62
-fetched: 2026-07-26T05:16:05Z
+fetched: 2026-07-26 05:16:05+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
 categories:
-  - pen-ftv
-  - taiwan-news
-  - videos
+- pen-ftv
+- taiwan-news
+- videos
 ---
 
 Home

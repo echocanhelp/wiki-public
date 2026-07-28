@@ -6,14 +6,14 @@ source_url: http://www.taiwanjustice.net:80/category/column/lawyer-huang/
 archive_url: https://web.archive.org/web/20171109043440/http://www.taiwanjustice.net:80/category/column/lawyer-huang/
 archive_ts: 20171109043440
 archive_digest: GUAOMRYZY4BFH5P473FW4YRLQW42O5FC
-fetched: 2026-07-26T05:15:02Z
+fetched: 2026-07-26 05:15:02+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
 categories:
-  - lawyer-huang
-  - column
+- lawyer-huang
+- column
 ---
 
 Home

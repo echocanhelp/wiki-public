@@ -6,7 +6,7 @@ source_url: https://www.taiwanjustice.net/category/editorial/?filter_by=review_h
 archive_url: https://web.archive.org/web/20201116153208/https://www.taiwanjustice.net/category/editorial/?filter_by=review_high
 archive_ts: 20201116153208
 archive_digest: 2OVAWXBCZBTFLL5BEKQZK6UN36VKWRSV
-fetched: 2026-07-26T05:30:25Z
+fetched: 2026-07-26 05:30:25+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant

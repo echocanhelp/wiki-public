@@ -6,16 +6,16 @@ source_url: https://www.taiwanjustice.net/2012/01/29/the-chinese-shadow-on-taiwa
 archive_url: https://web.archive.org/web/20210130160917/https://www.taiwanjustice.net/2012/01/29/the-chinese-shadow-on-taiwans-elections-by-gerrit-van-der-wees/
 archive_ts: 20210130160917
 archive_digest: CI5XYGJMNMQDCECNVRWGTDRBFALGAFEZ
-fetched: 2026-07-27T00:05:30Z
+fetched: 2026-07-27 00:05:30+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: en
 cdx_class: other
-post_date: 2012-01-29T15:06:05-08:00
+post_date: 2012-01-29 15:06:05-08:00
 categories:
-  - sopt-light-article
-  - election2012
-  - voting-fraud
+- sopt-light-article
+- election2012
+- voting-fraud
 ---
 
 The dust is settling over the Jan. 14 elections and many a commentator has weighed in with the conclusion that this was a vote for “stability,” in particular across the Taiwan Strait.

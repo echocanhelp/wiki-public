@@ -6,12 +6,12 @@ source_url: https://taiwanjustice.net/category/internatinal/world-culture/?filte
 archive_url: https://web.archive.org/web/20250420091745/https://taiwanjustice.net/category/internatinal/world-culture/?filter_by=random_posts
 archive_ts: 20250420091745
 archive_digest: WNLAZHTV6GT23UK6MP3AXCXTBV5KPEH6
-fetched: 2026-07-26T06:07:10Z
+fetched: 2026-07-26 06:07:10+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2023-10-05T11:54:25-07:00
+post_date: 2023-10-05 11:54:25-07:00
 ---
 
 Home

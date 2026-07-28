@@ -6,7 +6,7 @@ source_url: https://www.taiwanjustice.net/wp-includes/css/dist/block-library/sty
 archive_url: https://web.archive.org/web/20230907172735/https://www.taiwanjustice.net/wp-includes/css/dist/block-library/style.min.css?ver=6.3.1
 archive_ts: 20230907172735
 archive_digest: 335EJPWR6NPMRGOP2NMMVEITSC6KKPTH
-fetched: 2026-07-27T22:19:26Z
+fetched: 2026-07-27 22:19:26+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: en

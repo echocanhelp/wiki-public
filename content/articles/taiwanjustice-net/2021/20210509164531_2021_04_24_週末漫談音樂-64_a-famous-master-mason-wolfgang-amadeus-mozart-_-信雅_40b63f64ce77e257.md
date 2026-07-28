@@ -6,14 +6,14 @@ source_url: https://www.taiwanjustice.net/2021/04/24/%E3%80%90%E9%80%B1%E6%9C%AB
 archive_url: https://web.archive.org/web/20210509164531/https://www.taiwanjustice.net/2021/04/24/%E3%80%90%E9%80%B1%E6%9C%AB%E6%BC%AB%E8%AB%87%E9%9F%B3%E6%A8%82-64%E3%80%91a-famous-master-mason-wolfgang-amadeus-mozart-%E2%97%8E-%E4%BF%A1%E9%9B%85/
 archive_ts: 20210509164531
 archive_digest: 5FSYHSY4F6CJ6BTAIACBA32K5VR5C7JH
-fetched: 2026-07-27T00:39:28Z
+fetched: 2026-07-27 00:39:28+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: other
-post_date: 2021-04-24T01:01:00-07:00
+post_date: 2021-04-24 01:01:00-07:00
 categories:
-  - classicmusic
+- classicmusic
 ---
 
 2021.04.24

@@ -6,12 +6,12 @@ source_url: https://taiwanjustice.net/category/column/%E6%B1%9F%E7%99%BE%E9%A1%A
 archive_url: https://web.archive.org/web/20250425114726/https://taiwanjustice.net/category/column/%E6%B1%9F%E7%99%BE%E9%A1%AF%E5%B0%88%E6%AC%84/?filter_by=popular
 archive_ts: 20250425114726
 archive_digest: EKDDZFXQTBJXW2T46FRC5UCQDRMZOPBU
-fetched: 2026-07-26T06:09:52Z
+fetched: 2026-07-26 06:09:52+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2024-07-06T20:28:18-07:00
+post_date: 2024-07-06 20:28:18-07:00
 ---
 
 Home

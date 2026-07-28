@@ -1,5 +1,5 @@
 ---
-title: Tag: 勃恩斯（Nicholas Burns）
+title: 'Tag: 勃恩斯（Nicholas Burns）'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/%E5%8B%83%E6%81%A9%E6%96%AF%EF%BC%
 archive_url: https://web.archive.org/web/20230530145444/https://www.taiwanjustice.net/tag/%E5%8B%83%E6%81%A9%E6%96%AF%EF%BC%88nicholas-burns%EF%BC%89/
 archive_ts: 20230530145444
 archive_digest: 3FND7B47IHMKEKGR4SPMRBELBCT75MQF
-fetched: 2026-07-26T08:55:29Z
+fetched: 2026-07-26 08:55:29+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-10-20T16:36:50-07:00
+post_date: 2021-10-20 16:36:50-07:00
 ---
 
 Home

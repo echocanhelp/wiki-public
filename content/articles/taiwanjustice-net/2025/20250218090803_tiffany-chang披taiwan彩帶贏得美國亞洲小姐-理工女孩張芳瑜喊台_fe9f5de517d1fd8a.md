@@ -6,17 +6,17 @@ source_url: https://taiwanjustice.net/tiffany-chang%e6%8a%abtaiwan%e5%bd%a9%e5%b
 archive_url: https://web.archive.org/web/20250218090803/https://taiwanjustice.net/tiffany-chang%e6%8a%abtaiwan%e5%bd%a9%e5%b8%b6%e8%b4%8f%e5%be%97%e7%be%8e%e5%9c%8b%e4%ba%9e%e6%b4%b2%e5%b0%8f%e5%a7%90-%e7%90%86%e5%b7%a5%e5%a5%b3%e5%ad%a9%e5%bc%b5%e8%8a%b3%e7%91%9c%e5%96%8a%e5%8f%b0/
 archive_ts: 20250218090803
 archive_digest: 4KMZLCU2ZKFO5HI6NL5KVZI4MQO4JLK4
-fetched: 2026-07-25T01:14:56Z
+fetched: 2026-07-25 01:14:56+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: article_candidate
-post_date: 2023-11-20T15:41:17-08:00
+post_date: 2023-11-20 15:41:17-08:00
 categories:
-  - usa
-  - taiwaneseamerican
-  - internatinal
-  - usa_news
+- usa
+- taiwaneseamerican
+- internatinal
+- usa_news
 ---
 
 2023/11/20

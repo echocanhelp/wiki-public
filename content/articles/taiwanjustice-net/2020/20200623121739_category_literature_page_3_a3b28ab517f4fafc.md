@@ -6,12 +6,12 @@ source_url: https://www.taiwanjustice.net/category/literature/page/3/
 archive_url: https://web.archive.org/web/20200623121739/https://www.taiwanjustice.net/category/literature/page/3/
 archive_ts: 20200623121739
 archive_digest: Q7ZFK4PQGC4LYSLWHXQZB2JINX74AE5V
-fetched: 2026-07-28T04:08:29Z
+fetched: 2026-07-28 04:08:29+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2020-06-13T23:08:50-07:00
+post_date: 2020-06-13 23:08:50-07:00
 ---
 
 Home

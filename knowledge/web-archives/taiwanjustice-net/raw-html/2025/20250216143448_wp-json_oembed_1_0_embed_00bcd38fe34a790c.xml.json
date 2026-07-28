@@ -1,0 +1,16 @@
+{
+  "source_url": "https://taiwanjustice.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftaiwanjustice.net%2F&format=xml",
+  "archive_ts": "20250216143448",
+  "archive_url": "https://web.archive.org/web/20250216143448/https://taiwanjustice.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftaiwanjustice.net%2F&format=xml",
+  "wayback_id_url": "https://web.archive.org/web/20250216143448id_/https://taiwanjustice.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftaiwanjustice.net%2F&format=xml",
+  "cdx_digest": "F4QJPIZYSO5HPFGS3WCLK2PWBBUUUJ4I",
+  "cdx_mimetype": "text/xml",
+  "cdx_class": "wordpress_infra",
+  "content_type": "text/xml; charset=UTF-8",
+  "sha256": "782eed940fe9cf2bfee2e04396ca8db7bbb6fd587a2eae9d01818d82a4b1ef7b",
+  "bytes": 2448,
+  "fetched_at": "2026-07-28T00:51:40Z",
+  "method": "wayback-id_",
+  "keep_comments": true,
+  "keep_newsletters": true
+}

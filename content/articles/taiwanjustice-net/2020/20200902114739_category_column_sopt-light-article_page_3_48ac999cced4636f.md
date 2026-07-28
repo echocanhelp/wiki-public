@@ -6,12 +6,12 @@ source_url: https://www.taiwanjustice.net/category/column/sopt-light-article/pag
 archive_url: https://web.archive.org/web/20200902114739/https://www.taiwanjustice.net/category/column/sopt-light-article/page/3/
 archive_ts: 20200902114739
 archive_digest: ZS3CL3NXJLGUIY666VHRLZ66LSBWSLCJ
-fetched: 2026-07-26T05:30:02Z
+fetched: 2026-07-26 05:30:02+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2020-09-01T13:22:56-07:00
+post_date: 2020-09-01 13:22:56-07:00
 ---
 
 Home

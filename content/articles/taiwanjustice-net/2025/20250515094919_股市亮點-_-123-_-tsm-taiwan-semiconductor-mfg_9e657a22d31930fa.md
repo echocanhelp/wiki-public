@@ -6,14 +6,14 @@ source_url: https://taiwanjustice.net/%E8%82%A1%E5%B8%82%E4%BA%AE%E9%BB%9E-%EF%B
 archive_url: https://web.archive.org/web/20250515094919/https://taiwanjustice.net/%E8%82%A1%E5%B8%82%E4%BA%AE%E9%BB%9E-%EF%BC%88-123-%EF%BC%89-tsm-taiwan-semiconductor-mfg/
 archive_ts: 20250515094919
 archive_digest: GXKOZOBGQCQVXX5SZDSU2X26O5UVSXZF
-fetched: 2026-07-25T07:26:48Z
+fetched: 2026-07-25 07:26:48+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: article_candidate
-post_date: 2020-06-29T22:28:31-07:00
+post_date: 2020-06-29 22:28:31-07:00
 categories:
-  - stock
+- stock
 ---
 
 敬請支持‧歡迎訂閱本報newsletter

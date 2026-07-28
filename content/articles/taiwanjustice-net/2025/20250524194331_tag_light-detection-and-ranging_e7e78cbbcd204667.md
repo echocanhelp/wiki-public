@@ -1,5 +1,5 @@
 ---
-title: Tag: Light Detection and Ranging
+title: 'Tag: Light Detection and Ranging'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/light-detection-and-ranging/
 archive_url: https://web.archive.org/web/20250524194331/https://taiwanjustice.net/tag/light-detection-and-ranging/
 archive_ts: 20250524194331
 archive_digest: PYBVW4UZG2ILYIOC5XIG3HVKBP7N3W7A
-fetched: 2026-07-26T10:44:48Z
+fetched: 2026-07-26 10:44:48+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2024-05-24T19:14:08-07:00
+post_date: 2024-05-24 19:14:08-07:00
 ---
 
 Home

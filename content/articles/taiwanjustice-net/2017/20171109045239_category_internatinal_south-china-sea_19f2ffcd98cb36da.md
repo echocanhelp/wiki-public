@@ -6,16 +6,16 @@ source_url: http://www.taiwanjustice.net:80/category/internatinal/south-china-se
 archive_url: https://web.archive.org/web/20171109045239/http://www.taiwanjustice.net:80/category/internatinal/south-china-sea/
 archive_ts: 20171109045239
 archive_digest: DA3WSCBFS4VXNNDDDXOL4SLSQMKDLYIG
-fetched: 2026-07-26T05:16:12Z
+fetched: 2026-07-26 05:16:12+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
 categories:
-  - south-china-sea
-  - us_election
-  - internatinal
-  - videos
+- south-china-sea
+- us_election
+- internatinal
+- videos
 ---
 
 Home

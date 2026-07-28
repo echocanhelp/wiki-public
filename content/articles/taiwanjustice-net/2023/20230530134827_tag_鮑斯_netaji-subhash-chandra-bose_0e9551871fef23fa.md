@@ -1,5 +1,5 @@
 ---
-title: Tag: 鮑斯（Netaji Subhash Chandra Bose）
+title: 'Tag: 鮑斯（Netaji Subhash Chandra Bose）'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/%E9%AE%91%E6%96%AF%EF%BC%88netaji-
 archive_url: https://web.archive.org/web/20230530134827/https://www.taiwanjustice.net/tag/%E9%AE%91%E6%96%AF%EF%BC%88netaji-subhash-chandra-bose%EF%BC%89/
 archive_ts: 20230530134827
 archive_digest: DRJZX4NZNABE6ZQ6ABLZ2YLQW54FJHJE
-fetched: 2026-07-26T08:53:19Z
+fetched: 2026-07-26 08:53:19+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2023-01-23T13:56:12-08:00
+post_date: 2023-01-23 13:56:12-08:00
 ---
 
 Home

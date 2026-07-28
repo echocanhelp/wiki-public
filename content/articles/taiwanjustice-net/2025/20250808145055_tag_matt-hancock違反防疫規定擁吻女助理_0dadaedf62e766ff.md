@@ -1,5 +1,5 @@
 ---
-title: Tag: Matt Hancock違反防疫規定擁吻女助理
+title: 'Tag: Matt Hancock違反防疫規定擁吻女助理'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/matt-hancock%E9%81%95%E5%8F%8D%E9%98%B
 archive_url: https://web.archive.org/web/20250808145055/https://taiwanjustice.net/tag/matt-hancock%E9%81%95%E5%8F%8D%E9%98%B2%E7%96%AB%E8%A6%8F%E5%AE%9A%E6%93%81%E5%90%BB%E5%A5%B3%E5%8A%A9%E7%90%86/
 archive_ts: 20250808145055
 archive_digest: TWLL2QVPHZ7EHC752NI7UAJ4PGNCJLMJ
-fetched: 2026-07-26T12:59:11Z
+fetched: 2026-07-26 12:59:11+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-06-26T12:39:24-07:00
+post_date: 2021-06-26 12:39:24-07:00
 ---
 
 Home

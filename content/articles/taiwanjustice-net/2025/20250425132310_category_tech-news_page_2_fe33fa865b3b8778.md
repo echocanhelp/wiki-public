@@ -6,12 +6,12 @@ source_url: https://taiwanjustice.net/category/tech-news/page/2/?filter_by=popul
 archive_url: https://web.archive.org/web/20250425132310/https://taiwanjustice.net/category/tech-news/page/2/?filter_by=popular
 archive_ts: 20250425132310
 archive_digest: OVGX56ENEVK5PHASDHCHBWKX3NNAIHQI
-fetched: 2026-07-26T06:11:02Z
+fetched: 2026-07-26 06:11:02+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2021-01-29T18:19:10-08:00
+post_date: 2021-01-29 18:19:10-08:00
 ---
 
 Home

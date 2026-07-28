@@ -1,5 +1,5 @@
 ---
-title: Tag: 世維大會發言人迪里夏提（Dilshat Reshit）
+title: 'Tag: 世維大會發言人迪里夏提（Dilshat Reshit）'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/%E4%B8%96%E7%B6%AD%E5%A4%A7%E6%9C%83%E
 archive_url: https://web.archive.org/web/20250521215338/https://taiwanjustice.net/tag/%E4%B8%96%E7%B6%AD%E5%A4%A7%E6%9C%83%E7%99%BC%E8%A8%80%E4%BA%BA%E8%BF%AA%E9%87%8C%E5%A4%8F%E6%8F%90%EF%BC%88dilshat-reshit%EF%BC%89/
 archive_ts: 20250521215338
 archive_digest: DKLBP5VLHPNCHL4O6HZW3EHPSKKNY32B
-fetched: 2026-07-26T10:40:53Z
+fetched: 2026-07-26 10:40:53+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2025-04-14T21:27:50-07:00
+post_date: 2025-04-14 21:27:50-07:00
 ---
 
 Home

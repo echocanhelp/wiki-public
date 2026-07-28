@@ -6,15 +6,15 @@ source_url: http://www.taiwanjustice.net:80/category/videos/dig-news/
 archive_url: https://web.archive.org/web/20171109042933/http://www.taiwanjustice.net:80/category/videos/dig-news/
 archive_ts: 20171109042933
 archive_digest: KAPSGGA6UQ3STEH3SXOPJP4LH2XWGKGP
-fetched: 2026-07-26T05:14:10Z
+fetched: 2026-07-26 05:14:10+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
 categories:
-  - dig-news
-  - taiwan-news
-  - videos
+- dig-news
+- taiwan-news
+- videos
 ---
 
 Home

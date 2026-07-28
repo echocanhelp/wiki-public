@@ -6,12 +6,12 @@ source_url: https://www.taiwanjustice.net/category/videos/newtaiwan/page/3/
 archive_url: https://web.archive.org/web/20200628155002/https://www.taiwanjustice.net/category/videos/newtaiwan/page/3/
 archive_ts: 20200628155002
 archive_digest: YJBCXMLSYSDG2FBBOWTIQQECNJDUKRKI
-fetched: 2026-07-26T05:28:26Z
+fetched: 2026-07-26 05:28:26+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2020-06-26T07:55:39-07:00
+post_date: 2020-06-26 07:55:39-07:00
 ---
 
 Home

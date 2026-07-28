@@ -1,5 +1,5 @@
 ---
-title: Tag: It is in the U.S. interest to have a stable and prosperous Taiwan
+title: 'Tag: It is in the U.S. interest to have a stable and prosperous Taiwan'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,11 +7,10 @@ source_url: https://taiwanjustice.net/tag/it-is-in-the-u-s-interest-to-have-a-st
 archive_url: https://web.archive.org/web/20250216022018/https://taiwanjustice.net/tag/it-is-in-the-u-s-interest-to-have-a-stable-and-prosperous-taiwan/
 archive_ts: 20250216022018
 archive_digest: DLYDLWPHGLZWQMIQWQYFKKJBBTPBXL7I
-fetched: 2026-07-26T09:27:59Z
+fetched: 2026-07-26 09:27:59+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
 ---
 
 Home

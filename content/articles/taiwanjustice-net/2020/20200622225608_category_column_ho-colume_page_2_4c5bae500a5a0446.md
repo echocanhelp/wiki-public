@@ -6,12 +6,12 @@ source_url: https://www.taiwanjustice.net/category/column/ho-colume/page/2/
 archive_url: https://web.archive.org/web/20200622225608/https://www.taiwanjustice.net/category/column/ho-colume/page/2/
 archive_ts: 20200622225608
 archive_digest: XZUXHA2GPDT7J3WVCYWKWPK2GNKVH7XI
-fetched: 2026-07-28T04:08:27Z
+fetched: 2026-07-28 04:08:27+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2018-02-19T21:28:39-08:00
+post_date: 2018-02-19 21:28:39-08:00
 ---
 
 Home

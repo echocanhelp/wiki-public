@@ -1,5 +1,5 @@
 ---
-title: Tag: PANW ( Palo Alto Networks Inc. )
+title: 'Tag: PANW ( Palo Alto Networks Inc. )'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/panw-palo-alto-networks-inc-2/
 archive_url: https://web.archive.org/web/20210118132536/https://www.taiwanjustice.net/tag/panw-palo-alto-networks-inc-2/
 archive_ts: 20210118132536
 archive_digest: 56RNIBDYWSLJRO3DSCKSFOJ26JFEQP5F
-fetched: 2026-07-26T06:31:08Z
+fetched: 2026-07-26 06:31:08+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2020-11-17T20:34:12-08:00
+post_date: 2020-11-17 20:34:12-08:00
 ---
 
 Home

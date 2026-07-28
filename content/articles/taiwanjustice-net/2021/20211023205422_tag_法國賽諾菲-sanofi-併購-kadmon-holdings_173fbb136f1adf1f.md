@@ -1,5 +1,5 @@
 ---
-title: Tag: 法國賽諾菲 Sanofi 併購 Kadmon Holdings
+title: 'Tag: 法國賽諾菲 Sanofi 併購 Kadmon Holdings'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/%E6%B3%95%E5%9C%8B%E8%B3%BD%E8%AB%
 archive_url: https://web.archive.org/web/20211023205422/https://www.taiwanjustice.net/tag/%E6%B3%95%E5%9C%8B%E8%B3%BD%E8%AB%BE%E8%8F%B2-sanofi-%E4%BD%B5%E8%B3%BC-kadmon-holdings/
 archive_ts: 20211023205422
 archive_digest: S5YZZ6LAMKQGT5YR6KVZRJTJX374HNAS
-fetched: 2026-07-26T06:59:32Z
+fetched: 2026-07-26 06:59:32+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-09-08T15:36:55-07:00
+post_date: 2021-09-08 15:36:55-07:00
 ---
 
 Home

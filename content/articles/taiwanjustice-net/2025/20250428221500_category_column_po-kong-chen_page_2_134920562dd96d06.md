@@ -6,12 +6,12 @@ source_url: https://taiwanjustice.net/category/column/po-kong-chen/page/2/?filte
 archive_url: https://web.archive.org/web/20250428221500/https://taiwanjustice.net/category/column/po-kong-chen/page/2/?filter_by=popular
 archive_ts: 20250428221500
 archive_digest: BILX6I7AJIHTNDOXG4MT65ARQE2P6IQZ
-fetched: 2026-07-26T06:12:20Z
+fetched: 2026-07-26 06:12:20+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2021-07-08T11:03:48-07:00
+post_date: 2021-07-08 11:03:48-07:00
 ---
 
 Home

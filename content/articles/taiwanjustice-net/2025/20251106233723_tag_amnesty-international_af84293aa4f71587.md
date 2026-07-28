@@ -1,5 +1,5 @@
 ---
-title: Tag: Amnesty International
+title: 'Tag: Amnesty International'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/amnesty-international/
 archive_url: https://web.archive.org/web/20251106233723/https://taiwanjustice.net/tag/amnesty-international/
 archive_ts: 20251106233723
 archive_digest: 6NGHWNX6HBY7KQELVNBVVMJX4PDGR5CZ
-fetched: 2026-07-26T14:38:05Z
+fetched: 2026-07-26 14:38:05+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2025-05-19T09:49:59-07:00
+post_date: 2025-05-19 09:49:59-07:00
 ---
 
 Home

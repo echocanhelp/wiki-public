@@ -1,5 +1,5 @@
 ---
-title: Tag: European Parliament
+title: 'Tag: European Parliament'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/european-parliament/
 archive_url: https://web.archive.org/web/20250804162406/https://taiwanjustice.net/tag/european-parliament/
 archive_ts: 20250804162406
 archive_digest: QZK24JTMOR2CR5RFO2MP3S4XXW4JXM4I
-fetched: 2026-07-26T12:25:16Z
+fetched: 2026-07-26 12:25:16+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2024-02-22T12:06:39-08:00
+post_date: 2024-02-22 12:06:39-08:00
 ---
 
 Home

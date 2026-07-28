@@ -1,5 +1,5 @@
 ---
-title: Tag: Philip Davidson
+title: 'Tag: Philip Davidson'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/philip-davidson/
 archive_url: https://web.archive.org/web/20250518164622/https://taiwanjustice.net/tag/philip-davidson/
 archive_ts: 20250518164622
 archive_digest: ID72DDCHT2IOJH4S2BDCEVXRLRY5QM4T
-fetched: 2026-07-26T10:29:54Z
+fetched: 2026-07-26 10:29:54+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2023-01-31T12:09:29-08:00
+post_date: 2023-01-31 12:09:29-08:00
 ---
 
 Home

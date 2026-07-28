@@ -6,12 +6,12 @@ source_url: https://www.taiwanjustice.net/category/column/kim/page/3/
 archive_url: https://web.archive.org/web/20200625220018/https://www.taiwanjustice.net/category/column/kim/page/3/
 archive_ts: 20200625220018
 archive_digest: E3D46VQVLJKIQXOYPBUB2GAT75NHGBYS
-fetched: 2026-07-26T05:24:05Z
+fetched: 2026-07-26 05:24:05+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2019-01-23T22:32:03-08:00
+post_date: 2019-01-23 22:32:03-08:00
 ---
 
 Home

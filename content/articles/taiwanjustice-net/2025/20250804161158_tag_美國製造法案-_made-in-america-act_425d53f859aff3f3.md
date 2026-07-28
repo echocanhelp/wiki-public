@@ -1,5 +1,5 @@
 ---
-title: Tag: “美國製造法案” （MADE in America Act）
+title: 'Tag: “美國製造法案” （MADE in America Act）'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/%E7%BE%8E%E5%9C%8B%E8%A3%BD%E9%80%A0%E
 archive_url: https://web.archive.org/web/20250804161158/https://taiwanjustice.net/tag/%E7%BE%8E%E5%9C%8B%E8%A3%BD%E9%80%A0%E6%B3%95%E6%A1%88-%EF%BC%88made-in-america-act%EF%BC%89/
 archive_ts: 20250804161158
 archive_digest: QBUA25QYFVUIZ5DKXZZCULI4KPEWTDCR
-fetched: 2026-07-26T12:24:40Z
+fetched: 2026-07-26 12:24:40+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-06-17T15:15:28-07:00
+post_date: 2021-06-17 15:15:28-07:00
 ---
 
 Home

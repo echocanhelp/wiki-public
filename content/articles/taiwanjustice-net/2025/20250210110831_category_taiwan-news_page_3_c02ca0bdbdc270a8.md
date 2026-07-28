@@ -6,12 +6,12 @@ source_url: https://taiwanjustice.net/category/taiwan-news/page/3/?filter_by=fea
 archive_url: https://web.archive.org/web/20250210110831/https://taiwanjustice.net/category/taiwan-news/page/3/?filter_by=featured
 archive_ts: 20250210110831
 archive_digest: 3CQQIHYZ2AJXYHZAB6OO4EW6GXSLDL6B
-fetched: 2026-07-26T05:59:26Z
+fetched: 2026-07-26 05:59:26+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2025-02-09T22:13:32-08:00
+post_date: 2025-02-09 22:13:32-08:00
 ---
 
 Home

@@ -1,5 +1,5 @@
 ---
-title: Tag: Al Nour Wal Amal Orchestra
+title: 'Tag: Al Nour Wal Amal Orchestra'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/al-nour-wal-amal-orchestra/
 archive_url: https://web.archive.org/web/20210620121503/https://www.taiwanjustice.net/tag/al-nour-wal-amal-orchestra/
 archive_ts: 20210620121503
 archive_digest: AN65XJAVDM6ZCYKH3YBACUAJGOMARKVU
-fetched: 2026-07-26T06:44:50Z
+fetched: 2026-07-26 06:44:50+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-04-16T23:35:33-07:00
+post_date: 2021-04-16 23:35:33-07:00
 ---
 
 Home

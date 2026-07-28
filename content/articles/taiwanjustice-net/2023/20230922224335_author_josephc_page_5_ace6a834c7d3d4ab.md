@@ -6,12 +6,12 @@ source_url: https://www.taiwanjustice.net/author/josephc/page/5/
 archive_url: https://web.archive.org/web/20230922224335/https://www.taiwanjustice.net/author/josephc/page/5/
 archive_ts: 20230922224335
 archive_digest: 6TGI6QGL6SCFJI7F4SWOZNE4VFVJHJ3N
-fetched: 2026-07-26T06:22:39Z
+fetched: 2026-07-26 06:22:39+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: author
-post_date: 2023-09-21T17:06:44-07:00
+post_date: 2023-09-21 17:06:44-07:00
 ---
 
 Home

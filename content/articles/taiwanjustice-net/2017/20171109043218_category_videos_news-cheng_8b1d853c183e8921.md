@@ -6,15 +6,15 @@ source_url: http://www.taiwanjustice.net:80/category/videos/news-cheng/
 archive_url: https://web.archive.org/web/20171109043218/http://www.taiwanjustice.net:80/category/videos/news-cheng/
 archive_ts: 20171109043218
 archive_digest: O2O454ZBECNZO7RLHIXW2DXAZQ5W7T7I
-fetched: 2026-07-26T05:14:44Z
+fetched: 2026-07-26 05:14:44+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
 categories:
-  - news-cheng
-  - taiwan-news
-  - videos
+- news-cheng
+- taiwan-news
+- videos
 ---
 
 Home

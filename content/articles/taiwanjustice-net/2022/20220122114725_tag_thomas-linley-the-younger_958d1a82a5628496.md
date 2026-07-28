@@ -1,5 +1,5 @@
 ---
-title: Tag: Thomas Linley the Younger
+title: 'Tag: Thomas Linley the Younger'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/thomas-linley-the-younger/
 archive_url: https://web.archive.org/web/20220122114725/https://www.taiwanjustice.net/tag/thomas-linley-the-younger/
 archive_ts: 20220122114725
 archive_digest: 57DHCHQWPU7PZI4IJQ42UJPDYW3AO66G
-fetched: 2026-07-26T07:14:05Z
+fetched: 2026-07-26 07:14:05+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-11-19T21:45:14-08:00
+post_date: 2021-11-19 21:45:14-08:00
 ---
 
 Home

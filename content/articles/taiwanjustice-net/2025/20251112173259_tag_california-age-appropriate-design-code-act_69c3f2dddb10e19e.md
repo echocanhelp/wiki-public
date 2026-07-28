@@ -1,5 +1,5 @@
 ---
-title: Tag: California Age-Appropriate Design Code Act
+title: 'Tag: California Age-Appropriate Design Code Act'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/california-age-appropriate-design-code
 archive_url: https://web.archive.org/web/20251112173259/https://taiwanjustice.net/tag/california-age-appropriate-design-code-act/
 archive_ts: 20251112173259
 archive_digest: RSFG55KVMYL6ZEXWDPVAQUZINGZOF7WF
-fetched: 2026-07-26T14:52:26Z
+fetched: 2026-07-26 14:52:26+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-08-31T14:28:03-07:00
+post_date: 2022-08-31 14:28:03-07:00
 ---
 
 Home

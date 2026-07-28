@@ -1,5 +1,5 @@
 ---
-title: Tag: New Caledonia
+title: 'Tag: New Caledonia'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/new-caledonia/
 archive_url: https://web.archive.org/web/20220521155644/https://www.taiwanjustice.net/tag/new-caledonia/
 archive_ts: 20220521155644
 archive_digest: XFFMUQIMYFFBNQDYUKUKWEWFBPOSKCT4
-fetched: 2026-07-26T07:41:59Z
+fetched: 2026-07-26 07:41:59+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-12-13T13:09:12-08:00
+post_date: 2021-12-13 13:09:12-08:00
 ---
 
 Home

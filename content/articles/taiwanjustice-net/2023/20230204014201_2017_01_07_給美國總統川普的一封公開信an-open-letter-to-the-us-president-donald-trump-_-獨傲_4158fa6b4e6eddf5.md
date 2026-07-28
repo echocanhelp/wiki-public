@@ -6,17 +6,17 @@ source_url: https://www.taiwanjustice.net/2017/01/07/%E7%B5%A6%E7%BE%8E%E5%9C%8B
 archive_url: https://web.archive.org/web/20230204014201/https://www.taiwanjustice.net/2017/01/07/%E7%B5%A6%E7%BE%8E%E5%9C%8B%E7%B8%BD%E7%B5%B1%E5%B7%9D%E6%99%AE%E7%9A%84%E4%B8%80%E5%B0%81%E5%85%AC%E9%96%8B%E4%BF%A1an-open-letter-to-the-us-president-donald-trump-%E2%97%8E-%E7%8D%A8%E5%82%B2/
 archive_ts: 20230204014201
 archive_digest: M3X2GQ6G5XV77SCD23BLCJX4CU3NXQOK
-fetched: 2026-07-27T05:54:38Z
+fetched: 2026-07-27 05:54:38+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: en
 cdx_class: other
-post_date: 2017-01-07T06:39:47-08:00
+post_date: 2017-01-07 06:39:47-08:00
 categories:
-  - agie
-  - us_election
-  - english-pages
-  - column
+- agie
+- us_election
+- english-pages
+- column
 ---
 
 Dear US President Donald Trump,

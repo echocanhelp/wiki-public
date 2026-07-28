@@ -1,5 +1,5 @@
 ---
-title: Tag: Wendy Sherman
+title: 'Tag: Wendy Sherman'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/wendy-sherman/
 archive_url: https://web.archive.org/web/20211023211518/https://www.taiwanjustice.net/tag/wendy-sherman/
 archive_ts: 20211023211518
 archive_digest: J6RL34BTE2LKG33PNNGKL773GYDYGPAN
-fetched: 2026-07-28T04:13:14Z
+fetched: 2026-07-28 04:13:14+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-07-21T07:02:51-07:00
+post_date: 2021-07-21 07:02:51-07:00
 ---
 
 Home

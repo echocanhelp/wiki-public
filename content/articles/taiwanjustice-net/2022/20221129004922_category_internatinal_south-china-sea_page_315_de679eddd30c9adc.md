@@ -6,12 +6,12 @@ source_url: https://www.taiwanjustice.net/category/internatinal/south-china-sea/
 archive_url: https://web.archive.org/web/20221129004922/https://www.taiwanjustice.net/category/internatinal/south-china-sea/page/315/?filter_by=popular
 archive_ts: 20221129004922
 archive_digest: AT3EMDTKQPYUMFW3SAPL7DYQAKT473CK
-fetched: 2026-07-28T04:10:02Z
+fetched: 2026-07-28 04:10:02+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2017-06-13T17:44:39-07:00
+post_date: 2017-06-13 17:44:39-07:00
 ---
 
 Home

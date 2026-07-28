@@ -1,5 +1,5 @@
 ---
-title: Tag: National Education Plan
+title: 'Tag: National Education Plan'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,11 +7,10 @@ source_url: https://taiwanjustice.net/tag/national-education-plan/
 archive_url: https://web.archive.org/web/20250915145515/https://taiwanjustice.net/tag/national-education-plan/
 archive_ts: 20250915145515
 archive_digest: XQROHORD2THETC274S5DE4W3LAFDMMFS
-fetched: 2026-07-26T13:46:38Z
+fetched: 2026-07-26 13:46:38+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
 ---
 
 Home

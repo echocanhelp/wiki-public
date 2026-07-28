@@ -6,12 +6,12 @@ source_url: https://www.taiwanjustice.net/category/ma-caca/page/3/
 archive_url: https://web.archive.org/web/20200627141248/https://www.taiwanjustice.net/category/ma-caca/page/3/
 archive_ts: 20200627141248
 archive_digest: SK2SJKDYVXFOLEEPHNQXPUR3I4S4DVS5
-fetched: 2026-07-26T05:27:19Z
+fetched: 2026-07-26 05:27:19+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2015-10-08T09:56:30-07:00
+post_date: 2015-10-08 09:56:30-07:00
 ---
 
 Home

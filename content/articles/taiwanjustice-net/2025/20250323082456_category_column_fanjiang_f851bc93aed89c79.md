@@ -6,7 +6,7 @@ source_url: https://taiwanjustice.net/category/column/fanjiang/?filter_by=review
 archive_url: https://web.archive.org/web/20250323082456/https://taiwanjustice.net/category/column/fanjiang/?filter_by=review_high
 archive_ts: 20250323082456
 archive_digest: UK3WMLZLUUQ2XACF6QRKBVLYDT4PXYUU
-fetched: 2026-07-26T06:03:34Z
+fetched: 2026-07-26 06:03:34+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant

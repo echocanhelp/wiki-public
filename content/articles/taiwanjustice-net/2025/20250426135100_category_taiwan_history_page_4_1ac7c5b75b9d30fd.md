@@ -6,12 +6,12 @@ source_url: https://taiwanjustice.net/category/taiwan_history/page/4/?filter_by=
 archive_url: https://web.archive.org/web/20250426135100/https://taiwanjustice.net/category/taiwan_history/page/4/?filter_by=popular
 archive_ts: 20250426135100
 archive_digest: 4JC25QYZIE6JYNUBO7ECCFDY7JRREHXN
-fetched: 2026-07-26T06:11:10Z
+fetched: 2026-07-26 06:11:10+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2020-07-12T20:44:14-07:00
+post_date: 2020-07-12 20:44:14-07:00
 ---
 
 Home

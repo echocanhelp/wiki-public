@@ -6,12 +6,12 @@ source_url: https://www.taiwanjustice.net/category/column/chen-mao-xiong/page/2/
 archive_url: https://web.archive.org/web/20200626235022/https://www.taiwanjustice.net/category/column/chen-mao-xiong/page/2/
 archive_ts: 20200626235022
 archive_digest: MBD4UZDWKTXJJEY2CVATZVR5LUIXUGAS
-fetched: 2026-07-26T05:26:52Z
+fetched: 2026-07-26 05:26:52+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2020-06-24T19:39:37-07:00
+post_date: 2020-06-24 19:39:37-07:00
 ---
 
 Home

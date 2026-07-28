@@ -1,5 +1,5 @@
 ---
-title: Tag: Bettina Stark-Watzinger
+title: 'Tag: Bettina Stark-Watzinger'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/bettina-stark-watzinger/
 archive_url: https://web.archive.org/web/20230601061559/https://www.taiwanjustice.net/tag/bettina-stark-watzinger/
 archive_ts: 20230601061559
 archive_digest: UZV7RSNHFCNHZBP5CEJYRXBMM5XL5ZDC
-fetched: 2026-07-26T08:59:37Z
+fetched: 2026-07-26 08:59:37+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2023-03-19T16:20:22-07:00
+post_date: 2023-03-19 16:20:22-07:00
 ---
 
 Home

@@ -6,12 +6,12 @@ source_url: https://taiwanjustice.net/category/internatinal/world-history/?filte
 archive_url: https://web.archive.org/web/20250428225850/https://taiwanjustice.net/category/internatinal/world-history/?filter_by=popular
 archive_ts: 20250428225850
 archive_digest: LKMYMRS5AIVVV7PJKRKCVYP4ZLVCTFAD
-fetched: 2026-07-26T06:13:04Z
+fetched: 2026-07-26 06:13:04+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2021-12-11T15:59:44-08:00
+post_date: 2021-12-11 15:59:44-08:00
 ---
 
 Home

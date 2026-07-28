@@ -1,5 +1,5 @@
 ---
-title: Tag: Albert Einstein 的音樂世界
+title: 'Tag: Albert Einstein 的音樂世界'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/albert-einstein-%E7%9A%84%E9%9F%B3
 archive_url: https://web.archive.org/web/20210415105842/https://www.taiwanjustice.net/tag/albert-einstein-%E7%9A%84%E9%9F%B3%E6%A8%82%E4%B8%96%E7%95%8C/
 archive_ts: 20210415105842
 archive_digest: 3VGTK2HH5WJXZHMW7STGKQRR2NVRW4GN
-fetched: 2026-07-26T06:35:14Z
+fetched: 2026-07-26 06:35:14+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-02-13T01:34:00-08:00
+post_date: 2021-02-13 01:34:00-08:00
 ---
 
 Home

@@ -6,12 +6,12 @@ source_url: https://www.taiwanjustice.net/category/taiwan-news/election/page/2/
 archive_url: https://web.archive.org/web/20200625011750/https://www.taiwanjustice.net/category/taiwan-news/election/page/2/
 archive_ts: 20200625011750
 archive_digest: ZVA2XQHY3C45ZIUR4DHGLBALQQ2GVHFS
-fetched: 2026-07-28T04:08:33Z
+fetched: 2026-07-28 04:08:33+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2020-06-24T08:21:47-07:00
+post_date: 2020-06-24 08:21:47-07:00
 ---
 
 Home

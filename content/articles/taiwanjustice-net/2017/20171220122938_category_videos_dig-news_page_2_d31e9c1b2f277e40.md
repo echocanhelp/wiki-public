@@ -6,12 +6,12 @@ source_url: http://www.taiwanjustice.net:80/category/videos/dig-news/page/2/
 archive_url: https://web.archive.org/web/20171220122938/http://www.taiwanjustice.net:80/category/videos/dig-news/page/2/
 archive_ts: 20171220122938
 archive_digest: HWJWBNAJS4J2VKHXIM5GZBG2ITPSP3RP
-fetched: 2026-07-26T05:18:18Z
+fetched: 2026-07-26 05:18:18+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2017-12-19T08:56:19+00:00
+post_date: 2017-12-19 08:56:19+00:00
 ---
 
 Home

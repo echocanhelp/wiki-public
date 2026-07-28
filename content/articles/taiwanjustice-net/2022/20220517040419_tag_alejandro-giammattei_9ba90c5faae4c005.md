@@ -1,5 +1,5 @@
 ---
-title: Tag: Alejandro Giammattei
+title: 'Tag: Alejandro Giammattei'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/alejandro-giammattei/
 archive_url: https://web.archive.org/web/20220517040419/https://www.taiwanjustice.net/tag/alejandro-giammattei/
 archive_ts: 20220517040419
 archive_digest: 4URMTMLPPSYXHUV2BVP26EMKZ27UHHLV
-fetched: 2026-07-26T07:17:02Z
+fetched: 2026-07-26 07:17:02+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-12-06T18:01:19-08:00
+post_date: 2021-12-06 18:01:19-08:00
 ---
 
 Home

@@ -6,7 +6,7 @@ source_url: https://www.taiwanjustice.net/category/taiwan-news/voting-fraud/?fil
 archive_url: https://web.archive.org/web/20210130001146/https://www.taiwanjustice.net/category/taiwan-news/voting-fraud/?filter_by=popular7
 archive_ts: 20210130001146
 archive_digest: QIFD7MNCYDY4ZBMVD6EXNCIPYQM23FTK
-fetched: 2026-07-26T05:32:39Z
+fetched: 2026-07-26 05:32:39+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant

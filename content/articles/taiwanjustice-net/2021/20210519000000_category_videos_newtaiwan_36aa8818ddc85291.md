@@ -6,7 +6,7 @@ source_url: https://www.taiwanjustice.net/category/videos/newtaiwan/?filter_by=r
 archive_url: https://web.archive.org/web/20210519000000/https://www.taiwanjustice.net/category/videos/newtaiwan/?filter_by=review_high
 archive_ts: 20210519000000
 archive_digest: 3U67EE5MFNTN335PZVY4S6LCNWK75OFA
-fetched: 2026-07-28T04:09:17Z
+fetched: 2026-07-28 04:09:17+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant

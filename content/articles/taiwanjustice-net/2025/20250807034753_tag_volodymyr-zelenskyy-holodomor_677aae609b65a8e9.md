@@ -1,5 +1,5 @@
 ---
-title: Tag: Volodymyr Zelenskyy Holodomor
+title: 'Tag: Volodymyr Zelenskyy Holodomor'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/volodymyr-zelenskyy-holodomor/
 archive_url: https://web.archive.org/web/20250807034753/https://taiwanjustice.net/tag/volodymyr-zelenskyy-holodomor/
 archive_ts: 20250807034753
 archive_digest: 34RBIDJS57ZODDKMRUUPZTCJ2ATHCSOL
-fetched: 2026-07-26T12:30:49Z
+fetched: 2026-07-26 12:30:49+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-11-26T16:22:30-08:00
+post_date: 2022-11-26 16:22:30-08:00
 ---
 
 Home

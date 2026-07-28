@@ -1,5 +1,5 @@
 ---
-title: Tag: hunter class frigate australia
+title: 'Tag: hunter class frigate australia'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/hunter-class-frigate-australia/
 archive_url: https://web.archive.org/web/20251008100531/https://taiwanjustice.net/tag/hunter-class-frigate-australia/
 archive_ts: 20251008100531
 archive_digest: VOKSCXOXJA3EM6LETVEQ74JL3ZFEYQHW
-fetched: 2026-07-26T14:08:03Z
+fetched: 2026-07-26 14:08:03+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-07-30T22:09:10-07:00
+post_date: 2021-07-30 22:09:10-07:00
 ---
 
 Home

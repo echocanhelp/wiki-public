@@ -1,5 +1,5 @@
 ---
-title: Tag: Benjamin Britten/Peter Pears
+title: 'Tag: Benjamin Britten/Peter Pears'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/benjamin-britten-peter-pears/
 archive_url: https://web.archive.org/web/20210128001234/https://www.taiwanjustice.net/tag/benjamin-britten-peter-pears/
 archive_ts: 20210128001234
 archive_digest: CAQB76IQQPSOT2TSGCHKHPZSIV3QW46V
-fetched: 2026-07-26T06:33:38Z
+fetched: 2026-07-26 06:33:38+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2020-11-14T01:17:57-08:00
+post_date: 2020-11-14 01:17:57-08:00
 ---
 
 Home

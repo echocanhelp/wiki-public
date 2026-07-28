@@ -1,5 +1,5 @@
 ---
-title: Tag: 「利劍演習」（Exercise Keen Sword）
+title: 'Tag: 「利劍演習」（Exercise Keen Sword）'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/%E3%80%8C%E5%88%A9%E5%8A%8D%E6%BC%94%E
 archive_url: https://web.archive.org/web/20250811013306/https://taiwanjustice.net/tag/%E3%80%8C%E5%88%A9%E5%8A%8D%E6%BC%94%E7%BF%92%E3%80%8D%EF%BC%88exercise-keen-sword%EF%BC%89/
 archive_ts: 20250811013306
 archive_digest: 6WBAFQKP3YGLVUOT5JTWUZIEBE2AMQNE
-fetched: 2026-07-26T13:09:33Z
+fetched: 2026-07-26 13:09:33+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-11-19T20:51:10-08:00
+post_date: 2022-11-19 20:51:10-08:00
 ---
 
 Home

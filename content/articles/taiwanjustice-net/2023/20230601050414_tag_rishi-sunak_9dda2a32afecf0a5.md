@@ -1,5 +1,5 @@
 ---
-title: Tag: Rishi Sunak
+title: 'Tag: Rishi Sunak'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/rishi-sunak/
 archive_url: https://web.archive.org/web/20230601050414/https://www.taiwanjustice.net/tag/rishi-sunak/
 archive_ts: 20230601050414
 archive_digest: EKJOARVLRCDKHKEXJNXR76R2CFHAYXOH
-fetched: 2026-07-26T08:57:27Z
+fetched: 2026-07-26 08:57:27+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2023-01-07T18:57:12-08:00
+post_date: 2023-01-07 18:57:12-08:00
 ---
 
 Home

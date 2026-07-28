@@ -1,5 +1,5 @@
 ---
-title: Tag: Australian Hypersonics Research Precinct
+title: 'Tag: Australian Hypersonics Research Precinct'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/australian-hypersonics-research-pr
 archive_url: https://web.archive.org/web/20220630080718/https://www.taiwanjustice.net/tag/australian-hypersonics-research-precinct/
 archive_ts: 20220630080718
 archive_digest: Y7ZI54A44VX6GZLRGETZEZRSUR6LVSPR
-fetched: 2026-07-28T04:14:13Z
+fetched: 2026-07-28 04:14:13+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-01-25T12:59:12-08:00
+post_date: 2022-01-25 12:59:12-08:00
 ---
 
 Home

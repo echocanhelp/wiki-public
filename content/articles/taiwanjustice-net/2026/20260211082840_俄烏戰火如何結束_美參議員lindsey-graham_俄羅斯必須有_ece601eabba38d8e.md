@@ -6,17 +6,17 @@ source_url: https://taiwanjustice.net/%E4%BF%84%E7%83%8F%E6%88%B0%E7%81%AB%E5%A6
 archive_url: https://web.archive.org/web/20260211082840/https://taiwanjustice.net/%E4%BF%84%E7%83%8F%E6%88%B0%E7%81%AB%E5%A6%82%E4%BD%95%E7%B5%90%E6%9D%9F%EF%BC%8C%E7%BE%8E%E5%8F%83%E8%AD%B0%E5%93%A1lindsey-graham%EF%BC%9A%E4%BF%84%E7%BE%85%E6%96%AF%E5%BF%85%E9%A0%88%E6%9C%89/
 archive_ts: 20260211082840
 archive_digest: KG63FBOYSJZ7TR7MSUWXGW5GTJNGVOKC
-fetched: 2026-07-26T04:45:35Z
+fetched: 2026-07-26 04:45:35+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: article_candidate
-post_date: 2022-03-04T16:04:23-08:00
+post_date: 2022-03-04 16:04:23-08:00
 categories:
-  - usa
-  - internatinal
-  - world-history
-  - usa_news
+- usa
+- internatinal
+- world-history
+- usa_news
 ---
 
 敬請支持‧歡迎訂閱本報newsletter

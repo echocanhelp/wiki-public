@@ -6,14 +6,14 @@ source_url: https://taiwanjustice.net/%E8%82%A1%E5%B8%82%E4%BA%AE%E9%BB%9E-%EF%B
 archive_url: https://web.archive.org/web/20250515085723/https://taiwanjustice.net/%E8%82%A1%E5%B8%82%E4%BA%AE%E9%BB%9E-%EF%BC%88122%EF%BC%89-bj-bjs-wholesale-clubs/
 archive_ts: 20250515085723
 archive_digest: 4LDWBTKVP5LEV7WXUZA4K5PUW2WE4ROX
-fetched: 2026-07-25T07:21:24Z
+fetched: 2026-07-25 07:21:24+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: article_candidate
-post_date: 2020-06-29T21:50:26-07:00
+post_date: 2020-06-29 21:50:26-07:00
 categories:
-  - stock
+- stock
 ---
 
 敬請支持‧歡迎訂閱本報newsletter

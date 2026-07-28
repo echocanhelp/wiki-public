@@ -1,5 +1,5 @@
 ---
-title: Tag: Kit Armstrong
+title: 'Tag: Kit Armstrong'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/kit-armstrong/
 archive_url: https://web.archive.org/web/20250614232937/https://taiwanjustice.net/tag/kit-armstrong/
 archive_ts: 20250614232937
 archive_digest: QAR3K6K6GXTV4IS4IQMTEDGBIZEPN2AM
-fetched: 2026-07-26T10:54:14Z
+fetched: 2026-07-26 10:54:14+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2023-11-11T01:01:00-08:00
+post_date: 2023-11-11 01:01:00-08:00
 ---
 
 Home

@@ -6,18 +6,18 @@ source_url: https://taiwanjustice.net/%E7%BE%8E%E8%BB%8D%E5%87%BA%E5%8B%95%E7%84
 archive_url: https://web.archive.org/web/20251007210145/https://taiwanjustice.net/%E7%BE%8E%E8%BB%8D%E5%87%BA%E5%8B%95%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%94%BB%E6%93%8A-%E6%8B%9C%E7%99%BB%E5%AE%A3%E5%B8%83%E8%93%8B%E9%81%94%E9%A6%96%E8%85%A6ayman-al-zawahiri%E6%96%83%E5%91%BD/
 archive_ts: 20251007210145
 archive_digest: N7QLJTDACEXMHZ2RVE4HX2U5NLM4Y4ES
-fetched: 2026-07-25T19:36:00Z
+fetched: 2026-07-25 19:36:00+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: article_candidate
-post_date: 2022-08-01T18:53:41-07:00
+post_date: 2022-08-01 18:53:41-07:00
 categories:
-  - usa
-  - internatinal
-  - world-history
-  - usa_news
-  - biden_era
+- usa
+- internatinal
+- world-history
+- usa_news
+- biden_era
 ---
 
 （中央社華盛頓1日綜合外電報導）美國反恐行動又出現重大斬獲，總統拜登今天宣布，美國已擊斃全球頭號通緝犯、蓋達組織（Al-Qaeda）首腦薩瓦里（Ayman al-Zawahiri）。

@@ -1,5 +1,5 @@
 ---
-title: Tag: 單株抗體療法（monoclonal antibody therapies）
+title: 'Tag: 單株抗體療法（monoclonal antibody therapies）'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/%E5%96%AE%E6%A0%AA%E6%8A%97%E9%AB%
 archive_url: https://web.archive.org/web/20210118225426/https://www.taiwanjustice.net/tag/%E5%96%AE%E6%A0%AA%E6%8A%97%E9%AB%94%E7%99%82%E6%B3%95%EF%BC%88monoclonal-antibody-therapies%EF%BC%89/
 archive_ts: 20210118225426
 archive_digest: HR3PMDLW7N6ESTOFL5ZOANPI4MWZJAMY
-fetched: 2026-07-26T06:31:58Z
+fetched: 2026-07-26 06:31:58+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2020-11-21T22:54:48-08:00
+post_date: 2020-11-21 22:54:48-08:00
 ---
 
 Home

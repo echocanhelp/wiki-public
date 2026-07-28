@@ -6,16 +6,16 @@ source_url: https://taiwanjustice.net/%E5%98%B2%E8%AB%B7%E7%89%B9%E6%96%AF%E6%8B
 archive_url: https://web.archive.org/web/20260210180336/https://taiwanjustice.net/%E5%98%B2%E8%AB%B7%E7%89%B9%E6%96%AF%E6%8B%89%E7%9C%8B%E8%A1%B0%E8%80%85%EF%BC%8Celon-musk%E6%8E%A8%E3%80%8C%E6%94%BE%E7%A9%BA%E7%9F%AD%E8%A4%B2%E3%80%8D%EF%BC%88short-shorts%EF%BC%89/
 archive_ts: 20260210180336
 archive_digest: V4CK3EH7Y34MHTUTQOBTA3CVOLT3VY3S
-fetched: 2026-07-26T04:37:47Z
+fetched: 2026-07-26 04:37:47+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: article_candidate
-post_date: 2020-07-06T15:23:20-07:00
+post_date: 2020-07-06 15:23:20-07:00
 categories:
-  - usa_news
-  - vanity
-  - stock
+- usa_news
+- vanity
+- stock
 ---
 
 2020/07/06 自由時報

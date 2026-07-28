@@ -1,5 +1,5 @@
 ---
-title: Tag: 瑞士國會下議院壓倒性通過改善與台灣關係議案
+title: 'Tag: 瑞士國會下議院壓倒性通過改善與台灣關係議案'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/%E7%91%9E%E5%A3%AB%E5%9C%8B%E6%9C%
 archive_url: https://web.archive.org/web/20211025213208/https://www.taiwanjustice.net/tag/%E7%91%9E%E5%A3%AB%E5%9C%8B%E6%9C%83%E4%B8%8B%E8%AD%B0%E9%99%A2%E5%A3%93%E5%80%92%E6%80%A7%E9%80%9A%E9%81%8E%E6%94%B9%E5%96%84%E8%88%87%E5%8F%B0%E7%81%A3%E9%97%9C%E4%BF%82%E8%AD%B0%E6%A1%88/
 archive_ts: 20211025213208
 archive_digest: ZNVE73PYV6EPLF6FEHF45ANSCHXSN4HD
-fetched: 2026-07-26T07:07:30Z
+fetched: 2026-07-26 07:07:30+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-09-14T07:30:27-07:00
+post_date: 2021-09-14 07:30:27-07:00
 ---
 
 Home

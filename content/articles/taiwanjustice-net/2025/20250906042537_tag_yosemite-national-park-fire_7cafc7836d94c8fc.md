@@ -1,5 +1,5 @@
 ---
-title: Tag: Yosemite National Park fire
+title: 'Tag: Yosemite National Park fire'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/yosemite-national-park-fire/
 archive_url: https://web.archive.org/web/20250906042537/https://taiwanjustice.net/tag/yosemite-national-park-fire/
 archive_ts: 20250906042537
 archive_digest: JLHCB2XYILZSO2267CREIW4I3GTN3EWI
-fetched: 2026-07-26T13:29:33Z
+fetched: 2026-07-26 13:29:33+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-07-24T15:12:52-07:00
+post_date: 2022-07-24 15:12:52-07:00
 ---
 
 Home

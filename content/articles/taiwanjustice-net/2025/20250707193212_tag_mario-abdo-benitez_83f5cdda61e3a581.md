@@ -1,5 +1,5 @@
 ---
-title: Tag: Mario Abdo Benitez
+title: 'Tag: Mario Abdo Benitez'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/mario-abdo-benitez/
 archive_url: https://web.archive.org/web/20250707193212/https://taiwanjustice.net/tag/mario-abdo-benitez/
 archive_ts: 20250707193212
 archive_digest: 4JIGS5CH5W4OMWDL3SXQDZUGW355UAHM
-fetched: 2026-07-26T11:23:07Z
+fetched: 2026-07-26 11:23:07+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-03-16T19:47:42-07:00
+post_date: 2021-03-16 19:47:42-07:00
 ---
 
 Home

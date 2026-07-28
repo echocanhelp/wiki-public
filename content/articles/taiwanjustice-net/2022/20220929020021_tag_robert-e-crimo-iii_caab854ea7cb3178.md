@@ -1,5 +1,5 @@
 ---
-title: Tag: Robert E. Crimo III
+title: 'Tag: Robert E. Crimo III'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/robert-e-crimo-iii/
 archive_url: https://web.archive.org/web/20220929020021/https://www.taiwanjustice.net/tag/robert-e-crimo-iii/
 archive_ts: 20220929020021
 archive_digest: W4N5WLJZZBHYV7KZ37HJCGL5L4GCKI75
-fetched: 2026-07-26T08:11:34Z
+fetched: 2026-07-26 08:11:34+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-07-05T19:12:31-07:00
+post_date: 2022-07-05 19:12:31-07:00
 ---
 
 Home

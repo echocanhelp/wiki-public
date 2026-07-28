@@ -6,16 +6,16 @@ source_url: https://taiwanjustice.net/%E7%BE%8E%E7%9A%AE%E5%B0%A4%E7%A0%94%E7%A9
 archive_url: https://web.archive.org/web/20251012103110/https://taiwanjustice.net/%E7%BE%8E%E7%9A%AE%E5%B0%A4%E7%A0%94%E7%A9%B6%EF%BC%9A%E9%9D%92%E5%B0%91%E5%B9%B4%E6%8D%A8%E6%A3%84%E8%87%89%E6%9B%B8-%E6%94%B9%E7%94%A8youtube%E5%8F%8Atiktok/
 archive_ts: 20251012103110
 archive_digest: 5WCG536ENMKMPKIKXJVKB5W3OM4Y7FQW
-fetched: 2026-07-25T20:08:14Z
+fetched: 2026-07-25 20:08:14+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: article_candidate
-post_date: 2022-08-10T12:57:49-07:00
+post_date: 2022-08-10 12:57:49-07:00
 categories:
-  - usa
-  - usa_news
-  - tech-news
+- usa
+- usa_news
+- tech-news
 ---
 
 敬請支持‧歡迎訂閱本報newsletter

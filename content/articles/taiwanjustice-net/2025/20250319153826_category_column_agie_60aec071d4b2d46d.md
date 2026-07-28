@@ -6,7 +6,7 @@ source_url: https://taiwanjustice.net/category/column/agie/?filter_by=popular7
 archive_url: https://web.archive.org/web/20250319153826/https://taiwanjustice.net/category/column/agie/?filter_by=popular7
 archive_ts: 20250319153826
 archive_digest: TMARGTO3BSBC2I7IQEVIHMEPK7YTY76W
-fetched: 2026-07-26T06:01:55Z
+fetched: 2026-07-26 06:01:55+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant

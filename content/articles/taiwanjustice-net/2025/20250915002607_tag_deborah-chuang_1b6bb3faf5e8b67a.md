@@ -1,5 +1,5 @@
 ---
-title: Tag: Deborah Chuang
+title: 'Tag: Deborah Chuang'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,11 +7,10 @@ source_url: https://taiwanjustice.net/tag/deborah-chuang/
 archive_url: https://web.archive.org/web/20250915002607/https://taiwanjustice.net/tag/deborah-chuang/
 archive_ts: 20250915002607
 archive_digest: MXFJMVZGTWLZDZIK6KOAQ232AC454OVD
-fetched: 2026-07-26T13:43:49Z
+fetched: 2026-07-26 13:43:49+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
 ---
 
 Home

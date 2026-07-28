@@ -1,5 +1,5 @@
 ---
-title: Tag: 俄侵烏新指揮官Alexander Dvornikov
+title: 'Tag: 俄侵烏新指揮官Alexander Dvornikov'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/%E4%BF%84%E4%BE%B5%E7%83%8F%E6%96%
 archive_url: https://web.archive.org/web/20230205144100/https://www.taiwanjustice.net/tag/%E4%BF%84%E4%BE%B5%E7%83%8F%E6%96%B0%E6%8C%87%E6%8F%AE%E5%AE%98alexander-dvornikov/
 archive_ts: 20230205144100
 archive_digest: KBWP57ZWS2VP6KKASJBBMLFUITLMBAI4
-fetched: 2026-07-26T08:45:51Z
+fetched: 2026-07-26 08:45:51+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-04-10T13:26:43-07:00
+post_date: 2022-04-10 13:26:43-07:00
 ---
 
 Home

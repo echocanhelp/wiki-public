@@ -1,5 +1,5 @@
 ---
-title: Tag: T. A. Archives 台美史料中心
+title: 'Tag: T. A. Archives 台美史料中心'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/t-a-archives-%E5%8F%B0%E7%BE%8E%E5
 archive_url: https://web.archive.org/web/20220927145648/https://www.taiwanjustice.net/tag/t-a-archives-%E5%8F%B0%E7%BE%8E%E5%8F%B2%E6%96%99%E4%B8%AD%E5%BF%83/
 archive_ts: 20220927145648
 archive_digest: ZFMZ3FMGOODSOBPRYZUD5YHYJFZZN76N
-fetched: 2026-07-26T08:05:04Z
+fetched: 2026-07-26 08:05:04+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-09-01T21:56:11-07:00
+post_date: 2022-09-01 21:56:11-07:00
 ---
 
 Home

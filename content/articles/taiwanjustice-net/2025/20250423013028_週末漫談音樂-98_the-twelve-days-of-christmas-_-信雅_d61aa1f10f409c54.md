@@ -6,14 +6,14 @@ source_url: https://taiwanjustice.net/%E3%80%90%E9%80%B1%E6%9C%AB%E6%BC%AB%E8%AB
 archive_url: https://web.archive.org/web/20250423013028/https://taiwanjustice.net/%E3%80%90%E9%80%B1%E6%9C%AB%E6%BC%AB%E8%AB%87%E9%9F%B3%E6%A8%82-98%E3%80%91the-twelve-days-of-christmas-%E2%97%8E-%E4%BF%A1%E9%9B%85/
 archive_ts: 20250423013028
 archive_digest: 5DWYVFBOKB2XD3HBCWWW7ANLKRA4MXNS
-fetched: 2026-07-25T03:13:11Z
+fetched: 2026-07-25 03:13:11+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: article_candidate
-post_date: 2021-12-25T01:22:00-08:00
+post_date: 2021-12-25 01:22:00-08:00
 categories:
-  - classicmusic
+- classicmusic
 ---
 
 2021.12.25

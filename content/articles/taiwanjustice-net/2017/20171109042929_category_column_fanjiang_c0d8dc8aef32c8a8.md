@@ -6,14 +6,14 @@ source_url: http://www.taiwanjustice.net:80/category/column/fanjiang/
 archive_url: https://web.archive.org/web/20171109042929/http://www.taiwanjustice.net:80/category/column/fanjiang/
 archive_ts: 20171109042929
 archive_digest: AGJQ5NKV63WEI3R7CFREFAY4KXRN5XVZ
-fetched: 2026-07-26T05:14:09Z
+fetched: 2026-07-26 05:14:09+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
 categories:
-  - fanjiang
-  - column
+- fanjiang
+- column
 ---
 
 Home

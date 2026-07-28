@@ -1,5 +1,5 @@
 ---
-title: Tag: Gratitude turns what we have into enough
+title: 'Tag: Gratitude turns what we have into enough'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/gratitude-turns-what-we-have-into-
 archive_url: https://web.archive.org/web/20230204032452/https://www.taiwanjustice.net/tag/gratitude-turns-what-we-have-into-enough/
 archive_ts: 20230204032452
 archive_digest: PNN3AMOQS4BE7JBZEFSTJKVBAS6YFRKS
-fetched: 2026-07-26T08:42:59Z
+fetched: 2026-07-26 08:42:59+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-11-23T13:32:32-08:00
+post_date: 2022-11-23 13:32:32-08:00
 ---
 
 Home

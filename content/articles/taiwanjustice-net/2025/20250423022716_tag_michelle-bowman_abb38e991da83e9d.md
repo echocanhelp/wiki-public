@@ -1,5 +1,5 @@
 ---
-title: Tag: Michelle Bowman
+title: 'Tag: Michelle Bowman'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/michelle-bowman/
 archive_url: https://web.archive.org/web/20250423022716/https://taiwanjustice.net/tag/michelle-bowman/
 archive_ts: 20250423022716
 archive_digest: SNILP72DPLO2SLOQHWDTVAMAGXTDERNE
-fetched: 2026-07-26T10:08:39Z
+fetched: 2026-07-26 10:08:39+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2025-03-12T21:01:33-07:00
+post_date: 2025-03-12 21:01:33-07:00
 ---
 
 Home

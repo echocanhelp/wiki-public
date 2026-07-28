@@ -1,5 +1,5 @@
 ---
-title: Tag: 「台灣國際團結法案」（Taiwan International Solidarity Act）
+title: 'Tag: 「台灣國際團結法案」（Taiwan International Solidarity Act）'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/%E3%80%8C%E5%8F%B0%E7%81%A3%E5%9C%8B%E
 archive_url: https://web.archive.org/web/20250917085006/https://taiwanjustice.net/tag/%E3%80%8C%E5%8F%B0%E7%81%A3%E5%9C%8B%E9%9A%9B%E5%9C%98%E7%B5%90%E6%B3%95%E6%A1%88%E3%80%8D%EF%BC%88taiwan-international-solidarity-act%EF%BC%89/
 archive_ts: 20250917085006
 archive_digest: T6XWR2ZD5PNXKC65VHSFG6ZYSBWRSVRY
-fetched: 2026-07-26T14:02:54Z
+fetched: 2026-07-26 14:02:54+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2025-07-09T21:51:37-07:00
+post_date: 2025-07-09 21:51:37-07:00
 ---
 
 Home

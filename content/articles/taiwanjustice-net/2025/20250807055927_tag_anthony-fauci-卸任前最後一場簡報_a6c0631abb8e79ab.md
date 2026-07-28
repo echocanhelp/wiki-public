@@ -1,5 +1,5 @@
 ---
-title: Tag: Anthony Fauci 卸任前最後一場簡報
+title: 'Tag: Anthony Fauci 卸任前最後一場簡報'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/anthony-fauci-%E5%8D%B8%E4%BB%BB%E5%89
 archive_url: https://web.archive.org/web/20250807055927/https://taiwanjustice.net/tag/anthony-fauci-%E5%8D%B8%E4%BB%BB%E5%89%8D%E6%9C%80%E5%BE%8C%E4%B8%80%E5%A0%B4%E7%B0%A1%E5%A0%B1/
 archive_ts: 20250807055927
 archive_digest: MH4W7MF2RK3ALU7IGGZFWYGNUM6YBRNC
-fetched: 2026-07-26T12:34:07Z
+fetched: 2026-07-26 12:34:07+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-11-22T18:49:02-08:00
+post_date: 2022-11-22 18:49:02-08:00
 ---
 
 Home

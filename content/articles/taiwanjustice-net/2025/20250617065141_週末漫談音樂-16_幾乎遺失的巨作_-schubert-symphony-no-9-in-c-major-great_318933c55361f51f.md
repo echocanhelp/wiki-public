@@ -6,14 +6,14 @@ source_url: https://taiwanjustice.net/%E3%80%90%E9%80%B1%E6%9C%AB%E6%BC%AB%E8%AB
 archive_url: https://web.archive.org/web/20250617065141/https://taiwanjustice.net/%E3%80%90%E9%80%B1%E6%9C%AB%E6%BC%AB%E8%AB%87%E9%9F%B3%E6%A8%82-16%E3%80%91%E5%B9%BE%E4%B9%8E%E9%81%BA%E5%A4%B1%E7%9A%84%E5%B7%A8%E4%BD%9C%EF%BC%9A-schubert-symphony-no-9-in-c-major-great/
 archive_ts: 20250617065141
 archive_digest: DI3WGRKZIT5T76CXZZZV6GDN677ASBJY
-fetched: 2026-07-25T09:35:25Z
+fetched: 2026-07-25 09:35:25+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: article_candidate
-post_date: 2020-05-16T02:14:00-07:00
+post_date: 2020-05-16 02:14:00-07:00
 categories:
-  - classicmusic
+- classicmusic
 ---
 
 2020.05.16

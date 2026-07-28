@@ -6,12 +6,12 @@ source_url: https://www.taiwanjustice.net/category/videos/%e4%b8%ad%e5%a4%a9%e8%
 archive_url: https://web.archive.org/web/20200625220821/https://www.taiwanjustice.net/category/videos/%e4%b8%ad%e5%a4%a9%e8%aa%bf%e6%9f%a5%e5%a0%b1%e5%91%8a/page/2/
 archive_ts: 20200625220821
 archive_digest: PAO47C4Y6M2GKFV2H5GVDWDDMWXR7725
-fetched: 2026-07-26T05:24:06Z
+fetched: 2026-07-26 05:24:06+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2019-06-16T21:10:50-07:00
+post_date: 2019-06-16 21:10:50-07:00
 ---
 
 Home

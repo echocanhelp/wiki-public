@@ -1,5 +1,5 @@
 ---
-title: "Tag: Putin's Palace"
+title: 'Tag: Putin''s Palace'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/putins-palace/
 archive_url: https://web.archive.org/web/20220630071123/https://www.taiwanjustice.net/tag/putins-palace/
 archive_ts: 20220630071123
 archive_digest: NCWOKS6UXCF5W5QO23CEJPKYKTAFXESO
-fetched: 2026-07-26T07:48:25Z
+fetched: 2026-07-26 07:48:25+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-05-13T13:39:27-07:00
+post_date: 2022-05-13 13:39:27-07:00
 ---
 
 Home

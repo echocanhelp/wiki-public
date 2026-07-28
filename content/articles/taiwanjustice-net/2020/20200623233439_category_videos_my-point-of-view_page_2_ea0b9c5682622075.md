@@ -6,12 +6,12 @@ source_url: https://www.taiwanjustice.net/category/videos/my-point-of-view/page/
 archive_url: https://web.archive.org/web/20200623233439/https://www.taiwanjustice.net/category/videos/my-point-of-view/page/2/
 archive_ts: 20200623233439
 archive_digest: 3LBOIYP7L75T6PEQEQES36XACDNLHI5P
-fetched: 2026-07-26T05:21:30Z
+fetched: 2026-07-26 05:21:30+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2019-08-09T20:04:14-07:00
+post_date: 2019-08-09 20:04:14-07:00
 ---
 
 Home

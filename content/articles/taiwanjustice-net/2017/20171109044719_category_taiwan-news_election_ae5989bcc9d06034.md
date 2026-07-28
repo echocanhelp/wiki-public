@@ -6,15 +6,15 @@ source_url: http://www.taiwanjustice.net:80/category/taiwan-news/election/
 archive_url: https://web.archive.org/web/20171109044719/http://www.taiwanjustice.net:80/category/taiwan-news/election/
 archive_ts: 20171109044719
 archive_digest: XW4KXKBY3JCNI5ATKYIJRSRDQJY6UVEO
-fetched: 2026-07-26T05:15:43Z
+fetched: 2026-07-26 05:15:43+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
 categories:
-  - election
-  - sopt-light-article
-  - column
+- election
+- sopt-light-article
+- column
 ---
 
 Home

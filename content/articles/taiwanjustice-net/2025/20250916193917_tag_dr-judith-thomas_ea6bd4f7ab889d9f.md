@@ -1,5 +1,5 @@
 ---
-title: Tag: Dr. Judith Thomas
+title: 'Tag: Dr. Judith Thomas'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,11 +7,10 @@ source_url: https://taiwanjustice.net/tag/dr-judith-thomas/
 archive_url: https://web.archive.org/web/20250916193917/https://taiwanjustice.net/tag/dr-judith-thomas/
 archive_ts: 20250916193917
 archive_digest: GWF35ZOJR6MHNMX2G7DVBJQCXHMBBB52
-fetched: 2026-07-26T13:58:43Z
+fetched: 2026-07-26 13:58:43+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
 ---
 
 Home

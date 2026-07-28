@@ -1,5 +1,5 @@
 ---
-title: Tag: Krauss-Maffei Wegmann 自走砲
+title: 'Tag: Krauss-Maffei Wegmann 自走砲'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/krauss-maffei-wegmann-%E8%87%AA%E8
 archive_url: https://web.archive.org/web/20220813062355/https://www.taiwanjustice.net/tag/krauss-maffei-wegmann-%E8%87%AA%E8%B5%B0%E7%A0%B2/
 archive_ts: 20220813062355
 archive_digest: GV7K6SY36GF6FKCIDYDTFQUHXF3RJYUM
-fetched: 2026-07-26T08:01:06Z
+fetched: 2026-07-26 08:01:06+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-04-10T13:53:48-07:00
+post_date: 2022-04-10 13:53:48-07:00
 ---
 
 Home

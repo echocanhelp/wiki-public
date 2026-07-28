@@ -1,5 +1,5 @@
 ---
-title: Tag: 信雅
+title: 'Tag: 信雅'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/%E4%BF%A1%E9%9B%85/page/7/
 archive_url: https://web.archive.org/web/20211205043608/https://www.taiwanjustice.net/tag/%E4%BF%A1%E9%9B%85/page/7/
 archive_ts: 20211205043608
 archive_digest: Q5WDCBDLGKHQ54MGCKB7CQT3OY36ZNRZ
-fetched: 2026-07-26T07:08:54Z
+fetched: 2026-07-26 07:08:54+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2020-06-06T01:09:11-07:00
+post_date: 2020-06-06 01:09:11-07:00
 ---
 
 Home

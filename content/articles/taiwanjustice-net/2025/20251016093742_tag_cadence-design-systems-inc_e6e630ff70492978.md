@@ -1,5 +1,5 @@
 ---
-title: Tag: Cadence Design Systems Inc.
+title: 'Tag: Cadence Design Systems Inc.'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/cadence-design-systems-inc/
 archive_url: https://web.archive.org/web/20251016093742/https://taiwanjustice.net/tag/cadence-design-systems-inc/
 archive_ts: 20251016093742
 archive_digest: 5KDBD4GNHW7KWIYFYEDNYRAWTM2SSEA2
-fetched: 2026-07-26T14:30:10Z
+fetched: 2026-07-26 14:30:10+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2020-01-26T22:41:42-08:00
+post_date: 2020-01-26 22:41:42-08:00
 ---
 
 Home

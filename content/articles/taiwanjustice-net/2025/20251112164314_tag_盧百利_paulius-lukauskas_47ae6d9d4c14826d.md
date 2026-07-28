@@ -1,5 +1,5 @@
 ---
-title: Tag: 盧百利（Paulius Lukauskas）
+title: 'Tag: 盧百利（Paulius Lukauskas）'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/%E7%9B%A7%E7%99%BE%E5%88%A9%EF%BC%88pa
 archive_url: https://web.archive.org/web/20251112164314/https://taiwanjustice.net/tag/%E7%9B%A7%E7%99%BE%E5%88%A9%EF%BC%88paulius-lukauskas%EF%BC%89/
 archive_ts: 20251112164314
 archive_digest: OIP7BOPMG65FVLG23DS5N6B4QDDLGNNV
-fetched: 2026-07-26T14:48:21Z
+fetched: 2026-07-26 14:48:21+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-08-18T16:22:52-07:00
+post_date: 2022-08-18 16:22:52-07:00
 ---
 
 Home

@@ -6,12 +6,12 @@ source_url: https://taiwanjustice.net/category/videos/cliffyang/page/3/?filter_b
 archive_url: https://web.archive.org/web/20250426152321/https://taiwanjustice.net/category/videos/cliffyang/page/3/?filter_by=popular
 archive_ts: 20250426152321
 archive_digest: NFGHWNNH52BDUNWOU54QFVHC5KWNQSNN
-fetched: 2026-07-26T06:11:28Z
+fetched: 2026-07-26 06:11:28+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2020-09-30T19:22:03-07:00
+post_date: 2020-09-30 19:22:03-07:00
 ---
 
 Home

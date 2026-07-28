@@ -1,5 +1,5 @@
 ---
-title: Tag: 台美人導演黃詠婷(Tiffany Frances)
+title: 'Tag: 台美人導演黃詠婷(Tiffany Frances)'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/%E5%8F%B0%E7%BE%8E%E4%BA%BA%E5%B0%8E%E
 archive_url: https://web.archive.org/web/20250513225228/https://taiwanjustice.net/tag/%E5%8F%B0%E7%BE%8E%E4%BA%BA%E5%B0%8E%E6%BC%94%E9%BB%83%E8%A9%A0%E5%A9%B7tiffany-frances/
 archive_ts: 20250513225228
 archive_digest: HWS5N35VU46Q7AJNZCNRLEFFBYJ3MMLC
-fetched: 2026-07-26T10:20:31Z
+fetched: 2026-07-26 10:20:31+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-03-15T18:25:28-07:00
+post_date: 2021-03-15 18:25:28-07:00
 ---
 
 Home

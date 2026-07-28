@@ -1,5 +1,5 @@
 ---
-title: Tag: Osman Kavala
+title: 'Tag: Osman Kavala'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/osman-kavala/
 archive_url: https://web.archive.org/web/20221002103032/https://www.taiwanjustice.net/tag/osman-kavala/
 archive_ts: 20221002103032
 archive_digest: H76R2TPRMI234AI3BULBQN4YDDM2ZIOS
-fetched: 2026-07-26T08:13:57Z
+fetched: 2026-07-26 08:13:57+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-04-29T17:53:21-07:00
+post_date: 2022-04-29 17:53:21-07:00
 ---
 
 Home

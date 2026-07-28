@@ -1,5 +1,5 @@
 ---
-title: Tag: Exercise Talisman Sabre 2021
+title: 'Tag: Exercise Talisman Sabre 2021'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/exercise-talisman-sabre-2021/
 archive_url: https://web.archive.org/web/20250810102147/https://taiwanjustice.net/tag/exercise-talisman-sabre-2021/
 archive_ts: 20250810102147
 archive_digest: YMLZ47EPTA26VXXBKG3NZMS577YEQCZ5
-fetched: 2026-07-26T13:04:04Z
+fetched: 2026-07-26 13:04:04+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-07-14T11:34:42-07:00
+post_date: 2021-07-14 11:34:42-07:00
 ---
 
 Home

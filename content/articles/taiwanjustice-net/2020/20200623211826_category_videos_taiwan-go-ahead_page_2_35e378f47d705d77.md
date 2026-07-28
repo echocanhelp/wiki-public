@@ -6,12 +6,12 @@ source_url: https://www.taiwanjustice.net/category/videos/taiwan-go-ahead/page/2
 archive_url: https://web.archive.org/web/20200623211826/https://www.taiwanjustice.net/category/videos/taiwan-go-ahead/page/2/
 archive_ts: 20200623211826
 archive_digest: MWPYKP2MAGI3RJ2MDEFFLPMFJK4N6CSB
-fetched: 2026-07-26T05:21:26Z
+fetched: 2026-07-26 05:21:26+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2020-06-23T05:54:18-07:00
+post_date: 2020-06-23 05:54:18-07:00
 ---
 
 Home

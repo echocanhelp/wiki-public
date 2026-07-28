@@ -1,5 +1,5 @@
 ---
-title: Tag: Emma Coronel Aispuro
+title: 'Tag: Emma Coronel Aispuro'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/emma-coronel-aispuro/
 archive_url: https://web.archive.org/web/20210419130721/https://www.taiwanjustice.net/tag/emma-coronel-aispuro/
 archive_ts: 20210419130721
 archive_digest: PKKNTPAFI25E2ICFNZE4YLMUJRZTAZ3N
-fetched: 2026-07-28T04:12:07Z
+fetched: 2026-07-28 04:12:07+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-02-22T18:34:53-08:00
+post_date: 2021-02-22 18:34:53-08:00
 ---
 
 Home

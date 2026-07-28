@@ -1,5 +1,5 @@
 ---
-title: Tag: 2012 Election Controversy
+title: 'Tag: 2012 Election Controversy'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,11 +7,10 @@ source_url: https://taiwanjustice.net/tag/2012-election-controversy/
 archive_url: https://web.archive.org/web/20250916190611/https://taiwanjustice.net/tag/2012-election-controversy/
 archive_ts: 20250916190611
 archive_digest: TWW7GFBAGG527BXEFFRTIF3JLXALQAO6
-fetched: 2026-07-26T13:57:14Z
+fetched: 2026-07-26 13:57:14+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
 ---
 
 Home

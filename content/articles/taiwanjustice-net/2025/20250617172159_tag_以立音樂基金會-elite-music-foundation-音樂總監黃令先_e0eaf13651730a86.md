@@ -1,5 +1,5 @@
 ---
-title: Tag: 以立音樂基金會 Elite Music Foundation 音樂總監黃令先
+title: 'Tag: 以立音樂基金會 Elite Music Foundation 音樂總監黃令先'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/%E4%BB%A5%E7%AB%8B%E9%9F%B3%E6%A8%82%E
 archive_url: https://web.archive.org/web/20250617172159/https://taiwanjustice.net/tag/%E4%BB%A5%E7%AB%8B%E9%9F%B3%E6%A8%82%E5%9F%BA%E9%87%91%E6%9C%83-elite-music-foundation-%E9%9F%B3%E6%A8%82%E7%B8%BD%E7%9B%A3%E9%BB%83%E4%BB%A4%E5%85%88/
 archive_ts: 20250617172159
 archive_digest: E7FMR6JR6L2X6MOEN5BZDH3GM2I2A2BP
-fetched: 2026-07-26T11:00:27Z
+fetched: 2026-07-26 11:00:27+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2020-08-13T16:24:04-07:00
+post_date: 2020-08-13 16:24:04-07:00
 ---
 
 Home

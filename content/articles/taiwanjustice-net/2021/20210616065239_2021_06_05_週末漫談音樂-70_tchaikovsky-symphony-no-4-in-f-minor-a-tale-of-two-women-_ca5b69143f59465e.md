@@ -1,19 +1,20 @@
 ---
-title: 【週末漫談音樂 (70)】Tchaikovsky Symphony No. 4 in F minor – A Tale of Two Women ◎ 信雅
+title: 【週末漫談音樂 (70)】Tchaikovsky Symphony No. 4 in F minor – A Tale of Two Women ◎
+  信雅
 type: article
 domain: taiwanjustice.net
 source_url: https://www.taiwanjustice.net/2021/06/05/%E3%80%90%E9%80%B1%E6%9C%AB%E6%BC%AB%E8%AB%87%E9%9F%B3%E6%A8%82-70%E3%80%91tchaikovsky-symphony-no-4-in-f-minor-a-tale-of-two-women-%E2%97%8E-%E4%BF%A1%E9%9B%85/
 archive_url: https://web.archive.org/web/20210616065239/https://www.taiwanjustice.net/2021/06/05/%E3%80%90%E9%80%B1%E6%9C%AB%E6%BC%AB%E8%AB%87%E9%9F%B3%E6%A8%82-70%E3%80%91tchaikovsky-symphony-no-4-in-f-minor-a-tale-of-two-women-%E2%97%8E-%E4%BF%A1%E9%9B%85/
 archive_ts: 20210616065239
 archive_digest: S7EWBYQOMXFSJJVU2776WAKQVFWIW44H
-fetched: 2026-07-27T00:51:40Z
+fetched: 2026-07-27 00:51:40+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: other
-post_date: 2021-06-05T01:39:00-07:00
+post_date: 2021-06-05 01:39:00-07:00
 categories:
-  - classicmusic
+- classicmusic
 ---
 
 2021.06.05

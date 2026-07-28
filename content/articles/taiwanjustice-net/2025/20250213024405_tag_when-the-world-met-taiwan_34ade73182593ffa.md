@@ -1,5 +1,5 @@
 ---
-title: Tag: When The World Met Taiwan
+title: 'Tag: When The World Met Taiwan'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,11 +7,10 @@ source_url: https://taiwanjustice.net/tag/when-the-world-met-taiwan/
 archive_url: https://web.archive.org/web/20250213024405/https://taiwanjustice.net/tag/when-the-world-met-taiwan/
 archive_ts: 20250213024405
 archive_digest: 3VZVVSTQGFGPBAAVSSPA265V24HYLJRE
-fetched: 2026-07-26T09:22:14Z
+fetched: 2026-07-26 09:22:14+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
 ---
 
 Home

@@ -6,16 +6,16 @@ source_url: https://taiwanjustice.net/%E7%BE%8E%E7%9C%BE%E9%99%A2%E5%85%B1%E5%92
 archive_url: https://web.archive.org/web/20251110230507/https://taiwanjustice.net/%E7%BE%8E%E7%9C%BE%E9%99%A2%E5%85%B1%E5%92%8C%E9%BB%A8%E5%9C%98%E6%96%B0%E4%B8%BB%E5%B8%AD%E8%AA%95%E7%94%9F%EF%BC%8C36%E6%AD%B2%E6%8C%BA%E5%B7%9D%E5%A5%B3%E8%AD%B0%E5%93%A1elise-stefanik%E7%95%B6/
 archive_ts: 20251110230507
 archive_digest: WO4522GIW5ANFTEGPCOUDNA6T2VANXFF
-fetched: 2026-07-25T22:55:27Z
+fetched: 2026-07-25 22:55:27+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: article_candidate
-post_date: 2021-05-14T10:02:18-07:00
+post_date: 2021-05-14 10:02:18-07:00
 categories:
-  - usa
-  - internatinal
-  - usa_news
+- usa
+- internatinal
+- usa_news
 ---
 
 敬請支持‧歡迎訂閱本報newsletter

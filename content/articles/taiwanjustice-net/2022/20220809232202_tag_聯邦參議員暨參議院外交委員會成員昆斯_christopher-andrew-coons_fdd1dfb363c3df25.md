@@ -1,5 +1,5 @@
 ---
-title: Tag: 聯邦參議員暨參議院外交委員會成員昆斯（Christopher Andrew Coons）
+title: 'Tag: 聯邦參議員暨參議院外交委員會成員昆斯（Christopher Andrew Coons）'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/%E8%81%AF%E9%82%A6%E5%8F%83%E8%AD%
 archive_url: https://web.archive.org/web/20220809232202/https://www.taiwanjustice.net/tag/%E8%81%AF%E9%82%A6%E5%8F%83%E8%AD%B0%E5%93%A1%E6%9A%A8%E5%8F%83%E8%AD%B0%E9%99%A2%E5%A4%96%E4%BA%A4%E5%A7%94%E5%93%A1%E6%9C%83%E6%88%90%E5%93%A1%E6%98%86%E6%96%AF%EF%BC%88christopher-andrew-coons/
 archive_ts: 20220809232202
 archive_digest: QRQRU4ZJV7EADNGMDB5VCZVJR2J7RS5A
-fetched: 2026-07-26T07:58:57Z
+fetched: 2026-07-26 07:58:57+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-06-05T10:36:26-07:00
+post_date: 2021-06-05 10:36:26-07:00
 ---
 
 Home

@@ -6,15 +6,15 @@ source_url: http://www.taiwanjustice.net:80/category/videos/my-point-of-view/
 archive_url: https://web.archive.org/web/20171109043043/http://www.taiwanjustice.net:80/category/videos/my-point-of-view/
 archive_ts: 20171109043043
 archive_digest: FE663ORDBQ77V7LGSFHYT33A43HQKWYP
-fetched: 2026-07-26T05:14:18Z
+fetched: 2026-07-26 05:14:18+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
 categories:
-  - my-point-of-view
-  - taiwan-news
-  - videos
+- my-point-of-view
+- taiwan-news
+- videos
 ---
 
 Home

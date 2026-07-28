@@ -6,7 +6,7 @@ source_url: https://taiwanjustice.net/category/column/ho-colume/?filter_by=popul
 archive_url: https://web.archive.org/web/20250321231919/https://taiwanjustice.net/category/column/ho-colume/?filter_by=popular
 archive_ts: 20250321231919
 archive_digest: TGBVE74KY5RZQAX3UF3DLFTUP2KHGDGG
-fetched: 2026-07-26T06:02:29Z
+fetched: 2026-07-26 06:02:29+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant

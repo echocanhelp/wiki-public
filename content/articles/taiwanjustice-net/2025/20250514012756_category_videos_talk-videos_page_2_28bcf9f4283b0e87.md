@@ -6,12 +6,12 @@ source_url: https://taiwanjustice.net/category/videos/talk-videos/page/2/?filter
 archive_url: https://web.archive.org/web/20250514012756/https://taiwanjustice.net/category/videos/talk-videos/page/2/?filter_by=random_posts
 archive_ts: 20250514012756
 archive_digest: D44LSH3JR36H74TE5VQI3QJMK46C7ZLC
-fetched: 2026-07-26T06:15:57Z
+fetched: 2026-07-26 06:15:57+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2020-07-01T07:51:12-07:00
+post_date: 2020-07-01 07:51:12-07:00
 ---
 
 Home

@@ -6,12 +6,12 @@ source_url: https://www.taiwanjustice.net/category/column/fanjiang/page/2/
 archive_url: https://web.archive.org/web/20200626031305/https://www.taiwanjustice.net/category/column/fanjiang/page/2/
 archive_ts: 20200626031305
 archive_digest: TISVUCT7TBKQUINJ7LUNEK3TPPVNPMHJ
-fetched: 2026-07-26T05:24:45Z
+fetched: 2026-07-26 05:24:45+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2020-03-08T11:50:51-07:00
+post_date: 2020-03-08 11:50:51-07:00
 ---
 
 Home

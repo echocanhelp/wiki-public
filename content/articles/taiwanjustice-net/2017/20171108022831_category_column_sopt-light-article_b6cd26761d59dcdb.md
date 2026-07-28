@@ -6,14 +6,14 @@ source_url: http://www.taiwanjustice.net:80/category/column/sopt-light-article/
 archive_url: https://web.archive.org/web/20171108022831/http://www.taiwanjustice.net:80/category/column/sopt-light-article/
 archive_ts: 20171108022831
 archive_digest: WCUDK3PZXFLEPBIDHI4Z7PZHG7LP3PZL
-fetched: 2026-07-26T05:13:56Z
+fetched: 2026-07-26 05:13:56+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
 categories:
-  - sopt-light-article
-  - column
+- sopt-light-article
+- column
 ---
 
 Home

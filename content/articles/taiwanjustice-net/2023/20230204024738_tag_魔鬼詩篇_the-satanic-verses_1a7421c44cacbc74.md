@@ -1,5 +1,5 @@
 ---
-title: Tag: 「魔鬼詩篇」（The Satanic Verses）
+title: 'Tag: 「魔鬼詩篇」（The Satanic Verses）'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/%E3%80%8C%E9%AD%94%E9%AC%BC%E8%A9%
 archive_url: https://web.archive.org/web/20230204024738/https://www.taiwanjustice.net/tag/%E3%80%8C%E9%AD%94%E9%AC%BC%E8%A9%A9%E7%AF%87%E3%80%8D%EF%BC%88the-satanic-verses%EF%BC%89/
 archive_ts: 20230204024738
 archive_digest: RVPDNP4HLREHCOG276CMCVSNGEVRZ2XA
-fetched: 2026-07-26T08:41:32Z
+fetched: 2026-07-26 08:41:32+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-08-14T15:23:06-07:00
+post_date: 2022-08-14 15:23:06-07:00
 ---
 
 Home

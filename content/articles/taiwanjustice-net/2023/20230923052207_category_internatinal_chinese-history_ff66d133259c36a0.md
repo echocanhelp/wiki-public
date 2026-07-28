@@ -6,12 +6,12 @@ source_url: https://www.taiwanjustice.net/category/internatinal/chinese-history/
 archive_url: https://web.archive.org/web/20230923052207/https://www.taiwanjustice.net/category/internatinal/chinese-history/
 archive_ts: 20230923052207
 archive_digest: GGHE6IGC2XSQDZO4E5I25N23VDQYE74J
-fetched: 2026-07-26T05:56:48Z
+fetched: 2026-07-26 05:56:48+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2023-09-21T16:29:30-07:00
+post_date: 2023-09-21 16:29:30-07:00
 ---
 
 Home

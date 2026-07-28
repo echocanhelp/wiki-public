@@ -1,5 +1,5 @@
 ---
-title: Tag: 發聲 ATTACK
+title: 'Tag: 發聲 ATTACK'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/%E7%99%BC%E8%81%B2-attack/
 archive_url: https://web.archive.org/web/20210127223033/https://www.taiwanjustice.net/tag/%E7%99%BC%E8%81%B2-attack/
 archive_ts: 20210127223033
 archive_digest: CHWVYKQEOS6CY3OYST37KQRKCDBI7PK3
-fetched: 2026-07-26T06:32:47Z
+fetched: 2026-07-26 06:32:47+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2020-10-26T14:21:52-07:00
+post_date: 2020-10-26 14:21:52-07:00
 ---
 
 Home

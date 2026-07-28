@@ -6,14 +6,14 @@ source_url: https://taiwanjustice.net/%E8%82%A1%E5%B8%82%E4%BA%AE%E9%BB%9E-%EF%B
 archive_url: https://web.archive.org/web/20251209233119/https://taiwanjustice.net/%E8%82%A1%E5%B8%82%E4%BA%AE%E9%BB%9E-%EF%BC%88105%EF%BC%89iipr-innovative-industrial-properties-inc/
 archive_ts: 20251209233119
 archive_digest: SZGFGNPUW2JARQXP6RUYJCYJNJE34QE6
-fetched: 2026-07-26T01:44:13Z
+fetched: 2026-07-26 01:44:13+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: article_candidate
-post_date: 2020-02-19T15:15:19-08:00
+post_date: 2020-02-19 15:15:19-08:00
 categories:
-  - stock
+- stock
 ---
 
 敬請支持‧歡迎訂閱本報newsletter

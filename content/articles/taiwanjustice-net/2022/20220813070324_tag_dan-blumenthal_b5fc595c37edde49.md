@@ -1,5 +1,5 @@
 ---
-title: Tag: Dan Blumenthal
+title: 'Tag: Dan Blumenthal'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/dan-blumenthal/
 archive_url: https://web.archive.org/web/20220813070324/https://www.taiwanjustice.net/tag/dan-blumenthal/
 archive_ts: 20220813070324
 archive_digest: KIGO7E4K6BFHXFV3ENF4UXNSW4ZAF5EO
-fetched: 2026-07-26T08:02:09Z
+fetched: 2026-07-26 08:02:09+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2020-11-25T18:00:12-08:00
+post_date: 2020-11-25 18:00:12-08:00
 ---
 
 Home

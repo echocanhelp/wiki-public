@@ -6,7 +6,7 @@ source_url: https://taiwanjustice.net/category/column/%E6%B1%9F%E7%99%BE%E9%A1%A
 archive_url: https://web.archive.org/web/20250417221950/https://taiwanjustice.net/category/column/%E6%B1%9F%E7%99%BE%E9%A1%AF%E5%B0%88%E6%AC%84/?filter_by=review_high
 archive_ts: 20250417221950
 archive_digest: USAZ2ACM3AGGAZU32GVFOJ5YX6PLPKDV
-fetched: 2026-07-26T06:06:12Z
+fetched: 2026-07-26 06:06:12+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant

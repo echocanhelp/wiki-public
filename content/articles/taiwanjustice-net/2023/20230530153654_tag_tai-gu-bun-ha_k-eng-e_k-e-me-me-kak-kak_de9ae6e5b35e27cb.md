@@ -1,5 +1,5 @@
 ---
-title: Tag: Tâi-gú Bûn-ha̍k Eng E̍k Ê Mê-mê-kak-kak
+title: 'Tag: Tâi-gú Bûn-ha̍k Eng E̍k Ê Mê-mê-kak-kak'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/tai-gu-bun-ha%CC%8Dk-eng-e%CC%8Dk-
 archive_url: https://web.archive.org/web/20230530153654/https://www.taiwanjustice.net/tag/tai-gu-bun-ha%CC%8Dk-eng-e%CC%8Dk-e-me-me-kak-kak/
 archive_ts: 20230530153654
 archive_digest: I67UMVHZXC5NCYPRYDTNZGCQIHISXVZP
-fetched: 2026-07-26T08:56:22Z
+fetched: 2026-07-26 08:56:22+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-11-24T09:58:44-08:00
+post_date: 2022-11-24 09:58:44-08:00
 ---
 
 Home

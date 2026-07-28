@@ -6,18 +6,18 @@ source_url: https://taiwanjustice.net/china-initiative%E6%9C%80%E6%96%B0%E8%B5%B
 archive_url: https://web.archive.org/web/20251115191342/https://taiwanjustice.net/china-initiative%E6%9C%80%E6%96%B0%E8%B5%B7%E8%A8%B4%EF%BC%9A%E4%B8%AD%E5%9C%8B%E8%A3%94%E6%95%B8%E5%AD%B8%E6%95%99%E6%8E%88%E8%A2%AB%E6%8E%A7%E7%8D%B2%E5%8F%96%E7%BE%8E%E8%81%AF/
 archive_ts: 20251115191342
 archive_digest: 74HHTFLSZIA755K4NTKBOR6UJKCXEGRY
-fetched: 2026-07-26T00:01:42Z
+fetched: 2026-07-26 00:01:42+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: article_candidate
-post_date: 2021-04-22T13:16:29-07:00
+post_date: 2021-04-22 13:16:29-07:00
 categories:
-  - usa
-  - internatinal
-  - china-news
-  - usa_news
-  - biden_era
+- usa
+- internatinal
+- china-news
+- usa_news
+- biden_era
 ---
 
 2021年4月22日 美國之音

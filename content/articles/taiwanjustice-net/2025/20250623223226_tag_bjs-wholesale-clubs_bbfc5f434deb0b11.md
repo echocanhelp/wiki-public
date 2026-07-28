@@ -1,5 +1,5 @@
 ---
-title: Tag: BJ’s Wholesale clubs
+title: 'Tag: BJ’s Wholesale clubs'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/bjs-wholesale-clubs/
 archive_url: https://web.archive.org/web/20250623223226/https://taiwanjustice.net/tag/bjs-wholesale-clubs/
 archive_ts: 20250623223226
 archive_digest: 4G2Y6263DLZJXPYGUBJAV7YWU7XTHTZF
-fetched: 2026-07-26T11:17:50Z
+fetched: 2026-07-26 11:17:50+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2020-06-29T21:50:26-07:00
+post_date: 2020-06-29 21:50:26-07:00
 ---
 
 Home

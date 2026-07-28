@@ -6,18 +6,18 @@ source_url: https://taiwanjustice.net/%E7%BE%8E%E8%81%AF%E9%82%A6%E7%9C%BE%E8%AD
 archive_url: https://web.archive.org/web/20250422122858/https://taiwanjustice.net/%E7%BE%8E%E8%81%AF%E9%82%A6%E7%9C%BE%E8%AD%B0%E5%93%A1%E6%8F%90%E6%B3%95%E6%A1%88-%E6%94%B9%E7%A8%B1%E6%A0%BC%E9%99%B5%E8%98%ADred-white-and-blueland/
 archive_ts: 20250422122858
 archive_digest: TUPN5OH3OPE5NDSTNPPIZ7K427TUGJ76
-fetched: 2026-07-25T03:08:41Z
+fetched: 2026-07-25 03:08:41+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: article_candidate
-post_date: 2025-02-11T20:17:31-08:00
+post_date: 2025-02-11 20:17:31-08:00
 categories:
-  - usa
-  - internatinal
-  - world-history
-  - usa_news
-  - us_election
+- usa
+- internatinal
+- world-history
+- usa_news
+- us_election
 ---
 
 （中央社記者鍾佑貞華盛頓11日專電）美國總統川普日前拋出收購丹麥半自治領土格陵蘭的想法，美國共和黨聯邦眾議員卡特今天提出新法案，擬把格陵蘭島「重新命名」為「紅白藍之地」，與美國國旗同色。

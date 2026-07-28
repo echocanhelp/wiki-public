@@ -1,5 +1,5 @@
 ---
-title: Tag: general charles q. brown jr
+title: 'Tag: general charles q. brown jr'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/general-charles-q-brown-jr/
 archive_url: https://web.archive.org/web/20250906032644/https://taiwanjustice.net/tag/general-charles-q-brown-jr/
 archive_ts: 20250906032644
 archive_digest: HCO6DQ5UKL4C43USCRLTS7SOILRV4EWY
-fetched: 2026-07-26T13:27:07Z
+fetched: 2026-07-26 13:27:07+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-07-20T10:01:21-07:00
+post_date: 2022-07-20 10:01:21-07:00
 ---
 
 Home

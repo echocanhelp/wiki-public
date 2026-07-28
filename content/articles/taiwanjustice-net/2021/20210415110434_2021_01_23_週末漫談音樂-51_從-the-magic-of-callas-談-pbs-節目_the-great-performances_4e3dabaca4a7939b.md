@@ -6,14 +6,14 @@ source_url: https://www.taiwanjustice.net/2021/01/23/%E3%80%90%E9%80%B1%E6%9C%AB
 archive_url: https://web.archive.org/web/20210415110434/https://www.taiwanjustice.net/2021/01/23/%E3%80%90%E9%80%B1%E6%9C%AB%E6%BC%AB%E8%AB%87%E9%9F%B3%E6%A8%82-51%E3%80%91%E5%BE%9E-the-magic-of-callas-%E8%AB%87-pbs-%E7%AF%80%E7%9B%AE%E3%80%8Cthe-great-performances%E3%80%8D/
 archive_ts: 20210415110434
 archive_digest: 3GOMJ576RNSHRS4MSY754YCEPNR4E4PF
-fetched: 2026-07-27T00:26:30Z
+fetched: 2026-07-27 00:26:30+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: other
-post_date: 2021-01-23T00:06:31-08:00
+post_date: 2021-01-23 00:06:31-08:00
 categories:
-  - classicmusic
+- classicmusic
 ---
 
 2021.01.23

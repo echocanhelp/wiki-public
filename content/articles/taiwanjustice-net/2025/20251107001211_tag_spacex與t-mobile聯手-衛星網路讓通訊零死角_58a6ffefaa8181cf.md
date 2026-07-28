@@ -1,5 +1,5 @@
 ---
-title: Tag: SpaceX與T-Mobile聯手 衛星網路讓通訊零死角
+title: 'Tag: SpaceX與T-Mobile聯手 衛星網路讓通訊零死角'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/spacex%E8%88%87t-mobile%E8%81%AF%E6%89
 archive_url: https://web.archive.org/web/20251107001211/https://taiwanjustice.net/tag/spacex%E8%88%87t-mobile%E8%81%AF%E6%89%8B-%E8%A1%9B%E6%98%9F%E7%B6%B2%E8%B7%AF%E8%AE%93%E9%80%9A%E8%A8%8A%E9%9B%B6%E6%AD%BB%E8%A7%92/
 archive_ts: 20251107001211
 archive_digest: WOWRP3JDVVN4VUXFEHIZOPBDBN3B5DVJ
-fetched: 2026-07-26T14:41:35Z
+fetched: 2026-07-26 14:41:35+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-08-27T19:34:50-07:00
+post_date: 2022-08-27 19:34:50-07:00
 ---
 
 Home

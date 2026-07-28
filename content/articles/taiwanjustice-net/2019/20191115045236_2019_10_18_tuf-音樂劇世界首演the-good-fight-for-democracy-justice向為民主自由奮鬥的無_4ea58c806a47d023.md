@@ -6,7 +6,7 @@ source_url: https://www.taiwanjustice.net/2019/10/18/tuf-%e9%9f%b3%e6%a8%82%e5%8
 archive_url: https://web.archive.org/web/20191115045236/https://www.taiwanjustice.net/2019/10/18/tuf-%e9%9f%b3%e6%a8%82%e5%8a%87%e4%b8%96%e7%95%8c%e9%a6%96%e6%bc%94the-good-fight-for-democracy-justice%e5%90%91%e7%82%ba%e6%b0%91%e4%b8%bb%e8%87%aa%e7%94%b1%e5%a5%ae%e9%ac%a5%e7%9a%84%e7%84%a1/
 archive_ts: 20191115045236
 archive_digest: D4KGXL7ALJEATZ3IRGGNEWYB2M3AP6D3
-fetched: 2026-07-26T23:08:41Z
+fetched: 2026-07-26 23:08:41+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: en

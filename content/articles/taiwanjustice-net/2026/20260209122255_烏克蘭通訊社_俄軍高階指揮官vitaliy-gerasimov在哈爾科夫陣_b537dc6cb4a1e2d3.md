@@ -6,15 +6,15 @@ source_url: https://taiwanjustice.net/%E7%83%8F%E5%85%8B%E8%98%AD%E9%80%9A%E8%A8
 archive_url: https://web.archive.org/web/20260209122255/https://taiwanjustice.net/%E7%83%8F%E5%85%8B%E8%98%AD%E9%80%9A%E8%A8%8A%E7%A4%BE%EF%BC%9A%E4%BF%84%E8%BB%8D%E9%AB%98%E9%9A%8E%E6%8C%87%E6%8F%AE%E5%AE%98vitaliy-gerasimov%E5%9C%A8%E5%93%88%E7%88%BE%E7%A7%91%E5%A4%AB%E9%99%A3/
 archive_ts: 20260209122255
 archive_digest: 3HGK4E36ZGXHVOMQPE5WWS2W77GSYOFA
-fetched: 2026-07-26T04:20:25Z
+fetched: 2026-07-26 04:20:25+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: article_candidate
-post_date: 2022-03-07T19:47:44-08:00
+post_date: 2022-03-07 19:47:44-08:00
 categories:
-  - international
-  - internatinal
+- international
+- internatinal
 ---
 
 敬請支持‧歡迎訂閱本報newsletter

@@ -1,5 +1,5 @@
 ---
-title: Tag: 阿根廷副總統克莉絲蒂娜．費南德茲（Cristina Fernandez de Kirchner）
+title: 'Tag: 阿根廷副總統克莉絲蒂娜．費南德茲（Cristina Fernandez de Kirchner）'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%89%AF%E
 archive_url: https://web.archive.org/web/20251107002436/https://taiwanjustice.net/tag/%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%89%AF%E7%B8%BD%E7%B5%B1%E5%85%8B%E8%8E%89%E7%B5%B2%E8%92%82%E5%A8%9C%EF%BC%8E%E8%B2%BB%E5%8D%97%E5%BE%B7%E8%8C%B2%EF%BC%88cristina-fernandez-de-kirchner%EF%BC%89/
 archive_ts: 20251107002436
 archive_digest: DQUZLX2CHNVZLRCMFYS76DNGEYM4RCAK
-fetched: 2026-07-26T14:42:39Z
+fetched: 2026-07-26 14:42:39+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-09-02T11:20:03-07:00
+post_date: 2022-09-02 11:20:03-07:00
 ---
 
 Home

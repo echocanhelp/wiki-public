@@ -6,17 +6,17 @@ source_url: https://taiwanjustice.net/%E5%8F%B0%E7%81%A3%E8%B5%B0%E5%90%91%E4%B8
 archive_url: https://web.archive.org/web/20250614210802/https://taiwanjustice.net/%E5%8F%B0%E7%81%A3%E8%B5%B0%E5%90%91%E4%B8%96%E7%95%8C%E3%80%80%E8%8F%AF%E8%88%AA%E6%A9%9F%E8%BA%AB%E6%A8%99%E7%A4%BAtaiwan-can-help-%E2%97%8E-%E9%99%B3%E6%98%AD%E5%8D%97/
 archive_ts: 20250614210802
 archive_digest: TRMEGCF4HULE6DOLU4STDYWRUQ3GUPXX
-fetched: 2026-07-25T08:55:57Z
+fetched: 2026-07-25 08:55:57+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: article_candidate
-post_date: 2020-04-13T07:41:10-07:00
+post_date: 2020-04-13 07:41:10-07:00
 categories:
-  - opinion
-  - column
-  - chen-view
-  - sopt-light-article
+- opinion
+- column
+- chen-view
+- sopt-light-article
 ---
 
 2020-04-13【六都春秋】

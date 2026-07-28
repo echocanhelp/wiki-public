@@ -1,5 +1,5 @@
 ---
-title: Tag: William Burns
+title: 'Tag: William Burns'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/william-burns/
 archive_url: https://web.archive.org/web/20250513231918/https://taiwanjustice.net/tag/william-burns/
 archive_ts: 20250513231918
 archive_digest: MTHLPXZEWNBMGJ7SDJ2EOXRBKASEIKGQ
-fetched: 2026-07-26T10:22:19Z
+fetched: 2026-07-26 10:22:19+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2024-04-19T10:07:10-07:00
+post_date: 2024-04-19 10:07:10-07:00
 ---
 
 Home

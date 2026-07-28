@@ -1,5 +1,5 @@
 ---
-title: Tag: nevada gigafactory tesla
+title: 'Tag: nevada gigafactory tesla'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/nevada-gigafactory-tesla/
 archive_url: https://web.archive.org/web/20230601061645/https://www.taiwanjustice.net/tag/nevada-gigafactory-tesla/
 archive_ts: 20230601061645
 archive_digest: GVJ5ZHE32JPVP3TNKUYCUHPBVHU53CUW
-fetched: 2026-07-26T08:59:40Z
+fetched: 2026-07-26 08:59:40+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2023-01-31T14:14:43-08:00
+post_date: 2023-01-31 14:14:43-08:00
 ---
 
 Home

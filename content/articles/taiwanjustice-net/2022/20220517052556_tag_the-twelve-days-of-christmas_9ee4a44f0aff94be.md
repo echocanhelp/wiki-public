@@ -1,5 +1,5 @@
 ---
-title: Tag: The Twelve Days of Christmas
+title: 'Tag: The Twelve Days of Christmas'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/the-twelve-days-of-christmas/
 archive_url: https://web.archive.org/web/20220517052556/https://www.taiwanjustice.net/tag/the-twelve-days-of-christmas/
 archive_ts: 20220517052556
 archive_digest: DOXIY3WL7EWXEPCA5YAQXMWTFN2Y6DE4
-fetched: 2026-07-26T07:35:39Z
+fetched: 2026-07-26 07:35:39+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-12-25T01:22:00-08:00
+post_date: 2021-12-25 01:22:00-08:00
 ---
 
 Home

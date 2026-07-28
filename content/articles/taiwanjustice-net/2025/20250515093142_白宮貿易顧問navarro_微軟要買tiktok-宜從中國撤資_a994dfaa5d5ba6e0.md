@@ -6,18 +6,18 @@ source_url: https://taiwanjustice.net/%E7%99%BD%E5%AE%AE%E8%B2%BF%E6%98%93%E9%A1
 archive_url: https://web.archive.org/web/20250515093142/https://taiwanjustice.net/%E7%99%BD%E5%AE%AE%E8%B2%BF%E6%98%93%E9%A1%A7%E5%95%8Fnavarro%EF%BC%9A%E5%BE%AE%E8%BB%9F%E8%A6%81%E8%B2%B7tiktok-%E5%AE%9C%E5%BE%9E%E4%B8%AD%E5%9C%8B%E6%92%A4%E8%B3%87/
 archive_ts: 20250515093142
 archive_digest: ISG56T266PGUNEG3STR3RQ6TSMCUKFQW
-fetched: 2026-07-25T07:25:17Z
+fetched: 2026-07-25 07:25:17+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: article_candidate
-post_date: 2020-08-03T12:03:51-07:00
+post_date: 2020-08-03 12:03:51-07:00
 categories:
-  - usa
-  - internatinal
-  - usa_news
-  - us_election
-  - tech-news
+- usa
+- internatinal
+- usa_news
+- us_election
+- tech-news
 ---
 
 敬請支持‧歡迎訂閱本報newsletter

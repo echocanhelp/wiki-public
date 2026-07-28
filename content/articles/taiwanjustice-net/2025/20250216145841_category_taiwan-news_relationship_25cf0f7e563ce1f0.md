@@ -6,12 +6,12 @@ source_url: https://taiwanjustice.net/category/taiwan-news/relationship/
 archive_url: https://web.archive.org/web/20250216145841/https://taiwanjustice.net/category/taiwan-news/relationship/
 archive_ts: 20250216145841
 archive_digest: OAI4F5VIHFRSKOMAKT2ZNAGSTPNU6ND5
-fetched: 2026-07-26T06:00:30Z
+fetched: 2026-07-26 06:00:30+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2025-02-15T05:19:06-08:00
+post_date: 2025-02-15 05:19:06-08:00
 ---
 
 Home

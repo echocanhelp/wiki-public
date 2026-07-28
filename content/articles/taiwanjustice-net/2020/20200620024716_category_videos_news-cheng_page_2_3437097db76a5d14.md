@@ -6,12 +6,12 @@ source_url: https://www.taiwanjustice.net/category/videos/news-cheng/page/2/
 archive_url: https://web.archive.org/web/20200620024716/https://www.taiwanjustice.net/category/videos/news-cheng/page/2/
 archive_ts: 20200620024716
 archive_digest: RBC4V6CJEIB6QJA5EESRJBOMIFGSXCX7
-fetched: 2026-07-26T05:19:56Z
+fetched: 2026-07-26 05:19:56+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2018-09-17T08:10:37-07:00
+post_date: 2018-09-17 08:10:37-07:00
 ---
 
 Home

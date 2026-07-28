@@ -6,18 +6,18 @@ source_url: https://www.taiwanjustice.net/2021/05/17/att%E8%84%AB%E6%89%8B%E5%AA
 archive_url: https://web.archive.org/web/20210621193048/https://www.taiwanjustice.net/2021/05/17/att%E8%84%AB%E6%89%8B%E5%AA%92%E9%AB%94%EF%BC%8Cwarnermedia%E5%90%88%E4%BD%B5discovery%E7%B5%84%E4%B8%B2%E6%B5%81%E5%B7%A8%E6%93%98/
 archive_ts: 20210621193048
 archive_digest: 5DW7S23BWCNCWCXSHZJC4AWFHYUNWKMJ
-fetched: 2026-07-27T01:11:32Z
+fetched: 2026-07-27 01:11:32+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: other
-post_date: 2021-05-17T13:21:07-07:00
+post_date: 2021-05-17 13:21:07-07:00
 categories:
-  - usa_news
-  - usa
-  - stock
-  - usstock
-  - internatinal
+- usa_news
+- usa
+- stock
+- usstock
+- internatinal
 ---
 
 2021/05/18

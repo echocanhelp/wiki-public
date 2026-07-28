@@ -6,12 +6,12 @@ source_url: https://www.taiwanjustice.net/category/classicmusic/page/3/?filter_b
 archive_url: https://web.archive.org/web/20220626163125/https://www.taiwanjustice.net/category/classicmusic/page/3/?filter_by=random_posts
 archive_ts: 20220626163125
 archive_digest: 2DODZUABEZT5SVYQBJF4SLMEUYDHMRNL
-fetched: 2026-07-26T05:39:51Z
+fetched: 2026-07-26 05:39:51+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2020-08-22T08:15:36-07:00
+post_date: 2020-08-22 08:15:36-07:00
 ---
 
 Home

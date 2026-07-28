@@ -1,5 +1,5 @@
 ---
-title: Tag: Dennis Rodman
+title: 'Tag: Dennis Rodman'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/dennis-rodman/
 archive_url: https://web.archive.org/web/20251107005444/https://taiwanjustice.net/tag/dennis-rodman/
 archive_ts: 20251107005444
 archive_digest: ZTR2OJ34AUAYIW7IIJVKRP4O75YQUEER
-fetched: 2026-07-26T14:46:01Z
+fetched: 2026-07-26 14:46:01+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-08-22T19:37:05-07:00
+post_date: 2022-08-22 19:37:05-07:00
 ---
 
 Home

@@ -1,19 +1,20 @@
 ---
-title: 【週末漫談音樂(85)】推薦 PBS 節目：Great Performances: Yannick – An Artist’s Journey ◎ 信雅
+title: '【週末漫談音樂(85)】推薦 PBS 節目：Great Performances: Yannick – An Artist’s Journey ◎
+  信雅'
 type: article
 domain: taiwanjustice.net
 source_url: https://www.taiwanjustice.net/2021/09/18/%E3%80%90%E9%80%B1%E6%9C%AB%E6%BC%AB%E8%AB%87%E9%9F%B3%E6%A8%8285%E3%80%91%E6%8E%A8%E8%96%A6-pbs-%E7%AF%80%E7%9B%AE%EF%BC%9Agreat-performances-yannick-an-artists-journey-%E2%97%8E-%E4%BF%A1/
 archive_url: https://web.archive.org/web/20211020140020/https://www.taiwanjustice.net/2021/09/18/%E3%80%90%E9%80%B1%E6%9C%AB%E6%BC%AB%E8%AB%87%E9%9F%B3%E6%A8%8285%E3%80%91%E6%8E%A8%E8%96%A6-pbs-%E7%AF%80%E7%9B%AE%EF%BC%9Agreat-performances-yannick-an-artists-journey-%E2%97%8E-%E4%BF%A1/
 archive_ts: 20211020140020
 archive_digest: 7M5YZB6PEXHIDEQMJXMH2MROEJYAARO4
-fetched: 2026-07-27T01:39:43Z
+fetched: 2026-07-27 01:39:43+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: other
-post_date: 2021-09-18T01:14:00-07:00
+post_date: 2021-09-18 01:14:00-07:00
 categories:
-  - classicmusic
+- classicmusic
 ---
 
 2021.09.18

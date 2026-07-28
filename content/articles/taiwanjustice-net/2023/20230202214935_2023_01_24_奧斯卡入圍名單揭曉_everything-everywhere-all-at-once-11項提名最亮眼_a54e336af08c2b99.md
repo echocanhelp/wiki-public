@@ -6,19 +6,19 @@ source_url: https://www.taiwanjustice.net/2023/01/24/%E5%A5%A7%E6%96%AF%E5%8D%A1
 archive_url: https://web.archive.org/web/20230202214935/https://www.taiwanjustice.net/2023/01/24/%E5%A5%A7%E6%96%AF%E5%8D%A1%E5%85%A5%E5%9C%8D%E5%90%8D%E5%96%AE%E6%8F%AD%E6%9B%89%EF%BC%8Ceverything-everywhere-all-at-once-11%E9%A0%85%E6%8F%90%E5%90%8D%E6%9C%80%E4%BA%AE%E7%9C%BC/
 archive_ts: 20230202214935
 archive_digest: C4EQYLSBSQUYK7VU6ACQ2CODHV3NH3F2
-fetched: 2026-07-27T05:51:55Z
+fetched: 2026-07-27 05:51:55+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: other
-post_date: 2023-01-24T13:55:13-08:00
+post_date: 2023-01-24 13:55:13-08:00
 categories:
-  - featured
-  - usa_news
-  - usa
-  - internatinal
-  - world-culture
-  - videos
+- featured
+- usa_news
+- usa
+- internatinal
+- world-culture
+- videos
 ---
 
 （中央社洛杉磯24日綜合外電報導）第95屆奧斯卡金像獎入圍名單今天揭曉，超現實科幻電影「媽的多重宇宙」（Everything Everywhere All At Once）囊括11項提名，成績最為亮眼。

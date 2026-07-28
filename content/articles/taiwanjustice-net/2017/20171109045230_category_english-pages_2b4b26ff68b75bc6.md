@@ -6,16 +6,16 @@ source_url: http://www.taiwanjustice.net:80/category/english-pages/
 archive_url: https://web.archive.org/web/20171109045230/http://www.taiwanjustice.net:80/category/english-pages/
 archive_ts: 20171109045230
 archive_digest: B7XI4KXCK6FLRCQHBOKZP6P3ZXKVU5XI
-fetched: 2026-07-26T05:16:08Z
+fetched: 2026-07-26 05:16:08+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: en
 cdx_class: category
 categories:
-  - english-pages
-  - us_election
-  - taiwan-news
-  - internatinal
+- english-pages
+- us_election
+- taiwan-news
+- internatinal
 ---
 
 English Pages 美眾院外委會通過決議案挺台入世衛組織 The House Foreign Affairs Committee passed the WHO for Taiwan Bill ◎VOA 2017-09-28 September 28, 2017 admin 0 […]

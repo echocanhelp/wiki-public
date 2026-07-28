@@ -6,15 +6,15 @@ source_url: http://www.taiwanjustice.net:80/category/videos/taiwan-global/
 archive_url: https://web.archive.org/web/20171109045305/http://www.taiwanjustice.net:80/category/videos/taiwan-global/
 archive_ts: 20171109045305
 archive_digest: C6RN35NKZZVCLR2JMW6ZFNH3VO5TRXLB
-fetched: 2026-07-26T05:16:33Z
+fetched: 2026-07-26 05:16:33+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
 categories:
-  - taiwan-global
-  - daily-news
-  - taiwan-news
+- taiwan-global
+- daily-news
+- taiwan-news
 ---
 
 Home

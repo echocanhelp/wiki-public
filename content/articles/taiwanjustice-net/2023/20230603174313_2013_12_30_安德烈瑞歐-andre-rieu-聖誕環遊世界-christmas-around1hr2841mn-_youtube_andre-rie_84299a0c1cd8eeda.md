@@ -6,7 +6,7 @@ source_url: https://www.taiwanjustice.net/2013/12/30/%e5%ae%89%e5%be%b7%e7%83%88
 archive_url: https://web.archive.org/web/20230603174313/https://www.taiwanjustice.net/2013/12/30/%e5%ae%89%e5%be%b7%e7%83%88%e7%91%9e%e6%ad%90-andre-rieu-%e8%81%96%e8%aa%95%e7%92%b0%e9%81%8a%e4%b8%96%e7%95%8c-christmas-around1hr2841mn-%e2%97%8eyoutube/andre-rieu/
 archive_ts: 20230603174313
 archive_digest: QMX6W2BY7QOR74BXMN2M3ILTEUM5VWZQ
-fetched: 2026-07-27T07:37:23Z
+fetched: 2026-07-27 07:37:23+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant

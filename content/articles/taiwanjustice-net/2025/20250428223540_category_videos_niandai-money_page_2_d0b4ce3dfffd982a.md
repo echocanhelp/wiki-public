@@ -6,12 +6,12 @@ source_url: https://taiwanjustice.net/category/videos/niandai-money/page/2/?filt
 archive_url: https://web.archive.org/web/20250428223540/https://taiwanjustice.net/category/videos/niandai-money/page/2/?filter_by=random_posts
 archive_ts: 20250428223540
 archive_digest: VGU2R7ISAA742J522WJYVAOHZL2Z3A33
-fetched: 2026-07-26T06:12:37Z
+fetched: 2026-07-26 06:12:37+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2021-09-17T06:12:16-07:00
+post_date: 2021-09-17 06:12:16-07:00
 ---
 
 Home

@@ -1,5 +1,5 @@
 ---
-title: Tag: 抗癌藥Plitidepsin能有效對抗Omicron
+title: 'Tag: 抗癌藥Plitidepsin能有效對抗Omicron'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/%E6%8A%97%E7%99%8C%E8%97%A5plitide
 archive_url: https://web.archive.org/web/20220521152058/https://www.taiwanjustice.net/tag/%E6%8A%97%E7%99%8C%E8%97%A5plitidepsin%E8%83%BD%E6%9C%89%E6%95%88%E5%B0%8D%E6%8A%97omicron/
 archive_ts: 20220521152058
 archive_digest: DNGXH5QT3WSYKD6BJPFUUR4PPBRM3DSA
-fetched: 2026-07-26T07:39:44Z
+fetched: 2026-07-26 07:39:44+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-01-11T10:52:15-08:00
+post_date: 2022-01-11 10:52:15-08:00
 ---
 
 Home

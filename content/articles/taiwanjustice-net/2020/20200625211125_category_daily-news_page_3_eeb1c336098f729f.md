@@ -6,12 +6,12 @@ source_url: https://www.taiwanjustice.net/category/daily-news/page/3/
 archive_url: https://web.archive.org/web/20200625211125/https://www.taiwanjustice.net/category/daily-news/page/3/
 archive_ts: 20200625211125
 archive_digest: VWLUUBS6WVDCDVN7JQNF7M52WZP5755N
-fetched: 2026-07-26T05:24:02Z
+fetched: 2026-07-26 05:24:02+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2020-06-25T11:25:34-07:00
+post_date: 2020-06-25 11:25:34-07:00
 ---
 
 Home

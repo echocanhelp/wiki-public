@@ -6,12 +6,12 @@ source_url: https://www.taiwanjustice.net/category/taiwan-news/formosa-magazine/
 archive_url: https://web.archive.org/web/20190523145011/https://www.taiwanjustice.net/category/taiwan-news/formosa-magazine/page/3/
 archive_ts: 20190523145011
 archive_digest: XFQENT4IAW64FAJIUPIN7IZKOYCPCLWO
-fetched: 2026-07-26T05:18:40Z
+fetched: 2026-07-26 05:18:40+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2018-11-02T22:24:56+00:00
+post_date: 2018-11-02 22:24:56+00:00
 ---
 
 Home

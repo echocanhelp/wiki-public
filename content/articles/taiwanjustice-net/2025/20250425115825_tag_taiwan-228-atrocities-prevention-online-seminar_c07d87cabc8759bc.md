@@ -1,5 +1,5 @@
 ---
-title: Tag: Taiwan 228 Atrocities Prevention Online Seminar
+title: 'Tag: Taiwan 228 Atrocities Prevention Online Seminar'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/taiwan-228-atrocities-prevention-onlin
 archive_url: https://web.archive.org/web/20250425115825/https://taiwanjustice.net/tag/taiwan-228-atrocities-prevention-online-seminar/
 archive_ts: 20250425115825
 archive_digest: HNXSBOT355DQWDQPKCSXICOV5HOQ4WLF
-fetched: 2026-07-26T10:09:59Z
+fetched: 2026-07-26 10:09:59+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2025-02-14T09:14:35-08:00
+post_date: 2025-02-14 09:14:35-08:00
 ---
 
 Home

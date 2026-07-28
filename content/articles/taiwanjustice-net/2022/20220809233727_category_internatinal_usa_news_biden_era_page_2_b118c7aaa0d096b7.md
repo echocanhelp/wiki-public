@@ -6,12 +6,12 @@ source_url: https://www.taiwanjustice.net/category/internatinal/usa_news/biden_e
 archive_url: https://web.archive.org/web/20220809233727/https://www.taiwanjustice.net/category/internatinal/usa_news/biden_era/page/2/?filter_by=random_posts
 archive_ts: 20220809233727
 archive_digest: R67D2OS74KZ374I23YBB2QK5QNO7STMT
-fetched: 2026-07-26T05:42:31Z
+fetched: 2026-07-26 05:42:31+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2021-01-22T10:33:44-08:00
+post_date: 2021-01-22 10:33:44-08:00
 ---
 
 Home

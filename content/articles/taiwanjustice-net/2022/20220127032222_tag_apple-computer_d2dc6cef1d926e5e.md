@@ -1,5 +1,5 @@
 ---
-title: Tag: Apple Computer
+title: 'Tag: Apple Computer'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/apple-computer/
 archive_url: https://web.archive.org/web/20220127032222/https://www.taiwanjustice.net/tag/apple-computer/
 archive_ts: 20220127032222
 archive_digest: A4RWPARRN2OTQVQ3IFET4JHOJO3XUC3L
-fetched: 2026-07-26T07:15:30Z
+fetched: 2026-07-26 07:15:30+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2011-10-12T22:43:51-07:00
+post_date: 2011-10-12 22:43:51-07:00
 ---
 
 Home

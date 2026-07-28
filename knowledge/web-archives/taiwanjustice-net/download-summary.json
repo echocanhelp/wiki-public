@@ -1,15 +1,17 @@
 {
-  "updated_at": "2026-07-25T00:25:58Z",
+  "updated_at": "2026-07-28T06:58:59Z",
+  "mode": "P2-retry-fails",
   "stats": {
-    "ok": 5,
+    "ok": 59220,
     "parking": 0,
-    "fail": 0,
+    "fail": 202,
     "skip": 0,
-    "bytes": 331892
+    "bytes": 5837611998
   },
-  "done_urls": 5,
+  "done_urls": 59422,
   "queue_total": 59422,
-  "remaining_est": 59417,
+  "remaining_est": 202,
+  "retry_fails_remaining": 202,
   "out": "/home/leedt/echo-system/knowledge/web-archives/taiwanjustice-net",
   "raw": "/home/leedt/echo-system/knowledge/web-archives/taiwanjustice-net/raw-html"
 }

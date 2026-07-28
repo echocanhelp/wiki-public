@@ -1,5 +1,5 @@
 ---
-title: Tag: loyal wingman drone
+title: 'Tag: loyal wingman drone'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/loyal-wingman-drone/
 archive_url: https://web.archive.org/web/20251008092400/https://taiwanjustice.net/tag/loyal-wingman-drone/
 archive_ts: 20251008092400
 archive_digest: LCX6FCIRHUR233DFUQE2SFFKW5FWKJZK
-fetched: 2026-07-26T14:06:01Z
+fetched: 2026-07-26 14:06:01+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-03-02T18:51:50-08:00
+post_date: 2021-03-02 18:51:50-08:00
 ---
 
 Home

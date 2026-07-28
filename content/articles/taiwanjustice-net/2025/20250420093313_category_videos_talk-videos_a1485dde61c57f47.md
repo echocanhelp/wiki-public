@@ -6,7 +6,7 @@ source_url: https://taiwanjustice.net/category/videos/talk-videos/?filter_by=rev
 archive_url: https://web.archive.org/web/20250420093313/https://taiwanjustice.net/category/videos/talk-videos/?filter_by=review_high
 archive_ts: 20250420093313
 archive_digest: LQ7XAUZETYMA5FWKZPSILYWQC6BFI5WO
-fetched: 2026-07-26T06:07:21Z
+fetched: 2026-07-26 06:07:21+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant

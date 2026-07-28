@@ -1,5 +1,5 @@
 ---
-title: Tag: Amazing Places on Our Planet
+title: 'Tag: Amazing Places on Our Planet'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/amazing-places-on-our-planet/
 archive_url: https://web.archive.org/web/20230204014818/https://www.taiwanjustice.net/tag/amazing-places-on-our-planet/
 archive_ts: 20230204014818
 archive_digest: T247OO2QTHRXVNJKMF5ONSFA2TYJRIYU
-fetched: 2026-07-26T08:39:29Z
+fetched: 2026-07-26 08:39:29+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2018-04-15T01:07:39-07:00
+post_date: 2018-04-15 01:07:39-07:00
 ---
 
 Home

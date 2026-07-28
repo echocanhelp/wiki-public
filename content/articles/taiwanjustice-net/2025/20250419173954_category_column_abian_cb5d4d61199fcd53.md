@@ -6,7 +6,7 @@ source_url: https://taiwanjustice.net/category/column/abian/
 archive_url: https://web.archive.org/web/20250419173954/https://taiwanjustice.net/category/column/abian/
 archive_ts: 20250419173954
 archive_digest: F4I77F6HE7B56QPMNDC2PW3WLOGMTPNO
-fetched: 2026-07-26T06:06:36Z
+fetched: 2026-07-26 06:06:36+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant

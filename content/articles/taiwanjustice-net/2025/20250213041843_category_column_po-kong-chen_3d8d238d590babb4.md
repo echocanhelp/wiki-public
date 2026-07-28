@@ -6,7 +6,7 @@ source_url: https://taiwanjustice.net/category/column/po-kong-chen/?filter_by=re
 archive_url: https://web.archive.org/web/20250213041843/https://taiwanjustice.net/category/column/po-kong-chen/?filter_by=review_high
 archive_ts: 20250213041843
 archive_digest: SP6NH44NWGYLFAV2BNQJYBL4MMFPBLBR
-fetched: 2026-07-26T05:59:36Z
+fetched: 2026-07-26 05:59:36+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant

@@ -6,19 +6,19 @@ source_url: https://www.taiwanjustice.net/?p=385726
 archive_url: https://web.archive.org/web/20240525233125/https://www.taiwanjustice.net/?p=385726
 archive_ts: 20240525233125
 archive_digest: GEO5SSKHRE6OI3EVNGC2BP2Q6QNUSHOY
-fetched: 2026-07-26T19:27:03Z
+fetched: 2026-07-26 19:27:03+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: home
-post_date: 2024-05-07T20:03:42-07:00
+post_date: 2024-05-07 20:03:42-07:00
 categories:
-  - taiwan
-  - opinion
-  - editorial
-  - column
-  - sopt-light-article
-  - chen-mao-xiong
+- taiwan
+- opinion
+- editorial
+- column
+- sopt-light-article
+- chen-mao-xiong
 ---
 
 2024-05-07

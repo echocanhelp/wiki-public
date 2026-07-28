@@ -6,14 +6,14 @@ source_url: https://taiwanjustice.net/%E3%80%90%E9%80%B1%E6%9C%AB%E6%BC%AB%E8%AB
 archive_url: https://web.archive.org/web/20250713110115/https://taiwanjustice.net/%E3%80%90%E9%80%B1%E6%9C%AB%E6%BC%AB%E8%AB%87%E9%9F%B3%E6%A8%82-72%E3%80%91%E9%9F%B3%E6%A8%82%E5%AE%B6%E5%96%84%E8%A1%8C%E8%BB%BC%E4%BA%8B%EF%BC%88%E4%BA%8C%EF%BC%89-brahms-paganini-puccini/
 archive_ts: 20250713110115
 archive_digest: JNSAYKJGIRIP3SQUQ3GK5PICWUDMNK57
-fetched: 2026-07-25T16:55:25Z
+fetched: 2026-07-25 16:55:25+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: article_candidate
-post_date: 2021-06-19T01:12:00-07:00
+post_date: 2021-06-19 01:12:00-07:00
 categories:
-  - classicmusic
+- classicmusic
 ---
 
 2021.06.19

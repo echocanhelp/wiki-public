@@ -6,16 +6,16 @@ source_url: https://taiwanjustice.net/%E7%99%BD%E5%AE%AE%E5%8F%88%E6%9C%89%E9%AB
 archive_url: https://web.archive.org/web/20250808005557/https://taiwanjustice.net/%E7%99%BD%E5%AE%AE%E5%8F%88%E6%9C%89%E9%AB%98%E9%9A%8E%E5%AE%98%E5%93%A1%E9%9B%A2%E9%96%8B-%E8%81%AF%E7%B5%A1%E4%B8%BB%E4%BB%BBkate-bedingfield%E4%BB%A5%E5%AE%B6%E5%BA%AD%E7%82%BA%E7%94%B1%E5%8D%B8/
 archive_ts: 20250808005557
 archive_digest: D66KAAYY3GSI2DDQ5VTWIX5PGXNYEWB5
-fetched: 2026-07-25T18:11:41Z
+fetched: 2026-07-25 18:11:41+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: article_candidate
-post_date: 2022-07-06T19:05:29-07:00
+post_date: 2022-07-06 19:05:29-07:00
 categories:
-  - usa
-  - usa_news
-  - biden_era
+- usa
+- usa_news
+- biden_era
 ---
 
 敬請支持‧歡迎訂閱本報newsletter

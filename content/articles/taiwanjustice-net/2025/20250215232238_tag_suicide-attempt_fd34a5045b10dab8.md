@@ -1,5 +1,5 @@
 ---
-title: Tag: suicide attempt
+title: 'Tag: suicide attempt'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,11 +7,10 @@ source_url: https://taiwanjustice.net/tag/suicide-attempt/
 archive_url: https://web.archive.org/web/20250215232238/https://taiwanjustice.net/tag/suicide-attempt/
 archive_ts: 20250215232238
 archive_digest: DT5AU4EQBB5JAS6NYRUWICXIQRFAETCS
-fetched: 2026-07-26T09:25:52Z
+fetched: 2026-07-26 09:25:52+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
 ---
 
 Home

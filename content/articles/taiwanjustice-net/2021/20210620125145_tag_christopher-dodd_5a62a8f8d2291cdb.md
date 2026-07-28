@@ -1,5 +1,5 @@
 ---
-title: Tag: Christopher Dodd
+title: 'Tag: Christopher Dodd'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/christopher-dodd/
 archive_url: https://web.archive.org/web/20210620125145/https://www.taiwanjustice.net/tag/christopher-dodd/
 archive_ts: 20210620125145
 archive_digest: RBZEDRVC662XVNY7X54KJTVVIPS2YTNE
-fetched: 2026-07-26T06:45:49Z
+fetched: 2026-07-26 06:45:49+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-04-14T20:10:45-07:00
+post_date: 2021-04-14 20:10:45-07:00
 ---
 
 Home

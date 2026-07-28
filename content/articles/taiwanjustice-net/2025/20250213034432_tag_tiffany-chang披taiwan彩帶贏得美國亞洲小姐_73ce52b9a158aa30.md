@@ -1,5 +1,5 @@
 ---
-title: Tag: Tiffany Chang披Taiwan彩帶贏得美國亞洲小姐
+title: 'Tag: Tiffany Chang披Taiwan彩帶贏得美國亞洲小姐'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/tiffany-chang%e6%8a%abtaiwan%e5%bd%a9%
 archive_url: https://web.archive.org/web/20250213034432/https://taiwanjustice.net/tag/tiffany-chang%e6%8a%abtaiwan%e5%bd%a9%e5%b8%b6%e8%b4%8f%e5%be%97%e7%be%8e%e5%9c%8b%e4%ba%9e%e6%b4%b2%e5%b0%8f%e5%a7%90/
 archive_ts: 20250213034432
 archive_digest: NZAOU4NAT5ETXVHDKN6QPRZ2M5DJ3A5D
-fetched: 2026-07-26T09:23:17Z
+fetched: 2026-07-26 09:23:17+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2023-11-20T15:41:17-08:00
+post_date: 2023-11-20 15:41:17-08:00
 ---
 
 Home

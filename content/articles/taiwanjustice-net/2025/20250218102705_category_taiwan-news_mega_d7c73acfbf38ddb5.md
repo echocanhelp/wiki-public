@@ -6,7 +6,7 @@ source_url: https://taiwanjustice.net/category/taiwan-news/mega/
 archive_url: https://web.archive.org/web/20250218102705/https://taiwanjustice.net/category/taiwan-news/mega/
 archive_ts: 20250218102705
 archive_digest: ZR5IOYVQMJOA6M7VGIJCHVISMSFVOUX3
-fetched: 2026-07-26T06:00:39Z
+fetched: 2026-07-26 06:00:39+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant

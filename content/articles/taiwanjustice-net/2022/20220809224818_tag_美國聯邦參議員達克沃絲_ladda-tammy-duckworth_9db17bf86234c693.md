@@ -1,5 +1,5 @@
 ---
-title: Tag: 美國聯邦參議員達克沃絲（Ladda Tammy Duckworth）
+title: 'Tag: 美國聯邦參議員達克沃絲（Ladda Tammy Duckworth）'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/%E7%BE%8E%E5%9C%8B%E8%81%AF%E9%82%
 archive_url: https://web.archive.org/web/20220809224818/https://www.taiwanjustice.net/tag/%E7%BE%8E%E5%9C%8B%E8%81%AF%E9%82%A6%E5%8F%83%E8%AD%B0%E5%93%A1%E9%81%94%E5%85%8B%E6%B2%83%E7%B5%B2%EF%BC%88ladda-tammy-duckworth%EF%BC%89/
 archive_ts: 20220809224818
 archive_digest: EFJ26L4Y43SVUA4QNJT4TC6RJDKDKR4V
-fetched: 2026-07-26T07:58:30Z
+fetched: 2026-07-26 07:58:30+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-06-05T10:36:26-07:00
+post_date: 2021-06-05 10:36:26-07:00
 ---
 
 Home

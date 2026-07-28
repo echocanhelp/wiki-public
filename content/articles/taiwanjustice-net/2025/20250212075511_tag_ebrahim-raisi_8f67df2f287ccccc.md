@@ -1,5 +1,5 @@
 ---
-title: Tag: Ebrahim Raisi
+title: 'Tag: Ebrahim Raisi'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/ebrahim-raisi/
 archive_url: https://web.archive.org/web/20250212075511/https://taiwanjustice.net/tag/ebrahim-raisi/
 archive_ts: 20250212075511
 archive_digest: CESWTIW7QJD4DG7XTXH2GL3OTKEKOSCC
-fetched: 2026-07-26T09:20:57Z
+fetched: 2026-07-26 09:20:57+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2024-05-20T19:12:28-07:00
+post_date: 2024-05-20 19:12:28-07:00
 ---
 
 Home

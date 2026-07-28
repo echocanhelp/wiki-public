@@ -6,12 +6,12 @@ source_url: https://www.taiwanjustice.net/category/taiwan-history-geo/page/3/
 archive_url: https://web.archive.org/web/20200629175857/https://www.taiwanjustice.net/category/taiwan-history-geo/page/3/
 archive_ts: 20200629175857
 archive_digest: MMETEVSMNGTUWMS3S25ANXGZVV4NCPYN
-fetched: 2026-07-26T05:29:24Z
+fetched: 2026-07-26 05:29:24+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2020-06-28T20:10:35-07:00
+post_date: 2020-06-28 20:10:35-07:00
 ---
 
 Home

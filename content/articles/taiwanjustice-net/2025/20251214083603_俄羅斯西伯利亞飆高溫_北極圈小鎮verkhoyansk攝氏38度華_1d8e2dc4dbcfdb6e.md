@@ -6,16 +6,16 @@ source_url: https://taiwanjustice.net/%E4%BF%84%E7%BE%85%E6%96%AF%E8%A5%BF%E4%BC
 archive_url: https://web.archive.org/web/20251214083603/https://taiwanjustice.net/%E4%BF%84%E7%BE%85%E6%96%AF%E8%A5%BF%E4%BC%AF%E5%88%A9%E4%BA%9E%E9%A3%86%E9%AB%98%E6%BA%AB%EF%BC%8C%E5%8C%97%E6%A5%B5%E5%9C%88%E5%B0%8F%E9%8E%AEverkhoyansk%E6%94%9D%E6%B0%8F38%E5%BA%A6%E8%8F%AF/
 archive_ts: 20251214083603
 archive_digest: KF4A5JQF4DHSCGJHY3PZBRWGOAYBZG5Q
-fetched: 2026-07-26T02:19:38Z
+fetched: 2026-07-26 02:19:38+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: article_candidate
-post_date: 2020-06-21T18:33:29-07:00
+post_date: 2020-06-21 18:33:29-07:00
 categories:
-  - international
-  - internatinal
-  - vanity
+- international
+- internatinal
+- vanity
 ---
 
 敬請支持‧歡迎訂閱本報newsletter

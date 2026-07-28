@@ -6,17 +6,17 @@ source_url: https://taiwanjustice.net/%E4%BA%8C%E4%BA%8C%E5%85%AB%E9%98%B2%E6%AD
 archive_url: https://web.archive.org/web/20250320203546/https://taiwanjustice.net/%E4%BA%8C%E4%BA%8C%E5%85%AB%E9%98%B2%E6%AD%A2%E6%94%BF%E5%BA%9C%E6%9A%B4%E8%A1%8C%E7%B7%9A%E4%B8%8A%E7%A0%94%E8%A8%8E%E6%9C%83-taiwan-228-atrocities-prevention-online-seminar/
 archive_ts: 20250320203546
 archive_digest: KRGIMVDUOUQA2ZXDUD4UP4KXSVDZLCQ6
-fetched: 2026-07-25T01:37:06Z
+fetched: 2026-07-25 01:37:06+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: en
 cdx_class: article_candidate
-post_date: 2025-02-14T09:14:35-08:00
+post_date: 2025-02-14 09:14:35-08:00
 categories:
-  - usa
-  - taiwaneseamerican
-  - usa_news
-  - taiwancenter
+- usa
+- taiwaneseamerican
+- usa_news
+- taiwancenter
 ---
 
 2025-02-14 FAPA LA 提供

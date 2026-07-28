@@ -6,14 +6,14 @@ source_url: http://www.taiwanjustice.net:80/category/column/chen-mao-xiong/
 archive_url: https://web.archive.org/web/20171109043204/http://www.taiwanjustice.net:80/category/column/chen-mao-xiong/
 archive_ts: 20171109043204
 archive_digest: GGDHU42AK6V27OT2HPILZ4CBW34LKS5S
-fetched: 2026-07-26T05:14:38Z
+fetched: 2026-07-26 05:14:38+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
 categories:
-  - chen-mao-xiong
-  - column
+- chen-mao-xiong
+- column
 ---
 
 Home

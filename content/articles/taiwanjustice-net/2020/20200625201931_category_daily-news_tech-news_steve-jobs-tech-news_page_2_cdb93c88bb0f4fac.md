@@ -6,12 +6,12 @@ source_url: https://www.taiwanjustice.net/category/daily-news/tech-news/steve-jo
 archive_url: https://web.archive.org/web/20200625201931/https://www.taiwanjustice.net/category/daily-news/tech-news/steve-jobs-tech-news/page/2/
 archive_ts: 20200625201931
 archive_digest: GBATHOPBDNULHUNRAVZZOWTBSZGVCDRP
-fetched: 2026-07-26T05:23:43Z
+fetched: 2026-07-26 05:23:43+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2011-10-12T22:43:51-07:00
+post_date: 2011-10-12 22:43:51-07:00
 ---
 
 Home

@@ -6,14 +6,14 @@ source_url: https://taiwanjustice.net/panda-express-%E5%85%AC%E7%9B%8A%E6%B4%BB%
 archive_url: https://web.archive.org/web/20250515185506/https://taiwanjustice.net/panda-express-%E5%85%AC%E7%9B%8A%E6%B4%BB%E5%8B%95%EF%BC%8C%E5%8F%B0%E7%BE%8E%E4%BA%BA8-5%E7%B7%9A%E4%B8%8A%E8%A8%82%E9%A4%90%EF%BC%8C%E5%8F%B0%E7%BE%8E%E8%8F%81%E8%8B%B1%E5%8D%94%E6%9C%83write-in-t/
 archive_ts: 20250515185506
 archive_digest: X2VCYWWPUET7F74PE4VNQUJ3ISGJIPWP
-fetched: 2026-07-25T07:35:02Z
+fetched: 2026-07-25 07:35:02+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: article_candidate
-post_date: 2020-08-05T08:34:48-07:00
+post_date: 2020-08-05 08:34:48-07:00
 categories:
-  - taiwaneseamerican
+- taiwaneseamerican
 ---
 
 敬請支持‧歡迎訂閱本報newsletter

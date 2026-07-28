@@ -1,5 +1,5 @@
 ---
-title: Tag: 施凱爾（Keir Starmer）
+title: 'Tag: 施凱爾（Keir Starmer）'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/%E6%96%BD%E5%87%B1%E7%88%BE%EF%BC%88ke
 archive_url: https://web.archive.org/web/20250521212359/https://taiwanjustice.net/tag/%E6%96%BD%E5%87%B1%E7%88%BE%EF%BC%88keir-starmer%EF%BC%89/
 archive_ts: 20250521212359
 archive_digest: NGWA2XJCLTENA4BUXK6GRXBLVZZH2OQG
-fetched: 2026-07-26T10:38:54Z
+fetched: 2026-07-26 10:38:54+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2025-03-20T11:30:30-07:00
+post_date: 2025-03-20 11:30:30-07:00
 ---
 
 Home

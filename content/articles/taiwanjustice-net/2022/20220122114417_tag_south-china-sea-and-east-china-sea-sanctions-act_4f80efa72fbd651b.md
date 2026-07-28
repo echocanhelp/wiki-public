@@ -1,5 +1,5 @@
 ---
-title: Tag: South China Sea and East China Sea Sanctions Act
+title: 'Tag: South China Sea and East China Sea Sanctions Act'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/south-china-sea-and-east-china-sea
 archive_url: https://web.archive.org/web/20220122114417/https://www.taiwanjustice.net/tag/south-china-sea-and-east-china-sea-sanctions-act/
 archive_ts: 20220122114417
 archive_digest: SUIVW5CSVXSFQLUM2F5ECYBFVICTDP44
-fetched: 2026-07-26T07:13:55Z
+fetched: 2026-07-26 07:13:55+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-10-19T18:42:35-07:00
+post_date: 2021-10-19 18:42:35-07:00
 ---
 
 Home

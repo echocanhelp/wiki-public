@@ -6,7 +6,7 @@ source_url: https://taiwanjustice.net/category/column/chen-po-kong/?filter_by=po
 archive_url: https://web.archive.org/web/20250428230706/https://taiwanjustice.net/category/column/chen-po-kong/?filter_by=popular7
 archive_ts: 20250428230706
 archive_digest: DEH64TDHHEXS6WARPLNBAGPORD73X52C
-fetched: 2026-07-28T04:11:38Z
+fetched: 2026-07-28 04:11:38+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant

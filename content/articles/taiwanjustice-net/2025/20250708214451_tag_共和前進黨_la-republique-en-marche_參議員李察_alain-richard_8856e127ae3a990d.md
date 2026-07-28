@@ -1,5 +1,5 @@
 ---
-title: Tag: 共和前進黨（La Republique en Marche）參議員李察（Alain Richard）
+title: 'Tag: 共和前進黨（La Republique en Marche）參議員李察（Alain Richard）'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/%E5%85%B1%E5%92%8C%E5%89%8D%E9%80%B2%E
 archive_url: https://web.archive.org/web/20250708214451/https://taiwanjustice.net/tag/%E5%85%B1%E5%92%8C%E5%89%8D%E9%80%B2%E9%BB%A8%EF%BC%88la-republique-en-marche%EF%BC%89%E5%8F%83%E8%AD%B0%E5%93%A1%E6%9D%8E%E5%AF%9F%EF%BC%88alain-richard%EF%BC%89/
 archive_ts: 20250708214451
 archive_digest: A57AZYOJMOPST7IGSTG7W7KNXDBV6V73
-fetched: 2026-07-26T11:49:06Z
+fetched: 2026-07-26 11:49:06+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-03-19T23:13:17-07:00
+post_date: 2021-03-19 23:13:17-07:00
 ---
 
 Home

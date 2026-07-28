@@ -1,5 +1,5 @@
 ---
-title: Tag: For poking the bear
+title: 'Tag: For poking the bear'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,11 +7,10 @@ source_url: https://taiwanjustice.net/tag/for-poking-the-bear/
 archive_url: https://web.archive.org/web/20250811021408/https://taiwanjustice.net/tag/for-poking-the-bear/
 archive_ts: 20250811021408
 archive_digest: ZZHDMWSYR4BCETHYMBZ7E7X4JQ7RFUEM
-fetched: 2026-07-26T13:11:44Z
+fetched: 2026-07-26 13:11:44+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
 ---
 
 Home

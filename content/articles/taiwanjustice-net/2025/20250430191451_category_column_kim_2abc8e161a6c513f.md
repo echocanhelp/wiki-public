@@ -6,7 +6,7 @@ source_url: https://taiwanjustice.net/category/column/kim/?filter_by=featured
 archive_url: https://web.archive.org/web/20250430191451/https://taiwanjustice.net/category/column/kim/?filter_by=featured
 archive_ts: 20250430191451
 archive_digest: RNJ3Z4DPIULKG2A3XQMRX4M6LOWDLH3U
-fetched: 2026-07-26T06:13:42Z
+fetched: 2026-07-26 06:13:42+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant

@@ -6,12 +6,12 @@ source_url: https://www.taiwanjustice.net/category/videos/newsline/page/2/
 archive_url: https://web.archive.org/web/20200624155515/https://www.taiwanjustice.net/category/videos/newsline/page/2/
 archive_ts: 20200624155515
 archive_digest: DFWUALZOZDTWNSNNBAYCB72VXSWEL6YM
-fetched: 2026-07-26T05:21:54Z
+fetched: 2026-07-26 05:21:54+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2020-06-21T08:23:40-07:00
+post_date: 2020-06-21 08:23:40-07:00
 ---
 
 Home

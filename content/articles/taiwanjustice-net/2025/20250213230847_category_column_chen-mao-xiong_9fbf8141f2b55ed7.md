@@ -6,7 +6,7 @@ source_url: https://taiwanjustice.net/category/column/chen-mao-xiong/?filter_by=
 archive_url: https://web.archive.org/web/20250213230847/https://taiwanjustice.net/category/column/chen-mao-xiong/?filter_by=review_high
 archive_ts: 20250213230847
 archive_digest: 3GQS6R3RHXMER6VQ2FBAOSRRDHIFOF6I
-fetched: 2026-07-26T05:59:51Z
+fetched: 2026-07-26 05:59:51+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant

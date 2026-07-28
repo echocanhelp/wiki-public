@@ -6,7 +6,7 @@ source_url: https://taiwanjustice.net/category/taiwan_history/?filter_by=popular
 archive_url: https://web.archive.org/web/20250209220559/https://taiwanjustice.net/category/taiwan_history/?filter_by=popular7
 archive_ts: 20250209220559
 archive_digest: KERRXVMQ2UZHMWQIBKNYEMFMH7WG2XSC
-fetched: 2026-07-26T05:58:50Z
+fetched: 2026-07-26 05:58:50+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant

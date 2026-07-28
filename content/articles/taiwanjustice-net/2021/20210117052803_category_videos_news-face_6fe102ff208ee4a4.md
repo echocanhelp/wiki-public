@@ -6,7 +6,7 @@ source_url: https://www.taiwanjustice.net/category/videos/news-face/?filter_by=r
 archive_url: https://web.archive.org/web/20210117052803/https://www.taiwanjustice.net/category/videos/news-face/?filter_by=review_high
 archive_ts: 20210117052803
 archive_digest: P4YKPB43RKETVEMMBVXZOSAMUPIM3TWQ
-fetched: 2026-07-26T05:31:15Z
+fetched: 2026-07-26 05:31:15+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant

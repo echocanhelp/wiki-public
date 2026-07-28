@@ -6,7 +6,7 @@ source_url: https://www.taiwanjustice.net/category/taiwaneseamerican/%E6%A5%8A%E
 archive_url: https://web.archive.org/web/20230326062938/https://www.taiwanjustice.net/category/taiwaneseamerican/%E6%A5%8A%E9%81%A0%E8%96%B0%E5%B0%88%E6%AC%84/?filter_by=review_high
 archive_ts: 20230326062938
 archive_digest: XOHF74OGNID7LSBTA4XE3ZEKMDQSPVFI
-fetched: 2026-07-26T05:55:36Z
+fetched: 2026-07-26 05:55:36+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant

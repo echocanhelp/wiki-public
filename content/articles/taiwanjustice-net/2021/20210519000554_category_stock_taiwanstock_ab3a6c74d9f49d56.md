@@ -6,12 +6,12 @@ source_url: https://www.taiwanjustice.net/category/stock/taiwanstock/?filter_by=
 archive_url: https://web.archive.org/web/20210519000554/https://www.taiwanjustice.net/category/stock/taiwanstock/?filter_by=featured
 archive_ts: 20210519000554
 archive_digest: NN33WCIM3HUZPJJA6FSV22WZYJCLSUMZ
-fetched: 2026-07-26T05:34:04Z
+fetched: 2026-07-26 05:34:04+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2021-05-17T19:24:07-07:00
+post_date: 2021-05-17 19:24:07-07:00
 ---
 
 Home

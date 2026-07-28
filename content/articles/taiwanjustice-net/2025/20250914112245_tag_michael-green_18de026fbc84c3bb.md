@@ -1,5 +1,5 @@
 ---
-title: Tag: Michael Green
+title: 'Tag: Michael Green'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,11 +7,10 @@ source_url: https://taiwanjustice.net/tag/michael-green/
 archive_url: https://web.archive.org/web/20250914112245/https://taiwanjustice.net/tag/michael-green/
 archive_ts: 20250914112245
 archive_digest: 3Y6FCL6JGY7TUZCJNSTVSL4ELMWIRP6R
-fetched: 2026-07-26T13:36:55Z
+fetched: 2026-07-26 13:36:55+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
 ---
 
 Home

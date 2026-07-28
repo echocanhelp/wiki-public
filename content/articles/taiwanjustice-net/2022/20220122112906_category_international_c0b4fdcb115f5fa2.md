@@ -6,7 +6,7 @@ source_url: https://www.taiwanjustice.net/category/international/?filter_by=popu
 archive_url: https://web.archive.org/web/20220122112906/https://www.taiwanjustice.net/category/international/?filter_by=popular7
 archive_ts: 20220122112906
 archive_digest: 67MFX7ERAYMDG7YLSXFQ7ZCEPNQJO3QG
-fetched: 2026-07-26T05:38:36Z
+fetched: 2026-07-26 05:38:36+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant

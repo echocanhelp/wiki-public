@@ -1,5 +1,5 @@
 ---
-title: Tag: Linda Thomas-Greenfield
+title: 'Tag: Linda Thomas-Greenfield'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/linda-thomas-greenfield/
 archive_url: https://web.archive.org/web/20210419121535/https://www.taiwanjustice.net/tag/linda-thomas-greenfield/
 archive_ts: 20210419121535
 archive_digest: OZ26TX26RXFUWVXAUYHW6NW3DV23PVQM
-fetched: 2026-07-26T06:37:18Z
+fetched: 2026-07-26 06:37:18+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-02-23T12:10:25-08:00
+post_date: 2021-02-23 12:10:25-08:00
 ---
 
 Home

@@ -6,7 +6,7 @@ source_url: https://taiwanjustice.net/category/internatinal/world-culture/?filte
 archive_url: https://web.archive.org/web/20250428230218/https://taiwanjustice.net/category/internatinal/world-culture/?filter_by=review_high
 archive_ts: 20250428230218
 archive_digest: U4WWHAQLM3U7VPLZWG2SH4BVGJHNUMFI
-fetched: 2026-07-26T06:13:07Z
+fetched: 2026-07-26 06:13:07+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant

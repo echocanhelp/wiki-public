@@ -1,5 +1,5 @@
 ---
-title: Tag: 普萊斯納（Jonas Parello-Plesner）
+title: 'Tag: 普萊斯納（Jonas Parello-Plesner）'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/%E6%99%AE%E8%90%8A%E6%96%AF%E7%B4%8D%E
 archive_url: https://web.archive.org/web/20250910040530/https://taiwanjustice.net/tag/%E6%99%AE%E8%90%8A%E6%96%AF%E7%B4%8D%EF%BC%88jonas-parello-plesner%EF%BC%89/
 archive_ts: 20250910040530
 archive_digest: N7KQUJOH3BFAZEOX2JHOWQJ4QNMZWV6L
-fetched: 2026-07-26T13:32:15Z
+fetched: 2026-07-26 13:32:15+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-07-28T19:07:20-07:00
+post_date: 2022-07-28 19:07:20-07:00
 ---
 
 Home

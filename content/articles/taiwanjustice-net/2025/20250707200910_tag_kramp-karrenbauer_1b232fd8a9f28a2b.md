@@ -1,5 +1,5 @@
 ---
-title: Tag: Kramp-Karrenbauer
+title: 'Tag: Kramp-Karrenbauer'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/kramp-karrenbauer/
 archive_url: https://web.archive.org/web/20250707200910/https://taiwanjustice.net/tag/kramp-karrenbauer/
 archive_ts: 20250707200910
 archive_digest: GP5WKBPMNIQI3ASIZAWGOBNFJUTGKKL3
-fetched: 2026-07-26T11:27:47Z
+fetched: 2026-07-26 11:27:47+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-03-13T19:51:57-08:00
+post_date: 2021-03-13 19:51:57-08:00
 ---
 
 Home

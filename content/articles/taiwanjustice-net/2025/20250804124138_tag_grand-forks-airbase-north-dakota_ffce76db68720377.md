@@ -1,5 +1,5 @@
 ---
-title: Tag: grand forks airbase north dakota
+title: 'Tag: grand forks airbase north dakota'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/grand-forks-airbase-north-dakota/
 archive_url: https://web.archive.org/web/20250804124138/https://taiwanjustice.net/tag/grand-forks-airbase-north-dakota/
 archive_ts: 20250804124138
 archive_digest: WFPDHSIDLKE67VGN2UX76S6WGWCUEWCQ
-fetched: 2026-07-26T12:15:17Z
+fetched: 2026-07-26 12:15:17+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-07-01T19:29:41-07:00
+post_date: 2022-07-01 19:29:41-07:00
 ---
 
 Home

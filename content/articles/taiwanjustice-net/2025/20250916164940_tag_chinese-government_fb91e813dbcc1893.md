@@ -1,5 +1,5 @@
 ---
-title: Tag: Chinese Government
+title: 'Tag: Chinese Government'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,11 +7,10 @@ source_url: https://taiwanjustice.net/tag/chinese-government/
 archive_url: https://web.archive.org/web/20250916164940/https://taiwanjustice.net/tag/chinese-government/
 archive_ts: 20250916164940
 archive_digest: VBXB5OLK43P3N37S6PAXV4OJ4PDTEZKI
-fetched: 2026-07-26T13:54:34Z
+fetched: 2026-07-26 13:54:34+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
 ---
 
 Home

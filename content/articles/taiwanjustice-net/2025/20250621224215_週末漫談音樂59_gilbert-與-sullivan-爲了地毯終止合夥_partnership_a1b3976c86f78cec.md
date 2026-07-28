@@ -6,14 +6,14 @@ source_url: https://taiwanjustice.net/%E3%80%90%E9%80%B1%E6%9C%AB%E6%BC%AB%E8%AB
 archive_url: https://web.archive.org/web/20250621224215/https://taiwanjustice.net/%E3%80%90%E9%80%B1%E6%9C%AB%E6%BC%AB%E8%AB%87%E9%9F%B3%E6%A8%8259%E3%80%91gilbert-%E8%88%87-sullivan-%E7%88%B2%E4%BA%86%E5%9C%B0%E6%AF%AF%E7%B5%82%E6%AD%A2%E5%90%88%E5%A4%A5%EF%BC%88partnership/
 archive_ts: 20250621224215
 archive_digest: W7T3LUYVETHAAK4IXX6QXWDYRUQ7HLWI
-fetched: 2026-07-25T16:18:26Z
+fetched: 2026-07-25 16:18:26+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: article_candidate
-post_date: 2021-03-20T01:42:00-07:00
+post_date: 2021-03-20 01:42:00-07:00
 categories:
-  - classicmusic
+- classicmusic
 ---
 
 (2021.03.20)

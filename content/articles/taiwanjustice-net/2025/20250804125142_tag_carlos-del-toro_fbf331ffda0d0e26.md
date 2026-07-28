@@ -1,5 +1,5 @@
 ---
-title: Tag: Carlos Del Toro
+title: 'Tag: Carlos Del Toro'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/carlos-del-toro/
 archive_url: https://web.archive.org/web/20250804125142/https://taiwanjustice.net/tag/carlos-del-toro/
 archive_ts: 20250804125142
 archive_digest: KJOSIHU6CB3OX6G6MPKSNHYHHFWP5FDC
-fetched: 2026-07-26T12:15:47Z
+fetched: 2026-07-26 12:15:47+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2024-04-09T21:10:22-07:00
+post_date: 2024-04-09 21:10:22-07:00
 ---
 
 Home

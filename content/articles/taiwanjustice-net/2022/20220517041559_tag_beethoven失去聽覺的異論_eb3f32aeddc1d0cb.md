@@ -1,5 +1,5 @@
 ---
-title: Tag: Beethoven失去聽覺的異論
+title: 'Tag: Beethoven失去聽覺的異論'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/beethoven%E5%A4%B1%E5%8E%BB%E8%81%
 archive_url: https://web.archive.org/web/20220517041559/https://www.taiwanjustice.net/tag/beethoven%E5%A4%B1%E5%8E%BB%E8%81%BD%E8%A6%BA%E7%9A%84%E7%95%B0%E8%AB%96/
 archive_ts: 20220517041559
 archive_digest: 5BLRXNFZ72M7D7EUQBLZQUYQCIHBIF73
-fetched: 2026-07-26T07:17:18Z
+fetched: 2026-07-26 07:17:18+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2020-04-04T01:49:00-07:00
+post_date: 2020-04-04 01:49:00-07:00
 ---
 
 Home

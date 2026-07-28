@@ -6,7 +6,7 @@ source_url: https://taiwanjustice.net/category/column/sopt-light-article/?filter
 archive_url: https://web.archive.org/web/20250417215216/https://taiwanjustice.net/category/column/sopt-light-article/?filter_by=review_high
 archive_ts: 20250417215216
 archive_digest: 4VNPRJEXD7OQXMEFGBAXRUZYJCXMJ3ZD
-fetched: 2026-07-26T06:05:40Z
+fetched: 2026-07-26 06:05:40+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant

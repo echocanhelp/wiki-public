@@ -6,15 +6,15 @@ source_url: http://www.taiwanjustice.net:80/category/videos/taiwan-go-ahead/
 archive_url: https://web.archive.org/web/20171109042244/http://www.taiwanjustice.net:80/category/videos/taiwan-go-ahead/
 archive_ts: 20171109042244
 archive_digest: JWMS6GOQ2FRPAAXY3Z2HCKIZHJNBF667
-fetched: 2026-07-26T05:14:05Z
+fetched: 2026-07-26 05:14:05+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
 categories:
-  - taiwan-go-ahead
-  - taiwan-news
-  - videos
+- taiwan-go-ahead
+- taiwan-news
+- videos
 ---
 
 Home

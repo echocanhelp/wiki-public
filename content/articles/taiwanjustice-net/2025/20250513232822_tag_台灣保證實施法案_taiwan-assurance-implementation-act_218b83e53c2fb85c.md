@@ -1,5 +1,5 @@
 ---
-title: Tag: 「台灣保證實施法案」（Taiwan Assurance Implementation Act）
+title: 'Tag: 「台灣保證實施法案」（Taiwan Assurance Implementation Act）'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/%E3%80%8C%E5%8F%B0%E7%81%A3%E4%BF%9D%E
 archive_url: https://web.archive.org/web/20250513232822/https://taiwanjustice.net/tag/%E3%80%8C%E5%8F%B0%E7%81%A3%E4%BF%9D%E8%AD%89%E5%AF%A6%E6%96%BD%E6%B3%95%E6%A1%88%E3%80%8D%EF%BC%88taiwan-assurance-implementation-act%EF%BC%89/
 archive_ts: 20250513232822
 archive_digest: 3NZKARXNGRMOFSCBYMDRL5DPKQUKRSQ5
-fetched: 2026-07-26T10:23:06Z
+fetched: 2026-07-26 10:23:06+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2025-03-27T21:24:30-07:00
+post_date: 2025-03-27 21:24:30-07:00
 ---
 
 Home

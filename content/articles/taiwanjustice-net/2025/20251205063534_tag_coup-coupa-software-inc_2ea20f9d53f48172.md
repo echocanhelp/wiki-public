@@ -1,5 +1,5 @@
 ---
-title: Tag: COUP ( Coupa Software Inc. )
+title: 'Tag: COUP ( Coupa Software Inc. )'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/coup-coupa-software-inc/
 archive_url: https://web.archive.org/web/20251205063534/https://taiwanjustice.net/tag/coup-coupa-software-inc/
 archive_ts: 20251205063534
 archive_digest: OE6BSRZH2PNQRGXHNGAMIPAOLSFSZPHG
-fetched: 2026-07-26T15:07:25Z
+fetched: 2026-07-26 15:07:25+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2020-04-26T11:23:43-07:00
+post_date: 2020-04-26 11:23:43-07:00
 ---
 
 Home

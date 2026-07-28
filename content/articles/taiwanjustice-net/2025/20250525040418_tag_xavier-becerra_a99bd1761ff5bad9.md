@@ -1,5 +1,5 @@
 ---
-title: Tag: Xavier Becerra
+title: 'Tag: Xavier Becerra'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/xavier-becerra/
 archive_url: https://web.archive.org/web/20250525040418/https://taiwanjustice.net/tag/xavier-becerra/
 archive_ts: 20250525040418
 archive_digest: B3I4ZSEEFIINR7N7W7KET7LGIH4HMNWS
-fetched: 2026-07-26T10:47:03Z
+fetched: 2026-07-26 10:47:03+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-03-18T19:46:32-07:00
+post_date: 2021-03-18 19:46:32-07:00
 ---
 
 Home

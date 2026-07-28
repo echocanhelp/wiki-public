@@ -6,12 +6,12 @@ source_url: https://www.taiwanjustice.net/category/internatinal/usa_news/page/3/
 archive_url: https://web.archive.org/web/20220809222106/https://www.taiwanjustice.net/category/internatinal/usa_news/page/3/?filter_by=random_posts
 archive_ts: 20220809222106
 archive_digest: YVFRMOKXQCUCOXV6AG7HBIIZUFL3QTQD
-fetched: 2026-07-28T04:09:54Z
+fetched: 2026-07-28 04:09:54+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2021-11-21T17:12:15-08:00
+post_date: 2021-11-21 17:12:15-08:00
 ---
 
 Home

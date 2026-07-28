@@ -1,5 +1,5 @@
 ---
-title: Tag: (Patrick Chou) 周白博士
+title: 'Tag: (Patrick Chou) 周白博士'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,11 +7,10 @@ source_url: https://taiwanjustice.net/tag/patrick-chou-%e5%91%a8%e7%99%bd%e5%8d%
 archive_url: https://web.archive.org/web/20250213224137/https://taiwanjustice.net/tag/patrick-chou-%e5%91%a8%e7%99%bd%e5%8d%9a%e5%a3%ab/
 archive_ts: 20250213224137
 archive_digest: DTY3JMENNF7UHWVY7VPHNEROLMLAH5N5
-fetched: 2026-07-26T09:24:34Z
+fetched: 2026-07-26 09:24:34+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
 ---
 
 Home

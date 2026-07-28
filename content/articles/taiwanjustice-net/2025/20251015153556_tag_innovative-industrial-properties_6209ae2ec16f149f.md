@@ -1,5 +1,5 @@
 ---
-title: Tag: Innovative Industrial Properties
+title: 'Tag: Innovative Industrial Properties'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/innovative-industrial-properties/
 archive_url: https://web.archive.org/web/20251015153556/https://taiwanjustice.net/tag/innovative-industrial-properties/
 archive_ts: 20251015153556
 archive_digest: BP7FEXQJ4FTNQFZ67N4TXF3T6FTCKH4P
-fetched: 2026-07-26T14:25:49Z
+fetched: 2026-07-26 14:25:49+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2020-02-19T15:15:19-08:00
+post_date: 2020-02-19 15:15:19-08:00
 ---
 
 Home

@@ -1,5 +1,5 @@
 ---
-title: Tag: 義大利前總統外交顧問史德方尼尼（Stefano Stefanini）
+title: 'Tag: 義大利前總統外交顧問史德方尼尼（Stefano Stefanini）'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/%E7%BE%A9%E5%A4%A7%E5%88%A9%E5%89%8D%E
 archive_url: https://web.archive.org/web/20250808144723/https://taiwanjustice.net/tag/%E7%BE%A9%E5%A4%A7%E5%88%A9%E5%89%8D%E7%B8%BD%E7%B5%B1%E5%A4%96%E4%BA%A4%E9%A1%A7%E5%95%8F%E5%8F%B2%E5%BE%B7%E6%96%B9%E5%B0%BC%E5%B0%BC%EF%BC%88stefano-stefanini%EF%BC%89/
 archive_ts: 20250808144723
 archive_digest: 5RFJY3SXR6UY6IFJVVKF7FGEI3AZGH6Z
-fetched: 2026-07-26T12:58:56Z
+fetched: 2026-07-26 12:58:56+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-07-19T09:44:37-07:00
+post_date: 2022-07-19 09:44:37-07:00
 ---
 
 Home

@@ -1,5 +1,5 @@
 ---
-title: Tag: Taiwanese American Archives
+title: 'Tag: Taiwanese American Archives'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/taiwanese-american-archives/
 archive_url: https://web.archive.org/web/20210920142459/https://www.taiwanjustice.net/tag/taiwanese-american-archives/
 archive_ts: 20210920142459
 archive_digest: Z2MWMHOZSUP2SAC5XCBGQHFMB2LBLYFU
-fetched: 2026-07-26T06:54:20Z
+fetched: 2026-07-26 06:54:20+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2020-09-30T14:15:21-07:00
+post_date: 2020-09-30 14:15:21-07:00
 ---
 
 Home

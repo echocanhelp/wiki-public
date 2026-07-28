@@ -1,5 +1,5 @@
 ---
-title: Tag: Taiwan’s elections
+title: 'Tag: Taiwan’s elections'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,11 +7,10 @@ source_url: https://taiwanjustice.net/tag/taiwans-elections/
 archive_url: https://web.archive.org/web/20250915145102/https://taiwanjustice.net/tag/taiwans-elections/
 archive_ts: 20250915145102
 archive_digest: KG7DVRQ3NXDUTEE3XBQGBZUWHSM7A5OA
-fetched: 2026-07-26T13:46:36Z
+fetched: 2026-07-26 13:46:36+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
 ---
 
 Home

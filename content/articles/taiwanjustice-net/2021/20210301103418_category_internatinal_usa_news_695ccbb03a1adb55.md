@@ -6,7 +6,7 @@ source_url: https://www.taiwanjustice.net/category/internatinal/usa_news/?filter
 archive_url: https://web.archive.org/web/20210301103418/https://www.taiwanjustice.net/category/internatinal/usa_news/?filter_by=review_high
 archive_ts: 20210301103418
 archive_digest: BYDZTWK5LQVCQVXIASLIDSJKNAQNXZXK
-fetched: 2026-07-26T05:33:06Z
+fetched: 2026-07-26 05:33:06+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant

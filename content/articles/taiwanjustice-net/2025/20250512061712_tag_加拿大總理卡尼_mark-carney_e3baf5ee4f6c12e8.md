@@ -1,5 +1,5 @@
 ---
-title: Tag: 加拿大總理卡尼（Mark Carney）
+title: 'Tag: 加拿大總理卡尼（Mark Carney）'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%B8%BD%E
 archive_url: https://web.archive.org/web/20250512061712/https://taiwanjustice.net/tag/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%B8%BD%E7%90%86%E5%8D%A1%E5%B0%BC%EF%BC%88mark-carney%EF%BC%89/
 archive_ts: 20250512061712
 archive_digest: GXRIQJFND4HXTFW3GD7CW34ZFAZUBOWL
-fetched: 2026-07-26T10:16:12Z
+fetched: 2026-07-26 10:16:12+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2025-04-29T21:20:49-07:00
+post_date: 2025-04-29 21:20:49-07:00
 ---
 
 Home

@@ -6,7 +6,7 @@ source_url: https://www.taiwanjustice.net/category/tech-news/?filter_by=popular7
 archive_url: https://web.archive.org/web/20211205050608/https://www.taiwanjustice.net/category/tech-news/?filter_by=popular7
 archive_ts: 20211205050608
 archive_digest: ABGES4XGSTW4LGNTWXC5VDBJNIZLAOJQ
-fetched: 2026-07-26T05:37:49Z
+fetched: 2026-07-26 05:37:49+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant

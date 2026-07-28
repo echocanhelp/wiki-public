@@ -6,7 +6,7 @@ source_url: https://taiwanjustice.net/category/internatinal/world-history/?filte
 archive_url: https://web.archive.org/web/20250420093914/https://taiwanjustice.net/category/internatinal/world-history/?filter_by=popular7
 archive_ts: 20250420093914
 archive_digest: OVTGACX6SNITF6GWLAHWYFGUSTSH5XSD
-fetched: 2026-07-26T06:07:49Z
+fetched: 2026-07-26 06:07:49+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant

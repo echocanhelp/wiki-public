@@ -6,12 +6,12 @@ source_url: https://www.taiwanjustice.net/category/opinion/page/2/
 archive_url: https://web.archive.org/web/20200625111228/https://www.taiwanjustice.net/category/opinion/page/2/
 archive_ts: 20200625111228
 archive_digest: 4ZZNOG54X3KX6RSOM4J3DMON4JAS4ALM
-fetched: 2026-07-28T04:08:38Z
+fetched: 2026-07-28 04:08:38+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2020-06-24T19:39:37-07:00
+post_date: 2020-06-24 19:39:37-07:00
 ---
 
 Home

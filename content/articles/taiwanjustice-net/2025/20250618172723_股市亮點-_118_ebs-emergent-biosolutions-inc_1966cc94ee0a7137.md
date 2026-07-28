@@ -6,14 +6,14 @@ source_url: https://taiwanjustice.net/%E8%82%A1%E5%B8%82%E4%BA%AE%E9%BB%9E-%EF%B
 archive_url: https://web.archive.org/web/20250618172723/https://taiwanjustice.net/%E8%82%A1%E5%B8%82%E4%BA%AE%E9%BB%9E-%EF%BC%88118%EF%BC%89ebs-emergent-biosolutions-inc/
 archive_ts: 20250618172723
 archive_digest: BVONDG3DNH3L2GRFRBOJYCYVY2EUD3VE
-fetched: 2026-07-28T03:47:34Z
+fetched: 2026-07-28 03:47:34+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: article_candidate
-post_date: 2020-04-27T06:45:45-07:00
+post_date: 2020-04-27 06:45:45-07:00
 categories:
-  - stock
+- stock
 ---
 
 敬請支持‧歡迎訂閱本報newsletter

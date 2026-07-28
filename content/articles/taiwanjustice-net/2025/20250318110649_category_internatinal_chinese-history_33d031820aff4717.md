@@ -6,7 +6,7 @@ source_url: https://taiwanjustice.net/category/internatinal/chinese-history/?fil
 archive_url: https://web.archive.org/web/20250318110649/https://taiwanjustice.net/category/internatinal/chinese-history/?filter_by=popular7
 archive_ts: 20250318110649
 archive_digest: UU2SOYI3O6GQR7ETSAP2TBYPAT343IRT
-fetched: 2026-07-26T06:01:46Z
+fetched: 2026-07-26 06:01:46+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant

@@ -6,7 +6,7 @@ source_url: https://taiwanjustice.net/category/column/chen-view/?filter_by=popul
 archive_url: https://web.archive.org/web/20250328132930/https://taiwanjustice.net/category/column/chen-view/?filter_by=popular7
 archive_ts: 20250328132930
 archive_digest: 74MPYOJIBRPM5ONPYGATKVSY7FUGV6RN
-fetched: 2026-07-26T06:04:33Z
+fetched: 2026-07-26 06:04:33+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant

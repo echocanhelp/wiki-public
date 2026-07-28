@@ -6,16 +6,16 @@ source_url: https://taiwanjustice.net/im-taiwanese%EF%BC%81%E5%8A%A0%E6%8B%BF%E5
 archive_url: https://web.archive.org/web/20251108031325/https://taiwanjustice.net/im-taiwanese%EF%BC%81%E5%8A%A0%E6%8B%BF%E5%A4%A7%E4%BA%94%E5%B9%B4%E4%B8%80%E5%BA%A6%E4%BA%BA%E5%8F%A3%E6%99%AE%E6%9F%A5-%E9%A6%96%E5%88%97%E5%8F%B0%E7%81%A3%E6%97%8F%E8%A3%94/
 archive_ts: 20251108031325
 archive_digest: BLDYPABGYBGJMIBCD4SSCCUB34RZUKZQ
-fetched: 2026-07-25T21:49:36Z
+fetched: 2026-07-25 21:49:36+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: article_candidate
-post_date: 2021-05-01T18:18:58-07:00
+post_date: 2021-05-01 18:18:58-07:00
 categories:
-  - international
-  - taiwaneseamerican
-  - internatinal
+- international
+- taiwaneseamerican
+- internatinal
 ---
 
 敬請支持‧歡迎訂閱本報newsletter

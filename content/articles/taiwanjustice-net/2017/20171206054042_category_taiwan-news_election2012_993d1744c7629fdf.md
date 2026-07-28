@@ -6,12 +6,12 @@ source_url: http://www.taiwanjustice.net:80/category/taiwan-news/election2012/
 archive_url: https://web.archive.org/web/20171206054042/http://www.taiwanjustice.net:80/category/taiwan-news/election2012/
 archive_ts: 20171206054042
 archive_digest: X4LFARF4VRFOOEM3RXJC6JKNAQM4FQ3Q
-fetched: 2026-07-26T05:17:50Z
+fetched: 2026-07-26 05:17:50+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2016-06-14T19:06:17+00:00
+post_date: 2016-06-14 19:06:17+00:00
 ---
 
 Home

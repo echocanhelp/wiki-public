@@ -1,5 +1,5 @@
 ---
-title: Tag: Government Of The People S Republic Of China
+title: 'Tag: Government Of The People S Republic Of China'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,11 +7,10 @@ source_url: https://taiwanjustice.net/tag/government-of-the-people-s-republic-of
 archive_url: https://web.archive.org/web/20250916192508/https://taiwanjustice.net/tag/government-of-the-people-s-republic-of-china/
 archive_ts: 20250916192508
 archive_digest: NLTEQ5KVOHH4TQOCAPJCKQQHJQTXWTK4
-fetched: 2026-07-26T13:58:11Z
+fetched: 2026-07-26 13:58:11+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
 ---
 
 Home

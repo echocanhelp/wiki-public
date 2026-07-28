@@ -6,15 +6,15 @@ source_url: https://www.taiwanjustice.net/2013/12/30/%E5%AE%89%E5%BE%B7%E7%83%88
 archive_url: https://web.archive.org/web/20230326070502/https://www.taiwanjustice.net/2013/12/30/%E5%AE%89%E5%BE%B7%E7%83%88%E7%91%9E%E6%AD%90-andre-rieu-%E8%81%96%E8%AA%95%E7%92%B0%E9%81%8A%E4%B8%96%E7%95%8C-christmas-around1hr2841mn-%E2%97%8Eyoutube/
 archive_ts: 20230326070502
 archive_digest: NC2WJMJJHEVELC4WKJEEH3X2E6VFJYND
-fetched: 2026-07-27T07:23:08Z
+fetched: 2026-07-27 07:23:08+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: other
-post_date: 2013-12-30T12:52:30-08:00
+post_date: 2013-12-30 12:52:30-08:00
 categories:
-  - sopt-light-article
-  - world-culture
+- sopt-light-article
+- world-culture
 ---
 
 敬請支持‧歡迎訂閱本報newsletter

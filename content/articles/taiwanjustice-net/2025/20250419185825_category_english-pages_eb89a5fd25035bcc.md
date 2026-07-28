@@ -6,7 +6,7 @@ source_url: https://taiwanjustice.net/category/english-pages/?filter_by=featured
 archive_url: https://web.archive.org/web/20250419185825/https://taiwanjustice.net/category/english-pages/?filter_by=featured
 archive_ts: 20250419185825
 archive_digest: R4PF3XQKTFK4BIX2AAKK3BXPUPGAUM5V
-fetched: 2026-07-26T06:06:45Z
+fetched: 2026-07-26 06:06:45+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant

@@ -1,5 +1,5 @@
 ---
-title: Tag: 「無國界記者組織」（Reporters sans frontières，RSF）
+title: 'Tag: 「無國界記者組織」（Reporters sans frontières，RSF）'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/%E3%80%8C%E7%84%A1%E5%9C%8B%E7%95%
 archive_url: https://web.archive.org/web/20220701170425/https://www.taiwanjustice.net/tag/%E3%80%8C%E7%84%A1%E5%9C%8B%E7%95%8C%E8%A8%98%E8%80%85%E7%B5%84%E7%B9%94%E3%80%8D%EF%BC%88reporters-sans-frontieres%EF%BC%8Crsf%EF%BC%89/
 archive_ts: 20220701170425
 archive_digest: XTBOVS3P24PLJP3UTKQI5OKVFIY6QA2D
-fetched: 2026-07-26T07:53:03Z
+fetched: 2026-07-26 07:53:03+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-05-13T18:41:55-07:00
+post_date: 2022-05-13 18:41:55-07:00
 ---
 
 Home

@@ -6,17 +6,17 @@ source_url: https://taiwanjustice.net/is-taiwan-already-an-independent-nation%e8
 archive_url: https://web.archive.org/web/20250219153226/https://taiwanjustice.net/is-taiwan-already-an-independent-nation%e8%8b%b1%e6%bc%a2%e5%b0%8d%e7%85%a7%e2%97%8e%e7%8d%a8%e5%82%b2%e6%9d%91%e5%a4%ab/
 archive_ts: 20250219153226
 archive_digest: 74EZLSRQJXIBJZH27DBH2WP5TC6DUCA6
-fetched: 2026-07-25T01:20:00Z
+fetched: 2026-07-25 01:20:00+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: en
 cdx_class: article_candidate
-post_date: 2020-02-20T21:55:25-08:00
+post_date: 2020-02-20 21:55:25-08:00
 categories:
-  - opinion
-  - editorial
-  - column
-  - sopt-light-article
+- opinion
+- editorial
+- column
+- sopt-light-article
 ---
 
 During BBC’s interview on January 16, 2020, President Tsai Ing-wen told the reporter, John Sudworth, “Taiwan does not have to declare independence because the country is already an independent nation.”, she also added “We are an independent country already and we call ourselves the Republic of China, Taiwan.”

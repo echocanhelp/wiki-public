@@ -1,5 +1,5 @@
 ---
-title: Tag: Strengthen U.S.-Taiwan Economic Cooperation
+title: 'Tag: Strengthen U.S.-Taiwan Economic Cooperation'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,11 +7,10 @@ source_url: https://taiwanjustice.net/tag/strengthen-u-s-taiwan-economic-coopera
 archive_url: https://web.archive.org/web/20250212073326/https://taiwanjustice.net/tag/strengthen-u-s-taiwan-economic-cooperation/
 archive_ts: 20250212073326
 archive_digest: ELYNSDYGQMUFOXEIDTKYBEMXXYHZQACQ
-fetched: 2026-07-26T09:20:03Z
+fetched: 2026-07-26 09:20:03+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
 ---
 
 Home

@@ -1,21 +1,21 @@
 ---
-title: Global Storytelling: Narrating Childhoods in Taiwan 全球說故事：敘述台灣童年
+title: 'Global Storytelling: Narrating Childhoods in Taiwan 全球說故事：敘述台灣童年'
 type: article
 domain: taiwanjustice.net
 source_url: https://taiwanjustice.net/global-storytelling-narrating-childhoods-in-taiwan-%E5%85%A8%E7%90%83%E8%AA%AA%E6%95%85%E4%BA%8B%EF%BC%9A%E6%95%98%E8%BF%B0%E5%8F%B0%E7%81%A3%E7%AB%A5%E5%B9%B4/
 archive_url: https://web.archive.org/web/20250425132048/https://taiwanjustice.net/global-storytelling-narrating-childhoods-in-taiwan-%E5%85%A8%E7%90%83%E8%AA%AA%E6%95%85%E4%BA%8B%EF%BC%9A%E6%95%98%E8%BF%B0%E5%8F%B0%E7%81%A3%E7%AB%A5%E5%B9%B4/
 archive_ts: 20250425132048
 archive_digest: 57M25CQSANP72F4LBAIOAVNHIBL5IJHB
-fetched: 2026-07-25T03:23:22Z
+fetched: 2026-07-25 03:23:22+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: en
 cdx_class: article_candidate
-post_date: 2023-02-15T17:00:24-08:00
+post_date: 2023-02-15 17:00:24-08:00
 categories:
-  - usa
-  - taiwaneseamerican
-  - culture
+- usa
+- taiwaneseamerican
+- culture
 ---
 
 Center for Taiwan Studies “CTS”, UC Santa Barbara

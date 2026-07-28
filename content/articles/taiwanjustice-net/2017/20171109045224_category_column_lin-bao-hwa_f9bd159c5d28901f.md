@@ -6,14 +6,14 @@ source_url: http://www.taiwanjustice.net:80/category/column/lin-bao-hwa/
 archive_url: https://web.archive.org/web/20171109045224/http://www.taiwanjustice.net:80/category/column/lin-bao-hwa/
 archive_ts: 20171109045224
 archive_digest: KAU2VN76IAWVAR5RJPPZ26UDXMU6FTJO
-fetched: 2026-07-26T05:16:06Z
+fetched: 2026-07-26 05:16:06+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
 categories:
-  - lin-bao-hwa
-  - column
+- lin-bao-hwa
+- column
 ---
 
 Home

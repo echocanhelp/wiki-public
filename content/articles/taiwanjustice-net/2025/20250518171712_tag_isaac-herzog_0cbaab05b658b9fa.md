@@ -1,5 +1,5 @@
 ---
-title: Tag: Isaac Herzog
+title: 'Tag: Isaac Herzog'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/isaac-herzog/
 archive_url: https://web.archive.org/web/20250518171712/https://taiwanjustice.net/tag/isaac-herzog/
 archive_ts: 20250518171712
 archive_digest: ZYX5WKJKBROOSF6OHEQAQ26BLJKBZ5TE
-fetched: 2026-07-26T10:31:59Z
+fetched: 2026-07-26 10:31:59+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2023-11-27T18:42:24-08:00
+post_date: 2023-11-27 18:42:24-08:00
 ---
 
 Home

@@ -6,17 +6,17 @@ source_url: https://taiwanjustice.net/%E8%8F%AF%E7%88%BE%E8%A1%97%E6%97%A5%E5%A0
 archive_url: https://web.archive.org/web/20250328163536/https://taiwanjustice.net/%E8%8F%AF%E7%88%BE%E8%A1%97%E6%97%A5%E5%A0%B1%E8%A8%98%E8%80%85evan-gershkovich%E8%A2%AB%E6%8E%A7%E6%9B%BFcia%E6%83%85%E8%92%90-%E9%81%AD%E4%BF%84%E8%B5%B7%E8%A8%B4%E9%80%81%E5%AF%A9/
 archive_ts: 20250328163536
 archive_digest: R67F5A7WP6CXGGOFWK5MBMDP3PHY655D
-fetched: 2026-07-25T02:21:45Z
+fetched: 2026-07-25 02:21:45+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: article_candidate
-post_date: 2024-06-13T21:10:55-07:00
+post_date: 2024-06-13 21:10:55-07:00
 categories:
-  - usa
-  - internatinal
-  - world-history
-  - usa_news
+- usa
+- internatinal
+- world-history
+- usa_news
 ---
 
 （中央社莫斯科13日綜合外電報導）俄羅斯檢方認定美國「華爾街日報」記者格什科維奇替美國中央情報局蒐集一座俄國戰車工廠的資訊，今天將他的案件送交法庭；華爾街日報和白宮都駁斥此事為一場騙局。

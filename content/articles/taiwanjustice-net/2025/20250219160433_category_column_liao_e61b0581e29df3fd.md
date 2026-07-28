@@ -6,12 +6,12 @@ source_url: https://taiwanjustice.net/category/column/liao/?filter_by=featured
 archive_url: https://web.archive.org/web/20250219160433/https://taiwanjustice.net/category/column/liao/?filter_by=featured
 archive_ts: 20250219160433
 archive_digest: VNKG4SAKM62VJ3CPEMUFA5Y72UQOMHOC
-fetched: 2026-07-26T06:00:54Z
+fetched: 2026-07-26 06:00:54+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
-post_date: 2024-10-22T21:03:56-07:00
+post_date: 2024-10-22 21:03:56-07:00
 ---
 
 Home

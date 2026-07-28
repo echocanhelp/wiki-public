@@ -6,18 +6,18 @@ source_url: https://taiwanjustice.net/theranos-%E6%96%B0%E5%89%B5%E5%A4%A7%E9%A8
 archive_url: https://web.archive.org/web/20250917090439/https://taiwanjustice.net/theranos-%E6%96%B0%E5%89%B5%E5%A4%A7%E9%A8%99%E5%B1%80-elizabeth-holmes%E5%88%A4%E5%88%9111-25%E5%B9%B4/
 archive_ts: 20250917090439
 archive_digest: A6L5BDY4VOSGYJXYAG7IA3VHDRWNVNZH
-fetched: 2026-07-25T19:33:02Z
+fetched: 2026-07-25 19:33:02+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: article_candidate
-post_date: 2022-11-18T21:28:47-08:00
+post_date: 2022-11-18 21:28:47-08:00
 categories:
-  - usa
-  - internatinal
-  - usa_news
-  - vanity
-  - tech-news
+- usa
+- internatinal
+- usa_news
+- vanity
+- tech-news
 ---
 
 （中央社加州聖荷西18日綜合外電報導）美國生技新創公司Theranos創辦人霍姆斯（Elizabeth Holmes）涉及「滴血驗病」詐欺案，今天被判刑11.25年。38歲的她一度被視為年輕有為的矽谷傳奇，如今徹底跌落神壇。

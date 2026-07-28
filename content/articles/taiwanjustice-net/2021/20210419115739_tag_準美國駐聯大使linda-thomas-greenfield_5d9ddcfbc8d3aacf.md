@@ -1,5 +1,5 @@
 ---
-title: Tag: 準美國駐聯大使Linda Thomas-Greenfield
+title: 'Tag: 準美國駐聯大使Linda Thomas-Greenfield'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/%E6%BA%96%E7%BE%8E%E5%9C%8B%E9%A7%
 archive_url: https://web.archive.org/web/20210419115739/https://www.taiwanjustice.net/tag/%E6%BA%96%E7%BE%8E%E5%9C%8B%E9%A7%90%E8%81%AF%E5%A4%A7%E4%BD%BFlinda-thomas-greenfield/
 archive_ts: 20210419115739
 archive_digest: 7ZNHT335XANVPHMQXZFR2NQ54JDNAXIG
-fetched: 2026-07-26T06:36:52Z
+fetched: 2026-07-26 06:36:52+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-01-27T14:24:03-08:00
+post_date: 2021-01-27 14:24:03-08:00
 ---
 
 Home

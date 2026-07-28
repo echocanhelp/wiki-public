@@ -6,14 +6,14 @@ source_url: https://taiwanjustice.net/%E8%82%A1%E5%B8%82%E4%BA%AE%E9%BB%9E-%EF%B
 archive_url: https://web.archive.org/web/20260118233952/https://taiwanjustice.net/%E8%82%A1%E5%B8%82%E4%BA%AE%E9%BB%9E-%EF%BC%88139%EF%BC%89amd-advanced-micro-devices-inc/
 archive_ts: 20260118233952
 archive_digest: B5AUGXPTNAJC6UZLGBSVXNH3JMIN6LYT
-fetched: 2026-07-26T02:59:31Z
+fetched: 2026-07-26 02:59:31+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: article_candidate
-post_date: 2020-10-02T17:18:23-07:00
+post_date: 2020-10-02 17:18:23-07:00
 categories:
-  - stock
+- stock
 ---
 
 敬請支持‧歡迎訂閱本報newsletter

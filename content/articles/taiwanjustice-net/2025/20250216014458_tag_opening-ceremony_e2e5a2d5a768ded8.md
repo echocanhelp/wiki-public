@@ -1,5 +1,5 @@
 ---
-title: Tag: Opening Ceremony
+title: 'Tag: Opening Ceremony'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,11 +7,10 @@ source_url: https://taiwanjustice.net/tag/opening-ceremony/
 archive_url: https://web.archive.org/web/20250216014458/https://taiwanjustice.net/tag/opening-ceremony/
 archive_ts: 20250216014458
 archive_digest: MKUR3NUKLH6RX56VJT2Y6HVFXISW3GBP
-fetched: 2026-07-26T09:27:10Z
+fetched: 2026-07-26 09:27:10+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
 ---
 
 Home

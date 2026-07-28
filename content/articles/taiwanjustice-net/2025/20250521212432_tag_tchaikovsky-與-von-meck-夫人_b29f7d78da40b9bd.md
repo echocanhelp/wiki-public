@@ -1,5 +1,5 @@
 ---
-title: Tag: Tchaikovsky 與 von Meck 夫人
+title: 'Tag: Tchaikovsky 與 von Meck 夫人'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/tchaikovsky-%E8%88%87-von-meck-%E5%A4%
 archive_url: https://web.archive.org/web/20250521212432/https://taiwanjustice.net/tag/tchaikovsky-%E8%88%87-von-meck-%E5%A4%AB%E4%BA%BA/
 archive_ts: 20250521212432
 archive_digest: TIPWBTPBOAEGJMLSWP5YXRHAXCAG65JL
-fetched: 2026-07-26T10:38:59Z
+fetched: 2026-07-26 10:38:59+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2024-10-05T20:11:03-07:00
+post_date: 2024-10-05 20:11:03-07:00
 ---
 
 Home

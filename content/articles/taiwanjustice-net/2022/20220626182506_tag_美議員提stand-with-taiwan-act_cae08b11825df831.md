@@ -1,5 +1,5 @@
 ---
-title: Tag: 美議員提STAND with Taiwan Act
+title: 'Tag: 美議員提STAND with Taiwan Act'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/%E7%BE%8E%E8%AD%B0%E5%93%A1%E6%8F%
 archive_url: https://web.archive.org/web/20220626182506/https://www.taiwanjustice.net/tag/%E7%BE%8E%E8%AD%B0%E5%93%A1%E6%8F%90stand-with-taiwan-act/
 archive_ts: 20220626182506
 archive_digest: FUI6NEPQ5PGQVZWDCLUHIJAKMFJBRKST
-fetched: 2026-07-26T07:46:02Z
+fetched: 2026-07-26 07:46:02+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2022-01-21T17:54:32-08:00
+post_date: 2022-01-21 17:54:32-08:00
 ---
 
 Home

@@ -6,16 +6,16 @@ source_url: https://www.taiwanjustice.net/2022/01/11/%E6%8A%97%E7%99%8C%E8%97%A5
 archive_url: https://web.archive.org/web/20220127032627/https://www.taiwanjustice.net/2022/01/11/%E6%8A%97%E7%99%8C%E8%97%A5plitidepsin%E8%83%BD%E6%9C%89%E6%95%88%E5%B0%8D%E6%8A%97omicron%EF%BC%8C%E8%A5%BF%E7%8F%AD%E7%89%99%E8%A3%BD%E8%97%A5%E5%95%86pharmamar%E5%A4%A7%E6%BC%B2/
 archive_ts: 20220127032627
 archive_digest: CVJVC7YYNYW3ON3K3R3OFUFCWCZHHG4D
-fetched: 2026-07-27T02:29:25Z
+fetched: 2026-07-27 02:29:25+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: other
-post_date: 2022-01-11T10:52:15-08:00
+post_date: 2022-01-11 10:52:15-08:00
 categories:
-  - international
-  - internatinal
-  - health
+- international
+- internatinal
+- health
 ---
 
 敬請支持‧歡迎訂閱本報newsletter

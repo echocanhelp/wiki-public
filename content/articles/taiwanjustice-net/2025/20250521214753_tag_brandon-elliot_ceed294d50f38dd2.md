@@ -1,5 +1,5 @@
 ---
-title: Tag: Brandon Elliot
+title: 'Tag: Brandon Elliot'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/brandon-elliot/
 archive_url: https://web.archive.org/web/20250521214753/https://taiwanjustice.net/tag/brandon-elliot/
 archive_ts: 20250521214753
 archive_digest: MDEEH2MRXRFSLYKBIBAT3UYC3YCTCYEN
-fetched: 2026-07-26T10:40:43Z
+fetched: 2026-07-26 10:40:43+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-03-31T10:35:24-07:00
+post_date: 2021-03-31 10:35:24-07:00
 ---
 
 Home

@@ -1,5 +1,5 @@
 ---
-title: Tag: THE TIDE IS TURNING TOWARD TAIWAN: DEVELOPMENTS IN WASHINGTON AND BEIJING
+title: 'Tag: THE TIDE IS TURNING TOWARD TAIWAN: DEVELOPMENTS IN WASHINGTON AND BEIJING'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,11 +7,10 @@ source_url: https://taiwanjustice.net/tag/the-tide-is-turning-toward-taiwan-deve
 archive_url: https://web.archive.org/web/20250916163159/https://taiwanjustice.net/tag/the-tide-is-turning-toward-taiwan-developments-in-washington-and-beijing/
 archive_ts: 20250916163159
 archive_digest: ME4JM6KAF5EOPUZGCXGNUV7G4GJTPPWJ
-fetched: 2026-07-26T13:52:41Z
+fetched: 2026-07-26 13:52:41+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
 ---
 
 Home

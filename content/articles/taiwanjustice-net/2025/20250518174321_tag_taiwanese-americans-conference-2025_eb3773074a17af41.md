@@ -1,5 +1,5 @@
 ---
-title: Tag: Taiwanese Americans Conference 2025
+title: 'Tag: Taiwanese Americans Conference 2025'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/taiwanese-americans-conference-2025/
 archive_url: https://web.archive.org/web/20250518174321/https://taiwanjustice.net/tag/taiwanese-americans-conference-2025/
 archive_ts: 20250518174321
 archive_digest: HGQA3UIST5QKKKKFIYSRBPX54VBTLU5Y
-fetched: 2026-07-26T10:33:37Z
+fetched: 2026-07-26 10:33:37+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2025-04-08T20:38:32-07:00
+post_date: 2025-04-08 20:38:32-07:00
 ---
 
 Home

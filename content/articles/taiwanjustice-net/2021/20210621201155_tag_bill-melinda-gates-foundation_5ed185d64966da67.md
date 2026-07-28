@@ -1,5 +1,5 @@
 ---
-title: Tag: Bill & Melinda Gates Foundation
+title: 'Tag: Bill & Melinda Gates Foundation'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://www.taiwanjustice.net/tag/bill-melinda-gates-foundation/
 archive_url: https://web.archive.org/web/20210621201155/https://www.taiwanjustice.net/tag/bill-melinda-gates-foundation/
 archive_ts: 20210621201155
 archive_digest: DPXGZR3CVAEDSJAG4AZBE3XVXZP64X2V
-fetched: 2026-07-26T06:51:40Z
+fetched: 2026-07-26 06:51:40+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-05-04T11:48:36-07:00
+post_date: 2021-05-04 11:48:36-07:00
 ---
 
 Home

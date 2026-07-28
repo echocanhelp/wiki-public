@@ -6,16 +6,16 @@ source_url: https://www.taiwanjustice.net/2022/11/23/gratitude-turns-what-we-hav
 archive_url: https://web.archive.org/web/20221205043605/https://www.taiwanjustice.net/2022/11/23/gratitude-turns-what-we-have-into-enough-%E6%84%9F%E6%81%A9-%E4%BD%BF%E6%88%91%E5%80%91%E6%93%81%E6%9C%89%E7%9A%84%E8%AE%8A%E5%BE%97%E8%B6%B3%E5%A4%A0-%E2%97%8E-%E8%A2%81%E6%99%BA/
 archive_ts: 20221205043605
 archive_digest: SLHYNEWC6UEZN4V4W4TY3MAP2OXYZJIU
-fetched: 2026-07-27T05:23:44Z
+fetched: 2026-07-27 05:23:44+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: en
 cdx_class: other
-post_date: 2022-11-23T13:32:32-08:00
+post_date: 2022-11-23 13:32:32-08:00
 categories:
-  - literature
-  - taiwaneseamerican
-  - world-culture
+- literature
+- taiwaneseamerican
+- world-culture
 ---
 
 The less the expectation, the more the surprise 期待越少，驚喜越多

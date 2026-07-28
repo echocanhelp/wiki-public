@@ -1,5 +1,5 @@
 ---
-title: Tag: “國際消滅種族歧視日”（International Day for the Elimination of Racial Discrimination）
+title: 'Tag: “國際消滅種族歧視日”（International Day for the Elimination of Racial Discrimination）'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,12 +7,11 @@ source_url: https://taiwanjustice.net/tag/%E5%9C%8B%E9%9A%9B%E6%B6%88%E6%BB%85%E
 archive_url: https://web.archive.org/web/20250708203952/https://taiwanjustice.net/tag/%E5%9C%8B%E9%9A%9B%E6%B6%88%E6%BB%85%E7%A8%AE%E6%97%8F%E6%AD%A7%E8%A6%96%E6%97%A5%EF%BC%88international-day-for-the-elimination-of-racial-discrimination%EF%BC%89/
 archive_ts: 20250708203952
 archive_digest: QRIFNEOLXVLHX36XAUQBFRTSDP2PSL3O
-fetched: 2026-07-26T11:43:14Z
+fetched: 2026-07-26 11:43:14+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
-post_date: 2021-03-21T18:09:52-07:00
+post_date: 2021-03-21 18:09:52-07:00
 ---
 
 Home

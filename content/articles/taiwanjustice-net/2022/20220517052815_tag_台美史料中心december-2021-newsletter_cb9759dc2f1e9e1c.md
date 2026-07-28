@@ -1,17 +1,17 @@
 ---
-title: Tag: 台美史料中心December 2021 Newsletter
+title: 'Tag: 台美史料中心December 2021 Newsletter'
 type: article
 domain: taiwanjustice.net
 source_url: https://www.taiwanjustice.net/tag/%E5%8F%B0%E7%BE%8E%E5%8F%B2%E6%96%99%E4%B8%AD%E5%BF%83december-2021-newsletter/
 archive_url: https://web.archive.org/web/20220517052815/https://www.taiwanjustice.net/tag/%E5%8F%B0%E7%BE%8E%E5%8F%B2%E6%96%99%E4%B8%AD%E5%BF%83december-2021-newsletter/
 archive_ts: 20220517052815
 archive_digest: DLMLS3MVRRYQXDS2L2E236KCMGJ6MA7U
-fetched: 2026-07-25T00:27:06Z
+fetched: 2026-07-25 00:27:06+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: newsletter
-post_date: 2021-11-30T18:39:17-08:00
+post_date: 2021-11-30 18:39:17-08:00
 ---
 
 Home

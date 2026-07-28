@@ -1,5 +1,5 @@
 ---
-title: Tag: Marine Gen. James N. Mattis
+title: 'Tag: Marine Gen. James N. Mattis'
 type: article
 cdx_class: tag
 domain: taiwanjustice.net
@@ -7,11 +7,10 @@ source_url: https://taiwanjustice.net/tag/marine-gen-james-n-mattis/
 archive_url: https://web.archive.org/web/20250803123323/https://taiwanjustice.net/tag/marine-gen-james-n-mattis/
 archive_ts: 20250803123323
 archive_digest: ZVXFXI3B6MIYMACJ2TKY4IJ6YYBZHPPB
-fetched: 2026-07-26T12:12:59Z
+fetched: 2026-07-26 12:12:59+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
-cdx_class: tag
 ---
 
 Home

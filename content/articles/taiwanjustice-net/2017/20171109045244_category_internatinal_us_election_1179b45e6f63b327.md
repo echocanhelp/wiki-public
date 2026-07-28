@@ -6,14 +6,14 @@ source_url: http://www.taiwanjustice.net:80/category/internatinal/us_election/
 archive_url: https://web.archive.org/web/20171109045244/http://www.taiwanjustice.net:80/category/internatinal/us_election/
 archive_ts: 20171109045244
 archive_digest: UZHKGKDZC7IHLYQFDZS2GXFPMQ6SO27S
-fetched: 2026-07-26T05:16:17Z
+fetched: 2026-07-26 05:16:17+00:00
 method: wayback-id_
 publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
 categories:
-  - us_election
-  - internatinal
+- us_election
+- internatinal
 ---
 
 Home
