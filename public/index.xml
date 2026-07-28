@@ -6,6 +6,12 @@
       <description>Last 10 notes on Echopedia</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Echopedia</title>
+    <link>https://echocanhelp.github.io/wiki-public/</link>
+    <guid>https://echocanhelp.github.io/wiki-public/</guid>
+    <description><![CDATA[ Public knowledge base of Taiwanese American people, churches, and organizations — stewarded by the Taiwanese American Historical Society (TAHS). ]]></description>
+    <pubDate>Tue, 28 Jul 2026 19:44:03 GMT</pubDate>
+  </item><item>
     <title>taiwanjustice.net (台灣公義網)</title>
     <link>https://echocanhelp.github.io/wiki-public/organizations/taiwanjustice-net</link>
     <guid>https://echocanhelp.github.io/wiki-public/organizations/taiwanjustice-net</guid>
@@ -58,12 +64,6 @@
     <link>https://echocanhelp.github.io/wiki-public/people/xie-changting</link>
     <guid>https://echocanhelp.github.io/wiki-public/people/xie-changting</guid>
     <description><![CDATA[ Frank Hsieh / Xie Chang-ting (謝長廷) Frank Hsieh / Xie Chang-ting (謝長廷) appears extensively in the taiwanjustice.net archive (22 article hits by title/topic extraction). ]]></description>
-    <pubDate>Tue, 28 Jul 2026 17:07:18 GMT</pubDate>
-  </item><item>
-    <title>taiwanjustice.net (台灣公義網)</title>
-    <link>https://echocanhelp.github.io/wiki-public/sources/taiwanjustice-net</link>
-    <guid>https://echocanhelp.github.io/wiki-public/sources/taiwanjustice-net</guid>
-    <description><![CDATA[ taiwanjustice.net — Taiwan Justice Net (台灣公義網) taiwanjustice.net (台灣公義網) is a Taiwanese-American news and opinion publication published by Freeman Huang (黃樹人). ]]></description>
     <pubDate>Tue, 28 Jul 2026 17:07:18 GMT</pubDate>
   </item>
     </channel>
