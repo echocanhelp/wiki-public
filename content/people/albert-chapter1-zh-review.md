@@ -29,7 +29,7 @@ echo: scratch
 
 ## Voice Bake-off
 
-Three zh-TW neural voices were rendered from the same 135-word opening excerpt (Section I — The Land — Formosa). All samples are loudnormed to **-16 LUFS / -1.5 dBTP**.
+Three zh-TW neural voices were rendered from the same 135-character opening excerpt (Section I — The Land — Formosa). All samples are loudnormed to **-16 LUFS / -1.7 dBTP**.
 
 ### Samples
 
@@ -64,7 +64,7 @@ Three zh-TW neural voices were rendered from the same 135-word opening excerpt (
 | **Voices** | YunJhe / HsiaoChen / HsiaoYu | All three zh-TW neural voices available via edge-tts |
 | **Tempo** | `+0%` (default) | Scholarly-pastoral register naturally slower; dense geographical exposition benefits from measured pace |
 | **Pitch** | YunJhe: `-1Hz` / HsiaoChen & HsiaoYu: `+0Hz` | YunJhe (male) gets slight gravitas; female voices at neutral |
-| **Loudness** | **-16 LUFS / -1.5 dBTP** | Streaming audiobook reference (−16 to −18 LUFS, TP ≤ −1.5) |
+| **Loudness** | **-16 LUFS / -1.7 dBTP** | Streaming audiobook reference (−16 to −18 LUFS, TP ≤ −1.5) — verified post-loudnorm on all three files
 | **Style** | Continuous prose, scholarly-pastoral | Academic tone without news-anchor delivery; suitable for 1971 dissertation content |
 | **Register** | Taiwan Mandarin (zh-TW) | Per GLOSSARY.md: Formosa/Formosan policy — 1971 academic context retains Formosa/Formosan; general context uses Formosa（台灣） |
 
@@ -72,9 +72,9 @@ Three zh-TW neural voices were rendered from the same 135-word opening excerpt (
 
 | Candidate | Duration | WPM | Notes |
 |-----------|----------|----:|-------|
-| YunJheNeural | ~5:08 | 26.3 | Male voice; most measured pace; gravitas suits scholarly tone; pitch −1Hz adds warmth |
-| HsiaoChenNeural | ~5:48 | 23.3 | Female voice; slightly slower; warm and clear; neutral pitch |
-| HsiaoYuNeural | ~7:00 | 19.3 | Female voice; slowest; most deliberate; may be too slow for full chapter |
+| YunJheNeural | ~5:08 | 26.3 | Male voice; most measured pace; gravitas suits scholarly tone; pitch −1Hz adds warmth; TP −1.75 dB |
+| HsiaoChenNeural | ~5:48 | 23.3 | Female voice; slightly slower; warm and clear; neutral pitch; TP −1.76 dB |
+| HsiaoYuNeural | ~7:00 | 19.3 | Female voice; slowest; most deliberate; may be too slow for full chapter; TP −1.74 dB |
 
 ### WPM context
 
@@ -90,9 +90,9 @@ The EN Ch.1 Christopher scratch measured ~149 wpm. The zh-TW voices are signific
 
 ## Opening text (AMT excerpt)
 
-> 第一章 昔日的 Formosa 之中的 Formosan  
-> 第一節 — 土地 — Formosa  
-> 這個叫做 Formosa（台灣）的島嶼，中國人和日本人都稱之為台灣。它是連接從堪察加（Kamchatka）到馬來半島的一串島嶼的其中一環，並且遮蔽著東亞大陸海岸免受開闢的太平洋的衝擊。Formosa 與中國大陸平行，並被寬達 90 英里的最窄處所分隔開來。
+> 第一章 — 昔日的 Formosa 之中的 Formosan  </br>
+> 第一節 — 土地 — Formosa  </br>
+> 這個叫做 Formosa 的島嶼，中國人和日本人都稱之為台灣。它是連接從卡馬楚卡（Kamchatka）到馬來半島的一串島嶼的其中一環，並且遮蔽著東亞大陸海岸，免受開闢的太平洋的衝擊。Formosa 與中國大陸平行，並被寬達 90 英里的最窄處所分隔開來。它從北北東伸展到南南西，最大長度為 243 英里，寬度一般在 60 到 80 英里之間，面積近 14,000 平方英里——大致相等於馬賽諸斯、羅德島和康乃狄克三州結合在一起。
 
 Full frozen AMT lives in the private production tree (`audiobook-albert-lai/01_AMT_scripts/zh-TW/AMT_v1.0/ch01.md`), not on this public site.
 
