@@ -1,6 +1,6 @@
-## Site design audit — 2026-07-28 04:30
+## Site design audit — 2026-07-29 04:15
 
-- pages_md=261
+- pages_md=271
 - critical=0 high=0 medium=0
 - heals_suggested=none
 
@@ -17,15 +17,15 @@
   - `people/chen-wenxue.md`
   - `people/chen-zhefu-xu-chunhui.md`
   - `people/choan-seng-song.md`
-- **B1** person/org touched ≤7d (rely on recency featured window): 33
+- **B1** person/org touched ≤7d (rely on recency featured window): 42
   - `people/albert-en-sku-a-scratch-review.md`
   - `people/ashton-hsu.md`
+  - `people/cai-yingwen.md`
   - `people/chen-maoxiong.md`
   - `people/chen-po-kong.md`
+  - `people/chen-shuibian.md`
   - `people/chen-wenshi.md`
   - `people/chen-zhaonan.md`
-  - `people/david-lee.md`
-  - `people/du-ao-cunfu.md`
 
 ### Programmable heals
 - (none)

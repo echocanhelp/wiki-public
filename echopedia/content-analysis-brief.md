@@ -1,6 +1,6 @@
-## Echopedia Content Analysis — 2026-07-28
+## Echopedia Content Analysis — 2026-07-29
 - Standards v8
-- Pages scanned: **256** with findings
+- Pages scanned: **266** with findings
 - Auto-queued for remediation: **90** (score ≥ 3)
 - Wall time: 0.3s
 
@@ -28,5 +28,5 @@
 - `organizations/formosan-association-for-human-rights.md` (medium) — DESC_TOO_SHORT, STRUCT_NO_HISTORY
 - `organizations/friends-of-taiwan.md` (medium) — DESC_TOO_SHORT, STRUCT_NO_HISTORY
 
-- Log: `knowledge/operational/content-analysis/2026-07-28.jsonl`
+- Log: `knowledge/operational/content-analysis/2026-07-29.jsonl`
 - Queue: `echopedia/content-analysis-queue.json`

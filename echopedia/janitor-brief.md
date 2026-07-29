@@ -1,12 +1,12 @@
-## Echopedia Janitor — 2026-07-28
+## Echopedia Janitor — 2026-07-29
 - Standards v8
-- Pages with findings: **29167**
+- Pages with findings: **29166**
 - Queued tonight (max 5): **5**
 - Queue:
-  - `people/chen-meihui.md` age≈20.5d · LINK_UNLINKED_ENTITY
-  - `organizations/ntpc.md` age≈20.5d · LINK_UNLINKED_ENTITY
-  - `people/guo-yingyan.md` age≈20.5d · LINK_UNLINKED_ENTITY
-  - `people/albert-en-sku-a-scratch-review.md` age≈0.5d · NO_RELATED_PAGES, LINK_UNLINKED_ENTITY, LINK_MISSING_SOURCE_PAGE
-  - `articles/taiwanjustice-net/PILOT_NOTES.md` age≈0.1d · NO_TYPE, NO_RELATED_PAGES, NO_LAST_REVIEWED
-- Log: `knowledge/operational/janitor-log/2026-07-28.jsonl`
+  - `people/chen-meihui.md` age≈21.5d · LINK_UNLINKED_ENTITY
+  - `organizations/ntpc.md` age≈21.5d · LINK_UNLINKED_ENTITY
+  - `people/guo-yingyan.md` age≈21.5d · LINK_UNLINKED_ENTITY
+  - `articles/taiwanjustice-net/2026/20260113113547_tag_日本擬將脊髓性肌萎症藥物定價逾4500萬台幣_b15140f2ad573048.md` age≈1.1d · NO_RELATED_PAGES, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
+  - `articles/taiwanjustice-net/2026/20260124121835_tag_紐約州武漢肺炎破3500死_64707b46e9aea471.md` age≈1.1d · NO_RELATED_PAGES, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
+- Log: `knowledge/operational/janitor-log/2026-07-29.jsonl`
 - Agent auto-apply: **False** (local pin only if enabled)

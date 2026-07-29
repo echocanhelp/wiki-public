@@ -1,7 +1,7 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "standards_version": 8,
-  "total_pages_scanned": 256,
+  "total_pages_scanned": 266,
   "auto_queued": 90,
   "queue": [
     {
@@ -739,7 +739,7 @@
       "path": "organizations/taiwanjustice-net.md",
       "findings": [
         "DESC_TOO_SHORT",
-        "READABILITY_MANY_LONG_SENTENCES_5"
+        "READABILITY_MANY_LONG_SENTENCES_4"
       ],
       "priority": "medium",
       "instructions": [
