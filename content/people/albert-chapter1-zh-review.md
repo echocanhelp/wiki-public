@@ -36,26 +36,26 @@ Three zh-TW neural voices were rendered from the same 135-character opening exce
 **YunJheNeural** (Male, Friendly/Positive) — rate `+0%`, pitch `-1Hz`
 
 <audio controls preload="metadata" style="width:100%;max-width:40rem">
-  <source src="../public/media/albert-ch01-zh-yunjhe-v1-scratch.mp3" type="audio/mpeg">
+  <source src="https://echocanhelp.github.io/wiki-public/public/media/albert-ch01-zh-yunjhe-v1-scratch.mp3" type="audio/mpeg">
 </audio>
 
-- [Download MP3](../public/media/albert-ch01-zh-yunjhe-v1-scratch.mp3) · ~5:08 · 26.3 wpm
+- [Download MP3](https://echocanhelp.github.io/wiki-public/public/media/albert-ch01-zh-yunjhe-v1-scratch.mp3) · ~5:08 · 26.3 wpm
 
 **HsiaoChenNeural** (Female, Friendly/Positive) — rate `+0%`, pitch `+0Hz`
 
 <audio controls preload="metadata" style="width:100%;max-width:40rem">
-  <source src="../public/media/albert-ch01-zh-hsiaochen-v1-scratch.mp3" type="audio/mpeg">
+  <source src="https://echocanhelp.github.io/wiki-public/public/media/albert-ch01-zh-hsiaochen-v1-scratch.mp3" type="audio/mpeg">
 </audio>
 
-- [Download MP3](../public/media/albert-ch01-zh-hsiaochen-v1-scratch.mp3) · ~5:48 · 23.3 wpm
+- [Download MP3](https://echocanhelp.github.io/wiki-public/public/media/albert-ch01-zh-hsiaochen-v1-scratch.mp3) · ~5:48 · 23.3 wpm
 
 **HsiaoYuNeural** (Female, Friendly/Positive) — rate `+0%`, pitch `+0Hz`
 
 <audio controls preload="metadata" style="width:100%;max-width:40rem">
-  <source src="../public/media/albert-ch01-zh-hsiaoyu-v1-scratch.mp3" type="audio/mpeg">
+  <source src="https://echocanhelp.github.io/wiki-public/public/media/albert-ch01-zh-hsiaoyu-v1-scratch.mp3" type="audio/mpeg">
 </audio>
 
-- [Download MP3](../public/media/albert-ch01-zh-hsiaoyu-v1-scratch.mp3) · ~7:00 · 19.3 wpm
+- [Download MP3](https://echocanhelp.github.io/wiki-public/public/media/albert-ch01-zh-hsiaoyu-v1-scratch.mp3) · ~7:00 · 19.3 wpm
 
 ## Narration QC
 
