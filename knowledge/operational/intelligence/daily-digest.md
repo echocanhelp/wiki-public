@@ -1,17 +1,17 @@
 ═══════════════════════════════════════
-  ECHO INTELLIGENCE — 2026-07-28
+  ECHO INTELLIGENCE — 2026-07-29
 ═══════════════════════════════════════
 
 📋 UNFINISHED
   • 3 pages WIP/incomplete
 
 🔗 NEW CONNECTIONS
-  • 94 co-citation pairs
-  • 3 orphan folders
+  • 106 co-citation pairs
+  • 4 orphan folders
 
 💡 ACTION ITEMS
-  1. Link: democratic-progressive-party.md ↔ overseas-community-affairs-council.md
-  2. Link: democratic-progressive-party.md ↔ formosan-presbyterian-church-in-los-angeles.md
-  3. Link: democratic-progressive-party.md ↔ national-taiwanese-presbyterian-council.md
+  1. Link: PILOT_NOTES.md ↔ democratic-progressive-party.md
+  2. Link: PILOT_NOTES.md ↔ formosan-presbyterian-church-in-los-angeles.md
+  3. Link: democratic-progressive-party.md ↔ formosan-presbyterian-church-in-los-angeles.md
 
 ═══════════════════════════════════════

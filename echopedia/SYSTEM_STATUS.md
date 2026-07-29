@@ -13,12 +13,12 @@
 - **Level:** L3
 - **L2 auto-publish on drift:** True
 - **L3 auto-push when green:** True
-- **Last good deploy:** `97e77a357`
+- **Last good deploy:** `668bdcfa37`
 
 ## Content
 - **Markdown pages:** 29378
 - **Janitor queue depth:** 94
-- **Uncommitted files:** 2218
+- **Uncommitted files:** 559
 
 ## What runs automatically
 | When | Job | Role |
@@ -59,7 +59,7 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-07-28T05:00:48.830889-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-07-29T04:18:49.684136-07:00  ok
+    Last run:  2026-07-29T04:20:49.665911-07:00  ok
     Name:      echopedia-nightly-audit
     Schedule:  0 4 * * *
     Last run:  2026-07-29T04:10:47.878345-07:00  ok

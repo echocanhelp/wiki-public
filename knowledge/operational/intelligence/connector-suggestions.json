@@ -3,7 +3,39 @@
     {
       "type": "CO-CITATION",
       "pages": [
-        "PILOT_NOTES.md",
+        "20260113113547_tag_\u65e5\u672c\u64ec\u5c07\u810a\u9ad3\u6027\u808c\u840e\u75c7\u85e5\u7269\u5b9a\u50f9\u903e4500\u842c\u53f0\u5e63_b15140f2ad573048.md",
+        "20260124121835_tag_\u7d10\u7d04\u5dde\u6b66\u6f22\u80ba\u708e\u78343500\u6b7b_64707b46e9aea471.md"
+      ],
+      "reason": "Both link to people/albert-s-lai"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "20260113113547_tag_\u65e5\u672c\u64ec\u5c07\u810a\u9ad3\u6027\u808c\u840e\u75c7\u85e5\u7269\u5b9a\u50f9\u903e4500\u842c\u53f0\u5e63_b15140f2ad573048.md",
+        "PILOT_NOTES.md"
+      ],
+      "reason": "Both link to people/albert-s-lai"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "20260113113547_tag_\u65e5\u672c\u64ec\u5c07\u810a\u9ad3\u6027\u808c\u840e\u75c7\u85e5\u7269\u5b9a\u50f9\u903e4500\u842c\u53f0\u5e63_b15140f2ad573048.md",
+        "democratic-progressive-party.md"
+      ],
+      "reason": "Both link to people/albert-s-lai"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "20260124121835_tag_\u7d10\u7d04\u5dde\u6b66\u6f22\u80ba\u708e\u78343500\u6b7b_64707b46e9aea471.md",
+        "PILOT_NOTES.md"
+      ],
+      "reason": "Both link to people/albert-s-lai"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "20260124121835_tag_\u7d10\u7d04\u5dde\u6b66\u6f22\u80ba\u708e\u78343500\u6b7b_64707b46e9aea471.md",
         "democratic-progressive-party.md"
       ],
       "reason": "Both link to people/albert-s-lai"
@@ -12,15 +44,7 @@
       "type": "CO-CITATION",
       "pages": [
         "PILOT_NOTES.md",
-        "formosan-presbyterian-church-in-los-angeles.md"
-      ],
-      "reason": "Both link to people/albert-s-lai"
-    },
-    {
-      "type": "CO-CITATION",
-      "pages": [
-        "democratic-progressive-party.md",
-        "formosan-presbyterian-church-in-los-angeles.md"
+        "democratic-progressive-party.md"
       ],
       "reason": "Both link to people/albert-s-lai"
     },
@@ -31,6 +55,14 @@
         "overseas-community-affairs-council.md"
       ],
       "reason": "Both link to people/ken-wu"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "democratic-progressive-party.md",
+        "formosan-presbyterian-church-in-los-angeles.md"
+      ],
+      "reason": "Both link to sources/toward-a-community-of-hope"
     },
     {
       "type": "CO-CITATION",
@@ -604,9 +636,25 @@
       "type": "CO-CITATION",
       "pages": [
         "taiwanjustice-net.md",
-        "chen-maoxiong.md"
+        "cai-yingwen.md"
       ],
       "reason": "Both link to people/freeman-huang"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "taiwanjustice-net.md",
+        "chen-shuibian.md"
+      ],
+      "reason": "Both link to articles/taiwanjustice-net/index"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "cai-yingwen.md",
+        "chen-shuibian.md"
+      ],
+      "reason": "Both link to articles/taiwanjustice-net/index"
     },
     {
       "type": "CO-CITATION",
@@ -691,7 +739,15 @@
     {
       "type": "CO-CITATION",
       "pages": [
-        "chen-maoxiong.md",
+        "cai-yingwen.md",
+        "chen-maoxiong.md"
+      ],
+      "reason": "Both link to organizations/taiwanjustice-net"
+    },
+    {
+      "type": "CO-CITATION",
+      "pages": [
+        "cai-yingwen.md",
         "chen-po-kong.md"
       ],
       "reason": "Both link to organizations/taiwanjustice-net"
@@ -700,39 +756,7 @@
       "type": "CO-CITATION",
       "pages": [
         "chen-maoxiong.md",
-        "chen-zhaonan.md"
-      ],
-      "reason": "Both link to organizations/taiwanjustice-net"
-    },
-    {
-      "type": "CO-CITATION",
-      "pages": [
-        "chen-maoxiong.md",
-        "du-ao-cunfu.md"
-      ],
-      "reason": "Both link to organizations/taiwanjustice-net"
-    },
-    {
-      "type": "CO-CITATION",
-      "pages": [
-        "chen-po-kong.md",
-        "chen-zhaonan.md"
-      ],
-      "reason": "Both link to organizations/taiwanjustice-net"
-    },
-    {
-      "type": "CO-CITATION",
-      "pages": [
-        "chen-po-kong.md",
-        "du-ao-cunfu.md"
-      ],
-      "reason": "Both link to organizations/taiwanjustice-net"
-    },
-    {
-      "type": "CO-CITATION",
-      "pages": [
-        "chen-zhaonan.md",
-        "du-ao-cunfu.md"
+        "chen-po-kong.md"
       ],
       "reason": "Both link to organizations/taiwanjustice-net"
     },
@@ -863,7 +887,7 @@
     {
       "type": "ORPHAN_FOLDER",
       "folder": "people",
-      "reason": "155 pages, avg 6.1 links each, 4 internal links"
+      "reason": "165 pages, avg 6.2 links each, 4 internal links"
     },
     {
       "type": "ORPHAN_FOLDER",
@@ -871,5 +895,5 @@
       "reason": "10 pages, avg 4.0 links each, 0 internal links"
     }
   ],
-  "total_pages": 29367
+  "total_pages": 29378
 }
