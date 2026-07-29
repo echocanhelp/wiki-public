@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Background circle -->
+  <circle cx="256" cy="256" r="240" fill="#0A1929"/>
+  
+  <!-- Gold border ring -->
+  <circle cx="256" cy="256" r="220" fill="none" stroke="#D4AF37" stroke-width="12"/>
+  
+  <!-- Top arc text: 台美人歷史協會 -->
+  <path id="top-arc" d="M 256 60 A 190 190 0 0 1 446 256" fill="none"/>
+  <text font-family="Noto Serif TC, PMingLiU, serif" font-size="22" fill="#D4AF37" font-weight="bold">
+    <textPath href="#top-arc" text-anchor="middle" startOffset="50%">
+      台美人歷史協會
+    </textPath>
+  </text>
+  
+  <!-- Bottom arc text: Taiwanese American Historical Society -->
+  <path id="bottom-arc" d="M 256 452 A 190 190 0 0 1 66 256" fill="none"/>
+  <text font-family="Noto Sans, Arial, sans-serif" font-size="18" fill="#D4AF37" font-weight="bold">
+    <textPath href="#bottom-arc" text-anchor="middle" startOffset="50%">
+      Taiwanese American Historical Society
+    </textPath>
+  </text>
+  
+  <!-- Center: TAHS initials in large gold -->
+  <text x="256" y="250" text-anchor="middle" font-family="Noto Sans, Arial, sans-serif" font-size="96" font-weight="bold" fill="#D4AF37" letter-spacing="-4">
+    TAHS
+  </text>
+  
+  <!-- Subtitle below TAHS -->
+  <text x="256" y="300" text-anchor="middle" font-family="Noto Sans, Arial, sans-serif" font-size="20" fill="#FFFFFF">
+    est. 2013
+  </text>
+  
+  <!-- Small decorative elements: traditional Chinese pattern corners -->
+  <g fill="#D4AF37" opacity="0.3">
+    <path d="M 60 60 L 80 60 L 80 80 L 60 80 Z M 432 60 L 452 60 L 452 80 L 432 80 Z M 60 432 L 80 432 L 80 452 L 60 452 Z M 432 432 L 452 432 L 452 452 L 432 452 Z"/>
+  </g>
+</svg>
