@@ -49,6 +49,7 @@
   },
   "improvement": {
     "weekly_drain": true,
+    "daily_cron": "0 5 * * *",
     "weekly_cron": "0 5 * * 1"
   },
   "autonomy": {

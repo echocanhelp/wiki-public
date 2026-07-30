@@ -116,7 +116,7 @@ bash ~/.hermes/scripts/echopedia-ci-heal.sh --dry-run
 Read the three briefs:
 - `echopedia/janitor-brief.md` — queue + link hygiene
 - `echopedia/ci-heal-brief.md` — last heal + push result
-- `echopedia/improvement-brief.md` — weekly improvement pack
+- `echopedia/improvement-brief.md` — daily improvement pack
 
 **Goal:** You can tell whether the system is green or red, and what the last run did.
 
@@ -164,7 +164,7 @@ Look at the **janitor queue** (depth is in SYSTEM_STATUS.md). Typical first task
 ### What to do next
 
 - **Every morning at 09:00** — read the digest (delivered to your chat or `echopedia/digest-brief.md`).
-- **Every week (Mon 05:00)** — the improvement pack runs; review `improvement-brief.md`.
+- **Every day at 05:00** — the improvement pack runs; review `improvement-brief.md`.
 - **When stuck** — check SYSTEM_STATUS.md → pick a playbook from the troubleshooting table.
 - **When adding a feature** — follow FEATURE_ADD.md (Google, Twilio, media, tools, crons).
 
@@ -387,18 +387,38 @@ Workers never “reason through” cron prompts — only run scripts or P5/P11.
 
 Turn off all auto-push: P6 `l3_auto_push_on_green=false`.
 
-Schedule: 04:00 janitor+audit · **04:15 ci-heal** (includes site-design heal + **only nightly push**) · **04:30 site-design audit** · Mon 05:00 weekly · 09:00 digest · + infra watchdogs.
+Schedule: 04:00 janitor+audit · **04:15 ci-heal** (includes site-design heal + **only nightly push**) · **04:30 site-design audit** · 05:00 daily improvement · 09:00 digest · + infra watchdogs.
 
 ---
 
-## What the machine already does (don’t re-ask)
+## What the machine already does (don't re-ask)
 
-- Sense queue, audit, drift, smoke  
-- Heal drift + optional push (L2/L3)  
-- Morning digest with briefs  
+- Sense queue, audit, drift, smoke
+- Heal drift + optional push (L2/L3)
+- Morning digest with briefs
+- **Self-improvement pipeline** — continuously discovers content quality gaps and generates remediation tasks (see below)
 
-You only intervene for content judgment, new sources, process design, or red alerts.
+### Self-improvement pipeline (8-stage, deterministic)
 
+The system runs a nightly pipeline that discovers content quality gaps on the live site and wiki, then generates prioritized remediation tasks for human review:
+
+| Stage | Time | Script | Output |
+|-------|------|--------|--------|
+| Scout | 04:05 | `echopedia-scout-live.sh` | `knowledge/operational/scout/latest.json` |
+| Filter | 04:00 | `echopedia-content-analyzer.py` | `echopedia/content-analysis-queue.json` |
+| Extract | 04:10 | `echopedia-extract-actions.py` | `knowledge/operational/extracted/<date>.json` |
+| Evaluate | 04:15 | `echopedia-evaluate-actions.py` | `knowledge/operational/evaluated/<date>.json` |
+| Generate | 04:20 | `echopedia-generate-cards.py` | `knowledge/operational/generated/cards/*.md` |
+| Review | 05:00 (daily) | `weekly-improvement.sh` | `improvement-brief.md` |
+| Remediate | 04:00 | `echopedia-janitor` | janitor queue (P8/P3/P9) |
+| Publish | 04:15 | `echopedia-ci-heal` | gh-pages deploy |
+
+**Flow:** Scout monitors the live site for 404s/slow loads → Filter applies deterministic rules to find actionable gaps → Extract maps findings to specific actions → Evaluate scores by user impact (inbound wikilinks × page type × finding severity) → Generate creates kanban task cards → Review gate summarizes for human approval → Remediate applies fixes → Publish deploys.
+
+**Key learnings:**
+- Wiki pages start with `# Heading` after frontmatter — the analyzer must skip heading-only blocks when checking description accuracy
+- Pinto profile cron resolves script paths relative to `~/.hermes/profiles/pinto/scripts/` — symlinks must use `../../../scripts/` not `../../scripts/`
+- Not every decision should be made by an LLM — deterministic rules handle filtering, scoring, and card generation; humans only review at the gate
 ---
 
 ## When to intervene (decision matrix)
@@ -456,6 +476,15 @@ SYSTEM_STATUS.md (auto, 04:15) and the 09:00 digest surface these. Know what eac
 | Smoke URLs OK | all 4 pass | 1 fails | >1 fail | ci-heal brief |
 | Site design issues | 0 critical | 1–2 medium | any critical | site-design brief |
 
+### Self-improvement pipeline metrics
+| Metric | Green | Yellow | Red | Source |
+|--------|-------|--------|-----|--------|
+| Pages scanned | >100 | 50–100 | <50 | content-analysis-queue.json |
+| Pages queued | <5 | 5–10 | >10 | content-analysis-queue.json |
+| Generated cards | >0 | 0 | — | generated/<date>.json |
+| High-priority cards | <10 | 10–20 | >20 | generated/<date>.json |
+| Live site 404s | 0 | 1–2 | >2 | scout/latest.json |
+
 ### Autonomy
 | Metric | Green | Yellow | Red | Source |
 |--------|-------|--------|-----|--------|
@@ -490,6 +519,18 @@ bash /home/leedt/.hermes/scripts/echopedia-ci-heal.sh --dry-run
 | `echopedia-site-design-audit.py` | `~/.hermes/scripts/` | Site design audit |
 | `echopedia-index-sync.py` | `~/.hermes/scripts/` | Directory index sync (new pages missing from index.md) |
 | `featured-regen.py` | `echo-system/scripts/` | Featured section regen |
+
+### Self-improvement pipeline scripts
+
+| Script | Path | Purpose |
+|--------|------|---------|
+| `echopedia-scout-live.sh` | `~/.hermes/scripts/` | Stage 1: Monitor live site for 404s, slow responses, server errors |
+| `echopedia-content-analyzer.py` | `~/.hermes/scripts/` | Stage 2: Filter — apply deterministic rules to find actionable content gaps |
+| `echopedia-extract-actions.py` | `~/.hermes/scripts/` | Stage 3: Map finding types to specific remediation actions |
+| `echopedia-evaluate-actions.py` | `~/.hermes/scripts/` | Stage 4: Score actions by user impact (inbound links × type × severity) |
+| `echopedia-generate-cards.py` | `~/.hermes/scripts/` | Stage 5: Generate structured kanban task cards from evaluated actions |
+| `echopedia-review-gate.py` | `~/.hermes/scripts/` | Stage 6: Summarize generated cards for daily human review |
+| `echopedia-weekly-improvement.sh` | `~/.hermes/scripts/` | Stage 6: Daily review gate + improvement pack + drain + ci-heal |
 
 ---
 
@@ -1046,7 +1087,8 @@ This section tracks manual changes to USER_MANUAL.md. Auto-generated content (br
 
 || Date | Change |
 ||------|--------|
-|| 2026-07-21 | Consolidated the two 'When to intervene' sections into a single comprehensive decision matrix: replaced the simple intervene?/why table with a situation→trigger→action matrix, added red/green flag lists, and removed the duplicate section from the prior run |
+||| 2026-07-30 | Transitioned improvement pipeline from weekly to daily: updated schedule references from "Mon 05:00 weekly" to "05:00 daily", updated script descriptions, updated standards.json with daily_cron field |
+||| 2026-07-21 | Consolidated the two 'When to intervene' sections into a single comprehensive decision matrix: replaced the simple intervene?/why table with a situation→trigger→action matrix, added red/green flag lists, and removed the duplicate section from the prior run |
 || 2026-07-19 | Added site-design autonomy flags (l2_auto_site_design_heal/featured/publish, l2_site_design_blocks_green) and updated schedule to include 04:30 site-design audit; added P12/P13 to troubleshooting table |
 || 2026-07-18 | Added hybrid featured section (pinned + recency), l2_auto_featured_on_publish flag, Echopedia feature command row, and site design / layout manager section |
 || 2026-07-17 | Added PUBLICATION_INGEST command and routing; linked ui-discrepancy-investigation.md from troubleshooting table |

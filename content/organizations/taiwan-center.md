@@ -10,7 +10,7 @@ tags:
   - Taiwan-School
   - Alhambra
 verification_status: published
-last_reviewed: 2026-07-24
+last_reviewed: 2026-07-30
 ---
 # Taiwan Center Foundation of the Greater Los Angeles (大洛杉磯台灣會館)
 
@@ -30,9 +30,9 @@ last_reviewed: 2026-07-24
 | **Hours** | Tuesday–Sunday, 10am–6pm |
 | **Founded** | 12 June 1998; renamed 大洛杉磯台灣會館 **2001** |
 
-## Historical Context
+## History
 
-In 1998, **王桂榮 (Wang Kuei-jung / Kenjohn Wang)** donated property in Rosemead; **吳澧培 (Wu Li-pei)** convened fundraising with **40+** Taiwanese organizations and ~**1,000** donors (~**US$1M**). Foundation established **12 June 1998**; renamed **2001**.
+In 1998, **王桂榮 (Wang Kuei-jung / Kenjohn Wang)** donated property in Rosemead. **吳澧培 (Wu Li-pei)** then convened fundraising with **40+** Taiwanese organizations and ~**1,000** donors (~**US$1M**). The Foundation was established **12 June 1998** and renamed **2001**.
 
 ## Contact
 
@@ -58,6 +58,7 @@ In 1998, **王桂榮 (Wang Kuei-jung / Kenjohn Wang)** donated property in Rosem
 
 ## Group members (full official listing → linked stubs)
 
+### Cultural & Educational
 - [[organizations/taiwanese-hakka-association-of-the-world|Taiwanese Hakka Association of the World]] — 世界台灣客家會
 - [[organizations/jhb-foundation|JHB Foundation]] — 佳和文教基金會
 - [[organizations/global-alliance-for-democracy-and-peace|Global Alliance for Democracy and Peace (GADP)]] — 全僑民主和平聯盟世界總盟
@@ -69,7 +70,7 @@ In 1998, **王桂榮 (Wang Kuei-jung / Kenjohn Wang)** donated property in Rosem
 - [[organizations/north-america-taiwanese-medical-association-southern-california-chapte|North America Taiwanese Medical Association — Southern California chapter (as listed; verify EN name)]] — 北美洲台灣人醫師協會南加分會
 - [[organizations/natwa-southern-california|North America Taiwanese Women's Assoc. Southern CA Chapter NATWA-SC]] — 北美洲台灣婦女會南加州分會
 - [[organizations/natea-southern-california|North America Taiwanese Engineering & Science Association(NATEA)]] — 北美洲台灣工程師協會南加分會
-- [[organizations/southern-california-alumni-association-of-tainan-first-senior-high-sch|Southern California Alumni Association of Tainan First Senior High School and Tainan Girls’ Senior High School(AATFHSSCA)]] — 南加州台南一中、台南女中校友會
+- [[organizations/southern-california-alumni-association-of-tainan-first-senior-high-sch|Southern California Alumni Association of Tainen First Senior High School and Tainan Girls' Senior High School(AATFHSSCA)]] — 南加州台南一中、台南女中校友會
 - [[organizations/taiwanese-american-seniors-association-of-southern-california|Taiwanese American Seniors Association of Southern California]] — 南加州台灣人長輩會
 - [[organizations/joint-chinese-university-alumni-association-of-southern-california|Joint Chinese University Alumni Association of Southern California]] — 南加州台灣大專聯合校友會
 - [[organizations/taiwanese-hakka-associations-of-southern-california|Taiwanese Hakka Associations of Southern California]] — 南加州台灣客家會
@@ -80,7 +81,7 @@ In 1998, **王桂榮 (Wang Kuei-jung / Kenjohn Wang)** donated property in Rosem
 - [[organizations/formosa-senior-association|Formosa Senior Association]] — 南加州蓬萊長青會
 - [[organizations/south-bay-taiwanese-association-of-s-california|South Bay Taiwanese Association of S. California.]] — 南灣台灣同鄉會
 - [[organizations/national-taipei-university-of-technology-alumni-association|National Taipei University of Technology Alumni Association]] — 台北工專/台北科技大學南加州校友會
-- [[organizations/chang-jung-girls-high-school-alumni-association-southern-california|Chang Jung Girls’ High School Alumni Association Southern California]] — 台南長榮女中南加州校友會
+- [[organizations/chang-jung-girls-high-school-alumni-association-southern-california|Chang Jung Girls' High School Alumni Association Southern California]] — 台南長榮女中南加州校友會
 - [[organizations/taiwan-hakka-language-system|Taiwan Hakka Language System]] — 台客語文系統
 - [[organizations/friends-of-taiwan|Friends of Taiwan]] — 台灣之友社
 - [[organizations/fapa-orange-county|Formosan Association for Public Affairs Orange County (FAPA- OC)]] — 台灣人公共事務會-柑縣
@@ -91,7 +92,7 @@ In 1998, **王桂榮 (Wang Kuei-jung / Kenjohn Wang)** donated property in Rosem
 - [[organizations/institute-for-taiwanese-studies|Institute for Taiwanese Studies]] — 美國台灣研究院
 - [[organizations/taiwanese-american-religious-study-association|Taiwanese American Religious Study Association]] — 台美人信仰與人文研習會
 - [[organizations/taiwanese-american-pen-club|Taiwanese American Pen Club]] — 台美人筆會
-- [[organizations/taiwanese-american-perspectives|Taiwanese American Perspectives]] — 台美人論壇
+- [[organizations/taiwanese-american-perspectives|Taiwanese American Perspective]] — 台美人論壇
 - [[organizations/taiwanese-american-foundation|Taiwanese-American Foundation]] — 台美基金會
 - [[organizations/taiwanese-american-lawyers-association|Taiwanese American Lawyers Association (TALA)]] — 台美律師協會
 - [[organizations/taiwanese-american-photographers-association|Taiwanese American Photographers Association(TAPA)]] — 台美攝影學會 TAPA
