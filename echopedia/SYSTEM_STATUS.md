@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-07-29 04:20 PDT*
+*Generated: 2026-07-30 11:11 PDT*
 
 ## Orientation
 - **User manual (start here):** [USER_MANUAL.md](USER_MANUAL.md)
@@ -16,18 +16,32 @@
 - **Last good deploy:** `668bdcfa37`
 
 ## Content
-- **Markdown pages:** 29378
-- **Janitor queue depth:** 94
-- **Uncommitted files:** 559
+|- **Markdown pages:** 29380
+|- **Janitor queue depth:** 7
+|- **Uncommitted files:** 21
+
+## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
+|| Stage | Script | Last run | Output |
+||-------|--------|----------|--------|
+|| Scout | echopedia-scout-live | daily 04:05 | 4 checked, 0 broken, 0 slow |
+|| Filter | echopedia-content-analysis | daily 04:00 | 126 scanned, 2 queued |
+|| Extract | echopedia-extract-actions | daily 04:10 | knowledge/operational/extracted/ |
+|| Evaluate | echopedia-evaluate-actions | daily 04:15 | knowledge/operational/evaluated/ |
+|| Generate | echopedia-generate-cards | daily 04:20 | 6 cards |
+|| Review | weekly-improvement | Mon 05:00 | improvement-brief.md |
 
 ## What runs automatically
-| When | Job | Role |
-|------|-----|------|
-| 04:00 | echopedia-janitor | sense/queue/link hygiene priority |
-| 04:00 | echopedia-nightly-audit | structural audit |
-| 04:15 | echopedia-ci-heal | L2/L3 heal: drift→publish, smoke, optional push |
-| 05:00 Mon | echopedia-weekly-improvement | improvement pack + drain |
-| 09:00 | echopedia-digest | morning brief |
+|| When | Job | Role |
+||------|-----|------|
+|| 04:00 | echopedia-janitor | sense/queue/link hygiene priority |
+|| 04:00 | echopedia-content-analysis | Filter: find actionable content gaps |
+|| 04:05 | echopedia-scout-live | Scout: monitor live site for UX issues |
+|| 04:10 | echopedia-extract-actions | Extract: map findings to remediation actions |
+|| 04:15 | echopedia-evaluate-actions | Evaluate: score by user impact |
+|| 04:15 | echopedia-ci-heal | L2/L3 heal: drift→publish, smoke, optional push |
+|| 04:20 | echopedia-generate-cards | Generate: create kanban task cards |
+|| 05:00 Mon | echopedia-weekly-improvement | Review gate + improvement pack + drain |
+|| 09:00 | echopedia-digest | morning brief |
 
 ## If something is wrong
 ```bash
@@ -45,46 +59,46 @@ Load skill **echopedia-ops** first for any wiki work.
 
 ## Cron snapshot
 ```
-    Name:      unified-watchdog
-    Schedule:  every 30m
-    Last run:  2026-07-29T04:03:49.659140-07:00  ok
-    Name:      echopedia-digest
-    Schedule:  0 9 * * *
-    Last run:  2026-07-28T09:00:53.145247-07:00  ok
-    Name:      kanban-sync
-    Schedule:  every 30m
-    Last run:  2026-07-29T03:58:49.387574-07:00  ok
-    Name:      memory-audit
-    Schedule:  0 5 * * *
-    Last run:  2026-07-28T05:00:48.830889-07:00  ok
+    Name:      cron-output-rotate
+    Schedule:  0 3 * * *
+    Last run:  2026-07-30T03:00:44.577268-07:00  ok
+    Name:      vault-morning-brief
+    Schedule:  0 8 * * *
+    Last run:  2026-07-30T08:02:54.547747-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-07-29T04:20:49.665911-07:00  ok
+    Last run:  2026-07-30T11:09:53.759882-07:00  ok
+    Name:      Echopedia content analysis
+    Schedule:  0 4 * * *
+    Last run:  2026-07-30T04:00:46.225348-07:00  ok
+    Name:      unified-watchdog
+    Schedule:  every 30m
+    Last run:  2026-07-30T10:47:54.074317-07:00  error: Blocked: script path resolves outside the scripts directory (/home/leedt/.hermes/profiles/pinto/scripts): 'unified-watchdog.sh'
+    Name:      echopedia-digest
+    Schedule:  0 9 * * *
+    Last run:  2026-07-30T09:00:51.926745-07:00  error: Blocked: script path resolves outside the scripts directory (/home/leedt/.hermes/profiles/pinto/scripts): 'echopedia-digest.sh'
+    Name:      kanban-sync
+    Schedule:  every 30m
+    Last run:  2026-07-30T11:01:54.235978-07:00  error: Blocked: script path resolves outside the scripts directory (/home/leedt/.hermes/profiles/pinto/scripts): 'kanban-sync.sh'
+    Name:      memory-audit
+    Schedule:  0 5 * * *
+    Last run:  2026-07-30T05:00:46.825163-07:00  error: Blocked: script path resolves outside the scripts directory (/home/leedt/.hermes/profiles/pinto/scripts): 'memory-audit.sh'
     Name:      echopedia-nightly-audit
     Schedule:  0 4 * * *
-    Last run:  2026-07-29T04:10:47.878345-07:00  ok
+    Last run:  2026-07-30T04:00:45.739302-07:00  error: Blocked: script path resolves outside the scripts directory (/home/leedt/.hermes/profiles/pinto/scripts): 'echopedia-nightly-audit-wrapper.sh'
     Name:      echopedia-janitor
     Schedule:  0 4 * * *
-    Last run:  2026-07-29T04:01:25.970544-07:00  ok
+    Last run:  2026-07-30T04:00:45.794253-07:00  error: Blocked: script path resolves outside the scripts directory (/home/leedt/.hermes/profiles/pinto/scripts): 'echopedia-janitor-wrapper.sh'
     Name:      echopedia-weekly-improvement
     Schedule:  0 5 * * 1
     Last run:  2026-07-27T05:01:08.194786-07:00  ok
     Name:      echopedia-ci-heal
     Schedule:  15 4 * * *
-    Last run:  2026-07-28T04:25:37.688238-07:00  ok
+    Last run:  2026-07-30T04:15:46.895742-07:00  error: Blocked: script path resolves outside the scripts directory (/home/leedt/.hermes/profiles/pinto/scripts): 'echopedia-ci-heal-wrapper.sh'
     Name:      vault-unfinished-threads
     Schedule:  0 8 * * *
-    Last run:  2026-07-28T08:00:55.238849-07:00  ok
+    Last run:  2026-07-30T08:00:50.593402-07:00  error: Blocked: script path resolves outside the scripts directory (/home/leedt/.hermes/profiles/pinto/scripts): 'vault-unfinished-threads.py'
     Name:      vault-connector-suggestions
-    Schedule:  0 9 * * *
-    Last run:  2026-07-28T09:04:21.028561-07:00  ok
-    Name:      vault-intelligence-digest
-    Schedule:  0 8 * * *
-    Last run:  2026-07-28T08:02:55.330997-07:00  ok
-    Name:      echopedia-site-design
-    Schedule:  30 4 * * *
-    Last run:  2026-07-28T04:30:48.759695-07:00  ok
-    Name:      LINE OA plan upgrade reminder
 ```
 
 ## Briefs

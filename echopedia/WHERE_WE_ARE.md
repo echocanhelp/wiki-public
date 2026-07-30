@@ -18,9 +18,24 @@
 | **Large docs** | Archive → chunks → fact sheet → apply (not full PDF in context) |
 | **Protocol hub** | `echopedia-ops` first → single map |
 | **Nightly sense** | Janitor queue + structural audit (04:00) |
-| **Self-improve** | Drift, freshness, intake, entity hints, weekly pack |
+| **Self-improve** | **8-stage pipeline** (Scout → Filter → Extract → Evaluate → Generate → Review → Remediate → Publish) |
 | **L2/L3 autonomy** | 04:15 `ci-heal`: heal drift, smoke, green → auto-push |
 | **Human map** | This file + `SYSTEM_STATUS.md` (machine-generated) + morning digest |
+
+### Self-improvement pipeline (Stage 1–5 deployed)
+
+The system now continuously discovers content quality gaps and generates remediation tasks:
+
+1. **Scout** (04:05) — `echopedia-scout-live.sh` monitors the live website for 404s, slow responses, server errors
+2. **Filter** (04:00) — `echopedia-content-analyzer.py` applies deterministic rules to find actionable gaps (fixed: DESC_TOO_SHORT false positive eliminated)
+3. **Extract** (04:10) — `echopedia-extract-actions.py` maps each finding to a specific remediation action
+4. **Evaluate** (04:15) — `echopedia-evaluate-actions.py` scores actions by user impact (inbound wikilinks × page type × finding severity)
+5. **Generate** (04:20) — `echopedia-generate-cards.py` creates structured kanban task cards
+6. **Review** (Mon 05:00) — `weekly-improvement.sh` summarizes generated cards for human approval
+7. **Remediate** (04:00) — `echopedia-janitor` processes approved cards via P8/P3/P9 playbooks
+8. **Publish** (04:15) — `echopedia-ci-heal` builds + deploys on green
+
+**Pipeline outputs:** `knowledge/operational/scout/` → `echopedia/content-analysis-queue.json` → `knowledge/operational/extracted/` → `knowledge/operational/evaluated/` → `knowledge/operational/generated/` → `improvement-brief.md`
 
 ### Lai dissertation (planned ingest)
 - Full text **archived** (Tier 2 + chunks)

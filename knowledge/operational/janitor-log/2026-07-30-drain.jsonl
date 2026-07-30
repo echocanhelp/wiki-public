@@ -1,0 +1,5 @@
+{"path": "people/chen-meihui.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "organizations/ntpc.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/guo-yingyan.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "articles/taiwanjustice-net/2026/20260113122251_tag_居家隔離個案也歸零_a2c93c36e64afe9e.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "articles/taiwanjustice-net/2026/20260124122352_tag_黨產會處分合法_6732d48cade62669.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}

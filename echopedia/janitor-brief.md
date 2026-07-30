@@ -1,12 +1,12 @@
-## Echopedia Janitor — 2026-07-29
+## Echopedia Janitor — 2026-07-30
 - Standards v8
 - Pages with findings: **29166**
 - Queued tonight (max 5): **5**
 - Queue:
-  - `people/chen-meihui.md` age≈21.5d · LINK_UNLINKED_ENTITY
-  - `organizations/ntpc.md` age≈21.5d · LINK_UNLINKED_ENTITY
-  - `people/guo-yingyan.md` age≈21.5d · LINK_UNLINKED_ENTITY
-  - `articles/taiwanjustice-net/2026/20260113113547_tag_日本擬將脊髓性肌萎症藥物定價逾4500萬台幣_b15140f2ad573048.md` age≈1.1d · NO_RELATED_PAGES, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
-  - `articles/taiwanjustice-net/2026/20260124121835_tag_紐約州武漢肺炎破3500死_64707b46e9aea471.md` age≈1.1d · NO_RELATED_PAGES, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
-- Log: `knowledge/operational/janitor-log/2026-07-29.jsonl`
+  - `people/chen-meihui.md` age≈22.8d · LINK_UNLINKED_ENTITY
+  - `organizations/ntpc.md` age≈22.8d · LINK_UNLINKED_ENTITY
+  - `people/guo-yingyan.md` age≈22.8d · LINK_UNLINKED_ENTITY
+  - `articles/taiwanjustice-net/2026/20260113122251_tag_居家隔離個案也歸零_a2c93c36e64afe9e.md` age≈2.4d · NO_RELATED_PAGES, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
+  - `articles/taiwanjustice-net/2026/20260124122352_tag_黨產會處分合法_6732d48cade62669.md` age≈2.4d · NO_RELATED_PAGES, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
+- Log: `knowledge/operational/janitor-log/2026-07-30.jsonl`
 - Agent auto-apply: **False** (local pin only if enabled)
