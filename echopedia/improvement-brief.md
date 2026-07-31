@@ -1,4 +1,4 @@
-## Echopedia self-improvement — 2026-07-30
+## Echopedia self-improvement — 2026-07-31
 
 ### Ops check
 - OPS_WARN: orphan script not in ops REQUIRED list: echopedia-cdn-verify.sh
@@ -14,15 +14,61 @@
 - OPS_STATUS: WARN
 
 ### Deploy drift
-### Review gate: generated cards
-- Generated cards: 6 (from /home/leedt/echo-system/knowledge/operational/evaluated/2026-07-30.json)
-- Priorities: {'high': 6}
-- Playbooks: {'P8': 5, 'P3': 1}
+- DRIFT_SUMMARY: stale=0 missing_html=0
+- DRIFT_STATUS: OK
 
-  [HIGH] [HIGH] taiwan-center: Add ## History section
-  [HIGH] [HIGH] taiwanese-american-historical-society: Add ## History section
-  [HIGH] [HIGH] taiwanese-american-historical-society: Add ## Related Pages section
-  [HIGH] [HIGH] taiwan-center: Break up long sentences
-  [HIGH] [HIGH] taiwan-center: Break up long sentences
-  [HIGH] [HIGH] taiwanese-american-historical-society: Break up long sentences
+### Knowledge freshness
+- FRESH_SUMMARY: stale=0 missing=0
+- FRESH_STATUS: OK
 
+### Entity hints sync
+- HINTS_SUMMARY: added=0
+
+### Intake opportunities
+- ERROR running python3 /home/leedt/.hermes/scripts/echopedia-intake-opportunities.py
+
+### Cron selfcheck
+- CRON_SUMMARY: fail=0 warn=0 jobs=0
+- CRON_STATUS: OK
+
+### Queue drain (programmable)
+- DRAIN: people/chen-meihui.md → ['NO_SAFE_ACT (needs human/agent for body links)']
+- DRAIN: organizations/ntpc.md → ['NO_SAFE_ACT (needs human/agent for body links)']
+- DRAIN: people/guo-yingyan.md → ['NO_SAFE_ACT (needs human/agent for body links)']
+- DRAIN: articles/taiwanjustice-net/2026/20260208204548_台海軍情_公告南北300公里射擊管制區_傳中科院_9ba82a74e3f71867.md → ['refresh last_reviewed']
+- DRAIN: articles/taiwanjustice-net/2026/20260121003652_陳日君千里求見教宗遭拒-惹哭網友_義媒為陳日君_fe5af730dd000a00.md → ['refresh last_reviewed']
+- DRAIN_SUMMARY: items=5
+- DRAIN_STATUS: DONE
+
+### Drain detail
+## Queue drain — 2026-07-31
+- Items: **5**
+
+- `people/chen-meihui.md`: NO_SAFE_ACT (needs human/agent for body links)
+- `organizations/ntpc.md`: NO_SAFE_ACT (needs human/agent for body links)
+- `people/guo-yingyan.md`: NO_SAFE_ACT (needs human/agent for body links)
+- `articles/taiwanjustice-net/2026/20260208204548_台海軍情_公告南北300公里射擊管制區_傳中科院_9ba82a74e3f71867.md`: refresh last_reviewed
+- `articles/taiwanjustice-net/2026/20260121003652_陳日君千里求見教宗遭拒-惹哭網友_義媒為陳日君_fe5af730dd000a00.md`: refresh last_reviewed
+
+Safe programmable only — body first-mentions still human/local agent.
+
+### Intake detail
+## Intake opportunities
+
+### Missing pages (wiki cross-ref)
+- `MISSING_PAGE: Liao Shu (type: entity, mentioned 6x in: people/guo-shu-qing.md, people/liao-ji-chun.md, people/liao-shu-zong.md (+3 more))`
+- `MISSING_PAGE: Peng Ming (type: entity, mentioned 5x in: organizations/democratic-progressive-party.md, people/liao-shu-zong.md, people/peng-ming-min.md (+2 more))`
+- `MISSING_PAGE: Lin Qiong (type: entity, mentioned 5x in: people/guo-shu-qing.md, people/liao-ji-chun.md, people/liao-shu-zong.md (+2 more))`
+- `MISSING_PAGE: Chen Shui (type: entity, mentioned 4x in: organizations/democratic-progressive-party.md, organizations/overseas-community-affairs-council.md, people/peng-ming-min.md (+1 more))`
+- `MISSING_PAGE: National Cheng Kung University (type: entity, mentioned 4x in: people/chen-wenshi.md, people/li-mutong.md, people/mingyuan-hsu.md (+1 more))`
+- `MISSING_PAGE: The Persistence (type: entity, mentioned 4x in: people/guo-shu-qing.md, people/liao-ji-chun.md, people/liao-shu-zong.md (+1 more))`
+- `MISSING_PAGE: Northern California (type: entity, mentioned 3x in: organizations/taiwanese-american-historical-society.md, people/ho-chie-tsai.md, people/lin-fu-kun.md)`
+- `MISSING_PAGE: Ethan Yang (type: entity, mentioned 3x in: organizations/taiwanese-american-historical-society.md, people/yang-zhengxiang.md, sources/2023-tahs-publication.md)`
+- `MISSING_PAGE: Tsai Ing (type: entity, mentioned 3x in: organizations/democratic-progressive-party.md, people/li-mutong.md, people/wang-kexiong.md)`
+- `MISSING_PAGE: West Chapter (type: entity, mentioned 3x in: organizations/democratic-progressive-party.md, people/ken-wu.md, sources/wikipedia-democratic-progressive-party.md)`
+- `MISSING_PAGE: Executive Yuan (type: entity, mentioned 3x in: organizations/overseas-community-affairs-council.md, people/wang-kexiong.md, sources/ocac-gov-tw.md)`
+- `MISSING_PAGE: Vice President (type: entity, mentioned 3x in: organizations/irvine-taiwanese-presbyterian-church.md, people/david-lee.md, people/wang-yao-ting.md)`
+
+- No strong interaction name candidates
+
+*Auto: no page creation — queue for human/ops.*

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-07-31T04:25:20",
+  "last_run": "2026-07-31T05:02:49",
   "status": "OK",
   "stats": {
     "md": 273,
@@ -55,22 +55,6 @@
   ],
   "heals": [],
   "history": [
-    {
-      "at": "2026-07-24T04:15:53",
-      "status": "OK",
-      "critical": 0,
-      "high": 0,
-      "medium": 0,
-      "finding_count": 2
-    },
-    {
-      "at": "2026-07-24T04:30:44",
-      "status": "OK",
-      "critical": 0,
-      "high": 0,
-      "medium": 0,
-      "finding_count": 2
-    },
     {
       "at": "2026-07-25T04:15:46",
       "status": "OK",
@@ -289,6 +273,22 @@
     },
     {
       "at": "2026-07-31T04:25:20",
+      "status": "OK",
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "finding_count": 2
+    },
+    {
+      "at": "2026-07-31T04:30:44",
+      "status": "OK",
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "finding_count": 2
+    },
+    {
+      "at": "2026-07-31T05:02:49",
       "status": "OK",
       "critical": 0,
       "high": 0,
