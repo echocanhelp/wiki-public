@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-07-30 11:11 PDT*
+*Generated: 2026-07-31 04:20 PDT*
 
 ## Orientation
 - **User manual (start here):** [USER_MANUAL.md](USER_MANUAL.md)
@@ -17,17 +17,17 @@
 
 ## Content
 |- **Markdown pages:** 29380
-|- **Janitor queue depth:** 7
-|- **Uncommitted files:** 21
+|- **Janitor queue depth:** 5
+|- **Uncommitted files:** 60090
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 || Stage | Script | Last run | Output |
 ||-------|--------|----------|--------|
-|| Scout | echopedia-scout-live | daily 04:05 | 4 checked, 0 broken, 0 slow |
-|| Filter | echopedia-content-analysis | daily 04:00 | 126 scanned, 2 queued |
+|| Scout | echopedia-scout-live | daily 04:05 | 44 checked, 0 broken, 0 slow |
+|| Filter | echopedia-content-analysis | daily 04:00 | 0 scanned, 0 queued |
 || Extract | echopedia-extract-actions | daily 04:10 | knowledge/operational/extracted/ |
 || Evaluate | echopedia-evaluate-actions | daily 04:15 | knowledge/operational/evaluated/ |
-|| Generate | echopedia-generate-cards | daily 04:20 | 6 cards |
+|| Generate | echopedia-generate-cards | daily 04:20 | no data |
 || Review | weekly-improvement | Mon 05:00 | improvement-brief.md |
 
 ## What runs automatically
@@ -61,36 +61,37 @@ Load skill **echopedia-ops** first for any wiki work.
 ```
     Name:      cron-output-rotate
     Schedule:  0 3 * * *
-    Last run:  2026-07-30T03:00:44.577268-07:00  ok
+    Last run:  2026-07-31T03:00:42.559483-07:00  ok
     Name:      vault-morning-brief
-    Schedule:  0 8 * * *
+    Schedule:  0 5 * * *
     Last run:  2026-07-30T08:02:54.547747-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-07-30T11:09:53.759882-07:00  ok
+    Last run:  2026-07-31T04:19:44.495666-07:00  ok
     Name:      Echopedia content analysis
     Schedule:  0 4 * * *
-    Last run:  2026-07-30T04:00:46.225348-07:00  ok
+    Last run:  2026-07-31T04:00:45.174666-07:00  ok
     Name:      unified-watchdog
     Schedule:  every 30m
-    Last run:  2026-07-30T10:47:54.074317-07:00  error: Blocked: script path resolves outside the scripts directory (/home/leedt/.hermes/profiles/pinto/scripts): 'unified-watchdog.sh'
+    Last run:  2026-07-31T04:05:44.443615-07:00  ok
     Name:      echopedia-digest
     Schedule:  0 9 * * *
     Last run:  2026-07-30T09:00:51.926745-07:00  error: Blocked: script path resolves outside the scripts directory (/home/leedt/.hermes/profiles/pinto/scripts): 'echopedia-digest.sh'
     Name:      kanban-sync
     Schedule:  every 30m
-    Last run:  2026-07-30T11:01:54.235978-07:00  error: Blocked: script path resolves outside the scripts directory (/home/leedt/.hermes/profiles/pinto/scripts): 'kanban-sync.sh'
+    Last run:  2026-07-31T04:08:44.253671-07:00  ok
     Name:      memory-audit
     Schedule:  0 5 * * *
     Last run:  2026-07-30T05:00:46.825163-07:00  error: Blocked: script path resolves outside the scripts directory (/home/leedt/.hermes/profiles/pinto/scripts): 'memory-audit.sh'
     Name:      echopedia-nightly-audit
     Schedule:  0 4 * * *
-    Last run:  2026-07-30T04:00:45.739302-07:00  error: Blocked: script path resolves outside the scripts directory (/home/leedt/.hermes/profiles/pinto/scripts): 'echopedia-nightly-audit-wrapper.sh'
+    Last run:  2026-07-31T04:18:20.821224-07:00  ok
+    ⚠ Delivery failed: live adapter send to telegram:-5543616648 timed out before the coroutine was dispatched; delivery error: Telegram send failed: Timed out
     Name:      echopedia-janitor
     Schedule:  0 4 * * *
-    Last run:  2026-07-30T04:00:45.794253-07:00  error: Blocked: script path resolves outside the scripts directory (/home/leedt/.hermes/profiles/pinto/scripts): 'echopedia-janitor-wrapper.sh'
+    Last run:  2026-07-31T04:01:28.755053-07:00  ok
     Name:      echopedia-weekly-improvement
-    Schedule:  0 5 * * 1
+    Schedule:  0 5 * * *
     Last run:  2026-07-27T05:01:08.194786-07:00  ok
     Name:      echopedia-ci-heal
     Schedule:  15 4 * * *
@@ -98,7 +99,6 @@ Load skill **echopedia-ops** first for any wiki work.
     Name:      vault-unfinished-threads
     Schedule:  0 8 * * *
     Last run:  2026-07-30T08:00:50.593402-07:00  error: Blocked: script path resolves outside the scripts directory (/home/leedt/.hermes/profiles/pinto/scripts): 'vault-unfinished-threads.py'
-    Name:      vault-connector-suggestions
 ```
 
 ## Briefs

@@ -2,8 +2,8 @@
 
 *Living snapshot of the vibe-coded Echopedia system. Update when autonomy level, major crons, or mission status changes. Not a second copy of procedures — those live in skills.*
 
-**Last reviewed:** 2026-07-18  
-**Standards:** v6 · **Autonomy:** L3  
+**Last reviewed:** 2026-07-30  
+**Standards:** v8 · **Autonomy:** L3  
 **Start here:** [USER_MANUAL.md](USER_MANUAL.md) · workers: [WORKER.md](WORKER.md)  
 **Hub skill:** `echopedia-ops`
 
@@ -51,9 +51,14 @@ The system now continuously discovers content quality gaps and generates remedia
 |------|-----|------|
 | 04:00 | `echopedia-janitor` | Sense / prioritize / queue |
 | 04:00 | `echopedia-nightly-audit` | Structural audit; incident on fail |
+| 04:00 | `echopedia-content-analysis` | Filter: find actionable content gaps |
+| 04:05 | `echopedia-scout-live` | Scout: monitor live site for UX issues |
+| 04:10 | `echopedia-extract-actions` | Extract: map findings to remediation actions |
+| 04:15 | `echopedia-evaluate-actions` | Evaluate: score by user impact |
 | **04:15** | **`echopedia-ci-heal`** | L2 heal + **site-design L1** + L3 **single push** |
+| 04:20 | `echopedia-generate-cards` | Generate: create kanban task cards |
 | **04:30** | **`echopedia-site-design`** | Post-deploy **audit-only** (alerts; no push) |
-| Mon 05:00 | `echopedia-weekly-improvement` | Improvement pack + drain + ci-heal |
+| Mon 05:00 | `echopedia-weekly-improvement` | Review gate + improvement pack + drain + ci-heal |
 | 09:00 | `echopedia-digest` | Janitor + CI + site-design + SYSTEM_STATUS |
 | **On publish** | **`featured-regen`** | Hybrid featured: pinned + recency → homepage cards (root + public) |
 
@@ -95,6 +100,14 @@ The system now continuously discovers content quality gaps and generates remedia
 - Deprecate legacy `echopedia_publish_*` scripts (WARN only)
 - Keep `standards_version_seen` in sync after bumps (next janitor run)
 - Homepage still dual (`index.html` + Quartz `public/index.html`) — site-design keeps both featured-injected
+
+### Self-improvement pipeline (completed)
+- ✅ 8-stage pipeline deployed (Scout → Filter → Extract → Evaluate → Generate → Review → Remediate → Publish)
+- ✅ All 8 stages are deterministic (`no_agent`) — no LLM in the pipeline
+- ✅ Human review gate at weekly improvement (Mon 05:00)
+- ✅ Metrics tracked in SYSTEM_STATUS.md
+- ✅ Documentation in USER_MANUAL.md + echopedia-ops skill
+- ✅ 2 stale cron jobs (tj-p2-*) identified for removal
 
 ### Not autonomous (by design)
 - Inventing biographies

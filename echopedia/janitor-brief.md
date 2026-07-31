@@ -1,18 +1,12 @@
-## Echopedia Janitor — 2026-07-30
+## Echopedia Janitor — 2026-07-31
 - Standards v8
 - Pages with findings: **29189**
-- Queued tonight (max 5): **11**
+- Queued tonight (max 5): **5**
 - Queue:
-  - `people/chen-meihui.md` (medium) · LINK_UNLINKED_ENTITY · [structural]
-  - `organizations/ntpc.md` (medium) · LINK_UNLINKED_ENTITY · [structural]
-  - `people/guo-yingyan.md` (medium) · LINK_UNLINKED_ENTITY · [structural]
-  - `articles/taiwanjustice-net/2026/20260118100613_武漢肺炎疫情擴散_法國議員籲who讓台灣參與_fa27676777a91a3a.md` (medium) · NO_RELATED_PAGES, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY · [structural]
-  - `articles/taiwanjustice-net/2026/20260118105817_國台辦訓斥國民黨_馬英九就立刻表態效忠-_陳昭_44fcb678ea0c3f42.md` (medium) · NO_RELATED_PAGES, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY · [structural]
-  - `organizations/taiwan-center.md` (high) · STRUCT_NO_HISTORY · [generated_cards]
-  - `organizations/taiwan-center.md` (high) · READABILITY_LONG_SENTENCES_36wps · [generated_cards]
-  - `organizations/taiwan-center.md` (high) · READABILITY_MANY_LONG_SENTENCES_4 · [generated_cards]
-  - `organizations/taiwanese-american-historical-society.md` (high) · STRUCT_NO_HISTORY · [generated_cards]
-  - `organizations/taiwanese-american-historical-society.md` (high) · LINKS_NO_RELATED · [generated_cards]
-  - `organizations/taiwanese-american-historical-society.md` (high) · READABILITY_MANY_LONG_SENTENCES_9 · [generated_cards]
-- Log: `knowledge/operational/janitor-log/2026-07-30.jsonl`
+  - `people/chen-meihui.md` age≈23.5d · LINK_UNLINKED_ENTITY
+  - `organizations/ntpc.md` age≈23.5d · LINK_UNLINKED_ENTITY
+  - `people/guo-yingyan.md` age≈23.5d · LINK_UNLINKED_ENTITY
+  - `articles/taiwanjustice-net/2026/20260208204548_台海軍情_公告南北300公里射擊管制區_傳中科院_9ba82a74e3f71867.md` age≈3.1d · NO_RELATED_PAGES, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
+  - `articles/taiwanjustice-net/2026/20260121003652_陳日君千里求見教宗遭拒-惹哭網友_義媒為陳日君_fe5af730dd000a00.md` age≈3.1d · NO_RELATED_PAGES, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
+- Log: `knowledge/operational/janitor-log/2026-07-31.jsonl`
 - Agent auto-apply: **False** (local pin only if enabled)
