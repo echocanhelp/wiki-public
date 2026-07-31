@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-07-31 05:02 PDT*
+*Generated: 2026-07-31 05:07 PDT*
 
 ## Orientation
 - **User manual (start here):** [USER_MANUAL.md](USER_MANUAL.md)
@@ -18,7 +18,7 @@
 ## Content
 |- **Markdown pages:** 29380
 |- **Janitor queue depth:** 5
-|- **Uncommitted files:** 638
+|- **Uncommitted files:** 1939
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 || Stage | Script | Last run | Output |
@@ -67,13 +67,13 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-07-31T05:02:49.586250-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-07-31T05:01:44.993649-07:00  ok
+    Last run:  2026-07-31T05:05:45.135975-07:00  ok
     Name:      Echopedia content analysis
     Schedule:  0 4 * * *
     Last run:  2026-07-31T04:00:45.174666-07:00  ok
     Name:      unified-watchdog
     Schedule:  every 30m
-    Last run:  2026-07-31T04:35:44.939210-07:00  ok
+    Last run:  2026-07-31T05:06:45.341309-07:00  ok
     Name:      echopedia-digest
     Schedule:  0 9 * * *
     Last run:  2026-07-30T09:00:51.926745-07:00  error: Blocked: script path resolves outside the scripts directory (/home/leedt/.hermes/profiles/pinto/scripts): 'echopedia-digest.sh'
