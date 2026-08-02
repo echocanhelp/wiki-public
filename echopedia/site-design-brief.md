@@ -1,4 +1,4 @@
-## Site design audit — 2026-07-31 05:07
+## Site design audit — 2026-08-02 03:10
 
 - pages_md=273
 - critical=0 high=0 medium=0
@@ -17,7 +17,7 @@
   - `people/chen-wenxue.md`
   - `people/chen-zhefu-xu-chunhui.md`
   - `people/choan-seng-song.md`
-- **B1** person/org touched ≤7d (rely on recency featured window): 39
+- **B1** person/org touched ≤7d (rely on recency featured window): 38
   - `people/albert-chapter1-zh-review-v2.md`
   - `people/albert-chapter1-zh-review.md`
   - `people/albert-en-sku-a-scratch-review.md`

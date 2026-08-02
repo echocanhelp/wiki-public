@@ -30,7 +30,7 @@
     "model": "nvidia/Qwen3.6-35B-A3B-NVFP4",
     "auto_apply_programmable": true,
     "auto_apply_agent": false,
-    "auto_commit": false,
+    "auto_commit": true,
     "auto_push": false,
     "auto_quartz": false,
     "skip_path_regexes": [
