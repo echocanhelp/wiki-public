@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-08-02 04:22 PDT*
+*Generated: 2026-08-02 05:00 PDT*
 
 ## Orientation
 - **User manual (start here):** [USER_MANUAL.md](USER_MANUAL.md)
@@ -13,12 +13,12 @@
 - **Level:** L3
 - **L2 auto-publish on drift:** True
 - **L3 auto-push when green:** True
-- **Last good deploy:** `5281e68c48`
+- **Last good deploy:** `cd674770be`
 
 ## Content
 |- **Markdown pages:** 29380
 |- **Janitor queue depth:** 5
-|- **Uncommitted files:** 2553
+|- **Uncommitted files:** 657
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 || Stage | Script | Last run | Output |
@@ -67,22 +67,22 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-08-02T03:12:49.859168-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-08-02T04:22:51.111149-07:00  ok
+    Last run:  2026-08-02T05:00:52.077272-07:00  ok
     Name:      Echopedia content analysis
     Schedule:  0 4 * * *
     Last run:  2026-08-02T04:00:48.244585-07:00  ok
     Name:      unified-watchdog
     Schedule:  every 30m
-    Last run:  2026-08-02T04:12:52.560942-07:00  ok
+    Last run:  2026-08-02T04:43:51.674454-07:00  ok
     Name:      echopedia-digest
     Schedule:  0 9 * * *
     Last run:  2026-08-02T03:10:45.268291-07:00  ok
     Name:      kanban-sync
     Schedule:  every 30m
-    Last run:  2026-08-02T04:11:50.181883-07:00  ok
+    Last run:  2026-08-02T04:41:51.296439-07:00  ok
     Name:      memory-audit
     Schedule:  0 5 * * *
-    Last run:  2026-08-02T03:10:44.850925-07:00  ok
+    Last run:  2026-08-02T05:00:52.629759-07:00  ok
     Name:      echopedia-nightly-audit
     Schedule:  0 4 * * *
     Last run:  2026-08-02T04:14:50.886736-07:00  ok
@@ -95,7 +95,7 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-08-02T03:13:48.185968-07:00  ok
     Name:      echopedia-ci-heal
     Schedule:  15 4 * * *
-    Last run:  2026-08-02T03:15:04.806742-07:00  ok
+    Last run:  2026-08-02T04:23:37.098832-07:00  ok
     Name:      vault-unfinished-threads
     Schedule:  0 8 * * *
     Last run:  2026-08-02T03:10:52.669411-07:00  ok

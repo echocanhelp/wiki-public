@@ -23,3 +23,13 @@
 {"path": "people/guo-yingyan.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
 {"path": "articles/taiwanjustice-net/2026/20260123224435_中國軍艦靠近台灣東部外海鄰接區_國防部_即時_7b214389f3e7625d.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
 {"path": "articles/taiwanjustice-net/2026/20260122074806_辜寬敏推制憲公投_30日向中選會提案_5ac4b5644ec82fba.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
+{"path": "people/chen-meihui.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "organizations/ntpc.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/guo-yingyan.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "articles/taiwanjustice-net/2026/20260123224435_中國軍艦靠近台灣東部外海鄰接區_國防部_即時_7b214389f3e7625d.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
+{"path": "articles/taiwanjustice-net/2026/20260122074806_辜寬敏推制憲公投_30日向中選會提案_5ac4b5644ec82fba.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
+{"path": "people/chen-meihui.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "organizations/ntpc.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/guo-yingyan.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "articles/taiwanjustice-net/2026/20260123224435_中國軍艦靠近台灣東部外海鄰接區_國防部_即時_7b214389f3e7625d.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
+{"path": "articles/taiwanjustice-net/2026/20260122074806_辜寬敏推制憲公投_30日向中選會提案_5ac4b5644ec82fba.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
