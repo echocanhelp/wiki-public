@@ -41,10 +41,12 @@ jobs:
       - name: Apply custom Quartz config
         run: |
           cp config/quartz.config.ts quartz-v4/quartz.config.ts
-          # Apply custom SCSS
-          cp config/quartz-overrides/quartz/styles/custom.scss quartz-v4/quartz/styles/custom.scss
-          # Apply custom component resources
-          cp config/quartz-overrides/quartz/plugins/emitters/componentResources.ts quartz-v4/quartz/plugins/emitters/componentResources.ts
+          if [ -f config/quartz-overrides/quartz/styles/custom.scss ]; then
+            cp config/quartz-overrides/quartz/styles/custom.scss quartz-v4/quartz/styles/custom.scss
+          fi
+          if [ -f config/quartz-overrides/quartz/plugins/emitters/componentResources.ts ]; then
+            cp config/quartz-overrides/quartz/plugins/emitters/componentResources.ts quartz-v4/quartz/plugins/emitters/componentResources.ts
+          fi
 
       - name: Build Echopedia site
         run: |
