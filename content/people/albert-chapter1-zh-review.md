@@ -16,6 +16,8 @@ echo: scratch
 
 **Status:** Scratch AI narration for **voice / tempo / style review** only. **Not** the retail master (retail = human cast).
 
+**2026-08-02 lock:** Albert + friends chose **#2 HsiaoChen**. Full Chapter I evaluation track: [[people/albert-chapter1-zh-hsiaochen-full-review|Ch.1 ZH HsiaoChen full eval]]
+
 **Full EN SKU A (all chapters):** [[people/albert-en-sku-a-scratch-review|EN SKU A multi-track review hub]]
 
 ## Identity Snapshot
