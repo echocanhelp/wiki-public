@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-08-02 03:12 PDT*
+*Generated: 2026-08-02 03:14 PDT*
 
 ## Orientation
 - **User manual (start here):** [USER_MANUAL.md](USER_MANUAL.md)
@@ -13,12 +13,12 @@
 - **Level:** L3
 - **L2 auto-publish on drift:** True
 - **L3 auto-push when green:** True
-- **Last good deploy:** `cad99e7653`
+- **Last good deploy:** `e5bdf797c7`
 
 ## Content
 |- **Markdown pages:** 29380
 |- **Janitor queue depth:** 5
-|- **Uncommitted files:** 2
+|- **Uncommitted files:** 9
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 || Stage | Script | Last run | Output |
@@ -93,7 +93,7 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-08-02T03:11:28.015809-07:00  ok
     Name:      echopedia-weekly-improvement
     Schedule:  0 5 * * *
-    Last run:  2026-07-31T05:07:45.332749-07:00  ok
+    Last run:  2026-08-02T03:13:48.185968-07:00  ok
     Name:      echopedia-ci-heal
     Schedule:  15 4 * * *
     Last run:  2026-07-31T04:26:11.575164-07:00  ok
