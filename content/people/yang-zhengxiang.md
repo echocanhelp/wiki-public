@@ -10,8 +10,9 @@ tags:
   - economist
 verification_status: pending
 featured: true
-last_reviewed: 2026-07-23
+last_reviewed: 2026-08-02
 ---
+
 # Yang Zhengxiang (Ethan Yang)
 
 **Ethan Yang** (楊正光) is a third-generation Taiwanese American political scientist and economist based in Washington, D.C. He is a research fellow at the American Institute for Economic Research (AIER) and is pursuing a PhD at George Mason University's Antonin Scalia Law School.
@@ -25,6 +26,11 @@ last_reviewed: 2026-07-23
 - **Geography:** Washington, D.C.
 - **Education:** Trinity College, Hartford (BA in Political Science); George Mason University (PhD, Antonin Scalia Law School)
 - **Awards:** 2023 Vernon Smith Prize (13th Annual International Vernon Smith Prize)
+- **Family (owner-stated 2026-08-02):** Grandparents [[people/yang-jia-you|Charles Yang (楊嘉猷)]] and [[people/becky-yang|Becky Yang]]
+
+## Family
+
+Per owner verification in the TAHS LINE community (2026-08-02), Ethan's grandparents are Charles Yang (TAHS founding president) and Becky Yang. Parent generation details are not yet recorded on Echopedia.
 
 ## Overview
 
@@ -57,11 +63,19 @@ As a third-generation Taiwanese American, Ethan represents the evolving identity
 ## Source Notes and Confidence
 
 - **Content priority B:** 2023 TAHS Publication (profile, Section 3, ~937 lines)
-- **Hub:** [[sources/2023-tahs-publication|2023 TAHS Publication]]
-- **Archive:** `knowledge/web-archives/2023-tahs-publication-part2.md`
+- **Hub:** 2023 TAHS Publication (sources/2023-tahs-publication pending restore if missing)
+- **Archive:** knowledge/web-archives/2023-tahs-publication-part2.md (Tier-2)
+- **Family link:** Owner statement LINE 2026-08-02 (grandparents Charles + Becky Yang) — high confidence for relationship label; not from 2023 profile text alone
 
 ## Related Pages
 
+- [[people/yang-jia-you|Charles Yang (楊嘉猷) — grandfather]]
+- [[people/becky-yang|Becky Yang — grandmother]]
 - [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/2023-tahs-publication|2023 TAHS Publication]]
-- [[people/zheng-bing-quan|Zheng Bingquan (鄭炳全)]]
+- 2023 TAHS Publication (source hub pending restore on disk)
+- Zheng Bingquan (鄭炳全) (page pending restore)
+
+## Revision History
+
+- 2026-07-23: Initial page from 2023 TAHS publication
+- 2026-08-02: Restored content MD; family links to Charles Yang and Becky Yang (owner-stated grandparents)

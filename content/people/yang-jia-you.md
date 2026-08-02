@@ -8,23 +8,41 @@ tags:
   - tahs-leadership
   - founding-president
   - essayist
-verification_status: pending
+  - TAHS
+  - onboarding
+verification_status: owner_verified
+status: published
 featured: true
-last_reviewed: 2026-07-19
+last_reviewed: 2026-08-02
 ---
-# Charles Yang (楊嘉猷)
 
-**Charles Yang** (楊嘉猷) is the **founding president (創會會長)** of the **Taiwanese American Historical Society (TAHS / 台美人歷史協會)**. He is a community leader, essayist, and advocate for Taiwanese American identity and history.
+# Charles Yang (楊嘉猷 / Yang Jia-you)
+
+**Charles Yang** (楊嘉猷; LINE display **Chia you**) is the **founding president (創會會長)** of the **Taiwanese American Historical Society (TAHS / 台美人歷史協會)**. He is a community leader, essayist, and advocate for Taiwanese American identity and history.
 
 ## Identity Snapshot
 
 - **English:** Charles Yang
-- **Chinese:** 楊嘉猷
+- **Chinese:** 楊嘉猷 (Yang Jia-you)
+- **LINE display (owner-linked):** Chia you
 - **Role:** Founding President, TAHS (台美人歷史協會創會會長)
 - **Geography:** Southern California (Los Angeles area)
 - **Key work:** 緣起與展望 (Origins and Prospects) — founding essay of TAHS
 - **Era:** Active 2013–present (TAHS founding); 2017 publication year
-- **Organizations:** Taiwanese American Historical Society (TAHS)
+- **Family (owner-stated 2026-08-02):** Spouse [[people/becky-yang|Becky Yang]]; maternal/paternal grandparents of [[people/yang-zhengxiang|Ethan Yang (楊正光)]] (owner: grandparents of Ethan)
+- **Organizations:** [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
+
+## TAHS Membership Assignment
+
+- Membership Class: Founding leadership / member
+- Functional Title: Founding President (創會會長), TAHS
+- Appointing Authority confirmation: Owner verification in LINE (Leonard Hsu Jr.), 2026-08-02
+- LINE linkage: Owner-verified (exact LINE user id kept private until captured from sender traffic)
+
+## Family
+
+- Spouse: [[people/becky-yang|Becky Yang]] (owner-verified relationship, 2026-08-02)
+- Grandson: [[people/yang-zhengxiang|Ethan Yang (楊正光 / Yang Zhengxiang)]] — third-generation profile in 2023 TAHS publication; Charles and Becky are his grandparents per owner statement in LINE
 
 ## TAHS Founding
 
@@ -62,17 +80,40 @@ Due to physical health conditions, including two major surgeries, Charles Yang s
 
 Yang's legacy is the establishment of TAHS as an organization dedicated to documenting Taiwanese American history and celebrating the community's achievements. His founding essay remains the philosophical foundation of the organization.
 
+## Consent & Privacy
+
+- LINE profile linkage: owner-confirmed; exact LINE user IDs are not published on this page
+- DM processing: none by default until explicitly approved
+- Public quote reuse: not allowed until explicit consent
+- Private contact details are not published
+
+## Verification Block
+
+- Echopedia page status: published
+- verification_status: owner_verified (2026-08-02)
+- Verified by: Leonard Hsu Jr. (owner) in LINE — confirmed @Chia you ↔ this page (yang-jia-you / Charles Yang 楊嘉猷)
+- Spouse link: owner-stated Becky Yang
+- Grandparent link to Ethan Yang (yang-zhengxiang): owner-stated
+- LINE user id capture: pending first sender message from Chia you (if not yet on file)
+
 ## Source Notes and Confidence
 
 - **Content priority A:** 2017 TAHS Publication (founding essay 緣起與展望, Part 1, ~77 lines), written by 楊嘉猷 himself
-- **Content priority A:** Contains detailed philosophical framework for TAHS and the "台灣精神史觀" (Taiwanese Spirit Historical Perspective)
-- **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
-- **Note:** The full text includes detailed biographical information including family background, education, and decades of advocacy work.
+- **Owner statement A (relationship):** LINE group 2026-08-02 — spouse Becky Yang; grandparents of Ethan Yang
+- **Hub:** 2017 TAHS Publication (public URL historically under sources/2017-tahs-publication; MD restore pending if missing locally)
+- **Note:** Full 2017 text may include further family/education detail for future depth pass
 
 ## Related Pages
 
+- [[people/becky-yang|Becky Yang]]
+- [[people/yang-zhengxiang|Ethan Yang (楊正光)]]
 - [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/2017-tahs-publication|2017 TAHS Publication]]
-- [[people/franklin-ping-cheng|Franklin Ping Cheng (程炳成) — TAHS president 2014–2017]]
-- [[people/wang-gui-rong|Wang Gui-rong (王桂榮) — founding-era member]]
-- [[people/huang-gen-shen|Huang Gen-shen (黃根深) — founding-era member]]
+- [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]]
+- 2017 TAHS Publication (source hub page pending restore on disk)
+- Franklin Ping Cheng (程炳成) — TAHS president 2014–2017 (page pending restore)
+- Wang Gui-rong (王桂榮); Huang Gen-shen (黃根深) — founding-era members (pages pending restore)
+
+## Revision History
+
+- 2026-07-19: Initial page from 2017 TAHS publication depth pass
+- 2026-08-02: Restored content MD; owner LINE verify @Chia you; family links (Becky spouse; Ethan grandson); verification_status owner_verified
