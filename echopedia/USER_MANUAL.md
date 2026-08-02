@@ -1087,6 +1087,7 @@ This section tracks manual changes to USER_MANUAL.md. Auto-generated content (br
 
 || Date | Change |
 ||------|--------|
+||| 2026-07-31 | Fixed content analyzer 0-pages-scanned bug: total_pages_scanned now counts all iterated pages, not just pages with active findings; added pages_with_findings field to JSON state. Fixed nightly audit 91K-issue noise: audit-collect.sh now excludes content/articles/ (Tier2 archive markdown) from broken-links, missing-sections, and stale-content checks. Added 9 orphan scripts to ops-check REQUIRED_SCRIPTS list. Enabled auto_apply_programmable + auto_commit in standards.json. |
 ||| 2026-07-30 | Transitioned improvement pipeline from weekly to daily: updated schedule references from "Mon 05:00 weekly" to "05:00 daily", updated script descriptions, updated standards.json with daily_cron field |
 ||| 2026-07-21 | Consolidated the two 'When to intervene' sections into a single comprehensive decision matrix: replaced the simple intervene?/why table with a situation→trigger→action matrix, added red/green flag lists, and removed the duplicate section from the prior run |
 || 2026-07-19 | Added site-design autonomy flags (l2_auto_site_design_heal/featured/publish, l2_site_design_blocks_green) and updated schedule to include 04:30 site-design audit; added P12/P13 to troubleshooting table |
