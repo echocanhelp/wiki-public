@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-08-02 03:14 PDT*
+*Generated: 2026-08-02 04:14 PDT*
 
 ## Orientation
 - **User manual (start here):** [USER_MANUAL.md](USER_MANUAL.md)
@@ -13,18 +13,18 @@
 - **Level:** L3
 - **L2 auto-publish on drift:** True
 - **L3 auto-push when green:** True
-- **Last good deploy:** `e5bdf797c7`
+- **Last good deploy:** `5281e68c48`
 
 ## Content
 |- **Markdown pages:** 29380
 |- **Janitor queue depth:** 5
-|- **Uncommitted files:** 9
+|- **Uncommitted files:** 17
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 || Stage | Script | Last run | Output |
 ||-------|--------|----------|--------|
 || Scout | echopedia-scout-live | daily 04:05 | 44 checked, 0 broken, 0 slow |
-|| Filter | echopedia-content-analysis | daily 04:00 | 0 scanned, 0 queued |
+|| Filter | echopedia-content-analysis | daily 04:00 | 268 scanned, 0 queued |
 || Extract | echopedia-extract-actions | daily 04:10 | knowledge/operational/extracted/ |
 || Evaluate | echopedia-evaluate-actions | daily 04:15 | knowledge/operational/evaluated/ |
 || Generate | echopedia-generate-cards | daily 04:20 | 0 cards |
@@ -67,38 +67,38 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-08-02T03:12:49.859168-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-08-02T03:12:44.563803-07:00  ok
+    Last run:  2026-08-02T04:14:50.935850-07:00  ok
     Name:      Echopedia content analysis
     Schedule:  0 4 * * *
-    Last run:  2026-08-02T03:10:49.994773-07:00  ok
-    ⚠ Delivery failed: live adapter send failed: send_path_degraded; live adapter delivery to telegram:-5543616648 failed: send_path_degraded; delivery error: Telegram send failed: Timed out
+    Last run:  2026-08-02T04:00:48.244585-07:00  ok
     Name:      unified-watchdog
     Schedule:  every 30m
-    Last run:  2026-08-02T03:10:52.690266-07:00  error: Script exited with code 1
+    Last run:  2026-08-02T04:12:52.560942-07:00  ok
     Name:      echopedia-digest
     Schedule:  0 9 * * *
     Last run:  2026-08-02T03:10:45.268291-07:00  ok
     Name:      kanban-sync
     Schedule:  every 30m
-    Last run:  2026-08-02T03:10:45.576832-07:00  ok
+    Last run:  2026-08-02T04:11:50.181883-07:00  ok
     Name:      memory-audit
     Schedule:  0 5 * * *
     Last run:  2026-08-02T03:10:44.850925-07:00  ok
     Name:      echopedia-nightly-audit
     Schedule:  0 4 * * *
-    Last run:  2026-07-31T04:18:20.821224-07:00  ok
+    Last run:  2026-08-02T04:14:50.886736-07:00  ok
     ⚠ Delivery failed: live adapter send to telegram:-5543616648 timed out before the coroutine was dispatched; delivery error: Telegram send failed: Timed out
     Name:      echopedia-janitor
     Schedule:  0 4 * * *
-    Last run:  2026-08-02T03:11:28.015809-07:00  ok
+    Last run:  2026-08-02T04:01:32.552858-07:00  ok
     Name:      echopedia-weekly-improvement
     Schedule:  0 5 * * *
     Last run:  2026-08-02T03:13:48.185968-07:00  ok
     Name:      echopedia-ci-heal
     Schedule:  15 4 * * *
-    Last run:  2026-07-31T04:26:11.575164-07:00  ok
+    Last run:  2026-08-02T03:15:04.806742-07:00  ok
     Name:      vault-unfinished-threads
     Schedule:  0 8 * * *
+    Last run:  2026-08-02T03:10:52.669411-07:00  ok
 ```
 
 ## Briefs

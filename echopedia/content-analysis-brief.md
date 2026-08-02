@@ -1,8 +1,8 @@
 ## Echopedia Content Analysis — 2026-08-02
 - Standards v8
-- Pages scanned: **0** with findings
+- Pages scanned: **268** total, **0** with findings
 - Auto-queued for remediation: **0** (score ≥ 3)
-- Wall time: 0.34s
+- Wall time: 0.39s
 
 - **All pages pass content quality checks.**
 
