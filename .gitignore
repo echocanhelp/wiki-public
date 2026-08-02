@@ -59,3 +59,5 @@ moderation-webhook/
 # Local DB snapshots (not for public git)
 **/*.db
 state-snapshots/
+# Private LINE identity registry (never publish)
+echopedia/identity/
