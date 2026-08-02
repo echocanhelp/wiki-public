@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-08-02 04:15 PDT*
+*Generated: 2026-08-02 04:17 PDT*
 
 ## Orientation
 - **User manual (start here):** [USER_MANUAL.md](USER_MANUAL.md)
@@ -18,7 +18,7 @@
 ## Content
 |- **Markdown pages:** 29380
 |- **Janitor queue depth:** 5
-|- **Uncommitted files:** 5
+|- **Uncommitted files:** 1
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 || Stage | Script | Last run | Output |
@@ -67,7 +67,7 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-08-02T03:12:49.859168-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-08-02T04:14:50.935850-07:00  ok
+    Last run:  2026-08-02T04:16:51.219363-07:00  ok
     Name:      Echopedia content analysis
     Schedule:  0 4 * * *
     Last run:  2026-08-02T04:00:48.244585-07:00  ok
