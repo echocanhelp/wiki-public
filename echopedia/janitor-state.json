@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-07-31",
+  "last_run": "2026-08-02",
   "standards_version_seen": 8,
   "runs": [
     {
@@ -121,6 +121,13 @@
       "selected": 5,
       "standards_version": 8,
       "standards_bumped": false
+    },
+    {
+      "date": "2026-08-02",
+      "candidates": 29189,
+      "selected": 5,
+      "standards_version": 8,
+      "standards_bumped": false
     }
   ],
   "queue": [
@@ -173,15 +180,16 @@
       ]
     },
     {
-      "path": "articles/taiwanjustice-net/2026/20260208204548_台海軍情_公告南北300公里射擊管制區_傳中科院_9ba82a74e3f71867.md",
+      "path": "articles/taiwanjustice-net/2026/20260209113555_連2天同台出席-外界解讀盧秀燕蔡其昌互相較勁_c2a5c76345831246.md",
       "findings": [
         "NO_RELATED_PAGES",
         "NO_LAST_REVIEWED",
         "LINK_UNLINKED_ENTITY"
       ],
       "hygiene": [
-        "LINK_UNLINKED_ENTITY: articles/taiwanjustice-net/2026/20260208204548_台海軍情_公告南北300公里射擊管制區_傳中科院_9ba82a74e3f71867.md → organizations/taiwanjustice-net",
-        "LINK_UNLINKED_ENTITY: articles/taiwanjustice-net/2026/20260208204548_台海軍情_公告南北300公里射擊管制區_傳中科院_9ba82a74e3f71867.md → sources/taiwanjustice-net"
+        "LINK_UNLINKED_ENTITY: articles/taiwanjustice-net/2026/20260209113555_連2天同台出席-外界解讀盧秀燕蔡其昌互相較勁_c2a5c76345831246.md → people/lin-jialong",
+        "LINK_UNLINKED_ENTITY: articles/taiwanjustice-net/2026/20260209113555_連2天同台出席-外界解讀盧秀燕蔡其昌互相較勁_c2a5c76345831246.md → organizations/taiwanjustice-net",
+        "LINK_UNLINKED_ENTITY: articles/taiwanjustice-net/2026/20260209113555_連2天同台出席-外界解讀盧秀燕蔡其昌互相較勁_c2a5c76345831246.md → sources/taiwanjustice-net"
       ],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
@@ -192,15 +200,15 @@
       ]
     },
     {
-      "path": "articles/taiwanjustice-net/2026/20260121003652_陳日君千里求見教宗遭拒-惹哭網友_義媒為陳日君_fe5af730dd000a00.md",
+      "path": "articles/taiwanjustice-net/2026/20260121000856_中國疫苗外交會不會重蹈口罩覆轍_3d385b738e35e94d.md",
       "findings": [
         "NO_RELATED_PAGES",
         "NO_LAST_REVIEWED",
         "LINK_UNLINKED_ENTITY"
       ],
       "hygiene": [
-        "LINK_UNLINKED_ENTITY: articles/taiwanjustice-net/2026/20260121003652_陳日君千里求見教宗遭拒-惹哭網友_義媒為陳日君_fe5af730dd000a00.md → organizations/taiwanjustice-net",
-        "LINK_UNLINKED_ENTITY: articles/taiwanjustice-net/2026/20260121003652_陳日君千里求見教宗遭拒-惹哭網友_義媒為陳日君_fe5af730dd000a00.md → sources/taiwanjustice-net"
+        "LINK_UNLINKED_ENTITY: articles/taiwanjustice-net/2026/20260121000856_中國疫苗外交會不會重蹈口罩覆轍_3d385b738e35e94d.md → organizations/taiwanjustice-net",
+        "LINK_UNLINKED_ENTITY: articles/taiwanjustice-net/2026/20260121000856_中國疫苗外交會不會重蹈口罩覆轍_3d385b738e35e94d.md → sources/taiwanjustice-net"
       ],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
@@ -216,7 +224,7 @@
     "people/chen-meihui.md",
     "organizations/ntpc.md",
     "people/guo-yingyan.md",
-    "articles/taiwanjustice-net/2026/20260208204548_台海軍情_公告南北300公里射擊管制區_傳中科院_9ba82a74e3f71867.md",
-    "articles/taiwanjustice-net/2026/20260121003652_陳日君千里求見教宗遭拒-惹哭網友_義媒為陳日君_fe5af730dd000a00.md"
+    "articles/taiwanjustice-net/2026/20260209113555_連2天同台出席-外界解讀盧秀燕蔡其昌互相較勁_c2a5c76345831246.md",
+    "articles/taiwanjustice-net/2026/20260121000856_中國疫苗外交會不會重蹈口罩覆轍_3d385b738e35e94d.md"
   ]
 }

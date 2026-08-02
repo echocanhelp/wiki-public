@@ -3,3 +3,13 @@
 {"path": "people/guo-yingyan.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
 {"path": "articles/taiwanjustice-net/2026/20260208204548_台海軍情_公告南北300公里射擊管制區_傳中科院_9ba82a74e3f71867.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed", "WROTE"]}
 {"path": "articles/taiwanjustice-net/2026/20260121003652_陳日君千里求見教宗遭拒-惹哭網友_義媒為陳日君_fe5af730dd000a00.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed", "WROTE"]}
+{"path": "people/chen-meihui.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "organizations/ntpc.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/guo-yingyan.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "articles/taiwanjustice-net/2026/20260209113555_連2天同台出席-外界解讀盧秀燕蔡其昌互相較勁_c2a5c76345831246.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "articles/taiwanjustice-net/2026/20260121000856_中國疫苗外交會不會重蹈口罩覆轍_3d385b738e35e94d.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "people/chen-meihui.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "organizations/ntpc.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/guo-yingyan.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "articles/taiwanjustice-net/2026/20260209113555_連2天同台出席-外界解讀盧秀燕蔡其昌互相較勁_c2a5c76345831246.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
+{"path": "articles/taiwanjustice-net/2026/20260121000856_中國疫苗外交會不會重蹈口罩覆轍_3d385b738e35e94d.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}

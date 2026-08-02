@@ -1,12 +1,12 @@
-## Echopedia Janitor — 2026-07-31
+## Echopedia Janitor — 2026-08-02
 - Standards v8
 - Pages with findings: **29189**
 - Queued tonight (max 5): **5**
 - Queue:
-  - `people/chen-meihui.md` age≈23.5d · LINK_UNLINKED_ENTITY
-  - `organizations/ntpc.md` age≈23.5d · LINK_UNLINKED_ENTITY
-  - `people/guo-yingyan.md` age≈23.5d · LINK_UNLINKED_ENTITY
-  - `articles/taiwanjustice-net/2026/20260208204548_台海軍情_公告南北300公里射擊管制區_傳中科院_9ba82a74e3f71867.md` age≈3.1d · NO_RELATED_PAGES, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
-  - `articles/taiwanjustice-net/2026/20260121003652_陳日君千里求見教宗遭拒-惹哭網友_義媒為陳日君_fe5af730dd000a00.md` age≈3.1d · NO_RELATED_PAGES, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
-- Log: `knowledge/operational/janitor-log/2026-07-31.jsonl`
+  - `people/chen-meihui.md` age≈25.4d · LINK_UNLINKED_ENTITY
+  - `organizations/ntpc.md` age≈25.4d · LINK_UNLINKED_ENTITY
+  - `people/guo-yingyan.md` age≈25.4d · LINK_UNLINKED_ENTITY
+  - `articles/taiwanjustice-net/2026/20260209113555_連2天同台出席-外界解讀盧秀燕蔡其昌互相較勁_c2a5c76345831246.md` age≈5.1d · NO_RELATED_PAGES, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
+  - `articles/taiwanjustice-net/2026/20260121000856_中國疫苗外交會不會重蹈口罩覆轍_3d385b738e35e94d.md` age≈5.1d · NO_RELATED_PAGES, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
+- Log: `knowledge/operational/janitor-log/2026-08-02.jsonl`
 - Agent auto-apply: **False** (local pin only if enabled)

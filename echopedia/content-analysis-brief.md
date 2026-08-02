@@ -2,7 +2,7 @@
 - Standards v8
 - Pages scanned: **0** with findings
 - Auto-queued for remediation: **0** (score ≥ 3)
-- Wall time: 0.38s
+- Wall time: 0.34s
 
 - **All pages pass content quality checks.**
 
