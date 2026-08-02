@@ -1,0 +1,150 @@
+@use "./base.scss";
+
+// Echopedia landing + polish
+
+:root {
+  --echo-accent: #1f4e5f;
+  --echo-accent-soft: #e8f2f4;
+  --echo-gold: #c4a35a;
+  --echo-card-border: rgba(31, 78, 95, 0.14);
+  --echo-shadow: 0 10px 28px rgba(20, 40, 50, 0.08);
+}
+
+html[saved-theme="dark"] {
+  --echo-accent: #8ec5d4;
+  --echo-accent-soft: rgba(142, 197, 212, 0.12);
+  --echo-gold: #d4b56a;
+  --echo-card-border: rgba(142, 197, 212, 0.22);
+  --echo-shadow: 0 10px 28px rgba(0, 0, 0, 0.35);
+}
+
+.echo-hero {
+  margin: 1.25rem 0 2rem;
+  padding: 1.5rem 1.5rem 1.35rem;
+  border-radius: 16px;
+  background:
+    radial-gradient(1200px 280px at 10% -20%, rgba(196, 163, 90, 0.22), transparent 55%),
+    linear-gradient(135deg, var(--echo-accent-soft), transparent 70%);
+  border: 1px solid var(--echo-card-border);
+  box-shadow: var(--echo-shadow);
+}
+
+.echo-hero-kicker {
+  margin: 0 0 0.5rem;
+  font-size: 0.85rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--echo-accent);
+  font-weight: 600;
+}
+
+.echo-hero-lead {
+  margin: 0 0 1.1rem;
+  font-size: 1.15rem;
+  line-height: 1.55;
+  max-width: 48rem;
+}
+
+.echo-hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+}
+
+.echo-btn {
+  display: inline-block;
+  padding: 0.55rem 1rem;
+  border-radius: 999px;
+  font-weight: 600;
+  text-decoration: none !important;
+  border: 1px solid transparent;
+  transition: transform 0.12s ease, box-shadow 0.12s ease, background 0.12s ease;
+}
+
+.echo-btn:hover {
+  transform: translateY(-1px);
+}
+
+.echo-btn-primary {
+  background: var(--echo-accent);
+  color: #fff !important;
+  box-shadow: 0 4px 14px rgba(31, 78, 95, 0.25);
+}
+
+html[saved-theme="dark"] .echo-btn-primary {
+  color: #0f1a1e !important;
+}
+
+.echo-btn-secondary {
+  background: transparent;
+  color: var(--echo-accent) !important;
+  border-color: var(--echo-accent);
+}
+
+.echo-card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 0.9rem;
+  margin: 1rem 0 1.25rem;
+}
+
+.echo-card {
+  padding: 1rem 1.05rem 0.95rem;
+  border-radius: 12px;
+  border: 1px solid var(--echo-card-border);
+  background: var(--light, #fff);
+  box-shadow: var(--echo-shadow);
+  transition: border-color 0.12s ease, transform 0.12s ease;
+}
+
+html[saved-theme="dark"] .echo-card {
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.echo-card:hover {
+  border-color: var(--echo-accent);
+  transform: translateY(-2px);
+}
+
+.echo-card h3 {
+  margin: 0 0 0.4rem;
+  font-size: 1.02rem;
+  line-height: 1.35;
+}
+
+.echo-card h3 a {
+  text-decoration: none;
+}
+
+.echo-card p {
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.45;
+  opacity: 0.92;
+}
+
+.echo-footer-band {
+  margin-top: 2rem;
+  padding: 1rem 1.15rem;
+  border-radius: 12px;
+  border-left: 4px solid var(--echo-gold);
+  background: var(--echo-accent-soft);
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+// Slightly richer tables on landing / indexes
+article table {
+  width: 100%;
+  display: table;
+}
+
+article table td,
+article table th {
+  vertical-align: top;
+}
+
+// Callout breathing room
+.callout {
+  border-radius: 10px;
+}
