@@ -94,3 +94,6 @@ Safe programmable only — body first-mentions still human/local agent.
 - No strong interaction name candidates
 
 *Auto: no page creation — queue for human/ops.*
+### Review gate: generated cards
+- No generated cards this week
+
