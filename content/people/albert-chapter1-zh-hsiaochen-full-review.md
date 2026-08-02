@@ -34,13 +34,13 @@ echo: scratch
 Use headphones. Preload is metadata-only.
 
 <audio controls preload="metadata" style="width:100%;max-width:40rem">
-  <source src="../media/albert-ch01-zh-hsiaochen-v1-full-scratch.mp3" type="audio/mpeg">
+  <source src="https://echocanhelp.github.io/wiki-public/public/media/albert-ch01-zh-hsiaochen-v1-full-scratch.mp3" type="audio/mpeg">
 </audio>
 
-- [Download MP3](../media/albert-ch01-zh-hsiaochen-v1-full-scratch.mp3) · ~35:43 · full Ch.I
+- [Download MP3](https://echocanhelp.github.io/wiki-public/public/media/albert-ch01-zh-hsiaochen-v1-full-scratch.mp3) · ~35:43 · full Ch.I
 
 Absolute (if relative player fails on CDN lag):  
-https://echocanhelp.github.io/wiki-public/media/albert-ch01-zh-hsiaochen-v1-full-scratch.mp3
+https://echocanhelp.github.io/wiki-public/public/media/albert-ch01-zh-hsiaochen-v1-full-scratch.mp3
 
 ## Method lock (do not change without new sign-off)
 
