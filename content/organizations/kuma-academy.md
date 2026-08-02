@@ -25,11 +25,11 @@ last_reviewed: 2026-08-02
 
 Community-circulated narratives describe curriculum development drawing on foreign civil-defense materials, instructor training (including open-source intelligence / OSINT skills in some accounts), and approachable public programs (e.g. family or fire-department-linked events) intended to normalize preparedness without partisan framing. Echopedia carries these points as **unverified claims** from secondary forwards until syllabi, official about pages, and news features are archived.
 
-Related but distinct from **Doublethink Lab**, which is framed around research on information and influence operations rather than hands-on community defense classes.
+Related but distinct from [[organizations/doublethink-lab|Doublethink Lab]], which is framed around research on information and influence operations rather than hands-on community defense classes.
 
 ## People
 
-- Community accounts often link founding or early leadership to **Puma Shen (沈伯洋)**; verify titles and succession on primary sources.
+- Community accounts often link founding or early leadership to [[people/puma-shen|Puma Shen (沈伯洋)]]; verify titles and succession on primary sources.
 
 ## Source Notes and Confidence
 

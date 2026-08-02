@@ -30,7 +30,7 @@ last_reviewed: 2026-08-02
 
 ## Overview
 
-Community-circulated accounts describe Shen as returning to Taiwan after doctoral study, engaging interdisciplinary networks on foreign election interference and disinformation, and helping build institutional capacity in two areas often summarized as “information/cognitive defense” and “community resilience / civil defense education.” Organizations commonly linked in those accounts include **Doublethink Lab (民主實驗室)** and **Kuma Academy (黑熊學院)**.
+Community-circulated accounts describe Shen as returning to Taiwan after doctoral study, engaging interdisciplinary networks on foreign election interference and disinformation, and helping build institutional capacity in two areas often summarized as “information/cognitive defense” and “community resilience / civil defense education.” Organizations commonly linked in those accounts include [[organizations/doublethink-lab|Doublethink Lab (民主實驗室)]] and [[organizations/kuma-academy|Kuma Academy (黑熊學院)]].
 
 Echopedia records these associations as **pending verification**. Overview text deliberately omits campaign superlatives and unsourced personal-hero framing from social forwards.
 

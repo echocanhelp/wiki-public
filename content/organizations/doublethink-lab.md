@@ -34,7 +34,8 @@ Do not treat social-media heroic biographies as organizational history.
 
 ## People
 
-- Commonly associated founder/leader figure in community accounts: **Puma Shen (沈伯洋)** — see person page; roles and succession (e.g. handoff before legislative service) need primary confirmation.
+- Commonly associated founder/leader figure in community accounts: [[people/puma-shen|Puma Shen (沈伯洋)]] — roles and succession (e.g. handoff before legislative service) need primary confirmation.
+- Sister civic track in community accounts: [[organizations/kuma-academy|Kuma Academy (黑熊學院)]] (civil-defense education; distinct mission).
 
 ## Source Notes and Confidence
 
