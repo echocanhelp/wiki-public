@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-08-02 04:14 PDT*
+*Generated: 2026-08-02 04:15 PDT*
 
 ## Orientation
 - **User manual (start here):** [USER_MANUAL.md](USER_MANUAL.md)
@@ -18,7 +18,7 @@
 ## Content
 |- **Markdown pages:** 29380
 |- **Janitor queue depth:** 5
-|- **Uncommitted files:** 17
+|- **Uncommitted files:** 5
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 || Stage | Script | Last run | Output |
