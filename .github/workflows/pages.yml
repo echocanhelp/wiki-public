@@ -1,0 +1,82 @@
+name: Deploy Echopedia to GitHub Pages
+
+# GitHub Pages workflow-based build (build_type: "workflow")
+# Replaces the legacy direct-push-to-gh-pages approach.
+# Actions handles the deploy; echopedia-publish.sh only builds.
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Clone Quartz
+        run: |
+          git clone --depth=1 https://github.com/jackyzha0/quartz.git quartz-v4
+          cd quartz-v4
+          npm install
+
+      - name: Apply custom Quartz config
+        run: |
+          cp config/quartz.config.ts quartz-v4/quartz.config.ts
+          # Apply custom SCSS
+          cp config/quartz-overrides/quartz/styles/custom.scss quartz-v4/quartz/styles/custom.scss
+          # Apply custom component resources
+          cp config/quartz-overrides/quartz/plugins/emitters/componentResources.ts quartz-v4/quartz/plugins/emitters/componentResources.ts
+
+      - name: Build Echopedia site
+        run: |
+          # rsync content → quartz/content/
+          rsync -a --delete content/ quartz-v4/content/
+          # Build Quartz → quartz-v4/public/
+          cd quartz-v4
+          npx quartz build
+          # Mirror quartz public/ → repo public/
+          rsync -a quartz-v4/public/ public/
+          # Copy root index.html from quartz build
+          cp -f quartz-v4/public/index.html index.html
+          # Ensure favicon/static assets
+          mkdir -p public/static
+          if [ -f quartz-v4/quartz/static/icon.png ] && [ ! -f public/static/icon.png ]; then
+            cp -f quartz-v4/quartz/static/icon.png public/static/icon.png
+          fi
+          # Regenerate featured section (inject into root + public index.html)
+          python3 scripts/featured-regen.py --root . --inject --recency-window 30 --max-people 6 --max-orgs 3
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public/
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.pages_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
