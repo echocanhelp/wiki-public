@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-08-03T08:14:14Z",
+  "updated_at": "2026-08-03T08:24:00Z",
   "description": "Taiwan Justice absorb priority lexicon (L0 identity → L4 orgs)",
   "counts": {
-    "total": 293,
+    "total": 295,
     "L0": 7,
-    "L1": 57,
-    "L2": 131,
+    "L1": 60,
+    "L2": 130,
     "L3": 10,
     "L4": 88
   },
@@ -31,7 +31,8 @@
       "name_en": "Becky Yang",
       "name_zh": "",
       "aliases": [
-        "Becky Yang"
+        "Becky Yang",
+        "*(pending ZH)*"
       ],
       "notes": "identity_registry state=owner_verified"
     },
@@ -114,6 +115,19 @@
       "notes": "roster 會務指導主席 (Affairs guidance chair) 2025"
     },
     {
+      "id": "l1:ashton-hsu",
+      "slug": "ashton-hsu",
+      "band": "L1",
+      "name_en": "Ashton Hsu",
+      "name_zh": "許思敦",
+      "aliases": [
+        "Ashton Hsu",
+        "許思敦",
+        "Ashton Hsu (許思敦)"
+      ],
+      "notes": "roster ashton hsu"
+    },
+    {
       "id": "l1:bai-peiyu",
       "slug": "bai-peiyu",
       "band": "L1",
@@ -137,7 +151,7 @@
         "白偉瑋",
         "Wei Wei Bai (白偉瑋)"
       ],
-      "notes": "roster 副會長 (Vice President) 2025"
+      "notes": "roster 副會長 (Vice President) 2025; not yet seen speaking in LINE logs"
     },
     {
       "id": "l1:cai-shunyu",
@@ -229,7 +243,7 @@
         "陳文石",
         "陳文石 (Chen Wenshi)"
       ],
-      "notes": "roster Artist / cultural advocate (2026-07)"
+      "notes": "roster *(not yet seen speaking)*"
     },
     {
       "id": "l1:chen-zhaonan",
@@ -281,7 +295,7 @@
         "程炳成",
         "Franklin Ping Cheng (程炳成)"
       ],
-      "notes": "roster TAHS President 2014– (successor to Charles Yang)"
+      "notes": "roster *(not yet seen speaking)*"
     },
     {
       "id": "l1:freeman-huang",
@@ -294,7 +308,7 @@
         "黃樹人",
         "Freeman Huang (黃樹人)"
       ],
-      "notes": "roster 秘書 (Secretary) 2025; taiwanjustice.net publisher"
+      "notes": "roster 秘書 (Secretary) 2025; taiwanjustice.net publisher; LINE display: \"黄樹人\" (simp.)"
     },
     {
       "id": "l1:gene-tsai",
@@ -385,7 +399,7 @@
         "黃根深",
         "Huang Gen-shen (黃根深)"
       ],
-      "notes": "roster Art teacher; UFAI founding member, 51-yr activist (2026-07)"
+      "notes": "roster *(not yet seen speaking)*"
     },
     {
       "id": "l1:huang-yongcheng",
@@ -425,6 +439,18 @@
         "John Yang (楊錦忠)"
       ],
       "notes": "roster 特別助理 (Special assistant) 2025"
+    },
+    {
+      "id": "l1:kevin-lee",
+      "slug": "kevin-lee",
+      "band": "L1",
+      "name_en": "Kevin Lee",
+      "name_zh": "*(pending ZH)*",
+      "aliases": [
+        "Kevin Lee",
+        "*(pending ZH)*"
+      ],
+      "notes": "roster Kevin Lee"
     },
     {
       "id": "l1:li-jian",
@@ -489,7 +515,7 @@
         "廖述宗",
         "Liao Shu-zong (廖述宗)"
       ],
-      "notes": "roster Biochemist; NATPA founder; democratic movement supporter (2026-07)"
+      "notes": "roster *(not yet seen speaking)*"
     },
     {
       "id": "l1:lin-baohua",
@@ -528,7 +554,7 @@
         "劉玲華",
         "Linda Liu (劉玲華)"
       ],
-      "notes": "roster TAHS member; board listing source Taiwan Center (2026-07)"
+      "notes": "roster Linda"
     },
     {
       "id": "l1:nanfang-shuo",
@@ -555,6 +581,18 @@
         "Paul Chen (陳柏宇)"
       ],
       "notes": "roster 財務指導主席 (Finance guidance chair) 2025"
+    },
+    {
+      "id": "l1:phoenix-ko",
+      "slug": "phoenix-ko",
+      "band": "L1",
+      "name_en": "Phoenix Ko",
+      "name_zh": "*(pending ZH)*",
+      "aliases": [
+        "Phoenix Ko",
+        "*(pending ZH)*"
+      ],
+      "notes": "roster Phoenix Ko"
     },
     {
       "id": "l1:roger-tsai",
@@ -919,18 +957,6 @@
       "aliases": [
         "林淑卿",
         "April Lin (林淑卿)"
-      ],
-      "notes": "content/people"
-    },
-    {
-      "id": "l2:ashton-hsu",
-      "slug": "ashton-hsu",
-      "band": "L2",
-      "name_en": "Ashton Hsu (許思敦)",
-      "name_zh": "許思敦",
-      "aliases": [
-        "許思敦",
-        "Ashton Hsu (許思敦)"
       ],
       "notes": "content/people"
     },
