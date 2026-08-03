@@ -1,12 +1,12 @@
-## Echopedia Janitor — 2026-08-02
+## Echopedia Janitor — 2026-08-03
 - Standards v8
-- Pages with findings: **29189**
+- Pages with findings: **29207**
 - Queued tonight (max 5): **5**
 - Queue:
-  - `people/chen-meihui.md` age≈25.5d · LINK_UNLINKED_ENTITY
-  - `organizations/ntpc.md` age≈25.5d · LINK_UNLINKED_ENTITY
-  - `people/guo-yingyan.md` age≈25.5d · LINK_UNLINKED_ENTITY
-  - `articles/taiwanjustice-net/2026/20260123224435_中國軍艦靠近台灣東部外海鄰接區_國防部_即時_7b214389f3e7625d.md` age≈5.1d · NO_RELATED_PAGES, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
-  - `articles/taiwanjustice-net/2026/20260122074806_辜寬敏推制憲公投_30日向中選會提案_5ac4b5644ec82fba.md` age≈5.1d · NO_RELATED_PAGES, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
-- Log: `knowledge/operational/janitor-log/2026-08-02.jsonl`
+  - `people/bai-peiyu.md` age≈0.1d · NO_IDENTITY_SNAPSHOT, NO_RELATED_PAGES, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
+  - `people/li-xiaofeng.md` age≈0.1d · NO_IDENTITY_SNAPSHOT, NO_RELATED_PAGES, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
+  - `people/tang-peili.md` age≈0.1d · NO_IDENTITY_SNAPSHOT, NO_RELATED_PAGES, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
+  - `people/yang-yuanxun.md` age≈0.1d · NO_IDENTITY_SNAPSHOT, NO_RELATED_PAGES, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
+  - `people/zheng-bingquan.md` age≈0.1d · NO_IDENTITY_SNAPSHOT, NO_RELATED_PAGES, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
+- Log: `knowledge/operational/janitor-log/2026-08-03.jsonl`
 - Agent auto-apply: **False** (local pin only if enabled)

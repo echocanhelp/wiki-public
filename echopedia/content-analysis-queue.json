@@ -1,10 +1,568 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "standards_version": 8,
-  "total_pages_scanned": 268,
-  "pages_with_findings": 0,
-  "auto_queued": 0,
-  "queue": [],
+  "total_pages_scanned": 61,
+  "auto_queued": 30,
+  "queue": [
+    {
+      "path": "people/bai-peiyu.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_REVIEW_DATE",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "priority": "high",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/cai-shunyu.md",
+      "findings": [
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_REVIEW_DATE",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "priority": "high",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/cao-changqing.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_REVIEW_DATE",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "priority": "high",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/chao-sile.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_REVIEW_DATE",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "priority": "high",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/guan-renjian.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_REVIEW_DATE",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "priority": "high",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/hu-ping.md",
+      "findings": [
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_REVIEW_DATE",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "priority": "high",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/huang-yongcheng.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_REVIEW_DATE",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "priority": "high",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/kevin-lee.md",
+      "findings": [
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_REVIEW_DATE",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "priority": "high",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/li-xiaofeng.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_REVIEW_DATE",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "priority": "high",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/li-yisheng.md",
+      "findings": [
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_REVIEW_DATE",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "priority": "high",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/lin-rongsong.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_REVIEW_DATE",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "priority": "high",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/nanfang-shuo.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_REVIEW_DATE",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "priority": "high",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/sang-pu.md",
+      "findings": [
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_REVIEW_DATE",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "priority": "high",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/shen-zizai.md",
+      "findings": [
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_REVIEW_DATE",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "priority": "high",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/tang-peili.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_REVIEW_DATE",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "priority": "high",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/wang-dan.md",
+      "findings": [
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_REVIEW_DATE",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "priority": "high",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/wang-qiaoling.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_REVIEW_DATE",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "priority": "high",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/wang-shufen.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_REVIEW_DATE",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "priority": "high",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/wei-jingsheng.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_REVIEW_DATE",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "priority": "high",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/wu-lipei.md",
+      "findings": [
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_REVIEW_DATE",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "priority": "high",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/xia-ming.md",
+      "findings": [
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_REVIEW_DATE",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "priority": "high",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/yang-yuanxun.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_REVIEW_DATE",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "priority": "high",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/yang-yueqing.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_REVIEW_DATE",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "priority": "high",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/ye-siya.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_REVIEW_DATE",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "priority": "high",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/yuan-zhihui.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_REVIEW_DATE",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "priority": "high",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/zhang-xinhui.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_REVIEW_DATE",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "priority": "high",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/zheng-bingquan.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_REVIEW_DATE",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "priority": "high",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/zheng-qinren.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_REVIEW_DATE",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "priority": "high",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/zheng-wenlong.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_REVIEW_DATE",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "priority": "high",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/zou-jingwen.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_REVIEW_DATE",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "priority": "high",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    }
+  ],
   "suppressed_findings": 136,
-  "fp_history_entries": 136
+  "fp_history_entries": 367
 }

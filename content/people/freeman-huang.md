@@ -8,14 +8,14 @@ tags:
   - publisher
   - TAHS
   - tahs-leadership
-verification_status: pending
+verification_status: published
 last_reviewed: 2026-08-03
 name_en: Freeman Huang
 name_zh_hanzi: 黃樹人
 ---
 # Freeman Huang (黃樹人)
 
-**Freeman Huang (黃樹人)** is the publisher associated with **taiwanjustice.net** (台灣公義網 / Taiwan Justice), a Taiwanese-American news and opinion site whose public web presence closed around October 2025. On the **TAHS 2025 organization chart** he is listed as **Secretary (秘書)** of the [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]].
+**Freeman Huang (黃樹人)** is the publisher associated with **taiwanjustice.net** (台灣公義網 / Taiwan Justice), a Taiwanese-American news and opinion site whose public web presence closed around October 2025. On the **TAHS 2025 organization chart** he is listed as **Secretary (秘書長)** of the [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]].
 
 ## Identity Snapshot
 - Era: Contemporary (site active into mid-2020s; closed ~2025-10)
