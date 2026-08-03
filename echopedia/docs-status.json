@@ -1,12 +1,15 @@
 {
-  "at": "2026-08-03T02:08:58.679852+00:00",
-  "status": "OK",
-  "fail": 0,
-  "warn": 0,
-  "ok": 15,
+  "at": "2026-08-03T07:58:09.935212+00:00",
+  "status": "FAIL",
+  "fail": 1,
+  "warn": 1,
+  "ok": 12,
   "cron_count": 22,
   "agent_crons": 0,
   "bad_deliver": 0,
   "link_missing": 0,
-  "issues": []
+  "issues": [
+    "FAIL: missing canon doc echopedia/CONTROL.md",
+    "WARN: WORKER routing missing playbook IDs: P11"
+  ]
 }
