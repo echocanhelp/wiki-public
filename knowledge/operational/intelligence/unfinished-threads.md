@@ -9,7 +9,6 @@
 [STALE_VERIFIED] 0 pages
   (none)
 
-[EXPLICIT_WIP] 3 pages
+[EXPLICIT_WIP] 2 pages
   - 20240616131322_root_8d88f71c00a35bfc.md — WIP: 'incomplete' detected
   - ashton-hsu.md — WIP: 'initial draft' detected
-  - freeman-huang.md — WIP: 'incomplete' detected

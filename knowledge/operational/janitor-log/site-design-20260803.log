@@ -1,0 +1,6 @@
+=== SITE DESIGN HEAL — 2026-08-03 dry=0 audit_only=1 ===
+flags: heal=True featured=True publish=True
+SITE_DESIGN_STATUS: WARN
+SITE_DESIGN_SUMMARY: critical=0 high=0 medium=1 md=313 heals=none
+SITE_DESIGN_BRIEF: /home/leedt/echo-system/echopedia/site-design-brief.md
+SITE_DESIGN_HEAL: audit-only status=WARN

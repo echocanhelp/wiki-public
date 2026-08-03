@@ -3,3 +3,13 @@
 {"path": "people/tang-peili.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
 {"path": "people/yang-yuanxun.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
 {"path": "people/zheng-bingquan.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "people/bai-peiyu.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
+{"path": "people/li-xiaofeng.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
+{"path": "people/tang-peili.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
+{"path": "people/yang-yuanxun.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
+{"path": "people/zheng-bingquan.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
+{"path": "people/bai-peiyu.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
+{"path": "people/li-xiaofeng.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
+{"path": "people/tang-peili.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
+{"path": "people/yang-yuanxun.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
+{"path": "people/zheng-bingquan.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
