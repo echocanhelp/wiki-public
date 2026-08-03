@@ -1,15 +1,17 @@
 # Echopedia User Manual
 
-**Start here.** Humans use this file. **Local workers use [WORKER.md](WORKER.md)** (numbered playbooks only).
+**Start here for commands.** For **how not to corrupt the system**, read **[CONTROL.md](CONTROL.md)** first.  
+**Local workers use [WORKER.md](WORKER.md)** (numbered playbooks only).
 
 | Doc | Who | Role |
 |------|-----|------|
-| **[USER_MANUAL.md](USER_MANUAL.md)** (this) | Human + smart model | How the system works; how to assign work |
+| **[CONTROL.md](CONTROL.md)** | Human + every model | Control surfaces, SSOT, safe usage, corruption blacklist |
+| **[USER_MANUAL.md](USER_MANUAL.md)** (this) | Human + smart model | Command language; how to assign work |
 | **[WORKER.md](WORKER.md)** | Local worker model | Execute one playbook, no design |
 | **[FEATURE_ADD.md](FEATURE_ADD.md)** | Human + planner | Checklist when adding Google/tools/crons/etc. |
 | [WHERE_WE_ARE.md](WHERE_WE_ARE.md) | Both (read) | Built vs remains |
 | [SYSTEM_STATUS.md](SYSTEM_STATUS.md) | Both (read) | Live health (auto) |
-| skill `echopedia-ops` | Agent | Routing map |
+| skill `echopedia-ops` | Agent | Routing map only |
 | [standards.json](standards.json) | Both | Autonomy switches + version |
 
 Vault: `/home/leedt/echo-system` · Live: https://echocanhelp.github.io/wiki-public/
