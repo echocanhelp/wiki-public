@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "echocanhelp.github.io/wiki-public",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "articles/**"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
