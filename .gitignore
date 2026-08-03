@@ -92,3 +92,8 @@ echopedia/identity/
 # Local vault search cache
 /cache/
 /echopedia/cdn-verify-status.json
+
+# Doc OS generated
+/echopedia/docs-status.json
+/echopedia/cron-inventory.generated.md
+/echopedia/.docs-link-missing.txt

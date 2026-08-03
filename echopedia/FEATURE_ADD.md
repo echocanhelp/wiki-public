@@ -39,6 +39,23 @@
 
 ---
 
+
+
+## 2b. SSOT checklist (anti-corruption) — required
+
+Before closing any feature work, answer:
+
+| Question | Answer in PR/kanban result |
+|----------|----------------------------|
+| Which **one** SSOT changed? | jobs.json / standards.json / content/ / script / WORKER / CONTROL |
+| Did you avoid triple-writing cron/metrics into MD? | yes/no |
+| Projection updated how? | docs-sync / system-status / none needed |
+| Lesson stored where (one place)? | skill pitfall / CONTROL / nowhere |
+| Agent cron added? | **must be no** unless CONTROL exception |
+| Secrets in git/MEMORY/wiki? | **must be no** |
+
+See **[CONTROL.md](CONTROL.md)**. Run: `bash ~/.hermes/scripts/echopedia-docs-sync.sh` — expect `DOCS_STATUS: OK` (or documented WARN).
+
 ## 3. Doc / control updates (checklist)
 
 Tick only what applies:

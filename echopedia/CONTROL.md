@@ -188,16 +188,21 @@ Then **either** wait for docs-sync **or** update WHERE_WE_ARE/WORKER cron sectio
 - [ ] No secrets  
 - [ ] Tier1 git dirty only if intentional content  
 
-### 6.3 Future docs-sync (target control)
+### 6.3 Doc OS — `echopedia-docs-sync.sh` (shipped)
 
-When `echopedia-docs-sync.sh` exists:
+```bash
+bash ~/.hermes/scripts/echopedia-docs-sync.sh          # sense
+bash ~/.hermes/scripts/echopedia-ops-check.sh         # includes docs-sync gate
+```
 
-- Cron inventory **generated** from jobs.json into marked sections.  
-- Link check + playbook completeness → ops-check.  
-- Digest line: `DOCS_STATUS: OK|DRIFT`.  
-- Hand-edited generated blocks → overwrite on next sync (by design).
+- Cron inventory **generated** from pinto `jobs.json` → `SYSTEM_STATUS` markers + `cron-inventory.generated.md`
+- Link-check CONTROL/USER_MANUAL/WORKER/WHERE/FEATURE_ADD
+- WORKER P0–P13 routing coverage
+- Writes `docs-status.json` · digest shows **Docs:** line · actionables on FAIL/WARN
+- Wired into `echopedia-system-status.sh` and `echopedia-ops-check.sh`
+- Hand-edited generated cron blocks → overwritten on next sync (by design)
 
-Until then: after cron edits, update **WORKER AUTOMATED CRONS** or WHERE table **once**, same commit as the cron change when possible.
+After cron edits: run docs-sync (or wait for system-status/ci-heal). Optional: still note mission impact in WHERE_WE_ARE once.
 
 ---
 

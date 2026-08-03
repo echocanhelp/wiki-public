@@ -1,3 +1,15 @@
+# ⚠ QUARANTINE — DO NOT USE FOR OPS
+
+> **This file is LEGACY / DEPRECATED.** It does **not** describe the live pinto system.
+> **Do not** follow its LLM ports, cron status, or bridge instructions.
+>
+> **Live control:** [`echopedia/CONTROL.md`](echopedia/CONTROL.md)  
+> **Commands:** [`echopedia/USER_MANUAL.md`](echopedia/USER_MANUAL.md)  
+> **Health:** [`echopedia/SYSTEM_STATUS.md`](echopedia/SYSTEM_STATUS.md)  
+> **Hermes profile:** `pinto` · Laguna `:8888` · crons in `~/.hermes/profiles/pinto/cron/jobs.json`
+
+---
+
 # Echo System 3.0 — MIGRATING TO HERMES
 
 > **Status:** DEPRECATED (2026-07-04)  

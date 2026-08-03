@@ -240,7 +240,7 @@ Messaging platforms ≠ wiki dump by default. Prefer existing media tools before
 
 The diagram below shows the full Human → Planner → Worker → Git → Telegram flow.
 
-**Interactive HTML:** [architecture-diagram.html](architecture-diagram.html) (open in browser)
+**Interactive HTML:** [architecture-diagram.html](CONTROL.md) (open in browser)
 
 **Quick reference (ASCII):**
 

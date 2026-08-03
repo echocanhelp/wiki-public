@@ -173,6 +173,7 @@ Found two relevant mechanisms:
 | **P8** | **Edit page content** | **New facts from source** | **1. Read source 2. Read target page 3. Apply edits with named source 4. Commit only (no publish) 5. Report** |
 | P9 | New work page | Create stub | 1. Create page from template 2. Add frontmatter 3. Commit 4. Report |
 | P10 | Commit/push git | Git ops | 1. `git add` 2. `git commit` 3. `git push` 4. Report |
+| P11 | Cron selfcheck | Cron map honesty | 1. `bash ~/.hermes/scripts/echopedia-cron-selfcheck.sh` 2. `bash ~/.hermes/scripts/echopedia-docs-sync.sh` 3. Report |
 | P12 | Featured regen | Homepage cards | 1. `featured-regen.py --dry-run` 2. Verify 3. `featured-regen.py --inject` 4. Commit + publish 5. Report |
 | P13 | Site design | Layout issues | 1. Read site-design-brief.md 2. Run audit 3. Propose fixes (incl. root index.html copy from quartz build, Pages build type migration) 4. Report |
 
