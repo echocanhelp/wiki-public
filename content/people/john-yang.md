@@ -9,7 +9,7 @@ tags:
 name_en: "John Yang"
 name_zh_hanzi: "楊錦忠"
 verification_status: pending
-last_reviewed: 2026-08-02
+last_reviewed: 2026-08-03
 source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
 ---
 # John Yang (楊錦忠)
@@ -34,6 +34,14 @@ This page is an **A-tier thin record** for graph linking and member-priority sco
 - **Title:** 特別助理 (Special assistant (特別助理), TAHS 2025)
 - **Source:** TAHS 2025 organization chart (台美人歷史協會組織表), Tax ID 46-4005384
 - **Roster:** `knowledge/operational/tahs-priority-roster.md` (L1)
+
+## Taiwan Justice (台灣公義網) Citations
+
+- **2025-09-05** — *台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元* (score 490)
+  - Article: `articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74.md`
+  - Role: Special assistant (特別助理), TAHS 2025; listed as board attendee at Leonard Hsu's installation ceremony.
+  - Publisher: Freeman Huang (黃樹人); categories: `usa`, `taiwaneseamerican`, `usa_news`
+  - Wikilink: `[[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74|台美人歷史協會新任會長許景鴻接椽]]`
 
 ## Source Notes and Confidence
 

@@ -41,8 +41,23 @@ This page is an **A-tier thin record** for graph linking and member-priority sco
 - **Pending:** Preferred English spelling (where marked provisional), full biography, tenure dates beyond chart year
 - `verification_status: pending` until member or officer review
 
-## Related Pages
+## Taiwan Justice (台灣公義網) Citations
 
+- **2024-10-04** — *2024大洛杉磋台灣會館第26周年年會晚宴暨募款活動11月2日舉行* (score 690)
+  - Article: `articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磋台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66.md`
+  - Role: Listed as board director (董事) of Taiwan Center; listed among 38 directors for the 2024 fundraising gala.
+  - Publisher: Freeman Huang (黃樹人); categories: `usa`, `taiwaneseamerican`, `taiwan-center`
+  - Wikilink: `[[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磋台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66|2024台灣會館26周年晚宴]]`
+
+## Taiwan Justice (台灣公義網) Citations
+
+- **2024-10-04** — *2024大洛杉磮台灣會館第26周年年會晚宴暨募款活動11月2日舉行* (score 690)
+  - Article: `articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磮台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66.md`
+  - Role: Listed as board director (董事) of Taiwan Center; listed among 38 directors for the 2024 fundraising gala.
+  - Publisher: Freeman Huang (黃樹人); categories: `usa`, `taiwaneseamerican`, `taiwan-center`
+  - Wikilink: `[[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磮台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66|2024台灣會館26周年晚宴]]`
+
+## Related Pages
 - [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
 - [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]] — President (會長)
 - [[people/yang-jia-you|Charles Yang (楊嘉猷)]] — Treasurer (財務長); founding president

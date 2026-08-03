@@ -104,6 +104,14 @@ Yang's legacy is the establishment of TAHS as an organization dedicated to docum
 - **Hub:** 2017 TAHS Publication (public URL historically under sources/2017-tahs-publication; MD restore pending if missing locally)
 - **Note:** Full 2017 text may include further family/education detail for future depth pass
 
+## Taiwan Justice (台灣公義網) Citations
+
+- **2025-09-05** — *台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元* (score 490)
+  - Article: `articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74.md`
+  - Role: Founding President (創會會長); introduced Leonard Hsu as successor, noting "世代傳承的新階段" (new era of generational succession).
+  - Publisher: Freeman Huang (黃樹人); categories: `usa`, `taiwaneseamerican`, `usa_news`
+  - Wikilink: `[[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74|台美人歷史協會新任會長許景鴻接椽]]`
+
 ## Related Pages
 
 - [[people/becky-yang|Becky Yang]]

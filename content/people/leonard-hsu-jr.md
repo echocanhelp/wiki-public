@@ -69,6 +69,14 @@ Primary architect and maintainer of Echopedia, the community knowledge base for 
 - 2026-05-28: Updated with confirmed TAHS President role, family details, and location history. Status changed to Published.
 - 2026-06-16: Corrected prior attribution error; restored Leonard Hsu Jr.'s Chinese name to 許景鴻 (Hsu Ching-Hung) and removed Rex Chen's Chinese name from this page.
 
+## Taiwan Justice (台灣公義網) Citations
+
+- **2025-09-05** — *台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元* (score 490)
+  - Article: `articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74.md`
+  - Coverage: Leonard Hsu's installation as TAHS President, with founding president Charles Yang introducing him. Lists board attendees: 楊嘉猷, 許景鴻, 蔡漢成, 劉玲華, 李意盛, 楊錦忠, 沈梓在, 蔡淑女, 黃樹人.
+  - Publisher: Freeman Huang (黃樹人); categories: `usa`, `taiwaneseamerican`, `usa_news`
+  - Wikilink: `[[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74|台美人歷史協會新任會長許景鴻接椽]]`
+
 ## Related Pages
 
 - [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
