@@ -58,6 +58,7 @@ def get_embedder():
 # ─── Database ───────────────────────────────────────────────────────────
 def get_db():
     """Get SQLite connection with vector and graph tables."""
+    CACHE_DB.parent.mkdir(parents=True, exist_ok=True)
     conn = sqlite3.connect(str(CACHE_DB))
     conn.row_factory = sqlite3.Row
     _init_tables(conn)
@@ -172,12 +173,21 @@ def index_vault(rebuild=False):
     # Collect all pages
     pages = []
 
-    # Tier 1: content/
+    # Tier 1: content/ (exclude Tier2 archive under content/articles/)
     for md_file in CONTENT_DIR.rglob("*.md"):
         rel = md_file.relative_to(CONTENT_DIR)
-        if rel.name.startswith(".") or "index" in str(rel):
+        rel_s = str(rel).replace("\\", "/")
+        if rel.name.startswith(".") or "index" in rel_s:
             continue
-        content = md_file.read_text()
+        if rel_s.startswith("articles/") or "/articles/" in rel_s:
+            continue
+        if "*" in rel.name or not md_file.is_file():
+            continue
+        try:
+            content = md_file.read_text(errors="replace")
+        except OSError as e:
+            print(f"  [warn] skip {rel_s}: {e}", file=sys.stderr)
+            continue
         fm = extract_frontmatter(content)
         body = extract_body(content)
         pages.append({
@@ -188,12 +198,21 @@ def index_vault(rebuild=False):
             "fm": fm,
         })
 
-    # Tier 2: knowledge/
+    # Tier 2: knowledge/ (skip web-archives bulk if present)
     for md_file in KNOWLEDGE_DIR.rglob("*.md"):
         rel = md_file.relative_to(ECHOPEDIA_DIR)
+        rel_s = str(rel).replace("\\", "/")
         if rel.name.startswith("."):
             continue
-        content = md_file.read_text()
+        if "web-archives/" in rel_s or "/articles/" in rel_s:
+            continue
+        if "*" in rel.name or not md_file.is_file():
+            continue
+        try:
+            content = md_file.read_text(errors="replace")
+        except OSError as e:
+            print(f"  [warn] skip {rel_s}: {e}", file=sys.stderr)
+            continue
         fm = extract_frontmatter(content)
         body = extract_body(content)
         pages.append({
@@ -527,12 +546,21 @@ def _keyword_search(query, top_k=10):
                 "source": "public_wiki",
             })
 
-    # Tier 2: knowledge/
+    # Tier 2: knowledge/ (skip web-archives bulk if present)
     for md_file in KNOWLEDGE_DIR.rglob("*.md"):
         rel = md_file.relative_to(ECHOPEDIA_DIR)
+        rel_s = str(rel).replace("\\", "/")
         if rel.name.startswith("."):
             continue
-        content = md_file.read_text()
+        if "web-archives/" in rel_s or "/articles/" in rel_s:
+            continue
+        if "*" in rel.name or not md_file.is_file():
+            continue
+        try:
+            content = md_file.read_text(errors="replace")
+        except OSError as e:
+            print(f"  [warn] skip {rel_s}: {e}", file=sys.stderr)
+            continue
         fm = extract_frontmatter(content)
         body = extract_body(content)
         title = fm.get("title", md_file.stem)

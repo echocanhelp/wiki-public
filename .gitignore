@@ -88,3 +88,6 @@ echopedia/identity/
 
 # Large local-only corpora
 /audiobook-albert-lai/
+
+# Local vault search cache
+/cache/
