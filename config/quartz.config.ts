@@ -13,6 +13,8 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "echocanhelp.github.io/wiki-public",
+    // Exclude articles/ (29k+ Wayback Machine files from taiwanjustice.net)
+    // to prevent Quartz build timeouts. Use ** for minimatch nested-path matching.
     ignorePatterns: ["private", "templates", ".obsidian", "articles/**"],
     defaultDateType: "created",
     theme: {
