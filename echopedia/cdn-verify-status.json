@@ -1,24 +1,13 @@
 {
-  "at": "2026-08-03T04:09:32.187955+00:00",
-  "status": "CDN_LAG",
+  "at": "2026-08-03T05:32:19.448583+00:00",
+  "status": "OK",
   "homepage": "200",
   "total": 50,
-  "ok": 5,
-  "cdn_lag": 45,
+  "ok": 50,
+  "cdn_lag": 0,
   "missing": 0,
   "other": 0,
   "base_url": "https://echocanhelp.github.io/wiki-public",
   "missing_samples": [],
-  "lag_samples": [
-    "https://echocanhelp.github.io/wiki-public/events/tc-event-2025-annual-gala-fundraising-dinner",
-    "https://echocanhelp.github.io/wiki-public/events/tc-event-2025-miss-taiwan-usa-news",
-    "https://echocanhelp.github.io/wiki-public/events/tc-event-2025-traditional-week",
-    "https://echocanhelp.github.io/wiki-public/events/tc-event-2026-luo-shan-ji-tai-mei-ren-chuan-tong-zhou",
-    "https://echocanhelp.github.io/wiki-public/events/tc-event-2026-tai-wan-hui-guan-nian-hui",
-    "https://echocanhelp.github.io/wiki-public/events/tc-event-228-memorial-commemoration-ceremony",
-    "https://echocanhelp.github.io/wiki-public/events/tc-event-construction-progress-of-the-building",
-    "https://echocanhelp.github.io/wiki-public/events/tc-event-groundbreaking-ceremony",
-    "https://echocanhelp.github.io/wiki-public/events/tc-event-taiwan-joining-who",
-    "https://echocanhelp.github.io/wiki-public/events/tc-event-thanksgiving-dinner"
-  ]
+  "lag_samples": []
 }
