@@ -20,13 +20,13 @@ python3 ~/echo-system/scripts/taiwanjustice_priority_score.py --root ~/echo-syst
 | Paul Chen | 陳柏宇 | paul-chen | 財務指導主席 (Finance guidance chair) 2025 |
 | Gene Tsai | 蔡錦榮 | gene-tsai | 顧問 (Advisor) 2025 |
 | Hsu Shih-huan | 許世環 | xu-shihuan | 顧問 (Advisor) 2025; EN romanization provisional |
-|| Leonard Hsu Jr. | 許景鴻 | leonard-hsu-jr | 會長 (President) 2025; LINE display: "Leonard Hsu Junior" |
-|| Roger Tsai | 蔡漢成 | roger-tsai | 副會長 (Vice President) 2025 |
-|| Wei Wei Bai | 白偉瑋 | bai-weiwei | 副會長 (Vice President) 2025; not yet seen speaking in LINE logs |
-|| John Yang | 楊錦忠 | john-yang | 特別助理 (Special assistant) 2025 |
-|| Li Yi-sheng | 李意盛 | li-yisheng | 特別助理 (Special assistant) 2025; EN romanization provisional |
-|| Charles Yang | 楊嘉猷 | yang-jia-you | 財務長 (Treasurer) 2025; founding president; LINE mention label: "Chia you" (not yet sender) |
-|| Freeman Huang | 黃樹人 | freeman-huang | 秘書 (Secretary) 2025; taiwanjustice.net publisher; LINE display: "黄樹人" (simp.) |
+| Leonard Hsu Jr. | 許景鴻 | leonard-hsu-jr | 會長 (President) 2025; LINE display: "Leonard Hsu Junior" |
+| Roger Tsai | 蔡漢成 | roger-tsai | 副會長 (Vice President) 2025 |
+| Wei Wei Bai | 白偉瑋 | bai-weiwei | 副會長 (Vice President) 2025; not yet seen speaking in LINE logs |
+| John Yang | 楊錦忠 | john-yang | 特別助理 (Special assistant) 2025 |
+| Li Yi-sheng | 李意盛 | li-yisheng | 特別助理 (Special assistant) 2025; EN romanization provisional |
+| Charles Yang | 楊嘉猷 | yang-jia-you | 財務長 (Treasurer) 2025; founding president; LINE mention label: "Chia you" (not yet sender) |
+| Freeman Huang | 黃樹人 | freeman-huang | 秘書 (Secretary) 2025; taiwanjustice.net publisher; LINE display: "黄樹人" (simp.) |
 | Cai Shu-nu | 蔡淑女 | cai-shunyu | 總務 (General affairs) 2025; EN romanization provisional |
 | Shen Zi-zai | 沈梓在 | shen-zizai | 資訊 (Information / IT) 2025; EN romanization provisional |
 
