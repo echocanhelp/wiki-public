@@ -3,7 +3,37 @@
 **Purpose:** How we **control**, **manage**, and **document** the system so it improves without corruption.  
 **Audience:** Human operator (Hsuperman) + planner models + local workers.  
 **Status:** Canon (2026-08-02). Update when control surfaces change — not on every bugfix.  
-**Related:** [USER_MANUAL.md](USER_MANUAL.md) (commands) · [WORKER.md](WORKER.md) (playbooks) · [WHERE_WE_ARE.md](WHERE_WE_ARE.md) (mission) · `standards.json` (autonomy) · skill `echopedia-ops` (map only)
+**Related:** [USER_MANUAL.md](USER_MANUAL.md) (commands) · [WORKER.md](WORKER.md) (playbooks) · [WHERE_WE_ARE.md](WHERE_WE_ARE.md) (mission) · `standards.json` (autonomy) · skill `echopedia-ops` (map only) · skill **`go-router`** (universal entry)
+
+---
+
+## 0. Universal entry (only surface you need to remember)
+
+### You say:
+
+```text
+go <plain language>
+```
+
+Examples: `go status` · `go add fact about X from Y` · `go fix nightly audit` · `go` (alone = orient)
+
+**You do not** pick CONTROL vs manual vs ops vs Echopedia vs P#.  
+**The agent** loads skill `go-router`, applies this file’s invariants, auto-classifies, and touches **one SSOT**.
+
+Bare messages without `go` on this system are treated the same as `go <message>` (user will forget the prefix).
+
+| Your words | Agent routes to |
+|------------|-----------------|
+| status / healthy / broken / docs | health (SYSTEM_STATUS, docs-sync) |
+| person/org + fact / source | Echopedia P8 content |
+| website / domain | WEBSITE_INGEST |
+| cron / nightly / job | cron SSOT + docs-sync |
+| publish / ship | P2 / ci-heal |
+| build / plan / epic | plan + kanban |
+| turn off push / L3 | standards P6 |
+| (unclear) | orient once, then act |
+
+Full classifier: skill **`go-router`**.
 
 ---
 
@@ -12,13 +42,12 @@
 **Machine truth runs the system; thin docs steer humans; skills capture pitfalls; plans die after work.**
 
 ```
-You decide intent  →  pick control surface  →  change ONE SSOT
-                              ↓
-                    scripts/crons execute
-                              ↓
-                    status/digest observe
-                              ↓
-                    skill pitfall OR standards bump (learn once)
+You say: go <intent>
+        → go-router classifies
+        → change ONE SSOT
+        → scripts/crons execute
+        → status/digest observe
+        → skill pitfall OR standards bump (learn once)
 ```
 
 If you change the same fact in three markdown files, you are **corrupting** the system (drift), even if every sentence is “true” today.

@@ -1,20 +1,34 @@
 # Echopedia User Manual
 
-**Start here for commands.** For **how not to corrupt the system**, read **[CONTROL.md](CONTROL.md)** first.  
-**Local workers use [WORKER.md](WORKER.md)** (numbered playbooks only).
+**Only surface you need:** type **`go <what you want>`** — agent auto-routes (skill `go-router` + [CONTROL.md](CONTROL.md)).  
+You do **not** need to name CONTROL, ops, WORKER, or playbooks.
+
+**Local workers** (when assigned a P#) still use [WORKER.md](WORKER.md) exactly.
 
 | Doc | Who | Role |
 |------|-----|------|
-| **[CONTROL.md](CONTROL.md)** | Human + every model | Control surfaces, SSOT, safe usage, corruption blacklist |
-| **[USER_MANUAL.md](USER_MANUAL.md)** (this) | Human + smart model | Command language; how to assign work |
-| **[WORKER.md](WORKER.md)** | Local worker model | Execute one playbook, no design |
-| **[FEATURE_ADD.md](FEATURE_ADD.md)** | Human + planner | Checklist when adding Google/tools/crons/etc. |
+| **`go` / skill go-router** | Human (only entry) | Auto-classify intent → correct SSOT |
+| **[CONTROL.md](CONTROL.md)** | Every model (silent) | Anti-corruption invariants |
+| **[USER_MANUAL.md](USER_MANUAL.md)** (this) | Planner detail | Command language if needed |
+| **[WORKER.md](WORKER.md)** | Local worker | One playbook, no design |
+| **[FEATURE_ADD.md](FEATURE_ADD.md)** | Human + planner | New capability checklist |
 | [WHERE_WE_ARE.md](WHERE_WE_ARE.md) | Both (read) | Built vs remains |
 | [SYSTEM_STATUS.md](SYSTEM_STATUS.md) | Both (read) | Live health (auto) |
-| skill `echopedia-ops` | Agent | Routing map only |
+| skill `echopedia-ops` | Agent | Content map only |
 | [standards.json](standards.json) | Both | Autonomy switches + version |
 
 Vault: `/home/leedt/echo-system` · Live: https://echocanhelp.github.io/wiki-public/
+
+### Quick `go` examples
+
+| You type | Happens |
+|----------|---------|
+| `go` | Orient: health + next action or all-clear |
+| `go status` | Docs/CDN/cron health only |
+| `go <person> <fact> from <source>` | Wiki P8 path |
+| `go website example.org` | Full website ingest + publish bar |
+| `go fix …` | Infra/cron/script safe path |
+| `go ship` / `go publish` | Publish path with verify |
 
 ---
 

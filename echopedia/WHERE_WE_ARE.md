@@ -4,7 +4,7 @@
 
 **Last reviewed:** 2026-08-02  
 **Standards:** v8 · **Autonomy:** L3  
-**Control:** [CONTROL.md](CONTROL.md) (how to steer without corruption)  
+**Entry:** `go <plain language>` (skill go-router) · **Control:** [CONTROL.md](CONTROL.md)  
 **Start here:** [USER_MANUAL.md](USER_MANUAL.md) · workers: [WORKER.md](WORKER.md)  
 **Hub skill:** `echopedia-ops`  
 **Live site:** https://echocanhelp.github.io/wiki-public/  
