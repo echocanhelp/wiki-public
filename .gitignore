@@ -91,3 +91,4 @@ echopedia/identity/
 
 # Local vault search cache
 /cache/
+/echopedia/cdn-verify-status.json
