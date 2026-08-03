@@ -55,15 +55,16 @@ jobs:
           cd quartz-v4
           npx quartz build
           # Mirror quartz public/ → repo public/
-          rsync -a quartz-v4/public/ public/
+          rsync -a public/ ../public/
           # Copy root index.html from quartz build
-          cp -f quartz-v4/public/index.html index.html
+          cp -f public/index.html ../index.html
           # Ensure favicon/static assets
-          mkdir -p public/static
-          if [ -f quartz-v4/quartz/static/icon.png ] && [ ! -f public/static/icon.png ]; then
-            cp -f quartz-v4/quartz/static/icon.png public/static/icon.png
+          mkdir -p ../public/static
+          if [ -f quartz/static/icon.png ] && [ ! -f ../public/static/icon.png ]; then
+            cp -f quartz/static/icon.png ../public/static/icon.png
           fi
           # Regenerate featured section (inject into root + public index.html)
+          cd ..
           python3 scripts/featured-regen.py --root . --inject --recency-window 30 --max-people 6 --max-orgs 3
 
       - name: Upload Pages artifact
