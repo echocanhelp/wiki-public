@@ -213,6 +213,25 @@ WORKER.md playbook P8 PATH=content/people/ashton-hsu.md SOURCE="family memo pad 
 
 ---
 
+## AUTOMATED CRONS (pinto profile — all `no_agent`, deliver System group)
+
+| When | Job | Notes |
+|------|-----|-------|
+| 04:00 | janitor + content-analysis + nightly-audit | Audit: capped TG body; full log `echopedia/logs/` |
+| 04:05 | scout-live | Live UX |
+| 04:10 | extract-actions | |
+| 04:15 | evaluate-actions + **ci-heal** | Single nightly pusher; CDN verify |
+| 04:20 | generate-cards | |
+| 04:30 | site-design | Audit-only (no push) |
+| 05:00 | weekly-improvement (daily) + memory-audit + vault-morning-brief | Name historical |
+| Sun 05:30 | vault-search-index-rebuild | Tier1-focused index |
+| 08:00 | vault unfinished + intelligence | |
+| 09:00 | digest + vault-connector | Digest uses Tier1 counts + CDN status |
+| 30m | unified-watchdog | Tier1 git drift only |
+| 1m | vllm-thermal-scaler | Adaptive silent |
+
+Do **not** invent agent crons for these. Selfcheck: `echopedia-cron-selfcheck.sh`.
+
 ## Graph Engineering (from AGENT_GRAPH.md)
 
 Our architecture follows a **two-graph** model:

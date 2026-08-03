@@ -2,10 +2,12 @@
 
 *Living snapshot of the vibe-coded Echopedia system. Update when autonomy level, major crons, or mission status changes. Not a second copy of procedures — those live in skills.*
 
-**Last reviewed:** 2026-07-30  
+**Last reviewed:** 2026-08-02  
 **Standards:** v8 · **Autonomy:** L3  
 **Start here:** [USER_MANUAL.md](USER_MANUAL.md) · workers: [WORKER.md](WORKER.md)  
-**Hub skill:** `echopedia-ops`
+**Hub skill:** `echopedia-ops`  
+**Live site:** https://echocanhelp.github.io/wiki-public/  
+**Content shape:** Tier1 wiki ≈61 md (people/orgs/sources) · Tier2 archive ≈29k under `content/articles/` (not counted as wiki pages)
 
 ---
 
@@ -31,7 +33,7 @@ The system now continuously discovers content quality gaps and generates remedia
 3. **Extract** (04:10) — `echopedia-extract-actions.py` maps each finding to a specific remediation action
 4. **Evaluate** (04:15) — `echopedia-evaluate-actions.py` scores actions by user impact (inbound wikilinks × page type × finding severity)
 5. **Generate** (04:20) — `echopedia-generate-cards.py` creates structured kanban task cards
-6. **Review** (Mon 05:00) — `weekly-improvement.sh` summarizes generated cards for human approval
+6. **Review** (05:00 daily) — `echopedia-weekly-improvement.sh` summarizes generated cards for human approval (name is historical; schedule is daily)
 7. **Remediate** (04:00) — `echopedia-janitor` processes approved cards via P8/P3/P9 playbooks
 8. **Publish** (04:15) — `echopedia-ci-heal` builds + deploys on green
 
@@ -50,17 +52,20 @@ The system now continuously discovers content quality gaps and generates remedia
 | When | Job | Role |
 |------|-----|------|
 | 04:00 | `echopedia-janitor` | Sense / prioritize / queue |
-| 04:00 | `echopedia-nightly-audit` | Structural audit; incident on fail |
+| 04:00 | `echopedia-nightly-audit` | Structural audit; **capped TG report** + full log under `echopedia/logs/` |
 | 04:00 | `echopedia-content-analysis` | Filter: find actionable content gaps |
 | 04:05 | `echopedia-scout-live` | Scout: monitor live site for UX issues |
 | 04:10 | `echopedia-extract-actions` | Extract: map findings to remediation actions |
 | 04:15 | `echopedia-evaluate-actions` | Evaluate: score by user impact |
-| **04:15** | **`echopedia-ci-heal`** | L2 heal + **site-design L1** + L3 **single push** |
+| **04:15** | **`echopedia-ci-heal`** | L2 heal + **site-design L1** + L3 **single push** + CDN verify |
 | 04:20 | `echopedia-generate-cards` | Generate: create kanban task cards |
 | **04:30** | **`echopedia-site-design`** | Post-deploy **audit-only** (alerts; no push) |
-| Mon 05:00 | `echopedia-weekly-improvement` | Review gate + improvement pack + drain + ci-heal |
-| 09:00 | `echopedia-digest` | Janitor + CI + site-design + SYSTEM_STATUS |
+| 05:00 daily | `echopedia-weekly-improvement` | Review gate + improvement pack (name historical) |
+| Sun 05:30 | `vault-search-index-rebuild` | **no_agent** vault index rebuild (Tier1-focused) |
+| 09:00 | `echopedia-digest` | Infra + **Tier1** wiki counts + CDN status + actionables |
 | **On publish** | **`featured-regen`** | Hybrid featured: pinned + recency → homepage cards (root + public) |
+| every 30m | `unified-watchdog` | Infra + **Tier1** git drift only |
+| every 1m | `vllm-thermal-scaler` | Adaptive thermal (silent when cool) |
 
 ### Autonomy flags (`echopedia/standards.json` → `autonomy`)
 - L2: publish on drift, drain on CI, commit heal
@@ -75,7 +80,11 @@ The system now continuously discovers content quality gaps and generates remedia
 | `echopedia/WHERE_WE_ARE.md` | **This** human narrative (mission + remains) |
 | `echopedia/janitor-state.json` | Queue |
 | `echopedia/last-good-deploy.json` | Last green push |
+| `echopedia/cdn-verify-status.json` | Last CDN verify (digest/SYSTEM_STATUS) |
+| `echopedia/audit-state.json` | Nightly audit history |
+| `echopedia/logs/nightly-audit-*.txt` | Full audit dump (not Telegram) |
 | `echopedia/*-brief.md` | Janitor / CI / improvement / intake |
+| `cache/cache.db` | Vault search index (local, gitignored) |
 | `knowledge/operational/janitor-log/` | Run logs |
 | `knowledge/operational/incidents/` | Failures |
 
@@ -104,10 +113,11 @@ The system now continuously discovers content quality gaps and generates remedia
 ### Self-improvement pipeline (completed)
 - ✅ 8-stage pipeline deployed (Scout → Filter → Extract → Evaluate → Generate → Review → Remediate → Publish)
 - ✅ All 8 stages are deterministic (`no_agent`) — no LLM in the pipeline
-- ✅ Human review gate at weekly improvement (Mon 05:00)
-- ✅ Metrics tracked in SYSTEM_STATUS.md
+- ✅ Human review gate at daily improvement (05:00; job name still “weekly”)
+- ✅ Metrics tracked in SYSTEM_STATUS.md (**Tier1 page counts**, not Tier2 archive)
 - ✅ Documentation in USER_MANUAL.md + echopedia-ops skill
-- ✅ 2 stale cron jobs (tj-p2-*) identified for removal
+- ✅ 2026-08-02 ops harden: audit delivery cap, CDN path fix, dirty-tree policy, vault index no_agent
+- ✅ All 21 pinto crons deliver to System `telegram:-5543616648`; agent crons = 0
 
 ### Not autonomous (by design)
 - Inventing biographies

@@ -461,11 +461,13 @@ SYSTEM_STATUS.md (auto, 04:15) and the 09:00 digest surface these. Know what eac
 ### Content health
 | Metric | Green | Yellow | Red | Source |
 |--------|-------|--------|-----|--------|
-| Markdown pages | growing | flat >2 weeks | shrinking | nightly audit |
-| Broken wikilinks | 0 | 1–5 | >5 | `echopedia-audit-collect.sh` |
-| Pages missing sections | 0 | 1–5 | >5 | nightly audit |
+| **Tier1** pages (people+orgs+sources) | stable/growing (~60+) | unexplained drop | collapse | digest / SYSTEM_STATUS |
+| Tier2 archive md | informational only | — | — | `content/articles/` (not wiki pages) |
+| Broken wikilinks | 0 | 1–5 | >5 | `echopedia-audit-collect.sh` (Tier1 only) |
+| Structural missing (frontmatter/type/identity) | 0 | 1–5 | >5 | nightly audit **critical** alert |
 | Stale 90D+ | <10 | 10–20 | >20 | nightly audit |
-| Orphan pages | <5 | 5–10 | >10 | nightly audit |
+| Orphan pages (Tier1) | <20 | 20–40 | >40 | nightly audit (full list in log, not TG) |
+| CDN verify | OK | CDN_LAG / PARTIAL | BROKEN_PAGES / HOME_DOWN | `cdn-verify-status.json` |
 
 ### Pipeline health
 | Metric | Green | Yellow | Red | Source |
@@ -1085,13 +1087,14 @@ bash ~/.hermes/scripts/echopedia-link-hygiene.py --path all
 
 This section tracks manual changes to USER_MANUAL.md. Auto-generated content (briefs, SYSTEM_STATUS) is not listed here.
 
-|| Date | Change |
-||------|--------|
-||| 2026-07-31 | Fixed content analyzer 0-pages-scanned bug: total_pages_scanned now counts all iterated pages, not just pages with active findings; added pages_with_findings field to JSON state. Fixed nightly audit 91K-issue noise: audit-collect.sh now excludes content/articles/ (Tier2 archive markdown) from broken-links, missing-sections, and stale-content checks. Added 9 orphan scripts to ops-check REQUIRED_SCRIPTS list. Enabled auto_apply_programmable + auto_commit in standards.json. |
-||| 2026-07-30 | Transitioned improvement pipeline from weekly to daily: updated schedule references from "Mon 05:00 weekly" to "05:00 daily", updated script descriptions, updated standards.json with daily_cron field |
-||| 2026-07-21 | Consolidated the two 'When to intervene' sections into a single comprehensive decision matrix: replaced the simple intervene?/why table with a situation→trigger→action matrix, added red/green flag lists, and removed the duplicate section from the prior run |
-|| 2026-07-19 | Added site-design autonomy flags (l2_auto_site_design_heal/featured/publish, l2_site_design_blocks_green) and updated schedule to include 04:30 site-design audit; added P12/P13 to troubleshooting table |
-|| 2026-07-18 | Added hybrid featured section (pinned + recency), l2_auto_featured_on_publish flag, Echopedia feature command row, and site design / layout manager section |
-|| 2026-07-17 | Added PUBLICATION_INGEST command and routing; linked ui-discrepancy-investigation.md from troubleshooting table |
-|| 2026-07-16 | Added Command language section defining Echopedia website/publication/feature/refresh/full-domain-archive defaults; added full-domain absorb bar for website commands |
-|| 2026-07-15 | Initial creation as operator entry point; added doc ownership table, WORKER.md routing, autonomy switches, cron safety rules, FEATURE_ADD.md procedure, and adding-a-feature section |
+| Date | Change |
+|------|--------|
+| 2026-08-02 | Ops harden: restored missing canon docs. Nightly audit TG body hard-capped (~3.5KB; full log in `echopedia/logs/`). Digest/SYSTEM_STATUS/watchdog count **Tier1 only**. CDN verify absolute-path false BROKEN_PAGES fixed; `cdn-verify-status.json`. Dirty-tree gitignore for build HTML + Tier2 + ops briefs. `vault-search-index-rebuild` → no_agent Sun 05:30; restored `vault_search.py`. |
+| 2026-07-31 | Content analyzer total_pages_scanned fix; nightly audit excludes `content/articles/`; ops-check REQUIRED_SCRIPTS expanded; standards auto_apply_programmable + auto_commit. |
+| 2026-07-30 | Improvement pipeline weekly→daily (05:00). |
+| 2026-07-21 | Consolidated intervene decision matrix. |
+| 2026-07-19 | Site-design autonomy flags + 04:30 audit; P12/P13 troubleshooting. |
+| 2026-07-18 | Hybrid featured + site design manager section. |
+| 2026-07-17 | PUBLICATION_INGEST command + routing. |
+| 2026-07-16 | Command language for website/publication/feature defaults. |
+| 2026-07-15 | Initial operator entry point. |
