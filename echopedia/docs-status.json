@@ -1,0 +1,12 @@
+{
+  "at": "2026-08-03T02:08:58.679852+00:00",
+  "status": "OK",
+  "fail": 0,
+  "warn": 0,
+  "ok": 15,
+  "cron_count": 22,
+  "agent_crons": 0,
+  "bad_deliver": 0,
+  "link_missing": 0,
+  "issues": []
+}
