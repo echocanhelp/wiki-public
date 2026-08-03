@@ -17,46 +17,63 @@ python3 ~/echo-system/scripts/taiwanjustice_priority_score.py --root ~/echo-syst
 | name_en | name_zh | slug | role / notes |
 |---------|---------|------|----------------|
 | Alan Thian | 田詒鴻 | alan-thian | 會務指導主席 (Affairs guidance chair) 2025 |
-| Paul Chen | 陳柏宇 | paul-chen | 財務指導主席 (Finance guidance chair) 2025 |
+| Paul Chen | 陳柏宇 | paul-chen | 財務指導主席 (Finance guidance chair) 2025; LINE display: "Paul Chen 陳柏宇" |
 | Gene Tsai | 蔡錦榮 | gene-tsai | 顧問 (Advisor) 2025 |
 | Hsu Shih-huan | 許世環 | xu-shihuan | 顧問 (Advisor) 2025; EN romanization provisional |
 | Leonard Hsu Jr. | 許景鴻 | leonard-hsu-jr | 會長 (President) 2025; LINE display: "Leonard Hsu Junior" |
-| Roger Tsai | 蔡漢成 | roger-tsai | 副會長 (Vice President) 2025 |
+| Roger Tsai | 蔡漢成 | roger-tsai | 副會長 (Vice President) 2025; LINE display: "Roger Tsai 蔡漢成" |
 | Wei Wei Bai | 白偉瑋 | bai-weiwei | 副會長 (Vice President) 2025; not yet seen speaking in LINE logs |
-| John Yang | 楊錦忠 | john-yang | 特別助理 (Special assistant) 2025 |
-| Li Yi-sheng | 李意盛 | li-yisheng | 特別助理 (Special assistant) 2025; EN romanization provisional |
+| John Yang | 楊錦忠 | john-yang | 特別助理 (Special assistant) 2025; LINE display: "John Yang" |
+| Li Yi-sheng | 李意盛 | li-yisheng | 特別助理 (Special assistant) 2025; provisional EN; LINE candidate display: "Yi Lee" (confirm) |
 | Charles Yang | 楊嘉猷 | yang-jia-you | 財務長 (Treasurer) 2025; founding president; LINE mention label: "Chia you" (not yet sender) |
 | Freeman Huang | 黃樹人 | freeman-huang | 秘書 (Secretary) 2025; taiwanjustice.net publisher; LINE display: "黄樹人" (simp.) |
-| Cai Shu-nu | 蔡淑女 | cai-shunyu | 總務 (General affairs) 2025; EN romanization provisional |
-| Shen Zi-zai | 沈梓在 | shen-zizai | 資訊 (Information / IT) 2025; EN romanization provisional |
+| Sunu Tsai | 蔡淑女 | cai-shunyu | 總務 (General affairs) 2025; preferred EN from LINE "Sunu Tsai" (was provisional Cai Shu-nu) |
+| Tzetsai Eric Shen | 沈梓在 | shen-zizai | 資訊 (Information / IT) 2025; preferred EN from LINE "Tzetsai Eric Shen" |
 
 ## L1 — LINE group members (matched 2026-08-03)
 
-Cross-checked against **live LINE profile displayName** for every userId that has spoken in allowed/observed groups.  
-LINE Bot `group/members/ids` returns **403** on this channel plan — **silent members are invisible** until they send a message (or you export the member list from the LINE app).
+Sources:
+1. Live LINE profile API for users who have spoken
+2. Owner screenshot of LINE group member list (2026-08-03) — catches silent members the Bot API cannot list (`members/ids` = 403)
 
-**Spelling policy:** `name_en` / `name_zh` = preferred Echopedia spelling. `LINE display` = exact profile string (may differ). Never publish LINE U-ids here.
+**Spelling policy:** `name_en` / `name_zh` = preferred Echopedia spelling. `LINE display` = exact profile string. Never publish LINE U-ids here.
 
 | name_en | name_zh | slug | LINE display (exact) | role / notes |
 |---------|---------|------|----------------------|----------------|
-| Leonard Hsu Jr. | 許景鴻 | leonard-hsu-jr | Leonard Hsu Junior | also 2025 President; preferred formal "Jr." |
-| Freeman Huang | 黃樹人 | freeman-huang | 黄樹人 | also 2025 Secretary; roster uses traditional 黃 |
-| Charles Yang | 楊嘉猷 | yang-jia-you | *(mention: Chia you)* | not yet a message sender; mention label only |
-| Becky Yang | *(pending ZH)* | becky-yang | Becky Yang | spouse of Charles Yang; Chinese name still pending |
+| Leonard Hsu Jr. | 許景鴻 | leonard-hsu-jr | Leonard Hsu Junior | 2025 President; preferred formal "Jr." |
+| Freeman Huang | 黃樹人 | freeman-huang | 黄樹人 | 2025 Secretary; roster uses traditional 黃 |
+| Paul Chen | 陳柏宇 | paul-chen | Paul Chen 陳柏宇 | 2025 Finance guidance chair; screenshot |
+| Roger Tsai | 蔡漢成 | roger-tsai | Roger Tsai 蔡漢成 | 2025 VP; screenshot |
+| John Yang | 楊錦忠 | john-yang | John Yang | 2025 special assistant; screenshot |
+| Sunu Tsai | 蔡淑女 | cai-shunyu | Sunu Tsai | 2025 總務; **preferred EN = Sunu Tsai** (was Cai Shu-nu) |
+| Tzetsai Eric Shen | 沈梓在 | shen-zizai | Tzetsai Eric Shen | 2025 資訊; **preferred EN from LINE** |
+| Li Yi-sheng | 李意盛 | li-yisheng | Yi Lee *(candidate)* | 2025 special assistant; LINE "Yi Lee" likely match — confirm |
+| Charles Yang | 楊嘉猷 | yang-jia-you | *(mention: Chia you)* | founding president / treasurer; mention label only |
+| Becky Yang | *(pending ZH)* | becky-yang | Becky Yang | spouse of Charles Yang; ZH pending |
 | David Lee | 李東璞 | david-lee | David Lee (Work) | preferred EN without "(Work)" |
-| Ken Wu | 吳兆峯 | ken-wu | Ken Wu | Taiwan Center / FAPA-LA |
-| Linda Liu | 劉玲華 | linda-liu | Linda | preferred full "Linda Liu" (page-confirmed) |
-| Rex Chen | 陳乃光 | rex-chen | Rex Chen | owner-verified Chinese name |
-| Ashton Hsu | 許思敦 | ashton-hsu | ashton hsu | preferred title-case; Director Echo System Engineering |
-| Albert S. Lai | 賴信雄 | albert-s-lai | 賴信雄 Albert Lai | preferred "Albert S. Lai" / Dr. form on page |
-| Phoenix Ko | *(pending ZH)* | phoenix-ko | Phoenix Ko | spoken in LINE; thin page; ZH pending owner |
-| Kevin Lee | *(pending ZH)* | kevin-lee | Kevin Lee | spoken in LINE; thin page; ZH pending owner |
-| Franklin Ping Cheng | 程炳成 | franklin-ping-cheng | *(not yet seen speaking)* | prior TAHS president |
-| Chen Wenshi | 陳文石 | chen-wenshi | *(not yet seen speaking)* | artist / cultural advocate |
-| Huang Gen-shen | 黃根深 | huang-gen-shen | *(not yet seen speaking)* | UFAI founding member |
-| Liao Shu-zong | 廖述宗 | liao-shu-zong | *(not yet seen speaking)* | NATPA founder |
+| Ken Wu | 吳兆峯 | ken-wu | Ken Wu | subtitle on LINE: 吳兆峯; Taiwan Center / FAPA-LA |
+| Linda Liu | 劉玲華 | linda-liu | Linda | preferred full "Linda Liu" |
+| Rex Chen | 陳乃光 | rex-chen | Rex Chen | owner-verified ZH |
+| Ashton Hsu | 許思敦 | ashton-hsu | ashton hsu | title-case preferred; Echo System Engineering |
+| Albert S. Lai | 賴信雄 | albert-s-lai | 賴信雄 Albert Lai | preferred "Albert S. Lai" |
+| Phoenix Ko | *(pending ZH)* | phoenix-ko | Phoenix Ko | status blurb on LINE; ZH pending |
+| Kevin Lee | *(pending ZH)* | kevin-lee | Kevin Lee | ZH pending; distinct from David Lee |
+| Franklin Ping Cheng | 程炳成 | franklin-ping-cheng | *(not on this screenshot page)* | prior TAHS president |
+| Chen Wenshi | 陳文石 | chen-wenshi | *(not on this screenshot page)* | artist / cultural advocate |
+| Huang Gen-shen | 黃根深 | huang-gen-shen | *(not on this screenshot page)* | UFAI founding member |
+| Liao Shu-zong | 廖述宗 | liao-shu-zong | *(not on this screenshot page)* | NATPA founder |
 
-**Officers not yet seen in LINE speaker logs:** Alan Thian, Paul Chen, Gene Tsai, Hsu Shih-huan, Roger Tsai, Wei Wei Bai, John Yang, Li Yi-sheng, Cai Shu-nu, Shen Zi-zai.
+### Screenshot-only / unmatched LINE displays (need owner ID)
+
+| LINE display | status under name | guess | action |
+|--------------|-------------------|-------|--------|
+| weitzuoh | 8010 | unknown handle | pending owner |
+| Will | — | unknown | pending owner |
+| Yi Lee | — | → Li Yi-sheng / 李意盛? | provisional link above; confirm |
+| Sunu Tsai | 公益型歌手「擁抱生命… | → 蔡淑女 | **linked** |
+| Tzetsai Eric Shen | — | → 沈梓在 | **linked** |
+
+**Officers still not on screenshot + no speaker log:** Alan Thian, Gene Tsai, Hsu Shih-huan, Wei Wei Bai (unless weitzuoh/Will — unconfirmed).
 
 ## L1 — 2017/2023 publication mentions (community + contributors)
 
@@ -123,6 +140,7 @@ Duplicates of officers / LINE members above are omitted here.
 - Publication-mention purge (non-US politicians / non-community): 2026-08-03
 - Publication-mention restore (contributors + community, n=41): 2026-08-03
 - LINE displayName cross-check (11 speakers + silent notes): 2026-08-03
+- LINE member-list screenshot: Sunu Tsai / Tzetsai Eric Shen preferred EN (2026-08-03)
 - Owner: Leonard Hsu Jr.
 - Consumed by: `scripts/taiwanjustice_priority_score.py` → band **L1**
 - Echopedia pages: officer + LINE L1 slugs under `content/people/` (2026-08-03); 白佩玉 thin page if missing

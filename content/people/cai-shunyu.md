@@ -1,20 +1,20 @@
 ---
-title: "Cai Shu-nu (蔡淑女)"
+title: "Sunu Tsai (蔡淑女)"
 type: person
 tags:
   - person
   - TAHS
   - tahs-leadership
   - Taiwanese-American
-name_en: "Cai Shu-nu"
+name_en: "Sunu Tsai"
 name_zh_hanzi: "蔡淑女"
 verification_status: pending
 last_reviewed: 2026-08-02
 source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
 ---
-# Cai Shu-nu (蔡淑女)
+# Sunu Tsai (蔡淑女)
 
-**Cai Shu-nu** (蔡淑女) serves as **General affairs (總務), TAHS 2025** of the [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS / 台美人歷史協會)]].
+**Sunu Tsai** (also written Cai Shu-nu) (蔡淑女) serves as **General affairs (總務), TAHS 2025** of the [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS / 台美人歷史協會)]].
 
 ## Identity Snapshot
 - **English:** Cai Shu-nu
@@ -47,3 +47,9 @@ This page is an **A-tier thin record** for graph linking and member-priority sco
 - [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]] — President (會長)
 - [[people/yang-jia-you|Charles Yang (楊嘉猷)]] — Treasurer (財務長); founding president
 - [[people/freeman-huang|Freeman Huang (黃樹人)]] — Secretary (秘書)
+
+
+## LINE
+
+- LINE displayName: `Sunu Tsai` (group member list 2026-08-03)
+- Preferred English spelling: **Sunu Tsai**

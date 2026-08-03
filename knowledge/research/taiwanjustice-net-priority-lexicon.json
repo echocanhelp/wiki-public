@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated_at": "2026-08-03T08:24:00Z",
+  "updated_at": "2026-08-03T08:29:34Z",
   "description": "Taiwan Justice absorb priority lexicon (L0 identity → L4 orgs)",
   "counts": {
-    "total": 295,
+    "total": 300,
     "L0": 7,
-    "L1": 60,
+    "L1": 65,
     "L2": 130,
     "L3": 10,
     "L4": 88
@@ -157,14 +157,14 @@
       "id": "l1:cai-shunyu",
       "slug": "cai-shunyu",
       "band": "L1",
-      "name_en": "Cai Shu-nu",
+      "name_en": "Sunu Tsai",
       "name_zh": "蔡淑女",
       "aliases": [
-        "Cai Shu-nu",
+        "Sunu Tsai",
         "蔡淑女",
-        "Cai Shu-nu (蔡淑女)"
+        "Sunu Tsai (蔡淑女)"
       ],
-      "notes": "roster 總務 (General affairs) 2025; EN romanization provisional"
+      "notes": "roster 總務 (General affairs) 2025; preferred EN from LINE \"Sunu Tsai\" (was provisional Cai Shu-nu)"
     },
     {
       "id": "l1:cao-changqing",
@@ -243,7 +243,7 @@
         "陳文石",
         "陳文石 (Chen Wenshi)"
       ],
-      "notes": "roster *(not yet seen speaking)*"
+      "notes": "roster *(not on this screenshot page)*"
     },
     {
       "id": "l1:chen-zhaonan",
@@ -295,7 +295,7 @@
         "程炳成",
         "Franklin Ping Cheng (程炳成)"
       ],
-      "notes": "roster *(not yet seen speaking)*"
+      "notes": "roster *(not on this screenshot page)*"
     },
     {
       "id": "l1:freeman-huang",
@@ -350,6 +350,18 @@
       "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017/2023"
     },
     {
+      "id": "l1:guess",
+      "slug": "guess",
+      "band": "L1",
+      "name_en": "LINE display",
+      "name_zh": "status under name",
+      "aliases": [
+        "LINE display",
+        "status under name"
+      ],
+      "notes": "roster action"
+    },
+    {
       "id": "l1:he-qingxuan",
       "slug": "he-qingxuan",
       "band": "L1",
@@ -399,7 +411,7 @@
         "黃根深",
         "Huang Gen-shen (黃根深)"
       ],
-      "notes": "roster *(not yet seen speaking)*"
+      "notes": "roster *(not on this screenshot page)*"
     },
     {
       "id": "l1:huang-yongcheng",
@@ -438,7 +450,7 @@
         "楊錦忠",
         "John Yang (楊錦忠)"
       ],
-      "notes": "roster 特別助理 (Special assistant) 2025"
+      "notes": "roster 特別助理 (Special assistant) 2025; LINE display: \"John Yang\""
     },
     {
       "id": "l1:kevin-lee",
@@ -489,7 +501,7 @@
         "李意盛",
         "Li Yi-sheng (李意盛)"
       ],
-      "notes": "roster 特別助理 (Special assistant) 2025; EN romanization provisional"
+      "notes": "roster 特別助理 (Special assistant) 2025; provisional EN; LINE candidate display: \"Yi Lee\" (confirm)"
     },
     {
       "id": "l1:liao-qingshan",
@@ -515,7 +527,7 @@
         "廖述宗",
         "Liao Shu-zong (廖述宗)"
       ],
-      "notes": "roster *(not yet seen speaking)*"
+      "notes": "roster *(not on this screenshot page)*"
     },
     {
       "id": "l1:lin-baohua",
@@ -580,7 +592,7 @@
         "陳柏宇",
         "Paul Chen (陳柏宇)"
       ],
-      "notes": "roster 財務指導主席 (Finance guidance chair) 2025"
+      "notes": "roster 財務指導主席 (Finance guidance chair) 2025; LINE display: \"Paul Chen 陳柏宇\""
     },
     {
       "id": "l1:phoenix-ko",
@@ -605,7 +617,7 @@
         "蔡漢成",
         "Roger Tsai (蔡漢成)"
       ],
-      "notes": "roster 副會長 (Vice President) 2025"
+      "notes": "roster 副會長 (Vice President) 2025; LINE display: \"Roger Tsai 蔡漢成\""
     },
     {
       "id": "l1:sang-pu",
@@ -624,14 +636,14 @@
       "id": "l1:shen-zizai",
       "slug": "shen-zizai",
       "band": "L1",
-      "name_en": "Shen Zi-zai",
+      "name_en": "Tzetsai Eric Shen",
       "name_zh": "沈梓在",
       "aliases": [
-        "Shen Zi-zai",
+        "Tzetsai Eric Shen",
         "沈梓在",
-        "Shen Zi-zai (沈梓在)"
+        "Tzetsai Eric Shen (沈梓在)"
       ],
-      "notes": "roster 資訊 (Information / IT) 2025; EN romanization provisional"
+      "notes": "roster 資訊 (Information / IT) 2025; preferred EN from LINE \"Tzetsai Eric Shen\""
     },
     {
       "id": "l1:tang-peili",
@@ -645,6 +657,17 @@
         "Tang Pei-li / 唐培理"
       ],
       "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017/2023"
+    },
+    {
+      "id": "l1:unknown-handle",
+      "slug": "unknown handle",
+      "band": "L1",
+      "name_en": "weitzuoh",
+      "name_zh": "8010",
+      "aliases": [
+        "weitzuoh"
+      ],
+      "notes": "roster pending owner"
     },
     {
       "id": "l1:wang-dan",
@@ -879,6 +902,40 @@
         "Tsou Ching-wen / 鄒景雯"
       ],
       "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017/2023"
+    },
+    {
+      "id": "l1:→-li-yi-sheng-/-李意盛?",
+      "slug": "→ Li Yi-sheng / 李意盛?",
+      "band": "L1",
+      "name_en": "Yi Lee",
+      "name_zh": "—",
+      "aliases": [
+        "Yi Lee"
+      ],
+      "notes": "roster provisional link above; confirm"
+    },
+    {
+      "id": "l1:→-沈梓在",
+      "slug": "→ 沈梓在",
+      "band": "L1",
+      "name_en": "Tzetsai Eric Shen",
+      "name_zh": "—",
+      "aliases": [
+        "Tzetsai Eric Shen"
+      ],
+      "notes": "roster **linked**"
+    },
+    {
+      "id": "l1:→-蔡淑女",
+      "slug": "→ 蔡淑女",
+      "band": "L1",
+      "name_en": "Sunu Tsai",
+      "name_zh": "公益型歌手「擁抱生命…",
+      "aliases": [
+        "Sunu Tsai",
+        "公益型歌手「擁抱生命…"
+      ],
+      "notes": "roster **linked**"
     },
     {
       "id": "l2:albert-chapter1-en-review",

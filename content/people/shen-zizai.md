@@ -1,20 +1,20 @@
 ---
-title: "Shen Zi-zai (沈梓在)"
+title: "Tzetsai Eric Shen (沈梓在)"
 type: person
 tags:
   - person
   - TAHS
   - tahs-leadership
   - Taiwanese-American
-name_en: "Shen Zi-zai"
+name_en: "Tzetsai Eric Shen"
 name_zh_hanzi: "沈梓在"
 verification_status: pending
 last_reviewed: 2026-08-02
 source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
 ---
-# Shen Zi-zai (沈梓在)
+# Tzetsai Eric Shen (沈梓在)
 
-**Shen Zi-zai** (沈梓在) serves as **Information / IT (資訊), TAHS 2025** of the [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS / 台美人歷史協會)]].
+**Tzetsai Eric Shen** (also written Shen Zi-zai) (沈梓在) serves as **Information / IT (資訊), TAHS 2025** of the [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS / 台美人歷史協會)]].
 
 ## Identity Snapshot
 - **English:** Shen Zi-zai
@@ -47,3 +47,9 @@ This page is an **A-tier thin record** for graph linking and member-priority sco
 - [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]] — President (會長)
 - [[people/yang-jia-you|Charles Yang (楊嘉猷)]] — Treasurer (財務長); founding president
 - [[people/freeman-huang|Freeman Huang (黃樹人)]] — Secretary (秘書)
+
+
+## LINE
+
+- LINE displayName: `Tzetsai Eric Shen` (group member list 2026-08-03)
+- Preferred English spelling: **Tzetsai Eric Shen**
