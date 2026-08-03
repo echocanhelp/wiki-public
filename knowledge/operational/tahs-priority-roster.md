@@ -24,7 +24,7 @@ python3 ~/echo-system/scripts/taiwanjustice_priority_score.py --root ~/echo-syst
 | Roger Tsai | 蔡漢成 | roger-tsai | 副會長 (Vice President) 2025; LINE display: "Roger Tsai 蔡漢成" |
 | Wei Wei Bai | 白偉瑋 | bai-weiwei | 副會長 (Vice President) 2025; not yet seen speaking in LINE logs |
 | John Yang | 楊錦忠 | john-yang | 特別助理 (Special assistant) 2025; LINE display: "John Yang" |
-| Li Yi-sheng | 李意盛 | li-yisheng | 特別助理 (Special assistant) 2025; provisional EN; LINE candidate display: "Yi Lee" (confirm) |
+| Li Yi-sheng | 李意盛 | li-yisheng | 特別助理 (Special assistant) 2025; EN romanization provisional; **not** LINE "Yi Lee" |
 | Charles Yang | 楊嘉猷 | yang-jia-you | 財務長 (Treasurer) 2025; founding president; LINE mention label: "Chia you" (not yet sender) |
 | Freeman Huang | 黃樹人 | freeman-huang | 秘書 (Secretary) 2025; taiwanjustice.net publisher; LINE display: "黄樹人" (simp.) |
 | Sunu Tsai | 蔡淑女 | cai-shunyu | 總務 (General affairs) 2025; preferred EN from LINE "Sunu Tsai" (was provisional Cai Shu-nu) |
@@ -47,7 +47,7 @@ Sources:
 | John Yang | 楊錦忠 | john-yang | John Yang | 2025 special assistant; screenshot |
 | Sunu Tsai | 蔡淑女 | cai-shunyu | Sunu Tsai | 2025 總務; **preferred EN = Sunu Tsai** (was Cai Shu-nu) |
 | Tzetsai Eric Shen | 沈梓在 | shen-zizai | Tzetsai Eric Shen | 2025 資訊; **preferred EN from LINE** |
-| Li Yi-sheng | 李意盛 | li-yisheng | Yi Lee *(candidate)* | 2025 special assistant; LINE "Yi Lee" likely match — confirm |
+| Li Yi-sheng | 李意盛 | li-yisheng | *(not LINE Yi Lee)* | 2025 special assistant; distinct from Yi Sen Lee |
 | Charles Yang | 楊嘉猷 | yang-jia-you | *(mention: Chia you)* | founding president / treasurer; mention label only |
 | Becky Yang | *(pending ZH)* | becky-yang | Becky Yang | spouse of Charles Yang; ZH pending |
 | David Lee | 李東璞 | david-lee | David Lee (Work) | preferred EN without "(Work)" |
@@ -58,22 +58,24 @@ Sources:
 | Albert S. Lai | 賴信雄 | albert-s-lai | 賴信雄 Albert Lai | preferred "Albert S. Lai" |
 | Phoenix Ko | *(pending ZH)* | phoenix-ko | Phoenix Ko | status blurb on LINE; ZH pending |
 | Kevin Lee | *(pending ZH)* | kevin-lee | Kevin Lee | ZH pending; distinct from David Lee |
+| Willy Pan | 潘建宇 | willy-pan | Will | LINE display "Will"; preferred Willy Pan |
+| Yi Sen Lee | *(pending ZH)* | yi-sen-lee | Yi Lee | preferred EN **Yi Sen Lee** (owner); not 李意盛 |
 | Franklin Ping Cheng | 程炳成 | franklin-ping-cheng | *(not on this screenshot page)* | prior TAHS president |
 | Chen Wenshi | 陳文石 | chen-wenshi | *(not on this screenshot page)* | artist / cultural advocate |
 | Huang Gen-shen | 黃根深 | huang-gen-shen | *(not on this screenshot page)* | UFAI founding member |
 | Liao Shu-zong | 廖述宗 | liao-shu-zong | *(not on this screenshot page)* | NATPA founder |
 
-### Screenshot-only / unmatched LINE displays (need owner ID)
+### Screenshot match status
 
-| LINE display | status under name | guess | action |
-|--------------|-------------------|-------|--------|
-| weitzuoh | 8010 | unknown handle | pending owner |
-| Will | — | unknown | pending owner |
-| Yi Lee | — | → Li Yi-sheng / 李意盛? | provisional link above; confirm |
-| Sunu Tsai | 公益型歌手「擁抱生命… | → 蔡淑女 | **linked** |
-| Tzetsai Eric Shen | — | → 沈梓在 | **linked** |
+| LINE display | preferred | slug | status |
+|--------------|-----------|------|--------|
+| Will | Willy Pan | willy-pan | **linked** (owner 2026-08-03) |
+| Yi Lee | Yi Sen Lee | yi-sen-lee | **linked** (owner 2026-08-03); ≠ 李意盛 |
+| Sunu Tsai | Sunu Tsai | cai-shunyu | **linked** |
+| Tzetsai Eric Shen | Tzetsai Eric Shen | shen-zizai | **linked** |
+| weitzuoh | — | — | still unmatched (handle; status 8010) |
 
-**Officers still not on screenshot + no speaker log:** Alan Thian, Gene Tsai, Hsu Shih-huan, Wei Wei Bai (unless weitzuoh/Will — unconfirmed).
+**Officers still not on screenshot + no speaker log:** Alan Thian, Gene Tsai, Hsu Shih-huan, Wei Wei Bai (weitzuoh unconfirmed).
 
 ## L1 — 2017/2023 publication mentions (community + contributors)
 
@@ -141,6 +143,7 @@ Duplicates of officers / LINE members above are omitted here.
 - Publication-mention restore (contributors + community, n=41): 2026-08-03
 - LINE displayName cross-check (11 speakers + silent notes): 2026-08-03
 - LINE member-list screenshot: Sunu Tsai / Tzetsai Eric Shen preferred EN (2026-08-03)
+- LINE IDs: Will→Willy Pan; Yi Lee→Yi Sen Lee (≠李意盛) (2026-08-03)
 - Owner: Leonard Hsu Jr.
 - Consumed by: `scripts/taiwanjustice_priority_score.py` → band **L1**
 - Echopedia pages: officer + LINE L1 slugs under `content/people/` (2026-08-03); 白佩玉 thin page if missing

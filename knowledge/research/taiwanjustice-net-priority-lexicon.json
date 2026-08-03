@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-08-03T08:29:34Z",
+  "updated_at": "2026-08-03T08:30:43Z",
   "description": "Taiwan Justice absorb priority lexicon (L0 identity → L4 orgs)",
   "counts": {
-    "total": 300,
+    "total": 298,
     "L0": 7,
-    "L1": 65,
-    "L2": 130,
+    "L1": 64,
+    "L2": 129,
     "L3": 10,
     "L4": 88
   },
@@ -350,18 +350,6 @@
       "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017/2023"
     },
     {
-      "id": "l1:guess",
-      "slug": "guess",
-      "band": "L1",
-      "name_en": "LINE display",
-      "name_zh": "status under name",
-      "aliases": [
-        "LINE display",
-        "status under name"
-      ],
-      "notes": "roster action"
-    },
-    {
       "id": "l1:he-qingxuan",
       "slug": "he-qingxuan",
       "band": "L1",
@@ -501,7 +489,7 @@
         "李意盛",
         "Li Yi-sheng (李意盛)"
       ],
-      "notes": "roster 特別助理 (Special assistant) 2025; provisional EN; LINE candidate display: \"Yi Lee\" (confirm)"
+      "notes": "roster 特別助理 (Special assistant) 2025; EN romanization provisional; **not** LINE \"Yi Lee\""
     },
     {
       "id": "l1:liao-qingshan",
@@ -646,6 +634,18 @@
       "notes": "roster 資訊 (Information / IT) 2025; preferred EN from LINE \"Tzetsai Eric Shen\""
     },
     {
+      "id": "l1:slug",
+      "slug": "slug",
+      "band": "L1",
+      "name_en": "LINE display",
+      "name_zh": "preferred",
+      "aliases": [
+        "LINE display",
+        "preferred"
+      ],
+      "notes": "roster status"
+    },
+    {
       "id": "l1:tang-peili",
       "slug": "tang-peili",
       "band": "L1",
@@ -657,17 +657,6 @@
         "Tang Pei-li / 唐培理"
       ],
       "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017/2023"
-    },
-    {
-      "id": "l1:unknown-handle",
-      "slug": "unknown handle",
-      "band": "L1",
-      "name_en": "weitzuoh",
-      "name_zh": "8010",
-      "aliases": [
-        "weitzuoh"
-      ],
-      "notes": "roster pending owner"
     },
     {
       "id": "l1:wang-dan",
@@ -720,6 +709,19 @@
         "Wei Jingsheng / 魏京生"
       ],
       "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017/2023"
+    },
+    {
+      "id": "l1:willy-pan",
+      "slug": "willy-pan",
+      "band": "L1",
+      "name_en": "Willy Pan",
+      "name_zh": "潘建宇",
+      "aliases": [
+        "Willy Pan",
+        "潘建宇",
+        "Willy Pan (潘建宇)"
+      ],
+      "notes": "roster Will"
     },
     {
       "id": "l1:wu-lipei",
@@ -813,6 +815,19 @@
       "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2023"
     },
     {
+      "id": "l1:yi-sen-lee",
+      "slug": "yi-sen-lee",
+      "band": "L1",
+      "name_en": "Yi Sen Lee",
+      "name_zh": "*(pending ZH)*",
+      "aliases": [
+        "Yi Sen Lee",
+        "*(pending ZH)*",
+        "Yi Lee"
+      ],
+      "notes": "roster Yi Lee"
+    },
+    {
       "id": "l1:yu-jie",
       "slug": "yu-jie",
       "band": "L1",
@@ -904,38 +919,15 @@
       "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017/2023"
     },
     {
-      "id": "l1:→-li-yi-sheng-/-李意盛?",
-      "slug": "→ Li Yi-sheng / 李意盛?",
+      "id": "l1:—",
+      "slug": "—",
       "band": "L1",
-      "name_en": "Yi Lee",
+      "name_en": "weitzuoh",
       "name_zh": "—",
       "aliases": [
-        "Yi Lee"
+        "weitzuoh"
       ],
-      "notes": "roster provisional link above; confirm"
-    },
-    {
-      "id": "l1:→-沈梓在",
-      "slug": "→ 沈梓在",
-      "band": "L1",
-      "name_en": "Tzetsai Eric Shen",
-      "name_zh": "—",
-      "aliases": [
-        "Tzetsai Eric Shen"
-      ],
-      "notes": "roster **linked**"
-    },
-    {
-      "id": "l1:→-蔡淑女",
-      "slug": "→ 蔡淑女",
-      "band": "L1",
-      "name_en": "Sunu Tsai",
-      "name_zh": "公益型歌手「擁抱生命…",
-      "aliases": [
-        "Sunu Tsai",
-        "公益型歌手「擁抱生命…"
-      ],
-      "notes": "roster **linked**"
+      "notes": "roster still unmatched (handle; status 8010)"
     },
     {
       "id": "l2:albert-chapter1-en-review",
@@ -2188,18 +2180,6 @@
       "aliases": [
         "魏博基",
         "Wei Boji (魏博基)"
-      ],
-      "notes": "content/people"
-    },
-    {
-      "id": "l2:willy-pan",
-      "slug": "willy-pan",
-      "band": "L2",
-      "name_en": "Willy Pan (潘建宇)",
-      "name_zh": "潘建宇",
-      "aliases": [
-        "潘建宇",
-        "Willy Pan (潘建宇)"
       ],
       "notes": "content/people"
     },

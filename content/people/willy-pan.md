@@ -32,3 +32,10 @@ Willy Pan is recognized as a member of the Taiwanese American historical and com
 
 ## Related Pages
 - [[people/index|People Index]]
+
+## LINE
+
+- LINE displayName: `Will`
+- Preferred English spelling: **Willy Pan**
+- Chinese: 潘建宇
+

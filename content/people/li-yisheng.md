@@ -47,3 +47,8 @@ This page is an **A-tier thin record** for graph linking and member-priority sco
 - [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]] — President (會長)
 - [[people/yang-jia-you|Charles Yang (楊嘉猷)]] — Treasurer (財務長); founding president
 - [[people/freeman-huang|Freeman Huang (黃樹人)]] — Secretary (秘書)
+
+## Disambiguation
+
+- **Not** LINE display `Yi Lee` — that account is [[people/yi-sen-lee|Yi Sen Lee]] (owner-confirmed 2026-08-03).
+
