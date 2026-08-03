@@ -63,7 +63,6 @@ Sources:
 | Phoenix Ko | 柯貝昀 | phoenix-ko | Phoenix Ko | 2025 **財務**; chart 柯貝昀 |
 | Kevin Lee | *(pending ZH)* | kevin-lee | Kevin Lee | ZH pending; distinct from David Lee |
 | Willy Pan | 潘建宇 | willy-pan | Will | LINE display "Will"; preferred Willy Pan |
-| Yi Sen Lee | 李意盛 | yi-sen-lee | Yi Lee | same row as officers; merged with former li-yisheng |
 | Franklin Ping Cheng | 程炳成 | franklin-ping-cheng | *(not on this screenshot page)* | prior TAHS president |
 | Chen Wenshi | 陳文石 | chen-wenshi | *(not on this screenshot page)* | artist / cultural advocate |
 | Huang Gen-shen | 黃根深 | huang-gen-shen | *(not on this screenshot page)* | UFAI founding member |
