@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-08-03T08:07:12Z",
+  "updated_at": "2026-08-03T08:14:14Z",
   "description": "Taiwan Justice absorb priority lexicon (L0 identity → L4 orgs)",
   "counts": {
-    "total": 268,
+    "total": 293,
     "L0": 7,
-    "L1": 17,
-    "L2": 146,
+    "L1": 57,
+    "L2": 131,
     "L3": 10,
     "L4": 88
   },
@@ -124,7 +124,7 @@
         "白佩玉",
         "Bai Peiyu / 白佩玉"
       ],
-      "notes": "roster 2017 看板人物 community feature"
+      "notes": "roster 2017 看板人物 community feature; years 2017"
     },
     {
       "id": "l1:bai-weiwei",
@@ -153,6 +153,72 @@
       "notes": "roster 總務 (General affairs) 2025; EN romanization provisional"
     },
     {
+      "id": "l1:cao-changqing",
+      "slug": "cao-changqing",
+      "band": "L1",
+      "name_en": "Cao Changqing",
+      "name_zh": "曹長青",
+      "aliases": [
+        "Cao Changqing",
+        "曹長青",
+        "Cao Changqing / 曹長青"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017/2023"
+    },
+    {
+      "id": "l1:chao-sile",
+      "slug": "chao-sile",
+      "band": "L1",
+      "name_en": "Chao Sile",
+      "name_zh": "趙思樂",
+      "aliases": [
+        "Chao Sile",
+        "趙思樂",
+        "Chao Sile / 趙思樂"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017/2023"
+    },
+    {
+      "id": "l1:chen-bozhi",
+      "slug": "chen-bozhi",
+      "band": "L1",
+      "name_en": "Chen Bo-zhi",
+      "name_zh": "陳博志",
+      "aliases": [
+        "Chen Bo-zhi",
+        "陳博志",
+        "陳柏志牧師",
+        "Rev. Chen Bozhi (陳柏志牧師)"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2023"
+    },
+    {
+      "id": "l1:chen-maoxiong",
+      "slug": "chen-maoxiong",
+      "band": "L1",
+      "name_en": "Chen Mao-xiong",
+      "name_zh": "陳茂雄",
+      "aliases": [
+        "Chen Mao-xiong",
+        "陳茂雄",
+        "Chen Mao-xiong (陳茂雄)"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017/2023"
+    },
+    {
+      "id": "l1:chen-po-kong",
+      "slug": "chen-po-kong",
+      "band": "L1",
+      "name_en": "Chen Po-kong",
+      "name_zh": "陳破空",
+      "aliases": [
+        "Chen Po-kong",
+        "陳破空",
+        "Chen Po-kong (陳破空)"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017/2023"
+    },
+    {
       "id": "l1:chen-wenshi",
       "slug": "chen-wenshi",
       "band": "L1",
@@ -164,6 +230,45 @@
         "陳文石 (Chen Wenshi)"
       ],
       "notes": "roster Artist / cultural advocate (2026-07)"
+    },
+    {
+      "id": "l1:chen-zhaonan",
+      "slug": "chen-zhaonan",
+      "band": "L1",
+      "name_en": "Chen Chao-nan",
+      "name_zh": "陳昭南",
+      "aliases": [
+        "Chen Chao-nan",
+        "陳昭南",
+        "Chen Chao-nan (陳昭南)"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017/2023"
+    },
+    {
+      "id": "l1:du-ao-cunfu",
+      "slug": "du-ao-cunfu",
+      "band": "L1",
+      "name_en": "Du Ao Cunfu",
+      "name_zh": "獨傲村夫",
+      "aliases": [
+        "Du Ao Cunfu",
+        "獨傲村夫",
+        "Du Ao Cunfu (獨傲村夫)"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017/2023"
+    },
+    {
+      "id": "l1:fan-jiang-ti-ang",
+      "slug": "fan-jiang-ti-ang",
+      "band": "L1",
+      "name_en": "Fan Chiang Tsiang",
+      "name_zh": "范姜提昂",
+      "aliases": [
+        "Fan Chiang Tsiang",
+        "范姜提昂",
+        "Fan Chiang Tsiang (范姜提昂)"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017/2023"
     },
     {
       "id": "l1:franklin-ping-cheng",
@@ -205,6 +310,71 @@
       "notes": "roster 顧問 (Advisor) 2025"
     },
     {
+      "id": "l1:gong-sun-le",
+      "slug": "gong-sun-le",
+      "band": "L1",
+      "name_en": "Gongsun Le",
+      "name_zh": "公孫樂",
+      "aliases": [
+        "Gongsun Le",
+        "公孫樂",
+        "Gong Sun-le (公孫樂)"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017/2023"
+    },
+    {
+      "id": "l1:guan-renjian",
+      "slug": "guan-renjian",
+      "band": "L1",
+      "name_en": "Kuan Jen-chien",
+      "name_zh": "管仁健",
+      "aliases": [
+        "Kuan Jen-chien",
+        "管仁健",
+        "Kuan Jen-chien / 管仁健"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017/2023"
+    },
+    {
+      "id": "l1:he-qingxuan",
+      "slug": "he-qingxuan",
+      "band": "L1",
+      "name_en": "He Qinglian",
+      "name_zh": "何清漣",
+      "aliases": [
+        "He Qinglian",
+        "何清漣",
+        "He Qinglian (何清漣)"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017/2023"
+    },
+    {
+      "id": "l1:hu-ping",
+      "slug": "hu-ping",
+      "band": "L1",
+      "name_en": "Hu Ping",
+      "name_zh": "胡平",
+      "aliases": [
+        "Hu Ping",
+        "胡平",
+        "Hu Ping / 胡平"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017"
+    },
+    {
+      "id": "l1:huang-diyin",
+      "slug": "huang-diyin",
+      "band": "L1",
+      "name_en": "Huang Di-ying",
+      "name_zh": "黃帝穎",
+      "aliases": [
+        "Huang Di-ying",
+        "黃帝穎",
+        "Huang Di-ying (黃帝穎)"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017/2023"
+    },
+    {
       "id": "l1:huang-gen-shen",
       "slug": "huang-gen-shen",
       "band": "L1",
@@ -216,6 +386,32 @@
         "Huang Gen-shen (黃根深)"
       ],
       "notes": "roster Art teacher; UFAI founding member, 51-yr activist (2026-07)"
+    },
+    {
+      "id": "l1:huang-yongcheng",
+      "slug": "huang-yongcheng",
+      "band": "L1",
+      "name_en": "Huang Yung-cheng",
+      "name_zh": "黃永成",
+      "aliases": [
+        "Huang Yung-cheng",
+        "黃永成",
+        "Huang Yung-cheng / 黃永成"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017"
+    },
+    {
+      "id": "l1:jin-hegui",
+      "slug": "jin-hegui",
+      "band": "L1",
+      "name_en": "Chin Heng-wei",
+      "name_zh": "金恆煒",
+      "aliases": [
+        "Chin Heng-wei",
+        "金恆煒",
+        "Jin Heng-wei (金恆煒)"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017/2023"
     },
     {
       "id": "l1:john-yang",
@@ -231,6 +427,32 @@
       "notes": "roster 特別助理 (Special assistant) 2025"
     },
     {
+      "id": "l1:li-jian",
+      "slug": "li-jian",
+      "band": "L1",
+      "name_en": "Li Jian",
+      "name_zh": "李堅",
+      "aliases": [
+        "Li Jian",
+        "李堅",
+        "Li Jian (李堅)"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017/2023"
+    },
+    {
+      "id": "l1:li-xiaofeng",
+      "slug": "li-xiaofeng",
+      "band": "L1",
+      "name_en": "Li Hsiao-feng",
+      "name_zh": "李筱峰",
+      "aliases": [
+        "Li Hsiao-feng",
+        "李筱峰",
+        "Li Hsiao-feng / 李筱峰"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017/2023"
+    },
+    {
       "id": "l1:li-yisheng",
       "slug": "li-yisheng",
       "band": "L1",
@@ -242,6 +464,19 @@
         "Li Yi-sheng (李意盛)"
       ],
       "notes": "roster 特別助理 (Special assistant) 2025; EN romanization provisional"
+    },
+    {
+      "id": "l1:liao-qingshan",
+      "slug": "liao-qingshan",
+      "band": "L1",
+      "name_en": "Liao Qing-shan",
+      "name_zh": "廖清山",
+      "aliases": [
+        "Liao Qing-shan",
+        "廖清山",
+        "Liao Qing-shan (廖清山)"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017/2023"
     },
     {
       "id": "l1:liao-shu-zong",
@@ -257,6 +492,32 @@
       "notes": "roster Biochemist; NATPA founder; democratic movement supporter (2026-07)"
     },
     {
+      "id": "l1:lin-baohua",
+      "slug": "lin-baohua",
+      "band": "L1",
+      "name_en": "Lin Bao-hua",
+      "name_zh": "林保華",
+      "aliases": [
+        "Lin Bao-hua",
+        "林保華",
+        "Lin Bao-hua (林保華)"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017/2023"
+    },
+    {
+      "id": "l1:lin-rongsong",
+      "slug": "lin-rongsong",
+      "band": "L1",
+      "name_en": "Lin Jung-sung",
+      "name_zh": "林榮松",
+      "aliases": [
+        "Lin Jung-sung",
+        "林榮松",
+        "Lin Jung-sung / 林榮松"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017/2023"
+    },
+    {
       "id": "l1:linda-liu",
       "slug": "linda-liu",
       "band": "L1",
@@ -268,6 +529,19 @@
         "Linda Liu (劉玲華)"
       ],
       "notes": "roster TAHS member; board listing source Taiwan Center (2026-07)"
+    },
+    {
+      "id": "l1:nanfang-shuo",
+      "slug": "nanfang-shuo",
+      "band": "L1",
+      "name_en": "Nanfang Shuo",
+      "name_zh": "南方朔",
+      "aliases": [
+        "Nanfang Shuo",
+        "南方朔",
+        "Nanfang Shuo / 南方朔"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017/2023"
     },
     {
       "id": "l1:paul-chen",
@@ -296,6 +570,19 @@
       "notes": "roster 副會長 (Vice President) 2025"
     },
     {
+      "id": "l1:sang-pu",
+      "slug": "sang-pu",
+      "band": "L1",
+      "name_en": "Sang Pu",
+      "name_zh": "桑普",
+      "aliases": [
+        "Sang Pu",
+        "桑普",
+        "Sang Pu / 桑普"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017/2023"
+    },
+    {
       "id": "l1:shen-zizai",
       "slug": "shen-zizai",
       "band": "L1",
@@ -309,6 +596,97 @@
       "notes": "roster 資訊 (Information / IT) 2025; EN romanization provisional"
     },
     {
+      "id": "l1:tang-peili",
+      "slug": "tang-peili",
+      "band": "L1",
+      "name_en": "Tang Pei-li",
+      "name_zh": "唐培理",
+      "aliases": [
+        "Tang Pei-li",
+        "唐培理",
+        "Tang Pei-li / 唐培理"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017/2023"
+    },
+    {
+      "id": "l1:wang-dan",
+      "slug": "wang-dan",
+      "band": "L1",
+      "name_en": "Wang Dan",
+      "name_zh": "王丹",
+      "aliases": [
+        "Wang Dan",
+        "王丹",
+        "Wang Dan / 王丹"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2023"
+    },
+    {
+      "id": "l1:wang-qiaoling",
+      "slug": "wang-qiaoling",
+      "band": "L1",
+      "name_en": "Wang Chiao-ling",
+      "name_zh": "王峭嶺",
+      "aliases": [
+        "Wang Chiao-ling",
+        "王峭嶺",
+        "Wang Chiao-ling / 王峭嶺"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017"
+    },
+    {
+      "id": "l1:wang-shufen",
+      "slug": "wang-shufen",
+      "band": "L1",
+      "name_en": "Wang Shu-fen",
+      "name_zh": "王淑芬",
+      "aliases": [
+        "Wang Shu-fen",
+        "王淑芬",
+        "Wang Shu-fen / 王淑芬"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2023"
+    },
+    {
+      "id": "l1:wei-jingsheng",
+      "slug": "wei-jingsheng",
+      "band": "L1",
+      "name_en": "Wei Jingsheng",
+      "name_zh": "魏京生",
+      "aliases": [
+        "Wei Jingsheng",
+        "魏京生",
+        "Wei Jingsheng / 魏京生"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017/2023"
+    },
+    {
+      "id": "l1:wu-lipei",
+      "slug": "wu-lipei",
+      "band": "L1",
+      "name_en": "Wu Li-pei",
+      "name_zh": "吳澧培",
+      "aliases": [
+        "Wu Li-pei",
+        "吳澧培",
+        "Wu Li-pei / 吳澧培"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2023"
+    },
+    {
+      "id": "l1:xia-ming",
+      "slug": "xia-ming",
+      "band": "L1",
+      "name_en": "Xia Ming",
+      "name_zh": "夏明",
+      "aliases": [
+        "Xia Ming",
+        "夏明",
+        "Xia Ming / 夏明"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2023"
+    },
+    {
       "id": "l1:xu-shihuan",
       "slug": "xu-shihuan",
       "band": "L1",
@@ -320,6 +698,149 @@
         "Hsu Shih-huan (許世環)"
       ],
       "notes": "roster 顧問 (Advisor) 2025; EN romanization provisional"
+    },
+    {
+      "id": "l1:yang-yuanxun",
+      "slug": "yang-yuanxun",
+      "band": "L1",
+      "name_en": "Yang Yuan-xun",
+      "name_zh": "楊遠薰",
+      "aliases": [
+        "Yang Yuan-xun",
+        "楊遠薰",
+        "Yang Yuan-xun / 楊遠薰"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2023"
+    },
+    {
+      "id": "l1:yang-yueqing",
+      "slug": "yang-yueqing",
+      "band": "L1",
+      "name_en": "Yang Yue-qing",
+      "name_zh": "楊月清",
+      "aliases": [
+        "Yang Yue-qing",
+        "楊月清",
+        "Yang Yue-qing / 楊月清"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017/2023"
+    },
+    {
+      "id": "l1:yang-ziqing",
+      "slug": "yang-ziqing",
+      "band": "L1",
+      "name_en": "Yang Zi-qing",
+      "name_zh": "楊子清",
+      "aliases": [
+        "Yang Zi-qing",
+        "楊子清",
+        "Yang Zi-qing (楊子清)"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017/2023"
+    },
+    {
+      "id": "l1:ye-siya",
+      "slug": "ye-siya",
+      "band": "L1",
+      "name_en": "Yeh Ssu-ya",
+      "name_zh": "葉思雅",
+      "aliases": [
+        "Yeh Ssu-ya",
+        "葉思雅",
+        "Yeh Ssu-ya / 葉思雅"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2023"
+    },
+    {
+      "id": "l1:yu-jie",
+      "slug": "yu-jie",
+      "band": "L1",
+      "name_en": "Yu Jie",
+      "name_zh": "余杰",
+      "aliases": [
+        "Yu Jie",
+        "余杰",
+        "Yu Chieh (余杰)"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017/2023"
+    },
+    {
+      "id": "l1:yuan-zhihui",
+      "slug": "yuan-zhihui",
+      "band": "L1",
+      "name_en": "Yuan Chih-hui",
+      "name_zh": "袁智慧",
+      "aliases": [
+        "Yuan Chih-hui",
+        "袁智慧",
+        "Yuan Chih-hui / 袁智慧"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2023"
+    },
+    {
+      "id": "l1:zhang-xinhui",
+      "slug": "zhang-xinhui",
+      "band": "L1",
+      "name_en": "Chang Hsin-hui",
+      "name_zh": "張信惠",
+      "aliases": [
+        "Chang Hsin-hui",
+        "張信惠",
+        "Chang Hsin-hui / 張信惠"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2023"
+    },
+    {
+      "id": "l1:zheng-bingquan",
+      "slug": "zheng-bingquan",
+      "band": "L1",
+      "name_en": "Zheng Bing-quan",
+      "name_zh": "鄭炳全",
+      "aliases": [
+        "Zheng Bing-quan",
+        "鄭炳全",
+        "Zheng Bing-quan / 鄭炳全"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2023"
+    },
+    {
+      "id": "l1:zheng-qinren",
+      "slug": "zheng-qinren",
+      "band": "L1",
+      "name_en": "Cheng Chin-jen",
+      "name_zh": "鄭欽仁",
+      "aliases": [
+        "Cheng Chin-jen",
+        "鄭欽仁",
+        "Cheng Chin-jen / 鄭欽仁"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017/2023"
+    },
+    {
+      "id": "l1:zheng-wenlong",
+      "slug": "zheng-wenlong",
+      "band": "L1",
+      "name_en": "Cheng Wen-lung",
+      "name_zh": "鄭文龍",
+      "aliases": [
+        "Cheng Wen-lung",
+        "鄭文龍",
+        "Cheng Wen-lung / 鄭文龍"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017/2023"
+    },
+    {
+      "id": "l1:zou-jingwen",
+      "slug": "zou-jingwen",
+      "band": "L1",
+      "name_en": "Tsou Ching-wen",
+      "name_zh": "鄒景雯",
+      "aliases": [
+        "Tsou Ching-wen",
+        "鄒景雯",
+        "Tsou Ching-wen / 鄒景雯"
+      ],
+      "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017/2023"
     },
     {
       "id": "l2:albert-chapter1-en-review",
@@ -486,30 +1007,6 @@
       "notes": "content/people"
     },
     {
-      "id": "l2:chen-bozhi",
-      "slug": "chen-bozhi",
-      "band": "L2",
-      "name_en": "Rev. Chen Bozhi (陳柏志牧師)",
-      "name_zh": "陳柏志牧師",
-      "aliases": [
-        "陳柏志牧師",
-        "Rev. Chen Bozhi (陳柏志牧師)"
-      ],
-      "notes": "content/people"
-    },
-    {
-      "id": "l2:chen-maoxiong",
-      "slug": "chen-maoxiong",
-      "band": "L2",
-      "name_en": "Chen Mao-xiong (陳茂雄)",
-      "name_zh": "陳茂雄",
-      "aliases": [
-        "陳茂雄",
-        "Chen Mao-xiong (陳茂雄)"
-      ],
-      "notes": "content/people"
-    },
-    {
       "id": "l2:chen-meihui",
       "slug": "chen-meihui",
       "band": "L2",
@@ -518,18 +1015,6 @@
       "aliases": [
         "陳美蕙",
         "Chen Meihui (陳美蕙)"
-      ],
-      "notes": "content/people"
-    },
-    {
-      "id": "l2:chen-po-kong",
-      "slug": "chen-po-kong",
-      "band": "L2",
-      "name_en": "Chen Po-kong (陳破空)",
-      "name_zh": "陳破空",
-      "aliases": [
-        "陳破空",
-        "Chen Po-kong (陳破空)"
       ],
       "notes": "content/people"
     },
@@ -566,18 +1051,6 @@
       "aliases": [
         "陳夏蓮長老",
         "Elder Chen Xialian (陳夏蓮長老)"
-      ],
-      "notes": "content/people"
-    },
-    {
-      "id": "l2:chen-zhaonan",
-      "slug": "chen-zhaonan",
-      "band": "L2",
-      "name_en": "Chen Chao-nan (陳昭南)",
-      "name_zh": "陳昭南",
-      "aliases": [
-        "陳昭南",
-        "Chen Chao-nan (陳昭南)"
       ],
       "notes": "content/people"
     },
@@ -667,18 +1140,6 @@
       "notes": "content/people"
     },
     {
-      "id": "l2:du-ao-cunfu",
-      "slug": "du-ao-cunfu",
-      "band": "L2",
-      "name_en": "Du Ao Cunfu (獨傲村夫)",
-      "name_zh": "獨傲村夫",
-      "aliases": [
-        "獨傲村夫",
-        "Du Ao Cunfu (獨傲村夫)"
-      ],
-      "notes": "content/people"
-    },
-    {
       "id": "l2:en-sheng-pan",
       "slug": "en-sheng-pan",
       "band": "L2",
@@ -691,18 +1152,6 @@
       "notes": "content/people"
     },
     {
-      "id": "l2:fan-jiang-ti-ang",
-      "slug": "fan-jiang-ti-ang",
-      "band": "L2",
-      "name_en": "Fan Chiang Tsiang (范姜提昂)",
-      "name_zh": "范姜提昂",
-      "aliases": [
-        "范姜提昂",
-        "Fan Chiang Tsiang (范姜提昂)"
-      ],
-      "notes": "content/people"
-    },
-    {
       "id": "l2:fan-qingliang",
       "slug": "fan-qingliang",
       "band": "L2",
@@ -711,18 +1160,6 @@
       "aliases": [
         "范清亮",
         "Fan Qingliang (范清亮)"
-      ],
-      "notes": "content/people"
-    },
-    {
-      "id": "l2:gong-sun-le",
-      "slug": "gong-sun-le",
-      "band": "L2",
-      "name_en": "Gong Sun-le (公孫樂)",
-      "name_zh": "公孫樂",
-      "aliases": [
-        "公孫樂",
-        "Gong Sun-le (公孫樂)"
       ],
       "notes": "content/people"
     },
@@ -771,18 +1208,6 @@
       "aliases": [
         "韓國瑜",
         "Han Kuo-yu / Han Guo-yu (韓國瑜)"
-      ],
-      "notes": "content/people"
-    },
-    {
-      "id": "l2:he-qingxuan",
-      "slug": "he-qingxuan",
-      "band": "L2",
-      "name_en": "He Qinglian (何清漣)",
-      "name_zh": "何清漣",
-      "aliases": [
-        "何清漣",
-        "He Qinglian (何清漣)"
       ],
       "notes": "content/people"
     },
@@ -858,18 +1283,6 @@
       "notes": "content/people"
     },
     {
-      "id": "l2:huang-diyin",
-      "slug": "huang-diyin",
-      "band": "L2",
-      "name_en": "Huang Di-ying (黃帝穎)",
-      "name_zh": "黃帝穎",
-      "aliases": [
-        "黃帝穎",
-        "Huang Di-ying (黃帝穎)"
-      ],
-      "notes": "content/people"
-    },
-    {
       "id": "l2:ian-easton",
       "slug": "ian-easton",
       "band": "L2",
@@ -926,18 +1339,6 @@
       "aliases": [
         "江百顯",
         "Jiang Bai-xian (江百顯)"
-      ],
-      "notes": "content/people"
-    },
-    {
-      "id": "l2:jin-hegui",
-      "slug": "jin-hegui",
-      "band": "L2",
-      "name_en": "Jin Heng-wei (金恆煒)",
-      "name_zh": "金恆煒",
-      "aliases": [
-        "金恆煒",
-        "Jin Heng-wei (金恆煒)"
       ],
       "notes": "content/people"
     },
@@ -1109,18 +1510,6 @@
       "notes": "content/people"
     },
     {
-      "id": "l2:li-jian",
-      "slug": "li-jian",
-      "band": "L2",
-      "name_en": "Li Jian (李堅)",
-      "name_zh": "李堅",
-      "aliases": [
-        "李堅",
-        "Li Jian (李堅)"
-      ],
-      "notes": "content/people"
-    },
-    {
       "id": "l2:li-mutong",
       "slug": "li-mutong",
       "band": "L2",
@@ -1145,18 +1534,6 @@
       "notes": "content/people"
     },
     {
-      "id": "l2:liao-qingshan",
-      "slug": "liao-qingshan",
-      "band": "L2",
-      "name_en": "Liao Qing-shan (廖清山)",
-      "name_zh": "廖清山",
-      "aliases": [
-        "廖清山",
-        "Liao Qing-shan (廖清山)"
-      ],
-      "notes": "content/people"
-    },
-    {
       "id": "l2:lien-hwa-chow",
       "slug": "lien-hwa-chow",
       "band": "L2",
@@ -1165,18 +1542,6 @@
       "aliases": [
         "周聯華",
         "Dr. Lien-Hwa Chow (周聯華)"
-      ],
-      "notes": "content/people"
-    },
-    {
-      "id": "l2:lin-baohua",
-      "slug": "lin-baohua",
-      "band": "L2",
-      "name_en": "Lin Bao-hua (林保華)",
-      "name_zh": "林保華",
-      "aliases": [
-        "林保華",
-        "Lin Bao-hua (林保華)"
       ],
       "notes": "content/people"
     },
@@ -1912,18 +2277,6 @@
       "notes": "content/people"
     },
     {
-      "id": "l2:yang-ziqing",
-      "slug": "yang-ziqing",
-      "band": "L2",
-      "name_en": "Yang Zi-qing (楊子清)",
-      "name_zh": "楊子清",
-      "aliases": [
-        "楊子清",
-        "Yang Zi-qing (楊子清)"
-      ],
-      "notes": "content/people"
-    },
-    {
       "id": "l2:ye-siya-zhang-xinhui",
       "slug": "ye-siya-zhang-xinhui",
       "band": "L2",
@@ -1933,18 +2286,6 @@
         "葉思雅",
         "Ye Siya & Zhang Xinhui (葉思雅、張信惠)",
         "張信惠"
-      ],
-      "notes": "content/people"
-    },
-    {
-      "id": "l2:yu-jie",
-      "slug": "yu-jie",
-      "band": "L2",
-      "name_en": "Yu Chieh (余杰)",
-      "name_zh": "余杰",
-      "aliases": [
-        "余杰",
-        "Yu Chieh (余杰)"
       ],
       "notes": "content/people"
     },
