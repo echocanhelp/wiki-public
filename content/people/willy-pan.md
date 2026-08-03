@@ -33,10 +33,10 @@ Willy Pan is recognized as a member of the Taiwanese American historical and com
 ## Taiwan Justice (台灣公義網) Citations
 
 - **2024-10-04** — *2024大洛杉磮台灣會館第26周年年會晚宴暨募款活動11月2日舉行* (score 690)
-  - Article: `articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磮台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66.md`
+  - Article: [articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磮台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66.html](https://echocanhelp.github.io/wiki-public/articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磮台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66.html)
   - Role: Listed as board director (董事) of Taiwan Center; listed among 38 directors for the 2024 fundraising gala.
   - Publisher: Freeman Huang (黃樹人); categories: `usa`, `taiwaneseamerican`, `taiwan-center`
-  - Wikilink: `[[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磮台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66|2024台灣會館26周年晚宴]]`
+  - Live URL: [2024台灣會館26周年晚宴](https://echocanhelp.github.io/wiki-public/articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磮台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66.html)
 
 ## Related Pages
 - [[people/index|People Index]]

@@ -48,10 +48,10 @@ Private phones and LINE U-ids are **not** published here.
 ## Taiwan Justice (台灣公義網) Citations
 
 - **2025-09-05** — *台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元* (score 490)
-  - Article: `articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74.md`
+  - Article: [articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74.html](https://echocanhelp.github.io/wiki-public/articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74.html)
   - Role: Special assistant (特別助理), TAHS 2025; listed as board attendee at Leonard Hsu's installation ceremony.
   - Publisher: Freeman Huang (黃樹人); categories: `usa`, `taiwaneseamerican`, `usa_news`
-  - Wikilink: `[[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74|台美人歷史協會新任會長許景鴻接椽]]`
+  - Live URL: [台美人歷史協會新任會長許景鴻接椽](https://echocanhelp.github.io/wiki-public/articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74.html)
 
 ## Related Pages
 
