@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-08-03T08:32:48Z",
+  "updated_at": "2026-08-03T08:45:04Z",
   "description": "Taiwan Justice absorb priority lexicon (L0 identity → L4 orgs)",
   "counts": {
     "total": 300,
     "L0": 7,
-    "L1": 64,
-    "L2": 131,
+    "L1": 63,
+    "L2": 132,
     "L3": 10,
     "L4": 88
   },
@@ -112,7 +112,7 @@
         "田詒鴻",
         "Alan Thian (田詒鴻)"
       ],
-      "notes": "roster 會務指導主席 (Affairs guidance chair) 2025"
+      "notes": "roster 會務指導會主席 — 會務"
     },
     {
       "id": "l1:ashton-hsu",
@@ -151,7 +151,7 @@
         "白偉瑋",
         "Wei Wei Bai (白偉瑋)"
       ],
-      "notes": "roster 副會長 (Vice President) 2025; not yet seen speaking in LINE logs"
+      "notes": "roster 副會長"
     },
     {
       "id": "l1:cao-changqing",
@@ -295,7 +295,7 @@
         "黃樹人",
         "Freeman Huang (黃樹人)"
       ],
-      "notes": "roster 秘書 (Secretary) 2025; taiwanjustice.net publisher; LINE display: \"黄樹人\" (simp.)"
+      "notes": "roster **秘書長** (Secretary-general); LINE: \"黄樹人\"; tj.net publisher"
     },
     {
       "id": "l1:gene-tsai",
@@ -308,7 +308,7 @@
         "蔡錦榮",
         "Gene Tsai (蔡錦榮)"
       ],
-      "notes": "roster 顧問 (Advisor) 2025"
+      "notes": "roster 顧問 (Advisor)"
     },
     {
       "id": "l1:gong-sun-le",
@@ -425,7 +425,7 @@
         "楊錦忠",
         "John Yang (楊錦忠)"
       ],
-      "notes": "roster 特別助理 (Special assistant) 2025; LINE display: \"John Yang\""
+      "notes": "roster 特別助理; LINE: \"John Yang\""
     },
     {
       "id": "l1:kevin-lee",
@@ -464,19 +464,6 @@
         "Li Hsiao-feng / 李筱峰"
       ],
       "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017/2023"
-    },
-    {
-      "id": "l1:li-yisheng",
-      "slug": "li-yisheng",
-      "band": "L1",
-      "name_en": "Li Yi-sheng",
-      "name_zh": "李意盛",
-      "aliases": [
-        "Li Yi-sheng",
-        "李意盛",
-        "Li Yi-sheng (李意盛)"
-      ],
-      "notes": "roster 特別助理 (Special assistant) 2025; EN romanization provisional; **not** LINE \"Yi Lee\""
     },
     {
       "id": "l1:liao-qingshan",
@@ -541,7 +528,7 @@
         "劉玲華",
         "Linda Liu (劉玲華)"
       ],
-      "notes": "roster Linda"
+      "notes": "roster 顧問 area (handwritten on chart); LINE: \"Linda\""
     },
     {
       "id": "l1:nanfang-shuo",
@@ -567,19 +554,20 @@
         "陳柏宇",
         "Paul Chen (陳柏宇)"
       ],
-      "notes": "roster 財務指導主席 (Finance guidance chair) 2025; LINE display: \"Paul Chen 陳柏宇\""
+      "notes": "roster 會務指導會主席 — 會計; LINE: \"Paul Chen 陳柏宇\""
     },
     {
       "id": "l1:phoenix-ko",
       "slug": "phoenix-ko",
       "band": "L1",
       "name_en": "Phoenix Ko",
-      "name_zh": "*(pending ZH)*",
+      "name_zh": "柯貝昀",
       "aliases": [
         "Phoenix Ko",
-        "*(pending ZH)*"
+        "柯貝昀",
+        "Phoenix Ko (柯貝昀)"
       ],
-      "notes": "roster Phoenix Ko"
+      "notes": "roster **財務 (Finance)**; owner confirmed chart 柯貝昀 = Phoenix Ko"
     },
     {
       "id": "l1:roger-tsai",
@@ -592,7 +580,7 @@
         "蔡漢成",
         "Roger Tsai (蔡漢成)"
       ],
-      "notes": "roster 副會長 (Vice President) 2025; LINE display: \"Roger Tsai 蔡漢成\""
+      "notes": "roster 副會長; LINE: \"Roger Tsai 蔡漢成\""
     },
     {
       "id": "l1:sang-pu",
@@ -630,7 +618,7 @@
         "蔡淑女",
         "Sunu Tsai (蔡淑女)"
       ],
-      "notes": "roster 總務 (General affairs) 2025; preferred EN from LINE; slug was cai-shunyu"
+      "notes": "roster 總務; LINE: \"Sunu Tsai\"; slug was cai-shunyu"
     },
     {
       "id": "l1:tang-peili",
@@ -649,14 +637,15 @@
       "id": "l1:tzetsai-eric-shen",
       "slug": "tzetsai-eric-shen",
       "band": "L1",
-      "name_en": "Tzetsai Eric Shen",
+      "name_en": "Eric Shen",
       "name_zh": "沈梓在",
       "aliases": [
-        "Tzetsai Eric Shen",
+        "Eric Shen",
         "沈梓在",
-        "Tzetsai Eric Shen (沈梓在)"
+        "Tzetsai Eric Shen",
+        "Eric Shen (沈梓在)"
       ],
-      "notes": "roster 資訊 (Information / IT) 2025; preferred EN from LINE \"Tzetsai Eric Shen\""
+      "notes": "roster 資訊; LINE: \"Tzetsai Eric Shen\"; chart handwrite \"Eric Shen\""
     },
     {
       "id": "l1:wang-dan",
@@ -760,7 +749,7 @@
         "許世環",
         "Hsu Shih-huan (許世環)"
       ],
-      "notes": "roster 顧問 (Advisor) 2025; EN romanization provisional"
+      "notes": "roster 顧問 (Advisor); EN provisional"
     },
     {
       "id": "l1:yang-yuanxun",
@@ -819,13 +808,15 @@
       "slug": "yi-sen-lee",
       "band": "L1",
       "name_en": "Yi Sen Lee",
-      "name_zh": "*(pending ZH)*",
+      "name_zh": "李意盛",
       "aliases": [
         "Yi Sen Lee",
-        "*(pending ZH)*",
-        "Yi Lee"
+        "李意盛",
+        "Yi Lee",
+        "Yi Sen Lee / 李意盛",
+        "Yi Sen Lee (李意盛)"
       ],
-      "notes": "roster Yi Lee"
+      "notes": "roster 特別助理; LINE: \"Yi Lee\"; chart handwrite \"Yi-Sen Lee\"; slug was li-yisheng"
     },
     {
       "id": "l1:yu-jie",
@@ -1604,6 +1595,17 @@
       "aliases": [
         "李木通",
         "李木通 (Li Mutong)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:li-yisheng",
+      "slug": "li-yisheng",
+      "band": "L2",
+      "name_en": "Redirect: Li Yi-sheng → Yi Sen Lee",
+      "name_zh": "",
+      "aliases": [
+        "Redirect: Li Yi-sheng → Yi Sen Lee"
       ],
       "notes": "content/people"
     },

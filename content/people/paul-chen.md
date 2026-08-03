@@ -14,12 +14,12 @@ source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
 ---
 # Paul Chen (陳柏宇)
 
-**Paul Chen** (陳柏宇) serves as **Finance guidance chair (財務指導主席), TAHS 2025** of the [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS / 台美人歷史協會)]].
+**Paul Chen** (陳柏宇) serves as **會務指導會主席 — 會計 (財務指導主席), TAHS 2025** of the [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS / 台美人歷史協會)]].
 
 ## Identity Snapshot
 - **English:** Paul Chen
 - **Chinese:** 陳柏宇
-- **Core role (2025):** 財務指導主席 — Finance guidance chair (財務指導主席), TAHS 2025
+- **Core role (2025):** 財務指導主席 — 會務指導會主席 — 會計 (財務指導主席), TAHS 2025
 - **Organization:** [[organizations/taiwanese-american-historical-society|TAHS]]
 - **Era:** Contemporary (documented on 2025 TAHS org chart)
 
@@ -31,7 +31,7 @@ This page is an **A-tier thin record** for graph linking and member-priority sco
 
 ## TAHS role (2025)
 
-- **Title:** 財務指導主席 (Finance guidance chair (財務指導主席), TAHS 2025)
+- **Title:** 財務指導主席 (會務指導會主席 — 會計 (財務指導主席), TAHS 2025)
 - **Source:** TAHS 2025 organization chart (台美人歷史協會組織表), Tax ID 46-4005384
 - **Roster:** `knowledge/operational/tahs-priority-roster.md` (L1)
 

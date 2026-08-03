@@ -38,7 +38,7 @@ last_reviewed: 2026-08-02
 - Functional Title: Founding President (創會會長), TAHS; Treasurer (財務長) on 2025 org chart
 - Appointing Authority confirmation: Owner verification in LINE (Leonard Hsu Jr.), 2026-08-02
 - LINE linkage: Owner-verified (exact LINE user id kept private until captured from sender traffic)
-- **2025 chart:** 財務長 (Treasurer) — TAHS organization chart 2025 (Tax ID 46-4005384); private phones not published
+- **2025 chart:** 創會會長 (Founding president) — TAHS organization chart 2025 (Tax ID 46-4005384); private phones not published
 
 ## Family
 

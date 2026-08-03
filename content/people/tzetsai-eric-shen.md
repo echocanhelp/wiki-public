@@ -5,19 +5,19 @@ tags:
   - TAHS
   - tahs-leadership
   - Taiwanese-American
-name_en: "Tzetsai Eric Shen"
+name_en: "Eric Shen"
 name_zh_hanzi: "沈梓在"
 verification_status: pending
 last_reviewed: 2026-08-03
 source_note: "TAHS 2025 organization chart + LINE displayName preferred EN"
-title: "Tzetsai Eric Shen (沈梓在)"
+title: "Eric Shen (沈梓在)"
 ---
-# Tzetsai Eric Shen (沈梓在)
+# Eric Shen (沈梓在)
 
-**Tzetsai Eric Shen** (沈梓在) serves as **Information / IT (資訊), TAHS 2025** of the [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS / 台美人歷史協會)]].
+**Eric Shen** (沈梓在) serves as **Information / IT (資訊), TAHS 2025** of the [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS / 台美人歷史協會)]].
 
 ## Identity Snapshot
-- **English:** Tzetsai Eric Shen
+- **English:** Eric Shen
 - **Chinese:** 沈梓在
 - **Core role (2025):** Information / IT (資訊)
 - **Organization:** [[organizations/taiwanese-american-historical-society|TAHS]]
@@ -25,7 +25,7 @@ title: "Tzetsai Eric Shen (沈梓在)"
 
 ## Overview
 
-Listed on the TAHS 2025 organization chart. Preferred English spelling from LINE displayName: **Tzetsai Eric Shen** (formerly provisional "Shen Zi-zai").
+Listed on the TAHS 2025 organization chart. Preferred English spelling from LINE displayName: **Eric Shen** (formerly provisional "Shen Zi-zai").
 
 This page is an **A-tier thin record** for graph linking and member-priority scoring. Biographical depth should be expanded only from public sources or member-approved notes. Private phone numbers and LINE IDs from internal charts are **not** published here.
 
@@ -35,8 +35,13 @@ This page is an **A-tier thin record** for graph linking and member-priority sco
 
 ## LINE
 
-- LINE displayName: `Tzetsai Eric Shen` (group member list 2026-08-03)
-- Preferred English spelling: **Tzetsai Eric Shen**
+- Full LINE displayName also seen as `Tzetsai Eric Shen`
+- Preferred short EN on chart handwriting: **Eric Shen**
+
+## LINE
+
+- LINE displayName: `Eric Shen` (group member list 2026-08-03)
+- Preferred English spelling: **Eric Shen**
 
 ## Former slug
 

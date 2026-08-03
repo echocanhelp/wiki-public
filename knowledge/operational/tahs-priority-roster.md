@@ -14,21 +14,25 @@ python3 ~/echo-system/scripts/taiwanjustice_priority_score.py --root ~/echo-syst
 
 ## L1 — 2025 officers & titled roles
 
+Source of truth: paper org chart 台美人歷史協會組織表 2025 + owner handwriting (2026-08-03). No phones.
+
 | name_en | name_zh | slug | role / notes |
 |---------|---------|------|----------------|
-| Alan Thian | 田詒鴻 | alan-thian | 會務指導主席 (Affairs guidance chair) 2025 |
-| Paul Chen | 陳柏宇 | paul-chen | 財務指導主席 (Finance guidance chair) 2025; LINE display: "Paul Chen 陳柏宇" |
-| Gene Tsai | 蔡錦榮 | gene-tsai | 顧問 (Advisor) 2025 |
-| Hsu Shih-huan | 許世環 | xu-shihuan | 顧問 (Advisor) 2025; EN romanization provisional |
-| Leonard Hsu Jr. | 許景鴻 | leonard-hsu-jr | 會長 (President) 2025; LINE display: "Leonard Hsu Junior" |
-| Roger Tsai | 蔡漢成 | roger-tsai | 副會長 (Vice President) 2025; LINE display: "Roger Tsai 蔡漢成" |
-| Wei Wei Bai | 白偉瑋 | bai-weiwei | 副會長 (Vice President) 2025; not yet seen speaking in LINE logs |
-| John Yang | 楊錦忠 | john-yang | 特別助理 (Special assistant) 2025; LINE display: "John Yang" |
-| Li Yi-sheng | 李意盛 | li-yisheng | 特別助理 (Special assistant) 2025; EN romanization provisional; **not** LINE "Yi Lee" |
-| Charles Yang | 楊嘉猷 | yang-jia-you | 財務長 (Treasurer) 2025; founding president; LINE mention label: "Chia you" (not yet sender) |
-| Freeman Huang | 黃樹人 | freeman-huang | 秘書 (Secretary) 2025; taiwanjustice.net publisher; LINE display: "黄樹人" (simp.) |
-| Sunu Tsai | 蔡淑女 | sunu-tsai | 總務 (General affairs) 2025; preferred EN from LINE; slug was cai-shunyu |
-| Tzetsai Eric Shen | 沈梓在 | tzetsai-eric-shen | 資訊 (Information / IT) 2025; preferred EN from LINE "Tzetsai Eric Shen" |
+| Alan Thian | 田詒鴻 | alan-thian | 會務指導會主席 — 會務 |
+| Paul Chen | 陳柏宇 | paul-chen | 會務指導會主席 — 會計; LINE: "Paul Chen 陳柏宇" |
+| Charles Yang | 楊嘉猷 | yang-jia-you | 創會會長 (Founding president); LINE mention: "Chia you" |
+| Gene Tsai | 蔡錦榮 | gene-tsai | 顧問 (Advisor) |
+| Hsu Shih-huan | 許世環 | xu-shihuan | 顧問 (Advisor); EN provisional |
+| Linda Liu | 劉玲華 | linda-liu | 顧問 area (handwritten on chart); LINE: "Linda" |
+| Leonard Hsu Jr. | 許景鴻 | leonard-hsu-jr | 會長 (President); LINE: "Leonard Hsu Junior" |
+| Roger Tsai | 蔡漢成 | roger-tsai | 副會長; LINE: "Roger Tsai 蔡漢成" |
+| Wei Wei Bai | 白偉瑋 | bai-weiwei | 副會長 |
+| John Yang | 楊錦忠 | john-yang | 特別助理; LINE: "John Yang" |
+| Yi Sen Lee | 李意盛 | yi-sen-lee | 特別助理; LINE: "Yi Lee"; chart handwrite "Yi-Sen Lee"; slug was li-yisheng |
+| Phoenix Ko | 柯貝昀 | phoenix-ko | **財務 (Finance)**; owner confirmed chart 柯貝昀 = Phoenix Ko |
+| Freeman Huang | 黃樹人 | freeman-huang | **秘書長** (Secretary-general); LINE: "黄樹人"; tj.net publisher |
+| Eric Shen | 沈梓在 | tzetsai-eric-shen | 資訊; LINE: "Tzetsai Eric Shen"; chart handwrite "Eric Shen" |
+| Sunu Tsai | 蔡淑女 | sunu-tsai | 總務; LINE: "Sunu Tsai"; slug was cai-shunyu |
 
 ## L1 — LINE group members (matched 2026-08-03)
 
@@ -41,25 +45,25 @@ Sources:
 | name_en | name_zh | slug | LINE display (exact) | role / notes |
 |---------|---------|------|----------------------|----------------|
 | Leonard Hsu Jr. | 許景鴻 | leonard-hsu-jr | Leonard Hsu Junior | 2025 President; preferred formal "Jr." |
-| Freeman Huang | 黃樹人 | freeman-huang | 黄樹人 | 2025 Secretary; roster uses traditional 黃 |
+| Freeman Huang | 黃樹人 | freeman-huang | 黄樹人 | 2025 **秘書長**; traditional 黃 in roster |
 | Paul Chen | 陳柏宇 | paul-chen | Paul Chen 陳柏宇 | 2025 Finance guidance chair; screenshot |
 | Roger Tsai | 蔡漢成 | roger-tsai | Roger Tsai 蔡漢成 | 2025 VP; screenshot |
 | John Yang | 楊錦忠 | john-yang | John Yang | 2025 special assistant; screenshot |
 | Sunu Tsai | 蔡淑女 | sunu-tsai | Sunu Tsai | 2025 總務; slug `sunu-tsai` (was cai-shunyu) |
-| Tzetsai Eric Shen | 沈梓在 | tzetsai-eric-shen | Tzetsai Eric Shen | 2025 資訊; slug `tzetsai-eric-shen` (was shen-zizai) |
-| Li Yi-sheng | 李意盛 | li-yisheng | *(not LINE Yi Lee)* | 2025 special assistant; distinct from Yi Sen Lee |
-| Charles Yang | 楊嘉猷 | yang-jia-you | *(mention: Chia you)* | founding president / treasurer; mention label only |
+| Eric Shen | 沈梓在 | tzetsai-eric-shen | Tzetsai Eric Shen | 2025 資訊; preferred short EN Eric Shen |
+| Yi Sen Lee | 李意盛 | yi-sen-lee | Yi Lee | 2025 特別助理; = chart 李意盛 (handwrite Yi-Sen Lee) |
+| Charles Yang | 楊嘉猷 | yang-jia-you | *(mention: Chia you)* | 創會會長 (not 財務) |
 | Becky Yang | *(pending ZH)* | becky-yang | Becky Yang | spouse of Charles Yang; ZH pending |
 | David Lee | 李東璞 | david-lee | David Lee (Work) | preferred EN without "(Work)" |
 | Ken Wu | 吳兆峯 | ken-wu | Ken Wu | subtitle on LINE: 吳兆峯; Taiwan Center / FAPA-LA |
-| Linda Liu | 劉玲華 | linda-liu | Linda | preferred full "Linda Liu" |
+| Linda Liu | 劉玲華 | linda-liu | Linda | preferred full name; handwritten on 2025 chart near 顧問 |
 | Rex Chen | 陳乃光 | rex-chen | Rex Chen | owner-verified ZH |
 | Ashton Hsu | 許思敦 | ashton-hsu | ashton hsu | title-case preferred; Echo System Engineering |
 | Albert S. Lai | 賴信雄 | albert-s-lai | 賴信雄 Albert Lai | preferred "Albert S. Lai" |
-| Phoenix Ko | *(pending ZH)* | phoenix-ko | Phoenix Ko | status blurb on LINE; ZH pending |
+| Phoenix Ko | 柯貝昀 | phoenix-ko | Phoenix Ko | 2025 **財務**; chart 柯貝昀 |
 | Kevin Lee | *(pending ZH)* | kevin-lee | Kevin Lee | ZH pending; distinct from David Lee |
 | Willy Pan | 潘建宇 | willy-pan | Will | LINE display "Will"; preferred Willy Pan |
-| Yi Sen Lee | *(pending ZH)* | yi-sen-lee | Yi Lee | preferred EN **Yi Sen Lee** (owner); not 李意盛 |
+| Yi Sen Lee | 李意盛 | yi-sen-lee | Yi Lee | same row as officers; merged with former li-yisheng |
 | Franklin Ping Cheng | 程炳成 | franklin-ping-cheng | *(not on this screenshot page)* | prior TAHS president |
 | Chen Wenshi | 陳文石 | chen-wenshi | *(not on this screenshot page)* | artist / cultural advocate |
 | Huang Gen-shen | 黃根深 | huang-gen-shen | *(not on this screenshot page)* | UFAI founding member |
@@ -70,12 +74,12 @@ Sources:
 | LINE display | preferred | slug | status |
 |--------------|-----------|------|--------|
 | Will | Willy Pan | willy-pan | **linked** (owner 2026-08-03) |
-| Yi Lee | Yi Sen Lee | yi-sen-lee | **linked** (owner 2026-08-03); ≠ 李意盛 |
+| Yi Lee | Yi Sen Lee / 李意盛 | yi-sen-lee | **linked** = chart 李意盛 (owner 2026-08-03) |
 | Sunu Tsai | Sunu Tsai | sunu-tsai | **linked** |
 | Tzetsai Eric Shen | Tzetsai Eric Shen | tzetsai-eric-shen | **linked** |
 | weitzuoh | — | — | still unmatched (handle; status 8010) |
 
-**Officers still not on screenshot + no speaker log:** Alan Thian, Gene Tsai, Hsu Shih-huan, Wei Wei Bai (weitzuoh unconfirmed).
+**Officers still not on screenshot + no speaker log:** Alan Thian, Gene Tsai, Hsu Shih-huan, Wei Wei Bai, Phoenix Ko may be on other page of member list (weitzuoh unconfirmed).
 
 ## L1 — 2017/2023 publication mentions (community + contributors)
 
@@ -143,8 +147,9 @@ Duplicates of officers / LINE members above are omitted here.
 - Publication-mention restore (contributors + community, n=41): 2026-08-03
 - LINE displayName cross-check (11 speakers + silent notes): 2026-08-03
 - LINE member-list screenshot: Sunu Tsai / Tzetsai Eric Shen preferred EN (2026-08-03)
-- LINE IDs: Will→Willy Pan; Yi Lee→Yi Sen Lee (≠李意盛) (2026-08-03)
+- LINE IDs: Will→Willy Pan; Yi Lee→Yi Sen Lee=李意盛 (2026-08-03)
 - Slug rename: cai-shunyu→sunu-tsai; shen-zizai→tzetsai-eric-shen (2026-08-03)
+- Chart reconcile: Yi Sen Lee=李意盛 (merge li-yisheng→yi-sen-lee); Phoenix Ko=柯貝昀 財務; titles 秘書長/會務指導會主席/創會會長 (2026-08-03)
 - Owner: Leonard Hsu Jr.
 - Consumed by: `scripts/taiwanjustice_priority_score.py` → band **L1**
 - Echopedia pages: officer + LINE L1 slugs under `content/people/` (2026-08-03); 白佩玉 thin page if missing

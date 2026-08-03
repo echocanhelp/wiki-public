@@ -26,22 +26,26 @@ TAHS works to:
 
 ## Leadership (2025 organization chart)
 
-Source: TAHS 2025 org chart (台美人歷史協會組織表), Tax ID **46-4005384**. Roles and public names only — no private phones or LINE IDs.
+Source: TAHS 2025 org chart (台美人歷史協會組織表), Tax ID **46-4005384**, plus owner handwriting on chart (2026-08-03). Roles and public names only — **no private phones or LINE IDs**.
 
 | Role | Person |
 |------|--------|
-| 會務指導主席 (Affairs guidance) | [[people/alan-thian|Alan Thian (田詒鴻)]] |
-| 財務指導主席 (Finance guidance) | [[people/paul-chen|Paul Chen (陳柏宇)]] |
-| 顧問 (Advisor) | [[people/gene-tsai|Gene Tsai (蔡錦榮)]], [[people/xu-shihuan|Hsu Shih-huan (許世環)]] |
+| 會務指導會主席 — 會務 | [[people/alan-thian|Alan Thian (田詒鴻)]] |
+| 會務指導會主席 — 會計 | [[people/paul-chen|Paul Chen (陳柏宇)]] |
+| 創會會長 (Founding president) | [[people/yang-jia-you|Charles Yang (楊嘉猷)]] |
+| 顧問 (Advisor) | [[people/gene-tsai|Gene Tsai (蔡錦榮)]], [[people/xu-shihuan|Hsu Shih-huan (許世環)]], [[people/linda-liu|Linda Liu (劉玲華)]] *(handwritten on chart)* |
 | 會長 (President) | [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]] |
 | 副會長 (Vice President) | [[people/roger-tsai|Roger Tsai (蔡漢成)]], [[people/bai-weiwei|Wei Wei Bai (白偉瑋)]] |
-| 特別助理 (Special assistant) | [[people/john-yang|John Yang (楊錦忠)]], [[people/li-yisheng|Li Yi-sheng (李意盛)]] |
-| 財務長 (Treasurer) | [[people/yang-jia-you|Charles Yang (楊嘉猷)]] |
-| 秘書 (Secretary) | [[people/freeman-huang|Freeman Huang (黃樹人)]] |
+| 特別助理 (Special assistant) | [[people/john-yang|John Yang (楊錦忠)]], [[people/yi-sen-lee|Yi Sen Lee (李意盛)]] |
+| 財務 (Finance) | [[people/phoenix-ko|Phoenix Ko (柯貝昀)]] |
+| 秘書長 (Secretary-general) | [[people/freeman-huang|Freeman Huang (黃樹人)]] |
+| 資訊 (Information / IT) | [[people/tzetsai-eric-shen|Eric Shen (沈梓在)]] |
 | 總務 (General affairs) | [[people/sunu-tsai|Sunu Tsai (蔡淑女)]] |
-| 資訊 (Information / IT) | [[people/tzetsai-eric-shen|Tzetsai Eric Shen (沈梓在)]] |
 
-Founding context: [[people/yang-jia-you|Charles Yang (楊嘉猷)]] is founding president (創會會長); Franklin Ping Cheng (程炳成) served as president 2014–2017 (page pending).
+Notes:
+- Chart title uses **會務指導會主席** (not separate 財務指導主席). 陳柏宇 is labeled **會計** under that block.
+- **財務** on chart is [[people/phoenix-ko|Phoenix Ko / 柯貝昀]] — not Charles Yang.
+- Charles Yang is **創會會長** on this chart (also historically founding president). Franklin Ping Cheng (程炳成) served as president ~2014–2017.
 
 ## Related Pages
 - [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]]

@@ -42,7 +42,7 @@ Public wiki pages must **not** include private LINE IDs or non-public contact de
 
 ## TAHS role (2025)
 
-- **Title:** 秘書 (Secretary)
+- **Title:** 秘書長 (Secretary-general)
 - **Source:** TAHS 2025 organization chart (台美人歷史協會組織表), Tax ID 46-4005384
 - Private contact details from internal charts are not published here
 
