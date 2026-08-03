@@ -4,7 +4,7 @@
 
 **Privacy:** Operational file under `knowledge/operational/`. Do **not** paste private emails/phones/LINE U-ids here. Display names + public person slug only.
 
-**Source:** TAHS 2025 organization chart (台美人歷史協會組織表 2025), Tax ID 46-4005384 — names/roles only; phones redacted.
+**Source:** TAHS 2025 organization chart (台美人歷史協會組織表 2025), Tax ID 46-4005384 — names/roles only; phones redacted. Plus LINE-group members onboarded 2026-06 onward (owner-introduced, Echopedia-verified).
 
 After editing, re-run:
 
@@ -30,6 +30,22 @@ python3 ~/echo-system/scripts/taiwanjustice_priority_score.py --root ~/echo-syst
 | Cai Shu-nu | 蔡淑女 | cai-shunyu | 總務 (General affairs) 2025; EN romanization provisional |
 | Shen Zi-zai | 沈梓在 | shen-zizai | 資訊 (Information / IT) 2025; EN romanization provisional |
 
+## L1 — recently added LINE-group members (2026-06 onward)
+
+Owner-introduced in the TAHS LINE core group; canonical Echopedia pages verified. Display names + public slugs only.
+
+| name_en | name_zh | slug | role / notes |
+|---------|---------|------|----------------|
+| Becky Yang | 楊 | becky-yang | TAHS community member; family partner of founding president (2026-08) |
+| David Lee | 李東璞 | david-lee | TAHS CTO scope pending confirmation; VP InfoSec Light & Wonder (2026-07) |
+| Ken Wu | 吳兆峯 | ken-wu | TAHS member; Taiwan Center Foundation SG, FAPA-LA chapter president (2026-07) |
+| Linda Liu | 劉玲華 | linda-liu | TAHS member; board listing source Taiwan Center (2026-07) |
+| Rex Chen | 陳乃光 | rex-chen | TAHS member, onboarded via LINE intro (2026-06) |
+| Franklin Ping Cheng | 程炳成 | franklin-ping-cheng | TAHS President 2014– (successor to Charles Yang) |
+| Chen Wenshi | 陳文石 | chen-wenshi | Artist / cultural advocate (2026-07) |
+| Huang Gen-shen | 黃根深 | huang-gen-shen | Art teacher; UFAI founding member, 51-yr activist (2026-07) |
+| Liao Shu-zong | 廖述宗 | liao-shu-zong | Biochemist; NATPA founder; democratic movement supporter (2026-07) |
+
 ## Optional — orgs / chapters to boost (free text aliases)
 
 ```
@@ -42,6 +58,7 @@ python3 ~/echo-system/scripts/taiwanjustice_priority_score.py --root ~/echo-syst
 
 - Template created: 2026-08-02
 - Filled from 2025 org chart: 2026-08-03
+- Extended with LINE-group members: 2026-08-03
 - Owner: Leonard Hsu Jr.
 - Consumed by: `scripts/taiwanjustice_priority_score.py` → band **L1**
 - Echopedia pages: all L1 slugs under `content/people/` (2026-08-03)

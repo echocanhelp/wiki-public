@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "updated_at": "2026-08-03T03:49:29Z",
+  "updated_at": "2026-08-03T05:27:30Z",
   "description": "Taiwan Justice absorb priority lexicon (L0 identity → L4 orgs)",
   "counts": {
-    "total": 73,
+    "total": 267,
     "L0": 7,
-    "L1": 11,
-    "L2": 34,
+    "L1": 16,
+    "L2": 146,
     "L3": 10,
-    "L4": 11
+    "L4": 88
   },
   "entries": [
     {
@@ -43,8 +43,8 @@
       "name_zh": "",
       "aliases": [
         "David Lee",
-        "中文待補",
-        "David Lee (中文待補)"
+        "李東璞",
+        "David Lee (李東璞)"
       ],
       "notes": "identity_registry state=owner_verified"
     },
@@ -140,6 +140,32 @@
       "notes": "roster 總務 (General affairs) 2025; EN romanization provisional"
     },
     {
+      "id": "l1:chen-wenshi",
+      "slug": "chen-wenshi",
+      "band": "L1",
+      "name_en": "Chen Wenshi",
+      "name_zh": "陳文石",
+      "aliases": [
+        "Chen Wenshi",
+        "陳文石",
+        "陳文石 (Chen Wenshi)"
+      ],
+      "notes": "roster Artist / cultural advocate (2026-07)"
+    },
+    {
+      "id": "l1:franklin-ping-cheng",
+      "slug": "franklin-ping-cheng",
+      "band": "L1",
+      "name_en": "Franklin Ping Cheng",
+      "name_zh": "程炳成",
+      "aliases": [
+        "Franklin Ping Cheng",
+        "程炳成",
+        "Franklin Ping Cheng (程炳成)"
+      ],
+      "notes": "roster TAHS President 2014– (successor to Charles Yang)"
+    },
+    {
       "id": "l1:freeman-huang",
       "slug": "freeman-huang",
       "band": "L1",
@@ -166,6 +192,19 @@
       "notes": "roster 顧問 (Advisor) 2025"
     },
     {
+      "id": "l1:huang-gen-shen",
+      "slug": "huang-gen-shen",
+      "band": "L1",
+      "name_en": "Huang Gen-shen",
+      "name_zh": "黃根深",
+      "aliases": [
+        "Huang Gen-shen",
+        "黃根深",
+        "Huang Gen-shen (黃根深)"
+      ],
+      "notes": "roster Art teacher; UFAI founding member, 51-yr activist (2026-07)"
+    },
+    {
       "id": "l1:john-yang",
       "slug": "john-yang",
       "band": "L1",
@@ -190,6 +229,32 @@
         "Li Yi-sheng (李意盛)"
       ],
       "notes": "roster 特別助理 (Special assistant) 2025; EN romanization provisional"
+    },
+    {
+      "id": "l1:liao-shu-zong",
+      "slug": "liao-shu-zong",
+      "band": "L1",
+      "name_en": "Liao Shu-zong",
+      "name_zh": "廖述宗",
+      "aliases": [
+        "Liao Shu-zong",
+        "廖述宗",
+        "Liao Shu-zong (廖述宗)"
+      ],
+      "notes": "roster Biochemist; NATPA founder; democratic movement supporter (2026-07)"
+    },
+    {
+      "id": "l1:linda-liu",
+      "slug": "linda-liu",
+      "band": "L1",
+      "name_en": "Linda Liu",
+      "name_zh": "劉玲華",
+      "aliases": [
+        "Linda Liu",
+        "劉玲華",
+        "Linda Liu (劉玲華)"
+      ],
+      "notes": "roster TAHS member; board listing source Taiwan Center (2026-07)"
     },
     {
       "id": "l1:paul-chen",
@@ -244,6 +309,134 @@
       "notes": "roster 顧問 (Advisor) 2025; EN romanization provisional"
     },
     {
+      "id": "l2:albert-chapter1-en-review",
+      "slug": "albert-chapter1-en-review",
+      "band": "L2",
+      "name_en": "Albert Ch.1 EN audiobook review (Christopher scratch)",
+      "name_zh": "",
+      "aliases": [
+        "Albert Ch.1 EN audiobook review (Christopher scratch)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:albert-chapter1-zh-review",
+      "slug": "albert-chapter1-zh-review",
+      "band": "L2",
+      "name_en": "Albert Ch.1 ZH audiobook review (zh-TW voice bake-off)",
+      "name_zh": "",
+      "aliases": [
+        "Albert Ch.1 ZH audiobook review (zh-TW voice bake-off)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:albert-chapter1-zh-review-v2",
+      "slug": "albert-chapter1-zh-review-v2",
+      "band": "L2",
+      "name_en": "Albert Ch.1 ZH audiobook review (zh-TW voice bake-off)",
+      "name_zh": "",
+      "aliases": [
+        "Albert Ch.1 ZH audiobook review (zh-TW voice bake-off)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:albert-en-sku-a-scratch-review",
+      "slug": "albert-en-sku-a-scratch-review",
+      "band": "L2",
+      "name_en": "Albert EN SKU A audiobook scratch — full book review",
+      "name_zh": "",
+      "aliases": [
+        "Albert EN SKU A audiobook scratch — full book review"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:alexander-macdonald",
+      "slug": "alexander-macdonald",
+      "band": "L2",
+      "name_en": "馬偕博士 (George Leslie Macdonald)",
+      "name_zh": "馬偕博士",
+      "aliases": [
+        "馬偕博士",
+        "馬偕博士 (George Leslie Macdonald)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:anne-shih",
+      "slug": "anne-shih",
+      "band": "L2",
+      "name_en": "Anne Shih (施劉秀枝)",
+      "name_zh": "施劉秀枝",
+      "aliases": [
+        "施劉秀枝",
+        "Anne Shih (施劉秀枝)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:april-lin",
+      "slug": "april-lin",
+      "band": "L2",
+      "name_en": "April Lin (林淑卿)",
+      "name_zh": "林淑卿",
+      "aliases": [
+        "林淑卿",
+        "April Lin (林淑卿)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:ashton-hsu",
+      "slug": "ashton-hsu",
+      "band": "L2",
+      "name_en": "Ashton Hsu (許思敦)",
+      "name_zh": "許思敦",
+      "aliases": [
+        "許思敦",
+        "Ashton Hsu (許思敦)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:bob-j-wu",
+      "slug": "bob-j-wu",
+      "band": "L2",
+      "name_en": "Bob J. Wu (吳瑞椿)",
+      "name_zh": "吳瑞椿",
+      "aliases": [
+        "吳瑞椿",
+        "Bob J. Wu (吳瑞椿)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:c-c-chen",
+      "slug": "c-c-chen",
+      "band": "L2",
+      "name_en": "Dr. C.C. Chen (陳昭俊)",
+      "name_zh": "陳昭俊",
+      "aliases": [
+        "陳昭俊",
+        "Dr. C.C. Chen (陳昭俊)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:cai-jinrong",
+      "slug": "cai-jinrong",
+      "band": "L2",
+      "name_en": "Cai Jinrong (蔡錦榮)",
+      "name_zh": "蔡錦榮",
+      "aliases": [
+        "蔡錦榮",
+        "Cai Jinrong (蔡錦榮)"
+      ],
+      "notes": "content/people"
+    },
+    {
       "id": "l2:cai-weiren",
       "slug": "cai-weiren",
       "band": "L2",
@@ -252,6 +445,30 @@
       "aliases": [
         "蔡維仁牧師",
         "Rev. Cai Weiren (蔡維仁牧師)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:cai-yingwen",
+      "slug": "cai-yingwen",
+      "band": "L2",
+      "name_en": "Cai Ying-wen (蔡英文)",
+      "name_zh": "蔡英文",
+      "aliases": [
+        "蔡英文",
+        "Cai Ying-wen (蔡英文)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:chaolong-kao",
+      "slug": "chaolong-kao",
+      "band": "L2",
+      "name_en": "Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)",
+      "name_zh": "高昭龍",
+      "aliases": [
+        "高昭龍",
+        "Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)"
       ],
       "notes": "content/people"
     },
@@ -268,6 +485,18 @@
       "notes": "content/people"
     },
     {
+      "id": "l2:chen-maoxiong",
+      "slug": "chen-maoxiong",
+      "band": "L2",
+      "name_en": "Chen Mao-xiong (陳茂雄)",
+      "name_zh": "陳茂雄",
+      "aliases": [
+        "陳茂雄",
+        "Chen Mao-xiong (陳茂雄)"
+      ],
+      "notes": "content/people"
+    },
+    {
       "id": "l2:chen-meihui",
       "slug": "chen-meihui",
       "band": "L2",
@@ -280,6 +509,42 @@
       "notes": "content/people"
     },
     {
+      "id": "l2:chen-po-kong",
+      "slug": "chen-po-kong",
+      "band": "L2",
+      "name_en": "Chen Po-kong (陳破空)",
+      "name_zh": "陳破空",
+      "aliases": [
+        "陳破空",
+        "Chen Po-kong (陳破空)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:chen-shuibian",
+      "slug": "chen-shuibian",
+      "band": "L2",
+      "name_en": "Chen Shui-bian (陳水扁)",
+      "name_zh": "陳水扁",
+      "aliases": [
+        "陳水扁",
+        "Chen Shui-bian (陳水扁)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:chen-wenxue",
+      "slug": "chen-wenxue",
+      "band": "L2",
+      "name_en": "陳文學 (Chen Wenxue)",
+      "name_zh": "陳文學",
+      "aliases": [
+        "陳文學",
+        "陳文學 (Chen Wenxue)"
+      ],
+      "notes": "content/people"
+    },
+    {
       "id": "l2:chen-xialian",
       "slug": "chen-xialian",
       "band": "L2",
@@ -288,6 +553,31 @@
       "aliases": [
         "陳夏蓮長老",
         "Elder Chen Xialian (陳夏蓮長老)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:chen-zhaonan",
+      "slug": "chen-zhaonan",
+      "band": "L2",
+      "name_en": "Chen Chao-nan (陳昭南)",
+      "name_zh": "陳昭南",
+      "aliases": [
+        "陳昭南",
+        "Chen Chao-nan (陳昭南)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:chen-zhefu-xu-chunhui",
+      "slug": "chen-zhefu-xu-chunhui",
+      "band": "L2",
+      "name_en": "Chen Zhefu & Xu Chunhui (陳哲夫、許春惠)",
+      "name_zh": "陳哲夫",
+      "aliases": [
+        "陳哲夫",
+        "Chen Zhefu & Xu Chunhui (陳哲夫、許春惠)",
+        "許春惠"
       ],
       "notes": "content/people"
     },
@@ -316,6 +606,30 @@
       "notes": "content/people"
     },
     {
+      "id": "l2:daniel-kao",
+      "slug": "daniel-kao",
+      "band": "L2",
+      "name_en": "Dr. Daniel Kao (高光民)",
+      "name_zh": "高光民",
+      "aliases": [
+        "高光民",
+        "Dr. Daniel Kao (高光民)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:danny-chen",
+      "slug": "danny-chen",
+      "band": "L2",
+      "name_en": "Danny Chen (陳啟耕)",
+      "name_zh": "陳啟耕",
+      "aliases": [
+        "陳啟耕",
+        "Danny Chen (陳啟耕)"
+      ],
+      "notes": "content/people"
+    },
+    {
       "id": "l2:david-huang",
       "slug": "david-huang",
       "band": "L2",
@@ -340,6 +654,18 @@
       "notes": "content/people"
     },
     {
+      "id": "l2:du-ao-cunfu",
+      "slug": "du-ao-cunfu",
+      "band": "L2",
+      "name_en": "Du Ao Cunfu (獨傲村夫)",
+      "name_zh": "獨傲村夫",
+      "aliases": [
+        "獨傲村夫",
+        "Du Ao Cunfu (獨傲村夫)"
+      ],
+      "notes": "content/people"
+    },
+    {
       "id": "l2:en-sheng-pan",
       "slug": "en-sheng-pan",
       "band": "L2",
@@ -348,6 +674,42 @@
       "aliases": [
         "潘恩盛",
         "Rev. En Sheng Pan (潘恩盛)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:fan-jiang-ti-ang",
+      "slug": "fan-jiang-ti-ang",
+      "band": "L2",
+      "name_en": "Fan Chiang Tsiang (范姜提昂)",
+      "name_zh": "范姜提昂",
+      "aliases": [
+        "范姜提昂",
+        "Fan Chiang Tsiang (范姜提昂)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:fan-qingliang",
+      "slug": "fan-qingliang",
+      "band": "L2",
+      "name_en": "Fan Qingliang (范清亮)",
+      "name_zh": "范清亮",
+      "aliases": [
+        "范清亮",
+        "Fan Qingliang (范清亮)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:gong-sun-le",
+      "slug": "gong-sun-le",
+      "band": "L2",
+      "name_en": "Gong Sun-le (公孫樂)",
+      "name_zh": "公孫樂",
+      "aliases": [
+        "公孫樂",
+        "Gong Sun-le (公孫樂)"
       ],
       "notes": "content/people"
     },
@@ -364,6 +726,18 @@
       "notes": "content/people"
     },
     {
+      "id": "l2:guo-shu-qing",
+      "slug": "guo-shu-qing",
+      "band": "L2",
+      "name_en": "Guo Shu-qing (郭淑卿)",
+      "name_zh": "郭淑卿",
+      "aliases": [
+        "郭淑卿",
+        "Guo Shu-qing (郭淑卿)"
+      ],
+      "notes": "content/people"
+    },
+    {
       "id": "l2:guo-yingyan",
       "slug": "guo-yingyan",
       "band": "L2",
@@ -376,13 +750,301 @@
       "notes": "content/people"
     },
     {
+      "id": "l2:han-guoyu",
+      "slug": "han-guoyu",
+      "band": "L2",
+      "name_en": "Han Kuo-yu / Han Guo-yu (韓國瑜)",
+      "name_zh": "韓國瑜",
+      "aliases": [
+        "韓國瑜",
+        "Han Kuo-yu / Han Guo-yu (韓國瑜)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:he-qingxuan",
+      "slug": "he-qingxuan",
+      "band": "L2",
+      "name_en": "He Qinglian (何清漣)",
+      "name_zh": "何清漣",
+      "aliases": [
+        "何清漣",
+        "He Qinglian (何清漣)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:he-sumei",
+      "slug": "he-sumei",
+      "band": "L2",
+      "name_en": "He Sumei (何素美)",
+      "name_zh": "何素美",
+      "aliases": [
+        "何素美",
+        "He Sumei (何素美)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:ho-chie-tsai",
+      "slug": "ho-chie-tsai",
+      "band": "L2",
+      "name_en": "Ho Chie Tsai (蔡和杰)",
+      "name_zh": "蔡和杰",
+      "aliases": [
+        "蔡和杰",
+        "Ho Chie Tsai (蔡和杰)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:hong-ya",
+      "slug": "hong-ya",
+      "band": "L2",
+      "name_en": "Hong Ya (洪雅)",
+      "name_zh": "洪雅",
+      "aliases": [
+        "洪雅",
+        "Hong Ya (洪雅)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:hou-youyi",
+      "slug": "hou-youyi",
+      "band": "L2",
+      "name_en": "Hou Yu-ih / Hou You-yi (侯友宜)",
+      "name_zh": "侯友宜",
+      "aliases": [
+        "侯友宜",
+        "Hou Yu-ih / Hou You-yi (侯友宜)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:hsu-hsin-hung",
+      "slug": "hsu-hsin-hung",
+      "band": "L2",
+      "name_en": "Hsu Hsin-hung (徐新宏)",
+      "name_zh": "徐新宏",
+      "aliases": [
+        "徐新宏",
+        "Hsu Hsin-hung (徐新宏)"
+      ],
+      "notes": "content/people"
+    },
+    {
       "id": "l2:hu-gstpc",
       "slug": "hu-gstpc",
       "band": "L2",
-      "name_en": "Brother Hu (GSTPC, verification needed)",
+      "name_en": "Brother Hu (GSTPC)",
       "name_zh": "",
       "aliases": [
-        "Brother Hu (GSTPC, verification needed)"
+        "Brother Hu (GSTPC)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:huang-diyin",
+      "slug": "huang-diyin",
+      "band": "L2",
+      "name_en": "Huang Di-ying (黃帝穎)",
+      "name_zh": "黃帝穎",
+      "aliases": [
+        "黃帝穎",
+        "Huang Di-ying (黃帝穎)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:ian-easton",
+      "slug": "ian-easton",
+      "band": "L2",
+      "name_en": "Ian Easton (易思安)",
+      "name_zh": "易思安",
+      "aliases": [
+        "易思安",
+        "Ian Easton (易思安)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:index",
+      "slug": "index",
+      "band": "L2",
+      "name_en": "People",
+      "name_zh": "",
+      "aliases": [
+        "People",
+        "Organizations"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:jack-j-chen",
+      "slug": "jack-j-chen",
+      "band": "L2",
+      "name_en": "Jack J. Chen (陳宏傑)",
+      "name_zh": "陳宏傑",
+      "aliases": [
+        "陳宏傑",
+        "Jack J. Chen (陳宏傑)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:james-yang",
+      "slug": "james-yang",
+      "band": "L2",
+      "name_en": "James Yang (楊榮勝)",
+      "name_zh": "楊榮勝",
+      "aliases": [
+        "楊榮勝",
+        "James Yang (楊榮勝)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:jiang-bai-xian",
+      "slug": "jiang-bai-xian",
+      "band": "L2",
+      "name_en": "Jiang Bai-xian (江百顯)",
+      "name_zh": "江百顯",
+      "aliases": [
+        "江百顯",
+        "Jiang Bai-xian (江百顯)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:jin-hegui",
+      "slug": "jin-hegui",
+      "band": "L2",
+      "name_en": "Jin Heng-wei (金恆煒)",
+      "name_zh": "金恆煒",
+      "aliases": [
+        "金恆煒",
+        "Jin Heng-wei (金恆煒)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:joe-hu",
+      "slug": "joe-hu",
+      "band": "L2",
+      "name_en": "Joe Hu (胡永全)",
+      "name_zh": "胡永全",
+      "aliases": [
+        "胡永全",
+        "Joe Hu (胡永全)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:john-chiang",
+      "slug": "john-chiang",
+      "band": "L2",
+      "name_en": "John Chiang (江俊輝)",
+      "name_zh": "江俊輝",
+      "aliases": [
+        "江俊輝",
+        "John Chiang (江俊輝)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:john-j-tkacik",
+      "slug": "john-j-tkacik",
+      "band": "L2",
+      "name_en": "John J. Tkacik (譚慎格)",
+      "name_zh": "譚慎格",
+      "aliases": [
+        "譚慎格",
+        "John J. Tkacik (譚慎格)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:jolie-chenn",
+      "slug": "jolie-chenn",
+      "band": "L2",
+      "name_en": "Jolie Chenn (陳芃佑)",
+      "name_zh": "陳芃佑",
+      "aliases": [
+        "陳芃佑",
+        "Jolie Chenn (陳芃佑)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:jonah-chang",
+      "slug": "jonah-chang",
+      "band": "L2",
+      "name_en": "Rev. Jonah Chang (張瑞雄)",
+      "name_zh": "張瑞雄",
+      "aliases": [
+        "張瑞雄",
+        "Rev. Jonah Chang (張瑞雄)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:joseph-teng",
+      "slug": "joseph-teng",
+      "band": "L2",
+      "name_en": "Joseph Teng (曾英銘)",
+      "name_zh": "曾英銘",
+      "aliases": [
+        "曾英銘",
+        "Joseph Teng (曾英銘)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:josephine-pan",
+      "slug": "josephine-pan",
+      "band": "L2",
+      "name_en": "Josephine Pan (潘掬慧)",
+      "name_zh": "潘掬慧",
+      "aliases": [
+        "潘掬慧",
+        "Josephine Pan (潘掬慧)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:joyce-yeh",
+      "slug": "joyce-yeh",
+      "band": "L2",
+      "name_en": "Joyce Yeh (葉怡蘭)",
+      "name_zh": "葉怡蘭",
+      "aliases": [
+        "葉怡蘭",
+        "Joyce Yeh (葉怡蘭)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:katherine-huang",
+      "slug": "katherine-huang",
+      "band": "L2",
+      "name_en": "Katherine Huang (黃愷怡)",
+      "name_zh": "黃愷怡",
+      "aliases": [
+        "黃愷怡",
+        "Katherine Huang (黃愷怡)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:ke-wenze",
+      "slug": "ke-wenze",
+      "band": "L2",
+      "name_en": "Ko Wen-je / Ke Wen-ze (柯文哲)",
+      "name_zh": "柯文哲",
+      "aliases": [
+        "柯文哲",
+        "Ko Wen-je / Ke Wen-ze (柯文哲)"
       ],
       "notes": "content/people"
     },
@@ -390,10 +1052,10 @@
       "id": "l2:ku-gstpc",
       "slug": "ku-gstpc",
       "band": "L2",
-      "name_en": "Brother Ku (GSTPC, verification needed)",
+      "name_en": "Brother Ku (GSTPC)",
       "name_zh": "",
       "aliases": [
-        "Brother Ku (GSTPC, verification needed)"
+        "Brother Ku (GSTPC)"
       ],
       "notes": "content/people"
     },
@@ -410,13 +1072,74 @@
       "notes": "content/people"
     },
     {
-      "id": "l2:leonard-hsu",
-      "slug": "leonard-hsu",
+      "id": "l2:lai-qingde",
+      "slug": "lai-qingde",
       "band": "L2",
-      "name_en": "leonard-hsu",
-      "name_zh": "",
+      "name_en": "Lai Ching-te / Lai Qing-de (賴清德)",
+      "name_zh": "賴清德",
       "aliases": [
-        "leonard-hsu"
+        "賴清德",
+        "Lai Ching-te / Lai Qing-de (賴清德)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:li-furen",
+      "slug": "li-furen",
+      "band": "L2",
+      "name_en": "Li Fu-Jen (李輔仁)",
+      "name_zh": "李輔仁",
+      "aliases": [
+        "李輔仁",
+        "Li Fu-Jen (李輔仁)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:li-jian",
+      "slug": "li-jian",
+      "band": "L2",
+      "name_en": "Li Jian (李堅)",
+      "name_zh": "李堅",
+      "aliases": [
+        "李堅",
+        "Li Jian (李堅)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:li-mutong",
+      "slug": "li-mutong",
+      "band": "L2",
+      "name_en": "李木通 (Li Mutong)",
+      "name_zh": "李木通",
+      "aliases": [
+        "李木通",
+        "李木通 (Li Mutong)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:liao-ji-chun",
+      "slug": "liao-ji-chun",
+      "band": "L2",
+      "name_en": "Liao Jichun (廖繼春)",
+      "name_zh": "廖繼春",
+      "aliases": [
+        "廖繼春",
+        "Liao Jichun (廖繼春)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:liao-qingshan",
+      "slug": "liao-qingshan",
+      "band": "L2",
+      "name_en": "Liao Qing-shan (廖清山)",
+      "name_zh": "廖清山",
+      "aliases": [
+        "廖清山",
+        "Liao Qing-shan (廖清山)"
       ],
       "notes": "content/people"
     },
@@ -433,6 +1156,161 @@
       "notes": "content/people"
     },
     {
+      "id": "l2:lin-baohua",
+      "slug": "lin-baohua",
+      "band": "L2",
+      "name_en": "Lin Bao-hua (林保華)",
+      "name_zh": "林保華",
+      "aliases": [
+        "林保華",
+        "Lin Bao-hua (林保華)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:lin-chao-chi",
+      "slug": "lin-chao-chi",
+      "band": "L2",
+      "name_en": "Lin Chao-chi (林朝棨)",
+      "name_zh": "林朝棨",
+      "aliases": [
+        "林朝棨",
+        "Lin Chao-chi (林朝棨)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:lin-chao-quan",
+      "slug": "lin-chao-quan",
+      "band": "L2",
+      "name_en": "Lin Chao-quan (林朝權)",
+      "name_zh": "林朝權",
+      "aliases": [
+        "林朝權",
+        "Lin Chao-quan (林朝權)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:lin-fu-kun",
+      "slug": "lin-fu-kun",
+      "band": "L2",
+      "name_en": "Lin Fu-kun (林福坤)",
+      "name_zh": "林福坤",
+      "aliases": [
+        "林福坤",
+        "Lin Fu-kun (林福坤)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:lin-jialong",
+      "slug": "lin-jialong",
+      "band": "L2",
+      "name_en": "Lin Chia-lung / Lin Jia-long (林佳龍)",
+      "name_zh": "林佳龍",
+      "aliases": [
+        "林佳龍",
+        "Lin Chia-lung / Lin Jia-long (林佳龍)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:lin-qiong-xian",
+      "slug": "lin-qiong-xian",
+      "band": "L2",
+      "name_en": "Lin Qiong-xian (林瓊仙)",
+      "name_zh": "林瓊仙",
+      "aliases": [
+        "林瓊仙",
+        "Lin Qiong-xian (林瓊仙)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:lin-yuan-ching",
+      "slug": "lin-yuan-ching",
+      "band": "L2",
+      "name_en": "Lin Yuan-qing (林元清)",
+      "name_zh": "林元清",
+      "aliases": [
+        "林元清",
+        "Lin Yuan-qing (林元清)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:lisa-hou",
+      "slug": "lisa-hou",
+      "band": "L2",
+      "name_en": "Lisa Hou (侯乃文)",
+      "name_zh": "侯乃文",
+      "aliases": [
+        "侯乃文",
+        "Lisa Hou (侯乃文)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:lisa-liu",
+      "slug": "lisa-liu",
+      "band": "L2",
+      "name_en": "Lisa Liu (劉雅薇)",
+      "name_zh": "劉雅薇",
+      "aliases": [
+        "劉雅薇",
+        "Lisa Liu (劉雅薇)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:lisa-su",
+      "slug": "lisa-su",
+      "band": "L2",
+      "name_en": "Lisa T. Su (蘇姿丰)",
+      "name_zh": "蘇姿丰",
+      "aliases": [
+        "蘇姿丰",
+        "Lisa T. Su (蘇姿丰)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:ma-yingjeou",
+      "slug": "ma-yingjeou",
+      "band": "L2",
+      "name_en": "Ma Ying-jeou (馬英九)",
+      "name_zh": "馬英九",
+      "aliases": [
+        "馬英九",
+        "Ma Ying-jeou (馬英九)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:martha-vandriel",
+      "slug": "martha-vandriel",
+      "band": "L2",
+      "name_en": "Martha VanDriel (Martha S.H. VanDriel)",
+      "name_zh": "",
+      "aliases": [
+        "Martha VanDriel (Martha S.H. VanDriel)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:meifeng-tsai",
+      "slug": "meifeng-tsai",
+      "band": "L2",
+      "name_en": "Meifeng Tsai (王梅鳳)",
+      "name_zh": "王梅鳳",
+      "aliases": [
+        "王梅鳳",
+        "Meifeng Tsai (王梅鳳)"
+      ],
+      "notes": "content/people"
+    },
+    {
       "id": "l2:mingyuan-hsu",
       "slug": "mingyuan-hsu",
       "band": "L2",
@@ -441,6 +1319,30 @@
       "aliases": [
         "許明遠",
         "Rev. Mingyuan Hsu (許明遠)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:peng-ming-min",
+      "slug": "peng-ming-min",
+      "band": "L2",
+      "name_en": "Peng Ming-min (彭明敏)",
+      "name_zh": "彭明敏",
+      "aliases": [
+        "彭明敏",
+        "Peng Ming-min (彭明敏)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:peter-lin",
+      "slug": "peter-lin",
+      "band": "L2",
+      "name_en": "Peter Lin (林冠豪)",
+      "name_zh": "林冠豪",
+      "aliases": [
+        "林冠豪",
+        "Peter Lin (林冠豪)"
       ],
       "notes": "content/people"
     },
@@ -457,14 +1359,14 @@
       "notes": "content/people"
     },
     {
-      "id": "l2:puma-shen",
-      "slug": "puma-shen",
+      "id": "l2:pingtung-lai",
+      "slug": "pingtung-lai",
       "band": "L2",
-      "name_en": "Puma Shen (沈伯洋)",
-      "name_zh": "沈伯洋",
+      "name_en": "Pastor Pingtung Lai (賴炳烔)",
+      "name_zh": "賴炳烔",
       "aliases": [
-        "沈伯洋",
-        "Puma Shen (沈伯洋)"
+        "賴炳烔",
+        "Pastor Pingtung Lai (賴炳烔)"
       ],
       "notes": "content/people"
     },
@@ -481,6 +1383,126 @@
       "notes": "content/people"
     },
     {
+      "id": "l2:ray-jan",
+      "slug": "ray-jan",
+      "band": "L2",
+      "name_en": "Ray Jan (冉瑞宜)",
+      "name_zh": "冉瑞宜",
+      "aliases": [
+        "冉瑞宜",
+        "Ray Jan (冉瑞宜)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:richard-d-fisher",
+      "slug": "richard-d-fisher",
+      "band": "L2",
+      "name_en": "Richard D. Fisher (費學禮)",
+      "name_zh": "費學禮",
+      "aliases": [
+        "費學禮",
+        "Richard D. Fisher (費學禮)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:ryan-hass",
+      "slug": "ryan-hass",
+      "band": "L2",
+      "name_en": "Ryan Hass (何瑞恩)",
+      "name_zh": "何瑞恩",
+      "aliases": [
+        "何瑞恩",
+        "Ryan Hass (何瑞恩)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:sam-chang",
+      "slug": "sam-chang",
+      "band": "L2",
+      "name_en": "Sam Chang (張善良)",
+      "name_zh": "張善良",
+      "aliases": [
+        "張善良",
+        "Sam Chang (張善良)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:samantha-yu",
+      "slug": "samantha-yu",
+      "band": "L2",
+      "name_en": "Samantha Yu (游蕙綾)",
+      "name_zh": "游蕙綾",
+      "aliases": [
+        "游蕙綾",
+        "Samantha Yu (游蕙綾)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:sharon-huang",
+      "slug": "sharon-huang",
+      "band": "L2",
+      "name_en": "Sharon Huang (黃馨瑤)",
+      "name_zh": "黃馨瑤",
+      "aliases": [
+        "黃馨瑤",
+        "Sharon Huang (黃馨瑤)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:shawn-yeh",
+      "slug": "shawn-yeh",
+      "band": "L2",
+      "name_en": "Shawn Yeh (葉上毅)",
+      "name_zh": "葉上毅",
+      "aliases": [
+        "葉上毅",
+        "Shawn Yeh (葉上毅)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:shawna-yang-ryan",
+      "slug": "shawna-yang-ryan",
+      "band": "L2",
+      "name_en": "Shawna Yang Ryan (楊小娜)",
+      "name_zh": "楊小娜",
+      "aliases": [
+        "楊小娜",
+        "Shawna Yang Ryan (楊小娜)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:shi-yuli",
+      "slug": "shi-yuli",
+      "band": "L2",
+      "name_en": "Shi Yuli (施郁麗)",
+      "name_zh": "施郁麗",
+      "aliases": [
+        "施郁麗",
+        "Shi Yuli (施郁麗)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:shirley-yu",
+      "slug": "shirley-yu",
+      "band": "L2",
+      "name_en": "Shirley Yu (張欣珠)",
+      "name_zh": "張欣珠",
+      "aliases": [
+        "張欣珠",
+        "Shirley Yu (張欣珠)"
+      ],
+      "notes": "content/people"
+    },
+    {
       "id": "l2:shoki-coe",
       "slug": "shoki-coe",
       "band": "L2",
@@ -493,13 +1515,169 @@
       "notes": "content/people"
     },
     {
+      "id": "l2:shu-lai",
+      "slug": "shu-lai",
+      "band": "L2",
+      "name_en": "Shu Lai (賴淑遠)",
+      "name_zh": "賴淑遠",
+      "aliases": [
+        "賴淑遠",
+        "Shu Lai (賴淑遠)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:simon-lin",
+      "slug": "simon-lin",
+      "band": "L2",
+      "name_en": "Simon Lin (林榮松)",
+      "name_zh": "林榮松",
+      "aliases": [
+        "林榮松",
+        "Simon Lin (林榮松)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:steven-wu",
+      "slug": "steven-wu",
+      "band": "L2",
+      "name_en": "Steven Wu (吳尚誠)",
+      "name_zh": "吳尚誠",
+      "aliases": [
+        "吳尚誠",
+        "Steven Wu (吳尚誠)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:su-chun-huai",
+      "slug": "su-chun-huai",
+      "band": "L2",
+      "name_en": "Su Chun-huai (蘇春槐)",
+      "name_zh": "蘇春槐",
+      "aliases": [
+        "蘇春槐",
+        "Su Chun-huai (蘇春槐)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:tiffany-huang",
+      "slug": "tiffany-huang",
+      "band": "L2",
+      "name_en": "Tiffany Huang (黃咏婷)",
+      "name_zh": "黃咏婷",
+      "aliases": [
+        "黃咏婷",
+        "Tiffany Huang (黃咏婷)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:tony-lee",
+      "slug": "tony-lee",
+      "band": "L2",
+      "name_en": "Tony Lee (李賢群)",
+      "name_zh": "李賢群",
+      "aliases": [
+        "李賢群",
+        "Tony Lee (李賢群)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:vera-yang",
+      "slug": "vera-yang",
+      "band": "L2",
+      "name_en": "Vera Yang (楊悅英)",
+      "name_zh": "楊悅英",
+      "aliases": [
+        "楊悅英",
+        "Vera Yang (楊悅英)"
+      ],
+      "notes": "content/people"
+    },
+    {
       "id": "l2:wang-gstpc",
       "slug": "wang-gstpc",
       "band": "L2",
-      "name_en": "Brother Wang (GSTPC, verification needed)",
+      "name_en": "Brother Wang (GSTPC)",
       "name_zh": "",
       "aliases": [
-        "Brother Wang (GSTPC, verification needed)"
+        "Brother Wang (GSTPC)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:wang-gui-rong",
+      "slug": "wang-gui-rong",
+      "band": "L2",
+      "name_en": "Wang Gui-rong (王桂榮)",
+      "name_zh": "王桂榮",
+      "aliases": [
+        "王桂榮",
+        "Wang Gui-rong (王桂榮)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:wang-jinping",
+      "slug": "wang-jinping",
+      "band": "L2",
+      "name_en": "Wang Jin-pyng / Wang Jin-ping (王金平)",
+      "name_zh": "王金平",
+      "aliases": [
+        "王金平",
+        "Wang Jin-pyng / Wang Jin-ping (王金平)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:wang-kexiong",
+      "slug": "wang-kexiong",
+      "band": "L2",
+      "name_en": "王克雄 (Wang Kexiong)",
+      "name_zh": "王克雄",
+      "aliases": [
+        "王克雄",
+        "王克雄 (Wang Kexiong)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:wang-neng-xiang",
+      "slug": "wang-neng-xiang",
+      "band": "L2",
+      "name_en": "Wang Neng-xiang (王能祥)",
+      "name_zh": "王能祥",
+      "aliases": [
+        "王能祥",
+        "Wang Neng-xiang (王能祥)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:wang-rongyi",
+      "slug": "wang-rongyi",
+      "band": "L2",
+      "name_en": "Wang Rongyi (王榮義)",
+      "name_zh": "王榮義",
+      "aliases": [
+        "王榮義",
+        "Wang Rongyi (王榮義)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:wang-taihe",
+      "slug": "wang-taihe",
+      "band": "L2",
+      "name_en": "Wang Taihe (王泰和)",
+      "name_zh": "王泰和",
+      "aliases": [
+        "王泰和",
+        "Wang Taihe (王泰和)"
       ],
       "notes": "content/people"
     },
@@ -512,6 +1690,43 @@
       "aliases": [
         "王信心",
         "Elder Wang Xinxin (王信心)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:wang-yao-ting",
+      "slug": "wang-yao-ting",
+      "band": "L2",
+      "name_en": "Wang Yao-ting (王耀廷)",
+      "name_zh": "王耀廷",
+      "aliases": [
+        "王耀廷",
+        "Wang Yao-ting (王耀廷)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:wang-yao-ting-xie-xiulan",
+      "slug": "wang-yao-ting-xie-xiulan",
+      "band": "L2",
+      "name_en": "Wang Yao-ting & Xie Xiulan (王耀廷、謝秀緞)",
+      "name_zh": "王耀廷",
+      "aliases": [
+        "王耀廷",
+        "Wang Yao-ting & Xie Xiulan (王耀廷、謝秀緞)",
+        "謝秀緞"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:wei-boji",
+      "slug": "wei-boji",
+      "band": "L2",
+      "name_en": "Wei Boji (魏博基)",
+      "name_zh": "魏博基",
+      "aliases": [
+        "魏博基",
+        "Wei Boji (魏博基)"
       ],
       "notes": "content/people"
     },
@@ -540,6 +1755,18 @@
       "notes": "content/people"
     },
     {
+      "id": "l2:xie-changting",
+      "slug": "xie-changting",
+      "band": "L2",
+      "name_en": "Frank Hsieh / Xie Chang-ting (謝長廷)",
+      "name_zh": "謝長廷",
+      "aliases": [
+        "謝長廷",
+        "Frank Hsieh / Xie Chang-ting (謝長廷)"
+      ],
+      "notes": "content/people"
+    },
+    {
       "id": "l2:xie-dali",
       "slug": "xie-dali",
       "band": "L2",
@@ -548,6 +1775,19 @@
       "aliases": [
         "謝大立",
         "Rev. Xie Dali (謝大立)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:xie-qingzhi-xie-poyi",
+      "slug": "xie-qingzhi-xie-poyi",
+      "band": "L2",
+      "name_en": "Xie Qingzhi & Xie Poyi (謝清志、謝泊怡)",
+      "name_zh": "謝清志",
+      "aliases": [
+        "謝清志",
+        "Xie Qingzhi & Xie Poyi (謝清志、謝泊怡)",
+        "謝泊怡"
       ],
       "notes": "content/people"
     },
@@ -576,6 +1816,18 @@
       "notes": "content/people"
     },
     {
+      "id": "l2:xu-shitan",
+      "slug": "xu-shitan",
+      "band": "L2",
+      "name_en": "Xu Shitan (徐士坦)",
+      "name_zh": "徐士坦",
+      "aliases": [
+        "徐士坦",
+        "Xu Shitan (徐士坦)"
+      ],
+      "notes": "content/people"
+    },
+    {
       "id": "l2:xu-wenkai",
       "slug": "xu-wenkai",
       "band": "L2",
@@ -588,6 +1840,54 @@
       "notes": "content/people"
     },
     {
+      "id": "l2:xu-zongbang",
+      "slug": "xu-zongbang",
+      "band": "L2",
+      "name_en": "許宗邦 (Xu Zongbang)",
+      "name_zh": "許宗邦",
+      "aliases": [
+        "許宗邦",
+        "許宗邦 (Xu Zongbang)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:yang-chengwei",
+      "slug": "yang-chengwei",
+      "band": "L2",
+      "name_en": "Yang Chengwei (楊呵偉)",
+      "name_zh": "楊呵偉",
+      "aliases": [
+        "楊呵偉",
+        "Yang Chengwei (楊呵偉)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:yang-huiqiao",
+      "slug": "yang-huiqiao",
+      "band": "L2",
+      "name_en": "Yang Huiqiao (楊惠喬)",
+      "name_zh": "楊惠喬",
+      "aliases": [
+        "楊惠喬",
+        "Yang Huiqiao (楊惠喬)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:yang-xin",
+      "slug": "yang-xin",
+      "band": "L2",
+      "name_en": "Yang Hsin (楊信)",
+      "name_zh": "楊信",
+      "aliases": [
+        "楊信",
+        "Yang Hsin (楊信)"
+      ],
+      "notes": "content/people"
+    },
+    {
       "id": "l2:yang-zhengxiang",
       "slug": "yang-zhengxiang",
       "band": "L2",
@@ -595,6 +1895,43 @@
       "name_zh": "",
       "aliases": [
         "Yang Zhengxiang (Ethan Yang)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:yang-ziqing",
+      "slug": "yang-ziqing",
+      "band": "L2",
+      "name_en": "Yang Zi-qing (楊子清)",
+      "name_zh": "楊子清",
+      "aliases": [
+        "楊子清",
+        "Yang Zi-qing (楊子清)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:ye-siya-zhang-xinhui",
+      "slug": "ye-siya-zhang-xinhui",
+      "band": "L2",
+      "name_en": "Ye Siya & Zhang Xinhui (葉思雅、張信惠)",
+      "name_zh": "葉思雅",
+      "aliases": [
+        "葉思雅",
+        "Ye Siya & Zhang Xinhui (葉思雅、張信惠)",
+        "張信惠"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:yu-jie",
+      "slug": "yu-jie",
+      "band": "L2",
+      "name_en": "Yu Chieh (余杰)",
+      "name_zh": "余杰",
+      "aliases": [
+        "余杰",
+        "Yu Chieh (余杰)"
       ],
       "notes": "content/people"
     },
@@ -611,6 +1948,18 @@
       "notes": "content/people"
     },
     {
+      "id": "l2:zeng-daoxiong",
+      "slug": "zeng-daoxiong",
+      "band": "L2",
+      "name_en": "Zeng Dao-xiong (曾道雄)",
+      "name_zh": "曾道雄",
+      "aliases": [
+        "曾道雄",
+        "Zeng Dao-xiong (曾道雄)"
+      ],
+      "notes": "content/people"
+    },
+    {
       "id": "l2:zhang-xuanxin",
       "slug": "zhang-xuanxin",
       "band": "L2",
@@ -623,6 +1972,30 @@
       "notes": "content/people"
     },
     {
+      "id": "l2:zheng-bing-quan",
+      "slug": "zheng-bing-quan",
+      "band": "L2",
+      "name_en": "Zheng Bingquan (鄭炳全)",
+      "name_zh": "鄭炳全",
+      "aliases": [
+        "鄭炳全",
+        "Zheng Bingquan (鄭炳全)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:zheng-dazhi",
+      "slug": "zheng-dazhi",
+      "band": "L2",
+      "name_en": "Zheng Dazhi (鄭達志)",
+      "name_zh": "鄭達志",
+      "aliases": [
+        "鄭達志",
+        "Zheng Dazhi (鄭達志)"
+      ],
+      "notes": "content/people"
+    },
+    {
       "id": "l2:zheng-quansheng",
       "slug": "zheng-quansheng",
       "band": "L2",
@@ -631,6 +2004,42 @@
       "aliases": [
         "鄭泉聲",
         "Zheng Quansheng (鄭泉聲)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:zheng-shaoliang",
+      "slug": "zheng-shaoliang",
+      "band": "L2",
+      "name_en": "Zheng Shaoliang (鄭紹良)",
+      "name_zh": "鄭紹良",
+      "aliases": [
+        "鄭紹良",
+        "Zheng Shaoliang (鄭紹良)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:zhou-wei-liang",
+      "slug": "zhou-wei-liang",
+      "band": "L2",
+      "name_en": "Zhou Weiliang (周威廉)",
+      "name_zh": "周威廉",
+      "aliases": [
+        "周威廉",
+        "Zhou Weiliang (周威廉)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:zhou-wei-lin",
+      "slug": "zhou-wei-lin",
+      "band": "L2",
+      "name_en": "Zhou Weilin (周威霖)",
+      "name_zh": "周威霖",
+      "aliases": [
+        "周威霖",
+        "Zhou Weilin (周威霖)"
       ],
       "notes": "content/people"
     },
@@ -774,14 +2183,223 @@
       "notes": "columnist ~37"
     },
     {
-      "id": "l4:doublethink-lab",
-      "slug": "doublethink-lab",
+      "id": "l4:acevedo-music-and-art-education-foundation-inc",
+      "slug": "acevedo-music-and-art-education-foundation-inc",
       "band": "L4",
-      "name_en": "Doublethink Lab (民主實驗室)",
-      "name_zh": "民主實驗室",
+      "name_en": "Acevedo Music & Art Education Foundation Inc",
+      "name_zh": "",
       "aliases": [
-        "Doublethink Lab (民主實驗室)",
-        "民主實驗室"
+        "Acevedo Music & Art Education Foundation Inc"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:alumni-association-of-chia-yi-high-school-worldwide",
+      "slug": "alumni-association-of-chia-yi-high-school-worldwide",
+      "band": "L4",
+      "name_en": "Alumni Association of Chia Yi High School Worldwide (AACHW)",
+      "name_zh": "",
+      "aliases": [
+        "Alumni Association of Chia Yi High School Worldwide (AACHW)"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:asian-american-social-welfaer-foundation",
+      "slug": "asian-american-social-welfaer-foundation",
+      "band": "L4",
+      "name_en": "Asian American Social Welfaer Foundation",
+      "name_zh": "",
+      "aliases": [
+        "Asian American Social Welfaer Foundation"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:career-taiwan-usa-association",
+      "slug": "career-taiwan-usa-association",
+      "band": "L4",
+      "name_en": "Career Taiwan USA Association",
+      "name_zh": "",
+      "aliases": [
+        "Career Taiwan USA Association"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:chang-jung-girls-high-school-alumni-association-southern-california",
+      "slug": "chang-jung-girls-high-school-alumni-association-southern-california",
+      "band": "L4",
+      "name_en": "Chang Jung Girls’ High School Alumni Association Southern California",
+      "name_zh": "",
+      "aliases": [
+        "Chang Jung Girls’ High School Alumni Association Southern California"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:ching-ying-cultural-and-educational-foundation",
+      "slug": "ching-ying-cultural-and-educational-foundation",
+      "band": "L4",
+      "name_en": "Ching Ying Cultural and Educational Foundation",
+      "name_zh": "",
+      "aliases": [
+        "Ching Ying Cultural and Educational Foundation"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:cord-blood-bank",
+      "slug": "cord-blood-bank",
+      "band": "L4",
+      "name_en": "Cord Blood Bank",
+      "name_zh": "",
+      "aliases": [
+        "Cord Blood Bank"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:democratic-progressive-party",
+      "slug": "democratic-progressive-party",
+      "band": "L4",
+      "name_en": "Democratic Progressive Party (民主進步黨)",
+      "name_zh": "民主進步黨",
+      "aliases": [
+        "Democratic Progressive Party (民主進步黨)",
+        "民主進步黨"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:distinguished-citizens-society-international-southern-california",
+      "slug": "distinguished-citizens-society-international-southern-california",
+      "band": "L4",
+      "name_en": "Distinguished Citizens Society International-Southern California",
+      "name_zh": "",
+      "aliases": [
+        "Distinguished Citizens Society International-Southern California"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:distinguished-citizens-society-international-usa",
+      "slug": "distinguished-citizens-society-international-usa",
+      "band": "L4",
+      "name_en": "Distinguished Citizens Society International USA",
+      "name_zh": "",
+      "aliases": [
+        "Distinguished Citizens Society International USA"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:distinguished-citizens-society-international-world-headquarters",
+      "slug": "distinguished-citizens-society-international-world-headquarters",
+      "band": "L4",
+      "name_en": "Distinguished Citizens Society International World Headquarters",
+      "name_zh": "",
+      "aliases": [
+        "Distinguished Citizens Society International World Headquarters"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:fapa-los-angeles",
+      "slug": "fapa-los-angeles",
+      "band": "L4",
+      "name_en": "Formosan Association for Public Affairs Los Angeles(FAPA-LA)",
+      "name_zh": "",
+      "aliases": [
+        "Formosan Association for Public Affairs Los Angeles(FAPA-LA)"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:fapa-orange-county",
+      "slug": "fapa-orange-county",
+      "band": "L4",
+      "name_en": "Formosan Association for Public Affairs Orange County (FAPA- OC)",
+      "name_zh": "",
+      "aliases": [
+        "Formosan Association for Public Affairs Orange County (FAPA- OC)"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:formosa-foundation",
+      "slug": "formosa-foundation",
+      "band": "L4",
+      "name_en": "Formosa Foundation",
+      "name_zh": "",
+      "aliases": [
+        "Formosa Foundation"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:formosa-senior-association",
+      "slug": "formosa-senior-association",
+      "band": "L4",
+      "name_en": "Formosa Senior Association",
+      "name_zh": "",
+      "aliases": [
+        "Formosa Senior Association"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:formosan-association-for-human-rights",
+      "slug": "formosan-association-for-human-rights",
+      "band": "L4",
+      "name_en": "Formosan Association for Human Rights",
+      "name_zh": "",
+      "aliases": [
+        "Formosan Association for Human Rights"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:formosan-presbyterian-church-in-los-angeles",
+      "slug": "formosan-presbyterian-church-in-los-angeles",
+      "band": "L4",
+      "name_en": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
+      "name_zh": "",
+      "aliases": [
+        "Formosan Presbyterian Church in Los Angeles (FPCLA)"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:friends-of-taiwan",
+      "slug": "friends-of-taiwan",
+      "band": "L4",
+      "name_en": "Friends of Taiwan",
+      "name_zh": "",
+      "aliases": [
+        "Friends of Taiwan"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:global-alliance-for-democracy-and-peace",
+      "slug": "global-alliance-for-democracy-and-peace",
+      "band": "L4",
+      "name_en": "Global Alliance for Democracy and Peace (GADP)",
+      "name_zh": "",
+      "aliases": [
+        "Global Alliance for Democracy and Peace (GADP)"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:global-alliance-for-democracy-and-peace-la",
+      "slug": "global-alliance-for-democracy-and-peace-la",
+      "band": "L4",
+      "name_en": "Global Alliance for Democracy and Peace (GADP)-LA",
+      "name_zh": "",
+      "aliases": [
+        "Global Alliance for Democracy and Peace (GADP)-LA"
       ],
       "notes": "content/organizations"
     },
@@ -797,13 +2415,57 @@
       "notes": "content/organizations"
     },
     {
-      "id": "l4:guangzhou-society-taiwan-professional-executives",
-      "slug": "guangzhou-society-taiwan-professional-executives",
+      "id": "l4:greater-los-angeles-hotel-motel-association",
+      "slug": "greater-los-angeles-hotel-motel-association",
       "band": "L4",
-      "name_en": "Guangzhou Society of Taiwan Professional and Executives",
+      "name_en": "Greater Los Angeles Hotel/Motel Association",
       "name_zh": "",
       "aliases": [
-        "Guangzhou Society of Taiwan Professional and Executives"
+        "Greater Los Angeles Hotel/Motel Association"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:happy-dancers-club",
+      "slug": "happy-dancers-club",
+      "band": "L4",
+      "name_en": "Happy Dancers Club",
+      "name_zh": "",
+      "aliases": [
+        "Happy Dancers Club"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:hsu-shih-memorial-foundation",
+      "slug": "hsu-shih-memorial-foundation",
+      "band": "L4",
+      "name_en": "Hsu Shih Memorial Foundation",
+      "name_zh": "",
+      "aliases": [
+        "Hsu Shih Memorial Foundation"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:ikenobo-ikebana-la-chapter",
+      "slug": "ikenobo-ikebana-la-chapter",
+      "band": "L4",
+      "name_en": "Ikenobo Ikebana LA Chapter",
+      "name_zh": "",
+      "aliases": [
+        "Ikenobo Ikebana LA Chapter"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:institute-for-taiwanese-studies",
+      "slug": "institute-for-taiwanese-studies",
+      "band": "L4",
+      "name_en": "Institute for Taiwanese Studies",
+      "name_zh": "",
+      "aliases": [
+        "Institute for Taiwanese Studies"
       ],
       "notes": "content/organizations"
     },
@@ -811,23 +2473,210 @@
       "id": "l4:irvine-taiwanese-presbyterian-church",
       "slug": "irvine-taiwanese-presbyterian-church",
       "band": "L4",
-      "name_en": "Irvine Taiwanese Presbyterian Church (IRVINE台灣基督長老教會)",
-      "name_zh": "台灣基督長老教會",
+      "name_en": "Irvine Taiwanese Presbyterian Church (爾灣台灣基督長老教會 (ITPC))",
+      "name_zh": "爾灣台灣基督長老",
       "aliases": [
-        "Irvine Taiwanese Presbyterian Church (IRVINE台灣基督長老教會)",
-        "台灣基督長老教會"
+        "Irvine Taiwanese Presbyterian Church (爾灣台灣基督長老教會 (ITPC))",
+        "爾灣台灣基督長老",
+        "教會"
       ],
       "notes": "content/organizations"
     },
     {
-      "id": "l4:kuma-academy",
-      "slug": "kuma-academy",
+      "id": "l4:jhb-foundation",
+      "slug": "jhb-foundation",
       "band": "L4",
-      "name_en": "Kuma Academy (黑熊學院)",
-      "name_zh": "黑熊學院",
+      "name_en": "JHB Foundation",
+      "name_zh": "",
       "aliases": [
-        "Kuma Academy (黑熊學院)",
-        "黑熊學院"
+        "JHB Foundation"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:joint-alumni-association-of-taiwan-teachers-college-and-normal-univers",
+      "slug": "joint-alumni-association-of-taiwan-teachers-college-and-normal-univers",
+      "band": "L4",
+      "name_en": "Joint Alumni Association of Taiwan Teachers College and Normal University(JTTAA)",
+      "name_zh": "",
+      "aliases": [
+        "Joint Alumni Association of Taiwan Teachers College and Normal University(JTTAA)"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:joint-chinese-university-alumni-association-of-southern-california",
+      "slug": "joint-chinese-university-alumni-association-of-southern-california",
+      "band": "L4",
+      "name_en": "Joint Chinese University Alumni Association of Southern California",
+      "name_zh": "",
+      "aliases": [
+        "Joint Chinese University Alumni Association of Southern California"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:kaohsiung-high-school-alumni-association",
+      "slug": "kaohsiung-high-school-alumni-association",
+      "band": "L4",
+      "name_en": "Kaohsiung High School Alumni Association (KHSAA)",
+      "name_zh": "",
+      "aliases": [
+        "Kaohsiung High School Alumni Association (KHSAA)"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:kaohsiung-hotel-association",
+      "slug": "kaohsiung-hotel-association",
+      "band": "L4",
+      "name_en": "Kaohsiung Hotel Association",
+      "name_zh": "",
+      "aliases": [
+        "Kaohsiung Hotel Association"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:liu-kwee-family-association-usa",
+      "slug": "liu-kwee-family-association-usa",
+      "band": "L4",
+      "name_en": "Liu Kwee Family Association USA",
+      "name_zh": "",
+      "aliases": [
+        "Liu Kwee Family Association USA"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:los-angeles-life-forum",
+      "slug": "los-angeles-life-forum",
+      "band": "L4",
+      "name_en": "Los Angeles Life Forum",
+      "name_zh": "",
+      "aliases": [
+        "Los Angeles Life Forum"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:miss-taiwanese-american-pageant",
+      "slug": "miss-taiwanese-american-pageant",
+      "band": "L4",
+      "name_en": "Miss Taiwanese American Pageant Foundation",
+      "name_zh": "",
+      "aliases": [
+        "Miss Taiwanese American Pageant Foundation"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:mountain-view-taiwanese-golf-association",
+      "slug": "mountain-view-taiwanese-golf-association",
+      "band": "L4",
+      "name_en": "Mountain View Taiwanese Golf Association",
+      "name_zh": "",
+      "aliases": [
+        "Mountain View Taiwanese Golf Association"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:natea-southern-california",
+      "slug": "natea-southern-california",
+      "band": "L4",
+      "name_en": "North America Taiwanese Engineering & Science Association(NATEA)",
+      "name_zh": "",
+      "aliases": [
+        "North America Taiwanese Engineering & Science Association(NATEA)"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:national-taipei-university-of-technology-alumni-association",
+      "slug": "national-taipei-university-of-technology-alumni-association",
+      "band": "L4",
+      "name_en": "National Taipei University of Technology Alumni Association",
+      "name_zh": "",
+      "aliases": [
+        "National Taipei University of Technology Alumni Association"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:national-taiwanese-presbyterian-council",
+      "slug": "national-taiwanese-presbyterian-council",
+      "band": "L4",
+      "name_en": "National Taiwanese Presbyterian Council (NTPC)",
+      "name_zh": "",
+      "aliases": [
+        "National Taiwanese Presbyterian Council (NTPC)"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:natma-southern-california",
+      "slug": "natma-southern-california",
+      "band": "L4",
+      "name_en": "North American Taiwanese Medical Association - Southern California Chapter（NATMA-SCC）",
+      "name_zh": "",
+      "aliases": [
+        "North American Taiwanese Medical Association - Southern California Chapter（NATMA-SCC）"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:natwa-southern-california",
+      "slug": "natwa-southern-california",
+      "band": "L4",
+      "name_en": "North America Taiwanese Women's Assoc. Southern CA Chapter NATWA-SC",
+      "name_zh": "",
+      "aliases": [
+        "North America Taiwanese Women's Assoc. Southern CA Chapter NATWA-SC"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:north-america-chang-hua-association",
+      "slug": "north-america-chang-hua-association",
+      "band": "L4",
+      "name_en": "North America Chang Hua Association",
+      "name_zh": "",
+      "aliases": [
+        "North America Chang Hua Association"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:north-america-taiwanese-medical-association-southern-california-chapte",
+      "slug": "north-america-taiwanese-medical-association-southern-california-chapte",
+      "band": "L4",
+      "name_en": "North America Taiwanese Medical Association — Southern California chapter (as listed; verify EN name)",
+      "name_zh": "",
+      "aliases": [
+        "North America Taiwanese Medical Association — Southern California chapter (as listed; verify EN name)"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:north-america-taiwanese-professors-sc",
+      "slug": "north-america-taiwanese-professors-sc",
+      "band": "L4",
+      "name_en": "North America Taiwanese Professors' Association Southern California",
+      "name_zh": "",
+      "aliases": [
+        "North America Taiwanese Professors' Association Southern California"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:north-american-taiwan-association-of-social-workers",
+      "slug": "north-american-taiwan-association-of-social-workers",
+      "band": "L4",
+      "name_en": "North American Taiwan Association of Social Workers",
+      "name_zh": "",
+      "aliases": [
+        "North American Taiwan Association of Social Workers"
       ],
       "notes": "content/organizations"
     },
@@ -843,6 +2692,29 @@
       "notes": "content/organizations"
     },
     {
+      "id": "l4:orange-county-taiwanese-association",
+      "slug": "orange-county-taiwanese-association",
+      "band": "L4",
+      "name_en": "Orange County Taiwanese Association",
+      "name_zh": "",
+      "aliases": [
+        "Orange County Taiwanese Association"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:overseas-community-affairs-council",
+      "slug": "overseas-community-affairs-council",
+      "band": "L4",
+      "name_en": "Overseas Community Affairs Council (僑務委員會)",
+      "name_zh": "僑務委員會",
+      "aliases": [
+        "Overseas Community Affairs Council (僑務委員會)",
+        "僑務委員會"
+      ],
+      "notes": "content/organizations"
+    },
+    {
       "id": "l4:presbyterian-church-in-taiwan",
       "slug": "presbyterian-church-in-taiwan",
       "band": "L4",
@@ -854,16 +2726,126 @@
       "notes": "content/organizations"
     },
     {
+      "id": "l4:san-gabriel-taiwanese-lions-club",
+      "slug": "san-gabriel-taiwanese-lions-club",
+      "band": "L4",
+      "name_en": "San Gabriel Taiwanese Lions Club",
+      "name_zh": "",
+      "aliases": [
+        "San Gabriel Taiwanese Lions Club"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:sound-of-taiwan",
+      "slug": "sound-of-taiwan",
+      "band": "L4",
+      "name_en": "Sound Of Taiwan",
+      "name_zh": "",
+      "aliases": [
+        "Sound Of Taiwan"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:south-bay-taiwanese-association-of-s-california",
+      "slug": "south-bay-taiwanese-association-of-s-california",
+      "band": "L4",
+      "name_en": "South Bay Taiwanese Association of S. California.",
+      "name_zh": "",
+      "aliases": [
+        "South Bay Taiwanese Association of S. California."
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:southern-california-alumni-association-of-tainan-first-senior-high-sch",
+      "slug": "southern-california-alumni-association-of-tainan-first-senior-high-sch",
+      "band": "L4",
+      "name_en": "Southern California Alumni Association of Tainan First Senior High School and Tainan Girls’ Senior High School(AATFHSSCA)",
+      "name_zh": "",
+      "aliases": [
+        "Southern California Alumni Association of Tainan First Senior High School and Tainan Girls’ Senior High School(AATFHSSCA)"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:taiwan-228-memorial-association-of-southern-california",
+      "slug": "taiwan-228-memorial-association-of-southern-california",
+      "band": "L4",
+      "name_en": "Taiwan 228 Memorial Association of Southern California",
+      "name_zh": "",
+      "aliases": [
+        "Taiwan 228 Memorial Association of Southern California"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:taiwan-american-foundation",
+      "slug": "taiwan-american-foundation",
+      "band": "L4",
+      "name_en": "Taiwanese American Foundation (TAF)",
+      "name_zh": "",
+      "aliases": [
+        "Taiwanese American Foundation (TAF)"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:taiwan-benevolent-association-of-california",
+      "slug": "taiwan-benevolent-association-of-california",
+      "band": "L4",
+      "name_en": "Taiwan Benevolent Association of California",
+      "name_zh": "",
+      "aliases": [
+        "Taiwan Benevolent Association of California"
+      ],
+      "notes": "content/organizations"
+    },
+    {
       "id": "l4:taiwan-center",
       "slug": "taiwan-center",
       "band": "L4",
-      "name_en": "Taiwan Center Foundation of Greater Los Angeles",
+      "name_en": "Taiwan Center Foundation of the Greater Los Angeles (大洛杉磯台灣會館)",
+      "name_zh": "大洛杉磯台灣會館",
+      "aliases": [
+        "Taiwan Center Foundation of the Greater Los Angeles (大洛杉磯台灣會館)",
+        "大洛杉磯台灣會館",
+        "台灣會館",
+        "Taiwan Center"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:taiwan-center-choir",
+      "slug": "taiwan-center-choir",
+      "band": "L4",
+      "name_en": "Taiwan Center Choir",
       "name_zh": "",
       "aliases": [
-        "Taiwan Center Foundation of Greater Los Angeles",
-        "台灣會館",
-        "Taiwan Center",
-        "大洛杉磯台灣會館"
+        "Taiwan Center Choir"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:taiwan-elite-alliance",
+      "slug": "taiwan-elite-alliance",
+      "band": "L4",
+      "name_en": "Taiwan Elite Alliance",
+      "name_zh": "",
+      "aliases": [
+        "Taiwan Elite Alliance"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:taiwan-external-trade-development-council",
+      "slug": "taiwan-external-trade-development-council",
+      "band": "L4",
+      "name_en": "Taiwan External Trade Development Council",
+      "name_zh": "",
+      "aliases": [
+        "Taiwan External Trade Development Council"
       ],
       "notes": "content/organizations"
     },
@@ -875,6 +2857,127 @@
       "name_zh": "",
       "aliases": [
         "Taiwan Formosa"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:taiwan-hakka-language-system",
+      "slug": "taiwan-hakka-language-system",
+      "band": "L4",
+      "name_en": "Taiwan Hakka Language System",
+      "name_zh": "",
+      "aliases": [
+        "Taiwan Hakka Language System"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:taiwan-hotel-and-motel-association-of-southern-california",
+      "slug": "taiwan-hotel-and-motel-association-of-southern-california",
+      "band": "L4",
+      "name_en": "Taiwan Hotel &Motel Association of Southern California (THMASC)",
+      "name_zh": "",
+      "aliases": [
+        "Taiwan Hotel &Motel Association of Southern California (THMASC)"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:taiwan-human-rights-and-culture-association",
+      "slug": "taiwan-human-rights-and-culture-association",
+      "band": "L4",
+      "name_en": "Taiwan Human Rights & Culture Association",
+      "name_zh": "",
+      "aliases": [
+        "Taiwan Human Rights & Culture Association"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:taiwanese-american-aeronautics-and-space-association",
+      "slug": "taiwanese-american-aeronautics-and-space-association",
+      "band": "L4",
+      "name_en": "Taiwanese American Aeronautics and Space Association",
+      "name_zh": "",
+      "aliases": [
+        "Taiwanese American Aeronautics and Space Association"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:taiwanese-american-arts-association",
+      "slug": "taiwanese-american-arts-association",
+      "band": "L4",
+      "name_en": "Taiwanese American Arts Association",
+      "name_zh": "",
+      "aliases": [
+        "Taiwanese American Arts Association"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:taiwanese-american-association-of-los-angeles-east-san-gabriel-valley",
+      "slug": "taiwanese-american-association-of-los-angeles-east-san-gabriel-valley",
+      "band": "L4",
+      "name_en": "Taiwanese American Association of Los Angeles-East San Gabriel Valley(TAA-ESGV)",
+      "name_zh": "",
+      "aliases": [
+        "Taiwanese American Association of Los Angeles-East San Gabriel Valley(TAA-ESGV)"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:taiwanese-american-chamber-la",
+      "slug": "taiwanese-american-chamber-la",
+      "band": "L4",
+      "name_en": "Taiwanese American Chamber of Commerce of Greater Los Angeles",
+      "name_zh": "",
+      "aliases": [
+        "Taiwanese American Chamber of Commerce of Greater Los Angeles"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:taiwanese-american-citizens-league-la",
+      "slug": "taiwanese-american-citizens-league-la",
+      "band": "L4",
+      "name_en": "Taiwanese American Citizens League - Los Angeles",
+      "name_zh": "",
+      "aliases": [
+        "Taiwanese American Citizens League - Los Angeles"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:taiwanese-american-cultural-association",
+      "slug": "taiwanese-american-cultural-association",
+      "band": "L4",
+      "name_en": "Taiwanese American Cultural Association",
+      "name_zh": "",
+      "aliases": [
+        "Taiwanese American Cultural Association"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:taiwanese-american-foundation",
+      "slug": "taiwanese-american-foundation",
+      "band": "L4",
+      "name_en": "Taiwanese-American Foundation",
+      "name_zh": "",
+      "aliases": [
+        "Taiwanese-American Foundation"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:taiwanese-american-foundation-of-san-diego",
+      "slug": "taiwanese-american-foundation-of-san-diego",
+      "band": "L4",
+      "name_en": "Taiwanese American Foundation of San Diego",
+      "name_zh": "",
+      "aliases": [
+        "Taiwanese American Foundation of San Diego"
       ],
       "notes": "content/organizations"
     },
@@ -893,17 +2996,171 @@
       "notes": "content/organizations"
     },
     {
+      "id": "l4:taiwanese-american-lawyers-association",
+      "slug": "taiwanese-american-lawyers-association",
+      "band": "L4",
+      "name_en": "Taiwanese American Lawyers Association (TALA)",
+      "name_zh": "",
+      "aliases": [
+        "Taiwanese American Lawyers Association (TALA)"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:taiwanese-american-pen-club",
+      "slug": "taiwanese-american-pen-club",
+      "band": "L4",
+      "name_en": "Taiwanese American Pen Club",
+      "name_zh": "",
+      "aliases": [
+        "Taiwanese American Pen Club"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:taiwanese-american-perspectives",
+      "slug": "taiwanese-american-perspectives",
+      "band": "L4",
+      "name_en": "Taiwanese American Perspectives",
+      "name_zh": "",
+      "aliases": [
+        "Taiwanese American Perspectives"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:taiwanese-american-photographers-association",
+      "slug": "taiwanese-american-photographers-association",
+      "band": "L4",
+      "name_en": "Taiwanese American Photographers Association(TAPA)",
+      "name_zh": "",
+      "aliases": [
+        "Taiwanese American Photographers Association(TAPA)"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:taiwanese-american-religious-study-association",
+      "slug": "taiwanese-american-religious-study-association",
+      "band": "L4",
+      "name_en": "Taiwanese American Religious Study Association",
+      "name_zh": "",
+      "aliases": [
+        "Taiwanese American Religious Study Association"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:taiwanese-american-seniors-association-of-southern-california",
+      "slug": "taiwanese-american-seniors-association-of-southern-california",
+      "band": "L4",
+      "name_en": "Taiwanese American Seniors Association of Southern California",
+      "name_zh": "",
+      "aliases": [
+        "Taiwanese American Seniors Association of Southern California"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:taiwanese-american-soft-tennis-association",
+      "slug": "taiwanese-american-soft-tennis-association",
+      "band": "L4",
+      "name_en": "Taiwanese American Soft Tennis Association",
+      "name_zh": "",
+      "aliases": [
+        "Taiwanese American Soft Tennis Association"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:taiwanese-association-of-northwest-los-angeles",
+      "slug": "taiwanese-association-of-northwest-los-angeles",
+      "band": "L4",
+      "name_en": "Taiwanese Association of Northwest Los Angeles",
+      "name_zh": "",
+      "aliases": [
+        "Taiwanese Association of Northwest Los Angeles"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:taiwanese-chambers-of-commerce-of-orange-county",
+      "slug": "taiwanese-chambers-of-commerce-of-orange-county",
+      "band": "L4",
+      "name_en": "Taiwanese Chambers of Commerce of Orange County",
+      "name_zh": "",
+      "aliases": [
+        "Taiwanese Chambers of Commerce of Orange County"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:taiwanese-hakka-association-of-the-world",
+      "slug": "taiwanese-hakka-association-of-the-world",
+      "band": "L4",
+      "name_en": "Taiwanese Hakka Association of the World",
+      "name_zh": "",
+      "aliases": [
+        "Taiwanese Hakka Association of the World"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:taiwanese-hakka-associations-of-southern-california",
+      "slug": "taiwanese-hakka-associations-of-southern-california",
+      "band": "L4",
+      "name_en": "Taiwanese Hakka Associations of Southern California",
+      "name_zh": "",
+      "aliases": [
+        "Taiwanese Hakka Associations of Southern California"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:taiwanese-united-fund",
+      "slug": "taiwanese-united-fund",
+      "band": "L4",
+      "name_en": "TUF(Taiwanese United Fund)",
+      "name_zh": "",
+      "aliases": [
+        "TUF(Taiwanese United Fund)"
+      ],
+      "notes": "content/organizations"
+    },
+    {
       "id": "l4:taiwanjustice-net",
       "slug": "taiwanjustice-net",
       "band": "L4",
-      "name_en": "taiwanjustice.net (台灣公義網 / Taiwan Justice)",
+      "name_en": "taiwanjustice.net (台灣公義網)",
       "name_zh": "台灣公義網",
       "aliases": [
-        "taiwanjustice.net (台灣公義網 / Taiwan Justice)",
+        "taiwanjustice.net (台灣公義網)",
         "台灣公義網",
         "taiwanjustice",
         "Taiwan Justice",
         "公義報"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:the-kee-jen-education-of-arts-foundation",
+      "slug": "the-kee-jen-education-of-arts-foundation",
+      "band": "L4",
+      "name_en": "The Kee-Jen Education of Arts Foundation",
+      "name_zh": "",
+      "aliases": [
+        "The Kee-Jen Education of Arts Foundation"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:the-yinchin-foundation",
+      "slug": "the-yinchin-foundation",
+      "band": "L4",
+      "name_en": "The Yinchin Foundation",
+      "name_zh": "",
+      "aliases": [
+        "The Yinchin Foundation"
       ],
       "notes": "content/organizations"
     }
