@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-08-03T08:30:43Z",
+  "updated_at": "2026-08-03T08:32:48Z",
   "description": "Taiwan Justice absorb priority lexicon (L0 identity → L4 orgs)",
   "counts": {
-    "total": 298,
+    "total": 300,
     "L0": 7,
     "L1": 64,
-    "L2": 129,
+    "L2": 131,
     "L3": 10,
     "L4": 88
   },
@@ -152,19 +152,6 @@
         "Wei Wei Bai (白偉瑋)"
       ],
       "notes": "roster 副會長 (Vice President) 2025; not yet seen speaking in LINE logs"
-    },
-    {
-      "id": "l1:cai-shunyu",
-      "slug": "cai-shunyu",
-      "band": "L1",
-      "name_en": "Sunu Tsai",
-      "name_zh": "蔡淑女",
-      "aliases": [
-        "Sunu Tsai",
-        "蔡淑女",
-        "Sunu Tsai (蔡淑女)"
-      ],
-      "notes": "roster 總務 (General affairs) 2025; preferred EN from LINE \"Sunu Tsai\" (was provisional Cai Shu-nu)"
     },
     {
       "id": "l1:cao-changqing",
@@ -621,19 +608,6 @@
       "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017/2023"
     },
     {
-      "id": "l1:shen-zizai",
-      "slug": "shen-zizai",
-      "band": "L1",
-      "name_en": "Tzetsai Eric Shen",
-      "name_zh": "沈梓在",
-      "aliases": [
-        "Tzetsai Eric Shen",
-        "沈梓在",
-        "Tzetsai Eric Shen (沈梓在)"
-      ],
-      "notes": "roster 資訊 (Information / IT) 2025; preferred EN from LINE \"Tzetsai Eric Shen\""
-    },
-    {
       "id": "l1:slug",
       "slug": "slug",
       "band": "L1",
@@ -644,6 +618,19 @@
         "preferred"
       ],
       "notes": "roster status"
+    },
+    {
+      "id": "l1:sunu-tsai",
+      "slug": "sunu-tsai",
+      "band": "L1",
+      "name_en": "Sunu Tsai",
+      "name_zh": "蔡淑女",
+      "aliases": [
+        "Sunu Tsai",
+        "蔡淑女",
+        "Sunu Tsai (蔡淑女)"
+      ],
+      "notes": "roster 總務 (General affairs) 2025; preferred EN from LINE; slug was cai-shunyu"
     },
     {
       "id": "l1:tang-peili",
@@ -657,6 +644,19 @@
         "Tang Pei-li / 唐培理"
       ],
       "notes": "roster 2017/2023 publication contributor or mention (non-officeholder); years 2017/2023"
+    },
+    {
+      "id": "l1:tzetsai-eric-shen",
+      "slug": "tzetsai-eric-shen",
+      "band": "L1",
+      "name_en": "Tzetsai Eric Shen",
+      "name_zh": "沈梓在",
+      "aliases": [
+        "Tzetsai Eric Shen",
+        "沈梓在",
+        "Tzetsai Eric Shen (沈梓在)"
+      ],
+      "notes": "roster 資訊 (Information / IT) 2025; preferred EN from LINE \"Tzetsai Eric Shen\""
     },
     {
       "id": "l1:wang-dan",
@@ -1042,6 +1042,17 @@
       "aliases": [
         "蔡錦榮",
         "Cai Jinrong (蔡錦榮)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:cai-shunyu",
+      "slug": "cai-shunyu",
+      "band": "L2",
+      "name_en": "Redirect: Cai Shu-nu → Sunu Tsai",
+      "name_zh": "",
+      "aliases": [
+        "Redirect: Cai Shu-nu → Sunu Tsai"
       ],
       "notes": "content/people"
     },
@@ -1928,6 +1939,17 @@
       "aliases": [
         "楊小娜",
         "Shawna Yang Ryan (楊小娜)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:shen-zizai",
+      "slug": "shen-zizai",
+      "band": "L2",
+      "name_en": "Redirect: Shen Zi-zai → Tzetsai Eric Shen",
+      "name_zh": "",
+      "aliases": [
+        "Redirect: Shen Zi-zai → Tzetsai Eric Shen"
       ],
       "notes": "content/people"
     },

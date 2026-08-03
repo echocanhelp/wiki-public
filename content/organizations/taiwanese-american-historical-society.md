@@ -38,8 +38,8 @@ Source: TAHS 2025 org chart (台美人歷史協會組織表), Tax ID **46-400538
 | 特別助理 (Special assistant) | [[people/john-yang|John Yang (楊錦忠)]], [[people/li-yisheng|Li Yi-sheng (李意盛)]] |
 | 財務長 (Treasurer) | [[people/yang-jia-you|Charles Yang (楊嘉猷)]] |
 | 秘書 (Secretary) | [[people/freeman-huang|Freeman Huang (黃樹人)]] |
-| 總務 (General affairs) | [[people/cai-shunyu|Cai Shu-nu (蔡淑女)]] |
-| 資訊 (Information / IT) | [[people/shen-zizai|Shen Zi-zai (沈梓在)]] |
+| 總務 (General affairs) | [[people/sunu-tsai|Sunu Tsai (蔡淑女)]] |
+| 資訊 (Information / IT) | [[people/tzetsai-eric-shen|Tzetsai Eric Shen (沈梓在)]] |
 
 Founding context: [[people/yang-jia-you|Charles Yang (楊嘉猷)]] is founding president (創會會長); Franklin Ping Cheng (程炳成) served as president 2014–2017 (page pending).
 

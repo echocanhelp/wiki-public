@@ -1,12 +1,12 @@
 # Taiwan Justice priority score report
 
-- Generated: 2026-08-03T08:30:50Z
+- Generated: 2026-08-03T08:32:56Z
 - Articles scanned (year dirs): 29101
 - Hits written (score≥1): 6773
 - Hits with L0/L1/L2 person match: 6107
 - Lexicon: `knowledge/research/taiwanjustice-net-priority-lexicon.json`
 - Hits JSONL: `knowledge/research/taiwanjustice-net-priority-hits.jsonl`
-- Lexicon counts: {"total": 298, "L0": 7, "L1": 64, "L2": 129, "L3": 10, "L4": 88}
+- Lexicon counts: {"total": 300, "L0": 7, "L1": 64, "L2": 131, "L3": 10, "L4": 88}
 - Scorer notes: L3 title-only; site chrome / 台灣會館 title-only; tag/category hubs demoted
 
 ## Match band frequency (across all hits)
