@@ -3,62 +3,47 @@ title: "Roger Tsai (蔡漢成)"
 type: person
 tags:
   - person
+  - TAHS
+  - tahs-leadership
   - Taiwanese-American
-  - Taiwan-Center
-  - board
-verification_status: published
-last_reviewed: 2026-07-16
+name_en: "Roger Tsai"
+name_zh_hanzi: "蔡漢成"
+verification_status: pending
+last_reviewed: 2026-08-02
+source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
 ---
 # Roger Tsai (蔡漢成)
 
-**Roger Tsai (蔡漢成)** is listed as **副董事長** on the official board of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles (大洛杉磯台灣會館)]].
+**Roger Tsai** (蔡漢成) serves as **Vice President (副會長), TAHS 2025** of the [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS / 台美人歷史協會)]].
 
 ## Identity Snapshot
-
 - **English:** Roger Tsai
 - **Chinese:** 蔡漢成
-- **Role:** 副董事長
-- **Organization:** [[organizations/taiwan-center|Taiwan Center (TWCLA)]]
+- **Core role (2025):** 副會長 — Vice President (副會長), TAHS 2025
+- **Organization:** [[organizations/taiwanese-american-historical-society|TAHS]]
+- **Era:** Contemporary (documented on 2025 TAHS org chart)
+
+## Overview
+
+Listed on the TAHS 2025 organization chart as Vice President (副會長), serving with Wei Wei Bai.
+
+This page is an **A-tier thin record** for graph linking and member-priority scoring. Biographical depth should be expanded only from public sources or member-approved notes. Private phone numbers and LINE IDs from internal charts are **not** published here.
+
+## TAHS role (2025)
+
+- **Title:** 副會長 (Vice President (副會長), TAHS 2025)
+- **Source:** TAHS 2025 organization chart (台美人歷史協會組織表), Tax ID 46-4005384
+- **Roster:** `knowledge/operational/tahs-priority-roster.md` (L1)
 
 ## Source Notes and Confidence
 
-- **Content priority A:** Name and role on https://www.taiwancenter.org/board (archived `taiwancenter-org-board.md`)
-- **Hub:** [[sources/taiwancenter-org|taiwancenter.org]]
-- **Content priority C:** Full biography not in this source set
+- **High:** Name + 2025 titled role as printed on the society org chart (owner-held copy, 2026-08-03 capture)
+- **Pending:** Preferred English spelling (where marked provisional), full biography, tenure dates beyond chart year
+- `verification_status: pending` until member or officer review
 
 ## Related Pages
 
-- [[organizations/taiwan-center|Taiwan Center]]
-- [[sources/taiwancenter-org|taiwancenter.org source]]
-- [[people/alan-thian.md|Alan Thian (田詒鴻)]]
-- [[people/simon-lin.md|Simon Lin (林榮松)]]
-- [[people/linda-liu.md|Linda Liu (劉玲華)]]
-- [[people/jolie-chenn.md|Jolie Chenn (陳芃佑)]]
-- [[people/shu-lai.md|Shu Lai (賴淑遠)]]
-- [[people/tony-lee.md|Tony Lee (李賢群)]]
-- [[people/ken-wu.md|Ken Wu (吳兆峯)]]
-- [[people/ray-jan.md|Ray Jan (冉瑞宜)]]
-- [[people/lisa-liu.md|Lisa Liu (劉雅薇)]]
-- [[people/paul-chen.md|Paul Chen (陳柏宇)]]
-- [[people/meifeng-tsai.md|Meifeng Tsai (王梅鳳)]]
-- [[people/april-lin.md|April Lin (林淑卿)]]
-- [[people/sharon-huang.md|Sharon Huang (黃馨瑤)]]
-- [[people/shawn-yeh.md|Shawn Yeh (葉上毅)]]
-- [[people/danny-chen.md|Danny Chen (陳啟耕)]]
-- [[people/james-yang.md|James Yang (楊榮勝)]]
-- [[people/joe-hu.md|Joe Hu (胡永全)]]
-- [[people/peter-lin.md|Peter Lin (林冠豪)]]
-- [[people/samantha-yu.md|Samantha Yu (游蕙綾)]]
-- [[people/vera-yang.md|Vera Yang (楊悅英)]]
-- [[people/shirley-yu.md|Shirley Yu (張欣珠)]]
-- [[people/joyce-yeh.md|Joyce Yeh (葉怡蘭)]]
-- [[people/josephine-pan.md|Josephine Pan (潘掬慧)]]
-- [[people/joseph-teng.md|Joseph Teng (曾英銘)]]
-- [[people/steven-wu.md|Steven Wu (吳尚誠)]]
-- [[people/lisa-hou.md|Lisa Hou (侯乃文)]]
-- [[people/april-lin.md|April Lin (林淑卿)]]
-- [[people/shi-yuli.md|Shi Yuli (施郁麗)]]
-- [[people/he-sumei.md|He Sumei (何素美)]]
-- [[people/wei-boji.md|Wei Boji (魏博基)]]
-- [[people/xu-shitan.md|Xu Shitan (徐士坦)]]
-- [[people/wang-rongyi.md|Wang Rongyi (王榮義)]]
+- [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
+- [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]] — President (會長)
+- [[people/yang-jia-you|Charles Yang (楊嘉猷)]] — Treasurer (財務長); founding president
+- [[people/freeman-huang|Freeman Huang (黃樹人)]] — Secretary (秘書)

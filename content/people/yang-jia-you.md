@@ -25,7 +25,7 @@ last_reviewed: 2026-08-02
 - **English:** Charles Yang
 - **Chinese:** 楊嘉猷 (Yang Jia-you)
 - **LINE display (owner-linked):** Chia you
-- **Role:** Founding President, TAHS (台美人歷史協會創會會長)
+- **Role:** Founding President, TAHS (台美人歷史協會創會會長); **Treasurer (財務長), 2025 org chart**
 - **Geography:** Southern California (Los Angeles area)
 - **Key work:** 緣起與展望 (Origins and Prospects) — founding essay of TAHS
 - **Era:** Active 2013–present (TAHS founding); 2017 publication year
@@ -35,9 +35,10 @@ last_reviewed: 2026-08-02
 ## TAHS Membership Assignment
 
 - Membership Class: Founding leadership / member
-- Functional Title: Founding President (創會會長), TAHS
+- Functional Title: Founding President (創會會長), TAHS; Treasurer (財務長) on 2025 org chart
 - Appointing Authority confirmation: Owner verification in LINE (Leonard Hsu Jr.), 2026-08-02
 - LINE linkage: Owner-verified (exact LINE user id kept private until captured from sender traffic)
+- **2025 chart:** 財務長 (Treasurer) — TAHS organization chart 2025 (Tax ID 46-4005384); private phones not published
 
 ## Family
 

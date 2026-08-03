@@ -1,0 +1,911 @@
+{
+  "version": 1,
+  "updated_at": "2026-08-03T03:49:29Z",
+  "description": "Taiwan Justice absorb priority lexicon (L0 identity → L4 orgs)",
+  "counts": {
+    "total": 73,
+    "L0": 7,
+    "L1": 11,
+    "L2": 34,
+    "L3": 10,
+    "L4": 11
+  },
+  "entries": [
+    {
+      "id": "l0:albert-s-lai",
+      "slug": "albert-s-lai",
+      "band": "L0",
+      "name_en": "Albert S. Lai",
+      "name_zh": "賴信雄",
+      "aliases": [
+        "Albert S. Lai",
+        "賴信雄",
+        "Dr. Albert S. Lai (賴信雄)"
+      ],
+      "notes": "identity_registry state=owner_verified"
+    },
+    {
+      "id": "l0:becky-yang",
+      "slug": "becky-yang",
+      "band": "L0",
+      "name_en": "Becky Yang",
+      "name_zh": "",
+      "aliases": [
+        "Becky Yang"
+      ],
+      "notes": "identity_registry state=owner_verified"
+    },
+    {
+      "id": "l0:david-lee",
+      "slug": "david-lee",
+      "band": "L0",
+      "name_en": "David Lee",
+      "name_zh": "",
+      "aliases": [
+        "David Lee",
+        "中文待補",
+        "David Lee (中文待補)"
+      ],
+      "notes": "identity_registry state=owner_verified"
+    },
+    {
+      "id": "l0:ken-wu",
+      "slug": "ken-wu",
+      "band": "L0",
+      "name_en": "Ken Wu",
+      "name_zh": "吳兆峯",
+      "aliases": [
+        "Ken Wu",
+        "吳兆峯",
+        "Ken Wu (吳兆峯)"
+      ],
+      "notes": "identity_registry state=owner_verified"
+    },
+    {
+      "id": "l0:leonard-hsu-jr",
+      "slug": "leonard-hsu-jr",
+      "band": "L0",
+      "name_en": "Leonard Hsu Jr.",
+      "name_zh": "許景鴻",
+      "aliases": [
+        "Leonard Hsu Jr.",
+        "許景鴻",
+        "Leonard Hsu Jr. (許景鴻)"
+      ],
+      "notes": "identity_registry state=owner_verified"
+    },
+    {
+      "id": "l0:rex-chen",
+      "slug": "rex-chen",
+      "band": "L0",
+      "name_en": "Rex Chen",
+      "name_zh": "陳乃光",
+      "aliases": [
+        "Rex Chen",
+        "陳乃光",
+        "Rex Chen (陳乃光)"
+      ],
+      "notes": "identity_registry state=owner_verified"
+    },
+    {
+      "id": "l0:yang-jia-you",
+      "slug": "yang-jia-you",
+      "band": "L0",
+      "name_en": "Charles Yang",
+      "name_zh": "楊嘉猷",
+      "aliases": [
+        "Charles Yang",
+        "楊嘉猷",
+        "Charles Yang (楊嘉猷)"
+      ],
+      "notes": "identity_registry state=owner_verified"
+    },
+    {
+      "id": "l1:alan-thian",
+      "slug": "alan-thian",
+      "band": "L1",
+      "name_en": "Alan Thian",
+      "name_zh": "田詒鴻",
+      "aliases": [
+        "Alan Thian",
+        "田詒鴻",
+        "Alan Thian (田詒鴻)"
+      ],
+      "notes": "roster 會務指導主席 (Affairs guidance chair) 2025"
+    },
+    {
+      "id": "l1:bai-weiwei",
+      "slug": "bai-weiwei",
+      "band": "L1",
+      "name_en": "Wei Wei Bai",
+      "name_zh": "白偉瑋",
+      "aliases": [
+        "Wei Wei Bai",
+        "白偉瑋",
+        "Wei Wei Bai (白偉瑋)"
+      ],
+      "notes": "roster 副會長 (Vice President) 2025"
+    },
+    {
+      "id": "l1:cai-shunyu",
+      "slug": "cai-shunyu",
+      "band": "L1",
+      "name_en": "Cai Shu-nu",
+      "name_zh": "蔡淑女",
+      "aliases": [
+        "Cai Shu-nu",
+        "蔡淑女",
+        "Cai Shu-nu (蔡淑女)"
+      ],
+      "notes": "roster 總務 (General affairs) 2025; EN romanization provisional"
+    },
+    {
+      "id": "l1:freeman-huang",
+      "slug": "freeman-huang",
+      "band": "L1",
+      "name_en": "Freeman Huang",
+      "name_zh": "黃樹人",
+      "aliases": [
+        "Freeman Huang",
+        "黃樹人",
+        "Freeman Huang (黃樹人)"
+      ],
+      "notes": "roster 秘書 (Secretary) 2025; taiwanjustice.net publisher"
+    },
+    {
+      "id": "l1:gene-tsai",
+      "slug": "gene-tsai",
+      "band": "L1",
+      "name_en": "Gene Tsai",
+      "name_zh": "蔡錦榮",
+      "aliases": [
+        "Gene Tsai",
+        "蔡錦榮",
+        "Gene Tsai (蔡錦榮)"
+      ],
+      "notes": "roster 顧問 (Advisor) 2025"
+    },
+    {
+      "id": "l1:john-yang",
+      "slug": "john-yang",
+      "band": "L1",
+      "name_en": "John Yang",
+      "name_zh": "楊錦忠",
+      "aliases": [
+        "John Yang",
+        "楊錦忠",
+        "John Yang (楊錦忠)"
+      ],
+      "notes": "roster 特別助理 (Special assistant) 2025"
+    },
+    {
+      "id": "l1:li-yisheng",
+      "slug": "li-yisheng",
+      "band": "L1",
+      "name_en": "Li Yi-sheng",
+      "name_zh": "李意盛",
+      "aliases": [
+        "Li Yi-sheng",
+        "李意盛",
+        "Li Yi-sheng (李意盛)"
+      ],
+      "notes": "roster 特別助理 (Special assistant) 2025; EN romanization provisional"
+    },
+    {
+      "id": "l1:paul-chen",
+      "slug": "paul-chen",
+      "band": "L1",
+      "name_en": "Paul Chen",
+      "name_zh": "陳柏宇",
+      "aliases": [
+        "Paul Chen",
+        "陳柏宇",
+        "Paul Chen (陳柏宇)"
+      ],
+      "notes": "roster 財務指導主席 (Finance guidance chair) 2025"
+    },
+    {
+      "id": "l1:roger-tsai",
+      "slug": "roger-tsai",
+      "band": "L1",
+      "name_en": "Roger Tsai",
+      "name_zh": "蔡漢成",
+      "aliases": [
+        "Roger Tsai",
+        "蔡漢成",
+        "Roger Tsai (蔡漢成)"
+      ],
+      "notes": "roster 副會長 (Vice President) 2025"
+    },
+    {
+      "id": "l1:shen-zizai",
+      "slug": "shen-zizai",
+      "band": "L1",
+      "name_en": "Shen Zi-zai",
+      "name_zh": "沈梓在",
+      "aliases": [
+        "Shen Zi-zai",
+        "沈梓在",
+        "Shen Zi-zai (沈梓在)"
+      ],
+      "notes": "roster 資訊 (Information / IT) 2025; EN romanization provisional"
+    },
+    {
+      "id": "l1:xu-shihuan",
+      "slug": "xu-shihuan",
+      "band": "L1",
+      "name_en": "Hsu Shih-huan",
+      "name_zh": "許世環",
+      "aliases": [
+        "Hsu Shih-huan",
+        "許世環",
+        "Hsu Shih-huan (許世環)"
+      ],
+      "notes": "roster 顧問 (Advisor) 2025; EN romanization provisional"
+    },
+    {
+      "id": "l2:cai-weiren",
+      "slug": "cai-weiren",
+      "band": "L2",
+      "name_en": "Rev. Cai Weiren (蔡維仁牧師)",
+      "name_zh": "蔡維仁牧師",
+      "aliases": [
+        "蔡維仁牧師",
+        "Rev. Cai Weiren (蔡維仁牧師)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:chen-bozhi",
+      "slug": "chen-bozhi",
+      "band": "L2",
+      "name_en": "Rev. Chen Bozhi (陳柏志牧師)",
+      "name_zh": "陳柏志牧師",
+      "aliases": [
+        "陳柏志牧師",
+        "Rev. Chen Bozhi (陳柏志牧師)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:chen-meihui",
+      "slug": "chen-meihui",
+      "band": "L2",
+      "name_en": "Chen Meihui (陳美蕙)",
+      "name_zh": "陳美蕙",
+      "aliases": [
+        "陳美蕙",
+        "Chen Meihui (陳美蕙)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:chen-xialian",
+      "slug": "chen-xialian",
+      "band": "L2",
+      "name_en": "Elder Chen Xialian (陳夏蓮長老)",
+      "name_zh": "陳夏蓮長老",
+      "aliases": [
+        "陳夏蓮長老",
+        "Elder Chen Xialian (陳夏蓮長老)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:ching-fang-chen",
+      "slug": "ching-fang-chen",
+      "band": "L2",
+      "name_en": "Rev. Ching Fang Chen (陳清芳)",
+      "name_zh": "陳清芳",
+      "aliases": [
+        "陳清芳",
+        "Rev. Ching Fang Chen (陳清芳)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:choan-seng-song",
+      "slug": "choan-seng-song",
+      "band": "L2",
+      "name_en": "Dr. Choan-Seng Song (宋泉盛)",
+      "name_zh": "宋泉盛",
+      "aliases": [
+        "宋泉盛",
+        "Dr. Choan-Seng Song (宋泉盛)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:david-huang",
+      "slug": "david-huang",
+      "band": "L2",
+      "name_en": "Rev. David Huang (黃德利)",
+      "name_zh": "黃德利",
+      "aliases": [
+        "黃德利",
+        "Rev. David Huang (黃德利)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:deng-shuzhen",
+      "slug": "deng-shuzhen",
+      "band": "L2",
+      "name_en": "Elder Deng Shuzhen (鄧淑貞長老)",
+      "name_zh": "鄧淑貞長老",
+      "aliases": [
+        "鄧淑貞長老",
+        "Elder Deng Shuzhen (鄧淑貞長老)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:en-sheng-pan",
+      "slug": "en-sheng-pan",
+      "band": "L2",
+      "name_en": "Rev. En Sheng Pan (潘恩盛)",
+      "name_zh": "潘恩盛",
+      "aliases": [
+        "潘恩盛",
+        "Rev. En Sheng Pan (潘恩盛)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:guo-dongxu",
+      "slug": "guo-dongxu",
+      "band": "L2",
+      "name_en": "Rev. Guo Dongxu (郭東緒牧師)",
+      "name_zh": "郭東緒牧師",
+      "aliases": [
+        "郭東緒牧師",
+        "Rev. Guo Dongxu (郭東緒牧師)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:guo-yingyan",
+      "slug": "guo-yingyan",
+      "band": "L2",
+      "name_en": "Guo Yingyan (郭應言)",
+      "name_zh": "郭應言",
+      "aliases": [
+        "郭應言",
+        "Guo Yingyan (郭應言)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:hu-gstpc",
+      "slug": "hu-gstpc",
+      "band": "L2",
+      "name_en": "Brother Hu (GSTPC, verification needed)",
+      "name_zh": "",
+      "aliases": [
+        "Brother Hu (GSTPC, verification needed)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:ku-gstpc",
+      "slug": "ku-gstpc",
+      "band": "L2",
+      "name_en": "Brother Ku (GSTPC, verification needed)",
+      "name_zh": "",
+      "aliases": [
+        "Brother Ku (GSTPC, verification needed)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:lai-junming",
+      "slug": "lai-junming",
+      "band": "L2",
+      "name_en": "Rev. Lai Junming (賴俊明牧師)",
+      "name_zh": "賴俊明牧師",
+      "aliases": [
+        "賴俊明牧師",
+        "Rev. Lai Junming (賴俊明牧師)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:leonard-hsu",
+      "slug": "leonard-hsu",
+      "band": "L2",
+      "name_en": "leonard-hsu",
+      "name_zh": "",
+      "aliases": [
+        "leonard-hsu"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:lien-hwa-chow",
+      "slug": "lien-hwa-chow",
+      "band": "L2",
+      "name_en": "Dr. Lien-Hwa Chow (周聯華)",
+      "name_zh": "周聯華",
+      "aliases": [
+        "周聯華",
+        "Dr. Lien-Hwa Chow (周聯華)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:mingyuan-hsu",
+      "slug": "mingyuan-hsu",
+      "band": "L2",
+      "name_en": "Rev. Mingyuan Hsu (許明遠)",
+      "name_zh": "許明遠",
+      "aliases": [
+        "許明遠",
+        "Rev. Mingyuan Hsu (許明遠)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:pinghsi-liu",
+      "slug": "pinghsi-liu",
+      "band": "L2",
+      "name_en": "Rev. Pinghsi Liu (劉炳熹)",
+      "name_zh": "劉炳熹",
+      "aliases": [
+        "劉炳熹",
+        "Rev. Pinghsi Liu (劉炳熹)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:puma-shen",
+      "slug": "puma-shen",
+      "band": "L2",
+      "name_en": "Puma Shen (沈伯洋)",
+      "name_zh": "沈伯洋",
+      "aliases": [
+        "沈伯洋",
+        "Puma Shen (沈伯洋)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:qiu-yunen",
+      "slug": "qiu-yunen",
+      "band": "L2",
+      "name_en": "Elder Qiu Yunen (邱瑜嫩)",
+      "name_zh": "邱瑜嫩",
+      "aliases": [
+        "邱瑜嫩",
+        "Elder Qiu Yunen (邱瑜嫩)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:shoki-coe",
+      "slug": "shoki-coe",
+      "band": "L2",
+      "name_en": "Dr. Shoki Coe (黃彰輝)",
+      "name_zh": "黃彰輝",
+      "aliases": [
+        "黃彰輝",
+        "Dr. Shoki Coe (黃彰輝)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:wang-gstpc",
+      "slug": "wang-gstpc",
+      "band": "L2",
+      "name_en": "Brother Wang (GSTPC, verification needed)",
+      "name_zh": "",
+      "aliases": [
+        "Brother Wang (GSTPC, verification needed)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:wang-xinxin",
+      "slug": "wang-xinxin",
+      "band": "L2",
+      "name_en": "Elder Wang Xinxin (王信心)",
+      "name_zh": "王信心",
+      "aliases": [
+        "王信心",
+        "Elder Wang Xinxin (王信心)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:willy-pan",
+      "slug": "willy-pan",
+      "band": "L2",
+      "name_en": "Willy Pan (潘建宇)",
+      "name_zh": "潘建宇",
+      "aliases": [
+        "潘建宇",
+        "Willy Pan (潘建宇)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:xiao-xien",
+      "slug": "xiao-xien",
+      "band": "L2",
+      "name_en": "Elder Xiao Xien (蕭錫恩)",
+      "name_zh": "蕭錫恩",
+      "aliases": [
+        "蕭錫恩",
+        "Elder Xiao Xien (蕭錫恩)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:xie-dali",
+      "slug": "xie-dali",
+      "band": "L2",
+      "name_en": "Rev. Xie Dali (謝大立)",
+      "name_zh": "謝大立",
+      "aliases": [
+        "謝大立",
+        "Rev. Xie Dali (謝大立)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:xie-xinguang",
+      "slug": "xie-xinguang",
+      "band": "L2",
+      "name_en": "Rev. Xie Xinguang (謝信光)",
+      "name_zh": "謝信光",
+      "aliases": [
+        "謝信光",
+        "Rev. Xie Xinguang (謝信光)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:xie-xinzhong",
+      "slug": "xie-xinzhong",
+      "band": "L2",
+      "name_en": "Rev. Xie Xinzhong (謝信中)",
+      "name_zh": "謝信中",
+      "aliases": [
+        "謝信中",
+        "Rev. Xie Xinzhong (謝信中)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:xu-wenkai",
+      "slug": "xu-wenkai",
+      "band": "L2",
+      "name_en": "Elder Xu Wenkai (許文凱)",
+      "name_zh": "許文凱",
+      "aliases": [
+        "許文凱",
+        "Elder Xu Wenkai (許文凱)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:yang-zhengxiang",
+      "slug": "yang-zhengxiang",
+      "band": "L2",
+      "name_en": "Yang Zhengxiang (Ethan Yang)",
+      "name_zh": "",
+      "aliases": [
+        "Yang Zhengxiang (Ethan Yang)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:yunching-yeh-davis",
+      "slug": "yunching-yeh-davis",
+      "band": "L2",
+      "name_en": "Dr. Yunching Yeh Davis (葉芸青)",
+      "name_zh": "葉芸青",
+      "aliases": [
+        "葉芸青",
+        "Dr. Yunching Yeh Davis (葉芸青)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:zhang-xuanxin",
+      "slug": "zhang-xuanxin",
+      "band": "L2",
+      "name_en": "Zhang Xuanxin (張宣信)",
+      "name_zh": "張宣信",
+      "aliases": [
+        "張宣信",
+        "Zhang Xuanxin (張宣信)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:zheng-quansheng",
+      "slug": "zheng-quansheng",
+      "band": "L2",
+      "name_en": "Zheng Quansheng (鄭泉聲)",
+      "name_zh": "鄭泉聲",
+      "aliases": [
+        "鄭泉聲",
+        "Zheng Quansheng (鄭泉聲)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l2:zhuang-xinde",
+      "slug": "zhuang-xinde",
+      "band": "L2",
+      "name_en": "Rev. Zhuang Xinde (莊信德)",
+      "name_zh": "莊信德",
+      "aliases": [
+        "莊信德",
+        "Rev. Zhuang Xinde (莊信德)"
+      ],
+      "notes": "content/people"
+    },
+    {
+      "id": "l3:0:陳破空",
+      "slug": null,
+      "band": "L3",
+      "name_en": "Chen Po-kong",
+      "name_zh": "陳破空",
+      "aliases": [
+        "Chen Po-kong",
+        "陳破空",
+        "陈破空"
+      ],
+      "notes": "columnist ~463"
+    },
+    {
+      "id": "l3:1:陳茂雄",
+      "slug": null,
+      "band": "L3",
+      "name_en": "Chen Mao-xiong",
+      "name_zh": "陳茂雄",
+      "aliases": [
+        "Chen Mao-xiong",
+        "陳茂雄",
+        "陈茂雄"
+      ],
+      "notes": "columnist ~475"
+    },
+    {
+      "id": "l3:2:陳昭南",
+      "slug": null,
+      "band": "L3",
+      "name_en": "Chen Chao-nan",
+      "name_zh": "陳昭南",
+      "aliases": [
+        "Chen Chao-nan",
+        "陳昭南",
+        "陈昭南"
+      ],
+      "notes": "columnist ~398"
+    },
+    {
+      "id": "l3:3:林保華",
+      "slug": null,
+      "band": "L3",
+      "name_en": "Lin Bao-hua",
+      "name_zh": "林保華",
+      "aliases": [
+        "Lin Bao-hua",
+        "林保華",
+        "林保华"
+      ],
+      "notes": "columnist ~241"
+    },
+    {
+      "id": "l3:4:余杰",
+      "slug": null,
+      "band": "L3",
+      "name_en": "Yu Chieh",
+      "name_zh": "余杰",
+      "aliases": [
+        "Yu Chieh",
+        "余杰"
+      ],
+      "notes": "columnist ~99"
+    },
+    {
+      "id": "l3:5:范姜提昂",
+      "slug": null,
+      "band": "L3",
+      "name_en": "Fan Chiang Tsiang",
+      "name_zh": "范姜提昂",
+      "aliases": [
+        "Fan Chiang Tsiang",
+        "范姜提昂"
+      ],
+      "notes": "columnist ~66"
+    },
+    {
+      "id": "l3:6:楊子清",
+      "slug": null,
+      "band": "L3",
+      "name_en": "Yang Zi-qing",
+      "name_zh": "楊子清",
+      "aliases": [
+        "Yang Zi-qing",
+        "楊子清",
+        "杨子清"
+      ],
+      "notes": "columnist ~65"
+    },
+    {
+      "id": "l3:7:黃帝穎",
+      "slug": null,
+      "band": "L3",
+      "name_en": "Huang Di-ying",
+      "name_zh": "黃帝穎",
+      "aliases": [
+        "Huang Di-ying",
+        "黃帝穎",
+        "黄帝颖"
+      ],
+      "notes": "columnist ~57"
+    },
+    {
+      "id": "l3:8:何清漣",
+      "slug": null,
+      "band": "L3",
+      "name_en": "He Qinglian",
+      "name_zh": "何清漣",
+      "aliases": [
+        "He Qinglian",
+        "何清漣",
+        "何清涟"
+      ],
+      "notes": "columnist ~50"
+    },
+    {
+      "id": "l3:9:廖清山",
+      "slug": null,
+      "band": "L3",
+      "name_en": "Liao Qing-shan",
+      "name_zh": "廖清山",
+      "aliases": [
+        "Liao Qing-shan",
+        "廖清山"
+      ],
+      "notes": "columnist ~37"
+    },
+    {
+      "id": "l4:doublethink-lab",
+      "slug": "doublethink-lab",
+      "band": "L4",
+      "name_en": "Doublethink Lab (民主實驗室)",
+      "name_zh": "民主實驗室",
+      "aliases": [
+        "Doublethink Lab (民主實驗室)",
+        "民主實驗室"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:good-shepherd-taiwanese-presbyterian-church",
+      "slug": "good-shepherd-taiwanese-presbyterian-church",
+      "band": "L4",
+      "name_en": "Good Shepherd Taiwanese Presbyterian Church",
+      "name_zh": "",
+      "aliases": [
+        "Good Shepherd Taiwanese Presbyterian Church"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:guangzhou-society-taiwan-professional-executives",
+      "slug": "guangzhou-society-taiwan-professional-executives",
+      "band": "L4",
+      "name_en": "Guangzhou Society of Taiwan Professional and Executives",
+      "name_zh": "",
+      "aliases": [
+        "Guangzhou Society of Taiwan Professional and Executives"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:irvine-taiwanese-presbyterian-church",
+      "slug": "irvine-taiwanese-presbyterian-church",
+      "band": "L4",
+      "name_en": "Irvine Taiwanese Presbyterian Church (IRVINE台灣基督長老教會)",
+      "name_zh": "台灣基督長老教會",
+      "aliases": [
+        "Irvine Taiwanese Presbyterian Church (IRVINE台灣基督長老教會)",
+        "台灣基督長老教會"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:kuma-academy",
+      "slug": "kuma-academy",
+      "band": "L4",
+      "name_en": "Kuma Academy (黑熊學院)",
+      "name_zh": "黑熊學院",
+      "aliases": [
+        "Kuma Academy (黑熊學院)",
+        "黑熊學院"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:ntpc",
+      "slug": "ntpc",
+      "band": "L4",
+      "name_en": "North Taiwan Presbyterian Church (NTPC)",
+      "name_zh": "",
+      "aliases": [
+        "North Taiwan Presbyterian Church (NTPC)"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:presbyterian-church-in-taiwan",
+      "slug": "presbyterian-church-in-taiwan",
+      "band": "L4",
+      "name_en": "Presbyterian Church in Taiwan (PCT)",
+      "name_zh": "",
+      "aliases": [
+        "Presbyterian Church in Taiwan (PCT)"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:taiwan-center",
+      "slug": "taiwan-center",
+      "band": "L4",
+      "name_en": "Taiwan Center Foundation of Greater Los Angeles",
+      "name_zh": "",
+      "aliases": [
+        "Taiwan Center Foundation of Greater Los Angeles",
+        "台灣會館",
+        "Taiwan Center",
+        "大洛杉磯台灣會館"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:taiwan-formosa",
+      "slug": "taiwan-formosa",
+      "band": "L4",
+      "name_en": "Taiwan Formosa",
+      "name_zh": "",
+      "aliases": [
+        "Taiwan Formosa"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:taiwanese-american-historical-society",
+      "slug": "taiwanese-american-historical-society",
+      "band": "L4",
+      "name_en": "Taiwanese American Historical Society (TAHS)",
+      "name_zh": "",
+      "aliases": [
+        "Taiwanese American Historical Society (TAHS)",
+        "TAHS",
+        "台美人歷史協會",
+        "台灣人美國歷史協會"
+      ],
+      "notes": "content/organizations"
+    },
+    {
+      "id": "l4:taiwanjustice-net",
+      "slug": "taiwanjustice-net",
+      "band": "L4",
+      "name_en": "taiwanjustice.net (台灣公義網 / Taiwan Justice)",
+      "name_zh": "台灣公義網",
+      "aliases": [
+        "taiwanjustice.net (台灣公義網 / Taiwan Justice)",
+        "台灣公義網",
+        "taiwanjustice",
+        "Taiwan Justice",
+        "公義報"
+      ],
+      "notes": "content/organizations"
+    }
+  ]
+}

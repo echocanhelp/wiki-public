@@ -2,67 +2,20 @@
 title: "Taiwanese American Historical Society (TAHS)"
 type: organization
 tags:
-  - organization
   - Taiwanese-American
+  - organization
   - TAHS
-  - 501c3
-verification_status: pending
-last_reviewed: 2026-07-30
+  - historical-preservation
 ---
+
 # Taiwanese American Historical Society (TAHS)
 
-The **Taiwanese American Historical Society (TAHS)** (台美人歷史協會) is a 501(c)(3) non-profit organization dedicated to documenting, preserving, and promoting Taiwanese American history, culture, and heritage. TAHS was founded in 2013 under the leadership of [[people/yang-jia-you|楊嘉猷 (Charles Yang)]], with key contributions from [[people/zhou-wei-lin|周威霖 (Zhou Wei-lin)]], [[people/wang-yao-ting|王耀廷 (Wang Yao-ting)]], [[people/zheng-bing-quan|鄭炳全 (Zheng Bingquan)]], [[people/huang-gen-shen|黃根深 (Huang Gen-shen)]], and [[people/liao-shu-zong|廖述宗 (Liao Shu-zong)]].
-
-## Legal / Tax Identity
-
-| Field | Value |
-|-------|--------|
-| **Legal name** | Taiwanese American Historical Society |
-| **Chinese name** | 台美人歷史協會 |
-| **Short name** | TAHS |
-| **EIN / Employer ID** | 46-4005384 |
-| **Federal tax status** | IRC §501(c)(3) public charity |
-| **Public charity status** | 170(b)(1)(A)(vi) |
-| **Contribution deductibility** | Yes (IRC §170); also qualified for deductible bequests/devises/transfers/gifts under §§2055, 2106, or 2522 |
-| **Effective date of exemption** | June 18, 2024 (reinstatement) |
-| **IRS determination letter date** | June 27, 2024 |
-| **Form 990 / 990-EZ / 990-N required** | Yes |
-| **Accounting period ending** | December 31 |
-| **DLN** | 26053572010194 |
-| **Reinstatement** | Approved under Revenue Procedure 2014-11 (per IRS letter) |
-
-### Addresses on record
-
-**Current mailing / care-of address** (filed 2026-07-24 by Leonard Hsu Jr.):
-
-```
-Taiwanese American Historical Society
-c/o Leonard Hsu
-279 S. Main St
-Orange, CA 92868
-```
-
-**Address on IRS determination letter** (2024-06-27):
-
-```
-TAIWANESE AMERICAN HISTORICAL SOCIETY
-C/O KUEI TUNG CHEN
-818 E BROADWAY UNIT C
-SAN GABRIEL, CA 91776
-```
-
-### Determination letter note
-
-IRS Tax Exempt and Government Entities determination letter (Department of the Treasury, Cincinnati OH), dated **06/27/2024**, confirms 501(c)(3) public-charity status and contribution deductibility after reinstatement. Photo of the letter is retained in private vault storage (`knowledge/operational/tahs-legal/`); not republished as a public wiki attachment. For donation-platform verification, attach that IRS letter (or an official IRS affirmation) with legal name + EIN as requested by the platform.
+The **Taiwanese American Historical Society (TAHS)** is an organization dedicated to preserving and promoting Taiwanese American history, culture, and heritage.
 
 ## Identity Snapshot
-- **Type:** Historical and cultural organization, 501(c)(3) non-profit
-- **Geography:** Southern California (Los Angeles / Orange County area)
-- **Founded:** December 11, 2013 (founding conference at Hilton Hotel, San Gabriel)
-- **First President:** [[people/yang-jia-you|楊嘉猷 (Charles Yang)]] — founding president
-- **Second President:** [[people/franklin-ping-cheng|Franklin Ping Cheng (程炳成)]] (2014–2017)
-- **Current President (on record):** [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]]
-- **Mission:** Historical preservation, cultural education, community building
+- Type: Historical and cultural organization
+- Geography: United States (Taiwanese American diaspora)
+- Mission: Historical preservation, cultural education, community building
 
 ## Mission and Activities
 TAHS works to:
@@ -71,140 +24,28 @@ TAHS works to:
 3. Support research and education about Taiwanese American experiences
 4. Maintain digital archives and knowledge bases (Echopedia)
 
-## History
+## Leadership (2025 organization chart)
 
-### Founding Narrative (from 緣起與展望 essay)
-- **June 2013:** Dr. [[people/zheng-bing-quan|鄭炳全 (Zheng Bingquan)]] (Pacific Times) began convening community leaders, notably [[people/yang-jia-you|楊嘉猷 (Charles Yang)]].
-- **August 28, 2013:** First preparatory meeting in Fullerton, CA.
-- **December 11, 2013:** Founding conference at Hilton Hotel, San Gabriel, with press conference.
-- **Key founders:** [[people/zheng-bing-quan|鄭炳全 (Zheng Bingquan)]] (first convener), [[people/yang-jia-you|楊嘉猷 (Charles Yang)]] (founding president), [[people/zhou-wei-lin|周威霖 (Zhou Wei-lin)]] (secretary), [[people/wang-yao-ting|王耀廷 (Wang Yao-ting)]] (vice president).
-- **Initial preparatory members:** [[people/zheng-bing-quan|鄭炳全]], [[people/yang-jia-you|楊嘉猷]], [[people/zhou-wei-lin|周威霖]], [[people/wang-yao-ting|王耀廷]], [[people/freeman-huang|黃樹人 (Freeman Huang)]], [[people/huang-gen-shen|黃根深]], [[people/lin-heng-zhe|林衡哲]], [[people/xie-qingzhi-xie-poyi|謝清志]], [[people/wang-tingyi|王廷宜]], [[people/li-cheng-kui|李成奎]], [[people/zheng-yingsong|鄭英松]], [[people/hong-zhumei|洪珠美]], [[people/yang-ziqing|楊子清]], [[people/wu-guangming|吳光明]], [[people/zhou-shi|周實]], [[people/chen-long|陳隆]], [[people/zeng-junjia|曾俊嘉]], [[people/yang-pingyou|楊平羽]], [[people/yang-wenxian|楊文顡]], [[people/wei-boji|魏博基]], [[people/lin-xiaohui|林小慧]].
-- **Motivation:** First-generation Taiwanese Americans who participated in Taiwan's democratization movement were aging. Their stories needed to be recorded before they were lost.
-- **Founding ideology:** 楊嘉猷's essay "歷史！以古鑑今而自強不息" (Part 1, L38–115) established the five principles that form TAHS's ideological foundation: 歷史傳承 (historical inheritance), 族群榮譽 (ethnic honor), 全民團結 (people's unity), 社會責任 (social responsibility), 前途希望 (future hope).
-- **Ethnic identity argument:** As a minority among minorities in the U.S. — difficult to compare with African American, Hispanic, Jewish, or Chinese American populations in terms of population — Taiwanese Americans must use education, culture, and history to coalesce and shape a distinct ethnic identity. This is a "sub-identity" at the ethnic level, distinct from national American identity.
-- **Key motivation:** "If we Taiwanese Americans do not write our own history, then Chinese Americans or others may overstep and write it for us, distorting our history and historical positioning, reducing it to a footnote in Chinese American history." This urgency drove the founding of TAHS.
+Source: TAHS 2025 org chart (台美人歷史協會組織表), Tax ID **46-4005384**. Roles and public names only — no private phones or LINE IDs.
 
-### 緣起與展望 — Full Founding Essay (周威霖, 2017 TAHS Publication, Part 1)
-Source: 台美人歷史協會的緣起與展望, by 周威霖, 2017 TAHS Publication (Part 1, L1–127)
+| Role | Person |
+|------|--------|
+| 會務指導主席 (Affairs guidance) | [[people/alan-thian|Alan Thian (田詒鴻)]] |
+| 財務指導主席 (Finance guidance) | [[people/paul-chen|Paul Chen (陳柏宇)]] |
+| 顧問 (Advisor) | [[people/gene-tsai|Gene Tsai (蔡錦榮)]], [[people/xu-shihuan|Hsu Shih-huan (許世環)]] |
+| 會長 (President) | [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]] |
+| 副會長 (Vice President) | [[people/roger-tsai|Roger Tsai (蔡漢成)]], [[people/bai-weiwei|Wei Wei Bai (白偉瑋)]] |
+| 特別助理 (Special assistant) | [[people/john-yang|John Yang (楊錦忠)]], [[people/li-yisheng|Li Yi-sheng (李意盛)]] |
+| 財務長 (Treasurer) | [[people/yang-jia-you|Charles Yang (楊嘉猷)]] |
+| 秘書 (Secretary) | [[people/freeman-huang|Freeman Huang (黃樹人)]] |
+| 總務 (General affairs) | [[people/cai-shunyu|Cai Shu-nu (蔡淑女)]] |
+| 資訊 (Information / IT) | [[people/shen-zizai|Shen Zi-zai (沈梓在)]] |
 
-周威霖, TAHS founding secretary, laid out the full rationale and vision for the organization. Key passages:
-
-**Ethnic identity rationale:** Taiwanese Americans, as a demographic minority within a minority, cannot compete with larger ethnic groups by population alone. The founding essay argues that Taiwanese Americans must build a distinct ethnic identity through education, culture, and history. This creates what the essay calls a "sub-identity" (次認同) at the ethnic level, layered beneath but distinct from American national identity.
-
-**The urgency of self-representation:** The essay emphasizes that without Taiwanese Americans writing their own history, others — Chinese Americans or Chinese historians — may "overstep and write it for us" (越俎代庖). This distorts their history and reduces it to a footnote in Chinese American or Chinese history. This urgency was the primary catalyst for TAHS's founding.
-
-**U.S. context:** The essay notes that despite America's young history, American elites and scholars highly value historical preservation. From federal to local levels, historical societies abound. Many ethnic groups have established their own historical societies and museums. Chinese Americans have the Chinese Historical Society of Southern California and the Chinese American Museum in El Pueblo de Los Angeles. Japanese Americans have the Japanese American National Museum and the Japanese American Historical Society of Southern California.
-
-**The five principles (五原則):** 楊嘉猷's founding essay established five ideological pillars: 歷史傳承, 族群榮譽, 全民團結, 社會責任, 前途希望.
-
-### 十類活動 (Ten Types of Activities, per 周威霖)
-Source: 緣起與展望, 2017 TAHS Publication (Part 1, L71–109)
-
-1. **展覽 (Exhibitions):** 228 Historical Materials Exhibition, pre-WWII Formosan students in the US, Taiwan puppet theater exhibition
-2. **新書發表會 (Book launches):** Introducing works by Taiwanese American authors (e.g., [[people/shawna-yang-ryan|Shawna Yang Ryan]], Jennifer Chow, [[people/wang-kexiong|王克雄]]); also supported publications by community authors
-3. **政治活動 (Political engagement):** Supported pro-Taiwan grassroots diplomacy. This included global support for Taiwan student anti-Serve Trade Agreement demonstrations in LA. Also co-sponsored 228 massacre memorial services and California Treasurer's lectures (501(c)(3) compliant).
-4. **台美人物訪問 (Taiwanese American profile interviews):** Core activity. This includes recording oral histories, producing video discs, and writing biographical sketches of selected Taiwanese Americans. Interviews were conducted locally and out of state (e.g., traveling to Northern California to interview Dr. 李華林). Also arranged outside recordings (e.g., 洪賢造 in Seattle recording 蔡愛智 pastor's oral history).
-5. **追思會 (Memorial services):** Co-sponsored [[people/liao-shu-zong|廖述宗]] professor memorial and [[people/huang-gen-shen|黃根深]] professor memorial. Also hosted 蔡同榮 professor memorial.
-6. **歷史主題座談會 (Historical symposia):** Core activity. For example, "Los Angeles Taiwanese Association Historical Review and Prospects Symposium." Must be held regularly per mission.
-7. **理事會、工作會議及年會 (Board meetings, working sessions, annual meetings):** Regular governance activities
-8. **專題演講會 (Special lectures):** e.g., Prof. 朱真一 "府城掘寶", 陳榮成 and 王文宏 on "4/24 刺蔣"
-9. **第一代與新生代聯誼會 (Intergenerational gatherings):** Connecting first-generation and younger-generation Taiwanese Americans
-10. **史料蒐集與數位化 (Historical material collection and digitization):** Supporting Pacific Times' USC East Asian Library digitization project; collecting and preserving historical materials
-
-### 四大未來計畫 (Four Major Future Goals)
-Source: 展望 section, 2017 TAHS Publication (Part 1, L103–114)
-
-1. **完善網站與作業 (Improve website and operations)**
-2. **蒐集與典藏台美人個人、團體與族群的史料與文物 (Collect and preserve individual, group, and ethnic historical materials and artifacts)**
-3. **加入美國若干組織 (Join U.S. organizations)** — e.g., Immigration and Ethnic History Society, American Association for State and Local History, Association of North American Immigration Institution
-4. **增強新世代台美人對台美人歷史協會的參與和認同 (Increase younger-generation Taiwanese American participation and identification with TAHS)**
-
-### 活動紀要 (Summary of Activities, 2015–2017)
-Source: 本會活動紀要, 2017 TAHS Publication (Part 2, L2448–2533)
-
-**2015:**
-- Special lectures: Prof. R.C. Chen 陳榮成 on "4/24 Incident 1970" (Apr 19). Prof. Taizer Wang 王泰澤 on Taiwan history at community college (Aug 9). Prof. Ping H. Liao 廖炳惲 on religious activities of high-tech workers in Taiwan.
-- Taipei Culture Center visit (June 4–5, El Monte): 200 Taiwanese puppets by Dr. Rick Yu, folk antique arts show.
-- Holiday gathering with young generation at San Gabriel Hilton (Dec 22).
-- Tribute to Dr. Edward Cheng 鄭德昌 (1946–2015) in San Diego with history lectures.
-
-**2016:**
-- Visited USC Library for digitalization of TA historical events from Pacific Times (1987–2017) (Feb 9)
-- Set up storage room for TAHS at LA Taiwan Center library
-- Visited Walnut Senior Center and videoed activities (May 27)
-- Taiwanese Heritage Week exhibition: "Taiwanese in US before Pacific War" (May 2016, LA Taiwan Center)
-- Zen and arts exhibition by Tomi Yang (TAHS VP) at Taichung Seaport Art Museum, Taiwan (Dec 2016)
-- Helped establish Formosan Association for G.M.T. Culture, Taipei Culture Center (Jun 10)
-- **Annual meeting at Taiwan Center with student Ethan Yang presenting *Privilege* (Nov 23)**
-- Co-sponsored book signing by Prof. [[people/shawna-yang-ryan|Shawna Yang Ryan 楊小娜]]: *Green Island 綠島* (Mar 30, LA Taiwan Center)
-
-**2017:**
-- New book release by historian Prof. Yee Chen 陳儀深: *Nuclear Taiwan*, spy, CIA 張憲義 (Jan 9, Taipei).
-- Co-sponsored 228 massacre 70th year special exhibition at Taipei Culture Center (Feb 25, one week, El Monte).
-- Town Hall meeting "228 recall" at LA Taiwan Center (Mar 11).
-- New book signing by Dr. [[people/ken-wang|Ken Wang 王克雄]]: *A man expecting tomorrow, disappearance of the prosecutor 王育霖* (Feb 12).
-- Special exhibition: Taiwanese Heritage Week — stories of ministers 蔡愛智 and 鍾啟明 who served US military during Pacific War (May 17–19 and July 2, LA Taiwan Center). Also held at Marriott Hotel San Diego during Western Taiwanese American Summer Camp (July 17–19).
-- New book signing by Kenneth Wang 王文宏 from Irvine: *Attempted Shooting Chiang 1970* (May 27, LA Taiwan Center).
-- Visited First Presbyterian Church Pasadena; videoed presentation of 柯吉文 about his great-grandpa Dr. George L. Mackay (1844–1901) (May 25).
-- Special lecture on Taiwan art history by Prof. 蕭瓊瑞 from Tainan (Jul 26).
-- New book signing: *1959 武漢大旅社* by Ms. 黃楊薰春 (Aug 5).
-- Memorial service for board director [[people/huang-gen-shen|黃根森 (Huang Gen-shen)]] (1937–2017), organized by 10 Taiwanese American organizations, ~200 attendees (Aug 29, Rose Hills Memorial Park).
-- Almost all activities were videoed and posted on YouTube and the TAHS website (www.TAhistory.org), attracting thousands of visitors annually.
-
-### 會長謝詞 (Gratitude, Franklin Ping Cheng, 2014–2017)
-Source: 會長謝詞, 2017 TAHS Publication (Part 2, L2534–2559)
-
-- Franklin Ping Cheng served as vice-president for one year before being elected president in 2014. The term was originally 3 years.
-- Due to the physical condition of founding president [[people/yang-jia-you|楊嘉猷 (Charles Yang)]], Yang handed the leadership to [[people/franklin-ping-cheng|Cheng]]. Yang later recovered from two surgeries and helped with the Society.
-- Before finishing his term, Mr. Yang wished the Society to publish a special yearbook introducing the community — the 2017 TAHS Publication.
-- In 4 years, the Society emphasized the website. It interviewed senior members before they lost their memory, held lectures and forums, and posted videos on YouTube and www.TAhistory.org.
-- The 2017 yearbook introduced four prominent TA entrepreneurs and more outstanding second generations.
-- Cheng thanked the Society's many friends for their support and encouraging words.
-- Special thanks to TECO 僑委會 (Overseal Development and Fund Committee) for sponsorship.
-- 楊嘉猷 was willing and well enough to lead the Society the following year to complete his term.
-
-### 捐款名單 (Donor List, 2015–2016)
-Source: 2015, 2016 年度捐款名單, 2017 TAHS Publication (Part 2, L2448–2485)
-- Full donor list archived in publication Part 2. Listed here as reference; individual donor details in archive only.
+Founding context: [[people/yang-jia-you|Charles Yang (楊嘉猷)]] is founding president (創會會長); Franklin Ping Cheng (程炳成) served as president 2014–2017 (page pending).
 
 ## Related Pages
-- [[sources/2017-tahs-publication|2017 TAHS Publication]]
-- [[sources/2023-tahs-publication|2023 TAHS Publication]]
-- [[people/yang-jia-you|楊嘉猷 (Charles Yang)]]
-- [[people/franklin-ping-cheng|Franklin Ping Cheng]]
-- [[people/huang-gen-shen|黃根深 (Huang Gen-shen)]]
-- [[people/liao-shu-zong|廖述宗 (Liao Shu-zong)]]
-- [[people/zheng-bing-quan|鄭炳全]]
-- [[people/zhou-wei-lin|周威霖]]
-- [[people/wang-yao-ting|王耀廷]]
-- [[echopedia|Echopedia — Community Knowledge Hub]]
-
-## Publication Evolution: From Yearbooks to Echopedia
-
-### The Static Era (2017, 2023)
-TAHS published two commemorative yearbooks:
-- **2017 TAHS Publication** (台美菁英錄) — 118 pages, 22 profiles of Taiwanese American leaders
-- **2023 TAHS Publication** — [profiles to be ingested]
-
-These were beautiful, curated snapshots — but static. Once printed, they couldn't grow or be updated.
-
-### The Living Era (2026+)
-**Echopedia** is the evolution of the TAHS publication method. Where the yearbooks captured a moment in time, Echopedia is the **continuously evolving memory** of the Taiwanese American community.
-
-| Aspect | 2017/2023 Publications | Echopedia |
-|--------|----------------------|-----------|
-| Format | Static yearbook (PDF/print) | Living wiki (web) |
-| Growth | Fixed at publication | Continuous community contributions |
-| Updates | Impossible after print | Anyone can update anytime |
-| Search | Manual index | Full-text search |
-| Connections | Linear reading | Hyperlinked graph of people/orgs |
-| Multimedia | Limited | Photos, audio, video, documents |
-
-**The 2017 yearbook's 22 profiles** have been migrated into Echopedia as living person pages. The 2023 yearbook's profiles will follow the same path. New community members can be added continuously — Echopedia is the yearbook that never stops growing.
-
-## Source Notes and Confidence
-- **Content priority A:** Founding details from 2017 TAHS Publication, 緣起與展望 essay by [[people/zhou-wei-lin|周威霖]] (Part 1)
-- **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
-- **Legal/tax:** IRS 501(c)(3) determination letter 2024-06-27 (EIN 46-4005384; public charity 170(b)(1)(A)(vi); effective exemption 2024-06-18); current c/o address filed by Leonard Hsu Jr. 2026-07-24
-- **Status:** Pending fuller verification — cross-reference California SOS when available
-- **Confidence:** High for founding narrative, activities classification, and future plans (directly from 周威霖's essay); high for EIN/exemption facts from IRS letter photo; moderate for specific event dates (corroborated by 活動紀要 in Part 2)
+- [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]]
+- [[people/yang-jia-you|Charles Yang (楊嘉猷)]]
+- [[people/freeman-huang|Freeman Huang (黃樹人)]]
+- [[sources/taiwanjustice-net|taiwanjustice.net archive]]
+- [[people|People Index]]
