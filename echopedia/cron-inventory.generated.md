@@ -7,7 +7,7 @@
 | 0 4 * * * | `echopedia-nightly-audit` | no_agent | on | ok | `echopedia-nightly-audit-wrapper.sh` |
 | 0 5 * * * | `echopedia-weekly-improvement` | no_agent | on | ok | `echopedia-weekly-improvement.sh` |
 | 0 5 * * * | `memory-audit` | no_agent | on | ok | `memory-audit.sh` |
-| 0 5 * * * | `vault-morning-brief` | no_agent | on | ok | `vault-morning-brief.py` |
+| 0 5 * * * | `vault-morning-brief` | no_agent | on | error | `vault-morning-brief.py` |
 | 0 8 * * * | `vault-intelligence-digest` | no_agent | on | ok | `vault-intelligence-digest.py` |
 | 0 8 * * * | `vault-unfinished-threads` | no_agent | on | ok | `vault-unfinished-threads.py` |
 | 0 9 * * * | `echopedia-digest` | no_agent | on | ok | `echopedia-digest.sh` |

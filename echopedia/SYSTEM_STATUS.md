@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-08-04 05:01 PDT*
+*Generated: 2026-08-04 05:05 PDT*
 
 ## Orientation
 - **Entry:**  (auto-route) · **Control:** [CONTROL.md](CONTROL.md)
@@ -19,7 +19,7 @@
 ## Content
 |- **Tier1 pages:** 305 (people 207 / orgs 89 / sources 9) · Tier2 archive: 29103
 |- **Janitor queue depth:** 30
-|- **Uncommitted files:** 616
+|- **Uncommitted files:** 2226
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 || Stage | Script | Last run | Output |
@@ -55,16 +55,16 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-08-04T03:00:53.131550-07:00  ok
     Name:      vault-morning-brief
     Schedule:  0 5 * * *
-    Last run:  2026-08-03T05:02:51.764304-07:00  ok
+    Last run:  2026-08-04T05:03:00.365172-07:00  error: Script exited with code 1
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-08-04T05:00:55.665221-07:00  ok
+    Last run:  2026-08-04T05:04:55.708813-07:00  ok
     Name:      Echopedia content analysis
     Schedule:  0 4 * * *
     Last run:  2026-08-04T04:00:55.193928-07:00  ok
     Name:      unified-watchdog
     Schedule:  every 30m
-    Last run:  2026-08-04T04:31:54.755618-07:00  ok
+    Last run:  2026-08-04T05:01:55.648338-07:00  ok
     Name:      echopedia-digest
     Schedule:  0 9 * * *
     Last run:  2026-08-03T09:00:50.986295-07:00  ok
@@ -108,7 +108,7 @@ Load skill **echopedia-ops** first for any wiki work.
 | 0 4 * * * | `echopedia-nightly-audit` | no_agent | on | ok | `echopedia-nightly-audit-wrapper.sh` |
 | 0 5 * * * | `echopedia-weekly-improvement` | no_agent | on | ok | `echopedia-weekly-improvement.sh` |
 | 0 5 * * * | `memory-audit` | no_agent | on | ok | `memory-audit.sh` |
-| 0 5 * * * | `vault-morning-brief` | no_agent | on | ok | `vault-morning-brief.py` |
+| 0 5 * * * | `vault-morning-brief` | no_agent | on | error | `vault-morning-brief.py` |
 | 0 8 * * * | `vault-intelligence-digest` | no_agent | on | ok | `vault-intelligence-digest.py` |
 | 0 8 * * * | `vault-unfinished-threads` | no_agent | on | ok | `vault-unfinished-threads.py` |
 | 0 9 * * * | `echopedia-digest` | no_agent | on | ok | `echopedia-digest.sh` |
