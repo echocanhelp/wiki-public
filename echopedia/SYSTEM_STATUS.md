@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-08-04 04:20 PDT*
+*Generated: 2026-08-04 04:25 PDT*
 
 ## Orientation
 - **Entry:**  (auto-route) · **Control:** [CONTROL.md](CONTROL.md)
@@ -19,7 +19,7 @@
 ## Content
 |- **Tier1 pages:** 305 (people 207 / orgs 89 / sources 9) · Tier2 archive: 29103
 |- **Janitor queue depth:** 30
-|- **Uncommitted files:** 8414
+|- **Uncommitted files:** 2412
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 || Stage | Script | Last run | Output |
@@ -28,7 +28,7 @@
 || Filter | echopedia-content-analysis | daily 04:00 | 21 scanned, 0 queued |
 || Extract | echopedia-extract-actions | daily 04:10 | knowledge/operational/extracted/ |
 || Evaluate | echopedia-evaluate-actions | daily 04:15 | knowledge/operational/evaluated/ |
-|| Generate | echopedia-generate-cards | daily 04:20 | no data |
+|| Generate | echopedia-generate-cards | daily 04:20 | 0 cards |
 || Review | weekly-improvement | Mon 05:00 | improvement-brief.md |
 
 ## What runs automatically
@@ -58,7 +58,7 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-08-03T05:02:51.764304-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-08-04T04:18:54.444462-07:00  ok
+    Last run:  2026-08-04T04:24:54.632712-07:00  ok
     Name:      Echopedia content analysis
     Schedule:  0 4 * * *
     Last run:  2026-08-04T04:00:55.193928-07:00  ok
@@ -70,7 +70,7 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-08-03T09:00:50.986295-07:00  ok
     Name:      kanban-sync
     Schedule:  every 30m
-    Last run:  2026-08-04T03:51:53.939734-07:00  ok
+    Last run:  2026-08-04T04:21:54.539400-07:00  ok
     Name:      memory-audit
     Schedule:  0 5 * * *
     Last run:  2026-08-03T05:00:47.952674-07:00  ok
