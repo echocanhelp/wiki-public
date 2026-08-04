@@ -3,3 +3,13 @@
 {"path": "people/zheng-wenlong.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
 {"path": "people/zheng-qinren.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
 {"path": "people/wang-qiaoling.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "people/lin-rongsong.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
+{"path": "people/zou-jingwen.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
+{"path": "people/zheng-wenlong.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
+{"path": "people/zheng-qinren.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
+{"path": "people/wang-qiaoling.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
+{"path": "people/lin-rongsong.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
+{"path": "people/zou-jingwen.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
+{"path": "people/zheng-wenlong.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
+{"path": "people/zheng-qinren.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
+{"path": "people/wang-qiaoling.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
