@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-03
+last_reviewed: 2026-08-04
 ---
 # Gong Sun-le (公孫樂)
 
@@ -55,6 +55,34 @@ Top 10 articles from taiwanjustice.net mentioning gong-sun-le:
 10. **2020-04-25** — [【週末漫談音樂 (13)】音樂與電影 – 「Le Bonheur（幸福）」◎信雅](https://web.archive.org/web/20250614200906/https://taiwanjustice.net/%E3%80%90%E9%80%B1%E6%9C%AB%E6%BC%AB%E8%AB%87%E9%9F%B3%E6%A8%82-13%E3%80%91%E9%9F%B3%E6%A8%82%E8%88%87%E9%9B%BB%E5%BD%B1-%E3%80%8Cle-bonheur%EF%BC%88%E5%B9%B8%E7%A6%8F%EF%BC%89%E3%80%8D%E2%97%8E/)
    - *2020.04.25...*
    - Score: 40
+
+
+## Works
+
+**公孫樂** has **3** articles where they appear in the title (column articles) and **7** additional articles that mention them in the body.
+
+
+### 2024 (1 articles)
+
+1. **2024-03-01** — [228談蔣廟 ◎公孫樂](https://web.archive.org/web/20250328160746/https://taiwanjustice.net/228%E8%AB%87%E8%94%A3%E5%BB%9F-%E2%97%8E%E5%85%AC%E5%AD%AB%E6%A8%82/)
+
+### 2017 (1 articles)
+
+1. **2017-10-19** — [「大破」卻無「大立」的川普總統 ◎公孫樂 2017-10-19](https://web.archive.org/web/20240522045307/https://www.taiwanjustice.net/?p=129629)
+
+### 2015 (1 articles)
+
+1. **2015-07-04** — [國難當頭，馬英九，你知羞不知羞？(+動畫) ◎公孫樂 07-04-2015](https://web.archive.org/web/20180804202559/https://www.taiwanjustice.net/2015/07/04/%e5%9c%8b%e9%9b%a3%e7%95%b6%e9%a0%ad%ef%bc%8c%e9%a6%ac%e8%8b%b1%e4%b9%9d%ef%bc%8c%e4%bd%a0%e7%9f%a5%e7%be%9e%e4%b8%8d%e7%9f%a5%e7%be%9e%ef%bc%9f%e5%8b%95%e7%95%ab-%e2%97%8e%e5%85%ac%e5%ad%ab/)
+
+### Body Mentions (7 articles)
+
+Articles by other authors that mention **公孫樂**: See [[sources/taiwanjustice-net|taiwanjustice.net source hub]] for the full article index. Top mentions by score:
+
+1. **2024-04-22** — [我的肥皂箱](https://web.archive.org/web/20240425074107/https://www.taiwanjustice.net/?cat=102282&filter_by=featured&paged=2) (score: 740)
+2. **2012-05-10** — [admin](https://web.archive.org/web/20230326050802/https://www.taiwanjustice.net/author/josephc/page/12603/) (score: 700)
+3. **2015-10-08** — [動畫](https://web.archive.org/web/20231201230105/https://www.taiwanjustice.net/?cat=402) (score: 700)
+4. **2021-01-13** — [我的肥皂箱](https://web.archive.org/web/20240221103614/https://www.taiwanjustice.net/?cat=102282&filter_by=random_posts) (score: 700)
+5. **2024-05-29** — [一場獲滿堂彩的文化交流-以立合唱團為美國中學生介紹台灣並演唱「天烏烏」](https://web.archive.org/web/20240622135632/https://www.taiwanjustice.net/?p=388110) (score: 145)
 
 ## Source Notes
 

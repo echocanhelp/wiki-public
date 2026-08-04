@@ -50,3 +50,18 @@ Top 10 articles from taiwanjustice.net mentioning sang-pu:
 10. **2021-04-30** — [經濟學人“台灣是地球最危險之地” 台灣人看法不一](https://web.archive.org/web/20250417211250/https://taiwanjustice.net/%E7%B6%93%E6%BF%9F%E5%AD%B8%E4%BA%BA%E5%8F%B0%E7%81%A3%E6%98%AF%E5%9C%B0%E7%90%83%E6%9C%80%E5%8D%B1%E9%9A%AA%E4%B9%8B%E5%9C%B0-%E5%8F%B0%E7%81%A3%E4%BA%BA%E7%9C%8B%E6%B3%95%E4%B8%8D/)
    - *2021-04-30 自由亞洲電台...*
    - Score: 40
+
+## Works
+
+**桑普** has **0** articles where they appear in the title (column articles) and **12** additional articles that mention them in the body.
+
+
+### Body Mentions (12 articles)
+
+Articles by other authors that mention **桑普**: See [[sources/taiwanjustice-net|taiwanjustice.net source hub]] for the full article index. Top mentions by score:
+
+1. **2023-08-12** — [2012大選](https://web.archive.org/web/20240719130745/https://www.taiwanjustice.net/?cat=56) (score: 800)
+2. **2020-05-21** — [矛頭對準中國，川普政府出報告痛批北京惡意活動，警告勿觸碰美國底線](https://web.archive.org/web/20251205233746/https://taiwanjustice.net/%E7%9F%9B%E9%A0%AD%E5%B0%8D%E6%BA%96%E4%B8%AD%E5%9C%8B%EF%BC%8C%E5%B7%9D%E6%99%AE%E6%94%BF%E5%BA%9C%E5%87%BA%E5%A0%B1%E5%91%8A%E7%97%9B%E6%89%B9%E5%8C%97%E4%BA%AC%E6%83%A1%E6%84%8F%E6%B4%BB%E5%8B%95/) (score: 70)
+3. **2022-09-13** — [防中國沒收，臺灣擬出售澳門國父紀念館](https://web.archive.org/web/20230205132911/https://www.taiwanjustice.net/2022/09/13/%E9%98%B2%E4%B8%AD%E5%9C%8B%E6%B2%92%E6%94%B6%EF%BC%8C%E8%87%BA%E7%81%A3%E6%93%AC%E5%87%BA%E5%94%AE%E6%BE%B3%E9%96%80%E5%9C%8B%E7%88%B6%E7%B4%80%E5%BF%B5%E9%A4%A8/) (score: 65)
+4. **2022-08-02** — [佩洛西訪臺期間將會見在臺港人及人權代表](https://web.archive.org/web/20251012112428/https://taiwanjustice.net/%E4%BD%A9%E6%B4%9B%E8%A5%BF%E8%A8%AA%E8%87%BA%E6%9C%9F%E9%96%93%E5%B0%87%E6%9C%83%E8%A6%8B%E5%9C%A8%E8%87%BA%E6%B8%AF%E4%BA%BA%E5%8F%8A%E4%BA%BA%E6%AC%8A%E4%BB%A3%E8%A1%A8/) (score: 65)
+5. **2022-04-26** — [美驅逐艦通過台灣海峽 展現對自由開放印太承諾](https://web.archive.org/web/20220929022511/https://www.taiwanjustice.net/2022/04/26/%E7%BE%8E%E9%A9%85%E9%80%90%E8%89%A6%E9%80%9A%E9%81%8E%E5%8F%B0%E7%81%A3%E6%B5%B7%E5%B3%BD-%E5%B1%95%E7%8F%BE%E5%B0%8D%E8%87%AA%E7%94%B1%E9%96%8B%E6%94%BE%E5%8D%B0%E5%A4%AA%E6%89%BF%E8%AB%BE/) (score: 50)

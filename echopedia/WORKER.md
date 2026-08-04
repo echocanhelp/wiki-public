@@ -176,6 +176,7 @@ Found two relevant mechanisms:
 | P11 | Docs selfcheck | Doc OS | 1. `bash ~/.hermes/scripts/echopedia-docs-sync.sh` 2. Check DOCS_STATUS 3. Fix any FAIL 4. Report |
 | P12 | Featured regen | Homepage cards | 1. `featured-regen.py --dry-run` 2. Verify 3. `featured-regen.py --inject` 4. Commit + publish 5. Report |
 | P13 | Site design | Layout issues | 1. Read site-design-brief.md 2. Run audit 3. Propose fixes (incl. root index.html copy from quartz build, Pages build type migration) 4. Report |
+| **P14** | **Person-to-work linking** | **Ensure person pages list all works + articles link back** | **1. Run `echopedia-person-works-linker.py --all` 2. Verify ## Works section on sample page 3. Verify backlinks in sample articles 4. Commit** |
 
 ### P8 — Edit page content (content update)
 

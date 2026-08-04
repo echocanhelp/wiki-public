@@ -17,6 +17,8 @@ categories:
 - us_election
 - english-pages
 - column
+authors:
+  - [[people/du-ao-cunfu|獨傲村夫]]
 ---
 
 Dear US President Donald Trump,

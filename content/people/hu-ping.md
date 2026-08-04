@@ -50,3 +50,18 @@ Top 10 articles from taiwanjustice.net mentioning hu-ping:
 10. **2020-01-02** — [陳破空縱論天下影音輯](https://web.archive.org/web/20251210000945/https://taiwanjustice.net/%E9%99%B3%E7%A0%B4%E7%A9%BA%E7%B8%B1%E8%AB%96%E5%A4%A9%E4%B8%8B%E5%BD%B1%E9%9F%B3%E8%BC%AF-6/)
    - *103萬！港人大遊行，便衣警作亂。胡總洩露黨國機密。美總統將訪中？美中航母對峙...*
    - Score: 175
+
+## Works
+
+**胡平** has **0** articles where they appear in the title (column articles) and **29** additional articles that mention them in the body.
+
+
+### Body Mentions (29 articles)
+
+Articles by other authors that mention **胡平**: See [[sources/taiwanjustice-net|taiwanjustice.net source hub]] for the full article index. Top mentions by score:
+
+1. **2022-02-09** — [陳破空專欄](https://web.archive.org/web/20240715150935/https://www.taiwanjustice.net/?cat=533&filter_by=random_posts&paged=3) (score: 785)
+2. **2023-01-06** — [國際要聞](https://web.archive.org/web/20240221105603/https://www.taiwanjustice.net/?cat=295&filter_by=random_posts) (score: 720)
+3. **2017-11-30** — [「她們」就是我們—趙思樂《她們的征途》(上)  ◎ 余杰 /民報 2017-11-27](https://web.archive.org/web/20171220122636/http://www.taiwanjustice.net:80/2017/11/30/%E3%80%8C%E5%A5%B9%E5%80%91%E3%80%8D%E5%B0%B1%E6%98%AF%E6%88%91%E5%80%91-%E8%B6%99%E6%80%9D%E6%A8%82%E3%80%8A%E5%A5%B9%E5%80%91%E7%9A%84%E5%BE%81%E9%80%94%E3%80%8B%E4%B8%8A-%E2%97%8E-%E4%BD%99/) (score: 325)
+4. **2020-05-24** — [王丹 陳破空等民運人士發表聲明：習近平正在摧毀東方之珠！](https://web.archive.org/web/20221127060450/https://www.taiwanjustice.net/2020/05/24/%E7%8E%8B%E4%B8%B9-%E9%99%B3%E7%A0%B4%E7%A9%BA%E7%AD%89%E6%B0%91%E9%81%8B%E4%BA%BA%E5%A3%AB%E7%99%BC%E8%A1%A8%E8%81%B2%E6%98%8E%EF%BC%9A%E7%BF%92%E8%BF%91%E5%B9%B3%E6%AD%A3%E5%9C%A8%E6%91%A7%E6%AF%80/) (score: 270)
+5. **2020-05-24** — [王丹 陳破空等民運人士發表聲明：習近平正在摧毀東方之珠！](https://web.archive.org/web/20251205030738/https://taiwanjustice.net/%E7%8E%8B%E4%B8%B9-%E9%99%B3%E7%A0%B4%E7%A9%BA%E7%AD%89%E6%B0%91%E9%81%8B%E4%BA%BA%E5%A3%AB%E7%99%BC%E8%A1%A8%E8%81%B2%E6%98%8E%EF%BC%9A%E7%BF%92%E8%BF%91%E5%B9%B3%E6%AD%A3%E5%9C%A8%E6%91%A7%E6%AF%80/) (score: 265)

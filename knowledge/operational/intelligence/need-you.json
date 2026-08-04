@@ -1,0 +1,25 @@
+{
+  "generated_at": "2026-08-04T08:03:59Z",
+  "max": 5,
+  "count": 2,
+  "items": [
+    {
+      "id": "id_yang-jia-you",
+      "priority": 2,
+      "kind": "identity",
+      "title": "Identity: Charles Yang (yang-jia-you)",
+      "action": "Confirm/link (capture_line_user_id_on_first_sender_message)",
+      "source": "identity_registry",
+      "ts": null
+    },
+    {
+      "id": "id_becky-yang",
+      "priority": 2,
+      "kind": "identity",
+      "title": "Identity: Becky Yang (becky-yang)",
+      "action": "Confirm/link (chinese_name)",
+      "source": "identity_registry",
+      "ts": null
+    }
+  ]
+}

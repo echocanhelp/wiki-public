@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-03
+last_reviewed: 2026-08-04
 ---
 # Zeng Dao-xiong (曾道雄)
 
@@ -53,6 +53,35 @@ Top 9 articles from taiwanjustice.net mentioning zeng-daoxiong:
 9. **2013-11-05** — [千楓新聞_曾道雄領唱_美麗台灣我可愛故鄉 11-05-2013](https://web.archive.org/web/20240425115639/https://www.taiwanjustice.net/?p=24018)
    - *敬請支持‧歡迎訂閱本報newsletter...*
    - Score: 50
+
+
+## Works
+
+**曾道雄** has **6** articles where they appear in the title (column articles) and **3** additional articles that mention them in the body.
+
+
+### 2021 (4 articles)
+
+1. **2021-03-30** — [楊子清老師音樂短講第 19 集：曾道雄老師的老師 – 楊_波柏博士 Dr. Jan Popper](https://web.archive.org/web/20210415105108/https://www.taiwanjustice.net/2021/03/30/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B3%E6%A8%82%E7%9F%AD%E8%AC%9B%E7%AC%AC-19-%E9%9B%86%EF%BC%9A%E6%9B%BE%E9%81%93%E9%9B%84%E8%80%81%E5%B8%AB%E7%9A%84%E8%80%81%E5%B8%AB-%E6%A5%8A_/)
+2. **2021-03-30** — [楊子清老師音樂短講第 18 集：曾道雄老師的老師們](https://web.archive.org/web/20210415115540/https://www.taiwanjustice.net/2021/03/30/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B3%E6%A8%82%E7%9F%AD%E8%AC%9B%E7%AC%AC-18-%E9%9B%86%EF%BC%9A%E6%9B%BE%E9%81%93%E9%9B%84%E8%80%81%E5%B8%AB%E7%9A%84%E8%80%81%E5%B8%AB%E5%80%91/)
+3. **2021-03-30** — [楊子清老師音樂短講第 18 集：曾道雄老師的老師們](https://web.archive.org/web/20250524193846/https://taiwanjustice.net/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B3%E6%A8%82%E7%9F%AD%E8%AC%9B%E7%AC%AC-18-%E9%9B%86%EF%BC%9A%E6%9B%BE%E9%81%93%E9%9B%84%E8%80%81%E5%B8%AB%E7%9A%84%E8%80%81%E5%B8%AB%E5%80%91/)
+4. **2021-03-30** — [楊子清老師音樂短講第 19 集：曾道雄老師的老師 – 楊_波柏博士 Dr. Jan Popper](https://web.archive.org/web/20250615234929/https://taiwanjustice.net/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B3%E6%A8%82%E7%9F%AD%E8%AC%9B%E7%AC%AC-19-%E9%9B%86%EF%BC%9A%E6%9B%BE%E9%81%93%E9%9B%84%E8%80%81%E5%B8%AB%E7%9A%84%E8%80%81%E5%B8%AB-%E6%A5%8A_/)
+
+### 2020 (1 articles)
+
+1. **2020-03-09** — [81歲導演曾道雄不撤演，法雅歌劇為藝文界打氣](https://web.archive.org/web/20250425154204/https://taiwanjustice.net/81%E6%AD%B2%E5%B0%8E%E6%BC%94%E6%9B%BE%E9%81%93%E9%9B%84%E4%B8%8D%E6%92%A4%E6%BC%94%EF%BC%8C%E6%B3%95%E9%9B%85%E6%AD%8C%E5%8A%87%E7%82%BA%E8%97%9D%E6%96%87%E7%95%8C%E6%89%93%E6%B0%A3/)
+
+### 2013 (1 articles)
+
+1. **2013-11-05** — [千楓新聞_曾道雄領唱_美麗台灣我可愛故鄉 11-05-2013](https://web.archive.org/web/20240425115639/https://www.taiwanjustice.net/?p=24018)
+
+### Body Mentions (3 articles)
+
+Articles by other authors that mention **曾道雄**: See [[sources/taiwanjustice-net|taiwanjustice.net source hub]] for the full article index. Top mentions by score:
+
+1. **2023-03-21** — [台美人台加人](https://web.archive.org/web/20240224201842/https://www.taiwanjustice.net/?cat=59&filter_by=random_posts) (score: 680)
+2. **2022-09-02** — [總統府公布遴聘及新聘資政27人國策顧問70人名單](https://web.archive.org/web/20251013095227/https://taiwanjustice.net/%E7%B8%BD%E7%B5%B1%E5%BA%9C%E5%85%AC%E5%B8%83%E9%81%B4%E8%81%98%E5%8F%8A%E6%96%B0%E8%81%98%E8%B3%87%E6%94%BF27%E4%BA%BA%E5%9C%8B%E7%AD%96%E9%A1%A7%E5%95%8F70%E4%BA%BA%E5%90%8D%E5%96%AE/) (score: 140)
+3. **2020-01-12** — [Taiwan Justice | 台灣公義報](https://web.archive.org/web/20250618184758/https://taiwanjustice.net/199287/) (score: 65)
 
 ## Source Notes
 

@@ -50,3 +50,30 @@ Top 10 articles from taiwanjustice.net mentioning wu-lipei:
 10. **2020-05-18** — [520新人事／外交老將掌海基會，李大維沉穩務實](https://web.archive.org/web/20211216094457/https://www.taiwanjustice.net/2020/05/18/520%E6%96%B0%E4%BA%BA%E4%BA%8B%EF%BC%8F%E5%A4%96%E4%BA%A4%E8%80%81%E5%B0%87%E6%8E%8C%E6%B5%B7%E5%9F%BA%E6%9C%83%EF%BC%8C%E6%9D%8E%E5%A4%A7%E7%B6%AD%E6%B2%89%E7%A9%A9%E5%8B%99%E5%AF%A6/)
    - *敬請支持‧歡迎訂閱本報newsletter...*
    - Score: 80
+
+## Works
+
+**吳立埔** has **3** articles where they appear in the title (column articles) and **10** additional articles that mention them in the body.
+
+
+### 2016 (1 articles)
+
+1. **2016-08-30** — [吳澧培再開砲 直指張盛和謊話連篇 ◎自由時報 08-30-2016](https://web.archive.org/web/20240620181046/https://www.taiwanjustice.net/?p=91242)
+
+### 2015 (1 articles)
+
+1. **2015-10-12** — [我的人生︰一個堅持和無數的巧合 ◎吳澧培/吳澧培回憶錄前言 10-12-2015](https://web.archive.org/web/20240425080646/https://www.taiwanjustice.net/?p=66163)
+
+### 2013 (1 articles)
+
+1. **2013-04-23** — [《新台灣加油》2013.04.23_從阿扁的遭遇看馬政府下的台灣獄政+綠營吳澧培等五大案，告檢濫訴](https://web.archive.org/web/20210620125731/https://www.taiwanjustice.net/2013/04/23/%E3%80%8A%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9%E3%80%8B2013-04-23_%E5%BE%9E%E9%98%BF%E6%89%81%E7%9A%84%E9%81%AD%E9%81%87%E7%9C%8B%E9%A6%AC%E6%94%BF%E5%BA%9C%E4%B8%8B%E7%9A%84%E5%8F%B0%E7%81%A3/)
+
+### Body Mentions (10 articles)
+
+Articles by other authors that mention **吳立埔**: See [[sources/taiwanjustice-net|taiwanjustice.net source hub]] for the full article index. Top mentions by score:
+
+1. **2015-10-12** — [專欄](https://web.archive.org/web/20240301081358/https://www.taiwanjustice.net/?cat=146&filter_by=random_posts) (score: 740)
+2. **undated** — [ScreenHunter_14 Aug. 05 22.40](https://web.archive.org/web/20230603183449/https://www.taiwanjustice.net/2012/08/05/%e5%8f%b0%e7%81%a3%e7%9a%84%e5%8d%b1%e6%a9%9f%e8%88%87%e8%bd%89%e6%a9%9f1-%e5%90%b3%e6%be%a7%e5%9f%b9%e5%85%88%e7%94%9f%e5%b0%88%e9%a1%8c%e6%bc%94%e8%ac%9b-08052012-%e5%a4%a7%e6%b4%9b%e6%9d%89/screenhunter_14-aug-05-22-40/) (score: 700)
+3. **2019-04-11** — [有話好說](https://web.archive.org/web/20240520034910/https://www.taiwanjustice.net/?cat=22510&filter_by=random_posts&paged=192) (score: 700)
+4. **2017-09-04** — [〈洛杉磯看台〉 拼了吧！◎ 廖清山 2017-09-04](https://web.archive.org/web/20240221103129/https://www.taiwanjustice.net/?p=125414) (score: 210)
+5. **2020-02-02** — [賴清德應邀赴華府 出席全美祈禱早餐會， 將拜會國際事務智庫僑界](https://web.archive.org/web/20251209223029/https://taiwanjustice.net/%E8%B3%B4%E6%B8%85%E5%BE%B7%E6%87%89%E9%82%80%E8%B5%B4%E8%8F%AF%E5%BA%9C-%E5%87%BA%E5%B8%AD%E5%85%A8%E7%BE%8E%E7%A5%88%E7%A6%B1%E6%97%A9%E9%A4%90%E6%9C%83/) (score: 170)

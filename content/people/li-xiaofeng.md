@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-03
+last_reviewed: 2026-08-04
 ---
 
 # Li Hsiao-feng / 李筱峰
@@ -53,6 +53,32 @@ Top 10 articles from taiwanjustice.net mentioning li-xiaofeng:
 10. **2018-01-04** — [大洛杉磯台灣會館](https://web.archive.org/web/20240224183824/https://www.taiwanjustice.net/?cat=44673&filter_by=random_posts)
    - *January 4, 2018...*
    - Score: 795
+
+
+## Works
+
+**李筱峰** has **4** articles where they appear in the title (column articles) and **1170** additional articles that mention them in the body.
+
+
+### Undated (3 articles)
+
+1. **undated** — [賤民罵人賤民 ◎李筱峰 / 民報 2017-11-05](https://web.archive.org/web/20171107225307/http://www.taiwanjustice.net:80/2017/11/05/%E8%B3%A4%E6%B0%91%E7%BD%B5%E4%BA%BA%E8%B3%A4%E6%B0%91-%E2%97%8E%E6%9D%8E%E7%AD%B1%E5%B3%B0-%E6%B0%91%E5%A0%B1-2017-11-05/)
+2. **undated** — [台灣地方自古不屬中國/李筱峰/系列;1-5](https://web.archive.org/web/20171109042223/http://www.taiwanjustice.net:80/%E5%8F%B0%E7%81%A3%E6%96%87%E5%8C%96/%E5%8F%B0%E7%81%A3%E5%9C%B0%E6%96%B9%E8%87%AA%E5%8F%A4%E4%B8%8D%E5%B1%AC%E4%B8%AD%E5%9C%8B%E6%9D%8E%E7%AD%B1%E5%B3%B0%E7%B3%BB%E5%88%971-5/)
+3. **undated** — [台灣地方自古不屬中國/李筱峰/系列;1-5](https://web.archive.org/web/20231208135952/https://www.taiwanjustice.net/?page_id=143)
+
+### 2022 (1 articles)
+
+1. **2022-08-15** — [論文爭議 綠質疑國民黨雙重標準，藍：尊重各大學認定，李筱峰開酸KMT](https://web.archive.org/web/20251013095458/https://taiwanjustice.net/%E8%AB%96%E6%96%87%E7%88%AD%E8%AD%B0-%E7%B6%A0%E8%B3%AA%E7%96%91%E5%9C%8B%E6%B0%91%E9%BB%A8%E9%9B%99%E9%87%8D%E6%A8%99%E6%BA%96%EF%BC%8C%E8%97%8D%EF%BC%9A%E5%B0%8A%E9%87%8D%E5%90%84%E5%A4%A7%E5%AD%B8/)
+
+### Body Mentions (1170 articles)
+
+Articles by other authors that mention **李筱峰**: See [[sources/taiwanjustice-net|taiwanjustice.net source hub]] for the full article index. Top mentions by score:
+
+1. **2017-11-13** — [林保華專欄](https://web.archive.org/web/20240221113229/https://www.taiwanjustice.net/?cat=144&filter_by=popular) (score: 825)
+2. **2022-07-10** — [陳茂雄專欄](https://web.archive.org/web/20240425084829/https://www.taiwanjustice.net/?cat=122&filter_by=random_posts&paged=202) (score: 825)
+3. **2017-03-07** — [余杰專欄](https://web.archive.org/web/20240715140333/https://www.taiwanjustice.net/?cat=20231&filter_by=popular&paged=3) (score: 825)
+4. **2017-11-22** — [專欄](https://web.archive.org/web/20240221105045/https://www.taiwanjustice.net/?cat=146&filter_by=popular) (score: 820)
+5. **2022-08-22** — [余杰專欄](https://web.archive.org/web/20240619175142/https://www.taiwanjustice.net/?cat=20231&filter_by=featured) (score: 810)
 
 ## Related Pages
 

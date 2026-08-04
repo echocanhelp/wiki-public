@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-08-03",
+  "last_run": "2026-08-04",
   "standards_version_seen": 8,
   "runs": [
     {
@@ -135,114 +135,139 @@
       "selected": 5,
       "standards_version": 8,
       "standards_bumped": false
+    },
+    {
+      "date": "2026-08-04",
+      "candidates": 29215,
+      "selected": 5,
+      "standards_version": 8,
+      "standards_bumped": false
     }
   ],
   "queue": [
     {
+      "path": "people/lin-rongsong.md",
+      "findings": [
+        "NO_IDENTITY_SNAPSHOT",
+        "NO_RELATED_PAGES",
+        "NO_LAST_REVIEWED",
+        "LINK_UNLINKED_ENTITY"
+      ],
+      "hygiene": [
+        "LINK_UNLINKED_ENTITY: people/lin-rongsong.md → organizations/taiwanese-american-historical-society",
+        "LINK_UNLINKED_ENTITY: people/lin-rongsong.md → people/simon-lin",
+        "LINK_UNLINKED_ENTITY: people/lin-rongsong.md → organizations/taiwanjustice-net",
+        "LINK_UNLINKED_ENTITY: people/lin-rongsong.md → sources/taiwanjustice-net"
+      ],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "people/zou-jingwen.md",
+      "findings": [
+        "NO_IDENTITY_SNAPSHOT",
+        "NO_RELATED_PAGES",
+        "NO_LAST_REVIEWED",
+        "LINK_UNLINKED_ENTITY"
+      ],
+      "hygiene": [
+        "LINK_UNLINKED_ENTITY: people/zou-jingwen.md → organizations/taiwanese-american-historical-society",
+        "LINK_UNLINKED_ENTITY: people/zou-jingwen.md → organizations/taiwanjustice-net",
+        "LINK_UNLINKED_ENTITY: people/zou-jingwen.md → sources/taiwanjustice-net"
+      ],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "people/zheng-wenlong.md",
+      "findings": [
+        "NO_IDENTITY_SNAPSHOT",
+        "NO_RELATED_PAGES",
+        "NO_LAST_REVIEWED",
+        "LINK_UNLINKED_ENTITY"
+      ],
+      "hygiene": [
+        "LINK_UNLINKED_ENTITY: people/zheng-wenlong.md → organizations/taiwanese-american-historical-society",
+        "LINK_UNLINKED_ENTITY: people/zheng-wenlong.md → organizations/taiwanjustice-net",
+        "LINK_UNLINKED_ENTITY: people/zheng-wenlong.md → sources/taiwanjustice-net"
+      ],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "people/zheng-qinren.md",
+      "findings": [
+        "NO_IDENTITY_SNAPSHOT",
+        "NO_RELATED_PAGES",
+        "NO_LAST_REVIEWED",
+        "LINK_UNLINKED_ENTITY"
+      ],
+      "hygiene": [
+        "LINK_UNLINKED_ENTITY: people/zheng-qinren.md → organizations/taiwanese-american-historical-society",
+        "LINK_UNLINKED_ENTITY: people/zheng-qinren.md → organizations/taiwanjustice-net",
+        "LINK_UNLINKED_ENTITY: people/zheng-qinren.md → sources/taiwanjustice-net"
+      ],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "people/wang-qiaoling.md",
+      "findings": [
+        "NO_IDENTITY_SNAPSHOT",
+        "NO_RELATED_PAGES",
+        "NO_LAST_REVIEWED",
+        "LINK_UNLINKED_ENTITY"
+      ],
+      "hygiene": [
+        "LINK_UNLINKED_ENTITY: people/wang-qiaoling.md → organizations/taiwanese-american-historical-society",
+        "LINK_UNLINKED_ENTITY: people/wang-qiaoling.md → organizations/taiwanjustice-net",
+        "LINK_UNLINKED_ENTITY: people/wang-qiaoling.md → sources/taiwanjustice-net"
+      ],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
       "path": "people/bai-peiyu.md",
       "findings": [
-        "NO_IDENTITY_SNAPSHOT",
-        "NO_RELATED_PAGES",
-        "NO_LAST_REVIEWED",
-        "LINK_UNLINKED_ENTITY"
+        "DESC_NO_TITLE_MENTION",
+        "LINKS_LOW_DENSITY",
+        "STRUCT_NO_IDENTITY",
+        "READABILITY_MANY_LONG_SENTENCES_5"
       ],
-      "hygiene": [
-        "LINK_UNLINKED_ENTITY: people/bai-peiyu.md → organizations/taiwanese-american-historical-society",
-        "LINK_UNLINKED_ENTITY: people/bai-peiyu.md → organizations/taiwanjustice-net",
-        "LINK_UNLINKED_ENTITY: people/bai-peiyu.md → sources/taiwanjustice-net"
-      ],
+      "hygiene": [],
       "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "people/li-xiaofeng.md",
-      "findings": [
-        "NO_IDENTITY_SNAPSHOT",
-        "NO_RELATED_PAGES",
-        "NO_LAST_REVIEWED",
-        "LINK_UNLINKED_ENTITY"
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
       ],
-      "hygiene": [
-        "LINK_UNLINKED_ENTITY: people/li-xiaofeng.md → organizations/taiwanese-american-historical-society",
-        "LINK_UNLINKED_ENTITY: people/li-xiaofeng.md → organizations/taiwanjustice-net",
-        "LINK_UNLINKED_ENTITY: people/li-xiaofeng.md → sources/taiwanjustice-net"
-      ],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "people/tang-peili.md",
-      "findings": [
-        "NO_IDENTITY_SNAPSHOT",
-        "NO_RELATED_PAGES",
-        "NO_LAST_REVIEWED",
-        "LINK_UNLINKED_ENTITY"
-      ],
-      "hygiene": [
-        "LINK_UNLINKED_ENTITY: people/tang-peili.md → organizations/taiwanese-american-historical-society",
-        "LINK_UNLINKED_ENTITY: people/tang-peili.md → organizations/taiwanjustice-net",
-        "LINK_UNLINKED_ENTITY: people/tang-peili.md → sources/taiwanjustice-net"
-      ],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "people/yang-yuanxun.md",
-      "findings": [
-        "NO_IDENTITY_SNAPSHOT",
-        "NO_RELATED_PAGES",
-        "NO_LAST_REVIEWED",
-        "LINK_UNLINKED_ENTITY"
-      ],
-      "hygiene": [
-        "LINK_UNLINKED_ENTITY: people/yang-yuanxun.md → organizations/taiwanese-american-historical-society",
-        "LINK_UNLINKED_ENTITY: people/yang-yuanxun.md → organizations/taiwanjustice-net",
-        "LINK_UNLINKED_ENTITY: people/yang-yuanxun.md → sources/taiwanjustice-net"
-      ],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "people/zheng-bingquan.md",
-      "findings": [
-        "NO_IDENTITY_SNAPSHOT",
-        "NO_RELATED_PAGES",
-        "NO_LAST_REVIEWED",
-        "LINK_UNLINKED_ENTITY"
-      ],
-      "hygiene": [
-        "LINK_UNLINKED_ENTITY: people/zheng-bingquan.md → organizations/taiwanese-american-historical-society",
-        "LINK_UNLINKED_ENTITY: people/zheng-bingquan.md → people/zheng-bing-quan",
-        "LINK_UNLINKED_ENTITY: people/zheng-bingquan.md → organizations/taiwanjustice-net",
-        "LINK_UNLINKED_ENTITY: people/zheng-bingquan.md → sources/taiwanjustice-net"
-      ],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
+      "source": "content-analyzer",
+      "priority": "high"
     },
     {
       "path": "people/cai-shunyu.md",
@@ -268,11 +293,12 @@
       "findings": [
         "DESC_NO_TITLE_MENTION",
         "FRESHNESS_NO_REVIEW_DATE",
-        "LINKS_LOW_DENSITY",
+        "LINKS_NO_LINKS",
         "LINKS_NO_RELATED",
         "STRUCT_NO_REVIEW_DATE",
         "STRUCT_NO_IDENTITY",
-        "STRUCT_NO_RELATED"
+        "STRUCT_NO_RELATED",
+        "READABILITY_MANY_LONG_SENTENCES_5"
       ],
       "hygiene": [],
       "instructions": [
@@ -289,7 +315,7 @@
       "findings": [
         "DESC_NO_TITLE_MENTION",
         "FRESHNESS_NO_REVIEW_DATE",
-        "LINKS_LOW_DENSITY",
+        "LINKS_NO_LINKS",
         "LINKS_NO_RELATED",
         "STRUCT_NO_REVIEW_DATE",
         "STRUCT_NO_IDENTITY",
@@ -310,11 +336,12 @@
       "findings": [
         "DESC_NO_TITLE_MENTION",
         "FRESHNESS_NO_REVIEW_DATE",
-        "LINKS_LOW_DENSITY",
+        "LINKS_NO_LINKS",
         "LINKS_NO_RELATED",
         "STRUCT_NO_REVIEW_DATE",
         "STRUCT_NO_IDENTITY",
-        "STRUCT_NO_RELATED"
+        "STRUCT_NO_RELATED",
+        "READABILITY_MANY_LONG_SENTENCES_10"
       ],
       "hygiene": [],
       "instructions": [
@@ -330,11 +357,12 @@
       "path": "people/hu-ping.md",
       "findings": [
         "FRESHNESS_NO_REVIEW_DATE",
-        "LINKS_LOW_DENSITY",
+        "LINKS_NO_LINKS",
         "LINKS_NO_RELATED",
         "STRUCT_NO_REVIEW_DATE",
         "STRUCT_NO_IDENTITY",
-        "STRUCT_NO_RELATED"
+        "STRUCT_NO_RELATED",
+        "READABILITY_MANY_LONG_SENTENCES_5"
       ],
       "hygiene": [],
       "instructions": [
@@ -351,7 +379,7 @@
       "findings": [
         "DESC_NO_TITLE_MENTION",
         "FRESHNESS_NO_REVIEW_DATE",
-        "LINKS_LOW_DENSITY",
+        "LINKS_NO_LINKS",
         "LINKS_NO_RELATED",
         "STRUCT_NO_REVIEW_DATE",
         "STRUCT_NO_IDENTITY",
@@ -388,13 +416,11 @@
       "priority": "high"
     },
     {
-      "path": "people/li-yisheng.md",
+      "path": "people/li-xiaofeng.md",
       "findings": [
-        "FRESHNESS_NO_REVIEW_DATE",
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_REVIEW_DATE",
-        "STRUCT_NO_IDENTITY",
-        "STRUCT_NO_RELATED"
+        "DESC_NO_TITLE_MENTION",
+        "LINKS_LOW_DENSITY",
+        "STRUCT_NO_IDENTITY"
       ],
       "hygiene": [],
       "instructions": [
@@ -404,14 +430,12 @@
         "Commit only (no publish)"
       ],
       "source": "content-analyzer",
-      "priority": "high"
+      "priority": "medium"
     },
     {
-      "path": "people/lin-rongsong.md",
+      "path": "people/li-yisheng.md",
       "findings": [
-        "DESC_NO_TITLE_MENTION",
         "FRESHNESS_NO_REVIEW_DATE",
-        "LINKS_LOW_DENSITY",
         "LINKS_NO_RELATED",
         "STRUCT_NO_REVIEW_DATE",
         "STRUCT_NO_IDENTITY",
@@ -432,7 +456,7 @@
       "findings": [
         "DESC_NO_TITLE_MENTION",
         "FRESHNESS_NO_REVIEW_DATE",
-        "LINKS_LOW_DENSITY",
+        "LINKS_NO_LINKS",
         "LINKS_NO_RELATED",
         "STRUCT_NO_REVIEW_DATE",
         "STRUCT_NO_IDENTITY",
@@ -452,11 +476,12 @@
       "path": "people/sang-pu.md",
       "findings": [
         "FRESHNESS_NO_REVIEW_DATE",
-        "LINKS_LOW_DENSITY",
+        "LINKS_NO_LINKS",
         "LINKS_NO_RELATED",
         "STRUCT_NO_REVIEW_DATE",
         "STRUCT_NO_IDENTITY",
-        "STRUCT_NO_RELATED"
+        "STRUCT_NO_RELATED",
+        "READABILITY_MANY_LONG_SENTENCES_9"
       ],
       "hygiene": [],
       "instructions": [
@@ -488,14 +513,11 @@
       "priority": "high"
     },
     {
-      "path": "people/wang-dan.md",
+      "path": "people/tang-peili.md",
       "findings": [
-        "FRESHNESS_NO_REVIEW_DATE",
+        "DESC_NO_TITLE_MENTION",
         "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_REVIEW_DATE",
-        "STRUCT_NO_IDENTITY",
-        "STRUCT_NO_RELATED"
+        "STRUCT_NO_IDENTITY"
       ],
       "hygiene": [],
       "instructions": [
@@ -505,18 +527,18 @@
         "Commit only (no publish)"
       ],
       "source": "content-analyzer",
-      "priority": "high"
+      "priority": "medium"
     },
     {
-      "path": "people/wang-qiaoling.md",
+      "path": "people/wang-dan.md",
       "findings": [
-        "DESC_NO_TITLE_MENTION",
         "FRESHNESS_NO_REVIEW_DATE",
-        "LINKS_LOW_DENSITY",
+        "LINKS_NO_LINKS",
         "LINKS_NO_RELATED",
         "STRUCT_NO_REVIEW_DATE",
         "STRUCT_NO_IDENTITY",
-        "STRUCT_NO_RELATED"
+        "STRUCT_NO_RELATED",
+        "READABILITY_MANY_LONG_SENTENCES_6"
       ],
       "hygiene": [],
       "instructions": [
@@ -533,11 +555,12 @@
       "findings": [
         "DESC_NO_TITLE_MENTION",
         "FRESHNESS_NO_REVIEW_DATE",
-        "LINKS_LOW_DENSITY",
+        "LINKS_NO_LINKS",
         "LINKS_NO_RELATED",
         "STRUCT_NO_REVIEW_DATE",
         "STRUCT_NO_IDENTITY",
-        "STRUCT_NO_RELATED"
+        "STRUCT_NO_RELATED",
+        "READABILITY_MANY_LONG_SENTENCES_4"
       ],
       "hygiene": [],
       "instructions": [
@@ -554,11 +577,12 @@
       "findings": [
         "DESC_NO_TITLE_MENTION",
         "FRESHNESS_NO_REVIEW_DATE",
-        "LINKS_LOW_DENSITY",
+        "LINKS_NO_LINKS",
         "LINKS_NO_RELATED",
         "STRUCT_NO_REVIEW_DATE",
         "STRUCT_NO_IDENTITY",
-        "STRUCT_NO_RELATED"
+        "STRUCT_NO_RELATED",
+        "READABILITY_MANY_LONG_SENTENCES_8"
       ],
       "hygiene": [],
       "instructions": [
@@ -574,11 +598,12 @@
       "path": "people/wu-lipei.md",
       "findings": [
         "FRESHNESS_NO_REVIEW_DATE",
-        "LINKS_LOW_DENSITY",
+        "LINKS_NO_LINKS",
         "LINKS_NO_RELATED",
         "STRUCT_NO_REVIEW_DATE",
         "STRUCT_NO_IDENTITY",
-        "STRUCT_NO_RELATED"
+        "STRUCT_NO_RELATED",
+        "READABILITY_MANY_LONG_SENTENCES_5"
       ],
       "hygiene": [],
       "instructions": [
@@ -594,11 +619,12 @@
       "path": "people/xia-ming.md",
       "findings": [
         "FRESHNESS_NO_REVIEW_DATE",
-        "LINKS_LOW_DENSITY",
+        "LINKS_NO_LINKS",
         "LINKS_NO_RELATED",
         "STRUCT_NO_REVIEW_DATE",
         "STRUCT_NO_IDENTITY",
-        "STRUCT_NO_RELATED"
+        "STRUCT_NO_RELATED",
+        "READABILITY_MANY_LONG_SENTENCES_6"
       ],
       "hygiene": [],
       "instructions": [
@@ -611,15 +637,33 @@
       "priority": "high"
     },
     {
+      "path": "people/yang-yuanxun.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "LINKS_LOW_DENSITY",
+        "STRUCT_NO_IDENTITY"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ],
+      "source": "content-analyzer",
+      "priority": "medium"
+    },
+    {
       "path": "people/yang-yueqing.md",
       "findings": [
         "DESC_NO_TITLE_MENTION",
         "FRESHNESS_NO_REVIEW_DATE",
-        "LINKS_LOW_DENSITY",
+        "LINKS_NO_LINKS",
         "LINKS_NO_RELATED",
         "STRUCT_NO_REVIEW_DATE",
         "STRUCT_NO_IDENTITY",
-        "STRUCT_NO_RELATED"
+        "STRUCT_NO_RELATED",
+        "READABILITY_MANY_LONG_SENTENCES_7"
       ],
       "hygiene": [],
       "instructions": [
@@ -636,11 +680,12 @@
       "findings": [
         "DESC_NO_TITLE_MENTION",
         "FRESHNESS_NO_REVIEW_DATE",
-        "LINKS_LOW_DENSITY",
+        "LINKS_NO_LINKS",
         "LINKS_NO_RELATED",
         "STRUCT_NO_REVIEW_DATE",
         "STRUCT_NO_IDENTITY",
-        "STRUCT_NO_RELATED"
+        "STRUCT_NO_RELATED",
+        "READABILITY_MANY_LONG_SENTENCES_6"
       ],
       "hygiene": [],
       "instructions": [
@@ -657,7 +702,7 @@
       "findings": [
         "DESC_NO_TITLE_MENTION",
         "FRESHNESS_NO_REVIEW_DATE",
-        "LINKS_LOW_DENSITY",
+        "LINKS_NO_LINKS",
         "LINKS_NO_RELATED",
         "STRUCT_NO_REVIEW_DATE",
         "STRUCT_NO_IDENTITY",
@@ -678,11 +723,12 @@
       "findings": [
         "DESC_NO_TITLE_MENTION",
         "FRESHNESS_NO_REVIEW_DATE",
-        "LINKS_LOW_DENSITY",
+        "LINKS_NO_LINKS",
         "LINKS_NO_RELATED",
         "STRUCT_NO_REVIEW_DATE",
         "STRUCT_NO_IDENTITY",
-        "STRUCT_NO_RELATED"
+        "STRUCT_NO_RELATED",
+        "READABILITY_MANY_LONG_SENTENCES_4"
       ],
       "hygiene": [],
       "instructions": [
@@ -695,15 +741,11 @@
       "priority": "high"
     },
     {
-      "path": "people/zheng-qinren.md",
+      "path": "people/zheng-bingquan.md",
       "findings": [
         "DESC_NO_TITLE_MENTION",
-        "FRESHNESS_NO_REVIEW_DATE",
         "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_REVIEW_DATE",
-        "STRUCT_NO_IDENTITY",
-        "STRUCT_NO_RELATED"
+        "STRUCT_NO_IDENTITY"
       ],
       "hygiene": [],
       "instructions": [
@@ -713,57 +755,15 @@
         "Commit only (no publish)"
       ],
       "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "people/zheng-wenlong.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "FRESHNESS_NO_REVIEW_DATE",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_REVIEW_DATE",
-        "STRUCT_NO_IDENTITY",
-        "STRUCT_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "people/zou-jingwen.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "FRESHNESS_NO_REVIEW_DATE",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_REVIEW_DATE",
-        "STRUCT_NO_IDENTITY",
-        "STRUCT_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
+      "priority": "medium"
     }
   ],
-  "last_candidates": 29207,
+  "last_candidates": 29215,
   "last_selected": [
-    "people/bai-peiyu.md",
-    "people/li-xiaofeng.md",
-    "people/tang-peili.md",
-    "people/yang-yuanxun.md",
-    "people/zheng-bingquan.md"
+    "people/lin-rongsong.md",
+    "people/zou-jingwen.md",
+    "people/zheng-wenlong.md",
+    "people/zheng-qinren.md",
+    "people/wang-qiaoling.md"
   ]
 }

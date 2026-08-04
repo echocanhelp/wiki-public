@@ -1,17 +1,11 @@
-## Site design audit — 2026-08-03 05:05
+## Site design audit — 2026-08-04 04:20
 
 - pages_md=313
-- critical=0 high=0 medium=1
+- critical=0 high=0 medium=0
 - heals_suggested=none
 
 ### Summary
-- **SITE_DESIGN_STATUS: WARN**
-
-### MEDIUM (1)
-- **C2** stub/thin bodies (<200 chars): 3
-  - `people/li-yisheng.md`
-  - `people/shen-zizai.md`
-  - `people/cai-shunyu.md`
+- **SITE_DESIGN_STATUS: OK**
 
 ### INFO (2)
 - **B2** pinned featured pages: 47

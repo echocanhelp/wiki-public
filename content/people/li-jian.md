@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-03
+last_reviewed: 2026-08-04
 ---
 # Li Jian (李堅)
 
@@ -56,6 +56,39 @@ Top 10 articles from taiwanjustice.net mentioning li-jian:
 10. **2018-01-04** — [大洛杉磯台灣會館](https://web.archive.org/web/20240224183824/https://www.taiwanjustice.net/?cat=44673&filter_by=random_posts)
    - *January 4, 2018...*
    - Score: 795
+
+
+## Works
+
+**李堅** has **8** articles where they appear in the title (column articles) and **1154** additional articles that mention them in the body.
+
+
+### Undated (2 articles)
+
+1. **undated** — [李堅專欄](https://web.archive.org/web/20240522232231/https://www.taiwanjustice.net/?cat=29111&filter_by=popular7)
+2. **undated** — [李堅專欄](https://web.archive.org/web/20240522233444/https://www.taiwanjustice.net/?cat=29111&filter_by=review_high)
+
+### 2018 (4 articles)
+
+1. **2018-10-19** — [李堅專欄](https://web.archive.org/web/20231201233728/https://www.taiwanjustice.net/?cat=29111)
+2. **2018-10-19** — [李堅專欄](https://web.archive.org/web/20240522233919/https://www.taiwanjustice.net/?cat=29111&filter_by=random_posts)
+3. **2018-10-19** — [李堅專欄](https://web.archive.org/web/20240522235729/https://www.taiwanjustice.net/?cat=29111&filter_by=featured)
+4. **2018-10-19** — [李堅專欄](https://web.archive.org/web/20240527034609/https://www.taiwanjustice.net/?cat=29111&filter_by=popular)
+
+### 2015 (2 articles)
+
+1. **2015-08-08** — [貪腐的政治經濟文化學之五- 台灣人愛錢嗎？──後藤新平的詛咒？◎李堅 08-08-2015](https://web.archive.org/web/20240527025931/https://www.taiwanjustice.net/?p=61392)
+2. **2015-08-03** — [審視宋楚瑜‧解剖宋楚瑜 ◎李堅 08-03-2015](https://web.archive.org/web/20240523001401/https://www.taiwanjustice.net/?p=61052)
+
+### Body Mentions (1154 articles)
+
+Articles by other authors that mention **李堅**: See [[sources/taiwanjustice-net|taiwanjustice.net source hub]] for the full article index. Top mentions by score:
+
+1. **2017-11-13** — [林保華專欄](https://web.archive.org/web/20240221113229/https://www.taiwanjustice.net/?cat=144&filter_by=popular) (score: 825)
+2. **2022-07-10** — [陳茂雄專欄](https://web.archive.org/web/20240425084829/https://www.taiwanjustice.net/?cat=122&filter_by=random_posts&paged=202) (score: 825)
+3. **2017-03-07** — [余杰專欄](https://web.archive.org/web/20240715140333/https://www.taiwanjustice.net/?cat=20231&filter_by=popular&paged=3) (score: 825)
+4. **2017-11-22** — [專欄](https://web.archive.org/web/20240221105045/https://www.taiwanjustice.net/?cat=146&filter_by=popular) (score: 820)
+5. **2022-08-22** — [余杰專欄](https://web.archive.org/web/20240619175142/https://www.taiwanjustice.net/?cat=20231&filter_by=featured) (score: 810)
 
 ## Source Notes
 
