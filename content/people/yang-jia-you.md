@@ -13,7 +13,7 @@ tags:
 verification_status: owner_verified
 status: published
 featured: true
-last_reviewed: 2026-08-04
+last_reviewed: 2026-08-05
 ---
 
 # Charles Yang (楊嘉猷 / Yang Jia-you)
@@ -105,47 +105,46 @@ Yang's legacy is the establishment of TAHS as an organization dedicated to docum
 
 ### 2025 (2 articles)
 
-1. **2025-09-05** — [台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元](https://web.archive.org/web/20251107004331/https://taiwanjustice.net/%E5%8F%B0%E7%BE%8E%E4%BA%BA%E6%AD%B7%E5%8F%B2%E5%8D%94%E6%9C%83%E6%96%B0%E4%BB%BB%E6%9C%83%E9%95%B7%E8%A8%B1%E6%99%AF%E9%B4%BB%E6%8E%A5%E6%A4%BD-%E9%96%8B%E5%95%9F%E4%B8%96%E4%BB%A3%E5%82%B3%E6%89%BF/)
-2. **2025-02-24** — [大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念大會](https://web.archive.org/web/20250320212940/https://taiwanjustice.net/%E5%A4%A7%E6%B4%9B%E6%9D%89%E7%A3%AF%E5%8F%B0%E7%81%A3%E6%9C%83%E9%A4%A8%E7%AD%8924%E5%80%8B%E5%8F%B0%E7%BE%8E%E7%A4%BE%E5%9C%98%E8%88%89%E8%88%89%E8%A1%8C228%E8%BF%BD%E6%80%9D%E7%B4%80%E5%BF%B5/)
+1. **2025-09-05** — [[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74|台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元]]
+2. **2025-02-24** — [[articles/taiwanjustice-net/2025/20250320212940_大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念_c62f5c50846fe267|大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念大會]]
 
 ### 2024 (1 articles)
 
-1. **2024-08-18** — ['Tag: 大洛杉磯台灣會館耆老講座'](https://web.archive.org/web/20250216032153/https://taiwanjustice.net/tag/%e5%a4%a7%e6%b4%9b%e6%9d%89%e7%a3%af%e5%8f%b0%e7%81%a3%e6%9c%83%e9%a4%a8%e8%80%86%e8%80%81%e8%ac%9b%e5%ba%a7/)
+1. **2024-08-18** — [[articles/taiwanjustice-net/2025/20250216032153_tag_大洛杉磯台灣會館耆老講座_20053f0a17b89c07|'Tag: 大洛杉磯台灣會館耆老講座']]
 
 ### 2023 (2 articles)
 
-1. **2023-07-30** — [台美人台加人](https://web.archive.org/web/20240425083432/https://www.taiwanjustice.net/?cat=59&filter_by=random_posts&paged=2)
-2. **2023-03-20** — [台美人歷史協會3/25舉辦「如何寫回憶錄(自傳)座談會」](https://web.archive.org/web/20230601053743/https://www.taiwanjustice.net/2023/03/20/%E5%8F%B0%E7%BE%8E%E4%BA%BA%E6%AD%B7%E5%8F%B2%E5%8D%94%E6%9C%833-25%E8%88%89%E8%BE%A6%E3%80%8C%E5%A6%82%E4%BD%95%E5%AF%AB%E5%9B%9E%E6%86%B6%E9%8C%84%E8%87%AA%E5%82%B3%E5%BA%A7%E8%AB%87%E6%9C%83/)
+1. **2023-07-30** — [[articles/taiwanjustice-net/2024/20240425083432_root_99aaa4abcb78ff6d|台美人台加人]]
+2. **2023-03-20** — [[articles/taiwanjustice-net/2023/20230601053743_2023_03_20_台美人歷史協會3-25舉辦_如何寫回憶錄自傳座談會_e0c8343cf2888d43|台美人歷史協會3/25舉辦「如何寫回憶錄(自傳)座談會」]]
 
 ### 2022 (1 articles)
 
-1. **2022-01-05** — [歷史必讀](https://web.archive.org/web/20250209214132/https://taiwanjustice.net/category/history/?filter_by=random_posts)
+1. **2022-01-05** — [[articles/taiwanjustice-net/2025/20250209214132_category_history_d63ced7d2fab0590|歷史必讀]]
 
 ### 2021 (7 articles)
 
-1. **2021-05-17** — [2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明](https://web.archive.org/web/20210616072940/https://www.taiwanjustice.net/2021/05/17/2021%E5%B9%B4%E5%8D%97%E5%8A%A0%E5%B7%9E%E5%83%91%E7%95%8C%E6%94%AF%E6%8C%81%E5%8F%B0%E7%81%A3%E5%8F%83%E8%88%87%E4%B8%96%E7%95%8C%E8%A1%9B%E7%94%9F%E5%A4%A7%E6%9C%83wha%E8%81%AF%E5%90%88%E8%81%B2/)
-2. **2021-05-17** — [2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明](https://web.archive.org/web/20251108183438/https://taiwanjustice.net/2021%E5%B9%B4%E5%8D%97%E5%8A%A0%E5%B7%9E%E5%83%91%E7%95%8C%E6%94%AF%E6%8C%81%E5%8F%B0%E7%81%A3%E5%8F%83%E8%88%87%E4%B8%96%E7%95%8C%E8%A1%9B%E7%94%9F%E5%A4%A7%E6%9C%83wha%E8%81%AF%E5%90%88%E8%81%B2/)
-3. **2021-02-01** — [咱的故鄉 咱的故事-第六講：東瀛歲月 ◎ 楊嘉猷](https://web.archive.org/web/20260209111911/https://taiwanjustice.net/%E5%92%B1%E7%9A%84%E6%95%85%E9%84%89-%E5%92%B1%E7%9A%84%E6%95%85%E4%BA%8B-%E5%8F%B0%E7%BE%8E%E4%BA%BA%E8%BF%BD%E5%B0%8B%E8%87%AA%E6%88%91identity%E7%9A%84%E4%BA%BA%E7%94%9F-%E2%97%8E-%E6%A5%8A/)
-4. **2021-02-01** — [咱的故鄉 咱的故事-台美人追尋自我(Identity)的人生 ◎ 楊嘉猷](https://web.archive.org/web/20220122114800/https://www.taiwanjustice.net/2021/02/01/%E5%92%B1%E7%9A%84%E6%95%85%E9%84%89-%E5%92%B1%E7%9A%84%E6%95%85%E4%BA%8B-%E5%8F%B0%E7%BE%8E%E4%BA%BA%E8%BF%BD%E5%B0%8B%E8%87%AA%E6%88%91identity%E7%9A%84%E4%BA%BA%E7%94%9F-%E2%97%8E-%E6%A5%8A/)
-5. **2021-02-01** — [咱的故鄉 咱的故事-第六講：東瀛歲月 ◎ 楊嘉猷](https://web.archive.org/web/20260209111911/https://taiwanjustice.net/%E5%92%B1%E7%9A%84%E6%95%85%E9%84%89-%E5%92%B1%E7%9A%84%E6%95%85%E4%BA%8B-%E5%8F%B0%E7%BE%8E%E4%BA%BA%E8%BF%BD%E5%B0%8B%E8%87%AA%E6%88%91identity%E7%9A%84%E4%BA%BA%E7%94%9F-%E2%97%8E-%E6%A5%8A/)
-6. **2021-02-01** — ['Daily Archives: February 1, 2021'](https://web.archive.org/web/20250721001751/https://www.taiwanjustice.net/2021/02/01/????-20210201-?????????-???????/)
-7. **2021-02-01** — [咱的故鄉 咱的故事-台美人追尋自我(Identity)的人生 ◎ 楊嘉猷](https://web.archive.org/web/20220122114800/https://www.taiwanjustice.net/2021/02/01/%E5%92%B1%E7%9A%84%E6%95%85%E9%84%89-%E5%92%B1%E7%9A%84%E6%95%85%E4%BA%8B-%E5%8F%B0%E7%BE%8E%E4%BA%BA%E8%BF%BD%E5%B0%8B%E8%87%AA%E6%88%91identity%E7%9A%84%E4%BA%BA%E7%94%9F-%E2%97%8E-%E6%A5%8A/)
+1. **2021-05-17** — [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]]
+2. **2021-05-17** — [[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6|2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]]
+3. **2021-02-01** — [[articles/taiwanjustice-net/2026/20260209111911_咱的故鄉-咱的故事-台美人追尋自我identity的人生-_-楊_b7a181b116206c11|咱的故鄉 咱的故事-第六講：東瀛歲月 ◎ 楊嘉猷]]
+4. **2021-02-01** — [[articles/taiwanjustice-net/2022/20220122114800_2021_02_01_咱的故鄉-咱的故事-台美人追尋自我identity的人生-_-楊_f2a6026ae071fa32|咱的故鄉 咱的故事-台美人追尋自我(Identity)的人生 ◎ 楊嘉猷]]
+5. **2021-02-01** — [[articles/taiwanjustice-net/2026/20260209111911_咱的故鄉-咱的故事-台美人追尋自我identity的人生-_-楊_b7a181b116206c11|咱的故鄉 咱的故事-第六講：東瀛歲月 ◎ 楊嘉猷]]
+6. **2021-02-01** — [[articles/taiwanjustice-net/2025/20250721001751_2021_02_01_96952b9fdf12d52e|'Daily Archives: February 1, 2021']]
+7. **2021-02-01** — [[articles/taiwanjustice-net/2022/20220122114800_2021_02_01_咱的故鄉-咱的故事-台美人追尋自我identity的人生-_-楊_f2a6026ae071fa32|咱的故鄉 咱的故事-台美人追尋自我(Identity)的人生 ◎ 楊嘉猷]]
 
 ### 2020 (2 articles)
 
-1. **2020-09-04** — [旅美五十周年 ◎ 鄭炳全](https://web.archive.org/web/20250209211009/https://taiwanjustice.net/%e6%97%85%e7%be%8e%e4%ba%94%e5%8d%81%e5%91%a8%e5%b9%b4-%e2%97%8e-%e9%84%ad%e7%82%b3%e5%85%a8/)
-2. **2020-09-04** — [旅美五十周年 ◎ 鄭炳全](https://web.archive.org/web/20240302033647/https://www.taiwanjustice.net/?p=222913)
+1. **2020-09-04** — [[articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16|旅美五十周年 ◎ 鄭炳全]]
+2. **2020-09-04** — [[articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3|旅美五十周年 ◎ 鄭炳全]]
 
 ### Body Mentions (9 articles)
 
 Articles by other authors that mention **楊嘉猷**: See [[sources/taiwanjustice-net|taiwanjustice.net source hub]] for the full article index. Top mentions by score:
 
-1. **2023-07-30** — [台美人台加人](https://web.archive.org/web/20240425083432/https://www.taiwanjustice.net/?cat=59&filter_by=random_posts&paged=2) (score: 800)
-2. **2021-02-01** — ['Daily Archives: February 1, 2021'](https://web.archive.org/web/20250721001751/https://www.taiwanjustice.net/2021/02/01/????-20210201-?????????-???????/) (score: 720)
-3. **2021-05-17** — [2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明](https://web.archive.org/web/20210616072940/https://www.taiwanjustice.net/2021/05/17/2021%E5%B9%B4%E5%8D%97%E5%8A%A0%E5%B7%9E%E5%83%91%E7%95%8C%E6%94%AF%E6%8C%81%E5%8F%B0%E7%81%A3%E5%8F%83%E8%88%87%E4%B8%96%E7%95%8C%E8%A1%9B%E7%94%9F%E5%A4%A7%E6%9C%83wha%E8%81%AF%E5%90%88%E8%81%B2/) (score: 520)
-4. **2021-05-17** — [2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明](https://web.archive.org/web/20251108183438/https://taiwanjustice.net/2021%E5%B9%B4%E5%8D%97%E5%8A%A0%E5%B7%9E%E5%83%91%E7%95%8C%E6%94%AF%E6%8C%81%E5%8F%B0%E7%81%A3%E5%8F%83%E8%88%87%E4%B8%96%E7%95%8C%E8%A1%9B%E7%94%9F%E5%A4%A7%E6%9C%83wha%E8%81%AF%E5%90%88%E8%81%B2/) (score: 515)
-5. **2025-09-05** — [台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元](https://web.archive.org/web/20251107004331/https://taiwanjustice.net/%E5%8F%B0%E7%BE%8E%E4%BA%BA%E6%AD%B7%E5%8F%B2%E5%8D%94%E6%9C%83%E6%96%B0%E4%BB%BB%E6%9C%83%E9%95%B7%E8%A8%B1%E6%99%AF%E9%B4%BB%E6%8E%A5%E6%A4%BD-%E9%96%8B%E5%95%9F%E4%B8%96%E4%BB%A3%E5%82%B3%E6%89%BF/) (score: 490)
-
+1. **2023-07-30** — [[articles/taiwanjustice-net/2024/20240425083432_root_99aaa4abcb78ff6d|台美人台加人]] (score: 800)
+2. **2021-02-01** — [[articles/taiwanjustice-net/2025/20250721001751_2021_02_01_96952b9fdf12d52e|'Daily Archives: February 1, 2021']] (score: 720)
+3. **2021-05-17** — [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]] (score: 520)
+4. **2021-05-17** — [[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6|2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]] (score: 515)
+5. **2025-09-05** — [[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74|台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元]] (score: 490)
 
 ## Network
 

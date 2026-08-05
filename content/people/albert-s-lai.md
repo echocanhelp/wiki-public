@@ -13,7 +13,7 @@ tags:
   - 2025-republication
 verification_status: published
 featured: true
-last_reviewed: 2026-07-17
+last_reviewed: 2026-08-05
 ---
 # Dr. Albert S. Lai (賴信雄)
 
@@ -246,6 +246,22 @@ Dr. Lai's dissertation, written in 1971, is described as "not only a profound de
 4. **Cross-generational reference** — 2025 republication linked to NTPC, PCT, and broader Taiwanese church heritage
 5. **Seminarian mentor** — Taught at TTCS where future leaders including Rev. Chaolong Kao were students
 
+
+## Works
+
+**albert-s-lai** has **0** articles where they appear in the title (column articles) and **8** additional articles that mention them in the body.
+
+
+### Body Mentions (8 articles)
+
+Articles by other authors that mention **albert-s-lai**: See [[sources/taiwanjustice-net|taiwanjustice.net source hub]] for the full article index. Top mentions by score:
+
+1. **2020-06-22** — [[articles/taiwanjustice-net/2026/20260118105817_國台辦訓斥國民黨_馬英九就立刻表態效忠-_陳昭_44fcb678ea0c3f42|國台辦訓斥國民黨　馬英九就立刻表態效忠  ◎陳昭南]] (score: 245)
+2. **2020-09-29** — [[articles/taiwanjustice-net/2026/20260121003652_陳日君千里求見教宗遭拒-惹哭網友_義媒為陳日君_fe5af730dd000a00|陳日君千里求見教宗遭拒 惹哭網友，義媒為陳日君打抱不平]] (score: 65)
+3. **2020-01-22** — [[articles/taiwanjustice-net/2026/20260118100613_武漢肺炎疫情擴散_法國議員籲who讓台灣參與_fa27676777a91a3a|武漢肺炎疫情擴散，法國議員籲WHO讓台灣參與]] (score: 60)
+4. **2022-02-26** — [[articles/taiwanjustice-net/2026/20260209113555_連2天同台出席-外界解讀盧秀燕蔡其昌互相較勁_c2a5c76345831246|連2天同台出席 外界解讀盧秀燕蔡其昌互相較勁]] (score: 60)
+5. **2020-09-19** — [[articles/taiwanjustice-net/2026/20260121000856_中國疫苗外交會不會重蹈口罩覆轍_3d385b738e35e94d|中國疫苗外交會不會重蹈口罩覆轍？]] (score: 45)
+
 ## Source Notes and Confidence
 
 ### Source Confidence Legend
@@ -282,3 +298,47 @@ Dr. Lai's dissertation, written in 1971, is described as "not only a profound de
 - [[organizations/national-taiwanese-presbyterian-council|National Taiwanese Presbyterian Council (NTPC)]]
 - [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]]
 - [[people/shoki-coe|Dr. Shoki Coe (黃彰輝 / Shoki Coe)]]
+
+## TJ Citations
+
+Articles from taiwanjustice.net mentioning **Dr. Albert S. Lai (賴信雄)**:
+
+1. **2020-06-22** — [[articles/taiwanjustice-net/2026/20260118105817_國台辦訓斥國民黨_馬英九就立刻表態效忠-_陳昭_44fcb678ea0c3f42|國台辦訓斥國民黨　馬英九就立刻表態效忠  ◎陳昭南]]
+   - Source: https://taiwanjustice.net/%E5%9C%8B%E5%8F%B0%E8%BE%A6%E8%A8%93%E6%96%A5%E5%9C%8B%E6%B0%91%E9%BB%A8%E3%80%80%E9%A6%AC%E8%8B%B1%E4%B9%9D%E5%B0%B1%E7%AB%8B%E5%88%BB%E8%A1%A8%E6%85%8B%E6%95%88%E5%BF%A0-%E2%97%8E%E9%99%B3%E6%98%AD/
+   - Match: alias='Albert S. Lai' where=body pts=40
+   - Score: 245
+
+2. **2020-09-29** — [[articles/taiwanjustice-net/2026/20260121003652_陳日君千里求見教宗遭拒-惹哭網友_義媒為陳日君_fe5af730dd000a00|陳日君千里求見教宗遭拒 惹哭網友，義媒為陳日君打抱不平]]
+   - Source: https://taiwanjustice.net/%E9%99%B3%E6%97%A5%E5%90%9B%E5%8D%83%E9%87%8C%E6%B1%82%E8%A6%8B%E6%95%99%E5%AE%97%E9%81%AD%E6%8B%92-%E6%83%B9%E5%93%AD%E7%B6%B2%E5%8F%8B%EF%BC%8C%E7%BE%A9%E5%AA%92%E7%82%BA%E9%99%B3%E6%97%A5%E5%90%9B/
+   - Match: alias='Albert S. Lai' where=body pts=40
+   - Score: 65
+
+3. **2020-01-22** — [[articles/taiwanjustice-net/2026/20260118100613_武漢肺炎疫情擴散_法國議員籲who讓台灣參與_fa27676777a91a3a|武漢肺炎疫情擴散，法國議員籲WHO讓台灣參與]]
+   - Source: https://taiwanjustice.net/%E6%AD%A6%E6%BC%A2%E8%82%BA%E7%82%8E%E7%96%AB%E6%83%85%E6%93%B4%E6%95%A3%EF%BC%8C%E6%B3%95%E5%9C%8B%E8%AD%B0%E5%93%A1%E7%B1%B2who%E8%AE%93%E5%8F%B0%E7%81%A3%E5%8F%83%E8%88%87/
+   - Match: alias='Albert S. Lai' where=body pts=40
+   - Score: 60
+
+4. **2022-02-26** — [[articles/taiwanjustice-net/2026/20260209113555_連2天同台出席-外界解讀盧秀燕蔡其昌互相較勁_c2a5c76345831246|連2天同台出席 外界解讀盧秀燕蔡其昌互相較勁]]
+   - Source: https://taiwanjustice.net/%E9%80%A32%E5%A4%A9%E5%90%8C%E5%8F%B0%E5%87%BA%E5%B8%AD-%E5%A4%96%E7%95%8C%E8%A7%A3%E8%AE%80%E7%9B%A7%E7%A7%80%E7%87%95%E8%94%A1%E5%85%B6%E6%98%8C%E4%BA%92%E7%9B%B8%E8%BC%83%E5%8B%81/
+   - Match: alias='Albert S. Lai' where=body pts=40
+   - Score: 60
+
+5. **2020-09-19** — [[articles/taiwanjustice-net/2026/20260121000856_中國疫苗外交會不會重蹈口罩覆轍_3d385b738e35e94d|中國疫苗外交會不會重蹈口罩覆轍？]]
+   - Source: https://taiwanjustice.net/%E4%B8%AD%E5%9C%8B%E7%96%AB%E8%8B%97%E5%A4%96%E4%BA%A4%E6%9C%83%E4%B8%8D%E6%9C%83%E9%87%8D%E8%B9%88%E5%8F%A3%E7%BD%A9%E8%A6%86%E8%BD%8D%EF%BC%9F/
+   - Match: alias='Albert S. Lai' where=body pts=40
+   - Score: 45
+
+6. **2020-04-25** — [[articles/taiwanjustice-net/2026/20260122074806_辜寬敏推制憲公投_30日向中選會提案_5ac4b5644ec82fba|辜寬敏推制憲公投，30日向中選會提案]]
+   - Source: https://taiwanjustice.net/%E8%BE%9C%E5%AF%AC%E6%95%8F%E6%8E%A8%E5%88%B6%E6%86%B2%E5%85%AC%E6%8A%95%EF%BC%8C30%E6%97%A5%E5%90%91%E4%B8%AD%E9%81%B8%E6%9C%83%E6%8F%90%E6%A1%88/
+   - Match: alias='Albert S. Lai' where=body pts=40
+   - Score: 40
+
+7. **2020-10-03** — [[articles/taiwanjustice-net/2026/20260123224435_中國軍艦靠近台灣東部外海鄰接區_國防部_即時_7b214389f3e7625d|中國軍艦靠近台灣東部外海鄰接區，國防部：即時應處]]
+   - Source: https://taiwanjustice.net/%E4%B8%AD%E5%9C%8B%E8%BB%8D%E8%89%A6%E9%9D%A0%E8%BF%91%E5%8F%B0%E7%81%A3%E6%9D%B1%E9%83%A8%E5%A4%96%E6%B5%B7%E9%84%B0%E6%8E%A5%E5%8D%80%EF%BC%8C%E5%9C%8B%E9%98%B2%E9%83%A8%EF%BC%9A%E5%8D%B3%E6%99%82/
+   - Match: alias='Albert S. Lai' where=body pts=40
+   - Score: 40
+
+8. **2020-04-23** — [[articles/taiwanjustice-net/2026/20260208204548_台海軍情_公告南北300公里射擊管制區_傳中科院_9ba82a74e3f71867|台海軍情》公告南北300公里射擊管制區，傳中科院測試增程雄二E飛彈]]
+   - Source: https://taiwanjustice.net/%E5%8F%B0%E6%B5%B7%E8%BB%8D%E6%83%85%E3%80%8B%E5%85%AC%E5%91%8A%E5%8D%97%E5%8C%97300%E5%85%AC%E9%87%8C%E5%B0%84%E6%93%8A%E7%AE%A1%E5%88%B6%E5%8D%80%EF%BC%8C%E5%82%B3%E4%B8%AD%E7%A7%91%E9%99%A2/
+   - Match: alias='Albert S. Lai' where=body pts=40
+   - Score: 40

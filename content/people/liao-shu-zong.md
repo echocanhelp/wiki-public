@@ -10,7 +10,7 @@ tags:
   - democratic-activist
 verification_status: pending
 featured: true
-last_reviewed: 2026-07-19
+last_reviewed: 2026-08-05
 ---
 # Liao Shu-zong (廖述宗)
 
@@ -275,6 +275,36 @@ His scientific legacy includes the discovery of the 5-alpha-reductase pathway, w
 
 He passed away in 2017. A memorial tribute was written by 楊嘉猷 (Charles Yang), describing him as "典型在夙昔" (a model of enduring character).
 
+
+## Works
+
+**liao-shu-zong** has **4** articles where they appear in the title (column articles) and **3** additional articles that mention them in the body.
+
+
+### 2021 (1 articles)
+
+1. **2021-04-20** — [[articles/taiwanjustice-net/2025/20251108180838_榮獲廖述宗教授紀念獎_罷韓四君子_是肯定每個_d2e6e5b19ab4b452|榮獲廖述宗教授紀念獎，罷韓四君子：是肯定每個夥伴]]
+
+### 2020 (1 articles)
+
+1. **2020-02-08** — [[articles/taiwanjustice-net/2025/20250328063830_2020年第6屆_natpa-廖述宗教授紀念獎_接受推薦_c74aa78d01af7084|2020年第6屆「NATPA 廖述宗教授紀念獎」接受推薦]]
+
+### 2018 (1 articles)
+
+1. **2018-08-06** — [[articles/taiwanjustice-net/2023/20230130104507_2018_08_06_獲廖述宗紀念獎肯定-林昶佐_繼續全力以赴打拚-_9e34883dc9bc8948|獲廖述宗紀念獎肯定 林昶佐：繼續全力以赴打拚 ◎中央社 2018-08-06]]
+
+### 2015 (1 articles)
+
+1. **2015-03-07** — [[articles/taiwanjustice-net/2024/20240528135924_root_357eb029de9402e8|2015年第一屆「NATPA 廖述宗教授紀念獎」記者會 ◎台灣公義網攝錄]]
+
+### Body Mentions (3 articles)
+
+Articles by other authors that mention **liao-shu-zong**: See [[sources/taiwanjustice-net|taiwanjustice.net source hub]] for the full article index. Top mentions by score:
+
+1. **2022-06-27** — [[articles/taiwanjustice-net/2022/20220927144814_2022_06_27_唐山打人事件顯示中國已淪為_蠅國_-余杰_982bb72dd4fe3353|唐山打人事件顯示中國已淪為「蠅國」◎ 余杰]] (score: 175)
+2. **2022-06-27** — [[articles/taiwanjustice-net/2024/20240619172639_root_9c55093535c7aca4|唐山打人事件顯示中國已淪為「蠅國」◎ 余杰]] (score: 175)
+3. **2022-06-27** — [[articles/taiwanjustice-net/2025/20250213033003_唐山打人事件顯示中國已淪為_蠅國_-余杰_ae7f270f52c6cf8f|唐山打人事件顯示中國已淪為「蠅國」◎ 余杰]] (score: 175)
+
 ## Source Notes and Confidence
 
 - **Content priority A:** 2017 TAHS Publication 生命的執著 (The Persistence of Life) — Liao Shu-zong profile, Part 2, L1–569 (~568 lines), written by 楊遠薰
@@ -292,3 +322,42 @@ He passed away in 2017. A memorial tribute was written by 楊嘉猷 (Charles Yan
 - [[people/huang-gen-shen|Huang Gen-shen (黃根深) — fellow UFAI activist]]
 - [[people/franklin-ping-cheng|Franklin Ping Cheng (程炳成) — TAHS president]]
 - [[people/yang-xin|Yang Hsin (楊信) — fellow 菁英錄 subject]]
+
+## TJ Citations
+
+Articles from taiwanjustice.net mentioning **Liao Shu-zong (廖述宗)**:
+
+1. **2022-06-27** — [[articles/taiwanjustice-net/2022/20220927144814_2022_06_27_唐山打人事件顯示中國已淪為_蠅國_-余杰_982bb72dd4fe3353|唐山打人事件顯示中國已淪為「蠅國」◎ 余杰]]
+   - Source: https://www.taiwanjustice.net/2022/06/27/%E5%94%90%E5%B1%B1%E6%89%93%E4%BA%BA%E4%BA%8B%E4%BB%B6%E9%A1%AF%E7%A4%BA%E4%B8%AD%E5%9C%8B%E5%B7%B2%E6%B7%AA%E7%82%BA%E3%80%8C%E8%A0%85%E5%9C%8B%E3%80%8D%E2%97%8E-%E4%BD%99%E6%9D%B0/
+   - Match: alias='廖述宗' where=body pts=40
+   - Score: 175
+
+2. **2022-06-27** — [[articles/taiwanjustice-net/2024/20240619172639_root_9c55093535c7aca4|唐山打人事件顯示中國已淪為「蠅國」◎ 余杰]]
+   - Source: https://www.taiwanjustice.net/?p=301199
+   - Match: alias='廖述宗' where=body pts=40
+   - Score: 175
+
+3. **2022-06-27** — [[articles/taiwanjustice-net/2025/20250213033003_唐山打人事件顯示中國已淪為_蠅國_-余杰_ae7f270f52c6cf8f|唐山打人事件顯示中國已淪為「蠅國」◎ 余杰]]
+   - Source: https://taiwanjustice.net/%e5%94%90%e5%b1%b1%e6%89%93%e4%ba%ba%e4%ba%8b%e4%bb%b6%e9%a1%af%e7%a4%ba%e4%b8%ad%e5%9c%8b%e5%b7%b2%e6%b7%aa%e7%82%ba%e3%80%8c%e8%a0%85%e5%9c%8b%e3%80%8d%e2%97%8e-%e4%bd%99%e6%9d%b0/
+   - Match: alias='廖述宗' where=body pts=40
+   - Score: 175
+
+4. **2015-03-07** — [[articles/taiwanjustice-net/2024/20240528135924_root_357eb029de9402e8|2015年第一屆「NATPA 廖述宗教授紀念獎」記者會 ◎台灣公義網攝錄]]
+   - Source: https://www.taiwanjustice.net/?p=50041
+   - Match: alias='廖述宗' where=title pts=100
+   - Score: 165
+
+5. **2021-04-20** — [[articles/taiwanjustice-net/2025/20251108180838_榮獲廖述宗教授紀念獎_罷韓四君子_是肯定每個_d2e6e5b19ab4b452|榮獲廖述宗教授紀念獎，罷韓四君子：是肯定每個夥伴]]
+   - Source: https://taiwanjustice.net/%E6%A6%AE%E7%8D%B2%E5%BB%96%E8%BF%B0%E5%AE%97%E6%95%99%E6%8E%88%E7%B4%80%E5%BF%B5%E7%8D%8E%EF%BC%8C%E7%BD%B7%E9%9F%93%E5%9B%9B%E5%90%9B%E5%AD%90%EF%BC%9A%E6%98%AF%E8%82%AF%E5%AE%9A%E6%AF%8F%E5%80%8B/
+   - Match: alias='廖述宗' where=title pts=100
+   - Score: 160
+
+6. **2018-08-06** — [[articles/taiwanjustice-net/2023/20230130104507_2018_08_06_獲廖述宗紀念獎肯定-林昶佐_繼續全力以赴打拚-_9e34883dc9bc8948|獲廖述宗紀念獎肯定 林昶佐：繼續全力以赴打拚 ◎中央社 2018-08-06]]
+   - Source: https://www.taiwanjustice.net/2018/08/06/%E7%8D%B2%E5%BB%96%E8%BF%B0%E5%AE%97%E7%B4%80%E5%BF%B5%E7%8D%8E%E8%82%AF%E5%AE%9A-%E6%9E%97%E6%98%B6%E4%BD%90%EF%BC%9A%E7%B9%BC%E7%BA%8C%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4%E6%89%93%E6%8B%9A-%E2%97%8E/
+   - Match: alias='廖述宗' where=title pts=100
+   - Score: 155
+
+7. **2020-02-08** — [[articles/taiwanjustice-net/2025/20250328063830_2020年第6屆_natpa-廖述宗教授紀念獎_接受推薦_c74aa78d01af7084|2020年第6屆「NATPA 廖述宗教授紀念獎」接受推薦]]
+   - Source: https://taiwanjustice.net/2020%E5%B9%B4%E7%AC%AC6%E5%B1%86%E3%80%8Cnatpa-%E5%BB%96%E8%BF%B0%E5%AE%97%E6%95%99%E6%8E%88%E7%B4%80%E5%BF%B5%E7%8D%8E%E3%80%8D%E6%8E%A5%E5%8F%97%E6%8E%A8%E8%96%A6/
+   - Match: alias='廖述宗' where=title pts=100
+   - Score: 100

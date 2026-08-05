@@ -10,7 +10,7 @@ tags:
 name_en: "Yi Sen Lee"
 name_zh_hanzi: "李意盛"
 verification_status: pending
-last_reviewed: 2026-08-03
+last_reviewed: 2026-08-05
 source_note: "TAHS 2025 org chart + LINE display Yi Lee + handwritten Yi-Sen Lee on chart (owner 2026-08-03)"
 ---
 # Yi Sen Lee (李意盛)
@@ -52,6 +52,18 @@ Private phones and LINE U-ids are **not** published here.
   - Role: Special assistant (特別助理), TAHS 2025; listed as board attendee at Leonard Hsu's installation ceremony.
   - Publisher: Freeman Huang (黃樹人); categories: `usa`, `taiwaneseamerican`, `usa_news`
   - Live URL: [台美人歷史協會新任會長許景鴻接椽](https://echocanhelp.github.io/wiki-public/articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74.html)
+
+
+## Works
+
+**yi-sen-lee** has **0** articles where they appear in the title (column articles) and **1** additional articles that mention them in the body.
+
+
+### Body Mentions (1 articles)
+
+Articles by other authors that mention **yi-sen-lee**: See [[sources/taiwanjustice-net|taiwanjustice.net source hub]] for the full article index. Top mentions by score:
+
+1. **2025-09-05** — [[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74|台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元]] (score: 490)
 
 ## Related Pages
 

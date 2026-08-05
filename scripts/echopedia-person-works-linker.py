@@ -293,11 +293,36 @@ def extract_article_metadata(article_path):
     }
 
 
+def build_echopedia_article_link(article_path):
+    """Build an echopedia wikilink from an article's content path.
+
+    Converts content/articles/taiwanjustice-net/YEAR/FILENAME.md
+    to [[articles/taiwanjustice-net/YEAR/FILENAME|Title]]
+
+    Returns None if the article file doesn't exist on disk.
+    """
+    # article_path is relative to REPO_ROOT, e.g. "content/articles/taiwanjustice-net/2026/20260118105817_...md"
+    full_path = REPO_ROOT / article_path
+    if not full_path.exists():
+        return None
+
+    # Strip "content/" prefix and ".md" extension to get the echopedia path
+    echo_path = article_path
+    if echo_path.startswith("content/"):
+        echo_path = echo_path[len("content/"):]
+    if echo_path.endswith(".md"):
+        echo_path = echo_path[:-3]
+
+    return echo_path
+
+
 def generate_works_section(slug, title_articles, body_articles):
     """Generate a complete ## Works section for a person page.
 
     Includes ALL articles where the person appears in the title (their own
     column articles), grouped by year. Also notes body-mention count.
+
+    Links point to echopedia article pages (wikilinks), not external URLs.
     """
     chinese_name = SLUG_TO_CHINESE.get(slug, slug)
     total_title = len(title_articles)
@@ -325,15 +350,20 @@ def generate_works_section(slug, title_articles, body_articles):
         articles.sort(key=lambda x: x["date"] if x["date"] else "0000-00-00", reverse=True)
         lines.append(f"\n### {year} ({len(articles)} articles)\n")
         for i, meta in enumerate(articles, 1):
-            # Build link — prefer archive_url, fallback to source_url
-            url = meta["archive_url"] if meta["archive_url"] else meta["source_url"]
             title = meta["title"] if meta["title"] else meta["filename"]
             date_str = meta["date"] if meta["date"] else "undated"
 
-            if url:
-                lines.append(f"{i}. **{date_str}** — [{title}]({url})")
+            # Build echopedia wikilink — verify article file exists
+            echo_path = build_echopedia_article_link(meta["path"])
+            if echo_path:
+                lines.append(f"{i}. **{date_str}** — [[{echo_path}|{title}]]")
             else:
-                lines.append(f"{i}. **{date_str}** — {title}")
+                # Fallback: link to source_url if echopedia article doesn't exist
+                url = meta["source_url"] if meta["source_url"] else None
+                if url:
+                    lines.append(f"{i}. **{date_str}** — [{title}]({url})")
+                else:
+                    lines.append(f"{i}. **{date_str}** — {title}")
 
     # Add body mentions section
     if total_body > 0:
@@ -346,14 +376,21 @@ def generate_works_section(slug, title_articles, body_articles):
         for i, article in enumerate(sorted_body, 1):
             meta = extract_article_metadata(article["path"])
             if meta:
-                url = meta["archive_url"] if meta["archive_url"] else meta["source_url"]
                 title = meta["title"] if meta["title"] else meta["filename"]
                 date_str = meta["date"] if meta["date"] else "undated"
                 score = article.get("score", 0)
-                if url:
-                    lines.append(f"{i}. **{date_str}** — [{title}]({url}) (score: {score})")
+
+                # Build echopedia wikilink — verify article file exists
+                echo_path = build_echopedia_article_link(meta["path"])
+                if echo_path:
+                    lines.append(f"{i}. **{date_str}** — [[{echo_path}|{title}]] (score: {score})")
                 else:
-                    lines.append(f"{i}. **{date_str}** — {title} (score: {score})")
+                    # Fallback: link to source_url if echopedia article doesn't exist
+                    url = meta["source_url"] if meta["source_url"] else None
+                    if url:
+                        lines.append(f"{i}. **{date_str}** — [{title}]({url}) (score: {score})")
+                    else:
+                        lines.append(f"{i}. **{date_str}** — {title} (score: {score})")
 
     lines.append("")
     return "\n".join(lines)
@@ -482,17 +519,72 @@ def process_columnist(slug, grouped_hits, dry_run=False):
     return page_updated
 
 
+def verify_person_page_links(slug):
+    """Verify that all links in a person page's ## Works section are echopedia wikilinks.
+
+    Returns a list of issues found (external URLs, missing articles, etc.).
+    """
+    page_path = PEOPLE_DIR / f"{slug}.md"
+    if not page_path.exists():
+        return [(slug, "PAGE_MISSING", str(page_path))]
+
+    content = page_path.read_text(encoding="utf-8")
+    issues = []
+
+    # Find the ## Works section
+    works_match = re.search(r"\n## Works\n(.*?)(?=\n## |\Z)", content, re.DOTALL)
+    if not works_match:
+        return issues  # No Works section, nothing to verify
+
+    works_section = works_match.group(1)
+
+    # Find all markdown links [text](url) — these are external URLs
+    # Wikilinks [[path|title]] are OK
+    for match in re.finditer(r"\[([^\]]+)\]\(([^)]+)\)", works_section):
+        link_text = match.group(1)
+        link_url = match.group(2)
+        # External URLs (http/https/web.archive.org) are issues
+        if link_url.startswith("http://") or link_url.startswith("https://"):
+            issues.append((slug, "EXTERNAL_URL", link_url, link_text))
+
+    return issues
+
+
 def main():
     parser = argparse.ArgumentParser(description="Link Echopedia person pages to all their works")
     parser.add_argument("--all", action="store_true", help="Process all columnists")
     parser.add_argument("--columnist", type=str, help="Process a single columnist by slug")
     parser.add_argument("--dry-run", action="store_true", help="Don't write changes")
     parser.add_argument("--list-slugs", action="store_true", help="List all columnist slugs")
+    parser.add_argument("--verify", action="store_true", help="Verify existing person pages for external links")
     args = parser.parse_args()
 
     if args.list_slugs:
         for slug in ALL_SLUGS:
             print(slug)
+        return
+
+    if args.verify:
+        print("Verifying person pages for external links in ## Works sections...")
+        all_issues = []
+        for slug in ALL_SLUGS:
+            issues = verify_person_page_links(slug)
+            if issues:
+                all_issues.extend(issues)
+                for issue in issues:
+                    if issue[1] == "EXTERNAL_URL":
+                        print(f"  {slug}: EXTERNAL_URL — {issue[2]} ({issue[3]})")
+                    elif issue[1] == "PAGE_MISSING":
+                        print(f"  {slug}: PAGE_MISSING — {issue[2]}")
+
+        print(f"\n{'=' * 60}")
+        print(f"VERIFICATION SUMMARY")
+        print(f"{'=' * 60}")
+        external_count = sum(1 for i in all_issues if i[1] == "EXTERNAL_URL")
+        missing_count = sum(1 for i in all_issues if i[1] == "PAGE_MISSING")
+        print(f"  External URLs found: {external_count}")
+        print(f"  Missing pages: {missing_count}")
+        print(f"  Total issues: {len(all_issues)}")
         return
 
     # Determine which slugs to process
@@ -501,7 +593,7 @@ def main():
     elif args.all:
         slugs = ALL_SLUGS
     else:
-        print("Specify --all, --columnist <slug>, or --list-slugs")
+        print("Specify --all, --columnist <slug>, --list-slugs, or --verify")
         return
 
     if not slugs:

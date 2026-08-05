@@ -9,7 +9,7 @@ tags:
 name_en: "Hsu Shih-huan"
 name_zh_hanzi: "許世環"
 verification_status: pending
-last_reviewed: 2026-08-02
+last_reviewed: 2026-08-05
 source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
 ---
 # Hsu Shih-huan (許世環)
@@ -35,6 +35,18 @@ This page is an **A-tier thin record** for graph linking and member-priority sco
 - **Source:** TAHS 2025 organization chart (台美人歷史協會組織表), Tax ID 46-4005384
 - **Roster:** `knowledge/operational/tahs-priority-roster.md` (L1)
 
+
+## Works
+
+**xu-shihuan** has **0** articles where they appear in the title (column articles) and **1** additional articles that mention them in the body.
+
+
+### Body Mentions (1 articles)
+
+Articles by other authors that mention **xu-shihuan**: See [[sources/taiwanjustice-net|taiwanjustice.net source hub]] for the full article index. Top mentions by score:
+
+1. **2018-07-20** — [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|抗議 南加州台大校友會邀管中閔來年會做專題演講 ◎國立台灣大學校友 2018-07-19]] (score: 230)
+
 ## Source Notes and Confidence
 
 - **High:** Name + 2025 titled role as printed on the society org chart (owner-held copy, 2026-08-03 capture)
@@ -47,3 +59,12 @@ This page is an **A-tier thin record** for graph linking and member-priority sco
 - [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]] — President (會長)
 - [[people/yang-jia-you|Charles Yang (楊嘉猷)]] — Treasurer (財務長); founding president
 - [[people/freeman-huang|Freeman Huang (黃樹人)]] — Secretary (秘書)
+
+## TJ Citations
+
+Articles from taiwanjustice.net mentioning **Hsu Shih-huan (許世環)**:
+
+1. **2018-07-20** — [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|抗議 南加州台大校友會邀管中閔來年會做專題演講 ◎國立台灣大學校友 2018-07-19]]
+   - Source: https://www.taiwanjustice.net/2018/07/20/%E6%8A%97%E8%AD%B0-%E5%8D%97%E5%8A%A0%E5%B7%9E%E5%8F%B0%E5%A4%A7%E6%A0%A1%E5%8F%8B%E6%9C%83%E9%82%80%E7%AE%A1%E4%B8%AD%E9%96%94%E4%BE%86%E5%B9%B4%E6%9C%83%E5%81%9A%E5%B0%88%E9%A1%8C%E6%BC%94%E8%AC%9B/
+   - Match: alias='許世環' where=body pts=40
+   - Score: 230

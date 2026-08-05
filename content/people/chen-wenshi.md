@@ -8,7 +8,7 @@ tags:
   - artist
   - entrepreneur
 verification_status: pending
-last_reviewed: 2026-07-23
+last_reviewed: 2026-08-05
 ---
 # 陳文石 (Chen Wenshi)
 
@@ -103,6 +103,30 @@ Chen Wenshi is profiled in the 2023 TAHS Publication (台美菁英錄 第二輯)
 - He views his life journey as embodying the resilience of the Taiwanese people through decades of political and social change
 - His artistic career demonstrates the transition from survival-focused labor to creative fulfillment, enabled by the freedoms of life in the United States
 
+
+## Works
+
+**chen-wenshi** has **2** articles where they appear in the title (column articles) and **5** additional articles that mention them in the body.
+
+
+### 2023 (1 articles)
+
+1. **2023-12-18** — [[articles/taiwanjustice-net/2024/20240225151323_root_622221d578f3cb3e|蘇奕榮．陳文石藝壇雙傑 台南台江文化中心跨年展[影]]]
+
+### 2020 (1 articles)
+
+1. **2020-03-21** — [[articles/taiwanjustice-net/2025/20251205211626_看寶石激發創作靈感_陳文石相隔28年返台展畫_4036955fa8493ebc|看寶石激發創作靈感，陳文石相隔28年返台展畫]]
+
+### Body Mentions (5 articles)
+
+Articles by other authors that mention **chen-wenshi**: See [[sources/taiwanjustice-net|taiwanjustice.net source hub]] for the full article index. Top mentions by score:
+
+1. **2020-11-25** — [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596|台美人台加人]] (score: 760)
+2. **2024-02-21** — [[articles/taiwanjustice-net/2024/20240224182938_root_c998eeb8ae0eb037|台灣人文藝術]] (score: 740)
+3. **2021-05-17** — [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]] (score: 520)
+4. **2021-05-17** — [[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6|2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]] (score: 515)
+5. **2017-03-14** — [[articles/taiwanjustice-net/2024/20240724234326_root_cd2062fe6528223c|The Beauty of Taiwan-Heart of Asia Exhibition & Art Talk 台灣之美‧亞洲之心國際巡迴展 4/1~2,]] (score: 65)
+
 ## Source Notes and Confidence
 
 - **Content priority:** A (primary source — 2023 TAHS Publication, profile Part 2)
@@ -112,3 +136,42 @@ Chen Wenshi is profiled in the 2023 TAHS Publication (台美菁英錄 第二輯)
 
 - [[organizations/taiwanese-american-historical-society|TAHS]]
 - [[sources/2023-tahs-publication|2023 TAHS Publication]]
+
+## TJ Citations
+
+Articles from taiwanjustice.net mentioning **陳文石 (Chen Wenshi)**:
+
+1. **2020-11-25** — [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596|台美人台加人]]
+   - Source: https://www.taiwanjustice.net/?cat=59&filter_by=random_posts&paged=352
+   - Match: alias='陳文石' where=body pts=40
+   - Score: 760
+
+2. **2024-02-21** — [[articles/taiwanjustice-net/2024/20240224182938_root_c998eeb8ae0eb037|台灣人文藝術]]
+   - Source: https://www.taiwanjustice.net/?cat=113&filter_by=featured
+   - Match: alias='陳文石' where=body pts=40
+   - Score: 740
+
+3. **2021-05-17** — [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]]
+   - Source: https://www.taiwanjustice.net/2021/05/17/2021%E5%B9%B4%E5%8D%97%E5%8A%A0%E5%B7%9E%E5%83%91%E7%95%8C%E6%94%AF%E6%8C%81%E5%8F%B0%E7%81%A3%E5%8F%83%E8%88%87%E4%B8%96%E7%95%8C%E8%A1%9B%E7%94%9F%E5%A4%A7%E6%9C%83wha%E8%81%AF%E5%90%88%E8%81%B2/
+   - Match: alias='陳文石' where=body pts=40
+   - Score: 520
+
+4. **2021-05-17** — [[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6|2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]]
+   - Source: https://taiwanjustice.net/2021%E5%B9%B4%E5%8D%97%E5%8A%A0%E5%B7%9E%E5%83%91%E7%95%8C%E6%94%AF%E6%8C%81%E5%8F%B0%E7%81%A3%E5%8F%83%E8%88%87%E4%B8%96%E7%95%8C%E8%A1%9B%E7%94%9F%E5%A4%A7%E6%9C%83wha%E8%81%AF%E5%90%88%E8%81%B2/
+   - Match: alias='陳文石' where=body pts=40
+   - Score: 515
+
+5. **2020-03-21** — [[articles/taiwanjustice-net/2025/20251205211626_看寶石激發創作靈感_陳文石相隔28年返台展畫_4036955fa8493ebc|看寶石激發創作靈感，陳文石相隔28年返台展畫]]
+   - Source: https://taiwanjustice.net/%E7%9C%8B%E5%AF%B6%E7%9F%B3%E6%BF%80%E7%99%BC%E5%89%B5%E4%BD%9C%E9%9D%88%E6%84%9F%EF%BC%8C%E9%99%B3%E6%96%87%E7%9F%B3%E7%9B%B8%E9%9A%9428%E5%B9%B4%E8%BF%94%E5%8F%B0%E5%B1%95%E7%95%AB/
+   - Match: alias='陳文石' where=title pts=100
+   - Score: 200
+
+6. **2023-12-18** — [蘇奕榮．陳文石藝壇雙傑 台南台江文化中心跨年展[影]](https://web.archive.org/web/20240225151323/https://www.taiwanjustice.net/?p=371082)
+   - Source: https://www.taiwanjustice.net/?p=371082
+   - Match: alias='陳文石' where=title pts=100
+   - Score: 125
+
+7. **2017-03-14** — [[articles/taiwanjustice-net/2024/20240724234326_root_cd2062fe6528223c|The Beauty of Taiwan-Heart of Asia Exhibition & Art Talk 台灣之美‧亞洲之心國際巡迴展 4/1~2,]]
+   - Source: https://www.taiwanjustice.net/?p=106987
+   - Match: alias='陳文石' where=body pts=40
+   - Score: 65

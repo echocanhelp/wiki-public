@@ -8,7 +8,7 @@ tags:
   - leadership
 verification_status: published
 featured: true
-last_reviewed: 2026-07-17
+last_reviewed: 2026-08-05
 ---
 # Leonard Hsu Jr. (許景鴻 / Hsu Ching-Hung)
 
@@ -76,6 +76,17 @@ Primary architect and maintainer of Echopedia, the community knowledge base for 
   - Coverage: Leonard Hsu's installation as TAHS President, with founding president Charles Yang introducing him. Lists board attendees: 楊嘉猷, 許景鴻, 蔡漢成, 劉玲華, 李意盛, 楊錦忠, 沈梓在, 蔡淑女, 黃樹人.
   - Publisher: Freeman Huang (黃樹人); categories: `usa`, `taiwaneseamerican`, `usa_news`
   - Live URL: [台美人歷史協會新任會長許景鴻接椽](https://echocanhelp.github.io/wiki-public/articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74.html)
+
+
+## Works
+
+**許景鴻** has **2** articles where they appear in the title (column articles) and **0** additional articles that mention them in the body.
+
+
+### 2025 (2 articles)
+
+1. **2025-09-05** — [[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74|台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元]]
+2. **2025-09-05** — [[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74|台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元]]
 
 ## Related Pages
 

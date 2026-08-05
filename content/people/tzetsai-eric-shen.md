@@ -8,7 +8,7 @@ tags:
 name_en: "Eric Shen"
 name_zh_hanzi: "沈梓在"
 verification_status: pending
-last_reviewed: 2026-08-03
+last_reviewed: 2026-08-05
 source_note: "TAHS 2025 organization chart + LINE displayName preferred EN"
 title: "Eric Shen (沈梓在)"
 ---
@@ -47,6 +47,18 @@ This page is an **A-tier thin record** for graph linking and member-priority sco
 
 - Previous provisional slug: `shen-zizai` → canonical `tzetsai-eric-shen`
 - Redirect stub remains at [[people/shen-zizai]]
+
+
+## Works
+
+**tzetsai-eric-shen** has **0** articles where they appear in the title (column articles) and **1** additional articles that mention them in the body.
+
+
+### Body Mentions (1 articles)
+
+Articles by other authors that mention **tzetsai-eric-shen**: See [[sources/taiwanjustice-net|taiwanjustice.net source hub]] for the full article index. Top mentions by score:
+
+1. **2025-09-05** — [[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74|台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元]] (score: 490)
 
 ## Source Notes and Confidence
 

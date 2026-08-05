@@ -20,48 +20,91 @@ Related: [Taiwanese American Historical Society](/organizations/taiwanese-americ
 
 Top 10 articles from taiwanjustice.net mentioning sang-pu:
 
-1. **2023-08-12** — [2012大選](https://web.archive.org/web/20240719130745/https://www.taiwanjustice.net/?cat=56)
+1. **2023-08-12** — [[articles/taiwanjustice-net/2024/20240719130745_root_c122ab4d6dc8d2cf|2012大選]]
    - *August 12, 2023...*
    - Score: 800
-2. **2020-05-21** — [矛頭對準中國，川普政府出報告痛批北京惡意活動，警告勿觸碰美國底線](https://web.archive.org/web/20251205233746/https://taiwanjustice.net/%E7%9F%9B%E9%A0%AD%E5%B0%8D%E6%BA%96%E4%B8%AD%E5%9C%8B%EF%BC%8C%E5%B7%9D%E6%99%AE%E6%94%BF%E5%BA%9C%E5%87%BA%E5%A0%B1%E5%91%8A%E7%97%9B%E6%89%B9%E5%8C%97%E4%BA%AC%E6%83%A1%E6%84%8F%E6%B4%BB%E5%8B%95/)
+2. **2020-05-21** — [[articles/taiwanjustice-net/2025/20251205233746_矛頭對準中國_川普政府出報告痛批北京惡意活動_579205b20793f675|矛頭對準中國，川普政府出報告痛批北京惡意活動，警告勿觸碰美國底線]]
    - *（中央社華盛頓20日綜合外電報導）除用尖銳言詞猛攻中國在2019冠狀病毒疾病（COVID-19）的因應方式，白宮今天發布全方位攻擊，砲轟北京當局掠奪性經濟政策、軍事擴張、散播假訊息以及侵犯人權。...*
    - Score: 70
-3. **2022-09-13** — [防中國沒收，臺灣擬出售澳門國父紀念館](https://web.archive.org/web/20230205132911/https://www.taiwanjustice.net/2022/09/13/%E9%98%B2%E4%B8%AD%E5%9C%8B%E6%B2%92%E6%94%B6%EF%BC%8C%E8%87%BA%E7%81%A3%E6%93%AC%E5%87%BA%E5%94%AE%E6%BE%B3%E9%96%80%E5%9C%8B%E7%88%B6%E7%B4%80%E5%BF%B5%E9%A4%A8/)
+3. **2022-09-13** — [[articles/taiwanjustice-net/2023/20230205132911_2022_09_13_防中國沒收_臺灣擬出售澳門國父紀念館_907bc900c147c8e3|防中國沒收，臺灣擬出售澳門國父紀念館]]
    - *2022.09.13 自由亞洲電台...*
    - Score: 65
-4. **2022-08-02** — [佩洛西訪臺期間將會見在臺港人及人權代表](https://web.archive.org/web/20251012112428/https://taiwanjustice.net/%E4%BD%A9%E6%B4%9B%E8%A5%BF%E8%A8%AA%E8%87%BA%E6%9C%9F%E9%96%93%E5%B0%87%E6%9C%83%E8%A6%8B%E5%9C%A8%E8%87%BA%E6%B8%AF%E4%BA%BA%E5%8F%8A%E4%BA%BA%E6%AC%8A%E4%BB%A3%E8%A1%A8/)
+4. **2022-08-02** — [[articles/taiwanjustice-net/2025/20251012112428_佩洛西訪臺期間將會見在臺港人及人權代表_de3bfde32849e3ef|佩洛西訪臺期間將會見在臺港人及人權代表]]
    - *2022.08.02 自由亞洲電台...*
    - Score: 65
-5. **2022-04-26** — [美驅逐艦通過台灣海峽 展現對自由開放印太承諾](https://web.archive.org/web/20220929022511/https://www.taiwanjustice.net/2022/04/26/%E7%BE%8E%E9%A9%85%E9%80%90%E8%89%A6%E9%80%9A%E9%81%8E%E5%8F%B0%E7%81%A3%E6%B5%B7%E5%B3%BD-%E5%B1%95%E7%8F%BE%E5%B0%8D%E8%87%AA%E7%94%B1%E9%96%8B%E6%94%BE%E5%8D%B0%E5%A4%AA%E6%89%BF%E8%AB%BE/)
+5. **2022-04-26** — [[articles/taiwanjustice-net/2022/20220929022511_2022_04_26_美驅逐艦通過台灣海峽-展現對自由開放印太承諾_d5aa1429d23292ec|美驅逐艦通過台灣海峽 展現對自由開放印太承諾]]
    - *敬請支持‧歡迎訂閱本報newsletter...*
    - Score: 50
-6. **2020-07-21** — [華裔學者余茂春為何獲重用？分析：美思考如何反制極權中國](https://web.archive.org/web/20260211090710/https://taiwanjustice.net/%E8%8F%AF%E8%A3%94%E5%AD%B8%E8%80%85%E4%BD%99%E8%8C%82%E6%98%A5%E7%82%BA%E4%BD%95%E7%8D%B2%E9%87%8D%E7%94%A8%EF%BC%9F%E5%88%86%E6%9E%90%EF%BC%9A%E7%BE%8E%E6%80%9D%E8%80%83%E5%A6%82%E4%BD%95%E5%8F%8D/)
+6. **2020-07-21** — [[articles/taiwanjustice-net/2026/20260211090710_華裔學者余茂春為何獲重用_分析_美思考如何反_e7cacc539195fbe6|華裔學者余茂春為何獲重用？分析：美思考如何反制極權中國]]
    - *（中央社台北21日電）美國華裔學者余茂春（Miles Yu）被指是川普政府的中國政策重要智囊，港媒引述分析稱，余茂春的中國政策具歷史深度；美國務卿蓬佩奧對他的倚重，反映美國思考如何打一場反制極權中國的硬仗。...*
    - Score: 50
-7. **2020-08-10** — [美國制裁出狠招，被制裁的港官在全球個人資產均受影響](https://web.archive.org/web/20260211094322/https://taiwanjustice.net/%E7%BE%8E%E5%9C%8B%E5%88%B6%E8%A3%81%E5%87%BA%E7%8B%A0%E6%8B%9B%EF%BC%8C%E8%A2%AB%E5%88%B6%E8%A3%81%E7%9A%84%E6%B8%AF%E5%AE%98%E5%9C%A8%E5%85%A8%E7%90%83%E5%80%8B%E4%BA%BA%E8%B3%87%E7%94%A2%E5%9D%87/)
+7. **2020-08-10** — [[articles/taiwanjustice-net/2026/20260211094322_美國制裁出狠招_被制裁的港官在全球個人資產均_b298694676ee32de|美國制裁出狠招，被制裁的港官在全球個人資產均受影響]]
    - *2020-08-10 自由亞洲電台...*
    - Score: 50
-8. **2020-07-24** — [胡錫進虛張聲勢! 美國駐香港領館地位特殊，學者：中方若下令關閉等同斷交](https://web.archive.org/web/20250621165340/https://taiwanjustice.net/%E8%83%A1%E9%8C%AB%E9%80%B2%E8%99%9B%E5%BC%B5%E8%81%B2%E5%8B%A2-%E7%BE%8E%E5%9C%8B%E9%A7%90%E9%A6%99%E6%B8%AF%E9%A0%98%E9%A4%A8%E5%9C%B0%E4%BD%8D%E7%89%B9%E6%AE%8A%EF%BC%8C%E5%AD%B8%E8%80%85%EF%BC%9A/)
+8. **2020-07-24** — [[articles/taiwanjustice-net/2025/20250621165340_胡錫進虛張聲勢-美國駐香港領館地位特殊_學者_4ae0155a9f033a11|胡錫進虛張聲勢! 美國駐香港領館地位特殊，學者：中方若下令關閉等同斷交]]
    - *2020-07-24 自由亞洲電台...*
    - Score: 45
-9. **2021-04-30** — [經濟學人“台灣是地球最危險之地” 台灣人看法不一](https://web.archive.org/web/20210723163514/https://www.taiwanjustice.net/2021/04/30/%E7%B6%93%E6%BF%9F%E5%AD%B8%E4%BA%BA%E5%8F%B0%E7%81%A3%E6%98%AF%E5%9C%B0%E7%90%83%E6%9C%80%E5%8D%B1%E9%9A%AA%E4%B9%8B%E5%9C%B0-%E5%8F%B0%E7%81%A3%E4%BA%BA%E7%9C%8B%E6%B3%95%E4%B8%8D/)
+9. **2021-04-30** — [[articles/taiwanjustice-net/2021/20210723163514_2021_04_30_經濟學人台灣是地球最危險之地-台灣人看法不_f764dc767eb81373|經濟學人“台灣是地球最危險之地” 台灣人看法不一]]
    - *2021-04-30 自由亞洲電台...*
    - Score: 40
-10. **2021-04-30** — [經濟學人“台灣是地球最危險之地” 台灣人看法不一](https://web.archive.org/web/20250417211250/https://taiwanjustice.net/%E7%B6%93%E6%BF%9F%E5%AD%B8%E4%BA%BA%E5%8F%B0%E7%81%A3%E6%98%AF%E5%9C%B0%E7%90%83%E6%9C%80%E5%8D%B1%E9%9A%AA%E4%B9%8B%E5%9C%B0-%E5%8F%B0%E7%81%A3%E4%BA%BA%E7%9C%8B%E6%B3%95%E4%B8%8D/)
+10. **2021-04-30** — [[articles/taiwanjustice-net/2025/20250417211250_經濟學人台灣是地球最危險之地-台灣人看法不_87980ca68e2741e7|經濟學人“台灣是地球最危險之地” 台灣人看法不一]]
    - *2021-04-30 自由亞洲電台...*
    - Score: 40
 
 ## Works
 
-**桑普** has **0** articles where they appear in the title (column articles) and **12** additional articles that mention them in the body.
+**桑普** has **19** articles where they appear in the title (column articles) and **12** additional articles that mention them in the body.
 
+
+### Undated (2 articles)
+
+1. **undated** — [[articles/taiwanjustice-net/2017/20171108022831_category_column_sopt-light-article_b6cd26761d59dcdb|精闢專論 | Taiwan Justice | 台灣公義網]]
+2. **undated** — [[articles/taiwanjustice-net/2017/20171108015431_category_column_3a23249b7321a1f8|專欄 | Taiwan Justice | 台灣公義網]]
+
+### 2024 (1 articles)
+
+1. **2024-04-12** — [[articles/taiwanjustice-net/2024/20240412172940_root_c3c561d14313e408|'Tag: 筱君 台灣 PLUS']]
+
+### 2023 (1 articles)
+
+1. **2023-08-12** — [[articles/taiwanjustice-net/2024/20240719130745_root_c122ab4d6dc8d2cf|2012大選]]
+
+### 2022 (5 articles)
+
+1. **2022-09-13** — [[articles/taiwanjustice-net/2023/20230205132911_2022_09_13_防中國沒收_臺灣擬出售澳門國父紀念館_907bc900c147c8e3|防中國沒收，臺灣擬出售澳門國父紀念館]]
+2. **2022-08-02** — [[articles/taiwanjustice-net/2025/20251012112428_佩洛西訪臺期間將會見在臺港人及人權代表_de3bfde32849e3ef|佩洛西訪臺期間將會見在臺港人及人權代表]]
+3. **2022-04-26** — [[articles/taiwanjustice-net/2022/20220929022511_2022_04_26_美驅逐艦通過台灣海峽-展現對自由開放印太承諾_d5aa1429d23292ec|美驅逐艦通過台灣海峽 展現對自由開放印太承諾]]
+4. **2022-01-22** — [[articles/taiwanjustice-net/2024/20240522051210_root_93b1489d358ba6f3|'Tag: 六都春秋']]
+5. **2022-01-22** — [[articles/taiwanjustice-net/2022/20220626164837_tag_六都春秋_0cc594c316131b0b|'Tag: 六都春秋']]
+
+### 2021 (2 articles)
+
+1. **2021-04-30** — [[articles/taiwanjustice-net/2021/20210723163514_2021_04_30_經濟學人台灣是地球最危險之地-台灣人看法不_f764dc767eb81373|經濟學人“台灣是地球最危險之地” 台灣人看法不一]]
+2. **2021-04-30** — [[articles/taiwanjustice-net/2025/20250417211250_經濟學人台灣是地球最危險之地-台灣人看法不_87980ca68e2741e7|經濟學人“台灣是地球最危險之地” 台灣人看法不一]]
+
+### 2020 (6 articles)
+
+1. **2020-08-10** — [[articles/taiwanjustice-net/2026/20260211094322_美國制裁出狠招_被制裁的港官在全球個人資產均_b298694676ee32de|美國制裁出狠招，被制裁的港官在全球個人資產均受影響]]
+2. **2020-07-24** — [[articles/taiwanjustice-net/2025/20250621165340_胡錫進虛張聲勢-美國駐香港領館地位特殊_學者_4ae0155a9f033a11|胡錫進虛張聲勢! 美國駐香港領館地位特殊，學者：中方若下令關閉等同斷交]]
+3. **2020-07-21** — [[articles/taiwanjustice-net/2026/20260211090710_華裔學者余茂春為何獲重用_分析_美思考如何反_e7cacc539195fbe6|華裔學者余茂春為何獲重用？分析：美思考如何反制極權中國]]
+4. **2020-06-11** — [[articles/taiwanjustice-net/2025/20251205033352_英國_香港半年報告書_促中國懸崖勒馬_5307d851c4cc76fe|英國《香港半年報告書》促中國懸崖勒馬]]
+5. **2020-05-21** — [[articles/taiwanjustice-net/2025/20251205233746_矛頭對準中國_川普政府出報告痛批北京惡意活動_579205b20793f675|矛頭對準中國，川普政府出報告痛批北京惡意活動，警告勿觸碰美國底線]]
+6. **2020-03-14** — [[articles/taiwanjustice-net/2025/20250425193148_反送中丶疫情雙打擊_香港經濟暫時性休克_819df0fbf8881ad1|反送中丶疫情雙打擊，香港經濟暫時性休克？]]
+
+### 2017 (1 articles)
+
+1. **2017-11-06** — [[articles/taiwanjustice-net/2024/20240719122733_root_54c6ddad07a5af57|'Tag: 巴拿馬文件']]
+
+### 2016 (1 articles)
+
+1. **2016-06-14** — [[articles/taiwanjustice-net/2017/20171206054042_category_taiwan-news_election2012_993d1744c7629fdf|2012大選]]
 
 ### Body Mentions (12 articles)
 
 Articles by other authors that mention **桑普**: See [[sources/taiwanjustice-net|taiwanjustice.net source hub]] for the full article index. Top mentions by score:
 
-1. **2023-08-12** — [2012大選](https://web.archive.org/web/20240719130745/https://www.taiwanjustice.net/?cat=56) (score: 800)
-2. **2020-05-21** — [矛頭對準中國，川普政府出報告痛批北京惡意活動，警告勿觸碰美國底線](https://web.archive.org/web/20251205233746/https://taiwanjustice.net/%E7%9F%9B%E9%A0%AD%E5%B0%8D%E6%BA%96%E4%B8%AD%E5%9C%8B%EF%BC%8C%E5%B7%9D%E6%99%AE%E6%94%BF%E5%BA%9C%E5%87%BA%E5%A0%B1%E5%91%8A%E7%97%9B%E6%89%B9%E5%8C%97%E4%BA%AC%E6%83%A1%E6%84%8F%E6%B4%BB%E5%8B%95/) (score: 70)
-3. **2022-09-13** — [防中國沒收，臺灣擬出售澳門國父紀念館](https://web.archive.org/web/20230205132911/https://www.taiwanjustice.net/2022/09/13/%E9%98%B2%E4%B8%AD%E5%9C%8B%E6%B2%92%E6%94%B6%EF%BC%8C%E8%87%BA%E7%81%A3%E6%93%AC%E5%87%BA%E5%94%AE%E6%BE%B3%E9%96%80%E5%9C%8B%E7%88%B6%E7%B4%80%E5%BF%B5%E9%A4%A8/) (score: 65)
-4. **2022-08-02** — [佩洛西訪臺期間將會見在臺港人及人權代表](https://web.archive.org/web/20251012112428/https://taiwanjustice.net/%E4%BD%A9%E6%B4%9B%E8%A5%BF%E8%A8%AA%E8%87%BA%E6%9C%9F%E9%96%93%E5%B0%87%E6%9C%83%E8%A6%8B%E5%9C%A8%E8%87%BA%E6%B8%AF%E4%BA%BA%E5%8F%8A%E4%BA%BA%E6%AC%8A%E4%BB%A3%E8%A1%A8/) (score: 65)
-5. **2022-04-26** — [美驅逐艦通過台灣海峽 展現對自由開放印太承諾](https://web.archive.org/web/20220929022511/https://www.taiwanjustice.net/2022/04/26/%E7%BE%8E%E9%A9%85%E9%80%90%E8%89%A6%E9%80%9A%E9%81%8E%E5%8F%B0%E7%81%A3%E6%B5%B7%E5%B3%BD-%E5%B1%95%E7%8F%BE%E5%B0%8D%E8%87%AA%E7%94%B1%E9%96%8B%E6%94%BE%E5%8D%B0%E5%A4%AA%E6%89%BF%E8%AB%BE/) (score: 50)
+1. **2023-08-12** — [[articles/taiwanjustice-net/2024/20240719130745_root_c122ab4d6dc8d2cf|2012大選]] (score: 800)
+2. **2020-05-21** — [[articles/taiwanjustice-net/2025/20251205233746_矛頭對準中國_川普政府出報告痛批北京惡意活動_579205b20793f675|矛頭對準中國，川普政府出報告痛批北京惡意活動，警告勿觸碰美國底線]] (score: 70)
+3. **2022-09-13** — [[articles/taiwanjustice-net/2023/20230205132911_2022_09_13_防中國沒收_臺灣擬出售澳門國父紀念館_907bc900c147c8e3|防中國沒收，臺灣擬出售澳門國父紀念館]] (score: 65)
+4. **2022-08-02** — [[articles/taiwanjustice-net/2025/20251012112428_佩洛西訪臺期間將會見在臺港人及人權代表_de3bfde32849e3ef|佩洛西訪臺期間將會見在臺港人及人權代表]] (score: 65)
+5. **2022-04-26** — [[articles/taiwanjustice-net/2022/20220929022511_2022_04_26_美驅逐艦通過台灣海峽-展現對自由開放印太承諾_d5aa1429d23292ec|美驅逐艦通過台灣海峽 展現對自由開放印太承諾]] (score: 50)
