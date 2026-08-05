@@ -166,7 +166,7 @@ Articles from taiwanjustice.net mentioning **陳文石 (Chen Wenshi)**:
    - Match: alias='陳文石' where=title pts=100
    - Score: 200
 
-6. **2023-12-18** — [蘇奕榮．陳文石藝壇雙傑 台南台江文化中心跨年展[影]](https://web.archive.org/web/20240225151323/https://www.taiwanjustice.net/?p=371082)
+6. **2023-12-18** — [[articles/taiwanjustice-net/2024/20240225151323_root_622221d578f3cb3e|蘇奕榮．陳文石藝壇雙傑 台南台江文化中心跨年展[影]]]
    - Source: https://www.taiwanjustice.net/?p=371082
    - Match: alias='陳文石' where=title pts=100
    - Score: 125

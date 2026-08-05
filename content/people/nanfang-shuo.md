@@ -32,7 +32,7 @@ Top 8 articles from taiwanjustice.net mentioning nanfang-shuo:
 4. **undated** — [[articles/taiwanjustice-net/2024/20240616082309_root_b06407961c998198|馬惠帝]]
    - *美國頭條...*
    - Score: 720
-5. **2012-05-14** — [馬英九的新外號是 [馬惠帝] ! ◎南方朔/2012-5-14](https://web.archive.org/web/20240719125045/https://www.taiwanjustice.net/?p=8583)
+5. **2012-05-14** — [[articles/taiwanjustice-net/2024/20240719125045_root_32c4204ea4c13f44|馬英九的新外號是 [馬惠帝] ! ◎南方朔/2012-5-14]]
    - *第一個是5月上旬《蘋果日報》所做的民調，馬英九的滿意度只剩15.11%，不滿意的為70.62%，不表示意見的為14.27%。滿意度只剩15.11%，這已是全世界少見的對領導人的不滿意程度。...*
    - Score: 190
 6. **2014-01-13** — [[articles/taiwanjustice-net/2024/20240619173250_root_bae9a02a5a98b67c|立法院對兩岸政策出現大反彈！◎南方朔 01-13-2014]]

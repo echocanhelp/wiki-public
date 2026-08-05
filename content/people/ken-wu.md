@@ -320,7 +320,7 @@ Articles from taiwanjustice.net mentioning **Ken Wu (吳兆峯)**:
    - Match: alias='吳兆峯' where=body pts=40
    - Score: 90
 
-23. **2022-09-25** — [第53回世界台灣文化論壇：Tī美國點光台灣(高龍榮 & 吳兆峯)[影]](https://web.archive.org/web/20221127045936/https://www.taiwanjustice.net/2022/09/25/%E7%AC%AC53%E5%9B%9E%E4%B8%96%E7%95%8C%E5%8F%B0%E7%81%A3%E6%96%87%E5%8C%96%E8%AB%96%E5%A3%87%EF%BC%9Ati%E7%BE%8E%E5%9C%8B%E9%BB%9E%E5%85%89%E5%8F%B0%E7%81%A3%E9%AB%98%E9%BE%8D%E6%A6%AE-%E5%90%B3/)
+23. **2022-09-25** — [[articles/taiwanjustice-net/2022/20221127045936_2022_09_25_第53回世界台灣文化論壇_ti美國點光台灣高龍榮-吳_e9faa17a0a7ea61c|第53回世界台灣文化論壇：Tī美國點光台灣(高龍榮 & 吳兆峯)[影]]]
    - Source: https://www.taiwanjustice.net/2022/09/25/%E7%AC%AC53%E5%9B%9E%E4%B8%96%E7%95%8C%E5%8F%B0%E7%81%A3%E6%96%87%E5%8C%96%E8%AB%96%E5%A3%87%EF%BC%9Ati%E7%BE%8E%E5%9C%8B%E9%BB%9E%E5%85%89%E5%8F%B0%E7%81%A3%E9%AB%98%E9%BE%8D%E6%A6%AE-%E5%90%B3/
    - Match: alias='Ken Wu' where=body pts=40
    - Score: 80
