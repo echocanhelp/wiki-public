@@ -69,26 +69,31 @@ ADDITIONAL_SLUGS = [
     "jiang-bai-xian", "gong-sun-le",
 ]
 
-# TAHS founding member slugs — these appear in articles but aren't columnists
-# They need Chinese name body search to find their works
-FOUNDING_MEMBER_SLUGS = [
-    "yang-jia-you",      # Charles Yang (楊嘉猷) — founding president
-    "becky-yang",        # Becky Yang — founding member
-    "leonard-hsu-jr",    # Leonard Hsu Jr. (許景鴻) — current president
-    "franklin-ping-cheng",  # Franklin Ping Cheng (程炳成) — 2014-2017 president
-    "wang-gui-rong",     # Wang Gui-rong (王桂榮) — founding member
-    "huang-gen-shen",    # Huang Gen-shen (黃根深) — founding member
-    "zhou-wei-lin",      # Zhou Wei-lin (周威霖) — founding member
-    "zhou-shi",          # Zhou Shi (周實) — founding member
-    "chen-long",         # Chen Long (陳隆) — founding member
-    "hong-zhu-mei",      # Hong Zhu-mei (洪珠美) — founding member
-    "yang-ziqing",       # Yang Ziqing (楊子清) — founding member
-    "liao-ji-chun",      # Liao Ji-chun (廖述宗) — founding member
-    "zheng-bing-quan",   # Zheng Bing-quan (鄭炳全) — founding member
-    "wang-ting-yi",      # Wang Ting-yi (王廷宜) — founding member
+# TAHS member slugs — expanded from priority roster (LINE-verified + all members)
+# These appear in articles but aren't columnists; they need Chinese name body search
+TAHS_MEMBER_SLUGS = [
+    "yang-jia-you", "leonard-hsu-jr", "franklin-ping-cheng",
+    "freeman-huang", "phoenix-ko", "yi-sen-lee", "sunu-tsai",
+    "tzetsai-eric-shen", "roger-tsai", "paul-chen", "john-yang",
+    "linda-liu", "david-lee", "ken-wu", "rex-chen", "ashton-hsu",
+    "albert-s-lai", "willy-pan", "chen-wenshi", "huang-gen-shen",
+    "liao-shu-zong", "alan-thian", "gene-tsai", "xu-shihuan",
+    "bai-weiwei", "becky-yang",
+    # Publication-mention members
+    "bai-peiyu", "cao-changqing", "zhang-xinhui", "chao-sile",
+    "chen-bozhi", "chen-zhaonan", "chen-maoxiong", "chen-po-kong",
+    "zheng-qinren", "zheng-wenlong", "jin-hegui", "du-ao-cunfu",
+    "fan-jiang-ti-ang", "gong-sun-le", "he-qingxuan", "hu-ping",
+    "huang-diyin", "huang-yongcheng", "guan-renjian", "li-xiaofeng",
+    "li-jian", "liao-qingshan", "lin-baohua", "lin-rongsong",
+    "nanfang-shuo", "sang-pu", "tang-peili", "zou-jingwen",
+    "wang-qiaoling", "wang-dan", "wang-shufen", "wei-jingsheng",
+    "wu-lipei", "xia-ming", "yang-yuanxun", "yang-yueqing",
+    "yang-ziqing", "ye-siya", "yu-jie", "yuan-zhihui",
+    "zheng-bingquan",
 ]
 
-ALL_SLUGS = list(dict.fromkeys(COLUMNIST_SLUGS + ADDITIONAL_SLUGS + FOUNDING_MEMBER_SLUGS))
+ALL_SLUGS = list(dict.fromkeys(COLUMNIST_SLUGS + ADDITIONAL_SLUGS + TAHS_MEMBER_SLUGS))
 
 # Chinese name lookup for wikilinks
 SLUG_TO_CHINESE = {
@@ -188,7 +193,7 @@ def group_hits_by_slug(hits):
 
     # 2. For founding members, search article bodies for Chinese name mentions
     #    (they won't appear in the priority-hits JSONL since they're not columnists)
-    founding_member_slugs = set(FOUNDING_MEMBER_SLUGS)
+    founding_member_slugs = set(TAHS_MEMBER_SLUGS)
     if founding_member_slugs:
         # Build Chinese name → slug lookup
         chinese_to_slug = {}
