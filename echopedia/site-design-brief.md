@@ -1,4 +1,4 @@
-## Site design audit — 2026-08-04 05:05
+## Site design audit — 2026-08-05 04:21
 
 - pages_md=313
 - critical=0 high=0 medium=0
@@ -6,6 +6,11 @@
 
 ### Summary
 - **SITE_DESIGN_STATUS: OK**
+
+### LOW (1)
+- **C1** spelling signals (sample): 2 `[AGENT_SUGGESTED]`
+  - `cao-changqing.md: ?changqing`
+  - `wang-qiaoling.md: ?qiaoling`
 
 ### INFO (2)
 - **B2** pinned featured pages: 47
@@ -17,15 +22,15 @@
   - `people/chen-zhefu-xu-chunhui.md`
   - `people/choan-seng-song.md`
   - `people/fan-qingliang.md`
-- **B1** person/org touched ≤7d (rely on recency featured window): 81
+- **B1** person/org touched ≤7d (rely on recency featured window): 74
   - `people/alan-thian.md`
   - `people/albert-chapter1-zh-hsiaochen-full-review.md`
   - `people/albert-chapter1-zh-review-v2.md`
   - `people/albert-chapter1-zh-review.md`
-  - `people/albert-en-sku-a-scratch-review.md`
   - `people/bai-peiyu.md`
   - `people/bai-weiwei.md`
   - `people/becky-yang.md`
+  - `people/cai-shunyu.md`
 
 ### Programmable heals
 - (none)
