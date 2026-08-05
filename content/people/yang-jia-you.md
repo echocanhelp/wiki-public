@@ -13,7 +13,7 @@ tags:
 verification_status: owner_verified
 status: published
 featured: true
-last_reviewed: 2026-08-02
+last_reviewed: 2026-08-04
 ---
 
 # Charles Yang (楊嘉猷 / Yang Jia-you)
@@ -96,6 +96,180 @@ Yang's legacy is the establishment of TAHS as an organization dedicated to docum
 - Spouse link: owner-stated Becky Yang
 - Grandparent link to Ethan Yang (yang-zhengxiang): owner-stated
 - LINE user id capture: pending first sender message from Chia you (if not yet on file)
+
+
+## Works
+
+**楊嘉猷** has **15** articles where they appear in the title (column articles) and **9** additional articles that mention them in the body.
+
+
+### 2025 (2 articles)
+
+1. **2025-09-05** — [台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元](https://web.archive.org/web/20251107004331/https://taiwanjustice.net/%E5%8F%B0%E7%BE%8E%E4%BA%BA%E6%AD%B7%E5%8F%B2%E5%8D%94%E6%9C%83%E6%96%B0%E4%BB%BB%E6%9C%83%E9%95%B7%E8%A8%B1%E6%99%AF%E9%B4%BB%E6%8E%A5%E6%A4%BD-%E9%96%8B%E5%95%9F%E4%B8%96%E4%BB%A3%E5%82%B3%E6%89%BF/)
+2. **2025-02-24** — [大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念大會](https://web.archive.org/web/20250320212940/https://taiwanjustice.net/%E5%A4%A7%E6%B4%9B%E6%9D%89%E7%A3%AF%E5%8F%B0%E7%81%A3%E6%9C%83%E9%A4%A8%E7%AD%8924%E5%80%8B%E5%8F%B0%E7%BE%8E%E7%A4%BE%E5%9C%98%E8%88%89%E8%88%89%E8%A1%8C228%E8%BF%BD%E6%80%9D%E7%B4%80%E5%BF%B5/)
+
+### 2024 (1 articles)
+
+1. **2024-08-18** — ['Tag: 大洛杉磯台灣會館耆老講座'](https://web.archive.org/web/20250216032153/https://taiwanjustice.net/tag/%e5%a4%a7%e6%b4%9b%e6%9d%89%e7%a3%af%e5%8f%b0%e7%81%a3%e6%9c%83%e9%a4%a8%e8%80%86%e8%80%81%e8%ac%9b%e5%ba%a7/)
+
+### 2023 (2 articles)
+
+1. **2023-07-30** — [台美人台加人](https://web.archive.org/web/20240425083432/https://www.taiwanjustice.net/?cat=59&filter_by=random_posts&paged=2)
+2. **2023-03-20** — [台美人歷史協會3/25舉辦「如何寫回憶錄(自傳)座談會」](https://web.archive.org/web/20230601053743/https://www.taiwanjustice.net/2023/03/20/%E5%8F%B0%E7%BE%8E%E4%BA%BA%E6%AD%B7%E5%8F%B2%E5%8D%94%E6%9C%833-25%E8%88%89%E8%BE%A6%E3%80%8C%E5%A6%82%E4%BD%95%E5%AF%AB%E5%9B%9E%E6%86%B6%E9%8C%84%E8%87%AA%E5%82%B3%E5%BA%A7%E8%AB%87%E6%9C%83/)
+
+### 2022 (1 articles)
+
+1. **2022-01-05** — [歷史必讀](https://web.archive.org/web/20250209214132/https://taiwanjustice.net/category/history/?filter_by=random_posts)
+
+### 2021 (7 articles)
+
+1. **2021-05-17** — [2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明](https://web.archive.org/web/20210616072940/https://www.taiwanjustice.net/2021/05/17/2021%E5%B9%B4%E5%8D%97%E5%8A%A0%E5%B7%9E%E5%83%91%E7%95%8C%E6%94%AF%E6%8C%81%E5%8F%B0%E7%81%A3%E5%8F%83%E8%88%87%E4%B8%96%E7%95%8C%E8%A1%9B%E7%94%9F%E5%A4%A7%E6%9C%83wha%E8%81%AF%E5%90%88%E8%81%B2/)
+2. **2021-05-17** — [2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明](https://web.archive.org/web/20251108183438/https://taiwanjustice.net/2021%E5%B9%B4%E5%8D%97%E5%8A%A0%E5%B7%9E%E5%83%91%E7%95%8C%E6%94%AF%E6%8C%81%E5%8F%B0%E7%81%A3%E5%8F%83%E8%88%87%E4%B8%96%E7%95%8C%E8%A1%9B%E7%94%9F%E5%A4%A7%E6%9C%83wha%E8%81%AF%E5%90%88%E8%81%B2/)
+3. **2021-02-01** — [咱的故鄉 咱的故事-第六講：東瀛歲月 ◎ 楊嘉猷](https://web.archive.org/web/20260209111911/https://taiwanjustice.net/%E5%92%B1%E7%9A%84%E6%95%85%E9%84%89-%E5%92%B1%E7%9A%84%E6%95%85%E4%BA%8B-%E5%8F%B0%E7%BE%8E%E4%BA%BA%E8%BF%BD%E5%B0%8B%E8%87%AA%E6%88%91identity%E7%9A%84%E4%BA%BA%E7%94%9F-%E2%97%8E-%E6%A5%8A/)
+4. **2021-02-01** — [咱的故鄉 咱的故事-台美人追尋自我(Identity)的人生 ◎ 楊嘉猷](https://web.archive.org/web/20220122114800/https://www.taiwanjustice.net/2021/02/01/%E5%92%B1%E7%9A%84%E6%95%85%E9%84%89-%E5%92%B1%E7%9A%84%E6%95%85%E4%BA%8B-%E5%8F%B0%E7%BE%8E%E4%BA%BA%E8%BF%BD%E5%B0%8B%E8%87%AA%E6%88%91identity%E7%9A%84%E4%BA%BA%E7%94%9F-%E2%97%8E-%E6%A5%8A/)
+5. **2021-02-01** — [咱的故鄉 咱的故事-第六講：東瀛歲月 ◎ 楊嘉猷](https://web.archive.org/web/20260209111911/https://taiwanjustice.net/%E5%92%B1%E7%9A%84%E6%95%85%E9%84%89-%E5%92%B1%E7%9A%84%E6%95%85%E4%BA%8B-%E5%8F%B0%E7%BE%8E%E4%BA%BA%E8%BF%BD%E5%B0%8B%E8%87%AA%E6%88%91identity%E7%9A%84%E4%BA%BA%E7%94%9F-%E2%97%8E-%E6%A5%8A/)
+6. **2021-02-01** — ['Daily Archives: February 1, 2021'](https://web.archive.org/web/20250721001751/https://www.taiwanjustice.net/2021/02/01/????-20210201-?????????-???????/)
+7. **2021-02-01** — [咱的故鄉 咱的故事-台美人追尋自我(Identity)的人生 ◎ 楊嘉猷](https://web.archive.org/web/20220122114800/https://www.taiwanjustice.net/2021/02/01/%E5%92%B1%E7%9A%84%E6%95%85%E9%84%89-%E5%92%B1%E7%9A%84%E6%95%85%E4%BA%8B-%E5%8F%B0%E7%BE%8E%E4%BA%BA%E8%BF%BD%E5%B0%8B%E8%87%AA%E6%88%91identity%E7%9A%84%E4%BA%BA%E7%94%9F-%E2%97%8E-%E6%A5%8A/)
+
+### 2020 (2 articles)
+
+1. **2020-09-04** — [旅美五十周年 ◎ 鄭炳全](https://web.archive.org/web/20250209211009/https://taiwanjustice.net/%e6%97%85%e7%be%8e%e4%ba%94%e5%8d%81%e5%91%a8%e5%b9%b4-%e2%97%8e-%e9%84%ad%e7%82%b3%e5%85%a8/)
+2. **2020-09-04** — [旅美五十周年 ◎ 鄭炳全](https://web.archive.org/web/20240302033647/https://www.taiwanjustice.net/?p=222913)
+
+### Body Mentions (9 articles)
+
+Articles by other authors that mention **楊嘉猷**: See [[sources/taiwanjustice-net|taiwanjustice.net source hub]] for the full article index. Top mentions by score:
+
+1. **2023-07-30** — [台美人台加人](https://web.archive.org/web/20240425083432/https://www.taiwanjustice.net/?cat=59&filter_by=random_posts&paged=2) (score: 800)
+2. **2021-02-01** — ['Daily Archives: February 1, 2021'](https://web.archive.org/web/20250721001751/https://www.taiwanjustice.net/2021/02/01/????-20210201-?????????-???????/) (score: 720)
+3. **2021-05-17** — [2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明](https://web.archive.org/web/20210616072940/https://www.taiwanjustice.net/2021/05/17/2021%E5%B9%B4%E5%8D%97%E5%8A%A0%E5%B7%9E%E5%83%91%E7%95%8C%E6%94%AF%E6%8C%81%E5%8F%B0%E7%81%A3%E5%8F%83%E8%88%87%E4%B8%96%E7%95%8C%E8%A1%9B%E7%94%9F%E5%A4%A7%E6%9C%83wha%E8%81%AF%E5%90%88%E8%81%B2/) (score: 520)
+4. **2021-05-17** — [2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明](https://web.archive.org/web/20251108183438/https://taiwanjustice.net/2021%E5%B9%B4%E5%8D%97%E5%8A%A0%E5%B7%9E%E5%83%91%E7%95%8C%E6%94%AF%E6%8C%81%E5%8F%B0%E7%81%A3%E5%8F%83%E8%88%87%E4%B8%96%E7%95%8C%E8%A1%9B%E7%94%9F%E5%A4%A7%E6%9C%83wha%E8%81%AF%E5%90%88%E8%81%B2/) (score: 515)
+5. **2025-09-05** — [台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元](https://web.archive.org/web/20251107004331/https://taiwanjustice.net/%E5%8F%B0%E7%BE%8E%E4%BA%BA%E6%AD%B7%E5%8F%B2%E5%8D%94%E6%9C%83%E6%96%B0%E4%BB%BB%E6%9C%83%E9%95%B7%E8%A8%B1%E6%99%AF%E9%B4%BB%E6%8E%A5%E6%A4%BD-%E9%96%8B%E5%95%9F%E4%B8%96%E4%BB%A3%E5%82%B3%E6%89%BF/) (score: 490)
+
+
+## Network
+
+Pages that link to **楊嘉猷** (yang-jia-you):
+
+
+### People (22)
+
+1. [[people/alan-thian.md|alan-thian]]
+2. [[people/anne-shih.md|anne-shih]]
+3. [[people/bob-j-wu.md|bob-j-wu]]
+4. [[people/franklin-ping-cheng.md|franklin-ping-cheng]]
+5. [[people/ho-chie-tsai.md|ho-chie-tsai]]
+6. [[people/hsu-hsin-hung.md|hsu-hsin-hung]]
+7. [[people/huang-gen-shen.md|huang-gen-shen]]
+8. [[people/jack-j-chen.md|jack-j-chen]]
+9. [[people/katherine-huang.md|katherine-huang]]
+10. [[people/liao-shu-zong.md|liao-shu-zong]]
+11. [[people/lin-chao-quan.md|lin-chao-quan]]
+12. [[people/lin-fu-kun.md|lin-fu-kun]]
+13. [[people/lin-yuan-ching.md|lin-yuan-ching]]
+14. [[people/martha-vandriel.md|martha-vandriel]]
+15. [[people/shawna-yang-ryan.md|shawna-yang-ryan]]
+16. [[people/tiffany-huang.md|tiffany-huang]]
+17. [[people/wang-gui-rong.md|wang-gui-rong]]
+18. [[people/wang-neng-xiang.md|wang-neng-xiang]]
+19. [[people/wang-yao-ting.md|wang-yao-ting]]
+20. [[people/zheng-bing-quan.md|zheng-bing-quan]]
+21. [[people/zhou-wei-lin.md|zhou-wei-lin]]
+22. [[people/zhou-wei-lin.md|zhou-wei-lin]]
+
+### Organizations (1)
+
+1. [[organizations/taiwanese-american-historical-society.md|taiwanese-american-historical-society]]
+
+### Sources (2)
+
+1. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
+2. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
+
+
+## Timeline
+
+Chronological events for **楊嘉猷**:
+
+
+### 2026 (1 events)
+
+- **2026-02-09** 🏛️ 咱的故鄉 咱的故事-第六講：東瀛歲月 ◎ 楊嘉猷
+
+### 2025 (7 events)
+
+- **2025-02-09** 🏛️ 旅美五十周年 ◎ 鄭炳全
+- **2025-02-09** 🏛️ 歷史必讀
+- **2025-02-16** 📰 'Tag: 大洛杉磯台灣會館耆老講座'
+- **2025-03-20** 🏛️ 大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念大會
+- **2025-07-21** 📰 'Daily Archives: February 1, 2021'
+- **2025-11-07** 🤝 台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元
+- **2025-11-08** 🏥 2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明
+
+### 2024 (2 events)
+
+- **2024-03-02** 🏛️ 旅美五十周年 ◎ 鄭炳全
+- **2024-04-25** 🎤 台美人台加人
+
+### 2023 (1 events)
+
+- **2023-06-01** 🎤 台美人歷史協會3/25舉辦「如何寫回憶錄(自傳)座談會」
+
+### 2022 (1 events)
+
+- **2022-01-22** 🏛️ 咱的故鄉 咱的故事-台美人追尋自我(Identity)的人生 ◎ 楊嘉猷
+
+### 2021 (1 events)
+
+- **2021-06-16** 🏥 2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明
+
+
+## Quotes
+
+Notable quotes and mentions of **楊嘉猷** in Taiwan Justice articles:
+
+
+### 2025 (10 quotes)
+
+1. "，台美人信仰與人文研習會，或幾個社團聯合舉辦的演講會。木彫學了四年後我獲加入TAAA 台美藝術協會，春秋二次季展，督促鼓勵我對木彫藝術的持續用心。2013年夏由楊嘉猷出面邀各方賢逹共籌台美人歷史協會Taiwanese American Historical Society，年底正式成立，他當首任會長，我當副會長，理事廿名，顧"
+   — 旅美五十周年 ◎ 鄭炳全 (2025-02-09)
+2. "9, 2021 陳儀深：李登輝僚屬故舊口述歷史 預計2023年出版 歷史必讀 July 30, 2022 海外台灣人民主運動史話(二)南加州台灣協志社成立 ◎ 楊嘉猷 歷史必讀 November 8, 2020 中共第三個歷史決議 定性六四慘案不到百字 歷史必讀 November 16, 2021 「海外存珍」國美館開展 一"
+   — 歷史必讀 (2025-02-09)
+3. "洛杉磯台灣會館9/7耆老講座-返台任職的心路歷程-謝清志、郭清江、許清煌 August 18, 2024 美國頭條 大洛杉磯台灣會館耆老講座：8/17 洪茂澤、楊嘉猷談返台參選經驗 July 24, 2024 美國頭條 大洛杉磯台灣會館耆老講座(2)-第一代台美醫師開業甘苦談 June 27, 2023 焦點影音 大洛杉磯台"
+   — 'Tag: 大洛杉磯台灣會館耆老講座' (2025-02-16)
+4. "副處長、洛僑中心主任鍾佩珍、國策顧問林榮松、僑務委員陳柏宇、副董事長陳黃群雁及蔡漢成、秘書長吳兆峯、多位董事葉怡蘭、王菊惠、陳昌平、葉俊麟等，還有台美人歷史協會楊嘉猷會長及許多長輩出席活動。228系列活動召集人李賢群及董事潘掬慧主持儀式。 國策顧問林榮松致辭時，以三位228受難者林茂生、湯德章、施江南為例，重申紀念228事件"
+   — 大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念大會 (2025-03-20)
+5. "ry 1, 2021 台積電雄風再起，台股2日終場指數大漲349.96點 股市亮點 February 1, 2021 咱的故鄉 咱的故事-第六講：東瀛歲月 ◎ 楊嘉猷 台美人台加人 February 1, 2021 緬甸政變引發民怨與困惑 澆滅民主政治希望＋翁山蘇姬被捕 洛興雅難民額手稱慶 國際焦點 February 1,"
+   — 'Daily Archives: February 1, 2021' (2025-07-21)
+6. ")假台美人長輩會辦公室，舉行新任會長許景鴻(Leonard Hsu)的就職典禮，同時召開理事會，討論修改章程、會務、財務以及工作計畫等事項。台美歷史協會創會會長楊嘉猷表示，歷史協會已經走入世代傳承的新階段，未來將更專注於收集、訪問及出版台美人第二代、第三代的傑出人物紀事。 創會會長楊嘉猷介紹說，新會長許景鴻是一位成功的台美人"
+   — 台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元 (2025-11-07)
+7. "及工作計畫等事項。台美歷史協會創會會長楊嘉猷表示，歷史協會已經走入世代傳承的新階段，未來將更專注於收集、訪問及出版台美人第二代、第三代的傑出人物紀事。 創會會長楊嘉猷介紹說，新會長許景鴻是一位成功的台美人第二代企業家，由他來接任會長，是台美人歷史協會世代傳承的最好人選。 台美人歷史協會致力於收集和保存與台美人個人或團體有關的"
+   — 台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元 (2025-11-07)
+8. "三代的台美人菁英也收錄了一部分，由第二代的許景鴻接掌台美人力是協會，將能夠將觸角更深入採集介紹更多二代、三代菁英台美人菁英，讓台美人的故事更廣泛的流傳予保留。 楊嘉猷說，台美人歷史協會是非營利組織，歡迎各界捐款贊助，捐款可以抵稅。捐款請洽會長許景鴻 626-890-0234 或楊嘉猷。 新任會長許景鴻說，他會朝著大家的共同目"
+   — 台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元 (2025-11-07)
+9. "菁英，讓台美人的故事更廣泛的流傳予保留。 楊嘉猷說，台美人歷史協會是非營利組織，歡迎各界捐款贊助，捐款可以抵稅。捐款請洽會長許景鴻 626-890-0234 或楊嘉猷。 新任會長許景鴻說，他會朝著大家的共同目標努力，也希望各界慷慨捐款給台美人歷史協會，讓會務能蒸蒸日上。 許會長說，若經費許可，歷史協會將考慮設專人在維基百科上"
+   — 台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元 (2025-11-07)
+10. "讓更多人認識台美人的成就。 新會長就職後，立即召開理事會，討論修改章程及會務。會長任期修改為一任三年，相關幹部任期也與會長任期同步。 當天與會的人員包括創會會長楊嘉猷、會長許景鴻、蔡漢成、劉玲華、李意盛、楊錦忠、沈梓在、蔡淑女、黃樹人等。 顧問劉玲華等都提出極具建設性的建議，會務討論極為熱烈。"
+   — 台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元 (2025-11-07)
+
+### 2024 (1 quotes)
+
+1. "an Archives台美史料中心August 2020 issue No.64 台美人台加人 August 1, 2020 海外台灣人民主運動史話(一) ◎ 楊嘉猷 台美人台加人 November 8, 2020 美西半球事務助卿連線蕭美琴，盼續在拉美合作 台美人台加人 August 19, 2020 疫情下洛杉磯旅館住客"
+   — 台美人台加人 (2024-04-25)
+
+### 2023 (2 quotes)
+
+1. "洛杉磯台灣會館第五教室舉辦「如何寫回憶錄(自傳)座談會」。這場座談會將由國策顧問、前國科會副主委謝清志，企業家、台美人歷史協會顧問蔡錦榮，以及台美人歷史協會會長楊嘉猷擔任講員。 謝清志先生回憶錄「生命的震動」講述台灣南科減振案的來龍去脈和他所遭遇的無妄之災，這本書深深感動了許多讀者。蔡錦榮先生是一位成功的企業家，也是台美人歷"
+   — 台美人歷史協會3/25舉辦「如何寫回憶錄(自傳)座談會」 (2023-06-01)
+2. "了許多讀者。蔡錦榮先生是一位成功的企業家，也是台美人歷史協會的顧問，他出版過自傳「我的奮鬥人生及美國夢」，這本書講述了他在美國創業的心路歷程。台美人歷史協會會長楊嘉猷先生則著有「咱的故鄉咱的故事」，這本書講述了他在台灣、日本、美國的生命歷程以及對台灣民主自由的奉獻。。 這場座談會將探討如何撰寫回憶錄，讓參加者學習如何將自己的"
+   — 台美人歷史協會3/25舉辦「如何寫回憶錄(自傳)座談會」 (2023-06-01)
+
+### 2021 (1 quotes)
+
+1. "趙韻梅、廖美華、林國彥、陳柏宇、汪俊宇、王梅鳯、于仁豪、江瑞瀛、張德芝、張珮鑾、杜武青、高啟正、許正雄、邱俊杰、楊熾勳、范同宙、呂兆鎧、劉雅薇、梁政吉、胡永全、楊嘉猷、李美紅、郭文斌、王豐一、陳漢民、李賢群、林承芳、林麥玲、梁俊凱、葉俊麟、謝傳佐、徐洸玲、唐久麗、李豐源、洪月嬌、袁璐、徐和生、楊悅英、周清耀、呂芳哲、林基龍、"
+   — 2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明 (2021-06-16)
+
+*...and 4 more quotes*
 
 ## Source Notes and Confidence
 

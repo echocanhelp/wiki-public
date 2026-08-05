@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T09:00:50.121810",
+  "generated_at": "2026-08-04T09:20:53.974943",
   "pages_scanned": 313,
   "suggestions": {
     "co_citation": [
@@ -136,7 +136,7 @@
         "shared_target": "people/albert-s-lai",
         "page1_title": "Democratic Progressive Party (\u6c11\u4e3b\u9032\u6b65\u9ee8)",
         "page2_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "shared_targets_count": 49
+        "shared_targets_count": 54
       },
       {
         "type": "CO-CITATION",
@@ -145,7 +145,7 @@
         "shared_target": "people/albert-s-lai",
         "page1_title": "Democratic Progressive Party (\u6c11\u4e3b\u9032\u6b65\u9ee8)",
         "page2_title": "National Taiwanese Presbyterian Council (NTPC)",
-        "shared_targets_count": 49
+        "shared_targets_count": 54
       },
       {
         "type": "CO-CITATION",
@@ -154,7 +154,7 @@
         "shared_target": "people/albert-s-lai",
         "page1_title": "Democratic Progressive Party (\u6c11\u4e3b\u9032\u6b65\u9ee8)",
         "page2_title": "Albert ch.1 audiobook consent kit",
-        "shared_targets_count": 49
+        "shared_targets_count": 54
       },
       {
         "type": "CO-CITATION",
@@ -1108,7 +1108,16 @@
         "shared_target": "sources/taiwanjustice-net",
         "page1_title": "Taiwanese American Historical Society (TAHS)",
         "page2_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
-        "shared_targets_count": 98
+        "shared_targets_count": 140
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/taiwanese-american-historical-society.md",
+        "page2": "people/bai-peiyu.md",
+        "shared_target": "sources/taiwanjustice-net",
+        "page1_title": "Taiwanese American Historical Society (TAHS)",
+        "page2_title": "Bai Peiyu / \u767d\u4f69\u7389",
+        "shared_targets_count": 140
       },
       {
         "type": "CO-CITATION",
@@ -1117,16 +1126,7 @@
         "shared_target": "sources/taiwanjustice-net",
         "page1_title": "Taiwanese American Historical Society (TAHS)",
         "page2_title": "Cai Ying-wen (\u8521\u82f1\u6587)",
-        "shared_targets_count": 98
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/taiwanese-american-historical-society.md",
-        "page2": "people/chen-maoxiong.md",
-        "shared_target": "sources/taiwanjustice-net",
-        "page1_title": "Taiwanese American Historical Society (TAHS)",
-        "page2_title": "Chen Mao-xiong (\u9673\u8302\u96c4)",
-        "shared_targets_count": 98
+        "shared_targets_count": 140
       },
       {
         "type": "CO-CITATION",
@@ -1343,33 +1343,6 @@
         "page1_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
         "page2_title": "Freeman Huang (\u9ec3\u6a39\u4eba)",
         "shared_targets_count": 15
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "people/alan-thian.md",
-        "page2": "people/paul-chen.md",
-        "shared_target": "articles/taiwanjustice-net/2025/20250420093345_2024\u5927\u6d1b\u6749\u78ee\u53f0\u7063\u6703\u9928\u7b2c26\u5468\u5e74\u5e74\u6703\u665a\u5bb4\u66a8\u52df\u6b3e\u6d3b\u52d511\u67082_2f4af86847559b66",
-        "page1_title": "Alan Thian (\u7530\u8a52\u9d3b)",
-        "page2_title": "Paul Chen (\u9673\u67cf\u5b87)",
-        "shared_targets_count": 5
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "people/alan-thian.md",
-        "page2": "people/roger-tsai.md",
-        "shared_target": "articles/taiwanjustice-net/2025/20250420093345_2024\u5927\u6d1b\u6749\u78ee\u53f0\u7063\u6703\u9928\u7b2c26\u5468\u5e74\u5e74\u6703\u665a\u5bb4\u66a8\u52df\u6b3e\u6d3b\u52d511\u67082_2f4af86847559b66",
-        "page1_title": "Alan Thian (\u7530\u8a52\u9d3b)",
-        "page2_title": "Roger Tsai (\u8521\u6f22\u6210)",
-        "shared_targets_count": 5
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "people/alan-thian.md",
-        "page2": "people/willy-pan.md",
-        "shared_target": "articles/taiwanjustice-net/2025/20250420093345_2024\u5927\u6d1b\u6749\u78ee\u53f0\u7063\u6703\u9928\u7b2c26\u5468\u5e74\u5e74\u6703\u665a\u5bb4\u66a8\u52df\u6b3e\u6d3b\u52d511\u67082_2f4af86847559b66",
-        "page1_title": "Alan Thian (\u7530\u8a52\u9d3b)",
-        "page2_title": "Willy Pan (\u6f58\u5efa\u5b87)",
-        "shared_targets_count": 5
       },
       {
         "type": "CO-CITATION",
@@ -1703,33 +1676,6 @@
         "page1_title": "Franklin Ping Cheng (\u7a0b\u70b3\u6210)",
         "page2_title": "Wang Gui-rong (\u738b\u6842\u69ae)",
         "shared_targets_count": 5
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "people/freeman-huang.md",
-        "page2": "people/john-yang.md",
-        "shared_target": "articles/taiwanjustice-net/2025/20251107004331_\u53f0\u7f8e\u4eba\u6b77\u53f2\u5354\u6703\u65b0\u4efb\u6703\u9577\u8a31\u666f\u9d3b\u63a5\u693d-\u958b\u555f\u4e16\u4ee3\u50b3\u627f_11575c718bbd4c74",
-        "page1_title": "Freeman Huang (\u9ec3\u6a39\u4eba)",
-        "page2_title": "John Yang (\u694a\u9326\u5fe0)",
-        "shared_targets_count": 7
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "people/freeman-huang.md",
-        "page2": "people/leonard-hsu-jr.md",
-        "shared_target": "articles/taiwanjustice-net/2025/20251107004331_\u53f0\u7f8e\u4eba\u6b77\u53f2\u5354\u6703\u65b0\u4efb\u6703\u9577\u8a31\u666f\u9d3b\u63a5\u693d-\u958b\u555f\u4e16\u4ee3\u50b3\u627f_11575c718bbd4c74",
-        "page1_title": "Freeman Huang (\u9ec3\u6a39\u4eba)",
-        "page2_title": "Leonard Hsu Jr. (\u8a31\u666f\u9d3b)",
-        "shared_targets_count": 7
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "people/freeman-huang.md",
-        "page2": "people/sunu-tsai.md",
-        "shared_target": "articles/taiwanjustice-net/2025/20251107004331_\u53f0\u7f8e\u4eba\u6b77\u53f2\u5354\u6703\u65b0\u4efb\u6703\u9577\u8a31\u666f\u9d3b\u63a5\u693d-\u958b\u555f\u4e16\u4ee3\u50b3\u627f_11575c718bbd4c74",
-        "page1_title": "Freeman Huang (\u9ec3\u6a39\u4eba)",
-        "page2_title": "Sunu Tsai (\u8521\u6dd1\u5973)",
-        "shared_targets_count": 7
       },
       {
         "type": "CO-CITATION",
@@ -7894,7 +7840,7 @@
     ]
   },
   "summary": {
-    "co_citation_count": 213,
+    "co_citation_count": 207,
     "co_mention_count": 744,
     "shared_tags_count": 0,
     "orphan_folder_count": 2

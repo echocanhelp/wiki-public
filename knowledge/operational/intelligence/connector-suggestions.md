@@ -1,7 +1,7 @@
 === VAULT CONNECTOR SUGGESTIONS ===
-Generated: 2026-08-03 09:00:50
+Generated: 2026-08-04 09:20:53
 
-[CO-CITATION] 213 suggestions
+[CO-CITATION] 207 suggestions
   events/tc-event-2025-annual-gala-fundraising-dinner.md <-> events/tc-event-2025-miss-taiwan-usa-news.md
     Both link to: organizations/taiwan-center
     (2025台灣會館年會 <-> 2025 台美小姐決選新聞報導)
@@ -494,13 +494,13 @@ Generated: 2026-08-03 09:00:50
     Both link to: sources/taiwanjustice-net
     (Taiwanese American Historical Society (TAHS) <-> taiwanjustice.net (台灣公義網))
 
+  organizations/taiwanese-american-historical-society.md <-> people/bai-peiyu.md
+    Both link to: sources/taiwanjustice-net
+    (Taiwanese American Historical Society (TAHS) <-> Bai Peiyu / 白佩玉)
+
   organizations/taiwanese-american-historical-society.md <-> people/cai-yingwen.md
     Both link to: sources/taiwanjustice-net
     (Taiwanese American Historical Society (TAHS) <-> Cai Ying-wen (蔡英文))
-
-  organizations/taiwanese-american-historical-society.md <-> people/chen-maoxiong.md
-    Both link to: sources/taiwanjustice-net
-    (Taiwanese American Historical Society (TAHS) <-> Chen Mao-xiong (陳茂雄))
 
   organizations/taiwanjustice-net.md <-> sources/taiwanjustice-net.md
     Both link to: people/chen-po-kong
@@ -597,18 +597,6 @@ Generated: 2026-08-03 09:00:50
   organizations/taiwanjustice-net.md <-> people/freeman-huang.md
     Both link to: articles/taiwanjustice-net/index
     (taiwanjustice.net (台灣公義網) <-> Freeman Huang (黃樹人))
-
-  people/alan-thian.md <-> people/paul-chen.md
-    Both link to: articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磮台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66
-    (Alan Thian (田詒鴻) <-> Paul Chen (陳柏宇))
-
-  people/alan-thian.md <-> people/roger-tsai.md
-    Both link to: articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磮台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66
-    (Alan Thian (田詒鴻) <-> Roger Tsai (蔡漢成))
-
-  people/alan-thian.md <-> people/willy-pan.md
-    Both link to: articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磮台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66
-    (Alan Thian (田詒鴻) <-> Willy Pan (潘建宇))
 
   people/albert-chapter1-audiobook-consent-and-recording-kit.md <-> people/albert-en-sku-a-scratch-review.md
     Both link to: people/albert-chapter1-audiobook-taiwanese-female
@@ -757,18 +745,6 @@ Generated: 2026-08-03 09:00:50
   people/franklin-ping-cheng.md <-> people/wang-gui-rong.md
     Both link to: people/huang-gen-shen
     (Franklin Ping Cheng (程炳成) <-> Wang Gui-rong (王桂榮))
-
-  people/freeman-huang.md <-> people/john-yang.md
-    Both link to: articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74
-    (Freeman Huang (黃樹人) <-> John Yang (楊錦忠))
-
-  people/freeman-huang.md <-> people/leonard-hsu-jr.md
-    Both link to: articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74
-    (Freeman Huang (黃樹人) <-> Leonard Hsu Jr. (許景鴻))
-
-  people/freeman-huang.md <-> people/sunu-tsai.md
-    Both link to: articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74
-    (Freeman Huang (黃樹人) <-> Sunu Tsai (蔡淑女))
 
   people/guo-shu-qing.md <-> people/liao-ji-chun.md
     Both link to: people/liao-shu-zong

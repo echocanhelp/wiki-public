@@ -12,6 +12,8 @@ publisher: freeman-huang
 lang: zh-Hant
 cdx_class: category
 post_date: 2022-01-05 17:52:46-08:00
+authors:
+  - [[people/yang-jia-you|楊嘉猷]]
 ---
 
 Home
