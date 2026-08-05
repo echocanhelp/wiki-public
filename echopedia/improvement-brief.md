@@ -1,11 +1,12 @@
-## Echopedia self-improvement — 2026-08-04
+## Echopedia self-improvement — 2026-08-05
 
 ### Ops check
+- OPS_WARN: orphan script not in ops REQUIRED list: echopedia-cdn-content-check.sh
 - OPS_WARN: orphan script not in ops REQUIRED list: echopedia-first-answer.py
-- DOCS_SUMMARY: status=WARN fail=0 warn=1 ok=13 crons=23 agent=0 links_missing=0
+- DOCS_SUMMARY: status=WARN fail=0 warn=1 ok=13 crons=27 agent=0 links_missing=0
 - DOCS_STATUS: WARN
 - OPS_WARN: docs-sync WARN
-- OPS_SUMMARY: fail=0 warn=2
+- OPS_SUMMARY: fail=0 warn=3
 - OPS_STATUS: WARN
 
 ### Deploy drift
@@ -17,9 +18,8 @@
 - FRESH_STATUS: OK
 
 ### Entity hints sync
-- HINTS_ADD: people/albert-chapter1-audiobook-taiwanese-female
 - HINTS_ADD: people/ye-siya
-- HINTS_SUMMARY: added=1
+- HINTS_SUMMARY: added=0
 - HINTS_STATUS: UPDATED
 
 ### Intake opportunities
@@ -31,12 +31,12 @@
 - INTAKE_MISSING_PAGE: Lin Qiong (type: entity, mentioned 5x in: people/guo-shu-qing.md, people/liao-ji-chun.md, people/liao-shu-zong.md (+2 more))
 - INTAKE_MISSING_PAGE: Chen Shui (type: entity, mentioned 4x in: organizations/overseas-community-affairs-council.md, people/chen-shuibian.md, people/peng-ming-min.md (+1 more))
 - INTAKE_MISSING_PAGE: Albert Ch (type: entity, mentioned 4x in: people/albert-chapter1-en-review.md, people/albert-chapter1-zh-hsiaochen-full-review.md, people/albert-chapter1-zh-review-v2.md (+1 more))
-- INTAKE_MISSING_PAGE: Daily Archives (type: entity, mentioned 4x in: people/jiang-bai-xian.md, people/richard-d-fisher.md, people/wang-dan.md (+1 more))
 - INTAKE_MISSING_PAGE: Ethan Yang (type: entity, mentioned 4x in: people/becky-yang.md, people/yang-jia-you.md, people/yang-zhengxiang.md (+1 more))
 - INTAKE_MISSING_PAGE: National Cheng Kung University (type: entity, mentioned 4x in: people/chen-wenshi.md, people/li-mutong.md, people/mingyuan-hsu.md (+1 more))
 - INTAKE_MISSING_PAGE: Peng Ming (type: entity, mentioned 4x in: people/liao-shu-zong.md, people/peng-ming-min.md, people/xu-zongbang.md (+1 more))
 - INTAKE_MISSING_PAGE: The Persistence (type: entity, mentioned 4x in: people/guo-shu-qing.md, people/liao-ji-chun.md, people/liao-shu-zong.md (+1 more))
 - INTAKE_MISSING_PAGE: Traditional Chinese (type: entity, mentioned 3x in: organizations/taiwanjustice-net.md, people/freeman-huang.md, sources/taiwanjustice-net.md)
+- INTAKE_MISSING_PAGE: 台美藝術 (type: organization, mentioned 3x in: organizations/taiwan-center.md, organizations/taiwanese-american-arts-association.md, people/yang-jia-you.md)
 - INTAKE_MISSING_PAGE: West Chapter (type: entity, mentioned 3x in: organizations/democratic-progressive-party.md, people/ken-wu.md, sources/wikipedia-democratic-progressive-party.md)
 - INTAKE_MISSING_PAGE: Tsai Ing (type: entity, mentioned 3x in: organizations/democratic-progressive-party.md, people/li-mutong.md, people/wang-kexiong.md)
 - INTAKE_MISSING_PAGE: Legislative Yuan (type: entity, mentioned 3x in: organizations/democratic-progressive-party.md, people/wang-jinping.md, people/wang-kexiong.md)
@@ -55,10 +55,9 @@
 - INTAKE_MISSING_PAGE: California Hotel (type: entity, mentioned 3x in: people/chen-wenxue.md, people/chen-zhefu-xu-chunhui.md, people/li-mutong.md)
 - INTAKE_MISSING_PAGE: Ramada Inn (type: entity, mentioned 3x in: people/chen-zhefu-xu-chunhui.md, people/li-mutong.md, people/wang-gui-rong.md)
 - INTAKE_MISSING_PAGE: Wang Yao (type: entity, mentioned 3x in: people/wang-yao-ting-xie-xiulan.md, people/wang-yao-ting.md, sources/2023-tahs-publication.md)
-- INTAKE_MISSING_PAGE: Advanced Micro Devices (type: entity, mentioned 3x in: people/hong-ya.md, people/lisa-su.md, people/su-chun-huai.md)
 - INTAKE_MISSING_PAGE: Guo Shu (type: entity, mentioned 3x in: people/guo-shu-qing.md, people/liao-shu-zong.md, people/lin-qiong-xian.md)
 - INTAKE_OK: no interaction name candidates
-- INTAKE_SUMMARY: missing=34 interaction=0
+- INTAKE_SUMMARY: missing=33 interaction=0
 - INTAKE_STATUS: ACTION
 
 ### Cron selfcheck
@@ -66,23 +65,23 @@
 - CRON_STATUS: OK
 
 ### Queue drain (programmable)
-- DRAIN: people/lin-rongsong.md → ['refresh last_reviewed']
-- DRAIN: people/zou-jingwen.md → ['refresh last_reviewed']
-- DRAIN: people/zheng-wenlong.md → ['refresh last_reviewed']
-- DRAIN: people/zheng-qinren.md → ['refresh last_reviewed']
-- DRAIN: people/wang-qiaoling.md → ['refresh last_reviewed']
+- DRAIN: people/kevin-lee.md → ['refresh last_reviewed']
+- DRAIN: people/cao-changqing.md → ['refresh last_reviewed']
+- DRAIN: people/chao-sile.md → ['refresh last_reviewed']
+- DRAIN: people/guan-renjian.md → ['refresh last_reviewed']
+- DRAIN: people/hu-ping.md → ['refresh last_reviewed']
 - DRAIN_SUMMARY: items=5
 - DRAIN_STATUS: DONE
 
 ### Drain detail
-## Queue drain — 2026-08-04
+## Queue drain — 2026-08-05
 - Items: **5**
 
-- `people/lin-rongsong.md`: refresh last_reviewed
-- `people/zou-jingwen.md`: refresh last_reviewed
-- `people/zheng-wenlong.md`: refresh last_reviewed
-- `people/zheng-qinren.md`: refresh last_reviewed
-- `people/wang-qiaoling.md`: refresh last_reviewed
+- `people/kevin-lee.md`: refresh last_reviewed
+- `people/cao-changqing.md`: refresh last_reviewed
+- `people/chao-sile.md`: refresh last_reviewed
+- `people/guan-renjian.md`: refresh last_reviewed
+- `people/hu-ping.md`: refresh last_reviewed
 
 Safe programmable only — body first-mentions still human/local agent.
 
@@ -98,14 +97,11 @@ Safe programmable only — body first-mentions still human/local agent.
 - `MISSING_PAGE: Lin Qiong (type: entity, mentioned 5x in: people/guo-shu-qing.md, people/liao-ji-chun.md, people/liao-shu-zong.md (+2 more))`
 - `MISSING_PAGE: Chen Shui (type: entity, mentioned 4x in: organizations/overseas-community-affairs-council.md, people/chen-shuibian.md, people/peng-ming-min.md (+1 more))`
 - `MISSING_PAGE: Albert Ch (type: entity, mentioned 4x in: people/albert-chapter1-en-review.md, people/albert-chapter1-zh-hsiaochen-full-review.md, people/albert-chapter1-zh-review-v2.md (+1 more))`
-- `MISSING_PAGE: Daily Archives (type: entity, mentioned 4x in: people/jiang-bai-xian.md, people/richard-d-fisher.md, people/wang-dan.md (+1 more))`
 - `MISSING_PAGE: Ethan Yang (type: entity, mentioned 4x in: people/becky-yang.md, people/yang-jia-you.md, people/yang-zhengxiang.md (+1 more))`
 - `MISSING_PAGE: National Cheng Kung University (type: entity, mentioned 4x in: people/chen-wenshi.md, people/li-mutong.md, people/mingyuan-hsu.md (+1 more))`
 - `MISSING_PAGE: Peng Ming (type: entity, mentioned 4x in: people/liao-shu-zong.md, people/peng-ming-min.md, people/xu-zongbang.md (+1 more))`
+- `MISSING_PAGE: The Persistence (type: entity, mentioned 4x in: people/guo-shu-qing.md, people/liao-ji-chun.md, people/liao-shu-zong.md (+1 more))`
 
 - No strong interaction name candidates
 
 *Auto: no page creation — queue for human/ops.*
-### Review gate: generated cards
-- No generated cards this week
-
