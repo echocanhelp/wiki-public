@@ -28,6 +28,20 @@ last_reviewed: 2026-07-23
 
 Wang Yao-ting was one of the key founders of the Taiwanese American Historical Society, serving as vice president alongside founding president 楊嘉猷 (Charles Yang), first convener 鄭炳全, and secretary 周威霖. He was also listed among the initial preparatory members who attended the first preparatory meeting on August 28, 2013, in Fullerton, CA.
 
+
+## Network
+
+Pages that link to **wang-yao-ting** (wang-yao-ting):
+
+
+### People (1)
+
+1. [[people/zheng-bing-quan.md|zheng-bing-quan]]
+
+### Organizations (1)
+
+1. [[organizations/taiwanese-american-historical-society.md|taiwanese-american-historical-society]]
+
 ## Source Notes and Confidence
 
 - **Content priority B:** 2017 TAHS Publication (founding narrative by 周威霖, Part 1)

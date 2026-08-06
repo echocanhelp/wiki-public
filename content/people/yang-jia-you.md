@@ -185,7 +185,6 @@ Pages that link to **楊嘉猷** (yang-jia-you):
 1. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
 2. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
 
-
 ## Timeline
 
 Chronological events for **楊嘉猷**:
@@ -221,7 +220,6 @@ Chronological events for **楊嘉猷**:
 ### 2021 (1 events)
 
 - **2021-06-16** 🏥 2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明
-
 
 ## Quotes
 

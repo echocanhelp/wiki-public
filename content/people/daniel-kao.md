@@ -28,6 +28,31 @@ In the 2025 Self-Preface to [[sources/toward-a-community-of-hope|Toward A Commun
 
 **Disambiguation:** Not the same person as [[people/chaolong-kao|Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)]], who was called as **organizing minister** by the Presbytery of Los Angeles Southwest in September 1971.
 
+
+## Network
+
+Pages that link to **daniel-kao** (daniel-kao):
+
+
+### People (6)
+
+1. [[people/albert-s-lai.md|albert-s-lai]]
+2. [[people/albert-s-lai.md|albert-s-lai]]
+3. [[people/c-c-chen.md|c-c-chen]]
+4. [[people/c-c-chen.md|c-c-chen]]
+5. [[people/chaolong-kao.md|chaolong-kao]]
+6. [[people/chaolong-kao.md|chaolong-kao]]
+
+### Organizations (3)
+
+1. [[organizations/formosan-presbyterian-church-in-los-angeles.md|formosan-presbyterian-church-in-los-angeles]]
+2. [[organizations/formosan-presbyterian-church-in-los-angeles.md|formosan-presbyterian-church-in-los-angeles]]
+3. [[organizations/formosan-presbyterian-church-in-los-angeles.md|formosan-presbyterian-church-in-los-angeles]]
+
+### Sources (1)
+
+1. [[sources/toward-a-community-of-hope.md|toward-a-community-of-hope]]
+
 ## Source Notes and Confidence
 
 - **Content priority A:** Named as co-founder couple in Lai Self-Preface (2025 republication of 1971 dissertation context)

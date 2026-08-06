@@ -68,6 +68,68 @@ Articles by other authors that mention **黃根深**: See [[sources/taiwanjustic
 2. **2020-09-04** — [[articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3|旅美五十周年 ◎ 鄭炳全]] (score: 395)
 3. **2020-09-04** — [[articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16|旅美五十周年 ◎ 鄭炳全]] (score: 395)
 
+
+## Timeline
+
+Chronological events for **黃根深**:
+
+
+### 2025 (1 events)
+
+- **2025-02-09** 🏛️ 旅美五十周年 ◎ 鄭炳全
+
+### 2024 (3 events)
+
+- **2024-03-02** 🏛️ 旅美五十周年 ◎ 鄭炳全
+- **2024-05-20** 🗳️ 台美人台加人
+- **2024-07-19** 📰 Taiwanese are Taiwanese-Please sign the petition for Census US – 2020 ◎黃根深(Ken
+
+### 2017 (1 events)
+
+- **2017-12-20** 🎤 全美台灣人權協會年會暨鄭南榕紀念獎、王康陸人權獎頒獎典禮 12/09 聖地牙哥舉行(得獎人鄭文龍、王泰和、黃根深)
+
+
+## Network
+
+Pages that link to **黃根深** (huang-gen-shen):
+
+
+### People (6)
+
+1. [[people/franklin-ping-cheng.md|franklin-ping-cheng]]
+2. [[people/liao-shu-zong.md|liao-shu-zong]]
+3. [[people/lin-fu-kun.md|lin-fu-kun]]
+4. [[people/wang-gui-rong.md|wang-gui-rong]]
+5. [[people/yang-jia-you.md|yang-jia-you]]
+6. [[people/yang-xin.md|yang-xin]]
+
+### Organizations (1)
+
+1. [[organizations/taiwanese-american-historical-society.md|taiwanese-american-historical-society]]
+
+
+## Quotes
+
+Notable quotes and mentions of **黃根深** in Taiwan Justice articles:
+
+
+### 2025 (1 quotes)
+
+1. "wanese American Historical Society，年底正式成立，他當首任會長，我當副會長，理事廿名，顧問七名，申請非營利組織，次年我接會長，黃根深教授設計Logo，黃樹人規劃網頁 TAhistory.org，四五年間我們訪問三四十位鄉親先賢，替台美人歷史留下珍貴的－頁，主辦十多場追思會、演講會、和展覽會等"
+   — 旅美五十周年 ◎ 鄭炳全 (2025-02-09)
+
+### 2024 (1 quotes)
+
+1. "VID-19新冠仇恨犯罪法》 ：美國不會給仇恨留下空間 台美人台加人 May 20, 2021 台美人物誌-半世紀前UCLA的那些日子-與談人︰李木通、劉天良、黃根深@03092016 ◎美洲台灣日報 台美人台加人 August 22, 2017 大洛杉磯台灣會館2016 年會暨募款晚會特別來賓黃國昌立委會前記者會@10/2"
+   — 台美人台加人 (2024-05-20)
+
+### 2017 (2 quotes)
+
+1. "台灣會館會訊 台美人影音頻道 Home 台美人台加人 全美台灣人權協會年會暨鄭南榕紀念獎、王康陸人權獎頒獎典禮 12/09 聖地牙哥舉行(得獎人鄭文龍、王泰和、黃根深) 台美人台加人 全美台灣人權協會年會暨鄭南榕紀念獎、王康陸人權獎頒獎典禮 12/09 聖地牙哥舉行(得獎人鄭文龍、王泰和、黃根深) November 29,"
+   — 全美台灣人權協會年會暨鄭南榕紀念獎、王康陸人權獎頒獎典禮 12/09 聖地牙哥舉行(得獎人鄭文龍、王泰和、黃根深) (2017-12-20)
+2. "哥舉行(得獎人鄭文龍、王泰和、黃根深) 台美人台加人 全美台灣人權協會年會暨鄭南榕紀念獎、王康陸人權獎頒獎典禮 12/09 聖地牙哥舉行(得獎人鄭文龍、王泰和、黃根深) November 29, 2017 RELATED ARTICLES MORE FROM AUTHOR 龔小夏：中共正在侵蝕民主世界的自由 ◎大紀元 201"
+   — 全美台灣人權協會年會暨鄭南榕紀念獎、王康陸人權獎頒獎典禮 12/09 聖地牙哥舉行(得獎人鄭文龍、王泰和、黃根深) (2017-12-20)
+
 ## Source Notes and Confidence
 - **Content priority A:** 2017 TAHS Publication profile "用畫筆搞台獨的黃根深教授" (Part 2, L667–843), by 陳婉真
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]

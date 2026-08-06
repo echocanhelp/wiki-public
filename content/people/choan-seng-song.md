@@ -39,6 +39,20 @@ Within this cluster, Dr. Song is treated as an intellectual reference rather tha
 1. Offers a contextual-theological lens for diaspora identity and mission debates. — Source: cluster interpretation (C)
 2. Supports cross-linking between Taiwanese theology and North American church-history memory work. — Source: cluster synthesis (C)
 
+
+## Network
+
+Pages that link to **choan-seng-song** (choan-seng-song):
+
+
+### People (1)
+
+1. [[people/index.md|index]]
+
+### Organizations (1)
+
+1. [[organizations/index.md|index]]
+
 ## Source Notes and Confidence
 
 ### Source Confidence Legend

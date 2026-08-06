@@ -43,6 +43,20 @@ Su Chun-huai has been involved in various Taiwanese American community organizat
 - Founding director, New York Taiwan Association (紐約台灣會館)
 - Active participant in Taiwanese American community affairs
 
+
+## Network
+
+Pages that link to **su-chun-huai** (su-chun-huai):
+
+
+### People (1)
+
+1. [[people/lisa-su.md|lisa-su]]
+
+### Sources (1)
+
+1. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
+
 ## Source Notes and Confidence
 
 - **Content priority A:** 2017 TAHS Publication (profile Part 2, ~97 lines), written by 賴慧娜

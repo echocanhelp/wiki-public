@@ -20,6 +20,24 @@ last_reviewed: 2026-07-16
 - **Role:** 執行長
 - **Organization:** [[organizations/taiwan-center|Taiwan Center (TWCLA)]]
 
+
+## Network
+
+Pages that link to **simon-lin** (simon-lin):
+
+
+### People (1)
+
+1. [[people/ken-wu.md|ken-wu]]
+
+### Organizations (1)
+
+1. [[organizations/taiwan-center.md|taiwan-center]]
+
+### Sources (1)
+
+1. [[sources/taiwancenter-org.md|taiwancenter-org]]
+
 ## Source Notes and Confidence
 
 - **Content priority A:** Name and role on https://www.taiwancenter.org/board (archived `taiwancenter-org-board.md`)

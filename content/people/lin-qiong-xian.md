@@ -41,6 +41,17 @@ Lin Qiong-xian was skilled at matchmaking. When her son 廖述宗 received his P
 
 The family ran a stationery shop called "文藝社" (Wenyi She) at home. Lin Qiong-xian raised eight children with great dedication, managing household affairs, the family shop, and supporting her husband's artistic career.
 
+
+## Network
+
+Pages that link to **lin-qiong-xian** (lin-qiong-xian):
+
+
+### People (2)
+
+1. [[people/guo-shu-qing.md|guo-shu-qing]]
+2. [[people/liao-ji-chun.md|liao-ji-chun]]
+
 ## Source Notes and Confidence
 
 - **Content priority A:** 2017 TAHS Publication 生命的執著 (The Persistence of Life) — Liao Shu-zong profile, Part 2, mentions of mother

@@ -26,6 +26,17 @@ Li succeeded [[people/zhang-xuanxin|Zhang Xuanxin (張宣信)]], who left ITPC i
 - [[organizations/irvine-taiwanese-presbyterian-church|Irvine Taiwanese Presbyterian Church (ITPC)]]
 - [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]]
 
+
+## Network
+
+Pages that link to **li-furen** (li-furen):
+
+
+### People (2)
+
+1. [[people/chen-meihui.md|chen-meihui]]
+2. [[people/index.md|index]]
+
 ## Source Notes and Confidence
 - Primary source: ITPC official website (https://www.itpc.org.tw/), pastor/leadership page listing 李輔仁牧師 as current pastor (2025–2026).
 - Supporting context: Chen Meihui page references Li Fu-Jen as "current ITPC pastor per official site."

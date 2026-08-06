@@ -74,6 +74,40 @@ Rev. Hsu is currently represented in this cluster through republication-era memo
 2. Contributes to church-history documentation posture in NTPC-related networks. — Source: Toward A Community of Hope context notes (C)
 3. Functions as intergenerational bridge voice linking historical recordation to contemporary community stewardship. — Source: page synthesis from current cluster (C)
 
+
+## Network
+
+Pages that link to **mingyuan-hsu** (mingyuan-hsu):
+
+
+### People (12)
+
+1. [[people/albert-s-lai.md|albert-s-lai]]
+2. [[people/albert-s-lai.md|albert-s-lai]]
+3. [[people/alexander-macdonald.md|alexander-macdonald]]
+4. [[people/alexander-macdonald.md|alexander-macdonald]]
+5. [[people/ching-fang-chen.md|ching-fang-chen]]
+6. [[people/en-sheng-pan.md|en-sheng-pan]]
+7. [[people/index.md|index]]
+8. [[people/ntpc.md|ntpc]]
+9. [[people/pinghsi-liu.md|pinghsi-liu]]
+10. [[people/pinghsi-liu.md|pinghsi-liu]]
+11. [[people/pingtung-lai.md|pingtung-lai]]
+12. [[people/yunching-yeh-davis.md|yunching-yeh-davis]]
+
+### Organizations (6)
+
+1. [[organizations/good-shepherd-taiwanese-presbyterian-church.md|good-shepherd-taiwanese-presbyterian-church]]
+2. [[organizations/good-shepherd-taiwanese-presbyterian-church.md|good-shepherd-taiwanese-presbyterian-church]]
+3. [[organizations/good-shepherd-taiwanese-presbyterian-church.md|good-shepherd-taiwanese-presbyterian-church]]
+4. [[organizations/good-shepherd-taiwanese-presbyterian-church.md|good-shepherd-taiwanese-presbyterian-church]]
+5. [[organizations/national-taiwanese-presbyterian-council.md|national-taiwanese-presbyterian-council]]
+6. [[organizations/national-taiwanese-presbyterian-council.md|national-taiwanese-presbyterian-council]]
+
+### Sources (1)
+
+1. [[sources/toward-a-community-of-hope.md|toward-a-community-of-hope]]
+
 ## Source Notes and Confidence
 
 ### Source Confidence Legend

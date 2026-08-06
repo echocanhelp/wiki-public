@@ -22,6 +22,18 @@ Zheng Quansheng is recognized as a member of the Taiwanese American historical a
 1. Active participation in Taiwanese American community activities
 2. Engagement with historical preservation efforts
 
+
+## Network
+
+Pages that link to **zheng-quansheng** (zheng-quansheng):
+
+
+### People (3)
+
+1. [[people/guo-yingyan.md|guo-yingyan]]
+2. [[people/guo-yingyan.md|guo-yingyan]]
+3. [[people/index.md|index]]
+
 ## Source Notes and Confidence
 - Needs verification: expanded biographical details
 - Moderate confidence: named in community records

@@ -28,6 +28,27 @@ GSTPC bulletin ingestion also captured 陳美蕙牧師 / Pastor Chen as a sermon
 
 The ITPC official site's 2025–2026 pastor page lists 李輔仁牧師 (Rev. Fu-Jen Li) as current pastor. For that reason, this page records 陳美蕙牧師 as a historical ITPC pastoral leader rather than the current pastor.
 
+
+## Network
+
+Pages that link to **chen-meihui** (chen-meihui):
+
+
+### People (3)
+
+1. [[people/index.md|index]]
+2. [[people/li-furen.md|li-furen]]
+3. [[people/li-furen.md|li-furen]]
+
+### Organizations (2)
+
+1. [[organizations/good-shepherd-taiwanese-presbyterian-church.md|good-shepherd-taiwanese-presbyterian-church]]
+2. [[organizations/irvine-taiwanese-presbyterian-church.md|irvine-taiwanese-presbyterian-church]]
+
+### Sources (1)
+
+1. [[sources/irvine-taiwanese-presbyterian-church.md|irvine-taiwanese-presbyterian-church]]
+
 ## Source Notes and Confidence
 
 - Primary source: official ITPC history document, "Irvine [[organizations/presbyterian-church-in-taiwan|台灣基督長老教會 (PCT)]]的歷史," linked from the church About page and captured from the official website crawl on 2026-06-06.

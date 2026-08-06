@@ -22,6 +22,25 @@ last_reviewed: 2026-07-16
 
 Also named as a senior **Chinese (華文班)** instructor at the Taiwan Center Taiwan School (師大中文; 10+ years overseas teaching).
 
+
+## Network
+
+Pages that link to **april-lin** (april-lin):
+
+
+### People (5)
+
+1. [[people/he-sumei.md|he-sumei]]
+2. [[people/shi-yuli.md|shi-yuli]]
+3. [[people/wang-rongyi.md|wang-rongyi]]
+4. [[people/wei-boji.md|wei-boji]]
+5. [[people/xu-shitan.md|xu-shitan]]
+
+### Organizations (2)
+
+1. [[organizations/taiwan-center.md|taiwan-center]]
+2. [[organizations/taiwan-center.md|taiwan-center]]
+
 ## Source Notes and Confidence
 
 - **Content priority A:** Name and role on https://www.taiwancenter.org/board (archived `taiwancenter-org-board.md`)

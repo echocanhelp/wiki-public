@@ -35,6 +35,31 @@ From his 2025 foreword material:
 - **2020** — Began service at Tainan East Gate Barclay Memorial Church
 - **2023** — Invited by Rev. Mingyuan Hsu to help translate Lai's dissertation and pursue publication
 
+
+## Network
+
+Pages that link to **pinghsi-liu** (pinghsi-liu):
+
+
+### People (7)
+
+1. [[people/albert-s-lai.md|albert-s-lai]]
+2. [[people/albert-s-lai.md|albert-s-lai]]
+3. [[people/ching-fang-chen.md|ching-fang-chen]]
+4. [[people/en-sheng-pan.md|en-sheng-pan]]
+5. [[people/index.md|index]]
+6. [[people/ntpc.md|ntpc]]
+7. [[people/pingtung-lai.md|pingtung-lai]]
+
+### Organizations (2)
+
+1. [[organizations/national-taiwanese-presbyterian-council.md|national-taiwanese-presbyterian-council]]
+2. [[organizations/national-taiwanese-presbyterian-council.md|national-taiwanese-presbyterian-council]]
+
+### Sources (1)
+
+1. [[sources/toward-a-community-of-hope.md|toward-a-community-of-hope]]
+
 ## Source Notes and Confidence
 
 - **Content priority A:** First-person republication narrative; collaboration with Hsu; Barclay Memorial Church role

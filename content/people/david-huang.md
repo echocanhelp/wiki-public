@@ -43,6 +43,27 @@ Rev. Huang’s documented placement in the transition year helps trace how NTPC 
 1. Connected commemoration output to long-term historical preservation objectives. — Source: republication context (B)
 2. Helped sustain visibility of first-generation Taiwanese church history for younger generations. — Source: cluster interpretation (C)
 
+
+## Network
+
+Pages that link to **david-huang** (david-huang):
+
+
+### People (3)
+
+1. [[people/ching-fang-chen.md|ching-fang-chen]]
+2. [[people/ching-fang-chen.md|ching-fang-chen]]
+3. [[people/index.md|index]]
+
+### Organizations (2)
+
+1. [[organizations/good-shepherd-taiwanese-presbyterian-church.md|good-shepherd-taiwanese-presbyterian-church]]
+2. [[organizations/good-shepherd-taiwanese-presbyterian-church.md|good-shepherd-taiwanese-presbyterian-church]]
+
+### Sources (1)
+
+1. [[sources/good-shepherd-taiwanese-presbyterian-church.md|good-shepherd-taiwanese-presbyterian-church]]
+
 ## Source Notes and Confidence
 
 ### Source Confidence Legend

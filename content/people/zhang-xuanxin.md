@@ -22,6 +22,28 @@ Zhang Xuanxin is recognized as a member of the [[organizations/taiwanese-america
 1. Active participation in Taiwanese American community activities
 2. Engagement with historical preservation efforts
 
+
+## Network
+
+Pages that link to **zhang-xuanxin** (zhang-xuanxin):
+
+
+### People (5)
+
+1. [[people/chen-meihui.md|chen-meihui]]
+2. [[people/chen-meihui.md|chen-meihui]]
+3. [[people/index.md|index]]
+4. [[people/li-furen.md|li-furen]]
+5. [[people/li-furen.md|li-furen]]
+
+### Organizations (1)
+
+1. [[organizations/irvine-taiwanese-presbyterian-church.md|irvine-taiwanese-presbyterian-church]]
+
+### Sources (1)
+
+1. [[sources/irvine-taiwanese-presbyterian-church.md|irvine-taiwanese-presbyterian-church]]
+
 ## Source Notes and Confidence
 - Needs verification: expanded biographical details
 - Moderate confidence: named in community records

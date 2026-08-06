@@ -38,6 +38,31 @@ Key themes:
 - Hopeful community theology
 - Unfinished mission across generations
 
+
+## Network
+
+Pages that link to **yunching-yeh-davis** (yunching-yeh-davis):
+
+
+### People (7)
+
+1. [[people/albert-s-lai.md|albert-s-lai]]
+2. [[people/albert-s-lai.md|albert-s-lai]]
+3. [[people/ching-fang-chen.md|ching-fang-chen]]
+4. [[people/en-sheng-pan.md|en-sheng-pan]]
+5. [[people/index.md|index]]
+6. [[people/ntpc.md|ntpc]]
+7. [[people/pinghsi-liu.md|pinghsi-liu]]
+
+### Organizations (2)
+
+1. [[organizations/national-taiwanese-presbyterian-council.md|national-taiwanese-presbyterian-council]]
+2. [[organizations/national-taiwanese-presbyterian-council.md|national-taiwanese-presbyterian-council]]
+
+### Sources (1)
+
+1. [[sources/toward-a-community-of-hope.md|toward-a-community-of-hope]]
+
 ## Source Notes and Confidence
 
 - **Content priority A:** NTPC Moderator role; foreword authorship and themes

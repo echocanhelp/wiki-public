@@ -178,6 +178,18 @@ Please confirm or change:
 - 2026-07-21: Leonard Hsu Jr. confirmed "@David Lee (Work)" as David Lee's verified LINE account
 - 2026-07-21: Owner designated career profile https://www.linkedin.com/in/olufs3n
 
+
+## Network
+
+Pages that link to **李東璞** (david-lee):
+
+
+### People (3)
+
+1. [[people/index.md|index]]
+2. [[people/ken-wu.md|ken-wu]]
+3. [[people/rex-chen.md|rex-chen]]
+
 ## Related Pages
 
 - [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]

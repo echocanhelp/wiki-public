@@ -60,6 +60,20 @@ Su's father, **蘇春槐 (Su Chun-huai)**, was profiled in the same 2017 TAHS Pu
 
 Su's story is emblematic of the second-generation Taiwanese American experience — children of immigrants who achieve the highest levels of success in mainstream American society.
 
+
+## Network
+
+Pages that link to **lisa-su** (lisa-su):
+
+
+### People (1)
+
+1. [[people/su-chun-huai.md|su-chun-huai]]
+
+### Sources (1)
+
+1. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
+
 ## Source Notes and Confidence
 
 - **Content priority A:** 2017 TAHS Publication (profile L844–1027, Part 2, ~183 lines), written by 曾恆利

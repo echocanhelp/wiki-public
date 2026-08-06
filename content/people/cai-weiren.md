@@ -26,6 +26,26 @@ Contributed to worship in both early years (2016) and recent years (2023).
    - Sermons in 2016 and 2023.
    - Example: GSTPC Bulletin 2023-04-30
 
+
+## Network
+
+Pages that link to **cai-weiren** (cai-weiren):
+
+
+### People (2)
+
+1. [[people/index.md|index]]
+2. [[people/index.md|index]]
+
+### Organizations (2)
+
+1. [[organizations/good-shepherd-taiwanese-presbyterian-church.md|good-shepherd-taiwanese-presbyterian-church]]
+2. [[organizations/index.md|index]]
+
+### Sources (1)
+
+1. [[sources/irvine-taiwanese-presbyterian-church.md|irvine-taiwanese-presbyterian-church]]
+
 ## Source Notes and Confidence
 - High confidence: named preaching across years.
 - Needs verification: expanded relationship.

@@ -31,6 +31,32 @@ Following the NTPC's 50th anniversary (2024; commemorative work associated with 
 
 His June 2025 foreword stressed urgency of preservation, history as theological encounter, and Lai's 1971 dissertation as a cornerstone resource for understanding the founding of the first Taiwanese Presbyterian church in Southern California ([[organizations/formosan-presbyterian-church-in-los-angeles|FPCLA]] lineage).
 
+
+## Network
+
+Pages that link to **ching-fang-chen** (ching-fang-chen):
+
+
+### People (7)
+
+1. [[people/albert-s-lai.md|albert-s-lai]]
+2. [[people/albert-s-lai.md|albert-s-lai]]
+3. [[people/en-sheng-pan.md|en-sheng-pan]]
+4. [[people/index.md|index]]
+5. [[people/ntpc.md|ntpc]]
+6. [[people/pinghsi-liu.md|pinghsi-liu]]
+7. [[people/yunching-yeh-davis.md|yunching-yeh-davis]]
+
+### Organizations (3)
+
+1. [[organizations/national-taiwanese-presbyterian-council.md|national-taiwanese-presbyterian-council]]
+2. [[organizations/national-taiwanese-presbyterian-council.md|national-taiwanese-presbyterian-council]]
+3. [[organizations/national-taiwanese-presbyterian-council.md|national-taiwanese-presbyterian-council]]
+
+### Sources (1)
+
+1. [[sources/toward-a-community-of-hope.md|toward-a-community-of-hope]]
+
 ## Source Notes and Confidence
 
 - **Content priority A:** Inaugural Historical Committee Chair; foreword themes and endorsement narrative

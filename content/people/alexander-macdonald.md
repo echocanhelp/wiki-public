@@ -79,6 +79,17 @@ His death deeply affected the Taiwanese Christian community. According to histor
 
 His legacy continues through the many institutions he founded, including STM Taiwan (where [[people/mingyuan-hsu|Rev. Ming Yuan Hsu]] studied), the Presbyterian Church in Taiwan, and Mackay Memorial Hospital.
 
+
+## Network
+
+Pages that link to **alexander-macdonald** (alexander-macdonald):
+
+
+### Organizations (2)
+
+1. [[organizations/good-shepherd-taiwanese-presbyterian-church.md|good-shepherd-taiwanese-presbyterian-church]]
+2. [[organizations/good-shepherd-taiwanese-presbyterian-church.md|good-shepherd-taiwanese-presbyterian-church]]
+
 ## Related Pages
 
 - [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]]

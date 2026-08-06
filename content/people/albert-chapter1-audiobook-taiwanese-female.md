@@ -23,6 +23,19 @@ This page hosts the full audiobook narration for Chapter I of *Toward A Communit
 
 [Play / Download Chapter 1 Audio](/media/albert-chapter1-taiwanese-female-full.mp3)
 
+
+## Network
+
+Pages that link to **albert-chapter1-audiobook-taiwanese-female** (albert-chapter1-audiobook-taiwanese-female):
+
+
+### People (4)
+
+1. [[people/albert-chapter1-audiobook-consent-and-recording-kit.md|albert-chapter1-audiobook-consent-and-recording-kit]]
+2. [[people/albert-chapter1-audiobook-consent-and-recording-kit.md|albert-chapter1-audiobook-consent-and-recording-kit]]
+3. [[people/albert-s-lai.md|albert-s-lai]]
+4. [[people/index.md|index]]
+
 ## Related Pages
 
 - Chapter I: Formosan in Formosa Yesterday

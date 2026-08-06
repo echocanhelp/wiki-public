@@ -34,6 +34,27 @@ Articles by other authors that mention **willy-pan**: See [[sources/taiwanjustic
 
 1. **2024-10-04** — [[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66|2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2日舉行]] (score: 690)
 
+
+## Timeline
+
+Chronological events for **潘建宇**:
+
+
+### 2025 (1 events)
+
+- **2025-04-20** 📰 2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2日舉行
+
+
+## Quotes
+
+Notable quotes and mentions of **潘建宇** in Taiwan Justice articles:
+
+
+### 2025 (1 quotes)
+
+1. "陳昌平、陳俊言、林淑卿、林冠豪、沈毅昌、沈柏文、劉雅薇、劉博仁、葉俊麟、葉怡蘭、游蕙綾、胡永全、張欣珠、黃昭竣、黃馨瑤、楊悅英、楊榮勝、李賢群、宋怡欣、丁永樂、潘建宇、蔚忠諺、戴智信、許勝凱及葉上毅等，共計38位董事) Taiwan Center Foundation of Greater Los Angeles will"
+   — 2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2日舉行 (2025-04-20)
+
 ## Source Notes and Confidence
 - Needs verification: expanded biographical details
 - Moderate confidence: named in community records

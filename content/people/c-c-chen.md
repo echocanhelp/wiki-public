@@ -26,6 +26,27 @@ last_reviewed: 2026-07-15
 
 In the 2025 Self-Preface to [[sources/toward-a-community-of-hope|Toward A Community of Hope]], Dr. Lai lists **Dr. & Mrs. C. C. Chen (陳昭俊夫婦)** immediately after the [[people/daniel-kao|Daniel Kao]] family among the core co-founding households who organized the first Taiwanese Presbyterian church in North America, alongside other lay leaders and UPCUSA supporters.
 
+
+## Network
+
+Pages that link to **c-c-chen** (c-c-chen):
+
+
+### People (3)
+
+1. [[people/albert-s-lai.md|albert-s-lai]]
+2. [[people/albert-s-lai.md|albert-s-lai]]
+3. [[people/daniel-kao.md|daniel-kao]]
+
+### Organizations (2)
+
+1. [[organizations/formosan-presbyterian-church-in-los-angeles.md|formosan-presbyterian-church-in-los-angeles]]
+2. [[organizations/formosan-presbyterian-church-in-los-angeles.md|formosan-presbyterian-church-in-los-angeles]]
+
+### Sources (1)
+
+1. [[sources/toward-a-community-of-hope.md|toward-a-community-of-hope]]
+
 ## Source Notes and Confidence
 
 - **Content priority A:** Named as co-founder couple in Lai Self-Preface

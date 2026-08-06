@@ -34,6 +34,30 @@ According to [[people/albert-s-lai|Dr. Albert S. Lai]]'s 1971 dissertation [[sou
 
 **Disambiguation:** Co-founder [[people/daniel-kao|Dr. Daniel Kao (高光民)]] is a different person. Do not merge Charles C.L. Kao with Daniel Kao.
 
+
+## Network
+
+Pages that link to **chaolong-kao** (chaolong-kao):
+
+
+### People (6)
+
+1. [[people/albert-s-lai.md|albert-s-lai]]
+2. [[people/albert-s-lai.md|albert-s-lai]]
+3. [[people/c-c-chen.md|c-c-chen]]
+4. [[people/daniel-kao.md|daniel-kao]]
+5. [[people/daniel-kao.md|daniel-kao]]
+6. [[people/jonah-chang.md|jonah-chang]]
+
+### Organizations (2)
+
+1. [[organizations/formosan-presbyterian-church-in-los-angeles.md|formosan-presbyterian-church-in-los-angeles]]
+2. [[organizations/formosan-presbyterian-church-in-los-angeles.md|formosan-presbyterian-church-in-los-angeles]]
+
+### Sources (1)
+
+1. [[sources/toward-a-community-of-hope.md|toward-a-community-of-hope]]
+
 ## Source Notes and Confidence
 
 - **Content priority A:** Organizing minister call (Sep 1971); Harvard Visiting Scholar; former TTCS Assistant Professor; Presbytery call (Lai dissertation Ch IV)

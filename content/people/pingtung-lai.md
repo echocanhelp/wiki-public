@@ -32,6 +32,24 @@ last_reviewed: 2026-07-15
 > **Primary source context:** [[sources/toward-a-community-of-hope|Toward A Community of Hope (work & sources)]]  
 > **Full text (GitHub):** [complete extract](https://github.com/echocanhelp/wiki-public/blob/gh-pages/knowledge/web-archives/albert-lai-toward-community-of-hope.md)
 
+
+## Network
+
+Pages that link to **pingtung-lai** (pingtung-lai):
+
+
+### People (1)
+
+1. [[people/albert-s-lai.md|albert-s-lai]]
+
+### Organizations (1)
+
+1. [[organizations/formosan-presbyterian-church-in-los-angeles.md|formosan-presbyterian-church-in-los-angeles]]
+
+### Sources (1)
+
+1. [[sources/toward-a-community-of-hope.md|toward-a-community-of-hope]]
+
 ## Source Notes and Confidence
 
 - **Content priority A:** Name, TTCS years, three-stage structure, Beigang/UBS/Good Friend, Barclay funeral 1935 student-council role (Albert Self-Preface)

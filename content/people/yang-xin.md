@@ -154,6 +154,22 @@ Yang credits his life journey to three sources of help:
 
 He describes his life as having always been blessed by "noble people" (貴人) who helped him at critical moments.
 
+
+## Network
+
+Pages that link to **yang-xin** (yang-xin):
+
+
+### People (3)
+
+1. [[people/john-chiang.md|john-chiang]]
+2. [[people/liao-shu-zong.md|liao-shu-zong]]
+3. [[people/shawna-yang-ryan.md|shawna-yang-ryan]]
+
+### Sources (1)
+
+1. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
+
 ## Source Notes and Confidence
 
 - **Content priority A:** 2017 TAHS Publication 行政院政務顧問楊信的創業故事 (The Entrepreneurship Story of State Advisor Yang Hsin), Part 1, L290–884 (~594 lines), written by 黃樹人

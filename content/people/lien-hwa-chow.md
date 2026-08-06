@@ -40,6 +40,20 @@ In this cluster, Dr. Chow functions as a reference point in theological lineage 
 1. Serves as a theological reference anchor for migration-era church interpretation. — Source: cluster contextual layer (C)
 2. Supports continuity between classical pastoral theology and contemporary memory work. — Source: cluster interpretation (C)
 
+
+## Network
+
+Pages that link to **lien-hwa-chow** (lien-hwa-chow):
+
+
+### People (1)
+
+1. [[people/index.md|index]]
+
+### Organizations (1)
+
+1. [[organizations/index.md|index]]
+
 ## Source Notes and Confidence
 
 ### Source Confidence Legend

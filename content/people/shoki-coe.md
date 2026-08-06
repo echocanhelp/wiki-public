@@ -24,6 +24,27 @@ Dr. Coe is recognized as a key figure in Taiwan's Christian ecumenical movement 
 2. Bridging Taiwanese church history with global theological discourse
 3. Influence on diaspora identity and mission debates
 
+
+## Network
+
+Pages that link to **shoki-coe** (shoki-coe):
+
+
+### People (3)
+
+1. [[people/albert-s-lai.md|albert-s-lai]]
+2. [[people/chaolong-kao.md|chaolong-kao]]
+3. [[people/index.md|index]]
+
+### Organizations (2)
+
+1. [[organizations/formosan-presbyterian-church-in-los-angeles.md|formosan-presbyterian-church-in-los-angeles]]
+2. [[organizations/index.md|index]]
+
+### Sources (1)
+
+1. [[sources/good-shepherd-taiwanese-presbyterian-church.md|good-shepherd-taiwanese-presbyterian-church]]
+
 ## Source Notes and Confidence
 - Needs verification: expanded biographical details
 - High confidence: recognized theological and ecumenical figure

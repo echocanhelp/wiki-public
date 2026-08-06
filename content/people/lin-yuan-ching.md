@@ -151,6 +151,20 @@ Lin's practice grew steadily. He built a reputation for efficient, effective sur
 
 Lin never hid his desire to return to Taiwan. In 2014, the World Chinese Business Association held a cruise that stopped at Kinmen. Lin deliberately skipped the scheduled visits and took a taxi to his old base, finding that the local houses and alleys hadn't changed much, but his former military camp was gone without a trace.
 
+
+## Network
+
+Pages that link to **lin-yuan-ching** (lin-yuan-ching):
+
+
+### People (1)
+
+1. [[people/hsu-hsin-hung.md|hsu-hsin-hung]]
+
+### Sources (1)
+
+1. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
+
 ## Source Notes and Confidence
 
 - **Content priority A:** 2017 TAHS Publication 集集小孩力爭上游 林元清醫師專訪, Part 1, L1585–1878 (~293 lines), compiled by TAHS, text by Edda Huang

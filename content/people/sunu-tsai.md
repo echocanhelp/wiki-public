@@ -55,6 +55,27 @@ Articles by other authors that mention **sunu-tsai**: See [[sources/taiwanjustic
 
 1. **2025-09-05** — [[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74|台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元]] (score: 490)
 
+
+## Timeline
+
+Chronological events for **蔡淑女**:
+
+
+### 2025 (1 events)
+
+- **2025-11-07** 🤝 台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元
+
+
+## Quotes
+
+Notable quotes and mentions of **蔡淑女** in Taiwan Justice articles:
+
+
+### 2025 (1 quotes)
+
+1. "論修改章程及會務。會長任期修改為一任三年，相關幹部任期也與會長任期同步。 當天與會的人員包括創會會長楊嘉猷、會長許景鴻、蔡漢成、劉玲華、李意盛、楊錦忠、沈梓在、蔡淑女、黃樹人等。 顧問劉玲華等都提出極具建設性的建議，會務討論極為熱烈。"
+   — 台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元 (2025-11-07)
+
 ## Source Notes and Confidence
 
 - Source: TAHS 2025 organization chart (roles/names only)

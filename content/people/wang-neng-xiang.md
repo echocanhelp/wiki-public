@@ -72,6 +72,22 @@ Wang is a devout Christian and has been an elder of the **Taiwanese Presbyterian
 
 Wang Neng-xiang is now in his eighties and still in excellent health. In addition to busily running his CPA firm, he continues to pursue Taiwan's international visibility and aspire to end Taiwan's colonial sufferings. His profile was co-authored by 楊嘉猷 (創會會長 of TAHS) and 周威霖, describing him as "心繫台灣、老驥扶櫪" (heart set on Taiwan, veteran horse still galloping).
 
+
+## Network
+
+Pages that link to **wang-neng-xiang** (wang-neng-xiang):
+
+
+### People (3)
+
+1. [[people/wang-gui-rong.md|wang-gui-rong]]
+2. [[people/zhou-wei-lin.md|zhou-wei-lin]]
+3. [[people/zhou-wei-lin.md|zhou-wei-lin]]
+
+### Sources (1)
+
+1. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
+
 ## Source Notes and Confidence
 
 - **Content priority A:** 2017 TAHS Publication (profile Part 1, ~66 lines), co-authored by 楊嘉猷 and 周威霖

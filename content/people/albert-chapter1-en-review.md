@@ -85,6 +85,17 @@ Full frozen AMT lives in the private production tree (`audiobook-albert-lai/01_A
 - **Permission:** commercial production GREEN (2026-07-09)  
 - **Next after your review:** lock EN cast direction (keep Christopher-like male scholarly vs warm alternate) → human narrator brief → studio
 
+
+## Network
+
+Pages that link to **albert-chapter1-en-review** (albert-chapter1-en-review):
+
+
+### People (2)
+
+1. [[people/albert-s-lai.md|albert-s-lai]]
+2. [[people/index.md|index]]
+
 ## Related Pages
 
 - [[albert-s-lai|Dr. Albert S. Lai (賴信雄)]]

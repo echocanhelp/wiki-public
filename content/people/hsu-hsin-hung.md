@@ -81,6 +81,28 @@ Hsu's life philosophy can be summarized by the "water buffalo spirit" (台灣水
 
 He is known for his strong Taiwan identity, his commitment to giving back to both his adopted country (America) and his homeland (Taiwan), and his belief that success should benefit farmers, consumers, and the environment.
 
+
+## Network
+
+Pages that link to **hsu-hsin-hung** (hsu-hsin-hung):
+
+
+### People (3)
+
+1. [[people/lin-yuan-ching.md|lin-yuan-ching]]
+2. [[people/zhou-wei-lin.md|zhou-wei-lin]]
+3. [[people/zhou-wei-lin.md|zhou-wei-lin]]
+
+### Organizations (2)
+
+1. [[organizations/overseas-community-affairs-council.md|overseas-community-affairs-council]]
+2. [[organizations/overseas-community-affairs-council.md|overseas-community-affairs-council]]
+
+### Sources (2)
+
+1. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
+2. [[sources/ocac-gov-tw.md|ocac-gov-tw]]
+
 ## Source Notes and Confidence
 
 - **Content priority A:** 2017 TAHS Publication 加州佳和企業集團董事長兼總裁徐新宏博士, Part 1, L1405–1584 (~179 lines), written by 周威霖

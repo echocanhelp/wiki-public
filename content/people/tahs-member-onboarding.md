@@ -43,6 +43,17 @@ TAHS onboarding should help a new member understand:
 - Geography: United States (Taiwanese American diaspora)
 - Core roles: community onboarding, identity verification, contribution workflow
 
+
+## Network
+
+Pages that link to **tahs-member-onboarding** (tahs-member-onboarding):
+
+
+### People (2)
+
+1. [[people/david-lee.md|david-lee]]
+2. [[people/index.md|index]]
+
 ## Related Pages
 
 - [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (台美人歷史協會)]]

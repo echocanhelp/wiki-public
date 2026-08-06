@@ -38,6 +38,20 @@ Chang was born in Taiwan in 1960 and came to the United States, initially spendi
 
 His profile in the 2017 TAHS publication (菁英錄) was compiled by [[people/zhou-wei-liang|周威廉 (Zhou Weiliang)]], presenting him as a model of Taiwanese American entrepreneurial success on the East Coast.
 
+
+## Network
+
+Pages that link to **sam-chang** (sam-chang):
+
+
+### People (1)
+
+1. [[people/zhou-wei-liang.md|zhou-wei-liang]]
+
+### Sources (1)
+
+1. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
+
 ## Source Notes and Confidence
 
 - **Content priority A:** 2017 TAHS Publication (Sam Chang 張善良 旅館開發大王), Part 2, ~231 lines, compiled by [[people/zhou-wei-liang|周威廉 (Zhou Weiliang)]]

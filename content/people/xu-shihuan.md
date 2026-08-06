@@ -47,6 +47,27 @@ Articles by other authors that mention **xu-shihuan**: See [[sources/taiwanjusti
 
 1. **2018-07-20** — [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|抗議 南加州台大校友會邀管中閔來年會做專題演講 ◎國立台灣大學校友 2018-07-19]] (score: 230)
 
+
+## Timeline
+
+Chronological events for **許世環**:
+
+
+### 2018 (1 events)
+
+- **2018-07-21** 🎤 抗議 南加州台大校友會邀管中閔來年會做專題演講 ◎國立台灣大學校友 2018-07-19
+
+
+## Quotes
+
+Notable quotes and mentions of **許世環** in Taiwan Justice articles:
+
+
+### 2018 (1 quotes)
+
+1. "楊惠玉(植病)、杜鳳吟(植病)、徐素娟(植病)、曾寶鑫(植病)、陳文淵(植病)、李璧卿(園藝)、李碧娥(園藝)、林素華(園藝)、林敬愛(園藝)、林碧玉(園藝)、許世環(園藝)、陳碧雲(園藝)、楊玲玲(園藝)、陳瑞源(園藝)、黃美惠(園藝)、鄭惠影(園藝)、簡朝樹(經濟)、方明山(經濟)、王燦琳(經濟)、林芳慧(經濟)、莊六雄"
+   — 抗議 南加州台大校友會邀管中閔來年會做專題演講 ◎國立台灣大學校友 2018-07-19 (2018-07-21)
+
 ## Source Notes and Confidence
 
 - **High:** Name + 2025 titled role as printed on the society org chart (owner-held copy, 2026-08-03 capture)

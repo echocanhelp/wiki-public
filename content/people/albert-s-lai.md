@@ -262,6 +262,60 @@ Articles by other authors that mention **albert-s-lai**: See [[sources/taiwanjus
 4. **2022-02-26** — [[articles/taiwanjustice-net/2026/20260209113555_連2天同台出席-外界解讀盧秀燕蔡其昌互相較勁_c2a5c76345831246|連2天同台出席 外界解讀盧秀燕蔡其昌互相較勁]] (score: 60)
 5. **2020-09-19** — [[articles/taiwanjustice-net/2026/20260121000856_中國疫苗外交會不會重蹈口罩覆轍_3d385b738e35e94d|中國疫苗外交會不會重蹈口罩覆轍？]] (score: 45)
 
+
+## Network
+
+Pages that link to **賴信雄** (albert-s-lai):
+
+
+### People (26)
+
+1. [[people/albert-chapter1-audiobook-consent-and-recording-kit.md|albert-chapter1-audiobook-consent-and-recording-kit]]
+2. [[people/albert-chapter1-audiobook-taiwanese-female.md|albert-chapter1-audiobook-taiwanese-female]]
+3. [[people/c-c-chen.md|c-c-chen]]
+4. [[people/c-c-chen.md|c-c-chen]]
+5. [[people/chaolong-kao.md|chaolong-kao]]
+6. [[people/chaolong-kao.md|chaolong-kao]]
+7. [[people/ching-fang-chen.md|ching-fang-chen]]
+8. [[people/ching-fang-chen.md|ching-fang-chen]]
+9. [[people/daniel-kao.md|daniel-kao]]
+10. [[people/daniel-kao.md|daniel-kao]]
+11. [[people/en-sheng-pan.md|en-sheng-pan]]
+12. [[people/en-sheng-pan.md|en-sheng-pan]]
+13. [[people/fpcla.md|fpcla]]
+14. [[people/index.md|index]]
+15. [[people/jonah-chang.md|jonah-chang]]
+16. [[people/mingyuan-hsu.md|mingyuan-hsu]]
+17. [[people/ntpc.md|ntpc]]
+18. [[people/pinghsi-liu.md|pinghsi-liu]]
+19. [[people/pinghsi-liu.md|pinghsi-liu]]
+20. [[people/pingtung-lai.md|pingtung-lai]]
+21. [[people/pingtung-lai.md|pingtung-lai]]
+22. [[people/san-francisco-theological-seminary.md|san-francisco-theological-seminary]]
+23. [[people/yunching-yeh-davis.md|yunching-yeh-davis]]
+24. [[people/yunching-yeh-davis.md|yunching-yeh-davis]]
+25. [[people/zhou-wei-liang.md|zhou-wei-liang]]
+26. [[people/zhou-wei-lin.md|zhou-wei-lin]]
+
+### Organizations (8)
+
+1. [[organizations/democratic-progressive-party.md|democratic-progressive-party]]
+2. [[organizations/democratic-progressive-party.md|democratic-progressive-party]]
+3. [[organizations/formosan-presbyterian-church-in-los-angeles.md|formosan-presbyterian-church-in-los-angeles]]
+4. [[organizations/formosan-presbyterian-church-in-los-angeles.md|formosan-presbyterian-church-in-los-angeles]]
+5. [[organizations/index.md|index]]
+6. [[organizations/national-taiwanese-presbyterian-council.md|national-taiwanese-presbyterian-council]]
+7. [[organizations/national-taiwanese-presbyterian-council.md|national-taiwanese-presbyterian-council]]
+8. [[organizations/national-taiwanese-presbyterian-council.md|national-taiwanese-presbyterian-council]]
+
+### Sources (5)
+
+1. [[sources/toward-a-community-of-hope.md|toward-a-community-of-hope]]
+2. [[sources/toward-a-community-of-hope.md|toward-a-community-of-hope]]
+3. [[sources/toward-a-community-of-hope.md|toward-a-community-of-hope]]
+4. [[sources/wikipedia-democratic-progressive-party.md|wikipedia-democratic-progressive-party]]
+5. [[sources/wikipedia-democratic-progressive-party.md|wikipedia-democratic-progressive-party]]
+
 ## Source Notes and Confidence
 
 ### Source Confidence Legend

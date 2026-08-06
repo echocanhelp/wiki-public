@@ -18,6 +18,19 @@ This file is a **redirect stub** (legacy path `people/ntpc`). Do not confuse wit
 - Geography: United States
 - Core roles: church network, historical preservation
 
+
+## Network
+
+Pages that link to **ntpc** (ntpc):
+
+
+### People (4)
+
+1. [[people/david-huang.md|david-huang]]
+2. [[people/index.md|index]]
+3. [[people/lien-hwa-chow.md|lien-hwa-chow]]
+4. [[people/mingyuan-hsu.md|mingyuan-hsu]]
+
 ## Related Pages
 - [[organizations/national-taiwanese-presbyterian-council|National Taiwanese Presbyterian Council (NTPC)]]
 - [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]]

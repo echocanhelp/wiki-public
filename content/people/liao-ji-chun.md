@@ -38,6 +38,17 @@ Liao's creative spirit and artistic vision extended beyond his own work. His son
 
 The family also ran a stationery shop called "文藝社" (Wenyi She) at home, which served as a cultural gathering place in their community.
 
+
+## Network
+
+Pages that link to **liao-ji-chun** (liao-ji-chun):
+
+
+### People (2)
+
+1. [[people/guo-shu-qing.md|guo-shu-qing]]
+2. [[people/lin-qiong-xian.md|lin-qiong-xian]]
+
 ## Source Notes and Confidence
 
 - **Content priority A:** 2017 TAHS Publication 生命的執著 (The Persistence of Life) — Liao Shu-zong profile, mentions of his father

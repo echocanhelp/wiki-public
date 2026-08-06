@@ -38,6 +38,41 @@ In his November 2017 會長謝詞 (President's Gratitude) in the yearbook, Frank
 
 The 2017 yearbook was made possible with special sponsorship from TECO (僑委會 — Overseas Community Development Foundation), acknowledged in the publication.
 
+
+## Network
+
+Pages that link to **程炳成** (franklin-ping-cheng):
+
+
+### People (18)
+
+1. [[people/alan-thian.md|alan-thian]]
+2. [[people/anne-shih.md|anne-shih]]
+3. [[people/bob-j-wu.md|bob-j-wu]]
+4. [[people/ho-chie-tsai.md|ho-chie-tsai]]
+5. [[people/jack-j-chen.md|jack-j-chen]]
+6. [[people/john-chiang.md|john-chiang]]
+7. [[people/katherine-huang.md|katherine-huang]]
+8. [[people/liao-shu-zong.md|liao-shu-zong]]
+9. [[people/lisa-su.md|lisa-su]]
+10. [[people/martha-vandriel.md|martha-vandriel]]
+11. [[people/sam-chang.md|sam-chang]]
+12. [[people/shawna-yang-ryan.md|shawna-yang-ryan]]
+13. [[people/su-chun-huai.md|su-chun-huai]]
+14. [[people/tiffany-huang.md|tiffany-huang]]
+15. [[people/wang-gui-rong.md|wang-gui-rong]]
+16. [[people/wang-neng-xiang.md|wang-neng-xiang]]
+17. [[people/yang-jia-you.md|yang-jia-you]]
+18. [[people/yang-xin.md|yang-xin]]
+
+### Organizations (1)
+
+1. [[organizations/taiwanese-american-historical-society.md|taiwanese-american-historical-society]]
+
+### Sources (1)
+
+1. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
+
 ## Source Notes and Confidence
 
 - **Content priority A:** 2017 TAHS Publication 會長謝詞 (President's Gratitude) — Franklin Ping Cheng's own account, Part 2, L2594–2618

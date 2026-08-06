@@ -42,6 +42,30 @@ From Dr. Albert S. Lai's 1971 dissertation:
 
 Later republication materials and wiki narrative also associate Chang with an earlier **Taiyou Church (太陽教會)** experimental effort (c. 1967) using Japanese Methodist facilities — treat as **content priority B** context pending fuller primary citation in the archive chunks.
 
+
+## Network
+
+Pages that link to **jonah-chang** (jonah-chang):
+
+
+### People (5)
+
+1. [[people/albert-s-lai.md|albert-s-lai]]
+2. [[people/albert-s-lai.md|albert-s-lai]]
+3. [[people/c-c-chen.md|c-c-chen]]
+4. [[people/chaolong-kao.md|chaolong-kao]]
+5. [[people/daniel-kao.md|daniel-kao]]
+
+### Organizations (3)
+
+1. [[organizations/formosan-presbyterian-church-in-los-angeles.md|formosan-presbyterian-church-in-los-angeles]]
+2. [[organizations/formosan-presbyterian-church-in-los-angeles.md|formosan-presbyterian-church-in-los-angeles]]
+3. [[organizations/formosan-presbyterian-church-in-los-angeles.md|formosan-presbyterian-church-in-los-angeles]]
+
+### Sources (1)
+
+1. [[sources/toward-a-community-of-hope.md|toward-a-community-of-hope]]
+
 ## Source Notes and Confidence
 
 - **Content priority A:** Aug 1970 experiment; Aug 9, 1970 first worship attendance; Fresno UMC; former Formosan Presbyterian minister; catalyst for permanent organization (Lai dissertation Ch IV)
