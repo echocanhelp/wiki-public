@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-05
+last_reviewed: 2026-08-06
 ---
 # Gong Sun-le (公孫樂)
 

@@ -8,7 +8,7 @@ tags:
   - artist
   - entrepreneur
 verification_status: pending
-last_reviewed: 2026-08-05
+last_reviewed: 2026-08-06
 ---
 # 陳文石 (Chen Wenshi)
 

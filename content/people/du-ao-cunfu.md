@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-05
+last_reviewed: 2026-08-06
 ---
 # Du Ao Cunfu (獨傲村夫)
 

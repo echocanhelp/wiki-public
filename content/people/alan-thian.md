@@ -9,7 +9,7 @@ tags:
 name_en: "Alan Thian"
 name_zh_hanzi: "田詒鴻"
 verification_status: pending
-last_reviewed: 2026-08-05
+last_reviewed: 2026-08-06
 source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
 ---
 # Alan Thian (田詒鴻)

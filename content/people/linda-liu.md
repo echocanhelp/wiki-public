@@ -8,7 +8,7 @@ tags:
   - board
   - TAHS
 verification_status: owner_verified
-last_reviewed: 2026-08-05
+last_reviewed: 2026-08-06
 sources:
   - https://www.taiwancenter.org/board
   - https://www.taiwancenter.org/

@@ -9,7 +9,7 @@ tags:
   - TAHS
   - tahs-leadership
 verification_status: published
-last_reviewed: 2026-08-05
+last_reviewed: 2026-08-06
 name_en: Freeman Huang
 name_zh_hanzi: 黃樹人
 ---

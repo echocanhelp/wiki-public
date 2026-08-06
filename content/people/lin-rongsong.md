@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-05
+last_reviewed: 2026-08-06
 ---
 
 # Lin Jung-sung / 林榮松

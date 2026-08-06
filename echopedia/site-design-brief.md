@@ -1,4 +1,4 @@
-## Site design audit — 2026-08-05 05:06
+## Site design audit — 2026-08-06 04:22
 
 - pages_md=313
 - critical=0 high=0 medium=0
@@ -9,7 +9,7 @@
 
 ### LOW (1)
 - **C1** spelling signals (sample): 2 `[AGENT_SUGGESTED]`
-  - `cao-changqing.md: ?changqing`
+  - `yang-yueqing.md: ?yueqing`
   - `wang-qiaoling.md: ?qiaoling`
 
 ### INFO (2)
@@ -22,15 +22,15 @@
   - `people/chen-zhefu-xu-chunhui.md`
   - `people/choan-seng-song.md`
   - `people/fan-qingliang.md`
-- **B1** person/org touched ≤7d (rely on recency featured window): 74
+- **B1** person/org touched ≤7d (rely on recency featured window): 72
   - `people/alan-thian.md`
   - `people/albert-chapter1-zh-hsiaochen-full-review.md`
-  - `people/albert-chapter1-zh-review-v2.md`
-  - `people/albert-chapter1-zh-review.md`
   - `people/bai-peiyu.md`
   - `people/bai-weiwei.md`
   - `people/becky-yang.md`
   - `people/cai-shunyu.md`
+  - `people/cao-changqing.md`
+  - `people/chao-sile.md`
 
 ### Programmable heals
 - (none)

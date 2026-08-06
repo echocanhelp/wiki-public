@@ -8,6 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
+last_reviewed: 2026-08-06
 ---
 
 # Wei Jingsheng / 魏京生
@@ -66,3 +67,7 @@ Articles by other authors that mention **魏景升**: See [[sources/taiwanjustic
 3. **2022-08-14** — [[articles/taiwanjustice-net/2022/20220929005150_2022_08_14_台海危機波及北戴河會議_習近平內政外交都搞砸_3d8ee743e540cbfa|台海危機波及北戴河會議？習近平內政外交都搞砸 跟全球發達國家翻臉]] (score: 40)
 4. **2022-08-14** — [[articles/taiwanjustice-net/2025/20251012103258_台海危機波及北戴河會議_習近平內政外交都搞砸_4748a863f0793a65|台海危機波及北戴河會議？習近平內政外交都搞砸 跟全球發達國家翻臉]] (score: 40)
 5. **2020-05-25** — [[articles/taiwanjustice-net/2025/20251206001710_六_四31年不能忘記_全球幾十團體將共同網祭_0d253011e33e50dd|六·四31年不能忘記，全球幾十團體將共同網祭]] (score: 40)
+
+## Related Pages
+
+- [[people/albert-s-lai|Dr. Albert S. Lai]]

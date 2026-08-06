@@ -10,7 +10,7 @@ tags:
 name_en: "Yi Sen Lee"
 name_zh_hanzi: "李意盛"
 verification_status: pending
-last_reviewed: 2026-08-05
+last_reviewed: 2026-08-06
 source_note: "TAHS 2025 org chart + LINE display Yi Lee + handwritten Yi-Sen Lee on chart (owner 2026-08-03)"
 ---
 # Yi Sen Lee (李意盛)
