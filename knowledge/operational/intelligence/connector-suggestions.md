@@ -1,7 +1,7 @@
 === VAULT CONNECTOR SUGGESTIONS ===
-Generated: 2026-08-05 09:02:57
+Generated: 2026-08-06 09:03:43
 
-[CO-CITATION] 35178 suggestions
+[CO-CITATION] 35229 suggestions
   events/tc-event-2025-annual-gala-fundraising-dinner.md <-> events/tc-event-2025-miss-taiwan-usa-news.md
     Both link to: organizations/taiwan-center
     (2025台灣會館年會 <-> 2025 台美小姐決選新聞報導)
@@ -78,61 +78,29 @@ Generated: 2026-08-05 09:02:57
     Both link to: organizations/formosan-presbyterian-church-in-los-angeles
     (Democratic Progressive Party (民主進步黨) <-> North Taiwan Presbyterian Church (NTPC))
 
-  organizations/democratic-progressive-party.md <-> people/albert-s-lai.md
+  organizations/democratic-progressive-party.md <-> people/c-c-chen.md
     Both link to: organizations/formosan-presbyterian-church-in-los-angeles
-    (Democratic Progressive Party (民主進步黨) <-> Dr. Albert S. Lai (賴信雄))
+    (Democratic Progressive Party (民主進步黨) <-> Dr. C.C. Chen (陳昭俊))
 
   organizations/democratic-progressive-party.md <-> sources/ocac-gov-tw.md
     Both link to: organizations/overseas-community-affairs-council
     (Democratic Progressive Party (民主進步黨) <-> ocac.gov.tw (Overseas Community Affairs Council))
 
-  organizations/formosan-presbyterian-church-in-los-angeles.md <-> people/albert-s-lai.md
+  organizations/formosan-presbyterian-church-in-los-angeles.md <-> sources/toward-a-community-of-hope.md
     Both link to: people/jonah-chang
-    (Formosan Presbyterian Church in Los Angeles (FPCLA) <-> Dr. Albert S. Lai (賴信雄))
+    (Formosan Presbyterian Church in Los Angeles (FPCLA) <-> Toward A Community of Hope (Lai, 1971 / 2025))
 
-  organizations/formosan-presbyterian-church-in-los-angeles.md <-> people/c-c-chen.md
-    Both link to: people/jonah-chang
-    (Formosan Presbyterian Church in Los Angeles (FPCLA) <-> Dr. C.C. Chen (陳昭俊))
-
-  organizations/formosan-presbyterian-church-in-los-angeles.md <-> people/chaolong-kao.md
-    Both link to: people/jonah-chang
-    (Formosan Presbyterian Church in Los Angeles (FPCLA) <-> Dr. Charles C.L. Kao / Chaolong Kao (高昭龍))
-
-  organizations/formosan-presbyterian-church-in-los-angeles.md <-> people/albert-s-lai.md
+  organizations/formosan-presbyterian-church-in-los-angeles.md <-> sources/toward-a-community-of-hope.md
     Both link to: people/daniel-kao
-    (Formosan Presbyterian Church in Los Angeles (FPCLA) <-> Dr. Albert S. Lai (賴信雄))
-
-  organizations/formosan-presbyterian-church-in-los-angeles.md <-> people/c-c-chen.md
-    Both link to: people/daniel-kao
-    (Formosan Presbyterian Church in Los Angeles (FPCLA) <-> Dr. C.C. Chen (陳昭俊))
-
-  organizations/formosan-presbyterian-church-in-los-angeles.md <-> people/chaolong-kao.md
-    Both link to: people/daniel-kao
-    (Formosan Presbyterian Church in Los Angeles (FPCLA) <-> Dr. Charles C.L. Kao / Chaolong Kao (高昭龍))
-
-  organizations/formosan-presbyterian-church-in-los-angeles.md <-> people/albert-s-lai.md
-    Both link to: people/c-c-chen
-    (Formosan Presbyterian Church in Los Angeles (FPCLA) <-> Dr. Albert S. Lai (賴信雄))
-
-  organizations/formosan-presbyterian-church-in-los-angeles.md <-> people/daniel-kao.md
-    Both link to: people/c-c-chen
-    (Formosan Presbyterian Church in Los Angeles (FPCLA) <-> Dr. Daniel Kao (高光民))
+    (Formosan Presbyterian Church in Los Angeles (FPCLA) <-> Toward A Community of Hope (Lai, 1971 / 2025))
 
   organizations/formosan-presbyterian-church-in-los-angeles.md <-> sources/toward-a-community-of-hope.md
     Both link to: people/c-c-chen
     (Formosan Presbyterian Church in Los Angeles (FPCLA) <-> Toward A Community of Hope (Lai, 1971 / 2025))
 
-  organizations/formosan-presbyterian-church-in-los-angeles.md <-> people/albert-s-lai.md
+  organizations/formosan-presbyterian-church-in-los-angeles.md <-> sources/toward-a-community-of-hope.md
     Both link to: people/chaolong-kao
-    (Formosan Presbyterian Church in Los Angeles (FPCLA) <-> Dr. Albert S. Lai (賴信雄))
-
-  organizations/formosan-presbyterian-church-in-los-angeles.md <-> people/c-c-chen.md
-    Both link to: people/chaolong-kao
-    (Formosan Presbyterian Church in Los Angeles (FPCLA) <-> Dr. C.C. Chen (陳昭俊))
-
-  organizations/formosan-presbyterian-church-in-los-angeles.md <-> people/daniel-kao.md
-    Both link to: people/chaolong-kao
-    (Formosan Presbyterian Church in Los Angeles (FPCLA) <-> Dr. Daniel Kao (高光民))
+    (Formosan Presbyterian Church in Los Angeles (FPCLA) <-> Toward A Community of Hope (Lai, 1971 / 2025))
 
   organizations/formosan-presbyterian-church-in-los-angeles.md <-> organizations/overseas-community-affairs-council.md
     Both link to: organizations/democratic-progressive-party
@@ -146,41 +114,33 @@ Generated: 2026-08-05 09:02:57
     Both link to: organizations/democratic-progressive-party
     (Overseas Community Affairs Council (僑務委員會) <-> Wikipedia: Democratic Progressive Party)
 
-  organizations/formosan-presbyterian-church-in-los-angeles.md <-> people/albert-s-lai.md
-    Both link to: people/pingtung-lai
-    (Formosan Presbyterian Church in Los Angeles (FPCLA) <-> Dr. Albert S. Lai (賴信雄))
-
   organizations/formosan-presbyterian-church-in-los-angeles.md <-> sources/toward-a-community-of-hope.md
     Both link to: people/pingtung-lai
     (Formosan Presbyterian Church in Los Angeles (FPCLA) <-> Toward A Community of Hope (Lai, 1971 / 2025))
-
-  people/albert-s-lai.md <-> sources/toward-a-community-of-hope.md
-    Both link to: people/pingtung-lai
-    (Dr. Albert S. Lai (賴信雄) <-> Toward A Community of Hope (Lai, 1971 / 2025))
-
-  organizations/formosan-presbyterian-church-in-los-angeles.md <-> people/albert-s-lai.md
-    Both link to: people/shoki-coe
-    (Formosan Presbyterian Church in Los Angeles (FPCLA) <-> Dr. Albert S. Lai (賴信雄))
-
-  organizations/formosan-presbyterian-church-in-los-angeles.md <-> people/chaolong-kao.md
-    Both link to: people/shoki-coe
-    (Formosan Presbyterian Church in Los Angeles (FPCLA) <-> Dr. Charles C.L. Kao / Chaolong Kao (高昭龍))
 
   organizations/formosan-presbyterian-church-in-los-angeles.md <-> sources/good-shepherd-taiwanese-presbyterian-church.md
     Both link to: people/shoki-coe
     (Formosan Presbyterian Church in Los Angeles (FPCLA) <-> Good Shepherd Taiwanese Presbyterian Church (牧靈台僑基督長老教會))
 
-  organizations/formosan-presbyterian-church-in-los-angeles.md <-> people/albert-s-lai.md
-    Both link to: organizations/national-taiwanese-presbyterian-council
-    (Formosan Presbyterian Church in Los Angeles (FPCLA) <-> Dr. Albert S. Lai (賴信雄))
+  people/albert-s-lai.md <-> sources/good-shepherd-taiwanese-presbyterian-church.md
+    Both link to: people/shoki-coe
+    (Dr. Albert S. Lai (賴信雄) <-> Good Shepherd Taiwanese Presbyterian Church (牧靈台僑基督長老教會))
 
-  organizations/formosan-presbyterian-church-in-los-angeles.md <-> people/chaolong-kao.md
-    Both link to: organizations/national-taiwanese-presbyterian-council
-    (Formosan Presbyterian Church in Los Angeles (FPCLA) <-> Dr. Charles C.L. Kao / Chaolong Kao (高昭龍))
+  people/chaolong-kao.md <-> sources/good-shepherd-taiwanese-presbyterian-church.md
+    Both link to: people/shoki-coe
+    (Dr. Charles C.L. Kao / Chaolong Kao (高昭龍) <-> Good Shepherd Taiwanese Presbyterian Church (牧靈台僑基督長老教會))
 
   organizations/formosan-presbyterian-church-in-los-angeles.md <-> people/ching-fang-chen.md
     Both link to: organizations/national-taiwanese-presbyterian-council
     (Formosan Presbyterian Church in Los Angeles (FPCLA) <-> Rev. Ching Fang Chen (陳清芳))
+
+  organizations/formosan-presbyterian-church-in-los-angeles.md <-> people/david-huang.md
+    Both link to: organizations/national-taiwanese-presbyterian-council
+    (Formosan Presbyterian Church in Los Angeles (FPCLA) <-> Rev. David Huang (黃德利))
+
+  organizations/formosan-presbyterian-church-in-los-angeles.md <-> people/en-sheng-pan.md
+    Both link to: organizations/national-taiwanese-presbyterian-council
+    (Formosan Presbyterian Church in Los Angeles (FPCLA) <-> Rev. En Sheng Pan (潘恩盛))
 
   organizations/formosan-presbyterian-church-in-los-angeles.md <-> organizations/good-shepherd-taiwanese-presbyterian-church.md
     Both link to: organizations/presbyterian-church-in-taiwan
@@ -202,9 +162,9 @@ Generated: 2026-08-05 09:02:57
     Both link to: people/mingyuan-hsu
     (Good Shepherd Taiwanese Presbyterian Church <-> Dr. Albert S. Lai (賴信雄))
 
-  organizations/good-shepherd-taiwanese-presbyterian-church.md <-> people/alexander-macdonald.md
+  organizations/good-shepherd-taiwanese-presbyterian-church.md <-> people/ashton-hsu.md
     Both link to: people/mingyuan-hsu
-    (Good Shepherd Taiwanese Presbyterian Church <-> 馬偕博士 (George Leslie Macdonald))
+    (Good Shepherd Taiwanese Presbyterian Church <-> Ashton Hsu (許思敦))
 
   organizations/good-shepherd-taiwanese-presbyterian-church.md <-> people/ching-fang-chen.md
     Both link to: people/david-huang
@@ -246,10 +206,6 @@ Generated: 2026-08-05 09:02:57
     Both link to: organizations/taiwanese-american-historical-society
     (Good Shepherd Taiwanese Presbyterian Church <-> Taiwan Formosa)
 
-  organizations/irvine-taiwanese-presbyterian-church.md <-> people/chen-meihui.md
-    Both link to: people/zhang-xuanxin
-    (Irvine Taiwanese Presbyterian Church (爾灣台灣基督長老教會 (ITPC)) <-> Chen Meihui (陳美蕙))
-
   organizations/irvine-taiwanese-presbyterian-church.md <-> people/li-furen.md
     Both link to: people/zhang-xuanxin
     (Irvine Taiwanese Presbyterian Church (爾灣台灣基督長老教會 (ITPC)) <-> Li Fu-Jen (李輔仁))
@@ -258,53 +214,49 @@ Generated: 2026-08-05 09:02:57
     Both link to: people/zhang-xuanxin
     (Irvine Taiwanese Presbyterian Church (爾灣台灣基督長老教會 (ITPC)) <-> Irvine Taiwanese Presbyterian Church (爾灣台僑基督長老教會))
 
-  organizations/national-taiwanese-presbyterian-council.md <-> people/albert-s-lai.md
-    Both link to: people/ching-fang-chen
-    (National Taiwanese Presbyterian Council (NTPC) <-> Dr. Albert S. Lai (賴信雄))
-
-  organizations/national-taiwanese-presbyterian-council.md <-> people/en-sheng-pan.md
-    Both link to: people/ching-fang-chen
-    (National Taiwanese Presbyterian Council (NTPC) <-> Rev. En Sheng Pan (潘恩盛))
+  people/li-furen.md <-> sources/irvine-taiwanese-presbyterian-church.md
+    Both link to: people/zhang-xuanxin
+    (Li Fu-Jen (李輔仁) <-> Irvine Taiwanese Presbyterian Church (爾灣台僑基督長老教會))
 
   organizations/national-taiwanese-presbyterian-council.md <-> people/ntpc.md
     Both link to: people/ching-fang-chen
     (National Taiwanese Presbyterian Council (NTPC) <-> NTPC (see organization page))
 
-  organizations/national-taiwanese-presbyterian-council.md <-> people/albert-s-lai.md
+  organizations/national-taiwanese-presbyterian-council.md <-> sources/toward-a-community-of-hope.md
+    Both link to: people/ching-fang-chen
+    (National Taiwanese Presbyterian Council (NTPC) <-> Toward A Community of Hope (Lai, 1971 / 2025))
+
+  people/en-sheng-pan.md <-> people/ntpc.md
+    Both link to: people/ching-fang-chen
+    (Rev. En Sheng Pan (潘恩盛) <-> NTPC (see organization page))
+
+  organizations/national-taiwanese-presbyterian-council.md <-> people/ntpc.md
     Both link to: people/yunching-yeh-davis
-    (National Taiwanese Presbyterian Council (NTPC) <-> Dr. Albert S. Lai (賴信雄))
+    (National Taiwanese Presbyterian Council (NTPC) <-> NTPC (see organization page))
 
-  organizations/national-taiwanese-presbyterian-council.md <-> people/ching-fang-chen.md
+  organizations/national-taiwanese-presbyterian-council.md <-> sources/toward-a-community-of-hope.md
     Both link to: people/yunching-yeh-davis
-    (National Taiwanese Presbyterian Council (NTPC) <-> Rev. Ching Fang Chen (陳清芳))
+    (National Taiwanese Presbyterian Council (NTPC) <-> Toward A Community of Hope (Lai, 1971 / 2025))
 
-  organizations/national-taiwanese-presbyterian-council.md <-> people/en-sheng-pan.md
+  people/en-sheng-pan.md <-> people/ntpc.md
     Both link to: people/yunching-yeh-davis
-    (National Taiwanese Presbyterian Council (NTPC) <-> Rev. En Sheng Pan (潘恩盛))
+    (Rev. En Sheng Pan (潘恩盛) <-> NTPC (see organization page))
 
-  organizations/national-taiwanese-presbyterian-council.md <-> people/albert-s-lai.md
+  organizations/national-taiwanese-presbyterian-council.md <-> sources/toward-a-community-of-hope.md
     Both link to: people/en-sheng-pan
-    (National Taiwanese Presbyterian Council (NTPC) <-> Dr. Albert S. Lai (賴信雄))
+    (National Taiwanese Presbyterian Council (NTPC) <-> Toward A Community of Hope (Lai, 1971 / 2025))
 
-  organizations/national-taiwanese-presbyterian-council.md <-> people/pinghsi-liu.md
-    Both link to: people/en-sheng-pan
-    (National Taiwanese Presbyterian Council (NTPC) <-> Rev. Pinghsi Liu (劉炳熹))
-
-  organizations/national-taiwanese-presbyterian-council.md <-> people/yunching-yeh-davis.md
-    Both link to: people/en-sheng-pan
-    (National Taiwanese Presbyterian Council (NTPC) <-> Dr. Yunching Yeh Davis (葉芸青))
-
-  organizations/national-taiwanese-presbyterian-council.md <-> people/albert-s-lai.md
+  organizations/national-taiwanese-presbyterian-council.md <-> people/ntpc.md
     Both link to: people/pinghsi-liu
-    (National Taiwanese Presbyterian Council (NTPC) <-> Dr. Albert S. Lai (賴信雄))
+    (National Taiwanese Presbyterian Council (NTPC) <-> NTPC (see organization page))
 
-  organizations/national-taiwanese-presbyterian-council.md <-> people/ching-fang-chen.md
+  organizations/national-taiwanese-presbyterian-council.md <-> people/pingtung-lai.md
     Both link to: people/pinghsi-liu
-    (National Taiwanese Presbyterian Council (NTPC) <-> Rev. Ching Fang Chen (陳清芳))
+    (National Taiwanese Presbyterian Council (NTPC) <-> Pastor Pingtung Lai (賴炳烔))
 
-  organizations/national-taiwanese-presbyterian-council.md <-> people/en-sheng-pan.md
+  organizations/national-taiwanese-presbyterian-council.md <-> sources/toward-a-community-of-hope.md
     Both link to: people/pinghsi-liu
-    (National Taiwanese Presbyterian Council (NTPC) <-> Rev. En Sheng Pan (潘恩盛))
+    (National Taiwanese Presbyterian Council (NTPC) <-> Toward A Community of Hope (Lai, 1971 / 2025))
 
   organizations/ntpc.md <-> organizations/presbyterian-church-in-taiwan.md
     Both link to: people/index
@@ -326,21 +278,21 @@ Generated: 2026-08-05 09:02:57
     Both link to: people/hsu-hsin-hung
     (Overseas Community Affairs Council (僑務委員會) <-> Lin Yuan-qing (林元清))
 
-  organizations/overseas-community-affairs-council.md <-> people/zhou-wei-lin.md
+  organizations/overseas-community-affairs-council.md <-> sources/2017-tahs-publication.md
     Both link to: people/hsu-hsin-hung
-    (Overseas Community Affairs Council (僑務委員會) <-> Zhou Weilin (周威霖))
+    (Overseas Community Affairs Council (僑務委員會) <-> 2017 TAHS Publication)
 
   organizations/overseas-community-affairs-council.md <-> organizations/taiwan-center.md
     Both link to: organizations/fapa-los-angeles
     (Overseas Community Affairs Council (僑務委員會) <-> Taiwan Center Foundation of the Greater Los Angeles (大洛杉磯台灣會館))
 
-  organizations/overseas-community-affairs-council.md <-> people/ken-wu.md
-    Both link to: organizations/fapa-los-angeles
-    (Overseas Community Affairs Council (僑務委員會) <-> Ken Wu (吳兆峯))
-
   organizations/overseas-community-affairs-council.md <-> sources/taiwancenter-org.md
     Both link to: organizations/fapa-los-angeles
     (Overseas Community Affairs Council (僑務委員會) <-> taiwancenter.org (Taiwan Center website))
+
+  organizations/taiwan-center.md <-> sources/taiwancenter-org.md
+    Both link to: organizations/fapa-los-angeles
+    (Taiwan Center Foundation of the Greater Los Angeles (大洛杉磯台灣會館) <-> taiwancenter.org (Taiwan Center website))
 
   organizations/presbyterian-church-in-taiwan.md <-> people/alexander-macdonald.md
     Both link to: organizations/good-shepherd-taiwanese-presbyterian-church
@@ -386,13 +338,9 @@ Generated: 2026-08-05 09:02:57
     Both link to: people/alan-thian
     (Taiwan Center Foundation of the Greater Los Angeles (大洛杉磯台灣會館) <-> John Chiang (江俊輝))
 
-  organizations/taiwan-center.md <-> people/ken-wu.md
+  organizations/taiwan-center.md <-> people/linda-liu.md
     Both link to: people/alan-thian
-    (Taiwan Center Foundation of the Greater Los Angeles (大洛杉磯台灣會館) <-> Ken Wu (吳兆峯))
-
-  organizations/taiwan-center.md <-> people/ken-wu.md
-    Both link to: people/simon-lin
-    (Taiwan Center Foundation of the Greater Los Angeles (大洛杉磯台灣會館) <-> Ken Wu (吳兆峯))
+    (Taiwan Center Foundation of the Greater Los Angeles (大洛杉磯台灣會館) <-> Linda Liu (劉玲華))
 
   organizations/taiwan-center.md <-> people/linda-liu.md
     Both link to: people/simon-lin
@@ -401,6 +349,10 @@ Generated: 2026-08-05 09:02:57
   organizations/taiwan-center.md <-> sources/taiwancenter-org.md
     Both link to: people/simon-lin
     (Taiwan Center Foundation of the Greater Los Angeles (大洛杉磯台灣會館) <-> taiwancenter.org (Taiwan Center website))
+
+  people/linda-liu.md <-> sources/taiwancenter-org.md
+    Both link to: people/simon-lin
+    (Linda Liu (劉玲華) <-> taiwancenter.org (Taiwan Center website))
 
   organizations/taiwan-center.md <-> organizations/taiwanese-american-historical-society.md
     Both link to: people/roger-tsai
@@ -502,41 +454,121 @@ Generated: 2026-08-05 09:02:57
     Both link to: sources/taiwanjustice-net
     (Taiwanese American Historical Society (TAHS) <-> Dr. Albert S. Lai (賴信雄))
 
+  organizations/taiwanjustice-net.md <-> people/chen-po-kong.md
+    Both link to: people/chen-po-kong
+    (taiwanjustice.net (台灣公義網) <-> Chen Po-kong (陳破空))
+
   organizations/taiwanjustice-net.md <-> sources/taiwanjustice-net.md
     Both link to: people/chen-po-kong
     (taiwanjustice.net (台灣公義網) <-> taiwanjustice.net (台灣公義網))
+
+  people/chen-po-kong.md <-> sources/taiwanjustice-net.md
+    Both link to: people/chen-po-kong
+    (Chen Po-kong (陳破空) <-> taiwanjustice.net (台灣公義網))
+
+  organizations/taiwanjustice-net.md <-> people/chen-maoxiong.md
+    Both link to: people/chen-maoxiong
+    (taiwanjustice.net (台灣公義網) <-> Chen Mao-xiong (陳茂雄))
+
+  organizations/taiwanjustice-net.md <-> people/chen-po-kong.md
+    Both link to: people/chen-maoxiong
+    (taiwanjustice.net (台灣公義網) <-> Chen Po-kong (陳破空))
 
   organizations/taiwanjustice-net.md <-> sources/taiwanjustice-net.md
     Both link to: people/chen-maoxiong
     (taiwanjustice.net (台灣公義網) <-> taiwanjustice.net (台灣公義網))
 
+  organizations/taiwanjustice-net.md <-> people/chen-maoxiong.md
+    Both link to: people/chen-zhaonan
+    (taiwanjustice.net (台灣公義網) <-> Chen Mao-xiong (陳茂雄))
+
+  organizations/taiwanjustice-net.md <-> people/chen-zhaonan.md
+    Both link to: people/chen-zhaonan
+    (taiwanjustice.net (台灣公義網) <-> Chen Chao-nan (陳昭南))
+
   organizations/taiwanjustice-net.md <-> sources/taiwanjustice-net.md
     Both link to: people/chen-zhaonan
     (taiwanjustice.net (台灣公義網) <-> taiwanjustice.net (台灣公義網))
+
+  organizations/taiwanjustice-net.md <-> people/chen-zhaonan.md
+    Both link to: people/lin-baohua
+    (taiwanjustice.net (台灣公義網) <-> Chen Chao-nan (陳昭南))
+
+  organizations/taiwanjustice-net.md <-> people/lin-baohua.md
+    Both link to: people/lin-baohua
+    (taiwanjustice.net (台灣公義網) <-> Lin Bao-hua (林保華))
 
   organizations/taiwanjustice-net.md <-> sources/taiwanjustice-net.md
     Both link to: people/lin-baohua
     (taiwanjustice.net (台灣公義網) <-> taiwanjustice.net (台灣公義網))
 
+  organizations/taiwanjustice-net.md <-> people/lin-baohua.md
+    Both link to: people/yu-jie
+    (taiwanjustice.net (台灣公義網) <-> Lin Bao-hua (林保華))
+
+  organizations/taiwanjustice-net.md <-> people/yu-jie.md
+    Both link to: people/yu-jie
+    (taiwanjustice.net (台灣公義網) <-> Yu Chieh (余杰))
+
   organizations/taiwanjustice-net.md <-> sources/taiwanjustice-net.md
     Both link to: people/yu-jie
     (taiwanjustice.net (台灣公義網) <-> taiwanjustice.net (台灣公義網))
+
+  organizations/taiwanjustice-net.md <-> people/fan-jiang-ti-ang.md
+    Both link to: people/fan-jiang-ti-ang
+    (taiwanjustice.net (台灣公義網) <-> Fan Chiang Tsiang (范姜提昂))
+
+  organizations/taiwanjustice-net.md <-> people/yu-jie.md
+    Both link to: people/fan-jiang-ti-ang
+    (taiwanjustice.net (台灣公義網) <-> Yu Chieh (余杰))
 
   organizations/taiwanjustice-net.md <-> sources/taiwanjustice-net.md
     Both link to: people/fan-jiang-ti-ang
     (taiwanjustice.net (台灣公義網) <-> taiwanjustice.net (台灣公義網))
 
+  organizations/taiwanjustice-net.md <-> people/fan-jiang-ti-ang.md
+    Both link to: people/yang-ziqing
+    (taiwanjustice.net (台灣公義網) <-> Fan Chiang Tsiang (范姜提昂))
+
+  organizations/taiwanjustice-net.md <-> people/yang-ziqing.md
+    Both link to: people/yang-ziqing
+    (taiwanjustice.net (台灣公義網) <-> Yang Zi-qing (楊子清))
+
   organizations/taiwanjustice-net.md <-> sources/taiwanjustice-net.md
     Both link to: people/yang-ziqing
     (taiwanjustice.net (台灣公義網) <-> taiwanjustice.net (台灣公義網))
+
+  organizations/taiwanjustice-net.md <-> people/huang-diyin.md
+    Both link to: people/huang-diyin
+    (taiwanjustice.net (台灣公義網) <-> Huang Di-ying (黃帝穎))
+
+  organizations/taiwanjustice-net.md <-> people/yang-ziqing.md
+    Both link to: people/huang-diyin
+    (taiwanjustice.net (台灣公義網) <-> Yang Zi-qing (楊子清))
 
   organizations/taiwanjustice-net.md <-> sources/taiwanjustice-net.md
     Both link to: people/huang-diyin
     (taiwanjustice.net (台灣公義網) <-> taiwanjustice.net (台灣公義網))
 
+  organizations/taiwanjustice-net.md <-> people/he-qingxuan.md
+    Both link to: people/he-qingxuan
+    (taiwanjustice.net (台灣公義網) <-> He Qinglian (何清漣))
+
+  organizations/taiwanjustice-net.md <-> people/huang-diyin.md
+    Both link to: people/he-qingxuan
+    (taiwanjustice.net (台灣公義網) <-> Huang Di-ying (黃帝穎))
+
   organizations/taiwanjustice-net.md <-> sources/taiwanjustice-net.md
     Both link to: people/he-qingxuan
     (taiwanjustice.net (台灣公義網) <-> taiwanjustice.net (台灣公義網))
+
+  organizations/taiwanjustice-net.md <-> people/he-qingxuan.md
+    Both link to: people/liao-qingshan
+    (taiwanjustice.net (台灣公義網) <-> He Qinglian (何清漣))
+
+  organizations/taiwanjustice-net.md <-> people/liao-qingshan.md
+    Both link to: people/liao-qingshan
+    (taiwanjustice.net (台灣公義網) <-> Liao Qing-shan (廖清山))
 
   organizations/taiwanjustice-net.md <-> sources/taiwanjustice-net.md
     Both link to: people/liao-qingshan
@@ -646,17 +678,65 @@ Generated: 2026-08-05 09:02:57
     Both link to: articles/taiwanjustice-net/2024/20240425081647_root_17835ad9519f9cfe
     (Lin Jung-sung / 林榮松 <-> Linda Liu (劉玲華))
 
+  people/alan-thian.md <-> people/yang-xin.md
+    Both link to: people/john-chiang.md
+    (Alan Thian (田詒鴻) <-> Yang Hsin (楊信))
+
+  people/alan-thian.md <-> people/david-lee.md
+    Both link to: people/ken-wu.md
+    (Alan Thian (田詒鴻) <-> David Lee (李東璞))
+
+  people/alan-thian.md <-> people/leonard-hsu-jr.md
+    Both link to: people/ken-wu.md
+    (Alan Thian (田詒鴻) <-> Leonard Hsu Jr. (許景鴻))
+
+  people/alan-thian.md <-> people/rex-chen.md
+    Both link to: people/ken-wu.md
+    (Alan Thian (田詒鴻) <-> Rex Chen (陳乃光))
+
+  people/alan-thian.md <-> people/hsu-hsin-hung.md
+    Both link to: sources/2017-tahs-publication.md
+    (Alan Thian (田詒鴻) <-> Hsu Hsin-hung (徐新宏))
+
+  people/alan-thian.md <-> people/liao-shu-zong.md
+    Both link to: sources/2017-tahs-publication.md
+    (Alan Thian (田詒鴻) <-> Liao Shu-zong (廖述宗))
+
+  people/alan-thian.md <-> people/lin-yuan-ching.md
+    Both link to: sources/2017-tahs-publication.md
+    (Alan Thian (田詒鴻) <-> Lin Yuan-qing (林元清))
+
   people/albert-chapter1-audiobook-consent-and-recording-kit.md <-> people/albert-en-sku-a-scratch-review.md
     Both link to: people/albert-chapter1-audiobook-taiwanese-female
     (Albert ch.1 audiobook consent kit <-> Albert EN SKU A audiobook scratch — full book review)
 
-  people/albert-chapter1-audiobook-consent-and-recording-kit.md <-> people/albert-s-lai.md
-    Both link to: people/albert-chapter1-audiobook-taiwanese-female
-    (Albert ch.1 audiobook consent kit <-> Dr. Albert S. Lai (賴信雄))
-
   people/albert-en-sku-a-scratch-review.md <-> people/albert-s-lai.md
     Both link to: people/albert-chapter1-audiobook-taiwanese-female
     (Albert EN SKU A audiobook scratch — full book review <-> Dr. Albert S. Lai (賴信雄))
+
+  people/albert-chapter1-audiobook-taiwanese-female.md <-> people/albert-chapter1-en-review.md
+    Both link to: people/albert-s-lai.md
+    (Albert ch.1 audiobook (Taiwanese female) <-> Albert Ch.1 EN audiobook review (Christopher scratch))
+
+  people/albert-chapter1-audiobook-taiwanese-female.md <-> people/c-c-chen.md
+    Both link to: people/albert-s-lai.md
+    (Albert ch.1 audiobook (Taiwanese female) <-> Dr. C.C. Chen (陳昭俊))
+
+  people/albert-chapter1-audiobook-taiwanese-female.md <-> people/chaolong-kao.md
+    Both link to: people/albert-s-lai.md
+    (Albert ch.1 audiobook (Taiwanese female) <-> Dr. Charles C.L. Kao / Chaolong Kao (高昭龍))
+
+  people/albert-chapter1-audiobook-taiwanese-female.md <-> people/albert-chapter1-en-review.md
+    Both link to: people/index.md
+    (Albert ch.1 audiobook (Taiwanese female) <-> Albert Ch.1 EN audiobook review (Christopher scratch))
+
+  people/albert-chapter1-audiobook-taiwanese-female.md <-> people/cai-weiren.md
+    Both link to: people/index.md
+    (Albert ch.1 audiobook (Taiwanese female) <-> Rev. Cai Weiren (蔡維仁牧師))
+
+  people/albert-chapter1-audiobook-taiwanese-female.md <-> people/chen-bozhi.md
+    Both link to: people/index.md
+    (Albert ch.1 audiobook (Taiwanese female) <-> Rev. Chen Bozhi (陳柏志牧師))
 
   people/albert-chapter1-en-review.md <-> people/albert-chapter1-zh-hsiaochen-full-review.md
     Both link to: people/albert-en-sku-a-scratch-review
@@ -690,6 +770,106 @@ Generated: 2026-08-05 09:02:57
     Both link to: articles/taiwanjustice-net/2026/20260118105817_國台辦訓斥國民黨_馬英九就立刻表態效忠-_陳昭_44fcb678ea0c3f42
     (Dr. Albert S. Lai (賴信雄) <-> Chen Chao-nan (陳昭南))
 
+  people/daniel-kao.md <-> people/shoki-coe.md
+    Both link to: people/chaolong-kao.md
+    (Dr. Daniel Kao (高光民) <-> Dr. Shoki Coe (黃彰輝))
+
+  people/jonah-chang.md <-> people/shoki-coe.md
+    Both link to: people/chaolong-kao.md
+    (Rev. Jonah Chang (張瑞雄) <-> Dr. Shoki Coe (黃彰輝))
+
+  people/shoki-coe.md <-> people/zhou-wei-lin.md
+    Both link to: people/chaolong-kao.md
+    (Dr. Shoki Coe (黃彰輝) <-> Zhou Weilin (周威霖))
+
+  people/albert-s-lai.md <-> people/david-huang.md
+    Both link to: people/ching-fang-chen.md
+    (Dr. Albert S. Lai (賴信雄) <-> Rev. David Huang (黃德利))
+
+  people/david-huang.md <-> people/mingyuan-hsu.md
+    Both link to: people/ching-fang-chen.md
+    (Rev. David Huang (黃德利) <-> Rev. Mingyuan Hsu (許明遠))
+
+  people/david-huang.md <-> people/pinghsi-liu.md
+    Both link to: people/ching-fang-chen.md
+    (Rev. David Huang (黃德利) <-> Rev. Pinghsi Liu (劉炳熹))
+
+  people/ntpc.md <-> people/zhou-wei-lin.md
+    Both link to: people/mingyuan-hsu.md
+    (NTPC (see organization page) <-> Zhou Weilin (周威霖))
+
+  people/albert-s-lai.md <-> people/sam-chang.md
+    Both link to: people/zhou-wei-liang.md
+    (Dr. Albert S. Lai (賴信雄) <-> Sam Chang (張善良))
+
+  people/albert-s-lai.md <-> people/hsu-hsin-hung.md
+    Both link to: people/zhou-wei-lin.md
+    (Dr. Albert S. Lai (賴信雄) <-> Hsu Hsin-hung (徐新宏))
+
+  people/albert-s-lai.md <-> people/wang-gui-rong.md
+    Both link to: people/zhou-wei-lin.md
+    (Dr. Albert S. Lai (賴信雄) <-> Wang Gui-rong (王桂榮))
+
+  people/albert-s-lai.md <-> people/wang-neng-xiang.md
+    Both link to: people/zhou-wei-lin.md
+    (Dr. Albert S. Lai (賴信雄) <-> Wang Neng-xiang (王能祥))
+
+  people/albert-s-lai.md <-> people/ken-wu.md
+    Both link to: organizations/democratic-progressive-party.md
+    (Dr. Albert S. Lai (賴信雄) <-> Ken Wu (吳兆峯))
+
+  people/c-c-chen.md <-> people/pingtung-lai.md
+    Both link to: organizations/formosan-presbyterian-church-in-los-angeles.md
+    (Dr. C.C. Chen (陳昭俊) <-> Pastor Pingtung Lai (賴炳烔))
+
+  people/c-c-chen.md <-> people/shoki-coe.md
+    Both link to: organizations/formosan-presbyterian-church-in-los-angeles.md
+    (Dr. C.C. Chen (陳昭俊) <-> Dr. Shoki Coe (黃彰輝))
+
+  people/chaolong-kao.md <-> people/pingtung-lai.md
+    Both link to: organizations/formosan-presbyterian-church-in-los-angeles.md
+    (Dr. Charles C.L. Kao / Chaolong Kao (高昭龍) <-> Pastor Pingtung Lai (賴炳烔))
+
+  people/albert-s-lai.md <-> people/cai-weiren.md
+    Both link to: organizations/index.md
+    (Dr. Albert S. Lai (賴信雄) <-> Rev. Cai Weiren (蔡維仁牧師))
+
+  people/albert-s-lai.md <-> people/chen-bozhi.md
+    Both link to: organizations/index.md
+    (Dr. Albert S. Lai (賴信雄) <-> Rev. Chen Bozhi (陳柏志牧師))
+
+  people/albert-s-lai.md <-> people/choan-seng-song.md
+    Both link to: organizations/index.md
+    (Dr. Albert S. Lai (賴信雄) <-> Dr. Choan-Seng Song (宋泉盛))
+
+  people/c-c-chen.md <-> people/ching-fang-chen.md
+    Both link to: sources/toward-a-community-of-hope.md
+    (Dr. C.C. Chen (陳昭俊) <-> Rev. Ching Fang Chen (陳清芳))
+
+  people/c-c-chen.md <-> people/en-sheng-pan.md
+    Both link to: sources/toward-a-community-of-hope.md
+    (Dr. C.C. Chen (陳昭俊) <-> Rev. En Sheng Pan (潘恩盛))
+
+  people/c-c-chen.md <-> people/mingyuan-hsu.md
+    Both link to: sources/toward-a-community-of-hope.md
+    (Dr. C.C. Chen (陳昭俊) <-> Rev. Mingyuan Hsu (許明遠))
+
+  people/albert-s-lai.md <-> people/ken-wu.md
+    Both link to: sources/wikipedia-democratic-progressive-party.md
+    (Dr. Albert S. Lai (賴信雄) <-> Ken Wu (吳兆峯))
+
+  people/alexander-macdonald.md <-> people/cai-weiren.md
+    Both link to: organizations/good-shepherd-taiwanese-presbyterian-church.md
+    (馬偕博士 (George Leslie Macdonald) <-> Rev. Cai Weiren (蔡維仁牧師))
+
+  people/alexander-macdonald.md <-> people/chen-bozhi.md
+    Both link to: organizations/good-shepherd-taiwanese-presbyterian-church.md
+    (馬偕博士 (George Leslie Macdonald) <-> Rev. Chen Bozhi (陳柏志牧師))
+
+  people/alexander-macdonald.md <-> people/chen-meihui.md
+    Both link to: organizations/good-shepherd-taiwanese-presbyterian-church.md
+    (馬偕博士 (George Leslie Macdonald) <-> Chen Meihui (陳美蕙))
+
   people/anne-shih.md <-> people/bob-j-wu.md
     Both link to: people/franklin-ping-cheng
     (Anne Shih (施劉秀枝) <-> Bob J. Wu (吳瑞椿))
@@ -702,17 +882,17 @@ Generated: 2026-08-05 09:02:57
     Both link to: people/franklin-ping-cheng
     (Anne Shih (施劉秀枝) <-> Jack J. Chen (陳宏傑))
 
+  people/april-lin.md <-> people/franklin-ping-cheng.md
+    Both link to: people/alan-thian.md
+    (April Lin (林淑卿) <-> Franklin Ping Cheng (程炳成))
+
   people/april-lin.md <-> people/yang-jia-you.md
     Both link to: people/alan-thian.md
     (April Lin (林淑卿) <-> Charles Yang (楊嘉猷))
 
-  people/danny-chen.md <-> people/yang-jia-you.md
+  people/danny-chen.md <-> people/franklin-ping-cheng.md
     Both link to: people/alan-thian.md
-    (Danny Chen (陳啟耕) <-> Charles Yang (楊嘉猷))
-
-  people/he-sumei.md <-> people/yang-jia-you.md
-    Both link to: people/alan-thian.md
-    (He Sumei (何素美) <-> Charles Yang (楊嘉猷))
+    (Danny Chen (陳啟耕) <-> Franklin Ping Cheng (程炳成))
 
   people/ashton-hsu.md <-> people/ken-wu.md
     Both link to: people/david-lee
@@ -721,10 +901,6 @@ Generated: 2026-08-05 09:02:57
   people/ashton-hsu.md <-> people/rex-chen.md
     Both link to: people/david-lee
     (Ashton Hsu (許思敦) <-> Rex Chen (陳乃光))
-
-  people/ken-wu.md <-> people/rex-chen.md
-    Both link to: people/david-lee
-    (Ken Wu (吳兆峯) <-> Rex Chen (陳乃光))
 
   people/bai-peiyu.md <-> people/chen-maoxiong.md
     Both link to: articles/taiwanjustice-net/2024/20240225023718_root_78b19c4a1aa1f9ac
@@ -849,6 +1025,18 @@ Generated: 2026-08-05 09:02:57
   people/cai-jinrong.md <-> people/wang-taihe.md
     Both link to: people/zheng-bing-quan
     (Cai Jinrong (蔡錦榮) <-> Wang Taihe (王泰和))
+
+  people/cai-weiren.md <-> people/chen-meihui.md
+    Both link to: sources/irvine-taiwanese-presbyterian-church.md
+    (Rev. Cai Weiren (蔡維仁牧師) <-> Chen Meihui (陳美蕙))
+
+  people/cai-weiren.md <-> people/zhang-xuanxin.md
+    Both link to: sources/irvine-taiwanese-presbyterian-church.md
+    (Rev. Cai Weiren (蔡維仁牧師) <-> Zhang Xuanxin (張宣信))
+
+  people/cai-weiren.md <-> people/zhou-wei-lin.md
+    Both link to: sources/irvine-taiwanese-presbyterian-church.md
+    (Rev. Cai Weiren (蔡維仁牧師) <-> Zhou Weilin (周威霖))
 
   people/cai-yingwen.md <-> people/chen-maoxiong.md
     Both link to: organizations/taiwanjustice-net
@@ -140154,13 +140342,13 @@ Generated: 2026-08-05 09:02:57
     Both link to: organizations/irvine-taiwanese-presbyterian-church
     (Chen Meihui (陳美蕙) <-> Guo Yingyan (郭應言))
 
-  people/chen-meihui.md <-> people/li-furen.md
+  people/guo-yingyan.md <-> people/li-furen.md
     Both link to: organizations/irvine-taiwanese-presbyterian-church
-    (Chen Meihui (陳美蕙) <-> Li Fu-Jen (李輔仁))
+    (Guo Yingyan (郭應言) <-> Li Fu-Jen (李輔仁))
 
-  people/chen-meihui.md <-> sources/irvine-taiwanese-presbyterian-church.md
+  people/guo-yingyan.md <-> sources/irvine-taiwanese-presbyterian-church.md
     Both link to: organizations/irvine-taiwanese-presbyterian-church
-    (Chen Meihui (陳美蕙) <-> Irvine Taiwanese Presbyterian Church (爾灣台僑基督長老教會))
+    (Guo Yingyan (郭應言) <-> Irvine Taiwanese Presbyterian Church (爾灣台僑基督長老教會))
 
   people/chen-po-kong.md <-> people/hu-ping.md
     Both link to: articles/taiwanjustice-net/2025/20250713120115_陳破空縱論天下0616_bebd7e2c6fe07c7a
@@ -140262,6 +140450,14 @@ Generated: 2026-08-05 09:02:57
     Both link to: articles/taiwanjustice-net/2022/20220626182446_2017_02_05_02052017-台灣公義電子報新聞摘要_7c24f938e6c061b1
     (Liao Qing-shan (廖清山) <-> Yu Chieh (余杰))
 
+  people/david-huang.md <-> people/shoki-coe.md
+    Both link to: sources/good-shepherd-taiwanese-presbyterian-church.md
+    (Rev. David Huang (黃德利) <-> Dr. Shoki Coe (黃彰輝))
+
+  people/shoki-coe.md <-> people/zhou-wei-lin.md
+    Both link to: sources/good-shepherd-taiwanese-presbyterian-church.md
+    (Dr. Shoki Coe (黃彰輝) <-> Zhou Weilin (周威霖))
+
   people/david-huang.md <-> people/lien-hwa-chow.md
     Both link to: people/ntpc
     (Rev. David Huang (黃德利) <-> Dr. Lien-Hwa Chow (周聯華))
@@ -140273,10 +140469,6 @@ Generated: 2026-08-05 09:02:57
   people/lien-hwa-chow.md <-> people/mingyuan-hsu.md
     Both link to: people/ntpc
     (Dr. Lien-Hwa Chow (周聯華) <-> Rev. Mingyuan Hsu (許明遠))
-
-  people/david-lee.md <-> people/ken-wu.md
-    Both link to: people/rex-chen
-    (David Lee (李東璞) <-> Ken Wu (吳兆峯))
 
   people/du-ao-cunfu.md <-> people/yu-jie.md
     Both link to: articles/taiwanjustice-net/2025/20250219160452_專文_兩個民國_兩面國旗_台灣人該舉哪面旗_9b6235ab9c89ae74
@@ -140290,17 +140482,49 @@ Generated: 2026-08-05 09:02:57
     Both link to: articles/taiwanjustice-net/2024/20240520033822_root_beda29deab804052
     (Fan Chiang Tsiang (范姜提昂) <-> Li Hsiao-feng / 李筱峰)
 
-  people/franklin-ping-cheng.md <-> people/liao-shu-zong.md
-    Both link to: people/huang-gen-shen
-    (Franklin Ping Cheng (程炳成) <-> Liao Shu-zong (廖述宗))
+  people/yang-jia-you.md <-> people/yang-xin.md
+    Both link to: people/liao-shu-zong.md
+    (Charles Yang (楊嘉猷) <-> Yang Hsin (楊信))
+
+  people/franklin-ping-cheng.md <-> people/zhou-wei-liang.md
+    Both link to: people/sam-chang.md
+    (Franklin Ping Cheng (程炳成) <-> Zhou Weiliang (周威廉))
+
+  people/wang-gui-rong.md <-> people/zhou-wei-liang.md
+    Both link to: people/sam-chang.md
+    (Wang Gui-rong (王桂榮) <-> Zhou Weiliang (周威廉))
+
+  people/yang-jia-you.md <-> people/yang-xin.md
+    Both link to: people/shawna-yang-ryan.md
+    (Charles Yang (楊嘉猷) <-> Yang Hsin (楊信))
+
+  people/huang-gen-shen.md <-> people/wang-neng-xiang.md
+    Both link to: people/wang-gui-rong.md
+    (Huang Gen-shen (黃根深) <-> Wang Neng-xiang (王能祥))
+
+  people/franklin-ping-cheng.md <-> people/wang-yao-ting.md
+    Both link to: organizations/taiwanese-american-historical-society.md
+    (Franklin Ping Cheng (程炳成) <-> Wang Yao-ting (王耀廷))
+
+  people/franklin-ping-cheng.md <-> people/zheng-bing-quan.md
+    Both link to: organizations/taiwanese-american-historical-society.md
+    (Franklin Ping Cheng (程炳成) <-> Zheng Bingquan (鄭炳全))
+
+  people/huang-gen-shen.md <-> people/wang-yao-ting.md
+    Both link to: organizations/taiwanese-american-historical-society.md
+    (Huang Gen-shen (黃根深) <-> Wang Yao-ting (王耀廷))
 
   people/franklin-ping-cheng.md <-> people/lin-fu-kun.md
     Both link to: people/huang-gen-shen
     (Franklin Ping Cheng (程炳成) <-> Lin Fu-kun (林福坤))
 
-  people/franklin-ping-cheng.md <-> people/wang-gui-rong.md
+  people/liao-shu-zong.md <-> people/lin-fu-kun.md
     Both link to: people/huang-gen-shen
-    (Franklin Ping Cheng (程炳成) <-> Wang Gui-rong (王桂榮))
+    (Liao Shu-zong (廖述宗) <-> Lin Fu-kun (林福坤))
+
+  people/lin-fu-kun.md <-> people/yang-xin.md
+    Both link to: people/huang-gen-shen
+    (Lin Fu-kun (林福坤) <-> Yang Hsin (楊信))
 
   people/freeman-huang.md <-> people/john-yang.md
     Both link to: articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74
@@ -140378,10 +140602,6 @@ Generated: 2026-08-05 09:02:57
     Both link to: articles/taiwanjustice-net/2025/20250428230552_有力氣打人_還需要讓座給他嗎_-_-林保華_74181ad12376591d
     (Kuan Jen-chien / 管仁健 <-> Lin Bao-hua (林保華))
 
-  people/guo-shu-qing.md <-> people/liao-ji-chun.md
-    Both link to: people/liao-shu-zong
-    (Guo Shu-qing (郭淑卿) <-> Liao Jichun (廖繼春))
-
   people/guo-shu-qing.md <-> people/lin-chao-chi.md
     Both link to: people/liao-shu-zong
     (Guo Shu-qing (郭淑卿) <-> Lin Chao-chi (林朝棨))
@@ -140390,17 +140610,17 @@ Generated: 2026-08-05 09:02:57
     Both link to: people/liao-shu-zong
     (Guo Shu-qing (郭淑卿) <-> Lin Chao-quan (林朝權))
 
-  people/guo-shu-qing.md <-> people/lin-qiong-xian.md
-    Both link to: people/liao-ji-chun
-    (Guo Shu-qing (郭淑卿) <-> Lin Qiong-xian (林瓊仙))
+  people/guo-shu-qing.md <-> people/wang-gui-rong.md
+    Both link to: people/liao-shu-zong
+    (Guo Shu-qing (郭淑卿) <-> Wang Gui-rong (王桂榮))
 
-  people/guo-shu-qing.md <-> people/liao-ji-chun.md
-    Both link to: people/lin-qiong-xian
-    (Guo Shu-qing (郭淑卿) <-> Liao Jichun (廖繼春))
+  people/hsu-hsin-hung.md <-> people/ken-wu.md
+    Both link to: organizations/overseas-community-affairs-council.md
+    (Hsu Hsin-hung (徐新宏) <-> Ken Wu (吳兆峯))
 
-  people/hsu-hsin-hung.md <-> sources/2017-tahs-publication.md
-    Both link to: people/lin-yuan-ching
-    (Hsu Hsin-hung (徐新宏) <-> 2017 TAHS Publication)
+  people/hsu-hsin-hung.md <-> people/ken-wu.md
+    Both link to: sources/ocac-gov-tw.md
+    (Hsu Hsin-hung (徐新宏) <-> Ken Wu (吳兆峯))
 
   people/hu-ping.md <-> people/wang-dan.md
     Both link to: articles/taiwanjustice-net/2025/20251207072713_六四不是別的_是一場大屠殺_3ddc74d7d06e2177
@@ -140518,6 +140738,18 @@ Generated: 2026-08-05 09:02:57
     Both link to: articles/taiwanjustice-net/2025/20250320212940_大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念_c62f5c50846fe267
     (Paul Chen (陳柏宇) <-> Charles Yang (楊嘉猷))
 
+  people/ken-wu.md <-> people/tahs-member-onboarding.md
+    Both link to: people/david-lee.md
+    (Ken Wu (吳兆峯) <-> TAHS member onboarding)
+
+  people/leonard-hsu-jr.md <-> people/tahs-member-onboarding.md
+    Both link to: people/david-lee.md
+    (Leonard Hsu Jr. (許景鴻) <-> TAHS member onboarding)
+
+  people/rex-chen.md <-> people/tahs-member-onboarding.md
+    Both link to: people/david-lee.md
+    (Rex Chen (陳乃光) <-> TAHS member onboarding)
+
   people/ken-wu.md <-> people/lin-rongsong.md
     Both link to: articles/taiwanjustice-net/2020/20201126144045_2020_11_19_南加州林榮松僑務諮詢委員獲聘行政院政務顧問_06510e79e7a07f48
     (Ken Wu (吳兆峯) <-> Lin Jung-sung / 林榮松)
@@ -140618,37 +140850,17 @@ Generated: 2026-08-05 09:02:57
     Both link to: articles/taiwanjustice-net/2023/20230129123056_2016_06_12_台灣會館第十屆董事會選出新任董事長林榮松-_大_77328a2c6454177f
     (Lin Jung-sung / 林榮松 <-> Linda Liu (劉玲華))
 
-  people/lisa-su.md <-> sources/2017-tahs-publication.md
-    Both link to: people/su-chun-huai
-    (Lisa T. Su (蘇姿丰) <-> 2017 TAHS Publication)
-
-  people/sam-chang.md <-> people/zhou-wei-lin.md
-    Both link to: people/zhou-wei-liang
-    (Sam Chang (張善良) <-> Zhou Weilin (周威霖))
-
-  people/sam-chang.md <-> sources/2017-tahs-publication.md
-    Both link to: people/zhou-wei-liang
-    (Sam Chang (張善良) <-> 2017 TAHS Publication)
+  people/ntpc.md <-> people/zhou-wei-lin.md
+    Both link to: people/david-huang.md
+    (NTPC (see organization page) <-> Zhou Weilin (周威霖))
 
   people/zhou-wei-lin.md <-> sources/2017-tahs-publication.md
     Both link to: people/zhou-wei-liang
     (Zhou Weilin (周威霖) <-> 2017 TAHS Publication)
 
-  people/su-chun-huai.md <-> sources/2017-tahs-publication.md
-    Both link to: people/lisa-su
-    (Su Chun-huai (蘇春槐) <-> 2017 TAHS Publication)
-
   people/wang-dan.md <-> people/wei-jingsheng.md
     Both link to: articles/taiwanjustice-net/2025/20250718070914_美國加州自由雕塑公園-中共病毒雕塑落成_a91a403ef7e2779b
     (Wang Dan / 王丹 <-> Wei Jingsheng / 魏京生)
-
-  people/wang-gui-rong.md <-> people/zhou-wei-lin.md
-    Both link to: people/wang-neng-xiang
-    (Wang Gui-rong (王桂榮) <-> Zhou Weilin (周威霖))
-
-  people/wang-gui-rong.md <-> sources/2017-tahs-publication.md
-    Both link to: people/wang-neng-xiang
-    (Wang Gui-rong (王桂榮) <-> 2017 TAHS Publication)
 
   people/zhou-wei-lin.md <-> sources/2017-tahs-publication.md
     Both link to: people/wang-neng-xiang
@@ -140661,10 +140873,6 @@ Generated: 2026-08-05 09:02:57
   people/wang-qiaoling.md <-> people/yu-jie.md
     Both link to: articles/taiwanjustice-net/2022/20221129001034_2016_07_05_對中國人權律師來說_被逮捕居然是好消息_-_余_4bf0433ea3808306
     (Wang Chiao-ling / 王峭嶺 <-> Yu Chieh (余杰))
-
-  people/wang-yao-ting.md <-> people/zheng-bing-quan.md
-    Both link to: people/zhou-wei-lin
-    (Wang Yao-ting (王耀廷) <-> Zheng Bingquan (鄭炳全))
 
   people/xu-shihuan.md <-> people/ye-siya.md
     Both link to: articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38
@@ -140706,15 +140914,11 @@ Generated: 2026-08-05 09:02:57
     Both link to: articles/taiwanjustice-net/2023/20230129123134_2016_06_06_大洛杉磯台灣會館台灣學校_古典音樂欣賞_-六月_a244776e9eb57979
     (Yeh Ssu-ya / 葉思雅 <-> Chang Hsin-hui / 張信惠)
 
-  people/zhou-wei-liang.md <-> sources/2017-tahs-publication.md
-    Both link to: people/sam-chang
-    (Zhou Weiliang (周威廉) <-> 2017 TAHS Publication)
-
   sources/2017-tahs-publication.md <-> sources/2023-tahs-publication.md
     Both link to: echopedia
     (2017 TAHS Publication <-> 2023 TAHS Publication)
 
-[CO-MENTION] 833 suggestions
+[CO-MENTION] 796 suggestions
   organizations/democratic-progressive-party.md <-> organizations/formosa-foundation.md
     "Formosa Foundation" mentioned in both pages
 
@@ -141372,6 +141576,9 @@ Generated: 2026-08-05 09:02:57
   people/alan-thian.md <-> people/yang-jia-you.md
     "Charles Yang (楊嘉猷)" mentioned in both pages
 
+  people/alan-thian.md <-> sources/2023-tahs-publication.md
+    "2023 TAHS Publication" mentioned in both pages
+
   people/albert-chapter1-audiobook-consent-and-recording-kit.md <-> organizations/taiwan-formosa.md
     "Taiwan Formosa" mentioned in both pages
 
@@ -141380,9 +141587,6 @@ Generated: 2026-08-05 09:02:57
 
   people/albert-chapter1-audiobook-taiwanese-female.md <-> organizations/taiwan-formosa.md
     "Taiwan Formosa" mentioned in both pages
-
-  people/albert-chapter1-audiobook-taiwanese-female.md <-> people/albert-s-lai.md
-    "Dr. Albert S. Lai (賴信雄)" mentioned in both pages
 
   people/albert-chapter1-en-review.md <-> organizations/taiwan-formosa.md
     "Taiwan Formosa" mentioned in both pages
@@ -141395,9 +141599,6 @@ Generated: 2026-08-05 09:02:57
 
   people/albert-chapter1-en-review.md <-> people/albert-en-sku-a-scratch-review.md
     "Albert EN SKU A audiobook scratch — full book review" mentioned in both pages
-
-  people/albert-chapter1-en-review.md <-> people/albert-s-lai.md
-    "Dr. Albert S. Lai (賴信雄)" mentioned in both pages
 
   people/albert-chapter1-zh-hsiaochen-full-review.md <-> people/albert-s-lai.md
     "Dr. Albert S. Lai (賴信雄)" mentioned in both pages
@@ -141483,53 +141684,8 @@ Generated: 2026-08-05 09:02:57
   people/albert-s-lai.md <-> people/albert-en-sku-a-scratch-review.md
     "Albert EN SKU A audiobook scratch — full book review" mentioned in both pages
 
-  people/albert-s-lai.md <-> people/c-c-chen.md
-    "Dr. C.C. Chen (陳昭俊)" mentioned in both pages
-
-  people/albert-s-lai.md <-> people/chaolong-kao.md
-    "Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)" mentioned in both pages
-
-  people/albert-s-lai.md <-> people/ching-fang-chen.md
-    "Rev. Ching Fang Chen (陳清芳)" mentioned in both pages
-
-  people/albert-s-lai.md <-> people/daniel-kao.md
-    "Dr. Daniel Kao (高光民)" mentioned in both pages
-
-  people/albert-s-lai.md <-> people/en-sheng-pan.md
-    "Rev. En Sheng Pan (潘恩盛)" mentioned in both pages
-
-  people/albert-s-lai.md <-> people/fpcla.md
-    "FPCLA (see organization page)" mentioned in both pages
-
-  people/albert-s-lai.md <-> people/jonah-chang.md
-    "Rev. Jonah Chang (張瑞雄)" mentioned in both pages
-
-  people/albert-s-lai.md <-> people/mingyuan-hsu.md
-    "Rev. Mingyuan Hsu (許明遠)" mentioned in both pages
-
-  people/albert-s-lai.md <-> people/ntpc.md
-    "NTPC (see organization page)" mentioned in both pages
-
-  people/albert-s-lai.md <-> people/pinghsi-liu.md
-    "Rev. Pinghsi Liu (劉炳熹)" mentioned in both pages
-
-  people/albert-s-lai.md <-> people/pingtung-lai.md
-    "Pastor Pingtung Lai (賴炳烔)" mentioned in both pages
-
-  people/albert-s-lai.md <-> people/san-francisco-theological-seminary.md
-    "San Francisco Theological Seminary" mentioned in both pages
-
   people/albert-s-lai.md <-> people/shoki-coe.md
     "Dr. Shoki Coe (黃彰輝)" mentioned in both pages
-
-  people/albert-s-lai.md <-> people/yunching-yeh-davis.md
-    "Dr. Yunching Yeh Davis (葉芸青)" mentioned in both pages
-
-  people/albert-s-lai.md <-> sources/toward-a-community-of-hope.md
-    "Toward A Community of Hope (Lai, 1971 / 2025)" mentioned in both pages
-
-  people/alexander-macdonald.md <-> organizations/good-shepherd-taiwanese-presbyterian-church.md
-    "Good Shepherd Taiwanese Presbyterian Church" mentioned in both pages
 
   people/anne-shih.md <-> organizations/taiwanese-american-historical-society.md
     "Taiwanese American Historical Society (TAHS)" mentioned in both pages
@@ -141597,9 +141753,6 @@ Generated: 2026-08-05 09:02:57
   people/c-c-chen.md <-> people/chaolong-kao.md
     "Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)" mentioned in both pages
 
-  people/c-c-chen.md <-> people/daniel-kao.md
-    "Dr. Daniel Kao (高光民)" mentioned in both pages
-
   people/c-c-chen.md <-> people/jonah-chang.md
     "Rev. Jonah Chang (張瑞雄)" mentioned in both pages
 
@@ -141635,12 +141788,6 @@ Generated: 2026-08-05 09:02:57
 
   people/chaolong-kao.md <-> organizations/national-taiwanese-presbyterian-council.md
     "National Taiwanese Presbyterian Council (NTPC)" mentioned in both pages
-
-  people/chaolong-kao.md <-> people/daniel-kao.md
-    "Dr. Daniel Kao (高光民)" mentioned in both pages
-
-  people/chaolong-kao.md <-> people/jonah-chang.md
-    "Rev. Jonah Chang (張瑞雄)" mentioned in both pages
 
   people/chen-maoxiong.md <-> events/tc-event-taiwan-joining-who.md
     "台灣加入世衛組織的歷程與展望" mentioned in both pages
@@ -141687,6 +141834,9 @@ Generated: 2026-08-05 09:02:57
   people/chen-po-kong.md <-> sources/taiwanjustice-net.md
     "taiwanjustice.net (台灣公義網)" mentioned in both pages
 
+  people/chen-po-kong.md <-> people/chen-maoxiong.md
+    "Chen Maoxiong (陳茂雄)" mentioned in both pages
+
   people/chen-po-kong.md <-> people/freeman-huang.md
     "Freeman Huang (黃樹人)" mentioned in both pages
 
@@ -141707,6 +141857,9 @@ Generated: 2026-08-05 09:02:57
 
   people/chen-wenshi.md <-> organizations/taiwanese-american-historical-society.md
     "Taiwanese American Historical Society (TAHS)" mentioned in both pages
+
+  people/chen-wenshi.md <-> sources/taiwanjustice-net.md
+    "taiwanjustice.net (台灣公義網)" mentioned in both pages
 
   people/chen-wenshi.md <-> sources/2017-tahs-publication.md
     "2017 TAHS Publication" mentioned in both pages
@@ -141741,6 +141894,9 @@ Generated: 2026-08-05 09:02:57
   people/chen-zhaonan.md <-> people/freeman-huang.md
     "Freeman Huang (黃樹人)" mentioned in both pages
 
+  people/chen-zhaonan.md <-> people/lin-baohua.md
+    "Lin Baohua (林保華)" mentioned in both pages
+
   people/chen-zhaonan.md <-> people/simon-lin.md
     "Simon Lin (林榮松)" mentioned in both pages
 
@@ -141765,23 +141921,11 @@ Generated: 2026-08-05 09:02:57
   people/ching-fang-chen.md <-> people/mingyuan-hsu.md
     "Rev. Mingyuan Hsu (許明遠)" mentioned in both pages
 
-  people/ching-fang-chen.md <-> people/pinghsi-liu.md
-    "Rev. Pinghsi Liu (劉炳熹)" mentioned in both pages
-
-  people/ching-fang-chen.md <-> people/yunching-yeh-davis.md
-    "Dr. Yunching Yeh Davis (葉芸青)" mentioned in both pages
-
-  people/ching-fang-chen.md <-> sources/toward-a-community-of-hope.md
-    "Toward A Community of Hope (Lai, 1971 / 2025)" mentioned in both pages
-
   people/choan-seng-song.md <-> organizations/ntpc.md
     "North Taiwan Presbyterian Church (NTPC)" mentioned in both pages
 
   people/daniel-kao.md <-> people/jonah-chang.md
     "Rev. Jonah Chang (張瑞雄)" mentioned in both pages
-
-  people/daniel-kao.md <-> sources/toward-a-community-of-hope.md
-    "Toward A Community of Hope (Lai, 1971 / 2025)" mentioned in both pages
 
   people/david-huang.md <-> organizations/national-taiwanese-presbyterian-council.md
     "National Taiwanese Presbyterian Council (NTPC)" mentioned in both pages
@@ -141789,14 +141933,8 @@ Generated: 2026-08-05 09:02:57
   people/david-lee.md <-> organizations/taiwanese-american-historical-society.md
     "Taiwanese American Historical Society (TAHS)" mentioned in both pages
 
-  people/david-lee.md <-> people/ken-wu.md
-    "Ken Wu (吳兆峯)" mentioned in both pages
-
   people/david-lee.md <-> people/leonard-hsu-jr.md
     "Leonard Hsu Jr. (許景鴻)" mentioned in both pages
-
-  people/david-lee.md <-> people/rex-chen.md
-    "Rex Chen (陳乃光)" mentioned in both pages
 
   people/david-lee.md <-> people/tahs-member-onboarding.md
     "TAHS member onboarding" mentioned in both pages
@@ -141834,12 +141972,6 @@ Generated: 2026-08-05 09:02:57
   people/en-sheng-pan.md <-> people/mingyuan-hsu.md
     "Rev. Mingyuan Hsu (許明遠)" mentioned in both pages
 
-  people/en-sheng-pan.md <-> people/pinghsi-liu.md
-    "Rev. Pinghsi Liu (劉炳熹)" mentioned in both pages
-
-  people/en-sheng-pan.md <-> people/yunching-yeh-davis.md
-    "Dr. Yunching Yeh Davis (葉芸青)" mentioned in both pages
-
   people/fan-jiang-ti-ang.md <-> events/tc-event-taiwan-joining-who.md
     "台灣加入世衛組織的歷程與展望" mentioned in both pages
 
@@ -141860,6 +141992,12 @@ Generated: 2026-08-05 09:02:57
 
   people/fan-jiang-ti-ang.md <-> people/simon-lin.md
     "Simon Lin (林榮松)" mentioned in both pages
+
+  people/fan-jiang-ti-ang.md <-> people/yang-ziqing.md
+    "Yang Ziqing (楊子清)" mentioned in both pages
+
+  people/fan-jiang-ti-ang.md <-> people/yu-jie.md
+    "Yu Chieh (余杰)" mentioned in both pages
 
   people/fan-qingliang.md <-> organizations/taiwanese-american-foundation-of-san-diego.md
     "Taiwanese American Foundation of San Diego" mentioned in both pages
@@ -141882,11 +142020,8 @@ Generated: 2026-08-05 09:02:57
   people/fpcla.md <-> organizations/national-taiwanese-presbyterian-council.md
     "National Taiwanese Presbyterian Council (NTPC)" mentioned in both pages
 
-  people/franklin-ping-cheng.md <-> people/yang-jia-you.md
-    "Charles Yang (楊嘉猷)" mentioned in both pages
-
-  people/franklin-ping-cheng.md <-> sources/2017-tahs-publication.md
-    "2017 TAHS Publication" mentioned in both pages
+  people/fpcla.md <-> people/albert-s-lai.md
+    "Dr. Albert S. Lai (賴信雄)" mentioned in both pages
 
   people/freeman-huang.md <-> sources/taiwanjustice-net.md
     "taiwanjustice.net (台灣公義網)" mentioned in both pages
@@ -141960,6 +142095,9 @@ Generated: 2026-08-05 09:02:57
   people/he-qingxuan.md <-> people/freeman-huang.md
     "Freeman Huang (黃樹人)" mentioned in both pages
 
+  people/he-qingxuan.md <-> people/liao-qingshan.md
+    "Liao Qingshan (廖清山)" mentioned in both pages
+
   people/he-qingxuan.md <-> people/simon-lin.md
     "Simon Lin (林榮松)" mentioned in both pages
 
@@ -141993,17 +142131,11 @@ Generated: 2026-08-05 09:02:57
   people/hou-youyi.md <-> people/freeman-huang.md
     "Freeman Huang (黃樹人)" mentioned in both pages
 
-  people/hsu-hsin-hung.md <-> organizations/overseas-community-affairs-council.md
-    "Overseas Community Affairs Council (僑務委員會)" mentioned in both pages
-
   people/hsu-hsin-hung.md <-> organizations/taiwanese-american-historical-society.md
     "Taiwanese American Historical Society (TAHS)" mentioned in both pages
 
   people/hsu-hsin-hung.md <-> people/yang-jia-you.md
     "Charles Yang (楊嘉猷)" mentioned in both pages
-
-  people/hsu-hsin-hung.md <-> sources/2017-tahs-publication.md
-    "2017 TAHS Publication" mentioned in both pages
 
   people/hu-gstpc.md <-> organizations/good-shepherd-taiwanese-presbyterian-church.md
     "Good Shepherd Taiwanese Presbyterian Church" mentioned in both pages
@@ -142032,11 +142164,14 @@ Generated: 2026-08-05 09:02:57
   people/huang-diyin.md <-> people/freeman-huang.md
     "Freeman Huang (黃樹人)" mentioned in both pages
 
+  people/huang-diyin.md <-> people/he-qingxuan.md
+    "He Qinglian (何清漣)" mentioned in both pages
+
   people/huang-diyin.md <-> people/simon-lin.md
     "Simon Lin (林榮松)" mentioned in both pages
 
-  people/huang-gen-shen.md <-> organizations/taiwanese-american-historical-society.md
-    "Taiwanese American Historical Society (TAHS)" mentioned in both pages
+  people/huang-diyin.md <-> people/yang-ziqing.md
+    "Yang Ziqing (楊子清)" mentioned in both pages
 
   people/huang-gen-shen.md <-> sources/2017-tahs-publication.md
     "2017 TAHS Publication" mentioned in both pages
@@ -142173,17 +142308,8 @@ Generated: 2026-08-05 09:02:57
   people/ken-wu.md <-> people/leonard-hsu-jr.md
     "Leonard Hsu Jr. (許景鴻)" mentioned in both pages
 
-  people/ken-wu.md <-> people/rex-chen.md
-    "Rex Chen (陳乃光)" mentioned in both pages
-
   people/ken-wu.md <-> people/tahs-member-onboarding.md
     "TAHS member onboarding" mentioned in both pages
-
-  people/ken-wu.md <-> sources/taiwancenter-org.md
-    "taiwancenter.org (Taiwan Center website)" mentioned in both pages
-
-  people/ken-wu.md <-> sources/wikipedia-democratic-progressive-party.md
-    "Wikipedia: Democratic Progressive Party" mentioned in both pages
 
   people/kevin-lee.md <-> people/david-lee.md
     "David Lee (李東璞)" mentioned in both pages
@@ -142203,14 +142329,8 @@ Generated: 2026-08-05 09:02:57
   people/leonard-hsu-jr.md <-> sources/taiwanjustice-net.md
     "taiwanjustice.net (台灣公義網)" mentioned in both pages
 
-  people/leonard-hsu-jr.md <-> people/rex-chen.md
-    "Rex Chen (陳乃光)" mentioned in both pages
-
   people/leonard-hsu-jr.md <-> people/yang-jia-you.md
     "Charles Yang (楊嘉猷)" mentioned in both pages
-
-  people/li-furen.md <-> people/chen-meihui.md
-    "Chen Meihui (陳美蕙)" mentioned in both pages
 
   people/li-furen.md <-> people/zhang-xuanxin.md
     "Zhang Xuanxin (張宣信)" mentioned in both pages
@@ -142287,6 +142407,9 @@ Generated: 2026-08-05 09:02:57
   people/liao-qingshan.md <-> sources/taiwanjustice-net.md
     "taiwanjustice.net (台灣公義網)" mentioned in both pages
 
+  people/liao-qingshan.md <-> people/cai-yingwen.md
+    "Cai Yingwen (蔡英文)" mentioned in both pages
+
   people/liao-qingshan.md <-> people/freeman-huang.md
     "Freeman Huang (黃樹人)" mentioned in both pages
 
@@ -142302,23 +142425,11 @@ Generated: 2026-08-05 09:02:57
   people/liao-shu-zong.md <-> organizations/taiwan-american-foundation.md
     "Taiwanese American Foundation (TAF)" mentioned in both pages
 
-  people/liao-shu-zong.md <-> organizations/taiwanese-american-historical-society.md
-    "Taiwanese American Historical Society (TAHS)" mentioned in both pages
-
   people/liao-shu-zong.md <-> people/franklin-ping-cheng.md
     "Franklin Ping Cheng (程炳成)" mentioned in both pages
 
-  people/liao-shu-zong.md <-> people/liao-ji-chun.md
-    "Liao Jichun (廖繼春)" mentioned in both pages
-
   people/liao-shu-zong.md <-> people/yang-jia-you.md
     "Charles Yang (楊嘉猷)" mentioned in both pages
-
-  people/liao-shu-zong.md <-> people/yang-xin.md
-    "Yang Hsin (楊信)" mentioned in both pages
-
-  people/liao-shu-zong.md <-> sources/2017-tahs-publication.md
-    "2017 TAHS Publication" mentioned in both pages
 
   people/liao-shu-zong.md <-> sources/2023-tahs-publication.md
     "2023 TAHS Publication" mentioned in both pages
@@ -142346,6 +142457,9 @@ Generated: 2026-08-05 09:02:57
 
   people/lin-baohua.md <-> people/simon-lin.md
     "Simon Lin (林榮松)" mentioned in both pages
+
+  people/lin-baohua.md <-> people/yu-jie.md
+    "Yu Chieh (余杰)" mentioned in both pages
 
   people/lin-chao-chi.md <-> people/yang-jia-you.md
     "Charles Yang (楊嘉猷)" mentioned in both pages
@@ -142377,17 +142491,23 @@ Generated: 2026-08-05 09:02:57
   people/lin-jialong.md <-> people/freeman-huang.md
     "Freeman Huang (黃樹人)" mentioned in both pages
 
-  people/lin-qiong-xian.md <-> people/liao-ji-chun.md
-    "Liao Jichun (廖繼春)" mentioned in both pages
-
   people/lin-qiong-xian.md <-> people/yang-jia-you.md
     "Charles Yang (楊嘉猷)" mentioned in both pages
 
   people/lin-qiong-xian.md <-> sources/2017-tahs-publication.md
     "2017 TAHS Publication" mentioned in both pages
 
+  people/lin-rongsong.md <-> events/tc-event-taiwan-joining-who.md
+    "台灣加入世衛組織的歷程與展望" mentioned in both pages
+
   people/lin-rongsong.md <-> organizations/taiwanese-american-historical-society.md
     "Taiwanese American Historical Society (TAHS)" mentioned in both pages
+
+  people/lin-rongsong.md <-> sources/taiwanjustice-net.md
+    "taiwanjustice.net (台灣公義網)" mentioned in both pages
+
+  people/lin-rongsong.md <-> people/april-lin.md
+    "April Lin (林淑卿)" mentioned in both pages
 
   people/lin-yuan-ching.md <-> organizations/friends-of-taiwan.md
     "Friends of Taiwan" mentioned in both pages
@@ -142397,9 +142517,6 @@ Generated: 2026-08-05 09:02:57
 
   people/lin-yuan-ching.md <-> people/yang-jia-you.md
     "Charles Yang (楊嘉猷)" mentioned in both pages
-
-  people/lin-yuan-ching.md <-> sources/2017-tahs-publication.md
-    "2017 TAHS Publication" mentioned in both pages
 
   people/linda-liu.md <-> organizations/taiwanese-american-foundation.md
     "TaiwaneseAmerican Foundation" mentioned in both pages
@@ -142425,9 +142542,6 @@ Generated: 2026-08-05 09:02:57
   people/lisa-su.md <-> people/franklin-ping-cheng.md
     "Franklin Ping Cheng (程炳成)" mentioned in both pages
 
-  people/lisa-su.md <-> sources/2017-tahs-publication.md
-    "2017 TAHS Publication" mentioned in both pages
-
   people/ma-yingjeou.md <-> sources/taiwanjustice-net.md
     "taiwanjustice.net (台灣公義網)" mentioned in both pages
 
@@ -142446,12 +142560,6 @@ Generated: 2026-08-05 09:02:57
   people/martha-vandriel.md <-> sources/2017-tahs-publication.md
     "2017 TAHS Publication" mentioned in both pages
 
-  people/mingyuan-hsu.md <-> organizations/good-shepherd-taiwanese-presbyterian-church.md
-    "Good Shepherd Taiwanese Presbyterian Church" mentioned in both pages
-
-  people/mingyuan-hsu.md <-> sources/toward-a-community-of-hope.md
-    "Toward A Community of Hope (Lai, 1971 / 2025)" mentioned in both pages
-
   people/nanfang-shuo.md <-> organizations/taiwanese-american-historical-society.md
     "Taiwanese American Historical Society (TAHS)" mentioned in both pages
 
@@ -142461,11 +142569,11 @@ Generated: 2026-08-05 09:02:57
   people/ntpc.md <-> organizations/national-taiwanese-presbyterian-council.md
     "National Taiwanese Presbyterian Council (NTPC)" mentioned in both pages
 
+  people/ntpc.md <-> people/albert-s-lai.md
+    "Dr. Albert S. Lai (賴信雄)" mentioned in both pages
+
   people/ntpc.md <-> people/ching-fang-chen.md
     "Rev. Ching Fang Chen (陳清芳)" mentioned in both pages
-
-  people/ntpc.md <-> people/mingyuan-hsu.md
-    "Rev. Mingyuan Hsu (許明遠)" mentioned in both pages
 
   people/ntpc.md <-> people/pinghsi-liu.md
     "Rev. Pinghsi Liu (劉炳熹)" mentioned in both pages
@@ -142530,11 +142638,11 @@ Generated: 2026-08-05 09:02:57
   people/pingtung-lai.md <-> people/pinghsi-liu.md
     "Rev. Pinghsi Liu (劉炳熹)" mentioned in both pages
 
-  people/pingtung-lai.md <-> sources/toward-a-community-of-hope.md
-    "Toward A Community of Hope (Lai, 1971 / 2025)" mentioned in both pages
-
   people/rex-chen.md <-> organizations/taiwanese-american-historical-society.md
     "Taiwanese American Historical Society (TAHS)" mentioned in both pages
+
+  people/rex-chen.md <-> people/leonard-hsu-jr.md
+    "Leonard Hsu Jr. (許景鴻)" mentioned in both pages
 
   people/rex-chen.md <-> people/tahs-member-onboarding.md
     "TAHS member onboarding" mentioned in both pages
@@ -142569,11 +142677,8 @@ Generated: 2026-08-05 09:02:57
   people/sam-chang.md <-> people/franklin-ping-cheng.md
     "Franklin Ping Cheng (程炳成)" mentioned in both pages
 
-  people/sam-chang.md <-> people/zhou-wei-liang.md
-    "Zhou Weiliang (周威廉)" mentioned in both pages
-
-  people/sam-chang.md <-> sources/2017-tahs-publication.md
-    "2017 TAHS Publication" mentioned in both pages
+  people/san-francisco-theological-seminary.md <-> people/albert-s-lai.md
+    "Dr. Albert S. Lai (賴信雄)" mentioned in both pages
 
   people/sang-pu.md <-> organizations/taiwanese-american-historical-society.md
     "Taiwanese American Historical Society (TAHS)" mentioned in both pages
@@ -142622,12 +142727,6 @@ Generated: 2026-08-05 09:02:57
 
   people/su-chun-huai.md <-> people/franklin-ping-cheng.md
     "Franklin Ping Cheng (程炳成)" mentioned in both pages
-
-  people/su-chun-huai.md <-> people/lisa-su.md
-    "Lisa T. Su (蘇姿丰)" mentioned in both pages
-
-  people/su-chun-huai.md <-> sources/2017-tahs-publication.md
-    "2017 TAHS Publication" mentioned in both pages
 
   people/sunu-tsai.md <-> sources/taiwanjustice-net.md
     "taiwanjustice.net (台灣公義網)" mentioned in both pages
@@ -142695,23 +142794,11 @@ Generated: 2026-08-05 09:02:57
   people/wang-gui-rong.md <-> organizations/orange-county-taiwanese-association.md
     "Orange County Taiwanese Association" mentioned in both pages
 
-  people/wang-gui-rong.md <-> organizations/taiwan-american-foundation.md
-    "Taiwanese American Foundation (TAF)" mentioned in both pages
-
   people/wang-gui-rong.md <-> organizations/taiwanese-american-historical-society.md
     "Taiwanese American Historical Society (TAHS)" mentioned in both pages
 
   people/wang-gui-rong.md <-> organizations/taiwanese-chambers-of-commerce-of-orange-county.md
     "Taiwanese Chambers of Commerce of Orange County" mentioned in both pages
-
-  people/wang-gui-rong.md <-> people/franklin-ping-cheng.md
-    "Franklin Ping Cheng (程炳成)" mentioned in both pages
-
-  people/wang-gui-rong.md <-> people/yang-jia-you.md
-    "Charles Yang (楊嘉猷)" mentioned in both pages
-
-  people/wang-gui-rong.md <-> sources/2017-tahs-publication.md
-    "2017 TAHS Publication" mentioned in both pages
 
   people/wang-jinping.md <-> sources/taiwanjustice-net.md
     "taiwanjustice.net (台灣公義網)" mentioned in both pages
@@ -142748,9 +142835,6 @@ Generated: 2026-08-05 09:02:57
 
   people/wang-neng-xiang.md <-> people/yang-jia-you.md
     "Charles Yang (楊嘉猷)" mentioned in both pages
-
-  people/wang-neng-xiang.md <-> sources/2017-tahs-publication.md
-    "2017 TAHS Publication" mentioned in both pages
 
   people/wang-qiaoling.md <-> organizations/taiwanese-american-historical-society.md
     "Taiwanese American Historical Society (TAHS)" mentioned in both pages
@@ -142806,14 +142890,8 @@ Generated: 2026-08-05 09:02:57
   people/wang-yao-ting-xie-xiulan.md <-> sources/2023-tahs-publication.md
     "2023 TAHS Publication" mentioned in both pages
 
-  people/wang-yao-ting.md <-> organizations/taiwanese-american-historical-society.md
-    "Taiwanese American Historical Society (TAHS)" mentioned in both pages
-
   people/wang-yao-ting.md <-> people/yang-jia-you.md
     "Charles Yang (楊嘉猷)" mentioned in both pages
-
-  people/wang-yao-ting.md <-> people/zheng-bing-quan.md
-    "Zheng Bingquan (鄭炳全)" mentioned in both pages
 
   people/wang-yao-ting.md <-> people/zheng-bingquan.md
     "Zheng Bingquan / 鄭炳全" mentioned in both pages
@@ -142824,11 +142902,17 @@ Generated: 2026-08-05 09:02:57
   people/wei-jingsheng.md <-> organizations/taiwanese-american-historical-society.md
     "Taiwanese American Historical Society (TAHS)" mentioned in both pages
 
+  people/willy-pan.md <-> organizations/taiwanese-american-foundation.md
+    "TaiwaneseAmerican Foundation" mentioned in both pages
+
   people/willy-pan.md <-> sources/taiwanjustice-net.md
     "taiwanjustice.net (台灣公義網)" mentioned in both pages
 
   people/willy-pan.md <-> people/freeman-huang.md
     "Freeman Huang (黃樹人)" mentioned in both pages
+
+  people/wu-lipei.md <-> organizations/taiwan-formosa.md
+    "Taiwan Formosa" mentioned in both pages
 
   people/wu-lipei.md <-> organizations/taiwanese-american-historical-society.md
     "Taiwanese American Historical Society (TAHS)" mentioned in both pages
@@ -142938,9 +143022,6 @@ Generated: 2026-08-05 09:02:57
   people/yang-xin.md <-> people/franklin-ping-cheng.md
     "Franklin Ping Cheng (程炳成)" mentioned in both pages
 
-  people/yang-xin.md <-> sources/2017-tahs-publication.md
-    "2017 TAHS Publication" mentioned in both pages
-
   people/yang-yuanxun.md <-> events/tc-event-taiwan-joining-who.md
     "台灣加入世衛組織的歷程與展望" mentioned in both pages
 
@@ -143046,9 +143127,6 @@ Generated: 2026-08-05 09:02:57
   people/yunching-yeh-davis.md <-> people/mingyuan-hsu.md
     "Rev. Mingyuan Hsu (許明遠)" mentioned in both pages
 
-  people/yunching-yeh-davis.md <-> sources/toward-a-community-of-hope.md
-    "Toward A Community of Hope (Lai, 1971 / 2025)" mentioned in both pages
-
   people/zeng-daoxiong.md <-> sources/taiwanjustice-net.md
     "taiwanjustice.net (台灣公義網)" mentioned in both pages
 
@@ -143059,9 +143137,6 @@ Generated: 2026-08-05 09:02:57
     "Taiwanese American Historical Society (TAHS)" mentioned in both pages
 
   people/zhang-xuanxin.md <-> organizations/taiwanese-american-historical-society.md
-    "Taiwanese American Historical Society (TAHS)" mentioned in both pages
-
-  people/zheng-bing-quan.md <-> organizations/taiwanese-american-historical-society.md
     "Taiwanese American Historical Society (TAHS)" mentioned in both pages
 
   people/zheng-bing-quan.md <-> people/anne-shih.md
@@ -143112,6 +143187,9 @@ Generated: 2026-08-05 09:02:57
   people/zheng-qinren.md <-> organizations/taiwanese-american-historical-society.md
     "Taiwanese American Historical Society (TAHS)" mentioned in both pages
 
+  people/zheng-qinren.md <-> sources/taiwanjustice-net.md
+    "taiwanjustice.net (台灣公義網)" mentioned in both pages
+
   people/zheng-shaoliang.md <-> organizations/taiwanese-american-historical-society.md
     "Taiwanese American Historical Society (TAHS)" mentioned in both pages
 
@@ -143130,17 +143208,11 @@ Generated: 2026-08-05 09:02:57
   people/zheng-wenlong.md <-> organizations/taiwanese-american-historical-society.md
     "Taiwanese American Historical Society (TAHS)" mentioned in both pages
 
-  people/zhou-wei-liang.md <-> people/zhou-wei-lin.md
-    "Zhou Weilin (周威霖)" mentioned in both pages
+  people/zhou-wei-lin.md <-> organizations/good-shepherd-taiwanese-presbyterian-church.md
+    "Good Shepherd Taiwanese Presbyterian Church" mentioned in both pages
 
-  people/zhou-wei-liang.md <-> sources/2017-tahs-publication.md
-    "2017 TAHS Publication" mentioned in both pages
-
-  people/zhou-wei-lin.md <-> organizations/taiwanese-american-historical-society.md
-    "Taiwanese American Historical Society (TAHS)" mentioned in both pages
-
-  people/zhou-wei-lin.md <-> people/yang-jia-you.md
-    "Charles Yang (楊嘉猷)" mentioned in both pages
+  people/zhou-wei-lin.md <-> organizations/taiwan-formosa.md
+    "Taiwan Formosa" mentioned in both pages
 
   people/zhou-wei-lin.md <-> sources/2017-tahs-publication.md
     "2017 TAHS Publication" mentioned in both pages
@@ -143148,14 +143220,26 @@ Generated: 2026-08-05 09:02:57
   people/zou-jingwen.md <-> organizations/taiwanese-american-historical-society.md
     "Taiwanese American Historical Society (TAHS)" mentioned in both pages
 
+  people/zou-jingwen.md <-> sources/taiwanjustice-net.md
+    "taiwanjustice.net (台灣公義網)" mentioned in both pages
+
   sources/2017-tahs-publication.md <-> organizations/taiwanese-american-historical-society.md
     "Taiwanese American Historical Society (TAHS)" mentioned in both pages
 
   sources/2017-tahs-publication.md <-> people/alan-thian.md
     "Alan Thian (田詒鴻)" mentioned in both pages
 
+  sources/2017-tahs-publication.md <-> people/lisa-su.md
+    "Lisa T. Su (蘇姿丰)" mentioned in both pages
+
+  sources/2017-tahs-publication.md <-> people/sam-chang.md
+    "Sam Chang (張善良)" mentioned in both pages
+
   sources/2017-tahs-publication.md <-> people/yang-jia-you.md
     "Charles Yang (楊嘉猷)" mentioned in both pages
+
+  sources/2017-tahs-publication.md <-> people/yang-xin.md
+    "Yang Hsin (楊信)" mentioned in both pages
 
   sources/2017-tahs-publication.md <-> sources/2023-tahs-publication.md
     "2023 TAHS Publication" mentioned in both pages
@@ -143199,6 +143283,9 @@ Generated: 2026-08-05 09:02:57
   sources/taiwancenter-org.md <-> people/alan-thian.md
     "Alan Thian (田詒鴻)" mentioned in both pages
 
+  sources/taiwancenter-org.md <-> people/ken-wu.md
+    "Ken Wu (吳兆峯)" mentioned in both pages
+
   sources/taiwancenter-org.md <-> people/simon-lin.md
     "Simon Lin (林榮松)" mentioned in both pages
 
@@ -143208,11 +143295,17 @@ Generated: 2026-08-05 09:02:57
   sources/toward-a-community-of-hope.md <-> organizations/taiwan-formosa.md
     "Taiwan Formosa" mentioned in both pages
 
+  sources/toward-a-community-of-hope.md <-> people/albert-s-lai.md
+    "Dr. Albert S. Lai (賴信雄)" mentioned in both pages
+
   sources/toward-a-community-of-hope.md <-> people/san-francisco-theological-seminary.md
     "San Francisco Theological Seminary" mentioned in both pages
 
   sources/wikipedia-democratic-progressive-party.md <-> people/albert-s-lai.md
     "Dr. Albert S. Lai (賴信雄)" mentioned in both pages
+
+  sources/wikipedia-democratic-progressive-party.md <-> people/ken-wu.md
+    "Ken Wu (吳兆峯)" mentioned in both pages
 
 [SHARED_TAGS] 0 suggestions
 [ORPHAN_FOLDER] 2 suggestions

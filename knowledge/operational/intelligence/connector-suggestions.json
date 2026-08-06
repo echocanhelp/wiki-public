@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T09:02:57.600874",
+  "generated_at": "2026-08-06T09:03:43.995667",
   "pages_scanned": 313,
   "suggestions": {
     "co_citation": [
@@ -136,7 +136,7 @@
         "shared_target": "people/albert-s-lai",
         "page1_title": "Democratic Progressive Party (\u6c11\u4e3b\u9032\u6b65\u9ee8)",
         "page2_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "shared_targets_count": 59
+        "shared_targets_count": 64
       },
       {
         "type": "CO-CITATION",
@@ -145,7 +145,7 @@
         "shared_target": "people/albert-s-lai",
         "page1_title": "Democratic Progressive Party (\u6c11\u4e3b\u9032\u6b65\u9ee8)",
         "page2_title": "National Taiwanese Presbyterian Council (NTPC)",
-        "shared_targets_count": 59
+        "shared_targets_count": 64
       },
       {
         "type": "CO-CITATION",
@@ -154,7 +154,7 @@
         "shared_target": "people/albert-s-lai",
         "page1_title": "Democratic Progressive Party (\u6c11\u4e3b\u9032\u6b65\u9ee8)",
         "page2_title": "Albert ch.1 audiobook consent kit",
-        "shared_targets_count": 59
+        "shared_targets_count": 64
       },
       {
         "type": "CO-CITATION",
@@ -177,10 +177,10 @@
       {
         "type": "CO-CITATION",
         "page1": "organizations/democratic-progressive-party.md",
-        "page2": "people/albert-s-lai.md",
+        "page2": "people/c-c-chen.md",
         "shared_target": "organizations/formosan-presbyterian-church-in-los-angeles",
         "page1_title": "Democratic Progressive Party (\u6c11\u4e3b\u9032\u6b65\u9ee8)",
-        "page2_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
+        "page2_title": "Dr. C.C. Chen (\u9673\u662d\u4fca)",
         "shared_targets_count": 26
       },
       {
@@ -195,74 +195,20 @@
       {
         "type": "CO-CITATION",
         "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
-        "page2": "people/albert-s-lai.md",
+        "page2": "sources/toward-a-community-of-hope.md",
         "shared_target": "people/jonah-chang",
         "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "page2_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
+        "page2_title": "Toward A Community of Hope (Lai, 1971 / 2025)",
         "shared_targets_count": 9
       },
       {
         "type": "CO-CITATION",
         "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
-        "page2": "people/c-c-chen.md",
-        "shared_target": "people/jonah-chang",
-        "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "page2_title": "Dr. C.C. Chen (\u9673\u662d\u4fca)",
-        "shared_targets_count": 9
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
-        "page2": "people/chaolong-kao.md",
-        "shared_target": "people/jonah-chang",
-        "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "page2_title": "Dr. Charles C.L. Kao / Chaolong Kao (\u9ad8\u662d\u9f8d)",
-        "shared_targets_count": 9
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
-        "page2": "people/albert-s-lai.md",
+        "page2": "sources/toward-a-community-of-hope.md",
         "shared_target": "people/daniel-kao",
         "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "page2_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
+        "page2_title": "Toward A Community of Hope (Lai, 1971 / 2025)",
         "shared_targets_count": 10
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
-        "page2": "people/c-c-chen.md",
-        "shared_target": "people/daniel-kao",
-        "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "page2_title": "Dr. C.C. Chen (\u9673\u662d\u4fca)",
-        "shared_targets_count": 10
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
-        "page2": "people/chaolong-kao.md",
-        "shared_target": "people/daniel-kao",
-        "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "page2_title": "Dr. Charles C.L. Kao / Chaolong Kao (\u9ad8\u662d\u9f8d)",
-        "shared_targets_count": 10
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
-        "page2": "people/albert-s-lai.md",
-        "shared_target": "people/c-c-chen",
-        "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "page2_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
-        "shared_targets_count": 6
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
-        "page2": "people/daniel-kao.md",
-        "shared_target": "people/c-c-chen",
-        "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "page2_title": "Dr. Daniel Kao (\u9ad8\u5149\u6c11)",
-        "shared_targets_count": 6
       },
       {
         "type": "CO-CITATION",
@@ -276,28 +222,10 @@
       {
         "type": "CO-CITATION",
         "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
-        "page2": "people/albert-s-lai.md",
+        "page2": "sources/toward-a-community-of-hope.md",
         "shared_target": "people/chaolong-kao",
         "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "page2_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
-        "shared_targets_count": 9
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
-        "page2": "people/c-c-chen.md",
-        "shared_target": "people/chaolong-kao",
-        "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "page2_title": "Dr. C.C. Chen (\u9673\u662d\u4fca)",
-        "shared_targets_count": 9
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
-        "page2": "people/daniel-kao.md",
-        "shared_target": "people/chaolong-kao",
-        "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "page2_title": "Dr. Daniel Kao (\u9ad8\u5149\u6c11)",
+        "page2_title": "Toward A Community of Hope (Lai, 1971 / 2025)",
         "shared_targets_count": 9
       },
       {
@@ -330,47 +258,11 @@
       {
         "type": "CO-CITATION",
         "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
-        "page2": "people/albert-s-lai.md",
-        "shared_target": "people/pingtung-lai",
-        "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "page2_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
-        "shared_targets_count": 3
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
         "page2": "sources/toward-a-community-of-hope.md",
         "shared_target": "people/pingtung-lai",
         "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
         "page2_title": "Toward A Community of Hope (Lai, 1971 / 2025)",
         "shared_targets_count": 3
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "people/albert-s-lai.md",
-        "page2": "sources/toward-a-community-of-hope.md",
-        "shared_target": "people/pingtung-lai",
-        "page1_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
-        "page2_title": "Toward A Community of Hope (Lai, 1971 / 2025)",
-        "shared_targets_count": 3
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
-        "page2": "people/albert-s-lai.md",
-        "shared_target": "people/shoki-coe",
-        "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "page2_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
-        "shared_targets_count": 4
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
-        "page2": "people/chaolong-kao.md",
-        "shared_target": "people/shoki-coe",
-        "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "page2_title": "Dr. Charles C.L. Kao / Chaolong Kao (\u9ad8\u662d\u9f8d)",
-        "shared_targets_count": 4
       },
       {
         "type": "CO-CITATION",
@@ -383,21 +275,21 @@
       },
       {
         "type": "CO-CITATION",
-        "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
-        "page2": "people/albert-s-lai.md",
-        "shared_target": "organizations/national-taiwanese-presbyterian-council",
-        "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "page2_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
-        "shared_targets_count": 17
+        "page1": "people/albert-s-lai.md",
+        "page2": "sources/good-shepherd-taiwanese-presbyterian-church.md",
+        "shared_target": "people/shoki-coe",
+        "page1_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
+        "page2_title": "Good Shepherd Taiwanese Presbyterian Church (\u7267\u9748\u53f0\u50d1\u57fa\u7763\u9577\u8001\u6559\u6703)",
+        "shared_targets_count": 4
       },
       {
         "type": "CO-CITATION",
-        "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
-        "page2": "people/chaolong-kao.md",
-        "shared_target": "organizations/national-taiwanese-presbyterian-council",
-        "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "page2_title": "Dr. Charles C.L. Kao / Chaolong Kao (\u9ad8\u662d\u9f8d)",
-        "shared_targets_count": 17
+        "page1": "people/chaolong-kao.md",
+        "page2": "sources/good-shepherd-taiwanese-presbyterian-church.md",
+        "shared_target": "people/shoki-coe",
+        "page1_title": "Dr. Charles C.L. Kao / Chaolong Kao (\u9ad8\u662d\u9f8d)",
+        "page2_title": "Good Shepherd Taiwanese Presbyterian Church (\u7267\u9748\u53f0\u50d1\u57fa\u7763\u9577\u8001\u6559\u6703)",
+        "shared_targets_count": 4
       },
       {
         "type": "CO-CITATION",
@@ -406,6 +298,24 @@
         "shared_target": "organizations/national-taiwanese-presbyterian-council",
         "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
         "page2_title": "Rev. Ching Fang Chen (\u9673\u6e05\u82b3)",
+        "shared_targets_count": 17
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
+        "page2": "people/david-huang.md",
+        "shared_target": "organizations/national-taiwanese-presbyterian-council",
+        "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
+        "page2_title": "Rev. David Huang (\u9ec3\u5fb7\u5229)",
+        "shared_targets_count": 17
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
+        "page2": "people/en-sheng-pan.md",
+        "shared_target": "organizations/national-taiwanese-presbyterian-council",
+        "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
+        "page2_title": "Rev. En Sheng Pan (\u6f58\u6069\u76db)",
         "shared_targets_count": 17
       },
       {
@@ -456,10 +366,10 @@
       {
         "type": "CO-CITATION",
         "page1": "organizations/good-shepherd-taiwanese-presbyterian-church.md",
-        "page2": "people/alexander-macdonald.md",
+        "page2": "people/ashton-hsu.md",
         "shared_target": "people/mingyuan-hsu",
         "page1_title": "Good Shepherd Taiwanese Presbyterian Church",
-        "page2_title": "\u99ac\u5055\u535a\u58eb (George Leslie Macdonald)",
+        "page2_title": "Ashton Hsu (\u8a31\u601d\u6566)",
         "shared_targets_count": 19
       },
       {
@@ -555,15 +465,6 @@
       {
         "type": "CO-CITATION",
         "page1": "organizations/irvine-taiwanese-presbyterian-church.md",
-        "page2": "people/chen-meihui.md",
-        "shared_target": "people/zhang-xuanxin",
-        "page1_title": "Irvine Taiwanese Presbyterian Church (\u723e\u7063\u53f0\u7063\u57fa\u7763\u9577\u8001\u6559\u6703 (ITPC))",
-        "page2_title": "Chen Meihui (\u9673\u7f8e\u8559)",
-        "shared_targets_count": 6
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/irvine-taiwanese-presbyterian-church.md",
         "page2": "people/li-furen.md",
         "shared_target": "people/zhang-xuanxin",
         "page1_title": "Irvine Taiwanese Presbyterian Church (\u723e\u7063\u53f0\u7063\u57fa\u7763\u9577\u8001\u6559\u6703 (ITPC))",
@@ -581,21 +482,12 @@
       },
       {
         "type": "CO-CITATION",
-        "page1": "organizations/national-taiwanese-presbyterian-council.md",
-        "page2": "people/albert-s-lai.md",
-        "shared_target": "people/ching-fang-chen",
-        "page1_title": "National Taiwanese Presbyterian Council (NTPC)",
-        "page2_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
-        "shared_targets_count": 10
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/national-taiwanese-presbyterian-council.md",
-        "page2": "people/en-sheng-pan.md",
-        "shared_target": "people/ching-fang-chen",
-        "page1_title": "National Taiwanese Presbyterian Council (NTPC)",
-        "page2_title": "Rev. En Sheng Pan (\u6f58\u6069\u76db)",
-        "shared_targets_count": 10
+        "page1": "people/li-furen.md",
+        "page2": "sources/irvine-taiwanese-presbyterian-church.md",
+        "shared_target": "people/zhang-xuanxin",
+        "page1_title": "Li Fu-Jen (\u674e\u8f14\u4ec1)",
+        "page2_title": "Irvine Taiwanese Presbyterian Church (\u723e\u7063\u53f0\u50d1\u57fa\u7763\u9577\u8001\u6559\u6703)",
+        "shared_targets_count": 6
       },
       {
         "type": "CO-CITATION",
@@ -609,82 +501,82 @@
       {
         "type": "CO-CITATION",
         "page1": "organizations/national-taiwanese-presbyterian-council.md",
-        "page2": "people/albert-s-lai.md",
+        "page2": "sources/toward-a-community-of-hope.md",
+        "shared_target": "people/ching-fang-chen",
+        "page1_title": "National Taiwanese Presbyterian Council (NTPC)",
+        "page2_title": "Toward A Community of Hope (Lai, 1971 / 2025)",
+        "shared_targets_count": 10
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/en-sheng-pan.md",
+        "page2": "people/ntpc.md",
+        "shared_target": "people/ching-fang-chen",
+        "page1_title": "Rev. En Sheng Pan (\u6f58\u6069\u76db)",
+        "page2_title": "NTPC (see organization page)",
+        "shared_targets_count": 10
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/national-taiwanese-presbyterian-council.md",
+        "page2": "people/ntpc.md",
         "shared_target": "people/yunching-yeh-davis",
         "page1_title": "National Taiwanese Presbyterian Council (NTPC)",
-        "page2_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
+        "page2_title": "NTPC (see organization page)",
         "shared_targets_count": 9
       },
       {
         "type": "CO-CITATION",
         "page1": "organizations/national-taiwanese-presbyterian-council.md",
-        "page2": "people/ching-fang-chen.md",
+        "page2": "sources/toward-a-community-of-hope.md",
         "shared_target": "people/yunching-yeh-davis",
         "page1_title": "National Taiwanese Presbyterian Council (NTPC)",
-        "page2_title": "Rev. Ching Fang Chen (\u9673\u6e05\u82b3)",
+        "page2_title": "Toward A Community of Hope (Lai, 1971 / 2025)",
+        "shared_targets_count": 9
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/en-sheng-pan.md",
+        "page2": "people/ntpc.md",
+        "shared_target": "people/yunching-yeh-davis",
+        "page1_title": "Rev. En Sheng Pan (\u6f58\u6069\u76db)",
+        "page2_title": "NTPC (see organization page)",
         "shared_targets_count": 9
       },
       {
         "type": "CO-CITATION",
         "page1": "organizations/national-taiwanese-presbyterian-council.md",
-        "page2": "people/en-sheng-pan.md",
-        "shared_target": "people/yunching-yeh-davis",
-        "page1_title": "National Taiwanese Presbyterian Council (NTPC)",
-        "page2_title": "Rev. En Sheng Pan (\u6f58\u6069\u76db)",
-        "shared_targets_count": 9
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/national-taiwanese-presbyterian-council.md",
-        "page2": "people/albert-s-lai.md",
+        "page2": "sources/toward-a-community-of-hope.md",
         "shared_target": "people/en-sheng-pan",
         "page1_title": "National Taiwanese Presbyterian Council (NTPC)",
-        "page2_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
+        "page2_title": "Toward A Community of Hope (Lai, 1971 / 2025)",
         "shared_targets_count": 7
       },
       {
         "type": "CO-CITATION",
         "page1": "organizations/national-taiwanese-presbyterian-council.md",
-        "page2": "people/pinghsi-liu.md",
-        "shared_target": "people/en-sheng-pan",
-        "page1_title": "National Taiwanese Presbyterian Council (NTPC)",
-        "page2_title": "Rev. Pinghsi Liu (\u5289\u70b3\u71b9)",
-        "shared_targets_count": 7
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/national-taiwanese-presbyterian-council.md",
-        "page2": "people/yunching-yeh-davis.md",
-        "shared_target": "people/en-sheng-pan",
-        "page1_title": "National Taiwanese Presbyterian Council (NTPC)",
-        "page2_title": "Dr. Yunching Yeh Davis (\u8449\u82b8\u9752)",
-        "shared_targets_count": 7
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/national-taiwanese-presbyterian-council.md",
-        "page2": "people/albert-s-lai.md",
+        "page2": "people/ntpc.md",
         "shared_target": "people/pinghsi-liu",
         "page1_title": "National Taiwanese Presbyterian Council (NTPC)",
-        "page2_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
+        "page2_title": "NTPC (see organization page)",
         "shared_targets_count": 9
       },
       {
         "type": "CO-CITATION",
         "page1": "organizations/national-taiwanese-presbyterian-council.md",
-        "page2": "people/ching-fang-chen.md",
+        "page2": "people/pingtung-lai.md",
         "shared_target": "people/pinghsi-liu",
         "page1_title": "National Taiwanese Presbyterian Council (NTPC)",
-        "page2_title": "Rev. Ching Fang Chen (\u9673\u6e05\u82b3)",
+        "page2_title": "Pastor Pingtung Lai (\u8cf4\u70b3\u70d4)",
         "shared_targets_count": 9
       },
       {
         "type": "CO-CITATION",
         "page1": "organizations/national-taiwanese-presbyterian-council.md",
-        "page2": "people/en-sheng-pan.md",
+        "page2": "sources/toward-a-community-of-hope.md",
         "shared_target": "people/pinghsi-liu",
         "page1_title": "National Taiwanese Presbyterian Council (NTPC)",
-        "page2_title": "Rev. En Sheng Pan (\u6f58\u6069\u76db)",
+        "page2_title": "Toward A Community of Hope (Lai, 1971 / 2025)",
         "shared_targets_count": 9
       },
       {
@@ -735,10 +627,10 @@
       {
         "type": "CO-CITATION",
         "page1": "organizations/overseas-community-affairs-council.md",
-        "page2": "people/zhou-wei-lin.md",
+        "page2": "sources/2017-tahs-publication.md",
         "shared_target": "people/hsu-hsin-hung",
         "page1_title": "Overseas Community Affairs Council (\u50d1\u52d9\u59d4\u54e1\u6703)",
-        "page2_title": "Zhou Weilin (\u5468\u5a01\u9716)",
+        "page2_title": "2017 TAHS Publication",
         "shared_targets_count": 8
       },
       {
@@ -753,18 +645,18 @@
       {
         "type": "CO-CITATION",
         "page1": "organizations/overseas-community-affairs-council.md",
-        "page2": "people/ken-wu.md",
+        "page2": "sources/taiwancenter-org.md",
         "shared_target": "organizations/fapa-los-angeles",
         "page1_title": "Overseas Community Affairs Council (\u50d1\u52d9\u59d4\u54e1\u6703)",
-        "page2_title": "Ken Wu (\u5433\u5146\u5cef)",
+        "page2_title": "taiwancenter.org (Taiwan Center website)",
         "shared_targets_count": 5
       },
       {
         "type": "CO-CITATION",
-        "page1": "organizations/overseas-community-affairs-council.md",
+        "page1": "organizations/taiwan-center.md",
         "page2": "sources/taiwancenter-org.md",
         "shared_target": "organizations/fapa-los-angeles",
-        "page1_title": "Overseas Community Affairs Council (\u50d1\u52d9\u59d4\u54e1\u6703)",
+        "page1_title": "Taiwan Center Foundation of the Greater Los Angeles (\u5927\u6d1b\u6749\u78ef\u53f0\u7063\u6703\u9928)",
         "page2_title": "taiwancenter.org (Taiwan Center website)",
         "shared_targets_count": 5
       },
@@ -870,20 +762,11 @@
       {
         "type": "CO-CITATION",
         "page1": "organizations/taiwan-center.md",
-        "page2": "people/ken-wu.md",
+        "page2": "people/linda-liu.md",
         "shared_target": "people/alan-thian",
         "page1_title": "Taiwan Center Foundation of the Greater Los Angeles (\u5927\u6d1b\u6749\u78ef\u53f0\u7063\u6703\u9928)",
-        "page2_title": "Ken Wu (\u5433\u5146\u5cef)",
+        "page2_title": "Linda Liu (\u5289\u73b2\u83ef)",
         "shared_targets_count": 7
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/taiwan-center.md",
-        "page2": "people/ken-wu.md",
-        "shared_target": "people/simon-lin",
-        "page1_title": "Taiwan Center Foundation of the Greater Los Angeles (\u5927\u6d1b\u6749\u78ef\u53f0\u7063\u6703\u9928)",
-        "page2_title": "Ken Wu (\u5433\u5146\u5cef)",
-        "shared_targets_count": 4
       },
       {
         "type": "CO-CITATION",
@@ -900,6 +783,15 @@
         "page2": "sources/taiwancenter-org.md",
         "shared_target": "people/simon-lin",
         "page1_title": "Taiwan Center Foundation of the Greater Los Angeles (\u5927\u6d1b\u6749\u78ef\u53f0\u7063\u6703\u9928)",
+        "page2_title": "taiwancenter.org (Taiwan Center website)",
+        "shared_targets_count": 4
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/linda-liu.md",
+        "page2": "sources/taiwancenter-org.md",
+        "shared_target": "people/simon-lin",
+        "page1_title": "Linda Liu (\u5289\u73b2\u83ef)",
         "page2_title": "taiwancenter.org (Taiwan Center website)",
         "shared_targets_count": 4
       },
@@ -1063,7 +955,7 @@
         "shared_target": "people/freeman-huang",
         "page1_title": "Taiwanese American Historical Society (TAHS)",
         "page2_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
-        "shared_targets_count": 45
+        "shared_targets_count": 47
       },
       {
         "type": "CO-CITATION",
@@ -1072,7 +964,7 @@
         "shared_target": "people/freeman-huang",
         "page1_title": "Taiwanese American Historical Society (TAHS)",
         "page2_title": "Alan Thian (\u7530\u8a52\u9d3b)",
-        "shared_targets_count": 45
+        "shared_targets_count": 47
       },
       {
         "type": "CO-CITATION",
@@ -1081,7 +973,7 @@
         "shared_target": "people/freeman-huang",
         "page1_title": "Taiwanese American Historical Society (TAHS)",
         "page2_title": "Wei Wei Bai (\u767d\u5049\u744b)",
-        "shared_targets_count": 45
+        "shared_targets_count": 47
       },
       {
         "type": "CO-CITATION",
@@ -1131,11 +1023,47 @@
       {
         "type": "CO-CITATION",
         "page1": "organizations/taiwanjustice-net.md",
+        "page2": "people/chen-po-kong.md",
+        "shared_target": "people/chen-po-kong",
+        "page1_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
+        "page2_title": "Chen Po-kong (\u9673\u7834\u7a7a)",
+        "shared_targets_count": 4
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/taiwanjustice-net.md",
         "page2": "sources/taiwanjustice-net.md",
         "shared_target": "people/chen-po-kong",
         "page1_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
         "page2_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
-        "shared_targets_count": 3
+        "shared_targets_count": 4
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/chen-po-kong.md",
+        "page2": "sources/taiwanjustice-net.md",
+        "shared_target": "people/chen-po-kong",
+        "page1_title": "Chen Po-kong (\u9673\u7834\u7a7a)",
+        "page2_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
+        "shared_targets_count": 4
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/taiwanjustice-net.md",
+        "page2": "people/chen-maoxiong.md",
+        "shared_target": "people/chen-maoxiong",
+        "page1_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
+        "page2_title": "Chen Mao-xiong (\u9673\u8302\u96c4)",
+        "shared_targets_count": 5
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/taiwanjustice-net.md",
+        "page2": "people/chen-po-kong.md",
+        "shared_target": "people/chen-maoxiong",
+        "page1_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
+        "page2_title": "Chen Po-kong (\u9673\u7834\u7a7a)",
+        "shared_targets_count": 5
       },
       {
         "type": "CO-CITATION",
@@ -1144,7 +1072,25 @@
         "shared_target": "people/chen-maoxiong",
         "page1_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
         "page2_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
-        "shared_targets_count": 3
+        "shared_targets_count": 5
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/taiwanjustice-net.md",
+        "page2": "people/chen-maoxiong.md",
+        "shared_target": "people/chen-zhaonan",
+        "page1_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
+        "page2_title": "Chen Mao-xiong (\u9673\u8302\u96c4)",
+        "shared_targets_count": 5
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/taiwanjustice-net.md",
+        "page2": "people/chen-zhaonan.md",
+        "shared_target": "people/chen-zhaonan",
+        "page1_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
+        "page2_title": "Chen Chao-nan (\u9673\u662d\u5357)",
+        "shared_targets_count": 5
       },
       {
         "type": "CO-CITATION",
@@ -1153,7 +1099,25 @@
         "shared_target": "people/chen-zhaonan",
         "page1_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
         "page2_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
-        "shared_targets_count": 3
+        "shared_targets_count": 5
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/taiwanjustice-net.md",
+        "page2": "people/chen-zhaonan.md",
+        "shared_target": "people/lin-baohua",
+        "page1_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
+        "page2_title": "Chen Chao-nan (\u9673\u662d\u5357)",
+        "shared_targets_count": 5
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/taiwanjustice-net.md",
+        "page2": "people/lin-baohua.md",
+        "shared_target": "people/lin-baohua",
+        "page1_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
+        "page2_title": "Lin Bao-hua (\u6797\u4fdd\u83ef)",
+        "shared_targets_count": 5
       },
       {
         "type": "CO-CITATION",
@@ -1162,7 +1126,25 @@
         "shared_target": "people/lin-baohua",
         "page1_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
         "page2_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
-        "shared_targets_count": 3
+        "shared_targets_count": 5
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/taiwanjustice-net.md",
+        "page2": "people/lin-baohua.md",
+        "shared_target": "people/yu-jie",
+        "page1_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
+        "page2_title": "Lin Bao-hua (\u6797\u4fdd\u83ef)",
+        "shared_targets_count": 5
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/taiwanjustice-net.md",
+        "page2": "people/yu-jie.md",
+        "shared_target": "people/yu-jie",
+        "page1_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
+        "page2_title": "Yu Chieh (\u4f59\u6770)",
+        "shared_targets_count": 5
       },
       {
         "type": "CO-CITATION",
@@ -1171,7 +1153,25 @@
         "shared_target": "people/yu-jie",
         "page1_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
         "page2_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
-        "shared_targets_count": 3
+        "shared_targets_count": 5
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/taiwanjustice-net.md",
+        "page2": "people/fan-jiang-ti-ang.md",
+        "shared_target": "people/fan-jiang-ti-ang",
+        "page1_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
+        "page2_title": "Fan Chiang Tsiang (\u8303\u59dc\u63d0\u6602)",
+        "shared_targets_count": 5
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/taiwanjustice-net.md",
+        "page2": "people/yu-jie.md",
+        "shared_target": "people/fan-jiang-ti-ang",
+        "page1_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
+        "page2_title": "Yu Chieh (\u4f59\u6770)",
+        "shared_targets_count": 5
       },
       {
         "type": "CO-CITATION",
@@ -1180,7 +1180,25 @@
         "shared_target": "people/fan-jiang-ti-ang",
         "page1_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
         "page2_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
-        "shared_targets_count": 3
+        "shared_targets_count": 5
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/taiwanjustice-net.md",
+        "page2": "people/fan-jiang-ti-ang.md",
+        "shared_target": "people/yang-ziqing",
+        "page1_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
+        "page2_title": "Fan Chiang Tsiang (\u8303\u59dc\u63d0\u6602)",
+        "shared_targets_count": 5
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/taiwanjustice-net.md",
+        "page2": "people/yang-ziqing.md",
+        "shared_target": "people/yang-ziqing",
+        "page1_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
+        "page2_title": "Yang Zi-qing (\u694a\u5b50\u6e05)",
+        "shared_targets_count": 5
       },
       {
         "type": "CO-CITATION",
@@ -1189,7 +1207,25 @@
         "shared_target": "people/yang-ziqing",
         "page1_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
         "page2_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
-        "shared_targets_count": 3
+        "shared_targets_count": 5
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/taiwanjustice-net.md",
+        "page2": "people/huang-diyin.md",
+        "shared_target": "people/huang-diyin",
+        "page1_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
+        "page2_title": "Huang Di-ying (\u9ec3\u5e1d\u7a4e)",
+        "shared_targets_count": 5
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/taiwanjustice-net.md",
+        "page2": "people/yang-ziqing.md",
+        "shared_target": "people/huang-diyin",
+        "page1_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
+        "page2_title": "Yang Zi-qing (\u694a\u5b50\u6e05)",
+        "shared_targets_count": 5
       },
       {
         "type": "CO-CITATION",
@@ -1198,7 +1234,25 @@
         "shared_target": "people/huang-diyin",
         "page1_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
         "page2_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
-        "shared_targets_count": 3
+        "shared_targets_count": 5
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/taiwanjustice-net.md",
+        "page2": "people/he-qingxuan.md",
+        "shared_target": "people/he-qingxuan",
+        "page1_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
+        "page2_title": "He Qinglian (\u4f55\u6e05\u6f23)",
+        "shared_targets_count": 5
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/taiwanjustice-net.md",
+        "page2": "people/huang-diyin.md",
+        "shared_target": "people/he-qingxuan",
+        "page1_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
+        "page2_title": "Huang Di-ying (\u9ec3\u5e1d\u7a4e)",
+        "shared_targets_count": 5
       },
       {
         "type": "CO-CITATION",
@@ -1207,7 +1261,25 @@
         "shared_target": "people/he-qingxuan",
         "page1_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
         "page2_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
-        "shared_targets_count": 3
+        "shared_targets_count": 5
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/taiwanjustice-net.md",
+        "page2": "people/he-qingxuan.md",
+        "shared_target": "people/liao-qingshan",
+        "page1_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
+        "page2_title": "He Qinglian (\u4f55\u6e05\u6f23)",
+        "shared_targets_count": 5
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/taiwanjustice-net.md",
+        "page2": "people/liao-qingshan.md",
+        "shared_target": "people/liao-qingshan",
+        "page1_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
+        "page2_title": "Liao Qing-shan (\u5ed6\u6e05\u5c71)",
+        "shared_targets_count": 5
       },
       {
         "type": "CO-CITATION",
@@ -1216,7 +1288,7 @@
         "shared_target": "people/liao-qingshan",
         "page1_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
         "page2_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
-        "shared_targets_count": 3
+        "shared_targets_count": 5
       },
       {
         "type": "CO-CITATION",
@@ -1454,20 +1526,74 @@
       },
       {
         "type": "CO-CITATION",
+        "page1": "people/alan-thian.md",
+        "page2": "people/yang-xin.md",
+        "shared_target": "people/john-chiang.md",
+        "page1_title": "Alan Thian (\u7530\u8a52\u9d3b)",
+        "page2_title": "Yang Hsin (\u694a\u4fe1)",
+        "shared_targets_count": 5
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/alan-thian.md",
+        "page2": "people/david-lee.md",
+        "shared_target": "people/ken-wu.md",
+        "page1_title": "Alan Thian (\u7530\u8a52\u9d3b)",
+        "page2_title": "David Lee (\u674e\u6771\u749e)",
+        "shared_targets_count": 36
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/alan-thian.md",
+        "page2": "people/leonard-hsu-jr.md",
+        "shared_target": "people/ken-wu.md",
+        "page1_title": "Alan Thian (\u7530\u8a52\u9d3b)",
+        "page2_title": "Leonard Hsu Jr. (\u8a31\u666f\u9d3b)",
+        "shared_targets_count": 36
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/alan-thian.md",
+        "page2": "people/rex-chen.md",
+        "shared_target": "people/ken-wu.md",
+        "page1_title": "Alan Thian (\u7530\u8a52\u9d3b)",
+        "page2_title": "Rex Chen (\u9673\u4e43\u5149)",
+        "shared_targets_count": 36
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/alan-thian.md",
+        "page2": "people/hsu-hsin-hung.md",
+        "shared_target": "sources/2017-tahs-publication.md",
+        "page1_title": "Alan Thian (\u7530\u8a52\u9d3b)",
+        "page2_title": "Hsu Hsin-hung (\u5f90\u65b0\u5b8f)",
+        "shared_targets_count": 15
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/alan-thian.md",
+        "page2": "people/liao-shu-zong.md",
+        "shared_target": "sources/2017-tahs-publication.md",
+        "page1_title": "Alan Thian (\u7530\u8a52\u9d3b)",
+        "page2_title": "Liao Shu-zong (\u5ed6\u8ff0\u5b97)",
+        "shared_targets_count": 15
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/alan-thian.md",
+        "page2": "people/lin-yuan-ching.md",
+        "shared_target": "sources/2017-tahs-publication.md",
+        "page1_title": "Alan Thian (\u7530\u8a52\u9d3b)",
+        "page2_title": "Lin Yuan-qing (\u6797\u5143\u6e05)",
+        "shared_targets_count": 15
+      },
+      {
+        "type": "CO-CITATION",
         "page1": "people/albert-chapter1-audiobook-consent-and-recording-kit.md",
         "page2": "people/albert-en-sku-a-scratch-review.md",
         "shared_target": "people/albert-chapter1-audiobook-taiwanese-female",
         "page1_title": "Albert ch.1 audiobook consent kit",
         "page2_title": "Albert EN SKU A audiobook scratch \u2014 full book review",
-        "shared_targets_count": 4
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "people/albert-chapter1-audiobook-consent-and-recording-kit.md",
-        "page2": "people/albert-s-lai.md",
-        "shared_target": "people/albert-chapter1-audiobook-taiwanese-female",
-        "page1_title": "Albert ch.1 audiobook consent kit",
-        "page2_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
         "shared_targets_count": 4
       },
       {
@@ -1478,6 +1604,60 @@
         "page1_title": "Albert EN SKU A audiobook scratch \u2014 full book review",
         "page2_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
         "shared_targets_count": 4
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/albert-chapter1-audiobook-taiwanese-female.md",
+        "page2": "people/albert-chapter1-en-review.md",
+        "shared_target": "people/albert-s-lai.md",
+        "page1_title": "Albert ch.1 audiobook (Taiwanese female)",
+        "page2_title": "Albert Ch.1 EN audiobook review (Christopher scratch)",
+        "shared_targets_count": 25
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/albert-chapter1-audiobook-taiwanese-female.md",
+        "page2": "people/c-c-chen.md",
+        "shared_target": "people/albert-s-lai.md",
+        "page1_title": "Albert ch.1 audiobook (Taiwanese female)",
+        "page2_title": "Dr. C.C. Chen (\u9673\u662d\u4fca)",
+        "shared_targets_count": 25
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/albert-chapter1-audiobook-taiwanese-female.md",
+        "page2": "people/chaolong-kao.md",
+        "shared_target": "people/albert-s-lai.md",
+        "page1_title": "Albert ch.1 audiobook (Taiwanese female)",
+        "page2_title": "Dr. Charles C.L. Kao / Chaolong Kao (\u9ad8\u662d\u9f8d)",
+        "shared_targets_count": 25
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/albert-chapter1-audiobook-taiwanese-female.md",
+        "page2": "people/albert-chapter1-en-review.md",
+        "shared_target": "people/index.md",
+        "page1_title": "Albert ch.1 audiobook (Taiwanese female)",
+        "page2_title": "Albert Ch.1 EN audiobook review (Christopher scratch)",
+        "shared_targets_count": 25
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/albert-chapter1-audiobook-taiwanese-female.md",
+        "page2": "people/cai-weiren.md",
+        "shared_target": "people/index.md",
+        "page1_title": "Albert ch.1 audiobook (Taiwanese female)",
+        "page2_title": "Rev. Cai Weiren (\u8521\u7dad\u4ec1\u7267\u5e2b)",
+        "shared_targets_count": 25
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/albert-chapter1-audiobook-taiwanese-female.md",
+        "page2": "people/chen-bozhi.md",
+        "shared_target": "people/index.md",
+        "page1_title": "Albert ch.1 audiobook (Taiwanese female)",
+        "page2_title": "Rev. Chen Bozhi (\u9673\u67cf\u5fd7\u7267\u5e2b)",
+        "shared_targets_count": 25
       },
       {
         "type": "CO-CITATION",
@@ -1553,6 +1733,231 @@
       },
       {
         "type": "CO-CITATION",
+        "page1": "people/daniel-kao.md",
+        "page2": "people/shoki-coe.md",
+        "shared_target": "people/chaolong-kao.md",
+        "page1_title": "Dr. Daniel Kao (\u9ad8\u5149\u6c11)",
+        "page2_title": "Dr. Shoki Coe (\u9ec3\u5f70\u8f1d)",
+        "shared_targets_count": 8
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/jonah-chang.md",
+        "page2": "people/shoki-coe.md",
+        "shared_target": "people/chaolong-kao.md",
+        "page1_title": "Rev. Jonah Chang (\u5f35\u745e\u96c4)",
+        "page2_title": "Dr. Shoki Coe (\u9ec3\u5f70\u8f1d)",
+        "shared_targets_count": 8
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/shoki-coe.md",
+        "page2": "people/zhou-wei-lin.md",
+        "shared_target": "people/chaolong-kao.md",
+        "page1_title": "Dr. Shoki Coe (\u9ec3\u5f70\u8f1d)",
+        "page2_title": "Zhou Weilin (\u5468\u5a01\u9716)",
+        "shared_targets_count": 8
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/albert-s-lai.md",
+        "page2": "people/david-huang.md",
+        "shared_target": "people/ching-fang-chen.md",
+        "page1_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
+        "page2_title": "Rev. David Huang (\u9ec3\u5fb7\u5229)",
+        "shared_targets_count": 10
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/david-huang.md",
+        "page2": "people/mingyuan-hsu.md",
+        "shared_target": "people/ching-fang-chen.md",
+        "page1_title": "Rev. David Huang (\u9ec3\u5fb7\u5229)",
+        "page2_title": "Rev. Mingyuan Hsu (\u8a31\u660e\u9060)",
+        "shared_targets_count": 10
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/david-huang.md",
+        "page2": "people/pinghsi-liu.md",
+        "shared_target": "people/ching-fang-chen.md",
+        "page1_title": "Rev. David Huang (\u9ec3\u5fb7\u5229)",
+        "page2_title": "Rev. Pinghsi Liu (\u5289\u70b3\u71b9)",
+        "shared_targets_count": 10
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/ntpc.md",
+        "page2": "people/zhou-wei-lin.md",
+        "shared_target": "people/mingyuan-hsu.md",
+        "page1_title": "NTPC (see organization page)",
+        "page2_title": "Zhou Weilin (\u5468\u5a01\u9716)",
+        "shared_targets_count": 4
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/albert-s-lai.md",
+        "page2": "people/sam-chang.md",
+        "shared_target": "people/zhou-wei-liang.md",
+        "page1_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
+        "page2_title": "Sam Chang (\u5f35\u5584\u826f)",
+        "shared_targets_count": 3
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/albert-s-lai.md",
+        "page2": "people/hsu-hsin-hung.md",
+        "shared_target": "people/zhou-wei-lin.md",
+        "page1_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
+        "page2_title": "Hsu Hsin-hung (\u5f90\u65b0\u5b8f)",
+        "shared_targets_count": 11
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/albert-s-lai.md",
+        "page2": "people/wang-gui-rong.md",
+        "shared_target": "people/zhou-wei-lin.md",
+        "page1_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
+        "page2_title": "Wang Gui-rong (\u738b\u6842\u69ae)",
+        "shared_targets_count": 11
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/albert-s-lai.md",
+        "page2": "people/wang-neng-xiang.md",
+        "shared_target": "people/zhou-wei-lin.md",
+        "page1_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
+        "page2_title": "Wang Neng-xiang (\u738b\u80fd\u7965)",
+        "shared_targets_count": 11
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/albert-s-lai.md",
+        "page2": "people/ken-wu.md",
+        "shared_target": "organizations/democratic-progressive-party.md",
+        "page1_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
+        "page2_title": "Ken Wu (\u5433\u5146\u5cef)",
+        "shared_targets_count": 10
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/c-c-chen.md",
+        "page2": "people/pingtung-lai.md",
+        "shared_target": "organizations/formosan-presbyterian-church-in-los-angeles.md",
+        "page1_title": "Dr. C.C. Chen (\u9673\u662d\u4fca)",
+        "page2_title": "Pastor Pingtung Lai (\u8cf4\u70b3\u70d4)",
+        "shared_targets_count": 16
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/c-c-chen.md",
+        "page2": "people/shoki-coe.md",
+        "shared_target": "organizations/formosan-presbyterian-church-in-los-angeles.md",
+        "page1_title": "Dr. C.C. Chen (\u9673\u662d\u4fca)",
+        "page2_title": "Dr. Shoki Coe (\u9ec3\u5f70\u8f1d)",
+        "shared_targets_count": 16
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/chaolong-kao.md",
+        "page2": "people/pingtung-lai.md",
+        "shared_target": "organizations/formosan-presbyterian-church-in-los-angeles.md",
+        "page1_title": "Dr. Charles C.L. Kao / Chaolong Kao (\u9ad8\u662d\u9f8d)",
+        "page2_title": "Pastor Pingtung Lai (\u8cf4\u70b3\u70d4)",
+        "shared_targets_count": 16
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/albert-s-lai.md",
+        "page2": "people/cai-weiren.md",
+        "shared_target": "organizations/index.md",
+        "page1_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
+        "page2_title": "Rev. Cai Weiren (\u8521\u7dad\u4ec1\u7267\u5e2b)",
+        "shared_targets_count": 6
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/albert-s-lai.md",
+        "page2": "people/chen-bozhi.md",
+        "shared_target": "organizations/index.md",
+        "page1_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
+        "page2_title": "Rev. Chen Bozhi (\u9673\u67cf\u5fd7\u7267\u5e2b)",
+        "shared_targets_count": 6
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/albert-s-lai.md",
+        "page2": "people/choan-seng-song.md",
+        "shared_target": "organizations/index.md",
+        "page1_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
+        "page2_title": "Dr. Choan-Seng Song (\u5b8b\u6cc9\u76db)",
+        "shared_targets_count": 6
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/c-c-chen.md",
+        "page2": "people/ching-fang-chen.md",
+        "shared_target": "sources/toward-a-community-of-hope.md",
+        "page1_title": "Dr. C.C. Chen (\u9673\u662d\u4fca)",
+        "page2_title": "Rev. Ching Fang Chen (\u9673\u6e05\u82b3)",
+        "shared_targets_count": 13
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/c-c-chen.md",
+        "page2": "people/en-sheng-pan.md",
+        "shared_target": "sources/toward-a-community-of-hope.md",
+        "page1_title": "Dr. C.C. Chen (\u9673\u662d\u4fca)",
+        "page2_title": "Rev. En Sheng Pan (\u6f58\u6069\u76db)",
+        "shared_targets_count": 13
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/c-c-chen.md",
+        "page2": "people/mingyuan-hsu.md",
+        "shared_target": "sources/toward-a-community-of-hope.md",
+        "page1_title": "Dr. C.C. Chen (\u9673\u662d\u4fca)",
+        "page2_title": "Rev. Mingyuan Hsu (\u8a31\u660e\u9060)",
+        "shared_targets_count": 13
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/albert-s-lai.md",
+        "page2": "people/ken-wu.md",
+        "shared_target": "sources/wikipedia-democratic-progressive-party.md",
+        "page1_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
+        "page2_title": "Ken Wu (\u5433\u5146\u5cef)",
+        "shared_targets_count": 6
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/alexander-macdonald.md",
+        "page2": "people/cai-weiren.md",
+        "shared_target": "organizations/good-shepherd-taiwanese-presbyterian-church.md",
+        "page1_title": "\u99ac\u5055\u535a\u58eb (George Leslie Macdonald)",
+        "page2_title": "Rev. Cai Weiren (\u8521\u7dad\u4ec1\u7267\u5e2b)",
+        "shared_targets_count": 11
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/alexander-macdonald.md",
+        "page2": "people/chen-bozhi.md",
+        "shared_target": "organizations/good-shepherd-taiwanese-presbyterian-church.md",
+        "page1_title": "\u99ac\u5055\u535a\u58eb (George Leslie Macdonald)",
+        "page2_title": "Rev. Chen Bozhi (\u9673\u67cf\u5fd7\u7267\u5e2b)",
+        "shared_targets_count": 11
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/alexander-macdonald.md",
+        "page2": "people/chen-meihui.md",
+        "shared_target": "organizations/good-shepherd-taiwanese-presbyterian-church.md",
+        "page1_title": "\u99ac\u5055\u535a\u58eb (George Leslie Macdonald)",
+        "page2_title": "Chen Meihui (\u9673\u7f8e\u8559)",
+        "shared_targets_count": 11
+      },
+      {
+        "type": "CO-CITATION",
         "page1": "people/anne-shih.md",
         "page2": "people/bob-j-wu.md",
         "shared_target": "people/franklin-ping-cheng",
@@ -1581,29 +1986,29 @@
       {
         "type": "CO-CITATION",
         "page1": "people/april-lin.md",
+        "page2": "people/franklin-ping-cheng.md",
+        "shared_target": "people/alan-thian.md",
+        "page1_title": "April Lin (\u6797\u6dd1\u537f)",
+        "page2_title": "Franklin Ping Cheng (\u7a0b\u70b3\u6210)",
+        "shared_targets_count": 35
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/april-lin.md",
         "page2": "people/yang-jia-you.md",
         "shared_target": "people/alan-thian.md",
         "page1_title": "April Lin (\u6797\u6dd1\u537f)",
         "page2_title": "Charles Yang (\u694a\u5609\u7337)",
-        "shared_targets_count": 30
+        "shared_targets_count": 35
       },
       {
         "type": "CO-CITATION",
         "page1": "people/danny-chen.md",
-        "page2": "people/yang-jia-you.md",
+        "page2": "people/franklin-ping-cheng.md",
         "shared_target": "people/alan-thian.md",
         "page1_title": "Danny Chen (\u9673\u555f\u8015)",
-        "page2_title": "Charles Yang (\u694a\u5609\u7337)",
-        "shared_targets_count": 30
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "people/he-sumei.md",
-        "page2": "people/yang-jia-you.md",
-        "shared_target": "people/alan-thian.md",
-        "page1_title": "He Sumei (\u4f55\u7d20\u7f8e)",
-        "page2_title": "Charles Yang (\u694a\u5609\u7337)",
-        "shared_targets_count": 30
+        "page2_title": "Franklin Ping Cheng (\u7a0b\u70b3\u6210)",
+        "shared_targets_count": 35
       },
       {
         "type": "CO-CITATION",
@@ -1620,15 +2025,6 @@
         "page2": "people/rex-chen.md",
         "shared_target": "people/david-lee",
         "page1_title": "Ashton Hsu (\u8a31\u601d\u6566)",
-        "page2_title": "Rex Chen (\u9673\u4e43\u5149)",
-        "shared_targets_count": 3
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "people/ken-wu.md",
-        "page2": "people/rex-chen.md",
-        "shared_target": "people/david-lee",
-        "page1_title": "Ken Wu (\u5433\u5146\u5cef)",
         "page2_title": "Rex Chen (\u9673\u4e43\u5149)",
         "shared_targets_count": 3
       },
@@ -1910,6 +2306,33 @@
         "page1_title": "Cai Jinrong (\u8521\u9326\u69ae)",
         "page2_title": "Wang Taihe (\u738b\u6cf0\u548c)",
         "shared_targets_count": 17
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/cai-weiren.md",
+        "page2": "people/chen-meihui.md",
+        "shared_target": "sources/irvine-taiwanese-presbyterian-church.md",
+        "page1_title": "Rev. Cai Weiren (\u8521\u7dad\u4ec1\u7267\u5e2b)",
+        "page2_title": "Chen Meihui (\u9673\u7f8e\u8559)",
+        "shared_targets_count": 4
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/cai-weiren.md",
+        "page2": "people/zhang-xuanxin.md",
+        "shared_target": "sources/irvine-taiwanese-presbyterian-church.md",
+        "page1_title": "Rev. Cai Weiren (\u8521\u7dad\u4ec1\u7267\u5e2b)",
+        "page2_title": "Zhang Xuanxin (\u5f35\u5ba3\u4fe1)",
+        "shared_targets_count": 4
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/cai-weiren.md",
+        "page2": "people/zhou-wei-lin.md",
+        "shared_target": "sources/irvine-taiwanese-presbyterian-church.md",
+        "page1_title": "Rev. Cai Weiren (\u8521\u7dad\u4ec1\u7267\u5e2b)",
+        "page2_title": "Zhou Weilin (\u5468\u5a01\u9716)",
+        "shared_targets_count": 4
       },
       {
         "type": "CO-CITATION",
@@ -315347,19 +315770,19 @@
       },
       {
         "type": "CO-CITATION",
-        "page1": "people/chen-meihui.md",
+        "page1": "people/guo-yingyan.md",
         "page2": "people/li-furen.md",
         "shared_target": "organizations/irvine-taiwanese-presbyterian-church",
-        "page1_title": "Chen Meihui (\u9673\u7f8e\u8559)",
+        "page1_title": "Guo Yingyan (\u90ed\u61c9\u8a00)",
         "page2_title": "Li Fu-Jen (\u674e\u8f14\u4ec1)",
         "shared_targets_count": 8
       },
       {
         "type": "CO-CITATION",
-        "page1": "people/chen-meihui.md",
+        "page1": "people/guo-yingyan.md",
         "page2": "sources/irvine-taiwanese-presbyterian-church.md",
         "shared_target": "organizations/irvine-taiwanese-presbyterian-church",
-        "page1_title": "Chen Meihui (\u9673\u7f8e\u8559)",
+        "page1_title": "Guo Yingyan (\u90ed\u61c9\u8a00)",
         "page2_title": "Irvine Taiwanese Presbyterian Church (\u723e\u7063\u53f0\u50d1\u57fa\u7763\u9577\u8001\u6559\u6703)",
         "shared_targets_count": 8
       },
@@ -315591,6 +316014,24 @@
       {
         "type": "CO-CITATION",
         "page1": "people/david-huang.md",
+        "page2": "people/shoki-coe.md",
+        "shared_target": "sources/good-shepherd-taiwanese-presbyterian-church.md",
+        "page1_title": "Rev. David Huang (\u9ec3\u5fb7\u5229)",
+        "page2_title": "Dr. Shoki Coe (\u9ec3\u5f70\u8f1d)",
+        "shared_targets_count": 3
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/shoki-coe.md",
+        "page2": "people/zhou-wei-lin.md",
+        "shared_target": "sources/good-shepherd-taiwanese-presbyterian-church.md",
+        "page1_title": "Dr. Shoki Coe (\u9ec3\u5f70\u8f1d)",
+        "page2_title": "Zhou Weilin (\u5468\u5a01\u9716)",
+        "shared_targets_count": 3
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/david-huang.md",
         "page2": "people/lien-hwa-chow.md",
         "shared_target": "people/ntpc",
         "page1_title": "Rev. David Huang (\u9ec3\u5fb7\u5229)",
@@ -315614,15 +316055,6 @@
         "page1_title": "Dr. Lien-Hwa Chow (\u5468\u806f\u83ef)",
         "page2_title": "Rev. Mingyuan Hsu (\u8a31\u660e\u9060)",
         "shared_targets_count": 3
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "people/david-lee.md",
-        "page2": "people/ken-wu.md",
-        "shared_target": "people/rex-chen",
-        "page1_title": "David Lee (\u674e\u6771\u749e)",
-        "page2_title": "Ken Wu (\u5433\u5146\u5cef)",
-        "shared_targets_count": 2
       },
       {
         "type": "CO-CITATION",
@@ -315653,12 +316085,75 @@
       },
       {
         "type": "CO-CITATION",
+        "page1": "people/yang-jia-you.md",
+        "page2": "people/yang-xin.md",
+        "shared_target": "people/liao-shu-zong.md",
+        "page1_title": "Charles Yang (\u694a\u5609\u7337)",
+        "page2_title": "Yang Hsin (\u694a\u4fe1)",
+        "shared_targets_count": 7
+      },
+      {
+        "type": "CO-CITATION",
         "page1": "people/franklin-ping-cheng.md",
-        "page2": "people/liao-shu-zong.md",
-        "shared_target": "people/huang-gen-shen",
+        "page2": "people/zhou-wei-liang.md",
+        "shared_target": "people/sam-chang.md",
         "page1_title": "Franklin Ping Cheng (\u7a0b\u70b3\u6210)",
-        "page2_title": "Liao Shu-zong (\u5ed6\u8ff0\u5b97)",
+        "page2_title": "Zhou Weiliang (\u5468\u5a01\u5ec9)",
+        "shared_targets_count": 6
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/wang-gui-rong.md",
+        "page2": "people/zhou-wei-liang.md",
+        "shared_target": "people/sam-chang.md",
+        "page1_title": "Wang Gui-rong (\u738b\u6842\u69ae)",
+        "page2_title": "Zhou Weiliang (\u5468\u5a01\u5ec9)",
+        "shared_targets_count": 6
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/yang-jia-you.md",
+        "page2": "people/yang-xin.md",
+        "shared_target": "people/shawna-yang-ryan.md",
+        "page1_title": "Charles Yang (\u694a\u5609\u7337)",
+        "page2_title": "Yang Hsin (\u694a\u4fe1)",
         "shared_targets_count": 5
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/huang-gen-shen.md",
+        "page2": "people/wang-neng-xiang.md",
+        "shared_target": "people/wang-gui-rong.md",
+        "page1_title": "Huang Gen-shen (\u9ec3\u6839\u6df1)",
+        "page2_title": "Wang Neng-xiang (\u738b\u80fd\u7965)",
+        "shared_targets_count": 7
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/franklin-ping-cheng.md",
+        "page2": "people/wang-yao-ting.md",
+        "shared_target": "organizations/taiwanese-american-historical-society.md",
+        "page1_title": "Franklin Ping Cheng (\u7a0b\u70b3\u6210)",
+        "page2_title": "Wang Yao-ting (\u738b\u8000\u5ef7)",
+        "shared_targets_count": 9
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/franklin-ping-cheng.md",
+        "page2": "people/zheng-bing-quan.md",
+        "shared_target": "organizations/taiwanese-american-historical-society.md",
+        "page1_title": "Franklin Ping Cheng (\u7a0b\u70b3\u6210)",
+        "page2_title": "Zheng Bingquan (\u912d\u70b3\u5168)",
+        "shared_targets_count": 9
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/huang-gen-shen.md",
+        "page2": "people/wang-yao-ting.md",
+        "shared_target": "organizations/taiwanese-american-historical-society.md",
+        "page1_title": "Huang Gen-shen (\u9ec3\u6839\u6df1)",
+        "page2_title": "Wang Yao-ting (\u738b\u8000\u5ef7)",
+        "shared_targets_count": 9
       },
       {
         "type": "CO-CITATION",
@@ -315671,11 +316166,20 @@
       },
       {
         "type": "CO-CITATION",
-        "page1": "people/franklin-ping-cheng.md",
-        "page2": "people/wang-gui-rong.md",
+        "page1": "people/liao-shu-zong.md",
+        "page2": "people/lin-fu-kun.md",
         "shared_target": "people/huang-gen-shen",
-        "page1_title": "Franklin Ping Cheng (\u7a0b\u70b3\u6210)",
-        "page2_title": "Wang Gui-rong (\u738b\u6842\u69ae)",
+        "page1_title": "Liao Shu-zong (\u5ed6\u8ff0\u5b97)",
+        "page2_title": "Lin Fu-kun (\u6797\u798f\u5764)",
+        "shared_targets_count": 5
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/lin-fu-kun.md",
+        "page2": "people/yang-xin.md",
+        "shared_target": "people/huang-gen-shen",
+        "page1_title": "Lin Fu-kun (\u6797\u798f\u5764)",
+        "page2_title": "Yang Hsin (\u694a\u4fe1)",
         "shared_targets_count": 5
       },
       {
@@ -315852,15 +316356,6 @@
       {
         "type": "CO-CITATION",
         "page1": "people/guo-shu-qing.md",
-        "page2": "people/liao-ji-chun.md",
-        "shared_target": "people/liao-shu-zong",
-        "page1_title": "Guo Shu-qing (\u90ed\u6dd1\u537f)",
-        "page2_title": "Liao Jichun (\u5ed6\u7e7c\u6625)",
-        "shared_targets_count": 10
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "people/guo-shu-qing.md",
         "page2": "people/lin-chao-chi.md",
         "shared_target": "people/liao-shu-zong",
         "page1_title": "Guo Shu-qing (\u90ed\u6dd1\u537f)",
@@ -315879,28 +316374,28 @@
       {
         "type": "CO-CITATION",
         "page1": "people/guo-shu-qing.md",
-        "page2": "people/lin-qiong-xian.md",
-        "shared_target": "people/liao-ji-chun",
+        "page2": "people/wang-gui-rong.md",
+        "shared_target": "people/liao-shu-zong",
         "page1_title": "Guo Shu-qing (\u90ed\u6dd1\u537f)",
-        "page2_title": "Lin Qiong-xian (\u6797\u74ca\u4ed9)",
-        "shared_targets_count": 2
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "people/guo-shu-qing.md",
-        "page2": "people/liao-ji-chun.md",
-        "shared_target": "people/lin-qiong-xian",
-        "page1_title": "Guo Shu-qing (\u90ed\u6dd1\u537f)",
-        "page2_title": "Liao Jichun (\u5ed6\u7e7c\u6625)",
-        "shared_targets_count": 2
+        "page2_title": "Wang Gui-rong (\u738b\u6842\u69ae)",
+        "shared_targets_count": 10
       },
       {
         "type": "CO-CITATION",
         "page1": "people/hsu-hsin-hung.md",
-        "page2": "sources/2017-tahs-publication.md",
-        "shared_target": "people/lin-yuan-ching",
+        "page2": "people/ken-wu.md",
+        "shared_target": "organizations/overseas-community-affairs-council.md",
         "page1_title": "Hsu Hsin-hung (\u5f90\u65b0\u5b8f)",
-        "page2_title": "2017 TAHS Publication",
+        "page2_title": "Ken Wu (\u5433\u5146\u5cef)",
+        "shared_targets_count": 6
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/hsu-hsin-hung.md",
+        "page2": "people/ken-wu.md",
+        "shared_target": "sources/ocac-gov-tw.md",
+        "page1_title": "Hsu Hsin-hung (\u5f90\u65b0\u5b8f)",
+        "page2_title": "Ken Wu (\u5433\u5146\u5cef)",
         "shared_targets_count": 2
       },
       {
@@ -316167,6 +316662,33 @@
       {
         "type": "CO-CITATION",
         "page1": "people/ken-wu.md",
+        "page2": "people/tahs-member-onboarding.md",
+        "shared_target": "people/david-lee.md",
+        "page1_title": "Ken Wu (\u5433\u5146\u5cef)",
+        "page2_title": "TAHS member onboarding",
+        "shared_targets_count": 4
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/leonard-hsu-jr.md",
+        "page2": "people/tahs-member-onboarding.md",
+        "shared_target": "people/david-lee.md",
+        "page1_title": "Leonard Hsu Jr. (\u8a31\u666f\u9d3b)",
+        "page2_title": "TAHS member onboarding",
+        "shared_targets_count": 4
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/rex-chen.md",
+        "page2": "people/tahs-member-onboarding.md",
+        "shared_target": "people/david-lee.md",
+        "page1_title": "Rex Chen (\u9673\u4e43\u5149)",
+        "page2_title": "TAHS member onboarding",
+        "shared_targets_count": 4
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/ken-wu.md",
         "page2": "people/lin-rongsong.md",
         "shared_target": "articles/taiwanjustice-net/2020/20201126144045_2020_11_19_\u5357\u52a0\u5dde\u6797\u69ae\u677e\u50d1\u52d9\u8aee\u8a62\u59d4\u54e1\u7372\u8058\u884c\u653f\u9662\u653f\u52d9\u9867\u554f_06510e79e7a07f48",
         "page1_title": "Ken Wu (\u5433\u5146\u5cef)",
@@ -316391,30 +316913,12 @@
       },
       {
         "type": "CO-CITATION",
-        "page1": "people/lisa-su.md",
-        "page2": "sources/2017-tahs-publication.md",
-        "shared_target": "people/su-chun-huai",
-        "page1_title": "Lisa T. Su (\u8607\u59ff\u4e30)",
-        "page2_title": "2017 TAHS Publication",
-        "shared_targets_count": 2
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "people/sam-chang.md",
+        "page1": "people/ntpc.md",
         "page2": "people/zhou-wei-lin.md",
-        "shared_target": "people/zhou-wei-liang",
-        "page1_title": "Sam Chang (\u5f35\u5584\u826f)",
+        "shared_target": "people/david-huang.md",
+        "page1_title": "NTPC (see organization page)",
         "page2_title": "Zhou Weilin (\u5468\u5a01\u9716)",
-        "shared_targets_count": 4
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "people/sam-chang.md",
-        "page2": "sources/2017-tahs-publication.md",
-        "shared_target": "people/zhou-wei-liang",
-        "page1_title": "Sam Chang (\u5f35\u5584\u826f)",
-        "page2_title": "2017 TAHS Publication",
-        "shared_targets_count": 4
+        "shared_targets_count": 3
       },
       {
         "type": "CO-CITATION",
@@ -316427,39 +316931,12 @@
       },
       {
         "type": "CO-CITATION",
-        "page1": "people/su-chun-huai.md",
-        "page2": "sources/2017-tahs-publication.md",
-        "shared_target": "people/lisa-su",
-        "page1_title": "Su Chun-huai (\u8607\u6625\u69d0)",
-        "page2_title": "2017 TAHS Publication",
-        "shared_targets_count": 2
-      },
-      {
-        "type": "CO-CITATION",
         "page1": "people/wang-dan.md",
         "page2": "people/wei-jingsheng.md",
         "shared_target": "articles/taiwanjustice-net/2025/20250718070914_\u7f8e\u570b\u52a0\u5dde\u81ea\u7531\u96d5\u5851\u516c\u5712-\u4e2d\u5171\u75c5\u6bd2\u96d5\u5851\u843d\u6210_a91a403ef7e2779b",
         "page1_title": "Wang Dan / \u738b\u4e39",
         "page2_title": "Wei Jingsheng / \u9b4f\u4eac\u751f",
         "shared_targets_count": 3
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "people/wang-gui-rong.md",
-        "page2": "people/zhou-wei-lin.md",
-        "shared_target": "people/wang-neng-xiang",
-        "page1_title": "Wang Gui-rong (\u738b\u6842\u69ae)",
-        "page2_title": "Zhou Weilin (\u5468\u5a01\u9716)",
-        "shared_targets_count": 4
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "people/wang-gui-rong.md",
-        "page2": "sources/2017-tahs-publication.md",
-        "shared_target": "people/wang-neng-xiang",
-        "page1_title": "Wang Gui-rong (\u738b\u6842\u69ae)",
-        "page2_title": "2017 TAHS Publication",
-        "shared_targets_count": 4
       },
       {
         "type": "CO-CITATION",
@@ -316487,15 +316964,6 @@
         "page1_title": "Wang Chiao-ling / \u738b\u5ced\u5dba",
         "page2_title": "Yu Chieh (\u4f59\u6770)",
         "shared_targets_count": 3
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "people/wang-yao-ting.md",
-        "page2": "people/zheng-bing-quan.md",
-        "shared_target": "people/zhou-wei-lin",
-        "page1_title": "Wang Yao-ting (\u738b\u8000\u5ef7)",
-        "page2_title": "Zheng Bingquan (\u912d\u70b3\u5168)",
-        "shared_targets_count": 2
       },
       {
         "type": "CO-CITATION",
@@ -316586,15 +317054,6 @@
         "page1_title": "Yeh Ssu-ya / \u8449\u601d\u96c5",
         "page2_title": "Chang Hsin-hui / \u5f35\u4fe1\u60e0",
         "shared_targets_count": 6
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "people/zhou-wei-liang.md",
-        "page2": "sources/2017-tahs-publication.md",
-        "shared_target": "people/sam-chang",
-        "page1_title": "Zhou Weiliang (\u5468\u5a01\u5ec9)",
-        "page2_title": "2017 TAHS Publication",
-        "shared_targets_count": 2
       },
       {
         "type": "CO-CITATION",
@@ -318361,6 +318820,14 @@
       },
       {
         "type": "CO-MENTION",
+        "page1": "people/alan-thian.md",
+        "page2": "sources/2023-tahs-publication.md",
+        "page1_title": "Alan Thian (\u7530\u8a52\u9d3b)",
+        "page2_title": "2023 TAHS Publication",
+        "mention_text": "2023 TAHS Publication"
+      },
+      {
+        "type": "CO-MENTION",
         "page1": "people/albert-chapter1-audiobook-consent-and-recording-kit.md",
         "page2": "organizations/taiwan-formosa.md",
         "page1_title": "Albert ch.1 audiobook consent kit",
@@ -318382,14 +318849,6 @@
         "page1_title": "Albert ch.1 audiobook (Taiwanese female)",
         "page2_title": "Taiwan Formosa",
         "mention_text": "Taiwan Formosa"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/albert-chapter1-audiobook-taiwanese-female.md",
-        "page2": "people/albert-s-lai.md",
-        "page1_title": "Albert ch.1 audiobook (Taiwanese female)",
-        "page2_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
-        "mention_text": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)"
       },
       {
         "type": "CO-MENTION",
@@ -318422,14 +318881,6 @@
         "page1_title": "Albert Ch.1 EN audiobook review (Christopher scratch)",
         "page2_title": "Albert EN SKU A audiobook scratch \u2014 full book review",
         "mention_text": "Albert EN SKU A audiobook scratch \u2014 full book review"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/albert-chapter1-en-review.md",
-        "page2": "people/albert-s-lai.md",
-        "page1_title": "Albert Ch.1 EN audiobook review (Christopher scratch)",
-        "page2_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
-        "mention_text": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)"
       },
       {
         "type": "CO-MENTION",
@@ -318658,130 +319109,10 @@
       {
         "type": "CO-MENTION",
         "page1": "people/albert-s-lai.md",
-        "page2": "people/c-c-chen.md",
-        "page1_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
-        "page2_title": "Dr. C.C. Chen (\u9673\u662d\u4fca)",
-        "mention_text": "Dr. C.C. Chen (\u9673\u662d\u4fca)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/albert-s-lai.md",
-        "page2": "people/chaolong-kao.md",
-        "page1_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
-        "page2_title": "Dr. Charles C.L. Kao / Chaolong Kao (\u9ad8\u662d\u9f8d)",
-        "mention_text": "Dr. Charles C.L. Kao / Chaolong Kao (\u9ad8\u662d\u9f8d)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/albert-s-lai.md",
-        "page2": "people/ching-fang-chen.md",
-        "page1_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
-        "page2_title": "Rev. Ching Fang Chen (\u9673\u6e05\u82b3)",
-        "mention_text": "Rev. Ching Fang Chen (\u9673\u6e05\u82b3)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/albert-s-lai.md",
-        "page2": "people/daniel-kao.md",
-        "page1_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
-        "page2_title": "Dr. Daniel Kao (\u9ad8\u5149\u6c11)",
-        "mention_text": "Dr. Daniel Kao (\u9ad8\u5149\u6c11)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/albert-s-lai.md",
-        "page2": "people/en-sheng-pan.md",
-        "page1_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
-        "page2_title": "Rev. En Sheng Pan (\u6f58\u6069\u76db)",
-        "mention_text": "Rev. En Sheng Pan (\u6f58\u6069\u76db)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/albert-s-lai.md",
-        "page2": "people/fpcla.md",
-        "page1_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
-        "page2_title": "FPCLA (see organization page)",
-        "mention_text": "FPCLA (see organization page)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/albert-s-lai.md",
-        "page2": "people/jonah-chang.md",
-        "page1_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
-        "page2_title": "Rev. Jonah Chang (\u5f35\u745e\u96c4)",
-        "mention_text": "Rev. Jonah Chang (\u5f35\u745e\u96c4)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/albert-s-lai.md",
-        "page2": "people/mingyuan-hsu.md",
-        "page1_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
-        "page2_title": "Rev. Mingyuan Hsu (\u8a31\u660e\u9060)",
-        "mention_text": "Rev. Mingyuan Hsu (\u8a31\u660e\u9060)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/albert-s-lai.md",
-        "page2": "people/ntpc.md",
-        "page1_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
-        "page2_title": "NTPC (see organization page)",
-        "mention_text": "NTPC (see organization page)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/albert-s-lai.md",
-        "page2": "people/pinghsi-liu.md",
-        "page1_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
-        "page2_title": "Rev. Pinghsi Liu (\u5289\u70b3\u71b9)",
-        "mention_text": "Rev. Pinghsi Liu (\u5289\u70b3\u71b9)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/albert-s-lai.md",
-        "page2": "people/pingtung-lai.md",
-        "page1_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
-        "page2_title": "Pastor Pingtung Lai (\u8cf4\u70b3\u70d4)",
-        "mention_text": "Pastor Pingtung Lai (\u8cf4\u70b3\u70d4)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/albert-s-lai.md",
-        "page2": "people/san-francisco-theological-seminary.md",
-        "page1_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
-        "page2_title": "San Francisco Theological Seminary",
-        "mention_text": "San Francisco Theological Seminary"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/albert-s-lai.md",
         "page2": "people/shoki-coe.md",
         "page1_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
         "page2_title": "Dr. Shoki Coe (\u9ec3\u5f70\u8f1d)",
         "mention_text": "Dr. Shoki Coe (\u9ec3\u5f70\u8f1d)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/albert-s-lai.md",
-        "page2": "people/yunching-yeh-davis.md",
-        "page1_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
-        "page2_title": "Dr. Yunching Yeh Davis (\u8449\u82b8\u9752)",
-        "mention_text": "Dr. Yunching Yeh Davis (\u8449\u82b8\u9752)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/albert-s-lai.md",
-        "page2": "sources/toward-a-community-of-hope.md",
-        "page1_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
-        "page2_title": "Toward A Community of Hope (Lai, 1971 / 2025)",
-        "mention_text": "Toward A Community of Hope (Lai, 1971 / 2025)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/alexander-macdonald.md",
-        "page2": "organizations/good-shepherd-taiwanese-presbyterian-church.md",
-        "page1_title": "\u99ac\u5055\u535a\u58eb (George Leslie Macdonald)",
-        "page2_title": "Good Shepherd Taiwanese Presbyterian Church",
-        "mention_text": "Good Shepherd Taiwanese Presbyterian Church"
       },
       {
         "type": "CO-MENTION",
@@ -318962,14 +319293,6 @@
       {
         "type": "CO-MENTION",
         "page1": "people/c-c-chen.md",
-        "page2": "people/daniel-kao.md",
-        "page1_title": "Dr. C.C. Chen (\u9673\u662d\u4fca)",
-        "page2_title": "Dr. Daniel Kao (\u9ad8\u5149\u6c11)",
-        "mention_text": "Dr. Daniel Kao (\u9ad8\u5149\u6c11)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/c-c-chen.md",
         "page2": "people/jonah-chang.md",
         "page1_title": "Dr. C.C. Chen (\u9673\u662d\u4fca)",
         "page2_title": "Rev. Jonah Chang (\u5f35\u745e\u96c4)",
@@ -319062,22 +319385,6 @@
         "page1_title": "Dr. Charles C.L. Kao / Chaolong Kao (\u9ad8\u662d\u9f8d)",
         "page2_title": "National Taiwanese Presbyterian Council (NTPC)",
         "mention_text": "National Taiwanese Presbyterian Council (NTPC)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/chaolong-kao.md",
-        "page2": "people/daniel-kao.md",
-        "page1_title": "Dr. Charles C.L. Kao / Chaolong Kao (\u9ad8\u662d\u9f8d)",
-        "page2_title": "Dr. Daniel Kao (\u9ad8\u5149\u6c11)",
-        "mention_text": "Dr. Daniel Kao (\u9ad8\u5149\u6c11)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/chaolong-kao.md",
-        "page2": "people/jonah-chang.md",
-        "page1_title": "Dr. Charles C.L. Kao / Chaolong Kao (\u9ad8\u662d\u9f8d)",
-        "page2_title": "Rev. Jonah Chang (\u5f35\u745e\u96c4)",
-        "mention_text": "Rev. Jonah Chang (\u5f35\u745e\u96c4)"
       },
       {
         "type": "CO-MENTION",
@@ -319202,6 +319509,14 @@
       {
         "type": "CO-MENTION",
         "page1": "people/chen-po-kong.md",
+        "page2": "people/chen-maoxiong.md",
+        "page1_title": "Chen Po-kong (\u9673\u7834\u7a7a)",
+        "page2_title": "Chen Mao-xiong (\u9673\u8302\u96c4)",
+        "mention_text": "Chen Maoxiong (\u9673\u8302\u96c4)"
+      },
+      {
+        "type": "CO-MENTION",
+        "page1": "people/chen-po-kong.md",
         "page2": "people/freeman-huang.md",
         "page1_title": "Chen Po-kong (\u9673\u7834\u7a7a)",
         "page2_title": "Freeman Huang (\u9ec3\u6a39\u4eba)",
@@ -319254,6 +319569,14 @@
         "page1_title": "\u9673\u6587\u77f3 (Chen Wenshi)",
         "page2_title": "Taiwanese American Historical Society (TAHS)",
         "mention_text": "Taiwanese American Historical Society (TAHS)"
+      },
+      {
+        "type": "CO-MENTION",
+        "page1": "people/chen-wenshi.md",
+        "page2": "sources/taiwanjustice-net.md",
+        "page1_title": "\u9673\u6587\u77f3 (Chen Wenshi)",
+        "page2_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
+        "mention_text": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)"
       },
       {
         "type": "CO-MENTION",
@@ -319346,6 +319669,14 @@
       {
         "type": "CO-MENTION",
         "page1": "people/chen-zhaonan.md",
+        "page2": "people/lin-baohua.md",
+        "page1_title": "Chen Chao-nan (\u9673\u662d\u5357)",
+        "page2_title": "Lin Bao-hua (\u6797\u4fdd\u83ef)",
+        "mention_text": "Lin Baohua (\u6797\u4fdd\u83ef)"
+      },
+      {
+        "type": "CO-MENTION",
+        "page1": "people/chen-zhaonan.md",
         "page2": "people/simon-lin.md",
         "page1_title": "Chen Chao-nan (\u9673\u662d\u5357)",
         "page2_title": "Simon Lin (\u6797\u69ae\u677e)",
@@ -319409,30 +319740,6 @@
       },
       {
         "type": "CO-MENTION",
-        "page1": "people/ching-fang-chen.md",
-        "page2": "people/pinghsi-liu.md",
-        "page1_title": "Rev. Ching Fang Chen (\u9673\u6e05\u82b3)",
-        "page2_title": "Rev. Pinghsi Liu (\u5289\u70b3\u71b9)",
-        "mention_text": "Rev. Pinghsi Liu (\u5289\u70b3\u71b9)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/ching-fang-chen.md",
-        "page2": "people/yunching-yeh-davis.md",
-        "page1_title": "Rev. Ching Fang Chen (\u9673\u6e05\u82b3)",
-        "page2_title": "Dr. Yunching Yeh Davis (\u8449\u82b8\u9752)",
-        "mention_text": "Dr. Yunching Yeh Davis (\u8449\u82b8\u9752)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/ching-fang-chen.md",
-        "page2": "sources/toward-a-community-of-hope.md",
-        "page1_title": "Rev. Ching Fang Chen (\u9673\u6e05\u82b3)",
-        "page2_title": "Toward A Community of Hope (Lai, 1971 / 2025)",
-        "mention_text": "Toward A Community of Hope (Lai, 1971 / 2025)"
-      },
-      {
-        "type": "CO-MENTION",
         "page1": "people/choan-seng-song.md",
         "page2": "organizations/ntpc.md",
         "page1_title": "Dr. Choan-Seng Song (\u5b8b\u6cc9\u76db)",
@@ -319446,14 +319753,6 @@
         "page1_title": "Dr. Daniel Kao (\u9ad8\u5149\u6c11)",
         "page2_title": "Rev. Jonah Chang (\u5f35\u745e\u96c4)",
         "mention_text": "Rev. Jonah Chang (\u5f35\u745e\u96c4)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/daniel-kao.md",
-        "page2": "sources/toward-a-community-of-hope.md",
-        "page1_title": "Dr. Daniel Kao (\u9ad8\u5149\u6c11)",
-        "page2_title": "Toward A Community of Hope (Lai, 1971 / 2025)",
-        "mention_text": "Toward A Community of Hope (Lai, 1971 / 2025)"
       },
       {
         "type": "CO-MENTION",
@@ -319474,26 +319773,10 @@
       {
         "type": "CO-MENTION",
         "page1": "people/david-lee.md",
-        "page2": "people/ken-wu.md",
-        "page1_title": "David Lee (\u674e\u6771\u749e)",
-        "page2_title": "Ken Wu (\u5433\u5146\u5cef)",
-        "mention_text": "Ken Wu (\u5433\u5146\u5cef)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/david-lee.md",
         "page2": "people/leonard-hsu-jr.md",
         "page1_title": "David Lee (\u674e\u6771\u749e)",
         "page2_title": "Leonard Hsu Jr. (\u8a31\u666f\u9d3b)",
         "mention_text": "Leonard Hsu Jr. (\u8a31\u666f\u9d3b)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/david-lee.md",
-        "page2": "people/rex-chen.md",
-        "page1_title": "David Lee (\u674e\u6771\u749e)",
-        "page2_title": "Rex Chen (\u9673\u4e43\u5149)",
-        "mention_text": "Rex Chen (\u9673\u4e43\u5149)"
       },
       {
         "type": "CO-MENTION",
@@ -319593,22 +319876,6 @@
       },
       {
         "type": "CO-MENTION",
-        "page1": "people/en-sheng-pan.md",
-        "page2": "people/pinghsi-liu.md",
-        "page1_title": "Rev. En Sheng Pan (\u6f58\u6069\u76db)",
-        "page2_title": "Rev. Pinghsi Liu (\u5289\u70b3\u71b9)",
-        "mention_text": "Rev. Pinghsi Liu (\u5289\u70b3\u71b9)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/en-sheng-pan.md",
-        "page2": "people/yunching-yeh-davis.md",
-        "page1_title": "Rev. En Sheng Pan (\u6f58\u6069\u76db)",
-        "page2_title": "Dr. Yunching Yeh Davis (\u8449\u82b8\u9752)",
-        "mention_text": "Dr. Yunching Yeh Davis (\u8449\u82b8\u9752)"
-      },
-      {
-        "type": "CO-MENTION",
         "page1": "people/fan-jiang-ti-ang.md",
         "page2": "events/tc-event-taiwan-joining-who.md",
         "page1_title": "Fan Chiang Tsiang (\u8303\u59dc\u63d0\u6602)",
@@ -319662,6 +319929,22 @@
         "page1_title": "Fan Chiang Tsiang (\u8303\u59dc\u63d0\u6602)",
         "page2_title": "Simon Lin (\u6797\u69ae\u677e)",
         "mention_text": "Simon Lin (\u6797\u69ae\u677e)"
+      },
+      {
+        "type": "CO-MENTION",
+        "page1": "people/fan-jiang-ti-ang.md",
+        "page2": "people/yang-ziqing.md",
+        "page1_title": "Fan Chiang Tsiang (\u8303\u59dc\u63d0\u6602)",
+        "page2_title": "Yang Zi-qing (\u694a\u5b50\u6e05)",
+        "mention_text": "Yang Ziqing (\u694a\u5b50\u6e05)"
+      },
+      {
+        "type": "CO-MENTION",
+        "page1": "people/fan-jiang-ti-ang.md",
+        "page2": "people/yu-jie.md",
+        "page1_title": "Fan Chiang Tsiang (\u8303\u59dc\u63d0\u6602)",
+        "page2_title": "Yu Chieh (\u4f59\u6770)",
+        "mention_text": "Yu Chieh (\u4f59\u6770)"
       },
       {
         "type": "CO-MENTION",
@@ -319721,19 +320004,11 @@
       },
       {
         "type": "CO-MENTION",
-        "page1": "people/franklin-ping-cheng.md",
-        "page2": "people/yang-jia-you.md",
-        "page1_title": "Franklin Ping Cheng (\u7a0b\u70b3\u6210)",
-        "page2_title": "Charles Yang (\u694a\u5609\u7337)",
-        "mention_text": "Charles Yang (\u694a\u5609\u7337)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/franklin-ping-cheng.md",
-        "page2": "sources/2017-tahs-publication.md",
-        "page1_title": "Franklin Ping Cheng (\u7a0b\u70b3\u6210)",
-        "page2_title": "2017 TAHS Publication",
-        "mention_text": "2017 TAHS Publication"
+        "page1": "people/fpcla.md",
+        "page2": "people/albert-s-lai.md",
+        "page1_title": "FPCLA (see organization page)",
+        "page2_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
+        "mention_text": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)"
       },
       {
         "type": "CO-MENTION",
@@ -319930,6 +320205,14 @@
       {
         "type": "CO-MENTION",
         "page1": "people/he-qingxuan.md",
+        "page2": "people/liao-qingshan.md",
+        "page1_title": "He Qinglian (\u4f55\u6e05\u6f23)",
+        "page2_title": "Liao Qing-shan (\u5ed6\u6e05\u5c71)",
+        "mention_text": "Liao Qingshan (\u5ed6\u6e05\u5c71)"
+      },
+      {
+        "type": "CO-MENTION",
+        "page1": "people/he-qingxuan.md",
         "page2": "people/simon-lin.md",
         "page1_title": "He Qinglian (\u4f55\u6e05\u6f23)",
         "page2_title": "Simon Lin (\u6797\u69ae\u677e)",
@@ -320018,14 +320301,6 @@
       {
         "type": "CO-MENTION",
         "page1": "people/hsu-hsin-hung.md",
-        "page2": "organizations/overseas-community-affairs-council.md",
-        "page1_title": "Hsu Hsin-hung (\u5f90\u65b0\u5b8f)",
-        "page2_title": "Overseas Community Affairs Council (\u50d1\u52d9\u59d4\u54e1\u6703)",
-        "mention_text": "Overseas Community Affairs Council (\u50d1\u52d9\u59d4\u54e1\u6703)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/hsu-hsin-hung.md",
         "page2": "organizations/taiwanese-american-historical-society.md",
         "page1_title": "Hsu Hsin-hung (\u5f90\u65b0\u5b8f)",
         "page2_title": "Taiwanese American Historical Society (TAHS)",
@@ -320038,14 +320313,6 @@
         "page1_title": "Hsu Hsin-hung (\u5f90\u65b0\u5b8f)",
         "page2_title": "Charles Yang (\u694a\u5609\u7337)",
         "mention_text": "Charles Yang (\u694a\u5609\u7337)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/hsu-hsin-hung.md",
-        "page2": "sources/2017-tahs-publication.md",
-        "page1_title": "Hsu Hsin-hung (\u5f90\u65b0\u5b8f)",
-        "page2_title": "2017 TAHS Publication",
-        "mention_text": "2017 TAHS Publication"
       },
       {
         "type": "CO-MENTION",
@@ -320122,6 +320389,14 @@
       {
         "type": "CO-MENTION",
         "page1": "people/huang-diyin.md",
+        "page2": "people/he-qingxuan.md",
+        "page1_title": "Huang Di-ying (\u9ec3\u5e1d\u7a4e)",
+        "page2_title": "He Qinglian (\u4f55\u6e05\u6f23)",
+        "mention_text": "He Qinglian (\u4f55\u6e05\u6f23)"
+      },
+      {
+        "type": "CO-MENTION",
+        "page1": "people/huang-diyin.md",
         "page2": "people/simon-lin.md",
         "page1_title": "Huang Di-ying (\u9ec3\u5e1d\u7a4e)",
         "page2_title": "Simon Lin (\u6797\u69ae\u677e)",
@@ -320129,11 +320404,11 @@
       },
       {
         "type": "CO-MENTION",
-        "page1": "people/huang-gen-shen.md",
-        "page2": "organizations/taiwanese-american-historical-society.md",
-        "page1_title": "Huang Gen-shen (\u9ec3\u6839\u6df1)",
-        "page2_title": "Taiwanese American Historical Society (TAHS)",
-        "mention_text": "Taiwanese American Historical Society (TAHS)"
+        "page1": "people/huang-diyin.md",
+        "page2": "people/yang-ziqing.md",
+        "page1_title": "Huang Di-ying (\u9ec3\u5e1d\u7a4e)",
+        "page2_title": "Yang Zi-qing (\u694a\u5b50\u6e05)",
+        "mention_text": "Yang Ziqing (\u694a\u5b50\u6e05)"
       },
       {
         "type": "CO-MENTION",
@@ -320498,34 +320773,10 @@
       {
         "type": "CO-MENTION",
         "page1": "people/ken-wu.md",
-        "page2": "people/rex-chen.md",
-        "page1_title": "Ken Wu (\u5433\u5146\u5cef)",
-        "page2_title": "Rex Chen (\u9673\u4e43\u5149)",
-        "mention_text": "Rex Chen (\u9673\u4e43\u5149)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/ken-wu.md",
         "page2": "people/tahs-member-onboarding.md",
         "page1_title": "Ken Wu (\u5433\u5146\u5cef)",
         "page2_title": "TAHS member onboarding",
         "mention_text": "TAHS member onboarding"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/ken-wu.md",
-        "page2": "sources/taiwancenter-org.md",
-        "page1_title": "Ken Wu (\u5433\u5146\u5cef)",
-        "page2_title": "taiwancenter.org (Taiwan Center website)",
-        "mention_text": "taiwancenter.org (Taiwan Center website)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/ken-wu.md",
-        "page2": "sources/wikipedia-democratic-progressive-party.md",
-        "page1_title": "Ken Wu (\u5433\u5146\u5cef)",
-        "page2_title": "Wikipedia: Democratic Progressive Party",
-        "mention_text": "Wikipedia: Democratic Progressive Party"
       },
       {
         "type": "CO-MENTION",
@@ -320578,26 +320829,10 @@
       {
         "type": "CO-MENTION",
         "page1": "people/leonard-hsu-jr.md",
-        "page2": "people/rex-chen.md",
-        "page1_title": "Leonard Hsu Jr. (\u8a31\u666f\u9d3b)",
-        "page2_title": "Rex Chen (\u9673\u4e43\u5149)",
-        "mention_text": "Rex Chen (\u9673\u4e43\u5149)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/leonard-hsu-jr.md",
         "page2": "people/yang-jia-you.md",
         "page1_title": "Leonard Hsu Jr. (\u8a31\u666f\u9d3b)",
         "page2_title": "Charles Yang (\u694a\u5609\u7337)",
         "mention_text": "Charles Yang (\u694a\u5609\u7337)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/li-furen.md",
-        "page2": "people/chen-meihui.md",
-        "page1_title": "Li Fu-Jen (\u674e\u8f14\u4ec1)",
-        "page2_title": "Chen Meihui (\u9673\u7f8e\u8559)",
-        "mention_text": "Chen Meihui (\u9673\u7f8e\u8559)"
       },
       {
         "type": "CO-MENTION",
@@ -320802,6 +321037,14 @@
       {
         "type": "CO-MENTION",
         "page1": "people/liao-qingshan.md",
+        "page2": "people/cai-yingwen.md",
+        "page1_title": "Liao Qing-shan (\u5ed6\u6e05\u5c71)",
+        "page2_title": "Cai Ying-wen (\u8521\u82f1\u6587)",
+        "mention_text": "Cai Yingwen (\u8521\u82f1\u6587)"
+      },
+      {
+        "type": "CO-MENTION",
+        "page1": "people/liao-qingshan.md",
         "page2": "people/freeman-huang.md",
         "page1_title": "Liao Qing-shan (\u5ed6\u6e05\u5c71)",
         "page2_title": "Freeman Huang (\u9ec3\u6a39\u4eba)",
@@ -320842,14 +321085,6 @@
       {
         "type": "CO-MENTION",
         "page1": "people/liao-shu-zong.md",
-        "page2": "organizations/taiwanese-american-historical-society.md",
-        "page1_title": "Liao Shu-zong (\u5ed6\u8ff0\u5b97)",
-        "page2_title": "Taiwanese American Historical Society (TAHS)",
-        "mention_text": "Taiwanese American Historical Society (TAHS)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/liao-shu-zong.md",
         "page2": "people/franklin-ping-cheng.md",
         "page1_title": "Liao Shu-zong (\u5ed6\u8ff0\u5b97)",
         "page2_title": "Franklin Ping Cheng (\u7a0b\u70b3\u6210)",
@@ -320858,34 +321093,10 @@
       {
         "type": "CO-MENTION",
         "page1": "people/liao-shu-zong.md",
-        "page2": "people/liao-ji-chun.md",
-        "page1_title": "Liao Shu-zong (\u5ed6\u8ff0\u5b97)",
-        "page2_title": "Liao Jichun (\u5ed6\u7e7c\u6625)",
-        "mention_text": "Liao Jichun (\u5ed6\u7e7c\u6625)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/liao-shu-zong.md",
         "page2": "people/yang-jia-you.md",
         "page1_title": "Liao Shu-zong (\u5ed6\u8ff0\u5b97)",
         "page2_title": "Charles Yang (\u694a\u5609\u7337)",
         "mention_text": "Charles Yang (\u694a\u5609\u7337)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/liao-shu-zong.md",
-        "page2": "people/yang-xin.md",
-        "page1_title": "Liao Shu-zong (\u5ed6\u8ff0\u5b97)",
-        "page2_title": "Yang Hsin (\u694a\u4fe1)",
-        "mention_text": "Yang Hsin (\u694a\u4fe1)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/liao-shu-zong.md",
-        "page2": "sources/2017-tahs-publication.md",
-        "page1_title": "Liao Shu-zong (\u5ed6\u8ff0\u5b97)",
-        "page2_title": "2017 TAHS Publication",
-        "mention_text": "2017 TAHS Publication"
       },
       {
         "type": "CO-MENTION",
@@ -320961,6 +321172,14 @@
       },
       {
         "type": "CO-MENTION",
+        "page1": "people/lin-baohua.md",
+        "page2": "people/yu-jie.md",
+        "page1_title": "Lin Bao-hua (\u6797\u4fdd\u83ef)",
+        "page2_title": "Yu Chieh (\u4f59\u6770)",
+        "mention_text": "Yu Chieh (\u4f59\u6770)"
+      },
+      {
+        "type": "CO-MENTION",
         "page1": "people/lin-chao-chi.md",
         "page2": "people/yang-jia-you.md",
         "page1_title": "Lin Chao-chi (\u6797\u671d\u68e8)",
@@ -321042,14 +321261,6 @@
       {
         "type": "CO-MENTION",
         "page1": "people/lin-qiong-xian.md",
-        "page2": "people/liao-ji-chun.md",
-        "page1_title": "Lin Qiong-xian (\u6797\u74ca\u4ed9)",
-        "page2_title": "Liao Jichun (\u5ed6\u7e7c\u6625)",
-        "mention_text": "Liao Jichun (\u5ed6\u7e7c\u6625)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/lin-qiong-xian.md",
         "page2": "people/yang-jia-you.md",
         "page1_title": "Lin Qiong-xian (\u6797\u74ca\u4ed9)",
         "page2_title": "Charles Yang (\u694a\u5609\u7337)",
@@ -321066,10 +321277,34 @@
       {
         "type": "CO-MENTION",
         "page1": "people/lin-rongsong.md",
+        "page2": "events/tc-event-taiwan-joining-who.md",
+        "page1_title": "Lin Jung-sung / \u6797\u69ae\u677e",
+        "page2_title": "\u53f0\u7063\u52a0\u5165\u4e16\u885b\u7d44\u7e54\u7684\u6b77\u7a0b\u8207\u5c55\u671b",
+        "mention_text": "\u53f0\u7063\u52a0\u5165\u4e16\u885b\u7d44\u7e54\u7684\u6b77\u7a0b\u8207\u5c55\u671b"
+      },
+      {
+        "type": "CO-MENTION",
+        "page1": "people/lin-rongsong.md",
         "page2": "organizations/taiwanese-american-historical-society.md",
         "page1_title": "Lin Jung-sung / \u6797\u69ae\u677e",
         "page2_title": "Taiwanese American Historical Society (TAHS)",
         "mention_text": "Taiwanese American Historical Society (TAHS)"
+      },
+      {
+        "type": "CO-MENTION",
+        "page1": "people/lin-rongsong.md",
+        "page2": "sources/taiwanjustice-net.md",
+        "page1_title": "Lin Jung-sung / \u6797\u69ae\u677e",
+        "page2_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
+        "mention_text": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)"
+      },
+      {
+        "type": "CO-MENTION",
+        "page1": "people/lin-rongsong.md",
+        "page2": "people/april-lin.md",
+        "page1_title": "Lin Jung-sung / \u6797\u69ae\u677e",
+        "page2_title": "April Lin (\u6797\u6dd1\u537f)",
+        "mention_text": "April Lin (\u6797\u6dd1\u537f)"
       },
       {
         "type": "CO-MENTION",
@@ -321094,14 +321329,6 @@
         "page1_title": "Lin Yuan-qing (\u6797\u5143\u6e05)",
         "page2_title": "Charles Yang (\u694a\u5609\u7337)",
         "mention_text": "Charles Yang (\u694a\u5609\u7337)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/lin-yuan-ching.md",
-        "page2": "sources/2017-tahs-publication.md",
-        "page1_title": "Lin Yuan-qing (\u6797\u5143\u6e05)",
-        "page2_title": "2017 TAHS Publication",
-        "mention_text": "2017 TAHS Publication"
       },
       {
         "type": "CO-MENTION",
@@ -321169,14 +321396,6 @@
       },
       {
         "type": "CO-MENTION",
-        "page1": "people/lisa-su.md",
-        "page2": "sources/2017-tahs-publication.md",
-        "page1_title": "Lisa T. Su (\u8607\u59ff\u4e30)",
-        "page2_title": "2017 TAHS Publication",
-        "mention_text": "2017 TAHS Publication"
-      },
-      {
-        "type": "CO-MENTION",
         "page1": "people/ma-yingjeou.md",
         "page2": "sources/taiwanjustice-net.md",
         "page1_title": "Ma Ying-jeou (\u99ac\u82f1\u4e5d)",
@@ -321225,22 +321444,6 @@
       },
       {
         "type": "CO-MENTION",
-        "page1": "people/mingyuan-hsu.md",
-        "page2": "organizations/good-shepherd-taiwanese-presbyterian-church.md",
-        "page1_title": "Rev. Mingyuan Hsu (\u8a31\u660e\u9060)",
-        "page2_title": "Good Shepherd Taiwanese Presbyterian Church",
-        "mention_text": "Good Shepherd Taiwanese Presbyterian Church"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/mingyuan-hsu.md",
-        "page2": "sources/toward-a-community-of-hope.md",
-        "page1_title": "Rev. Mingyuan Hsu (\u8a31\u660e\u9060)",
-        "page2_title": "Toward A Community of Hope (Lai, 1971 / 2025)",
-        "mention_text": "Toward A Community of Hope (Lai, 1971 / 2025)"
-      },
-      {
-        "type": "CO-MENTION",
         "page1": "people/nanfang-shuo.md",
         "page2": "organizations/taiwanese-american-historical-society.md",
         "page1_title": "Nanfang Shuo / \u5357\u65b9\u6714",
@@ -321266,18 +321469,18 @@
       {
         "type": "CO-MENTION",
         "page1": "people/ntpc.md",
-        "page2": "people/ching-fang-chen.md",
+        "page2": "people/albert-s-lai.md",
         "page1_title": "NTPC (see organization page)",
-        "page2_title": "Rev. Ching Fang Chen (\u9673\u6e05\u82b3)",
-        "mention_text": "Rev. Ching Fang Chen (\u9673\u6e05\u82b3)"
+        "page2_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
+        "mention_text": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)"
       },
       {
         "type": "CO-MENTION",
         "page1": "people/ntpc.md",
-        "page2": "people/mingyuan-hsu.md",
+        "page2": "people/ching-fang-chen.md",
         "page1_title": "NTPC (see organization page)",
-        "page2_title": "Rev. Mingyuan Hsu (\u8a31\u660e\u9060)",
-        "mention_text": "Rev. Mingyuan Hsu (\u8a31\u660e\u9060)"
+        "page2_title": "Rev. Ching Fang Chen (\u9673\u6e05\u82b3)",
+        "mention_text": "Rev. Ching Fang Chen (\u9673\u6e05\u82b3)"
       },
       {
         "type": "CO-MENTION",
@@ -321449,19 +321652,19 @@
       },
       {
         "type": "CO-MENTION",
-        "page1": "people/pingtung-lai.md",
-        "page2": "sources/toward-a-community-of-hope.md",
-        "page1_title": "Pastor Pingtung Lai (\u8cf4\u70b3\u70d4)",
-        "page2_title": "Toward A Community of Hope (Lai, 1971 / 2025)",
-        "mention_text": "Toward A Community of Hope (Lai, 1971 / 2025)"
-      },
-      {
-        "type": "CO-MENTION",
         "page1": "people/rex-chen.md",
         "page2": "organizations/taiwanese-american-historical-society.md",
         "page1_title": "Rex Chen (\u9673\u4e43\u5149)",
         "page2_title": "Taiwanese American Historical Society (TAHS)",
         "mention_text": "Taiwanese American Historical Society (TAHS)"
+      },
+      {
+        "type": "CO-MENTION",
+        "page1": "people/rex-chen.md",
+        "page2": "people/leonard-hsu-jr.md",
+        "page1_title": "Rex Chen (\u9673\u4e43\u5149)",
+        "page2_title": "Leonard Hsu Jr. (\u8a31\u666f\u9d3b)",
+        "mention_text": "Leonard Hsu Jr. (\u8a31\u666f\u9d3b)"
       },
       {
         "type": "CO-MENTION",
@@ -321553,19 +321756,11 @@
       },
       {
         "type": "CO-MENTION",
-        "page1": "people/sam-chang.md",
-        "page2": "people/zhou-wei-liang.md",
-        "page1_title": "Sam Chang (\u5f35\u5584\u826f)",
-        "page2_title": "Zhou Weiliang (\u5468\u5a01\u5ec9)",
-        "mention_text": "Zhou Weiliang (\u5468\u5a01\u5ec9)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/sam-chang.md",
-        "page2": "sources/2017-tahs-publication.md",
-        "page1_title": "Sam Chang (\u5f35\u5584\u826f)",
-        "page2_title": "2017 TAHS Publication",
-        "mention_text": "2017 TAHS Publication"
+        "page1": "people/san-francisco-theological-seminary.md",
+        "page2": "people/albert-s-lai.md",
+        "page1_title": "San Francisco Theological Seminary",
+        "page2_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
+        "mention_text": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)"
       },
       {
         "type": "CO-MENTION",
@@ -321694,22 +321889,6 @@
         "page1_title": "Su Chun-huai (\u8607\u6625\u69d0)",
         "page2_title": "Franklin Ping Cheng (\u7a0b\u70b3\u6210)",
         "mention_text": "Franklin Ping Cheng (\u7a0b\u70b3\u6210)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/su-chun-huai.md",
-        "page2": "people/lisa-su.md",
-        "page1_title": "Su Chun-huai (\u8607\u6625\u69d0)",
-        "page2_title": "Lisa T. Su (\u8607\u59ff\u4e30)",
-        "mention_text": "Lisa T. Su (\u8607\u59ff\u4e30)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/su-chun-huai.md",
-        "page2": "sources/2017-tahs-publication.md",
-        "page1_title": "Su Chun-huai (\u8607\u6625\u69d0)",
-        "page2_title": "2017 TAHS Publication",
-        "mention_text": "2017 TAHS Publication"
       },
       {
         "type": "CO-MENTION",
@@ -321890,14 +322069,6 @@
       {
         "type": "CO-MENTION",
         "page1": "people/wang-gui-rong.md",
-        "page2": "organizations/taiwan-american-foundation.md",
-        "page1_title": "Wang Gui-rong (\u738b\u6842\u69ae)",
-        "page2_title": "Taiwanese American Foundation (TAF)",
-        "mention_text": "Taiwanese American Foundation (TAF)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/wang-gui-rong.md",
         "page2": "organizations/taiwanese-american-historical-society.md",
         "page1_title": "Wang Gui-rong (\u738b\u6842\u69ae)",
         "page2_title": "Taiwanese American Historical Society (TAHS)",
@@ -321910,30 +322081,6 @@
         "page1_title": "Wang Gui-rong (\u738b\u6842\u69ae)",
         "page2_title": "Taiwanese Chambers of Commerce of Orange County",
         "mention_text": "Taiwanese Chambers of Commerce of Orange County"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/wang-gui-rong.md",
-        "page2": "people/franklin-ping-cheng.md",
-        "page1_title": "Wang Gui-rong (\u738b\u6842\u69ae)",
-        "page2_title": "Franklin Ping Cheng (\u7a0b\u70b3\u6210)",
-        "mention_text": "Franklin Ping Cheng (\u7a0b\u70b3\u6210)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/wang-gui-rong.md",
-        "page2": "people/yang-jia-you.md",
-        "page1_title": "Wang Gui-rong (\u738b\u6842\u69ae)",
-        "page2_title": "Charles Yang (\u694a\u5609\u7337)",
-        "mention_text": "Charles Yang (\u694a\u5609\u7337)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/wang-gui-rong.md",
-        "page2": "sources/2017-tahs-publication.md",
-        "page1_title": "Wang Gui-rong (\u738b\u6842\u69ae)",
-        "page2_title": "2017 TAHS Publication",
-        "mention_text": "2017 TAHS Publication"
       },
       {
         "type": "CO-MENTION",
@@ -322030,14 +322177,6 @@
         "page1_title": "Wang Neng-xiang (\u738b\u80fd\u7965)",
         "page2_title": "Charles Yang (\u694a\u5609\u7337)",
         "mention_text": "Charles Yang (\u694a\u5609\u7337)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/wang-neng-xiang.md",
-        "page2": "sources/2017-tahs-publication.md",
-        "page1_title": "Wang Neng-xiang (\u738b\u80fd\u7965)",
-        "page2_title": "2017 TAHS Publication",
-        "mention_text": "2017 TAHS Publication"
       },
       {
         "type": "CO-MENTION",
@@ -322186,26 +322325,10 @@
       {
         "type": "CO-MENTION",
         "page1": "people/wang-yao-ting.md",
-        "page2": "organizations/taiwanese-american-historical-society.md",
-        "page1_title": "Wang Yao-ting (\u738b\u8000\u5ef7)",
-        "page2_title": "Taiwanese American Historical Society (TAHS)",
-        "mention_text": "Taiwanese American Historical Society (TAHS)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/wang-yao-ting.md",
         "page2": "people/yang-jia-you.md",
         "page1_title": "Wang Yao-ting (\u738b\u8000\u5ef7)",
         "page2_title": "Charles Yang (\u694a\u5609\u7337)",
         "mention_text": "Charles Yang (\u694a\u5609\u7337)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/wang-yao-ting.md",
-        "page2": "people/zheng-bing-quan.md",
-        "page1_title": "Wang Yao-ting (\u738b\u8000\u5ef7)",
-        "page2_title": "Zheng Bingquan (\u912d\u70b3\u5168)",
-        "mention_text": "Zheng Bingquan (\u912d\u70b3\u5168)"
       },
       {
         "type": "CO-MENTION",
@@ -322234,6 +322357,14 @@
       {
         "type": "CO-MENTION",
         "page1": "people/willy-pan.md",
+        "page2": "organizations/taiwanese-american-foundation.md",
+        "page1_title": "Willy Pan (\u6f58\u5efa\u5b87)",
+        "page2_title": "Taiwanese-American Foundation",
+        "mention_text": "TaiwaneseAmerican Foundation"
+      },
+      {
+        "type": "CO-MENTION",
+        "page1": "people/willy-pan.md",
         "page2": "sources/taiwanjustice-net.md",
         "page1_title": "Willy Pan (\u6f58\u5efa\u5b87)",
         "page2_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
@@ -322246,6 +322377,14 @@
         "page1_title": "Willy Pan (\u6f58\u5efa\u5b87)",
         "page2_title": "Freeman Huang (\u9ec3\u6a39\u4eba)",
         "mention_text": "Freeman Huang (\u9ec3\u6a39\u4eba)"
+      },
+      {
+        "type": "CO-MENTION",
+        "page1": "people/wu-lipei.md",
+        "page2": "organizations/taiwan-formosa.md",
+        "page1_title": "Wu Li-pei / \u5433\u6fa7\u57f9",
+        "page2_title": "Taiwan Formosa",
+        "mention_text": "Taiwan Formosa"
       },
       {
         "type": "CO-MENTION",
@@ -322537,14 +322676,6 @@
       },
       {
         "type": "CO-MENTION",
-        "page1": "people/yang-xin.md",
-        "page2": "sources/2017-tahs-publication.md",
-        "page1_title": "Yang Hsin (\u694a\u4fe1)",
-        "page2_title": "2017 TAHS Publication",
-        "mention_text": "2017 TAHS Publication"
-      },
-      {
-        "type": "CO-MENTION",
         "page1": "people/yang-yuanxun.md",
         "page2": "events/tc-event-taiwan-joining-who.md",
         "page1_title": "Yang Yuan-xun / \u694a\u9060\u85b0",
@@ -322825,14 +322956,6 @@
       },
       {
         "type": "CO-MENTION",
-        "page1": "people/yunching-yeh-davis.md",
-        "page2": "sources/toward-a-community-of-hope.md",
-        "page1_title": "Dr. Yunching Yeh Davis (\u8449\u82b8\u9752)",
-        "page2_title": "Toward A Community of Hope (Lai, 1971 / 2025)",
-        "mention_text": "Toward A Community of Hope (Lai, 1971 / 2025)"
-      },
-      {
-        "type": "CO-MENTION",
         "page1": "people/zeng-daoxiong.md",
         "page2": "sources/taiwanjustice-net.md",
         "page1_title": "Zeng Dao-xiong (\u66fe\u9053\u96c4)",
@@ -322860,14 +322983,6 @@
         "page1": "people/zhang-xuanxin.md",
         "page2": "organizations/taiwanese-american-historical-society.md",
         "page1_title": "Zhang Xuanxin (\u5f35\u5ba3\u4fe1)",
-        "page2_title": "Taiwanese American Historical Society (TAHS)",
-        "mention_text": "Taiwanese American Historical Society (TAHS)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/zheng-bing-quan.md",
-        "page2": "organizations/taiwanese-american-historical-society.md",
-        "page1_title": "Zheng Bingquan (\u912d\u70b3\u5168)",
         "page2_title": "Taiwanese American Historical Society (TAHS)",
         "mention_text": "Taiwanese American Historical Society (TAHS)"
       },
@@ -323001,6 +323116,14 @@
       },
       {
         "type": "CO-MENTION",
+        "page1": "people/zheng-qinren.md",
+        "page2": "sources/taiwanjustice-net.md",
+        "page1_title": "Cheng Chin-jen / \u912d\u6b3d\u4ec1",
+        "page2_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
+        "mention_text": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)"
+      },
+      {
+        "type": "CO-MENTION",
         "page1": "people/zheng-shaoliang.md",
         "page2": "organizations/taiwanese-american-historical-society.md",
         "page1_title": "Zheng Shaoliang (\u912d\u7d39\u826f)",
@@ -323049,35 +323172,19 @@
       },
       {
         "type": "CO-MENTION",
-        "page1": "people/zhou-wei-liang.md",
-        "page2": "people/zhou-wei-lin.md",
-        "page1_title": "Zhou Weiliang (\u5468\u5a01\u5ec9)",
-        "page2_title": "Zhou Weilin (\u5468\u5a01\u9716)",
-        "mention_text": "Zhou Weilin (\u5468\u5a01\u9716)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/zhou-wei-liang.md",
-        "page2": "sources/2017-tahs-publication.md",
-        "page1_title": "Zhou Weiliang (\u5468\u5a01\u5ec9)",
-        "page2_title": "2017 TAHS Publication",
-        "mention_text": "2017 TAHS Publication"
+        "page1": "people/zhou-wei-lin.md",
+        "page2": "organizations/good-shepherd-taiwanese-presbyterian-church.md",
+        "page1_title": "Zhou Weilin (\u5468\u5a01\u9716)",
+        "page2_title": "Good Shepherd Taiwanese Presbyterian Church",
+        "mention_text": "Good Shepherd Taiwanese Presbyterian Church"
       },
       {
         "type": "CO-MENTION",
         "page1": "people/zhou-wei-lin.md",
-        "page2": "organizations/taiwanese-american-historical-society.md",
+        "page2": "organizations/taiwan-formosa.md",
         "page1_title": "Zhou Weilin (\u5468\u5a01\u9716)",
-        "page2_title": "Taiwanese American Historical Society (TAHS)",
-        "mention_text": "Taiwanese American Historical Society (TAHS)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "people/zhou-wei-lin.md",
-        "page2": "people/yang-jia-you.md",
-        "page1_title": "Zhou Weilin (\u5468\u5a01\u9716)",
-        "page2_title": "Charles Yang (\u694a\u5609\u7337)",
-        "mention_text": "Charles Yang (\u694a\u5609\u7337)"
+        "page2_title": "Taiwan Formosa",
+        "mention_text": "Taiwan Formosa"
       },
       {
         "type": "CO-MENTION",
@@ -323094,6 +323201,14 @@
         "page1_title": "Tsou Ching-wen / \u9112\u666f\u96ef",
         "page2_title": "Taiwanese American Historical Society (TAHS)",
         "mention_text": "Taiwanese American Historical Society (TAHS)"
+      },
+      {
+        "type": "CO-MENTION",
+        "page1": "people/zou-jingwen.md",
+        "page2": "sources/taiwanjustice-net.md",
+        "page1_title": "Tsou Ching-wen / \u9112\u666f\u96ef",
+        "page2_title": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)",
+        "mention_text": "taiwanjustice.net (\u53f0\u7063\u516c\u7fa9\u7db2)"
       },
       {
         "type": "CO-MENTION",
@@ -323114,10 +323229,34 @@
       {
         "type": "CO-MENTION",
         "page1": "sources/2017-tahs-publication.md",
+        "page2": "people/lisa-su.md",
+        "page1_title": "2017 TAHS Publication",
+        "page2_title": "Lisa T. Su (\u8607\u59ff\u4e30)",
+        "mention_text": "Lisa T. Su (\u8607\u59ff\u4e30)"
+      },
+      {
+        "type": "CO-MENTION",
+        "page1": "sources/2017-tahs-publication.md",
+        "page2": "people/sam-chang.md",
+        "page1_title": "2017 TAHS Publication",
+        "page2_title": "Sam Chang (\u5f35\u5584\u826f)",
+        "mention_text": "Sam Chang (\u5f35\u5584\u826f)"
+      },
+      {
+        "type": "CO-MENTION",
+        "page1": "sources/2017-tahs-publication.md",
         "page2": "people/yang-jia-you.md",
         "page1_title": "2017 TAHS Publication",
         "page2_title": "Charles Yang (\u694a\u5609\u7337)",
         "mention_text": "Charles Yang (\u694a\u5609\u7337)"
+      },
+      {
+        "type": "CO-MENTION",
+        "page1": "sources/2017-tahs-publication.md",
+        "page2": "people/yang-xin.md",
+        "page1_title": "2017 TAHS Publication",
+        "page2_title": "Yang Hsin (\u694a\u4fe1)",
+        "mention_text": "Yang Hsin (\u694a\u4fe1)"
       },
       {
         "type": "CO-MENTION",
@@ -323234,6 +323373,14 @@
       {
         "type": "CO-MENTION",
         "page1": "sources/taiwancenter-org.md",
+        "page2": "people/ken-wu.md",
+        "page1_title": "taiwancenter.org (Taiwan Center website)",
+        "page2_title": "Ken Wu (\u5433\u5146\u5cef)",
+        "mention_text": "Ken Wu (\u5433\u5146\u5cef)"
+      },
+      {
+        "type": "CO-MENTION",
+        "page1": "sources/taiwancenter-org.md",
         "page2": "people/simon-lin.md",
         "page1_title": "taiwancenter.org (Taiwan Center website)",
         "page2_title": "Simon Lin (\u6797\u69ae\u677e)",
@@ -323258,6 +323405,14 @@
       {
         "type": "CO-MENTION",
         "page1": "sources/toward-a-community-of-hope.md",
+        "page2": "people/albert-s-lai.md",
+        "page1_title": "Toward A Community of Hope (Lai, 1971 / 2025)",
+        "page2_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
+        "mention_text": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)"
+      },
+      {
+        "type": "CO-MENTION",
+        "page1": "sources/toward-a-community-of-hope.md",
         "page2": "people/san-francisco-theological-seminary.md",
         "page1_title": "Toward A Community of Hope (Lai, 1971 / 2025)",
         "page2_title": "San Francisco Theological Seminary",
@@ -323270,6 +323425,14 @@
         "page1_title": "Wikipedia: Democratic Progressive Party",
         "page2_title": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)",
         "mention_text": "Dr. Albert S. Lai (\u8cf4\u4fe1\u96c4)"
+      },
+      {
+        "type": "CO-MENTION",
+        "page1": "sources/wikipedia-democratic-progressive-party.md",
+        "page2": "people/ken-wu.md",
+        "page1_title": "Wikipedia: Democratic Progressive Party",
+        "page2_title": "Ken Wu (\u5433\u5146\u5cef)",
+        "mention_text": "Ken Wu (\u5433\u5146\u5cef)"
       }
     ],
     "shared_tags": [],
@@ -323291,8 +323454,8 @@
     ]
   },
   "summary": {
-    "co_citation_count": 35178,
-    "co_mention_count": 833,
+    "co_citation_count": 35229,
+    "co_mention_count": 796,
     "shared_tags_count": 0,
     "orphan_folder_count": 2
   }
