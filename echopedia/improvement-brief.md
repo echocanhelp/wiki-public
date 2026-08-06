@@ -1,4 +1,4 @@
-## Echopedia self-improvement — 2026-08-05
+## Echopedia self-improvement — 2026-08-06
 
 ### Ops check
 - OPS_WARN: orphan script not in ops REQUIRED list: echopedia-cdn-content-check.sh
@@ -18,8 +18,9 @@
 - FRESH_STATUS: OK
 
 ### Entity hints sync
+- HINTS_ADD: people/albert-chapter1-audiobook-taiwanese-female
 - HINTS_ADD: people/ye-siya
-- HINTS_SUMMARY: added=0
+- HINTS_SUMMARY: added=1
 - HINTS_STATUS: UPDATED
 
 ### Intake opportunities
@@ -65,23 +66,23 @@
 - CRON_STATUS: OK
 
 ### Queue drain (programmable)
-- DRAIN: people/kevin-lee.md → ['refresh last_reviewed']
-- DRAIN: people/cao-changqing.md → ['refresh last_reviewed']
-- DRAIN: people/chao-sile.md → ['refresh last_reviewed']
-- DRAIN: people/guan-renjian.md → ['refresh last_reviewed']
-- DRAIN: people/hu-ping.md → ['refresh last_reviewed']
+- DRAIN: people/yang-yueqing.md → ['refresh last_reviewed']
+- DRAIN: people/wang-dan.md → ['refresh last_reviewed']
+- DRAIN: people/wang-shufen.md → ['refresh last_reviewed']
+- DRAIN: people/wei-jingsheng.md → ['refresh last_reviewed']
+- DRAIN: people/wu-lipei.md → ['refresh last_reviewed']
 - DRAIN_SUMMARY: items=5
 - DRAIN_STATUS: DONE
 
 ### Drain detail
-## Queue drain — 2026-08-05
+## Queue drain — 2026-08-06
 - Items: **5**
 
-- `people/kevin-lee.md`: refresh last_reviewed
-- `people/cao-changqing.md`: refresh last_reviewed
-- `people/chao-sile.md`: refresh last_reviewed
-- `people/guan-renjian.md`: refresh last_reviewed
-- `people/hu-ping.md`: refresh last_reviewed
+- `people/yang-yueqing.md`: refresh last_reviewed
+- `people/wang-dan.md`: refresh last_reviewed
+- `people/wang-shufen.md`: refresh last_reviewed
+- `people/wei-jingsheng.md`: refresh last_reviewed
+- `people/wu-lipei.md`: refresh last_reviewed
 
 Safe programmable only — body first-mentions still human/local agent.
 
@@ -105,6 +106,3 @@ Safe programmable only — body first-mentions still human/local agent.
 - No strong interaction name candidates
 
 *Auto: no page creation — queue for human/ops.*
-### Review gate: generated cards
-- No generated cards this week
-

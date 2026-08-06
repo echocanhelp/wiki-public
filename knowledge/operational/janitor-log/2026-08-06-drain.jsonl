@@ -3,3 +3,13 @@
 {"path": "people/wang-shufen.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
 {"path": "people/wei-jingsheng.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
 {"path": "people/wu-lipei.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "people/yang-yueqing.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
+{"path": "people/wang-dan.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
+{"path": "people/wang-shufen.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
+{"path": "people/wei-jingsheng.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
+{"path": "people/wu-lipei.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
+{"path": "people/yang-yueqing.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
+{"path": "people/wang-dan.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
+{"path": "people/wang-shufen.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
+{"path": "people/wei-jingsheng.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
+{"path": "people/wu-lipei.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
