@@ -10,7 +10,7 @@ tags:
 name_en: "Yi Sen Lee"
 name_zh_hanzi: "李意盛"
 verification_status: pending
-last_reviewed: 2026-08-06
+last_reviewed: 2026-08-07
 source_note: "TAHS 2025 org chart + LINE display Yi Lee + handwritten Yi-Sen Lee on chart (owner 2026-08-03)"
 ---
 # Yi Sen Lee (李意盛)
@@ -64,7 +64,6 @@ Private phones and LINE U-ids are **not** published here.
 Articles by other authors that mention **yi-sen-lee**: See [[sources/taiwanjustice-net|taiwanjustice.net source hub]] for the full article index. Top mentions by score:
 
 1. **2025-09-05** — [[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74|台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元]] (score: 490)
-
 
 ## Timeline
 

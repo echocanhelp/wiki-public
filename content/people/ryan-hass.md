@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-06
+last_reviewed: 2026-08-07
 ---
 # Ryan Hass (何瑞恩)
 

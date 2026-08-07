@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-06
+last_reviewed: 2026-08-07
 ---
 # Yu Chieh (余杰)
 
@@ -356,7 +356,6 @@ Articles by other authors that mention **余杰**: See [[sources/taiwanjustice-n
 3. **2020-04-19** — [[articles/taiwanjustice-net/2024/20240228160808_root_f1972734edb3c446|我的肥皂箱]] (score: 740)
 4. **2015-10-12** — [[articles/taiwanjustice-net/2024/20240301081358_root_b3dc60c35a8ef225|專欄]] (score: 740)
 5. **2020-05-15** — [[articles/taiwanjustice-net/2025/20250722012529_2020_05_15_020215d43f3d00ad|'Daily Archives: May 15, 2020']] (score: 740)
-
 
 ## Timeline
 

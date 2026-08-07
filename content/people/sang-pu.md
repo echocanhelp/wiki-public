@@ -8,6 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
+last_reviewed: 2026-08-07
 ---
 
 # Sang Pu / 桑普
@@ -253,3 +254,7 @@ Notable quotes and mentions of **桑普** in Taiwan Justice articles:
    — 2012大選 (2017-12-06)
 
 *...and 32 more quotes*
+
+## Related Pages
+
+- [[people/albert-s-lai|Dr. Albert S. Lai]]

@@ -7,7 +7,7 @@ tags:
   - TAHS
   - taiwanese-american
 verification_status: pending
-last_reviewed: 2026-08-06
+last_reviewed: 2026-08-07
 ---
 
 # Bai Peiyu / 白佩玉
@@ -67,7 +67,6 @@ Articles by other authors that mention **白珮瑜**: See [[sources/taiwanjustic
 3. **2017-12-03** — [[articles/taiwanjustice-net/2024/20240713105601_root_da8d6e56d536ef9f|看板人物]] (score: 700)
 4. **2017-12-02** — [[articles/taiwanjustice-net/2017/20171204112451_2017_12_02_政經看民視-20171202-新閣蜜月期已過-壓垮賴清德的是他_7309b18e0622a55e|政經看民視 20171202 新閣蜜月期已過? 壓垮賴清德的是他…..]] (score: 610)
 5. **2017-11-22** — [[articles/taiwanjustice-net/2017/20171204101252_2017_11_22_年代向錢看-20171122-法拍向錢看-情債_錢債太難清_3239c0110e44223f|年代向錢看 20171122 法拍向錢看!? 情債，錢債太難清?!]] (score: 560)
-
 
 ## Timeline
 

@@ -9,7 +9,7 @@ tags:
 name_en: "Roger Tsai"
 name_zh_hanzi: "蔡漢成"
 verification_status: pending
-last_reviewed: 2026-08-06
+last_reviewed: 2026-08-07
 source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
 ---
 # Roger Tsai (蔡漢成)
@@ -50,7 +50,6 @@ Articles by other authors that mention **roger-tsai**: See [[sources/taiwanjusti
 3. **2021-05-17** — [[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6|2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]] (score: 515)
 4. **2025-09-05** — [[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74|台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元]] (score: 490)
 5. **2025-02-24** — [[articles/taiwanjustice-net/2025/20250320212940_大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念_c62f5c50846fe267|大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念大會]] (score: 435)
-
 
 ## Timeline
 

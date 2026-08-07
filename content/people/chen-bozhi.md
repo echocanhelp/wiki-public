@@ -4,7 +4,7 @@ type: person
 tags:
   - 
 verification_status: pending
-last_reviewed: 2026-08-06
+last_reviewed: 2026-08-07
 ---
 # Rev. Chen Bozhi (陳柏志牧師)
 
@@ -46,7 +46,6 @@ Articles by other authors that mention **chen-bozhi**: See [[sources/taiwanjusti
 3. **2021-05-08** — [[articles/taiwanjustice-net/2025/20251108180706_總統_淨零排放國家整體轉型_規劃未來30年願景_3c24f4e4b2104cd9|總統：淨零排放國家整體轉型，規劃未來30年願景＋總統拋30年願景，鄭麗君領青平台找尋台灣下一步]] (score: 85)
 4. **2021-02-22** — [[articles/taiwanjustice-net/2021/20210303211034_2021_02_22_鄭麗君推青平台轉型_林飛帆吳怡農任基金會董事_4ff1da3d6099b2e3|鄭麗君推青平台轉型，林飛帆吳怡農任基金會董事]] (score: 40)
 5. **2021-05-06** — [[articles/taiwanjustice-net/2025/20251107030138_鄭麗君創青平台-民主治理學院推跨領域共學_首都_d299126c048c579d|鄭麗君創青平台 民主治理學院推跨領域共學＋首都之戰沒鬆口，鄭麗君下一步從城中出發]] (score: 40)
-
 
 ## Timeline
 

@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-06
+last_reviewed: 2026-08-07
 ---
 # Li Jian (李堅)
 
@@ -11742,7 +11742,6 @@ Articles by other authors that mention **李堅**: See [[sources/taiwanjustice-n
 3. **2017-03-07** — [[articles/taiwanjustice-net/2024/20240715140333_root_de6de376c47e0ff9|余杰專欄]] (score: 825)
 4. **2017-11-22** — [[articles/taiwanjustice-net/2024/20240221105045_root_4b96e7a2f9d76692|專欄]] (score: 820)
 5. **2022-08-22** — [[articles/taiwanjustice-net/2024/20240619175142_root_e903f760568c0883|余杰專欄]] (score: 810)
-
 
 ## Timeline
 

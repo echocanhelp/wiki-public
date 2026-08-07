@@ -1,12 +1,12 @@
-## Echopedia Janitor — 2026-08-06
+## Echopedia Janitor — 2026-08-07
 - Standards v8
-- Pages with findings: **29220**
+- Pages with findings: **29219**
 - Queued tonight (max 5): **5**
 - Queue:
-  - `people/yang-yueqing.md` age≈1.0d · NO_IDENTITY_SNAPSHOT, NO_RELATED_PAGES, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
-  - `people/wang-dan.md` age≈1.0d · NO_IDENTITY_SNAPSHOT, NO_RELATED_PAGES, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
-  - `people/wang-shufen.md` age≈1.0d · NO_IDENTITY_SNAPSHOT, NO_RELATED_PAGES, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
-  - `people/wei-jingsheng.md` age≈1.0d · NO_IDENTITY_SNAPSHOT, NO_RELATED_PAGES, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
-  - `people/wu-lipei.md` age≈1.0d · NO_IDENTITY_SNAPSHOT, NO_RELATED_PAGES, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
-- Log: `knowledge/operational/janitor-log/2026-08-06.jsonl`
+  - `people/chen-meihui.md` age≈30.5d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
+  - `people/zhang-xinhui.md` age≈0.8d · NO_IDENTITY_SNAPSHOT, NO_RELATED_PAGES, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
+  - `people/huang-yongcheng.md` age≈0.8d · NO_IDENTITY_SNAPSHOT, NO_RELATED_PAGES, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
+  - `people/nanfang-shuo.md` age≈0.8d · NO_IDENTITY_SNAPSHOT, NO_RELATED_PAGES, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
+  - `people/sang-pu.md` age≈0.8d · NO_IDENTITY_SNAPSHOT, NO_RELATED_PAGES, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
+- Log: `knowledge/operational/janitor-log/2026-08-07.jsonl`
 - Agent auto-apply: **False** (local pin only if enabled)

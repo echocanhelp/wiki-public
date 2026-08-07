@@ -8,6 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
+last_reviewed: 2026-08-07
 ---
 
 # Huang Yung-cheng / 黃永成
@@ -75,3 +76,7 @@ Notable quotes and mentions of **黃永成** in Taiwan Justice articles:
 
 1. "IES 川普時代 共和黨議員承諾不跑票 美稅改案年底前將過關 ◎上報 2017-12-16 December 15, 2017 保健 氣喘病人基本認知的衛教 ◎黃永成（藥師）/民報 2017-12-14 December 15, 2017 陳茂雄專欄 專論: 法理台獨及實質台獨 ◎ 陳茂雄/ 高雄台灣時報/ 2017-12-"
    — 新聞挖挖哇 20171212 酒錢誰來付 (2017-12-16)
+
+## Related Pages
+
+- [[people/albert-s-lai|Dr. Albert S. Lai]]

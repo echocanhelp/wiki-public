@@ -9,7 +9,7 @@ tags:
 name_en: "Alan Thian"
 name_zh_hanzi: "田詒鴻"
 verification_status: pending
-last_reviewed: 2026-08-06
+last_reviewed: 2026-08-07
 source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
 ---
 # Alan Thian (田詒鴻)
@@ -66,7 +66,6 @@ Articles by other authors that mention **alan-thian**: See [[sources/taiwanjusti
 3. **2021-05-17** — [[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6|2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]] (score: 515)
 4. **2018-06-27** — [[articles/taiwanjustice-net/2020/20201118162555_2018_06_27_大洛杉磯台灣會館會訊_2018-年六月-_大洛杉磯台灣_79291dad808ef7f7|大洛杉磯台灣會館會訊，2018 年六月 ◎大洛杉磯台灣會館 2018-06-27]] (score: 415)
 5. **2016-06-12** — [[articles/taiwanjustice-net/2024/20240425081647_root_17835ad9519f9cfe|台灣會館第十屆董事會選出新任董事長林榮松 ◎大洛杉磯台灣會館 06-12-2016]] (score: 395)
-
 
 ## Timeline
 

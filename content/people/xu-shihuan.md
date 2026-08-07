@@ -9,7 +9,7 @@ tags:
 name_en: "Hsu Shih-huan"
 name_zh_hanzi: "許世環"
 verification_status: pending
-last_reviewed: 2026-08-06
+last_reviewed: 2026-08-07
 source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
 ---
 # Hsu Shih-huan (許世環)
@@ -46,7 +46,6 @@ This page is an **A-tier thin record** for graph linking and member-priority sco
 Articles by other authors that mention **xu-shihuan**: See [[sources/taiwanjustice-net|taiwanjustice.net source hub]] for the full article index. Top mentions by score:
 
 1. **2018-07-20** — [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|抗議 南加州台大校友會邀管中閔來年會做專題演講 ◎國立台灣大學校友 2018-07-19]] (score: 230)
-
 
 ## Timeline
 

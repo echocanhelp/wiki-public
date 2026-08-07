@@ -8,6 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
+last_reviewed: 2026-08-07
 ---
 
 # Nanfang Shuo / 南方朔
@@ -187,3 +188,7 @@ Notable quotes and mentions of **南方朔** in Taiwan Justice articles:
    — 2012大選 (2017-12-06)
 
 *...and 8 more quotes*
+
+## Related Pages
+
+- [[people/albert-s-lai|Dr. Albert S. Lai]]

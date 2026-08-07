@@ -8,7 +8,7 @@ tags:
   - FAPA
   - community leader
 verification_status: pending
-last_reviewed: 2026-08-06
+last_reviewed: 2026-08-07
 sources:
   - https://en.wikipedia.org/wiki/Ken_Wu
   - https://www.taiwancenter.org/
@@ -116,7 +116,6 @@ Articles by other authors that mention **ken-wu**: See [[sources/taiwanjustice-n
 3. **2025-02-24** — [[articles/taiwanjustice-net/2025/20250320212940_大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念_c62f5c50846fe267|大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念大會]] (score: 435)
 4. **2018-06-27** — [[articles/taiwanjustice-net/2020/20201118162555_2018_06_27_大洛杉磯台灣會館會訊_2018-年六月-_大洛杉磯台灣_79291dad808ef7f7|大洛杉磯台灣會館會訊，2018 年六月 ◎大洛杉磯台灣會館 2018-06-27]] (score: 415)
 5. **2020-11-17** — [[articles/taiwanjustice-net/2020/20201126160218_2020_11_17_大洛杉磯台灣會館基金會22週年線上募款年會12-5舉行_c3e762826a7e42d2|大洛杉磯台灣會館基金會22週年線上募款年會12/5舉行]] (score: 320)
-
 
 ## Timeline
 

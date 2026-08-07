@@ -10,7 +10,7 @@ tags:
   - democratic-activist
 verification_status: pending
 featured: true
-last_reviewed: 2026-08-06
+last_reviewed: 2026-08-07
 ---
 # Liao Shu-zong (廖述宗)
 
@@ -304,7 +304,6 @@ Articles by other authors that mention **liao-shu-zong**: See [[sources/taiwanju
 1. **2022-06-27** — [[articles/taiwanjustice-net/2022/20220927144814_2022_06_27_唐山打人事件顯示中國已淪為_蠅國_-余杰_982bb72dd4fe3353|唐山打人事件顯示中國已淪為「蠅國」◎ 余杰]] (score: 175)
 2. **2022-06-27** — [[articles/taiwanjustice-net/2024/20240619172639_root_9c55093535c7aca4|唐山打人事件顯示中國已淪為「蠅國」◎ 余杰]] (score: 175)
 3. **2022-06-27** — [[articles/taiwanjustice-net/2025/20250213033003_唐山打人事件顯示中國已淪為_蠅國_-余杰_ae7f270f52c6cf8f|唐山打人事件顯示中國已淪為「蠅國」◎ 余杰]] (score: 175)
-
 
 ## Timeline
 

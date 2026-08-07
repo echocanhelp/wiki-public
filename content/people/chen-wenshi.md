@@ -8,7 +8,7 @@ tags:
   - artist
   - entrepreneur
 verification_status: pending
-last_reviewed: 2026-08-06
+last_reviewed: 2026-08-07
 ---
 # 陳文石 (Chen Wenshi)
 
@@ -126,7 +126,6 @@ Articles by other authors that mention **chen-wenshi**: See [[sources/taiwanjust
 3. **2021-05-17** — [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]] (score: 520)
 4. **2021-05-17** — [[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6|2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]] (score: 515)
 5. **2017-03-14** — [[articles/taiwanjustice-net/2024/20240724234326_root_cd2062fe6528223c|The Beauty of Taiwan-Heart of Asia Exhibition & Art Talk 台灣之美‧亞洲之心國際巡迴展 4/1~2,]] (score: 65)
-
 
 ## Timeline
 

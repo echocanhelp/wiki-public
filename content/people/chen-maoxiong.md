@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-06
+last_reviewed: 2026-08-07
 ---
 # Chen Mao-xiong (陳茂雄)
 
@@ -12591,7 +12591,6 @@ Articles by other authors that mention **陳茂雄**: See [[sources/taiwanjustic
 3. **2017-11-22** — [[articles/taiwanjustice-net/2024/20240221105045_root_4b96e7a2f9d76692|專欄]] (score: 820)
 4. **2022-08-22** — [[articles/taiwanjustice-net/2024/20240619175142_root_e903f760568c0883|余杰專欄]] (score: 810)
 5. **2017-01-30** — [[articles/taiwanjustice-net/2024/20240616123010_root_e9a4d38b79b420ee|余杰專欄]] (score: 805)
-
 
 ## Timeline
 

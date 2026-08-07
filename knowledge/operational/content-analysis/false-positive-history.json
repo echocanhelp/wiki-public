@@ -475,7 +475,9 @@
   "people/chen-meihui.md|DESC_NO_TITLE_MENTION": [
     "2026-07-30",
     "2026-07-30",
-    "2026-07-30"
+    "2026-07-30",
+    "2026-08-07",
+    "2026-08-07"
   ],
   "people/chen-wenshi.md|LINKS_LOW_DENSITY": [
     "2026-07-30",
@@ -1033,7 +1035,9 @@
   "people/li-xiaofeng.md|DESC_NO_TITLE_MENTION": [
     "2026-08-03",
     "2026-08-03",
-    "2026-08-04"
+    "2026-08-04",
+    "2026-08-07",
+    "2026-08-07"
   ],
   "people/li-xiaofeng.md|FRESHNESS_NO_REVIEW_DATE": [
     "2026-08-03",
@@ -1055,7 +1059,9 @@
   "people/li-xiaofeng.md|STRUCT_NO_IDENTITY": [
     "2026-08-03",
     "2026-08-03",
-    "2026-08-04"
+    "2026-08-04",
+    "2026-08-07",
+    "2026-08-07"
   ],
   "people/li-xiaofeng.md|STRUCT_NO_RELATED": [
     "2026-08-03",
@@ -1293,7 +1299,9 @@
   "people/tang-peili.md|DESC_NO_TITLE_MENTION": [
     "2026-08-03",
     "2026-08-03",
-    "2026-08-04"
+    "2026-08-04",
+    "2026-08-07",
+    "2026-08-07"
   ],
   "people/tang-peili.md|FRESHNESS_NO_REVIEW_DATE": [
     "2026-08-03",
@@ -1315,7 +1323,9 @@
   "people/tang-peili.md|STRUCT_NO_IDENTITY": [
     "2026-08-03",
     "2026-08-03",
-    "2026-08-04"
+    "2026-08-04",
+    "2026-08-07",
+    "2026-08-07"
   ],
   "people/tang-peili.md|STRUCT_NO_RELATED": [
     "2026-08-03",
@@ -1357,7 +1367,8 @@
     "2026-08-03",
     "2026-08-03",
     "2026-08-04",
-    "2026-08-04"
+    "2026-08-04",
+    "2026-08-07"
   ],
   "people/wang-dan.md|STRUCT_NO_RELATED": [
     "2026-08-03",
@@ -1571,7 +1582,9 @@
   "people/yang-yuanxun.md|DESC_NO_TITLE_MENTION": [
     "2026-08-03",
     "2026-08-03",
-    "2026-08-04"
+    "2026-08-04",
+    "2026-08-07",
+    "2026-08-07"
   ],
   "people/yang-yuanxun.md|FRESHNESS_NO_REVIEW_DATE": [
     "2026-08-03",
@@ -1593,7 +1606,9 @@
   "people/yang-yuanxun.md|STRUCT_NO_IDENTITY": [
     "2026-08-03",
     "2026-08-03",
-    "2026-08-04"
+    "2026-08-04",
+    "2026-08-07",
+    "2026-08-07"
   ],
   "people/yang-yuanxun.md|STRUCT_NO_RELATED": [
     "2026-08-03",
@@ -1762,7 +1777,9 @@
   "people/zheng-bingquan.md|DESC_NO_TITLE_MENTION": [
     "2026-08-03",
     "2026-08-03",
-    "2026-08-04"
+    "2026-08-04",
+    "2026-08-07",
+    "2026-08-07"
   ],
   "people/zheng-bingquan.md|FRESHNESS_NO_REVIEW_DATE": [
     "2026-08-03",
@@ -1784,7 +1801,9 @@
   "people/zheng-bingquan.md|STRUCT_NO_IDENTITY": [
     "2026-08-03",
     "2026-08-03",
-    "2026-08-04"
+    "2026-08-04",
+    "2026-08-07",
+    "2026-08-07"
   ],
   "people/zheng-bingquan.md|STRUCT_NO_RELATED": [
     "2026-08-03",
@@ -1917,7 +1936,8 @@
   ],
   "people/chen-po-kong.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-08-04",
-    "2026-08-04"
+    "2026-08-04",
+    "2026-08-07"
   ],
   "people/guan-renjian.md|LINKS_NO_LINKS": [
     "2026-08-04",
@@ -1965,7 +1985,8 @@
   ],
   "people/wang-dan.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-08-04",
-    "2026-08-04"
+    "2026-08-04",
+    "2026-08-07"
   ],
   "people/wang-shufen.md|LINKS_NO_LINKS": [
     "2026-08-04",
@@ -2030,5 +2051,81 @@
   "people/zhang-xinhui.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-08-04",
     "2026-08-04"
+  ],
+  "people/chen-maoxiong.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-08-07",
+    "2026-08-07"
+  ],
+  "people/chen-meihui.md|LINKS_HIGH_DENSITY": [
+    "2026-08-07",
+    "2026-08-07"
+  ],
+  "people/chen-zhaonan.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-08-07",
+    "2026-08-07"
+  ],
+  "people/du-ao-cunfu.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-08-07",
+    "2026-08-07"
+  ],
+  "people/fan-jiang-ti-ang.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-08-07",
+    "2026-08-07"
+  ],
+  "people/he-qingxuan.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-08-07",
+    "2026-08-07"
+  ],
+  "people/huang-diyin.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-08-07",
+    "2026-08-07"
+  ],
+  "people/huang-gen-shen.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-08-07",
+    "2026-08-07"
+  ],
+  "people/jin-hegui.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-08-07",
+    "2026-08-07"
+  ],
+  "people/li-jian.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-08-07",
+    "2026-08-07"
+  ],
+  "people/li-xiaofeng.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-08-07",
+    "2026-08-07"
+  ],
+  "people/liao-qingshan.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-08-07",
+    "2026-08-07"
+  ],
+  "people/lin-baohua.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-08-07",
+    "2026-08-07"
+  ],
+  "people/ntpc.md|LINKS_HIGH_DENSITY": [
+    "2026-08-07",
+    "2026-08-07"
+  ],
+  "people/tang-peili.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-08-07",
+    "2026-08-07"
+  ],
+  "people/yang-yuanxun.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-08-07",
+    "2026-08-07"
+  ],
+  "people/yang-ziqing.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-08-07",
+    "2026-08-07"
+  ],
+  "people/yu-jie.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-08-07",
+    "2026-08-07"
+  ],
+  "people/zheng-bingquan.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-08-07",
+    "2026-08-07"
   ]
 }

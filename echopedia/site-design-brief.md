@@ -1,4 +1,4 @@
-## Site design audit — 2026-08-06 05:07
+## Site design audit — 2026-08-07 04:25
 
 - pages_md=313
 - critical=0 high=0 medium=0
@@ -8,8 +8,7 @@
 - **SITE_DESIGN_STATUS: OK**
 
 ### LOW (1)
-- **C1** spelling signals (sample): 2 `[AGENT_SUGGESTED]`
-  - `yang-yueqing.md: ?yueqing`
+- **C1** spelling signals (sample): 1 `[AGENT_SUGGESTED]`
   - `wang-qiaoling.md: ?qiaoling`
 
 ### INFO (2)
@@ -22,7 +21,7 @@
   - `people/chen-zhefu-xu-chunhui.md`
   - `people/choan-seng-song.md`
   - `people/fan-qingliang.md`
-- **B1** person/org touched ≤7d (rely on recency featured window): 72
+- **B1** person/org touched ≤7d (rely on recency featured window): 71
   - `people/alan-thian.md`
   - `people/albert-chapter1-zh-hsiaochen-full-review.md`
   - `people/bai-peiyu.md`

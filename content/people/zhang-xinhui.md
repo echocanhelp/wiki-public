@@ -8,6 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
+last_reviewed: 2026-08-07
 ---
 
 # Chang Hsin-hui / 張信惠
@@ -201,3 +202,7 @@ Notable quotes and mentions of **張信惠** in Taiwan Justice articles:
    — 台南許石音樂圖書館信雅古典音樂珍藏專區啟用，黃偉哲感謝葉思雅賢伉儷捐贈多年音樂收藏 (2021-12-07)
 
 *...and 20 more quotes*
+
+## Related Pages
+
+- [[people/albert-s-lai|Dr. Albert S. Lai]]

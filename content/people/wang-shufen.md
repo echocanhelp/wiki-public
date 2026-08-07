@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-06
+last_reviewed: 2026-08-07
 ---
 
 # Wang Shu-fen / 王淑芬
@@ -158,7 +158,6 @@ Articles by other authors that mention **王淑芬**: See [[sources/taiwanjustic
 3. **2020-08-14** — [[articles/taiwanjustice-net/2025/20250515102312_高雄市長補選15日登場-雙鐵出現返鄉人潮_21a5534ecfeaf505|高雄市長補選15日登場 雙鐵出現返鄉人潮]] (score: 165)
 4. **2021-04-20** — [[articles/taiwanjustice-net/2025/20251108180838_榮獲廖述宗教授紀念獎_罷韓四君子_是肯定每個_d2e6e5b19ab4b452|榮獲廖述宗教授紀念獎，罷韓四君子：是肯定每個夥伴]] (score: 160)
 5. **2020-01-10** — [[articles/taiwanjustice-net/2025/20250617075507_選前之夜-蔡總統_高雄人不能讓韓國瑜騙第二次_880e4017516d8998|選前之夜 蔡總統：高雄人不能讓韓國瑜騙第二次]] (score: 135)
-
 
 ## Timeline
 

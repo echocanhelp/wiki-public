@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-08-06",
+  "last_run": "2026-08-07",
   "standards_version_seen": 8,
   "runs": [
     {
@@ -156,22 +156,25 @@
       "selected": 5,
       "standards_version": 8,
       "standards_bumped": false
+    },
+    {
+      "date": "2026-08-07",
+      "candidates": 29219,
+      "selected": 5,
+      "standards_version": 8,
+      "standards_bumped": false
     }
   ],
   "queue": [
     {
-      "path": "people/yang-yueqing.md",
+      "path": "people/chen-meihui.md",
       "findings": [
-        "NO_IDENTITY_SNAPSHOT",
-        "NO_RELATED_PAGES",
-        "NO_LAST_REVIEWED",
+        "LINK_BODY_SPARSE",
         "LINK_UNLINKED_ENTITY"
       ],
       "hygiene": [
-        "LINK_UNLINKED_ENTITY: people/yang-yueqing.md → organizations/taiwanese-american-historical-society",
-        "LINK_UNLINKED_ENTITY: people/yang-yueqing.md → people/chen-maoxiong",
-        "LINK_UNLINKED_ENTITY: people/yang-yueqing.md → people/lin-baohua",
-        "LINK_UNLINKED_ENTITY: people/yang-yueqing.md → organizations/taiwanjustice-net"
+        "LINK_BODY_SPARSE: people/chen-meihui.md (body_wikis=1 related=9)",
+        "LINK_UNLINKED_ENTITY: people/chen-meihui.md → sources/irvine-taiwanese-presbyterian-church"
       ],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
@@ -182,7 +185,7 @@
       ]
     },
     {
-      "path": "people/wang-dan.md",
+      "path": "people/zhang-xinhui.md",
       "findings": [
         "NO_IDENTITY_SNAPSHOT",
         "NO_RELATED_PAGES",
@@ -190,14 +193,12 @@
         "LINK_UNLINKED_ENTITY"
       ],
       "hygiene": [
-        "LINK_UNLINKED_ENTITY: people/wang-dan.md → organizations/taiwanese-american-historical-society",
-        "LINK_UNLINKED_ENTITY: people/wang-dan.md → people/cai-yingwen",
-        "LINK_UNLINKED_ENTITY: people/wang-dan.md → people/chen-maoxiong",
-        "LINK_UNLINKED_ENTITY: people/wang-dan.md → people/chen-po-kong",
-        "LINK_UNLINKED_ENTITY: people/wang-dan.md → people/liao-qingshan",
-        "LINK_UNLINKED_ENTITY: people/wang-dan.md → people/lin-baohua",
-        "LINK_UNLINKED_ENTITY: people/wang-dan.md → people/yu-jie",
-        "LINK_UNLINKED_ENTITY: people/wang-dan.md → organizations/taiwanjustice-net"
+        "LINK_UNLINKED_ENTITY: people/zhang-xinhui.md → organizations/taiwanese-american-historical-society",
+        "LINK_UNLINKED_ENTITY: people/zhang-xinhui.md → people/simon-lin",
+        "LINK_UNLINKED_ENTITY: people/zhang-xinhui.md → people/freeman-huang",
+        "LINK_UNLINKED_ENTITY: people/zhang-xinhui.md → people/ye-siya-zhang-xinhui",
+        "LINK_UNLINKED_ENTITY: people/zhang-xinhui.md → people/zheng-bing-quan",
+        "LINK_UNLINKED_ENTITY: people/zhang-xinhui.md → organizations/taiwanjustice-net"
       ],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
@@ -208,7 +209,7 @@
       ]
     },
     {
-      "path": "people/wang-shufen.md",
+      "path": "people/huang-yongcheng.md",
       "findings": [
         "NO_IDENTITY_SNAPSHOT",
         "NO_RELATED_PAGES",
@@ -216,13 +217,9 @@
         "LINK_UNLINKED_ENTITY"
       ],
       "hygiene": [
-        "LINK_UNLINKED_ENTITY: people/wang-shufen.md → organizations/taiwanese-american-historical-society",
-        "LINK_UNLINKED_ENTITY: people/wang-shufen.md → people/liao-shu-zong",
-        "LINK_UNLINKED_ENTITY: people/wang-shufen.md → people/cai-yingwen",
-        "LINK_UNLINKED_ENTITY: people/wang-shufen.md → people/han-guoyu",
-        "LINK_UNLINKED_ENTITY: people/wang-shufen.md → people/lin-jialong",
-        "LINK_UNLINKED_ENTITY: people/wang-shufen.md → people/wang-jinping",
-        "LINK_UNLINKED_ENTITY: people/wang-shufen.md → organizations/taiwanjustice-net"
+        "LINK_UNLINKED_ENTITY: people/huang-yongcheng.md → organizations/taiwanese-american-historical-society",
+        "LINK_UNLINKED_ENTITY: people/huang-yongcheng.md → people/chen-maoxiong",
+        "LINK_UNLINKED_ENTITY: people/huang-yongcheng.md → organizations/taiwanjustice-net"
       ],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
@@ -233,7 +230,7 @@
       ]
     },
     {
-      "path": "people/wei-jingsheng.md",
+      "path": "people/nanfang-shuo.md",
       "findings": [
         "NO_IDENTITY_SNAPSHOT",
         "NO_RELATED_PAGES",
@@ -241,9 +238,12 @@
         "LINK_UNLINKED_ENTITY"
       ],
       "hygiene": [
-        "LINK_UNLINKED_ENTITY: people/wei-jingsheng.md → organizations/taiwanese-american-historical-society",
-        "LINK_UNLINKED_ENTITY: people/wei-jingsheng.md → people/lin-baohua",
-        "LINK_UNLINKED_ENTITY: people/wei-jingsheng.md → organizations/taiwanjustice-net"
+        "LINK_UNLINKED_ENTITY: people/nanfang-shuo.md → organizations/taiwanese-american-historical-society",
+        "LINK_UNLINKED_ENTITY: people/nanfang-shuo.md → people/chen-shuibian",
+        "LINK_UNLINKED_ENTITY: people/nanfang-shuo.md → people/he-qingxuan",
+        "LINK_UNLINKED_ENTITY: people/nanfang-shuo.md → people/lin-baohua",
+        "LINK_UNLINKED_ENTITY: people/nanfang-shuo.md → people/ma-yingjeou",
+        "LINK_UNLINKED_ENTITY: people/nanfang-shuo.md → organizations/taiwanjustice-net"
       ],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "path": "people/wu-lipei.md",
+      "path": "people/sang-pu.md",
       "findings": [
         "NO_IDENTITY_SNAPSHOT",
         "NO_RELATED_PAGES",
@@ -262,11 +262,11 @@
         "LINK_UNLINKED_ENTITY"
       ],
       "hygiene": [
-        "LINK_UNLINKED_ENTITY: people/wu-lipei.md → organizations/taiwanese-american-historical-society",
-        "LINK_UNLINKED_ENTITY: people/wu-lipei.md → people/cai-yingwen",
-        "LINK_UNLINKED_ENTITY: people/wu-lipei.md → people/lai-qingde",
-        "LINK_UNLINKED_ENTITY: people/wu-lipei.md → people/liao-qingshan",
-        "LINK_UNLINKED_ENTITY: people/wu-lipei.md → organizations/taiwanjustice-net"
+        "LINK_UNLINKED_ENTITY: people/sang-pu.md → organizations/taiwanese-american-historical-society",
+        "LINK_UNLINKED_ENTITY: people/sang-pu.md → people/chen-maoxiong",
+        "LINK_UNLINKED_ENTITY: people/sang-pu.md → people/chen-zhaonan",
+        "LINK_UNLINKED_ENTITY: people/sang-pu.md → people/yu-jie",
+        "LINK_UNLINKED_ENTITY: people/sang-pu.md → organizations/taiwanjustice-net"
       ],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
@@ -277,12 +277,12 @@
       ]
     }
   ],
-  "last_candidates": 29220,
+  "last_candidates": 29219,
   "last_selected": [
-    "people/yang-yueqing.md",
-    "people/wang-dan.md",
-    "people/wang-shufen.md",
-    "people/wei-jingsheng.md",
-    "people/wu-lipei.md"
+    "people/chen-meihui.md",
+    "people/zhang-xinhui.md",
+    "people/huang-yongcheng.md",
+    "people/nanfang-shuo.md",
+    "people/sang-pu.md"
   ]
 }

@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-06
+last_reviewed: 2026-08-07
 ---
 
 # Wang Dan / 王丹
@@ -212,7 +212,6 @@ Articles by other authors that mention **王丹**: See [[sources/taiwanjustice-n
 3. **2020-06-02** — [[articles/taiwanjustice-net/2025/20250726002608_2020_06_02_bab4d106ba4a1757|'Daily Archives: June 2, 2020']] (score: 780)
 4. **undated** — [[articles/taiwanjustice-net/2023/20230328171355_2011_10_28_與王丹父母台北城再續前緣-_楊月清20111028_attachment_7_5dc101c47e71cf6b|7]] (score: 740)
 5. **undated** — [[articles/taiwanjustice-net/2023/20230328171530_2011_10_28_與王丹父母台北城再續前緣-_楊月清20111028_attachment_2_8be10472c6f25b8b|2]] (score: 740)
-
 
 ## Timeline
 

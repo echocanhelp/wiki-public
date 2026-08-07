@@ -4,7 +4,7 @@ type: person
 tags:
   - 
 verification_status: pending
-last_reviewed: 2026-08-06
+last_reviewed: 2026-08-07
 ---
 # Willy Pan (潘建宇)
 
@@ -33,7 +33,6 @@ Willy Pan is recognized as a member of the Taiwanese American historical and com
 Articles by other authors that mention **willy-pan**: See [[sources/taiwanjustice-net|taiwanjustice.net source hub]] for the full article index. Top mentions by score:
 
 1. **2024-10-04** — [[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66|2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2日舉行]] (score: 690)
-
 
 ## Timeline
 

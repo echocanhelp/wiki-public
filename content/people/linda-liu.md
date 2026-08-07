@@ -8,7 +8,7 @@ tags:
   - board
   - TAHS
 verification_status: owner_verified
-last_reviewed: 2026-08-06
+last_reviewed: 2026-08-07
 sources:
   - https://www.taiwancenter.org/board
   - https://www.taiwancenter.org/
@@ -73,7 +73,6 @@ Articles by other authors that mention **linda-liu**: See [[sources/taiwanjustic
 3. **2018-06-27** — [[articles/taiwanjustice-net/2020/20201118162555_2018_06_27_大洛杉磯台灣會館會訊_2018-年六月-_大洛杉磯台灣_79291dad808ef7f7|大洛杉磯台灣會館會訊，2018 年六月 ◎大洛杉磯台灣會館 2018-06-27]] (score: 415)
 4. **2016-06-12** — [[articles/taiwanjustice-net/2024/20240425081647_root_17835ad9519f9cfe|台灣會館第十屆董事會選出新任董事長林榮松 ◎大洛杉磯台灣會館 06-12-2016]] (score: 395)
 5. **2016-06-12** — [[articles/taiwanjustice-net/2023/20230129123056_2016_06_12_台灣會館第十屆董事會選出新任董事長林榮松-_大_77328a2c6454177f|台灣會館第十屆董事會選出新任董事長林榮松 ◎大洛杉磯台灣會館 06-12-2016]] (score: 365)
-
 
 ## Timeline
 

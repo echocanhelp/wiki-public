@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-06
+last_reviewed: 2026-08-07
 ---
 # Gong Sun-le (公孫樂)
 
@@ -113,7 +113,6 @@ Articles by other authors that mention **公孫樂**: See [[sources/taiwanjustic
 3. **2015-10-08** — [[articles/taiwanjustice-net/2023/20231201230105_root_613509a10916014b|動畫]] (score: 700)
 4. **2021-01-13** — [[articles/taiwanjustice-net/2024/20240221103614_root_e3c7f5e6fe545ddd|我的肥皂箱]] (score: 700)
 5. **2024-05-29** — [[articles/taiwanjustice-net/2024/20240622135632_root_54dd66fe454bf899|一場獲滿堂彩的文化交流-以立合唱團為美國中學生介紹台灣並演唱「天烏烏」]] (score: 145)
-
 
 ## Timeline
 

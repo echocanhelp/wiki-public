@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-06
+last_reviewed: 2026-08-07
 ---
 
 # Wu Li-pei / 吳澧培
@@ -81,7 +81,6 @@ Articles by other authors that mention **吳立埔**: See [[sources/taiwanjustic
 3. **2019-04-11** — [[articles/taiwanjustice-net/2024/20240520034910_root_4facf0eb156eac2c|有話好說]] (score: 700)
 4. **2017-09-04** — [[articles/taiwanjustice-net/2024/20240221103129_root_915dba7c8fc3f3d3|〈洛杉磯看台〉 拼了吧！◎ 廖清山 2017-09-04]] (score: 210)
 5. **2020-02-02** — [[articles/taiwanjustice-net/2025/20251209223029_賴清德應邀赴華府-出席全美祈禱早餐會_3bde1bcb0bb0e10b|賴清德應邀赴華府 出席全美祈禱早餐會， 將拜會國際事務智庫僑界]] (score: 170)
-
 
 ## Timeline
 

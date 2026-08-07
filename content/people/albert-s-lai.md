@@ -13,7 +13,7 @@ tags:
   - 2025-republication
 verification_status: published
 featured: true
-last_reviewed: 2026-08-06
+last_reviewed: 2026-08-07
 ---
 # Dr. Albert S. Lai (賴信雄)
 
@@ -261,7 +261,6 @@ Articles by other authors that mention **albert-s-lai**: See [[sources/taiwanjus
 3. **2020-01-22** — [[articles/taiwanjustice-net/2026/20260118100613_武漢肺炎疫情擴散_法國議員籲who讓台灣參與_fa27676777a91a3a|武漢肺炎疫情擴散，法國議員籲WHO讓台灣參與]] (score: 60)
 4. **2022-02-26** — [[articles/taiwanjustice-net/2026/20260209113555_連2天同台出席-外界解讀盧秀燕蔡其昌互相較勁_c2a5c76345831246|連2天同台出席 外界解讀盧秀燕蔡其昌互相較勁]] (score: 60)
 5. **2020-09-19** — [[articles/taiwanjustice-net/2026/20260121000856_中國疫苗外交會不會重蹈口罩覆轍_3d385b738e35e94d|中國疫苗外交會不會重蹈口罩覆轍？]] (score: 45)
-
 
 ## Network
 

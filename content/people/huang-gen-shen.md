@@ -11,7 +11,7 @@ tags:
   - 228
 verification_status: pending
 featured: true
-last_reviewed: 2026-08-06
+last_reviewed: 2026-08-07
 ---
 # Huang Gen-shen (黃根深)
 
@@ -67,7 +67,6 @@ Articles by other authors that mention **黃根深**: See [[sources/taiwanjustic
 1. **2016-05-17** — [[articles/taiwanjustice-net/2024/20240520023218_root_89e6683c93156205|台美人台加人]] (score: 760)
 2. **2020-09-04** — [[articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3|旅美五十周年 ◎ 鄭炳全]] (score: 395)
 3. **2020-09-04** — [[articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16|旅美五十周年 ◎ 鄭炳全]] (score: 395)
-
 
 ## Timeline
 

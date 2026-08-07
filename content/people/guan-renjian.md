@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-06
+last_reviewed: 2026-08-07
 ---
 
 # Kuan Jen-chien / 管仁健
@@ -111,7 +111,6 @@ Articles by other authors that mention **管仁健**: See [[sources/taiwanjustic
 3. **2022-01-22** — [[articles/taiwanjustice-net/2022/20220518154903_2022_01_22_陳昭南專欄_支持媒體人趙少康競選台灣總統_0672391ba773ff01|【陳昭南專欄】支持媒體人趙少康競選台灣總統，反對女丑方芳教唆殺人！]] (score: 195)
 4. **2023-03-23** — [[articles/taiwanjustice-net/2023/20230508175256_2023_03_23_活在上個世紀的_學者們_習氏中國軍國法西斯_bd35caf1509726d7|活在上個世紀的「學者們」●習氏中國=軍國法西斯  ◎ 陳昭南]] (score: 195)
 5. **2024-06-23** — [[articles/taiwanjustice-net/2025/20250428230552_有力氣打人_還需要讓座給他嗎_-_-林保華_74181ad12376591d|有力氣打人，還需要讓座給他嗎？ ◎ 林保華]] (score: 175)
-
 
 ## Timeline
 

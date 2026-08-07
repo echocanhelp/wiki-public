@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-06
+last_reviewed: 2026-08-07
 ---
 
 # Lin Jung-sung / 林榮松
@@ -52,7 +52,6 @@ Articles by other authors that mention **lin-rongsong**: See [[sources/taiwanjus
 3. **2024-07-15** — [[articles/taiwanjustice-net/2024/20240718233434_root_2fa1c26a7ca674e2|台美人台加人]] (score: 760)
 4. **2024-03-28** — [[articles/taiwanjustice-net/2024/20240421191350_root_5cfb0b2b6557cd21|大洛杉磯台灣會館]] (score: 755)
 5. **2024-10-04** — [[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66|2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2日舉行]] (score: 690)
-
 
 ## Timeline
 

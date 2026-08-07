@@ -1,9 +1,9 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "standards_version": 8,
-  "total_pages_scanned": 0,
+  "total_pages_scanned": 19,
   "auto_queued": 0,
   "queue": [],
-  "suppressed_findings": 331,
-  "fp_history_entries": 401
+  "suppressed_findings": 333,
+  "fp_history_entries": 420
 }

@@ -8,7 +8,7 @@ tags:
   - leadership
 verification_status: published
 featured: true
-last_reviewed: 2026-08-06
+last_reviewed: 2026-08-07
 ---
 # Leonard Hsu Jr. (許景鴻 / Hsu Ching-Hung)
 
@@ -87,7 +87,6 @@ Primary architect and maintainer of Echopedia, the community knowledge base for 
 
 1. **2025-09-05** — [[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74|台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元]]
 2. **2025-09-05** — [[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74|台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元]]
-
 
 ## Timeline
 

@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-06
+last_reviewed: 2026-08-07
 ---
 
 # Cheng Wen-lung / 鄭文龍
@@ -52,7 +52,6 @@ Articles by other authors that mention **zheng-wenlong**: See [[sources/taiwanju
 3. **2020-11-25** — [[articles/taiwanjustice-net/2021/20210118235211_2020_11_25_全美台灣人權協會第44屆年會暨_鄭南榕紀念獎_頒_996879ac7a006acf|全美台灣人權協會第44屆年會暨「鄭南榕紀念獎」頒獎　12月5日移師台灣]] (score: 150)
 4. **2025-03-19** — [[articles/taiwanjustice-net/2025/20250430193548_因應中國5大威脅-軍事審判等修法期程4月上旬定調_026ac23060eacd58|因應中國5大威脅 軍事審判等修法期程4月上旬定調]] (score: 60)
 5. **2020-01-11** — [[articles/taiwanjustice-net/2026/20260112180939_2020區域_原民立委79席當選名單_822ff0e9ac13d27c|2020區域、原民立委79席當選名單]] (score: 40)
-
 
 ## Timeline
 
