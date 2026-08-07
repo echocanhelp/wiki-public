@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-08-07 10:29 PDT*
+*Generated: 2026-08-07 10:50 PDT*
 
 ## Orientation
 - **Entry:**  (auto-route) · **Control:** [CONTROL.md](CONTROL.md)
@@ -19,7 +19,7 @@
 ## Content
 |- **Tier1 pages:** 305 (people 207 / orgs 89 / sources 9) · Tier2 archive: 29103
 |- **Janitor queue depth:** 5
-|- **Uncommitted files:** 146
+|- **Uncommitted files:** 134
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 || Stage | Script | Last run | Output |
@@ -55,16 +55,16 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-08-07T05:03:03.267527-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-08-07T10:28:04.543506-07:00  ok
+    Last run:  2026-08-07T10:50:04.917547-07:00  ok
     Name:      Echopedia content analysis
     Schedule:  0 4 * * *
     Last run:  2026-08-07T04:00:58.539261-07:00  ok
     Name:      unified-watchdog
     Schedule:  every 30m
-    Last run:  2026-08-07T10:16:02.862889-07:00  ok
+    Last run:  2026-08-07T10:46:03.238209-07:00  ok
     Name:      kanban-sync
     Schedule:  every 30m
-    Last run:  2026-08-07T10:01:02.686098-07:00  ok
+    Last run:  2026-08-07T10:31:03.318982-07:00  ok
     Name:      memory-audit
     Schedule:  0 5 * * *
     Last run:  2026-08-07T05:00:57.280012-07:00  ok
@@ -72,10 +72,10 @@ Load skill **echopedia-ops** first for any wiki work.
     Schedule:  0 4 * * *
     Last run:  2026-08-07T04:07:43.685613-07:00  ok
     Name:      echopedia-janitor
-    Schedule:  0 4 * * *
+    Schedule:  2 4 * * *
     Last run:  2026-08-07T04:01:16.249707-07:00  ok
     Name:      echopedia-weekly-improvement
-    Schedule:  0 5 * * *
+    Schedule:  10 5 * * *
     Last run:  2026-08-07T05:12:09.609353-07:00  ok
     ⚠ Delivery failed: live adapter send to telegram:-5543616648 timed out before the coroutine was dispatched; delivery error: Telegram send failed: Timed out
     Name:      echopedia-site-design
@@ -102,32 +102,32 @@ Load skill **echopedia-ops** first for any wiki work.
 <!-- cron-inventory-meta: count=27 agent=3 bad_deliver=0 -->
 | Schedule | Job | Mode | En | Last | Script |
 |----------|-----|------|----|------|--------|
-| 0 4 * * * | `Echopedia content analysis` | no_agent | on | ok | `echopedia-content-analysis-cron.sh` |
-| 0 4 * * * | `echopedia-janitor` | no_agent | on | ok | `echopedia-janitor-wrapper.sh` |
-| 0 4 * * * | `echopedia-nightly-audit` | no_agent | on | ok | `echopedia-nightly-audit-wrapper.sh` |
-| 0 4 * * * | `echopedia-timeline-builder` | AGENT | on | error | `—` |
-| 0 5 * * * | `echopedia-weekly-improvement` | no_agent | on | ok | `echopedia-weekly-improvement.sh` |
-| 0 5 * * * | `memory-audit` | no_agent | on | ok | `memory-audit.sh` |
-| 0 5 * * * | `vault-morning-brief` | no_agent | on | ok | `vault-morning-brief.py` |
-| 0 6 * * * | `cron-audit` | no_agent | on | ok | `cron-audit.py` |
-| 05 4 * * * | `echopedia-person-works-linker` | no_agent | on | ok | `echopedia-person-works-linker-cron.sh` |
-| 10 4 * * * | `echopedia-backlink-auditor` | AGENT | on | error | `—` |
-| 10 4 * * * | `echopedia-extract-actions` | no_agent | on | ok | `echopedia-extract-actions.py` |
-| 10 5 * * * | `echopedia-docs-sync` | no_agent | on | ok | `echopedia-docs-sync-cron.sh` |
-| 15 4 * * * | `echopedia-evaluate-actions` | no_agent | on | ok | `echopedia-evaluate-actions.py` |
-| 15 4 * * * | `echopedia-quote-extractor` | AGENT | on | error | `—` |
-| 20 4 * * * | `echopedia-generate-cards` | no_agent | on | ok | `echopedia-generate-cards.py` |
-| 30 4 * * * | `echopedia-site-design` | no_agent | on | ok | `echopedia-site-design-wrapper.sh` |
 | 30 5 * * 0 | `vault-search-index-rebuild` | no_agent | on | ok | `vault-search-index-rebuild.sh` |
-| 5 4 * * * | `echopedia-scout-live` | no_agent | on | ok | `echopedia-scout-live.sh` |
 | every 1m | `vllm-thermal-scaler` | no_agent | on | ok | `vllm-thermal-scaler.sh` |
 | every 30m | `kanban-sync` | no_agent | on | ok | `kanban-sync.sh` |
 | every 30m | `unified-watchdog` | no_agent | on | ok | `unified-watchdog.sh` |
+| ? | `Echopedia content analysis` | no_agent | on | ok | `echopedia-content-analysis-cron.sh` |
+| ? | `cron-audit` | no_agent | on | ok | `cron-audit.py` |
 | ? | `cron-output-rotate` | no_agent | OFF | ok | `cron-output-rotate.sh` |
+| ? | `echopedia-backlink-auditor` | AGENT | on | error | `—` |
 | ? | `echopedia-ci-heal` | no_agent | OFF | ok | `echopedia-ci-heal-wrapper.sh` |
 | ? | `echopedia-digest` | no_agent | OFF | ok | `echopedia-digest.sh` |
+| ? | `echopedia-docs-sync` | no_agent | on | ok | `echopedia-docs-sync-cron.sh` |
+| ? | `echopedia-evaluate-actions` | no_agent | on | ok | `echopedia-evaluate-actions.py` |
+| ? | `echopedia-extract-actions` | no_agent | on | ok | `echopedia-extract-actions.py` |
+| ? | `echopedia-generate-cards` | no_agent | on | ok | `echopedia-generate-cards.py` |
+| ? | `echopedia-janitor` | no_agent | on | ok | `echopedia-janitor-wrapper.sh` |
+| ? | `echopedia-nightly-audit` | no_agent | on | ok | `echopedia-nightly-audit-wrapper.sh` |
+| ? | `echopedia-person-works-linker` | no_agent | on | ok | `echopedia-person-works-linker-cron.sh` |
+| ? | `echopedia-quote-extractor` | AGENT | on | error | `—` |
+| ? | `echopedia-scout-live` | no_agent | on | ok | `echopedia-scout-live.sh` |
+| ? | `echopedia-site-design` | no_agent | on | ok | `echopedia-site-design-wrapper.sh` |
+| ? | `echopedia-timeline-builder` | AGENT | on | error | `—` |
+| ? | `echopedia-weekly-improvement` | no_agent | on | ok | `echopedia-weekly-improvement.sh` |
+| ? | `memory-audit` | no_agent | on | ok | `memory-audit.sh` |
 | ? | `vault-connector-suggestions` | no_agent | OFF | ok | `vault-connector-suggestions.py` |
 | ? | `vault-intelligence-digest` | no_agent | OFF | ok | `vault-intelligence-digest.py` |
+| ? | `vault-morning-brief` | no_agent | on | ok | `vault-morning-brief.py` |
 | ? | `vault-unfinished-threads` | no_agent | OFF | ok | `vault-unfinished-threads.py` |
 
 *SSOT: `~/.hermes/profiles/pinto/cron/jobs.json` · generated by docs-sync · do not hand-edit this table*
