@@ -74,7 +74,6 @@ Chronological events for **李意盛**:
 
 - **2025-11-07** 🤝 台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元
 
-
 ## Quotes
 
 Notable quotes and mentions of **李意盛** in Taiwan Justice articles:

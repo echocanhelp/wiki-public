@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T09:03:43.995667",
+  "generated_at": "2026-08-07T09:02:29.146354",
   "pages_scanned": 313,
   "suggestions": {
     "co_citation": [
@@ -136,7 +136,7 @@
         "shared_target": "people/albert-s-lai",
         "page1_title": "Democratic Progressive Party (\u6c11\u4e3b\u9032\u6b65\u9ee8)",
         "page2_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "shared_targets_count": 64
+        "shared_targets_count": 68
       },
       {
         "type": "CO-CITATION",
@@ -145,7 +145,7 @@
         "shared_target": "people/albert-s-lai",
         "page1_title": "Democratic Progressive Party (\u6c11\u4e3b\u9032\u6b65\u9ee8)",
         "page2_title": "National Taiwanese Presbyterian Council (NTPC)",
-        "shared_targets_count": 64
+        "shared_targets_count": 68
       },
       {
         "type": "CO-CITATION",
@@ -154,7 +154,7 @@
         "shared_target": "people/albert-s-lai",
         "page1_title": "Democratic Progressive Party (\u6c11\u4e3b\u9032\u6b65\u9ee8)",
         "page2_title": "Albert ch.1 audiobook consent kit",
-        "shared_targets_count": 64
+        "shared_targets_count": 68
       },
       {
         "type": "CO-CITATION",

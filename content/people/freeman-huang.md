@@ -77,7 +77,6 @@ Chronological events for **黃樹人**:
 
 - **2018-07-21** 🎤 抗議 南加州台大校友會邀管中閔來年會做專題演講 ◎國立台灣大學校友 2018-07-19
 
-
 ## Quotes
 
 Notable quotes and mentions of **黃樹人** in Taiwan Justice articles:

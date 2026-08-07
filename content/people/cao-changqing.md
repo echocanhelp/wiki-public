@@ -138,7 +138,6 @@ Chronological events for **曹長青**:
 - **2017-11-09** 🏥 '%archive_title% | Taiwan Justice | 台灣公義網'
 - **2017-12-20** 🗳️ 《金恒煒專欄》斬斷「綁票」政治學/ 自由時報/ 2017-10-10
 
-
 ## Quotes
 
 Notable quotes and mentions of **曹長青** in Taiwan Justice articles:

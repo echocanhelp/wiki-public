@@ -43,7 +43,6 @@ Chronological events for **潘建宇**:
 
 - **2025-04-20** 📰 2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2日舉行
 
-
 ## Quotes
 
 Notable quotes and mentions of **潘建宇** in Taiwan Justice articles:

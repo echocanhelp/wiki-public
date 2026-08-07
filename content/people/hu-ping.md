@@ -173,7 +173,6 @@ Chronological events for **胡平**:
 - **2017-11-09** 📰 歷史必讀 | Taiwan Justice | 台灣公義網
 - **2017-12-20** 🗳️ 「她們」就是我們—趙思樂《她們的征途》(上)  ◎ 余杰 /民報 2017-11-27
 
-
 ## Quotes
 
 Notable quotes and mentions of **胡平** in Taiwan Justice articles:

@@ -23998,7 +23998,6 @@ Chronological events for **陳昭南**:
 - **2017-12-31** 📰 【陳昭南專欄】「空氣污染」是全民殺手●賴神有否解方？◎六都春秋 2017-12-01
 - **2017-12-31** 📰 【陳昭南專欄】凋零中的政治犯們含恨控訴●是民進黨欠他們的！◎六都春秋 2017-11-25
 
-
 ## Quotes
 
 Notable quotes and mentions of **陳昭南** in Taiwan Justice articles:

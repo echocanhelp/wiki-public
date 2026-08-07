@@ -89,7 +89,6 @@ Chronological events for **蔡漢成**:
 - **2020-11-26** 🏛️ 大洛杉磯台灣會館基金會22週年線上募款年會12/5舉行
 - **2020-11-26** 📰 南加州林榮松僑務諮詢委員獲聘行政院政務顧問
 
-
 ## Quotes
 
 Notable quotes and mentions of **蔡漢成** in Taiwan Justice articles:

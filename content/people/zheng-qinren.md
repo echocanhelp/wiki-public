@@ -43,7 +43,6 @@ Chronological events for **鄭欽仁**:
 - **2017-11-08** 📰 精闢專論 | Taiwan Justice | 台灣公義網
 - **2017-11-08** 📰 專欄 | Taiwan Justice | 台灣公義網
 
-
 ## Quotes
 
 Notable quotes and mentions of **鄭欽仁** in Taiwan Justice articles:

@@ -24044,7 +24044,6 @@ Chronological events for **陳破空**:
 - **2017-12-31** 📰 鄭文龍律師 12/10, 12/13 分別在洛杉磯台灣會館及爾灣場老教會演說︰台灣司法改革及陪審團
 - **2017-12-31** 📰 陳破空縱論天下︰政變失手？封鎖大橋停飛航線，習近平決鬥金正恩，誰是誰的剋星？(7 videos) 2017-11-26
 
-
 ## Quotes
 
 Notable quotes and mentions of **陳破空** in Taiwan Justice articles:

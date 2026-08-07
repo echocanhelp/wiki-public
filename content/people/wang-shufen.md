@@ -253,7 +253,6 @@ Chronological events for **王淑芬**:
 - **2020-06-15** 🗳️ 罷韓投票／韓國瑜再提暫停執行罷韓，Wecare高雄批玩弄司法
 - **2020-06-23** 📰 拚高市長補選，陳其邁競總團隊主委許立明出任，總幹事為立委趙天麟
 
-
 ## Quotes
 
 Notable quotes and mentions of **王淑芬** in Taiwan Justice articles:

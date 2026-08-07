@@ -97,7 +97,6 @@ Chronological events for **鄭文龍**:
 - **2017-12-20** 🎤 全美台灣人權協會年會暨鄭南榕紀念獎、王康陸人權獎頒獎典禮 12/09 聖地牙哥舉行(得獎人鄭文龍、王泰和、黃根深)
 - **2017-12-31** 📰 鄭文龍律師 12/10, 12/13 分別在洛杉磯台灣會館及爾灣場老教會演說︰台灣司法改革及陪審團
 
-
 ## Quotes
 
 Notable quotes and mentions of **鄭文龍** in Taiwan Justice articles:

@@ -160,7 +160,7 @@ def content_hash(text):
 
 
 # ─── Indexing ───────────────────────────────────────────────────────────
-def index_vault(rebuild=False):
+def index_vault(rebuild=False, tier1_only=False):
     """Build or update the vector + graph index for all vault pages."""
     conn = get_db()
     c = conn.cursor()
@@ -188,21 +188,22 @@ def index_vault(rebuild=False):
             "fm": fm,
         })
 
-    # Tier 2: knowledge/
-    for md_file in KNOWLEDGE_DIR.rglob("*.md"):
-        rel = md_file.relative_to(ECHOPEDIA_DIR)
-        if rel.name.startswith("."):
-            continue
-        content = md_file.read_text()
-        fm = extract_frontmatter(content)
-        body = extract_body(content)
-        pages.append({
-            "path": str(rel),
-            "tier": 2,
-            "content": content,
-            "body": body,
-            "fm": fm,
-        })
+    # Tier 2: knowledge/ (skip if tier1_only)
+    if not tier1_only:
+        for md_file in KNOWLEDGE_DIR.rglob("*.md"):
+            rel = md_file.relative_to(ECHOPEDIA_DIR)
+            if rel.name.startswith("."):
+                continue
+            content = md_file.read_text()
+            fm = extract_frontmatter(content)
+            body = extract_body(content)
+            pages.append({
+                "path": str(rel),
+                "tier": 2,
+                "content": content,
+                "body": body,
+                "fm": fm,
+            })
 
     print(f"  [info] Found {len(pages)} pages to index")
 
@@ -230,8 +231,8 @@ def index_vault(rebuild=False):
         page_type = fm.get("type", "unknown")
         tags = extract_tags(fm)
 
-        # Generate embedding
-        if embedder:
+        # Generate embedding (skip if tier1_only for speed)
+        if embedder and not tier1_only:
             # Use title + first 500 chars of body for embedding
             embed_text = f"{title}\n{page['body'][:500]}"
             import numpy as np
@@ -249,11 +250,12 @@ def index_vault(rebuild=False):
               embedding, ch, datetime.now().isoformat()))
 
         # Store wikilinks
+        wikilink_lookup = None
         for link in extract_wikilinks(page["body"]):
             # Normalize link to path
             target = link.replace("|", "").strip()
             # Try to resolve to a known path
-            target_path = _resolve_wikilink(target, pages)
+            target_path, wikilink_lookup = _resolve_wikilink(target, pages, wikilink_lookup)
             if target_path:
                 c.execute("""
                     INSERT OR IGNORE INTO vault_graph_links
@@ -271,33 +273,34 @@ def index_vault(rebuild=False):
     return len(pages)
 
 
-def _resolve_wikilink(link, pages):
+def _resolve_wikilink(link, pages, _lookup=None):
     """Resolve a wikilink to a known page path."""
-    # Build a lookup from title/slug to path
-    lookup = {}
-    for p in pages:
-        fm = p["fm"]
-        title = fm.get("title", Path(p["path"]).stem)
-        slug = Path(p["path"]).stem
-        lookup[title.lower()] = p["path"]
-        lookup[slug.lower()] = p["path"]
-        # Also try content/people/slug format
-        lookup[f"people/{slug}"] = p["path"]
-        lookup[f"organizations/{slug}"] = p["path"]
+    # Build a lookup from title/slug to path (cache to avoid O(n²) rebuild)
+    if _lookup is None:
+        _lookup = {}
+        for p in pages:
+            fm = p["fm"]
+            title = fm.get("title", Path(p["path"]).stem)
+            slug = Path(p["path"]).stem
+            _lookup[title.lower()] = p["path"]
+            _lookup[slug.lower()] = p["path"]
+            # Also try content/people/slug format
+            _lookup[f"people/{slug}"] = p["path"]
+            _lookup[f"organizations/{slug}"] = p["path"]
 
     # Try direct match
-    if link.lower() in lookup:
-        return lookup[link.lower()]
+    if link.lower() in _lookup:
+        return _lookup[link.lower()], _lookup
 
     # Try with people/ prefix
-    if f"people/{link.lower()}" in lookup:
-        return lookup[f"people/{link.lower()}"]
+    if f"people/{link.lower()}" in _lookup:
+        return _lookup[f"people/{link.lower()}"], _lookup
 
     # Try with organizations/ prefix
-    if f"organizations/{link.lower()}" in lookup:
-        return lookup[f"organizations/{link.lower()}"]
+    if f"organizations/{link.lower()}" in _lookup:
+        return _lookup[f"organizations/{link.lower()}"], _lookup
 
-    return None
+    return None, _lookup
 
 
 # ─── Vector search ──────────────────────────────────────────────────────
@@ -692,6 +695,12 @@ def main():
     if "--rebuild-index" in args:
         print("Rebuilding vault index...")
         count = index_vault(rebuild=True)
+        print(f"Indexed {count} pages")
+        return
+
+    if "--rebuild-index-tier1" in args:
+        print("Rebuilding vault index (Tier1 only, no embeddings)...")
+        count = index_vault(rebuild=True, tier1_only=True)
         print(f"Indexed {count} pages")
         return
 

@@ -163,7 +163,6 @@ Chronological events for **陳文石**:
 
 - **2017-11-09** 🏥 台美人台加人 | Taiwan Justice | 台灣公義網
 
-
 ## Quotes
 
 Notable quotes and mentions of **陳文石** in Taiwan Justice articles:

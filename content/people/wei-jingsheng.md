@@ -94,7 +94,6 @@ Chronological events for **魏京生**:
 
 - **2017-12-06** 📰 海外中國民運幹了什麼？◎ 魏京生/自由亞洲電台  2017-11-30
 
-
 ## Quotes
 
 Notable quotes and mentions of **魏京生** in Taiwan Justice articles:

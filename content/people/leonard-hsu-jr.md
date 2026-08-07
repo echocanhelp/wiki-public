@@ -97,7 +97,6 @@ Chronological events for **許景鴻**:
 
 - **2025-11-07** 🤝 台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元
 
-
 ## Network
 
 Pages that link to **許景鴻** (leonard-hsu-jr):
@@ -111,7 +110,6 @@ Pages that link to **許景鴻** (leonard-hsu-jr):
 4. [[people/ken-wu.md|ken-wu]]
 5. [[people/rex-chen.md|rex-chen]]
 6. [[people/rex-chen.md|rex-chen]]
-
 
 ## Quotes
 

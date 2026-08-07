@@ -21996,7 +21996,6 @@ Chronological events for **鄭炳全**:
 - **2020-12-20** 📰 'Tag: ABT ( Abbott Labs. )'
 - **2020-12-30** 📰 'Daily Archives: June 1, 2014'
 
-
 ## Quotes
 
 Notable quotes and mentions of **鄭炳全** in Taiwan Justice articles:

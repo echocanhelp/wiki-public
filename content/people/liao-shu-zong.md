@@ -330,7 +330,6 @@ Chronological events for **廖述宗**:
 
 - **2022-09-27** 🕯️ 唐山打人事件顯示中國已淪為「蠅國」◎ 余杰
 
-
 ## Network
 
 Pages that link to **廖述宗** (liao-shu-zong):
@@ -355,7 +354,6 @@ Pages that link to **廖述宗** (liao-shu-zong):
 
 1. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
 2. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
-
 
 ## Quotes
 

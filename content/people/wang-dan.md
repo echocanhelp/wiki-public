@@ -316,7 +316,6 @@ Chronological events for **王丹**:
 - **2020-06-26** 🕯️ 中國史地
 - **2020-07-07** 🎤 中國敢言批習的教授許章潤遭當局帶走．友人：被官方無下限地誣為「嫖娼」
 
-
 ## Quotes
 
 Notable quotes and mentions of **王丹** in Taiwan Justice articles:

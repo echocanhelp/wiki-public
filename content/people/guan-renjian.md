@@ -148,7 +148,6 @@ Chronological events for **管仁健**:
 
 - **2017-11-08** 📰 精闢專論 | Taiwan Justice | 台灣公義網
 
-
 ## Quotes
 
 Notable quotes and mentions of **管仁健** in Taiwan Justice articles:

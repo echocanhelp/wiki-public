@@ -170,7 +170,6 @@ Chronological events for **吳兆峯**:
 - **2020-11-26** 🏛️ 大洛杉磯台灣會館基金會22週年線上募款年會12/5舉行
 - **2020-11-26** 📰 南加州林榮松僑務諮詢委員獲聘行政院政務顧問
 
-
 ## Network
 
 Pages that link to **吳兆峯** (ken-wu):
@@ -197,7 +196,6 @@ Pages that link to **吳兆峯** (ken-wu):
 2. [[sources/taiwancenter-org.md|taiwancenter-org]]
 3. [[sources/wikipedia-democratic-progressive-party.md|wikipedia-democratic-progressive-party]]
 4. [[sources/wikipedia-democratic-progressive-party.md|wikipedia-democratic-progressive-party]]
-
 
 ## Quotes
 

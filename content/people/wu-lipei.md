@@ -129,7 +129,6 @@ Chronological events for **吳澧培**:
 
 - **2020-06-22** 🏛️ 給台美人學生的 TASF COVID-19 疫情紓困獎學金接受申請
 
-
 ## Quotes
 
 Notable quotes and mentions of **吳澧培** in Taiwan Justice articles:

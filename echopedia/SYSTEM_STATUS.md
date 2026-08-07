@@ -14,12 +14,12 @@
 - **Level:** L3
 - **L2 auto-publish on drift:** True
 - **L3 auto-push when green:** True
-- **Last good deploy:** `693101ee69`
+- **Last good deploy:** `1dd63bc20f`
 
 ## Content
 |- **Tier1 pages:** 305 (people 207 / orgs 89 / sources 9) · Tier2 archive: 29103
 |- **Janitor queue depth:** 5
-|- **Uncommitted files:** 2496
+|- **Uncommitted files:** 628
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 || Stage | Script | Last run | Output |

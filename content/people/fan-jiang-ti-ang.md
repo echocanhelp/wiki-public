@@ -22981,7 +22981,6 @@ Chronological events for **范姜提昂**:
 - **2017-12-31** 📰 新聞挖挖哇
 - **2017-12-31** 📰 鄭文龍律師 12/10, 12/13 分別在洛杉磯台灣會館及爾灣場老教會演說︰台灣司法改革及陪審團
 
-
 ## Quotes
 
 Notable quotes and mentions of **范姜提昂** in Taiwan Justice articles:

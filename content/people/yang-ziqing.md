@@ -22291,7 +22291,6 @@ Chronological events for **楊子清**:
 - **2017-11-07** 🕯️ 2001年7月2日半音合唱團受邀演唱於國家音樂廳實況錄影 ◎楊子清 提供
 - **2017-11-09** 🏥 台美人台加人 | Taiwan Justice | 台灣公義網
 
-
 ## Quotes
 
 Notable quotes and mentions of **楊子清** in Taiwan Justice articles:

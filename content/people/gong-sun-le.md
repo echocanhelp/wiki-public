@@ -155,7 +155,6 @@ Chronological events for **公孫樂**:
 
 - **2017-11-09** 📰 動畫 | Taiwan Justice | 台灣公義網
 
-
 ## Quotes
 
 Notable quotes and mentions of **公孫樂** in Taiwan Justice articles:

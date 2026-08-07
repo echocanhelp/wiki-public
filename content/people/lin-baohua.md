@@ -23462,7 +23462,6 @@ Chronological events for **林保華**:
 - **2017-12-31** 🎤 中國媒體就是共產黨代理人◎林保華專欄 / 自由時報/ 2017-11-29
 - **2017-12-31** 📰 鄭文龍律師 12/10, 12/13 分別在洛杉磯台灣會館及爾灣場老教會演說︰台灣司法改革及陪審團
 
-
 ## Quotes
 
 Notable quotes and mentions of **林保華** in Taiwan Justice articles:

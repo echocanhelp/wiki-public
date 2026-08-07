@@ -543,7 +543,6 @@ Chronological events for **余杰**:
 - **2017-12-20** 🗳️ 余杰專欄：鐵銹地帶的罪與贖 ◎風傳媒 2017-11-26
 - **2017-12-20** 🗳️ 「她們」就是我們—趙思樂《她們的征途》(上)  ◎ 余杰 /民報 2017-11-27
 
-
 ## Quotes
 
 Notable quotes and mentions of **余杰** in Taiwan Justice articles:

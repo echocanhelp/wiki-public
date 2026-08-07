@@ -98,7 +98,6 @@ Chronological events for **鄒景雯**:
 - **2017-11-09** 📰 舊金山和約 | Taiwan Justice | 台灣公義網
 - **2017-12-06** 🗳️ 2012大選
 
-
 ## Quotes
 
 Notable quotes and mentions of **鄒景雯** in Taiwan Justice articles:

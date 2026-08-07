@@ -98,7 +98,6 @@ Chronological events for **劉玲華**:
 
 - **2020-11-18** 🏛️ 大洛杉磯台灣會館會訊，2018 年六月 ◎大洛杉磯台灣會館 2018-06-27
 
-
 ## Quotes
 
 Notable quotes and mentions of **劉玲華** in Taiwan Justice articles:

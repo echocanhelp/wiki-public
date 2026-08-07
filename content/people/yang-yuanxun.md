@@ -22057,7 +22057,6 @@ Chronological events for **楊遠薰**:
 - **2020-12-20** 📰 'Tag: ABT ( Abbott Labs. )'
 - **2020-12-30** 📰 'Daily Archives: June 1, 2014'
 
-
 ## Quotes
 
 Notable quotes and mentions of **楊遠薰** in Taiwan Justice articles:

@@ -56,7 +56,6 @@ Chronological events for **蔡錦榮**:
 
 - **2023-06-01** 🎤 台美人歷史協會3/25舉辦「如何寫回憶錄(自傳)座談會」
 
-
 ## Quotes
 
 Notable quotes and mentions of **蔡錦榮** in Taiwan Justice articles:

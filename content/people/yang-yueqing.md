@@ -168,7 +168,6 @@ Chronological events for **楊月清**:
 
 - **2017-12-31** 🎤 由香港英勇中學生談港獨 ◎楊月清 2017-11-30
 
-
 ## Quotes
 
 Notable quotes and mentions of **楊月清** in Taiwan Justice articles:

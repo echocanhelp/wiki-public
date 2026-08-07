@@ -111,7 +111,6 @@ Chronological events for **田詒鴻**:
 - **2020-11-26** 🏥 大洛杉磯台灣會館：疫情擋不住人情，濟困扶危挺僑民
 - **2020-11-26** 🏛️ 大洛杉磯台灣會館基金會22週年線上募款年會12/5舉行
 
-
 ## Network
 
 Pages that link to **田詒鴻** (alan-thian):
@@ -130,7 +129,6 @@ Pages that link to **田詒鴻** (alan-thian):
 
 1. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
 2. [[sources/taiwancenter-org.md|taiwancenter-org]]
-
 
 ## Quotes
 

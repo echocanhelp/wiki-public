@@ -64,7 +64,6 @@ Chronological events for **趙思樂**:
 - **2017-12-20** 📰 「她們」就是我們—趙思樂《她們的征途》(下) ◎ 余杰/ 民報 2017-11-28
 - **2017-12-20** 🗳️ 「她們」就是我們—趙思樂《她們的征途》(上)  ◎ 余杰 /民報 2017-11-27
 
-
 ## Quotes
 
 Notable quotes and mentions of **趙思樂** in Taiwan Justice articles:

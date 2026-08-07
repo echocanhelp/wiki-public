@@ -69,7 +69,6 @@ Chronological events for **陳博志**:
 - **2021-03-03** 🏛️ 鄭麗君推青平台轉型，林飛帆吳怡農任基金會董事
 - **2021-06-19** 🏛️ 總統：淨零排放國家整體轉型，規劃未來30年願景＋總統拋30年願景，鄭麗君領青平台找尋台灣下一步
 
-
 ## Network
 
 Pages that link to **陳博志** (chen-bozhi):
@@ -83,7 +82,6 @@ Pages that link to **陳博志** (chen-bozhi):
 
 1. [[organizations/good-shepherd-taiwanese-presbyterian-church.md|good-shepherd-taiwanese-presbyterian-church]]
 2. [[organizations/index.md|index]]
-
 
 ## Quotes
 

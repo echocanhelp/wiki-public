@@ -143,7 +143,6 @@ Chronological events for **林榮松**:
 - **2017-11-08** 🎤 大洛杉磯台灣會館會訊 ◎ 2017-10-31
 - **2017-11-09** 📰 台灣會館會訊 | Taiwan Justice | 台灣公義網
 
-
 ## Quotes
 
 Notable quotes and mentions of **林榮松** in Taiwan Justice articles:

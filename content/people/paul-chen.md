@@ -106,7 +106,6 @@ Chronological events for **陳柏宇**:
 - **2020-11-26** 📰 南加州林榮松僑務諮詢委員獲聘行政院政務顧問
 - **2020-12-05** 📰 僑務榮譽職人員聘書致頒典禮在洛僑中心舉行
 
-
 ## Quotes
 
 Notable quotes and mentions of **陳柏宇** in Taiwan Justice articles:

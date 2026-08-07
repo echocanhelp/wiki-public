@@ -56,7 +56,6 @@ Chronological events for **許世環**:
 
 - **2018-07-21** 🎤 抗議 南加州台大校友會邀管中閔來年會做專題演講 ◎國立台灣大學校友 2018-07-19
 
-
 ## Quotes
 
 Notable quotes and mentions of **許世環** in Taiwan Justice articles:

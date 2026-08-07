@@ -22984,7 +22984,6 @@ Chronological events for **獨傲村夫**:
 - **2017-12-31** 📰 鄭文龍律師 12/10, 12/13 分別在洛杉磯台灣會館及爾灣場老教會演說︰台灣司法改革及陪審團
 - **2017-12-31** 📰 我對「文言文比例」問題的反思與異見 ◎ 獨傲村夫 /民報 2017-09-18
 
-
 ## Quotes
 
 Notable quotes and mentions of **獨傲村夫** in Taiwan Justice articles:

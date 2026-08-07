@@ -22992,7 +22992,6 @@ Chronological events for **黃帝穎**:
 - **2017-12-31** 📰 難得為馬英九辯護 ◎黃帝穎律師/ 轉載自[綠色逗陣]/ 民報/ 2017-08-22
 - **2017-12-31** 📰 鄭文龍律師 12/10, 12/13 分別在洛杉磯台灣會館及爾灣場老教會演說︰台灣司法改革及陪審團
 
-
 ## Quotes
 
 Notable quotes and mentions of **黃帝穎** in Taiwan Justice articles:

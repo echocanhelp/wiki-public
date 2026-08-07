@@ -64,7 +64,6 @@ Chronological events for **楊錦忠**:
 
 - **2025-11-07** 🤝 台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元
 
-
 ## Quotes
 
 Notable quotes and mentions of **楊錦忠** in Taiwan Justice articles:

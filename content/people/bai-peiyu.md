@@ -93,7 +93,6 @@ Chronological events for **白佩玉**:
 - **2017-12-04** 📰 '新聞追追追 20171122 週刊爆: 獵雷聯貸關鍵期 簡太郎二度入府見吳敦義副總統'
 - **2017-12-06** 📰 看板人物 20171203 郭台銘找她 白佩玉‧立功
 
-
 ## Quotes
 
 Notable quotes and mentions of **白佩玉** in Taiwan Justice articles:

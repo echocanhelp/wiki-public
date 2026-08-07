@@ -87,7 +87,6 @@ Chronological events for **黃根深**:
 
 - **2017-12-20** 🎤 全美台灣人權協會年會暨鄭南榕紀念獎、王康陸人權獎頒獎典禮 12/09 聖地牙哥舉行(得獎人鄭文龍、王泰和、黃根深)
 
-
 ## Network
 
 Pages that link to **黃根深** (huang-gen-shen):
@@ -105,7 +104,6 @@ Pages that link to **黃根深** (huang-gen-shen):
 ### Organizations (1)
 
 1. [[organizations/taiwanese-american-historical-society.md|taiwanese-american-historical-society]]
-
 
 ## Quotes
 
