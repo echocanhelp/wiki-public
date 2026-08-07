@@ -1,15 +1,15 @@
 {
-  "at": "2026-08-07T17:59:47.847249+00:00",
+  "at": "2026-08-07T18:08:28.639762+00:00",
   "status": "WARN",
   "fail": 0,
   "warn": 2,
   "ok": 13,
   "cron_count": 28,
-  "agent_crons": 3,
+  "agent_crons": 9,
   "bad_deliver": 0,
   "link_missing": 0,
   "issues": [
-    "WARN: agent crons present: 3 (prefer no_agent)",
+    "WARN: agent crons present: 9 (prefer no_agent)",
     "WARN: WORKER thin playbook rows (no commands/steps): P14"
   ]
 }
