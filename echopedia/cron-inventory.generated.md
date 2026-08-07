@@ -21,9 +21,9 @@
 | 5 4 * * * | `echopedia-scout-live` | no_agent | on | ok | `echopedia-scout-live.sh` |
 | every 1m | `vllm-thermal-scaler` | no_agent | on | ok | `vllm-thermal-scaler.sh` |
 | every 30m | `kanban-sync` | no_agent | on | ok | `kanban-sync.sh` |
-| every 30m | `unified-watchdog` | no_agent | on | error | `unified-watchdog.sh` |
+| every 30m | `unified-watchdog` | no_agent | on | ok | `unified-watchdog.sh` |
 | ? | `cron-output-rotate` | no_agent | OFF | ok | `cron-output-rotate.sh` |
-| ? | `echopedia-ci-heal` | no_agent | on | ok | `echopedia-ci-heal-wrapper.sh` |
+| ? | `echopedia-ci-heal` | no_agent | OFF | ok | `echopedia-ci-heal-wrapper.sh` |
 | ? | `echopedia-digest` | no_agent | on | ok | `echopedia-digest.sh` |
 | ? | `vault-connector-suggestions` | no_agent | on | ok | `vault-connector-suggestions.py` |
 | ? | `vault-intelligence-digest` | no_agent | on | ok | `vault-intelligence-digest.py` |

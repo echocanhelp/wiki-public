@@ -1,4 +1,4 @@
-## Echopedia self-improvement — 2026-08-06
+## Echopedia self-improvement — 2026-08-07
 
 ### Ops check
 - OPS_WARN: orphan script not in ops REQUIRED list: echopedia-cdn-content-check.sh
@@ -18,71 +18,74 @@
 - FRESH_STATUS: OK
 
 ### Entity hints sync
-- HINTS_ADD: people/albert-chapter1-audiobook-taiwanese-female
 - HINTS_ADD: people/ye-siya
-- HINTS_SUMMARY: added=1
+- HINTS_SUMMARY: added=0
 - HINTS_STATUS: UPDATED
 
 ### Intake opportunities
-- INTAKE_MISSING_PAGE: Preferred English (type: entity, mentioned 10x in: people/alan-thian.md, people/bai-weiwei.md, people/gene-tsai.md (+7 more))
-- INTAKE_MISSING_PAGE: 協會新任 (type: person, mentioned 7x in: people/freeman-huang.md, people/john-yang.md, people/leonard-hsu-jr.md (+4 more))
-- INTAKE_MISSING_PAGE: 許景鴻接 (type: person, mentioned 7x in: people/freeman-huang.md, people/john-yang.md, people/leonard-hsu-jr.md (+4 more))
-- INTAKE_MISSING_PAGE: Vice President (type: entity, mentioned 6x in: organizations/irvine-taiwanese-presbyterian-church.md, organizations/taiwanese-american-historical-society.md, people/bai-weiwei.md (+3 more))
-- INTAKE_MISSING_PAGE: Liao Shu (type: entity, mentioned 6x in: people/guo-shu-qing.md, people/liao-ji-chun.md, people/liao-shu-zong.md (+3 more))
-- INTAKE_MISSING_PAGE: Lin Qiong (type: entity, mentioned 5x in: people/guo-shu-qing.md, people/liao-ji-chun.md, people/liao-shu-zong.md (+2 more))
-- INTAKE_MISSING_PAGE: Chen Shui (type: entity, mentioned 4x in: organizations/overseas-community-affairs-council.md, people/chen-shuibian.md, people/peng-ming-min.md (+1 more))
-- INTAKE_MISSING_PAGE: Albert Ch (type: entity, mentioned 4x in: people/albert-chapter1-en-review.md, people/albert-chapter1-zh-hsiaochen-full-review.md, people/albert-chapter1-zh-review-v2.md (+1 more))
-- INTAKE_MISSING_PAGE: Ethan Yang (type: entity, mentioned 4x in: people/becky-yang.md, people/yang-jia-you.md, people/yang-zhengxiang.md (+1 more))
-- INTAKE_MISSING_PAGE: National Cheng Kung University (type: entity, mentioned 4x in: people/chen-wenshi.md, people/li-mutong.md, people/mingyuan-hsu.md (+1 more))
-- INTAKE_MISSING_PAGE: Peng Ming (type: entity, mentioned 4x in: people/liao-shu-zong.md, people/peng-ming-min.md, people/xu-zongbang.md (+1 more))
-- INTAKE_MISSING_PAGE: The Persistence (type: entity, mentioned 4x in: people/guo-shu-qing.md, people/liao-ji-chun.md, people/liao-shu-zong.md (+1 more))
-- INTAKE_MISSING_PAGE: Traditional Chinese (type: entity, mentioned 3x in: organizations/taiwanjustice-net.md, people/freeman-huang.md, sources/taiwanjustice-net.md)
-- INTAKE_MISSING_PAGE: 台美藝術 (type: organization, mentioned 3x in: organizations/taiwan-center.md, organizations/taiwanese-american-arts-association.md, people/yang-jia-you.md)
-- INTAKE_MISSING_PAGE: West Chapter (type: entity, mentioned 3x in: organizations/democratic-progressive-party.md, people/ken-wu.md, sources/wikipedia-democratic-progressive-party.md)
-- INTAKE_MISSING_PAGE: Tsai Ing (type: entity, mentioned 3x in: organizations/democratic-progressive-party.md, people/li-mutong.md, people/wang-kexiong.md)
-- INTAKE_MISSING_PAGE: Legislative Yuan (type: entity, mentioned 3x in: organizations/democratic-progressive-party.md, people/wang-jinping.md, people/wang-kexiong.md)
-- INTAKE_MISSING_PAGE: Wang Gui (type: entity, mentioned 3x in: organizations/taiwan-american-foundation.md, people/wang-gui-rong.md, people/yang-jia-you.md)
-- INTAKE_MISSING_PAGE: Executive Yuan (type: entity, mentioned 3x in: organizations/overseas-community-affairs-council.md, people/wang-kexiong.md, sources/ocac-gov-tw.md)
-- INTAKE_MISSING_PAGE: The Land (type: entity, mentioned 3x in: people/albert-chapter1-en-review.md, people/albert-chapter1-zh-review-v2.md, people/albert-chapter1-zh-review.md)
-- INTAKE_MISSING_PAGE: Lin Chao (type: entity, mentioned 3x in: people/liao-shu-zong.md, people/lin-chao-chi.md, people/lin-chao-quan.md)
-- INTAKE_MISSING_PAGE: Hong Kong (type: entity, mentioned 3x in: people/albert-s-lai.md, people/liao-shu-zong.md, people/lin-chao-quan.md)
-- INTAKE_MISSING_PAGE: Memorial Church (type: entity, mentioned 3x in: people/albert-s-lai.md, people/pinghsi-liu.md, people/ye-siya-zhang-xinhui.md)
-- INTAKE_MISSING_PAGE: Vietnam War (type: entity, mentioned 3x in: people/albert-s-lai.md, people/lin-fu-kun.md, people/shawna-yang-ryan.md)
-- INTAKE_MISSING_PAGE: Chen Wen (type: entity, mentioned 3x in: people/li-mutong.md, people/liao-shu-zong.md, people/xu-zongbang.md)
-- INTAKE_MISSING_PAGE: Liao Jichun (type: entity, mentioned 3x in: people/liao-ji-chun.md, people/liao-shu-zong.md, people/lin-qiong-xian.md)
-- INTAKE_MISSING_PAGE: Wenyi She (type: entity, mentioned 3x in: people/liao-ji-chun.md, people/liao-shu-zong.md, people/lin-qiong-xian.md)
-- INTAKE_MISSING_PAGE: Full Chapter (type: entity, mentioned 3x in: people/albert-chapter1-audiobook-consent-and-recording-kit.md, people/albert-chapter1-zh-hsiaochen-full-review.md, people/albert-chapter1-zh-review.md)
-- INTAKE_MISSING_PAGE: National Taiwan Normal University (type: entity, mentioned 3x in: people/chen-zhefu-xu-chunhui.md, people/huang-gen-shen.md, people/wang-yao-ting-xie-xiulan.md)
-- INTAKE_MISSING_PAGE: California Hotel (type: entity, mentioned 3x in: people/chen-wenxue.md, people/chen-zhefu-xu-chunhui.md, people/li-mutong.md)
-- INTAKE_MISSING_PAGE: Ramada Inn (type: entity, mentioned 3x in: people/chen-zhefu-xu-chunhui.md, people/li-mutong.md, people/wang-gui-rong.md)
-- INTAKE_MISSING_PAGE: Wang Yao (type: entity, mentioned 3x in: people/wang-yao-ting-xie-xiulan.md, people/wang-yao-ting.md, sources/2023-tahs-publication.md)
-- INTAKE_MISSING_PAGE: Guo Shu (type: entity, mentioned 3x in: people/guo-shu-qing.md, people/liao-shu-zong.md, people/lin-qiong-xian.md)
-- INTAKE_OK: no interaction name candidates
-- INTAKE_SUMMARY: missing=33 interaction=0
-- INTAKE_STATUS: ACTION
+- INTAKE_MISSING_PAGE: Taiwan Justice (type: entity, mentioned 59x in: people/alan-thian.md, people/bai-peiyu.md, people/cao-changqing.md (+56 more))
+- INTAKE_MISSING_PAGE: Home Tags (type: entity, mentioned 33x in: people/alan-thian.md, people/bai-peiyu.md, people/cao-changqing.md (+30 more))
+- INTAKE_MISSING_PAGE: 大洛杉磯台灣會館 (type: organization, mentioned 23x in: organizations/taiwan-center.md, people/alan-thian.md, people/chen-maoxiong.md (+20 more))
+- INTAKE_MISSING_PAGE: 全美台灣人權 (type: organization, mentioned 21x in: organizations/formosan-association-for-human-rights.md, organizations/taiwan-center.md, people/chen-maoxiong.md (+18 more))
+- INTAKE_MISSING_PAGE: Chen Shui (type: entity, mentioned 20x in: organizations/overseas-community-affairs-council.md, people/chen-maoxiong.md, people/chen-po-kong.md (+17 more))
+- INTAKE_MISSING_PAGE: Daily Archives (type: entity, mentioned 19x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-zhaonan.md (+16 more))
+- INTAKE_MISSING_PAGE: Hong Kong (type: entity, mentioned 19x in: people/albert-s-lai.md, people/chen-maoxiong.md, people/chen-po-kong.md (+16 more))
+- INTAKE_MISSING_PAGE: 行政 (type: person, mentioned 18x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-wenshi.md (+15 more))
+- INTAKE_MISSING_PAGE: 紀念獎 (type: person, mentioned 18x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-zhaonan.md (+15 more))
+- INTAKE_MISSING_PAGE: Ed Royce (type: entity, mentioned 18x in: people/alan-thian.md, people/chen-maoxiong.md, people/chen-po-kong.md (+15 more))
+- INTAKE_MISSING_PAGE: 台灣 (type: person, mentioned 17x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-zhaonan.md (+14 more))
+- INTAKE_MISSING_PAGE: 指導 (type: person, mentioned 17x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-zhaonan.md (+14 more))
+- INTAKE_MISSING_PAGE: 美台灣人 (type: person, mentioned 17x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-zhaonan.md (+14 more))
+- INTAKE_MISSING_PAGE: 許章潤 (type: person, mentioned 17x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-zhaonan.md (+14 more))
+- INTAKE_MISSING_PAGE: 蘇貞昌 (type: person, mentioned 17x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-wenshi.md (+14 more))
+- INTAKE_MISSING_PAGE: 協會年 (type: person, mentioned 17x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-zhaonan.md (+14 more))
+- INTAKE_MISSING_PAGE: 以立音樂 (type: organization, mentioned 17x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-zhaonan.md (+14 more))
+- INTAKE_MISSING_PAGE: 台美史料 (type: organization, mentioned 17x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-zhaonan.md (+14 more))
+- INTAKE_MISSING_PAGE: 北美台灣人教授 (type: organization, mentioned 17x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-zhaonan.md (+14 more))
+- INTAKE_MISSING_PAGE: Cliff Yang (type: entity, mentioned 17x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-zhaonan.md (+14 more))
+- INTAKE_MISSING_PAGE: Marco Rubio (type: entity, mentioned 17x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-zhaonan.md (+14 more))
+- INTAKE_MISSING_PAGE: Le Bonheur (type: entity, mentioned 17x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-zhaonan.md (+14 more))
+- INTAKE_MISSING_PAGE: China Airlines (type: entity, mentioned 17x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-zhaonan.md (+14 more))
+- INTAKE_MISSING_PAGE: Nancy Pelosi (type: entity, mentioned 17x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-zhaonan.md (+14 more))
+- INTAKE_MISSING_PAGE: Jue Whei Chow (type: entity, mentioned 17x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-zhaonan.md (+14 more))
+- INTAKE_MISSING_PAGE: Albert Einstein (type: entity, mentioned 17x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-zhaonan.md (+14 more))
+- INTAKE_MISSING_PAGE: Wendy Sherman (type: entity, mentioned 17x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-zhaonan.md (+14 more))
+- INTAKE_MISSING_PAGE: 家任世衛 (type: person, mentioned 16x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-zhaonan.md (+13 more))
+- INTAKE_MISSING_PAGE: 任總統府 (type: person, mentioned 16x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-zhaonan.md (+13 more))
+- INTAKE_MISSING_PAGE: 大學 (type: person, mentioned 16x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-zhaonan.md (+13 more))
+- INTAKE_MISSING_PAGE: 周白 (type: person, mentioned 16x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-zhaonan.md (+13 more))
+- INTAKE_MISSING_PAGE: 包定 (type: person, mentioned 16x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-zhaonan.md (+13 more))
+- INTAKE_MISSING_PAGE: 角逐立法 (type: person, mentioned 16x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-zhaonan.md (+13 more))
+- INTAKE_MISSING_PAGE: 歐煌坤 (type: person, mentioned 16x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-zhaonan.md (+13 more))
+- INTAKE_MISSING_PAGE: 台灣本土 (type: person, mentioned 16x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-zhaonan.md (+13 more))
+- INTAKE_MISSING_PAGE: 北約 (type: person, mentioned 16x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-zhaonan.md (+13 more))
+- INTAKE_MISSING_PAGE: 生會候選 (type: person, mentioned 16x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-zhaonan.md (+13 more))
+- INTAKE_MISSING_PAGE: 法學 (type: person, mentioned 16x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-zhaonan.md (+13 more))
+- INTAKE_MISSING_PAGE: 遠的民主 (type: person, mentioned 16x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-zhaonan.md (+13 more))
+- INTAKE_MISSING_PAGE: 擔任監察 (type: person, mentioned 16x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-zhaonan.md (+13 more))
 
 ### Cron selfcheck
 - CRON_SUMMARY: fail=0 warn=0 jobs=0
 - CRON_STATUS: OK
 
 ### Queue drain (programmable)
-- DRAIN: people/yang-yueqing.md → ['refresh last_reviewed']
-- DRAIN: people/wang-dan.md → ['refresh last_reviewed']
-- DRAIN: people/wang-shufen.md → ['refresh last_reviewed']
-- DRAIN: people/wei-jingsheng.md → ['refresh last_reviewed']
-- DRAIN: people/wu-lipei.md → ['refresh last_reviewed']
+- DRAIN: people/chen-meihui.md → ['NO_SAFE_ACT (needs human/agent for body links)']
+- DRAIN: people/zhang-xinhui.md → ['refresh last_reviewed']
+- DRAIN: people/huang-yongcheng.md → ['refresh last_reviewed']
+- DRAIN: people/nanfang-shuo.md → ['refresh last_reviewed']
+- DRAIN: people/sang-pu.md → ['refresh last_reviewed']
 - DRAIN_SUMMARY: items=5
 - DRAIN_STATUS: DONE
 
 ### Drain detail
-## Queue drain — 2026-08-06
+## Queue drain — 2026-08-07
 - Items: **5**
 
-- `people/yang-yueqing.md`: refresh last_reviewed
-- `people/wang-dan.md`: refresh last_reviewed
-- `people/wang-shufen.md`: refresh last_reviewed
-- `people/wei-jingsheng.md`: refresh last_reviewed
-- `people/wu-lipei.md`: refresh last_reviewed
+- `people/chen-meihui.md`: NO_SAFE_ACT (needs human/agent for body links)
+- `people/zhang-xinhui.md`: refresh last_reviewed
+- `people/huang-yongcheng.md`: refresh last_reviewed
+- `people/nanfang-shuo.md`: refresh last_reviewed
+- `people/sang-pu.md`: refresh last_reviewed
 
 Safe programmable only — body first-mentions still human/local agent.
 
@@ -90,22 +93,19 @@ Safe programmable only — body first-mentions still human/local agent.
 ## Intake opportunities
 
 ### Missing pages (wiki cross-ref)
-- `MISSING_PAGE: Preferred English (type: entity, mentioned 10x in: people/alan-thian.md, people/bai-weiwei.md, people/gene-tsai.md (+7 more))`
-- `MISSING_PAGE: 協會新任 (type: person, mentioned 7x in: people/freeman-huang.md, people/john-yang.md, people/leonard-hsu-jr.md (+4 more))`
-- `MISSING_PAGE: 許景鴻接 (type: person, mentioned 7x in: people/freeman-huang.md, people/john-yang.md, people/leonard-hsu-jr.md (+4 more))`
-- `MISSING_PAGE: Vice President (type: entity, mentioned 6x in: organizations/irvine-taiwanese-presbyterian-church.md, organizations/taiwanese-american-historical-society.md, people/bai-weiwei.md (+3 more))`
-- `MISSING_PAGE: Liao Shu (type: entity, mentioned 6x in: people/guo-shu-qing.md, people/liao-ji-chun.md, people/liao-shu-zong.md (+3 more))`
-- `MISSING_PAGE: Lin Qiong (type: entity, mentioned 5x in: people/guo-shu-qing.md, people/liao-ji-chun.md, people/liao-shu-zong.md (+2 more))`
-- `MISSING_PAGE: Chen Shui (type: entity, mentioned 4x in: organizations/overseas-community-affairs-council.md, people/chen-shuibian.md, people/peng-ming-min.md (+1 more))`
-- `MISSING_PAGE: Albert Ch (type: entity, mentioned 4x in: people/albert-chapter1-en-review.md, people/albert-chapter1-zh-hsiaochen-full-review.md, people/albert-chapter1-zh-review-v2.md (+1 more))`
-- `MISSING_PAGE: Ethan Yang (type: entity, mentioned 4x in: people/becky-yang.md, people/yang-jia-you.md, people/yang-zhengxiang.md (+1 more))`
-- `MISSING_PAGE: National Cheng Kung University (type: entity, mentioned 4x in: people/chen-wenshi.md, people/li-mutong.md, people/mingyuan-hsu.md (+1 more))`
-- `MISSING_PAGE: Peng Ming (type: entity, mentioned 4x in: people/liao-shu-zong.md, people/peng-ming-min.md, people/xu-zongbang.md (+1 more))`
-- `MISSING_PAGE: The Persistence (type: entity, mentioned 4x in: people/guo-shu-qing.md, people/liao-ji-chun.md, people/liao-shu-zong.md (+1 more))`
+- `MISSING_PAGE: Taiwan Justice (type: entity, mentioned 59x in: people/alan-thian.md, people/bai-peiyu.md, people/cao-changqing.md (+56 more))`
+- `MISSING_PAGE: Home Tags (type: entity, mentioned 33x in: people/alan-thian.md, people/bai-peiyu.md, people/cao-changqing.md (+30 more))`
+- `MISSING_PAGE: 大洛杉磯台灣會館 (type: organization, mentioned 23x in: organizations/taiwan-center.md, people/alan-thian.md, people/chen-maoxiong.md (+20 more))`
+- `MISSING_PAGE: 全美台灣人權 (type: organization, mentioned 21x in: organizations/formosan-association-for-human-rights.md, organizations/taiwan-center.md, people/chen-maoxiong.md (+18 more))`
+- `MISSING_PAGE: Chen Shui (type: entity, mentioned 20x in: organizations/overseas-community-affairs-council.md, people/chen-maoxiong.md, people/chen-po-kong.md (+17 more))`
+- `MISSING_PAGE: Daily Archives (type: entity, mentioned 19x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-zhaonan.md (+16 more))`
+- `MISSING_PAGE: Hong Kong (type: entity, mentioned 19x in: people/albert-s-lai.md, people/chen-maoxiong.md, people/chen-po-kong.md (+16 more))`
+- `MISSING_PAGE: 行政 (type: person, mentioned 18x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-wenshi.md (+15 more))`
+- `MISSING_PAGE: 紀念獎 (type: person, mentioned 18x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-zhaonan.md (+15 more))`
+- `MISSING_PAGE: Ed Royce (type: entity, mentioned 18x in: people/alan-thian.md, people/chen-maoxiong.md, people/chen-po-kong.md (+15 more))`
+- `MISSING_PAGE: 台灣 (type: person, mentioned 17x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-zhaonan.md (+14 more))`
+- `MISSING_PAGE: 指導 (type: person, mentioned 17x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-zhaonan.md (+14 more))`
 
 - No strong interaction name candidates
 
 *Auto: no page creation — queue for human/ops.*
-### Review gate: generated cards
-- No generated cards this week
-

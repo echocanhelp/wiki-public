@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-08-07 04:35 PDT*
+*Generated: 2026-08-07 05:01 PDT*
 
 ## Orientation
 - **Entry:**  (auto-route) · **Control:** [CONTROL.md](CONTROL.md)
@@ -14,12 +14,12 @@
 - **Level:** L3
 - **L2 auto-publish on drift:** True
 - **L3 auto-push when green:** True
-- **Last good deploy:** `56311fadc1`
+- **Last good deploy:** `693101ee69`
 
 ## Content
 |- **Tier1 pages:** 305 (people 207 / orgs 89 / sources 9) · Tier2 archive: 29103
 |- **Janitor queue depth:** 5
-|- **Uncommitted files:** 2587
+|- **Uncommitted files:** 665
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 || Stage | Script | Last run | Output |
@@ -55,22 +55,22 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-08-06T05:03:00.580912-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-08-07T04:33:56.063182-07:00  ok
+    Last run:  2026-08-07T04:59:56.601199-07:00  ok
     Name:      Echopedia content analysis
     Schedule:  0 4 * * *
     Last run:  2026-08-07T04:00:58.539261-07:00  ok
     Name:      unified-watchdog
     Schedule:  every 30m
-    Last run:  2026-08-07T04:14:56.381893-07:00  error: Script exited with code 1
+    Last run:  2026-08-07T04:45:56.305034-07:00  ok
     Name:      echopedia-digest
     Schedule:  0 8 * * *
     Last run:  2026-08-06T09:01:00.360467-07:00  ok
     Name:      kanban-sync
     Schedule:  every 30m
-    Last run:  2026-08-07T04:29:57.030697-07:00  ok
+    Last run:  2026-08-07T05:00:56.561432-07:00  ok
     Name:      memory-audit
     Schedule:  0 5 * * *
-    Last run:  2026-08-06T05:00:55.053411-07:00  ok
+    Last run:  2026-08-07T05:00:57.280012-07:00  ok
     Name:      echopedia-nightly-audit
     Schedule:  0 4 * * *
     Last run:  2026-08-07T04:07:43.685613-07:00  ok
@@ -80,9 +80,6 @@ Load skill **echopedia-ops** first for any wiki work.
     Name:      echopedia-weekly-improvement
     Schedule:  0 5 * * *
     Last run:  2026-08-06T05:08:32.597505-07:00  ok
-    Name:      echopedia-ci-heal
-    Schedule:  25 4 * * *
-    Last run:  2026-08-06T04:30:30.690808-07:00  ok
     Name:      vault-unfinished-threads
     Schedule:  0 7 * * *
     Last run:  2026-08-06T08:01:04.057702-07:00  ok
@@ -90,6 +87,9 @@ Load skill **echopedia-ops** first for any wiki work.
     Schedule:  0 8 * * *
     Last run:  2026-08-06T09:08:12.078738-07:00  ok
     ⚠ Delivery failed: live adapter send to telegram:-5543616648 timed out before the coroutine was dispatched; delivery error: Telegram send failed: Timed out
+    Name:      vault-intelligence-digest
+    Schedule:  0 7 * * *
+    Last run:  2026-08-06T08:03:04.896334-07:00  ok
 ```
 
 ## Briefs
@@ -122,9 +122,9 @@ Load skill **echopedia-ops** first for any wiki work.
 | 5 4 * * * | `echopedia-scout-live` | no_agent | on | ok | `echopedia-scout-live.sh` |
 | every 1m | `vllm-thermal-scaler` | no_agent | on | ok | `vllm-thermal-scaler.sh` |
 | every 30m | `kanban-sync` | no_agent | on | ok | `kanban-sync.sh` |
-| every 30m | `unified-watchdog` | no_agent | on | error | `unified-watchdog.sh` |
+| every 30m | `unified-watchdog` | no_agent | on | ok | `unified-watchdog.sh` |
 | ? | `cron-output-rotate` | no_agent | OFF | ok | `cron-output-rotate.sh` |
-| ? | `echopedia-ci-heal` | no_agent | on | ok | `echopedia-ci-heal-wrapper.sh` |
+| ? | `echopedia-ci-heal` | no_agent | OFF | ok | `echopedia-ci-heal-wrapper.sh` |
 | ? | `echopedia-digest` | no_agent | on | ok | `echopedia-digest.sh` |
 | ? | `vault-connector-suggestions` | no_agent | on | ok | `vault-connector-suggestions.py` |
 | ? | `vault-intelligence-digest` | no_agent | on | ok | `vault-intelligence-digest.py` |

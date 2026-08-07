@@ -1,18 +1,18 @@
 ## Intake opportunities
 
 ### Missing pages (wiki cross-ref)
-- `MISSING_PAGE: Preferred English (type: entity, mentioned 10x in: people/alan-thian.md, people/bai-weiwei.md, people/gene-tsai.md (+7 more))`
-- `MISSING_PAGE: 協會新任 (type: person, mentioned 7x in: people/freeman-huang.md, people/john-yang.md, people/leonard-hsu-jr.md (+4 more))`
-- `MISSING_PAGE: 許景鴻接 (type: person, mentioned 7x in: people/freeman-huang.md, people/john-yang.md, people/leonard-hsu-jr.md (+4 more))`
-- `MISSING_PAGE: Vice President (type: entity, mentioned 6x in: organizations/irvine-taiwanese-presbyterian-church.md, organizations/taiwanese-american-historical-society.md, people/bai-weiwei.md (+3 more))`
-- `MISSING_PAGE: Liao Shu (type: entity, mentioned 6x in: people/guo-shu-qing.md, people/liao-ji-chun.md, people/liao-shu-zong.md (+3 more))`
-- `MISSING_PAGE: Lin Qiong (type: entity, mentioned 5x in: people/guo-shu-qing.md, people/liao-ji-chun.md, people/liao-shu-zong.md (+2 more))`
-- `MISSING_PAGE: Chen Shui (type: entity, mentioned 4x in: organizations/overseas-community-affairs-council.md, people/chen-shuibian.md, people/peng-ming-min.md (+1 more))`
-- `MISSING_PAGE: Albert Ch (type: entity, mentioned 4x in: people/albert-chapter1-en-review.md, people/albert-chapter1-zh-hsiaochen-full-review.md, people/albert-chapter1-zh-review-v2.md (+1 more))`
-- `MISSING_PAGE: Ethan Yang (type: entity, mentioned 4x in: people/becky-yang.md, people/yang-jia-you.md, people/yang-zhengxiang.md (+1 more))`
-- `MISSING_PAGE: National Cheng Kung University (type: entity, mentioned 4x in: people/chen-wenshi.md, people/li-mutong.md, people/mingyuan-hsu.md (+1 more))`
-- `MISSING_PAGE: Peng Ming (type: entity, mentioned 4x in: people/liao-shu-zong.md, people/peng-ming-min.md, people/xu-zongbang.md (+1 more))`
-- `MISSING_PAGE: The Persistence (type: entity, mentioned 4x in: people/guo-shu-qing.md, people/liao-ji-chun.md, people/liao-shu-zong.md (+1 more))`
+- `MISSING_PAGE: Taiwan Justice (type: entity, mentioned 59x in: people/alan-thian.md, people/bai-peiyu.md, people/cao-changqing.md (+56 more))`
+- `MISSING_PAGE: Home Tags (type: entity, mentioned 33x in: people/alan-thian.md, people/bai-peiyu.md, people/cao-changqing.md (+30 more))`
+- `MISSING_PAGE: 大洛杉磯台灣會館 (type: organization, mentioned 23x in: organizations/taiwan-center.md, people/alan-thian.md, people/chen-maoxiong.md (+20 more))`
+- `MISSING_PAGE: 全美台灣人權 (type: organization, mentioned 21x in: organizations/formosan-association-for-human-rights.md, organizations/taiwan-center.md, people/chen-maoxiong.md (+18 more))`
+- `MISSING_PAGE: Chen Shui (type: entity, mentioned 20x in: organizations/overseas-community-affairs-council.md, people/chen-maoxiong.md, people/chen-po-kong.md (+17 more))`
+- `MISSING_PAGE: Daily Archives (type: entity, mentioned 19x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-zhaonan.md (+16 more))`
+- `MISSING_PAGE: Hong Kong (type: entity, mentioned 19x in: people/albert-s-lai.md, people/chen-maoxiong.md, people/chen-po-kong.md (+16 more))`
+- `MISSING_PAGE: 行政 (type: person, mentioned 18x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-wenshi.md (+15 more))`
+- `MISSING_PAGE: 紀念獎 (type: person, mentioned 18x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-zhaonan.md (+15 more))`
+- `MISSING_PAGE: Ed Royce (type: entity, mentioned 18x in: people/alan-thian.md, people/chen-maoxiong.md, people/chen-po-kong.md (+15 more))`
+- `MISSING_PAGE: 台灣 (type: person, mentioned 17x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-zhaonan.md (+14 more))`
+- `MISSING_PAGE: 指導 (type: person, mentioned 17x in: people/chen-maoxiong.md, people/chen-po-kong.md, people/chen-zhaonan.md (+14 more))`
 
 - No strong interaction name candidates
 
