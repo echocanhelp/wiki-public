@@ -103,13 +103,13 @@ Load skill **echopedia-ops** first for any wiki work.
 | Schedule | Job | Mode | En | Last | Script |
 |----------|-----|------|----|------|--------|
 | 30 5 * * 0 | `vault-search-index-rebuild` | no_agent | on | ok | `vault-search-index-rebuild.sh` |
-| 30 8 * * * | `cron-self-audit` | no_agent | on | — | `cron-self-audit.py` |
 | every 1m | `vllm-thermal-scaler` | no_agent | on | ok | `vllm-thermal-scaler.sh` |
 | every 30m | `kanban-sync` | no_agent | on | ok | `kanban-sync.sh` |
 | every 30m | `unified-watchdog` | no_agent | on | ok | `unified-watchdog.sh` |
 | ? | `Echopedia content analysis` | no_agent | on | ok | `echopedia-content-analysis-cron.sh` |
 | ? | `cron-audit` | no_agent | on | ok | `cron-audit.py` |
 | ? | `cron-output-rotate` | no_agent | OFF | ok | `cron-output-rotate.sh` |
+| ? | `cron-self-audit` | no_agent | on | — | `cron-self-audit.py` |
 | ? | `echopedia-backlink-auditor` | AGENT | on | error | `—` |
 | ? | `echopedia-ci-heal` | AGENT | OFF | ok | `—` |
 | ? | `echopedia-digest` | no_agent | OFF | ok | `echopedia-digest.sh` |

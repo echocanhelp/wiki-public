@@ -1,4 +1,4 @@
-## Site design audit — 2026-08-07 11:14
+## Site design audit — 2026-08-07 11:22
 
 - pages_md=313
 - critical=0 high=0 medium=0
@@ -8,8 +8,9 @@
 - **SITE_DESIGN_STATUS: OK**
 
 ### LOW (1)
-- **C1** spelling signals (sample): 1 `[AGENT_SUGGESTED]`
-  - `wang-qiaoling.md: ?qiaoling`
+- **C1** spelling signals (sample): 2 `[AGENT_SUGGESTED]`
+  - `yang-yueqing.md: ?yueqing`
+  - `yang-ziqing.md: ?ziqing`
 
 ### INFO (2)
 - **B2** pinned featured pages: 47
