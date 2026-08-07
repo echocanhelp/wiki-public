@@ -13,3 +13,18 @@
 {"path": "people/huang-yongcheng.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
 {"path": "people/nanfang-shuo.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
 {"path": "people/sang-pu.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
+{"path": "people/chen-meihui.md", "findings": ["LINK_BODY_SPARSE", "LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "organizations/ntpc.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/guo-yingyan.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/xia-ming.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "people/ye-siya.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "people/chen-meihui.md", "findings": ["LINK_BODY_SPARSE", "LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "organizations/ntpc.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/guo-yingyan.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/xia-ming.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
+{"path": "people/ye-siya.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
+{"path": "people/chen-meihui.md", "findings": ["LINK_BODY_SPARSE", "LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "organizations/ntpc.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/guo-yingyan.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/xia-ming.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}
+{"path": "people/ye-siya.md", "findings": ["NO_IDENTITY_SNAPSHOT", "NO_RELATED_PAGES", "NO_LAST_REVIEWED", "LINK_UNLINKED_ENTITY"], "acts": ["refresh last_reviewed"]}

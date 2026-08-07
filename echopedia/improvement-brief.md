@@ -3,23 +3,62 @@
 ### Ops check
 - OPS_WARN: orphan script not in ops REQUIRED list: echopedia-cdn-content-check.sh
 - OPS_WARN: orphan script not in ops REQUIRED list: echopedia-first-answer.py
-- DOCS_SUMMARY: status=WARN fail=0 warn=1 ok=13 crons=27 agent=0 links_missing=0
+- DOCS_SUMMARY: status=WARN fail=0 warn=2 ok=13 crons=27 agent=3 links_missing=0
 - DOCS_STATUS: WARN
 - OPS_WARN: docs-sync WARN
 - OPS_SUMMARY: fail=0 warn=3
 - OPS_STATUS: WARN
 
 ### Deploy drift
-- DRIFT_SUMMARY: stale=0 missing_html=0
-- DRIFT_STATUS: OK
+- DRIFT_STALE_HTML: people/zhang-xuanxin (md newer by ~286m)
+- DRIFT_STALE_HTML: people/huang-diyin (md newer by ~292m)
+- DRIFT_STALE_HTML: people/zheng-quansheng (md newer by ~286m)
+- DRIFT_STALE_HTML: people/richard-d-fisher (md newer by ~292m)
+- DRIFT_STALE_HTML: people/albert-chapter1-audiobook-taiwanese-female (md newer by ~286m)
+- DRIFT_STALE_HTML: people/li-jian (md newer by ~292m)
+- DRIFT_STALE_HTML: people/zheng-wenlong (md newer by ~292m)
+- DRIFT_STALE_HTML: people/fan-jiang-ti-ang (md newer by ~292m)
+- DRIFT_STALE_HTML: people/wang-neng-xiang (md newer by ~286m)
+- DRIFT_STALE_HTML: people/yang-xin (md newer by ~286m)
+- DRIFT_STALE_HTML: people/shoki-coe (md newer by ~286m)
+- DRIFT_STALE_HTML: people/zheng-bingquan (md newer by ~292m)
+- DRIFT_STALE_HTML: people/choan-seng-song (md newer by ~286m)
+- DRIFT_STALE_HTML: people/chen-wenshi (md newer by ~292m)
+- DRIFT_STALE_HTML: people/ye-siya (md newer by ~292m)
+- DRIFT_STALE_HTML: people/alan-thian (md newer by ~292m)
+- DRIFT_STALE_HTML: people/zhang-xinhui (md newer by ~292m)
+- DRIFT_STALE_HTML: people/leonard-hsu-jr (md newer by ~292m)
+- DRIFT_STALE_HTML: people/wei-jingsheng (md newer by ~292m)
+- DRIFT_STALE_HTML: people/chaolong-kao (md newer by ~286m)
+- DRIFT_STALE_HTML: people/liao-ji-chun (md newer by ~286m)
+- DRIFT_STALE_HTML: people/zhou-wei-liang (md newer by ~286m)
+- DRIFT_STALE_HTML: people/john-yang (md newer by ~292m)
+- DRIFT_STALE_HTML: people/jin-hegui (md newer by ~292m)
+- DRIFT_STALE_HTML: people/bai-peiyu (md newer by ~292m)
+- DRIFT_STALE_HTML: people/en-sheng-pan (md newer by ~286m)
+- DRIFT_STALE_HTML: people/hu-ping (md newer by ~292m)
+- DRIFT_STALE_HTML: people/david-lee (md newer by ~286m)
+- DRIFT_STALE_HTML: people/simon-lin (md newer by ~286m)
+- DRIFT_STALE_HTML: people/wang-shufen (md newer by ~292m)
+- DRIFT_STALE_HTML: people/sunu-tsai (md newer by ~292m)
+- DRIFT_STALE_HTML: people/freeman-huang (md newer by ~292m)
+- DRIFT_STALE_HTML: people/yuan-zhihui (md newer by ~292m)
+- DRIFT_STALE_HTML: people/john-j-tkacik (md newer by ~292m)
+- DRIFT_STALE_HTML: people/pinghsi-liu (md newer by ~286m)
+- DRIFT_STALE_HTML: people/willy-pan (md newer by ~292m)
+- DRIFT_STALE_HTML: people/ken-wu (md newer by ~292m)
+- DRIFT_STALE_HTML: people/du-ao-cunfu (md newer by ~292m)
+- DRIFT_STALE_HTML: people/zou-jingwen (md newer by ~292m)
+- DRIFT_STALE_HTML: people/yi-sen-lee (md newer by ~292m)
 
 ### Knowledge freshness
 - FRESH_SUMMARY: stale=0 missing=0
 - FRESH_STATUS: OK
 
 ### Entity hints sync
+- HINTS_ADD: people/albert-chapter1-audiobook-taiwanese-female
 - HINTS_ADD: people/ye-siya
-- HINTS_SUMMARY: added=0
+- HINTS_SUMMARY: added=1
 - HINTS_STATUS: UPDATED
 
 ### Intake opportunities
@@ -70,10 +109,10 @@
 
 ### Queue drain (programmable)
 - DRAIN: people/chen-meihui.md → ['NO_SAFE_ACT (needs human/agent for body links)']
-- DRAIN: people/zhang-xinhui.md → ['refresh last_reviewed']
-- DRAIN: people/huang-yongcheng.md → ['refresh last_reviewed']
-- DRAIN: people/nanfang-shuo.md → ['refresh last_reviewed']
-- DRAIN: people/sang-pu.md → ['refresh last_reviewed']
+- DRAIN: organizations/ntpc.md → ['NO_SAFE_ACT (needs human/agent for body links)']
+- DRAIN: people/guo-yingyan.md → ['NO_SAFE_ACT (needs human/agent for body links)']
+- DRAIN: people/xia-ming.md → ['refresh last_reviewed']
+- DRAIN: people/ye-siya.md → ['refresh last_reviewed']
 - DRAIN_SUMMARY: items=5
 - DRAIN_STATUS: DONE
 
@@ -82,10 +121,10 @@
 - Items: **5**
 
 - `people/chen-meihui.md`: NO_SAFE_ACT (needs human/agent for body links)
-- `people/zhang-xinhui.md`: refresh last_reviewed
-- `people/huang-yongcheng.md`: refresh last_reviewed
-- `people/nanfang-shuo.md`: refresh last_reviewed
-- `people/sang-pu.md`: refresh last_reviewed
+- `organizations/ntpc.md`: NO_SAFE_ACT (needs human/agent for body links)
+- `people/guo-yingyan.md`: NO_SAFE_ACT (needs human/agent for body links)
+- `people/xia-ming.md`: refresh last_reviewed
+- `people/ye-siya.md`: refresh last_reviewed
 
 Safe programmable only — body first-mentions still human/local agent.
 
@@ -109,6 +148,3 @@ Safe programmable only — body first-mentions still human/local agent.
 - No strong interaction name candidates
 
 *Auto: no page creation — queue for human/ops.*
-### Review gate: generated cards
-- No generated cards this week
-

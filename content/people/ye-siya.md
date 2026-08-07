@@ -8,6 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
+last_reviewed: 2026-08-07
 ---
 
 # Yeh Ssu-ya / 葉思雅
@@ -232,3 +233,7 @@ Notable quotes and mentions of **葉思雅** in Taiwan Justice articles:
    — 抗議 南加州台大校友會邀管中閔來年會做專題演講 ◎國立台灣大學校友 2018-07-19 (2018-07-21)
 
 *...and 32 more quotes*
+
+## Related Pages
+
+- [[people/albert-s-lai|Dr. Albert S. Lai]]

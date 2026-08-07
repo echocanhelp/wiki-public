@@ -8,6 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
+last_reviewed: 2026-08-07
 ---
 
 # Xia Ming / 夏明
@@ -176,3 +177,7 @@ Notable quotes and mentions of **夏明** in Taiwan Justice articles:
    — 中共國安高層董經緯”現身”破叛逃傳聞?美專家說此舉“很有意思” (2021-10-25)
 
 *...and 9 more quotes*
+
+## Related Pages
+
+- [[people/albert-s-lai|Dr. Albert S. Lai]]

@@ -185,20 +185,12 @@
       ]
     },
     {
-      "path": "people/zhang-xinhui.md",
+      "path": "organizations/ntpc.md",
       "findings": [
-        "NO_IDENTITY_SNAPSHOT",
-        "NO_RELATED_PAGES",
-        "NO_LAST_REVIEWED",
         "LINK_UNLINKED_ENTITY"
       ],
       "hygiene": [
-        "LINK_UNLINKED_ENTITY: people/zhang-xinhui.md → organizations/taiwanese-american-historical-society",
-        "LINK_UNLINKED_ENTITY: people/zhang-xinhui.md → people/simon-lin",
-        "LINK_UNLINKED_ENTITY: people/zhang-xinhui.md → people/freeman-huang",
-        "LINK_UNLINKED_ENTITY: people/zhang-xinhui.md → people/ye-siya-zhang-xinhui",
-        "LINK_UNLINKED_ENTITY: people/zhang-xinhui.md → people/zheng-bing-quan",
-        "LINK_UNLINKED_ENTITY: people/zhang-xinhui.md → organizations/taiwanjustice-net"
+        "LINK_UNLINKED_ENTITY: organizations/ntpc.md → organizations/national-taiwanese-presbyterian-council"
       ],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
@@ -209,17 +201,12 @@
       ]
     },
     {
-      "path": "people/huang-yongcheng.md",
+      "path": "people/guo-yingyan.md",
       "findings": [
-        "NO_IDENTITY_SNAPSHOT",
-        "NO_RELATED_PAGES",
-        "NO_LAST_REVIEWED",
         "LINK_UNLINKED_ENTITY"
       ],
       "hygiene": [
-        "LINK_UNLINKED_ENTITY: people/huang-yongcheng.md → organizations/taiwanese-american-historical-society",
-        "LINK_UNLINKED_ENTITY: people/huang-yongcheng.md → people/chen-maoxiong",
-        "LINK_UNLINKED_ENTITY: people/huang-yongcheng.md → organizations/taiwanjustice-net"
+        "LINK_UNLINKED_ENTITY: people/guo-yingyan.md → sources/irvine-taiwanese-presbyterian-church"
       ],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
@@ -230,7 +217,7 @@
       ]
     },
     {
-      "path": "people/nanfang-shuo.md",
+      "path": "people/xia-ming.md",
       "findings": [
         "NO_IDENTITY_SNAPSHOT",
         "NO_RELATED_PAGES",
@@ -238,12 +225,12 @@
         "LINK_UNLINKED_ENTITY"
       ],
       "hygiene": [
-        "LINK_UNLINKED_ENTITY: people/nanfang-shuo.md → organizations/taiwanese-american-historical-society",
-        "LINK_UNLINKED_ENTITY: people/nanfang-shuo.md → people/chen-shuibian",
-        "LINK_UNLINKED_ENTITY: people/nanfang-shuo.md → people/he-qingxuan",
-        "LINK_UNLINKED_ENTITY: people/nanfang-shuo.md → people/lin-baohua",
-        "LINK_UNLINKED_ENTITY: people/nanfang-shuo.md → people/ma-yingjeou",
-        "LINK_UNLINKED_ENTITY: people/nanfang-shuo.md → organizations/taiwanjustice-net"
+        "LINK_UNLINKED_ENTITY: people/xia-ming.md → organizations/taiwanese-american-historical-society",
+        "LINK_UNLINKED_ENTITY: people/xia-ming.md → people/chen-po-kong",
+        "LINK_UNLINKED_ENTITY: people/xia-ming.md → people/chen-zhaonan",
+        "LINK_UNLINKED_ENTITY: people/xia-ming.md → people/lin-baohua",
+        "LINK_UNLINKED_ENTITY: people/xia-ming.md → people/ma-yingjeou",
+        "LINK_UNLINKED_ENTITY: people/xia-ming.md → organizations/taiwanjustice-net"
       ],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
@@ -254,7 +241,7 @@
       ]
     },
     {
-      "path": "people/sang-pu.md",
+      "path": "people/ye-siya.md",
       "findings": [
         "NO_IDENTITY_SNAPSHOT",
         "NO_RELATED_PAGES",
@@ -262,11 +249,12 @@
         "LINK_UNLINKED_ENTITY"
       ],
       "hygiene": [
-        "LINK_UNLINKED_ENTITY: people/sang-pu.md → organizations/taiwanese-american-historical-society",
-        "LINK_UNLINKED_ENTITY: people/sang-pu.md → people/chen-maoxiong",
-        "LINK_UNLINKED_ENTITY: people/sang-pu.md → people/chen-zhaonan",
-        "LINK_UNLINKED_ENTITY: people/sang-pu.md → people/yu-jie",
-        "LINK_UNLINKED_ENTITY: people/sang-pu.md → organizations/taiwanjustice-net"
+        "LINK_UNLINKED_ENTITY: people/ye-siya.md → organizations/taiwanese-american-historical-society",
+        "LINK_UNLINKED_ENTITY: people/ye-siya.md → people/simon-lin",
+        "LINK_UNLINKED_ENTITY: people/ye-siya.md → people/freeman-huang",
+        "LINK_UNLINKED_ENTITY: people/ye-siya.md → people/ye-siya-zhang-xinhui",
+        "LINK_UNLINKED_ENTITY: people/ye-siya.md → people/zheng-bing-quan",
+        "LINK_UNLINKED_ENTITY: people/ye-siya.md → organizations/taiwanjustice-net"
       ],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
@@ -280,9 +268,9 @@
   "last_candidates": 29219,
   "last_selected": [
     "people/chen-meihui.md",
-    "people/zhang-xinhui.md",
-    "people/huang-yongcheng.md",
-    "people/nanfang-shuo.md",
-    "people/sang-pu.md"
+    "organizations/ntpc.md",
+    "people/guo-yingyan.md",
+    "people/xia-ming.md",
+    "people/ye-siya.md"
   ]
 }

@@ -3,10 +3,10 @@
 - Pages with findings: **29219**
 - Queued tonight (max 5): **5**
 - Queue:
-  - `people/chen-meihui.md` age≈30.5d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
-  - `people/zhang-xinhui.md` age≈0.8d · NO_IDENTITY_SNAPSHOT, NO_RELATED_PAGES, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
-  - `people/huang-yongcheng.md` age≈0.8d · NO_IDENTITY_SNAPSHOT, NO_RELATED_PAGES, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
-  - `people/nanfang-shuo.md` age≈0.8d · NO_IDENTITY_SNAPSHOT, NO_RELATED_PAGES, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
-  - `people/sang-pu.md` age≈0.8d · NO_IDENTITY_SNAPSHOT, NO_RELATED_PAGES, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
+  - `people/chen-meihui.md` age≈30.7d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
+  - `organizations/ntpc.md` age≈30.7d · LINK_UNLINKED_ENTITY
+  - `people/guo-yingyan.md` age≈30.7d · LINK_UNLINKED_ENTITY
+  - `people/xia-ming.md` age≈0.0d · NO_IDENTITY_SNAPSHOT, NO_RELATED_PAGES, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
+  - `people/ye-siya.md` age≈0.0d · NO_IDENTITY_SNAPSHOT, NO_RELATED_PAGES, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
 - Log: `knowledge/operational/janitor-log/2026-08-07.jsonl`
 - Agent auto-apply: **False** (local pin only if enabled)
