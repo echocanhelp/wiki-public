@@ -102,6 +102,8 @@ Load skill **echopedia-ops** first for any wiki work.
 <!-- cron-inventory-meta: count=28 agent=9 bad_deliver=0 -->
 | Schedule | Job | Mode | En | Last | Script |
 |----------|-----|------|----|------|--------|
+| 31 7 * * * | `vault-intelligence-digest` | AGENT | OFF | ok | `—` |
+| 6 4 * * * | `echopedia-person-works-linker` | no_agent | on | ok | `echopedia-person-works-linker-cron.sh` |
 | 30 5 * * 0 | `vault-search-index-rebuild` | no_agent | on | ok | `vault-search-index-rebuild.sh` |
 | every 1m | `vllm-thermal-scaler` | no_agent | on | ok | `vllm-thermal-scaler.sh` |
 | every 30m | `kanban-sync` | no_agent | on | ok | `kanban-sync.sh` |
@@ -119,7 +121,6 @@ Load skill **echopedia-ops** first for any wiki work.
 | ? | `echopedia-generate-cards` | no_agent | on | ok | `echopedia-generate-cards.py` |
 | ? | `echopedia-janitor` | no_agent | on | ok | `echopedia-janitor-wrapper.sh` |
 | ? | `echopedia-nightly-audit` | AGENT | on | ok | `—` |
-| ? | `echopedia-person-works-linker` | no_agent | on | ok | `echopedia-person-works-linker-cron.sh` |
 | ? | `echopedia-quote-extractor` | AGENT | on | error | `—` |
 | ? | `echopedia-scout-live` | no_agent | on | ok | `echopedia-scout-live.sh` |
 | ? | `echopedia-site-design` | no_agent | on | ok | `echopedia-site-design-wrapper.sh` |
@@ -127,7 +128,6 @@ Load skill **echopedia-ops** first for any wiki work.
 | ? | `echopedia-weekly-improvement` | AGENT | on | ok | `—` |
 | ? | `memory-audit` | no_agent | on | ok | `memory-audit.sh` |
 | ? | `vault-connector-suggestions` | AGENT | OFF | ok | `—` |
-| ? | `vault-intelligence-digest` | AGENT | OFF | ok | `—` |
 | ? | `vault-morning-brief` | AGENT | on | ok | `—` |
 | ? | `vault-unfinished-threads` | no_agent | OFF | ok | `vault-unfinished-threads.py` |
 
