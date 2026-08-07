@@ -6,7 +6,7 @@
   - `people/chen-meihui.md` age≈30.7d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
   - `organizations/ntpc.md` age≈30.7d · LINK_UNLINKED_ENTITY
   - `people/guo-yingyan.md` age≈30.7d · LINK_UNLINKED_ENTITY
-  - `people/xia-ming.md` age≈0.0d · NO_IDENTITY_SNAPSHOT, NO_RELATED_PAGES, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
-  - `people/ye-siya.md` age≈0.0d · NO_IDENTITY_SNAPSHOT, NO_RELATED_PAGES, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
+  - `people/john-chiang.md` age≈19.7d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
+  - `people/shawna-yang-ryan.md` age≈19.7d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
 - Log: `knowledge/operational/janitor-log/2026-08-07.jsonl`
 - Agent auto-apply: **False** (local pin only if enabled)

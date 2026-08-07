@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-08-07T10:04:08",
+  "last_run": "2026-08-07T10:23:39",
   "status": "OK",
   "stats": {
     "md": 313,
@@ -64,46 +64,6 @@
   ],
   "heals": [],
   "history": [
-    {
-      "at": "2026-08-02T04:22:49",
-      "status": "OK",
-      "critical": 0,
-      "high": 0,
-      "medium": 0,
-      "finding_count": 2
-    },
-    {
-      "at": "2026-08-02T04:30:50",
-      "status": "OK",
-      "critical": 0,
-      "high": 0,
-      "medium": 0,
-      "finding_count": 2
-    },
-    {
-      "at": "2026-08-02T05:00:57",
-      "status": "OK",
-      "critical": 0,
-      "high": 0,
-      "medium": 0,
-      "finding_count": 2
-    },
-    {
-      "at": "2026-08-02T05:05:00",
-      "status": "OK",
-      "critical": 0,
-      "high": 0,
-      "medium": 0,
-      "finding_count": 2
-    },
-    {
-      "at": "2026-08-03T04:20:10",
-      "status": "WARN",
-      "critical": 0,
-      "high": 0,
-      "medium": 1,
-      "finding_count": 3
-    },
     {
       "at": "2026-08-03T04:25:28",
       "status": "WARN",
@@ -298,6 +258,46 @@
     },
     {
       "at": "2026-08-07T10:04:08",
+      "status": "OK",
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "finding_count": 3
+    },
+    {
+      "at": "2026-08-07T10:14:58",
+      "status": "OK",
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "finding_count": 3
+    },
+    {
+      "at": "2026-08-07T10:14:58",
+      "status": "OK",
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "finding_count": 3
+    },
+    {
+      "at": "2026-08-07T10:18:32",
+      "status": "OK",
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "finding_count": 3
+    },
+    {
+      "at": "2026-08-07T10:22:20",
+      "status": "OK",
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "finding_count": 3
+    },
+    {
+      "at": "2026-08-07T10:23:39",
       "status": "OK",
       "critical": 0,
       "high": 0,

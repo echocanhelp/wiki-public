@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-08-07 05:10 PDT*
+*Generated: 2026-08-07 10:23 PDT*
 
 ## Orientation
 - **Entry:**  (auto-route) · **Control:** [CONTROL.md](CONTROL.md)
@@ -19,13 +19,13 @@
 ## Content
 |- **Tier1 pages:** 305 (people 207 / orgs 89 / sources 9) · Tier2 archive: 29103
 |- **Janitor queue depth:** 5
-|- **Uncommitted files:** 628
+|- **Uncommitted files:** 2565
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 || Stage | Script | Last run | Output |
 ||-------|--------|----------|--------|
 || Scout | echopedia-scout-live | daily 04:05 | 44 checked, 0 broken, 0 slow |
-|| Filter | echopedia-content-analysis | daily 04:00 | 19 scanned, 0 queued |
+|| Filter | echopedia-content-analysis | daily 04:00 | 0 scanned, 0 queued |
 || Extract | echopedia-extract-actions | daily 04:10 | knowledge/operational/extracted/ |
 || Evaluate | echopedia-evaluate-actions | daily 04:15 | knowledge/operational/evaluated/ |
 || Generate | echopedia-generate-cards | daily 04:20 | 0 cards |
@@ -55,19 +55,16 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-08-07T05:03:03.267527-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-08-07T05:09:56.765727-07:00  ok
+    Last run:  2026-08-07T10:22:04.184145-07:00  ok
     Name:      Echopedia content analysis
     Schedule:  0 4 * * *
     Last run:  2026-08-07T04:00:58.539261-07:00  ok
     Name:      unified-watchdog
     Schedule:  every 30m
-    Last run:  2026-08-07T04:45:56.305034-07:00  ok
-    Name:      echopedia-digest
-    Schedule:  0 8 * * *
-    Last run:  2026-08-06T09:01:00.360467-07:00  ok
+    Last run:  2026-08-07T10:16:02.862889-07:00  ok
     Name:      kanban-sync
     Schedule:  every 30m
-    Last run:  2026-08-07T05:00:56.561432-07:00  ok
+    Last run:  2026-08-07T10:01:02.686098-07:00  ok
     Name:      memory-audit
     Schedule:  0 5 * * *
     Last run:  2026-08-07T05:00:57.280012-07:00  ok
@@ -79,17 +76,20 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-08-07T04:01:16.249707-07:00  ok
     Name:      echopedia-weekly-improvement
     Schedule:  0 5 * * *
-    Last run:  2026-08-06T05:08:32.597505-07:00  ok
-    Name:      vault-unfinished-threads
-    Schedule:  0 7 * * *
-    Last run:  2026-08-06T08:01:04.057702-07:00  ok
-    Name:      vault-connector-suggestions
-    Schedule:  0 8 * * *
-    Last run:  2026-08-06T09:08:12.078738-07:00  ok
+    Last run:  2026-08-07T05:12:09.609353-07:00  ok
     ⚠ Delivery failed: live adapter send to telegram:-5543616648 timed out before the coroutine was dispatched; delivery error: Telegram send failed: Timed out
-    Name:      vault-intelligence-digest
-    Schedule:  0 7 * * *
-    Last run:  2026-08-06T08:03:04.896334-07:00  ok
+    Name:      echopedia-site-design
+    Schedule:  30 4 * * *
+    Last run:  2026-08-07T04:30:56.706634-07:00  ok
+    Name:      vault-search-index-rebuild
+    Schedule:  30 5 * * 0
+    Last run:  2026-08-02T05:12:46.979835-07:00  ok
+    Name:      echopedia-scout-live
+    Schedule:  5 4 * * *
+    Last run:  2026-08-07T04:06:03.358950-07:00  ok
+    Name:      echopedia-extract-actions
+    Schedule:  10 4 * * *
+    Last run:  2026-08-07T04:10:56.329001-07:00  ok
 ```
 
 ## Briefs

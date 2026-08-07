@@ -217,20 +217,18 @@
       ]
     },
     {
-      "path": "people/xia-ming.md",
+      "path": "people/john-chiang.md",
       "findings": [
-        "NO_IDENTITY_SNAPSHOT",
-        "NO_RELATED_PAGES",
-        "NO_LAST_REVIEWED",
+        "LINK_BODY_SPARSE",
         "LINK_UNLINKED_ENTITY"
       ],
       "hygiene": [
-        "LINK_UNLINKED_ENTITY: people/xia-ming.md → organizations/taiwanese-american-historical-society",
-        "LINK_UNLINKED_ENTITY: people/xia-ming.md → people/chen-po-kong",
-        "LINK_UNLINKED_ENTITY: people/xia-ming.md → people/chen-zhaonan",
-        "LINK_UNLINKED_ENTITY: people/xia-ming.md → people/lin-baohua",
-        "LINK_UNLINKED_ENTITY: people/xia-ming.md → people/ma-yingjeou",
-        "LINK_UNLINKED_ENTITY: people/xia-ming.md → organizations/taiwanjustice-net"
+        "LINK_BODY_SPARSE: people/john-chiang.md (body_wikis=1 related=5)",
+        "LINK_UNLINKED_ENTITY: people/john-chiang.md → people/alan-thian",
+        "LINK_UNLINKED_ENTITY: people/john-chiang.md → people/meifeng-tsai",
+        "LINK_UNLINKED_ENTITY: people/john-chiang.md → people/paul-chen",
+        "LINK_UNLINKED_ENTITY: people/john-chiang.md → people/yang-xin",
+        "LINK_UNLINKED_ENTITY: people/john-chiang.md → organizations/taiwanese-american-lawyers-association"
       ],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
@@ -241,20 +239,14 @@
       ]
     },
     {
-      "path": "people/ye-siya.md",
+      "path": "people/shawna-yang-ryan.md",
       "findings": [
-        "NO_IDENTITY_SNAPSHOT",
-        "NO_RELATED_PAGES",
-        "NO_LAST_REVIEWED",
+        "LINK_BODY_SPARSE",
         "LINK_UNLINKED_ENTITY"
       ],
       "hygiene": [
-        "LINK_UNLINKED_ENTITY: people/ye-siya.md → organizations/taiwanese-american-historical-society",
-        "LINK_UNLINKED_ENTITY: people/ye-siya.md → people/simon-lin",
-        "LINK_UNLINKED_ENTITY: people/ye-siya.md → people/freeman-huang",
-        "LINK_UNLINKED_ENTITY: people/ye-siya.md → people/ye-siya-zhang-xinhui",
-        "LINK_UNLINKED_ENTITY: people/ye-siya.md → people/zheng-bing-quan",
-        "LINK_UNLINKED_ENTITY: people/ye-siya.md → organizations/taiwanjustice-net"
+        "LINK_BODY_SPARSE: people/shawna-yang-ryan.md (body_wikis=1 related=5)",
+        "LINK_UNLINKED_ENTITY: people/shawna-yang-ryan.md → organizations/taiwanese-american-historical-society"
       ],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
@@ -270,7 +262,7 @@
     "people/chen-meihui.md",
     "organizations/ntpc.md",
     "people/guo-yingyan.md",
-    "people/xia-ming.md",
-    "people/ye-siya.md"
+    "people/john-chiang.md",
+    "people/shawna-yang-ryan.md"
   ]
 }

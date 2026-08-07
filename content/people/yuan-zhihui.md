@@ -8,6 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
+last_reviewed: 2026-08-07
 ---
 
 # Yuan Chih-hui / 袁智慧
@@ -269,3 +270,7 @@ Notable quotes and mentions of **袁智慧** in Taiwan Justice articles:
    — Covid-19 浩劫餘生錄 (2021-12-05)
 
 *...and 32 more quotes*
+
+## Related Pages
+
+- [[people/albert-s-lai|Dr. Albert S. Lai]]
