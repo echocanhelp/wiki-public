@@ -102,7 +102,6 @@ Load skill **echopedia-ops** first for any wiki work.
 <!-- cron-inventory-meta: count=28 agent=9 bad_deliver=0 -->
 | Schedule | Job | Mode | En | Last | Script |
 |----------|-----|------|----|------|--------|
-| 15 9 * * * | `cron-self-audit` | no_agent | on | — | `cron-self-audit.py` |
 | 30 5 * * 0 | `vault-search-index-rebuild` | no_agent | on | ok | `vault-search-index-rebuild.sh` |
 | every 1m | `vllm-thermal-scaler` | no_agent | on | ok | `vllm-thermal-scaler.sh` |
 | every 30m | `kanban-sync` | no_agent | on | ok | `kanban-sync.sh` |
@@ -110,6 +109,7 @@ Load skill **echopedia-ops** first for any wiki work.
 | ? | `Echopedia content analysis` | no_agent | on | ok | `echopedia-content-analysis-cron.sh` |
 | ? | `cron-audit` | no_agent | on | ok | `cron-audit.py` |
 | ? | `cron-output-rotate` | no_agent | OFF | ok | `cron-output-rotate.sh` |
+| ? | `cron-self-audit` | no_agent | on | — | `cron-self-audit.py` |
 | ? | `echopedia-backlink-auditor` | AGENT | on | error | `—` |
 | ? | `echopedia-ci-heal` | AGENT | OFF | ok | `—` |
 | ? | `echopedia-digest` | no_agent | OFF | ok | `echopedia-digest.sh` |
