@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-08-07T12:06:48",
+  "last_run": "2026-08-08T04:30:57",
   "status": "OK",
   "stats": {
     "md": 313,
@@ -55,8 +55,10 @@
     {
       "id": "C1",
       "sev": "LOW",
-      "msg": "spelling signals (sample): 1",
+      "msg": "spelling signals (sample): 3",
       "examples": [
+        "yang-ziqing.md: ?ziqing",
+        "yang-yueqing.md: ?yueqing",
         "wang-qiaoling.md: ?qiaoling"
       ],
       "agent": true
@@ -64,14 +66,6 @@
   ],
   "heals": [],
   "history": [
-    {
-      "at": "2026-08-07T11:03:18",
-      "status": "OK",
-      "critical": 0,
-      "high": 0,
-      "medium": 0,
-      "finding_count": 3
-    },
     {
       "at": "2026-08-07T11:03:50",
       "status": "OK",
@@ -298,6 +292,14 @@
     },
     {
       "at": "2026-08-07T12:06:48",
+      "status": "OK",
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "finding_count": 3
+    },
+    {
+      "at": "2026-08-08T04:30:57",
       "status": "OK",
       "critical": 0,
       "high": 0,

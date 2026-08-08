@@ -8,7 +8,7 @@ tags:
   - leadership
 verification_status: published
 featured: true
-last_reviewed: 2026-08-07
+last_reviewed: 2026-08-08
 ---
 # Leonard Hsu Jr. (許景鴻 / Hsu Ching-Hung)
 
