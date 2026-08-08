@@ -4,15 +4,15 @@
 | 30 5 * * 0 | `vault-search-index-rebuild` | no_agent | on | ok | `vault-search-index-rebuild.sh` |
 | every 1m | `vllm-thermal-scaler` | no_agent | on | ok | `vllm-thermal-scaler.sh` |
 | every 30m | `kanban-sync` | no_agent | on | ok | `kanban-sync.sh` |
-| every 30m | `unified-watchdog` | no_agent | on | error | `unified-watchdog.sh` |
+| every 30m | `unified-watchdog` | no_agent | on | ok | `unified-watchdog.sh` |
 | ? | `Echopedia content analysis` | no_agent | OFF | ok | `echopedia-content-analysis-cron.sh` |
-| ? | `cron-audit` | no_agent | on | ok | `cron-audit.py` |
+| ? | `cron-audit` | no_agent | OFF | ok | `cron-audit.py` |
 | ? | `cron-output-rotate` | no_agent | OFF | ok | `cron-output-rotate.sh` |
 | ? | `cron-self-audit` | no_agent | on | — | `cron-self-audit.py` |
 | ? | `echopedia-backlink-auditor` | AGENT | OFF | ok | `—` |
 | ? | `echopedia-ci-heal` | AGENT | OFF | ok | `—` |
 | ? | `echopedia-digest` | no_agent | OFF | ok | `echopedia-digest.sh` |
-| ? | `echopedia-docs-sync` | no_agent | on | ok | `echopedia-docs-sync-cron.sh` |
+| ? | `echopedia-docs-sync` | no_agent | OFF | ok | `echopedia-docs-sync-cron.sh` |
 | ? | `echopedia-evaluate-actions` | no_agent | OFF | ok | `echopedia-evaluate-actions.py` |
 | ? | `echopedia-extract-actions` | no_agent | OFF | ok | `echopedia-extract-actions.py` |
 | ? | `echopedia-generate-cards` | no_agent | OFF | ok | `echopedia-generate-cards.py` |
@@ -23,7 +23,7 @@
 | ? | `echopedia-scout-live` | no_agent | OFF | ok | `echopedia-scout-live.sh` |
 | ? | `echopedia-site-design` | no_agent | OFF | ok | `echopedia-site-design-wrapper.sh` |
 | ? | `echopedia-timeline-builder` | AGENT | OFF | ok | `—` |
-| ? | `echopedia-weekly-improvement` | AGENT | on | ok | `—` |
+| ? | `echopedia-weekly-improvement` | AGENT | OFF | ok | `—` |
 | ? | `memory-audit` | no_agent | OFF | ok | `memory-audit.sh` |
 | ? | `vault-connector-suggestions` | AGENT | OFF | ok | `—` |
 | ? | `vault-intelligence-digest` | AGENT | OFF | ok | `—` |
