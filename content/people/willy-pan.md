@@ -39,9 +39,9 @@ Articles by other authors that mention **willy-pan**: See [[sources/taiwanjustic
 Chronological events for **潘建宇**:
 
 
-### 2025 (1 events)
+### 2024 (1 events)
 
-- **2025-04-20** 📰 2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2日舉行
+- **2024-10-04** 📰 2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2日舉行
 
 ## Quotes
 

@@ -73,19 +73,18 @@ Articles by other authors that mention **黃根深**: See [[sources/taiwanjustic
 Chronological events for **黃根深**:
 
 
-### 2025 (1 events)
+### 2020 (1 events)
 
-- **2025-02-09** 🏛️ 旅美五十周年 ◎ 鄭炳全
-
-### 2024 (3 events)
-
-- **2024-03-02** 🏛️ 旅美五十周年 ◎ 鄭炳全
-- **2024-05-20** 🗳️ 台美人台加人
-- **2024-07-19** 📰 Taiwanese are Taiwanese-Please sign the petition for Census US – 2020 ◎黃根深(Ken
+- **2020-09-04** 🏛️ 旅美五十周年 ◎ 鄭炳全
 
 ### 2017 (1 events)
 
-- **2017-12-20** 🎤 全美台灣人權協會年會暨鄭南榕紀念獎、王康陸人權獎頒獎典禮 12/09 聖地牙哥舉行(得獎人鄭文龍、王泰和、黃根深)
+- **2017-11-29** 🎤 全美台灣人權協會年會暨鄭南榕紀念獎、王康陸人權獎頒獎典禮 12/09 聖地牙哥舉行(得獎人鄭文龍、王泰和、黃根深)
+
+### 2016 (2 events)
+
+- **2016-05-17** 🗳️ 台美人台加人
+- **2016-06-14** 📰 Taiwanese are Taiwanese-Please sign the petition for Census US – 2020 ◎黃根深(Ken
 
 ## Network
 

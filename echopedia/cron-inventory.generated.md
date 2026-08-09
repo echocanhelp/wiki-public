@@ -1,31 +1,31 @@
-<!-- cron-inventory-meta: count=28 agent=9 bad_deliver=0 -->
+<!-- cron-inventory-meta: count=28 agent=0 bad_deliver=0 -->
 | Schedule | Job | Mode | En | Last | Script |
 |----------|-----|------|----|------|--------|
-| 0 5 * * * | `echopedia-evaluate-actions` | no_agent | on | ok | `echopedia-evaluate-actions.py` |
-| 0 5 * * * | `echopedia-extract-actions` | no_agent | on | ok | `echopedia-extract-actions.py` |
-| 0 5 * * * | `echopedia-generate-cards` | no_agent | on | ok | `echopedia-generate-cards.py` |
-| 0 5 * * * | `echopedia-site-design` | no_agent | on | ok | `echopedia-site-design-wrapper.sh` |
-| 0 7 * * * | `echopedia-ci-heal` | AGENT | on | ok | `—` |
-| 10 3 * * * | `echopedia-nightly-audit` | AGENT | on | ok | `—` |
+| 0 5 * * * | `echopedia-quote-extractor` | no_agent | on | ok | `echopedia-quote-extractor-cron.sh` |
+| 0 7 * * * | `echopedia-ci-heal` | no_agent | on | ok | `echopedia-ci-heal-wrapper.sh` |
+| 10 3 * * * | `echopedia-nightly-audit` | no_agent | on | ok | `echopedia-nightly-audit-wrapper.sh` |
 | 10 7 * * * | `echopedia-docs-sync` | no_agent | on | ok | `echopedia-docs-sync-cron.sh` |
-| 15 7 * * * | `vault-connector-suggestions` | AGENT | on | ok | `—` |
+| 15 4 * * * | `echopedia-extract-actions` | no_agent | on | ok | `echopedia-extract-actions.py` |
+| 15 7 * * * | `vault-connector-suggestions` | no_agent | OFF | ok | `vault-connector-suggestions-cron.sh` |
+| 20 4 * * * | `echopedia-evaluate-actions` | no_agent | on | ok | `echopedia-evaluate-actions.py` |
+| 20 5 * * * | `echopedia-timeline-builder` | no_agent | on | ok | `echopedia-timeline-builder-cron.sh` |
 | 20 7 * * * | `echopedia-digest` | no_agent | on | ok | `echopedia-digest.sh` |
+| 25 4 * * * | `echopedia-generate-cards` | no_agent | on | ok | `echopedia-generate-cards.py` |
+| 30 4 * * * | `echopedia-site-design` | no_agent | on | ok | `echopedia-site-design-wrapper.sh` |
 | 30 5 * * 0 | `vault-search-index-rebuild` | no_agent | on | ok | `vault-search-index-rebuild.sh` |
-| 35 6 * * * | `echopedia-timeline-builder` | AGENT | on | ok | `—` |
-| 45 8 * * * | `cron-self-audit` | no_agent | on | ok | `cron-self-audit.py` |
+| 30 8 * * * | `cron-self-audit` | no_agent | on | ok | `cron-self-audit.py` |
+| 40 4 * * * | `echopedia-backlink-auditor` | no_agent | on | ok | `echopedia-backlink-auditor-cron.sh` |
 | 5 3 * * * | `Echopedia content analysis` | no_agent | on | ok | `echopedia-content-analysis-cron.sh` |
 | 5 3 * * * | `cron-output-rotate` | no_agent | on | ok | `cron-output-rotate.sh` |
 | 5 4 * * * | `echopedia-scout-live` | no_agent | on | ok | `echopedia-scout-live.sh` |
-| 5 5 * * * | `echopedia-backlink-auditor` | AGENT | on | ok | `—` |
-| 5 7 * * * | `echopedia-weekly-improvement` | AGENT | on | ok | `—` |
+| 5 7 * * 0 | `echopedia-weekly-improvement` | no_agent | on | ok | `echopedia-weekly-improvement.sh` |
 | 50 3 * * * | `echopedia-janitor` | no_agent | on | ok | `echopedia-janitor-wrapper.sh` |
-| 50 5 * * * | `echopedia-quote-extractor` | AGENT | on | ok | `—` |
 | 50 6 * * * | `cron-audit` | no_agent | on | ok | `cron-audit.py` |
-| 50 6 * * * | `vault-unfinished-threads` | no_agent | on | ok | `vault-unfinished-threads.py` |
-| 55 7 * * * | `memory-audit` | no_agent | on | ok | `memory-audit.sh` |
-| 55 7 * * * | `vault-morning-brief` | AGENT | on | ok | `—` |
+| 50 6 * * * | `vault-unfinished-threads` | no_agent | OFF | ok | `vault-unfinished-threads.py` |
+| 50 7 * * * | `memory-audit` | no_agent | on | ok | `memory-audit.sh` |
+| 55 7 * * * | `vault-morning-brief` | no_agent | on | ok | `vault-morning-brief.py` |
 | 6 4 * * * | `echopedia-person-works-linker` | no_agent | on | ok | `echopedia-person-works-linker-cron.sh` |
-| 6 7 * * * | `vault-intelligence-digest` | AGENT | on | ok | `—` |
+| 6 7 * * * | `vault-intelligence-digest` | no_agent | OFF | ok | `vault-intelligence-digest.py` |
 | every 1m | `vllm-thermal-scaler` | no_agent | on | ok | `vllm-thermal-scaler.sh` |
 | every 30m | `kanban-sync` | no_agent | on | ok | `kanban-sync.sh` |
 | every 30m | `unified-watchdog` | no_agent | on | ok | `unified-watchdog.sh` |
