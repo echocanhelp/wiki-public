@@ -141,4 +141,28 @@ Do not claim COMPLETE without §2 checklist.
 
 ---
 
-*Related: USER_MANUAL command language · large-document-ingestion (if single pages huge) · echopedia-ingestion-protocol · FEATURE_ADD (if new scraper tool).*
+## 8. Delta refresh vs full ingest (source continuity)
+
+**Full ingest** (`Echopedia website <domain>`) = Gate A one-shot (this doc §2–3).  
+**Continuity** = live-small sites only, registry-driven, **Sunday 06:00** job `echopedia-source-continuity` (`no_agent`).
+
+| | Full WEBSITE_INGEST | Source continuity |
+|--|---------------------|-------------------|
+| When | New site / major rebuild | Weekly watch of **already ingested** live sites |
+| SSOT | This doc | `knowledge/operational/source-watch-registry.json` + `source-continuity.md` |
+| Cron | None (on demand) | **+1** Sunday 06:00 only |
+| AUTO | N/A (agent/planner) | Tier2 append, `last_reviewed`, clean event stubs |
+| Push | `echopedia-publish.sh` | **Never** — rides **ci-heal** |
+
+**After COMPLETE live site:**  
+`go Echopedia watch add <domain>` → check → baseline → enable (no jobs.json edit).
+
+**Refresh command meaning:**  
+- Prefer continuity for watched sites (automatic).  
+- `Echopedia refresh <domain>` still means full bar unless site is watch-enabled (then delta is enough).
+
+Ops: `knowledge/operational/source-continuity.md`
+
+---
+
+*Related: USER_MANUAL command language · source-continuity.md · large-document-ingestion · echopedia-ingestion-protocol · FEATURE_ADD.*

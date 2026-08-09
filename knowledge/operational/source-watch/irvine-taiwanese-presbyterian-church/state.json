@@ -1,0 +1,151 @@
+{
+  "id": "irvine-taiwanese-presbyterian-church",
+  "urls": {
+    "https://www.irvinetpc.org/": {
+      "hash": "84eb71e0d95f01e35ed844635bf76a3d",
+      "len": 9261,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.irvinetpc.org/index.html": {
+      "hash": "84eb71e0d95f01e35ed844635bf76a3d",
+      "len": 9261,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.irvinetpc.org/About/AboutUs.html": {
+      "hash": "8c8c32fddfce98fd832c05bc340e6e89",
+      "len": 4382,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.irvinetpc.org/About/Pastor.html": {
+      "hash": "4638b9a91eade5ae076ee50c949793b7",
+      "len": 4625,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.irvinetpc.org/About/Organization.html": {
+      "hash": "79febead29a5085b91f1723a9ecf4a70",
+      "len": 6746,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.irvinetpc.org/MinistriesPrograms/Programs.html": {
+      "hash": "94fe33f824bfe88663fd23ab4bf5eeff",
+      "len": 4090,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.irvinetpc.org/MinistriesPrograms/Worship.html": {
+      "hash": "dee715391bdb5a3486aa1dc7d0f2c663",
+      "len": 5004,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.irvinetpc.org/MinistriesPrograms/ComputerClass.html": {
+      "hash": "5010cf5a9b5f886e715e7e862fe2de10",
+      "len": 5803,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.irvinetpc.org/MinistriesPrograms/SeniorClass.html": {
+      "hash": "85340420ae39e1655c2297023f3003cd",
+      "len": 86067,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.irvinetpc.org/MinistriesPrograms/SmallGroups.html": {
+      "hash": "d876094b16653310c70ae3df5d432958",
+      "len": 5138,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.irvinetpc.org/MinistriesPrograms/BibleStudy.html": {
+      "hash": "a1092dbd6b6dfaf608fc6aa015737b2c",
+      "len": 4578,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.irvinetpc.org/UsefulLinks/Links.html": {
+      "hash": "4569ae2a5b0925869474e71c9fd555a4",
+      "len": 4478,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.irvinetpc.org/Media/Media.html": {
+      "hash": "7012b9320d358bdb8c642973704c4304",
+      "len": 4357,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.irvinetpc.org/Media/Music/music.html": {
+      "hash": "8c8f6d4b7b7d220292624d79606bf246",
+      "len": 5919,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.irvinetpc.org/Media/Photos/photos.html": {
+      "hash": "e02ba131e34c525bc6d3fd8a9a463f0b",
+      "len": 11846,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.irvinetpc.org/Media/Videos/Videos.html": {
+      "hash": "d9feb818171f28f62634f8b83d3e6f5f",
+      "len": 25295,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.irvinetpc.org/Media/Music/pastmusic.html": {
+      "hash": "2cfbf071f82ccb6aea124514b955180b",
+      "len": 6800,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.irvinetpc.org/Media/Sermons/Sermons.html": {
+      "hash": "a5d1a1a2530796cef521a0187341e331",
+      "len": 210393,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.irvinetpc.org/Media/Publications/publications.html": {
+      "hash": "2b7e4b83bff6d4f658a96688afd9c5f8",
+      "len": 2575,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.irvinetpc.org/Directions.html": {
+      "hash": "ad98250acfd3180fe22b7c309b9258ca",
+      "len": 5011,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.irvinetpc.org/Contact/Contact.html": {
+      "hash": "38a7152edb66df783af70efda1e6e316",
+      "len": 3681,
+      "code": 200,
+      "baseline": true
+    },
+    "http://irvinetpc.org/MinistriesPrograms/BibleStudy.html": {
+      "hash": "a1092dbd6b6dfaf608fc6aa015737b2c",
+      "len": 4578,
+      "code": 200,
+      "baseline": true
+    },
+    "http://irvinetpc.org/MinistriesPrograms/SmallGroups.html": {
+      "hash": "d876094b16653310c70ae3df5d432958",
+      "len": 5138,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.irvine-tpc.org/": {
+      "hash": null,
+      "len": 0,
+      "code": 0,
+      "baseline": true
+    }
+  },
+  "last_poll": "2026-08-09T21:02:46Z",
+  "baseline_at": "2026-08-09T21:02:46Z"
+}

@@ -153,6 +153,8 @@ GSTPC is a congregation within the [[organizations/presbyterian-church-in-taiwan
 
 ## Related Pages
 
+- [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
+- [[organizations/irvine-taiwanese-presbyterian-church|Irvine Taiwanese Presbyterian Church (ITPC)]]
 - [[people/mingyuan-hsu|Rev. Ming Yuan Hsu (許明遠牧師)]]
 - [[people/david-huang|Rev. David Huang (黃德利)]]
 - [[people/alexander-macdonald|Dr. James L. Maxwell (馬偕博士)]]

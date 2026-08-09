@@ -67,22 +67,19 @@ The org graph defines **who exists**, **what they own**, and **how they connect*
 
 ## Work Graphs (dynamic — what's running now)
 
-### Nightly pipeline (primary)
+### Nightly pipeline (primary, local wall clock)
 
 ```
-04:00 ──► janitor (disk cleanup, no_agent)
-         │
-         ▼ (04:15)
-04:15 ──► ci-heal (site audit, drain, drift, publish, smoke, L3 push)
-         │
-         ▼ (04:30)
-04:30 ──► site-design audit-only (no deploy, verify post-push)
-         │
-         ▼ (09:00)
-09:00 ──► digest (daily report)
+03:05–05:30  sense / scout / extract-eval-gen / deepen (all no_agent)
+07:00      ──► ci-heal (L2 heal + L3 push when green)  ← only nightly pusher
+07:20      ──► digest (tagged dashboard)
+07:55      ──► vault-morning-brief (🔴 NEED YOU first)
+08:30      ──► cron-self-audit
 ```
 
-Each step: input artifacts in `echo-system/`, output in `echo-system/`, delivery to `telegram:6769573480`.
+SSOT schedule: pinto `jobs.json`. Deliver: `telegram:-5543616648` (System).  
+Labels: ✅ AUTO · 🟡 QUEUE · 🔴 NEED YOU — `knowledge/operational/cron-notify-labels.md`.
+
 
 ### Publication depth pass (epic: t_6e7cccd4)
 

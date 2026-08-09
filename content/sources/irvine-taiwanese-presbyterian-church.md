@@ -30,6 +30,8 @@ Official website of the **[[organizations/irvine-taiwanese-presbyterian-church|I
 
 **Not on-domain (not archived):** Facebook, YouTube, external media.
 
+- **Continuity:** watched (`source-watch-registry` id=`irvine-taiwanese-presbyterian-church`; Sunday job)
+
 ## How Echopedia uses this source
 
 1. Facts applied to **[[organizations/irvine-taiwanese-presbyterian-church|ITPC]]** primary page

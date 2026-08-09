@@ -39,6 +39,8 @@ Official website of the **[[organizations/taiwan-center|Taiwan Center Foundation
 - **10** event pages under `content/events/tc-event-*`
 - School teachers as people pages
 
+- **Continuity:** watched (`source-watch-registry` id=`taiwancenter-org`; Sunday job)
+
 ## How Echopedia uses this source
 
 1. Facts applied to **[[organizations/taiwan-center|Taiwan Center]]** primary page  

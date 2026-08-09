@@ -1,0 +1,247 @@
+{
+  "id": "good-shepherd-taiwanese-presbyterian-church",
+  "urls": {
+    "https://gstpc.org/home/": {
+      "hash": "e8324dad933d20f6b95fadc4093e73f4",
+      "len": 18695,
+      "code": 200,
+      "baseline": true
+    },
+    "https://gstpc.org/home/xmlrpc.php": {
+      "hash": null,
+      "len": 0,
+      "code": 405,
+      "baseline": true
+    },
+    "https://gstpc.org/home/feed/": {
+      "hash": "62a69d5846967575f9e53f8fbdc5ae97",
+      "len": 40868,
+      "code": 200,
+      "baseline": true
+    },
+    "https://gstpc.org/home/comments/feed/": {
+      "hash": "0b121220d45146bc13bed076060a342f",
+      "len": 737,
+      "code": 200,
+      "baseline": true
+    },
+    "https://gstpc.org/home/wprhe_qrcode_style.css ": {
+      "hash": null,
+      "len": 0,
+      "code": 404,
+      "baseline": true
+    },
+    "https://gstpc.org/home/wp-content/plugins/simple-download-monitor/css/sdm_wp_styles.css ": {
+      "hash": "47d92aed7b874fe1b6759b9700bed68d",
+      "len": 14509,
+      "code": 200,
+      "baseline": true
+    },
+    "https://gstpc.org/home/wp-content/themes/hueman/assets/front/css/main.min.css ": {
+      "hash": "d39b765a83700d723062c2030cad7c73",
+      "len": 94304,
+      "code": 200,
+      "baseline": true
+    },
+    "https://gstpc.org/home/wp-content/themes/hueman/assets/front/css/font-awesome.min.css ": {
+      "hash": "afb3424efba0a9b90ef66425cae5f571",
+      "len": 59361,
+      "code": 200,
+      "baseline": true
+    },
+    "https://gstpc.org/home/wp-content/plugins/simple-lightbox/client/css/app.css ": {
+      "hash": "a72972ba5538156db48b6714082da029",
+      "len": 230,
+      "code": 200,
+      "baseline": true
+    },
+    "https://gstpc.org/home/wp-content/plugins/youtube-embed-plus/styles/ytprefs.min.css ": {
+      "hash": "8d51db7b43089d7781f8353156f0ef89",
+      "len": 8215,
+      "code": 200,
+      "baseline": true
+    },
+    "https://gstpc.org/home/wp-json/": {
+      "hash": "d9cd4b65b308116b77eefdf7bc87d64b",
+      "len": 378602,
+      "code": 200,
+      "baseline": true
+    },
+    "https://gstpc.org/home/wp-json/wp/v2/pages/2220": {
+      "hash": "986d2023cd33277ea0e91ec89c49bc10",
+      "len": 5913,
+      "code": 200,
+      "baseline": true
+    },
+    "https://gstpc.org/home/xmlrpc.php?rsd": {
+      "hash": "564bda369a5d18c590f1d9b1e80e6f61",
+      "len": 767,
+      "code": 200,
+      "baseline": true
+    },
+    "https://gstpc.org/home/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgstpc.org%2Fhome%2F": {
+      "hash": "1a3a3fadb5e91fd1b7817caf6f2b87b6",
+      "len": 2319,
+      "code": 200,
+      "baseline": true
+    },
+    "https://gstpc.org/home/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgstpc.org%2Fhome%2F&#038;format=xml": {
+      "hash": "091be6b36e2c161f633f1ade71606e78",
+      "len": 2319,
+      "code": 200,
+      "baseline": true
+    },
+    "https://gstpc.org/home/wp-content/themes/hueman/assets/front/webfonts/fa-brands-400.woff2 ": {
+      "hash": "192cd88373c03110cc8fb8427117a542",
+      "len": 74160,
+      "code": 200,
+      "baseline": true
+    },
+    "https://gstpc.org/home/wp-content/themes/hueman/assets/front/webfonts/fa-regular-400.woff2 ": {
+      "hash": "50aefeb32f4946f9a76aba94b4cca704",
+      "len": 12837,
+      "code": 200,
+      "baseline": true
+    },
+    "https://gstpc.org/home/wp-content/themes/hueman/assets/front/webfonts/fa-solid-900.woff2 ": {
+      "hash": "415c47ae9f61f5dcd85e69196d4b1ef9",
+      "len": 75825,
+      "code": 200,
+      "baseline": true
+    },
+    "https://gstpc.org/home/#content": {
+      "hash": "e8324dad933d20f6b95fadc4093e73f4",
+      "len": 18695,
+      "code": 200,
+      "baseline": true
+    },
+    "https://gstpc.org/home": {
+      "hash": "e8324dad933d20f6b95fadc4093e73f4",
+      "len": 18695,
+      "code": 200,
+      "baseline": true
+    },
+    "https://gstpc.org/home/worship-live/": {
+      "hash": "cd992196526b567e32be94ae9d3bdfa1",
+      "len": 23711,
+      "code": 200,
+      "baseline": true
+    },
+    "https://gstpc.org/home/childrens-ministry/": {
+      "hash": "1390dd47d1658ea3b7116ec8b08b9533",
+      "len": 19480,
+      "code": 200,
+      "baseline": true
+    },
+    "https://gstpc.org/home/digital-bulletin/": {
+      "hash": "fca2dfc335bea3e5a398b2ab18e97ac4",
+      "len": 17286,
+      "code": 200,
+      "baseline": true
+    },
+    "https://gstpc.org/home/about-us/": {
+      "hash": "f20384cb41e2a6a6294ee29fd5af8349",
+      "len": 18093,
+      "code": 200,
+      "baseline": true
+    },
+    "https://gstpc.org/home/our-vision/": {
+      "hash": "2418670eb72da22d23102f5a06d52b5c",
+      "len": 17833,
+      "code": 200,
+      "baseline": true
+    },
+    "https://gstpc.org/home/our-pastor/": {
+      "hash": "e7bb44330700d8cb89199f00506a4f9e",
+      "len": 17835,
+      "code": 200,
+      "baseline": true
+    },
+    "https://gstpc.org/home/resources/": {
+      "hash": "8355377c8406a914d04ec40254cc77fa",
+      "len": 24211,
+      "code": 200,
+      "baseline": true
+    },
+    "https://gstpc.org/home/media/": {
+      "hash": "541ee628fa18f18880491bbd0976a982",
+      "len": 22496,
+      "code": 200,
+      "baseline": true
+    },
+    "https://gstpc.org/home/devotion-archive/": {
+      "hash": "2aa5bdfc8bed03fe728330a91e153d49",
+      "len": 47578,
+      "code": 200,
+      "baseline": true
+    },
+    "https://gstpc.org/home/bulletin-archive/": {
+      "hash": "c975b816b1c6e6bab34bf7a8bc1a31a7",
+      "len": 179087,
+      "code": 200,
+      "baseline": true
+    },
+    "https://gstpc.org/home/discipleship/": {
+      "hash": "2c7f9ea4b429c975e4a8b76d50cda82f",
+      "len": 19603,
+      "code": 200,
+      "baseline": true
+    },
+    "https://gstpc.org/home/get/gstpc40-ebook": {
+      "hash": "90547cc7705bb417e269636cb55326e4",
+      "len": 1331,
+      "code": 200,
+      "baseline": true
+    },
+    "https://gstpc.org/home/tpc/": {
+      "hash": "58818c7b3a37ca5389dc3b97d746bc5e",
+      "len": 23202,
+      "code": 200,
+      "baseline": true
+    },
+    "https://gstpc.org/home/tpc-50/": {
+      "hash": "3580e49d775bddec0f158c1e6f1fe29f",
+      "len": 20500,
+      "code": 200,
+      "baseline": true
+    },
+    "https://gstpc.org/home/08-02-2026-sunday-bulletin/": {
+      "hash": "5d26904533a4b781b96e5cd8fd28d2af",
+      "len": 25389,
+      "code": 200,
+      "baseline": true
+    },
+    "https://gstpc.org/home/category/bulletin/": {
+      "hash": "e0b221480a8e91f26b9d7d254ba4b359",
+      "len": 19882,
+      "code": 200,
+      "baseline": true
+    },
+    "https://gstpc.org/home/tag/bulletin-2/": {
+      "hash": "96e9ab8fe38b7761bb75cdbdc17b1714",
+      "len": 19784,
+      "code": 200,
+      "baseline": true
+    },
+    "https://gstpc.org/home/tag/%e9%80%b1%e5%a0%b1/": {
+      "hash": "3520d24c0282b7e0ea929c46089299fe",
+      "len": 19767,
+      "code": 200,
+      "baseline": true
+    },
+    "https://gstpc.org/home/worship-live": {
+      "hash": "818756142453acf5c7eaec21255f01e8",
+      "len": 23711,
+      "code": 200,
+      "baseline": true
+    },
+    "https://gstpc.org/home/prayer-meeting/": {
+      "hash": "1ae94dfe7727762e5b842382ca0c79e3",
+      "len": 17121,
+      "code": 200,
+      "baseline": true
+    }
+  },
+  "last_poll": "2026-08-09T21:02:05Z",
+  "baseline_at": "2026-08-09T21:02:05Z"
+}

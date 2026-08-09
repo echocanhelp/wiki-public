@@ -32,21 +32,23 @@ Keep the site **usable on phone + desktop**, **structurally correct after every 
 ## Nightly slot (one pipeline family)
 
 ```
-04:00  janitor + structural audit     (sense)
-04:15  ci-heal                        (act + SINGLE push gate)
-         ├─ ops / drain
-         ├─ drift → publish
-         ├─ site-design L1 heal       ← featured/parity BEFORE push
-         ├─ smoke
-         └─ L3 push when green        ← only nightly pusher
-04:30  site-design audit-only         (verify after push; alert if still bad)
-09:00  digest
+03:05–05:30  sense / scout / extract-eval-gen / deepen   (no_agent)
+07:00        ci-heal                    (act + SINGLE push gate)
+               ├─ ops / drain
+               ├─ drift → publish
+               ├─ site-design L1 heal   ← featured/parity BEFORE push
+               ├─ smoke
+               └─ L3 push when green    ← only nightly pusher
+07:20        digest                     (tagged dashboard)
+07:55        vault-morning-brief        (🔴 NEED YOU first)
+08:30        cron-self-audit
 ```
 
 **Push policy:** Yes, push after heals — but **once**, from **ci-heal** only.  
 Site-design **never** pushes alone (avoids half-deployed layout + content races).
 
-Do not create a second parallel “layout” cron outside this slot.
+Times are **local wall clock** on pinto; SSOT: `jobs.json` / SYSTEM_STATUS inventory.
+
 
 ---
 

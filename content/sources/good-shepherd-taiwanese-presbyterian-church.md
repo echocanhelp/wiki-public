@@ -31,6 +31,8 @@ Official website of the **[[organizations/good-shepherd-taiwanese-presbyterian-c
 
 **Not on-domain (not archived):** Facebook, YouTube, external media.
 
+- **Continuity:** watched (`source-watch-registry` id=`good-shepherd-taiwanese-presbyterian-church`; Sunday job)
+
 ## How Echopedia uses this source
 
 1. Facts applied to **[[organizations/good-shepherd-taiwanese-presbyterian-church|GSTPC]]** primary page

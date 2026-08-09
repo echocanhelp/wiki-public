@@ -415,6 +415,8 @@ From I-5, take the El Toro exit west (towards Laguna Hills). Continue about 3 mi
 
 ## Related Pages
 
+- [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
+- [[organizations/good-shepherd-taiwanese-presbyterian-church|Good Shepherd Taiwanese Presbyterian Church (GSTPC)]]
 - [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan (PCT)]]
 - [[people/chen-meihui|Chen Meihui (陳美蕙)]]
 - [[people/zhang-xuanxin|Zhang Xuanxin (張宣信)]]

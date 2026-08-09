@@ -115,6 +115,12 @@ def extract_date_from_frontmatter(content):
         date_str = match.group(1)
         year = date_str[:4]
         return date_str, year
+    # Also check post_date: YYYY-MM-DD (used by TJ articles)
+    match = re.search(r'^post_date:\s*"?(\d{4}-\d{2}-\d{2})"?', content, re.MULTILINE)
+    if match:
+        date_str = match.group(1)
+        year = date_str[:4]
+        return date_str, year
     return None, None
 
 
@@ -129,10 +135,38 @@ def extract_title_from_frontmatter(content):
 def find_timeline_events(slug, chinese_name):
     """Find timeline events from articles mentioning this person.
 
-    Looks for articles that mention the person's Chinese name in the title
-    or content, and extracts dates from frontmatter or path.
+    Looks for articles that mention the person's Chinese name or English name
+    in the title or content, and extracts dates from frontmatter or path.
+    Also checks the priority-hits JSONL for pre-scored matches.
     """
     events = []
+
+    # Build search names: Chinese name + English name from slug
+    search_names = [chinese_name] if chinese_name else []
+    # Convert slug to English name (e.g., albert-s-lai → Albert S. Lai)
+    if slug:
+        en_name = slug.replace('-', ' ').title()
+        # Handle common patterns
+        en_name = en_name.replace('S Lai', 'S. Lai').replace('Hsu Jr', 'Hsu Jr.')
+        search_names.append(en_name)
+
+    # Load priority hits for this slug (pre-scored matches)
+    hits_file = REPO_ROOT / "knowledge/research/taiwanjustice-net-priority-hits.jsonl"
+    hit_paths = set()
+    if hits_file.exists():
+        try:
+            with open(hits_file, "r", encoding="utf-8") as f:
+                for line in f:
+                    line = line.strip()
+                    if not line:
+                        continue
+                    hit = json.loads(line)
+                    for match in hit.get("matches", []):
+                        if match.get("slug") == slug:
+                            hit_paths.add(hit.get("path"))
+                            break
+        except (OSError, json.JSONDecodeError):
+            pass
 
     # Search all articles
     if ARTICLES_DIR.exists():
@@ -143,7 +177,21 @@ def find_timeline_events(slug, chinese_name):
                 continue
 
             # Check if this person is mentioned
-            if chinese_name not in content:
+            rel_path = str(article_file.relative_to(REPO_ROOT))
+            mentioned = False
+
+            # Check priority hits first (pre-scored)
+            if rel_path in hit_paths:
+                mentioned = True
+
+            # Also search for Chinese or English name in content
+            if not mentioned:
+                for name in search_names:
+                    if name and name in content:
+                        mentioned = True
+                        break
+
+            if not mentioned:
                 continue
 
             # Extract date

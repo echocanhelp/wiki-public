@@ -8,10 +8,13 @@ tags:
   - Taiwan
   - certification
   - education
-verification_status: published
+verification_status: stub
 last_reviewed: 2026-07-22
 ---
 # ocac.gov.tw — Overseas Community Affairs Council website
+
+> **Status: stub / partial drift — not a full WEBSITE_INGEST.** No `web-archives/ocac*` corpus. **Not** in `source-watch-registry` (live-site continuity). Do not treat as an ingested live website until Gate A completes.
+
 
 Official website of the **[[organizations/overseas-community-affairs-council|Overseas Community Affairs Council (僑務委員會)]]**, a cabinet-level council of the Executive Yuan of the Republic of China (Taiwan).
 

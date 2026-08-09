@@ -2,8 +2,8 @@
 
 **Purpose:** How we **control**, **manage**, and **document** the system so it improves without corruption.  
 **Audience:** Human operator (Hsuperman) + planner models + local workers.  
-**Status:** Canon (2026-08-02). Update when control surfaces change — not on every bugfix.  
-**Related:** [USER_MANUAL.md](USER_MANUAL.md) (commands) · [WORKER.md](WORKER.md) (playbooks) · [WHERE_WE_ARE.md](WHERE_WE_ARE.md) (mission) · `standards.json` (autonomy) · skill `echopedia-ops` (map only) · skill **`go-router`** (universal entry)
+**Status:** Canon (2026-08-02; daily ops surface refreshed 2026-08-09). Update when control surfaces change — not on every bugfix.  
+**Related:** [USER_MANUAL.md](USER_MANUAL.md) (commands) · [WORKER.md](WORKER.md) (playbooks) · [WHERE_WE_ARE.md](WHERE_WE_ARE.md) (mission) · `standards.json` (autonomy) · skill `echopedia-ops` (map only) · skill **`go-router`** (universal entry) · [cron-notify-labels.md](../knowledge/operational/cron-notify-labels.md) (Telegram tags)
 
 ---
 
@@ -104,13 +104,16 @@ Use the **highest** surface that can do the job. Never jump to freestyle edits w
 
 ### 4.1 Daily operator (you)
 
-1. Read morning **digest** (System group).  
-2. **Green → do nothing.**  
-3. Actionable line → one command or one kanban/playbook.  
-4. New fact about a person/org →  
+1. Read **vault-morning-brief** (~07:55 local, System group) — **🔴 NEED YOU** first (≤5).  
+2. Skim **digest** (~07:20) for health strip if desired.  
+3. **Only 🔴 NEED YOU requires your reply.** ✅ AUTO = healed/machine. 🟡 QUEUE = backlog, not a gate. ℹ️ INFO = polish.  
+4. No 🔴 lines → **do nothing.**  
+5. New fact about a person/org →  
    `Echopedia <name> <fact>` (implies P8 → verify → publish path per USER_MANUAL).  
-5. New website domain →  
-   `Echopedia website <domain>` (full WEBSITE_INGEST bar, not Tier2-only).
+6. New website domain →  
+   `Echopedia website <domain>` (full WEBSITE_INGEST bar, not Tier2-only).  
+
+Tag SSOT: `knowledge/operational/cron-notify-labels.md`. Cron schedule SSOT: pinto `jobs.json` (not this essay).
 
 ### 4.2 “Something feels wrong”
 
@@ -237,17 +240,21 @@ After cron edits: run docs-sync (or wait for system-status/ci-heal). Optional: s
 
 ## 7. Operational cadence (manage without babysitting)
 
-| When | System does | You do |
-|------|-------------|--------|
+| When (local) | System does | You do |
+|--------------|-------------|--------|
 | Continuous | Watchdog, thermal | Nothing if silent |
-| 04:00–04:30 | Sense → heal → push path | Sleep |
-| 05:00 | Review pack / memory audit | Skim if digest later flags |
-| 09:00 | Digest | **Only** act on Actionables |
-| Weekly Sun | Vault index rebuild | Nothing if silent |
+| 03:05–05:30 | Sense → deepen → queue | Sleep |
+| **07:00** | **ci-heal** (only nightly push) | Sleep |
+| 07:20 | Digest (tagged) | Optional skim |
+| **07:55** | **Morning brief** | **Only 🔴 NEED YOU** |
+| 08:30 | Cron self-audit | Nothing if silent |
+| Sun 07:05 | Weekly improvement | Nothing unless 🔴 FAIL |
 | Ad hoc | — | Commands / one playbook / one plan epic |
 
-**Intervention rule (from USER_MANUAL):**  
-If digest is all green and you have no new source/fact → **do nothing**. That *is* management.
+**Intervention rule:**  
+If morning brief has no 🔴 NEED YOU and you have no new source/fact → **do nothing**. That *is* management.  
+Do **not** treat 🟡 QUEUE or “Drift: ACTION” as manual publish homework — ci-heal owns republish unless smoke/site is red.
+
 
 ---
 

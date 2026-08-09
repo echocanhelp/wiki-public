@@ -10,6 +10,7 @@ Usage:
   python3 echopedia-quote-extractor.py --person yang-jia-you --dry-run
 """
 import re
+import json
 import argparse
 from pathlib import Path
 from collections import defaultdict
@@ -120,16 +121,45 @@ def extract_date_from_frontmatter(content):
     match = re.search(r'^date:\s*"?(\d{4}-\d{2}-\d{2})"?', content, re.MULTILINE)
     if match:
         return match.group(1)
+    # Also check post_date: YYYY-MM-DD (used by TJ articles)
+    match = re.search(r'^post_date:\s*"?(\d{4}-\d{2}-\d{2})"?', content, re.MULTILINE)
+    if match:
+        return match.group(1)
     return None
 
 
 def find_quotes(slug, chinese_name):
     """Find quotes from articles mentioning this person.
 
-    Extracts text surrounding Chinese name mentions to build quote entries.
-    Filters out non-substantive mentions (e.g., just appearing in a byline).
+    Extracts text surrounding Chinese name or English name mentions to build
+    quote entries. Filters out non-substantive mentions.
     """
     quotes = []
+
+    # Build search names: Chinese name + English name from slug
+    search_names = [chinese_name] if chinese_name else []
+    if slug:
+        en_name = slug.replace('-', ' ').title()
+        en_name = en_name.replace('S Lai', 'S. Lai').replace('Hsu Jr', 'Hsu Jr.')
+        search_names.append(en_name)
+
+    # Load priority hits for this slug (pre-scored matches)
+    hits_file = REPO_ROOT / "knowledge/research/taiwanjustice-net-priority-hits.jsonl"
+    hit_paths = set()
+    if hits_file.exists():
+        try:
+            with open(hits_file, "r", encoding="utf-8") as f:
+                for line in f:
+                    line = line.strip()
+                    if not line:
+                        continue
+                    hit = json.loads(line)
+                    for match in hit.get("matches", []):
+                        if match.get("slug") == slug:
+                            hit_paths.add(hit.get("path"))
+                            break
+        except (OSError, json.JSONDecodeError):
+            pass
 
     if ARTICLES_DIR.exists():
         for article_file in ARTICLES_DIR.rglob("*.md"):
@@ -138,7 +168,18 @@ def find_quotes(slug, chinese_name):
             except (OSError, UnicodeDecodeError):
                 continue
 
-            if chinese_name not in content:
+            rel_path = str(article_file.relative_to(REPO_ROOT))
+
+            # Check if this person is mentioned
+            mentioned = False
+            if rel_path in hit_paths:
+                mentioned = True
+            if not mentioned:
+                for name in search_names:
+                    if name and name in content:
+                        mentioned = True
+                        break
+            if not mentioned:
                 continue
 
             # Skip frontmatter
@@ -148,39 +189,42 @@ def find_quotes(slug, chinese_name):
             else:
                 body = content
 
-            # Find all occurrences of the Chinese name in the body
-            for match in re.finditer(re.escape(chinese_name), body):
-                start = max(0, match.start() - CONTEXT_CHARS)
-                end = min(len(body), match.end() + CONTEXT_CHARS)
-                context = body[start:end].strip()
-
-                # Skip if context is too short or just a byline
-                if len(context) < 20:
+            # Find all occurrences of any name in the body
+            for name in search_names:
+                if not name:
                     continue
+                for match in re.finditer(re.escape(name), body):
+                    start = max(0, match.start() - CONTEXT_CHARS)
+                    end = min(len(body), match.end() + CONTEXT_CHARS)
+                    context = body[start:end].strip()
 
-                # Skip if it's just a byline (e.g., "◎ 楊嘉猷")
-                if re.match(r'^◎\s*' + re.escape(chinese_name), context):
-                    continue
+                    # Skip if context is too short or just a byline
+                    if len(context) < 20:
+                        continue
 
-                # Skip if it's just in a title tag or metadata
-                if context.startswith("title:") or context.startswith("author:"):
-                    continue
+                    # Skip if it's just a byline (e.g., "◎ 楊嘉猷")
+                    if re.match(r'^◎\s*' + re.escape(name), context):
+                        continue
 
-                # Clean up the context — remove excessive whitespace
-                context = re.sub(r'\s+', ' ', context).strip()
+                    # Skip if it's just in a title tag or metadata
+                    if context.startswith("title:") or context.startswith("author:"):
+                        continue
 
-                # Extract article metadata
-                title = extract_title_from_frontmatter(content)
-                date = extract_date_from_frontmatter(content)
-                if not date:
-                    date = extract_date_from_path(article_file)
+                    # Clean up the context — remove excessive whitespace
+                    context = re.sub(r'\s+', ' ', context).strip()
 
-                quotes.append({
-                    "quote": context,
-                    "date": date or "unknown",
-                    "source": title or article_file.stem,
-                    "path": str(article_file.relative_to(REPO_ROOT)),
-                })
+                    # Extract article metadata
+                    title = extract_title_from_frontmatter(content)
+                    date = extract_date_from_frontmatter(content)
+                    if not date:
+                        date = extract_date_from_path(article_file)
+
+                    quotes.append({
+                        "quote": context,
+                        "date": date or "unknown",
+                        "source": title or article_file.stem,
+                        "path": str(article_file.relative_to(REPO_ROOT)),
+                    })
 
     # Deduplicate by quote text
     seen = set()

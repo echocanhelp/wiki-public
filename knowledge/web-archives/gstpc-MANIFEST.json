@@ -1,0 +1,134 @@
+{
+  "version": 1,
+  "generated": "2026-08-09",
+  "note": "Baseline MANIFEST for source-continuity; append-only on deltas",
+  "count": 21,
+  "entries": [
+    {
+      "file": "knowledge/web-archives/gstpc-40th-ebook.md",
+      "bytes": 878,
+      "status": "ok",
+      "source": "seed-from-glob"
+    },
+    {
+      "file": "knowledge/web-archives/gstpc-about-us.md",
+      "bytes": 4730,
+      "status": "ok",
+      "source": "seed-from-glob"
+    },
+    {
+      "file": "knowledge/web-archives/gstpc-archive-index.md",
+      "bytes": 1681,
+      "status": "ok",
+      "source": "seed-from-glob"
+    },
+    {
+      "file": "knowledge/web-archives/gstpc-bulletin-archive.md",
+      "bytes": 22268,
+      "status": "ok",
+      "source": "seed-from-glob"
+    },
+    {
+      "file": "knowledge/web-archives/gstpc-childrens-ministry.md",
+      "bytes": 3345,
+      "status": "ok",
+      "source": "seed-from-glob"
+    },
+    {
+      "file": "knowledge/web-archives/gstpc-devotion-archive.md",
+      "bytes": 5556,
+      "status": "ok",
+      "source": "seed-from-glob"
+    },
+    {
+      "file": "knowledge/web-archives/gstpc-discipleship.md",
+      "bytes": 3189,
+      "status": "ok",
+      "source": "seed-from-glob"
+    },
+    {
+      "file": "knowledge/web-archives/gstpc-home-page.md",
+      "bytes": 2981,
+      "status": "ok",
+      "source": "seed-from-glob"
+    },
+    {
+      "file": "knowledge/web-archives/gstpc-media.md",
+      "bytes": 3758,
+      "status": "ok",
+      "source": "seed-from-glob"
+    },
+    {
+      "file": "knowledge/web-archives/gstpc-our-pastor.md",
+      "bytes": 3709,
+      "status": "ok",
+      "source": "seed-from-glob"
+    },
+    {
+      "file": "knowledge/web-archives/gstpc-our-vision.md",
+      "bytes": 3272,
+      "status": "ok",
+      "source": "seed-from-glob"
+    },
+    {
+      "file": "knowledge/web-archives/gstpc-prayer-meeting.md",
+      "bytes": 3010,
+      "status": "ok",
+      "source": "seed-from-glob"
+    },
+    {
+      "file": "knowledge/web-archives/gstpc-tpc-50.md",
+      "bytes": 3178,
+      "status": "ok",
+      "source": "seed-from-glob"
+    },
+    {
+      "file": "knowledge/web-archives/gstpc-tpc.md",
+      "bytes": 3452,
+      "status": "ok",
+      "source": "seed-from-glob"
+    },
+    {
+      "file": "knowledge/web-archives/gstpc-worship-live.md",
+      "bytes": 3412,
+      "status": "ok",
+      "source": "seed-from-glob"
+    },
+    {
+      "file": "knowledge/web-archives/gstpc_40th_anniversary.md",
+      "bytes": 1416,
+      "status": "ok",
+      "source": "seed-from-glob"
+    },
+    {
+      "file": "knowledge/web-archives/gstpc_about_us.md",
+      "bytes": 2013,
+      "status": "ok",
+      "source": "seed-from-glob"
+    },
+    {
+      "file": "knowledge/web-archives/gstpc_bulletin_pdf_list.md",
+      "bytes": 821,
+      "status": "ok",
+      "source": "seed-from-glob"
+    },
+    {
+      "file": "knowledge/web-archives/gstpc_devotion_archive.md",
+      "bytes": 2637,
+      "status": "ok",
+      "source": "seed-from-glob"
+    },
+    {
+      "file": "knowledge/web-archives/gstpc_resources.md",
+      "bytes": 2553,
+      "status": "ok",
+      "source": "seed-from-glob"
+    },
+    {
+      "file": "knowledge/web-archives/gstpc_tpc50_special.md",
+      "bytes": 1194,
+      "status": "ok",
+      "source": "seed-from-glob"
+    }
+  ]
+}

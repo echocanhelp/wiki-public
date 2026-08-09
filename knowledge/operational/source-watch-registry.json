@@ -1,0 +1,117 @@
+{
+  "version": 1,
+  "updated": "2026-08-09",
+  "global_auto_allowlist": [
+    "tier2_append",
+    "last_reviewed",
+    "event_stub"
+  ],
+  "sources": [
+    {
+      "id": "taiwancenter-org",
+      "enabled": true,
+      "class": "live-small",
+      "display_name": "Taiwan Center (taiwancenter.org)",
+      "home_url": "https://www.taiwancenter.org/",
+      "sitemap_urls": [
+        "https://www.taiwancenter.org/sitemap.xml"
+      ],
+      "seed_urls": [
+        "https://www.taiwancenter.org/",
+        "https://www.taiwancenter.org/latest-events/",
+        "https://www.taiwancenter.org/board/"
+      ],
+      "url_include_regex": null,
+      "url_exclude_regex": "wp-admin|cart|login",
+      "event_path_regex": "/event/",
+      "max_urls_per_poll": 80,
+      "cadence_days": 7,
+      "tier2_glob": "knowledge/web-archives/taiwancenter-org-*.md",
+      "manifest": "knowledge/web-archives/taiwancenter-org-MANIFEST.json",
+      "source_hub": "content/sources/taiwancenter-org.md",
+      "primary_pages": [
+        "content/organizations/taiwan-center.md"
+      ],
+      "entities_sheet": "knowledge/research/taiwancenter-org-entities.md",
+      "auto_apply": [
+        "tier2_append",
+        "last_reviewed",
+        "event_stub"
+      ],
+      "notes": "Primary live community site",
+      "added": "2026-08-09",
+      "removed": null
+    },
+    {
+      "id": "good-shepherd-taiwanese-presbyterian-church",
+      "enabled": true,
+      "class": "live-small",
+      "display_name": "GSTPC (gstpc.org)",
+      "home_url": "https://gstpc.org/home/",
+      "sitemap_urls": [
+        "https://gstpc.org/sitemap.xml",
+        "https://www.gstpc.org/sitemap.xml"
+      ],
+      "seed_urls": [
+        "https://gstpc.org/home/",
+        "https://gstpc.org/"
+      ],
+      "url_include_regex": null,
+      "url_exclude_regex": "wp-admin|cart|login",
+      "event_path_regex": "/event/|/bulletin",
+      "max_urls_per_poll": 40,
+      "cadence_days": 7,
+      "tier2_glob": "knowledge/web-archives/gstpc*.md",
+      "manifest": "knowledge/web-archives/gstpc-MANIFEST.json",
+      "source_hub": "content/sources/good-shepherd-taiwanese-presbyterian-church.md",
+      "primary_pages": [
+        "content/organizations/good-shepherd-taiwanese-presbyterian-church.md"
+      ],
+      "entities_sheet": "knowledge/research/gstpc-entities.md",
+      "auto_apply": [
+        "tier2_append",
+        "last_reviewed",
+        "event_stub"
+      ],
+      "notes": "Live church site",
+      "added": "2026-08-09",
+      "removed": null
+    },
+    {
+      "id": "irvine-taiwanese-presbyterian-church",
+      "enabled": true,
+      "class": "live-small",
+      "display_name": "ITPC (irvine-tpc / irvinetpc)",
+      "home_url": "https://www.irvinetpc.org/",
+      "sitemap_urls": [
+        "https://www.irvinetpc.org/sitemap.xml",
+        "https://www.irvine-tpc.org/sitemap.xml"
+      ],
+      "seed_urls": [
+        "https://www.irvinetpc.org/",
+        "https://www.irvine-tpc.org/"
+      ],
+      "url_include_regex": null,
+      "url_exclude_regex": "wp-admin|cart|login",
+      "event_path_regex": "/event/|/bulletin",
+      "max_urls_per_poll": 40,
+      "cadence_days": 7,
+      "tier2_glob": "knowledge/web-archives/itpc_*.md",
+      "manifest": "knowledge/web-archives/itpc-MANIFEST.json",
+      "source_hub": "content/sources/irvine-taiwanese-presbyterian-church.md",
+      "primary_pages": [
+        "content/organizations/irvine-taiwanese-presbyterian-church.md"
+      ],
+      "entities_sheet": "knowledge/research/itpc-entities.md",
+      "auto_apply": [
+        "tier2_append",
+        "last_reviewed",
+        "event_stub"
+      ],
+      "notes": "Live church; live wiki was 404 until ship publish",
+      "added": "2026-08-09",
+      "removed": null
+    }
+  ],
+  "archived_sources": []
+}

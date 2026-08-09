@@ -16,8 +16,10 @@ NEED YOU (judgment only)
   • 800 co-mention pairs
 
 💡 ACTION ITEMS                
-  1. Link: events/tc-event-2025-annual-gala-fundraising-dinner.md ↔ events/tc-event-2025-miss-taiwan-usa-news.md
-  2. Link: events/tc-event-2025-annual-gala-fundraising-dinner.md ↔ events/tc-event-2025-traditional-week.md
-  3. Link: events/tc-event-2025-annual-gala-fundraising-dinner.md ↔ events/tc-event-2026-luo-shan-ji-tai-mei-ren-chuan-tong-zhou.md
+  1. Link: organizations/democratic-progressive-party.md ↔ organizations/taiwanjustice-net.md
+  2. Link: organizations/democratic-progressive-party.md ↔ organizations/taiwanjustice-net.md
+  3. Link: organizations/democratic-progressive-party.md ↔ organizations/overseas-community-affairs-council.md
+  4. Link: organizations/democratic-progressive-party.md ↔ organizations/taiwan-center.md
+  5. Link: organizations/democratic-progressive-party.md ↔ people/david-lee.md
 
 =====================================================

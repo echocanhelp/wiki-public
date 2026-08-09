@@ -220,6 +220,8 @@ The church served as a space where Formosan immigrants could negotiate their ide
 
 ## Related Pages
 
+- [[organizations/good-shepherd-taiwanese-presbyterian-church|Good Shepherd Taiwanese Presbyterian Church (GSTPC)]]
+- [[organizations/irvine-taiwanese-presbyterian-church|Irvine Taiwanese Presbyterian Church (ITPC)]]
 - [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
 - [[sources/toward-a-community-of-hope|Toward A Community of Hope (work & full-text links)]]
 - [[organizations/democratic-progressive-party|Democratic Progressive Party (民主進步黨)]] — linked through Albert Lai's dissertation documenting the democratization history that FPCLA witnessed

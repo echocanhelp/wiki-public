@@ -1,9 +1,9 @@
 # Echopedia System Status
 
-*Generated: 2026-08-09 12:06 PDT*
+*Generated: 2026-08-09 13:06 PDT*
 
 ## Orientation
-- **Entry:**  (auto-route) · **Control:** [CONTROL.md](CONTROL.md)
+- **Entry:** go <plain language> via go-router (auto-route) · **Control:** [CONTROL.md](CONTROL.md)
 - **User manual (commands):** [USER_MANUAL.md](USER_MANUAL.md)
 - **Worker playbooks:** [WORKER.md](WORKER.md)
 - **Mission / remains:** [WHERE_WE_ARE.md](WHERE_WE_ARE.md)
@@ -14,22 +14,23 @@
 - **Level:** L3
 - **L2 auto-publish on drift:** True
 - **L3 auto-push when green:** True
-- **Last good deploy:** `1dd63bc20f`
+- **Last good deploy:** `b405b98387`
 
 ## Content
 |- **Tier1 pages:** 305 (people 207 / orgs 89 / sources 9) · Tier2 archive: 29103
 |- **Janitor queue depth:** 5
-|- **Uncommitted files:** 48
+|- **Uncommitted files:** 15
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 || Stage | Script | Last run | Output |
 ||-------|--------|----------|--------|
-|| Scout | echopedia-scout-live | daily 04:05 | 44 checked, 0 broken, 0 slow |
-|| Filter | echopedia-content-analysis | daily 04:00 | 307 scanned, 0 queued |
-|| Extract | echopedia-extract-actions | daily 04:10 | knowledge/operational/extracted/ |
-|| Evaluate | echopedia-evaluate-actions | daily 04:15 | knowledge/operational/evaluated/ |
-|| Generate | echopedia-generate-cards | daily 04:20 | 0 cards |
-|| Review | weekly-improvement | Mon 05:00 | improvement-brief.md |
+|| Scout | echopedia-scout-live | 04:05 local | 44 checked, 0 broken, 0 slow |
+|| Filter | echopedia-content-analysis | 03:05 local | 307 scanned, 0 queued |
+|| Extract | echopedia-extract-actions | 04:15 local | knowledge/operational/extracted/ |
+|| Evaluate | echopedia-evaluate-actions | 04:20 local | knowledge/operational/evaluated/ |
+|| Generate | echopedia-generate-cards | 04:25 local | 0 cards |
+|| Review | weekly-improvement | Sun 07:05 local | improvement-brief.md |
+|| Human | vault-morning-brief | 07:55 local | NEED YOU ≤5 |
 
 ## What runs automatically
 See **Cron inventory (generated)** at bottom (SSOT: pinto \`jobs.json\` via \`echopedia-docs-sync.sh\`). Do not hand-edit.
@@ -55,25 +56,25 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-08-09T11:36:03.348007-07:00  ok
     Name:      vault-morning-brief
     Schedule:  55 7 * * *
-    Last run:  2026-08-08T05:05:26.632524-07:00  ok
+    Last run:  2026-08-09T12:45:04.805898-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-08-09T12:05:05.739896-07:00  ok
+    Last run:  2026-08-09T13:05:06.358373-07:00  ok
     Name:      Echopedia content analysis
     Schedule:  5 3 * * *
-    Last run:  2026-08-09T12:03:05.379784-07:00  ok
+    Last run:  2026-08-09T12:41:43.046554-07:00  ok
     Name:      unified-watchdog
     Schedule:  every 30m
-    Last run:  2026-08-09T11:55:04.519655-07:00  ok
+    Last run:  2026-08-09T13:00:06.128233-07:00  ok
     Name:      echopedia-digest
     Schedule:  20 7 * * *
-    Last run:  2026-08-09T12:03:05.379784-07:00  ok
+    Last run:  2026-08-09T12:41:43.046554-07:00  ok
     Name:      kanban-sync
     Schedule:  every 30m
-    Last run:  2026-08-09T11:38:04.481565-07:00  ok
+    Last run:  2026-08-09T13:00:06.131838-07:00  ok
     Name:      memory-audit
     Schedule:  50 7 * * *
-    Last run:  2026-08-09T12:03:05.379784-07:00  ok
+    Last run:  2026-08-09T12:41:43.046554-07:00  ok
     Name:      echopedia-nightly-audit
     Schedule:  10 3 * * *
     Last run:  2026-08-09T12:01:55.621001-07:00  ok
@@ -82,10 +83,10 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-08-08T04:01:18.908303-07:00  ok
     Name:      echopedia-weekly-improvement
     Schedule:  5 7 * * 0
-    Last run:  2026-08-08T05:21:09.512029-07:00  ok
+    Last run:  2026-08-09T12:20:22.070252-07:00  ok
     Name:      echopedia-ci-heal
     Schedule:  0 7 * * *
-    Last run:  2026-08-09T12:04:00.367642-07:00  ok
+    Last run:  2026-08-09T12:41:43.046554-07:00  ok
     Name:      echopedia-site-design
     Schedule:  30 4 * * *
     Last run:  2026-08-08T04:30:57.410140-07:00  ok

@@ -50,7 +50,7 @@ Vault: `/home/leedt/echo-system` · Live: https://echocanhelp.github.io/wiki-pub
 
 1. **Read this file** — it defines how to assign work.
 2. **Say** `Echopedia website <domain>` — full pipeline: archive → absorb → publish.
-3. **Review the digest** at 09:00 — morning brief of what the system did.
+3. **Review the morning brief** at ~**07:55** local (System group) — only **🔴 NEED YOU** lines need you. Digest ~07:20 is optional health skim.
 
 **Command decision tree:**
 
@@ -70,7 +70,7 @@ Do you have a…
 
 ### Ingest a new website
 1. Say: `Echopedia website <domain>`
-2. Review morning digest (09:00) for progress
+2. Review morning brief (~07:55) for 🔴 NEED YOU; digest (~07:20) optional
 3. Check SYSTEM_STATUS.md for any issues
 
 ### Add a new feature (Google, Twilio, media, etc.)
@@ -157,18 +157,19 @@ Look at the **janitor queue** (depth is in SYSTEM_STATUS.md). Typical first task
    No publish. Report. STOP.
    ```
 4. **Commit** your change (P10 if you need help).
-5. **Ask for a publish** (P2) or let ci-heal pick it up at 04:15.
+5. **Ask for a publish** (P2) or let ci-heal pick it up at **07:00** local.
 
 **Goal:** You've made one verified edit that follows the standards in `standards.json`.
 
 ### What to do next
 
-- **Every morning at 09:00** — read the digest (delivered to your chat or `echopedia/digest-brief.md`).
-- **Every day at 05:00** — the improvement pack runs; review `improvement-brief.md`.
+- **Every morning ~07:55** — read **vault-morning-brief** (System). Act only on **🔴 NEED YOU**. Tags: [cron-notify-labels.md](../knowledge/operational/cron-notify-labels.md).
+- **~07:20** — digest health strip (optional). ✅ AUTO / 🟡 QUEUE are not owner homework.
+- **Sun ~07:05** — weekly improvement pack; review briefs only if 🔴 FAIL.
 - **When stuck** — check SYSTEM_STATUS.md → pick a playbook from the troubleshooting table.
 - **When adding a feature** — follow FEATURE_ADD.md (Google, Twilio, media, tools, crons).
 
-**Remember:** Humans set goals and approve plans. The worker runs one playbook exactly. The smart model plans and improves playbooks. You only intervene for content judgment, new sources, process design, or red alerts.
+**Remember:** Humans set goals and approve plans. Overnight is **no_agent**. You only intervene for content judgment, new sources, process design, or 🔴 alerts.
 
 ---
 
@@ -185,12 +186,14 @@ Look at the **janitor queue** (depth is in SYSTEM_STATUS.md). Typical first task
 
 | You say | System must do |
 |---------|----------------|
-|| **`Echopedia website <domain>`** | **Full-domain** archive + **absorb into wiki graph** + publish push — see **[WEBSITE_INGEST.md](WEBSITE_INGEST.md)** completeness bar |
-|| `Echopedia publication <name>` | Multi-entity publication ingest (yearbook, 菁英錄-style) — see **[PUBLICATION_INGEST.md](PUBLICATION_INGEST.md)** |
+| **`Echopedia website <domain>`** | **Full-domain** archive + **absorb into wiki graph** + publish push — see **[WEBSITE_INGEST.md](WEBSITE_INGEST.md)** completeness bar |
+| `Echopedia publication <name>` | Multi-entity publication ingest (yearbook, 菁英錄-style) — see **[PUBLICATION_INGEST.md](PUBLICATION_INGEST.md)** |
 | `Echopedia feature <name>` | Pin/unpin a page to homepage Featured section — see [Featured section docs](#featured-section) |
-| `Echopedia refresh <url/site>` | Same as website when target is a site; else archive→apply→publish push for that URL’s entity |
+| `Echopedia refresh <url/site>` | Full website bar for new/unwatched sites; **watched live sites** use Sunday continuity (delta) automatically |
 | `Echopedia full-domain archive <site>` | Synonym of **website** (not archive-only) |
 | `Echopedia <site>` / `Echopedia <name>` | Prefer full **website** pipeline if a domain; else entity refresh + publish push |
+| **`Echopedia watch add <domain>`** | After WEBSITE_INGEST COMPLETE: registry + baseline + enable — [source-continuity.md](../knowledge/operational/source-continuity.md) |
+| `Echopedia watch remove/pause/status` | Soft-remove / disable / list watched live sites (no cron redesign) |
 
 **“Website” completeness (not optional):**  
 Tier2 MANIFEST for whole domain → **entities/facts sheet** → `content/sources/` hub → rich primary page → **thin pages / links for valuable people & orgs** → hygiene → **publish push**.  
@@ -370,7 +373,7 @@ Then P2 commit only. You may run them or emit exact worker prompts.
 
 Edit `/home/leedt/echo-system/echopedia/standards.json` key `autonomy`, **or** worker **P6**.
 
-Nightly automation is **100% bash** (`no_agent`). See WORKER.md **AUTOMATED CRONS**.  
+Nightly automation is **100% script** (`no_agent`, agent=0). Schedule SSOT: pinto `jobs.json` / SYSTEM_STATUS generated table · narrative: WHERE_WE_ARE.  
 Workers never “reason through” cron prompts — only run scripts or P5/P11.
 
 | Flag | true means |
@@ -380,14 +383,16 @@ Workers never “reason through” cron prompts — only run scripts or P5/P11.
 | `l2_auto_commit_on_heal` | Commit heal results |
 | `l3_auto_push_on_green` | Push gh-pages when ops+drift+smoke green |
 | `l2_auto_featured_on_publish` | Auto-regenerate Featured section on every publish |
-| `l2_auto_site_design_heal` | Nightly site-design programmable heal (04:25) |
+| `l2_auto_site_design_heal` | Site-design programmable heal on ci-heal path |
 | `l2_auto_site_design_featured` | Site-design heal may re-inject featured |
 | `l2_auto_site_design_publish` | Site-design heal may publish for MD↔HTML parity |
 | `l2_site_design_blocks_green` | Escalate CRITICAL site-design (default false) |
 
 Turn off all auto-push: P6 `l3_auto_push_on_green=false`.
 
-Schedule: 04:00 janitor+audit · **04:15 ci-heal** (includes site-design heal + **only nightly push**) · **04:30 site-design audit** · 05:00 daily improvement · 09:00 digest · + infra watchdogs.
+**Local wall clock (pinto):** 03:05–05:30 sense/deepen · **07:00 ci-heal** (only nightly push) · 07:20 digest · **07:55 morning-brief** · 08:30 cron-self-audit · Sun weekly-improvement · + infra watchdogs.  
+Telegram tags: ✅ AUTO · 🟡 QUEUE · 🔴 NEED YOU — see `knowledge/operational/cron-notify-labels.md`.
+
 
 ---
 
@@ -423,22 +428,22 @@ The system runs a nightly pipeline that discovers content quality gaps on the li
 
 ## When to intervene (decision matrix)
 
-The system runs 24/7: 04:00 janitor, 04:15 ci-heal, 04:30 site-design audit, 09:00 digest. **You only intervene when the matrix below says so.** Each row maps a digest/system-status signal to a concrete action (or "do nothing").
+The system runs 24/7 (local): sense/deepen overnight · **07:00 ci-heal** · 07:20 digest · **07:55 morning-brief**. **You only intervene on 🔴 NEED YOU** (or true smoke/site FAIL). Each row maps a signal to a concrete action (or "do nothing").
 
-|| Situation | Matrix trigger | Your action |
-||-----------|---------------|-------------|
-|| System healthy, no alerts | Morning digest shows `CI: OK` / `Drift: OK` / `Janitor: clean` | **Do nothing** — system is self-healing |
-|| New content source found | User says "Echopedia website/domain/publication" | **Assign work** — see Command language (full pipeline) |
-|| Janitor queue > 0 | Digest shows `Janitor: queue (N)` | **Review queue** — P4 if items need human judgment; otherwise let nightly drain handle safe fixes |
-|| CI drift = ACTION | Digest shows `Drift: ACTION` | **Run P5** or `echopedia-publish.sh` to rebuild trees; if persistent, investigate source |
-|| CI smoke FAIL | Digest shows `CI: FAIL` | **Run P1** — ops-check + smoke-test; file incident if live site broken |
-|| Site-design CRITICAL/HIGH | Digest or 04:30 audit shows critical layout issues | **Run P13** with `site-design-brief.md` — bounded local agent pass |
-|| Broken links > 0 | Link hygiene reports BROKEN | **Run P3** per path — fix wikilinks to existing slugs only |
-|| Page needs content update | You have new facts from a source | **Run P8** with source path — worker edits only with named source |
-|| New feature/tool needed | Google, Twilio, media, new cron, API | **Feature add** — see FEATURE_ADD.md (classify A/B/C, list files) |
-|| Autonomy too aggressive | Nightly push published something wrong | **Run P6** — `l3_auto_push_on_green=false`; review, then re-enable |
-|| Standards/rules changed | You changed linking/ingest rules | **Bump standards.json version** — janitor auto-resweeps next run |
-|| Nothing in digest is actionable | All green, no new sources, no user requests | **Do nothing** — system is working as designed |
+| Situation | Matrix trigger | Your action |
+|-----------|---------------|-------------|
+| System healthy | Brief has no 🔴 NEED YOU; digest CI/services OK | **Do nothing** |
+| Identity / judgment | 🔴 NEED YOU on morning-brief | Confirm/link or resolve gap |
+| New content source | User says "Echopedia website/domain/publication" | **Assign work** — Command language |
+| Janitor queue > 0 | 🟡 QUEUE janitor N items | Usually **do nothing** (auto queue); batch P4 only if you want |
+| CI drift = ACTION | Digest shows Drift: ACTION as ✅ AUTO | **Do nothing** — ci-heal republishes; only act if smoke FAIL |
+| CI smoke FAIL | 🔴 / CI: FAIL | **Run P1** — ops-check + smoke; incident if live broken |
+| Site-design CRITICAL | site-design-brief critical | **Run P13** bounded pass |
+| Broken links backlog | 🟡 QUEUE audit counts | Optional epic — not nightly homework |
+| Page needs content update | You have new facts from a source | **Run P8** with source path |
+| New feature/tool needed | Google, Twilio, media, new cron, API | FEATURE_ADD.md |
+| Autonomy too aggressive | Wrong auto-push | **Run P6** — disable L3 push; review; re-enable |
+| Nothing actionable | No 🔴, no new sources | **Do nothing** |
 
 **Red flags (always intervene):**
 - `OPS_STATUS: FAIL` — missing scripts/skills (run `echopedia-ops-check.sh`, fix)
