@@ -459,13 +459,15 @@ The system runs 24/7: 04:00 janitor, 04:15 ci-heal, 04:30 site-design audit, 09:
 SYSTEM_STATUS.md (auto, 04:15) and the 09:00 digest surface these. Know what each means and when to act.
 
 ### Content health
-| Metric | Green | Yellow | Red | Source |
-|--------|-------|--------|-----|--------|
-| Markdown pages | growing | flat >2 weeks | shrinking | nightly audit |
-| Broken wikilinks | 0 | 1–5 | >5 | `echopedia-audit-collect.sh` |
-| Pages missing sections | 0 | 1–5 | >5 | nightly audit |
-| Stale 90D+ | <10 | 10–20 | >20 | nightly audit |
-| Orphan pages | <5 | 5–10 | >10 | nightly audit |
+|| Metric | Green | Yellow | Red | Source |
+||--------|-------|--------|-----|--------|
+|| Markdown pages | growing | flat >2 weeks | shrinking | nightly audit |
+|| Broken wikilinks | 0 | 1–5 | >5 | `echopedia-audit-collect.sh` |
+|| Pages missing sections | 0 | 1–5 | >5 | nightly audit |
+|| Stale 90D+ | <10 | 10–20 | >20 | nightly audit |
+|| Orphan pages | <5 | 5–10 | >10 | nightly audit |
+|| Taxonomy violations | 0 | 1–5 | >5 | `echopedia-taxonomy-check.py` (P1-P5) |
+|| Store growth | linear/plateau | — | runaway | `echopedia-store-snapshot.py` |
 
 ### Pipeline health
 | Metric | Green | Yellow | Red | Source |
@@ -517,8 +519,12 @@ bash /home/leedt/.hermes/scripts/echopedia-ci-heal.sh --dry-run
 | `echopedia-cdn-verify.sh` | `~/.hermes/scripts/` | Post-publish CDN 404 detection + auto-heal |
 | `echopedia-link-hygiene.py` | `~/.hermes/scripts/` | Link audit |
 | `echopedia-site-design-audit.py` | `~/.hermes/scripts/` | Site design audit |
-| `echopedia-index-sync.py` | `~/.hermes/scripts/` | Directory index sync (new pages missing from index.md) |
-| `featured-regen.py` | `echo-system/scripts/` | Featured section regen |
+|| `echopedia-index-sync.py` | `~/.hermes/scripts/` | Directory index sync (new pages missing from index.md) |
+|| `echopedia-preservation-check.py` | `~/.hermes/scripts/` | Fact preservation verification (arXiv:2607.26637) |
+|| `echopedia-taxonomy-check.py` | `~/.hermes/scripts/` | Taxonomy contract verification P1-P5 (arXiv:2607.26637) |
+|| `echopedia-store-snapshot.py` | `~/.hermes/scripts/` | Build trajectory tracking (arXiv:2607.26637) |
+|| `echopedia-bm25-search.py` | `~/.hermes/scripts/` | BM25 ranked keyword search (arXiv:2607.26637) |
+|| `featured-regen.py` | `echo-system/scripts/` | Featured section regen |
 
 ### Self-improvement pipeline scripts
 
@@ -531,6 +537,56 @@ bash /home/leedt/.hermes/scripts/echopedia-ci-heal.sh --dry-run
 | `echopedia-generate-cards.py` | `~/.hermes/scripts/` | Stage 5: Generate structured kanban task cards from evaluated actions |
 | `echopedia-review-gate.py` | `~/.hermes/scripts/` | Stage 6: Summarize generated cards for daily human review |
 | `echopedia-weekly-improvement.sh` | `~/.hermes/scripts/` | Stage 6: Daily review gate + improvement pack + drain + ci-heal |
+
+---
+
+## IDDS improvements (arXiv:2607.26637)
+
+Six improvements derived from "Filesystem-Based Memory for LLM Agents" have been integrated into the Echopedia system:
+
+### 1. Preservation rules (Step 3.5 in ingestion protocol)
+**Problem:** Condensing reorganizers without preservation rules drop facts (paper: REALTALK correctness 77.6→41.2).
+**Solution:** `echopedia-preservation-check.py` compares fact counts (bullets, dates, names, locators, numbers) before/after restructuring. Exit 1 on net loss.
+**Integration:** Called manually or as a pre-commit hook when restructuring.
+**Script:** `echopedia-preservation-check.py --before <old.md> --after <new.md>`
+
+### 2. Three-role decomposition
+**Problem:** Roles were conflated — search, management, and execution were mixed.
+**Solution:** Separated into explicit roles:
+- **Search Agent:** `echopedia-first-answer.py` with `--strategy` (survey→route→probe→verify→stop)
+- **Management Agent:** `echopedia-content-analysis-cron.sh` + ingestion protocol
+- **Execution Agent:** go-router + CONTROL.md
+**Integration:** go-router still routes to `echopedia-first-answer.py` — no change to routing.
+
+### 3. Taxonomy contract verification (P1-P5)
+**Problem:** Taxonomy adherence erodes over time; no automated checks.
+**Solution:** `echopedia-taxonomy-check.py` implements five principles:
+- P1: Sibling distinction (distinguishable titles)
+- P2: Sibling relatedness (semantic overlap in subdirectories)
+- P3: Parent-child coverage (parent index covers children)
+- P4: Tree-wide proximity (tree distance correlates with content similarity)
+- P5: Structural economy (depth levels improve routing)
+**Integration:** Runs at 3:10 AM as part of `echopedia-audit-collect.sh` (section 8d).
+
+### 4. Search cost tracking
+**Problem:** No visibility into retrieval cost (files, tool calls, tokens, rounds).
+**Solution:** `--track-cost` flag records metrics to `cache/search-cost.db`. `--cost-report` displays formatted report.
+**Integration:** Opt-in via flag; transparent to go-router.
+
+### 5. Build trajectory tracking
+**Problem:** No store growth monitoring; can't detect runaway growth or shrinkage.
+**Solution:** `echopedia-store-snapshot.py` records files, dirs, sections, crossrefs, bullets, KB, depth distribution, status distribution. Growth analysis detects linear/plateau/accelerating patterns.
+**Integration:** Runs at 3:05 AM alongside content analysis. Report at 3:10 AM in audit (section 9b).
+
+### 6. BM25/ranked search
+**Problem:** File-tool navigation is optimal for well-organized stores, but no ranked search option for exploratory queries.
+**Solution:** `echopedia-bm25-search.py` with `--build-index` and `--search-mode bm25` in `echopedia-first-answer.py`.
+**Integration:** Opt-in via `--search-mode bm25`; default remains file-tool navigation.
+
+### What does NOT benefit
+- **BM25 on current store** — pages are thin (1-5KB); file-tool navigation is already optimal
+- **Harness swapping** — Echopedia's consistent reward (accurate person/org lookup) means harness won't change outcomes
+- **Expecting economy of scale** — build effort per chunk stays flat (confirmed by trajectory report)
 
 ---
 

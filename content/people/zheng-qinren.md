@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-08
+last_reviewed: 2026-08-09
 ---
 
 # Cheng Chin-jen / 鄭欽仁
@@ -51,7 +51,7 @@ Notable quotes and mentions of **鄭欽仁** in Taiwan Justice articles:
 ### 2023 (1 quotes)
 
 1. "灣的定位，如何去東南亞建立台灣共和國的外交關係，才能合理評價廖文毅其人。 國史館表示，今天與會嘉賓還包括政治受難者前輩陳中統、陳欽生、蔡焜霖，台灣教授協會前會長鄭欽仁、台灣民主運動參與者艾琳達、中正大學政治研究所名譽教授李南雄、國家人權博物館代理副館長詹嘉慧等人。（編輯：林克倫）1120318 台灣民本主義 - 作者｜廖文毅"
-   — 陳儀深：台獨非異端，是歷史長河所提前途選項 (2023-03-22)
+   — 陳儀深：台獨非異端，是歷史長河所提前途選項 (2023-03-18)
 
 ### 2017 (2 quotes)
 

@@ -9,7 +9,7 @@ tags:
 name_en: "Hsu Shih-huan"
 name_zh_hanzi: "許世環"
 verification_status: pending
-last_reviewed: 2026-08-08
+last_reviewed: 2026-08-09
 source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
 ---
 # Hsu Shih-huan (許世環)
@@ -64,7 +64,7 @@ Notable quotes and mentions of **許世環** in Taiwan Justice articles:
 ### 2018 (1 quotes)
 
 1. "楊惠玉(植病)、杜鳳吟(植病)、徐素娟(植病)、曾寶鑫(植病)、陳文淵(植病)、李璧卿(園藝)、李碧娥(園藝)、林素華(園藝)、林敬愛(園藝)、林碧玉(園藝)、許世環(園藝)、陳碧雲(園藝)、楊玲玲(園藝)、陳瑞源(園藝)、黃美惠(園藝)、鄭惠影(園藝)、簡朝樹(經濟)、方明山(經濟)、王燦琳(經濟)、林芳慧(經濟)、莊六雄"
-   — 抗議 南加州台大校友會邀管中閔來年會做專題演講 ◎國立台灣大學校友 2018-07-19 (2018-07-21)
+   — 抗議 南加州台大校友會邀管中閔來年會做專題演講 ◎國立台灣大學校友 2018-07-19 (2018-07-20)
 
 ## Source Notes and Confidence
 

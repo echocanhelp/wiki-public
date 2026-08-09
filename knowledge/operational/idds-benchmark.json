@@ -1,0 +1,207 @@
+{
+  "results": [
+    {
+      "name": "Preservation check",
+      "tests": [
+        {
+          "name": "Identical files pass",
+          "passed": true,
+          "exit_code": 0,
+          "elapsed_ms": 31
+        },
+        {
+          "name": "Modified files (3 bullets removed) fail",
+          "passed": true,
+          "exit_code": 1,
+          "elapsed_ms": 18
+        },
+        {
+          "name": "Performance (<500ms)",
+          "passed": true,
+          "elapsed_ms": 18
+        }
+      ],
+      "passed": true
+    },
+    {
+      "name": "Taxonomy contract verification",
+      "tests": [
+        {
+          "name": "Runs without errors",
+          "passed": true,
+          "exit_code": 0,
+          "elapsed_ms": 1094
+        },
+        {
+          "name": "Detects known violations",
+          "passed": true,
+          "elapsed_ms": 1094
+        },
+        {
+          "name": "Performance (<3s)",
+          "passed": true,
+          "elapsed_ms": 1094
+        },
+        {
+          "name": "PP1 check runs",
+          "passed": true,
+          "elapsed_ms": 384
+        },
+        {
+          "name": "PP2 check runs",
+          "passed": true,
+          "elapsed_ms": 150
+        },
+        {
+          "name": "PP3 check runs",
+          "passed": true,
+          "elapsed_ms": 147
+        },
+        {
+          "name": "PP4 check runs",
+          "passed": true,
+          "elapsed_ms": 306
+        },
+        {
+          "name": "PP5 check runs",
+          "passed": true,
+          "elapsed_ms": 147
+        }
+      ],
+      "passed": true
+    },
+    {
+      "name": "Build trajectory tracking",
+      "tests": [
+        {
+          "name": "Takes snapshot",
+          "passed": true,
+          "exit_code": 0,
+          "elapsed_ms": 1144
+        },
+        {
+          "name": "Snapshot file exists",
+          "passed": true
+        },
+        {
+          "name": "Report generates",
+          "passed": true,
+          "elapsed_ms": 32
+        },
+        {
+          "name": "Performance (<3s)",
+          "passed": true,
+          "elapsed_ms": 32
+        }
+      ],
+      "passed": true
+    },
+    {
+      "name": "Search cost tracking",
+      "tests": [
+        {
+          "name": "Track cost on query",
+          "passed": true,
+          "exit_code": 0,
+          "elapsed_ms": 377
+        },
+        {
+          "name": "Cost report generates",
+          "passed": true,
+          "elapsed_ms": 36
+        },
+        {
+          "name": "Cost DB exists",
+          "passed": true
+        },
+        {
+          "name": "Backward compatible (no --track-cost)",
+          "passed": true,
+          "exit_code": 0,
+          "elapsed_ms": 361
+        }
+      ],
+      "passed": true
+    },
+    {
+      "name": "Strategy mode",
+      "tests": [
+        {
+          "name": "Strategy mode works",
+          "passed": true,
+          "exit_code": 0,
+          "elapsed_ms": 366
+        },
+        {
+          "name": "Strategy mode finds same result",
+          "passed": true
+        },
+        {
+          "name": "Strategy + cost tracking",
+          "passed": true,
+          "exit_code": 0,
+          "elapsed_ms": 378
+        }
+      ],
+      "passed": true
+    },
+    {
+      "name": "BM25/ranked search",
+      "tests": [
+        {
+          "name": "Build BM25 index",
+          "passed": true,
+          "exit_code": 0,
+          "elapsed_ms": 717
+        },
+        {
+          "name": "Search finds Alan Thian",
+          "passed": true,
+          "elapsed_ms": 689
+        },
+        {
+          "name": "Search mode bm25 in first-answer",
+          "passed": true,
+          "exit_code": 0,
+          "elapsed_ms": 361
+        },
+        {
+          "name": "Default file mode still works",
+          "passed": true,
+          "exit_code": 0,
+          "elapsed_ms": 370
+        }
+      ],
+      "passed": true
+    },
+    {
+      "name": "Backward compatibility",
+      "tests": [
+        {
+          "name": "No flags = default behavior",
+          "passed": true,
+          "exit_code": 0,
+          "elapsed_ms": 360
+        },
+        {
+          "name": "Miss path works",
+          "passed": true,
+          "exit_code": 2,
+          "elapsed_ms": 370
+        },
+        {
+          "name": "JSON output works",
+          "passed": true,
+          "elapsed_ms": 359
+        }
+      ],
+      "passed": true
+    }
+  ],
+  "summary": {
+    "improvements_passed": 7,
+    "total_improvements": 7,
+    "tests_passed": 29,
+    "total_tests": 29
+  }
+}

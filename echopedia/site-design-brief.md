@@ -1,4 +1,4 @@
-## Site design audit — 2026-08-08 10:38
+## Site design audit — 2026-08-09 11:52
 
 - pages_md=313
 - critical=0 high=0 medium=0
@@ -9,7 +9,7 @@
 
 ### LOW (1)
 - **C1** spelling signals (sample): 1 `[AGENT_SUGGESTED]`
-  - `wang-qiaoling.md: ?qiaoling`
+  - `tahs-member-onboarding.md: ?onboarding`
 
 ### INFO (2)
 - **B2** pinned featured pages: 47

@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-08
+last_reviewed: 2026-08-09
 ---
 
 # Zheng Bing-quan / 鄭炳全
@@ -22001,92 +22001,77 @@ Chronological events for **鄭炳全**:
 Notable quotes and mentions of **鄭炳全** in Taiwan Justice articles:
 
 
-### 2026 (1 quotes)
+### 2024 (4 quotes)
 
-1. "台灣亮起來 消失的國界 中天調查報告 聚焦2.0 台灣啟示錄 看板人物 李四端的雲端世界 突發琪想 新聞深呼吸 T觀點 民視異言堂 有話好說 海外台灣人 藝文 鄭炳全專欄 楊遠薰專欄 台美人向唐培理唐秋詩致敬 歷史必讀 保健 園藝 大洛杉磯台灣會館 台灣會館會訊 台美人影音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地"
-   — 'Tag: 日本擬將脊髓性肌萎症藥物定價逾4500萬台幣' (2026-01-13)
-
-### 2025 (13 quotes)
-
-1. ">的可行性，陳惠亭，謝聰敏等兩三回到十全藥局邀我參與，年底我回台北向新聞局表明，台美人要在洛杉磯辦報的意願，有志者事竟成，在廿五位股東合力之下，吳西面董事長任命鄭炳全藥師當首任社長，我答應只當一年，報社上軌道後回專職藥局。隔年六月一日周報問世，未久台灣戒嚴解除，開放報禁，接著蔣經國去世，李登輝當總統兼國民黨黨主席。1986年"
-   — 旅美五十周年 ◎ 鄭炳全 (2025-02-09)
-2. "音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home 台美人台加人 鄭炳全專欄 鄭炳全專欄 Random Latest Featured posts Most popular 7 days popular By review scor"
-   — 鄭炳全專欄 (2025-02-16)
-3. "繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home 台美人台加人 鄭炳全專欄 鄭炳全專欄 Random Latest Featured posts Most popular 7 days popular By review score Rand"
-   — 鄭炳全專欄 (2025-02-16)
-4. "人影音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home Tags 鄭炳全 Tag: 鄭炳全 Covid-19 浩劫餘生錄 白目 ◎ 鄭炳全 March 30, 2021 藝文 旅美五十周年 ◎ 鄭炳全 September 4, 20"
-   — 'Tag: 鄭炳全' (2025-03-28)
-5. "我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home Tags 鄭炳全 Tag: 鄭炳全 Covid-19 浩劫餘生錄 白目 ◎ 鄭炳全 March 30, 2021 藝文 旅美五十周年 ◎ 鄭炳全 September 4, 2020 藝文 202"
-   — 'Tag: 鄭炳全' (2025-03-28)
-6. "d-19 浩劫餘生錄 美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home Tags 鄭炳全 Tag: 鄭炳全 Covid-19 浩劫餘生錄 白目 ◎ 鄭炳全 March 30, 2021 藝文 旅美五十周年 ◎ 鄭炳全 September 4, 2020 藝文 2020 父親節省思 ◎ 鄭炳全 June 30, 2"
-   — 'Tag: 鄭炳全' (2025-03-28)
-7. "灣會館會訊 Home Tags 鄭炳全 Tag: 鄭炳全 Covid-19 浩劫餘生錄 白目 ◎ 鄭炳全 March 30, 2021 藝文 旅美五十周年 ◎ 鄭炳全 September 4, 2020 藝文 2020 父親節省思 ◎ 鄭炳全 June 30, 2020"
-   — 'Tag: 鄭炳全' (2025-03-28)
-8. "浩劫餘生錄 白目 ◎ 鄭炳全 March 30, 2021 藝文 旅美五十周年 ◎ 鄭炳全 September 4, 2020 藝文 2020 父親節省思 ◎ 鄭炳全 June 30, 2020"
-   — 'Tag: 鄭炳全' (2025-03-28)
-9. "vid-19 浩劫餘生錄 美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home Tags 旅美五十周年 Tag: 旅美五十周年 藝文 旅美五十周年 ◎ 鄭炳全 September 4, 2020"
-   — 'Tag: 旅美五十周年' (2025-03-28)
-10. "音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home 台美人台加人 鄭炳全專欄 鄭炳全專欄 Featured posts Latest Featured posts Most popular 7 days popular By rev"
-   — 鄭炳全專欄 (2025-04-30)
-
-### 2024 (11 quotes)
-
-1. "美人影音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home 台美人台加人 鄭炳全專欄 鄭炳全專欄 Most popular Latest Featured posts Most popular 7 days popular By revie"
-   — 鄭炳全專欄 (2024-02-25)
-2. "浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home 台美人台加人 鄭炳全專欄 鄭炳全專欄 Most popular Latest Featured posts Most popular 7 days popular By review scor"
-   — 鄭炳全專欄 (2024-02-25)
-3. "美人影音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home 台美人台加人 鄭炳全專欄 鄭炳全專欄 Featured posts Latest Featured posts Most popular 7 days popular By rev"
+1. "美人影音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home 台美人台加人 鄭炳全專欄 鄭炳全專欄 7 days popular Latest Featured posts Most popular 7 days popular By rev"
    — 鄭炳全專欄 (2024-03-02)
-4. "浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home 台美人台加人 鄭炳全專欄 鄭炳全專欄 Featured posts Latest Featured posts Most popular 7 days popular By review sc"
+2. "浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home 台美人台加人 鄭炳全專欄 鄭炳全專欄 7 days popular Latest Featured posts Most popular 7 days popular By review sc"
    — 鄭炳全專欄 (2024-03-02)
-5. "美人影音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home 台美人台加人 鄭炳全專欄 鄭炳全專欄 Random Latest Featured posts Most popular 7 days popular By review scor"
+3. "美人影音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home 台美人台加人 鄭炳全專欄 鄭炳全專欄 By review score Latest Featured posts Most popular 7 days popular By re"
    — 鄭炳全專欄 (2024-03-02)
-6. "浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home 台美人台加人 鄭炳全專欄 鄭炳全專欄 Random Latest Featured posts Most popular 7 days popular By review score Rand"
+4. "浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home 台美人台加人 鄭炳全專欄 鄭炳全專欄 By review score Latest Featured posts Most popular 7 days popular By review s"
    — 鄭炳全專欄 (2024-03-02)
-7. "美人影音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home 台美人台加人 鄭炳全專欄 鄭炳全專欄 7 days popular Latest Featured posts Most popular 7 days popular By rev"
-   — 鄭炳全專欄 (2024-03-02)
-8. "浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home 台美人台加人 鄭炳全專欄 鄭炳全專欄 7 days popular Latest Featured posts Most popular 7 days popular By review sc"
-   — 鄭炳全專欄 (2024-03-02)
-9. "美人影音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home 台美人台加人 鄭炳全專欄 鄭炳全專欄 By review score Latest Featured posts Most popular 7 days popular By re"
-   — 鄭炳全專欄 (2024-03-02)
-10. "浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home 台美人台加人 鄭炳全專欄 鄭炳全專欄 By review score Latest Featured posts Most popular 7 days popular By review s"
-   — 鄭炳全專欄 (2024-03-02)
-
-### 2023 (4 quotes)
-
-1. "浩劫餘生錄 April 13, 2021 武漢病毒下的省思：「認同」兩樣情 ◎ 劉文義 Covid-19 浩劫餘生錄 April 12, 2021 白目 ◎ 鄭炳全 Covid-19 浩劫餘生錄 March 30, 2021 Load more"
-   — Covid-19 浩劫餘生錄 (2023-12-01)
-2. "美人影音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home 台美人台加人 鄭炳全專欄 鄭炳全專欄 Latest Latest Featured posts Most popular 7 days popular By review scor"
-   — 鄭炳全專欄 (2023-12-08)
-3. "浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home 台美人台加人 鄭炳全專欄 鄭炳全專欄 Latest Latest Featured posts Most popular 7 days popular By review score Rand"
-   — 鄭炳全專欄 (2023-12-08)
-4. "test Featured posts Most popular 7 days popular By review score Random 旅美五十周年 ◎ 鄭炳全 September 4, 2020"
-   — 鄭炳全專欄 (2023-12-08)
 
 ### 2022 (3 quotes)
 
 1. "一月九日下午，台美人筆會成員鄭炳全、賴慧娜、林文政和黃樹人連袂拜訪也是筆會會員的葉思雅和張信惠伉儷，一起慶賀葉思雅醫師夫婦在台灣公義報的「週末漫談音樂」專欄滿100期的里程碑。 葉思雅醫師夫婦從"
-   — 圓滿的100- 慶賀葉思雅、張信惠「週末漫談音樂」專欄里程碑 (2022-01-27)
+   — 圓滿的100- 慶賀葉思雅、張信惠「週末漫談音樂」專欄里程碑 (2022-01-10)
 2. "哲親自出席並與葉思雅醫師、張信惠女士夫婦視訊連線，表達感謝之意，葉醫師夫婦及多位友人也在美國透過視訊方式與現場貴賓，一同見證「信雅古典音樂珍藏專區」揭幕啟用。 鄭炳全等一行人帶給葉醫師夫婦一個寫有「100」的芋頭蛋糕，慧娜則做了一個水果派，大家像在慶生一般，向葉思雅醫師伉儷致賀及致敬。葉醫師準備了咖啡、柚子，賓主一起喝咖啡、"
-   — 圓滿的100- 慶賀葉思雅、張信惠「週末漫談音樂」專欄里程碑 (2022-01-27)
-3. "藝共收佳作六十七篇，作家四十多人，皆是作者近作。文體類分 論述、散文、詩、旅遊、小說等。堪說集海外台灣人創作之大成。編輯委員會成員包括；李彥禎、陳東榮、李芬芬、鄭炳全、秦雪華、林文政等。台美文藝的文章特色是反應與保存台美人的生活足跡，感受、與看法，其中不乏各專業在美國創業立足的經驗與心得，饒富趣味。 歡迎訂閱本報newsle"
-   — 2017台美文藝出版 台美人筆會六月十七日舉辦發表會 (2022-11-27)
+   — 圓滿的100- 慶賀葉思雅、張信惠「週末漫談音樂」專欄里程碑 (2022-01-10)
+3. "浩劫餘生錄 April 13, 2021 武漢病毒下的省思：「認同」兩樣情 ◎ 劉文義 Covid-19 浩劫餘生錄 April 12, 2021 白目 ◎ 鄭炳全 Covid-19 浩劫餘生錄 March 30, 2021 Load more"
+   — Covid-19 浩劫餘生錄 (2022-06-22)
 
-### 2021 (2 quotes)
+### 2021 (8 quotes)
 
-1. "聞深呼吸 尋找台灣感動力 雲端秘檔 T觀點 台灣向錢衝 民視異言堂 台灣大搜索 國會最前線 有話好說 從台灣看全球 新聞看透透 民視台灣學堂 海外台灣人 藝文 鄭炳全專欄 楊遠薰專欄 台美人向唐培理唐秋詩致敬 歷史必讀 保健 園藝 大洛杉磯台灣會館 台灣會館會訊 台美人影音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地"
-   — 'Tag: 加拿大總理及國會力挺HFX論壇' (2021-06-19)
-2. "浩劫餘生錄 April 13, 2021 武漢病毒下的省思：「認同」兩樣情 ◎ 劉文義 Covid-19 浩劫餘生錄 April 12, 2021 白目 ◎ 鄭炳全 Covid-19 浩劫餘生錄 March 30, 2021 世紀瘟疫-省思運命 ◎ 米粒 Covid-19 浩劫餘生錄 March 30, 2021 深夜的約"
-   — Covid-19 浩劫餘生錄 (2021-12-05)
+1. "vid-19 浩劫餘生錄 美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home Tags 白目 Tag: 白目 Covid-19 浩劫餘生錄 白目 ◎ 鄭炳全 March 30, 2021 台灣新聞 年代晚報 20200811 疫苗沒談妥阿札爾就白來? 陳時中怒嗆「白目」 August 11, 2020"
+   — 'Tag: 白目' (2021-03-30)
+2. "人影音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home Tags 鄭炳全 Tag: 鄭炳全 Covid-19 浩劫餘生錄 白目 ◎ 鄭炳全 March 30, 2021 藝文 旅美五十周年 ◎ 鄭炳全 September 4, 20"
+   — 'Tag: 鄭炳全' (2021-03-30)
+3. "我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home Tags 鄭炳全 Tag: 鄭炳全 Covid-19 浩劫餘生錄 白目 ◎ 鄭炳全 March 30, 2021 藝文 旅美五十周年 ◎ 鄭炳全 September 4, 2020 藝文 202"
+   — 'Tag: 鄭炳全' (2021-03-30)
+4. "d-19 浩劫餘生錄 美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home Tags 鄭炳全 Tag: 鄭炳全 Covid-19 浩劫餘生錄 白目 ◎ 鄭炳全 March 30, 2021 藝文 旅美五十周年 ◎ 鄭炳全 September 4, 2020 藝文 2020 父親節省思 ◎ 鄭炳全 June 30, 2"
+   — 'Tag: 鄭炳全' (2021-03-30)
+5. "灣會館會訊 Home Tags 鄭炳全 Tag: 鄭炳全 Covid-19 浩劫餘生錄 白目 ◎ 鄭炳全 March 30, 2021 藝文 旅美五十周年 ◎ 鄭炳全 September 4, 2020 藝文 2020 父親節省思 ◎ 鄭炳全 June 30, 2020"
+   — 'Tag: 鄭炳全' (2021-03-30)
+6. "浩劫餘生錄 白目 ◎ 鄭炳全 March 30, 2021 藝文 旅美五十周年 ◎ 鄭炳全 September 4, 2020 藝文 2020 父親節省思 ◎ 鄭炳全 June 30, 2020"
+   — 'Tag: 鄭炳全' (2021-03-30)
+7. "聞深呼吸 尋找台灣感動力 雲端秘檔 T觀點 台灣向錢衝 民視異言堂 台灣大搜索 國會最前線 有話好說 從台灣看全球 新聞看透透 民視台灣學堂 海外台灣人 藝文 鄭炳全專欄 楊遠薰專欄 台美人向唐培理唐秋詩致敬 歷史必讀 保健 園藝 大洛杉磯台灣會館 台灣會館會訊 台美人影音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地"
+   — 'Tag: 加拿大總理及國會力挺HFX論壇' (2021-04-14)
+8. "浩劫餘生錄 April 13, 2021 武漢病毒下的省思：「認同」兩樣情 ◎ 劉文義 Covid-19 浩劫餘生錄 April 12, 2021 白目 ◎ 鄭炳全 Covid-19 浩劫餘生錄 March 30, 2021 世紀瘟疫-省思運命 ◎ 米粒 Covid-19 浩劫餘生錄 March 30, 2021 深夜的約"
+   — Covid-19 浩劫餘生錄 (2021-11-25)
 
-### 2020 (3 quotes)
+### 2020 (20 quotes)
 
-1. "灣會館 台灣會館會訊 台美人影音頻道 浮世繪 我的肥皂箱 股市亮點 記者真心話 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 Home 台美人台加人 鄭炳全專欄 鄭炳全專欄 Latest Latest Featured posts Most popular 7 days popular By review scor"
-   — 鄭炳全專欄 (2020-11-21)
-2. "會館會訊 台美人影音頻道 浮世繪 我的肥皂箱 股市亮點 記者真心話 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 Home 台美人台加人 鄭炳全專欄 鄭炳全專欄 Latest Latest Featured posts Most popular 7 days popular By review score Rand"
-   — 鄭炳全專欄 (2020-11-21)
-3. "聞深呼吸 尋找台灣感動力 雲端秘檔 T觀點 台灣向錢衝 民視異言堂 台灣大搜索 國會最前線 有話好說 從台灣看全球 新聞看透透 民視台灣學堂 海外台灣人 藝文 鄭炳全專欄 楊遠薰專欄 台美人向唐培理唐秋詩致敬 歷史必讀 保健 園藝 大洛杉磯台灣會館 台灣會館會訊 台美人影音頻道 浮世繪 我的肥皂箱 股市亮點 記者真心話 週末"
-   — 川普時代 (2020-11-26)
+1. "台灣亮起來 消失的國界 中天調查報告 聚焦2.0 台灣啟示錄 看板人物 李四端的雲端世界 突發琪想 新聞深呼吸 T觀點 民視異言堂 有話好說 海外台灣人 藝文 鄭炳全專欄 楊遠薰專欄 台美人向唐培理唐秋詩致敬 歷史必讀 保健 園藝 大洛杉磯台灣會館 台灣會館會訊 台美人影音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地"
+   — 'Tag: 日本擬將脊髓性肌萎症藥物定價逾4500萬台幣' (2020-05-12)
+2. "美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home Tags 2020 父親節省思 Tag: 2020 父親節省思 藝文 2020 父親節省思 ◎ 鄭炳全 June 30, 2020"
+   — 'Tag: 2020 父親節省思' (2020-06-30)
+3. "美人影音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home 台美人台加人 鄭炳全專欄 鄭炳全專欄 Latest Latest Featured posts Most popular 7 days popular By review scor"
+   — 鄭炳全專欄 (2020-09-04)
+4. "浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home 台美人台加人 鄭炳全專欄 鄭炳全專欄 Latest Latest Featured posts Most popular 7 days popular By review score Rand"
+   — 鄭炳全專欄 (2020-09-04)
+5. "test Featured posts Most popular 7 days popular By review score Random 旅美五十周年 ◎ 鄭炳全 September 4, 2020"
+   — 鄭炳全專欄 (2020-09-04)
+6. "音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home 台美人台加人 鄭炳全專欄 鄭炳全專欄 Featured posts Latest Featured posts Most popular 7 days popular By rev"
+   — 鄭炳全專欄 (2020-09-04)
+7. "繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home 台美人台加人 鄭炳全專欄 鄭炳全專欄 Featured posts Latest Featured posts Most popular 7 days popular By review sc"
+   — 鄭炳全專欄 (2020-09-04)
+8. "音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home 台美人台加人 鄭炳全專欄 鄭炳全專欄 Random Latest Featured posts Most popular 7 days popular By review scor"
+   — 鄭炳全專欄 (2020-09-04)
+9. "繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home 台美人台加人 鄭炳全專欄 鄭炳全專欄 Random Latest Featured posts Most popular 7 days popular By review score Rand"
+   — 鄭炳全專欄 (2020-09-04)
+10. ">的可行性，陳惠亭，謝聰敏等兩三回到十全藥局邀我參與，年底我回台北向新聞局表明，台美人要在洛杉磯辦報的意願，有志者事竟成，在廿五位股東合力之下，吳西面董事長任命鄭炳全藥師當首任社長，我答應只當一年，報社上軌道後回專職藥局。隔年六月一日周報問世，未久台灣戒嚴解除，開放報禁，接著蔣經國去世，李登輝當總統兼國民黨黨主席。1986年"
+   — 旅美五十周年 ◎ 鄭炳全 (2020-09-04)
+
+### 2018 (1 quotes)
+
+1. "程北上舊金山僑宴 賴清德：努力打造台灣成亞洲矽谷[影] 台美人台加人 August 17, 2023 耳聰目明聲如洪鐘，她，黃蔡瑞雲才102歲-台美歷史協會會長鄭炳全博士專訪黃蔡瑞雲女士 10-26-2015 台美人台加人 November 7, 2015 聽見原聲 ‧ 看見台灣-台灣原聲童聲合唱團 7/23 聖蓋博大劇院演"
+   — 台美人台加人 (2018-05-27)
+
+### 2017 (1 quotes)
+
+1. "藝共收佳作六十七篇，作家四十多人，皆是作者近作。文體類分 論述、散文、詩、旅遊、小說等。堪說集海外台灣人創作之大成。編輯委員會成員包括；李彥禎、陳東榮、李芬芬、鄭炳全、秦雪華、林文政等。台美文藝的文章特色是反應與保存台美人的生活足跡，感受、與看法，其中不乏各專業在美國創業立足的經驗與心得，饒富趣味。 歡迎訂閱本報newsle"
+   — 2017台美文藝出版 台美人筆會六月十七日舉辦發表會 (2017-06-11)
 
 *...and 27 more quotes*
 

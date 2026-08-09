@@ -9,7 +9,7 @@ tags:
 name_en: "John Yang"
 name_zh_hanzi: "楊錦忠"
 verification_status: pending
-last_reviewed: 2026-08-08
+last_reviewed: 2026-08-09
 source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
 ---
 # John Yang (楊錦忠)
@@ -72,7 +72,7 @@ Notable quotes and mentions of **楊錦忠** in Taiwan Justice articles:
 ### 2025 (1 quotes)
 
 1. "即召開理事會，討論修改章程及會務。會長任期修改為一任三年，相關幹部任期也與會長任期同步。 當天與會的人員包括創會會長楊嘉猷、會長許景鴻、蔡漢成、劉玲華、李意盛、楊錦忠、沈梓在、蔡淑女、黃樹人等。 顧問劉玲華等都提出極具建設性的建議，會務討論極為熱烈。"
-   — 台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元 (2025-11-07)
+   — 台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元 (2025-09-05)
 
 ## Source Notes and Confidence
 
