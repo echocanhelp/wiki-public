@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-09
+last_reviewed: 2026-08-10
 ---
 # Du Ao Cunfu (獨傲村夫)
 
@@ -11064,8 +11064,8 @@ Top 10 articles from taiwanjustice.net mentioning du-ao-cunfu:
 172. **2017-11-09** — [[articles/taiwanjustice-net/2024/20240616111308_root_7286175e080031fa|'Tag: 勞工更累']]
 173. **2017-11-07** — [[articles/taiwanjustice-net/2024/20240301083408_root_0a2a6d84deae2144|我們的島]]
 174. **2017-11-07** — [[articles/taiwanjustice-net/2024/20240425115557_root_ee46499a1f04b502|我們的島]]
-175. **2017-11-06** — [[articles/taiwanjustice-net/2024/20240425113723_root_c7dc10605e843ed1|十月革命百年，列寧、蔣介石的遺體何時埋葬，走進歷史？◎獨傲村夫 2017-11-06]]
-176. **2017-11-06** — [[articles/taiwanjustice-net/2017/20171220125250_2017_11_06_十月革命百年_列寧_蔣介石的遺體何時埋葬_走_7c9bd87640dc9271|十月革命百年，列寧、蔣介石的遺體何時埋葬，走進歷史？◎獨傲村夫 2017-11-06]]
+175. **2017-11-06** — [[articles/taiwanjustice-net/2017/20171220125250_2017_11_06_十月革命百年_列寧_蔣介石的遺體何時埋葬_走_7c9bd87640dc9271|十月革命百年，列寧、蔣介石的遺體何時埋葬，走進歷史？◎獨傲村夫 2017-11-06]]
+176. **2017-11-06** — [[articles/taiwanjustice-net/2024/20240425113723_root_c7dc10605e843ed1|十月革命百年，列寧、蔣介石的遺體何時埋葬，走進歷史？◎獨傲村夫 2017-11-06]]
 177. **2017-11-06** — [[articles/taiwanjustice-net/2017/20171220125250_2017_11_06_十月革命百年_列寧_蔣介石的遺體何時埋葬_走_7c9bd87640dc9271|十月革命百年，列寧、蔣介石的遺體何時埋葬，走進歷史？◎獨傲村夫 2017-11-06]]
 178. **2017-11-06** — [[articles/taiwanjustice-net/2023/20230205143436_tag_天堂文件_e10e257facfe15b9|'Tag: 天堂文件']]
 179. **2017-11-06** — [[articles/taiwanjustice-net/2024/20240719122733_root_54c6ddad07a5af57|'Tag: 巴拿馬文件']]
@@ -11152,8 +11152,8 @@ Top 10 articles from taiwanjustice.net mentioning du-ao-cunfu:
 260. **2017-09-28** — [[articles/taiwanjustice-net/2024/20240716131650_root_eff2dba731e2e8bb|'Tag: 跳樓']]
 261. **2017-09-28** — [[articles/taiwanjustice-net/2024/20240614150301_root_4c08232fd1ae07f3|'Tag: 滅火器樂團']]
 262. **2017-09-22** — [[articles/taiwanjustice-net/2023/20230530150956_tag_梁文傑_page_2_7ae51057f9262277|'Tag: 梁文傑']]
-263. **2017-09-19** — [[articles/taiwanjustice-net/2024/20240613103226_root_de29c6534a65a6ae|我對「文言文比例」問題的反思與異見 ◎ 獨傲村夫 /民報 2017-09-18]]
-264. **2017-09-19** — [[articles/taiwanjustice-net/2017/20171231181957_2017_09_19_我對_文言文比例_問題的反思與異見-_-獨傲村夫_00a4622bacc9efd3|我對「文言文比例」問題的反思與異見 ◎ 獨傲村夫 /民報 2017-09-18]]
+263. **2017-09-19** — [[articles/taiwanjustice-net/2017/20171231181957_2017_09_19_我對_文言文比例_問題的反思與異見-_-獨傲村夫_00a4622bacc9efd3|我對「文言文比例」問題的反思與異見 ◎ 獨傲村夫 /民報 2017-09-18]]
+264. **2017-09-19** — [[articles/taiwanjustice-net/2024/20240613103226_root_de29c6534a65a6ae|我對「文言文比例」問題的反思與異見 ◎ 獨傲村夫 /民報 2017-09-18]]
 265. **2017-09-19** — [[articles/taiwanjustice-net/2017/20171231181957_2017_09_19_我對_文言文比例_問題的反思與異見-_-獨傲村夫_00a4622bacc9efd3|我對「文言文比例」問題的反思與異見 ◎ 獨傲村夫 /民報 2017-09-18]]
 266. **2017-09-19** — [[articles/taiwanjustice-net/2023/20230129125727_tag_籲全球對朝鮮_伊朗_委內瑞拉採取行動_85a36448a237b7bb|'Tag: 籲全球對朝鮮、伊朗、委內瑞拉採取行動']]
 267. **2017-09-19** — [[articles/taiwanjustice-net/2023/20230204025336_tag_川普在聯合國演說_2601a6c32d247327|'Tag: 川普在聯合國演說']]
@@ -11172,8 +11172,8 @@ Top 10 articles from taiwanjustice.net mentioning du-ao-cunfu:
 280. **2017-09-13** — [[articles/taiwanjustice-net/2024/20240423112316_root_eb80d2f7b42bf833|'Tag: 政商關係之變']]
 281. **2017-09-12** — [[articles/taiwanjustice-net/2023/20230326055106_tag_19大_page_2_501c0444cdce6992|'Tag: 19大']]
 282. **2017-09-11** — [[articles/taiwanjustice-net/2024/20240423103611_root_2aa295e7d2c07b8b|'Tag: 受益的支持者']]
-283. **2017-09-10** — [[articles/taiwanjustice-net/2024/20240719213421_root_35d25fb4bdf39cd8|反攻大陸：蔣介石的美夢，美國人的噩夢 （下）◎ 獨傲村夫/民報  2017-09-10]]
-284. **2017-09-10** — [[articles/taiwanjustice-net/2017/20171220120857_2017_09_10_反攻大陸_蔣介石的美夢_美國人的噩夢-_下_dd1007a640e39b91|反攻大陸：蔣介石的美夢，美國人的噩夢 （下）◎ 獨傲村夫/民報  2017-09-10]]
+283. **2017-09-10** — [[articles/taiwanjustice-net/2017/20171220120857_2017_09_10_反攻大陸_蔣介石的美夢_美國人的噩夢-_下_dd1007a640e39b91|反攻大陸：蔣介石的美夢，美國人的噩夢 （下）◎ 獨傲村夫/民報  2017-09-10]]
+284. **2017-09-10** — [[articles/taiwanjustice-net/2024/20240719213421_root_35d25fb4bdf39cd8|反攻大陸：蔣介石的美夢，美國人的噩夢 （下）◎ 獨傲村夫/民報  2017-09-10]]
 285. **2017-09-10** — [[articles/taiwanjustice-net/2017/20171220120857_2017_09_10_反攻大陸_蔣介石的美夢_美國人的噩夢-_下_dd1007a640e39b91|反攻大陸：蔣介石的美夢，美國人的噩夢 （下）◎ 獨傲村夫/民報  2017-09-10]]
 286. **2017-09-10** — [[articles/taiwanjustice-net/2024/20240719213421_root_35d25fb4bdf39cd8|反攻大陸：蔣介石的美夢，美國人的噩夢 （下）◎ 獨傲村夫/民報  2017-09-10]]
 287. **2017-09-10** — [[articles/taiwanjustice-net/2024/20240613095935_root_aae10817f7e93673|'Tag: 獨傲村夫']]
@@ -11372,8 +11372,8 @@ Top 10 articles from taiwanjustice.net mentioning du-ao-cunfu:
 480. **2017-01-15** — [[articles/taiwanjustice-net/2024/20240725002127_root_d6e6a1924b94ccbb|川普的「倚天屠龍記」：黑色中國的危機– 致命中國 (上) ◎獨傲村夫/2017-01-13]]
 481. **2017-01-09** — [[articles/taiwanjustice-net/2024/20240718233802_root_36c8d84a7b28bc7e|'Tag: Fifth Column']]
 482. **2017-01-09** — [[articles/taiwanjustice-net/2024/20240716112750_root_88ff8a8f0c39efc1|'Tag: Mafia']]
-483. **2017-01-07** — [[articles/taiwanjustice-net/2024/20240725001728_root_58a6439c52e7e127|給美國總統川普的一封公開信(An Open Letter to the US President Donald Trump) ◎ 獨傲村夫 2017-01-06]]
-484. **2017-01-07** — [[articles/taiwanjustice-net/2023/20230204014201_2017_01_07_給美國總統川普的一封公開信an-open-letter-to-the-us-president-donald-trump-_-獨傲_4158fa6b4e6eddf5|給美國總統川普的一封公開信(An Open Letter to the US President Donald Trump) ◎ 獨傲村夫 2017-01-06]]
+483. **2017-01-07** — [[articles/taiwanjustice-net/2023/20230204014201_2017_01_07_給美國總統川普的一封公開信an-open-letter-to-the-us-president-donald-trump-_-獨傲_4158fa6b4e6eddf5|給美國總統川普的一封公開信(An Open Letter to the US President Donald Trump) ◎ 獨傲村夫 2017-01-06]]
+484. **2017-01-07** — [[articles/taiwanjustice-net/2024/20240725001728_root_58a6439c52e7e127|給美國總統川普的一封公開信(An Open Letter to the US President Donald Trump) ◎ 獨傲村夫 2017-01-06]]
 485. **2017-01-07** — [[articles/taiwanjustice-net/2023/20230204014201_2017_01_07_給美國總統川普的一封公開信an-open-letter-to-the-us-president-donald-trump-_-獨傲_4158fa6b4e6eddf5|給美國總統川普的一封公開信(An Open Letter to the US President Donald Trump) ◎ 獨傲村夫 2017-01-06]]
 486. **2017-01-07** — [[articles/taiwanjustice-net/2024/20240725001728_root_58a6439c52e7e127|給美國總統川普的一封公開信(An Open Letter to the US President Donald Trump) ◎ 獨傲村夫 2017-01-06]]
 487. **2017-01-06** — [[articles/taiwanjustice-net/2024/20240522230007_root_161b3240a26ea9c4|'Tag: 蔡總統出訪中美洲']]

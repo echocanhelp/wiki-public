@@ -1,0 +1,11 @@
+{"ts": "2026-08-10T05:27:14Z", "status": "hit", "query": "Phoenix Ko", "slug": "phoenix-ko", "source": "cli", "kind": "person"}
+{"ts": "2026-08-10T05:27:14Z", "status": "hit", "query": "Yi Sen Lee", "slug": "yi-sen-lee", "source": "cli", "kind": "person"}
+{"ts": "2026-08-10T05:27:15Z", "status": "miss", "query": "Nobody XYZZZ", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-08-10T05:27:50Z", "status": "hit", "query": "Yi Sen Lee", "slug": "yi-sen-lee", "source": "cli", "kind": "person"}
+{"ts": "2026-08-10T05:28:09Z", "status": "hit", "query": "Phoenix Ko", "slug": "phoenix-ko", "source": "cli", "kind": "person"}
+{"ts": "2026-08-10T05:28:16Z", "status": "hit", "query": "Phoenix Ko", "slug": "phoenix-ko", "source": "cli", "kind": "person"}
+{"ts": "2026-08-10T05:28:52Z", "status": "hit", "query": "Phoenix Ko", "slug": "phoenix-ko", "source": "cli", "kind": "person"}
+{"ts": "2026-08-10T05:28:57Z", "status": "hit", "query": "Kevin Lee", "slug": "kevin-lee", "source": "cli", "kind": "person"}
+{"ts": "2026-08-10T06:37:15Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "telegram", "kind": "person"}
+{"ts": "2026-08-10T06:38:48Z", "status": "hit", "query": "Ken Wu", "slug": "ken-wu", "source": "telegram", "kind": "person"}
+{"ts": "2026-08-10T06:44:14Z", "status": "hit", "query": "Leonard Hsu Jr", "slug": "leonard-hsu-jr", "source": "telegram", "kind": "person"}

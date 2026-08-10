@@ -24,6 +24,7 @@
 | **Human map** | **Morning brief** (NEED YOU) + digest + SYSTEM_STATUS + this file |
 | **Telegram labels** | ✅ AUTO · 🟡 QUEUE · 🔴 NEED YOU · ℹ️ INFO — [cron-notify-labels.md](../knowledge/operational/cron-notify-labels.md) |
 | **Live-site continuity** | Sunday **source-continuity** (TC · GSTPC · ITPC); registry lifecycle — [source-continuity.md](../knowledge/operational/source-continuity.md) |
+| **First-answer card / next-ingest** | EVO-5: card UX + metrics; Sunday recommend ≤2 — [echopedia-first-path.md](../knowledge/operational/echopedia-first-path.md) |
 | **Identity close-loop** | EVO-3: soft pending → QUEUE; CLI `identity-decide.py` — [identity-close-loop.md](../knowledge/operational/identity-close-loop.md) |
 | **Clean URLs** | Tier1 trailing-slash → `slug/index.html` redirect (publish step) |
 

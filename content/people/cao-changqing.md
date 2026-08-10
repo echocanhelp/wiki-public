@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-09
+last_reviewed: 2026-08-10
 ---
 
 # Cao Changqing / 曹長青
@@ -102,7 +102,7 @@ Articles by other authors that mention **曹長青**: See [[sources/taiwanjustic
 2. **2017-03-07** — [[articles/taiwanjustice-net/2024/20240225024102_root_007591e506ba808a|中國史地]] (score: 740)
 3. **2016-04-15** — [[articles/taiwanjustice-net/2024/20240225025037_root_699f2233935f825a|政黨輪替與轉型正義]] (score: 720)
 4. **2016-12-21** — [[articles/taiwanjustice-net/2024/20240520034714_root_ccf151b93949c861|國安局應徹查愛國同心會 ◎范姜提昂/自由時報 2016-12-21]] (score: 170)
-5. **2017-10-09** — [[articles/taiwanjustice-net/2017/20171220122506_2017_10_09_金恒煒專欄_斬斷_綁票_政治學-自由時報-2017-10-10_60534cb81c5fb307|《金恒煒專欄》斬斷「綁票」政治學/ 自由時報/ 2017-10-10]] (score: 100)
+5. **2017-10-09** — [[articles/taiwanjustice-net/2017/20171220122506_2017_10_09_金恒煒專欄_斬斷_綁票_政治學-自由時報-2017-10-10_60534cb81c5fb307|《金恒煒專欄》斬斷「綁票」政治學/ 自由時報/ 2017-10-10]] (score: 105)
 
 ## Timeline
 

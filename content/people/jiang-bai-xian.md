@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-09
+last_reviewed: 2026-08-10
 ---
 # Jiang Bai-xian (江百顯)
 
@@ -86,7 +86,7 @@ Articles by other authors that mention **江百顯**: See [[sources/taiwanjustic
 2. **2020-06-02** — [[articles/taiwanjustice-net/2025/20250726002608_2020_06_02_bab4d106ba4a1757|'Daily Archives: June 2, 2020']] (score: 780)
 3. **2024-05-26** — [[articles/taiwanjustice-net/2024/20240527025145_root_7f1c7c50f69f16a1|賴清德政府]] (score: 770)
 4. **2024-07-18** — [[articles/taiwanjustice-net/2024/20240718224048_root_869431711a13de70|台灣頭條]] (score: 760)
-5. **2024-04-29** — [[articles/taiwanjustice-net/2025/20250212062027_大洛杉磯台灣會館2024年4月會訊_ea648af3dadd0f8d|大洛杉磯台灣會館2024年4月會訊]] (score: 745)
+5. **2025-04-08** — [[articles/taiwanjustice-net/2025/20250418073734_大洛杉磯台灣會館2025年3月會訊_ae94b37008468254|大洛杉磯台灣會館2025年3月會訊]] (score: 750)
 
 ## Source Notes
 

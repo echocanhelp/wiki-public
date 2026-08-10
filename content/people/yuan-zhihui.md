@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-09
+last_reviewed: 2026-08-10
 ---
 
 # Yuan Chih-hui / 袁智慧

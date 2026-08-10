@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-09
+last_reviewed: 2026-08-10
 ---
 
 # Tsou Ching-wen / 鄒景雯
@@ -43,7 +43,7 @@ Articles by other authors that mention **zou-jingwen**: See [[sources/taiwanjust
 1. **2023-11-30** — [[articles/taiwanjustice-net/2023/20231201221628_root_b91011f4d99b811b|我的肥皂箱]] (score: 720)
 2. **2023-11-30** — [[articles/taiwanjustice-net/2023/20231201234526_root_a9a1852cff7aa014|義論]] (score: 720)
 3. **2023-12-04** — [[articles/taiwanjustice-net/2023/20231208135450_root_8fa429f9d4a0a5c1|專欄]] (score: 720)
-4. **2020-09-13** — [[articles/taiwanjustice-net/2026/20260118230756_王金平被大內宣猛k_-統戰_配合中共演出_-陳_350445a481d2ae05|王金平被大內宣猛K！   統戰：配合中共演出？◎ 陳昭南]] (score: 260)
+4. **2020-09-13** — [[articles/taiwanjustice-net/2026/20260118230756_王金平被大內宣猛k_-統戰_配合中共演出_-陳_350445a481d2ae05|王金平被大內宣猛K！   統戰：配合中共演出？◎ 陳昭南]] (score: 265)
 5. **2021-06-06** — [[articles/taiwanjustice-net/2021/20210616083828_2021_06_06_陳昭南專欄_中共企圖_以疫謀統_必先打壓_b619ab019933f6a6|【陳昭南專欄】中共企圖「以疫謀統」，必先打壓台灣「國產疫苗」！]] (score: 235)
 
 ## Timeline

@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-09
+last_reviewed: 2026-08-10
 ---
 
 # Cheng Wen-lung / 鄭文龍
@@ -29,8 +29,8 @@ Related: [Taiwanese American Historical Society](/organizations/taiwanese-americ
 
 ### 2017 (5 articles)
 
-1. **2017-12-14** — [[articles/taiwanjustice-net/2024/20240613100519_root_74bcf8e252e06b24|長青教室心得報告-陪審團與台灣司法改革 ◎鄭文龍律師   2017-12-12]]
-2. **2017-12-14** — [[articles/taiwanjustice-net/2017/20171216093843_2017_12_14_長青教室心得報告-陪審團與台灣司法改革-_鄭文龍_d3c74d18b6afe46c|長青教室心得報告-陪審團與台灣司法改革 ◎鄭文龍律師   2017-12-12]]
+1. **2017-12-14** — [[articles/taiwanjustice-net/2017/20171216093843_2017_12_14_長青教室心得報告-陪審團與台灣司法改革-_鄭文龍_d3c74d18b6afe46c|長青教室心得報告-陪審團與台灣司法改革 ◎鄭文龍律師   2017-12-12]]
+2. **2017-12-14** — [[articles/taiwanjustice-net/2024/20240613100519_root_74bcf8e252e06b24|長青教室心得報告-陪審團與台灣司法改革 ◎鄭文龍律師   2017-12-12]]
 3. **2017-12-11** — [[articles/taiwanjustice-net/2024/20240613104640_root_c451abfb03ed9c5b|鄭文龍律師講「台灣司法改革與陪審團」@全美台灣人權協會41週年年會20171209 ◎台灣公義報攝錄+美洲台灣日報記者林蓮華報導]]
 4. **2017-11-29** — [[articles/taiwanjustice-net/2017/20171220125053_2017_11_29_全美台灣人權協會年會暨鄭南榕紀念獎_王康陸人_c4d413fd5efb8a9c|全美台灣人權協會年會暨鄭南榕紀念獎、王康陸人權獎頒獎典禮 12/09 聖地牙哥舉行(得獎人鄭文龍、王泰和、黃根深)]]
 5. **2017-11-29** — [[articles/taiwanjustice-net/2017/20171231185115_2017_11_29_鄭文龍律師-12-10-12-13-分別在洛杉磯台灣會館及爾灣場老_3e441b1f10db56a5|鄭文龍律師 12/10, 12/13 分別在洛杉磯台灣會館及爾灣場老教會演說︰台灣司法改革及陪審團]]

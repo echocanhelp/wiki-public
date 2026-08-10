@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-09
+last_reviewed: 2026-08-10
 ---
 
 # Lin Jung-sung / 林榮松
@@ -34,10 +34,10 @@ Related: [Taiwanese American Historical Society](/organizations/taiwanese-americ
 
 ### 2016 (4 articles)
 
-1. **2016-06-23** — [[articles/taiwanjustice-net/2024/20240522054936_root_00ce9bd337fd4834|大洛杉磯台灣會館的願景與策略 ◎ 林榮松(台灣會館董事長) 06-24-2016]]
-2. **2016-06-23** — [[articles/taiwanjustice-net/2023/20230326055344_2016_06_23_大洛杉磯台灣會館的願景與策略-_-林榮松台灣會_7f3f3197e4e8e1ca|大洛杉磯台灣會館的願景與策略 ◎ 林榮松(台灣會館董事長) 06-24-2016]]
-3. **2016-06-12** — [[articles/taiwanjustice-net/2024/20240425081647_root_17835ad9519f9cfe|台灣會館第十屆董事會選出新任董事長林榮松 ◎大洛杉磯台灣會館 06-12-2016]]
-4. **2016-06-12** — [[articles/taiwanjustice-net/2023/20230129123056_2016_06_12_台灣會館第十屆董事會選出新任董事長林榮松-_大_77328a2c6454177f|台灣會館第十屆董事會選出新任董事長林榮松 ◎大洛杉磯台灣會館 06-12-2016]]
+1. **2016-06-23** — [[articles/taiwanjustice-net/2023/20230326055344_2016_06_23_大洛杉磯台灣會館的願景與策略-_-林榮松台灣會_7f3f3197e4e8e1ca|大洛杉磯台灣會館的願景與策略 ◎ 林榮松(台灣會館董事長) 06-24-2016]]
+2. **2016-06-23** — [[articles/taiwanjustice-net/2024/20240522054936_root_00ce9bd337fd4834|大洛杉磯台灣會館的願景與策略 ◎ 林榮松(台灣會館董事長) 06-24-2016]]
+3. **2016-06-12** — [[articles/taiwanjustice-net/2023/20230129123056_2016_06_12_台灣會館第十屆董事會選出新任董事長林榮松-_大_77328a2c6454177f|台灣會館第十屆董事會選出新任董事長林榮松 ◎大洛杉磯台灣會館 06-12-2016]]
+4. **2016-06-12** — [[articles/taiwanjustice-net/2024/20240425081647_root_17835ad9519f9cfe|台灣會館第十屆董事會選出新任董事長林榮松 ◎大洛杉磯台灣會館 06-12-2016]]
 
 ### 2015 (1 articles)
 

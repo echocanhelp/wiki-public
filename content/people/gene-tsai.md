@@ -9,7 +9,7 @@ tags:
 name_en: "Gene Tsai"
 name_zh_hanzi: "蔡錦榮"
 verification_status: pending
-last_reviewed: 2026-08-09
+last_reviewed: 2026-08-10
 source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
 ---
 # Gene Tsai (蔡錦榮)
@@ -45,7 +45,7 @@ This page is an **A-tier thin record** for graph linking and member-priority sco
 
 Articles by other authors that mention **gene-tsai**: See [[sources/taiwanjustice-net|taiwanjustice.net source hub]] for the full article index. Top mentions by score:
 
-1. **2023-03-20** — [[articles/taiwanjustice-net/2023/20230601053743_2023_03_20_台美人歷史協會3-25舉辦_如何寫回憶錄自傳座談會_e0c8343cf2888d43|台美人歷史協會3/25舉辦「如何寫回憶錄(自傳)座談會」]] (score: 165)
+1. **2023-03-20** — [[articles/taiwanjustice-net/2023/20230601053743_2023_03_20_台美人歷史協會3-25舉辦_如何寫回憶錄自傳座談會_e0c8343cf2888d43|台美人歷史協會3/25舉辦「如何寫回憶錄(自傳)座談會」]] (score: 195)
 
 ## Timeline
 

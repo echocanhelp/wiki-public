@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-09
+last_reviewed: 2026-08-10
 ---
 
 # Wang Shu-fen / 王淑芬
@@ -79,8 +79,8 @@ Top 10 articles from taiwanjustice.net mentioning wang-shufen:
 6. **2022-03-09** — [[articles/taiwanjustice-net/2025/20250512060926_回台住自己家-_-王淑芬_ddffa8f6c7db0dbf|回台住自己家 ◎ 王淑芬]]
 7. **2022-03-09** — [[articles/taiwanjustice-net/2025/20250512060926_回台住自己家-_-王淑芬_ddffa8f6c7db0dbf|回台住自己家 ◎ 王淑芬]]
 8. **2022-03-09** — [[articles/taiwanjustice-net/2022/20220519125824_2022_03_09_回台住自己家-_-王淑芬_30d6d3a92e583272|回台住自己家 ◎ 王淑芬]]
-9. **2022-01-09** — [[articles/taiwanjustice-net/2025/20250512062256_回家_好難-_-王淑芬_1a4e0748a60a78a4|回家，好難 ◎ 王淑芬]]
-10. **2022-01-09** — [[articles/taiwanjustice-net/2022/20220127023112_2022_01_09_回家_好難-_-王淑芬_d26807f04426a0e8|回家，好難 ◎ 王淑芬]]
+9. **2022-01-09** — [[articles/taiwanjustice-net/2022/20220127023112_2022_01_09_回家_好難-_-王淑芬_d26807f04426a0e8|回家，好難 ◎ 王淑芬]]
+10. **2022-01-09** — [[articles/taiwanjustice-net/2025/20250512062256_回家_好難-_-王淑芬_1a4e0748a60a78a4|回家，好難 ◎ 王淑芬]]
 11. **2022-01-09** — [[articles/taiwanjustice-net/2025/20250512062256_回家_好難-_-王淑芬_1a4e0748a60a78a4|回家，好難 ◎ 王淑芬]]
 12. **2022-01-09** — [[articles/taiwanjustice-net/2022/20220518165719_tag_回家_好難_df9bd3e505bb9835|'Tag: 回家，好難']]
 13. **2022-01-09** — [[articles/taiwanjustice-net/2022/20220127023112_2022_01_09_回家_好難-_-王淑芬_d26807f04426a0e8|回家，好難 ◎ 王淑芬]]
@@ -155,8 +155,8 @@ Articles by other authors that mention **王淑芬**: See [[sources/taiwanjustic
 
 1. **2022-06-22** — [[articles/taiwanjustice-net/2023/20231201225623_root_41b304eda05fa545|Covid-19 浩劫餘生錄]] (score: 740)
 2. **2023-10-04** — [[articles/taiwanjustice-net/2023/20231201230251_root_3ab5b8dfba8018b5|藝文]] (score: 740)
-3. **2020-08-14** — [[articles/taiwanjustice-net/2025/20250515102312_高雄市長補選15日登場-雙鐵出現返鄉人潮_21a5534ecfeaf505|高雄市長補選15日登場 雙鐵出現返鄉人潮]] (score: 165)
-4. **2021-04-20** — [[articles/taiwanjustice-net/2025/20251108180838_榮獲廖述宗教授紀念獎_罷韓四君子_是肯定每個_d2e6e5b19ab4b452|榮獲廖述宗教授紀念獎，罷韓四君子：是肯定每個夥伴]] (score: 160)
+3. **2021-04-20** — [[articles/taiwanjustice-net/2025/20251108180838_榮獲廖述宗教授紀念獎_罷韓四君子_是肯定每個_d2e6e5b19ab4b452|榮獲廖述宗教授紀念獎，罷韓四君子：是肯定每個夥伴]] (score: 190)
+4. **2020-08-14** — [[articles/taiwanjustice-net/2025/20250515102312_高雄市長補選15日登場-雙鐵出現返鄉人潮_21a5534ecfeaf505|高雄市長補選15日登場 雙鐵出現返鄉人潮]] (score: 165)
 5. **2020-01-10** — [[articles/taiwanjustice-net/2025/20250617075507_選前之夜-蔡總統_高雄人不能讓韓國瑜騙第二次_880e4017516d8998|選前之夜 蔡總統：高雄人不能讓韓國瑜騙第二次]] (score: 135)
 
 ## Timeline

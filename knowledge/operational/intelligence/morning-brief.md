@@ -1,5 +1,5 @@
 =====================================================
-  VAULT INTELLIGENCE — 2026-08-09
+  VAULT INTELLIGENCE — 2026-08-10
 =====================================================
 Labels: ✅ AUTO (healed/no action) · 🟡 QUEUE (auto backlog) · 🔴 NEED YOU (your judgment) · ℹ️ INFO
 
@@ -9,6 +9,12 @@ Labels: ✅ AUTO (healed/no action) · 🟡 QUEUE (auto backlog) · 🔴 NEED YO
 🟡 QUEUE / identity (soft — no reply required)
 🟡 QUEUE Becky Yang: soft pending aged out: chinese_name
 🟡 QUEUE Charles Yang: soft pending aged out: capture_line_user_id_on_first_sender_message
+
+🟡 NEXT INGEST (≤2, advisory — not started)
+🟡 QUEUE bai-weiwei — thin L1 person page (2015 chars); densify from Tier2/roster — not a new website
+     → go deepen people/bai-weiwei
+🟡 QUEUE kevin-lee — thin L1 person page (1798 chars); densify from Tier2/roster — not a new website
+     → go deepen people/kevin-lee
 
 🟡 QUEUE / unfinished (not a hard gate)
 🟡 QUEUE 2 pages WIP/incomplete

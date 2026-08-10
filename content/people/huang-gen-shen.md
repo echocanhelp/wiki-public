@@ -11,7 +11,7 @@ tags:
   - 228
 verification_status: pending
 featured: true
-last_reviewed: 2026-08-09
+last_reviewed: 2026-08-10
 ---
 # Huang Gen-shen (黃根深)
 

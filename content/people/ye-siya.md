@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-09
+last_reviewed: 2026-08-10
 ---
 
 # Yeh Ssu-ya / 葉思雅
@@ -103,9 +103,9 @@ Articles by other authors that mention **葉思雅**: See [[sources/taiwanjustic
 
 1. **2023-07-30** — [[articles/taiwanjustice-net/2024/20240425083432_root_99aaa4abcb78ff6d|台美人台加人]] (score: 800)
 2. **2018-07-20** — [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|抗議 南加州台大校友會邀管中閔來年會做專題演講 ◎國立台灣大學校友 2018-07-19]] (score: 230)
-3. **2016-06-06** — [[articles/taiwanjustice-net/2024/20240522054349_root_b4e27e98036e15d0|大洛杉磯台灣會館台灣學校「古典音樂欣賞」 六月十二日介紹海頓 ◎ 洛杉磯台灣學校]] (score: 185)
-4. **2016-06-06** — [[articles/taiwanjustice-net/2023/20230129123134_2016_06_06_大洛杉磯台灣會館台灣學校_古典音樂欣賞_-六月_a244776e9eb57979|大洛杉磯台灣會館台灣學校「古典音樂欣賞」 六月十二日介紹海頓 ◎ 洛杉磯台灣學校]] (score: 155)
-5. **2016-04-05** — [[articles/taiwanjustice-net/2023/20230205142855_2016_04_05_大洛杉磯台灣會館_古典音樂課_四月十日介紹韓_2a25cc1b37f01e00|大洛杉磯台灣會館「古典音樂課」四月十日介紹韓德爾]] (score: 95)
+3. **2016-06-06** — [[articles/taiwanjustice-net/2023/20230129123134_2016_06_06_大洛杉磯台灣會館台灣學校_古典音樂欣賞_-六月_a244776e9eb57979|大洛杉磯台灣會館台灣學校「古典音樂欣賞」 六月十二日介紹海頓 ◎ 洛杉磯台灣學校]] (score: 185)
+4. **2016-06-06** — [[articles/taiwanjustice-net/2024/20240522054349_root_b4e27e98036e15d0|大洛杉磯台灣會館台灣學校「古典音樂欣賞」 六月十二日介紹海頓 ◎ 洛杉磯台灣學校]] (score: 185)
+5. **2016-04-05** — [[articles/taiwanjustice-net/2023/20230205142855_2016_04_05_大洛杉磯台灣會館_古典音樂課_四月十日介紹韓_2a25cc1b37f01e00|大洛杉磯台灣會館「古典音樂課」四月十日介紹韓德爾]] (score: 125)
 
 ## Timeline
 

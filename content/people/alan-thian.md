@@ -9,7 +9,7 @@ tags:
 name_en: "Alan Thian"
 name_zh_hanzi: "田詒鴻"
 verification_status: pending
-last_reviewed: 2026-08-09
+last_reviewed: 2026-08-10
 source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
 ---
 # Alan Thian (田詒鴻)
@@ -63,9 +63,9 @@ Articles by other authors that mention **alan-thian**: See [[sources/taiwanjusti
 
 1. **2024-10-04** — [[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66|2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2日舉行]] (score: 690)
 2. **2021-05-17** — [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]] (score: 520)
-3. **2021-05-17** — [[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6|2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]] (score: 515)
+3. **2021-05-17** — [[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6|2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]] (score: 520)
 4. **2018-06-27** — [[articles/taiwanjustice-net/2020/20201118162555_2018_06_27_大洛杉磯台灣會館會訊_2018-年六月-_大洛杉磯台灣_79291dad808ef7f7|大洛杉磯台灣會館會訊，2018 年六月 ◎大洛杉磯台灣會館 2018-06-27]] (score: 415)
-5. **2016-06-12** — [[articles/taiwanjustice-net/2024/20240425081647_root_17835ad9519f9cfe|台灣會館第十屆董事會選出新任董事長林榮松 ◎大洛杉磯台灣會館 06-12-2016]] (score: 395)
+5. **2016-06-12** — [[articles/taiwanjustice-net/2023/20230129123056_2016_06_12_台灣會館第十屆董事會選出新任董事長林榮松-_大_77328a2c6454177f|台灣會館第十屆董事會選出新任董事長林榮松 ◎大洛杉磯台灣會館 06-12-2016]] (score: 395)
 
 ## Timeline
 

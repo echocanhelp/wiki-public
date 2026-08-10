@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-09
+last_reviewed: 2026-08-10
 ---
 # Lin Bao-hua (林保華)
 
@@ -7178,8 +7178,8 @@ Top 10 articles from taiwanjustice.net mentioning lin-baohua:
 ### 2020 (3268 articles)
 
 1. **2020-12-31** — [[articles/taiwanjustice-net/2021/20210509174131_tag_台語世界_e9582d68b748da22|'Tag: 台語世界']]
-2. **2020-12-29** — [[articles/taiwanjustice-net/2025/20250906034945_中國人民的台獨朋友洪哲勝-_-林保華_1abbc862ac2a99ec|中國人民的台獨朋友洪哲勝  ◎ 林保華]]
-3. **2020-12-29** — [[articles/taiwanjustice-net/2021/20210128082341_2020_12_29_中國人民的台獨朋友洪哲勝-_-林保華_4cd35272d7c9d03c|中國人民的台獨朋友洪哲勝 ◎ 林保華]]
+2. **2020-12-29** — [[articles/taiwanjustice-net/2021/20210128082341_2020_12_29_中國人民的台獨朋友洪哲勝-_-林保華_4cd35272d7c9d03c|中國人民的台獨朋友洪哲勝 ◎ 林保華]]
+3. **2020-12-29** — [[articles/taiwanjustice-net/2025/20250906034945_中國人民的台獨朋友洪哲勝-_-林保華_1abbc862ac2a99ec|中國人民的台獨朋友洪哲勝  ◎ 林保華]]
 4. **2020-12-29** — [[articles/taiwanjustice-net/2021/20210518225906_tag_二二八的女兒如永不凋謝的花_5055bfa168a58a86|'Tag: 二二八的女兒如永不凋謝的花']]
 5. **2020-12-29** — [[articles/taiwanjustice-net/2021/20210128082341_2020_12_29_中國人民的台獨朋友洪哲勝-_-林保華_4cd35272d7c9d03c|中國人民的台獨朋友洪哲勝 ◎ 林保華]]
 6. **2020-12-29** — [[articles/taiwanjustice-net/2021/20210518225614_tag_阮美姝_孤寂煎熬四十五年_d3ffee559d4af17f|'Tag: 阮美姝《孤寂煎熬四十五年》']]

@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-09
+last_reviewed: 2026-08-10
 ---
 # Chen Po-kong (陳破空)
 
@@ -11697,9 +11697,9 @@ Top 10 articles from taiwanjustice.net mentioning chen-po-kong:
 141. **2017-11-20** — [[articles/taiwanjustice-net/2017/20171206222252_2017_11_20_新聞挖挖哇-20171120-看牙心驚驚_20c8182038cfd79b|新聞挖挖哇 20171120 看牙心驚驚]]
 142. **2017-11-19** — [[articles/taiwanjustice-net/2024/20240721103101_root_5cf96e725a5084f6|'Tag: 築夢新臺灣']]
 143. **2017-11-19** — [[articles/taiwanjustice-net/2024/20240719221315_root_75fd054b3a380c7d|'Tag: 台灣人口']]
-144. **2017-11-18** — [[articles/taiwanjustice-net/2024/20240718235156_root_0b639713072e151b|陳破空縱論天下(videos) 2017-11-18]]
-145. **2017-11-18** — [[articles/taiwanjustice-net/2017/20171220120735_2017_11_18_陳破空_美國總統特朗普的亞洲行取得空前成功-_9e4caadfd847b9ca|陳破空：美國總統特朗普的亞洲行取得空前成功 ◎法廣 2017 11-15]]
-146. **2017-11-18** — [[articles/taiwanjustice-net/2017/20171220122535_2017_11_18_陳破空縱論天下videos-2017-11-18_020856a8acd8254b|陳破空縱論天下(videos) 2017-11-18]]
+144. **2017-11-18** — [[articles/taiwanjustice-net/2017/20171220120735_2017_11_18_陳破空_美國總統特朗普的亞洲行取得空前成功-_9e4caadfd847b9ca|陳破空：美國總統特朗普的亞洲行取得空前成功 ◎法廣 2017 11-15]]
+145. **2017-11-18** — [[articles/taiwanjustice-net/2017/20171220122535_2017_11_18_陳破空縱論天下videos-2017-11-18_020856a8acd8254b|陳破空縱論天下(videos) 2017-11-18]]
+146. **2017-11-18** — [[articles/taiwanjustice-net/2024/20240718235156_root_0b639713072e151b|陳破空縱論天下(videos) 2017-11-18]]
 147. **2017-11-18** — [[articles/taiwanjustice-net/2017/20171220120735_2017_11_18_陳破空_美國總統特朗普的亞洲行取得空前成功-_9e4caadfd847b9ca|陳破空：美國總統特朗普的亞洲行取得空前成功 ◎法廣 2017 11-15]]
 148. **2017-11-18** — [[articles/taiwanjustice-net/2017/20171220122535_2017_11_18_陳破空縱論天下videos-2017-11-18_020856a8acd8254b|陳破空縱論天下(videos) 2017-11-18]]
 149. **2017-11-18** — [[articles/taiwanjustice-net/2023/20230930222913_tag_權力鬥爭_929893e3ad3f43c3|'Tag: 權力鬥爭']]

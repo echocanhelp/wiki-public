@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-09
+last_reviewed: 2026-08-10
 ---
 
 # Wei Jingsheng / 魏京生
@@ -63,7 +63,7 @@ Top 8 articles from taiwanjustice.net mentioning wei-jingsheng:
 Articles by other authors that mention **魏景升**: See [[sources/taiwanjustice-net|taiwanjustice.net source hub]] for the full article index. Top mentions by score:
 
 1. **2021-11-26** — [[articles/taiwanjustice-net/2022/20220122122220_2021_11_26_用鮮血和謊言寫下的百年中共黨史_十之七_鄧小_7aa5e666e06681e5|用鮮血和謊言寫下的百年中共黨史（十之七）鄧小平設計了改革開放騙局（1981～1990）◎ 林保華]] (score: 175)
-2. **2021-06-07** — [[articles/taiwanjustice-net/2025/20250718070914_美國加州自由雕塑公園-中共病毒雕塑落成_a91a403ef7e2779b|美國加州自由雕塑公園 “中共病毒”雕塑落成]] (score: 85)
+2. **2021-06-07** — [[articles/taiwanjustice-net/2025/20250718070914_美國加州自由雕塑公園-中共病毒雕塑落成_a91a403ef7e2779b|美國加州自由雕塑公園 “中共病毒”雕塑落成]] (score: 90)
 3. **2022-08-14** — [[articles/taiwanjustice-net/2022/20220929005150_2022_08_14_台海危機波及北戴河會議_習近平內政外交都搞砸_3d8ee743e540cbfa|台海危機波及北戴河會議？習近平內政外交都搞砸 跟全球發達國家翻臉]] (score: 40)
 4. **2022-08-14** — [[articles/taiwanjustice-net/2025/20251012103258_台海危機波及北戴河會議_習近平內政外交都搞砸_4748a863f0793a65|台海危機波及北戴河會議？習近平內政外交都搞砸 跟全球發達國家翻臉]] (score: 40)
 5. **2020-05-25** — [[articles/taiwanjustice-net/2025/20251206001710_六_四31年不能忘記_全球幾十團體將共同網祭_0d253011e33e50dd|六·四31年不能忘記，全球幾十團體將共同網祭]] (score: 40)

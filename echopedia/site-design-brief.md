@@ -1,4 +1,4 @@
-## Site design audit — 2026-08-09 12:06
+## Site design audit — 2026-08-10 08:09
 
 - pages_md=313
 - critical=0 high=0 medium=0
@@ -23,15 +23,15 @@
   - `people/chen-zhefu-xu-chunhui.md`
   - `people/choan-seng-song.md`
   - `people/fan-qingliang.md`
-- **B1** person/org touched ≤7d (rely on recency featured window): 71
+- **B1** person/org touched ≤7d (rely on recency featured window): 68
   - `people/alan-thian.md`
-  - `people/albert-chapter1-zh-hsiaochen-full-review.md`
   - `people/bai-peiyu.md`
-  - `people/bai-weiwei.md`
-  - `people/becky-yang.md`
   - `people/cai-shunyu.md`
   - `people/cao-changqing.md`
   - `people/chao-sile.md`
+  - `people/chen-bozhi.md`
+  - `people/chen-maoxiong.md`
+  - `people/chen-po-kong.md`
 
 ### Programmable heals
 - (none)

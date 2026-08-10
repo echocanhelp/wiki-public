@@ -8,7 +8,7 @@ tags:
   - FAPA
   - community leader
 verification_status: pending
-last_reviewed: 2026-08-09
+last_reviewed: 2026-08-10
 sources:
   - https://en.wikipedia.org/wiki/Ken_Wu
   - https://www.taiwancenter.org/

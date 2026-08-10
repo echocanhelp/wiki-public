@@ -2,14 +2,14 @@
 
 **Mission slice:** members/you ask → vault-backed answer or quiet capture → morning **🔴 NEED YOU** only.
 
-**Updated:** 2026-08-09
+**Updated:** 2026-08-10 (EVO-5 card + metrics)
 
 ## Path
 
 ```text
 question (LINE/TG/CLI)
     → echopedia-first-answer.py
-         HIT  → short grounded reply (person/org page)
+         HIT  → answer **card** (EN/ZH, role, ≤2 facts, Source URL, Related)
          MISS → capture message + gap-queue row
     → need-you-list.py (morning)
          open gaps + identity pending + top unfinished
@@ -62,3 +62,25 @@ For who/what person/org questions: **run CLI first**. Never invent. Miss = captu
 
 - Auto thin-page creation from gaps (owner must approve identity)  
 - Separate Telegram spam for unfinished/connector/intelligence collectors  
+
+
+## Answer card (EVO-5)
+
+```text
+Name (中文)
+Role / one-liner
+· fact 1
+· fact 2
+Source: https://echocanhelp.github.io/wiki-public/people/<slug>
+Related: …
+```
+
+- `--plain` → card text (LINE-friendly)
+- `--compact` → legacy one-liner
+- Metrics (silent): `knowledge/operational/intelligence/first-answer-metrics.jsonl`
+
+## Next ingest (EVO-5)
+
+Sunday continuity + `recommend()` → `intelligence/next-ingest.json` (≤2 advisory).
+Pools: unwatched hosts · org homepages · stub hubs · thin L1 densify.
+Never auto-starts website ingest.

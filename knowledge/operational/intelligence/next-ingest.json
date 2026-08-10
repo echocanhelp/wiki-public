@@ -1,5 +1,27 @@
 {
-  "at": "2026-08-09T21:04:07Z",
-  "suggestions": [],
-  "candidates_considered": 0
+  "at": "2026-08-10T05:27:50Z",
+  "suggestions": [
+    {
+      "kind": "densify",
+      "host": "bai-weiwei",
+      "id": "bai-weiwei",
+      "score": 8,
+      "why": "thin L1 person page (2015 chars); densify from Tier2/roster — not a new website",
+      "action": "go deepen people/bai-weiwei"
+    },
+    {
+      "kind": "densify",
+      "host": "kevin-lee",
+      "id": "kevin-lee",
+      "score": 8,
+      "why": "thin L1 person page (1798 chars); densify from Tier2/roster — not a new website",
+      "action": "go deepen people/kevin-lee"
+    }
+  ],
+  "candidates_considered": 6,
+  "pools": {
+    "website_like": 0,
+    "densify": 4,
+    "total": 6
+  }
 }

@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-09
+last_reviewed: 2026-08-10
 ---
 
 # Hu Ping / 胡平
@@ -115,9 +115,9 @@ Articles by other authors that mention **胡平**: See [[sources/taiwanjustice-n
 
 1. **2022-02-09** — [[articles/taiwanjustice-net/2024/20240715150935_root_381c41cc0d0733ac|陳破空專欄]] (score: 785)
 2. **2023-01-06** — [[articles/taiwanjustice-net/2024/20240221105603_root_7f811410f303ac59|國際要聞]] (score: 720)
-3. **2017-11-30** — [[articles/taiwanjustice-net/2017/20171220122636_2017_11_30_她們_就是我們-趙思樂_她們的征途_上-_-余_cf3667da25193e54|「她們」就是我們—趙思樂《她們的征途》(上)  ◎ 余杰 /民報 2017-11-27]] (score: 325)
+3. **2017-11-30** — [[articles/taiwanjustice-net/2017/20171220122636_2017_11_30_她們_就是我們-趙思樂_她們的征途_上-_-余_cf3667da25193e54|「她們」就是我們—趙思樂《她們的征途》(上)  ◎ 余杰 /民報 2017-11-27]] (score: 330)
 4. **2020-05-24** — [[articles/taiwanjustice-net/2022/20221127060450_2020_05_24_王丹-陳破空等民運人士發表聲明_習近平正在摧毀_cbfa794595722afe|王丹 陳破空等民運人士發表聲明：習近平正在摧毀東方之珠！]] (score: 270)
-5. **2020-05-24** — [[articles/taiwanjustice-net/2025/20251205030738_王丹-陳破空等民運人士發表聲明_習近平正在摧毀_e9a229ea649c7632|王丹 陳破空等民運人士發表聲明：習近平正在摧毀東方之珠！]] (score: 265)
+5. **2020-05-24** — [[articles/taiwanjustice-net/2025/20251205030738_王丹-陳破空等民運人士發表聲明_習近平正在摧毀_e9a229ea649c7632|王丹 陳破空等民運人士發表聲明：習近平正在摧毀東方之珠！]] (score: 270)
 
 ## Timeline
 

@@ -13,7 +13,7 @@ tags:
   - 2025-republication
 verification_status: published
 featured: true
-last_reviewed: 2026-08-09
+last_reviewed: 2026-08-10
 ---
 # Dr. Albert S. Lai (賴信雄)
 
@@ -354,7 +354,6 @@ Notable quotes and mentions of **賴信雄** in Taiwan Justice articles:
    — 陳日君千里求見教宗遭拒 惹哭網友，義媒為陳日君打抱不平 (2020-09-29)
 
 *...and 3 more quotes*
-
 
 ## Timeline
 
