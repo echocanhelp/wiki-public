@@ -4,10 +4,11 @@
 Labels: ✅ AUTO (healed/no action) · 🟡 QUEUE (auto backlog) · 🔴 NEED YOU (your judgment) · ℹ️ INFO
 
 🔴 NEED YOU (your judgment only)
-🔴 NEED YOU  1. Identity: Charles Yang (yang-jia-you)
-     → Confirm/link (capture_line_user_id_on_first_sender_message)
-🔴 NEED YOU  2. Identity: Becky Yang (becky-yang)
-     → Confirm/link (chinese_name)
+✅ AUTO  none — no owner judgment required
+
+🟡 QUEUE / identity (soft — no reply required)
+🟡 QUEUE Becky Yang: soft pending aged out: chinese_name
+🟡 QUEUE Charles Yang: soft pending aged out: capture_line_user_id_on_first_sender_message
 
 🟡 QUEUE / unfinished (not a hard gate)
 🟡 QUEUE 2 pages WIP/incomplete

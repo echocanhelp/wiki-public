@@ -8,7 +8,7 @@ tags:
 name_en: "Sunu Tsai"
 name_zh_hanzi: "蔡淑女"
 verification_status: pending
-last_reviewed: 2026-08-09
+last_reviewed: 2026-08-10
 source_note: "TAHS 2025 organization chart + LINE displayName preferred EN"
 title: "Sunu Tsai (蔡淑女)"
 ---
@@ -87,6 +87,18 @@ Notable quotes and mentions of **蔡淑女** in Taiwan Justice articles:
   - Role: General affairs (總務), TAHS 2025; listed as board attendee at Leonard Hsu's installation ceremony.
   - Publisher: Freeman Huang (黃樹人); categories: `usa`, `taiwaneseamerican`, `usa_news`
   - Live URL: [台美人歷史協會新任會長許景鴻接椽](https://echocanhelp.github.io/wiki-public/articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74.html)
+
+## Network
+
+- [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
+- [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]] — President (會長), 2025–
+- [[people/yang-jia-you|Charles Yang (楊嘉猷)]] — Founding president (創會會長)
+- [[people/roger-tsai|Roger Tsai (蔡漢成)]] — Vice president
+- [[people/freeman-huang|Freeman Huang (黃樹人)]] — Secretary-general (秘書長)
+- [[people/linda-liu|Linda Liu (劉玲華)]] — Advisor
+- [[people/john-yang|John Yang (楊錦忠)]] — Special assistant
+- [[people/yi-sen-lee|Yi Sen Lee (李意盛)]]
+- [[people/tzetsai-eric-shen|Eric Shen (沈梓在)]]
 
 ## Related Pages
 

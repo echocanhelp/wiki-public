@@ -43,6 +43,7 @@ Source: TAHS 2025 org chart (台美人歷史協會組織表), Tax ID **46-400538
 | 總務 (General affairs) | [[people/sunu-tsai|Sunu Tsai (蔡淑女)]] |
 
 Notes:
+- LINE L1 (not chart officer): [[people/kevin-lee|Kevin Lee]] (ZH pending); [[people/willy-pan|Willy Pan]] (LINE: Will).
 - Chart title uses **會務指導會主席** (not separate 財務指導主席). 陳柏宇 is labeled **會計** under that block.
 - **財務** on chart is [[people/phoenix-ko|Phoenix Ko / 柯貝昀]] — not Charles Yang.
 - Charles Yang is **創會會長** on this chart (also historically founding president). Franklin Ping Cheng (程炳成) served as president ~2014–2017.

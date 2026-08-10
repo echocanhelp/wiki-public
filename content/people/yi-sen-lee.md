@@ -10,7 +10,7 @@ tags:
 name_en: "Yi Sen Lee"
 name_zh_hanzi: "李意盛"
 verification_status: pending
-last_reviewed: 2026-08-09
+last_reviewed: 2026-08-10
 source_note: "TAHS 2025 org chart + LINE display Yi Lee + handwritten Yi-Sen Lee on chart (owner 2026-08-03)"
 ---
 # Yi Sen Lee (李意盛)
@@ -83,6 +83,18 @@ Notable quotes and mentions of **李意盛** in Taiwan Justice articles:
 
 1. "職後，立即召開理事會，討論修改章程及會務。會長任期修改為一任三年，相關幹部任期也與會長任期同步。 當天與會的人員包括創會會長楊嘉猷、會長許景鴻、蔡漢成、劉玲華、李意盛、楊錦忠、沈梓在、蔡淑女、黃樹人等。 顧問劉玲華等都提出極具建設性的建議，會務討論極為熱烈。"
    — 台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元 (2025-09-05)
+
+## Network
+
+- [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
+- [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]] — President (會長), 2025–
+- [[people/yang-jia-you|Charles Yang (楊嘉猷)]] — Founding president (創會會長)
+- [[people/roger-tsai|Roger Tsai (蔡漢成)]] — Vice president
+- [[people/freeman-huang|Freeman Huang (黃樹人)]] — Secretary-general (秘書長)
+- [[people/linda-liu|Linda Liu (劉玲華)]] — Advisor
+- [[people/john-yang|John Yang (楊錦忠)]] — Special assistant
+- [[people/sunu-tsai|Sunu Tsai (蔡淑女)]]
+- [[people/tzetsai-eric-shen|Eric Shen (沈梓在)]]
 
 ## Related Pages
 

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-03T15:23:05Z",
+  "updated_at": "2026-08-10T04:33:09Z",
   "description": "Taiwan Justice absorb priority lexicon (L0 identity → L4 orgs)",
   "counts": {
     "total": 300,
@@ -1040,10 +1040,11 @@
       "id": "l2:cai-shunyu",
       "slug": "cai-shunyu",
       "band": "L2",
-      "name_en": "Redirect: Cai Shu-nu → Sunu Tsai",
-      "name_zh": "",
+      "name_en": "Redirect → Sunu Tsai (蔡淑女)",
+      "name_zh": "蔡淑女",
       "aliases": [
-        "Redirect: Cai Shu-nu → Sunu Tsai"
+        "蔡淑女",
+        "Redirect → Sunu Tsai (蔡淑女)"
       ],
       "notes": "content/people"
     },
@@ -1602,10 +1603,11 @@
       "id": "l2:li-yisheng",
       "slug": "li-yisheng",
       "band": "L2",
-      "name_en": "Redirect: Li Yi-sheng → Yi Sen Lee",
-      "name_zh": "",
+      "name_en": "Redirect → Yi Sen Lee (李意盛)",
+      "name_zh": "李意盛",
       "aliases": [
-        "Redirect: Li Yi-sheng → Yi Sen Lee"
+        "李意盛",
+        "Redirect → Yi Sen Lee (李意盛)"
       ],
       "notes": "content/people"
     },
@@ -1948,10 +1950,11 @@
       "id": "l2:shen-zizai",
       "slug": "shen-zizai",
       "band": "L2",
-      "name_en": "Redirect: Shen Zi-zai → Tzetsai Eric Shen",
-      "name_zh": "",
+      "name_en": "Redirect → Eric Shen (沈梓在)",
+      "name_zh": "沈梓在",
       "aliases": [
-        "Redirect: Shen Zi-zai → Tzetsai Eric Shen"
+        "沈梓在",
+        "Redirect → Eric Shen (沈梓在)"
       ],
       "notes": "content/people"
     },
