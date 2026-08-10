@@ -1,0 +1,19 @@
+{
+  "updated_at": "2026-08-10T04:30:19Z",
+  "items": [
+    {
+      "slug": "becky-yang",
+      "kind": "soft_pending",
+      "reason": "soft pending aged out: chinese_name",
+      "display": "Becky Yang",
+      "at": "2026-08-10T04:30:19Z"
+    },
+    {
+      "slug": "yang-jia-you",
+      "kind": "soft_pending",
+      "reason": "soft pending aged out: capture_line_user_id_on_first_sender_message",
+      "display": "Charles Yang",
+      "at": "2026-08-10T04:30:19Z"
+    }
+  ]
+}

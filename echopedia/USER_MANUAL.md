@@ -194,6 +194,7 @@ Look at the **janitor queue** (depth is in SYSTEM_STATUS.md). Typical first task
 | `Echopedia <site>` / `Echopedia <name>` | Prefer full **website** pipeline if a domain; else entity refresh + publish push |
 | **`Echopedia watch add <domain>`** | After WEBSITE_INGEST COMPLETE: registry + baseline + enable — [source-continuity.md](../knowledge/operational/source-continuity.md) |
 | `Echopedia watch remove/pause/status` | Soft-remove / disable / list watched live sites (no cron redesign) |
+| **`go identity link\|defer\|not-member\|clear-pending <slug>`** | Identity close-loop (EVO-3) — [identity-close-loop.md](../knowledge/operational/identity-close-loop.md) |
 
 **“Website” completeness (not optional):**  
 Tier2 MANIFEST for whole domain → **entities/facts sheet** → `content/sources/` hub → rich primary page → **thin pages / links for valuable people & orgs** → hygiene → **publish push**.  

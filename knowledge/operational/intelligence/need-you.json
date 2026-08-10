@@ -1,25 +1,6 @@
 {
-  "generated_at": "2026-08-10T04:03:13Z",
+  "generated_at": "2026-08-10T04:31:03Z",
   "max": 5,
-  "count": 2,
-  "items": [
-    {
-      "id": "id_yang-jia-you",
-      "priority": 2,
-      "kind": "identity",
-      "title": "Identity: Charles Yang (yang-jia-you)",
-      "action": "Confirm/link (capture_line_user_id_on_first_sender_message)",
-      "source": "identity_registry",
-      "ts": null
-    },
-    {
-      "id": "id_becky-yang",
-      "priority": 2,
-      "kind": "identity",
-      "title": "Identity: Becky Yang (becky-yang)",
-      "action": "Confirm/link (chinese_name)",
-      "source": "identity_registry",
-      "ts": null
-    }
-  ]
+  "count": 0,
+  "items": []
 }
