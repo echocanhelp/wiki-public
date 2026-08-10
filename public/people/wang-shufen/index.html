@@ -1,13 +1,487 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8"/>
-  <title>Redirecting…</title>
-  <link rel="canonical" href="../wang-shufen"/>
-  <meta http-equiv="refresh" content="0;url=../wang-shufen"/>
-  <script>location.replace("../wang-shufen");</script>
-</head>
-<body>
-  <p><a href="../wang-shufen">Continue to page</a></p>
-</body>
-</html>
+<html lang="en" dir="ltr"><head><title>Wang Shu-fen / 王淑芬</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;family=IBM Plex Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Echopedia"/><meta property="og:title" content="Wang Shu-fen / 王淑芬"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Wang Shu-fen / 王淑芬"/><meta name="twitter:description" content="Wang Shu-fen / 王淑芬 Mentioned as a contributor or subject in 2017/2023 taiwanjustice.net publications."/><meta property="og:description" content="Wang Shu-fen / 王淑芬 Mentioned as a contributor or subject in 2017/2023 taiwanjustice.net publications."/><meta property="og:image:alt" content="Wang Shu-fen / 王淑芬 Mentioned as a contributor or subject in 2017/2023 taiwanjustice.net publications."/><meta property="og:image" content="https://echocanhelp.github.io/wiki-public/static/og-image.png"/><meta property="og:image:url" content="https://echocanhelp.github.io/wiki-public/static/og-image.png"/><meta name="twitter:image" content="https://echocanhelp.github.io/wiki-public/static/og-image.png"/><meta property="og:image:type" content="image/.png"/><meta property="twitter:domain" content="echocanhelp.github.io/wiki-public"/><meta property="og:url" content="https://echocanhelp.github.io/wiki-public/people/wang-shufen"/><meta property="twitter:url" content="https://echocanhelp.github.io/wiki-public/people/wang-shufen"/><link rel="icon" href="../../static/icon.png"/><meta name="description" content="Wang Shu-fen / 王淑芬 Mentioned as a contributor or subject in 2017/2023 taiwanjustice.net publications."/><meta name="generator" content="Quartz"/><link href="../../index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VSb290IjoiL2hvbWUvbGVlZHQvcXVhcnR6LXY0L3F1YXJ0ei9jb21wb25lbnRzL3N0eWxlcyIsInNvdXJjZXMiOlsibWVybWFpZC5pbmxpbmUuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTs7QUFHRjtFQUNFO0VBQ0E7O0FBR0Y7RUFDRTs7O0FBS0Y7RUFDRTtFQUNBOzs7QUFJSjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTs7QUFHRjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTs7QUFHRjtFQUNFO0VBQ0E7O0FBSUo7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFOztBQUdGO0VBQ0U7O0FBSUY7RUFDRTtFQUNBO0VBQ0EiLCJzb3VyY2VzQ29udGVudCI6WyIuZXhwYW5kLWJ1dHRvbiB7XG4gIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgZGlzcGxheTogZmxleDtcbiAgZmxvYXQ6IHJpZ2h0O1xuICBwYWRkaW5nOiAwLjRyZW07XG4gIG1hcmdpbjogMC4zcmVtO1xuICByaWdodDogMDsgLy8gTk9URTogcmlnaHQgd2lsbCBiZSBzZXQgaW4gbWVybWFpZC5pbmxpbmUudHNcbiAgY29sb3I6IHZhcigtLWdyYXkpO1xuICBib3JkZXItY29sb3I6IHZhcigtLWRhcmspO1xuICBiYWNrZ3JvdW5kLWNvbG9yOiB2YXIoLS1saWdodCk7XG4gIGJvcmRlcjogMXB4IHNvbGlkO1xuICBib3JkZXItcmFkaXVzOiA1cHg7XG4gIG9wYWNpdHk6IDA7XG4gIHRyYW5zaXRpb246IDAuMnM7XG5cbiAgJiA+IHN2ZyB7XG4gICAgZmlsbDogdmFyKC0tbGlnaHQpO1xuICAgIGZpbHRlcjogY29udHJhc3QoMC4zKTtcbiAgfVxuXG4gICY6aG92ZXIge1xuICAgIGN1cnNvcjogcG9pbnRlcjtcbiAgICBib3JkZXItY29sb3I6IHZhcigtLXNlY29uZGFyeSk7XG4gIH1cblxuICAmOmZvY3VzIHtcbiAgICBvdXRsaW5lOiAwO1xuICB9XG59XG5cbnByZSB7XG4gICY6aG92ZXIgPiAuZXhwYW5kLWJ1dHRvbiB7XG4gICAgb3BhY2l0eTogMTtcbiAgICB0cmFuc2l0aW9uOiAwLjJzO1xuICB9XG59XG5cbiNtZXJtYWlkLWNvbnRhaW5lciB7XG4gIHBvc2l0aW9uOiBmaXhlZDtcbiAgY29udGFpbjogbGF5b3V0O1xuICB6LWluZGV4OiA5OTk7XG4gIGxlZnQ6IDA7XG4gIHRvcDogMDtcbiAgd2lkdGg6IDEwMHZ3O1xuICBoZWlnaHQ6IDEwMHZoO1xuICBvdmVyZmxvdzogaGlkZGVuO1xuICBkaXNwbGF5OiBub25lO1xuICBiYWNrZHJvcC1maWx0ZXI6IGJsdXIoNHB4KTtcbiAgYmFja2dyb3VuZDogcmdiYSgwLCAwLCAwLCAwLjUpO1xuXG4gICYuYWN0aXZlIHtcbiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gIH1cblxuICAmID4gI21lcm1haWQtc3BhY2Uge1xuICAgIGJvcmRlcjogMXB4IHNvbGlkIHZhcigtLWxpZ2h0Z3JheSk7XG4gICAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tbGlnaHQpO1xuICAgIGJvcmRlci1yYWRpdXM6IDVweDtcbiAgICBwb3NpdGlvbjogZml4ZWQ7XG4gICAgdG9wOiA1MCU7XG4gICAgbGVmdDogNTAlO1xuICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC01MCUpO1xuICAgIGhlaWdodDogODB2aDtcbiAgICB3aWR0aDogODB2dztcbiAgICBvdmVyZmxvdzogaGlkZGVuO1xuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRlbnQge1xuICAgICAgcG9zaXRpb246IHJlbGF0aXZlO1xuICAgICAgdHJhbnNmb3JtLW9yaWdpbjogMCAwO1xuICAgICAgdHJhbnNpdGlvbjogdHJhbnNmb3JtIDAuMXMgZWFzZTtcbiAgICAgIG92ZXJmbG93OiB2aXNpYmxlO1xuICAgICAgbWluLWhlaWdodDogMjAwcHg7XG4gICAgICBtaW4td2lkdGg6IDIwMHB4O1xuXG4gICAgICBwcmUge1xuICAgICAgICBtYXJnaW46IDA7XG4gICAgICAgIGJvcmRlcjogbm9uZTtcbiAgICAgIH1cblxuICAgICAgc3ZnIHtcbiAgICAgICAgbWF4LXdpZHRoOiBub25lO1xuICAgICAgICBoZWlnaHQ6IGF1dG87XG4gICAgICB9XG4gICAgfVxuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRyb2xzIHtcbiAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgICAgIGJvdHRvbTogMjBweDtcbiAgICAgIHJpZ2h0OiAyMHB4O1xuICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgIGdhcDogOHB4O1xuICAgICAgcGFkZGluZzogOHB4O1xuICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHQpO1xuICAgICAgYm9yZGVyOiAxcHggc29saWQgdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgIGJvcmRlci1yYWRpdXM6IDZweDtcbiAgICAgIGJveC1zaGFkb3c6IDAgMnB4IDRweCByZ2JhKDAsIDAsIDAsIDAuMSk7XG4gICAgICB6LWluZGV4OiAyO1xuXG4gICAgICAubWVybWFpZC1jb250cm9sLWJ1dHRvbiB7XG4gICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICAgICAgICB3aWR0aDogMzJweDtcbiAgICAgICAgaGVpZ2h0OiAzMnB4O1xuICAgICAgICBwYWRkaW5nOiAwO1xuICAgICAgICBib3JkZXI6IDFweCBzb2xpZCB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodCk7XG4gICAgICAgIGNvbG9yOiB2YXIoLS1kYXJrKTtcbiAgICAgICAgYm9yZGVyLXJhZGl1czogNHB4O1xuICAgICAgICBjdXJzb3I6IHBvaW50ZXI7XG4gICAgICAgIGZvbnQtc2l6ZTogMTZweDtcbiAgICAgICAgZm9udC1mYW1pbHk6IHZhcigtLWJvZHlGb250KTtcbiAgICAgICAgdHJhbnNpdGlvbjogYWxsIDAuMnMgZWFzZTtcblxuICAgICAgICAmOmhvdmVyIHtcbiAgICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICB9XG5cbiAgICAgICAgJjphY3RpdmUge1xuICAgICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgxcHgpO1xuICAgICAgICB9XG5cbiAgICAgICAgLy8gU3R5bGUgdGhlIHJlc2V0IGJ1dHRvbiBkaWZmZXJlbnRseVxuICAgICAgICAmOm50aC1jaGlsZCgyKSB7XG4gICAgICAgICAgd2lkdGg6IGF1dG87XG4gICAgICAgICAgcGFkZGluZzogMCAxMnB4O1xuICAgICAgICAgIGZvbnQtc2l6ZTogMTRweDtcbiAgICAgICAgfVxuICAgICAgfVxuICAgIH1cbiAgfVxufVxuIl19 */</style><script src="../../prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://echocanhelp.github.io/wiki-public/index.xml"/></head><body data-slug="people/wang-shufen"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Echopedia</a></h2><div class="spacer mobile-only"></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 1rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Search</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Search for something" placeholder="Search for something"/><div class="search-layout" data-preview="true"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Dark mode"><title>Dark mode</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Light mode"><title>Light mode</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Reader mode"><title>Reader mode</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a,b)=>!a.isFolder&amp;&amp;!b.isFolder||a.isFolder&amp;&amp;b.isFolder?a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\&quot;base\&quot;}):!a.isFolder&amp;&amp;b.isFolder?1:-1&quot;,&quot;filterFn&quot;:&quot;node=>node.slugSegment!==\&quot;tags\&quot;&quot;,&quot;mapFn&quot;:&quot;node=>node&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-30016"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Explorer</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-30016" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#"></a></li></template><template id="template-folder"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../people/">People</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Wang Shu fen / 王淑芬</a></div></nav><h1 class="article-title">Wang Shu-fen / 王淑芬</h1><p show-comma="true" class="content-meta"><time datetime="2026-08-09T19:03:08.605Z">Aug 09, 2026</time><span>44 min read</span></p><ul class="tags"><li><a href="../../tags/TAHS" class="internal tag-link">TAHS</a></li><li><a href="../../tags/taiwanjustice" class="internal tag-link">taiwanjustice</a></li><li><a href="../../tags/publication-contributor" class="internal tag-link">publication-contributor</a></li></ul></div></div><article class="popover-hint"><h1 id="wang-shu-fen--王淑芬">Wang Shu-fen / 王淑芬<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#wang-shu-fen--王淑芬" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>Mentioned as a contributor or subject in 2017/2023 <a href="../../organizations/taiwanjustice-net" class="internal alias" data-slug="organizations/taiwanjustice-net">taiwanjustice.net</a> publications. Added to the TAHS L1 priority roster for community engagement and archive scoring.</p>
+<p>Related: <a href="../../organizations/taiwanese-american-historical-society" class="internal alias" data-slug="organizations/taiwanese-american-historical-society">Taiwanese American Historical Society</a></p>
+<h2 id="tj-citations">TJ Citations<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#tj-citations" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Top 10 articles from taiwanjustice.net mentioning wang-shufen:</p>
+<ol>
+<li><strong>2022-06-22</strong> — <a href="../../articles/taiwanjustice-net/2023/20231201225623_root_41b304eda05fa545" class="internal alias" data-slug="articles/taiwanjustice-net/2023/20231201225623_root_41b304eda05fa545">Covid-19 浩劫餘生錄</a>
+<ul>
+<li><em>野地的花 ◎ 楊遠薰…</em></li>
+<li>Score: 740</li>
+</ul>
+</li>
+<li><strong>2023-10-04</strong> — <a href="../../articles/taiwanjustice-net/2023/20231201230251_root_3ab5b8dfba8018b5" class="internal alias" data-slug="articles/taiwanjustice-net/2023/20231201230251_root_3ab5b8dfba8018b5">藝文</a>
+<ul>
+<li><em>留在華沙的那顆心 ◎王淑芬…</em></li>
+<li>Score: 740</li>
+</ul>
+</li>
+<li><strong>2020-08-14</strong> — <a href="../../articles/taiwanjustice-net/2025/20250515102312_高雄市長補選15日登場-雙鐵出現返鄉人潮_21a5534ecfeaf505" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20250515102312_高雄市長補選15日登場-雙鐵出現返鄉人潮_21a5534ecfeaf505">高雄市長補選15日登場 雙鐵出現返鄉人潮</a>
+<ul>
+<li><em>敬請支持‧歡迎訂閱本報newsletter…</em></li>
+<li>Score: 165</li>
+</ul>
+</li>
+<li><strong>2021-04-20</strong> — <a href="../../articles/taiwanjustice-net/2025/20251108180838_榮獲廖述宗教授紀念獎_罷韓四君子_是肯定每個_d2e6e5b19ab4b452" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20251108180838_榮獲廖述宗教授紀念獎_罷韓四君子_是肯定每個_d2e6e5b19ab4b452">榮獲廖述宗教授紀念獎，罷韓四君子：是肯定每個夥伴</a>
+<ul>
+<li><em>敬請支持‧歡迎訂閱本報newsletter…</em></li>
+<li>Score: 160</li>
+</ul>
+</li>
+<li><strong>2022-04-11</strong> — <a href="../../articles/taiwanjustice-net/2022/20221127063405_2022_04_11_黃昏的故鄉-_-王淑芬_c9c0a1f75954a910" class="internal alias" data-slug="articles/taiwanjustice-net/2022/20221127063405_2022_04_11_黃昏的故鄉-_-王淑芬_c9c0a1f75954a910">黃昏的故鄉 ◎ 王淑芬</a>
+<ul>
+<li><em>看到新聞報導，台灣一代歌王文夏去世，雖然不是震驚，但是心裡有種很傷感的痛，雖然我不認識他的人，但是他的歌聲，在很多台灣人的心中、耳邊，廻繞了快一世紀，失去這樣一個「有台灣味」「創台灣歌」的台灣人，我有一份說不出的失落感。…</em></li>
+<li>Score: 155</li>
+</ul>
+</li>
+<li><strong>2023-09-11</strong> — <a href="../../articles/taiwanjustice-net/2023/20230923040117_2023_09_11_come-from-away-重回gander-憶911-_王淑芬_f730265b2ec61427" class="internal alias" data-slug="articles/taiwanjustice-net/2023/20230923040117_2023_09_11_come-from-away-重回gander-憶911-_王淑芬_f730265b2ec61427">Come from away…重回Gander 憶911 ◎王淑芬</a>
+<ul>
+<li><em>有時候，我會不得不相信「命運捉弄人」這話，但是，很多沒有想到的事情發生時，你卻不得不相信，也許真的有隻命運的手，有時會喬些小驚訝給你。…</em></li>
+<li>Score: 140</li>
+</ul>
+</li>
+<li><strong>2020-01-10</strong> — <a href="../../articles/taiwanjustice-net/2025/20250617075507_選前之夜-蔡總統_高雄人不能讓韓國瑜騙第二次_880e4017516d8998" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20250617075507_選前之夜-蔡總統_高雄人不能讓韓國瑜騙第二次_880e4017516d8998">選前之夜 蔡總統：高雄人不能讓韓國瑜騙第二次</a>
+<ul>
+<li><em>（中央社記者王淑芬、葉素萍高雄10日電）總統蔡英文今天在「光復高雄選前之夜」造勢晚會火力全開，指國民黨總統候選人韓國瑜「原來高雄人是他用完就丟到旁邊的工具」，還說「高雄人絕對不能讓他騙第二次」。…</em></li>
+<li>Score: 135</li>
+</ul>
+</li>
+<li><strong>2022-03-09</strong> — <a href="../../articles/taiwanjustice-net/2022/20220519125824_2022_03_09_回台住自己家-_-王淑芬_30d6d3a92e583272" class="internal alias" data-slug="articles/taiwanjustice-net/2022/20220519125824_2022_03_09_回台住自己家-_-王淑芬_30d6d3a92e583272">回台住自己家 ◎ 王淑芬</a>
+<ul>
+<li><em>昨天晚上，我正認真努力的在看日本片「Drive my car」，手機叮噹響，有一個email訊息，本來想電影正火熱進行，不想搭理，但是卻瞄到居然是台灣的衛生福利部來的訊息，我剛剛從台灣回來，有點擔心，會不會是我在台灣不小心踩到地雷，要被匡列了（我要離台前最怕的事），因此趕快看一下是怎麼回事，結果居然…</em></li>
+<li>Score: 130</li>
+</ul>
+</li>
+<li><strong>2022-03-09</strong> — <a href="../../articles/taiwanjustice-net/2025/20250512060926_回台住自己家-_-王淑芬_ddffa8f6c7db0dbf" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20250512060926_回台住自己家-_-王淑芬_ddffa8f6c7db0dbf">回台住自己家 ◎ 王淑芬</a>
+<ul>
+<li><em>昨天晚上，我正認真努力的在看日本片「Drive my car」，手機叮噹響，有一個email訊息，本來想電影正火熱進行，不想搭理，但是卻瞄到居然是台灣的衛生福利部來的訊息，我剛剛從台灣回來，有點擔心，會不會是我在台灣不小心踩到地雷，要被匡列了（我要離台前最怕的事），因此趕快看一下是怎麼回事，結果居然…</em></li>
+<li>Score: 130</li>
+</ul>
+</li>
+<li><strong>2022-01-09</strong> — <a href="../../articles/taiwanjustice-net/2025/20250512062256_回家_好難-_-王淑芬_1a4e0748a60a78a4" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20250512062256_回家_好難-_-王淑芬_1a4e0748a60a78a4">回家，好難 ◎ 王淑芬</a></li>
+</ol>
+<ul>
+<li><em>2022-01-09…</em></li>
+<li>Score: 130</li>
+</ul>
+<h2 id="works">Works<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#works" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><strong>王淑芬</strong> has <strong>77</strong> articles where they appear in the title (column articles) and <strong>51</strong> additional articles that mention them in the body.</p>
+<h3 id="2023-9-articles">2023 (9 articles)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#2023-9-articles" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ol>
+<li><strong>2023-10-04</strong> — <a href="../../articles/taiwanjustice-net/2023/20231208125116_root_a34d5afb351ffdd6" class="internal alias" data-slug="articles/taiwanjustice-net/2023/20231208125116_root_a34d5afb351ffdd6">留在華沙的那顆心 ◎王淑芬</a></li>
+<li><strong>2023-10-04</strong> — <a href="../../articles/taiwanjustice-net/2025/20250321223125_留在華沙的那顆心-_王淑芬_8931879637326dab" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20250321223125_留在華沙的那顆心-_王淑芬_8931879637326dab">留在華沙的那顆心 ◎王淑芬</a></li>
+<li><strong>2023-10-04</strong> — <a href="../../articles/taiwanjustice-net/2023/20231201230251_root_3ab5b8dfba8018b5" class="internal alias" data-slug="articles/taiwanjustice-net/2023/20231201230251_root_3ab5b8dfba8018b5">藝文</a></li>
+<li><strong>2023-10-04</strong> — <a href="../../articles/taiwanjustice-net/2023/20231208125116_root_a34d5afb351ffdd6" class="internal alias" data-slug="articles/taiwanjustice-net/2023/20231208125116_root_a34d5afb351ffdd6">留在華沙的那顆心 ◎王淑芬</a></li>
+<li><strong>2023-10-04</strong> — <a href="../../articles/taiwanjustice-net/2025/20250321223125_留在華沙的那顆心-_王淑芬_8931879637326dab" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20250321223125_留在華沙的那顆心-_王淑芬_8931879637326dab">留在華沙的那顆心 ◎王淑芬</a></li>
+<li><strong>2023-10-04</strong> — <a href="../../articles/taiwanjustice-net/2025/20250422122935_tag_留在華沙的那顆心-_王淑芬_31daf63e15d5c9d0" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20250422122935_tag_留在華沙的那顆心-_王淑芬_31daf63e15d5c9d0">‘Tag: 留在華沙的那顆心 ◎王淑芬’</a></li>
+<li><strong>2023-10-04</strong> — <a href="../../articles/taiwanjustice-net/2024/20240302024237_root_ed6751cef6dcf295" class="internal alias" data-slug="articles/taiwanjustice-net/2024/20240302024237_root_ed6751cef6dcf295">‘Tag: 留在華沙的那顆心 ◎王淑芬’</a></li>
+<li><strong>2023-09-11</strong> — <a href="../../articles/taiwanjustice-net/2023/20230923040117_2023_09_11_come-from-away-重回gander-憶911-_王淑芬_f730265b2ec61427" class="internal alias" data-slug="articles/taiwanjustice-net/2023/20230923040117_2023_09_11_come-from-away-重回gander-憶911-_王淑芬_f730265b2ec61427">Come from away…重回Gander 憶911 ◎王淑芬</a></li>
+<li><strong>2023-09-11</strong> — <a href="../../articles/taiwanjustice-net/2023/20230923040117_2023_09_11_come-from-away-重回gander-憶911-_王淑芬_f730265b2ec61427" class="internal alias" data-slug="articles/taiwanjustice-net/2023/20230923040117_2023_09_11_come-from-away-重回gander-憶911-_王淑芬_f730265b2ec61427">Come from away…重回Gander 憶911 ◎王淑芬</a></li>
+</ol>
+<h3 id="2022-13-articles">2022 (13 articles)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#2022-13-articles" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ol>
+<li><strong>2022-06-22</strong> — <a href="../../articles/taiwanjustice-net/2023/20231201225623_root_41b304eda05fa545" class="internal alias" data-slug="articles/taiwanjustice-net/2023/20231201225623_root_41b304eda05fa545">Covid-19 浩劫餘生錄</a></li>
+<li><strong>2022-04-11</strong> — <a href="../../articles/taiwanjustice-net/2022/20221127063405_2022_04_11_黃昏的故鄉-_-王淑芬_c9c0a1f75954a910" class="internal alias" data-slug="articles/taiwanjustice-net/2022/20221127063405_2022_04_11_黃昏的故鄉-_-王淑芬_c9c0a1f75954a910">黃昏的故鄉 ◎ 王淑芬</a></li>
+<li><strong>2022-04-11</strong> — <a href="../../articles/taiwanjustice-net/2022/20220517045432_tag_王淑芬_5c84d27f7ad1fbc0" class="internal alias" data-slug="articles/taiwanjustice-net/2022/20220517045432_tag_王淑芬_5c84d27f7ad1fbc0">‘Tag: 王淑芬’</a></li>
+<li><strong>2022-04-11</strong> — <a href="../../articles/taiwanjustice-net/2022/20221127063405_2022_04_11_黃昏的故鄉-_-王淑芬_c9c0a1f75954a910" class="internal alias" data-slug="articles/taiwanjustice-net/2022/20221127063405_2022_04_11_黃昏的故鄉-_-王淑芬_c9c0a1f75954a910">黃昏的故鄉 ◎ 王淑芬</a></li>
+<li><strong>2022-03-09</strong> — <a href="../../articles/taiwanjustice-net/2022/20220519125824_2022_03_09_回台住自己家-_-王淑芬_30d6d3a92e583272" class="internal alias" data-slug="articles/taiwanjustice-net/2022/20220519125824_2022_03_09_回台住自己家-_-王淑芬_30d6d3a92e583272">回台住自己家 ◎ 王淑芬</a></li>
+<li><strong>2022-03-09</strong> — <a href="../../articles/taiwanjustice-net/2025/20250512060926_回台住自己家-_-王淑芬_ddffa8f6c7db0dbf" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20250512060926_回台住自己家-_-王淑芬_ddffa8f6c7db0dbf">回台住自己家 ◎ 王淑芬</a></li>
+<li><strong>2022-03-09</strong> — <a href="../../articles/taiwanjustice-net/2025/20250512060926_回台住自己家-_-王淑芬_ddffa8f6c7db0dbf" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20250512060926_回台住自己家-_-王淑芬_ddffa8f6c7db0dbf">回台住自己家 ◎ 王淑芬</a></li>
+<li><strong>2022-03-09</strong> — <a href="../../articles/taiwanjustice-net/2022/20220519125824_2022_03_09_回台住自己家-_-王淑芬_30d6d3a92e583272" class="internal alias" data-slug="articles/taiwanjustice-net/2022/20220519125824_2022_03_09_回台住自己家-_-王淑芬_30d6d3a92e583272">回台住自己家 ◎ 王淑芬</a></li>
+<li><strong>2022-01-09</strong> — <a href="../../articles/taiwanjustice-net/2025/20250512062256_回家_好難-_-王淑芬_1a4e0748a60a78a4" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20250512062256_回家_好難-_-王淑芬_1a4e0748a60a78a4">回家，好難 ◎ 王淑芬</a></li>
+<li><strong>2022-01-09</strong> — <a href="../../articles/taiwanjustice-net/2022/20220127023112_2022_01_09_回家_好難-_-王淑芬_d26807f04426a0e8" class="internal alias" data-slug="articles/taiwanjustice-net/2022/20220127023112_2022_01_09_回家_好難-_-王淑芬_d26807f04426a0e8">回家，好難 ◎ 王淑芬</a></li>
+<li><strong>2022-01-09</strong> — <a href="../../articles/taiwanjustice-net/2025/20250512062256_回家_好難-_-王淑芬_1a4e0748a60a78a4" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20250512062256_回家_好難-_-王淑芬_1a4e0748a60a78a4">回家，好難 ◎ 王淑芬</a></li>
+<li><strong>2022-01-09</strong> — <a href="../../articles/taiwanjustice-net/2022/20220518165719_tag_回家_好難_df9bd3e505bb9835" class="internal alias" data-slug="articles/taiwanjustice-net/2022/20220518165719_tag_回家_好難_df9bd3e505bb9835">‘Tag: 回家，好難’</a></li>
+<li><strong>2022-01-09</strong> — <a href="../../articles/taiwanjustice-net/2022/20220127023112_2022_01_09_回家_好難-_-王淑芬_d26807f04426a0e8" class="internal alias" data-slug="articles/taiwanjustice-net/2022/20220127023112_2022_01_09_回家_好難-_-王淑芬_d26807f04426a0e8">回家，好難 ◎ 王淑芬</a></li>
+</ol>
+<h3 id="2021-13-articles">2021 (13 articles)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#2021-13-articles" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ol>
+<li><strong>2021-12-26</strong> — <a href="../../articles/taiwanjustice-net/2022/20220517053449_2021_12_26_台美人筆會會長交接_賴慧娜交棒王淑芬_70a8a32d4cc3ca7a" class="internal alias" data-slug="articles/taiwanjustice-net/2022/20220517053449_2021_12_26_台美人筆會會長交接_賴慧娜交棒王淑芬_70a8a32d4cc3ca7a">台美人筆會會長交接，賴慧娜交棒王淑芬</a></li>
+<li><strong>2021-12-26</strong> — <a href="../../articles/taiwanjustice-net/2022/20220517053449_2021_12_26_台美人筆會會長交接_賴慧娜交棒王淑芬_70a8a32d4cc3ca7a" class="internal alias" data-slug="articles/taiwanjustice-net/2022/20220517053449_2021_12_26_台美人筆會會長交接_賴慧娜交棒王淑芬_70a8a32d4cc3ca7a">台美人筆會會長交接，賴慧娜交棒王淑芬</a></li>
+<li><strong>2021-11-25</strong> — <a href="../../articles/taiwanjustice-net/2021/20211205042210_category_covid-19_007a2c2acbaa178b" class="internal alias" data-slug="articles/taiwanjustice-net/2021/20211205042210_category_covid-19_007a2c2acbaa178b">Covid-19 浩劫餘生錄</a></li>
+<li><strong>2021-04-28</strong> — <a href="../../articles/taiwanjustice-net/2025/20251115183517_安倍晉三推特po照_大讚台灣鳳梨好吃_ea6e942badd28fd6" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20251115183517_安倍晉三推特po照_大讚台灣鳳梨好吃_ea6e942badd28fd6">安倍晉三推特PO照，大讚台灣鳳梨好吃</a></li>
+<li><strong>2021-04-20</strong> — <a href="../../articles/taiwanjustice-net/2025/20251108180838_榮獲廖述宗教授紀念獎_罷韓四君子_是肯定每個_d2e6e5b19ab4b452" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20251108180838_榮獲廖述宗教授紀念獎_罷韓四君子_是肯定每個_d2e6e5b19ab4b452">榮獲廖述宗教授紀念獎，罷韓四君子：是肯定每個夥伴</a></li>
+<li><strong>2021-04-03</strong> — <a href="../../articles/taiwanjustice-net/2025/20250616001956_傳口頭請辭_林佳龍_會負起該負責任-不會迴避_82497db541610534" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20250616001956_傳口頭請辭_林佳龍_會負起該負責任-不會迴避_82497db541610534">林佳龍口頭請辭：會負起該負責任 不會迴避+府院同聲：目前不是談的時機</a></li>
+<li><strong>2021-03-27</strong> — <a href="../../articles/taiwanjustice-net/2025/20250620185729_核四最後一批120束燃料棒抵基隆港-將運美國_蘇貞_9bd5761f2824dcb6" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20250620185729_核四最後一批120束燃料棒抵基隆港-將運美國_蘇貞_9bd5761f2824dcb6">核四最後一批120束燃料棒抵基隆港 將運美國，蘇貞昌：核四當年沒完工建照過期</a></li>
+<li><strong>2021-02-28</strong> — [[articles/taiwanjustice-net/2026/20260209120153_走訪鳳梨產銷班_蔡總統籲農民免驚_政府相挺影_2016f598790d3f2e|走訪鳳梨產銷班，蔡總統籲農民免驚，政府相挺[影]]]</li>
+<li><strong>2021-02-25</strong> — <a href="../../articles/taiwanjustice-net/2026/20260209120742_中樞紀念二二八在高雄_陳其邁_有助撫平歷史傷_cba45ec7790910d8" class="internal alias" data-slug="articles/taiwanjustice-net/2026/20260209120742_中樞紀念二二八在高雄_陳其邁_有助撫平歷史傷_cba45ec7790910d8">中樞紀念二二八在高雄，陳其邁：有助撫平歷史傷口</a></li>
+<li><strong>2021-02-16</strong> — <a href="../../articles/taiwanjustice-net/2022/20220927203256_tag_深夜的約會_1e6b8e39a275688f" class="internal alias" data-slug="articles/taiwanjustice-net/2022/20220927203256_tag_深夜的約會_1e6b8e39a275688f">‘Tag: 深夜的約會’</a></li>
+<li><strong>2021-02-06</strong> — <a href="../../articles/taiwanjustice-net/2026/20260211085546_黃捷罷免案未通過_學者_罷免理由不充分難獲認_5d6e49dd827bcbe7" class="internal alias" data-slug="articles/taiwanjustice-net/2026/20260211085546_黃捷罷免案未通過_學者_罷免理由不充分難獲認_5d6e49dd827bcbe7">黃捷罷免案未通過，學者：罷免理由不充分難獲認同</a></li>
+<li><strong>2021-01-27</strong> — <a href="../../articles/taiwanjustice-net/2021/20210419130055_2021_01_27_黃捷籲反罷免_趙天麟_讓報復性歪風在鳳山停止_faac2f6da1a07b74" class="internal alias" data-slug="articles/taiwanjustice-net/2021/20210419130055_2021_01_27_黃捷籲反罷免_趙天麟_讓報復性歪風在鳳山停止_faac2f6da1a07b74">黃捷籲反罷免，趙天麟：讓報復性歪風在鳳山停止</a></li>
+<li><strong>2021-01-13</strong> — <a href="../../articles/taiwanjustice-net/2021/20210121181616_2021_01_13_楊志良稱應開除染疫醫_總統_不需風涼話打擊士_e334dc449101473f" class="internal alias" data-slug="articles/taiwanjustice-net/2021/20210121181616_2021_01_13_楊志良稱應開除染疫醫_總統_不需風涼話打擊士_e334dc449101473f">楊志良稱應開除染疫醫，總統：不需風涼話打擊士氣，醫師工會籲楊道歉</a></li>
+</ol>
+<h3 id="2020-36-articles">2020 (36 articles)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#2020-36-articles" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ol>
+<li><strong>2020-11-21</strong> — <a href="../../articles/taiwanjustice-net/2025/20250417221918_category_literature_2bf783a2cbd3ac5a" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20250417221918_category_literature_2bf783a2cbd3ac5a">藝文</a></li>
+<li><strong>2020-10-31</strong> — <a href="../../articles/taiwanjustice-net/2021/20211129015648_category_covid-19_c51de4d79c9af3fe" class="internal alias" data-slug="articles/taiwanjustice-net/2021/20211129015648_category_covid-19_c51de4d79c9af3fe">Covid-19 浩劫餘生錄</a></li>
+<li><strong>2020-10-20</strong> — <a href="../../articles/taiwanjustice-net/2021/20210927013624_2020_10_20_軍包機遭香港作梗被迫返航後_副參謀總長搭運輸_30fbd9db48289aaa" class="internal alias" data-slug="articles/taiwanjustice-net/2021/20210927013624_2020_10_20_軍包機遭香港作梗被迫返航後_副參謀總長搭運輸_30fbd9db48289aaa">軍包機遭香港作梗被迫返航後，副參謀總長搭運輸機飛抵東沙+東沙立榮包機22日航班 恐因天候添變數</a></li>
+<li><strong>2020-10-13</strong> — <a href="../../articles/taiwanjustice-net/2026/20260125062840_李眉蓁碩論抄襲挨告未出庭請假_檢方將決定是否_3b5bbb92e9870a6c" class="internal alias" data-slug="articles/taiwanjustice-net/2026/20260125062840_李眉蓁碩論抄襲挨告未出庭請假_檢方將決定是否_3b5bbb92e9870a6c">李眉蓁碩論抄襲挨告未出庭請假，檢方將決定是否拘提</a></li>
+<li><strong>2020-10-13</strong> — <a href="../../articles/taiwanjustice-net/2026/20260125063953_中山大學公告撤銷李眉蓁碩士學位_林德昌不得任_41015e11279c5419" class="internal alias" data-slug="articles/taiwanjustice-net/2026/20260125063953_中山大學公告撤銷李眉蓁碩士學位_林德昌不得任_41015e11279c5419">中山大學公告撤銷李眉蓁碩士學位、林德昌不得任碩專生導師．李眉蓁：作法令人失望，校方：她沒提申復</a></li>
+<li><strong>2020-08-21</strong> — <a href="../../articles/taiwanjustice-net/2025/20250519021739_台灣大旺漁船印尼漁工爆常被毆打威脅強迫勞動_37795f58c8fd6d66" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20250519021739_台灣大旺漁船印尼漁工爆常被毆打威脅強迫勞動_37795f58c8fd6d66">台灣大旺漁船印尼漁工爆常被毆打威脅強迫勞動，美國海關扣押</a></li>
+<li><strong>2020-08-20</strong> — <a href="../../articles/taiwanjustice-net/2024/20240301085659_root_1c675f9cc18d4ed3" class="internal alias" data-slug="articles/taiwanjustice-net/2024/20240301085659_root_1c675f9cc18d4ed3">陳其邁3副手林欽榮、史哲、羅達生，女性局處長有亮點</a></li>
+<li><strong>2020-08-15</strong> — <a href="../../articles/taiwanjustice-net/2025/20250515092707_陳其邁67萬票當選高雄市長-強調解決空污等4大優先_602edf0b3bb1e9c1" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20250515092707_陳其邁67萬票當選高雄市長-強調解決空污等4大優先_602edf0b3bb1e9c1">陳其邁67萬票當選高雄市長 強調解決空污等4大優先</a></li>
+<li><strong>2020-08-14</strong> — <a href="../../articles/taiwanjustice-net/2025/20250515102312_高雄市長補選15日登場-雙鐵出現返鄉人潮_21a5534ecfeaf505" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20250515102312_高雄市長補選15日登場-雙鐵出現返鄉人潮_21a5534ecfeaf505">高雄市長補選15日登場 雙鐵出現返鄉人潮</a></li>
+<li><strong>2020-08-14</strong> — <a href="../../articles/taiwanjustice-net/2025/20250524165656_高雄市長補選-估15日晚間7時前揭曉新市長_462754718b085cf2" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20250524165656_高雄市長補選-估15日晚間7時前揭曉新市長_462754718b085cf2">高雄市長補選 估15日晚間7時前揭曉新市長</a></li>
+<li><strong>2020-07-26</strong> — <a href="../../articles/taiwanjustice-net/2025/20250621180220_高市議長補選31日登場_藍綠陷茶壺風暴受關注_e4559bc38e016095" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20250621180220_高市議長補選31日登場_藍綠陷茶壺風暴受關注_e4559bc38e016095">高市議長補選31日登場，藍綠陷茶壺風暴受關注</a></li>
+<li><strong>2020-06-23</strong> — <a href="../../articles/taiwanjustice-net/2025/20250515102225_吳益政接受民眾黨徵召補選高雄市長_保留親民黨_d30a94d593efd153" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20250515102225_吳益政接受民眾黨徵召補選高雄市長_保留親民黨_d30a94d593efd153">吳益政接受民眾黨徵召補選高雄市長，保留親民黨籍</a></li>
+<li><strong>2020-06-21</strong> — <a href="../../articles/taiwanjustice-net/2025/20251205021632_拚高市長補選-陳其邁_競總團隊22日公布_趙天麟_25bdb3a5c5abc0b2" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20251205021632_拚高市長補選-陳其邁_競總團隊22日公布_趙天麟_25bdb3a5c5abc0b2">拚高市長補選，陳其邁競總團隊主委許立明出任，總幹事為立委趙天麟</a></li>
+<li><strong>2020-06-21</strong> — <a href="../../articles/taiwanjustice-net/2020/20200623235826_2020_06_21_拚高市長補選-陳其邁_競總團隊22日公布_趙天麟_c3caed5fc249caa4" class="internal alias" data-slug="articles/taiwanjustice-net/2020/20200623235826_2020_06_21_拚高市長補選-陳其邁_競總團隊22日公布_趙天麟_c3caed5fc249caa4">拚高市長補選，陳其邁競總團隊主委許立明出任，總幹事為立委趙天麟</a></li>
+<li><strong>2020-06-06</strong> — <a href="../../articles/taiwanjustice-net/2026/20260112173907_罷韓開票後-高雄市議會議長許崑源墜樓身亡享壽63_2fb4b6877344cca9" class="internal alias" data-slug="articles/taiwanjustice-net/2026/20260112173907_罷韓開票後-高雄市議會議長許崑源墜樓身亡享壽63_2fb4b6877344cca9">罷韓開票後 高雄市議會議長許崑源墜樓身亡享壽63歲</a></li>
+<li><strong>2020-06-04</strong> — <a href="../../articles/taiwanjustice-net/2025/20251207063119_罷韓遊行引六四天安門撐香港-放天燈祈願迎新高雄_ac4e8daad327e19b" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20251207063119_罷韓遊行引六四天安門撐香港-放天燈祈願迎新高雄_ac4e8daad327e19b">罷韓遊行引六四天安門撐香港 放天燈祈願迎新高雄</a></li>
+<li><strong>2020-05-31</strong> — <a href="../../articles/taiwanjustice-net/2025/20250515091555_罷韓決戰黃金週-罷團啟動掃街車隊_ec7e8a5fd508d7f0" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20250515091555_罷韓決戰黃金週-罷團啟動掃街車隊_ec7e8a5fd508d7f0">罷韓決戰黃金週 罷團啟動掃街車隊</a></li>
+<li><strong>2020-05-27</strong> — <a href="../../articles/taiwanjustice-net/2025/20250518221414_罷團批破億公帑反罷韓_高市府籲勿扭曲紓困遭批_6bc793a6d1155b37" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20250518221414_罷團批破億公帑反罷韓_高市府籲勿扭曲紓困遭批_6bc793a6d1155b37">罷團批破億公帑反罷韓，高市府籲勿扭曲紓困+遭批罷韓先鋒，中選會：依法辦選務何錯之有</a></li>
+<li><strong>2020-05-21</strong> — <a href="../../articles/taiwanjustice-net/2026/20260115091403_罷韓投票_韓國瑜再提暫停執行罷免投票-北高行駁_6328fcb594b9bf8f" class="internal alias" data-slug="articles/taiwanjustice-net/2026/20260115091403_罷韓投票_韓國瑜再提暫停執行罷免投票-北高行駁_6328fcb594b9bf8f">罷韓投票／韓國瑜再提暫停執行罷免投票 北高行駁回+陳其邁：6月6日天氣好 會回高雄投票行使公民權</a></li>
+<li><strong>2020-05-19</strong> — <a href="../../articles/taiwanjustice-net/2025/20250501001118_罷韓投票_趙天麟上街發罷韓文宣催票_黃光芹現_165cede3a3fedac4" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20250501001118_罷韓投票_趙天麟上街發罷韓文宣催票_黃光芹現_165cede3a3fedac4">罷韓投票／趙天麟上街發罷韓文宣催票，黃光芹現身相挺</a></li>
+<li><strong>2020-05-18</strong> — <a href="../../articles/taiwanjustice-net/2025/20250420001121_高雄迪士尼夢碎-韓國瑜兩手一攤_這個政見我收回_43387ef8516fa76d" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20250420001121_高雄迪士尼夢碎-韓國瑜兩手一攤_這個政見我收回_43387ef8516fa76d">高雄迪士尼夢碎 韓國瑜兩手一攤：這個政見我收回</a></li>
+<li><strong>2020-05-15</strong> — <a href="../../articles/taiwanjustice-net/2026/20260112163654_罷韓投票_韓國瑜再提暫停執行罷韓_wecare高雄批玩_6bd78a9ab92d1527" class="internal alias" data-slug="articles/taiwanjustice-net/2026/20260112163654_罷韓投票_韓國瑜再提暫停執行罷韓_wecare高雄批玩_6bd78a9ab92d1527">罷韓投票／韓國瑜再提暫停執行罷韓，Wecare高雄批玩弄司法</a></li>
+<li><strong>2020-05-15</strong> — <a href="../../articles/taiwanjustice-net/2020/20200615122909_2020_05_15_罷韓投票_韓國瑜再提暫停執行罷韓_wecare高雄批玩_29bad782ca7467d3" class="internal alias" data-slug="articles/taiwanjustice-net/2020/20200615122909_2020_05_15_罷韓投票_韓國瑜再提暫停執行罷韓_wecare高雄批玩_29bad782ca7467d3">罷韓投票／韓國瑜再提暫停執行罷韓，Wecare高雄批玩弄司法</a></li>
+<li><strong>2020-05-10</strong> — <a href="../../articles/taiwanjustice-net/2025/20251211205846_罷韓藍色憂鬱_高市藍議員盼韓國瑜安撫民心_處_c21ce37d18062be2" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20251211205846_罷韓藍色憂鬱_高市藍議員盼韓國瑜安撫民心_處_c21ce37d18062be2">罷韓藍色憂鬱，高市藍議員盼韓國瑜安撫民心，處理好紓困振興最重要</a></li>
+<li><strong>2020-05-07</strong> — <a href="../../articles/taiwanjustice-net/2025/20250618181109_傳要為反罷韓發聲_王金平說_要看態勢發展_bace428da1993ed2" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20250618181109_傳要為反罷韓發聲_王金平說_要看態勢發展_bace428da1993ed2">傳要為反罷韓發聲，王金平說「要看態勢發展」</a></li>
+<li><strong>2020-05-06</strong> — <a href="../../articles/taiwanjustice-net/2025/20251211222748_高雄罷韓倒數計時_民團啟動百大路口人體看板_5cbb8b7c6202b27b" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20251211222748_高雄罷韓倒數計時_民團啟動百大路口人體看板_5cbb8b7c6202b27b">高雄罷韓倒數計時，民團啟動百大路口人體看板</a></li>
+<li><strong>2020-05-02</strong> — <a href="../../articles/taiwanjustice-net/2025/20251210000703_談罷韓_徐永明籲市民行使公民權踴躍投票_4674618634b90e11" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20251210000703_談罷韓_徐永明籲市民行使公民權踴躍投票_4674618634b90e11">談罷韓，徐永明籲市民行使公民權踴躍投票</a></li>
+<li><strong>2020-05-02</strong> — <a href="../../articles/taiwanjustice-net/2025/20251110174921_高雄市府透早拆罷韓看板_公民團體將展開_民主_f5dc26ee3587aa3c" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20251110174921_高雄市府透早拆罷韓看板_公民團體將展開_民主_f5dc26ee3587aa3c">高雄市府透早拆罷韓看板，公民團體將展開「民主搶灘 三路轉進」行動+台灣基進推罷韓遍地開花計畫</a></li>
+<li><strong>2020-04-27</strong> — <a href="../../articles/taiwanjustice-net/2025/20250616224202_罷韓民調同意票破5成_江啟臣_平常心看待罷免案_c0a49b44995a6bb0" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20250616224202_罷韓民調同意票破5成_江啟臣_平常心看待罷免案_c0a49b44995a6bb0">6投票 幕僚：韓國瑜擬不參加電視說明會</a></li>
+<li><strong>2020-04-17</strong> — <a href="../../articles/taiwanjustice-net/2025/20251110170504_尹立樂觀罷韓_韓營指不在暑假投票有利政權保衛_65c64845e3536ac6" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20251110170504_尹立樂觀罷韓_韓營指不在暑假投票有利政權保衛_65c64845e3536ac6">尹立樂觀罷韓，韓營指不在暑假投票有利政權保衛</a></li>
+<li><strong>2020-04-08</strong> — <a href="../../articles/taiwanjustice-net/2025/20251209235306_高市綠議員指罷免成事實-籲依法勿遷調人事_66a7669697aa20f9" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20251209235306_高市綠議員指罷免成事實-籲依法勿遷調人事_66a7669697aa20f9">高市綠議員指罷免成事實 籲依法勿遷調人事</a></li>
+<li><strong>2020-04-07</strong> — <a href="../../articles/taiwanjustice-net/2025/20251115154440_質疑罷韓連署_偷跑_-韓陣營將遞訴訟停止執行_b08b42e196fc37d8" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20251115154440_質疑罷韓連署_偷跑_-韓陣營將遞訴訟停止執行_b08b42e196fc37d8">質疑罷韓連署「偷跑」 韓陣營將遞訴訟停止執行</a></li>
+<li><strong>2020-02-05</strong> — <a href="../../articles/taiwanjustice-net/2025/20251205213239_台灣基進_徐正文淚裡不是人情味-是滿滿中共味切_780a58f258f3a615" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20251205213239_台灣基進_徐正文淚裡不是人情味-是滿滿中共味切_780a58f258f3a615">台灣基進：徐正文淚裡不是人情味 是滿滿中共味+切割!切割!國民黨：徐正文言行屬個人行為 與黨無關</a></li>
+<li><strong>2020-01-10</strong> — <a href="../../articles/taiwanjustice-net/2025/20250617075507_選前之夜-蔡總統_高雄人不能讓韓國瑜騙第二次_880e4017516d8998" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20250617075507_選前之夜-蔡總統_高雄人不能讓韓國瑜騙第二次_880e4017516d8998">選前之夜 蔡總統：高雄人不能讓韓國瑜騙第二次</a></li>
+<li><strong>2020-01-05</strong> — <a href="../../articles/taiwanjustice-net/2025/20251205032338_蔡總統全台大掃街_車隊進入高市支持者熱迎_facbe8911e44cb59" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20251205032338_蔡總統全台大掃街_車隊進入高市支持者熱迎_facbe8911e44cb59">蔡總統全台大掃街，車隊進入高市支持者熱迎</a></li>
+<li><strong>2020-01-04</strong> — <a href="../../articles/taiwanjustice-net/2025/20251115154240_選前之夜_藍綠總統候選人高雄尬場互別苗頭_bac9378b87af3612" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20251115154240_選前之夜_藍綠總統候選人高雄尬場互別苗頭_bac9378b87af3612">選前之夜，藍綠總統候選人高雄尬場互別苗頭</a></li>
+</ol>
+<h3 id="2019-6-articles">2019 (6 articles)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#2019-6-articles" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ol>
+<li><strong>2019-12-26</strong> — <a href="../../articles/taiwanjustice-net/2025/20251115145356_藍質疑募資掩飾非法收政治獻金_尹立批無知韓營_a51ce7207411061e" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20251115145356_藍質疑募資掩飾非法收政治獻金_尹立批無知韓營_a51ce7207411061e">藍質疑募資掩飾非法收政治獻金，尹立批無知+韓營質疑罷韓提議書，中選會：連署期間並無規定</a></li>
+<li><strong>2019-12-21</strong> — <a href="../../articles/taiwanjustice-net/2025/20251210001040_高雄50萬人罷韓-35萬人挺韓遊行-_群眾上街展意志_64ca7af2d43b687d" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20251210001040_高雄50萬人罷韓-35萬人挺韓遊行-_群眾上街展意志_64ca7af2d43b687d">高雄50萬人罷韓  35萬人挺韓遊行 ，群眾上街展意志</a></li>
+<li><strong>2019-12-20</strong> — <a href="../../articles/taiwanjustice-net/2025/20251205021846_wecare罷韓鏡球榮耀高雄_挺韓遊行如國旗趴維安考量_9bf5e92444dde203" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20251205021846_wecare罷韓鏡球榮耀高雄_挺韓遊行如國旗趴維安考量_9bf5e92444dde203">Wecare罷韓鏡球榮耀高雄，挺韓遊行如國旗趴+維安考量？韓國瑜未領軍挺韓大遊行</a></li>
+<li><strong>2019-12-15</strong> — <a href="../../articles/taiwanjustice-net/2025/20250616221955_參加移工彌撒-陳副總統_移工是台灣一分子新住民_909d7aee49e83691" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20250616221955_參加移工彌撒-陳副總統_移工是台灣一分子新住民_909d7aee49e83691">參加移工彌撒 陳副總統：移工是台灣一分子+新住民已超過50萬人 蔡競辦推廣告搶選票</a></li>
+<li><strong>2019-12-15</strong> — <a href="../../articles/taiwanjustice-net/2025/20250621165922_與總統拍片遭中方打壓_波特王_寧損失也不下跪_2d6de0cc677023bb" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20250621165922_與總統拍片遭中方打壓_波特王_寧損失也不下跪_2d6de0cc677023bb">與總統拍片遭中方打壓，波特王：寧損失也不下跪</a></li>
+<li><strong>2019-12-14</strong> — <a href="../../articles/taiwanjustice-net/2025/20250621170858_基層憂罷韓遊行衝突_尹立堅定舉辦_加強糾察_240b486dca49b2ba" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20250621170858_基層憂罷韓遊行衝突_尹立堅定舉辦_加強糾察_240b486dca49b2ba">基層憂罷韓遊行衝突，尹立堅定舉辦：加強糾察</a></li>
+</ol>
+<h3 id="body-mentions-51-articles">Body Mentions (51 articles)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#body-mentions-51-articles" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Articles by other authors that mention <strong>王淑芬</strong>: See <a href="../../sources/taiwanjustice-net" class="internal alias" data-slug="sources/taiwanjustice-net">taiwanjustice.net source hub</a> for the full article index. Top mentions by score:</p>
+<ol>
+<li><strong>2022-06-22</strong> — <a href="../../articles/taiwanjustice-net/2023/20231201225623_root_41b304eda05fa545" class="internal alias" data-slug="articles/taiwanjustice-net/2023/20231201225623_root_41b304eda05fa545">Covid-19 浩劫餘生錄</a> (score: 740)</li>
+<li><strong>2023-10-04</strong> — <a href="../../articles/taiwanjustice-net/2023/20231201230251_root_3ab5b8dfba8018b5" class="internal alias" data-slug="articles/taiwanjustice-net/2023/20231201230251_root_3ab5b8dfba8018b5">藝文</a> (score: 740)</li>
+<li><strong>2020-08-14</strong> — <a href="../../articles/taiwanjustice-net/2025/20250515102312_高雄市長補選15日登場-雙鐵出現返鄉人潮_21a5534ecfeaf505" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20250515102312_高雄市長補選15日登場-雙鐵出現返鄉人潮_21a5534ecfeaf505">高雄市長補選15日登場 雙鐵出現返鄉人潮</a> (score: 165)</li>
+<li><strong>2021-04-20</strong> — <a href="../../articles/taiwanjustice-net/2025/20251108180838_榮獲廖述宗教授紀念獎_罷韓四君子_是肯定每個_d2e6e5b19ab4b452" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20251108180838_榮獲廖述宗教授紀念獎_罷韓四君子_是肯定每個_d2e6e5b19ab4b452">榮獲廖述宗教授紀念獎，罷韓四君子：是肯定每個夥伴</a> (score: 160)</li>
+<li><strong>2020-01-10</strong> — <a href="../../articles/taiwanjustice-net/2025/20250617075507_選前之夜-蔡總統_高雄人不能讓韓國瑜騙第二次_880e4017516d8998" class="internal alias" data-slug="articles/taiwanjustice-net/2025/20250617075507_選前之夜-蔡總統_高雄人不能讓韓國瑜騙第二次_880e4017516d8998">選前之夜 蔡總統：高雄人不能讓韓國瑜騙第二次</a> (score: 135)</li>
+</ol>
+<h2 id="timeline">Timeline<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#timeline" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Chronological events for <strong>王淑芬</strong>:</p>
+<h3 id="2023-4-events">2023 (4 events)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#2023-4-events" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><strong>2023-09-11</strong> 🕯️ Come from away…重回Gander 憶911 ◎王淑芬</li>
+<li><strong>2023-10-04</strong> 📰 藝文</li>
+<li><strong>2023-10-04</strong> 📰 留在華沙的那顆心 ◎王淑芬</li>
+<li><strong>2023-10-04</strong> 📰 ‘Tag: 留在華沙的那顆心 ◎王淑芬’</li>
+</ul>
+<h3 id="2022-6-events">2022 (6 events)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#2022-6-events" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><strong>2022-01-09</strong> 🎤 回家，好難 ◎ 王淑芬</li>
+<li><strong>2022-01-09</strong> 📰 ‘Tag: 回家，好難’</li>
+<li><strong>2022-03-09</strong> 🏥 回台住自己家 ◎ 王淑芬</li>
+<li><strong>2022-04-11</strong> 📰 ‘Tag: 王淑芬’</li>
+<li><strong>2022-04-11</strong> 🕯️ 黃昏的故鄉 ◎ 王淑芬</li>
+<li><strong>2022-06-22</strong> 🏥 Covid-19 浩劫餘生錄</li>
+</ul>
+<h3 id="2021-12-events">2021 (12 events)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#2021-12-events" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><strong>2021-01-13</strong> 🏥 楊志良稱應開除染疫醫，總統：不需風涼話打擊士氣，醫師工會籲楊道歉</li>
+<li><strong>2021-01-27</strong> 📰 黃捷籲反罷免，趙天麟：讓報復性歪風在鳳山停止</li>
+<li><strong>2021-02-06</strong> 🗳️ 黃捷罷免案未通過，學者：罷免理由不充分難獲認同</li>
+<li><strong>2021-02-16</strong> 📰 ‘Tag: 深夜的約會’</li>
+<li><strong>2021-02-25</strong> 🗳️ 中樞紀念二二八在高雄，陳其邁：有助撫平歷史傷口</li>
+<li><strong>2021-02-28</strong> 📰 走訪鳳梨產銷班，蔡總統籲農民免驚，政府相挺[影]</li>
+<li><strong>2021-03-27</strong> 📰 核四最後一批120束燃料棒抵基隆港 將運美國，蘇貞昌：核四當年沒完工建照過期</li>
+<li><strong>2021-04-03</strong> 📰 林佳龍口頭請辭：會負起該負責任 不會迴避+府院同聲：目前不是談的時機</li>
+<li><strong>2021-04-20</strong> 🕯️ 榮獲廖述宗教授紀念獎，罷韓四君子：是肯定每個夥伴</li>
+<li><strong>2021-04-28</strong> 📰 安倍晉三推特PO照，大讚台灣鳳梨好吃</li>
+<li><strong>2021-11-25</strong> 🏥 Covid-19 浩劫餘生錄</li>
+<li><strong>2021-12-26</strong> 🤝 台美人筆會會長交接，賴慧娜交棒王淑芬</li>
+</ul>
+<h3 id="2020-34-events">2020 (34 events)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#2020-34-events" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><strong>2020-01-04</strong> 📰 選前之夜，藍綠總統候選人高雄尬場互別苗頭</li>
+<li><strong>2020-01-05</strong> 🗳️ 蔡總統全台大掃街，車隊進入高市支持者熱迎</li>
+<li><strong>2020-01-10</strong> 🗳️ 選前之夜 蔡總統：高雄人不能讓韓國瑜騙第二次</li>
+<li><strong>2020-02-05</strong> 🏛️ 台灣基進：徐正文淚裡不是人情味 是滿滿中共味+切割!切割!國民黨：徐正文言行屬個人行為 與黨無關</li>
+<li><strong>2020-04-07</strong> 📰 質疑罷韓連署「偷跑」 韓陣營將遞訴訟停止執行</li>
+<li><strong>2020-04-08</strong> 🏛️ 高市綠議員指罷免成事實 籲依法勿遷調人事</li>
+<li><strong>2020-04-17</strong> 🏛️ 尹立樂觀罷韓，韓營指不在暑假投票有利政權保衛</li>
+<li><strong>2020-04-27</strong> 🏛️ 罷韓民調同意票破5成，江啟臣：平常心看待+罷免案6/6投票 幕僚：韓國瑜擬不參加電視說明會</li>
+<li><strong>2020-05-02</strong> 🏛️ 談罷韓，徐永明籲市民行使公民權踴躍投票</li>
+<li><strong>2020-05-02</strong> 📰 高雄市府透早拆罷韓看板，公民團體將展開「民主搶灘 三路轉進」行動+台灣基進推罷韓遍地開花計畫</li>
+<li><strong>2020-05-06</strong> 📰 高雄罷韓倒數計時，民團啟動百大路口人體看板</li>
+<li><strong>2020-05-07</strong> 🏥 傳要為反罷韓發聲，王金平說「要看態勢發展」</li>
+<li><strong>2020-05-10</strong> 🏛️ 罷韓藍色憂鬱，高市藍議員盼韓國瑜安撫民心，處理好紓困振興最重要</li>
+<li><strong>2020-05-15</strong> 🗳️ 罷韓投票／韓國瑜再提暫停執行罷韓，Wecare高雄批玩弄司法</li>
+<li><strong>2020-05-18</strong> 🗳️ 高雄迪士尼夢碎 韓國瑜兩手一攤：這個政見我收回</li>
+<li><strong>2020-05-19</strong> 📰 罷韓投票／趙天麟上街發罷韓文宣催票，黃光芹現身相挺</li>
+<li><strong>2020-05-21</strong> 🗳️ 罷韓投票／韓國瑜再提暫停執行罷免投票 北高行駁回+陳其邁：6月6日天氣好 會回高雄投票行使公民權</li>
+<li><strong>2020-05-27</strong> 📰 罷團批破億公帑反罷韓，高市府籲勿扭曲紓困+遭批罷韓先鋒，中選會：依法辦選務何錯之有</li>
+<li><strong>2020-05-31</strong> 📰 罷韓決戰黃金週 罷團啟動掃街車隊</li>
+<li><strong>2020-06-04</strong> 📰 罷韓遊行引六四天安門撐香港 放天燈祈願迎新高雄</li>
+<li><strong>2020-06-06</strong> 📰 罷韓開票後 高雄市議會議長許崑源墜樓身亡享壽63歲</li>
+<li><strong>2020-06-21</strong> 📰 拚高市長補選，陳其邁競總團隊主委許立明出任，總幹事為立委趙天麟</li>
+<li><strong>2020-06-23</strong> 📰 吳益政接受民眾黨徵召補選高雄市長，保留親民黨籍</li>
+<li><strong>2020-07-26</strong> 🗳️ 高市議長補選31日登場，藍綠陷茶壺風暴受關注</li>
+<li><strong>2020-08-14</strong> 📰 高雄市長補選15日登場 雙鐵出現返鄉人潮</li>
+<li><strong>2020-08-14</strong> 🗳️ 高雄市長補選 估15日晚間7時前揭曉新市長</li>
+<li><strong>2020-08-15</strong> 🗳️ 陳其邁67萬票當選高雄市長 強調解決空污等4大優先</li>
+<li><strong>2020-08-20</strong> 🗳️ 陳其邁3副手林欽榮、史哲、羅達生，女性局處長有亮點</li>
+<li><strong>2020-08-21</strong> 🏥 台灣大旺漁船印尼漁工爆常被毆打威脅強迫勞動，美國海關扣押</li>
+<li><strong>2020-10-13</strong> 🗳️ 李眉蓁碩論抄襲挨告未出庭請假，檢方將決定是否拘提</li>
+<li><strong>2020-10-13</strong> 🏛️ 中山大學公告撤銷李眉蓁碩士學位、林德昌不得任碩專生導師．李眉蓁：作法令人失望，校方：她沒提申復</li>
+<li><strong>2020-10-20</strong> 🏥 軍包機遭香港作梗被迫返航後，副參謀總長搭運輸機飛抵東沙+東沙立榮包機22日航班 恐因天候添變數</li>
+<li><strong>2020-10-31</strong> 📰 Covid-19 浩劫餘生錄</li>
+<li><strong>2020-11-21</strong> 🏥 藝文</li>
+</ul>
+<h3 id="2019-6-events">2019 (6 events)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#2019-6-events" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><strong>2019-12-14</strong> 📰 基層憂罷韓遊行衝突，尹立堅定舉辦：加強糾察</li>
+<li><strong>2019-12-15</strong> 🗳️ 參加移工彌撒 陳副總統：移工是台灣一分子+新住民已超過50萬人 蔡競辦推廣告搶選票</li>
+<li><strong>2019-12-15</strong> 📰 與總統拍片遭中方打壓，波特王：寧損失也不下跪</li>
+<li><strong>2019-12-20</strong> 📰 Wecare罷韓鏡球榮耀高雄，挺韓遊行如國旗趴+維安考量？韓國瑜未領軍挺韓大遊行</li>
+<li><strong>2019-12-21</strong> 🗳️ 高雄50萬人罷韓  35萬人挺韓遊行 ，群眾上街展意志</li>
+<li><strong>2019-12-26</strong> 🗳️ 藍質疑募資掩飾非法收政治獻金，尹立批無知+韓營質疑罷韓提議書，中選會：連署期間並無規定</li>
+</ul>
+<h2 id="quotes">Quotes<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#quotes" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Notable quotes and mentions of <strong>王淑芬</strong> in Taiwan Justice articles:</p>
+<h3 id="2023-9-quotes">2023 (9 quotes)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#2023-9-quotes" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ol>
+<li>“est Featured posts Most popular 7 days popular By review score Random 留在華沙的那顆心 ◎王淑芬 October 4, 2023 鶼鰈情深, 寄語中秋 ◎袁智慧 出擊巴黎文化奧運 史哲：以科技為翅展現台灣精神 海外正體字書籍難覓 洛杉磯曬書節匯集精神食糧”
+— 藝文 (2023-10-04)</li>
+<li>“智慧 出擊巴黎文化奧運 史哲：以科技為翅展現台灣精神 海外正體字書籍難覓 洛杉磯曬書節匯集精神食糧 Come from away…重回Gander 憶911 ◎王淑芬 台美人藝術界新秀陳君瑜作品入選法國秋季沙龍 藝文 September 2, 2023 「關於我和鬼變成家人的那件事」冥婚題材融同志情 代表台灣競逐奧斯卡 藝文”
+— 藝文 (2023-10-04)</li>
+<li>“競逐奧斯卡 藝文 August 30, 2023 台美攝影學會9月9~10日舉行會員作品聯展 藝文 August 29, 2023 我搭的計程車…沒有運匠 ◎ 王淑芬 藝文 August 11, 2023 台法混血張婷雅（Estelle Perrault）躍法國爵士界新星：台灣是家，文化與歷史啟發我[影] 藝文 August”
+— 藝文 (2023-10-04)</li>
+<li>“我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home Tags 留在華沙的那顆心 ◎王淑芬 Tag: 留在華沙的那顆心 ◎王淑芬 藝文 留在華沙的那顆心 ◎王淑芬 October 4, 2023”
+— ‘Tag: 留在華沙的那顆心 ◎王淑芬’ (2023-10-04)</li>
+<li>“Covid-19 浩劫餘生錄 美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home Tags 留在華沙的那顆心 ◎王淑芬 Tag: 留在華沙的那顆心 ◎王淑芬 藝文 留在華沙的那顆心 ◎王淑芬 October 4, 2023”
+— ‘Tag: 留在華沙的那顆心 ◎王淑芬’ (2023-10-04)</li>
+<li>“台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home Tags 留在華沙的那顆心 ◎王淑芬 Tag: 留在華沙的那顆心 ◎王淑芬 藝文 留在華沙的那顆心 ◎王淑芬 October 4, 2023”
+— ‘Tag: 留在華沙的那顆心 ◎王淑芬’ (2023-10-04)</li>
+<li>“世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home Tags 留在華沙的那顆心 ◎王淑芬 Tag: 留在華沙的那顆心 ◎王淑芬 藝文 留在華沙的那顆心 ◎王淑芬 October 4, 2023”
+— ‘Tag: 留在華沙的那顆心 ◎王淑芬’ (2023-10-04)</li>
+<li>“天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home Tags 留在華沙的那顆心 ◎王淑芬 Tag: 留在華沙的那顆心 ◎王淑芬 藝文 留在華沙的那顆心 ◎王淑芬 October 4, 2023”
+— ‘Tag: 留在華沙的那顆心 ◎王淑芬’ (2023-10-04)</li>
+<li>“美股台股消息 美股 台股 老郎(老人)心天地 Home Tags 留在華沙的那顆心 ◎王淑芬 Tag: 留在華沙的那顆心 ◎王淑芬 藝文 留在華沙的那顆心 ◎王淑芬 October 4, 2023”
+— ‘Tag: 留在華沙的那顆心 ◎王淑芬’ (2023-10-04)</li>
+</ol>
+<h3 id="2022-9-quotes">2022 (9 quotes)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#2022-9-quotes" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ol>
+<li>“地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 Home Tags 回家，好難 Tag: 回家，好難 Covid-19 浩劫餘生錄 回家，好難 ◎ 王淑芬 January 9, 2022”
+— ‘Tag: 回家，好難’ (2022-01-09)</li>
+<li>“灣會館 台灣會館會訊 台美人影音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 Home Tags 王淑芬 Tag: 王淑芬 藝文 黃昏的故鄉 ◎ 王淑芬 April 11, 2022 藝文 回台住自己家 ◎ 王淑芬 March 9, 2022 Covid-19 浩”
+— ‘Tag: 王淑芬’ (2022-04-11)</li>
+<li>“訊 台美人影音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 Home Tags 王淑芬 Tag: 王淑芬 藝文 黃昏的故鄉 ◎ 王淑芬 April 11, 2022 藝文 回台住自己家 ◎ 王淑芬 March 9, 2022 Covid-19 浩劫餘生錄 回家，好”
+— ‘Tag: 王淑芬’ (2022-04-11)</li>
+<li>“的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 Home Tags 王淑芬 Tag: 王淑芬 藝文 黃昏的故鄉 ◎ 王淑芬 April 11, 2022 藝文 回台住自己家 ◎ 王淑芬 March 9, 2022 Covid-19 浩劫餘生錄 回家，好難 ◎ 王淑芬 January”
+— ‘Tag: 王淑芬’ (2022-04-11)</li>
+<li>“錄 美股台股消息 美股 台股 Home Tags 王淑芬 Tag: 王淑芬 藝文 黃昏的故鄉 ◎ 王淑芬 April 11, 2022 藝文 回台住自己家 ◎ 王淑芬 March 9, 2022 Covid-19 浩劫餘生錄 回家，好難 ◎ 王淑芬 January 9, 2022 Covid-19 浩劫餘生錄 深夜的約會 ◎”
+— ‘Tag: 王淑芬’ (2022-04-11)</li>
+<li>“黃昏的故鄉 ◎ 王淑芬 April 11, 2022 藝文 回台住自己家 ◎ 王淑芬 March 9, 2022 Covid-19 浩劫餘生錄 回家，好難 ◎ 王淑芬 January 9, 2022 Covid-19 浩劫餘生錄 深夜的約會 ◎ 王淑芬 February 16, 2021”
+— ‘Tag: 王淑芬’ (2022-04-11)</li>
+<li>“March 9, 2022 Covid-19 浩劫餘生錄 回家，好難 ◎ 王淑芬 January 9, 2022 Covid-19 浩劫餘生錄 深夜的約會 ◎ 王淑芬 February 16, 2021”
+— ‘Tag: 王淑芬’ (2022-04-11)</li>
+<li>“popular 7 days popular By review score Random 野地的花 ◎ 楊遠薰 June 22, 2022 回台住自己家 ◎ 王淑芬 回家，好難 ◎ 王淑芬 一閃一閃, 亮晶晶 ◎ 袁智慧 請不要吝嗇你的笑容 ◎ 袁智慧 懷念彭昕醫師 ◎ 楊遠薰 Covid-19 浩劫餘生錄 Septemb”
+— Covid-19 浩劫餘生錄 (2022-06-22)</li>
+<li>“ys popular By review score Random 野地的花 ◎ 楊遠薰 June 22, 2022 回台住自己家 ◎ 王淑芬 回家，好難 ◎ 王淑芬 一閃一閃, 亮晶晶 ◎ 袁智慧 請不要吝嗇你的笑容 ◎ 袁智慧 懷念彭昕醫師 ◎ 楊遠薰 Covid-19 浩劫餘生錄 September 23, 2021”
+— Covid-19 浩劫餘生錄 (2022-06-22)</li>
+</ol>
+<h3 id="2021-15-quotes">2021 (15 quotes)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#2021-15-quotes" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ol>
+<li>“實戴口罩；陳時中表示，若有新的情況會進一步了解。（編輯：陳仁華）1100113 楊志良稱應開除染疫醫 醫師工會籲道歉 2021/01/13 （中央社記者陳昱婷、王淑芬台北13日電）台灣昨天再度發生武漢肺炎院內感染，前衛生署長楊志良在政論節目稱，應將染疫醫師開除。北市醫師職業工會今天表示，楊志良此番言論已引起負面效應，應道歉。”
+— 楊志良稱應開除染疫醫，總統：不需風涼話打擊士氣，醫師工會籲楊道歉 (2021-01-13)</li>
+<li>“敬請支持‧歡迎訂閱本報newsletter 2021/01/28 （中央社記者王淑芬高雄28日電）高雄市2月6日要舉行無黨籍市議員罷免黃捷投票，民進黨高雄市黨部主委趙天麟今天一早陪同黃捷在路口宣傳反罷免投票，並呼籲市民用選票讓報復性歪風在鳳山停”
+— 黃捷籲反罷免，趙天麟：讓報復性歪風在鳳山停止 (2021-01-27)</li>
+<li>“2021/02/06 （中央社記者王淑芬、侯文婷高雄6日電）公民團體罷免高雄市議員黃捷投票不僅未達罷免7萬2892票門檻，而且同意票比不同意票還少了1萬130票。學者分析罷免失敗的主因是罷免理由不充分”
+— 黃捷罷免案未通過，學者：罷免理由不充分難獲認同 (2021-02-06)</li>
+<li>“地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 Home Tags 深夜的約會 Tag: 深夜的約會 Covid-19 浩劫餘生錄 深夜的約會 ◎ 王淑芬 February 16, 2021”
+— ‘Tag: 深夜的約會’ (2021-02-16)</li>
+<li>“2021/02/25 （中央社記者王淑芬高雄25日電）二二八紀念日將到來，今年中樞紀念二二八事件74周年活動將移高雄舉辦，高雄市長陳其邁今天表示，高雄市於二二八是受傷嚴重的城市，在高雄舉辦紀念活動有助”
+— 中樞紀念二二八在高雄，陳其邁：有助撫平歷史傷口 (2021-02-25)</li>
+<li>“2021/03/01 （中央社記者王淑芬高雄28日電）總統蔡英文今天走訪高雄市大樹區鳳梨產銷班，她向農民喊話表示，「免驚、免煩惱、政府挺你」，政府會打開鳳梨行銷通路，讓世界知道台灣人不僅會做晶片、也會”
+— 走訪鳳梨產銷班，蔡總統籲農民免驚，政府相挺[影] (2021-02-28)</li>
+<li>“四燃料棒還有一小批，但是會在今年第1季送出去。（編輯：陳仁華）1100328 核四燃料棒送回美國 蘇貞昌：當年沒完工建照過期 2021/03/28 （中央社記者王淑芬高雄28日電）藻礁公投連署引發重啟核四議題再受關注，不過今晨核四最後一批120束燃料棒從廠區運出將送回美國。行政院長蘇貞昌指出，核四電廠當年就沒有完整完工，建照”
+— 核四最後一批120束燃料棒抵基隆港 將運美國，蘇貞昌：核四當年沒完工建照過期 (2021-03-27)</li>
+<li>“敬請支持‧歡迎訂閱本報newsletter 2021/04/04 （中央社記者李先鳳、王淑芬花蓮4日電）台鐵太魯閣號意外事故造成重大死傷，傳交通部長林佳龍已經提出口頭請辭，他今天表示，「該負的責任絕對不會迴避，我現在要負責任把整個事故傷害降到最低」。”
+— 林佳龍口頭請辭：會負起該負責任 不會迴避+府院同聲：目前不是談的時機 (2021-04-03)</li>
+<li>“敬請支持‧歡迎訂閱本報newsletter 2021/04/20 （中央社記者王淑芬高雄20日電）「廖述宗教授紀念獎」公布第7屆得獎者名單，其中「青年貢獻獎」獲獎人是罷韓四君子，今天他們透過「Wecare高雄」臉書發文感謝並說此肯定是給每個在罷”
+— 榮獲廖述宗教授紀念獎，罷韓四君子：是肯定每個夥伴 (2021-04-20)</li>
+<li>“（譯者：顧荃/核稿：蔡佳敏）1100428 歡迎訂閱本報newsletter 安倍晉三貼文台灣鳳梨 高市：南友農合作社輸出 2021/04/28 （中央社記者王淑芬高雄28日電）日本前首相安倍晉三今天在推特發布自己與台灣鳳梨的合照片，並讚說看起來好好吃，獲得不少網友讚爆回應。高雄市農業局證實鳳梨由高雄市南友農青果生產合作社”
+— 安倍晉三推特PO照，大讚台灣鳳梨好吃 (2021-04-28)</li>
+</ol>
+<h3 id="2020-38-quotes">2020 (38 quotes)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#2020-38-quotes" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ol>
+<li>“敬請支持‧歡迎訂閱本報newsletter 2020/01/05 （中央社記者王淑芬高雄5日電）選前黃金週，各政黨及候選人衝刺選情，國民黨總統候選人韓國瑜10日的選前之夜選在高雄夢時代廣場，民進黨總統候選人蔡英文在鳳山競總重劃空地造勢，兩陣營尬”
+— 選前之夜，藍綠總統候選人高雄尬場互別苗頭 (2020-01-04)</li>
+<li>“2020/01/06 （中央社記者王淑芬高雄6日電）總統蔡英文全台大掃街行動今天從屏東出發，車隊在中午進入高雄市，隨後在民進黨高雄市立委候選人車隊陪同下掃街拜票，沿途有支持者不斷加油打氣。 選戰倒數計”
+— 蔡總統全台大掃街，車隊進入高市支持者熱迎 (2020-01-05)</li>
+<li>“2020/01/10 （中央社記者王淑芬、葉素萍高雄10日電）總統蔡英文今天在「光復高雄選前之夜」造勢晚會火力全開，指國民黨總統候選人韓國瑜「原來高雄人是他用完就丟到旁邊的工具」，還說「高雄人絕對不能”
+— 選前之夜 蔡總統：高雄人不能讓韓國瑜騙第二次 (2020-01-10)</li>
+<li>“2020/02/05 （中央社記者王淑芬高雄5日電）武漢台商救援會長徐正文居間聯繫武漢台商包機返台，但疑有多人非台籍惹議，他今天召開記者會哽咽表示，盼大家多點人情味，台灣基進批評，「淚裡不是人情味，是”
+— 台灣基進：徐正文淚裡不是人情味 是滿滿中共味+切割!切割!國民黨：徐正文言行屬個人行為 與黨無關 (2020-02-05)</li>
+<li>“2020/04/08 （中央社記者王淑芬高雄7日電）罷免高雄市長韓國瑜二階連署今天審議通過，但是韓國瑜陣營表示，公民團體連署罷韓有提前「偷跑」的嫌疑，明天將委任律師前往台北高等行政法院呈遞行政訴訟停止”
+— 質疑罷韓連署「偷跑」 韓陣營將遞訴訟停止執行 (2020-04-07)</li>
+<li>“2020/04/09 （中央社記者王淑芬高雄9日電）民進黨高雄市議員高閔琳等人用罷免市長韓國瑜已成事實，看守市府依公務人員任用法已不能任意任用遷調人事，籲韓國瑜勿輕舉妄動。新聞局長鄭照新表示，相關規定”
+— 高市綠議員指罷免成事實 籲依法勿遷調人事 (2020-04-08)</li>
+<li>“2020/04/17 （中央社記者王淑芬高雄17日電）罷韓成案，罷免市長韓國瑜的公民團體力拚「光復高雄」也對於罷免成功深具信心，不過韓國瑜幕僚透露只要罷免案不在暑假舉行投票，少了青年選票，有助於韓國瑜”
+— 尹立樂觀罷韓，韓營指不在暑假投票有利政權保衛 (2020-04-17)</li>
+<li>“持平衡，找出對台灣最有利的條件及做法，他會在組織適當安排，但都還在計畫中，一旦確認會對外公布。（編輯：洪學廣）1090427 2020/04/27 （中央社記者王淑芬高雄27日電）罷免高雄市長韓國瑜投票將於6月6日舉行，韓國瑜近來除了忙於防疫，也整理罷免案答辯書，據親近韓國瑜幕僚指出，會在近日送件，不過韓國瑜擬不參加公辦電視”
+— 罷韓民調同意票破5成，江啟臣：平常心看待+罷免案6/6投票 幕僚：韓國瑜擬不參加電視說明會 (2020-04-27)</li>
+<li>“2020/05/02 （中央社記者王淑芬高雄2日電）時代力量主席徐永明籲高市府勿用行政權干擾出借罷韓投開票所，盼從促進民主的角度出發，並向市民話喊話要大家踴躍投票。 徐永明偕秘書長陳志明等南下，先出席”
+— 談罷韓，徐永明籲市民行使公民權踴躍投票 (2020-05-02)</li>
+<li>“展開「民主搶灘 三路轉進」行動，規劃街頭宣講，請民眾站出來一起參與行動看板，或者繫黃絲帶響應。（編輯：方沛清）1090503 2020/04/30 （中央社記者王淑芬高雄30日電）公民團體吊掛罷免市長韓國瑜的看板接連被拆除引發不滿，台灣基進推出「666罷韓遍地開花」計畫，首波提供300面罷韓布條供民眾索取，要讓罷韓的聲音充斥”
+— 高雄市府透早拆罷韓看板，公民團體將展開「民主搶灘 三路轉進」行動+台灣基進推罷韓遍地開花計畫 (2020-05-02)</li>
+</ol>
+<h3 id="2019-6-quotes">2019 (6 quotes)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#2019-6-quotes" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ol>
+<li>“敬請支持‧歡迎訂閱本報newsletter 2019/12/15 （中央社記者王淑芬高雄15日電）「Wecare高雄」等公民社團發起1221罷韓遊行，國民黨陣營也申請同天舉辦挺韓遊行，引發衝突疑慮，「Wecare高雄」發起人尹立說「堅定舉辦」會”
+— 基層憂罷韓遊行衝突，尹立堅定舉辦：加強糾察 (2019-12-14)</li>
+<li>“2019/12/15 （中央社記者王淑芬高雄15日電）副總統陳建仁今天南下到楠梓區聖若瑟天主教堂與菲籍移工一同彌撒，他表示移工或移民都是台灣的一分子，允給予更多保障。 陳副總統由民進黨立委劉世芳等人陪”
+— 參加移工彌撒 陳副總統：移工是台灣一分子+新住民已超過50萬人 蔡競辦推廣告搶選票 (2019-12-15)</li>
+<li>“敬請支持‧歡迎訂閱本報newsletter 2019/12/16 （中央社記者王淑芬、葉素萍高雄15日電）總統蔡英文日前與Youtuber波特王合作拍片，2天影片就創下高流量點閱；波特王臉書今天說中國合作方要求不能出現總統，同時擁有100多萬粉”
+— 與總統拍片遭中方打壓，波特王：寧損失也不下跪 (2019-12-15)</li>
+<li>“起、高雄光榮週年慶大遊行」21日在北高雄登場，大批支持者在凹子底公園集結準備出發，現場揮舞旗幟，旗海飄揚。中央社記者張皓安攝 108年12月21日 （中央社記者王淑芬高雄21日電）今天高雄「1221Wecare台灣大遊行」罷韓活動亮點是在終點將升起一顆直徑約5公尺的「鏡球」；挺韓活動部分，集結凹子底公園的韓粉國旗裝及汽球出籠”
+— Wecare罷韓鏡球榮耀高雄，挺韓遊行如國旗趴+維安考量？韓國瑜未領軍挺韓大遊行 (2019-12-20)</li>
+<li>“2019/12/21 （中央社記者王淑芬高雄21日電）罷韓、挺韓大遊行今天在不同路線登場，兩方共集結約85萬人走上街頭表達訴求，挺韓方就像造勢活動，凍蒜聲此起彼落；罷韓陣營說「遊行終點就是罷韓起點」，”
+— 高雄50萬人罷韓  35萬人挺韓遊行 ，群眾上街展意志 (2019-12-21)</li>
+<li>“2019/12/26 （中央社記者王淑芬高雄26日電）Wecare台灣大遊行順利落幕，國民黨立委參選人陳麗娜等人批活動以公民運動掩飾非法收受政治獻金。Wecare高雄發起人尹立回應，所有募資平台規則都”
+— 藍質疑募資掩飾非法收政治獻金，尹立批無知+韓營質疑罷韓提議書，中選會：連署期間並無規定 (2019-12-26)</li>
+</ol>
+<p><em>…and 67 more quotes</em></p>
+<h2 id="related-pages">Related Pages<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#related-pages" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li><a href="../../people/albert-s-lai" class="internal alias" data-slug="people/albert-s-lai">Dr. Albert S. Lai</a></li>
+</ul></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Graph View</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="toc desktop-only"><button type="button" class="toc-header" aria-controls="toc-292" aria-expanded="true"><h3>Table of Contents</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul id="list-1" class="toc-content overflow"><li class="depth-0"><a href="#wang-shu-fen--王淑芬" data-for="wang-shu-fen--王淑芬">Wang Shu-fen / 王淑芬</a></li><li class="depth-1"><a href="#tj-citations" data-for="tj-citations">TJ Citations</a></li><li class="depth-1"><a href="#works" data-for="works">Works</a></li><li class="depth-2"><a href="#2023-9-articles" data-for="2023-9-articles">2023 (9 articles)</a></li><li class="depth-2"><a href="#2022-13-articles" data-for="2022-13-articles">2022 (13 articles)</a></li><li class="depth-2"><a href="#2021-13-articles" data-for="2021-13-articles">2021 (13 articles)</a></li><li class="depth-2"><a href="#2020-36-articles" data-for="2020-36-articles">2020 (36 articles)</a></li><li class="depth-2"><a href="#2019-6-articles" data-for="2019-6-articles">2019 (6 articles)</a></li><li class="depth-2"><a href="#body-mentions-51-articles" data-for="body-mentions-51-articles">Body Mentions (51 articles)</a></li><li class="depth-1"><a href="#timeline" data-for="timeline">Timeline</a></li><li class="depth-2"><a href="#2023-4-events" data-for="2023-4-events">2023 (4 events)</a></li><li class="depth-2"><a href="#2022-6-events" data-for="2022-6-events">2022 (6 events)</a></li><li class="depth-2"><a href="#2021-12-events" data-for="2021-12-events">2021 (12 events)</a></li><li class="depth-2"><a href="#2020-34-events" data-for="2020-34-events">2020 (34 events)</a></li><li class="depth-2"><a href="#2019-6-events" data-for="2019-6-events">2019 (6 events)</a></li><li class="depth-1"><a href="#quotes" data-for="quotes">Quotes</a></li><li class="depth-2"><a href="#2023-9-quotes" data-for="2023-9-quotes">2023 (9 quotes)</a></li><li class="depth-2"><a href="#2022-9-quotes" data-for="2022-9-quotes">2022 (9 quotes)</a></li><li class="depth-2"><a href="#2021-15-quotes" data-for="2021-15-quotes">2021 (15 quotes)</a></li><li class="depth-2"><a href="#2020-38-quotes" data-for="2020-38-quotes">2020 (38 quotes)</a></li><li class="depth-2"><a href="#2019-6-quotes" data-for="2019-6-quotes">2019 (6 quotes)</a></li><li class="depth-1"><a href="#related-pages" data-for="related-pages">Related Pages</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Created with <a href="https://quartz.jzhao.xyz/">Quartz v4.5.2</a> © 2026</p><ul><li><a href="https://github.com/jackyzha0/quartz">GitHub</a></li><li><a href="https://discord.gg/cRFFHYye7t">Discord Community</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function c(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let o=e.classList.contains("is-collapsed");s.style.gridTemplateRows=o?"0fr":"1fr"}}document.addEventListener("nav",c);
+</script><script type="module" data-persist="true">function E(a,e){if(!a)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}a?.addEventListener("click",t),window.addCleanup(()=>a?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function f(a){for(;a.firstChild;)a.removeChild(a.firstChild)}var m=class{constructor(e,t){this.container=e;this.content=t;this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}isDragging=!1;startPan={x:0,y:0};currentPan={x:0,y:0};scale=1;MIN_SCALE=.5;MAX_SCALE=3;cleanups=[];setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),i=this.onTouchEnd.bind(this),s=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",i),window.addEventListener("resize",s),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",i),()=>window.removeEventListener("resize",s))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,i=t-this.scale;this.currentPan.x-=o*i,this.currentPan.y-=r*i,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},T=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],y;document.addEventListener("nav",async()=>{let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;y||=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs");let t=y.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let s of e){s.removeAttribute("data-processed");let c=n.get(s);c&&(s.innerHTML=c)}let r=T.reduce((s,c)=>(s[c]=window.getComputedStyle(document.documentElement).getPropertyValue(c),s),{}),i=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:i?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let v=function(){let g=l.querySelector("#mermaid-space"),h=l.querySelector(".mermaid-content");if(!h)return;f(h);let w=i.querySelector("svg").cloneNode(!0);h.appendChild(w),l.classList.add("active"),g.style.cursor="grab",u=new m(g,h)},M=function(){l.classList.remove("active"),u?.cleanup(),u=null},i=e[r],s=i.parentElement,c=s.querySelector(".clipboard-button"),d=s.querySelector(".expand-button"),p=window.getComputedStyle(c),L=c.offsetWidth+parseFloat(p.marginLeft||"0")+parseFloat(p.marginRight||"0");d.style.right=`calc(${L}px + 0.3rem)`,s.prepend(d);let l=s.querySelector("#mermaid-container");if(!l)return;let u=null;d.addEventListener("click",v),E(l,M),window.addCleanup(()=>{u?.cleanup(),d.removeEventListener("click",v)})}});
+</script><script src="../../postscript.js" type="module" data-persist="true"></script></html>
