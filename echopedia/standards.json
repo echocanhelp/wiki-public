@@ -67,8 +67,13 @@
     "smoke_urls": [
       "https://echocanhelp.github.io/wiki-public/",
       "https://echocanhelp.github.io/wiki-public/people/albert-s-lai",
+      "https://echocanhelp.github.io/wiki-public/people/albert-s-lai/",
       "https://echocanhelp.github.io/wiki-public/organizations/formosan-presbyterian-church-in-los-angeles",
-      "https://echocanhelp.github.io/wiki-public/sources/toward-a-community-of-hope"
+      "https://echocanhelp.github.io/wiki-public/organizations/formosan-presbyterian-church-in-los-angeles/",
+      "https://echocanhelp.github.io/wiki-public/organizations/irvine-taiwanese-presbyterian-church",
+      "https://echocanhelp.github.io/wiki-public/organizations/irvine-taiwanese-presbyterian-church/",
+      "https://echocanhelp.github.io/wiki-public/sources/toward-a-community-of-hope",
+      "https://echocanhelp.github.io/wiki-public/sources/toward-a-community-of-hope/"
     ],
     "l2_auto_site_design_heal": true,
     "l2_auto_site_design_featured": true,
