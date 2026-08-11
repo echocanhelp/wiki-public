@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-08-10T08:19:46",
+  "last_run": "2026-08-11T08:11:38",
   "status": "OK",
   "stats": {
     "md": 313,
@@ -66,102 +66,6 @@
   ],
   "heals": [],
   "history": [
-    {
-      "at": "2026-08-07T11:42:23",
-      "status": "OK",
-      "critical": 0,
-      "high": 0,
-      "medium": 0,
-      "finding_count": 3
-    },
-    {
-      "at": "2026-08-07T11:43:19",
-      "status": "OK",
-      "critical": 0,
-      "high": 0,
-      "medium": 0,
-      "finding_count": 3
-    },
-    {
-      "at": "2026-08-07T11:45:57",
-      "status": "OK",
-      "critical": 0,
-      "high": 0,
-      "medium": 0,
-      "finding_count": 3
-    },
-    {
-      "at": "2026-08-07T11:47:10",
-      "status": "OK",
-      "critical": 0,
-      "high": 0,
-      "medium": 0,
-      "finding_count": 3
-    },
-    {
-      "at": "2026-08-07T11:48:19",
-      "status": "OK",
-      "critical": 0,
-      "high": 0,
-      "medium": 0,
-      "finding_count": 3
-    },
-    {
-      "at": "2026-08-07T11:49:37",
-      "status": "OK",
-      "critical": 0,
-      "high": 0,
-      "medium": 0,
-      "finding_count": 3
-    },
-    {
-      "at": "2026-08-07T11:50:28",
-      "status": "OK",
-      "critical": 0,
-      "high": 0,
-      "medium": 0,
-      "finding_count": 3
-    },
-    {
-      "at": "2026-08-07T11:51:13",
-      "status": "OK",
-      "critical": 0,
-      "high": 0,
-      "medium": 0,
-      "finding_count": 3
-    },
-    {
-      "at": "2026-08-07T11:55:42",
-      "status": "OK",
-      "critical": 0,
-      "high": 0,
-      "medium": 0,
-      "finding_count": 3
-    },
-    {
-      "at": "2026-08-07T11:55:59",
-      "status": "OK",
-      "critical": 0,
-      "high": 0,
-      "medium": 0,
-      "finding_count": 3
-    },
-    {
-      "at": "2026-08-07T11:57:40",
-      "status": "OK",
-      "critical": 0,
-      "high": 0,
-      "medium": 0,
-      "finding_count": 3
-    },
-    {
-      "at": "2026-08-07T11:59:02",
-      "status": "OK",
-      "critical": 0,
-      "high": 0,
-      "medium": 0,
-      "finding_count": 3
-    },
     {
       "at": "2026-08-07T12:06:26",
       "status": "OK",
@@ -300,6 +204,102 @@
     },
     {
       "at": "2026-08-10T08:19:46",
+      "status": "OK",
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "finding_count": 3
+    },
+    {
+      "at": "2026-08-10T08:31:19",
+      "status": "OK",
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "finding_count": 3
+    },
+    {
+      "at": "2026-08-10T08:31:28",
+      "status": "OK",
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "finding_count": 3
+    },
+    {
+      "at": "2026-08-10T11:50:25",
+      "status": "OK",
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "finding_count": 3
+    },
+    {
+      "at": "2026-08-10T11:51:17",
+      "status": "OK",
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "finding_count": 2
+    },
+    {
+      "at": "2026-08-10T11:52:13",
+      "status": "OK",
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "finding_count": 2
+    },
+    {
+      "at": "2026-08-10T11:53:12",
+      "status": "OK",
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "finding_count": 2
+    },
+    {
+      "at": "2026-08-10T11:54:15",
+      "status": "OK",
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "finding_count": 3
+    },
+    {
+      "at": "2026-08-10T11:55:19",
+      "status": "OK",
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "finding_count": 3
+    },
+    {
+      "at": "2026-08-10T12:00:23",
+      "status": "OK",
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "finding_count": 3
+    },
+    {
+      "at": "2026-08-10T12:01:03",
+      "status": "OK",
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "finding_count": 3
+    },
+    {
+      "at": "2026-08-11T04:30:54",
+      "status": "OK",
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "finding_count": 3
+    },
+    {
+      "at": "2026-08-11T08:11:38",
       "status": "OK",
       "critical": 0,
       "high": 0,

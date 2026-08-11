@@ -24,7 +24,7 @@
   ],
   "janitor": {
     "window_local": "04:00-06:00",
-    "max_pages_per_night": 15,
+    "max_pages_per_night": 20,
     "max_wall_seconds": 5400,
     "model_provider": "custom:pinto",
     "model": "nvidia/Qwen3.6-35B-A3B-NVFP4",

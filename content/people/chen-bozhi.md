@@ -4,7 +4,7 @@ type: person
 tags:
   - 
 verification_status: pending
-last_reviewed: 2026-08-10
+last_reviewed: 2026-08-11
 ---
 # Rev. Chen Bozhi (陳柏志牧師)
 

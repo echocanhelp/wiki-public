@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-10
+last_reviewed: 2026-08-11
 ---
 # Hong Ya (洪雅)
 

@@ -9,7 +9,7 @@ tags:
 name_en: "John Yang"
 name_zh_hanzi: "楊錦忠"
 verification_status: pending
-last_reviewed: 2026-08-10
+last_reviewed: 2026-08-11
 source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
 ---
 # John Yang (楊錦忠)

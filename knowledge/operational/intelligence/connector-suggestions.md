@@ -1,7 +1,7 @@
 # Connector suggestions (capped top 80)
 
-- co_citation total=35230 kept=80
-- co_mention total=800 kept=40
+- co_citation total=35243 kept=80
+- co_mention total=830 kept=40
 - shared_tags total=0 kept=0
 
 ## Top co-citation
@@ -13,10 +13,16 @@
 - organizations/democratic-progressive-party.md ↔ organizations/national-taiwanese-presbyterian-council.md
 - organizations/democratic-progressive-party.md ↔ people/albert-en-sku-a-scratch-review.md
 - organizations/democratic-progressive-party.md ↔ people/albert-chapter1-audiobook-consent-and-recording-kit.md
-- organizations/democratic-progressive-party.md ↔ organizations/ntpc.md
-- organizations/democratic-progressive-party.md ↔ people/c-c-chen.md
+- organizations/democratic-progressive-party.md ↔ organizations/good-shepherd-taiwanese-presbyterian-church.md
+- organizations/democratic-progressive-party.md ↔ organizations/irvine-taiwanese-presbyterian-church.md
 - organizations/democratic-progressive-party.md ↔ sources/ocac-gov-tw.md
 - organizations/formosan-presbyterian-church-in-los-angeles.md ↔ sources/toward-a-community-of-hope.md
+- organizations/formosan-presbyterian-church-in-los-angeles.md ↔ organizations/irvine-taiwanese-presbyterian-church.md
+- organizations/formosan-presbyterian-church-in-los-angeles.md ↔ organizations/presbyterian-church-in-taiwan.md
+- organizations/formosan-presbyterian-church-in-los-angeles.md ↔ people/alexander-macdonald.md
+- organizations/formosan-presbyterian-church-in-los-angeles.md ↔ organizations/good-shepherd-taiwanese-presbyterian-church.md
+- organizations/formosan-presbyterian-church-in-los-angeles.md ↔ people/chen-meihui.md
+- organizations/formosan-presbyterian-church-in-los-angeles.md ↔ people/guo-yingyan.md
 - organizations/formosan-presbyterian-church-in-los-angeles.md ↔ organizations/overseas-community-affairs-council.md
 - organizations/formosan-presbyterian-church-in-los-angeles.md ↔ sources/wikipedia-democratic-progressive-party.md
 - organizations/overseas-community-affairs-council.md ↔ sources/wikipedia-democratic-progressive-party.md
@@ -24,9 +30,3 @@
 - people/albert-s-lai.md ↔ sources/good-shepherd-taiwanese-presbyterian-church.md
 - people/chaolong-kao.md ↔ sources/good-shepherd-taiwanese-presbyterian-church.md
 - organizations/formosan-presbyterian-church-in-los-angeles.md ↔ people/ching-fang-chen.md
-- organizations/formosan-presbyterian-church-in-los-angeles.md ↔ people/david-huang.md
-- organizations/formosan-presbyterian-church-in-los-angeles.md ↔ people/en-sheng-pan.md
-- organizations/formosan-presbyterian-church-in-los-angeles.md ↔ organizations/good-shepherd-taiwanese-presbyterian-church.md
-- organizations/formosan-presbyterian-church-in-los-angeles.md ↔ organizations/irvine-taiwanese-presbyterian-church.md
-- organizations/formosan-presbyterian-church-in-los-angeles.md ↔ organizations/national-taiwanese-presbyterian-council.md
-- organizations/good-shepherd-taiwanese-presbyterian-church.md ↔ organizations/national-taiwanese-presbyterian-council.md

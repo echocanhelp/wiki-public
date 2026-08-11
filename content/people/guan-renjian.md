@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-10
+last_reviewed: 2026-08-11
 ---
 
 # Kuan Jen-chien / 管仁健

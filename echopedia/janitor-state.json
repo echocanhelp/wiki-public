@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-08-10",
+  "last_run": "2026-08-11",
   "standards_version_seen": 8,
   "runs": [
     {
@@ -180,7 +180,14 @@
     },
     {
       "date": "2026-08-10",
-      "candidates": 29218,
+      "candidates": 29220,
+      "selected": 5,
+      "standards_version": 8,
+      "standards_bumped": false
+    },
+    {
+      "date": "2026-08-11",
+      "candidates": 29220,
       "selected": 5,
       "standards_version": 8,
       "standards_bumped": false
@@ -278,7 +285,7 @@
       ]
     }
   ],
-  "last_candidates": 29218,
+  "last_candidates": 29220,
   "last_selected": [
     "people/chen-meihui.md",
     "organizations/ntpc.md",
