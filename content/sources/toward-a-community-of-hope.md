@@ -20,6 +20,10 @@ last_reviewed: 2026-07-15
 **Republication:** 2025 (50th anniversary), Taiwan Church Press + NTPC + Tainan East Gate Barclay History Education Promotion
 
 ## Identity Snapshot
+
+> **Primary work page:** [[sources/toward-a-community-of-hope|Toward A Community of Hope (work & sources)]]  
+> **Full text (GitHub):** [complete extract](https://github.com/echocanhelp/wiki-public/blob/gh-pages/knowledge/web-archives/albert-lai-toward-community-of-hope.md)
+
 - Era: Written 1971; rediscovered/translated 2022–2025; reprinted 2025
 - Geography: Los Angeles Formosan community; Taiwanese American Presbyterian history
 - Core roles: Primary source on FPCLA founding; theology of “community of hope”
@@ -62,6 +66,8 @@ Tier‑2 full extract lives in the wiki-public repo (not rendered as Quartz HTML
 Original user PDF path on host (not public web): `~/.hermes/cache/documents/doc_80b50a640498_EN txt ver.pdf`
 
 ## Related Pages
+
+- [[sources/toward-a-community-of-hope|Toward A Community of Hope]]
 - [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
 - [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
 - [[organizations/national-taiwanese-presbyterian-council|National Taiwanese Presbyterian Council (NTPC)]]

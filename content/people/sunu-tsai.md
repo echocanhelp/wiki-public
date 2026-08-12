@@ -8,7 +8,7 @@ tags:
 name_en: "Sunu Tsai"
 name_zh_hanzi: "蔡淑女"
 verification_status: pending
-last_reviewed: 2026-08-11
+last_reviewed: 2026-08-12
 source_note: "TAHS 2025 organization chart + LINE displayName preferred EN"
 title: "Sunu Tsai (蔡淑女)"
 ---

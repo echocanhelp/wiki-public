@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-11
+last_reviewed: 2026-08-12
 ---
 # Yang Zi-qing (楊子清)
 

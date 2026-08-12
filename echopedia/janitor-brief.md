@@ -1,12 +1,27 @@
-## Echopedia Janitor — 2026-08-11
+## Echopedia Janitor — 2026-08-12
 - Standards v8
 - Pages with findings: **29220**
-- Queued tonight (max 5): **5**
+- Queued tonight (max 20): **20**
 - Queue:
-  - `people/chen-meihui.md` age≈34.5d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
-  - `organizations/ntpc.md` age≈34.5d · LINK_UNLINKED_ENTITY
-  - `people/guo-yingyan.md` age≈34.5d · LINK_UNLINKED_ENTITY
-  - `people/john-chiang.md` age≈23.5d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
-  - `people/shawna-yang-ryan.md` age≈23.5d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
-- Log: `knowledge/operational/janitor-log/2026-08-11.jsonl`
+  - `people/chen-meihui.md` age≈35.5d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
+  - `organizations/ntpc.md` age≈35.5d · LINK_UNLINKED_ENTITY
+  - `people/guo-yingyan.md` age≈35.5d · LINK_UNLINKED_ENTITY
+  - `people/john-chiang.md` age≈24.5d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
+  - `people/shawna-yang-ryan.md` age≈24.5d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
+  - `people/peng-ming-min.md` age≈20.5d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
+  - `people/li-furen.md` age≈30.5d · LINK_UNLINKED_ENTITY
+  - `organizations/good-shepherd-taiwanese-presbyterian-church.md` age≈29.5d · LINK_UNLINKED_ENTITY
+  - `people/alexander-macdonald.md` age≈29.5d · LINK_UNLINKED_ENTITY
+  - `people/mingyuan-hsu.md` age≈29.5d · LINK_UNLINKED_ENTITY
+  - `organizations/national-taiwanese-presbyterian-council.md` age≈28.5d · LINK_UNLINKED_ENTITY
+  - `sources/toward-a-community-of-hope.md` age≈28.5d · LINK_UNLINKED_ENTITY
+  - `organizations/irvine-taiwanese-presbyterian-church.md` age≈28.5d · LINK_UNLINKED_ENTITY
+  - `organizations/formosan-presbyterian-church-in-los-angeles.md` age≈28.5d · LINK_UNLINKED_ENTITY
+  - `people/jonah-chang.md` age≈28.5d · LINK_UNLINKED_ENTITY
+  - `people/pingtung-lai.md` age≈28.5d · LINK_UNLINKED_ENTITY
+  - `organizations/global-alliance-for-democracy-and-peace-la.md` age≈27.5d · LINK_UNLINKED_ENTITY
+  - `organizations/taiwanese-american-foundation-of-san-diego.md` age≈27.5d · LINK_UNLINKED_ENTITY
+  - `sources/irvine-taiwanese-presbyterian-church.md` age≈27.5d · LINK_BODY_SPARSE
+  - `sources/2017-tahs-publication.md` age≈26.5d · LINK_UNLINKED_ENTITY
+- Log: `knowledge/operational/janitor-log/2026-08-12.jsonl`
 - Agent auto-apply: **False** (local pin only if enabled)

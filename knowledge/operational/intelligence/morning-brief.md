@@ -1,5 +1,5 @@
 =====================================================
-  VAULT INTELLIGENCE — 2026-08-11
+  VAULT INTELLIGENCE — 2026-08-12
 =====================================================
 Labels: ✅ AUTO (healed/no action) · 🟡 QUEUE (auto backlog) · 🔴 NEED YOU (your judgment) · ℹ️ INFO
 
