@@ -1,4 +1,4 @@
-## Site design audit — 2026-08-12 08:18
+## Site design audit — 2026-08-13 08:09
 
 - pages_md=313
 - critical=0 high=0 medium=0

@@ -10,7 +10,7 @@ tags:
   - democratic-activist
 verification_status: pending
 featured: true
-last_reviewed: 2026-08-12
+last_reviewed: 2026-08-13
 ---
 # Liao Shu-zong (廖述宗)
 

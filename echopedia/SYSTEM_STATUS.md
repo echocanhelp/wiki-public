@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-08-12 08:18 PDT*
+*Generated: 2026-08-13 08:09 PDT*
 
 ## Orientation
 - **Entry:** go <plain language> via go-router (auto-route) · **Control:** [CONTROL.md](CONTROL.md)
@@ -14,12 +14,12 @@
 - **Level:** L3
 - **L2 auto-publish on drift:** True
 - **L3 auto-push when green:** True
-- **Last good deploy:** `77939f2548`
+- **Last good deploy:** `4a4332fdc3`
 
 ## Content
 |- **Tier1 pages:** 305 (people 207 / orgs 89 / sources 9) · Tier2 archive: 29103
 |- **Janitor queue depth:** 20
-|- **Uncommitted files:** 1772
+|- **Uncommitted files:** 2756
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 || Stage | Script | Last run | Output |
@@ -53,43 +53,43 @@ Load skill **echopedia-ops** first for any wiki work.
 ```
     Name:      cron-output-rotate
     Schedule:  5 3 * * *
-    Last run:  2026-08-12T03:05:54.722260-07:00  ok
+    Last run:  2026-08-13T03:05:55.026210-07:00  ok
     Name:      vault-morning-brief
     Schedule:  55 7 * * *
-    Last run:  2026-08-12T07:57:59.362139-07:00  ok
+    Last run:  2026-08-13T07:57:59.516489-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-08-12T08:18:01.688397-07:00  ok
+    Last run:  2026-08-13T08:08:02.216374-07:00  ok
     Name:      Echopedia content analysis
     Schedule:  5 3 * * *
-    Last run:  2026-08-12T03:05:57.448389-07:00  ok
+    Last run:  2026-08-13T03:05:57.760319-07:00  ok
     Name:      unified-watchdog
     Schedule:  every 30m
-    Last run:  2026-08-12T08:00:02.558710-07:00  error: Script exited with code 1
+    Last run:  2026-08-13T07:41:02.929926-07:00  error: Script exited with code 1
     Name:      echopedia-digest
     Schedule:  20 7 * * *
-    Last run:  2026-08-12T07:20:01.912854-07:00  ok
+    Last run:  2026-08-13T07:20:02.721530-07:00  ok
     Name:      kanban-sync
     Schedule:  every 30m
-    Last run:  2026-08-12T08:09:02.805858-07:00  ok
+    Last run:  2026-08-13T07:42:01.879108-07:00  ok
     Name:      memory-audit
     Schedule:  50 7 * * *
-    Last run:  2026-08-12T07:50:01.102212-07:00  ok
+    Last run:  2026-08-13T07:50:01.779669-07:00  ok
     Name:      echopedia-nightly-audit
     Schedule:  10 3 * * *
-    Last run:  2026-08-12T03:17:46.067900-07:00  ok
+    Last run:  2026-08-13T03:17:29.888155-07:00  ok
     Name:      echopedia-janitor
     Schedule:  50 3 * * *
-    Last run:  2026-08-12T03:51:14.710808-07:00  ok
+    Last run:  2026-08-13T03:51:14.686702-07:00  ok
     Name:      echopedia-weekly-improvement
     Schedule:  5 7 * * 0
     Last run:  2026-08-09T12:20:22.070252-07:00  ok
     Name:      echopedia-ci-heal
     Schedule:  0 8 * * *
-    Last run:  2026-08-11T08:29:56.549924-07:00  ok
+    Last run:  2026-08-12T08:19:32.115238-07:00  ok
     Name:      echopedia-site-design
     Schedule:  30 4 * * *
-    Last run:  2026-08-12T04:30:56.888962-07:00  ok
+    Last run:  2026-08-13T04:30:57.440326-07:00  ok
     Name:      vault-search-index-rebuild
 ```
 

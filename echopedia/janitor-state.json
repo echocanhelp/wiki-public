@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-08-12",
+  "last_run": "2026-08-13",
   "standards_version_seen": 8,
   "runs": [
     {
@@ -194,6 +194,13 @@
     },
     {
       "date": "2026-08-12",
+      "candidates": 29220,
+      "selected": 20,
+      "standards_version": 8,
+      "standards_bumped": false
+    },
+    {
+      "date": "2026-08-13",
       "candidates": 29220,
       "selected": 20,
       "standards_version": 8,
@@ -397,22 +404,6 @@
       ]
     },
     {
-      "path": "sources/toward-a-community-of-hope.md",
-      "findings": [
-        "LINK_UNLINKED_ENTITY"
-      ],
-      "hygiene": [
-        "LINK_UNLINKED_ENTITY: sources/toward-a-community-of-hope.md → people/san-francisco-theological-seminary"
-      ],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
       "path": "organizations/irvine-taiwanese-presbyterian-church.md",
       "findings": [
         "LINK_UNLINKED_ENTITY"
@@ -444,6 +435,22 @@
       "hygiene": [
         "LINK_UNLINKED_ENTITY: organizations/formosan-presbyterian-church-in-los-angeles.md → people/san-francisco-theological-seminary",
         "LINK_UNLINKED_ENTITY: organizations/formosan-presbyterian-church-in-los-angeles.md → people/chen-maoxiong"
+      ],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "sources/toward-a-community-of-hope.md",
+      "findings": [
+        "LINK_UNLINKED_ENTITY"
+      ],
+      "hygiene": [
+        "LINK_UNLINKED_ENTITY: sources/toward-a-community-of-hope.md → people/san-francisco-theological-seminary"
       ],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
@@ -568,9 +575,9 @@
     "people/alexander-macdonald.md",
     "people/mingyuan-hsu.md",
     "organizations/national-taiwanese-presbyterian-council.md",
-    "sources/toward-a-community-of-hope.md",
     "organizations/irvine-taiwanese-presbyterian-church.md",
     "organizations/formosan-presbyterian-church-in-los-angeles.md",
+    "sources/toward-a-community-of-hope.md",
     "people/jonah-chang.md",
     "people/pingtung-lai.md",
     "organizations/global-alliance-for-democracy-and-peace-la.md",

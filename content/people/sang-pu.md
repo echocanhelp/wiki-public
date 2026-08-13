@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-12
+last_reviewed: 2026-08-13
 ---
 
 # Sang Pu / 桑普

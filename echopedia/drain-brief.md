@@ -1,4 +1,4 @@
-## Queue drain — 2026-08-12
+## Queue drain — 2026-08-13
 - Items: **20**
 
 - `people/chen-meihui.md`: NO_SAFE_ACT (needs human/agent for body links)
@@ -12,9 +12,9 @@
 - `people/alexander-macdonald.md`: NO_SAFE_ACT (needs human/agent for body links)
 - `people/mingyuan-hsu.md`: NO_SAFE_ACT (needs human/agent for body links)
 - `organizations/national-taiwanese-presbyterian-council.md`: NO_SAFE_ACT (needs human/agent for body links)
-- `sources/toward-a-community-of-hope.md`: inject sources callout, related sources link, WROTE
 - `organizations/irvine-taiwanese-presbyterian-church.md`: NO_SAFE_ACT (needs human/agent for body links)
 - `organizations/formosan-presbyterian-church-in-los-angeles.md`: NO_SAFE_ACT (needs human/agent for body links)
+- `sources/toward-a-community-of-hope.md`: NO_SAFE_ACT (needs human/agent for body links)
 - `people/jonah-chang.md`: NO_SAFE_ACT (needs human/agent for body links)
 - `people/pingtung-lai.md`: NO_SAFE_ACT (needs human/agent for body links)
 - `organizations/global-alliance-for-democracy-and-peace-la.md`: NO_SAFE_ACT (needs human/agent for body links)
