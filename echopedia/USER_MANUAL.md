@@ -70,16 +70,19 @@ Do you have a…
 
 ### Media stack / LLM UP–DOWN (pinto)
 
-Orchestrator: `~/ai-services/media-stack/orchestrator/`  
-Policy: **force UP on reboot** (Laguna); Lightning is hard-window only.
+**Full how-to (best utilization):** [`~/ai-services/media-stack/docs/USER_GUIDE.md`](../../ai-services/media-stack/docs/USER_GUIDE.md)  
+Orchestrator: `~/ai-services/media-stack/orchestrator/` · Policy: **force UP on reboot** (Laguna); Lightning = hard-window only.
 
 | You say | What happens |
 |---------|----------------|
 | `go media status` / `go llm mode` | mode/ports/mem/thermal via `media-status.sh` |
 | `go back to laguna` / `go emergency up` | panic restore Laguna (`media-emergency-up.sh`) |
-| `go generate image …` (local) | `run_job.sh soft|hard` when Comfy/models shipped |
+| `go generate image …` (local) | `soft_image.sh` (SD1.5 soft; Laguna stays up) |
+| `go describe this image` (local) | `soft_vision.sh` (Qwen2.5-VL-3B on-demand) |
+| local whisper / music / tts | `whisper_transcribe.sh` · `soft_music.sh` · `soft_tts.sh` (music/tts may be stub) |
+| hard local Lightning burst | ops: `transition.py hard-enter` → `:8890` → `hard-exit` (see USER_GUIDE) |
 
-Soft media keeps Laguna up. Hard media pauses Laguna briefly; LINE stays on Grok. Vault disk stays available.
+**Default:** prefer **soft** (Laguna up). **Hard** only for Lightning/fat GPU. LINE stays Grok during hard. Vault disk always available. Stuck → emergency up.
 
 ### Ingest a new website
 1. Say: `Echopedia website <domain>`
