@@ -31,9 +31,12 @@ Bare messages without `go` on this system are treated the same as `go <message>`
 | publish / ship | P2 / ci-heal |
 | build / plan / epic | plan + kanban |
 | turn off push / L3 | standards P6 |
+| media status / llm mode / hard window / emergency laguna | infra-media-* via go-router → `~/ai-services/media-stack` |
 | (unclear) | orient once, then act |
 
 Full classifier: skill **`go-router`**.
+
+**LLM UP/DOWN (pinto media-stack):** Only the media orchestrator flips Laguna (`:8888`) ↔ Lightning down-model (`:8890`). Reboot always reconciles **force UP** (`force_up_on_reboot`). Never run dual LLMs. LINE stays Grok-primary.
 
 ---
 

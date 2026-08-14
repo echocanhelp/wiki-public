@@ -1,4 +1,4 @@
-## Echopedia self-improvement — 2026-08-12
+## Echopedia self-improvement — 2026-08-13
 
 ### Ops check
 - OPS_WARN: orphan script not in ops REQUIRED list: echopedia-bm25-search.py
@@ -22,8 +22,9 @@
 - FRESH_STATUS: OK
 
 ### Entity hints sync
+- HINTS_ADD: people/albert-chapter1-audiobook-taiwanese-female
 - HINTS_ADD: people/ye-siya
-- HINTS_SUMMARY: added=0
+- HINTS_SUMMARY: added=1
 - HINTS_STATUS: UPDATED
 
 ### Intake opportunities

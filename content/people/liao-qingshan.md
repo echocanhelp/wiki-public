@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-13
+last_reviewed: 2026-08-14
 ---
 # Liao Qing-shan (廖清山)
 

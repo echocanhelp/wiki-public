@@ -68,6 +68,19 @@ Do you have a…
 
 ## Common workflows
 
+### Media stack / LLM UP–DOWN (pinto)
+
+Orchestrator: `~/ai-services/media-stack/orchestrator/`  
+Policy: **force UP on reboot** (Laguna); Lightning is hard-window only.
+
+| You say | What happens |
+|---------|----------------|
+| `go media status` / `go llm mode` | mode/ports/mem/thermal via `media-status.sh` |
+| `go back to laguna` / `go emergency up` | panic restore Laguna (`media-emergency-up.sh`) |
+| `go generate image …` (local) | `run_job.sh soft|hard` when Comfy/models shipped |
+
+Soft media keeps Laguna up. Hard media pauses Laguna briefly; LINE stays on Grok. Vault disk stays available.
+
 ### Ingest a new website
 1. Say: `Echopedia website <domain>`
 2. Review morning brief (~07:55) for 🔴 NEED YOU; digest (~07:20) optional

@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-13
+last_reviewed: 2026-08-14
 ---
 
 # Wu Li-pei / 吳澧培
