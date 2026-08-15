@@ -9,7 +9,7 @@ tags:
 name_en: "Hsu Shih-huan"
 name_zh_hanzi: "許世環"
 verification_status: pending
-last_reviewed: 2026-08-14
+last_reviewed: 2026-08-15
 source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
 ---
 # Hsu Shih-huan (許世環)

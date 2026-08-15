@@ -13,7 +13,7 @@ tags:
   - 2025-republication
 verification_status: published
 featured: true
-last_reviewed: 2026-08-14
+last_reviewed: 2026-08-15
 ---
 # Dr. Albert S. Lai (賴信雄)
 

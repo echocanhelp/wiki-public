@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-14
+last_reviewed: 2026-08-15
 ---
 
 # Tang Pei-li / 唐培理

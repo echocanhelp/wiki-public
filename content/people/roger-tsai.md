@@ -9,7 +9,7 @@ tags:
 name_en: "Roger Tsai"
 name_zh_hanzi: "蔡漢成"
 verification_status: pending
-last_reviewed: 2026-08-14
+last_reviewed: 2026-08-15
 source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
 ---
 # Roger Tsai (蔡漢成)

@@ -1,4 +1,4 @@
-## Site design audit — 2026-08-14 08:31
+## Site design audit — 2026-08-15 08:10
 
 - pages_md=313
 - critical=0 high=0 medium=0
@@ -23,7 +23,7 @@
   - `people/chen-zhefu-xu-chunhui.md`
   - `people/choan-seng-song.md`
   - `people/fan-qingliang.md`
-- **B1** person/org touched ≤7d (rely on recency featured window): 68
+- **B1** person/org touched ≤7d (rely on recency featured window): 69
   - `people/alan-thian.md`
   - `people/bai-peiyu.md`
   - `people/cai-shunyu.md`

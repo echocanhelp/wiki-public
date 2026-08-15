@@ -9,3 +9,15 @@
 {"ts": "2026-08-10T06:37:15Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "telegram", "kind": "person"}
 {"ts": "2026-08-10T06:38:48Z", "status": "hit", "query": "Ken Wu", "slug": "ken-wu", "source": "telegram", "kind": "person"}
 {"ts": "2026-08-10T06:44:14Z", "status": "hit", "query": "Leonard Hsu Jr", "slug": "leonard-hsu-jr", "source": "telegram", "kind": "person"}
+{"ts": "2026-08-14T21:37:16Z", "status": "hit", "query": "Ken Wu", "slug": "ken-wu", "source": "telegram", "kind": "person"}
+{"ts": "2026-08-15T08:49:01Z", "status": "hit", "query": "Presbyterian Church in Taiwan", "slug": "presbyterian-church-in-taiwan", "source": "line", "kind": "organization"}
+{"ts": "2026-08-15T08:49:08Z", "status": "hit", "query": "Phoenix Ko", "slug": "phoenix-ko", "source": "line", "kind": "person"}
+{"ts": "2026-08-15T08:49:08Z", "status": "miss", "query": "some random person not in echopedia", "slug": null, "source": "line", "kind": null}
+{"ts": "2026-08-15T08:51:13Z", "status": "miss", "query": "Echopedia https://grokipedia.com/page/Presbyterian_Church_in_Taiwan", "slug": null, "source": "line", "kind": null}
+{"ts": "2026-08-15T08:51:20Z", "status": "hit", "query": "Presbyterian Church in Taiwan", "slug": "presbyterian-church-in-taiwan", "source": "line", "kind": "organization"}
+{"ts": "2026-08-15T08:54:29Z", "status": "hit", "query": "taiwanese presbyterian church", "slug": "irvine-taiwanese-presbyterian-church", "source": "line", "kind": "organization"}
+{"ts": "2026-08-15T09:01:14Z", "status": "hit", "query": "Presbyterian Church in Taiwan", "slug": "presbyterian-church-in-taiwan", "source": "line", "kind": "organization"}
+{"ts": "2026-08-15T09:04:11Z", "status": "hit", "query": "how did presbyterian church in taiwan spread to los angeles", "slug": "formosan-presbyterian-church-in-los-angeles", "source": "line", "kind": "organization"}
+{"ts": "2026-08-15T09:06:26Z", "status": "hit", "query": "bridge between Los Angeles and Taiwan for the church", "slug": "taiwanese-american-association-of-los-angeles-east-san-gabriel-valley", "source": "line", "kind": "organization"}
+{"ts": "2026-08-15T09:08:31Z", "status": "hit", "query": "Taiwan Center Foundation Los Angeles", "slug": "taiwan-center", "source": "line", "kind": "organization"}
+{"ts": "2026-08-15T09:08:32Z", "status": "hit", "query": "taiwan presbyterian church connections los angeles", "slug": "formosan-presbyterian-church-in-los-angeles", "source": "line", "kind": "organization"}

@@ -1,0 +1,47 @@
+{
+  "date": "2026-08-15",
+  "total_cards": 3,
+  "evaluated_file": "/home/leedt/echo-system/knowledge/operational/evaluated/2026-08-15.json",
+  "priority_counts": {
+    "high": 3
+  },
+  "playbook_counts": {
+    "P3": 1,
+    "P8": 2
+  },
+  "cards": [
+    {
+      "card_id": "echo-gen-2026-08-15-0001",
+      "title": "[HIGH] presbyterian-church-in-taiwan: Add more wikilinks to related pages",
+      "body": "## Task: [HIGH] presbyterian-church-in-taiwan: Add more wikilinks to related pages\n\n**Priority:** high\n**Playbook:** P3\n**Page:** `organizations/presbyterian-church-in-taiwan.md`\n**Finding:** `LINKS_LOW_DENSITY`\n**Score:** 50.7 (inbound links: 26)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/presbyterian-church-in-taiwan.md\n3. Find broken wikilinks and repair or redirect\n4. Commit only (no publish)\n\n### Specific Fix\n**Action:** Add more wikilinks to related pages\n**Detail:** This page has low wikilink density. Add [[wikilinks]] to people, organizations, and sources mentioned in the text.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: LINKS_LOW_DENSITY\nPage type: organizations\nType weight: 1.3\nFinding weight: 1.5",
+      "priority": "high",
+      "playbook": "P3",
+      "page": "organizations/presbyterian-church-in-taiwan.md",
+      "finding": "LINKS_LOW_DENSITY",
+      "score": 50.7,
+      "target_path": "/home/leedt/echo-system/content/organizations/presbyterian-church-in-taiwan.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-15-0002",
+      "title": "[HIGH] presbyterian-church-in-taiwan: Break up long sentences",
+      "body": "## Task: [HIGH] presbyterian-church-in-taiwan: Break up long sentences\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `organizations/presbyterian-church-in-taiwan.md`\n**Finding:** `READABILITY_LONG_SENTENCES_48wps`\n**Score:** 16.9 (inbound links: 26)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/presbyterian-church-in-taiwan.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-08-15 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Average words per sentence exceeds 30. Break up long sentences for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_LONG_SENTENCES\nPage type: organizations\nType weight: 1.3\nFinding weight: 0.5",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "organizations/presbyterian-church-in-taiwan.md",
+      "finding": "READABILITY_LONG_SENTENCES_48wps",
+      "score": 16.9,
+      "target_path": "/home/leedt/echo-system/content/organizations/presbyterian-church-in-taiwan.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-15-0003",
+      "title": "[HIGH] presbyterian-church-in-taiwan: Break up long sentences",
+      "body": "## Task: [HIGH] presbyterian-church-in-taiwan: Break up long sentences\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `organizations/presbyterian-church-in-taiwan.md`\n**Finding:** `READABILITY_MANY_LONG_SENTENCES_9`\n**Score:** 16.9 (inbound links: 26)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/presbyterian-church-in-taiwan.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-08-15 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Multiple sentences exceed 50 words. Break them up for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_MANY_LONG_SENTENCES\nPage type: organizations\nType weight: 1.3\nFinding weight: 0.5",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "organizations/presbyterian-church-in-taiwan.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_9",
+      "score": 16.9,
+      "target_path": "/home/leedt/echo-system/content/organizations/presbyterian-church-in-taiwan.md"
+    }
+  ]
+}

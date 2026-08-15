@@ -1,10 +1,13 @@
 =====================================================
-  VAULT INTELLIGENCE — 2026-08-14
+  VAULT INTELLIGENCE — 2026-08-15
 =====================================================
 Labels: ✅ AUTO (healed/no action) · 🟡 QUEUE (auto backlog) · 🔴 NEED YOU (your judgment) · ℹ️ INFO
 
 🔴 NEED YOU (your judgment only)
-✅ AUTO  none — no owner judgment required
+🔴 NEED YOU  1. Echopedia miss: “Echopedia https://grokipedia.com/page/Presbyterian_Church_in_Taiwan”
+     → Confirm identity / approve thin page / or dismiss
+🔴 NEED YOU  2. Echopedia miss: “some random person not in echopedia”
+     → Confirm identity / approve thin page / or dismiss
 
 🟡 QUEUE / identity (soft — no reply required)
 🟡 QUEUE Becky Yang: soft pending aged out: chinese_name
@@ -20,7 +23,7 @@ Labels: ✅ AUTO (healed/no action) · 🟡 QUEUE (auto backlog) · 🔴 NEED YO
 🟡 QUEUE 2 pages WIP/incomplete
 
 🟡 QUEUE / link suggestions (disk)
-ℹ️  INFO  top tips below · full pairs on disk (~36073 scored)
+ℹ️  INFO  top tips below · full pairs on disk (~36075 scored)
 
 🟡 QUEUE / optional link tips (≤5, not NEED YOU)
 🟡 QUEUE 1. Link tip: organizations/democratic-progressive-party.md ↔ organizations/taiwanjustice-net.md

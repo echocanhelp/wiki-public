@@ -1,0 +1,56 @@
+{
+  "date": "2026-08-15",
+  "total_actions": 3,
+  "priorities": {
+    "high": 3,
+    "medium": 0,
+    "low": 0
+  },
+  "evaluated": [
+    {
+      "page": "organizations/presbyterian-church-in-taiwan.md",
+      "finding": "LINKS_LOW_DENSITY",
+      "finding_prefix": "LINKS_LOW_DENSITY",
+      "action": "Add more wikilinks to related pages",
+      "detail": "This page has low wikilink density. Add [[wikilinks]] to people, organizations, and sources mentioned in the text.",
+      "playbook": "P3",
+      "page_type": "organizations",
+      "inbound_links": 26,
+      "type_weight": 1.3,
+      "finding_weight": 1.5,
+      "score": 50.7,
+      "priority": "high",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/presbyterian-church-in-taiwan.md",
+      "finding": "READABILITY_LONG_SENTENCES_48wps",
+      "finding_prefix": "READABILITY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Average words per sentence exceeds 30. Break up long sentences for readability.",
+      "playbook": "P8",
+      "page_type": "organizations",
+      "inbound_links": 26,
+      "type_weight": 1.3,
+      "finding_weight": 0.5,
+      "score": 16.9,
+      "priority": "high",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/presbyterian-church-in-taiwan.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_9",
+      "finding_prefix": "READABILITY_MANY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Multiple sentences exceed 50 words. Break them up for readability.",
+      "playbook": "P8",
+      "page_type": "organizations",
+      "inbound_links": 26,
+      "type_weight": 1.3,
+      "finding_weight": 0.5,
+      "score": 16.9,
+      "priority": "high",
+      "source": "content-analysis-queue"
+    }
+  ]
+}

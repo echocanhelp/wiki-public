@@ -242,7 +242,9 @@
   "organizations/presbyterian-church-in-taiwan.md|STRUCT_NO_HISTORY": [
     "2026-07-30",
     "2026-07-30",
-    "2026-07-30"
+    "2026-07-30",
+    "2026-08-15",
+    "2026-08-15"
   ],
   "organizations/san-gabriel-taiwanese-lions-club.md|STRUCT_NO_HISTORY": [
     "2026-07-30",
@@ -2155,5 +2157,17 @@
     "2026-08-07",
     "2026-08-07",
     "2026-08-07"
+  ],
+  "organizations/presbyterian-church-in-taiwan.md|LINKS_LOW_DENSITY": [
+    "2026-08-15",
+    "2026-08-15"
+  ],
+  "organizations/presbyterian-church-in-taiwan.md|READABILITY_LONG_SENTENCES": [
+    "2026-08-15",
+    "2026-08-15"
+  ],
+  "organizations/presbyterian-church-in-taiwan.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-08-15",
+    "2026-08-15"
   ]
 }
