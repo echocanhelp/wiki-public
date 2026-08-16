@@ -1,5 +1,5 @@
 =====================================================
-  VAULT INTELLIGENCE — 2026-08-15
+  VAULT INTELLIGENCE — 2026-08-16
 =====================================================
 Labels: ✅ AUTO (healed/no action) · 🟡 QUEUE (auto backlog) · 🔴 NEED YOU (your judgment) · ℹ️ INFO
 
@@ -13,17 +13,20 @@ Labels: ✅ AUTO (healed/no action) · 🟡 QUEUE (auto backlog) · 🔴 NEED YO
 🟡 QUEUE Becky Yang: soft pending aged out: chinese_name
 🟡 QUEUE Charles Yang: soft pending aged out: capture_line_user_id_on_first_sender_message
 
+🟡 SOURCE CONTINUITY (live sites)
+✅ AUTO  good-shepherd-taiwanese-presbyterian-church: +2 new / 3 changed; applied 9
+
 🟡 NEXT INGEST (≤2, advisory — not started)
+🟡 QUEUE pct.org.tw — external host on 2 Tier1 pages; not watched
+     → go Echopedia website https://pct.org.tw/
 🟡 QUEUE bai-weiwei — thin L1 person page (2015 chars); densify from Tier2/roster — not a new website
      → go deepen people/bai-weiwei
-🟡 QUEUE kevin-lee — thin L1 person page (1798 chars); densify from Tier2/roster — not a new website
-     → go deepen people/kevin-lee
 
 🟡 QUEUE / unfinished (not a hard gate)
 🟡 QUEUE 2 pages WIP/incomplete
 
 🟡 QUEUE / link suggestions (disk)
-ℹ️  INFO  top tips below · full pairs on disk (~36075 scored)
+ℹ️  INFO  top tips below · full pairs on disk (~36081 scored)
 
 🟡 QUEUE / optional link tips (≤5, not NEED YOU)
 🟡 QUEUE 1. Link tip: organizations/democratic-progressive-party.md ↔ organizations/taiwanjustice-net.md
