@@ -38,7 +38,7 @@ All stages **`no_agent`** (no LLM in overnight path):
 4. **Scout** (04:05) — live site UX  
 5. **Extract → Evaluate → Generate** (04:15 / 04:20 / 04:25) — staggered  
 6. **Deepen** (04:40–05:20) — backlink / quotes / timeline (content AUTO writes)  
-7. **Publish** (07:00) — ci-heal L2/L3  
+7. **Publish** (08:00) — ci-heal L2/L3  
 8. **Review** (Sun 07:05) — weekly-improvement pack + review gate  
 
 **Human surface (last content brief):** `vault-morning-brief` **07:55** — NEED YOU ≤5 first.  
@@ -67,7 +67,7 @@ SSOT times: `hermes cron list` / SYSTEM_STATUS generated table. Narrative summar
 | 05:30 Sun | vault-search-index-rebuild | Search index |
 | **Sun 06:00** | **source-continuity** | **Live-site watch (TC/GSTPC/ITPC) → delta AUTO → next-ingest tips** |
 | 06:50 | cron-audit | Empty-schedule / missed-run / deliver guards |
-| **07:00** | **ci-heal** | **Only nightly pusher** (L2 heal + L3 green) |
+| **08:00** | **ci-heal** | **Only nightly pusher** (L2 heal + L3 green) |
 | 07:10 | docs-sync | Doc OS sense + cron inventory regen |
 | 07:20 | digest | System dashboard (tagged) |
 | 07:50 | memory-audit | Silent unless MEMORY/USER issues |
