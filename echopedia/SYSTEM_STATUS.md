@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-08-16 08:09 PDT*
+*Generated: 2026-08-16 08:30 PDT*
 
 ## Orientation
 - **Entry:** go <plain language> via go-router (auto-route) · **Control:** [CONTROL.md](CONTROL.md)
@@ -14,18 +14,18 @@
 - **Level:** L3
 - **L2 auto-publish on drift:** True
 - **L3 auto-push when green:** True
-- **Last good deploy:** `34b774fd80`
+- **Last good deploy:** `08f2ecab16`
 
 ## Content
 |- **Tier1 pages:** 305 (people 207 / orgs 89 / sources 9) · Tier2 archive: 29103
 |- **Janitor queue depth:** 20
-|- **Uncommitted files:** 2565
+|- **Uncommitted files:** 17
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 || Stage | Script | Last run | Output |
 ||-------|--------|----------|--------|
 || Scout | echopedia-scout-live | 04:05 local | 44 checked, 0 broken, 0 slow |
-|| Filter | echopedia-content-analysis | 03:05 local | 307 scanned, 0 queued |
+|| Filter | echopedia-content-analysis | 03:05 local | 309 scanned, 0 queued |
 || Extract | echopedia-extract-actions | 04:15 local | knowledge/operational/extracted/ |
 || Evaluate | echopedia-evaluate-actions | 04:20 local | knowledge/operational/evaluated/ |
 || Generate | echopedia-generate-cards | 04:25 local | 0 cards |
@@ -59,19 +59,19 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-08-16T07:57:36.198266-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-08-16T08:08:00.678014-07:00  ok
+    Last run:  2026-08-16T08:30:01.113159-07:00  ok
     Name:      Echopedia content analysis
     Schedule:  5 3 * * *
     Last run:  2026-08-16T03:05:57.439070-07:00  ok
     Name:      unified-watchdog
     Schedule:  every 30m
-    Last run:  2026-08-16T07:43:00.218025-07:00  ok
+    Last run:  2026-08-16T08:13:00.766437-07:00  ok
     Name:      echopedia-digest
     Schedule:  20 7 * * *
     Last run:  2026-08-16T07:21:00.517856-07:00  ok
     Name:      kanban-sync
     Schedule:  every 30m
-    Last run:  2026-08-16T07:50:00.346303-07:00  ok
+    Last run:  2026-08-16T08:20:00.892888-07:00  ok
     Name:      memory-audit
     Schedule:  50 7 * * *
     Last run:  2026-08-16T07:50:00.134061-07:00  ok
@@ -87,7 +87,7 @@ Load skill **echopedia-ops** first for any wiki work.
     ⚠ Delivery failed: live adapter send to telegram:-5543616648 timed out before the coroutine was dispatched; delivery error: Telegram send failed: Timed out
     Name:      echopedia-ci-heal
     Schedule:  0 8 * * *
-    Last run:  2026-08-15T08:21:00.157291-07:00  ok
+    Last run:  2026-08-16T08:09:33.773335-07:00  ok
     Name:      echopedia-site-design
     Schedule:  30 4 * * *
     Last run:  2026-08-16T04:30:56.560851-07:00  ok

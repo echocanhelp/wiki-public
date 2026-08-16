@@ -248,7 +248,7 @@ After cron edits: run docs-sync (or wait for system-status/ci-heal). Optional: s
 | Continuous | Watchdog, thermal | Nothing if silent |
 | 03:05–05:30 | Sense → deepen → queue | Sleep |
 | **Sun 06:00** | **source-continuity** (live sites) | Nothing if silent |
-| **07:00** | **ci-heal** (only nightly push) | Sleep |
+| **08:00** | **ci-heal** (only nightly push) | Sleep |
 | 07:20 | Digest (tagged) | Optional skim |
 | **07:55** | **Morning brief** | **Only 🔴 NEED YOU** |
 | 08:30 | Cron self-audit | Nothing if silent |

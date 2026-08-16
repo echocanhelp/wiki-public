@@ -1,10 +1,10 @@
 {
   "date": "2026-08-16",
   "standards_version": 8,
-  "total_pages_scanned": 307,
-  "pages_with_findings": 0,
+  "total_pages_scanned": 309,
+  "pages_with_findings": 2,
   "auto_queued": 0,
   "queue": [],
   "suppressed_findings": 355,
-  "fp_history_entries": 423
+  "fp_history_entries": 425
 }

@@ -173,7 +173,7 @@ Look at the **janitor queue** (depth is in SYSTEM_STATUS.md). Typical first task
    No publish. Report. STOP.
    ```
 4. **Commit** your change (P10 if you need help).
-5. **Ask for a publish** (P2) or let ci-heal pick it up at **07:00** local.
+5. **Ask for a publish** (P2) or let ci-heal pick it up at **08:00** local.
 
 **Goal:** You've made one verified edit that follows the standards in `standards.json`.
 
@@ -407,7 +407,7 @@ Workers never “reason through” cron prompts — only run scripts or P5/P11.
 
 Turn off all auto-push: P6 `l3_auto_push_on_green=false`.
 
-**Local wall clock (pinto):** 03:05–05:30 sense/deepen · **07:00 ci-heal** (only nightly push) · 07:20 digest · **07:55 morning-brief** · 08:30 cron-self-audit · Sun weekly-improvement · + infra watchdogs.  
+**Local wall clock (pinto):** 03:05–05:30 sense/deepen · **08:00 ci-heal** (only nightly push) · 07:20 digest · **07:55 morning-brief** · 08:30 cron-self-audit · Sun weekly-improvement · + infra watchdogs.  
 Telegram tags: ✅ AUTO · 🟡 QUEUE · 🔴 NEED YOU — see `knowledge/operational/cron-notify-labels.md`.
 
 
@@ -445,7 +445,7 @@ The system runs a nightly pipeline that discovers content quality gaps on the li
 
 ## When to intervene (decision matrix)
 
-The system runs 24/7 (local): sense/deepen overnight · **07:00 ci-heal** · 07:20 digest · **07:55 morning-brief**. **You only intervene on 🔴 NEED YOU** (or true smoke/site FAIL). Each row maps a signal to a concrete action (or "do nothing").
+The system runs 24/7 (local): sense/deepen overnight · **08:00 ci-heal** · 07:20 digest · **07:55 morning-brief**. **You only intervene on 🔴 NEED YOU** (or true smoke/site FAIL). Each row maps a signal to a concrete action (or "do nothing").
 
 | Situation | Matrix trigger | Your action |
 |-----------|---------------|-------------|

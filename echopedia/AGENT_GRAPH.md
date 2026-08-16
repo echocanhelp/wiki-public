@@ -71,7 +71,7 @@ The org graph defines **who exists**, **what they own**, and **how they connect*
 
 ```
 03:05–05:30  sense / scout / extract-eval-gen / deepen (all no_agent)
-07:00      ──► ci-heal (L2 heal + L3 push when green)  ← only nightly pusher
+08:00      ──► ci-heal (L2 heal + L3 push when green)  ← only nightly pusher
 07:20      ──► digest (tagged dashboard)
 07:55      ──► vault-morning-brief (🔴 NEED YOU first)
 08:30      ──► cron-self-audit

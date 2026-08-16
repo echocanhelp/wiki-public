@@ -208,7 +208,7 @@
     },
     {
       "date": "2026-08-16",
-      "candidates": 29221,
+      "candidates": 29223,
       "selected": 20,
       "standards_version": 8,
       "standards_bumped": false
@@ -333,22 +333,6 @@
       ],
       "hygiene": [
         "LINK_UNLINKED_ENTITY: people/li-furen.md → sources/irvine-taiwanese-presbyterian-church"
-      ],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "organizations/good-shepherd-taiwanese-presbyterian-church.md",
-      "findings": [
-        "LINK_UNLINKED_ENTITY"
-      ],
-      "hygiene": [
-        "LINK_UNLINKED_ENTITY: organizations/good-shepherd-taiwanese-presbyterian-church.md → sources/good-shepherd-taiwanese-presbyterian-church"
       ],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
@@ -567,9 +551,25 @@
         "Do not commit/push/quartz unless operator enabled",
         "Re-run link-hygiene on this path after edits"
       ]
+    },
+    {
+      "path": "people/choan-seng-song.md",
+      "findings": [
+        "LINK_UNLINKED_ENTITY"
+      ],
+      "hygiene": [
+        "LINK_UNLINKED_ENTITY: people/choan-seng-song.md → organizations/national-taiwanese-presbyterian-council"
+      ],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
     }
   ],
-  "last_candidates": 29221,
+  "last_candidates": 29223,
   "last_selected": [
     "people/chen-meihui.md",
     "organizations/ntpc.md",
@@ -578,7 +578,6 @@
     "people/shawna-yang-ryan.md",
     "people/peng-ming-min.md",
     "people/li-furen.md",
-    "organizations/good-shepherd-taiwanese-presbyterian-church.md",
     "people/alexander-macdonald.md",
     "people/mingyuan-hsu.md",
     "organizations/national-taiwanese-presbyterian-council.md",
@@ -590,6 +589,7 @@
     "organizations/global-alliance-for-democracy-and-peace-la.md",
     "organizations/taiwanese-american-foundation-of-san-diego.md",
     "sources/irvine-taiwanese-presbyterian-church.md",
-    "sources/2017-tahs-publication.md"
+    "sources/2017-tahs-publication.md",
+    "people/choan-seng-song.md"
   ]
 }

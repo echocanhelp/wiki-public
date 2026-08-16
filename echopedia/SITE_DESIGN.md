@@ -33,7 +33,7 @@ Keep the site **usable on phone + desktop**, **structurally correct after every 
 
 ```
 03:05–05:30  sense / scout / extract-eval-gen / deepen   (no_agent)
-07:00        ci-heal                    (act + SINGLE push gate)
+08:00        ci-heal                    (act + SINGLE push gate)
                ├─ ops / drain
                ├─ drift → publish
                ├─ site-design L1 heal   ← featured/parity BEFORE push

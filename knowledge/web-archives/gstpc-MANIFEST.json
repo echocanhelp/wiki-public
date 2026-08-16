@@ -2,7 +2,7 @@
   "version": 1,
   "generated": "2026-08-09",
   "note": "Baseline MANIFEST for source-continuity; append-only on deltas",
-  "count": 21,
+  "count": 27,
   "entries": [
     {
       "file": "knowledge/web-archives/gstpc-40th-ebook.md",
@@ -129,6 +129,54 @@
       "bytes": 1194,
       "status": "ok",
       "source": "seed-from-glob"
+    },
+    {
+      "file": "knowledge/web-archives/good-shepherd-taiwanese-presbyterian-church-delta-2026-08-16-home-wp-content-plugins-simple-download-monitor-includes-templates-related-fancy.md",
+      "url": "https://gstpc.org/home/wp-content/plugins/simple-download-monitor/includes/templates-related/fancy2/sdm-fancy-2-styles.css ",
+      "bytes": 1879,
+      "status": "ok",
+      "source": "source-continuity-delta",
+      "fetched": "2026-08-16T13:01:27Z"
+    },
+    {
+      "file": "knowledge/web-archives/good-shepherd-taiwanese-presbyterian-church-delta-2026-08-16-home-08-16-2026-sunday-bulletin.md",
+      "url": "https://gstpc.org/home/08-16-2026-sunday-bulletin/",
+      "bytes": 12752,
+      "status": "ok",
+      "source": "source-continuity-delta",
+      "fetched": "2026-08-16T13:01:55Z"
+    },
+    {
+      "file": "knowledge/web-archives/good-shepherd-taiwanese-presbyterian-church-delta-2026-08-16-home-category-bulletin.md",
+      "url": "https://gstpc.org/home/category/bulletin/",
+      "bytes": 12755,
+      "status": "ok",
+      "source": "source-continuity-delta",
+      "fetched": "2026-08-16T13:01:56Z"
+    },
+    {
+      "file": "knowledge/web-archives/good-shepherd-taiwanese-presbyterian-church-delta-2026-08-16-home-tag-bulletin-2.md",
+      "url": "https://gstpc.org/home/tag/bulletin-2/",
+      "bytes": 12738,
+      "status": "ok",
+      "source": "source-continuity-delta",
+      "fetched": "2026-08-16T13:01:57Z"
+    },
+    {
+      "file": "knowledge/web-archives/good-shepherd-taiwanese-presbyterian-church-delta-2026-08-16-home-tag--e9-80-b1-e5-a0-b1.md",
+      "url": "https://gstpc.org/home/tag/%e9%80%b1%e5%a0%b1/",
+      "bytes": 12770,
+      "status": "ok",
+      "source": "source-continuity-delta",
+      "fetched": "2026-08-16T13:01:58Z"
+    },
+    {
+      "file": "knowledge/web-archives/good-shepherd-taiwanese-presbyterian-church-delta-2026-08-16-home-08-16-2026-sunday-bulletin.md",
+      "url": "https://gstpc.org/home/08-16-2026-sunday-bulletin/",
+      "bytes": 12752,
+      "status": "ok",
+      "source": "source-continuity-delta",
+      "fetched": "2026-08-16T16:18:42Z"
     }
   ]
 }
