@@ -8,7 +8,7 @@ tags:
 name_en: "Eric Shen"
 name_zh_hanzi: "沈梓在"
 verification_status: pending
-last_reviewed: 2026-08-15
+last_reviewed: 2026-08-16
 source_note: "TAHS 2025 organization chart + LINE displayName preferred EN"
 title: "Eric Shen (沈梓在)"
 ---

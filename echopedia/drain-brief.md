@@ -1,4 +1,4 @@
-## Queue drain — 2026-08-15
+## Queue drain — 2026-08-16
 - Items: **20**
 
 - `people/chen-meihui.md`: NO_SAFE_ACT (needs human/agent for body links)

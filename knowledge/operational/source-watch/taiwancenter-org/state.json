@@ -5,237 +5,237 @@
       "hash": "6c68692dc683fbedc07e6c31d5db8219",
       "len": 73478,
       "code": 200,
-      "baseline": true
+      "baseline": false
     },
     "https://www.taiwancenter.org/search": {
       "hash": "9b42b6ffcd9ffcb58ef38d6e4f21df6b",
       "len": 1209,
       "code": 200,
-      "baseline": true
+      "baseline": false
     },
     "https://www.taiwancenter.org/introduction": {
       "hash": "3b3be1d860f71ca902664c8923c8816d",
       "len": 37356,
       "code": 200,
-      "baseline": true
+      "baseline": false
     },
     "https://www.taiwancenter.org/bylaws": {
       "hash": "3bb621f8ab97bff75ab267faa82bc46c",
       "len": 23391,
       "code": 200,
-      "baseline": true
+      "baseline": false
     },
     "https://www.taiwancenter.org/board": {
       "hash": "fb69f06b8c1495720795749e36c7fe9f",
       "len": 65025,
       "code": 200,
-      "baseline": true
+      "baseline": false
     },
     "https://www.taiwancenter.org/group-members": {
       "hash": "0cca9d7e716cd609a0171b425530933e",
       "len": 34217,
       "code": 200,
-      "baseline": true
+      "baseline": false
     },
     "https://www.taiwancenter.org/about-taiwan-school": {
       "hash": "e60c6098d3adc639ac0224ad3f1b8eaa",
       "len": 37036,
       "code": 200,
-      "baseline": true
+      "baseline": false
     },
     "https://www.taiwancenter.org/class-information": {
       "hash": "7ae8fcd0fce15cf9d81d565deb58b6b5",
       "len": 45098,
       "code": 200,
-      "baseline": true
+      "baseline": false
     },
     "https://www.taiwancenter.org/latest-events": {
       "hash": "aecddd5bd47927a6d5c6b378cd751183",
       "len": 59271,
       "code": 200,
-      "baseline": true
+      "baseline": false
     },
     "https://www.taiwancenter.org/form-download": {
       "hash": "b731b708e20786ed72c37b7bc72e2436",
       "len": 24365,
       "code": 200,
-      "baseline": true
+      "baseline": false
     },
     "https://www.taiwancenter.org/publication": {
       "hash": "ffcd2dbaaae4175bc71985d8e43fe482",
       "len": 38725,
       "code": 200,
-      "baseline": true
+      "baseline": false
     },
     "https://www.taiwancenter.org/event-archive": {
       "hash": "bd48caf9d4693251dad5915fa4e924b3",
       "len": 64982,
       "code": 200,
-      "baseline": true
+      "baseline": false
     },
     "https://www.taiwancenter.org/facility": {
       "hash": "70eda876ef08950db8bad1062be5070f",
       "len": 153578,
       "code": 200,
-      "baseline": true
+      "baseline": false
     },
     "https://www.taiwancenter.org/statement": {
       "hash": "5bc8bc87c5d4e43683e4a4c0b87405f7",
       "len": 17248,
       "code": 200,
-      "baseline": true
+      "baseline": false
     },
     "https://www.taiwancenter.org/en/introduction": {
       "hash": "c8b693053fdf0768ce5327dc51871c60",
       "len": 42424,
       "code": 200,
-      "baseline": true
+      "baseline": false
     },
     "https://www.taiwancenter.org/en/home": {
       "hash": "cbd6456255526619000ae3ae6277f5a6",
       "len": 74046,
       "code": 200,
-      "baseline": true
+      "baseline": false
     },
     "https://www.taiwancenter.org/en/bylaws": {
       "hash": "33acac24f64e73675befbdb804c93226",
       "len": 24543,
       "code": 200,
-      "baseline": true
+      "baseline": false
     },
     "https://www.taiwancenter.org/en/board": {
       "hash": "db7ad52a7168a9da1183230bd983f9b7",
       "len": 65190,
       "code": 200,
-      "baseline": true
+      "baseline": false
     },
     "https://www.taiwancenter.org/en/group-members": {
       "hash": "4f5cf8c718628b94f75ca52b95cc2705",
       "len": 32336,
       "code": 200,
-      "baseline": true
+      "baseline": false
     },
     "https://www.taiwancenter.org/en/about-taiwan-school": {
       "hash": "39ca54897d992053e3c9dd785a922264",
       "len": 40809,
       "code": 200,
-      "baseline": true
+      "baseline": false
     },
     "https://www.taiwancenter.org/en/class-information": {
       "hash": "f5e04a23a035784b55cb7159e09538ab",
       "len": 47973,
       "code": 200,
-      "baseline": true
+      "baseline": false
     },
     "https://www.taiwancenter.org/en/form-download": {
       "hash": "33bed84769b4cf38595eb5bb2b277d5c",
       "len": 25640,
       "code": 200,
-      "baseline": true
+      "baseline": false
     },
     "https://www.taiwancenter.org/en/publication": {
       "hash": "246a44b26ca175a09296f55d863f529c",
       "len": 39729,
       "code": 200,
-      "baseline": true
+      "baseline": false
     },
     "https://www.taiwancenter.org/en/event-archive": {
       "hash": "54ac6bd1156e8336f562713c63837d85",
       "len": 69369,
       "code": 200,
-      "baseline": true
+      "baseline": false
     },
     "https://www.taiwancenter.org/en/facility": {
       "hash": "cfe05de39e314d8f368eee683cbbfd0b",
       "len": 155831,
       "code": 200,
-      "baseline": true
+      "baseline": false
     },
     "https://www.taiwancenter.org/en/statement": {
       "hash": "e3cd3be4860a6374f6999976caad553f",
       "len": 18725,
       "code": 200,
-      "baseline": true
+      "baseline": false
     },
     "https://www.taiwancenter.org/en/latest-events": {
       "hash": "cf1066e41b58de20374d76078b1e8c8e",
       "len": 49945,
       "code": 200,
-      "baseline": true
+      "baseline": false
     },
     "https://www.taiwancenter.org/newsletter": {
       "hash": "abc4d9fe695092c9dacf5153eab48edf",
       "len": 29261,
       "code": 200,
-      "baseline": true
+      "baseline": false
     },
     "https://www.taiwancenter.org/en/newsletter": {
       "hash": "840b38f078e78f022118d8680a7f55ca",
       "len": 29750,
       "code": 200,
-      "baseline": true
+      "baseline": false
     },
     "https://www.taiwancenter.org/event/2025-annual-gala-fundraising-dinner": {
       "hash": "8d51eafc8f76dc1f4e53892a1dd7e808",
       "len": 26841,
       "code": 200,
-      "baseline": true
+      "baseline": false
     },
     "https://www.taiwancenter.org/event/2025-miss-taiwan-usa-news": {
       "hash": "50f1e8ee180df735b8b2cf0490c949db",
       "len": 18766,
       "code": 200,
-      "baseline": true
+      "baseline": false
     },
     "https://www.taiwancenter.org/event/2025-traditional-week": {
       "hash": "f250bd929b7cd68a37e247b4a5805ac4",
       "len": 27811,
       "code": 200,
-      "baseline": true
+      "baseline": false
     },
     "https://www.taiwancenter.org/event/2026-luo-shan-ji-tai-mei-ren-chuan-tong-zhou": {
       "hash": "47361a284ff23fa63b8f95d9517e212d",
       "len": 26292,
       "code": 200,
-      "baseline": true
+      "baseline": false
     },
     "https://www.taiwancenter.org/event/2026-tai-wan-hui-guan-nian-hui": {
       "hash": "ee0cec90a8f3a0a88352c57edc8e149f",
       "len": 26581,
       "code": 200,
-      "baseline": true
+      "baseline": false
     },
     "https://www.taiwancenter.org/event/228-memorial-commemoration-ceremony": {
       "hash": "d86e65e2d9e79af711089037d480308b",
       "len": 27372,
       "code": 200,
-      "baseline": true
+      "baseline": false
     },
     "https://www.taiwancenter.org/event/construction-progress-of-the-building": {
       "hash": "ef4c450404260d19df56de4f8d0726f4",
       "len": 20691,
       "code": 200,
-      "baseline": true
+      "baseline": false
     },
     "https://www.taiwancenter.org/event/groundbreaking-ceremony": {
       "hash": "bb8cc1cc85a76e70be3d6c59721e25e4",
       "len": 21292,
       "code": 200,
-      "baseline": true
+      "baseline": false
     },
     "https://www.taiwancenter.org/event/taiwan-joining-who": {
       "hash": "9a8896e1014d3e3344e989ae60940b96",
       "len": 26262,
       "code": 200,
-      "baseline": true
+      "baseline": false
     },
     "https://www.taiwancenter.org/event/thanksgiving-dinner": {
       "hash": "05cf33ba63bc089ac0640c9ce0c61406",
       "len": 26328,
       "code": 200,
-      "baseline": true
+      "baseline": false
     }
   },
-  "last_poll": "2026-08-09T21:01:41Z",
+  "last_poll": "2026-08-16T13:01:19Z",
   "baseline_at": "2026-08-09T21:01:41Z"
 }

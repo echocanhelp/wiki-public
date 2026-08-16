@@ -1,6 +1,6 @@
 {
-  "at": "2026-08-09T21:04:07Z",
-  "dry_run": true,
+  "at": "2026-08-16T13:02:46Z",
+  "dry_run": false,
   "sources": [
     {
       "id": "taiwancenter-org",
@@ -13,16 +13,31 @@
     },
     {
       "id": "good-shepherd-taiwanese-presbyterian-church",
-      "new": [],
+      "new": [
+        "https://gstpc.org/home/wp-content/plugins/simple-download-monitor/includes/templates-related/fancy2/sdm-fancy-2-styles.css ",
+        "https://gstpc.org/home/08-16-2026-sunday-bulletin/"
+      ],
       "changed": [
-        "https://gstpc.org/home/08-02-2026-sunday-bulletin/"
+        "https://gstpc.org/home/category/bulletin/",
+        "https://gstpc.org/home/tag/bulletin-2/",
+        "https://gstpc.org/home/tag/%e9%80%b1%e5%a0%b1/"
       ],
       "gone_sample": [],
       "errors": [
         "https://gstpc.org/home/xmlrpc.php HTTP 405",
         "https://gstpc.org/home/wprhe_qrcode_style.css  HTTP 404"
       ],
-      "applied": [],
+      "applied": [
+        "tier2:good-shepherd-taiwanese-presbyterian-church-delta-2026-08-16-home-wp-content-plugins-simple-download-monitor-includes-templates-related-fancy.md",
+        "tier2:good-shepherd-taiwanese-presbyterian-church-delta-2026-08-16-home-08-16-2026-sunday-bulletin.md",
+        "tier2:good-shepherd-taiwanese-presbyterian-church-delta-2026-08-16-home-category-bulletin.md",
+        "event:sc-good-shepherd-taiwan-home-category-bulletin.md",
+        "tier2:good-shepherd-taiwanese-presbyterian-church-delta-2026-08-16-home-tag-bulletin-2.md",
+        "event:sc-good-shepherd-taiwan-home-tag-bulletin-2.md",
+        "tier2:good-shepherd-taiwanese-presbyterian-church-delta-2026-08-16-home-tag--e9-80-b1-e5-a0-b1.md",
+        "last_reviewed:hub",
+        "last_reviewed:good-shepherd-taiwanese-presbyterian-church.md"
+      ],
       "parked": false
     },
     {
@@ -37,10 +52,27 @@
       "parked": false
     }
   ],
-  "recommend": [],
+  "recommend": [
+    {
+      "kind": "website",
+      "host": "pct.org.tw",
+      "mentions": 2,
+      "score": 6,
+      "why": "external host on 2 Tier1 pages; not watched",
+      "action": "go Echopedia website https://pct.org.tw/"
+    },
+    {
+      "kind": "densify",
+      "host": "bai-weiwei",
+      "id": "bai-weiwei",
+      "score": 8,
+      "why": "thin L1 person page (2015 chars); densify from Tier2/roster — not a new website",
+      "action": "go deepen people/bai-weiwei"
+    }
+  ],
   "need_you": [],
-  "auto_lines": [],
-  "queue_lines": [
-    "good-shepherd-taiwanese-presbyterian-church: +0 new / 1 changed (see disk)"
-  ]
+  "auto_lines": [
+    "good-shepherd-taiwanese-presbyterian-church: +2 new / 3 changed; applied 9"
+  ],
+  "queue_lines": []
 }

@@ -1,6 +1,14 @@
 {
-  "at": "2026-08-10T05:27:50Z",
+  "at": "2026-08-16T13:02:46Z",
   "suggestions": [
+    {
+      "kind": "website",
+      "host": "pct.org.tw",
+      "mentions": 2,
+      "score": 6,
+      "why": "external host on 2 Tier1 pages; not watched",
+      "action": "go Echopedia website https://pct.org.tw/"
+    },
     {
       "kind": "densify",
       "host": "bai-weiwei",
@@ -8,20 +16,12 @@
       "score": 8,
       "why": "thin L1 person page (2015 chars); densify from Tier2/roster — not a new website",
       "action": "go deepen people/bai-weiwei"
-    },
-    {
-      "kind": "densify",
-      "host": "kevin-lee",
-      "id": "kevin-lee",
-      "score": 8,
-      "why": "thin L1 person page (1798 chars); densify from Tier2/roster — not a new website",
-      "action": "go deepen people/kevin-lee"
     }
   ],
-  "candidates_considered": 6,
+  "candidates_considered": 7,
   "pools": {
-    "website_like": 0,
+    "website_like": 1,
     "densify": 4,
-    "total": 6
+    "total": 7
   }
 }

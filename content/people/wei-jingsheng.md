@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-15
+last_reviewed: 2026-08-16
 ---
 
 # Wei Jingsheng / 魏京生

@@ -13,7 +13,7 @@ tags:
   - immigrant-community
   - Taiwanese-language
 verification_status: pending
-last_reviewed: 2026-07-14
+last_reviewed: 2026-08-16
 ---
 # Good Shepherd Taiwanese Presbyterian Church
 

@@ -1,26 +1,10 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "standards_version": 8,
   "total_pages_scanned": 307,
-  "pages_with_findings": 1,
-  "auto_queued": 1,
-  "queue": [
-    {
-      "path": "organizations/presbyterian-church-in-taiwan.md",
-      "findings": [
-        "LINKS_LOW_DENSITY",
-        "READABILITY_LONG_SENTENCES_48wps",
-        "READABILITY_MANY_LONG_SENTENCES_9"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    }
-  ],
-  "suppressed_findings": 352,
+  "pages_with_findings": 0,
+  "auto_queued": 0,
+  "queue": [],
+  "suppressed_findings": 355,
   "fp_history_entries": 423
 }

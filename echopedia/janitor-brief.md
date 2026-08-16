@@ -1,27 +1,27 @@
-## Echopedia Janitor — 2026-08-15
+## Echopedia Janitor — 2026-08-16
 - Standards v8
 - Pages with findings: **29221**
 - Queued tonight (max 20): **20**
 - Queue:
-  - `people/chen-meihui.md` age≈38.5d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
-  - `organizations/ntpc.md` age≈38.5d · LINK_UNLINKED_ENTITY
-  - `people/guo-yingyan.md` age≈38.5d · LINK_UNLINKED_ENTITY
-  - `people/john-chiang.md` age≈27.5d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
-  - `people/shawna-yang-ryan.md` age≈27.5d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
-  - `people/peng-ming-min.md` age≈23.5d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
-  - `people/li-furen.md` age≈33.5d · LINK_UNLINKED_ENTITY
-  - `organizations/good-shepherd-taiwanese-presbyterian-church.md` age≈32.5d · LINK_UNLINKED_ENTITY
-  - `people/alexander-macdonald.md` age≈32.5d · LINK_UNLINKED_ENTITY
-  - `people/mingyuan-hsu.md` age≈32.5d · LINK_UNLINKED_ENTITY
-  - `organizations/national-taiwanese-presbyterian-council.md` age≈31.5d · LINK_UNLINKED_ENTITY
-  - `organizations/irvine-taiwanese-presbyterian-church.md` age≈31.5d · LINK_UNLINKED_ENTITY
-  - `organizations/formosan-presbyterian-church-in-los-angeles.md` age≈31.5d · LINK_UNLINKED_ENTITY
-  - `sources/toward-a-community-of-hope.md` age≈31.5d · LINK_UNLINKED_ENTITY
-  - `people/jonah-chang.md` age≈31.5d · LINK_UNLINKED_ENTITY
-  - `people/pingtung-lai.md` age≈31.5d · LINK_UNLINKED_ENTITY
-  - `organizations/global-alliance-for-democracy-and-peace-la.md` age≈30.5d · LINK_UNLINKED_ENTITY
-  - `organizations/taiwanese-american-foundation-of-san-diego.md` age≈30.5d · LINK_UNLINKED_ENTITY
-  - `sources/irvine-taiwanese-presbyterian-church.md` age≈30.5d · LINK_BODY_SPARSE
-  - `sources/2017-tahs-publication.md` age≈29.5d · LINK_UNLINKED_ENTITY
-- Log: `knowledge/operational/janitor-log/2026-08-15.jsonl`
+  - `people/chen-meihui.md` age≈39.5d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
+  - `organizations/ntpc.md` age≈39.5d · LINK_UNLINKED_ENTITY
+  - `people/guo-yingyan.md` age≈39.5d · LINK_UNLINKED_ENTITY
+  - `people/john-chiang.md` age≈28.5d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
+  - `people/shawna-yang-ryan.md` age≈28.5d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
+  - `people/peng-ming-min.md` age≈24.5d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
+  - `people/li-furen.md` age≈34.5d · LINK_UNLINKED_ENTITY
+  - `organizations/good-shepherd-taiwanese-presbyterian-church.md` age≈33.5d · LINK_UNLINKED_ENTITY
+  - `people/alexander-macdonald.md` age≈33.5d · LINK_UNLINKED_ENTITY
+  - `people/mingyuan-hsu.md` age≈33.5d · LINK_UNLINKED_ENTITY
+  - `organizations/national-taiwanese-presbyterian-council.md` age≈32.5d · LINK_UNLINKED_ENTITY
+  - `organizations/irvine-taiwanese-presbyterian-church.md` age≈32.5d · LINK_UNLINKED_ENTITY
+  - `organizations/formosan-presbyterian-church-in-los-angeles.md` age≈32.5d · LINK_UNLINKED_ENTITY
+  - `sources/toward-a-community-of-hope.md` age≈32.5d · LINK_UNLINKED_ENTITY
+  - `people/jonah-chang.md` age≈32.5d · LINK_UNLINKED_ENTITY
+  - `people/pingtung-lai.md` age≈32.5d · LINK_UNLINKED_ENTITY
+  - `organizations/global-alliance-for-democracy-and-peace-la.md` age≈31.5d · LINK_UNLINKED_ENTITY
+  - `organizations/taiwanese-american-foundation-of-san-diego.md` age≈31.5d · LINK_UNLINKED_ENTITY
+  - `sources/irvine-taiwanese-presbyterian-church.md` age≈31.5d · LINK_BODY_SPARSE
+  - `sources/2017-tahs-publication.md` age≈30.5d · LINK_UNLINKED_ENTITY
+- Log: `knowledge/operational/janitor-log/2026-08-16.jsonl`
 - Agent auto-apply: **False** (local pin only if enabled)

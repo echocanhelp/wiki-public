@@ -1,0 +1,51 @@
+{
+  "timestamp": "2026-08-16T02:53:16.551584",
+  "clock_limit": "0,2200",
+  "samples": [
+    {
+      "t": 0,
+      "temp": 57.0,
+      "util": 95,
+      "power": 26.17,
+      "clock": 2190
+    },
+    {
+      "t": 5,
+      "temp": 53.0,
+      "util": 0,
+      "power": 10.54,
+      "clock": 2190
+    },
+    {
+      "t": 10,
+      "temp": 52.0,
+      "util": 0,
+      "power": 10.48,
+      "clock": 2190
+    },
+    {
+      "t": 15,
+      "temp": 51.0,
+      "util": 0,
+      "power": 10.41,
+      "clock": 2190
+    },
+    {
+      "t": 20,
+      "temp": 51.0,
+      "util": 0,
+      "power": 10.35,
+      "clock": 2190
+    },
+    {
+      "t": 25,
+      "temp": 50.0,
+      "util": 0,
+      "power": 10.27,
+      "clock": 2190
+    }
+  ],
+  "avg_temp": 52.3,
+  "avg_power": 13.0,
+  "avg_util": 16.0
+}
