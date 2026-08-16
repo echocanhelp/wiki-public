@@ -8,7 +8,8 @@ tags:
   - democracy
   - indigenous
 verification_status: verified
-last_reviewed: 2026-08-15
+last_reviewed: 2026-08-16
+website: https://www.pct.org.tw/
 ---
 
 # Presbyterian Church in Taiwan (PCT)

@@ -65,7 +65,7 @@ SSOT times: `hermes cron list` / SYSTEM_STATUS generated table. Narrative summar
 | 04:15–04:30 | extract · evaluate · generate · site-design | Pipeline + design |
 | 04:40–05:20 | backlink · quotes · timeline | Page deepening AUTO |
 | 05:30 Sun | vault-search-index-rebuild | Search index |
-| **Sun 06:00** | **source-continuity** | **Live-site watch (TC/GSTPC/ITPC) → delta AUTO → next-ingest tips** |
+| **Sun 06:00** | **source-continuity** | **Live-site watch (TC/GSTPC/ITPC/PCT) → delta AUTO → next-ingest tips** |
 | 06:50 | cron-audit | Empty-schedule / missed-run / deliver guards |
 | **08:00** | **ci-heal** | **Only nightly pusher** (L2 heal + L3 green) |
 | 07:10 | docs-sync | Doc OS sense + cron inventory regen |

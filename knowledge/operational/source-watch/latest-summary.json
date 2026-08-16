@@ -1,5 +1,5 @@
 {
-  "at": "2026-08-16T16:22:19Z",
+  "at": "2026-08-16T21:02:49Z",
   "dry_run": false,
   "sources": [
     {
@@ -14,13 +14,19 @@
     {
       "id": "good-shepherd-taiwanese-presbyterian-church",
       "new": [],
-      "changed": [],
+      "changed": [
+        "https://gstpc.org/home/08-16-2026-sunday-bulletin/"
+      ],
       "gone_sample": [],
       "errors": [
         "https://gstpc.org/home/xmlrpc.php HTTP 405",
         "https://gstpc.org/home/wprhe_qrcode_style.css  HTTP 404"
       ],
-      "applied": [],
+      "applied": [
+        "tier2:good-shepherd-taiwanese-presbyterian-church-delta-2026-08-16-home-08-16-2026-sunday-bulletin.md",
+        "last_reviewed:hub",
+        "last_reviewed:good-shepherd-taiwanese-presbyterian-church.md"
+      ],
       "parked": false
     },
     {
@@ -54,6 +60,8 @@
     }
   ],
   "need_you": [],
-  "auto_lines": [],
+  "auto_lines": [
+    "good-shepherd-taiwanese-presbyterian-church: +0 new / 1 changed; applied 3"
+  ],
   "queue_lines": []
 }

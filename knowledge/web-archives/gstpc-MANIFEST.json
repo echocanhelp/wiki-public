@@ -2,7 +2,7 @@
   "version": 1,
   "generated": "2026-08-09",
   "note": "Baseline MANIFEST for source-continuity; append-only on deltas",
-  "count": 27,
+  "count": 28,
   "entries": [
     {
       "file": "knowledge/web-archives/gstpc-40th-ebook.md",
@@ -177,6 +177,14 @@
       "status": "ok",
       "source": "source-continuity-delta",
       "fetched": "2026-08-16T16:18:42Z"
+    },
+    {
+      "file": "knowledge/web-archives/good-shepherd-taiwanese-presbyterian-church-delta-2026-08-16-home-08-16-2026-sunday-bulletin.md",
+      "url": "https://gstpc.org/home/08-16-2026-sunday-bulletin/",
+      "bytes": 12752,
+      "status": "ok",
+      "source": "source-continuity-delta",
+      "fetched": "2026-08-16T21:01:59Z"
     }
   ]
 }
