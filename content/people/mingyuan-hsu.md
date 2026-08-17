@@ -47,6 +47,7 @@ Predecessor listed by TAH: [[people/david-huang|Rev. David Huang (黃德利)]], 
 - **2018** — Hosted [[people/pinghsi-liu|劉炳熹]] family in North America (Liu foreword)
 - **July 2019–** — GSTPC full-time pastor
 - **2020–** — GSTPC 靈修默想 / daily devotion archive ([devotion](https://gstpc.org/home/devotion-archive/); ~123 entries in 2020)
+- **2021** — GSTPC40 牧者前言 (設教 1980-12-07; thanked 歷任牧者)
 - **2023** — Invited Liu to translate Lai’s dissertation
 - **2025** — Foreword, *Toward A Community of Hope* reprint (Taiwan Church Press)
 

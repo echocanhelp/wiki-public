@@ -36,3 +36,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation|TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/good-shepherd-taiwanese-presbyterian-church|GSTPC]] — 40th: in post 2018 (孫紫雲: 堅信禮)

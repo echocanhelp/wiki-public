@@ -44,19 +44,34 @@ Per the church's vision statement ([異象使命](https://gstpc.org/home/our-vis
 
 ### Founding
 
-GSTPC was founded by a community of Chinese immigrants and international students from Taiwan who settled in the San Gabriel Valley. Seeking to maintain their linguistic and cultural heritage while practicing their faith, they established a congregation that worships in Taiwanese (臺語), the mother tongue many Taiwanese grew up with. The church's location in Monterey Park—a well-known center for Chinese and Taiwanese communities in Southern California—places it at the heart of this diaspora community's daily life.
+**設教:** 7 December 1980 (GSTPC40 許明遠前言). [[people/david-huang|黃德利]]’s 40th essay: planted in Monterey Park for 台語 worship during the 1980s immigrant wave; first year grew from **three families and seven youth** to 70+ in worship and 37 youth. Seven PCT pastors then in SoCal helped the plant (among them [[people/rev-j-m-hsu|許錦銘]]; 邱以正、許文將、余裕義 later deceased; 陳獻平 later in Taiwan).
+
+潘淑姃 (GSTPC40): 1985 fifth-anniversary — 黃德利 **就任首任牧師**; 1988 the congregation bought the Monterey Park building (bid vs a Korean congregation after the white host church offered the property); 1990 tenth-anniversary worship; fifteenth-anniversary 獻堂; sister-church tie with 台北重新教會.
 
 ### 25th Anniversary (2016)
 
-The church celebrated its 25th anniversary with a commemorative booklet ([GSTPC25](https://gstpc.org/home/gstpc25-booklet/)), documenting a quarter century of ministry, pastoral leadership, and community growth.
+Commemorative booklet ([GSTPC25](https://gstpc.org/home/gstpc25-booklet/)) is a WordPress 3D FlipBook (page id 3583). **No searchable text** — images only. Not absorbed as facts.
 
 ### 40th Anniversary (2021)
 
-In December 2021, GSTPC marked its 40th anniversary with a special感恩紀念刋 (thanksgiving commemorative edition) titled **上帝的引導，雲彩見證篇** (God's Guidance, Clouds Bear Witness). The 40th anniversary flipbook eBook ([GSTPC40](https://gstpc.org/home/get/gstpc40-ebook)) includes sections on English Ministry, STM Taiwan, and the church's 40-year narrative of God's faithfulness. The subtitle of the publication reads: **好牧者感恩四十 — 上帝的疼惜，四十年的恩典** (Good Shepherd Gives Thanks for Forty — God's Cherishing, Forty Years of Grace).
+Set-apart year was **2020**; COVID delayed the in-person mark. Electronic memorial **上帝的引導，雲彩見證篇** published **5 December 2021** ([GSTPC40 flipbook](https://gstpc.org/home/gstpc40/ebook/), landing [gstpc40-ebook](https://gstpc.org/home/get/gstpc40-ebook)). 許明遠: two aims — 傳揚上帝的作為 / 記念上帝的大恩.
 
 ### Pastoral Succession (歷任牧者)
 
-[[people/mingyuan-hsu|Rev. Ming Yuan Hsu (許明遠牧師)]] has served as the church's full-time pastor since **July 2019**. TAH Who’s Who lists [[people/david-huang|Rev. David Huang (黃德利)]] as GSTPC **senior pastor, 1980–2002**. The church's 40th anniversary flipbook includes a dedicated section on the history of its pastors (歷任牧者).
+From GSTPC40 許明遠 thanks + dated essays (not TAH alone):
+
+| Role / years | Person | Source |
+|---|---|---|
+| Plant / 首任 (installed 1985); TAH: senior 1980–2002 | [[people/david-huang|黃德利]] | GSTPC40; TAH |
+| 傳道及**第二任牧師 2006–2016**; deacon 1981–86 | [[people/cai-weiren|蔡維仁]] | GSTPC40 蔡文 |
+| In post 2018 (堅信禮) | [[people/ralph-su|蘇惠智]] | GSTPC40 孫紫雲 |
+| Full-time **July 2019–** | [[people/mingyuan-hsu|許明遠]] | GSTPC pastor page + 40th |
+
+Also thanked as having served (years not given in the 40th list): 吳天賜、葉君勇、郭應啟、陳順欽、黃梓洋、[[people/guo-dongxu|郭東緒]]、林雍迪.
+
+Youth-counselor core named by 黃德利 (40th): 廖芳誼、蔡維仁、黃授正、黃惠琦、謝敏慧、謝明敏、林尚嫻 — later 黃授正、蔡維仁、林雍迪 pastors; 林雍肇宣教師.
+
+TAH **1980–2002** and 40th **1985 就任 / 2006 第二任** are both kept. Do not collapse the 2002–2006 or 2016–2019 gaps.
 
 ### Connection to Monterey Park Community
 
