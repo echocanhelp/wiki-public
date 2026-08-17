@@ -11,8 +11,33 @@ tags:
 
 # Worker Guidelines
 
-> Auto-generated from plan: `~/.hermes/plans/2026-07-19_12-factor-agents-implementation.md`
-> Last reviewed: 2026-07-19
+> Auto-generated from plan: `~/.hermes/plans/2026-07-19_12-factor-agents-implementation.md`  
+> Last reviewed: 2026-08-17 (token split + TAH identity pitfalls)
+
+## Who runs what (token split)
+
+**Second purpose of this file:** keep **premium Grok tokens** on judgment; spend **free Laguna tokens** on playbook execution.
+
+Live (2026-08-17): pinto `model.default` = `poolside/Laguna-S-2.1-NVFP4` `:8888`; `delegation.provider/model` = same Laguna. Grok appears when the operator `/model`s or this chat already fell over to xAI.
+
+| Role | Model | May | Must not |
+|------|-------|-----|----------|
+| **Planner** (this chat if Grok) | premium | Classify, identity call (same person?), pick **one** playbook ID, write a self-contained card, patch *this file* if the recipe is wrong, verify worker output | Bulk `patch`/`write_file` on `content/people|organizations`, harvest loops, Quartz publish grind |
+| **Worker** | Laguna (free) | **One** playbook, exact commands, Report, STOP | Redesign, new crons, identity guesses, `/model` hop |
+| **Scripts / `no_agent`** | $0 tokens | Harvest, backfill, index-sync, collect | LLM in the loop |
+
+**Hand-off (planner on Grok):**
+
+1. Decide identity + playbook in this chat (short).
+2. `hermes kanban create "P8 …" --body "WORKER.md P8 PATH=… SOURCE=…" --assignee pinto`  
+   **or** `delegate_task(goal="WORKER P8 …", context="paths + gates")` — children already inherit Laguna.
+3. Do **not** execute P8/P9/P3/P12 in the Grok turn.
+4. Re-read the files the worker claims; then P1/P2 only if you must (P2 may stay planner if publish is one script).
+
+**Stay on Grok for:** “same person?”, romanization collisions, CONTROL/process patches, architecture.  
+**Force Laguna for:** apply tables, new thin pages, redirects, hub list rows, index-sync.
+
+If you already started P8 on Grok this turn, **stop after the next file** and hand off the rest.
 
 ## Self-Contained Tasks (Factor 12 — Stateless Reducer)
 
@@ -228,14 +253,14 @@ Our architecture follows a **two-graph** model:
 
 ### Model routing
 
-| Context | Model |
+| Context | Model (2026-08-17 live) |
 |---------|-------|
-| `default` profile chat | Grok → NVFP4 (sticky) |
-| `pinto` profile chat | NVFP4 only |
-| `delegate_task` | `delegation.provider/model` → pinto NVFP4 |
-| `hermes kanban assign <task> pinto` | NVFP4 only |
-| `no_agent` cron jobs | N/A (deterministic) |
-| Vision analysis | Grok (auto, via auxiliary.vision) |
+| pinto profile default | Laguna `:8888` (`poolside/Laguna-S-2.1-NVFP4`); fallback Grok |
+| This chat after `/model` Grok | premium — **plan + identity only**; spawn Laguna for playbooks |
+| `delegate_task` | `delegation.*` → Laguna (already set) |
+| `hermes kanban assign <task> pinto` | Laguna |
+| `no_agent` cron | N/A (deterministic) |
+| Vision | Grok auxiliary |
 
 ### Design principles
 
