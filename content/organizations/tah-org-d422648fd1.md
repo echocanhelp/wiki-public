@@ -1,5 +1,5 @@
 ---
-title: "%E5%8C%97%E7%Be%8E%E6%B4%B2%E8%87%Ba%E7%81%A3%E6%96%87%E5%Ad%B8%E7%A0%94%E7%A9%B6%E6%9C%83 (北美洲臺灣文學研究會)"
+title: "北美洲臺灣文學研究會"
 type: organization
 tags:
   - organization
@@ -7,10 +7,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E5%8C%97%E7%Be%8E%E6%B4%B2%E8%87%Ba%E7%81%A3%E6%96%87%E5%Ad%B8%E7%A0%94%E7%A9%B6%E6%9C%83 (北美洲臺灣文學研究會)
+# 北美洲臺灣文學研究會
 
 ## Identity Snapshot
-- **English:** %E5%8C%97%E7%Be%8E%E6%B4%B2%E8%87%Ba%E7%81%A3%E6%96%87%E5%Ad%B8%E7%A0%94%E7%A9%B6%E6%9C%83
+- **English:** —
 - **Chinese:** 北美洲臺灣文學研究會
 - **Era:** Contemporary
 - **Geography:** Taiwanese American community

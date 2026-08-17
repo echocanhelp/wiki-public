@@ -1,7 +1,6 @@
 ---
-title: "%E6%96%Bd%E5%Bd%A5%E4%Bc%83 (施彥伃博士)"
+title: "施彥伃博士"
 type: person
-name_en: "%E6%96%Bd%E5%Bd%A5%E4%Bc%83"
 name_zh: "施彥伃博士"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E6%96%Bd%E5%Bd%A5%E4%Bc%83 (施彥伃博士)
+# 施彥伃博士
 
 ## Identity Snapshot
-- **English:** %E6%96%Bd%E5%Bd%A5%E4%Bc%83
+- **English:** —
 - **Chinese:** 施彥伃博士
 - **Era:** Birth Place
 - **Geography:** 台灣/

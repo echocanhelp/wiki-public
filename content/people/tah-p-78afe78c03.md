@@ -1,7 +1,6 @@
 ---
-title: "%E9%99%B3%E7%8E%B2%E7%8E%89 (陳玲玉博士)"
+title: "陳玲玉博士"
 type: person
-name_en: "%E9%99%B3%E7%8E%B2%E7%8E%89"
 name_zh: "陳玲玉博士"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E9%99%B3%E7%8E%B2%E7%8E%89 (陳玲玉博士)
+# 陳玲玉博士
 
 ## Identity Snapshot
-- **English:** %E9%99%B3%E7%8E%B2%E7%8E%89
+- **English:** —
 - **Chinese:** 陳玲玉博士
 - **Era:** Birth Place
 - **Geography:** 台灣台北市

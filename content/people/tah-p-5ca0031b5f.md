@@ -1,7 +1,6 @@
 ---
-title: "%E8%8E%8A%E6%9E%97%E7%B4%A0%E8%8A%B3 (莊林素芳)"
+title: "莊林素芳"
 type: person
-name_en: "%E8%8E%8A%E6%9E%97%E7%B4%A0%E8%8A%B3"
 name_zh: "莊林素芳"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E8%8E%8A%E6%9E%97%E7%B4%A0%E8%8A%B3 (莊林素芳)
+# 莊林素芳
 
 ## Identity Snapshot
-- **English:** %E8%8E%8A%E6%9E%97%E7%B4%A0%E8%8A%B3
+- **English:** —
 - **Chinese:** 莊林素芳
 - **Era:** 1923-2006
 - **Geography:** 台灣台南麻豆

@@ -1,7 +1,6 @@
 ---
-title: "%E9%84%Ad%E5%Be%B7%E5%92%8C (鄭德和)"
+title: "鄭德和"
 type: person
-name_en: "%E9%84%Ad%E5%Be%B7%E5%92%8C"
 name_zh: "鄭德和"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E9%84%Ad%E5%Be%B7%E5%92%8C (鄭德和)
+# 鄭德和
 
 ## Identity Snapshot
-- **English:** %E9%84%Ad%E5%Be%B7%E5%92%8C
+- **English:** —
 - **Chinese:** 鄭德和
 - **Era:** 1939
 - **Geography:** 台灣台中

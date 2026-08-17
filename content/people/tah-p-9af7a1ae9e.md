@@ -1,7 +1,6 @@
 ---
-title: "%E9%99%B3%E9%87%91%E6%9D%Be (陳金松)"
+title: "陳金松"
 type: person
-name_en: "%E9%99%B3%E9%87%91%E6%9D%Be"
 name_zh: "陳金松"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E9%99%B3%E9%87%91%E6%9D%Be (陳金松)
+# 陳金松
 
 ## Identity Snapshot
-- **English:** %E9%99%B3%E9%87%91%E6%9D%Be
+- **English:** —
 - **Chinese:** 陳金松
 - **Era:** 1939
 - **Geography:** 台灣台北

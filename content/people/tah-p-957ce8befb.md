@@ -1,7 +1,6 @@
 ---
-title: "%E7%9F%B3%E9%9D%92%E5%A6%82 (石青如)"
+title: "石青如"
 type: person
-name_en: "%E7%9F%B3%E9%9D%92%E5%A6%82"
 name_zh: "石青如"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E7%9F%B3%E9%9D%92%E5%A6%82 (石青如)
+# 石青如
 
 ## Identity Snapshot
-- **English:** %E7%9F%B3%E9%9D%92%E5%A6%82
+- **English:** —
 - **Chinese:** 石青如
 - **Era:** Birth Place
 - **Geography:** 台灣高雄

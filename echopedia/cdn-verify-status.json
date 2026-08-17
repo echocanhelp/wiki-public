@@ -1,35 +1,13 @@
 {
-  "at": "2026-08-17T15:05:47.649966+00:00",
-  "status": "BROKEN_PAGES",
+  "at": "2026-08-17T16:12:51.466288+00:00",
+  "status": "OK",
   "homepage": "200",
   "total": 50,
-  "ok": 19,
-  "cdn_lag": 21,
-  "missing": 10,
+  "ok": 50,
+  "cdn_lag": 0,
+  "missing": 0,
   "other": 0,
   "base_url": "https://echocanhelp.github.io/wiki-public",
-  "missing_samples": [
-    "https://echocanhelp.github.io/wiki-public/organizations/aj-wang-foundation-scholarship-fund",
-    "https://echocanhelp.github.io/wiki-public/organizations/american-citizens-of-taiwan-origin-acto",
-    "https://echocanhelp.github.io/wiki-public/organizations/ann-arbor-taiwanese-association",
-    "https://echocanhelp.github.io/wiki-public/organizations/asia-democracy-foundation",
-    "https://echocanhelp.github.io/wiki-public/organizations/association-of-taiwanese-students-at-mit",
-    "https://echocanhelp.github.io/wiki-public/organizations/boston-taiwanese-biotechnology-association",
-    "https://echocanhelp.github.io/wiki-public/organizations/boston-university-taiwanese-student-association",
-    "https://echocanhelp.github.io/wiki-public/organizations/brooklyn-artists-studio",
-    "https://echocanhelp.github.io/wiki-public/organizations/brown-taiwan-society",
-    "https://echocanhelp.github.io/wiki-public/organizations/chinese-and-taiwanese-student-association"
-  ],
-  "lag_samples": [
-    "https://echocanhelp.github.io/wiki-public/organizations/american-citizens-for-taiwan",
-    "https://echocanhelp.github.io/wiki-public/organizations/arizona-taiwanese-student-association",
-    "https://echocanhelp.github.io/wiki-public/organizations/asian-senior-concerns-foundation",
-    "https://echocanhelp.github.io/wiki-public/organizations/asu-taiwanese-international-student-association",
-    "https://echocanhelp.github.io/wiki-public/organizations/austin-taiwanese-association",
-    "https://echocanhelp.github.io/wiki-public/organizations/bald-eagle-society",
-    "https://echocanhelp.github.io/wiki-public/organizations/bliss-wisdom-foundation-of-north-america",
-    "https://echocanhelp.github.io/wiki-public/organizations/brown-risd-taiwanese-graduate-student-association",
-    "https://echocanhelp.github.io/wiki-public/organizations/center-for-taiwan-international-relations-ctir",
-    "https://echocanhelp.github.io/wiki-public/organizations/chhong-bi-memorial-fund"
-  ]
+  "missing_samples": [],
+  "lag_samples": []
 }

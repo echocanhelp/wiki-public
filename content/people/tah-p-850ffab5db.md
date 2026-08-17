@@ -1,7 +1,6 @@
 ---
-title: "%E5%91%A8%E6%94%Bf%E5%Bf%A0 (周政忠)"
+title: "周政忠"
 type: person
-name_en: "%E5%91%A8%E6%94%Bf%E5%Bf%A0"
 name_zh: "周政忠"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E5%91%A8%E6%94%Bf%E5%Bf%A0 (周政忠)
+# 周政忠
 
 ## Identity Snapshot
-- **English:** %E5%91%A8%E6%94%Bf%E5%Bf%A0
+- **English:** —
 - **Chinese:** 周政忠
 - **Era:** Birth Place
 - **Geography:** 台灣

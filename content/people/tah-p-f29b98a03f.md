@@ -1,7 +1,6 @@
 ---
-title: "%E6%9D%9C%E5%Ae%9B%E7%8F%8A (杜宛珊)"
+title: "杜宛珊"
 type: person
-name_en: "%E6%9D%9C%E5%Ae%9B%E7%8F%8A"
 name_zh: "杜宛珊"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E6%9D%9C%E5%Ae%9B%E7%8F%8A (杜宛珊)
+# 杜宛珊
 
 ## Identity Snapshot
-- **English:** %E6%9D%9C%E5%Ae%9B%E7%8F%8A
+- **English:** —
 - **Chinese:** 杜宛珊
 - **Era:** Birth Place
 - **Geography:** 台灣

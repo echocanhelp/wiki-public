@@ -1,7 +1,6 @@
 ---
-title: "%E6%A5%8A%E9%87%91%E6%96%87 (楊金文)"
+title: "楊金文"
 type: person
-name_en: "%E6%A5%8A%E9%87%91%E6%96%87"
 name_zh: "楊金文"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E6%A5%8A%E9%87%91%E6%96%87 (楊金文)
+# 楊金文
 
 ## Identity Snapshot
-- **English:** %E6%A5%8A%E9%87%91%E6%96%87
+- **English:** —
 - **Chinese:** 楊金文
 - **Era:** -
 - **Geography:** -

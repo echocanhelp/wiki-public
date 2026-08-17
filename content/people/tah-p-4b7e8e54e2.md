@@ -1,7 +1,6 @@
 ---
-title: "%E9%99%B3%E6%98%Ad%E4%Bf%8A (陳昭俊博士)"
+title: "陳昭俊博士"
 type: person
-name_en: "%E9%99%B3%E6%98%Ad%E4%Bf%8A"
 name_zh: "陳昭俊博士"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E9%99%B3%E6%98%Ad%E4%Bf%8A (陳昭俊博士)
+# 陳昭俊博士
 
 ## Identity Snapshot
-- **English:** %E9%99%B3%E6%98%Ad%E4%Bf%8A
+- **English:** —
 - **Chinese:** 陳昭俊博士
 - **Era:** 1935
 - **Geography:** 台灣嘉義

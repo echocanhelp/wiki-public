@@ -1,7 +1,6 @@
 ---
-title: "%E5%Bc%B5%E5%A6%99%E8%8F%Af (張妙華)"
+title: "張妙華"
 type: person
-name_en: "%E5%Bc%B5%E5%A6%99%E8%8F%Af"
 name_zh: "張妙華"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E5%Bc%B5%E5%A6%99%E8%8F%Af (張妙華)
+# 張妙華
 
 ## Identity Snapshot
-- **English:** %E5%Bc%B5%E5%A6%99%E8%8F%Af
+- **English:** —
 - **Chinese:** 張妙華
 - **Era:** Contemporary
 - **Geography:** 台中, 台灣

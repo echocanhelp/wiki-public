@@ -1,7 +1,6 @@
 ---
-title: "%E6%9D%8E%E4%B8%Ad%E5%Bf%97 (李中志)"
+title: "李中志"
 type: person
-name_en: "%E6%9D%8E%E4%B8%Ad%E5%Bf%97"
 name_zh: "李中志"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E6%9D%8E%E4%B8%Ad%E5%Bf%97 (李中志)
+# 李中志
 
 ## Identity Snapshot
-- **English:** %E6%9D%8E%E4%B8%Ad%E5%Bf%97
+- **English:** —
 - **Chinese:** 李中志
 - **Era:** Birth Place
 - **Geography:** 台灣台南麻豆

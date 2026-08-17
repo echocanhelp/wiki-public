@@ -1,7 +1,6 @@
 ---
-title: "%E7%8E%8B%E6%83%A0%E6%B4%A5 (王惠津)"
+title: "王惠津"
 type: person
-name_en: "%E7%8E%8B%E6%83%A0%E6%B4%A5"
 name_zh: "王惠津"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E7%8E%8B%E6%83%A0%E6%B4%A5 (王惠津)
+# 王惠津
 
 ## Identity Snapshot
-- **English:** %E7%8E%8B%E6%83%A0%E6%B4%A5
+- **English:** —
 - **Chinese:** 王惠津
 - **Era:** -
 - **Geography:** 台灣/-/-

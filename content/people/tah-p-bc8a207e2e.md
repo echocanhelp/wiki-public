@@ -1,7 +1,6 @@
 ---
-title: "%E6%B4%Aa%E8%Bc%9D%E9%9B%84 (洪輝雄)"
+title: "洪輝雄"
 type: person
-name_en: "%E6%B4%Aa%E8%Bc%9D%E9%9B%84"
 name_zh: "洪輝雄"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E6%B4%Aa%E8%Bc%9D%E9%9B%84 (洪輝雄)
+# 洪輝雄
 
 ## Identity Snapshot
-- **English:** %E6%B4%Aa%E8%Bc%9D%E9%9B%84
+- **English:** —
 - **Chinese:** 洪輝雄
 - **Era:** Contemporary
 - **Geography:** 台北, 台灣

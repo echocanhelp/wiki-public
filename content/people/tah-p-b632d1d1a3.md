@@ -1,7 +1,6 @@
 ---
-title: "%E6%9E%97%E7%Be%8E%E7%8E%B2 (林美玲)"
+title: "林美玲"
 type: person
-name_en: "%E6%9E%97%E7%Be%8E%E7%8E%B2"
 name_zh: "林美玲"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E6%9E%97%E7%Be%8E%E7%8E%B2 (林美玲)
+# 林美玲
 
 ## Identity Snapshot
-- **English:** %E6%9E%97%E7%Be%8E%E7%8E%B2
+- **English:** —
 - **Chinese:** 林美玲
 - **Era:** Birth Place
 - **Geography:** First year, first city and state arrived in the U.S.

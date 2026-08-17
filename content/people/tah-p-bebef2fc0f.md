@@ -1,7 +1,6 @@
 ---
-title: "%E9%99%B3%E7%82%B3%E8%A1%A1 (陳炳衡)"
+title: "陳炳衡"
 type: person
-name_en: "%E9%99%B3%E7%82%B3%E8%A1%A1"
 name_zh: "陳炳衡"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E9%99%B3%E7%82%B3%E8%A1%A1 (陳炳衡)
+# 陳炳衡
 
 ## Identity Snapshot
-- **English:** %E9%99%B3%E7%82%B3%E8%A1%A1
+- **English:** —
 - **Chinese:** 陳炳衡
 - **Era:** Birth Place
 - **Geography:** 台灣

@@ -1,7 +1,6 @@
 ---
-title: "%E9%99%B3%E7%90%A6%E7%91%A4 (陳琦瑤)"
+title: "陳琦瑤"
 type: person
-name_en: "%E9%99%B3%E7%90%A6%E7%91%A4"
 name_zh: "陳琦瑤"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E9%99%B3%E7%90%A6%E7%91%A4 (陳琦瑤)
+# 陳琦瑤
 
 ## Identity Snapshot
-- **English:** %E9%99%B3%E7%90%A6%E7%91%A4
+- **English:** —
 - **Chinese:** 陳琦瑤
 - **Era:** Birth Place
 - **Geography:** 台灣台北

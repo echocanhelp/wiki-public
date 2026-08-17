@@ -1,7 +1,6 @@
 ---
-title: "%E9%99%B3%E5%Ae%9C%E8%93%81 %E5%8D%9A%E5%A3%Ab (陳宜蓁博士)"
+title: "陳宜蓁博士"
 type: person
-name_en: "%E9%99%B3%E5%Ae%9C%E8%93%81 %E5%8D%9A%E5%A3%Ab"
 name_zh: "陳宜蓁博士"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E9%99%B3%E5%Ae%9C%E8%93%81 %E5%8D%9A%E5%A3%Ab (陳宜蓁博士)
+# 陳宜蓁博士
 
 ## Identity Snapshot
-- **English:** %E9%99%B3%E5%Ae%9C%E8%93%81 %E5%8D%9A%E5%A3%Ab
+- **English:** —
 - **Chinese:** 陳宜蓁博士
 - **Era:** Birth Place
 - **Geography:** 台灣高雄

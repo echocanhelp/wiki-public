@@ -1,7 +1,6 @@
 ---
-title: "%E9%A0%88%E8%97%A4%E6%Ad%A3%E5%Ad%90 (須藤正子)"
+title: "須藤正子"
 type: person
-name_en: "%E9%A0%88%E8%97%A4%E6%Ad%A3%E5%Ad%90"
 name_zh: "須藤正子"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E9%A0%88%E8%97%A4%E6%Ad%A3%E5%Ad%90 (須藤正子)
+# 須藤正子
 
 ## Identity Snapshot
-- **English:** %E9%A0%88%E8%97%A4%E6%Ad%A3%E5%Ad%90
+- **English:** —
 - **Chinese:** 須藤正子
 - **Era:** 1949
 - **Geography:** 日本

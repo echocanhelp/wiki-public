@@ -1,7 +1,6 @@
 ---
-title: "%E6%9F%Af%E6%89%Bf%E5%Ae%B6 (柯承家)"
+title: "柯承家"
 type: person
-name_en: "%E6%9F%Af%E6%89%Bf%E5%Ae%B6"
 name_zh: "柯承家"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E6%9F%Af%E6%89%Bf%E5%Ae%B6 (柯承家)
+# 柯承家
 
 ## Identity Snapshot
-- **English:** %E6%9F%Af%E6%89%Bf%E5%Ae%B6
+- **English:** —
 - **Chinese:** 柯承家
 - **Era:** 1929
 - **Geography:** 台灣新竹

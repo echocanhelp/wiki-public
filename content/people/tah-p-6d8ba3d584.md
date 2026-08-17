@@ -1,7 +1,6 @@
 ---
-title: "%E7%8E%8B%E4%Ba%Ba%E7%B4%80 (王人紀)"
+title: "王人紀"
 type: person
-name_en: "%E7%8E%8B%E4%Ba%Ba%E7%B4%80"
 name_zh: "王人紀"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E7%8E%8B%E4%Ba%Ba%E7%B4%80 (王人紀)
+# 王人紀
 
 ## Identity Snapshot
-- **English:** %E7%8E%8B%E4%Ba%Ba%E7%B4%80
+- **English:** —
 - **Chinese:** 王人紀
 - **Era:** 1936~1970
 - **Geography:** 台灣 台南

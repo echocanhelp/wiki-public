@@ -1,7 +1,6 @@
 ---
-title: "%E9%Bb%83%E4%B8%96%E6%83%A0 (黃世惠)"
+title: "黃世惠"
 type: person
-name_en: "%E9%Bb%83%E4%B8%96%E6%83%A0"
 name_zh: "黃世惠"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E9%Bb%83%E4%B8%96%E6%83%A0 (黃世惠)
+# 黃世惠
 
 ## Identity Snapshot
-- **English:** %E9%Bb%83%E4%B8%96%E6%83%A0
+- **English:** —
 - **Chinese:** 黃世惠
 - **Era:** 1926
 - **Geography:** 台灣 台北

@@ -1,7 +1,6 @@
 ---
-title: "%E6%9D%8E%E7%8E%89%E7%90%9B (李玉琛醫師)"
+title: "李玉琛醫師"
 type: person
-name_en: "%E6%9D%8E%E7%8E%89%E7%90%9B"
 name_zh: "李玉琛醫師"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E6%9D%8E%E7%8E%89%E7%90%9B (李玉琛醫師)
+# 李玉琛醫師
 
 ## Identity Snapshot
-- **English:** %E6%9D%8E%E7%8E%89%E7%90%9B
+- **English:** —
 - **Chinese:** 李玉琛醫師
 - **Era:** 1925
 - **Geography:** 台灣 苗栗

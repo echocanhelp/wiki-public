@@ -1,7 +1,6 @@
 ---
-title: "%E6%9E%97%E5%Bd%B0%E5%Bd%A9 (林彰彩)"
+title: "林彰彩"
 type: person
-name_en: "%E6%9E%97%E5%Bd%B0%E5%Bd%A9"
 name_zh: "林彰彩"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E6%9E%97%E5%Bd%B0%E5%Bd%A9 (林彰彩)
+# 林彰彩
 
 ## Identity Snapshot
-- **English:** %E6%9E%97%E5%Bd%B0%E5%Bd%A9
+- **English:** —
 - **Chinese:** 林彰彩
 - **Era:** 1939
 - **Geography:** 台灣

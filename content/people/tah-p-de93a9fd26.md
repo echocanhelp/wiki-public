@@ -1,7 +1,6 @@
 ---
-title: "%E9%Bb%83%E8%81%96%E7%A5%90 %E5%8D%9A%E5%A3%Ab (黃聖祐博士)"
+title: "黃聖祐博士"
 type: person
-name_en: "%E9%Bb%83%E8%81%96%E7%A5%90 %E5%8D%9A%E5%A3%Ab"
 name_zh: "黃聖祐博士"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E9%Bb%83%E8%81%96%E7%A5%90 %E5%8D%9A%E5%A3%Ab (黃聖祐博士)
+# 黃聖祐博士
 
 ## Identity Snapshot
-- **English:** %E9%Bb%83%E8%81%96%E7%A5%90 %E5%8D%9A%E5%A3%Ab
+- **English:** —
 - **Chinese:** 黃聖祐博士
 - **Era:** Birth Place
 - **Geography:** 台灣, 高雄

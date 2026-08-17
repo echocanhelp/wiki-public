@@ -1,5 +1,5 @@
 ---
-title: People
+title: "People"
 type: index
 tags:
   - people

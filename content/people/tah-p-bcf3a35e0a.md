@@ -1,7 +1,6 @@
 ---
-title: "%E5%8A%89%E6%96%87%E7%Ab%A0 (劉文章)"
+title: "劉文章"
 type: person
-name_en: "%E5%8A%89%E6%96%87%E7%Ab%A0"
 name_zh: "劉文章"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E5%8A%89%E6%96%87%E7%Ab%A0 (劉文章)
+# 劉文章
 
 ## Identity Snapshot
-- **English:** %E5%8A%89%E6%96%87%E7%Ab%A0
+- **English:** —
 - **Chinese:** 劉文章
 - **Era:** -
 - **Geography:** Taiwan/-

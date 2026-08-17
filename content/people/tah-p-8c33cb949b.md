@@ -1,7 +1,6 @@
 ---
-title: "%E8%B3%B4%E6%B1%9F%E6%A4%Bf (賴江椿)"
+title: "賴江椿"
 type: person
-name_en: "%E8%B3%B4%E6%B1%9F%E6%A4%Bf"
 name_zh: "賴江椿"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E8%B3%B4%E6%B1%9F%E6%A4%Bf (賴江椿)
+# 賴江椿
 
 ## Identity Snapshot
-- **English:** %E8%B3%B4%E6%B1%9F%E6%A4%Bf
+- **English:** —
 - **Chinese:** 賴江椿
 - **Era:** 1941
 - **Geography:** 台灣苗栗市

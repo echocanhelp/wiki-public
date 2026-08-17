@@ -1,7 +1,6 @@
 ---
-title: "%E5%Bc%B5%E8%82%85 (張肅)"
+title: "張肅"
 type: person
-name_en: "%E5%Bc%B5%E8%82%85"
 name_zh: "張肅"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E5%Bc%B5%E8%82%85 (張肅)
+# 張肅
 
 ## Identity Snapshot
-- **English:** %E5%Bc%B5%E8%82%85
+- **English:** —
 - **Chinese:** 張肅
 - **Era:** Birth Place
 - **Geography:** 台灣嘉義

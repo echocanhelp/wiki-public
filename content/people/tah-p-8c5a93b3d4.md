@@ -1,7 +1,6 @@
 ---
-title: "%E7%8E%8B%E5%Ba%B7%E5%8E%9A (王康厚)"
+title: "王康厚"
 type: person
-name_en: "%E7%8E%8B%E5%Ba%B7%E5%8E%9A"
 name_zh: "王康厚"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E7%8E%8B%E5%Ba%B7%E5%8E%9A (王康厚)
+# 王康厚
 
 ## Identity Snapshot
-- **English:** %E7%8E%8B%E5%Ba%B7%E5%8E%9A
+- **English:** —
 - **Chinese:** 王康厚
 - **Era:** 1932
 - **Geography:** 台灣彰化鹿港

@@ -1,7 +1,6 @@
 ---
-title: "%E6%9E%97%E7%A6%8F%E8%A3%95 (林福裕)"
+title: "林福裕"
 type: person
-name_en: "%E6%9E%97%E7%A6%8F%E8%A3%95"
 name_zh: "林福裕"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E6%9E%97%E7%A6%8F%E8%A3%95 (林福裕)
+# 林福裕
 
 ## Identity Snapshot
-- **English:** %E6%9E%97%E7%A6%8F%E8%A3%95
+- **English:** —
 - **Chinese:** 林福裕
 - **Era:** 1931
 - **Geography:** 台灣台北木柵

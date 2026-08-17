@@ -1,7 +1,6 @@
 ---
-title: "%E8%94%A1%E4%Bd%A9%E5%90%9B (蔡佩君)"
+title: "蔡佩君"
 type: person
-name_en: "%E8%94%A1%E4%Bd%A9%E5%90%9B"
 name_zh: "蔡佩君"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E8%94%A1%E4%Bd%A9%E5%90%9B (蔡佩君)
+# 蔡佩君
 
 ## Identity Snapshot
-- **English:** %E8%94%A1%E4%Bd%A9%E5%90%9B
+- **English:** —
 - **Chinese:** 蔡佩君
 - **Era:** Birth Place
 - **Geography:** 台灣台南

@@ -1,7 +1,6 @@
 ---
-title: "%E9%Bb%83%E8%94%A1%E7%91%9E%E9%9B%B2 (黃蔡瑞雲)"
+title: "黃蔡瑞雲"
 type: person
-name_en: "%E9%Bb%83%E8%94%A1%E7%91%9E%E9%9B%B2"
 name_zh: "黃蔡瑞雲"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E9%Bb%83%E8%94%A1%E7%91%9E%E9%9B%B2 (黃蔡瑞雲)
+# 黃蔡瑞雲
 
 ## Identity Snapshot
-- **English:** %E9%Bb%83%E8%94%A1%E7%91%9E%E9%9B%B2
+- **English:** —
 - **Chinese:** 黃蔡瑞雲
 - **Era:** 1914 to 2020
 - **Geography:** 台灣雲林北港鎮

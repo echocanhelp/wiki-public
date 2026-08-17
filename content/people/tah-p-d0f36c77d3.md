@@ -1,7 +1,6 @@
 ---
-title: "%E6%9D%8E%E5%Bd%A5%E7%A7%80 (李彥秀)"
+title: "李彥秀"
 type: person
-name_en: "%E6%9D%8E%E5%Bd%A5%E7%A7%80"
 name_zh: "李彥秀"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E6%9D%8E%E5%Bd%A5%E7%A7%80 (李彥秀)
+# 李彥秀
 
 ## Identity Snapshot
-- **English:** %E6%9D%8E%E5%Bd%A5%E7%A7%80
+- **English:** —
 - **Chinese:** 李彥秀
 - **Era:** 台灣
 - **Geography:** -/-/-

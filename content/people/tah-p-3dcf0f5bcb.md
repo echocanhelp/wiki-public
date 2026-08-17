@@ -1,7 +1,6 @@
 ---
-title: "%E8%B3%B4%E6%9D%B1%E6%88%90 (賴東成)"
+title: "賴東成"
 type: person
-name_en: "%E8%B3%B4%E6%9D%B1%E6%88%90"
 name_zh: "賴東成"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E8%B3%B4%E6%9D%B1%E6%88%90 (賴東成)
+# 賴東成
 
 ## Identity Snapshot
-- **English:** %E8%B3%B4%E6%9D%B1%E6%88%90
+- **English:** —
 - **Chinese:** 賴東成
 - **Era:** Birth Place
 - **Geography:** 台南後壁鄉茄冬村

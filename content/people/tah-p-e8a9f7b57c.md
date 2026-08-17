@@ -1,7 +1,6 @@
 ---
-title: "%E8%95%Ad%E6%A8%82%E5%96%84 (蕭樂善)"
+title: "蕭樂善"
 type: person
-name_en: "%E8%95%Ad%E6%A8%82%E5%96%84"
 name_zh: "蕭樂善"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E8%95%Ad%E6%A8%82%E5%96%84 (蕭樂善)
+# 蕭樂善
 
 ## Identity Snapshot
-- **English:** %E8%95%Ad%E6%A8%82%E5%96%84
+- **English:** —
 - **Chinese:** 蕭樂善
 - **Era:** 1900-1992
 - **Geography:** 台灣新竹

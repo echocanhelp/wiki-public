@@ -1,7 +1,6 @@
 ---
-title: "%E5%8A%89%E9%9D%92%E8%97%9C%E5%8D%9A%E5%A3%Ab (劉青藜博士)"
+title: "劉青藜博士"
 type: person
-name_en: "%E5%8A%89%E9%9D%92%E8%97%9C%E5%8D%9A%E5%A3%Ab"
 name_zh: "劉青藜博士"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E5%8A%89%E9%9D%92%E8%97%9C%E5%8D%9A%E5%A3%Ab (劉青藜博士)
+# 劉青藜博士
 
 ## Identity Snapshot
-- **English:** %E5%8A%89%E9%9D%92%E8%97%9C%E5%8D%9A%E5%A3%Ab
+- **English:** —
 - **Chinese:** 劉青藜博士
 - **Era:** 1903
 - **Geography:** Tainan, Taiwan (台灣台南)

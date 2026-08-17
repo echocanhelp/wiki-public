@@ -1,7 +1,6 @@
 ---
-title: "%E9%Bb%83%E7%Be%8E%E8%8F%81 (黃美菁)"
+title: "黃美菁"
 type: person
-name_en: "%E9%Bb%83%E7%Be%8E%E8%8F%81"
 name_zh: "黃美菁"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E9%Bb%83%E7%Be%8E%E8%8F%81 (黃美菁)
+# 黃美菁
 
 ## Identity Snapshot
-- **English:** %E9%Bb%83%E7%Be%8E%E8%8F%81
+- **English:** —
 - **Chinese:** 黃美菁
 - **Era:** Birth Place
 - **Geography:** 台灣高雄

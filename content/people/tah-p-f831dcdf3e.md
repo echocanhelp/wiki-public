@@ -1,7 +1,6 @@
 ---
-title: "%E9%99%B3%E5%9C%8B%E9%9B%84 (陳國雄)"
+title: "陳國雄"
 type: person
-name_en: "%E9%99%B3%E5%9C%8B%E9%9B%84"
 name_zh: "陳國雄"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E9%99%B3%E5%9C%8B%E9%9B%84 (陳國雄)
+# 陳國雄
 
 ## Identity Snapshot
-- **English:** %E9%99%B3%E5%9C%8B%E9%9B%84
+- **English:** —
 - **Chinese:** 陳國雄
 - **Era:** Birth Place
 - **Geography:** 苗栗南莊

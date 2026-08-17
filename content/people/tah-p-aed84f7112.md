@@ -1,7 +1,6 @@
 ---
-title: "%E9%Bb%83%E9%96%8B%E6%A6%Ae (黃開榮)"
+title: "黃開榮"
 type: person
-name_en: "%E9%Bb%83%E9%96%8B%E6%A6%Ae"
 name_zh: "黃開榮"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E9%Bb%83%E9%96%8B%E6%A6%Ae (黃開榮)
+# 黃開榮
 
 ## Identity Snapshot
-- **English:** %E9%Bb%83%E9%96%8B%E6%A6%Ae
+- **English:** —
 - **Chinese:** 黃開榮
 - **Era:** 1958
 - **Geography:** 台灣苗栗鎮

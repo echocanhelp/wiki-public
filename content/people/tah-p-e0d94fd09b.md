@@ -1,7 +1,6 @@
 ---
-title: "%E9%99%B3%E8%A5%Bf%E5%9C%92 (陳西園)"
+title: "陳西園"
 type: person
-name_en: "%E9%99%B3%E8%A5%Bf%E5%9C%92"
 name_zh: "陳西園"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E9%99%B3%E8%A5%Bf%E5%9C%92 (陳西園)
+# 陳西園
 
 ## Identity Snapshot
-- **English:** %E9%99%B3%E8%A5%Bf%E5%9C%92
+- **English:** —
 - **Chinese:** 陳西園
 - **Era:** Birth Place
 - **Geography:** 台灣

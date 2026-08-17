@@ -1,7 +1,6 @@
 ---
-title: "%E6%Af%9B%E6%B8%85%E8%8A%Ac (毛清芬)"
+title: "毛清芬"
 type: person
-name_en: "%E6%Af%9B%E6%B8%85%E8%8A%Ac"
 name_zh: "毛清芬"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E6%Af%9B%E6%B8%85%E8%8A%Ac (毛清芬)
+# 毛清芬
 
 ## Identity Snapshot
-- **English:** %E6%Af%9B%E6%B8%85%E8%8A%Ac
+- **English:** —
 - **Chinese:** 毛清芬
 - **Era:** 1940
 - **Geography:** 中國 河北

@@ -1,7 +1,6 @@
 ---
-title: "%E9%99%B3%E5%Bb%Ba%E8%B3%93 (陳建賓)"
+title: "陳建賓"
 type: person
-name_en: "%E9%99%B3%E5%Bb%Ba%E8%B3%93"
 name_zh: "陳建賓"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E9%99%B3%E5%Bb%Ba%E8%B3%93 (陳建賓)
+# 陳建賓
 
 ## Identity Snapshot
-- **English:** %E9%99%B3%E5%Bb%Ba%E8%B3%93
+- **English:** —
 - **Chinese:** 陳建賓
 - **Era:** Birth Place
 - **Geography:** 台灣/

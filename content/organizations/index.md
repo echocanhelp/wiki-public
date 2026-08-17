@@ -1,5 +1,5 @@
 ---
-title: Organizations
+title: "Organizations"
 type: index
 tags:
   - organizations

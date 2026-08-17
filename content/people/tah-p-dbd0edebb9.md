@@ -1,7 +1,6 @@
 ---
-title: "%E9%Bb%83%E7%A7%80%E8%8F%Af (黃秀華)"
+title: "黃秀華"
 type: person
-name_en: "%E9%Bb%83%E7%A7%80%E8%8F%Af"
 name_zh: "黃秀華"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E9%Bb%83%E7%A7%80%E8%8F%Af (黃秀華)
+# 黃秀華
 
 ## Identity Snapshot
-- **English:** %E9%Bb%83%E7%A7%80%E8%8F%Af
+- **English:** —
 - **Chinese:** 黃秀華
 - **Era:** Birth Place
 - **Geography:** First year, first city and state in the U.S.

@@ -1,7 +1,6 @@
 ---
-title: "%E9%99%B3%E5%9C%8B%E6%98%8E (陳國明)"
+title: "陳國明"
 type: person
-name_en: "%E9%99%B3%E5%9C%8B%E6%98%8E"
 name_zh: "陳國明"
 tags:
   - person
@@ -9,10 +8,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-17
 ---
-# %E9%99%B3%E5%9C%8B%E6%98%8E (陳國明)
+# 陳國明
 
 ## Identity Snapshot
-- **English:** %E9%99%B3%E5%9C%8B%E6%98%8E
+- **English:** —
 - **Chinese:** 陳國明
 - **Era:** Birth Place
 - **Geography:** 台灣台南
