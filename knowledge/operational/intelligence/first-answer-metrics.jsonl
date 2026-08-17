@@ -37,3 +37,7 @@
 {"ts": "2026-08-16T23:28:11Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "telegram", "kind": "person"}
 {"ts": "2026-08-16T23:38:25Z", "status": "miss", "query": "Kao Chun-ming", "slug": null, "source": "telegram", "kind": null}
 {"ts": "2026-08-16T23:40:24Z", "status": "hit", "query": "Kao Chun-ming", "slug": "kao-chun-ming", "source": "telegram", "kind": "person"}
+{"ts": "2026-08-17T00:09:48Z", "status": "miss", "query": "許凌雲", "slug": null, "source": "telegram", "kind": null}
+{"ts": "2026-08-17T00:10:49Z", "status": "miss", "query": "許凌雲", "slug": null, "source": "telegram", "kind": null}
+{"ts": "2026-08-17T00:11:16Z", "status": "hit", "query": "許凌雲", "slug": "hsu-ling-yun", "source": "telegram", "kind": "person"}
+{"ts": "2026-08-17T00:11:16Z", "status": "hit", "query": "Hsu Ling-yun", "slug": "hsu-ling-yun", "source": "telegram", "kind": "person"}
