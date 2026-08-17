@@ -1,4 +1,4 @@
-## Site design audit — 2026-08-17 04:30
+## Site design audit — 2026-08-17 08:00
 
 - pages_md=2829
 - critical=0 high=0 medium=0
@@ -6,10 +6,6 @@
 
 ### Summary
 - **SITE_DESIGN_STATUS: OK**
-
-### LOW (1)
-- **C1** spelling signals (sample): 1 `[AGENT_SUGGESTED]`
-  - `wang-qiaoling.md: ?qiaoling`
 
 ### INFO (2)
 - **B2** pinned featured pages: 47
@@ -21,7 +17,7 @@
   - `people/choan-seng-song.md`
   - `people/fan-qingliang.md`
   - `people/franklin-ping-cheng.md`
-- **B1** person/org touched ≤7d (rely on recency featured window): 2586
+- **B1** person/org touched ≤7d (rely on recency featured window): 2593
   - `people/a-n-liu.md`
   - `people/abby-hong.md`
   - `people/adam-chang.md`
