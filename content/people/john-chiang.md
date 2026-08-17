@@ -90,7 +90,17 @@ His childhood experience with racial discrimination shaped his worldview. He wit
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Note:** The full text includes detailed biographical information including family background, education, prosecutorial career, and political achievements.
 
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/john-chiang/)
+
+## Family
+
+- **Wife:** Terry Chi (季淳慧)
+- **Father:** 江牧東
+- **Mother:** 沈吟香
+
 ## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
 
 - [[organizations/taiwanese-american-historical-society|TAHS]]
 - [[sources/2017-tahs-publication|2017 TAHS Publication]]

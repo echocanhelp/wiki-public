@@ -43,7 +43,9 @@ Pages that link to **c-c-chen** (c-c-chen):
 1. [[organizations/formosan-presbyterian-church-in-los-angeles.md|formosan-presbyterian-church-in-los-angeles]]
 2. [[organizations/formosan-presbyterian-church-in-los-angeles.md|formosan-presbyterian-church-in-los-angeles]]
 
-### Sources (1)
+### Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-c-chen/)
+ (1)
 
 1. [[sources/toward-a-community-of-hope.md|toward-a-community-of-hope]]
 
@@ -58,6 +60,7 @@ Pages that link to **c-c-chen** (c-c-chen):
 - 陳昭俊
 
 ## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
 
 - [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
 - [[sources/toward-a-community-of-hope|Toward A Community of Hope]]

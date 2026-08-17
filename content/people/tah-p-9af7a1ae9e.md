@@ -1,0 +1,33 @@
+---
+title: "%E9%99%B3%E9%87%91%E6%9D%Be (陳金松)"
+type: person
+name_en: "%E9%99%B3%E9%87%91%E6%9D%Be"
+name_zh: "陳金松"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# %E9%99%B3%E9%87%91%E6%9D%Be (陳金松)
+
+## Identity Snapshot
+- **English:** %E9%99%B3%E9%87%91%E6%9D%Be
+- **Chinese:** 陳金松
+- **Era:** 1939
+- **Geography:** 台灣台北
+- **Core roles:** artist, educator
+- **Source:** TAH Foundation Who’s Who
+
+%E9%99%B3%E9%87%91%E6%9D%Be (陳金松) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+## Family
+
+_No filled family fields on the TAH profile._
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e9%99%b3%e9%87%91%e6%9d%be/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

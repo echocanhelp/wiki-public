@@ -70,7 +70,9 @@ Pages that link to **lisa-su** (lisa-su):
 
 1. [[people/su-chun-huai.md|su-chun-huai]]
 
-### Sources (1)
+### Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/lisa-su/)
+ (1)
 
 1. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
 
@@ -82,6 +84,7 @@ Pages that link to **lisa-su** (lisa-su):
 - **Note:** The full text includes detailed biographical information including family background, education, and career trajectory.
 
 ## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
 
 - [[organizations/taiwanese-american-historical-society|TAHS]]
 - [[sources/2017-tahs-publication|2017 TAHS Publication]]

@@ -1,0 +1,33 @@
+---
+title: "Fang-Yi Sheu (許芳宜)"
+type: person
+name_en: "Fang-Yi Sheu"
+name_zh: "許芳宜"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# Fang-Yi Sheu (許芳宜)
+
+## Identity Snapshot
+- **English:** Fang-Yi Sheu
+- **Chinese:** 許芳宜
+- **Era:** 1971
+- **Geography:** 台灣宜蘭
+- **Core roles:** entrepreneur
+- **Source:** TAH Foundation Who’s Who
+
+Fang-Yi Sheu (許芳宜) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+## Family
+
+_No filled family fields on the TAH profile._
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/fang-yi-sheu/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

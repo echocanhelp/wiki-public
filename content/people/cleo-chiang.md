@@ -1,0 +1,35 @@
+---
+title: "Cleo Chiang (江詩怡)"
+type: person
+name_en: "Cleo Chiang"
+name_zh: "江詩怡"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# Cleo Chiang (江詩怡)
+
+## Identity Snapshot
+- **English:** Cleo Chiang
+- **Chinese:** 江詩怡
+- **Era:** 1968
+- **Geography:** 台灣新竹
+- **Core roles:** educator
+- **Source:** TAH Foundation Who’s Who
+
+Cleo Chiang (江詩怡) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+## Family
+
+- **Husband:** Dale Chen
+- **Daughter:** Leona Chen, Joyce Chen
+
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/cleo-chiang/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

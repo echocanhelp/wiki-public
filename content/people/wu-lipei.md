@@ -247,6 +247,15 @@ Notable quotes and mentions of **吳澧培** in Taiwan Justice articles:
 
 *...and 33 more quotes*
 
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/li-pei-wu/)
+
+## Family
+
+- **Wife:** 賴秀珠
+- **Son:** George
+
 ## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
 
 - [[people/albert-s-lai|Dr. Albert S. Lai]]

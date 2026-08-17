@@ -166,7 +166,9 @@ Pages that link to **yang-xin** (yang-xin):
 2. [[people/liao-shu-zong.md|liao-shu-zong]]
 3. [[people/shawna-yang-ryan.md|shawna-yang-ryan]]
 
-### Sources (1)
+### Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jackson-yang/)
+ (1)
 
 1. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
 
@@ -177,7 +179,12 @@ Pages that link to **yang-xin** (yang-xin):
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Note:** The full text includes detailed biographical information including family background, early work experiences, seat cushion invention, business growth, chamber of commerce activities, and community leadership.
 
+## Family
+
+- **Wife:** 何巧玲
+
 ## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
 
 - [[organizations/taiwanese-american-historical-society|TAHS]]
 - [[sources/2017-tahs-publication|2017 TAHS Publication]]

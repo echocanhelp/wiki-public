@@ -1,0 +1,35 @@
+---
+title: "Jamy R.M. Liu (尤瑞美)"
+type: person
+name_en: "Jamy R.M. Liu"
+name_zh: "尤瑞美"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# Jamy R.M. Liu (尤瑞美)
+
+## Identity Snapshot
+- **English:** Jamy R.M. Liu
+- **Chinese:** 尤瑞美
+- **Era:** 1940
+- **Geography:** 台灣屏東
+- **Core roles:** entrepreneur
+- **Source:** TAH Foundation Who’s Who
+
+Jamy R.M. Liu (尤瑞美) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+## Family
+
+- **Husband:** Joseph C. Liu
+- **Son:** John Liu, Robert Liu, Edward Liu
+
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jamy-r-m-liu/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

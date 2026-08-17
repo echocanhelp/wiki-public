@@ -128,7 +128,9 @@ Pages that link to **田詒鴻** (alan-thian):
 
 1. [[organizations/taiwan-center.md|taiwan-center]]
 
-### Sources (2)
+### Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yee-phong-alan-thian/)
+ (2)
 
 1. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
 2. [[sources/taiwancenter-org.md|taiwancenter-org]]
@@ -229,6 +231,7 @@ Notable quotes and mentions of **田詒鴻** in Taiwan Justice articles:
 - `verification_status: pending` until member or officer review
 
 ## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
 
 - [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
 - [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]] — President (會長)

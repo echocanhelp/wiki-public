@@ -1,0 +1,34 @@
+---
+title: "Dr. Matthew M. Yeh (葉孟哲醫師)"
+type: person
+name_en: "Dr. Matthew M. Yeh"
+name_zh: "葉孟哲醫師"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# Dr. Matthew M. Yeh (葉孟哲醫師)
+
+## Identity Snapshot
+- **English:** Dr. Matthew M. Yeh
+- **Chinese:** 葉孟哲醫師
+- **Era:** --
+- **Geography:** Taiwan
+- **Core roles:** scientist, physician, professor, educator
+- **Source:** TAH Foundation Who’s Who
+
+Univ. of Washington School of Medicine, Seattle, USA
+Professor of Pathology; Director, Gastrointestinal and Hepatic Pathology Program
+
+## Family
+
+_No filled family fields on the TAH profile._
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-matthew-m-yeh/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

@@ -1,0 +1,34 @@
+---
+title: "Dr. Kuen-Shii Tsay (蔡坤喜醫師)"
+type: person
+name_en: "Dr. Kuen-Shii Tsay"
+name_zh: "蔡坤喜醫師"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# Dr. Kuen-Shii Tsay (蔡坤喜醫師)
+
+## Identity Snapshot
+- **English:** Dr. Kuen-Shii Tsay
+- **Chinese:** 蔡坤喜醫師
+- **Era:** 1949
+- **Geography:** Taiwan
+- **Core roles:** entrepreneur, physician
+- **Source:** TAH Foundation Who’s Who
+
+Accomplishment
+1. President of Taiwan Chamber of Commerce of New England, 2002-2004
+
+## Family
+
+_No filled family fields on the TAH profile._
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-kuen-shii-tsay/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

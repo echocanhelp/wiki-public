@@ -1,0 +1,37 @@
+---
+title: "Sing-Nan Wang (王幸男)"
+type: person
+name_en: "Sing-Nan Wang"
+name_zh: "王幸男"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# Sing-Nan Wang (王幸男)
+
+## Identity Snapshot
+- **English:** Sing-Nan Wang
+- **Chinese:** 王幸男
+- **Era:** 1941
+- **Geography:** 台灣台南玉井
+- **Core roles:** entrepreneur
+- **Source:** TAH Foundation Who’s Who
+
+Sing-Nan Wang (王幸男) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+## Family
+
+- **Wife:** [[people/m-wang|陳美霞]]
+- **Son:** Leon Wang王良正
+- **Daughter:** Emelia王怡芬
+- **Daughter:** Eugenia王怡芳
+
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sing-nan-wang/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

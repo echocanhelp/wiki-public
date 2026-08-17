@@ -76,7 +76,11 @@ She is proficient in Taiwanese, Mandarin, and Spanish, and has taught creative w
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Note:** The profile includes detailed biographical information including education, clerkship, and professional career.
 
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/catherine-huang/)
+
 ## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
 
 - [[organizations/taiwanese-american-historical-society|TAHS]]
 - [[sources/2017-tahs-publication|2017 TAHS Publication]]

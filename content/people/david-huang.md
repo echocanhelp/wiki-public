@@ -60,7 +60,9 @@ Pages that link to **david-huang** (david-huang):
 1. [[organizations/good-shepherd-taiwanese-presbyterian-church.md|good-shepherd-taiwanese-presbyterian-church]]
 2. [[organizations/good-shepherd-taiwanese-presbyterian-church.md|good-shepherd-taiwanese-presbyterian-church]]
 
-### Sources (1)
+### Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rev-david-huang/)
+ (1)
 
 1. [[sources/good-shepherd-taiwanese-presbyterian-church.md|good-shepherd-taiwanese-presbyterian-church]]
 
@@ -127,6 +129,7 @@ Use the shared intake process at Echopedia Community Contributions Hub and inclu
 - Source type and permission status
 
 ## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
 
 - [[sources/toward-a-community-of-hope|Toward A Community of Hope]]
 - toward-a-community-of-hope

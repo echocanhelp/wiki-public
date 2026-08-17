@@ -1,0 +1,35 @@
+{
+  "count": 5,
+  "items": [
+    {
+      "slug": "guo-shu-qing",
+      "detail": "pinyin surname guo title=Guo Shu-qing (郭淑卿)",
+      "title": "Romanization: guo-shu-qing",
+      "action": "Confirm preferred EN / slug (do not invent)"
+    },
+    {
+      "slug": "xie-qingzhi-xie-poyi",
+      "detail": "pinyin surname xie title=Xie Qingzhi & Xie Poyi (謝清志、謝泊怡)",
+      "title": "Romanization: xie-qingzhi-xie-poyi",
+      "action": "Confirm preferred EN / slug (do not invent)"
+    },
+    {
+      "slug": "xu-zongbang",
+      "detail": "pinyin surname xu title=許宗邦 (Xu Zongbang)",
+      "title": "Romanization: xu-zongbang",
+      "action": "Confirm preferred EN / slug (do not invent)"
+    },
+    {
+      "slug": "zhang-xuanxin",
+      "detail": "pinyin surname zhang title=Zhang Xuanxin (張宣信)",
+      "title": "Romanization: zhang-xuanxin",
+      "action": "Confirm preferred EN / slug (do not invent)"
+    },
+    {
+      "slug": "zheng-bing-quan",
+      "detail": "pinyin surname zheng title=Zheng Bingquan (鄭炳全)",
+      "title": "Romanization: zheng-bing-quan",
+      "action": "Confirm preferred EN / slug (do not invent)"
+    }
+  ]
+}

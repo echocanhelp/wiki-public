@@ -1,0 +1,33 @@
+---
+title: "Szu-Ning Tai (戴思寧)"
+type: person
+name_en: "Szu-Ning Tai"
+name_zh: "戴思寧"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# Szu-Ning Tai (戴思寧)
+
+## Identity Snapshot
+- **English:** Szu-Ning Tai
+- **Chinese:** 戴思寧
+- **Era:** 1989
+- **Geography:** 台灣台北
+- **Core roles:** educator
+- **Source:** TAH Foundation Who’s Who
+
+Szu-Ning Tai is a Taiwanese harpist who currently serves as teaching assistant at Boston University College of Fine Arts, harp department. She holds a Bachelor’s degree from Soochow University (Taiwan) and a Master of Music degree from Boston University, where she receives a merit scholarship to pursue a Doctor of Musical Arts degree in Harp Performance.
+
+## Family
+
+_No filled family fields on the TAH profile._
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/szu-ning-tai/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

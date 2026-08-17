@@ -1,0 +1,35 @@
+---
+title: "Henty Chen (陳華山)"
+type: person
+name_en: "Henty Chen"
+name_zh: "陳華山"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# Henty Chen (陳華山)
+
+## Identity Snapshot
+- **English:** Henty Chen
+- **Chinese:** 陳華山
+- **Era:** 1941
+- **Geography:** 台灣 台南
+- **Core roles:** physician
+- **Source:** TAH Foundation Who’s Who
+
+Henty Chen (陳華山) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+## Family
+
+- **Wife:** [[people/huai-shion-tsai|蔡蕙香]]
+- **Son:** Jack, Steve, Mike, Jimmy
+
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/henty-chen/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "updated": "2026-08-16",
+  "note": "Public English / TAHS preferred spelling. Not Hanyu Pinyin. Slug rename only when inbound_wikilinks < max_inbound_for_slug_rename.",
+  "max_inbound_for_slug_rename": 20,
+  "people": {
+    "cai-yingwen": {"canonical_slug": "tsai-ing-wen", "name_en": "Tsai Ing-wen", "name_zh": "蔡英文", "heal": "slug"},
+    "lai-qingde": {"canonical_slug": "lai-ching-te", "name_en": "Lai Ching-te", "name_zh": "賴清德", "heal": "slug"},
+    "xie-changting": {"canonical_slug": "frank-hsieh", "name_en": "Frank Hsieh", "name_zh": "謝長廷", "heal": "slug"},
+    "hou-youyi": {"canonical_slug": "hou-yu-ih", "name_en": "Hou Yu-ih", "name_zh": "侯友宜", "heal": "slug"},
+    "xu-shihuan": {"canonical_slug": "hsu-shih-huan", "name_en": "Hsu Shih-huan", "name_zh": "許世環", "heal": "slug"},
+    "cai-jinrong": {"canonical_slug": "gene-tsai", "name_en": "Gene Tsai", "name_zh": "蔡錦榮", "heal": "merge"},
+    "cai-shunyu": {"canonical_slug": "sunu-tsai", "name_en": "Sunu Tsai", "name_zh": "蔡淑女", "heal": "merge"},
+    "han-guoyu": {"canonical_slug": "han-guoyu", "name_en": "Han Kuo-yu", "name_zh": "韓國瑜", "heal": "display"},
+    "jin-hegui": {"canonical_slug": "jin-hegui", "name_en": "Chin Heng-wei", "name_zh": "金恆煒", "heal": "display"},
+    "tsai-ing-wen": {"canonical_slug": "tsai-ing-wen", "name_en": "Tsai Ing-wen", "name_zh": "蔡英文", "heal": "ok"},
+    "lai-ching-te": {"canonical_slug": "lai-ching-te", "name_en": "Lai Ching-te", "name_zh": "賴清德", "heal": "ok"},
+    "frank-hsieh": {"canonical_slug": "frank-hsieh", "name_en": "Frank Hsieh", "name_zh": "謝長廷", "heal": "ok"},
+    "hou-yu-ih": {"canonical_slug": "hou-yu-ih", "name_en": "Hou Yu-ih", "name_zh": "侯友宜", "heal": "ok"},
+    "hsu-shih-huan": {"canonical_slug": "hsu-shih-huan", "name_en": "Hsu Shih-huan", "name_zh": "許世環", "heal": "ok"},
+    "gene-tsai": {"canonical_slug": "gene-tsai", "name_en": "Gene Tsai", "name_zh": "蔡錦榮", "heal": "ok"},
+    "sunu-tsai": {"canonical_slug": "sunu-tsai", "name_en": "Sunu Tsai", "name_zh": "蔡淑女", "heal": "ok"},
+    "roger-tsai": {"canonical_slug": "roger-tsai", "name_en": "Roger Tsai", "name_zh": "蔡漢成", "heal": "ok"},
+    "ho-chie-tsai": {"canonical_slug": "ho-chie-tsai", "name_en": "Ho Chie Tsai", "name_zh": "蔡和杰", "heal": "ok"}
+  },
+  "display_forbidden": [
+    ["Cai Ying-wen", "Tsai Ing-wen"],
+    ["Cai Yingwen", "Tsai Ing-wen"],
+    ["Cai Jinrong", "Gene Tsai"],
+    ["Lai Qing-de", "Lai Ching-te"],
+    ["Lai Qingde", "Lai Ching-te"],
+    ["Xie Chang-ting", "Frank Hsieh"],
+    ["Xie Changting", "Frank Hsieh"],
+    ["Han Guo-yu", "Han Kuo-yu"],
+    ["Jin Heng-wei", "Chin Heng-wei"]
+  ]
+}

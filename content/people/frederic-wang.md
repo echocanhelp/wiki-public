@@ -1,0 +1,33 @@
+---
+title: "Frederic Wang (王穎裕)"
+type: person
+name_en: "Frederic Wang"
+name_zh: "王穎裕"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# Frederic Wang (王穎裕)
+
+## Identity Snapshot
+- **English:** Frederic Wang
+- **Chinese:** 王穎裕
+- **Era:** 1932
+- **Geography:** 台灣彰化社頭
+- **Core roles:** entrepreneur, scientist, professor, educator
+- **Source:** TAH Foundation Who’s Who
+
+Source from Taiwanese Association of American Greater Washington Chapter Special Edition, 2008/11
+
+## Family
+
+_No filled family fields on the TAH profile._
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/frederic-wang/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

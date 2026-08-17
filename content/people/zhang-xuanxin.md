@@ -40,7 +40,9 @@ Pages that link to **zhang-xuanxin** (zhang-xuanxin):
 
 1. [[organizations/irvine-taiwanese-presbyterian-church.md|irvine-taiwanese-presbyterian-church]]
 
-### Sources (1)
+### Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/billy-chang/)
+ (1)
 
 1. [[sources/irvine-taiwanese-presbyterian-church.md|irvine-taiwanese-presbyterian-church]]
 
@@ -52,5 +54,10 @@ Pages that link to **zhang-xuanxin** (zhang-xuanxin):
 - Chinese: 張宣信
 - Romanized: Zhang Xuanxin / Zhang Xuanxin
 
+## Family
+
+- **Wife:** Yu-Ling Chang
+
 ## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
 - [[people/index|People Index]]

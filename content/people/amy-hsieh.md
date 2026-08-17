@@ -1,0 +1,33 @@
+---
+title: "Amy Hsieh (謝孟容)"
+type: person
+name_en: "Amy Hsieh"
+name_zh: "謝孟容"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# Amy Hsieh (謝孟容)
+
+## Identity Snapshot
+- **English:** Amy Hsieh
+- **Chinese:** 謝孟容
+- **Era:** -
+- **Geography:** 台灣
+- **Core roles:** educator
+- **Source:** TAH Foundation Who’s Who
+
+Cellist Amy Hsieh made her New York debut recital at Carnegie’s Weill Recital Hall in 2002 as a winner of the Artists International New York Debut Award. As an active chamber musician, Ms. Hsieh has performed throughout the United States, Europe and Taiwan and is a founding member of Nuance Chamber Ensemble. She is also a founding member of C’est Bon Chamber Music Academy, a summer chamber music program for young musicians. Ms. Hsieh received her Doctor of Musical Arts degree from Boston University, her Master of Music degree from Manhattan School of Music, and a Bachelor of Music degree from The Juilliard School. She is currently active in solo, chamber music performances and maintains a private studio in Sunnyvale, CA. Ms. Hsieh is also a faculty member at Jou Music Institute, and Encore Music and Arts.
+
+## Family
+
+_No filled family fields on the TAH profile._
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/amy-hsieh/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

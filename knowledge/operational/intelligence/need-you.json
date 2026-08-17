@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-08-16T14:57:35Z",
+  "generated_at": "2026-08-17T07:12:28Z",
   "max": 5,
   "count": 2,
   "items": [
     {
-      "id": "gap_a092377598",
-      "priority": 1,
-      "kind": "gap_miss",
-      "title": "Echopedia miss: “Echopedia https://grokipedia.com/page/Presbyterian_Church_in_Taiwan”",
-      "action": "Confirm identity / approve thin page / or dismiss",
-      "source": "line",
-      "ts": "2026-08-15T08:51:13Z"
+      "id": "roman_guo-shu-qing",
+      "priority": 4,
+      "kind": "romanization",
+      "title": "Romanization: guo-shu-qing",
+      "action": "Confirm preferred EN / slug (do not invent)",
+      "source": "romanization-lexicon",
+      "ts": null
     },
     {
-      "id": "gap_a29c063538",
-      "priority": 1,
-      "kind": "gap_miss",
-      "title": "Echopedia miss: “some random person not in echopedia”",
-      "action": "Confirm identity / approve thin page / or dismiss",
-      "source": "line",
-      "ts": "2026-08-15T08:49:08Z"
+      "id": "roman_xie-qingzhi-xie-poyi",
+      "priority": 4,
+      "kind": "romanization",
+      "title": "Romanization: xie-qingzhi-xie-poyi",
+      "action": "Confirm preferred EN / slug (do not invent)",
+      "source": "romanization-lexicon",
+      "ts": null
     }
   ]
 }

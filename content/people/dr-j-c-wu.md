@@ -1,0 +1,35 @@
+---
+title: "Dr. J. C. Wu (巫建嶔博士)"
+type: person
+name_en: "Dr. J. C. Wu"
+name_zh: "巫建嶔博士"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# Dr. J. C. Wu (巫建嶔博士)
+
+## Identity Snapshot
+- **English:** Dr. J. C. Wu
+- **Chinese:** 巫建嶔博士
+- **Era:** --
+- **Geography:** Taiwan
+- **Core roles:** entrepreneur, scientist
+- **Source:** TAH Foundation Who’s Who
+
+4. Advanced International Pharmaceutical Nanotechnology Co., Ltd. (先進國際醫藥奈米技術股份有限公司)
+
+## Family
+
+- **Wife:** 張麗珠
+- **Son:** 巫英雄
+
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-j-c-wu/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

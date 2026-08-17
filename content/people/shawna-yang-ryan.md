@@ -68,7 +68,11 @@ Yang Ryan's profile in the 2017 TAHS publication was prepared by the Taiwanese A
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Note:** The profile in the publication is relatively brief. Additional biographical details (education, earlier works, other publications) exist in external literary sources.
 
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shawna-yang-ryan/)
+
 ## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
 
 - [[organizations/taiwanese-american-historical-society|TAHS]]
 - [[sources/2017-tahs-publication|2017 TAHS Publication]]

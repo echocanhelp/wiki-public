@@ -1,0 +1,33 @@
+---
+title: "Yuan Zong Lai (賴元榮)"
+type: person
+name_en: "Yuan Zong Lai"
+name_zh: "賴元榮"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# Yuan Zong Lai (賴元榮)
+
+## Identity Snapshot
+- **English:** Yuan Zong Lai
+- **Chinese:** 賴元榮
+- **Era:** Birth Place
+- **Geography:** First year, first city and state in the U.S.
+- **Core roles:** scientist, professor, educator
+- **Source:** TAH Foundation Who’s Who
+
+Yuan Zong Lai (賴元榮) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+## Family
+
+_No filled family fields on the TAH profile._
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yuan-zong-lai/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

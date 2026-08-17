@@ -180,7 +180,9 @@ Pages that link to **楊嘉猷** (yang-jia-you):
 
 1. [[organizations/taiwanese-american-historical-society.md|taiwanese-american-historical-society]]
 
-### Sources (2)
+### Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/charles-yang/)
+ (2)
 
 1. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
 2. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
@@ -288,6 +290,7 @@ Notable quotes and mentions of **楊嘉猷** in Taiwan Justice articles:
   - Live URL: [台美人歷史協會新任會長許景鴻接椽](https://echocanhelp.github.io/wiki-public/articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74.html)
 
 ## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
 
 - [[people/becky-yang|Becky Yang]]
 - [[people/yang-zhengxiang|Ethan Yang (楊正光)]]

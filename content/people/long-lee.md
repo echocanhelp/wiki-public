@@ -1,0 +1,34 @@
+---
+title: "Long Lee (李隆吉)"
+type: person
+name_en: "Long Lee"
+name_zh: "李隆吉"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# Long Lee (李隆吉)
+
+## Identity Snapshot
+- **English:** Long Lee
+- **Chinese:** 李隆吉
+- **Era:** -
+- **Geography:** 台灣/-
+- **Core roles:** scientist, professor, educator
+- **Source:** TAH Foundation Who’s Who
+
+Long Lee (李隆吉) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+## Family
+
+- **Wife:** [[people/tah-p-5cf2b4632a|須藤正子]]
+
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/long-lee/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

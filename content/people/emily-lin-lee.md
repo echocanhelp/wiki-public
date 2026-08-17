@@ -1,0 +1,35 @@
+---
+title: "Emily Lin Lee (林榮峰)"
+type: person
+name_en: "Emily Lin Lee"
+name_zh: "林榮峰"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# Emily Lin Lee (林榮峰)
+
+## Identity Snapshot
+- **English:** Emily Lin Lee
+- **Chinese:** 林榮峰
+- **Era:** 1943
+- **Geography:** Keelung, Taiwan
+- **Core roles:** entrepreneur, artist, educator
+- **Source:** TAH Foundation Who’s Who
+
+For more bio information, please click link in Who’s Who : 564. Emily Lin Lee 林榮峰
+
+## Family
+
+- **Daughter:** Eileen May Lee, 李艾寧
+- **Son:** Bernard Travis Lee, 李伯寧
+
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/emily-lin-lee/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

@@ -1,0 +1,33 @@
+---
+title: "Tina Shao (邵婷雯)"
+type: person
+name_en: "Tina Shao"
+name_zh: "邵婷雯"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# Tina Shao (邵婷雯)
+
+## Identity Snapshot
+- **English:** Tina Shao
+- **Chinese:** 邵婷雯
+- **Era:** -
+- **Geography:** 台灣
+- **Core roles:** professor, artist, educator
+- **Source:** TAH Foundation Who’s Who
+
+Dr. Tina Shao is a member of the Pi Kappa Lambda National Honor Society and the American Music Teachers National Association. Dr. Shao is appointed as an Associate Professor of Music at the Tainan University of Technology where she teaches piano performances, literatures, and history of Taiwanese music. A native of Taiwan, Dr. Shao holds a Bachelor and Master of Music in performance from the Peabody Conservatory of Music of the Johns Hopkins University, as well as a Doctor of Musical Arts from the Louisiana State University, U.S.A.
+
+## Family
+
+_No filled family fields on the TAH profile._
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tina-shao/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

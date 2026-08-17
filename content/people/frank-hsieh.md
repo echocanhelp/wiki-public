@@ -29,7 +29,11 @@ name_en: "Frank Hsieh"
 - **Primary org:** [[organizations/taiwanjustice-net|taiwanjustice.net (台灣公義網)]]
 - **Do not invent:** No birth data, family, or private contact on this page
 
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/frank-hsieh/)
+
 ## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
 
 - [[sources/taiwanjustice-net|taiwanjustice.net source hub]]
 - [[organizations/taiwanjustice-net|taiwanjustice.net (台灣公義網)]]

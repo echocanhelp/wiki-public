@@ -1,0 +1,36 @@
+---
+title: "Prof. Chen S. Tsai (蔡振水教授)"
+type: person
+name_en: "Prof. Chen S. Tsai"
+name_zh: "蔡振水教授"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# Prof. Chen S. Tsai (蔡振水教授)
+
+## Identity Snapshot
+- **English:** Prof. Chen S. Tsai
+- **Chinese:** 蔡振水教授
+- **Era:** 1935
+- **Geography:** Miaoli, Taiwan
+- **Core roles:** engineer, scientist, professor, educator
+- **Source:** TAH Foundation Who’s Who
+
+2. Member (Academician), Academia Sinica (2000) and Foreign Member of Russian Academy of Applied Science (2001)
+
+## Family
+
+- **Wife:** Shirley C. Tsai (鄭秀蘭)
+- **Daughter:** Jeanne L.(蔡珍玲)
+- **Son:** Larry W. (蔡金勳)
+
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-chen-s-tsai/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

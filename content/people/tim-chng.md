@@ -1,0 +1,33 @@
+---
+title: "Tim Chng (莊騰程)"
+type: person
+name_en: "Tim Chng"
+name_zh: "莊騰程"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# Tim Chng (莊騰程)
+
+## Identity Snapshot
+- **English:** Tim Chng
+- **Chinese:** 莊騰程
+- **Era:** -
+- **Geography:** Cincinnati/OH
+- **Core roles:** engineer, entrepreneur
+- **Source:** TAH Foundation Who’s Who
+
+Tim Chng (莊騰程) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+## Family
+
+_No filled family fields on the TAH profile._
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tim-chng/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

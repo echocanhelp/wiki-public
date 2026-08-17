@@ -1,0 +1,34 @@
+---
+title: "Dr. William P. Tseng (曾伯聰醫師)"
+type: person
+name_en: "Dr. William P. Tseng"
+name_zh: "曾伯聰醫師"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# Dr. William P. Tseng (曾伯聰醫師)
+
+## Identity Snapshot
+- **English:** Dr. William P. Tseng
+- **Chinese:** 曾伯聰醫師
+- **Era:** --
+- **Geography:** Taiwan
+- **Core roles:** physician
+- **Source:** TAH Foundation Who’s Who
+
+Dr. William P. Tseng 曾伯聰醫師 – History of Taiwanese American (T.A. Archives) 台美史料中心
+
+## Family
+
+- **Wife:** Caroline Chien (簡淑津)
+
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-william-p-tseng/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

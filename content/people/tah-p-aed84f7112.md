@@ -1,0 +1,34 @@
+---
+title: "%E9%Bb%83%E9%96%8B%E6%A6%Ae (黃開榮)"
+type: person
+name_en: "%E9%Bb%83%E9%96%8B%E6%A6%Ae"
+name_zh: "黃開榮"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# %E9%Bb%83%E9%96%8B%E6%A6%Ae (黃開榮)
+
+## Identity Snapshot
+- **English:** %E9%Bb%83%E9%96%8B%E6%A6%Ae
+- **Chinese:** 黃開榮
+- **Era:** 1958
+- **Geography:** 台灣苗栗鎮
+- **Core roles:** entrepreneur
+- **Source:** TAH Foundation Who’s Who
+
+%E9%Bb%83%E9%96%8B%E6%A6%Ae (黃開榮) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+## Family
+
+- **Father:** Mother:
+
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e9%bb%83%e9%96%8b%e6%a6%ae/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

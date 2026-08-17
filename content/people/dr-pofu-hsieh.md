@@ -1,0 +1,34 @@
+---
+title: "Dr. Pofu Hsieh (謝博夫醫師)"
+type: person
+name_en: "Dr. Pofu Hsieh"
+name_zh: "謝博夫醫師"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# Dr. Pofu Hsieh (謝博夫醫師)
+
+## Identity Snapshot
+- **English:** Dr. Pofu Hsieh
+- **Chinese:** 謝博夫醫師
+- **Era:** --
+- **Geography:** Taiwan
+- **Core roles:** physician, professor, educator
+- **Source:** TAH Foundation Who’s Who
+
+Accomplishment
+1. Member of North American Taiwanese Medical Association/New York Chapter
+
+## Family
+
+_No filled family fields on the TAH profile._
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-pofu-hsieh/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

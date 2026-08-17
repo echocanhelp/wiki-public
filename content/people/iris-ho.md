@@ -1,0 +1,34 @@
+---
+title: "Iris Ho (何燕青)"
+type: person
+name_en: "Iris Ho"
+name_zh: "何燕青"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# Iris Ho (何燕青)
+
+## Identity Snapshot
+- **English:** Iris Ho
+- **Chinese:** 何燕青
+- **Era:** -
+- **Geography:** 台北萬華
+- **Core roles:** Taiwanese American (TAH Who’s Who)
+- **Source:** TAH Foundation Who’s Who
+
+Iris Ho (何燕青) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+## Family
+
+- **Husband:** Coen Blaauw昆布勞
+
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/iris-ho/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

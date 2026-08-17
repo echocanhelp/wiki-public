@@ -1,0 +1,36 @@
+---
+title: "C. M. Cecilia Huang (黃晴美)"
+type: person
+name_en: "C. M. Cecilia Huang"
+name_zh: "黃晴美"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# C. M. Cecilia Huang (黃晴美)
+
+## Identity Snapshot
+- **English:** C. M. Cecilia Huang
+- **Chinese:** 黃晴美
+- **Era:** 1938-2016
+- **Geography:** Hsinchu, Taiwan
+- **Core roles:** Taiwanese American (TAH Who’s Who)
+- **Source:** TAH Foundation Who’s Who
+
+C. M. Cecilia Huang (黃晴美) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+## Family
+
+- **Husband:** [[people/tzutsai-cheng|鄭自才]]
+- **Daughter:** 鄭日青
+- **Son:** 鄭日傑
+
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-m-cecilia-huang/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

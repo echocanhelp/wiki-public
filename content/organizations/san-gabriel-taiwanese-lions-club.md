@@ -25,7 +25,11 @@ last_reviewed: 2026-07-16
 - **Hub:** [[sources/taiwancenter-org|taiwancenter.org]]  
 - **Content priority C:** Independent history not expanded from listing alone  
 
+## Sources
+- [TAH directory](https://taiwaneseamericanhistory.org/organization/san-gabriel-taiwanese-lions-club/)
+
 ## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
 
 - [[organizations/taiwan-center|Taiwan Center]]
 - [[sources/taiwancenter-org|taiwancenter.org]]

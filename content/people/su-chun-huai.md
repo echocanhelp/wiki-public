@@ -53,7 +53,9 @@ Pages that link to **su-chun-huai** (su-chun-huai):
 
 1. [[people/lisa-su.md|lisa-su]]
 
-### Sources (1)
+### Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-h-su/)
+ (1)
 
 1. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
 
@@ -64,7 +66,13 @@ Pages that link to **su-chun-huai** (su-chun-huai):
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Note:** The full text includes detailed biographical information including family background and community involvement.
 
+## Family
+
+- **Wife:** 羅淑雅
+- **Daughter:** 蘇姿豐
+
 ## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
 
 - [[organizations/taiwanese-american-historical-society|TAHS]]
 - [[sources/2017-tahs-publication|2017 TAHS Publication]]

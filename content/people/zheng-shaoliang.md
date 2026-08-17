@@ -43,7 +43,15 @@ Despite his physical challenges, Zheng approached life with optimism. He reflect
 - **Hub:** [[sources/2023-tahs-publication|2023 TAHS Publication]]
 - **Note:** The profile includes details about his pharmacy work, radio program, and philosophy on disability.
 
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shao-liang-cheng/)
+
+## Family
+
+- **Wife:** 黃美玲
+
 ## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
 
 - [[organizations/taiwanese-american-historical-society|TAHS]]
 - [[sources/2023-tahs-publication|2023 TAHS Publication]]

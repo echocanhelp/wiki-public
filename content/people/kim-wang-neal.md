@@ -1,0 +1,35 @@
+---
+title: "Kim Wang-Neal (王劭文律師)"
+type: person
+name_en: "Kim Wang-Neal"
+name_zh: "王劭文律師"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# Kim Wang-Neal (王劭文律師)
+
+## Identity Snapshot
+- **English:** Kim Wang-Neal
+- **Chinese:** 王劭文律師
+- **Era:** --
+- **Geography:** Taipei, Taiwan (台灣台北)
+- **Core roles:** journalist, lawyer
+- **Source:** TAH Foundation Who’s Who
+
+Accomplishment
+1. Secretary-general of Taiwanese Chamber of Commerce of New York 2019
+
+## Family
+
+- **Husband:** Dan Neal
+
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kim-wang-neal/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

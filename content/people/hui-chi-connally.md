@@ -1,0 +1,34 @@
+---
+title: "Hui-Chi Connally (徐慧姬)"
+type: person
+name_en: "Hui-Chi Connally"
+name_zh: "徐慧姬"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# Hui-Chi Connally (徐慧姬)
+
+## Identity Snapshot
+- **English:** Hui-Chi Connally
+- **Chinese:** 徐慧姬
+- **Era:** 1940
+- **Geography:** 高雄林園
+- **Core roles:** educator
+- **Source:** TAH Foundation Who’s Who
+
+第一個獲得全美教授外國語文教師資優獎的台灣人 (First Taiwanese person to receive the national award for outstanding teachers of foreign languages in the US)
+
+## Family
+
+- **Husband:** 康威廉
+
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hui-chi-connally/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

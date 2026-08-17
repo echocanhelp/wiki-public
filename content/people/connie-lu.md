@@ -1,0 +1,33 @@
+---
+title: "Connie Lu (呂婷婷)"
+type: person
+name_en: "Connie Lu"
+name_zh: "呂婷婷"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# Connie Lu (呂婷婷)
+
+## Identity Snapshot
+- **English:** Connie Lu
+- **Chinese:** 呂婷婷
+- **Era:** -
+- **Geography:** -/CA
+- **Core roles:** physician
+- **Source:** TAH Foundation Who’s Who
+
+Connie Lu (呂婷婷) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+## Family
+
+_No filled family fields on the TAH profile._
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/connie-lu/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

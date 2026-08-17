@@ -187,7 +187,11 @@ Notable quotes and mentions of **陳柏宇** in Taiwan Justice articles:
 - **Pending:** Preferred English spelling (where marked provisional), full biography, tenure dates beyond chart year
 - `verification_status: pending` until member or officer review
 
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/paul-chen/)
+
 ## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
 
 - [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
 - [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]] — President (會長)

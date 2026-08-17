@@ -1,0 +1,36 @@
+---
+title: "Charlene Bos Alexander (莫霞琳)"
+type: person
+name_en: "Charlene Bos Alexander"
+name_zh: "莫霞琳"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# Charlene Bos Alexander (莫霞琳)
+
+## Identity Snapshot
+- **English:** Charlene Bos Alexander
+- **Chinese:** 莫霞琳
+- **Era:** 1953
+- **Geography:** MI/USA
+- **Core roles:** educator
+- **Source:** TAH Foundation Who’s Who
+
+Charlene Bos Alexander 莫霞琳 – History of Taiwanese American (T.A. Archives) 台美史料中心
+
+## Family
+
+- **Husband:** Dave Alexander
+- **Daughter:** Kate
+- **Son:** Grant
+
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/charlene-bos-alexander/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

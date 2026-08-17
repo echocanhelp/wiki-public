@@ -72,7 +72,16 @@ Pages that link to **陳乃光** (rex-chen):
 2. [[people/index.md|index]]
 3. [[people/ken-wu.md|ken-wu]]
 
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rex-chen/)
+
+## Family
+
+- **Wife:** 季靜予
+- **Son:** Eric陳融
+
 ## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
 - [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
 - [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]]
 - [[people/ken-wu|Ken Wu (吳兆峯)]]

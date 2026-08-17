@@ -1,0 +1,33 @@
+---
+title: "%E6%9D%9C%E5%Ae%9B%E7%8F%8A (杜宛珊)"
+type: person
+name_en: "%E6%9D%9C%E5%Ae%9B%E7%8F%8A"
+name_zh: "杜宛珊"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# %E6%9D%9C%E5%Ae%9B%E7%8F%8A (杜宛珊)
+
+## Identity Snapshot
+- **English:** %E6%9D%9C%E5%Ae%9B%E7%8F%8A
+- **Chinese:** 杜宛珊
+- **Era:** Birth Place
+- **Geography:** 台灣
+- **Core roles:** professor, educator
+- **Source:** TAH Foundation Who’s Who
+
+杜宛珊博士，五歲開始習琴，紐約曼哈頓音樂院學士畢業，賓州州立大學音樂碩士，並於該校取得演奏博士。曾師事許多著名演奏家如Constance Keene, Marylene Dosse, 及Abbey Simon。 宛珊在台灣及美國演出活躍，也在許多大師班如Constance Keene, David Dubal, Horacio Guiterrez等示範演出。曾獲得許多獎項如2003年美國賓州教師協會鋼琴大賽及2004年賓州州立大學器樂組比賽冠軍。宛珊的室內樂經驗豐富，曾師事Peter Winograd, Junie Cho, Timothy Deighton, 和Timothy Hester.
+
+## Family
+
+_No filled family fields on the TAH profile._
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e6%9d%9c%e5%ae%9b%e7%8f%8a/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

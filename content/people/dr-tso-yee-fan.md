@@ -1,0 +1,35 @@
+---
+title: "Dr. Tso-Yee Fan (范佐怡博士)"
+type: person
+name_en: "Dr. Tso-Yee Fan"
+name_zh: "范佐怡博士"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# Dr. Tso-Yee Fan (范佐怡博士)
+
+## Identity Snapshot
+- **English:** Dr. Tso-Yee Fan
+- **Chinese:** 范佐怡博士
+- **Era:** 1960
+- **Geography:** --
+- **Core roles:** engineer, scientist
+- **Source:** TAH Foundation Who’s Who
+
+Dr. Tso-Yee Fan (范佐怡博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+## Family
+
+- **Father:** 范良政
+- **Mother:** Eva S. Cheng
+
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-tso-yee-fan/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

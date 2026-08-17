@@ -223,6 +223,15 @@ Notable quotes and mentions of **張信惠** in Taiwan Justice articles:
 
 *...and 20 more quotes*
 
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/grace-h-yeh/)
+
+## Family
+
+- **Son:** Michael (葉明青)
+- **Daughter:** Carol (葉明宜)
+
 ## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
 
 - [[people/albert-s-lai|Dr. Albert S. Lai]]

@@ -26,7 +26,15 @@ last_reviewed: 2026-07-16
 - **Hub:** [[sources/taiwancenter-org|taiwancenter.org]]
 - **Content priority C:** Full biography not in this source set
 
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/james-yang/)
+
+## Family
+
+- **Mother:** 李淑櫻
+
 ## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
 
 - [[organizations/taiwan-center|Taiwan Center]]
 - [[sources/taiwancenter-org|taiwancenter.org source]]

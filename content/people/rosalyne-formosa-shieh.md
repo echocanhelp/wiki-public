@@ -1,0 +1,35 @@
+---
+title: "Rosalyne Formosa Shieh (謝泊欣)"
+type: person
+name_en: "Rosalyne Formosa Shieh"
+name_zh: "謝泊欣"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# Rosalyne Formosa Shieh (謝泊欣)
+
+## Identity Snapshot
+- **English:** Rosalyne Formosa Shieh
+- **Chinese:** 謝泊欣
+- **Era:** Birth Place
+- **Geography:** Fountain Valley, CA
+- **Core roles:** educator
+- **Source:** TAH Foundation Who’s Who
+
+Rosalyne Formosa Shieh 謝泊欣 – History of Taiwanese American (T.A. Archives) 台美史料中心
+
+## Family
+
+- **Father:** [[people/ching-sze-hsieh|謝清志博士]]
+- **Mother:** 蔡淑敏
+
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rosalyne-formosa-shieh/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

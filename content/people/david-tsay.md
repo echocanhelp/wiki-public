@@ -1,0 +1,36 @@
+---
+title: "Dr. David Tsay (蔡丁財博士)"
+type: person
+name_en: "Dr. David Tsay"
+name_zh: "蔡丁財博士"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# Dr. David Tsay (蔡丁財博士)
+
+## Identity Snapshot
+- **English:** Dr. David Tsay
+- **Chinese:** 蔡丁財博士
+- **Era:** 1939
+- **Geography:** Kaohsiung/台灣
+- **Core roles:** entrepreneur, scientist
+- **Source:** TAH Foundation Who’s Who
+
+1. Taiwanese Heritage Society of Houston (休士頓台灣人傳統基金會) – Founding member 1991, & Chairperson 2002, 2006
+
+## Family
+
+- **Wife:** Susan Tsay蔡淑媛
+- **Son:** Bing
+- **Son:** Andy
+
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/david-tsay/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

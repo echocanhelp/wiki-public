@@ -1,0 +1,33 @@
+---
+title: "Rung-fang Chen (陳榮芳)"
+type: person
+name_en: "Rung-fang Chen"
+name_zh: "陳榮芳"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# Rung-fang Chen (陳榮芳)
+
+## Identity Snapshot
+- **English:** Rung-fang Chen
+- **Chinese:** 陳榮芳
+- **Era:** 1949
+- **Geography:** 台灣/屏東
+- **Core roles:** entrepreneur
+- **Source:** TAH Foundation Who’s Who
+
+Rung-fang Chen (陳榮芳) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+## Family
+
+_No filled family fields on the TAH profile._
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rung-fang-chen/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

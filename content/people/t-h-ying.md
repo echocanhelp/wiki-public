@@ -1,0 +1,34 @@
+---
+title: "T. H. Ying (應天華)"
+type: person
+name_en: "T. H. Ying"
+name_zh: "應天華"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# T. H. Ying (應天華)
+
+## Identity Snapshot
+- **English:** T. H. Ying
+- **Chinese:** 應天華
+- **Era:** -
+- **Geography:** 台灣
+- **Core roles:** engineer, entrepreneur
+- **Source:** TAH Foundation Who’s Who
+
+T. H. Ying (應天華) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+## Family
+
+- **Wife:** 陳小平
+
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/t-h-ying/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

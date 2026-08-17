@@ -22137,6 +22137,16 @@ Notable quotes and mentions of **楊遠薰** in Taiwan Justice articles:
 
 *...and 114 more quotes*
 
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/carole-yang/)
+
+## Family
+
+- **Husband:** Ken Hsu許學加
+- **Daughter:** Iren Hsu許柔安
+- **Son:** Stephen Hsu許智恆
+
 ## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
 
 - [[people/albert-s-lai|Dr. Albert S. Lai]]

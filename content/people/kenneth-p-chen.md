@@ -1,0 +1,36 @@
+---
+title: "Kenneth P. Chen (陳秉虔博士)"
+type: person
+name_en: "Kenneth P. Chen"
+name_zh: "陳秉虔博士"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# Kenneth P. Chen (陳秉虔博士)
+
+## Identity Snapshot
+- **English:** Kenneth P. Chen
+- **Chinese:** 陳秉虔博士
+- **Era:** 1934
+- **Geography:** 台灣 台北 淡水
+- **Core roles:** engineer
+- **Source:** TAH Foundation Who’s Who
+
+Kenneth P. Chen (陳秉虔博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+## Family
+
+- **Wife:** Josephine
+- **Daughter:** Melinda
+- **Son:** Theodore
+
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kenneth-p-chen/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

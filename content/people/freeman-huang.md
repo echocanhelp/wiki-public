@@ -155,7 +155,15 @@ Notable quotes and mentions of **黃樹人** in Taiwan Justice articles:
   - Publisher: Freeman Huang (黃樹人); categories: `usa`, `taiwaneseamerican`, `usa_news`
   - Live URL: [台美人歷史協會新任會長許景鴻接椽](https://echocanhelp.github.io/wiki-public/articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74.html)
 
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/freeman-huang/)
+
+## Family
+
+- **Wife:** Edda Huang
+
 ## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
 - [[organizations/taiwanjustice-net|taiwanjustice.net (台灣公義網)]]
 - [[sources/taiwanjustice-net|taiwanjustice.net source hub]]
 - [[organizations/taiwanese-american-historical-society|TAHS]]

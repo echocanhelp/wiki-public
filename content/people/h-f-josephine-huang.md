@@ -1,0 +1,34 @@
+---
+title: "H. F. Josephine Huang (黃河芬)"
+type: person
+name_en: "H. F. Josephine Huang"
+name_zh: "黃河芬"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# H. F. Josephine Huang (黃河芬)
+
+## Identity Snapshot
+- **English:** H. F. Josephine Huang
+- **Chinese:** 黃河芬
+- **Era:** -
+- **Geography:** 台灣
+- **Core roles:** Taiwanese American (TAH Who’s Who)
+- **Source:** TAH Foundation Who’s Who
+
+H. F. Josephine Huang (黃河芬) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+## Family
+
+- **Husband:** [[people/d-l-yang|楊東龍]]
+
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/h-f-josephine-huang/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

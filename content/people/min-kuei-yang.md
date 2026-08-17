@@ -1,0 +1,33 @@
+---
+title: "Min-Kuei Yang (楊閔貴)"
+type: person
+name_en: "Min-Kuei Yang"
+name_zh: "楊閔貴"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# Min-Kuei Yang (楊閔貴)
+
+## Identity Snapshot
+- **English:** Min-Kuei Yang
+- **Chinese:** 楊閔貴
+- **Era:** -
+- **Geography:** 台灣
+- **Core roles:** professor, artist, educator
+- **Source:** TAH Foundation Who’s Who
+
+A native Taiwanese, pianist Min-Kuei Yang has appeared as a recitalist and collaborative pianist in Taiwan, the United States, and Europe at venues such as Presidential Hall, National Concert Hall, National Recital Hall, Concert Hall of NTNU, Chi-Shan Hall in Kaoshiung Cultural Center, Kilburn Hall of Eastman School of Music, Friedberg Concert Hall of Peabody Conservatory of Music, Paul Hall of Julliard School, the Aspen Institute, Benaroya Symphony Hall in Seattle, and Geneva Conservatory in Switzerland, etc.
+
+## Family
+
+_No filled family fields on the TAH profile._
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/min-kuei-yang/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

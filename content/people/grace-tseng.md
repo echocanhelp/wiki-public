@@ -1,0 +1,34 @@
+---
+title: "Grace Tseng (李雲玉)"
+type: person
+name_en: "Grace Tseng"
+name_zh: "李雲玉"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# Grace Tseng (李雲玉)
+
+## Identity Snapshot
+- **English:** Grace Tseng
+- **Chinese:** 李雲玉
+- **Era:** -
+- **Geography:** 台灣雲林
+- **Core roles:** entrepreneur, educator
+- **Source:** TAH Foundation Who’s Who
+
+Grace Tseng (李雲玉) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+## Family
+
+- **Husband:** 鄭良福
+
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/grace-tseng/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

@@ -1,0 +1,34 @@
+---
+title: "Patrick Wang (王沛智)"
+type: person
+name_en: "Patrick Wang"
+name_zh: "王沛智"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# Patrick Wang (王沛智)
+
+## Identity Snapshot
+- **English:** Patrick Wang
+- **Chinese:** 王沛智
+- **Era:** -
+- **Geography:** Houston,Tx
+- **Core roles:** Taiwanese American (TAH Who’s Who)
+- **Source:** TAH Foundation Who’s Who
+
+Patrick Wang (王沛智) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+## Family
+
+- **Father:** 王照光 Mother: 李淑惠
+
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/patrick-wang/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

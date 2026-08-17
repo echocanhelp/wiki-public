@@ -1,0 +1,33 @@
+---
+title: "Esther Shieh (謝逸詩)"
+type: person
+name_en: "Esther Shieh"
+name_zh: "謝逸詩"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# Esther Shieh (謝逸詩)
+
+## Identity Snapshot
+- **English:** Esther Shieh
+- **Chinese:** 謝逸詩
+- **Era:** Birth Place
+- **Geography:** First year, first city and state arrived in the U.S.
+- **Core roles:** artist
+- **Source:** TAH Foundation Who’s Who
+
+鋼琴伴奏 Piano Accompanists 謝逸詩 Esther Shieh (鋼琴，長笛) -- 鋼琴家謝逸詩為活躍的演奏者，致力於不同的表演形式，並獲取極多的獎項。她以獎學金就讀於紐約州羅徹斯特大學伊士曼音樂學院，取得學士學位，曼哈頓音樂學院音樂碩士。她擁有加拿大多倫多皇家音樂院最高榮譽的藝術家證書 (ARCT)，及英國倫敦音樂學院 (LCM) 所頒發的FLCM, LLCM證書。
+
+## Family
+
+_No filled family fields on the TAH profile._
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/esther-shieh/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

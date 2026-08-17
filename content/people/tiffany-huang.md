@@ -64,7 +64,16 @@ Before "Moment," Tiffany had previously created work for church/missionary group
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Note:** The full text includes detailed biographical information including education, National Geographic project details, and previous work.
 
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tiffany-frances-huang/)
+
+## Family
+
+- **Father:** 黃介峰
+- **Mother:** 張瑞菊
+
 ## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
 
 - [[organizations/taiwanese-american-historical-society|TAHS]]
 - [[sources/2017-tahs-publication|2017 TAHS Publication]]

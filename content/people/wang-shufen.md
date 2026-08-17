@@ -351,6 +351,14 @@ Notable quotes and mentions of **王淑芬** in Taiwan Justice articles:
 
 *...and 67 more quotes*
 
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sue-fin-wang/)
+
+## Family
+
+- **Husband:** 李錦輝
+
 ## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
 
 - [[people/albert-s-lai|Dr. Albert S. Lai]]

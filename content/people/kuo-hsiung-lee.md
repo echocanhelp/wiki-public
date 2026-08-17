@@ -1,0 +1,33 @@
+---
+title: "Kuo-Hsiung Lee (李國雄教授)"
+type: person
+name_en: "Kuo-Hsiung Lee"
+name_zh: "李國雄教授"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# Kuo-Hsiung Lee (李國雄教授)
+
+## Identity Snapshot
+- **English:** Kuo-Hsiung Lee
+- **Chinese:** 李國雄教授
+- **Era:** 1940
+- **Geography:** 台灣高雄市
+- **Core roles:** scientist, professor, educator
+- **Source:** TAH Foundation Who’s Who
+
+1.Faculty of University of North Carolina at Chapel Hill, Eshelman School of Pharmacy, Chemical Biology and Medicinal Chemistry Division Assistant Professor (1970-1974), Associate Professor (1974-1977), Professor (1977-1991), Chairman (1998-1999), Kenan Distinguished Professor (1992－), Director of Natural Products Research Laboratories (1983－)
+
+## Family
+
+_No filled family fields on the TAH profile._
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kuo-hsiung-lee/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

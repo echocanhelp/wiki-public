@@ -76,7 +76,15 @@ Use the shared intake process at Echopedia Community Contributions Hub and inclu
 - Date or estimated period
 - Source type and permission status
 
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/choan-seng-song/)
+
+## Family
+
+- **Wife:** 陳美滿
+
 ## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
 - toward-a-community-of-hope
 - [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan (台灣基督長老教會)]]
 - Echopedia Person Recordation Framework

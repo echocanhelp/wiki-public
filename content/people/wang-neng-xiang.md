@@ -84,7 +84,9 @@ Pages that link to **wang-neng-xiang** (wang-neng-xiang):
 2. [[people/zhou-wei-lin.md|zhou-wei-lin]]
 3. [[people/zhou-wei-lin.md|zhou-wei-lin]]
 
-### Sources (1)
+### Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/neng-hsiang-wang/)
+ (1)
 
 1. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
 
@@ -95,7 +97,14 @@ Pages that link to **wang-neng-xiang** (wang-neng-xiang):
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Note:** The full text includes detailed biographical information including family background, education, and decades of advocacy work.
 
+## Family
+
+- **Wife:** 薛惠美
+- **Son:** 唯仁,唯義
+- **Daughter:** 唯禮
+
 ## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
 
 - [[organizations/taiwanese-american-historical-society|TAHS]]
 - [[sources/2017-tahs-publication|2017 TAHS Publication]]

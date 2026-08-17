@@ -124,7 +124,9 @@ Pages that link to **wang-gui-rong** (wang-gui-rong):
 
 1. [[organizations/taiwan-american-foundation.md|taiwan-american-foundation]]
 
-### Sources (1)
+### Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kenjohn-wang/)
+ (1)
 
 1. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
 
@@ -135,7 +137,13 @@ Pages that link to **wang-gui-rong** (wang-gui-rong):
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Note:** This is the longest profile in Part 1 of the publication. The full text contains extensive biographical detail including dates, organizations, and specific achievements.
 
+## Family
+
+- **Wife:** 王賽美
+- **Son:** 王政仁, 王政中, 王政煌
+
 ## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
 
 - [[organizations/taiwanese-american-historical-society|TAHS]]
 - [[sources/2017-tahs-publication|2017 TAHS Publication]]

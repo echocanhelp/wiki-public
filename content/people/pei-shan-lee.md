@@ -1,0 +1,33 @@
+---
+title: "PEI-SHAN LEE (李蓓珊)"
+type: person
+name_en: "PEI-SHAN LEE"
+name_zh: "李蓓珊"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# PEI-SHAN LEE (李蓓珊)
+
+## Identity Snapshot
+- **English:** PEI-SHAN LEE
+- **Chinese:** 李蓓珊
+- **Era:** Birth Place
+- **Geography:** 台灣台北
+- **Core roles:** professor, artist, educator
+- **Source:** TAH Foundation Who’s Who
+
+Pianist PEI-SHAN LEE’s active concert career has taken her to The Kennedy Center, Lincoln Center’s Avery Fisher and Alice Tully Hall, Carnegie Hall’s Weill Recital Hall, Boston’s Jordan Hall, Cleveland’s Severance Hall, Taiwan’s National Concert Hall, and tours of France, Germany, Belgium, and Israel. Her many summer festival appearances include The Mostly Mozart Festival, Caramoor Festival, Great Lakes Chamber Music Festival, Chautauqua Institute, Music Academy of the West, Heifetz International Music Institute, the International Piano Festival in Spain, the International Piano Festival at the Tchaikovsky Conservatory in Moscow, ProQuartet in France, the Great Wall International Music Academy in China, and the Formosa Chamber Music Festival in Taiwan.
+
+## Family
+
+_No filled family fields on the TAH profile._
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/pei-shan-lee/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

@@ -45,7 +45,17 @@ Yang Huiqiao's dedication to Taiwan independence has inspired generations of Tai
 - **Hub:** [[sources/2023-tahs-publication|2023 TAHS Publication]]
 - **Archive:** `knowledge/web-archives/2023-tahs-publication-part2.md`
 
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/catherine-yang/)
+
+## Family
+
+- **Husband:** 鄭德和
+- **Daughter:** 鄭伊純
+- **Son:** 鄭丁榮
+
 ## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
 
 - [[organizations/taiwanese-american-historical-society|TAHS]]
 - [[sources/2023-tahs-publication|2023 TAHS Publication]]

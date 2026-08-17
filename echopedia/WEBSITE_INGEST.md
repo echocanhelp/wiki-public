@@ -137,7 +137,8 @@ Echopedia website taiwancenter.org
 
 Until playbooks automate discovery/scrape, **planner executes** this doc.  
 Worker may be given **post-archive** steps only (P8/P3/P2 per path list).  
-Do not claim COMPLETE without §2 checklist.
+Do not claim COMPLETE without §2 checklist.  
+Mass writes: ingestion-protocol pitfalls **33–36** (cron-silent) before publish.
 
 ---
 

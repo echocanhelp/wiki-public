@@ -1,0 +1,36 @@
+---
+title: "Hsien-Ching Ko (柯賢清)"
+type: person
+name_en: "Hsien-Ching Ko"
+name_zh: "柯賢清"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# Hsien-Ching Ko (柯賢清)
+
+## Identity Snapshot
+- **English:** Hsien-Ching Ko
+- **Chinese:** 柯賢清
+- **Era:** 1928
+- **Geography:** 台灣台南
+- **Core roles:** engineer, professor, educator
+- **Source:** TAH Foundation Who’s Who
+
+Hsien-Ching Ko (柯賢清) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+## Family
+
+- **Wife:** Pi-Yu Chang
+- **Daughter:** Stella I.
+- **Son:** Paula C.
+
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hsien-ching-ko/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

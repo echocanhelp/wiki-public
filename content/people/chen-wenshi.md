@@ -242,7 +242,11 @@ Notable quotes and mentions of **陳文石** in Taiwan Justice articles:
 - **Content priority:** A (primary source — 2023 TAHS Publication, profile Part 2)
 - **Hub:** [[sources/2023-tahs-publication|2023 TAHS Publication]]
 
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/stone-chen/)
+
 ## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
 
 - [[organizations/taiwanese-american-historical-society|TAHS]]
 - [[sources/2023-tahs-publication|2023 TAHS Publication]]

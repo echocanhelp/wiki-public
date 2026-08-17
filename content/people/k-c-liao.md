@@ -1,0 +1,34 @@
+---
+title: "K. C. Liao (廖國仲)"
+type: person
+name_en: "K. C. Liao"
+name_zh: "廖國仲"
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-08-17
+---
+# K. C. Liao (廖國仲)
+
+## Identity Snapshot
+- **English:** K. C. Liao
+- **Chinese:** 廖國仲
+- **Era:** -2005
+- **Geography:** 台灣雲林西螺鎮
+- **Core roles:** entrepreneur, artist
+- **Source:** TAH Foundation Who’s Who
+
+K. C. Liao (廖國仲) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+## Family
+
+- **Wife:** 廖貴卿
+
+
+## Sources
+- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/k-c-liao/)
+
+## Related Pages
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
