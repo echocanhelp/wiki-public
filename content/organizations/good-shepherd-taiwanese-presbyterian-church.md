@@ -56,7 +56,7 @@ In December 2021, GSTPC marked its 40th anniversary with a special感恩紀念�
 
 ### Pastoral Succession (歷任牧者)
 
-[[people/mingyuan-hsu|Rev. Ming Yuan Hsu (許明遠牧師)]] has served as the church's full-time pastor since **July 2019**. The church's 40th anniversary flipbook includes a dedicated section on the history of its pastors (歷任牧者), tracing the pastoral lineage across four decades. GSTPC's public materials also preserve memorial and historical posts, including remembrance services for prior pastoral leaders.
+[[people/mingyuan-hsu|Rev. Ming Yuan Hsu (許明遠牧師)]] has served as the church's full-time pastor since **July 2019**. TAH Who’s Who lists [[people/david-huang|Rev. David Huang (黃德利)]] as GSTPC **senior pastor, 1980–2002**. The church's 40th anniversary flipbook includes a dedicated section on the history of its pastors (歷任牧者).
 
 ### Connection to Monterey Park Community
 

@@ -50,3 +50,4 @@ Accomplishment
 ## Network
 - [[organizations/formosan-presbyterian-church-in-los-angeles|FPCLA]] — TAH Who’s Who
 - [[organizations/presbyterian-church-in-taiwan|PCT]] — TAH Who’s Who
+- [[people/david-huang|Rev. David Huang (黃德利)]] — TAH: Formosan Outreach Mission (北美宣道會) co-founder, 1983
