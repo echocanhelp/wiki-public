@@ -91,11 +91,14 @@ The PCT pioneered modern education in Taiwan, establishing:
 - [[organizations/irvine-taiwanese-presbyterian-church|ITPC]] — same pattern
 - [[organizations/formosan-presbyterian-church-in-los-angeles|FPCLA]] — first NA Taiwanese Presbyterian (1970), UPCUSA/PC(USA)
 - [[organizations/tpc|TPC]] — NA/SoCal fellowship label; **not** an alias of PCT
+- [[organizations/tainan-east-gate-barclay-memorial-church|東門巴克禮紀念教會]] — PCT 台南中會 (this *is* PCT)
+- [[organizations/chunglun-presbyterian-church|中崙教會]] — PCT 七星中會
 
 ### Key Figures
 
 - [[people/james-laidlaw-maxwell|James Laidlaw Maxwell (馬雅各)]] — Scottish; southern mission (1865)
 - [[people/george-leslie-mackay|George Leslie Mackay (馬偕)]] — Canadian; northern mission (1872)
+- [[people/thomas-barclay|Thomas Barclay (巴克禮)]] — Scottish; Tainan / TTCS (1875–1935)
 - **William Campbell** — English missionary; reinforced southern work (1871)
 - **Kao Chun-ming** — General Secretary; imprisoned 1980 for sheltering dissidents
 - **Rev. Chen Hsin-liang** — General Secretary (recent)

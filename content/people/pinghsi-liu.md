@@ -9,19 +9,31 @@ tags:
   - 2025-republication
   - translation
 verification_status: published
-last_reviewed: 2026-07-15
+last_reviewed: 2026-08-17
 ---
 # Rev. Pinghsi Liu (劉炳熹)
 
-**Rev. Pinghsi Liu (劉炳熹, Liu Ping-hsi)** is Senior Pastor of Tainan East Gate Barclay Memorial Church and a key collaborator in the 2025 republication of [[people/albert-s-lai|Dr. Albert S. Lai]]'s dissertation [[sources/toward-a-community-of-hope|Toward A Community of Hope]], working with [[people/mingyuan-hsu|Rev. Mingyuan Hsu]] and the Barclay History Education Promotion network.
+**Rev. Pinghsi Liu (劉炳熹)** is a [[organizations/presbyterian-church-in-taiwan|PCT]] pastor. From 14 September 2020 he was **第十任** pastor of [[organizations/tainan-east-gate-barclay-memorial-church|台南東門巴克禮紀念教會]]. On 31 May 2026 he was installed as fifth senior pastor of [[organizations/chunglun-presbyterian-church|七星中會中崙教會]] (Taipei). He translated / published [[sources/toward-a-community-of-hope|Toward A Community of Hope]] with [[people/mingyuan-hsu|許明遠]].
 
 ## Identity Snapshot
 
 - **English:** Rev. Pinghsi Liu / Ping Hsi Liu / Liu Ping-hsi
 - **Chinese:** 劉炳熹
-- **Era:** 2010s–2020s (documented in 2025 republication materials)
-- **Geography:** Tainan, Taiwan; connection to North American Taiwanese churches
-- **Core roles:** Senior pastor; translation/publication partner; historical education collaborator
+- **Polity:** PCT (Taiwan). Not a U.S. TPC pastor.
+- **Education (speaker bio):** 政治大學社會系學士; 台灣神學院神學碩士班 ([TGST 課程頁](https://cpce.tgst.edu.tw/p/405-1002-7193,c501.php))
+- **Current:** 中崙教會 第五任主任牧師 (2026-05-31–)
+- **Previous:** 東門巴克禮紀念教會 第十任 (2020-09-14–)
+
+## Timeline
+
+- **2016** — Theological lecturer for TCCANA, invited by PCT General Assembly Evangelism Committee (Liu 2025 foreword)
+- **2018** — Family trip to North America; hospitality of [[people/mingyuan-hsu|許明遠]]
+- **2020-09-14** — Installed 第十任, East Gate Barclay ([教會歷史](https://eastgatebarclay.org/aboutme/%E6%95%99%E6%9C%83%E6%AD%B7%E5%8F%B2/); YouTube 就任)
+- **2021-08** — East Gate hired 王鋼傳道師 (church history)
+- **2023** — Hsu invited him to translate Lai; East Gate hired 張簡盈真 as 關懷牧師 (June)
+- **2026-05-31** — Installed 中崙 第五任 ([PCT news](https://www.pct.org.tw/news_church.aspx?strBlockID=B00001&strContentID=C2026052900007&strDesc=Y))
+
+East Gate’s “關於本會” still said 現任劉炳熹 when fetched 2026-08-17 — treat as stale vs PCT + 中崙 site.
 
 ## Role in the 2025 Republication
 
@@ -38,32 +50,19 @@ From his 2025 foreword material:
 
 ## Network
 
-Pages that link to **pinghsi-liu** (pinghsi-liu):
-
-
-### People (7)
-
-1. [[people/albert-s-lai.md|albert-s-lai]]
-2. [[people/albert-s-lai.md|albert-s-lai]]
-3. [[people/ching-fang-chen.md|ching-fang-chen]]
-4. [[people/en-sheng-pan.md|en-sheng-pan]]
-5. [[people/index.md|index]]
-6. [[people/ntpc.md|ntpc]]
-7. [[people/pingtung-lai.md|pingtung-lai]]
-
-### Organizations (2)
-
-1. [[organizations/national-taiwanese-presbyterian-council.md|national-taiwanese-presbyterian-council]]
-2. [[organizations/national-taiwanese-presbyterian-council.md|national-taiwanese-presbyterian-council]]
-
-### Sources (1)
-
-1. [[sources/toward-a-community-of-hope.md|toward-a-community-of-hope]]
+- [[people/mingyuan-hsu|許明遠]] — 2018 host; 2023 translation invite
+- [[people/albert-s-lai|賴信雄]] / [[sources/toward-a-community-of-hope|Toward A Community of Hope]]
+- [[organizations/tainan-east-gate-barclay-memorial-church|東門巴克禮紀念教會]]
+- [[organizations/chunglun-presbyterian-church|中崙教會]]
+- [[organizations/presbyterian-church-in-taiwan|PCT]]
+- [[people/thomas-barclay|巴克禮]]
 
 ## Source Notes and Confidence
 
-- **Content priority A:** First-person republication narrative; collaboration with Hsu; Barclay Memorial Church role
-- **Needs verification:** Full career timeline, education
+- **A:** East Gate 教會歷史 (第十任 2020-09-14); PCT 2026-05-29 中崙就任; 中崙「我們的牧師」
+- **B:** 2025 Lai reprint foreword (2016/2018/2023)
+- **C:** TGST speaker line for education
+- East Gate about page still 現任 — stale vs PCT
 
 ## Name Variants / Disambiguation
 
@@ -74,8 +73,7 @@ Pages that link to **pinghsi-liu** (pinghsi-liu):
 - [[sources/toward-a-community-of-hope|Toward A Community of Hope]]
 - [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
 - [[people/mingyuan-hsu|Rev. Mingyuan Hsu (許明遠)]]
-- [[organizations/national-taiwanese-presbyterian-council|National Taiwanese Presbyterian Council (NTPC)]]
+- [[organizations/tainan-east-gate-barclay-memorial-church|東門巴克禮紀念教會]]
+- [[organizations/chunglun-presbyterian-church|中崙教會]]
+- [[people/thomas-barclay|Thomas Barclay (巴克禮)]]
 - [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]]
-- [[people/yunching-yeh-davis|Dr. Yunching Yeh Davis (葉芸青)]]
-- [[people/ching-fang-chen|Rev. Ching Fang Chen (陳清芳)]]
-- [[people/en-sheng-pan|Rev. En Sheng Pan (潘恩盛)]]

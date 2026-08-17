@@ -2114,6 +2114,7 @@ Person records in **Echopedia**. Names keep Chinese characters and romanized for
 - [[people/theodore-chuang|Theodore Chuang ．莊 (西奧多)]]
 - [[people/theodore-ted-wing|Theodore Ted Wing (溫庭宇)]]
 - [[people/theresa-l-chung|Theresa L. Chung (鍾林瑛娟)]]
+- [[people/thomas-barclay|Thomas Barclay (巴克禮)]]
 - [[people/thomas-c-t-chiu|Thomas C.T. Chiu (邱智正)]]
 - [[people/thomas-chen|Thomas Chen (陳秋貴)]]
 - [[people/thomas-liu|Thomas Liu (劉天良)]]

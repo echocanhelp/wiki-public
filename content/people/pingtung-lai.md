@@ -68,4 +68,4 @@ Pages that link to **pingtung-lai** (pingtung-lai):
 - [[organizations/national-taiwanese-presbyterian-council|National Taiwanese Presbyterian Council (NTPC)]]
 - [[people/mingyuan-hsu|Rev. Mingyuan Hsu (許明遠)]]
 - [[people/pinghsi-liu|Rev. Pinghsi Liu (劉炳熹)]]
-- Dr. Thomas Barclay (巴克禮) — no dedicated page yet
+- [[people/thomas-barclay|Thomas Barclay (巴克禮)]]
