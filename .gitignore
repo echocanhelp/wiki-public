@@ -6,6 +6,7 @@ echopedia/logs/
 
 # Runtime / private Tier 2 captures (not for Pages)
 knowledge/interactions/
+knowledge/web-archives/
 cache/
 **/__pycache__/
 *.pyc
