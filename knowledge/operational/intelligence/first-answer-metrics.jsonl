@@ -41,3 +41,5 @@
 {"ts": "2026-08-17T00:10:49Z", "status": "miss", "query": "許凌雲", "slug": null, "source": "telegram", "kind": null}
 {"ts": "2026-08-17T00:11:16Z", "status": "hit", "query": "許凌雲", "slug": "hsu-ling-yun", "source": "telegram", "kind": "person"}
 {"ts": "2026-08-17T00:11:16Z", "status": "hit", "query": "Hsu Ling-yun", "slug": "hsu-ling-yun", "source": "telegram", "kind": "person"}
+{"ts": "2026-08-17T00:24:06Z", "status": "hit", "query": "許凌雲", "slug": "hsu-ling-yun", "source": "telegram", "kind": "person"}
+{"ts": "2026-08-17T00:32:23Z", "status": "hit", "query": "許凌雲", "slug": "hsu-ling-yun", "source": "telegram", "kind": "person"}
