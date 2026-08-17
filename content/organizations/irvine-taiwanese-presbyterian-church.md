@@ -17,7 +17,7 @@ last_reviewed: 2026-07-15
 
 ## Summary
 
-Irvine Taiwanese Presbyterian Church (ITPC, 爾灣台灣基督長老教會) is a Taiwanese-language Presbyterian congregation in Orange County, California, affiliated with the [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan (PCT, 台灣基督長老教會)]]. Founded around 2012, the church serves a community of Taiwanese immigrants and retirees in the Irvine and [[Laguna Woods]] area who have relocated from across the United States. The congregation worships at the chapel of [[Geneva Presbyterian Church]], located at 24301 El Toro Rd, Laguna Hills, CA 92637.
+Irvine Taiwanese Presbyterian Church (ITPC, 爾灣台灣基督長老教會) is a Taiwanese-language Presbyterian congregation in Orange County, California. Tags and host chapel are **PC(USA)** (Geneva Presbyterian Church, 24301 El Toro Rd, Laguna Hills). **Not** a [[organizations/presbyterian-church-in-taiwan|PCT]] congregation — PCT is heritage/language, not US polity. See [[organizations/tpc|TPC]]. Founded around 2012; serves Taiwanese immigrants and retirees in Irvine / Laguna Woods.
 
 ---
 

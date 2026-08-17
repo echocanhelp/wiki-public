@@ -101,11 +101,11 @@ GSTPC offers a range of ministries serving different age groups and needs within
 
 ### 馬偕博士台灣宣教150週年紀念主日 (2022)
 
-On March 6, 2022, GSTPC participated in the joint worship service commemorating the 150th anniversary of [[people/alexander-macdonald|Dr. James L. Maxwell (馬偕博士)]]'s missionary work in Taiwan (馬偕博士台灣宣教150週年紀念主日). This was an outdoor worship service celebrating 150 years of Presbyterian missionary presence in Taiwan, connecting GSTPC's heritage to the broader story of the [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]].
+On March 6, 2022, GSTPC joined a 南加州 TPC outdoor service for **馬偕博士台灣宣教150週年** (Mackay 1872–2022). Heritage link to [[organizations/presbyterian-church-in-taiwan|PCT]]; **not** a claim that GSTPC is a PCT congregation.
 
 ### TPC 50th Anniversary Special (May–June 2020)
 
-GSTPC hosted the [[people/david-huang|Rev. David Huang (黃德利牧師)]] for the **TPC 50th Anniversary Special Program** (TPC 50 週年特別節目), a multi-episode broadcast celebrating 50 years of the Presbyterian Church in Taiwan. Three episodes were published:
+GSTPC hosted [[people/david-huang|黃德利]] for **TPC 50 週年特別節目** — 50 years of **North American Taiwanese Presbyterian** work from [[organizations/formosan-presbyterian-church-in-los-angeles|FPCLA]] (1970), **not** PCT’s 1865/1951 clock. Three episodes (5 / 12 / 19 June 2020).
 
 | Date | Title |
 |------|-------|
@@ -162,9 +162,15 @@ Since 2020, [[people/mingyuan-hsu|Rev. Ming Yuan Hsu (許明遠牧師)]] has pub
 | **Facebook** | [facebook.com/mpgstpc](https://www.facebook.com/mpgstpc/) |
 | **YouTube** | [GSTPC channel](https://www.youtube.com/channel/UCwgxhZ6Yhba9I_0lZ6sK3ew/videos) |
 
-## TPC Connection
+## TPC / PCT / PC(USA) (do not flatten)
 
-GSTPC is a congregation within the [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]] (台灣基督長老教會, TPC) network. The church maintains a close relationship with the broader TPC community, including participation in TPC worship programming ([TPC Worship Live](https://gstpc.org/home/tpc/)) and special events.
+| Layer | What | GSTPC |
+|---|---|---|
+| **Polity** | PC(USA) Los Ranchos Presbytery | Hsu is Minister of Word and Sacrament there |
+| **TPC** | 南加州 / NA 台灣人長老教會 fellowship ([TPC 主日直播](https://gstpc.org/home/tpc/); joint prayer 2022-05-18) | peer with other SoCal TPC churches |
+| **PCT** | 台灣基督長老教會 (Taiwan General Assembly) | **origin / people / sister**, not membership |
+
+GSTPC is **not** a PCT congregation. See [[organizations/tpc|TPC disambiguation]].
 
 ## Related Pages
 

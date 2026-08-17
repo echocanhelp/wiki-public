@@ -87,9 +87,10 @@ The PCT pioneered modern education in Taiwan, establishing:
 
 ### Related Organizations
 
-- [[organizations/good-shepherd-taiwanese-presbyterian-church|Good Shepherd Taiwanese Presbyterian Church]] — Southern California congregation within PCT network
-- [[organizations/irvine-taiwanese-presbyterian-church|Irvine Taiwanese Presbyterian Church]] — Orange County, California
-- [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles]]
+- [[organizations/good-shepherd-taiwanese-presbyterian-church|GSTPC]] — SoCal TPC / PC(USA); PCT **heritage**, not a PCT congregation
+- [[organizations/irvine-taiwanese-presbyterian-church|ITPC]] — same pattern
+- [[organizations/formosan-presbyterian-church-in-los-angeles|FPCLA]] — first NA Taiwanese Presbyterian (1970), UPCUSA/PC(USA)
+- [[organizations/tpc|TPC]] — NA/SoCal fellowship label; **not** an alias of PCT
 
 ### Key Figures
 
