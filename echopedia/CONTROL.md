@@ -25,7 +25,7 @@ Bare messages without `go` on this system are treated the same as `go <message>`
 | Your words | Agent routes to |
 |------------|-----------------|
 | status / healthy / broken / docs | health (SYSTEM_STATUS, docs-sync) |
-| person/org + fact / source | Echopedia P8 content |
+| person/org + fact / source | Echopedia P8 — **Laguna worker** if this chat is Grok (`WORKER.md` token split) |
 | website / domain | WEBSITE_INGEST |
 | cron / nightly / job | cron SSOT + docs-sync |
 | publish / ship | P2 / ci-heal |
