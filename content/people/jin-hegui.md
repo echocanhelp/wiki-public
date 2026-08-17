@@ -1,5 +1,5 @@
 ---
-title: "Jin Heng-wei (金恆煒)"
+title: "Chin Heng-wei (金恆煒)"
 type: person
 tags:
   - person
@@ -8,13 +8,13 @@ tags:
 verification_status: pending
 last_reviewed: 2026-08-16
 ---
-# Jin Heng-wei (金恆煒)
+# Chin Heng-wei (金恆煒)
 
-**Jin Heng-wei** (金恆煒) is a columnist for [[sources/taiwanjustice-net|taiwanjustice.net (台灣公義網)]], with 9 articles archived from the site's column section.
+**Chin Heng-wei** (金恆煒) is a columnist for [[sources/taiwanjustice-net|taiwanjustice.net (台灣公義網)]], with 9 articles archived from the site's column section.
 
 ## Identity Snapshot
 
-- **English:** Jin Heng-wei
+- **English:** Chin Heng-wei
 - **Chinese:** 金恆煒
 - **Role:** Columnist
 - **Source:** taiwanjustice.net column category

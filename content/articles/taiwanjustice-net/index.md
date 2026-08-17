@@ -74,10 +74,10 @@ This is the complete article archive for [[organizations/taiwanjustice-net|taiwa
 - [[people/liao-qingshan|Liao Qing-shan (廖清山)]] — 37 articles
 
 ### Political Figures
-- [[people/cai-yingwen|Cai Ying-wen (蔡英文)]] — 222 articles
-- [[people/lai-qingde|Lai Qing-de (賴清德)]] — 211 articles
+- [[people/tsai-ing-wen|Tsai Ing-wen (蔡英文)]] — 222 articles
+- [[people/lai-ching-te|Lai Ching-te (賴清德)]] — 211 articles
 - [[people/ke-wenze|Ke Wen-ze (柯文哲)]] — 167 articles
-- [[people/han-guoyu|Han Guo-yu (韓國瑜)]] — 124 articles
+- [[people/han-guoyu|Han Kuo-yu (韓國瑜)]] — 124 articles
 - [[people/ma-yingjeou|Ma Ying-jeou (馬英九)]] — 109 articles
 
 ## Source Hub

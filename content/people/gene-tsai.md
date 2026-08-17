@@ -9,6 +9,7 @@ tags:
 name_en: "Gene Tsai"
 name_zh_hanzi: "蔡錦榮"
 verification_status: pending
+featured: true
 last_reviewed: 2026-08-16
 source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
 ---
@@ -22,6 +23,11 @@ source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
 - **Core role (2025):** 顧問 — Advisor (顧問), TAHS 2025
 - **Organization:** [[organizations/taiwanese-american-historical-society|TAHS]]
 - **Era:** Contemporary (documented on 2025 TAHS org chart)
+
+
+## Also known as
+
+Same person as the 2023 TAHS publication profile formerly filed under provisional pinyin slug `cai-jinrong` (display was **Cai Jinrong**). Preferred English on the 2025 TAHS org chart is **Gene Tsai**.
 
 ## Overview
 

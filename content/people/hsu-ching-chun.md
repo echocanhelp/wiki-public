@@ -71,7 +71,7 @@ Younger years: after her father left, she helped her mother raise three younger 
 |----------|------|--------|
 | Father | Hsu Pi-lung 許丕龍 | Chemical engineer; church choir director; **ORTV / 天韻** music-department head; later 台福 choir conductor. DPP: 中評會主委, 第二屆國大, ran for **Penghu county magistrate** (lost; TAH #258: ~5,000 votes shy). 1982 Crystal Cathedral Thanksgiving concert with 蕭泰然. Later relationship with 蔡瀛如; the couple went to the **United States**. 民報 (church sources): aide to Hsu Hsin-liang (許信良). Seen at Tsai Ing-wen’s 2015 U.S. overseas-Taiwanese banquet and 2016 inauguration. TAH #258 groups him in 民主運動南加幫 with 謝清志、鍾金江、江昭儀、[[people/yang-jia-you]]、[[people/chen-zhaonan]]. |
 | Mother | (not named on Wikipedia) | Raised the four daughters after the split |
-| Father’s later spouse | Tsai Ying-ju 蔡瀛如 | Sister of [[people/cai-yingwen]]. Met in church choir. |
+| Father’s later spouse | Tsai Ying-ju 蔡瀛如 | Sister of [[people/tsai-ing-wen|Tsai Ing-wen (蔡英文)]]. Met in church choir. |
 | 許景淳 on the split | — | Has said publicly she was “abandoned” at **age 11**; later the two households “因故脫離關係,” years without contact (民報 summarizing her TV remarks). TAH #258 independently: he left for the U.S. when she was 11. |
 | Sister | Lin Ching-ying 林景瀅 | Former singer |
 | Son | Lin Tzu-hsuan 林子軒 | Married dancer Wang Chien-yi (王芊懿); daughter born Aug 2022 — Hsu became a grandmother |
@@ -189,7 +189,7 @@ Do not write her as a Taiwanese American biography. The U.S. nodes are **(1) TAH
 - [[people/kao-chun-ming|Rev. Kao Chun-ming (高俊明)]] — father’s post-sermon hymn with 蕭泰然 (not her office)
 - [[people/yang-jia-you|Charles Yang (楊嘉猷)]] — named with 許丕龍 in TAH #258 南加幫 list
 - [[people/chen-zhaonan|Chen Chao-nan (陳昭南)]] — same list
-- [[people/cai-yingwen|Tsai Ing-wen (蔡英文)]] — father’s later sister-in-law (sourced; not 許景淳’s own office)
+- [[people/tsai-ing-wen|Tsai Ing-wen (蔡英文)]] — father’s later sister-in-law (sourced; not 許景淳’s own office)
 - [[organizations/taiwanese-american-historical-society|TAHS]] — TAH #196 / #258
 
 ## Sources

@@ -1,5 +1,5 @@
 ---
-title: "Han Kuo-yu / Han Guo-yu (韓國瑜)"
+title: "Han Kuo-yu (韓國瑜)"
 type: person
 tags:
   - person
@@ -9,13 +9,13 @@ tags:
 verification_status: pending
 last_reviewed: 2026-07-28
 ---
-# Han Kuo-yu / Han Guo-yu (韓國瑜)
+# Han Kuo-yu (韓國瑜)
 
-**Han Kuo-yu / Han Guo-yu** (韓國瑜) appears extensively in the [[sources/taiwanjustice-net|taiwanjustice.net]] archive (**124** article hits by title/topic extraction). This is a **thin A-tier** page for graph linking — not a full biography.
+**Han Kuo-yu** (韓國瑜) appears extensively in the [[sources/taiwanjustice-net|taiwanjustice.net]] archive (**124** article hits by title/topic extraction). This is a **thin A-tier** page for graph linking — not a full biography.
 
 ## Identity Snapshot
 
-- **English:** Han Kuo-yu / Han Guo-yu
+- **English:** Han Kuo-yu
 - **Chinese:** 韓國瑜
 - **Role (as covered):** KMT politician; former Mayor of Kaohsiung
 - **Echopedia scope:** Taiwan politics coverage via taiwanjustice.net; not a Taiwanese-American diaspora profile

@@ -33,7 +33,7 @@ Source: TAHS 2025 org chart (台美人歷史協會組織表), Tax ID **46-400538
 | 會務指導會主席 — 會務 | [[people/alan-thian|Alan Thian (田詒鴻)]] |
 | 會務指導會主席 — 會計 | [[people/paul-chen|Paul Chen (陳柏宇)]] |
 | 創會會長 (Founding president) | [[people/yang-jia-you|Charles Yang (楊嘉猷)]] |
-| 顧問 (Advisor) | [[people/gene-tsai|Gene Tsai (蔡錦榮)]], [[people/xu-shihuan|Hsu Shih-huan (許世環)]], [[people/linda-liu|Linda Liu (劉玲華)]] *(handwritten on chart)* |
+| 顧問 (Advisor) | [[people/gene-tsai|Gene Tsai (蔡錦榮)]], [[people/hsu-shih-huan|Hsu Shih-huan (許世環)]], [[people/linda-liu|Linda Liu (劉玲華)]] *(handwritten on chart)* |
 | 會長 (President) | [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]] |
 | 副會長 (Vice President) | [[people/roger-tsai|Roger Tsai (蔡漢成)]], [[people/bai-weiwei|Wei Wei Bai (白偉瑋)]] |
 | 特別助理 (Special assistant) | [[people/john-yang|John Yang (楊錦忠)]], [[people/yi-sen-lee|Yi Sen Lee (李意盛)]] |

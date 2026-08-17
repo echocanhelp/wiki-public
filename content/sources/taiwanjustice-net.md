@@ -127,15 +127,15 @@ knowledge/web-archives/taiwanjustice-net/
 
 | Chinese | Slug | Articles | Role |
 |---------|------|---------:|------|
-| 蔡英文 | `people/cai-yingwen` | 222 | President (2016–2024) |
-| 賴清德 | `people/lai-qingde` | 211 | President (2024–) |
+| 蔡英文 | `people/tsai-ing-wen` | 222 | President (2016–2024) |
+| 賴清德 | `people/lai-ching-te` | 211 | President (2024–) |
 | 柯文哲 | `people/ke-wenze` | 167 | Mayor Taipei / TPP |
 | 韓國瑜 | `people/han-guoyu` | 124 | Kaohsiung Mayor / KMT |
 | 馬英九 | `people/ma-yingjeou` | 109 | President (2008–2016) |
-| 侯友宜 | `people/hou-youyi` | 84 | Mayor Taichung / KMT |
+| 侯友宜 | `people/hou-yu-ih` | 84 | Mayor New Taipei / KMT |
 | 林佳龍 | `people/lin-jialong` | 68 | Mayor Tainan |
 | 王金平 | `people/wang-jinping` | 24 | Politician |
-| 謝長廷 | `people/xie-changting` | 22 | Legislative Speaker |
+| 謝長廷 | `people/frank-hsieh` | 22 | former Premier / DPP |
 | 陳水扁 | `people/chen-shuibian` | 14 | President (2000–2008) |
 
 ### Video Series (20+)
@@ -189,7 +189,7 @@ See `knowledge/research/taiwanjustice-net/GAP_REPORT.md` — residual download f
 - [[people/huang-diyin|Huang Di-ying (黃帝穎)]]
 - [[people/he-qingxuan|He Qinglian (何清漣)]]
 - [[people/liao-qingshan|Liao Qing-shan (廖清山)]]
-- [[people/jin-hegui|Jin Heng-wei (金恆煒)]]
+- [[people/jin-hegui|Chin Heng-wei (金恆煒)]]
 - [[people/ian-easton|Ian Easton (易思安)]]
 - [[people/richard-d-fisher|Richard D. Fisher (費學禮)]]
 - [[people/john-j-tkacik|John J. Tkacik (譚慎格)]]

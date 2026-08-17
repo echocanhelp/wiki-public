@@ -41,7 +41,7 @@ The second TAHS commemorative publication, following the 2017 edition. This publ
 12. 王耀廷、謝秀緞 (Wang Yaoting & Xie Xiulan) — also in 2017 publication
 13. 陳文石 (Chen Wenshi)
 14. 楊惠喬 (Yang Huiqiao)
-15. 蔡錦榮 (Cai Jinrong)
+15. 蔡錦榮 (Gene Tsai)
 16. 謝清志、謝泊怡 (Xie Qingzhi & Xie Poyi)
 17. 楊呵偉 (Yang Chengwei)
 18. 范清亮 (Fan Qingliang)
@@ -84,7 +84,7 @@ The second TAHS commemorative publication, following the 2017 edition. This publ
 | Wang Yao-ting & Xie Xiulan | `wang-yao-ting-xie-xiulan` | [[people/wang-yao-ting-xie-xiulan\|王耀廷、謝秀緞]] |
 | Chen Wenshi | `chen-wenshi` | [[people/chen-wenshi\|陳文石 (Chen Wenshi)]] |
 | Yang Huiqiao | `yang-huiqiao` | [[people/yang-huiqiao\|楊惠喬 (Yang Huiqiao)]] |
-| Cai Jinrong | `cai-jinrong` | [[people/cai-jinrong\|蔡錦榮 (Cai Jinrong)]] |
+| Gene Tsai | `gene-tsai` | [[people/gene-tsai|蔡錦榮 (Gene Tsai)]] |
 | Xie Qingzhi & Xie Poyi | `xie-qingzhi-xie-poyi` | [[people/xie-qingzhi-xie-poyi\|謝清志、謝泊怡]] |
 | Yang Chengwei | `yang-chengwei` | [[people/yang-chengwei\|楊呵偉 (Yang Chengwei)]] |
 | Fan Qingliang | `fan-qingliang` | [[people/fan-qingliang\|范清亮 (Fan Qingliang)]] |

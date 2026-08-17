@@ -22,7 +22,7 @@ Person records in **Echopedia**. Names keep Chinese characters and romanized for
 - [[people/ashton-hsu|Ashton Hsu (許思敦)]]
 - [[people/bob-j-wu|Bob J. Wu (吳瑞椿)]]
 - [[people/c-c-chen|Dr. C.C. Chen (陳昭俊)]]
-- [[people/cai-jinrong|蔡錦榮 (Cai Jinrong)]]
+- [[people/gene-tsai|蔡錦榮 (Gene Tsai)]]
 - [[people/cai-weiren|Rev. Cai Weiren (蔡維仁)]]
 - [[people/chaolong-kao|Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)]]
 - [[people/chen-bozhi|Rev. Chen Bozhi (陳柏志)]]

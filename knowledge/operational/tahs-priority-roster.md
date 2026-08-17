@@ -22,7 +22,7 @@ Source of truth: paper org chart 台美人歷史協會組織表 2025 + owner han
 | Paul Chen | 陳柏宇 | paul-chen | 會務指導會主席 — 會計; LINE: "Paul Chen 陳柏宇" |
 | Charles Yang | 楊嘉猷 | yang-jia-you | 創會會長 (Founding president); LINE mention: "Chia you" |
 | Gene Tsai | 蔡錦榮 | gene-tsai | 顧問 (Advisor) |
-| Hsu Shih-huan | 許世環 | xu-shihuan | 顧問 (Advisor); EN provisional |
+| Hsu Shih-huan | 許世環 | hsu-shih-huan | 顧問 (Advisor) |
 | Linda Liu | 劉玲華 | linda-liu | 顧問 area (handwritten on chart); LINE: "Linda" |
 | Leonard Hsu Jr. | 許景鴻 | leonard-hsu-jr | 會長 (President); LINE: "Leonard Hsu Junior" |
 | Roger Tsai | 蔡漢成 | roger-tsai | 副會長; LINE: "Roger Tsai 蔡漢成" |

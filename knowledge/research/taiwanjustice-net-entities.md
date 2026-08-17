@@ -95,15 +95,15 @@ knowledge/web-archives/taiwanjustice-net/
 
 | Chinese | Pinyin | Slug | Articles | Role |
 |---------|--------|------|----------|------|
-| 蔡英文 | Cai Yingwen | cai-yingwen | 222 | President (2016–2024) |
-| 賴清德 | Lai Qingde | lai-qingde | 211 | President (2024–) |
+| 蔡英文 | Tsai Ing-wen | cai-yingwen | 222 | President (2016–2024) |
+| 賴清德 | Lai Ching-te | lai-qingde | 211 | President (2024–) |
 | 柯文哲 | Ke Wenze | ke-wenze | 167 | Mayor Taipei / TPP |
 | 韓國瑜 | Han Guoyu | han-guoyu | 124 | Kaohsiung Mayor / KMT |
 | 馬英九 | Ma Yingjeou | ma-yingjeou | 109 | President (2008–2016) |
 | 侯友宜 | Hou Youyi | hou-youyi | 84 | Mayor Taichung / KMT |
 | 林佳龍 | Lin Jialong | lin-jialong | 68 | Mayor Tainan |
 | 王金平 | Wang Jinping | wang-jinping | 24 | Politician |
-| 謝長廷 | Xie Changting | xie-changting | 22 | Legislative Speaker |
+| 謝長廷 | Frank Hsieh | xie-changting | 22 | Legislative Speaker |
 | 陳水扁 | Chen Shuibian | chen-shuibian | 14 | President (2000–2008) |
 
 **Name collision notes:**

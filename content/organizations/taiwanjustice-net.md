@@ -87,7 +87,7 @@ The site features a regular column section with contributions from 21 writers. T
 - [[people/huang-diyin|Huang Di-ying (黃帝穎)]] — 57 articles
 - [[people/he-qingxuan|He Qinglian (何清漣)]] — 50 articles
 - [[people/liao-qingshan|Liao Qing-shan (廖清山)]] — 37 articles
-- [[people/jin-hegui|Jin Heng-wei (金恆煒)]] — 9 articles
+- [[people/jin-hegui|Chin Heng-wei (金恆煒)]] — 9 articles
 - [[people/ian-easton|Ian Easton (易思安)]] — 3 articles
 - [[people/richard-d-fisher|Richard D. Fisher (費學禮)]] — 2 articles
 - [[people/john-j-tkacik|John J. Tkacik (譚慎格)]] — 1 article
@@ -103,15 +103,15 @@ The site features a regular column section with contributions from 21 writers. T
 
 The site covers Taiwanese politics extensively. Where Echopedia already has pages for these figures, wikilinks are used:
 
-- [[people/cai-yingwen|Cai Yingwen (蔡英文)]] — 222 articles (President 2016–2024)
-- [[people/lai-qingde|Lai Qingde (賴清德)]] — 211 articles (President 2024–)
+- [[people/tsai-ing-wen|Tsai Ing-wen (蔡英文)]] — 222 articles (President 2016–2024)
+- [[people/lai-ching-te|Lai Ching-te (賴清德)]] — 211 articles (President 2024–)
 - [[people/ke-wenze|Ke Wenze (柯文哲)]] — 167 articles (Mayor Taipei / TPP)
 - [[people/han-guoyu|Han Guoyu (韓國瑜)]] — 124 articles (Kaohsiung Mayor / KMT)
 - [[people/ma-yingjeou|Ma Yingjeou (馬英九)]] — 109 articles (President 2008–2016)
-- [[people/hou-youyi|Hou Youyi (侯友宜)]] — 84 articles (Mayor Taichung / KMT)
+- [[people/hou-yu-ih|Hou Youyi (侯友宜)]] — 84 articles (Mayor Taichung / KMT)
 - [[people/lin-jialong|Lin Jialong (林佳龍)]] — 68 articles (Mayor Tainan)
 - [[people/wang-jinping|Wang Jinping (王金平)]] — 24 articles
-- [[people/xie-changting|Xie Changting (謝長廷)]] — 22 articles (Legislative Speaker)
+- [[people/frank-hsieh|Frank Hsieh (謝長廷)]] — 22 articles (Legislative Speaker)
 - [[people/chen-shuibian|Chen Shuibian (陳水扁)]] — 14 articles (President 2000–2008)
 
 ### Video Series
@@ -165,7 +165,7 @@ A systematic privacy gate scan was run on all 29,103 Tier 2 files. Content is sa
 - [[people/huang-diyin|Huang Di-ying (黃帝穎)]]
 - [[people/he-qingxuan|He Qinglian (何清漣)]]
 - [[people/liao-qingshan|Liao Qing-shan (廖清山)]]
-- [[people/jin-hegui|Jin Heng-wei (金恆煒)]]
+- [[people/jin-hegui|Chin Heng-wei (金恆煒)]]
 - [[people/ian-easton|Ian Easton (易思安)]]
 - [[people/richard-d-fisher|Richard D. Fisher (費學禮)]]
 - [[people/john-j-tkacik|John J. Tkacik (譚慎格)]]
