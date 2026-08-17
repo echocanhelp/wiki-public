@@ -26,6 +26,7 @@ Julin Tang (湯竹林) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1309 encyclopedia: 1309. Julin Tang 湯竹林 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1309/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/julin-tang/)
 
 ## Related Pages

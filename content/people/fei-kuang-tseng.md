@@ -28,6 +28,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #179 encyclopedia: 179. Dr. Fei-Kuang Tseng 曾輝光博士](https://taiwaneseamericanhistory.org/179-dr-fei-kuang-tseng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/fei-kuang-tseng/)
 
 ## Related Pages

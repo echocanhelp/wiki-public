@@ -27,6 +27,7 @@ Matthias C. H. Lu (盧志華) is listed in the TAH Foundation Who’s Who Taiwan
 
 
 ## Sources
+- [TAH #1077 encyclopedia: 1077. Matthias C. H. Lu  盧志華 / 2016/6](https://taiwaneseamericanhistory.org/whoswho1077/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/matthias-c-h-lu/)
 
 ## Related Pages

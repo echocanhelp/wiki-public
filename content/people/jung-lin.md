@@ -26,6 +26,8 @@ Pianist Jung Lin has been acclaimed for her poetic and virtuosic pianism. A nati
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #400 encyclopedia: 400. Jung Lin林容光, Pianist & Composer / 05/2017](https://taiwaneseamericanhistory.org/musician400/)
+- [TAH #1664 encyclopedia: 1664. Jung Lin 林容光](https://taiwaneseamericanhistory.org/whos-who-1664-jung-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jung-lin/)
 
 ## Related Pages

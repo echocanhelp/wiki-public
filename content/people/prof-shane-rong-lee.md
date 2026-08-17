@@ -26,6 +26,7 @@ Prof. Shane-Rong Lee 李憲榮教授 – History of Taiwanese American (T.A. Arc
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1901 encyclopedia: 1901. Prof. Shane-Rong Lee 李憲榮教授](https://taiwaneseamericanhistory.org/whos-who-1901-shane-rong-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-shane-rong-lee/)
 
 ## Related Pages

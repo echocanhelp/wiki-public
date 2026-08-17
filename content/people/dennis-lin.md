@@ -26,6 +26,7 @@ Dennis Lin (林博淵) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1516 encyclopedia: 1516. Dennis Lin 林博淵/ 2017/02](https://taiwaneseamericanhistory.org/whoswho1516/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dennis-lin/)
 
 ## Related Pages

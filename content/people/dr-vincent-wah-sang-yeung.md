@@ -26,6 +26,7 @@ Dr. Vincent Wah-Sang Yeung 楊華生醫師 – History of Taiwanese American (T.
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2008 encyclopedia: 2008. Dr. Vincent Wah-Sang Yeung 楊華生醫師](https://taiwaneseamericanhistory.org/whos-who-2008-wah-sang-yeung/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-vincent-wah-sang-yeung/)
 
 ## Related Pages

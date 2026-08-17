@@ -26,6 +26,7 @@ Jason Su (蘇子榮) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1277 encyclopedia: 1277. Jason Su 蘇子榮 /09/2016](https://taiwaneseamericanhistory.org/whos1277/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jason-su/)
 
 ## Related Pages

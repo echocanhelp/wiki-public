@@ -26,6 +26,7 @@ Joanna Chen Cham (陳怡玲) is listed in the TAH Foundation Who’s Who Taiwane
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #837 encyclopedia: 837. Joanna Chen Cham 陳怡玲 / 02/2016](https://taiwaneseamericanhistory.org/who837-joanna-chen-cham/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/joanna-chen-cham/)
 
 ## Related Pages

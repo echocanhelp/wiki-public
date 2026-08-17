@@ -26,6 +26,7 @@ Dr. Cary S. Hung (洪哲勝博士) is listed in the TAH Foundation Who’s Who T
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1009 encyclopedia: 1009. Dr. Cary S. Hung 洪哲勝博士/2016/05](https://taiwaneseamericanhistory.org/whoswho1009/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-cary-s-hung/)
 
 ## Related Pages

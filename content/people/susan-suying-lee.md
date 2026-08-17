@@ -29,6 +29,7 @@ Susan Suying Lee (李淑英) is listed in the TAH Foundation Who’s Who Taiwane
 
 
 ## Sources
+- [TAH #209 encyclopedia: 209. Susan, Suying Lee 李淑英/2015/01](https://taiwaneseamericanhistory.org/209-susan-suying-lee-%e6%9d%8e%e6%b7%91%e8%8b%b1/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/susan-suying-lee/)
 
 ## Related Pages

@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2038 encyclopedia: 2038. Prof. Teh-Hui Kao 高德輝教授](https://taiwaneseamericanhistory.org/whos-who-2038-teh-hui-kao/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-teh-hui-kao/)
 
 ## Related Pages

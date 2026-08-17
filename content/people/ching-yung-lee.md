@@ -31,6 +31,7 @@ Ching Yung Lee (李慶榮) is listed in the TAH Foundation Who’s Who Taiwanese
 
 
 ## Sources
+- [TAH #658 encyclopedia: 658. Ching Yung Lee 李慶榮 / 2015/10](https://taiwaneseamericanhistory.org/658-ching-yung-lee-%e6%9d%8e%e6%85%b6%e6%a6%ae-201510/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ching-yung-lee/)
 
 ## Related Pages

@@ -30,6 +30,8 @@ Chen-Jung Hsu (許振榮) is listed in the TAH Foundation Who’s Who Taiwanese 
 
 
 ## Sources
+- [TAH #807 encyclopedia: 807. Chen-Jung Hsu 許振榮 /2016/02](https://taiwaneseamericanhistory.org/807-chen-jung-hsu-201602/)
+- [TAH #398 encyclopedia: 398. 許振榮 令人懷念的園丁學者  / 楊遠薰 /2016/02](https://taiwaneseamericanhistory.org/mystories398/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chen-jung-hsu/)
 
 ## Related Pages

@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1753 encyclopedia: 1753. Chin-Hui Tsao 曹錦輝](https://taiwaneseamericanhistory.org/whos-who-1753-chin-hui-tsao/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chin-hui-tsao/)
 
 ## Related Pages

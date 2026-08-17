@@ -29,6 +29,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #619 encyclopedia: 619. 毛清芬 / 2015/09](https://taiwaneseamericanhistory.org/618-%e6%af%9b%e6%b8%85%e8%8a%ac-201509/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e6%af%9b%e6%b8%85%e8%8a%ac/)
 
 ## Related Pages

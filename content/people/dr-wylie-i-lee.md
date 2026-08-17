@@ -29,6 +29,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #73 encyclopedia: 73. Dr. Wylie I. Lee 李英偉博士](https://taiwaneseamericanhistory.org/73-dr-wylie-i-lee/)
+- [TAH #765 encyclopedia: 765. Dr. Wylie I. Lee 李英偉博士](https://taiwaneseamericanhistory.org/whos-who-765-wylie-i-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-wylie-i-lee/)
 
 ## Related Pages

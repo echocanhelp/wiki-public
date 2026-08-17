@@ -26,6 +26,8 @@ Po-Wei Lai, a native of Taiwan, began his violin studies at the age of six. He h
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #631 encyclopedia: 631. Po-Wei Lai 賴伯瑋 / 2015/09](https://taiwaneseamericanhistory.org/631-po-wei-lai-%e8%b3%b4%e4%bc%af%e7%91%8b-201509/)
+- [TAH #293 encyclopedia: 293. Po-Wei Lai賴伯瑋, Violin/Conductor / 2015/09](https://taiwaneseamericanhistory.org/293-po-wei-lai%e8%b3%b4%e4%bc%af%e7%91%8b-violinconductor-201509/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/po-wei-lai/)
 
 ## Related Pages

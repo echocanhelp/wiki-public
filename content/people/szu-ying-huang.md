@@ -26,6 +26,7 @@ Szu-Ying Huang (黃思穎) is listed in the TAH Foundation Who’s Who Taiwanese
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1210 encyclopedia: 1210. Szu-Ying Huang 黃思穎 / 2016/08](https://taiwaneseamericanhistory.org/1210-szu-ying-huang-%e9%bb%83%e6%80%9d%e7%a9%8e-201608/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/szu-ying-huang/)
 
 ## Related Pages

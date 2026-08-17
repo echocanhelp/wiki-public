@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1900 encyclopedia: 1900. William Yeh 葉振忠](https://taiwaneseamericanhistory.org/whos-who-1900-william-yeh/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/william-yeh/)
 
 ## Related Pages

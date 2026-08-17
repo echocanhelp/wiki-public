@@ -28,6 +28,7 @@ W. S. Chen (陳務憲) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #1521 encyclopedia: 1521. W. S. Chen 陳務憲 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1521/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/w-s-chen/)
 
 ## Related Pages

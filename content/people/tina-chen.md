@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1738 encyclopedia: 1738. Tina Chen 吳富子 / 07/2017](https://taiwaneseamericanhistory.org/whoswho1738/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tina-chen/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ Frances Wu is a native of Taiwan. She has been studying vocal with the famous vo
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #138 encyclopedia: 138. Frances Wu 吳涵秋, Mezzo-Soprano / 2015/02](https://taiwaneseamericanhistory.org/138-frances-wu-%e5%90%b3%e6%b6%b5%e7%a7%8b-mezzo-soprano-201502/)
+- [TAH #252 encyclopedia: 252. Frances Wu 吳涵秋 / 2015/02](https://taiwaneseamericanhistory.org/252-frances-wu-%e5%90%b3%e6%b6%b5%e7%a7%8b-201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/frances-wu/)
 
 ## Related Pages

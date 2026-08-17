@@ -30,6 +30,7 @@ Professor and Head of Department, Department of Physics
 
 
 ## Sources
+- [TAH #1829 encyclopedia: 1829. Dr. M. Y. Chou 周美吟博士](https://taiwaneseamericanhistory.org/whos-who-1829-m-y-chou/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-m-y-chou/)
 
 ## Related Pages

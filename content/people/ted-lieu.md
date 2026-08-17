@@ -30,6 +30,10 @@ Ted Lieu (劉雲平) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 
 
 ## Sources
+- [TAH #155 encyclopedia: 155. Ted Lieu 劉雲平](https://taiwaneseamericanhistory.org/155-ted-lieu/)
+- [TAH #4 encyclopedia: 4. Ted Lieu 劉雲平 in S. CA](https://taiwaneseamericanhistory.org/ted-lieu/)
+- [TAH #4 encyclopedia: 4. Congressman Mr. Ted Lieu 劉雲平 in S. CA.](https://taiwaneseamericanhistory.org/4-congressman-mr-liu-in-s-ca/)
+- [TAH #156 encyclopedia: 156. Ted Lieu 劉雲平](https://taiwaneseamericanhistory.org/whos-who-156-ted-lieu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ted-lieu/)
 
 ## Related Pages

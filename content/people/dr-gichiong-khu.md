@@ -28,6 +28,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #81 encyclopedia: 81. Dr. Gichiong Khu 邱義昌博士](https://taiwaneseamericanhistory.org/81-dr-gichiong-khu/)
+- [TAH #1460 encyclopedia: 1460. Dr. Gichiong Khu 邱義昌博士](https://taiwaneseamericanhistory.org/whos-who-1460-gichiong-khu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-gichiong-khu/)
 
 ## Related Pages

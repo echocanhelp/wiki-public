@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1982 encyclopedia: 1982. Connie Shiau 蕭潔恒](https://taiwaneseamericanhistory.org/whos-who-1982-connie-shiau/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/connie-shiau/)
 
 ## Related Pages

@@ -28,6 +28,7 @@ BVM (Bachelor of Veterinary Medicine)
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1609 encyclopedia: 1609. Li-Lin Cheng 鄭麗伶](https://taiwaneseamericanhistory.org/whos-li-lin-cheng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/li-lin-cheng/)
 
 ## Related Pages

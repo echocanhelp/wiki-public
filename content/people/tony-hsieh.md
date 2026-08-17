@@ -27,6 +27,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #288 encyclopedia: 288. Tony Hsieh 謝家華 (CEO of Zappos IP, Inc.) / King of Shoes](https://taiwaneseamericanhistory.org/ff288-tony-hsieh-king-of-shoes/)
+- [TAH #261 encyclopedia: 261. Tony Hsieh 謝家華/2015/02](https://taiwaneseamericanhistory.org/whos261-tony-hsieh/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tony-hsieh/)
 
 ## Related Pages

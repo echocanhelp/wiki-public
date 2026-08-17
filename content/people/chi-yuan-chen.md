@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #390 encyclopedia: 390. Chi-Yuan Chen陳麒元, Viola / 2017/03](https://taiwaneseamericanhistory.org/musician390/)
+- [TAH #1571 encyclopedia: 1571. Chi-Yuan Chen 陳麒元 / 2017/03](https://taiwaneseamericanhistory.org/whoswho-1571/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chi-yuan-chen/)
 
 ## Related Pages

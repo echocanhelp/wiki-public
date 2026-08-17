@@ -30,6 +30,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #80 encyclopedia: 80. Shiuho Lin 林秀合](https://taiwaneseamericanhistory.org/80-shiuho-lin/)
+- [TAH #1495 encyclopedia: 1495. Shiuho Lin 林秀合](https://taiwaneseamericanhistory.org/whos-who-1495-shiuho-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shiuho-lin/)
 
 ## Related Pages

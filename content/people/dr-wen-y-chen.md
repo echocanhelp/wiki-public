@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2093 encyclopedia: 2093. Dr. Wen Y. Chen 陳文淵醫師](https://taiwaneseamericanhistory.org/whos-who-2093-wen-y-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-wen-y-chen/)
 
 ## Related Pages

@@ -28,6 +28,7 @@ Prof. Frank S. T. Hsiao 蕭聖鐵教授 – History of Taiwanese American (T.A. 
 
 
 ## Sources
+- [TAH #1558 encyclopedia: 1558. Prof. Frank S. T. Hsiao 蕭聖鐵教授](https://taiwaneseamericanhistory.org/whos-who-1558-frank-s-t-hsiao/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-frank-s-t-hsiao/)
 
 ## Related Pages

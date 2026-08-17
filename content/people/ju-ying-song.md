@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #339 encyclopedia: 339. Ju-Ying Song 宋如音, Pianist / 2016/05](https://taiwaneseamericanhistory.org/musician339/)
+- [TAH #969 encyclopedia: 969.  Ju-Ying Song 宋如音 / 2016/05](https://taiwaneseamericanhistory.org/whoswho969/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ju-ying-song/)
 
 ## Related Pages

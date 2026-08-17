@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1903 encyclopedia: 1903. H. H. Chen 陳惠華](https://taiwaneseamericanhistory.org/whos-who-1903-h-h-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/h-h-chen/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2193 encyclopedia: 2193. Prof. Abraham Lee 李伯晃教授](https://taiwaneseamericanhistory.org/whos-who-2193-abraham-lee/)
+- [TAH #206 encyclopedia: 206. Prof. Abraham Lee 李伯晃教授](https://taiwaneseamericanhistory.org/ota-206/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-abraham-lee/)
 
 ## Related Pages

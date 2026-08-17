@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-16
+last_reviewed: 2026-08-17
 ---
 
 # Wu Li-pei / 吳澧培
@@ -248,6 +248,15 @@ Notable quotes and mentions of **吳澧培** in Taiwan Justice articles:
 *...and 33 more quotes*
 
 ## Sources
+- [TAH #21 encyclopedia: 21. Li Pei Wu (吳澧培)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-21/)
+- [TAH #122 encyclopedia: 122. Li Pei Wu  吳澧培](https://taiwaneseamericanhistory.org/122-li-pei-wu/)
+- [TAH #279 encyclopedia: 279. 吳澧培、楊黃美幸的電影夢 《林北小舞》 / 朱蒲青 /03/207](https://taiwaneseamericanhistory.org/ourjourneys279/)
+- [TAH #271 encyclopedia: 271. 吳澧培 Li Pei Wu / Commuting to work by private air plant 搭私人飛機上下班 / 1978](https://taiwaneseamericanhistory.org/271-%e5%90%b3%e6%be%a7%e5%9f%b9-li-pei-wu-commuting-to-work-by-private-air-plant-%e6%90%ad%e7%a7%81%e4%ba%ba%e9%a3%9b%e6%a9%9f%e4%b8%8a%e4%b8%8b%e7%8f%ad-1978/)
+- [TAH #269 encyclopedia: 269. 吳澧培 Li Pei Wu / 第一位受聘於阿拉斯加的專業人士 / 1969](https://taiwaneseamericanhistory.org/269-%e5%90%b3%e6%be%a7%e5%9f%b9-li-pei-wu-%e7%ac%ac%e4%b8%80%e4%bd%8d%e5%8f%97%e8%81%98%e6%96%bc%e9%98%bf%e6%8b%89%e6%96%af%e5%8a%a0%e7%9a%84%e5%b0%88%e6%a5%ad%e4%ba%ba%e5%a3%ab-1969/)
+- [TAH #162 encyclopedia: 162. 吳澧培 / 南加州台灣會館第一任董事長 / 1998](https://taiwaneseamericanhistory.org/162-%e5%90%b3%e6%be%a7%e5%9f%b9-%e5%8d%97%e5%8a%a0%e5%b7%9e%e5%8f%b0%e7%81%a3%e6%9c%83%e9%a4%a8%e7%ac%ac%e4%b8%80%e4%bb%bb%e8%91%a3%e4%ba%8b%e9%95%b7-1998/)
+- [TAH #27 encyclopedia: 27. Li-Pei Wu 吳澧培 / The first CEO of Taiwanese American Bank / 1982](https://taiwaneseamericanhistory.org/27-li-pei-wu-%e5%90%b3%e6%be%a7%e5%9f%b9-the-first-ceo-of-taiwanese-american-bank-1982/)
+- [TAH #26 encyclopedia: 26. Li-Pei Wu 吳澧培 / The First president of Taiwanese American Citizen League (TA](https://taiwaneseamericanhistory.org/26-li-pei-wu-the-first-president-of-taiwanese-american-citizen-league-tacl-1985/)
+- [TAH #628 encyclopedia: 628. Li-Pei Wu 吳澧培](https://taiwaneseamericanhistory.org/whos-who-628-li-pei-wu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/li-pei-wu/)
 
 ## Family

@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1191 encyclopedia: 1191. Chun-Nan Hsu 許鈞南 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1191/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chun-nan-hsu/)
 
 ## Related Pages

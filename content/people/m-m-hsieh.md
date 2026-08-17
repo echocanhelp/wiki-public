@@ -26,6 +26,7 @@ M. M. Hsieh (謝玫玫) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1574 encyclopedia: 1574. M. M. Hsieh 謝玫玫 / 2017/03](https://taiwaneseamericanhistory.org/whoswho1574/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/m-m-hsieh/)
 
 ## Related Pages

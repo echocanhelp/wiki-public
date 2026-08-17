@@ -26,6 +26,7 @@ President of the San Diego chapter of the Taiwanese Chamber of Commerce (台灣�
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1519 encyclopedia: 1519. J. P. Lee 李金波/ 2017/02](https://taiwaneseamericanhistory.org/whoswho1519/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/j-p-lee/)
 
 ## Related Pages

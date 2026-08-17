@@ -53,3 +53,5 @@
 {"ts": "2026-08-17T07:01:28Z", "status": "hit", "query": "Gene Tsai", "slug": "gene-tsai", "source": "telegram", "kind": "person"}
 {"ts": "2026-08-17T07:57:00Z", "status": "hit", "query": "Jensen Huang", "slug": "jensen-huang", "source": "cli", "kind": "person"}
 {"ts": "2026-08-17T07:57:01Z", "status": "hit", "query": "黃仁勳", "slug": "jensen-huang", "source": "cli", "kind": "person"}
+{"ts": "2026-08-17T14:19:28Z", "status": "hit", "query": "Jensen Huang", "slug": "jensen-huang", "source": "cli", "kind": "person"}
+{"ts": "2026-08-17T14:19:29Z", "status": "hit", "query": "蘇姿丰", "slug": "lisa-su", "source": "cli", "kind": "person"}

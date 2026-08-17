@@ -26,6 +26,7 @@ Robert Chung (鐘博盈) is listed in the TAH Foundation Who’s Who Taiwanese A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1411 encyclopedia: 1411. Robert Chung 鐘博盈 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1411/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/robert-chung/)
 
 ## Related Pages

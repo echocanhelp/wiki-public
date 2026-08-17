@@ -26,6 +26,7 @@ Min-Jen Chen (陳明真) is listed in the TAH Foundation Who’s Who Taiwanese A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #639 encyclopedia: 639. Min-Jen Chen 陳明真 / 2015/09](https://taiwaneseamericanhistory.org/639-min-jen-chen-%e9%99%b3%e6%98%8e%e7%9c%9f-201509/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/min-jen-chen/)
 
 ## Related Pages

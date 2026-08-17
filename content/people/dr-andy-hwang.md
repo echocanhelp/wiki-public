@@ -27,6 +27,7 @@ Food Technology Researcher
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2286 encyclopedia: 2286. Dr. Andy Hwang 黃慶安博士](https://taiwaneseamericanhistory.org/whos-who-2286-andy-hwang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-andy-hwang/)
 
 ## Related Pages

@@ -29,6 +29,10 @@ Jason Chang, President of North America Pastel Artists Association, board member
 
 
 ## Sources
+- [TAH #30 encyclopedia: 30. Jason Chang 張哲雄](https://taiwaneseamericanhistory.org/30-jason-chang/)
+- [TAH #18 encyclopedia: 18. 張哲雄-林肯中心聯展 08/1999](https://taiwaneseamericanhistory.org/art-show-18/)
+- [TAH #180 encyclopedia: 180. Jason Chang 張哲雄](https://taiwaneseamericanhistory.org/whos-who-180-jason-chang/)
+- [TAH #1 encyclopedia: 1. 張哲雄 Jason Chang](https://taiwaneseamericanhistory.org/artist1-jason-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jason-chang/)
 
 ## Related Pages

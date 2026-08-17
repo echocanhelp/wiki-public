@@ -26,6 +26,7 @@ Henry Tseng (曾恆利) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1069 encyclopedia: 1069. Henry Tseng 曾恆利 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1068/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/henry-tseng/)
 
 ## Related Pages

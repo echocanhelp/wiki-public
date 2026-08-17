@@ -26,6 +26,8 @@ Yang Yang (楊陽) is listed in the TAH Foundation Who’s Who Taiwanese America
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1568 encyclopedia: 1568. Yang Yang 楊陽 / 2017/03](https://taiwaneseamericanhistory.org/whoswho1568/)
+- [TAH #836 encyclopedia: 836. Yang Yang 楊陽 / 02/2016](https://taiwaneseamericanhistory.org/836-yang-yang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yang-yang/)
 
 ## Related Pages

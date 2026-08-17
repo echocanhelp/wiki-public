@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #260 encyclopedia: 260. Mengchih Chiang 江孟芝](https://taiwaneseamericanhistory.org/ota-260/)
+- [TAH #2169 encyclopedia: 2169. Meng Chih Chiang 江孟芝](https://taiwaneseamericanhistory.org/whos-who-2169-meng-chih-chiang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/meng-chih-chiang/)
 
 ## Related Pages

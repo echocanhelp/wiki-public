@@ -29,6 +29,7 @@ Nat Bellocchi (白樂崎) is listed in the TAH Foundation Who’s Who Taiwanese 
 
 
 ## Sources
+- [TAH #839 encyclopedia: 839. Nat Bellocchi 白樂崎 / 02/2016](https://taiwaneseamericanhistory.org/who839-nat-bellocchi/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/nat-bellocchi/)
 
 ## Related Pages

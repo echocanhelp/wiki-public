@@ -27,6 +27,9 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #182 encyclopedia: 182. Dr. Ju-Cheng Lee 李汝城醫師](https://taiwaneseamericanhistory.org/182-dr-ju-cheng-lee/)
+- [TAH #217 encyclopedia: 217. Dr. Ju-Cheng Lee 李汝城醫師 / The first president of Ghee-Lan Association 宜蘭同鄉會](https://taiwaneseamericanhistory.org/217-dr-ju-cheng-lee/)
+- [TAH #32 encyclopedia: 32. Dr. Ju-Cheng Lee 李汝城醫師](https://taiwaneseamericanhistory.org/whos-who-32-ju-cheng-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-ju-cheng-lee/)
 
 ## Related Pages

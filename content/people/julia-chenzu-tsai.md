@@ -26,6 +26,7 @@ Julia Chenzu Tsai (蔡茜如) is listed in the TAH Foundation Who’s Who Taiwan
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1606 encyclopedia: 1606. Julia Chenzu Tsai 蔡茜如 / 2017/04](https://taiwaneseamericanhistory.org/whosho1606/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/julia-chenzu-tsai/)
 
 ## Related Pages

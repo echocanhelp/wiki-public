@@ -27,6 +27,7 @@ Dr. Richard Yu-Tsang Lin 林譽蒼 – History of Taiwanese American (T.A. Archi
 
 
 ## Sources
+- [TAH #2300 encyclopedia: 2300. Dr. Richard Yu-Tsang Lin 林譽蒼](https://taiwaneseamericanhistory.org/whos-who-2300-richard-yu-tsang-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-richard-yu-tsang-lin/)
 
 ## Related Pages

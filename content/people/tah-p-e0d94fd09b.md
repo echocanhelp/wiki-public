@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #560 encyclopedia: 560. 陳西園 / 2015/08](https://taiwaneseamericanhistory.org/560-%e9%99%b3%e8%a5%bf%e5%9c%92-201508/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e9%99%b3%e8%a5%bf%e5%9c%92/)
 
 ## Related Pages

@@ -27,6 +27,7 @@ Head of Production Department
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2247 encyclopedia: 2247. Dr. Alex Hung 洪克璿博士](https://taiwaneseamericanhistory.org/whos-who-2247-alex-hung/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-alex-hung/)
 
 ## Related Pages

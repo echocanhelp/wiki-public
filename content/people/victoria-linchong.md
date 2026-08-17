@@ -26,6 +26,7 @@ Victoria Linchong (林鍾維春) is listed in the TAH Foundation Who’s Who Tai
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1466 encyclopedia: 1466. Victoria Linchong 林鍾維春 / 2017/01](https://taiwaneseamericanhistory.org/whoswho1466/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/victoria-linchong/)
 
 ## Related Pages

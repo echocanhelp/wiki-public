@@ -29,6 +29,8 @@ Prof. W.S. (William) Wei 魏武雄教授 – History of Taiwanese American (T.A.
 
 
 ## Sources
+- [TAH #131 encyclopedia: 131. Prof. W.S. (William) Wei 魏武雄教授](https://taiwaneseamericanhistory.org/131-prof-w-s-william-wei/)
+- [TAH #632 encyclopedia: 632. Prof. W.S. (William) Wei 魏武雄教授](https://taiwaneseamericanhistory.org/whos-who-632-w-s-wei/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-w-s-william-wei/)
 
 ## Related Pages

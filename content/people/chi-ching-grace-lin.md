@@ -26,6 +26,8 @@ Taiwanese percussionist Chi-Ching Grace Lin maintains a varied chamber music and
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #408 encyclopedia: 408. Chi-Ching Grace Lin 林季靜 / 2015/05](https://taiwaneseamericanhistory.org/408-chi-ching-grace-lin-%e6%9e%97%e5%ad%a3%e9%9d%9c-201505/)
+- [TAH #93 encyclopedia: 93. Chi-Ching Grace Lin 林季靜, Percussionist/2014/12](https://taiwaneseamericanhistory.org/93-chi-ching-grace-lin-%e6%9e%97%e5%ad%a3%e9%9d%9c-percussionist/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chi-ching-grace-lin/)
 
 ## Related Pages

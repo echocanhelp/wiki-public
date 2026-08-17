@@ -28,6 +28,7 @@ Research Investigator
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2147 encyclopedia: 2147. Dr. Hui-Ling Chen 陳慧玲博士](https://taiwaneseamericanhistory.org/whos-who-2147-hui-ling-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-hui-ling-chen/)
 
 ## Related Pages

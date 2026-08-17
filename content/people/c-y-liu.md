@@ -27,6 +27,7 @@ C. Y. Liu (劉晴吟) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 
 
 ## Sources
+- [TAH #1160 encyclopedia: 1160. C. Y. Liu  劉晴吟 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1160/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-y-liu/)
 
 ## Related Pages

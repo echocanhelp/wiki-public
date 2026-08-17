@@ -26,6 +26,7 @@ Y. S. Chen (陳雨辛) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #989 encyclopedia: 989. Y. S. Chen 陳雨辛 / 2016/05](https://taiwaneseamericanhistory.org/whoswho989/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/y-s-chen/)
 
 ## Related Pages

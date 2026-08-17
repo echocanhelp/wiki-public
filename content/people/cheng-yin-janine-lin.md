@@ -26,6 +26,7 @@ Dr. Cheng-Yin (Janine) Lin 林政穎博士 – History of Taiwanese American (T.
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2063 encyclopedia: 2063. Dr. Cheng-Yin (Janine) Lin 林政穎博士](https://taiwaneseamericanhistory.org/whos-who2063-cheng-yin-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/cheng-yin-janine-lin/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ Jonathan Yu (余裕義) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1331 encyclopedia: 1331. Jonathan Yu 余裕義 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1331/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jonathan-yu/)
 
 ## Related Pages

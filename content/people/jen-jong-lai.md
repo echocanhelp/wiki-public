@@ -31,6 +31,7 @@ Jen-Jong Lai (賴振榮) is listed in the TAH Foundation Who’s Who Taiwanese A
 
 
 ## Sources
+- [TAH #349 encyclopedia: 349. Jen-Jong Lai 賴振榮/2015/03](https://taiwaneseamericanhistory.org/349-jen-jong-lai-%e8%b3%b4%e6%8c%af%e6%a6%ae201503/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jen-jong-lai/)
 
 ## Related Pages

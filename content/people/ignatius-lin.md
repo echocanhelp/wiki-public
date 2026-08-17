@@ -26,6 +26,7 @@ Ignatius Lin (林上翔) is listed in the TAH Foundation Who’s Who Taiwanese A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1291 encyclopedia: 1291. Ignatius Lin 林上翔/ 2016/09](https://taiwaneseamericanhistory.org/whoswho1291/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ignatius-lin/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ I-Uen Wang Hwang was born in Tainan, Taiwan and moved to the United States in 19
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #232 encyclopedia: 232. I-Uen Wang Hwang 王怡雯 /2015/01](https://taiwaneseamericanhistory.org/232-i-uen-wang-hwang-%e7%8e%8b%e6%80%a1%e9%9b%af-201501/)
+- [TAH #59 encyclopedia: 59. I-Uen Wang Hwang 王怡雯, Composer](https://taiwaneseamericanhistory.org/59-i-uen-wang-hwang-composer/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/i-uen-wang-hwang/)
 
 ## Related Pages

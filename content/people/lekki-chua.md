@@ -29,6 +29,9 @@ Accomplishment
 
 
 ## Sources
+- [TAH #246 encyclopedia: 246. Lekki Chua 蔡烈輝](https://taiwaneseamericanhistory.org/ota-246/)
+- [TAH #51 encyclopedia: 51. 蔡烈輝 Lekki Chua /2015/07](https://taiwaneseamericanhistory.org/artist51-lekki-chua/)
+- [TAH #485 encyclopedia: 485. Lekki Chua 蔡烈輝](https://taiwaneseamericanhistory.org/whos-who-lekki-chua/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/lekki-chua/)
 
 ## Related Pages

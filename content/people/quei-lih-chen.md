@@ -26,6 +26,8 @@ Pianist Quei-Lih Chen, a native of Tainan, Taiwan, made her first public appeara
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #419 encyclopedia: 419. Quei-Lih Chen 陳瑰麗 / 2015/05](https://taiwaneseamericanhistory.org/419-quei-lih-chen-%e9%99%b3%e7%91%b0%e9%ba%97-201505/)
+- [TAH #54 encyclopedia: 54. Quei-Lih Chen 陳瑰麗, Pianist/2014/10](https://taiwaneseamericanhistory.org/54-quei-lih-chen-%e9%99%b3%e7%91%b0%e9%ba%97-piano/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/quei-lih-chen/)
 
 ## Related Pages

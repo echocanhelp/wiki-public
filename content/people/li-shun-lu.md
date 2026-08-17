@@ -31,6 +31,7 @@ Senior Staff Engineer to Engineering Consultant
 
 
 ## Sources
+- [TAH #1080 encyclopedia: 1080. Li-Shun Lu 呂理順 /2016/06](https://taiwaneseamericanhistory.org/whos1080-li-shun-lu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/li-shun-lu/)
 
 ## Related Pages

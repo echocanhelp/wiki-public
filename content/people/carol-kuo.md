@@ -27,6 +27,7 @@ Carol Kuo (簡雁齡) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 
 
 ## Sources
+- [TAH #2259 encyclopedia: 2259. Carol Kuo 簡雁齡](https://taiwaneseamericanhistory.org/whos-who-2259-carol-kuo/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/carol-kuo/)
 
 ## Related Pages

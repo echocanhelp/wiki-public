@@ -26,6 +26,8 @@ Taiwanese pianist Li-Ying Chang graduated with a Master of Music in Piano Perfor
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1206 encyclopedia: 1206. Li-Ying Chang  張理盈 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1206/)
+- [TAH #353 encyclopedia: 353. Li-Ying Chang張理盈, Pianist / 2016/08](https://taiwaneseamericanhistory.org/musician353/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/li-ying-chang/)
 
 ## Related Pages

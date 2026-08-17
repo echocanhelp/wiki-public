@@ -26,6 +26,7 @@ Michael Luo (羅明瀚) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1319 encyclopedia: 1319.  Michael Luo 羅明瀚 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1319/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/michael-luo/)
 
 ## Related Pages

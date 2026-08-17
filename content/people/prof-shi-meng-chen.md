@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1259 encyclopedia: 1259. Prof. Shi-Meng Chen 陳師孟教授 /08/2016](https://taiwaneseamericanhistory.org/whos-who-1259-shi-meng-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-shi-meng-chen/)
 
 ## Related Pages

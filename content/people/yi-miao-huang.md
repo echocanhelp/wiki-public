@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #22 encyclopedia: 22. Yi-Miao Huang 黃怡妙](https://taiwaneseamericanhistory.org/22-welly-yang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yi-miao-huang/)
 
 ## Related Pages

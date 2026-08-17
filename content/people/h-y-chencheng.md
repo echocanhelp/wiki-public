@@ -26,6 +26,7 @@ H. Y. ChenCheng (陳鄭弘堯) is listed in the TAH Foundation Who’s Who Taiwa
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1888 encyclopedia: 1888. H. Y. ChenCheng 陳鄭弘堯 / 09/2017](https://taiwaneseamericanhistory.org/whoswho1888/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/h-y-chencheng/)
 
 ## Related Pages

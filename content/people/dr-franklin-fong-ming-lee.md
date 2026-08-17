@@ -28,6 +28,7 @@ Dr. Franklin Fong-Ming Lee 李豐明博士 – History of Taiwanese American (T.
 
 
 ## Sources
+- [TAH #1780 encyclopedia: 1780. Dr. Franklin Fong-Ming Lee 李豐明博士](https://taiwaneseamericanhistory.org/whos-who-1780-franklin-fong-ming-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-franklin-fong-ming-lee/)
 
 ## Related Pages

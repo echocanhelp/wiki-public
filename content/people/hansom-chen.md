@@ -26,6 +26,7 @@ Hansom Chen (陳翰申) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1547 encyclopedia: 1547. Hansom Chen 陳翰申 / 2017/03](https://taiwaneseamericanhistory.org/whoswho1547/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hansom-chen/)
 
 ## Related Pages

@@ -29,6 +29,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #1736 encyclopedia: 1736. Dr. Chien Yuan Kao 高健元博士](https://taiwaneseamericanhistory.org/whos-who-1736-chien-yuan-kao/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-chien-yuan-kao/)
 
 ## Related Pages

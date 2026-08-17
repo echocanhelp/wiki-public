@@ -26,6 +26,8 @@ Dr. Wei-Yang Andy Lin 林維洋博士 – History of Taiwanese American (T.A. Ar
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #218 encyclopedia: 218. Dr. Wei-Yang Andy Lin 林維洋博士](https://taiwaneseamericanhistory.org/218/)
+- [TAH #504 encyclopedia: 504. Dr. Wei-Yang Andy Lin 林維洋博士](https://taiwaneseamericanhistory.org/whos-who-504-wei-yang-andy-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-wei-yang-andy-lin/)
 
 ## Related Pages

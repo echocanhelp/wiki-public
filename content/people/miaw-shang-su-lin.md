@@ -27,6 +27,8 @@ Miaw Shang Su Lin (林蘇妙香) is listed in the TAH Foundation Who’s Who Tai
 
 
 ## Sources
+- [TAH #1107 encyclopedia: 1107. Miaw Shang Su Lin 林蘇妙香 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1107/)
+- [TAH #290 encyclopedia: 290. Mrs. Miaw-Shang Su Lin (林蘇妙香) / A Taiwanese American bravely fought many il](https://taiwaneseamericanhistory.org/ff290/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/miaw-shang-su-lin/)
 
 ## Related Pages

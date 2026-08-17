@@ -29,6 +29,7 @@ Hoyuan Liu (劉和元) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #2221 encyclopedia: 2221. Hoyuan Liu 劉和元](https://taiwaneseamericanhistory.org/whos-who-2221-hoyuan-liu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hoyuan-liu/)
 
 ## Related Pages

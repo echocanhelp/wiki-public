@@ -27,6 +27,7 @@ Member of Ad Hoc Grant Review Committee, National Institute of Health
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #773 encyclopedia: 773. Tun-Hou Lee 李敦厚 /2016/01](https://taiwaneseamericanhistory.org/773-tun-hou-lee-%e6%9d%8e%e6%95%a6%e5%8e%9a-201601/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tun-hou-lee/)
 
 ## Related Pages

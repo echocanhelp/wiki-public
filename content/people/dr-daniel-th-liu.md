@@ -28,6 +28,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #142 encyclopedia: 142. Dr. Daniel TH Liu 劉鼎秀博士](https://taiwaneseamericanhistory.org/142-dr-daniel-th-liu-%e5%8a%89%e9%bc%8e%e7%a7%80%e5%8d%9a%e5%a3%ab/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-daniel-th-liu/)
 
 ## Related Pages

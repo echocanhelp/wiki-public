@@ -28,6 +28,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #56 encyclopedia: 56. Fon-May Fan 樊豐美](https://taiwaneseamericanhistory.org/whos-who-56-fon-may-fan/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/fon-may-fan/)
 
 ## Related Pages

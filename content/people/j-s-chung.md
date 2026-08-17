@@ -26,6 +26,7 @@ J. S. Chung (鍾俊賢) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1555 encyclopedia: 1555. J. S. Chung 鍾俊賢 / 2017/03](https://taiwaneseamericanhistory.org/whoswho-1555/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/j-s-chung/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ K. C. Du (杜國清) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1145 encyclopedia: 1145. K. C. Du 杜國清 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1145/)
+- [TAH #27 encyclopedia: 27. 臺灣文學 – 杜國清Tu Kuo-Ching – 1996.01 – 文學](https://taiwaneseamericanhistory.org/27-%e8%87%ba%e7%81%a3%e6%96%87%e5%ad%b8-%e6%9d%9c%e5%9c%8b%e6%b8%85tu-kuo-ching-1996-01-%e6%96%87%e5%ad%b8/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/k-c-du/)
 
 ## Related Pages

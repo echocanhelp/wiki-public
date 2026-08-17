@@ -26,6 +26,8 @@ A native of Taiwan, Yi-Chiu Rachel Chao has performed in solo and collaborative 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #270 encyclopedia: 270. Yi-Chiu Rachel Chao 趙亦秋, Pianist / 2015/08](https://taiwaneseamericanhistory.org/270-yi-chiu-rachel-chao-%e8%b6%99%e4%ba%a6%e7%a7%8b-pianist-201508/)
+- [TAH #541 encyclopedia: 541. Rachel Chao 趙亦秋 / 2015/08](https://taiwaneseamericanhistory.org/541-rachel-chao-%e8%b6%99%e4%ba%a6%e7%a7%8b-201508/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rachel-chao/)
 
 ## Related Pages

@@ -28,6 +28,8 @@ Prof. Tien‐Sung (Tom) Lin 林天送教授 – History of Taiwanese American (T
 
 
 ## Sources
+- [TAH #34 encyclopedia: 34. Prof. Tien‐Sung Tom Lin 林天送教授](https://taiwaneseamericanhistory.org/34-prof-tien%e2%80%90sung-tom-lin/)
+- [TAH #1430 encyclopedia: 1430. Prof. Tien‐Sung (Tom) Lin 林天送教授](https://taiwaneseamericanhistory.org/whos-who-1430-tien-sung-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-tien-sung-tom-lin/)
 
 ## Related Pages

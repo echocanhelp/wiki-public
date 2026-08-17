@@ -29,6 +29,7 @@ Tse feng Chuang (莊澤豐) is listed in the TAH Foundation Who’s Who Taiwanes
 
 
 ## Sources
+- [TAH #979 encyclopedia: 979. Tse feng Chuang 莊澤豐 / 2016/05](https://taiwaneseamericanhistory.org/979-tse-feng-chuang-%e8%8e%8a%e6%be%a4%e8%b1%90-201605/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tse-feng-chuang/)
 
 ## Related Pages

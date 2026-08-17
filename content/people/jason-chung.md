@@ -26,6 +26,7 @@ Jason Chung (莊建雄) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1481 encyclopedia: 1481. Jason Chung 莊建雄 / 2017/01](https://taiwaneseamericanhistory.org/whoswho1481/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jason-chung/)
 
 ## Related Pages

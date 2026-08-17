@@ -27,6 +27,8 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #152 encyclopedia: 152. Dr. Chiu-shan Chen 陳秋山博士](https://taiwaneseamericanhistory.org/152-dr-chiu-shan-chen/)
+- [TAH #290 encyclopedia: 290. Dr. Chiu-Shan Chen 陳秋山博士](https://taiwaneseamericanhistory.org/whos-who-290-chiu-shan-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-chiu-shan-chen/)
 
 ## Related Pages

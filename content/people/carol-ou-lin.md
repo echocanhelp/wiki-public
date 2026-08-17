@@ -28,6 +28,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #129 encyclopedia: 129.  Carol Ou Lin 歐春美](https://taiwaneseamericanhistory.org/ota-129/)
+- [TAH #847 encyclopedia: 847. Carol Ou Lin 歐春美](https://taiwaneseamericanhistory.org/whos-who-847-carol-ou-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/carol-ou-lin/)
 
 ## Related Pages

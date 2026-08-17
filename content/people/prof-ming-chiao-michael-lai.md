@@ -28,6 +28,8 @@ Prof. Ming-Chiao (Michael) Lai 賴明詔教授 – History of Taiwanese American
 
 
 ## Sources
+- [TAH #94 encyclopedia: 94. Prof. Ming-Chiao (Michael) Lai 賴明詔教授](https://taiwaneseamericanhistory.org/94-prof-ming-chiao-michael-lai/)
+- [TAH #370 encyclopedia: 370. Prof. Ming-Chiao (Michael) Lai 賴明詔教授](https://taiwaneseamericanhistory.org/whos-who-370-ming-chiao-lai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-ming-chiao-michael-lai/)
 
 ## Related Pages

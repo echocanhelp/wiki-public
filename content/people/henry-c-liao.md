@@ -27,6 +27,7 @@ Henry C Liao (廖政森) is listed in the TAH Foundation Who’s Who Taiwanese A
 
 
 ## Sources
+- [TAH #995 encyclopedia: 995.  Henry C Liao 廖政森 / 2016/05](https://taiwaneseamericanhistory.org/whoswho905/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/henry-c-liao/)
 
 ## Related Pages

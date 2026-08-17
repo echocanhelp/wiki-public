@@ -27,6 +27,9 @@ Elizabeth S. Chen was born in Kaohsiung, Taiwan in 1944. She was graduated from 
 
 
 ## Sources
+- [TAH #61 encyclopedia: 61. 乘著歌聲的翅膀 李秀麗，賴美芬聯合音樂會 by 李秀麗，賴美芬, Santa Ana, CA on 02/28/1998](https://taiwaneseamericanhistory.org/concerts61/)
+- [TAH #278 encyclopedia: 278. Elizabeth S. Chen 李秀麗 / 2015/02](https://taiwaneseamericanhistory.org/278-elizabeth-s-chen-%e6%9d%8e%e7%a7%80%e9%ba%97-201502/)
+- [TAH #61 encyclopedia: 61. Elizabeth S. Chen 李秀麗, Vocalist/2014/10](https://taiwaneseamericanhistory.org/61-elizabeth-s-chen-%e6%9d%8e%e7%a7%80%e9%ba%97-vocalist/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/elizabeth-s-chen/)
 
 ## Related Pages

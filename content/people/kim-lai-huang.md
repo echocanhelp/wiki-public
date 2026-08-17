@@ -26,6 +26,7 @@ Kim Lai Huang (黃金來) is listed in the TAH Foundation Who’s Who Taiwanese 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #725 encyclopedia: 725. Kim Lai Huang 黃金來 / 2015/12](https://taiwaneseamericanhistory.org/725-kim-lai-huang-%e9%bb%83%e9%87%91%e4%be%86-201512/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kim-lai-huang/)
 
 ## Related Pages

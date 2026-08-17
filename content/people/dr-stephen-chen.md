@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1690 encyclopedia: 1690. Dr. Stephen Chen 陳貞華博士](https://taiwaneseamericanhistory.org/whos-who-1690-stephen-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-stephen-chen/)
 
 ## Related Pages

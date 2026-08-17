@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1633 encyclopedia: 1633. Prof. Jin-Tan Liu 劉錦添教授](https://taiwaneseamericanhistory.org/whos-who-1633-jin-tan-liu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-jin-tan-liu/)
 
 ## Related Pages

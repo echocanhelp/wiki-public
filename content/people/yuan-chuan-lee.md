@@ -28,6 +28,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #598 encyclopedia: 598. Yuan Chuan Lee 李遠川 /2015/09](https://taiwaneseamericanhistory.org/598-yuan-chuan-lee-%e6%9d%8e%e9%81%a0%e5%b7%9d-201509/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yuan-chuan-lee/)
 
 ## Related Pages

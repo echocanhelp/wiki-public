@@ -27,6 +27,7 @@ W. Y. Chou (周婉窈) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #1198 encyclopedia: 1198. W. Y. Chou 	 周婉窈 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1198/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/w-y-chou/)
 
 ## Related Pages

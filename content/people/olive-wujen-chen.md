@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #747 encyclopedia: 747. Olive WuJen Chen  吳箴 / 2015/12](https://taiwaneseamericanhistory.org/747-olive-wujen-chen-%e5%90%b3%e7%ae%b4-201512/)
+- [TAH #323 encyclopedia: 323. Olive WuJen Chen 吳箴, Cellist / 2015/12](https://taiwaneseamericanhistory.org/323-olive-wujen-chen-%e5%90%b3%e7%ae%b4-cellist/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/olive-wujen-chen/)
 
 ## Related Pages

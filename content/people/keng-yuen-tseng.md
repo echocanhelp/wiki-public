@@ -26,6 +26,8 @@ A native of Taiwan, Keng-Yuen Tseng began studying the violin at the age of five
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #224 encyclopedia: 224. Keng-Yuen Tseng 曾耿元,Violinist / 2015/06](https://taiwaneseamericanhistory.org/224-keng-yuen-tseng-%e6%9b%be%e8%80%bf%e5%85%83-201506/)
+- [TAH #464 encyclopedia: 464. Keng-Yuen Tseng 曾耿元 /2015/06](https://taiwaneseamericanhistory.org/464-keng-yuen-tseng-%e6%9b%be%e8%80%bf%e5%85%83-201506/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/keng-yuen-tseng/)
 
 ## Related Pages

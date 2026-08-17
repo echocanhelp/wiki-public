@@ -27,6 +27,7 @@ Ye-Ming Wu (吳怡明) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #1184 encyclopedia: 1184. Ye-Ming Wu 吳怡明 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1184/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ye-ming-wu/)
 
 ## Related Pages

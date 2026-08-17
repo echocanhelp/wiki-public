@@ -30,6 +30,9 @@ Accomplishment
 
 
 ## Sources
+- [TAH #14 encyclopedia: 14. Dr. Mu-Sheng Wu (吳木盛博士)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-14/)
+- [TAH #74 encyclopedia: 74. Dr. Mu-Sheng Wu 吳木盛博士 / The first retiree from his professional career / 198](https://taiwaneseamericanhistory.org/ff74/)
+- [TAH #36 encyclopedia: 36. Dr. Mu-Sheng Wu 吳木盛博士](https://taiwaneseamericanhistory.org/whos-who-36-mu-sheng-wu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-mu-sheng-wu/)
 
 ## Related Pages

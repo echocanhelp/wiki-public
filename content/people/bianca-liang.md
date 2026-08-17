@@ -26,6 +26,8 @@ Born in the United States, grow up in Taiwan, Bianca Liang started her musical t
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #317 encyclopedia: 317. Bianca Liang 梁沁茵/2015/03](https://taiwaneseamericanhistory.org/317-bianca-liang-%e6%a2%81%e6%b2%81%e8%8c%b5201503/)
+- [TAH #156 encyclopedia: 156. Bianca Liang梁沁茵, Pianist/2015/02](https://taiwaneseamericanhistory.org/156-bianca-liang%e6%a2%81%e6%b2%81%e8%8c%b5-pianist201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/bianca-liang/)
 
 ## Related Pages

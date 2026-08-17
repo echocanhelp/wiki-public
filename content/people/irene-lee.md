@@ -26,6 +26,8 @@ Irene Lee, is a composer, soprano, performer, and voice teacher. She attended Ma
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1110 encyclopedia: 1110.   Irene Lee 李智惠 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1110/)
+- [TAH #47 encyclopedia: 47. Irene Lee 李智惠, Soprano/2014/10](https://taiwaneseamericanhistory.org/musician47/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/irene-lee/)
 
 ## Related Pages

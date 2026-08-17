@@ -28,6 +28,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #845 encyclopedia: 845. Judy Hsin-Chen Tsai 蔡幸珍 / 2016/02](https://taiwaneseamericanhistory.org/845-judy-hsin-chen-tsai-201602/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/judy-hsin-chen-tsai/)
 
 ## Related Pages

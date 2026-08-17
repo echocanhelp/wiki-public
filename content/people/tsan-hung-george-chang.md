@@ -29,6 +29,7 @@ Tsan-hung George Chang 張燦鍙 – History of Taiwanese American (T.A. Archive
 
 
 ## Sources
+- [TAH #56 encyclopedia: 56. Professor George Chang 張燦鍙教授 / The longest president of World United Formosa](https://taiwaneseamericanhistory.org/56-professor-george-chang-the-longest-president-of-world-united-formosans/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tsan-hung-george-chang/)
 
 ## Related Pages

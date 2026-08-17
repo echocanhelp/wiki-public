@@ -27,6 +27,7 @@ Heng-Liong Lin (林興隆) is listed in the TAH Foundation Who’s Who Taiwanese
 
 
 ## Sources
+- [TAH #897 encyclopedia: 897. Heng-Liong Lin 林興隆/ 2016/03](https://taiwaneseamericanhistory.org/897-heng-liong-lin-%e6%9e%97%e8%88%88%e9%9a%86-201603/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/heng-liong-lin/)
 
 ## Related Pages

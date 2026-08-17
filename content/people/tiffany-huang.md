@@ -9,7 +9,7 @@ tags:
   - director
 verification_status: pending
 featured: true
-last_reviewed: 2026-07-19
+last_reviewed: 2026-08-17
 ---
 # Tiffany Huang (黃咏婷)
 
@@ -65,6 +65,7 @@ Before "Moment," Tiffany had previously created work for church/missionary group
 - **Note:** The full text includes detailed biographical information including education, National Geographic project details, and previous work.
 
 ## Sources
+- [TAH #1761 encyclopedia: 1761. Tiffany Frances Huang 黃咏婷](https://taiwaneseamericanhistory.org/whos-who-1761-tiffany-frances-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tiffany-frances-huang/)
 
 ## Family

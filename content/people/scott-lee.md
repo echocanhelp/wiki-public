@@ -26,6 +26,8 @@ Scott Lee has established himself as one of the most exciting and unique violist
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #568 encyclopedia: 568. Scott Lee 李捷琦 / 2015/09](https://taiwaneseamericanhistory.org/568-scott-lee-%e6%9d%8e%e6%8d%b7%e7%90%a6-201509/)
+- [TAH #285 encyclopedia: 285. Scott Lee 李捷琦， Viola  / 2015/09](https://taiwaneseamericanhistory.org/285-scott-lee-%e6%9d%8e%e6%8d%b7%e7%90%a6%ef%bc%8c-viola-201509/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/scott-lee/)
 
 ## Related Pages

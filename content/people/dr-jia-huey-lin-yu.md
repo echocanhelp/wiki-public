@@ -28,6 +28,7 @@ First President of Taiwanese American Seniors Society of Greater Washington, DC�
 
 
 ## Sources
+- [TAH #152 encyclopedia: 152. Dr. Jia-Huey Lin Yu 林佳惠博士](https://taiwaneseamericanhistory.org/whos-who-152-jia-huey-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-jia-huey-lin-yu/)
 
 ## Related Pages

@@ -29,6 +29,7 @@ NRC Senior Research Associate, Senior Microbiologist
 
 
 ## Sources
+- [TAH #829 encyclopedia: 829. Chiung-Hsiung Ou 歐炯雄 /02/2016](https://taiwaneseamericanhistory.org/who829-chiung-hsiung-ou/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chiung-hsiung-ou/)
 
 ## Related Pages

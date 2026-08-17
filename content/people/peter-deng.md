@@ -29,6 +29,7 @@ Peter Deng (鄧培德) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #1231 encyclopedia: 1231. Peter Deng 鄧培德 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1231/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/peter-deng/)
 
 ## Related Pages

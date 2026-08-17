@@ -9,7 +9,7 @@ tags:
 name_en: "Alan Thian"
 name_zh_hanzi: "田詒鴻"
 verification_status: pending
-last_reviewed: 2026-08-16
+last_reviewed: 2026-08-17
 source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
 ---
 # Alan Thian (田詒鴻)
@@ -129,8 +129,8 @@ Pages that link to **田詒鴻** (alan-thian):
 1. [[organizations/taiwan-center.md|taiwan-center]]
 
 ### Sources
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yee-phong-alan-thian/)
- (2)
+- [TAH #274 encyclopedia: 274. Yee Phong (Alan) Thian 田詒鴻](https://taiwaneseamericanhistory.org/ota-274/)
+- [TAH #1939 encyclopedia: 1939. Yee Phong (Alan) Thian 田詒鴻](https://taiwaneseamericanhistory.org/whos-who-1939-yee-phong-thian/) (2)
 
 1. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
 2. [[sources/taiwancenter-org.md|taiwancenter-org]]

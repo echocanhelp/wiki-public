@@ -27,6 +27,7 @@ Dr. B. S. Lu (呂邦雄醫師) is listed in the TAH Foundation Who’s Who Taiwa
 
 
 ## Sources
+- [TAH #2014 encyclopedia: 2014. Dr. B. S. Lu 呂邦雄醫師](https://taiwaneseamericanhistory.org/whos-who-2014-b-s-lu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-b-s-lu/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #359 encyclopedia: 359. Kai Wu 吳開智,Pianist / 09/2016](https://taiwaneseamericanhistory.org/musician359/)
+- [TAH #1265 encyclopedia: 1265. Kai Wu 吳開智 / 09/2016](https://taiwaneseamericanhistory.org/whoswho%e5%90%b3%e9%96%8b%e6%99%ba/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kai-wu/)
 
 ## Related Pages

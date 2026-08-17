@@ -29,6 +29,7 @@ Hsien-Ching Ko (柯賢清) is listed in the TAH Foundation Who’s Who Taiwanese
 
 
 ## Sources
+- [TAH #1506 encyclopedia: 1506. Hsien-Ching Ko 柯賢清/ 2017/02](https://taiwaneseamericanhistory.org/whoswho1506/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hsien-ching-ko/)
 
 ## Related Pages

@@ -27,6 +27,7 @@ H. F. Josephine Huang (黃河芬) is listed in the TAH Foundation Who’s Who Ta
 
 
 ## Sources
+- [TAH #1167 encyclopedia: 1167. H. F. Josephine Huang 黃河芬 / 2016/07](https://taiwaneseamericanhistory.org/whos-h-f-josephine-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/h-f-josephine-huang/)
 
 ## Related Pages

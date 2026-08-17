@@ -28,6 +28,7 @@ Chinying (Rachel) Chang 張金鶯 – History of Taiwanese American (T.A. Archiv
 
 
 ## Sources
+- [TAH #129 encyclopedia: 129. Chinying (Rachel) Chang 張金鶯](https://taiwaneseamericanhistory.org/129-chinying-rachel-chang-%e5%bc%b5%e9%87%91%e9%b6%af/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chinying-rachel-chang/)
 
 ## Related Pages

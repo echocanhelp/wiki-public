@@ -27,6 +27,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #1848 encyclopedia: 1848. James David King 王振明 / 08/2017](https://taiwaneseamericanhistory.org/whoswho1848/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/james-david-king/)
 
 ## Related Pages

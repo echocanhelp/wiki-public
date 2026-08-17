@@ -26,6 +26,8 @@ BEN HONG joined the Los Angeles Philharmonic in 1993, at age 24, making him the 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #309 encyclopedia: 309. Ben Hong 洪本倫, Cellist  / 2015/10](https://taiwaneseamericanhistory.org/309-ben-hong-%e6%b4%aa%e6%9c%ac%e5%80%ab-cellist-201510/)
+- [TAH #683 encyclopedia: 683. Ben Hong 洪本倫 / 2015/10](https://taiwaneseamericanhistory.org/609-ben-hong-%e6%b4%aa%e6%9c%ac%e5%80%ab-201510/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ben-hong/)
 
 ## Related Pages

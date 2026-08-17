@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #730 encyclopedia: 730. Winnie Chiu 藍月卿 / 2015/12](https://taiwaneseamericanhistory.org/730-winnie-chiu-%e8%97%8d%e6%9c%88%e5%8d%bf-201512/)
+- [TAH #320 encyclopedia: 320. Winnie Chiu 藍月卿, Pianist / 2015/12](https://taiwaneseamericanhistory.org/320-winnie-chiu-%e8%97%8d%e6%9c%88%e5%8d%bf-pianist-201512/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/winnie-chiu/)
 
 ## Related Pages

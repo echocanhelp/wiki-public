@@ -28,6 +28,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #1865 encyclopedia: 1865. A. N. Liu 劉安諾](https://taiwaneseamericanhistory.org/whos-who-1865-a-n-liu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/a-n-liu/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ Jason Huang (黃仁宗) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1682 encyclopedia: 1682. Jason Huang 黃仁宗 / 05/2017](https://taiwaneseamericanhistory.org/whoswho1682/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jason-huang/)
 
 ## Related Pages

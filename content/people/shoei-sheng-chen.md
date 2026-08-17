@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #750 encyclopedia: 750. Shoei-Sheng Chen 陳水生 / 2015/12](https://taiwaneseamericanhistory.org/750-shoei-sheng-chen-%e9%99%b3%e6%b0%b4%e7%94%9f-201512/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shoei-sheng-chen/)
 
 ## Related Pages

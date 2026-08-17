@@ -26,6 +26,8 @@ Mavis Hsieh, soprano. Winner of several vocal competitions, Miss Hsieh also has 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #323 encyclopedia: 323. Mavis Hsieh 謝孟潔 / 2015/03](https://taiwaneseamericanhistory.org/323-mavis-hsieh-%e8%ac%9d%e5%ad%9f%e6%bd%94/)
+- [TAH #166 encyclopedia: 166. Mavis Hsieh謝孟潔 , Soprano / 2015/03](https://taiwaneseamericanhistory.org/166-mavis-hsieh%e8%ac%9d%e5%ad%9f%e6%bd%94-soprano/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mavis-hsieh/)
 
 ## Related Pages

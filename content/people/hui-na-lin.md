@@ -26,6 +26,7 @@ Hui Na Lin (賴慧娜) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2320 encyclopedia: 2320. Hui Na Lin 賴慧娜](https://taiwaneseamericanhistory.org/whos-who-2320-hui-na-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hui-na-lin/)
 
 ## Related Pages

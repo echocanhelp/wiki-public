@@ -29,6 +29,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #1914 encyclopedia: 1914. Dr. Min-Hsiung Ko 柯敏雄醫師](https://taiwaneseamericanhistory.org/whos-who-1914-min-hsiung-ko/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-min-hsiung-ko/)
 
 ## Related Pages

@@ -28,6 +28,7 @@ Shui-Lian Fang (方廖水蓮) is listed in the TAH Foundation Who’s Who Taiwan
 
 
 ## Sources
+- [TAH #2167 encyclopedia: 2167. Shui-Lian Fang 方廖水蓮](https://taiwaneseamericanhistory.org/whos-who-2167-shui-lian-fang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shui-lian-fang/)
 
 ## Related Pages

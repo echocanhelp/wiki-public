@@ -26,6 +26,7 @@ Chenming Hu (胡正明) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1157 encyclopedia: 1157. Chenming Hu 胡正明 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1157/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chenming-hu/)
 
 ## Related Pages

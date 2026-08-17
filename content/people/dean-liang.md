@@ -26,6 +26,7 @@ ________________________________________________________________________________
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2206 encyclopedia: 2206. Dean Liang 梁基典 / 06/2019](https://taiwaneseamericanhistory.org/whoswho2206-dean-liang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dean-liang/)
 
 ## Related Pages

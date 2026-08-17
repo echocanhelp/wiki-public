@@ -26,6 +26,7 @@ David Yang (楊熾勳) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1539 encyclopedia: 1539. David Yang 楊熾勳 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1539/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/david-yang/)
 
 ## Related Pages

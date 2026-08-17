@@ -28,6 +28,11 @@ Accomplishment
 
 
 ## Sources
+- [TAH #28 encyclopedia: 28. Tsu-Yi Jay Loo (盧主義)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-28/)
+- [TAH #166 encyclopedia: 166. Tsu-Yi Jay Loo 盧主義](https://taiwaneseamericanhistory.org/166-tsu-yi-jay-loo/)
+- [TAH #208 encyclopedia: 208. The China Impasse—A Formosan View《中國死巷—台灣人的觀點》by 盧主義(筆名 李天福) / 第一篇台獨文章刊登在Fo](https://taiwaneseamericanhistory.org/ff208/)
+- [TAH #201 encyclopedia: 201. 盧主義 / The First President of United Formosans for Independence / 1958](https://taiwaneseamericanhistory.org/201-%e7%9b%a7%e4%b8%bb%e7%be%a9-the-first-president-of-united-formosans-for-independence-1958/)
+- [TAH #219 encyclopedia: 219. Tsu-Yi (Jay) Loo 盧主義](https://taiwaneseamericanhistory.org/whos-who-219-tsu-yi-loo/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tsu-yi-jay-loo/)
 
 ## Related Pages

@@ -27,6 +27,7 @@ Hanna Liao (周秀蘭) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #854 encyclopedia: 854. Hanna Liao周秀蘭 / 2016/06](https://taiwaneseamericanhistory.org/854-hanna-liao%e5%91%a8%e7%a7%80%e8%98%ad-201606/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hanna-liao/)
 
 ## Related Pages

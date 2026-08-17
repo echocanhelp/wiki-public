@@ -27,6 +27,7 @@ Diana Y Huang (黃玉桂) is listed in the TAH Foundation Who’s Who Taiwanese 
 
 
 ## Sources
+- [TAH #1042 encyclopedia: 1042. Diana Y Huang 黃玉桂 2016/05](https://taiwaneseamericanhistory.org/whoswho1042/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/diana-y-huang/)
 
 ## Related Pages

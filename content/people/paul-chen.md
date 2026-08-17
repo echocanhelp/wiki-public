@@ -9,7 +9,7 @@ tags:
 name_en: "Paul Chen"
 name_zh_hanzi: "陳柏宇"
 verification_status: pending
-last_reviewed: 2026-08-16
+last_reviewed: 2026-08-17
 source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
 ---
 # Paul Chen (陳柏宇)
@@ -188,6 +188,7 @@ Notable quotes and mentions of **陳柏宇** in Taiwan Justice articles:
 - `verification_status: pending` until member or officer review
 
 ## Sources
+- [TAH #1788 encyclopedia: 1788. Paul Y. Chen 陳柏宇](https://taiwaneseamericanhistory.org/whos-who-1788-paul-y-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/paul-chen/)
 
 ## Related Pages

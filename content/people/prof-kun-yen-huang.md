@@ -29,6 +29,9 @@ Accomplishment
 
 
 ## Sources
+- [TAH #12 encyclopedia: 12. Prof. Kun-Yen Huang (黃崑巖教授)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-12/)
+- [TAH #294 encyclopedia: 294. Prof. Kun-Yen Huang 黃崑巖教授](https://taiwaneseamericanhistory.org/ota-294/)
+- [TAH #828 encyclopedia: 828. Prof. Kun-Yen Huang 黃崑巖教授](https://taiwaneseamericanhistory.org/whos-who-828-kun-yen-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-kun-yen-huang/)
 
 ## Related Pages

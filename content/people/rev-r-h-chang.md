@@ -30,6 +30,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #142 encyclopedia: 142. In Memory of Rev. R. H. Chang, 張瑞雄牧師 生命的禮讚](https://taiwaneseamericanhistory.org/photo-albums-activities-142/)
+- [TAH #2227 encyclopedia: 2227. Rev. R. H. Chang 張瑞雄牧師](https://taiwaneseamericanhistory.org/whos-who-2227-r-h-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rev-r-h-chang/)
 
 ## Related Pages

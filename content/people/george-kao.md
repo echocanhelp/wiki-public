@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2241 encyclopedia: 2241. George Kao 高銘益/02/2020](https://taiwaneseamericanhistory.org/whoswho-2241/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/george-kao/)
 
 ## Related Pages

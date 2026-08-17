@@ -26,6 +26,8 @@ The American pianist, Sean Chen, was born in Florida, and grew up in the Los Ang
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #689 encyclopedia: 689. Sean Chen 陳宣堯 / 2015/11](https://taiwaneseamericanhistory.org/689-sean-chen-%e9%99%b3%e5%ae%a3%e5%a0%af-201511/)
+- [TAH #312 encyclopedia: 312. Sean Chen陳宣堯, Pianist / 2015/11](https://taiwaneseamericanhistory.org/312-sean-chen%e9%99%b3%e5%ae%a3%e5%a0%af-pianist-201511/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sean-chen/)
 
 ## Related Pages

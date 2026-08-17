@@ -26,6 +26,7 @@ W. S. Lee (李武雄) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1878 encyclopedia: 1878. W. S. Lee 李武雄 / 09/2017](https://taiwaneseamericanhistory.org/whoswh1878/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/w-s-lee/)
 
 ## Related Pages

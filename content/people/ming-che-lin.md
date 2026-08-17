@@ -29,6 +29,8 @@ Ming-che Lin (林明哲) is listed in the TAH Foundation Who’s Who Taiwanese A
 
 
 ## Sources
+- [TAH #587 encyclopedia: 587. 林明哲1991年闖關回到久別28年的台灣 / 林茗顯 /10/2017](https://taiwaneseamericanhistory.org/mystories587/)
+- [TAH #1099 encyclopedia: 1099. 林明哲 Ming-che Lin](https://taiwaneseamericanhistory.org/whos1099/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ming-che-lin/)
 
 ## Related Pages

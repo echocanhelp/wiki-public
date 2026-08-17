@@ -28,6 +28,7 @@ Journal of Research in Science Teaching (JRST) (SSCI)
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #952 encyclopedia: 952. Chun-Yen Chang 張俊彥 / 2016/04](https://taiwaneseamericanhistory.org/whoswho952/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chun-yen-chang/)
 
 ## Related Pages

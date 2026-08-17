@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #783 encyclopedia: 783. C. K. Lee 李世光  / 2016/01](https://taiwaneseamericanhistory.org/783-prof-c-k-lee-%e6%9d%8e%e4%b8%96%e5%85%89-201601/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-k-lee/)
 
 ## Related Pages

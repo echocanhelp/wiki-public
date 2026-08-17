@@ -26,6 +26,7 @@ M. R. Tsai (蔡滿榮) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1715 encyclopedia: 1715. M. R. Tsai 蔡滿榮 / 07/2017](https://taiwaneseamericanhistory.org/whoswho1715/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/m-r-tsai/)
 
 ## Related Pages

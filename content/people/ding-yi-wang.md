@@ -30,6 +30,8 @@ Ding Yi Wang (楊定一博士) is listed in the TAH Foundation Who’s Who Taiwa
 
 
 ## Sources
+- [TAH #105 encyclopedia: 105. Dr. Ding-I Yang 楊定一博士 / The youngest chairman of  a department at Rockefell](https://taiwaneseamericanhistory.org/105-dr-ding-i-yang-%e6%a5%8a%e5%ae%9a%e4%b8%80%e5%8d%9a%e5%a3%ab-the-youngest-chairman-of-a-department-at-rockefeller-university-new-york-at-age-of-27/)
+- [TAH #104 encyclopedia: 104. Dr. Ding-I Yang 楊定一博士 / Youngest Ph. D. holder : Biochemistry and Medical S](https://taiwaneseamericanhistory.org/104-dr-ding-i-yang-%e6%a5%8a%e5%ae%9a%e4%b8%80%e5%8d%9a%e5%a3%ab-youngest-ph-d-holder-biochemistry-and-medical-science-from-rockefeller-university-new-york-at-age-of-21/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ding-yi-wang/)
 
 ## Related Pages

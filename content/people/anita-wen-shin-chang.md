@@ -27,6 +27,7 @@ San Francisco’s School of the Arts, University High School, Department of Indi
 
 
 ## Sources
+- [TAH #141 encyclopedia: 141. Anita Wen-Shin Chang 張文馨](https://taiwaneseamericanhistory.org/141-anita-wen-shin-chang%e5%bc%b5%e6%96%87%e9%a6%a8/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/anita-wen-shin-chang/)
 
 ## Related Pages

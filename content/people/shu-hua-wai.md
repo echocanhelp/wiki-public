@@ -29,6 +29,7 @@ Shu Hua Wai (韋黃淑華) is listed in the TAH Foundation Who’s Who Taiwanese
 
 
 ## Sources
+- [TAH #593 encyclopedia: 593. Shu Hua Wai 韋黃淑華](https://taiwaneseamericanhistory.org/593-shu-hua-wai-%e9%9f%8b%e9%bb%83%e6%b7%91%e8%8f%af/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shu-hua-wai/)
 
 ## Related Pages

@@ -30,6 +30,9 @@ Accomplishment
 
 
 ## Sources
+- [TAH #2 encyclopedia: 2. Prof. T. Anthony Tu (杜祖健教授)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-2/)
+- [TAH #4 encyclopedia: 4. Prof. T. Anthony Tu 杜祖健教授](https://taiwaneseamericanhistory.org/4-prof-t-anthony-tu/)
+- [TAH #812 encyclopedia: 812. Prof. Anthony T. Tu 杜祖健教授](https://taiwaneseamericanhistory.org/whos-who-812-anthony-t-tu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/anthony-t-tu/)
 
 ## Related Pages

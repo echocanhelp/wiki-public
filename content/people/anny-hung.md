@@ -27,6 +27,8 @@ Won First Place for City Song Composition Competition in Kaohsiung, Taiwan and P
 
 
 ## Sources
+- [TAH #1227 encyclopedia: 1227. Anny Hung 洪磊螢 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1227/)
+- [TAH #149 encyclopedia: 149. Anne Hung 洪磊螢, Pianist/2015/02](https://taiwaneseamericanhistory.org/musician149/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/anny-hung/)
 
 ## Related Pages

@@ -29,6 +29,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #76 encyclopedia: 76. Prof. Gwo Jaw Wang  王國照教授](https://taiwaneseamericanhistory.org/76-prof-gwo-jaw-wang/)
+- [TAH #599 encyclopedia: 599. Prof. Gwo Jaw Wang 王國照教授](https://taiwaneseamericanhistory.org/whos-who-599-gwo-jaw-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-gwo-jaw-wang/)
 
 ## Related Pages

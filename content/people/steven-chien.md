@@ -27,6 +27,7 @@ Steven Chien (簡鳳孚) is listed in the TAH Foundation Who’s Who Taiwanese A
 
 
 ## Sources
+- [TAH #1275 encyclopedia: 1275. Steven Chien 簡鳳孚/ 09/2016](https://taiwaneseamericanhistory.org/whoswho1275/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/steven-chien/)
 
 ## Related Pages

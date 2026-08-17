@@ -27,6 +27,7 @@ Prof. Eva Y.H. P. Lee 潘玉華教授 – History of Taiwanese American (T.A. Ar
 
 
 ## Sources
+- [TAH #1796 encyclopedia: 1796. Prof. Eva Y.H. P. Lee 潘玉華教授](https://taiwaneseamericanhistory.org/whos-who-1796-eva-y-h-p-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-eva-y-h-p-lee/)
 
 ## Related Pages

@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1782 encyclopedia: 1782. Prof. Shung-Wu Lee 李雄武教授](https://taiwaneseamericanhistory.org/whos-who-1782-shung-wu-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-shung-wu-lee/)
 
 ## Related Pages

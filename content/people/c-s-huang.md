@@ -27,6 +27,7 @@ C. S. Huang (黃千洵) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #1391 encyclopedia: 1391. C. S. Huang 黃千洵 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1391/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-s-huang/)
 
 ## Related Pages

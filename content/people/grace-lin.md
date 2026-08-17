@@ -29,6 +29,7 @@ Grace Lin (吳瑞惠) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 
 
 ## Sources
+- [TAH #613 encyclopedia: 613. Grace Lin 吳瑞惠 / 2015/09](https://taiwaneseamericanhistory.org/613-grace-lin-%e5%90%b3%e7%91%9e%e6%83%a0-201509/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/grace-lin/)
 
 ## Related Pages

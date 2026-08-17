@@ -26,6 +26,8 @@ Born in 1954 at Qing-Shui, Taichung County. Graduated from National Taiwan Norma
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1052 encyclopedia: 1052. Chang-I Tsai 蔡正一 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1052/)
+- [TAH #15 encyclopedia: 15. 蔡正一 Chang-I Tsai](https://taiwaneseamericanhistory.org/artist15-chang-i-tsai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chang-i-tsai/)
 
 ## Related Pages

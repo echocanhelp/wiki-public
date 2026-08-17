@@ -26,6 +26,7 @@ Prof. Harrison Cheng 鄭學成教授 – History of Taiwanese American (T.A. Arc
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1912 encyclopedia: 1912. Prof. Harrison Cheng 鄭學成教授](https://taiwaneseamericanhistory.org/whos-who-1912-harrison-cheng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-harrison-cheng/)
 
 ## Related Pages

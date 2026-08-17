@@ -32,6 +32,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #586 encyclopedia: 586. 鄭許梅 / 2015/09](https://taiwaneseamericanhistory.org/586-%e9%84%ad%e8%a8%b1%e6%a2%85-201509/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e9%84%ad%e8%a8%b1%e6%a2%85/)
 
 ## Related Pages

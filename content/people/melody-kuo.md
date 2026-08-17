@@ -26,6 +26,8 @@ Dr. Melody Kuo received her degree of Doctor of Musical Arts, Master of Music, b
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #229 encyclopedia: 229. Melody Kuo 郭雋律 / 2015/01](https://taiwaneseamericanhistory.org/229-melody-kuo-%e9%83%ad%e9%9b%8b%e5%be%8b-pianist-201501/)
+- [TAH #119 encyclopedia: 119. Melody Kuo 郭雋律,  Pianist / 2015/01](https://taiwaneseamericanhistory.org/119-melody-kuo-%e9%83%ad%e9%9b%8b%e5%be%8b-piano-accompanist/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/melody-kuo/)
 
 ## Related Pages

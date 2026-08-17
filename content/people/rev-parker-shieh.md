@@ -27,6 +27,7 @@ Rev. Parker Shieh (謝貫明牧師) is listed in the TAH Foundation Who’s Who 
 
 
 ## Sources
+- [TAH #1811 encyclopedia: 1811. Rev. Parker Shieh 謝貫明牧師](https://taiwaneseamericanhistory.org/whos-who-1811-parker-shieh/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rev-parker-shieh/)
 
 ## Related Pages

@@ -28,6 +28,7 @@ Fong Chung Fan (樊豐忠) is listed in the TAH Foundation Who’s Who Taiwanese
 
 
 ## Sources
+- [TAH #878 encyclopedia: 878. Fong Chung Fan 樊豐忠 / 2016/03](https://taiwaneseamericanhistory.org/whos-fong-chung-fan/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/fong-chung-fan/)
 
 ## Related Pages

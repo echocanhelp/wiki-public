@@ -28,6 +28,7 @@ Ph.D. Computer Science
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #814 encyclopedia: 814. Fenglien Lee 李鳳霖/ 2016/02](https://taiwaneseamericanhistory.org/814-fenglien-lee-%e6%9d%8e%e9%b3%b3%e9%9c%96-201602/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/fenglien-lee/)
 
 ## Related Pages

@@ -28,6 +28,7 @@ Keng S. Liang (梁耕三) is listed in the TAH Foundation Who’s Who Taiwanese 
 
 
 ## Sources
+- [TAH #1520 encyclopedia: 1520. Keng S. Liang 梁耕三/ 2017/02](https://taiwaneseamericanhistory.org/whoswho1520/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/keng-s-liang/)
 
 ## Related Pages

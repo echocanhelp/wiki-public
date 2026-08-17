@@ -29,6 +29,7 @@ Fumi Chen (何文英) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 
 
 ## Sources
+- [TAH #595 encyclopedia: 595. Fumi Chen 何文英 /2015/09](https://taiwaneseamericanhistory.org/595-fumi-chen-%e4%bd%95%e6%96%87%e8%8b%b1-201509/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/fumi-chen/)
 
 ## Related Pages

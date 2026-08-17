@@ -26,6 +26,7 @@ Katy Tang (湯凱蒂) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2280 encyclopedia: 2280. Katy Tang 湯凱蒂](https://taiwaneseamericanhistory.org/whos-who-2280-katy-tang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/katy-tang/)
 
 ## Related Pages

@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1646 encyclopedia: 1646. Dr. Henry H. Yu 游宏仁醫師](https://taiwaneseamericanhistory.org/whos-who-1646-henry-h-yu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-henry-h-yu/)
 
 ## Related Pages

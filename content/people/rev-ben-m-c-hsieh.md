@@ -28,6 +28,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #144 encyclopedia: 144. Rev. M.C. Ben Hsieh 謝敏川牧師](https://taiwaneseamericanhistory.org/144-rev-m-c-ben-hsieh/)
+- [TAH #888 encyclopedia: 888. Rev. Ben M.C. Hsieh 謝敏川牧師](https://taiwaneseamericanhistory.org/whos-who-888-ben-m-c-hsieh/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rev-ben-m-c-hsieh/)
 
 ## Related Pages

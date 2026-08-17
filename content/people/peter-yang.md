@@ -28,6 +28,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #35 encyclopedia: 35. Peter Yang (楊秉彝)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-35/)
+- [TAH #2215 encyclopedia: 2215. Peter Yang 楊秉彝](https://taiwaneseamericanhistory.org/whos-who-2215-peter-yang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/peter-yang/)
 
 ## Related Pages

@@ -30,6 +30,7 @@ Chingmhu Lee (李清木) is listed in the TAH Foundation Who’s Who Taiwanese A
 
 
 ## Sources
+- [TAH #1600 encyclopedia: 1600. Chingmhu Lee 李清木 / 2017/04](https://taiwaneseamericanhistory.org/whoswho1600/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chingmhu-lee/)
 
 ## Related Pages

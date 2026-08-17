@@ -29,6 +29,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #2180 encyclopedia: 2180. Tonya C Mezrich 陳糖亞](https://taiwaneseamericanhistory.org/whos-who-2180-tonya-c-mezrich/)
+- [TAH #263 encyclopedia: 263. Tonya C Mezrich 陳糖亞](https://taiwaneseamericanhistory.org/ota-263/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tonya-c-mezrich/)
 
 ## Related Pages

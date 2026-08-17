@@ -29,6 +29,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #19 encyclopedia: 19. Dr. Rex Yu 余忠村博士](https://taiwaneseamericanhistory.org/19-dr-rex-yu/)
+- [TAH #970 encyclopedia: 970. Dr. Rex Yu 余忠村博士](https://taiwaneseamericanhistory.org/whos-who-970-rex-yu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-rex-yu/)
 
 ## Related Pages

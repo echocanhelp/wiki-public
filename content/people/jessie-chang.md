@@ -29,6 +29,8 @@ Pianist Jessie Chang is admired for her beautiful tone, commanding technique, an
 
 
 ## Sources
+- [TAH #731 encyclopedia: 731. Jessie Chang 張晶晶/ 2015/12](https://taiwaneseamericanhistory.org/731-jessie-chang-%e5%bc%b5%e6%99%b6%e6%99%b6-201512/)
+- [TAH #321 encyclopedia: 321. Jessie Chang 張晶晶, Pianist / 2015/12](https://taiwaneseamericanhistory.org/321-chang-%e5%bc%b5%e6%99%b6%e6%99%b6-pianist-201512/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jessie-chang/)
 
 ## Related Pages

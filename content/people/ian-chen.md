@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2232 encyclopedia: 2232. Ian Chen 陳彥竹](https://taiwaneseamericanhistory.org/whos-who-2232-ian-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ian-chen/)
 
 ## Related Pages

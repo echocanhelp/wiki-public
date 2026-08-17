@@ -28,6 +28,7 @@ W. B. Liu (劉文彬) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 
 
 ## Sources
+- [TAH #1396 encyclopedia: 1396. W. B. Liu 劉文彬 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1396/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/w-b-liu/)
 
 ## Related Pages

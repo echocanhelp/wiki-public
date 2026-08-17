@@ -27,6 +27,7 @@ Long Lee (李隆吉) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 
 
 ## Sources
+- [TAH #1424 encyclopedia: 1424. Long Lee李隆吉/ 2016/12](https://taiwaneseamericanhistory.org/whoswho1424/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/long-lee/)
 
 ## Related Pages

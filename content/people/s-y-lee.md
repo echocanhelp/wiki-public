@@ -26,6 +26,7 @@ S. Y. Lee (李嵩義) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1616 encyclopedia: 1616. S. Y. Lee 李嵩義/ 2017/04](https://taiwaneseamericanhistory.org/whoswho1616/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/s-y-lee/)
 
 ## Related Pages

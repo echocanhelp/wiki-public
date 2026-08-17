@@ -27,6 +27,8 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #265 encyclopedia: 265.  Dr. Hwalin Lee 李華林博士](https://taiwaneseamericanhistory.org/ota-265/)
+- [TAH #106 encyclopedia: 106. Dr. Hwalin Lee 李華林博士](https://taiwaneseamericanhistory.org/whos-who-106-hwalin-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-hwalin-lee/)
 
 ## Related Pages

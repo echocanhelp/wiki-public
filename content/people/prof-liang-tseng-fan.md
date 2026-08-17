@@ -29,6 +29,9 @@ Prof. Liang-Tseng Fan 范良政教授 – History of Taiwanese American (T.A. Ar
 
 
 ## Sources
+- [TAH #22 encyclopedia: 22. Prof. Liang-tseng Fan (范良政教授)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-22/)
+- [TAH #130 encyclopedia: 130. Prof. Liang-tseng Fan 范良政教授](https://taiwaneseamericanhistory.org/130-prof-liang-tseng-fan/)
+- [TAH #59 encyclopedia: 59. Prof. Liang-Tseng Fan 范良政教授](https://taiwaneseamericanhistory.org/whos-who-59-liang-tseng-fan/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-liang-tseng-fan/)
 
 ## Related Pages

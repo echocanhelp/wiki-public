@@ -26,6 +26,8 @@ Agnes Hsu (Chih-Jung Hsu) is a Taiwanese violinist who received a Doctor of Musi
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1447 encyclopedia: 1447. Agnes Hsu 許芝榕 / 2016/12](https://taiwaneseamericanhistory.org/whoswho1447/)
+- [TAH #378 encyclopedia: 378. Agnes Hsu許芝榕, violinist / 2016/12](https://taiwaneseamericanhistory.org/musician378/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/agnes-hsu/)
 
 ## Related Pages

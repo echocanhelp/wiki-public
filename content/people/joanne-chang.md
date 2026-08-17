@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #690 encyclopedia: 690. Joanne Chang 張瓊文 / 2015/11](https://taiwaneseamericanhistory.org/690-joanne-chang-%e5%bc%b5%e7%93%8a%e6%96%87-201511/)
+- [TAH #313 encyclopedia: 313. Joanne Chang 張瓊文, Pianist / 2015/11](https://taiwaneseamericanhistory.org/313-joanne-chang-%e5%bc%b5%e7%93%8a%e6%96%87-pianist-201511/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/joanne-chang/)
 
 ## Related Pages

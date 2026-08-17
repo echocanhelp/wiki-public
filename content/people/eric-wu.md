@@ -26,6 +26,7 @@ Eric Wu (吳爾融) is listed in the TAH Foundation Who’s Who Taiwanese Americ
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1385 encyclopedia: 1385.  Eric Wu 吳爾融/ 2016/11](https://taiwaneseamericanhistory.org/whoswho1385/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/eric-wu/)
 
 ## Related Pages

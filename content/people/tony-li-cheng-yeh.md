@@ -26,6 +26,7 @@ Fellowship of Anesthesia for Open Heart Surgery at Albert Einstein Hospital, 197
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1655 encyclopedia: 1655. Tony. Li-Cheng Yeh  葉禮禎 / 05/2017](https://taiwaneseamericanhistory.org/whoswho1655/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tony-li-cheng-yeh/)
 
 ## Related Pages

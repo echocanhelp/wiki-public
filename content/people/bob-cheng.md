@@ -28,6 +28,11 @@ Dr. Bob Cheng (鄭寶鼎博士) was a Taiwanese American chemist, entrepreneur, 
 
 
 ## Sources
+- [TAH #35 encyclopedia: 35. Dr. Bob Cheng  鄭寶鼎博士 the Founder of T. A. Archives By Artist Susan Hsiu-fang](https://taiwaneseamericanhistory.org/footsteps-35/)
+- [TAH #34 encyclopedia: 34. Dr. Bob Cheng  鄭寶鼎博士By Artist Chao-Min Liu(劉兆民)](https://taiwaneseamericanhistory.org/footsteps-34/)
+- [TAH #2293 encyclopedia: 2293. Dr. Bob Cheng 鄭寶鼎博士](https://taiwaneseamericanhistory.org/whos-who-2293-dr-bob-cheng/)
+- [TAH #749 encyclopedia: 749. 追思Dr. Bob Cheng 鄭寶鼎博士/黃啟仁/2020/09](https://taiwaneseamericanhistory.org/mystories-749/)
+- [TAH #300 encyclopedia: 300. Dr. Bob Cheng 鄭寶鼎博士 1940-2020](https://taiwaneseamericanhistory.org/ota-300/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/bob-cheng/)
 
 ## Related Pages

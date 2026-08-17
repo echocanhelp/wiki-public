@@ -27,6 +27,7 @@ Tom Yang (楊東傑) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 
 
 ## Sources
+- [TAH #913 encyclopedia: 913. Tom Yang  楊東傑/ 2016/05](https://taiwaneseamericanhistory.org/whoswho913/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tom-yang/)
 
 ## Related Pages

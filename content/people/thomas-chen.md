@@ -27,6 +27,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #275 encyclopedia: 275. Thomas Chen 陳秋貴](https://taiwaneseamericanhistory.org/ota-275/)
+- [TAH #307 encyclopedia: 307. Thomas Chen 陳秋貴/2015/02](https://taiwaneseamericanhistory.org/307-thomas-chen-%e9%99%b3%e7%a7%8b%e8%b2%b4201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/thomas-chen/)
 
 ## Related Pages

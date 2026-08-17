@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #525 encyclopedia: 525. Lina Huang 張廖莉娜 / 2015/08](https://taiwaneseamericanhistory.org/525-lina-huang-%e5%bc%b5%e5%bb%96%e8%8e%89%e5%a8%9c-201508/)
+- [TAH #256 encyclopedia: 256. Lina Huang 張廖莉娜 , Soprano / 2015/08](https://taiwaneseamericanhistory.org/256-%e5%bc%b5%e5%bb%96%e8%8e%89%e5%a8%9c-lina-huang-soprano-201508/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/lina-huang/)
 
 ## Related Pages

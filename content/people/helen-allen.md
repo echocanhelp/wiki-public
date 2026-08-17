@@ -27,6 +27,8 @@ Helen Allen (趙夏蓮) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #310 encyclopedia: 310. Helen Allen 趙夏蓮 / The first registered nurse](https://taiwaneseamericanhistory.org/ff310/)
+- [TAH #625 encyclopedia: 625. Helen Allen 趙夏蓮 / 2015/09](https://taiwaneseamericanhistory.org/625-helen-allen-%e8%b6%99%e5%a4%8f%e8%93%ae-201509/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/helen-allen/)
 
 ## Related Pages

@@ -27,6 +27,7 @@ Kenneth J. Kao (高永仁) is listed in the TAH Foundation Who’s Who Taiwanese
 
 
 ## Sources
+- [TAH #2077 encyclopedia: 2077. Kenneth J. Kao 高永仁 / 03/2018](https://taiwaneseamericanhistory.org/whoswho2077/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kenneth-j-kao/)
 
 ## Related Pages

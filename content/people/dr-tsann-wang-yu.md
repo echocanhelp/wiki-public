@@ -26,6 +26,7 @@ Dr. Tsann-Wang Yu (余燦旺博士) is listed in the TAH Foundation Who’s Who 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1700 encyclopedia: 1700. Dr. Tsann-Wang Yu 余燦旺博士](https://taiwaneseamericanhistory.org/whos-who-1700-tsann-wang-yu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-tsann-wang-yu/)
 
 ## Related Pages

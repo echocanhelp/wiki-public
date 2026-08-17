@@ -27,6 +27,7 @@ Prof. Tao-Shih Shieh 謝道時教授 – History of Taiwanese American (T.A. Arc
 
 
 ## Sources
+- [TAH #1838 encyclopedia: 1838. Prof. Tao-Shih Shieh 謝道時教授](https://taiwaneseamericanhistory.org/whos-who-1838-tao-shih-shieh/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-tao-shih-shieh/)
 
 ## Related Pages

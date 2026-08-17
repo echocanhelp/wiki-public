@@ -27,6 +27,7 @@ Internship
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1967 encyclopedia: 1967. Dr. Chang-Yang Wang 王昌洋醫師](https://taiwaneseamericanhistory.org/whos-who-1967-chang-yang-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-chang-yang-wang/)
 
 ## Related Pages

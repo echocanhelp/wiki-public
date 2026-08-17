@@ -30,6 +30,7 @@ Distinguished Chair Professor
 
 
 ## Sources
+- [TAH #1533 encyclopedia: 1533. Alice Yu 游陳鈴津/ 2017/02](https://taiwaneseamericanhistory.org/whoswho1533/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/alice-yu/)
 
 ## Related Pages

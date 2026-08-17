@@ -28,6 +28,7 @@ CHUNG-LIEN Chen (陳崇廉) is listed in the TAH Foundation Who’s Who Taiwanes
 
 
 ## Sources
+- [TAH #2071 encyclopedia: 2071. CHUNG-LIEN Chen 陳崇廉 / 03/2018](https://taiwaneseamericanhistory.org/whoswho2071/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chung-lien-chen/)
 
 ## Related Pages

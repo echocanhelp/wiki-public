@@ -30,6 +30,7 @@ PARRIS HSU-CHENG CHANG 張旭成 – History of Taiwanese American (T.A. Archive
 
 
 ## Sources
+- [TAH #535 encyclopedia: 535. PARRIS HSU-CHENG CHANG 張旭成 / 2015/08](https://taiwaneseamericanhistory.org/535-parris-hsu-cheng-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/parris-hsu-cheng-chang/)
 
 ## Related Pages

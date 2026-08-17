@@ -26,6 +26,8 @@ Christina (Yung-Chin) Mollard 謝永芹 – History of Taiwanese American (T.A. 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1058 encyclopedia: 1058. Christina (Yung-Chin) Mollard 謝永芹 /2016/06](https://taiwaneseamericanhistory.org/whoswho1058/)
+- [TAH #26 encyclopedia: 26. Yung-Chin Hsieh 謝永芹, Pianist/2014/10](https://taiwaneseamericanhistory.org/26-yung-chin-hsieh-%e8%ac%9d%e6%b0%b8%e8%8a%b9-piano/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/christina-yung-chin-mollard/)
 
 ## Related Pages

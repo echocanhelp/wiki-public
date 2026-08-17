@@ -26,6 +26,8 @@ Pianist Hsiang-Ling Hsiao 蕭湘舲, a native of Taiwan, is a third-year doctora
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #515 encyclopedia: 515. Hsiang-Ling Hsiao 蕭湘舲 /2015/07](https://taiwaneseamericanhistory.org/515-hsiang-ling-hsiao-%e8%95%ad%e6%b9%98%e8%88%b2-201507/)
+- [TAH #34 encyclopedia: 34. Hsiang-Ling Hsiao 蕭湘舲, Pianist/2014/10](https://taiwaneseamericanhistory.org/34-hsiang-ling-hsiao-%e8%95%ad%e6%b9%98%e8%88%b2-piano/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hsiang-ling-hsiao/)
 
 ## Related Pages

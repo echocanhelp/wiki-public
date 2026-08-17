@@ -26,6 +26,7 @@ Connie Lu (呂婷婷) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1258 encyclopedia: 1258. Connie Lu 呂婷婷 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1258/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/connie-lu/)
 
 ## Related Pages

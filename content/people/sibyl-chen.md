@@ -26,6 +26,7 @@ The Johns Hopkins University - Paul H. Nitze School of Advanced International St
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1450 encyclopedia: 1450. Sibyl Chen 陳世樸 /01/2017](https://taiwaneseamericanhistory.org/whos1450/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sibyl-chen/)
 
 ## Related Pages

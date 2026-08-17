@@ -26,6 +26,7 @@ Dr. Doug (Chen-Hua) Yu 余振華博士 – History of Taiwanese American (T.A. A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1923 encyclopedia: 1923. Dr. Doug (Chen-Hua) Yu 余振華博士](https://taiwaneseamericanhistory.org/whos-who-1923-chen-hua-yu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-doug-chen-hua-yu/)
 
 ## Related Pages

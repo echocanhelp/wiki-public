@@ -27,6 +27,7 @@ Mei-Shi Chu (徐梅熙) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #1537 encyclopedia: 1537. Mei-Shi Chu 徐梅熙 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1537/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mei-shi-chu/)
 
 ## Related Pages

@@ -29,6 +29,8 @@ Huey Li Liu (劉惠麗) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #77 encyclopedia: 77. Collection of Huey Li Liu 劉惠麗](https://taiwaneseamericanhistory.org/77-collection-of-huey-li-liu/)
+- [TAH #1479 encyclopedia: 1479. Huey Li Liu 劉惠麗 /01/2017](https://taiwaneseamericanhistory.org/whos-huey-li-liu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/huey-li-liu/)
 
 ## Related Pages

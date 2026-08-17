@@ -26,6 +26,7 @@ Dr. Hsing-Hua (Sylvia) Lin 林杏樺博士 – History of Taiwanese American (T.
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2276 encyclopedia: 2276. Dr. Hsing-Hua (Sylvia) Lin 林杏樺博士](https://taiwaneseamericanhistory.org/whos-who-2276-hsing-hua-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-hsing-hua-sylvia-lin/)
 
 ## Related Pages

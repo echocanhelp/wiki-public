@@ -28,6 +28,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #2050 encyclopedia: 2050.  Steve Wei 魏十洲](https://taiwaneseamericanhistory.org/whos-who-2050-steve-wei/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/steve-wei/)
 
 ## Related Pages

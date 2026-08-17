@@ -26,6 +26,7 @@ Father Brendan O’Connell 甘惠忠神父 – History of Taiwanese American (T.
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2255 encyclopedia: 2255. Father Brendan O’Connell 甘惠忠神父](https://taiwaneseamericanhistory.org/whos-who-2255-father-brendan-oconnell/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/father-brendan-oconnell/)
 
 ## Related Pages

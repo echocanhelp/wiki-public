@@ -27,6 +27,7 @@ Prof. Chi-Tien Chang (張啟典教授) is listed in the TAH Foundation Who’s W
 
 
 ## Sources
+- [TAH #178 encyclopedia: 178. Prof. C. D. Chang 張啟典教授](https://taiwaneseamericanhistory.org/178-prof-c-d-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chi-tien-chang/)
 
 ## Related Pages

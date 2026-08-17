@@ -29,6 +29,7 @@ Dr. Long-Rong (Mark) Kao 高龍榮 – History of Taiwanese American (T.A. Archi
 
 
 ## Sources
+- [TAH #1168 encyclopedia: 1168. Long-Rong (Mark) Kao 高龍榮 /2016/07](https://taiwaneseamericanhistory.org/whos1168/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/long-rong-mark-kao/)
 
 ## Related Pages

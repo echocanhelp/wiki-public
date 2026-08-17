@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2107 encyclopedia: 2107. Emily X.R. Pan 潘相如 / 05/2018](https://taiwaneseamericanhistory.org/whoswho2107/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/emily-x-r-pan/)
 
 ## Related Pages

@@ -27,6 +27,8 @@ Yi-Ming Liu (劉怡明) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #342 encyclopedia: 342. Yi-Ming Liu 劉怡明 / The First Soccer Player in a University Team (University ](https://taiwaneseamericanhistory.org/ff342/)
+- [TAH #1778 encyclopedia: 1778. Yi-Ming Liu 劉怡明 /07/2017](https://taiwaneseamericanhistory.org/whos-yi-ming-liu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yi-ming-liu/)
 
 ## Related Pages

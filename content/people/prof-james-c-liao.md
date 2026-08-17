@@ -27,6 +27,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #107 encyclopedia: 107. Prof. James C. Liao 廖俊智教授](https://taiwaneseamericanhistory.org/107-prof-james-c-liao/)
+- [TAH #1081 encyclopedia: 1081. Prof. James C. Liao 廖俊智教授](https://taiwaneseamericanhistory.org/whos-who-1081-james-c-liao/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-james-c-liao/)
 
 ## Related Pages

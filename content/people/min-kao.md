@@ -29,6 +29,8 @@ Dr. Min Kao (高民環博士) is listed in the TAH Foundation Who’s Who Taiwan
 
 
 ## Sources
+- [TAH #66 encyclopedia: 66. Dr. Min Kao 高民環博士](https://taiwaneseamericanhistory.org/66-dr-min-kao/)
+- [TAH #184 encyclopedia: 184. 台美人的榮耀 ( Pride of Taiwanese Americans) : 1,高民環博士/蔡山慶/2015/01](https://taiwaneseamericanhistory.org/mystories184/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/min-kao/)
 
 ## Related Pages

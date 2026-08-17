@@ -26,6 +26,7 @@ Yu Tsai (蔡羽) is listed in the TAH Foundation Who’s Who Taiwanese American 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #916 encyclopedia: 916. Yu Tsai 蔡羽 / 2016/03](https://taiwaneseamericanhistory.org/916-yu-tsai-%e8%94%a1%e7%be%bd-201603/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yu-tsai/)
 
 ## Related Pages

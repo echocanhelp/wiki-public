@@ -26,6 +26,8 @@ Cellist Cheng-Hou Lee, a native of Taiwan, received both the bachelor’s and ma
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #569 encyclopedia: 569. Cheng-Hou Lee 李振豪 / 2015/09](https://taiwaneseamericanhistory.org/569-cheng-hou-lee-%e6%9d%8e%e6%8c%af%e8%b1%aa-201509/)
+- [TAH #286 encyclopedia: 286. Cheng-Hou Lee 李振豪, Cellist / 2015/09](https://taiwaneseamericanhistory.org/286-cheng-hou-lee-%e6%9d%8e%e6%8c%af%e8%b1%aa-cellist-201509/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/cheng-hou-lee/)
 
 ## Related Pages

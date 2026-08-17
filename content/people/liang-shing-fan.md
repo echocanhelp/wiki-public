@@ -27,6 +27,7 @@ Liang-Shing Fan (范良信) is listed in the TAH Foundation Who’s Who Taiwanes
 
 
 ## Sources
+- [TAH #657 encyclopedia: 657. Liang-Shing Fan 范良信/ 2015/10](https://taiwaneseamericanhistory.org/whos657-liang-shing-fan/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/liang-shing-fan/)
 
 ## Related Pages

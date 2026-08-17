@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1739 encyclopedia: 1739. Hua-San Chi 紀華山 / 07/2017](https://taiwaneseamericanhistory.org/whoswho1739/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hua-san-chi/)
 
 ## Related Pages

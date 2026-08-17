@@ -28,6 +28,7 @@ Chi-Shun Hwang (黃智舜) is listed in the TAH Foundation Who’s Who Taiwanese
 
 
 ## Sources
+- [TAH #818 encyclopedia: 818. Chi-Shun Hwang 黃智舜 / 2016/02](https://taiwaneseamericanhistory.org/818-chi-shun-hwang-%e9%bb%83%e6%99%ba%e8%88%9c-201602/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chi-shun-hwang/)
 
 ## Related Pages

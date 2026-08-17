@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1670 encyclopedia: 1670. Peter Hsu 徐學猷](https://taiwaneseamericanhistory.org/whos-who-1670-peter-hsu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/peter-hsu/)
 
 ## Related Pages

@@ -28,6 +28,8 @@ Prof. A-Lien Lu-Chang 呂阿戀教授 – History of Taiwanese American (T.A. Ar
 
 
 ## Sources
+- [TAH #113 encyclopedia: 113. Prof. A-Lien Lu-Chang 呂阿戀教授](https://taiwaneseamericanhistory.org/113-prof-a-lien-lu-chang/)
+- [TAH #1064 encyclopedia: 1064. Prof. A-Lien Lu-Chang 呂阿戀教授/2016/06](https://taiwaneseamericanhistory.org/whos-who-1064-a-lien-lu-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-a-lien-lu-chang/)
 
 ## Related Pages

@@ -31,6 +31,7 @@ Y. F. Yang (楊雲鳳) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #2142 encyclopedia: 2142. Y. F. Yang 楊雲鳳 / 07/2018](https://taiwaneseamericanhistory.org/whoswho2142/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/y-f-yang/)
 
 ## Related Pages

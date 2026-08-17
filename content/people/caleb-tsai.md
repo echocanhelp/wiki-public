@@ -26,6 +26,7 @@ Caleb Tsai (蔡登燦) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #980 encyclopedia: 980. Caleb Tsai 蔡登燦 / 2016/05](https://taiwaneseamericanhistory.org/whoswho980/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/caleb-tsai/)
 
 ## Related Pages

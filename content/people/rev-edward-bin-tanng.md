@@ -29,6 +29,7 @@ Rev. Edward Bin Tanng 陳黃義敏牧師 – History of Taiwanese American (T.A.
 
 
 ## Sources
+- [TAH #2128 encyclopedia: 2128. Rev. Edward Bin Tanng 陳黃義敏牧師](https://taiwaneseamericanhistory.org/whos-who-2128-edward-bin-tanng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rev-edward-bin-tanng/)
 
 ## Related Pages

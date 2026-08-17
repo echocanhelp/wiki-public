@@ -26,6 +26,7 @@ With his passion and enthusiasm in music, he studied vocal music and choir condu
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #175 encyclopedia: 175. Henry Huan Bi Cheng 鄭煥璧, conductor/2015/03](https://taiwaneseamericanhistory.org/175-henry-huan-bi-cheng-%e9%84%ad%e7%85%a5%e7%92%a7-201503/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/henry-huan-bi-cheng/)
 
 ## Related Pages

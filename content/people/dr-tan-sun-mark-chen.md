@@ -30,6 +30,7 @@ Dr. Tan-Sun (Mark) Chen 陳唐山 – History of Taiwanese American (T.A. Archiv
 
 
 ## Sources
+- [TAH #204 encyclopedia: 204. Dr. Tan-Sun (Mark) Chen 陳唐山博士](https://taiwaneseamericanhistory.org/204-dr-tan-sun-mark-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-tan-sun-mark-chen/)
 
 ## Related Pages

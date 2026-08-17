@@ -28,6 +28,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #2185 encyclopedia: 2185. Roger Chen 陳正哲](https://taiwaneseamericanhistory.org/whos-who-2185-roger-chen/)
+- [TAH #235 encyclopedia: 235. Roger Chen  陳正哲](https://taiwaneseamericanhistory.org/ota-235/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/roger-chen/)
 
 ## Related Pages

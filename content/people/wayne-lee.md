@@ -26,6 +26,8 @@ Wayne Lee, a violinist originally from San Francisco, is an active chamber music
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #733 encyclopedia: 733. Wayne Lee 李家瑋 / 2015/12](https://taiwaneseamericanhistory.org/733-wayne-lee-%e6%9d%8e%e5%ae%b6%e7%91%8b-201512/)
+- [TAH #322 encyclopedia: 322. Wayne Lee 李家瑋, pianist / 2015/12](https://taiwaneseamericanhistory.org/322-wayne-lee-%e6%9d%8e%e5%ae%b6%e7%91%8b-pianist-201512/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/wayne-lee/)
 
 ## Related Pages

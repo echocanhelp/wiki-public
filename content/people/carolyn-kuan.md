@@ -26,6 +26,8 @@ With her appointment as the 10th Music Director of the Hartford Symphony Orchest
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #105 encyclopedia: 105. Carolyn Kuan 關琦安, Conductor/2014/12](https://taiwaneseamericanhistory.org/105-carolyn-kuan-%e9%97%9c%e7%90%a6%e5%ae%89-conductor/)
+- [TAH #151 encyclopedia: 151. Carolyn Kuan 關琦安](https://taiwaneseamericanhistory.org/151-carolyn-kuan-%e9%97%9c%e7%90%a6%e5%ae%89/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/carolyn-kuan/)
 
 ## Related Pages

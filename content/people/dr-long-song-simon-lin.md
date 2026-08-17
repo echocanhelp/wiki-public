@@ -29,6 +29,8 @@ Dr. Long Song (Simon) Lin 林榮松醫師 – History of Taiwanese American (T.A
 
 
 ## Sources
+- [TAH #134 encyclopedia: 134. Dr. Long Song Simon Lin 林榮松醫師](https://taiwaneseamericanhistory.org/134-dr-long-song-simon-lin/)
+- [TAH #702 encyclopedia: 702. Dr. Long Song (Simon) Lin 林榮松醫師](https://taiwaneseamericanhistory.org/whos-who-702-long-song-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-long-song-simon-lin/)
 
 ## Related Pages

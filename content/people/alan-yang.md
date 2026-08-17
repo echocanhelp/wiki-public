@@ -28,6 +28,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #2253 encyclopedia: 2253. Alan Yang 楊維榕](https://taiwaneseamericanhistory.org/whos-who-2253-alan-yang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/alan-yang/)
 
 ## Related Pages

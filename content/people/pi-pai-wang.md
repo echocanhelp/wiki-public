@@ -28,6 +28,7 @@ Pi-Pai Wang (黃碧白) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #2106 encyclopedia: 2106.  Pi-Pai Wang 黃碧白 / 05/2018](https://taiwaneseamericanhistory.org/whoswho2106/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/pi-pai-wang/)
 
 ## Related Pages

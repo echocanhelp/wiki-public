@@ -29,6 +29,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #597 encyclopedia: 597. Shun Dar Lin 林舜達 /2015/09](https://taiwaneseamericanhistory.org/whos-shun-dar-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shun-dar-lin/)
 
 ## Related Pages

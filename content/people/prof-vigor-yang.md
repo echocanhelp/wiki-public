@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2025 encyclopedia: 2025. Prof. Vigor Yang 楊威迦教授](https://taiwaneseamericanhistory.org/whos-who-2025-vigor-yang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-vigor-yang/)
 
 ## Related Pages

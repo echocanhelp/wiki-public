@@ -26,6 +26,7 @@ Dr. Chin B. Su (蘇成彬教授) is listed in the TAH Foundation Who’s Who Tai
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2275 encyclopedia: 2275. Dr. Chin B. Su 蘇成彬教授](https://taiwaneseamericanhistory.org/whos-who-2275-chin-b-su/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-chin-b-su/)
 
 ## Related Pages

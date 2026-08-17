@@ -26,6 +26,7 @@ Source fromhttp://www.twcia.org.tw/Files/ActivityFiles/%E6%AA%A2%E8%A8%8E%E7%8F%
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2091 encyclopedia: 2091. Chao W Chen 陳昭文 / 04/2018](https://taiwaneseamericanhistory.org/whoswho2091/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chao-w-chen/)
 
 ## Related Pages

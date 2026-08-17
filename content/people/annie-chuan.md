@@ -26,6 +26,8 @@ Annie Chuan, cellist, has received her Doctor of Musical Arts degree from the Un
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #521 encyclopedia: 521. Annie Chuan 權雋文  / 2015/07](https://taiwaneseamericanhistory.org/521-annie-chuan-%e6%ac%8a%e9%9b%8b%e6%96%87-201507/)
+- [TAH #15 encyclopedia: 15. Annie Chuan 權雋文, Cellist/2014/10](https://taiwaneseamericanhistory.org/15-annie-chuan-%e6%ac%8a%e9%9b%8b%e6%96%87-cello/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/annie-chuan/)
 
 ## Related Pages

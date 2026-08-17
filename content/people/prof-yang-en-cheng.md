@@ -26,6 +26,7 @@ Prof. Yang-En Cheng (鄭仰恩教授) is listed in the TAH Foundation Who’s Wh
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1896 encyclopedia: 1896. Prof. Yang-En Cheng 鄭仰恩教授](https://taiwaneseamericanhistory.org/whos-who-1896-yang-en-cheng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-yang-en-cheng/)
 
 ## Related Pages

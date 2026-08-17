@@ -28,6 +28,13 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #92 encyclopedia: 92. Dr. Fu-Chen Lo 羅福全博士](https://taiwaneseamericanhistory.org/92-dr-fu-chen-lo/)
+- [TAH #364 encyclopedia: 364. Dr. Fu-Chen Lo 羅福全博士 / 第一位在美國國會參議院為台灣前途作證 / 11/09/1983](https://taiwaneseamericanhistory.org/ff364/)
+- [TAH #21 encyclopedia: 21. Dr. Fu-Chen Lo 羅福全博士](https://taiwaneseamericanhistory.org/dr-fu-chen-lo/)
+- [TAH #3 encyclopedia: 3. Dr. Fu-Chen Lo 羅福全博士 / The first autobiography translate from Hajji(漢字) to En](https://taiwaneseamericanhistory.org/ff3/)
+- [TAH #2 encyclopedia: 2. Dr. Fu-Chen Lo 羅福全博士 / The first holder of visa, issued by United Nation 第一位持](https://taiwaneseamericanhistory.org/ff2/)
+- [TAH #1 encyclopedia: 1. Dr. Fu-Chen Lo 羅福全博士 / The First publisher of Taiwan Tribune 台灣公論報第一位發行人 / 19](https://taiwaneseamericanhistory.org/ff1/)
+- [TAH #9 encyclopedia: 9. Dr. Fu-Chen Lo 羅福全博士](https://taiwaneseamericanhistory.org/whos-who-9-fu-chen-lo/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-fu-chen-lo/)
 
 ## Related Pages

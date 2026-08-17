@@ -26,6 +26,7 @@ Morisan Lu (呂明森) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #907 encyclopedia: 907. Morisan Lu 呂明森 / 2016/03](https://taiwaneseamericanhistory.org/whos-m-s-lu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/morisan-lu/)
 
 ## Related Pages

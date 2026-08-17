@@ -27,6 +27,8 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #142 encyclopedia: 142. Prof. Maw-Kuen Wu 吳茂昆教授](https://taiwaneseamericanhistory.org/142-prof-maw-kuen-wu/)
+- [TAH #646 encyclopedia: 646. Prof. Wu Maw-Kuen 吳茂昆教授](https://taiwaneseamericanhistory.org/whos-who-646-wu-maw-kuen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/maw-kuen-wu/)
 
 ## Related Pages

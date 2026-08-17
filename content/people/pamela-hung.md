@@ -28,6 +28,7 @@ B.S., Cognitive Science; Math Methods in Social Science
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2235 encyclopedia: 2235. Pamela Hung 洪聚佐](https://taiwaneseamericanhistory.org/whos-who-2235-pamela-hung/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/pamela-hung/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ Dr. Erh-Jen Lee 李爾仁 enjoys her versatile music journey as a pianist, obois
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #404 encyclopedia: 404. Erh-Jen Lee 李爾仁, Pianist, Oboist, Accompanist, Chamber Musician, and a Musi](https://taiwaneseamericanhistory.org/erh-jen-lee-pianist-oboist-accompanist-chamber-musician-and-a-music-educator/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/erh-jen-lee/)
 
 ## Related Pages

@@ -29,6 +29,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #258 encyclopedia: 258. Dr. Kuochih Hong 洪國治博士](https://taiwaneseamericanhistory.org/ota-258/)
+- [TAH #171 encyclopedia: 171. Dr. Kuochih Hong 洪國治博士](https://taiwaneseamericanhistory.org/whos-who-171-kuochih-hong/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-kuochih-hong/)
 
 ## Related Pages

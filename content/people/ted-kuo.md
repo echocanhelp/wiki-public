@@ -27,6 +27,7 @@ Ted Kuo (郭來哲博士) is listed in the TAH Foundation Who’s Who Taiwanese 
 
 
 ## Sources
+- [TAH #272 encyclopedia: 272. 台灣人的翹楚-郭來哲博士，楊涵珺 伉儷/李素鳳/2015/01](https://taiwaneseamericanhistory.org/272-%e5%8f%b0%e7%81%a3%e4%ba%ba%e7%9a%84%e7%bf%b9%e6%a5%9a-%e9%83%ad%e4%be%86%e5%93%b2%e5%8d%9a%e5%a3%ab%ef%bc%8c%e6%a5%8a%e6%b6%b5%e7%8f%ba-%e4%bc%89%e5%84%b7%e6%9d%8e%e7%b4%a0%e9%b3%b3201501/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ted-kuo/)
 
 ## Related Pages

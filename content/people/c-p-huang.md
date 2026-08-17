@@ -26,6 +26,7 @@ C. P. Huang (黃澄波) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2100 encyclopedia: 2100. C. P. Huang  黃澄波](https://taiwaneseamericanhistory.org/whoswho2100/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-p-huang/)
 
 ## Related Pages

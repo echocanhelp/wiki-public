@@ -26,6 +26,8 @@ Jack J. Jou was born in Taiwan in 1939. He graduated from National Cheng Kung Un
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1046 encyclopedia: 1046.  Jack J. Jou 周哲伍 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1046/)
+- [TAH #12 encyclopedia: 12. 周哲伍 Jack J. Jou](https://taiwaneseamericanhistory.org/artist12-jack-j-jou/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jack-j-jou/)
 
 ## Related Pages

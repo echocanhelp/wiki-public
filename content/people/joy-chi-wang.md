@@ -26,6 +26,8 @@ Born and raised in Taiwan, Indigenous Taiwanese pianist Joy Chi Wang graduated f
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1288 encyclopedia: 1288.  Joy Chi Wang 王琦 / 2016/09](https://taiwaneseamericanhistory.org/whoswho1288/)
+- [TAH #365 encyclopedia: 365. Joy Chi Wang 王琦, Pianist / 2016/09](https://taiwaneseamericanhistory.org/musician365/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/joy-chi-wang/)
 
 ## Related Pages

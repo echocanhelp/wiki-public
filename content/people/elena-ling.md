@@ -29,6 +29,7 @@ Vice President of International Federation of Business and Professional Women, T
 
 
 ## Sources
+- [TAH #2249 encyclopedia: 2249. Elena Ling 黃美惠](https://taiwaneseamericanhistory.org/whos-who-2249-elena-ling/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/elena-ling/)
 
 ## Related Pages

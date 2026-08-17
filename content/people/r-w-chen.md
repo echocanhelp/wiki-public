@@ -26,6 +26,7 @@ R. W. Chen (陳瑞玟) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1063 encyclopedia: 1063. R. W. Chen 陳瑞玟 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1063/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/r-w-chen/)
 
 ## Related Pages

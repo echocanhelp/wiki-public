@@ -27,6 +27,7 @@ Patrick Wang (王沛智) is listed in the TAH Foundation Who’s Who Taiwanese A
 
 
 ## Sources
+- [TAH #746 encyclopedia: 746.  Patrick Wang 王沛智 / 2015/12](https://taiwaneseamericanhistory.org/whos-who-746/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/patrick-wang/)
 
 ## Related Pages

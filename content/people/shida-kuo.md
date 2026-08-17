@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1817 encyclopedia: 1817. Shida Kuo 郭旭達](https://taiwaneseamericanhistory.org/whos-who-1817-shida-kuo/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shida-kuo/)
 
 ## Related Pages

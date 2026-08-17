@@ -27,6 +27,8 @@ Dr. Edward T. S. Huang 黃東昇博士 – History of Taiwanese American (T.A. A
 
 
 ## Sources
+- [TAH #56 encyclopedia: 56. Dr. Edward T. S. Huang 黃東昇博士](https://taiwaneseamericanhistory.org/ota-56/)
+- [TAH #1018 encyclopedia: 1018. Dr. Edward T. S. Huang 黃東昇博士](https://taiwaneseamericanhistory.org/whos-who-1018-edward-t-s-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-edward-t-s-huang/)
 
 ## Related Pages

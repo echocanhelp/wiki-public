@@ -27,6 +27,8 @@ Ted Anderson (泰德安德森) is listed in the TAH Foundation Who’s Who Taiwa
 
 
 ## Sources
+- [TAH #271 encyclopedia: 271. Ted Anderson 泰德安德森](https://taiwaneseamericanhistory.org/ota-271/)
+- [TAH #911 encyclopedia: 911. Ted Anderson 泰德安德森/ 2016/03](https://taiwaneseamericanhistory.org/whos-ted-anderson/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ted-anderson/)
 
 ## Related Pages

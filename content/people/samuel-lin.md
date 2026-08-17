@@ -26,6 +26,8 @@ Samuel Lin is a graduate of the National Taiwan Academy of Arts, majoring in voc
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #250 encyclopedia: 250. Samuel Lin 林雲郎 / 2015/02](https://taiwaneseamericanhistory.org/250/)
+- [TAH #136 encyclopedia: 136. Samuel Lin 林雲郎, Artistic Director / Conductor / 2015/02](https://taiwaneseamericanhistory.org/136-samuel-lin-%e6%9e%97%e9%9b%b2%e9%83%8e-artistic-director-conductor-201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/samuel-lin/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ Jen Sheen (沈正韻) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1553 encyclopedia: 1553. Jen Sheen 沈正韻 / 2017/03](https://taiwaneseamericanhistory.org/whoswho1553/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jen-sheen/)
 
 ## Related Pages

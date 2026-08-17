@@ -29,6 +29,9 @@ Accomplishment
 
 
 ## Sources
+- [TAH #141 encyclopedia: 141. In Memory of Mrs. Min-Mei Wu Chen 吳明美 生命的禮讚](https://taiwaneseamericanhistory.org/photo-albums-activities-141/)
+- [TAH #268 encyclopedia: 268. Min-Mei Chen 吳明美](https://taiwaneseamericanhistory.org/ota-268/)
+- [TAH #199 encyclopedia: 199. Min-Mei Chen 吳明美](https://taiwaneseamericanhistory.org/whos-who-199-min-mei-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/min-mei-chen/)
 
 ## Related Pages

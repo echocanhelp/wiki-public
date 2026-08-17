@@ -29,6 +29,8 @@ Steven Chen received his B.S. degree in Chemical Engineering from National Taiwa
 
 
 ## Sources
+- [TAH #237 encyclopedia: 237. Steven Shih Chen 陳士駿](https://taiwaneseamericanhistory.org/ota-237/)
+- [TAH #178 encyclopedia: 178. Steven Shih Chen 陳士駿](https://taiwaneseamericanhistory.org/whos-who-178-steven-shih-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/steven-shih-chen/)
 
 ## Related Pages

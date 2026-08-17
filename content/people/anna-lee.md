@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2295 encyclopedia: 2295. Anna Lee 李宛蓉](https://taiwaneseamericanhistory.org/whos-who-2295-anna-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/anna-lee/)
 
 ## Related Pages

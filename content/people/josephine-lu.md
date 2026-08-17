@@ -27,6 +27,7 @@ Josephine Lu (沈雲冰) is listed in the TAH Foundation Who’s Who Taiwanese A
 
 
 ## Sources
+- [TAH #1144 encyclopedia: 1144. Josephine Lu 沈雲冰 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1144/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/josephine-lu/)
 
 ## Related Pages

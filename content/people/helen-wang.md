@@ -28,6 +28,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #175 encyclopedia: 175. Helen Wang 方惠音](https://taiwaneseamericanhistory.org/175-helen-wang/)
+- [TAH #1728 encyclopedia: 1728. Helen Wang 方惠音](https://taiwaneseamericanhistory.org/whos-who-1728-helen-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/helen-wang/)
 
 ## Related Pages

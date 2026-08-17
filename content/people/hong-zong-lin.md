@@ -26,6 +26,7 @@ Hong Zong Lin (林宏容) is listed in the TAH Foundation Who’s Who Taiwanese 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1302 encyclopedia: 1302. Hong Zong Lin 林宏容 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1302/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hong-zong-lin/)
 
 ## Related Pages

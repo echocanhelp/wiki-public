@@ -26,6 +26,7 @@ Frank Ju-Feng Liu (劉如峰) is listed in the TAH Foundation Who’s Who Taiwan
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #775 encyclopedia: 775. Frank Ju-Feng Liu 劉如峰 /2016/01](https://taiwaneseamericanhistory.org/24239/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/frank-ju-feng-liu/)
 
 ## Related Pages

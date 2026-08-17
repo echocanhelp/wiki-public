@@ -28,6 +28,7 @@ Ho Rui Hsu (許和瑞) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #1072 encyclopedia: 1072. Ho Rui Hsu 許和瑞 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1071/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ho-rui-hsu/)
 
 ## Related Pages

@@ -29,6 +29,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #2120 encyclopedia: 2120. Prof. Robert Yien 顏善邦教授](https://taiwaneseamericanhistory.org/whos-who-2120-robert-yien/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-robert-yien/)
 
 ## Related Pages

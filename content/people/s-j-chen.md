@@ -27,6 +27,7 @@ Entire family (wife, son and him) vanished in a bus accident in Cancun, Mexico, 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1268 encyclopedia: 1268. S. J. Chen 陳松楨](https://taiwaneseamericanhistory.org/whoswho1268/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/s-j-chen/)
 
 ## Related Pages

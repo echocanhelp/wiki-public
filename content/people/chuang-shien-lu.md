@@ -30,6 +30,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #864 encyclopedia: 864. Chuang-Shien Lu 呂泉生/ 2016/03](https://taiwaneseamericanhistory.org/whos864-chuang-shien-lu/)
+- [TAH #333 encyclopedia: 333. Chuang-Shien Lu 呂泉生,  Composer & Musician / 2016/03](https://taiwaneseamericanhistory.org/333-chuang-shien-lu-%e5%91%82%e6%b3%89%e7%94%9f-composer-musician-201603/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chuang-shien-lu/)
 
 ## Related Pages

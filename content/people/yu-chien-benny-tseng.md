@@ -26,6 +26,9 @@ Yu-Chien (Benny) Tseng 曾宇謙 – History of Taiwanese American (T.A. Archive
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #111 encyclopedia: 111. Violinist Yu-Chien Tseng 【台灣演義】小提琴家 曾宇謙 08/09/2015](https://taiwaneseamericanhistory.org/videos111/)
+- [TAH #1408 encyclopedia: 1408. Yu-Chien (Benny) Tseng 曾宇謙 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1408/)
+- [TAH #374 encyclopedia: 374. Yu-Chien (Benny) Tseng曾宇謙, Violinist / 2016/11](https://taiwaneseamericanhistory.org/musician374/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yu-chien-benny-tseng/)
 
 ## Related Pages

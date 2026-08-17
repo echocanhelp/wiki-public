@@ -26,6 +26,7 @@ Wendy Cheng (鄭昕) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #275 encyclopedia: 275. Wendy Cheng  鄭昕 / 2015/02](https://taiwaneseamericanhistory.org/whos-wendy-cheng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/wendy-cheng/)
 
 ## Related Pages

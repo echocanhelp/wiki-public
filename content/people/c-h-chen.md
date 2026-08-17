@@ -26,6 +26,7 @@ C. H. Chen (陳初雄) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1734 encyclopedia: 1734. C. H. Chen 陳初雄 / 07/2017](https://taiwaneseamericanhistory.org/whoswho1734/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-h-chen/)
 
 ## Related Pages

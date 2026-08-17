@@ -26,6 +26,8 @@ Pianist PEI-SHAN LEE’s active concert career has taken her to The Kennedy Cent
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #674 encyclopedia: 674. PEI-SHAN LEE 李蓓珊 / 2015/10](https://taiwaneseamericanhistory.org/674/)
+- [TAH #304 encyclopedia: 304. Pei-Shan Lee 李蓓珊, Pianist / 2015/10](https://taiwaneseamericanhistory.org/304-pei-shan-lee-%e6%9d%8e%e8%93%93%e7%8f%8a-pianist-201510/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/pei-shan-lee/)
 
 ## Related Pages

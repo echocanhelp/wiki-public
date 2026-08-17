@@ -27,6 +27,7 @@ Assistant Professor of Medicine
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1307 encyclopedia: 1307. Tzann T. Fang 方贊棠 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1307/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tzann-t-fang/)
 
 ## Related Pages

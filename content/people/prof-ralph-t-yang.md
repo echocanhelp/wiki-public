@@ -26,6 +26,7 @@ Professor (1995-), Chairman (1995-2000), Dwight F. Benton Professor (2002-), Che
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1860 encyclopedia: 1860. Prof. Ralph T. Yang 楊祖保教授](https://taiwaneseamericanhistory.org/whos-who-1860-ralph-t-yang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-ralph-t-yang/)
 
 ## Related Pages

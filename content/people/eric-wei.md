@@ -26,6 +26,7 @@ Eric Wei (魏安仁) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1882 encyclopedia: 1882. Eric Wei 魏安仁](https://taiwaneseamericanhistory.org/whos-who-1882-eric-wei/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/eric-wei/)
 
 ## Related Pages

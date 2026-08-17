@@ -26,6 +26,7 @@ Sin-Yang Lin (林欣陽) is listed in the TAH Foundation Who’s Who Taiwanese A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2289 encyclopedia: 2289. Sin-Yang Lin 林欣陽](https://taiwaneseamericanhistory.org/whos-who-2289-sin-yang-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sin-yang-lin/)
 
 ## Related Pages

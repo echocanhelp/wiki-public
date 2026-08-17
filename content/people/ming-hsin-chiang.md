@@ -28,6 +28,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #2017 encyclopedia: 2017. Ming Hsin Chiang 江明信](https://taiwaneseamericanhistory.org/whos-who-2017-ming-hsin-chiang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ming-hsin-chiang/)
 
 ## Related Pages

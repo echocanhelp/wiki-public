@@ -29,6 +29,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #109 encyclopedia: 109. Dr. Fu-Kuen Lin 林福坤博士](https://taiwaneseamericanhistory.org/109-dr-fu-kuen-lin/)
+- [TAH #1449 encyclopedia: 1449. Dr. Fu-Kuen Lin 林福坤博士](https://taiwaneseamericanhistory.org/whos-who-1449-fu-kuen-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-fu-kuen-lin/)
 
 ## Related Pages

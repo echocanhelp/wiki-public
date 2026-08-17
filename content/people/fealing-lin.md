@@ -26,6 +26,8 @@ Award-winning watercolorist, Fealing Lin of San Marino, California, was born in 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1104 encyclopedia: 1104.  Fealing Lin 林暉怜 2016/06](https://taiwaneseamericanhistory.org/whoswho1104/)
+- [TAH #11 encyclopedia: 11. 林暉怜 Fealing Lin](https://taiwaneseamericanhistory.org/artist11/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/fealing-lin/)
 
 ## Related Pages

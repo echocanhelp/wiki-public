@@ -27,6 +27,7 @@ Thomas Liu (劉天良) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #929 encyclopedia: 929. Thomas Liu 劉天良](https://taiwaneseamericanhistory.org/whos929-thomas-liu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/thomas-liu/)
 
 ## Related Pages

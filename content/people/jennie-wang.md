@@ -29,6 +29,7 @@ Jennie Wang (林靜娥) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #47 encyclopedia: 47. Jennie Wang 林靜娥](https://taiwaneseamericanhistory.org/47-jennie-wang-%e6%9e%97%e9%9d%9c%e5%a8%a5/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jennie-wang/)
 
 ## Related Pages

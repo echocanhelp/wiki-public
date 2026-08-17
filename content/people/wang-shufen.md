@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-16
+last_reviewed: 2026-08-17
 ---
 
 # Wang Shu-fen / 王淑芬
@@ -352,6 +352,8 @@ Notable quotes and mentions of **王淑芬** in Taiwan Justice articles:
 *...and 67 more quotes*
 
 ## Sources
+- [TAH #242 encyclopedia: 242. Sue-Fin Wang 王淑芬](https://taiwaneseamericanhistory.org/ota-242/)
+- [TAH #33 encyclopedia: 33. Sue-Fin Wang 王淑芬](https://taiwaneseamericanhistory.org/whos-who-33-sue-fin-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sue-fin-wang/)
 
 ## Family

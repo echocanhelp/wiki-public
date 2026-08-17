@@ -29,6 +29,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #471 encyclopedia: 471. Cossette Sun 吳春紅/2015/06](https://taiwaneseamericanhistory.org/471-cossette-sun-201506/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/cossette-sun/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ Assistant Professor (1978-81), Associate Professor (1981-1985), Professor (1985-
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1858 encyclopedia: 1858. Prof. Shih-I Chu 朱時宜教授](https://taiwaneseamericanhistory.org/whos-who-1858-shih-i-chu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-shih-i-chu/)
 
 ## Related Pages

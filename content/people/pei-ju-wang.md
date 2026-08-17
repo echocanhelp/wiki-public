@@ -26,6 +26,8 @@ Pei-Ju was born in Taipei, Taiwan in 1980. After graduated from “Dun-Hwa” mu
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #531 encyclopedia: 531. Pei-Ju Wang 王培儒 / 2015/08](https://taiwaneseamericanhistory.org/531-pei-ju-wang-%e7%8e%8b%e5%9f%b9%e5%84%92-201508/)
+- [TAH #265 encyclopedia: 265. Pei-Ju Wang 王培儒, Violinist / 2015/08](https://taiwaneseamericanhistory.org/265-pei-ju-wang-%e7%8e%8b%e5%9f%b9%e5%84%92-violinist-201508/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/pei-ju-wang/)
 
 ## Related Pages

@@ -29,6 +29,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #83 encyclopedia: 83. Hsiu-Fang (Susan) Liu 陳秀芳](https://taiwaneseamericanhistory.org/whos-who-83-hsiu-fang-liu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hsiu-fang-susan-liu/)
 
 ## Related Pages

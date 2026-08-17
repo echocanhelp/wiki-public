@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #19 encyclopedia: 19. Monica Hsu 徐麗芬](https://taiwaneseamericanhistory.org/whos-who-19-monica-hsu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/monica-hsu/)
 
 ## Related Pages

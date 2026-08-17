@@ -26,6 +26,7 @@ C. M. Fan (范清美) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1657 encyclopedia: 1657. C. M. Fan 范清美 / 05/2017](https://taiwaneseamericanhistory.org/whoswho1657/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-m-fan/)
 
 ## Related Pages

@@ -31,6 +31,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #2179 encyclopedia: 2179. Emma Chen 陳怡邁](https://taiwaneseamericanhistory.org/whos-who-2179-emma-chen/)
+- [TAH #216 encyclopedia: 216. Emma Chen 陳怡邁](https://taiwaneseamericanhistory.org/216-emma-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/emma-chen/)
 
 ## Related Pages

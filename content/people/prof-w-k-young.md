@@ -29,6 +29,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #2312 encyclopedia: 2312. Prof. W.K. Young 楊文光教授](https://taiwaneseamericanhistory.org/whos-who-2312-w-k-young/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-w-k-young/)
 
 ## Related Pages

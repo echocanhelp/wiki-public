@@ -29,6 +29,7 @@ Shih-Chen Hsu (許世真) is listed in the TAH Foundation Who’s Who Taiwanese 
 
 
 ## Sources
+- [TAH #2140 encyclopedia: 2140. Shih-Chen Hsu 許世真](https://taiwaneseamericanhistory.org/whos-who-2140-shih-chen-hsu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shih-chen-hsu/)
 
 ## Related Pages

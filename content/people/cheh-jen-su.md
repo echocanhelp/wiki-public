@@ -26,6 +26,7 @@ Publication: Prevention of Deterioration in Various Physiological Functions (預
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #5 encyclopedia: 5. Cheh-Jen Su 蘇哲仁/2014/10](https://taiwaneseamericanhistory.org/5-su-cheh-jen-%e8%98%87%e5%93%b2%e4%bb%81/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/cheh-jen-su/)
 
 ## Related Pages

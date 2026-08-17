@@ -26,6 +26,8 @@ Nam Yeung, Piano Professor of Tainan University of Technology, Taiwan. Chairman 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1113 encyclopedia: 1113. Nam Yeung 楊楠 / 2016/063](https://taiwaneseamericanhistory.org/whoswho1113/)
+- [TAH #57 encyclopedia: 57. Nam Yeung 楊楠, Pianist/2014/10](https://taiwaneseamericanhistory.org/musician57/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/nam-yeung/)
 
 ## Related Pages

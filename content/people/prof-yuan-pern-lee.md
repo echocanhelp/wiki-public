@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1859 encyclopedia: 1859. Prof. Yuan-Pern Lee 李遠鵬教授](https://taiwaneseamericanhistory.org/whos-who-1859-yuan-pern-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-yuan-pern-lee/)
 
 ## Related Pages

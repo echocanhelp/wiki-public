@@ -29,6 +29,9 @@ Accomplishment
 
 
 ## Sources
+- [TAH #183 encyclopedia: 183. Dr. Jung T. Tsai 蔡榮聰醫師](https://taiwaneseamericanhistory.org/183-dr-jung-t-tsai/)
+- [TAH #215 encyclopedia: 215. Dr. Long Tsung Tsai 蔡榮聰醫師 / The first president of Great New York Pen Club ](https://taiwaneseamericanhistory.org/215-dr-long-tsung-tsai-%e8%94%a1%e6%a6%ae%e8%81%b0%e9%86%ab%e5%b8%ab-the-first-president-of-great-new-york-pen-club-2005/)
+- [TAH #165 encyclopedia: 165. Dr. Jung T. Tsai 蔡榮聰醫師](https://taiwaneseamericanhistory.org/whos-who-165-jung-t-tsai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-jung-t-tsai/)
 
 ## Related Pages

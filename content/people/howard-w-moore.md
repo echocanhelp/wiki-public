@@ -27,6 +27,7 @@ Howard W. Moore (慕維德) is listed in the TAH Foundation Who’s Who Taiwanes
 
 
 ## Sources
+- [TAH #1964 encyclopedia: 1964. Howard W. Moore 慕維德 /12/2017](https://taiwaneseamericanhistory.org/whos-howard-moore/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/howard-w-moore/)
 
 ## Related Pages

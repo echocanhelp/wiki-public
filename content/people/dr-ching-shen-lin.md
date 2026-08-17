@@ -26,6 +26,7 @@ Dr. Ching-Shen Lin (林清森醫師) is listed in the TAH Foundation Who’s Who
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2012 encyclopedia: 2012. Dr. Ching-Shen Lin 林清森醫師](https://taiwaneseamericanhistory.org/whos-who-2012-ching-shen-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-ching-shen-lin/)
 
 ## Related Pages

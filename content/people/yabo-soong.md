@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1662 encyclopedia: 1662. Yabo Soong 宋亞伯(宋冀康)](https://taiwaneseamericanhistory.org/whos-who-1662-yabo-soong/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yabo-soong/)
 
 ## Related Pages

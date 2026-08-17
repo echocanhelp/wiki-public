@@ -26,6 +26,7 @@ Daniel Lu (盧以樂) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1216 encyclopedia: 1216. Daniel Lu 盧以樂 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1216/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/daniel-lu/)
 
 ## Related Pages

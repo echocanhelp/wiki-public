@@ -33,6 +33,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #11 encyclopedia: 11. Rev. Wudong Huang (黃武東牧師)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-11/)
+- [TAH #132 encyclopedia: 132. Rev. Wudong Huang 黃武東牧師](https://taiwaneseamericanhistory.org/132-rev-wudong-huang-%e9%bb%83%e6%ad%a6%e6%9d%b1%e7%89%a7%e5%b8%ab/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/wudong-huang/)
 
 ## Related Pages

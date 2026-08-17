@@ -27,6 +27,7 @@ Jerry Huang (黃金利) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #1061 encyclopedia: 1061.  Jerry Huang 黃金利 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1061/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jerry-huang/)
 
 ## Related Pages

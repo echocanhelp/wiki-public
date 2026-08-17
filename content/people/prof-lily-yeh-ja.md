@@ -27,6 +27,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #1907 encyclopedia: 1907. Prof. Lily Yeh Ja  葉公杼教授](https://taiwaneseamericanhistory.org/whos-who-1907-lily-yeh-ja/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-lily-yeh-ja/)
 
 ## Related Pages

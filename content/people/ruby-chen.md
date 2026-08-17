@@ -29,6 +29,7 @@ Ruby Chen (李惠末) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 
 
 ## Sources
+- [TAH #29 encyclopedia: 29. Ruby Chen 李惠末/2015/04](https://taiwaneseamericanhistory.org/29-ruby-chen-%e6%9d%8e%e6%83%a0%e6%9c%ab201504/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ruby-chen/)
 
 ## Related Pages

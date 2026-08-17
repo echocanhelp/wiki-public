@@ -29,6 +29,9 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #53 encyclopedia: 53. Dr. Lisa Su 蘇姿豐博士](https://taiwaneseamericanhistory.org/53-dr-lisa-su/)
+- [TAH #43 encyclopedia: 43. Dr. Lisa Su 蘇姿豐博士](https://taiwaneseamericanhistory.org/whos-who-43-lisa-su/)
+- [TAH #84 encyclopedia: 84. 台美人第二代 Dr. Lisa T. Su (蘇姿豐博士) 榮膺超微公司AMD提升重用任命為營運長 / 曾恆利](https://taiwaneseamericanhistory.org/mystories84-dr-lisa-t-su/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-lisa-su/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #647 encyclopedia: 647. 李中志 / 2015/10](https://taiwaneseamericanhistory.org/whoswho647/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e6%9d%8e%e4%b8%ad%e5%bf%97/)
 
 ## Related Pages

@@ -29,6 +29,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #1743 encyclopedia: 1743. Hong-Chih Kuo 郭泓志](https://taiwaneseamericanhistory.org/whos-who-1743-hong-chih-kuo/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hong-chih-kuo/)
 
 ## Related Pages

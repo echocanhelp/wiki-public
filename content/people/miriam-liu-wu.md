@@ -26,6 +26,7 @@ Miriam Liu Wu (劉逸青) is listed in the TAH Foundation Who’s Who Taiwanese 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1214 encyclopedia: 1214. Miriam Liu Wu 劉逸青 / 2016/08](https://taiwaneseamericanhistory.org/1214-miriam-liu-wu-%e5%8a%89%e9%80%b8%e9%9d%92-201608/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/miriam-liu-wu/)
 
 ## Related Pages

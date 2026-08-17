@@ -26,6 +26,8 @@ A native of Taiwan, pianist Yu-Wen Chen (陳郁雯) began her study of piano at 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #423 encyclopedia: 423. Yu-Wen Chen陳郁雯, Piano / 08/2017](https://taiwaneseamericanhistory.org/musician423/)
+- [TAH #1815 encyclopedia: 1815. Yu-Wen Chen 陳郁雯 / 08/2017](https://taiwaneseamericanhistory.org/whoswho1815/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yu-wen-chen/)
 
 ## Related Pages

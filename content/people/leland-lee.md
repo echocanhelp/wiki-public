@@ -26,6 +26,9 @@ Born in 1989 in Los Angeles of a Taiwanese American family, Leland Lee was diagn
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #172 encyclopedia: 172. 天才雨人~簡靜惠 李永碩 李柏毅/04/2021](https://taiwaneseamericanhistory.org/videos-172/)
+- [TAH #267 encyclopedia: 267. Leland Lee 李柏毅](https://taiwaneseamericanhistory.org/ota-267/)
+- [TAH #14 encyclopedia: 14. 李柏毅 Leland Lee](https://taiwaneseamericanhistory.org/artist14-leland-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/leland-lee/)
 
 ## Related Pages

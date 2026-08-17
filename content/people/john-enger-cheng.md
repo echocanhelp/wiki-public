@@ -29,6 +29,9 @@ Accomplishment
 
 
 ## Sources
+- [TAH #227 encyclopedia: 227. John Enger Cheng 鄭榮得](https://taiwaneseamericanhistory.org/ota-227/)
+- [TAH #1019 encyclopedia: 1019. John Enger Cheng 鄭榮得](https://taiwaneseamericanhistory.org/whos-who-1019-john-enger-cheng/)
+- [TAH #36 encyclopedia: 36. 鄭榮得 John Cheng /2015/03](https://taiwaneseamericanhistory.org/artist36-john-cheng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/john-enger-cheng/)
 
 ## Related Pages

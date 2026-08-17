@@ -28,6 +28,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #190 encyclopedia: 190. Y. R. Susan Chang 程韻如](https://taiwaneseamericanhistory.org/190-susan-chang/)
+- [TAH #1531 encyclopedia: 1531. Susan Y. J. Chang 程韻如](https://taiwaneseamericanhistory.org/whos-who-1531-susan-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/susan-y-j-chang/)
 
 ## Related Pages

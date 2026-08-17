@@ -26,6 +26,7 @@ Winston Wen (溫隆志) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1488 encyclopedia: 1488. Winston Wen 溫隆志 / 2017/01](https://taiwaneseamericanhistory.org/whoswho1488/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/winston-wen/)
 
 ## Related Pages

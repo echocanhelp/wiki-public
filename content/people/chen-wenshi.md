@@ -8,7 +8,7 @@ tags:
   - artist
   - entrepreneur
 verification_status: pending
-last_reviewed: 2026-08-16
+last_reviewed: 2026-08-17
 ---
 # 陳文石 (Chen Wenshi)
 
@@ -243,6 +243,11 @@ Notable quotes and mentions of **陳文石** in Taiwan Justice articles:
 - **Hub:** [[sources/2023-tahs-publication|2023 TAHS Publication]]
 
 ## Sources
+- [TAH #114 encyclopedia: 114. Stone Chen 陳文石](https://taiwaneseamericanhistory.org/114-stone-chen/)
+- [TAH #26 encyclopedia: 26. 陳文石「台灣之美-水的世界」畫展、林榮松「鄉土之美」攝影展, El Monte, CA on 02/8-9/2003](https://taiwaneseamericanhistory.org/artshow26/)
+- [TAH #11 encyclopedia: 11. 南加棕櫚泉藝博會 陳文石、劉白 參展 /02/2017](https://taiwaneseamericanhistory.org/art-show-11/)
+- [TAH #1002 encyclopedia: 1002.  Stone Chen  陳文石 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1002/)
+- [TAH #50 encyclopedia: 50. 陳文石 Stone Chen/2015/05](https://taiwaneseamericanhistory.org/50-%e9%99%b3%e6%96%87%e7%9f%b3-stone-chen201505/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/stone-chen/)
 
 ## Related Pages

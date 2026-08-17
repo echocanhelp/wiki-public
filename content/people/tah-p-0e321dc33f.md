@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #228 encyclopedia: 228. Pei Chung Tsai 蔡佩君, Violinist / 2015/07](https://taiwaneseamericanhistory.org/228-%e8%94%a1%e4%bd%a9%e5%90%9b-violinist-201507/)
+- [TAH #476 encyclopedia: 476. 蔡佩君 / 2015/07](https://taiwaneseamericanhistory.org/477/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e8%94%a1%e4%bd%a9%e5%90%9b/)
 
 ## Related Pages

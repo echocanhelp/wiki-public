@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2189 encyclopedia: 2189.  David Chiu 邱信福](https://taiwaneseamericanhistory.org/whos-who-2189-david-chiu/)
+- [TAH #230 encyclopedia: 230. David Chiu 邱信福](https://taiwaneseamericanhistory.org/ota-230/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/david-chiu/)
 
 ## Related Pages

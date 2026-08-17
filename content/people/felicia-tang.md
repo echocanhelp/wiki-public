@@ -26,6 +26,8 @@ Tang, Chien-Yuh 唐千畬, B.M., M.M. in piano performance, The Juilliard School
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1872 encyclopedia: 1872. Felicia Tang 唐千畬 / 09/2017](https://taiwaneseamericanhistory.org/whoswho1872/)
+- [TAH #425 encyclopedia: 425. Chien-Yuh Tang 唐千畬, piano / 09/2017](https://taiwaneseamericanhistory.org/musician425/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/felicia-tang/)
 
 ## Related Pages

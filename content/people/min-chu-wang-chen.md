@@ -28,6 +28,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #1928 encyclopedia: 1928. Min-Chu Wang Chen 王陳明珠](https://taiwaneseamericanhistory.org/whos-who-1928-min-chu-wang-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/min-chu-wang-chen/)
 
 ## Related Pages

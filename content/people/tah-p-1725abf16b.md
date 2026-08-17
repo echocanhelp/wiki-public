@@ -29,6 +29,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #680 encyclopedia: 680. 柯承家 / 2015/10](https://taiwaneseamericanhistory.org/680-%e6%9f%af%e6%89%bf%e5%ae%b6-201510/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e6%9f%af%e6%89%bf%e5%ae%b6/)
 
 ## Related Pages

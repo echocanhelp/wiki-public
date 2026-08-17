@@ -27,6 +27,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #1617 encyclopedia: 1617. Dr. Fu Yuan Hsu 許富淵/ 2017/04](https://taiwaneseamericanhistory.org/whoswho1617/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-fu-yuan-hsu/)
 
 ## Related Pages

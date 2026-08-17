@@ -28,6 +28,7 @@ Rosalyne Formosa Shieh 謝泊欣 – History of Taiwanese American (T.A. Archive
 
 
 ## Sources
+- [TAH #124 encyclopedia: 124. Rosalyne Formosa Shieh 謝泊欣](https://taiwaneseamericanhistory.org/124-rosalyne-formosa-shieh-%e8%ac%9d%e6%b3%8a%e6%ac%a3/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rosalyne-formosa-shieh/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ Cellist Amy Hsieh made her New York debut recital at Carnegie’s Weill Recital 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #376 encyclopedia: 376. Amy Hsieh謝孟容, Cellist / 2016/12](https://taiwaneseamericanhistory.org/musician376/)
+- [TAH #1445 encyclopedia: 1445. Amy Hsieh  謝孟容 / 2016/12](https://taiwaneseamericanhistory.org/whoswho1445/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/amy-hsieh/)
 
 ## Related Pages

@@ -27,6 +27,7 @@ Iris Ho (何燕青) is listed in the TAH Foundation Who’s Who Taiwanese Americ
 
 
 ## Sources
+- [TAH #935 encyclopedia: 935. Iris Ho 何燕青 2016/04](https://taiwaneseamericanhistory.org/935-iris-ho-%e4%bd%95%e7%87%95%e9%9d%92-201604/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/iris-ho/)
 
 ## Related Pages

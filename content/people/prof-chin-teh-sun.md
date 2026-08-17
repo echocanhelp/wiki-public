@@ -28,6 +28,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #40 encyclopedia: 40. Prof. Chin-Teh Sun 孫錦德教授](https://taiwaneseamericanhistory.org/40-prof-chin-teh-sun/)
+- [TAH #737 encyclopedia: 737. Prof. Chin-Teh Sun 孫錦德教授](https://taiwaneseamericanhistory.org/whos-who-737-chin-teh-sun/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-chin-teh-sun/)
 
 ## Related Pages

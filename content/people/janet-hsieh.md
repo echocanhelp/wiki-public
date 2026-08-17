@@ -27,6 +27,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #915 encyclopedia: 915. Janet Hsieh 謝怡芬 / 2016/03](https://taiwaneseamericanhistory.org/915-janet-hsieh-%e8%ac%9d%e6%80%a1%e8%8a%ac-201603/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/janet-hsieh/)
 
 ## Related Pages

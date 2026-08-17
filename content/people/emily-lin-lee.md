@@ -28,6 +28,8 @@ For more bio information, please click link in Who’s Who : 564. Emily Lin Lee 
 
 
 ## Sources
+- [TAH #564 encyclopedia: 564. Emily Lin Lee 林榮峰 /2015/08](https://taiwaneseamericanhistory.org/whos564-emily-lin-lee/)
+- [TAH #53 encyclopedia: 53. 林榮峰 Emily Lee /2015/08](https://taiwaneseamericanhistory.org/artist53-emily-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/emily-lin-lee/)
 
 ## Related Pages

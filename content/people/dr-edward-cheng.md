@@ -30,6 +30,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #180 encyclopedia: 180. Dr. Edward Cheng 鄭德昌博士](https://taiwaneseamericanhistory.org/180-dr-edward-cheng/)
+- [TAH #347 encyclopedia: 347. Dr. Edward Cheng 鄭德昌博士](https://taiwaneseamericanhistory.org/whos-who-347-edward-cheng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-edward-cheng/)
 
 ## Related Pages

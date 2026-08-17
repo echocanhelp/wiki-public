@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1279 encyclopedia: 1279. Wei Ming Hwang 黃維明 2016/09](https://taiwaneseamericanhistory.org/whoswho1279/)
+- [TAH #363 encyclopedia: 363. Wei Ming Hwang 黃維明, Violinist / 2016/09](https://taiwaneseamericanhistory.org/musician363/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/wei-ming-hwang/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ C. B. Chien (簡錦標) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1405 encyclopedia: 1405. C. B. Chien 簡錦標 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1405/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-b-chien/)
 
 ## Related Pages

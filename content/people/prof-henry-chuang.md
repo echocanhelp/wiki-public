@@ -29,6 +29,7 @@ Prof. Henry Chuang (莊英煌教授) is listed in the TAH Foundation Who’s Who
 
 
 ## Sources
+- [TAH #2302 encyclopedia: 2302. Prof. Henry Chuang 莊英煌教授](https://taiwaneseamericanhistory.org/whos-who-2302-henry-chuang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-henry-chuang/)
 
 ## Related Pages

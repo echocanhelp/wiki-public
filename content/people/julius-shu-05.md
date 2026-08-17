@@ -26,6 +26,7 @@ Julius Shu 05 (許清煌) is listed in the TAH Foundation Who’s Who Taiwanese 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #429 encyclopedia: 429. Julius Shu 許清煌 05/2015](https://taiwaneseamericanhistory.org/whos-julius-shu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/julius-shu-05/)
 
 ## Related Pages

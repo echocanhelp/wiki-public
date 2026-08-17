@@ -26,6 +26,7 @@ Professor of the Dept. of Brain and Cognitive Sciences; Director of the Picower 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1783 encyclopedia: 1783. Prof. Li-Hui Tsai 蔡立慧教授](https://taiwaneseamericanhistory.org/whos-who-1783-li-hui-tsai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-li-hui-tsai/)
 
 ## Related Pages

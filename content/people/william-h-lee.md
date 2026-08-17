@@ -30,6 +30,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #2174 encyclopedia: 2174. William H. Lee 李錫洋](https://taiwaneseamericanhistory.org/whos-who-2174-william-h-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/william-h-lee/)
 
 ## Related Pages

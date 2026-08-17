@@ -27,6 +27,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #161 encyclopedia: 161. Dr. Taitzer Wang 王泰澤博士](https://taiwaneseamericanhistory.org/whos-who-161-taitzer-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-taitzer-wang/)
 
 ## Related Pages

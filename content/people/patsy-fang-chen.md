@@ -29,6 +29,9 @@ Patsy Fang Chen was born in Taipei, Taiwan, graduated with the highest honor fro
 
 
 ## Sources
+- [TAH #14 encyclopedia: 14. Patsy Fang Chen 方秀蓉](https://taiwaneseamericanhistory.org/14-patsy-fang-chen/)
+- [TAH #249 encyclopedia: 249. Patsy Fang Chen 方秀蓉/2015/02](https://taiwaneseamericanhistory.org/249-patsy-fang-chen-%e6%96%b9%e7%a7%80%e8%93%89201502/)
+- [TAH #67 encyclopedia: 67. Patsy Fang Chen 方秀蓉, Artistic Director/2014/10](https://taiwaneseamericanhistory.org/67-patsy-fang-chen-%e6%96%b9%e7%a7%80%e8%93%89/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/patsy-fang-chen/)
 
 ## Related Pages

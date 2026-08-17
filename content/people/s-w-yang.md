@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1713 encyclopedia: 1713. S. W. Yang 楊筱薇](https://taiwaneseamericanhistory.org/whos-who-1713-s-w-yang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/s-w-yang/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ Prof. Hsing-Jien Kung 龔行健教授 – History of Taiwanese American (T.A. Ar
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1781 encyclopedia: 1781. Prof. Hsing-Jien Kung 龔行健教授](https://taiwaneseamericanhistory.org/whos-who-1781-hsing-jien-kung/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-hsing-jien-kung/)
 
 ## Related Pages

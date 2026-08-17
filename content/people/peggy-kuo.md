@@ -29,6 +29,9 @@ Accomplishment
 
 
 ## Sources
+- [TAH #226 encyclopedia: 226. Magistrate Judge Peggy Kuo 郭佩宇](https://taiwaneseamericanhistory.org/ota-226/)
+- [TAH #357 encyclopedia: 357. Peggy Kuo 郭佩宇 / First Magistrate Judge / 10/2015](https://taiwaneseamericanhistory.org/ff357/)
+- [TAH #1992 encyclopedia: 1992. Peggy Kuo 郭佩宇](https://taiwaneseamericanhistory.org/whos-who-1992-peggy-kuo/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/peggy-kuo/)
 
 ## Related Pages

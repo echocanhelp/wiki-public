@@ -26,6 +26,7 @@ Shing Lung Tseng (曾醒倫) is listed in the TAH Foundation Who’s Who Taiwane
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1336 encyclopedia: 1336.  Shing Lung Tseng 曾醒倫 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1336/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shing-lung-tseng/)
 
 ## Related Pages

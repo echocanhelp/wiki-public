@@ -28,6 +28,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #58 encyclopedia: 58. Dr. Ching-Tsang Hou 侯景滄博士](https://taiwaneseamericanhistory.org/58-dr-ching-tsang-hou/)
+- [TAH #1837 encyclopedia: 1837. Dr. Ching-Tsang Hou 侯景滄博士](https://taiwaneseamericanhistory.org/whos-who-1837-ching-tsang-hou/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-ching-tsang-hou/)
 
 ## Related Pages

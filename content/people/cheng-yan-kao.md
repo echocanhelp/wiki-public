@@ -30,6 +30,7 @@ Cheng-yan Kao (高成炎) is listed in the TAH Foundation Who’s Who Taiwanese 
 
 
 ## Sources
+- [TAH #415 encyclopedia: 415. Cheng-yan Kao 高成炎/2015/05](https://taiwaneseamericanhistory.org/415-cheng-yan-kao/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/cheng-yan-kao/)
 
 ## Related Pages

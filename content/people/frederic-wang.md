@@ -26,6 +26,7 @@ Source from Taiwanese Association of American Greater Washington Chapter Special
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1379 encyclopedia: 1379. Frederic Wang 王穎裕 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1379/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/frederic-wang/)
 
 ## Related Pages

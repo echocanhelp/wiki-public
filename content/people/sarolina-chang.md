@@ -26,6 +26,7 @@ Sarolina Chang (沈麗華) is listed in the TAH Foundation Who’s Who Taiwanese
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #105 encyclopedia: 105. Sarolina Chang 沈麗華](https://taiwaneseamericanhistory.org/104-%e6%b2%88%e9%ba%97%e8%8f%af-sarolina-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sarolina-chang/)
 
 ## Related Pages

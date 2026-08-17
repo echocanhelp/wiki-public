@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1247 encyclopedia: 1247. Larry Jang  鄭龍光 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1247/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/larry-jang/)
 
 ## Related Pages

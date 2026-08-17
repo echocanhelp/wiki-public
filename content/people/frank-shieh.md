@@ -26,6 +26,7 @@ Frank Shieh (沈培志) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1211 encyclopedia: 1211. Frank Shieh 沈培志 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1211/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/frank-shieh/)
 
 ## Related Pages

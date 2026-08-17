@@ -27,6 +27,7 @@ Dr. William P. Tseng 曾伯聰醫師 – History of Taiwanese American (T.A. Arc
 
 
 ## Sources
+- [TAH #1862 encyclopedia: 1862. Dr. William P. Tseng 曾伯聰醫師](https://taiwaneseamericanhistory.org/whos-who-1862-william-p-tseng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-william-p-tseng/)
 
 ## Related Pages

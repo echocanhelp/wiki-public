@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #250 encyclopedia: 250. Esther Shieh 謝逸詩, Pianist / 2015/07](https://taiwaneseamericanhistory.org/250-esther-shieh-%e8%ac%9d%e9%80%b8%e8%a9%a9-pianist-201507/)
+- [TAH #510 encyclopedia: 510. Esther Shieh 謝逸詩 / 2015/07](https://taiwaneseamericanhistory.org/510-esther-shieh-%e8%ac%9d%e9%80%b8%e8%a9%a9-201507/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/esther-shieh/)
 
 ## Related Pages

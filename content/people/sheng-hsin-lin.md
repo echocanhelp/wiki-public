@@ -26,6 +26,8 @@ Dr. Lin earned her Doctor of Musical Arts in Clarinet Performance from the Unive
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1527 encyclopedia: 1527. Sheng-Hsin Lin 林聖馨 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1527/)
+- [TAH #386 encyclopedia: 386. Sheng-Hsin Lin林聖馨, Clarinet / 2017/02](https://taiwaneseamericanhistory.org/musician386/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sheng-hsin-lin/)
 
 ## Related Pages

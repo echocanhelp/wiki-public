@@ -26,6 +26,7 @@ Justin Lai (賴正雄) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #608 encyclopedia: 608.  Justin Lai 賴正雄 / 2015/09](https://taiwaneseamericanhistory.org/608-justin-lai-%e8%b3%b4%e6%ad%a3%e9%9b%84-201509/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/justin-lai/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ R. J. Chang (張榮吉) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1650 encyclopedia: 1650. R. J. Chang 張榮吉 / 05/2017](https://taiwaneseamericanhistory.org/whoswho1650/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/r-j-chang/)
 
 ## Related Pages

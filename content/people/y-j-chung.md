@@ -26,6 +26,7 @@ Y. J. Chung (鍾宜君) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1164 encyclopedia: 1164. Y. J. Chung 鍾宜君 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1164/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/y-j-chung/)
 
 ## Related Pages

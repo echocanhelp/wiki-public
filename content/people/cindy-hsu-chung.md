@@ -26,6 +26,8 @@ Cindy Hsu Chung, a native of Taiwan, began her piano studies at the age of seven
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #320 encyclopedia: 320. Cindy Hsu Chung 許弘琪 / 2015/03](https://taiwaneseamericanhistory.org/320-cindy-hsu-chung-%e8%a8%b1%e5%bc%98%e7%90%aa/)
+- [TAH #163 encyclopedia: 163. Cindy Hsu Chung許弘琪 , pianist /2015/03](https://taiwaneseamericanhistory.org/163-cindy-hsu-chung%e8%a8%b1%e5%bc%98%e7%90%aa-pianist-201503/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/cindy-hsu-chung/)
 
 ## Related Pages

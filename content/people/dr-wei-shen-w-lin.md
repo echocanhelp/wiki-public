@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1913 encyclopedia: 1913. Dr. Wei-Shen W. Lin 林威伸醫師](https://taiwaneseamericanhistory.org/whos-who-1913-wei-shen-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-wei-shen-w-lin/)
 
 ## Related Pages

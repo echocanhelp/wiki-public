@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1691 encyclopedia: 1691. Rev. James I. Cheng 鄭義勇牧師](https://taiwaneseamericanhistory.org/whos-who-1691-james-i-cheng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rev-james-i-cheng/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1190 encyclopedia: 1190.  Hanna Huang  黃煒涵 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1190/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hanna-huang/)
 
 ## Related Pages

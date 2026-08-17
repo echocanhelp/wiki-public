@@ -30,6 +30,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #2306 encyclopedia: 2306. Dr. Ray Wang 王瑞華博士](https://taiwaneseamericanhistory.org/whos-who-2306-ray-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-ray-wang/)
 
 ## Related Pages

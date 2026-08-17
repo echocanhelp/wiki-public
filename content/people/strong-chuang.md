@@ -29,6 +29,7 @@ Strong Chuang (莊秋雄) is listed in the TAH Foundation Who’s Who Taiwanese 
 
 
 ## Sources
+- [TAH #1297 encyclopedia: 1297. Strong Chuang 莊秋雄 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1297/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/strong-chuang/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ Peggy Chen, a soprano vocalist, received her Bachelor of Arts from Tunghai Unive
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #86 encyclopedia: 86. Peggy Chen 張佩仙](https://taiwaneseamericanhistory.org/86-peggy-chen-%e5%bc%b5%e4%bd%a9%e4%bb%99/)
+- [TAH #77 encyclopedia: 77. Peggy Chen 張佩仙, Soprano Vocalist/2014/11](https://taiwaneseamericanhistory.org/77-peggy-chen-%e5%bc%b5%e4%bd%a9%e4%bb%99-soprano-vocalist/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/peggy-chen/)
 
 ## Related Pages

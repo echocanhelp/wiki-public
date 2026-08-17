@@ -26,6 +26,7 @@ Shan Lin (林上祺) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1328 encyclopedia: 1328. Shan Lin 林上祺 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1328/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shan-lin/)
 
 ## Related Pages

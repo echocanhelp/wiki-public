@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1406 encyclopedia: 1406. Chung Chi Chou 周重吉 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1406/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chung-chi-chou/)
 
 ## Related Pages

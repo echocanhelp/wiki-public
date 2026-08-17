@@ -26,6 +26,8 @@ Lynn Huang is an active musician in the Taiwanese American communities in southe
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #488 encyclopedia: 488. Lynn Huang 黃令先 / 2015/07](https://taiwaneseamericanhistory.org/488-lynn-huang-%e9%bb%83%e4%bb%a4%e5%85%88-201507/)
+- [TAH #19 encyclopedia: 19. Lynn Huang 黃令先, Composer, Pianist/2014/10](https://taiwaneseamericanhistory.org/19-lynn-huang-%e9%bb%83%e4%bb%a4%e5%85%88-composer-piano/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/lynn-huang/)
 
 ## Related Pages

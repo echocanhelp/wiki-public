@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #229 encyclopedia: 229. 黃美菁, Violinist / 2015/07](https://taiwaneseamericanhistory.org/229-%e9%bb%83%e7%be%8e%e8%8f%81-violinist-201507/)
+- [TAH #477 encyclopedia: 477. 黃美菁 / 2015/07](https://taiwaneseamericanhistory.org/477-%e9%bb%83%e7%be%8e%e8%8f%81-201507/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e9%bb%83%e7%be%8e%e8%8f%81/)
 
 ## Related Pages

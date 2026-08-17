@@ -26,6 +26,7 @@ Director of Chemistry/Biology Interface Training Program (1995-2003); Kimberly P
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1839 encyclopedia: 1839. Dr. Ming-Daw Tsai 蔡明道博士](https://taiwaneseamericanhistory.org/whos-who-1839-ming-daw-tsai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-ming-daw-tsai/)
 
 ## Related Pages

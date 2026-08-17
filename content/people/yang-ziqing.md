@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-16
+last_reviewed: 2026-08-17
 ---
 # Yang Zi-qing (楊子清)
 
@@ -22379,6 +22379,8 @@ Notable quotes and mentions of **楊子清** in Taiwan Justice articles:
 - **Archive:** [Column articles](https://github.com/echocanhelp/wiki-public/tree/gh-pages/knowledge/web-archives/taiwanjustice-net/tier2/)
 
 ## Sources
+- [TAH #269 encyclopedia: 269. Cliff Yang 楊子清/2015/02](https://taiwaneseamericanhistory.org/269-cliff-yang-%e6%a5%8a%e5%ad%90%e6%b8%85201502/)
+- [TAH #127 encyclopedia: 127. Cliff Yang 楊子清, Conductor / 2015/01](https://taiwaneseamericanhistory.org/127-cliff-yang-%e6%a5%8a%e5%ad%90%e6%b8%85-conductor-201501/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/cliff-yang/)
 
 ## Family

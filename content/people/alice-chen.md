@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #432 encyclopedia: 432. Alice Chen 陳祐慈,Cellist](https://taiwaneseamericanhistory.org/432-cellist-alice-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/alice-chen/)
 
 ## Related Pages

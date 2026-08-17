@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2049 encyclopedia: 2049.  Brian Lee 李捷緒](https://taiwaneseamericanhistory.org/whos-who-2049-brian-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/brian-lee/)
 
 ## Related Pages

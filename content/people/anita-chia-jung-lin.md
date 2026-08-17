@@ -26,6 +26,7 @@ Born in Tainan, Taiwan, Anita Lin began to learn violin at the age of seven. In 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #277 encyclopedia: 277. Anita Chia- Jung Lin 林佳蓉, Violinist / 2015/08](https://taiwaneseamericanhistory.org/277-anita-chia-jung-lin-%e6%9e%97%e4%bd%b3%e8%93%89-violinist-201508/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/anita-chia-jung-lin/)
 
 ## Related Pages

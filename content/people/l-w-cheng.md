@@ -26,6 +26,7 @@ L. W. Cheng (鄭良偉) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #904 encyclopedia: 904. L. W. Cheng 鄭良偉 / 2016/03](https://taiwaneseamericanhistory.org/904-l-w-cheng-%e9%84%ad%e8%89%af%e5%81%89-201603/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/l-w-cheng/)
 
 ## Related Pages

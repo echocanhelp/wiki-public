@@ -27,6 +27,7 @@ Ling Ling Chang (張玲玲) is listed in the TAH Foundation Who’s Who Taiwanes
 
 
 ## Sources
+- [TAH #1016 encyclopedia: 1016. Ling Ling Chang 張玲玲 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1016/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ling-ling-chang/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ Melinda is a graduate of Northwestern University School of Music, where she rece
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1117 encyclopedia: 1117. Melinda Tang 陳方俐 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1117/)
+- [TAH #85 encyclopedia: 85. Melinda Tang 陳方俐, Pianist/2014/12](https://taiwaneseamericanhistory.org/musician85/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/melinda-tang/)
 
 ## Related Pages

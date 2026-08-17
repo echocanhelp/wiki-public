@@ -30,6 +30,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #80 encyclopedia: 80. Ching Ching Cernada 陳清清](https://taiwaneseamericanhistory.org/whos-who-80-ching-ching-cernada/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ching-ching-cernada/)
 
 ## Related Pages

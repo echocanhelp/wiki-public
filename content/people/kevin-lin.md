@@ -27,6 +27,7 @@ Kevin Lin (林士斌) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 
 
 ## Sources
+- [TAH #1065 encyclopedia: 1065. Kevin Lin 林士斌 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1065-2/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kevin-lin/)
 
 ## Related Pages

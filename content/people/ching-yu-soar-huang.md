@@ -26,6 +26,7 @@ Ching-Yu Soar Huang (黃菁瑜) is listed in the TAH Foundation Who’s Who Taiw
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1215 encyclopedia: 1215. Ching-Yu Soar Huang 黃菁瑜 / 2016/08](https://taiwaneseamericanhistory.org/whowwho1215/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ching-yu-soar-huang/)
 
 ## Related Pages

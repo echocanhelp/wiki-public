@@ -26,6 +26,9 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #229 encyclopedia: 229. Ya-Hui Wang 王雅惠](https://taiwaneseamericanhistory.org/ota-229/)
+- [TAH #266 encyclopedia: 266. Ya-Hui Wang 王雅惠, Conductor / 2015/08](https://taiwaneseamericanhistory.org/ya-hui-wang-conductor/)
+- [TAH #532 encyclopedia: 532. Ya-Hui Wang 王雅惠](https://taiwaneseamericanhistory.org/whos-who-532-ya-hui-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ya-hui-wang/)
 
 ## Related Pages

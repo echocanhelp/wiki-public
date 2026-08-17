@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #972 encyclopedia: 972. Min Ten(Milton) Lee 李明典 / 2016/05](https://taiwaneseamericanhistory.org/whoswho972/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/min-tenmilton-lee/)
 
 ## Related Pages

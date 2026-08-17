@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1995 encyclopedia: 1995. Prof. Wei-Kung Wang 王維恭教授](https://taiwaneseamericanhistory.org/whoswho1995/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-wei-kung-wang/)
 
 ## Related Pages

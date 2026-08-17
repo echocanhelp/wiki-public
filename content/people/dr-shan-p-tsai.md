@@ -27,6 +27,7 @@ Ph.D., Statistics and Epidemiology
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2097 encyclopedia: 2097. Dr. Shan P Tsai 蔡善璞博士](https://taiwaneseamericanhistory.org/whos-who-2097-shan-p-tsai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-shan-p-tsai/)
 
 ## Related Pages

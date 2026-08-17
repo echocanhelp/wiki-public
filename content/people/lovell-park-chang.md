@@ -26,6 +26,8 @@ New York raised trumpeter Lovell Park Chang holds a Bachelor’s Degree from Man
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1060 encyclopedia: 1060. Lovell Park Chang 張若葳 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1060/)
+- [TAH #94 encyclopedia: 94. Lovell Park Chang 張若葳, Brass/2014/12](https://taiwaneseamericanhistory.org/musician94/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/lovell-park-chang/)
 
 ## Related Pages

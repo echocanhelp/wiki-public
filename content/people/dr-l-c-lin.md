@@ -27,6 +27,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #1828 encyclopedia: 1828. Dr. L. C. Lin 林麗瓊博士](https://taiwaneseamericanhistory.org/whos-who-1828-l-c-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-l-c-lin/)
 
 ## Related Pages

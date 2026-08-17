@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1749 encyclopedia: 1749. Chen Chang Lee 李振昌](https://taiwaneseamericanhistory.org/whos-who-1749-chen-chang-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chen-chang-lee/)
 
 ## Related Pages

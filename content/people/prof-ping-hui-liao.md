@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1632 encyclopedia: 1632. Prof. Ping-Hui Liao 廖炳惠教授](https://taiwaneseamericanhistory.org/whos-who-1632-ping-hui-liao/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-ping-hui-liao/)
 
 ## Related Pages

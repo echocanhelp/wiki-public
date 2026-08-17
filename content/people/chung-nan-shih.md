@@ -26,6 +26,7 @@ Chung Nan Shih (施忠男) is listed in the TAH Foundation Who’s Who Taiwanese
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #957 encyclopedia: 957.  Chung Nan Shih 施忠男 / 2016/04](https://taiwaneseamericanhistory.org/957-chung-nan-shih/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chung-nan-shih/)
 
 ## Related Pages

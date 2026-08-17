@@ -28,6 +28,8 @@ Acclaimed by critics in the United States and abroad for performances of stunnin
 
 
 ## Sources
+- [TAH #693 encyclopedia: 693. Ya-Fei Chuang 莊雅斐 / 2015/11](https://taiwaneseamericanhistory.org/693-ya-fei-chuang-%e8%8e%8a%e9%9b%85%e6%96%90-201511/)
+- [TAH #316 encyclopedia: 316. Ya-Fei Chuang 莊雅斐,  Pianist / 2015/11](https://taiwaneseamericanhistory.org/316-ya-fei-chuang-%e8%8e%8a%e9%9b%85%e6%96%90-pianist/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ya-fei-chuang/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ S. L. Chen (陳世霖) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1390 encyclopedia: 1390. S. L. Chen 陳世霖 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1390/)
+- [TAH #372 encyclopedia: 372. S. L. Chen陳世霖, Cellist / 2016/11](https://taiwaneseamericanhistory.org/musician372/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/s-l-chen/)
 
 ## Related Pages

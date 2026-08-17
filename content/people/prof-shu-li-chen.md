@@ -26,6 +26,7 @@ Prof. Shu-li Chen (陳淑麗教授) is listed in the TAH Foundation Who’s Who 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1961 encyclopedia: 1961. Prof. Shu-li Chen 陳淑麗教授](https://taiwaneseamericanhistory.org/whos-who-1961-shu-li-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-shu-li-chen/)
 
 ## Related Pages

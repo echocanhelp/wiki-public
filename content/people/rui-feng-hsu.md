@@ -27,6 +27,7 @@ Rui-feng Hsu (許瑞峰) is listed in the TAH Foundation Who’s Who Taiwanese A
 
 
 ## Sources
+- [TAH #700 encyclopedia: 700. 許瑞峰 Rui-feng Hsu/ 2015/11](https://taiwaneseamericanhistory.org/whoswho-700/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rui-feng-hsu/)
 
 ## Related Pages

@@ -29,6 +29,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #2311 encyclopedia: 2311. Dr. Song-Ping Lee 李嵩斌醫師](https://taiwaneseamericanhistory.org/whos-who-2311-song-ping-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-song-ping-lee/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ Founding Director, Joint Institute for Regional Earth System Science and Enginee
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1797 encyclopedia: 1797. Prof. Kuo-Nan Liou 廖國男教授](https://taiwaneseamericanhistory.org/whos-who-1797-kuo-nan-liou/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-kuo-nan-liou/)
 
 ## Related Pages

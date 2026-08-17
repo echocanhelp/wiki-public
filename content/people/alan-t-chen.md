@@ -27,6 +27,7 @@ ALAN T. CHEN (陳清風) is listed in the TAH Foundation Who’s Who Taiwanese A
 
 
 ## Sources
+- [TAH #713 encyclopedia: 713. ALAN T. CHEN 陳清風/ 2015/11](https://taiwaneseamericanhistory.org/713-alan-t-chen-%e9%99%b3%e6%b8%85%e9%a2%a8-201511/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/alan-t-chen/)
 
 ## Related Pages

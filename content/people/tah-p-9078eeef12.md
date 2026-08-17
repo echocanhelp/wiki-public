@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #338 encyclopedia: 338. Hui-Jin Wang王惠津,Voval / 2016/04](https://taiwaneseamericanhistory.org/338-%e7%8e%8b%e6%83%a0%e6%b4%a5voval-201604/)
+- [TAH #927 encyclopedia: 927. 王惠津 / 2016/04](https://taiwaneseamericanhistory.org/whoswho927/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e7%8e%8b%e6%83%a0%e6%b4%a5/)
 
 ## Related Pages

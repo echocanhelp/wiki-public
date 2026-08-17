@@ -28,6 +28,8 @@ Assistant Professor, Director of Epilepsy Center, Director of EEG Physiology, As
 
 
 ## Sources
+- [TAH #191 encyclopedia: 191. Dr. Chi-Wan Lai 賴其萬醫師](https://taiwaneseamericanhistory.org/191-dr-chi-wan-lai/)
+- [TAH #193 encyclopedia: 193. Dr. Chi-Wan Lai 賴其萬醫師](https://taiwaneseamericanhistory.org/whos-who-193-chi-wan-lai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-chi-wan-lai/)
 
 ## Related Pages

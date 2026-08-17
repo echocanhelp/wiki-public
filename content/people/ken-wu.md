@@ -8,7 +8,7 @@ tags:
   - FAPA
   - community leader
 verification_status: pending
-last_reviewed: 2026-08-16
+last_reviewed: 2026-08-17
 sources:
   - https://en.wikipedia.org/wiki/Ken_Wu
   - https://www.taiwancenter.org/
@@ -198,7 +198,8 @@ Pages that link to **吳兆峯** (ken-wu):
 5. [[organizations/overseas-community-affairs-council.md|overseas-community-affairs-council]]
 6. [[organizations/taiwan-center.md|taiwan-center]]
 
-### Sources (4)
+### Sources
+- [TAH #842 encyclopedia: 842. 吳兆峯：面對詭譎多變世界 台美人責任更大 | 06/2022](https://taiwaneseamericanhistory.org/my-stories-842/) (4)
 
 1. [[sources/ocac-gov-tw.md|ocac-gov-tw]]
 2. [[sources/taiwancenter-org.md|taiwancenter-org]]

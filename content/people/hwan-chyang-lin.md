@@ -26,6 +26,7 @@ Hwan-Chyang Lin (林環牆) is listed in the TAH Foundation Who’s Who Taiwanes
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #720 encyclopedia: 720.  Hwan-Chyang Lin 林環牆/ 2015/12](https://taiwaneseamericanhistory.org/720-hwan-chyang-lin-%e6%9e%97%e7%92%b0%e7%89%86-201512/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hwan-chyang-lin/)
 
 ## Related Pages

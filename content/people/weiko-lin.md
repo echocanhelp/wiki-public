@@ -26,6 +26,7 @@ Weiko Lin (林偉克) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #239 encyclopedia: 239. Weiko Lin 林偉克/2015/01](https://taiwaneseamericanhistory.org/239_weiko_lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/weiko-lin/)
 
 ## Related Pages

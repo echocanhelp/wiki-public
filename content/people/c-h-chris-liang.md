@@ -28,6 +28,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #2055 encyclopedia: 2055.  C.H. (Chris) Liang 梁志宏](https://taiwaneseamericanhistory.org/whos-who-2055-c-h-liang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-h-chris-liang/)
 
 ## Related Pages

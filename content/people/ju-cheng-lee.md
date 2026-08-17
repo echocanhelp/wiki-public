@@ -29,6 +29,7 @@ Ju Cheng Lee (李汝成) is listed in the TAH Foundation Who’s Who Taiwanese A
 
 
 ## Sources
+- [TAH #1916 encyclopedia: 1916. Ju Cheng Lee 李汝成](https://taiwaneseamericanhistory.org/whos-who-1916-ju-cheng-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ju-cheng-lee/)
 
 ## Related Pages

@@ -28,6 +28,8 @@ Qun Tsai (蔡昆) is listed in the TAH Foundation Who’s Who Taiwanese American
 
 
 ## Sources
+- [TAH #33 encyclopedia: 33.  Qun Tsai (蔡昆)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-33/)
+- [TAH #2121 encyclopedia: 2121. Qun Tsai 蔡昆/06/2018](https://taiwaneseamericanhistory.org/whos-who-2121/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/qun-tsai/)
 
 ## Related Pages

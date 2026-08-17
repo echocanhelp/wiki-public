@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #179 encyclopedia: 179.  張妙華, Pianist / 2015/03](https://taiwaneseamericanhistory.org/179-%e5%bc%b5%e5%a6%99%e8%8f%af-pianist-201503/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e5%bc%b5%e5%a6%99%e8%8f%af/)
 
 ## Related Pages

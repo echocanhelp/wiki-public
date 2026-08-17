@@ -26,6 +26,8 @@ Born in Taiwan, Youming Chen is an active chamber and orchestral violist residin
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #326 encyclopedia: 326. Youming Chen 陳猶明,  Violist / 2016/01](https://taiwaneseamericanhistory.org/326-youming-chen-%e9%99%b3%e7%8c%b6%e6%98%8e-violist-201601/)
+- [TAH #787 encyclopedia: 787. Youming Chen 陳猶明/ 2016/01](https://taiwaneseamericanhistory.org/787-youming-chen-%e9%99%b3%e7%8c%b6%e6%98%8e-201601/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/youming-chen/)
 
 ## Related Pages

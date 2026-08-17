@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1803 encyclopedia: 1803. Ting-An Lin 林庭安](https://taiwaneseamericanhistory.org/whos-who-1803-ting-an-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ting-an-lin/)
 
 ## Related Pages

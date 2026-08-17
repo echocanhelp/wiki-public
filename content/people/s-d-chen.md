@@ -34,6 +34,7 @@ S. D. Chen (陳士東) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #923 encyclopedia: 923. S. D. Chen 陳士東 / 2016/04](https://taiwaneseamericanhistory.org/whoswho923/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/s-d-chen/)
 
 ## Related Pages

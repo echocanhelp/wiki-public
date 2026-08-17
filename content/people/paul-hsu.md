@@ -26,6 +26,7 @@ Paul Hsu (徐紹欽) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1320 encyclopedia: 1320. Paul Hsu 徐紹欽 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1320/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/paul-hsu/)
 
 ## Related Pages

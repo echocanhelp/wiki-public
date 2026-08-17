@@ -26,6 +26,7 @@ Brian Hioe (丘琦欣) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1612 encyclopedia: 1612. Brian Hioe 丘琦欣](https://taiwaneseamericanhistory.org/whos-brian-hioe/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/brian-hioe/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ Chun Chiu (邱俊邦) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1073 encyclopedia: 1073. Chun Chiu 邱俊邦 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1072/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chun-chiu/)
 
 ## Related Pages

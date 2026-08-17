@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-07-16
+last_reviewed: 2026-08-17
 ---
 # Shirley Yu (張欣珠)
 
@@ -27,6 +27,7 @@ last_reviewed: 2026-07-16
 - **Content priority C:** Full biography not in this source set
 
 ## Sources
+- [TAH #306 encyclopedia: 306. Shirley Yu 張欣珠/2015/02](https://taiwaneseamericanhistory.org/306-shirley-yu-%e5%bc%b5%e6%ac%a3%e7%8f%a0201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shirley-yu/)
 
 ## Family

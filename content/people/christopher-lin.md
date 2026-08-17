@@ -26,6 +26,7 @@ Christopher Lin (林楷夫) is listed in the TAH Foundation Who’s Who Taiwanes
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1436 encyclopedia: 1436. Christopher Lin 林楷夫 / 2016/12](https://taiwaneseamericanhistory.org/whoswho1436/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/christopher-lin/)
 
 ## Related Pages

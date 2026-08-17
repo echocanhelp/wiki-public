@@ -26,6 +26,7 @@ Ping Wang (王秉訓) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1194 encyclopedia: 1194. Ping Wang 王秉訓 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1194/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ping-wang/)
 
 ## Related Pages

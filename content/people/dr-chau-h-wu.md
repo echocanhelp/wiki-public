@@ -26,6 +26,7 @@ Dr. Chau H. Wu (吳照雄博士) is listed in the TAH Foundation Who’s Who Tai
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1966 encyclopedia: 1966. Dr. Chau H. Wu 吳照雄博士](https://taiwaneseamericanhistory.org/whos-who-1966-chau-h-wu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-chau-h-wu/)
 
 ## Related Pages

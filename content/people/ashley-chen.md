@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #431 encyclopedia: 431.  Ashley Chen ( 陳祐萱),Violinist](https://taiwaneseamericanhistory.org/431-violinist-ashley-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ashley-chen/)
 
 ## Related Pages

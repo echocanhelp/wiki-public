@@ -26,6 +26,7 @@ Chang-Yong Tsao (曹昌榮) is listed in the TAH Foundation Who’s Who Taiwanes
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1502 encyclopedia: 1502. Chang-Yong Tsao 曹昌榮 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chang-yong-tsao/)
 
 ## Related Pages

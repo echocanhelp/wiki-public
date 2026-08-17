@@ -29,6 +29,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #2310 encyclopedia: 2310. Dr. Jin L. Lin 林金龍博士](https://taiwaneseamericanhistory.org/whos-who-2310-jin-l-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-jin-l-lin/)
 
 ## Related Pages

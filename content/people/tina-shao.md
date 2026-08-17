@@ -26,6 +26,8 @@ Dr. Tina Shao is a member of the Pi Kappa Lambda National Honor Society and the 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1111 encyclopedia: 1111. Tina Shao  邵婷雯 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1111/)
+- [TAH #55 encyclopedia: 55. Tina Shao 邵婷雯, Pianist/2014/10](https://taiwaneseamericanhistory.org/musician55/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tina-shao/)
 
 ## Related Pages

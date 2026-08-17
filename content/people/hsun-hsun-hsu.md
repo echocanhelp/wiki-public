@@ -26,6 +26,8 @@ Hsun Hsun Hsu received her bachelor and master degrees in vocal performance arts
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #356 encyclopedia: 356. Hsun-Hsun Hsu 許恂恂 2015/03](https://taiwaneseamericanhistory.org/356/)
+- [TAH #82 encyclopedia: 82. Hsun Hsun Hsu 許恂恂, Conductor](https://taiwaneseamericanhistory.org/82-hsun-hsun-hsu-%e8%a8%b1%e6%81%82%e6%81%82conductor/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hsun-hsun-hsu/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ W. C. Jen (任雯娟) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #388 encyclopedia: 388. 任雯娟, Pianist / 2017/03](https://taiwaneseamericanhistory.org/musician388/)
+- [TAH #1543 encyclopedia: 1543. W. C. Jen 任雯娟 / 2017/03](https://taiwaneseamericanhistory.org/whoswho1543/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/w-c-jen/)
 
 ## Related Pages

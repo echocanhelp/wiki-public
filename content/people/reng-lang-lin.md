@@ -26,6 +26,7 @@ Reng-Lang Lin (林祁郎) is listed in the TAH Foundation Who’s Who Taiwanese 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #788 encyclopedia: 788. Reng-Lang Lin 林祁郎 /2016/01](https://taiwaneseamericanhistory.org/786-reng-lang-lin-%e6%9e%97%e7%a5%81%e9%83%8e-201601/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/reng-lang-lin/)
 
 ## Related Pages

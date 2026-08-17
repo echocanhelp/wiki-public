@@ -29,6 +29,7 @@ Dr. Chiau-Seng Hwang 黃昭聲醫師 – History of Taiwanese American (T.A. Arc
 
 
 ## Sources
+- [TAH #2236 encyclopedia: 2236. Dr. Chiau-Seng Hwang 黃昭聲醫師](https://taiwaneseamericanhistory.org/whos-who-2236-chiau-seng-hwang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-chiau-seng-hwang/)
 
 ## Related Pages

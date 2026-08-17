@@ -27,6 +27,8 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2061 encyclopedia: 2061. J. Y. Tsai 蔡金裕](https://taiwaneseamericanhistory.org/whos-who-2061-j-y-tsai/)
+- [TAH #262 encyclopedia: 262. 蔡金裕 / 南加州台灣旅館業同業公會創會會長 / 1974](https://taiwaneseamericanhistory.org/ff262/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/j-y-tsai/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ Working in installation and painting, artist Flora Kao explores the poetics of h
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #319 encyclopedia: 319.  Flora Kao  高微婷 /2015/03](https://taiwaneseamericanhistory.org/whos319-flora-kao/)
+- [TAH #35 encyclopedia: 35. 高微婷 Flora Kao  /2015/03](https://taiwaneseamericanhistory.org/artist35-flora-kao/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/flora-kao/)
 
 ## Related Pages

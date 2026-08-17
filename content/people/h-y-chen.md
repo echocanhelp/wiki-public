@@ -26,6 +26,7 @@ H. Y. Chen (陳弘毅) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1669 encyclopedia: 1669. H. Y. Chen 陳弘毅 / 05/2017](https://taiwaneseamericanhistory.org/whoswho1669/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/h-y-chen/)
 
 ## Related Pages

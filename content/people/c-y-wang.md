@@ -26,6 +26,7 @@ C. Y. Wang (王振源) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1577 encyclopedia: 1577. C. Y. Wang 王振源 / 2017/03](https://taiwaneseamericanhistory.org/whoswho1577/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-y-wang/)
 
 ## Related Pages

@@ -29,6 +29,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #97 encyclopedia: 97. Kocheng (Kent) Liu 劉格正](https://taiwaneseamericanhistory.org/ota-97/)
+- [TAH #1906 encyclopedia: 1906. Kocheng (Kent) Liu 劉格正](https://taiwaneseamericanhistory.org/whos-who-1906-kocheng-liu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kocheng-kent-liu/)
 
 ## Related Pages

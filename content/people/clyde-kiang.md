@@ -29,6 +29,7 @@ Clyde Kiang (江運貴) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #204 encyclopedia: 204. Clyde Kiang 江運貴/2015/01](https://taiwaneseamericanhistory.org/204-clyde-kiang-%e6%b1%9f%e9%81%8b%e8%b2%b4201501/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/clyde-kiang/)
 
 ## Related Pages

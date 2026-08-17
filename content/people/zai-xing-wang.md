@@ -26,6 +26,7 @@ Zai-Xing Wang (王再興) is listed in the TAH Foundation Who’s Who Taiwanese 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2230 encyclopedia: 2230. Zai-Xing Wang 王再興/11/2019](https://taiwaneseamericanhistory.org/whos-who-2230/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/zai-xing-wang/)
 
 ## Related Pages

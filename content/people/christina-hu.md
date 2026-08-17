@@ -27,6 +27,7 @@ National Board Director of Civic Engagement
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1586 encyclopedia: 1586. Christina Hu 胡若涵 /2017/03](https://taiwaneseamericanhistory.org/whoswho1586/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/christina-hu/)
 
 ## Related Pages

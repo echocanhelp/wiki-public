@@ -27,6 +27,7 @@ Victor Shen, a native of Taiwan, began studying music theory and voice at the ag
 
 
 ## Sources
+- [TAH #2242 encyclopedia: 2242. Dr. Victor Shen 沈新欽博士](https://taiwaneseamericanhistory.org/whos-who-2242-victor-shen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-victor-shen/)
 
 ## Related Pages

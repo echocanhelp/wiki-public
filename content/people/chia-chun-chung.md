@@ -26,6 +26,7 @@ Laboratory Technician; Manufacturing Engineer; Lean Operations Manager; Senior M
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1721 encyclopedia: 1721. Chia-Chun Chung 鍾佳君](https://taiwaneseamericanhistory.org/whos-who-1721-chia-chun-chung/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chia-chun-chung/)
 
 ## Related Pages

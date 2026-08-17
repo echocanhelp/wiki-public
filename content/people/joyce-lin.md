@@ -27,6 +27,7 @@ Note
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2270 encyclopedia: 2270. Joyce Lin 林才欣](https://taiwaneseamericanhistory.org/whos-who-2270-joyce-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/joyce-lin/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ John Wuo (鄂志超) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1155 encyclopedia: 1155. John Wuo 鄂志超 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1155/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/john-wuo/)
 
 ## Related Pages

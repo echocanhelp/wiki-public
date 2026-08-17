@@ -26,6 +26,8 @@ Feng-Hsu Lee, a composer, has received numerous composition awards. His The Sky 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #392 encyclopedia: 392. Feng-Hsu Lee 李豐旭, Composer / 2017/04](https://taiwaneseamericanhistory.org/musician392/)
+- [TAH #1602 encyclopedia: 1602. Feng-Hsu Lee 李豐旭 / 2017/04](https://taiwaneseamericanhistory.org/whoswho1602/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/feng-hsu-lee/)
 
 ## Related Pages

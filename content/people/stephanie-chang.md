@@ -30,6 +30,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #196 encyclopedia: 196. Stephanie Chang 張理](https://taiwaneseamericanhistory.org/196-stephanie-chang/)
+- [TAH #102 encyclopedia: 102. Stephanie Chang 張理](https://taiwaneseamericanhistory.org/whos-who-102-stephanie-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/stephanie-chang/)
 
 ## Related Pages

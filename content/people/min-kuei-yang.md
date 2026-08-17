@@ -26,6 +26,8 @@ A native Taiwanese, pianist Min-Kuei Yang has appeared as a recitalist and colla
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1091 encyclopedia: 1091. Min-Kuei Yang 楊閔貴 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1091/)
+- [TAH #24 encyclopedia: 24. Min-Kuei Yang 楊閔貴, Pianist/2014/10](https://taiwaneseamericanhistory.org/musician24/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/min-kuei-yang/)
 
 ## Related Pages

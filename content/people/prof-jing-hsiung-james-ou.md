@@ -26,6 +26,7 @@ Prof. Jing-Hsiung (James) Ou 歐競雄教授 – History of Taiwanese American (
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2018 encyclopedia: 2018. Prof. Jing-Hsiung (James) Ou 歐競雄教授](https://taiwaneseamericanhistory.org/whos-who-2018-jing-hsiung-ou/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-jing-hsiung-james-ou/)
 
 ## Related Pages

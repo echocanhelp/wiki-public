@@ -29,6 +29,9 @@ Accomplishment
 
 
 ## Sources
+- [TAH #234 encyclopedia: 234. Irvin Lin 林斐強](https://taiwaneseamericanhistory.org/ota-234/)
+- [TAH #493 encyclopedia: 493. 我兒 林斐強(Irvin Lin) 走上「烘焙」之路 / Loretta Lin /12/2016](https://taiwaneseamericanhistory.org/mystories493/)
+- [TAH #1431 encyclopedia: 1431. Irvin Lin 林斐強](https://taiwaneseamericanhistory.org/whos-who-1431-irvin-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/irvin-lin/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ Dr. C. John Won (翁錦鐘博士) is listed in the TAH Foundation Who’s Who Ta
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1874 encyclopedia: 1874. Dr. C. John Won 翁錦鐘博士](https://taiwaneseamericanhistory.org/whos-who-1874-c-john-won/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-c-john-won/)
 
 ## Related Pages

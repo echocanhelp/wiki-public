@@ -27,6 +27,7 @@ Dr. Chiung T. Ling 林安息(炯東)醫師 – History of Taiwanese American (T.
 
 
 ## Sources
+- [TAH #1852 encyclopedia: 1852. Dr. Chiung T. Ling 林安息(炯東)醫師](https://taiwaneseamericanhistory.org/whos-who-1852-chiung-t-ling/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-chiung-t-ling/)
 
 ## Related Pages

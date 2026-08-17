@@ -28,6 +28,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #1836 encyclopedia: 1836. Dr. C. S. Yang 楊彰興醫師](https://taiwaneseamericanhistory.org/whos-who-1836-c-s-yang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-s-yang/)
 
 ## Related Pages

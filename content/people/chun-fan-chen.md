@@ -29,6 +29,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #198 encyclopedia: 198. Dr. Chun-fan Chen 陳春帆博士](https://taiwaneseamericanhistory.org/whos-who-198-chun-fan-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chun-fan-chen/)
 
 ## Related Pages

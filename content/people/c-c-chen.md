@@ -8,7 +8,7 @@ tags:
   - co-founder
   - Los-Angeles
 verification_status: published
-last_reviewed: 2026-07-15
+last_reviewed: 2026-08-17
 ---
 # Dr. C.C. Chen (陳昭俊)
 
@@ -44,8 +44,7 @@ Pages that link to **c-c-chen** (c-c-chen):
 2. [[organizations/formosan-presbyterian-church-in-los-angeles.md|formosan-presbyterian-church-in-los-angeles]]
 
 ### Sources
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-c-chen/)
- (1)
+- [TAH #374 encyclopedia: 374. 陳昭俊 / 2015/04](https://taiwaneseamericanhistory.org/374-%e9%99%b3%e6%98%ad%e4%bf%8a-201504/) (1)
 
 1. [[sources/toward-a-community-of-hope.md|toward-a-community-of-hope]]
 

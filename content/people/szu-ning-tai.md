@@ -26,6 +26,8 @@ Szu-Ning Tai is a Taiwanese harpist who currently serves as teaching assistant a
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #455 encyclopedia: 455. Szu-Ning Tai 戴思寧 / 2015/06](https://taiwaneseamericanhistory.org/455-szu-ning-tai-%e6%88%b4%e6%80%9d%e5%af%a7-201506/)
+- [TAH #219 encyclopedia: 219. Szu-Ning Tai戴思寧, Harpist / 2015/06](https://taiwaneseamericanhistory.org/219-szu-ning-tai%e6%88%b4%e6%80%9d%e5%af%a7-harpist-201506/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/szu-ning-tai/)
 
 ## Related Pages

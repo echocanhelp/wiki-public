@@ -27,6 +27,7 @@ Laura Huang (黃月桂) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #767 encyclopedia: 767. Laura Huang 黃月桂 /2016/01](https://taiwaneseamericanhistory.org/767-laura-huang-%e9%bb%83%e6%9c%88%e6%a1%82-201601/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/laura-huang/)
 
 ## Related Pages

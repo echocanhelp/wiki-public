@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #434 encyclopedia: 434. Wei Jane Chir 池農深/2015/06](https://taiwaneseamericanhistory.org/whos434-wei-jane-chir/)
+- [TAH #47 encyclopedia: 47. 池農深Wei Jane Chir/2015/06](https://taiwaneseamericanhistory.org/artist47-wei-jane-chir/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/wei-jane-chir/)
 
 ## Related Pages

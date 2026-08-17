@@ -27,6 +27,7 @@ President of Chicago Taiwanese Architecture Institute, CTAI (芝加哥台灣建�
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1494 encyclopedia: 1494. HsinKuang Chen 陳信光 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1494/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hsinkuang-chen/)
 
 ## Related Pages

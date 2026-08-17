@@ -27,6 +27,7 @@ Marisa Lin (陳麗雲) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #798 encyclopedia: 798. Marisa Lin 陳麗雲/ 2016/02](https://taiwaneseamericanhistory.org/798-marisa-lin-%e9%99%b3%e9%ba%97%e9%9b%b2-201602/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/marisa-lin/)
 
 ## Related Pages

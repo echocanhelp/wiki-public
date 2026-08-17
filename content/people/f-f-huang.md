@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1929 encyclopedia: 1929. F. F. Huang 黃鳳凰](https://taiwaneseamericanhistory.org/whos-who-1929-f-f-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/f-f-huang/)
 
 ## Related Pages

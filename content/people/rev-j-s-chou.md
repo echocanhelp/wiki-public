@@ -28,6 +28,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #1851 encyclopedia: 1851. Rev. J. S. Chou 周再賜牧師](https://taiwaneseamericanhistory.org/whos-who-1851-j-s-chou/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rev-j-s-chou/)
 
 ## Related Pages

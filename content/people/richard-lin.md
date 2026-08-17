@@ -26,6 +26,8 @@ Taiwanese-American violin virtuoso Richard Lin is quickly building an internatio
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #306 encyclopedia: 306. Richard Lin 林品任, Violinist / 2015/10](https://taiwaneseamericanhistory.org/306-richard-lin-%e6%9e%97%e5%93%81%e4%bb%bb-violinist-201510/)
+- [TAH #678 encyclopedia: 678. Richard Lin 林品任 2015/10](https://taiwaneseamericanhistory.org/678-richard-lin-%e6%9e%97%e5%93%81%e4%bb%bb-201510/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/richard-lin/)
 
 ## Related Pages

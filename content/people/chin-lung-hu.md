@@ -26,6 +26,7 @@ Chin-Lung Hu (胡金龍) is listed in the TAH Foundation Who’s Who Taiwanese A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1748 encyclopedia: 1748. Chin-Lung Hu 胡金龍](https://taiwaneseamericanhistory.org/whos-who-1748-chin-lung-hu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chin-lung-hu/)
 
 ## Related Pages

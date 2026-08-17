@@ -26,6 +26,7 @@ Mei-Ying Chen (陳美瑩) is listed in the TAH Foundation Who’s Who Taiwanese 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1285 encyclopedia: 1285. Mei-Ying Chen 陳美瑩](https://taiwaneseamericanhistory.org/whoswho1285/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mei-ying-chen/)
 
 ## Related Pages

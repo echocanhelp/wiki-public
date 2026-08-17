@@ -26,6 +26,7 @@ David Taka Yo (楊兆隆) is listed in the TAH Foundation Who’s Who Taiwanese 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #28 encyclopedia: 28. David Taka Yo 楊兆隆](https://taiwaneseamericanhistory.org/28-david-taka-yo-%e6%a5%8a%e5%85%86%e9%9a%86/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/david-taka-yo/)
 
 ## Related Pages

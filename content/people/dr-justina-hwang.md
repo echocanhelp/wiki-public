@@ -29,6 +29,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #2042 encyclopedia: 2042. Dr. Justina Hwang 黃貞琪博士](https://taiwaneseamericanhistory.org/whos-who-2042-justina-hwang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-justina-hwang/)
 
 ## Related Pages

@@ -30,6 +30,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #1847 encyclopedia: 1847. Dr. Seifu Ryu 劉清風醫師](https://taiwaneseamericanhistory.org/whos-who-1847-seifu-ryu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-seifu-ryu/)
 
 ## Related Pages

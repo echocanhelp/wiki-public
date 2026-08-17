@@ -26,6 +26,8 @@ She began her music studies on piano and continued with theory, Solfege training
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #330 encyclopedia: 330. Yali Chen 陳雅莉, Oboist & Conductor / 2016/02](https://taiwaneseamericanhistory.org/330-yali-chen-%e9%99%b3%e9%9b%85%e8%8e%89-oboist-conductor-201602/)
+- [TAH #843 encyclopedia: 843. Yali Chen 陳雅莉 / 2016/02](https://taiwaneseamericanhistory.org/843-yali-chen-%e9%99%b3%e9%9b%85%e8%8e%89-201602/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yali-chen/)
 
 ## Related Pages

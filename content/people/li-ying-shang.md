@@ -26,6 +26,8 @@ Li-Ying Shang, a well-known soprano in the Taiwanese church community, was born 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #344 encyclopedia: 344. Li-Ying Shang 商麗鶯 2015/03](https://taiwaneseamericanhistory.org/344/)
+- [TAH #180 encyclopedia: 180. Li-Ying Shang 商麗鶯, Conductor / 2015/03](https://taiwaneseamericanhistory.org/180-li-ying-shang-conductor/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/li-ying-shang/)
 
 ## Related Pages

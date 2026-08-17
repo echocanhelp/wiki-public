@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #33 encyclopedia: 33. Prof. Wen-Hsiung Li 李文雄教授](https://taiwaneseamericanhistory.org/33-prof-wen-hsiung-li/)
+- [TAH #270 encyclopedia: 270. Prof. Wen-Hsiung Li 李文雄教授](https://taiwaneseamericanhistory.org/whos-who-270-wen-hsiung-li/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-wen-hsiung-li/)
 
 ## Related Pages

@@ -29,6 +29,8 @@ Fong Ling (峰怜) is listed in the TAH Foundation Who’s Who Taiwanese America
 
 
 ## Sources
+- [TAH #459 encyclopedia: 459. Fong Ling 峰怜 /2015/06](https://taiwaneseamericanhistory.org/whos459-fong-ling/)
+- [TAH #48 encyclopedia: 48. 峰怜Fong Ling/2015/06](https://taiwaneseamericanhistory.org/artist48-fong-ling/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/fong-ling/)
 
 ## Related Pages

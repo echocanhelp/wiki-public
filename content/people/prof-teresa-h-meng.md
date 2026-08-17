@@ -26,6 +26,7 @@ Prof. Teresa H. Meng 孟懷縈教授 – History of Taiwanese American (T.A. Arc
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1861 encyclopedia: 1861. Prof. Teresa H. Meng 孟懷縈教授](https://taiwaneseamericanhistory.org/whos-who-1861-teresa-h-meng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-teresa-h-meng/)
 
 ## Related Pages

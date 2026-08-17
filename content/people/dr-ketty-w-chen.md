@@ -26,6 +26,7 @@ Dr. Ketty W. Chen (陳婉宜) is listed in the TAH Foundation Who’s Who Taiwan
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #755 encyclopedia: 755. Dr. Ketty W. Chen 陳婉宜 /2016/01](https://taiwaneseamericanhistory.org/745-dr-ketty-w-chen-%e9%99%b3%e5%a9%89%e5%ae%9c-201601/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-ketty-w-chen/)
 
 ## Related Pages

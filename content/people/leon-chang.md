@@ -30,6 +30,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #2304 encyclopedia: 2304. Leon Chang 張村樑](https://taiwaneseamericanhistory.org/whos-who-2304-leon-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/leon-chang/)
 
 ## Related Pages

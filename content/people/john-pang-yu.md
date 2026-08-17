@@ -27,6 +27,7 @@ Employment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #610 encyclopedia: 610. John Pang Yu 余金榜 / 2015/09](https://taiwaneseamericanhistory.org/610-john-pang-yu-%e4%bd%99%e9%87%91%e6%a6%9c-201509/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/john-pang-yu/)
 
 ## Related Pages

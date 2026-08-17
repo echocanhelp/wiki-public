@@ -28,6 +28,7 @@ Dr. Thomas Yawting Ko 柯耀庭醫師 – History of Taiwanese American (T.A. Ar
 
 
 ## Sources
+- [TAH #1889 encyclopedia: 1889. Dr. Thomas Yawting Ko 柯耀庭醫師](https://taiwaneseamericanhistory.org/whos-who-1889-thomas-yawting-ko/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-thomas-yawting-ko/)
 
 ## Related Pages

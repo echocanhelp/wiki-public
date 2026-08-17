@@ -27,6 +27,7 @@ Sandy Yen (莊和子) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 
 
 ## Sources
+- [TAH #1163 encyclopedia: 1163. Sandy Yen 莊和子 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1163/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sandy-yen/)
 
 ## Related Pages

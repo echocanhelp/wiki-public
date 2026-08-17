@@ -26,6 +26,8 @@ Jenny Lin is one of the most respected young pianists today, admired for her adv
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1089 encyclopedia: 1089. Jenny Lin 林佳靜 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1089/)
+- [TAH #16 encyclopedia: 16. Jenny Lin 林佳靜, Pianist/2014/10](https://taiwaneseamericanhistory.org/musician16/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jenny-lin/)
 
 ## Related Pages

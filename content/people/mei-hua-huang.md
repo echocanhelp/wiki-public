@@ -26,6 +26,8 @@ Mei-Hua Huang has recently received her Master’s Degree in Vocal Performance f
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1116 encyclopedia: 1116.   Mei-Hua Huang  黃美華 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1116/)
+- [TAH #84 encyclopedia: 84. Mei-Hua Huang 黃美華, Soprano/2014/12](https://taiwaneseamericanhistory.org/musician84/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mei-hua-huang/)
 
 ## Related Pages

@@ -32,6 +32,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #596 encyclopedia: 596. 莊林素芳 / 2015/09](https://taiwaneseamericanhistory.org/whoswho596/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e8%8e%8a%e6%9e%97%e7%b4%a0%e8%8a%b3/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ Prof. Chih-Chung Yang 楊志忠教授 – History of Taiwanese American (T.A. Ar
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2064 encyclopedia: 2064. Prof. Chih-Chung Yang 楊志忠教授](https://taiwaneseamericanhistory.org/whos-who-2064-chih-chung-yang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-chih-chung-yang/)
 
 ## Related Pages

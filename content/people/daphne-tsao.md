@@ -27,6 +27,8 @@ A native of Taiwan, Daphne Tsao began her musical training on piano at age of 3,
 
 
 ## Sources
+- [TAH #2032 encyclopedia: 2032. Daphne Tsao 曹恩菱](https://taiwaneseamericanhistory.org/whos-who-2032-daphne-tsao/)
+- [TAH #426 encyclopedia: 426. Daphne Tsao 曹恩菱, Violin ](https://taiwaneseamericanhistory.org/daphne-tsao-violin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/daphne-tsao/)
 
 ## Related Pages

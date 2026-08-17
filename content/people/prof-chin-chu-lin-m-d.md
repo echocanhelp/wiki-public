@@ -29,6 +29,7 @@ Prof. Chin-Chu Lin M.D. 林靜竹教授 – History of Taiwanese American (T.A. 
 
 
 ## Sources
+- [TAH #9 encyclopedia: 9. Prof. Chin-Chu Lin, M.D. 林靜竹教授](https://taiwaneseamericanhistory.org/9-prof-chin-chu-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-chin-chu-lin-m-d/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ Tung-Ying Huang is a native of Taiwan and a 2004 graduate of the Mannes College 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #383 encyclopedia: 383. Tony Tung-Ying Huang 黃東瀛  / 2015/04](https://taiwaneseamericanhistory.org/383-tony-tung-ying-huang-%e9%bb%83%e6%9d%b1%e7%80%9b-201504/)
+- [TAH #153 encyclopedia: 153. Tony Tung-Ying Huang 黃東瀛, Violist, Violinist/2015/02](https://taiwaneseamericanhistory.org/153-tony-tung-ying-huang-%e9%bb%83%e6%9d%b1%e7%80%9b201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tony-tung-ying-huang/)
 
 ## Related Pages

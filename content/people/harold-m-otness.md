@@ -27,6 +27,7 @@ Harold M. Otness (歐獻文) is listed in the TAH Foundation Who’s Who Taiwane
 
 
 ## Sources
+- [TAH #148 encyclopedia: 148. Harold M. Otness 歐獻文](https://taiwaneseamericanhistory.org/148-harold-m-otness-%e6%ad%90%e7%8d%bb%e6%96%87/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/harold-m-otness/)
 
 ## Related Pages

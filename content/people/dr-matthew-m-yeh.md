@@ -27,6 +27,7 @@ Professor of Pathology; Director, Gastrointestinal and Hepatic Pathology Program
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2000 encyclopedia: 2000. Dr. Matthew M. Yeh 葉孟哲醫師](https://taiwaneseamericanhistory.org/whos-who-2000-matthew-m-yeh/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-matthew-m-yeh/)
 
 ## Related Pages

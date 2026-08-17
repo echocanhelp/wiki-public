@@ -26,6 +26,8 @@ A native of Taiwan, Leslie Ho enjoys a diverse musical career in performing, tea
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #231 encyclopedia: 231. Leslie Ho 何炳宏 / 2015/01](https://taiwaneseamericanhistory.org/231/)
+- [TAH #123 encyclopedia: 123. Leslie Ho 何炳宏, Violinist / 2015/01](https://taiwaneseamericanhistory.org/123-leslie-ho-violinist-201501/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/leslie-ho/)
 
 ## Related Pages

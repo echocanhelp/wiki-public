@@ -28,6 +28,7 @@ Dr. Patrick C. Chen (陳彰醫師) is listed in the TAH Foundation Who’s Who T
 
 
 ## Sources
+- [TAH #2016 encyclopedia: 2016. Dr. Patrick C. Chen 陳彰醫師](https://taiwaneseamericanhistory.org/whos-who-2016-patrick-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-patrick-c-chen/)
 
 ## Related Pages

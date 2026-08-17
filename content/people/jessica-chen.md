@@ -30,6 +30,7 @@ Jessica Chen (陳英惠) is listed in the TAH Foundation Who’s Who Taiwanese A
 
 
 ## Sources
+- [TAH #328 encyclopedia: 328.  Jessica Chen 陳英惠/2015/03](https://taiwaneseamericanhistory.org/328-jessica-chen-%e9%99%b3%e8%8b%b1%e6%83%a0201503/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jessica-chen/)
 
 ## Related Pages

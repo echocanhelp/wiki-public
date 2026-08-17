@@ -26,6 +26,8 @@ Ms. Jan, a pupil of Dorothy Delay and Hyo Kang, received her Master degree from 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1119 encyclopedia: 1119. Nancy Jan 詹雅惠 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1119/)
+- [TAH #102 encyclopedia: 102. Nancy Jan 詹雅惠, Violinist/2012/12](https://taiwaneseamericanhistory.org/musician102/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/nancy-jan/)
 
 ## Related Pages

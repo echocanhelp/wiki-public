@@ -26,6 +26,8 @@ Bassist Wan-Ling Chuang received her doctoral and master degrees from the Eastma
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1757 encyclopedia: 1757. Wan-Lung Chuang  莊婉玲 / 07/2017](https://taiwaneseamericanhistory.org/whoswho1757/)
+- [TAH #414 encyclopedia: 414. Wan-Lung Chuang 莊婉玲, Bassist / 07/2017](https://taiwaneseamericanhistory.org/musician414/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/wan-lung-chuang/)
 
 ## Related Pages

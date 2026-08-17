@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2288 encyclopedia: 2288. Su-Hsun (Sue) Hsiao 蕭素薰](https://taiwaneseamericanhistory.org/whos-who-2288-su-hsun-hsiao/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/su-hsun-sue-hsiao/)
 
 ## Related Pages

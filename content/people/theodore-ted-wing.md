@@ -26,6 +26,7 @@ Theodore Ted Wing (溫庭宇) is listed in the TAH Foundation Who’s Who Taiwan
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1375 encyclopedia: 1375.  Theodore (Ted) Wing 溫庭宇 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1375/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/theodore-ted-wing/)
 
 ## Related Pages

@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1701 encyclopedia: 1701. Prof. Frank Hsu 許德標教授](https://taiwaneseamericanhistory.org/whos-who-1701-frank-hsu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-frank-hsu/)
 
 ## Related Pages

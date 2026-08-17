@@ -26,6 +26,8 @@ Ching-Ju Cheng, Harpist and Pianist. Born in Kaohsiung City, Taiwan. She receive
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #395 encyclopedia: 395.  Ching-Ju Cheng 鄭靜如, Harpist & Pianist / 2017/05](https://taiwaneseamericanhistory.org/musician395/)
+- [TAH #1634 encyclopedia: 1634. Ching-Ju Cheng 鄭靜如  / 2017/05](https://taiwaneseamericanhistory.org/whoswho1634/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ching-ju-cheng/)
 
 ## Related Pages

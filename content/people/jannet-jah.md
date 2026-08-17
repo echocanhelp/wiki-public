@@ -28,6 +28,8 @@ Jennet Jah is the daughter of the noted composter, Professor Kenneth Lee. She gr
 
 
 ## Sources
+- [TAH #245 encyclopedia: 245. Jannet Jah 李俊玲 / 2015/02](https://taiwaneseamericanhistory.org/245-jannet-jah-%e6%9d%8e%e4%bf%8a%e7%8e%b2-201502/)
+- [TAH #132 encyclopedia: 132. Jennet Jah李俊玲, Soprano / 2015/02](https://taiwaneseamericanhistory.org/132/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jannet-jah/)
 
 ## Related Pages

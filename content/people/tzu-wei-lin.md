@@ -28,6 +28,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #1750 encyclopedia: 1750. Tzu-Wei Lin 林子偉](https://taiwaneseamericanhistory.org/whos-who-1750-tzu-wei-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tzu-wei-lin/)
 
 ## Related Pages

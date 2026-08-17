@@ -30,6 +30,7 @@ Kenneth Liu (劉光道) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #1456 encyclopedia: 1456. Kenneth Liu  劉光道 / 2017/01](https://taiwaneseamericanhistory.org/whoswho1456/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kenneth-liu/)
 
 ## Related Pages

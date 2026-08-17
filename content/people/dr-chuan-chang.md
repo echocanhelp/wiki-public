@@ -29,6 +29,7 @@ Publication(Non-professional)
 
 
 ## Sources
+- [TAH #2278 encyclopedia: 2278. Dr. Chuan Chang 張仲權博士](https://taiwaneseamericanhistory.org/whos-who-2278-chuan-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-chuan-chang/)
 
 ## Related Pages

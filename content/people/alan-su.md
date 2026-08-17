@@ -27,6 +27,7 @@ Alan Su (蘇德源) is listed in the TAH Foundation Who’s Who Taiwanese Americ
 
 
 ## Sources
+- [TAH #1529 encyclopedia: 1529. Alan Su 蘇德源 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1529/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/alan-su/)
 
 ## Related Pages

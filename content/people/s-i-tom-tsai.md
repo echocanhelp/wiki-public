@@ -27,6 +27,7 @@ S.I. Tom Tsai (蔡式宜) is listed in the TAH Foundation Who’s Who Taiwanese 
 
 
 ## Sources
+- [TAH #895 encyclopedia: 895. S.I. (Tom) Tsai 蔡式宜/ 2016/03](https://taiwaneseamericanhistory.org/whos-tom-tsai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/s-i-tom-tsai/)
 
 ## Related Pages

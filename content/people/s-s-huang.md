@@ -31,6 +31,7 @@ S.S. Huang (黃申生) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #2109 encyclopedia: 2109. S.S. Huang 黃申生 / 05/2018](https://taiwaneseamericanhistory.org/whoswho2109/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/s-s-huang/)
 
 ## Related Pages

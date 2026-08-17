@@ -28,6 +28,7 @@ Professor and Head of Dept. of Biological Sciences
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2094 encyclopedia: 2094. Prof. Dennis Hsieh 謝顯堂教授](https://taiwaneseamericanhistory.org/whos-who-2094-dennis-hsieh/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-dennis-hsieh/)
 
 ## Related Pages

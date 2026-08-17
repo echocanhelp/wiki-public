@@ -27,6 +27,7 @@ Founded the Formosa Club of Eastern US (美東福爾摩莎俱樂部), the predec
 
 
 ## Sources
+- [TAH #2220 encyclopedia: 2220. C. M Yang 楊啓明/11/2019](https://taiwaneseamericanhistory.org/whos-who-2220/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-m-yang/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ G. N. Liao (廖光男) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2256 encyclopedia: 2256. G. N. Liao 廖光男/04/2020](https://taiwaneseamericanhistory.org/whos-who-2256-g-n-liao/)
+- [TAH #253 encyclopedia: 253. 廖光男 / The first president of Orange County Taiwanese Association (OCTA) / 1](https://taiwaneseamericanhistory.org/253-%e5%bb%96%e5%85%89%e7%94%b7-the-first-president-of-orange-county-taiwanese-association-octa-1987/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/g-n-liao/)
 
 ## Related Pages

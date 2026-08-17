@@ -27,6 +27,8 @@ S. T. Liu (劉曉亭) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 
 
 ## Sources
+- [TAH #1611 encyclopedia: 1611. 劉曉亭](https://taiwaneseamericanhistory.org/whos1611/)
+- [TAH #1152 encyclopedia: 1152. S. T. Liu 劉曉亭  / 2016/07](https://taiwaneseamericanhistory.org/whoswho1152/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/s-t-liu/)
 
 ## Related Pages

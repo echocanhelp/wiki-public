@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #145 encyclopedia: 145. Dr. Fu-Mei Chang 張富美博士](https://taiwaneseamericanhistory.org/145-dr-fu-mei-chang/)
+- [TAH #19 encyclopedia: 19. Dr. Fu-Mei Chang 張富美博士 / The First President of North America Taiwanese Wome](https://taiwaneseamericanhistory.org/19-dr-fu-mei-chang-%e5%bc%b5%e5%af%8c%e7%be%8e%e5%8d%9a%e5%a3%ab-the-first-president-of-north-america-taiwanese-women-association-%e5%8c%97%e7%be%8e%e6%b4%b2%e5%8f%b0%e7%81%a3%e5%a9%a6%e5%a5%b3/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/fu-mei-chang/)
 
 ## Related Pages

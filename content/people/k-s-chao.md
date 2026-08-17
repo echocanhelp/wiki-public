@@ -26,6 +26,7 @@ K. S. Chao (趙坤山) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1195 encyclopedia: 1195. K. S. Chao 趙坤山 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1195/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/k-s-chao/)
 
 ## Related Pages

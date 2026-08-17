@@ -26,6 +26,7 @@ Beginning violin studies in her native Taiwan at the age of ten, violinist Dr. Y
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #402 encyclopedia: 402. Yi-Hsin Lin 林宜欣, Violinist /06/2017](https://taiwaneseamericanhistory.org/yi-hsin-lin-violinist/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yi-hsin-lin/)
 
 ## Related Pages

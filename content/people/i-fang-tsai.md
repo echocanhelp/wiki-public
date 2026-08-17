@@ -26,6 +26,8 @@ Artist Tsai has been deeply in love with art since elementary school. At a young
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1050 encyclopedia: 1050. I-Fang Tsai 蔡宜芳 2016/05](https://taiwaneseamericanhistory.org/whoswho1050/)
+- [TAH #17 encyclopedia: 17. 蔡宜芳 Yvonne I-Fang Tsai](https://taiwaneseamericanhistory.org/artist-yvonne-i-fang-tsai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/i-fang-tsai/)
 
 ## Related Pages

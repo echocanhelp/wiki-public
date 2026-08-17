@@ -29,6 +29,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #644 encyclopedia: 644. 許財源—美國國防部軍事機密中的匿名英雄 / 廖明惠 /08/2018](https://taiwaneseamericanhistory.org/mystories644/)
+- [TAH #1507 encyclopedia: 1507.  Tsaiyuan (Terry)  Hsu 許財源 / 2017/02](https://taiwaneseamericanhistory.org/whos-tsaiyuan-terry-hsu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tsaiyuan-terry-hsu/)
 
 ## Related Pages

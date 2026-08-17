@@ -26,6 +26,8 @@ Chiun-Teng Cheng was born in Taiwan and went to the United States in 1986 and wa
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #130 encyclopedia: 130. Chiun-Teng Cheng 鄭俊騰, Violinist / 2015/02](https://taiwaneseamericanhistory.org/130-chiun-teng-cheng-%e9%84%ad%e4%bf%8a%e9%a8%b0-violinist-201502/)
+- [TAH #243 encyclopedia: 243. Chiun-Teng Cheng 鄭俊騰 /2015/02](https://taiwaneseamericanhistory.org/243/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chiun-teng-cheng/)
 
 ## Related Pages

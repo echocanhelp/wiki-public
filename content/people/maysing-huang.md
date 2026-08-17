@@ -28,6 +28,7 @@ Maysing Huang (楊黃美幸) is listed in the TAH Foundation Who’s Who Taiwane
 
 
 ## Sources
+- [TAH #1575 encyclopedia: 1575.  Maysing Huang 楊黃美幸 / 2017/03](https://taiwaneseamericanhistory.org/whoswho1575/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/maysing-huang/)
 
 ## Related Pages

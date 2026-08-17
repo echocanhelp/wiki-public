@@ -29,6 +29,8 @@ Deputy Attorney General
 
 
 ## Sources
+- [TAH #292 encyclopedia: 292. Peggy Huang 黃瑞雅](https://taiwaneseamericanhistory.org/ota-292/)
+- [TAH #2199 encyclopedia: 2199. Peggy Huang 黃瑞雅](https://taiwaneseamericanhistory.org/whos-who-2199-peggy-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/peggy-huang/)
 
 ## Related Pages

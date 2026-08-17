@@ -27,6 +27,7 @@ Chen-Chao Wang (王震昭) is listed in the TAH Foundation Who’s Who Taiwanese
 
 
 ## Sources
+- [TAH #1572 encyclopedia: 1572. Chen-Chao Wang 王震昭 / 2017/03](https://taiwaneseamericanhistory.org/whoswho1572/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chen-chao-wang/)
 
 ## Related Pages

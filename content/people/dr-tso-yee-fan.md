@@ -28,6 +28,7 @@ Dr. Tso-Yee Fan (范佐怡博士) is listed in the TAH Foundation Who’s Who Ta
 
 
 ## Sources
+- [TAH #2287 encyclopedia: 2287. Dr. Tso-Yee Fan 范佐怡博士](https://taiwaneseamericanhistory.org/whos-who-2287-tso-yee-fan/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-tso-yee-fan/)
 
 ## Related Pages

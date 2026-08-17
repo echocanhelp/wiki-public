@@ -29,6 +29,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #1936 encyclopedia: 1936. Jason Jung 莊吉生](https://taiwaneseamericanhistory.org/whos-who-1936-jason-jung/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jason-jung/)
 
 ## Related Pages

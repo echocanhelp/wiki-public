@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1491 encyclopedia: 1491. David Hsieh  謝漢強 / 2017/01](https://taiwaneseamericanhistory.org/whoswho1491/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/david-hsieh/)
 
 ## Related Pages

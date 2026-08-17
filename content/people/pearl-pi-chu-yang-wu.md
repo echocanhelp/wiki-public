@@ -29,6 +29,8 @@ Pearl Pi-Chu Yang Wu (楊碧珠) is listed in the TAH Foundation Who’s Who Tai
 
 
 ## Sources
+- [TAH #278 encyclopedia: 278. Pearl Pi-Chu Yang Wu 楊碧珠](https://taiwaneseamericanhistory.org/ota-278/)
+- [TAH #1742 encyclopedia: 1742. Pearl Pi-Chu Yang Wu 楊碧珠](https://taiwaneseamericanhistory.org/whos-who-1742-pi-chu-yang-wu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/pearl-pi-chu-yang-wu/)
 
 ## Related Pages

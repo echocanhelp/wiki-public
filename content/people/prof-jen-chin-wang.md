@@ -30,6 +30,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #139 encyclopedia: 139. Prof. Jen Chin Wang 王政卿教授](https://taiwaneseamericanhistory.org/139-prof-jen-chin-wang-%e7%8e%8b%e6%94%bf%e5%8d%bf%e6%95%99%e6%8e%88/)
+- [TAH #1230 encyclopedia: 1230. Prof. Jen Chin Wang 王政卿教授](https://taiwaneseamericanhistory.org/whos-who-1230-jen-chin-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-jen-chin-wang/)
 
 ## Related Pages

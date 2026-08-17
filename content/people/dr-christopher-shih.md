@@ -27,6 +27,7 @@ Dr. Christopher Shih 石慶愷醫師 – History of Taiwanese American (T.A. Arc
 
 
 ## Sources
+- [TAH #1709 encyclopedia: 1709. Dr. Christopher Shih 石慶愷醫師](https://taiwaneseamericanhistory.org/whos-who-1709-christopher-shih/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-christopher-shih/)
 
 ## Related Pages

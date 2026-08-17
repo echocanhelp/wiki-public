@@ -27,6 +27,8 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #288 encyclopedia: 288. Prof. Ben Liu 劉斌碩教授](https://taiwaneseamericanhistory.org/ota-288/)
+- [TAH #736 encyclopedia: 736. Prof. Ben Liu 劉斌碩教授](https://taiwaneseamericanhistory.org/whos-who-736-ben-liu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-ben-liu/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #182 encyclopedia: 182. Dan Lin 林暐](https://taiwaneseamericanhistory.org/182-dan-lin-%e6%9e%97%e6%9a%90/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dan-lin/)
 
 ## Related Pages

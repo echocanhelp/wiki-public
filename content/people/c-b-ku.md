@@ -27,6 +27,7 @@ C. B. Ku (辜澄彬) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 
 
 ## Sources
+- [TAH #1039 encyclopedia: 1039. C. B. Ku 辜澄彬 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1039/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-b-ku/)
 
 ## Related Pages

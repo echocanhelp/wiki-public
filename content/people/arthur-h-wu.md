@@ -28,6 +28,7 @@ Arthur H. Wu (吳漢南) is listed in the TAH Foundation Who’s Who Taiwanese A
 
 
 ## Sources
+- [TAH #712 encyclopedia: 712.  Arthur H. Wu 吳漢南/ 2015/11](https://taiwaneseamericanhistory.org/712-arthur-h-wu-%e5%90%b3%e6%bc%a2%e5%8d%97-201511/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/arthur-h-wu/)
 
 ## Related Pages

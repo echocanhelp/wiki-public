@@ -26,6 +26,7 @@ Author of Guiding Lights: The People Who Lead Us Toward Our Purpose in Life (200
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #179 encyclopedia: 179. Eric Liu 劉柏川](https://taiwaneseamericanhistory.org/179-eric-liu-%e5%8a%89%e6%9f%8f%e5%b7%9d/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/eric-liu/)
 
 ## Related Pages

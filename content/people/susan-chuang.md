@@ -26,6 +26,7 @@ Susan Chuang (莊士晟) is listed in the TAH Foundation Who’s Who Taiwanese A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2271 encyclopedia: 2271. Susan Chuang 莊士晟](https://taiwaneseamericanhistory.org/whos-who-2271-susan-chuang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/susan-chuang/)
 
 ## Related Pages

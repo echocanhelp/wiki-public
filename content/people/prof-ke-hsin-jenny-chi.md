@@ -26,6 +26,7 @@ Prof. Ke-Hsin Jenny Chi 紀可欣教授 – History of Taiwanese American (T.A. 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1986 encyclopedia: 1986. Prof. Ke-Hsin Jenny Chi 紀可欣教授](https://taiwaneseamericanhistory.org/whos-who-1986-ke-hsin-chi/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-ke-hsin-jenny-chi/)
 
 ## Related Pages

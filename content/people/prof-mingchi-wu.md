@@ -29,6 +29,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #203 encyclopedia: 203. Prof. Mingchi Wu 吳明基教授](https://taiwaneseamericanhistory.org/203-prof-mingchi-wu/)
+- [TAH #975 encyclopedia: 975. Prof. Mingchi Wu 吳明基教授](https://taiwaneseamericanhistory.org/whos-who-975-mingchi-wu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-mingchi-wu/)
 
 ## Related Pages

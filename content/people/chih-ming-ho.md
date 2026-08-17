@@ -29,6 +29,7 @@ Assistant Professor to Professor
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1475 encyclopedia: 1475. Chih-Ming Ho 何志明 / 2017/01](https://taiwaneseamericanhistory.org/whoswho1475/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chih-ming-ho/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ Prof. Ching-Shui Cheng 鄭清水教授 – History of Taiwanese American (T.A. A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2024 encyclopedia: 2024. Prof. Ching-Shui Cheng 鄭清水教授](https://taiwaneseamericanhistory.org/whos-who-2024-ching-shui-cheng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ching-shui-cheng/)
 
 ## Related Pages

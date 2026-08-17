@@ -29,6 +29,7 @@ Fong-Jen Lin (林豐仁) is listed in the TAH Foundation Who’s Who Taiwanese A
 
 
 ## Sources
+- [TAH #614 encyclopedia: 614. Fong-Jen Lin 林豐仁 / 2015/09](https://taiwaneseamericanhistory.org/614-fong-jen-lin-%e6%9e%97%e8%b1%90%e4%bb%81-201509/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/fong-jen-lin/)
 
 ## Related Pages

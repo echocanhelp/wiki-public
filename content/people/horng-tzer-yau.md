@@ -26,6 +26,7 @@ Horng-Tzer Yau (姚鴻澤) is listed in the TAH Foundation Who’s Who Taiwanese
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1552 encyclopedia: 1552. Horng-Tzer Yau 姚鴻澤 / 2017/03](https://taiwaneseamericanhistory.org/whoswho1552/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/horng-tzer-yau/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #240 encyclopedia: 240. George Lee李東亨, Violinist / 2015/07](https://taiwaneseamericanhistory.org/240-george-lee%e6%9d%8e%e6%9d%b1%e4%ba%a8-violinist-201507/)
+- [TAH #497 encyclopedia: 497. George Lee 李東亨 / 2015/07](https://taiwaneseamericanhistory.org/497-george-lee-%e6%9d%8e%e6%9d%b1%e4%ba%a8-201507/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/george-lee/)
 
 ## Related Pages

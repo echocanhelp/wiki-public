@@ -29,6 +29,7 @@ United States District Judge
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1556 encyclopedia: 1556. Theodore Chuang 西奧多．莊 / 2017/03](https://taiwaneseamericanhistory.org/whoswho1556/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/theodore-chuang/)
 
 ## Related Pages

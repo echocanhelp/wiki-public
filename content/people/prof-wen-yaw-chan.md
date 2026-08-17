@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2115 encyclopedia: 2115. Prof. Wen-Yaw Chan 詹文耀教授](https://taiwaneseamericanhistory.org/whos-who-2115-wen-yaw-chan/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-wen-yaw-chan/)
 
 ## Related Pages

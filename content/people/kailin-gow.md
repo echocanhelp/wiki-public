@@ -27,6 +27,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #1979 encyclopedia: 1979. Kailin Gow 梁凱琳](https://taiwaneseamericanhistory.org/whos-who-1979-kailin-gow/)
+- [TAH #354 encyclopedia: 354. Kailin Gow 梁凱琳 / The Most Productive Author](https://taiwaneseamericanhistory.org/ff354/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kailin-gow/)
 
 ## Related Pages

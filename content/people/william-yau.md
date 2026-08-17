@@ -28,6 +28,7 @@ William Yau (姚火草) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #1565 encyclopedia: 1565. William Yau 姚火草 /03/2017](https://taiwaneseamericanhistory.org/whos-william-yau/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/william-yau/)
 
 ## Related Pages

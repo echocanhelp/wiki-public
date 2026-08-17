@@ -30,6 +30,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #1261 encyclopedia: 1261. Dr. Che-Yang Huang 黃哲陽醫師](https://taiwaneseamericanhistory.org/whos-who-1261-che-yang-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-che-yang-huang/)
 
 ## Related Pages

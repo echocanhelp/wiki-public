@@ -26,6 +26,7 @@ Deputy Director (2006-08); Director (2013-2016)Institute of Molecular Biology; D
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1840 encyclopedia: 1840. Dr. Soo-Chen Cheng 鄭淑珍博士](https://taiwaneseamericanhistory.org/whos-who-1840-soo-chen-cheng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-soo-chen-cheng/)
 
 ## Related Pages

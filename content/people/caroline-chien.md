@@ -28,6 +28,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #1863 encyclopedia: 1863. Caroline Chien 簡淑津](https://taiwaneseamericanhistory.org/whos-who-1863-caroline-chien/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/caroline-chien/)
 
 ## Related Pages

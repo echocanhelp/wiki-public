@@ -27,6 +27,8 @@ Nancy Yang graduated from the University of California, Berkeley, with a Master�
 
 
 ## Sources
+- [TAH #1025 encyclopedia: 1025.  Nancy Yang 陳玲銖 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1025/)
+- [TAH #25 encyclopedia: 25.陳玲銖 Nancy Yang](https://taiwaneseamericanhistory.org/25-%e9%99%b3%e7%8e%b2%e9%8a%96-nancy-yang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/nancy-yang/)
 
 ## Related Pages

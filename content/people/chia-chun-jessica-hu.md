@@ -27,6 +27,7 @@ M.S. Dance/Movement Therapy (DMT) and Psychology Counseling
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1290 encyclopedia: 1290. Chia Chun Jessica Hu 胡佳君 / 2016/09](https://taiwaneseamericanhistory.org/whos1290-chia-chun-jessica-hu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chia-chun-jessica-hu/)
 
 ## Related Pages

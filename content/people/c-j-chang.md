@@ -27,6 +27,7 @@ C. J. Chang (張家禎) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #1807 encyclopedia: 1807. C. J. Chang 張家禎 / 07/2017](https://taiwaneseamericanhistory.org/whoswho1807/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-j-chang/)
 
 ## Related Pages

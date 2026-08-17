@@ -26,6 +26,7 @@ Tsuey-Tang Wang (王萃堂) is listed in the TAH Foundation Who’s Who Taiwanes
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #795 encyclopedia: 795. Tsuey-Tang Wang 王萃堂 /2016/01](https://taiwaneseamericanhistory.org/795-tsuey-tang-wang-%e7%8e%8b%e8%90%83%e5%a0%82-201601/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tsuey-tang-wang/)
 
 ## Related Pages

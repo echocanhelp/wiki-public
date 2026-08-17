@@ -27,6 +27,8 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #298 encyclopedia: 298. Prof. Chung Y. Hsu 許重義教授](https://taiwaneseamericanhistory.org/ota-298/)
+- [TAH #723 encyclopedia: 723. Prof. Chung-Yi Hsu 許重義教授](https://taiwaneseamericanhistory.org/whos-who-723-chung-yi-hsu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-chung-yi-hsu/)
 
 ## Related Pages

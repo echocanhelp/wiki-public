@@ -26,6 +26,8 @@ At the age of three, Tzu-yi Chen idolized her five-year-old brother. She wanted 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #106 encyclopedia: 106. Tzu-yi Chen 陳孜怡, Pianist/2014/12](https://taiwaneseamericanhistory.org/106-tzu-yi-chen-pianist/)
+- [TAH #184 encyclopedia: 184. Tzu-Yi Chen 陳孜怡](https://taiwaneseamericanhistory.org/184-tzu-yi-chen-%e9%99%b3%e5%ad%9c%e6%80%a1/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tzu-yi-chen/)
 
 ## Related Pages

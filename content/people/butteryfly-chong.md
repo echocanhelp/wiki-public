@@ -25,7 +25,12 @@ Born in Malaysia, Choral Conductor Butterfly Chong 張翠蝶 moved to Taipei, Ta
 
 _No filled family fields on the TAH profile._
 
+## Works
+- Oral history — 36. Butterfly Chong 張翠蝶, Choral Conductor/2014/10 (https://taiwaneseamericanhistory.org/36-butterfly-chong-%e5%bc%b5%e7%bf%a0%e8%9d%b6-choral-conductor/)
+
 ## Sources
+- [TAH #36 oral history: 36. Butterfly Chong 張翠蝶, Choral Conductor/2014/10](https://taiwaneseamericanhistory.org/36-butterfly-chong-%e5%bc%b5%e7%bf%a0%e8%9d%b6-choral-conductor/)
+- [TAH #457 encyclopedia: 457. Butteryfly Chong 張翠蝶 / 2015/06](https://taiwaneseamericanhistory.org/457-butteryfly-chong-%e5%bc%b5%e7%bf%a0%e8%9d%b6-201506/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/butteryfly-chong/)
 
 ## Related Pages

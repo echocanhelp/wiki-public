@@ -27,6 +27,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #2187 encyclopedia: 2187. Patrick P. Lin 林博智](https://taiwaneseamericanhistory.org/whos-who-2187-patrick-p-lin/)
+- [TAH #262 encyclopedia: 262. Patrick P. Lin 林博智](https://taiwaneseamericanhistory.org/ota-262/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/patrick-p-lin/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ Chien-Ting Yeh (葉介庭) is listed in the TAH Foundation Who’s Who Taiwanese
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #425 encyclopedia: 425. Chien-Ting Yeh 葉介庭 / 2015/05](https://taiwaneseamericanhistory.org/425-chien-ting-yeh-%e8%91%89%e4%bb%8b%e5%ba%ad-201505/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chien-ting-yeh/)
 
 ## Related Pages

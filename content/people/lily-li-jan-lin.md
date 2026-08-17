@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #177 encyclopedia: 177. Lily Li-Jan Lin 林麗貞, Conductor / 2015/03](https://taiwaneseamericanhistory.org/177-%e6%9e%97%e9%ba%97%e8%b2%9e-conductor-201503/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/lily-li-jan-lin/)
 
 ## Related Pages

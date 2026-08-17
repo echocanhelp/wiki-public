@@ -26,6 +26,7 @@ C. C. Hsieh (謝正忠) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1420 encyclopedia: 1420.  C. C. Hsieh 謝正忠 / 2016/12](https://taiwaneseamericanhistory.org/whoswho1420/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-c-hsieh/)
 
 ## Related Pages

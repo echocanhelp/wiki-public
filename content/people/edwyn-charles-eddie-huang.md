@@ -28,6 +28,7 @@ Edwyn Charles (Eddie) Huang 黄颐銘 – History of Taiwanese American (T.A. Ar
 
 
 ## Sources
+- [TAH #160 encyclopedia: 160. Edwyn Charles (Eddie) Huang 黄颐銘](https://taiwaneseamericanhistory.org/whos-who-160-edwyn-charles-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/edwyn-charles-eddie-huang/)
 
 ## Related Pages

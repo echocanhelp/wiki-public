@@ -26,6 +26,7 @@ Dr. Wei-Ting Yen (顏維婷博士) is listed in the TAH Foundation Who’s Who T
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2279 encyclopedia: 2279. Dr. Wei-Ting Yen 顏維婷博士](https://taiwaneseamericanhistory.org/whos-who-2279-wei-ting-yen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-wei-ting-yen/)
 
 ## Related Pages

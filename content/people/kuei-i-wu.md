@@ -26,6 +26,8 @@ Kuei-I Wu 伍癸怡, one of the most celebrated concert pianists from Taiwan, ha
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1083 encyclopedia: 1083. Kuei-I Wu 伍癸怡 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1083/)
+- [TAH #7 encyclopedia: 7. Kuei-I Wu 伍癸怡, pianist/2014/10](https://taiwaneseamericanhistory.org/musician7/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kuei-i-wu/)
 
 ## Related Pages

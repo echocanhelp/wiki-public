@@ -26,6 +26,7 @@ Dr. Izabel S. H. Chuang 莊捷筠博士 – History of Taiwanese American (T.A. 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2233 encyclopedia: 2233. Dr. Izabel S. H. Chuang 莊捷筠博士](https://taiwaneseamericanhistory.org/whos-who-2233-izabel-s-h-chuang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-izabel-s-h-chuang/)
 
 ## Related Pages

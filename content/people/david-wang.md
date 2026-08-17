@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2282 encyclopedia: 2282. David Wang 王思眾](https://taiwaneseamericanhistory.org/whos-who-2282-david-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/david-wang/)
 
 ## Related Pages

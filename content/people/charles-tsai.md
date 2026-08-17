@@ -28,6 +28,7 @@ Charles Tsai (蔡其芳) is listed in the TAH Foundation Who’s Who Taiwanese A
 
 
 ## Sources
+- [TAH #961 encyclopedia: 961. Charles Tsai 蔡其芳 / 2016/05](https://taiwaneseamericanhistory.org/whoswho961/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/charles-tsai/)
 
 ## Related Pages

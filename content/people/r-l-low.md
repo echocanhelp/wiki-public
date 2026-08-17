@@ -27,6 +27,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #1771 encyclopedia: 1771.  R. L. Low  羅瑞蘭 / 07/2017](https://taiwaneseamericanhistory.org/whoswho1771/)
+- [TAH #417 encyclopedia: 417. Rui-Lan Lo羅瑞蘭,Vocal / 07/2017](https://taiwaneseamericanhistory.org/musician417/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/r-l-low/)
 
 ## Related Pages

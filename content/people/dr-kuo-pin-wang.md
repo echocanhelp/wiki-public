@@ -30,6 +30,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #1740 encyclopedia: 1740. Dr. Kuo-Pin Wang 王國斌博士](https://taiwaneseamericanhistory.org/whos-who-1740-kuo-pin-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-kuo-pin-wang/)
 
 ## Related Pages

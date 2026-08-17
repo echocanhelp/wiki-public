@@ -26,6 +26,7 @@ Prof. Ting-Chao Chou 周廷潮教授 – History of Taiwanese American (T.A. Arc
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1844 encyclopedia: 1844. Prof. Ting-Chao Chou 周廷潮教授](https://taiwaneseamericanhistory.org/whos-who-1844-ting-chao-chou/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-ting-chao-chou/)
 
 ## Related Pages

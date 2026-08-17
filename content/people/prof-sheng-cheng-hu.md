@@ -26,6 +26,8 @@ Prof. Sheng-cheng Hu 胡勝正教授 – History of Taiwanese American (T.A. Arc
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #150 encyclopedia: 150. Prof. Sheng-Cheng Hu 胡勝正教授](https://taiwaneseamericanhistory.org/150-prof-sheng-cheng-hu/)
+- [TAH #2150 encyclopedia: 2150. Prof. Sheng-cheng Hu  胡勝正教授](https://taiwaneseamericanhistory.org/whos-who-2150-sheng-cheng-hu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-sheng-cheng-hu/)
 
 ## Related Pages

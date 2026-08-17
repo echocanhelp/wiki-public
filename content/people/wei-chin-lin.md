@@ -26,6 +26,8 @@ Percussionist Wei-Chen Lin is a top prize winner in competitions worldwide, incl
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #379 encyclopedia: 379. Wei-Chin Lin 林威震 / 2015/04](https://taiwaneseamericanhistory.org/379-wei-chin-lin-%e6%9e%97%e5%a8%81%e9%9c%87-201504/)
+- [TAH #186 encyclopedia: 186.  Wei-Chen Lin 林威震, Percussionist / 2015/03](https://taiwaneseamericanhistory.org/186-wei-chen-lin-%e6%9e%97%e5%a8%81%e9%9c%87-percussionist-201503/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/wei-chin-lin/)
 
 ## Related Pages

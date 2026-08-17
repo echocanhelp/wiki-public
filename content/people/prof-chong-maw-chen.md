@@ -26,6 +26,8 @@ Prof. Chong-Maw Chen 陳正茂教授 – History of Taiwanese American (T.A. Arc
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #188 encyclopedia: 188. Prof. Chong-Maw Chen 陳正茂教授](https://taiwaneseamericanhistory.org/188-prof-chong-maw-chen/)
+- [TAH #1677 encyclopedia: 1677.  Prof. Chong-Maw Chen 陳正茂教授](https://taiwaneseamericanhistory.org/whos-who-1677-chong-maw-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-chong-maw-chen/)
 
 ## Related Pages

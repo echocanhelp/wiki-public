@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1583 encyclopedia: 1583. Yvonne lin 林韻玉 / 2017/03](https://taiwaneseamericanhistory.org/whoswho1583/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yvonne-lin/)
 
 ## Related Pages

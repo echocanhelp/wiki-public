@@ -27,6 +27,7 @@ Julie Su Young (蘇秋莉) is listed in the TAH Foundation Who’s Who Taiwanese
 
 
 ## Sources
+- [TAH #1842 encyclopedia: 1842. Julie Su Young 蘇秋莉 / 08/2017](https://taiwaneseamericanhistory.org/whoswho1842/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/julie-su-young/)
 
 ## Related Pages

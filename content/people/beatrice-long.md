@@ -27,6 +27,8 @@ Beatrice Long 隆信真 is a top prize winner in several international competiti
 
 
 ## Sources
+- [TAH #1774 encyclopedia: 1774. Beatrice Long 隆信真](https://taiwaneseamericanhistory.org/whos-who-1774-beatrice-long/)
+- [TAH #420 encyclopedia: 420. Beatrice Long 隆信真, pianist / 07/2017](https://taiwaneseamericanhistory.org/musician420/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/beatrice-long/)
 
 ## Related Pages

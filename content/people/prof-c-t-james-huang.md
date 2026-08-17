@@ -26,6 +26,7 @@ Prof. C.-T. (James) Huang 黃正德教授 – History of Taiwanese American (T.A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2019 encyclopedia: 2019. Prof. C.-T. (James) Huang  黃正德教授](https://taiwaneseamericanhistory.org/whos-who-2019-c-t-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-c-t-james-huang/)
 
 ## Related Pages

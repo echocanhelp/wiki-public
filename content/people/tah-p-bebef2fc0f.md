@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #562 encyclopedia: 562. 陳炳衡 / 2015/08](https://taiwaneseamericanhistory.org/562-%e9%99%b3%e7%82%b3%e8%a1%a1-201508/)
+- [TAH #283 encyclopedia: 283. BING-HENG CHEN 陳炳衡, Conductor / 2015/08](https://taiwaneseamericanhistory.org/283-%e9%99%b3%e7%82%b3%e8%a1%a1-conductor-201508/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e9%99%b3%e7%82%b3%e8%a1%a1/)
 
 ## Related Pages

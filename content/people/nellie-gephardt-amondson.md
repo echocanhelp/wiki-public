@@ -29,6 +29,7 @@ Nellie Gephardt Amondson 納莉‧艾默森 – History of Taiwanese American (T
 
 
 ## Sources
+- [TAH #1614 encyclopedia: 1614. Nellie Gephardt Amondson 納莉‧艾默森](https://taiwaneseamericanhistory.org/whos-nellie-gephardt-amondson/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/nellie-gephardt-amondson/)
 
 ## Related Pages

@@ -30,6 +30,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #1812 encyclopedia: 1812. Rev. James Chang 張拯民牧師](https://taiwaneseamericanhistory.org/whos-who-1812-james-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rev-james-chang/)
 
 ## Related Pages

@@ -27,6 +27,7 @@ Wen Chi Chang (張文祺) is listed in the TAH Foundation Who’s Who Taiwanese 
 
 
 ## Sources
+- [TAH #1455 encyclopedia: 1455. Wen Chi Chang 	 張文祺 / 2017/01](https://taiwaneseamericanhistory.org/whoswho1455/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/wen-chi-chang/)
 
 ## Related Pages

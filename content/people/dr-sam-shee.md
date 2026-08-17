@@ -27,6 +27,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #79 encyclopedia: 79. Dr. Sam Shee 施哲三醫師](https://taiwaneseamericanhistory.org/79-dr-sam-shee/)
+- [TAH #1105 encyclopedia: 1105. Dr. Sam Shee 施哲三醫師](https://taiwaneseamericanhistory.org/whos-who-1105-sam-shee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-sam-shee/)
 
 ## Related Pages

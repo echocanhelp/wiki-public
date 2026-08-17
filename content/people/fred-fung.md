@@ -26,6 +26,7 @@ Fred Fung (馮耀祥) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1470 encyclopedia: 1470. Fred Fung 馮耀祥 / 2017/01](https://taiwaneseamericanhistory.org/whoswho1470/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/fred-fung/)
 
 ## Related Pages

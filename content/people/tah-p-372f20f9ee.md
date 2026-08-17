@@ -26,6 +26,9 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #493 encyclopedia: 493. 林福裕 / 2015/07](https://taiwaneseamericanhistory.org/493-%e6%9e%97%e7%a6%8f%e8%a3%95-201507/)
+- [TAH #238 encyclopedia: 238. Fu-Yu Lin 林福裕 , Conductor / 2015/07](https://taiwaneseamericanhistory.org/238-%e6%9e%97%e7%a6%8f%e8%a3%95-conductor-201507/)
+- [TAH #276 encyclopedia: 276. The Life Story of Mr. 林福裕1931.11.19 ~ 2004.6.18/Ringo Lin/2015/05](https://taiwaneseamericanhistory.org/276-the-life-story-of-mr-%e6%9e%97%e7%a6%8f%e8%a3%951931-11-19-2004-6-18ringo-lin201505/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e6%9e%97%e7%a6%8f%e8%a3%95/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ Dr. Fu-Kai Hsieh (謝富凱博士) is listed in the TAH Foundation Who’s Who T
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1685 encyclopedia: 1685. Dr. Fu-Kai Hsieh 謝富凱博士](https://taiwaneseamericanhistory.org/whos-who-1685-fu-kai-hsieh/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-fu-kai-hsieh/)
 
 ## Related Pages

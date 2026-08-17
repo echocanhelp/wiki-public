@@ -29,6 +29,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #2041 encyclopedia: 2041. Dr. Nancy Fan-Paul 樊意琪醫師](https://taiwaneseamericanhistory.org/whos-who-2041-nancy-fan-paul/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-nancy-fan-paul/)
 
 ## Related Pages

@@ -28,6 +28,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #1551 encyclopedia: 1551. Victor Liu 劉亮華 / 2017/03](https://taiwaneseamericanhistory.org/whoswho1551/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/victor-liu/)
 
 ## Related Pages

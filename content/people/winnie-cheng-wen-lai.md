@@ -26,6 +26,7 @@ New York-based Oboist Chengwen Winnie Lai maintains a varied chamber music and o
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #98 encyclopedia: 98. Winnie Cheng-Wen Lai 賴政雯, Woodwind/2014/12](https://taiwaneseamericanhistory.org/98-winnie-cheng-wen-lai-%e8%b3%b4%e6%94%bf%e9%9b%af/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/winnie-cheng-wen-lai/)
 
 ## Related Pages

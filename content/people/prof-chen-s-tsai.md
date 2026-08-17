@@ -29,6 +29,9 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #27 encyclopedia: 27. Prof. Chen S. Tsai 蔡振水教授](https://taiwaneseamericanhistory.org/27-prof-chen-s-tsai/)
+- [TAH #15 encyclopedia: 15. Prof. Chen S. Tsai 蔡振水教授](https://taiwaneseamericanhistory.org/pride-chen-s-tsai/)
+- [TAH #368 encyclopedia: 368. Prof. Chen S. Tsai 蔡振水教授](https://taiwaneseamericanhistory.org/whos-who-368-chen-s-tsai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-chen-s-tsai/)
 
 ## Related Pages

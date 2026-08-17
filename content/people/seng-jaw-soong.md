@@ -27,6 +27,7 @@ Senior Leader
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1482 encyclopedia: 1482. Seng-Jaw Soong 宋盛照 / 2017/01](https://taiwaneseamericanhistory.org/whoswho1482/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/seng-jaw-soong/)
 
 ## Related Pages

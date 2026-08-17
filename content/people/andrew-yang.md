@@ -29,6 +29,8 @@ Andrew Yang is an American entrepreneur, author, and politician born on January 
 
 
 ## Sources
+- [TAH #219 encyclopedia: 219. Andrew Yang 楊安澤](https://taiwaneseamericanhistory.org/ota-219/)
+- [TAH #2058 encyclopedia: 2058. Andrew Yang 楊安澤](https://taiwaneseamericanhistory.org/whos-who-2058-andrew-yang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/andrew-yang/)
 
 ## Related Pages

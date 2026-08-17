@@ -27,6 +27,7 @@ Lily Chiang (姜萊莉) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #300 encyclopedia: 300. Lily Chiang 姜萊莉 / 2015/02](https://taiwaneseamericanhistory.org/300-lily-chaing-201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/lily-chiang/)
 
 ## Related Pages

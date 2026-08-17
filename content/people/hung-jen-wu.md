@@ -26,6 +26,7 @@ Outstanding Performance Presentation of 2013 Annual Symposium-the Society of Chi
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1578 encyclopedia: 1578. Hung-Jen Wu 吳泓仁/ 2017/03](https://taiwaneseamericanhistory.org/1578-hung-jen-wu-%e5%90%b3%e6%b3%93%e4%bb%81-201703/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hung-jen-wu/)
 
 ## Related Pages

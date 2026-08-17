@@ -28,6 +28,7 @@ Angie Chen Button (陳筱玲) is listed in the TAH Foundation Who’s Who Taiwan
 
 
 ## Sources
+- [TAH #1567 encyclopedia: 1567. Angie Chen Button 陳筱玲 / 2017/03](https://taiwaneseamericanhistory.org/whoswho1567/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/angie-chen-button/)
 
 ## Related Pages

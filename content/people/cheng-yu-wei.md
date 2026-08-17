@@ -26,6 +26,7 @@ Cheng-Yu Wei (魏琤郁) is listed in the TAH Foundation Who’s Who Taiwanese A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1584 encyclopedia: 1584. Cheng-Yu Wei 魏琤郁 / 2017/03](https://taiwaneseamericanhistory.org/whoswho1584/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/cheng-yu-wei/)
 
 ## Related Pages

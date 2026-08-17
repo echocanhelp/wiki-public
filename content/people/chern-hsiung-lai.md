@@ -26,6 +26,7 @@ President of the Taiwanese American Physicians Association, Greater Philadelphia
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1340 encyclopedia: 1340. Chern-Hsiung Lai 賴辰雄 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1340/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chern-hsiung-lai/)
 
 ## Related Pages

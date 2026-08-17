@@ -26,6 +26,8 @@ Born in Taipei, Taiwan, Linda began piano lessons at the age of four. A few year
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #264 encyclopedia: 264. Linda Chen 陳映妤, Pianist / 2015/08](https://taiwaneseamericanhistory.org/264-linda-chen-%e9%99%b3%e6%98%a0%e5%a6%a4-pianist-201508/)
+- [TAH #530 encyclopedia: 530. Linda Chen 陳映妤 / 2015/08](https://taiwaneseamericanhistory.org/264-linda-chen-%e9%99%b3%e6%98%a0%e5%a6%a4-201508/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/linda-chen/)
 
 ## Related Pages

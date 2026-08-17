@@ -28,6 +28,7 @@ Chin-Hsin Jason Liu (劉進興) is listed in the TAH Foundation Who’s Who Taiw
 
 
 ## Sources
+- [TAH #1440 encyclopedia: 1440. Chin-Hsin Jason Liu 劉進興 / 2016/12](https://taiwaneseamericanhistory.org/whoswho1440/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chin-hsin-jason-liu/)
 
 ## Related Pages

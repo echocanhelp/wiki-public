@@ -28,6 +28,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #2135 encyclopedia: 2135. Ching Ih Wang 王進益](https://taiwaneseamericanhistory.org/whos-who-2135-ching-ih-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ching-ih-wang/)
 
 ## Related Pages

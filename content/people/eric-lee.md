@@ -26,6 +26,7 @@ Eric Lee (李英毅) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1515 encyclopedia: 1515. Eric Lee 李英毅 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1515/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/eric-lee/)
 
 ## Related Pages

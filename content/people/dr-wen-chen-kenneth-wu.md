@@ -26,6 +26,7 @@ Dr. Wen-Chen (Kenneth) Wu 吳文振博士 – History of Taiwanese American (T.A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1697 encyclopedia: 1697. Dr. Wen-Chen (Kenneth) Wu 吳文振博士](https://taiwaneseamericanhistory.org/whos-who-1697-wen-chen-wu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-wen-chen-kenneth-wu/)
 
 ## Related Pages

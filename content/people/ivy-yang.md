@@ -26,6 +26,7 @@ Ivy Yang (楊靜芬) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1716 encyclopedia: 1716. Ivy Yang  楊靜芬](https://taiwaneseamericanhistory.org/whoswho1716/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ivy-yang/)
 
 ## Related Pages

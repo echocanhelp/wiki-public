@@ -26,6 +26,8 @@ Raised in Germany, Chen’s early studies fostered strong roots in Germanic Clas
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #576 encyclopedia: 576. Hung-Kuan Chen 陳宏寬 / 2015/09](https://taiwaneseamericanhistory.org/576-hung-kuan-chen-%e9%99%b3%e5%ae%8f%e5%af%ac-201509/)
+- [TAH #292 encyclopedia: 292. Hung-Kuan Chen 陳宏寬, Pianist / 2015/09](https://taiwaneseamericanhistory.org/292-hung-kuan-chen-%e9%99%b3%e5%ae%8f%e5%af%ac-pianist-201509/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hung-kuan-chen/)
 
 ## Related Pages

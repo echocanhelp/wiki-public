@@ -27,6 +27,8 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #126 encyclopedia: 126. Dr. Yeongchi Wu 吳永吉醫師](https://taiwaneseamericanhistory.org/126-dr-yeongchi-wu/)
+- [TAH #122 encyclopedia: 122. Dr. Yeongchi Wu 吳永吉醫師](https://taiwaneseamericanhistory.org/whos-who-122-yeongchi-wu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-yeongchi-wu/)
 
 ## Related Pages

@@ -29,6 +29,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #156 encyclopedia: 156. Dr. Jian-Juei Wang 王健椎博士](https://taiwaneseamericanhistory.org/156-dr-jian-juei-wang/)
+- [TAH #97 encyclopedia: 97. Dr. Jian-Juei Wang 王健椎博士](https://taiwaneseamericanhistory.org/whos-who-97-jian-juei-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-jian-juei-wang/)
 
 ## Related Pages

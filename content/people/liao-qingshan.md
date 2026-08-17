@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-16
+last_reviewed: 2026-08-17
 ---
 # Liao Qing-shan (廖清山)
 
@@ -22842,7 +22842,7 @@ Notable quotes and mentions of **廖清山** in Taiwan Justice articles:
 
 ### Unknown (1 quotes)
 
-1. "xuan|He Qinglian (何清漣)]] — 50 articles - [[people/liao-qingshan|Liao Qing-shan (廖清山)]] — 37 articles ### Political Figures - [[people/tsai-ing-wen|Tsai Ing-wen (蔡英"
+1. "xuan|He Qinglian (何清漣)]] — 50 articles - [[people/liao-qingshan|Liao Qing-shan (廖清山)]] — 37 articles ### Political Figures - [[people/tsai-ing-wen|Tsai Ing-wen (蔡"
    — "taiwanjustice.net Article Archive" (unknown)
 
 ### 2024 (24 quotes)
@@ -22944,6 +22944,10 @@ Notable quotes and mentions of **廖清山** in Taiwan Justice articles:
 - **Content priority B:** Column author listing from `knowledge/research/taiwanjustice-net-entities.md`
 - **Hub:** [[sources/taiwanjustice-net|taiwanjustice.net source hub]]
 - **Archive:** [Column articles](https://github.com/echocanhelp/wiki-public/tree/gh-pages/knowledge/web-archives/taiwanjustice-net/tier2/)
+
+## Sources
+- [TAH #2056 encyclopedia: 2056. B. S. Jiang 江百顯(廖清山)](https://taiwaneseamericanhistory.org/whos-who-2056-b-s-jiang/)
+- [TAH #120 encyclopedia: 120. 年輪邊緣 – 廖清山 – 1997.09 – 文學](https://taiwaneseamericanhistory.org/120-%e5%b9%b4%e8%bc%aa%e9%82%8a%e7%b7%a3-%e5%bb%96%e6%b8%85%e5%b1%b1-1997-09-%e6%96%87%e5%ad%b8/)
 
 ## Related Pages
 

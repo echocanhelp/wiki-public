@@ -33,6 +33,7 @@ PhD, International Law and International Relations
 
 
 ## Sources
+- [TAH #590 encyclopedia: 590. David J. Lu 盧焜熙 /2015/09](https://taiwaneseamericanhistory.org/590-david-j-lu-%e7%9b%a7%e7%84%9c%e7%86%99-201509/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/david-j-lu/)
 
 ## Related Pages

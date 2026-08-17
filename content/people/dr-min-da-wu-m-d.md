@@ -27,6 +27,7 @@ Dr. Min-Da Wu M.D. (吳明達) is listed in the TAH Foundation Who’s Who Taiwa
 
 
 ## Sources
+- [TAH #154 encyclopedia: 154. Dr. Min-Da Wu 吳明達 M.D.](https://taiwaneseamericanhistory.org/158-dr-min-da-wu-%e5%90%b3%e6%98%8e%e9%81%94-m-d/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-min-da-wu-m-d/)
 
 ## Related Pages

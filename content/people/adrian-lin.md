@@ -29,6 +29,7 @@ Adrian Lin (林宣緒) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #918 encyclopedia: 918. Adrian Lin 林宣緒 / 2016/04](https://taiwaneseamericanhistory.org/whoswho918/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/adrian-lin/)
 
 ## Related Pages

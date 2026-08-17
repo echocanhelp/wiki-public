@@ -26,6 +26,8 @@ John Lin (林榮勳) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1011 encyclopedia: 1011. John Lin 林榮勳 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1011/)
+- [TAH #198 encyclopedia: 198. 林榮勳、林錫湖、陳以德、楊東傑和盧主義 / The members of Formosans’ Free Formosa (3F) / 1/1/195](https://taiwaneseamericanhistory.org/198-%e6%9e%97%e6%a6%ae%e5%8b%b3%e3%80%81%e6%9e%97%e9%8c%ab%e6%b9%96%e3%80%81%e9%99%b3%e4%bb%a5%e5%be%b7%e3%80%81%e6%a5%8a%e6%9d%b1%e5%82%91%e5%92%8c%e7%9b%a7%e4%b8%bb%e7%be%a9-the-members-of-formos/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/john-lin/)
 
 ## Related Pages

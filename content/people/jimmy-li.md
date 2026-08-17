@@ -26,6 +26,7 @@ President of the North America Taiwanese Engineers' Association (北美台灣工
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1887 encyclopedia: 1887.  Jimmy Li 李正明 / 09/2017](https://taiwaneseamericanhistory.org/whoswho1887/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jimmy-li/)
 
 ## Related Pages

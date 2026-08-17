@@ -30,6 +30,7 @@ Hwei-Mei Amy Huang (謝惠美) is listed in the TAH Foundation Who’s Who Taiwa
 
 
 ## Sources
+- [TAH #933 encyclopedia: 933. Hwei-Mei (Amy)Huang 謝惠美 /2016/04](https://taiwaneseamericanhistory.org/933-hwei-mei-amyhuang-%e8%ac%9d%e6%83%a0%e7%be%8e-201604/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hwei-mei-amyhuang/)
 
 ## Related Pages

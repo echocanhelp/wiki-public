@@ -26,6 +26,8 @@ H. J. Lee (李慧珍) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #387 encyclopedia: 387. 李慧珍, Conductor / 2017/03](https://taiwaneseamericanhistory.org/musician387/)
+- [TAH #1542 encyclopedia: 1542. H. J. Lee 李慧珍 / 2017/03](https://taiwaneseamericanhistory.org/whoswho1542/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/h-j-lee/)
 
 ## Related Pages

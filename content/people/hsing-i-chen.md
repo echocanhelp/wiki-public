@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #329 encyclopedia: 329. Hsing-I Chen 陳欣沂, Pianist / 2016/02](https://taiwaneseamericanhistory.org/329-hsing-i-chen-%e9%99%b3%e6%ac%a3%e6%b2%82-pianist-201602/)
+- [TAH #825 encyclopedia: 825. Hsing-I Chen 陳欣沂 / 2016/02](https://taiwaneseamericanhistory.org/825-hsing-i-chen-%e9%99%b3%e6%ac%a3%e6%b2%82-201602/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hsing-i-chen/)
 
 ## Related Pages

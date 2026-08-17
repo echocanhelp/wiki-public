@@ -27,6 +27,7 @@ Peter Chen (陳正義) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #424 encyclopedia: 424. Peter Chen 陳正義 / 2015/05](https://taiwaneseamericanhistory.org/424-peter-chen-%e9%99%b3%e6%ad%a3%e7%be%a9-201505/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/peter-chen/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ H. M. Yin (殷惠敏) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1079 encyclopedia: 1079.  H. M. Yin 殷惠敏 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1079/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/h-m-yin/)
 
 ## Related Pages

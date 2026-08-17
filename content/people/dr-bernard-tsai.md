@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1804 encyclopedia: 1804. Dr. Bernard Tsai 蔡武男醫師](https://taiwaneseamericanhistory.org/whos-who-1804-bernard-tsai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-bernard-tsai/)
 
 ## Related Pages

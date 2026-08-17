@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2177 encyclopedia: 2177. Ssu-Yu Huang 黃思瑜](https://taiwaneseamericanhistory.org/whos-who-2177-ssu-yu-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ssu-yu-huang/)
 
 ## Related Pages

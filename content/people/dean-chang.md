@@ -29,6 +29,11 @@ Accomplishment
 
 
 ## Sources
+- [TAH #24 encyclopedia: 24. Dean Chang ( 張怡仁) Presenting the West Point Yearbook to President Reagan  By](https://taiwaneseamericanhistory.org/ourfootstapes-24/)
+- [TAH #13 encyclopedia: 13. Dean Chang 張怡仁](https://taiwaneseamericanhistory.org/13-dean-chang/)
+- [TAH #45 encyclopedia: 45. Dean Chang 張怡仁 / The First Second Generation Taiwanese American to Be A Fore](https://taiwaneseamericanhistory.org/ff45/)
+- [TAH #44 encyclopedia: 44. Dean Chang張怡仁 /  The First Taiwanese-American Graduate of the United States ](https://taiwaneseamericanhistory.org/ff44/)
+- [TAH #616 encyclopedia: 616. Dean Chang 張怡仁](https://taiwaneseamericanhistory.org/whos-who-616-dean-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dean-chang/)
 
 ## Related Pages

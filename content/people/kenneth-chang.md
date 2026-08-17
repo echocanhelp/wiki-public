@@ -27,6 +27,7 @@ Source from Taiwanese Association of American Greater Washington Chapter Special
 
 
 ## Sources
+- [TAH #1381 encyclopedia: 1381. Kenneth Chang 張學賢/ 2016/11](https://taiwaneseamericanhistory.org/whoswho1381/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kenneth-chang/)
 
 ## Related Pages

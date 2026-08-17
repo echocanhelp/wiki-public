@@ -28,6 +28,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #437 encyclopedia: 437. Christina Shuyu Hsu 許吳漱玉/2015/06](https://taiwaneseamericanhistory.org/whos437-christina-hsu/)
+- [TAH #44 encyclopedia: 44. 許吳漱玉 Christina Hsu/2015/05](https://taiwaneseamericanhistory.org/artist44-christina-hsu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/christina-shuyu-hsu/)
 
 ## Related Pages

@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1934 encyclopedia: 1934. Karen Shee 施卿柔](https://taiwaneseamericanhistory.org/whos-who-1934-karen-shee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/karen-shee/)
 
 ## Related Pages

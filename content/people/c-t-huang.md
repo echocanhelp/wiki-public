@@ -27,6 +27,7 @@ C. T. Huang (黃昭騰) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #1512 encyclopedia: 1512. C. T. Huang 黃昭騰 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1512/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-t-huang/)
 
 ## Related Pages

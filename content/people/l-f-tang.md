@@ -26,6 +26,7 @@ L. F. Tang (唐麗芳) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1136 encyclopedia: 1136. L. F. Tang 唐麗芳 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1136/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/l-f-tang/)
 
 ## Related Pages

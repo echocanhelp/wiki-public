@@ -9,7 +9,7 @@ tags:
   - scientist
 verification_status: pending
 featured: true
-last_reviewed: 2026-07-19
+last_reviewed: 2026-08-17
 ---
 # Lin Fu-kun (林福坤)
 
@@ -111,6 +111,9 @@ The 2017 TAHS publication describes his story as one that "gives hope to Taiwane
 - **Content priority A:** Contains detailed biographical narrative from birth through Amgen career, including the EPO discovery timeline
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Note:** The full text contains extensive biographical detail including family background, education timeline, research methodology, and the EPO competitive race narrative.
+
+## Sources
+- [TAH #8 encyclopedia: 8. Fu-Kuen Lin 林福坤](https://taiwaneseamericanhistory.org/8-fu-kuen-lin/)
 
 ## Related Pages
 

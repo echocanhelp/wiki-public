@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1641 encyclopedia: 1641. Prof. Chin-An Li 李勤岸教授](https://taiwaneseamericanhistory.org/whos-who-1641-chin-an-li/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-chin-an-li/)
 
 ## Related Pages

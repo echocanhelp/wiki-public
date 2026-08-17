@@ -27,6 +27,7 @@ Elaine Liu (黃久香) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #930 encyclopedia: 930. Elaine Liu 黃久香](https://taiwaneseamericanhistory.org/whos930-elaine-liu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/elaine-liu/)
 
 ## Related Pages

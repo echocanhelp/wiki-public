@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2252 encyclopedia: 2252. Dr. Peter Tsai 蔡秉燚博士](https://taiwaneseamericanhistory.org/whos-who-2252-peter-tsai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-peter-tsai/)
 
 ## Related Pages

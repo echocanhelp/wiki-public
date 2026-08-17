@@ -28,6 +28,7 @@ Mt. SAC Board Chen2-Jay Chen of the Mt. SAC Board of Trustees January 13, 2016.
 
 
 ## Sources
+- [TAH #2079 encyclopedia: 2079. Jay Chen 陳介飛 / 03/2018](https://taiwaneseamericanhistory.org/whoswho2079/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jay-chen/)
 
 ## Related Pages

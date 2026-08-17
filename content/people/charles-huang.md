@@ -29,6 +29,7 @@ Charles Huang (黃啟仁) is listed in the TAH Foundation Who’s Who Taiwanese 
 
 
 ## Sources
+- [TAH #1919 encyclopedia: 1919. Charles Huang 黃啟仁](https://taiwaneseamericanhistory.org/whos-who-1919-charles-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/charles-huang/)
 
 ## Related Pages

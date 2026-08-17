@@ -26,6 +26,7 @@ Pauline Huey-Fen Hsu 徐彗芬 is a Taiwanese soprano. She has received the titl
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #435 encyclopedia: 435. Pauline Huey-Fen Hsu 徐彗芬, Soprano /06/2019](https://taiwaneseamericanhistory.org/435-soprano-pauline-huey-fen-hsu-%e5%be%90%e5%bd%97%e8%8a%ac-06-2019/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/pauline-huey-fen-hsu/)
 
 ## Related Pages

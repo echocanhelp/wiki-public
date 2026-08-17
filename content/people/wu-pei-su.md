@@ -26,6 +26,7 @@ Wu-Pei Su (蘇武沛) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #833 encyclopedia: 833. Wu-Pei Su 蘇武沛 / 02/2016](https://taiwaneseamericanhistory.org/833-wu-pei-su-%e8%98%87%e6%ad%a6%e6%b2%9b-022016/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/wu-pei-su/)
 
 ## Related Pages

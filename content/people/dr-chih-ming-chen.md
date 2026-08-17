@@ -29,6 +29,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #1938 encyclopedia: 1938. Dr. Chih-Ming Chen 陳志明博士](https://taiwaneseamericanhistory.org/whos-who-1938-chih-ming-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-chih-ming-chen/)
 
 ## Related Pages

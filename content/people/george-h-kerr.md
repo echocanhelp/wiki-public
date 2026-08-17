@@ -26,6 +26,7 @@ George H. Kerr (葛超智) is listed in the TAH Foundation Who’s Who Taiwanese
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #912 encyclopedia: 912. George H. Kerr 葛超智 / 2016/03](https://taiwaneseamericanhistory.org/george-h-kerr/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/george-h-kerr/)
 
 ## Related Pages

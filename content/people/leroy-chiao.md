@@ -29,6 +29,7 @@ chairman
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1386 encyclopedia: 1386. Leroy Chiao 焦立中/ 2016/11](https://taiwaneseamericanhistory.org/whoswho1386/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/leroy-chiao/)
 
 ## Related Pages

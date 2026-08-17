@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #648 encyclopedia: 648. 周政忠 / 2015/10](https://taiwaneseamericanhistory.org/648-%e5%91%a8%e6%94%bf%e5%bf%a0-201510/)
+- [TAH #297 encyclopedia: 297. Jonathan Jou周政忠,  Pianist / 2015/10](https://taiwaneseamericanhistory.org/297-jonathan-jou%e5%91%a8%e6%94%bf%e5%bf%a0-pinaist-201510/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e5%91%a8%e6%94%bf%e5%bf%a0/)
 
 ## Related Pages

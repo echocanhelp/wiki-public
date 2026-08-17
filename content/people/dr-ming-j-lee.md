@@ -28,6 +28,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #2165 encyclopedia: 2165. Dr. Ming J. Lee 李銘正博士](https://taiwaneseamericanhistory.org/whos-who-2165-ming-j-lee/)
+- [TAH #146 encyclopedia: 146. Dr. Ming J. Lee  李銘正博士](https://taiwaneseamericanhistory.org/146-dr-ming-j-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-ming-j-lee/)
 
 ## Related Pages

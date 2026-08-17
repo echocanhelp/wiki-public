@@ -28,6 +28,7 @@ Peter Su (蘇國雄) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 
 
 ## Sources
+- [TAH #1029 encyclopedia: 1029. Peter Su 蘇國雄 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1029/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/peter-su/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ The first Taiwanese American to run for city council man of Monterey Park, CA in
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1106 encyclopedia: 1106. Raymond Wu 吳瑞信 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1106/)
+- [TAH #289 encyclopedia: 289. Raymond Wu (吳瑞信) / The first T. A. run for city councilman (Monterey Park, ](https://taiwaneseamericanhistory.org/ff289/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/raymond-wu/)
 
 ## Related Pages

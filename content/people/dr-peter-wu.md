@@ -28,6 +28,7 @@ Dr. Peter Wu (吳平原博士) is listed in the TAH Foundation Who’s Who Taiwa
 
 
 ## Sources
+- [TAH #2268 encyclopedia: 2268. Dr. Peter Wu 吳平原博士](https://taiwaneseamericanhistory.org/whos-who-2268-peter-wu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-peter-wu/)
 
 ## Related Pages

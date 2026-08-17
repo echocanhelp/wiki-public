@@ -29,6 +29,8 @@ Prof. Shirley Cheng Tsai 鄭秀蘭教授 – History of Taiwanese American (T.A.
 
 
 ## Sources
+- [TAH #45 encyclopedia: 45. Prof. Shirley Cheng Tsai 鄭秀蘭教授](https://taiwaneseamericanhistory.org/45-prof-shirley-cheng-tsai/)
+- [TAH #369 encyclopedia: 369. Prof. Shirley Cheng Tsai 鄭秀蘭教授](https://taiwaneseamericanhistory.org/whos-who-369-shirley-cheng-tsai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-shirley-cheng-tsai/)
 
 ## Related Pages

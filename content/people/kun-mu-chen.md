@@ -30,6 +30,7 @@ Director of Electrical Engineering Research Department
 
 
 ## Sources
+- [TAH #61 encyclopedia: 61. Dr. Kun-Mu Chen 陳坤木博士](https://taiwaneseamericanhistory.org/whos-who-61-kun-mu-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kun-mu-chen/)
 
 ## Related Pages

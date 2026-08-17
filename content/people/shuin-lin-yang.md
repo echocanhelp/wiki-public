@@ -26,6 +26,7 @@ Shuin-Lin Yang (楊勳琳) is listed in the TAH Foundation Who’s Who Taiwanese
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1351 encyclopedia: 1351. Shuin-Lin Yang 楊勳琳 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1351/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shuin-lin-yang/)
 
 ## Related Pages

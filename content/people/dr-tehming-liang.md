@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1867 encyclopedia: 1867. Dr. Tehming Liang 梁德明醫師](https://taiwaneseamericanhistory.org/whos-who-1867-tehming-liang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-tehming-liang/)
 
 ## Related Pages

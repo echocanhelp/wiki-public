@@ -27,6 +27,7 @@ M.S. Chen (陳明憲) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 
 
 ## Sources
+- [TAH #849 encyclopedia: 849. M.S. Chen陳明憲 /2016/02](https://taiwaneseamericanhistory.org/849-%e9%99%b3%e6%98%8e%e6%86%b2-201604/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/m-s-chen/)
 
 ## Related Pages

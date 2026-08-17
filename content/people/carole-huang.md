@@ -26,6 +26,8 @@ Source from Taiwanese Association of American Greater Washington Chapter Special
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #306 encyclopedia: 306. Carol Huang 陳春華 / 第一位台美人擔任全美亞太裔顧問會主席 / 1992-94](https://taiwaneseamericanhistory.org/ff306/)
+- [TAH #1383 encyclopedia: 1383. Carole Huang 陳春華/ 2016/11](https://taiwaneseamericanhistory.org/whos1383-carole-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/carole-huang/)
 
 ## Related Pages

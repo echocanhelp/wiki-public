@@ -28,6 +28,7 @@ Michelle Wu was born in 1985 in Chicago, Illinois to Taiwanese immigrant parents
 
 
 ## Sources
+- [TAH #2166 encyclopedia: 2166. Michelle Wu 吳彌](https://taiwaneseamericanhistory.org/whos-who-2166-michelle-wu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/michelle-wu/)
 
 ## Related Pages

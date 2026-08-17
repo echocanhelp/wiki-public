@@ -10,7 +10,7 @@ tags:
   - community-leader
 verification_status: pending
 featured: true
-last_reviewed: 2026-07-23
+last_reviewed: 2026-08-17
 ---
 # 李木通 (Li Mutong)
 
@@ -72,6 +72,9 @@ last_reviewed: 2026-07-23
 - **Hub:** [[sources/2023-tahs-publication|2023 TAHS Publication]]
 - **Archive:** Section dump at `knowledge/research/tahs-2023-section-dumps/ye-siya-zhang-xinhui-xu-zongbang-li-mutong-chen-wenxue-wang-kexiong-...txt` (lines 1860–2157)
 - Layout-limited extraction; not a full translation
+
+## Sources
+- [TAH #703 encyclopedia: 703. Dr. Tom Lee 李木通 / 2015/11](https://taiwaneseamericanhistory.org/whos-tom-lee/)
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

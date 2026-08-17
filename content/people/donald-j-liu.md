@@ -26,6 +26,7 @@ God and art have always been a huge part of my life. I have been a pastor for ov
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #21 encyclopedia: 21. 劉瑞義牧師 Donald J. Liu (Suigii)](https://taiwaneseamericanhistory.org/21-donald-j-liu-suigii/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/donald-j-liu/)
 
 ## Related Pages

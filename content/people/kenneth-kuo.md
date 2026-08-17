@@ -26,6 +26,8 @@ Hailed by the Sydney Morning Harold as a “cellist with great facility and conf
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #319 encyclopedia: 319. Kennth Kuo郭虔哲, cellist / 2015/11](https://taiwaneseamericanhistory.org/319-kennth-kuo%e9%83%ad%e8%99%94%e5%93%b2-cellist-201511/)
+- [TAH #699 encyclopedia: 699. Kenneth Kuo 郭虔哲/ 2015/11](https://taiwaneseamericanhistory.org/699-kenneth-kuo-%e9%83%ad%e8%99%94%e5%93%b2-201511/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kenneth-kuo/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ T. S. Hsu (許廷鑫) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1146 encyclopedia: 1146. T. S. Hsu  許廷鑫 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1146/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/t-s-hsu/)
 
 ## Related Pages

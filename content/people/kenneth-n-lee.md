@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1884 encyclopedia: 1884. Kenneth N. Lee 	 李乃恭 / 09/2017](https://taiwaneseamericanhistory.org/whoswho1884/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kenneth-n-lee/)
 
 ## Related Pages

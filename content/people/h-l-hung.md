@@ -26,6 +26,7 @@ H. L. Hung (洪榮隆) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1239 encyclopedia: 1239.  H. L. Hung 洪榮隆 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1239/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/h-l-hung/)
 
 ## Related Pages

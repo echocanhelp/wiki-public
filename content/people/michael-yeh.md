@@ -29,6 +29,7 @@ Michael Yeh (葉明青) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #2313 encyclopedia: 2313. Michael Yeh 葉明青](https://taiwaneseamericanhistory.org/whos-who-2313-michael-yeh/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/michael-yeh/)
 
 ## Related Pages

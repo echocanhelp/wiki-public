@@ -28,6 +28,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #189 encyclopedia: 189. Dr. Sebo Koh 許世模醫師](https://taiwaneseamericanhistory.org/189-dr-koh/)
+- [TAH #770 encyclopedia: 770. Dr. Sebo Koh 許世模醫師](https://taiwaneseamericanhistory.org/whos-who-770-sebo-koh/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-sebo-koh/)
 
 ## Related Pages

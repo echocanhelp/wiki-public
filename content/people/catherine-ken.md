@@ -26,6 +26,7 @@ Catherine Ken (耿懿芝) is listed in the TAH Foundation Who’s Who Taiwanese 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1296 encyclopedia: 1296. Catherine Ken 耿懿芝 / 206/10](https://taiwaneseamericanhistory.org/whoswho1296/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/catherine-ken/)
 
 ## Related Pages

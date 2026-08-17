@@ -27,6 +27,8 @@ Paul C. Tsai is a graduate of Chinese Culture University in Taiwan. He was educa
 
 
 ## Sources
+- [TAH #253 encyclopedia: 253. Paul C. Tsai 蔡正驊 / 2015/02](https://taiwaneseamericanhistory.org/253-paul-c-tsai-%e8%94%a1%e6%ad%a3%e9%a9%8a-201502/)
+- [TAH #139 encyclopedia: 139. Paul C. Tsai蔡正驊, Baritone / 2015/02](https://taiwaneseamericanhistory.org/139-paul-c-tsai%e8%94%a1%e6%ad%a3%e9%a9%8a-baritone-201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/paul-c-tsai/)
 
 ## Related Pages

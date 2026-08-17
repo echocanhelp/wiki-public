@@ -28,6 +28,7 @@ Dr. Sheng-Yi Chuang (莊勝義博士) is listed in the TAH Foundation Who’s Wh
 
 
 ## Sources
+- [TAH #2272 encyclopedia: 2272. Dr. Sheng-Yi Chuang 莊勝義博士](https://taiwaneseamericanhistory.org/whos-who-2272-sheng-yi-chuang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-sheng-yi-chuang/)
 
 ## Related Pages

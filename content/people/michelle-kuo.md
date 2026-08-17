@@ -28,6 +28,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #2031 encyclopedia: 2031. Michelle Kuo 郭怡慧](https://taiwaneseamericanhistory.org/whos-who-2031-michelle-kuo/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/michelle-kuo/)
 
 ## Related Pages

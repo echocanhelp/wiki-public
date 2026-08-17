@@ -28,6 +28,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #2040 encyclopedia: 2040. Ai-Jen Poo 蒲艾真](https://taiwaneseamericanhistory.org/whos-who-2040-ai-jen-poo/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ai-jen-poo/)
 
 ## Related Pages

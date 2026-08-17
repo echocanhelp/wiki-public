@@ -29,6 +29,9 @@ Wen S. (Charlie) Chern 陳文雄 – History of Taiwanese American (T.A. Archive
 
 
 ## Sources
+- [TAH #35 encyclopedia: 35. Dr. Winston H. Chen 陳文雄博士](https://taiwaneseamericanhistory.org/35-dr-winston-h-chen/)
+- [TAH #896 encyclopedia: 896. Dr. Winston H. Chen 陳文雄博士](https://taiwaneseamericanhistory.org/whos-who-896-winston-h-chen/)
+- [TAH #267 encyclopedia: 267. 陳文雄博士 Dr. Winston H. Chen / The First T.A. boarded on Air Force One with Pr](https://taiwaneseamericanhistory.org/267-%e9%99%b3%e6%96%87%e9%9b%84%e5%8d%9a%e5%a3%ab-dr-winston-h-chen-the-first-t-a-boarded-on-air-force-one-with-president-george-w-bush-12301991/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/wen-s-charlie-chern/)
 
 ## Related Pages

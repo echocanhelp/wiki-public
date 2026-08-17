@@ -26,6 +26,7 @@ Prof. Tien-Cheng Chang 張典正教授 – History of Taiwanese American (T.A. A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1948 encyclopedia: 1948. Prof. Tien-Cheng Chang 張典正教授](https://taiwaneseamericanhistory.org/whos-who-1948-tien-cheng-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-tien-cheng-chang/)
 
 ## Related Pages

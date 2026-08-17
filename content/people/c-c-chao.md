@@ -26,6 +26,7 @@ C. C. Chao (趙誌諄) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1714 encyclopedia: 1714. C. C. Chao 趙誌諄 / 07/2017](https://taiwaneseamericanhistory.org/whoswho1714/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-c-chao/)
 
 ## Related Pages

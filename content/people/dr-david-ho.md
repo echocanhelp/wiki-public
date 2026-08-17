@@ -32,6 +32,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #118 encyclopedia: 118.  Dr. David Ho 何大一醫師](https://taiwaneseamericanhistory.org/118-dr-david-ho/)
+- [TAH #196 encyclopedia: 196. Dr. David Ho 何大一醫師](https://taiwaneseamericanhistory.org/whos-who-196-david-ho/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-david-ho/)
 
 ## Related Pages

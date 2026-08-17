@@ -29,6 +29,7 @@ Prof. Su-Chiung Chen 陳素瓊教授 – History of Taiwanese American (T.A. Arc
 
 
 ## Sources
+- [TAH #2214 encyclopedia: 2214. Prof. Su-Chiung Chen 陳素瓊教授](https://taiwaneseamericanhistory.org/whos-who-2214-su-chiung-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-su-chiung-chen/)
 
 ## Related Pages

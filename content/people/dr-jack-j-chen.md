@@ -30,6 +30,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #217 encyclopedia: 217. Dr. Jack J. Chen 陳宏傑教授](https://taiwaneseamericanhistory.org/217/)
+- [TAH #642 encyclopedia: 642. Dr. Jack J. Chen 陳宏傑教授](https://taiwaneseamericanhistory.org/whos-who-642-jack-j-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-jack-j-chen/)
 
 ## Related Pages

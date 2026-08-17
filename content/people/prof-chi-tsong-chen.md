@@ -26,6 +26,7 @@ Prof. Chi-Tsong Chen 陳啓宗教授 – History of Taiwanese American (T.A. Arc
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2173 encyclopedia: 2173. Prof. Chi-Tsong Chen 陳啓宗教授](https://taiwaneseamericanhistory.org/whos-who-2173-chi-tsong-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-chi-tsong-chen/)
 
 ## Related Pages

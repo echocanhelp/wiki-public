@@ -26,6 +26,7 @@ Dr. John Chieu (邱忠男博士) is listed in the TAH Foundation Who’s Who Tai
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2258 encyclopedia: 2258. Dr. John Chieu 邱忠男博士/04/2020](https://taiwaneseamericanhistory.org/whos-who-2258-john-chieu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-john-chieu/)
 
 ## Related Pages

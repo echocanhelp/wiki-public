@@ -26,6 +26,7 @@ Rung-fang Chen (陳榮芳) is listed in the TAH Foundation Who’s Who Taiwanese
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1098 encyclopedia: 1098. 陳榮芳 Rung-fang Chen](https://taiwaneseamericanhistory.org/whos1098/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rung-fang-chen/)
 
 ## Related Pages

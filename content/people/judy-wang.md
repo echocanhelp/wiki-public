@@ -26,6 +26,7 @@ Judy Wang (王瑞婉) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1918 encyclopedia: 1918. Judy Wang 王瑞婉](https://taiwaneseamericanhistory.org/whos-who-1918-judy-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/judy-wang/)
 
 ## Related Pages

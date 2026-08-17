@@ -29,6 +29,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #14 encyclopedia: 14. Jinwun Winston Lue 呂錦文](https://taiwaneseamericanhistory.org/whos-who-14-jinwun-winston-lu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jinwun-winston-lue/)
 
 ## Related Pages

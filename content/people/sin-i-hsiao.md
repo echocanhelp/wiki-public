@@ -26,6 +26,7 @@ Sin-I Hsiao (蕭欣義) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1013 encyclopedia: 1013. Sin-I Hsiao 蕭欣義 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1013/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sin-i-hsiao/)
 
 ## Related Pages

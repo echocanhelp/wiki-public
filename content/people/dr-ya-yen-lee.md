@@ -30,6 +30,9 @@ Accomplishment
 
 
 ## Sources
+- [TAH #149 encyclopedia: 149. Dr. Ya Yen Lee 李雅彥醫師](https://taiwaneseamericanhistory.org/149-dr-ya-yen-lee/)
+- [TAH #128 encyclopedia: 128. Dr. Ya-Yan Lee 李雅彥醫師 / Founder of Taiwan Center/Houston](https://taiwaneseamericanhistory.org/128-dr-ya-yan-lee-%e6%9d%8e%e9%9b%85%e5%bd%a5%e9%86%ab%e5%b8%ab-founder-of-taiwan-centerhouston/)
+- [TAH #21 encyclopedia: 21. Dr. Ya Yen Lee 李雅彥醫師](https://taiwaneseamericanhistory.org/whos-who-21-ya-yen-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-ya-yen-lee/)
 
 ## Related Pages

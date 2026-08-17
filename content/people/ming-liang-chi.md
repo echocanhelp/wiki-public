@@ -27,6 +27,7 @@ Ming-Liang Chi (溫明亮) is listed in the TAH Foundation Who’s Who Taiwanese
 
 
 ## Sources
+- [TAH #1536 encyclopedia: 1536. Ming-Liang Chi 溫明亮/ 2017/02](https://taiwaneseamericanhistory.org/whoswho1536/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ming-liang-chi/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ Prof. Yuh-Huey Grace Lin 林玉惠 – History of Taiwanese American (T.A. Archi
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1756 encyclopedia: 1756. Prof. Yuh-Huey Grace Lin 林玉惠 / 07/2017](https://taiwaneseamericanhistory.org/whoswho1756/)
+- [TAH #413 encyclopedia: 413. Yuh-Huey Grace Lin 林玉惠,Guzheng/ 07/2017](https://taiwaneseamericanhistory.org/musician413/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-yuh-huey-grace-lin/)
 
 ## Related Pages

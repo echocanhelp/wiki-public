@@ -30,6 +30,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #2131 encyclopedia: 2131. Rev. J. M. Hsu 許錦銘牧師](https://taiwaneseamericanhistory.org/whos-who-2131-j-m-hsu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rev-j-m-hsu/)
 
 ## Related Pages

@@ -29,6 +29,7 @@ Dr. Evan Ling (林富文博士) is listed in the TAH Foundation Who’s Who Taiw
 
 
 ## Sources
+- [TAH #1679 encyclopedia: 1679. Dr. Evan Ling 林富文博士](https://taiwaneseamericanhistory.org/whos-who-1679-evan-ling/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-evan-ling/)
 
 ## Related Pages

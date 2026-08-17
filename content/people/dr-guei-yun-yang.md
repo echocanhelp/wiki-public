@@ -27,6 +27,9 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #25 encyclopedia: 25. Dr. Guei-Yun Yang (楊貴運博士)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-25/)
+- [TAH #147 encyclopedia: 147. Dr. Guei-Yun Yang 楊貴運博士](https://taiwaneseamericanhistory.org/147-dr-guei-yun-yang/)
+- [TAH #874 encyclopedia: 874. Dr. Guei-Yun Yang 楊貴運博士](https://taiwaneseamericanhistory.org/whos-who-874-guei-yun-yang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-guei-yun-yang/)
 
 ## Related Pages

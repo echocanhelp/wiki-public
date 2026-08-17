@@ -26,6 +26,7 @@ June Lin (林倢) is listed in the TAH Foundation Who’s Who Taiwanese American
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1925 encyclopedia: 1925. June Lin 林倢](https://taiwaneseamericanhistory.org/whos-who-1925-june-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/june-lin/)
 
 ## Related Pages

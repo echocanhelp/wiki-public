@@ -27,6 +27,8 @@ Pianist Gloria Chien has been picked by the Boston Globe as one of the Superior 
 
 
 ## Sources
+- [TAH #498 encyclopedia: 498. Gloria Chien 簡佩盈 / 2015/07](https://taiwaneseamericanhistory.org/498-gloria-chien-%e7%b0%a1%e4%bd%a9%e7%9b%88-201507/)
+- [TAH #241 encyclopedia: 241. Gloria Chien 簡佩盈, Pianist / 2015/07](https://taiwaneseamericanhistory.org/241-gloria-chien-%e7%b0%a1%e4%bd%a9%e7%9b%88-pianist-201507/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/gloria-chien/)
 
 ## Related Pages

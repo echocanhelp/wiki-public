@@ -26,6 +26,8 @@ Soprano Yen-Ching Chiu邱彥菁, originally from Kaohsiung, Taiwan, received her
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #342 encyclopedia: 342. Yen-Ching Chiu邱彥菁, Soprano / 2016/05](https://taiwaneseamericanhistory.org/musician342/)
+- [TAH #1057 encyclopedia: 1057.  Yen-Ching Chiu  邱彥菁 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1057/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yen-ching-chiu/)
 
 ## Related Pages

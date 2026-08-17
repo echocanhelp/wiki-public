@@ -26,6 +26,8 @@ Pianist Pin-Huey Wang received her Doctor of Musical Arts degree in the collabor
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #519 encyclopedia: 519. Pin-Huey Wang 王品惠 / 2015/07](https://taiwaneseamericanhistory.org/519-pin-huey-wang-%e7%8e%8b%e5%93%81%e6%83%a0-201507/)
+- [TAH #13 encyclopedia: 13. Pin-Huey Wang 王品惠, Pianist/2014/10](https://taiwaneseamericanhistory.org/13-pin-huey-wang-%e7%8e%8b%e5%93%81%e6%83%a0-piano/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/pin-huey-wang/)
 
 ## Related Pages

@@ -9,7 +9,7 @@ tags:
   - TAHS
   - tahs-leadership
 verification_status: published
-last_reviewed: 2026-08-16
+last_reviewed: 2026-08-17
 name_en: Freeman Huang
 name_zh_hanzi: 黃樹人
 ---
@@ -156,6 +156,8 @@ Notable quotes and mentions of **黃樹人** in Taiwan Justice articles:
   - Live URL: [台美人歷史協會新任會長許景鴻接椽](https://echocanhelp.github.io/wiki-public/articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74.html)
 
 ## Sources
+- [TAH #202 encyclopedia: 202. Freeman Huang 黃樹人](https://taiwaneseamericanhistory.org/202-freeman-huang/)
+- [TAH #2159 encyclopedia: 2159. Freeman Huang 黃樹人](https://taiwaneseamericanhistory.org/whos-who-2159-freeman-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/freeman-huang/)
 
 ## Family

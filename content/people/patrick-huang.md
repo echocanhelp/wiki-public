@@ -28,6 +28,9 @@ Accomplishment
 
 
 ## Sources
+- [TAH #193 encyclopedia: 193. Patrick Huang 黃再添](https://taiwaneseamericanhistory.org/193-patrick-huang/)
+- [TAH #884 encyclopedia: 884. Patrick Huang 黃再添](https://taiwaneseamericanhistory.org/whos-who-884-patrick-huang/)
+- [TAH #52 encyclopedia: 52. Patrick Huang 黃再添 / The first motorcycle ride across the U.S.A. with his son](https://taiwaneseamericanhistory.org/ff52/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/patrick-huang/)
 
 ## Related Pages

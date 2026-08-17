@@ -29,6 +29,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #239 encyclopedia: 239. Oliver Chen 陳奧利佛](https://taiwaneseamericanhistory.org/ota-239/)
+- [TAH #676 encyclopedia: 676. Oliver Chen 陳奧利佛](https://taiwaneseamericanhistory.org/whos-who-676-oliver-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/oliver-chen/)
 
 ## Related Pages

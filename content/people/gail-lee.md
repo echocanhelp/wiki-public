@@ -26,6 +26,8 @@ Gail Hsiu-Wen Lee’s passion to bring live classical music to Central New Jerse
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1115 encyclopedia: 1115. Gail Lee 李秀文 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1115-2/)
+- [TAH #63 encyclopedia: 63. Gail Lee 李秀文, Conductor/2014/10](https://taiwaneseamericanhistory.org/musician63/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/gail-lee/)
 
 ## Related Pages

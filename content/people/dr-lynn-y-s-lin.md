@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1972 encyclopedia: 1972. Dr. Lynn Y.S. Lin 林英祥博士](https://taiwaneseamericanhistory.org/whos-who-1972-lynn-ys-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-lynn-y-s-lin/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ Professor; Director and researcher of the Laboratory of Bacterial Immunology, Be
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1853 encyclopedia: 1853. Dr. Y. C. Cheng 鄭翼宗博士](https://taiwaneseamericanhistory.org/whos-who-1853-y-c-cheng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-y-c-cheng/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ Tien-Chen Lin (林天成) is listed in the TAH Foundation Who’s Who Taiwanese 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1944 encyclopedia: 1944. Tien-Chen Lin 林天成 /11/2017](https://taiwaneseamericanhistory.org/tien-chen-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tien-chen-lin/)
 
 ## Related Pages

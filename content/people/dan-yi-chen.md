@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #130 encyclopedia: 130. Dan-Yi Chen 陳丹怡](https://taiwaneseamericanhistory.org/130-dan-yi-chen-%e9%99%b3%e4%b8%b9%e6%80%a1/)
+- [TAH #69 encyclopedia: 69. Dan Yi Chen 陳丹怡, Pianist/2014/10](https://taiwaneseamericanhistory.org/69-dan-yi-chen-%e9%99%b3%e4%b8%b9%e6%80%a1-piano/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dan-yi-chen/)
 
 ## Related Pages

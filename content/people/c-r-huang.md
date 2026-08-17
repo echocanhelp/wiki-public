@@ -26,6 +26,7 @@ C. R. Huang (黃朝榮) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1417 encyclopedia: 1417. C. R. Huang 黃朝榮 / 2016/12](https://taiwaneseamericanhistory.org/whoswho1417/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-r-huang/)
 
 ## Related Pages

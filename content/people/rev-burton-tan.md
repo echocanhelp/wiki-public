@@ -27,6 +27,7 @@ Rev. Burton Tan (陳柏壽牧師) is listed in the TAH Foundation Who’s Who Ta
 
 
 ## Sources
+- [TAH #1663 encyclopedia: 1663. Rev. Burton Tan 陳柏壽牧師](https://taiwaneseamericanhistory.org/whos-who-1663-burton-tan/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rev-burton-tan/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ Charles Ting (丁昭昇) is listed in the TAH Foundation Who’s Who Taiwanese A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #917 encyclopedia: 917.  Charles Ting 丁昭昇 / 2016/03](https://taiwaneseamericanhistory.org/917-charles-ting-%e4%b8%81%e6%98%ad%e6%98%87-201603/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/charles-ting/)
 
 ## Related Pages

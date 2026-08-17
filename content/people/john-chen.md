@@ -30,6 +30,7 @@ John Chen (陳榮儒) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 
 
 ## Sources
+- [TAH #687 encyclopedia: 687. John Chen 陳榮儒 / 2015/11](https://taiwaneseamericanhistory.org/687-%e9%99%b3%e6%a6%ae%e5%84%92-201511/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/john-chen/)
 
 ## Related Pages

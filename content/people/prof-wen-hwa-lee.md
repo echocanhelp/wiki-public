@@ -28,6 +28,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #1795 encyclopedia: 1795. Prof. Wen-Hwa Lee 李文華教授](https://taiwaneseamericanhistory.org/whos-who-1795-wen-hwa-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-wen-hwa-lee/)
 
 ## Related Pages

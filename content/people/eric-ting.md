@@ -27,6 +27,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #2119 encyclopedia: 2119. Eric Ting 丁維均](https://taiwaneseamericanhistory.org/whos-who-2119-eric-ting/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/eric-ting/)
 
 ## Related Pages

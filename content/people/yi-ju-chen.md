@@ -26,6 +26,8 @@ Dr. Yi-Ju Chen 陳怡如, section violist of the Winston-Salem Symphony Orchestr
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1108 encyclopedia: 1108. Yi-Ju Chen 陳怡如 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1108/)
+- [TAH #33 encyclopedia: 33. Yi-Ju Chen 陳怡如, Violinist/2014/10](https://taiwaneseamericanhistory.org/musician33/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yi-ju-chen/)
 
 ## Related Pages

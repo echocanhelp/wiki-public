@@ -30,6 +30,12 @@ Family History Book : 蕭安居牧師生平及家譜 Life And Family History Of 
 
 
 ## Sources
+- [TAH #3 encyclopedia: 3. Enchin Shaw Chen (蕭永真)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-3/)
+- [TAH #7 encyclopedia: 7. Enchin Shaw Chen 蕭永真](https://taiwaneseamericanhistory.org/7-enchin-shaw-chen/)
+- [TAH #343 encyclopedia: 343. Enchin Chen (蕭永真) / The first Female Taiwanese Student Studying in the U.S.](https://taiwaneseamericanhistory.org/ff343/)
+- [TAH #292 encyclopedia: 292. Mrs. Enchin Chen (蕭永真) / One of the founding members of Formosan Club of Wa](https://taiwaneseamericanhistory.org/ff292/)
+- [TAH #291 encyclopedia: 291. Mrs. Enchin Chen (蕭永真) / One of the founding members of Taiwanese Presbyter](https://taiwaneseamericanhistory.org/ff291/)
+- [TAH #473 encyclopedia: 473. Enchin Shaw Chen 蕭永真](https://taiwaneseamericanhistory.org/whos-who-473-enchin-shaw-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/enchin-shaw-chen/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ Prof. Lung-Chi Chen (陳隆志教授) is listed in the TAH Foundation Who’s Wh
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #108 encyclopedia: 108. Prof. Lung-Chi Chen 陳隆志教授](https://taiwaneseamericanhistory.org/108-prof-lung-chi-chen/)
+- [TAH #52 encyclopedia: 52. Prof. Lung-Chi Chen 陳隆志教授](https://taiwaneseamericanhistory.org/whos-who-52-lung-chi-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-lung-chi-chen/)
 
 ## Related Pages

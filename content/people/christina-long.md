@@ -27,6 +27,7 @@ Prof. Christina Long 隆愛真教授 – History of Taiwanese American (T.A. Arc
 
 
 ## Sources
+- [TAH #1772 encyclopedia: 1772. Prof. Christina Long 隆愛真教授](https://taiwaneseamericanhistory.org/whos-who-1772-christina-long/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/christina-long/)
 
 ## Related Pages

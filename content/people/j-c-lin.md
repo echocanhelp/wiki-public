@@ -26,6 +26,7 @@ J. C. Lin (林震泉) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1671 encyclopedia: 1671.  J. C. Lin 林震泉 / 05/2017](https://taiwaneseamericanhistory.org/whoswho1671/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/j-c-lin/)
 
 ## Related Pages

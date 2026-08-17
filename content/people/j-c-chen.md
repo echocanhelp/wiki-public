@@ -26,6 +26,7 @@ J. C. Chen (陳進財) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1000 encyclopedia: 1000. J. C. Chen 陳進財/ 2016/05](https://taiwaneseamericanhistory.org/whoswho1000/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/j-c-chen/)
 
 ## Related Pages

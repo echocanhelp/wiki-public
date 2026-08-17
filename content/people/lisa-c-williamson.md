@@ -26,6 +26,7 @@ Lisa C. Williamson (李貞瑩) is listed in the TAH Foundation Who’s Who Taiwa
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1971 encyclopedia: 1971. Lisa C. Williamson 李貞瑩](https://taiwaneseamericanhistory.org/whos-who-1971-lisa-c-williamson/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/lisa-c-williamson/)
 
 ## Related Pages

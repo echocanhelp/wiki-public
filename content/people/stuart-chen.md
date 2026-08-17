@@ -27,6 +27,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2028 encyclopedia: 2028. Stuart Chen 陳照雄 / 02/2018](https://taiwaneseamericanhistory.org/whoswho2028/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/stuart-chen/)
 
 ## Related Pages

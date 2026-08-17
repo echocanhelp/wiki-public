@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #160 encyclopedia: 160.  Rev. Dr. Jen-Hao Lee李仁豪牧師, Conductor/2015/03](https://taiwaneseamericanhistory.org/musician160-jen-hao-lee/)
+- [TAH #32 encyclopedia: 32. 李仁豪牧師 Rev. Dr. Jen-Hao Lee/2015/03](https://taiwaneseamericanhistory.org/artist32-jen-hao-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jen-hao-lee/)
 
 ## Related Pages

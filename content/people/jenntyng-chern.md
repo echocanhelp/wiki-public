@@ -26,6 +26,7 @@ Jenntyng Chern (陳振庭) is listed in the TAH Foundation Who’s Who Taiwanese
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1174 encyclopedia: 1174. Jenntyng Chern 陳振庭 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1174/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jenntyng-chern/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1103 encyclopedia: 1103. Sien-Mo Lin 林顯模 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1103/)
+- [TAH #5 encyclopedia: 5. 林顯模 Sien-Mo Lin](https://taiwaneseamericanhistory.org/artist5/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sien-mo-lin/)
 
 ## Related Pages

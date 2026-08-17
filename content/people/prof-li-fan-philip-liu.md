@@ -26,6 +26,7 @@ Prof. Li-Fan (Philip) Liu 劉立方教授 – History of Taiwanese American (T.A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2021 encyclopedia: 2021. Prof. Li-Fan (Philip) Liu  劉立方教授](https://taiwaneseamericanhistory.org/whos-who-2021-li-fan-liu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-li-fan-philip-liu/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ Prof. Hsu-Te Cheng (鄭胥德教授) is listed in the TAH Foundation Who’s Who
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1930 encyclopedia: 1930. Prof. Hsu-Te Cheng 鄭胥德教授](https://taiwaneseamericanhistory.org/whos-who-1930-hsu-te-cheng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-hsu-te-cheng/)
 
 ## Related Pages

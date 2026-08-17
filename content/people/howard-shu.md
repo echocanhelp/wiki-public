@@ -27,6 +27,8 @@ Howard Shu (舒之顥) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #301 encyclopedia: 301. Howard Shu 舒之顥 / First T.A. in U.S. Olympic Team / Badminton, Rio, Brazil  ](https://taiwaneseamericanhistory.org/ff301/)
+- [TAH #1248 encyclopedia: 1248. Howard Shu 舒之顥 / 2016/08](https://taiwaneseamericanhistory.org/whos1248-howard-shu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/howard-shu/)
 
 ## Related Pages

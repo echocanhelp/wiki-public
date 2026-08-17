@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #333 encyclopedia: 333. Karen Lin 林璇雯 / 2015/03](https://taiwaneseamericanhistory.org/333-karen-lin-%e6%9e%97%e7%92%87%e9%9b%af/)
+- [TAH #155 encyclopedia: 155. Karen Lin林璇雯, Violinist/2015/02](https://taiwaneseamericanhistory.org/155-karen-lin%e6%9e%97%e7%92%87%e9%9b%af-violinist201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/karen-lin/)
 
 ## Related Pages

@@ -28,6 +28,7 @@ Experimental Physicist, Member of Technical Staff
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1791 encyclopedia: 1791. Prof. Chien-Te Chen 陳建德教授](https://taiwaneseamericanhistory.org/whos-who-1791-chien-te-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-chien-te-chen/)
 
 ## Related Pages

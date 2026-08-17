@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #717 encyclopedia: 717. 林美玲 / 2105/12](https://taiwaneseamericanhistory.org/717-%e6%9e%97%e7%be%8e%e7%8e%b2/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e6%9e%97%e7%be%8e%e7%8e%b2/)
 
 ## Related Pages

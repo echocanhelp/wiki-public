@@ -29,6 +29,7 @@ Hsiu-Chine Yeh Wang (葉秀卿) is listed in the TAH Foundation Who’s Who Taiw
 
 
 ## Sources
+- [TAH #697 encyclopedia: 697. Hsiu-Chine Yeh Wang 葉秀卿 /2015/11](https://taiwaneseamericanhistory.org/697-hsiu-chine-yeh-wang-%e8%91%89%e7%a7%80%e5%8d%bf-201511/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hsiu-chine-yeh-wang/)
 
 ## Related Pages

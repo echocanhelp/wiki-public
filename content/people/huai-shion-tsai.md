@@ -28,6 +28,10 @@ Huai-Shion Tsai was born in Tainan, Taiwan in 1947. She graduated from the Natio
 
 
 ## Sources
+- [TAH #460 encyclopedia: 460. Huai Shion Tsai 蔡蕙香/2015/06](https://taiwaneseamericanhistory.org/whos460-huai-shion-tsai/)
+- [TAH #164 encyclopedia: 164.蔡蕙香1995/蔡蕙香/1995/01/Art/藝術](https://taiwaneseamericanhistory.org/164-%e8%94%a1%e8%95%99%e9%a6%991995%e8%94%a1%e8%95%99%e9%a6%99199501art%e8%97%9d%e8%a1%93/)
+- [TAH #163 encyclopedia: 163.蔡蕙香1988/蔡蕙香/1988/01/Art/藝術](https://taiwaneseamericanhistory.org/163-%e8%94%a1%e8%95%99%e9%a6%991988%e8%94%a1%e8%95%99%e9%a6%99198801art%e8%97%9d%e8%a1%93/)
+- [TAH #19 encyclopedia: 19. 蔡蕙香 Huai-Shion Tsai](https://taiwaneseamericanhistory.org/artist19-huai-shion-tsai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/huai-shion-tsai/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ Shitien Yang (楊錫鈿) is listed in the TAH Foundation Who’s Who Taiwanese A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #722 encyclopedia: 722. Shitien Yang 楊錫鈿/ 2015/12](https://taiwaneseamericanhistory.org/722-shitien-yang-%e6%a5%8a%e9%8c%ab%e9%88%bf-201512/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shitien-yang/)
 
 ## Related Pages

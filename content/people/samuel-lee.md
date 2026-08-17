@@ -27,6 +27,7 @@ Samuel Lee (李茂玄) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #1143 encyclopedia: 1143. Samuel Lee 李茂玄 / 2017/06](https://taiwaneseamericanhistory.org/whoswho1143/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/samuel-lee/)
 
 ## Related Pages

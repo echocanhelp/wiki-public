@@ -29,6 +29,7 @@ Clinical Professor; Director of the Dual Diagnosis Treatment Program
 
 
 ## Sources
+- [TAH #1924 encyclopedia: 1924. Dr. John Tsuang 莊文宗醫師](https://taiwaneseamericanhistory.org/whos-who-1924-john-tsuang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-john-tsuang/)
 
 ## Related Pages

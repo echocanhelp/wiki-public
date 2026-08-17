@@ -30,6 +30,7 @@ Sergeant, Lieutenant, Captain
 
 
 ## Sources
+- [TAH #1856 encyclopedia: 1856. Khe-Beng Chiong 鍾啟明](https://taiwaneseamericanhistory.org/whos-who-1856-khe-beng-chiong/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/khe-beng-chiong/)
 
 ## Related Pages

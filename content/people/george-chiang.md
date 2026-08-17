@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #4 encyclopedia: 4. George Chiang 江正吉](https://taiwaneseamericanhistory.org/whos-who-4-george-chiang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/george-chiang/)
 
 ## Related Pages

@@ -28,6 +28,7 @@ Prof. S. S. Huang (黃壽山教授) is listed in the TAH Foundation Who’s Who 
 
 
 ## Sources
+- [TAH #2086 encyclopedia: 2086. Prof. S. S. Huang 黃壽山教授](https://taiwaneseamericanhistory.org/whos-who-2086-s-s-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-s-s-huang/)
 
 ## Related Pages

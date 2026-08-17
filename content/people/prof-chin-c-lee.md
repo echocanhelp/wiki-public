@@ -29,6 +29,8 @@ Professor of Electrical and Computer Dept., Director of Materials and Manufactur
 
 
 ## Sources
+- [TAH #57 encyclopedia: 57. Prof. Chin C. Lee 李金忠教授](https://taiwaneseamericanhistory.org/57-prof-chin-c-lee/)
+- [TAH #1245 encyclopedia: 1245. Prof. Chin C. Lee 李金忠教授](https://taiwaneseamericanhistory.org/whos-who-1245-chin-c-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-chin-c-lee/)
 
 ## Related Pages

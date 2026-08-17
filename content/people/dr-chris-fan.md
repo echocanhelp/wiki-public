@@ -29,6 +29,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #32 encyclopedia: 32. Dr. Ching Liang (Chris) Fan  范清亮博士](https://taiwaneseamericanhistory.org/32-dr-ching-liang-chris-fan/)
+- [TAH #880 encyclopedia: 880. Dr. Chris Fan 范清亮博士](https://taiwaneseamericanhistory.org/whos-who-880-chris-fan/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-chris-fan/)
 
 ## Related Pages

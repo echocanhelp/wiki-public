@@ -10,7 +10,7 @@ tags:
   - state-controller
 verification_status: pending
 featured: true
-last_reviewed: 2026-07-19
+last_reviewed: 2026-08-17
 ---
 # John Chiang (江俊輝)
 
@@ -91,6 +91,9 @@ His childhood experience with racial discrimination shaped his worldview. He wit
 - **Note:** The full text includes detailed biographical information including family background, education, prosecutorial career, and political achievements.
 
 ## Sources
+- [TAH #141 encyclopedia: 141. John Chiang 江俊輝](https://taiwaneseamericanhistory.org/141-john-chiang/)
+- [TAH #1 encyclopedia: 1. Mr. John Chiang 江俊輝 in S. CA](https://taiwaneseamericanhistory.org/john-chiang/)
+- [TAH #51 encyclopedia: 51. John Chiang 江俊輝](https://taiwaneseamericanhistory.org/whos-who-51-john-chiang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/john-chiang/)
 
 ## Family

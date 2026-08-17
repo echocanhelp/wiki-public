@@ -26,6 +26,8 @@ Music director of the Memphis Symphony Orchestra, Mei-Ann Chen is one of America
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #48 encyclopedia: 48. Dr. Mei-Ann Chen 陳美安博士](https://taiwaneseamericanhistory.org/48-dr-mei-ann-chen/)
+- [TAH #651 encyclopedia: 651. Dr. Mei-Ann Chen 陳美安博士](https://taiwaneseamericanhistory.org/whos-who-651-mei-ann-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-mei-ann-chen/)
 
 ## Related Pages

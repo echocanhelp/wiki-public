@@ -26,6 +26,7 @@ Teng-Kuan (Eric) Huang 黃勝寬 – History of Taiwanese American (T.A. Archive
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1637 encyclopedia: 1637. Teng-Kuan (Eric) Huang 黃勝寬 / 2017/05](https://taiwaneseamericanhistory.org/whoswho1637/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/teng-kuan-eric-huang/)
 
 ## Related Pages

@@ -27,6 +27,7 @@ Catherine Hwang (黃李彩雲) is listed in the TAH Foundation Who’s Who Taiwa
 
 
 ## Sources
+- [TAH #835 encyclopedia: 835. Catherine Hwang 黃李彩雲 /02/2016](https://taiwaneseamericanhistory.org/who833-catherine-hwang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/catherine-hwang/)
 
 ## Related Pages

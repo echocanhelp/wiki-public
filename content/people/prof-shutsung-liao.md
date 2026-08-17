@@ -29,6 +29,10 @@ Accomplishment
 
 
 ## Sources
+- [TAH #19 encyclopedia: 19. Prof. Shutsung Liao (廖述宗教授)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-19/)
+- [TAH #100 encyclopedia: 100. Prof. Shutsung Liao 廖述宗教授](https://taiwaneseamericanhistory.org/100-prof-shutsung-liao/)
+- [TAH #9 encyclopedia: 9. Prof. Shutsung Liao 廖述宗教授 / The First President of North America Taiwanese Pr](https://taiwaneseamericanhistory.org/9-prof-shutsung-liao/)
+- [TAH #174 encyclopedia: 174. Prof. Shutsung Liao 廖述宗教授](https://taiwaneseamericanhistory.org/whos-who-174-shutsung-liao/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-shutsung-liao/)
 
 ## Related Pages

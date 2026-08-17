@@ -28,6 +28,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #2 encyclopedia: 2. Dr. Hong Tien Lai 賴弘典醫師](https://taiwaneseamericanhistory.org/2-dr-hong-tien-lai/)
+- [TAH #1159 encyclopedia: 1159. Dr. Hong Tien Lai 賴弘典醫師](https://taiwaneseamericanhistory.org/whos-who-1159-hong-tien-lai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-hong-tien-lai/)
 
 ## Related Pages

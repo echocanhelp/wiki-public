@@ -26,6 +26,7 @@ Jaw Sy Chen (陳昭司) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1661 encyclopedia: 1661. Jaw Sy Chen 陳昭司 / 05/ 2017](https://taiwaneseamericanhistory.org/whoswho1661/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jaw-sy-chen/)
 
 ## Related Pages

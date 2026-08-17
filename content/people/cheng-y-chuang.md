@@ -29,6 +29,9 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #116 encyclopedia: 116. Cheng Y. (Eddie) Chuang 莊承業](https://taiwaneseamericanhistory.org/116-cheng-y-eddie-chuang/)
+- [TAH #332 encyclopedia: 332. Cheng Y. Chuang (莊承業) / The First President of Texas Formosan Federal Credi](https://taiwaneseamericanhistory.org/ff332/)
+- [TAH #266 encyclopedia: 266. Cheng Y. Chuang 莊承業/2015/02](https://taiwaneseamericanhistory.org/whos-who-266-cheng-y-chuang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/cheng-y-chuang/)
 
 ## Related Pages

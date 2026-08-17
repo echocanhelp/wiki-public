@@ -29,6 +29,7 @@ Rev. Ming Huei Phillip Liu 劉銘輝牧師 – History of Taiwanese American (T.
 
 
 ## Sources
+- [TAH #1627 encyclopedia: 1627. Rev. Ming Huei Phillip Liu 劉銘輝牧師](https://taiwaneseamericanhistory.org/whos-who-1627-ming-huei-liu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rev-ming-huei-phillip-liu/)
 
 ## Related Pages

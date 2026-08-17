@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #777 encyclopedia: 777. 王人紀 /2016/01](https://taiwaneseamericanhistory.org/777-%e7%8e%8b%e4%ba%ba%e7%b4%80-201601/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e7%8e%8b%e4%ba%ba%e7%b4%80/)
 
 ## Related Pages

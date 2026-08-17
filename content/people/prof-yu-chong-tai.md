@@ -26,6 +26,7 @@ Assistant Prof (1989); Associate Professor (1995); Professor of EE (2000); Prof.
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2022 encyclopedia: 2022. Prof. Yu-Chong Tai 戴聿昌教授](https://taiwaneseamericanhistory.org/whos-who-2022-yu-chong-ta/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-yu-chong-tai/)
 
 ## Related Pages

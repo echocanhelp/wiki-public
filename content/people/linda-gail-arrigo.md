@@ -26,6 +26,7 @@ Linda Gail Arrigo (艾琳達) is listed in the TAH Foundation Who’s Who Taiwan
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #810 encyclopedia: 810. Linda Gail Arrigo 艾琳達/ 2016/02](https://taiwaneseamericanhistory.org/whos-who-810-linda-gail-arrigo/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/linda-gail-arrigo/)
 
 ## Related Pages

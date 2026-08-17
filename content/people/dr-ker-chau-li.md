@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2068 encyclopedia: 2068. Dr. Ker-Chau Li 李克昭博士](https://taiwaneseamericanhistory.org/whos-who-2068-ker-chau-li/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-ker-chau-li/)
 
 ## Related Pages

@@ -27,6 +27,7 @@ Dr. Jer-Yuan Tsai (蔡哲元醫師) is listed in the TAH Foundation Who’s Who 
 
 
 ## Sources
+- [TAH #1809 encyclopedia: 1809. Dr. Jer-Yuan Tsai 蔡哲元醫師](https://taiwaneseamericanhistory.org/whos-who-1809-jer-yuan-tsai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-jer-yuan-tsai/)
 
 ## Related Pages

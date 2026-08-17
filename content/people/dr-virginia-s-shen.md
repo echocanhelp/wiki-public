@@ -27,6 +27,7 @@ Dr. Virginia S. Shen 李香蘭教授 – History of Taiwanese American (T.A. Arc
 
 
 ## Sources
+- [TAH #1947 encyclopedia: 1947. Dr. Virginia S. Shen 李香蘭教授](https://taiwaneseamericanhistory.org/whos-who-1947-virginia-s-shen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-virginia-s-shen/)
 
 ## Related Pages

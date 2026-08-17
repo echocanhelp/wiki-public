@@ -27,6 +27,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #612 encyclopedia: 612. Erh Lin 林二 /2015/09](https://taiwaneseamericanhistory.org/612-erh-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/erh-lin/)
 
 ## Related Pages

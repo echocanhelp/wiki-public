@@ -28,6 +28,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #1747 encyclopedia: 1747. Che-Hsuan Lin 林哲瑄](https://taiwaneseamericanhistory.org/whos-who-1747-che-hsuan-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/che-hsuan-lin/)
 
 ## Related Pages

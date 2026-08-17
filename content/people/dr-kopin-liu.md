@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2130 encyclopedia: 2130. Dr. Kopin Liu 劉國平博士](https://taiwaneseamericanhistory.org/whos-who-2130-kopin-liu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-kopin-liu/)
 
 ## Related Pages

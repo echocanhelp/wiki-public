@@ -29,6 +29,7 @@ Rev. H. D. Chen (陳浩德牧師) is listed in the TAH Foundation Who’s Who Ta
 
 
 ## Sources
+- [TAH #1824 encyclopedia: 1824. Rev. H. D. Chen 陳浩德牧師](https://taiwaneseamericanhistory.org/whos-who-1824-h-d-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rev-h-d-chen/)
 
 ## Related Pages

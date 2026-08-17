@@ -29,6 +29,8 @@ Lin Chang-Chien Chu (林張簡菊) is listed in the TAH Foundation Who’s Who T
 
 
 ## Sources
+- [TAH #2239 encyclopedia: 2239. Lin Chang-Chien Chu 林張簡菊](https://taiwaneseamericanhistory.org/whos-who-2239-lin-chang-chien-chu/)
+- [TAH #36 encyclopedia: 36. Lin Chang-Chien Chu (林張簡菊)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-36/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/lin-chang-chien-chu/)
 
 ## Related Pages

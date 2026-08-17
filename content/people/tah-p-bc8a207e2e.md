@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #178 encyclopedia: 178. 洪輝雄,Pianist / 2015/03](https://taiwaneseamericanhistory.org/178-%e6%b4%aa%e8%bc%9d%e9%9b%84pianist-201503/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e6%b4%aa%e8%bc%9d%e9%9b%84/)
 
 ## Related Pages

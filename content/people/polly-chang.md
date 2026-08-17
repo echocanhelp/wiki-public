@@ -29,6 +29,7 @@ Heartland Institute Financial Education, CPP-College Planning Program
 
 
 ## Sources
+- [TAH #1172 encyclopedia: 1172. Polly Chang 何佩宜 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1172/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/polly-chang/)
 
 ## Related Pages

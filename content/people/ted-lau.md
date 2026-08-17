@@ -26,6 +26,7 @@ Ted Lau (劉重義) is listed in the TAH Foundation Who’s Who Taiwanese Americ
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #615 encyclopedia: 615. Ted Lau 劉重義 / 2015/09](https://taiwaneseamericanhistory.org/615-ted-lau-%e5%8a%89%e9%87%8d%e7%be%a9-201509/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ted-lau/)
 
 ## Related Pages

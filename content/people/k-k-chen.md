@@ -26,6 +26,7 @@ K. K. Chen (陳國坤) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1350 encyclopedia: 1350.  K. K. Chen 陳國坤 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1350/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/k-k-chen/)
 
 ## Related Pages

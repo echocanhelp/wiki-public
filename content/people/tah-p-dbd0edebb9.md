@@ -29,6 +29,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #1660 encyclopedia: 1660. S. H. Huang 黃秀華](https://taiwaneseamericanhistory.org/whos-who-1660-s-h-huang/)
+- [TAH #147 encyclopedia: 147. 黃秀華](https://taiwaneseamericanhistory.org/147-%e9%bb%83%e7%a7%80%e8%8f%af/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e9%bb%83%e7%a7%80%e8%8f%af/)
 
 ## Related Pages

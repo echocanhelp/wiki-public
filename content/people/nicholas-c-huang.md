@@ -29,6 +29,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #1940 encyclopedia: 1940. Nicholas C. Huang 黄文郁](https://taiwaneseamericanhistory.org/whos-who-1940-nicholas-c-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/nicholas-c-huang/)
 
 ## Related Pages

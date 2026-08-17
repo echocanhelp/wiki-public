@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #409 encyclopedia: 409. R. F. Huang許黃瑞鳳, conductor / 07/2017](https://taiwaneseamericanhistory.org/musician409/)
+- [TAH #1710 encyclopedia: 1710.  R. F. Huang 許黃瑞鳳 / 07/2017](https://taiwaneseamericanhistory.org/whoswho1710/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/r-f-huang/)
 
 ## Related Pages

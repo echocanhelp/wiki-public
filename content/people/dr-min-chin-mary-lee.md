@@ -26,6 +26,8 @@ Dr. Min-Chin Mary Lee 李敏琴醫師 – History of Taiwanese American (T.A. A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2192 encyclopedia: 2192. Dr. Min-Chin Mary Lee 李敏琴醫師](https://taiwaneseamericanhistory.org/whos-who-2192-min-chin-lee/)
+- [TAH #222 encyclopedia: 222. Dr. Min-chin Mary Lee 李敏琴醫師](https://taiwaneseamericanhistory.org/222-2/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-min-chin-mary-lee/)
 
 ## Related Pages

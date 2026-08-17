@@ -29,6 +29,7 @@ Henry Cheng (鄭煥壁) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #391 encyclopedia: 391. Henry Cheng 鄭煥壁 / 2015/04](https://taiwaneseamericanhistory.org/391henry-cheng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/henry-cheng/)
 
 ## Related Pages

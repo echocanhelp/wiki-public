@@ -26,6 +26,7 @@ Jenny Chiu (邱正鵑) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1801 encyclopedia: 1801. Jenny Chiu 邱正鵑](https://taiwaneseamericanhistory.org/whos-who-1801-jenny-chiu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jenny-chiu/)
 
 ## Related Pages

@@ -30,6 +30,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #739 encyclopedia: 739. Karen I. Chang Wu 張音音律師](https://taiwaneseamericanhistory.org/whos-who-739-karen-i-chang-wu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/karen-i-chang-wu/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ Ms. Chen earned her Master degree in Choral Conducting and Church Music from Wes
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #117 encyclopedia: 117. Mei-Li Chen 陳玫麗, Conductor / 2015/01](https://taiwaneseamericanhistory.org/117-mei-li-chen-%e9%99%b3%e7%8e%ab%e9%ba%97-conductor-201501/)
+- [TAH #207 encyclopedia: 207. Mei-Li Chen 陳玫麗 / 2015/01](https://taiwaneseamericanhistory.org/207-mei-li-chen-%e9%99%b3%e7%8e%ab%e9%ba%97-201501/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mei-li-chen/)
 
 ## Related Pages

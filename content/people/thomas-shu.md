@@ -27,6 +27,8 @@ Founding member and board member of the American Premium Tea Institute (now merg
 
 
 ## Sources
+- [TAH #68 encyclopedia: 68. Thomas Shu 許正龍 / The first Ambassador of Taiwan Tea第一任台灣茶葉大使 / 2007](https://taiwaneseamericanhistory.org/68-thomas-shu-%e8%a8%b1%e6%ad%a3%e9%be%8d-the-first-ambassador-of-taiwan-tea%e7%ac%ac%e4%b8%80%e4%bb%bb%e5%8f%b0%e7%81%a3%e8%8c%b6%e8%91%89%e5%a4%a7%e4%bd%bf-2007/)
+- [TAH #114 encyclopedia: 114. Thomas Shu 許正龍](https://taiwaneseamericanhistory.org/114-thomas-shu-%e8%a8%b1%e6%ad%a3%e9%be%8d/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/thomas-shu/)
 
 ## Related Pages

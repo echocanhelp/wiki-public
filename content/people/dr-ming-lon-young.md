@@ -27,6 +27,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #279 encyclopedia: 279. Dr. Ming-Lon Young 楊明倫醫師](https://taiwaneseamericanhistory.org/ota-279/)
+- [TAH #1299 encyclopedia: 1299. Dr. Ming-Lon Young 楊明倫醫師](https://taiwaneseamericanhistory.org/whos-who-1299-ming-lon-young/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-ming-lon-young/)
 
 ## Related Pages

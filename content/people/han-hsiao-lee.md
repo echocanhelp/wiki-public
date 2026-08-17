@@ -26,6 +26,7 @@ Han-Hsiao Lee (李含笑) is listed in the TAH Foundation Who’s Who Taiwanese 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #161 encyclopedia: 161. 李含笑 Han-Hsiao Lee, Director/2015/03](https://taiwaneseamericanhistory.org/161-%e6%9d%8e%e5%90%ab%e7%ac%91-han-hsiao-lee-director201503/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/han-hsiao-lee/)
 
 ## Related Pages

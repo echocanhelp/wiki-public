@@ -29,6 +29,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #1023 encyclopedia: 1023. Joanna Yan 	 石正暖 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1023/)
+- [TAH #31 encyclopedia: 31. 石正暖 Joanna Yan/2015/03](https://taiwaneseamericanhistory.org/artist31-joanna-yan/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/joanna-yan/)
 
 ## Related Pages

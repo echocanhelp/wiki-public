@@ -27,6 +27,7 @@ Mo Chao Tsai (蔡謀昭) is listed in the TAH Foundation Who’s Who Taiwanese A
 
 
 ## Sources
+- [TAH #1428 encyclopedia: 1428. Mo Chao Tsai 蔡謀昭 / 2016/12](https://taiwaneseamericanhistory.org/whoswho1428/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mo-chao-tsai/)
 
 ## Related Pages

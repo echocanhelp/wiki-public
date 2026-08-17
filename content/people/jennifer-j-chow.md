@@ -27,6 +27,7 @@ Jennifer J. Chow (周展儀) is listed in the TAH Foundation Who’s Who Taiwane
 
 
 ## Sources
+- [TAH #388 encyclopedia: 388. Jennifer J. Chow 周展儀/2015/04](https://taiwaneseamericanhistory.org/388-jennifer-j-chow-%e5%91%a8%e5%b1%95%e5%84%80201504/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jennifer-j-chow/)
 
 ## Related Pages

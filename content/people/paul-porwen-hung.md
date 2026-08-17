@@ -28,6 +28,7 @@ Abbott Labs 分子與病毒研究室
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #752 encyclopedia: 752. Paul Porwen Hung 洪伯文/ 2015/12](https://taiwaneseamericanhistory.org/752-paul-porwen-hung-%e6%b4%aa%e4%bc%af%e6%96%87-201512/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/paul-porwen-hung/)
 
 ## Related Pages

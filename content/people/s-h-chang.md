@@ -27,6 +27,7 @@ S. H. Chang (張舜華) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #1037 encyclopedia: 1037. S. H. Chang 張舜華 /2016/05](https://taiwaneseamericanhistory.org/whoswho1037/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/s-h-chang/)
 
 ## Related Pages

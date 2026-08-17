@@ -26,6 +26,8 @@ Dr. Wu received her Doctor of Musical Arts in Cello performance from the Univers
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #258 encyclopedia: 258. Judy Ching Fang Wu 吳青芳 / 2015/02](https://taiwaneseamericanhistory.org/258-judy-ching-fang-wu-%e5%90%b3%e9%9d%92%e8%8a%b3-201502/)
+- [TAH #143 encyclopedia: 143. Judy Ching Fang Wu 吳青芳, Cellist / 2015/02](https://taiwaneseamericanhistory.org/143-judy-ching-fang-wu-%e5%90%b3%e9%9d%92%e8%8a%b3-cello-201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/judy-ching-fang-wu/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ J. Z. Lee (李錦容) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1304 encyclopedia: 1304. J. Z. Lee李錦容 2016/10](https://taiwaneseamericanhistory.org/whoswho1304/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/j-z-lee/)
 
 ## Related Pages

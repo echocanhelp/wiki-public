@@ -26,6 +26,7 @@ Hui-Mei Lin, pianist, received her Master’s degree from the Juilliard School a
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #188 encyclopedia: 188. Hui Mei Lin 林慧美, Pianist/2015/04](https://taiwaneseamericanhistory.org/188-hui-mei-lin-%e6%9e%97%e6%85%a7%e7%be%8e-pianist201504/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hui-mei-lin/)
 
 ## Related Pages

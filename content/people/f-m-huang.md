@@ -27,6 +27,7 @@ F.M. Huang (黃富美) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #1040 encyclopedia: 1040. F.M. Huang 黃富美 / 25016/05](https://taiwaneseamericanhistory.org/whoswho1040/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/f-m-huang/)
 
 ## Related Pages

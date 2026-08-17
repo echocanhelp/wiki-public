@@ -26,6 +26,7 @@ Yu-Ming Huang (黃昱銘) is listed in the TAH Foundation Who’s Who Taiwanese 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1474 encyclopedia: 1474. Yu-Ming Huang  黃昱銘 / 2017/01](https://taiwaneseamericanhistory.org/whoswho1474/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yu-ming-huang/)
 
 ## Related Pages

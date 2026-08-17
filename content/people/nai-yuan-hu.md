@@ -26,6 +26,9 @@ Since winning the First Prize of the prestigious Queen Elisabeth International C
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #95 encyclopedia: 95. Nai-Yuan Hu 胡乃元](https://taiwaneseamericanhistory.org/95-nai-yuan-hu/)
+- [TAH #88 encyclopedia: 88. Nai-Yuan Hu 胡乃元, Violinist/2014/12](https://taiwaneseamericanhistory.org/88-nai-yuan-hu/)
+- [TAH #136 encyclopedia: 136. Nai-Yuan Hu 胡乃元](https://taiwaneseamericanhistory.org/whos-who-136-nai-yuan-hu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/nai-yuan-hu/)
 
 ## Related Pages

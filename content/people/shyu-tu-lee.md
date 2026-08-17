@@ -29,6 +29,7 @@ Engineer; Manager; Administrator, Engineer & Scientific Data Center; Assistant C
 
 
 ## Sources
+- [TAH #281 encyclopedia: 281. Dr. Shyu-Tu Lee 李學圖博士](https://taiwaneseamericanhistory.org/ota-281/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shyu-tu-lee/)
 
 ## Related Pages

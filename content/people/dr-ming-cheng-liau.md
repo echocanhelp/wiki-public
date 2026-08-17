@@ -28,6 +28,8 @@ Dr. Ming Cheng Liau (廖明徵博士) is listed in the TAH Foundation Who’s Wh
 
 
 ## Sources
+- [TAH #34 encyclopedia: 34. Dr. Ming Cheng Liau (廖明徵博士)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-34/)
+- [TAH #2216 encyclopedia: 2216. Dr. Ming Cheng Liau 廖明徵博士](https://taiwaneseamericanhistory.org/whos-who-2216-ming-cheng-liau/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-ming-cheng-liau/)
 
 ## Related Pages

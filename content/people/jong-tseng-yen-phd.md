@@ -26,6 +26,7 @@ Jong-Tseng Yen PhD (顏榮增博士) is listed in the TAH Foundation Who’s Who
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2226 encyclopedia: 2226. Jong-Tseng Yen PhD 顏榮增博士/11/2019](https://taiwaneseamericanhistory.org/whos-who-2226/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jong-tseng-yen-phd/)
 
 ## Related Pages

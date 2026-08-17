@@ -27,6 +27,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #185 encyclopedia: 185. Doug Chiang 江道格](https://taiwaneseamericanhistory.org/185-doug-chiang-%e6%b1%9f%e9%81%93%e6%a0%bc/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/doug-chiang/)
 
 ## Related Pages

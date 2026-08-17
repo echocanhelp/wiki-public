@@ -1,6 +1,6 @@
-## Site design audit — 2026-08-16 08:30
+## Site design audit — 2026-08-17 04:30
 
-- pages_md=315
+- pages_md=2829
 - critical=0 high=0 medium=0
 - heals_suggested=none
 
@@ -8,29 +8,28 @@
 - **SITE_DESIGN_STATUS: OK**
 
 ### LOW (1)
-- **C1** spelling signals (sample): 2 `[AGENT_SUGGESTED]`
-  - `yang-ziqing.md: ?ziqing`
-  - `yang-yueqing.md: ?yueqing`
+- **C1** spelling signals (sample): 1 `[AGENT_SUGGESTED]`
+  - `wang-qiaoling.md: ?qiaoling`
 
 ### INFO (2)
 - **B2** pinned featured pages: 47
   - `people/albert-s-lai.md`
   - `people/anne-shih.md`
   - `people/bob-j-wu.md`
-  - `people/cai-jinrong.md`
   - `people/chen-wenxue.md`
   - `people/chen-zhefu-xu-chunhui.md`
   - `people/choan-seng-song.md`
   - `people/fan-qingliang.md`
-- **B1** person/org touched ≤7d (rely on recency featured window): 70
-  - `people/alan-thian.md`
-  - `people/bai-peiyu.md`
-  - `people/cai-shunyu.md`
-  - `people/cao-changqing.md`
-  - `people/chao-sile.md`
-  - `people/chen-bozhi.md`
-  - `people/chen-maoxiong.md`
-  - `people/chen-po-kong.md`
+  - `people/franklin-ping-cheng.md`
+- **B1** person/org touched ≤7d (rely on recency featured window): 2586
+  - `people/a-n-liu.md`
+  - `people/abby-hong.md`
+  - `people/adam-chang.md`
+  - `people/adrian-lin.md`
+  - `people/agnes-hsiao.md`
+  - `people/agnes-hsu.md`
+  - `people/agnes-wu.md`
+  - `people/ahhee-hsu.md`
 
 ### Programmable heals
 - (none)

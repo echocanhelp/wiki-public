@@ -28,6 +28,7 @@ Dr. Jii (James) Shieh 謝己博士 – History of Taiwanese American (T.A. Archi
 
 
 ## Sources
+- [TAH #2101 encyclopedia: 2101. Dr. Jii (James) Shieh 謝己博士](https://taiwaneseamericanhistory.org/whos-who-2101-jii-james-shieh/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-jii-james-shieh/)
 
 ## Related Pages

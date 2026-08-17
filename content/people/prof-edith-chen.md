@@ -31,6 +31,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #2176 encyclopedia: 2176. Prof. Edith Chen 陳怡迪教授](https://taiwaneseamericanhistory.org/whos-who-2176-edith-chen/)
+- [TAH #212 encyclopedia: 212. Prof. Edith Chen 陳怡迪教授](https://taiwaneseamericanhistory.org/212-2/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-edith-chen/)
 
 ## Related Pages

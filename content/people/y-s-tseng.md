@@ -28,6 +28,7 @@ Y. S. Tseng (曾元勝) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #1007 encyclopedia: 1007.   Y. S. Tseng  曾元勝 / 2016/05](https://taiwaneseamericanhistory.org/whos-y-s-victor-tseng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/y-s-tseng/)
 
 ## Related Pages

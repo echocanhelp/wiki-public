@@ -27,6 +27,8 @@ A citation accompanying Shih-Hui Chen’s Goddard Lieberson Fellowship from the 
 
 
 ## Sources
+- [TAH #191 encyclopedia: 191. Shih-Hui Chen 陳士惠, Composer / 2015/05](https://taiwaneseamericanhistory.org/191-shih-hui-chen-composer/)
+- [TAH #393 encyclopedia: 393. Shih-Hui Chen 陳士惠 / 2015/05](https://taiwaneseamericanhistory.org/393-shih-hui-chen-%e9%99%b3%e5%a3%ab%e6%83%a0-201505/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shih-hui-chen/)
 
 ## Related Pages

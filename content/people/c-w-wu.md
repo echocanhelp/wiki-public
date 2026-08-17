@@ -28,6 +28,7 @@ C. W. Wu (吳成文) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 
 
 ## Sources
+- [TAH #954 encyclopedia: 954.  C. W. Wu 吳成文 / 2016/04](https://taiwaneseamericanhistory.org/whoswho954/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-w-wu/)
 
 ## Related Pages

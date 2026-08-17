@@ -26,6 +26,7 @@ T. C. Cheng (鄭天佐) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #953 encyclopedia: 953. T. C. Cheng 鄭天佐 / 2016/04](https://taiwaneseamericanhistory.org/whowswho953/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/t-c-cheng/)
 
 ## Related Pages

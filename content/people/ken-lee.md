@@ -29,6 +29,9 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #115 encyclopedia: 115. Ken Lee 李彥禎](https://taiwaneseamericanhistory.org/115-ken-lee/)
+- [TAH #124 encyclopedia: 124. Mr. Ken Lee 李彥禎 / An outstanding social worker](https://taiwaneseamericanhistory.org/ff124/)
+- [TAH #26 encyclopedia: 26. Ken Lee 李彥禎](https://taiwaneseamericanhistory.org/whos-who-26-ken-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ken-lee/)
 
 ## Related Pages

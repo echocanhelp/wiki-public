@@ -27,6 +27,7 @@ Lanhee J. Chen (陳仁宜) is listed in the TAH Foundation Who’s Who Taiwanese
 
 
 ## Sources
+- [TAH #2070 encyclopedia: 2070. Lanhee J. Chen 陳仁宜 / 03/2018](https://taiwaneseamericanhistory.org/whoswh2070/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/lanhee-j-chen/)
 
 ## Related Pages

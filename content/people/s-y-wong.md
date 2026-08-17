@@ -26,6 +26,7 @@ S. Y. Wong (翁水元) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #932 encyclopedia: 932. S. Y. Wong 翁水元 / 2016/04](https://taiwaneseamericanhistory.org/932-s-y-wong-%e7%bf%81%e6%b0%b4%e5%85%83-201604/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/s-y-wong/)
 
 ## Related Pages

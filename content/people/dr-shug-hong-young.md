@@ -28,6 +28,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #1841 encyclopedia: 1841. Dr. Shug-Hong Young 楊士宏醫師](https://taiwaneseamericanhistory.org/whos-who-1841-shug-hong-young/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-shug-hong-young/)
 
 ## Related Pages

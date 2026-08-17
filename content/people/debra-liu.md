@@ -27,6 +27,7 @@ Debra Liu (謝金朱) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 
 
 ## Sources
+- [TAH #2245 encyclopedia: 2245. Debra Liu 謝金朱/02/2020](https://taiwaneseamericanhistory.org/whos-who-2245/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/debra-liu/)
 
 ## Related Pages

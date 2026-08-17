@@ -30,6 +30,7 @@ His-Ho Chou (周錫和) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #299 encyclopedia: 299. His-Ho Chou 周錫和 / 2015/02](https://taiwaneseamericanhistory.org/299/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/his-ho-chou/)
 
 ## Related Pages

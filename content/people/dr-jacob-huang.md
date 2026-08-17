@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1681 encyclopedia: 1681. Dr. Jacob Huang 黃正雅醫師](https://taiwaneseamericanhistory.org/whos-who-1681-jacob-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-jacob-huang/)
 
 ## Related Pages

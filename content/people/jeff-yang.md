@@ -29,6 +29,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #2266 encyclopedia: 2266. Jeff Yang 楊致和](https://taiwaneseamericanhistory.org/whos-who-2266-jeff-yang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jeff-yang/)
 
 ## Related Pages

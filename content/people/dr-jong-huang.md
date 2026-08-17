@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2240 encyclopedia: 2240. Dr. Jong Huang 黃重德醫師](https://taiwaneseamericanhistory.org/whos-who-2240-jong-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-jong-huang/)
 
 ## Related Pages

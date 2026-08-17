@@ -26,6 +26,7 @@ C. C. Chung (鍾振乾) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1394 encyclopedia: 1394. C. C. Chung 鍾振乾 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1394/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-c-chung/)
 
 ## Related Pages

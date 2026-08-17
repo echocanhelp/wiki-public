@@ -27,6 +27,7 @@ Rev. J. C. Cheng (鄭紀昭牧師) is listed in the TAH Foundation Who’s Who T
 
 
 ## Sources
+- [TAH #2105 encyclopedia: 2105. Rev. J. C. Cheng 鄭紀昭牧師](https://taiwaneseamericanhistory.org/whos-who-2105-j-c-cheng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rev-j-c-cheng/)
 
 ## Related Pages

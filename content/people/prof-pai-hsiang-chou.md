@@ -26,6 +26,7 @@ Prof. Pai-Hsiang Chou 周百祥教授 – History of Taiwanese American (T.A. Ar
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1905 encyclopedia: 1905. Prof. Pai-Hsiang Chou 周百祥教授](https://taiwaneseamericanhistory.org/whos-who-1905-pai-hsiang-chou/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-pai-hsiang-chou/)
 
 ## Related Pages

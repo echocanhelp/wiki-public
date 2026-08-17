@@ -26,6 +26,7 @@ Julan Jau (趙珠蘭) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #143 encyclopedia: 143. Julan Jau 趙珠蘭](https://taiwaneseamericanhistory.org/whos143/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/julan-jau/)
 
 ## Related Pages

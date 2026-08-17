@@ -27,6 +27,7 @@ Director of Multimedia and Communication Institute, School of System Engineering
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1869 encyclopedia: 1869. Dr. G. C. Huang 黃光彩博士](https://taiwaneseamericanhistory.org/whos-who-1869-g-c-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-g-c-huang/)
 
 ## Related Pages

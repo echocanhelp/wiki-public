@@ -26,6 +26,8 @@ Violinist Te-Chiang (Bacco) Liu, is a native of Taiwan. Mr. Liu started the viol
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #194 encyclopedia: 194. Te-Chiang (Bacco) Liu 劉德強, Violinist / 2015/05](https://taiwaneseamericanhistory.org/194-te-chiang-bacco-liu-%e5%8a%89%e5%be%b7%e5%bc%b7-violinist-201505/)
+- [TAH #396 encyclopedia: 396. Te-Chiang (Bacco) Liu 劉德強 / 2015/05](https://taiwaneseamericanhistory.org/396-te-chiang-bacco-liu-%e5%8a%89%e5%be%b7%e5%bc%b7-201505/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/te-chiang-bacco-liu/)
 
 ## Related Pages

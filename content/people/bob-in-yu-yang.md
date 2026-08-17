@@ -26,6 +26,7 @@ President, North American Taiwanese Professors' Association Kansas Chapter 1993-
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #660 encyclopedia: 660. Bob In-Yu Yang 楊英育 / 2015/10](https://taiwaneseamericanhistory.org/660-bob-in-yu-yang-%e6%a5%8a%e8%8b%b1%e8%82%b2-201510/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/bob-in-yu-yang/)
 
 ## Related Pages

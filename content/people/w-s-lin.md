@@ -26,6 +26,7 @@ W. S. Lin (林維熊) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1199 encyclopedia: 1199. W. S. Lin 林維熊 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1199/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/w-s-lin/)
 
 ## Related Pages

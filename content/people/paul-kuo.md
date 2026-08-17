@@ -26,6 +26,8 @@ Artworks include: Breakfast Stand (22″ x 30″ Watercolor), Koi Pond (22″ x 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #276 encyclopedia: 276. Paul Kuo 郭博修, 2015/02](https://taiwaneseamericanhistory.org/whos276-paul-kuo/)
+- [TAH #27 encyclopedia: 27. 郭博修 Paul Kuo](https://taiwaneseamericanhistory.org/artist27-paul-kuo/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/paul-kuo/)
 
 ## Related Pages

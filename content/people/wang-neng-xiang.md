@@ -10,7 +10,7 @@ tags:
   - cpa
 verification_status: pending
 featured: true
-last_reviewed: 2026-07-19
+last_reviewed: 2026-08-17
 ---
 # Wang Neng-xiang (王能祥)
 
@@ -85,8 +85,8 @@ Pages that link to **wang-neng-xiang** (wang-neng-xiang):
 3. [[people/zhou-wei-lin.md|zhou-wei-lin]]
 
 ### Sources
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/neng-hsiang-wang/)
- (1)
+- [TAH #51 encyclopedia: 51. Neng-Hsiang Wang 王能祥 / The first political lobbyist in D. C. / 1972](https://taiwaneseamericanhistory.org/ff51/)
+- [TAH #363 encyclopedia: 363. Neng-Hsiang Wang 王能祥/2015/04](https://taiwaneseamericanhistory.org/whos-neng-hsiang-wang/) (1)
 
 1. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
 

@@ -26,6 +26,7 @@ Tim Chng (莊騰程) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1688 encyclopedia: 1688. Tim Chng 莊騰程 / 05/2017](https://taiwaneseamericanhistory.org/whoswho1688/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tim-chng/)
 
 ## Related Pages

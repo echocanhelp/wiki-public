@@ -29,6 +29,7 @@ S. Y. Liu (劉淑媛) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 
 
 ## Sources
+- [TAH #1846 encyclopedia: 1846. S. Y. Liu 劉淑媛](https://taiwaneseamericanhistory.org/whos-who-1846-s-y-liu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/s-y-liu/)
 
 ## Related Pages

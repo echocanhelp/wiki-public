@@ -29,6 +29,7 @@ Chester Cherng Chiou Wu 吳澄秋博士 – History of Taiwanese American (T.A. 
 
 
 ## Sources
+- [TAH #1959 encyclopedia: 1959. Chester Cherng Chiou Wu 吳澄秋博士](https://taiwaneseamericanhistory.org/whos-who-1959-cherng-chiou-wu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chester-cherng-chiou-wu/)
 
 ## Related Pages

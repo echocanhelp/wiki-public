@@ -10,7 +10,7 @@ name_en: "Gene Tsai"
 name_zh_hanzi: "蔡錦榮"
 verification_status: pending
 featured: true
-last_reviewed: 2026-08-16
+last_reviewed: 2026-08-17
 source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
 ---
 # Gene Tsai (蔡錦榮)
@@ -27,7 +27,7 @@ source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
 
 ## Also known as
 
-Same person as the 2023 TAHS publication profile formerly filed under provisional pinyin slug `cai-jinrong` (display was **Cai Jinrong**). Preferred English on the 2025 TAHS org chart is **Gene Tsai**.
+Same person as the 2023 TAHS publication profile formerly filed under provisional pinyin slug `cai-jinrong` (display was **Gene Tsai**). Preferred English on the 2025 TAHS org chart is **Gene Tsai**.
 
 ## Overview
 

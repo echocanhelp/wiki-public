@@ -28,6 +28,9 @@ Mao-ching (David) Huang 黃茂清 – History of Taiwanese American (T.A. Archiv
 
 
 ## Sources
+- [TAH #369 encyclopedia: 369. Mao-ching (David) Huang 黃茂清 / First Male Lawyers / 1975](https://taiwaneseamericanhistory.org/ff369/)
+- [TAH #318 encyclopedia: 318. Mao-ching (David) Huang 黃茂清 / First President of Taiwanese American Lawyers](https://taiwaneseamericanhistory.org/ff318/)
+- [TAH #1415 encyclopedia: 1415. Mao-ching (David) Huang 黃茂清 / 2016/12](https://taiwaneseamericanhistory.org/whoswho1415/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mao-ching-david-huang/)
 
 ## Related Pages

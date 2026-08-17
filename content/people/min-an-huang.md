@@ -28,6 +28,7 @@ Min-An Huang (黃民安) is listed in the TAH Foundation Who’s Who Taiwanese A
 
 
 ## Sources
+- [TAH #565 encyclopedia: 565. Min-An Huang 黃民安 /2015/09](https://taiwaneseamericanhistory.org/565-min-an-huang-%e9%bb%83%e6%b0%91%e5%ae%89-201509/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/min-an-huang/)
 
 ## Related Pages

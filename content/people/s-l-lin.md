@@ -27,6 +27,7 @@ S. L. Lin (林幸隆) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 
 
 ## Sources
+- [TAH #1130 encyclopedia: 1130. S. L. Lin 林幸隆 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1130/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/s-l-lin/)
 
 ## Related Pages

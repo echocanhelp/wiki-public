@@ -28,6 +28,7 @@ Co Chair
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #281 encyclopedia: 281. Dr. Jason Wang 王智弘/2015/02](https://taiwaneseamericanhistory.org/whos-who-281-jason-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-jason-wang/)
 
 ## Related Pages

@@ -31,6 +31,7 @@ Shuching Liao (廖郭淑卿) is listed in the TAH Foundation Who’s Who Taiwane
 
 
 ## Sources
+- [TAH #478 encyclopedia: 478. Shuching Liao 廖郭淑卿 / 2015/07](https://taiwaneseamericanhistory.org/478-shuching-liao-%e5%bb%96%e9%83%ad%e6%b7%91%e5%8d%bf-201507/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shuching-liao/)
 
 ## Related Pages

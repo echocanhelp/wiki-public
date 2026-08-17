@@ -26,6 +26,7 @@ George K. Liu (劉寬平) is listed in the TAH Foundation Who’s Who Taiwanese 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #776 encyclopedia: 776. George K. Liu 劉寬平 /2016/01](https://taiwaneseamericanhistory.org/whos-who776/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/george-k-liu/)
 
 ## Related Pages

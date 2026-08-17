@@ -26,6 +26,8 @@ Pianist Susan Shu-Ai Tsai is the pianist of Good Shepherd Taiwanese Presbyterian
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #183 encyclopedia: 183. Susan Shu-Ai Tsai 蔡淑愛, Pianist / 2015/03](https://taiwaneseamericanhistory.org/183-susan-shu-ai-tsai-%e8%94%a1%e6%b7%91%e6%84%9b-pianist-201503/)
+- [TAH #357 encyclopedia: 357. Susan Shu-Ai Tsai 蔡淑愛 / 2015/03](https://taiwaneseamericanhistory.org/357-susan-shu-ai-tsai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/susan-shu-ai-tsai/)
 
 ## Related Pages

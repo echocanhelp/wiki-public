@@ -26,6 +26,8 @@ Ms. Amy Lin learned to play piano from her mother. In college (National Taiwan U
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #557 encyclopedia: 557. Amy Lin 林惠美 / 2015/08](https://taiwaneseamericanhistory.org/557-amy-lin-%e6%9e%97%e6%83%a0%e7%be%8e-201508/)
+- [TAH #262 encyclopedia: 262. Amy Lin 林惠美, Pianist / 2015/08](https://taiwaneseamericanhistory.org/262-amy-lin-%e6%9e%97%e6%83%a0%e7%be%8e-pianist-201508/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/amy-lin/)
 
 ## Related Pages

@@ -29,6 +29,8 @@ Dr. Shiching (John) Chang 張錫清博士 – History of Taiwanese American (T.A
 
 
 ## Sources
+- [TAH #26 encyclopedia: 26. Dr. Shiching (John) Chang 張錫清博士](https://taiwaneseamericanhistory.org/26-dr-shiching-john-chang/)
+- [TAH #75 encyclopedia: 75. Dr. Shiching (John) Chang 張錫清博士](https://taiwaneseamericanhistory.org/whos-who-75-shiching-john-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-shiching-john-chang/)
 
 ## Related Pages

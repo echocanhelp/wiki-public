@@ -26,6 +26,7 @@ C. S. Hsu (許清松) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1478 encyclopedia: 1478. C. S. Hsu 許清松 / 2017/01](https://taiwaneseamericanhistory.org/whoswho1478/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-s-hsu/)
 
 ## Related Pages

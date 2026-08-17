@@ -27,6 +27,7 @@ Y.C. Hsu (許英智) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 
 
 ## Sources
+- [TAH #1560 encyclopedia: 1560. Y.C. Hsu 許英智/ 2017/03](https://taiwaneseamericanhistory.org/whoswho1560/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/y-c-hsu-2/)
 
 ## Related Pages

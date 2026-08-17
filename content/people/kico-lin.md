@@ -27,6 +27,7 @@ Kico Lin (林貴香) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 
 
 ## Sources
+- [TAH #1729 encyclopedia: 1729. Kico Lin 林貴香](https://taiwaneseamericanhistory.org/whos-who-1729-kico-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kico-lin/)
 
 ## Related Pages

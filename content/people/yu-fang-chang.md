@@ -26,6 +26,8 @@ Ms. Chang received her Doctor of Musical Arts from Boston University and has ext
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1446 encyclopedia: 1446. Yu-Fang Chang 張玉芳 / 2016/12](https://taiwaneseamericanhistory.org/whoswho1446/)
+- [TAH #377 encyclopedia: 377. Yu-Fang Chang張玉芳 , Cellist / 2016/12](https://taiwaneseamericanhistory.org/musician377/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yu-fang-chang/)
 
 ## Related Pages

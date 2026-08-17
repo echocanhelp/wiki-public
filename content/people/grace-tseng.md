@@ -27,6 +27,7 @@ Grace Tseng (李雲玉) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #986 encyclopedia: 986. Grace Tseng 李雲玉 / 2016/05](https://taiwaneseamericanhistory.org/whoswho986/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/grace-tseng/)
 
 ## Related Pages

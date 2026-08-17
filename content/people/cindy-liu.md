@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #352 encyclopedia: 352. Cindy Liu劉杏芳, Conductor / 2016/07](https://taiwaneseamericanhistory.org/musician352/)
+- [TAH #1200 encyclopedia: 1200. Hsingfang Cindy Liu 劉杏芳 / 2016/07](https://taiwaneseamericanhistory.org/whos-hsingfang-cindy-liu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/cindy-liu/)
 
 ## Related Pages

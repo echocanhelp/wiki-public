@@ -30,6 +30,8 @@ Dr. Justine Fang Chen 陳潔思博士 – History of Taiwanese American (T.A. Ar
 
 
 ## Sources
+- [TAH #208 encyclopedia: 208. Dr. Justine Fang Chen 陳潔思博士](https://taiwaneseamericanhistory.org/208/)
+- [TAH #164 encyclopedia: 164. Dr. Justine Fang Chen 陳潔思博士](https://taiwaneseamericanhistory.org/whos-who-164-justine-fang-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-justine-fang-chen/)
 
 ## Related Pages

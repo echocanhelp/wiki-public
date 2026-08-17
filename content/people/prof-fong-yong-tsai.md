@@ -29,6 +29,8 @@ Prof. Fong-Yong Tsai 蔡芳洋教授 – History of Taiwanese American (T.A. Arc
 
 
 ## Sources
+- [TAH #69 encyclopedia: 69. Prof. Fong-Yong Tsai 蔡芳洋教授](https://taiwaneseamericanhistory.org/69-prof-fong-yong-tsai/)
+- [TAH #602 encyclopedia: 602. Prof. Fong-Yong Tsai 蔡芳洋教授](https://taiwaneseamericanhistory.org/whos-who-602-fong-yong-tsai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-fong-yong-tsai/)
 
 ## Related Pages

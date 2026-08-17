@@ -26,6 +26,7 @@ R. C. Chen (陳瑞珠) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1148 encyclopedia: 1148. R. C. Chen陳瑞珠 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1148/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/r-c-chen/)
 
 ## Related Pages

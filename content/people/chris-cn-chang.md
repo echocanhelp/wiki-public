@@ -26,6 +26,7 @@ Chris CN Chang (張照男) is listed in the TAH Foundation Who’s Who Taiwanese
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1645 encyclopedia: 1645. Chris CN Chang 張照男 05/2017](https://taiwaneseamericanhistory.org/whoswho1645/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chris-cn-chang/)
 
 ## Related Pages

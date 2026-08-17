@@ -29,6 +29,7 @@ Peggy Cooley (邱碧玉) is listed in the TAH Foundation Who’s Who Taiwanese A
 
 
 ## Sources
+- [TAH #2161 encyclopedia: 2161. Peggy Cooley 邱碧玉](https://taiwaneseamericanhistory.org/whos-who-2161-peggy-cooley/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/peggy-cooley/)
 
 ## Related Pages

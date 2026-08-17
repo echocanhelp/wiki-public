@@ -26,6 +26,7 @@ Kenneth W. Hsu (許根旺) is listed in the TAH Foundation Who’s Who Taiwanese
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #413 encyclopedia: 413. Kenneth W. Hsu 許根旺 / 2015/05](https://taiwaneseamericanhistory.org/413/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kenneth-w-hsu/)
 
 ## Related Pages

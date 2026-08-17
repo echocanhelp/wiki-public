@@ -26,6 +26,7 @@ Fang-Yi Sheu (許芳宜) is listed in the TAH Foundation Who’s Who Taiwanese A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1499 encyclopedia: 1499. Fang-Yi Sheu 許芳宜 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1499/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/fang-yi-sheu/)
 
 ## Related Pages

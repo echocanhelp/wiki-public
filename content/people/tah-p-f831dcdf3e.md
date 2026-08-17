@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #728 encyclopedia: 728. 陳國雄/ 2015/12](https://taiwaneseamericanhistory.org/728-%e9%99%b3%e5%9c%8b%e9%9b%84-201512/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e9%99%b3%e5%9c%8b%e9%9b%84/)
 
 ## Related Pages

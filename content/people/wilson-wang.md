@@ -27,6 +27,7 @@ Source from 美洲台灣日報http://taiwandaily.net/gp2.aspx?_p=kSF1c9zU9HS21FC
 
 
 ## Sources
+- [TAH #2044 encyclopedia: 2044.  Wilson Wang 王唯昇 / 02/2018](https://taiwaneseamericanhistory.org/whoswho2044/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/wilson-wang/)
 
 ## Related Pages

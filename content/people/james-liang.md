@@ -27,6 +27,8 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #194 encyclopedia: 194. James Liang 梁政吉](https://taiwaneseamericanhistory.org/194-james-liang/)
+- [TAH #727 encyclopedia: 727. James Liang 梁政吉](https://taiwaneseamericanhistory.org/whos-who-727-james-liang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/james-liang/)
 
 ## Related Pages

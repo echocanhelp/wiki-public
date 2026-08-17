@@ -26,6 +26,8 @@ Julia Tai, Doctor of Musical Arts in Orchestral Conducting / Master of Music in 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #239 encyclopedia: 239. Julia Tai戴宇音, Conductor / 2015/07](https://taiwaneseamericanhistory.org/239-julia-tai%e6%88%b4%e5%ae%87%e9%9f%b3-conductor-201507/)
+- [TAH #494 encyclopedia: 494. Julia Tai 戴宇音 / 2015/07](https://taiwaneseamericanhistory.org/494-julia-tai-%e6%88%b4%e5%ae%87%e9%9f%b3-201507/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/julia-tai/)
 
 ## Related Pages

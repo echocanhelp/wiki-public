@@ -29,6 +29,7 @@ Mark Jong (鍾茂萃) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 
 
 ## Sources
+- [TAH #740 encyclopedia: 740.Mark Jong 鍾茂萃/2015/12](https://taiwaneseamericanhistory.org/740-mark-jong-%e9%8d%be%e8%8c%82%e8%90%83201512/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mark-jong/)
 
 ## Related Pages

@@ -9,7 +9,7 @@ tags:
   - amd
 verification_status: pending
 featured: true
-last_reviewed: 2026-07-19
+last_reviewed: 2026-08-17
 ---
 # Su Chun-huai (蘇春槐)
 
@@ -53,9 +53,12 @@ Pages that link to **su-chun-huai** (su-chun-huai):
 
 1. [[people/lisa-su.md|lisa-su]]
 
-### Sources
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-h-su/)
- (1)
+### Works
+- Oral history — 183. President of NYTC – 蘇春槐 Chun-Hwai Su’s Journey | TAH Taiwanese Americans Oral History (https://taiwaneseamericanhistory.org/video-183/)
+
+## Sources
+- [TAH #183 oral history: 183. President of NYTC – 蘇春槐 Chun-Hwai Su’s Journey | TAH Taiwanese Americans Or](https://taiwaneseamericanhistory.org/video-183/)
+- [TAH #2117 encyclopedia: 2117. C. H. Su 蘇春槐](https://taiwaneseamericanhistory.org/whos-who-2117-c-h-su/) (1)
 
 1. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
 

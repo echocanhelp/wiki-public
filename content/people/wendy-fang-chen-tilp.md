@@ -31,6 +31,9 @@ Wendy Fang Chen, pianist and composer born in Brooklyn of Taiwanese descent earn
 
 
 ## Sources
+- [TAH #213 encyclopedia: 213. Wendy Fang Chen Tilp 陳丹蘋](https://taiwaneseamericanhistory.org/213-3/)
+- [TAH #355 encyclopedia: 355. Wendy Fang Chen Tilp 陳丹蘋](https://taiwaneseamericanhistory.org/whos-who-355-wendy-fang-chen-tilp/)
+- [TAH #182 encyclopedia: 182. Wendy Fang Chen 陳丹蘋, Pianist](https://taiwaneseamericanhistory.org/182-wendy-fang-chen-%e9%99%b3%e4%b8%b9%e8%98%8b-pianist/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/wendy-fang-chen-tilp/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ A native of Taiwan, Ms. Mei-En Chou began her piano studies at the age of four, 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #190 encyclopedia: 190. Mei-En Chou 周媺恩, Pianist / 2015/04](https://taiwaneseamericanhistory.org/190-mei-en-chou-%e5%91%a8%e5%aa%ba%e6%81%a9-piano-201504/)
+- [TAH #359 encyclopedia: 359. Mei-En Chou 周媺恩/2015/04](https://taiwaneseamericanhistory.org/359-mei-en-chou-%e5%91%a8%e5%aa%ba%e6%81%a9201504/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mei-en-chou/)
 
 ## Related Pages

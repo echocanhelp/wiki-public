@@ -29,6 +29,7 @@ For more information, please clickProjects >>>14. Pride of T. A. >>>6. 全美最
 
 
 ## Sources
+- [TAH #88 encyclopedia: 88. Prof. Ming-Shian Kao 高銘憲教授](https://taiwaneseamericanhistory.org/88-prof-ming-shian-kao/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ming-shian-kao/)
 
 ## Related Pages

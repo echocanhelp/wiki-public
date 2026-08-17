@@ -26,6 +26,7 @@ Lulu Meng (孟祥璐) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1816 encyclopedia: 1816. LuLu Meng 孟祥璐](https://taiwaneseamericanhistory.org/whos-who-1816-lulu-meng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/lulu-meng/)
 
 ## Related Pages

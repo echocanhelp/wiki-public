@@ -29,6 +29,8 @@ C. J. Chen (陳銓仁) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #1033 encyclopedia: 1033. C. J. Chen 陳銓仁 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1033/)
+- [TAH #180 encyclopedia: 180. 陳銓仁 / 洛杉磯台灣同鄉會第一任會長 / 1968-1971](https://taiwaneseamericanhistory.org/180-%e9%99%b3%e9%8a%93%e4%bb%81-%e6%b4%9b%e6%9d%89%e7%a3%af%e5%8f%b0%e7%81%a3%e5%90%8c%e9%84%89%e6%9c%83%e7%ac%ac%e4%b8%80%e4%bb%bb%e6%9c%83%e9%95%b7-1968-1971/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-j-chen/)
 
 ## Related Pages

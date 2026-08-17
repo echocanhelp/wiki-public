@@ -26,6 +26,7 @@ Nan-Jae Lin (林能傑) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1318 encyclopedia: 1318. Nan-Jae Lin 林能傑/ 2016/10](https://taiwaneseamericanhistory.org/whowho1318/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/nan-jae-lin/)
 
 ## Related Pages

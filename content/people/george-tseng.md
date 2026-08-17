@@ -27,6 +27,9 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #683 encyclopedia: 683. 永遠的專注-曾水福博士 / 刹塵子 /05/2019](https://taiwaneseamericanhistory.org/mystories683/)
+- [TAH #76 encyclopedia: 76. Collection of Dr. S. George Tseng 曾水福博士](https://taiwaneseamericanhistory.org/76-collection-of-dr-s-george-tseng/)
+- [TAH #96 encyclopedia: 96. Dr. George S. Tseng 曾水福博士](https://taiwaneseamericanhistory.org/96-dr-s-george-tseng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/george-tseng/)
 
 ## Related Pages

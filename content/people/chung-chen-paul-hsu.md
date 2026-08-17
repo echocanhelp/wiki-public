@@ -27,6 +27,9 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #36 encyclopedia: 36. Chung Chen (Paul) and Sharon Hsu 許忠政、許聖美夫婦](https://taiwaneseamericanhistory.org/36-chung-chen-paul-and-sharon-hsu/)
+- [TAH #42 encyclopedia: 42. Paul (Chung Chen) and Sharon Hsu 許忠政, 許聖美 / The first private business enter](https://taiwaneseamericanhistory.org/ff42/)
+- [TAH #262 encyclopedia: 262. Chung Chen (Paul) Hsu 許忠政](https://taiwaneseamericanhistory.org/whos-who-262-chung-chen-hsu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chung-chen-paul-hsu/)
 
 ## Related Pages

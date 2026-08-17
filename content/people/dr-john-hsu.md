@@ -28,6 +28,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #287 encyclopedia: 287. Dr. John Hsu 徐新宏博士](https://taiwaneseamericanhistory.org/ota-287/)
+- [TAH #873 encyclopedia: 873. Dr. John Hsu 徐新宏博士](https://taiwaneseamericanhistory.org/whos-who-873-john-hsu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-john-hsu/)
 
 ## Related Pages

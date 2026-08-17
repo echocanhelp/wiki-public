@@ -26,6 +26,7 @@ Dr. Henry Y. Wu (吳銀鏤醫師) is listed in the TAH Foundation Who’s Who Ta
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1875 encyclopedia: 1875. Dr. Henry Y. Wu 吳銀鏤醫師](https://taiwaneseamericanhistory.org/whos-who-1875-henry-y-wu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-henry-y-wu/)
 
 ## Related Pages

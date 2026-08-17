@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2067 encyclopedia: 2067. Dr. Chia-Fu Chou 周家復博士](https://taiwaneseamericanhistory.org/whos-who-2067-chia-fu-chou/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-chia-fu-chou/)
 
 ## Related Pages

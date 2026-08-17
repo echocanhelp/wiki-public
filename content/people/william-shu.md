@@ -26,6 +26,7 @@ William Shu (許子祥) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2292 encyclopedia: 2292. William Shu 許子祥](https://taiwaneseamericanhistory.org/whos-who-2292-william-shu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/william-shu/)
 
 ## Related Pages

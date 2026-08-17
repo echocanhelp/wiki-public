@@ -26,6 +26,8 @@ Joseph Lin is an American violinist. In 2011, he joined the faculty of the Juill
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #650 encyclopedia: 650. Joseph Lin 林以信 / 2015/10](https://taiwaneseamericanhistory.org/650-joseph-lin-%e6%9e%97%e4%bb%a5%e4%bf%a1-201510/)
+- [TAH #299 encyclopedia: 299. Joseph Lin 林以信, Violinist / 2015/10](https://taiwaneseamericanhistory.org/299-joseph-lin-%e6%9e%97%e4%bb%a5%e4%bf%a1-violinist-201510/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/joseph-lin/)
 
 ## Related Pages

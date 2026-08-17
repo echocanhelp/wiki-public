@@ -28,6 +28,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #236 encyclopedia: 236. Dr. Chi Cheng Huang 黃至成醫師](https://taiwaneseamericanhistory.org/ota-236/)
+- [TAH #600 encyclopedia: 600. Dr. Chi-Cheng Huang 黃至成醫師](https://taiwaneseamericanhistory.org/whos-who-600-chi-cheng-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-chi-cheng-huang/)
 
 ## Related Pages

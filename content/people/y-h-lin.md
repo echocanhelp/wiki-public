@@ -26,6 +26,7 @@ Y. H. Lin (林永雄) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1496 encyclopedia: 1496. Y. H. Lin 林永雄 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1496/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/y-h-lin/)
 
 ## Related Pages

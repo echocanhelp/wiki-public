@@ -26,6 +26,8 @@ A victory at the 2012 CAG Victor Elmaleh Competition is the latest in a growing 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #291 encyclopedia: 291. Steven Lin 林易, Pianist / 2015/09](https://taiwaneseamericanhistory.org/291-steven-lin-%e6%9e%97%e6%98%93-pianist-201509/)
+- [TAH #575 encyclopedia: 575. Steven Lin 林易 / 2015/09](https://taiwaneseamericanhistory.org/575-steven-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/steven-lin/)
 
 ## Related Pages

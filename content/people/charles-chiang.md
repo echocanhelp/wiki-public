@@ -27,6 +27,7 @@ Charles Chiang (江昭儀) is listed in the TAH Foundation Who’s Who Taiwanese
 
 
 ## Sources
+- [TAH #2217 encyclopedia: 2217. Charles Chiang 江昭儀](https://taiwaneseamericanhistory.org/whos-who-2217-charles-chiang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/charles-chiang/)
 
 ## Related Pages

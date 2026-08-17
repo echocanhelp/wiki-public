@@ -29,6 +29,10 @@ Accomplishment
 
 
 ## Sources
+- [TAH #2195 encyclopedia: 2195. Morgan Chang 張富雄](https://taiwaneseamericanhistory.org/whos-who-2195-morgan-chang/)
+- [TAH #200 encyclopedia: 200.  Morgan Chang  張富雄](https://taiwaneseamericanhistory.org/200-morgan-chang/)
+- [TAH #144 encyclopedia: 144. 楊宜宜 張富雄 / 台灣之音 / 1977-1982](https://taiwaneseamericanhistory.org/144-%e6%a5%8a%e5%ae%9c%e5%ae%9c-%e5%bc%b5%e5%af%8c%e9%9b%84-%e5%8f%b0%e7%81%a3%e4%b9%8b%e9%9f%b3-1977-1982/)
+- [TAH #143 encyclopedia: 143. 楊宜宜 張富雄 / 海外第一份全球性的「海外台灣基督徒聯合通訊」 / 1973-1996](https://taiwaneseamericanhistory.org/ff143/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/morgan-chang/)
 
 ## Related Pages

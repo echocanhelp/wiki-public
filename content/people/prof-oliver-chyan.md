@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1922 encyclopedia: 1922. Prof. Oliver Chyan 錢明仁教授](https://taiwaneseamericanhistory.org/whos-who-1922-oliver-chyan/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-oliver-chyan/)
 
 ## Related Pages

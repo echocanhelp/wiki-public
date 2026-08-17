@@ -26,6 +26,8 @@ Ying-Chen Kao 高盈真 (b.1981) has received various commissions and performanc
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #518 encyclopedia: 518. Ying-Chen Kao 高盈真 / 2015/07](https://taiwaneseamericanhistory.org/518-ying-chen-kao-%e9%ab%98%e7%9b%88%e7%9c%9f-201507/)
+- [TAH #21 encyclopedia: 21. Ying-Chen Kao 高盈真, Composer/2014/10](https://taiwaneseamericanhistory.org/21-ying-chen-kao-%e9%ab%98%e7%9b%88%e7%9c%9f-composer/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ying-chen-kao/)
 
 ## Related Pages

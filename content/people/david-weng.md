@@ -28,6 +28,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #1870 encyclopedia: 1870. David Weng 翁嘉盛](https://taiwaneseamericanhistory.org/who-who-1870-david-weng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/david-weng/)
 
 ## Related Pages

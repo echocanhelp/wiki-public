@@ -26,6 +26,7 @@ Dr. Hung-ping Tsao (曹恆平博士) is listed in the TAH Foundation Who’s Who
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #197 encyclopedia: 197. Dr. Hung-ping Tsao 曹恆平博士](https://taiwaneseamericanhistory.org/whos-who-197-hung-ping-tsao/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-hung-ping-tsao/)
 
 ## Related Pages

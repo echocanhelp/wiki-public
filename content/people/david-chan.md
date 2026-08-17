@@ -26,6 +26,7 @@ David Chan (詹曉昀) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #679 encyclopedia: 679. David Chan 詹曉昀 / 2015/10](https://taiwaneseamericanhistory.org/679-david-chan-%e8%a9%b9%e6%9b%89%e6%98%80-201510/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/david-chan/)
 
 ## Related Pages

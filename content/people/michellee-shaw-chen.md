@@ -30,6 +30,7 @@ Michellee Shaw Chen (陳美真理) is listed in the TAH Foundation Who’s Who T
 
 
 ## Sources
+- [TAH #871 encyclopedia: 871. Michellee Shaw Chen 陳美真理/ 2016/03](https://taiwaneseamericanhistory.org/whos871-michellee-shaw-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/michellee-shaw-chen/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ Kaiyin Huang is an trained pianist and one of the contributing artists of 88 Con
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #356 encyclopedia: 356. Kaiyin Huang 黃凱盈, Pianist / 2016/08](https://taiwaneseamericanhistory.org/musician356/)
+- [TAH #1251 encyclopedia: 1251. Kaiyin Huang 黃凱盈 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1251/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kaiyin-huang/)
 
 ## Related Pages

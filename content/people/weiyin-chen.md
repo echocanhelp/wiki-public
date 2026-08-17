@@ -26,6 +26,8 @@ In a time of promising young virtuosos from all over the world the Taiwanese-Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #682 encyclopedia: 682. Weiyin Chen 陳偉茵 / 2015/10](https://taiwaneseamericanhistory.org/682-weiyin-chen-%e9%99%b3%e5%81%89%e8%8c%b5-201510/)
+- [TAH #209 encyclopedia: 209. Weiyin Chen陳偉茵, Pianist/2015/06](https://taiwaneseamericanhistory.org/209-%e9%99%b3%e5%81%89%e8%8c%b5weiyin-chen201506/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/weiyin-chen/)
 
 ## Related Pages

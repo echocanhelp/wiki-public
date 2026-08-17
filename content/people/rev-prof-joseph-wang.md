@@ -26,6 +26,7 @@ Rev. Prof. Joseph Wang 王守仁牧師 教授 – History of Taiwanese American 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1668 encyclopedia: 1668. Rev. & Prof. Joseph Wang 王守仁牧師/教授](https://taiwaneseamericanhistory.org/whos-who-1668-joseph-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rev-prof-joseph-wang/)
 
 ## Related Pages

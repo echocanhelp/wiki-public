@@ -28,6 +28,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #581 encyclopedia: 581. Gene-Jack Wang 王俊傑 / 2015/09](https://taiwaneseamericanhistory.org/581-gene-jack-wang-%e7%8e%8b%e4%bf%8a%e5%82%91-201509/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/gene-jack-wang/)
 
 ## Related Pages

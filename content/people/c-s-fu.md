@@ -28,6 +28,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #1151 encyclopedia: 1151. C.S. Fu 傅舟山 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1151/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-s-fu/)
 
 ## Related Pages

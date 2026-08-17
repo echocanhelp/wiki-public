@@ -28,6 +28,9 @@ Shu-Yuan (Susan) Tsay 蔡淑媛 (翠屏) – History of Taiwanese American (T.A.
 
 
 ## Sources
+- [TAH #24 encyclopedia: 24.  Susan Tsay 蔡淑媛](https://taiwaneseamericanhistory.org/24-susan-tsay/)
+- [TAH #125 encyclopedia: 125. 往事知多少 – 蔡淑媛/翠屏 – 1996.02 – 文學](https://taiwaneseamericanhistory.org/publications125/)
+- [TAH #31 encyclopedia: 31. Shu-Yuan (Susan) Tsay 蔡淑媛（翠屏）](https://taiwaneseamericanhistory.org/whos-who-31/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shu-yuan-susan-tsay/)
 
 ## Related Pages

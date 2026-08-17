@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-07-16
+last_reviewed: 2026-08-17
 ---
 # Shu Lai (賴淑遠)
 
@@ -27,6 +27,8 @@ last_reviewed: 2026-07-16
 - **Content priority C:** Full biography not in this source set
 
 ## Sources
+- [TAH #159 encyclopedia: 159. Shu-Yuan Lai 賴淑遠](https://taiwaneseamericanhistory.org/159-shu-yuan-lai/)
+- [TAH #389 encyclopedia: 389. Shu-Yuan Lai 賴淑遠](https://taiwaneseamericanhistory.org/whos-who-389-shu-yuan-lai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shu-yuan-lai/)
 
 ## Family

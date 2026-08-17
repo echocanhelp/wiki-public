@@ -15,7 +15,7 @@ tags:
   - radio
   - tahs-archive
 verification_status: verified
-last_reviewed: 2026-08-16
+last_reviewed: 2026-08-17
 ---
 
 # Hsu Ching-chun (許景淳)
@@ -193,6 +193,7 @@ Do not write her as a Taiwanese American biography. The U.S. nodes are **(1) TAH
 - [[organizations/taiwanese-american-historical-society|TAHS]] — TAH #196 / #258
 
 ## Sources
+- [TAH #196 encyclopedia: 196. Christine Hsu許景淳, Singer/2015/05](https://taiwaneseamericanhistory.org/196-christine-hsu%e8%a8%b1%e6%99%af%e6%b7%b3-singer201505/)
 
 1. 維基百科：[許景淳](https://zh.wikipedia.org/wiki/%E8%A8%B1%E6%99%AF%E6%B7%B3)
 2. TAH #196：[Christine Hsu 許景淳, Singer / 2015/05](https://taiwaneseamericanhistory.org/196-christine-hsu%E8%A8%B1%E6%99%AF%E6%B7%B3-singer201505/)

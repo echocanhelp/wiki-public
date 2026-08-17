@@ -30,6 +30,7 @@ Tzutsai Cheng (鄭自才) is listed in the TAH Foundation Who’s Who Taiwanese 
 
 
 ## Sources
+- [TAH #469 encyclopedia: 469. Tzutsai Cheng 鄭自才 / 2015/06](https://taiwaneseamericanhistory.org/whos-tzutsai-cheng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tzutsai-cheng/)
 
 ## Related Pages

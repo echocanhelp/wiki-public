@@ -26,6 +26,9 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #419 encyclopedia: 419. 黃美雲,Musician / 07/2017](https://taiwaneseamericanhistory.org/musician419/)
+- [TAH #1773 encyclopedia: 1773. M. Y. Huang 黃美雲 / 07/2017](https://taiwaneseamericanhistory.org/whoswho1773/)
+- [TAH #1463 encyclopedia: 1463.  M. Y. Huang 黃美雲 / 2017/01](https://taiwaneseamericanhistory.org/whoswho1463/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/m-y-huang/)
 
 ## Related Pages

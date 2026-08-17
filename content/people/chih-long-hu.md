@@ -26,6 +26,8 @@ A native a Taiwan, Chih-Long Hu’s performance career began to take off after r
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #444 encyclopedia: 444. Chih-Long Hu 胡志龍 / 2015/06](https://taiwaneseamericanhistory.org/444/)
+- [TAH #210 encyclopedia: 210. Chih-Long Hu 胡志龍, Pianist  / 2015/06](https://taiwaneseamericanhistory.org/210-hsin-yun-huang%e9%bb%84%e5%bf%83%e8%8a%b8-viola-201506/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chih-long-hu/)
 
 ## Related Pages

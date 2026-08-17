@@ -27,6 +27,8 @@ Frank T. Shu (許子津) is listed in the TAH Foundation Who’s Who Taiwanese A
 
 
 ## Sources
+- [TAH #335 encyclopedia: 335. Frank Hsu (許子津) / The First President of Formosan Club Association, Chicago](https://taiwaneseamericanhistory.org/ff335/)
+- [TAH #782 encyclopedia: 782. Frank T. Shu 許子津/ 2016/01](https://taiwaneseamericanhistory.org/whos-frank-t-shu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/frank-t-shu/)
 
 ## Related Pages

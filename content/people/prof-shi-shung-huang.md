@@ -26,6 +26,8 @@ Prof. Shi-Shung Huang 黃錫勳教授 – History of Taiwanese American (T.A. A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2194 encyclopedia: 2194. Prof. Shi-Shung Huang 黃錫勳教授](https://taiwaneseamericanhistory.org/whos-who-2194-shi-shung-huang/)
+- [TAH #137 encyclopedia: 137. Prof. Shi Shung Huang 黃錫勳教授](https://taiwaneseamericanhistory.org/137-prof-shi-shung-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-shi-shung-huang/)
 
 ## Related Pages

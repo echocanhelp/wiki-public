@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #187 encyclopedia: 187. Prof. Nai-chang Yeh 葉乃裳教授](https://taiwaneseamericanhistory.org/187-prof-nai-chang-yeh/)
+- [TAH #1004 encyclopedia: 1004. Prof. Nai-chang Yeh 葉乃裳教授](https://taiwaneseamericanhistory.org/whos-who-1004-nai-chang-yeh/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-nai-chang-yeh/)
 
 ## Related Pages

@@ -29,6 +29,7 @@ Chih-cheng Wang (王志成) is listed in the TAH Foundation Who’s Who Taiwanes
 
 
 ## Sources
+- [TAH #1975 encyclopedia: 1975. Chih-cheng Wang 王志成 /12/2017](https://taiwaneseamericanhistory.org/whos-chih-cheng-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chih-cheng-wang/)
 
 ## Related Pages

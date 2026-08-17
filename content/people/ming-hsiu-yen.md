@@ -26,6 +26,9 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1087 encyclopedia: 1087. Ming-Hsiu Yen 顏名秀 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1087/)
+- [TAH #571 encyclopedia: 571. Ming-Hsiu Yen 顏名秀 / 2015/09](https://taiwaneseamericanhistory.org/571-ming-hsiu-yen-%e9%a1%8f%e5%90%8d%e7%a7%80-201509/)
+- [TAH #287 encyclopedia: 287. Ming-Hsiu Yen 顏名秀, Composer & Pianist / 2015/09](https://taiwaneseamericanhistory.org/musician287/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ming-hsiu-yen/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ Fu-Zen Chang (張輔仁) is listed in the TAH Foundation Who’s Who Taiwanese A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1339 encyclopedia: 1339. Fu-Zen Chang 張輔仁 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1339/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/fu-zen-chang/)
 
 ## Related Pages

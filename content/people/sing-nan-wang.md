@@ -30,6 +30,7 @@ Sing-Nan Wang (王幸男) is listed in the TAH Foundation Who’s Who Taiwanese 
 
 
 ## Sources
+- [TAH #851 encyclopedia: 851. Sing-Nan Wang 王幸男 / 2016/02](https://taiwaneseamericanhistory.org/851-sing-nan-wang-%e7%8e%8b%e5%b9%b8%e7%94%b7-201602/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sing-nan-wang/)
 
 ## Related Pages

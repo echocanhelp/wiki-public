@@ -27,6 +27,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #1476 encyclopedia: 1476. Bach Ying-Chun Wu 吳英俊/ 2017/01](https://taiwaneseamericanhistory.org/whoswho1476/)
+- [TAH #383 encyclopedia: 383. Bach Ying-Chun Wu吳英俊, Conductor/Composer / 2017/01](https://taiwaneseamericanhistory.org/musician383/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/bach-ying-chun-wu/)
 
 ## Related Pages

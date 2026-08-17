@@ -26,6 +26,8 @@ Ms. Mei-Shing Wang was born in Taipei in 1944 and graduated from The Art Departm
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1592 encyclopedia: 1592.  Mei Shing Wang 王美幸 / 2017/03](https://taiwaneseamericanhistory.org/whoswho1592/)
+- [TAH #66 encyclopedia: 66. 王美幸 Mei- Shing Wang](https://taiwaneseamericanhistory.org/mei-shing-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mei-shing-wang/)
 
 ## Related Pages

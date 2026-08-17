@@ -26,6 +26,8 @@ Ni-Chi Chang (張倪綺) was born in Taichung, Taiwan. She graduated from Taipei
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #421 encyclopedia: 421. Ni-Chi Chang 張倪綺, Soprano / 08/2017](https://taiwaneseamericanhistory.org/musician421/)
+- [TAH #1813 encyclopedia: 1813. Ni-Chi Chang 張倪綺](https://taiwaneseamericanhistory.org/whos-who-1813-ni-chi-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ni-chi-chang/)
 
 ## Related Pages

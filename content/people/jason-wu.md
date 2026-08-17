@@ -28,6 +28,10 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #225 encyclopedia: 225. Jason Wu 吳季剛](https://taiwaneseamericanhistory.org/225/)
+- [TAH #30 encyclopedia: 30. Jason Wu 吳季剛 / Famous fashion designer](https://taiwaneseamericanhistory.org/30-jason-wu-%e5%90%b3%e5%ad%a3%e5%89%9b-famous-fashion-designer/)
+- [TAH #225 encyclopedia: 225. 台美人的榮耀 ( Pride of Taiwanese Americans) : 5,  Stories of Mr. Jason Wu ( 吳季剛 ](https://taiwaneseamericanhistory.org/mystories225/)
+- [TAH #172 encyclopedia: 172. Jason Wu 吳季剛](https://taiwaneseamericanhistory.org/whos-who-172-jason-wu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jason-wu/)
 
 ## Related Pages

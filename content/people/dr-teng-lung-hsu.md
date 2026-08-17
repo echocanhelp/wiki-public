@@ -26,6 +26,7 @@ Dr. Teng Lung Hsu (許登龍醫師) is listed in the TAH Foundation Who’s Who 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1843 encyclopedia: 1843. Dr. Teng Lung Hsu 許登龍醫師](https://taiwaneseamericanhistory.org/whos-who-1843-teng-lung-hsu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-teng-lung-hsu/)
 
 ## Related Pages

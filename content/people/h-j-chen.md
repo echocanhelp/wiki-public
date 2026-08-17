@@ -26,6 +26,7 @@ H. J. Chen (陳小娟) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1597 encyclopedia: 1597. H. J. Chen 陳小娟 / 2017/04](https://taiwaneseamericanhistory.org/whoswho1597/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/h-j-chen/)
 
 ## Related Pages

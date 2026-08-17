@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2095 encyclopedia: 2095. Dr. Vincent Chuang 莊伯祥醫師](https://taiwaneseamericanhistory.org/whos-who-2095-vincent-chuang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-vincent-chuang/)
 
 ## Related Pages

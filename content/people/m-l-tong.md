@@ -26,6 +26,7 @@ M. L. Tong (湯銘倫) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1233 encyclopedia: 1233. M. L. Tong 湯銘倫 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1233/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/m-l-tong/)
 
 ## Related Pages

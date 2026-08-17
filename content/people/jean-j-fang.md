@@ -28,6 +28,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #163 encyclopedia: 163. Jean J. Fang 黃靜枝](https://taiwaneseamericanhistory.org/163-jean-j-fang/)
+- [TAH #827 encyclopedia: 827. Jean J. Fang 黃靜枝](https://taiwaneseamericanhistory.org/whos-who-827-jean-j-fang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jean-j-fang/)
 
 ## Related Pages

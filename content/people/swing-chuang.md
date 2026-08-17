@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1776 encyclopedia: 1776. Swing Chuang 莊宗勳](https://taiwaneseamericanhistory.org/whos-who-1776-swing-chuang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/swing-chuang/)
 
 ## Related Pages

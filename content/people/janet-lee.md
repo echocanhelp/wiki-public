@@ -26,6 +26,8 @@ Janet Lee (李慧芝) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #706 encyclopedia: 706. Janet Lee 李慧芝 /2015/11](https://taiwaneseamericanhistory.org/706-janet-lee-%e6%9d%8e%e6%85%a7%e8%8a%9d-201511/)
+- [TAH #38 encyclopedia: 38. Janet Lee 李慧芝 / 2015/11](https://taiwaneseamericanhistory.org/38-jj-wang-%e7%8e%8b%e5%81%a5%e6%a4%8e/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/janet-lee/)
 
 ## Related Pages

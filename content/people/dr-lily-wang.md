@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #286 encyclopedia: 286. Dr. Lily Wang 王俐力醫師](https://taiwaneseamericanhistory.org/ota-286/)
+- [TAH #1203 encyclopedia: 1203. Dr. Lily Wang 王俐力醫師](https://taiwaneseamericanhistory.org/whos-who-1203-lily-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-lily-wang/)
 
 ## Related Pages

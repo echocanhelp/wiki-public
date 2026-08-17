@@ -29,6 +29,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #588 encyclopedia: 588. Jimenez Lai 賴彥吉 /2015/09](https://taiwaneseamericanhistory.org/588-jimenez-lai-%e8%b3%b4%e5%bd%a5%e5%90%89-201509/)
+- [TAH #110 encyclopedia: 110. Jimenez Lai 賴彥吉](https://taiwaneseamericanhistory.org/110-jimenez-lai-%e8%b3%b4%e5%bd%a5%e5%90%89/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jimenez-lai/)
 
 ## Related Pages

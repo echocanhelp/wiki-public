@@ -26,6 +26,8 @@ Pianist Jolie Lin is a performer, lecturer, and pedagogue of Western classical m
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #440 encyclopedia: 440. Jolie Lin林姝秀, Pianist / 2015/06](https://taiwaneseamericanhistory.org/440-%e6%9e%97%e5%a7%9d%e7%a7%80-pianist-201506/)
+- [TAH #211 encyclopedia: 211. Jolie Lin 林姝秀, Pianist / 2015/06](https://taiwaneseamericanhistory.org/211-%e6%9e%97%e5%a7%9d%e7%a7%80-pianist-201506/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jolie-lin/)
 
 ## Related Pages

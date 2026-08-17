@@ -29,6 +29,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #1745 encyclopedia: 1745. Chin-Feng Chen 陳金鋒](https://taiwaneseamericanhistory.org/whos-who-1745-chin-feng-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chin-feng-chen/)
 
 ## Related Pages

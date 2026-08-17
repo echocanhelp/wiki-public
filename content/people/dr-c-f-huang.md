@@ -27,6 +27,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #1885 encyclopedia: 1885. Dr. C. F. Huang 黃崇福醫師](https://taiwaneseamericanhistory.org/whos-who-1885-c-f-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-c-f-huang/)
 
 ## Related Pages

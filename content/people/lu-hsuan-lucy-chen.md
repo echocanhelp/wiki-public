@@ -26,6 +26,8 @@ Lyric Soprano Dr. Lu-Hsuan Lucy Chen 陳綠萱 is a native of Taiwan. She earned
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #514 encyclopedia: 514. Lu-Hsuan Lucy Chen 陳綠萱 / 2015/07](https://taiwaneseamericanhistory.org/514-lu-hsuan-lucy-chen-%e9%99%b3%e7%b6%a0%e8%90%b1-201507/)
+- [TAH #40 encyclopedia: 40. Lu-Hsuan Lucy Chen 陳綠萱, Soprano/2014/10](https://taiwaneseamericanhistory.org/40-lu-hsuan-lucy-chen-%e9%99%b3%e7%b6%a0%e8%90%b1-lyric-soprano/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/lu-hsuan-lucy-chen/)
 
 ## Related Pages

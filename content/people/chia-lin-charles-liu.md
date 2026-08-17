@@ -26,6 +26,7 @@ Chia-Lin (Charles) Liu 劉家麟 – History of Taiwanese American (T.A. Archive
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1223 encyclopedia: 1223. Chia-Lin (Charles) Liu 劉家麟 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1223/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chia-lin-charles-liu/)
 
 ## Related Pages

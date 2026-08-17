@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1048 encyclopedia: 1048. Hung-bin Ding 丁弘彬 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1048/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hung-bin-ding/)
 
 ## Related Pages

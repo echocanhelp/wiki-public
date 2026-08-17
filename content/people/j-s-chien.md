@@ -29,6 +29,8 @@ J. S. Chien (簡忠松) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #1364 encyclopedia: 1364. 宜中耆老憶往述今–簡忠松專輯 | 簡忠松 /02/2022/ Autobiography/自傳](https://taiwaneseamericanhistory.org/publications-1364/)
+- [TAH #268 encyclopedia: 268.  J. S. Chien 簡忠松/2015/02](https://taiwaneseamericanhistory.org/whos-who-268/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/j-s-chien/)
 
 ## Related Pages

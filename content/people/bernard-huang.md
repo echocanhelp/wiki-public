@@ -26,6 +26,7 @@ Bernard Huang (黃伯文) is listed in the TAH Foundation Who’s Who Taiwanese 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #926 encyclopedia: 926. Bernard Huang 黃伯文 / 2016/04](https://taiwaneseamericanhistory.org/whoswho926/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/bernard-huang/)
 
 ## Related Pages

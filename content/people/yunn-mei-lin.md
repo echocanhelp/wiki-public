@@ -28,6 +28,7 @@ Yunn-Mei Lin (林詠梅) is listed in the TAH Foundation Who’s Who Taiwanese A
 
 
 ## Sources
+- [TAH #217 encyclopedia: 217. Yunn-Mei Lin 林詠梅/2015/01](https://taiwaneseamericanhistory.org/217-yunn-mei-lin-%e6%9e%97%e8%a9%a0%e6%a2%85201501/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yunn-mei-lin/)
 
 ## Related Pages

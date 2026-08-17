@@ -27,6 +27,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #1827 encyclopedia: 1827. Dr. Kuei-Hsien Chen 陳貴賢博士](https://taiwaneseamericanhistory.org/whos-who-1827-kuei-hsien-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-kuei-hsien-chen/)
 
 ## Related Pages

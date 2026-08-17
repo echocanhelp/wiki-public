@@ -28,6 +28,7 @@ Source from 美洲台灣日報http://taiwandaily.net/gp2.aspx?_p=kSF1c9zU9HS21FC
 
 
 ## Sources
+- [TAH #2043 encyclopedia: 2043. Juliar Wang 謝綉緞](https://taiwaneseamericanhistory.org/whos-who-2043-juliar-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/juliar-wang/)
 
 ## Related Pages

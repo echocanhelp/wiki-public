@@ -29,6 +29,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #1850 encyclopedia: 1850. Y. S. Lee 李延禧](https://taiwaneseamericanhistory.org/whos-who-1850-y-s-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/y-s-lee/)
 
 ## Related Pages

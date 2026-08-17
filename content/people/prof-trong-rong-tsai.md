@@ -28,6 +28,11 @@ Prof. Trong-Rong Tsai 蔡同榮教授 – History of Taiwanese American (T.A. Ar
 
 
 ## Sources
+- [TAH #173 encyclopedia: 173. Prof. Tron-Rong Tsai 蔡同榮教授](https://taiwaneseamericanhistory.org/173-prof-tron-rong-tsai/)
+- [TAH #18 encyclopedia: 18. Prof. Tron-Rong Tsai 蔡同榮教授](https://taiwaneseamericanhistory.org/18-prof-tron-rong-tsai/)
+- [TAH #7 encyclopedia: 7. Prof. Tron-Rong Tsai 蔡同榮教授 / Famous runner of Taiwanese Americans](https://taiwaneseamericanhistory.org/7-prof-tron-rong-tsai-%e8%94%a1%e5%90%8c%e6%a6%ae%e6%95%99%e6%8e%88-famous-runner-of-taiwanese-americans/)
+- [TAH #6 encyclopedia: 6. Prof. Tron-Rong Tsai 蔡同榮教授 / The First President of Formosan Association for ](https://taiwaneseamericanhistory.org/6-prof-tron-rong-tsai-%e8%94%a1%e5%90%8c%e6%a6%ae%e6%95%99%e6%8e%88-the-first-president-of-formosan-association-for-public-affairsfapa-%e5%8f%b0%e7%81%a3%e4%ba%ba%e5%85%ac%e5%85%b1/)
+- [TAH #30 encyclopedia: 30. Prof. Trong-Rong Tsai 蔡同榮教授](https://taiwaneseamericanhistory.org/whos-who-30-trong-rong-tsai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-trong-rong-tsai/)
 
 ## Related Pages

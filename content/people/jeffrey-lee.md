@@ -26,6 +26,7 @@ Jeffrey Lee (李友禮) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #831 encyclopedia: 831. Jeffrey Lee 李友禮 / 02/2016](https://taiwaneseamericanhistory.org/831-jeffrey-lee-%e6%9d%8e%e5%8f%8b%e7%a6%ae-022016/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jeffrey-lee/)
 
 ## Related Pages

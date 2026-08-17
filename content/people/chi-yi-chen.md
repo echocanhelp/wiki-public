@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1704 encyclopedia: 1704.  Chi Yi Chen 陳志宐 / 06/2017](https://taiwaneseamericanhistory.org/whoswho1704/)
+- [TAH #406 encyclopedia: 406. Chi Yi Chen 陳志宐, conductor / 06/2017](https://taiwaneseamericanhistory.org/musician406/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chi-yi-chen/)
 
 ## Related Pages

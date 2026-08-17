@@ -26,6 +26,7 @@ Peter Lu (盧信義) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1193 encyclopedia: 1193. Peter Lu 盧信義 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1193/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/peter-lu/)
 
 ## Related Pages

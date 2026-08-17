@@ -26,6 +26,7 @@ Shun Hua Yu (余舜華) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1067 encyclopedia: 1067. Shun Hua Yu 余舜華 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1066/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shun-hua-yu/)
 
 ## Related Pages

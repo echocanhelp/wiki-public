@@ -26,6 +26,7 @@ H. M. Chen (陳惠民) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #966 encyclopedia: 966. H. M. Chen 陳惠民 / 2016/05](https://taiwaneseamericanhistory.org/whoswho966/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/h-m-chen/)
 
 ## Related Pages

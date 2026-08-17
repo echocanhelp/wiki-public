@@ -27,6 +27,7 @@ Dr. Chi-Huey Wong (翁啟惠博士) is listed in the TAH Foundation Who’s Who 
 
 
 ## Sources
+- [TAH #243 encyclopedia: 243. Dr. Chi-Huey Wong 翁啟惠博士](https://taiwaneseamericanhistory.org/243-dr-chi-huey-wong-%e7%bf%81%e5%95%9f%e6%83%a0%e5%8d%9a%e5%a3%ab/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chi-huey-wong/)
 
 ## Related Pages

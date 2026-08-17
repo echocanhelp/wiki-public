@@ -26,6 +26,8 @@ Violinist Kuan Cheng Lu joined the New York Philharmonic at the start of the 200
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #233 encyclopedia: 233.  Kuan Cheng Lu 盧冠呈,Violinist 2015/07](https://taiwaneseamericanhistory.org/233-kuan-cheng-lu-%e7%9b%a7%e5%86%a0%e5%91%88violinist-201507/)
+- [TAH #483 encyclopedia: 483. Kuan Cheng Lu 盧冠呈 / 2015/07](https://taiwaneseamericanhistory.org/483-kuan-cheng-lu-%e7%9b%a7%e5%86%a0%e5%91%88-201507/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kuan-cheng-lu/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #579 encyclopedia: 579. Chu-Huang Chen 陳珠璜 / 2015/09](https://taiwaneseamericanhistory.org/579-chu-huang-chen-%e9%99%b3%e7%8f%a0%e7%92%9c-201509/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chu-huang-chen/)
 
 ## Related Pages

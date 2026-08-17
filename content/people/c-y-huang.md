@@ -26,6 +26,7 @@ C.Y. Huang (黃清燕) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2314 encyclopedia: 2314. C.Y. Huang 黃清燕](https://taiwaneseamericanhistory.org/whos-who-2314-c-y-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-y-huang/)
 
 ## Related Pages

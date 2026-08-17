@@ -26,6 +26,7 @@ Rev. Chung Hsin Cho (卓忠信牧師) is listed in the TAH Foundation Who’s Wh
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1620 encyclopedia: 1620. Rev. Chung Hsin Cho 卓忠信牧師](https://taiwaneseamericanhistory.org/whos-who-1620-chung-hsin-cho/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rev-chung-hsin-cho/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ Ms. Lin is from Nantou County, Taiwan. She is a Piano Teacher in St. Louis, MO a
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #275 encyclopedia: 275. Yiwei Lin林怡薇, Pianist / 2015/08](https://taiwaneseamericanhistory.org/275-yiwei-lin%e6%9e%97%e6%80%a1%e8%96%87-pianist-201508/)
+- [TAH #547 encyclopedia: 547. Yiwei Lin 林怡薇 / 2015/08](https://taiwaneseamericanhistory.org/547-yiwei-lin-%e6%9e%97%e6%80%a1%e8%96%87-201508/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yiwei-lin/)
 
 ## Related Pages

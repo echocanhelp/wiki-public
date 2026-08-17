@@ -27,6 +27,7 @@ Prof. Leona Yi-Fan Su 蘇怡帆教授 – History of Taiwanese American (T.A. Ar
 
 
 ## Sources
+- [TAH #1950 encyclopedia: 1950. Prof. Leona Yi-Fan Su 蘇怡帆教授](https://taiwaneseamericanhistory.org/whos-who-1950-yi-fan-su/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-leona-yi-fan-su/)
 
 ## Related Pages

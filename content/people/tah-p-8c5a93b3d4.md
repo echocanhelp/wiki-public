@@ -31,6 +31,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #1372 encyclopedia: 1372. 王永宗家族敘事：王康厚、王康德口述訪談紀錄 | 08/2023/Life](https://taiwaneseamericanhistory.org/publications-1372/)
+- [TAH #375 encyclopedia: 375. 王康厚 / 2015/04](https://taiwaneseamericanhistory.org/375-%e7%8e%8b%e5%ba%b7%e5%8e%9a/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e7%8e%8b%e5%ba%b7%e5%8e%9a/)
 
 ## Related Pages

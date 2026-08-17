@@ -26,6 +26,7 @@ Loring Wuliang Tu (杜武亮) is listed in the TAH Foundation Who’s Who Taiwan
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #580 encyclopedia: 580. Loring Wuliang Tu 杜武亮 / 2015/09](https://taiwaneseamericanhistory.org/whos-loring-wuliang-tu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/loring-wuliang-tu/)
 
 ## Related Pages

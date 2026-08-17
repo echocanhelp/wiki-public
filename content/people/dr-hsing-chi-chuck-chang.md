@@ -28,6 +28,8 @@ Dr. Hsing-Chi (Chuck) Chang 張幸吉博士 – History of Taiwanese American (T
 
 
 ## Sources
+- [TAH #2198 encyclopedia: 2198. Dr. Hsing-Chi (Chuck) Chang 張幸吉博士](https://taiwaneseamericanhistory.org/whos-who-2198-hsing-chi-chang/)
+- [TAH #158 encyclopedia: 158. Dr. Hsing-Chi (Chuck) Chang 張幸吉博士](https://taiwaneseamericanhistory.org/158-dr-hsing-chi-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-hsing-chi-chuck-chang/)
 
 ## Related Pages

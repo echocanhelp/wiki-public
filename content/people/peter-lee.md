@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #445 encyclopedia: 445. Peter Lee 李文智 / 2015/06](https://taiwaneseamericanhistory.org/445-peter-lee-%e6%9d%8e%e6%96%87%e6%99%ba-201506/)
+- [TAH #213 encyclopedia: 213. Peter Lee李文智, Countertenor / 2015/06](https://taiwaneseamericanhistory.org/213-2/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/peter-lee/)
 
 ## Related Pages

@@ -27,6 +27,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #633 encyclopedia: 633. 賴江椿 / 2015/09](https://taiwaneseamericanhistory.org/633-%e8%b3%b4%e6%b1%9f%e6%a4%bf-201509/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e8%b3%b4%e6%b1%9f%e6%a4%bf/)
 
 ## Related Pages

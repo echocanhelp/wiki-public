@@ -26,6 +26,8 @@ Source from Shih-Pao Lin. Posted in 09/2014. For more bio-information, please cl
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1102 encyclopedia: 1102. Shih Pao Lin 林世寶 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1102/)
+- [TAH #8 encyclopedia: 8. 林世寶 Shih-Pao Lin](https://taiwaneseamericanhistory.org/artist8/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shih-pao-lin/)
 
 ## Related Pages

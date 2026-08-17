@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1582 encyclopedia: 1582. Chia-Ling Chien 簡嘉琳 / 2017/03](https://taiwaneseamericanhistory.org/whoswho1582/)
+- [TAH #391 encyclopedia: 391. Jia-Lin Jian 簡嘉琳, Cellist / 2017/03](https://taiwaneseamericanhistory.org/musician391/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chia-ling-chien/)
 
 ## Related Pages

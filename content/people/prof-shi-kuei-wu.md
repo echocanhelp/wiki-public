@@ -28,6 +28,9 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #13 encyclopedia: 13. Prof. Shi-Kuei Wu (吳錫圭教授)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-13/)
+- [TAH #10 encyclopedia: 10. Prof. Shi-Kuei Wu 吳錫圭教授](https://taiwaneseamericanhistory.org/10-prof-shi-kuei-wu/)
+- [TAH #1561 encyclopedia: 1561. Prof. Shi-Kuei Wu 吳錫圭教授](https://taiwaneseamericanhistory.org/whos-who-1561-shi-kuei-wu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-shi-kuei-wu/)
 
 ## Related Pages

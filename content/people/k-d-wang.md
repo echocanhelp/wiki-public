@@ -27,6 +27,7 @@ K. D. Wang (王康德) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #1726 encyclopedia: 1726. K. D. Wang 王康德](https://taiwaneseamericanhistory.org/whos-who-1726-k-d-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/k-d-wang/)
 
 ## Related Pages

@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1790 encyclopedia: 1790. Prof. Jow-Lay Huang 黃肇端教授](https://taiwaneseamericanhistory.org/whos-who-1790-jow-lay-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-jow-lay-huang/)
 
 ## Related Pages

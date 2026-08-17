@@ -26,6 +26,7 @@ J. C. Lai (賴景宗) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2035 encyclopedia: 2035.  J. C. Lai 	 賴景宗 / 02/2018](https://taiwaneseamericanhistory.org/whoswho2035/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/j-c-lai/)
 
 ## Related Pages

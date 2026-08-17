@@ -26,6 +26,7 @@ Charles Lu (盧常吉) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #48 encyclopedia: 48. Charles Lu 盧常吉](https://taiwaneseamericanhistory.org/48-charles-lu-%e7%9b%a7%e5%b8%b8%e5%90%89/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/charles-lu/)
 
 ## Related Pages

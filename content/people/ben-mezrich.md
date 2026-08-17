@@ -28,6 +28,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #2181 encyclopedia: 2181. Ben Mezrich 賓梅立克](https://taiwaneseamericanhistory.org/whos-who-2181-ben-mezrich/)
+- [TAH #273 encyclopedia: 273. Ben Mezrich 賓梅立克](https://taiwaneseamericanhistory.org/ota-273/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ben-mezrich/)
 
 ## Related Pages

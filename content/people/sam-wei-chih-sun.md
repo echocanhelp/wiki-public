@@ -28,6 +28,9 @@ Sam Wei-Chih Sun is a pianist, an accompanist and a music educator from Taiwan. 
 
 
 ## Sources
+- [TAH #181 encyclopedia: 181. 孫偉志 音樂教師的故事/陳美伶/2015/01](https://taiwaneseamericanhistory.org/183-%e5%ad%ab%e5%81%89%e5%bf%97-%e9%9f%b3%e6%a8%82%e6%95%99%e5%b8%ab%e7%9a%84%e6%95%85%e4%ba%8b%e9%99%b3%e7%be%8e%e4%bc%b6201501/)
+- [TAH #111 encyclopedia: 111. Sam Wei-Chih Sun孫偉志,Conductor / 2015/01](https://taiwaneseamericanhistory.org/111-sam-wei-chih-sun%e5%ad%ab%e5%81%89%e5%bf%97conductor-201501/)
+- [TAH #153 encyclopedia: 153. Sam Wei-Chih Sun 孫偉志](https://taiwaneseamericanhistory.org/157-sam-wei-chih-sun-%e5%ad%ab%e5%81%89%e5%bf%97/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sam-wei-chih-sun/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ Source from北美台大醫學院校友會http://ntumcaa-na.org/Web_pages/program
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2009 encyclopedia: 2009. Dr. Jen-Tse Cheng 鄭仁澤醫師](https://taiwaneseamericanhistory.org/whos-who-2009-jen-tse-cheng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-jen-tse-cheng/)
 
 ## Related Pages

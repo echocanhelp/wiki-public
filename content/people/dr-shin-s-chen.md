@@ -26,6 +26,7 @@ Dr. Shin S. Chen (陳幸世醫師) is listed in the TAH Foundation Who’s Who T
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1969 encyclopedia: 1969. Dr. Shin S. Chen 陳幸世醫師](https://taiwaneseamericanhistory.org/whos-who-1969-shin-s-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-shin-s-chen/)
 
 ## Related Pages

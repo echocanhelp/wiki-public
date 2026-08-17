@@ -26,6 +26,8 @@ Born in Taiwan, Chin-Yi Lee 李琹怡 began studying the piano at the age of fiv
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1092 encyclopedia: 1092. Chin-Yi Lee 李琹怡 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1092/)
+- [TAH #25 encyclopedia: 25. Chin-Yi Lee 李琹怡, Pianist/2014/10](https://taiwaneseamericanhistory.org/musician25/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chin-yi-lee/)
 
 ## Related Pages

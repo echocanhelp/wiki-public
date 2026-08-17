@@ -26,6 +26,8 @@ Jasmin Lin (林允白) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #479 encyclopedia: 479. Jasmin Lin 林允白 / 2015/07](https://taiwaneseamericanhistory.org/479-jasmin-lin-%e6%9e%97%e5%85%81%e7%99%bd-201507/)
+- [TAH #230 encyclopedia: 230. Jasmine Lin 林允白, Violinist / 2017/05](https://taiwaneseamericanhistory.org/230-jasmine-lin-%e6%9e%97%e5%85%81%e7%99%bd-violinist-201705/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jasmin-lin/)
 
 ## Related Pages

@@ -28,6 +28,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #215 encyclopedia: 215. Dr. Andre Chen 陳安哲醫師](https://taiwaneseamericanhistory.org/215-2/)
+- [TAH #869 encyclopedia: 869. Dr. Andre Chen 陳安哲醫師](https://taiwaneseamericanhistory.org/whos-who-869-andre-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-andre-chen/)
 
 ## Related Pages

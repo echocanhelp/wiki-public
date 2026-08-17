@@ -29,6 +29,7 @@ Vice President of The National Taiwan University Alumni Association in the Washi
 
 
 ## Sources
+- [TAH #1808 encyclopedia: 1808. J. W. Huang Lee 李黃貞文](https://taiwaneseamericanhistory.org/whos-who-1808-j-w-huang-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/j-w-huang-lee/)
 
 ## Related Pages

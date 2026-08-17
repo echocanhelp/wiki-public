@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #371 encyclopedia: 371. W. Huang黃鴻偉, Violinist / 2016/11](https://taiwaneseamericanhistory.org/musician371/)
+- [TAH #1389 encyclopedia: 1389. H. W. Huang 黃鴻偉 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1389/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/h-w-huang/)
 
 ## Related Pages

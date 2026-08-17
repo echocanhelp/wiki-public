@@ -26,6 +26,8 @@ Using a decidedly contemporary language of diverse harmonic color, inventive tim
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #652 encyclopedia: 652. Yu-Hui Chang 張玉慧 / 2015/10](https://taiwaneseamericanhistory.org/652-yu-hui-chang-%e5%bc%b5%e7%8e%89%e6%85%a7-201510/)
+- [TAH #301 encyclopedia: 301. Yu-Hui Chang 張玉慧, Composer / 2015/10](https://taiwaneseamericanhistory.org/301-yu-hui-chang-%e5%bc%b5%e7%8e%89%e6%85%a7-composer-201510/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yu-hui-chang/)
 
 ## Related Pages

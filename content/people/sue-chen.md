@@ -26,6 +26,7 @@ Sue Chen (陳禹辛) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #427 encyclopedia: 427. Sue Chen 陳禹辛 / 2015/05](https://taiwaneseamericanhistory.org/426-sue-chen-%e9%99%b3%e7%a6%b9%e8%be%9b-201505/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sue-chen/)
 
 ## Related Pages

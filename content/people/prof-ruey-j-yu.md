@@ -30,6 +30,7 @@ Publication(Non-professional)
 
 
 ## Sources
+- [TAH #2126 encyclopedia: 2126. Prof. Ruey J. Yu 余瑞錦教授](https://taiwaneseamericanhistory.org/whos-who-2126-ruey-j-yu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-ruey-j-yu/)
 
 ## Related Pages

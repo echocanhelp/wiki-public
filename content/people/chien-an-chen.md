@@ -26,6 +26,8 @@ A native of Taiwan, Chien-an Chen began cello lessons at the age of seven. His t
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #86 encyclopedia: 86. Chien-An Chen 陳建安, Cellist/2014/12](https://taiwaneseamericanhistory.org/musician86/)
+- [TAH #134 encyclopedia: 134. Chien-An Chen 陳建安  / 2014/12](https://taiwaneseamericanhistory.org/whoswho134/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chien-an-chen/)
 
 ## Related Pages

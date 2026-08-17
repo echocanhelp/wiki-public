@@ -26,6 +26,7 @@ Rockwell Hsu (徐名璋) is listed in the TAH Foundation Who’s Who Taiwanese A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1334 encyclopedia: 1334. Rockwell Hsu 徐名璋 2016/10](https://taiwaneseamericanhistory.org/whoswho1334/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rockwell-hsu/)
 
 ## Related Pages

@@ -29,6 +29,8 @@ Yili Hsu, a native of Taiwan, is a free-lance flutist around the Dallas metro ar
 
 
 ## Sources
+- [TAH #1228 encyclopedia: 1228. Yili Hsu 許義莉 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1228/)
+- [TAH #148 encyclopedia: 148. Yili Hsu 許義莉, Flutist/2015/02](https://taiwaneseamericanhistory.org/musician148/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yili-hsu/)
 
 ## Related Pages

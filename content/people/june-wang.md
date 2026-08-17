@@ -28,6 +28,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #297 encyclopedia: 297. June W. Wang 王純純](https://taiwaneseamericanhistory.org/ota-297/)
+- [TAH #832 encyclopedia: 832. June Wang 王純純](https://taiwaneseamericanhistory.org/whos-who-832-june-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/june-wang/)
 
 ## Related Pages

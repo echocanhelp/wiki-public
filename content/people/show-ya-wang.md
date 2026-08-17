@@ -26,6 +26,7 @@ Show-Ya Wang (邱綉雅) is listed in the TAH Foundation Who’s Who Taiwanese A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1659 encyclopedia: 1659. Show-Ya Wang 邱綉雅](https://taiwaneseamericanhistory.org/whos-who-1659-show-ya-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/show-ya-wang/)
 
 ## Related Pages

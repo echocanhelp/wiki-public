@@ -30,6 +30,7 @@ President of Taiwanese Association of West Germany and Taiwanese Association of 
 
 
 ## Sources
+- [TAH #536 encyclopedia: 536. Chao-Yuh Yang 楊朝諭 /2015/08](https://taiwaneseamericanhistory.org/whos-chao-yuh-yang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chao-yuh-yang/)
 
 ## Related Pages

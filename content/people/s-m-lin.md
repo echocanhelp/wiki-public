@@ -27,6 +27,7 @@ S. M. Lin (林素敏) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 
 
 ## Sources
+- [TAH #1541 encyclopedia: 1541. S. M. Lin 林素敏 / 2017/03](https://taiwaneseamericanhistory.org/whoswho1541/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/s-m-lin/)
 
 ## Related Pages

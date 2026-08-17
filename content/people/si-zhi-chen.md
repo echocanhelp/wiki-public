@@ -27,6 +27,9 @@ Si-Zhi CHEN was born in Shilin, Taipei in 1911. He attended Tamsui Senior High S
 
 
 ## Sources
+- [TAH #357 encyclopedia: 357. Si Zhi Chen 陳泗治, Composer & Educator / 2016/08](https://taiwaneseamericanhistory.org/musician357/)
+- [TAH #1252 encyclopedia: 1252. Si Zhi Chen 陳泗治 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1252/)
+- [TAH #371 encyclopedia: 371.台灣音樂哲人-陳泗治/卓甫見/2001/09/Biography/傳記](https://taiwaneseamericanhistory.org/publications371/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/si-zhi-chen/)
 
 ## Related Pages

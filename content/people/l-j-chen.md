@@ -28,6 +28,7 @@ L. J. Chen (陳柳江) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #1062 encyclopedia: 1062. L. J. Chen 陳柳江 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1062/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/l-j-chen/)
 
 ## Related Pages

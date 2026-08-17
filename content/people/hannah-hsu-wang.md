@@ -26,6 +26,9 @@ Noted for her elegant touch on the keys of the piano, Hannah has been enchanting
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #161 encyclopedia: 161. Hannah Hsu Wang 許鴻玉](https://taiwaneseamericanhistory.org/161-hannah-hsu-wang/)
+- [TAH #555 encyclopedia: 555. Hannah Hsu Wang 許鴻玉](https://taiwaneseamericanhistory.org/whos-who-555-hannah-hsu-wang/)
+- [TAH #62 encyclopedia: 62. Hannah Hsu Wang 許鴻玉, Pianist/2014/10](https://taiwaneseamericanhistory.org/hannah-hsu-wang-piano/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hannah-hsu-wang/)
 
 ## Related Pages

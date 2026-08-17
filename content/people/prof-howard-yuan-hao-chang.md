@@ -26,6 +26,7 @@ Prof. Howard Yuan-Hao Chang 張元豪教授 – History of Taiwanese American (T
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1785 encyclopedia: 1785. Prof. Howard Yuan-Hao Chang 張元豪教授](https://taiwaneseamericanhistory.org/whos-who-1785-howard-yuan-hao-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-howard-yuan-hao-chang/)
 
 ## Related Pages

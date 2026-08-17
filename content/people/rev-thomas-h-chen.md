@@ -26,6 +26,7 @@ Rev. Thomas H. Chen (陳宏文牧師) is listed in the TAH Foundation Who’s Wh
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2133 encyclopedia: 2133. Rev. Thomas H. Chen 陳宏文牧師](https://taiwaneseamericanhistory.org/whos-who-2133-thomas-h-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rev-thomas-h-chen/)
 
 ## Related Pages

@@ -29,6 +29,7 @@ Mechanical Engineer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #741 encyclopedia: 741. Tze-jer Chuang 莊子哲 2015/12](https://taiwaneseamericanhistory.org/741-tze-jer-chuang-%e8%8e%8a%e5%ad%90%e5%93%b2-201512/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tze-jer-chuang/)
 
 ## Related Pages

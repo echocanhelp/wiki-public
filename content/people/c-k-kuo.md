@@ -26,6 +26,7 @@ C. K. Kuo (郭重國) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1480 encyclopedia: 1480.  C. K. Kuo 郭重國](https://taiwaneseamericanhistory.org/whos-who-1480-c-k-kuo/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-k-kuo/)
 
 ## Related Pages

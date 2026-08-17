@@ -27,6 +27,8 @@ Meiyin Wang (王美尹) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #2118 encyclopedia: 2118. Meiyin Wang 王美尹](https://taiwaneseamericanhistory.org/whos-who-2118-meiyin-wang/)
+- [TAH #582 encyclopedia: 582. 一位台灣第二代的藝術總監之路 王美尹 / 耿一偉 /09/2017](https://taiwaneseamericanhistory.org/mystories582/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/meiyin-wang/)
 
 ## Related Pages

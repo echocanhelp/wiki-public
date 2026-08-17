@@ -27,6 +27,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #339 encyclopedia: 339. Nobu Lu 呂信也 / 2015/03](https://taiwaneseamericanhistory.org/whos339-nobu-lu/)
+- [TAH #168 encyclopedia: 168. Nobu Lu 呂信也, Violinist & Conductor / 2015/03](https://taiwaneseamericanhistory.org/nobu-lu-%e5%91%82%e4%bf%a1%e4%b9%9f-conductor-201503/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/nobu-lu/)
 
 ## Related Pages

@@ -27,6 +27,7 @@ Clara Chen (劉真真) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #1165 encyclopedia: 1165. Clara Chen 劉真真](https://taiwaneseamericanhistory.org/whos-who-1165-clara-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/clara-chen/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ Tom Wang’s (王自立) is listed in the TAH Foundation Who’s Who Taiwanese A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1362 encyclopedia: 1362. Tom Wang’s 王自立 / 2016/11](https://taiwaneseamericanhistory.org/whowho1362/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tom-wangs/)
 
 ## Related Pages

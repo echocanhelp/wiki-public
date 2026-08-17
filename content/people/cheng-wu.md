@@ -27,6 +27,7 @@ Cheng Wu (吳錦城) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 
 
 ## Sources
+- [TAH #1423 encyclopedia: 1423.  Cheng Wu 吳錦城 / 2016/12](https://taiwaneseamericanhistory.org/whoswho1423/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/cheng-wu/)
 
 ## Related Pages

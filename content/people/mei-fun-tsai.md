@@ -28,6 +28,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #177 encyclopedia: 177. Mei Fun Tsai 吳美芬](https://taiwaneseamericanhistory.org/177-mei-fun-tsai/)
+- [TAH #894 encyclopedia: 894. Mei Fun Tsai 吳美芬](https://taiwaneseamericanhistory.org/whos-who-894-mei-fun-tsai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mei-fun-tsai/)
 
 ## Related Pages

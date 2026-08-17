@@ -27,6 +27,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #101 encyclopedia: 101. Dr. Tom Lee 李木通博士](https://taiwaneseamericanhistory.org/101-dr-tom-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tom-lee/)
 
 ## Related Pages

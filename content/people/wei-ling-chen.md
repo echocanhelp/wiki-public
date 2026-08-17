@@ -26,6 +26,8 @@ Wei-Ling Chen (b.1981), a Taiwanese composer, has composed for a variety of medi
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #517 encyclopedia: 517. Wei-Ling Chen 陳為伶 / 2015/07](https://taiwaneseamericanhistory.org/517-wei-ling-chen-%e9%99%b3%e7%82%ba%e4%bc%b6-201507/)
+- [TAH #22 encyclopedia: 22. Wei-Ling Chen 陳為伶, Composer/2014/10](https://taiwaneseamericanhistory.org/22-wei-ling-chen-%e9%99%b3%e7%82%ba%e4%bc%b6-composer/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/wei-ling-chen/)
 
 ## Related Pages

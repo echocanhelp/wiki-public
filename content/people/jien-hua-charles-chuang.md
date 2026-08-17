@@ -29,6 +29,7 @@ Jien-Hua (Charles) Chuang 莊峻華 – History of Taiwanese American (T.A. Arch
 
 
 ## Sources
+- [TAH #2257 encyclopedia: 2257. Jien-Hua (Charles) Chuang 莊峻華/04/2020](https://taiwaneseamericanhistory.org/whos-who-2257-jien-hua-chuang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jien-hua-charles-chuang/)
 
 ## Related Pages

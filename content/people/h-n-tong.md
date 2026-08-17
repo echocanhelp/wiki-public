@@ -26,6 +26,7 @@ H. N. Tong (童海南) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1631 encyclopedia: 1631. H. N. Tong 童海南 / 2017/05](https://taiwaneseamericanhistory.org/whoswho1631/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/h-n-tong/)
 
 ## Related Pages

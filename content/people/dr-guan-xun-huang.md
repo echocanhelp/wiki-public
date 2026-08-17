@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2285 encyclopedia: 2285. Dr. Guan-Xun Huang 黃冠勳博士](https://taiwaneseamericanhistory.org/whos-who-2285-guan-xun-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-guan-xun-huang/)
 
 ## Related Pages

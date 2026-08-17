@@ -27,6 +27,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #1097 encyclopedia: 1097. 劉文章](https://taiwaneseamericanhistory.org/whos1097/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e5%8a%89%e6%96%87%e7%ab%a0/)
 
 ## Related Pages

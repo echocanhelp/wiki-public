@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2098 encyclopedia: 2098. Dr. Kuen-Shii Tsay 蔡坤喜醫師](https://taiwaneseamericanhistory.org/whos-who-2098-kuen-shii-tsay/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-kuen-shii-tsay/)
 
 ## Related Pages

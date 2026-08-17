@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1074 encyclopedia: 1074. Y. S. Huang 黃炎松/ 2016/06](https://taiwaneseamericanhistory.org/whoswho1073/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/y-s-huang/)
 
 ## Related Pages

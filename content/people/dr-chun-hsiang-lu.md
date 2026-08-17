@@ -28,6 +28,7 @@ Dr. Chun Hsiang Lu (盧俊雄醫師) is listed in the TAH Foundation Who’s Who
 
 
 ## Sources
+- [TAH #2225 encyclopedia: 2225. Dr. Chun Hsiang Lu 盧俊雄醫師](https://taiwaneseamericanhistory.org/whos-who-2225-chun-hsiang-lu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-chun-hsiang-lu/)
 
 ## Related Pages

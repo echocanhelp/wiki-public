@@ -28,6 +28,7 @@ Allen Chang (張伯寬) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #2053 encyclopedia: 2053. Allen Chang 張伯寬 / 03/2018](https://taiwaneseamericanhistory.org/whos-allen-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/allen-chang/)
 
 ## Related Pages

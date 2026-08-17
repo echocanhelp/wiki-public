@@ -29,6 +29,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #2284 encyclopedia: 2284. Dr. Raymond J. Jan 詹正治博士](https://taiwaneseamericanhistory.org/whos-who-2284-raymond-j-jan/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-raymond-j-jan/)
 
 ## Related Pages

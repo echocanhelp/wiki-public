@@ -29,6 +29,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #2059 encyclopedia: 2059. Dr. Kei-Hsiung Yang 楊界雄博士](https://taiwaneseamericanhistory.org/whos-who-2059-kei-hsiung-yang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-kei-hsiung-yang/)
 
 ## Related Pages

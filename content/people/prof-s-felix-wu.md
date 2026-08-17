@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2030 encyclopedia: 2030. Prof. S. Felix Wu 吳士駿教授](https://taiwaneseamericanhistory.org/whos-who-2030-s-felix-wu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-s-felix-wu/)
 
 ## Related Pages

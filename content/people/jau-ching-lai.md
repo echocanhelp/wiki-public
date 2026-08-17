@@ -26,6 +26,8 @@ Jau-Ching Lai is a graduate of Soo-Chow University in Taiwan, majoring in Vocal,
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #254 encyclopedia: 254. Jau-Ching Lai 賴昭晴 / 2015/02](https://taiwaneseamericanhistory.org/254-jau-ching-lai-%e8%b3%b4%e6%98%ad%e6%99%b4-201502/)
+- [TAH #135 encyclopedia: 135. Jau-Ching Lai 賴昭晴,Pianist / 2015/02](https://taiwaneseamericanhistory.org/135/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jau-ching-lai/)
 
 ## Related Pages

@@ -28,6 +28,7 @@ Peggy Liao (廖碧玉) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #79 encyclopedia: 79. Peggy Liao 廖碧玉](https://taiwaneseamericanhistory.org/79-peggy-liao-%e5%bb%96%e7%a2%a7%e7%8e%89/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/peggy-liao/)
 
 ## Related Pages

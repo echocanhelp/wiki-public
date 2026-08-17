@@ -26,6 +26,7 @@ H. R. Hsu (許惠茹) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1931 encyclopedia: 1931. H. R. Hsu 許惠茹](https://taiwaneseamericanhistory.org/whos-who-1931-h-r-hsu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/h-r-hsu/)
 
 ## Related Pages

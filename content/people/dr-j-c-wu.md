@@ -28,6 +28,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #1879 encyclopedia: 1879. Dr. J. C. Wu 巫建嶔博士](https://taiwaneseamericanhistory.org/whos-who-1879-j-c-wu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-j-c-wu/)
 
 ## Related Pages

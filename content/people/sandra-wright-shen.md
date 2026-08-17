@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #688 encyclopedia: 688. 仙杜拉‧賴特‧沈 Sandra Wright Shen / 2015/11](https://taiwaneseamericanhistory.org/688-%e4%bb%99%e6%9d%9c%e6%8b%89%e2%80%a7%e8%b3%b4%e7%89%b9%e2%80%a7%e6%b2%88-sandra-wright-shen-201511/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sandra-wright-shen/)
 
 ## Related Pages

@@ -31,6 +31,7 @@ Assistant to Full Professor of Radiation Oncology
 
 
 ## Sources
+- [TAH #1421 encyclopedia: 1421. Prof.Hsiu-San Lin  林秀三教授/12/2016](https://taiwaneseamericanhistory.org/whoswho1421/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-hsiu-san-lin/)
 
 ## Related Pages

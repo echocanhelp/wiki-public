@@ -29,6 +29,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #1737 encyclopedia: 1737. Ching Fen Lin 林青棻](https://taiwaneseamericanhistory.org/whos-who-1737-ching-fen-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ching-fen-lin-2/)
 
 ## Related Pages

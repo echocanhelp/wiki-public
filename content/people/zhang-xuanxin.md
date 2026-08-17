@@ -4,7 +4,7 @@ type: person
 tags:
   - 
 verification_status: pending
-last_reviewed: 2026-07-08
+last_reviewed: 2026-08-17
 ---
 # Zhang Xuanxin (張宣信)
 
@@ -41,8 +41,7 @@ Pages that link to **zhang-xuanxin** (zhang-xuanxin):
 1. [[organizations/irvine-taiwanese-presbyterian-church.md|irvine-taiwanese-presbyterian-church]]
 
 ### Sources
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/billy-chang/)
- (1)
+- [TAH #2322 encyclopedia: 2322. Billy Chang 張宣信](https://taiwaneseamericanhistory.org/whos-who-2322/) (1)
 
 1. [[sources/irvine-taiwanese-presbyterian-church.md|irvine-taiwanese-presbyterian-church]]
 

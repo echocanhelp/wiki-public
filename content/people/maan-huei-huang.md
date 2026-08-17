@@ -26,6 +26,8 @@ Maan-Huei Huang (黃滿惠) is listed in the TAH Foundation Who’s Who Taiwanes
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1977 encyclopedia: 1977. Maan-Huei Huang 黃滿惠](https://taiwaneseamericanhistory.org/whos-maan-huei-huang/)
+- [TAH #353 encyclopedia: 353. Maan-Huei Huang 黃滿惠 / First Female Attorney from Taiwan Practicing Law in C](https://taiwaneseamericanhistory.org/ff353/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/maan-huei-huang/)
 
 ## Related Pages

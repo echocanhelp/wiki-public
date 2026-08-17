@@ -29,6 +29,7 @@ Eric Cheng (鄭晧) is listed in the TAH Foundation Who’s Who Taiwanese Americ
 
 
 ## Sources
+- [TAH #272 encyclopedia: 272. Eric Cheng 鄭晧/2015/02](https://taiwaneseamericanhistory.org/272-eric-cheng-%e9%84%ad%e6%99%a7201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/eric-cheng/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ Dr. Tzu-Hsing (April) Kuo 郭姿杏博士 – History of Taiwanese American (T.A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1908 encyclopedia: 1908. Dr. Tzu-Hsing (April) Kuo 郭姿杏博士](https://taiwaneseamericanhistory.org/whos-who-1908-tzu-hsing-kuo/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-tzu-hsing-april-kuo/)
 
 ## Related Pages

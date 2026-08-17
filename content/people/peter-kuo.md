@@ -29,6 +29,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #315 encyclopedia: 315. Peter Kuo 郭博資/2015/02](https://taiwaneseamericanhistory.org/whos315-peter-kuo/)
+- [TAH #30 encyclopedia: 30. 郭博資Peter Kuo/2015/02](https://taiwaneseamericanhistory.org/artist30-peter-kuo/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/peter-kuo/)
 
 ## Related Pages

@@ -9,7 +9,7 @@ tags:
   - radio-host
 verification_status: pending
 featured: true
-last_reviewed: 2026-07-23
+last_reviewed: 2026-08-17
 ---
 # Zheng Shaoliang (鄭紹良)
 
@@ -44,6 +44,7 @@ Despite his physical challenges, Zheng approached life with optimism. He reflect
 - **Note:** The profile includes details about his pharmacy work, radio program, and philosophy on disability.
 
 ## Sources
+- [TAH #1454 encyclopedia: 1454. Shao Liang Cheng 鄭紹良 / 2017/01](https://taiwaneseamericanhistory.org/whoswho1454/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shao-liang-cheng/)
 
 ## Family

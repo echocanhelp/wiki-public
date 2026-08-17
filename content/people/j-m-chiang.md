@@ -26,6 +26,7 @@ J. M. Chiang (江榮茂) is listed in the TAH Foundation Who’s Who Taiwanese A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1965 encyclopedia: 1965. J. M. Chiang  江榮茂 /12/2017](https://taiwaneseamericanhistory.org/whos-jm-chiang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/j-m-chiang/)
 
 ## Related Pages

@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1810 encyclopedia: 1810. Prof. Sue-Mei Wu 吳素美教授](https://taiwaneseamericanhistory.org/whos-who-1810-sue-mei-wu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-sue-mei-wu/)
 
 ## Related Pages

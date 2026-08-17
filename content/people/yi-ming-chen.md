@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #332 encyclopedia: 332. Yi-Ming Chen 陳怡名 / 2015/03](https://taiwaneseamericanhistory.org/332-yi-ming-chen-%e9%99%b3%e6%80%a1%e5%90%8d/)
+- [TAH #158 encyclopedia: 158. Yi-Ming Chen陳怡名, Violist/2015/02](https://taiwaneseamericanhistory.org/158-yi-ming-chen%e9%99%b3%e6%80%a1%e5%90%8d-violist201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yi-ming-chen/)
 
 ## Related Pages

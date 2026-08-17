@@ -27,6 +27,7 @@ Cindy Huang (黃心怡) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #1241 encyclopedia: 1241. Cindy Huang 黃心怡 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1241/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/cindy-huang/)
 
 ## Related Pages

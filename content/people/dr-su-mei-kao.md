@@ -29,6 +29,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #87 encyclopedia: 87. Dr. Su-Mei Kao 林素梅博士](https://taiwaneseamericanhistory.org/87-dr-su-mei-kao/)
+- [TAH #1684 encyclopedia: 1684. Dr. Su-Mei Kao 林素梅博士](https://taiwaneseamericanhistory.org/whos-who-1684-su-mei-kao/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-su-mei-kao/)
 
 ## Related Pages

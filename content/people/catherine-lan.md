@@ -26,6 +26,7 @@ Catherine Lan (藍巧茹) is listed in the TAH Foundation Who’s Who Taiwanese 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1590 encyclopedia: 1590. Catherine Lan 藍巧茹 /2017/03](https://taiwaneseamericanhistory.org/whswho1590/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/catherine-lan/)
 
 ## Related Pages

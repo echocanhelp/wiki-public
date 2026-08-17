@@ -29,6 +29,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #1 encyclopedia: 1. Dr. Wayne Lung Wang 王文隆博士](https://taiwaneseamericanhistory.org/whos-who-1-wayne-lung-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-wayne-lung-wang/)
 
 ## Related Pages

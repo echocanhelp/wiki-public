@@ -26,6 +26,7 @@ Prof. Joshua Wen-Kwei Liao 廖文奎教授 – History of Taiwanese American (T.
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1849 encyclopedia: 1849. Prof. Joshua Wen-Kwei Liao 廖文奎教授](https://taiwaneseamericanhistory.org/whos-who-1849-wen-kwei-liao/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-joshua-wen-kwei-liao/)
 
 ## Related Pages

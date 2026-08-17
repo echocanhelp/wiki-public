@@ -26,6 +26,8 @@ Eric (Teng-Kuan) Huang 黃騰寬 – History of Taiwanese American (T.A. Archive
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #405 encyclopedia: 405. Eric (Teng-Kuan) Huang 黃騰寬, Pianist /06/2017](https://taiwaneseamericanhistory.org/eric-teng-kuan-huang-pianist/)
+- [TAH #398 encyclopedia: 398. Eric (Teng-Kuan) Huang 黃騰寬, pianist / 2017/05](https://taiwaneseamericanhistory.org/music398/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/eric-teng-kuan-huang/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ Dr. I-Bei Lin is an Associate Professor of Cello and Chair of Strings at the Uni
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #573 encyclopedia: 573. I-Bei Lin 林怡貝 / 2015/09](https://taiwaneseamericanhistory.org/573-i-bei-lin-%e6%9e%97%e6%80%a1%e8%b2%9d-201509/)
+- [TAH #289 encyclopedia: 289. I-Bei Lin 林怡貝, Cellist / 2015/09](https://taiwaneseamericanhistory.org/289-i-bei-lin-%e6%9e%97%e6%80%a1%e8%b2%9d-cellist-201509/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/i-bei-lin/)
 
 ## Related Pages

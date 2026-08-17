@@ -29,6 +29,7 @@ Marian Miaw-ju Chen (陳林妙珠) is listed in the TAH Foundation Who’s Who T
 
 
 ## Sources
+- [TAH #1032 encyclopedia: 1032. Marian Miaw-ju Chen 陳林妙珠 /2016/05](https://taiwaneseamericanhistory.org/whoswho1032/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/marian-miaw-ju-chen/)
 
 ## Related Pages

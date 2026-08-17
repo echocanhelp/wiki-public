@@ -9,7 +9,7 @@ tags:
   - taiwan-history
 verification_status: pending
 featured: true
-last_reviewed: 2026-07-19
+last_reviewed: 2026-08-17
 ---
 # Lin Yuan-qing (林元清)
 
@@ -161,7 +161,8 @@ Pages that link to **lin-yuan-ching** (lin-yuan-ching):
 
 1. [[people/hsu-hsin-hung.md|hsu-hsin-hung]]
 
-### Sources (1)
+### Sources
+- [TAH #467 encyclopedia: 467. Matthew Lin 林元清 / 2015/06](https://taiwaneseamericanhistory.org/467-matthew-lin-%e6%9e%97%e5%85%83%e6%b8%85-201506/) (1)
 
 1. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
 

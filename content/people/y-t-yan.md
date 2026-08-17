@@ -26,6 +26,7 @@ Y. T. Yan (顏裕庭) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #863 encyclopedia: 863. Y. T. Yan 顏裕庭 /2016/02](https://taiwaneseamericanhistory.org/whos863/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/y-t-yan/)
 
 ## Related Pages

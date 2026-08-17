@@ -26,6 +26,7 @@ Z.Z. Sun (孫足枝) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1621 encyclopedia: 1621. Z.Z. Sun 孫足枝/ 2017/04](https://taiwaneseamericanhistory.org/whoswho1621/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/z-z-sun/)
 
 ## Related Pages

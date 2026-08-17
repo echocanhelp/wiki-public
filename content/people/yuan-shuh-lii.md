@@ -26,6 +26,7 @@ Source from http://www.taiwancenter.com/sdtca/articles/2-04/7.html(美國加州�
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1441 encyclopedia: 1441. Yuan-Shuh Lii 李元恕 / 2016/12](https://taiwaneseamericanhistory.org/whoswho1441/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yuan-shuh-lii/)
 
 ## Related Pages

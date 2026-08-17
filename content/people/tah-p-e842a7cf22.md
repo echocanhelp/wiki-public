@@ -29,6 +29,7 @@ Tobacco Research (Post doctor research)
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #754 encyclopedia: 754. 楊金文 /2016/01](https://taiwaneseamericanhistory.org/754-%e6%a5%8a%e9%87%91%e6%96%87-201601/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e6%a5%8a%e9%87%91%e6%96%87/)
 
 ## Related Pages

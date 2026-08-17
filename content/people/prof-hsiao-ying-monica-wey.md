@@ -26,6 +26,7 @@ Prof. Hsiao-Ying (Monica) Wey 魏曉英教授 – History of Taiwanese American 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1909 encyclopedia: 1909. Prof. Hsiao-Ying (Monica) Wey 魏曉英教授](https://taiwaneseamericanhistory.org/whos-who-1909-hsiao-ying-wey/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-hsiao-ying-monica-wey/)
 
 ## Related Pages

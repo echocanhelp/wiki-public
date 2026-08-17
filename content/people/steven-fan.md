@@ -28,6 +28,7 @@ Steven Fan (范盛裕) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #2171 encyclopedia: 2171. Steven Fan 范盛裕](https://taiwaneseamericanhistory.org/whos-who-2171-steven-fan/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/steven-fan/)
 
 ## Related Pages

@@ -27,6 +27,7 @@ Fuh-Sheng Shieu (薛富盛) is listed in the TAH Foundation Who’s Who Taiwanes
 
 
 ## Sources
+- [TAH #914 encyclopedia: 914. Fuh-Sheng Shieu 薛富盛 / 2016/03](https://taiwaneseamericanhistory.org/914-fuh-sheng-shieu-%e8%96%9b%e5%af%8c%e7%9b%9b-201603/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/fuh-sheng-shieu/)
 
 ## Related Pages

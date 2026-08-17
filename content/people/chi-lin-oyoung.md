@@ -26,6 +26,7 @@ Chi-Lin O’Young (歐陽吉林) is listed in the TAH Foundation Who’s Who Tai
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #708 encyclopedia: 708. Chi-Lin O’Young 歐陽吉林	 / 2015/11](https://taiwaneseamericanhistory.org/708-chi-lin-oyoung-%e6%ad%90%e9%99%bd%e5%90%89%e6%9e%97-201511/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chi-lin-oyoung/)
 
 ## Related Pages

@@ -29,6 +29,7 @@ Charlene Bos Alexander 莫霞琳 – History of Taiwanese American (T.A. Archive
 
 
 ## Sources
+- [TAH #2148 encyclopedia: 2148. Charlene Bos Alexander 莫霞琳](https://taiwaneseamericanhistory.org/whos-who-2148-charlene-bos-alexander/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/charlene-bos-alexander/)
 
 ## Related Pages

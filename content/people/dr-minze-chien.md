@@ -30,6 +30,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #68 encyclopedia: 68. Dr. Minze Chien 簡明子博士](https://taiwaneseamericanhistory.org/68-dr-minze-chien/)
+- [TAH #1832 encyclopedia: 1832. Dr. Minze Chien 簡明子博士](https://taiwaneseamericanhistory.org/whos-who-1832-minze-chien/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-minze-chien/)
 
 ## Related Pages

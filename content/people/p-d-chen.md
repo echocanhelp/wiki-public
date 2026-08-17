@@ -26,6 +26,7 @@ P. D. Chen (陳培德) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1149 encyclopedia: 1149. P. D. Chen 陳培德  / 2017/07](https://taiwaneseamericanhistory.org/whoswho1149/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/p-d-chen/)
 
 ## Related Pages

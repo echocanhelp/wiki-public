@@ -26,6 +26,7 @@ Dr. Wen-Chang Yang (楊文昌醫師) is listed in the TAH Foundation Who’s Who
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2013 encyclopedia: 2013. Dr. Wen-Chang Yang 楊文昌醫師](https://taiwaneseamericanhistory.org/whos-who-2013-wen-chang-yang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-wen-chang-yang/)
 
 ## Related Pages

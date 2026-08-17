@@ -27,6 +27,7 @@ James Cheng (鄭乃榮) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #37 encyclopedia: 37. James Cheng 鄭乃榮](https://taiwaneseamericanhistory.org/37-james-cheng-%e9%84%ad%e4%b9%83%e6%a6%ae/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/james-cheng/)
 
 ## Related Pages

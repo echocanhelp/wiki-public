@@ -26,6 +26,8 @@ Chih-Chen Wei is an active composer. Her recent compositions has been played by 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #402 encyclopedia: 402. Chih-Chen Wei 魏志真 / 2015/05](https://taiwaneseamericanhistory.org/402-chih-chen-wei-%e9%ad%8f%e5%bf%97%e7%9c%9f-201505/)
+- [TAH #51 encyclopedia: 51. Chih-Chen Wei 魏志真, Composer/2014/10](https://taiwaneseamericanhistory.org/52-chih-chen-wei-%e9%ad%8f%e5%bf%97%e7%9c%9f-composer/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chih-chen-wei/)
 
 ## Related Pages

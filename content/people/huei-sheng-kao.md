@@ -29,6 +29,8 @@ A native of Taiwan, Assistant Concertmaster Huei-Sheng Kao started violin studie
 
 
 ## Sources
+- [TAH #129 encyclopedia: 129. Huei-Sheng Kao 高慧生, Violinist / 2015/02](https://taiwaneseamericanhistory.org/129-huei-sheng-kao-%e9%ab%98%e6%85%a7%e7%94%9f-violinist-201502/)
+- [TAH #242 encyclopedia: 242. Huei-Sheng Kao高慧生 / 2015/02](https://taiwaneseamericanhistory.org/242-huei-sheng-kao%e9%ab%98%e6%85%a7%e7%94%9f-201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/huei-sheng-kao/)
 
 ## Related Pages

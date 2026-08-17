@@ -26,6 +26,7 @@ Nai-Shin Chu (朱迺欣) is listed in the TAH Foundation Who’s Who Taiwanese A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #626 encyclopedia: 626. Nai-Shin Chu 朱迺欣 / 2015/09](https://taiwaneseamericanhistory.org/626-nai-shin-chu-%e6%9c%b1%e8%bf%ba%e6%ac%a3-201509/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/nai-shin-chu/)
 
 ## Related Pages

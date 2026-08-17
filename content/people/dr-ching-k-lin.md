@@ -30,6 +30,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #248 encyclopedia: 248. Dr. & Mrs. Ching K Lin 林清貴博士、夫人](https://taiwaneseamericanhistory.org/ota-248/)
+- [TAH #886 encyclopedia: 886. Dr. Ching K. Lin 林清貴博士](https://taiwaneseamericanhistory.org/whos-who-886-ching-k-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-ching-k-lin/)
 
 ## Related Pages

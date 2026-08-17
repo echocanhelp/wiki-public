@@ -29,6 +29,7 @@ Ho Chu Yao (姚張和珠) is listed in the TAH Foundation Who’s Who Taiwanese 
 
 
 ## Sources
+- [TAH #304 encyclopedia: 304. Ho Chu Yao 姚張和珠/2015/02](https://taiwaneseamericanhistory.org/304-ho-chu-yao-%e5%a7%9a%e5%bc%b5%e5%92%8c%e7%8f%a0201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ho-chu-yao/)
 
 ## Related Pages

@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2168 encyclopedia: 2168. Prof. Y. C. Jeng 鄭逸群教授](https://taiwaneseamericanhistory.org/whos-who-2168-y-c-jeng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-y-c-jeng/)
 
 ## Related Pages

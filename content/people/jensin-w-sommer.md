@@ -32,6 +32,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #228 encyclopedia: 228. Jensin W. Sommer 翁正欣](https://taiwaneseamericanhistory.org/ota-228/)
+- [TAH #559 encyclopedia: 559. Jensin W. Sommer 翁正欣](https://taiwaneseamericanhistory.org/whos-who-559-jensin-w-sommer/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jensin-w-sommer/)
 
 ## Related Pages

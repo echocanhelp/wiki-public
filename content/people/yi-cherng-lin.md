@@ -26,6 +26,8 @@ Baritone Yi-Cherng Lin has earned his Doctor of Musical Art degree in Voice Perf
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #458 encyclopedia: 458. Yi-Cherng Lin 林宜誠 / 2015/06](https://taiwaneseamericanhistory.org/458-yi-cherng-lin-%e6%9e%97%e5%ae%9c%e8%aa%a0-201506/)
+- [TAH #14 encyclopedia: 14. Yi-Cherng Lin 林宜誠, Baritone/2014/10](https://taiwaneseamericanhistory.org/14-yi-cherng-lin-%e6%9e%97%e5%ae%9c%e8%aa%a0-baritone/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yi-cherng-lin/)
 
 ## Related Pages

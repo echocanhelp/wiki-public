@@ -30,6 +30,8 @@ Publication(Non-professional)
 
 
 ## Sources
+- [TAH #64 encyclopedia: 64. Prof. Frank Shih 施永強教授](https://taiwaneseamericanhistory.org/64-prof-frank-shih/)
+- [TAH #1990 encyclopedia: 1990. Prof. Frank Shih 施永強教授](https://taiwaneseamericanhistory.org/whos-who-1990-frank-shih/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-frank-shih/)
 
 ## Related Pages

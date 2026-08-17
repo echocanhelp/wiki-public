@@ -27,6 +27,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #735 encyclopedia: 735. Herng-Shinn Hwang 黃恆信 / 2015/12](https://taiwaneseamericanhistory.org/735-herng-shinn-hwang-%e9%bb%83%e6%81%86%e4%bf%a1-201512/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/herng-shinn-hwang/)
 
 ## Related Pages

@@ -29,6 +29,7 @@ Dr. Cecelia Tsai (葉明霞博士) is listed in the TAH Foundation Who’s Who T
 
 
 ## Sources
+- [TAH #1963 encyclopedia: 1963. Dr. Cecelia Tsai 葉明霞博士](https://taiwaneseamericanhistory.org/whos-who-1963-cecelia-tsai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-cecelia-tsai/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ Dr. Kuo Shih Yeh (葉國勢博士) is listed in the TAH Foundation Who’s Who T
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1122 encyclopedia: 1122. Dr. Kuo Shih Yeh 葉國勢博士/2016/07](https://taiwaneseamericanhistory.org/whoswho1122/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-kuo-shih-yeh/)
 
 ## Related Pages

@@ -27,6 +27,7 @@ Chao-Nan Liu (劉照男) is listed in the TAH Foundation Who’s Who Taiwanese A
 
 
 ## Sources
+- [TAH #617 encyclopedia: 617. Chao-Nan Liu 劉照男 / 2015/09](https://taiwaneseamericanhistory.org/whos-chao-nan-liu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chao-nan-liu/)
 
 ## Related Pages

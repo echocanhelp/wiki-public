@@ -26,6 +26,7 @@ Gene Lay (賴正光) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1422 encyclopedia: 1422. Gene Lay 賴正光 / 2016/12](https://taiwaneseamericanhistory.org/whoswho1422/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/gene-lay/)
 
 ## Related Pages

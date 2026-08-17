@@ -26,6 +26,7 @@ Jawshing (Arthur) Liou 劉肇興 – History of Taiwanese American (T.A. Archive
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #908 encyclopedia: 908. Jawshing (Arthur) Liou 劉肇興 / 2016/03](https://taiwaneseamericanhistory.org/908-jawshing-arthur-liou-%e5%8a%89%e8%82%87%e8%88%88-201603/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jawshing-arthur-liou/)
 
 ## Related Pages

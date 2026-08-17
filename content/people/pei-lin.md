@@ -27,6 +27,7 @@ Pei Lin (林伯修) is listed in the TAH Foundation Who’s Who Taiwanese Americ
 
 
 ## Sources
+- [TAH #963 encyclopedia: 963.  Pei Lin 林伯修/ 2016/05](https://taiwaneseamericanhistory.org/whoswho963/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/pei-lin/)
 
 ## Related Pages

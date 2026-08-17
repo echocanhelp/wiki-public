@@ -27,6 +27,8 @@ Ms. Cheryl Lin Hong started her piano lesson at 5, and was fascinated by music s
 
 
 ## Sources
+- [TAH #554 encyclopedia: 554. Cheryl Lin Hong 林千千 / 2015/08](https://taiwaneseamericanhistory.org/554-cheryl-lin-hong-%e6%9e%97%e5%8d%83%e5%8d%83-201508/)
+- [TAH #261 encyclopedia: 261. Cheryl Lin Hong林千千, Conductor / 2015/08](https://taiwaneseamericanhistory.org/261-cheryl-lin-hong%e6%9e%97%e5%8d%83%e5%8d%83-conductor-201508/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/cheryl-lin-hong/)
 
 ## Related Pages

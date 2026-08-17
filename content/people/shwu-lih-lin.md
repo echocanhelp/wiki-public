@@ -29,6 +29,10 @@ Accomplishment
 
 
 ## Sources
+- [TAH #79 encyclopedia: 79. Ms. Sue Lin 林淑麗 / The first speech on becoming American to local Woman Club,](https://taiwaneseamericanhistory.org/79-ms-sue-lin-%e6%9e%97%e6%b7%91%e9%ba%97-the-first-speech-on-becoming-american-to-local-woman-club-cranbury-nj-2002/)
+- [TAH #78 encyclopedia: 78. Ms. Sue Lin 林淑麗 / The first seminar of Taiwanese literature ( English editio](https://taiwaneseamericanhistory.org/78-ms-sue-lin-%e6%9e%97%e6%b7%91%e9%ba%97-the-first-seminar-of-taiwanese-literature-english-edition-with-professors-from-university-2002/)
+- [TAH #77 encyclopedia: 77. Ms. Sue Lin 林淑麗 / The first book donation of Taiwanese Literature (English e](https://taiwaneseamericanhistory.org/77-ms-sue-lin-%e6%9e%97%e6%b7%91%e9%ba%97-the-first-book-donation-of-taiwanese-literature-english-edition-to-public-libraries-2002/)
+- [TAH #7 encyclopedia: 7. Shwu Lih Lin 林淑麗](https://taiwaneseamericanhistory.org/whos-who-7-shwu-lih-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shwu-lih-lin/)
 
 ## Related Pages

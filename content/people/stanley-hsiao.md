@@ -27,6 +27,7 @@ Stanley Hsiao (蕭東賢) is listed in the TAH Foundation Who’s Who Taiwanese 
 
 
 ## Sources
+- [TAH #2254 encyclopedia: 2254. Stanley Hsiao 蕭東賢](https://taiwaneseamericanhistory.org/whos-who-2254-stanley-hsiao/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/stanley-hsiao/)
 
 ## Related Pages

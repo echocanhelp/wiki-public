@@ -27,6 +27,7 @@ Jennifer Fan (方碧霞) is listed in the TAH Foundation Who’s Who Taiwanese A
 
 
 ## Sources
+- [TAH #968 encyclopedia: 968. Jennifer Fan 方碧霞 / 2016/05](https://taiwaneseamericanhistory.org/whoswho968/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jennifer-fan/)
 
 ## Related Pages

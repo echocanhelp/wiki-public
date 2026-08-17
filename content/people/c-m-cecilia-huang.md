@@ -29,6 +29,7 @@ C. M. Cecilia Huang (黃晴美) is listed in the TAH Foundation Who’s Who Taiw
 
 
 ## Sources
+- [TAH #2114 encyclopedia: 2114.  C. M. (Cecilia) Huang 黃晴美](https://taiwaneseamericanhistory.org/whos-who-2114-c-m-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-m-cecilia-huang/)
 
 ## Related Pages

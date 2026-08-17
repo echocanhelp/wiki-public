@@ -29,6 +29,7 @@ Consultant
 
 
 ## Sources
+- [TAH #84 encyclopedia: 84. John J.Y. Huang 黃仲義](https://taiwaneseamericanhistory.org/84-john-j-y-huang-%e9%bb%83%e4%bb%b2%e7%be%a9/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/john-j-y-huang/)
 
 ## Related Pages

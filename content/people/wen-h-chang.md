@@ -27,6 +27,7 @@ Wen. H. Chang (張文旭) is listed in the TAH Foundation Who’s Who Taiwanese 
 
 
 ## Sources
+- [TAH #1643 encyclopedia: 1643. Wen. H. Chang 張文旭 05/ 2017](https://taiwaneseamericanhistory.org/whos-wen-h-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/wen-h-chang/)
 
 ## Related Pages

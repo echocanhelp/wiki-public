@@ -27,6 +27,7 @@ J. Y. Jackson Ko (柯哲洋) is listed in the TAH Foundation Who’s Who Taiwane
 
 
 ## Sources
+- [TAH #1768 encyclopedia: 1768.  J. Y. Jackson Ko 柯哲洋 / 2017](https://taiwaneseamericanhistory.org/whoswho1768/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/j-y-jackson-ko/)
 
 ## Related Pages

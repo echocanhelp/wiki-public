@@ -26,6 +26,7 @@ Raymond Jeng (鄭英松) is listed in the TAH Foundation Who’s Who Taiwanese A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #769 encyclopedia: 769. Raymond Jeng 鄭英松/ 2016/01](https://taiwaneseamericanhistory.org/769-raymond-jeng-%e9%84%ad%e8%8b%b1%e6%9d%be-201601/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/raymond-jeng/)
 
 ## Related Pages

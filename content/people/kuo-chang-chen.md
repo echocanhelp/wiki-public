@@ -30,6 +30,9 @@ Accomplishment
 
 
 ## Sources
+- [TAH #249 encyclopedia: 249. Kuo Chang Chen 陳國昌](https://taiwaneseamericanhistory.org/ota-249/)
+- [TAH #378 encyclopedia: 378. Mr. Kuo Chang Chen (陳國昌) : The first T. A. completed the visit of all 50 St](https://taiwaneseamericanhistory.org/378-mr-kuo-chang-chen/)
+- [TAH #1138 encyclopedia: 1138. Kuo Chang Chen 陳國昌](https://taiwaneseamericanhistory.org/whos-who-1138-kuo-chang-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kuo-chang-chen/)
 
 ## Related Pages

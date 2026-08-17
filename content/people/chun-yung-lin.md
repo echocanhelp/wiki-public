@@ -26,6 +26,7 @@ Chun-Yung Lin (林純容) is listed in the TAH Foundation Who’s Who Taiwanese 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1732 encyclopedia: 1732.  Chun-Yung Lin 林純容 / 07/2017](https://taiwaneseamericanhistory.org/whoswho1732/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chun-yung-lin/)
 
 ## Related Pages

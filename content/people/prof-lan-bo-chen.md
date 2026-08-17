@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1994 encyclopedia: 1994. Prof. Lan-Bo Chen 陳良博教授](https://taiwaneseamericanhistory.org/whos-who-1994-lan-bo-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-lan-bo-chen/)
 
 ## Related Pages

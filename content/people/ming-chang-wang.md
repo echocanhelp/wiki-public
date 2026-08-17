@@ -29,6 +29,7 @@ Ming Chang Wang (王敏昌) is listed in the TAH Foundation Who’s Who Taiwanes
 
 
 ## Sources
+- [TAH #696 encyclopedia: 696. Ming Chang Wang 王敏昌 /2015/11](https://taiwaneseamericanhistory.org/696-ming-chang-wang-%e7%8e%8b%e6%95%8f%e6%98%8c-201511/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ming-chang-wang/)
 
 ## Related Pages

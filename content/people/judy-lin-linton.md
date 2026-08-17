@@ -31,6 +31,7 @@ Judy Lin Linton (林奐均) is listed in the TAH Foundation Who’s Who Taiwanes
 
 
 ## Sources
+- [TAH #1557 encyclopedia: 1557. Judy Lin Linton 林奐均 / 2017/03](https://taiwaneseamericanhistory.org/1557-judy-linton-%e6%9e%97%e5%a5%90%e5%9d%87-201703/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/judy-lin-linton/)
 
 ## Related Pages

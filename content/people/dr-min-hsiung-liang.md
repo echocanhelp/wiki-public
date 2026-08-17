@@ -28,6 +28,7 @@ Dr. Min Hsiung Liang 梁敏雄博士 – History of Taiwanese American (T.A. Arc
 
 
 ## Sources
+- [TAH #2088 encyclopedia: 2088. Dr. Min Hsiung Liang 梁敏雄博士](https://taiwaneseamericanhistory.org/whos-who-2088-min-hsiung-liang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-min-hsiung-liang/)
 
 ## Related Pages

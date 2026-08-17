@@ -29,6 +29,7 @@ Ingrid Tseng (曾暎貴) is listed in the TAH Foundation Who’s Who Taiwanese A
 
 
 ## Sources
+- [TAH #1434 encyclopedia: 1434. Ingrid Tseng 曾暎貴/2016/12](https://taiwaneseamericanhistory.org/whoswho1434/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ingrid-tseng/)
 
 ## Related Pages

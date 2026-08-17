@@ -30,6 +30,7 @@ Ring Lin Hsu (許林碖) is listed in the TAH Foundation Who’s Who Taiwanese A
 
 
 ## Sources
+- [TAH #809 encyclopedia: 809. Ring Lin Hsu 許林碖 / 2016/02](https://taiwaneseamericanhistory.org/809-ring-lin-hsu-%e8%a8%b1%e6%9e%97%e7%a2%96-201602/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ring-lin-hsu/)
 
 ## Related Pages

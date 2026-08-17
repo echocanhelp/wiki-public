@@ -26,6 +26,7 @@ Prof. Ta-Chiang Liu (劉大強教授) is listed in the TAH Foundation Who’s Wh
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2122 encyclopedia: 2122. Prof. Ta-Chiang Liu 劉大強教授](https://taiwaneseamericanhistory.org/whos-who-2122-ta-chiang-liu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-ta-chiang-liu/)
 
 ## Related Pages

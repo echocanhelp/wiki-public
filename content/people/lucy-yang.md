@@ -27,6 +27,7 @@ Lucy Yang (楊淑詠) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 
 
 ## Sources
+- [TAH #1095 encyclopedia: 1095. Lucy Yang 楊淑詠](https://taiwaneseamericanhistory.org/whos1095-lucy-yang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/lucy-yang/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ Amy Liao (廖允民) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1693 encyclopedia: 1693. Amy Liao 廖允民 / 05/2017](https://taiwaneseamericanhistory.org/whoswho1693/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/amy-liao/)
 
 ## Related Pages

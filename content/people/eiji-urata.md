@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1001 encyclopedia: 1001.  Eiji Urata 謝榮慶 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1001/)
+- [TAH #54 encyclopedia: 54. 謝榮慶 Eiji Urata /2015/09](https://taiwaneseamericanhistory.org/54-%e8%ac%9d%e6%a6%ae%e6%85%b6-eiji-urata/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/eiji-urata/)
 
 ## Related Pages

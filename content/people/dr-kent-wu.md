@@ -28,6 +28,7 @@ Dr. Kent Wu (吳英資博士) is listed in the TAH Foundation Who’s Who Taiwan
 
 
 ## Sources
+- [TAH #2073 encyclopedia: 2073. Dr. Kent Wu 吳英資博士/ 03/2018](https://taiwaneseamericanhistory.org/whos-who-2073/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-kent-wu/)
 
 ## Related Pages

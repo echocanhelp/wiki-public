@@ -26,6 +26,7 @@ Praised as a pianist with artistic insight and dynamic energy, Dr. Peirong Lo ha
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #403 encyclopedia: 403. Peirong Lo 羅佩蓉, Pianist /06/2017](https://taiwaneseamericanhistory.org/peirong-lo-pianist/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/peirong-lo/)
 
 ## Related Pages

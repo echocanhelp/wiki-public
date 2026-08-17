@@ -27,6 +27,7 @@ Third prize, Stravinsky International Piano Competition, Champaign, Illinois, 19
 
 
 ## Sources
+- [TAH #1005 encyclopedia: 1005. Emily Hsieh 謝艾琳 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1005/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/emily-hsieh/)
 
 ## Related Pages

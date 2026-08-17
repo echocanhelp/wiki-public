@@ -27,6 +27,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #694 encyclopedia: 694. Rizia H. Lin 洪文鳳 / 2015/11](https://taiwaneseamericanhistory.org/694-rizia-h-lin-%e6%b4%aa%e6%96%87%e9%b3%b3-201511/)
+- [TAH #317 encyclopedia: 317. Rizia H. Lin 洪文鳳, Conductor / 2015/11](https://taiwaneseamericanhistory.org/317-rizia-h-lin-%e6%b4%aa%e6%96%87%e9%b3%b3-conductor-201511/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rizia-h-lin/)
 
 ## Related Pages

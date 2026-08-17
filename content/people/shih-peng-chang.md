@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #310 encyclopedia: 310. Shih-Peng Chang 張士芃, Violinist  / 2015/10](https://taiwaneseamericanhistory.org/310-shih-peng-chang-%e5%bc%b5%e5%a3%ab%e8%8a%83-violinist-201510/)
+- [TAH #684 encyclopedia: 684. Shih-Peng Chang 張士芃 / 2015/10](https://taiwaneseamericanhistory.org/684-shih-peng-chang-%e5%bc%b5%e5%a3%ab%e8%8a%83-201510/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shih-peng-chang/)
 
 ## Related Pages

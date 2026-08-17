@@ -26,6 +26,7 @@ CNN國際新聞網路駐香港亞太區總部的獲獎主播及記者 (Award-win
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1599 encyclopedia: 1599. Pauline Choiu 邱曼怡 / 2017/04](https://taiwaneseamericanhistory.org/whoswho1599/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/pauline-choiu/)
 
 ## Related Pages

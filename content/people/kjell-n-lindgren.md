@@ -27,6 +27,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #2297 encyclopedia: 2297. Kjell N. Lindgren 林其兒](https://taiwaneseamericanhistory.org/whos-who-2297-kjell-n-lindgren/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kjell-n-lindgren/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ Born in Taiwan in 1977, Janice Wong began studying music at age four. She studie
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #543 encyclopedia: 543. Janice Wong 王正怡 / 2015/08](https://taiwaneseamericanhistory.org/543-janice-wong-%e7%8e%8b%e6%ad%a3%e6%80%a1-201508/)
+- [TAH #272 encyclopedia: 272. Janice Wong 王正怡, Pianist / 2015/08](https://taiwaneseamericanhistory.org/272-%e7%8e%8b%e6%ad%a3%e6%80%a1janice-wong-pianist-201508/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/janice-wong/)
 
 ## Related Pages

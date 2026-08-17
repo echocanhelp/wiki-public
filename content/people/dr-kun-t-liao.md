@@ -30,6 +30,9 @@ Accomplishment
 
 
 ## Sources
+- [TAH #27 encyclopedia: 27. Dr. Kun T. Liao (廖坤塗醫師)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-27/)
+- [TAH #165 encyclopedia: 165. Dr. Kun T. Liao 廖坤塗醫師](https://taiwaneseamericanhistory.org/165-dr-kun-t-liao/)
+- [TAH #672 encyclopedia: 672. Dr. Kun T. Liao 廖坤塗醫師](https://taiwaneseamericanhistory.org/whos-who-672-kun-t-liao/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-kun-t-liao/)
 
 ## Related Pages

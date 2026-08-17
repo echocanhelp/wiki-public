@@ -26,6 +26,7 @@ Prof. Hsing-Lih Chou 周興立教授 – History of Taiwanese American (T.A. Arc
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1933 encyclopedia: 1933. Prof. Hsing-Lih Chou 周興立教授](https://taiwaneseamericanhistory.org/whos-who-1933-hsing-lih-chou/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-hsing-lih-chou/)
 
 ## Related Pages

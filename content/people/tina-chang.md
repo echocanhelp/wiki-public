@@ -29,6 +29,8 @@ Tina Chang (張丁蘭) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #64 encyclopedia: 64. Tina Chang 張丁蘭 / The First President of 北美洲台灣人權協會 / 1976](https://taiwaneseamericanhistory.org/64-tina-chang-%e5%bc%b5%e4%b8%81%e8%98%ad-the-first-president-of-%e5%8c%97%e7%be%8e%e6%b4%b2%e5%8f%b0%e7%81%a3%e4%ba%ba%e6%ac%8a%e5%8d%94%e6%9c%83-1976/)
+- [TAH #94 encyclopedia: 94. Tina Chang 張丁蘭](https://taiwaneseamericanhistory.org/94-tina-chang-%e5%bc%b5%e4%b8%81%e8%98%ad/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tina-chang/)
 
 ## Related Pages

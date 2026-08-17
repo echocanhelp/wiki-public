@@ -26,6 +26,7 @@ A native of Tennessee, pianist Melvin Chen 陳意超 has received acclaim for pe
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #434 encyclopedia: 434. Melvin Chen 陳意超, Pianist /06/2019](https://taiwaneseamericanhistory.org/434-pianist-sharon-how/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/melvin-chen/)
 
 ## Related Pages

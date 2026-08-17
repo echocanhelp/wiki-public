@@ -26,6 +26,7 @@ Deana Chuang (莊惠綺) is listed in the TAH Foundation Who’s Who Taiwanese A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #594 encyclopedia: 594. Deana Chuang 莊惠綺 /2015/09](https://taiwaneseamericanhistory.org/594-deana-chuang-%e8%8e%8a%e6%83%a0%e7%b6%ba-201509/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/deana-chuang/)
 
 ## Related Pages

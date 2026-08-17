@@ -30,6 +30,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #74 encyclopedia: 74. Prof. Tender Lin 林天德教授](https://taiwaneseamericanhistory.org/74-prof-tender-lin/)
+- [TAH #169 encyclopedia: 169. Prof. Tender Lin 林天德教授](https://taiwaneseamericanhistory.org/whos-who-169-tender-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-tender-lin/)
 
 ## Related Pages

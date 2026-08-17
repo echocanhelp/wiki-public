@@ -27,6 +27,8 @@ Amber Liao (廖幼萱) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #69 encyclopedia: 69. Amber Liao 廖幼萱](https://taiwaneseamericanhistory.org/70-amber-liao-%e5%bb%96%e5%b9%bc%e8%90%b1/)
+- [TAH #71 encyclopedia: 71. Amber Yiu-Hsuan Liao 廖幼萱, Pianist/2014/10](https://taiwaneseamericanhistory.org/71-amber-yiu-hsuan-liao-piano/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/amber-liao/)
 
 ## Related Pages

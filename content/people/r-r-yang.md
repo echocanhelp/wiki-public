@@ -28,6 +28,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #973 encyclopedia: 973. R. R. Yang楊蓉蓉 / 2016/05](https://taiwaneseamericanhistory.org/whoswho973/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/r-r-yang/)
 
 ## Related Pages

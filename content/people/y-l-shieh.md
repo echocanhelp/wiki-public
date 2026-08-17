@@ -27,6 +27,7 @@ Y. L. Shieh (沈郁良) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #1243 encyclopedia: 1243.  Y. L. Shieh 	 沈郁良 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1243/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/y-l-shieh/)
 
 ## Related Pages

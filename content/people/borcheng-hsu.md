@@ -26,6 +26,8 @@ BorCheng Hsu (許伯丞) is listed in the TAH Foundation Who’s Who Taiwanese A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #117 encyclopedia: 117. BorCheng Hsu 許伯丞](https://taiwaneseamericanhistory.org/117-bro-cheng-hsu/)
+- [TAH #1175 encyclopedia: 1175. BorCheng Hsu 許伯丞](https://taiwaneseamericanhistory.org/whos-who-1175-borcheng-hsu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/borcheng-hsu/)
 
 ## Related Pages

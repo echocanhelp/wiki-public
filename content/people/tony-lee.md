@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-07-16
+last_reviewed: 2026-08-17
 ---
 # Tony Lee (李賢群)
 
@@ -27,6 +27,7 @@ last_reviewed: 2026-07-16
 - **Content priority C:** Full biography not in this source set
 
 ## Sources
+- [TAH #710 encyclopedia: 710. Tony Lee 李賢群 / 2015/11](https://taiwaneseamericanhistory.org/whos-who-710/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tony-lee/)
 
 ## Related Pages

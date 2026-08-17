@@ -28,6 +28,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #155 encyclopedia: 155. Dr. Sie-Tung Liu 劉協同博士](https://taiwaneseamericanhistory.org/whos-who-155-sie-tung-liu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-sie-tung-liu/)
 
 ## Related Pages

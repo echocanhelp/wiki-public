@@ -27,6 +27,7 @@ Kenneth Wang (王克雄博士) is listed in the TAH Foundation Who’s Who Taiwa
 
 
 ## Sources
+- [TAH #409 encyclopedia: 409. 228辛酸血淚‧民主人權漫漫長路‧花朵終於綻放 –王克雄博士  / 黃樹人 /03/2016](https://taiwaneseamericanhistory.org/mystories409/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kenneth-wang/)
 
 ## Related Pages

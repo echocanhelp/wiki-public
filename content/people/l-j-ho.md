@@ -26,6 +26,7 @@ L. J. Ho (何麗珍) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2089 encyclopedia: 2089. L. J. Ho 何麗珍 / 04/2018](https://taiwaneseamericanhistory.org/whoswho/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/l-j-ho/)
 
 ## Related Pages

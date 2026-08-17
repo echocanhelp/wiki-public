@@ -31,6 +31,8 @@ M.S., Radiochemistry Group
 
 
 ## Sources
+- [TAH #24 encyclopedia: 24. Dr. Yan tze Lee 李遠哲博士 / The first Nobel prize winner (Chemistry) / 10/15/198](https://taiwaneseamericanhistory.org/24-dr-yan-tze-lee-%e6%9d%8e%e9%81%a0%e5%93%b2%e5%8d%9a%e5%a3%ab-the-first-nobel-prize-winner-chemistry-10151986/)
+- [TAH #54 encyclopedia: 54. Dr. Yuan-Tseh Lee 李遠哲博士](https://taiwaneseamericanhistory.org/whos-who-54-yuan-tseh-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yuan-tseh-lee/)
 
 ## Related Pages

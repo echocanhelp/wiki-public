@@ -29,6 +29,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #2149 encyclopedia: 2149. Rev. Dave Alexander 亞大偉牧師](https://taiwaneseamericanhistory.org/whos-who-2149-dave-alexander/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rev-dave-alexander/)
 
 ## Related Pages

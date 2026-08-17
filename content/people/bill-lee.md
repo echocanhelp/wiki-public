@@ -28,6 +28,7 @@ Bill Lee (李君偉) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 
 
 ## Sources
+- [TAH #1601 encyclopedia: 1601. Bill Lee 李君偉 / 2017/04](https://taiwaneseamericanhistory.org/whoswho1601/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/bill-lee/)
 
 ## Related Pages

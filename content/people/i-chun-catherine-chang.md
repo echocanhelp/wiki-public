@@ -27,6 +27,7 @@ I-Chun (Catherine) Chang 張儀君教授 – History of Taiwanese American (T.A.
 
 
 ## Sources
+- [TAH #2129 encyclopedia: 2129. I-Chun (Catherine) Chang 張儀君教授](https://taiwaneseamericanhistory.org/whos-who-2129-i-chun-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/i-chun-catherine-chang/)
 
 ## Related Pages

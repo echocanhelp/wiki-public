@@ -28,6 +28,7 @@ Jamy R.M. Liu (尤瑞美) is listed in the TAH Foundation Who’s Who Taiwanese 
 
 
 ## Sources
+- [TAH #73 encyclopedia: 73. Jamy R.M. Liu 尤瑞美](https://taiwaneseamericanhistory.org/73-jamy-r-m-liu-%e5%b0%a4%e7%91%9e%e7%be%8e/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jamy-r-m-liu/)
 
 ## Related Pages

@@ -29,6 +29,7 @@ Assistant, Associate, Senior Scientist and Section Head
 
 
 ## Sources
+- [TAH #591 encyclopedia: 591. Jang-Yen Wu 吳政彥 /2015/09](https://taiwaneseamericanhistory.org/591-jang-yen-wu-%e5%90%b3%e6%94%bf%e5%bd%a5-201509/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jang-yen-wu/)
 
 ## Related Pages

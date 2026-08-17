@@ -26,6 +26,8 @@ Born and raised in Arlington, Texas, Jonathan started his piano studies with Car
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #375 encyclopedia: 375. Jonathan Tsay 蔡宇明, Pianist / 2016/11](https://taiwaneseamericanhistory.org/musician375/)
+- [TAH #1413 encyclopedia: 1413. Jonathan Tsay 蔡宇明 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1413/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jonathan-tsay/)
 
 ## Related Pages

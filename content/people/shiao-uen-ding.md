@@ -26,6 +26,8 @@ A native of Taiwan, pianist Shiau-uen Ding is an energetic performer of traditio
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #92 encyclopedia: 92. Shiao-Uen Ding丁曉雯](https://taiwaneseamericanhistory.org/92-dr-shiao-uen-ding%e4%b8%81%e6%9b%89%e9%9b%af%e5%8d%9a%e5%a3%ab-piaonist/)
+- [TAH #64 encyclopedia: 64. Shiau-uen Ding 丁曉雯, Pianist](https://taiwaneseamericanhistory.org/64-shiau-uen-ding-%e4%b8%81%e6%9b%89%e9%9b%af-piano/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shiao-uen-ding/)
 
 ## Related Pages

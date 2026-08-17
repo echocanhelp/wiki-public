@@ -27,6 +27,8 @@ Shin-Ruh Liu (劉新祿) is listed in the TAH Foundation Who’s Who Taiwanese A
 
 
 ## Sources
+- [TAH #999 encyclopedia: 999. Shin-Ruh Liu 劉新祿 / 2016/05](https://taiwaneseamericanhistory.org/whoswho999/)
+- [TAH #57 encyclopedia: 57. 劉新祿 Shin-Ruh Liu /2015/12](https://taiwaneseamericanhistory.org/57-shin-ruh-liu-201512/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shin-ruh-liu/)
 
 ## Related Pages

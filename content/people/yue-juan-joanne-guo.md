@@ -27,6 +27,7 @@ Yue-Juan Joanne Guo (郭玥娟) is listed in the TAH Foundation Who’s Who Taiw
 
 
 ## Sources
+- [TAH #2170 encyclopedia: 2170.  Yue-Juan (Joanne) Guo 郭玥娟](https://taiwaneseamericanhistory.org/whos-who-2170-yue-juan-guo/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yue-juan-joanne-guo/)
 
 ## Related Pages

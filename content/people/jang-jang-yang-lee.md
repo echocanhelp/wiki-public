@@ -30,6 +30,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #1917 encyclopedia: 1917. Jang Jang Yang Lee 李楊娟娟](https://taiwaneseamericanhistory.org/whos-who-1917-jang-jang-yang-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jang-jang-yang-lee/)
 
 ## Related Pages

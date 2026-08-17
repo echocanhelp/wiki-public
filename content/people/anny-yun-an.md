@@ -26,6 +26,8 @@ Taiwanese pianist Anny Yun-An Chen 陳韻安 is an active soloist and chamber mu
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #220 encyclopedia: 220. Anny Yun-An Chen 陳韻安, Pianist / 2015/06](https://taiwaneseamericanhistory.org/220-anny-yun-an-chen-%e9%99%b3%e9%9f%bb%e5%ae%89-pianist-201506/)
+- [TAH #456 encyclopedia: 456. Anny Yun-An 陳韻安 / 2015/06](https://taiwaneseamericanhistory.org/456-anny-yun-an-%e9%99%b3%e9%9f%bb%e5%ae%89-201506/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/anny-yun-an/)
 
 ## Related Pages

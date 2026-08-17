@@ -29,6 +29,9 @@ Wellington (Welly) Yang 楊呈偉 – History of Taiwanese American (T.A. Archiv
 
 
 ## Sources
+- [TAH #238 encyclopedia: 238. Wellington “Welly” Yang 楊呈偉](https://taiwaneseamericanhistory.org/ota-238/)
+- [TAH #24 encyclopedia: 24. Welly Yang：Finding Home (楊呈偉：尋找心家園) by TUF (台灣人聯合基金會), Los Angeles, CA on 07](https://taiwaneseamericanhistory.org/concerts24/)
+- [TAH #112 encyclopedia: 112. Wellington (Welly) Yang 楊呈偉](https://taiwaneseamericanhistory.org/whos-who-112-wellington-yang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/wellington-welly-yang/)
 
 ## Related Pages

@@ -28,6 +28,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #2033 encyclopedia: 2033. Dr. Jen-Tai Tsai 蔡仁泰博士](https://taiwaneseamericanhistory.org/whos-who-2033-jen-tai-tsai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-jen-tai-tsai/)
 
 ## Related Pages

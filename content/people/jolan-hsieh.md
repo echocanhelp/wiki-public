@@ -26,6 +26,7 @@ Jolan Hsieh (謝若蘭) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1180 encyclopedia: 1180. Jolan Hsieh 謝若蘭 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1180/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jolan-hsieh/)
 
 ## Related Pages

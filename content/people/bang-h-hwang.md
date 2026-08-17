@@ -28,6 +28,7 @@ Assistant Professor of Anatomy
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #834 encyclopedia: 834. Bang H. Hwang 黃邦雄 / 02/2016](https://taiwaneseamericanhistory.org/whos-bang-h-hwang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/bang-h-hwang/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ Ian Lin (林毅安) is listed in the TAH Foundation Who’s Who Taiwanese Americ
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1546 encyclopedia: 1546. Ian Lin  林毅安 / 2017/03](https://taiwaneseamericanhistory.org/whoswho1546/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ian-lin/)
 
 ## Related Pages

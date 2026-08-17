@@ -26,6 +26,7 @@ Emily Muramoto is a sophomore in high school at the Orange County School of the 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #331 encyclopedia: 331. Emily Muramoto 蔡蕙宇, Vocalist / 2016/02](https://taiwaneseamericanhistory.org/331-emily-muramoto-vocalist-201602/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/emily-muramoto/)
 
 ## Related Pages

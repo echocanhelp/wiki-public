@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2210 encyclopedia: 2210. Ting-Lan Ma 馬鼎嵐](https://taiwaneseamericanhistory.org/whos-who-2210-ting-lan-ma/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ting-lan-ma/)
 
 ## Related Pages

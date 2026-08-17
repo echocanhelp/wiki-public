@@ -26,6 +26,7 @@ S. Y. Chang (張信義) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1651 encyclopedia: 1651. S. Y. Chang 張信義 / 05/2017](https://taiwaneseamericanhistory.org/whoswho1651/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/s-y-chang/)
 
 ## Related Pages

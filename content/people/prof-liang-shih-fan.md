@@ -26,6 +26,7 @@ Prof. Liang-Shih Fan 范良士教授 – History of Taiwanese American (T.A. Arc
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1799 encyclopedia: 1799. Prof. Liang-Shih Fan 范良士教授](https://taiwaneseamericanhistory.org/whos-who-1799-liang-shih-fan/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-liang-shih-fan/)
 
 ## Related Pages

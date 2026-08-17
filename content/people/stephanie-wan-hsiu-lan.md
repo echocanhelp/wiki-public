@@ -26,6 +26,8 @@ Stephanie Wan-Hsiu Lan 藍婉修 – History of Taiwanese American (T.A. Archive
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #222 encyclopedia: 222. Stephanie Wan-Hsiu Lan藍婉修,  Pianist / 2016/06](https://taiwaneseamericanhistory.org/222-stephanie-wan-hsiu-lan%e8%97%8d%e5%a9%89%e4%bf%ae-pianist-201606/)
+- [TAH #462 encyclopedia: 462. Stephanie Wan-Hsiu Lan 藍婉修 / 2015/06](https://taiwaneseamericanhistory.org/462-stephanie-wan-hsiu-lan-%e8%97%8d%e5%a9%89%e4%bf%ae-201506/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/stephanie-wan-hsiu-lan/)
 
 ## Related Pages

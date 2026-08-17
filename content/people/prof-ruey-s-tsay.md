@@ -26,6 +26,7 @@ H.G.B. Alexander Professor of Econometrics & Statistics, Booth School of Busines
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1793 encyclopedia: 1793. Prof. Ruey S. Tsay 蔡瑞胸教授](https://taiwaneseamericanhistory.org/whos-who-1793-ruey-s-tsay/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-ruey-s-tsay/)
 
 ## Related Pages

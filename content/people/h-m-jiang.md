@@ -27,6 +27,7 @@ H. M. Jiang (江蕙美) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #1766 encyclopedia: 1766.  H. M. Jiang 	 江蕙美 / 07/2017](https://taiwaneseamericanhistory.org/whoswho1766/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/h-m-jiang/)
 
 ## Related Pages

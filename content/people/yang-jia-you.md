@@ -13,7 +13,7 @@ tags:
 verification_status: owner_verified
 status: published
 featured: true
-last_reviewed: 2026-08-16
+last_reviewed: 2026-08-17
 ---
 
 # Charles Yang (楊嘉猷 / Yang Jia-you)
@@ -180,9 +180,7 @@ Pages that link to **楊嘉猷** (yang-jia-you):
 
 1. [[organizations/taiwanese-american-historical-society.md|taiwanese-american-historical-society]]
 
-### Sources
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/charles-yang/)
- (2)
+### Sources (2)
 
 1. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
 2. [[sources/2017-tahs-publication.md|2017-tahs-publication]]

@@ -26,6 +26,8 @@ Taiwanese-American cellist Grace Ho is an active soloist and chamber musician in
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #415 encyclopedia: 415. Grace Mei-En Ho何美恩, Cellist / 07/2017](https://taiwaneseamericanhistory.org/musician415/)
+- [TAH #1758 encyclopedia: 1758. Grace Mei-En Ho 何美恩](https://taiwaneseamericanhistory.org/whos-who-1758-grace-mei-en-ho/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/grace-mei-en-ho/)
 
 ## Related Pages

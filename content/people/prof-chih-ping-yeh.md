@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #172 encyclopedia: 172. Prof. Chih-Ping Yeh 葉治平教授](https://taiwaneseamericanhistory.org/172-prof-chih-ping-yeh/)
+- [TAH #789 encyclopedia: 789. Prof. Chih-Ping Yeh 葉治平教授](https://taiwaneseamericanhistory.org/whos-who-789-chih-ping-yeh/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-chih-ping-yeh/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #52 encyclopedia: 52. Prof. Je-Chin Han 黃界清教授](https://taiwaneseamericanhistory.org/52-prof-je-chin-han/)
+- [TAH #604 encyclopedia: 604. Prof. Je-Chin Han 黃界清教授](https://taiwaneseamericanhistory.org/whos-who-604-je-chin-han/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-je-chin-han/)
 
 ## Related Pages

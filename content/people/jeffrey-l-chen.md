@@ -26,6 +26,7 @@ Jeffrey L. Chen (陳大立) is listed in the TAH Foundation Who’s Who Taiwanes
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1355 encyclopedia: 1355. Jeffrey L. Chen 陳大立 / 2016/11](https://taiwaneseamericanhistory.org/whsosho1355/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jeffrey-l-chen/)
 
 ## Related Pages

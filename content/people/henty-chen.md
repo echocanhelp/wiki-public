@@ -28,6 +28,7 @@ Henty Chen (陳華山) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #461 encyclopedia: 461. Henty Chen 陳華山/2015/06](https://taiwaneseamericanhistory.org/461-henty-chen-%e9%99%b3%e8%8f%af%e5%b1%b1201506/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/henty-chen/)
 
 ## Related Pages

@@ -27,6 +27,7 @@ Clinical Psychologist/Pediatric Neuropsychologist
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2307 encyclopedia: 2307. Prof. Chimei M. Lee 李綺梅教授](https://taiwaneseamericanhistory.org/whos-who-2307-chimei-m-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-chimei-m-lee/)
 
 ## Related Pages

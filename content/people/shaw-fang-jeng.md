@@ -29,6 +29,7 @@ Shaw Fang Jeng (鄭劭方) is listed in the TAH Foundation Who’s Who Taiwanese
 
 
 ## Sources
+- [TAH #585 encyclopedia: 585. Shaw Fang Jeng 鄭劭方 / 2015/09](https://taiwaneseamericanhistory.org/585-shaw-fang-jeng-%e9%84%ad%e5%8a%ad%e6%96%b9-201509/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shaw-fang-jeng/)
 
 ## Related Pages

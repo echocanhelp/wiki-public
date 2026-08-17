@@ -26,6 +26,7 @@ Associate Professor of Neurosurgery, Vice Chair of Research and Academic Develop
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1883 encyclopedia: 1883. Prof. Clark Chen 陳經宗教授](https://taiwaneseamericanhistory.org/whos-who-1883-clark-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-clark-chen/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ George Ho (何震輝) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1503 encyclopedia: 1503. George Ho 何震輝/ 2017/02](https://taiwaneseamericanhistory.org/whoswho1503/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/george-ho/)
 
 ## Related Pages

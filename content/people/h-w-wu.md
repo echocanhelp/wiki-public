@@ -27,6 +27,7 @@ H. W. Wu (吳宏為) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 
 
 ## Sources
+- [TAH #1419 encyclopedia: 1419. H. W. Wu 吳宏為 / 2016/12](https://taiwaneseamericanhistory.org/whoswho1419/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/h-w-wu/)
 
 ## Related Pages

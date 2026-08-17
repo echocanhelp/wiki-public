@@ -28,6 +28,8 @@ A native of Taiwan, Tai-Cheng Chen began playing the piano at the age of six; by
 
 
 ## Sources
+- [TAH #99 encyclopedia: 99. Dr. Tai-Cheng Chen 陳泰成博士](https://taiwaneseamericanhistory.org/99-dr-tai-cheng-chen/)
+- [TAH #111 encyclopedia: 111. Dr. Tai Chin Chen 陳泰成博士 / The First Ph. D. Holder in Music from Julian Scho](https://taiwaneseamericanhistory.org/111-dr-tai-chin-chen-%e9%99%b3%e6%b3%b0%e6%88%90%e5%8d%9a%e5%a3%ab-the-first-ph-d-holder-in-music-from-julian-school-1984/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tai-cheng-chen/)
 
 ## Related Pages

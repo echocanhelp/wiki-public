@@ -28,6 +28,7 @@ Martha Wang (鄞美珠) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #64 encyclopedia: 64. Martha Wang 鄞美珠](https://taiwaneseamericanhistory.org/64-mrs-martha-wang-%e9%84%9e%e7%be%8e%e7%8f%a0%e5%a5%b3%e5%a3%ab/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/martha-wang/)
 
 ## Related Pages

@@ -29,6 +29,8 @@ B. H. Chen (陳炳煌) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #1 encyclopedia: 1. Bing-Huang Chen (陳炳煌)](https://taiwaneseamericanhistory.org/b-h-chen/)
+- [TAH #1292 encyclopedia: 1292. B. H. Chen 陳炳煌 /2016/09](https://taiwaneseamericanhistory.org/whoswho1292/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/b-h-chen/)
 
 ## Related Pages

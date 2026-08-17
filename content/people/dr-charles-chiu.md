@@ -27,6 +27,7 @@ Internal medicine residency, infectious diseases fellowship & Postdoctoral Resea
 
 
 ## Sources
+- [TAH #2250 encyclopedia: 2250. Dr. Charles Chiu 邱華彥醫師](https://taiwaneseamericanhistory.org/whos-who-2250-charles-chiu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-charles-chiu/)
 
 ## Related Pages

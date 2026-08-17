@@ -27,6 +27,7 @@ Jack W. Su (蘇文杰) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #330 encyclopedia: 330. Jack W. Su 蘇文杰 / 2015/03](https://taiwaneseamericanhistory.org/330-jack-w-su-%e8%98%87%e6%96%87%e6%9d%b0/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jack-w-su/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ Donald Tsai (蔡豪智) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1468 encyclopedia: 1468. Donald Tsai 蔡豪智 / 2017/01](https://taiwaneseamericanhistory.org/whoswho1468/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/donald-tsai/)
 
 ## Related Pages

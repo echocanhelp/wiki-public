@@ -28,6 +28,9 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #2178 encyclopedia: 2178. Nami Yang 李淑櫻](https://taiwaneseamericanhistory.org/whos-who-2178-nami-yang/)
+- [TAH #6 encyclopedia: 6. Nami Yang 李淑櫻](https://taiwaneseamericanhistory.org/6-nami-yang/)
+- [TAH #4 encyclopedia: 4. 李淑櫻 Nami Yang](https://taiwaneseamericanhistory.org/artist4-nami-yang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/nami-yang/)
 
 ## Related Pages

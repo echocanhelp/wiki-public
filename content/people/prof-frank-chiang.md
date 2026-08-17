@@ -27,6 +27,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #185 encyclopedia: 185. Prof. Frank Chiang 江永芳教授](https://taiwaneseamericanhistory.org/185-prof-frank-chiang/)
+- [TAH #768 encyclopedia: 768. Prof. Frank Chiang 江永芳教授](https://taiwaneseamericanhistory.org/whos-who-768-frank-chiang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-frank-chiang/)
 
 ## Related Pages

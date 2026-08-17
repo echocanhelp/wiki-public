@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #524 encyclopedia: 524. Ching-Fen Lin 張靜芬 / 2015/08](https://taiwaneseamericanhistory.org/524-ching-fen-lin-%e5%bc%b5%e9%9d%9c%e8%8a%ac-201508/)
+- [TAH #255 encyclopedia: 255. 張靜芬 Ching-Fen Lin, Vocal / 2015/08](https://taiwaneseamericanhistory.org/255-%e5%bc%b5%e9%9d%9c%e8%8a%ac-ching-fen-lin-vocal-201508/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ching-fen-lin/)
 
 ## Related Pages

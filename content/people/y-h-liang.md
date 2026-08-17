@@ -27,6 +27,7 @@ Y. H. Liang (梁琰華) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #1471 encyclopedia: 1471. Y. H. Liang 梁琰華 / 2017/01](https://taiwaneseamericanhistory.org/whoswho1471/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/y-h-liang/)
 
 ## Related Pages

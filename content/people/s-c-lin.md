@@ -26,6 +26,7 @@ S. C. Lin (林淑珠) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1204 encyclopedia: 1204. S. C. Lin 林淑珠 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1204/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/s-c-lin/)
 
 ## Related Pages

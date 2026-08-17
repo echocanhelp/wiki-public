@@ -29,6 +29,7 @@ Professor
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #744 encyclopedia: 744. Chin-Hui Lee 李錦輝 2015/12](https://taiwaneseamericanhistory.org/744-chin-hui-lee-%e6%9d%8e%e9%8c%a6%e8%bc%9d201512/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chin-hui-lee/)
 
 ## Related Pages

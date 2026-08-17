@@ -27,6 +27,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #1425 encyclopedia: 1425. 須藤正子 / 1216/12](https://taiwaneseamericanhistory.org/whoswho1425/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e9%a0%88%e8%97%a4%e6%ad%a3%e5%ad%90/)
 
 ## Related Pages

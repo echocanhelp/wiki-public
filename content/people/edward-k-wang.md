@@ -29,6 +29,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #2136 encyclopedia: 2136. Edward K Wang 王凱廷](https://taiwaneseamericanhistory.org/whos-who-2136-edward-k-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/edward-k-wang/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ Monty Wang (王興山) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1356 encyclopedia: 1356.  Monty Wang 王興山 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1356/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/monty-wang/)
 
 ## Related Pages

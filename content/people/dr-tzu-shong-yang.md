@@ -29,6 +29,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #2026 encyclopedia: 2026. Dr. Tzu-Shong Yang 楊次雄醫師](https://taiwaneseamericanhistory.org/whos-who-2026-tzu-shong-yang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-tzu-shong-yang/)
 
 ## Related Pages

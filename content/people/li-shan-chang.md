@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1818 encyclopedia: 1818. Li-Shan Chang 張力山](https://taiwaneseamericanhistory.org/whos-who-1818-li-shan-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/li-shan-chang/)
 
 ## Related Pages

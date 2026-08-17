@@ -26,6 +26,8 @@ Bonnie Yang is a native of Taichung, Taiwan. She graduated from Shih-Chien Home 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #257 encyclopedia: 257. Bonnie Yang 陳佳芬 / 2015/02](https://taiwaneseamericanhistory.org/257-bonnie-yang-%e9%99%b3%e4%bd%b3%e8%8a%ac-201502/)
+- [TAH #141 encyclopedia: 141. Bonnie Yang 陳佳芬, Pianist / 2015/02](https://taiwaneseamericanhistory.org/141-bonnie-yang-%e9%99%b3%e4%bd%b3%e8%8a%ac-pianist-201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/bonnie-yang/)
 
 ## Related Pages

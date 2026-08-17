@@ -30,6 +30,8 @@ An accomplished opera baritone, Mr. Jonathan Wu graduated from the Chinese Cultu
 
 
 ## Sources
+- [TAH #201 encyclopedia: 201. Jonathan H. Wu 吳顯明 /2015/01](https://taiwaneseamericanhistory.org/201-jonathan-h-wu-%e5%90%b3%e9%a1%af%e6%98%8e-201501/)
+- [TAH #110 encyclopedia: 110. Jonathan H. Wu 吳顯明, Baritone / 2015/01](https://taiwaneseamericanhistory.org/110-jonathan-h-wu-%e5%90%b3%e9%a1%af%e6%98%8e-baritone-201501/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jonathan-h-wu/)
 
 ## Related Pages

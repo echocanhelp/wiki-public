@@ -27,6 +27,7 @@ Dr. Chun C Tsai (蔡俊晴醫師) is listed in the TAH Foundation Who’s Who Ta
 
 
 ## Sources
+- [TAH #1968 encyclopedia: 1968. Dr. Chun C Tsai 蔡俊晴醫師](https://taiwaneseamericanhistory.org/whos-who-1968-chun-c-tsai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-chun-c-tsai/)
 
 ## Related Pages

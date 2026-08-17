@@ -27,6 +27,8 @@ Samuel S. Cheung has performed as an accompanist in recitals at Carnegie Hall, M
 
 
 ## Sources
+- [TAH #1120 encyclopedia: 1120. Samuel S. Cheung 張詩賢 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1120/)
+- [TAH #109 encyclopedia: 109. Samuel S. Cheung張詩賢,  pianist, Accompanist / 2015/01](https://taiwaneseamericanhistory.org/musician109/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/samuel-s-cheung/)
 
 ## Related Pages

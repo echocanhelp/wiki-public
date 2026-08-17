@@ -28,6 +28,7 @@ Dr. Po-Fang (Philip) Hsieh 謝伯芳博士 – History of Taiwanese American (T.
 
 
 ## Sources
+- [TAH #2318 encyclopedia: 2318. Dr. Po-Fang (Philip) Hsieh 謝伯芳博士](https://taiwaneseamericanhistory.org/whos-who-2318-po-fang-hsieh/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-po-fang-philip-hsieh/)
 
 ## Related Pages

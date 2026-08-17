@@ -27,6 +27,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #1298 encyclopedia: 1298. Hui-Chi Connally 徐慧姬/ 2016/10](https://taiwaneseamericanhistory.org/whoswho1298/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hui-chi-connally/)
 
 ## Related Pages

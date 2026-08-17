@@ -26,6 +26,7 @@ Dr. Po-Chun Chen (陳柏均博士) is listed in the TAH Foundation Who’s Who T
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2146 encyclopedia: 2146. Dr. Po-Chun Chen 陳柏均博士](https://taiwaneseamericanhistory.org/whos-who-2146-po-chun-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-po-chun-chen/)
 
 ## Related Pages

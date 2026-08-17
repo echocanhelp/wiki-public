@@ -26,6 +26,7 @@ C. Y. Chang (張謙益) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1418 encyclopedia: 1418. C. Y. Chang 張謙益 / 2016/12](https://taiwaneseamericanhistory.org/whoswho1418/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-y-chang/)
 
 ## Related Pages

@@ -29,6 +29,8 @@ For more bio information, please click link in Who’s Who: 971. Cheng-I (Jim) Y
 
 
 ## Sources
+- [TAH #62 encyclopedia: 62. 楊正義 Cheng-I (Jim) Young](https://taiwaneseamericanhistory.org/atists62-cheng-i-jim-young/)
+- [TAH #971 encyclopedia: 971. Cheng-I (Jim) Young 楊正義 / 2016/05](https://taiwaneseamericanhistory.org/whoswho971/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jim-young/)
 
 ## Related Pages

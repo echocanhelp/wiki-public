@@ -30,6 +30,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #9 encyclopedia: 9. Tim Wu 吳修銘 in New York](https://taiwaneseamericanhistory.org/tim-wu/)
+- [TAH #118 encyclopedia: 118. Tim Wu 吳修銘](https://taiwaneseamericanhistory.org/whos-who-118-tim-wu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tim-wu/)
 
 ## Related Pages

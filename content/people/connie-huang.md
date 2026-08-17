@@ -27,6 +27,7 @@ Connie Huang (黃康妮) is listed in the TAH Foundation Who’s Who Taiwanese A
 
 
 ## Sources
+- [TAH #1242 encyclopedia: 1242. Connie Huang 黃康妮 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1242/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/connie-huang/)
 
 ## Related Pages

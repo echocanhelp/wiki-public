@@ -28,6 +28,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #988 encyclopedia: 988. Kim Wang-Neal 王劭文律師](https://taiwaneseamericanhistory.org/whos-who-988-kim-wang-neal/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kim-wang-neal/)
 
 ## Related Pages

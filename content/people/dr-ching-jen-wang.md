@@ -28,6 +28,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #1666 encyclopedia: 1666. Dr. Ching-Jen Wang 王清貞醫師](https://taiwaneseamericanhistory.org/whos-who-1666-ching-jen-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-ching-jen-wang/)
 
 ## Related Pages

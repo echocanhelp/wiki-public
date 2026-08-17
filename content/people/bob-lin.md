@@ -29,6 +29,7 @@ Bob Lin (林志文) is listed in the TAH Foundation Who’s Who Taiwanese Americ
 
 
 ## Sources
+- [TAH #297 encyclopedia: 297. Bob Lin 林志文/2015/02](https://taiwaneseamericanhistory.org/297-bob-lin-%e6%9e%97%e5%bf%97%e6%96%87201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/bob-lin/)
 
 ## Related Pages

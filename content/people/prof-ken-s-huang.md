@@ -28,6 +28,10 @@ Master of Arts (MA), Drawing, School of Art and Art History, University of Iowa,
 
 
 ## Sources
+- [TAH #162 encyclopedia: 162. Prof. Ken S. Huang 黃根深教授](https://taiwaneseamericanhistory.org/162-prof-ken-s-huang/)
+- [TAH #128 encyclopedia: 128. Prof. Ken Huang (黃根深教授) in Taiwanese American Conference / West Coast (美西台灣](https://taiwaneseamericanhistory.org/photo-albums-activities-128/)
+- [TAH #308 encyclopedia: 308. Prof. Ken S. Huang 黃根深教授 / The first art professor in the U. S. universitie](https://taiwaneseamericanhistory.org/ff308/)
+- [TAH #857 encyclopedia: 857. Prof. Ken S. Huang 黃根深教授](https://taiwaneseamericanhistory.org/whos-who-857-ken-s-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-ken-s-huang/)
 
 ## Related Pages

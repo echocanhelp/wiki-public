@@ -29,6 +29,10 @@ Prof. Chen-Chong Lin 林建中教授 – History of Taiwanese American (T.A. Arc
 
 
 ## Sources
+- [TAH #5 encyclopedia: 5. Prof. Chen-Chong Lin (林建中教授)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-5/)
+- [TAH #21 encyclopedia: 21. Prof. Chen-Chong Lin 林建中教授](https://taiwaneseamericanhistory.org/21-prof-chen-chong-lin/)
+- [TAH #20 encyclopedia: 20. Prof. Chen-Chong Lin 林建中教授](https://taiwaneseamericanhistory.org/pride20/)
+- [TAH #1987 encyclopedia: 1987. Prof. Chen-Chong Lin 林建中教授](https://taiwaneseamericanhistory.org/whos-who-1987-chen-chong-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-chen-chong-lin/)
 
 ## Related Pages

@@ -31,6 +31,7 @@ Organized D.C. Area Taiwanese Association (同鄉會) in 1972, independent from 
 
 
 ## Sources
+- [TAH #309 encyclopedia: 309. Dr. Donald C.J. Chen 陳哲仁醫師 / The first private medical practice. Ear, Nose ](https://taiwaneseamericanhistory.org/ff309/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/donald-c-j-chen/)
 
 ## Related Pages

@@ -27,6 +27,7 @@ M. K. Wei (魏妙圭) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 
 
 ## Sources
+- [TAH #1066 encyclopedia: 1066. M. K. Wei 魏妙圭 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1065/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/m-k-wei/)
 
 ## Related Pages

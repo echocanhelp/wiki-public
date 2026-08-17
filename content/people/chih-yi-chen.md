@@ -26,6 +26,8 @@ Taiwanese pianist Chih-Yi Chen’s versatile qualities as a collaborative pianis
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #305 encyclopedia: 305. Chih-Yi Chen 陳志毅, Pianist / 2015/10](https://taiwaneseamericanhistory.org/305-chih-yi-chen-%e9%99%b3%e5%bf%97%e6%af%85-pianist-201510/)
+- [TAH #675 encyclopedia: 675. Chih-Yi Chen 陳志毅/ 2015/10](https://taiwaneseamericanhistory.org/675-h-yi-chen-%e9%99%b3%e5%bf%97%e6%af%85-201510/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chih-yi-chen/)
 
 ## Related Pages

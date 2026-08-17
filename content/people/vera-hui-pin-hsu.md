@@ -26,6 +26,8 @@ Dr. Vera Hui-pin Hsu is a pianist/conductor and the winner of the 2009 Internati
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #312 encyclopedia: 312. Vera Hui-pin Hsu  許惠品 / 2015/02](https://taiwaneseamericanhistory.org/312-vera-hui-pin-hsu-%e8%a8%b1%e6%83%a0%e5%93%81-201502/)
+- [TAH #154 encyclopedia: 154. Vera Hui-pin Hsu  許惠品  Conductor/Pianist / 2015/02](https://taiwaneseamericanhistory.org/154-vera-hui-pin-hsu-%e8%a8%b1%e6%83%a0%e5%93%81-conductorpiani-201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/vera-hui-pin-hsu/)
 
 ## Related Pages

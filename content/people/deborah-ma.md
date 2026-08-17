@@ -26,6 +26,7 @@ Deborah Ma (馬佳美醫師) is listed in the TAH Foundation Who’s Who Taiwane
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2099 encyclopedia: 2099. Deborah Ma 馬佳美醫師](https://taiwaneseamericanhistory.org/whos-who-2099-deborah-ma/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/deborah-ma/)
 
 ## Related Pages

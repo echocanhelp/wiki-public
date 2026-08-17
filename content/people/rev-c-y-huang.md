@@ -29,6 +29,7 @@ Rev. C. Y. Huang (黃主義牧師) is listed in the TAH Foundation Who’s Who T
 
 
 ## Sources
+- [TAH #1855 encyclopedia: 1855. Rev. C. Y. Huang 黃主義牧師](https://taiwaneseamericanhistory.org/whos-who-1855-c-y-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rev-c-y-huang/)
 
 ## Related Pages

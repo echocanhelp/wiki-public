@@ -26,6 +26,8 @@ As a doctoral program in-progress student at the College-Conservatory of Music o
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #645 encyclopedia: 645. Wei-Shuan Yu 尤韋琁 / 2015/10](https://taiwaneseamericanhistory.org/646-wei-shuan-yu-%e5%b0%a4%e9%9f%8b%e7%90%81-201510/)
+- [TAH #296 encyclopedia: 296. Wei-Shuan Yu 尤韋琁 Cellist/ 2015/10](https://taiwaneseamericanhistory.org/297-wei-shuan-yu-%e5%b0%a4%e9%9f%8b%e7%90%81-201510/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/wei-shuan-yu/)
 
 ## Related Pages

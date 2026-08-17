@@ -29,6 +29,9 @@ Chi-Jen Christopher Chung 鍾啓仁 – History of Taiwanese American (T.A. Arch
 
 
 ## Sources
+- [TAH #241 encyclopedia: 241. Chi-Jen Christopher Chung 鍾啓仁](https://taiwaneseamericanhistory.org/ota-241/)
+- [TAH #353 encyclopedia: 353. Chi-Jen Christopher Chung 鍾啓仁](https://taiwaneseamericanhistory.org/whos-who-353-chi-jen-chung/)
+- [TAH #92 encyclopedia: 92. Chijen Christopher Chung 鍾啓仁, Cellist and Conductor/2014/12](https://taiwaneseamericanhistory.org/92-chijen-christopher-chung-%e9%8d%be%e5%95%93%e4%bb%81-cellist-and-conductor/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chi-jen-christopher-chung/)
 
 ## Related Pages

@@ -27,6 +27,8 @@ Whe-Lan Wu Detrick (迪惠蘭) is listed in the TAH Foundation Who’s Who Taiwa
 
 
 ## Sources
+- [TAH #78 encyclopedia: 78. Collection of Whenlan Detrick 迪惠蘭](https://taiwaneseamericanhistory.org/78-collection-of-whenlan-detrick/)
+- [TAH #1535 encyclopedia: 1535. Whe-Lan Wu Detrick 迪惠蘭 / 2017/02](https://taiwaneseamericanhistory.org/whoswho-whelan-wu-detrick/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/whe-lan-wu-detrick/)
 
 ## Related Pages

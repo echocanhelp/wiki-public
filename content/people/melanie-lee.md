@@ -29,6 +29,9 @@ Accomplishment
 
 
 ## Sources
+- [TAH #211 encyclopedia: 211. Melanie Lynn Lee 李玫蘭](https://taiwaneseamericanhistory.org/211/)
+- [TAH #1880 encyclopedia: 1880.  Melanie Lee 李玫蘭](https://taiwaneseamericanhistory.org/whos-who-1880-melanie-lee/)
+- [TAH #337 encyclopedia: 337. Melanie Lynn Lee (李玫蘭) / The First Principal / Founder of A High School : Q](https://taiwaneseamericanhistory.org/ff337/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/melanie-lee/)
 
 ## Related Pages

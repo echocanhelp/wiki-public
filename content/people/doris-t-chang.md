@@ -26,6 +26,7 @@ Doris T. Chang (張庭寧) is listed in the TAH Foundation Who’s Who Taiwanese
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1188 encyclopedia: 1188. Doris T. Chang  張庭寧 / 2016/04](https://taiwaneseamericanhistory.org/whoswho1188/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/doris-t-chang/)
 
 ## Related Pages

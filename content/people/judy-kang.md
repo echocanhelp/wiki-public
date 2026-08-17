@@ -26,6 +26,8 @@ Taiwanese-American cellist, Judy Kang, launched her career with a performance fo
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #126 encyclopedia: 126. JUDY KANG 康瑋倫, CELLIST AND PIANIST / 2015/01](https://taiwaneseamericanhistory.org/126-judy-kang-%e5%ba%b7%e7%91%8b%e5%80%ab-cellist-and-pianist-201501/)
+- [TAH #233 encyclopedia: 233. JUDY KANG 康瑋倫 / 2015/01](https://taiwaneseamericanhistory.org/233-judy-kang-%e5%ba%b7%e7%91%8b%e5%80%ab-201501/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/judy-kang/)
 
 ## Related Pages

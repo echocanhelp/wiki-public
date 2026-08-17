@@ -26,6 +26,7 @@ Prof. Chung-Cheng Hsieh 謝中誠教授 – History of Taiwanese American (T.A. 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2004 encyclopedia: 2004. Prof. Chung-Cheng Hsieh 謝中誠教授](https://taiwaneseamericanhistory.org/whos-who-2004-chung-cheng-hsieh/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-chung-cheng-hsieh/)
 
 ## Related Pages

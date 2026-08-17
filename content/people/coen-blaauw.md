@@ -27,6 +27,7 @@ For more information, please click link :My Stories >>>464. 爲何我在FAPA ? /
 
 
 ## Sources
+- [TAH #806 encyclopedia: 806. Coen Blaauw 昆布勞 / 2016/02](https://taiwaneseamericanhistory.org/whos806-cone-blaauw/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/coen-blaauw/)
 
 ## Related Pages

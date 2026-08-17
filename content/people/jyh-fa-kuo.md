@@ -29,6 +29,7 @@ Jyh-Fa Kuo (郭智化) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #1322 encyclopedia: 1322. Jyh – Fa Kuo 郭智化 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1322/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jyh-fa-kuo/)
 
 ## Related Pages

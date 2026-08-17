@@ -26,6 +26,7 @@ Justin Lin (林詣彬) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #166 encyclopedia: 166. Justin Lin 林詣彬](https://taiwaneseamericanhistory.org/166-justin-lin-%e6%9e%97%e8%a9%a3%e5%bd%ac/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/justin-lin/)
 
 ## Related Pages

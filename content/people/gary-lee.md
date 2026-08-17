@@ -28,6 +28,7 @@ Founding Chairman, Chief Executive Officer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #892 encyclopedia: 892. Gary Lee 李桂銳 /2016/03](https://taiwaneseamericanhistory.org/whos892-gary-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/gary-lee/)
 
 ## Related Pages

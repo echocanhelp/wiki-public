@@ -29,6 +29,9 @@ Accomplishment
 
 
 ## Sources
+- [TAH #67 encyclopedia: 67. Dr. Daniel C. Hsu 許正雄醫師](https://taiwaneseamericanhistory.org/67-dr-daniel-c-hsu/)
+- [TAH #88 encyclopedia: 88. Daniel Hsu, D.M.D 許正雄醫師 (NATMA Southern California Chapter Annual Convention](https://taiwaneseamericanhistory.org/videos88/)
+- [TAH #726 encyclopedia: 726. Dr. Daniel C. Hsu 許正雄醫師](https://taiwaneseamericanhistory.org/whos-who-726-daniel-c-hsu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-daniel-c-hsu/)
 
 ## Related Pages

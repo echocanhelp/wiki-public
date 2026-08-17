@@ -28,6 +28,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #1775 encyclopedia: 1775. Kevin Wu 吳凱文](https://taiwaneseamericanhistory.org/whos-who-1775-kevin-wu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kevin-wu/)
 
 ## Related Pages

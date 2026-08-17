@@ -28,6 +28,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #106 encyclopedia: 106. J. H. Justina Shieh 謝節惠](https://taiwaneseamericanhistory.org/106-j-h-justina-shieh/)
+- [TAH #1217 encyclopedia: 1217. J. H. (Justina) Shieh 謝節惠](https://taiwaneseamericanhistory.org/whos-who-1217-j-h-shieh/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/j-h-justina-shieh/)
 
 ## Related Pages

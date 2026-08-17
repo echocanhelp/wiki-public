@@ -30,6 +30,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #2201 encyclopedia: 2201. Mei-Li Yang 楊美麗](https://taiwaneseamericanhistory.org/whos-who-2201-mei-li-yang/)
+- [TAH #37 encyclopedia: 37. Mei-Li Yang 楊美麗](https://taiwaneseamericanhistory.org/37-mei-li-yang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mei-li-yang/)
 
 ## Related Pages

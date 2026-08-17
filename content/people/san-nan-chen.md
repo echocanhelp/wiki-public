@@ -26,6 +26,8 @@ Ms. San-Nan came to Intercultural with a BA in elementary education from the Nat
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #215 encyclopedia: 215. San-Nan Chen 陳珊喃, Pianist/2015/06](https://taiwaneseamericanhistory.org/215-san-nan-chen-%e9%99%b3%e7%8f%8a%e5%96%83-pianist201506/)
+- [TAH #451 encyclopedia: 451. San-Nan Chen 陳珊喃 / 2015/06](https://taiwaneseamericanhistory.org/451-san-nan-chen-%e9%99%b3%e7%8f%8a%e5%96%83-201506/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/san-nan-chen/)
 
 ## Related Pages

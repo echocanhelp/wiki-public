@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1826 encyclopedia: 1826. Dr. Fu-Tong Liu 劉扶東博士](https://taiwaneseamericanhistory.org/whos-who-1826-fu-tong-liu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-fu-tong-liu/)
 
 ## Related Pages

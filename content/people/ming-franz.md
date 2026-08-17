@@ -27,6 +27,8 @@ Ming Franz was born in the southern Taiwan, grew up in a sugar plantation where 
 
 
 ## Sources
+- [TAH #998 encyclopedia: 998.  Ming Franz  林明姝 / 2016/05](https://taiwaneseamericanhistory.org/whoswho908/)
+- [TAH #38 encyclopedia: 38. Ming Franz 林明姝  /2015/04](https://taiwaneseamericanhistory.org/38-ming-franz/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ming-franz/)
 
 ## Related Pages

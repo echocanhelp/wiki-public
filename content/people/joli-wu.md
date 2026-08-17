@@ -26,6 +26,8 @@ Joli Wu, a native of Los Angeles, California, began her viola studies at the age
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1121 encyclopedia: 1121. Joli Wu 吳昭麗 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1121/)
+- [TAH #113 encyclopedia: 113. Joli Wu 吳昭麗, Violinist/ 2015/01](https://taiwaneseamericanhistory.org/musician113/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/joli-wu/)
 
 ## Related Pages

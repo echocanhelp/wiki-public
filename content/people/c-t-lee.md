@@ -26,6 +26,7 @@ C. T. Lee (李青泰) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #974 encyclopedia: 974.  C. T. Lee 李青泰 / 2016/05](https://taiwaneseamericanhistory.org/whoswho974/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-t-lee/)
 
 ## Related Pages

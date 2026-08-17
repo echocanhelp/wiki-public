@@ -29,6 +29,7 @@ Daniel Lin (林嘉仁) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #1978 encyclopedia: 1978. Daniel Lin 林嘉仁 /12/2017](https://taiwaneseamericanhistory.org/whos-daniel-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/daniel-lin/)
 
 ## Related Pages

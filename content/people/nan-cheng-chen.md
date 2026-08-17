@@ -26,6 +26,8 @@ Recently praised for his “Beautiful Tone” by New York Concert Reviews in 201
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #516 encyclopedia: 516. Nan-Cheng Chen 陳南呈 / 2015/07](https://taiwaneseamericanhistory.org/516-nan-cheng-chen-%e9%99%b3%e5%8d%97%e5%91%88/)
+- [TAH #32 encyclopedia: 32. Nan-Cheng Chen 陳南呈, Cellist/2014/10](https://taiwaneseamericanhistory.org/32-nan-cheng-chen-%e9%99%b3%e5%8d%97%e5%91%88-cello/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/nan-cheng-chen/)
 
 ## Related Pages

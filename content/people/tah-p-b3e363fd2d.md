@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #342 encyclopedia: 342. 陳琦瑤 / 2015/03](https://taiwaneseamericanhistory.org/whoswho342/)
+- [TAH #171 encyclopedia: 171. Ci-Yao Chen 陳琦瑤, Violinist / 2015/03](https://taiwaneseamericanhistory.org/musician171/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e9%99%b3%e7%90%a6%e7%91%a4/)
 
 ## Related Pages

@@ -30,6 +30,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #8 encyclopedia: 8. Dr. Kuang Chi Liang (梁礦琪醫師)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-8/)
+- [TAH #121 encyclopedia: 121. Dr. Kuang Chi Liang 梁礦琪醫師](https://taiwaneseamericanhistory.org/121-dr-kuang-chi-liang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-kuang-chi-liang/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ Ching-Jang Yao (姚慶章), born September 16, 1941 in Taichung, Taiwan. Graduat
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #997 encyclopedia: 997. Ching-Jang Yao  姚慶章](https://taiwaneseamericanhistory.org/whoswho907/)
+- [TAH #41 encyclopedia: 41. 姚慶章 Ching-Jang Yao/2015/04](https://taiwaneseamericanhistory.org/41-%e5%a7%9a%e6%85%b6%e7%ab%a0-ching-jang-yao201504/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ching-jang-yao/)
 
 ## Related Pages

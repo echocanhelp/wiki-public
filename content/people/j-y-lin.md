@@ -26,6 +26,7 @@ J. Y. Lin (林哲也) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1202 encyclopedia: 1202.  J. Y. Lin 林哲也 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1202/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/j-y-lin/)
 
 ## Related Pages

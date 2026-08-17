@@ -27,6 +27,8 @@ Chu C. Falling-Star (黃初娟) is listed in the TAH Foundation Who’s Who Taiw
 
 
 ## Sources
+- [TAH #1569 encyclopedia: 1569.  Chu C. Falling-Star 黃初娟 / 2017/03](https://taiwaneseamericanhistory.org/whoswho1569/)
+- [TAH #319 encyclopedia: 319. Chu C. Falling-Star 黃初娟 / 首位台裔郵局局長及郵政署經理 / 2012](https://taiwaneseamericanhistory.org/ff319/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chu-c-falling-star/)
 
 ## Related Pages

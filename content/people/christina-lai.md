@@ -29,6 +29,7 @@ Teaching Assistant of Music Dept.
 
 
 ## Sources
+- [TAH #1895 encyclopedia: 1895. Christina Lai 賴李煦煦](https://taiwaneseamericanhistory.org/whos-who-1895-christina-lai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/christina-lai/)
 
 ## Related Pages

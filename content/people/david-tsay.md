@@ -29,6 +29,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #2160 encyclopedia: 2160. Dr. David Tsay 蔡丁財博士](https://taiwaneseamericanhistory.org/whos-who-2160-david-tsay/)
+- [TAH #86 encyclopedia: 86. Dr. David Tsay 蔡丁財博士](https://taiwaneseamericanhistory.org/86-dr-david-tsay/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/david-tsay/)
 
 ## Related Pages

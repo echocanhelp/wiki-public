@@ -29,6 +29,7 @@ Yensan Simon Wang (王燕山) is listed in the TAH Foundation Who’s Who Taiwan
 
 
 ## Sources
+- [TAH #1132 encyclopedia: 1132. Yensan (Simon) Wang 王燕山 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1132/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yensan-simon-wang/)
 
 ## Related Pages

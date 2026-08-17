@@ -26,6 +26,8 @@ Lorenzo Chun-Han Chang 張淳菡 – History of Taiwanese American (T.A. Archive
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #324 encyclopedia: 324. Lorenzo Chun-Han Chang  張淳菡 /2015/03](https://taiwaneseamericanhistory.org/324-lorenzo-chun-han-chang-%e5%bc%b5%e6%b7%b3%e8%8f%a1/)
+- [TAH #167 encyclopedia: 167. Lorenzo Chun-Han Chang張淳菡，Baritone/ 2015/03](https://taiwaneseamericanhistory.org/167/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/lorenzo-chun-han-chang/)
 
 ## Related Pages

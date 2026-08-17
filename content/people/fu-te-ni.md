@@ -27,6 +27,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #1752 encyclopedia: 1752. Fu-Te Ni 倪福德](https://taiwaneseamericanhistory.org/whos-who-1752-fu-te-ni/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/fu-te-ni/)
 
 ## Related Pages

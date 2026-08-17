@@ -29,6 +29,7 @@ J. C. Hong (洪濬正) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #1777 encyclopedia: 1777. J. C. Hong 洪濬正](https://taiwaneseamericanhistory.org/whos-who-1777-j-c-hong/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/j-c-hong/)
 
 ## Related Pages

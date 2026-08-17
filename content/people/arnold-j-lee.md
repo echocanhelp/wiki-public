@@ -27,6 +27,7 @@ Arnold J. Lee (李仁旭) is listed in the TAH Foundation Who’s Who Taiwanese 
 
 
 ## Sources
+- [TAH #1317 encyclopedia: 1317. Arnold J. Lee 李仁旭 2016/10](https://taiwaneseamericanhistory.org/whoswho1317/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/arnold-j-lee/)
 
 ## Related Pages

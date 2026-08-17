@@ -26,6 +26,8 @@ Originally from Taiwan, Chien-Lun Lee is a versatile artist in New York City. Sh
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1289 encyclopedia: 1289. Clare, Chien-Lun Lee 李阡綸 / 2016/09](https://taiwaneseamericanhistory.org/whoswho1289/)
+- [TAH #366 encyclopedia: 366. Clare, Chien-Lun Lee 李阡綸, Vocalist / 2016/09](https://taiwaneseamericanhistory.org/musician366/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/clare-chien-lun-lee/)
 
 ## Related Pages

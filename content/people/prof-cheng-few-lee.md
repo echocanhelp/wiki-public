@@ -29,6 +29,9 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #70 encyclopedia: 70. Prof. Cheng-Few Lee 李正福教授](https://taiwaneseamericanhistory.org/70-prof-cheng-few-lee/)
+- [TAH #557 encyclopedia: 557. 李正福教授　美台40年教學研究及主持會議之經驗 / 李正福 /07/2017](https://taiwaneseamericanhistory.org/mystories557/)
+- [TAH #131 encyclopedia: 131. Prof. Cheng-Few Lee 李正福教授](https://taiwaneseamericanhistory.org/whos-who-131-cheng-few-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-cheng-few-lee/)
 
 ## Related Pages

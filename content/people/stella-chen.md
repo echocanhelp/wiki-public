@@ -30,6 +30,7 @@ B.S. Dept. of Adult & Continuing Education(社教系)
 
 
 ## Sources
+- [TAH #173 encyclopedia: 173. Stella Chen 陳婉真, 2014/12](https://taiwaneseamericanhistory.org/whos-who-173-stella-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/stella-chen/)
 
 ## Related Pages

@@ -27,6 +27,7 @@ Rev. Ian Cheng (鄭溢恩牧師) is listed in the TAH Foundation Who’s Who Tai
 
 
 ## Sources
+- [TAH #1727 encyclopedia: 1727. Rev. Ian Cheng 鄭溢恩牧師](https://taiwaneseamericanhistory.org/whos-who-1727-ian-cheng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rev-ian-cheng/)
 
 ## Related Pages

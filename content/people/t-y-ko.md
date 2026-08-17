@@ -27,6 +27,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #1629 encyclopedia: 1629. T. Y. Ko 柯翠園](https://taiwaneseamericanhistory.org/whos-who-1629-t-y-ko/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/t-y-ko/)
 
 ## Related Pages

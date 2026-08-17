@@ -26,6 +26,7 @@ Chiuder Hsiao (蕭秋德) is listed in the TAH Foundation Who’s Who Taiwanese 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1525 encyclopedia: 1525. Chiuder Hsiao 蕭秋德 2017/02](https://taiwaneseamericanhistory.org/whoswho1525/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chiuder-hsiao/)
 
 ## Related Pages

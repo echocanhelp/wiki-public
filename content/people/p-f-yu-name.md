@@ -26,6 +26,7 @@ P. F. Yu Name (喻鵬飛) is listed in the TAH Foundation Who’s Who Taiwanese 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #949 encyclopedia: 949. P. F. Yu Name  喻鵬飛 / 2016/04](https://taiwaneseamericanhistory.org/whoswho948/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/p-f-yu-name/)
 
 ## Related Pages

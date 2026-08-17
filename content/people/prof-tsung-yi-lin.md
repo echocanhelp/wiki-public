@@ -29,6 +29,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #1974 encyclopedia: 1974. Prof. Tsung-Yi Lin 林宗義教授](https://taiwaneseamericanhistory.org/whos-who-1974-tsung-yi-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-tsung-yi-lin/)
 
 ## Related Pages

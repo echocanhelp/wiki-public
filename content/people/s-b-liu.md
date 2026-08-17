@@ -27,6 +27,7 @@ S. B. Liu (劉西北) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 
 
 ## Sources
+- [TAH #1866 encyclopedia: 1866. S. B. Liu 劉西北](https://taiwaneseamericanhistory.org/whoswho1866/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/s-b-liu/)
 
 ## Related Pages

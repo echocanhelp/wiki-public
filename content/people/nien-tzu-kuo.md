@@ -26,6 +26,7 @@ Nien-Tzu Kuo (郭念慈) is listed in the TAH Foundation Who’s Who Taiwanese A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #405 encyclopedia: 405. Nien-Tzu Kuo 郭念慈 / 2015/05](https://taiwaneseamericanhistory.org/405-nien-tzu-kuo-%e9%83%ad%e5%bf%b5%e6%85%88-201505/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/nien-tzu-kuo/)
 
 ## Related Pages

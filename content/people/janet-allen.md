@@ -27,6 +27,7 @@ Janet Allen (安美莉) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #1276 encyclopedia: 1276.  Janet Allen安美莉 / 09/2016](https://taiwaneseamericanhistory.org/whoswho1276/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/janet-allen/)
 
 ## Related Pages

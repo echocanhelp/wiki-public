@@ -30,6 +30,7 @@ M. Wang (陳美霞) is listed in the TAH Foundation Who’s Who Taiwanese Americ
 
 
 ## Sources
+- [TAH #852 encyclopedia: 852. M. Wang 陳美霞/ 2016/02](https://taiwaneseamericanhistory.org/whos-m-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/m-wang/)
 
 ## Related Pages

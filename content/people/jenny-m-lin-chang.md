@@ -26,6 +26,8 @@ Jenny M. Lin Chang (張美華) is listed in the TAH Foundation Who’s Who Taiwa
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1045 encyclopedia: 1045.  Jenny M. Lin Chang 張美華 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1045/)
+- [TAH #13 encyclopedia: 13. 張美華 Jenny M. Lin Chang](https://taiwaneseamericanhistory.org/artist13-jenny-m-lin-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jenny-m-lin-chang/)
 
 ## Related Pages

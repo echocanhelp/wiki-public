@@ -26,6 +26,7 @@ John Hsieh (謝鎮寬) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #470 encyclopedia: 470. John Hsieh 謝鎮寬/2015/06](https://taiwaneseamericanhistory.org/470-john-hsieh-%e8%ac%9d%e9%8e%ae%e5%af%ac201506/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/john-hsieh/)
 
 ## Related Pages

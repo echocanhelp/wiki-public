@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #93 encyclopedia: 93. 陳國明](https://taiwaneseamericanhistory.org/93-%e9%99%b3%e5%9c%8b%e6%98%8e/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e9%99%b3%e5%9c%8b%e6%98%8e/)
 
 ## Related Pages

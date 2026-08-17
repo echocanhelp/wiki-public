@@ -26,6 +26,7 @@ K.H. Huang (黃國雄) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #848 encyclopedia: 848. K.H. Huang 黃國雄/ 2016/02](https://taiwaneseamericanhistory.org/848-k-h-huang-%e9%bb%83%e5%9c%8b%e9%9b%84-201602/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/k-h-huang/)
 
 ## Related Pages

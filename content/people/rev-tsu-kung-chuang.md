@@ -27,6 +27,7 @@ Rev. Tsu-Kung Chuang 莊祖鯤牧師 – History of Taiwanese American (T.A. Arc
 
 
 ## Sources
+- [TAH #1673 encyclopedia: 1673. Rev. Tsu-Kung Chuang 莊祖鯤牧師](https://taiwaneseamericanhistory.org/whos-who-1673-tsu-kung-chuang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rev-tsu-kung-chuang/)
 
 ## Related Pages

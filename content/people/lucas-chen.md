@@ -27,6 +27,7 @@ Lucas Chen (陳薰洋) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #1139 encyclopedia: 1139. Lucas Chen 陳薰洋／2016/07](https://taiwaneseamericanhistory.org/whoswho1139/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/lucas-chen/)
 
 ## Related Pages

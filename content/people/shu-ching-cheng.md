@@ -30,6 +30,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #1 encyclopedia: 1. Shu Cheng 賴淑卿](https://taiwaneseamericanhistory.org/1-shu-cheng/)
+- [TAH #882 encyclopedia: 882. Shu-ching Cheng  賴淑卿](https://taiwaneseamericanhistory.org/whos-who-882-shu-ching-cheng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shu-ching-cheng/)
 
 ## Related Pages

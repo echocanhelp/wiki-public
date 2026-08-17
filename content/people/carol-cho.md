@@ -29,6 +29,7 @@ Carol Cho (林秋菊) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 
 
 ## Sources
+- [TAH #205 encyclopedia: 205. Carol Cho 林秋菊/2015/01](https://taiwaneseamericanhistory.org/205-carol-cho/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/carol-cho/)
 
 ## Related Pages

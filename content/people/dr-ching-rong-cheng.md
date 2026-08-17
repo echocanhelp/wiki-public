@@ -26,6 +26,7 @@ Dr. Ching-Rong Cheng 鄭清榮醫師 – History of Taiwanese American (T.A. Arc
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1678 encyclopedia: 1678. Dr. Ching-Rong Cheng 鄭清榮醫師](https://taiwaneseamericanhistory.org/whos-who-1678-ching-rong-cheng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-ching-rong-cheng/)
 
 ## Related Pages

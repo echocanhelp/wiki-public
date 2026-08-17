@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #500 encyclopedia: 500. Kerina Chang 張庭瑄 / 2015/07](https://taiwaneseamericanhistory.org/500-kerina-chang-%e5%bc%b5%e5%ba%ad%e7%91%84-201507/)
+- [TAH #243 encyclopedia: 243. Kerina Chang 張庭瑄, Pianist / 2015/07](https://taiwaneseamericanhistory.org/243-kerina-chang-%e5%bc%b5%e5%ba%ad%e7%91%84-pianist-201507/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kerina-chang/)
 
 ## Related Pages

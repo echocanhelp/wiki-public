@@ -27,6 +27,7 @@ Syaru Shirley Lin (林夏如) is listed in the TAH Foundation Who’s Who Taiwan
 
 
 ## Sources
+- [TAH #1344 encyclopedia: 1344. Syaru Shirley Lin 林夏如 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1344/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/syaru-shirley-lin/)
 
 ## Related Pages

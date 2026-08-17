@@ -26,6 +26,7 @@ W.C. Lin (林文釗) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #898 encyclopedia: 898. W.C. Lin 林文釗 / 2016/03](https://taiwaneseamericanhistory.org/898-w-c-lin-%e6%9e%97%e6%96%87%e9%87%97-201603/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/w-c-lin/)
 
 ## Related Pages

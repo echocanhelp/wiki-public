@@ -27,6 +27,7 @@ Mou-ChinLin (林茂清) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #855 encyclopedia: 855. Mou-ChinLin 林茂清 / 2016/02](https://taiwaneseamericanhistory.org/855-mou-chinlin-%e6%9e%97%e8%8c%82%e6%b8%85-201602/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mou-chinlin/)
 
 ## Related Pages

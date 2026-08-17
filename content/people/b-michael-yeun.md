@@ -27,6 +27,7 @@ B. Michael Yeun (楊明昊) is listed in the TAH Foundation Who’s Who Taiwanes
 
 
 ## Sources
+- [TAH #902 encyclopedia: 902. B. (Michael) Yeun 楊明昊 / 2016/03](https://taiwaneseamericanhistory.org/902-b-michael-yeun-%e6%a5%8a%e6%98%8e%e6%98%8a-201603/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/b-michael-yeun/)
 
 ## Related Pages

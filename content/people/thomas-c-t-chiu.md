@@ -28,6 +28,7 @@ Thomas C.T. Chiu (邱智正) is listed in the TAH Foundation Who’s Who Taiwane
 
 
 ## Sources
+- [TAH #1078 encyclopedia: 1078. Thomas C.T. Chiu 邱智正 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1078/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/thomas-c-t-chiu/)
 
 ## Related Pages

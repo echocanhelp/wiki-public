@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2090 encyclopedia: 2090. Rachel Liu Siu 劉廣然](https://taiwaneseamericanhistory.org/whos-who-2090-rachel-liu-siu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rachel-liu-siu/)
 
 ## Related Pages

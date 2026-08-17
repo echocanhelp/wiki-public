@@ -26,6 +26,7 @@ Annie Lee (李大妮) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1256 encyclopedia: 1256.  Annie Lee 李大妮 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1256/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/annie-lee/)
 
 ## Related Pages

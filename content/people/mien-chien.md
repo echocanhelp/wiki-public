@@ -28,6 +28,7 @@ Mien Chien (簡勉) is listed in the TAH Foundation Who’s Who Taiwanese Americ
 
 
 ## Sources
+- [TAH #313 encyclopedia: 313. Mien Chien 簡勉/2015/02](https://taiwaneseamericanhistory.org/313-mien-chien-%e7%b0%a1%e5%8b%89201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mien-chien/)
 
 ## Related Pages

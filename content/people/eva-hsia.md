@@ -26,6 +26,7 @@ Eva Hsia (夏敬安) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1255 encyclopedia: 1255. Eva Hsia 夏敬安 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1255/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/eva-hsia/)
 
 ## Related Pages

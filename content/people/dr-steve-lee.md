@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1991 encyclopedia: 1991. Dr. Steve Lee 李致一醫師](https://taiwaneseamericanhistory.org/whos-who-1991-steve-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-steve-lee/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ Shuo-Hui (Sophie) Hung 洪碩徽 – History of Taiwanese American (T.A. Archive
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1226 encyclopedia: 1226. Shuo-Hui (Sophie) Hung  洪碩徽 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1226/)
+- [TAH #145 encyclopedia: 145. Shuo-Hui (Sophie) Hung 洪碩徽, Pianist/2015/02](https://taiwaneseamericanhistory.org/musician145/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shuo-hui-sophie-hung/)
 
 ## Related Pages

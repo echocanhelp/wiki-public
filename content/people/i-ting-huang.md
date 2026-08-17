@@ -26,6 +26,7 @@ A native of Tainan, TAIWAN, I-Ting Huang is the top winner of all instrumental c
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #472 encyclopedia: 472. I-Ting Huang 黄怡婷/2015/06](https://taiwaneseamericanhistory.org/whos472-i-ting-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/i-ting-huang/)
 
 ## Related Pages

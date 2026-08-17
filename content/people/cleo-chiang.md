@@ -28,6 +28,7 @@ Cleo Chiang (江詩怡) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #78 encyclopedia: 78. Cleo Chiang 江詩怡](https://taiwaneseamericanhistory.org/78-cleo-chiang-%e6%b1%9f%e8%a9%a9%e6%80%a1/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/cleo-chiang/)
 
 ## Related Pages

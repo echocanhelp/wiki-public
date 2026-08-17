@@ -27,6 +27,7 @@ Yung-Lo Lin (林永樂) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #1282 encyclopedia: 1282. Yung-Lo Lin 林永樂 / 2016/09](https://taiwaneseamericanhistory.org/whos1282-y-l-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yung-lo-lin/)
 
 ## Related Pages

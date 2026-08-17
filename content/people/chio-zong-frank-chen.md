@@ -26,6 +26,7 @@ Chio-Zong (Frank) Chen 陳秋榮 – History of Taiwanese American (T.A. Archive
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #764 encyclopedia: 764. Chio-Zong (Frank) Chen 陳秋榮/ 2016/01](https://taiwaneseamericanhistory.org/764-chio-zong-frank-chen-%e9%99%b3%e7%a7%8b%e6%a6%ae-201601/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chio-zong-frank-chen/)
 
 ## Related Pages

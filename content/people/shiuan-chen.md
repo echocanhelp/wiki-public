@@ -26,6 +26,7 @@ Shiuan Chen (陳瑄) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #780 encyclopedia: 780.  Shiuan Chen 陳瑄 / 2016/01](https://taiwaneseamericanhistory.org/780-shiuan-chen-%e9%99%b3%e7%91%84-201601/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shiuan-chen/)
 
 ## Related Pages

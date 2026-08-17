@@ -26,6 +26,7 @@ Chuck Lee (李忠敏) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1249 encyclopedia: 1249. Chuck Lee 李忠敏 / 2016/08](https://taiwaneseamericanhistory.org/whos1249/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chuck-lee/)
 
 ## Related Pages

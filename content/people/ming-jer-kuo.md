@@ -26,6 +26,7 @@ Ming Jer Kuo (郭明哲) is listed in the TAH Foundation Who’s Who Taiwanese A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1593 encyclopedia: 1593.  Ming Jer Kuo 郭明哲 / 2017/03](https://taiwaneseamericanhistory.org/whoswho1593/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ming-jer-kuo/)
 
 ## Related Pages

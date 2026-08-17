@@ -26,6 +26,7 @@ Dawen Wang (王大文) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1305 encyclopedia: 1305.  Dawen Wang 王大文 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1305/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dawen-wang/)
 
 ## Related Pages

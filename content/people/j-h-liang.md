@@ -27,6 +27,7 @@ J. H. Liang (梁見後) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #1570 encyclopedia: 1570. J. H. Liang 梁見後 / 2017/03](https://taiwaneseamericanhistory.org/whoswho1570/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/j-h-liang/)
 
 ## Related Pages

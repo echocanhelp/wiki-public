@@ -26,6 +26,7 @@ Charles Ke (柯烱輝) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1779 encyclopedia: 1779. Charles Ke 柯烱輝 / 07/2017](https://taiwaneseamericanhistory.org/whoswho1779/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/charles-ke/)
 
 ## Related Pages

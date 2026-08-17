@@ -5,7 +5,7 @@ tags:
   - 
 verification_status: published
 featured: true
-last_reviewed: 2026-07-17
+last_reviewed: 2026-08-17
 ---
 # Dr. Choan-Seng Song (宋泉盛)
 
@@ -77,6 +77,7 @@ Use the shared intake process at Echopedia Community Contributions Hub and inclu
 - Source type and permission status
 
 ## Sources
+- [TAH #800 encyclopedia: 800. Choan-Seng Song 宋泉盛 / 2016/02](https://taiwaneseamericanhistory.org/800-choan-seng-song-%e5%ae%8b%e6%b3%89%e7%9b%9b-201602/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/choan-seng-song/)
 
 ## Family

@@ -26,6 +26,8 @@ Eileen Lo (Accompanist). Ms. Eileen Lo, a graduate of the Chinese Culture Univer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #513 encyclopedia: 513. Eileen Lo 丁志清 /2015/07](https://taiwaneseamericanhistory.org/513-eileen-lo-%e4%b8%81%e5%bf%97%e6%b8%85-201507/)
+- [TAH #252 encyclopedia: 252. Eileen Lo丁志清, Piano Accompanist / 2015/07](https://taiwaneseamericanhistory.org/252-eileen-lo%e4%b8%81%e5%bf%97%e6%b8%85-piano-accompanist-201507/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/eileen-lo/)
 
 ## Related Pages

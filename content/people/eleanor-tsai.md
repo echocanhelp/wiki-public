@@ -27,6 +27,7 @@ Eleanor Tsai (謝婉香) is listed in the TAH Foundation Who’s Who Taiwanese A
 
 
 ## Sources
+- [TAH #797 encyclopedia: 797. Eleanor Tsai 謝婉香/ 2016/02](https://taiwaneseamericanhistory.org/800-eleanor-tsai-%e8%ac%9d%e5%a9%89%e9%a6%99-201602/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/eleanor-tsai/)
 
 ## Related Pages

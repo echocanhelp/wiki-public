@@ -28,6 +28,8 @@ Prof. Grace Chen Huang 陳怡安教授 – History of Taiwanese American (T.A. A
 
 
 ## Sources
+- [TAH #2191 encyclopedia: 2191. Prof. Grace Chen Huang 陳怡安教授](https://taiwaneseamericanhistory.org/whos-who-2191-grace-chen-huang/)
+- [TAH #259 encyclopedia: 259. Prof. Grace Chen Huang 陳怡安教授](https://taiwaneseamericanhistory.org/ota-259/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-grace-chen-huang/)
 
 ## Related Pages

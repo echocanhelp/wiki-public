@@ -27,6 +27,7 @@ Ching-Nan Ou (歐清南) is listed in the TAH Foundation Who’s Who Taiwanese A
 
 
 ## Sources
+- [TAH #816 encyclopedia: 816. Ching-Nan Ou 歐清南 / 2016/02](https://taiwaneseamericanhistory.org/816-ching-nan-ou-201602/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ching-nan-ou/)
 
 ## Related Pages

@@ -27,6 +27,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #1437 encyclopedia: 1437. C. L. Yin 殷清隆 / 2016/12](https://taiwaneseamericanhistory.org/whoswho1437/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-l-yin/)
 
 ## Related Pages

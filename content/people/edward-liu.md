@@ -29,6 +29,7 @@ Edward Liu (劉俊宏) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #2237 encyclopedia: 2237. Edward Liu 劉俊宏/01/2020](https://taiwaneseamericanhistory.org/whos-who-2237/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/edward-liu/)
 
 ## Related Pages

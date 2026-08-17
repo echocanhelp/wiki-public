@@ -31,6 +31,7 @@ S. C. Wu (吳西謙) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 
 
 ## Sources
+- [TAH #1472 encyclopedia: 1472.  S. C. Wu 吳西謙/ 2017/01](https://taiwaneseamericanhistory.org/whoswho1472/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/s-c-wu/)
 
 ## Related Pages

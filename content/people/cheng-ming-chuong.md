@@ -28,6 +28,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #606 encyclopedia: 606. Cheng-Ming Chuong 鍾正明 / 2015/09](https://taiwaneseamericanhistory.org/whoswho606/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/cheng-ming-chuong/)
 
 ## Related Pages

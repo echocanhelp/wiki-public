@@ -29,6 +29,8 @@ Prof. Chin-Hsien (Jim) Wang 王進賢教授 – History of Taiwanese American (T
 
 
 ## Sources
+- [TAH #244 encyclopedia: 244. Prof. Chin-Hsien (Jim) Wang 王進賢教授](https://taiwaneseamericanhistory.org/ota-244/)
+- [TAH #418 encyclopedia: 418. Prof. Chin-Hsien (Jim) Wang 王進賢教授](https://taiwaneseamericanhistory.org/whos-who-418-chin-hsien-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-chin-hsien-jim-wang/)
 
 ## Related Pages

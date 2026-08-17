@@ -29,6 +29,7 @@ Agnes Hsiao (黃美琇) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #796 encyclopedia: 796. Agnes Hsiao 黃美琇 / 2016/02](https://taiwaneseamericanhistory.org/whos796-agnes-hsiao/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/agnes-hsiao/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ Chia-wei Lee (DMA, Ohio State University) is quickly establishing himself as one
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #527 encyclopedia: 527.  Chia Wei Lee 李佳蔚 / 2015/08](https://taiwaneseamericanhistory.org/527-chia-wei-lee-%e6%9d%8e%e4%bd%b3%e8%94%9a-201508/)
+- [TAH #258 encyclopedia: 258. Chia Wei Lee 李佳蔚, Vocal / 2015/08](https://taiwaneseamericanhistory.org/258-chia-wei-lee-%e6%9d%8e%e4%bd%b3%e8%94%9a-vocal-201508/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chia-wei-lee/)
 
 ## Related Pages

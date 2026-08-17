@@ -29,6 +29,12 @@ Violinist Cho-Liang Lin is lauded the world over for the eloquence of his playin
 
 
 ## Sources
+- [TAH #90 encyclopedia: 90. Cho-Liang Lin 林昭亮](https://taiwaneseamericanhistory.org/90-cho-liang-lin/)
+- [TAH #37 encyclopedia: 37. A Musical Concert for Taiwan National Symphony and Violent Cho-Liang Lin (林昭](https://taiwaneseamericanhistory.org/important2016-37/)
+- [TAH #90 encyclopedia: 90. Cho-Liang Lin林昭亮 / Famous violinist](https://taiwaneseamericanhistory.org/90-cho-liang-lin%e6%9e%97%e6%98%ad%e4%ba%ae-famous-violinist/)
+- [TAH #289 encyclopedia: 289. Cho-Liang Lin 林昭亮](https://taiwaneseamericanhistory.org/whos-who-289-cho-liang-lin/)
+- [TAH #87 encyclopedia: 87. Cho-Liang Lin 林昭亮, Violinist/2014/12](https://taiwaneseamericanhistory.org/87-cho-liang-lin-%e6%9e%97%e6%98%ad%e4%ba%ae-violinist/)
+- [TAH #70 encyclopedia: 70. 林昭亮-天籟的傳釋者 – 晨曦 編著 – 1999.09 – 音樂](https://taiwaneseamericanhistory.org/70-%e6%9e%97%e6%98%ad%e4%ba%ae-%e5%a4%a9%e7%b1%9f%e7%9a%84%e5%82%b3%e9%87%8b%e8%80%85-%e6%99%a8%e6%9b%a6-%e7%b7%a8%e8%91%97-1999-09-%e9%9f%b3%e6%a8%82/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/cho-liang-lin/)
 
 ## Related Pages

@@ -27,6 +27,7 @@ James Hu (胡宏仁) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 
 
 ## Sources
+- [TAH #887 encyclopedia: 887.  James Hu 胡宏仁 / 2016/03](https://taiwaneseamericanhistory.org/887-james-hu-%e8%83%a1%e5%ae%8f%e4%bb%81-201603/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/james-hu/)
 
 ## Related Pages

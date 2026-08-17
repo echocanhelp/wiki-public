@@ -26,6 +26,8 @@ Yu-Hsuan Liao serves as Associate Professor of Piano and Coordinator of Keyboard
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #441 encyclopedia: 441. Yu-Hsuan Liao 廖又萱 / 2015/06](https://taiwaneseamericanhistory.org/whoswho-441/)
+- [TAH #35 encyclopedia: 35. Yu-Hsuan Liao 廖又萱, Pianist/2014/10](https://taiwaneseamericanhistory.org/musician-35/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yu-hsuan-liao/)
 
 ## Related Pages

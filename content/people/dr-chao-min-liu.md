@@ -28,6 +28,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #18 encyclopedia: 18. Dr. Chao-Min Liu 劉兆民博士](https://taiwaneseamericanhistory.org/18-dr-chao-min-liu/)
+- [TAH #3 encyclopedia: 3. Dr. Chao-Min Liu 劉兆民博士](https://taiwaneseamericanhistory.org/whos-who-3-chao-min-liu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-chao-min-liu/)
 
 ## Related Pages

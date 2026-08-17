@@ -30,6 +30,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #310 encyclopedia: 310. Agnes Wu 姜瑞香/2015/02](https://taiwaneseamericanhistory.org/310-agnes-wu-%e5%a7%9c%e7%91%9e%e9%a6%99201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/agnes-wu/)
 
 ## Related Pages

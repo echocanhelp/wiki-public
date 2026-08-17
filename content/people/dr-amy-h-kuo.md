@@ -28,6 +28,7 @@ Dr. Amy H Kuo (郭惠美醫師) is listed in the TAH Foundation Who’s Who Taiw
 
 
 ## Sources
+- [TAH #2319 encyclopedia: 2319. Dr. Amy H Kuo 郭惠美醫師](https://taiwaneseamericanhistory.org/whos-who-2319-amy-h-kuo/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-amy-h-kuo/)
 
 ## Related Pages

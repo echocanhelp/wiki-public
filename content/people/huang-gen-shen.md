@@ -11,7 +11,7 @@ tags:
   - 228
 verification_status: pending
 featured: true
-last_reviewed: 2026-08-16
+last_reviewed: 2026-08-17
 ---
 # Huang Gen-shen (黃根深)
 
@@ -131,6 +131,10 @@ Notable quotes and mentions of **黃根深** in Taiwan Justice articles:
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Archive:** Part 2, lines 667–843
 - Layout-limited extraction; not a full translation
+
+## Sources
+- [TAH #336 encyclopedia: 336. Ken Huang (黃根深) / Famous Artist & Coordinator of TAC/West Coast 2011 to Rea](https://taiwaneseamericanhistory.org/ff336/)
+- [TAH #64 encyclopedia: 64. 黃根深 Ken S. Huang](https://taiwaneseamericanhistory.org/64-ken-s-huang/)
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

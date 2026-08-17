@@ -26,6 +26,7 @@ J. E. Wu (吳榮二) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1667 encyclopedia: 1667.  J. E. Wu 吳榮二 / 05/2017](https://taiwaneseamericanhistory.org/whoswho1667/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/j-e-wu/)
 
 ## Related Pages

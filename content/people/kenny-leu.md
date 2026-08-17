@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1985 encyclopedia: 1985. Kenny Leu 呂蔡嶸](https://taiwaneseamericanhistory.org/whos-who-1985-kenny-leu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kenny-leu/)
 
 ## Related Pages

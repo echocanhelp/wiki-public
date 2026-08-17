@@ -30,6 +30,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #63 encyclopedia: 63. Prof. Sze-ya Yeh 葉思雅教授](https://taiwaneseamericanhistory.org/63-prof-sze-ya-yeh/)
+- [TAH #447 encyclopedia: 447. Prof. Sze-ya Yeh 葉思雅教授](https://taiwaneseamericanhistory.org/whos-who-447-sze-ya-yeh/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-sze-ya-yeh/)
 
 ## Related Pages

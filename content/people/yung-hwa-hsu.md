@@ -29,6 +29,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #170 encyclopedia: 170. Yung Hwa Hsu 許永華](https://taiwaneseamericanhistory.org/170-yung-hwa-hsu/)
+- [TAH #298 encyclopedia: 298. Yung Hwa Hsu 許永華](https://taiwaneseamericanhistory.org/whos-who-298-yung-hwa-hsu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yung-hwa-hsu/)
 
 ## Related Pages

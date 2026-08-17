@@ -27,6 +27,7 @@ Clinical Cardiologist
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2014 encyclopedia: 2014. Dr. Kung-Ming Jan 詹恭明醫師](https://taiwaneseamericanhistory.org/whos-who-2014-kung-ming-jan/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-kung-ming-jan/)
 
 ## Related Pages

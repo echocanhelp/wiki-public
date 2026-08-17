@@ -26,6 +26,7 @@ Stephen S. Chu (朱石象) is listed in the TAH Foundation Who’s Who Taiwanese
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1295 encyclopedia: 1295. Stephen S. Chu 朱石象 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1295/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/stephen-s-chu/)
 
 ## Related Pages

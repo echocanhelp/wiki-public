@@ -26,6 +26,7 @@ Fan S. Lai (賴芳雄) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #719 encyclopedia: 719.  Fan S. Lai 賴芳雄/ 2015/12](https://taiwaneseamericanhistory.org/719-fan-s-lai-%e8%b3%b4%e8%8a%b3%e9%9b%84-201512/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/fan-s-lai/)
 
 ## Related Pages

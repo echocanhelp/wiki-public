@@ -28,6 +28,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #1835 encyclopedia: 1835. Li Gui Chen 陳麗貴](https://taiwaneseamericanhistory.org/whos-who-1835-li-gui-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/li-gui-chen/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ Dou-Hwei Su Liu (劉蘇多惠) is listed in the TAH Foundation Who’s Who Taiwa
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #665 encyclopedia: 665. Su, Dou-Hwei Liu 劉蘇多惠 /2015/10](https://taiwaneseamericanhistory.org/665-su-dou-hwei-liu-%e5%8a%89%e8%98%87%e5%a4%9a%e6%83%a0-201510/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dou-hwei-su-liu/)
 
 ## Related Pages

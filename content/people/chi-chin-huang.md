@@ -27,6 +27,7 @@ Source from Taiwanese Association of American Greater Washington Chapter Special
 
 
 ## Sources
+- [TAH #1382 encyclopedia: 1382. Chi-Chin Huang 黃際鑫 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1382/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chi-chin-huang/)
 
 ## Related Pages

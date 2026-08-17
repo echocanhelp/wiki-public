@@ -28,6 +28,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #120 encyclopedia: 120. Dr. Binsiong Ou 胡民祥博士](https://taiwaneseamericanhistory.org/120-dr-binsiong-ou/)
+- [TAH #125 encyclopedia: 125. Dr. Binsiong Ou 胡民祥博士](https://taiwaneseamericanhistory.org/whos-who-125-binsiong-ou/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-binsiong-ou/)
 
 ## Related Pages

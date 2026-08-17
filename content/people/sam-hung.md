@@ -27,6 +27,7 @@ Sam Hung (洪南山) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 
 
 ## Sources
+- [TAH #867 encyclopedia: 867. Sam Hung 洪南山/ 2016/03](https://taiwaneseamericanhistory.org/867-sam-hung-%e6%b4%aa%e5%8d%97%e5%b1%b1-201603/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sam-hung/)
 
 ## Related Pages

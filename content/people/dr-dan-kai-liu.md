@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2316 encyclopedia: 2316. Dr. Dan-Kai Liu 劉登凱博士](https://taiwaneseamericanhistory.org/whos-who-2316-dan-kai-liu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-dan-kai-liu/)
 
 ## Related Pages

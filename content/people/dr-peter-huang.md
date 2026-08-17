@@ -27,6 +27,10 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #46 encyclopedia: 46. Dr. Peter Huang 黃勝雄醫師](https://taiwaneseamericanhistory.org/46-dr-peter-huang/)
+- [TAH #314 encyclopedia: 314. Dr. Huang Peter 黃勝雄醫師 / The first Consultant to the medical team caring for](https://taiwaneseamericanhistory.org/ff314/)
+- [TAH #44 encyclopedia: 44. My Memoir of Dr. Peter Huang 分享「我的回憶錄」, 黃勝雄醫師/10/2016](https://taiwaneseamericanhistory.org/videos44/)
+- [TAH #399 encyclopedia: 399. Dr. Peter Huang 黃勝雄醫師](https://taiwaneseamericanhistory.org/whos-who-399-peter-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-peter-huang/)
 
 ## Related Pages

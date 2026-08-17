@@ -27,6 +27,7 @@ Political Officer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1786 encyclopedia: 1786. Forest Yang 	 楊舜惠 / 07/2017](https://taiwaneseamericanhistory.org/whoswo1786/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/forest-yang/)
 
 ## Related Pages

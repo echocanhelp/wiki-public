@@ -28,6 +28,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #2027 encyclopedia: 2027. Dr. Ei-Shun Lin 林益顯醫師](https://taiwaneseamericanhistory.org/whos-who-2027-ei-shun-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-ei-shun-lin/)
 
 ## Related Pages

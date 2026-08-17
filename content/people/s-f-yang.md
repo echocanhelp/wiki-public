@@ -26,6 +26,7 @@ S. F. Yang (楊雪鳳) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1530 encyclopedia: 1530. S. F. Yang 楊雪鳳 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1530/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/s-f-yang/)
 
 ## Related Pages

@@ -29,6 +29,7 @@ Chong Ming Lee (李聰敏) is listed in the TAH Foundation Who’s Who Taiwanese
 
 
 ## Sources
+- [TAH #188 encyclopedia: 188. Chong Ming Lee 李聰敏](https://taiwaneseamericanhistory.org/188-chong-ming-lee-%e6%9d%8e%e8%81%b0%e6%95%8f/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chong-ming-lee/)
 
 ## Related Pages

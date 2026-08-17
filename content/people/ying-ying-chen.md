@@ -26,6 +26,8 @@ Currently resides in New York City, Ying-Ying Chen is a native from Taiwan. She�
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #350 encyclopedia: 350. Ying-Ying Chen 陳盈穎, Musician / 2016/07](https://taiwaneseamericanhistory.org/musician350/)
+- [TAH #1178 encyclopedia: 1178. Ying-Ying Chen 陳盈穎 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1178/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ying-ying-chen/)
 
 ## Related Pages

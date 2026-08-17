@@ -26,6 +26,7 @@ Wenhui Cai (蔡文輝) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1443 encyclopedia: 1443. Wenhui Cai  蔡文輝 / 2016/12](https://taiwaneseamericanhistory.org/1443-wenhui-cai-%e8%94%a1%e6%96%87%e8%bc%9d-201612/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/wenhui-cai/)
 
 ## Related Pages

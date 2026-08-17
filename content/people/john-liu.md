@@ -27,6 +27,7 @@ John Liu (劉宗憲) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 
 
 ## Sources
+- [TAH #1458 encyclopedia: 1458.  John Liu 劉宗憲 / 2017/01](https://taiwaneseamericanhistory.org/whoswho1458/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/john-liu/)
 
 ## Related Pages

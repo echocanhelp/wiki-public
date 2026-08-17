@@ -27,6 +27,8 @@ Dr. Tai Lin was born in Taipei, Taiwan and graduated from Taiwan National Tsing 
 
 
 ## Sources
+- [TAH #552 encyclopedia: 552. Tai Lin 林泰 2015/08](https://taiwaneseamericanhistory.org/553-tai-lin-%e6%9e%97%e6%b3%b0-201508/)
+- [TAH #279 encyclopedia: 279. Tai Lin 林泰, Conductor / 2015/08](https://taiwaneseamericanhistory.org/552-tai-lin-%e6%9e%97%e6%b3%b0-conductor-201508/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tai-lin/)
 
 ## Related Pages

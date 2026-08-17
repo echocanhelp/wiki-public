@@ -26,6 +26,8 @@ Shih-han ( Erika ) Chiu邱詩涵 – History of Taiwanese American (T.A. Archive
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #502 encyclopedia: 502. Shih-han ( Erika ) Chiu邱詩涵 / 2015/07](https://taiwaneseamericanhistory.org/502-shih-han-erika-chiu%e9%82%b1%e8%a9%a9%e6%b6%b5-201507/)
+- [TAH #245 encyclopedia: 245. Shih-han ( Erika ) Chiu 邱詩涵 , Basson / 2015/07](https://taiwaneseamericanhistory.org/245-shih-han-erika-chiu-%e9%82%b1%e8%a9%a9%e6%b6%b5-basson-201507/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shih-han-erika-chiu/)
 
 ## Related Pages

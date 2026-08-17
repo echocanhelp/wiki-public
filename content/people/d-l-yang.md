@@ -27,6 +27,7 @@ D. L. Yang (楊東龍) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #1166 encyclopedia: 1166. D. L. Yang 楊東龍 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1166/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/d-l-yang/)
 
 ## Related Pages

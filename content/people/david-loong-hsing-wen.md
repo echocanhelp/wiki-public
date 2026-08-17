@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #197 encyclopedia: 197. David Loong-Hsing Wen 溫隆信, Composer. Violinist, Artist / 2015/05](https://taiwaneseamericanhistory.org/197-david-loong-hsing-wen-%e6%ba%ab%e9%9a%86%e4%bf%a1-composer-violinist-artist-201505/)
+- [TAH #420 encyclopedia: 420. David Loong-Hsing Wen 溫隆信 / 2015/05](https://taiwaneseamericanhistory.org/420-david-loong-hsing-wen-%e6%ba%ab%e9%9a%86%e4%bf%a1-201505/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/david-loong-hsing-wen/)
 
 ## Related Pages

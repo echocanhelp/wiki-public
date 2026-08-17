@@ -29,6 +29,7 @@ Shi-Kaung Peng (彭旭光) is listed in the TAH Foundation Who’s Who Taiwanese
 
 
 ## Sources
+- [TAH #1038 encyclopedia: 1038. Shi-Kaung Peng 彭旭光  / 2016/05](https://taiwaneseamericanhistory.org/whoswho1038/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shi-kaung-peng/)
 
 ## Related Pages

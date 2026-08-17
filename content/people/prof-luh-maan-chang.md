@@ -26,6 +26,7 @@ Prof. Luh-Maan Chang 張陸滿教授 – History of Taiwanese American (T.A. Arc
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2203 encyclopedia: 2203. Prof. Luh-Maan Chang 張陸滿教授](https://taiwaneseamericanhistory.org/whos-who-2203-luh-maan-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-luh-maan-chang/)
 
 ## Related Pages

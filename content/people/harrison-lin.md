@@ -26,6 +26,7 @@ Harrison Lin (林貞棟) is listed in the TAH Foundation Who’s Who Taiwanese A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1596 encyclopedia: 1596. Harrison Lin 林貞棟 / 2017/04](https://taiwaneseamericanhistory.org/whoswho1596/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/harrison-lin/)
 
 ## Related Pages

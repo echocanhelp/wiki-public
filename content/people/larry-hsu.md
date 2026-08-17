@@ -27,6 +27,7 @@ Larry Hsu (許中強) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 
 
 ## Sources
+- [TAH #1365 encyclopedia: 1365. Larry Hsu 許中強 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1365/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/larry-hsu/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ Wei-Der Huang 黃瑋德, began her piano playing in her young age. Huang earned 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1084 encyclopedia: 1084. Wei-Der Huang 黃瑋德 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1084/)
+- [TAH #8 encyclopedia: 8. Wei-Der Huang 黃瑋德, Pianist/2014/10](https://taiwaneseamericanhistory.org/muscian8/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/wei-der-huang/)
 
 ## Related Pages

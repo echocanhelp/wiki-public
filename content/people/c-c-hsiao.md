@@ -26,6 +26,7 @@ C. C. Hsiao (蕭忠正) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1498 encyclopedia: 1498. C. C. Hsiao 蕭忠正 / 2017/02](https://taiwaneseamericanhistory.org/1498-c-c-hsiao-%e8%95%ad%e5%bf%a0%e6%ad%a3-201702/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-c-hsiao/)
 
 ## Related Pages

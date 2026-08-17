@@ -26,6 +26,8 @@ Prof. Frank Mau-Chung Chang 張懋中教授 – History of Taiwanese American (T
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #296 encyclopedia: 296. Prof. Mau-Chung Frank Chang 張懋中教授](https://taiwaneseamericanhistory.org/ota-296/)
+- [TAH #779 encyclopedia: 779.  Prof. Mau-Chung, Frank Chang 張懋中教授](https://taiwaneseamericanhistory.org/whos-who-779-mau-chung-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-frank-mau-chung-chang/)
 
 ## Related Pages

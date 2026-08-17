@@ -27,6 +27,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #523 encyclopedia: 523. Shih-Ting Huang 黃詩婷 /2015/08](https://taiwaneseamericanhistory.org/523-shih-ting-huang-%e9%bb%83%e8%a9%a9%e5%a9%b7-201508/)
+- [TAH #254 encyclopedia: 254. 黃詩婷,Violinist / 2015/08](https://taiwaneseamericanhistory.org/254-%e9%bb%83%e8%a9%a9%e5%a9%b7violinist-201508/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shih-ting-huang/)
 
 ## Related Pages

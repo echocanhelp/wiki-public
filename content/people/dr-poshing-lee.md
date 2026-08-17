@@ -26,6 +26,7 @@ Source from北美台大醫學院校友會http://ntumcaa-na.org/Web_pages/program
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2007 encyclopedia: 2007. Dr. Poshing Lee 李勃興醫師](https://taiwaneseamericanhistory.org/whos-who-2007-poshing-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-poshing-lee/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ Dr. Scott ChangChien 張簡吉誠醫師 – History of Taiwanese American (T.A. 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1943 encyclopedia: 1943. Dr. Scott ChangChien 張簡吉誠醫師](https://taiwaneseamericanhistory.org/whos-who-1943-scott-changchien/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-scott-changchien/)
 
 ## Related Pages

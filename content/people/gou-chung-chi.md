@@ -26,6 +26,7 @@ Gou-Chung Chi (紀國鐘) is listed in the TAH Foundation Who’s Who Taiwanese 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #766 encyclopedia: 766. Gou-Chung Chi 紀國鐘 /2016/01](https://taiwaneseamericanhistory.org/766-gou-chung-chi-%e7%b4%80%e5%9c%8b%e9%90%98-201601/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/gou-chung-chi/)
 
 ## Related Pages

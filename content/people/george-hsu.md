@@ -26,6 +26,7 @@ George Hsu (許啟勇) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1201 encyclopedia: 1201. George Hsu 許啟勇 /2016/07](https://taiwaneseamericanhistory.org/whoswho1201/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/george-hsu/)
 
 ## Related Pages

@@ -30,6 +30,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #176 encyclopedia: 176. Gin Ru Yeh 葉錦如](https://taiwaneseamericanhistory.org/176-gin-ru-yeh/)
+- [TAH #823 encyclopedia: 823. Gin Ru Yeh 葉錦如](https://taiwaneseamericanhistory.org/whos-who-823-gin-ru-yeh/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/gin-ru-yeh/)
 
 ## Related Pages

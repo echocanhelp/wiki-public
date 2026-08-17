@@ -26,6 +26,7 @@ Jim T. R. Chen (鄭昭任) is listed in the TAH Foundation Who’s Who Taiwanese
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #811 encyclopedia: 811. Jim T. R. Chen 鄭昭任/ 2016/02](https://taiwaneseamericanhistory.org/811-jim-t-r-chen-%e9%84%ad%e6%98%ad%e4%bb%bb-201602/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jim-t-r-chen/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ Born in Taiwan, Sheng-Ching Angel Hsu started learning music at the early age of
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #237 encyclopedia: 237. Sheng-Ching Angel Hsu徐升晴, Violin /2015/07](https://taiwaneseamericanhistory.org/237-sheng-ching-angel-hsu%e5%be%90%e5%8d%87%e6%99%b4-violin-201507/)
+- [TAH #492 encyclopedia: 492. Sheng-Ching Angel Hsu 徐升晴, 2015/07](https://taiwaneseamericanhistory.org/492-sheng-ching-angel-hsu-%e5%be%90%e5%8d%87%e6%99%b4-201507/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sheng-ching-angel-hsu/)
 
 ## Related Pages

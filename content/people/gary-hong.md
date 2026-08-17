@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #3 encyclopedia: 3. 洪逸凡 Gary Hong](https://taiwaneseamericanhistory.org/artist3-gary-hong/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/gary-hong/)
 
 ## Related Pages

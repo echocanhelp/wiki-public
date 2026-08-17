@@ -27,6 +27,8 @@ Minlu Chai (蔡銘祿) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #1028 encyclopedia: 1028. Minlu Chai 蔡銘祿 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1028/)
+- [TAH #222 encyclopedia: 222. Mr. MINLU CHAI 蔡銘祿 / The organizer of First coordination meeting among T.A.](https://taiwaneseamericanhistory.org/222-mr-minlu-chai-%e8%94%a1%e9%8a%98%e7%a5%bf-the-organizer-of-first-coordination-meeting-among-t-a-organization-1992/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/minlu-chai/)
 
 ## Related Pages

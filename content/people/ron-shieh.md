@@ -26,6 +26,7 @@ Ron Shieh (謝榮峻) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1514 encyclopedia: 1514. Ron Shieh 謝榮峻 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1514/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ron-shieh/)
 
 ## Related Pages

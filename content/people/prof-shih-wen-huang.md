@@ -26,6 +26,8 @@ Prof. Shih-Wen Huang 黃碩文教授 – History of Taiwanese American (T.A. Arc
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #136 encyclopedia: 136. Prof. Shih-Wen Huang 黃碩文教授](https://taiwaneseamericanhistory.org/136-prof-shih-wen-huang/)
+- [TAH #2062 encyclopedia: 2062. Prof. Shih-Wen Huang 黃碩文教授](https://taiwaneseamericanhistory.org/whos-who-2062-shih-wen-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-shih-wen-huang/)
 
 ## Related Pages

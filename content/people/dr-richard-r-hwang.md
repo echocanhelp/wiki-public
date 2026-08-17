@@ -26,6 +26,7 @@ Dr. Richard R. Hwang 黃瑞煊醫師 – History of Taiwanese American (T.A. Arc
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1998 encyclopedia: 1998. Dr. Richard R. Hwang 黃瑞煊醫師](https://taiwaneseamericanhistory.org/whos-who-1998-richard-r-hwang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-richard-r-hwang/)
 
 ## Related Pages

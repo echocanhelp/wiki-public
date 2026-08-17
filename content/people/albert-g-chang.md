@@ -26,6 +26,7 @@ Albert G. Chang (章錦華) is listed in the TAH Foundation Who’s Who Taiwanes
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2069 encyclopedia: 2069. Albert G. Chang 章錦華](https://taiwaneseamericanhistory.org/whos-who-2069-albert-g-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/albert-g-chang/)
 
 ## Related Pages

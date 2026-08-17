@@ -35,6 +35,7 @@ DEW Chin-Ghi Chang (張清祺) is listed in the TAH Foundation Who’s Who Taiwa
 
 
 ## Sources
+- [TAH #2057 encyclopedia: 2057. DEW Chin-Ghi Chang 張清祺 / 03/2018](https://taiwaneseamericanhistory.org/whos-dew-chin-ghi-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dew-chin-ghi-chang/)
 
 ## Related Pages

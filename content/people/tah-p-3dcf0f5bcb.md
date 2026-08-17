@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #95 encyclopedia: 95. 賴東成](https://taiwaneseamericanhistory.org/95-%e8%b3%b4%e6%9d%b1%e6%88%90/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e8%b3%b4%e6%9d%b1%e6%88%90/)
 
 ## Related Pages

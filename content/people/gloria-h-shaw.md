@@ -29,6 +29,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #2196 encyclopedia: 2196. Gloria H. Shaw 李雪芬](https://taiwaneseamericanhistory.org/whos-who-2196-gloria-h-shaw/)
+- [TAH #198 encyclopedia: 198. Gloria H. Shaw 李雪芬](https://taiwaneseamericanhistory.org/198-gloria-h-shaw/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/gloria-h-shaw/)
 
 ## Related Pages

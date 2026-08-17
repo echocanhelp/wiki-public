@@ -29,6 +29,7 @@ B.S. Economics and Computer Science and Engineering
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1630 encyclopedia: 1630. Sonny Hsu 徐嵩宜](https://taiwaneseamericanhistory.org/whos-who-1630-sonny-hsu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sonny-hsu/)
 
 ## Related Pages

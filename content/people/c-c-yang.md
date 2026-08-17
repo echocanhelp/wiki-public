@@ -26,6 +26,7 @@ C. C. Yang (楊朝諄) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #938 encyclopedia: 938. C. C. Yang 楊朝諄 / 2016/04](https://taiwaneseamericanhistory.org/whos-c-c-yang-2/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-c-yang/)
 
 ## Related Pages

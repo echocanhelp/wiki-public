@@ -29,6 +29,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #716 encyclopedia: 716. Fei-Mei Lee Chou 周李惠美 /2015/11](https://taiwaneseamericanhistory.org/whos-fei-mei-lee-chou/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/fei-mei-lee-chou/)
 
 ## Related Pages

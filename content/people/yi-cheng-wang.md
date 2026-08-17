@@ -27,6 +27,7 @@ Yi-Cheng Wang (王奕程) is listed in the TAH Foundation Who’s Who Taiwanese 
 
 
 ## Sources
+- [TAH #1949 encyclopedia: 1949. Yi-Cheng Wang 王奕程](https://taiwaneseamericanhistory.org/whos-who-1949-yi-cheng-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yi-cheng-wang/)
 
 ## Related Pages

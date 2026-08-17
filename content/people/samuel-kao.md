@@ -26,6 +26,7 @@ Samuel Kao (高榮彬) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2076 encyclopedia: 2076. Samuel Kao 高榮彬 / 03/2018](https://taiwaneseamericanhistory.org/whoswho2076/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/samuel-kao/)
 
 ## Related Pages

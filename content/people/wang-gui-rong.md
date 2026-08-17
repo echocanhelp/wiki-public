@@ -9,7 +9,7 @@ tags:
   - entrepreneur
 verification_status: pending
 featured: true
-last_reviewed: 2026-07-20
+last_reviewed: 2026-08-17
 ---
 # Wang Gui-rong (王桂榮)
 
@@ -125,8 +125,11 @@ Pages that link to **wang-gui-rong** (wang-gui-rong):
 1. [[organizations/taiwan-american-foundation.md|taiwan-american-foundation]]
 
 ### Sources
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kenjohn-wang/)
- (1)
+- [TAH #26 encyclopedia: 26. Kenjohn Wang (王桂榮)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-26/)
+- [TAH #153 encyclopedia: 153. Kenjohn Wang 王桂榮](https://taiwaneseamericanhistory.org/153-kenjohn-wang/)
+- [TAH #449 encyclopedia: 449. 追憶一個台美人的奮鬥傳奇～王桂榮  / 民報編輯部 /07/2016](https://taiwaneseamericanhistory.org/mystories449/)
+- [TAH #37 encyclopedia: 37. Ke-Long Wang 王桂榮 / The famous hotel owner of Taiwanese Americans](https://taiwaneseamericanhistory.org/37-ke-long-wang-%e7%8e%8b%e6%a1%82%e6%a6%ae-the-famous-hotel-owner-of-taiwanese-americans/)
+- [TAH #66 encyclopedia: 66. Kenjohn Wang 王桂榮](https://taiwaneseamericanhistory.org/whos-who-66-kenjohn-wang/) (1)
 
 1. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
 

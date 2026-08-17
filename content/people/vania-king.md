@@ -26,6 +26,8 @@ Vania King (金久慈) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #705 encyclopedia: 705. Vania King 金久慈 /2015/11](https://taiwaneseamericanhistory.org/705-vania-king-%e9%87%91%e4%b9%85%e6%85%88-201511/)
+- [TAH #49 encyclopedia: 49. Vania King 金久慈 / 2015/11](https://taiwaneseamericanhistory.org/49/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/vania-king/)
 
 ## Related Pages

@@ -30,6 +30,8 @@ Senior Research fellow and Suborbital science experiment program manager
 
 
 ## Sources
+- [TAH #512 encyclopedia: 512. 火箭王子 陳彥升 棄高薪回台發展 / 林修卉 /02/2017](https://taiwaneseamericanhistory.org/mystories512/)
+- [TAH #1410 encyclopedia: 1410. Yen-Sen Chen 陳彥升 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1410/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yen-sen-chen/)
 
 ## Related Pages

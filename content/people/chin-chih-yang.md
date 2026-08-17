@@ -26,6 +26,7 @@ Chin Chih Yang (楊金池) is listed in the TAH Foundation Who’s Who Taiwanese
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1591 encyclopedia: 1591.  Chin Chih Yang  楊金池 / 2017/03](https://taiwaneseamericanhistory.org/whoswho1591/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chin-chih-yang/)
 
 ## Related Pages

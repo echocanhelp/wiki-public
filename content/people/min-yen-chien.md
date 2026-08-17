@@ -26,6 +26,8 @@ Min Yen Chien is one of the foremost and first generation of Taiwanese internati
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #241 encyclopedia: 241. Min-Yen Chien 簡名彥 / 2015/02](https://taiwaneseamericanhistory.org/241-min-yen-chien-%e7%b0%a1%e5%90%8d%e5%bd%a5-201502/)
+- [TAH #128 encyclopedia: 128. Min-Yen Chien 簡名彥, Violinist / 2015/02](https://taiwaneseamericanhistory.org/128-min-yen-chien-%e7%b0%a1%e5%90%8d%e5%bd%a5-violinist-201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/min-yen-chien/)
 
 ## Related Pages

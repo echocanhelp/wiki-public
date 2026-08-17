@@ -10,7 +10,7 @@ tags:
   - community-leadership
 verification_status: pending
 featured: true
-last_reviewed: 2026-07-23
+last_reviewed: 2026-08-17
 ---
 # Chen Zhefu & Xu Chunhui (陳哲夫、許春惠)
 
@@ -97,6 +97,9 @@ Their story exemplifies the immigrant entrepreneur's journey — from a $2,000 i
 - **Note:** Couple profile. Content extracted from the 2023 TAHS Publication "台美人菁英錄 第二輯" (Taiwanese American Elite Records, Volume 2), compiled by Yang Jiachou, Yang Pingchou, and Jiang Meijuan.
 
 ## Sources
+- [TAH #264 encyclopedia: 264. 陳哲夫、許春惠夫婦 / 以遙控經營外州大型旅館出名](https://taiwaneseamericanhistory.org/ff264/)
+- [TAH #263 encyclopedia: 263. 陳哲夫 / 台南一中校友會創會會長 / 1987](https://taiwaneseamericanhistory.org/263-%e9%99%b3%e5%93%b2%e5%a4%ab-%e5%8f%b0%e5%8d%97%e4%b8%80%e4%b8%ad%e6%a0%a1%e5%8f%8b%e6%9c%83%e5%89%b5%e6%9c%83%e6%9c%83%e9%95%b7-1987/)
+- [TAH #629 encyclopedia: 629. Jeff Chen 陳哲夫 /2015/09](https://taiwaneseamericanhistory.org/629-jeff-chen-%e9%99%b3%e5%93%b2%e5%a4%ab-201509/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jeff-chen/)
 
 ## Related Pages

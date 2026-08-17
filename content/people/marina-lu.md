@@ -26,6 +26,7 @@ Marina Lu (呂惠秋) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1222 encyclopedia: 1222. Marina Lu 呂惠秋 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1222/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/marina-lu/)
 
 ## Related Pages

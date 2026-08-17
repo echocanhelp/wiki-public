@@ -27,6 +27,7 @@ C. Y. Chen (陳黃群雁) is listed in the TAH Foundation Who’s Who Taiwanese 
 
 
 ## Sources
+- [TAH #1141 encyclopedia: 1141. C. Y. Chen 陳黃群雁 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1141/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-y-chen/)
 
 ## Related Pages

@@ -27,6 +27,7 @@ Margaret Liu (林美華) is listed in the TAH Foundation Who’s Who Taiwanese A
 
 
 ## Sources
+- [TAH #1497 encyclopedia: 1497. Margaret Liu 林美華 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1497/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/margaret-liu/)
 
 ## Related Pages

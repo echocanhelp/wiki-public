@@ -28,6 +28,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #1733 encyclopedia: 1733. Helen Loo 翁進治](https://taiwaneseamericanhistory.org/whos-who-1733-helen-loo/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/helen-loo/)
 
 ## Related Pages

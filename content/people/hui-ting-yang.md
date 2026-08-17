@@ -26,6 +26,8 @@ As an active performer, Dr. Yang has performed throughout the Czech Republic, Ko
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #692 encyclopedia: 692. Hui-Ting Yang 楊惠婷 / 2015/11](https://taiwaneseamericanhistory.org/692-hui-ting-yang-%e6%a5%8a%e6%83%a0%e5%a9%b7-201511/)
+- [TAH #315 encyclopedia: 315. Hui-Ting Yang 楊惠婷, Pianist / 2015/11](https://taiwaneseamericanhistory.org/315-hui-ting-yang-%e6%a5%8a%e6%83%a0%e5%a9%b7-pianist-201511/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hui-ting-yang/)
 
 ## Related Pages

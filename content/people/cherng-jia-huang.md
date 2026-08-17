@@ -29,6 +29,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #60 encyclopedia: 60. Dr. Cherng Jia Hwang 黃呈嘉博士](https://taiwaneseamericanhistory.org/60-dr-cherng-jia-hwang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/cherng-jia-huang/)
 
 ## Related Pages

@@ -28,6 +28,7 @@ Rui Mu Lee (李瑞木) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #1564 encyclopedia: 1564. Rui Mu Lee 李瑞木/ 2017/03](https://taiwaneseamericanhistory.org/whoswho1564/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rui-mu-lee/)
 
 ## Related Pages

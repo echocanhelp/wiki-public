@@ -27,6 +27,7 @@ Ph.D. neuroscience and embryonic development
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1369 encyclopedia: 1369. Joshua C. Chang 張嘉熙 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1369/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/joshua-c-chang/)
 
 ## Related Pages

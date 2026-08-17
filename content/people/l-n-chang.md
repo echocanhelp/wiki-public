@@ -26,6 +26,7 @@ L. N. Chang (張麗娜) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1941 encyclopedia: 1941. L. N. Chang 張麗娜 /11/2017](https://taiwaneseamericanhistory.org/whos-ln-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/l-n-chang/)
 
 ## Related Pages

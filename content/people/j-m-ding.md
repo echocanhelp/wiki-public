@@ -27,6 +27,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #2052 encyclopedia: 2052. J. M. Ding  丁紀明 / 03/2018](https://taiwaneseamericanhistory.org/whoswho2052/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/j-m-ding/)
 
 ## Related Pages

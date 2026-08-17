@@ -26,6 +26,7 @@ Source from FORMOSAN ASSOCIATION FOR PUBLIC AFFAIRS - ILLINOIS Chapter (FAPA-IL)
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1493 encyclopedia: 1493. Joseph Huang 黃春輝 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1493/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/joseph-huang/)
 
 ## Related Pages

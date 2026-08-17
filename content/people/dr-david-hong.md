@@ -30,6 +30,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #1892 encyclopedia: 1892. Dr. David Hong 洪德生博士](https://taiwaneseamericanhistory.org/whos-who-1892-david-hong/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-david-hong/)
 
 ## Related Pages

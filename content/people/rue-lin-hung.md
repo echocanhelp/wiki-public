@@ -30,6 +30,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #868 encyclopedia: 868. Rue-Lin Hung 洪瑞麟/ 2016/03](https://taiwaneseamericanhistory.org/whos868-rue-lin-hung/)
+- [TAH #10 encyclopedia: 10. 洪瑞麟 Jui-Lin Hung](https://taiwaneseamericanhistory.org/artist10-jui-lin-hung/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rue-lin-hung/)
 
 ## Related Pages

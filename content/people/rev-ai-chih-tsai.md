@@ -28,6 +28,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #1652 encyclopedia: 1652. Rev. Ai Chih Tsai 蔡愛智牧師](https://taiwaneseamericanhistory.org/whos-who-1652-ai-chih-tsai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rev-ai-chih-tsai/)
 
 ## Related Pages

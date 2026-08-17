@@ -27,6 +27,7 @@ Eric Yang (楊一哲) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 
 
 ## Sources
+- [TAH #1156 encyclopedia: 1156. Eric Yang 楊一哲 / 2016/07](https://taiwaneseamericanhistory.org/1156-eric-yang-%e6%a5%8a%e4%b8%80%e5%93%b2-201607/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/eric-yang/)
 
 ## Related Pages

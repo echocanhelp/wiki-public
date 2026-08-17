@@ -26,6 +26,8 @@ Monica Su (蘇千芳) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1266 encyclopedia: 1266. Monica Su 蘇千芳 / 09/2016](https://taiwaneseamericanhistory.org/whoswho1266/)
+- [TAH #360 encyclopedia: 360. Monica Su蘇千芳 , Cellist](https://taiwaneseamericanhistory.org/musician360/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/monica-su/)
 
 ## Related Pages

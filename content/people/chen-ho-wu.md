@@ -26,6 +26,8 @@ Dr. Chen-Ho Wu (吳振和博士) is listed in the TAH Foundation Who’s Who Tai
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #72 encyclopedia: 72. Dr. Chen-Ho Wu 吳振和博士](https://taiwaneseamericanhistory.org/72-dr-chen-ho-wu/)
+- [TAH #330 encyclopedia: 330. Dr. Chen-Ho Wu (吳振和博士) / A Renown Enterprises in LED Street Lighting Produc](https://taiwaneseamericanhistory.org/ff330/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chen-ho-wu/)
 
 ## Related Pages

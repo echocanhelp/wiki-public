@@ -26,6 +26,7 @@ Dr. Khang-Loon Ho (何康隆醫師) is listed in the TAH Foundation Who’s Who 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1960 encyclopedia: 1960. Dr. Khang-Loon Ho 何康隆醫師](https://taiwaneseamericanhistory.org/whos-who-1960-khang-loon-ho/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-khang-loon-ho/)
 
 ## Related Pages

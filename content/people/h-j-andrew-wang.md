@@ -26,6 +26,7 @@ H. J. Andrew Wang (王惠鈞) is listed in the TAH Foundation Who’s Who Taiwan
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #944 encyclopedia: 944. H. J. (Andrew) Wang 王惠鈞 / 2016/04](https://taiwaneseamericanhistory.org/whoswho944/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/h-j-andrew-wang/)
 
 ## Related Pages

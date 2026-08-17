@@ -29,6 +29,7 @@ M. C. Cheng Lee (李鄭美昭) is listed in the TAH Foundation Who’s Who Taiwa
 
 
 ## Sources
+- [TAH #937 encyclopedia: 937. M. C. Cheng Lee 李鄭美昭 / 2016/04](https://taiwaneseamericanhistory.org/whoswho937/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/m-c-cheng-lee/)
 
 ## Related Pages

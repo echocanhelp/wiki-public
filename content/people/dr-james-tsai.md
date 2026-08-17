@@ -28,6 +28,7 @@ B.S., Molecular Cell Biochemistry and Economics
 
 
 ## Sources
+- [TAH #2065 encyclopedia: 2065. Dr. James Tsai 蔡育智醫師](https://taiwaneseamericanhistory.org/whos-who-2065-james-tsai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-james-tsai/)
 
 ## Related Pages

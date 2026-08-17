@@ -26,6 +26,7 @@ Jia-Ru Li (李佳儒) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1181 encyclopedia: 1181.  Jia-Ru Li 李佳儒 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1181/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jia-ru-li/)
 
 ## Related Pages

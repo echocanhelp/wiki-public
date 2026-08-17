@@ -26,6 +26,7 @@ Chih-Wei Hu (胡智為) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1746 encyclopedia: 1746. Chih-Wei Hu 胡智為](https://taiwaneseamericanhistory.org/whos-who-1746-chih-wei-hu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chih-wei-hu/)
 
 ## Related Pages

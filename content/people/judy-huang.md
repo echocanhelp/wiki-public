@@ -29,6 +29,7 @@ Judy Huang (陳東蘭) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #1920 encyclopedia: 1920. Judy Huang 陳東蘭 /10/2017](https://taiwaneseamericanhistory.org/whos-judy-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/judy-huang/)
 
 ## Related Pages

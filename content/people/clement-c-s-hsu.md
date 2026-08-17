@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1400 encyclopedia: 1400. Clement C.S.Hsu 許清曉 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1400/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/clement-c-s-hsu/)
 
 ## Related Pages

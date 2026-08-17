@@ -30,6 +30,9 @@ Accomplishment
 
 
 ## Sources
+- [TAH #2283 encyclopedia: 2283. Ting Yee Wang 王廷宜](https://taiwaneseamericanhistory.org/whos-who-2283-ting-yee-wang/)
+- [TAH #75 encyclopedia: 75. Ting Yee Wang 王廷宜](https://taiwaneseamericanhistory.org/75-tingyee-wang/)
+- [TAH #57 encyclopedia: 57. Collection of Mr. TingYee Wang 王廷宜(泰和)先生的收藏](https://taiwaneseamericanhistory.org/collection-of-mr-tingyee-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ting-yee-wang/)
 
 ## Related Pages

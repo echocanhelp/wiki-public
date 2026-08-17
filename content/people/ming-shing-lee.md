@@ -28,6 +28,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #1893 encyclopedia: 1893. Ming-Shing Lee 李明星](https://taiwaneseamericanhistory.org/whos-who-1893-ming-shing-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ming-shing-lee/)
 
 ## Related Pages

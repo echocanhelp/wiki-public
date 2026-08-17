@@ -31,6 +31,7 @@ Lirong Wang (黃麗蓉) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #431 encyclopedia: 431. Lirong Wang 黃麗蓉/2015/06](https://taiwaneseamericanhistory.org/431-lirong-wang-%e9%bb%83%e9%ba%97%e8%93%89201506/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/lirong-wang/)
 
 ## Related Pages

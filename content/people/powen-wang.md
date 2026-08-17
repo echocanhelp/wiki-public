@@ -27,7 +27,13 @@ Accomplishment
 - **Wife:** 陳智惠
 
 
+## Works
+- Oral history — 187. Advisor of TAAGPC – 王博文 Powen Wang’s Journey | TAH Taiwanese Americans Oral History P (https://taiwaneseamericanhistory.org/video-187/)
+
 ## Sources
+- [TAH #187 oral history: 187. Advisor of TAAGPC – 王博文 Powen Wang’s Journey | TAH Taiwanese Americans Oral](https://taiwaneseamericanhistory.org/video-187/)
+- [TAH #123 encyclopedia: 123. Powen Wang 王博文](https://taiwaneseamericanhistory.org/123-powen-wang/)
+- [TAH #1675 encyclopedia: 1675. Powen Wang 王博文](https://taiwaneseamericanhistory.org/whos-who-1675-powen-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/powen-wang/)
 
 ## Related Pages

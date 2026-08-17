@@ -30,7 +30,12 @@ Ron Chen (陳榮成) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 - **Daughter:** [[people/oliver-chen|Oliver Chen]]
 
 
+## Works
+- Oral history — 53. George Chang , Long-Chen Chen & Wen Hsong Lai 張燦鍙, 陳榮成, 賴文雄 / The first long journey a (https://taiwaneseamericanhistory.org/53-george-chang-long-chen-chen-wen-hsong-lai-%e5%bc%b5%e7%87%a6%e9%8d%99-%e9%99%b3%e6%a6%ae%e6%88%90-%e8%b3%b4%e6%96%87%e9%9b%84-the-first-long-journey-across-the-u-s-a-1966/)
+
 ## Sources
+- [TAH #53 oral history: 53. George Chang , Long-Chen Chen & Wen Hsong Lai 張燦鍙, 陳榮成, 賴文雄 / The first long](https://taiwaneseamericanhistory.org/53-george-chang-long-chen-chen-wen-hsong-lai-%e5%bc%b5%e7%87%a6%e9%8d%99-%e9%99%b3%e6%a6%ae%e6%88%90-%e8%b3%b4%e6%96%87%e9%9b%84-the-first-long-journey-across-the-u-s-a-1966/)
+- [TAH #326 encyclopedia: 326. Ron Chen 陳榮成/2015/03](https://taiwaneseamericanhistory.org/326-ron-chen-%e9%99%b3%e6%a6%ae%e6%88%90201503/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ron-chen/)
 
 ## Related Pages

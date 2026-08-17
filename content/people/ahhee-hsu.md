@@ -29,6 +29,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #2267 encyclopedia: 2267. Ahhee Hsu 許丕龍](https://taiwaneseamericanhistory.org/whos-who-2267-ahhee-hsu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ahhee-hsu/)
 
 ## Related Pages

@@ -28,6 +28,9 @@ Accomplishment
 
 
 ## Sources
+- [TAH #30 encyclopedia: 30. Dr. Yung-San Liang (梁永三博士)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-30/)
+- [TAH #254 encyclopedia: 254. Dr. Yung-San Liang 梁永三博士](https://taiwaneseamericanhistory.org/ota-254/)
+- [TAH #2172 encyclopedia: 2172. Dr. Yung-San Liang 梁永三博士](https://taiwaneseamericanhistory.org/whos-who-2172-yung-san-liang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-yung-san-liang/)
 
 ## Related Pages

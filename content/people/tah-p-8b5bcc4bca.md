@@ -27,6 +27,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #862 encyclopedia: 862. 黃世惠 /2016/02](https://taiwaneseamericanhistory.org/whos862/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e9%bb%83%e4%b8%96%e6%83%a0/)
 
 ## Related Pages

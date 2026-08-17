@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1378 encyclopedia: 1378. Kuei-Ling Chen  陳桂鈴 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1378/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kuei-ling-chen/)
 
 ## Related Pages

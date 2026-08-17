@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #556 encyclopedia: 556. Amanda Shumin Yang 方書敏 / 2015/08](https://taiwaneseamericanhistory.org/556-amanda-shumin-yang-%e6%96%b9%e6%9b%b8%e6%95%8f-201508/)
+- [TAH #281 encyclopedia: 281. Amanda Shumin Yang 方書敏, Violinist / 2015/08](https://taiwaneseamericanhistory.org/556-amanda-shumin-yang-%e6%96%b9%e6%9b%b8%e6%95%8f-violinist-201508/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/amanda-shumin-yang/)
 
 ## Related Pages

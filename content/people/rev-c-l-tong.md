@@ -26,6 +26,7 @@ Rev. C. L. Tong (董俊蘭牧師) is listed in the TAH Foundation Who’s Who Ta
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1698 encyclopedia: 1698. Rev. C. L. Tong 董俊蘭牧師](https://taiwaneseamericanhistory.org/whos-who-1698-c-l-tong/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rev-c-l-tong/)
 
 ## Related Pages

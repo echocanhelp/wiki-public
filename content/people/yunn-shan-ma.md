@@ -26,6 +26,8 @@ Yunn-Shan Ma, a native of Taiwan, is currently pursuing her doctorate at the Eas
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #423 encyclopedia: 423. Yunn-Shan Ma 馬韻珊 / 2015/05](https://taiwaneseamericanhistory.org/423-yunn-shan-ma-%e9%a6%ac%e9%9f%bb%e7%8f%8a-201505/)
+- [TAH #200 encyclopedia: 200. Yunn-Shan Ma 馬韻珊, Conductor / 2015/05](https://taiwaneseamericanhistory.org/200-yunn-shan-ma-%e9%a6%ac%e9%9f%bb%e7%8f%8a-conductor-201505/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yunn-shan-ma/)
 
 ## Related Pages

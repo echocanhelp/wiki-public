@@ -26,6 +26,8 @@ Taiwanese pianist Wenyin Chan is “technically brilliant, musically spontaneous
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #104 encyclopedia: 104. Wen-Yin Chan 詹雯茵, Pianist/2014/12](https://taiwaneseamericanhistory.org/104-wen-yin-chan-%e8%a9%b9%e9%9b%af%e8%8c%b5-pianist/)
+- [TAH #150 encyclopedia: 150. Wen-Yin Chan 詹雯茵](https://taiwaneseamericanhistory.org/150-wen-yin-chan-%e8%a9%b9%e9%9b%af%e8%8c%b5/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/wen-yin-chan/)
 
 ## Related Pages

@@ -31,6 +31,9 @@ Shante Shaw(Sean) Chen 陳善哲 – History of Taiwanese American (T.A. Archive
 
 
 ## Sources
+- [TAH #209 encyclopedia: 209. Shante Shaw(Sean) Chen 陳善哲](https://taiwaneseamericanhistory.org/209/)
+- [TAH #61 encyclopedia: 61. 陳善哲 Shante Shaw(Sean) Chen](https://taiwaneseamericanhistory.org/artist61-shante-shawsean-chen/)
+- [TAH #870 encyclopedia: 870. Shante Shaw(Sean) Chen  陳善哲](https://taiwaneseamericanhistory.org/whos-who-870-shante-shaw-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shante-shawsean-chen/)
 
 ## Related Pages

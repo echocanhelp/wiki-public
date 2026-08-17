@@ -26,6 +26,7 @@ Charles Cheng-Chu Wu (吳政智) is listed in the TAH Foundation Who’s Who Tai
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1802 encyclopedia: 1802. Charles Cheng-Chu Wu 吳政智 / 07/2017](https://taiwaneseamericanhistory.org/whoswho1802/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/charles-cheng-chu-wu/)
 
 ## Related Pages

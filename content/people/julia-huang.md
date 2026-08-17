@@ -26,6 +26,7 @@ Julia Huang (黃馨儀) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1254 encyclopedia: 1254. Julia Huang 黃馨儀 / 2016/08](https://taiwaneseamericanhistory.org/1254-julia-huang-%e9%bb%83%e9%a6%a8%e5%84%80-201608/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/julia-huang/)
 
 ## Related Pages

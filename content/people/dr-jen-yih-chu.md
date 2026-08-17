@@ -29,6 +29,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #8 encyclopedia: 8. Dr. Jen-Yih Chu朱真一博士](https://taiwaneseamericanhistory.org/8-dr-jen-yih-chu/)
+- [TAH #287 encyclopedia: 287. Dr. Jen-Yih Chu 朱真一博士](https://taiwaneseamericanhistory.org/whos-who-287-jen-yih-chu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-jen-yih-chu/)
 
 ## Related Pages

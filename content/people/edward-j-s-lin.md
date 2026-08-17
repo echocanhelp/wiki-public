@@ -26,6 +26,7 @@ Edward J. S. Lin (林敬賢) is listed in the TAH Foundation Who’s Who Taiwane
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #634 encyclopedia: 634. Edward J. S. Lin 林敬賢 / 2015/09](https://taiwaneseamericanhistory.org/whos634-edward-j-s-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/edward-j-s-lin/)
 
 ## Related Pages

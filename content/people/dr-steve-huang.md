@@ -28,6 +28,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #2190 encyclopedia: 2190. Dr. Steve Huang 黃文谷醫師](https://taiwaneseamericanhistory.org/whos-who-2190-steve-huang/)
+- [TAH #224 encyclopedia: 224. Dr. Steve Huang 黃文谷醫師](https://taiwaneseamericanhistory.org/224/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-steve-huang/)
 
 ## Related Pages

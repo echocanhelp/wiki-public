@@ -27,6 +27,7 @@ Waylaid (2002) won a Members' Choice Award at the Asian American Literary Awards
 
 
 ## Sources
+- [TAH #120 encyclopedia: 120. Ed Lin 林艾德](https://taiwaneseamericanhistory.org/120-sally-tsai-%e8%94%a1%e6%b7%91%e7%90%86/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ed-lin/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ Pianist Yi-Fang Huang 黃亦芳, a native of Taiwan, received both Bachelor and 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1109 encyclopedia: 1109. Yi-Fang Huang 黃亦芳 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1109/)
+- [TAH #39 encyclopedia: 39. Yi-Fang Huang 黃亦芳, Pianist/2014/10](https://taiwaneseamericanhistory.org/musician39/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yi-fang-huang/)
 
 ## Related Pages

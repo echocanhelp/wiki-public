@@ -26,6 +26,7 @@ Haofan Eric Peng (彭浩帆) is listed in the TAH Foundation Who’s Who Taiwane
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1372 encyclopedia: 1372. Haofan (Eric) Peng  彭浩帆 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1372/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/haofan-eric-peng/)
 
 ## Related Pages

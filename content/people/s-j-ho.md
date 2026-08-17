@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2116 encyclopedia: 2116. S. J. Ho 何世杰](https://taiwaneseamericanhistory.org/whos-who-2116-s-j-ho/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/s-j-ho/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ An energetic and passionate performer, Dr. Lin plays before enthusiastic audienc
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #364 encyclopedia: 364. Chiu-Ling Lin林巧琳, Pianist / 2016/09](https://taiwaneseamericanhistory.org/musician364/)
+- [TAH #1286 encyclopedia: 1286. Chiu-Ling Lin 林巧琳 / 2016/09](https://taiwaneseamericanhistory.org/whoswho1286/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chiu-ling-lin/)
 
 ## Related Pages

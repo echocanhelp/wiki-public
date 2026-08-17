@@ -26,6 +26,7 @@ Freeman Lin (林日榮) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1034 encyclopedia: 1034. Freeman Lin 林日榮/ 2016/05](https://taiwaneseamericanhistory.org/whoswho1034/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/freeman-lin/)
 
 ## Related Pages

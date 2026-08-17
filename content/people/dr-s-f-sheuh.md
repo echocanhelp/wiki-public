@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1899 encyclopedia: 1899. Dr. S. F. Sheuh 薛信夫博士](https://taiwaneseamericanhistory.org/whos-who-1899-s-f-sheuh/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-s-f-sheuh/)
 
 ## Related Pages

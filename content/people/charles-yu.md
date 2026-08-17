@@ -29,6 +29,8 @@ Charles Yu (游朝凱) is a novelist, short story writer, and screenwriter born 
 
 
 ## Sources
+- [TAH #768 encyclopedia: 768. 台美人之光!! 游朝凱（Charles Yu）榮獲美國最高榮譽的國家圖書奬/11/2020](https://taiwaneseamericanhistory.org/my-stories-768/)
+- [TAH #264 encyclopedia: 264. Charles Yu 游朝凱](https://taiwaneseamericanhistory.org/whos-who264-charles-yu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/charles-yu/)
 
 ## Related Pages

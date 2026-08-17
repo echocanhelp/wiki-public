@@ -26,6 +26,8 @@ A native of Taiwan, Sharon Cheng made her US professional debut with New Jersey 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #349 encyclopedia: 349. Sharon Cheng 鄭怡君, Soprano / 2016/07](https://taiwaneseamericanhistory.org/musician349/)
+- [TAH #1176 encyclopedia: 1176. Sharon Cheng 鄭怡君 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1176/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sharon-cheng/)
 
 ## Related Pages

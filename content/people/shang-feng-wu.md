@@ -26,6 +26,8 @@ Shang-Feng Wu (吳上峯) is listed in the TAH Foundation Who’s Who Taiwanese 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #335 encyclopedia: 335. Shang-Feng Wu吳上峯,Musician / 2016/04](https://taiwaneseamericanhistory.org/musician-335/)
+- [TAH #922 encyclopedia: 922. Shang-Feng Wu 吳上峯/ 2016/04](https://taiwaneseamericanhistory.org/whoswho922/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shang-feng-wu/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #522 encyclopedia: 522. 杜宛珊 / 2015/08](https://taiwaneseamericanhistory.org/522-%e6%9d%9c%e5%ae%9b%e7%8f%8a-201508/)
+- [TAH #253 encyclopedia: 253. Wan-Shan Du 杜宛珊，Pianist / 2015/08](https://taiwaneseamericanhistory.org/253-%e6%9d%9c%e5%ae%9b%e7%8f%8a%ef%bc%8cpianist-201508/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e6%9d%9c%e5%ae%9b%e7%8f%8a/)
 
 ## Related Pages

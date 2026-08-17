@@ -26,6 +26,7 @@ Videographer and Instructional Technology Assistant at the Teaching, Learning & 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2083 encyclopedia: 2083. Jessie Lee 李潔晞](https://taiwaneseamericanhistory.org/whos-who-2083-jessie-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jessie-lee/)
 
 ## Related Pages

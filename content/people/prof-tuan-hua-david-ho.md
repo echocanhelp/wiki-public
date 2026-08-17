@@ -26,6 +26,7 @@ Prof. Tuan-Hua (David) Ho 賀端華教授 – History of Taiwanese American (T.A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1794 encyclopedia: 1794. Prof. Tuan-Hua (David) Ho 賀端華教授](https://taiwaneseamericanhistory.org/whos-who-1794-tuan-hua-ho/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-tuan-hua-david-ho/)
 
 ## Related Pages

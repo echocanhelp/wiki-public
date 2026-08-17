@@ -30,6 +30,7 @@ S. J. Lin (林宣繼) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 
 
 ## Sources
+- [TAH #2112 encyclopedia: 2112. S. J. Lin 林宣繼 / 05/2018](https://taiwaneseamericanhistory.org/whoswho2112/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/s-j-lin/)
 
 ## Related Pages

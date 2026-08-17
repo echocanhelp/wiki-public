@@ -27,6 +27,7 @@ Jane Lin (許淑貞) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 
 
 ## Sources
+- [TAH #799 encyclopedia: 799. Jane Lin 許淑貞/ 2016/02](https://taiwaneseamericanhistory.org/799-jane-lin-%e8%a8%b1%e6%b7%91%e8%b2%9e-201602/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jane-lin/)
 
 ## Related Pages

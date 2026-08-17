@@ -26,6 +26,7 @@ Valentina Wen-Ting Huang Born in Taiwan, Ms. Huang performed at the gala concert
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #268 encyclopedia: 268. Valentina Wen-Ting Huang 黃文亭, Pianist / 2015/08](https://taiwaneseamericanhistory.org/268-valentina-wen-ting-huang-pianist-201508/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/valentina-wen-ting-huang/)
 
 ## Related Pages

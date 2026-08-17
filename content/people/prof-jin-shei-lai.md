@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1997 encyclopedia: 1997. Prof. Jin-Shei Lai 賴金雪教授](https://taiwaneseamericanhistory.org/whos-who-1997-jin-shei-lai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-jin-shei-lai/)
 
 ## Related Pages

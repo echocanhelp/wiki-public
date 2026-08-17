@@ -26,6 +26,7 @@ S. S. Wu (吳炫三) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1549 encyclopedia: 1549. S. S. Wu 吳炫三 / 2017/03](https://taiwaneseamericanhistory.org/whoswho1549/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/s-s-wu/)
 
 ## Related Pages

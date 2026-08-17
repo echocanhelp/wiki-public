@@ -26,6 +26,8 @@ W. J. James Chung (鍾文忠) is listed in the TAH Foundation Who’s Who Taiwan
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1932 encyclopedia: 1932. W. J. (James) Chung 鍾文忠](https://taiwaneseamericanhistory.org/whos-who-1932-wen-jung-chung/)
+- [TAH #344 encyclopedia: 344. James Chuang 鍾文忠 / Famous Restaurateur of Sushi Food “Ichiban Japanese Cate](https://taiwaneseamericanhistory.org/ff344/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/w-j-james-chung/)
 
 ## Related Pages

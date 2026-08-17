@@ -29,6 +29,7 @@ Chao-Huei (Jeffrey) Wang 王肇輝 – History of Taiwanese American (T.A. Archi
 
 
 ## Sources
+- [TAH #965 encyclopedia: 965.  Chao-Huei (Jeffrey) Wang 王肇輝 / 2016/05](https://taiwaneseamericanhistory.org/whoswho965/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chao-huei-jeffrey-wang/)
 
 ## Related Pages

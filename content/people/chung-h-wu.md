@@ -29,6 +29,8 @@ University of Pennsylvania
 
 
 ## Sources
+- [TAH #833 encyclopedia: 833. A tribute to our  “ 貴人（Benefactor）”  Chung-Hsiu Wu, M.D. （吳忠修） | 05/2022](https://taiwaneseamericanhistory.org/my-stories-833/)
+- [TAH #1347 encyclopedia: 1347. Chung H. Wu 吳忠修 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1347/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chung-h-wu/)
 
 ## Related Pages

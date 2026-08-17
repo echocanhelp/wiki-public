@@ -27,6 +27,7 @@ Doris Hsieh (謝必行) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #1517 encyclopedia: 1517.  Doris Hsieh 謝必行/ 2017/02](https://taiwaneseamericanhistory.org/whoswho1517/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/doris-hsieh/)
 
 ## Related Pages

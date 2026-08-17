@@ -27,6 +27,7 @@ Ing-Hui Lai (賴英慧) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #701 encyclopedia: 701. Ing-Hui Lai 賴英慧 / 2015/11](https://taiwaneseamericanhistory.org/701-ing-hui-lai-%e8%b3%b4%e8%8b%b1%e6%85%a7-201511/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ing-hui-lai/)
 
 ## Related Pages

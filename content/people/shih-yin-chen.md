@@ -26,6 +26,8 @@ Shih-Yin Chen 陳詩音, conductor, received both bachelor’s and master’s de
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1090 encyclopedia: 1090. Shih-Yin Chen 陳詩音2016/06](https://taiwaneseamericanhistory.org/whoswho1090/)
+- [TAH #23 encyclopedia: 23. Shih-Yin Chen 陳詩音, Conductor/2014/10](https://taiwaneseamericanhistory.org/musician23/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shih-yin-chen/)
 
 ## Related Pages

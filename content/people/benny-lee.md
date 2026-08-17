@@ -30,6 +30,7 @@ Benny Lee (李永杰) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 
 
 ## Sources
+- [TAH #1327 encyclopedia: 1327.  Benny Lee 李永杰 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1327/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/benny-lee/)
 
 ## Related Pages

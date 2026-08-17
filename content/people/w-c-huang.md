@@ -27,6 +27,7 @@ W. C. Huang (黃維城) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #2084 encyclopedia: 2084. W. C. Huang 黃維城 / 03/2018](https://taiwaneseamericanhistory.org/whoswho2084/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/w-c-huang/)
 
 ## Related Pages

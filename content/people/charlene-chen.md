@@ -29,6 +29,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #2205 encyclopedia: 2205. Charlene Chen 陳怡林](https://taiwaneseamericanhistory.org/whos-who-2205-charlene-chen/)
+- [TAH #210 encyclopedia: 210. Charlene Chen 陳怡林](https://taiwaneseamericanhistory.org/210/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/charlene-chen/)
 
 ## Related Pages

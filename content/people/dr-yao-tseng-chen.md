@@ -28,6 +28,7 @@ Associate Professor of Pathology, Pathology and Laboratory Medicine
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2005 encyclopedia: 2005. Dr. Yao-Tseng Chen 陳耀楨醫師](https://taiwaneseamericanhistory.org/whos-who-2005-yao-tseng-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-yao-tseng-chen/)
 
 ## Related Pages

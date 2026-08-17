@@ -27,6 +27,7 @@ Lisa Peng (彭郁靜) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 
 
 ## Sources
+- [TAH #1806 encyclopedia: 1806. Lisa Peng 彭郁靜](https://taiwaneseamericanhistory.org/whos-who-1806-lisa-peng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/lisa-peng/)
 
 ## Related Pages

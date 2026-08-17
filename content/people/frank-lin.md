@@ -27,6 +27,7 @@ Frank Lin (林俊甫) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 
 
 ## Sources
+- [TAH #1489 encyclopedia: 1489. Frank Lin 林俊甫 / 2017/01](https://taiwaneseamericanhistory.org/whoswho1489/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/frank-lin/)
 
 ## Related Pages

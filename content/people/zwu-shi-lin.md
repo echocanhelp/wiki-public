@@ -27,6 +27,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1343 encyclopedia: 1343. Zwu-Shi Lin 林竹信 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1343/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/zwu-shi-lin/)
 
 ## Related Pages

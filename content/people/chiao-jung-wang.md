@@ -26,6 +26,7 @@ Chiao-jung Wang (王巧蓉) is listed in the TAH Foundation Who’s Who Taiwanes
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1712 encyclopedia: 1712. Chiao-jung Wang 王巧蓉 / 07/2017](https://taiwaneseamericanhistory.org/whoswho1712/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chiao-jung-wang/)
 
 ## Related Pages

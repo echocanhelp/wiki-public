@@ -27,6 +27,7 @@ Ho Yang Lin (楊千鶴) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #1311 encyclopedia: 1311. Ho Yang Lin 楊千鶴/ 2016/10](https://taiwaneseamericanhistory.org/whoswho1311/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ho-yang-lin/)
 
 ## Related Pages

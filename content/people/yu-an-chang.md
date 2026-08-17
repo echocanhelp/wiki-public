@@ -27,6 +27,8 @@ Born in Penghu, Taiwan, conductor Yu-An Chang was awarded first prize at the 201
 
 
 ## Sources
+- [TAH #2238 encyclopedia: 2238. Yu-An Chang 張宇安](https://taiwaneseamericanhistory.org/whos-who-2238-yu-an-chang/)
+- [TAH #438 encyclopedia: 438. Yu-An Chang 張宇安 Conductor/01/2020](https://taiwaneseamericanhistory.org/musician-438/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yu-an-chang/)
 
 ## Related Pages

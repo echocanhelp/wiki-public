@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1699 encyclopedia: 1699. Mei Lu 陳香梅](https://taiwaneseamericanhistory.org/whos-who-1699-mei-lu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mei-lu/)
 
 ## Related Pages

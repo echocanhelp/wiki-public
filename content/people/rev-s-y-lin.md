@@ -28,6 +28,7 @@ Rev. S. Y. Lin (林皙陽牧師) is listed in the TAH Foundation Who’s Who Tai
 
 
 ## Sources
+- [TAH #1696 encyclopedia: 1696. Rev. S. Y. Lin 林皙陽牧師](https://taiwaneseamericanhistory.org/whos-who-1696-s-y-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rev-s-y-lin/)
 
 ## Related Pages

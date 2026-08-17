@@ -26,6 +26,7 @@ SueAnn Shiah (夏叔安) is listed in the TAH Foundation Who’s Who Taiwanese A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1613 encyclopedia: 1613. SueAnn Shiah 夏叔安](https://taiwaneseamericanhistory.org/whos-sueann-shiah/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sueann-shiah/)
 
 ## Related Pages

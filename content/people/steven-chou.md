@@ -27,6 +27,7 @@ Steven Chou (周清耀) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #1147 encyclopedia: 1147.  Steven Chou 周清耀 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1147/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/steven-chou/)
 
 ## Related Pages

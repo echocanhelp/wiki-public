@@ -26,6 +26,8 @@ Jacob Lu (盧能榮) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #691 encyclopedia: 691. Jacob Lu 盧能榮 / 2015/11](https://taiwaneseamericanhistory.org/691-jacob-lu-%e7%9b%a7%e8%83%bd%e6%a6%ae-201511/)
+- [TAH #314 encyclopedia: 314. Jacob Lu盧能榮, Composer, Pianist / 2015/11](https://taiwaneseamericanhistory.org/314-jacob-lu%e7%9b%a7%e8%83%bd%e6%a6%ae-composer-pianist-201511/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jacob-lu/)
 
 ## Related Pages

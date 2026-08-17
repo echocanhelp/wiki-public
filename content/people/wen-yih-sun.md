@@ -26,6 +26,7 @@ Wen-Yih Sun (商文義) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1579 encyclopedia: 1579. Wen-Yih Sun 商文義 /2017/03](https://taiwaneseamericanhistory.org/1579-wen-yih-sun-%e5%95%86%e6%96%87%e7%be%a9-201703/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/wen-yih-sun/)
 
 ## Related Pages

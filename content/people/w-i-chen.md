@@ -34,6 +34,7 @@ W. I. Chen (陳石溫愛) is listed in the TAH Foundation Who’s Who Taiwanese 
 
 
 ## Sources
+- [TAH #1030 encyclopedia: 1030. W. I. Chen 陳石溫愛 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1030/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/w-i-chen/)
 
 ## Related Pages

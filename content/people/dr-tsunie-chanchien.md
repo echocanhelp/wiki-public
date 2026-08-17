@@ -26,6 +26,7 @@ Dr. Tsunie Chanchien 張簡俊一醫師 – History of Taiwanese American (T.A. 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1653 encyclopedia: 1653. Dr. Tsunie Chanchien 張簡俊一醫師](https://taiwaneseamericanhistory.org/whos-who-1653-tsunie-chanchien/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-tsunie-chanchien/)
 
 ## Related Pages

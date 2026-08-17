@@ -26,6 +26,8 @@ Pianist Hui-Chuan Chen 陳慧娟 was born in Kaohsiung, Taiwan and began piano l
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1093 encyclopedia: 1093. Hui-Chuan Chen 陳慧娟 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1093/)
+- [TAH #27 encyclopedia: 27. Hui-Chuan Chen 陳慧娟, Pianist/2014/10](https://taiwaneseamericanhistory.org/musician27/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hui-chuan-chen/)
 
 ## Related Pages

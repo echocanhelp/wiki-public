@@ -28,6 +28,7 @@ Co-author, Somewhere Inside: One Sister's Captivity in North Korea and the Other
 
 
 ## Sources
+- [TAH #133 encyclopedia: 133. Laura G. Ling 凌志美](https://taiwaneseamericanhistory.org/133-laura-g-ling-%e5%87%8c%e5%bf%97%e7%be%8e/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/laura-g-ling/)
 
 ## Related Pages

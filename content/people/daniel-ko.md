@@ -27,6 +27,7 @@ Daniel Ko (柯耀宗博士) is listed in the TAH Foundation Who’s Who Taiwanes
 
 
 ## Sources
+- [TAH #299 encyclopedia: 299. Dr. Daniel Y. Ko 柯耀宗博士](https://taiwaneseamericanhistory.org/ota-299/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/daniel-ko/)
 
 ## Related Pages

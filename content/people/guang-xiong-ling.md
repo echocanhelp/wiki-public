@@ -26,6 +26,7 @@ Guang-Xiong Ling (凌光雄) is listed in the TAH Foundation Who’s Who Taiwane
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2228 encyclopedia: 2228. Guang-Xiong Ling 凌光雄/11/2019](https://taiwaneseamericanhistory.org/whos-who-2228/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/guang-xiong-ling/)
 
 ## Related Pages

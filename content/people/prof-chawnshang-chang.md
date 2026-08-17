@@ -28,6 +28,9 @@ Prof. Chawnshang Chang 張傳祥教授 – History of Taiwanese American (T.A. A
 
 
 ## Sources
+- [TAH #77 encyclopedia: 77. Prof. Chawnshang Chang 張傳祥教授](https://taiwaneseamericanhistory.org/77-prof-chawnshang-chang/)
+- [TAH #22 encyclopedia: 22. Prof. Chawnshang Chang 張傳祥教授](https://taiwaneseamericanhistory.org/prof-chawnshang-chang/)
+- [TAH #2047 encyclopedia: 2047. Prof. Chawnshang Chang 張傳祥教授](https://taiwaneseamericanhistory.org/whos-who-2047-chawnshang-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-chawnshang-chang/)
 
 ## Related Pages

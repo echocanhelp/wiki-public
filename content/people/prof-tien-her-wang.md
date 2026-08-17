@@ -27,6 +27,7 @@ Prof. Tien-Her Wang (王天合教授) is listed in the TAH Foundation Who’s Wh
 
 
 ## Sources
+- [TAH #2261 encyclopedia: 2261. Prof. Tien-Her Wang 王天合教授/04/2020](https://taiwaneseamericanhistory.org/whos-who-2261-tien-her-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-tien-her-wang/)
 
 ## Related Pages

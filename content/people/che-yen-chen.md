@@ -26,6 +26,8 @@ Taiwanese-American violist Che-Yen Chen, Professor of Viola at the USC Thornton 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #227 encyclopedia: 227. Che-Yen Chen 陳則言, Violist / 2015/07](https://taiwaneseamericanhistory.org/227-che-yen-chen-%e9%99%b3%e5%89%87%e8%a8%80-violist-201507/)
+- [TAH #475 encyclopedia: 475. Che-Yen Chen 陳則言 / 2015/07](https://taiwaneseamericanhistory.org/475-che-yen-chen-%e9%99%b3%e5%89%87%e8%a8%80-201507/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/che-yen-chen/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ Source from 美國台美會計師協會http://tacpas.org/wp-content/uploads/2014
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2054 encyclopedia: 2054.  Judith Sullivan 林秀華](https://taiwaneseamericanhistory.org/whos-who-2054-judith-sullivan/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/judith-sullivan/)
 
 ## Related Pages

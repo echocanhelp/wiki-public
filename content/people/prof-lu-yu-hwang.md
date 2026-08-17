@@ -27,6 +27,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #2184 encyclopedia: 2184. Prof. Lu-Yu Hwang 黃綠玉教授](https://taiwaneseamericanhistory.org/whos-who-2184-lu-yu-hwang/)
+- [TAH #253 encyclopedia: 253. Prof. Lu-Yu Hwang 黃綠玉教授](https://taiwaneseamericanhistory.org/ota-253/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-lu-yu-hwang/)
 
 ## Related Pages

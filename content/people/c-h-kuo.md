@@ -28,6 +28,7 @@ Assistant Professor
 
 
 ## Sources
+- [TAH #1189 encyclopedia: 1189. C. H. Kuo 郭忠豪 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1189/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-h-kuo/)
 
 ## Related Pages

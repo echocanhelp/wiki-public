@@ -28,6 +28,7 @@ Professor and Director of Anesthesiology/Pharmacy
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2006 encyclopedia: 2006. Dr. Wen-Hsien Wu 吳聞咸醫師](https://taiwaneseamericanhistory.org/whoswho2006/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-wen-hsien-wu/)
 
 ## Related Pages

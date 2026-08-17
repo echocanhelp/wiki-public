@@ -26,6 +26,7 @@ Prof. Hung-Wen (Ben) Liu 劉鴻文教授 – History of Taiwanese American (T.A.
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1784 encyclopedia: 1784. Prof. Hung-Wen (Ben) Liu 劉鴻文教授](https://taiwaneseamericanhistory.org/whos-who-1784-hung-wen-liu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-hung-wen-ben-liu/)
 
 ## Related Pages

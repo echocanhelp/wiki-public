@@ -26,6 +26,8 @@ Gifted with perfect pitch and agility, Ms. Lee won numerous piano competitions s
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #230 encyclopedia: 230. Sonia Lee 王淑女 / 2015/01](https://taiwaneseamericanhistory.org/230-230-sonia-lee-%e7%8e%8b%e6%b7%91%e5%a5%b3-201501/)
+- [TAH #115 encyclopedia: 115. Sonia Lee 王淑女, Pianist / 2015/01](https://taiwaneseamericanhistory.org/115-sonia-lee-%e7%8e%8b%e6%b7%91%e5%a5%b3-pianist-201501/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sonia-lee/)
 
 ## Related Pages

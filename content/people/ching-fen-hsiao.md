@@ -30,6 +30,7 @@ Ching-Fen Hsiao (蕭清芬) is listed in the TAH Foundation Who’s Who Taiwanes
 
 
 ## Sources
+- [TAH #1433 encyclopedia: 1433. Ching-Fen Hsiao 蕭清芬/ 2016/12](https://taiwaneseamericanhistory.org/whoswho1433/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ching-fen-hsiao/)
 
 ## Related Pages

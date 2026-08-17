@@ -26,6 +26,7 @@ Jin-Sheng Jian (簡金生) is listed in the TAH Foundation Who’s Who Taiwanese
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2229 encyclopedia: 2229. Jin-Sheng Jian 簡金生/11/2019](https://taiwaneseamericanhistory.org/whos-who-2229/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jin-sheng-jian/)
 
 ## Related Pages

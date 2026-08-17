@@ -26,6 +26,7 @@ Jennifer Hung (洪錦鈺) is listed in the TAH Foundation Who’s Who Taiwanese 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1485 encyclopedia: 1485. Jennifer Hung 洪錦鈺  / 2017/01](https://taiwaneseamericanhistory.org/whoswho1485/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jennifer-hung/)
 
 ## Related Pages

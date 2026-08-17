@@ -26,6 +26,7 @@ L. H. Chen (陳隆旭) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1898 encyclopedia: 1898. L. H. Chen 陳隆旭 / 09/2017](https://taiwaneseamericanhistory.org/whoswho1898/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/l-h-chen/)
 
 ## Related Pages

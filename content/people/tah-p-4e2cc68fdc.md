@@ -29,6 +29,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #480 encyclopedia: 480. 張肅 / 2015/07](https://taiwaneseamericanhistory.org/whos480/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e5%bc%b5%e8%82%85/)
 
 ## Related Pages

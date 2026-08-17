@@ -29,6 +29,7 @@ Fu-Mei Wu Chen (陳吳富美) is listed in the TAH Foundation Who’s Who Taiwan
 
 
 ## Sources
+- [TAH #327 encyclopedia: 327. Fu-Mei Wu Chen 陳吳富美/2015/03](https://taiwaneseamericanhistory.org/whos-who-327-fu-mei-wu-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/fu-mei-wu-chen/)
 
 ## Related Pages

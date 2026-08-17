@@ -26,6 +26,11 @@ Soprano Li-Chan Chen was the leading soprano of the ensemble of the Pfalztheater
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #71 encyclopedia: 71. Li-Chan Chen-Maxham 陳麗嬋](https://taiwaneseamericanhistory.org/71-li-chan-chen/)
+- [TAH #1114 encyclopedia: 1114. Li-Chan Chen-Maxham 陳麗嬋](https://taiwaneseamericanhistory.org/whos-who-1114-li-chan-chen-maxham/)
+- [TAH #11 encyclopedia: 11. Li-Chan Chen 陳麗嬋 / Famous Soprano](https://taiwaneseamericanhistory.org/11-li-chan-chen-famous-soprano/)
+- [TAH #312 encyclopedia: 312. 台灣的世紀女高音－陳麗嬋/林衡哲/2015/07](https://taiwaneseamericanhistory.org/mystories312/)
+- [TAH #60 encyclopedia: 60. Li-Chan Chen-Maxham 陳麗嬋, Soprano/2014/10](https://taiwaneseamericanhistory.org/60-li-chan-chen-maxham-%e9%99%b3%e9%ba%97%e5%ac%8b-soprano/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/li-chan-chen-maxham/)
 
 ## Related Pages

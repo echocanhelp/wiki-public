@@ -27,6 +27,7 @@ H. T. Chen (陳學同) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #967 encyclopedia: 967. H. T. Chen 陳學同 / 2016/05](https://taiwaneseamericanhistory.org/whoswho967/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/h-t-chen/)
 
 ## Related Pages

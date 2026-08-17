@@ -27,6 +27,7 @@ Michael Fonte (彭光理) is listed in the TAH Foundation Who’s Who Taiwanese 
 
 
 ## Sources
+- [TAH #962 encyclopedia: 962. Michael Fonte 彭光理 / 2016/05](https://taiwaneseamericanhistory.org/whoswho962/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/michael-fonte/)
 
 ## Related Pages

@@ -27,6 +27,9 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #233 encyclopedia: 233. Will Tiao 刁毓能](https://taiwaneseamericanhistory.org/ota-233/)
+- [TAH #40 encyclopedia: 40. Will Tiao 刁毓能 / The first movie producer / “Formosa Betrayed” / 2009](https://taiwaneseamericanhistory.org/40-will-tiao-%e5%88%81%e6%af%93%e8%83%bd-the-first-movie-producer-formosa-betrayed-2009/)
+- [TAH #167 encyclopedia: 167. Will Tiao 刁毓能](https://taiwaneseamericanhistory.org/whos-who-167-will-tiao/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/will-tiao/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ MAO-CHUNG LEE (李茂宗) is listed in the TAH Foundation Who’s Who Taiwanese 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1021 encyclopedia: 1021.   MAO-CHUNG LEE 李茂宗 2016/05](https://taiwaneseamericanhistory.org/whoswho1021/)
+- [TAH #33 encyclopedia: 33. 李茂宗LEE MAO-CHUNG /2015/03](https://taiwaneseamericanhistory.org/33-%e6%9d%8e%e8%8c%82%e5%ae%97lee-mao-chung-201503/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mao-chung-lee/)
 
 ## Related Pages

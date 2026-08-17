@@ -28,6 +28,7 @@ Dr. K. P. Fu (傅康平博士) is listed in the TAH Foundation Who’s Who Taiwa
 
 
 ## Sources
+- [TAH #2299 encyclopedia: 2299. Dr. K. P. Fu 傅康平博士](https://taiwaneseamericanhistory.org/whos-who-2299-k-p-fu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-k-p-fu/)
 
 ## Related Pages

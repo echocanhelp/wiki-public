@@ -28,6 +28,7 @@ Robert G. Chu (朱靜懷) is listed in the TAH Foundation Who’s Who Taiwanese 
 
 
 ## Sources
+- [TAH #2144 encyclopedia: 2144. Robert G. Chu 朱靜懷](https://taiwaneseamericanhistory.org/whos-who-2144-robert-g-chu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/robert-g-chu/)
 
 ## Related Pages

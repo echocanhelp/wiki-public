@@ -29,6 +29,7 @@ Prof. Tsan-Iang Chuang 莊燦陽教授 – History of Taiwanese American (T.A. A
 
 
 ## Sources
+- [TAH #2153 encyclopedia: 2153. Prof. Tsan-Iang Chuang 莊燦陽教授](https://taiwaneseamericanhistory.org/whos-who-2153-tsan-iang-chuang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-tsan-iang-chuang/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ Upon graduation from the National Art Academy in Taiwan, Zoe Huang entered the J
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #221 encyclopedia: 221. Zoe Huang 黃瑞芬, Vocalist / 2015/06](https://taiwaneseamericanhistory.org/221-zoe-huang-%e9%bb%83%e7%91%9e%e8%8a%ac-vocalist-201506/)
+- [TAH #373 encyclopedia: 373. Zoe Huang 黃瑞芬/2015/04](https://taiwaneseamericanhistory.org/373-zoe-huang-%e9%bb%83%e7%91%9e%e8%8a%ac201504/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/zoe-huang/)
 
 ## Related Pages

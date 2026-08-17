@@ -28,6 +28,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #1618 encyclopedia: 1618. Dr. Tom Chiu 邱崇德博士](https://taiwaneseamericanhistory.org/whos-who-1618-tom-chiu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-tom-chiu/)
 
 ## Related Pages

@@ -29,6 +29,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #316 encyclopedia: 316. Herbert T Chen 陳志青/2015/03](https://taiwaneseamericanhistory.org/316-herbert-t-chen-%e9%99%b3%e5%bf%97%e9%9d%92201503/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/herbert-t-chen/)
 
 ## Related Pages

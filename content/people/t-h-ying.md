@@ -27,6 +27,7 @@ T. H. Ying (應天華) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #1161 encyclopedia: 1161. T. H. Ying 應天華 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1161/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/t-h-ying/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #921 encyclopedia: 921. 李彥秀 / 2016/04](https://taiwaneseamericanhistory.org/whoswho921/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e6%9d%8e%e5%bd%a5%e7%a7%80/)
 
 ## Related Pages

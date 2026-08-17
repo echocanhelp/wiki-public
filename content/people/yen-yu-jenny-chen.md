@@ -27,6 +27,7 @@ Dr. Yen-Yu (Jenny) Chen 陳延瑜博士 – History of Taiwanese American (T.A. 
 
 
 ## Sources
+- [TAH #1814 encyclopedia: 1814. Dr. Yen-Yu (Jenny) Chen 陳延瑜博士](https://taiwaneseamericanhistory.org/whos-who-1814-yen-yu-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yen-yu-jenny-chen/)
 
 ## Related Pages

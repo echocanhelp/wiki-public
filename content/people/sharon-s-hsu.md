@@ -27,6 +27,9 @@ Sharon S. Hsu (許聖美) is listed in the TAH Foundation Who’s Who Taiwanese 
 
 
 ## Sources
+- [TAH #42 encyclopedia: 42. Paul (Chung Chen) and Sharon Hsu 許忠政, 許聖美 / The first private business enter](https://taiwaneseamericanhistory.org/ff42/)
+- [TAH #263 encyclopedia: 263. Sharon S. Hsu 許聖美/2015/02](https://taiwaneseamericanhistory.org/263-sharon-s-hsu-%e8%a8%b1%e8%81%96%e7%be%8e201502/)
+- [TAH #165 encyclopedia: 165. 許聖美-參參不息的綠金傳奇/秋鄉/2010](https://taiwaneseamericanhistory.org/165-%e8%a8%b1%e8%81%96%e7%be%8e-%e5%8f%83%e5%8f%83%e4%b8%8d%e6%81%af%e7%9a%84%e7%b6%a0%e9%87%91%e5%82%b3%e5%a5%87%e7%a7%8b%e9%84%892010/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sharon-s-hsu/)
 
 ## Related Pages

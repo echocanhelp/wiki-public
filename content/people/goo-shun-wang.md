@@ -26,6 +26,7 @@ Goo-Shun Wang (王谷神) is listed in the TAH Foundation Who’s Who Taiwanese 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1639 encyclopedia: 1639. Goo-Shun Wang 王谷神](https://taiwaneseamericanhistory.org/whos-who-1639-goo-shun-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/goo-shun-wang/)
 
 ## Related Pages

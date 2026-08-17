@@ -26,6 +26,7 @@ I am not an academically trained artist, but I have always possessed strong inte
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #45 encyclopedia: 45. 陳素華Suhua Low/2015/05](https://taiwaneseamericanhistory.org/45-%e9%99%b3%e7%b4%a0%e8%8f%afsuhua-low201505/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/suhua-low/)
 
 ## Related Pages

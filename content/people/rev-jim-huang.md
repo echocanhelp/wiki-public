@@ -27,6 +27,7 @@ Rev. Jim Huang (黃景彬牧師) is listed in the TAH Foundation Who’s Who Tai
 
 
 ## Sources
+- [TAH #1689 encyclopedia: 1689. Rev. Jim Huang 黃景彬牧師](https://taiwaneseamericanhistory.org/whos-who-1689-jim-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rev-jim-huang/)
 
 ## Related Pages

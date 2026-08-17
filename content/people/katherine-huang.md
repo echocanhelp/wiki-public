@@ -9,7 +9,7 @@ tags:
   - litigation
 verification_status: pending
 featured: true
-last_reviewed: 2026-07-19
+last_reviewed: 2026-08-17
 ---
 # Katherine Huang (黃愷怡)
 
@@ -77,6 +77,7 @@ She is proficient in Taiwanese, Mandarin, and Spanish, and has taught creative w
 - **Note:** The profile includes detailed biographical information including education, clerkship, and professional career.
 
 ## Sources
+- [TAH #1213 encyclopedia: 1213. Catherine Huang 黃愷怡 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1213/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/catherine-huang/)
 
 ## Related Pages

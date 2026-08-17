@@ -26,6 +26,8 @@ Sheng-Yuan Kuan (官聖媛) is listed in the TAH Foundation Who’s Who Taiwanes
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #446 encyclopedia: 446. Sheng-Yuan Kuan 官聖媛 / 2015-06](https://taiwaneseamericanhistory.org/446/)
+- [TAH #31 encyclopedia: 31. Sheng-Yuan Kuan 官聖媛, Pianist/2014/10](https://taiwaneseamericanhistory.org/31-sheng-yuan-kuan-%e5%ae%98%e8%81%96%e5%aa%9b-piano/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sheng-yuan-kuan/)
 
 ## Related Pages

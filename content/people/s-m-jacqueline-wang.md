@@ -28,6 +28,7 @@ S. M. (Jacqueline) Wang 王賽美 – History of Taiwanese American (T.A. Archiv
 
 
 ## Sources
+- [TAH #1973 encyclopedia: 1973. S. M. (Jacqueline) Wang 王賽美](https://taiwaneseamericanhistory.org/whos-who-1973-s-m-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/s-m-jacqueline-wang/)
 
 ## Related Pages

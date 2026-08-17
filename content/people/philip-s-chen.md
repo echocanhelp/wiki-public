@@ -27,6 +27,7 @@ Philip S. Chen (陳伸夫) is listed in the TAH Foundation Who’s Who Taiwanese
 
 
 ## Sources
+- [TAH #1043 encyclopedia: 1043. Philip S. Chen 陳伸夫 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1043/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/philip-s-chen/)
 
 ## Related Pages

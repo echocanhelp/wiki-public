@@ -28,6 +28,7 @@ L. M. Chen (陳麗美) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #1881 encyclopedia: 1881. L. M. Chen 陳麗美](https://taiwaneseamericanhistory.org/whos-who-1881-l-m-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/l-m-chen/)
 
 ## Related Pages

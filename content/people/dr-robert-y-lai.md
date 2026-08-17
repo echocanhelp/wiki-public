@@ -27,6 +27,8 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #276 encyclopedia: 276. Dr. Robert Y. Lai 賴義雄博士](https://taiwaneseamericanhistory.org/ota-276/)
+- [TAH #759 encyclopedia: 759. Dr. Robert Y. Lai 賴義雄博士](https://taiwaneseamericanhistory.org/whos-who-759-robert-y-lai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-robert-y-lai/)
 
 ## Related Pages

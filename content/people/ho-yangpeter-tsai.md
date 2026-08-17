@@ -29,6 +29,7 @@ Ho-Yang Peter Tsai (蔡和陽) is listed in the TAH Foundation Who’s Who Taiwa
 
 
 ## Sources
+- [TAH #1656 encyclopedia: 1656. Ho-Yang(Peter) Tsai 蔡和陽 / 05/2017](https://taiwaneseamericanhistory.org/whoswho1656/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ho-yangpeter-tsai/)
 
 ## Related Pages

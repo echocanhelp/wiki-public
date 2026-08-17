@@ -26,6 +26,7 @@ M. Y. Wu (吳美雲) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1435 encyclopedia: 1435. M. Y. Wu 吳美雲/ 2016/12](https://taiwaneseamericanhistory.org/whoswho1435/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/m-y-wu/)
 
 ## Related Pages

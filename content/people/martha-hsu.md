@@ -27,6 +27,8 @@ Martha Hsu (許秀聰) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #1071 encyclopedia: 1071. Martha Hsu 許秀聰 / 20016/06](https://taiwaneseamericanhistory.org/whoswho1070/)
+- [TAH #137 encyclopedia: 137. 許秀聰Martha Hsu VanDriel / First Female T. A. Graduate from West Point/ 1991](https://taiwaneseamericanhistory.org/first-137/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/martha-hsu/)
 
 ## Related Pages

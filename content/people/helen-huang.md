@@ -26,6 +26,8 @@ Huang was born in Japan, of Taiwanese parents, in 1982. Her family moved to the 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #232 encyclopedia: 232. Helen Huang 黃海倫, Pianist / 2015/07](https://taiwaneseamericanhistory.org/232-helen-huang-%e9%bb%83%e6%b5%b7%e5%80%ab-pianist-201507/)
+- [TAH #482 encyclopedia: 482. Helen Huang 黃海倫 / 2015/07](https://taiwaneseamericanhistory.org/482-helen-huang-%e9%bb%83%e6%b5%b7%e5%80%ab-201507/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/helen-huang/)
 
 ## Related Pages

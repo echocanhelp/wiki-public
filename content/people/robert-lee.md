@@ -28,6 +28,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #1868 encyclopedia: 1868. Robert Lee 李席舟](https://taiwaneseamericanhistory.org/whos-who-1868-robert-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/robert-lee/)
 
 ## Related Pages

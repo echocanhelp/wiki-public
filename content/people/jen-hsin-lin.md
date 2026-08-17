@@ -26,6 +26,8 @@ Jen Hsin Lin is a Taiwanese American visual artist based in Orange County, Calif
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #60 encyclopedia: 60. 林人信 JEN HSIN LIN /03/2016](https://taiwaneseamericanhistory.org/artist60-jen-hsin-lin/)
+- [TAH #891 encyclopedia: 891. JEN HSIN LIN 林人信 / 2016/03](https://taiwaneseamericanhistory.org/whos891-jen-hsin-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jen-hsin-lin/)
 
 ## Related Pages

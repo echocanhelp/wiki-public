@@ -27,6 +27,8 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #522 encyclopedia: 522.洪家棟 吉他介紹片/洪家棟/2003/-/Music/音樂CD](https://taiwaneseamericanhistory.org/522-%e6%b4%aa%e5%ae%b6%e6%a3%9f-%e5%90%89%e4%bb%96%e4%bb%8b%e7%b4%b9%e7%89%87%e6%b4%aa%e5%ae%b6%e6%a3%9f2003-music%e9%9f%b3%e6%a8%82cd/)
+- [TAH #60 encyclopedia: 60. Victor Hung 洪家棟](https://taiwaneseamericanhistory.org/whos-who-60-victor-hung/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/victor-hung/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #430 encyclopedia: 430. 陳建賓 / 2015/05](https://taiwaneseamericanhistory.org/430-%e9%99%b3%e5%bb%ba%e8%b3%93-201505/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e9%99%b3%e5%bb%ba%e8%b3%93/)
 
 ## Related Pages

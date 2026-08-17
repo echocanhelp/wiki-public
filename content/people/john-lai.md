@@ -27,6 +27,7 @@ Publications include: 中國圖書分類法 (1964年初版2001年第八版), 台
 
 
 ## Sources
+- [TAH #41 encyclopedia: 41. John Lai 賴永祥](https://taiwaneseamericanhistory.org/whos-who-41-john-lai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/john-lai/)
 
 ## Related Pages

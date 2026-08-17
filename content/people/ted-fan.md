@@ -27,6 +27,8 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #111 encyclopedia: 111. Dr. Ted Fan 范少達博士](https://taiwaneseamericanhistory.org/111-dr-ted-fan/)
+- [TAH #1220 encyclopedia: 1220. Dr. Sao-Tah (Ted) Fan 范少達博士](https://taiwaneseamericanhistory.org/whos-who-1220-sao-tah-fan/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ted-fan/)
 
 ## Related Pages

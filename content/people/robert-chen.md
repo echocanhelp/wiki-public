@@ -29,6 +29,8 @@ Robert Chen (陳慕融; pinyin: Chén Mùróng) is a Taiwanese-born violinist wh
 
 
 ## Sources
+- [TAH #98 encyclopedia: 98. Robert Chen 陳慕融](https://taiwaneseamericanhistory.org/98-robert-chen-%e9%99%b3%e6%85%95%e8%9e%8d-violinist/)
+- [TAH #73 encyclopedia: 73. Robert Chen陳慕融, Violinist/2014/11](https://taiwaneseamericanhistory.org/73-rober-chen%e9%99%b3%e6%85%95%e8%9e%8dviolinist/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/robert-chen/)
 
 ## Related Pages

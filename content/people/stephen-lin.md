@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1821 encyclopedia: 1821. Stephen Lin 林俊提](https://taiwaneseamericanhistory.org/whos-who-1821-stephen-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/stephen-lin/)
 
 ## Related Pages

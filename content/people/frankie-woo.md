@@ -26,6 +26,7 @@ Frankie Woo (吳映龍) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1192 encyclopedia: 1192. Frankie Woo 吳映龍 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1192/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/frankie-woo/)
 
 ## Related Pages

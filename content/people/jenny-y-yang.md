@@ -26,6 +26,7 @@ Jenny Y Yang (楊又芳) is listed in the TAH Foundation Who’s Who Taiwanese A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1490 encyclopedia: 1490. Jenny Y Yang 楊又芳 / 2017/01](https://taiwaneseamericanhistory.org/whpswho1490/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jenny-y-yang/)
 
 ## Related Pages

@@ -27,6 +27,8 @@ Currently a freelance musician in Washington D.C area, trombonist Huai-En Tsai �
 
 
 ## Sources
+- [TAH #421 encyclopedia: 421. Huai-En Tsai 蔡懷恩 / 2015/05](https://taiwaneseamericanhistory.org/421-huai-en-tsai-%e8%94%a1%e6%87%b7%e6%81%a9-201505/)
+- [TAH #28 encyclopedia: 28. Huai-En Tsai 蔡懷恩, Trombonist/2014/10](https://taiwaneseamericanhistory.org/28-huai-en-tsai-%e8%94%a1%e6%87%b7%e6%81%a9-trombonist/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/huai-en-tsai/)
 
 ## Related Pages

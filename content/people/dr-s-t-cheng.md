@@ -27,6 +27,7 @@ Dr. S. T. Cheng (鄭信傳醫師) is listed in the TAH Foundation Who’s Who Ta
 
 
 ## Sources
+- [TAH #2158 encyclopedia: 2158. Dr. S. T. Cheng 鄭信傳醫師](https://taiwaneseamericanhistory.org/whos-who-2158-s-t-cheng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-s-t-cheng/)
 
 ## Related Pages

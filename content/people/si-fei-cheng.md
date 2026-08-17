@@ -26,6 +26,8 @@ Born in Taiwan and raised in California, violist Sifei Cheng joined the Minnesot
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1270 encyclopedia: 1270. Si-Fei Cheng 鄭希暉/ 09/2016](https://taiwaneseamericanhistory.org/whoswho1270/)
+- [TAH #361 encyclopedia: 361. Sifei Cheng 鄭希暉, Violist / 09/2016](https://taiwaneseamericanhistory.org/musician361/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/si-fei-cheng/)
 
 ## Related Pages

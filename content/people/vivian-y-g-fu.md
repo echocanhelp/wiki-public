@@ -28,6 +28,7 @@ Vivian Y.G. Fu (林郁子) is listed in the TAH Foundation Who’s Who Taiwanese
 
 
 ## Sources
+- [TAH #2298 encyclopedia: 2298. Vivian Y.G. Fu 林郁子](https://taiwaneseamericanhistory.org/whos-who-2298-y-g-fu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/vivian-y-g-fu/)
 
 ## Related Pages

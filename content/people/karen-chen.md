@@ -28,6 +28,11 @@ Karen Chen (陳楷雯) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #1988 encyclopedia: 1988. Karen Chen 陳楷雯](https://taiwaneseamericanhistory.org/whos-who-1988-karen-chen/)
+- [TAH #1486 encyclopedia: 1486. Karen Chen 陳楷雯 / 2017/01](https://taiwaneseamericanhistory.org/whoswho1486/)
+- [TAH #313 encyclopedia: 313. Karen Chen 陳楷雯 / United States Figure Skating Championships, Gold medal / 2](https://taiwaneseamericanhistory.org/ff313/)
+- [TAH #2 encyclopedia: 2. 17-year-old Karen Chen (陳楷雯) of Fremont, CA, won gold at 2017 U.S. Figure Ska](https://taiwaneseamericanhistory.org/2017-2/)
+- [TAH #240 encyclopedia: 240. Karen Chen 陳楷雯/2015/01](https://taiwaneseamericanhistory.org/whos-karen-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/karen-chen/)
 
 ## Related Pages

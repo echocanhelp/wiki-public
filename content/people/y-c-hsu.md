@@ -26,6 +26,7 @@ Y. C. Hsu (許耀慶) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1244 encyclopedia: 1244. Y. C. Hsu 許耀慶 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1244/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/y-c-hsu/)
 
 ## Related Pages

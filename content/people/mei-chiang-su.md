@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1754 encyclopedia: 1754. Mei Chiang Su 江美惠](https://taiwaneseamericanhistory.org/whos-who-1754-mei-chiang-su/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mei-chiang-su/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1024 encyclopedia: 1024.  Maw Lin 林茂雄 /2016/05](https://taiwaneseamericanhistory.org/whoswho1024/)
+- [TAH #28 encyclopedia: 28. 林茂雄Maw Lin/2015/01](https://taiwaneseamericanhistory.org/28-%e6%9e%97%e8%8c%82%e9%9b%84maw-lin201501/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/maw-lin/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ Jenny Wang (王采羿一) is listed in the TAH Foundation Who’s Who Taiwanese 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2234 encyclopedia: 2234. Jenny Wang 王采羿一/12/2019](https://taiwaneseamericanhistory.org/whos-who-2234/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jenny-wang/)
 
 ## Related Pages

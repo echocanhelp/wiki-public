@@ -27,6 +27,7 @@ Kun-wang Chao (邵坤旺) is listed in the TAH Foundation Who’s Who Taiwanese 
 
 
 ## Sources
+- [TAH #2274 encyclopedia: 2274. Kun-wang Chao 邵坤旺](https://taiwaneseamericanhistory.org/whos-who-2274-k-w-chao/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kun-wang-chao/)
 
 ## Related Pages

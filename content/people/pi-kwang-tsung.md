@@ -29,6 +29,7 @@ Publication(Non-professional ones)
 
 
 ## Sources
+- [TAH #1260 encyclopedia: 1260. Pi-Kwang Tsung曾碧光/ 08/2016](https://taiwaneseamericanhistory.org/whos1260/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/pi-kwang-tsung/)
 
 ## Related Pages

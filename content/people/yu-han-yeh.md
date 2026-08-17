@@ -26,6 +26,8 @@ Born in Tainan, Taiwan, Miss Yu-Han Yeh began her piano studies at the age of fi
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1208 encyclopedia: 1208. Yu-Han Yeh 葉宇涵 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1208/)
+- [TAH #354 encyclopedia: 354. Yu-Han Yeh 葉宇涵, Pianist / 2016/08](https://taiwaneseamericanhistory.org/musician354/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yu-han-yeh/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ Chia-Hsuan Lee was born in 1971 in Chang-hua, Taiwan. She began her piano journe
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #561 encyclopedia: 561. Chia-Hsuan Lee 李佳璇 / 2015/08](https://taiwaneseamericanhistory.org/561-chia-hsuan-lee-%e6%9d%8e%e4%bd%b3%e7%92%87-201508/)
+- [TAH #282 encyclopedia: 282. Chia-Hsuan Lee 李佳璇, Pianist / 2015/08](https://taiwaneseamericanhistory.org/282-chia-hsuan-lee-%e6%9d%8e%e4%bd%b3%e7%92%87-pianist-201508/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chia-hsuan-lee/)
 
 ## Related Pages

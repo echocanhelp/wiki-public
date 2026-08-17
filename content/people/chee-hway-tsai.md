@@ -29,6 +29,7 @@ Research Scientist, Group Leader
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1942 encyclopedia: 1942. Chee-Hway Tsai 蔡啟輝 /11/2017](https://taiwaneseamericanhistory.org/whos-chee-hway-tsai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chee-hway-tsai/)
 
 ## Related Pages

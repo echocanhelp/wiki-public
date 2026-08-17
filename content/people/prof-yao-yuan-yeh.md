@@ -26,6 +26,7 @@ Prof. Yao-Yuan Yeh (葉耀元教授) is listed in the TAH Foundation Who’s Who
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2145 encyclopedia: 2145. Prof. Yao-Yuan Yeh 葉耀元教授](https://taiwaneseamericanhistory.org/whos-who-2145-yao-yuan-yeh/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-yao-yuan-yeh/)
 
 ## Related Pages

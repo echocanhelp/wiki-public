@@ -31,6 +31,9 @@ Accomplishment
 
 
 ## Sources
+- [TAH #148 encyclopedia: 148. Chun John Liu 劉醇逸](https://taiwaneseamericanhistory.org/ota-148/)
+- [TAH #2 encyclopedia: 2. John C. Liu 劉醇逸 in New York](https://taiwaneseamericanhistory.org/john-c-liu/)
+- [TAH #50 encyclopedia: 50. John Chun Liu 劉醇逸](https://taiwaneseamericanhistory.org/whos-who-50-john-chun-liu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/john-chun-liu/)
 
 ## Related Pages

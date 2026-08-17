@@ -29,6 +29,7 @@ Chihmei Lin Chen (林智美) is listed in the TAH Foundation Who’s Who Taiwane
 
 
 ## Sources
+- [TAH #1312 encyclopedia: 1312. Chihmei Lin Chen 林智美 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1312/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chihmei-lin-chen/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ Yuhsuan Liu Aldridge started piano lessons at age of five, and cello lessons at 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #551 encyclopedia: 551. Yuhsuan Liu Aldridge 劉于瑄 / 2015/08](https://taiwaneseamericanhistory.org/551-yuhsuan-liu-aldridge-%e5%8a%89%e4%ba%8e%e7%91%84-201508/)
+- [TAH #278 encyclopedia: 278. Yuhsuan Liu Aldridge 劉于瑄, Pianist / 2015/08](https://taiwaneseamericanhistory.org/278-yuhsuan-liu-aldridge-%e5%8a%89%e4%ba%8e%e7%91%84-pianist-201508/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yuhsuan-liu-aldridge/)
 
 ## Related Pages

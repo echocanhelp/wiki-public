@@ -28,6 +28,7 @@ Rev. Rui-Long Lin (林瑞隆牧師) is listed in the TAH Foundation Who’s Who 
 
 
 ## Sources
+- [TAH #1674 encyclopedia: 1674. Rev. Rui-Long Lin 林瑞隆牧師](https://taiwaneseamericanhistory.org/whos-who-1674-rui-long-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rev-rui-long-lin/)
 
 ## Related Pages

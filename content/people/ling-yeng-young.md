@@ -30,6 +30,8 @@ Ling-Yeng Young (陳玲瑛) is listed in the TAH Foundation Who’s Who Taiwanes
 
 
 ## Sources
+- [TAH #26 encyclopedia: 26. 陳玲瑛 Ling Yeng Chen](https://taiwaneseamericanhistory.org/artist26ling-yeng-chen/)
+- [TAH #65 encyclopedia: 65. Ling-Yeng Young 陳玲瑛](https://taiwaneseamericanhistory.org/whos65-ling-yeng-young/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ling-yeng-young/)
 
 ## Related Pages

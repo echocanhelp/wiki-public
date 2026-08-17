@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1864 encyclopedia: 1864. Prof. Felix T. Hong 洪正幸教授](https://taiwaneseamericanhistory.org/whos-who-1864-felix-t-hong/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-felix-t-hong/)
 
 ## Related Pages

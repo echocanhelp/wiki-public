@@ -29,6 +29,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #154 encyclopedia: 154. Dr. Chanchi Lee李常吉醫師](https://taiwaneseamericanhistory.org/154-dr-chanchi-lee/)
+- [TAH #1335 encyclopedia: 1335. Dr. Chanchi Lee 李常吉醫師](https://taiwaneseamericanhistory.org/whos-who-1335-chanchi-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-chanchi-lee/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ Sue-Jane Lin (林素貞) is listed in the TAH Foundation Who’s Who Taiwanese A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1595 encyclopedia: 1595. Sue-Jane Lin  林素貞 / 2017/04](https://taiwaneseamericanhistory.org/whoswho1595/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sue-jane-lin/)
 
 ## Related Pages

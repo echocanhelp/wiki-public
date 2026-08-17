@@ -28,6 +28,9 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #251 encyclopedia: 251. Dr. Fu-Tong Hsu 徐福棟博士](https://taiwaneseamericanhistory.org/ota-251/)
+- [TAH #224 encyclopedia: 224. Dr. Fu-tong Hsu 徐福棟博士 / The first president of TAA/NY / 1964](https://taiwaneseamericanhistory.org/ff224/)
+- [TAH #192 encyclopedia: 192. Dr. Fu-Tong Hsu 徐福棟博士](https://taiwaneseamericanhistory.org/whos-who-192-fu-tong-hsu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-fu-tong-hsu/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ Dr. S. H. Lee (李舜豪醫師) is listed in the TAH Foundation Who’s Who Taiw
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1628 encyclopedia: 1628. Dr. S. H. Lee 李舜豪醫師](https://taiwaneseamericanhistory.org/whos-who-1628-s-h-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-s-h-lee/)
 
 ## Related Pages

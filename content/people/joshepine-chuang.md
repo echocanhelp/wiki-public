@@ -26,6 +26,8 @@ Joshepine Chuang is a graduate of Fu-Jen Catholic University in Taiwan, majoring
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #247 encyclopedia: 247. Joshepine Chuang 莊靜怡 / 2015/02](https://taiwaneseamericanhistory.org/247-joshepine-chuang-%e8%8e%8a%e9%9d%9c%e6%80%a1-201502/)
+- [TAH #134 encyclopedia: 134. Joshepine Chuang 莊靜怡, Vocalist / 2015/02](https://taiwaneseamericanhistory.org/134-joshepine-chuang%e8%8e%8a%e9%9d%9c%e6%80%a1-vocalist-201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/joshepine-chuang/)
 
 ## Related Pages

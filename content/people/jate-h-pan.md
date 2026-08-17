@@ -26,6 +26,7 @@ Jate H. Pan (潘暉暋) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1626 encyclopedia: 1626. Jate H. Pan 潘暉暋 / 2017/04](https://taiwaneseamericanhistory.org/whoswho1626/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jate-h-pan/)
 
 ## Related Pages

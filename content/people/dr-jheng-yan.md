@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2317 encyclopedia: 2317. Dr. Jheng Yan 嚴正博士](https://taiwaneseamericanhistory.org/whos-who-2317-jheng-yan/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-jheng-yan/)
 
 ## Related Pages

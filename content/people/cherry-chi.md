@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1822 encyclopedia: 1822. Cherry Chi 紀江蒨](https://taiwaneseamericanhistory.org/whos-who-1822-cherry-chi/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/cherry-chi/)
 
 ## Related Pages

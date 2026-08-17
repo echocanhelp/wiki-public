@@ -26,6 +26,8 @@ Richard Chang began playing the violin at the age of four in Taiwan and continue
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #563 encyclopedia: 563. Richard Chang 張立仁 / 2015/08](https://taiwaneseamericanhistory.org/563-richard-chang-%e5%bc%b5%e7%ab%8b%e4%bb%81-201508/)
+- [TAH #5 encyclopedia: 5. Richard Chang 張立仁, Violinist/2014/10](https://taiwaneseamericanhistory.org/5-richard-chang-%e5%bc%b5%e7%ab%8b%e4%bb%81-violin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/richard-chang/)
 
 ## Related Pages

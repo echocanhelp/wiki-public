@@ -27,6 +27,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #636 encyclopedia: 636. 黃開榮 / 2015/09](https://taiwaneseamericanhistory.org/636-%e9%bb%83%e9%96%8b%e6%a6%ae-201509/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e9%bb%83%e9%96%8b%e6%a6%ae/)
 
 ## Related Pages

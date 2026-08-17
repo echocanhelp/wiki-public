@@ -26,6 +26,7 @@ Tsung Ming Hsieh (謝聰敏) is listed in the TAH Foundation Who’s Who Taiwane
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1642 encyclopedia: 1642. Tsung Ming Hsieh 謝聰敏](https://taiwaneseamericanhistory.org/whos-who-1642-tsung-ming-hsieh/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tsung-ming-hsieh/)
 
 ## Related Pages

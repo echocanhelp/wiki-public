@@ -26,6 +26,7 @@ Fei-Tau Kung (龔飛濤) is listed in the TAH Foundation Who’s Who Taiwanese A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1323 encyclopedia: 1323. Fei-Tau Kung 龔飛濤  / 2016/10](https://taiwaneseamericanhistory.org/whoswho1323/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/fei-tau-kung/)
 
 ## Related Pages

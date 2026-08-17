@@ -26,6 +26,7 @@ Prof. Tai Chang Chiang 江台章教授 – History of Taiwanese American (T.A. A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2023 encyclopedia: 2023. Prof. Tai Chang Chiang 江台章教授](https://taiwaneseamericanhistory.org/whos-who-2023-tai-chang-chiang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-tai-chang-chiang/)
 
 ## Related Pages

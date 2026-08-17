@@ -26,6 +26,7 @@ Prof. Albert B. Jeng 鄭博仁教授 – History of Taiwanese American (T.A. Arc
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2156 encyclopedia: 2156. Prof. Albert B. Jeng  鄭博仁教授](https://taiwaneseamericanhistory.org/whos-who-2156-albert-b-jeng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-albert-b-jeng/)
 
 ## Related Pages

@@ -28,6 +28,7 @@ Ph.D., Physics & Material Science
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1951 encyclopedia: 1951. Prof. Andre Lee 李延志教授](https://taiwaneseamericanhistory.org/whos-who-1951-andre-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-andre-lee/)
 
 ## Related Pages

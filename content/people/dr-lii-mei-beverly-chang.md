@@ -29,6 +29,8 @@ Dr. Lii Mei (Beverly) Chang 張理美醫師 – History of Taiwanese American (T
 
 
 ## Sources
+- [TAH #31 encyclopedia: 31. Dr. Lii Mei (Beverly) Chang 張理美醫師](https://taiwaneseamericanhistory.org/31-dr-lii-mei-beverly-chang/)
+- [TAH #964 encyclopedia: 964. Dr. Lii Mei (Beverly) Chang 張理美醫師](https://taiwaneseamericanhistory.org/whos-who-964-lii-mei-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-lii-mei-beverly-chang/)
 
 ## Related Pages

@@ -27,6 +27,8 @@ Suing Wang (王淑英) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #842 encyclopedia: 842. Suing Wang 王淑英 / 2016/02](https://taiwaneseamericanhistory.org/842-suing-wang-%e7%8e%8b%e6%b7%91%e8%8b%b1-201602/)
+- [TAH #155 encyclopedia: 155. 蔡明殿, 王淑英 / The first farm & farmers, Newton, N.J. / 1982](https://taiwaneseamericanhistory.org/155-%e8%94%a1%e6%98%8e%e6%ae%bf-%e7%8e%8b%e6%b7%91%e8%8b%b1-the-first-farm-farmers-newton-n-j-1982/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/suing-wang/)
 
 ## Related Pages

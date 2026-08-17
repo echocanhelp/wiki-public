@@ -27,6 +27,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #345 encyclopedia: 345. Sally Tsai 蔡淑理 2015/03](https://taiwaneseamericanhistory.org/345-sally-tsai-%e8%94%a1%e6%b7%91%e7%90%86-201503/)
+- [TAH #181 encyclopedia: 181. Sally Tsai 蔡淑理, Soprano  2015/03](https://taiwaneseamericanhistory.org/181-sally-tsai-%e8%94%a1%e6%b7%91%e7%90%86-soprano-201503/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sally-tsai/)
 
 ## Related Pages

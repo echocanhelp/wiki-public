@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1686 encyclopedia: 1686. Meeihuey Lin 林許美惠](https://taiwaneseamericanhistory.org/whos-who-1686-meeihuey-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/meeihuey-lin/)
 
 ## Related Pages

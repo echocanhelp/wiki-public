@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-16
+last_reviewed: 2026-08-17
 ---
 
 # Yang Yuan-xun / 楊遠薰
@@ -22138,6 +22138,9 @@ Notable quotes and mentions of **楊遠薰** in Taiwan Justice articles:
 *...and 114 more quotes*
 
 ## Sources
+- [TAH #279 encyclopedia: 279. 楊遠薰 Carole Hsu / 著名的台美人故事的作家](https://taiwaneseamericanhistory.org/279-carole-hsu-famous-author/)
+- [TAH #116 encyclopedia: 116. 咱的故事(一) – 楊遠薰 – 2001.12 – 傳記](https://taiwaneseamericanhistory.org/publications116/)
+- [TAH #25 encyclopedia: 25. Carole Yang 楊遠薰](https://taiwaneseamericanhistory.org/25-carole-yang-%e6%a5%8a%e9%81%a0%e8%96%b0/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/carole-yang/)
 
 ## Family

@@ -30,6 +30,7 @@ Charlie Wang (王清圻) is listed in the TAH Foundation Who’s Who Taiwanese A
 
 
 ## Sources
+- [TAH #267 encyclopedia: 267. Charlie Wang 王清圻/2015/02](https://taiwaneseamericanhistory.org/267-charlie-wang-%e7%8e%8b%e6%b8%85%e5%9c%bb201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/charlie-wang/)
 
 ## Related Pages

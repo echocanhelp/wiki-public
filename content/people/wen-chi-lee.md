@@ -30,6 +30,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #138 encyclopedia: 138. Wen Chi Lee 李文枝](https://taiwaneseamericanhistory.org/138-wen-chi-lee/)
+- [TAH #144 encyclopedia: 144. Wen Chi Lee 李文枝 / 2014/12](https://taiwaneseamericanhistory.org/whos144/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/wen-chi-lee/)
 
 ## Related Pages

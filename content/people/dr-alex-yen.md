@@ -26,6 +26,7 @@ Dr. Alex Yen (顏俊醫師) is listed in the TAH Foundation Who’s Who Taiwanes
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1984 encyclopedia: 1984. Dr. Alex Yen 顏俊醫師](https://taiwaneseamericanhistory.org/whos-who-1984-alex-yen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-alex-yen/)
 
 ## Related Pages

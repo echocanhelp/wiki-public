@@ -26,6 +26,8 @@ A native of Taiwan, Ming Feng Hsin’s musical career began as a violin soloist 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #380 encyclopedia: 380. Min Feng Hsin 辛明峰 /2015/04](https://taiwaneseamericanhistory.org/380-min-feng-hsin-%e8%be%9b%e6%98%8e%e5%b3%b0/)
+- [TAH #185 encyclopedia: 185.  Ming Feng Hsin 辛明峰, Violinist & Conductor / 2015/03](https://taiwaneseamericanhistory.org/185-ming-feng-hsin-%e8%be%9b%e6%98%8e%e5%b3%b0-violinist-conductor-201503/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/min-feng-hsin/)
 
 ## Related Pages

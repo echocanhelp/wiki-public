@@ -26,6 +26,8 @@ In many ways, Yuhan Su represents the voice of the new generation of jazz musici
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #108 encyclopedia: 108. Yuhan Su 蘇郁涵, Vibraphonist, Marimbist, Composer/2014/01](https://taiwaneseamericanhistory.org/108-yuhan-su-vibraphonist-marimbist-composer/)
+- [TAH #187 encyclopedia: 187. Yuhan Su 蘇郁涵](https://taiwaneseamericanhistory.org/187/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yuhan-su/)
 
 ## Related Pages

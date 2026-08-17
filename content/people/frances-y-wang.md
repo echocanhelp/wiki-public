@@ -28,6 +28,7 @@ Principal Court Attorney
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1989 encyclopedia: 1989. Frances Y. Wang 王怡芳](https://taiwaneseamericanhistory.org/whoswho1989/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/frances-y-wang/)
 
 ## Related Pages

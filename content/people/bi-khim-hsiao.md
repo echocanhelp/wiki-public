@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #757 encyclopedia: 757. Bi-khim Hsiao 蕭美琴/2016/01](https://taiwaneseamericanhistory.org/whos-who-757-bi-khim-hsiao/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/bi-khim-hsiao/)
 
 ## Related Pages

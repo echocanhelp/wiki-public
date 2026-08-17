@@ -28,6 +28,7 @@ Wen_Chen Chen (陳文成教授) is listed in the TAH Foundation Who’s Who Taiw
 
 
 ## Sources
+- [TAH #55 encyclopedia: 55. Professor Wen-Chen Chen 陳文成教授 / The first Taiwanese American die without rea](https://taiwaneseamericanhistory.org/55-professor-wen-chen-chen-the-first-taiwanese-american-die-without-reason-in-taiwan-198107/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/wen_chen-chen/)
 
 ## Related Pages

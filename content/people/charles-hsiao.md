@@ -26,6 +26,7 @@ Charles Hsiao (蕭俊雄) is listed in the TAH Foundation Who’s Who Taiwanese 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1937 encyclopedia: 1937. Charles Hsiao 蕭俊雄 /11/2017](https://taiwaneseamericanhistory.org/whos-charles-hsiao/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/charles-hsiao/)
 
 ## Related Pages

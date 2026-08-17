@@ -26,6 +26,8 @@ Dr. Lan-In Winnie Yang has enjoyed successes not only as a pianist, but also as 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #236 encyclopedia: 236. Winnie Lan-In Yang楊嵐茵, Pianist, Composer / 2015/07](https://taiwaneseamericanhistory.org/236-winnie-lan-in-yang-pianist-composer/)
+- [TAH #491 encyclopedia: 491. Winnie Lan-In Yang 楊嵐茵 / 2015/07](https://taiwaneseamericanhistory.org/491-winnie-lan-in-yang-%e6%a5%8a%e5%b5%90%e8%8c%b5-201507/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/winnie-lan-in-yang/)
 
 ## Related Pages

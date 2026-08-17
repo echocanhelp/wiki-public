@@ -27,6 +27,7 @@ Prof. Y. C. (Eric) Shen 沈耀初教授 – History of Taiwanese American (T.A. 
 
 
 ## Sources
+- [TAH #1825 encyclopedia: 1825. Prof. Y. C. (Eric) Shen 沈耀初教授](https://taiwaneseamericanhistory.org/whos-who-1825-y-c-shen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-y-c-eric-shen/)
 
 ## Related Pages

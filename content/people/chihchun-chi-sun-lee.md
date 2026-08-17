@@ -26,6 +26,8 @@ Chihchun Chi-sun Lee, winner of the 1st Brandenburg Biennial Composers Competiti
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #107 encyclopedia: 107. Chihchun Chi-sun Lee 李志純, Composer/2014/12](https://taiwaneseamericanhistory.org/107-chihchun-chi-sun-lee-%e6%9d%8e%e5%bf%97%e7%b4%94-composer/)
+- [TAH #186 encyclopedia: 186. Chihchun Chi-sun Lee 李志純](https://taiwaneseamericanhistory.org/186-chihchun-chi-sun-lee-%e6%9d%8e%e5%bf%97%e7%b4%94/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chihchun-chi-sun-lee/)
 
 ## Related Pages

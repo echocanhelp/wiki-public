@@ -26,6 +26,7 @@ Theresa L. Chung (鍾林瑛娟) is listed in the TAH Foundation Who’s Who Taiw
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1349 encyclopedia: 1349. Theresa L. Chung 鍾林瑛娟 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1349/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/theresa-l-chung/)
 
 ## Related Pages

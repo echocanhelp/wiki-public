@@ -27,6 +27,7 @@ Darice Lee (洪珠美) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #859 encyclopedia: 859. Darice Lee 洪珠美/2016/02](https://taiwaneseamericanhistory.org/whos-who-859-darice-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/darice-lee/)
 
 ## Related Pages

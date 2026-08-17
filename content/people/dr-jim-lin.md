@@ -29,6 +29,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #2138 encyclopedia: 2138. Dr. Jim Lin 林存欣醫師](https://taiwaneseamericanhistory.org/whos-who-2138-jim-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-jim-lin/)
 
 ## Related Pages

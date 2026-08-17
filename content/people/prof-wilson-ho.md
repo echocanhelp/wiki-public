@@ -26,6 +26,7 @@ Assistant Professor (1980-1985); Associate Professor (1985-1991); Professor (199
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2037 encyclopedia: 2037. Prof. Wilson Ho 何文程教授](https://taiwaneseamericanhistory.org/whos-who-2037-wilson-ho/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-wilson-ho/)
 
 ## Related Pages

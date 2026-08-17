@@ -28,6 +28,8 @@ Esther C. Lin is a versatile Taiwanese American artist. President of Taiwan Cent
 
 
 ## Sources
+- [TAH #337 encyclopedia: 337. Esther C. Lin  林陳春蘭, Soprano / 2016/04](https://taiwaneseamericanhistory.org/musician337/)
+- [TAH #925 encyclopedia: 925. Esther C. Lin  林陳春蘭/ 2016/04](https://taiwaneseamericanhistory.org/whoswho925/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/esther-c-lin/)
 
 ## Related Pages

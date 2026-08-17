@@ -27,6 +27,7 @@ Shawn Lu (呂紹翔) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 
 
 ## Sources
+- [TAH #940 encyclopedia: 940. Shawn Lu 呂紹翔 / 2016/04](https://taiwaneseamericanhistory.org/whoswho940/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shawn-lu/)
 
 ## Related Pages

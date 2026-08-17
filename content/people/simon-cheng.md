@@ -29,6 +29,8 @@ Simon Cheng (鄭良光) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #164 encyclopedia: 164. Simon Cheng 鄭良光](https://taiwaneseamericanhistory.org/164-simon-cheng/)
+- [TAH #331 encyclopedia: 331. Simon Cheng 鄭良光](https://taiwaneseamericanhistory.org/whos-who-331-simon-cheng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/simon-cheng/)
 
 ## Related Pages

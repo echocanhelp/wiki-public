@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #411 encyclopedia: 411. Esther Chou Lu周慧香, pianist, conductor / 07/2017](https://taiwaneseamericanhistory.org/musician411/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/esther-chou-lu/)
 
 ## Related Pages

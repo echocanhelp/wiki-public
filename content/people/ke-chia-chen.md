@@ -26,6 +26,8 @@ Compositions of Ke-Chia Chen have been performed by leading orchestras, chamber 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1059 encyclopedia: 1059. Ke Chia Chen 陳可嘉  / 2015/06](https://taiwaneseamericanhistory.org/whoswho1059/)
+- [TAH #20 encyclopedia: 20. Ke-Chia Chen 陳可嘉, Composer/2014/10](https://taiwaneseamericanhistory.org/20-ke-chia-chen-%e9%99%b3%e5%8f%af%e5%98%89-composer/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ke-chia-chen/)
 
 ## Related Pages

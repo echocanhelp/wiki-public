@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #181 encyclopedia: 181. Wenlan Chia 賈雯蘭](https://taiwaneseamericanhistory.org/181-wenlan-chia-%e8%b3%88%e9%9b%af%e8%98%ad/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/wenlan-chia/)
 
 ## Related Pages

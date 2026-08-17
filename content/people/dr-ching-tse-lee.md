@@ -29,6 +29,9 @@ Ching-Tse Lee, Ph.D., Professor Emeritus of Psychology at the City University of
 
 
 ## Sources
+- [TAH #32 encyclopedia: 32.  Dr. Ching-Tse Lee 李清澤博士 by Artist 林榮峰 Emily Lee/09/2020](https://taiwaneseamericanhistory.org/footsteps-32/)
+- [TAH #167 encyclopedia: 167. Dr. Ching-Tse Lee 李清澤博士](https://taiwaneseamericanhistory.org/167-dr-ching-tse-lee/)
+- [TAH #435 encyclopedia: 435. Dr. Ching-Tse Lee 李清澤博士](https://taiwaneseamericanhistory.org/whos-who-435-ching-tse-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-ching-tse-lee/)
 
 ## Related Pages

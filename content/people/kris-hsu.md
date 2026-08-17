@@ -26,6 +26,7 @@ Kris Hsu (徐謙讓) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2157 encyclopedia: 2157. Kris Hsu  徐謙讓](https://taiwaneseamericanhistory.org/whos-who-2157-kris-hsu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kris-hsu/)
 
 ## Related Pages

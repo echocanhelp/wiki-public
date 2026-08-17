@@ -26,6 +26,7 @@ Dr. Ming Liang Pan (潘銘梁博士) is listed in the TAH Foundation Who’s Who
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2060 encyclopedia: 2060. Dr. Ming Liang Pan 潘銘梁博士](https://taiwaneseamericanhistory.org/whos-who-2060-ming-liang-pan/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-ming-liang-pan/)
 
 ## Related Pages

@@ -9,7 +9,7 @@ tags:
   - activist
 verification_status: pending
 featured: true
-last_reviewed: 2026-07-23
+last_reviewed: 2026-08-17
 ---
 # Yang Huiqiao (楊惠喬)
 
@@ -46,6 +46,8 @@ Yang Huiqiao's dedication to Taiwan independence has inspired generations of Tai
 - **Archive:** `knowledge/web-archives/2023-tahs-publication-part2.md`
 
 ## Sources
+- [TAH #169 encyclopedia: 169. Catherine Yang 楊惠喬](https://taiwaneseamericanhistory.org/169-catherine-yang/)
+- [TAH #609 encyclopedia: 609. Catherine Yang 楊惠喬](https://taiwaneseamericanhistory.org/whos-who-609-catherine-yang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/catherine-yang/)
 
 ## Family

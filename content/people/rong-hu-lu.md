@@ -26,6 +26,7 @@ Rong-hu Lu (盧榮富) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1316 encyclopedia: 1316. Rong-hu Lu 盧榮富 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1316/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rong-hu-lu/)
 
 ## Related Pages

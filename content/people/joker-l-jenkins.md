@@ -26,6 +26,7 @@ Joker L. Jenkins (簡傑克) is listed in the TAH Foundation Who’s Who Taiwane
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #704 encyclopedia: 704. Joker L. Jenkins 簡傑克 / 2015/11](https://taiwaneseamericanhistory.org/704-joker-l-jenkins-%e7%b0%a1%e5%82%91%e5%85%8b-201511/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/joker-l-jenkins/)
 
 ## Related Pages

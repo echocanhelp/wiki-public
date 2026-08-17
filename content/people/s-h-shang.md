@@ -27,6 +27,7 @@ S. H. Shang (商夏會) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #1162 encyclopedia: 1162. S. H. Shang 商夏會 / 2016/07](https://taiwaneseamericanhistory.org/1162-s-h-shang-%e5%95%86%e5%a4%8f%e6%9c%83-201607/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/s-h-shang/)
 
 ## Related Pages

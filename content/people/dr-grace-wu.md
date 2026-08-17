@@ -28,6 +28,9 @@ Accomplishment
 
 
 ## Sources
+- [TAH #23 encyclopedia: 23. Dr. Grace Wu Chou (吳秀惠醫師)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-23/)
+- [TAH #133 encyclopedia: 133. Dr. Grace Wu Chou 吳秀惠醫師](https://taiwaneseamericanhistory.org/133-dr-grace-wu-chou/)
+- [TAH #2154 encyclopedia: 2154. Dr. Grace Wu 吳秀惠醫師](https://taiwaneseamericanhistory.org/whos-who-2154-grace-wu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-grace-wu/)
 
 ## Related Pages

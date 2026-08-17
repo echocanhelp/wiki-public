@@ -26,6 +26,9 @@ LBJ Ranch in Spring Time, Watercolor. A permanent collection of the Lyndon Baine
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #4 encyclopedia: 4. Dr. William L. Ko (柯威霖博士)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-4/)
+- [TAH #15 encyclopedia: 15. Dr. William L. Ko 柯威霖博士](https://taiwaneseamericanhistory.org/15-dr-william-l-ko/)
+- [TAH #360 encyclopedia: 360. Dr. William L. Ko 柯威霖博士](https://taiwaneseamericanhistory.org/whos-who-360-william-l-ko/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-william-l-ko/)
 
 ## Related Pages

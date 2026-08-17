@@ -26,6 +26,7 @@ Prof. Chih-Hao (Lucas) Chang 張志豪教授 – History of Taiwanese American (
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2125 encyclopedia: 2125. Prof. Chih-Hao (Lucas) Chang 張志豪教授](https://taiwaneseamericanhistory.org/whos-who-2125-chih-hao-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-chih-hao-lucas-chang/)
 
 ## Related Pages

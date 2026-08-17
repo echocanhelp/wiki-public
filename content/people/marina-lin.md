@@ -26,6 +26,8 @@ Marina Lin (林淨媺) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1624 encyclopedia: 1624. Marina Lin 林淨媺 / 2017/04](https://taiwaneseamericanhistory.org/whoswho1624/)
+- [TAH #394 encyclopedia: 394. Marina Lin 林淨媺,musician / 2017/04](https://taiwaneseamericanhistory.org/musician394/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/marina-lin/)
 
 ## Related Pages

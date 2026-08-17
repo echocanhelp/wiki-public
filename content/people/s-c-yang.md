@@ -27,6 +27,7 @@ S. C. Yang (楊淑卿) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #885 encyclopedia: 885. S. C. Yang 楊淑卿 / 2016/03](https://taiwaneseamericanhistory.org/whos-s-c-yang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/s-c-yang/)
 
 ## Related Pages

@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1911 encyclopedia: 1911. Prof. F. Frank Chen 陳鳳山教授](https://taiwaneseamericanhistory.org/whos-who-1911-f-frank-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-f-frank-chen/)
 
 ## Related Pages

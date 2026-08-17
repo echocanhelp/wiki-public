@@ -26,6 +26,7 @@ Mian Mian Lu (陸慧綿) is listed in the TAH Foundation Who’s Who Taiwanese A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2082 encyclopedia: 2082. Mian Mian Lu 陸慧綿](https://taiwaneseamericanhistory.org/whos-who-2082-mian-mian-lu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mian-mian-lu/)
 
 ## Related Pages

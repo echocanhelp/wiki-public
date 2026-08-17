@@ -26,6 +26,7 @@ Alexander Yeh (葉怡平) is listed in the TAH Foundation Who’s Who Taiwanese 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1392 encyclopedia: 1392. Alexander Yeh 葉怡平 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1392/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/alexander-yeh/)
 
 ## Related Pages

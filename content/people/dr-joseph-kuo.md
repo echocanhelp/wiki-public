@@ -29,6 +29,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #181 encyclopedia: 181. Dr. Joseph Kuo 郭正昭博士](https://taiwaneseamericanhistory.org/181-dr-joseph-kuo/)
+- [TAH #46 encyclopedia: 46. Dr. Joseph Kuo 郭正昭博士](https://taiwaneseamericanhistory.org/whos-who-46-joseph-kuo/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-joseph-kuo/)
 
 ## Related Pages

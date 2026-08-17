@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #264 encyclopedia: 264. Prof. Elaine Hsiao 蕭夷年教授](https://taiwaneseamericanhistory.org/ota-264/)
+- [TAH #840 encyclopedia: 840. Prof. Elaine Hsiao 蕭夷年教授](https://taiwaneseamericanhistory.org/whos-who-840-elaine-hsiao/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-elaine-hsiao/)
 
 ## Related Pages

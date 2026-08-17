@@ -26,6 +26,7 @@ Taiwanese-born Shih Chieh Huang has exhibited his sculptures and installations a
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #34 encyclopedia: 34. 黃世傑 SHIH CHIEH HUANG /2015/03](https://taiwaneseamericanhistory.org/34-%e9%bb%83%e4%b8%96%e5%82%91-shih-chieh-huang-201503/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shih-chieh-huang/)
 
 ## Related Pages

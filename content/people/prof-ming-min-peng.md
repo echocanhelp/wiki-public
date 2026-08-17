@@ -27,6 +27,10 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #10 encyclopedia: 10. Prof. Ming Min Peng (彭明敏教授)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-10/)
+- [TAH #25 encyclopedia: 25. Prof. Ming Min Peng ( 彭明敏教授)  By Artist Susan Hsiu-fang Liu(陳秀芳)/2019](https://taiwaneseamericanhistory.org/ourfootsteps-25/)
+- [TAH #128 encyclopedia: 128. Prof. Ming Min Peng 彭明敏教授](https://taiwaneseamericanhistory.org/128-prof-ming-min-peng/)
+- [TAH #285 encyclopedia: 285. Prof. Ming Min Peng 彭明敏教授](https://taiwaneseamericanhistory.org/whos-who-285-ming-min-peng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-ming-min-peng/)
 
 ## Related Pages

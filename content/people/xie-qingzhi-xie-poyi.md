@@ -10,7 +10,7 @@ tags:
   - family
 verification_status: pending
 featured: true
-last_reviewed: 2026-07-23
+last_reviewed: 2026-08-17
 ---
 # Xie Qingzhi & Xie Poyi (謝清志、謝泊怡)
 
@@ -53,6 +53,11 @@ The Xie family's story demonstrates the depth of commitment to Taiwan among over
 - **Content priority B:** 2023 TAHS Publication (profile, Section 3, ~2720 lines)
 - **Hub:** [[sources/2023-tahs-publication|2023 TAHS Publication]]
 - **Archive:** `knowledge/web-archives/2023-tahs-publication-part2.md`
+
+## Sources
+- [TAH #2 encyclopedia: 2. 謝清志、林水泉等七人回台無故被毆，被迫離境](https://taiwaneseamericanhistory.org/2-%e8%ac%9d%e6%b8%85%e5%bf%97%e3%80%81%e6%9e%97%e6%b0%b4%e6%b3%89%e7%ad%89%e4%b8%83%e4%ba%ba%e5%9b%9e%e5%8f%b0%e7%84%a1%e6%95%85%e8%a2%ab%e6%af%86%ef%bc%8c%e8%a2%ab%e8%bf%ab%e9%9b%a2%e5%a2%83/)
+- [TAH #108 encyclopedia: 108. Ching Sze Hsieh 謝清志](https://taiwaneseamericanhistory.org/108-%e8%ac%9d%e6%b8%85%e5%bf%97%e5%8d%9a%e5%a3%ab-dr-ching-sze-hsieh/)
+- [TAH #131 encyclopedia: 131. 謝清志的生命振動 – 謝清志 – 2008.10 – Tu Kuo-Ching& Backus Robert – 傳記](https://taiwaneseamericanhistory.org/131-%e8%ac%9d%e6%b8%85%e5%bf%97%e7%9a%84%e7%94%9f%e5%91%bd%e6%8c%af%e5%8b%95-%e8%ac%9d%e6%b8%85%e5%bf%97-2008-10-tu-kuo-ching-backus-robert-%e5%82%b3%e8%a8%98/)
 
 ## Related Pages
 

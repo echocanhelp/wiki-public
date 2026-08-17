@@ -27,6 +27,9 @@ Frank C.H. Chen (Conductor). Frank C.H. Chen holds a BS and MS degrees in Electr
 
 
 ## Sources
+- [TAH #408 encyclopedia: 408. Frank C.H. Chen陳治煌 , conductor / 06/2017](https://taiwaneseamericanhistory.org/musician408/)
+- [TAH #1708 encyclopedia: 1708. Frank C.H. Chen 陳治煌 / 06/2017](https://taiwaneseamericanhistory.org/whoswho1708/)
+- [TAH #1706 encyclopedia: 1706. Frank C.H. Chen 陳治煌 / 06/2017](https://taiwaneseamericanhistory.org/whoswho1706/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/frank-c-h-chen/)
 
 ## Related Pages

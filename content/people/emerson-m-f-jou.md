@@ -29,6 +29,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #282 encyclopedia: 282. Dr. Emerson M. F. Jou 周明峰醫師](https://taiwaneseamericanhistory.org/ota-282/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/emerson-m-f-jou/)
 
 ## Related Pages

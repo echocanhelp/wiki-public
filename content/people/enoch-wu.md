@@ -28,6 +28,8 @@ Enoch Wu (吳怡農) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 
 
 ## Sources
+- [TAH #82 encyclopedia: 82. Enoch Wu Campaign Materials and Gifts for 2020 Legislator 吳怡農2020立法委員競選文宣品與贈](https://taiwaneseamericanhistory.org/artifacts-82/)
+- [TAH #2244 encyclopedia: 2244. Enoch Wu 吳怡農](https://taiwaneseamericanhistory.org/whos-who-2244-enoch-wu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/enoch-wu/)
 
 ## Related Pages

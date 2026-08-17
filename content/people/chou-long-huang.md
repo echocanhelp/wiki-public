@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1366 encyclopedia: 1366.  Chou-Long Huang 黃朝龍 / 2016/11](https://taiwaneseamericanhistory.org/1366-chou-long-huang-%e9%bb%83%e6%9c%9d%e9%be%8d-201611/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chou-long-huang/)
 
 ## Related Pages

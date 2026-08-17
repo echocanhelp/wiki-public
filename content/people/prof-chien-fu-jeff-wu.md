@@ -26,6 +26,7 @@ Prof. Chien-Fu (Jeff) Wu 吳建福教授 – History of Taiwanese American (T.A.
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1792 encyclopedia: 1792. Prof. Chien-Fu (Jeff) Wu 吳建福教授](https://taiwaneseamericanhistory.org/whos-who-1792-chien-fu-wu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-chien-fu-jeff-wu/)
 
 ## Related Pages

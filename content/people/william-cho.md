@@ -29,6 +29,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #210 encyclopedia: 210. William Cho 卓甫良/2015/01](https://taiwaneseamericanhistory.org/210-william-cho-%e5%8d%93%e7%94%ab%e8%89%af201501/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/william-cho/)
 
 ## Related Pages

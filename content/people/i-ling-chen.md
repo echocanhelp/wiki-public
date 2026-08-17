@@ -26,6 +26,8 @@ I-Ling Chen, Annual Distinguished Young Artist of Taiwan in 1999, received her D
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #748 encyclopedia: 748.  I-Ling Chen 陳奕伶 / 2015/12](https://taiwaneseamericanhistory.org/748/)
+- [TAH #3 encyclopedia: 3. I-Ling Chen 陳奕伶, Pianist/2014/10](https://taiwaneseamericanhistory.org/3-i-ling-chen-%e9%99%b3%e5%a5%95%e4%bc%b6-piano/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/i-ling-chen/)
 
 ## Related Pages

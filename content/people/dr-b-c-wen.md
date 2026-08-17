@@ -29,6 +29,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #293 encyclopedia: 293. Dr. B. C. Wen 溫碧謙醫師](https://taiwaneseamericanhistory.org/ota-293/)
+- [TAH #1461 encyclopedia: 1461. Dr. B. C. Wen 溫碧謙醫師](https://taiwaneseamericanhistory.org/whos-who-1461-b-c-wen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-b-c-wen/)
 
 ## Related Pages

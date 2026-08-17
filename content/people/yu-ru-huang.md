@@ -27,6 +27,8 @@ Yu-Ru is a multimedia artist, artist teacher, art director, and curator. She rec
 
 
 ## Sources
+- [TAH #539 encyclopedia: 539. Yu-Ru Huang 䈎郁如 /2015/08](https://taiwaneseamericanhistory.org/whos-yu-ru-huang/)
+- [TAH #52 encyclopedia: 52. 䈎郁如 Yu-Ru Huang/2015/07](https://taiwaneseamericanhistory.org/artist52-yu-ru-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yu-ru-huang/)
 
 ## Related Pages

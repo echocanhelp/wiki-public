@@ -26,6 +26,8 @@ Active in performing, recording, teaching and research, pianist Chi-Chen Wu is e
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #685 encyclopedia: 685. Chi-Chen Wu 吳紀禛 / 2015/10](https://taiwaneseamericanhistory.org/685-chi-chen-wu-%e5%90%b3%e7%b4%80%e7%a6%9b-201510/)
+- [TAH #311 encyclopedia: 311. Chi-Chen Wu 吳紀禛, Pianist / 2015/10](https://taiwaneseamericanhistory.org/311-chi-chen-wu-pianist-201510/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chi-chen-wu/)
 
 ## Related Pages

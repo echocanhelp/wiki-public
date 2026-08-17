@@ -26,6 +26,7 @@ Ching-Chih Chen (陳清池) is listed in the TAH Foundation Who’s Who Taiwanes
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #774 encyclopedia: 774. Ching-Chih Chen 陳清池 / 2016/01](https://taiwaneseamericanhistory.org/whos-who-774-ching-chih-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ching-chih-chen/)
 
 ## Related Pages

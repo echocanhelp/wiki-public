@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2045 encyclopedia: 2045. Dr. Su-May Yu 余淑美博士](https://taiwaneseamericanhistory.org/whos-who-2045-su-may-yu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-su-may-yu/)
 
 ## Related Pages

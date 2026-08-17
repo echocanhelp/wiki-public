@@ -26,6 +26,10 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #20 encyclopedia: 20. Stella Landauer (陳翠玉)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-20/)
+- [TAH #119 encyclopedia: 119. Stella Landauer 陳翠玉](https://taiwaneseamericanhistory.org/119-stella-landauer/)
+- [TAH #651 encyclopedia: 651. 護理界的英雌─陳翠玉（1917－1988)/09/2018](https://taiwaneseamericanhistory.org/651/)
+- [TAH #1303 encyclopedia: 1303. Stella Landauer 陳翠玉](https://taiwaneseamericanhistory.org/whos-who-1303-stella-landauer/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/stella-landauer/)
 
 ## Related Pages

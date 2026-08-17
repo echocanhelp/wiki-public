@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #280 encyclopedia: 280. Prof. Wentai Liu 劉文泰教授](https://taiwaneseamericanhistory.org/ota-280/)
+- [TAH #753 encyclopedia: 753. Prof. Wentai Liu 劉文泰教授](https://taiwaneseamericanhistory.org/whos-who-753-wentai-liu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-wentai-liu/)
 
 ## Related Pages

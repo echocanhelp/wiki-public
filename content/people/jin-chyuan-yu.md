@@ -29,6 +29,7 @@ Jin-Chyuan Yu (游銘泉) is listed in the TAH Foundation Who’s Who Taiwanese 
 
 
 ## Sources
+- [TAH #432 encyclopedia: 432. Jin-Chyuan Yu 游銘泉/2015/06](https://taiwaneseamericanhistory.org/432-jin-chyuan-yu-%e6%b8%b8%e9%8a%98%e6%b3%89201506/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jin-chyuan-yu/)
 
 ## Related Pages

@@ -28,6 +28,7 @@ Dr. Jackson Chiu (邱坤勝博士) is listed in the TAH Foundation Who’s Who T
 
 
 ## Sources
+- [TAH #2219 encyclopedia: 2219. Dr. Jackson Chiu 邱坤勝博士/11/2019](https://taiwaneseamericanhistory.org/whos-who-2219/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-jackson-chiu/)
 
 ## Related Pages

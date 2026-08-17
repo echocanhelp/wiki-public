@@ -29,6 +29,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #261 encyclopedia: 261. Prof. Margaret Shih 施華維教授](https://taiwaneseamericanhistory.org/ota-261/)
+- [TAH #507 encyclopedia: 507. Prof. Margaret Shih 施華維教授](https://taiwaneseamericanhistory.org/whos-who-507-margaret-shih/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-margaret-shih/)
 
 ## Related Pages

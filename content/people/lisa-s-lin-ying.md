@@ -26,6 +26,7 @@ Lisa S. Lin Ying (印林秀玲) is listed in the TAH Foundation Who’s Who Taiw
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #305 encyclopedia: 305. Lisa S. Lin Ying 印林秀玲/2015/02](https://taiwaneseamericanhistory.org/305-lisa-s-lin-ying-%e5%8d%b0%e6%9e%97%e7%a7%80%e7%8e%b2201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/lisa-s-lin-ying/)
 
 ## Related Pages

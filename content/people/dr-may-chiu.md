@@ -27,6 +27,7 @@ Dr. May Chiu (邱鈺琳醫師) is listed in the TAH Foundation Who’s Who Taiwa
 
 
 ## Sources
+- [TAH #2139 encyclopedia: 2139. Dr. May Chiu 邱鈺琳醫師](https://taiwaneseamericanhistory.org/whos-who-2139-may-chiu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-may-chiu/)
 
 ## Related Pages

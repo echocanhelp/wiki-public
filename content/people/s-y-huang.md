@@ -27,6 +27,7 @@ S. Y. Huang (黃森元) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #903 encyclopedia: 903. S. Y. Huang 黃森元 / 2016/03](https://taiwaneseamericanhistory.org/whos903-s-y-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/s-y-huang/)
 
 ## Related Pages

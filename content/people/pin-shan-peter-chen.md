@@ -26,6 +26,7 @@ Pin-Shan (Peter) Chen 陳品山教授 – History of Taiwanese American (T.A. Ar
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2127 encyclopedia: 2127. Pin-Shan (Peter) Chen 陳品山教授](https://taiwaneseamericanhistory.org/whos-who-2127-pin-shan-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/pin-shan-peter-chen/)
 
 ## Related Pages

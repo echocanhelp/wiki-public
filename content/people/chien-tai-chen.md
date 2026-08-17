@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #654 encyclopedia: 654. Chien-Tai Chen 陳建台 / 2015/10](https://taiwaneseamericanhistory.org/654-chien-tai-chen-%e9%99%b3%e5%bb%ba%e5%8f%b0-201510/)
+- [TAH #302 encyclopedia: 302. Chien-Tai Chen陳建台, Composer / 2015/10](https://taiwaneseamericanhistory.org/302-chien-tai-chen%e9%99%b3%e5%bb%ba%e5%8f%b0-composer-201510/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chien-tai-chen/)
 
 ## Related Pages

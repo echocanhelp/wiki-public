@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #260 encyclopedia: 260. Marlon Chen　陳啟寬, Conductor](https://taiwaneseamericanhistory.org/260-marlon-chen%e3%80%80%e9%99%b3%e5%95%9f%e5%af%ac-conductor/)
+- [TAH #528 encyclopedia: 528. Marlon Chen 陳啟寬 / 2015/08](https://taiwaneseamericanhistory.org/528-marlon-chen-%e9%99%b3%e5%95%9f%e5%af%ac-201508/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/marlon-chen/)
 
 ## Related Pages

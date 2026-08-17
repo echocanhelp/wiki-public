@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2273 encyclopedia: 2273. Kao San Lan 高山嵐](https://taiwaneseamericanhistory.org/whos-who-2273-kao-san-lan/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kao-san-lan/)
 
 ## Related Pages

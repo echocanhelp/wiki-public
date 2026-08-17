@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-07-16
+last_reviewed: 2026-08-17
 ---
 # Josephine Pan (潘掬慧)
 
@@ -27,6 +27,7 @@ last_reviewed: 2026-07-16
 - **Content priority C:** Full biography not in this source set
 
 ## Sources
+- [TAH #113 encyclopedia: 113. Josephine Pan 潘掬慧](https://taiwaneseamericanhistory.org/113-josephine-pan-%e6%bd%98%e6%8e%ac%e6%85%a7/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/josephine-pan/)
 
 ## Family

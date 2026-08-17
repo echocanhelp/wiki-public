@@ -26,6 +26,7 @@ Director of the Plastic Surgery Research Laboratory and Subsequently Chief of Ha
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2102 encyclopedia: 2102. Dr. W.P. Andrew Lee 李為平醫師](https://taiwaneseamericanhistory.org/whos-who-2102-w-p-andrew-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-w-p-andrew-lee/)
 
 ## Related Pages

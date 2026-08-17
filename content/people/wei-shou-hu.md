@@ -29,6 +29,7 @@ professor
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1509 encyclopedia: 1509. Wei-Shou Hu 胡維碩  / 2017/02](https://taiwaneseamericanhistory.org/whoswho1509/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/wei-shou-hu/)
 
 ## Related Pages

@@ -29,6 +29,8 @@ Yvonne Cheng graduated with a degree in music from the Shih Chien University in 
 
 
 ## Sources
+- [TAH #90 encyclopedia: 90.Yvonne Cheng 鄭瑜英, Soprano/2014/12](https://taiwaneseamericanhistory.org/90-yvonne-cheng-%e9%84%ad%e7%91%9c%e8%8b%b1-soprano/)
+- [TAH #140 encyclopedia: 140. Yvonne Cheng 鄭瑜英](https://taiwaneseamericanhistory.org/140-yvonne-cheng%e9%84%ad%e7%91%9c%e8%8b%b1/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yvonne-cheng/)
 
 ## Related Pages

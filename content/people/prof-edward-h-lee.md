@@ -27,6 +27,7 @@ Prof. Edward H Lee (李賢淇教授) is listed in the TAH Foundation Who’s Who
 
 
 ## Sources
+- [TAH #1676 encyclopedia: 1676. Prof. Edward H Lee 李賢淇教授](https://taiwaneseamericanhistory.org/whos-who-1676-edward-h-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-edward-h-lee/)
 
 ## Related Pages

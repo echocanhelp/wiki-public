@@ -26,6 +26,7 @@ Hsi-Min Lin (林希明) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1314 encyclopedia: 1314. Hsi-Min Lin 林希明 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1314/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hsi-min-lin/)
 
 ## Related Pages

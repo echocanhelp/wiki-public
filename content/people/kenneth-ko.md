@@ -29,6 +29,7 @@ Kenneth Ko (柯吉文) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #1830 encyclopedia: 1830. Kenneth Ko 柯吉文](https://taiwaneseamericanhistory.org/whos-who-1830-kenneth-ko/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kenneth-ko/)
 
 ## Related Pages

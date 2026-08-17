@@ -26,6 +26,7 @@ Katherine Jui Chang (張瑞佩) is listed in the TAH Foundation Who’s Who Taiw
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1970 encyclopedia: 1970. Katherine Jui Chang 張瑞佩 /12/2017](https://taiwaneseamericanhistory.org/whos-katherine-jui-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/katherine-jui-chang/)
 
 ## Related Pages

@@ -27,6 +27,7 @@ Grace Yang (楊蕙安) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #1300 encyclopedia: 1300. Grace Yang 楊蕙安 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1300/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/grace-yang/)
 
 ## Related Pages

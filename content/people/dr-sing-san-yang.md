@@ -26,6 +26,7 @@ Source from北美台大醫學院校友會http://ntumcaa-na.org/Web_pages/program
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2015 encyclopedia: 2015. Dr. Sing-San Yang 楊省三醫師](https://taiwaneseamericanhistory.org/whos-who-2015-sing-san-yang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-sing-san-yang/)
 
 ## Related Pages

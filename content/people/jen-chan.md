@@ -27,6 +27,8 @@ By very well-known clarinetists- Prof. Ronald DeKant, Jonathan Cohler, and Phili
 
 
 ## Sources
+- [TAH #489 encyclopedia: 489. Jen Chan 詹純甄 / 2015/07](https://taiwaneseamericanhistory.org/489-jen-chan-%e8%a9%b9%e7%b4%94%e7%94%84-201507/)
+- [TAH #17 encyclopedia: 17. Jen Chan 詹純甄, Clarinet/2014/10](https://taiwaneseamericanhistory.org/17-jen-chan-%e8%a9%b9%e7%b4%94%e7%94%84-clarinet/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jen-chan/)
 
 ## Related Pages

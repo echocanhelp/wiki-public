@@ -28,6 +28,7 @@ Adjunct Professor
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2096 encyclopedia: 2096. Dr. Chi-Pang Wen 溫啟邦博士](https://taiwaneseamericanhistory.org/whos-who-2096-chi-pang-wen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-chi-pang-wen/)
 
 ## Related Pages

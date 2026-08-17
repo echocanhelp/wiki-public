@@ -30,6 +30,7 @@ Chi Shih Huang (黃及時) is listed in the TAH Foundation Who’s Who Taiwanese
 
 
 ## Sources
+- [TAH #1129 encyclopedia: 1129. Chi Shih Huang 黃及時 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1129/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chi-shih-huang/)
 
 ## Related Pages

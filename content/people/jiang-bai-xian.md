@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-16
+last_reviewed: 2026-08-17
 ---
 # Jiang Bai-xian (江百顯)
 
@@ -95,6 +95,7 @@ Articles by other authors that mention **江百顯**: See [[sources/taiwanjustic
 - **Archive:** [Column articles](https://github.com/echocanhelp/wiki-public/tree/gh-pages/knowledge/web-archives/taiwanjustice-net/tier2/)
 
 ## Sources
+- [TAH #2056 encyclopedia: 2056. B. S. Jiang 江百顯(廖清山)](https://taiwaneseamericanhistory.org/whos-who-2056-b-s-jiang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/b-s-jiang/)
 
 ## Related Pages

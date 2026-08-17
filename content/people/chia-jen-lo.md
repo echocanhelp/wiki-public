@@ -26,6 +26,7 @@ Chia-Jen Lo (羅嘉仁) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1751 encyclopedia: 1751. Chia-Jen Lo 羅嘉仁](https://taiwaneseamericanhistory.org/whos-who-1751-chia-jen-lo/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chia-jen-lo/)
 
 ## Related Pages

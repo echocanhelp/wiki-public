@@ -28,6 +28,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #1886 encyclopedia: 1886. Dr. Ming Tang Lai 賴明堂博士](https://taiwaneseamericanhistory.org/whos-who-1886-ming-tang-lai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-ming-tang-lai/)
 
 ## Related Pages

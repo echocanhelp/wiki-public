@@ -27,6 +27,8 @@ Chen Mao-sheng, born in 1942 in Hsinchu, Taiwan, is a church musician and organi
 
 
 ## Sources
+- [TAH #567 encyclopedia: 567. CHEN Mao- Sheng 陳茂生 / 22015/09](https://taiwaneseamericanhistory.org/567-chen-mao-sheng-%e9%99%b3%e8%8c%82%e7%94%9f-2201509/)
+- [TAH #284 encyclopedia: 284. Mao-sheng Chen 陳茂生, Organist / 2015/09](https://taiwaneseamericanhistory.org/284-%e9%99%b3%e8%8c%82%e7%94%9f-organist-201509/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mao-sheng-chen/)
 
 ## Related Pages

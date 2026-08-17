@@ -29,6 +29,7 @@ Janice Ger (吳瑩瑛) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #386 encyclopedia: 386. Janice Ger 吳瑩瑛/2015/04](https://taiwaneseamericanhistory.org/386-janice-ger-%e5%90%b3%e7%91%a9%e7%91%9b201504/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/janice-ger/)
 
 ## Related Pages

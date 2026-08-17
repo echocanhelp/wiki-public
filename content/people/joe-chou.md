@@ -27,6 +27,7 @@ Joe Chou (周景聲) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 
 
 ## Sources
+- [TAH #1020 encyclopedia: 1020. Joe Chou 周景聲 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1020-2/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/joe-chou/)
 
 ## Related Pages

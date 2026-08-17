@@ -29,6 +29,12 @@ Dr. T.F. Chen — a painter, art historian, writer, philosopher, visionary, and 
 
 
 ## Sources
+- [TAH #41 encyclopedia: 41. Dr. Tsing Fang Chen 陳錦芳博士](https://taiwaneseamericanhistory.org/41-tsing-fang-chen-%e9%99%b3%e9%8c%a6%e8%8a%b3/)
+- [TAH #16 encyclopedia: 16. Dr. Tsing-Fang Chen 陳錦芳博士](https://taiwaneseamericanhistory.org/dr-tsing-fang-chen/)
+- [TAH #102 encyclopedia: 102. Dr. Tsing-Fang Chen 陳錦芳博士 / First orient Ph. D. holder of the Art from Pari](https://taiwaneseamericanhistory.org/ff102/)
+- [TAH #101 encyclopedia: 101. Dr. Tsing-Fang Chen 陳錦芳博士 / First Culture Ambassador of Tolerance and Peace](https://taiwaneseamericanhistory.org/ff101/)
+- [TAH #12 encyclopedia: 12. Dr. Chin-fan Chen 陳錦芳博士 / Famous artist](https://taiwaneseamericanhistory.org/ff12/)
+- [TAH #277 encyclopedia: 277. Dr. Tsing Fang Chen 陳錦芳博士](https://taiwaneseamericanhistory.org/whos-who-277-tsing-fang-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-tsing-fang-chen/)
 
 ## Related Pages

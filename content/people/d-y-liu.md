@@ -27,6 +27,7 @@ D. Y. Liu (劉德勇) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 
 
 ## Sources
+- [TAH #1854 encyclopedia: 1854. D. Y. Liu 劉德勇 / 08/2017](https://taiwaneseamericanhistory.org/whoswho1854/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/d-y-liu/)
 
 ## Related Pages

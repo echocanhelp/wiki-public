@@ -28,6 +28,7 @@ Dr. Ching-Hsing Liao 廖進興博士 – History of Taiwanese American (T.A. Arc
 
 
 ## Sources
+- [TAH #1819 encyclopedia: 1819. Dr. Ching-Hsing Liao 廖進興博士](https://taiwaneseamericanhistory.org/whos-who-1819-ching-hsing-liao/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-ching-hsing-liao/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ David Chu (朱欽騏) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #177 encyclopedia: 177. David Chu 朱欽騏](https://taiwaneseamericanhistory.org/177-david-chu-%e6%9c%b1%e6%ac%bd%e9%a8%8f/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/david-chu/)
 
 ## Related Pages

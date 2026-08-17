@@ -27,6 +27,7 @@ Member of the Legislative Yuan (Legislative Yuan, Republic of China) for three t
 
 
 ## Sources
+- [TAH #785 encyclopedia: 785. F.S. Shen 沈富雄/ 2016/01](https://taiwaneseamericanhistory.org/785-f-s-shen-%e6%b2%88%e5%af%8c%e9%9b%84-201601/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/f-s-shen/)
 
 ## Related Pages

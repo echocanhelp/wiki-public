@@ -32,6 +32,8 @@ Professor, Head of Department
 
 
 ## Sources
+- [TAH #35 encyclopedia: 35. 逾千學者挺小英，李明亮：沒有人是淡水阿嬤叫我們來的 /2016/01](https://taiwaneseamericanhistory.org/12-35/)
+- [TAH #656 encyclopedia: 656. Ming Liang Lee 李明亮 /2015/10](https://taiwaneseamericanhistory.org/656-ming-liang-lee-%e6%9d%8e%e6%98%8e%e4%ba%ae-201510/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ming-liang-lee/)
 
 ## Related Pages

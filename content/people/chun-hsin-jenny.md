@@ -26,6 +26,8 @@ Chun Hsin Jenny Wu started playing the violin at age four in Kao-Hsiung, Taiwan.
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1082 encyclopedia: 1082. Chun Hsin Jenny 伍君心 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1082/)
+- [TAH #4 encyclopedia: 4. Chun Hsin Jenny Wu 伍君心, Violinist/2014/10](https://taiwaneseamericanhistory.org/musician4/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chun-hsin-jenny/)
 
 ## Related Pages

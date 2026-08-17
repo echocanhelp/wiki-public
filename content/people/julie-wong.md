@@ -26,6 +26,7 @@ A native of Taiwan, pianist Julie Wong has taken the spotlight in the internatio
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #46 encyclopedia: 46. Julie Wong 翁致理, Pianist/2014/10](https://taiwaneseamericanhistory.org/46-julie-wong-%e7%bf%81%e8%87%b4%e7%90%86-piano/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/julie-wong/)
 
 ## Related Pages

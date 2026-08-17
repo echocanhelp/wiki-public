@@ -26,6 +26,7 @@ Prof. Chang-Jang Hsieh 謝常彰教授 – History of Taiwanese American (T.A. A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1876 encyclopedia: 1876. Prof. Chang-Jang Hsieh 謝常彰教授](https://taiwaneseamericanhistory.org/whos-who-1876-chang-jang-hsieh/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-chang-jang-hsieh/)
 
 ## Related Pages

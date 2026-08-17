@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1765 encyclopedia: 1765. Prof. T. L. Lin 林子倫教授](https://taiwaneseamericanhistory.org/whos-who-1765-t-l-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-t-l-lin/)
 
 ## Related Pages

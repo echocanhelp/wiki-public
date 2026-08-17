@@ -27,6 +27,8 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #140 encyclopedia: 140. Dr. Ming Hong Chow 周明宏博士](https://taiwaneseamericanhistory.org/140-2/)
+- [TAH #589 encyclopedia: 589. Dr. Ming Hong Chow 周明宏博士](https://taiwaneseamericanhistory.org/whos-who-589-ming-hong-chow/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-ming-hong-chow/)
 
 ## Related Pages

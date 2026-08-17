@@ -29,6 +29,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #104 encyclopedia: 104. Judy Jeng 洪秀芬](https://taiwaneseamericanhistory.org/104-%e6%b4%aa%e7%a7%80%e8%8a%ac-judy-jeng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/judy-jeng/)
 
 ## Related Pages

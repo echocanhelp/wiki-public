@@ -28,6 +28,7 @@ Full-time Assistant Professor, Dept. of Counselling
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1902 encyclopedia: 1902. Prof. M. S. Wang 王孟心教授](https://taiwaneseamericanhistory.org/whos-who-1902-m-s-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-m-s-wang/)
 
 ## Related Pages

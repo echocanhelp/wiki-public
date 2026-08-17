@@ -32,6 +32,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #866 encyclopedia: 866. 蕭樂善 / 2016/03](https://taiwaneseamericanhistory.org/whos866/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e8%95%ad%e6%a8%82%e5%96%84/)
 
 ## Related Pages

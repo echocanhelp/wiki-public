@@ -28,6 +28,7 @@ H. Cristina Chen-Oster 陳慧蓉 – History of Taiwanese American (T.A. Archive
 
 
 ## Sources
+- [TAH #284 encyclopedia: 284. H. Cristina Chen-Oster 陳慧蓉/2015/02](https://taiwaneseamericanhistory.org/284-h-cristina-chen-oster-%e9%99%b3%e6%85%a7%e8%93%89201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/h-cristina-chen-oster/)
 
 ## Related Pages

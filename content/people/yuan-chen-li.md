@@ -26,6 +26,8 @@ Li first arrived on the contemporary music scene in Taiwan with her very persona
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1088 encyclopedia: 1088. Yuan-Chen Li 李元貞 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1088/)
+- [TAH #12 encyclopedia: 12. Yuan-Chen Li 李元貞, Composer/2014/10](https://taiwaneseamericanhistory.org/musician12/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yuan-chen-li/)
 
 ## Related Pages

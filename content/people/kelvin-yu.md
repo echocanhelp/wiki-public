@@ -26,6 +26,7 @@ Kelvin Yu (游朝敏) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #121 encyclopedia: 121. Kelvin Yu 游朝敏](https://taiwaneseamericanhistory.org/121-paul-pai-shih-lee-%e6%9d%8e%e7%99%be%e4%bb%95/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kelvin-yu/)
 
 ## Related Pages

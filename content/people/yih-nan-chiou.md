@@ -26,6 +26,7 @@ Yih-Nan Chiou (邱義男) is listed in the TAH Foundation Who’s Who Taiwanese 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1229 encyclopedia: 1229. Yih-Nan Chiou 邱義男 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1229/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yih-nan-chiou/)
 
 ## Related Pages

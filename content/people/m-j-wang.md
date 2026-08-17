@@ -27,6 +27,7 @@ M. J. Wang (王明皆) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #1377 encyclopedia: 1377. M. J. Wang 王明皆 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1377/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/m-j-wang/)
 
 ## Related Pages

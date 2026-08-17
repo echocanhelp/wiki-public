@@ -27,6 +27,7 @@ K. C. Liao (廖國仲) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #883 encyclopedia: 883. K. C. Liao 廖國仲/ 2016/03](https://taiwaneseamericanhistory.org/883-k-c-liao-%e5%bb%96%e5%9c%8b%e4%bb%b2-201603/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/k-c-liao/)
 
 ## Related Pages

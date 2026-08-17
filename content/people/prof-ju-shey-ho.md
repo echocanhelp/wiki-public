@@ -30,6 +30,9 @@ Accomplishment
 
 
 ## Sources
+- [TAH #39 encyclopedia: 39. Prof. Ju-Shey Ho 何汝諧教授](https://taiwaneseamericanhistory.org/39-prof-ju-shey-ho/)
+- [TAH #285 encyclopedia: 285. Prof. Ju-Shey Ho 何汝諧教授 / The First President of world-wide professional org](https://taiwaneseamericanhistory.org/ff285/)
+- [TAH #605 encyclopedia: 605. Prof. Ju-Shey Ho 何汝諧教授](https://taiwaneseamericanhistory.org/whos-who-605-ju-shey-ho/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-ju-shey-ho/)
 
 ## Related Pages

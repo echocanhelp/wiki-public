@@ -29,6 +29,8 @@ Accomplishment
 
 
 ## Sources
+- [TAH #2175 encyclopedia: 2175. Prof. Andy Tsay 蔡安達教授](https://taiwaneseamericanhistory.org/whos-who-2175-andy-tsay/)
+- [TAH #205 encyclopedia: 205. Prof. Andy Tsay 蔡安達教授](https://taiwaneseamericanhistory.org/205/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-andy-tsay/)
 
 ## Related Pages

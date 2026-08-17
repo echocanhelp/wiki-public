@@ -26,6 +26,8 @@ German Philosopher once said, “Life without music is a mistake” I am glad th
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1407 encyclopedia: 1407. Cindy Chen 陳欣意 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1407/)
+- [TAH #373 encyclopedia: 373. Cindy Chen陳欣意, harpist / 2016/11](https://taiwaneseamericanhistory.org/musician373/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/cindy-chen/)
 
 ## Related Pages

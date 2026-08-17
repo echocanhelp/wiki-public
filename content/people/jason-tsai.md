@@ -27,6 +27,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #1608 encyclopedia: 1608. Jason Tsai 蔡智行 / 2017/04](https://taiwaneseamericanhistory.org/whoswho1608/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jason-tsai/)
 
 ## Related Pages

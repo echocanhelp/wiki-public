@@ -26,6 +26,7 @@ Tom Thomas Shih (石聰賢) is listed in the TAH Foundation Who’s Who Taiwanes
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1877 encyclopedia: 1877. Tom Thomas Shih 	 石聰賢 / 09/2017](https://taiwaneseamericanhistory.org/whoswho1877/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tom-thomas-shih/)
 
 ## Related Pages

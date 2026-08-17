@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #511 encyclopedia: 511. Karen Chia-Ling Ho何佳陵 / 2015/07](https://taiwaneseamericanhistory.org/whoswho511/)
+- [TAH #251 encyclopedia: 251. Jia-Ling He 何佳陵, Soprano Soloist / 2015/07](https://taiwaneseamericanhistory.org/musician/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/karen-chia-ling-ho/)
 
 ## Related Pages

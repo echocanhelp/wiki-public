@@ -26,6 +26,8 @@ Apo Hsu (許瀞心) is listed in the TAH Foundation Who’s Who Taiwanese Americ
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1310 encyclopedia: 1310. Apo Hsu 許瀞心 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1310/)
+- [TAH #369 encyclopedia: 369. Apo Hsu許瀞心, conductor / 2016/10](https://taiwaneseamericanhistory.org/musician369/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/apo-hsu/)
 
 ## Related Pages

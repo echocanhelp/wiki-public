@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-16
+last_reviewed: 2026-08-17
 ---
 # Chen Chao-nan (陳昭南)
 
@@ -24108,6 +24108,7 @@ Notable quotes and mentions of **陳昭南** in Taiwan Justice articles:
 - **Archive:** [Column articles](https://github.com/echocanhelp/wiki-public/tree/gh-pages/knowledge/web-archives/taiwanjustice-net/tier2/)
 
 ## Sources
+- [TAH #1185 encyclopedia: 1185.  Chao-Nan Chen 陳昭南 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1185/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chao-nan-chen/)
 
 ## Related Pages

@@ -29,6 +29,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #24 encyclopedia: 24. Prof. De-Min Wu (吳得民教授)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-24/)
+- [TAH #135 encyclopedia: 135. Prof. De-Min Wu 吳得民教授](https://taiwaneseamericanhistory.org/135-prof-de-min-wu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/de-min-wu/)
 
 ## Related Pages

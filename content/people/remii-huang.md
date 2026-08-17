@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2078 encyclopedia: 2078. Remii Huang 	黃婕妤](https://taiwaneseamericanhistory.org/whos-who-2078-remii-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/remii-huang/)
 
 ## Related Pages

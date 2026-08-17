@@ -28,6 +28,7 @@ Assistant Professor of Chemistry and Chemical Biology
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1983 encyclopedia: 1983. Prof. David Liu 劉如謙教授](https://taiwaneseamericanhistory.org/whos-who-1983-david-liu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-david-liu/)
 
 ## Related Pages

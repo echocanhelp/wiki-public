@@ -28,6 +28,7 @@ Melody Ko (柯頌恩) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 
 
 ## Sources
+- [TAH #1831 encyclopedia: 1831. Melody Ko 柯頌恩](https://taiwaneseamericanhistory.org/whos-who-1831-melody-ko/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/melody-ko/)
 
 ## Related Pages

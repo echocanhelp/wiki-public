@@ -26,6 +26,7 @@ Dr. Jeffrey Tsai (蔡長宗醫師) is listed in the TAH Foundation Who’s Who T
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2248 encyclopedia: 2248. Dr. Jeffrey Tsai 蔡長宗醫師](https://taiwaneseamericanhistory.org/whos-who-2248-jeffrey-tsai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-jeffrey-tsai/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ Dr. John Wu (吳正義醫師) is listed in the TAH Foundation Who’s Who Taiwan
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1647 encyclopedia: 1647. Dr. John Wu 吳正義醫師](https://taiwaneseamericanhistory.org/whos-who-1647-john-wu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-john-wu/)
 
 ## Related Pages

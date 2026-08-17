@@ -29,6 +29,7 @@ Peter Chiu (邱勝宗) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #2246 encyclopedia: 2246. Peter Chiu 邱勝宗](https://taiwaneseamericanhistory.org/whos-who-2246-peter-chiu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/peter-chiu/)
 
 ## Related Pages

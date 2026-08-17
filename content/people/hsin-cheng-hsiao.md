@@ -26,6 +26,7 @@ Hsin-Cheng Hsiao (蕭新晟) is listed in the TAH Foundation Who’s Who Taiwane
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1927 encyclopedia: 1927. Hsin-Cheng Hsiao 蕭新晟](https://taiwaneseamericanhistory.org/whos-who-1927-hsin-cheng-hsiao/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hsin-cheng-hsiao/)
 
 ## Related Pages

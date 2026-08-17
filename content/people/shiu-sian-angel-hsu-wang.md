@@ -28,6 +28,7 @@ Shiu-Sian Angel Hsu Wang 許秀香 – History of Taiwanese American (T.A. Archi
 
 
 ## Sources
+- [TAH #548 encyclopedia: 548. Shiu-Sian Angel Hsu Wang 許秀香 /2015/08](https://taiwaneseamericanhistory.org/548-shiu-sian-angel-hsu-wang-201508/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shiu-sian-angel-hsu-wang/)
 
 ## Related Pages

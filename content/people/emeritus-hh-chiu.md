@@ -26,6 +26,7 @@ Emeritus HH Chiu (邱輝煌) is listed in the TAH Foundation Who’s Who Taiwane
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1526 encyclopedia: 1526.  Emeritus HH Chiu 邱輝煌 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1526/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/emeritus-hh-chiu/)
 
 ## Related Pages

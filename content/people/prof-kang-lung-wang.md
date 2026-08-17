@@ -28,6 +28,7 @@ Prof. Kang-Lung Wang 王康隆教授 – History of Taiwanese American (T.A. Arc
 
 
 ## Sources
+- [TAH #1787 encyclopedia: 1787. Prof. Kang-Lung Wang 王康隆教授](https://taiwaneseamericanhistory.org/whos-who-1787-kang-lung-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-kang-lung-wang/)
 
 ## Related Pages

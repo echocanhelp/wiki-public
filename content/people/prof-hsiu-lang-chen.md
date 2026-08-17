@@ -26,6 +26,7 @@ Prof. Hsiu-lang Chen 陳秀亮教授 – History of Taiwanese American (T.A. Arc
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2208 encyclopedia: 2208. Prof. Hsiu-lang Chen 陳秀亮教授](https://taiwaneseamericanhistory.org/whos-who-2208-hsiu-lang-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-hsiu-lang-chen/)
 
 ## Related Pages

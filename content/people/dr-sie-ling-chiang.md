@@ -30,6 +30,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #1644 encyclopedia: 1644. Dr. Sie-Ling Chiang 姜西淋博士](https://taiwaneseamericanhistory.org/whos-who-1644-sie-ling-chiang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-sie-ling-chiang/)
 
 ## Related Pages

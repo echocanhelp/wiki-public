@@ -26,6 +26,8 @@ Marlene Tseng Yu was born in Taiwan in 1937 and came to the U.S. in 1963. From 1
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #861 encyclopedia: 861. MARLENE TSENG YU 虞曾富美 /2016/02](https://taiwaneseamericanhistory.org/861-marlene-tseng-yu/)
+- [TAH #58 encyclopedia: 58. 虞曾富美  MARLENE TSENG YU /02/2016](https://taiwaneseamericanhistory.org/artist58-marlene-tseng-yu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/marlene-tseng-yu/)
 
 ## Related Pages

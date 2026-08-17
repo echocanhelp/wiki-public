@@ -26,6 +26,8 @@ At age 11, Gloria Chuang won the National Young Keyboard Artist Competition of T
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1508 encyclopedia: 1508. Gloria Chuang 莊邑文 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1508/)
+- [TAH #384 encyclopedia: 384. Gloria Chuang 莊邑文, Pianist / 2017/02](https://taiwaneseamericanhistory.org/musician384/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/gloria-chuang/)
 
 ## Related Pages

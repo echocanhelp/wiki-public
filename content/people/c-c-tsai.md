@@ -27,6 +27,7 @@ C. C. Tsai (蔡清枝) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #1153 encyclopedia: 1153. C. C. Tsai 蔡清枝 / 2016/07](https://taiwaneseamericanhistory.org/whswho1152/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-c-tsai/)
 
 ## Related Pages

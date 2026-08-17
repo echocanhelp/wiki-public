@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1789 encyclopedia: 1789. Prof. Ting-Kuo Lee 李定國教授](https://taiwaneseamericanhistory.org/whos-who-1789-ting-kuo-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-ting-kuo-lee/)
 
 ## Related Pages

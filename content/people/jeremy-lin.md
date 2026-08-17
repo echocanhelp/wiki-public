@@ -28,6 +28,12 @@ Growing up, Jeremy realized that teammates on his basketball team all came from 
 
 
 ## Sources
+- [TAH #113 encyclopedia: 113. Jeremy Lin【台灣演義】哈佛小子 林書豪 08/17/2013](https://taiwaneseamericanhistory.org/videos113/)
+- [TAH #11 encyclopedia: 11. Jeremy Lin 林書豪](https://taiwaneseamericanhistory.org/11-jeremy-lin/)
+- [TAH #195 encyclopedia: 195. 林書豪 Jeremy Lin / The First person to be recruited by NBA basketball team Go](https://taiwaneseamericanhistory.org/195-%e6%9e%97%e6%9b%b8%e8%b1%aa-jeremy-lin-the-first-person-to-be-recruited-by-nba-basketball-team-golden-state-warriors-7162010/)
+- [TAH #21 encyclopedia: 21.	Jeremy Lin 林書豪 / The first T.A. professional basketball player / 2012](https://taiwaneseamericanhistory.org/21-jeremy-lin-%e6%9e%97%e6%9b%b8%e8%b1%aa-the-first-t-a-professional-basketball-player-2012/)
+- [TAH #203 encyclopedia: 203. 台美人的榮耀 ( Pride of Taiwanese Americans) : 4, 林書豪 Jeremy Lin/2015/02](https://taiwaneseamericanhistory.org/11509/)
+- [TAH #53 encyclopedia: 53. Jeremy Lin 林書豪](https://taiwaneseamericanhistory.org/whos-who-530-jeremy-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jeremy-lin/)
 
 ## Related Pages

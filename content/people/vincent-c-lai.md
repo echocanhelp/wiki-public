@@ -26,6 +26,7 @@ Vincent C. Lai (賴經都) is listed in the TAH Foundation Who’s Who Taiwanese
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1380 encyclopedia: 1380. Vincent C. Lai 賴經都 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1380/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/vincent-c-lai/)
 
 ## Related Pages

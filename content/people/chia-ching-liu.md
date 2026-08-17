@@ -26,6 +26,7 @@ Chia-Ching Liu (劉嘉慶) is listed in the TAH Foundation Who’s Who Taiwanese
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1654 encyclopedia: 1654. Chia-Ching Liu 劉嘉慶 / 05/2017](https://taiwaneseamericanhistory.org/whoswho1654/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chia-ching-liu/)
 
 ## Related Pages

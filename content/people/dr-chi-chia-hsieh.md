@@ -28,6 +28,7 @@ Co-Founder, Vice Chairman, Chairman
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2066 encyclopedia: 2066. Dr. Chi-chia Hsieh 謝其嘉博士](https://taiwaneseamericanhistory.org/whos-who-2066-chi-chia-hsieh/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-chi-chia-hsieh/)
 
 ## Related Pages

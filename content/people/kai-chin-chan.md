@@ -29,6 +29,7 @@ Kai-Chin Chan (詹凱臣) is listed in the TAH Foundation Who’s Who Taiwanese 
 
 
 ## Sources
+- [TAH #1154 encyclopedia: 1154. Kai-Chin Chan  詹凱臣 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1154/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kai-chin-chan/)
 
 ## Related Pages

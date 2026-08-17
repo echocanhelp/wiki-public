@@ -27,6 +27,8 @@ Prof. Jyu-Hsiung Fang 方菊雄教授 – History of Taiwanese American (T.A. Ar
 
 
 ## Sources
+- [TAH #186 encyclopedia: 186. Prof. Jyu Hsiung Fang方菊雄教授](https://taiwaneseamericanhistory.org/186-prof-jyu-hsiung-fang/)
+- [TAH #714 encyclopedia: 714. Prof. Jyu-Hsiung Fang 方菊雄教授](https://taiwaneseamericanhistory.org/whos-who-714-jyu-hsiung-fan/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-jyu-hsiung-fang/)
 
 ## Related Pages

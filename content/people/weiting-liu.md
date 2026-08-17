@@ -26,6 +26,7 @@ Weiting Liu (劉威廷) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1548 encyclopedia: 1548. Weiting Liu 劉威廷 / 2017/03](https://taiwaneseamericanhistory.org/whoswho1548/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/weiting-liu/)
 
 ## Related Pages

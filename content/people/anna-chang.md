@@ -27,6 +27,7 @@ Anna Chang (張月英) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #985 encyclopedia: 985. Anna Chang 張月英 / 2016/05](https://taiwaneseamericanhistory.org/whos-anna-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/anna-chang/)
 
 ## Related Pages

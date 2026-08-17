@@ -29,6 +29,10 @@ Dr. Hong-Yen Hsu (許鴻源博士) is listed in the TAH Foundation Who’s Who T
 
 
 ## Sources
+- [TAH #7 encyclopedia: 7. Dr. Hong-Yen Hsu (許鴻源博士)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-7/)
+- [TAH #1266 encyclopedia: 1266. 許鴻源博士/ 06/2019/Autobiography/自傳](https://taiwaneseamericanhistory.org/1266-autobiography/)
+- [TAH #91 encyclopedia: 91. Dr. Hong-Yen Hsu 許鴻源博士](https://taiwaneseamericanhistory.org/91-dr-hong-yen-hsu/)
+- [TAH #808 encyclopedia: 808. Dr. Hong-Yen Hsu 許鴻源博士](https://taiwaneseamericanhistory.org/whos-who-808-hong-yen-hsu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-hong-yen-hsu/)
 
 ## Related Pages

@@ -29,6 +29,7 @@ Honorary Professor of the Dept. of Mechanical Engineering and Dept. of Biomedica
 
 
 ## Sources
+- [TAH #2163 encyclopedia: 2163. Prof. Wen-Jei Yang 楊文偕教授](https://taiwaneseamericanhistory.org/whos-who-2163-wen-jei-yang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/wen-jei-yang/)
 
 ## Related Pages

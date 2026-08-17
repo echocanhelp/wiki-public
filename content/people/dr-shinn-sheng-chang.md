@@ -28,6 +28,8 @@ Dr. Shinn-Sheng Chang 張信行醫師 – History of Taiwanese American (T.A. Ar
 
 
 ## Sources
+- [TAH #199 encyclopedia: 199. Dr. Shinn-Sheng Chang 張信行醫師](https://taiwaneseamericanhistory.org/199-dr-shinn-sheng-chang/)
+- [TAH #893 encyclopedia: 893. Dr. Shinn-Sheng Chang 張信行醫師](https://taiwaneseamericanhistory.org/whos-who-893-shinn-sheng-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-shinn-sheng-chang/)
 
 ## Related Pages

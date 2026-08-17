@@ -26,6 +26,7 @@ Dr. Jenta Shen (沈仁達醫師) is listed in the TAH Foundation Who’s Who Tai
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2001 encyclopedia: 2001. Dr. Jenta Shen 沈仁達醫師](https://taiwaneseamericanhistory.org/whos-who-2001-jenta-shen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-jenta-shen/)
 
 ## Related Pages

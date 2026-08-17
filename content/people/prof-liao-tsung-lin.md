@@ -26,6 +26,7 @@ Prof. Liao-Tsung Lin 林料總教授 – History of Taiwanese American (T.A. Arc
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2110 encyclopedia: 2110. Prof. Liao-Tsung Lin 林料總教授](https://taiwaneseamericanhistory.org/whos-who-2110-liao-tsung-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-liao-tsung-lin/)
 
 ## Related Pages

@@ -29,6 +29,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #1915 encyclopedia: 1915. Dr. Min Hsiung Tsai 蔡敏雄博士](https://taiwaneseamericanhistory.org/whos-who-1915-min-hsiung-tsai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-min-hsiung-tsai/)
 
 ## Related Pages

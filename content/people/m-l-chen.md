@@ -34,6 +34,7 @@ M. L. Chen (陳夢蘭) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #1031 encyclopedia: 1031. M. L. Chen 陳夢蘭 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1031/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/m-l-chen/)
 
 ## Related Pages

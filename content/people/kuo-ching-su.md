@@ -27,6 +27,7 @@ Kuo-Ching Su (蘇國慶) is listed in the TAH Foundation Who’s Who Taiwanese A
 
 
 ## Sources
+- [TAH #348 encyclopedia: 348. Kuo-Ching Su 蘇國慶/2015/03](https://taiwaneseamericanhistory.org/348-kuo-ching-su-%e8%98%87%e5%9c%8b%e6%85%b6201503/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kuo-ching-su/)
 
 ## Related Pages

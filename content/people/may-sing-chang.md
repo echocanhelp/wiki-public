@@ -27,6 +27,10 @@ May-Sing studied music in college, and had a lot of concert experience since gra
 
 
 ## Sources
+- [TAH #195 encyclopedia: 195. May-Sing Chang 黃美星](https://taiwaneseamericanhistory.org/195-may-sing-chang/)
+- [TAH #558 encyclopedia: 558. May-Sing Chang 黃美星](https://taiwaneseamericanhistory.org/whos-who-558-may-sing-huang/)
+- [TAH #263 encyclopedia: 263.  May-Sing Chang 黃美星, Vocalist / 2015/08](https://taiwaneseamericanhistory.org/263-may-sing-huang-%e9%bb%83%e7%be%8e%e6%98%9f-vocalist-201508/)
+- [TAH #21 encyclopedia: 21. 張信行、黃美星 台灣會館主要推手/楊寧茵/2014/09](https://taiwaneseamericanhistory.org/mystories21/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/may-sing-chang/)
 
 ## Related Pages

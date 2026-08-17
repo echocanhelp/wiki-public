@@ -26,6 +26,7 @@ Yih-Fu Shiau (蕭逸夫) is listed in the TAH Foundation Who’s Who Taiwanese A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1341 encyclopedia: 1341. Yih-Fu Shiau 蕭逸夫 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1341/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yih-fu-shiau/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ Dr. Simon Shiao is a versatile performer who holds the distinction of having per
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #385 encyclopedia: 385. Simon Shiao 蕭世杰, Violinist / 2017/02](https://taiwaneseamericanhistory.org/musician385/)
+- [TAH #1518 encyclopedia: 1518. Simon Shiao 蕭世杰 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1518/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/simon-shiao/)
 
 ## Related Pages

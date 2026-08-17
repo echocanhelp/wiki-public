@@ -26,6 +26,7 @@ Castor Yu (尤中正) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #68 encyclopedia: 68. Castor Yu 尤中正](https://taiwaneseamericanhistory.org/68-castor-yu-%e5%b0%a4%e4%b8%ad%e6%ad%a3/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/castor-yu/)
 
 ## Related Pages

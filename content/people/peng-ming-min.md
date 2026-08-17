@@ -10,7 +10,7 @@ tags:
   - dpp-founder
 verification_status: pending
 featured: true
-last_reviewed: 2026-07-23
+last_reviewed: 2026-08-17
 ---
 # Peng Ming-min (彭明敏)
 
@@ -92,6 +92,9 @@ Peng Ming-min died on April 8, 2022. A memorial tribute was written by 楊嘉猷
 - **Content priority A:** Contains extensive biographical narrative from birth through escape, academic career, DPP founding, and 2000 presidential campaign
 - **Hub:** [[sources/2023-tahs-publication|2023 TAHS Publication]]
 - **Note:** The full text includes detailed biographical information including the 1964 Self-Salvation Movement, escape to Sweden, academic career at University of Michigan, DPP founding, and presidential campaign
+
+## Sources
+- [TAH #15 encyclopedia: 15. Four renowned T.A. 羅福全、彭明敏、周烒明、蔡同榮 for Taiwan Independent movement in Morgan](https://taiwaneseamericanhistory.org/photo-albums-historical-15/)
 
 ## Related Pages
 

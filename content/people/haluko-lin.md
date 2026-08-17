@@ -28,6 +28,7 @@ Haluko Lin (陳春子) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #191 encyclopedia: 191. Haluko Lin 陳春子](https://taiwaneseamericanhistory.org/191-haluko-lin-%e9%99%b3%e6%98%a5%e5%ad%90/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/haluko-lin/)
 
 ## Related Pages

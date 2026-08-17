@@ -28,6 +28,7 @@ Linda Yi-Fang Yau (劉義芳) is listed in the TAH Foundation Who’s Who Taiwan
 
 
 ## Sources
+- [TAH #1566 encyclopedia: 1566. Linda(Yi-Fang) Yau 劉義芳 /03/2017](https://taiwaneseamericanhistory.org/whos-lindayi-fang-yau/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/lindayi-fang-yau/)
 
 ## Related Pages

@@ -27,6 +27,7 @@ Dr. Gerrit Van Der Wees 韋傑理博士 – History of Taiwanese American (T.A. 
 
 
 ## Sources
+- [TAH #804 encyclopedia: 804. Dr. Gerrit Van Der Wees 韋傑理博士](https://taiwaneseamericanhistory.org/whos-who-804-gerrit-van-der-wees/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-gerrit-van-der-wees/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ A recent graduate of the Juilliard School, Mr Wei-En Hsu, pianist, organist, con
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #348 encyclopedia: 348. Wei-En Hsu 徐惟恩, Pianist / 2016/07](https://taiwaneseamericanhistory.org/musician348/)
+- [TAH #509 encyclopedia: 509. Wei-En Hsu 徐惟恩 / 2015/07](https://taiwaneseamericanhistory.org/whoswho509/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/wei-en-hsu/)
 
 ## Related Pages

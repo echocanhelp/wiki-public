@@ -29,6 +29,7 @@ Mei Liu (洪梅) is listed in the TAH Foundation Who’s Who Taiwanese American 
 
 
 ## Sources
+- [TAH #2222 encyclopedia: 2222. Mei Liu 洪梅](https://taiwaneseamericanhistory.org/whos-who-2222-mei-liu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mei-liu/)
 
 ## Related Pages

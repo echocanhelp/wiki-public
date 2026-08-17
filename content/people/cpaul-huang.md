@@ -26,6 +26,8 @@ Recipient of the prestigious 2015 Avery Fisher Career Grant and 2017 Lincoln Cen
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #308 encyclopedia: 308. Paul Huang 黃俊文, Violinist / 2015/10](https://taiwaneseamericanhistory.org/paul-huang-violinist/)
+- [TAH #681 encyclopedia: 681. Chun-Wen (Paul) Huang 黃俊文 /10/2015](https://taiwaneseamericanhistory.org/whos-paul-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/cpaul-huang/)
 
 ## Related Pages

@@ -26,6 +26,8 @@ Tao Yu 余道昌, the highly acclaimed concert violinist, has performed in recit
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #677 encyclopedia: 677. Tao Yu 余道昌 / 2015/10](https://taiwaneseamericanhistory.org/677-tao-yu-%e4%bd%99%e9%81%93%e6%98%8c-201510/)
+- [TAH #6 encyclopedia: 6. Tao Yu 余道昌, Violinist/2014/10](https://taiwaneseamericanhistory.org/6-tao-yu-%e4%bd%99%e9%81%93%e6%98%8c-violin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tao-yu/)
 
 ## Related Pages

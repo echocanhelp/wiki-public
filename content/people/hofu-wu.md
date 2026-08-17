@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #143 encyclopedia: 143. Dr. Hofu Wu 吳和甫博士](https://taiwaneseamericanhistory.org/143-dr-hofu-wu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hofu-wu/)
 
 ## Related Pages

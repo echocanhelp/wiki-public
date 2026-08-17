@@ -26,6 +26,7 @@ Prof. Shenglin Chang 張聖琳教授 – History of Taiwanese American (T.A. Arc
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1767 encyclopedia: 1767. Prof. Shenglin Chang 張聖琳教授](https://taiwaneseamericanhistory.org/whos-who-1767-shenglin-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-shenglin-chang/)
 
 ## Related Pages

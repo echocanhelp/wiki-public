@@ -28,6 +28,8 @@ Being always enjoying various forms of artistic expression, I took my first cera
 
 
 ## Sources
+- [TAH #65 encyclopedia: 65. 黃雪香 Sue Chiu](https://taiwaneseamericanhistory.org/artist-sue-chiu/)
+- [TAH #853 encyclopedia: 853. Sue Chiu 黃雪香 / 2016/02](https://taiwaneseamericanhistory.org/whos-sue-chiu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sue-chiu/)
 
 ## Related Pages

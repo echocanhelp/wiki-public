@@ -26,6 +26,8 @@ Keng-Wei (William) Kuo 郭耿維 – History of Taiwanese American (T.A. Archive
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2315 encyclopedia: 2315. Keng-Wei (William) Kuo 郭耿維](https://taiwaneseamericanhistory.org/whos-who-2315-keng-wei-kuo/)
+- [TAH #439 encyclopedia: 439. Keng-Wei (William) Kuo 郭耿維 Conductor/02/2021](https://taiwaneseamericanhistory.org/musician-439/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/keng-wei-william-kuo/)
 
 ## Related Pages

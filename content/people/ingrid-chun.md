@@ -26,6 +26,8 @@ Violinist INGRID K CHUN is a member of the Los Angeles Philharmonic Orchestra si
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #222 encyclopedia: 222. Ingrid Chun 郭雋音/2015/01](https://taiwaneseamericanhistory.org/222-ingrid-chun-%e9%83%ad%e9%9b%8b%e9%9f%b3201501/)
+- [TAH #118 encyclopedia: 118. Ingrid Chun,郭雋音, Violinist/2015/01](https://taiwaneseamericanhistory.org/118-ingrid-chun%e9%83%ad%e9%9b%8b%e9%9f%b3-violinist201501/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ingrid-chun/)
 
 ## Related Pages

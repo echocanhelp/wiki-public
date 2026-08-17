@@ -26,6 +26,8 @@ Tzuying Huang was appointed the Bass Clarinetist of the St. Louis Symphony in Fe
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #341 encyclopedia: 341. Tzuying Huang 黃姿穎, Bass Clarinetist / 2016/06](https://taiwaneseamericanhistory.org/musician341/)
+- [TAH #1056 encyclopedia: 1056. Tzuying Huang 黃姿穎 / 2016/06](https://taiwaneseamericanhistory.org/1056-tzuying-huang-%e9%bb%83%e5%a7%bf%e7%a9%8e-201605/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tzuying-huang/)
 
 ## Related Pages

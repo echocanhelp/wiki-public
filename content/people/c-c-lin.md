@@ -27,6 +27,7 @@ C. C. Lin (林振昌) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 
 
 ## Sources
+- [TAH #1267 encyclopedia: 1267. C. C. Lin 林振昌 / 09/2016](https://taiwaneseamericanhistory.org/whoswho1267/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-c-lin/)
 
 ## Related Pages

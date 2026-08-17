@@ -30,6 +30,7 @@ F.Y. Anthony Shaw (蕭芳苑) is listed in the TAH Foundation Who’s Who Taiwan
 
 
 ## Sources
+- [TAH #875 encyclopedia: 875. F.Y. (Anthony) Shaw 蕭芳苑 / 2016/03](https://taiwaneseamericanhistory.org/whoswho875-anthony-shaw/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/f-y-anthony-shaw/)
 
 ## Related Pages

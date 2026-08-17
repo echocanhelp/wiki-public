@@ -30,6 +30,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #2294 encyclopedia: 2294. Masa C. W. Chen 陳正旺](https://taiwaneseamericanhistory.org/whos-who-2294-masa-c-w-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/masa-c-w-chen/)
 
 ## Related Pages

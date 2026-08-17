@@ -26,6 +26,7 @@ C. N. Chen (陳建南) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1770 encyclopedia: 1770. C. N. Chen 陳建南 / 07/2017](https://taiwaneseamericanhistory.org/whoswho1770/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-n-chen/)
 
 ## Related Pages

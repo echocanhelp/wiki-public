@@ -26,6 +26,8 @@ Lindsay Yang is a pianist living and working in New York. Her B.A. in piano perf
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1179 encyclopedia: 1179. Lindsay Yang 楊瑩瓊 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1179/)
+- [TAH #351 encyclopedia: 351. Lindsay Yang 楊瑩瓊, Pianist / 2016/07](https://taiwaneseamericanhistory.org/musician351/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/lindsay-yang/)
 
 ## Related Pages

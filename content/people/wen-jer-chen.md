@@ -29,6 +29,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #1402 encyclopedia: 1402. Wen Jer Chen 陳文哲 /2016/11](https://taiwaneseamericanhistory.org/whos1402/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/wen-jer-chen/)
 
 ## Related Pages

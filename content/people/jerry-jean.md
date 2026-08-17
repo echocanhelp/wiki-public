@@ -31,6 +31,8 @@ Jerry draws from an eclectic mix of progressive pop, electronic, rock, and class
 
 
 ## Sources
+- [TAH #195 encyclopedia: 195. Jerry Jean簡子翕, Songwriter & Music Producer/2015/05](https://taiwaneseamericanhistory.org/jerry-jean-pianist/)
+- [TAH #414 encyclopedia: 414. Jerry Jean 簡子翕/2015/05](https://taiwaneseamericanhistory.org/whos-jerry-jean/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jerry-jean/)
 
 ## Related Pages

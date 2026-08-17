@@ -26,6 +26,7 @@ Dr. Keith Wang (王振濃博士) is listed in the TAH Foundation Who’s Who Tai
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2029 encyclopedia: 2029. Dr. Keith Wang 王振濃博士](https://taiwaneseamericanhistory.org/whos-who-2029-keith-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-keith-wang/)
 
 ## Related Pages

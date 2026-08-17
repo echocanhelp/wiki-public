@@ -26,6 +26,8 @@ A native Taiwan, Boston-based flutist Feng-Jen Lu started her training in music 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1638 encyclopedia: 1638. Feng-Jen Lu 路鳳真 / 2017/05](https://taiwaneseamericanhistory.org/whoswho1638/)
+- [TAH #399 encyclopedia: 399. Feng-Jen Lu 路鳳真, flutist / 2017/05](https://taiwaneseamericanhistory.org/musician399/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/feng-jen-lu/)
 
 ## Related Pages

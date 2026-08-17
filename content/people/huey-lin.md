@@ -26,6 +26,7 @@ Huey Lin (林惠洲) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1401 encyclopedia: 1401. Huey Lin 林惠洲 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1401/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/huey-lin/)
 
 ## Related Pages

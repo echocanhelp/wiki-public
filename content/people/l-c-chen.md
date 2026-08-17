@@ -26,6 +26,7 @@ L. C. Chen (陳麗村) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1459 encyclopedia: 1459. L. C. Chen 陳麗村 / 2017/01](https://taiwaneseamericanhistory.org/whoswho1459/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/l-c-chen/)
 
 ## Related Pages

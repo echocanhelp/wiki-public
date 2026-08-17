@@ -27,6 +27,15 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #75 encyclopedia: 75. Collection of Maestro Tyzen Hsiao 蕭泰然](https://taiwaneseamericanhistory.org/75-collection-of-maestro-tyzen-hsiao-%e8%95%ad%e6%b3%b0%e7%84%b6/)
+- [TAH #1244 encyclopedia: 1244. 樂見台灣-蕭泰然20018紀念音樂會手冊 / 北加州台灣會館 /08/2018/Magazines/雜誌](https://taiwaneseamericanhistory.org/publications1244/)
+- [TAH #23 encyclopedia: 23. Tyzen Hsiao 蕭泰然](https://taiwaneseamericanhistory.org/23-tyzen-hsiao/)
+- [TAH #92 encyclopedia: 92. 公視 文化容顏~~蕭泰然 02/28/2015](https://taiwaneseamericanhistory.org/videos92/)
+- [TAH #514 encyclopedia: 514. 蕭泰然kap「台灣翠青」 / 鄭兒玉 /02/2017](https://taiwaneseamericanhistory.org/mystories514/)
+- [TAH #91 encyclopedia: 91. Tyzen Hsiao蕭泰然 / Famous composer](https://taiwaneseamericanhistory.org/91-tyzen-hsiao%e8%95%ad%e6%b3%b0%e7%84%b6-famous-composer/)
+- [TAH #159 encyclopedia: 159. Tyzen Hsiao蕭泰然, Pianist、Conductor、Symphonist/2015/02](https://taiwaneseamericanhistory.org/159-tyzen-hsiao%e8%95%ad%e6%b3%b0%e7%84%b6201502/)
+- [TAH #157 encyclopedia: 157. Tyzen Hsiao 蕭泰然](https://taiwaneseamericanhistory.org/whos-who-157-tyzen-hsiao/)
+- [TAH #123 encyclopedia: 123. 世界級的臺灣音樂家.蕭泰然 – 蔡明雲 – 2006.05 – 音樂](https://taiwaneseamericanhistory.org/123-%e4%b8%96%e7%95%8c%e7%b4%9a%e7%9a%84%e8%87%ba%e7%81%a3%e9%9f%b3%e6%a8%82%e5%ae%b6-%e8%95%ad%e6%b3%b0%e7%84%b6-%e8%94%a1%e6%98%8e%e9%9b%b2-2006-05-%e9%9f%b3%e6%a8%82/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tyzen-hsiao/)
 
 ## Related Pages

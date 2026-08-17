@@ -29,6 +29,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #2218 encyclopedia: 2218. C.Y. Hsu 許贊育](https://taiwaneseamericanhistory.org/whos-who-2218-c-y-hsu/)
+- [TAH #49 encyclopedia: 49. 許贊育/2015/06](https://taiwaneseamericanhistory.org/49-%e8%a8%b1%e8%b4%8a%e8%82%b2201506/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-y-hsu/)
 
 ## Related Pages

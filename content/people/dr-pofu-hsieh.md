@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1904 encyclopedia: 1904.  Dr. Pofu Hsieh 謝博夫醫師](https://taiwaneseamericanhistory.org/whos-who-1904-pofu-hsieh/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-pofu-hsieh/)
 
 ## Related Pages

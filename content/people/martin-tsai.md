@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #110 encyclopedia: 110. Martin Tsai 蔡明峰](https://taiwaneseamericanhistory.org/110-martin-tsai/)
+- [TAH #365 encyclopedia: 365. Martin Tsai 蔡明峰](https://taiwaneseamericanhistory.org/whos-who-365-martin-tsai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/martin-tsai/)
 
 ## Related Pages

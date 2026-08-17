@@ -28,6 +28,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #508 encyclopedia: 508. Amy Hsu 蘇惠美/2015/07](https://taiwaneseamericanhistory.org/whos-who-508/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/amy-hsu/)
 
 ## Related Pages

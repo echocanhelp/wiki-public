@@ -29,6 +29,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #39 encyclopedia: 39. Keng Chi Wu 吳耿志](https://taiwaneseamericanhistory.org/whos-who-39-keng-chi-wu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/keng-chi-wu/)
 
 ## Related Pages

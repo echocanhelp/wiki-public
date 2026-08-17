@@ -26,6 +26,7 @@ Ying-ming Huang (黃英明) is listed in the TAH Foundation Who’s Who Taiwanes
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1384 encyclopedia: 1384. Ying-ming Huang 黃英明 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1384/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ying-ming-huang/)
 
 ## Related Pages

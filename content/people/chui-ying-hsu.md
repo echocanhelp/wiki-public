@@ -30,6 +30,7 @@ Chui Ying Hsu (黃翠英) is listed in the TAH Foundation Who’s Who Taiwanese 
 
 
 ## Sources
+- [TAH #309 encyclopedia: 309. Chui Ying Hsu 黃翠英/2015/02](https://taiwaneseamericanhistory.org/309-chui-ying-hsu-%e9%bb%83%e7%bf%a0%e8%8b%b1201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chui-ying-hsu/)
 
 ## Related Pages

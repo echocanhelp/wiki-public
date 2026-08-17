@@ -28,6 +28,7 @@ Prof. Stephen Shau-tsi Chen 陳紹紀教授 – History of Taiwanese American (T
 
 
 ## Sources
+- [TAH #2303 encyclopedia: 2303. Prof. Stephen Shau-tsi Chen 陳紹紀教授](https://taiwaneseamericanhistory.org/whos-who-2303-shau-tsi-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-stephen-shau-tsi-chen/)
 
 ## Related Pages

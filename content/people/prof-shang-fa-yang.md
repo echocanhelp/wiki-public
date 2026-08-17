@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1833 encyclopedia: 1833. Prof. Shang-Fa Yang 楊祥發教授](https://taiwaneseamericanhistory.org/whos-who-1833-shang-fa-yang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-shang-fa-yang/)
 
 ## Related Pages

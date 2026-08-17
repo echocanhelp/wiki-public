@@ -29,6 +29,7 @@ Prof. Chin-Pao Huang 黃金寶教授 – History of Taiwanese American (T.A. Arc
 
 
 ## Sources
+- [TAH #2305 encyclopedia: 2305. Prof. Chin-Pao Huang 黃金寶教授](https://taiwaneseamericanhistory.org/whos-who-2305-chin-pao-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-chin-pao-huang/)
 
 ## Related Pages

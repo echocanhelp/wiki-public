@@ -9,7 +9,7 @@ tags:
   - literature
 verification_status: pending
 featured: true
-last_reviewed: 2026-07-19
+last_reviewed: 2026-08-17
 ---
 # Shawna Yang Ryan (楊小娜)
 
@@ -69,6 +69,7 @@ Yang Ryan's profile in the 2017 TAHS publication was prepared by the Taiwanese A
 - **Note:** The profile in the publication is relatively brief. Additional biographical details (education, earlier works, other publications) exist in external literary sources.
 
 ## Sources
+- [TAH #860 encyclopedia: 860. Shawna Yang Ryan 楊小娜 /2016/02](https://taiwaneseamericanhistory.org/whos-shawna-yang-ryan/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shawna-yang-ryan/)
 
 ## Related Pages

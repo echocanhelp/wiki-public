@@ -29,6 +29,7 @@ BFA, Studio Arts, Photography, Ceramics
 
 
 ## Sources
+- [TAH #1610 encyclopedia: 1610. Cheng-Yung Kuo 郭正雍 /04/2017](https://taiwaneseamericanhistory.org/whos-cheng-yung-kuo/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/cheng-yung-kuo/)
 
 ## Related Pages

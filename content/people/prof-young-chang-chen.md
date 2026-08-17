@@ -29,6 +29,8 @@ Prof. Young-Chang Chen 陳榮昌教授 – History of Taiwanese American (T.A. A
 
 
 ## Sources
+- [TAH #125 encyclopedia: 125. Prof. Young-Chang Chen 陳榮昌教授](https://taiwaneseamericanhistory.org/125-prof-young-chang-chen/)
+- [TAH #745 encyclopedia: 745. Prof. Young-Chang Chen 陳榮昌教授](https://taiwaneseamericanhistory.org/whos-who-745-young-chang-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-young-chang-chen/)
 
 ## Related Pages

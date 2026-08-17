@@ -29,6 +29,7 @@ Christine L. Yang (林壽英) is listed in the TAH Foundation Who’s Who Taiwan
 
 
 ## Sources
+- [TAH #400 encyclopedia: 400. Christine L. Yang 林壽英 / 2015/05](https://taiwaneseamericanhistory.org/400-christine-l-yang-%e6%9e%97%e5%a3%bd%e8%8b%b1-201505/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/christine-l-yang/)
 
 ## Related Pages

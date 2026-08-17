@@ -27,6 +27,7 @@ Roger Huang (黃瑞宗) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #1150 encyclopedia: 1150. Roger Huang 黃瑞宗 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1150/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/roger-huang/)
 
 ## Related Pages

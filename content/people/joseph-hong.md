@@ -26,6 +26,7 @@ Joseph Hong (洪茂澤) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #265 encyclopedia: 265. Joseph Hong 洪茂澤/2015/02](https://taiwaneseamericanhistory.org/265-joseph-hong-%e6%b4%aa%e8%8c%82%e6%be%a4201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/joseph-hong/)
 
 ## Related Pages

@@ -28,6 +28,8 @@ Publication(Non-professional)
 
 
 ## Sources
+- [TAH #151 encyclopedia: 151. Dr. Lung-Fong Chen 陳隆豐博士](https://taiwaneseamericanhistory.org/151-dr-lung-fong-chen/)
+- [TAH #58 encyclopedia: 58. Dr. Lung-Fong Chen 陳隆豐博士](https://taiwaneseamericanhistory.org/whos-who-58-lung-fong-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-lung-fong-chen/)
 
 ## Related Pages

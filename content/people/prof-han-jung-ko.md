@@ -26,6 +26,7 @@ Prof. Han-Jung Ko (柯涵容教授) is listed in the TAH Foundation Who’s Who 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1665 encyclopedia: 1665. Prof. Han-Jung Ko 柯涵容教授](https://taiwaneseamericanhistory.org/whos-who-1665-han-jung-ko/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-han-jung-ko/)
 
 ## Related Pages

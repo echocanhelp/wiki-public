@@ -26,6 +26,7 @@ Pauline Hsiao Ye (蕭百忍) is listed in the TAH Foundation Who’s Who Taiwane
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #791 encyclopedia: 791. Pauline Hsiao Ye 蕭百忍/ 2016/01](https://taiwaneseamericanhistory.org/791-pauline-hsiao-ye-%e8%95%ad%e7%99%be%e5%bf%8d-201601/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/pauline-hsiao-ye/)
 
 ## Related Pages

@@ -28,6 +28,7 @@ Sam Huang (黃興貫) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 
 
 ## Sources
+- [TAH #1240 encyclopedia: 1240. Sam Huang 黃興貫 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1240/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sam-huang/)
 
 ## Related Pages

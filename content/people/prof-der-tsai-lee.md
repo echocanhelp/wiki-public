@@ -26,6 +26,7 @@ Assistant Professor, Associate Professor, Professor, Dept. of Electrical Enginee
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1798 encyclopedia: 1798. Prof. Der-Tsai Lee 李德財教授](https://taiwaneseamericanhistory.org/whos-who-1798-der-tsai-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-der-tsai-lee/)
 
 ## Related Pages

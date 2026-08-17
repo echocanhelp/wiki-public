@@ -27,6 +27,7 @@ F. M. Yang (楊豐明) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #2074 encyclopedia: 2074. F. M. Yang 楊豐明 / 03/2018](https://taiwaneseamericanhistory.org/whoswho2074/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/f-m-yang/)
 
 ## Related Pages

@@ -27,6 +27,8 @@ Sha Lin, a Chinese-American artist, based in New York, has been trying so hard f
 
 
 ## Sources
+- [TAH #43 encyclopedia: 43. Sha Lin 林莎  /2015/05](https://taiwaneseamericanhistory.org/artist43-sha-lin/)
+- [TAH #2 encyclopedia: 2. Sha Lin 林莎 / 2015/05](https://taiwaneseamericanhistory.org/whos2-sha-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sha-lin/)
 
 ## Related Pages

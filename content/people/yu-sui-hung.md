@@ -26,6 +26,8 @@ Dr. Hung joined the faculty at Vander Cook in 2006 after teaching piano, theory,
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #452 encyclopedia: 452. Yu-Sui Hung 洪育穗   / 2015/06](https://taiwaneseamericanhistory.org/452-yu-sui-hung-%e6%b4%aa%e8%82%b2%e7%a9%97-201506/)
+- [TAH #216 encyclopedia: 216. Yu-Sui Hung 洪育穗, Pianist / 2015/06](https://taiwaneseamericanhistory.org/216-yu-sui-hung%e6%b4%aa%e8%82%b2%e7%a9%97-pianist-201506/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yu-sui-hung/)
 
 ## Related Pages

@@ -27,6 +27,7 @@ J. C. Lu (盧健治) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 
 
 ## Sources
+- [TAH #1142 encyclopedia: 1142. J. C. Lu 盧健治 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1142/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/j-c-lu/)
 
 ## Related Pages

@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1718 encyclopedia: 1718. Prof. Y. W. Cheng 鄭義為教授](https://taiwaneseamericanhistory.org/whos-who-1718-y-w-cheng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-y-w-cheng/)
 
 ## Related Pages

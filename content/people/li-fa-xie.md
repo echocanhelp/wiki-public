@@ -26,6 +26,7 @@ Li–Fa Xie (謝里法) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #653 encyclopedia: 653. Li–Fa Xie 謝里法 / 2015/10](https://taiwaneseamericanhistory.org/653/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/li-fa-xie/)
 
 ## Related Pages

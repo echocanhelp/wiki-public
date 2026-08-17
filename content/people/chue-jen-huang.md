@@ -28,6 +28,7 @@ Chue-Jen Huang (楊純貞) is listed in the TAH Foundation Who’s Who Taiwanese
 
 
 ## Sources
+- [TAH #566 encyclopedia: 566. Chue-Jen Huang 楊純貞 /2015/09](https://taiwaneseamericanhistory.org/566-chue-jen-huang-%e6%a5%8a%e7%b4%94%e8%b2%9e-201509/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chue-jen-huang/)
 
 ## Related Pages

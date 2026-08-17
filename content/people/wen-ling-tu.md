@@ -26,6 +26,7 @@ Wen-Ling Tu (杜文苓) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #950 encyclopedia: 950. Wen-Ling Tu 杜文苓 / 2016/04](https://taiwaneseamericanhistory.org/whoswho950/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/wen-ling-tu/)
 
 ## Related Pages

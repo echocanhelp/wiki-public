@@ -29,6 +29,7 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #718 encyclopedia: 718. 鄭德和/ 2015/12](https://taiwaneseamericanhistory.org/718-%e9%84%ad%e5%be%b7%e5%92%8c-201512/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e9%84%ad%e5%be%b7%e5%92%8c/)
 
 ## Related Pages

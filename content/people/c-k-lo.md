@@ -26,6 +26,7 @@ C.K. Lo (羅劍寬) is listed in the TAH Foundation Who’s Who Taiwanese Americ
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1409 encyclopedia: 1409. C.K. Lo 羅劍寬/ 2016/11](https://taiwaneseamericanhistory.org/whoswho1409/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-k-lo/)
 
 ## Related Pages

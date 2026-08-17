@@ -1,0 +1,323 @@
+{
+  "date": "2026-08-17",
+  "total_cards": 28,
+  "evaluated_file": "/home/leedt/echo-system/knowledge/operational/evaluated/2026-08-17.json",
+  "priority_counts": {
+    "medium": 5,
+    "low": 23
+  },
+  "playbook_counts": {
+    "P8": 16,
+    "P3": 12
+  },
+  "cards": [
+    {
+      "card_id": "echo-gen-2026-08-17-0001",
+      "title": "[MEDIUM] ching-sze-hsieh: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [MEDIUM] ching-sze-hsieh: Ensure the first paragraph mentions the page subject\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/ching-sze-hsieh.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 4.5 (inbound links: 3)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/ching-sze-hsieh.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-08-17 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/ching-sze-hsieh.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 4.5,
+      "target_path": "/home/leedt/echo-system/content/people/ching-sze-hsieh.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-17-0002",
+      "title": "[MEDIUM] rue-lin-hung: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [MEDIUM] rue-lin-hung: Ensure the first paragraph mentions the page subject\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/rue-lin-hung.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 4.5 (inbound links: 3)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/rue-lin-hung.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-08-17 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/rue-lin-hung.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 4.5,
+      "target_path": "/home/leedt/echo-system/content/people/rue-lin-hung.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-17-0003",
+      "title": "[MEDIUM] matthew-tsai: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [MEDIUM] matthew-tsai: Ensure the first paragraph mentions the page subject\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/matthew-tsai.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 3.0 (inbound links: 2)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/matthew-tsai.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-08-17 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/matthew-tsai.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 3.0,
+      "target_path": "/home/leedt/echo-system/content/people/matthew-tsai.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-17-0004",
+      "title": "[MEDIUM] tsaiyuan-terry-hsu: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [MEDIUM] tsaiyuan-terry-hsu: Ensure the first paragraph mentions the page subject\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/tsaiyuan-terry-hsu.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 3.0 (inbound links: 2)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/tsaiyuan-terry-hsu.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-08-17 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/tsaiyuan-terry-hsu.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 3.0,
+      "target_path": "/home/leedt/echo-system/content/people/tsaiyuan-terry-hsu.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-17-0005",
+      "title": "[MEDIUM] yuan-chen-li: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [MEDIUM] yuan-chen-li: Ensure the first paragraph mentions the page subject\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/yuan-chen-li.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 3.0 (inbound links: 2)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/yuan-chen-li.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-08-17 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/yuan-chen-li.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 3.0,
+      "target_path": "/home/leedt/echo-system/content/people/yuan-chen-li.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-17-0006",
+      "title": "[LOW] ching-sze-hsieh: Break up long sentences",
+      "body": "## Task: [LOW] ching-sze-hsieh: Break up long sentences\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `people/ching-sze-hsieh.md`\n**Finding:** `READABILITY_LONG_SENTENCES_36wps`\n**Score:** 2.25 (inbound links: 3)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/ching-sze-hsieh.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-08-17 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Average words per sentence exceeds 30. Break up long sentences for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_LONG_SENTENCES\nPage type: people\nType weight: 1.5\nFinding weight: 0.5",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "people/ching-sze-hsieh.md",
+      "finding": "READABILITY_LONG_SENTENCES_36wps",
+      "score": 2.25,
+      "target_path": "/home/leedt/echo-system/content/people/ching-sze-hsieh.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-17-0007",
+      "title": "[LOW] rue-lin-hung: Break up long sentences",
+      "body": "## Task: [LOW] rue-lin-hung: Break up long sentences\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `people/rue-lin-hung.md`\n**Finding:** `READABILITY_LONG_SENTENCES_36wps`\n**Score:** 2.25 (inbound links: 3)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/rue-lin-hung.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-08-17 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Average words per sentence exceeds 30. Break up long sentences for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_LONG_SENTENCES\nPage type: people\nType weight: 1.5\nFinding weight: 0.5",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "people/rue-lin-hung.md",
+      "finding": "READABILITY_LONG_SENTENCES_36wps",
+      "score": 2.25,
+      "target_path": "/home/leedt/echo-system/content/people/rue-lin-hung.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-17-0008",
+      "title": "[LOW] matthew-tsai: Break up long sentences",
+      "body": "## Task: [LOW] matthew-tsai: Break up long sentences\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `people/matthew-tsai.md`\n**Finding:** `READABILITY_LONG_SENTENCES_31wps`\n**Score:** 1.5 (inbound links: 2)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/matthew-tsai.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-08-17 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Average words per sentence exceeds 30. Break up long sentences for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_LONG_SENTENCES\nPage type: people\nType weight: 1.5\nFinding weight: 0.5",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "people/matthew-tsai.md",
+      "finding": "READABILITY_LONG_SENTENCES_31wps",
+      "score": 1.5,
+      "target_path": "/home/leedt/echo-system/content/people/matthew-tsai.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-17-0009",
+      "title": "[LOW] tsaiyuan-terry-hsu: Break up long sentences",
+      "body": "## Task: [LOW] tsaiyuan-terry-hsu: Break up long sentences\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `people/tsaiyuan-terry-hsu.md`\n**Finding:** `READABILITY_LONG_SENTENCES_32wps`\n**Score:** 1.5 (inbound links: 2)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/tsaiyuan-terry-hsu.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-08-17 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Average words per sentence exceeds 30. Break up long sentences for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_LONG_SENTENCES\nPage type: people\nType weight: 1.5\nFinding weight: 0.5",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "people/tsaiyuan-terry-hsu.md",
+      "finding": "READABILITY_LONG_SENTENCES_32wps",
+      "score": 1.5,
+      "target_path": "/home/leedt/echo-system/content/people/tsaiyuan-terry-hsu.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-17-0010",
+      "title": "[LOW] yuan-chen-li: Break up long sentences",
+      "body": "## Task: [LOW] yuan-chen-li: Break up long sentences\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `people/yuan-chen-li.md`\n**Finding:** `READABILITY_LONG_SENTENCES_31wps`\n**Score:** 1.5 (inbound links: 2)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/yuan-chen-li.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-08-17 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Average words per sentence exceeds 30. Break up long sentences for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_LONG_SENTENCES\nPage type: people\nType weight: 1.5\nFinding weight: 0.5",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "people/yuan-chen-li.md",
+      "finding": "READABILITY_LONG_SENTENCES_31wps",
+      "score": 1.5,
+      "target_path": "/home/leedt/echo-system/content/people/yuan-chen-li.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-17-0011",
+      "title": "[LOW] cai-jinrong: Add ## Related Pages section",
+      "body": "## Task: [LOW] cai-jinrong: Add ## Related Pages section\n\n**Priority:** low\n**Playbook:** P3\n**Page:** `people/cai-jinrong.md`\n**Finding:** `LINKS_NO_RELATED`\n**Score:** 0.0 (inbound links: 0)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/cai-jinrong.md\n3. Find broken wikilinks and repair or redirect\n4. Commit only (no publish)\n\n### Specific Fix\n**Action:** Add ## Related Pages section\n**Detail:** Add a Related Pages section with wikilinks to connected people, organizations, and sources.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: LINKS_NO_RELATED\nPage type: people\nType weight: 1.5\nFinding weight: 2.0",
+      "priority": "low",
+      "playbook": "P3",
+      "page": "people/cai-jinrong.md",
+      "finding": "LINKS_NO_RELATED",
+      "score": 0.0,
+      "target_path": "/home/leedt/echo-system/content/people/cai-jinrong.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-17-0012",
+      "title": "[LOW] cai-jinrong: Add ## Identity Snapshot section",
+      "body": "## Task: [LOW] cai-jinrong: Add ## Identity Snapshot section\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `people/cai-jinrong.md`\n**Finding:** `STRUCT_NO_IDENTITY`\n**Score:** 0.0 (inbound links: 0)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/cai-jinrong.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-08-17 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## Identity Snapshot section\n**Detail:** Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_IDENTITY\nPage type: people\nType weight: 1.5\nFinding weight: 3.0",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "people/cai-jinrong.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "score": 0.0,
+      "target_path": "/home/leedt/echo-system/content/people/cai-jinrong.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-17-0013",
+      "title": "[LOW] cai-jinrong: Add ## Related Pages section",
+      "body": "## Task: [LOW] cai-jinrong: Add ## Related Pages section\n\n**Priority:** low\n**Playbook:** P3\n**Page:** `people/cai-jinrong.md`\n**Finding:** `STRUCT_NO_RELATED`\n**Score:** 0.0 (inbound links: 0)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/cai-jinrong.md\n3. Find broken wikilinks and repair or redirect\n4. Commit only (no publish)\n\n### Specific Fix\n**Action:** Add ## Related Pages section\n**Detail:** Add a Related Pages section with wikilinks ([[people/name|Name]]) to connected pages. Use first-mention convention.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_RELATED\nPage type: people\nType weight: 1.5\nFinding weight: 2.0",
+      "priority": "low",
+      "playbook": "P3",
+      "page": "people/cai-jinrong.md",
+      "finding": "STRUCT_NO_RELATED",
+      "score": 0.0,
+      "target_path": "/home/leedt/echo-system/content/people/cai-jinrong.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-17-0014",
+      "title": "[LOW] cai-yingwen: Add ## Related Pages section",
+      "body": "## Task: [LOW] cai-yingwen: Add ## Related Pages section\n\n**Priority:** low\n**Playbook:** P3\n**Page:** `people/cai-yingwen.md`\n**Finding:** `LINKS_NO_RELATED`\n**Score:** 0.0 (inbound links: 0)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/cai-yingwen.md\n3. Find broken wikilinks and repair or redirect\n4. Commit only (no publish)\n\n### Specific Fix\n**Action:** Add ## Related Pages section\n**Detail:** Add a Related Pages section with wikilinks to connected people, organizations, and sources.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: LINKS_NO_RELATED\nPage type: people\nType weight: 1.5\nFinding weight: 2.0",
+      "priority": "low",
+      "playbook": "P3",
+      "page": "people/cai-yingwen.md",
+      "finding": "LINKS_NO_RELATED",
+      "score": 0.0,
+      "target_path": "/home/leedt/echo-system/content/people/cai-yingwen.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-17-0015",
+      "title": "[LOW] cai-yingwen: Add ## Identity Snapshot section",
+      "body": "## Task: [LOW] cai-yingwen: Add ## Identity Snapshot section\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `people/cai-yingwen.md`\n**Finding:** `STRUCT_NO_IDENTITY`\n**Score:** 0.0 (inbound links: 0)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/cai-yingwen.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-08-17 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## Identity Snapshot section\n**Detail:** Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_IDENTITY\nPage type: people\nType weight: 1.5\nFinding weight: 3.0",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "people/cai-yingwen.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "score": 0.0,
+      "target_path": "/home/leedt/echo-system/content/people/cai-yingwen.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-17-0016",
+      "title": "[LOW] cai-yingwen: Add ## Related Pages section",
+      "body": "## Task: [LOW] cai-yingwen: Add ## Related Pages section\n\n**Priority:** low\n**Playbook:** P3\n**Page:** `people/cai-yingwen.md`\n**Finding:** `STRUCT_NO_RELATED`\n**Score:** 0.0 (inbound links: 0)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/cai-yingwen.md\n3. Find broken wikilinks and repair or redirect\n4. Commit only (no publish)\n\n### Specific Fix\n**Action:** Add ## Related Pages section\n**Detail:** Add a Related Pages section with wikilinks ([[people/name|Name]]) to connected pages. Use first-mention convention.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_RELATED\nPage type: people\nType weight: 1.5\nFinding weight: 2.0",
+      "priority": "low",
+      "playbook": "P3",
+      "page": "people/cai-yingwen.md",
+      "finding": "STRUCT_NO_RELATED",
+      "score": 0.0,
+      "target_path": "/home/leedt/echo-system/content/people/cai-yingwen.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-17-0017",
+      "title": "[LOW] hou-youyi: Add ## Related Pages section",
+      "body": "## Task: [LOW] hou-youyi: Add ## Related Pages section\n\n**Priority:** low\n**Playbook:** P3\n**Page:** `people/hou-youyi.md`\n**Finding:** `LINKS_NO_RELATED`\n**Score:** 0.0 (inbound links: 0)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/hou-youyi.md\n3. Find broken wikilinks and repair or redirect\n4. Commit only (no publish)\n\n### Specific Fix\n**Action:** Add ## Related Pages section\n**Detail:** Add a Related Pages section with wikilinks to connected people, organizations, and sources.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: LINKS_NO_RELATED\nPage type: people\nType weight: 1.5\nFinding weight: 2.0",
+      "priority": "low",
+      "playbook": "P3",
+      "page": "people/hou-youyi.md",
+      "finding": "LINKS_NO_RELATED",
+      "score": 0.0,
+      "target_path": "/home/leedt/echo-system/content/people/hou-youyi.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-17-0018",
+      "title": "[LOW] hou-youyi: Add ## Identity Snapshot section",
+      "body": "## Task: [LOW] hou-youyi: Add ## Identity Snapshot section\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `people/hou-youyi.md`\n**Finding:** `STRUCT_NO_IDENTITY`\n**Score:** 0.0 (inbound links: 0)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/hou-youyi.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-08-17 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## Identity Snapshot section\n**Detail:** Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_IDENTITY\nPage type: people\nType weight: 1.5\nFinding weight: 3.0",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "people/hou-youyi.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "score": 0.0,
+      "target_path": "/home/leedt/echo-system/content/people/hou-youyi.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-17-0019",
+      "title": "[LOW] hou-youyi: Add ## Related Pages section",
+      "body": "## Task: [LOW] hou-youyi: Add ## Related Pages section\n\n**Priority:** low\n**Playbook:** P3\n**Page:** `people/hou-youyi.md`\n**Finding:** `STRUCT_NO_RELATED`\n**Score:** 0.0 (inbound links: 0)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/hou-youyi.md\n3. Find broken wikilinks and repair or redirect\n4. Commit only (no publish)\n\n### Specific Fix\n**Action:** Add ## Related Pages section\n**Detail:** Add a Related Pages section with wikilinks ([[people/name|Name]]) to connected pages. Use first-mention convention.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_RELATED\nPage type: people\nType weight: 1.5\nFinding weight: 2.0",
+      "priority": "low",
+      "playbook": "P3",
+      "page": "people/hou-youyi.md",
+      "finding": "STRUCT_NO_RELATED",
+      "score": 0.0,
+      "target_path": "/home/leedt/echo-system/content/people/hou-youyi.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-17-0020",
+      "title": "[LOW] lai-qingde: Add ## Related Pages section",
+      "body": "## Task: [LOW] lai-qingde: Add ## Related Pages section\n\n**Priority:** low\n**Playbook:** P3\n**Page:** `people/lai-qingde.md`\n**Finding:** `LINKS_NO_RELATED`\n**Score:** 0.0 (inbound links: 0)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/lai-qingde.md\n3. Find broken wikilinks and repair or redirect\n4. Commit only (no publish)\n\n### Specific Fix\n**Action:** Add ## Related Pages section\n**Detail:** Add a Related Pages section with wikilinks to connected people, organizations, and sources.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: LINKS_NO_RELATED\nPage type: people\nType weight: 1.5\nFinding weight: 2.0",
+      "priority": "low",
+      "playbook": "P3",
+      "page": "people/lai-qingde.md",
+      "finding": "LINKS_NO_RELATED",
+      "score": 0.0,
+      "target_path": "/home/leedt/echo-system/content/people/lai-qingde.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-17-0021",
+      "title": "[LOW] lai-qingde: Add ## Identity Snapshot section",
+      "body": "## Task: [LOW] lai-qingde: Add ## Identity Snapshot section\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `people/lai-qingde.md`\n**Finding:** `STRUCT_NO_IDENTITY`\n**Score:** 0.0 (inbound links: 0)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/lai-qingde.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-08-17 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## Identity Snapshot section\n**Detail:** Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_IDENTITY\nPage type: people\nType weight: 1.5\nFinding weight: 3.0",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "people/lai-qingde.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "score": 0.0,
+      "target_path": "/home/leedt/echo-system/content/people/lai-qingde.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-17-0022",
+      "title": "[LOW] lai-qingde: Add ## Related Pages section",
+      "body": "## Task: [LOW] lai-qingde: Add ## Related Pages section\n\n**Priority:** low\n**Playbook:** P3\n**Page:** `people/lai-qingde.md`\n**Finding:** `STRUCT_NO_RELATED`\n**Score:** 0.0 (inbound links: 0)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/lai-qingde.md\n3. Find broken wikilinks and repair or redirect\n4. Commit only (no publish)\n\n### Specific Fix\n**Action:** Add ## Related Pages section\n**Detail:** Add a Related Pages section with wikilinks ([[people/name|Name]]) to connected pages. Use first-mention convention.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_RELATED\nPage type: people\nType weight: 1.5\nFinding weight: 2.0",
+      "priority": "low",
+      "playbook": "P3",
+      "page": "people/lai-qingde.md",
+      "finding": "STRUCT_NO_RELATED",
+      "score": 0.0,
+      "target_path": "/home/leedt/echo-system/content/people/lai-qingde.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-17-0023",
+      "title": "[LOW] xie-changting: Add ## Related Pages section",
+      "body": "## Task: [LOW] xie-changting: Add ## Related Pages section\n\n**Priority:** low\n**Playbook:** P3\n**Page:** `people/xie-changting.md`\n**Finding:** `LINKS_NO_RELATED`\n**Score:** 0.0 (inbound links: 0)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/xie-changting.md\n3. Find broken wikilinks and repair or redirect\n4. Commit only (no publish)\n\n### Specific Fix\n**Action:** Add ## Related Pages section\n**Detail:** Add a Related Pages section with wikilinks to connected people, organizations, and sources.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: LINKS_NO_RELATED\nPage type: people\nType weight: 1.5\nFinding weight: 2.0",
+      "priority": "low",
+      "playbook": "P3",
+      "page": "people/xie-changting.md",
+      "finding": "LINKS_NO_RELATED",
+      "score": 0.0,
+      "target_path": "/home/leedt/echo-system/content/people/xie-changting.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-17-0024",
+      "title": "[LOW] xie-changting: Add ## Identity Snapshot section",
+      "body": "## Task: [LOW] xie-changting: Add ## Identity Snapshot section\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `people/xie-changting.md`\n**Finding:** `STRUCT_NO_IDENTITY`\n**Score:** 0.0 (inbound links: 0)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/xie-changting.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-08-17 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## Identity Snapshot section\n**Detail:** Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_IDENTITY\nPage type: people\nType weight: 1.5\nFinding weight: 3.0",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "people/xie-changting.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "score": 0.0,
+      "target_path": "/home/leedt/echo-system/content/people/xie-changting.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-17-0025",
+      "title": "[LOW] xie-changting: Add ## Related Pages section",
+      "body": "## Task: [LOW] xie-changting: Add ## Related Pages section\n\n**Priority:** low\n**Playbook:** P3\n**Page:** `people/xie-changting.md`\n**Finding:** `STRUCT_NO_RELATED`\n**Score:** 0.0 (inbound links: 0)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/xie-changting.md\n3. Find broken wikilinks and repair or redirect\n4. Commit only (no publish)\n\n### Specific Fix\n**Action:** Add ## Related Pages section\n**Detail:** Add a Related Pages section with wikilinks ([[people/name|Name]]) to connected pages. Use first-mention convention.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_RELATED\nPage type: people\nType weight: 1.5\nFinding weight: 2.0",
+      "priority": "low",
+      "playbook": "P3",
+      "page": "people/xie-changting.md",
+      "finding": "STRUCT_NO_RELATED",
+      "score": 0.0,
+      "target_path": "/home/leedt/echo-system/content/people/xie-changting.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-17-0026",
+      "title": "[LOW] xu-shihuan: Add ## Related Pages section",
+      "body": "## Task: [LOW] xu-shihuan: Add ## Related Pages section\n\n**Priority:** low\n**Playbook:** P3\n**Page:** `people/xu-shihuan.md`\n**Finding:** `LINKS_NO_RELATED`\n**Score:** 0.0 (inbound links: 0)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/xu-shihuan.md\n3. Find broken wikilinks and repair or redirect\n4. Commit only (no publish)\n\n### Specific Fix\n**Action:** Add ## Related Pages section\n**Detail:** Add a Related Pages section with wikilinks to connected people, organizations, and sources.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: LINKS_NO_RELATED\nPage type: people\nType weight: 1.5\nFinding weight: 2.0",
+      "priority": "low",
+      "playbook": "P3",
+      "page": "people/xu-shihuan.md",
+      "finding": "LINKS_NO_RELATED",
+      "score": 0.0,
+      "target_path": "/home/leedt/echo-system/content/people/xu-shihuan.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-17-0027",
+      "title": "[LOW] xu-shihuan: Add ## Identity Snapshot section",
+      "body": "## Task: [LOW] xu-shihuan: Add ## Identity Snapshot section\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `people/xu-shihuan.md`\n**Finding:** `STRUCT_NO_IDENTITY`\n**Score:** 0.0 (inbound links: 0)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/xu-shihuan.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-08-17 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## Identity Snapshot section\n**Detail:** Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_IDENTITY\nPage type: people\nType weight: 1.5\nFinding weight: 3.0",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "people/xu-shihuan.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "score": 0.0,
+      "target_path": "/home/leedt/echo-system/content/people/xu-shihuan.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-17-0028",
+      "title": "[LOW] xu-shihuan: Add ## Related Pages section",
+      "body": "## Task: [LOW] xu-shihuan: Add ## Related Pages section\n\n**Priority:** low\n**Playbook:** P3\n**Page:** `people/xu-shihuan.md`\n**Finding:** `STRUCT_NO_RELATED`\n**Score:** 0.0 (inbound links: 0)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/xu-shihuan.md\n3. Find broken wikilinks and repair or redirect\n4. Commit only (no publish)\n\n### Specific Fix\n**Action:** Add ## Related Pages section\n**Detail:** Add a Related Pages section with wikilinks ([[people/name|Name]]) to connected pages. Use first-mention convention.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_RELATED\nPage type: people\nType weight: 1.5\nFinding weight: 2.0",
+      "priority": "low",
+      "playbook": "P3",
+      "page": "people/xu-shihuan.md",
+      "finding": "STRUCT_NO_RELATED",
+      "score": 0.0,
+      "target_path": "/home/leedt/echo-system/content/people/xu-shihuan.md"
+    }
+  ]
+}

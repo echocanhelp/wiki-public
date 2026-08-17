@@ -29,6 +29,9 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #168 encyclopedia: 168. Lung Chen 陳隆](https://taiwaneseamericanhistory.org/168-lung-chen/)
+- [TAH #408 encyclopedia: 408. 陳隆 / 海外第一名嘴陳隆 / 03/2016](https://taiwaneseamericanhistory.org/mystories408/)
+- [TAH #838 encyclopedia: 838. Lung Chen 陳隆](https://taiwaneseamericanhistory.org/whos-who-838-lung-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/lung-chen/)
 
 ## Related Pages

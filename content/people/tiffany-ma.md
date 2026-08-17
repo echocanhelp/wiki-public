@@ -26,6 +26,7 @@ Source from 美洲台灣日報http://taiwandaily.net/gp2.aspx?_p=kSF1c9zU9HQEibL
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2072 encyclopedia: 2072. Tiffany Ma 馬翊庭 / 03/2018](https://taiwaneseamericanhistory.org/whoswho2072/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tiffany-ma/)
 
 ## Related Pages

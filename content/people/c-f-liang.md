@@ -26,6 +26,7 @@ C.F. Liang (梁昌夫) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1492 encyclopedia: 1492. C.F. Liang 梁昌夫 / 2017/01](https://taiwaneseamericanhistory.org/whoswho1492/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-f-liang/)
 
 ## Related Pages

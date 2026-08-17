@@ -26,6 +26,8 @@ Taiwanese-American violinist Kevin Shue, hailed by Anthony Tommassini of the New
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #382 encyclopedia: 382. Kevin Shue 許愷洋 /2015/04](https://taiwaneseamericanhistory.org/382-kevin-shue-%e8%a8%b1%e6%84%b7%e6%b4%8b-201504/)
+- [TAH #152 encyclopedia: 152. Kevin Shue許愷洋,Violinist/2015/02](https://taiwaneseamericanhistory.org/152-kevin-shue%e8%a8%b1%e6%84%b7%e6%b4%8b201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kevin-shue/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ Pen-Jen Lin (林本仁) is listed in the TAH Foundation Who’s Who Taiwanese Am
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1051 encyclopedia: 1051. Pen-Jen Lin 	 林本仁 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1051/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/pen-jen-lin/)
 
 ## Related Pages

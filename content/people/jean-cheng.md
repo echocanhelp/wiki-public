@@ -26,6 +26,7 @@ Jean Cheng (鄭如珍) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #283 encyclopedia: 283. Jean Cheng 鄭如珍/2015/02](https://taiwaneseamericanhistory.org/283-jean-cheng-%e9%84%ad%e5%a6%82%e7%8f%8d201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jean-cheng/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ Eric Chien (簡綸廷) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2200 encyclopedia: 2200. Eric Chien 簡綸廷](https://taiwaneseamericanhistory.org/whos-who-2200-eric-chien/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/eric-chien/)
 
 ## Related Pages

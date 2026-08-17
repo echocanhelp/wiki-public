@@ -28,6 +28,7 @@ Nick Wu (吳仲輝) is listed in the TAH Foundation Who’s Who Taiwanese Americ
 
 
 ## Sources
+- [TAH #1128 encyclopedia: 1128. Nick Wu 吳仲輝 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1128/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/nick-wu/)
 
 ## Related Pages

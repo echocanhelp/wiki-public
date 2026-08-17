@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2197 encyclopedia: 2197. Prof. Wen-Hsiung Ko 柯文雄教授](https://taiwaneseamericanhistory.org/whos-who-2197-wen-hsiung-ko/)
+- [TAH #103 encyclopedia: 103. Prof. Wen-Hsiung Ko 柯文雄教授](https://taiwaneseamericanhistory.org/103-prof-wen-hsiung-ko/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-wen-hsiung-ko/)
 
 ## Related Pages

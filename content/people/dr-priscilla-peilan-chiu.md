@@ -26,6 +26,7 @@ Dr. Priscilla Peilan Chiu 邱佩蘭醫師 – History of Taiwanese American (T.A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1692 encyclopedia: 1692. Dr. Priscilla Peilan Chiu 邱佩蘭醫師](https://taiwaneseamericanhistory.org/whos-who-1692-priscilla-peilan-chiu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-priscilla-peilan-chiu/)
 
 ## Related Pages

@@ -30,6 +30,7 @@ Tony Chen (陳國洸) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 
 
 ## Sources
+- [TAH #145 encyclopedia: 145. Tony Chen 陳國洸 / 2014/12](https://taiwaneseamericanhistory.org/whos145/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tony-chen/)
 
 ## Related Pages

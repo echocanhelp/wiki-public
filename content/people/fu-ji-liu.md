@@ -31,6 +31,7 @@ AA five-year junior college program graduate
 
 
 ## Sources
+- [TAH #2243 encyclopedia: 2243. Fu-Ji Liu 劉富吉](https://taiwaneseamericanhistory.org/whos-who-2243-fu-ji-liu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/fu-ji-liu/)
 
 ## Related Pages

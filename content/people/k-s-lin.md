@@ -26,6 +26,7 @@ K. S. Lin (林高山) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1528 encyclopedia: 1528. K. S. Lin 林高山 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1528/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/k-s-lin/)
 
 ## Related Pages

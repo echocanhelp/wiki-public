@@ -28,6 +28,7 @@ Rev. Shirley Lin (林珊宇牧師) is listed in the TAH Foundation Who’s Who T
 
 
 ## Sources
+- [TAH #1695 encyclopedia: 1695. Rev. Shirley Lin 林珊宇牧師](https://taiwaneseamericanhistory.org/whos-who-1695-shirley-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rev-shirley-lin/)
 
 ## Related Pages

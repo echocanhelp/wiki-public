@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #463 encyclopedia: 463. 陳金松 / 2015/06](https://taiwaneseamericanhistory.org/463-%e9%99%b3%e9%87%91%e6%9d%be-201506/)
+- [TAH #223 encyclopedia: 223. Jin Song Chen 陳金松,Tenor,Conductor / 2015/06](https://taiwaneseamericanhistory.org/223-%e9%99%b3%e9%87%91%e6%9d%betenorconductor-201506/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e9%99%b3%e9%87%91%e6%9d%be/)
 
 ## Related Pages

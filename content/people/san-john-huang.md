@@ -28,6 +28,7 @@ President and Chairman, Formosan Chamber of Commerce, Orange County
 
 
 ## Sources
+- [TAH #1976 encyclopedia: 1976. San John Huang 黃三榮 /12/2017](https://taiwaneseamericanhistory.org/whos-san-john-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/san-john-huang/)
 
 ## Related Pages

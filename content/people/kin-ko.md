@@ -31,6 +31,7 @@ M.S., Aerospace Engineering; Ph.D. Course Program
 
 
 ## Sources
+- [TAH #901 encyclopedia: 901. Kin Ko 柯金寅](https://taiwaneseamericanhistory.org/whos-who-901-kin-ko/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kin-ko/)
 
 ## Related Pages

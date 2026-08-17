@@ -28,6 +28,7 @@ Professor of History and Head of the Dept. of Asian Studies
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #889 encyclopedia: 889. Prof. H. C. Lee 李弘祺教授](https://taiwaneseamericanhistory.org/whos-who-889-h-c-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-h-c-lee/)
 
 ## Related Pages

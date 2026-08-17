@@ -26,6 +26,7 @@ Yuan Zong Lai (賴元榮) is listed in the TAH Foundation Who’s Who Taiwanese 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #411 encyclopedia: 411. Yuan Zong Lai 賴元榮 / 2015/05](https://taiwaneseamericanhistory.org/411-yuan-zong-lai-%e8%b3%b4%e5%85%83%e6%a6%ae-201505/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yuan-zong-lai/)
 
 ## Related Pages

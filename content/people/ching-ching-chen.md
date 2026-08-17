@@ -26,6 +26,8 @@ Exploring identities and cultures in scientific, psychological conditions are Ch
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1053 encyclopedia: 1053. Ching Ching Chen 鄭青青 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1053/)
+- [TAH #23 encyclopedia: 23. 鄭青青 Ching Ching Cheng](https://taiwaneseamericanhistory.org/23-%e9%84%ad%e9%9d%92%e9%9d%92-ching-ching-cheng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ching-ching-chen/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ Prof. Davis L. S. Chang 張祿生教授 – History of Taiwanese American (T.A. 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1873 encyclopedia: 1873. Prof. Davis L. S. Chang 張祿生教授](https://taiwaneseamericanhistory.org/whos-who-1873-davis-l-s-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-davis-l-s-chang/)
 
 ## Related Pages

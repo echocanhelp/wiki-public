@@ -31,6 +31,8 @@ last_reviewed: 2026-08-17
 
 
 ## Sources
+- [TAH #160 encyclopedia: 160. Dr. Goodwin Hon Liu 劉弘威博士](https://taiwaneseamericanhistory.org/160-dr-goodwin-hon-liu/)
+- [TAH #109 encyclopedia: 109. Dr. Goodwin Hon Liu 劉弘威博士](https://taiwaneseamericanhistory.org/whos-who-109-goodwin-hon-liu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-goodwin-hon-liu/)
 
 ## Related Pages

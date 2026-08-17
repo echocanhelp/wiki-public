@@ -26,6 +26,7 @@ Prof. Yie-Hwa Chang (張義華教授) is listed in the TAH Foundation Who’s Wh
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2123 encyclopedia: 2123. Prof. Yie-Hwa Chang  張義華教授](https://taiwaneseamericanhistory.org/whos-who-2123-yie-hwa-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-yie-hwa-chang/)
 
 ## Related Pages

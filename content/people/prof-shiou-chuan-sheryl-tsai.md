@@ -26,6 +26,7 @@ Prof. Shiou-Chuan Sheryl Tsai 蔡秀娟 – History of Taiwanese American (T.A. 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1439 encyclopedia: 1439. Prof. Shiou-Chuan Sheryl Tsai 蔡秀娟 / 2016/12](https://taiwaneseamericanhistory.org/whoswho1439/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-shiou-chuan-sheryl-tsai/)
 
 ## Related Pages

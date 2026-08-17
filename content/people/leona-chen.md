@@ -28,6 +28,7 @@ Leona Chen (陳文羿) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Sources
+- [TAH #2075 encyclopedia: 2075. Leona Chen 陳文羿 / 03/2018](https://taiwaneseamericanhistory.org/whos-leona-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/leona-chen/)
 
 ## Related Pages

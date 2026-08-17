@@ -26,6 +26,7 @@ Winston T. Dang (陳重信) is listed in the TAH Foundation Who’s Who Taiwanes
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #661 encyclopedia: 661. Winston T. Dang 陳重信 / 2015/10](https://taiwaneseamericanhistory.org/661-winston-t-dang-%e9%99%b3%e9%87%8d%e4%bf%a1-201510/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/winston-t-dang/)
 
 ## Related Pages

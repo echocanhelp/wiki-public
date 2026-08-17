@@ -29,6 +29,8 @@ Born in Taipei in 1943, Komi Chen grew up in an art painting family and was infl
 
 
 ## Sources
+- [TAH #2290 encyclopedia: 2290. Komi Chen 郭香美](https://taiwaneseamericanhistory.org/whos-who-2290-komi-chen/)
+- [TAH #68 encyclopedia: 68. 郭香美 Komi Chen](https://taiwaneseamericanhistory.org/artists68/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/komi-chen/)
 
 ## Related Pages

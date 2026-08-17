@@ -27,6 +27,8 @@ Dr. R. Palmer Beasley 畢思理博士 – History of Taiwanese American (T.A. Ar
 
 
 ## Sources
+- [TAH #2188 encyclopedia: 2188. Dr. R. Palmer Beasley 畢思理博士](https://taiwaneseamericanhistory.org/whos-who-2188-r-palmer-beasley/)
+- [TAH #245 encyclopedia: 245. Dr. R. Palmer Beasley 畢思理博士](https://taiwaneseamericanhistory.org/ota-245/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-r-palmer-beasley/)
 
 ## Related Pages

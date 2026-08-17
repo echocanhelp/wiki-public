@@ -26,6 +26,7 @@ Pauline Huang (黃百齡) is listed in the TAH Foundation Who’s Who Taiwanese 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2162 encyclopedia: 2162. Pauline Huang 黃百齡](https://taiwaneseamericanhistory.org/whos-who-2162-pauline-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/pauline-huang/)
 
 ## Related Pages

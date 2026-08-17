@@ -26,6 +26,8 @@ Prof. Ming Chiang Lin 林明璋教授 – History of Taiwanese American (T.A. Ar
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #124 encyclopedia: 124. Prof. Ming Chiang Lin 林明璋教授](https://taiwaneseamericanhistory.org/124-prof-ming-chiang-lin/)
+- [TAH #1416 encyclopedia: 1416. Prof. Ming Chiang Lin 林明璋教授](https://taiwaneseamericanhistory.org/whos-who-1416-ming-chiang-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-ming-chiang-lin/)
 
 ## Related Pages

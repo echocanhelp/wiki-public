@@ -29,6 +29,8 @@ A versatile artist, cellist Carol Ou is known for her “fiery, marvelous” and
 
 
 ## Sources
+- [TAH #12 encyclopedia: 12. Prof. Carol Ou 歐逸青教授](https://taiwaneseamericanhistory.org/12-prof-carol-ou/)
+- [TAH #570 encyclopedia: 570. Prof. Carol Ou 歐逸青教授](https://taiwaneseamericanhistory.org/whos-who-570-carol-ou/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-carol-ou/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ Chun-Chieh Chiu (邱俊杰) is listed in the TAH Foundation Who’s Who Taiwanes
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1540 encyclopedia: 1540. Chun-Chieh Chiu 邱俊杰 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1540/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chun-chieh-chiu/)
 
 ## Related Pages

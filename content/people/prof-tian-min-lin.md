@@ -31,6 +31,7 @@ Visiting Professor of World Religion
 
 
 ## Sources
+- [TAH #189 encyclopedia: 189. Prof. Tian-Min Lin 林天民教授](https://taiwaneseamericanhistory.org/whos-who-189-tian-min-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-tian-min-lin/)
 
 ## Related Pages

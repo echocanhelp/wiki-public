@@ -27,6 +27,7 @@ Dennis Wang (王梓仁) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #537 encyclopedia: 537. Dennis Wang 王梓仁 / 2015/08](https://taiwaneseamericanhistory.org/537-dennis-wang-%e7%8e%8b%e6%a2%93%e4%bb%81-201508/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dennis-wang/)
 
 ## Related Pages

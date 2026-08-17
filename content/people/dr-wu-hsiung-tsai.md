@@ -27,6 +27,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1703 encyclopedia: 1703. Dr. Wu Hsiung Tsai 蔡武雄博士](https://taiwaneseamericanhistory.org/whos-who-1703-wu-hsiung-tsai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-wu-hsiung-tsai/)
 
 ## Related Pages

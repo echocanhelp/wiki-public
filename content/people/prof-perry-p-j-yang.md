@@ -26,6 +26,7 @@ Prof. Perry P.J. Yang 楊沛儒教授 – History of Taiwanese American (T.A. Ar
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2002 encyclopedia: 2002. Prof. Perry P.J. Yang 楊沛儒教授](https://taiwaneseamericanhistory.org/whos-who-2002-perry-p-j-yang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-perry-p-j-yang/)
 
 ## Related Pages

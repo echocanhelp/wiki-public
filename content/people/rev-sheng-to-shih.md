@@ -26,6 +26,7 @@ Rev. Sheng-To Shih (施聖導牧師) is listed in the TAH Foundation Who’s Who
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1640 encyclopedia: 1640. Rev. Sheng-To Shih 施聖導牧師](https://taiwaneseamericanhistory.org/whos-who-1640-sheng-to-shih/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rev-sheng-to-shih/)
 
 ## Related Pages

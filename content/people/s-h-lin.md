@@ -26,6 +26,7 @@ S. H. Lin (林聖賢) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #955 encyclopedia: 955.  S. H. Lin 林聖賢 / 2016/04](https://taiwaneseamericanhistory.org/whoswho955/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/s-h-lin/)
 
 ## Related Pages

@@ -27,6 +27,7 @@ Amelia Wu (吳姍姍) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 
 
 ## Sources
+- [TAH #1274 encyclopedia: 1274. Amelia Wu 吳姍姍 / 1 09/2016](https://taiwaneseamericanhistory.org/whoswho1274/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/amelia-wu/)
 
 ## Related Pages

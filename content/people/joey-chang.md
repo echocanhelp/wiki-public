@@ -26,6 +26,7 @@ Pianist/Improviser Joey (Ian-Joe) Chang, obtained his B.M. and M.M. from the Jui
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #437 encyclopedia: 437. Joey Chang 張亦喬, Pianist/10/2019](https://taiwaneseamericanhistory.org/musician-437/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/joey-chang/)
 
 ## Related Pages

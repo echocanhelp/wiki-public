@@ -27,6 +27,7 @@ Professor and Dean, Dept. of Political Science
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1719 encyclopedia: 1719. Prof. F. S. Shih 謝復生教授](https://taiwaneseamericanhistory.org/whos-who-1719-f-s-shih/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-f-s-shih/)
 
 ## Related Pages

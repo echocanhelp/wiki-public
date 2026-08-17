@@ -26,6 +26,7 @@ Dr. Chih-Chien (Adam) Chou 周志謙博士 – History of Taiwanese American (T.
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2231 encyclopedia: 2231. Dr. Chih-Chien (Adam) Chou 周志謙博士](https://taiwaneseamericanhistory.org/whos-who-2231-chih-chien-chou/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-chih-chien-adam-chou/)
 
 ## Related Pages

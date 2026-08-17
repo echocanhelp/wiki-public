@@ -31,6 +31,7 @@ Liang Chuan Peng (彭兩泉) is listed in the TAH Foundation Who’s Who Taiwane
 
 
 ## Sources
+- [TAH #803 encyclopedia: 803.   Liang Chuan Peng  彭兩泉/ 2016/02](https://taiwaneseamericanhistory.org/whoswho803/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/liang-chuan-peng/)
 
 ## Related Pages

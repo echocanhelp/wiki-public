@@ -26,6 +26,7 @@ Walter H Shiau (蕭鴻模) is listed in the TAH Foundation Who’s Who Taiwanese
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #709 encyclopedia: 709. Walter H Shiau 蕭鴻模 / 2015/11](https://taiwaneseamericanhistory.org/709-walter-h-shiau-%e8%95%ad%e9%b4%bb%e6%a8%a1-2014511/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/walter-h-shiau/)
 
 ## Related Pages

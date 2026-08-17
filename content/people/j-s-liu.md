@@ -26,6 +26,8 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1544 encyclopedia: 1544. J. S. Liu 劉佳欣 / 2017/03](https://taiwaneseamericanhistory.org/whoswho1544/)
+- [TAH #389 encyclopedia: 389. 劉佳欣, Pianist / 2017/03](https://taiwaneseamericanhistory.org/musician389/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/j-s-liu/)
 
 ## Related Pages

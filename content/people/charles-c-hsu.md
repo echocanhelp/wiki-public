@@ -28,6 +28,7 @@ Accomplishment
 
 
 ## Sources
+- [TAH #1047 encyclopedia: 1047. Dr. Charles C. Hsu 許宗邦醫師](https://taiwaneseamericanhistory.org/whos-who-1047-charles-c-hsu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/charles-c-hsu/)
 
 ## Related Pages

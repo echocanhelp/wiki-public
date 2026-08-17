@@ -26,6 +26,7 @@ Professor of Pathology, Oncology, Obstetrics and Gynecology, and Molecular Micro
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #622 encyclopedia: 622. Tzyy-Choou Wu 吳子丑/ 2015/09](https://taiwaneseamericanhistory.org/622-tzyy-choou-wu-%e5%90%b3%e5%ad%90%e4%b8%91-201509/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tzyy-choou-wu/)
 
 ## Related Pages

@@ -28,6 +28,7 @@ Software Engineer, computer vision
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2124 encyclopedia: 2124. Dr. Cheng-Hung Yeh 葉澄鴻博士](https://taiwaneseamericanhistory.org/whos-who-2124-cheng-hung-yeh/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-cheng-hung-yeh/)
 
 ## Related Pages

@@ -26,6 +26,7 @@ Taiwanese-American pianist, Dr. Ching-Wen Hsiao 蕭晴文, has performed as a so
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #401 encyclopedia: 401. Ching-Wen Hsiao 蕭晴文, Pianist /06/2017](https://taiwaneseamericanhistory.org/ching-wen-hsiao-pianist/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ching-wen-hsiao/)
 
 ## Related Pages

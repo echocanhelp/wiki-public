@@ -26,6 +26,7 @@ Jason Yang (楊憶軍) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1730 encyclopedia: 1730.  Jason Yang 楊憶軍 / 07/2017](https://taiwaneseamericanhistory.org/whoswho1730/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jason-yang/)
 
 ## Related Pages

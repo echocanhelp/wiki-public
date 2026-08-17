@@ -26,6 +26,7 @@ last_reviewed: 2026-08-17
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #2321 encyclopedia: 2321. Stanley Sun 孫獻祥](https://taiwaneseamericanhistory.org/whos-who-2321-stanley-sun/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/stanley-sun/)
 
 ## Related Pages

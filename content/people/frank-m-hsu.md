@@ -26,6 +26,7 @@ Frank M. Hsu (徐民忠) is listed in the TAH Foundation Who’s Who Taiwanese A
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #640 encyclopedia: 640. Frank M. Hsu 徐民忠 / 2015/09](https://taiwaneseamericanhistory.org/whos-frank-m-hsu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/frank-m-hsu/)
 
 ## Related Pages

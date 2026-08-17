@@ -26,6 +26,7 @@ Ying-Hsuan Sun (孫英玄) is listed in the TAH Foundation Who’s Who Taiwanese
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1325 encyclopedia: 1325. Ying-Hsuan Sun 孫英玄 2016/10](https://taiwaneseamericanhistory.org/whoswho1325/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ying-hsuan-sun/)
 
 ## Related Pages

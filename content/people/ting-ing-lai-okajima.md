@@ -26,6 +26,7 @@ Ting-ing Lai (Okajima) 賴騰英 – History of Taiwanese American (T.A. Archive
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1505 encyclopedia: 1505. Ting-ing Lai (Okajima) 賴騰英/ 2017/02](https://taiwaneseamericanhistory.org/whoswho1505/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ting-ing-lai-okajima/)
 
 ## Related Pages

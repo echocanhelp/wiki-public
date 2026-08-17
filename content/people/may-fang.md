@@ -26,6 +26,8 @@ May Fang earned a master of music in piano performance and a master of music in 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #336 encyclopedia: 336. May Fang 方美盈 / 2015/03](https://taiwaneseamericanhistory.org/336/)
+- [TAH #81 encyclopedia: 81. May Fang 方美盈, Pianist/2014/11](https://taiwaneseamericanhistory.org/81-may-fang-%e6%96%b9%e7%be%8e%e7%9b%88-pianist/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/may-fang/)
 
 ## Related Pages

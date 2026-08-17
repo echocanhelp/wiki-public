@@ -26,6 +26,8 @@ B.M. and M.M. in piano performance, The Juilliard School; B.S. in computer scien
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #1871 encyclopedia: 1871. Charles W. Tang 唐瑋廷 / 09/2017](https://taiwaneseamericanhistory.org/whoswho1871/)
+- [TAH #424 encyclopedia: 424. Charles W. Tang 唐瑋廷, piano / 09/2017](https://taiwaneseamericanhistory.org/musician424/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/charles-w-tang/)
 
 ## Related Pages

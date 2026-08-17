@@ -26,6 +26,7 @@ Lily Chen (陳佳俐) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [TAH #404 encyclopedia: 404. Lily Chen 陳佳俐 / 2015/05](https://taiwaneseamericanhistory.org/404-lily-chen-%e9%99%b3%e4%bd%b3%e4%bf%90-201505/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/lily-chen/)
 
 ## Related Pages

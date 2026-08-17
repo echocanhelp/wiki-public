@@ -27,6 +27,7 @@ B. N. Huang (黃邦男) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 
 ## Sources
+- [TAH #1035 encyclopedia: 1035. B. N. Huang 黃邦男 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1035/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/b-n-huang/)
 
 ## Related Pages
