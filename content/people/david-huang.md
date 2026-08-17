@@ -52,7 +52,8 @@ Current GSTPC pastor is [[people/mingyuan-hsu|Rev. Mingyuan Hsu (許明遠)]], s
 - **2015** — Chairman, World Alliance of Taiwanese Christian Churches (TAH)
 - **2016** — Outstanding Alumni Award, 台灣神學院 (TAH)
 - **2020** — GSTPC series *TPC 50 週年特別節目* (three episodes, 5–19 June)
-- **2024** — Editor, NTPC 50th commemorative publication
+- **2024** — NTPC 50th 紀念特刊 總編輯 (invitation PDF; book **not** on the public web)
+- **2025-05** — NTPC 51st panel, Houston 恩惠 (TCNN)
 - **2025** — Named in the [[sources/toward-a-community-of-hope|Toward A Community of Hope]] republication preface cluster
 
 ## Works

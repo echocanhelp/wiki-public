@@ -10,18 +10,21 @@ tags:
   - 1970s-present
   - republication
 verification_status: published
-last_reviewed: 2026-07-15
+last_reviewed: 2026-08-17
 ---
 # National Taiwanese Presbyterian Council (NTPC)
 
-**National Taiwanese Presbyterian Council (NTPC)** is an organization of Taiwanese Presbyterian churches in the United States, operating under the Presbyterian Church (U.S.A.) [PC(USA)] system. The NTPC plays a key role in preserving Taiwanese Presbyterian heritage and supporting diaspora church communities.
+**National Taiwanese Presbyterian Council (NTPC)** — 美國基督長老教會全國台灣人教會聯合會 / 全國台灣人長老教會聯合會 — is the PC(USA) council of Taiwanese Presbyterian churches in the United States. Official site: [ntpc-usa.org](https://www.ntpc-usa.org/).
+
+**Not** New Taipei City (also “NTPC”). **Not** PCT 北部大會. See [[organizations/ntpc|NTPC disambiguation]].
 
 ## Identity Snapshot
 
-- **Type:** Presbyterian church council/organization
-- **Geography:** United States
-- **Denomination:** Presbyterian Church (U.S.A.) [PC(USA)]
-- **Focus:** Taiwanese-American Presbyterian ministry, church heritage preservation, diaspora support
+- **Type:** Presbyterian church council (PC(USA))
+- **Geography:** United States (regional districts: 西南 / 西北 / 中原 / etc.)
+- **Chinese names (official PDFs):** 美國基督長老教會全國台灣人教會聯合會; 全國台灣人長老教會聯合會
+- **Membership (bylaws, posted on site):** every PC(USA) Taiwanese congregation is a member church; in-presbytery Taiwanese ministers are member pastors — no application, no lapse
+- **2025/26 執委 (site):** 主席 [[people/yunching-yeh-davis|葉芸青]]（西南區）; 副主席 陳慧貞（中原區）; 書記 謝信光（西南區主席）; 會計 張愛惠（NTPW 主席）; 委員 林育武（西北區）
 
 ## Historical Role
 
@@ -29,9 +32,33 @@ last_reviewed: 2026-07-15
 
 The NTPC traces its roots to the founding of the first Taiwanese Presbyterian church in North America — the [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]] — in 1970. FPCLA was established under the United Presbyterian Church in the USA (UPCUSA, now PC(USA)) system, and the NTPC grew from this foundation to become a national council of Taiwanese Presbyterian churches.
 
-### 50th Anniversary Context (2024–2025)
+### 50th Annual Conference / 禧年 (2024)
 
-In 2024, NTPC celebrated its 50th anniversary; Rev. David Huang edited a commemorative publication. In 2025 the Annual Conference theme was **"Preserving and Passing On the Faith History of NTPC,"** and the council established the NTPC Historical Committee.
+**Book status:** commissioned; **full 特刊 is not on the public web.** Do not invent contents.
+
+[2024 年會邀請書](https://www.ntpc-usa.org/app/download/769534377/50%E9%80%B1%E5%B9%B4%E5%B9%B4%E6%9C%83%E9%82%80%E8%AB%8B%E5%87%BD.pdf) (NTPC 執委會):
+
+| | |
+|---|---|
+| When | 26 Apr – 4 May 2024 |
+| Theme | 『落地生根』或『落葉歸根』的教會 |
+| Part 1 | 年會 + 50週年感恩禮拜 + 桌球 — **牧谷長老教會** (Shepherd of the Valley), 1723 Park Lawn Rd, Hacienda Heights, CA — **not** [[organizations/good-shepherd-taiwanese-presbyterian-church|GSTPC 好牧者]] |
+| Part 2 | 尋夢公主號 (Discovery Princess), LA 27 Apr → Vancouver 4 May |
+| Editor | [[people/david-huang|黃德利]] 總編輯 — churches asked for 設教簡史 + 歷任牧者年表 + 2–4 photos |
+
+GSTPC [14 Apr 2024 bulletin](https://gstpc.org/home/04-14-2024-sunday-bulletin/) also points the 50th thanksgiving to Shepherd of the Valley.
+
+Site later: submissions still incomplete; leftover reports directed to 陳育麟 (no Echopedia page).
+
+### 51st Annual Conference (2025)
+
+[台灣教會公報 2025-05-09](https://tcnn.org.tw/archives/239132): 2–4 May 2025, 德州休斯頓**恩惠台灣基督長老教會**; 16 churches / 75 registered. Theme cluster: 信仰歷史的保存與傳承. Keynote 陳南州. Panel hosts: 蔡尚男、莊雅棠、[[people/ralph-su|蘇惠智]]. Panel: 王順吉、[[people/david-huang|黃德利]]、[[people/ching-fang-chen|陳清芳]]、陳美蕙、沈昀靜.
+
+NTPC Historical Committee established this year; inaugural chair [[people/ching-fang-chen|陳清芳]].
+
+### 52nd (2026, announced)
+
+24–26 Apr 2026, Atlanta Taiwanese Presbyterian Church, 3700 Pleasant Hill Rd, Duluth, GA. Theme **釘根於上帝—喜樂服事之鑰**; invited speaker 馬約翰. Invitation on [ntpc-usa.org](https://www.ntpc-usa.org/).
 
 ## Mission and Vision
 
@@ -87,4 +114,7 @@ Published by **Taiwan Church Press** and the **Incorporated Association of Taina
 - [[people/pinghsi-liu|Rev. Pinghsi Liu (劉炳熹)]]
 - [[organizations/good-shepherd-taiwanese-presbyterian-church|GSTPC]]
 - [[organizations/irvine-taiwanese-presbyterian-church|ITPC]]
-- [[people/david-huang|Rev. David Huang (黃德利)]] — NTPC 50th commemorative editor
+- [[people/david-huang|Rev. David Huang (黃德利)]] — NTPC 50th 特刊 editor (book not online)
+- [ntpc-usa.org](https://www.ntpc-usa.org/)
+- [2024 50th invitation PDF](https://www.ntpc-usa.org/app/download/769534377/50%E9%80%B1%E5%B9%B4%E5%B9%B4%E6%9C%83%E9%82%80%E8%AB%8B%E5%87%BD.pdf)
+- [TCNN 51st](https://tcnn.org.tw/archives/239132)

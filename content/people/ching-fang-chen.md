@@ -24,7 +24,7 @@ last_reviewed: 2026-07-15
 
 ## Role in NTPC
 
-Following the NTPC's 50th anniversary (2024; commemorative work associated with [[people/david-huang|Rev. David Huang]]), the NTPC established the Historical Committee in 2025. Rev. Chen was appointed inaugural chairperson.
+Following the NTPC's 50th anniversary conference (2024; [[people/david-huang|黃德利]] commissioned as 特刊 editor — book not online), the NTPC established the Historical Committee in 2025. Rev. Chen was appointed inaugural chairperson. He also sat on the 51st Houston panel ([TCNN 2025-05-09](https://tcnn.org.tw/archives/239132)).
 
 > **Primary work page:** [[sources/toward-a-community-of-hope|Toward A Community of Hope (work & sources)]]  
 > **Full text (GitHub):** [complete extract](https://github.com/echocanhelp/wiki-public/blob/gh-pages/knowledge/web-archives/albert-lai-toward-community-of-hope.md)

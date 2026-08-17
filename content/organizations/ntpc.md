@@ -1,27 +1,30 @@
 ---
-title: "North Taiwan Presbyterian Church (NTPC)"
+title: "NTPC (disambiguation)"
 type: organization
 tags:
-  - 
-verification_status: pending
-last_reviewed: 2026-07-08
+  - organization
+  - disambiguation
+  - NTPC
+verification_status: published
+last_reviewed: 2026-08-17
 ---
-# North Taiwan Presbyterian Church (NTPC)
+# NTPC (disambiguation)
 
-The **North Taiwan Presbyterian Church ([[organizations/national-taiwanese-presbyterterian-council|NTPC]])** is a regional body within the [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan (PCT)]], serving congregations in northern Taiwan.
+**NTPC** is an overloaded acronym. Do not flatten:
+
+| What | Page |
+|---|---|
+| **US council** — National Taiwanese Presbyterian Council / 美國基督長老教會全國台灣人教會聯合會 | [[organizations/national-taiwanese-presbyterian-council]] |
+| **新北市** New Taipei City | civic — not a church body |
+| **PCT 北部大會** (Northern Synod, Taiwan) | [[organizations/presbyterian-church-in-taiwan]] — **do not call this NTPC** |
+
+This slug used to say “North Taiwan Presbyterian Church (NTPC)” and pointed at the US council. That merge is wrong.
 
 ## Identity Snapshot
-- Type: Presbyterian church regional body
-- Geography: Northern Taiwan
-- History: Part of the broader [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]] tradition
-
-## Historical Significance
-The NTPC has been involved in:
-1. Local church ministry and outreach
-2. Community development in northern Taiwan
-3. Connection with diaspora Presbyterian churches
+- **Type:** disambiguation
+- **Do not flatten:** US council ≠ 新北市 ≠ PCT 北部大會
 
 ## Related Pages
+- [[organizations/national-taiwanese-presbyterian-council|National Taiwanese Presbyterian Council]]
 - [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]]
-- [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
-- [[people/index|People Index]]
+- [[people/ntpc|people/ntpc]] — redirect stub to the US council

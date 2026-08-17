@@ -14,7 +14,7 @@ last_reviewed: 2026-07-17
 ---
 # Dr. Yunching Yeh Davis (葉芸青)
 
-**Dr. Yunching Yeh Davis (葉芸青)** served as **Moderator of the [[organizations/national-taiwanese-presbyterian-council|National Taiwanese Presbyterian Council (NTPC)]]** of the Presbyterian Church (U.S.A.) and authored the NTPC foreword **"Half a Century of Faith and Mission"** for the 2025 republication of [[people/albert-s-lai|Dr. Albert S. Lai]]'s 1971 dissertation [[sources/toward-a-community-of-hope|Toward A Community of Hope]].
+**Dr. Yunching Yeh Davis (葉芸青)** is **主席** of the [[organizations/national-taiwanese-presbyterian-council|NTPC]] 執委會 for **2025/26** (西南區代表; [ntpc-usa.org](https://www.ntpc-usa.org/)). She authored the NTPC foreword **"Half a Century of Faith and Mission"** for the 2025 republication of [[people/albert-s-lai|Dr. Albert S. Lai]]'s 1971 dissertation [[sources/toward-a-community-of-hope|Toward A Community of Hope]]. Earlier site letters list her as 書記 / 會計 / 婦女事工 in prior years — same person, successive offices.
 
 ## Identity Snapshot
 
