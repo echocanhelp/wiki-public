@@ -94,8 +94,8 @@ The PCT pioneered modern education in Taiwan, establishing:
 
 ### Key Figures
 
-- **James Laidlaw Maxwell** — Scottish missionary; founded southern mission (1865)
-- **George Leslie Mackay** — Canadian missionary; founded northern mission (1872)
+- [[people/james-laidlaw-maxwell|James Laidlaw Maxwell (馬雅各)]] — Scottish; southern mission (1865)
+- [[people/george-leslie-mackay|George Leslie Mackay (馬偕)]] — Canadian; northern mission (1872)
 - **William Campbell** — English missionary; reinforced southern work (1871)
 - **Kao Chun-ming** — General Secretary; imprisoned 1980 for sheltering dissidents
 - **Rev. Chen Hsin-liang** — General Secretary (recent)
