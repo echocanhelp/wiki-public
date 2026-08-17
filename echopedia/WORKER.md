@@ -202,6 +202,10 @@ Found two relevant mechanisms:
 - Do NOT remove existing content unless it contradicts the source
 - Always cite the source in revision history
 - Cross-reference with related pages to ensure consistency (e.g., if you edit family relations, check the related person's page)
+- **TAH English slug ≠ identity.** `taiwaneseamericanhistory.org/person/<slug>/` matching an Echopedia filename is **not** a merge. Require 漢名 (or owner/roster confirm) before absorbing TAH tables onto a TAHS page. Same EN name + different 漢名 → **unmerge**: keep the TAHS page, create a separate `tah-whos-who` page (or encyclopedia page), add Disambiguation both ways. Examples 2026-08-17: TAH `paul-chen` = ophthalmologist (no 漢名) ≠ TAHS officer Paul Chen; TAH #1788 Paul Y. Chen 陳柏宇 is a third row unless owner says otherwise; TAH `rex-chen` = 陳財元 (d. 2003) ≠ TAHS 陳乃光 — do not decide without owner.
+- **TAH WP slug may differ from our slug.** Absorb onto the existing TAHS page (`yee-phong-alan-thian` → `alan-thian`); leave a `redirect_to` stub at the TAH slug. Redirect stubs need `## Identity Snapshot` + `## Related Pages` or `verify_echopedia.py` fails.
+- **Owner identity call beats harvest.** If owner says “X is not ours,” do not put TAH tables on the TAHS officer page even when 漢名 strings match.
+- **P8 is commit-only.** go-router “Echopedia fact” still runs P1 then P2 after P8. Do not skip P1. New Pages slugs often CDN-404 for minutes; verify `raw.githubusercontent.com/echocanhelp/wiki-public/gh-pages/people/<slug>.html` = 200 before republishing.
 
 **Example:**
 ```
