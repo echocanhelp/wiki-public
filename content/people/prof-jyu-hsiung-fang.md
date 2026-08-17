@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Prof. Jyu-Hsiung Fang 方菊雄教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1962 — B.S., Botany
+- Kansas State Univ. — Ph.D., Biology
+
+## Employment
+- Columbia Univ. College of Physicians and Surgeons — Assistant Professor — (1972-1992) — Tzu Chi Univ. — Director of the Institute of Human Genetics — (2000-) — Tzu Chi Univ. — President — (2002-2005) — Community — TAA/New York Chapter (大紐約區台灣同鄉會) — President — Taiwanese American Conference/East Coast (美東台灣人夏令會) — Coordinator — Professor Chen Wen-Chen Memorial Foundation (陳文成基金會) — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** [[people/jean-j-fang|黃靜枝]]

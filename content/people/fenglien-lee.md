@@ -23,6 +23,18 @@ last_reviewed: 2026-08-17
 1992
 Ph.D. Computer Science
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Normal University — 1980 — B.S. Electrical Technology
+- Indiana University – Bloomington, Indiana — 1984 — M.S. Computer Science
+- Louisiana State University - Baton Rouge, Louisiana — 1992 — Ph.D. Computer Science
+
+## Employment
+- Winston-Salem State University, North Carolina — 1992-1997 — Assistant Professor
+- University of Guam — 2006-2012 — Associate Professor
+- University of Guam — 2012-present — Professor
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

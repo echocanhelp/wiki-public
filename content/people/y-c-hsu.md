@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Y. C. Hsu (許耀慶) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 許耀慶醫師 — B.S. 台北醫學大學
+- Johns Hopkins大學 — M.S.
+
+## Employment
+- Union Memorial Hospital, GBMC, St. Joseph Hospital — present — 主治醫師
+<!-- tah-tables:end -->
 
 ## Family
 

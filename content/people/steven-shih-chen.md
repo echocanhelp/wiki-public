@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Steven Chen received his B.S. degree in Chemical Engineering from National Taiwan University in 1983 and master degree in Material Science from UCLA in 1991. He has studied vocal with Professor J.K. Chen and Professor L.P. Ong. Mr. Chen has been featured as soloist in several recital performances, e.g. Mendelssohn’s Elijah and Handel’s Messiah.
 
+<!-- tah-tables:start -->
+## Education
+- Univ. of Illinois at Urbana-Champaign — 2002 — B.S., Computer Science
+
+## Employment
+- PayPal — Facebook — YouTube — Co-Founder and Previous Chief Technology Officer — (2005-) — AVOS Systems — Co-Founder — (2011-) — Google Venture — (2014-) — Community — Asian Art Museum of San Francisco — Trustee and Major Supporter — Joint Formosan Presbyterian Church Choir — Tenor Soloist
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Park Ji-hyun

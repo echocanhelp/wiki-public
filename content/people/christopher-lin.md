@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Christopher Lin (林楷夫) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 元智大學 — B.S.應用外語
+
+## Employment
+- 台灣人公共事務會華府總部 — 2012-present
+<!-- tah-tables:end -->
 
 ## Family
 

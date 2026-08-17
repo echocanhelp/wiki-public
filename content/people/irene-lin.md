@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Irene Lin; Special Assistant for Rural Housing., portrait. USDA photo by Ken Hammond.
  Irene Lin
 
+<!-- tah-tables:start -->
+## Education
+- Amherst — B.S.
+- John Hopkins University — M.S.公共政策
+
+## Employment
+- HUD — 資深立法顧問
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

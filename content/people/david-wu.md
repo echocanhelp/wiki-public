@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician, lawyer
 - **Source:** TAH Foundation Who’s Who
 
-David Wu (吳振瑋博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 史丹佛大學 — B.S.
+- 哈佛大學 — 醫學院
+- 耶魯大學 — 法學院，法律博士
+
+## Employment
+- 美國聯邦眾議員 (代表俄勒岡州第一選區) — 1999-2011
+<!-- tah-tables:end -->
 
 ## Family
 

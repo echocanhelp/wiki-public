@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. "I Have to Deal With Stereotypes" video was featured on YouTube's home page, 2007
 
+<!-- tah-tables:start -->
+## Education
+- Univ. of California, Davis — Film Studies
+- Univ. of Houston — 2019 — B.S., Psychology
+
+## Employment
+- KevJumba YouTube — YouTuber — (2007-) — YOMYOMF YouTube — YouTuber — (2012-2012)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Father:** Michael Wu

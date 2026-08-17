@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, scientist
 - **Source:** TAH Foundation Who’s Who
 
-Ron Shieh (謝榮峻) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S. 化學
+- University of Michigan — Year??? — M.S. Food Engineering
+- University of Michigan — 1980 — Ph.D.Food Engineering
+
+## Employment
+- Consultant — 2015-present — Senior Subject Matter Expert
+- McCormick & Company — 1984-2015 — Director
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of Taiwanese American Foundation of San Diego(聖地牙哥台美基金會董事長)2011-12
 
+<!-- tah-tables:start -->
+## Education
+- National Chung Hsing Univ. — B.S., Phytopathology
+- Southern Illinois Univ. Carbondale — M.S, Microorganism
+- Univ. of Pennsylvania — Ph.D., Immunology
+
+## Employment
+- Scripps Research Institute — Immunology Research — Community — Taiwanese American Foundation of San Diego (聖地牙哥台美基金會) — President (2011-2012) — San Diego Taiwan Community Center (聖地牙哥台灣中心) — Director (2004-2010) — San Diego Taiwanese Cultural Association (聖地牙哥台灣同鄉會) — President (2002)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

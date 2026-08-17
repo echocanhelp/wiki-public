@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 吳箴 Olive WuJen Chen 吳箴生於一個音樂家庭，父母是音樂愛好者，哥哥是小提琴家吳泓，姐姐是鋼琴家吳涵，加上吳箴的大提琴，家裡經常充滿了樂聲。吳箴幼稚園即進入光仁音樂班，主修鋼琴及大提琴。高中畢業後，吳箴以優異的成績保送第一志願東吳大學，曾為名師曾素芝，司徒興城及張寬容的得意弟子之一。她並多次擊敗其他好手，獲得台北市及全國大提琴比賽冠軍。大學畢業後吳箴曾在台北市立交響樂團擔任大提琴手。1990年赴美深造，曾在 Aspen Music Festival 隨 David Finkel 學習，之後接受萊斯大學 Rice University 獎學金，隨休士頓交響樂團前首席 Shirley Trepel 深造，獲得碩士學位。
 
+<!-- tah-tables:start -->
+## Education
+- 東吳大學 — Music
+- Rice University — Music
+
+## Employment
+- Houston Community College — Present — Teaching
+- Opera on the Heights，Woodland Symphony — 大提琴首席
+- Formosa String Quartet，Keynote Chamber Players — 大提琴首席
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

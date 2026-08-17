@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Dr. Gerrit Van Der Wees 韋傑理博士 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- Delft Univ. of Technology — 1971 — B.S., Aerospace Engineering
+- Univ. of Washington — 1975 — M.S., Aerospace Engineering — 1981 — Ph. D., Interdisciplinary Program
+
+## Employment
+- Taiwan Communiqué — Chief Editor — (1980-2016) — George Mason University & George Washington University — Professor (Teaching the History of Taiwan) — (2012-) — Community — FAPA — Senate Liaison (2005-2016)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** [[people/tah-p-2cc9076139|陳美津]]

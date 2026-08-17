@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, physician, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Julin Tang (湯竹林) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- China Medical University of Taiwan — 1978 — M.D.
+- Physiology & Biophysics, University of Illinois — M.S.
+- Physiology & Biophysics, University of Illinois — 1984 — Ph.D.
+
+## Employment
+- Critical Care Medicine & Anesthesiology UCSF — Professor
+<!-- tah-tables:end -->
 
 ## Family
 

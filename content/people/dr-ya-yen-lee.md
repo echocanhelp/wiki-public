@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. One of Committee Members for Establishing Houston Taiwan Community Center (休士頓台灣人活動中心成立委員會委員之一) 1992
 
+<!-- tah-tables:start -->
+## Education
+- Taipei Medical Univ. — 1970 — M.D.
+
+## Employment
+- Baltimore General Hospital — Intern — Washington County Hospital — Radiologist — The State Univ. of New York at Rogersida — Doctor of Neuroradiology — Univ. of Texas Medical Center — Professor — (1979-) — Maryland Anderson Hospital — Professor of Oncology — Community — Houston Taiwan Community Center Establishing Committee — Committee Member — North America Taiwanese Professors' Association — President — Taiwanese Association of America / Houston Chapter — President — Taiwanese Heritage Society of Houston — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** [[people/gin-ru-yeh|葉錦如]]

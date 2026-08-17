@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist
 - **Source:** TAH Foundation Who’s Who
 
-Richard Wang is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- UCLA — 1998 — B.S. neuroscience
+- UCLA — 2010 — Ph.D.Genomics
+
+## Employment
+- UCLA — 2015-present — Staff Research scientist
+- UCLA Center for Duchenne Muscular Dystrophy — 2010-present — Postdoctoral Researcher
+<!-- tah-tables:end -->
 
 ## Family
 

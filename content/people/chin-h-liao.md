@@ -19,7 +19,20 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Chin H. Liao (廖俊惠醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Kaohsiung Medical College — M.D. Medical
+- Johns Hopkins University — M.P.H.
+- UCSF — Ph.D.
+
+## Employment
+- 俄亥俄州西儲大學相關教學醫院內科 — 住院醫師及總醫師
+- 南加大學醫院 — 癌症專科醫師
+- 史丹佛大學醫院 — 老人專科醫師
+- Vitas Hospice — 醫師
+- Santa Clara Kaiser Hospital — 內科及老人專科主治醫師
+<!-- tah-tables:end -->
 
 ## Family
 

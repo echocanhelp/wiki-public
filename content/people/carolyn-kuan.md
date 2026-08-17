@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 With her appointment as the 10th Music Director of the Hartford Symphony Orchestra beginning in 11/12, Carolyn Kuan’s reputation as a skilled interpreter and impressive podium presence is recognizable on a national level. Ms. Kuan has also enjoyed long and successful associations with top tier orchestras, opera companies, ballet companies, and festivals worldwide, and continues to distinguish herself as a conductor of extraordinary versatility. Ms. Kuan’s commitment to contemporary music, both at home in Hartford and as a guest conductor, has defined her approach to programming, and established her as an international resource for new music and world premieres.
 
+<!-- tah-tables:start -->
+## Education
+- Smith College — University of Illinois — Master of Music — Peabody Conservatory — Performance Diploma
+
+## Employment
+- Seattle Symphony Orchestra, — Associate Conductor — New York City Ballet — Artist-in-Residence — Baltimore Opera Company — Assistant Conductor — Hartford Symphony Orchestra — 2011-present — Music Director
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Renowned Photographer: the Photographer for Special Photographic Collections of Greatest Golfer Jack Nicklaus
 
+<!-- tah-tables:start -->
+## Education
+- Tokyo Chiyoda Photo College(日本東京千代田寫真專門學院) — 1970 — B.A. Commercial Photography
+
+## Employment
+- Studio Misa — Manager and Photographer — (1970-1999) — Community — Hu-Tu Art Association (糊塗畫會) — Co-Founder
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Mei Tsao Lin (林美棗)

@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, educator
 - **Source:** TAH Foundation Who’s Who
 
-Hwei-Ling Chen (涂惠鈴) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 政治大學 — B.S.統計
+- North Carolina University — M.S.電機電腦
+
+## Employment
+- Wake Tech — Teaching
+<!-- tah-tables:end -->
 
 ## Family
 

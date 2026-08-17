@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Dr. Tsunie Chanchien 張簡俊一醫師 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- Kaohsiung Medical Univ. (高雄醫學大學) — 1964 — M.D.
+- Brooklyn VA Medical Center — 1970 — Residency
+
+## Employment
+- Berwyn Heights — Internal Medicine Specialist
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

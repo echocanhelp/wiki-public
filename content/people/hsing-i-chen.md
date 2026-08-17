@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 來自台灣的鋼琴家陳欣沂，自幼即對音樂展現出過人的天份與熱愛。事師徐頌仁老師並在2000年畢業於東吳大學音樂系後，隨即進入知名的琶琵地音樂院(Peabody Conservatory of Johns Hopkins University)進修鋼琴演奏碩士學位(Master of Music)，以及碩士後演奏家文憑(Graduate Performance Diploma)，並獲得全額獎學金。事師於著名鋼琴家Mr. Boris Slutsky。
 
+<!-- tah-tables:start -->
+## Education
+- 東吳大學 — 2000 — B.S. Music
+- Peabody Conservatory of Johns Hopkins University — M.S. Music
+
+## Employment
+- San Francisco Bay Area (independent) — Pianist / Piano Teacher — (2004-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

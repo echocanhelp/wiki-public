@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Shu Hua Wai (韋黃淑華) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台北醫學院 — 1969 — 護理五專
+
+## Employment
+- Placeutiac — 1987 — RN. ICU
+- UCIMC — 2000-14 — RN. 復健科
+<!-- tah-tables:end -->
 
 ## Family
 

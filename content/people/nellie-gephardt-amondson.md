@@ -21,6 +21,11 @@ last_reviewed: 2026-08-17
 
 Nellie Gephardt Amondson 納莉‧艾默森 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Employment
+- San Diego Mesa College
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Daughter:** Jean

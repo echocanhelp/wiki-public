@@ -21,6 +21,21 @@ last_reviewed: 2026-08-17
 
 Pianist Dr. Ching-Ming Cheng, a native of Taiwan. Dr. Cheng holds a bachelor’s degree in Piano Performance from National Taiwan Normal University, a master degree in Music Business and a doctoral degree in Piano Accompanying from University of Miami with honors and full scholarship. Dr. Cheng is an active performer and committed educator. Her most recent competition prize is a silver medal in 2013 International Keyboard Odyssiad Piano Competition held in Colorado. Her recent performances include Cal. State San Marcos, North American Taiwanese Professor Association retreats, Taiwan Center in San Diego, and many concert series in Taiwan. Dr. Cheng is an active member of Music Teacher Association of California, Music Teacher National Association and California Association of Professional Music Teachers. She is a frequent adjudicator for many musical events. Dr. Cheng is currently on the music faculty at California State University San Marcos as an assistant professor.
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Normal University — B.A. in Piano Performance
+- University of Miami — M.A. in Music Business
+- University of Miami — Ph.D. in Piano Accompanying
+
+## Employment
+- Barry University
+- Humboldt State University
+- University of Miami
+- National Taiwan Normal University
+- Fu-Jen Catholic University
+- California State University San Marcos
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Paul Pai-Shih Lee 李百仕

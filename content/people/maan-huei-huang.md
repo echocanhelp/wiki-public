@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, lawyer
 - **Source:** TAH Foundation Who’s Who
 
-Maan-Huei Huang (黃滿惠) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.A., Law — M.A., Law
+
+## Employment
+- Litton Industries — Attorney/Corporate house counsel — Maan-Huei Hung Law Office — Owner/Attorney — (1982-)
+<!-- tah-tables:end -->
 
 ## Family
 

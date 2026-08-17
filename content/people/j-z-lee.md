@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-J. Z. Lee (李錦容) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S.護校
+
+## Employment
+- 台灣與美國 — 內外科護理
+- 美國 — 復健,老人科護理與行政
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,11 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Eric Yang (楊一哲) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Employment
+- 波士頓華人聖經教會 — 牧師
+<!-- tah-tables:end -->
 
 ## Family
 

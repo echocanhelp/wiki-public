@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 4. Technology Review "Top 100 Young Innovators" Sponsored by Massachusetts Institute of Technology 2002
 
+<!-- tah-tables:start -->
+## Education
+- MIT — 1990 — B.S., Electrical Engineering — 1991 — M.S., Electrical Engineering — 1994 — Ph.D., Electrical Engineering
+
+## Employment
+- Texas Instrument Co. — Technical Staff — IBM — VP of SRDC — Freescale Semiconductor Inc. — Sr. VP & GM Networking & Multimedia — (2007-) — AMD — Sr. VP & GM Global Business Units — (2012-) — AMD — COO, then CEO & President — (2014-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** [[people/daniel-lin|Daniel Lin]]

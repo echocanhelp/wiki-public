@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 A native of Taiwan, Ming Feng Hsin’s musical career began as a violin soloist after winning the Glasgow International Violin Competition at the age of 15. He subsequently soloed with the Scottish National Orchestra and the BBC Orchestra and was hailed by the Scotsman as “destined to be one of the giants of the next generation.” A protégé of Yehudi Menuhin, Mr. Hsin has performed throughout Europe, America and Asia as both soloist and chamber musician. Mr. Hsin is also an accomplished conductor. After getting a conducting degree from Juilliard with Otto Werner Mueller, he has worked with numerous orchestras throughout the world, and has led productions of the operas Aida, Flying Dutchman, La Boheme, and Ballo in Maschera. A member of the first violin section of the Metropolitan Opera Orchestra for the past 18 years, Mr. Hsin is married to his colleague in the orchestra Wen Qian, and together they have two young children, Thomas 6 and Olivia 4.
 
+<!-- tah-tables:start -->
+## Education
+- 1.
+- 休士頓Rice大 學 — M.S. 指揮
+
+## Employment
+- 紐約大都會歌劇院樂團 — 第一小提琴
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, physician
 - **Source:** TAH Foundation Who’s Who
 
-Daniel Yang is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Princeton Univ., Princeton — B.S., Chemical Engineering
+- New York Medical College — 1985 — M.D.
+
+## Employment
+- Tallahassee, FL — Nuclear Medicine, Nuclear Radiology Physician
+<!-- tah-tables:end -->
 
 ## Family
 

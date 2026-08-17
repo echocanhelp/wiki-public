@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-H. Wu (吳換博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台北神學院 — 1990 — B.S.
+- 國際基督神學院 — 1992 — M.S.
+
+## Employment
+- St. Chrles University — 1994 — PhD. 哲學
+<!-- tah-tables:end -->
 
 ## Family
 

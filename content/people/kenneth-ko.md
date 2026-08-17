@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** artist
 - **Source:** TAH Foundation Who’s Who
 
-Kenneth Ko (柯吉文) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. of Arts (國立臺灣藝術大學) — B.A., Fine Arts
+- The Univ. of Texas at Austin — 1969 — M.A., Drafting and Design
+
+## Employment
+- Warren Advertising Company, San Antonio (聖安東尼市華倫廣告公司) — Head of Design — Aetna Insurance Company — Creative Director of Communications — (1979-1996) — The Hartford Insurance Company — Senior Art Design Consultant — (1996-)
+<!-- tah-tables:end -->
 
 ## Family
 

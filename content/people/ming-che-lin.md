@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Ming-che Lin (林明哲) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 成功大學 — 1956 — B.S. 土木系
+- University of Missouri — 1967 — M.S. 土木系
+
+## Employment
+- Pioneer Construction Engineering Limited — 1967 — 結構工程師
+<!-- tah-tables:end -->
 
 ## Family
 

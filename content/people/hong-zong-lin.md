@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Hong Zong Lin (林宏容) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S. 土木
+- 加州大學柏克萊分校 — Ph.D.工程
+
+## Employment
+- 波音公司太空部門
+- 美國第一銀行董事
+<!-- tah-tables:end -->
 
 ## Family
 

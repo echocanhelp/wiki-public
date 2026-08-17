@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-J. C. Hong (洪濬正) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Whittier College — B.S.
+
+## Employment
+- Dacin Tigers Basketball Team (達欣工程籃球隊) — Head Coach — (1996-1997) — Bank of Taiwan Basketball Team (台灣銀行籃球隊) — Head Coach — (2014-2016) — Taipei Shipai Christian Church (台北基督徒石牌禮拜堂) — Pastor — (2015-)
+<!-- tah-tables:end -->
 
 ## Family
 

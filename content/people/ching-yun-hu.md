@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Ching-Yun Hu was named a winner of the 2009 Concert Artists Guild International Competition. In 2008, she captured the top prize and the Audience Favorite Prize at the 12th Arthur Rubinstein International Piano Master Competition in Tel Aviv, resulting in a seven-city tour across Israel and a special invitation from the Israel Philharmonic Orchestra to perform Beethoven’s Piano Concerto #4 on only a week’s notice. Subsequently, her career has flourished with a host of engagements on five continents.
 
+<!-- tah-tables:start -->
+## Education
+- 茱莉亞音樂學院 — B.S. Music
+- 茱莉亞音樂學院 — M.S. Music
+
+## Employment
+- 美國費城天普大學（Esther Boyer College of Music of Temple University） — Teaching
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

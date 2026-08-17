@@ -21,6 +21,18 @@ last_reviewed: 2026-08-17
 
 Dr. Carrie Y. Tseng is an active internationally-acclaimed cellist. Born in Taiwan. She has performed in United States, Asia, and Europe. She received her Doctor of Musical Arts degree from Arizona State University, and her Master of Music degree from Mannes College of Music in New York. At Arizona State University, she was funded with full scholarship and was awarded the special Talent scholarship and the distinguished Anna Rosenzweig Fellowship. Her primary cello teachers have included Thomas Landschoot, Marcy Rosen, Paul Tobias, and Janet Chien. She has studied at the master class with Bernard Greenhouse, Yo-Yo Ma, Timothy Eddy, Rhonda Rider, Aldo Parisot, Dennis Parker, Scott Kluksdah, Wen-Sinn Yang, and has studied with Tsuyoshi Tsutsumi at Kirishima International Music Festival in 2001. Ms. Tseng has frequently performed with a band – The Brilliance, and has toured with them all over the states. Ms. Tseng currently moved to South Bay area. She is an instructor at the Silicon Valley Youth Symphony, and also a faculty member at Jou Music Institute, Canon Music and Ale’s Music School.
 
+<!-- tah-tables:start -->
+## Education
+- Shih-Chien Universit — B.M.
+- Mannes College — 2009 — M.M.
+- Arizona State University — 2016 — D.M.A.
+
+## Employment
+- Jou Music Institute — 2007-present — teaching
+- Canon Music and Ale's Music School — 2002-2013 — teaching
+- Silicon Valley Youth Symphony — 2011-2013 — Cellist
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

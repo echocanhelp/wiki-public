@@ -19,7 +19,20 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, scientist
 - **Source:** TAH Foundation Who’s Who
 
-Tom Thomas Shih (石聰賢) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1969 — B.S.工程
+- Berkeley University — 1972 — M.S.化學工程
+- Berkeley University — 1975 — Ph.D.化學工程 — year
+
+## Employment
+- Allied Chemical Company — 1975-1980
+- ARCO Chemical Company — 1981-1998
+- Lyondell Chemical Company — 1998-2000
+- Bayer ARCO Chemical — 2001-2006 — 研發部主任,處長
+- LCY Group — 2009-2014 — Chief Technology Officer
+<!-- tah-tables:end -->
 
 ## Family
 

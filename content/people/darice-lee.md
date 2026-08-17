@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Darice Lee (洪珠美) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 靜宜大學 — BS Business
+
+## Employment
+- 房地產管理及經紀人
+<!-- tah-tables:end -->
 
 ## Family
 

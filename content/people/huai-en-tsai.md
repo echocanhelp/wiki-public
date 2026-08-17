@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Currently a freelance musician in Washington D.C area, trombonist Huai-En Tsai 蔡懷恩 enjoys his concert engagements as a solo player, chamber musician and orchestral player. As the winner of the Baltimore Music Club Music Competition in 2006, he has given numerous recitals in various styles in many states as well as in his native Taiwan. His distinguished performances received praises from newspapers which including The Liberty Times, Washington Chinese News, The Epoch Times, The World Journal, Baltimore Examiners, Baltimore City Paper, The Towerlight of Towson University and The Albuquerque Tribune.
 
+<!-- tah-tables:start -->
+## Education
+- 東吳大學 — B.S. 音樂系
+- 美國約翰霍普金斯大學琵琶第音樂學院 — 2005 — B.S. 演奏
+- 美國約翰霍普金斯大學琵琶第音樂學院 — Ph.D. 音樂藝術
+
+## Employment
+- Asia Trombone Seminar — Artistic Director/Faculty — (2007-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Son:** ???

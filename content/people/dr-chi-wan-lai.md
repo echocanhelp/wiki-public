@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Assistant Professor, Director of Epilepsy Center, Director of EEG Physiology, Associate Professor of Neurology, Professor
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. College of Medicine — 1969 — M.D.
+
+## Employment
+- National Taiwan Univ. Hospital — Doctor of Neuropsychiatry — (1970-1975) — Minnesota Univ. Hospital — Resident physician, EEG epilepsy researcher — (1975-1979) — Univ. of Kansas School of Medicine — Assistant Professor / Director of Epilepsy Center / Director of EEG Physiology / Associate Professor of Neurology / Professor — (1979-1998) — Tzu Chi Univ. College of Medicine — President — (1998-2001) — Koo Foundation Sun Yat-Sen Cancer Center — Professor of Medical Education and Physician of Neurology — (2001-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Yen-Huei Chang Lai

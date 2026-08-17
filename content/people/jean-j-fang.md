@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of North America Taiwanese Women’s Association (NATWA) 北美洲台灣婦女會會長 1999-2000
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1970 — B.S., Politics
+- Kansas State Univ. — M.S., Politics
+- The State Univ. of New Jersey, Art — M.S., Art
+
+## Employment
+- Metropolitan Museum of Art — Business Manager — Community — North America Taiwanese Women's Association (NATWA) — President — TAA New York Chapter (大紐約區台灣同鄉會) — President — Taiwanese American Conference/East Coast (美東台灣人夏令會) — Coordinator — NATWA/New York Chapter Art Show (台美婦女畫展/紐約) — Co-Founder
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** 方菊雄

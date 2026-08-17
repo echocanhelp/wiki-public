@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Publication(Non-professional)
 1. Marching towards Harvard from Taiwan, 留學美國、教育子女、邁向哈佛
 
+<!-- tah-tables:start -->
+## Education
+- National Cheng Kung Univ. — 1980 — B.S., Electrical and Computer Engineering
+- State University of New York — 1984 — M.S., Electrical Engineering, Computer Science
+- Purdue Univ. — 1987 — Ph.D., Electrical and Computer Engineering, Computer Science
+
+## Employment
+- New Jersey Institute of Technology (NJIT) — Assistant Professor; Head of Computer Department; Tenured Professor — (1988-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 黃安玲

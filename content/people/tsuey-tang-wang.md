@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Tsuey-Tang Wang (王萃堂) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Cheng Kung University — 1955 — B.Sc. Mechanical Engineering
+- Brown University — 1965 — Ph.D. Engineering
+
+## Employment
+- Polytechnic University of New York — 1965-1967 — Assistant Professor
+- Rutgers University — 1996 — Visiting Professor
+- Teanspac Corp. — 1988-2000 — President
+<!-- tah-tables:end -->
 
 ## Family
 

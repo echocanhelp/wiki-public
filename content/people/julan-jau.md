@@ -19,7 +19,19 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Julan Jau (趙珠蘭) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1974 — B.S. 農工系
+- 美國伊利諾大學 — 1977 — M.S. 能源工程
+- Santa Monica University — 1999 — M.S. 精神心理學
+- University of Michigan — 機械工程博士班
+
+## Employment
+- 工業技術研究院 — 1980-83 — 研究員
+- McDonnell Dou-glas — 1986-90 — 工程師
+- TIAS(桃園航勤) — 2000-01 — vice president
+<!-- tah-tables:end -->
 
 ## Family
 

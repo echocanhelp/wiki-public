@@ -21,6 +21,18 @@ last_reviewed: 2026-08-17
 
 Baritone Yi-Cherng Lin has earned his Doctor of Musical Art degree in Voice Performance with an opera concentration at University of Maryland, College Park in June 2006. As a native of Taiwan, Mr. Lin has performed Taiwanese folksongs in many concerts in the United States of America. In addition to the Taiwan sound concert series, he has created, directed and performed the Taiwanese Musical Eternal Hope and Bygone Years, which was performed in Rockville, Maryland in April 2006 and January 2007 respectively.
 
+<!-- tah-tables:start -->
+## Education
+- 中山大學 — B.S. Music
+- 馬里蘭大學 — 2006 — Ph.D. Music
+
+## Employment
+- 1華府台灣文化中心 — 執行長
+- 馬里蘭州海天合唱團 — 指揮
+- 維吉尼亞州立人合唱團 — 指揮
+- 華府台灣合唱團 — 指揮
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

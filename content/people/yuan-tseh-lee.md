@@ -23,6 +23,17 @@ Institute of Atomic Science, Tsinghua University
 M.S., Radiochemistry Group
 (1961)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1959 — B.A., Chemistry
+- Institute of Atomic Science, Tsinghua Univ. — 1961 — M.S., Radiochemistry Group
+- Univ. of California Berkeley — 1965 — Ph.D., Chemistry
+- Harvard Univ. — 1968 — Post-doctoral research
+
+## Employment
+- Academia Sinica — President — (1994-2006) — International Science Council — President — (2011-2016)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Bernice Wu Chin-li(吳錦麗)

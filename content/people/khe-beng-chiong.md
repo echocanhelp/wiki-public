@@ -23,6 +23,16 @@ US Army General MacArthur's Headquarters
 Sergeant, Lieutenant, Captain
 (1946-1954)
 
+<!-- tah-tables:start -->
+## Education
+- Doshisha Univ. (同志社大學) — 1931 — B.S.
+- Whitman College — 1938 — A.B., Chemistry
+- Purdue Univ. — 1941 — Chemistry
+
+## Employment
+- Prisoner of War Processing at Fort Custer, Michigan — Interpreter — US Army General MacArthur's Headquarters — Sergeant, Lieutenant, Captain — (1946-1954) — Kawaguchi Rubber Company — Export Manager — Plastic Products Company — Self-employed
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Anna

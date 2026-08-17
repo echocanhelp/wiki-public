@@ -19,7 +19,12 @@ last_reviewed: 2026-08-17
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
-W. C. Jen (任雯娟) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 輔仁大學 — B.S.豎笛
+- Cal State University, LA — 2003 — M.S.
+<!-- tah-tables:end -->
 
 ## Family
 

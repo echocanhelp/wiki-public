@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Jason Chung (莊建雄) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 成功大學 — 1979 — B.S.機械
+- Texas Univeristy — 1986 — Ph.D.航天工程
+
+## Employment
+- Lockheed Martin Corp. — 資深航天工程師
+- NASA馬歇爾飛航中心 — 資深航天工程師
+<!-- tah-tables:end -->
 
 ## Family
 

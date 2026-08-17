@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of North American Taiwan Studies Association (北美洲台灣研究學會(NATSA)會長)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.S., Chemistry
+- State Univ. of New York — M.S., Environmental Science
+- Univ. of Delaware — Ph.D., Urban Affairs and Public Policy
+
+## Employment
+- Univ. of Delaware — Assistant Researcher — National Taiwan Univ. — Associate Professor, Dept. of Political Science — Executive Yuan (行政院) — Deputy Chief Executive, Energy and Carbon Reduction Office — Community — North American Taiwan Studies Association (NATSA) — President — Taiwan Environmental Action Network (TEAN) in North America — Initiator and Convener
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 For more bio information, please click link in Who’s Who : 564. Emily Lin Lee 林榮峰
 
+<!-- tah-tables:start -->
+## Education
+- Bowling Green State University, Ohio — 1969 — B. A., Home Economics Major, Library Science Minor
+- University of Texas, Austin, TX — 1971 — Library Science, Graduate Study
+
+## Employment
+- Team Realty — 1989-90 — VP
+- VenCap International Inc. — 1990-91 — Manager
+- VenCap Realty Inc. — 1991-Present — President, Broker
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Daughter:** Eileen May Lee, 李艾寧

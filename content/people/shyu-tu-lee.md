@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 Engineer; Manager; Administrator, Engineer & Scientific Data Center; Assistant Chief Information Officer
 
+<!-- tah-tables:start -->
+## Education
+- University of Michigan — (Ann Arbor) — 1978 — M.S. Transportation Eng.
+- Western Michigan Univ. — 1985 — D.P.A Public Administration
+
+## Employment
+- Michigan Department of Transportation — 1970-1997 — Engineer; Manager; Administrator, Engineer & Scientific Data Center; Assistant Chief Information Officer
+- Univ. of Michigan (Flint) — 1995 — Adjunct faculty member
+- Clark County Public Works, WA — 1997-2001 — Transportation System Manager
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Margaret

@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Benjamin Wu (吳旭淳博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 紐約大學 — B.A. 政治系
+- 匹茲堡大學 — Ph.D. 法學
+
+## Employment
+- 美國聯邦政府商務部 — 2001 — 副次長
+- 美國聯邦政府商務部 — 2004 — 助理部長
+- 馬里蘭州商業與經濟發展廳 — 2015 — 副廳長
+<!-- tah-tables:end -->
 
 ## Family
 

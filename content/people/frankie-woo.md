@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, lawyer
 - **Source:** TAH Foundation Who’s Who
 
-Frankie Woo (吳映龍) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 賓州大學，瓦特商學院 — 1987 — B.S. Finance
+- 華盛大學 — 1990 — M.S. Law — year
+
+## Employment
+- FIDUCIA LEGAL — 2008-Present — 律師
+- Wooshade Caps Inc. — 2013-Present — Founder
+<!-- tah-tables:end -->
 
 ## Family
 

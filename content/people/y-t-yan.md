@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Y. T. Yan (顏裕庭) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — MD
+- Johns Hopkins Univ. — M.S., Public Health
+- Johns Hopkins Univ. — Ph.D., Public Health
+
+## Employment
+- UCLA — Professor
+- 台南市立醫院 — 院長
+<!-- tah-tables:end -->
 
 ## Family
 

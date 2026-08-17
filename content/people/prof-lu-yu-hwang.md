@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 2. Professor, Department of Epidemiology, Human Genetics and Environment Science, Univ. of Texas, School of Public Health at Houston
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ., Medical College — 1975 — M.D.
+
+## Employment
+- The Univ. of Texas M.D. Anderson Cancer Center at Houston — Adjunct Professor — (1987-) — The Univ. of Texas, School of Public Health at Houston — Professor
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** R. Palmer Beasley

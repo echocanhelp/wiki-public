@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-%E9%84%Ad%E8%A8%B1%E6%A2%85 (鄭許梅) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 彰化女中
+- 日本的醫學院
+
+## Employment
+- 開業醫師(新竹市)
+<!-- tah-tables:end -->
 
 ## Family
 

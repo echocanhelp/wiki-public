@@ -23,6 +23,14 @@ The School of the Art Institute of Chicago
 BFA, Studio Arts, Photography, Ceramics
 (2007)
 
+<!-- tah-tables:start -->
+## Education
+- The School of the Art Institute of Chicago — 2007 — BFA, Studio Arts, Photography, Ceramics — The School of the Art Institute of Chicago — 2009 — MFA, Studio Art, Photography
+
+## Employment
+- Hydro, Inc. — 2014-2017 — Manager of Marketing Design — KCY Art & Photo Studio — 2005-2017 — Art Director & Photographer
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 黃聖家

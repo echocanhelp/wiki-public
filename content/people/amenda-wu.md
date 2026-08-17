@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Amenda Wu is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- UC Davis — Music
+
+## Employment
+- San Francisco Symphony — Donor relations coordinator
+- UC Berkeley symphony Orchestra — Member
+<!-- tah-tables:end -->
 
 ## Family
 

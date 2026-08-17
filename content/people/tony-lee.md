@@ -26,6 +26,15 @@ last_reviewed: 2026-08-17
 - **Hub:** [[sources/taiwancenter-org|taiwancenter.org]]
 - **Content priority C:** Full biography not in this source set
 
+<!-- tah-tables:start -->
+## Education
+- Ohio State University — MS Civil Engineering
+
+## Employment
+- 台灣土壤公司 — Present — President
+- Soil & Environmental — Engineer
+<!-- tah-tables:end -->
+
 ## Sources
 - [TAH #710 encyclopedia: 710. Tony Lee 李賢群 / 2015/11](https://taiwaneseamericanhistory.org/whos-who-710/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tony-lee/)

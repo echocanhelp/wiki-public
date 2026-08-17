@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Peggy Liao (廖碧玉) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 師範大學 — 1972 — BS,國文系
+- 多倫多東亞研究所 — 1985 — MS
+
+## Employment
+- Sovereign Insurance Co — 1973 — 1974
+- Self-Employed — 1974 — 1981
+- Canadian Imperial Bank of Commerce — 1985 — 2002
+- Royal Bank of Canada — 2002 — 2005
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Was the winner of the world prestigious Wolf prize in Agriculture, 1991
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1956 — B.S., Agriculture — M.S., Agriculture
+- Utah Univ. — 1962 — Ph.D., Biochemistry
+
+## Employment
+- University of California, Davis — Professor — (1966-) — Academia Sinica — Vice President — (1996-1999) — National Science and Technology Program in Agricultural Biotechnology, Taiwan — Founding Director
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

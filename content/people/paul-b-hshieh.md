@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist
 - **Source:** TAH Foundation Who’s Who
 
-Paul B. Hshieh 六 (謝博六博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- West Virginia University, — M.S.
+- Ohio State University — Ph.D.
+
+## Employment
+- Mathematical Statistician
+- Food and Drug Administration
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Rugby and soccer player in the school team in Chang Jung High School (長榮) and Rugby player in NTU(台大) and All College team 1959-1963
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1959-1963 — B. S., Agronomy
+
+## Employment
+- Tainan Agricultural Research and Extension Station (農林改良場) — Technician — (1963-1966) — Taiwan Rice Technical Mission in Philippines — Technician — (1966-1967) — Sino-Africa Agriculture Committee (今之台灣海外援助委員會) — Instructor — (1968-1969) — Bayer A.G., Germany — Tropical Agricultural Researcher — (1970-1984) — Orchid of Wainanae — Owner — (1983-) — Community — FAPA — Active member — TAA-HI — Active member
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Gloria

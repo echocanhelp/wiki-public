@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor
 - **Source:** TAH Foundation Who’s Who
 
-Wen_Chen Chen (陳文成教授) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1972 — B.S. 數學系
+- 台灣大學 — 1974 — M.S.數學研究所
+- 美國密西根大學 — 1978 — Ph.D.
+
+## Employment
+- 美國卡內基美隆大學 — 統計學助理教授 — (1978-1981) — Community — 匹茲堡台灣人權會 — 創始成員
+<!-- tah-tables:end -->
 
 ## Family
 

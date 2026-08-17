@@ -19,7 +19,11 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-%E5%8A%89%E9%9D%92%E8%97%9C%E5%8D%9A%E5%A3%Ab (劉青藜博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- UC Davis — Ph.D.
+<!-- tah-tables:end -->
 
 ## Family
 

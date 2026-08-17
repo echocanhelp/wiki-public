@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 2. The first Taiwanese player to successfully transition from the Chinese Major League to Major League Baseball
 
+<!-- tah-tables:start -->
+## Education
+- National Chiayi Univ. (嘉義大學)
+
+## Employment
+- Chinatrust Whales — Pitcher — (2007-2008) — Detroit Tigers — Pitcher — (2009-2010) — Adelaide Giants — Pitcher — (2013-2013) — EDA Rhinos — Pitcher — (2015-2016) — Fubon Guardians — Pitcher — (2017-2020)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 岩元理惠

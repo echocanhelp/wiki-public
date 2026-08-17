@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 美國書商協會(ABA)評為2018年優良讀物 (American Booksellers Association named as a top read of 2018)
 
+<!-- tah-tables:start -->
+## Education
+- New York University — B.S. marketing and international business
+- New York University — M.F.U. fiction
+
+## Employment
+- 華盛頓廣場 — 評論主編
+- Penguin Random House
+- Djerassi — 2017 — Artist-in-Residence
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-H. N. Tong (童海南) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1964 — B.S.動物
+- Iowa States University — Ph.D.
+
+## Employment
+- Iowa States University — professor
+<!-- tah-tables:end -->
 
 ## Family
 

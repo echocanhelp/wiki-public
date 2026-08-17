@@ -21,6 +21,20 @@ last_reviewed: 2026-08-17
 
 Patsy Fang Chen was born in Taipei, Taiwan, graduated with the highest honor from the current National Taiwan University of Arts, majored in Piano Performance, and was awarded the Outstanding Alumna of NTUA in 1997. She received her master’s degree in Music Education from New York University in 1980.
 
+<!-- tah-tables:start -->
+## Education
+- 國立台灣藝術專科學校 — 1968 — Piano Performance
+- New York University — 1980 — M.S., Music Education
+
+## Employment
+- Norwegian - American Hospital, Chicago, Illinois. — 1968-1970 — Secretary of Medical Education Department
+- Piano Instructor — 1978-Present
+- KYVAS Arts Management Inc. — 1989-1993 — President
+- Concert management, promotion and tour production — 1986-Present — Coordinator
+- Queens Symphony Orchestra — 1993-2003 — Community Liaison
+- Youth Orchestra, CYCNY (www.YouthOrchestra.com) — 1998-Present — Artistic Director
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Wen Jer Chen陳文哲

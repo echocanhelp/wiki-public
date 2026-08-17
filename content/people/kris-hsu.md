@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, journalist
 - **Source:** TAH Foundation Who’s Who
 
-Kris Hsu (徐謙讓) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Ming Chuan Univ. — B.S., Broadcasting
+- New Mexico Univ. — B.S., Information and Communication
+
+## Employment
+- Albuquerque CBS-TV KGGM Channel 13 News — Evergreen Realty — Real estate brokerage
+<!-- tah-tables:end -->
 
 ## Family
 

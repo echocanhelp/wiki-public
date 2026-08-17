@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 4. Founders and Presidents of Taiwan Flower Biotechnology Co., LTD(台灣花卉生物技術股份有限公司) and A-Turn Biotech Company(艾騰生技股份有限公司)
 
+<!-- tah-tables:start -->
+## Education
+- National Chung Hsing Univ. — B.S.
+- Univ. of Tokyo — Doctor of Agriculture
+
+## Employment
+- Ball Horticulture Inc. — Vice President — Twyford International Inc. — President — (1986-) — Taiwan Flower Biotechnology Co., LTD — Founder and President — A-Turn Biotech Company — Founder and President — Community — Taiwanese American Association / Indiana Chapter — Founding Member
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 張純枝

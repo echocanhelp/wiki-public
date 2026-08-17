@@ -19,7 +19,19 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-%E6%Af%9B%E6%B8%85%E8%8A%Ac (毛清芬) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 國立台灣大學 — 1961 — B.A. 歷史系
+
+## Employment
+- 台灣人權協會FAHR — 1981-82 — 祕書
+- 台灣公論報 — 1981-87 — 財務
+- 台灣獨立建國聯盟 — 2005-06 — 祕書長
+- 台灣獨立建國聯盟 — 2006-09 — 副主席
+- 台灣獨立建國聯盟 — 2009 — 財務長
+- 現代文化基金會 — 2011 — 董事長
+<!-- tah-tables:end -->
 
 ## Family
 

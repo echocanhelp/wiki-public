@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
-Ing-Hui Lai (賴英慧) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 護士學校 — 1971 — 2.
+
+## Employment
+- 托倫斯紀念醫院 — 1987-2000 — 護士
+- 中台醫專 — 教師
+<!-- tah-tables:end -->
 
 ## Family
 

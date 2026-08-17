@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** lawyer
 - **Source:** TAH Foundation Who’s Who
 
-Nien-Tzu Kuo (郭念慈) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.A., Law
+- Columbia Univ. — M.A., Law
+
+## Employment
+- 理律法律事務所
+- 丹尼爾法律事務所
+- TLA LAW
+<!-- tah-tables:end -->
 
 ## Family
 

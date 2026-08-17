@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Dealing with the dispute litigation filed by the United States against China in the World Trade Organization (處理美國在世界貿易組織對中國提出的爭端訴訟)
 
+<!-- tah-tables:start -->
+## Education
+- Yale Univ. — 1996 — B.A., History
+- Harvard Univ. — 2001 — Ph.D., Law
+
+## Employment
+- Sun Yat-sen University — English Teacher — (1996-1998) — U.S. Federal Government — General Attorney — (2007-2014) — U.S. Federal Government — Chief Counsel for China Trade Enforcement — (2011-2014) — United States House Committee on Ways and Means — Trade Consultant — (2014-2017) — Office of the United States Trade Representative — Trade Representative — (2021-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

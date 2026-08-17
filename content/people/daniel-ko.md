@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Daniel Ko (柯耀宗博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1962 — B.S.化工
+- Kansas State — 1965 — M.S.
+- Northwestern University — 1968 — Ph.D.
+
+## Employment
+- Technologh Transfer for Asia Pacific Region — Director
+- 新光合纖 — 2001- — 總經理
+- 新光合纖 — 2001- — 總經理
+<!-- tah-tables:end -->
 
 ## Family
 

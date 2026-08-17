@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Debbie Lee started playing the piano since the age of six. As a child, she enjoyed music as a hobby and would often play songs by ear. In high school, Debbie moved to Dallas, Texas, and started attending recitals and competitions with the encouragement of her new instructor. By the time Debbie was a senior in high school; she had won numerous awards in competitions and earned scholarships to attend University of Houston as a music major.
 
+<!-- tah-tables:start -->
+## Education
+- University of Houston
+
+## Employment
+- Debbie Lee Piano Studio — Piano instructor
+- Formosa Chorus of Dallas — Accompanist
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

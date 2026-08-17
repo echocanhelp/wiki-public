@@ -19,7 +19,12 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Ralph Su (蘇惠智牧師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Employment
+- Canaan Taiwanese — Christian Church — 主任牧師
+- 新澤西中部聖恩長老教會 — 組織牧師
+<!-- tah-tables:end -->
 
 ## Family
 

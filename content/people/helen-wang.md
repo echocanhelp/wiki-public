@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of North American Taiwanese Women’s Association (北美洲台灣婦女會總會會長) 1992-1993
 
+<!-- tah-tables:start -->
+## Education
+- National Defense Medical Center (國防醫學院) — B.S., Nurse
+
+## Employment
+- National Defense Medical Center (國防醫學院) — Head of Nursing — Federal Government — Civil servants — Community — North American Taiwanese Women's Association (北美洲台灣婦女會總會) — President — Taiwanese American Association/Greater New York Chapter (大紐約區台灣同鄉會) — President — New York Taiwan Center Senior Choir Group (台灣會館老人合唱團) — Manager — Formosan Association For Human Rights (全美台灣人權協會) — President — New York Taiwan Center — Vice President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** [[people/k-d-wang|王康德]]

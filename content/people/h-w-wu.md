@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-H. W. Wu (吳宏為) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S.
+- Stanford University — Ph.D.生物物理化學
+
+## Employment
+- Eastman Chemical Company — 資深化學研究師
+- Mallinckrodt /Covidien — 主管
+- Missouri Baptist University — 生化教授
+<!-- tah-tables:end -->
 
 ## Family
 

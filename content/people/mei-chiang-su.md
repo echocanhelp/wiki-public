@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Outstanding Service Award Recipient of Taiwanese Youth Arts Foundation, Inc. (台灣人青少年才藝基金會社區服務獎) 2005-2006
 
+<!-- tah-tables:start -->
+## Education
+- Shih Chien Univ. (實踐大學)
+
+## Employment
+- U.S. Navy E.M. Club — Chef — Rockville Biomedical Research Institute — Research Assistant
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

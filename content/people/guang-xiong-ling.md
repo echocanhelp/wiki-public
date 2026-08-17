@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Guang-Xiong Ling (凌光雄) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan University
+- University of Connecticut
+
+## Employment
+- NY, NJ 聯邦牛奶市場管理處
+- 美國農業部華府農業合作社服務局 — 1978-
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -24,6 +24,19 @@ Employment
 present
 chairman
 
+<!-- tah-tables:start -->
+## Education
+- Berkerly — 1983 — B.S. chemical engineering
+- University of California, Santa Barbara — 1985 — M.S. chemical engineering
+- University of California, Santa Barbara — 1987 — Ph.D. chemical engineering
+
+## Employment
+- National Space Biomedical Research Institute (NSBRI) — present — chairman
+- Astronaut Office EVA Branch — Chief
+- NASA — 1991 — NASA
+- Hexcel Corporation — 1987-1989
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

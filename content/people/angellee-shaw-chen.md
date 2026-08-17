@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician, lawyer
 - **Source:** TAH Foundation Who’s Who
 
-Angellee Shaw Chen (陳安仁理博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Boston University — 1993 — B.S. 生物與化學
+- University of S. Illinois Medical School, Law School — 1994-2000 — M.D. J.D.醫學&法學博士
+
+## Employment
+- UCLA Medical School — 2000-04 — 病理學住院醫師
+- 佛里里達州 — 2004-05 — 法醫
+- Phoenix, AZ — 2007- — 法醫
+- D.C. Chief Medical Examiner — 2012-13
+<!-- tah-tables:end -->
 
 ## Family
 

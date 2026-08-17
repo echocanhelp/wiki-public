@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Chun-Chieh Chiu (邱俊杰) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 高雄中山醫學大學 — M.D.
+
+## Employment
+- Kaiser Hospital — present — 醫師
+<!-- tah-tables:end -->
 
 ## Family
 

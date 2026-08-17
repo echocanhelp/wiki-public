@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Dr. May Chiu (邱鈺琳醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Albany Medical College — M.D.
+- Oregon Health & Science Univ. — Residency
+
+## Employment
+- Concord Medical Center — Nephrologist — Walnut Creek Medical Center — Nephrologist
+<!-- tah-tables:end -->
 
 ## Family
 

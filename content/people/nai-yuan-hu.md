@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Since winning the First Prize of the prestigious Queen Elisabeth International Competition in 1985, violinist Nai-Yuan Hu has appeared on many of the world’s stages, including the Concertgebouw in Amsterdam, Avery Fisher Hall in New York and major venues in London, Paris, Brussels, Munich, and other cities in Europe, North and South Americas and Asia. In praise of his playing, BBC Music Magazine wrote, “Taiwanese violinist Nai-Yuan Hu is an awesomely capable performer whose technical facility, musical intelligence and unfaltering verve place him among the higher echelons of today’s string virtuosi.”
 
+<!-- tah-tables:start -->
+## Education
+- Indiana Univ.
+
+## Employment
+- Taiwan Connection — Founder and Music Director — (2007-) — TC Chamber Orchestra — Music Director — (2009-) — Community — Queen Elisabeth Competition (Brussels) — Jury Member — Seoul Violin Competition — Jury Member
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

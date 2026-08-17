@@ -19,7 +19,11 @@ last_reviewed: 2026-08-17
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
-S. M. Lin (林素敏) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台北女師
+<!-- tah-tables:end -->
 
 ## Family
 

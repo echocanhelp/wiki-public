@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist
 - **Source:** TAH Foundation Who’s Who
 
-C. C. Lin (林振昌) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S. 物理
+- Minnesota — 1975 — Ph.D.物理
+
+## Employment
+- 台獨聯盟辦公室 — 1975-
+<!-- tah-tables:end -->
 
 ## Family
 

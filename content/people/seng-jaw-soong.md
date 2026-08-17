@@ -22,6 +22,17 @@ last_reviewed: 2026-08-17
 University of Alabama at Birmingham (UAB) Comprehensive Cancer Center
 Senior Leader
 
+<!-- tah-tables:start -->
+## Education
+- Taiwan National Chengchi University — 1966 — B.S. Statistics
+- Oregon State University — 1970 — M.S. Statistics
+- University of Alabama at Birmingham. — 1976 — Ph.D. Biostatistics
+
+## Employment
+- University of Alabama at Birmingham (UAB)’s Comprehensive Cancer Center — Senior Leader
+- ,Annals of Surgical Oncology — 2009 — Biostatistics Consultant Editor
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Hui-Ling Hsu is a Taiwanese violist. Ms. Hsu earned her B.A. from Soochow University in Taiwan and her Master Degree of Music from San Diego State University. Ms. Hsu won many competitions and attend many music festivals in Taiwan and United States. Ms. Hsu is now completing her Artist Diploma at San Diego State University, where she serves as the principal violist of the San Diego State University Symphony Orchestra. She is currently under the tutelage of Dr. Chi-Yuan Chen.
 
+<!-- tah-tables:start -->
+## Education
+- Soochow University — B.S. Music
+- San Diego State University — M.S. Music
+
+## Employment
+- San Diego State University Symphony Orchestra — Principal Violist
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Daughter:** ?

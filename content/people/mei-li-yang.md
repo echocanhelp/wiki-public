@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of North America Taiwanese Women’s Association (北美洲台灣婦女會會長) 2004-2005
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1974 — B.S.,Economics
+- North Carolina State Univ. — 1985 — M.S.,Computer Science
+
+## Employment
+- Sprint — (1987-2009) — Community — North America Taiwanese Women's Association (北美洲台灣婦女會) — President — Sister Schools Program between Lan-Yang Girls' High School (蘭陽女中) and Kansas Blue Valley North High School — Coordinator — Taiwanese American Community Scholarship Project / Kansas Area — Coordinator
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Ken Yang

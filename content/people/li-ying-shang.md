@@ -21,6 +21,18 @@ last_reviewed: 2026-08-17
 
 Li-Ying Shang, a well-known soprano in the Taiwanese church community, was born in the Tainan prominent Shang family that has a long tradition of celebration of classical music.
 
+<!-- tah-tables:start -->
+## Education
+- 東海大學
+- 伊利諾州立大學 — B.S. 數學
+
+## Employment
+- 電腦程式與資料壘 — 分析設計師
+- 南加州台灣人長老教會聖樂團 — 1991-1997 — 指揮
+- 擔任台南YMCA合唱團 — 2002 — 指揮
+- 洛杉磯福爾摩莎聖樂合唱團指揮
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

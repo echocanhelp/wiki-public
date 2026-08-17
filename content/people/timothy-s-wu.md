@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Timothy S. Wu (吳獻章博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1979 — B.S. 士木
+- 台灣大學 — 1983 — M.S. 士木
+- 伊利諾大學香檳城 — 1989 — Ph.D. 理論應用力學
+- 芝加哥三一神學院 — 1992 — M.S. 道學
+- 國芝加哥三一神學院 — 1995 — Ph.D. 舊約神學
+
+## Employment
+- 中華福音神學院 — 1995- — 教授, 專任老師, 研發部部長,教牧博士科主任
+<!-- tah-tables:end -->
 
 ## Family
 

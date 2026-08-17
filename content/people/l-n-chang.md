@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician, educator
 - **Source:** TAH Foundation Who’s Who
 
-L. N. Chang (張麗娜) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Loma Linda University — 1986 — Bachelor — Loma Linda University — 1988 — MPH — Loma Linda University — 1992 — DDS
+
+## Employment
+- Western Dental — 1992-1996 — General Dentist — University of Mississippi School of Dentistry — 1996-2001 — Clinical Instructor — Mississippi Department of Corrections — 2001-2004 — General Dentist — Cincinnati VA Medical Center — 2004-Present — General Dentist
+<!-- tah-tables:end -->
 
 ## Family
 

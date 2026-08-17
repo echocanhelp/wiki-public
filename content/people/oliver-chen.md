@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Managing Director and Senior Equity Research Analyst Covering Retail and Luxury Goods of Cowen 2014-Present
 
+<!-- tah-tables:start -->
+## Education
+- Georgetown Univ. — B.S., Business Administration
+- Wharton school/ Univ. of Pennsylvania — MBA Business Administration
+
+## Employment
+- Cowen and Company — Managing Director and Senior Equity Research Analyst — (2014-) — Citigroup Investment Research — Vice President — (2007-2014)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Father:** Ram Chen

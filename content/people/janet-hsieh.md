@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 獲第46屆金鐘獎行腳節目主持人獎, 2011 (Winner of 46th Golden Bell Award for Travel Program Host, 2011)
 
+<!-- tah-tables:start -->
+## Education
+- Massachusetts Institute of Technology — B.S. Biology and Spanish
+
+## Employment
+- 電視旅遊頻道"Fun Taiwan" — Present — 主持人
+- Present — TV Host, model, author, musician
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** George Young

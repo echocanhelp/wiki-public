@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
-Martha Hsu (許秀聰) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 西點軍校 — 1991 — B.S.
+- 北卡羅來納州立大學 — M.S.政治學
+
+## Employment
+- 北卡羅來納州立大學 — 助教
+- 美軍駐南韓第八軍團 — Present — 策略計畫師
+<!-- tah-tables:end -->
 
 ## Family
 

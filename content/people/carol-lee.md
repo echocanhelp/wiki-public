@@ -19,7 +19,11 @@ last_reviewed: 2026-08-17
 - **Core roles:** artist
 - **Source:** TAH Foundation Who’s Who
 
-Carol Lee (李欣蔓) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 京都精華大學(日本) — 2004 — B.A., Art
+<!-- tah-tables:end -->
 
 ## Family
 

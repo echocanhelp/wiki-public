@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Shin Tson Wu (吳詩聰博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan University — B.S., Physics
+- University of Southern California — Ph.D. Laser Physics
+
+## Employment
+- Hughes Research Laboratories — 主導研究工作
+- University of Central Florida — 2001 — Professor
+<!-- tah-tables:end -->
 
 ## Family
 

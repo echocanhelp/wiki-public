@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
-Cleo Chiang (江詩怡) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- University of Detroit — 1994 — M.A. Special Education
+
+## Employment
+- Uniform Industrial Corp — 2008 — Purchasing
+<!-- tah-tables:end -->
 
 ## Family
 

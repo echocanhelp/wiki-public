@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Dr. Jii (James) Shieh 謝己博士 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1964 — B.S., Agricultural Chemistry
+- Utah State Univ. — 1972 — Ph.D., Biochemistry
+- Univ. of Hawaii — 1976 — Biochemistry& Biophysics in Postdoc
+
+## Employment
+- Boston University — Research Assistant Professor — (1976-1980) — Army Natick R & D Center — Chemist, Researcher — (1976-1980) — US Department of Agriculture — Chemist — (1980-2015) — Community — Taiwanese American Association / Great Philadelphia Area — President — TAC/EC TANG — Coordinator — International Atomic Energy Agency (IAEA) — Consultant
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Clara Shiao-Fang Shieh (黃小芳)

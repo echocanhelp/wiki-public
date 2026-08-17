@@ -19,7 +19,11 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Philip Lin (林水泉) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Employment
+- 碾米廠 — Owner
+<!-- tah-tables:end -->
 
 ## Family
 

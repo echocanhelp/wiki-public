@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 1984年，陳氏獲得馬利蘭大學音樂博士學位後，留校任教。主要師承音樂理論大師Dr. Asher Zlotnik(現代樂宗師Bela Bartok的再傳弟子)及名作曲家Joseph Castaldo(美國Philadelphia University of Arts的校長)，之後亦隨美國當今管弦樂配器法專家Charles Gallagher研習。
 
+<!-- tah-tables:start -->
+## Education
+- 中國文化學院 — 1972 — B.S.
+- 愛荷華州Kent州立大學研究所 — 1978 — M.S. Musiic
+- University of Maryland College Park — 1984 — Ph.D. Musical Arts
+
+## Employment
+- Potomac Music Studio — 1999-Present — Composer
+- University of Maryland College Park — Professor
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

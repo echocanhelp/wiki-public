@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Jia-Ru Li (李佳儒) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- University of Illinois — Ph.D. — year — year
+
+## Employment
+- LILEE System — Present — CEO
+- Sigma Resources and Technologies — 技術協理
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 3. Professor of Univ. of Hawaii College of Tropical Agriculture and Human Resource
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.S.
+- Michigan State Univ. — 1966 — Ph.D.
+
+## Employment
+- UH College of Tropical Agriculture and Human Resource — Professor and Researcher — (1969-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Chairman of Many Review Boards of the National Institutes of Health 1983-1997
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1970 — M.D.
+- Virginia School of Medicine — 1975 — Ph. D., Pharmacology
+
+## Employment
+- Medical Univ. of South Carolina, Brain Neurology — Assistant & Associate Professor — (1981-1989) — Baylor College of Medicine, Brain Neurology — Associate Professor — (1989-1993) — Washington Univ. in St. Louis, Brain Neurology — Professor — (1993-) — Taipei Medical Univ. — Principal — (2002-) — Community — North American Taiwanese Professors' Association — President — National Institutes of Health Review Boards — Chairman — American Heart Association Bouguer Stroke Research Award Review Board — Chairman
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

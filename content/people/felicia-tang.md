@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Tang, Chien-Yuh 唐千畬, B.M., M.M. in piano performance, The Juilliard School. Ms. Tang was born in Kaohsiung City, Taiwan. In 1981, she was officially recognized by the R.O.C. Ministry of Education as a “Gifted Child in the Performing Arts.” Ms. Tang came to the U.S. in 1981, and studied under Martin Canin and Kathrine Parker at the Juilliard School. She has since won numerous music competitions and awards. Ms. Tang has performed with the Philadelphia Orchestra, Queens Symphony Orchestra, Lansdowne Symphony Orchestra, NYCCC Dance Company, etc., and was profiled in ABC News, CBS News, television show Vision, and newspapers Courier Post, World Journal, etc. Ms. Tang has performed in Avery Fisher Hall, Lincoln Center, The Juilliard Theater, Mann Music Center, Tribeca Theater, the United Nations, and many other concert halls in the U.S. Ms. Tang currently teaches at the Renaissance Music and Arts School in New York.
 
+<!-- tah-tables:start -->
+## Education
+- The Juilliard School — year — B.S.
+- The Juilliard School — year — M.S.piano
+
+## Employment
+- Superbrain — Teaching piano
+- 紐約”小亞歷音樂美術學院” — Teaching pino
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

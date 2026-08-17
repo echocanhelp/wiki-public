@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-M. L. Chen (陳夢蘭) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 京都同志社大學畢業 — B.S.
+
+## Employment
+- 第一銀行
+<!-- tah-tables:end -->
 
 ## Family
 

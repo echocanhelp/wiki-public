@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Theodore Ted Wing (溫庭宇) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Texas A&M University — 2013 — M.S.
+
+## Employment
+- Gradalis Inc. — present — Surgical Training Specialist
+<!-- tah-tables:end -->
 
 ## Family
 

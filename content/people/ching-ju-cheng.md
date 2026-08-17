@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Ching-Ju Cheng, Harpist and Pianist. Born in Kaohsiung City, Taiwan. She received her Bachelor degree from Taipei National University of Arts, Master of Music degree from Peabody Conservatory and Doctor of Music Arts in University of Maryland.
 
+<!-- tah-tables:start -->
+## Education
+- 台北藝術大學 — B.S.
+- Peabody Conservatory — M.S.
+- University of Maryland — Ph.D. music arts
+
+## Employment
+- private music studio — present — Harp & Piano teacher
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

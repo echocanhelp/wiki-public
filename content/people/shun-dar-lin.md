@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 1. Water Quality Division Best Paper Award for “Giardia lamblia and Water Supply” from the American Water Works Association, 1986
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1958 — B.S., Civil Engineering
+- Univ. of Cincinnati — 1964 — M.S., Sanitary Engineering
+- Syracuse Univ. — 1967 — Ph. D., Sanitary Engineering
+
+## Employment
+- Illinois Pollution Control Board — 2008 - 2010 — One of 5 board members
+- University of Illinois at Urbana-Champaign — 1967 - 2002 — Professor Emeritus
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Mei-Ling Chang Lin 林章美玲

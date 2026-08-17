@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. First Taiwan Born U.S. Judge as the Magistrate Judge for the Eastern District of New York
 
+<!-- tah-tables:start -->
+## Education
+- Yale Univ. — 1985 — B.S., Summa Cum Laude
+- Harvard Law School — 1988 — J.D., Cum Laude
+
+## Employment
+- U.S. Attorney's Office, District of Columbia — Assistant District Attorney — (1989-1993) — Criminal Section, U.S. Department of Justice, Civil Rights Division — Acting Deputy Chief/Trial Attorney — (1994-1998) — United Nations International Criminal Tribunal Court in Hague — Prosecutor — (1998-2002) — WilmerHale, LLP — Counsel — (2002-2005) — New York Stock Exchange — Chief Hearing Officer — (2005-2011) — New York City Office of Administrative Trials and Hearings — Deputy Commissioner and General Counsel — (2011-2015) — Eastern District of New York — U.S. Magistrate Judge — (2015-) — Community — Federal Bar Council American Inn of Court — Former President — Manhattan Legal Services — Former Vice-Chair
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Father:** 郭鐘概

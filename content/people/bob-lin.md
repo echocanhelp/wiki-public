@@ -19,7 +19,11 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Bob Lin (林志文) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Univ. of Illinois at Urbana Champaign — B.S., Chemistry
+<!-- tah-tables:end -->
 
 ## Family
 

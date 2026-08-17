@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Professor (1995-), Chairman (1995-2000), Dwight F. Benton Professor (2002-), Chemical Engineering Department
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1964 — B.S., Chemical Engineering
+- Yale Univ. — 1968 — M.A., Chemical Engineering — 1971 — Ph.D., Chemical Engineering
+
+## Employment
+- National Science Foundation — Program Director, Separation and Purification Program — (1987-1988) — Univ. of Michigan — Professor, Chemical Engineering Department — (1995-) — Univ. of Michigan — Chairman, Chemical Engineering Department — (1995-2000) — Univ. of Michigan — Dwight F. Benton Professor, Chemical Engineering Department — (2002-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

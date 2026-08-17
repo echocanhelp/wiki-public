@@ -19,7 +19,23 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Tsong-Yue Lai (賴聰域教授) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1971 — B.S., Mathematics
+- The Univ. of Rochester — 1977 — M.A., Economics
+- State Univ. of New York at Buffalo — 1980 — M.B.A. Finance and Management Science
+- Yale Univ. — 1981 — M.A., Finance
+- Yale Univ. — 1982 — M.Phil., Finance
+- Yale Univ. — 1983 — Ph.D., Finance
+
+## Employment
+- University of Florida — 1983 — Visiting Assistant Professor
+- Florida State University — 1984 — Assistant Professor
+- Kansas State University — 1988 — Associate Professor
+- California State University-Fullerton — 1991-2012 — Professor
+- California State University-Fullerton — 2013- — Emeritus Professor
+<!-- tah-tables:end -->
 
 ## Family
 

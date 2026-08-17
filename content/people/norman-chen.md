@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Norman Chen is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- University of Virginia School of Medicine — M.D.
+- Massachusetts Institute of Technology — M.S.
+
+## Employment
+- University of California San Diego — Residency , Radiology
+- Rady Children's Hospital — present — radiologist
+- Sharp Chula Vista Medical Center — radiologist
+<!-- tah-tables:end -->
 
 ## Family
 

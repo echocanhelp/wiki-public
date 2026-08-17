@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 I-Chun (Catherine) Chang 張儀君教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Kaohsiung Normal Univ. — 2001 — B.A., Geography
+- National Taiwan Univ. — 2006 — M.S., Geography
+- Univ. of Minnesota — 2015 — Ph.D., Geography, Environment and Society
+
+## Employment
+- Kaohsiung Municipal Fu Cheng Senior High School — Geography Teacher — (2001-2002) — Kaohsiung Municipal Chung-Cheng Industrial High School — Geography Teacher — (2002-2006) — Macalester College — Assistant Professor — (2015-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Aspen Chen

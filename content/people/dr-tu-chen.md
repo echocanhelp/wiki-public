@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of Taiwanese Association of America (TAA) (全美台灣同鄉會會長) 1983~1984
 
+<!-- tah-tables:start -->
+## Education
+- National Cheng Kung Univ. — 1958 — B.S., Metallurgical Engineering
+- Univ. of Minnesota — 1964 — M.S., Metallurgical Engineering
+- Univ. of Minnesota — 1967 — Ph.D., Metallurgical Engineering
+
+## Employment
+- Northrop — Senior Scientist — (1968-) — Xerox Palo Alto Research Center (PARC) — Researcher — (1971-) — Komag Inc. — Co-founder and Chairman — (1983-1999) — Headway Corporation — Co-founder and Vice Chairman — (1996-2001) — Community — Taiwanese Association of America (TAA) — President (1983-1984) — World Federation of Taiwanese Associations (WFTA) — President (1983-1987) — Formosan Association for Public Affairs (FAPA) — Board of Director (1982-1986, 2003-2007)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Pi-Fang Nancy

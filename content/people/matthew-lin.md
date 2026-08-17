@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Matthew Lin (林元清博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台北醫學院 — B.S. 醫學
+
+## Employment
+- 聖瑪利諾 — 市長
+- 信安醫院 — 院長
+<!-- tah-tables:end -->
 
 ## Family
 

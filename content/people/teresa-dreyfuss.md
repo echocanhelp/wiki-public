@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Teresa Dreyfuss is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 中國文化學院 — B.S.
+- Laverne 大學 — M.B.A.
+
+## Employment
+- Rio Hondo College — 2013- — Superintendent/President
+- Rio Hondo College — Vice President, Finance and Business
+- Rio Hondo College — 1987- — Teaching
+- Riverside Community College District — Director of Business
+<!-- tah-tables:end -->
 
 ## Family
 

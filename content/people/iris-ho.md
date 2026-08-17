@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Iris Ho (何燕青) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣政治大學 — B.S. 土耳其語文學系
+- 喬治華盛頓大學 — M.S.國際事務
+
+## Employment
+- 立委蔡同榮 — 1998 — 助理
+- 「台灣人公共事務會」(FAPA) — 2000- — 新聞發言人
+<!-- tah-tables:end -->
 
 ## Family
 

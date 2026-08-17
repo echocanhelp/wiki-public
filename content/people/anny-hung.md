@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Won First Place for City Song Composition Competition in Kaohsiung, Taiwan and Publishing Music CDs.
 
+<!-- tah-tables:start -->
+## Education
+- University of Music and Performing Arts in Vienna — ­ — B.S.
+
+## Employment
+- Anny Hong Music Studio — ­ — 鋼琴老師
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Son:** ­

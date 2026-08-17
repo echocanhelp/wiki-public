@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Founded Taiwan Hotel & Motel Association of Southern California (創立南加州台灣旅舘同業公會), 1973
 
+<!-- tah-tables:start -->
+## Education
+- Taichung Agricultural College (台中農學院) — B.A., Agricultural Economy
+- Ohio State Univ. — M.A., Agricultural Economy
+
+## Employment
+- Self-Employed (Motel) — Owner — Community — Taiwan Hotel & Motel Association of Southern California — Founding President
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

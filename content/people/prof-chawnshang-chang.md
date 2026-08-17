@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Prof. Chawnshang Chang 張傳祥教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1978 — B.S, Agriculture Chemistry
+- Univ. of Chicago — 1985 — Ph.D., Biochemistry & Molecular Biology
+
+## Employment
+- University of Rochester — Professor in Pathology and Urology — George H. Whipple Laboratory for Cancer Research, University of Rochester — Director
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Amly

@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Huang was born in Japan, of Taiwanese parents, in 1982. Her family moved to the United States in 1985 and Huang began her piano study in 1987. She attended the Manhattan School of Music, and then the Juilliard School, where she studied with the Israeli pianist Yoheved Kaplinsky, graduating in 2004.
 
+<!-- tah-tables:start -->
+## Education
+- The Juilliard School — 2004 — B.S. Music
+- 耶魯大學 — M.S. Music
+
+## Employment
+- Juilliard — 2008-Present — Teaching
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

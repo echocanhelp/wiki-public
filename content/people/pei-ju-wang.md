@@ -21,6 +21,13 @@ last_reviewed: 2026-08-17
 
 Pei-Ju was born in Taipei, Taiwan in 1980. After graduated from “Dun-Hwa” music elementary school in the age of eight, Pei-Ju kept studying music in “Nan-Men” junior high school and “The affiliated senior high school of normal Taiwan Normal University” (HSNU). In 1998, Pei-Ju graduated from senior high school and decided to learn more western music in USA. Under the private lesson teacher Robert Davidavich and Ivan Chan in Florida International (FIU), Pei-Ju received full scholarship during his undergraduate, and also won the concerto competition in 2000. Pei-Ju finished his master degree in FIU with TA scholarship, and a DMA in UMKC with full scholarship.
 
+<!-- tah-tables:start -->
+## Education
+- Florida International University — B.S. Music
+- . Florida International University — M.S. Music
+- University of Missouri, Kansas City — Ph.D. Music
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

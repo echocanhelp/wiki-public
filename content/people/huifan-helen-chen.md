@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Huifan Helen Chen is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Curtis Institute of Music — B.A. Music
+- University of Miami — M.S. Music
+
+## Employment
+- University of Miami — Professor
+<!-- tah-tables:end -->
 
 ## Family
 

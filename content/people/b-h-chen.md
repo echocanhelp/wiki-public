@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** journalist, artist
 - **Source:** TAH Foundation Who’s Who
 
-B. H. Chen (陳炳煌) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 上海聖約翰大學 — B.S.
+- 紐約大學 — 1930 — M.S.
+
+## Employment
+- 台灣新民報 — 1931- — 上海支局長
+- 豐年雜誌 — 1951-1963 — 編輯,副社長
+- 台灣旅行社 — 總經理
+<!-- tah-tables:end -->
 
 ## Family
 

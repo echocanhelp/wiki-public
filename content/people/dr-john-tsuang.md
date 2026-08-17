@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 University of California at San Diego
 Clinical Professor; Director of the Dual Diagnosis Treatment Program
 
+<!-- tah-tables:start -->
+## Education
+- Wheaton College, IL — 1982 — B.S., Psychology
+- Univ. of Iowa — 1987 — M.D.
+
+## Employment
+- University of California at San Diego — Residency and Fellowship — University of California at San Diego — Clinical Professor; Director of the Dual Diagnosis Treatment Program — Geffen School of Medicine at UCLA — Clinical Professor, Dept. of Psychiatry — Harbor-UCLA Medical Center — Director, Dual Diagnosis Treatment Program — The Lundquist Institute — Investigator
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Father:** 莊明哲

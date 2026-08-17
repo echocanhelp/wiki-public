@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Dr. Priscilla Peilan Chiu 邱佩蘭醫師 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- Univ. of Pennsylvania — B.S.
+- Drexel Univ. College of Medicine — 2002 — M.D.
+
+## Employment
+- Hospital of University of Pennsylvania
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Joe Chou (周景聲) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 史丹福大學 — M.S. — 2. — M.S.道學碩士
+
+## Employment
+- 1 — 藥劑師
+- 愛恩台福教會 — 牧師
+<!-- tah-tables:end -->
 
 ## Family
 

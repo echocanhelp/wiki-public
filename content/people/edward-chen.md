@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
-Edward Chen (陳以德博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1952 — B.S.政治
+- 費城賓州大學 — Ph.D.
+
+## Employment
+- Teaching
+<!-- tah-tables:end -->
 
 ## Family
 

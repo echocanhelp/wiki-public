@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 劉杏芳(Cindy Liu) 老師. 她是台灣桃園楊梅人。新竹師範學院畢業後，來美，在北德大獲得豎笛演奏碩士。目前擔任台心合唱團。年紀輕輕的她，可是位經驗豐富，敬業又風趣可愛的指揮。
 
+<!-- tah-tables:start -->
+## Education
+- 新竹師範學院 — B.S.
+- 北德州大學 — M.S.豎笛
+
+## Employment
+- 台心合唱團
+- Plano ISD及Frisco ISD — 指揮 — 豎笛指導老師
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

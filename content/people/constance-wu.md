@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Constance Wu is an American actress born on March 22, 1982, in Richmond, Virginia, to Taiwanese immigrant parents. In 2005, she earned a B.F.A. in Acting from the State University of New York at Purchase and built her early career in theater before transitioning to television and film.
 
+<!-- tah-tables:start -->
+## Education
+- New York State Univ. — 2005 — B.S. Fine Arts
+
+## Employment
+- Fresh Off the Boat — Lead Actor — (2015-2020) — Crazy Rich Asians — Lead Actor — (2018-2018) — Works & Documents — Making a Scene
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Father:** Fang-Sheng Wu

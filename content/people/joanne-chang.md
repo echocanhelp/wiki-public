@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 出生於台灣台北市，張瓊文(Joanne Chang)是居住於美國紐約市的鋼琴家。張瓊文活躍於全球五大洲，演奏形態包括鋼琴獨奏、各種室內樂並與交響樂團合作。在1995年，張瓊文於澳洲(Australia)舉行首次鋼琴獨奏， 接著於德國石荷州音樂節(Die Stiftung Schleswig-Holstein Musik Festival)和紐約卡內基音樂廳舉行鋼琴獨奏。同時與台北市立交響樂團於國家音樂廳合作首演亨德密特《鋼琴協奏曲Four Temperament》。
 
+<!-- tah-tables:start -->
+## Education
+- 澳洲昆士蘭音樂學院 — B.S. Music
+- 美國曼哈頓音樂學院 — M.S. Music
+- 哥倫比亞大學 — Ph.D. Music
+
+## Employment
+- 美國紐約市立大學音樂學系 — Present — 專任副教授
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

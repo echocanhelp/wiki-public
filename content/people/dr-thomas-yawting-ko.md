@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Dr. Thomas Yawting Ko 柯耀庭醫師 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- Taipei Medical Univ. (臺北醫學大學) — 1971 — M.D.
+
+## Employment
+- Doctors Community Hospital — Director of Cardiac Catheterization Office — Community — NATMA / Washington D.C. Chapter — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 柯美雲

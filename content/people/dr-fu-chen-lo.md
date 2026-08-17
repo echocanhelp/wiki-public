@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 3. President of Taiwanese Association of America / Greater Philadelphia Chapter (大費城台灣同鄉會會長) 1964
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1958 — B.A. Economy
+- Waseda Univ.(早稻田大學) — 1963 — M.S. Economy
+- Univ. of Pennsylvania — 1964 — 1968 — M.S. Economy — Ph.D. Regional Science
+
+## Employment
+- Consad Research Co. — Researcher — (1968-) — United Nations Centre for Regional Development — Director — (1973-) — United Nations Development Programme (聯合國開發計劃署) — Economic Consultant — (1975-1978) — United Nations University — Chief Academic Review Officer, Senior Academic Reviewer, Deputy Director of Institute of Advanced Studies, Honorary Professor — Taipei Economic and Cultural Representative Office in Japan (台北駐日經濟文化代表處) — Ambassador — (2000-2004) — Taiwan-Japan Relations Association (臺灣日本關係協會) — President — (2004-2007) — Community — Taiwanese Association of America / Greater Philadelphia Chapter (大費城台灣同鄉會) — President (1964) — United Formosans in America for Independence — Co-Founder (1966) — Taiwan Tribune (台灣公論報) — First Publisher (1981)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** [[people/tah-p-e00ace0a3a|毛清芬]]

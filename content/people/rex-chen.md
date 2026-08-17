@@ -3,7 +3,7 @@ title: "Rex Chen (陳乃光)"
 type: person
 tags: []
 verification_status: pending
-last_reviewed: 2026-07-08
+last_reviewed: 2026-08-17
 ---
 # Rex Chen (陳乃光 / Chen Nai-Guang)
 
@@ -74,6 +74,15 @@ Pages that link to **陳乃光** (rex-chen):
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rex-chen/)
+
+<!-- tah-tables:start -->
+## Education
+- 東吳大學 — B.S.會計
+- Central Oklahoma State University — M.S.
+
+## Employment
+- Crrection Department, Oklahoma — 專員 — 陳財元會計師事務所 — owner
+<!-- tah-tables:end -->
 
 ## Family
 

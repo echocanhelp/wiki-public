@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Evan Ling (林富文博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Cheng Kung Univ. (成功大學) — 1961 — B.S., Mechanical Engineering
+- Auburn Univ. — 1968 — M.S., Mechanical Engineering
+- Georgia Technology — 1970 — Ph.D.
+
+## Employment
+- Merrill Lynch — Financial Advisor — (1988-2015) — UBS — Financial Advisor and Portfolio Manager — (2015-) — Community — Taiwanese American Association (TAA) Atlanta Chapter — Founding President — Up State New York FAPA — Founding President — Dr. Chen Wen-chen Memorial Foundation — Founding President — FAPA — Member and Committee — FAPA — Fund Chair — Shengdong Life Forum — Founding Member
+<!-- tah-tables:end -->
 
 ## Family
 

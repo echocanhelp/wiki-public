@@ -19,7 +19,11 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, scientist
 - **Source:** TAH Foundation Who’s Who
 
-Jason Yang (楊憶軍) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Stony BrookUniversity — M.S. 材料科學與工程
+<!-- tah-tables:end -->
 
 ## Family
 

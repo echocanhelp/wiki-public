@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Sarolina Chang (沈麗華) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Fu Jen University, Taiwan 輔仁大學 — Year1973 — Degree/MajorMA, 西洋史碩士 — University of Notre Dame — 1975 — MA, 美國史碩士
+
+## Employment
+- Schoolcraft College, Michigan — 2001- present — Library Assistant
+<!-- tah-tables:end -->
 
 ## Family
 

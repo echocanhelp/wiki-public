@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, scientist
 - **Source:** TAH Foundation Who’s Who
 
-Shih Yaw Lai (賴世耀博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 大同工學院 — B.S. 化工系
+- 辛辛那堤大學 — M.S. 化工系
+- 密西根大學 — 1986 — Ph.D.
+
+## Employment
+- Dow Chemical
+<!-- tah-tables:end -->
 
 ## Family
 

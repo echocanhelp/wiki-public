@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 Born in 1954 at Qing-Shui, Taichung County. Graduated from National Taiwan Normal University, Oil Paint Major.
 
+<!-- tah-tables:start -->
+## Education
+- 國立師範大學 — year — M.S.美術
+
+## Employment
+- 世界新聞專科學校 — 美術社團指導老師
+- 南強工商 — 美工科教師
+- 銘傳管理學院 — -r — 商設系教師
+- Present — 專業畫家
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

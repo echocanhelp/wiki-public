@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 The University of Texas Health Science Center at Houston
 Ph.D., Statistics and Epidemiology
 
+<!-- tah-tables:start -->
+## Education
+- The Univ. of Texas Health Science Center at Houston — Ph.D., Statistics and Epidemiology
+
+## Employment
+- Texas University — Professor — Shell Oil Company — Epidemiologist
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

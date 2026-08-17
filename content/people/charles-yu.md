@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Charles Yu (游朝凱) is a novelist, short story writer, and screenwriter born in Los Angeles in 1976 to parents who emigrated from Taiwan. Raised in a Taiwanese American household in Southern California, he studied molecular and cellular biology at UC Berkeley before earning his law degree from Columbia Law School. He built a legal career at firms including Sullivan & Cromwell and Bryan Cave before transitioning to entertainment, serving as Director of Business Affairs at Digital Domain and associate general counsel at Belkin International, eventually leaving law behind entirely to write fiction and television full time.
 
+<!-- tah-tables:start -->
+## Education
+- Univ. of California, Berkeley — B.S., Molecular and Cellular Biology
+- Columbia Univ. School of Law — J.D.
+
+## Employment
+- Bryan Cave — Attorney — Author — Screenwriter — Works & Documents — Third Class Superhero — How to Live Safely in a Science Fiction Universe — Sorry Please Thank you: Storeis — Yeoman — Interior Chinatown — Interior Chinatown (TV Series) — The Only Living Girl on Earth
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Michelle

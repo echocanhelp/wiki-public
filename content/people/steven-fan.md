@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Steven Fan (范盛裕) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Chung Hsing Univ. — B.S., Environmental Engineering
+- Univ. of Southern California. — M.S., Environmental Engineering
+
+## Employment
+- Hyperion Treatment Plant, City of Los Angeles — Plant Manager
+<!-- tah-tables:end -->
 
 ## Family
 

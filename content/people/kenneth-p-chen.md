@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Kenneth P. Chen (陳秉虔博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1956 — B.S., Chemical Engineering
+- Univ. of Minnesota — 1965 — Ph.D., Chemical Engineering
+
+## Employment
+- Whirlpool Corp. — Engineer
+<!-- tah-tables:end -->
 
 ## Family
 

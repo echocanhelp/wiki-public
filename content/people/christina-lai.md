@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Taiwan Theological College and Seminary (台灣神學院)
 Teaching Assistant of Music Dept.
 
+<!-- tah-tables:start -->
+## Education
+- Taiwan Theological College and Seminary (台灣神學院) — B.S., Music
+
+## Employment
+- Taiwan Theological College and Seminary (台灣神學院) — Teaching Assistant of Music Dept. — New York Formosa Chorus (紐約福爾摩沙合唱團) — Music Director — Community — Formosa Performing Arts Association (福爾摩沙表演藝術協會) — Director
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** 賴懿文

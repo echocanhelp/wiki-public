@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor
 - **Source:** TAH Foundation Who’s Who
 
-Chih-cheng Wang (王志成) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan University — BS/Agricultural Chemistry — Purdue University — MS/Biochemistry — Purdue University — PhD/Biochemistry
+
+## Employment
+- Vanderbilt University — Postdoctoral Fellow/Assistant Professor — Southern Research Institute — Senior Research Scientist — ICN Radiochemicals — Quality Control Director
+<!-- tah-tables:end -->
 
 ## Family
 

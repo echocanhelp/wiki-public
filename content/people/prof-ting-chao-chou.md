@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Prof. Ting-Chao Chou 周廷潮教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- Kaohsiung Medical Univ. (高雄醫學大學) — B.S., Pharmacy
+- National Taiwan Univ. College of Medicine — M.S., Pharmacy
+- Yale Univ. — Ph.D.
+
+## Employment
+- Memorial Sloan Kettering Cancer Center — Director — Cornell University — Professor — (1973-2013) — Chinese Academy of Medical Sciences — Honorary Professor
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

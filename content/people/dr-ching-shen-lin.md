@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Ching-Shen Lin (林清森醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. College of Medicine — 1953-1960 — M.D.
+
+## Employment
+- Mount Sinai School of Medicine — Associate Professor of Pathology — (1989-1999) — Mount Sinai Medical Center at NYC — Director of Autopsy Services — (1989-1999) — Lin Pathology Publishing Company — Retired Physician
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** lawyer
 - **Source:** TAH Foundation Who’s Who
 
-C. A. Chou 哲 安 (周明安博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S. 醫學
+- 日本應慶大學 — M.S. 法學
+- 杜克大學 — 1969 — M.S. 法學
+- Seton Hall大學 — 1978 — Ph.D.法學
+
+## Employment
+- .律師事務所 — 律師
+<!-- tah-tables:end -->
 
 ## Family
 

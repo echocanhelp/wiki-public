@@ -21,6 +21,19 @@ last_reviewed: 2026-08-17
 
 Compositions of Ke-Chia Chen have been performed by leading orchestras, chamber ensembles and soloists throughout the United States, Japan and Taiwan. Her music has been programmed at a variety of different venues including Carnegie Hall (Song of the Wanderer, for clarinet and piano), WHYY radio in Philadelphia (The Desires, for viola and double string quartet) and the Delaware Symphony Orchestra’s Miles of Manuscript ~ A New Music Concert, hosted by David Lang (Rhapsody of Seasons for string quartet). Her work To An Isolated Island, for piano solo can be heard on the Amillita Entertaining Group release, Formosa: 24 Caprices for solo piano, featuring piano soloist, Chih-long Hu.
 
+<!-- tah-tables:start -->
+## Education
+- Curtis Institute of Music — B.S.Composition
+- the Manhattan School of Music — M.S. Composition
+- University of Pennsylvania — Ph.D.Composition
+
+## Employment
+- New York based orchestra Ensemble — Assistant Conductor
+- New York Youth Symphony; — Composer-in-residence
+- Curtis Institute of Music — 2010- — Faculty
+- Brooklyn’s “Concerts on the Slope”, chamber music ensemble — 2016-2017 — Composer-in-residence
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

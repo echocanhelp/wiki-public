@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Prof. Trong-Rong Tsai 蔡同榮教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1958 — B.S., Law
+- Univ. of Tennessee — 1962 — M.S., Politics
+- Univ. of Southern California — 1969 — Ph.D., Politics
+
+## Employment
+- St. Francis College — Assistant Professor — (1969-1978) — The City University of New York, Political Department — Tenured Professor — (1978-1993) — Community — World United Formosans for Independence — First President — Formosan Association for Public Affairs (FAPA) — First President — Association for A Plebiscite in Taiwan — Founder and Advocator — Formosa Television (民間全民電視股份有限公司) — Founder — Legislative Yuan, Taiwan — Member (立法委員) 1993-2012
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 蔡麗蓉

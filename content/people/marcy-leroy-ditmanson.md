@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Source from 民報http://www.peoplenews.tw/news/ 6c2bd3e0-ff4d-441a-bbc1-2adbac c4d3eb
 
+<!-- tah-tables:start -->
+## Education
+- 燕京大學 — M.S. 史學
+- 明尼蘇達大學醫學院 — Ph.D. 醫學
+
+## Employment
+- 門諾醫院 — 醫師
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

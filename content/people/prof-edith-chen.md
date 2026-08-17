@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Co-Director of the Foundations of Health Research Center at Northwestern Univ.
 
+<!-- tah-tables:start -->
+## Education
+- Univ. of California, Los Angeles — Ph.D., Clinical Psychology
+- Harvard Univ. — B.A., History of Science
+
+## Employment
+- Northwestern University — Faculty Fellow and Professor of Psychology — (2012-) — University of British Columbia — Professor of Psychology and Canada Research Chair in Health and Society — (2003-2012) — Washington University — Assistant Professor — (2000-2003)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Greg

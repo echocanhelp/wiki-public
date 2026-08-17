@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 2. President of Taiwan Center Foundation of Greater Los Angeles(大洛杉磯台灣會館董事長) 2001-2004
 
+<!-- tah-tables:start -->
+## Education
+- 東海大學 — B.S. 化工系
+- UCLA — M.S. 系統工程
+- UCLA — 1971 — Ph.D. 系統工程
+
+## Employment
+- 美洲台灣日報社長 — 2004-President — 社長
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 王瑾瑾

@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist
 - **Source:** TAH Foundation Who’s Who
 
-Chung Nan Shih (施忠男) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 成功大學 — B.S.化學
+- 日本早稻田大學 — M.S.
+- indiana University — Ph.D. Organic Chemistry
+
+## Employment
+- 美國世界級的公司 — 專門處理全世界化學與化學工程的文獻和專利
+<!-- tah-tables:end -->
 
 ## Family
 

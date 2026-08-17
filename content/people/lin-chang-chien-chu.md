@@ -19,7 +19,11 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Lin Chang-Chien Chu (林張簡菊) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Showa Women's Pharmacy College (昭和女子藥學專門學校) — 1943 — B.S., Pharmacy
+<!-- tah-tables:end -->
 
 ## Family
 

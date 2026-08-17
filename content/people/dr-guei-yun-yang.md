@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Founder and First President of Taiwanese Hakka Association of California (加州台灣客家會創立會長) 1970
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Normal Univ. — B.S., Chemistry
+- Univ. of Pennsylvania — M.S., Chemistry
+- U.C. Santa Barbara — Ph.D., Chemistry
+
+## Employment
+- Mobile Petrochemical Company — Research Director — Community — Taiwanese Hakka Association of California — Founder and First President — Taiwanese Hakka Association of U.S.A. — Founder and First President — Taiwanese Hakka Association of the World (THAW) — Founder and First President
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

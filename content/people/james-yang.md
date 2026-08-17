@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-07-16
+last_reviewed: 2026-08-17
 ---
 # James Yang (楊榮勝)
 
@@ -28,6 +28,14 @@ last_reviewed: 2026-07-16
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/james-yang/)
+
+<!-- tah-tables:start -->
+## Education
+- UCLA — 1994 — B.S., Computer Science and Engineering
+
+## Employment
+- mobile forming, LLC — Co-Founder, Chief Operating Officer, and Partner — (2013-) — Ticketmaster/Live Nation — VP of Mobile Development — (2010-2013) — CSUN Youth Orchestra — Violinist — FPCLA Joint Adult and Youth Choir — Guest Conductor — UCLA Chinese Cultural Nights — Actor, Singer, Producer — Community — Lotus Foundation — Board of Directors / President
+<!-- tah-tables:end -->
 
 ## Family
 

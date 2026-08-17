@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** journalist
 - **Source:** TAH Foundation Who’s Who
 
-K. K. Chen (陳國坤) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 中原理工學院 — 1975 — B.S.心理學
+- West Georgia College — 1980 — M.S.心理學
+
+## Employment
+- 自由時報美東版 — present — 美洲中國時報、亞美時報、新亞時報、中國時報週刊、人間福報 — 1982
+<!-- tah-tables:end -->
 
 ## Family
 

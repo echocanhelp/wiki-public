@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 陳怡名醉心於室內樂表演。她在 Young-Nam Kim 教授的指導下，於 2004 年及 2007 年分別獲得碩士及博士學位! 她曾受邀參加明尼蘇達室內樂協會(Chamber Music Society of Minnesota) 的音樂會，以及午茶系列音樂會( Noontime series concert), 和許多受邀音樂家共同演出。在明大修習期間，她也是明大交響樂團的成員。她的四重奏曾入選為碩士班的課程。這四重奏也曾受邀到 2006 年的 Elliott Carter Festival 去演出。她目前從事教琴工作。
 
+<!-- tah-tables:start -->
+## Education
+- 東吳 — 學士 — 2明尼蘇達大學 — 2004 — 碩士
+- 明尼蘇達大學 — 2007 — 博士
+
+## Employment
+- University of Minnesota Symphony Orchestra — Member — Community — Chamber Music Society of Minnesota — Invited performer
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

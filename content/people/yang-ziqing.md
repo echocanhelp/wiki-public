@@ -22383,6 +22383,12 @@ Notable quotes and mentions of **楊子清** in Taiwan Justice articles:
 - [TAH #127 encyclopedia: 127. Cliff Yang 楊子清, Conductor / 2015/01](https://taiwaneseamericanhistory.org/127-cliff-yang-%e6%a5%8a%e5%ad%90%e6%b8%85-conductor-201501/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/cliff-yang/)
 
+<!-- tah-tables:start -->
+## Employment
+- Xerox
+- IBM
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Daughter:** Lisa Yang

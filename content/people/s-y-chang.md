@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-S. Y. Chang (張信義) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學醫學院 — 1966 — M.D.
+
+## Employment
+- Brockton VA Medical Center — 精神科醫師
+- 哈佛醫學院 — Teaching
+<!-- tah-tables:end -->
 
 ## Family
 

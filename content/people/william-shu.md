@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-William Shu (許子祥) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Northwestern Univ. — 2001 — B.S.
+- Wharton Business School — 2010-2012 — MBA
+
+## Employment
+- S.A.C. Capital Advisors — Analyst — Morgan Stanley — Investment Banking Analyst — (2001-) — Deliveroo — Co-founder and CEO — (2013-)
+<!-- tah-tables:end -->
 
 ## Family
 

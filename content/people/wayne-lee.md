@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Wayne Lee, a violinist originally from San Francisco, is an active chamber musician. Since 2012, he has been a member of the Formosa Quartet, a Taiwanese-American ensemble that has won acclaim worldwide since winning First Prize at the London International String Quartet Competition. In addition to serving as ensemble-in-residence for The Art of Élan, a San Diego arts-presenting organization, and as faculty string quartet-in-residence for the National Youth Orchestra of Canada, the members of the Formosa Quartet are founders and faculty members of the annual Formosa Chamber Music Festival in Hualien, Taiwan.
 
+<!-- tah-tables:start -->
+## Education
+- 茱麗亞音樂院 — Year??? — B.S. 音樂
+- 茱麗亞音樂院 — M.S. 音樂
+
+## Employment
+- 茱麗亞音樂院 — Present — 助教
+- 康乃爾大學, Covenant College, Hillsdale College, Iowa State University, SUNY Fredonia — Present — Teaching
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

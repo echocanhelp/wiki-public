@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Tong-Liang (Larry) Chen 陳東亮 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- 台南成功大學 — 1966-1970 — B.S.電機工程
+- N.J. Rutger's University — 1971-1974 — M.S.醫學工程
+- N.J. Dental School — 1974-1977 — Doctor of Dental Medicine
+
+## Employment
+- 開業牙醫師 — 1978-2014 — Dentist(36年開業)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 李夢梅

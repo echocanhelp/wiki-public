@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Eric (Teng-Kuan) Huang 黃騰寬 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- Private study with Ms. Hsin-Yi Chen (Director, Neo-Classic Chamber Ensemble) — Piano instruction — Private study with Dr. Pin-Huey Wang — Piano instruction
+
+## Employment
+- Church (Taiwanese Presbyterian Church of Washington) — Church Pianist, Sunday Worship — School Choir — Piano Accompanist — Greater Washington Taiwanese-American Chorus (GWTAC) — Piano Accompanist — Lingling Vocal Studio — Piano Accompanist — Lingling Choir Class — Piano Accompanist — Community — Church Sunday Worship — Pianist (from age 11) — School Choir — Accompanist at music festival (8th grade)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Coordinator of East Bay Taiwanese Americans Community Service Center (東灣台灣人社區服務中心主任)
 
+<!-- tah-tables:start -->
+## Education
+- National Normal Univ. — 1962 — B.S., Education
+- Northeast State Univ. of Missouri — 1966 — M.S. in Guidance
+- UCLA — 1970 — Ph.D., Counseling Psychology
+
+## Employment
+- Miami Dade Junior College, FL — Assistant Professor — (1971-) — South Carolina Dept. of Mental Health — Research Director and Clinical Psychologist — (1973-1989) — Tainan Teachers College (台南師範學院) — Guest Associate in Dept. of Elementary Education — (1989-) — Taipei City Teachers College (台北市立師範學院) — Guest Associate in Dept. of Elementary Education — (1990-) — National Chengchi Univ., Institute of Education — Adjunct Associate Professor — (1991-2000) — EBTACSC (東灣台美人社區服務中心) — Psychologist and Director — (2001-) — Community — East Bay Taiwanese Americans Community Service Center — Coordinator/Director — East Bay Taiwanese Americans Community Garden Club — Originator
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 平井征子

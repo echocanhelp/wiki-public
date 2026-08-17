@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 畢業於國立台灣師範大學音樂系，主修鋼琴演奏,副修聲楽。克萊蒙研究院音樂碩士，主修鋼琴教育及演奏。並拜師Profesor Chue-Lun Dai, Dr. John Bell, Dr. Donald Neuen,Dr. Charlene Archibeque 及Professor Elna Sharkkova學習合唱及管弦樂指揮。
 
+<!-- tah-tables:start -->
+## Education
+- 台灣師範大學 — B.S. Music
+- 克萊蒙研究院 — M.S. Music
+
+## Employment
+- 台福教會 — 指揮
+- 東安教會 — 指揮
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Father:** Cliff Yang, Mother: Nami Yang

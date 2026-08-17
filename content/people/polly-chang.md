@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Heartland Institute Financial Education, CPP-College Planning Program
 認證顧問 (Certified Consultant)
 
+<!-- tah-tables:start -->
+## Education
+- 中原大學 — B.S.企管
+- Rutgers University — M.S.財務管理
+
+## Employment
+- Heartland Instiute Financial Education, CPP-College Planning Program — Present — 認證顧問
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** 何君麟

@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-James Cheng (鄭乃榮) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — -1961 — BS, Civil Engineer
+- Brooklyn Poly — -1969 — MS, Civil Engineer
+- Rutgers — 1978-1980 — 博士班課程修完
+
+## Employment
+- 專業土木工程師 — 從事發電／石油有關工程 — 退休 — (-2009)
+<!-- tah-tables:end -->
 
 ## Family
 

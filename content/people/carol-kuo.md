@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Carol Kuo (簡雁齡) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Chung Hsing Univ. — B.S., Financial & Tax
+- Illinois Univ. — M.S., Accounting
+
+## Employment
+- N. Carolina — Certified Public Accountant — Accounting firm in TX — CPA — Community — TAA - N. Carolina — President — WUFI (台獨聯盟) — Central Committee Member — NATWA, St. Louis Chapter — President (2010-2011)
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Internal medicine residency, infectious diseases fellowship & Postdoctoral Research
 
+<!-- tah-tables:start -->
+## Education
+- UCLA, School of Medicine — M.D.
+- UCLA — Ph.D.
+- UCSF — Internal medicine residency, infectious diseases fellowship & Postdoctoral Research
+
+## Employment
+- UCSF Clinical Microbiology — Associate Director — UCSF, Laboratory Medicine, Division of Infectious Diseases — Professor — UCSF-Abbott Viral Diagnostics & Discovery Center — Director
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Son:** 2

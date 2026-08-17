@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Lisa Peng (彭郁靜) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Taipei Medical Univ. (台北醫學大學) — B.S., Health & Nutrition
+- Long Island Univ. — M.S., Nutrition
+- Southeast Univ. — M.S., Computer Science
+
+## Employment
+- CCACC Adult Day Healthcare Center — Zumba Instructor — (2014-2015) — National Institute of Dental and Craniofacial Research — Programmer — Community — Taipei Medical University Alumni Association (北醫校友會) — President
+<!-- tah-tables:end -->
 
 ## Family
 

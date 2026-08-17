@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1.President of Taiwanese American CPA Association (台美會計師協會會長) 2019-2020
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1976 — B.A. Politics International Relations
+- Univ. of Kansas — 1980 — MA, Business Management
+- UCLA — 1983 — Award in Accounting
+
+## Employment
+- Solomon & Ross, CPA's — Staff Accountant — (1984-1991) — KC Chen CPA Firm — Owner/President — (1991-) — Community — Taiwanese American CPA Association (台美會計師協會) — President, 2019-2020 — Taiwanese Association of Northwest Los Angeles (洛杉磯西北區同鄉會) — President, 2001-2002 — FAPA/Los Angeles Chapter (台灣人公共事務會洛杉磯分會) — President, 2003-2006 — FAPA/USA (台灣人公共事務會總會) — Member of the Executive Committee, 2003-2006 — Formosa Student Association of the University of Kansas (堪薩斯大學台灣同學會) — President, 1979
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 林芳慧

@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 1. Taiwanese Heritage Society of Houston (休士頓台灣人傳統基金會) – Founding member 1991, & Chairperson 2002, 2006
 
+<!-- tah-tables:start -->
+## Education
+- National Chung Hsing University — 1963 — B.S. Agricultural Chemistry
+- S. Dakota State University — 1969 — M.S. Chemistry
+- Michigan State University — 1973 — Ph.D. Biochemistry
+
+## Employment
+- M. D. Anderson Cancer Center, Houston — 1973-1980 — Project Investigator
+- Houtex Enterprises, Inc., Houston — 1980-2007 — President/CEO
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Susan Tsay蔡淑媛

@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Echo Lin (林錫湖博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S.
+- 新墨西哥州立大學 — 1955 — M.S.
+- 賓州州立大學 — 1958 — Ph.D.有機化學
+
+## Employment
+- St. Joseph University — Teaching — 2經營不鏽鋼桶
+<!-- tah-tables:end -->
 
 ## Family
 

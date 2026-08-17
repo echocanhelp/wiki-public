@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Prof. Chih-Hao (Lucas) Chang 張志豪教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1997 — B.S., Agricultural Chemistry
+- Univ. of Oxford — 2004 — M.S., Pharmacology — 2010 — Ph.D., Clinical Medicine
+
+## Employment
+- Washington Univ. — Research Instructor — (2015-2017) — The Jackson Laboratory — Assistant Professor — (2017-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

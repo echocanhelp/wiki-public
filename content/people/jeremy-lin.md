@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Growing up, Jeremy realized that teammates on his basketball team all came from different backgrounds. In middle school, Jeremy picked up his teammate for a basketball game, and his friend said he hadn’t slept all night. Jeremy learned that there were gunshots in the middle of the night, that kept his teammate up.
 
+<!-- tah-tables:start -->
+## Education
+- Harvard Univ. — B.S., Economics
+
+## Employment
+- Golden State Warriors — (2010-2011) — New York Knicks — Linsanity — (2011-2012) — Houston Rockets — (2012-2014) — Los Angeles Lakers — (2014-2015) — Charlotte Hornets — (2015-2016) — Brooklyn Nets — (2016-2018) — Atlanta Hawks — (2018-2019) — Toronto Raptors — (2019-2019) — New Taipei Kings — (2023-2025) — Community — Jeremy Lin Foundation — Founder
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Father:** 林繼明

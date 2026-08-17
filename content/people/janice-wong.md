@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Born in Taiwan in 1977, Janice Wong began studying music at age four. She studied under William and Keiko Ransom of Emory University in high school. She went on to earn bachelor’s and master’s degree at the Peabody Music Conservatory of the Johns Hopkins University studying under Boris Slutsky. Upon receiving her master’s degree, Ms. Wong gained a full scholarship to attend the International Sommerakademie Mozarteum in Salzburg, Austria during which time she studied under the esteemed Andrzej Jasinski and Sergio Perticarloli. She currently works to refine her musicianship under the guidance of Zalina Guervich and Oleg Barsov.
 
+<!-- tah-tables:start -->
+## Education
+- Peabody Music Conservatory — B.S. Music
+- . Peabody Music Conservatory — M.S. Music
+
+## Employment
+- Emory University — 2000- — Piano faculty
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

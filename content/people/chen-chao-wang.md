@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, physician, journalist
 - **Source:** TAH Foundation Who’s Who
 
-Chen-Chao Wang (王震昭) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 高雄醫學大學 — 1978 — M.D.
+- University of Texas, Austin — 1997 — Ph.D. 藥學
+
+## Employment
+- Merck & Co. Inc. — 2008-present — Principal Scientist
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -21,6 +21,18 @@ last_reviewed: 2026-08-17
 
 Source from Taiwanese Association of American Greater Washington Chapter Special Edition, 2008/11
 
+<!-- tah-tables:start -->
+## Education
+- Southwestern University — B.S. Physical Chemistry
+- University of Illinois at Urbana-Champaign — M.S.Physical Chemistry
+- Syracuse University — 1960 — Ph.D. Physical Chemistry
+
+## Employment
+- Syracuse University — Professor
+- United States Naval Research Laboratory — Researcher
+- ITI公司 — 1980- — Funder/President
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

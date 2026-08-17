@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-David Chan (詹曉昀) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 哈佛大學 — 1995 — B.S. 理工
+- 茱莉亞音樂學院 — M.S. Music
+
+## Employment
+- 大都會歌劇院管弦樂團 — Present — 首席
+- 茱莉亞音樂學院 — Present — 教授
+<!-- tah-tables:end -->
 
 ## Family
 

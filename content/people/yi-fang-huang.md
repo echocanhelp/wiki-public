@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Pianist Yi-Fang Huang 黃亦芳, a native of Taiwan, received both Bachelor and Master of Music degrees at the Juilliard School as a pupil of Martin Canin, and Doctor of Musical Arts degree with Susan Starr at Rutgers University. As soloist, chamber music musician and collaborative pianist Ms. Huang has performed in venues including Walt Disney Concert Hall, Alice Tully Hall, Weill Recital Hall at Carnegie Hall, Merkin Hall, Louvre Museum, Grenoble Museum and National Concert Hall in Taiwan. She performed at the OK Mozart festival, International Viola Congress, New York Philharmonic: Insights Series, Interlochen Viola Institute, Great Mountains Festival, Sarasota Music Festival, Bowdoin Summer Music Festival and Music Academy of the West, and has premiered works by contemporary composers Somei Sato, Stuart Smith, and Alessandro Solbiati.
 
+<!-- tah-tables:start -->
+## Education
+- Juilliard School — B.S.
+- Juilliard School — M.S.
+- Rutgers University — Ph.D.
+
+## Employment
+- Juilliard School — 2011-Present — Pre-College faculty
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

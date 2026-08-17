@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 President of the San Diego chapter of the Taiwanese Chamber of Commerce (台灣商會聖地牙哥分會會長)
 
+<!-- tah-tables:start -->
+## Education
+- University of Georgia — M.S.生化
+- University of Georgia — Ph.D.生化
+
+## Employment
+- 生物公司 — president
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

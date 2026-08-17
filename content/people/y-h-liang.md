@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist
 - **Source:** TAH Foundation Who’s Who
 
-Y. H. Liang (梁琰華) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 師範大學 — B.S.物理
+- Rutgers University — Ph.D.物理天文
+
+## Employment
+- General Atomics — 1979-
+- Apllied Superconetics
+<!-- tah-tables:end -->
 
 ## Family
 

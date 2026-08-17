@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Nominated “Best Actor” at a film festival. Campus MovieFest International Finals 2010, Asians on Film 2014
 
+<!-- tah-tables:start -->
+## Education
+- UC Berkeley — B.S. Mechanical Engineering
+
+## Employment
+- Silicon Valley — Co-founder — Yakuza Princess — Actor — (2020-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

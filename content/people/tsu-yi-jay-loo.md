@@ -22,6 +22,17 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Co-Founders of Formosans’ Free Formosa (3F) (台灣人的自由台灣發起人之一) 1956
 
+<!-- tah-tables:start -->
+## Education
+- Macalester College, MN — 1955 — B.S.
+- Temple Univ. Medical School — 1956
+- Univ. of Minnesota — 1957 — B.A., Politics
+- Princeton Univ. — 1960 — M.S., Public Affairs
+
+## Employment
+- American Academy of Actuaries — Member — (1969-) — JL Actuarial Consulting Co. — Owner — Community — Formosans' Free Formosa (3F) — Co-Founder — United Formosans for Independence — First President — TAC/EC (美東台灣人夏令會) — Coordinator
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** [[people/helen-loo|Helen Loo]]

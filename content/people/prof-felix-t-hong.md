@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Received the American Chemical Society Victor LaMer Award, 1977
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. College of Medicine — 1966 — M.D.
+- Rockefeller Univ. — 1973 — Ph.D., Philosophy (Biophysics)
+
+## Employment
+- Rockefeller Univ. — Assistant Professor — (1973-1977) — Wayne State Univ. School of Medicine — Professor of Physiology — (1981-) — National Cheng Kung Univ. — Visiting Professor of Sanchuang Teaching and R&D Center
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

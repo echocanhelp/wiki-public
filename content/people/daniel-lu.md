@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Daniel Lu (盧以樂) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Michigan State University — 2007 — B.S. Finance
+
+## Employment
+- Daniel Lu, CPA — 2013-present — Principal owner
+- Rhema Consulting Corp — 2013-present — CPA Consultant
+- Philip Chang, CPA — 2010-2013 — Staff Accountant
+<!-- tah-tables:end -->
 
 ## Family
 

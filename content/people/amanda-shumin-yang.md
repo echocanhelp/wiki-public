@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 方書敏博士出生於台灣台南市，保送台灣師範大學音樂系，主修小提琴演奏。赴美後以 全額獎學金獲Eastman School of Music鋼琴演奏碩士'USC小提琴演奏博士。曾與Itzhak Perman, Yo-Yo Ma, Midori等大師同台演出，獨奏與室内樂足跡遍及台灣，日本，美國，加 拿大及德國。2009年起任教於Biola University,並在2011年受邀於德國 Sulzbuch-Rosenburg International Music Festival 擔任教授。
 
+<!-- tah-tables:start -->
+## Education
+- 台灣師範大學 — B.S. 小提琴演奏
+- Eastman School of Music — M.S. 鋼琴演奏
+- USC — Ph.D. 小提琴演奏
+
+## Employment
+- Biola University — 2009- — Teaching
+- 德國Sulzbuch-Rosenburg International Musice Festival — 2011- — Professor
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

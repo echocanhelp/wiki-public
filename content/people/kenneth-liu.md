@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Kenneth Liu (劉光道) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 成功大學 — B.S.土木
+- University of Washington — 1971 — M.S.
+
+## Employment
+- Bechtel
+- PG&E
+- Parsons Brinckerhoff工程公司
+- Dept. of Water Resource — -2014
+<!-- tah-tables:end -->
 
 ## Family
 

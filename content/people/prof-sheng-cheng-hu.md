@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Prof. Sheng-cheng Hu 胡勝正教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1962 — B.S., Economics
+- Univ. of Rochester — 1967 — M.S., Economics
+- Univ. of Rochester — 1970 — Ph.D., Economics
+
+## Employment
+- Purdue Univ. — Lecturer, Associate Professor, Director — (1968-1996) — National Taiwan Univ., Economics — Professor — (1997-) — Council for Economic Planning and Development, Executive Yuan — Administrative Committee Member — (2001-2007) — Chung-Hua Institution for Economic Research — Chairman — (2016-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

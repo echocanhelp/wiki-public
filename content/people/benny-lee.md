@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Benny Lee (李永杰) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 大同工學院 — B.S.
+
+## Employment
+- DuraComm公司 — present — 董事長
+- 創新（Top Innovations）公司 — 1995 — 董事長
+<!-- tah-tables:end -->
 
 ## Family
 

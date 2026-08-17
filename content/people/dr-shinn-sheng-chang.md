@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Dr. Shinn-Sheng Chang 張信行醫師 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- Taipei Medical Univ. — B.S., Medical
+
+## Employment
+- National Taiwan University Hospital — Anesthesiologist — Tinker Air Force Hospital — Doctor — Northern California Washington Hospital — Doctor — (1986-) — Community — Taiwan Center / North CA — Key Member in Establishing — Taiwanese American Foundation of North California — First President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** [[people/may-sing-chang|黃美星]]

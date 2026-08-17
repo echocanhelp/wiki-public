@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 2. Convener of the program group of the Taiwanese American Conference-East Coast (美東台灣人夏令會節目組召集人)
 
+<!-- tah-tables:start -->
+## Education
+- Tainan Theological College & Seminary (台南神學院) — 1963 — B. Th.
+- Yale Divinity School — 1967 — M. Div. — 1968 — S.T.M.
+
+## Employment
+- National Capital Presbytery, Presbyterian Church (USA) — Honorary Retired Minister — New Orleans Chinese Presbyterian Church (紐奧良華人長老會) — Pastor — Taiwanese Presbyterian Church of Washington (華府台灣基督長老教會) — Pastor — (2006-2009) — Taiwanese United Church in Toronto (多倫多台灣聯合教會) — Pastor — Community — FAPA/Pennsylvania Chapter — Founding President — Taiwanese American Conference-East Coast (美東台灣人夏令會) — Convener of the Program Group
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

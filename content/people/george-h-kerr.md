@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
-George H. Kerr (葛超智) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Employment
+- 台北高等學校 — 1937-1940 — 英文教師
+- 美國海軍 — 預備役中尉
+- 美國戰爭部軍事情報總部
+- 美國外交 — 服務幹事和副領事
+- 華盛頓大學,斯坦福大學,加州大學柏克萊分校 — 1949-1950 — 教日本史
+<!-- tah-tables:end -->
 
 ## Family
 

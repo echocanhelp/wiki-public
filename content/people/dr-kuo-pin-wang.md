@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Outstanding Service Award Recipients by Taiwanese Youth Arts Foundation, 2004-2005
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1970 — B.S., Electrical Engineering
+- Syracuse Univ. — Ph.D., Electrical Engineering
+
+## Employment
+- Computer Sciences Corporation — Senior System Engineer — Community — Taiwanese American Science and Technology Association (華府台灣產業科技協會) — Director and Financial Officer — NATPA Washington DC/Baltimore (北美洲台灣人教授協會華府巴城分會) — Vice President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 素華

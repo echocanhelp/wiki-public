@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, educator
 - **Source:** TAH Foundation Who’s Who
 
-Lisa C. Williamson (李貞瑩) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Sun Yat-Sen Univ. (中山大學) — 1984-1988 — B.A., Arts
+- Saint Louis Univ. — 1992-1995 — MBA., Marketing/Marketing Management — 1996-1998 — M.A., Accounting and Finance
+
+## Employment
+- Citi Bank — Financial Consultant — (1998-2003) — PNC Investments — Senior Financial Advisor — (2003-2006) — JPMorgan Chase — Vice President Investments — (2007-2009) — Kumon Of West Chester — Kumon Math Reading Center Director — (2009-)
+<!-- tah-tables:end -->
 
 ## Family
 

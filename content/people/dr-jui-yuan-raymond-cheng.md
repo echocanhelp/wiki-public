@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Dr. Jui Yuan (Raymond) Cheng 鄭瑞源博士 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1967 — B.S., Agricultural Economics
+- Univ. of Georgia — 1973 — M.S., Agricultural Economics — 1981 — Ph.D.
+
+## Employment
+- Taiwan Import — Owner — (1995-) — DPP Party Office (民進黨美西黨部辦公室) — CEO — (2009-2010)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 鄭王珍美

@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Chun Chiu (邱俊邦) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 東京Waseda大學 — B.S. 電機
+- 奧勒岡大學 — M.S. 電機
+
+## Employment
+- IDT公司 — 1980 — 創辦人
+- Quality Semiconductor公司 — 1988- — 總裁,董事長,執行長
+- Quality Semiconductor — 董事長
+- AsiaTech Management LLC. — Senior Advisor
+<!-- tah-tables:end -->
 
 ## Family
 

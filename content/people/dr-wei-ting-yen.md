@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Wei-Ting Yen (顏維婷博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Ohio State Univ. — 2018 — Ph.D., Political Science
+- Yale Univ. — 2011 — M.A., East Asian Studies
+- National Taiwan Univ. — 2010 — M.A., Political Science
+- National Taiwan Univ. — 2007 — B.A., Economic and Political Science
+
+## Employment
+- Franklin & Marshall College — Assistant Professor — (2019-) — Denison University — Predoctoral Fellow — (2017-2019) — World Bank Cambodia — Co-Principal Investigator — (2017-)
+<!-- tah-tables:end -->
 
 ## Family
 

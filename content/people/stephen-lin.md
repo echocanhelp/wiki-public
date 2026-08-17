@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of Taiwanese American Federation of Northern California (北加州台灣同鄉聯合會會長), 2018
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1969 — B.S., Electrical Engineering
+- Kansas State Univ. — M.S.
+
+## Employment
+- Electrical Engineer — (1972-) — Community — Taiwanese American Federation of Northern California (北加州台灣同鄉聯合會) — President — Taiwanese American Association of New York (大紐約區台灣同鄉會) — President — Taiwanese Association of America-Greater Baltimore Columbia (大巴爾地摩台灣同鄉會) — President
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

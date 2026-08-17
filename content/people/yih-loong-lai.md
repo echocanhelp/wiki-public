@@ -21,6 +21,18 @@ last_reviewed: 2026-08-17
 
 1. Publications related to airway constriction For more than 20 years (from 1976 to 1998, professional)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Normal Univ. — 1963 — B.S., Biology
+- National Taiwan Univ. — 1966 — M.S., Physiology
+- Univ. of Kansas — 1972 — Ph.D., Physiology
+
+## Employment
+- Virginia Mason Res. Center — 1976 — Assistant & Associate Scientist
+- Univ. of Kentucky — 1984 — Associate & Full Professor
+- National Taiwan Univ. — 1994 — Professor
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Suh-mei

@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Charlie Wang (王清圻) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台北高商(台大法學院前身)
+
+## Employment
+- 美國萬通銀行 — 1980 — 經理
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 1. The First President of the North America Taiwanese Women Association (北美洲台灣婦女會第一任會長)1988
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.S., Law
+- Northwestern Univ. — M.S., Jurisprudence
+- Harvard Univ. — Ph.D., Linguistics
+
+## Employment
+- Hoover Institution Library | Stanford University Libraries — -1992
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Chingmhu Lee (李清木) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — M.D.
+
+## Employment
+- UCLA醫學院 — 麻醉科主任
+<!-- tah-tables:end -->
 
 ## Family
 

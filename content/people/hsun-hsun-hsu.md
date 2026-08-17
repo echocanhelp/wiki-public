@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 Hsun Hsun Hsu received her bachelor and master degrees in vocal performance arts from University of Southern California. She graduated with department honor and received numerous scholarship awards. She was a student of Cynthia Munzer and a member of Phi Kappa Lambda, National Music Honor Society. Ms. Hsu was the Prizewinner of NATS’s Young Artist of the Year in career and apprentice divisions. She was the finalist of the Long Beach Mozart Festival. She received scholarship from Opera Buffs and sponsorship from Taiwan Chi Mei Arts and Music Foundation for two consecutive years.
 
+<!-- tah-tables:start -->
+## Education
+- University of Southern CA — B.A. Vocal performance
+- University of Southern CA — M.S. Vocal performance
+
+## Employment
+- 牧谷基督長老教會 — 音樂主任
+- 半音合唱團 — 指揮
+- 東安兒童合唱團 — 指導老師
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

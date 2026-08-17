@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Held positions of Lead Architect to Technical Forensic Expert at the US Army Corps of Engineers, 2007-present
 
+<!-- tah-tables:start -->
+## Education
+- Florida Atlantic Univ. — 2003 — B.S., Architecture
+- Washington Univ. — 1995 — B.S., Arts
+
+## Employment
+- U.S. Army Corps of Engineers (USACE) — Technical Expert — (2014-) — OZ Architecture — Architect — (2005-2007) — Gallo Herbert Architects — Project Director — (2003-2005)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Daughter:** Kira

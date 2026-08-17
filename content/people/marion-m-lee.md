@@ -24,6 +24,16 @@ Employment
 -
 Division of Cancer Epidemiology
 
+<!-- tah-tables:start -->
+## Education
+- 輔仁大學 — B.S. 營養學
+- Yale University — Ph.D.
+
+## Employment
+- University of California, San Francisco — Division of Cancer Epidemiology
+- UCSF Medical Center
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

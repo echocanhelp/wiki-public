@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 3. Center for Condensed Matter Sciences in National Taiwan Univ. (國立臺灣大學凝態科學研究中心)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1981 — B.S., Electrical Engineering
+- Harvard Univ. — 1985 — M.S., Applied Science — 1990 — Ph.D., Applied Science
+
+## Employment
+- General Electric R&D Center — Research Scientist — (1990-1993) — Institute of Atomic and Molecular Sciences, Academia Sinica (中央研究院原子與分子科學研究所) — Associate Researcher, Researcher — (1993-) — Center for Condensed Matter Sciences in National Taiwan Univ. (國立臺灣大學凝態科學研究中心) — Joint Researcher — (2002-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 林麗瓊

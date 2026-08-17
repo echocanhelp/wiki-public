@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Violist Rachel Ku joined The Philadelphia Orchestra as the youngest member of the Orchestra in September 2004, at the age of 19. She has been studying viola since age eight and piano since age five. She made her solo debut in Taipei in 1995 and has since made solo appearances with the Mansfield Symphony in Ohio, the Rice University Chamber Orchestra, and the Curtis Chamber Ensemble. In January 2005 she performed as soloist in Hindemith’s Der Schwanendreher with the Delaware Symphony as part of that ensemble’s subscription concert series.
 
+<!-- tah-tables:start -->
+## Education
+- Curtis Institute of Music — B.S. Music
+- New England Conservatory — M.S. Music
+
+## Employment
+- member of the Philadelphia Orchestra — 2004
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

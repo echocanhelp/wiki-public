@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Rev. Ian Cheng (鄭溢恩牧師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Chinese Culture Univ. (文化大學) — B.S.
+- Trinity Evangelical Divinity School (芝加哥三一神學院) — M.S., Divinity
+
+## Employment
+- Dayton Chinese Christian Church — Pastor — (1996-2005) — The Mustard Seed Mission — General Director — (2006-2007) — G-Fly Corp. — CEO — (2007-2010) — Seattle Formosan Christian Church — Pastor — (2012-2018)
+<!-- tah-tables:end -->
 
 ## Family
 

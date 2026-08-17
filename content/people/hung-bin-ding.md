@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 1. 美國管理學會（Academy of Management) 環境管理分部(Organization and Natural Environment Division) 的國際委員會委員, 2012-2014
 
+<!-- tah-tables:start -->
+## Education
+- Soochow University — B.A.
+- The George Washington University — M.A.
+- Rensselaer Polytechnic Institute — Ph.D.
+
+## Employment
+- 馬理蘭州LOYOLA大學 — MBA所長
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

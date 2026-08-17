@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Praised in Black Forest Messenger of Germany “Thrilled Violin Playing!” and “Unforgettable Performance!” violinist Dr. Shu-Ting Yao 姚舒婷 enjoys her career as a solo and chamber violinist. She frequently appears in major concert venues in U.S., Europe and Asia. Other than solo appearances, Yao also performed with acclaimed ensembles, including Charleston Symphony, Manhattan Symphonie, Apollo Chamber Orchestra, The Symphony of the Potomac, Baltimore Philharmonic, Bel Cantanti Opera Orchestra, Toscanini New Orchestra, Loudoun Symphony Orchestra, National String Symphonia and the Celebrated String Quartet.
 
+<!-- tah-tables:start -->
+## Education
+- National Taipei University of Education — B.S. Music
+- Peabody Conservatory — M.S. Music
+- Catholic University of America — Ph.D. Music Art
+
+## Employment
+- Violinist
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

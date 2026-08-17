@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** journalist
 - **Source:** TAH Foundation Who’s Who
 
-Lucy Yang (楊淑詠) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Princeton University — 1985 — B.A. 社會學系
+
+## Employment
+- Eyewitness News on Channel 7 WABC – TV New York — Reporter
+<!-- tah-tables:end -->
 
 ## Family
 

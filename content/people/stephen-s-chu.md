@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Stephen S. Chu (朱石象) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 高雄醫學院 — B.S.
+
+## Employment
+- present — Doctor
+- 美國費城聖路克醫院 — Doctor
+- 喬治華盛頓大學醫院 — Doctor
+- 維吉尼亞醫學院 — Teaching
+<!-- tah-tables:end -->
 
 ## Family
 

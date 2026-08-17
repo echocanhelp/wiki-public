@@ -19,7 +19,11 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Eva Hsia (夏敬安) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- University of California Irvine — B.S. film and media studies
+<!-- tah-tables:end -->
 
 ## Family
 

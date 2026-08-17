@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Min Yen Chien is one of the foremost and first generation of Taiwanese international violinists. Born on August 2, 1953 into a medical and musical family in Nantou, Taiwan. He started his violin lessons at age seven, and by the age of eight, he had won the first prize of the National Violin Competition for children in Taiwan. At that competition, Chien was heard by Raphael Hillyer then as the violist of The Juilliard String Quartet, visiting and touring Taiwan in 1961. Since that time, Chien became a protege of Hillyer. At age ten, Chien was the first prize winner of the First National Violin Competition sponsored by Rotary Club of Taiwan. With the encouragement and sponsorship of Hillyer, Chien came to the United States in 1967; during that summer, he won the first prize of the Violin Concerto Competition at the National Music Camp in Interlochen, Michigan, and performed the Mendelssohn Violin Concerto with its orchestra. In the year of 1967-68, he studied at the North Carolina School of the Arts with Marc Gottlieb and Ruggiero Ricci. Under the recommendation of Ricci, Chien entered the Pre-College Division of the Juilliard School in 1968 as a full scholarship student under the di
 
+<!-- tah-tables:start -->
+## Education
+- Juilliard School — 1975 — B.A. Music
+- Juilliard School — 1976 — M.S. Music
+
+## Employment
+- 國立台北藝術大學音樂系 — present — 專任副教授
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

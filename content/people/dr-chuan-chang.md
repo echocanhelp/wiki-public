@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Publication(Non-professional)
 1. Fundamentals of Piano Practice(3rd Edition) (基礎鋼琴練習法)
 
+<!-- tah-tables:start -->
+## Education
+- RPI — B.S., Physics
+- Cornell Univ. — 1967 — Ph.D., Physics
+
+## Employment
+- Bell Lab — Analytical Research — (-1998)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Merry

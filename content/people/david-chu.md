@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-David Chu (朱欽騏) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Institute of Technology (FIT)
+
+## Employment
+- Nautica, men's designer outerwear company — 1983 — Founder
+- David Chu Bespoke line — 2006 — Founder
+- Tumi — 2007-2009 — Executive Creative Director
+- Georg Jensen — 2012 — CEO and Chief Creative Officer
+<!-- tah-tables:end -->
 
 ## Family
 

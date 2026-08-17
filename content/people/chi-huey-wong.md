@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Chi-Huey Wong (翁啟惠博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1970 — B.S., 農業化學
+- National Taiwan Univ. — 1977 — M.S., 生化科學
+- Massachusetts Institute of Technology — 1982 — Ph.D., 有機化學
+
+## Employment
+- Texas A&M Univ. — 1983 — Professor
+- The Scripps Research Institute — 1989 — Professor
+- Academia Sinica — 2006-2016 — Ninth & Tenth President of Academia Sinica
+<!-- tah-tables:end -->
 
 ## Family
 

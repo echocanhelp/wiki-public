@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-L. J. Chen (陳柳江) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台大醫學院 — 1966 — B.S.
+
+## Employment
+- VA Palo Alto Medical Center — Doctor
+<!-- tah-tables:end -->
 
 ## Family
 

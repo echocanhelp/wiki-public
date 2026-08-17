@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 Born in Taiwan, Alex Hsuan-Yu Lee is a young accomplished violinist and conductor both in Taiwan and United States. He has held several recitals in Taipei city and has served as the soloist with Taipei Chi-Yen Symphony Orchestra and National Taiwan Normal University New Music Ensemble. Mr. Lee got degrees from NTNU and is now the Doctoral Candidate at University of North Texas. He is presently the conductor of Dallas Asian American Youth Orchestra and teaches violin at Dowell Middle School and McKinney Boyd High School.
 
+<!-- tah-tables:start -->
+## Education
+- 國立台灣師範大學 — B.S.
+- University of North Txas — Ph.D. Music Art
+
+## Employment
+- Southwestern Oklahoma State Unviersity Symphony Orchestra — present — Conductor
+- Dallas Asian American Youth Orchestra — present — Director
+- Dowell Middle School and McKinney Boyd High School — Teach Violin
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

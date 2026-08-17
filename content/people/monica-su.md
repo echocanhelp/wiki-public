@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Monica Su (蘇千芳) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Biola大學 — B.S. Music
+- 南加大 — M.S.大提琴
+
+## Employment
+- Biola大學弦樂團 — 首席大提琴
+- Biola大學 — 專屬弦樂四重奏大提手
+<!-- tah-tables:end -->
 
 ## Family
 

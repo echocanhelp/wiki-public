@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Prof. Joshua Wen-Kwei Liao 廖文奎教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- Univ. of Nanking (南京金陵大學) — 1928 — B.A., Philosophy
+- Univ. of Chicago — 1929 — M.A., Philosophy — 1931 — Ph.D., Philosophy
+
+## Employment
+- Univ. of Nanking (南京金陵大學) — Professor of Philosophy — Daesung Industrial Co., Ltd. (大承興業株式會社) — President — (1939-) — Hong Kong Univ. — Professor — (1948-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

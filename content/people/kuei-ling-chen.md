@@ -21,6 +21,11 @@ last_reviewed: 2026-08-17
 
 2.Outstanding Service Award Recipient by Taiwanese Youth Arts Foundation, 2003-2004
 
+<!-- tah-tables:start -->
+## Employment
+- 華府台灣學校 — 校長
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

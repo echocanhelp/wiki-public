@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Author of the Year, 2003 and 2006, Lockheed Martin; more than dozen patents; power supply design expert
 
+<!-- tah-tables:start -->
+## Education
+- Chiaotung Univ. — 1969 — B.S.
+- Northwestern Univ., Evanston, Illinois — 1973 — M.S.
+
+## Employment
+- RCA/GE — Astro Space Center — (1980-1993) — Lockheed Martin — Astrospace, Aegis Battleship power — (1993-2010) — Community — North America Taiwanese Professors' Association (NATPA), New York/New Jersey Chapter — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** ShwuLih Lin(林淑麗)

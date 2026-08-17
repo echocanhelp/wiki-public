@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Jen-Jong Lai (賴振榮) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taipei Univ. of Tech — 1973 — B.S., Mech. Eng.
+- Marquette Univ. — 1980 — M.S., Mech. Eng.
+
+## Employment
+- Fluor engineering and construction — 1980-1983 — Mech. Engineer PE
+- Sanitation Districts of Los Angeles County — 1983-2015 — Senior Mech. Engineer PE
+<!-- tah-tables:end -->
 
 ## Family
 

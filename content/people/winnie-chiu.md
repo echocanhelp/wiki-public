@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 1974年入東吳大學音樂系主修鋼琴、副修聲樂，之後于大二改副修小提琴，並加入東吳大學管弦樂團(擔任小提琴)，及被甄選為音樂系女聲合唱團(女高音)，於1976年慶祝美國建國200週年巡迴演唱。
 
+<!-- tah-tables:start -->
+## Education
+- 東吳大學 — 1978 — B.S. 音樂系
+- Queens College: Aaron Copland School of Music — 1982 — M.S. 音樂系
+
+## Employment
+- 洛杉磯台灣基督長老教會 — 1984 — 鋼琴伴奏
+- 聖路易台灣基督長老教會 — 1987-1995 — 鋼琴伴奏
+- 洛杉磯台灣基督長老教會 — 2012-2014 — 聖歌隊及兒童手中團指揮
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

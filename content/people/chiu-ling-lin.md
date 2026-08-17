@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 An energetic and passionate performer, Dr. Lin plays before enthusiastic audiences around the world. Reviewers wrote that she “presented Chopin with authority balanced with heartfelt emotion”, “made compositions soar with her joyous and skilled interpretation”, and “translated all of Mozart’s exuberance and romanticism with an ease and naturalness which was a thrill to witness.”
 
+<!-- tah-tables:start -->
+## Education
+- 新英格蘭音樂學院 — B.S.
+- 印第安那大學 — M.S.
+- 印第安那大學 — Ph.D.
+
+## Employment
+- Drake University — Chair of the Music Department and Professor of Piano — Indiana University at South Bend — Artist-in-Residence
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

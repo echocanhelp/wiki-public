@@ -41,8 +41,7 @@ Pages that link to **shoki-coe** (shoki-coe):
 1. [[organizations/formosan-presbyterian-church-in-los-angeles.md|formosan-presbyterian-church-in-los-angeles]]
 2. [[organizations/index.md|index]]
 
-### Sources
-- [TAH #601 encyclopedia: 601.台灣人的先覺 -黃彰輝/張瑞雄/2004/08/Biography/傳記](https://taiwaneseamericanhistory.org/601-%e5%8f%b0%e7%81%a3%e4%ba%ba%e7%9a%84%e5%85%88%e8%a6%ba-%e9%bb%83%e5%bd%b0%e8%bc%9d%e5%bc%b5%e7%91%9e%e9%9b%84200408biography%e8%87%aa%e5%82%b3/) (1)
+### Sources (1)
 
 1. [[sources/good-shepherd-taiwanese-presbyterian-church.md|good-shepherd-taiwanese-presbyterian-church]]
 

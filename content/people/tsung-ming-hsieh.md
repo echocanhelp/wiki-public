@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** journalist
 - **Source:** TAH Foundation Who’s Who
 
-Tsung Ming Hsieh (謝聰敏) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.A., Law
+- National Chengchi Univ. (政治大學) — 1964 — M.A., Political Science
+
+## Employment
+- R.O.C. Military Academy (中華民國陸軍軍官學校) — Lecturer — China Today (今日中國) — Assistant Editor — (1962-) — Pacific Times (太平洋時報) — Chief Editor — (1988-) — Legislative Yuan (立法院) — Second Legislator — Community — FAPA — Vice President — DPP Caucus (民進黨黨團) — Chief Convener
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -21,6 +21,11 @@ last_reviewed: 2026-08-17
 
 Ming Franz was born in the southern Taiwan, grew up in a sugar plantation where her father work as a steam engine engineer. She started painting when she was eight with her neighbor, Mr. Tsai, an art teacher. Mr. Tsai taught her crayon, pencil and charcoal drawing, watercolor he also took her bicycle to other villages to paint, took her hiking taught her how to observe nature, as a child she also had to hike many miles to school. She continued hiking and is still an avid hiker today. Ming has hiked many mountains around the world and thus developed an early passion for nature, especially waterfalls, streams, rivers, trees, birds. She becomes a landscape painter, because that is part of her life.
 
+<!-- tah-tables:start -->
+## Employment
+- New Mexico Art League — Teaching
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Daughter:** Tammy

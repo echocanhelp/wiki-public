@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Rev. H. D. Chen (陳浩德牧師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Taiwan Theological College and Seminary (台灣神學院) — B.S., Church and Sociology — M.S., Theological Seminary
+
+## Employment
+- Taipei College Student Center (台北大專學生中心) — College Preacher — Presbyterian Church in Taiwan (台灣基督長老教會) — Ministry Officer; Pastor — (2005-) — AATPC (安雅堡台灣長老教會) — Pastor — (2011-)
+<!-- tah-tables:end -->
 
 ## Family
 

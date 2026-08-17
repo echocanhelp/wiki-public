@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Development of NYS Water Resources Management Plan (Water Resources Management Strategy)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1952-1956 — B.S., Civil Engineering
+- Univ. of Kansas — 1960-1962 — M.S., Engineering Mechanics
+
+## Employment
+- NYC Board of Water Supply — Senior Civil Engineer — (1964-1966) — NYSDEC — Associate Hydraulic Engineer — (1966-1984) — NYS Department of Environmental Conservation (NYSDEC) — Project Manager and Executive Secretary of NYS Water Resources Council — (1984-1988) — Community — Taiwanese American Association of the Capital District — Founder and President — Taiwanese American Cultural Society of the Capital District, Inc. — Founder and President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Hsiu Lee (林秀齡)

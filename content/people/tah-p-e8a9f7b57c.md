@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
-%E8%95%Ad%E6%A8%82%E5%96%84 (蕭樂善) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 日本東京神學大學 — 1934 — B.S.
+
+## Employment
+- 羅東雙連 — 1935-1936 — 牧師
+- 台灣基督教會報 — 1936-1938 — 主筆
+- 新店教會 — 1940-1946 — 牧師
+- 大同中學 — 1946-1950 — 英文教師
+- 駐台美軍第七艦隊 — 1952-1959 — 牧師(以英語主持禮拜)
+<!-- tah-tables:end -->
 
 ## Family
 

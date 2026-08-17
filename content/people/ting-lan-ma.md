@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 3. Dissertator Fellow, European Society for Research on Adolescence/ Society for Research on Adolescence, 2013
 
+<!-- tah-tables:start -->
+## Education
+- National Chunhua Univ. — 2006 — B.S. Counseling Psychology
+- Univ. of Wisconsin — 2009 — M.S., Educational Psychology — 2013 — Ph.D., Human Development, Educational Psychology
+
+## Employment
+- Edgewood College in Madison, Wisconsin — Assistant Professor — (2015-) — Univ. of Irvine — Assistant Project Researcher — (2017-2019)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, scientist, physician
 - **Source:** TAH Foundation Who’s Who
 
-Peter Lu (盧信義) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 加州理工學院 — B.S.
+- 西雅圖華盛頓大學 — M.S.
+
+## Employment
+- 史坦福癌症中心 — Doctor
+- Arbor Vita Corporation — 1998-Present — Funder, Director
+<!-- tah-tables:end -->
 
 ## Family
 

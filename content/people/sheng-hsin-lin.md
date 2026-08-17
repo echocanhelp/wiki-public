@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Dr. Lin earned her Doctor of Musical Arts in Clarinet Performance from the University of North Texas (UNT) under the tutelage of Professor John Scott and held a Teaching Fellow position from 2010 to 2013. She holds a Bachelor of Fine Arts from National Kaohsiung Normal University (NKNU) in Taiwan and a Master of Music in Clarinet Performance from Indiana University at Bloomington, where she studied with James Campbell.
 
+<!-- tah-tables:start -->
+## Education
+- National Kaohsiung Normal University — B.S. Fine Art
+- Indiana University — M.S. Clarinet Performance
+- University of North Texas — Ph.D. Music Art
+
+## Employment
+- The Unity Orchestra(DFW) — present — 單簧管
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

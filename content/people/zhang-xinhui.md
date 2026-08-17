@@ -226,6 +226,14 @@ Notable quotes and mentions of **張信惠** in Taiwan Justice articles:
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/grace-h-yeh/)
 
+<!-- tah-tables:start -->
+## Education
+- 國立藝術專科學校音樂科 — 1963
+
+## Employment
+- 台北市立女子中學 — 1963-1967 — 音樂老師
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Son:** Michael (葉明青)

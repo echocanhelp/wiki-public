@@ -19,7 +19,11 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist
 - **Source:** TAH Foundation Who’s Who
 
-Doris Hsieh (謝必行) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 師範大學 — 1969 — B.S.物理 — Ph.D.生理光學 — Ph.D.視科醫學
+<!-- tah-tables:end -->
 
 ## Family
 

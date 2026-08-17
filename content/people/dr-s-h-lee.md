@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Dr. S. H. Lee (李舜豪醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Kaohsiung Medical Univ. (高雄醫學大學) — M.D.
+
+## Employment
+- MacKay Memorial Hospital — Physician — Framingham Union Hospital — Physician — Boston University Medical Center — Physician
+<!-- tah-tables:end -->
 
 ## Family
 

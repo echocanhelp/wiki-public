@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, educator
 - **Source:** TAH Foundation Who’s Who
 
-Charles Tsai (蔡其芳) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣師大 — B.S. 理化
+- 紐約州Niagara大學榮 — M.S.化學
+
+## Employment
+- 台中一中 — 化學老師
+- 紐澤西州Schering等製藥廠
+<!-- tah-tables:end -->
 
 ## Family
 

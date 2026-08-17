@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Born in Penghu, Taiwan, conductor Yu-An Chang was awarded first prize at the 2016 International conducting competition Jeunesses Musicales in Bucharest, Romania. In 2016 he became music director and chief conductor of the Asia Nova Symphony Orchestra; in 2009 he founded the Youth Sinfonietta of Taipei, which he led until 2013.
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Normal Univ. — 2008 — B.S., Music
+- Hochschule für Musik Hanns Eisler Berlin — 2016 — Conducting
+
+## Employment
+- Boston Symphony Orchestra — Assistant Conductor — (2019-) — Asia Nova Symphony — Music Director and Chief Conductor — (2016-) — Asia Nova Symphony Orchestra — Music Director and Chief Conductor — (2016-) — Youth Sinfonietta of Taipei — Founder and Conductor — (2009-2013) — Tanglewood Music Center — Conducting Fellow — (2018-2018)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Kai-Chuan Chang

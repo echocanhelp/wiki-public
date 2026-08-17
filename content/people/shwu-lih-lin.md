@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Chief Inventor of U.S. Patent # 5264397 ( “Method of Activating Zinc in Semiconductor Devices”, Shwu Lin, John Kulick, Randall Wilson)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1968-1972 — B.S., Chemical Engineering
+- Rutgers Univ. — 1981 -1982 — M.S., Chemical Engineering
+- Miami Univ. — 1974-1976 — M.S., Chemistry
+
+## Employment
+- General Optronics — Associate Research Engineer — (1984-1986) — Lytel Inc. — Device Engineer — (1987-1990) — Community — NATEA (北美台灣工程師協會) / Greater New York Chapter — Former President — Greater New York Region Overseas Taiwanese Pen Club — Co-founder and Former Director
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Keng Chih Wu

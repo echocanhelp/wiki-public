@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of United Formosans for Independence (台灣獨立建國聯盟主席) 1972
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1948 — B.A., Politics
+- McGill Univ., Canada — 1953 — M.S. Law
+- Univ. of Paris, France — 1954 — Space law
+
+## Employment
+- Dept. of Politics, National Taiwan Univ. — Professor and Director — (1957-1961) — Ministry of Science and Technology (中華民國科技部) — Chair Professor — Community — United Formosans for Independence (台灣獨立建國聯盟) — President — Formosan Association for Public Affairs (FAPA) (台灣人公共事務會) — President
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

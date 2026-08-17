@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Chia-Jen Lo (羅嘉仁) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Chinese Culture Univ. (文化大學) — 2008
+
+## Employment
+- Houston Astros — Pitcher — (2013-2013) — EDA Rhinos — Pitcher — (2014-2016) — Fubon Guardians — Pitcher — (2016-2019) — Sydney Blue Sox — Pitcher — (2018-2018) — WeiChuan Dragons — Pitcher — (2019-)
+<!-- tah-tables:end -->
 
 ## Family
 

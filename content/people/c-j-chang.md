@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-C. J. Chang (張家禎) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S.農機
+
+## Employment
+- Optical Air Data Systems — present — 工師師
+<!-- tah-tables:end -->
 
 ## Family
 

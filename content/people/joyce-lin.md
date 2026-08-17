@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Note
 1.Missionary pilot delivering COVID-19 supplies to remote village in plane crash in Indonesia 05/2020
 
+<!-- tah-tables:start -->
+## Education
+- MIT — BS, Computer Science
+- MIT — MS, Engineering
+- Gordon-Conwell Technological Seminary — 2017 — MS, Theology (道學)
+
+## Employment
+- Mission Aviation Fellowship — Missionary Pilot — (2017-2020) — Private Company — Computer Specialist/Cyber Security — U.S. Air Force — Officer
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

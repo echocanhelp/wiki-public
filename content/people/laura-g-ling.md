@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Co-author, Somewhere Inside: One Sister's Captivity in North Korea and the Other's Fight to Bring Her Home, 2011
 
+<!-- tah-tables:start -->
+## Education
+- UCLA — 1988 — Communications — 2.
+
+## Employment
+- Journalist and writer — Current TV — Correspondent and vice president of the Vanguard Journalism Unit
+- E! Investigates — host and reporter — Discovery Digital Networks — Director of Development
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Iain Clayton

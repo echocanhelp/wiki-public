@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Proficient in five languages: English, Japanese, Portuguese, Chinese and Taiwanese
 
+<!-- tah-tables:start -->
+## Education
+- National Chung Hsing Univ. — 1949-1952 — B.S., Forest
+- Chicago Technical College — 1965-1967 — Associate Degree EE
+
+## Employment
+- Zenith Tokyo office — (1969-1974) — Zenith Taiwan — (1974-) — Zenith Mexico — (1989-) — Zenith — (1966-1993)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 翁淑明

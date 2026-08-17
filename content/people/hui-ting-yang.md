@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 As an active performer, Dr. Yang has performed throughout the Czech Republic, Korea, Taiwan and the United States. She received the Doctor of Music in collaborative/chamber music and the Master of Music in accompanying from Florida State University, the Master of Music in piano performance from Ohio University and the bachelor’s degree in music education from Taipei Municipal Teachers’ College.
 
+<!-- tah-tables:start -->
+## Education
+- Taipei Municipal Teachers' College — B.S.
+- Ohio University — M.S. Music in piano performance
+- Florida State University — M.S. Music in accompanying
+- Florida State University — Ph.D. Music in collaborative/chamber
+
+## Employment
+- Troy University — Present — Assistant Professor of Piano
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

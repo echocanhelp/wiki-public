@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 President of Chicago Taiwanese Architecture Institute, CTAI (芝加哥台灣建築學會), 2017
 
+<!-- tah-tables:start -->
+## Education
+- 成功大學 — B.S. 建築
+- Southern California Institute of Architecture — M.S.
+
+## Employment
+- SOM
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

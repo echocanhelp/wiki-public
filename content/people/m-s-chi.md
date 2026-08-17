@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, scientist
 - **Source:** TAH Foundation Who’s Who
 
-M.S. Chi (紀敏雄博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1963 — B.S. 心理系
+- 密西根大學 — M.S.化學
+- 密西根大學 — Ph.D.化學
+
+## Employment
+- 台灣文化推廣協會 — 負責人
+- 台灣本土文化書局 — 1993- — 負責人
+<!-- tah-tables:end -->
 
 ## Family
 

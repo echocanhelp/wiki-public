@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Chihmei Lin Chen (林智美) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S.心理
+- 紐約大學 — Ph.D.心理
+
+## Employment
+- 維吉尼亞洲北維學院 — present — 心理系教授
+<!-- tah-tables:end -->
 
 ## Family
 

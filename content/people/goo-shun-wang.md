@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** artist
 - **Source:** TAH Foundation Who’s Who
 
-Goo-Shun Wang (王谷神) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 2003 — B.S., Geology
+- School of Visual Arts — 2004-2006 — MFP Computer Animation
+
+## Employment
+- Psyop — Lead Animator, Previs Artist — (2006-2011) — Bluesky Studios — Senior Camera & Staging Artist — (2011-)
+<!-- tah-tables:end -->
 
 ## Family
 

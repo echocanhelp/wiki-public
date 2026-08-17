@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Managed the largest music concert in the U.S.–Thanksgiving Music Concert in 1982 & other big music concerts in S. CA.
 
+<!-- tah-tables:start -->
+## Education
+- Chungyuan Science & Eng. College (中原理工) – — Chemical Eng.
+
+## Employment
+- National Assembly (國民大會) — Representative — Taiwan People News — Chief Editor — CBT (全民衛視) — General Manager — Community — North American Taiwanese Literature and Art Association (北美洲台灣人文藝協會) — Organizer/Founder — North American Culture Association Chamber Orchestra (北美文協室內樂團) — Organizer/Founder
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 蔡瀛如

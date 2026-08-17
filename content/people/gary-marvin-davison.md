@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Eight published books on Taiwanese history and culture; on and African American history and societal conditions; blog with 400+ articles; host of television show, The K-12 Revolution with Dr. Gary Marvin Davison (Minneapolis >>> MTV Channel 17, 6:00 PM, Wednesdays); multiple efforts to revolutionize K-12 education so as to bring knowledge-intensive education to young people of all demographic descriptors
 
+<!-- tah-tables:start -->
+## Education
+- University of Minnesota — 1993 — Ph.D. History — University of Iowa — 1979 — M. A. History
+
+## Employment
+- New Salem Educational Initiative — 1994-2017 — (Present) — Director — High schools of Texas and Minnesota — 1973-1993 — Teacher
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Barbara E. Reed

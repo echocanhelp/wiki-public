@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. The First Taiwanese American Graduated from Juilliard Music School: Diploma in Piano in 1967 and the Post Graduate Diploma in Piano in 1968
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1964 — B.S., Pharmacy
+- Juilliard School of Music — 1967 — Diploma in Piano
+- Juilliard School of Music — 1968 — Post-Graduate Diploma in Piano
+
+## Employment
+- School of Musical Education — Teacher — (1967-) — Brooklyn Philharmonic Orchestra — Community — Westchester Taiwanese Women's Association (威郡台灣婦女會) — Co-Founder — Global Harmony Ensemble — Founder
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** 郭季彥

@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Jate H. Pan (潘暉暋) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Alabama State University — M.S.社會工作
+
+## Employment
+- 華盛頓都市聯盟老年服務部
+<!-- tah-tables:end -->
 
 ## Family
 

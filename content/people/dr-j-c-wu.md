@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 4. Advanced International Pharmaceutical Nanotechnology Co., Ltd. (先進國際醫藥奈米技術股份有限公司)
 
+<!-- tah-tables:start -->
+## Education
+- Taipei Medical Univ. (臺北醫學大學) — B.S.
+- National Tsing Hua Univ. (清華大學) — M.S.
+- Ohio State Univ. — 1981 — Ph.D. Pharmacy and Biochemistry
+
+## Employment
+- Wyeth Laboratory (惠氏公司) — Project Host — Dupont Merck Pharmaceutical Company (杜邦默克製藥公司) — R&D Manager and Deputy Director of R&D — United Biomedical, Inc. (聯亞生技) — General Manager — Advanced International Pharmaceutical Nanotechnology Co., Ltd. (先進國際醫藥奈米技術股份有限公司) — Chairman
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 張麗珠

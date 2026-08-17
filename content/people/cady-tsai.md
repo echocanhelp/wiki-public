@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** journalist
 - **Source:** TAH Foundation Who’s Who
 
-Cady Tsai (蔡暉玲) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣政治大學 — 1980 — 新聞系
+- University of Oregon — 1991 — M.S.
+
+## Employment
+- 天下雜誌
+- 貿易風週刊
+- 美國大陸航空4.南加州橘縣地產行銷
+<!-- tah-tables:end -->
 
 ## Family
 

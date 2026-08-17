@@ -19,7 +19,22 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, physician
 - **Source:** TAH Foundation Who’s Who
 
-Tom Yang (楊東傑) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 日本東京慈惠 — B.S.醫科
+- 賓州大學 — 1955 — M.S.放射科
+
+## Employment
+- 台大醫學院 — 圖書館分館主任
+- 台大醫學院 — 放射線科主治醫師
+- Arbington Memorial Hospital — 1955-1956 — Radiology Fellow
+- 楊放射科診所 — 1957 — 創辦者
+- 馬偕醫院 — 1972 — 放射科主任
+- Columbia Presbyterian Hospital — 1978 — Radiology Fellow
+- 馬偕醫院 — 1980 — 放射科主任，及台東分院院長
+- 台北仁濟醫院 — 1993 — 顧問
+<!-- tah-tables:end -->
 
 ## Family
 

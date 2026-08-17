@@ -23,6 +23,24 @@ University of Medicine and Dentistry of New Jersey
 Professor, Head of Department
 (1977-)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1962 — M.D.
+- Miami Univ. School of Medicine — 1969 — Ph.D., Molecular Biology/Biochemistry
+
+## Employment
+- Miami Univ. — 1972 — Professor
+- Johns Hopkins Univ. — 1976 — Chief Fellow
+- Univ. of Medicine and Dentistry of New Jersey — 1977 — Professor, Head of Department
+- 慈濟醫學院 — 1993-00 — 創校校長
+- 慈濟大學 — 1993-00 — 優生保健中心主任
+- 行政院衛生署 — 2000-02 — 署長
+- 國家衛生研究院 — 2002-07 — 政策研究發展中心主任
+- 抗SARS總指揮 — 2003
+- 國光生物科技公司 — 2007 — 董事長兼執行長
+- 波士頓生物科技公司 — 2012 — 董事長
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 廖雅惠(Yahnei)

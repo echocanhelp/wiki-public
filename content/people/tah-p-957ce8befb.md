@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
-%E7%9F%B3%E9%9D%92%E5%A6%82 (石青如) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 師範大學 — B.S. Music
+- 波士頓大學 — M.S. Music
+
+## Employment
+- 波士頓大學音樂基礎訓練及鍵盤和聲課程 — 助教
+<!-- tah-tables:end -->
 
 ## Family
 

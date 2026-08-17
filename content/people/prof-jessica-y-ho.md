@@ -23,6 +23,14 @@ Univ. of Pennsylvania
 B.A., Economics, health and societies (major)/English (minor)
 (2009)
 
+<!-- tah-tables:start -->
+## Education
+- Univ. of Pennsylvania — 2009 — B.A., Economics, health and societies (major)/English (minor) — 2010 — M.A., Demography — 2013 — Ph.D., Demography and Sociology
+
+## Employment
+- Duke Univ. — Post-doc — (2013-2015) — Duke Univ. — Research Fellow — (2015-2017) — Univ. of Southern California — Assistant Professor of Gerontology — (2017-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Father:** Teh-Yuan Ho

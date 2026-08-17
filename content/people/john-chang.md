@@ -19,7 +19,20 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-John Chang (張景祥牧師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣台南神學院 — 1977 — B.S. 道學
+- 美國普林斯頓神學院 — 1983 — M.S. 神學
+- 美國普林斯頓神學院 — 1995 — Ph.D. 牧學
+
+## Employment
+- 紐約史德頓島恩光基督教會 — 1982-Present — 創會牧師
+- 紐約法拉盛恩光基督教會 — 1999-Present — 創會主任牧師
+- 美國歸正教會 — 2001-2002 — 副議長
+- 美國歸正教會總會 — 2002-003 — 委員會議長
+- 美國歸正教會總會 — 2003-2004 — 執行委員會議長
+<!-- tah-tables:end -->
 
 ## Family
 

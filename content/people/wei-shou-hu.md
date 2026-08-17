@@ -24,6 +24,15 @@ Employment
 -
 professor
 
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1974 — B.S.農化
+- Massachusetts Institute of Technology — 1983 — Ph.D. Biochemical Engineering
+
+## Employment
+- Department of Chemical Engineering and Materials Science University of Minnesota — professor
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

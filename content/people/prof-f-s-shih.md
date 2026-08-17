@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 National Chengchi University (政治大學)
 Professor and Dean, Dept. of Political Science
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1974 — B.A., Political Science
+- Univ. of Rochester — 1979 — M.A., Political Science — 1982 — Ph.D., Political Science
+
+## Employment
+- National Chengchi University (政治大學) — Professor and Dean, Dept. of Political Science — University of South Carolina — Professor, Dept. of Political Science; Director of the Center for Asian Studies
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

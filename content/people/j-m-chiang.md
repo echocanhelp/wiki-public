@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-J. M. Chiang (江榮茂) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Tainan Theological College and Seminary — 1972 — BTh — Saskatoon Theological Union
+
+## Employment
+- The Presbyterian Church in Canada — -1989 — pastor — First Presbyterian Church of New Jersey--Palisades Park — 1989-1999 — pastor — Taiwan Presbyterian Church of Greater Chicago — 1999-2002 — pastor
+<!-- tah-tables:end -->
 
 ## Family
 

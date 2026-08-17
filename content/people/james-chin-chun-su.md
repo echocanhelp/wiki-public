@@ -22,6 +22,19 @@ last_reviewed: 2026-08-17
 賓大電機系 (University of Pennsylvania, Dept. of Electrical Engineering)
 助教 (Teaching Assistant/Instructor)
 
+<!-- tah-tables:start -->
+## Education
+- 台大畢業 — 1957 — B.S.
+- 交通大學電子研究所 — M.S.
+- 賓州大學 — Ph.D. 電機
+
+## Employment
+- 賓大電機系 — 助教
+- Comast國際衛星通訊公司
+- CSC
+- TASC
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

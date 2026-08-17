@@ -19,7 +19,11 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Lucas Chen (陳薰洋) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台南工學院 — B.S.
+<!-- tah-tables:end -->
 
 ## Family
 

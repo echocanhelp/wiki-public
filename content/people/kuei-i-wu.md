@@ -21,6 +21,11 @@ last_reviewed: 2026-08-17
 
 Kuei-I Wu 伍癸怡, one of the most celebrated concert pianists from Taiwan, has played as solo artist and chamber musician at numerous festivals in Taiwan, Spain, Salzburg Austria and here in the US. Kuei-I was a prize winner of several International Competitions including First Prize at the Mieczyslaw Munz Piano Competition; Second Prize and Promising Artist Award at the National Society of Arts and Letters Competition; and Second Prize at the Five Towns Music and Art Foundation Piano Competition.
 
+<!-- tah-tables:start -->
+## Employment
+- Frederic and Howard Community College — Piano Faculty
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

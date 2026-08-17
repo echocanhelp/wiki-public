@@ -19,7 +19,13 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-S.I. Tom Tsai (蔡式宜) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — year — B.S.機械
+- 波士頓東北大學 — year — M.S.機械
+- 波士頓東北大學 — 1974 — Ph.D.機械
+<!-- tah-tables:end -->
 
 ## Family
 

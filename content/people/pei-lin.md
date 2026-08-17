@@ -19,7 +19,11 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Pei Lin (林伯修) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Employment
+- 林伯修耳鼻喉科 — 醫師
+<!-- tah-tables:end -->
 
 ## Family
 

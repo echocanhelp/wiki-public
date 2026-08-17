@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, lawyer, educator
 - **Source:** TAH Foundation Who’s Who
 
-Prof. S. S. Huang (黃壽山教授) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- College of Law, National Taiwan Univ. — 1966 — LL.B.
+- The Ohio State Univ. Moritz College of Law — 1970-1973 — J.S.D.
+
+## Employment
+- Soochow University — Teaching — (1988-1989) — Flushing, NY — Attorney — (1989-1995) — Title Insurance Co. — (1995-2014)
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 2. Tokyo Asian Games broke the Asian Games record, won the Decathlon Gold Medal, 1958
 
+<!-- tah-tables:start -->
+## Education
+- National Taitung Junior College
+- Univ. of California, Los Angeles — Physical Education
+
+## Employment
+- National Sports Training Center — Director — Legislative Yuan, Taiwan — Legislator — (1983-1986)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 周美玲

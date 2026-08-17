@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Ted Lau (劉重義) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 清華大學
+- Ohio State University — 1977 — Ph.D. Math
+
+## Employment
+- George Mason University — 助教
+<!-- tah-tables:end -->
 
 ## Family
 

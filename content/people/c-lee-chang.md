@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-C. Lee Chang (李長堅博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 國立政治大學 — B.S.新聞系
+- 佛州州立大學(FSU) — M.S.圖書館學
+- 佛州州立大學(FSU) — Ph.D.高等教育學
+
+## Employment
+- 賓州大學分校貝練學院 — 1978 — 圖書館館長
+- 政大教育研究所 — 客座教授
+- 中佛州大學圖書館 — 1983 — 主管
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Beginning violin studies in her native Taiwan at the age of ten, violinist Dr. Yi-Hsin Lin 林宜欣 quickly achieved success when she won Second Prize in the Northern Taipei Teen Violin Competition. A seasoned performer, Dr. Lin recently presented her Carnegie Hall debut in New York at Weill Recital Hall. Of the performance, the New York Concert Review admired how Dr. Lin “projected her sound with solidity, warmth and elegance.”
 
+<!-- tah-tables:start -->
+## Education
+- Soochow University — B.M. — Peabody Institute of the Johns Hopkins University — M.M. — University of Maryland, College Park — D.M.A.
+
+## Employment
+- Soochow University Orchestra — Principal — University of Maryland Symphony — Principal — Maryland Sinfonietta — Principal — National Christian Choir Orchestra — Associate Concertmaster — Music Institute of Howard Community College — Faculty — Summerkeys Music Festival — Faculty — Community — D.C. Youth Orchestra — Juror
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

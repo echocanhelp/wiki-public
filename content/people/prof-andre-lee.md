@@ -23,6 +23,14 @@ University of Illinois, Urbana-Champaign
 Ph.D., Physics & Material Science
 (1987)
 
+<!-- tah-tables:start -->
+## Education
+- Univ. of Illinois, Urbana-Champaign — 1982 — M.S., Physics — 1987 — Ph.D., Physics & Material Science
+
+## Employment
+- National Institute of Standards and Technology — Physical Scientist — (1987-1989) — Lockheed Corporation — Senior Engineer — (1989-1991) — Michigan State University — Assistant Professor, Associate Professor — (1991-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

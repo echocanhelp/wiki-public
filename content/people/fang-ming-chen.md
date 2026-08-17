@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 Author of numerous publications on Taiwanese history and literature, including works on the 228 Incident, Yang Kui's literary career, and a biography of Hsieh Hsueh-hung
 
+<!-- tah-tables:start -->
+## Education
+- 輔仁大學 — 1969 — B.S., History
+- 台灣大學 — 1973 — M.S., History
+- Washington State University — 1978 — Ph.D., History
+
+## Employment
+- 民主進步黨 — 1988 — 文宣部主任
+- 國立政治大學 — 2005-present — 台灣文學研究所所長
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -21,6 +21,18 @@ last_reviewed: 2026-08-17
 
 2. Launched to the International Space Station (ISS) as part of Expedition 44/45 on 22 July 2015
 
+<!-- tah-tables:start -->
+## Education
+- Air Force Academy — 1995 — B.S., Biology
+- Colorado State Univ. — 1996 — M.S., Cardiovascular Physiology
+- Univ. of Colorado — 2002 — M.D.
+- Univ. of Minnesota — 2006 — Post-doctoral fellowship and Master of Health Informatics (MHI)
+- Univ. of Texas Medical Branch — 2007 — Master of Public Health (MPH)
+
+## Employment
+- NASA at the Johnson Space Center — Astronaut — (2007-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Kristiana Lindgren

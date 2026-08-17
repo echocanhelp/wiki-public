@@ -19,7 +19,19 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, scientist
 - **Source:** TAH Foundation Who’s Who
 
-Chiuder Hsiao (蕭秋德) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 淡江大學 — B.S.機械工程
+- University of Oklahom — M.S.航空機械
+- University of Oklahom — Ph.D. 航空機械
+
+## Employment
+- 國家太空中心 — present — 主任
+- 美國加州太空公司衛星火箭控制 — 系統工程師
+- 美國加州Hanzix顧問公司 — 資深科技工程師
+- 美國奧克拉荷馬Halliburton研究中心 — 研發工程師
+<!-- tah-tables:end -->
 
 ## Family
 

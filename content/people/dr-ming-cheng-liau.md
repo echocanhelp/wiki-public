@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, scientist
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Ming Cheng Liau (廖明徵博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1954-1958 — B.S., Pharmacy
+- Rice Univ., Baylor College of Medicine — 1962 — Ph.D., Biochemistry
+
+## Employment
+- Burzynski Company — Director of Biochemistry Research Office — (1986-1994) — Taiwan Biotech Co., LTD. — Director of Anticancer Drug Development — (1994-) — Community — TAA Houston Chapter, TX — President — FAPA Houston Chapter, TX — President — Houston Taiwanese School of Language & Culture — Principal of Taiwan
+<!-- tah-tables:end -->
 
 ## Family
 

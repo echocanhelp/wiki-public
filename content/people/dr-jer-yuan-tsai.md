@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Jer-Yuan Tsai (蔡哲元醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Chung Shan Medical Univ. (中山醫學大學) — 1967 — M.D.
+
+## Employment
+- St. Elizabeth Hospital — Residency — (1975-) — Centerville Clinics, Inc. — Internal Medicine physician
+<!-- tah-tables:end -->
 
 ## Family
 

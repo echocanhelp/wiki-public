@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, scientist
 - **Source:** TAH Foundation Who’s Who
 
-Shitien Yang (楊錫鈿) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Tunghai University — 1968 — B.S. Physics
+- Massachusetts Institute of Technology — 1975 — Ph.D. Nuclear Enginering
+
+## Employment
+- Technical Expert, PWR Nuclear Design — 1989-present — Commonwealth Edison Co. IL
+- Argonne National Laboratory, IL — 1979-89 — Nuclear Engineer
+- Science Applications, Inc — 1978-79 — Senior Scientist
+- Nuclear Services Corp., CA — 1976-78 — Senoir Engineer
+<!-- tah-tables:end -->
 
 ## Family
 

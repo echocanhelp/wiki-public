@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 CNN國際新聞網路駐香港亞太區總部的獲獎主播及記者 (Award-winning anchor and reporter at CNN International's Asia-Pacific headquarters in Hong Kong)
 
+<!-- tah-tables:start -->
+## Education
+- Yale University — B.S.History
+- Northwestern University — M.S.新聞學
+
+## Employment
+- NBC — 1996- — 記者
+- CBS — 主播
+- CNN Internation — 2009-present — anchor
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

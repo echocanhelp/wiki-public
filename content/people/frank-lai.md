@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Frank Lai (賴文雄) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學
+- 台灣大學 — B.S. — M.S.
+
+## Employment
+- EF Hutton證券公司 — 副總裁
+- 美國WynLife公司 — 總監 — 3台灣政治大學 — 講師
+<!-- tah-tables:end -->
 
 ## Family
 

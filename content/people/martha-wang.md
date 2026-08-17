@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist
 - **Source:** TAH Foundation Who’s Who
 
-Martha Wang (鄞美珠) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 中興大學台中農學院 — 1958 — B.S. 園藝系 — 堪薩斯州立大學 — 1969 — M.S. 食品科學
+
+## Employment
+- Ward Foods — 1972 — Nabisco Foods — 1973-1999 — Nabisco/Kraft — 1999-2002
+<!-- tah-tables:end -->
 
 ## Family
 

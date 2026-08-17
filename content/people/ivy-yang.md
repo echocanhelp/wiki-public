@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Ivy Yang (楊靜芬) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Oglethorpe University at Atla — B.S. Financial Planning
+- University of South Florida — MBA
+
+## Employment
+- Certified Financial Planner CFP® — IRS Enrolled Agent
+<!-- tah-tables:end -->
 
 ## Family
 

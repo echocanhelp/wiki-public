@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Pauline Huey-Fen Hsu 徐彗芬 is a Taiwanese soprano. She has received the title of “New Voice Rising Star” from the Association of Vocal Artists of Taiwan and was honored with a solo recital at the National Concert Hall in Taipei. Ms. Hsu has received many awards and scholarships in Taiwan, including prizes in The National Taiwan Student Music Competition, Taichung Student Music Competition, Nanhai Rotary Scholarship Awards Competition in Vocal Music, and Tunghai University’s Concerto Competition.
 
+<!-- tah-tables:start -->
+## Education
+- Tunghai University — The Peabody Institute of Johns Hopkins University — Graduate studies in Vocal Performance and Pedagogy
+
+## Employment
+- Tunghai Opera Theatre — Soprano Soloist — Peabody Opera — Soprano Soloist — Peabody Symphony Orchestra — Soprano Soloist — Community — Tunghai University Luce Chapel Choir — Soloist — Taipei Chinsui Chorus — Soloist — Kaohsiung Natus Cantorum — Soloist — Vox Nova Singers — Soloist — National Taiwan Symphony Orchestra — Soloist
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

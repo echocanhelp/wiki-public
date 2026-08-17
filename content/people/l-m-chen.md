@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
-L. M. Chen (陳麗美) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Normal Univ. (國立臺灣師範大學) — B.A., Music
+
+## Employment
+- Guangren Catholic Elementary School, Taipei — Teacher — Taipei Municipal Zhong Shan Girls High School — Teacher
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-R. J. Chang (張榮吉) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 成功大學 — B.S.土木
+- Iowa University — M.S.水利
+
+## Employment
+- Stone & Webster環境工程處 — 水文分析組長
+- IPD公司 — 總裁
+- Power-One — 顧問
+<!-- tah-tables:end -->
 
 ## Family
 

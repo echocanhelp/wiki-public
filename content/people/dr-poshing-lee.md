@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Source from北美台大醫學院校友會http://ntumcaa-na.org/Web_pages/programs%20at%20annual%20meeting_2011.htm
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. College of Medicine — 1992 — M.D.
+
+## Employment
+- UMDNJ-Newark — Residency — (1997-) — Saint Barnabas Medical Center — Residency — (1999-) — Genpath Inc. — Hematology Specialist — Community — NTUMCAA-NA-GNY (北美台大醫學院校友會大紐約區分會) — President
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, artist
 - **Source:** TAH Foundation Who’s Who
 
-Ho Chu Yao (姚張和珠) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 師範大學 — 1963 — B.A., Art
+
+## Employment
+- Top Year Read Estate Management Inc. — Broker/Owner
+- Noevir Skincare — Senior Director
+<!-- tah-tables:end -->
 
 ## Family
 

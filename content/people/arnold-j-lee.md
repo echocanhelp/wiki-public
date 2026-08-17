@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Arnold J. Lee (李仁旭) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1964 — B.S.農工
+- 羅格斯大學 — M.S.農工機械
+
+## Employment
+- Bilbert Associates — 1971-1978 — 資深結構工程師
+- 匹茲堡西屋公司 — 1978-1979 — 資深機械工程師
+- 美國核能審核委員會 — 1979-2009 — 設計分析審核
+<!-- tah-tables:end -->
 
 ## Family
 

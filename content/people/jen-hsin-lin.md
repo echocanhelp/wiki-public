@@ -21,6 +21,18 @@ last_reviewed: 2026-08-17
 
 Jen Hsin Lin is a Taiwanese American visual artist based in Orange County, California. He is a member of the Orange County Center for Contemporary Art. He has exhibited work at Golden West College, Saddleback College, Irvine Valley College, Bistango, the Irvine Fine Arts Center, and Orange County Center for Contemporary Art, as well as at venues in Taiwan including the Taipei Fine Arts Museum, Kaohsiung Chiang Kai-shek Cultural Center, and Tainan City Cultural Center. His works include oil on canvas and oil on gessoed paper. Source from 林人信現代藝術巡迴展.
 
+<!-- tah-tables:start -->
+## Education
+- 實踐家專
+- Golden West College
+- Saddleback College
+- Irvine Valley College
+- Orange Coast Community College
+
+## Employment
+- Orange County Center for Contemporary Art — Member — Community — Orange County Center for Contemporary Art — Member
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

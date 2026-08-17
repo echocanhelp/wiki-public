@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 1. Received a distinguished performance award from the University of Chicago, 1986
 
+<!-- tah-tables:start -->
+## Education
+- 1National Taiwan University — 1963 — B.S. Engineering
+- University of Princeton — 1968- — Ph.D. Engineering
+
+## Employment
+- Argonne National Laboratory in Darien, Illinois. — civil and mechanical engineer
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

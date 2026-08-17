@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, physician, professor
 - **Source:** TAH Foundation Who’s Who
 
-Jyh-Fa Kuo (郭智化) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan University — 1957 — B.S.
+- South Dakota State University — 1961 — M.S.
+- University of Illinois — 1964 — Ph.D. biochemistry
+- Linkoping University, Sweden — 1980 — M.D.
+
+## Employment
+- Yale and Emory University — present — Professor
+<!-- tah-tables:end -->
 
 ## Family
 

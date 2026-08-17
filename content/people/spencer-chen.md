@@ -23,6 +23,16 @@ Anesivas, Inc.
 Vice President, Legal/Assistant General Counsel & Secretary
 (2008-2009)
 
+<!-- tah-tables:start -->
+## Education
+- Texas A&M Univ. — 1989
+- The Univ. of Texas Medical School at Houston — 1991
+- Golden Gate Univ. — 1994 — J.D.
+
+## Employment
+- Gryphon Therapeutics, Inc. — IP Associate Counsel — (2003-2004) — Novecea, Inc. — Associate Director, Legal — (2006-2009) — Anesivas, Inc. — Vice President, Legal/Assistant General Counsel & Secretary — (2008-2009) — Asoka USA Corporation — Acting General Counsel — (2009-2011) — Versartis — Counsel, Clinical Trials — (2011-2016) — TriReme Medical — Senior Corporate Counsel — (2012-) — Community — Taiwanese American Foundation — President
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

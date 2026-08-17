@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** lawyer
 - **Source:** TAH Foundation Who’s Who
 
-ALEXANDER M. LEE (李豪台) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- New York Law School — 1993 — Juris Doctor
+
+## Employment
+- Law Offices of Alexander M. Lee — 1996 – P resent — Owner
+- DragonOne Sports — 2010-11 — Vice-President and General Counsel
+- Borough of Caldwell, New Jersey — 2004-09 — Public Defender
+<!-- tah-tables:end -->
 
 ## Family
 

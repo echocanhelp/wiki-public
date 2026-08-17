@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Chao-Hsiung Hsu (許昭雄醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 中國醫藥學院 — B.S. 醫科
+- Linda University — M.S. 公共衛生
+
+## Employment
+- 台北市立婦產科醫院、 — 住院醫師
+- 台北市立仁愛醫院婦產科 — 住院總醫師
+- 南加州Hemet Valley Medical Center — Present — 家醫科
+<!-- tah-tables:end -->
 
 ## Family
 

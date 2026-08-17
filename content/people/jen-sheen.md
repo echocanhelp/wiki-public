@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Jen Sheen (沈正韻) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S.植物
+- Harvard University — 1986 — Ph.D.細胞暨發展生物
+
+## Employment
+- Harvard University — present — professor
+<!-- tah-tables:end -->
 
 ## Family
 

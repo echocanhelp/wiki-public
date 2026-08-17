@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Pianist Jessie Chang is admired for her beautiful tone, commanding technique, and magnetic personality. She first discovered her love for the piano when she was not even four years old and urged her parents to enroll her in the Yamaha Music School in Taipei, Taiwan. Later, Ms. Chang made her TV debut, appearing on the Taiwan Central Television when she was ten years old. Five years later, she made her concerto debut with the California State University Orchestra.
 
+<!-- tah-tables:start -->
+## Education
+- Manhattan School of Music — B.S. Music
+- Manhattan School of Music — 2001 — M.S. Music
+
+## Employment
+- San Diego Symphony — Teaching — 2.
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** 林望杰

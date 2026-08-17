@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Prof. Grace Chen Huang 陳怡安教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- Stanford Univ. — 1995 — B.S., Biological Sciences
+- Washington Univ. — 1999 — M.D.
+
+## Employment
+- Harvard Medical School and Beth Israel Deaconess Medical Center — Dean of Faculty Affairs, Harvard Medical School; Hospitalist at Beth Israel Deaconess Medical Center
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Father:** Tong Chen

@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Nam Yeung, Piano Professor of Tainan University of Technology, Taiwan. Chairman of Tainan Music Teachers Association. Concerto concerts, solo recitals, chamber music performances in United States, China, Hong Kong and Taiwan.
 
+<!-- tah-tables:start -->
+## Education
+- 約翰霍普金斯大學琵琶蒂音樂學院 — M.S. 鋼琴演奏碩士
+- 路易斯安那州立大學 — Ph.D. 音樂藝術
+
+## Employment
+- Tainan University of Technology — Professor
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 3. President of Formosan Association for Public Affairs (FAPA) / South Texas Chapter (台灣人公共事務會南德州分會會長)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1971 — B.S., Agronomy
+- Texas A&M Univ. — 1980 — Ph.D., Food Science and Technology
+
+## Employment
+- NASA Houston Johnson Space Center — Space Food Manufacturing and Quality Control — (1980-) — ACAOM (休士頓華美中醫學院) — Professor — (2002-2012) — Community — Formosan Association for Public Affairs (FAPA) — President (2018) — Formosan Association for Public Affairs (FAPA) / South Texas Chapter — President — TAA/Houston (休士頓台灣同鄉會) — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 曾秀華

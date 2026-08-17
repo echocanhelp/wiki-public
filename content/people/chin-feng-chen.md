@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 4. Four-time Chinese Professional Baseball League championship 2006、2012、2014、2015
 
+<!-- tah-tables:start -->
+## Education
+- Chung Hwa Senior High School (中華中學)
+
+## Employment
+- Los Angeles Dodgers — Baseball Player — (2002-2005) — Rakuten Monkeys — Baseball Player — (2006-2016) — Fubon Guardians — Deputy Team Leader
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 林右璇

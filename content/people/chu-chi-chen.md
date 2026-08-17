@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Chu-Chi Chen (陳珠琦醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 中國醫藥大學醫學系 — B.S.醫學
+
+## Employment
+- Kansas — 泌尿外科醫師
+<!-- tah-tables:end -->
 
 ## Family
 

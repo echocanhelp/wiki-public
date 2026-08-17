@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-T. H. Ying (應天華) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 龍華科大 — B.S.機械
+- M.S. 商業管理
+
+## Employment
+- 美國I/O Control’s — 創辦人兼總裁
+<!-- tah-tables:end -->
 
 ## Family
 

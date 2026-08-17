@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** lawyer
 - **Source:** TAH Foundation Who’s Who
 
-Andrew Wu is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Columbia University — B.A.
+- Rutgers University — J.D.
+
+## Employment
+- Wu & Hung Law, LLC — 開業律師
+<!-- tah-tables:end -->
 
 ## Family
 

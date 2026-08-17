@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Chris CN Chang (張照男) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學
+
+## Employment
+- Lehigh Valley Health Network-Allentown PA — 1993-2013 — Chief of Ped Surgery
+- Harrisburg Hospital-Harrisburg, PA — 1980-1993 — Chief of Ped Surgery
+<!-- tah-tables:end -->
 
 ## Family
 

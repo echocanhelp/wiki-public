@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 2. The First T. A. Earned Both B. S.(1948) and M. S. (1955) Degrees in Nursing Field
 
+<!-- tah-tables:start -->
+## Education
+- Univ. of Toronto — 1948 — B.S., Nursing education
+- Boston Univ. — 1955 — M.S., Nursing administration
+
+## Employment
+- Tai-Da Nursing School (台大護校) — Founder and First President — (1948-1958) — The World Health Organization — Health Consultant — (1956-1977) — Community — Women Movement for Democracy in Taiwan (WMDT) — Founder
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

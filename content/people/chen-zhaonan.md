@@ -24107,6 +24107,13 @@ Notable quotes and mentions of **陳昭南** in Taiwan Justice articles:
 - **Hub:** [[sources/taiwanjustice-net|taiwanjustice.net source hub]]
 - **Archive:** [Column articles](https://github.com/echocanhelp/wiki-public/tree/gh-pages/knowledge/web-archives/taiwanjustice-net/tier2/)
 
+<!-- tah-tables:start -->
+## Education
+- 省立台北師範學校
+- 台灣藝術專科學校
+- 奧地利國立維也納音樂院 — 1974
+<!-- tah-tables:end -->
+
 ## Sources
 - [TAH #1185 encyclopedia: 1185.  Chao-Nan Chen 陳昭南 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1185/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chao-nan-chen/)

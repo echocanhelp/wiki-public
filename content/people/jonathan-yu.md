@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Jonathan Yu (余裕義) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 美國聖保羅協和神學院 — M.S. 道學碩士
+- 美國亞特蘭大哥倫比亞神學院 — M.S. 協談
+
+## Employment
+- 美國洛杉磯"家庭希望線" — present — 主任
+- 洛杉磯台灣基督敎會 — 牧師
+<!-- tah-tables:end -->
 
 ## Family
 

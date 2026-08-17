@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 A native of Taiwan, pianist Shiau-uen Ding is an energetic performer of traditional and contemporary repertoire. She studied piano with Eugene Pridonoff, Elizabeth Pridonoff, and Lina Yeh, computer music with Mara Helmuth and Christopher Bailey, and contemporary improvisation with Alan Bern at National Taiwan Normal University and University of Cincinnati, where she received her doctoral degree. She lives in New York City.
 
+<!-- tah-tables:start -->
+## Education
+- 台灣國立師範大學 — 音樂系 — 辛辛那提大學音樂院 — 碩士 — 辛辛那提大學音樂院 — 博士
+
+## Employment
+- shiauuending.com
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-T. S. Hsu (許廷鑫) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台北商專 — B.S. 財政稅務
+
+## Employment
+- “GARDEN TALS” — Present — President
+<!-- tah-tables:end -->
 
 ## Family
 

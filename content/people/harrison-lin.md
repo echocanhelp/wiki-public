@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Harrison Lin (林貞棟) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- USC-Keck School of Medicine — M.D.
+- Harvard Medical School Otolaryngology — Residency
+
+## Employment
+- UC Irvine Health — Assistant Professor
+<!-- tah-tables:end -->
 
 ## Family
 

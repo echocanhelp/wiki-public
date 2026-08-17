@@ -24,6 +24,17 @@ Employment
 2013-present
 Distinguished Chair Professor
 
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1968. — B.S.
+- Yale University — 1969 — M.S.
+- University of Chicago — 1973 — Ph.D. Microbiology /Immunology
+
+## Employment
+- Chang Gung Memorial Hospital & Chang Gung University & Co- Director, Institute of Stem Cell and Translational Cancer Research — 2013-present — Distinguished Chair Professor — Genomics Research Center, Academia Sinica — 2003-2013 — Distinguished Research Fellow and Deputy Director
+- Pediatric Hematology/Oncology, University of California, San Diego — 2001-2003 — Professor and Chief
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** 游正博

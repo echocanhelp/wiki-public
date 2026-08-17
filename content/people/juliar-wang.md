@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Source from 美洲台灣日報http://taiwandaily.net/gp2.aspx?_p=kSF1c9zU9HS21FClfOjsJD7dPHKLpMMZ
 
+<!-- tah-tables:start -->
+## Education
+- National Taichung Univ. (臺中師範學院) — B.A., Music
+- USC — M.Mus.
+
+## Employment
+- Brico King — Founder — (1979-) — Community — NATWA-SC (北美洲台灣婦女會南加分會) — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** [[people/wang-yao-ting-xie-xiulan|王耀廷]]

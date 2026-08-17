@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Dr. Wen-Chen (Kenneth) Wu 吳文振博士 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- Taipei Medical Univ. (臺北醫學大學) — B.S., Pharmacy
+- Univ. of Minnesota — M.S., Pharmacy Administration — Ph.D., Pharmacy Administration
+
+## Employment
+- St. John's University — Associate Professor of Pharmacy Administration — St. John's University — Chair, Dept. of Pharmacy Administration and Allied Health Sciences — St. John's/Merck Pharmacoeconomics and Outcomes Research Fellowship Program — Director
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist
 - **Source:** TAH Foundation Who’s Who
 
-Rev. Parker Shieh (謝貫明牧師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- M.S., Analytical Chemistry
+- M.S., Christian Studies and Presbyterian Studies Diploma and Theology
+- Ph.D., Analytical Chemistry
+
+## Employment
+- St. Andrew's Hall at UBC — Part-time Pastor — (2007-) — Vancouver Taiwanese Presbyterian Church (溫哥華台灣基督長老教會) — Pastor — (2009-) — Salvation Army New Life Christian Church (救世軍新生命基督教會) — Pastor
+<!-- tah-tables:end -->
 
 ## Family
 

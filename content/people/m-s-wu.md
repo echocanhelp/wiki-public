@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, scientist
 - **Source:** TAH Foundation Who’s Who
 
-M.S. Wu (吳銘賢博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S. 化工
+- 密蘇里大學 — Ph.D. 化學
+
+## Employment
+- Pacific Biotech — 1982 — 創辦人
+- Wyntek Diagnostics — 1994 — 創辦人
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Note
 Entire family (wife, son and him) vanished in a bus accident in Cancun, Mexico, 1993
 
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S.化工
+- 加州理工學院 — Ph.D.化工
+
+## Employment
+- 麻州大學 — 教授
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

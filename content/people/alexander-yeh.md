@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, physician
 - **Source:** TAH Foundation Who’s Who
 
-Alexander Yeh (葉怡平) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S.農藝
+- Texas Tech University — M.D. Chemistry
+- 奧克拉荷馬大學 — Ph.D. Biochemistry
+
+## Employment
+- 費城內科 — present — 執業醫師
+- 費城哈內門醫院 — 內科住院醫師
+- The Mount Sinai Hospital — reasercher
+<!-- tah-tables:end -->
 
 ## Family
 

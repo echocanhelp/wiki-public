@@ -19,7 +19,19 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, scientist
 - **Source:** TAH Foundation Who’s Who
 
-Kang-Lu Wang (王康陸博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台中農學院 — 1958 — B. S. 園藝系
+- 堪薩斯州大學 — 1967 — M.S. 植物生理
+- 堪薩斯州大學 — 1971 — Ph.D. 植物生理
+- NYU Computer Institute — 1972
+
+## Employment
+- 味全食品公司 — 1963
+- AT&T — 1974
+- NYNex Corp. — 1974-1991
+<!-- tah-tables:end -->
 
 ## Family
 

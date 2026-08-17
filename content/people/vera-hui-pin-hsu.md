@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 Dr. Vera Hui-pin Hsu is a pianist/conductor and the winner of the 2009 International Conductors Workshop and Competition in Georgia, U.S.A. She received Doctor of Musical Arts in piano performance (under the tutelage of Martin Canin) from the Graduate Center of the City University of New York in 2013. She gave recitals and lecture concerts in Germany, Austria, U.S. and Taiwan. In 2015 January, Vera served as Artist in Residence at Haifa University in Israel, during which she also held concerts and masterclasses in Jerusalem and Tel Aviv. She toured with Haifa Symphony Orchestra in Israel in 2012. Vera Hsu recorded Sung-jen Hsu’s piano concerto, “Pounding Rain,” as the soloist with Taiwan Philharmonic, and the album was issued by Taiwan’s National CKS Cultural Center in the Voice of Taiwan series.
 
+<!-- tah-tables:start -->
+## Education
+- Year
+- 台北藝術大學 — B.A. 鋼琴演奏
+- 台北藝術大學 — M.S. 管弦樂指揮
+- 美國紐約市立大學 — Ph.D 鋼琴演奏
+
+## Employment
+- Year
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

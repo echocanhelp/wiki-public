@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist
 - **Source:** TAH Foundation Who’s Who
 
-K.H. Huang (黃國雄) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S. 農經
+- 加州柏克萊大學 — M.S. 統計
+- 州柏克萊大學 — Ph.D.農經
+
+## Employment
+- 美國農業部
+<!-- tah-tables:end -->
 
 ## Family
 

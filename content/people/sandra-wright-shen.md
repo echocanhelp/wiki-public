@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 仙杜拉‧賴特‧沈 Sandra Wright Shen – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- 琵琶第音樂學院 — 1994 — B.S. Music
+- 琵琶第音樂學院 — 1996 — B.S. Music
+
+## Employment
+- Southern Illinois University — 2004-2005 — Lecture
+- Brevard Music Center — 2006-
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

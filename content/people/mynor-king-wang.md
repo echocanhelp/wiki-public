@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Mynor King Wang (王華東博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 中原理工學院第一屈 — 1959 — B.S., 物理系
+- 維州、俄亥又州及俄燈等大學 — 物理,核工,工管及工程科學碩士及博士
+
+## Employment
+- 加州金山灣區十所大學 — 1982- — 物理,數學,電子教授
+<!-- tah-tables:end -->
 
 ## Family
 

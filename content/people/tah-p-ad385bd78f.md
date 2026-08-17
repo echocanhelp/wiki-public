@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-%E6%9E%97%E5%Bd%B0%E5%Bd%A9 (林彰彩) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 高雄醫學院 — 1966 — M.D.
+- 新竹中學 — 1958
+
+## Employment
+- Self Employer — -2012 — Retired
+<!-- tah-tables:end -->
 
 ## Family
 

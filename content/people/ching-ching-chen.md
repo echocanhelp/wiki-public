@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Exploring identities and cultures in scientific, psychological conditions are Ching Ching Cheng’s main practice with various approaches using mixed mediums and found objects through drawings, paintings, sculptures and installation. Different places have different cultures, and human beings will naturally change and adapt to different environments. When people travel, they bring their culture and identity with them. Sometimes the culture and identity that they bring with them changes and adapts to that new environment. In the end, it changes to a modified new culture or a different identity. Cheng always put herself in the situation to make the subject matter more personal to her, so her work gives an intimate and personal account of her own experiences, while simultaneously encouraging the viewer to recall their own.
 
+<!-- tah-tables:start -->
+## Education
+- 帕薩迪納藝術中心學院 — 2009 — B.S. 美術
+
+## Employment
+- Artist
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

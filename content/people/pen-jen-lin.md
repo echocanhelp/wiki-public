@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Pen-Jen Lin (林本仁) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Tsing-Hua University — 1995 — B.S. Science
+- National Yang-Ming University — 1997 — M.S. Bio-Pharmaceutical Science
+- University of North Carolina at Chapel Hill — 2003 — Ph.D. Biology
+
+## Employment
+- Western University of Health Science — Present — Assistant Professor
+<!-- tah-tables:end -->
 
 ## Family
 

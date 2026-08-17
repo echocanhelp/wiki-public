@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Freeman Lin (林日榮) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 東吳大學 — B.S.外文系
+
+## Employment
+- 太陽眼鏡進出口公司
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Samuel Kao (高榮彬) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 復興美工
+
+## Employment
+- JSK Custom Design — 2010-present — 創辦人
+- JSK Moto Company — 2010-present — 創辦人
+<!-- tah-tables:end -->
 
 ## Family
 

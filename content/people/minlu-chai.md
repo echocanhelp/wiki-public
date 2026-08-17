@@ -19,7 +19,12 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Minlu Chai (蔡銘祿) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Employment
+- 合成製藥廠 — 1959 — 創辦人
+- University Hilton — 1982 — President
+<!-- tah-tables:end -->
 
 ## Family
 

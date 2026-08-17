@@ -24,6 +24,16 @@ Employment
 2014-present
 United States District Judge
 
+<!-- tah-tables:start -->
+## Education
+- Havard University — 1991 — B.A.
+- Harvard Law School — 1994 — J.D.
+
+## Employment
+- United States District Court for the District of Maryland — 2014-present — United States District Judge
+- United States Department of Homeland Security — Deputy General Consel
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

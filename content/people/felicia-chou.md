@@ -23,6 +23,16 @@ National Aeronautics and Space Administration (NASA)
 Public Affairs Officer
 (2014-)
 
+<!-- tah-tables:start -->
+## Education
+- Ursinus College — B.A. — Syracuse University — M.A. Media Management
+
+## Employment
+- National Aeronautics and Space Administration (NASA) — 2014-present — Public Affairs Officer — US Environmental Protection Agency (EPA)
+- News 10 Now
+- New York State Fair/Empire Expo Center
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

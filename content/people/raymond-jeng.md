@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Raymond Jeng (鄭英松) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1962 — 農學院農工系水利組
+- Colorado State University — 1965 — MS. in 土木系水文學
+- Colorado State University — 1968 — PhD.
+
+## Employment
+- 加州州立大學洛杉磯分校 — 1968-2003 — 系主任
+<!-- tah-tables:end -->
 
 ## Family
 

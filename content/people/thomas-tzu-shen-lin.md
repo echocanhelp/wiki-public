@@ -23,6 +23,20 @@ Neoplastic Diseases Dept., Mt. Sinai Medical Center, New York, NY
 Research Associate
 (1982-)
 
+<!-- tah-tables:start -->
+## Education
+- Tainan First High School — 1957
+- National Taiwan University — 1961 — B.S., Chemical Engineering
+- Highland University, Albuquerque, NM — 1967 — M.S., Organic Chemistry
+- Colorado State University. Ft. Collins, Colorado — 1972 — Ph.D.,Organic Chemistry
+- Colorado State University — 1975 — Post doctorate in Biochemistry
+
+## Employment
+- Cheng Kong University, Chemistry Department — 1965 — Teaching Assistant
+- Neoplastic Diseases Dept., Mt. Sinai Medical Center. New York, NY — 1982 — Research Associate
+- Mail order in health products business — 1982 — Business owner
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Su-Huei Pan 潘淑慧

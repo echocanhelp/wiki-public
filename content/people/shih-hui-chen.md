@@ -21,6 +21,19 @@ last_reviewed: 2026-08-17
 
 A citation accompanying Shih-Hui Chen’s Goddard Lieberson Fellowship from the American Academy of Arts and Letters states: “Among the composers of Asian descent living in the U.S.A., Shih-Hui Chen is most successful in balancing the very refined spectral traditions of the East with the polyphonic practice of Western art-music. In a seamless narrative, her beautiful music, always highly inventive and expressive, is immediately as appealing as it is demanding and memorable.” According to the New Music Box review of 66 Times (Albany Records CD), Chen “…completely blurs the line between traditional Chinese music and contemporary American composition.” Her most recent CD, Returning Souls (New World), was hailed by Wire Magazine for its “deep musical intelligence.” Born in Taiwan, Shih-Hui Chen has lived in the United States since 1982 and received her doctorate from Boston University. In addition to garnering a Koussevitzky Music Foundation Commission, a Guggenheim Fellowship, and an American Academy in Rome Prize, her compositions have been performed widely throughout the U.S. and abroad, including China, Japan, England, Germany, and Italy. Chen’s compositions have brought her into con
 
+<!-- tah-tables:start -->
+## Education
+- 國立藝術 — B.S. Music
+- Northern Illinois University — 1985 — M.S. Music
+- Boston University — 1993 — Ph.D. Music
+
+## Employment
+- Longy School of Music
+- Bunting Institute of Harvard University
+- Boston University Tanglewood Institute — 作曲總監
+- Rice University Shepherd School of Music — 2000-present — 專任副教授
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Son:** ???

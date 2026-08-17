@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 加州副州長辦公室 (Office of the Lieutenant Governor of California)
 亞洲經濟諮詢委員會助理 (Assistant, Asian Economic Advisory Committee)
 
+<!-- tah-tables:start -->
+## Education
+- UCLA — 商業設計
+
+## Employment
+- ,加州副州長辦公室 — Present — 亞洲經濟諮詢委員會助理
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Father:** [[people/f-m-yang|楊豐明]]

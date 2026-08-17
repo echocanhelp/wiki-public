@@ -187,6 +187,15 @@ Notable quotes and mentions of **陳柏宇** in Taiwan Justice articles:
 - **Pending:** Preferred English spelling (where marked provisional), full biography, tenure dates beyond chart year
 - `verification_status: pending` until member or officer review
 
+<!-- tah-tables:start -->
+## Education
+- Berkeley University — B.S.
+- Indiana University School of Medicine — M.S. medicine
+
+## Employment
+- The Permanente Medical Group — Ophthalmology,
+<!-- tah-tables:end -->
+
 ## Sources
 - [TAH #1788 encyclopedia: 1788. Paul Y. Chen 陳柏宇](https://taiwaneseamericanhistory.org/whos-who-1788-paul-y-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/paul-chen/)

@@ -21,6 +21,11 @@ last_reviewed: 2026-08-17
 
 For the past few years, Brooklyn resident Treya Lam’s presence on stage has been sanguine, collected, and impossible to shake, which is why she’s been known as ‘Vulpes,’ which is Latin for ‘fox.’ From her intimate solo performances to sharing the spotlight with a classical ensemble, Treya has a beguiling effect on listeners.
 
+<!-- tah-tables:start -->
+## Employment
+- Amazing Artists — Recording Artist (signed) — (2015-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Founder/First Principal of Queens High School of Language Studies 2013-Present
 
+<!-- tah-tables:start -->
+## Education
+- Columbia Univ. — B.S., Politics and Eastern Asia Study — M.S., School Principal Training
+- City College of New York — M.S., Education
+
+## Employment
+- Queens High School of Language Studies — Principal — (2013-) — Henry Street School of International Student — Teacher of ESL — Community — Intercollegiate Taiwanese American Students Association / Columbia University — President — Formosan Association for Public Affairs (DC Headquarter) — Summer Intern
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Father:** Chan-chi Lee

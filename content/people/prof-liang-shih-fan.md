@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Prof. Liang-Shih Fan 范良士教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1970 — B.S., Chemical Engineering
+- West Virginia Univ. — 1973 — M.S., Chemical Engineering — 1975 — Ph.D., Chemical Engineering
+- Kansas State Univ. — 1978 — M.S., Statistics
+
+## Employment
+- Amoco — Research Engineer — (1979-) — Argonne National Lab. — Research Scientist — (1980-) — U.S. Department of Energy — Research Scientist — Center on Fine Particle Technology — CEO — (1997-) — Dept. of Chemical Engineering, Ohio State Univ. — Distinguished Univ. Professor and Chair; C. John Easton Professor — (2003-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

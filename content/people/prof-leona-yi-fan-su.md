@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Prof. Leona Yi-Fan Su 蘇怡帆教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- Univ. of Wisconsin-Madison — 2014 — MPA., Public Affairs — 2016 — Ph.D., Mass Communications
+
+## Employment
+- Univ. of Utah — Assistant Professor — (2016-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** [[people/yi-cheng-wang|Yi-Cheng Wang]]

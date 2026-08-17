@@ -19,7 +19,12 @@ last_reviewed: 2026-08-17
 - **Core roles:** journalist
 - **Source:** TAH Foundation Who’s Who
 
-M. C. Cheng Lee (李鄭美昭) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Employment
+- 台灣公論報 — 聖地牙哥地區記者
+- 聖地牙哥台灣教會 — 執事及主日學校長
+<!-- tah-tables:end -->
 
 ## Family
 

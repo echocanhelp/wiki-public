@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Prof. Liao-Tsung Lin 林料總教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Cheng Kung Univ.
+
+## Employment
+- National Cheng Kung Univ. — Professor of Electrical Engineering — (1944-1985)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

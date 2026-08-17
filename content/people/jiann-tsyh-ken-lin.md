@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 President, North American Taiwanese Professors Association, Northern California Chapter (1997)
 
+<!-- tah-tables:start -->
+## Education
+- 中興大學 — 1963 — B. S., 農業化學系農產製造組
+- University of Mississippi — M.S. Biochemistry
+- Drexel University — 1971 — Ph. D., Chemistry
+
+## Employment
+- United States Department of Agriculture, Albany, California — 1978-now — Research Chemist
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Sandy

@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Connie Huang (黃康妮) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 賓州爵克索大學(Drexel) — B.S.
+
+## Employment
+- 陸軍 — -2008 — 上尉指揮官
+- 德國訊號部隊 — 2008- — IT顧問
+<!-- tah-tables:end -->
 
 ## Family
 

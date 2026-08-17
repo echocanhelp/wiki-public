@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Ho-Yang Peter Tsai (蔡和陽) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- University of Washington — B.S. psychology
+- University of Washington — M.S. Social Work
+
+## Employment
+- Center for Career Alternatives — Director
+- Robert Chinn Foundation — present — Grant administrator
+<!-- tah-tables:end -->
 
 ## Family
 

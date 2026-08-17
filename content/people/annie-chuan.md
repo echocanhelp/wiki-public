@@ -21,6 +21,18 @@ last_reviewed: 2026-08-17
 
 Annie Chuan, cellist, has received her Doctor of Musical Arts degree from the University of Maryland, College Park in 2008. She has won numerous major awards in her early career, such as the first prize of the National Cello and String Quartet Competition pan universities in Taiwan. She was honorably elected as a member of the Jeunesses Musicales World Orchestra (JMWO) in 2001, and made a concert tour of Europe. She also joined the Formosa Youth Symphony Orchestra and performed in the Lincoln Center, New York. In the recent career, she was invited to play with various prestigious symphony orchestras, such as the Maryland Symphony Orchestra, the Concert Artists of Baltimore, Alexandria Symphony Orchestra and the Fairfax Symphony Orchestra. She also dedicates herself to education. She was an instructor of the Montgomery College Orchestra, MD, and the cello-section instructor of the District Metropolitan Youth Orchestra Program. Currently, she is one of the founders, a chief cello instructor of the Kentlands Music Studio, and a member of the Music Teacher Maryland/National Association.
 
+<!-- tah-tables:start -->
+## Education
+- 輔仁大學 — B.S. Music
+- 馬里蘭大學 — 2008 — Ph.D音樂藝術
+
+## Employment
+- Montgomery College管弦樂團大提琴 — 大提琴教師
+- District Metropolitan Youth Orchestra Program大提琴 — 大提琴教師
+- 美國大華府地區台灣文化中心兒童音樂劇音樂總監 — 2009 — 音樂總監
+- 大華府地區客家會(Hakka Association in Washington Metropolitan Area) 青年管弦樂團 — 2010 — 指揮
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

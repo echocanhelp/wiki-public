@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-John Fan (樊立勳博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 普林斯頓大學 — B.S.
+- 史丹佛大學 — Ph.D.電機
+
+## Employment
+- - Cardinal Blue — 共同創辦人及執行長
+<!-- tah-tables:end -->
 
 ## Family
 

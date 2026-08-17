@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. He holds over 15 patents in the field of sensors, algorithms, edge processing and validation.
 
+<!-- tah-tables:start -->
+## Education
+- Stanford Univ. — 2002 — MS, EE & Management Science
+- UC Berkeley — BS, EE & Computer Science
+
+## Employment
+- BioIntelliSense — Co-Founder & CTO — (2018-) — Striiv Corp — CEO
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

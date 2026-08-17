@@ -23,6 +23,17 @@ last_reviewed: 2026-08-17
 -
 Associate Professor
 
+<!-- tah-tables:start -->
+## Education
+- Cornell University — B.S. Architecture
+- Princton University — M.S. Architecture
+
+## Employment
+- Ants of the Prairie — Director
+- Architectural practice and research — office
+- Architecture at the State University of New York at Buffalo,School of Architecture and Planning — Associate Professor
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Sergio

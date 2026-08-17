@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 2. Conference co-Chair of the inaugural 2010 International Conference on Technology & Applications of Artificial Intelligence (TAAI 2010)
 
+<!-- tah-tables:start -->
+## Education
+- University of Southern California — M.S.Computer Science
+- University of Southern California — Ph.D.Computer Science
+
+## Employment
+- 加州大學聖地牙哥分校 — Present — Associate Professor of Medicine
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 2. Chairman of the US East Party Dept. of the Taiwan Solidarity Alliance (台灣團結聯盟美東黨部主委)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.S., Mechanics
+- Brown Univ. — 1974 — Ph.D., Engineering
+
+## Employment
+- GE — Researcher — TRW Inc. — Researcher — Community — Taiwan Overseas Chinese Affairs Commission — Commissioner (台灣僑務委員) — Taiwan Solidarity Alliance US East Party Department (台灣團結聯盟美東黨部) — Chairman (主委)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

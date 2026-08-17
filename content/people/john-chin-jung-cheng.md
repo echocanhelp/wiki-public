@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-John Chin-Jung Cheng (鄭錦榮牧師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 青島醫學院 — M.D.
+- 台灣神學院 — 神學士
+
+## Employment
+- 台北李春生長老教會 — 傳道牧師
+- 台北YMCA聖樂合唱團 — 指揮
+<!-- tah-tables:end -->
 
 ## Family
 

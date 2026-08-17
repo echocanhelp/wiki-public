@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Rhoda Wang Jeng is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Johns Hopkins Univ. — 1986-1990 — B.S., Music
+- Yale Univ. — 1990-1992 — M.S., Music
+- Univ. of Rochester — 1992-1995 — Doctor of Musical Arts
+
+## Employment
+- Drexel University — Assistant Professor — (1994-1995) — Essex Community College — Assistant Professor — (1996-1998) — Grove City College — Guest Lecturer — (1998-2002) — Grove City College — Associate of Music — (2002-)
+<!-- tah-tables:end -->
 
 ## Family
 

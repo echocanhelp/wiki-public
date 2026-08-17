@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Bonnie Yang is a native of Taichung, Taiwan. She graduated from Shih-Chien Home Economics College in Taiwan, majoring in Music. Mrs. Yang studied piano under Professor Robert Scholz and Professor Pan-Ann Chen and pursued her career as a piano teacher at Yamaha Music Institute for 10 years while she was in her homeland. She has been actively involved in community affairs and was appointed as the Master of Ceremony at annual Taiwanese Culture Nights in 1994, receiving a high recognition. Recently, she was elected as a vice chairperson of Taiwanese United Foundation, in which she devotes herself in many community outreaching activities to promote Taiwanese culture and performing arts. She is an energetic and efficient manager in her husband’s Radiology Clinic. She also serves as the deaconess and the choir director at Grace Taiwanese Presbyterian Church in Temple City.
 
+<!-- tah-tables:start -->
+## Education
+- 實踐家政學院 — 1994 — B.A.音樂系
+
+## Employment
+- 台灣基督長老教會 — present — 執事及聖歌隊指揮
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

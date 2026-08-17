@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Yang Yang (楊陽) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Cheng-Kung University — 1982 — B.S. Physics
+- Univ. of Massachusetts, Lowell — 1988 — M.S. Physics
+- Univ. of Massachusetts, Lowell — 1992 — Ph.D. Applied Physics
+
+## Employment
+- UCLA — 1997-present — Professor
+<!-- tah-tables:end -->
 
 ## Family
 

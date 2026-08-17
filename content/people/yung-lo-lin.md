@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Yung-Lo Lin (林永樂) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 中原理工學院 — 1960 — B.S., 土木工程
+- National Taiwan Univ. — 1963 — M.S., 土木工程
+- Princeton Univ. — 1967 — M.S., Aerospace and Mechanical Sciences
+- Princeton Univ. — 1969 — Ph.D., Aerospace and Mechanical Sciences
+
+## Employment
+- National Taiwan Univ. — 1972-73 — Visiting Associate Professor
+<!-- tah-tables:end -->
 
 ## Family
 

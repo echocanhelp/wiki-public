@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-John Y. Chieu is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- U TX Arlington — 1980-1982 — MSME
+- U of Houston — 1986 — No degree — Engineer
+- Bechtel Power — 1982-86 — Engineer
+- S&W Corp. — 1986-88 — Engineer
+- Puma Industries — 1988-2016 — Manager
+
+## Employment
+- Bechtel Power — Engineer — (1982-1986) — S&W Corp. — Engineer — (1986-1988) — Puma Industries — Manager — (1988-2016)
+<!-- tah-tables:end -->
 
 ## Family
 

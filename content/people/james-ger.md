@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician, artist
 - **Source:** TAH Foundation Who’s Who
 
-James Ger (葛原隆醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台北醫學院 — 1970 — M.D.
+- AmericanBoardof Obstetrics and Gynecology — 1979 — Academician
+
+## Employment
+- Physician
+<!-- tah-tables:end -->
 
 ## Family
 

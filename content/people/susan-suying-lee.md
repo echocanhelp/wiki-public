@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, artist
 - **Source:** TAH Foundation Who’s Who
 
-Susan Suying Lee (李淑英) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1973 — B.A. Library Science
+- Univ. of Wisconsin — 1984 — M.B.A. Business
+
+## Employment
+- Racine Unified School — 1980 — SR. Programmer
+- TransAmerica Life — 1984 — SR. Programmer
+- Edison Electricity — 1996 — SR. Project Leader
+<!-- tah-tables:end -->
 
 ## Family
 

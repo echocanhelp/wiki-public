@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 1. President of Taiwanese-America Seniors Association of Southern California (TASA)(南加州台灣人長輩會會長) 1995, 1997
 
+<!-- tah-tables:start -->
+## Education
+- 台北工專五年制 — 1959 — 電機科
+- University of Southern California — 1967 — MSEE
+- Columbia Pacific University — 1980 — Ph.D.
+
+## Employment
+- 台灣電力公司電機 — 1964 — 工程師
+- 南加州愛迪生電力公司(Southern California Edison Company) — 1995 — 電機工程師
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Son:** 曾國哲 Sam K Tseng

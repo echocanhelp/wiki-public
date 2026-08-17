@@ -19,7 +19,11 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Justine Ker is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Vanderbilt University — 2016 — M.S., Molecular and Cellular Biology
+<!-- tah-tables:end -->
 
 ## Family
 

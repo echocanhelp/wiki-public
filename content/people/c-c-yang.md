@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur, scientist
 - **Source:** TAH Foundation Who’s Who
 
-C. C. Yang (楊朝諄) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 東海大學 — 1968 — B.S. 物理
+- 印第安那大學 — M.S. 核子物理
+- 印第安那大學 — Ph.D.核子物理
+
+## Employment
+- 亞洲化學股份有限公司 — 1985-Present — President
+<!-- tah-tables:end -->
 
 ## Family
 

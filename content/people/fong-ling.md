@@ -19,7 +19,12 @@ last_reviewed: 2026-08-17
 - **Core roles:** artist
 - **Source:** TAH Foundation Who’s Who
 
-Fong Ling (峰怜) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 1966
+- Taichung Nursing School — 1960 — Nursing
+<!-- tah-tables:end -->
 
 ## Family
 

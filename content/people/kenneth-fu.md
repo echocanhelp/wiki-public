@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, scientist
 - **Source:** TAH Foundation Who’s Who
 
-Kenneth Fu is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan University — 2000 — M.S. Physics
+- UC San Diego — 2007 — Philosophy
+
+## Employment
+- 1. — Research Engineer and Software Developer
+- 2. General Atomics Aeronautical Systems
+<!-- tah-tables:end -->
 
 ## Family
 

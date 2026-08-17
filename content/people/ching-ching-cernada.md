@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Participated in Taiwan and Pakistan Family Planning and reproductive health program, Taiwan(1971-1976), Pakistan(1991-1995)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1955-1959 — B.A., Anthropology
+- Univ. of California, Berkeley — 1971 — MPH in Public Health
+
+## Employment
+- Taiwan's Family Planning Program — (1971-1976) — Univ. of Massachusetts — (1978-1989) — Amherst School System — (1995-2005)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** George Cernada

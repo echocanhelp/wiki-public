@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-K. S. Lin (林高山) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台北醫學院 — M.D.
+- Chicago University — Ph.D.
+
+## Employment
+- Cincinnati University — Professor
+- Cincinnati Children's Hospital Medical Center — 主治醫師
+<!-- tah-tables:end -->
 
 ## Family
 

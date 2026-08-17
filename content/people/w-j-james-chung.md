@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-W. J. James Chung (鍾文忠) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- New Jersey Institute of Technology — M.S., Mechanical Engineering
+
+## Employment
+- Japanese Ichiban Catering — Owner — (1995-2000) — Zen Modern Asian — Owner — (2011-) — Community — New Jersey Taiwanese Chamber of Commerce — President
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -23,6 +23,19 @@ City of Hope Medical Center
 Assistant, Associate, Senior Scientist and Section Head
 (1970-1975)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1963 — Bachelor, Chemistry
+- Univ. of California, San Francisco Medical Center — 1968 — Ph.D.
+- UCLA — 1968-70 — Post-doctoral training
+
+## Employment
+- City of Hope Medical Center (腦神經研究) — 1970-75 — Duarte, Assistant, Associate, Senior Scientist and Section Head
+- Baylor College of Medicine, Houston — 1975-83 — Professor
+- Pennsylvania State University, Hershey Medical Center — 1983-89 — Professor
+- University of Kansas, Department of Physiology and Cell Biology — 1989-95 — Professor and Chairman
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 黃淑英

@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Wu-Lang Lee (李五郎博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1964 — B.S., Economic
+- Univ. of Rochester — 1982 — Ph.D., Economic
+
+## Employment
+- National Bureau of Economic Research (NBER) — 1971 — Research
+- General Motors — 1976 — Economist
+- IRS — 1991
+<!-- tah-tables:end -->
 
 ## Family
 

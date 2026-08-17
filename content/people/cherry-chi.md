@@ -22,6 +22,11 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Treasurer of Taiwanese Association of Greater Portland (大波特蘭台灣同鄉會財務)
 
+<!-- tah-tables:start -->
+## Employment
+- Oregon Health & Science University — Nurse — Community — Taiwanese Association of Greater Portland — Treasurer — FAPA Oregon/SW WA Chapter — President
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

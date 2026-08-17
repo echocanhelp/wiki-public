@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of North American Taiwanese Medical Association/Chicago Chapter (北美洲台灣人醫師協會芝加哥分會會長) 2017
 
+<!-- tah-tables:start -->
+## Education
+- Kaohsiung Medical Univ. — 1968 — M.D.
+
+## Employment
+- Cook County Hospital — Surgical Intern — (1971-) — Rehabilitation Institute of Chicago — (1975-1995) — Center for International Rehabilitation — Northwestern Univ. Prosthetics-Orthotics Center — Northwestern Univ. Feinberg School of Medicine — Community — North American Taiwanese Medical Association, Chicago Chapter — President
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

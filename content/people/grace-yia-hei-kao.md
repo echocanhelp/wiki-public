@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 2. The honor of being the first Asian American woman to have been awarded tenure at CST
 
+<!-- tah-tables:start -->
+## Education
+- Stanford University — 1996 — B.A. 哲學
+- Stanford University — 1997 — M.A.倫理學
+- Harvard University — 2003 — Ph.D.宗教學
+
+## Employment
+- Claremont School of Theology — 2009-Present — Associate Professor of Ethics
+- Center of Sexuality, Gender, and Religion — Present — Co-Director
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

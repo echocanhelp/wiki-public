@@ -76,6 +76,16 @@ She is proficient in Taiwanese, Mandarin, and Spanish, and has taught creative w
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Note:** The profile includes detailed biographical information including education, clerkship, and professional career.
 
+<!-- tah-tables:start -->
+## Education
+- Harvard University — A.B.
+- Yale Law School — J.D.
+
+## Employment
+- Huang Ybarra Singer & May LLP — Funder
+- United States Court of Appeals for the Third Circuit — Clerk — 3, Honorable Samuel A. Alito, Jr. — Clerk
+<!-- tah-tables:end -->
+
 ## Sources
 - [TAH #1213 encyclopedia: 1213. Catherine Huang 黃愷怡 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1213/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/catherine-huang/)

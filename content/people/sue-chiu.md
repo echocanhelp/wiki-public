@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Being always enjoying various forms of artistic expression, I took my first ceramic course at Mercer County Community College almost 30 years ago. I loved working with clay so much and decided I would pursue pottery making as my retirement hobby. Since my retirement in 1998 I have been wholeheartedly enjoying my pottery making. Now this hobby has become my passion. There seems to have this inner drive which constantly inspires me to fulfill my creation.
 
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S. 植物病蟲害
+
+## Employment
+- 普林大學 — 1974- — 生物研究
+- 氰氨公司 — -1998
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** 邱義昌

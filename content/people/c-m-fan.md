@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
-C. M. Fan (范清美) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1963 — B.S.English
+- Florida State University — M.S.社會工作
+
+## Employment
+- 華盛頓公立學校 — 行政人員
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-B. N. Huang (黃邦男) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S. 機械
+- Marquette大學 — M.S.
+- Carnegie Mellon大學 — Ph.D.
+
+## Employment
+- 福特汽車公司 — 研究員
+- Nimax — President
+<!-- tah-tables:end -->
 
 ## Family
 

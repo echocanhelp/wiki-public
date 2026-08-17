@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Dr. Richard R. Hwang 黃瑞煊醫師 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. College of Medicine — 1977 — M.D.
+
+## Employment
+- Bronx-Lebanon Hospital Center — Residency — St. Barnabas Hospital — Pathologist — CUNY School of Medicine — Professor
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

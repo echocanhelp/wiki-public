@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Dr. Ching-Rong Cheng 鄭清榮醫師 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- Taipei Medical Univ. (台北醫學大學) — M.D.
+- Mackay Memorial Hospital — Resident
+
+## Employment
+- UC San Diego Health System — Anesthesiologist & Associate Professor — Mackay Memorial Hospital — Director of Anesthesiology
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** journalist, lawyer
 - **Source:** TAH Foundation Who’s Who
 
-S. Y. Huang (黃森元) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1956 — B.S.法律
+- 大阪帝大 — Ph.D.行政法
+
+## Employment
+- 太平洋時報 — 1988 — 社長
+- 太平洋日報 — 1990 — 社長
+<!-- tah-tables:end -->
 
 ## Family
 

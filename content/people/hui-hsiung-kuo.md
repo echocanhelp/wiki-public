@@ -21,6 +21,22 @@ last_reviewed: 2026-08-17
 
 5. Editor: Infinite Dimensional Analysis, Quantum Probability, and Related Topics
 
+<!-- tah-tables:start -->
+## Education
+- Taiwan Univ. — 1965 — B.A. Math
+- Cornell Univ. — 1968 — M.A.
+- Cornell Univ. — 1970 — Ph.D.
+
+## Employment
+- Univ. of Virginia — 1971-75 — Assistant Professor
+- State Univ. of New York at Buffalo — 1975-76 — Visiting Assistant Professor
+- Wayne State University — 1976-77 — Associate Professor
+- Louisiana State Univ. — 1977-82 — Associate Professor
+- Louisiana State Univ. — 1982-2014 — Professor
+- Louisiana State Univ. — 2000-2014 — Nicholson Professor of Mathematics
+- Louisiana State Univ. — Since 2014 — Nicholson Professor Emeritus
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Fukuko Kuo

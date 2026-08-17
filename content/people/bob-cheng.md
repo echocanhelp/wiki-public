@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Dr. Bob Cheng (鄭寶鼎博士) was a Taiwanese American chemist, entrepreneur, philanthropist, and community leader, and the founder of the Taiwanese American History (T.A.H.) Archives Center in Irvine, California. He was born in Taiwan, where he earned his undergraduate degree from National Taiwan University, before emigrating to the United States to earn his Ph.D. in Chemistry from Syracuse University in 1969. He founded and built a successful electronics company, which provided the resources he would later devote to the Taiwanese American community.
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1959-1963 — B.S., Chemical Engineering
+- Syracuse Univ. — 1965-1969 — M.S. & Ph.D. Chem. Eng.
+
+## Employment
+- Colgate Palmolive — Researcher — (1969-1980) — FEMA Electronics — CEO — (1980-2020) — Community — Taiwanese American Archives / TaiwaneseAmericanHistory.org — Founder — TAA-NJ (台灣同鄉會紐澤西分會) — Co-founder and supporter — Taiwanese American Conference (台美族群研討會) — Founder and sponsor — Windsor Area Taiwanese American Association (溫莎區台美協會) — Founder and supporter
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Jean

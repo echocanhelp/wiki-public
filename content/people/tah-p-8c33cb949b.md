@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-%E8%B3%B4%E6%B1%9F%E6%A4%Bf (賴江椿) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 國立台北科技大學 — B.S.
+- 堪薩斯州立大學 — M.S.工程
+
+## Employment
+- Amoco石油公司 — 深海石油建造工程 — 2.
+<!-- tah-tables:end -->
 
 ## Family
 

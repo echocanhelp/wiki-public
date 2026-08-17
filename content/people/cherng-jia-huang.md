@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 3. Winner of Entrepreneurial Excellence of University of Washington’s College of Engineering Diamond Awards 2017
 
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1960 — B.S.電機
+- 華盛頓大學 — M.S.電機
+- 華盛頓大學 — 1966 — Ph.D.電機
+
+## Employment
+- Bell Labs — 1970- — 研究員
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 沈雲

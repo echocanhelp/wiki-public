@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Member of the International Academy of Ceramics (IAC) in Geneva
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Normal Univ. (師範大學) — 1982 — B.A., Fine Arts in Painting
+- New York Univ. — 1992 — M.A., Ceramic Sculpture
+
+## Employment
+- New York University — Adjunct Professor, Department of Arts and Art Professions — (1993-) — New York — Artist
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

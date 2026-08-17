@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Hong-Yen Hsu (許鴻源博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Meiji Pharmaceutical Univ.(明治藥科大學) — 1937 — B.S., Pharmacy
+- Tokyo Univ. — 1941 — M.S., Pharmacy
+- Kyoto Univ. — 1959 — Ph.D., Pharmacy
+
+## Employment
+- Sun Ten Pharmaceutical Co. — Founder/Owner — (1946-) — Taiwan Hygiene Laboratory — Director — (1951-) — Taipei Medical Univ. — Professor — (1955-) — Taiwan Ministry of Health and Welfare — Director — (1971-) — Community — American Hanfang Medical Research Institute — Founder — Sun Ten Museum — Founder/Collector of Taiwanese art
+<!-- tah-tables:end -->
 
 ## Family
 

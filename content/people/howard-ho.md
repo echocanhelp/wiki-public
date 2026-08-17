@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, scientist
 - **Source:** TAH Foundation Who’s Who
 
-Howard Ho is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1979 — B.S.Electrical Engineering
+- Yale University — 1989 — Ph.D. Computer Science — year
+
+## Employment
+- IBM Almaden Research — 1989 - present — Staff, manager
+<!-- tah-tables:end -->
 
 ## Family
 

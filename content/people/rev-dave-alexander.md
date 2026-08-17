@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 2. Was recipient of Taiwan Ministry of Interior (MOI) recognition for long-term service to the nation, 2007
 
+<!-- tah-tables:start -->
+## Education
+- M.S., Education
+
+## Employment
+- Reformed Church in America — Missionary — (1976-2018) — Tainan Theological College & Seminary — Missionary — (2004-2018)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** [[people/charlene-bos-alexander|Charlene Bos Alexander]]

@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Prof. Chong-Maw Chen 陳正茂教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Normal Univ. — B.S., Botany
+- Univ. of Kansas — Ph.D., Plant Physiology and Biochemistry
+
+## Employment
+- University of Wisconsin — Professor — (1977-) — University of Wisconsin — Professor Emeritus — Community — Research Institute of Applied Molecules — Founder and President — Taiwanese American Foundation of San Diego — President
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

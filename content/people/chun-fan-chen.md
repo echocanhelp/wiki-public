@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Florida International Univ. Best Guiding Professor Award(最佳指導教授獎)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1959 — B.S., Zoology
+- Univ. of Michigan — 1971 — Ph.D., Neurophysiology
+
+## Employment
+- National Taiwan Univ. — Zoology Teaching Assistant — (1963-) — Univ. of Mainz Germany — Assistant Scientist — (1971-) — Florida International Univ. — Professor — (1973-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** [[people/min-mei-chen|吳明美]]

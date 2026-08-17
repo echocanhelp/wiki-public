@@ -21,6 +21,11 @@ last_reviewed: 2026-08-17
 
 Artist Tsai has been deeply in love with art since elementary school. At a young age, she learned how to sketch and use watercolor painting. Afterwards, she went to France and Japan to study Color Aesthetics. Ten years ago, she moved to New York where she was inspired by Jason Chang, a master in pastel art. After studying with the Master Chang for a period of time, Artist Tsai started making creations of her own and attended several exhibitions and contests, including Audubon Artists, North America Pastel Artists Association, North American Women’s Association, and American Artists Professional League. In 2012, Artist Tsai’s “Soho Street Scape” was awarded first place by New Rochelle Art Association. Later that year, she was invited by the Taiwan National Chiang Kai-shek Memorial Hall to join the International Pastel Artists Invitational Exhibition. In 2013, she again was awarded Excellent Work in the “2012 2013 National Pastel Painters Competition” sponsored by Taiwan Arts Education Center. Besides, she was also honorably listed in “Who’s who in American Art”.
 
+<!-- tah-tables:start -->
+## Employment
+- North American Pastel Artists Association — Board Member — Community — PPSEAWA-NY (亞太婦女協會紐約分會) — Member — Audubon Artists — Member/Exhibitor — American Artists Professional League — Member/Exhibitor
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

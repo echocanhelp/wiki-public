@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Wen Shean Young (楊文顯博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 成功大學 — B.S., Mechanical Eng.
+- Colorado State Univ.
+- UCLA — Ph.D., Molecular Dynamics
+
+## Employment
+- UCLA — Professor
+- 自立公司 — 1979
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -21,6 +21,19 @@ last_reviewed: 2026-08-17
 
 President of Taiwanese Association of West Germany and Taiwanese Association of Europe
 
+<!-- tah-tables:start -->
+## Education
+- 淡江大學 — 1962 — B.S., Chemistry
+- 德國哥廷根喬治奧古斯特大學(Georg-August University) — 1973 — Ph.D., Organic chemistry
+
+## Employment
+- 西德國家科學研究院Max-Planck實驗醫學研究所 — 1973 - 1982 — 科學家
+- Baylor College of Medicine — 1982 - 2009 — Porfessor
+- Academy BioMedical Company, Houston, Texas — 2008 - Present — Scientific & Technical Director
+- Baylor College of Medicine, Dept of Medicine — 2009 - Present — Professor Emeritus
+- 中國醫藥大學 — 2010 - Present — Visiting Professor
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 羅滿蘭

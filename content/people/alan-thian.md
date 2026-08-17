@@ -128,9 +128,7 @@ Pages that link to **田詒鴻** (alan-thian):
 
 1. [[organizations/taiwan-center.md|taiwan-center]]
 
-### Sources
-- [TAH #274 encyclopedia: 274. Yee Phong (Alan) Thian 田詒鴻](https://taiwaneseamericanhistory.org/ota-274/)
-- [TAH #1939 encyclopedia: 1939. Yee Phong (Alan) Thian 田詒鴻](https://taiwaneseamericanhistory.org/whos-who-1939-yee-phong-thian/) (2)
+### Sources (2)
 
 1. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
 2. [[sources/taiwancenter-org.md|taiwancenter-org]]

@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Hsien-Ching Ko (柯賢清) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1951 — B.S. 電機
+- Ohio State University — 1953 — M.S.
+- Ohio State University — 1955 — Ph.D.
+
+## Employment
+- Ohio State University — Professor & Director
+<!-- tah-tables:end -->
 
 ## Family
 

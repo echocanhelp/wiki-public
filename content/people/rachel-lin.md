@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Rachel Lin began her violin lessons when she was 8 years old with Dr. Lee Tai Hsiang. Years later, Mrs. Lin graduated from National Taiwan University of Art with violin major. She started her violinist career by playing for Taiwan Provincial Symphony Orchestra (now became The National Symphony Orchestra). In 1979, Mrs. Lin came to the United States to continue her musical studies with Dr. Lerch at North Texas State University majoring in violin performance. In 1997, Mrs. Lin moved to California and started engaging her violin teaching career, since then Mrs. Lin has helped to develop many talent students and inspired them to join several youth symphony orchestras around the Bay Area. Mrs. Lin is a long time active member of Music Teacher Association of California and the Waldorf Teaching Training program.
 
+<!-- tah-tables:start -->
+## Education
+- 台灣藝術大學 — Violin
+- N. Texas State University — Violin
+
+## Employment
+- Teacher — Violin
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Son:** ???

@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Assistant Professor, Associate Professor, Professor, Dept. of Electrical Engineering and Computer Science
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1971 — B.S., Electrical Engineering
+- Univ. of Illinois, Urbana-Champaign — 1976 — M.S., Computer Science — 1978 — Ph.D., Computer Science
+
+## Employment
+- Northwestern University — Assistant Professor, Associate Professor, Professor, Dept. of Electrical Engineering and Computer Science — (1978-1998) — National Science Foundation — Program Director — (1989-1990) — World Scientific Publishing Co., Inc. — Series Editor, Lecture Notes Series on Computing — (1990-) — Institute of Information Science, Academia Sinica, Taiwan — Distinguished Research Fellow & Director — (1998-2008) — National Chung Hsing University — President — (2011-2015) — Higher Education Evaluation and Accreditation Council of Taiwan (HEEACT) — President
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

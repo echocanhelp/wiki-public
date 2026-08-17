@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** lawyer
 - **Source:** TAH Foundation Who’s Who
 
-Deana Chuang (莊惠綺) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Pomona College — B.A. Sociology
+- University of Pennsylvania Law School — B.S. Law
+
+## Employment
+- 1 City of Burbank — present — prosecutor
+<!-- tah-tables:end -->
 
 ## Family
 

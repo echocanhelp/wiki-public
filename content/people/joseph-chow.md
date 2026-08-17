@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Joseph Chow (周秋霖教授) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 成功大學 — B.S., 機械
+- Unvi. of Illinois, Champaign — M.S., Mechanical Eng.
+- Brown Univ. — Ph.D., Mechanical Eng.
+
+## Employment
+- Unvi. of Illinois, Chicago — Professor
+<!-- tah-tables:end -->
 
 ## Family
 

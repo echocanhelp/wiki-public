@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Mingkong Chen is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan University College of Medicine — 1968 — B.S.
+
+## Employment
+- Brooklyn Hospital Center — Residency
+<!-- tah-tables:end -->
 
 ## Family
 

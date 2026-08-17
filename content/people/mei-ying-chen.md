@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Mei-Ying Chen (陳美瑩) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 華盛頓州立大學 — M.S.
+- 華盛頓州立大學 — Ph.D.
+
+## Employment
+- 科羅拉多大學Boulder分校 — 東亞語文學系講師 — 國立嘉義教育大學 — 副教授
+<!-- tah-tables:end -->
 
 ## Family
 

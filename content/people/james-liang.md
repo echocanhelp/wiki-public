@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of Taiwanese Hakka Association of America (美洲台灣客家聯合會會長) 2015-2017
 
+<!-- tah-tables:start -->
+## Education
+- Taiwan Technical College — B.S., Mechanical
+- Ole Miss — M.S., Engineering
+
+## Employment
+- Arcadia ADHC Elderly Health Company — Principal — R.M. Parson Technology Corporation — Community — Taiwanese Hakka Association of America (美洲台灣客家聯合會) — President (2015-2017) — Southern California Taiwan Hakka Association (南加州客家會) — President
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

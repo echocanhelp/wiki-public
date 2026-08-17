@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-George Hsu (許啟勇) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台北工專 — 1960-1965 — AA 五專畢業
+- 日本東北大學 — 1967-1970 — BS Chemical Engineering
+- USC — 1970-1973 — MS Chemical Engineering
+
+## Employment
+- Universal Polymer Corp. California — 1982-present — President
+- 自營化學工廠
+<!-- tah-tables:end -->
 
 ## Family
 

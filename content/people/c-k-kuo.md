@@ -19,7 +19,12 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-C. K. Kuo (郭重國) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Fu Jen Univ. — BS, Mathematics
+- North Carolina State Univ. — MS, Statistics
+<!-- tah-tables:end -->
 
 ## Family
 

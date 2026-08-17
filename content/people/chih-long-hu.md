@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 A native a Taiwan, Chih-Long Hu’s performance career began to take off after receiving honors including the Taipei National Concert Hall Arising Star, the Chi-Mei Artist Award, and prizes from the Mauro Monopoli International Piano Competition in Italy, Concurs Internacional De Piano D’Escaldes-Engordany in Andorra, Takamatsu International Piano Competition in Japan, and the Russian Music International Piano Competition in San Jose, California. An active pianist, Hu has performed extensively in Asia, Europe and throughout North America, appearing as a concerto soloist, recitalist, and chamber musician. He has collaborated with conductors including Ann Krinitsky, Shunsaku Tsutsumi, Nicoletta Conti, Kenneth Kiesler, Nuvi Mehta, Cornelia Kodkani-Laemmli, Cheng-Hsiung Chen, and Li-Ping Cheng. Hu’s performances have been broadcast in “Performance Today” through NPR stations across the country, and televised in Taiwan, China and Japan. His recent CD album “Formosa Caprices” has received critical acclaims and was nominated as “Best Crossover Album” and Hu as “Best Performer” for the 2009 Golden Melody Award. Another CD of complete Etudes-tableaux by Rachmaninoff is released under Blue Gri
 
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1998 — B.S. 土木系
+- 國立台北藝術大學 — B.S. 音樂
+- 密西根大學 — Ph.D. 演奏
+
+## Employment
+- 東田納西州立大學 — 音樂系助理教授
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

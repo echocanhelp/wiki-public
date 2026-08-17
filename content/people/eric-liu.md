@@ -21,6 +21,22 @@ last_reviewed: 2026-08-17
 
 Author of Guiding Lights: The People Who Lead Us Toward Our Purpose in Life (2005)
 
+<!-- tah-tables:start -->
+## Education
+- Yale University
+- Harvard Law School
+
+## Employment
+- Author, educator, strategist, journalist
+- University of Washington — Lecturer
+- President Bill Clinton — Speech writer
+- President Bill Clinton — Deputy domestic policy adviser
+- RealNetworks — Executive
+- Citizen University — Founder
+- The True Patriot Network — Co-founder
+- Seattle Voices — TV host
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

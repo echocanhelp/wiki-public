@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-William Yau (姚火草) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台北工專 — 1962 — B.S., C.E. — Univ. of Colorado, Boulder — 1970 — M.S., C.E.
+
+## Employment
+- Stearns Roger — 1973-75 — Structural Eng. — Bateman Engineering Ltd — 1981-83 — Chief Structural Eng.
+<!-- tah-tables:end -->
 
 ## Family
 

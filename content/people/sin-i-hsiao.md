@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Sin-I Hsiao (蕭欣義) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 東海大學 — B.S.
+- Harvard University — M.S. East Asian
+- Harvard University — Ph.D. Intellectual History
+
+## Employment
+- Boston大學亞洲宗教 — Teaching
+- Victoria大學 — 亞太學系主任
+<!-- tah-tables:end -->
 
 ## Family
 

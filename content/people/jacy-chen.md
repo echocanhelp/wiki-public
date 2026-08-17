@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, educator
 - **Source:** TAH Foundation Who’s Who
 
-Jacy Chen (陳彩雲博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 師範大學 — B.S.教育
+- University of Oklahoma — 1994 — Ph.D.Philosophy
+
+## Employment
+- JC Learning Center — 2008- — Owner
+<!-- tah-tables:end -->
 
 ## Family
 

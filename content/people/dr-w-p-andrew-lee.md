@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Director of the Plastic Surgery Research Laboratory and Subsequently Chief of Hand Service in Dept. of Surgery
 
+<!-- tah-tables:start -->
+## Education
+- Harvard College — 1979 — B.S.
+- Johns Hopkins Univ. School of Medicine — 1983 — M.D.
+- Johns Hopkins Hospital — 1989 — Residency
+
+## Employment
+- Massachusetts General Hospital — Faculty — Harvard Medical School — Director of the Plastic Surgery Research Laboratory and Subsequently Chief of Hand Service in Dept. of Surgery — University of Pittsburgh — Division Chief of Plastic Surgery — (2002-2010) — Johns Hopkins University School of Medicine — Professor and Chairman of Dept. of Plastic and Reconstructive Surgery
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

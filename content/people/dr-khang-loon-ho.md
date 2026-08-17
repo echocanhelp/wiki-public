@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Khang-Loon Ho (何康隆醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Kaohsiung Medical Univ. (高雄醫學大學) — M.D.
+- Kingston Genl Hospital — 1973 — Residency
+
+## Employment
+- Wayne State University — Assistant Professor — Henry Ford Hospital — Neurological Pathologist — Community — Taiwanese American Association of Detroit — President
+<!-- tah-tables:end -->
 
 ## Family
 

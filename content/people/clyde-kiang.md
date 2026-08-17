@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Clyde Kiang (江運貴) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1960 — B.S., Liberal
+- Western Michigan Univ. — 1964 — M.S., Lib. Science
+- Michigan State Univ. — M.S., History
+
+## Employment
+- California Univ. of Pennsylvania — 2007 — Professor
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Charles Cheng-Chu Wu (吳政智) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Taipei Medical University — 1971
+
+## Employment
+- Internal Medicine — doctor
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, educator
 - **Source:** TAH Foundation Who’s Who
 
-Alan Su (蘇德源) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- New York University — B.S.Computer
+- Stevens Institute of Technology — M.S.科技管理
+
+## Employment
+- Bankers Trust Company
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist
 - **Source:** TAH Foundation Who’s Who
 
-T. T. Dean Su (蘇藤宗博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台北工專 — 化學工程科
+- 日本橫濱國立大學 — 應用化學科（有機合成化學研究）
+- Univ. of Pennsylvania — Ph.D.化學 — 博士後硏究員
+
+## Employment
+- Colgate Palmolive Corp. — 化學研究、產品開發工作
+<!-- tah-tables:end -->
 
 ## Family
 

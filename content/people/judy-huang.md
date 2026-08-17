@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Judy Huang (陳東蘭) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 淡水工商 — 1972
+
+## Employment
+- Chicago Bank — DATA Processing — Restaurant
+<!-- tah-tables:end -->
 
 ## Family
 

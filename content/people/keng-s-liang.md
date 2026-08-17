@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, scientist, professor
 - **Source:** TAH Foundation Who’s Who
 
-Keng S. Liang (梁耕三) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S.電機
+- Stanford University — M.S.應用科學
+- Stanford University — Ph.D. 應用科學
+
+## Employment
+- Exxon石油公司
+- 交通大學 — present — 國家同步輻射中心主任
+<!-- tah-tables:end -->
 
 ## Family
 

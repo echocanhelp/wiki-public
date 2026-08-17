@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 German Philosopher once said, “Life without music is a mistake” I am glad that my life was not a mistake ever since I was young. My musical journey starts with when I was five years old. My mother took me to a private home for piano lessons every week. After few years of studies, my teacher suggested me to enter a specialized music school that offered many talents teens to study music. I passed the entrance exams and began my three years of serious classical music learning there. During that time, the school requires every piano major to minor a second instrument, so I chose harp as my second instrument. I felt in love with the harp and soon I was double majored both piano and the harp.
 
+<!-- tah-tables:start -->
+## Education
+- Indiana University, Bloomington — B.S. music
+- University of Southern California — M.S. music education
+- University of Southern California — Ph.D.豎琴
+
+## Employment
+- National Taiwan University for the Arts — present — professor
+- 彩霞基金會 — present — 執行長
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

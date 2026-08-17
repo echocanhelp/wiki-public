@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Michael Yeh (葉明青) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Univ. of California, San Francisco — M.D.
+- Univ. of California Berkeley — M.S., Public Health
+
+## Employment
+- University of Michigan Hospitals — Teaching
+<!-- tah-tables:end -->
 
 ## Family
 

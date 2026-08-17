@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, educator
 - **Source:** TAH Foundation Who’s Who
 
-Tammy Chang is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Duke University — B.S. Public health
+- Brooklyn College — M.S.Childhood Education
+
+## Employment
+- Certified nutrition consultant
+- Tranformational Coaching Method certified coach — 3. — Holistic nutrition coach and fitness teacher
+<!-- tah-tables:end -->
 
 ## Family
 

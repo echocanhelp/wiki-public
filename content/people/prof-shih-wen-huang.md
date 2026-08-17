@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Prof. Shih-Wen Huang 黃碩文教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1962 — M.D.
+- Univ. of Wisconsin — Residency
+- Univ. of Maryland — Residency
+
+## Employment
+- Univ. of Maryland — Professor & Chief — (1964-2007) — Univ. of Florida — Professor
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

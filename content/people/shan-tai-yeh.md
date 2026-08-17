@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Shan-Tai Yeh is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 中央大學 — B.S.
+- Colorado University — M.S. civil engineering
+
+## Employment
+- Yeh & Associates — 1999- — President — CDT — Chief Engineering Geologist
+<!-- tah-tables:end -->
 
 ## Family
 

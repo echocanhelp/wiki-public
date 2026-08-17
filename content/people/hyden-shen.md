@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** lawyer
 - **Source:** TAH Foundation Who’s Who
 
-Hyden Shen (沈尚哲博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Ohio北方大學法學院 — 犯罪學
+
+## Employment
+- 美國衛生部 — 特別助理
+<!-- tah-tables:end -->
 
 ## Family
 

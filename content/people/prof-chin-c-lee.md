@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Professor of Electrical and Computer Dept., Director of Materials and Manufacturing Technology Research Institute
 
+<!-- tah-tables:start -->
+## Education
+- National Chiao Tung Univ. — 1970 — B.S., Electronic engineering
+- National Chiao Tung Univ. — 1973 — M.S., Electronic engineering
+- Carnegie Mellon Univ. — 1979 — Ph.D., Electronic engineering
+
+## Employment
+- University of California, Irvine — Professor of Electrical and Computer Engineering; Director of Materials and Manufacturing Technology Research Institute — (1980-) — Community — Taiwanese American Federation of South California (南加州台灣同鄉會聯合會) — President — Orange County Taiwanese Association (OCTA) (柑縣台灣同鄉會南加州) — President — Taiwanese Association of America / Pittsburgh Chapter (台灣同鄉會匹玆堡分會) — President — Taiwanese American Cultural Association (美國台灣文化協會) — President — Southern California Taitonese Association (南加州台東同鄉會) — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Li C. Hsieh

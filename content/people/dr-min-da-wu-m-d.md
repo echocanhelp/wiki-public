@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician, professor
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Min-Da Wu M.D. (吳明達) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan University — 1964 — M.D. — University of Toronto — Ph.D.
+
+## Employment
+- University of Wisconsin — 學術研究 — UC Berkeley — 多倫多醫學院 — 教授
+<!-- tah-tables:end -->
 
 ## Family
 

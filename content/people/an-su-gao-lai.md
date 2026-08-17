@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. 3rd President of Taiwanese America Seniors Association of Southern California (TASA) (南加州台灣人長輩會) 1983-1988
 
+<!-- tah-tables:start -->
+## Education
+- Chang Jung Girls’ High School (長榮女中) — 1926
+- Tokyo Aoyama College, Theology (日本東京青山學院神學部) — 1926-1928 — Theology
+
+## Employment
+- Kaohsiung Girls' Senior High School (高雄女中) — Teaching Music — (1945-1948) — Chang Jung Girls' High School (長榮女中) — Teaching Bible & Music; Dormitory Superintendent (長榮女中舍監) — Community — Taiwanese America Seniors Association of Southern California (TASA) (南加州台灣人長輩會) — 3rd President (1983-1988) — Chang Jung Girls' High School Alumni Association (台南長榮女中南加州校友會) — Founding Member
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** 賴聰獻

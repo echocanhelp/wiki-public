@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Ms. Lin is from Nantou County, Taiwan. She is a Piano Teacher in St. Louis, MO and has more than 15 years of experience in teaching piano performance and music theory. Ms. Lin received her Bachelor of Music and Master of Music in Piano Performance from Tunghai University in Taichung, Taiwan. Before moving to US in 2002, She was a certified music teacher at Nangang Junior High School in Nantou County, Taiwan. Ms. Lin specializes in Impressionist style music and was the winner of the Nantou county Piano Competition in 1998. During her leisure time, Ms. Lin enjoys cooking and baking.
 
+<!-- tah-tables:start -->
+## Education
+- Tunghai University — B.S. Piano
+- Tunghai University — M.S. Piano
+
+## Employment
+- Nangang Junior High School — Certified Music Teacher — (-2002) — Private Studio — Piano Teacher
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

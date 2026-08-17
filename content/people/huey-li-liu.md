@@ -19,7 +19,19 @@ last_reviewed: 2026-08-17
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
-Huey Li Liu (劉惠麗) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1959 — B.S., 心理
+- Oklahoma State University — 1962 — M.S. , Psychology
+
+## Employment
+- Larned State Hospital
+- Lehigh Valley Guidance Clinic — 1969-73
+- 清華大學 — 1973-- — 心理輔導師
+- 交通大學 — 1975- — 心理輔導師
+- 明新工專 — 心理輔導師
+<!-- tah-tables:end -->
 
 ## Family
 

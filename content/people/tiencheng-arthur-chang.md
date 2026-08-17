@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Dept. of OB/GYN, Clinical Assisted Reproductive Technology Labs, University of Texas Health Science Center at San Antonio
 Associate Professor & Director
 
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S. Animal Science
+- University of Wisconsin-Madison — M.S. Endocrinology-Reproductive Physiology
+- S University of Wisconsin-Madison — Ph.D. Endocrinology-Reproductive Physiology
+
+## Employment
+- Dept. of OB/GYN,Clinical Assisted Reproductive Technology Labs, — University of Texas Health Science Center at San Antonio — present — Associate Professor & Director
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

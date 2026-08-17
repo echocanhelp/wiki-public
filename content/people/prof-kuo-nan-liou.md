@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Founding Director, Joint Institute for Regional Earth System Science and Engineering
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1965 — B.S.
+- New York Univ. — 1968 — M.S. — 1970 — Ph.D., Physics
+
+## Employment
+- Univ. of Utah — Associate Professor; Professor — (1975-1997) — Univ. of Utah — Director, Center for Atmospheric and Remote Sounding Studies — (1987-1997) — Univ. of Utah — Chairman, Dept. of Meteorology — (1996-1997) — Univ. of Utah — Adjunct Professor, Meteorology and Physics — (1997-2006) — Univ. of California, Los Angeles — Professor and Director, Institute of Radiation and Remote Sensing — (1997-2006) — Univ. of California, Los Angeles — Chair, Department of Atmospheric and Oceanic Sciences — (2000-2004) — Univ. of California, Los Angeles — Founding Director, Joint Institute for Regional Earth System Science and Engineering — (2006-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

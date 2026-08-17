@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
-Rev. C. Y. Huang (黃主義牧師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Tainan Theological College & Seminary (台南神學院) — 1926-1930 — B.S., Theology
+- Tokyo Union Theological Seminary (東京神學大學) — 1930-1936 — B.S., Theology
+- Union Theological Seminary in the City of New York — 1949-1955 — M.S., Theology
+
+## Employment
+- Tainan Theological College & Seminary (台南神學院) — Teacher — (1937-1940) — Tainan Theological College & Seminary (台南神學院) — Teacher — (1948-1955) — Taiwan Theological College and Seminary (台灣神學院) — Teacher — (1940-1944) — Taiwan Theological College and Seminary (台灣神學院) — Teacher — (1966-1970)
+<!-- tah-tables:end -->
 
 ## Family
 

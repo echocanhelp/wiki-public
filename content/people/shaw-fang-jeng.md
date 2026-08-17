@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Shaw Fang Jeng (鄭劭方) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 成功大學 — 1983 — 學士, 土木工程系
+- Illinois Institute of Technology — 1985 — M.S., Computer Science
+
+## Employment
+- Ford Motor Company — 1990- — 引擎控制研發工程師;資訊部門
+<!-- tah-tables:end -->
 
 ## Family
 

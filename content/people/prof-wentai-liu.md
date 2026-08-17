@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 2. National Science Society (NSF) Bionic Microelectronic System Engineering Research
 
+<!-- tah-tables:start -->
+## Education
+- National Chiao Tung Univ. — B.S.
+- National Taiwan Univ. — M.S.
+- Univ. of Michigan — 1983 — Ph.D.
+
+## Employment
+- UCLA — Professor, Department of Bioengineering — (2011-) — National Science Foundation (NSF) Bionic Microelectronic System Engineering Research — Director of UC Santa Cruz Branch — (2011-2011) — Univ. of California, Santa Cruz — Professor of Electronic Engineering — (2003-2011)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

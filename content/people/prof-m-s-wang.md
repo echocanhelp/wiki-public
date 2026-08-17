@@ -23,6 +23,16 @@ Chinese Culture University (中國文化大學)
 Full-time Assistant Professor, Dept. of Counselling
 (2005-2012)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.A., History and Political Science
+- Univ. of Texas at Austin — M.A., Social Work
+- Univ. of North Texas — Ph.D., Counseling
+
+## Employment
+- University of North Texas — Research Assistant, Game Therapy Center — (2004-2005) — Chinese Culture University (中國文化大學) — Full-time Assistant Professor, Dept. of Counselling — (2005-2012) — Chinese Culture University (中國文化大學) — Full-time Associate Professor, Dept. of Counselling — (2012-) — Taiwanese Sandplay Therapy Association (台灣沙遊治療協會) — Director — (2009-) — Community — American Play Therapy Association — Member — Taipei Association of Counseling Psychologists — Member
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

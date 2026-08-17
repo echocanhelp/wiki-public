@@ -19,7 +19,19 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-S. J. Lin (林宣繼) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 成功大學 — B.S.
+- Iowa University — M.S.
+- Iowa University — Ph.D.
+
+## Employment
+- Argonne國家實驗中心
+- Lucent
+- Illionis Institute of Technology
+- Culture Exchange Association — present — president
+<!-- tah-tables:end -->
 
 ## Family
 

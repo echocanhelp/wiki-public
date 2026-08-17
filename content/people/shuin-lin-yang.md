@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Shuin-Lin Yang (楊勳琳) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台北醫學大學 — 1974 — B.S.
+
+## Employment
+- Wilmington Medical Center — 一般外科總醫師
+- Univ. of Pittsburgh — 移植外科研究員
+- Albert Einstein Medical center — 移植及一般外科醫師
+- Thomas Jefferson Univ — 外科助理教授、器官移殖專家
+<!-- tah-tables:end -->
 
 ## Family
 

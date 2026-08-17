@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Won the Board of Trustees Award for Distinguished Teaching, 2016
 
+<!-- tah-tables:start -->
+## Education
+- Harvard College — 2003 — B.A., Social Studies and Gender Studies
+- Univ. of Cambridge — 2004 — M.A., Development Studies
+- Harvard Law School — 2009 — J.D.
+
+## Employment
+- Centro Legal de la Raza, Oakland, California — Lawyer — Prison University Project at San Quentin — Teacher — American University of Paris — Associate Professor in the History, Law, and Society program
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Albert Wu

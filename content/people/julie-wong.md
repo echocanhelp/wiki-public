@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 A native of Taiwan, pianist Julie Wong has taken the spotlight in the international music arena in recent years as a promising young musician. She has performed at Carnegie Hall, Lincoln Center, Merkin Concert Hall, Columbia University, Rockefeller University, and other major venues in the United States. Her recital engagements have included tours in Europe and Asia. Among her recent performances is her ninth tour of recitals and master classes in Taiwan.
 
+<!-- tah-tables:start -->
+## Education
+- The Juilliard School — Bachelor of Music — The Juilliard School — Master of Music — Rutgers University — Doctor of Musical Arts — (1999)
+
+## Employment
+- Rutgers University — Faculty Member — Seton Hall University — Faculty Member — Montclair University — Faculty Member — Truth Theological Seminary — Faculty Member, Music Department — Community — Hospitals, medical centers, and nursing homes — Volunteer performer
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

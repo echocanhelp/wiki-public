@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Ms. Cheryl Lin Hong started her piano lesson at 5, and was fascinated by music since then. After graduation from Ju-Jen University, Cheryl went to Columbia University to study music history and musicology. Currently, she is the conductor for the Detroit Little Philharmonic Choir, a group of Taiwanese music lovers who practice and perform Taiwanese folk songs. Most recently, Cheryl coordinated NATWA sponsorship activity for the Akron Symphony Orchestra concert held on February 10. This concert featured Taiwanese American violinist, Mr. Cho-Liang Lin, and conductor, Ms. Ya-Hui Wang.
 
+<!-- tah-tables:start -->
+## Education
+- 輔仁大學 — B.S. 營養系
+- Columbia University — M.S. 音樂史學
+
+## Employment
+- Detroit Little Philharmonic Choir (愛樂小集) — Conductor — NATWA Detroit Chapter — Chapter President — NATWA / NATMA — Member — (1988-) — Community — NATWA Detroit分會 — 會長 (1998) — Detroit 愛樂小集 — 指揮 — NATWA Detroit Chapter — Editor, 聯誼通訊 and 婦女信箱 — NATWA — Coordinator of sponsorship activity for Akron Symphony Orchestra concert featuring Cho-Liang Lin and Ya-Hui Wang
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** 洪正幸

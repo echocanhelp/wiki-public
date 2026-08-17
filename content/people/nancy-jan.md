@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 Ms. Jan, a pupil of Dorothy Delay and Hyo Kang, received her Master degree from the Juilliard School. For years she has participated in the Aspen Music Festival in Colorado, and taught at the Settlement School of Music as well as the Haddonfield School of Music. An active freelance musician, Ms. Jan has performed in Concerto Soloist the Lancaster Symphony, the Bridgeton Symphony and the Haddonfield Symphony in South Jersey and Philadelphia. She is currently a member of the Delaware Symphony and teaches violin in her private studio.
 
+<!-- tah-tables:start -->
+## Education
+- Juilliard School — M.S.
+
+## Employment
+- Settlement School of Music — Teaching
+- Haddonf ield School of Music — Teaching
+- Delaware Symphony — Present — Member
+- L I N I S T Studio — Present — Teaching
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

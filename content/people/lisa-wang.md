@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Lisa Wang is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- UC Berkerly — B.S.
+- University Of South Carolina — 1997 — M.S. Medical
+
+## Employment
+- UCSF Medical Center PSY — Psychiatry
+<!-- tah-tables:end -->
 
 ## Family
 

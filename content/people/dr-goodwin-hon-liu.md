@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 3. Steven S. Goldberg Award for Distinguished Scholarship in Education Law, Conferred by the Education Law Association 2006
 
+<!-- tah-tables:start -->
+## Education
+- Stanford Univ. — 1991 — B.S., Biology
+- Oxford Univ. — 1993 — M.S., Philosophy
+- Yale Law School — 1998 — J.D.
+
+## Employment
+- O'Melveny & Myers Law Firm — Appellate Litigator — United States Supreme Court — Assistant to Justice Ruth Ginsberg — University of California, Berkeley — Professor of Law School, Associate Dean — (2003-2011) — California Supreme Court — Judge (Associate Justice) — (2011-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Ann O’Leary

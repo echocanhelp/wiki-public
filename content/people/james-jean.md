@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 James Jean is a Taiwanese American visual artist, known for both his commercial work and fine art gallery work. He is known in the American comics industry as a cover artist for various books published by DC Comics, as well as for his work for Prada, ESPN and Atlantic Records. His work, which has been collected in numerous volumes, has been compared by The New York Times to that of Maxfield Parrish.
 
+<!-- tah-tables:start -->
+## Education
+- School of visual, New York — 2001 — B.S. Visual arts
+
+## Employment
+- visual artist
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

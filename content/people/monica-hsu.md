@@ -22,6 +22,11 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Saratoga Contemporary Artists Third Place “Buchart Garden ” (Oil), 2000
 
+<!-- tah-tables:start -->
+## Education
+- Business School
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

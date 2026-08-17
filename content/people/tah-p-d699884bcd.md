@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-%E9%84%Ad%E5%Be%B7%E5%92%8C (鄭德和) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 成功大學 — 1963 — B.S. 土木系
+- 日本Waseda大學 — M.S. 都市計劃
+
+## Employment
+- 1. — 工程師
+<!-- tah-tables:end -->
 
 ## Family
 

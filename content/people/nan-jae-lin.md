@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Nan-Jae Lin (林能傑) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台北工專 — 1968 — B.S.
+- SUNY at Buffalo — 1975 — Ph.D. Chemical Engineering
+
+## Employment
+- Gillette Company — -2001
+<!-- tah-tables:end -->
 
 ## Family
 

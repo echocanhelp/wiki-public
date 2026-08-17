@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. NASA Certificate of Recognition for development of ring Frequency Selective Surface (1994)
 
+<!-- tah-tables:start -->
+## Education
+- National Cheng Kung Univ. (成功大學) — 1961 — B.S., Electrical Engineering
+- Univ. of Illinois, Urbana, Illinois — 1964 — M.S., Electrical Engineering — 1966 — Ph.D., Electrical Engineering
+
+## Employment
+- University of Illinois, Urbana, Illinois — Assistant Professor and Associate Professor, Electrical Engineering Dept. — (1967-1973) — University of Illinois, Urbana, Illinois — Professor, Electrical & Computer Engineering Dept. — (1974-1995) — University of London, England — Visiting Professor — (1973-1974) — DEMACO, Inc., Champaign, Illinois — Co-Founder — (1993-1998)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

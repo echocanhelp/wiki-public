@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Andrew Lin (林昇彬牧師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 亞洲浸信會神學院 — M.S.
+
+## Employment
+- 佛州Orlando台福教會 — 牧師
+- 基督教浸信會仁愛堂 — 牧師
+<!-- tah-tables:end -->
 
 ## Family
 

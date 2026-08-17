@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Fu-Kai Hsieh (謝富凱博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Tunghai Univ. (東海大學) — 1997-2001 — B.S., Biology
+- National Chung Cheng Univ. (中正大學) — 2001-2003 — M.S., Molecular Biology
+- Rutgers Univ. – New Brunswick — 2006-2012 — Ph.D., Molecular and Cellular Pharmacology
+
+## Employment
+- Academia Sinica, Taiwan — Research Assistant — (2003-2006) — Rutgers Univ.-New Brunswick — Postdoctoral Research Fellow — (2012-2013) — Massachusetts General Hospital — Postdoctoral Research Fellow — (2013-) — Community — BTBA (波士頓台灣人生物科技協會) — Chairman — TAA/Boston Chapter (波士頓台灣同鄉會) — President
+<!-- tah-tables:end -->
 
 ## Family
 

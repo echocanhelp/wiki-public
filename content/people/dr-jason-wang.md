@@ -23,6 +23,16 @@ last_reviewed: 2026-08-17
 2015-present
 Co Chair
 
+<!-- tah-tables:start -->
+## Education
+- MIT — 1988-1992 — BS Biology
+- Harvard University — 1992-1996 — MD Medicine
+- RAND — 2001-2006 — PhD Policy Analysis
+
+## Employment
+- Stanford University — Associate Professor Pediatric — (2011-) — Stanford Center for Policy, Outcomes and Prevention — Director — (2014-) — Mobil Health and Other Technology, Stanford Center for Population Health Sciences — Co Chair — (2015-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

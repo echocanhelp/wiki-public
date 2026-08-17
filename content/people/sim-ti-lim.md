@@ -19,7 +19,12 @@ last_reviewed: 2026-08-17
 - **Core roles:** artist
 - **Source:** TAH Foundation Who’s Who
 
-Sim Ti Lim (林心智博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.S., Psychology
+- Univ. Of Georgia — Ph.D., Psychology
+<!-- tah-tables:end -->
 
 ## Family
 

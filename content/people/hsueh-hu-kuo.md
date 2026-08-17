@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 For more bio information, please click link in Who’s Who: 890. Hsueh-Hu Kuo 郭雪湖. External reference: http://vr.theatre.ntu.edu.tw/fineart/painter-tw/kuohsuehhu/kuohsuehhu.htm
 
+<!-- tah-tables:start -->
+## Education
+- Taipei Rixin Public School (台北日新公學校) — 1917-1923
+- Taipei Industrial School, Civil Engineering (台北州立工業學校土木科) — 1923-1924
+
+## Employment
+- Hsueh Hu Art Classroom — Founder — (1959-1936) — 臺灣美術展覽會 (Taiwan Fine Arts Exhibition / 臺展) — Participating artist and juror-exempt recommended painter (免審推薦級畫家) — (1927-) — 栴檀社 (Chandana Society) — Member — (1930-) — 臺灣省全省美術展覽會 (Taiwan Provincial Fine Arts Exhibition) — Co-founder and Juror, Chinese Painting Division — (1946-) — 雪湖美術教室 (Hsueh-Hu Art Studio) — Founder and Director — (1959-) — Japan (residency for research) — Artist-in-residence / independent researcher — (1964-) — Community — 台灣畫派 (Taiwan School of Painting) — Pioneer and founding influence; originator of '雪湖派' style — 臺灣膠彩畫 (Taiwanese Glue-color / Nihonga painting tradition) — Key advocate and innovator; developed '重彩淡墨鉤勒法' technique
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 林阿琴

@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-KEN CHEN is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- LA GUARDIA COMMUNITY COLLEGE — 1993
+- CHINESE CULTURE UNIV. — 2001
+
+## Employment
+- SHENG HSING
+<!-- tah-tables:end -->
 
 ## Family
 

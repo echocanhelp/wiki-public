@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Univ. of Minnesota Masonic Children's Hospital
 Clinical Psychologist/Pediatric Neuropsychologist
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.S., Psychology
+- Eastern Michigan Univ. — M.S., Clinical Psychology
+- Eastern Michigan Univ. — Ph.D., Clinical Psychology
+
+## Employment
+- The Medical School, Univ. of Minnesota — Assistant Professor — Univ. of Minnesota Masonic Children's Hospital — Clinical Psychologist/Pediatric Neuropsychologist
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur, educator
 - **Source:** TAH Foundation Who’s Who
 
-Lirong Wang (黃麗蓉) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1961 — B.A., Law
+- Univ. of Utah — 1982 — Human Resource Economics
+
+## Employment
+- 嘉義女中 — 1962 — Teacher
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Commissioner, Overseas Community Affairs Council (2018-2021僑務委員); President of TAA Dallas Chapter (2012達拉斯台灣同鄉會會長)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1963-1967 — B.S., Chemical Engineering
+- Univ. of Denver — 1969-1971 — M.S., Chemical Engineering — 1971-1974 — Ph.D., Chemical Engineering
+
+## Employment
+- AMAX & Westinghouse — Process Engineer — (1974-1979) — Mobil Oil Corp. — Facilities Eng. Consultant — (1980-2000) — ExxonMobil Corp — Process Engineering Lead — (2000-2011) — Community — Overseas Community Affairs Council — Commissioner (僑務委員) — TAA Dallas Chapter — President (達拉斯台灣同鄉會會長)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Tricia

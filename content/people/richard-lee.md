@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 3. President of The Greater New York Region Overseas Taiwanese Pen Club (大紐約區海外台灣人筆會會長) 2014-2015
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Normal University — 1964 — B.S.
+- University of Pittsburgh — 1970 — M.S.
+
+## Employment
+- Genroku Japanese Restaurant — 1974-1987
+- Shogun 18, 22, 27 Japanese Restaurant — 1983-now
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** A-Hsueh Lee

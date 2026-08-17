@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. The Ninth Taiwanese player who has been promoted to the major leagues
 
+<!-- tah-tables:start -->
+## Education
+- The Univ. of Taipei College of Kinesiology (台北體育學院)
+
+## Employment
+- Cleveland Indians — Pitcher — (2013-2015) — Saitama Seibu Lions — Pitcher — (2016-2016) — Colorado Rockies — Pitcher — (2017-2017) — Los Angeles Dodgers — Pitcher — (2018-2018) — CTBC Brothers — Pitcher — (2018-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

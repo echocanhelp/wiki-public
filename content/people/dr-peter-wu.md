@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Peter Wu (吳平原博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.S., Mathematics
+
+## Employment
+- General Bank (萬通銀行) — General Manager (總經理) — (1998-) — Cathy General Bancorp & Cathay Bank — Board of Director — (2003-)
+<!-- tah-tables:end -->
 
 ## Family
 

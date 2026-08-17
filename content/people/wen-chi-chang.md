@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Wen Chi Chang (張文祺) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S.國際法
+- University of Kansas — M.S.
+
+## Employment
+- 台獨聯盟 — 專職人員
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Chih-Wei Hu (胡智為) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Sport Univ. (國立體育大學)
+
+## Employment
+- Minnesota Twins — Pitcher — (2013-2015) — Tampa Bay Rays — Pitcher — (2015-2018) — Cleveland Indians — Pitcher — (2019-2019) — Chicago Cubs — Pitcher — (2019-2019) — San Diego Padres — Pitcher — (2020-2020)
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Prof. Frank S. T. Hsiao 蕭聖鐵教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1956 — 1959 — B.A. Economics — M.A. Economics
+- Univ. of Rochester, NY — 1964 — M.A. Economics
+- Univ. of Rochester, NY — 1967 — Ph.D. Economics
+
+## Employment
+- Dept. of Economics, University of Colorado Boulder — Visiting Assistant Professor — (1966-1967) — Dept. of Economics, University of Colorado Boulder — Assistant - Associate Professor — (1967-1975) — Dept. of Economics, University of Colorado Boulder — Professor — (1975-2007) — Dept. of Economics, University of Colorado Boulder — Professor Emeritus — (2007-) — Journal of Asian Economics (Elsevier) — Senior Editor — (1991-2007) — Journal of Asian Economics (Elsevier) — Associate Editor — (2007-2020) — Community — American Committee of Asian Economic Studies (ACAES) — Member — American Committee of Asian Economic Studies (ACAES) — Executive Board Member (2002-2006) — American Committee of Asian Economic Studies (ACAES) — Advisory Council (2020-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Mei-Chu Wang Hsiao

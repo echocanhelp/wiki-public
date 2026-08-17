@@ -23,6 +23,15 @@ Law Firm of Knobby, Martens, Olson & Bear
 Prosecutors and clients Representative
 (1994-1996)
 
+<!-- tah-tables:start -->
+## Education
+- UC Los Angeles — 1990 — B.S., Electrical Engineering
+- New York Univ. — 1994 — J.D., Law
+
+## Employment
+- US Court of Appeals for the Federal Circuit — US Circuit Judge — (2013-) — US Patent and Trademark Office — Assistant Solicitor, Solicitor — (1998-2013) — US Court of Appeals for the Federal Circuit — Technical Assistant — (1996-1998) — Law Firm of Knobby, Martens, Olson & Bear — Prosecutors and clients Representative — (1994-1996)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

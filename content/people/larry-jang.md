@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 3. Named as the Most Valuable Professor by the Outstanding College of Engineering graduate, 2005
 
+<!-- tah-tables:start -->
+## Education
+- University of Southern California — Ph.D. Chemical Engineering — year — year
+
+## Employment
+- California State University Long Beach, Chemical Engineering Department — present — Professor and Chair
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

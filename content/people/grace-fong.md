@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Grace Fong is a prize-winning American pianist born in Los Angeles to Taiwanese immigrant parents, with an international career as a concerto soloist, recitalist, chamber musician, and contemporary keyboardist. She has performed at major venues including Weill Hall at Carnegie Hall, the Kennedy Center, the Hollywood Bowl, the Liszt Academy in Budapest, and the Konzerthaus Dortmund in Germany, and has appeared with orchestras including the Mariinsky Theater Orchestra under Valery Gergiev, the Hallé Orchestra under Mark Elder, the Indianapolis Symphony, the Phoenix Symphony, and the Pacific Symphony. Radio and television performances have included NPR’s Performance Today, the BBC, and WFMT Chicago.
 
+<!-- tah-tables:start -->
+## Education
+- University of Southern California — Bachelor of Science — Cleveland Institute of Music — Master of Arts — Cleveland Institute of Music — Doctor of Music
+
+## Employment
+- Chapman University Hall-Musco Conservatory — Director of Piano Studies
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

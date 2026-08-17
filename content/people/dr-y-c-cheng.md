@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Professor; Director and researcher of the Laboratory of Bacterial Immunology, Beijing Tuberculosis Institute
 
+<!-- tah-tables:start -->
+## Education
+- The Jikei Univ. School of Medicine (日本東京慈惠醫科大學) — 1939 — B.S. — 1946 — Medical Ph.D.
+
+## Employment
+- The Jikei Univ. School of Medicine (日本東京慈惠醫科大學) — Lecturer, Associate Professor — National Taiwan Univ. College of Medicine (台灣大學醫學院) — Associate Professor, Professor — National Taiwan Univ. — Director of the Department of Bacterial Immune Serum — Harvard Medical School — Special Researcher of Bacteriology — Peking Univ. Health Science Center (北京醫學院) — Professor; Director and Researcher of the Laboratory of Bacterial Immunology, Beijing Tuberculosis Institute — (1953-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

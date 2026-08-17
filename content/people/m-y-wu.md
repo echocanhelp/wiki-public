@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
-M. Y. Wu (吳美雲) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣神學院 — B.A.音樂
+
+## Employment
+- 幼兒音樂教育教材 — 創作
+- YAMAHA音樂教室 — 教師
+<!-- tah-tables:end -->
 
 ## Family
 

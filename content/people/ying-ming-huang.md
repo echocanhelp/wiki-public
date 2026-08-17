@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Ying-ming Huang (黃英明) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 中原大學 — B.S.土木工程
+
+## Employment
+- Double Tree Hotel — President
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of Greater Philadelphia Taiwanese American Association
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.S., Chemical Engineering
+- Kansas State Univ. — M.S., Chemical Engineering; — M.S., Statistics — Ph.D., Chemical Engineering
+
+## Employment
+- OLIN — Principal Consulting Statistician — (1987-1999) — GSK — Assistant Director/Manager — (1999-2003) — Chevron — Senior Staff Statistician — (2003-2010) — Dept. of Veterans Affairs — Senior Statistician — (2010-2012) — GAP — Senior Data Scientist/Senior Manager — (2012-) — Community — Greater Philadelphia Taiwanese American Association — President — New Haven Taiwanese American Association — President — Baton Rouge Taiwanese American Association — President — Kansas State University Taiwanese Student Association — President — Connecticut Chapter, American Statistical Association — Secretary — East Bay Taiwanese Association — Secretary/Board Member — North America Taiwanese Professors' Association — Secretary — North America Taiwanese Professors' Association — Board Member — Northern California Chapter, North America Taiwanese Professors' Association — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Betty Wang (許柏貞)

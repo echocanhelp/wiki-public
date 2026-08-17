@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 Professor, Chair of Neurological Surgery and Physical Medicine and Rehabilitation
 
+<!-- tah-tables:start -->
+## Education
+- Johns Hopkins University — 1988 — B.S., Electrical Engineering & Computer Science
+- University of Maryland — 1992 — Ph.D., Mechanical Engineering
+- University of Maryland — 1995 — M.D.
+
+## Employment
+- UCI School of Medicine — Professor, Chair of Neurological Surgery and Physical Medicine and Rehabilitation
+- Loma Linda University Medical Center — 2003 — Director of functional, cerebrovascular and skull base surgery
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

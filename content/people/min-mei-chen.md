@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Well-Know Writer for Writing Stories about the lives of the Taiwanese Americans.
 
+<!-- tah-tables:start -->
+## Education
+- Tunghai Univ. — 1964 — B.S., Economics
+- Spalding Univ. Kentucky — 1969 — M.S., Library Science
+
+## Employment
+- Great Lakes Fishery Commission Library — (1969-) — Eastern Michigan Univ. Library — International Fine Arts College Library — Chief Librarian — Oriental Furniture (東方家具) — Owner
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Chun-Fun Chen(陳春帆)

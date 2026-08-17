@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, scientist
 - **Source:** TAH Foundation Who’s Who
 
-Yi-Cheng Wang (王奕程) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 2006 — B.S., Bio-industrial Mechatronics Engineering — 2008 — M.S., Bio-industrial Mechatronics Engineering
+- Univ. of Wisconsin-Madison — 2012 — M.S., Chemistry — 2016 — Ph.D., Biological Systems Engineering
+
+## Employment
+- Georgia Institute of Technology — Postdoctoral Fellow
+<!-- tah-tables:end -->
 
 ## Family
 

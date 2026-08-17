@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of Taiwanese American Association/ Ann Arbor Chapter(密西根州安雅堡台灣同鄉會會長)1977
 
+<!-- tah-tables:start -->
+## Education
+- National Chengchi Univ. — 1963 — B.A., Finance and tax
+- Utah State Univ. — 1969 — M.A., Accounting
+- Wayne State Univ. — 1974 — M.A., Economics
+
+## Employment
+- Main La Frentz and Co. — Accounting and Auditing Officer — (1969-1971) — Austin CPA and Geber CPA — Accounting and Auditing Officer — (1971-1975) — Services Management Company — Financial Officer — (1975-1988) — Yung Hwa Hsu CPA — Private Practice — (1988-2011) — Community — Taiwanese American Association, Ann Arbor Chapter (密西根州安雅堡台灣同鄉會) — President — Midwest Taiwanese Summer Conference Foundation (中西部夏令營基金會) — President (理事長) — World Federation of Taiwanese Associations (世界台灣同鄉會) — Chief Secretary (秘書長) — Professor Wen-Cheng Chen Foundation in the U.S. — Co-Founder
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Amy

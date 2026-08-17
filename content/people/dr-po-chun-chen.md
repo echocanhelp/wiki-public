@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Po-Chun Chen (陳柏均博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 2000 — B.S., Business Administration — 2004 — M.S., Business Administration
+- The Pennsylvania State Univ. — 2011 — Ph.D., Computer Science and Engineering
+
+## Employment
+- CA Technologies — Software Engineer — (2010-2012) — Amazon Web Services — Senior Software Engineer — (2012-)
+<!-- tah-tables:end -->
 
 ## Family
 

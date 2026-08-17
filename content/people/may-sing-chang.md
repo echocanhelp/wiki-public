@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 May-Sing studied music in college, and had a lot of concert experience since graduation. After moving to the States in 1982, she continued to study music and earned her master degree in opera from Oklahoma City University. May-Sing has been invited to perform at NATWA convention several times.
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Normal Univ. — B.S., Music
+- Oklahoma City Univ. — 1987 — M.S. Opera
+
+## Employment
+- Taiwan Center / N. CA — Director — Taiwan Provincial Symphony Orchestra — Member — Taipei First Girls' High School (北一女) — Music Teacher — Community — North American Taiwanese Women's Association (NATWA) — Invited performer at conventions
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** 張信行

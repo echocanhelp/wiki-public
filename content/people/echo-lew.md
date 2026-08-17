@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Exhibition at SCA Gallery (Southern California Art Project Gallery), Pomona, California.
 
+<!-- tah-tables:start -->
+## Education
+- 基隆海洋學院 — 1972 — B.A., Navigation
+
+## Employment
+- Idea International Inc. — 1985-2004 — Designer
+- Artist — 1972-
+- Orange County Center For Contemporary Art — 2010- — Instructor
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Alice

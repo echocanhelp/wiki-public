@@ -19,7 +19,19 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Chi-Lin O’Young (歐陽吉林) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 新竹清華大學 — 1971 — B.S. 化學
+- 新竹清華大學化學研究所 — M.S. 化學
+- Columbia U. Chemistry — 1980 — Ph.D. 化學
+
+## Employment
+- AXA Advisors — Present — Financial Consultant
+- Vassar College, — Adjunct Assistant Professor
+- FAPA-Hudson Chapter — President
+- Mid Hudson Taiwanese Association — President
+<!-- tah-tables:end -->
 
 ## Family
 

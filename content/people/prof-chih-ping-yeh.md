@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 2. President of North America Taiwanese Professor Association (北美洲台灣人教授協會會長) 2002-2003
 
+<!-- tah-tables:start -->
+## Education
+- Northwestern Univ. — 1981 — M.S. Biomedical Engineering
+- Texas A&M Univ. — 1983 — M.S. Electrical Engineering
+- Texas A&M Univ. — 1985 — Ph.D. Electrical Engineering
+
+## Employment
+- Wayne State University — Professor — Community — North America Taiwanese Professor Association — President — Taiwanese Association of America (TAA)/Detroit — President
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

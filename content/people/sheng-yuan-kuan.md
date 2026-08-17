@@ -19,7 +19,12 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Sheng-Yuan Kuan (官聖媛) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Manhattan School of Music — B.S. Music
+- Yale School of Music — M.S. Music
+<!-- tah-tables:end -->
 
 ## Family
 

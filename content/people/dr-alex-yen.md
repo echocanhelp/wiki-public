@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Alex Yen (顏俊醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Univ. of the Pacific — 2009-2013 — B.S., Biology
+- Univ. of the Pacific School of Dentistry — 2013-2016 — D.D.S.
+
+## Employment
+- Smileworld Dental & Rosa Dental — Dentist — (2016-2017) — WBFF Fitness Model Pro — Professional Male Fitness Model — (2017-) — Kris Hamamoto & Associates — Dentist — (2017-)
+<!-- tah-tables:end -->
 
 ## Family
 

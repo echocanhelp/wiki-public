@@ -21,6 +21,18 @@ last_reviewed: 2026-08-17
 
 Dr. Harmony Yang, Pianist, was born in Buffalo, NY, raised in Taiwan, was a Fulbright Award finalist in 2013, and has performed Bartok’s Piano Concerto No.3 with University of Maryland’s Repertory orchestra in 2011 and Grieg’s Piano Concerto in A Minor with Taiwan’s Taipei Sun Philharmonic Orchestra in 2009. In addition to being a music director at Taiwanese Presbyterian Church of Washington, she is also a faculty member at Suitland High School, Woods Academy, Northwood High School, and Montgomery College. Her students have received scholarships to attend Towson University, Shenandoah University, Oberlin Conservatory, Roosevelt University, and University of Maryland. She currently resides in Maryland with her husband and twin sons.
 
+<!-- tah-tables:start -->
+## Education
+- College Conservatory of. Music, University of Cincinnati — M.S.
+- University of Maryland — 2016 — Ph.D. piano
+
+## Employment
+- Taiwanese Presbyterian Church of Washington — Music director
+- Suitland High School — Teaching
+- Northwood High School — Teaching
+- Montgomery College — Teaching
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Dr. Edward T. S. Huang 黃東昇博士 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Cheng Kung Univ. — 1958 — B.S., Chemical Engineering
+- Univ. of Kansas — 1962 — M.S., Chemical Engineering
+- Univ. of Kansas — 1966 — Ph.D., Chemical Engineering
+
+## Employment
+- Cities Service Oil Company, Tulsa, OK — Oil mining research — (1966-) — Gulf R&D Company, Pittsburgh, PA — Oil mining research — (1969-) — Sohio Petroleum Company, San Francisco — Prudhoe Bay Oil Field Exploitation — (1979-) — Unocal Company, Brea, CA — Oil mining research — (1985-) — National Cheng Kung University, Taiwan — Supercritical fluid technology — (1995-2000) — University of Colorado, Boulder, CO — Drug micronization research — (2000-2004) — Community — North American Taiwanese Professors' Association (NATPA) — President — Taiwanese American Conference/West Coast — Coordinator — Taiwanese American Senior Society-East Bay — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 韓淑真

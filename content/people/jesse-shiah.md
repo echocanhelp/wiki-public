@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Jesse Shiah is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- University of Massachusetts, Amherst — M.S.Computer Science
+- University of Massachusetts, Amherst — M.B.A.
+
+## Employment
+- AgilePoint Inc. — 2003-present — CEO & co-funder
+- Uniscape — 2000-2002 — VP, Stratgic Solutions
+- DataViews Corporation — 1990-1999 — VP, Product Management and Marketing
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Hui-Mei Lin, pianist, received her Master’s degree from the Juilliard School and Doctoral of Musical Arts from City University of New York Graduate School.
 
+<!-- tah-tables:start -->
+## Education
+- Hartt School of Music — Bachelor's — Juilliard School — Master's — City University of New York Graduate School — Doctor of Musical Arts — (2002)
+
+## Employment
+- Kings' College — Artist in Residence — Sacred Heart University — Faculty — Briarcliff Congregational Church — Music Director — North Westchester Chinese School Adult Choir — Conductor — Westchester Datong Chorus — Conductor — Community — North Westchester Chinese School Adult Choir — Conductor — Westchester Datong Chorus — Conductor
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

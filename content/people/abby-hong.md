@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Was selected as the " Daily Pennsylvania player of the week " (被賓州日報選為本週傑出人物), 2018
 
+<!-- tah-tables:start -->
+## Education
+- Univ. of Pennsylvania — 2018 — B.A., Arts
+
+## Employment
+- University of Pennsylvania — Undergraduate Research Assistant — (2016-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

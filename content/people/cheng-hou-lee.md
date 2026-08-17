@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 Cellist Cheng-Hou Lee, a native of Taiwan, received both the bachelor’s and master’s degrees from the Juilliard School. He also earned a master’s degree in chamber music at Rice University, where he was a founding member of the award-winning Gotham Quartet.
 
+<!-- tah-tables:start -->
+## Education
+- The Juilliard School — B.S. Music
+- The Juilliard School — M.S. Music
+- Rice University — M.S. Music
+
+## Employment
+- Avalon String Quartet — Present — 大提琴手
+- Northern Illinois University — Associate Professor
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

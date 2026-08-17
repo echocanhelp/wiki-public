@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Prof. Hsing-Jien Kung 龔行健教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1969 — B.S., Chemistry
+- California Institute of Technology — 1975 — Ph.D., Chemistry
+
+## Employment
+- NHRI Molecular and Generic Medicine Division — Director — (1997-1998) — University of California, Davis — Professor, Dept. of Biochemistry & Molecular Medicine — (1998-2008) — University of California, Davis — Distinguished Professor, Dept. of Biochemistry & Molecular Medicine — (2008-2012) — UC Davis Comprehensive Cancer Center — Deputy Director and Director of Basic Science — (1998-2013) — National Health Research Institutes — President and Distinguished Investigator — (2012-2017) — Taipei Medical University — Chair Professor — (2018-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

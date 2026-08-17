@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 主編:台灣音樂大師江文也的生平與作品、東方浪漫派音樂大師──蕭泰然的音樂世界、音樂哲人陳泗治的音樂世界、二十世紀台灣代表性人物(一)(二)、復活的群像、郭雨新紀念文集、永恆的追思
 
+<!-- tah-tables:start -->
+## Education
+- 台灣大學National Taiwan University — 1967 — 醫學院醫科
+
+## Employment
+- CIGNA Health Plan — Universal Health Plan — 花蓮門諾醫院 — 小兒科主任 — Community — 南加州台灣人聯合基金會 — 催生者/創辦人
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 邵維平

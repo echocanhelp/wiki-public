@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Sharon S. Hsu (許聖美) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S.農業推廣系
+- 美國Marian College畢業 — Nursing
+
+## Employment
+- 威州註冊護士
+- 許氏參業集團 — 1974 — 副總裁
+<!-- tah-tables:end -->
 
 ## Family
 

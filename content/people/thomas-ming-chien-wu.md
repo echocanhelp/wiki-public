@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 Dr. Wu was born in Taiwan, County of Tainan. He received his B.S. degree from the Department of Music/violin at the National Taiwan Normal University. He came to the US via Vienna and received his Master’s degree in Fine Arts and Voice Performance from UCLA, then his doctoral degree in Musical Arts/Vocal Art from USC. He is the first Taiwanese musician with a Doctor’s degree in Vocal Arts. His talent is not only in vocal arts and in his violin performances, but also in conducting chamber orchestras, symphony orchestras, and choirs.
 
+<!-- tah-tables:start -->
+## Education
+- 國立師範大學 — B.S. 音樂
+- UCLA — M.S. 音樂
+- USC — Ph.D.音樂&聲樂
+
+## Employment
+- 洛杉磯台美室內樂團 — 1995 — 創設人
+- 台美交響樂團 — 1999 — 創設人
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

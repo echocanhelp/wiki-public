@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 台灣台中縣人，畢業於台北實踐大學，主修聲樂，曾事師呂泉生、翁綠萍。在薩爾茲莫札特音樂學院時期，事師Fraud Dipp教授，定居美國費城郊區後，事師Kathryna Blum Barone。現與任教於費城Academy of Vocal Arts，教練Richard Raub 先生學習。今年五月，羅女士取得她的音樂理療碩士學位。現在從事她藝術生命的音樂工作室。
 
+<!-- tah-tables:start -->
+## Education
+- .1台北實踐大學 — B.S.聲樂
+- M.S. 音樂理療
+
+## Employment
+- 藝術生命音樂工作室 — Owner
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Richard Raub

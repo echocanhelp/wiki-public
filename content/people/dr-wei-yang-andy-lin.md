@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Dr. Wei-Yang Andy Lin 林維洋博士 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- The Juilliard School — 2006 — B.S., Music — 2008 — M.S., Music
+- State Univ. of New York at Stony Brook — Ph.D., Music Art
+
+## Employment
+- New Asia Chamber Music Society — Artistic Director — Quartet 131 — Viola — (2019-) — Chinese Cultural Arts Institute of Harrisburg — Erhu Artistic Director / Instructor — Amphion String Quartet — Violist — Chamber Music Society of Lincoln Center — Resident Ensemble Member (Amphion String Quartet) — (2013-2016) — International Sejong Soloists — Principal Violist — Great Mountain Music Festival and School — Faculty / Performer — Community — New Asia Chamber Music Society (新亞室內樂協會) — Co-Founder and Artistic Director — Taiwanese Junior Chamber of Commerce of New York (紐約台灣青商會) — President — Amphion String Quartet — Founding Member — New Asia Chamber Music Society — Artistic Director - promotes Asian culture and classical music in the U.S. — Chinese Cultural Arts Institute of Harrisburg — Erhu Arts Instructor
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

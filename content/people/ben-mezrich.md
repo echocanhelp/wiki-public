@@ -22,6 +22,11 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Well-known author of non-fictional books, New York Times bestselling author, published 12 books in 19 years
 
+<!-- tah-tables:start -->
+## Education
+- Harvard Univ. — 1991 — B.A., Social Studies
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Tonya Chen Mezrich (陳糖亞)

@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Chairman of Monte Jade East Coast Technology Association (美東玉山科技協會理事長)
 
+<!-- tah-tables:start -->
+## Education
+- National Taipei Univ. of Technology (台北科技大學) — B.S.
+- New Jersey Institute of Technology — M.S., Engineering
+
+## Employment
+- PC Warehouse, USA — Sales Manager — CSI Technology Group — President; Founder — (1990-) — Community — Monte Jade East Coast Technology Association (美東玉山科技協會) — Chairman
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

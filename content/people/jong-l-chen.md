@@ -19,7 +19,20 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Jong L. Chen (陳榮良醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 高雄醫學院 — 1968
+
+## Employment
+- 加州沙加緬度 — Present — 執業泌尿科醫生
+- 紐約法屬分科醫院 — 外科住院醫師
+- 達通退役軍人醫院 — 泌尿科住院醫師
+- 俄亥俄州立大學 — 泌尿科住院醫師
+- 萊德州立大學 — 泌尿科住院醫師
+- 摩西綜合醫院 — 泌尿科主任
+- 撒特綜合醫院 — 泌尿科主任
+<!-- tah-tables:end -->
 
 ## Family
 

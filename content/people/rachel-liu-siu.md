@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of Asian Pacific American Heritage Council (APAHC), 1987
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.A., Accounting
+- Univ. of Central Florida — B.A., Business Administration
+
+## Employment
+- Rachel Liu Siu, CPA — Owner — SurgiLight Inc. — Chief Financial Officer — Community — Asian Pacific American Heritage Council (APAHC) — President — Asian American Advisory Board to Mayor Frederick, City of Orlando — Chairperson — Rotary Club of UCF/Research Park — President — Asian American Heritage Council — President
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

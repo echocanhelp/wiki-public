@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 4. Manager and Leader in Many Business: Travel, Software Development and Health Cares (旅遊，軟件開發和醫療保健)
 
+<!-- tah-tables:start -->
+## Education
+- UCSD — 2005 — B.A.
+- Massachusetts Institute of Technology — 2015 — MBA
+
+## Employment
+- Lion Group — Vice President — (2010-2015) — JWI Marketing — Vice President — (2011-2014) — Ford Motor Company — Smart Mobility Strategy — (2015-2017) — US Department of Transportation — Presidential Innovation Fellow — (2019-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Father:** 林芳仁

@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Horng-Tzer Yau (姚鴻澤) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1981 — B.S.
+- Princeton University — 1987 — Ph.D.
+
+## Employment
+- New York University — 1988-1994 — professor
+- Courant Institute of Mathematical Sciences — 1994-2003 — professor
+- Stanford University — 2003 — professor
+- Harvard University — 2005 — professor
+<!-- tah-tables:end -->
 
 ## Family
 

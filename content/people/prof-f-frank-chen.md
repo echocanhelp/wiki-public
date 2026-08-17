@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1, The first Taiwanese scholar was awarded the " Presidential Faculty Fellows " (美國總統教授獎) (PFF/PECASE Award- The highest honor bestowed by the United States government on outstanding scientists and engineers in the early stages of their independent research careers), 1996
 
+<!-- tah-tables:start -->
+## Education
+- Tunghai Univ. (東海大學) — 1980 — B.S., Industrial Engineering
+- The Univ. of Missouri-Columbia — M.S., Industrial Engineering — Ph.D., Industrial Engineering
+
+## Employment
+- Virginia Polytechnic Institute and State Univ. — John L. Lawrence Endowed Professor — The Center for High Performance Manufacturing — Founder and Director — Univ. of Texas at San Antonio — Lutcher Brown University Distinguished Chair Professor
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

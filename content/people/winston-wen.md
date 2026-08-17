@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Winston Wen (溫隆志) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Louisville Presbyterian Theological Seminary, Kentucky — M.D. Divinity
+
+## Employment
+- 亞特蘭大台灣長老教會 — 牧師
+- 陸城台灣長老教會 — -2010 — 主任牧師
+<!-- tah-tables:end -->
 
 ## Family
 

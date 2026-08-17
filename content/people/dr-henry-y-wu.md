@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Henry Y. Wu (吳銀鏤醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Taipei Medical Univ. (臺北醫學大學) — B.S.
+- Northwestern Univ. — DDS, MS
+
+## Employment
+- UCSF Denture Prosthesis Dept. — Associate Clinical Professor — Private Practice, Oakland, CA — Dentist — (1986-)
+<!-- tah-tables:end -->
 
 ## Family
 

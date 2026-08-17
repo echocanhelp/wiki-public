@@ -22,6 +22,12 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. One of the Founders and President of North America Taiwanese Women’s Association (北美洲台灣婦女會) 1994-1995
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.S., Philosophy
+- Univ. of Houston — M.S., Social Work
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** 李雅彥

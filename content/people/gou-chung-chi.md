@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Gou-Chung Chi (紀國鐘) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣師範大學物理系 — 1970 — BS. in 物理系
+- 美國耶魯大學 — 1974 — MS. in 物理系
+- 美國耶魯大學 — 1976 — PhD. in 應用科學
+
+## Employment
+- 行政院研究發展考核委員會 — 2000-2004 — 副主委
+- 國立中央大學 — 2004-2006 — 講座教授
+- 行政院國科會 — 2004-2006 — 副主委
+<!-- tah-tables:end -->
 
 ## Family
 

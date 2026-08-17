@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-C. Y. Tsai (蔡嘉寅) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 1
+- Purdue University — Ph.D. 植物與植病學系
+
+## Employment
+- 台灣大學遺傳學系植物科學研究所 — 兼任教授
+- 台灣大學遺傳學系植物學系 — 教授, 主任
+- 台灣大學生物技術研究中心 — 籌備處主任
+- 美國普渡大學遺傳學系 — 教授, 副教授, 助理教受
+<!-- tah-tables:end -->
 
 ## Family
 

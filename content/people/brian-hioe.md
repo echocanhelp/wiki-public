@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** journalist
 - **Source:** TAH Foundation Who’s Who
 
-Brian Hioe (丘琦欣) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- New York University — 2013 — B.A., History, East Asian Studies, and English Literature. — Columbia University in the City of New York — 2016 — M.A., East Asian Languages and Cultures
+
+## Employment
+- New Bloom — 2014-Present — Founding editors
+<!-- tah-tables:end -->
 
 ## Family
 

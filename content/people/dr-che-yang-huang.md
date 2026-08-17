@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Editor-in-Chief of the Annual Journals of NATMA for 9 Years (主編北美洲台灣人醫師協會年刊九年)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1967 — M.D.
+
+## Employment
+- OB-GYN Clinic — Self-Employee — Sam Antonio Community Hospital, Upland, CA — Director of OB-GYN — Community — North American Taiwanese Medical Association (NATMA) — Editor-in-Chief of Annual Journals for 9 Years — NATMA International Medical Missions — Member (Dominican Republic, Belize, Nicaragua, Guatemala, Panama - 6 missions total) — Taiwanese American Religious Study Association (TARSA) — Co-Founder (2009) — Southern California KSHS and KGHS Joint Alumni Association — Founding President (2013)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 葉綉美

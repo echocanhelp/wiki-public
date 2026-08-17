@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, physician, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Ching Yung Lee (李慶榮) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1961 — M.D.
+- Univ. of Michigan — 1970 — Ph.D., Physiology
+
+## Employment
+- Univ. of Minnesota — 1978 — Assistant Professor
+- Albany Veterans Affairs Hospital — 1983 — Pathologist
+- Albany Medical College — 1994 — Professor of Pathology
+<!-- tah-tables:end -->
 
 ## Family
 

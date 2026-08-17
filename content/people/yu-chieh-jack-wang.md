@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 1. Department of Pharmaceutical Sciences, University of North Texas Health Science Center (UNTHSC)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Normal Univsersity — 2008 — B.S. Biology
+- medicinal chemistry and pharmacognosy from the Ohio State University — 2002
+
+## Employment
+- Department of Pharmaceutical Sciences, University of North Texas Health Science Center (UNTHSC) — present — Assistant Professor
+- Scripps Research Institute (TSRI; La Jolla, CA) — Senior Research Associate
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

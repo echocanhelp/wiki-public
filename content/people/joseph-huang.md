@@ -21,6 +21,19 @@ last_reviewed: 2026-08-17
 
 Source from FORMOSAN ASSOCIATION FOR PUBLIC AFFAIRS - ILLINOIS Chapter (FAPA-IL) 2017/02
 
+<!-- tah-tables:start -->
+## Education
+- 台北實踐大學 — B.A.空間設計
+- Oregon University — M.S. Architecture
+- Illinois Institute of Technology — Ph.D. Architecture
+
+## Employment
+- CTAI — 建築師
+- MWH (part of Stantec)工程及建築顧問 — BIM資深經理
+- SOM建築及工程師事務所 — 資深數位設計建築師
+- SERA Architects建築師事務所 — 建築設計師
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

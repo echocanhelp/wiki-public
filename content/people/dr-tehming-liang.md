@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of North American Taiwanese Medical Association/Chicago Chapter (北美臺灣人醫師協會芝加哥分會), 2010
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1968 — B.S., Agriculture
+- Univ. of Chicago — 1973 — Ph.D., Chemistry
+- Univ. of Miami — 1987 — Medical Ph.D.
+
+## Employment
+- Chicago — Dermatologist — Community — North American Taiwanese Medical Association / Chicago Chapter (北美臺灣人醫師協會芝加哥分會) — President — TAA/NJ (全美台灣同鄉會紐澤西分會) — President
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

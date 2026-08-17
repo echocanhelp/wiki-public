@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Chiun-Teng Cheng was born in Taiwan and went to the United States in 1986 and was recognized as a vigorous and gifted player. He pursued his Master’s degree as a pupil of legendary pedagogy Dorothy DeLay, Eric Rosenblith, and Matsuko Ushioda at the New England Conservatory. His chamber music teachers included Leonard Shure, Eugene Lehner, and Louis Krasner. Cheng began violin studies when he was quite little. He earned his Bachelor’s degree from National Taiwan Normal University while studying with Prof. Shu-Te Sylvia Lee. He won the position of the Cincinnati Symphony Orchestra in 1993 and has been a tutti violinist in the orchestra since then. Besides, being a professional musician, he has also a great love of collecting rare violins and bows. He had the privilege to study string instrument identification under the famous connoisseur Jacques Francais in 1990s.
 
+<!-- tah-tables:start -->
+## Education
+- 國立師範大學 — year — B.A. 音樂系
+- 新英格蘭音樂學院 — year — M.S. 音樂系
+
+## Employment
+- 美國辛辛那提交響樂團 — present — 小提琴家
+- 新英格蘭音樂學院 — 交響樂團首席之一
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-%E9%99%B3%E5%Bb%Ba%E8%B3%93 (陳建賓) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.A. 經濟系
+- 休士頓大學 — Ph.D. 經濟學
+
+## Employment
+- 休士頓大學維多利亞分校 — 經濟學副教授
+<!-- tah-tables:end -->
 
 ## Family
 

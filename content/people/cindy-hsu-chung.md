@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Cindy Hsu Chung, a native of Taiwan, began her piano studies at the age of seven. After moving to California five years later, she continued to steadily progress in her keyboard career and completed her Master’s degree with UCLA Professor Walter Ponce. Chung has won several scholarships, including those of the Redlands Organ Festival and UCLA Gluck Performance Scholarship. Chung maintains a busy schedule as a recitalist, teacher, and collaborator. She is currently the pianist for choir and eurythmy for the Waldorf Teaching Training program.
 
+<!-- tah-tables:start -->
+## Education
+- 1.
+- UCLA — M.S. Music
+
+## Employment
+- Pianist & eurythmy — Choir & Waldorf Teaching Training Program
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

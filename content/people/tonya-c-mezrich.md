@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 2. Resident Fashion Expert in Boston Red Carpet at NECN (A TV Show Blends Fashion & Philanthropy)
 
+<!-- tah-tables:start -->
+## Education
+- Tufts Univ. — B.S., French Literature and Art History
+
+## Employment
+- Fashion designer of jewelry line and clothing line
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** [[people/ben-mezrich|Ben Mezrich]]

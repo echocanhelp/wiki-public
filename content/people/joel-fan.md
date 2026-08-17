@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Pianist Joel Fan is acclaimed as “soaring” (Los Angeles Times), “fantastic” (Washington Post), and possessing a “probing intellect and vivid imagination” (New York Times). Celebrated for his exuberant virtuosity, and a bold repertoire that embraces piano classics and inspired discoveries of contemporary and world music, Fan re-invents the piano recital by illuminating the rare and unexpected – creating, in the words of the Baltimore Sun’s critic Tim Smith, “one of the most satisfying piano performances I’ve heard.”
 
+<!-- tah-tables:start -->
+## Education
+- The Juilliard School — B.S. Music
+- Harvard University — B.S. Art
+- Peabody Institute — M.S. Music
+
+## Employment
+- Silk Road Ensemble — Member / Pianist — Northwest Sinfonietta — Concerto Soloist — (2014-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. A Food Stylist of Netflix (You), Movie Mr. Church, and Life of Pi
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. of Arts (國立臺灣藝術大學) — B.A., Film Studies
+- Los Angeles Trade Technical College (洛杉磯貿易技術學院) — Professional Baking Dept.
+
+## Employment
+- Fun Taiwan Challenge (瘋台灣大挑戰) — Associate Producer — Life of Pi (少年PI的奇幻漂流) — Art Assistance — Jeffrey Jacob Abrams — Personal Chef
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

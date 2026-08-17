@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 A victory at the 2012 CAG Victor Elmaleh Competition is the latest in a growing list of awards for Steven Lin, an immediately engaging and imaginative young Taiwanese American pianist. The Baltimore Sun declared his recent performance “elegantly refined,” listening to Lin as soloist in Rachmaninoff’s Rhapsody on a Theme of Paganini with the Baltimore Symphony. His vibrant playing at the 2013 Van Cliburn International Piano Competition was recognized both by the critics (“…thoroughly enjoyable both as music and as a performance” – Ft. Worth Star-Telegram) and the judges, who selected him for the John Giordano Jury Chairman Discretionary Award.
 
+<!-- tah-tables:start -->
+## Education
+- The Juilliard School — B.S. Music
+- The Juilliard School — M.S. Music
+
+## Employment
+- Aspen Chamber Music Workshop — Festival Performer — (2013-2013)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

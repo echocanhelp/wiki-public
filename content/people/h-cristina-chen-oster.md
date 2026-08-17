@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 H. Cristina Chen-Oster 陳慧蓉 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- Massachusetts Institute of Technology — B.A., Financial
+
+## Employment
+- Goldman Sachs & Co. — vice president
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Oster

@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Lorenzo Chun-Han Chang 張淳菡 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- Year
+- 國立台北藝術大學 — B.A.音樂系
+- 劍橋隆基音樂學院 — M.S.聲樂 — 3.
+
+## Employment
+- Year
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

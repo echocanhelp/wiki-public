@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of North American Taiwanese Medical Association (北美台灣人醫師協會會長) 2004-2006
 
+<!-- tah-tables:start -->
+## Education
+- China Medical Univ. (中國醫藥大學) — M.D.
+
+## Employment
+- Maryville, Illinois — Pain physician — North American Taiwanese Medical Association (北美台灣人醫師協會) — President — (2004-2006) — Overseas Community Affairs Council (中華民國僑務委員會) — Member (appointed) — (2006-2008) — FAPA Saint Louis Chapter (北美洲台灣人公共事務會聖路易分會) — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 潘美弘

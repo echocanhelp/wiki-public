@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 A native of Taiwan, Assistant Concertmaster Huei-Sheng Kao started violin studies at age six with private lessons and played in the BBC Children’s Orchestra in Taiwan for several years. He made his first public appearance at eight, and at the age of eleven won a national violin competition which brought him a solo appearance in the Mendelssohn Violin Concerto with the Chinese Youth Orchestra. He spent a summer at Interlochen, where he played the Wieniawski Violin Concerto. From 1971 to 1977 Mr. Kao attended the Curtis Institute of Music in Philadelphia, where he studied with Ivan Galamian and Jaime Laredo. After earning his diploma in 1977 he joined the Pittsburgh Symphony and was appointed Assistant Concertmaster in the 1979-80 season. In the spring of 1980 he appeared with the Orchestra as a subscription-concert soloist in Vivaldi’s Concerto for Four Violins. In November 1989 he performed Sibelius’ Violin Concerto with the Capetown Symphony Orchestra. Mr. Kao teaches privately. He and his wife Monica have two young children, Alexander and Caroline.
 
+<!-- tah-tables:start -->
+## Education
+- Curtis Institute of Music — 1977 — Musice
+
+## Employment
+- Pittsburgh Symphony — 1977- — Assistant Concertmaster
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Monica

@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Adrian Lin (林宣緒) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台大 — 外交系 — B.S.
+- University of Tennessee — 政治系 — M.S.
+- North Carolina State U — 電機系 — M.S.
+
+## Employment
+- Honeywell — 1977-1997
+<!-- tah-tables:end -->
 
 ## Family
 

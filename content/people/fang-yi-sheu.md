@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Fang-Yi Sheu (許芳宜) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台北藝術大學 — 1994 — B.S.
+
+## Employment
+- 「拉芳．LAFA」舞團, NY — 2006 — 創立者 — Martha Graham — 1996-2006 — 首席舞者
+<!-- tah-tables:end -->
 
 ## Family
 

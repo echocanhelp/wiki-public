@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Cheng-yan Kao (高成炎) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 國立台灣大學 — 1971 — 學士/數學
+- 美國威斯康辛大學 — 1976 — 碩士/計算機科學
+- 美國威斯康辛大學 — 1978 — 碩士/統計學
+- 美國威斯康辛大學 — 1981 — 博士/計算機科學
+
+## Employment
+- 美國太空總署（NASA） — 1981-90 — 資深軟體工程師
+- 國立台灣大學 — 1990-2015 — 教授/資訊工程系
+<!-- tah-tables:end -->
 
 ## Family
 

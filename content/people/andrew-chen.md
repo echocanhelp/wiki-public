@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist
 - **Source:** TAH Foundation Who’s Who
 
-Andrew Chen (陳威光博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 加州理工學院 — B.S. 物理&數學
+- 哥倫比亞大學 — M.S. 物理
+- 哥倫比亞大學 — Ph.D. 天文物理學
+
+## Employment
+- NASA
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** artist
 - **Source:** TAH Foundation Who’s Who
 
-Tzutsai Cheng (鄭自才) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 國立成功大學 — 1959 — B.S. 建築工程
+- 卡內基、美隆大學 — 1964 — M.S. 都市設計
+
+## Employment
+- Marcel Brueuer建築師事務所 — 建築師
+<!-- tah-tables:end -->
 
 ## Family
 

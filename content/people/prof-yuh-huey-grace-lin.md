@@ -21,6 +21,12 @@ last_reviewed: 2026-08-17
 
 Prof. Yuh-Huey Grace Lin 林玉惠 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Employment
+- Washington DC Taiwanese School — present — Teaching guzheng
+- the Division of Languages and Literature at Northern Virginia Community College — present — professor
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -19,7 +19,13 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Linda Gail Arrigo (艾琳達) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 加大聖地牙哥分校 — 1972 — B.S.
+- 史丹佛大學 — 1973 — M.S. 人類學
+- 紐約州立大學 — Ph.D. 社會學
+<!-- tah-tables:end -->
 
 ## Family
 

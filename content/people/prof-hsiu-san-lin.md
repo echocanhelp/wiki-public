@@ -23,6 +23,18 @@ Washington University in St. Louis
 Assistant to Full Professor of Radiation Oncology
 (1971-2005)
 
+<!-- tah-tables:start -->
+## Education
+- 國立臺灣大學醫學院 — 1953-1960 — M.D.
+- University of Chicago — 1964-1968 — Ph.D. Microbiology
+- University of Toronto， Canada — 1968-1971 — Postdoctoral fellow
+
+## Employment
+- Washington University in St Louis — 1971-2005 — Assistant to Full Professor of Radiation Oncology
+- Oxford University — 1977-1978 — Visiting Professor
+- Washington University — 2005-Present — Professor Emeritus of Radiation Oncology
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** [[people/prof-su-chiung-chen|陳素瓊教授]]

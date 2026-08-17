@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Dr. Long-Rong (Mark) Kao 高龍榮 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Chun-Hsin University — 1979 — M.S., Entomology
+- North Carolina State University — 1984 — Ph.D. Toxicology
+
+## Employment
+- J&J — 2001- — Scientific Director
+- American Cyanamid, Wyeth, Cornell U. NIH — 1984-2001 — R&D
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Su-Mei 林素梅

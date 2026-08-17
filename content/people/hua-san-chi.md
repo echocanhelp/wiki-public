@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Outstanding Service Award Recipients by Taiwanese Youth Arts Foundation, 1993-1994
 
+<!-- tah-tables:start -->
+## Education
+- Cornell University — 1975 — Ph.D. economics
+
+## Employment
+- U. S. Department of Labor — senior Labor economist
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

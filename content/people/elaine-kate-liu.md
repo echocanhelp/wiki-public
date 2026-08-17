@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Elaine Kate Liu is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Cornell Univ. — 1997 — B.S., Industrial and Labor Relations
+
+## Employment
+- Nektar Therapeutics — IT Compliance Analyst
+<!-- tah-tables:end -->
 
 ## Family
 

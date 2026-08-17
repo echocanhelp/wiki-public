@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 王琳琦自幼即展現拉奏小提的天賦，十歲時曾應邀在紐約交響樂團擔任小提琴獨奏。王琳琦具大師技巧及音韻兼備的特殊才華，贏得她足跡遍及世界各地的演奏機會。隨著應邀赴全球各地音樂節演奏，王琳琦獲獎頻頻，並曾多次應邀在電視及電台現場演奏。
 
+<!-- tah-tables:start -->
+## Education
+- 南加大 — B.S.
+- 奧地利艾札特學院 — M.S.
+
+## Employment
+- 太平洋音樂專門學院 — Teaching
+- 丹福大學拉蒙特音樂學院 — present — 小提琴助理教授
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

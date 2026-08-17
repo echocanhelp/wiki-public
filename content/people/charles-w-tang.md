@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 B.M. and M.M. in piano performance, The Juilliard School; B.S. in computer science, Columbia University; and M.S. in media technology, MIT. Mr. Tang was born in Kaohsiung City, Taiwan. In 1982, he was officially recognized by the R.O.C. Ministry of Education as a “Gifted Child in the Performing Arts,” and subsequently came to the U.S. to further his musical studies. Mr. Tang studied under Kathrine Parker and Martin Canin at The Juilliard School, and learned to play zheng (Chinese zither) under the world-renowned zheng master WANG Changyuan. Mr. Tang has since won many competitions and awards, including the Gerald Tracy Competition and the McDonald Prize. He has lectured and performed on the piano, zheng, and koto at The Juilliard Theater, Lincoln Center, Merkin Hall, Japan Society, Shea Stadium, Yale University, Columbia University, and many other concert halls and universities in the U.S. Mr. Tang currently teaches at the Renaissance Music and Arts School in New York. He has been a member of, and composer-in-residence for, the Drum Spirit of China since 1997.
 
+<!-- tah-tables:start -->
+## Education
+- The Juilliard School — B.S.
+- The Juilliard School — M.S.piano
+- MIT — M.S.電腦媒體
+
+## Employment
+- 紐約”小亞歷音樂美術學院” — teaching
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

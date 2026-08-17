@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, physician, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Ye-Ming Wu (吳怡明) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 高雄醫學大學 — B.S.牙醫
+- UCSF — 1996 — M.S.兒童牙科
+- UCSF — Ph.D.牙醫
+
+## Employment
+- UCSF — 臨床教授
+- Agape Dental Group — President
+<!-- tah-tables:end -->
 
 ## Family
 

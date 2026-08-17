@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 2. National Minority Supplier Development Council Minority Business Leadership Award
 
+<!-- tah-tables:start -->
+## Education
+- 喬治工職 — 電子科
+
+## Employment
+- 鐵窗生意 — 1983
+- 協和門窗公司 Crystal Window & Door Systems, Ltd. — 1986 — 創辦人
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Son:** Steve Chen

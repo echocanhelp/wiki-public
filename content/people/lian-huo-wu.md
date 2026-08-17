@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 2. Founder and President of Empire Investment, Inc. (The First Brokerage Firm by a Taiwanese American) 1985-present
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Normal Univ. — 1958 — B.S., Chinese Literature
+- Seton Hall Univ. — Business Management
+
+## Employment
+- Francis I. DuPont — Agent — (1967-) — Thomson Mckinnon Securities Inc. — Deputy General Manager — (-1985) — Empire Investment, Inc. — President — (1985-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

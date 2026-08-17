@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 2. The first Taiwanese American to receive the title of Professor Emeritus of Harvard Univ.
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1968 — B.S., Chemistry
+- Massachusetts Institute of Technology — 1972 — M.S. — 1975 — Ph.D., Cellular Biology
+
+## Employment
+- Cold Spring Harbor Laboratories — Senior Research Fellow — (1977-) — Harvard University — Assistant Professor, Associate Professor, Professor — (1977-2004) — Harvard University — Professor Emeritus — (2004-) — CHO Pharma, Inc. — Chairman and General Manager
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

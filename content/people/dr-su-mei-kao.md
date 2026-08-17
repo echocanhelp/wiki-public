@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Chairperson of Taiwanese American Community Scholarship Project / Windsor Area 2006
 
+<!-- tah-tables:start -->
+## Education
+- National Chung Hsing Univ. (中興大學) — 1971-1975 — B.S.
+- North Carolina State Univ. — 1981-1983 — M.S.
+- Cornell Univ. — 1985-1990 — Ph.D.
+
+## Employment
+- Wyeth Pharmaceuticals (Taiwan) — North Carolina State University — University of Missouri at Kansas City — CIBA-GEIGY — West Windsor Public School — North Hunterdon Public School — North Brunswick Public School — Pennington School — Community — Taiwanese American Community Scholarship Project / Windsor Area — Chairperson — Windsor Area Taiwanese American Association — President — NATWA - New Jersey Chapter (北美洲台灣婦女會紐澤西分會) — President — TAA / New Jersey Chapter (紐澤西台灣同鄉會) — President — Taiwanese American Conference / East Coast (美東台灣人夏令會) — Coordinator — TAC-EC (美東台灣人夏令會) — Chairwoman
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** [[people/long-rong-mark-kao|高龍榮]]

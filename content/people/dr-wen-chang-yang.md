@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Wen-Chang Yang (楊文昌醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. College of Medicine — 1966 — M.D.
+
+## Employment
+- Danbury Hospital — Residency — Lenox Hill Hospital — Physician of Radiology Dept.
+<!-- tah-tables:end -->
 
 ## Family
 

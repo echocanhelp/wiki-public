@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1994 Entrepreneur of the Year Award representing the Inland Empire, California
 
+<!-- tah-tables:start -->
+## Education
+- Taipei Medical College — 1967 — BS/Pharmacy — West Virginia University — 1970 — MS/Pharmaceutics — Purdue University — 1973 — PhD/Industrial and physical pharmacy
+
+## Employment
+- G. D. Searle Pharmaceuticals — 1973-83 — Watson Pharmaceuticals, Inc. — 1984-2007 — Co-founder, President — Newport Healthcare Advisors LLC — 2008-present — Chairman and managing partner — Tanvex BioPharma — 2014-present — CEO and Director
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Lee Hwa-Chao

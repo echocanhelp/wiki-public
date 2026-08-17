@@ -21,6 +21,18 @@ last_reviewed: 2026-08-17
 
 4. Vascular and Medicinal Research, Houston, Texas Heart Institute, Houston, Texas
 
+<!-- tah-tables:start -->
+## Education
+- Kaohsiung Medical College — 1978 — M.D. Medicine
+- Texas Tech University, Lubbock, Texas — 1986 — Ph.D.Physiology
+
+## Employment
+- Baylor College of Medicine, Houston TX — 1993-1994 — Instructor of Medicine
+- Baylor College of Medicine — 1994-Present — Assistant Professor of Medicine
+- Behavioral Medicine Research Center, Department of Medicine — 2006-Present — Clinical Director
+- Vascular and Medicinal Research, Houston, Texas Heart Institute, Houston, Texas — 2009-Present — Professor and Director
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

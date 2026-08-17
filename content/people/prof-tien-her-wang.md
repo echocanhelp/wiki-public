@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Prof. Tien-Her Wang (王天合教授) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Taiwan Univ. (台灣大學) — BS, Physics
+- Washington Univ. in St. Louis — Ph.D., Physics
+
+## Employment
+- Louisiana Southern Univ. — Professor — Community — TAA - 巴頓路奇 — President — WUFI (台獨聯盟) — Central Committee Member
+<!-- tah-tables:end -->
 
 ## Family
 

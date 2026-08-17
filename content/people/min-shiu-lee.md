@@ -21,6 +21,19 @@ last_reviewed: 2026-08-17
 
 2. Chairman, Investment Committee, Dayton Section, American Chemical Society, 1984
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1962 — B.S., Chem. Eng.
+- New Mexico Highlands Univ. — 1966 — M.S., Physical Chemistry
+- Case Western Reserve Univ. — 1969 — Ph.D., Macromolecular Science & Engineer
+
+## Employment
+- FMC Corp., — 1969 — Senior Research Scientist
+- Johnson & Johnson — 1976 — Manager
+- Becton Dickinson, Dayton Technology Center — 1986 — Manager
+- Becton Dickinson Medical Co. — 1992 — Manager
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Yen-Mei Su 蘇妍媚

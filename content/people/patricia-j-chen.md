@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 2. CA State Bar Environmental Section Executive Committee Member (2004-2007) & Adviser (2007-2014)
 
+<!-- tah-tables:start -->
+## Education
+- U.C. Irvine — 1994- — BS
+- U.C. Hastings College — 1998-J.D. — Law School — 3.
+
+## Employment
+- PC Law Group — Attorney
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

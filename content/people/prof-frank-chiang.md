@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 2. President of North American Taiwanese Professors’ Association (北美洲台灣人教授協會總會長) 1998-1999
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1958 — B.S., Law
+- Northwestern Univ. — 1962 — M.S., Legal
+- Univ. of Chicago — 1967 — JD
+
+## Employment
+- Harvard Law School — Researcher — (1966-) — Univ. of Georgia — Professor — (1967-) — Fordham Univ. School of Law — Professor — Asia Bank/New York — Co-Founder and Vice-CEO — (1984-1988) — Community — North American Taiwanese Professors' Association (北美洲台灣人教授協會) — President (總會長), 1998-1999 — The Taiwan Merchant Association of New York — President, 1980-1984 — Formosan Association for Public Affairs, New York Chapter — President, 1991-1992
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Quay-Yin (林貴英)

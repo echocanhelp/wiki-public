@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Department of Orthopedic Surgery at The GW Medical Faculty Associates
 Chief of the Spine Section
 
+<!-- tah-tables:start -->
+## Education
+- Northwestern University Medical School — M.D. — University of California, Los Angeles — residency
+
+## Employment
+- Department of Orthopedic Surgery at The GW Medical Faculty Associates — present — Chief of the Spine Section
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

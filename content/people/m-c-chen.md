@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-M. C. Chen (陳玫琪) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 東吳大學 — B.S. 理論作曲
+- University of Cincinnati College — Ph.D.Music art
+
+## Employment
+- 文建會 — 副研究員
+- 輔仁大學 — 副教授
+- 國家音樂廳/戲劇院 — 企劃組組長
+<!-- tah-tables:end -->
 
 ## Family
 

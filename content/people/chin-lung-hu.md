@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Chin-Lung Hu (胡金龍) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Sport Univ. (國立體育大學)
+
+## Employment
+- Los Angeles Dodgers — Baseball Player — (2007-2010) — New York Mets — Baseball Player — (2011-2011) — Adelaide Giant — Baseball Player — (2011-2011) — Cleveland Indians — Baseball Player — (2012-2012) — EDA Rhinos — Baseball Player — (2013-2016) — Fubon Guardians — Baseball Player — (2017-)
+<!-- tah-tables:end -->
 
 ## Family
 

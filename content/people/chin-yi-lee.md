@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Born in Taiwan, Chin-Yi Lee 李琹怡 began studying the piano at the age of five. She was awarded a scholarship from the KAWAI Music Foundation to study for her Bachelor of Music degree in Taiwan, where she was a finalist in the 1999 YAMAHA Young Pianist Competition. She came to the United States in 2000 and earned her Master’s degree at Peabody Conservatory where she studied with Boris Slutsky. In addition to solo performance, she has pursued a strong interest in chamber music and piano accompanying. She was selected to attend the chamber music master class with Leon Fleisher at Peabody Conservatory, and has served as piano accompanist for Hampden Baptist Church, the Children’s Chorus of Maryland, Peabody Preparatory and Towson University. She joined the piano faculty at Roland Park Country School in 2006. Ms. Lee currently teaches private lessons in Baltimore.
 
+<!-- tah-tables:start -->
+## Education
+- Peabody Conservatory — M.S.
+
+## Employment
+- Peabody Preparatory and Towson University — Accompanist
+- Roland Park Country School — 2006 — Faculty
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

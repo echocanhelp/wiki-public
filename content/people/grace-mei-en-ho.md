@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Taiwanese-American cellist Grace Ho is an active soloist and chamber musician in the United States and Asia. Ms. Ho has appeared as a soloist with orchestras such as the Xiamen Philharmonic Orchestra (China), Ho Chi Minh City Symphony Orchestra (Vietnam), Sun Taipei Philharmonic (Taiwan), Lewisville Lake Symphony Orchestra (Texas), Manhattan School of Music Philharmonic Orchestra, and University of North Texas Chamber Orchestra.
 
+<!-- tah-tables:start -->
+## Education
+- Univ. of North Texas — B.A., Music
+- Manhattan School of Music — M.A., Music — Ph.D., Musical Arts
+
+## Employment
+- Ulysses Quartet (Graduate Resident String Quartet at The Juilliard School) — Cellist — Miami Symphony Orchestra — Principal Cello — Ulysses Quartet — Founding Member — Shattered Glass String Ensemble — Member — Miami Symphony — Principal Cellist — International Chamber Players — Board Member
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

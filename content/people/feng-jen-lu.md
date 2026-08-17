@@ -21,6 +21,12 @@ last_reviewed: 2026-08-17
 
 A native Taiwan, Boston-based flutist Feng-Jen Lu started her training in music with piano in a young age. She studied flute with Hsiao-Pei Ma and Li-Min Chen while she was in Taiwan. As a prize winner, Lu won multiple prizes in both flute solo and chamber music completion, including: first prize in Kaohsiung Music Competition (2007), first prize in Taiwan National Music Competition (2008), first prize in NTUE concerto competition (2010) and first prize in Taichung Music Competition (2010).
 
+<!-- tah-tables:start -->
+## Education
+- Taichung University — B.S. education
+- New England Conservatory — M.S.music
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

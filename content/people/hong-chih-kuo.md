@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. The fourth Taiwanese baseball player to the Major League Baseball, 2005
 
+<!-- tah-tables:start -->
+## Education
+- Chang Jung Christian Univ. (長榮大學)
+
+## Employment
+- Los Angeles Dodgers — Pitcher — (2005-2011) — Seattle Mariners — Pitcher — (2012-2012) — Uni Lions — Pitcher — (2014-2016) — Fubon Guardians — Pitcher — (2017-2018)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 呂宜靜

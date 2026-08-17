@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Lily Chiang (姜萊莉) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 高雄女中 — 1968
+- 淡江文理學院 — 1972 — B.A. 國貿系
+- AZ 室內設計學院 — 1999
+
+## Employment
+- 林氏集團 — 1973 — Owner
+- Meto地產 — 1980 — Owner
+- 室內設計顧問 — 2004-10 — Owner
+<!-- tah-tables:end -->
 
 ## Family
 

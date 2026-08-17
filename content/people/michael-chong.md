@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Michael Chong is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Ohio State University — B.S. Marketing
+- University of Texas — M.S.Science in Management information system
+
+## Employment
+- Silicon Valley Talent — present — Founder & CEO
+- MIT/Stanford Venture Lab — Vice Chairman & Board member
+- Product at Gravitocity — Vice President
+<!-- tah-tables:end -->
 
 ## Family
 

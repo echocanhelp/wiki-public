@@ -22,6 +22,12 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Established Asian American association For Advancement (4A) and served as the first president
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.A., Foreign Languages
+- Lehigh Univ. — B.S., Computer
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

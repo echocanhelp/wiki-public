@@ -21,6 +21,18 @@ last_reviewed: 2026-08-17
 
 Wei-Der Huang 黃瑋德, began her piano playing in her young age. Huang earned her Bachelor of Music degree at Fu-Jen Catholic University in Taiwan with Hsuan Lee and Kuo-Shang Kao, and won the first prize in the Taipei City Piano Competition. She holds the Master of Music degree and Professional Study Diploma from Manhattan School of Music in New York City where she was a student of Solomon Mikowsky and Marc Silverman. While in New York, she was the Music Director and Organist at Grace Lutheran Church, Astoria. Dr. Huang received her Doctoral of Musical Arts degree at University of Maryland at College Park where she studied with Anne Koscielny and Raymond Hanson. She is an active member of the Music Teachers National Association, Maryland State Music Teachers Association and Friday Morning Music Club. Dr. Huang has performed at Hubbard Recital Hall, New York, Homer Ulrich Recital Hall, NIH Masur Auditorium, Concert Hall at the Montgomery College, Strathmore Hall and among others in Great Washington Area. Dr. Huang is currently a piano faculty of the Howard Community College, Maryland and the Music Director and Organist at the Greenbelt Community Church in Greenbelt, Maryland.
 
+<!-- tah-tables:start -->
+## Education
+- Fu-Jen Catholic University — B.S.
+- Manhattan School of Music — M.S.
+- University of Maryland at College Park — Ph.D. Musical Arts
+
+## Employment
+- Grace Lutheran Church, Astoria — Music Director and Organist
+- Howard Community College — Faculty
+- Greenbelt Community Church in Greenbelt — Music Director and Organist
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

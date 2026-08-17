@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Ignatius Lin (林上翔) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Amherst College — B.S. 經濟
+
+## Employment
+- 導演
+<!-- tah-tables:end -->
 
 ## Family
 

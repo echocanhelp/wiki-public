@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Prof. Henry Chuang (莊英煌教授) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1952-1956 — B.S., Electrical Engr.
+- National Chiao Tung Univ. — 1958-1960 — M.S., Electrical Engr.
+- North Carolina State Univ. — 1963-1966 — Ph.D., Electrical Engr.
+
+## Employment
+- Washington Univ. — Research Engineer & Assistant Professor — (1966-1973) — Univ. of Pittsburgh — Professor — (1973-1999)
+<!-- tah-tables:end -->
 
 ## Family
 

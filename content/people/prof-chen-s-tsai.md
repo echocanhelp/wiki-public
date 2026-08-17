@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 2. Member (Academician), Academia Sinica (2000) and Foreign Member of Russian Academy of Applied Science (2001)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1957 — B.S., Electrical Eng.
+- Utah State Univ. — 1961 — M.S., Electrical Eng.
+- Stanford Univ. — 1965 — Ph.D., Electrical Eng.
+
+## Employment
+- California State University, San Jose — Assistant Professor — (1966-1969) — Lockheed Palo Alto Research Center — Research Scientist — (1966-1969) — Carnegie-Mellon University — Chair Professor — (1969-1980) — Institute of Applied Science and Engineering, Academia Sinica, Taiwan — Founding Director and Distinguished Research Fellow — (1999-2002) — University of California, Irvine — Distinguished Professor — (1980-2007) — University of California, Irvine — Chancellor's Professor — (2008-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Shirley C. Tsai (鄭秀蘭)

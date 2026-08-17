@@ -23,6 +23,19 @@ Columbia University, School of International Affairs
 PhD, International Law and International Relations
 (1960)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan University — 1950 — Bachelor/ Economics
+- Westminster Theological Seminary — 1952 — Postgrad.
+- University of Columbia — 1954 — Master/ International affairs
+- U. Columbia, School of International Affairs — 1960 — PhD./ international law; international relations
+
+## Employment
+- Prentice-Hall, Inc. — 1956-60 — Editor
+- Bucknell University, Lewisburg PA — 1960-94 — Professor
+- NDSA 日本研究中心 — 1965-94 — Dir.
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** : Izora Annabelle Copton

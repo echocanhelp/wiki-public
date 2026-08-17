@@ -19,7 +19,12 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Nick Wu (吳仲輝) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 中原大學 — B.S.化學工程
+- Stevens Institute Technology — 1980 — M.S.
+<!-- tah-tables:end -->
 
 ## Family
 

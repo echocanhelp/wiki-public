@@ -19,7 +19,12 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-S. L. Lin (林幸隆) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 淡江大學 — B.S.航空測量
+- 俄亥俄州立大學 — M.S.土地測量
+<!-- tah-tables:end -->
 
 ## Family
 

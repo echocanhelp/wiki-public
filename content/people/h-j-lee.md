@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
-H. J. Lee (李慧珍) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 實踐大學 — B.S.音樂
+- USC — M.S.聲樂
+
+## Employment
+- 樂音合唱團 — 2004-present — 指揮兼音樂總監
+- 樂音基金會 — 執行長
+- 心悅合唱團 — 指揮兼音樂總監
+<!-- tah-tables:end -->
 
 ## Family
 

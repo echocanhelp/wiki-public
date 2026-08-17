@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 1. Silver (25th) Anniversary of Service as Faculty of New York University School of Medicine 2000
 
+<!-- tah-tables:start -->
+## Education
+- 台北醫學院 — 1967 — B.S.
+
+## Employment
+- NYU School of Medicine — 1975-2009 — Attending Doctor
+- Private Practice — 1975-2009 — Physician
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Patsy Fang方秀蓉

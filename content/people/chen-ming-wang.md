@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Internationally Renowned Baseball Pitcher / New York Yankee Team 2005-2009
 
+<!-- tah-tables:start -->
+## Education
+- Taipei City Sports College (台北市立體育學院)
+
+## Employment
+- New York Yankees — Professional baseball pitcher — (2005-2009) — Washington Nationals — Professional baseball pitcher — (2011-2012) — Toronto Blue Jays — Professional baseball pitcher — (2013-2013) — Kansas City Royals — Professional baseball pitcher — (2016-2016) — Chinese Professional Baseball League — Pitcher coach — (2018-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 吳嘉姈

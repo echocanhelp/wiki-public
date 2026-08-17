@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Jawshing (Arthur) Liou 劉肇興 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- 政治大學 — B.S.新聞
+- 佛羅里達大學藝術研究所 — M.S. 跨媒材創作及攝影
+
+## Employment
+- 美國印地安那大學 — Present — 藝術系教授兼系主任
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

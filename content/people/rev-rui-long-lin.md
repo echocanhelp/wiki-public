@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Rev. Rui-Long Lin (林瑞隆牧師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Soochow Univ. (東吳大學) — B.A., Law
+- Taiwan Theological College and Seminary (台灣神學院) — 1975 — M. Div.
+- Drew Univ. — 1981 — M.S., Theological and religious studies — Ph.D., Theological and religious studies
+
+## Employment
+- Taiwanese Presbyterian Church of Northern Jersey (紐澤西佳壇教會) — Pastor — (1988-) — Presbyterian Bible College (新竹聖經學院) — Dean — (1990-) — Chung Yuan Christian University (中原大學) — Associate Professor — Tainan Dongning Presbyterian Church (台南東寧長老教會) — Pastor — (2007-) — Taipei Dongmen Presbyterian Church (台北東門長老教會) — Pastor — (2014-)
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Teng-Kuan (Eric) Huang 黃勝寬 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- University of Maryland College Park, — B.S.
+
+## Employment
+- Cisco — present — Research Engineer — Piano Accompanist at Freelance — National Highway Traffic Safety Administration — Electronics Engineer (Intern)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

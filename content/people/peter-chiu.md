@@ -19,7 +19,12 @@ last_reviewed: 2026-08-17
 - **Core roles:** lawyer
 - **Source:** TAH Foundation Who’s Who
 
-Peter Chiu (邱勝宗) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1960-1964 — B.A., Law
+- Meiji Univ. — 1971 — M.A., Law
+<!-- tah-tables:end -->
 
 ## Family
 

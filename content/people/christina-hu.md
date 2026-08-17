@@ -22,6 +22,17 @@ last_reviewed: 2026-08-17
 TACL (Taiwanese American Citizens League)
 National Board Director of Civic Engagement
 
+<!-- tah-tables:start -->
+## Education
+- University of Virginia — 1999-2003 — BA International Affair
+- Harvard University — 2006-2008 — MA Public Policy International Trade and Finance
+
+## Employment
+- SS&C Technologies — 2019-present — Associate director
+- SS&C GlobeOp — 2013-2018 — Manager
+- JPMorgan Chase — 2012-2013 — AVP
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

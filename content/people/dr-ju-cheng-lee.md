@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 4. President of North Taiwanese American Medical Association New York Chapter (北美洲台灣人醫師協會紐約分會) 1987
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1960 — M.D.
+
+## Employment
+- Jersey City Medical Center — Intern — (1962-) — Newark Hospital — Otolaryngology Resident — New Jersey Medical School — Surgical Lecturer — (1967-) — Community — Taiwan Center/NY (紐約台灣會館) — CEO — Ghee-Lan Association of USA (美國宜蘭同鄉會) — Founder and First President — North Taiwanese American Medical Association New York Chapter (北美洲台灣人醫師協會紐約分會) — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Son:** Alex Lee

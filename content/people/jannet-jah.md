@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Jennet Jah is the daughter of the noted composter, Professor Kenneth Lee. She graduated from Cal State University in Los Angeles, majoring in Business Administration, minoring in Music. She has studied voice under Professor Richard McComb and Professor Merle Moore and been widely acclaimed for versatility in the oratorio’s repertoire. She has appeared as soloist in performance of oratorios, e.g. Messiah, Creation, and Elijah. She was a choir director at the First Presbyterian Church in Burlingame, California. Currently, she is a mother of three, two sons and one daughter.
 
+<!-- tah-tables:start -->
+## Education
+- 加州州立大學洛杉磯分校 — B.A. 企業管理,音樂 — 2.
+
+## Employment
+- 舊金山柏霖甘第一基督長老教會詩班 — 指揮
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** 謝文仁

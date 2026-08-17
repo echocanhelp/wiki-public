@@ -21,6 +21,11 @@ last_reviewed: 2026-08-17
 
 Source fromhttp://www.twcia.org.tw/Files/ActivityFiles/%E6%AA%A2%E8%A8%8E%E7%8F%BE%E8%A1%8C%E5%81%A5%E5%BA%B7%E9%A2%A8%E9%9A%AA%E8%A9%95%E4%BC%B0%E8%A6%8F%E7%AF%84_%E5%BA%A7%E8%AB%87%E6%9C%83%E9%82%80%E8%AB%8B%E5%87%BD.pdf
 
+<!-- tah-tables:start -->
+## Employment
+- 美國聯邦政府環境保護署 — 資深科學家
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

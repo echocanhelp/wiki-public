@@ -19,7 +19,11 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Mei-Shi Chu (徐梅熙) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Employment
+- 經營電腦零售
+<!-- tah-tables:end -->
 
 ## Family
 

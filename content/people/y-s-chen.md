@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Y. S. Chen (陳雨辛) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 東吳大學 — B.S.會計 — 2. — M.S.電腦
+
+## Employment
+- AT&T — 電腦工程師
+- 華爾街公司 — 電腦工程師
+<!-- tah-tables:end -->
 
 ## Family
 

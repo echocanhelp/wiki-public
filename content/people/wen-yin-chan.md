@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Taiwanese pianist Wenyin Chan is “technically brilliant, musically spontaneous, creative and convincing,” says the legendary pianist Claude Frank. Ms. Chan has performed internationally throughout the United States and abroad, including such venues as Carnegie Hall, Steinway Hall, Minneapolis Orchestra Hall, and the Taiwan National Recital Hall. She has appeared with the Fort Collins Symphony Orchestra and the Winnipeg Symphony Orchestra.
 
+<!-- tah-tables:start -->
+## Education
+- Curtis Institute of Music — Bachelor of Music — Yale School of Music — Doctor of Musical Arts
+
+## Employment
+- Levine School of Music — Piano faculty
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

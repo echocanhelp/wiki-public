@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Internationally Renowned Microbiology Scholar, Specialized in Interferon and Infection Immunity
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1952 — M.D.
+- George Washington Univ. Medical School — 1966 — Ph.D., Microbiology
+
+## Employment
+- Naval Medical Research Institute — Researcher — (1963-1968) — George Washington Univ. Medical School — Professor — (1968-1984) — National Cheng Kung Univ. — Executive Secretary & President — (1982-1995) — Project HOPE — Consultant — (1996-1999) — National Health Research Institutes, Taiwan — Director — (1998-) — TMAC (臺灣醫評會) — Director of Committee member — (2000-2010)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** [[people/hwei-mei-amyhuang|謝惠美]]

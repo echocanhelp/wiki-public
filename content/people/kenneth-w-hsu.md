@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Kenneth W. Hsu (許根旺) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Taiwan Normal University — B.S. Electrical Engineering
+- University of Wisconsin — M.S. Electrical Engineering
+- Marquette University — M.S. Electrical Engineering
+- Marquette University — Ph. D. Electrical Engineering
+<!-- tah-tables:end -->
 
 ## Family
 

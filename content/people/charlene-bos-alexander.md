@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Charlene Bos Alexander 莫霞琳 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- B.A.
+
+## Employment
+- Taiwan Presbyterian Church Shoushan Zhonghui College Student Center (臺灣基督長老教會壽山中會大專學生中心) — (1984-1996) — Kao Yuan Univ. — Teacher — (1995-1996) — Chang Jung Christian Univ. — Teacher — (1996-2015)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Dave Alexander

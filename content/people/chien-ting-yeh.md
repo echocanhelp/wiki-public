@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, journalist, lawyer
 - **Source:** TAH Foundation Who’s Who
 
-Chien-Ting Yeh (葉介庭) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 哈佛大學 — B.A.化學系
+- 哈佛法學院 — M.S. 法律
+
+## Employment
+- 華爾街法律事務所
+- 創辦「Ketagalan Media」(凱達格蘭媒體)
+<!-- tah-tables:end -->
 
 ## Family
 

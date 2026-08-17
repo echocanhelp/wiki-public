@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 2. Jacob Lemann of Internal Medicine at University of Texas Southwestern Medical Center
 
+<!-- tah-tables:start -->
+## Education
+- Taipei Medical University — 1981 — M.S.
+- UCSF — 1989 — Ph.D. Physiology
+
+## Employment
+- Ruth W. and Milton P. Levy — present — Sr. Chair in Molecular Nephrology
+- Jacob Lemann of Internal Medicine at University of Texas Southwestern Medical Center — present — Professor
+- UT Southwestern — 1996- — assistant professor
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

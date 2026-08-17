@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Janet Allen (安美莉) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 維吉尼亞東方醫學院
+
+## Employment
+- 諾福克兒童醫院 — 小兒科醫師
+<!-- tah-tables:end -->
 
 ## Family
 

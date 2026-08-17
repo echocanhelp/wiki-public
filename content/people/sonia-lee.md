@@ -21,6 +21,20 @@ last_reviewed: 2026-08-17
 
 Gifted with perfect pitch and agility, Ms. Lee won numerous piano competitions since youth. She graduated from National Taiwan Normal University with a first place in Piano Performance and went on to teach piano and music theory ranging from elementary school through college in Tainan. Besides administration works in numerous international music camps, Sonia has been a pianist and choir accompanist for numerous places among southern California, including Orange County and Irvine Presbyterian Church, Evangelical Formosan Church, Irvine Chinese Chorus. Ms. Lee was also the President of Evangelical Formosan Church of Irvine Orchestra. In recent years, she took up new instruments in Concordia University with hand bell teacher Nancy Jessup, and pipe organ teacher Esther Johns.
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Normal University — B.A. Piano
+
+## Employment
+- 愛恩交響樂團 — present — 團長
+- 爾灣聖樂團 — 大鍵琴伴奏
+- 吾鳴合唱團 — 伴奏
+- 中文學校兒童合唱團 — 伴奏
+- 爾灣華聲合唱團 — 伴奏
+- 愛恩台福教會 — 崇拜司琴及詩班伴奏
+- 爾灣長老教會 — 崇拜司琴及詩班伴奏
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

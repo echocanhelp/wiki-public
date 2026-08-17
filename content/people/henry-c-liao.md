@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Henry C Liao (廖政森) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 成功大學 — 1964 — B.S土木
+- 密蘇里州理工大學 — M.S.環工
+
+## Employment
+- 美國聯邦政府環保暑在德州達拉斯的第六分署 — 1975- — 資深環保工程師及分署內水資部的環境評估總監
+<!-- tah-tables:end -->
 
 ## Family
 

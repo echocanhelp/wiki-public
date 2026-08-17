@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Recently praised for his “Beautiful Tone” by New York Concert Reviews in 2011, award winning cellist Nan-Cheng Chen 陳南呈 is passionate about sharing music with music lovers. At only age of 25, Nan-Cheng is the executive director and founder of the New Asia Chamber Music Society (NACMS), a member of Sonic Escape, Chen Trio, and many other active music ensembles in NYC. An active soloist, Nan-Cheng has collaborated with Simon Bolivar Orchestra, Queens Symphony Orchestra, Metro-West Symphony, Quincy Symphony and Symphony Pro Musica, which received a review states: “It was the kind of performance one might hear live only once a decade”, from Worcester Telegram and Gazette.
 
+<!-- tah-tables:start -->
+## Education
+- The Juillard School — B.S. Music
+
+## Employment
+- New Asia Chamber Music Society (NACMS) — Executive Director and Founder — Sonic Escape — Member — (2013-) — Chen Trio — Member — Community — New Asia Chamber Music Society (NACMS) — Founder and Executive Director
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

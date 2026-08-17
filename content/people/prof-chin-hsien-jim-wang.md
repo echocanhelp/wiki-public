@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Prof. Chin-Hsien (Jim) Wang 王進賢教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1961 — B.S., Chemical Eng.
+- Utah State Univ. — 1964 — M.S., Chemistry
+- Mass. Institute of Tech. — 1967 — Ph.D., Physical Chemistry
+
+## Employment
+- Bell Telephone Laboratories — Member of Technical Staff — (1967-) — Univ. of Utah — Professor — (1969-) — Univ. of Nebraska-Lincoln — Mabel D. Clark Distinguished Professor — (1989-2003) — Community — Taiwanese Association, Utah Chapter — President — Taiwanese American Conference-West Coast — Coordinator
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** [[people/lirong-wang|黃麗蓉]]

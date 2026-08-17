@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 5. Editor-in-Chief of SCAL Tribune, NATPA Tribune, and Taiwan Inquiry (南加學壇、北美學壇、Taiwan Inquiry(NATPA刊物)主編)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Normal Univ. — 1964 — B.S., Physics
+- Manchester Univ. — 1972 — Post-doctoral Research
+- Univ. of Massachusetts — 1970 — Ph.D., Physics
+
+## Employment
+- Syva Company — Senior Research Physicist — (1984-1987) — Baxter Healthcare — Department Manager — (1987-1991) — Technology Consultant — (1992-) — Community — TAA Northwest Chapter (西北區台灣同鄉會) — President — Seattle Taiwanese Foundation (西雅圖台灣基金會) — President — Taiwanese Alliance for Interculture, N. CA (灣區協志會) — President — S. CA Chapter of NATPA (北美洲台灣人教授協會南加分會) — President — SCAL Tribune, NATPA Tribune, and Taiwan Inquiry — Editor-in-Chief — First Taiwanese American Heritage Week / Los Angeles Celebration — Preparatory Chairman — Taiwanese American Foundation (台美基金會) — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** [[people/tah-p-2b6f08e693|郭如月]]

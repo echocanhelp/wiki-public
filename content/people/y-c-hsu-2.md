@@ -19,7 +19,12 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist
 - **Source:** TAH Foundation Who’s Who
 
-Y.C. Hsu (許英智) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1964 — B.S.地質
+- Memorial University of Newfoundland, Canada — M.S.地質
+<!-- tah-tables:end -->
 
 ## Family
 

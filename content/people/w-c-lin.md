@@ -19,7 +19,19 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, scientist
 - **Source:** TAH Foundation Who’s Who
 
-W.C. Lin (林文釗) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 清華大學 — 1968 — B.S.物理
+- 加州大學河邊分校 — 1972 — M.S. 物理
+- 柏克萊加州大學 — 1974 — Ph.D. 生物物理
+
+## Employment
+- 凱薩醫院(Kaiser Hospital)核子醫學部門 — 1974-1979
+- 創辦 Clinical BioResearch 公司 — 1976-1980
+- 成立EGW國際公司 — 1980-1981 — 房地產經紀
+- 成立EGW出版公司 — 1982 — 發行人
+<!-- tah-tables:end -->
 
 ## Family
 

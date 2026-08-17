@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Jean Cheng (鄭如珍) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Brown Univ. — B.A.
+- San Francisco State Univ. — M.F.A.
+
+## Employment
+- Sweet Potato Productions — Director, Producer — 2.
+<!-- tah-tables:end -->
 
 ## Family
 

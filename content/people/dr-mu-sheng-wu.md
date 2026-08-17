@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of Taiwanese Association of America (全美台灣同鄉會會長) 1974-1976
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1957 — B.S., Chemical Engineering
+- Univ. of Mississippi — 1964 — M.S., Chemical Engineering
+- Univ. of Texas — 1972 — Ph.D., Chemical Engineering
+
+## Employment
+- Chemical Company — Senior R&D Engineer and Manager — Engineering Consulting Company — Manager — Community — Taiwanese Association of America — President — Austin Taiwanese Association — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 洪文治

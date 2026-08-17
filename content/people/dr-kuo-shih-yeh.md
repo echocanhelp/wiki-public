@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Kuo Shih Yeh (葉國勢博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- University of Florida — 1965 — MS Electronic Engineering
+- Newark College of Engineering — PhD Electric Engineering
+
+## Employment
+- Brown & Root — 1971- 1989
+<!-- tah-tables:end -->
 
 ## Family
 

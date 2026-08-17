@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Dr. Min Hsiung Liang 梁敏雄博士 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- Tunghai Univ. — 1961 — B.S., Physics
+- Texas Univ. — M.S., Physics — Ph.D.
+
+## Employment
+- Fu Jen Univ. — Teaching Assistant — SOS Investment Company — President — Community — Taiwanese Association of America, Houston Chapter — President — WUFI-USA — Secretary-General — Taiwanese Heritage Society of Houston — Vice Chairman
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 昭美

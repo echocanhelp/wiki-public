@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 2. Full Professor of Neurology and Pharmacy Practice and Author for over 170 Journal Articles, Textbook Chapters, and Scientific Abstracts
 
+<!-- tah-tables:start -->
+## Education
+- UC San Diego — 1989 — B.A., Animal Physiology
+- Massachusetts College of Pharmacy and Health Sciences — 1993 — B.S., Pharmacy
+- Univ. of Utah — 1995 — Doctor of Pharmacy
+- Rush Univ. Medical Center — 1996 — Specialty Pharmacy Residency, Internal Medicine
+
+## Employment
+- Huntington Memorial Hospital — Clinical Pharmacist — (1996-2000) — Western University of Health Sciences — Assistant Professor — (2000-2005) — Loma Linda University — Assistant Professor — (2005-2015) — Marshall B. Ketchum University — Professor and Department Chair — (2015-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Gina

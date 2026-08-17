@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 2. The first pastor after the establishment of the Taiwanese Church in Seattle, 1969
 
+<!-- tah-tables:start -->
+## Education
+- Preparatory College — 1935 — B.S.
+- Divinity School of the Univ. of Chicago — 1940 — M.A. — 1941 — B.D.
+
+## Employment
+- Chicago Church of Christ (Japanese) — Pastor — (1942-1944) — Formosa — UNRRA Reports Officer — (1946-1947) — Seattle Japanese Congregational Church — Pastor — (1948-1978)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Ryo Morikawa

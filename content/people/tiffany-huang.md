@@ -68,6 +68,15 @@ Before "Moment," Tiffany had previously created work for church/missionary group
 - [TAH #1761 encyclopedia: 1761. Tiffany Frances Huang 黃咏婷](https://taiwaneseamericanhistory.org/whos-who-1761-tiffany-frances-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tiffany-frances-huang/)
 
+<!-- tah-tables:start -->
+## Education
+- Univ. of California San Diego — B.S., Media
+- ArtCenter College of Design — M.S., Director
+
+## Employment
+- Freelance — Director/Editor — (2009-) — Flaure TV — Co-owner — (2010-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Father:** 黃介峰

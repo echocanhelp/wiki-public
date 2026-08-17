@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Jack W. Su (蘇文杰) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Feng Chia Univ. — 1971 — B.S., Mechanical Eng.
+
+## Employment
+- E.M.S. Trading Co. — 1985 — Secretary
+<!-- tah-tables:end -->
 
 ## Family
 

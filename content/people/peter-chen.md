@@ -19,7 +19,20 @@ last_reviewed: 2026-08-17
 - **Core roles:** lawyer
 - **Source:** TAH Foundation Who’s Who
 
-Peter Chen (陳正義) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- UCLA — 1998 — B.A. 國濟經濟及政治系
+- 美國密西根大學羅斯工商企管學院 — M.S. 企管
+- 喬治華盛頓大學 — 2002 — Ph.D.法學
+
+## Employment
+- 美國聯邦政府 — 律師
+- 美國加州及華府 — 律師
+- 美國FAPA總部 — 法律顧問
+- 企業公司 — 總律師
+- 非營利機構 — 法律顧問
+<!-- tah-tables:end -->
 
 ## Family
 

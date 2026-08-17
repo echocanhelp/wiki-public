@@ -21,6 +21,19 @@ last_reviewed: 2026-08-17
 
 1. Subject and year: Advanced Mechanics of Structural, Fluid, Heat Transfer & Dynamics; 1957-1964
 
+<!-- tah-tables:start -->
+## Education
+- 台北工專 — 1952 — 土木科
+- Univ. of Michigan — 1959 — B.S., 結構力學
+- Illinois Institute of Technology — 1964 — M.S., 結構力學
+
+## Employment
+- Procon — 1960 — Engineer
+- A.G. Mckee — 1964 — Engineer
+- Sargent & Laundy — 1968 — Engineer-Scientist/Consultant
+- The Illinois Department of Nuclear Safety — 1999 — Nuclear Safety Specialist/Reactor-Risk Assessments
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Carol 林秋菊

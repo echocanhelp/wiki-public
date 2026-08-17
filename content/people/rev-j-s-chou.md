@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. The First Taiwanese to pursue a degree in theology in the United States (首位台灣人在美國攻讀神學學位者)
 
+<!-- tah-tables:start -->
+## Education
+- Doshisha Univ. (同志社大學) — 1910-1915 — B.S.
+- Oberlin Univ. — 1915- — B.D., Theology
+- Chicago Univ. — M.S., Theology
+
+## Employment
+- Doshisha Univ. (同志社大學) — Assistant Professor of Theology — (1921-) — United Church of Christ in Japan (日本組合教會) — Pastor — (1923-) — KYOAI GAKUEN (共愛女學校) — Principal — (1925-1965)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 勝見千代

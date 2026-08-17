@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 For more information, please click link :My Stories >>>464. 爲何我在FAPA ? / Coen Blaauw (昆布勞） /09/2016
 
+<!-- tah-tables:start -->
+## Education
+- 荷蘭阿姆斯特丹大學 — 1988 — Ph.D.國際法
+
+## Employment
+- FAPA總會 — 2000-Present — 執行長
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** [[people/iris-ho|何燕青]]

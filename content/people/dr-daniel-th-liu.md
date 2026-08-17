@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 2. One of the organization members, the Silicon Valley Taiwanese Association (SVTA, 矽谷台灣同鄉會) in 2010.
 
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1963 — B.S. 農化 — Virginia Tech. — 1969 — Ph.D. 生物化學 — Purdue University — 1971 — Post Doctor
+
+## Employment
+- Pfizer(Parke-Davis) — 1975-87 — Director Technical Service — Oh lone College — 1988-95 — Adjunct Professor
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 楊幼雲

@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-W. D. Lee 李 (李武達) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- University of Michigan — Ph.D.
+
+## Employment
+- 食品顧問公司 — president
+<!-- tah-tables:end -->
 
 ## Family
 

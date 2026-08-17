@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Nat Bellocchi (白樂崎) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Georgetown Univ. — 1954 — B.A.
+
+## Employment
+- 美國國務院 — 1955-1995 — 外交大使
+- 美國在台協會AIT — 1990-1995 — 理事主席
+<!-- tah-tables:end -->
 
 ## Family
 

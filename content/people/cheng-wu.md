@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Cheng Wu (吳錦城) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 交通大學 — 1972 — B.S. 電機 — Indiana University — M.S.工程
+
+## Employment
+- AR－RIS網絡公司 — 1995 — founder — Arrow Point — 1997 — founder & president — Cisco Systems — 內容交換技術事業部副總裁兼總經理 — Acopia Networks — 2002 — founder — Acetti Software — founder
+<!-- tah-tables:end -->
 
 ## Family
 

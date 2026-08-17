@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor
 - **Source:** TAH Foundation Who’s Who
 
-Mien-Chie Hung (洪明奇博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1973 — B.S., Chemistry
+- National Taiwan Univ. — 1977 — M.S., Biochemistry
+- Brandeis Univ. — 1984 — Ph.D., Molecular biology
+
+## Employment
+- Massachusetts Institute of Technology — 1984 — Post-doctoral researcher
+- Univ. of Texas MD Anderson Cancer Center — 1986 — Professor
+<!-- tah-tables:end -->
 
 ## Family
 

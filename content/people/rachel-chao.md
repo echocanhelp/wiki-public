@@ -21,6 +21,18 @@ last_reviewed: 2026-08-17
 
 A native of Taiwan, Yi-Chiu Rachel Chao has performed in solo and collaborative recitals in Taiwan and the United States. She has won prizes from numerous competitions including the Taiwan National Piano Competition, MTNA Competition, Phoenix Symphony Guild Young Musicians Competition, Northwestern University Thaviu-Isaak Endowed Piano Scholarship Competition, the Houston Ruth Burr Piano Competition, and the Sorel Medallion Piano Collaboration Competition in New York City. She was also a first prize winner of the Bradshaw & Buono International Piano Competition, leading to her 2010 solo appearance in Weill Recital Hall at Carnegie Hall.
 
+<!-- tah-tables:start -->
+## Education
+- Arizona State University — B.S. Music
+- Northwestern University — M.S. Piano performance
+- Northwestern University — Ph.D. Piano performance
+
+## Employment
+- Rice University — Present — Staff Pianist
+- New Heart Music Ministries in Houston — Present — Piano faculty
+- Houston Grand Opera Studio’s Young Artists Vocal Academy — Pianist/accompanist
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

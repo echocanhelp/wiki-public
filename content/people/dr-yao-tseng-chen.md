@@ -23,6 +23,15 @@ last_reviewed: 2026-08-17
 1999-2004
 Associate Professor of Pathology, Pathology and Laboratory Medicine
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. College of Medicine — 1981 — M.D.
+- Cornell Univ. Medical College — Ph.D., Immunology
+
+## Employment
+- Weill Cornell Medical College — Associate Professor of Pathology, Pathology and Laboratory Medicine — (1999-2004) — Weill Cornell Medical College — Professor of Pathology and Laboratory Medicine, Pathology and Laboratory Medicine — (2004-) — NewYork-Presbyterian Weill Cornell Medical Center — Pathologist
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

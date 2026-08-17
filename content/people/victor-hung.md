@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of American Six Kuen Brotherhood Association (美國六桂宗親會會長)
 
+<!-- tah-tables:start -->
+## Education
+- Univ. of Illinois
+
+## Employment
+- 3D Design Mechanical Engineer — Community — American Six Kuen Brotherhood Association (美國六桂宗親會) — President
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

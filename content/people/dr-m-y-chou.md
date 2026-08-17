@@ -23,6 +23,15 @@ Georgia Institute of Technology
 Professor and Head of Department, Department of Physics
 (1989-2011)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1980 — B.S., Physics
+- Univ. of California, Berkeley — 1983 — M.S., Physics — 1986 — Ph.D., Physics
+
+## Employment
+- Georgia Institute of Technology — Professor and Head of Department, Department of Physics — (1989-2011) — Academia Sinica (中央研究院) — Director, Institute of Atomic and Molecular Sciences — (2011-) — Academia Sinica (中央研究院) — Associate Dean — (2016-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Daughter:** 1

@@ -23,6 +23,14 @@ UMDNJ Robert Wood Johnson Medical School
 Research/Teaching Specialist
 (1995-2003)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan University — 1979 — B.S., — Rutgers University — 1991 — Ph.D.,
+
+## Employment
+- Rutgers University — 2012-Present — Research Faculty — 中興大學 — 2011-2012 — 客座教授 — 東吳大學 — 2010-2011 — 客座教授 — USDA National Biotechnology Laboratory, Maryland — 2010 — Senior Investigator — UMDNJ Robert Wood Johnson Medical School — 1995-2003 — Research/Teaching Specialist — Memorial Sloan-Kettering Cancer Center — 1994 — Senior Scientist
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Yu-Tieh Lin

@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. The First Taiwanese American to Be A Comptroller of New York City (紐約市主計長) 2010-2013
 
+<!-- tah-tables:start -->
+## Education
+- Binghamton Univ. — 1988 — B.S., Science in Mathematical Physics
+
+## Employment
+- New York City — Council Member — (2002-2009) — New York City — Comptroller — (2010-2013) — Community — Taiwanese American Citizens League (TACL), New York Chapter — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Jenny Liu

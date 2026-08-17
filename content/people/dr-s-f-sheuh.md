@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. The first elected Taiwanese mayor in the East of the United States
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1967 — B.S., Chemical Engineering
+- Rutgers, The State Univ. of New Jersey — 1969-1974 — Ph.D., Chemical and Environmental Science Engineering
+
+## Employment
+- Rutgers, The State Univ. of New Jersey — Adjunct Professor — (1978-2003) — U.S. Environmental Protection Agency, New Jersey — Responsible for statewide water resources and drinking water management — (1998-2002) — West Windsor City Council, New Jersey, USA — City Council Member — (1993-2001) — West Windsor City Council, New Jersey, USA — Mayor — (2001-2013)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

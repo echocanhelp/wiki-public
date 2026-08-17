@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Taiwanese pianist Li-Ying Chang graduated with a Master of Music in Piano Performance from Peabody Conservatory, under the tutelage of Benjamin Pasternack. As a musician, she believes in and seeks to share the transcendentally expressive power of music. Chang is currently active as a solo pianist, chamber musician, teacher, and accompanist in the Chicago area.
 
+<!-- tah-tables:start -->
+## Education
+- Peabody Conservatory — B.S. Piano
+
+## Employment
+- Chicago — present — Teaching Piano
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

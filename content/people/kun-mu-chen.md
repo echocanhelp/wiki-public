@@ -23,6 +23,16 @@ last_reviewed: 2026-08-17
 1968-1972
 Director of Electrical Engineering Research Department
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1955 — BS, Electronic Engineering
+- Harvard Univ. — 1958 — MS, Applied Physics and Electronic Engineering
+- Harvard Univ. — 1960 — Ph.D., Applied Physics and Electronic Engineering
+
+## Employment
+- Michigan State Univ. — Associate Professor of Electrical Engineering — (1964-) — Michigan State Univ. — Professor of Electrical Engineering — (1967-) — Michigan State Univ. — Director of Electrical Engineering Research Department — (1968-1972) — Community — Taiwanese American Foundation of San Diego — President — Taiwanese Association of Greater Lansing Michigan — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Daughter:** Maggie, Kathy

@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 3. President of Taiwanese Association of America Raleigh, NC Chapter(北卡台灣同鄉會會長)1979
 
+<!-- tah-tables:start -->
+## Education
+- National Cheng Kung Univ. — B.S., Foreign Languages
+- The Univ. of North Carolina at Chapel Hill (UNC) — M.S., Social Work
+
+## Employment
+- North Carolina State Intellectual Disability Center and Mental Hospital — Senior Social Worker — Ken Lee Company — Chairman — (1978-) — Community — Taiwanese Club Laguna Woods Village — President (2017) — Taiwanese American Pen Club (LA) — President (2007) — Taiwanese Association of America Raleigh, NC Chapter — President (1979)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 張由吏

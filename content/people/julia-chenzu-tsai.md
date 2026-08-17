@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** lawyer
 - **Source:** TAH Foundation Who’s Who
 
-Julia Chenzu Tsai (蔡茜如) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- WellesleyCollege — 2004 — B.S. Political Science
+- University of the Pacific, McGeorge School — 2007 — M.S. Law — year
+
+## Employment
+- Kegel, Tobin & Truce — 2009 — attorney
+- Sacramento County District Attorney’s Office Criminal division — law clerk
+- Los Angeles County District Attorney’s Office — law clerk
+<!-- tah-tables:end -->
 
 ## Family
 

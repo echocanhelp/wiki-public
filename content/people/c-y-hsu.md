@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 許贊育先生，字化功，一九一〇年生於台灣鹽水，世居澎湖爲書香門弟。父親許水連是詩人，祖父許其仁、叔祖父許凌雲均爲漢學名士(許凌雲爲前淸貢生)，家學淵源，使許贊育幼年就奠立了深厚之漢學基礎，而叔祖父更是他攻習書法之啓蒙導師。
 
+<!-- tah-tables:start -->
+## Education
+- Tainan Theological College & Seminary (台南神學院)
+
+## Employment
+- Wufeng Laiyuan Middle School — Teacher — 長老教會 — 教師 — 霧峯萊園中學 — 教師
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 許孫榮

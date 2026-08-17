@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Yensan Simon Wang (王燕山) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 東海大學 — B.S.建築
+- Syracuse大學 — M.S.建築
+
+## Employment
+- Architect
+<!-- tah-tables:end -->
 
 ## Family
 

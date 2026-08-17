@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Keith Wang (王振濃博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1993 — M.A., News
+- UC Davis — 2013 — M.S., Computer science — 2015 — Ph.D., Computer science
+
+## Employment
+- Skylark Travel Service — Tour Manager — (2007-2008) — Delta Electronic — Program Manager — (2008-2010) — Pointimize — Co-founder & CEO — (2015-)
+<!-- tah-tables:end -->
 
 ## Family
 

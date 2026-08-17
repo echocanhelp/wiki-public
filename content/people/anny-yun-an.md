@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Taiwanese pianist Anny Yun-An Chen 陳韻安 is an active soloist and chamber musician. Ms. Chen has won numerous notional competitions, including the Hsing Tien Kong National Music Competition, and the Taiwan National Music competition.
 
+<!-- tah-tables:start -->
+## Education
+- 國立台北藝術大學 — 2011 — B.A.
+- 國立台北藝術大學 — 2013 — M.S.
+
+## Employment
+- 琵琶第音樂院 — 伴奏助教
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

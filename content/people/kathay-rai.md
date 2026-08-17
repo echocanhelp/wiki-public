@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Kathay Rai is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- UC Berkeley — M.S. Structural engineering
+
+## Employment
+- San Francisco International Airport
+- Apple Infinite Loop Campus
+- Standford Children Hospitals
+<!-- tah-tables:end -->
 
 ## Family
 

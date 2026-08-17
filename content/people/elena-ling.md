@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Vice President of International Federation of Business and Professional Women, Taiwan 1986
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1965 — B.S., Horticulture
+- Kansas State University — 1967 — M.S., Food Science
+
+## Employment
+- Insurance Agent — CLU, ChFC, CSA — (1984-) — Community — TAA/New Jersey Chapter — President — FAPA — Member — International Federation of Business and Professional Women, Taiwan — Vice President — NATWA — Founding Member and President — Shengdong Life Forum — Founding Member — NATWA — Honorary President — Dr. Chen Wen-chen Memorial Foundation — Director
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** 林富文

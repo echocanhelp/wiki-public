@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Jenny Y Yang (楊又芳) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- MIT — Ph.D.
+
+## Employment
+- UCI — 助理教授
+<!-- tah-tables:end -->
 
 ## Family
 

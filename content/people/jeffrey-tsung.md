@@ -19,7 +19,21 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Jeffrey Tsung (鄭瑞雄醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 高雄醫學院 — 1964 — M.D.
+- Univ. of Minnesota — 1972 — M.D.
+
+## Employment
+- 威斯康辛州立醫學院 — 1972- — 1976 — Assistant Professor
+- 印弟安那州蓋瑞城Methodist Hospital — 1978 — 病理主治醫師
+- Rush Medical School — 1978 — Clinical Associate Professor
+- 內華達醫學院附屬醫院 — 1987 — 病理專科醫師
+- 內華達大學醫學院 — 1987 — Clinical Professor
+- 和信醫院 — 1999 — 病理主治醫師，臨床病理科主任
+- 羅東聖母醫院 — 2010 — 病理科主任
+<!-- tah-tables:end -->
 
 ## Family
 

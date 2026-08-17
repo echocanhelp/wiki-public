@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Rung-fang Chen (陳榮芳) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- City Univ. of New York — 1982 — B.A. 工商管理
+
+## Employment
+- 酒莊 — 1985 — Owner
+<!-- tah-tables:end -->
 
 ## Family
 

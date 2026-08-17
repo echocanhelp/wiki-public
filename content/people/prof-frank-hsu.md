@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Co-chair for the International Conference on Cyber Security, 2009
 
+<!-- tah-tables:start -->
+## Education
+- National Cheng Kung Univ. (成功大學) — B.S.
+- Univ. of Texas — M.S.
+- Univ. of Michigan — 1979 — Ph.D.
+
+## Employment
+- Fordham University — Professor — Fordham University — Chair, Department of Computer and Information Science — Fordham University — Dean, the Graduate School of Arts and Sciences
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

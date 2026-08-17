@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Charles Ting (丁昭昇) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Utah State University — M.S. 電機
+
+## Employment
+- 實業家
+<!-- tah-tables:end -->
 
 ## Family
 

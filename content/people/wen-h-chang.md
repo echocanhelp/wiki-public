@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Wen. H. Chang (張文旭) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 中原大學 — B.S.
+- Illinois University — M.S.土木工程
+
+## Employment
+- 紐約市港務局 — 估價工程師
+<!-- tah-tables:end -->
 
 ## Family
 

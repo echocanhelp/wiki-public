@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Chun Hsiang Lu (盧俊雄醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1965 — M.D.
+
+## Employment
+- Villa Medical Arts — Pediatrician
+<!-- tah-tables:end -->
 
 ## Family
 

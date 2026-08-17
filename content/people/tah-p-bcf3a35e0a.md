@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-%E5%8A%89%E6%96%87%E7%Ab%A0 (劉文章) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台北大同工學院 — B.S. 機械系
+- Clarkson University — M.S.
+
+## Employment
+- Torrington Co. — Bearing engineer
+<!-- tah-tables:end -->
 
 ## Family
 

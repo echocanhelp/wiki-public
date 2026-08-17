@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 For more information :Projects >>14. Pride of T. A. >>5. National Medal of Technology and Innovation 國家科技創新獎章 / Nancy Ho 何汪瑗 /05/2016
 
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1957 — B.S. 化學工程
+- Temple University — 1960 — M.S. 有機化學
+- 普渡大學 — 1968 — Ph.D. 分子生物學
+
+## Employment
+- 綠色技術美國公司 — Present — 總裁
+- 普渡大學 — 1971- — 教授
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

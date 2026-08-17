@@ -19,7 +19,19 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Chen-Jung Hsu (許振榮) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 日本東北帝國大學 — 1941
+- 日本東北大學 — 1961 — 博士學位
+
+## Employment
+- 九州大學 — 1942 — Professor
+- 台灣大學 — 1946 — Professor, 數學系系主任
+- 中央研究院數學研究所 — 1963-65 — 代所長
+- Kansas State Univ. — 1965-83 — Professor
+- 中央研究院 — 1981-88 — 研究員
+<!-- tah-tables:end -->
 
 ## Family
 

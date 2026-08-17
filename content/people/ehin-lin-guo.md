@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor
 - **Source:** TAH Foundation Who’s Who
 
-Ehin-Lin Guo (郭青齡博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S.
+- UCSD — 1994 — M.S.
+- UCSD — 1996 — Ph.D.
+
+## Employment
+- Cal Tech — 2006-2014 — Assistant professor
+- 中央研究院物理研究所 — present — 副研究員
+<!-- tah-tables:end -->
 
 ## Family
 

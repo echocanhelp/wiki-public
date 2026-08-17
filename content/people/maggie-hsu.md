@@ -23,6 +23,18 @@ Downtown Project
 Chief of Staff and Vice President, Business Development
 (2013-2015)
 
+<!-- tah-tables:start -->
+## Education
+- Harvard Univ. — 2008 — B.A., Biology
+- Harvard Business School — 2012 — MBA
+
+## Employment
+- Downtown Project — 2013-15 — Chief of Staff and Vice President, Business Development
+- Mochi Magazine — 2008 – Present — Co-founder
+- Global Shapers Community — 2015 – Present — Founding Shaper, Las Vegas Hub
+- Zappos Family of Companies — 2015 – Present — Advisor
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

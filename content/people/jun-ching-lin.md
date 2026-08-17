@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 The Atlanta Symphony’s Assistant Concertmaster since 1988, Jun-Ching Lin was concertmaster of the Augusta Symphony Orchestra for a year before coming to Atlanta. He has performed violin concertos and solos by Barber, Beethoven, Vivaldi, and Tchaikovsky with the ASO. An affiliate artist faculty member at Emory University in violin and chamber music, he coaches the first violins of the Atlanta Symphony Youth Orchestra and spends part of each summer teaching at Encore School for Strings and Franklin Pond Chamber Music. Very active as a chamber musician, he has participated in festivals in Highlands-Cashiers, North Carolina, and in California at La Jolla, Palm Beach, and San Diego.
 
+<!-- tah-tables:start -->
+## Education
+- Curtis Institute of Music — B.S. Music
+- Cleveland Institute of Music — M.S. Music
+
+## Employment
+- Atlanta Symphony’s — 1988- — Assistant Concertmaster
+- Atlanta Symphony Youth — Violin coach
+- Encore School for Strings and Franklin Pond Chamber Music — Teaching
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Helen

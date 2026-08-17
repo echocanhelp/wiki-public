@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 2. Consumers' Research Council of America Guide to America's Top Ophthalmologists: 9 years in a row
 
+<!-- tah-tables:start -->
+## Education
+- Harvard Univ. — B.S., Biology
+- Columbia Univ. — M.S., Public health — M.D.–Ph.D.
+
+## Employment
+- Columbia University Medical Center — Assistant Clinical Professor — Greater New York Ophthalmology Eye Care — Ophthalmologist
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** 蒲仲強

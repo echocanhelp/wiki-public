@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 3. President of North American Taiwanese Medical Association/Greater Philadelphia Chapter
 
+<!-- tah-tables:start -->
+## Education
+- Chung Shan Medical Univ. (中山醫學大學) — B.S., Dentistry
+
+## Employment
+- Dentist — Community — FAPA — President — Taiwanese Association of America, Greater Philadelphia Chapter — President — North American Taiwanese Medical Association, Greater Philadelphia Chapter — President — Florida Emergency Assistance Association (FEAA) (中佛州地區僑界關懷救助協會) — Secretary General
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 吳雪仔

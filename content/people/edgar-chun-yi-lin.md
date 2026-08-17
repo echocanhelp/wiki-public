@@ -22,6 +22,17 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Minister of Environmental Protection Administration, Taiwan 2000-2001
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1964 — B.A., Foreign Language
+- Goshen College — 1967 — B.A., Biology
+- Indiana Univ. — M.S.
+- Indiana Univ. — Ph.D., Biology
+
+## Employment
+- Tunghai Univ. — Associate Professor of Biology — (1975-1978) — Tunghai Univ. — Professor of Biology — (1978-2000) — National Assembly of R.O.C. — Representative — (1992-1995) — Government Environmental Protection of Taipei City — Director — (1995-1998) — Environmental Protection Administration, Executive Yuan — Director — (2000-2001) — The Republic of China to the Republic of Gambia — Ambassador Extraordinary and Plenipotentiary — (2001-2004) — The Republic of China in the UK — Special Representative Plenipotentiary — (2004-2007) — North American Coordinating Committee — Chairman — (2007-2008)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Kathleen Yoder

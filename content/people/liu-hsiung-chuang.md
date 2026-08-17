@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 2. President and Chairman of the Institute for International Development Studies since 1992
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan University — 1961 — B.S. Economics
+- National Taiwan University — 1965 — M.A. Economics
+- Brigham Young University — 1968 — M.S. Economics
+- Stanford University — 1975 — Ph.D. Agricultural Economics
+
+## Employment
+- US Department of Agriculture — - present — Senior Program Analyst
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

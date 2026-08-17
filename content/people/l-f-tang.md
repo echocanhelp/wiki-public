@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
-L. F. Tang (唐麗芳) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 威斯康辛馬德遜大學 — M.S.護理
+
+## Employment
+- 美國威斯康辛、愛荷華州 — 1989- — 專業護理師
+- 雲林社區大學 — 2003- — 講師
+<!-- tah-tables:end -->
 
 ## Family
 

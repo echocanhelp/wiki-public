@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of Taiwanese American Foundation of San Diego (聖地牙哥台美基金會董事長) 1999
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.S., Chemistry
+- Purdue Univ. — M.S., Biochemistry
+- Purdue Univ. — 1973 — Ph.D.,Biochemistry
+
+## Employment
+- Pacific Biotech — Chairman — (1982-) — Wyntek Corporation — Chairman — (2005-) — Community — Taiwanese American Foundation of San Diego (聖地牙哥台美基金會) — President — Formosan Association For Human Rights (台灣人權協會) — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 陳淑雲

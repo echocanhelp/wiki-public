@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Founder of Educational Fund For the Needy in Taiwan (互助教育基金會) MN 1973
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.S., Sociology
+- Univ. of Minnesota, — Institute of Sociology — M.S., Political society
+
+## Employment
+- GOODE REALTY CO. — Principal — (1987-) — Community
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** [[people/s-c-yang|楊淑卿]]

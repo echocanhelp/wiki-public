@@ -20,7 +20,7 @@ last_reviewed: 2026-08-17
 
 - **English:** Chen Zhefu & Xu Chunhui
 - **Chinese:** 陳哲夫、許春惠
-- **Core roles:** Hotel entrepreneur, community leader
+- **Core roles:** engineer, entrepreneur
 - **Relationship:** Married couple
 - **Geography:** Taiwanese American community (Los Angeles / Downey, California)
 - **Lifespan:** Chen Zhefu (1937–1995); Xu Chunhui (1941–2021)
@@ -76,6 +76,18 @@ Beyond business, the couple was deeply committed to community service and giving
 - **Educational philanthropy:** Established scholarships at the University of Texas at Austin's architecture department, Tainan First High School, and the Southern California Tainan Alumni Association
 
 The couple's commitment to education was deeply personal — both had benefited from educational opportunities, and they sought to extend those opportunities to future generations.
+
+<!-- tah-tables:start -->
+## Education
+- 國立成功大學 — 1961 — B.S., 建築系
+- Univ. of Texas, Austin — 1966 — M.S., Architectural Eng.
+
+## Employment
+- Boeing — 1967 — Engineer
+- Lockheed Air Craft — 1968 — Engineer
+- A.C. MARTIN — 1968 — Architect
+- 經營房地產:住宅、旅館 — 1969-95 — Owner
+<!-- tah-tables:end -->
 
 ## Family
 

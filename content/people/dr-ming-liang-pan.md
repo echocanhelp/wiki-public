@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Ming Liang Pan (潘銘梁博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Chung Hsing Univ. (中興大學) — B.S., Chemistry
+- Univ. of Hamburg — Ph.D.
+
+## Employment
+- University of California, Irvine — Assistant Project Scientist
+<!-- tah-tables:end -->
 
 ## Family
 

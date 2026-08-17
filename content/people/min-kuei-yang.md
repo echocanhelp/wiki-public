@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 A native Taiwanese, pianist Min-Kuei Yang has appeared as a recitalist and collaborative pianist in Taiwan, the United States, and Europe at venues such as Presidential Hall, National Concert Hall, National Recital Hall, Concert Hall of NTNU, Chi-Shan Hall in Kaoshiung Cultural Center, Kilburn Hall of Eastman School of Music, Friedberg Concert Hall of Peabody Conservatory of Music, Paul Hall of Julliard School, the Aspen Institute, Benaroya Symphony Hall in Seattle, and Geneva Conservatory in Switzerland, etc.
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Normal University — B.S.
+- Eastman School of Music — M.S.
+- Peabody Conservatory — Ph.D.
+
+## Employment
+- 台南應用科技大學
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

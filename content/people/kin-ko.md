@@ -23,6 +23,16 @@ New York University (NYU)
 M.S., Aerospace Engineering; Ph.D. Course Program
 (1972)
 
+<!-- tah-tables:start -->
+## Education
+- National Cheng Kung Univ. (成功大學) — 1957-1961 — B.S., Mechanical Engineering
+- Univ. of Missouri — 1964-1965 — M.S., Mechanical Engineering
+- New York Univ. (NYU) — 1970-1972 — M.S., Aerospace Engineering Completed；Ph.D., Course Program
+
+## Employment
+- Ebasco Engineering & Construction — Supervising Engineer — (1972-1995) — Linde Gas Company — Sr. Engineering Consultant — (2001-2019) — Messer Gas Company — Sr. Engineering Consultant — (2019-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Emile

@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of Taiwan Hakka Association for Public Affairs in North America (HAPA-NA) (北美客家公共事務協會會長)2009-2012
 
+<!-- tah-tables:start -->
+## Education
+- Taipei Medical Univ. — M.D.
+
+## Employment
+- Urology, Bucks County Branch, Temple University of Pennsylvania — Director of Surgery and Deputy Director of Surgery Department — Hahnemann Medical College Hospital — Attending Physician and Assistant Professor — Bucks County Urology Clinic — Physician — Community — Taiwan Hakka Association for Public Affairs in North America (HAPA-NA) (北美客家公共事務協會) — President (2009-2012) — Taiwanese Hakka Association of Greater Philadelphia (大費城台灣客家同鄉會) — President — Formosan Association for Public Affairs (FAPA), Pennsylvania Chapter (台灣人公共事務會賓夕法尼亞州分會) — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Lynn Chen

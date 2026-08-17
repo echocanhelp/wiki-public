@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Paul Lin (林水波教授) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 美國匹茲堡大學 — M.S.
+- 美國匹茲堡大學 — Ph.D.法學
+
+## Employment
+- -國立台灣大學 — 政治系教授
+<!-- tah-tables:end -->
 
 ## Family
 

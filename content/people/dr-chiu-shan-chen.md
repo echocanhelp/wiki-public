@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. The First Chairman of Taiwanese American Foundation of San Diego (聖地牙哥台美基金會第一任董事長) 1997-1998
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Normal Univ. (國立台灣師範大學) — 1960 — B.S., Physics
+- Univ. of Nevada — 1964 — M.S., Physics
+- Univ. of Calif San Diego — 1969 — Ph.D., Physics
+
+## Employment
+- Importer — Self-Employed — Community — Taiwanese American Foundation of San Diego (聖地牙哥台美基金會) — First Chairman
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Optical Imaging and Vital Microscopy Core, Baylor College of Medicine
 Imaging Specialist
 
+<!-- tah-tables:start -->
+## Education
+- 1 McCombs School of Business at UT Austin — 2006 — M.S. Technology Commercialization
+- Baylor College of Medicine — 2014 — Ph.D. Biomedical Science
+
+## Employment
+- Optical Imaging and Vital Microscopy Core,Baylor College of Medicine — present — Imaging Specialist
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

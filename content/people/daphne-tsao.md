@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 A native of Taiwan, Daphne Tsao began her musical training on piano at age of 3, and on Violin at age of 7. When she was 9, she performed her television debut as defending champion as violinist on “五燈獎 Star Search” in Taiwan. Since then, she has toured with orchestras throughout Japan, Singapore, Australia, the USA and Europe.
 
+<!-- tah-tables:start -->
+## Education
+- Manhattan School of Music. — 1998-2002 — BM., Violin Performance
+- New York Univ. — 2002-2004 — MM., Violin Performance
+
+## Employment
+- Madison Symphony Orchestra — Violinist — (2004-2004) — Fox Valley Symphony Orchestra — Violinist — (2004-2004) — Dubuque Symphony Orchestra — Violinist — (2005-2005) — Rockford Symphony Orchestra — Violinist — (2005-2005) — Dana Point Symphony — Violinist — Kaleidoscope Chamber Orchestra — Violinist — Manhattan Chamber Orchestra — Violinist — Uruek Symphony Orchestra — Violinist — Green Bay Symphony Orchestra — Violinist — Oshkosh Symphony Orchestra — Violinist — Water City Chamber Orchestra — Violinist
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** David Ginsberg

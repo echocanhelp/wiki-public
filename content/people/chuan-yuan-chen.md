@@ -21,6 +21,19 @@ last_reviewed: 2026-08-17
 
 1. Department Head of the Geotechnical Department for Michel Baker Corporation of Pittsburgh, Pennsylvania
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan University — B.E.
+- West Virginia University — M.S.
+- University of Pittsburgh — Ph.D. Civil/Geotechnical Engineering
+
+## Employment
+- Department Head of the Geotechnical Department for Michel Baker Corporation of Pittsburgh, Pennsylvania — 1967-1979 — Professional Engineer
+- Geneva College, Pennsylvania — 1967-1979 — Adjunct professor
+- US Department of Interior — 1979-1989 — Engineer
+- Overseas Buildings Operations of the US Department of State — 1989-2015 — 4
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 A native of Taiwan, Leslie Ho enjoys a diverse musical career in performing, teaching, and conducting. He has studied with many world-renowned artists such as Peter Marsh, Sidney Harth, Margaret Pardee, Yoko Takebe, Lucy Roberts, Yao-Ji Lin, Tokyo String Quartet and Ruggiero Ricci. Mr. Ho holds a bachelor degree in violin performance from the Manhattan School of Music and a master degree in violin performance from Yale University where he was a full-scholarship student.
 
+<!-- tah-tables:start -->
+## Education
+- Manhattan School of Music — B.A. violin
+- Yale University — M.S. violin
+
+## Employment
+- Whittier College — present — Teach violin, viola
+- Christian Zion Church Youth — present — Conductor
+- Rio Hondo Symphony — Concertmaster
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

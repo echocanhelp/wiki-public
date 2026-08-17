@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-%E9%A0%88%E8%97%A4%E6%Ad%A3%E5%Ad%90 (須藤正子) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 東京教育大學 — 1979 — Ph.D.應用物理
+
+## Employment
+- San Diego State University — 1989 — Professor
+<!-- tah-tables:end -->
 
 ## Family
 

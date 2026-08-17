@@ -21,6 +21,20 @@ last_reviewed: 2026-08-17
 
 Samuel Lin is a graduate of the National Taiwan Academy of Arts, majoring in vocal. He received his Master of Music Arts degree in Conducting conferred by Roger Wagner Center of Choral Studies at California State University in Los Angeles. In addition to studying choral conducting with Dr. William Belan and the esteemed Dr. Roger Wagner, he also studied under Dr. Robert Fowells, Dr. Donald Neuen and Dr. Paul Salamunovich.
 
+<!-- tah-tables:start -->
+## Education
+- 國立藝專 — B.A. 聲樂
+- 加州州立大學華納格合唱研究所 — B.S.合唱指揮
+
+## Employment
+- 東安台福教會詩班 — 音樂總監兼指揮
+- 洛杉磯華人合唱團 — 音樂總監兼指揮
+- 洛杉磯華人聖樂團 — 音樂總監兼指揮
+- 忘年合唱團 — 音樂總監兼指揮
+- 南加兒童合唱團 — 音樂總監兼指揮
+- 創設洛華音樂基金會 — 1994 — 董事長
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

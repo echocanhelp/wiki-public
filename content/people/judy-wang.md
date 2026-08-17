@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
-Judy Wang (王瑞婉) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Tunghai Univ. (東海大學) — B.A., Music performance
+- Central of Oklahoma — M.A., Musical Education
+
+## Employment
+- Music Teacher
+<!-- tah-tables:end -->
 
 ## Family
 

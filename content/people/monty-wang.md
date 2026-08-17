@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Monty Wang (王興山) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Taipei Medical University School of Medicine — 1978 — B.S.
+
+## Employment
+- ROBERT WOOD JOHNSON UNIVERSITY HOSPITAL, INC — Anesthesiologist
+<!-- tah-tables:end -->
 
 ## Family
 

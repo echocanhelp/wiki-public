@@ -21,6 +21,18 @@ last_reviewed: 2026-08-17
 
 Taiwanese-American violist Che-Yen Chen, Professor of Viola at the USC Thornton School of Music, has established himself as an active performer and educator. He is a founding member of the Formosa Quartet, recipient of the First-Prize and the Amadeus Prize winner of the 10th London International String Quartet Competition. Since winning the First-Prize in the 2003 William Primrose International Viola Competition and the “President Prize” of the Lionel Tertis International Viola Competition, Chen has been described by the Strad Magazine as a musician whose “tonal distinction and essential musicality produced an auspicious impression” and by San Diego Union Tribune as an artist whose “most impressive aspect of his playing was his ability to find not just the subtle emotion, but the humanity hidden in the music.” Principal violist of the San Diego Symphony and Mainly Mozart Festival Orchestra, Chen has appeared as guest principal violist with Los Angeles Philharmonic, San Francisco Symphony, Cincinnati Symphony Orchestra and Canada’s National Arts Centre Orchestra. A former member of Lincoln Center Chamber Music Society Two and participant of the Marlboro Music Festival, he is a membe
 
+<!-- tah-tables:start -->
+## Education
+- Curtis Institute of Music — Year??? — B.S. Viola
+- Juilliard School in New York — Year??? — M.S. Music
+- 耶魯大學 — Ph.D. Music
+
+## Employment
+- 聖地牙哥交響樂團 — Present — 中提琴首席
+- 加州州立大學富爾頓分校 — Present — Teaching
+- 南加州大學 — Present — Teaching
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Long Lee (李隆吉) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1964 — B.S. Physics
+- University of Southern California — 1967 — M.A. Physics
+- University of Southern California — 1971 — Ph.D. Physics
+
+## Employment
+- San Diego State University — 1982-present — Professor
+<!-- tah-tables:end -->
 
 ## Family
 

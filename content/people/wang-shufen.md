@@ -356,6 +356,15 @@ Notable quotes and mentions of **王淑芬** in Taiwan Justice articles:
 - [TAH #33 encyclopedia: 33. Sue-Fin Wang 王淑芬](https://taiwaneseamericanhistory.org/whos-who-33-sue-fin-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sue-fin-wang/)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1976 — B.S., Philosophy
+- Seattle Washington Univ. — M.S., Economy
+
+## Employment
+- United Daily News (聯合報) — Reporter — AT&T — (-2007) — Community — North American Taiwanese Women's Association — President (2016-2017) — Taiwan Tribune (台灣公論報) — Columnist for 番婆部落格 and 辣媽心舫
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** 李錦輝

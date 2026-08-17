@@ -19,7 +19,20 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Jason Su (蘇子榮) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Cheng-Kung University — 1986 — B.S, EE
+- UC Irvine — M.S., EE
+- UC Irvine — 1995 — Ph. D., EE
+
+## Employment
+- IBM — 1995-97 — R&D
+- Silicon Graphics Inc. — 1997-99 — R&D
+- QED/PMC-Sierra — 1999-05 — R&D
+- Marvell Semiconductor, Inc. — 2005-11 — R&D
+- Oracle/Sun — 2011-present — R&D
+<!-- tah-tables:end -->
 
 ## Family
 

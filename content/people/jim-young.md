@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 For more bio information, please click link in Who’s Who: 971. Cheng-I (Jim) Young 楊正義
 
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1967 — B.S. ME
+- UT Austin — 1970 — MS. AE & ASE
+- Purdue University — 1973 — Ph.D. ME
+
+## Employment
+- Dupont Central — Research & Development — 1973- — Research
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Gina

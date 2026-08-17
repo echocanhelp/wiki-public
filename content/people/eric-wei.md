@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, educator
 - **Source:** TAH Foundation Who’s Who
 
-Eric Wei (魏安仁) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Purdue Univ. — B.S., Computer Science
+
+## Employment
+- USA — Programmer — Taiwan — Teaching English
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,12 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Cary S. Hung (洪哲勝博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 成功大學 — 1962 — B.S.土木工程
+- 科羅拉多州主大學 — 1975 — Ph.D.土木工程
+<!-- tah-tables:end -->
 
 ## Family
 

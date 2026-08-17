@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Lifetime Achievement Award from Indian Society of Toxinology 2013
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1953 — B.S., Chemistry
+- Univ. of Notre Dame — 1956 — M.S., Chemistry
+- Stanford Univ. — 1961 — Ph.D., Biochemistry
+
+## Employment
+- Colorado State University — Professor Emeritus — (1998-) — Colorado State University, Fort Collins — Professor — (1967-1998) — University of Utah — Assistant Professor — (1962-1967)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Kazuko Yamamoto Tu

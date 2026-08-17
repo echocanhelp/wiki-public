@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Prof. Pai-Hsiang Chou 周百祥教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- Univ. of Washington — Ph.D.
+
+## Employment
+- Univ. of California, Irvine — Professor — National Tsing Hua Univ. (清華大學) — Professor of Dept. of Information Engineering
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

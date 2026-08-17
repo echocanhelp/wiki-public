@@ -21,6 +21,18 @@ last_reviewed: 2026-08-17
 
 She began her music studies on piano and continued with theory, Solfege training, and eventually oboe performance in National Taiwan Normal University. As principal oboist in the University Symphony Orchestra, and the winner of the concerto competition, she performed Haydn’s Oboe Concerto with the Orchestra and performed in numerous solo and chamber concerts. She also studied under Professor Pierre W. Feit, during her visit to Vienna and Graz, Austria, and won Third Prize in the Wiener International Summer Camp. She later returned to Taiwan to teach oboe while serving as principal oboist of the National Symphony Orchestra in Taiwan.
 
+<!-- tah-tables:start -->
+## Education
+- 台灣師範大學 — B.S. Music
+- UCI Claire音樂學院 — 2005 — M.S. Fine Art
+
+## Employment
+- 迪士尼音樂廳 — Present — 交響樂團客座雙簧管手
+- Segerstorm音樂廳 — Present — 交響樂團客座雙簧管手
+- Riverside County — Present — 交響樂團客座雙簧管手
+- 台灣國家交響樂團 — 主雙簧管手
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

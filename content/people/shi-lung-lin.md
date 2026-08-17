@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, scientist, professor
 - **Source:** TAH Foundation Who’s Who
 
-Shi-Lung Lin (林希龍) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 中山醫學院 — 1989 — B.S. 醫學
+- 南加州大學 — M.S. 生化
+- 南加州大學 — Ph.D. 生化
+
+## Employment
+- 南加州大學醫學院 — 2002-2008 — Assistant Professor
+- W&L Institute for Stem Cell Research — Present — Director
+<!-- tah-tables:end -->
 
 ## Family
 

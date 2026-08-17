@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 2. Masuhara Lectureship Award of the Asian and Oceanian Photochemistry Association, 2018.
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1969-1973 — B.S., Chemistry
+- Univ. of California, Berkeley — 1975-1979 — Ph.D., Chemistry,
+
+## Employment
+- National Chiao Tung University — Director of Institute of Molecular Science — (2004-2007) — National Chiao Tung University — Dean of Science — (2005-2008) — National Chiao Tung University — Chair Professor, Dept. of Applied Chemistry — (2004-) — National Tsing Hua University — Professor, Dept. of Chemistry — (1985-2004)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

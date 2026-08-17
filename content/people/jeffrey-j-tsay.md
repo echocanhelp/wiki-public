@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Prof. Jeffrey J. Tsay is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Chengchi Univ. — B.B.
+- The Univ. of Missouri-Columbia — M.A. — Ph.D. Accountancy
+
+## Employment
+- University of Texas at Arlington — Professor of Accounting — (-2016) — Community — NATPA — President (2019-) — NATPA-Texas Chapter — President (2017) — TAA-DFW — Chair of the 2-28 Commemoration Committee (2017) — NATPA — Vice President — TAA — Director of the South Region — TAA-DFW — President
+<!-- tah-tables:end -->
 
 ## Family
 

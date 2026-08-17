@@ -22,6 +22,11 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Successful Business Women by Alliance for Multi-culture Community Services, 2005
 
+<!-- tah-tables:start -->
+## Employment
+- Crown Mark, Inc. — Founder & President — (1983-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

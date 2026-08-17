@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-J. E. Wu (吳榮二) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 淡江大學 — B.S.外文系
+
+## Employment
+- Ho Sai Gai Enterprise Corp. — Owner of 5 chain stores
+<!-- tah-tables:end -->
 
 ## Family
 

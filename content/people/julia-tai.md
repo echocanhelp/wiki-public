@@ -21,6 +21,20 @@ last_reviewed: 2026-08-17
 
 Julia Tai, Doctor of Musical Arts in Orchestral Conducting / Master of Music in Choral Conducting. Born in Taipei, Taiwan, Julia Tai studied violin at age 4 and piano at 8. She has given many recitals in violin, piano, voice, and chamber music, and performed concerts with choirs and orchestras, which toured extensively in Australia, Austria, Belgium, France, Germany, Spain, United States, Japan, and Taiwan. She came to the United States in 1998, and obtained her Bachelor of Music in Vocal Arts Performance and Master of Music in Choral Conducting from the University of Southern California Thornton School of Music, where she was honored with the departmental award of “Outstanding Graduate of 2004.” She earned her Doctor of Musical Arts degree in Orchestral Conducting from the University of Washington, where she studied conducting with Peter Eros and violin with Ronald Patterson. Currently, Julia is the music director of the Philharmonia Northwest, Magnolia Chorale, Magnolia United Church of Christ, and the co-artistic director of the Seattle Modern Orchestra. Previously, she was the conductor of the Westside Symphonette, the associate conductor of the Rainier Symphony, and the music 
 
+<!-- tah-tables:start -->
+## Education
+- 南加州大學 — B.S. 聲樂
+- 南加州大學 — M.S.指揮
+- 華盛頓大學 — Ph. D. 管絃樂指揮
+
+## Employment
+- 華盛頓大學現代樂團 — 專任指揮
+- 西北愛樂交響樂團 — 音樂總監
+- 西雅圖現代樂團 — 音樂總監
+- 融融合唱團 — 2011-2013 — 指揮
+- 木蘭合唱團 — 音樂總監
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

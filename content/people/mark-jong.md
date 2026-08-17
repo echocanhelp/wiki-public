@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Mark Jong (鍾茂萃) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 國立台灣大學 — 1960 — BS,電機系
+- South Dakota School of Mines and Technology — 1965 — MS, Electrical engineering
+- University of Missouri- Columbia — 1967 — PH.D, Electrical engineering
+
+## Employment
+- Wichita State University — 1980 — Professor
+- Wichita State University — 1990 — Associate Dean of the colloege of Eng.
+<!-- tah-tables:end -->
 
 ## Family
 

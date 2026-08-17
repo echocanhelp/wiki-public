@@ -31,6 +31,15 @@ last_reviewed: 2026-08-17
 - [TAH #389 encyclopedia: 389. Shu-Yuan Lai 賴淑遠](https://taiwaneseamericanhistory.org/whos-who-389-shu-yuan-lai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shu-yuan-lai/)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1974 — B.A., Accounting
+- State Univ. of New York at Buffalo — 1979 — M.B.A., Finance, and Accounting
+
+## Employment
+- Florida State Government — Regulator — (1984-) — HTX International, KS — Associate Controller — (1989-1991) — General Bank / Cathay Bank, CA — AVP, SVP, EVP — (1991-) — Cathay Bank — EVP and Chief Lending Officer — (2016-) — Community — Miss Taiwanese American Pageant Committee — Chairwoman (2011, 2012, 2016, 2017) — Taiwan Center — Board of Director (since 1998); Vice Chairman (2014 to present) — Taiwanese American Chamber of Commerce — Board of Director (2015 to present) — North America Taiwanese Women's Association, Los Angeles — President (1997-1998) — Chia-Yi Girls' High School Alumni Association — President (1995) — FAPA (Formosan Association for Public Affairs) — Board of Director (1994, 1995)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** 賴聰域

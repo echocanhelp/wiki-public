@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Fumi Chen (何文英) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Home Economic College — 1963
+
+## Employment
+- 台肥六廠 — 1960-63
+<!-- tah-tables:end -->
 
 ## Family
 

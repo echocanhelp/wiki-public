@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Cheng Long Tsai (蔡正隆博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1966 — B.S.機械工程
+- 南卡羅萊納州立大學 — 1969 — M.S.機械
+- 卡內基大學 — 1972 — Ph.D.機械
+
+## Employment
+- 美國艾克森石油公司 — 1991 — 鑽油井工作研究
+- 鑽油公司 — 1992-1994 — 工程顧問
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,19 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Michael S. K. Chen (陳希寬博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S.化工
+- 堪薩斯州立大學 — M.S.化工
+- 堪薩斯州立大學 — Ph.D.化工
+
+## Employment
+- ShinkongSynthetic Fibers Corporation — 副總裁
+- UniversityofPennsylvania — Teaching
+- Air Products & Chemicals Inc.
+- NATEA Austin — President
+<!-- tah-tables:end -->
 
 ## Family
 

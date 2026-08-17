@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-C. S. Huang (黃千洵) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S.外文
+- Yale University — M.S. 音樂學
+
+## Employment
+- 成立 "紐文工作室"
+<!-- tah-tables:end -->
 
 ## Family
 

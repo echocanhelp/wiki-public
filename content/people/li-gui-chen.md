@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Tug of War: The Story of Taiwan, Taiwan Production Coordinator, 1996-1997
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1979 — B.A., Foreign Languages
+- Univ. of Texas at Austin — 1982 — M.A., Audiovisual Education
+
+## Employment
+- Taiwan Film and Audiovisual Institute (國家電影及視聽文化中心) — Director — Foundation of Ocean Taiwan (海洋台灣文教基金會) — Director — Shih Hsin Univ. (世新大學) — Lecturer, Dept. of Radio and Television — Shih Chien Univ. (實踐大學) — Lecturer — Community — Taiwan Women's Film Association (台灣女性影像學會) — Director — Fourth Nuclear Referendum Promotion Association (核四公投促進會) — Convener
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** 李泳泉

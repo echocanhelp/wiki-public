@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Editor-in-Chief of Oversea Taiwanese Christian Newsletter (海外台灣基督徒聯合通訊) 1973-1976
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.S., Mathematics
+
+## Employment
+- Goldman Sachs — Vice President — Community — Oversea Taiwanese Christian Newsletter (海外台灣基督徒聯合通訊) — Editor-in-Chief — Voice of Taiwan (台灣之音) — Co-Founder
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 張楊宜宜

@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-S. L. Chen (陳世霖) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台北藝術大學 — B.S.
+- New England Conservatory of Music — M.S.
+
+## Employment
+- Borealis String Quartet — 大提琴家
+- 加拿大卑詩大學(University of British Columbia) — 駐校弦樂四重奏
+<!-- tah-tables:end -->
 
 ## Family
 

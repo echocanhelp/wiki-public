@@ -21,6 +21,18 @@ last_reviewed: 2026-08-17
 
 Jui-Wen Ginger Chen, Pianist, born in Taipei, Taiwan, began the study of piano at the age of five and was selected to participate in the National Special Program for Musically Gifted Students in Taipei at the age of nine. She received her Doctor of Music degree in Piano Performance and Master of Music degree in Piano Performance and Pedagogy from Northwestern University. She received her Bachelor of Music degree in Piano Performance from the University of South Carolina at Columbia; all degrees were earned with high distinction. She also received a Certificate of Piano Performance and Pedagogy from the Piano Institute at Saint-Petersburg Conservatory, Russia.
 
+<!-- tah-tables:start -->
+## Education
+- University of South Carolina at Columbia — B.S. Piano Performance
+- Northwestern University — M.S. Piano Performance
+- .Northwestern University — Ph.D. Piano Performance
+
+## Employment
+- Northwestern University — Piano instructor
+- Columbia International University — Piano instructor
+- Georgia Perimeter College — 1998- — Associate rofessor
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

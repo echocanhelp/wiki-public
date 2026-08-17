@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Hwan-Chyang Lin (林環牆) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 中興大學 — 1980 — B.A. 商業管理
+- University of Illinois — 1986 — M.S. 經濟
+- University of Illinois — 1990 — Ph.D. 經濟
+
+## Employment
+- University of North Carolina — 1999- — Professor
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Ta-Fu Ho (何達夫博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Tainan Frist (i-Jo) High School — B.S.
+- Cheng Kong Univ. — 1964 — Electric Engineer. BS
+- Drexel Univ. — 1977 — Ph.D., 電機工程
+
+## Employment
+- Fisher and Porter — 1977-1980 — Senior Design Engineer
+<!-- tah-tables:end -->
 
 ## Family
 

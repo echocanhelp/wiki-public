@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-John Chen (陳榮儒) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 中興大學 — B.S. 農學
+
+## Employment
+- 密蘇里大學 — 1970 — M.S.農藥學
+<!-- tah-tables:end -->
 
 ## Family
 

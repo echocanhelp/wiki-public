@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Wilfred Su (蘇文隆牧師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 美國福樂神學院 — D.Min
+
+## Employment
+- 實踐神學暨基督徒教育 — 教授
+- 台福神學院 — 行政副院長
+- 和平教會 — 主任牧師
+<!-- tah-tables:end -->
 
 ## Family
 

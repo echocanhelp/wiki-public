@@ -23,6 +23,14 @@ last_reviewed: 2026-08-17
 1972
 B.S. Dept. of Adult & Continuing Education(社教系)
 
+<!-- tah-tables:start -->
+## Education
+- Taiwan Normal Univ. (師範大學) — 1972 — B.S. Dept. of Adult & Continuing Education(社教系)
+
+## Employment
+- 甲午變天 — 執行長 — 美國《美麗島周刊》 — Founder (創辦人) — (1980-) — 中國時報 — Journalist — (1972-1978) — Community — Taiwanese Association of America - Los Angeles Chapter — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** 張維嘉

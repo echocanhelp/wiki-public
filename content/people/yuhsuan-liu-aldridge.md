@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Yuhsuan Liu Aldridge started piano lessons at age of five, and cello lessons at age of 10. Yuhsuan came to the United States from Taiwan in 1996. She received her Masters of Music in piano and cello performance from Webster University in St. Louis in 2000. She also earned her teaching certificate from University of Missouri in St. Louis in 2006. She just received her Bachelor of Science in Music Therapy from Maryville University in 2010. As a teacher, she taught in Webster University Community Music School for six years as a piano and cello instructor. Yuhsuan is also certified in Suzuki books 1-4. She has been an active soloist and accompanist in St. Louis and Taiwan.
 
+<!-- tah-tables:start -->
+## Education
+- Maryville University — B.S. Science in Music Therapy
+- Webster University in St. Louis — M.S. Music
+
+## Employment
+- Webster University Community Music School — Cello instructor
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

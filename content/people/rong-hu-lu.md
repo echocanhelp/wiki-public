@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Rong-hu Lu (盧榮富) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台南神學院 — 1967 — B.S.
+- Andover Newton — M.S. Pastoral Counseling
+
+## Employment
+- 歸正教會 — present — 會督
+- New Jersey Fair Lawn — 牧師
+<!-- tah-tables:end -->
 
 ## Family
 

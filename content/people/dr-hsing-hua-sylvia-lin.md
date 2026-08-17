@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Dr. Hsing-Hua (Sylvia) Lin 林杏樺博士 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- Univ. of Pittsburgh — 2013-2017 — Ph.D., Epidemiology
+- National Taiwan Univ. — 2009-2011 — MS, Occupational Health
+- Taipei Medical Univ. — 2005-2009 — BS, Public Health
+
+## Employment
+- Univ. of Pittsburgh — Data Scientist — (2017-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

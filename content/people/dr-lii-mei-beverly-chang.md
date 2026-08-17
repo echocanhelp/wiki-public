@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 Dr. Lii Mei (Beverly) Chang 張理美醫師 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- Kaohsiung Medical Univ. — 1969 — M.D.
+- Univ. of Alabama in Birmingham — 1971-1972 — Pathology training
+- Washington Univ., STL — 1972-1975 — Pathology training
+- St. Louis Univ., STL — 1981-1982 — Pathology training
+
+## Employment
+- Saint Louis Univ. — Assistant Professor of Pathology and Hematology — (1975-1982) — SIMBA Pathology Services Corporation (南伊利諾州) — General Pathology and Forensic — (1982-1991) — SSM Health St. Joseph Hospital (聖喬瑟夫醫院) — Pathologist — (1991-2006) — Metropolitan Urological Specialists — Pathologist in Urology Pathology — (2006-2008) — Community — St. Louis Branch of North American Taiwanese Medical Association (美台灣醫師協會聖路易分會) — President (1997) — TAA/STL (聖路易台灣同鄉會) — President (2014 & 2015) — Taiwanese Presbyterian Church in Greater STL — Elder
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Cheng C. Tsai

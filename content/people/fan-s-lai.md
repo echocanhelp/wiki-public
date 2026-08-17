@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Fan S. Lai (賴芳雄) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1965 — B.S. 化學工程
+- University of Notre Dame — 1968 — M.S. 化學工程
+- Kansas State University — 1974 — Ph.D. 化學工程
+
+## Employment
+- University of Massachusetts Lowell — Present — Professor of Plastics Engineering
+<!-- tah-tables:end -->
 
 ## Family
 

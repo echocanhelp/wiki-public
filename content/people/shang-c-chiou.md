@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Shang C. Chiou (邱祥竹醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 高雄醫學院 — 1965 — M.D.
+
+## Employment
+- Retiree
+<!-- tah-tables:end -->
 
 ## Family
 

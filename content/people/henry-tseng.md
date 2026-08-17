@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, lawyer, educator
 - **Source:** TAH Foundation Who’s Who
 
-Henry Tseng (曾恆利) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 紐約大學法學院 — year — M.S.
+- 俄州首府大學 — year — Ph.D.
+
+## Employment
+- 華爾街 — 律師
+- 美國俄州首都大學 — 終身職法學敎授兼圖書館館長
+- 紐約州首府阿爾巴尼法學院 — 終身職教授兼圖書館館長
+<!-- tah-tables:end -->
 
 ## Family
 

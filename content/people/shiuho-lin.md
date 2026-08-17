@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Queens Borough President Immigration Task Force Advisor 2010–Now
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1965 — B.S., Pharmacy
+- Medical School Affiliations of Flushing Hospital — 1967 — Medical Technology
+- Ohio State Univ. — 1969 — M.S., Clinical Pathology
+
+## Employment
+- Saint Mary's Hospital Luodong (羅東聖母醫院) — Pharmacology Instructor — (1965-1966) — Ohio State Univ. Hosp. — Med. Technologist — (1969-1970) — NY Downstate Med. Center — Med. Tech. and Chemistry Supervisor — (1974-2003) — Community — Queens Borough President Immigration Task Force — Advisor — Ghee-Lan Association of USA (美國宜蘭同鄉會) — President — NGO Gray Panthers (UN) — Main Representative — TAA New York Chapter (紐約台灣同鄉會) — President — Taiwanese American Conference / East Coast (美東台灣人夏令會) — Co-coordinator — New York Taiwanese American Senior Center (紐約台灣會館老人中心) — Executive Director — North America Taiwanese Women's Association (NATWA) New York Chapter (北美洲台灣婦女會紐約分會) — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Yancheng

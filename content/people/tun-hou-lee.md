@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 Member of Ad Hoc Grant Review Committee, National Institute of Health
 
+<!-- tah-tables:start -->
+## Education
+- 國立台灣大學 — 1976 — B.S. in Public Health
+- Harvard University — 1978 — Ph.D in Public Health
+
+## Employment
+- Harvard University — Professor of Immunology & Infectious Diseases
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

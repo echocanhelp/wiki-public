@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 4. Established the Cardia electrophysiology Dept. for the Stanford Medical College
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1963 — B.S., Medical — 1968 — M.D.
+- Univ. of Wisconsin Medical Center — 1972 — Medical Residency
+
+## Employment
+- University of Wisconsin — Professor — University of Miami — Professor — UCSF — Professor — Stanford University — Director — National Cheng Kung University — Vice President — National Cheng Kung University Hospital — Dean
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

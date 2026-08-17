@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Roger Huang (黃瑞宗) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 輔仁大學 — B.S.
+
+## Employment
+- 無敵字典 — Present — President
+<!-- tah-tables:end -->
 
 ## Family
 

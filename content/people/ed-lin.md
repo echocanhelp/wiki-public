@@ -21,6 +21,11 @@ last_reviewed: 2026-08-17
 
 Waylaid (2002) won a Members' Choice Award at the Asian American Literary Awards and also a Booklist Editors' Choice Award in Fiction in 2002. The novel was adapted into a film by Michael Kang, The Motel.
 
+<!-- tah-tables:start -->
+## Employment
+- Writer, actor, novelist
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Cindy Cheung

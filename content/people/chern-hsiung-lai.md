@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 President of the Taiwanese American Physicians Association, Greater Philadelphia Chapter
 
+<!-- tah-tables:start -->
+## Education
+- 美國賓大 — D.M.D.
+- 大阪齒科大學 — 1969 — Ph.D. 齒學及微生物學
+
+## Employment
+- 賓大牙醫學院牙周病科 — present — Professor
+- NIVERSITY OF PENNSYLVANIA牙醫學院牙周病科臨床教授及口腔微生物檢測中心 — present — 負責人
+- Microbiological Testing Laboratory — present — Director
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

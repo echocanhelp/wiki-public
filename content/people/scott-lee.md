@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Scott Lee has established himself as one of the most exciting and unique violists. His exceptional musicality and virtuositic playing distinguish him as one of this generation’s quintessential artists.
 
+<!-- tah-tables:start -->
+## Education
+- 茱莉亞音樂學院 — B.S. Music
+
+## Employment
+- University of Missori, Kansas City Conservatory — Present — 音樂教授
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

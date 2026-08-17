@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-C. Y. Lee (李欽勇博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 東海大學 — B.S.
+- University of Berkeley — Ph.D.
+
+## Employment
+- San Jose State University — 副校長
+- 東海大學 — 1986-1988 — 社會研究所長
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 BEN HONG joined the Los Angeles Philharmonic in 1993, at age 24, making him the youngest member of the orchestra at that time. Born in Taipei, Taiwan, Ben won his native country’s National Cello Competition three years in a row before leaving home, at 13, for the Juilliard School. Later he studied with Lynn Harrell at the University of Southern California School of Music before joining the LA Phil.
 
+<!-- tah-tables:start -->
+## Education
+- 茱莉亞音樂學院 — B.S. Music
+
+## Employment
+- 在洛杉磯愛樂樂團（LA Philarmonic） — Present — 助理首席大提琴
+- 美國南加州大學 — 音樂系教授
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

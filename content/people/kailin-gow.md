@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 2. Gow’s “The Fire Wars” wins the teenage section competition during the 2012 Green Book Festival
 
+<!-- tah-tables:start -->
+## Education
+- Univ. of California, Irvine — B.A., Drama/Film and Social Ecology
+- Univ. of Southern California — M.A., Journalism, Marketing, and Publishing
+
+## Employment
+- Screenwriter, director, producer, speaker, author
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Daughter:** London Kira

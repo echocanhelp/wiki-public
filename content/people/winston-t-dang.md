@@ -19,7 +19,20 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist
 - **Source:** TAH Foundation Who’s Who
 
-Winston T. Dang (陳重信) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Taipei Medical College — 1967 — B.S., 藥學
+- Columbia Univ. — 1970 — M.S., 藥物化學
+- City Univ. of New York — 1974 — Ph.D., 生物化學
+- Harvard Univ. — 1989 — MPH 公共衛生碩士
+
+## Employment
+- Environmental Protection Agency — 資深科學主管
+- Food and Drug Administration — 消費安全官員
+- 立法院 — 2004 — 立法委員
+- 行政院環境保護署 — 2007 — 署長
+<!-- tah-tables:end -->
 
 ## Family
 

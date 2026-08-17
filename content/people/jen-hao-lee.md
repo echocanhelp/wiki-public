@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 高中畢業後考完大專美術，自認為完成了父親的心願，因而轉向修習音樂，追求從小學習的小提琴!後來投考台灣神學院音樂系，主修小提琴、並以小提琴及聲樂〈唱演歌劇魔笛之補鳥人〉畢業，音樂上曾事師於:
 
+<!-- tah-tables:start -->
+## Education
+- 台灣神學院 — B.S. Music
+- 台南神學院 — Ph.D.
+
+## Employment
+- 洛杉磯台灣基督長老教會 — 駐堂牧師
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

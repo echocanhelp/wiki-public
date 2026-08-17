@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Eileen Chang (楊宜宜) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.S., Foreign Languages
+- Bethel Theological Seminary — Ph.D., Educational Pastor(教牧)
+
+## Employment
+- Taiwan Mission — President — (2007-) — Community — Voice of Taiwan (台灣之音) — Co-Founder — Taiwan Mission (台灣宣教基金會) — Founder and President — Oversea Taiwanese Christian Newsletter (海外台灣基督徒聯合通訊) — Editor-in-Chief
+<!-- tah-tables:end -->
 
 ## Family
 

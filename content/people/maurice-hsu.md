@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Maurice Hsu (許盛男醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Taipei Medical College — 1966 — M.D.
+
+## Employment
+- Pascake Valley Hospital — 1984 — 外科主任
+<!-- tah-tables:end -->
 
 ## Family
 

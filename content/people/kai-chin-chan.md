@@ -19,7 +19,12 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Kai-Chin Chan (詹凱臣) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 淡江大學畢業 — B.S.
+- 威斯康辛州國際大學 — M.S.企管
+<!-- tah-tables:end -->
 
 ## Family
 

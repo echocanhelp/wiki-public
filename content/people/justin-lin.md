@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Justin Lin (林詣彬) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- UCLA Film School — MFA in film directing
+
+## Employment
+- Film director — Popular Asian American blog youoffendmeyouoffendmyfamily.com/ — Founder
+<!-- tah-tables:end -->
 
 ## Family
 

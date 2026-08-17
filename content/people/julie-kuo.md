@@ -21,6 +21,11 @@ last_reviewed: 2026-08-17
 
 Source from 美洲台灣日報http://taiwandaily.net/gp2.aspx?_p=kSF1c9zU9HSCNp9NPzlVX3t7MZKV1l6O
 
+<!-- tah-tables:start -->
+## Education
+- Hawaii University — B.S.
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

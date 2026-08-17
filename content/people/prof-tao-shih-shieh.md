@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Prof. Tao-Shih Shieh 謝道時教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1970 — B.S., Chemistry
+- Univ. of California, Berkeley — 1977 — Ph.D., Biophysical Chemistry
+
+## Employment
+- The Duke Univ. Medical Center — Professor of Biochemistry — (1986-) — Academia Sinica — Distinguished researcher and director of the Institute of Cell and Individual Biology — (2009-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 楊愛莉

@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Simon Cheng (鄭良光) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Tamkang Univ. — 1975 — B.A., Business
+- Univ. of Hawaii — 1980 — MBA
+
+## Employment
+- Sanyco Automotive — President — (1983-) — Community — Taiwanese United Fund (南加州台灣人聯合基金會) — President — Taiwanese Writing Forum-Tai-bun Thong-Sin (台文通訊) — Co-Founder
+<!-- tah-tables:end -->
 
 ## Family
 

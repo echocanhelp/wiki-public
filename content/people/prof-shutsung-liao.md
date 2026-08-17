@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. The Founding President of the North America Taiwanese Professor Association (北美洲台灣人教授協會首任會長) 1980
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1953 — B.S., Agricultural Chemistry
+- National Taiwan Univ. — 1956 — M.S., Agricultural Chemistry
+- Univ. of Chicago — 1961 — Ph.D., Biochemistry& Molecular Biology
+
+## Employment
+- Institute of Biochemistry and Molecular Biology, Univ. of Chicago — Professor — (1961-) — Community — North America Taiwanese Professor Association — Founding President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 郭淑卿

@@ -21,6 +21,18 @@ last_reviewed: 2026-08-17
 
 台灣成功大學化學工程系2014年傑出校友獎 (NCKU Department of Chemical Engineering Distinguished Alumni Award, 2014)
 
+<!-- tah-tables:start -->
+## Education
+- 成功大學 — B.S.化工
+- Baylor University, Texas — 1968 — Ph.D.物理化學
+
+## Employment
+- Dr Chou Technologies, Inc.USA — present — President
+- Louisiana State University — 1993-1997 — professor
+- Food Science & Engineering, SCUT — 1993-2015 — Advisory/Visiting professor
+- 創立「美國美溪慈善基金會」 — 1989 — President
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

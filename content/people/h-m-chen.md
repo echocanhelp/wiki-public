@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-H. M. Chen (陳惠民) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 淡江大學 — B.S. 建築
+- 北卡羅萊納州立大學 — M.S. 建築
+- 喬治亞理工學院 — Ph.D.建築
+
+## Employment
+- 明尼蘇達大學教授建築空間的表現及理論課程 — Present — 教授
+- 世界文化遺產研究中心 — Present — 主任
+<!-- tah-tables:end -->
 
 ## Family
 

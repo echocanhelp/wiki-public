@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Rev. Burton Tan (陳柏壽牧師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Columbia Univ. — Ph.D., Theological Philosophy
+
+## Employment
+- Westchester Taiwanese Trinity Church (衛鄉教會) — Pastor — (1986-1998) — Holy Trinity Lutheran Church (三一教會) — Pastor — Winfield Reformed Church (紐約恩惠歸正教會) — Pastor
+<!-- tah-tables:end -->
 
 ## Family
 

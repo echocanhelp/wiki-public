@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Prof. Yang-En Cheng (鄭仰恩教授) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Chung Hsing Univ. (中興大學) — 1979 — B.A., History
+- Taiwan Theological College and Seminary (台灣神學院) — 1984 — M.Div.
+- Princeton Theological Seminary (普林斯頓神學院) — 1994 — Ph.D., Philosophy
+
+## Employment
+- Center of Theological Inquiry — Resident Researcher — (2009-) — National Taiwan University — Adjunct Professor — (2010-) — Taiwan Theological College and Seminary (台灣神學院) — Assistant Professor
+<!-- tah-tables:end -->
 
 ## Family
 

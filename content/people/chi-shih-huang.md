@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Chi Shih Huang (黃及時) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 淡江大學 — 1963 — B.S.商學系
+
+## Employment
+- 美洲台灣日報 — 2015-Present — 董事長
+- Mason Beach Inn — Present — Owner
+<!-- tah-tables:end -->
 
 ## Family
 

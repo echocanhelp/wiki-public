@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 1.Lifetime Achievement Award by Texas Association for Marriage and Family Therapy 2020
 
+<!-- tah-tables:start -->
+## Education
+- 台北護理學校
+
+## Employment
+- 1 . Family Enrichment Center — 心理治療師
+- Family and Marriage Clinic — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** 葉國勢

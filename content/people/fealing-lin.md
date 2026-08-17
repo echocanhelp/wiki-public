@@ -21,6 +21,11 @@ last_reviewed: 2026-08-17
 
 Award-winning watercolorist, Fealing Lin of San Marino, California, was born in Taiwan and began her journey into artistic expression as a protégé of renowned professor Ching-Jung Chen in Taiwan, subsequently pursuing her career in the United States with watercolorist and senior art historian professor Verna Wells.
 
+<!-- tah-tables:start -->
+## Employment
+- 水彩畫家
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

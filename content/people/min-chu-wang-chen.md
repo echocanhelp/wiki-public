@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Was one of the first hairdressers to introduce Audrey Hepburn’s mushroom-shaped hairstyle to Taiwan
 
+<!-- tah-tables:start -->
+## Education
+- Tainan Second Girls’ Senior High (台南第二高女)
+
+## Employment
+- Yanshuei Elementary School (鹽水國小) — Teacher — Beauty Salon in Taipei — Owner — (1970-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Daughter:** Sue-Fin Wang (王淑芬)

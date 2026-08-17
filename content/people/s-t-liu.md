@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-S. T. Liu (劉曉亭) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 東海大學 — 1985 — B.S. 中文
+- 中華福音神學院 — 1987 — M.S.聖經
+
+## Employment
+- 牧師
+<!-- tah-tables:end -->
 
 ## Family
 

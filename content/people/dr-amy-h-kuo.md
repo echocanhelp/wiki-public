@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Amy H Kuo (郭惠美醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. Medical College — 1967 — M.D.
+- Manhattan VA Medical Center — Resident training
+
+## Employment
+- Private practice in Manhattan — Self-Employed — (1974-2008) — Community — Taiwan Union Christian Church — Elder (長老)
+<!-- tah-tables:end -->
 
 ## Family
 

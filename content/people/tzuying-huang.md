@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Tzuying Huang was appointed the Bass Clarinetist of the St. Louis Symphony in February of 2015 under music director David Robertson. Prior to joining the St. Louis Symphony, she was the Bass Clarinetist of the Kansas City Symphony. Her summer appearances include Colorado Music Festival, Aspen Music Festival, Tanglewood Music Festival, Banff Music Festival and the Young Artist Program of National Art Center at Ottawa, Canada (under the direction of Pinchas Zukerman.)
 
+<!-- tah-tables:start -->
+## Education
+- Taipei University of Education — B.S. Music Performance
+- Jacobs School of Music at Indiana University-Bloomington — 2010 — M.S. PERFORMANCE
+
+## Employment
+- Kansas City Symphony — present — Bass Clarinetist
+- University of Texas-Austin — Clarinet Teaching Assistant
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

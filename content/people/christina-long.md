@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Prof. Christina Long 隆愛真教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- Univ. of North Texas — Ph.D. Music Arts
+
+## Employment
+- Southeast Oklahoma State Univ. — Artist-in-Residence — Westfield State College (Massachusetts) — Assistant Professor — Tabor College (Kansas) — Assistant Professor — Southeast Oklahoma State University — Artist-in-Residence — Westfield State College — Assistant Professor of Piano — Tabor College — Assistant Professor of Piano — Community — Plano Music Teachers Association — Member / Teacher of the Year Candidate (2013, 2015, 2016)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Mother:** 卓靜純

@@ -23,6 +23,19 @@ Lightmed Dental Technology, Inc.
 Founding Chairman, Chief Executive Officer
 (2014-)
 
+<!-- tah-tables:start -->
+## Education
+- 成功大學 — 1980 — B.S., Mechanical
+- North Carolina State Univ. — 1985 — M.S., Mechanical & Electrical — Engineering
+
+## Employment
+- HGM Medical Laser — System Inc — 1986-1997 — Engineer, Far-East Representative
+- LIGHTMED Corporation — 1998-Present — Founding Chairman, Chief Executive Office
+- LightMed USA — 2014-Present — Founding Chairman, Chief Executive Office
+- Lightmed Dental Technology, Inc. — 2014-Present — Founding Chairman, Chief Executive Office
+- Exact Bio-Chip Technology, Inc. — 2015-Present — Chairman on Board
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

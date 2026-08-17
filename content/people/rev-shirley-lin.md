@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Rev. Shirley Lin (林珊宇牧師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Divinity School (耶魯神學院)
+
+## Employment
+- Long Island Taiwanese Church (長島台灣教會) — Pastor — Boston Taiwanese Christian Church (波士頓台灣基督教會) — Pastor
+<!-- tah-tables:end -->
 
 ## Family
 

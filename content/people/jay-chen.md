@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Mt. SAC Board Chen2-Jay Chen of the Mt. SAC Board of Trustees January 13, 2016.
  Jay Chen
 
+<!-- tah-tables:start -->
+## Education
+- Harvard University — B.S.
+
+## Employment
+- Navy intelligence — officer
+- Mt. San Antonio Community College — Member of the Board of Trustees
+- Congressional District 39 — the residents
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 張凱菱

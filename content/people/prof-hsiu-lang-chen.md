@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Prof. Hsiu-lang Chen 陳秀亮教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Chiao Tung Univ. — 1985 — B.S., Applied Mathematics
+- National Central Univ. — 1987 — M.S., Industrial Economics
+- Univ. of Illinois — 1997 — Ph.D., Finance
+
+## Employment
+- Univ. of Illinois — Assistant Professor — (1997-2003) — Univ. of Illinois — Associate Professor — (2003-2005) — Univ. of Illinois — Associate Professor — (2006-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

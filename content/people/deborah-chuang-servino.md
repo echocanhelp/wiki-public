@@ -21,6 +21,18 @@ last_reviewed: 2026-08-17
 
 Appointed as Orange County Superior Court Judge by Governor Arnold Schwarzenegger in 2009
 
+<!-- tah-tables:start -->
+## Education
+- Duke University
+- 加州大學柏克萊分校 — 法學院
+
+## Employment
+- 加州州長史瓦辛格任命為橙縣加州高等法院法官 — 2009
+- 加州檢察長辦公室 — 1997-2009 — 副檢察官、檢察官
+- 美國上訴法院第九巡迴法庭 Melvin Brunetti 法官辦公室
+- Loyola 法學院 — 副教授
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

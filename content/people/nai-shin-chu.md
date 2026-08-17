@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, physician, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Nai-Shin Chu (朱迺欣) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — M.D.
+- Univ. of Michigan — Ph.D., 神經生理學
+
+## Employment
+- Univ. of Colorado — 神經科住院醫師
+- National Institutes of Health, NIH — 研究員
+- Univ. of California, Irvine — Professor
+<!-- tah-tables:end -->
 
 ## Family
 

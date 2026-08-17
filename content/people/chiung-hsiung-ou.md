@@ -23,6 +23,17 @@ Department of Bacterial Immunology, Walter Reed Army Institute of Research
 NRC Senior Research Associate, Senior Microbiologist
 (1984-1989)
 
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1957 — B.S., 農業化學系
+- University of Pennsylvania — 1967 — Ph.D., Biology
+
+## Employment
+- The Institute for Cancer Research — 1968-82 — Researcher
+- Department of Bacterial Immunology，Walter Reed Army Institute of Research — 1984-89 — NRC Senior Research Associate, Senior Microbiologist
+- 長庚大學 — 1989-01 — Professor
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 張初穗

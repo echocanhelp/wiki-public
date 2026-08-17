@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** lawyer
 - **Source:** TAH Foundation Who’s Who
 
-John Liu (劉宗憲) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S.法律
+- UC Berkeley — 1976 — M.S.
+
+## Employment
+- MLI光罩護膜公司 — present — 律師
+<!-- tah-tables:end -->
 
 ## Family
 

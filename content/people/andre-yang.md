@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Andre Yang (楊基定) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Laval大學 — M.S.食品
+
+## Employment
+- Adloph食品公司 — 1969-1974 — 研究員
+- All State Insurance — 1974-Present — President
+<!-- tah-tables:end -->
 
 ## Family
 

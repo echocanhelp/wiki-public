@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** artist
 - **Source:** TAH Foundation Who’s Who
 
-Dawen Wang (王大文) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 西北大學 — B.S.古典音樂&英文文學
+
+## Employment
+- 創作歌手 — 台北國際社區廣播電台(ICRT) 節目主持人
+<!-- tah-tables:end -->
 
 ## Family
 

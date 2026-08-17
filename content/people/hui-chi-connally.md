@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 第一個獲得全美教授外國語文教師資優獎的台灣人 (First Taiwanese person to receive the national award for outstanding teachers of foreign languages in the US)
 
+<!-- tah-tables:start -->
+## Education
+- 俄亥俄州大學 — M.S.體育
+
+## Employment
+- 銘傳商專 — 韻律舞蹈講師
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** 康威廉

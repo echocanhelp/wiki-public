@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 邱崇德專長現代音樂,擅長即興作曲,為當代作曲家所推崇。 並與美國名小提琴家及華裔名家林昭亮、胡乃元等人時常同台演出而享盛名。 1996年在紐約創組FLUX QUARTET絃樂四重奏樂團,至今,應邀到世界各地表演,在德、法、英、奧、波蘭、義大利、墨西哥、加拿大各國年年巡迴演出,在紐約卡內基演奏廳多次演出。
 
+<!-- tah-tables:start -->
+## Education
+- Yale Univ. — B.A., Music
+- Juilliard School — M.A., Violin and conductor composition — Ph.D., Music Performance
+
+## Employment
+- Flux Quartet — Musician, Composer — (1996-) — Founder & Violinist
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Father:** 邱伯安

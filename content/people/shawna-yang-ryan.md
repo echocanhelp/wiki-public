@@ -21,7 +21,7 @@ last_reviewed: 2026-08-17
 - **Chinese:** 楊小娜
 - **Born:** Sacramento, California
 - **Parents:** Father — American, served US Air Force in Taichung; Mother — Taiwanese-born, Wai Sheng second-generation from Taichung
-- **Core roles:** Novelist, Creative Writing Professor
+- **Core roles:** professor, educator
 - **Notable work:** Green Island (《綠島》), 2017 American Book Awards winner; Water Ghosts (Penguin Press 2009)
 - **Education:** UC Berkeley (English Literature); UC Davis (MFA Creative Writing); Fulbright Scholar 2002
 - **Heritage:** Second-generation Taiwanese American
@@ -67,6 +67,15 @@ Yang Ryan's profile in the 2017 TAHS publication was prepared by the Taiwanese A
 - **Content priority A:** Green Island won the 2017 American Book Awards (verifiable external source)
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Note:** The profile in the publication is relatively brief. Additional biographical details (education, earlier works, other publications) exist in external literary sources.
+
+<!-- tah-tables:start -->
+## Education
+- Univ. of California, Berkeley — B.A.
+- Univ. of California, Davis — M.A., Creative Writing
+
+## Employment
+- Univ. of Hawaii, Manoa — Teacher
+<!-- tah-tables:end -->
 
 ## Sources
 - [TAH #860 encyclopedia: 860. Shawna Yang Ryan 楊小娜 /2016/02](https://taiwaneseamericanhistory.org/whos-shawna-yang-ryan/)

@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Huey Lin (林惠洲) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Kaohsiung Medical College — B.S.Medical
+
+## Employment
+- Santa Ana, CA — present — urologist
+- Norwalk Hospital - Yale University — Residency , General Surgery
+- Tulane University — Residency , Urology
+- UMDNJ-University Hospital — Residency , General Surgery
+<!-- tah-tables:end -->
 
 ## Family
 

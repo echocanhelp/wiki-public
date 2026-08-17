@@ -21,6 +21,20 @@ last_reviewed: 2026-08-17
 
 Wen S. (Charlie) Chern 陳文雄 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- Univ. of Florida — 1969 — M.S., Agricultural Economics
+- UC Berkeley — 1975 — Ph.D., Agricultural Economics
+
+## Employment
+- Florida Department of Citrus — 1973 - 1974 — Economist
+- Oak Ridge National Laboratory — 1974 - 1981 — Economist and Group Leader
+- Lawrence Livermore National Laboratory — 1981- 1983 — Senior Economist and Planner
+- University of Maryland — 1983 - 1987 — Associate Professor and Professor
+- The Ohio State University — 1987 - 2007 — Professor
+- 中正大學 — 2007 - 2013 — Distinguished Research Professor
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 李麗芳

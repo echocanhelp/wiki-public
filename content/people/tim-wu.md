@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Listed by Politico as one of the 50 most influential figures in American politics
 
+<!-- tah-tables:start -->
+## Education
+- McGill Univ. — 1995 — B.S., Biophysics
+- Harvard Law School — 1998 — J.D.
+
+## Employment
+- U.S. Supreme Court — Assistant to Justice Stephen Breyer — (1999-2000) — University of Virginia School of Law — Associate Professor — (2002-2004) — Columbia Law School — Visiting Professor — (2004-) — Columbia Law School — Professor — (2006-) — Chicago Law School — Visiting Professor — (2005-) — U.S. Federal Trade Commission — Senior Advisor — (2011-2012) — White House National Economic Council — Special Assistant for Technology and Competition Policy
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Kate Judge

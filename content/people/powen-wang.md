@@ -22,6 +22,11 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of Taiwanese Association of America, Greater Philadelphia Chapter (大費城台灣同鄉會會長) 1988-1989, 2004
 
+<!-- tah-tables:start -->
+## Education
+- Univ. of Mass. Amherst
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 陳智惠

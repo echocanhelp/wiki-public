@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Thomas C.T. Chiu (邱智正) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台北醫學大學 — Year??? — B.S.
+
+## Employment
+- 布魯克林醫院 — 大腸宜腸外科專科醫師
+- 美國外科學院 — 大腸宜腸外科專科醫師
+- 衛理工會醫院(Methodist Hospital)。 — 住院醫師
+<!-- tah-tables:end -->
 
 ## Family
 

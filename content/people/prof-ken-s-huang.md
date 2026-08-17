@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Master of Arts (MA), Drawing, School of Art and Art History, University of Iowa, 1972
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Normal Univ. — 1960 — B.A., Art
+- Univ. of Iowa — 1973 — M.A., MFA., Art
+
+## Employment
+- Memphis State University, TN — Professor — (1973-2004) — University of Memphis, Art Department — Associate Professor — (1973-2004) — State Technical Institute at Memphis, College of Computer Technology, Computer Graphics Art Department — Adjunct Faculty — (1995-2002) — Community — Formosan Association For Human Rights (台灣人權協會) — President — NATPA/S. CA (北美洲台灣人教授協會南加州分會) — President — Taiwanese American Conference / West Coast (美西夏令會) — Coordinator
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Chris Wang

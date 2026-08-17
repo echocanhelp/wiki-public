@@ -22,6 +22,11 @@ last_reviewed: 2026-08-17
 Employment
 1. The Emerging Technologies Cooperative, Inc. Menlo Park, California, USA
 
+<!-- tah-tables:start -->
+## Employment
+- The Emerging Technologies Cooperative, Inc. Menlo Park, California, USA — Managing Director
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, physician
 - **Source:** TAH Foundation Who’s Who
 
-Walter Dunn (陳梧水醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 加大柏克萊分校 — 2002 — B.S.傳染病學
+- 加大柏克萊分校 — M.S.
+- 加大柏克萊分校 — 2005 — Ph.D. 分子生物學
+
+## Employment
+- UCLA Neuropsychiatric Hospital — 2014- — Psychiatry
+<!-- tah-tables:end -->
 
 ## Family
 

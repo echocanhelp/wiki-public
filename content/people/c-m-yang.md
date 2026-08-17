@@ -21,6 +21,11 @@ last_reviewed: 2026-08-17
 
 Founded the Formosa Club of Eastern US (美東福爾摩莎俱樂部), the predecessor organization to the Taiwanese American Association of New York (TAA NY)
 
+<!-- tah-tables:start -->
+## Education
+- 台南工學院肄業
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Son:** Keimay

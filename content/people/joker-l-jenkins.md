@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Joker L. Jenkins (簡傑克) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 美國海軍官校 — 1989 — B.S.電機工程
+- 海軍作戰學院 — M.S.國家安全與戰略研究
+
+## Employment
+- 埃塞克斯號兩棲攻擊艦（USS Essex）海軍上校 — 2012 — 艦長
+- 巡防艦(又稱護衛艦)「蓋里號」(USS Gary) — 2006 — 艦長
+- 「斯普魯恩級」戰艦 — 2003 — 艦長
+- 太平洋艦隊核子動力訓練隊 — 隊長
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Ian Lin (林毅安) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 交通大學 — 2003 — B.S. computer science
+- Stanford University — 2007 — MS. Computer science — year
+
+## Employment
+- Two Sigma Investments — 2016-present — VP of product
+- Two Sigma Investments — 2014-present — Product management
+- Bongo Labs Inc. — 2014-present — Co-founder & ceo
+- Mirosoft — 2012-2014 — Principal program manager lead
+<!-- tah-tables:end -->
 
 ## Family
 

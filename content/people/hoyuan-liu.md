@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Hoyuan Liu (劉和元) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1951-1955 — B.S., Phytopathology — 1957-1959 — M.S., Phytopathology
+- Univ. of Illinois-Urban Champaign — 1965-1969 — Ph.D., Phytopathology
+
+## Employment
+- JCRR (農復會) — Pest Specialist — (1959-1973) — National Taiwan Univ. — Professor — (1969-1973) — Univ. of Illinois-Urbana Champaign — Research Associate — (1973-1986)
+<!-- tah-tables:end -->
 
 ## Family
 

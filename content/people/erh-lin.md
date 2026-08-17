@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 美國休士頓藝術奧運特別頒發『音樂大師終身成就獎』2005 (Houston Arts Olympics Special Lifetime Achievement Award for Music Maestro, 2005)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.S., 電機
+- North Western Univ. — M.A., Music
+- Univ. of Illinois — Ph.D., Music
+
+## Employment
+- I.B.M.
+- Fairchild Semi Conductor
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Marjorie

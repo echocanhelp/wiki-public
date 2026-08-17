@@ -10,7 +10,7 @@ tags:
   - taiwanese-american-org
 verification_status: pending
 featured: true
-last_reviewed: 2026-07-19
+last_reviewed: 2026-08-17
 ---
 # Ho Chie Tsai (蔡和杰)
 
@@ -49,6 +49,15 @@ Ho Chie is a **board-certified pediatrician** on staff at the **UCSF Benioff Chi
 - **Content priority A:** Contains biographical narrative including professional career and community involvement
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Note:** The full text includes detailed biographical information including education, professional career, and community involvement.
+
+<!-- tah-tables:start -->
+## Education
+- University of Illinois at Chicago, IL — M.D.
+
+## Employment
+- Children's Hospital Oaklan — ‎Pediatrician
+- Research Center of Oakland — ‎Pediatrician
+<!-- tah-tables:end -->
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ho-chie-tsai/)

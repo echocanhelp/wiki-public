@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-%E6%9D%8E%E6%B3%B0%E9%9B%84 (李泰雄筆名) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — M.D.
+
+## Employment
+- 臺大醫院 — 醫師
+- Univ. of Kentucky College of Medicine — Professor
+- UCLA — Professor
+<!-- tah-tables:end -->
 
 ## Family
 

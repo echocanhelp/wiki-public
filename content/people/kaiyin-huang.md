@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 Kaiyin Huang is an trained pianist and one of the contributing artists of 88 Concert Tours, a program that invests in various musical humanitarian projects around the world. Since 2008, 88 Concert Tours have visited Thailand, Tunisia, Turkey, and Egypt, and have hosted concerts in Cairo Opera House. In 2014, Kaiyin and 88 Concert Tours held the first ever music festival in Yangon, Myanmar, the Myanmar International Music Festival, that brought international musicians together with Myanmar’s.
 
+<!-- tah-tables:start -->
+## Education
+- 茱莉亞音樂學院 — B.S. Music
+- 耶魯研究所 — M.S. Music
+- 約州立大學石溪分校 — 2012 — Ph.D. Music
+
+## Employment
+- 耶魯大學音樂系 — 鋼琴教學助理
+- 紐約州立大學音樂系 — 室內樂教學助理
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

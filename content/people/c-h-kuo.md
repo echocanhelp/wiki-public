@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 University of Illinois Urbana-Champaign, Department of East Asian Studies
 Assistant Professor
 
+<!-- tah-tables:start -->
+## Education
+- 紐約大學（NYU）歷史系 — Ph.D.
+
+## Employment
+- 伊利諾伊大學Urban-Champaign分校東亞研究系 — 助理教授
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 曾齡儀

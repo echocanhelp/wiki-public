@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 Dr. Tzu-Hsing (April) Kuo 郭姿杏博士 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.S., Public Health
+- National Yang Ming Univ. — M.S., Microbiology and Immunology
+- Univ. of Medicine and Dentistry of New Jersey — 2005-2010 — Ph.D., Biological and Biomedical Sciences
+- Rutgers Univ. — 2005-2010 — Ph.D., Biological and Biomedical Sciences
+
+## Employment
+- Univ. of Pennsylvania — Postdoctoral Researcher — (2010-2013) — Brigham and Women's Hospital & Harvard Medical School — Postdoctoral Research Fellow — (2013-2015) — Acceleron Pharma — Senior Scientist — Community — Boston Taiwanese Biotechnology Association (波士頓台灣人生物科技) — President
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

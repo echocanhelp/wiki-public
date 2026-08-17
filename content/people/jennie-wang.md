@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Jennie Wang (林靜娥) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 師範大學 — 1969-1973 — BS 歷史系
+
+## Employment
+- Florida Land Sale — Sale Manager — Helena Art Design — AD design & Business Card design & printing — Eastern Pioneer Mortgage Co. — Branch office manager — Fortune Mortgage Co. — Loan Officer — (-2004) — Community — 芝加哥同鄉會 — 參與 — 芝加哥文化促進會 — 參與 — 芝加哥美麗島文化社 — 參與 — FAPA — 參與
+<!-- tah-tables:end -->
 
 ## Family
 

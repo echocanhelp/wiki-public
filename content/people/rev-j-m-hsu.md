@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Co-founder and First President of Formosan Outreach Mission (北美宣道會), 1983
 
+<!-- tah-tables:start -->
+## Education
+- Taiwan Theological College and Seminary (台灣神學院) — 1965 — B.S., Theology
+- Union Theological Seminary (New York) — 1971 — M.S., Theology
+- Princeton Theological Seminary — 1972 — M.S., Theology
+
+## Employment
+- Presbyterian Church in the United States — Pastor — (1972-1973) — Formosan Presbyterian Church in Los Angeles — First Pastor — (1973-1979) — Reformed Church in America — Pioneer Priest — (1985-) — Fair Lawn Community Church (新澤西台灣歸正教會) — First Pastor — (1986-1988) — Community — Formosan Outreach Mission (北美宣道會) — Co-founder and First President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 李素美

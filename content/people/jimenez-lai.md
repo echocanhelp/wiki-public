@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 1. 2014 Collected by Museum of Modern Art, New York City2. 2012年獲頒美國傑出年輕建築師的建築聯盟獎 （Architectural League Prize for Young Architects）
 
+<!-- tah-tables:start -->
+## Education
+- 多倫多大學 — 2006 — 建築碩士
+
+## Employment
+- UCLA2. 芝加哥伊利諾大學 — 20142008-2014 — Lecturer助理教授
+- Bureau Spectacular建築事務所 (http://bureau-spectacular.net/) — 2008 — 創辦人
+- Rem Koolhaas之OMA鹿特丹總部 — 2007 — Junior Architect
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Joanna Grant

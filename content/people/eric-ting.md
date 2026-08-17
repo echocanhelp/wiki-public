@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 4. Was recognized on the occasion of American Theatre magazine’s 25th Anniversary as one of 25 forward-thinking artists
 
+<!-- tah-tables:start -->
+## Education
+- West Virginia Univ. — B.S., Biochemistry
+
+## Employment
+- Long Wharf Theatre — Associate Artistic Director — California Shakespeare Theater — Artistic Director
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** [[people/meiyin-wang|王美尹]]

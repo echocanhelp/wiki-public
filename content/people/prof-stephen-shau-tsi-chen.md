@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Prof. Stephen Shau-tsi Chen 陳紹紀教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1959 — M.D.
+- Univ. of Wisconsin — 1968 — Ph.D.
+
+## Employment
+- University of Wisconsin — Instructor / Assistant Professor — (1968-1975) — University of New York — Assistant Professor — (1975-1978) — University of Pittsburgh — Assistant Professor — (1978-1980) — University of Washington, Seattle — Assistant Professor — (1981-1986) — VA Hospital, American Lake — Chief Mental Health Clinic — (1981-1985) — Community — Seattle Taiwanese Center — Co-founder — Seifu Garden — Co-founder
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Clara Liu Chen (劉真真)

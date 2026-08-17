@@ -22,6 +22,18 @@ last_reviewed: 2026-08-17
 Accomplishment
 A recipient of Alexander C. Williams, Jr Award from Human Factors and Ergonomics
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.S in Psychology
+- SUNY /Buffalo — M.S in Industrial Engineering
+- SUNY /Buffalo — Ph.D in Human Cognition
+
+## Employment
+- Rensselaer Polytechnic Inst. — Associate Prof.
+- AT&T Labs — Technical Staff
+- Telcordia — Senior Usability Engineer
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 李秀治

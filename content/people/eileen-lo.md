@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Eileen Lo (Accompanist). Ms. Eileen Lo, a graduate of the Chinese Culture University in Taipei, studied piano with Dr. Scholz and Prof. Fujita. She was the piano accompanist for the Music Department Chorus. She continued her studies in piano pedagogy at the Mississippi University for Women and received a M.S. degree in Music Education. She also studied piano performance with Prof. Leo Steffen at the University of Wisconsin-Madison. She taught private lessons and was a member of the Music Teachers National Association and the National Guild of Piano Teachers. She serves as accompanist for both the NTUA-DC Chorus and the Tung-Hsin Chorus. Ms. Lo works for the US Nuclear Regulatory Commission.
 
+<!-- tah-tables:start -->
+## Education
+- 文化大學 — B.S. 音樂系
+- 密西西比女子州立大學 — M.S. 音樂教育
+
+## Employment
+- 美國核能審核委員會 — Present
+- 臺大校友合唱團和童心合唱團 — 鋼琴伴奏
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

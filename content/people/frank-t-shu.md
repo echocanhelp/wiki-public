@@ -19,7 +19,12 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Frank T. Shu (許子津) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Employment
+- 美浮石油公司 — 副總經理
+- Cal. State — 教授
+<!-- tah-tables:end -->
 
 ## Family
 

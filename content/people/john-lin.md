@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-John Lin (林榮勳) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S. 政治
+- 費城賓州大學 — M.S.
+- 費城賓州大學 — 1960 — Ph.D.
+
+## Employment
+- 紐約州立大學紐保茲 (New Paltz) — Professor
+- 紐約州立大學紐保茲 (New Paltz) — 政治系主任
+<!-- tah-tables:end -->
 
 ## Family
 

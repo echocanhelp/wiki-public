@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Prof. Albert B. Jeng 鄭博仁教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.S., Electrical Engineering
+- Univ. of Idaho — M.S., Electrical Engineering
+- Univ. of Maryland — Ph.D., Electrical Engineering
+
+## Employment
+- Howard Univ. — Adjunct Assistant Professor — (1982-1986) — The Johns Hopkins Univ. — Adjunct Faculty — (1986-1996) — Jinwen Univ. of Science and Technology — Professor — (2006-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

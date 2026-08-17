@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, educator
 - **Source:** TAH Foundation Who’s Who
 
-Mei Liu (洪梅) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1953-1957 — B.S., Chemistry
+
+## Employment
+- National Taiwan Univ. — Teaching Assistant, Lecturer — (1961-1965)
+<!-- tah-tables:end -->
 
 ## Family
 

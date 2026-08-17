@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Rev. Edward Bin Tanng 陳黃義敏牧師 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1963 — B.S.
+- Tainan Theological Seminary — M.S., Divinity
+- Michigan State Univ. — Ph.D., Mass Communication
+
+## Employment
+- Memphis State Univ. — Professor — Loyola University — Professor — Formosan Presbyterian Church in Los Angeles — Pastor — (1988-1991) — Chang Jung Christian Univ. — Professor — (1994-1997)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Jane (Liu) Tanng (陳劉碧雲)

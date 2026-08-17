@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Medical College, Virginia Commonwealth University / Massey Cancer Center
 Assistant Professor of Medicine
 
+<!-- tah-tables:start -->
+## Education
+- China Medical University of Taiwan — 1980 — M.D.
+- M.S., Pathology, University of Wisconsin — 1982 — M.S.
+
+## Employment
+- Cancer and Specialty Care Center — Medical Director
+- Medical College — Virginia Commonwealth University/Massey Cancer Center — Assistant Professor of Medicine
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

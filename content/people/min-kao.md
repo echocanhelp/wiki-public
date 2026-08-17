@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Min Kao (高民環博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan University — B.S. in Electronic Engineering
+- University of Tennessee, Knoxville — M.S. and Ph.D. in Electronic Engineering
+
+## Employment
+- Allied Signal
+- Garmin Group — 1989- — 創辦人、董事長與執行長
+<!-- tah-tables:end -->
 
 ## Family
 

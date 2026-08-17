@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Jen-Tzaw Huang (黃健造博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- The University of Texas, at Houston — year — Ph.D. Biomedical Sciences
+
+## Employment
+- 1.
+<!-- tah-tables:end -->
 
 ## Family
 

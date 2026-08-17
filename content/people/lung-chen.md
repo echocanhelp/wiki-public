@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 3. President of Taiwanese Association of America / Los Angeles Chapter(洛杉磯台灣同鄉會會長) 1974
 
+<!-- tah-tables:start -->
+## Education
+- B.A., Music
+- M.A., Music
+
+## Employment
+- Coldwell Banker — Agent — Community — Taiwanese Association of America / Los Angeles Chapter (洛杉磯台灣同鄉會) — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 蔡玲理

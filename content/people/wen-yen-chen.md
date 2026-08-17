@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Wen Yen Chen (陳文彥教授) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S. 心理系
+- 紐約州立大學 — Ph.D.心理學
+
+## Employment
+- 華府美京大學 — 心理系教授,系主任,文理學院院長
+<!-- tah-tables:end -->
 
 ## Family
 

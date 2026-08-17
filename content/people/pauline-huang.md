@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Pauline Huang (黃百齡) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Providence Univ. (靜宜大學) — 1987 — B.S., Business
+- Pace Univ. — 1988- — M.S., Accounting
+
+## Employment
+- Queens Botanical Garden — Chairman — (2016-)
+<!-- tah-tables:end -->
 
 ## Family
 

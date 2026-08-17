@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-H. J. Andrew Wang (王惠鈞) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S. 化學
+- 台灣大學 — M.S. 化學
+- 伊利諾大學 — 1947 — Ph.D. 化學
+
+## Employment
+- 麻省理工學院 — 1974-1988 — Research
+- 伊利諾大學生命科學院 — 1988-2000 — 生物物理教授
+- 中央研究院生物化學研究所 — 2000- — 所長
+<!-- tah-tables:end -->
 
 ## Family
 

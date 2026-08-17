@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Wei-Ling Chen (b.1981), a Taiwanese composer, has composed for a variety of media including orchestra, various chamber ensembles, solo works, choir, theatrical works, and electroacoustic works. She has received her Doctoral of Musical Arts in Music Composition from the Michigan State University. She also holds Master of Music in Music Composition from the University of Houston, and Bachelor of Music Education from Taipei Municipal University of Education.
 
+<!-- tah-tables:start -->
+## Education
+- 台北市立教育大學 — 2003 — B.S. Music
+- 美國休士頓大學 — 2005 — MS. 理論作曲
+- 密西根州立大學 — 2010 — Ph.D. 理論作曲
+
+## Employment
+- Houston Taiwan Institute for Senior Citizen — Music Instructor — Michigan State University — Music Instructor — Community — Musique 21 (New music ensemble at Michigan State University) — Commissioned Composer — Taiwanese Association in America — Commissioned Composer — Grace Taiwan Presbyterian Church — Commissioned Composer/Arranger
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

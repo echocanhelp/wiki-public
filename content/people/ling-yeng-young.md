@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician, artist, educator
 - **Source:** TAH Foundation Who’s Who
 
-Ling-Yeng Young (陳玲瑛) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台北護理健康大學 — 1969 — 健康大學護理教育
+
+## Employment
+- 世界新聞專科學校教授公共衛生及護理
+- 亞東工專教授公共衛生及護理
+- Grace Plaza Nursing & Care Center N.Y.
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -23,6 +23,16 @@ Houston Offshore Engineering, etc.
 Senior Staff Engineer to Engineering Consultant
 (2001-2014)
 
+<!-- tah-tables:start -->
+## Education
+- Taipei Institute of Technology — 1956 — 土木工程
+- Rice University — 1965 — M.S., 土木工程
+
+## Employment
+- Brown & Root, Inc. — 1964- 2000 — Senior Draftsman to Senior Staff Engineer
+- Houston Offshore Engineering, etc. — 2001- 2014 — Senior Staff Engineer to Engineering consultant
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 謝清實

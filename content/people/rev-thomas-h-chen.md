@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Rev. Thomas H. Chen (陳宏文牧師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Taiwan Theological College and Seminary (台灣神學院) — 1971 — B.S., Theology
+
+## Employment
+- Evangelical Formosan Church of the Twin Cities (明州雙福基督教會) — Pastor — TPC (南加州台灣人基督長老教會聯合會) — Chairman — (2005-) — Taiwanese Presbyterian Church in South Bay (南灣長老教會) — Pastor — (1989-2009)
+<!-- tah-tables:end -->
 
 ## Family
 

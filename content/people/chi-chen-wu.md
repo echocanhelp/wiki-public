@@ -21,6 +21,18 @@ last_reviewed: 2026-08-17
 
 Active in performing, recording, teaching and research, pianist Chi-Chen Wu is equally at home in the worlds of contemporary and classical music as well as historical performance practice.
 
+<!-- tah-tables:start -->
+## Education
+- 國立師範大學 — B.S. 音樂系
+- 美國新英格蘭音樂院 — M.S. 音樂系
+- 美國新英格蘭音樂院 — Ph.D.音樂系
+
+## Employment
+- 美國懷俄明大學鋼琴 — Present — 專任助理教授
+- 美國賓州Susquehanna 大學音樂系 — 專任助理教授
+- 康乃爾大學 — Teaching
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

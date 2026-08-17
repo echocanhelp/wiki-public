@@ -21,6 +21,19 @@ last_reviewed: 2026-08-17
 
 Using a decidedly contemporary language of diverse harmonic color, inventive timbre and ingenious effects, award-winning composer Yu-Hui Chang (b. 1970) has written a wide range of music that compels and resonates with professional musicians and audiences alike. She is the recipient of fellowships from the Guggenheim Foundation, the American Academy of Arts and Letters, Radcliffe Institute at Harvard University, and commissions from the Fromm Music Foundation, Koussevitzky Music Foundation, Barlow Endowment for Music Composition, and Meet The Composer (now New Music USA). Additional honors include the Aaron Copland Award, Yoshiro Irino Memorial Prize from the Asian Composers’ League, and the Council for Cultural Affairs of the Executive Yuan (Taiwanese government agency, now Ministry of Culture.)
 
+<!-- tah-tables:start -->
+## Education
+- 台灣師範大學 — B.S.
+- 波士頓大學 — M.S. Musician
+- Brandeis大學 — Ph.D. Musician
+
+## Employment
+- Brandeis大學音樂系及音樂研究所 — Present — 主任及專任副教授
+- Dinosaur Annex現代室內樂團 — 2010- — 藝術總監
+- 美國加州大學Davis分校 — Teaching
+- Empyrean現代室內樂團 — 總監
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

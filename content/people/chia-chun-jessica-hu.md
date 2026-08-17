@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Antioch University New England
 M.S. Dance/Movement Therapy (DMT) and Psychology Counseling
 
+<!-- tah-tables:start -->
+## Education
+- Antioch University New England — M.S.Dance/Movement Therapy (DMT) and Psychology Counseling — Year??? — Year???
+
+## Employment
+- Residential Care& Rehabilitation Center in Brooklyn — 2010-present — Licensed creative Arts therapist and dance/movement therapist
+- Expressive Arts Teacher
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

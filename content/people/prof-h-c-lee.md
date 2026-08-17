@@ -23,6 +23,15 @@ City Univ. of New York
 Professor of History and Head of the Dept. of Asian Studies
 (1991-)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1968 — B.S., History
+- Yale Univ. — 1974 — Ph.D.
+
+## Employment
+- City Univ. of New York — Professor of History and Head of the Dept. of Asian Studies — (1991-) — National Taiwan Univ. — Chair Professor — (2003-2005)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

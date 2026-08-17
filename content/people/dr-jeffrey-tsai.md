@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Jeffrey Tsai (蔡長宗醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Kaohsiung Medical Univ. — M.D.
+
+## Employment
+- Jeffrey C. MD — Urologist — (1979-) — New York U Buffalo — Clinical Professor — Community — NATMA South CA Chapter — President — White Eagle Forum (白首老鷹論壇) — Founder
+<!-- tah-tables:end -->
 
 ## Family
 

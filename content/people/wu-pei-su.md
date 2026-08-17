@@ -19,7 +19,21 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Wu-Pei Su (蘇武沛) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1968-1972 — B.S. Mathematics
+- National Taiwan Univ. — 1972-1974 — M.S. Mathematics
+- Univ. of Pennsylvania — 1976-1981 — Ph.D. Theoretical Solid State Physics
+
+## Employment
+- Univ. of CA at Santa Barbara — 1981-1982 — Research Associate
+- Univ. of Illinois at Champaign-Urbana — 1982-1985 — Research Associate
+- Univ. of Houston — 1985-1990 — Assistant Professor
+- Univ. of Houston — 1990-1996 — Associate Professor
+- Ohio State Univ. — 1991-1992 — Visiting Associate Professor
+- Univ. of Houston — 1996- — Professor
+<!-- tah-tables:end -->
 
 ## Family
 

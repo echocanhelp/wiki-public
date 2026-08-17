@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Neil A. Armstrong Distinguished Professor Emeritus of Aeronautics and Astronautics, Purdue Univ. 1968-2018
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1962 — B.S., Civil Engineering
+- Northwestern Univ. — 1965 — M.S. Theoretical and Applied Mechanics
+- Northwestern Univ. — 1967 — Ph.D.
+
+## Employment
+- Dept. of Aerospace, Purdue University — Professor — Community — North America Taiwanese Professors' Association (北美洲台灣人教授協會) — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Iris

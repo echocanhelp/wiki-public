@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Univ. of Washington School of Medicine, Seattle, USA
 Professor of Pathology; Director, Gastrointestinal and Hepatic Pathology Program
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. College of Medicine — 1989 — M.D.
+- Univ. of Pennsylvania — Ph.D., Cellular and Molecular Biology
+
+## Employment
+- Univ. of Washington School of Medicine, Seattle, USA — Professor of Pathology; Director, Gastrointestinal and Hepatic Pathology Program — UW Medical Center — Anatomical pathologist
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

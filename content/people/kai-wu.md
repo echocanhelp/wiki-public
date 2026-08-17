@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 台裔青年鋼琴家吳開智(Kai Wu)於993年在洛杉磯加大(UCLA) Royce Hall與美國青年交響樂團(American Youth Symphony)合作，演出俄國曠世奇才柴可夫斯基的第一號降B小調鋼琴協奏曲，以及色蕾舞「天鵝湖」裡的數首組曲。此項演奏會是爲紀念柴可夫斯基百歲誕辰所舉行的一連串音樂活動之一。吳開智擔任鋼琴獨奏。
 
+<!-- tah-tables:start -->
+## Education
+- Crossroads School of the Arts and Sciences
+
+## Employment
+- American Youth Symphony — Piano Soloist — (1993-1993)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

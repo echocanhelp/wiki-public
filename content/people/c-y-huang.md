@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-C.Y. Huang (黃清燕) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Taipei First Girl High School
+- UCLA — 1966 — M.A., Psychology
+
+## Employment
+- SUNY-Binghamton — Research Associate — Susquehanna Resources and Environment, Inc (SRE) — President — (1978-) — Community — FAPA NY-M chapter — President — GTI — Co-founder — Innovator Group in NYC (Democrat) — Member — Pen Club Board — Member
+<!-- tah-tables:end -->
 
 ## Family
 

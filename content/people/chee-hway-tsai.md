@@ -24,6 +24,14 @@ Proctor and Gamble (Research and Project Development)
 1981-1989
 Research Scientist, Group Leader
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan University — 1971 — BS/Agricultural Chemistry — Texas Tech University — 1977 — MS/Chemistry — Cornell University — 1981 — PhD/Food Science & Chemistry
+
+## Employment
+- Proctor and Gamble (Research and Project Development) — 1981-1989 — Research Scientist, Group Leader — Proctor and Gamble (R&D Asia) — 1990-1999 — Section Head, Associate Director, Director — Proctor and Gamble (Corporate Research and Development Department) — 1999-2007 — Director
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

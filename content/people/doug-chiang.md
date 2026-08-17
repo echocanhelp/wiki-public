@@ -21,6 +21,19 @@ last_reviewed: 2026-08-17
 
 4. Named "100 of the Most Influential Asian Americans of the Decade" by A.Magazine: Inside Asian America, 1999
 
+<!-- tah-tables:start -->
+## Education
+- Center for Creative Studies, College of Art and Design, Detroit — 1982 — industrial design
+- University of California at Los Angeles (UCLA) — Film Production
+
+## Employment
+- William D. Ford Vocational/Technical Center Michigan — 1982 — Teaching Assistant
+- UCLA Daily Bruin — 1984 — Art Director
+- Universal Pictures — 1989 — concept designer
+- Industrial Light and Magic (ILM) — 1989; 1993 — Visual Effects Art Director; Creative Director
+- Doug Chiang Studio — 2000 — Founder
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Son:** Jake Chiang

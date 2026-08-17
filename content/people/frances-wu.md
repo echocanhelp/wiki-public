@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Frances Wu is a native of Taiwan. She has been studying vocal with the famous vocalist, Professor L.P. Ong since 1984. Ms. Wu has won many awards in vocal competition and appeared as mezzo-soprano soloist in oratorio performances in the Southland. She has received her B.S. degree in Biostatistics from UCLA. Currently, she is working at a local hospital.
 
+<!-- tah-tables:start -->
+## Education
+- UCLA — B.S. 生物統計系
+
+## Employment
+- Local hospital
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

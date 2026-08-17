@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Heng-Liong Lin (林興隆) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- UnitedTheological Seminary, Miniapolis, MN — M.S.
+- Christian Theological Seminary, Indianapolis, IN — Ph.D.
+
+## Employment
+- Drew University Madison, NJ
+- SMU Dallas, TX
+<!-- tah-tables:end -->
 
 ## Family
 

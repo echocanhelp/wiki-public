@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Fellow of the Society for Information Display (榮獲國際資訊顯示學會院士), 2001
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.S., Physics
+- Univ. of Notre Dame du Lac (印地安那州聖母大學) — M.S., Physics
+- Berkley Univ. — Ph.D., Physics
+
+## Employment
+- GE (奇異研發中心) — Researcher — (1973-1979) — IBM — Senior Researcher — (1979-2000) — Hannstar Display Corporation (瀚宇彩晶股份有限公司) — Deputy General Manager — (2000-2008)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** [[people/nancy-yang|陳玲銖]]

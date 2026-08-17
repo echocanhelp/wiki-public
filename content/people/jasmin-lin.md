@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Jasmin Lin (林允白) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Curtis Institute — B.S. Music
+
+## Employment
+- Roosevelt University — Teaching
+<!-- tah-tables:end -->
 
 ## Family
 

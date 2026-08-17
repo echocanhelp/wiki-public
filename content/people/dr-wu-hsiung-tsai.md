@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Founder and president of the Center for Taiwan International Relations
 
+<!-- tah-tables:start -->
+## Education
+- Florida State Univ. — M.S., Library Science
+- Univ. of Chicago — 1970 — Ph.D., Library Science
+
+## Employment
+- Cornell University Library — Library Specialist — (1966-) — Princeton University Library — Federal Government Library of Congress
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

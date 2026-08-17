@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Richard Chen (陳重光舊名) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 日本早稻田大學 — 1969 — B.S. 電氣通信系
+- Columbia Univ. in the City of New York — 1971 — M.S. 工業研究
+
+## Employment
+- 紐約某電腦公司工程師 — 1973-78 — 工程師
+<!-- tah-tables:end -->
 
 ## Family
 

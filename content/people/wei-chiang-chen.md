@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 1The 3rd prize in Entrepreneurship Competition, Asia-Pacific Economic Cooperation, 2004
 
+<!-- tah-tables:start -->
+## Education
+- 成功大學 — 2005 — B.S. Science,Chemical Engineering
+- University of Florida — 2008 — M.S.Chemical Engineering
+- Johns Hopkins University — 2014 — Ph.D.Chemical and Biomolecular Engineering
+
+## Employment
+- ImmunoGen, Inc. — present — Scientist
+- Biogen — scientist
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

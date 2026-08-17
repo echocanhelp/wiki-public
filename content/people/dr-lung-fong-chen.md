@@ -22,6 +22,17 @@ last_reviewed: 2026-08-17
 Publication(Non-professional)
 1. State Succession Relating to Unequal Treaties (Hamden, Connecticut, U.S.A., Archon Books, 1974)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.S. Law
+- Univ. of Pennsylvania — M.S. Law
+- New York Univ. — M.S. Law
+- New York Univ. — Ph.D. Juridical Science
+
+## Employment
+- Lawyer — Community — TAA New York Chapter (紐約台灣同鄉會) — President — New York Taiwan Center (台灣會館) — Co-Founder and President — Taiwanese American Arts Council — Co-Founder and President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Yue-Juan Guo(郭玥娟)

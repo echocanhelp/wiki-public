@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Well-Known Chef for Taiwanese Dishes and Snack Foods and Voluntarily Supply Those Taiwanese Foods to T.A. Community in Great D.C. Areas During His Retirement Years
 
+<!-- tah-tables:start -->
+## Education
+- Univ. of Michigan — 1967 — M.S., Public Health
+- Univ. of Michigan — 1972 — Ph.D., Epidemiological Science
+
+## Employment
+- Univ. of Lowell — Research Foundation Biochemist — (1976-1995) — Biomedical Research Institute — Biochemist Researcher — (1995-2012) — Community — Taiwanese American Association of Great D.C. Areas — Board of Directors (2002-2003) — Washington D.C. Taiwan School — Volunteer Teacher of Japanese Language — Taiwan Youth Art Foundation in D.C. Area — Outstanding Service Award recipient (2002-2003)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 溫素娥

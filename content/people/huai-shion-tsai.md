@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Huai-Shion Tsai was born in Tainan, Taiwan in 1947. She graduated from the National Taiwan Academy of Arts in 1968. She also studied Fine Arts at the University of California at Irvine. Huai-Shion has had numerous solo exhibitions, including exhibitions at the Taipei Fine Art Museum, Taiwan Museum of Art, J. P. Art Center, American Cultural Center and Tainan Cultural Center. Her paintings have also been shown in numerous group exhibitions in the United States, Japan and Taiwan.
 
+<!-- tah-tables:start -->
+## Education
+- 台灣國立藝專 — 1968 — 美工科
+- UCI — 1984
+- Irvine Valley College
+
+## Employment
+- Artist — 1983
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** [[people/henty-chen|陳華山]]

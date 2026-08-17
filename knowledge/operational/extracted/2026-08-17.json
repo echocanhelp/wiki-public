@@ -1,8 +1,8 @@
 {
   "date": "2026-08-17",
   "standards_version": 8,
-  "total_findings": 28,
-  "total_pages": 11,
+  "total_findings": 22,
+  "total_pages": 8,
   "actions": [
     {
       "page": "people/cai-jinrong.md",
@@ -165,46 +165,6 @@
       "source": "content-analysis-queue"
     },
     {
-      "page": "people/rue-lin-hung.md",
-      "finding": "DESC_NO_TITLE_MENTION",
-      "finding_prefix": "DESC_NO_TITLE_MENTION",
-      "action": "Ensure the first paragraph mentions the page subject",
-      "detail": "The first paragraph should reference the person/organization this page is about.",
-      "playbook": "P8",
-      "priority": "medium",
-      "source": "content-analysis-queue"
-    },
-    {
-      "page": "people/rue-lin-hung.md",
-      "finding": "READABILITY_LONG_SENTENCES_36wps",
-      "finding_prefix": "READABILITY_LONG_SENTENCES",
-      "action": "Break up long sentences",
-      "detail": "Average words per sentence exceeds 30. Break up long sentences for readability.",
-      "playbook": "P8",
-      "priority": "medium",
-      "source": "content-analysis-queue"
-    },
-    {
-      "page": "people/tsaiyuan-terry-hsu.md",
-      "finding": "DESC_NO_TITLE_MENTION",
-      "finding_prefix": "DESC_NO_TITLE_MENTION",
-      "action": "Ensure the first paragraph mentions the page subject",
-      "detail": "The first paragraph should reference the person/organization this page is about.",
-      "playbook": "P8",
-      "priority": "medium",
-      "source": "content-analysis-queue"
-    },
-    {
-      "page": "people/tsaiyuan-terry-hsu.md",
-      "finding": "READABILITY_LONG_SENTENCES_32wps",
-      "finding_prefix": "READABILITY_LONG_SENTENCES",
-      "action": "Break up long sentences",
-      "detail": "Average words per sentence exceeds 30. Break up long sentences for readability.",
-      "playbook": "P8",
-      "priority": "medium",
-      "source": "content-analysis-queue"
-    },
-    {
       "page": "people/xie-changting.md",
       "finding": "LINKS_NO_RELATED",
       "finding_prefix": "LINKS_NO_RELATED",
@@ -261,26 +221,6 @@
       "action": "Add ## Related Pages section",
       "detail": "Add a Related Pages section with wikilinks ([[people/name|Name]]) to connected pages. Use first-mention convention.",
       "playbook": "P3",
-      "priority": "medium",
-      "source": "content-analysis-queue"
-    },
-    {
-      "page": "people/yuan-chen-li.md",
-      "finding": "DESC_NO_TITLE_MENTION",
-      "finding_prefix": "DESC_NO_TITLE_MENTION",
-      "action": "Ensure the first paragraph mentions the page subject",
-      "detail": "The first paragraph should reference the person/organization this page is about.",
-      "playbook": "P8",
-      "priority": "medium",
-      "source": "content-analysis-queue"
-    },
-    {
-      "page": "people/yuan-chen-li.md",
-      "finding": "READABILITY_LONG_SENTENCES_31wps",
-      "finding_prefix": "READABILITY_LONG_SENTENCES",
-      "action": "Break up long sentences",
-      "detail": "Average words per sentence exceeds 30. Break up long sentences for readability.",
-      "playbook": "P8",
       "priority": "medium",
       "source": "content-analysis-queue"
     }

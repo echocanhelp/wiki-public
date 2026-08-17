@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-S. L. Chen (陳晳憐博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Delware University — Ph.D.心理學
+
+## Employment
+- NJ心理輔導顧問
+<!-- tah-tables:end -->
 
 ## Family
 

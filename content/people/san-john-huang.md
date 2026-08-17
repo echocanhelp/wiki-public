@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 President and Chairman, Formosan Chamber of Commerce, Orange County
 
+<!-- tah-tables:start -->
+## Education
+- National Chung Hsing University — Bachelor of Law — Purdue University — MS/Biochemistry — Meiji University — Master of Law — California College of Law — Bachelor in Science of Law — California College of Law — JD
+
+## Employment
+- American Honda Motor Company — Princeton Holding — President and Chairman — To-Ei International — Vice president and managing director — Grand National Bank — Vice chairman
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Chen-Chuen Chang 張真純

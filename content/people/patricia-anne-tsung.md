@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Patricia Anne Tsung (曾毓安醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Wellesley College — B.S. 生物學
+- State University of New York at Stony Brook — M.D.
+
+## Employment
+- Physical Med/ RehabilitationKaiser Permanente physician — 物理復健科主治醫師 & Director
+<!-- tah-tables:end -->
 
 ## Family
 

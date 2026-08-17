@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-07-16
+last_reviewed: 2026-08-17
 ---
 # Steven Wu (吳尚誠)
 
@@ -28,6 +28,15 @@ last_reviewed: 2026-07-16
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/steven-wu/)
+
+<!-- tah-tables:start -->
+## Education
+- 台北工專 — B.S.
+- University of Kansas — Ph.D.電機工程
+
+## Employment
+- Kansas Black & Votech Consulting Firm
+<!-- tah-tables:end -->
 
 ## Family
 

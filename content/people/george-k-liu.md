@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-George K. Liu (劉寬平) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台南一中 — 1954
+- University of Pittsburgh — 1962 — 國際行政碩士
+
+## Employment
+- United Brand — 1978-1990 — President
+- 中華民國立法院 — 2005-2008 — 外交及僑務委員會 (立法委員)
+- 中華民國外交部 — 2007-2008 — 瑞士代表
+<!-- tah-tables:end -->
 
 ## Family
 

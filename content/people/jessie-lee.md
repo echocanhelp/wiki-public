@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Videographer and Instructional Technology Assistant at the Teaching, Learning & Technology Center
 
+<!-- tah-tables:start -->
+## Education
+- Univ. of California, Irvine — 2009-2012 — B.A., Film and Media Studies & Literary Journalism
+- UCLA — 2015-2019 — M.F.A., Film Directing
+
+## Employment
+- UC Irvine — Videographer and Instructional Technology Assistant at the Teaching, Learning & Technology Center — (2010-2012) — Fishbowl Films LLC — Assistant Editor, Office Manager — (2013-2016) — Freelance — Videographer, Camera Assistant, Director & Editor — (2012-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

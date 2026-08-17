@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Paul Hsu (徐紹欽) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 1密蘇里州立大學 — M.S.系統工業工程
+- 費城拉薩爾大學 — Ph.D. 工業管理
+
+## Employment
+- 「製造科技公司」（MTI） — present — President
+- Harris Corporatio — 工程師
+<!-- tah-tables:end -->
 
 ## Family
 

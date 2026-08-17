@@ -21,6 +21,11 @@ last_reviewed: 2026-08-17
 
 2. received fellowships from Kundiman, VONA/Voices, Djerassi , and the Community of Writer
 
+<!-- tah-tables:start -->
+## Employment
+- Poetry And Graphic Design
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

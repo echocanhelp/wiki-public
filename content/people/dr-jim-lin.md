@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 1. Univ. of Chicago Division of the Biological Sciences the Pritzker School of Medicine
 
+<!-- tah-tables:start -->
+## Education
+- Univ. of Chicago Division of the Biological Sciences the Pritzker School of Medicine — 1991 — M.D.
+- Univ. Of Chicago Medicine — Residency
+
+## Employment
+- Kaiser Permanente Vallejo Medical Center — Anesthesiologist
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** May Chiu (邱鈺琳)

@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
-Suing Wang (王淑英) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S. 農推系
+- 波士頓大學 — M.S. 幼兒教育
+- 紐澤西州立大學 — Ph.D.幼兒教育
+
+## Employment
+- 財團法人育合春教育基金會 — Present — 董事長
+- 全國教保產業工會 — Present — 創會理事長
+- 台灣非政府組織國際交流協會 — Present — 理事長
+<!-- tah-tables:end -->
 
 ## Family
 

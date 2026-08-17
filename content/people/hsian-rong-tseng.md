@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Prof. Hsian-Rong Tseng 曾憲榮教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- 東海大學 — B.S. 化學系
+- 台灣大學 — M.S. 化學系
+- 台灣大學 — Ph.D. 化學系
+
+## Employment
+- 美國加州大學洛杉磯分校 — 2014 — 副教授
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 1981 : 離開 Kennex 成立 Supro Sports Co. 進口批發各種運動袋如 Tennis, Ski, Golf, & Computer bags.
 
+<!-- tah-tables:start -->
+## Education
+- 輔仁大學 — 1968 — B.A., 外文系西班牙文組
+
+## Employment
+- Kennex Sports Corp. — 1976 — Founder member
+- Supro Sports Co. — 1981 — Founder member
+- 105 Meridien LLC. — 1991 — Founder member
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Dana 馮芳代

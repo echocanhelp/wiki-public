@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of Asian Pacific American Bar Association of Indiana 2018
 
+<!-- tah-tables:start -->
+## Education
+- Univ. of Michigan — 2002 — B.A., Economics
+- Valparaiso Univ. School of Law — 2005 — J.D.
+
+## Employment
+- Harrison & Moberly, LLP — Lawyer — Community — Asian Pacific American Bar Association of Indiana — President — Indianapolis Bar Foundation — Distinguished Fellow — Taiwanese American Foundation — General Counsel and Board Member — TaiwaneseAmerican.org — General Counsel and Board Member — Marion County Public Defender's Agency — Conflict Panel Member
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Father:** [[people/charles-huang|Charles Huang]]

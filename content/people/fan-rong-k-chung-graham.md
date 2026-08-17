@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Fan Rong K Chung Graham 金芳蓉 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1970 — B.S. Mathematics
+- University of Pennsylvania — 1972 — M.S. Mathematics
+- University of Pennsylvania — 1974 — Ph.D. Mathematics
+
+## Employment
+- UC San Diego — 1998- — professor — 2 University of Pennsylvania — 1995-1998 — professor
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Ronald Graham

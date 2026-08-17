@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Has been selected by the Consumers' Research Council of America as one of America's Top Plastic Surgeons 2006-2007
 
+<!-- tah-tables:start -->
+## Education
+- New York Univ. — B.S. Arts & Science
+- Icahn School of Medicine at Mount Sinai — M.D.
+
+## Employment
+- North Shore University Hospital (Manhasset, NY) — Attending plastic surgery physician — Long Island Jewish Medical Center (New Hyde Park, NY) — Attending plastic surgery physician — Forest Hills Hospital (Forest Hills, NY) — Attending plastic surgery physician — New York Hospital Queens (Flushing, NY) — Attending plastic surgery physician
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

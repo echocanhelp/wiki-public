@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Has significant research experiences in outcome measurement, quality of life, symptom management and late effect due to the illness and/or its treatment in chronic illness for both pediatric and adult populations.
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1988 — B.S., Rehabilitation Medicine
+- Univ. of Illinois, Chicago — 1992 — M.S., Occupational therapy — 1996 — Ph.D., Philosophy
+
+## Employment
+- Northwestern Univ. — Research Assistant Professor — (2000-2012) — Northwestern Univ. — Professor of Medical Social Sciences and Pediatrics — (2012-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

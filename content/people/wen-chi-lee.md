@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 2. Published Eight Hanji Books on Architecture and Music; Many Articles in Taiwanese American Newspapers, Newsletters, and Magazines
 
+<!-- tah-tables:start -->
+## Education
+- 實踐家專 — B.S. 營養科
+- University of Texas — M.S. 建築系,土木系
+
+## Employment
+- 美國聯邦陸軍工程處 — 結構工程師 — A Plus International Inc. — 1983 — General Manager
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** [[people/tony-chen|陳國洸]]

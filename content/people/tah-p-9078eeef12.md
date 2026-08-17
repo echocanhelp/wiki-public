@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 王惠津畢業於台灣實踐大學音樂系，是八十年代活躍於台灣聲樂界的歌唱家，舉辦過多場獨唱音樂會。18歲時，王惠津曾獲得全台灣區音樂比賽女聲獨唱冠軍，27歲時，王惠津再次獲得全台灣區音樂比賽女高音獨唱冠軍。
 
+<!-- tah-tables:start -->
+## Education
+- 台灣實踐大學 — B.S. 音樂系
+
+## Employment
+- 合唱團 — 指揮
+- 音樂學會 — 會長
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

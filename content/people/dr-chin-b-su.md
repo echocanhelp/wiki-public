@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Chin B. Su (蘇成彬教授) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Brandeis Univ. — 1979 — Ph.D., Condensed Matter Physics
+- National Tsinghua Univ. — 1970 — M.S., Physics
+- Chung-Yuan College — 1969 — B.S., Physics
+
+## Employment
+- Texas A&M University — Professor — (1987-) — Rockwell International — Group Leader — (1986-1987) — GTE Lab
+<!-- tah-tables:end -->
 
 ## Family
 

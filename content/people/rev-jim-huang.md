@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Rev. Jim Huang (黃景彬牧師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Univ. of Texas at Austin — B.S., Electrical Engineering
+- Princeton Theological Seminary — 2000 — M.Div.
+
+## Employment
+- Taiwanese Presbyterian Church of Washington (華府台灣基督長老教會) — Pastor — Taiwanese American Fellowship Presbyterian Church (台美團契長老教會) — Pastor
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** artist, educator
 - **Source:** TAH Foundation Who’s Who
 
-Shin-Ruh Liu (劉新祿) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台南師範藝術科畢
+
+## Employment
+- 民雄公學校 — 1926-1929 — 教師
+<!-- tah-tables:end -->
 
 ## Family
 

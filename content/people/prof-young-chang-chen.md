@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 Prof. Young-Chang Chen 陳榮昌教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Chung Hsing Univ. — 1957 — B.S. , Agricultural Chemistry (Biochemistry)
+- Univ. of Tokyo — 1964 — M.S., Agronomic Chemistry (Fermentation Chemistry)
+- UTAH — 1968 — M.A., Clinical Microbiology
+- USC — 1973 — Ph.D., Cell and Molecular Biology
+
+## Employment
+- Biological Sciences, Univ. of North Texas — Assistant Professor — (1976-1983) — Biological Sciences, Purdue Univ. Fort Wayne — Associate Professor — (1984-1988) — Clinical Sciences, San Francisco State Univ. — Associate & Visiting Professor — (1988-1992) — Community — North America Taiwanese Professors' Association / South California Chapter — President — TAA / San Diego Chapter — President — North America Taiwan Studies — Founder
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 廖幸蕙

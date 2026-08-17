@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, scientist
 - **Source:** TAH Foundation Who’s Who
 
-Walter M. Yang (楊茂嘉博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1963 — B.S., 機械
+- Northwestern Univ. — 1969 — Ph.D., Materials Science
+
+## Employment
+- Motorola Inc — 1985-2012 — Distinguish Member Technical Staff
+- Western Electric (AT&T) — 1979-1985 — Senior Engineer
+<!-- tah-tables:end -->
 
 ## Family
 

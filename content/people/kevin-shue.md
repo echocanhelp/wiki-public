@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Taiwanese-American violinist Kevin Shue, hailed by Anthony Tommassini of the New York Times as a “promising violinist with rich, full sound, true musical sensitivity and considerable techniques”, performs at venues across the United States and Asia. Mr. Shue began his musical studies at the age of five. He received his Bachelor of Arts in Violin Performance from Stony Brook University in 2006, studying under Pamela Frank and Ani Kavafian, and his Master of Music in Violin Performance from the Mannes College of Music in May of 2008 as a student of Hiroko Yajima. Additional teachers and mentors include Linda Cerone, Charles Castleman, Ronald Copes, Eugene Drucker, Philip Setzer, Stephen Rose, Ellen Jewett, and Sheila Reinhold.
 
+<!-- tah-tables:start -->
+## Education
+- Mannes College of Music — 2008 — B.S. Music
+
+## Employment
+- Stony Brook University Orchestra — Concertmaster — New Asia Chamber Music Society — Founding Member and Director of Education and Community Engagement — Children's Orchestra Society — Faculty — Great Neck Conservatory of Music — Faculty — Community — New Asia Chamber Music Society — Founding Member
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Ting-ing Lai (Okajima) 賴騰英 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- 清華大學 — B.S.化學
+- 台灣大學 — M.S.化學
+- Wayne State University — Ph.D.物理化學
+
+## Employment
+- Chemical Abstract Services
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Teng Lung Hsu (許登龍醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. College of Medicine — 1961 — M.D.
+- New York-Presbyterian Brooklyn Methodist Hospital — 1965-1966 — Residency
+- Brookdale University Hospital and Medical Center — 1966-1968 — Residency
+- Albert Einstein - Montefiore Medical Center — 1971-1972 — Residency
+
+## Employment
+- East Patchogue, NY — Endocrinologist; Diabetes & Metabolism — Community — Taiwan Mission Foundation (台灣宣教基金會) — Director
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Justin Lai (賴正雄) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1963 — B.A., 外國語文學系
+- Golden State Univ. — 1986 — M.A., 教育學博士
+
+## Employment
+- Golden State Univ. — 1986 — Professor
+- Univ. of CA, Riverside — 1991 — Professor
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 6. Lifetime Career Award from the Virginia Orthopedic Society (維吉尼亞骨科醫學會終生成就獎) 2007
 
+<!-- tah-tables:start -->
+## Education
+- Kaohsiung Medical Univ. — 1966 — M.D.
+
+## Employment
+- University of Virginia — Resident and Fellow — (1970-1975) — University of Virginia — Professor — (1975-1984) — University of Virginia — Lillian Pratt Professor of Orthopedic Surgery and Chairman — (1992-2000) — Kaohsiung Medical University — President — (2000-2006)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Amy

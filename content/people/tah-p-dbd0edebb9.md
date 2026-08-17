@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, scientist
 - **Source:** TAH Foundation Who’s Who
 
-%E9%Bb%83%E7%A7%80%E8%8F%Af (黃秀華) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 輔仁大學 — B.S. 物理系 — Marquette University — M.S. 物理
+
+## Employment
+- Orcale Corp. — 顧問
+- 美國空軍基地 — Computer Scientist
+- 美國EDS — 系統工程師
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -21,6 +21,19 @@ last_reviewed: 2026-08-17
 
 1. Taiwan Provincial Taichung Teachers College (Today’s National Taichung University of Education)
 
+<!-- tah-tables:start -->
+## Education
+- Taiwan Provincial Taichung Teachers College (Today’s National Taichung University of Education) — 1967 — Department of Fine Arts
+- Taiwan Provincial Taipei Teachers College (Today’s National Taipei University of Education) — 1979 — Certificate Program in Special Education
+
+## Employment
+- New York Public School — 1997-2008 — Bilingual Paraprofessional
+- NY Chinatown Day Care Center — 1993-97 — Certified Chinese & Special Education Teacher
+- New York Chinese School — 1990-93 — Certified Chinese & Special Education Teacher
+- Argentina Buenos Aires Chinese School — 1984-89 — Certified Chinese & Special Education Teacher
+- Taiwan Public Elementary School — 1967-84 — Certified Chinese & Special Education Teacher
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Tun-Fu Hsu

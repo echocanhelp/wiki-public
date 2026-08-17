@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Secretary-general of Taiwanese Chamber of Commerce of New York 2019
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — LL.B. Law
+- New York Univ. — M.P.A. Public administration
+- Columbia Univ. — LL.M. Law
+
+## Employment
+- Humanistic Education Foundation (人本教育基金會) — Secretary for Public Affairs — The Neal Group, LLC — Principal — Reid & Wise, LLC — Principal — Community — Taiwanese Chamber of Commerce of New York — Secretary-General
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Dan Neal

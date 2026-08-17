@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 As a doctoral program in-progress student at the College-Conservatory of Music of University of Cincinnati, Wei-Shuan Yu is awarded Graduate Incentive Award. She graduated from UC-CCM in Spring 2014 for master degree in cello performance, and was an awardee of the University Graduate Scholarship. She is an active and outgoing cellist in the Greater Cincinnati Area, where she has served as principal cellist of Clermont Philharmonic Orchestra. Pursuing a strong interest in chamber music, she formed the piano trio “The Schatten Trio” with two other top talented students at CCM, in which the trio won the First Prize in 2014 in the CCM Chamber Music Competition, and a finalist in the 2014 Music Teachers National Association National Chamber Music Competition.
 
+<!-- tah-tables:start -->
+## Education
+- 國立中山大學 — B.S.音樂系
+- 辛辛那提大學 — 2014 — M.S. 音樂系
+
+## Employment
+- 克萊蒙愛樂交響樂團 — 大提琴首席
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

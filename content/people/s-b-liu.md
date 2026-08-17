@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-S. B. Liu (劉西北) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S.電機
+- Iowa State University — Ph.D.
+
+## Employment
+- IBV
+- Iowa State University — Professor
+- UCSD — Professor
+<!-- tah-tables:end -->
 
 ## Family
 

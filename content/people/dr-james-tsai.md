@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 University of California, Berkeley
 B.S., Molecular Cell Biochemistry and Economics
 
+<!-- tah-tables:start -->
+## Education
+- Univ. of California, Berkeley — B.S., Molecular cell biochemistry and Economics
+- St. George Univ. School of Medicine — M.D.
+- USC — MBA
+
+## Employment
+- UMDNJ-University Hospital — Residency — Hemet & Murrieta — Physician — Loma Linda University — Assistant Professor — Community — NATMA-SC (北美洲台灣人醫師協會南加州分會) — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Son:** 3

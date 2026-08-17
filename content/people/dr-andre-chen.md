@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 2. Educational Training with Doctor Degree of Medicine and Master Degree of Business Administration
 
+<!-- tah-tables:start -->
+## Education
+- Univ. of Maryland Medical School — 1992 — M.D.
+- Univ. of Texas — 1995 — MBA
+
+## Employment
+- Austin Diagnostic Clinic — Physician — (1995-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Father:** 陳哲仁

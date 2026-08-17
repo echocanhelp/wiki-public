@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Dr. T.F. Chen — a painter, art historian, writer, philosopher, visionary, and founder of the T.F. Chen Cultural Center and Arts for Humanity Foundation in SoHo, NYC. In 2001, he was honored with the Global Tolerance Award from the United Nations and designated a Cultural Ambassador for Tolerance and Peace, for his lifetime of work dedicated to peace and for his art of multiculturalism. Dr. Chen’s “Arts for Humanity World Tour 2005-2015” travels the world promoting Art Education and a Global Culture of Peace.
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.A , Foreign Languages
+- Univ. de Paris — M.A. Literature
+- Univ. de Paris — 1970 — Ph.D. Art history
+
+## Employment
+- Self-Employed — Artist — T.F. Chen Cultural Center, SoHo, NYC — Founder — Arts for Humanity Foundation, SoHo, NYC — Founder — 陳錦芳文化基金會 (T.F. Chen Cultural Foundation), Taiwan — Founder — Community — World Federation of Taiwanese Associations — Secretary-General — United Nations (Friends of the United Nations) — Cultural Ambassador for Tolerance and Peace
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 侯幸君

@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Prof. Shane-Rong Lee 李憲榮教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Chengchi Univ. (政治大學) — 1961 — B.A., Law
+- Western Illinois Univ. — 1970 — B.A., Political Economy
+- Univ. of North Texas — Ph.D., Public Law Group of Political Science
+
+## Employment
+- Chang Jung Christian Univ. (長榮大學) — Full-time Professor and Dean — Chang Jung Christian Univ. (長榮大學) — Full-time Professor — (2001-2012) — Chang Jung Christian Univ. (長榮大學) — Honorary Professor, Translation Dept. — (2012-) — Chang Jung Christian Univ. (長榮大學) — Adjunct Professor of Taiwan Research Institute — (2005-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

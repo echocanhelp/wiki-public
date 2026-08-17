@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 The first Taiwanese American to run for city council man of Monterey Park, CA in 1992
 
+<!-- tah-tables:start -->
+## Education
+- 師範大學 — B.S.
+- 芝加哥神學院 — M.S.
+
+## Employment
+- 印第安保留區 — 牧師
+- 人權律師
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

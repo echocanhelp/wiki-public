@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 A native of Taiwan, Ms. Mei-En Chou began her piano studies at the age of four, and began playing the trumpet at the age of nine, on which instrument she won several outstanding achievement awards during her school years. After graduating with a bachelor’s degree in trumpet from National Taiwan Normal University and certified as a high school music instructor by the Ministry of Education, R.O.C., Ms. Chou relocated to the United States to pursue graduate studies in piano performance at the University of North Texas under Dr. Pamela Mia Paul. During her residency in Denton, TX, Ms. Chou was an active collaborative pianist and one of the piano and continuo players of large ensembles. She taught both privately and at the School of Creative Art, conducted and directed the choir of North Texas Chinese Church, and participated in the Conductor’s Collegium by UNT Wind Studies.
 
+<!-- tah-tables:start -->
+## Education
+- 國立台灣師範大學 — 2003 — B.A. 小號演奏
+- 北德州大學 — 2008 — B.S. 鋼琴演奏
+
+## Employment
+- 路易斯安那學院 — 2008 — 鋼琴助理教授及駐校演奏家
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

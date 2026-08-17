@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Elizabeth S. Chen was born in Kaohsiung, Taiwan in 1944. She was graduated from Music Department of NTNU in 1966, majored in Vocal and minored in Piano. Her grateful teachers are Mrs. Su-fen Lai and Mrs. Chiu-gin Lin. She taught music in Kaohsiung middle school for two years after graduation. Then she went to the US and studied “Master Degree of Art” in SUNY Binghamton, New York State University and graduated in 1971. Her thesis was entitled as “The Analysis in Music of Taiwan Aboriginal A-mei” which was under the supervision of Dr. Chianis.
 
+<!-- tah-tables:start -->
+## Education
+- 師範大學 — 966 — B.A.音樂系
+- SUNY Binghamton紐約州立大學 — 971 — M.S.Art
+
+## Employment
+- 兒童音樂教育
+- 教會詩班指揮
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Josephen Chen

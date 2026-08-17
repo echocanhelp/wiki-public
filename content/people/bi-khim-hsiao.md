@@ -21,6 +21,18 @@ last_reviewed: 2026-08-17
 
 2. NATPA Professor Liao Shuzong Memorial Award-Commemorative Award for Youth Contribution (廖述宗教授紀念奬-青年貢獻紀念獎) 05/2020
 
+<!-- tah-tables:start -->
+## Education
+- Oberlin College — 1993 — Bachelor of East Asian Studies
+- Columbia University — Master of Political Science
+
+## Employment
+- DPP Representative Office in the United States — 1995-96 — CEO
+- DPP International Affairs Department — 1997-06 — Director
+- Taiwan Legislature — 2001-05 — 不分區僑選立委
+- Taiwan Legislature — 2006- — Regional legislators
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Taiwanese-American pianist, Dr. Ching-Wen Hsiao 蕭晴文, has performed as a soloist and chamber musician throughout the North America, Europe, and Asia. Dr. Hsiao made her concerto debut at the age of sixteen in the Philippines, giving four performances of Tchaikovsky’s Piano Concerto No. 1 with the Cebu Youth Symphony. Since then, she has appeared with the New Amsterdam Symphony Orchestra in New York, New York Youth Symphony, Arts Viva Orchestra in Illinois, Du Page County Youth Symphony, and Yi-Qi Orchestra and Evergreen Symphony Orchestra in Taiwan.
 
+<!-- tah-tables:start -->
+## Education
+- The Juilliard School — Bachelor's in Piano Performance — The Juilliard School — Master's in Piano Performance — The Juilliard School — Doctorate in Piano Performance
+
+## Employment
+- West Virginia University — Assistant Professor of Piano — The Juilliard School Pre-College Division — Piano Faculty — Southeastern University — Assistant Professor of Piano — Geneva Conservatory of Music, New York — Executive Director — Aspen Music Festival — Faculty/Teacher — Viana do Castelo International Music Festival, Portugal — Faculty/Teacher — U.S.-China Piano Festival, Xinjiang, China — Faculty/Teacher
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

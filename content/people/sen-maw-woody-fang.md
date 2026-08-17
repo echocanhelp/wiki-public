@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Sen Maw Woody Fang (方森茂教授) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1959 — B.S., Pharmacy
+- Univ. of Illinois — 1965 — M.S., Pharmacy
+- Univ. of Illinois — 1968 — Ph.D., Pharmacy
+
+## Employment
+- Univ. of Chicago — 1968 — Instructor
+- Univ. of Utah — 1971 — Professor
+- AMT Labs — 1986 — Chairman of the Board
+<!-- tah-tables:end -->
 
 ## Family
 

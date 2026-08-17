@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Yvonne Cheng graduated with a degree in music from the Shih Chien University in Taiwan and went to Milan, Italy to pursue advanced vocal study on scholarship at the Giuseppe Verdi Conservatory. She won several important awards at international competitions in Italy, including second prize at the International Competition for Puccinian Voices in Lucca, second prize in the Maria Caniglia Competition, a special prize for staging and interpretation in the Maria Callas Competition, and third prize and “Best Female Voice” in the City of Milan Competition. She made her operatic debut with Paesiello’s Idolo Cinese in Milan, and has since appeared in many operatic roles in Europe, and throughout Asia. She is especially noted for her interpretation of Violetta in La Traviata, Gilda in Rigoletto, Mimi in La Bohéme, and Liù in Turandot. Ms. Cheng frequently gives solo recitals in Italy, Switzerland, Asia, and the United States. She received a special invitation to perform at the Hong Kong and China reunification concert in 1997 and has performed with the New York Grand Opera at Carnegie Hall. She has an impressive repertoire, encompassing Oratorio, Cantata, Lieder, Chanson, and Chinese art and
 
+<!-- tah-tables:start -->
+## Education
+- 台灣實踐大學 — 1980 — B.A. Music — 米蘭威爾第音樂學院 — 1984 — Advanced vocal study — Western Connecticut State University
+- Columbia University Teachers College — 2008 — 2009 — B.A. Music (U.S.) — Master of Music and — Music Education
+
+## Employment
+- Soprano, performer, and voice teacher
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Joseph Letizia

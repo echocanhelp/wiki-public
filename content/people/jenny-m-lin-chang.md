@@ -19,7 +19,11 @@ last_reviewed: 2026-08-17
 - **Core roles:** artist
 - **Source:** TAH Foundation Who’s Who
 
-Jenny M. Lin Chang (張美華) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Employment
+- 紐約奧杜邦藝術家協會 — 粉彩畫主任
+<!-- tah-tables:end -->
 
 ## Family
 

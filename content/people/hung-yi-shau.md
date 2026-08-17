@@ -24,6 +24,16 @@ Employment
 2010-present
 Scientific Review Officer
 
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S.植物
+- Duke University — Ph.D. microbiology and immunology
+
+## Employment
+- National Center for Complementary and Integrative Health — 2010-present — Scientific Review Officer
+- UCLA醫學院外科腫瘤 — 副教授
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

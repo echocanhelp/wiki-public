@@ -21,6 +21,18 @@ last_reviewed: 2026-08-17
 
 Shih-han ( Erika ) Chiu邱詩涵 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- 奧克拉荷馬大學 — 2006 — B.S.低音管演奏
+- 奧克拉荷馬大學 — 2008 — M.S.低音管
+- 科羅拉多大學伯爾多分校 — 2013 — Ph.D.低音管
+
+## Employment
+- The University of Oklahoma Dance Department — 2002-2008 — Piano Accompanist
+- The University of Oklahoma — 2006-2008 — Teaching Assistant — 2. — The University of Colorado at Boulder — 2009-2013 — Teaching Assistant for Bassoon
+- The University of Colorado at Boulder — Present — Lecture
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** artist
 - **Source:** TAH Foundation Who’s Who
 
-Yu Tsai (蔡羽) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Art Center College of Design — B.S.
+
+## Employment
+- Director/Photographer
+- America's Next Top Model — Alum
+- ABC TV — Crew
+<!-- tah-tables:end -->
 
 ## Family
 

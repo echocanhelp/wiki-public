@@ -21,6 +21,19 @@ last_reviewed: 2026-08-17
 
 「 …第 一 流 的 演 奏 家 …精 確 掌 握 音 樂 的 氣 氛 和 精 神 …」 ~~ 美 國 波 士 頓 環 球 報 ( Boston Globe) 藝 文 欄 主 筆 Richard Dyer
 
+<!-- tah-tables:start -->
+## Education
+- 國立藝專 — 1996 — B.S.
+- New England Conservatory of Music — 2002 — M.S. Viola Performance
+- SUNY at STONY BROOK — 2005 — Ph.D. Music art
+
+## Employment
+- San Diego Symphony — 2005- — 中提琴
+- Hotchkiss Summer Portals — 室內樂與中提琴指導教授
+- New England Conservatory of Music — 首席中提琴
+- Gardner Museum Chamber Orchestra — 首席中提琴
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

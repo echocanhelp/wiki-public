@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Z.Z. Sun (孫足枝) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 中興大學 — 1971 — B.S.社會
+- Rutgers University — M.S.
+
+## Employment
+- Women Against Rape — 執行主任
+- amden County Girl Scout — 執行董事
+- Beck Junior High school, Cherry Hill — 族裔促進委員會常委
+<!-- tah-tables:end -->
 
 ## Family
 

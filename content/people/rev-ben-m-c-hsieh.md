@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Reverend of Taiwanese/American Fellowship Presbyterian Church of New Jersey (紐澤西台美團契長老教會牧師)1986-2005
 
+<!-- tah-tables:start -->
+## Education
+- Tainan Theological Seminary — 1960 — M.Div.
+- Rutgers University, NJ — 1976 — M.S., Sociology
+
+## Employment
+- TAFPC, NJ — Pastor — (1986-2005) — Community — Taiwan Christian Church Council of North America — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 吳芳肅

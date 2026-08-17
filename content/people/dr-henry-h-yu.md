@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of North American Taiwanese Medical Association/ Washington D. C. Chapter
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.S.
+- Harvard Univ. — M.S.
+- Univ. Of Alabama At Birmingham — 1979 — Ph.D.
+
+## Employment
+- UM Prince George's Hospital Center — Director of Otolaryngology — Community — North American Taiwanese Medical Association, Washington D.C. Chapter — President — Taiwanese American Senior Society (TASS) of Greater Washington DC — President
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

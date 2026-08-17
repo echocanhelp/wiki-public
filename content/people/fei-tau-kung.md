@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Fei-Tau Kung (龔飛濤) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 高雄醫學院 — B.S. 醫科
+
+## Employment
+- St.Louis Univ Hospitals; Tulane Univ Hospitals; Kansas Univ Medical Center — Residency
+<!-- tah-tables:end -->
 
 ## Family
 

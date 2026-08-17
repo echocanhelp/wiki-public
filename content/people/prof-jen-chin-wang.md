@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of North American Taiwanese Medical Association ( NATMA 北美洲台灣人醫師協會總會會長) 2002-2003
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. College of Medicine — B.S.
+- Brookdale Univ. Hosp & Med Ctr — Residency
+
+## Employment
+- New York Medical College — Professor of Medicine — Community — North American Taiwanese Medical Association (NATMA) — President — North American Taiwanese Medical Association-New York Chapter (NATMA/NY) — President — North American Taiwanese Medical Association Foundation — Chairman — Taiwanese Golf Association — Lifetime CEO — Global Taiwan Institute (GTI) — Co-Founder — Taiwan Center/New York — Member of the Board of Directors
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Jan Wha

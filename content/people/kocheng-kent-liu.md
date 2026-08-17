@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of Taiwanese Association of America-North Carolina Chapter(TAA-NC) (北卡台灣同鄉會會長) 1985,1998(2nd half),1999
 
+<!-- tah-tables:start -->
+## Education
+- Univ. of Tennessee — 1976 — B.S., Ornamental Horticulture & Landscaping Design
+- Univ. of Tennessee — 1979 — M.S., Computer Science
+
+## Employment
+- IBM — System programmer & tester — (1982-1990) — Triangle Investment Realty — Real estate management — (1995-) — Community — Taiwanese Association of America - North Carolina Chapter (TAA-NC) — President (1985, 1998 second half, 1999) — S.E. TAA (美東南區) — Chairperson (1989-1991) — S.E. TAA Summer Conference (美東南區台灣人夏令會) — Coordinator (1985, 1988, 1998) — Taiwan Labor Front (台灣勞工陣線) — Full-time organizer (1991-1993)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** [[people/debra-liu|謝金朱]]

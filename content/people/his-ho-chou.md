@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-His-Ho Chou (周錫和) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 建國中學
+- 海洋大學 — 1970 — B.A. 輪機工程
+
+## Employment
+- 長榮海運 — 1975 — 三管輪
+- 新紀海運 — 1976-1978 — 大管輪
+- 大千瀝青廠 — 1978-1993 — 廠長
+<!-- tah-tables:end -->
 
 ## Family
 

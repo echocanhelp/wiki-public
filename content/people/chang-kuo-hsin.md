@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Chang Kuo-hsin (張國鑫博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 交通大學 — B.S. 電力工程
+- 麻州大學 — M.S. 電機
+- 德州農工大學 — Ph.D. 電機
+
+## Employment
+- 矽谷高級工程師
+<!-- tah-tables:end -->
 
 ## Family
 

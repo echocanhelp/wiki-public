@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Mr. Wu came to New York and studied voice with C. Segrera, and A. Lavanne and at the Julliard School.
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1967 — B.S., Zoology
+- The Juilliard School — Vocal
+
+## Employment
+- Richmond Theater Collection — Performer — Brooklyn Lyric Opera — Performer — Community — Taiwanese American Association/USA (全美台灣同鄉會) — President — Taiwanese American Federation of Northern California (北加州台灣同鄉聯合會) — President — Formosan Association For Human Rights (台灣人權協會) — President — East Bay Taiwanese Association (北加州東灣台灣同鄉會) — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 王秀蓉

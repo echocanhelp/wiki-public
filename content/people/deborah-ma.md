@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Deborah Ma (馬佳美醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- South Baylo Univ. — 2008 — M.S., Oriental Medicine & Acupuncture
+- Beijing Univ. of Chinese Medicine — 2011 — M.D.& Ph.D. Neuroscience
+
+## Employment
+- Norwegian Cruise Line — Acupuncturist — (2012-2014) — Jensin Chinese Medical Clinic — Attending Physician — (2014-)
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Peter Wang (王武聰牧師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 逢甲大學 — B.S.
+- 美國加州台福神學院 — Ph.D.教牧學 — year
+
+## Employment
+- 德州休士頓美南台福教會 — 1988- — 主任牧師
+- 台福總會海外宣道部 — 部長
+<!-- tah-tables:end -->
 
 ## Family
 

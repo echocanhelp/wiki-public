@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 Chiayu is an active composer of contemporary concert music. Chiayu has been interested in deriving inspirations from different materials, such as poems, myths, and images. Particularly, however, it is the combination of Chinese elements and western techniques that is a hallmark of her music.
 
+<!-- tah-tables:start -->
+## Education
+- 國立台灣藝術大學 — 1995
+- 寇蒂斯Curtis音樂學院 — 2000 — BM
+- Yale University — 2003 — 音樂碩士與藝術家文憑(Artist Diploma)
+- Duke University — 2009 — Ph.D.
+
+## Employment
+- Musician — UW-Eau Claire — Assistant Professor — Lynn University — International Call for Scores - Winner (Shan Ko) — 7th USA International Harp Competition — Composition Contest Winner (Huan) — (2006-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

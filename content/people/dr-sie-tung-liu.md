@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 1979 General Chair, IEEE International Symposium on Applications of Ferroelectrics
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1959 — B.S., Electronic Engineering
+- Univ. of Minnesota — 1967 — Ph.D., Electronic Engineering
+
+## Employment
+- Honeywell — Community — 明州同鄉會 (Minnesota Taiwanese Association) — 創會員 (Founding Member) — 明州同鄉會 (Minnesota Taiwanese Association) — 會長 (President) — IEEE International Symposium on Applications of Ferroelectrics — 會議總主席 (General Chair) — IEEE International SOI Conference — 會議總主席 (General Chair)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 李惠美

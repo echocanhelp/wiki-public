@@ -22,6 +22,11 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of North America Taiwanese Women’s Association(北美洲台灣婦女會會長) 1997-1998
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1969 — B.S., Law
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** [[people/s-i-tom-tsai|蔡式宜]]

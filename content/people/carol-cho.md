@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
-Carol Cho (林秋菊) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 東京基督學院 — 1959
+- American Conservative of Music — 1964
+
+## Employment
+- Hyde Park 歸正教會 — 1960 — 音樂總監
+- North Shore 華人教會 — 1967 — 音樂指揮
+- Springfield Chinese Church — 1992 — Choir Director
+<!-- tah-tables:end -->
 
 ## Family
 

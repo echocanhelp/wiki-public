@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Jennifer Hung (洪錦鈺) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台北醫學大學 — B.S.牙醫
+- Washington University — M.S.口腔醫學
+
+## Employment
+- 開業牙醫師
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,20 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Tsuann Kuo (郭慈安博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- UCLA — B.S., Biochemistry; Music
+- UCLA — M.S., 社會福利
+- USC — M.S., 醫務管理; 老人學
+- UCLA — Ph.D., 社會福利
+
+## Employment
+- UCLA — 通識教育兼任教師
+- USC — 社工系兼任教師
+- Center for Healthy Aging
+- 中山醫學大學 — 2013 — Professor
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Shin S. Chen (陳幸世醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Taipei Medical Univ. ( 臺北醫學大學) — 1971 — M.D.
+
+## Employment
+- Little County of Mary Hospital — Residency — Advocate Ravenswood Medical Center — Residency — OSF Saint Anthony Medical Center
+<!-- tah-tables:end -->
 
 ## Family
 

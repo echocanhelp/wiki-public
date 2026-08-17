@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Born in Taipei in 1943, Komi Chen grew up in an art painting family and was influenced by her father Kuo Hsueh Hu, mother A Chin Kuo and eldest sister Ann Kuo. She studied and explored as she grew up. Moreover, Komi Chen entered National Taiwan Normal University School of Fine Arts in order to receive formal art education. This period has laid down a solid foundation of her painting.
 
+<!-- tah-tables:start -->
+## Education
+- Taiwan National Normal Univ. (臺灣師範大學) — 1966 — B.A., Fine Arts
+- Univ. of Pittsburgh — M.A., Library Science
+
+## Employment
+- Taipei Municipal Jinhua Junior High School (台北金華國中) — Fine Arts Teacher — (1966-1968) — Pittsburgh Community College — Chinese Painting Teacher — (1978-1981) — Monroeville Community College — Instructor of Chinese Painting — East Gallery (東之畫廊), Taipei — Solo Exhibiting Artist — (1991-1991)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** 陳根地

@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Shu-Yuan (Susan) Tsay 蔡淑媛 (翠屏) – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1963 — B.A., Foreign Languages and Literatures
+- Houston Baptist Univ. — 1984 — M.S., Education
+
+## Employment
+- Kaohsiung Municipal Kaohsiung Girls' Senior High School — English Teacher — (1967-1969) — Bellaire Senior High School (HISD) — Mandarin Chinese Language Teacher — (1975-2007) — Community — Houston Taiwanese School of Languages and Culture (休士頓台灣語文學校) — Founding member and teacher
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** David Tsay

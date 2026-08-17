@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Co-Founder and Chief Operating Officer of Bit Pesa Co., First Company to Use Blockchain Technology to Increase Efficiency of Cross-Border Payments in Frontier Markets, Especially Across Sub-Saharan Africa
 
+<!-- tah-tables:start -->
+## Education
+- Duke Univ. — B.S., Psychology and Computer Science
+- UC Berkeley — MBA
+
+## Employment
+- Deloitte — CRM Consultant — (2003-2007) — KickStart — Head of Marketing and Innovation — (2010-2013) — Bit Pesa Co. — Co-Founder — (2014-) — Community — Taiwanese American Foundation — Director (2007-2008); Adviser and Assistant Adviser of Youth Programs — The Resolution Project — Community Development — Global Social Venture Competition — Participant/Community Developer — The Hub Bay Area (Berkeley, CA) — Community Builder
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Father:** Tong Chen

@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** lawyer
 - **Source:** TAH Foundation Who’s Who
 
-Robert G. Chu (朱靜懷) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- UCLA — 1998 — B.S., Arts
+- Southwestern Law School — J.D.
+
+## Employment
+- Los Angeles County Public Defender's Office — Deputy Public Defender — (2006-2018) — Los Angeles County Superior Court — Judge — (2018-)
+<!-- tah-tables:end -->
 
 ## Family
 

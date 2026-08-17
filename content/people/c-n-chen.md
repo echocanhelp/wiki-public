@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician, educator
 - **Source:** TAH Foundation Who’s Who
 
-C. N. Chen (陳建南) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 高雄醫-學院 — B.S.
+
+## Employment
+- Alexandria Hospital 家庭醫學科 — 主治醫師
+- George Washington U.& Howard U. 家醫科 — 學生指導教師
+<!-- tah-tables:end -->
 
 ## Family
 

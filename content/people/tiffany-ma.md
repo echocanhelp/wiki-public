@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Source from 美洲台灣日報http://taiwandaily.net/gp2.aspx?_p=kSF1c9zU9HQEibLSwmiMKZlZ65wRmWqS
 
+<!-- tah-tables:start -->
+## Education
+- Harvard Kennedy School — MPP
+
+## Employment
+- Project 2049 Institute — Research Associate
+- NBR — 2013- — Director of Political & Security Affairs
+- NBR — present — Senior Director
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

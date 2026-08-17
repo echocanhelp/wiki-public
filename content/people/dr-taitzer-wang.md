@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 我小時住鄉間，喜歡看木工作木具，看竹工作竹具，雖然無親手工作經驗，但是無意識中，模仿了匠工手藝。留學美國學成工作時，因為 DIY 流行，受環境影響，閒暇時，自然養成木工嗜好。
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1961 — B.S. Chemistry
+- Rice University — 1967 — Ph.D. Organic Chemistry
+
+## Employment
+- Baylor College of Medicine (Houston,TX) — 1971 — Assistant Researcher
+- Univ of Cincinnati College of Medicine — 1977-1991 — Associate Professor
+- Little Professor’s Bookstore (小教授書局) — 1991-1999 — Owner
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Judy(張喜久)

@@ -21,6 +21,19 @@ last_reviewed: 2026-08-17
 
 日本泉之森低音提琴國際比賽獲獎 (Award at Japan Izumino-Mori International Double Bass Competition)
 
+<!-- tah-tables:start -->
+## Education
+- Taipei National University of the Arts — B.S.
+- Taipei National University of the Arts — M.S.
+- University of California, San Diego — Ph.D. Music
+
+## Employment
+- 美國的加州大學聖地牙哥分校 — 教授低音提琴
+- 美國拉荷亞節慶樂團 — 首席
+- 台北愛樂室內暨管絃樂團 — 低音提琴首席
+- 國家交響樂團 — 低音提琴副首席
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

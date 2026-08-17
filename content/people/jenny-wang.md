@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Jenny Wang (王采羿一) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- New York University — MS candidate
+
+## Employment
+- Oslo Freedom Forum — 2018-present — Strategic Advisor
+- Ubuntu Pathways — 2017- 2018 — Communication Intern
+- News America Marketing — 2016-2017 — Media Planner
+<!-- tah-tables:end -->
 
 ## Family
 

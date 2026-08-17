@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Symeon Woo (吳西面) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S. 化學工程
+
+## Employment
+- 安星貿易公司 — 創辦者
+<!-- tah-tables:end -->
 
 ## Family
 

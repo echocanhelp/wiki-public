@@ -19,7 +19,12 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-S. H. Chang (張舜華) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1977 — B.S.歷史
+- 台灣大學 — 1980 — M.S.歷史
+<!-- tah-tables:end -->
 
 ## Family
 

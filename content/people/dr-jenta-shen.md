@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, physician
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Jenta Shen (沈仁達醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. College of Medicine — 1970 — M.D.
+- Univ. of California, San Francisco — Ph.D., Physiology
+
+## Employment
+- UCSF Medical Center — Residency — Columbia Univ. — Director of Gynecological Cancer — San Francisco, CA — Oncology Specialist
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Advisory Committee Member of the Overseas Chinese Affairs Commission (僑務委員會諮詢委員)
 
+<!-- tah-tables:start -->
+## Education
+- National Cheng Kung Univ. (成功大學) — B.S., Engineering Science
+- Claremont Graduate Univ. — MBA, Business Administration
+
+## Employment
+- TenRen's Tea (天仁茗茶) — Chairman — Community — Overseas Chinese Affairs Commission (僑務委員會) — Advisory Committee Member — Kuomintang (KMT-國民黨) Central Committee — Member of the 17th Central Committee — Cheng Kung University Alumni Association of Greater New York (大紐約區成功大學校友會) — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 劉艾倫

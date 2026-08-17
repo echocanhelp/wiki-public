@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, artist, educator
 - **Source:** TAH Foundation Who’s Who
 
-ALAN T. CHEN (陳清風) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣藝專National Taiwan Academy of Arts — B.S. 影劇編導
+- 芝加哥藝術學院Art Institute of Chicago — M.S.戲劇
+
+## Employment
+- 芝加哥藝術學院 — 教授
+- 台灣語文月報 — 主編
+<!-- tah-tables:end -->
 
 ## Family
 

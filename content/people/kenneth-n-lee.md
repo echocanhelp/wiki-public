@@ -21,6 +21,18 @@ last_reviewed: 2026-08-17
 
 1. awarded for Excellence in Orthodontics from Columbia University College of Dental Medicine
 
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S.
+- Columbia University — Ph.D. Dental Surgery
+
+## Employment
+- Flushing, New York — 開業牙科醫師
+- New York University College — Clinical Assistant Professor
+- Columbia University — Clinical Instructor
+- Bellevue醫院 — 口腔外科醫師
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

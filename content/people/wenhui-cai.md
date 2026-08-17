@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Wenhui Cai (蔡文輝) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1964 — B.S.
+- University of Berkeley — 1970 — M.S.社會
+- University of Berkeley — 1974 — Ph.D.社會
+
+## Employment
+- Indiana University﹣Purdue University at Fort Wayne — 1974-2005 — Professor
+<!-- tah-tables:end -->
 
 ## Family
 

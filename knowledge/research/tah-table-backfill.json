@@ -1,0 +1,126 @@
+{
+  "applied": 2156,
+  "skipped": 0,
+  "no_json": 0,
+  "no_meat": 45,
+  "apply": true,
+  "samples": [
+    {
+      "page": "a-n-liu",
+      "harvest": "a-n-liu",
+      "edu": [
+        "National Taiwan Univ. — B.A., Law",
+        "Univ. of Missouri — M.A., Journalism"
+      ],
+      "emp": [
+        "Iowa State Univ. in Ames — Teaching Journalism — Tennessee State Univ. in Knoxville — Teaching Journalism"
+      ],
+      "roles": [
+        "professor",
+        "journalist",
+        "educator"
+      ]
+    },
+    {
+      "page": "abby-hong",
+      "harvest": "abby-hong",
+      "edu": [
+        "Univ. of Pennsylvania — 2018 — B.A., Arts"
+      ],
+      "emp": [
+        "University of Pennsylvania — Undergraduate Research Assistant — (2016-)"
+      ],
+      "roles": []
+    },
+    {
+      "page": "adam-chang",
+      "harvest": "adam-chang",
+      "edu": [
+        "UCSD — 1998 — B.S. 心理學,生物學",
+        "USC — 2005 — Ph.D. Philosophy",
+        "Loyal Law School, — Loyola Marymount University — 2006 — J.D. Doctor of low"
+      ],
+      "emp": [
+        "Kundani & Chang, LLP — present — partner",
+        "Los Angeles County District Attorney — 2007-2014 — Deputy District Attorney",
+        "Public Counsel Law Center — 2005 — Legal Extern"
+      ],
+      "roles": [
+        "lawyer"
+      ]
+    },
+    {
+      "page": "adrian-lin",
+      "harvest": "adrian-lin",
+      "edu": [
+        "台大 — 外交系 — B.S.",
+        "University of Tennessee — 政治系 — M.S.",
+        "North Carolina State U — 電機系 — M.S."
+      ],
+      "emp": [
+        "Honeywell — 1977-1997"
+      ],
+      "roles": [
+        "engineer"
+      ]
+    },
+    {
+      "page": "agnes-hsiao",
+      "harvest": "agnes-hsiao",
+      "edu": [
+        "Tamkang University — B.A., German Language & Literature",
+        "La Salle University — Interior Decorating"
+      ],
+      "emp": [
+        "Prudential Real Estate — Sales Agent",
+        "Stanley Law Firm — Executive Manager"
+      ],
+      "roles": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "page": "agnes-hsu",
+      "harvest": "agnes-hsu",
+      "edu": [
+        "Peabody Conservatory of Music — B.M.",
+        "Peabody Conservatory of Music — M.M.",
+        "Peabody Conservatory of Music — 2009 — D.M.A."
+      ],
+      "emp": [
+        "Jou Music Institute — present — Teaching"
+      ],
+      "roles": [
+        "artist",
+        "educator"
+      ]
+    },
+    {
+      "page": "agnes-wu",
+      "harvest": "agnes-wu",
+      "edu": [
+        "National Taiwan Univ. — 1962"
+      ],
+      "emp": [
+        "Retiree — 2002"
+      ],
+      "roles": [
+        "journalist"
+      ]
+    },
+    {
+      "page": "ahhee-hsu",
+      "harvest": "ahhee-hsu",
+      "edu": [
+        "Chungyuan Science & Eng. College (中原理工) – — Chemical Eng."
+      ],
+      "emp": [
+        "National Assembly (國民大會) — Representative — Taiwan People News — Chief Editor — CBT (全民衛視) — General Manager — Community — North American Taiwanese Literature and Art Association (北美洲台灣人文藝協會) — Organizer/Founder — North American Culture Association Chamber Orchestra (北美文協室內樂團) — Organizer/Founder"
+      ],
+      "roles": [
+        "entrepreneur",
+        "journalist"
+      ]
+    }
+  ]
+}

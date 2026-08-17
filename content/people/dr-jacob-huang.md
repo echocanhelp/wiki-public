@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of Taiwanese American Association of New York (紐約台灣同鄉會會長)
 
+<!-- tah-tables:start -->
+## Education
+- Columbia Univ. — Ph.D., Public Health
+
+## Employment
+- New York University — Professor of Preventive Medicine — New York City Department of Health — Director — Community — Taiwanese American Association of New York — President
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

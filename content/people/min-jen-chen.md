@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Min-Jen Chen (陳明真) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 清華大學 — B.S. 核子工程
+- 愛荷華州立大學 — Ph.D. 核子工程
+
+## Employment
+- 阿崗國家實驗室
+- 奇異公司
+- 美國巨微科技公司 — 董事長兼執行長
+<!-- tah-tables:end -->
 
 ## Family
 

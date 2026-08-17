@@ -19,7 +19,12 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist
 - **Source:** TAH Foundation Who’s Who
 
-Jin-Sheng Jian (簡金生) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台北工專
+- University of Wisconsin — Ph.D. physics
+<!-- tah-tables:end -->
 
 ## Family
 

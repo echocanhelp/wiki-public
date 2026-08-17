@@ -19,7 +19,19 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist
 - **Source:** TAH Foundation Who’s Who
 
-Reng-Lang Lin (林祁郎) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S. 農業化學
+- 台灣大學 — M.S. 農業化學
+- Oklahoma State University — Ph.D. 生物化學
+
+## Employment
+- Galesburg State Research Hospital — 1971-1975 — Research Scientist
+- Illinois State Psychiatric Institute — 1975-1978 — Research Scientist
+- Cook Country Medical Examinier Office — 1978-1983 — Assistant Chief Toxicologist
+- N.J.State Toxicologist Laboratory — 1983-present — Director/ Chief Toxicologist
+<!-- tah-tables:end -->
 
 ## Family
 

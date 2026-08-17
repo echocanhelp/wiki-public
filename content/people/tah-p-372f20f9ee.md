@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 林福裕1931 年 11 月 19 日出生於臺北木柵，由於父親林朝聘、母親張金蘭皆在臺北市任教，年幼的林福裕在木柵鄉下由外婆帶大。童年時光從外婆及兒時玩伴習得不少老唸謠，如《新娘新噹噹》、《指呀指鮕代》等歌謠。
 
+<!-- tah-tables:start -->
+## Education
+- 臺北師範學校 — 1951 — B.A. 音樂
+
+## Employment
+- 西雅圖融融合唱團 — 1990-1993 — 指揮
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Szu-Ning Tai is a Taiwanese harpist who currently serves as teaching assistant at Boston University College of Fine Arts, harp department. She holds a Bachelor’s degree from Soochow University (Taiwan) and a Master of Music degree from Boston University, where she receives a merit scholarship to pursue a Doctor of Musical Arts degree in Harp Performance.
 
+<!-- tah-tables:start -->
+## Education
+- 東吳大學 — B.S. Music
+- Boston University — 2002 — M.S. Music
+
+## Employment
+- Boston University College of Fine Harp — Present — Teaching assistant
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** artist
 - **Source:** TAH Foundation Who’s Who
 
-Kuo-Ching Su (蘇國慶) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣藝術專科 — 1974 — 美術科
+
+## Employment
+- 畫家
+<!-- tah-tables:end -->
 
 ## Family
 

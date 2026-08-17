@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Was selected as one of the top ten outstanding Asians by the American Jinhua Monthly, the life honorary chairman of the New York American-China Cancer Association, and the Asia and Oceania Nuclear Medicine and Biology Association issued the outstanding contribution award
 
+<!-- tah-tables:start -->
+## Education
+- Kaohsiung Medical Univ. (高雄醫學大學) — M.D.
+
+## Employment
+- New York Methodist Hospital — Director of Radiology, Director of Nuclear Medicine and PET Scanning Center — Cornell University — Clinical Associate Professor
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Son:** [[people/jeff-yang|楊致和]]

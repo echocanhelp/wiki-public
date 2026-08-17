@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 8. Awards: Three Oscar Awards, five British Film Academy Awards, five Golden Globe Awards, two Venice Film Festivals, Golden Lion Award for Best Film, two Golden Bear Awards for Best Film at Berlin Film Festival.
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. of Arts — 1973 — B.S., Film and Drama
+- Univ. of Illinois at Urbana-Champaign — 1979-1980 — B.S., Drama
+- New York Univ. — 1981-1984 — M.S., Film Production
+
+## Employment
+- Self-Employed — Movie Director — (1991-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 林惠嘉

@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Dr. John Chieu (邱忠男博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Chen-Kuan Univ.(成功大學) — 1966 — 學士/土木系
+- Austin University — 碩士/環境衛生工程
+- Texas University — Ph.D.
+
+## Employment
+- State of Texas (德州州政府) — Community — TAA Houston Chapter (休斯頓台灣同鄉會) — President, 1980 & 1990 — 全美台灣同鄉會 — 西南區理事 — 全美台灣人權會 — 西南區理事 — FAPA — 中央委員
+<!-- tah-tables:end -->
 
 ## Family
 

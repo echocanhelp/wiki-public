@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Yi-Ming Liu (劉怡明) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- University Of Oregon — M.S.
+
+## Employment
+- Empire Blue Cross Blue Shield電詢部 — 電話記錄系統
+<!-- tah-tables:end -->
 
 ## Family
 

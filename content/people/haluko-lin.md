@@ -19,7 +19,12 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Haluko Lin (陳春子) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Employment
+- Grocery store — Owner
+- Print shop — President
+<!-- tah-tables:end -->
 
 ## Family
 

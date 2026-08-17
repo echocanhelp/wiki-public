@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Caleb Tsai (蔡登燦) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣中台神學院 — B.S.
+- 日本東洋大學 — M.S.社會
+
+## Employment
+- 台灣聖教會 — 牧師
+- 菲律賓金禧堂 — 主任牧師
+- 美國三一基督教會 — 主任牧師
+- 美國三一基督教會 — 顧問牧師
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Walter H Shiau (蕭鴻模) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台北醫學院 — 1976 — B.S. 醫科
+
+## Employment
+- 內分泌 甲狀腺科 — 開業醫師
+<!-- tah-tables:end -->
 
 ## Family
 

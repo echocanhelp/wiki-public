@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-M.S. Chen (陳明憲) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 中國醫藥學院 — B.S. 醫學
+
+## Employment
+- 長庚醫院放射腫瘤科 — 主治醫師
+<!-- tah-tables:end -->
 
 ## Family
 

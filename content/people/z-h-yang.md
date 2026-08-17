@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist
 - **Source:** TAH Foundation Who’s Who
 
-Z. H. Yang (楊日信博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台北工專 — B.A.
+- University of Illinois — M.S.
+- University of Illinois — Ph.D.
+
+## Employment
+- Procter & Gamble, Sandoz
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** lawyer
 - **Source:** TAH Foundation Who’s Who
 
-Ted Lieu (劉雲平) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Stanford Univ. — 1991 — B.S., Computer Science, Political Science
+- Georgetown Univ. Law Center — 1994 — J.D., Magna Cum Laude
+
+## Employment
+- California State Senate — Senator — (2011-2014) — The United States Air Force Reserves — Lieutenant Colonel — (-2015) — U.S. House of Representatives — Congressman, CA — (2014-)
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Director of Taiwanese American Center of Northern California (北加州台灣會館理事)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1962 — B.S., Plant Diseases and Pests
+- Univ. of Berkeley — Ph.D., Plant Diseases and Pests
+
+## Employment
+- Lai's Housing Industry (賴氏房產業) — Chairman — Sacramento Taiwanese Culture Foundation (美國加州首府沙加緬度台灣文化基金會) — Chairman — Community — Taiwanese American Center of Northern California (北加州台灣會館) — Director
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 林正子

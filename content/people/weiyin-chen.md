@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 In a time of promising young virtuosos from all over the world the Taiwanese-American pianist Weiyin Chen stands out not just for her dazzling technique, but above all for the sheer musicality and maturity of her playing, qualities rare in an artist of her young years. Her gift for getting to the musical “heart” of the scores she plays has drawn the attention and praise of such master musicians as the renowned conductor-pianist Leon Fleisher and pianists Richard Goode and Claude Frank, all of whom she studied with extensively, among a legion of other notable figures. Ms. Chen is a “thinking pianist” who has a rare ability to look beyond the notes on the page to divine a score’s musical essence.
 
+<!-- tah-tables:start -->
+## Education
+- 茱莉亞音樂學院 — 2005 — B.S. Music
+- 約翰霍普金斯大學琵琶第音樂學院 — 2010 — M.S. Music
+
+## Employment
+- Hong Kong Philharmonic Orchestra — Guest Soloist — (2008-) — China National Symphony Orchestra — Guest Soloist
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

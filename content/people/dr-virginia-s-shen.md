@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Dr. Virginia S. Shen 李香蘭教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- Fu Jen Catholic Univ. (輔仁大學) — 1977 — B.A., Spanish
+- Instituto Caro y Cuervo, Bogotá, Colombia — 1985 — M.A., Latin American Literature
+- Arizona State Univ. — 1988 — Ph.D., Spanish
+
+## Employment
+- Chicago State Univ. Dept. of Foreign Languages and Literature — Assistant Professor, Associate Professor, Professor — (1991-2019) — National Sun Yat-sen Univ. Si Wan College — Appointed Professor
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Eric Chen(沈耀初)

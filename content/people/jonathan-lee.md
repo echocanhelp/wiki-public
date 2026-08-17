@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Jonathan Lee is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Rutgers University — B.S. Computer Science
+- University of Chicago Booth — MBA
+
+## Employment
+- Rich Relevance — Operations Manager
+<!-- tah-tables:end -->
 
 ## Family
 

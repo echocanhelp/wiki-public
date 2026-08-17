@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** journalist
 - **Source:** TAH Foundation Who’s Who
 
-Michael Luo (羅明瀚) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Harvard University — 1998 — B.S. 政治系
+
+## Employment
+- 美聯社、洛杉磯時報、「Newsday」、New York Times — journalist
+<!-- tah-tables:end -->
 
 ## Family
 

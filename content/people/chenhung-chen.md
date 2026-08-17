@@ -21,6 +21,12 @@ last_reviewed: 2026-08-17
 
 Chenhung Chen is an artist living and working in Los Angeles. She was born in Beigang, Taiwan graduating from the Chinese Cultural University. She continued her post-graduate education at the School of Visual Arts in New York City where she graduated with a Master of Fine Arts degree. She has traveled the world spending time in India, Malaysia, Australia, Thailand, North Eastern China as well as Beijing, and Rome, as a volunteer for a non-profit organization working for global peace. Her work has been shown internationally.
 
+<!-- tah-tables:start -->
+## Education
+- Chinese Cultural Univ. — 1983 — B.A.
+- School of Visual Arts, New York — 1988 — MFA
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Lance Bolton

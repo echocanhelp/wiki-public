@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Evonne Hsu is a Taiwanese American Mandopop singer. Hsu is managed by Music Nation Wingman Limited and signed by Universal Music Taiwan since her debut in 2002. She has released eight albums and has also published a book. (Information source: Wikipedia)
 
+<!-- tah-tables:start -->
+## Education
+- University of Texas at Austin — Psychology
+
+## Employment
+- Singer, actress, dancer
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Dennis

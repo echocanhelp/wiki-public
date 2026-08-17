@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 President, North American Taiwanese Professors' Association Kansas Chapter 1993-95, 2006-07
 
+<!-- tah-tables:start -->
+## Education
+- California Polytechnic State Univ. — 1968 — B.S.
+- Iowa State Univ. — 1973 — Ph.D.
+- UC Berkeley — 1975 — Postdoctoral
+
+## Employment
+- Univ. of Missouri, Kansas City — 1975- — Professor
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -19,7 +19,11 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-M. Wang (陳美霞) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Employment
+- 電腦操作員
+<!-- tah-tables:end -->
 
 ## Family
 

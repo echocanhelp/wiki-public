@@ -19,7 +19,11 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Kim Lai Huang (黃金來) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Employment
+- 堪薩斯州立大學 — 工業工程教授
+<!-- tah-tables:end -->
 
 ## Family
 

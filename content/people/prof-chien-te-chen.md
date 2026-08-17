@@ -23,6 +23,15 @@ AT&T Bell Labs, USA
 Experimental Physicist, Member of Technical Staff
 (1985-1995)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1976 — B.S., Physics — 1980 — M.S., Physics
+- Univ. of Pennsylvania — 1985 — Ph.D., Physics
+
+## Employment
+- AT&T Bell Labs, USA — Experimental Physicist, Member of Technical Staff — (1985-1995) — National Synchrotron Radiation Research Center, Taiwan — Deputy Director and Scientist — (1995-1997) — National Synchrotron Radiation Research Center, Taiwan — Director and Distinguished Scientist — (1997-) — National Taiwan Univ. — Adjunct Professor, Dept. of Physics — (1998-2006) — National Chung-Cheng Univ. — Adjunct Professor, Dept. of Physics — (1999-) — Taiwan Photon Source Synchrotron Construction Project — Director General — (2010-2014)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

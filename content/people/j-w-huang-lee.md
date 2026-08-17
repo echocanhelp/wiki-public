@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 Vice President of The National Taiwan University Alumni Association in the Washington-Baltimore Area (NTUAA-DC)(華府台大校友會副會長) ,2004
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.A., Economics
+- State Univ. of New York — M.A., Economics
+- Univ. of Bridgeport — MBA
+
+## Employment
+- Smith Barney Inc. — Stock Broker — National Financial Services, LLC — Stock Broker — Community — National Taiwan University Alumni Association in the Washington-Baltimore Area (NTUAA-DC) — Vice President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Wu-Lang Lee (李五郎)

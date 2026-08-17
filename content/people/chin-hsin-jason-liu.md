@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Chin-Hsin Jason Liu (劉進興) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1971 — B.S.化學
+- Washington University, St. Louis — 1978 — Ph.D.Chemistry
+
+## Employment
+- 高雄市政府研究發展考核委員會
+- National Taiwan University of Science and Techonology — 2015- — 1991 -2004 — 主任委員 — Professor
+- 3M Company Corporate , St. Paul, Minnesota — 1983-1991 — Senior Scientist,
+- Institute of Gas Technology at Chicago — 1981-1982 — chemist
+<!-- tah-tables:end -->
 
 ## Family
 

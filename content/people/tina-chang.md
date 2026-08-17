@@ -19,7 +19,20 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Tina Chang (張丁蘭) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 中興大學 — 1960 — B.S. 社會系
+- 美國西蒙斯學院 — 1964 — M.S.社會工作
+- 美國華盛頓大學 — 博士班研究,社會工作
+
+## Employment
+- 中興大學 — 社會系講師
+- 台灣文化學院 — 社會工作副教授
+- 台灣醫院兒童心理衛生中心 — 社會工作員兼輔導
+- 美國紐約州政府心理衛生部 — 資深社會工作專家
+- 台灣國會辦公室 — 立法院法案研究員
+<!-- tah-tables:end -->
 
 ## Family
 

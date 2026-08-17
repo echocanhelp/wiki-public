@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** lawyer
 - **Source:** TAH Foundation Who’s Who
 
-Kenneth J. Kao (高永仁) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- UCLA — 1994 — B.A. English Literature
+- UC Berkeley' — 1997 — J.D. Law
+
+## Employment
+- 1. — present — Attorneyr
+- Palos Verdes Estates — 2017- — Councilmember
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor
 - **Source:** TAH Foundation Who’s Who
 
-Pauline Hsiao Ye (蕭百忍) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — l969 — B.S. 化學系
+- University of California, Berkeley — 1973 — Ph.D.生化系
+
+## Employment
+- Harbor-UCLA — 研究教授
+- 台灣中央研究院生物醫學研究所 — 研究員
+<!-- tah-tables:end -->
 
 ## Family
 

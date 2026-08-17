@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor
 - **Source:** TAH Foundation Who’s Who
 
-Shiuan Chen (陳瑄) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 國立海洋大學 — year — B.S.
+
+## Employment
+- 希望之城癌症生物學系 — Present — 主任
+- 希望之城癌症生物學系 — Present — 教授
+<!-- tah-tables:end -->
 
 ## Family
 

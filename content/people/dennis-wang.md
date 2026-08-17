@@ -19,7 +19,12 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist
 - **Source:** TAH Foundation Who’s Who
 
-Dennis Wang (王梓仁) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- U.C. Berkeley — 2011 — B.A., Physics & Applied Math
+- Columbia Univ. — Present — Ph.D., Applied Physics
+<!-- tah-tables:end -->
 
 ## Family
 

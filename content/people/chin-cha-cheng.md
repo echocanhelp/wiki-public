@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Chin-Cha Cheng (鄭錦家) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1971 — BS. 醫學系
+
+## Employment
+- 臺大醫院 — 1972-1974 — 住院醫師
+- Beekman-Downtown Hospital — 1974-1977 — 實習醫師 — 3. — 1977-2007 — 開業醫師
+<!-- tah-tables:end -->
 
 ## Family
 

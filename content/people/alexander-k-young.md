@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Alexander K. Young (楊慶安教授) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1950 — B.S. 法學院
+- 普林斯頓神學院 — Ph.D. 神學
+- 哥倫比亞大學 — 1969 — Ph.D. 國際關係法
+
+## Employment
+- 紐約州立大學 — 國際關係學教授
+<!-- tah-tables:end -->
 
 ## Family
 

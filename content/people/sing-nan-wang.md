@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Sing-Nan Wang (王幸男) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 陸軍軍官學校 — B.S.
+
+## Employment
+- 台灣 — 1999-2012 — 第4,5,6,7屆立法委員
+<!-- tah-tables:end -->
 
 ## Family
 

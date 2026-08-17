@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Sin-Yang Lin (林欣陽) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- UC San Diego — Electrical Engineer
+
+## Employment
+- Self-Employed (Hotel) — Owner — Community — FAPA-San Diego Chapter — President — Taiwanese Chamber of Commerce San Diego Branch — President
+<!-- tah-tables:end -->
 
 ## Family
 

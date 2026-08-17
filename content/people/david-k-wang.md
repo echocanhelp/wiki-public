@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-David K. Wang (王光智牧師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Claremont Graduate University — 音樂藝術博士(D.M.A.)
+- Azusa Pacific University — 音樂碩士(M.M.)
+
+## Employment
+- 美國愛之泉國度事工 — 總監
+- 美國洛杉磯哈崗國際大使命教會區 — 音樂牧師
+<!-- tah-tables:end -->
 
 ## Family
 

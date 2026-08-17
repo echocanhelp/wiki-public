@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Matthias C. H. Lu (盧志華) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 高雄醫學大學 — B.S. 藥學系
+- University of Lowa — 1967 — M.S. Medical Chemistry
+- The Ohio State University — 1969 — Ph.D. Medical Chemistry
+
+## Employment
+- University of Michigan — 1972-1973 — Assistant Professor
+- University of Illiois at Chicago — 1978-1996 — Associate Professor
+- University of Illiois at Chicago — 1996-2010 — Professor
+<!-- tah-tables:end -->
 
 ## Family
 

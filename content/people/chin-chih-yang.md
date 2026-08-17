@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** artist
 - **Source:** TAH Foundation Who’s Who
 
-Chin Chih Yang (楊金池) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Parsons School of Design — 1994 — BFA
+- Pratt Institute — 1996 — M.S.
+
+## Employment
+- Self-employed — present — Artist
+- New York Foundation for the Arts (NYFA) — 2004-2015 — Artist
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Haofan Eric Peng (彭浩帆) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S. chemical engineering
+- SUNY Buffalo — Ph.D. chemical and biological engineering
+
+## Employment
+- Biogen Idec — 2015-present — Senior Engineer
+- New York Center of Excellence — 2009-2011 — Reseach Assistant
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -10,7 +10,7 @@ tags:
   - community-leader
 verification_status: pending
 featured: true
-last_reviewed: 2026-07-23
+last_reviewed: 2026-08-17
 ---
 # Wang Yao-ting & Xie Xiulan (王耀廷、謝秀緞)
 
@@ -18,7 +18,7 @@ last_reviewed: 2026-07-23
 
 - **English:** Wang Yao-ting & Xie Xiulan
 - **Chinese:** 王耀廷、謝秀緞
-- **Core roles:** Community leaders, educators, business owners
+- **Core roles:** entrepreneur, educator
 - **Relationship:** Married couple
 - **TAHS:** Founding members (2013)
 - **Geography:** Southern California (Arcadia)
@@ -69,7 +69,17 @@ Wang Yao-ting was born in 1941 in Taichung during Japanese colonial rule. He gre
 
 ## Legacy
 
-### Family Care and Filial Piety
+#<!-- tah-tables:start -->
+## Education
+- 師範大學 — B.S.教育
+- 淡江大學 — M.S.外國語言
+
+## Employment
+- 竹林中學 — 訓導主任
+- Brico King — President
+<!-- tah-tables:end -->
+
+## Family Care and Filial Piety
 
 - In the 1970s, Wang learned that his 82-year-old mother in Taiwan had lost all her teeth and could no longer eat properly
 - He returned to Taiwan, brought his mother to the United States, and found a young dentist who fitted her with complete dentures

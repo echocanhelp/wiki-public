@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** lawyer
 - **Source:** TAH Foundation Who’s Who
 
-Miriam Liu Wu (劉逸青) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- California State University — 1995 — B.S.國際商業
+- Glendale University College — 1999 — J.D.
+
+## Employment
+- LPW A Law Corporation — Lawyer
+<!-- tah-tables:end -->
 
 ## Family
 

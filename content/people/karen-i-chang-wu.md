@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Partner and Leader of Washington D.C. Office of Perlman & Perlman, LLP, A Nationally Recognized Law Firm Serving the Philanthropic and Social Enterprise Sector 2014-Present
 
+<!-- tah-tables:start -->
+## Education
+- Wellesley College — 2000 — B.A., Linguistics and Political Science
+- Brooklyn Law School — 2004 — Juris Doctor
+
+## Employment
+- Perlman & Perlman, LLP — Associate Attorney in NY office — (2004-2013) — Perlman & Perlman, LLP — Partner and Head of Washington D.C. Office — (2014-) — Community — Open Hands Legal Services, Inc. — Board Member and Volunteer Attorney 2008-17; Board Chair 2014-16; Advisory Board Member 2018-Present — Taiwan Mission Foundation — Advisory Board/Pro Bono Counsel 2007-Present
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Steve Wu

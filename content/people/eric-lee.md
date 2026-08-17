@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, journalist
 - **Source:** TAH Foundation Who’s Who
 
-Eric Lee (李英毅) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S.化工
+- New Mexico Tech — M.S.Computer Tech.
+
+## Employment
+- Cingular Wireless — Senior computer engineer
+- GM/EDS
+<!-- tah-tables:end -->
 
 ## Family
 

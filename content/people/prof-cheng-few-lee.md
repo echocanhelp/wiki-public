@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 2. Director of Annual Conference on Pacific Basin Finance, Economics, Accounting, and Management 1993-present
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1962 — B.A., Economics and Accounting
+- National Taiwan Univ. — 1966 — M.A., Economics
+- West Virginia Univ. — 1970 — M.S., Statistics
+- State Univ. of New York at Buffalo — 1973 — Ph.D., Economics and Finance
+
+## Employment
+- Dept. of Finance, Univ. of Illinois Champaign Urbana — Professor — (1978-1982) — Dept. of Finance, Univ. of Illinois — IBE Distinguished Professor of Finance — (1982-1988) — Dept. of Finance, Rutgers Univ. — Distinguished Professor of Finance — (1988-) — Community — Annual Conference on Pacific Basin Finance, Economics, Accounting, and Management — Director — Financial Economics and Accounting Conference — Founding Father
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 曾純純

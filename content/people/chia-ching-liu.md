@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Chia-Ching Liu (劉嘉慶) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台大醫學院畢業 — 1957 — M.D.
+
+## Employment
+- 台大外科 — 住院醫師 — 2 Orthopedic Surgery, Brookline Jewish Hospital NY — 1963- — Residency
+- Washington Hospital Center — 1968-2002 — Doctor
+<!-- tah-tables:end -->
 
 ## Family
 

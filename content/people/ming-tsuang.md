@@ -21,6 +21,20 @@ last_reviewed: 2026-08-17
 
 1. Behavioral Genomics Endowed Chair and University Professor, University of California, San Diego
 
+<!-- tah-tables:start -->
+## Education
+- 台灣大學醫學院 — 1957 — B.A. 醫科
+- 倫敦大學醫學院 — 1965 — 精神遺傳學科學博士
+
+## Employment
+- 台灣大學醫學院 — 教授
+- 聖路易華盛頓大學 — 教授
+- 愛荷華大學 — 教授
+- 布朗大學 — 教授
+- 哈佛大學 — 精神流行病及精神遺傳研究所院長
+- 美國加州大學總校教授及聖地牙哥分校 — Present — 行為基因體研究所所長
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 柯惠香

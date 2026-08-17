@@ -160,6 +160,14 @@ Notable quotes and mentions of **黃樹人** in Taiwan Justice articles:
 - [TAH #2159 encyclopedia: 2159. Freeman Huang 黃樹人](https://taiwaneseamericanhistory.org/whos-who-2159-freeman-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/freeman-huang/)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.S.
+
+## Employment
+- New Asian Weekly (新亞週報) — Publisher — (1994-2010) — Taiwanese American Channel (南加州台灣人影音頻道) — Producer — (2015-) — Taiwanjustice.net (台灣公義網) — Publisher — (2015-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Edda Huang

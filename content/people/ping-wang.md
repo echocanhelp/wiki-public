@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, physician, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Ping Wang (王秉訓) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 高雄醫學院 — B.S. 醫學
+
+## Employment
+- 爾灣加大糖尿病治療及研究中心 — 2004-Present — 主任
+- 爾灣加大醫學院內分泌學 — 教授
+<!-- tah-tables:end -->
 
 ## Family
 

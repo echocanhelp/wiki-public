@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
-H. T. Chen (陳學同) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣文化大學 — 1971 — B.S.
+- 紐約大學教育研究所 — M.S. 舞蹈教育
+
+## Employment
+- 喇媽媽(LaMaＭa E.T.C)劇場 — 編舞
+- 亞利桑納州納瓦候社區學院及林肯中心訓練班 — Teaching
+- 那瓦荷社區大學紐約大 學舞蹈系及舞蹈教育系 — Teaching
+<!-- tah-tables:end -->
 
 ## Family
 

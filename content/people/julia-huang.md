@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Julia Huang (黃馨儀) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- UCLA — B.S. Biology
+
+## Employment
+- UCLA'S Ronald Reagan Medical Center — Neurologist
+<!-- tah-tables:end -->
 
 ## Family
 

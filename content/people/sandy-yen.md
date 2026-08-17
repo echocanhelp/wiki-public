@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, physician
 - **Source:** TAH Foundation Who’s Who
 
-Sandy Yen (莊和子) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 中山醫學院 — B.S.護理
+
+## Employment
+- 『MLI微影印刷公司(Micro Lithography Inc.) — 1981 — Funder
+- 加州醫院 — 護士與保健專員
+<!-- tah-tables:end -->
 
 ## Family
 

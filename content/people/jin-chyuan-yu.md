@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Jin-Chyuan Yu (游銘泉) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.S., Engineer
+- Oregon State Univ. — M.S.,
+- UCLA — 1978 — Ph.D.,
+
+## Employment
+- Douglas Aircraft — Engineer
+- Boeing — -2002 — Senior Engineer
+<!-- tah-tables:end -->
 
 ## Family
 

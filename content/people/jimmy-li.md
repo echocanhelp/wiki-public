@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 President of the North America Taiwanese Engineers' Association (北美台灣工程師協會會長), 2003
 
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S.
+- Stanford University — M.S.
+- Houston University — Ph.D.化工
+
+## Employment
+- 誠信創投公司 — 1990- — 董事長
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

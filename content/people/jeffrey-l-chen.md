@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Jeffrey L. Chen (陳大立) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Columbia University — 1999 — B.S.Neuroscience & Behavior
+- Georgetown University School of Medicine — 2006 — Physiology
+- University of Kansas — M.D.
+
+## Employment
+- UC San Diego Health — present — Pain Management Specialist
+- UC San Diego — present — Assistant Professor of Anesthesiology
+<!-- tah-tables:end -->
 
 ## Family
 

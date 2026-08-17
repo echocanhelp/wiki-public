@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Tai-Yen Chen is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Tsing Hua Univ. — 2002 — B.S. Inorganic Chemistry — 2004 — M.S.
+- Texas A&M Univ. — 2010 — Ph.D., Physical Chemistry
+
+## Employment
+- Univ. of Houston — Assistant Professor of Chemistry — (2016-)
+<!-- tah-tables:end -->
 
 ## Family
 

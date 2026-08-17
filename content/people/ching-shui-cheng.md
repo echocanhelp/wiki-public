@@ -21,6 +21,18 @@ last_reviewed: 2026-08-17
 
 Prof. Ching-Shui Cheng 鄭清水教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- NationalTsing HuaUniversity — 1972 — B.S. Mathematics
+- CornellUniversity — 1976 — M.S. Mathematics
+- CornellUniversity — 1977 — Ph.D. Mathematics
+
+## Employment
+- UC Berkeley — 1977-1983 — AssistantProfessor
+- UC Berkeley — 1983-1989 — AssociateProfessor
+- UC Berkeley — 1989-present — Professor
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

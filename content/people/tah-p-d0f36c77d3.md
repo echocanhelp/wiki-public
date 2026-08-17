@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-%E6%9D%8E%E5%Bd%A5%E7%A7%80 (李彥秀) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S. 醫科
+
+## Employment
+- Bolingbrook — Present — 執業內科,肺科醫師
+<!-- tah-tables:end -->
 
 ## Family
 

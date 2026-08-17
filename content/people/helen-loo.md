@@ -22,6 +22,12 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Convener of Taiwanese American Conference/East Coast (美東台灣人夏令會召集人) ,2014
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.A., Foreign Languages
+- Univ. of Pennsylvania — M.A., Sociology
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** [[people/tsu-yi-jay-loo|盧主義]]

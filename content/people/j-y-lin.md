@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-J. Y. Lin (林哲也) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1957 — B.S.商學
+- 印地安那大學 — 1964 — M.S.商學
+- 印地安那大學 — 1969 — Ph.D.商學
+
+## Employment
+- 辛辛那提大學商學院 — 1967-1996 — 理財系教授
+<!-- tah-tables:end -->
 
 ## Family
 

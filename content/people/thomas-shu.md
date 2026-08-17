@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Founding member and board member of the American Premium Tea Institute (now merged with and known as the Specialty Tea Institute).
 
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 經濟系
+
+## Employment
+- JT & Tea Inc. — Vice President and Marketing Director
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Josephine Pan 潘掬慧

@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Meiyin Wang (王美尹) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Yale Univ. — B.A., Theatre Studies and Political Science
+- Columbia Univ. in the City of New York — 2003-2006 — M.S., Fine Art, Directing
+
+## Employment
+- Singapore Repertory Theatre — Artistic Associate — (2002-2007) — The Public Theater's Under the Radar Festival — Art Director — (2014-2016) — La Jolla Playhouse — Festival Director — (2016-2018) — Intelligent Beasts — Creative Producer/Consultant — (2016-2020) — The Ronald A. Perelman Performing Arts Center — Producing Director — (2020-)
+<!-- tah-tables:end -->
 
 ## Family
 

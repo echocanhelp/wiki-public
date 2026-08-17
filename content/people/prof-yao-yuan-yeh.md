@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Prof. Yao-Yuan Yeh (葉耀元教授) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 2008 — B.A., Political Science
+- Texas A&M Univ. — 2014 — Ph.D., Political Science
+
+## Employment
+- Univ. of California, Merced — Lecturer of Political Science — (2014-2016) — Univ. of St. Thomas — Visiting Assistant Professor — (2016-2017) — Univ. of St. Thomas — Assistant Professor — (2017-)
+<!-- tah-tables:end -->
 
 ## Family
 

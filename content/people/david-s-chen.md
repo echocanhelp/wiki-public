@@ -19,7 +19,19 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-David S. Chen (陳皙宗牧師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣神學院 — 1947
+- Knox College, Canada — 1954 — 神學士
+- Princeton Theological Seminary, NJ — 1955 — 神學碩士
+- Union Theological Seminary, NY — 1965 — 神學碩士
+- Graduate Theological Union in Berkeley, CA — 1968 — Th.D. 神學博士
+
+## Employment
+- 台灣神學院 — 1957-71 — 教授、院長
+- The First Reformed Church in Ridgewood, N.J. — 1971-1991 — 牧會
+<!-- tah-tables:end -->
 
 ## Family
 

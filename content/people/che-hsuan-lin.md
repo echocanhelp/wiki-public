@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Chinese Professional Baseball League Best Ten Award (Outfielder) 2016
 
+<!-- tah-tables:start -->
+## Education
+- Tainan Nan Ying Senior Commercial & Industrial Vocational School (南英工商)
+
+## Employment
+- Boston Red Sox — Baseball Player — (2012-2012) — Houston Astros — Baseball Player — (2013-2013) — Texas Rangers — Baseball Player — (2014-2015) — EDA Rhinos — Baseball Player — (2015-2016) — Fubon Guardians — Baseball Player — (2016-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 妤婕

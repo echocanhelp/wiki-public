@@ -23,6 +23,15 @@ Harvard University
 Assistant Professor of Chemistry and Chemical Biology
 (1999-2003)
 
+<!-- tah-tables:start -->
+## Education
+- Harvard Univ. — 1994 — B.S., Chemistry
+- U.C. Berkeley — 1999 — Ph.D.
+
+## Employment
+- Harvard University — Assistant Professor of Chemistry and Chemical Biology — (1999-2003) — Harvard University — Associate Professor of Chemistry and Chemical Biology — (2003-2005) — Harvard University — Professor of Chemistry and Chemical Biology — (2005-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -19,7 +19,19 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur, scientist
 - **Source:** TAH Foundation Who’s Who
 
-C.F. Liang (梁昌夫) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 成功大學 — 1974 — B.S.冶金及材料
+- 成功大學 — M.S. 電機工程
+- Pennsylvania State University — Ph.D. 陶瓷材料
+
+## Employment
+- MCV Energy, Inc. — 1995-present — 總裁
+- TRW
+- Heraeus
+- American Technical Ceramics (ATC) — 工程部門及市場開發部門高級主管
+<!-- tah-tables:end -->
 
 ## Family
 

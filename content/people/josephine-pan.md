@@ -30,6 +30,11 @@ last_reviewed: 2026-08-17
 - [TAH #113 encyclopedia: 113. Josephine Pan 潘掬慧](https://taiwaneseamericanhistory.org/113-josephine-pan-%e6%bd%98%e6%8e%ac%e6%85%a7/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/josephine-pan/)
 
+<!-- tah-tables:start -->
+## Employment
+- JT & Tea Inc. — CEO and Managing Director
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Thomas Shu 許正龍

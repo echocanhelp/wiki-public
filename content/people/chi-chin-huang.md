@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Source from Taiwanese Association of American Greater Washington Chapter Special Edition, 2008/11
 
+<!-- tah-tables:start -->
+## Education
+- 日本東京大學醫學部 — B.S.
+- M.S.麻醉學
+
+## Employment
+- 馬里蘭州 — 創立針灸診所
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 何亦佳

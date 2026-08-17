@@ -19,7 +19,20 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Isaiah Lee (李宗派教授) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 中興大學 — B.A., 社會學與社會工作
+- Univ. of Nebraska — 1964 — M.S., Social Work
+- Columbia Univ. — 1966 — 社會福利理論與社會工作教育
+- UCLA — M.S., Public Health
+- UCLA — 1972 — Ph.D., Public Health
+
+## Employment
+- 紐約市之大都會醫院與碧文醫院 — 1964 — 醫療社工師
+- 洛杉磯南區公共衛生社會工作 — 地區主任
+- CSULB — 社會工作系教授兼系主任
+<!-- tah-tables:end -->
 
 ## Family
 

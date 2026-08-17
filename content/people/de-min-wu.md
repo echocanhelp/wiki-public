@@ -21,6 +21,19 @@ last_reviewed: 2026-08-17
 
 2. President of North America Taiwanese Professor Association (北美洲台灣人教授協會會長)1983-84
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1956 — BA in Economics
+- University of Wisconsin — 1963 — Ph. D in Economics
+
+## Employment
+- Univ. of Kansas — 1964-99 — 1990-93 — 1999- — Assistant, Associate and Full Professor — Department Chair — Professor Emeritus
+- 東京一橋大學經濟研究所 — 1986-87 — Professor
+- 中國人民大學西方經濟學訓練中心 — Spring — 1991 — Professor
+- 日本筑波大學社會經濟計畫學院 — 1995-96 — Visiting Professor
+- 日本京都大學經濟研究所 — Summer 1998 — Visiting Professor
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 錦霞

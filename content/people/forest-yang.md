@@ -22,6 +22,17 @@ last_reviewed: 2026-08-17
 Bureau of East Asian and Pacific Affairs, Office of Japan Affairs
 Political Officer
 
+<!-- tah-tables:start -->
+## Education
+- Columbia University — B.S.history
+- University of Oxford — M.S.
+
+## Employment
+- U.S. Department of State Greater Los Angeles Area — present — Foreign Service Officer
+- Bureau of East Asian and Pacific Affairs in the Office of Japan Affairs — political officer
+- Bureau of Intelligence and Research — Watch Officer
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

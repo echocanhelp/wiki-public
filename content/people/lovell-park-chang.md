@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 New York raised trumpeter Lovell Park Chang holds a Bachelor’s Degree from Manhattan School of Music and is currently pursuing for a dual degree program in Masters of Music and Master of Education from Manhattan School of Music. His most recent accomplishments include organizing a spring recital and winning the Fuchs Competition for Chamber Music. He was the recipient of the Carmine Caruso Scholarship in 2012.
 
+<!-- tah-tables:start -->
+## Education
+- Manhattan School of Music — B.S.
+- S Manhattan School of Music — M.S. Music
+
+## Employment
+- 幼獅管弦樂團 — 2002- — trumpeter
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

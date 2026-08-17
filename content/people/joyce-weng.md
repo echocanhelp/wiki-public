@@ -21,6 +21,11 @@ last_reviewed: 2026-08-17
 
 2. President of North America Association for Taiwan Literature (北美洲臺灣文學研究會會長) 1988-1990
 
+<!-- tah-tables:start -->
+## Education
+- Taipei Women's Teachers College (台北女子師專)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Ding-Shan Weng

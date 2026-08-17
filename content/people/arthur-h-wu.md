@@ -19,7 +19,20 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Arthur H. Wu (吳漢南) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 成功大學 — 1956 — B.S. 土木工程系
+- 成功大學 — 1961 — M.S. 土木工程系
+- 俄亥俄州州立大學 — 1964 — M.S. 土壤力學
+- 喬治華盛頓大學 — 1981 — Ph.D.工程力學
+
+## Employment
+- 美國海軍部工程署 — 應用工程處處長及主任總工程師
+- 喬治華盛頓大學 — 助理教授
+- 美國海軍官校 — 副教授
+- 美京華盛頓大學 — 教授
+<!-- tah-tables:end -->
 
 ## Family
 

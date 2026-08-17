@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Associate Editor of the IEEE Transactions on Circuits and Systems
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1971 — B.S.
+- Princeton Univ. — 1974 — M.S. — 1976 — Ph.D.
+
+## Employment
+- State Univ. of New York — Assistant Professor of Electrical Engineering — (1976-1980) — AT&T Bell Laboratories — Member of Technical Staff — (1980-1984) — Tektronix Laboratories — Research Manager and Principal Engineer — (1984-1990) — Portland State Univ. — Professor — (1990-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

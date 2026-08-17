@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of North American Taiwanese Medical Association (北美洲台灣人醫師協會總會會長), 1986-1988
 
+<!-- tah-tables:start -->
+## Education
+- Kaohsiung Medical Univ. (高雄醫學大學) — 1966 — M.D.
+
+## Employment
+- Amerasia Bank, NY — Chairman — Community — North American Taiwanese Medical Association (北美洲台灣人醫師協會總會) — President, 1986-1988
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** [[people/maysing-huang|楊黃美幸]]

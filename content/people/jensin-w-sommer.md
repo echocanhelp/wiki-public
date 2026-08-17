@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. A Graduate of U.S. Navy Academy 1991, One of Few Females Graduates
 
+<!-- tah-tables:start -->
+## Education
+- United States Naval Academy — 1991
+- The Catholic Univ. of America — 2001 — M.S., Political Science
+
+## Employment
+- U.S. Navy — Lieutenant Colonel (retired) — (1991-2012)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** John Sommer

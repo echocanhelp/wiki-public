@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 2. Creative Director of Her Studio, Mengdom Experimental Design Lab, Clients Include Many Well-Known Brands: Nokia, M.A.C Cosmetics, League of Legends and Nike
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Normal Univ. — BFA, Visual Communication Design
+- Visual Arts (SVA) — 2013 — MFA, Computer Art
+
+## Employment
+- Mengdom Experimental Design Lab — Director — School of Visual Arts (SVA) — Teaching Interface Design — (2016-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

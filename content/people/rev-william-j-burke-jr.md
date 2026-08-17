@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Universities in Taiwan
 Student work, teaching Western literature, Greek, Roman Literature & Drama
 
+<!-- tah-tables:start -->
+## Education
+- Western Theological Seminary — 1964
+- St. John’s Univ. — 1973 — M.S., Chinese Language & Literature
+
+## Employment
+- Reformed Church in America — Ordained Minister — (1964-) — Universities in Taiwan — Student work, teaching Western literature, Greek, Roman Literature & Drama — Tunghai Univ. — Chaplain — Passaic Reformed Church — Pastor — Presbyterian Church in Royal Oak — Taiwanese Fellowship — Taiwanese Presbyterian Church at Ann Arbor — Taiwanese student ministry
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Diana Hsiu-Hsia Lai

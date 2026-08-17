@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Vivian Y.G. Fu (林郁子) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Cheng Kung Univ. (成功大學) — B.S., Architecture
+- Kansas State Univ. — M.S., Architecture
+- America College — M.S.
+
+## Employment
+- New York Life Insurance — Agent — Community — NATWA — President — FAPA at Large Board — President — TACWC — Treasurer
+<!-- tah-tables:end -->
 
 ## Family
 

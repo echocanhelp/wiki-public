@@ -19,7 +19,12 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Chiao-jung Wang (王巧蓉) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Employment
+- Formosan Association for Public Affairs — 1999- — Managing Director — 2, Formosan Association for Public Affairs — Office manager
+- DPP Leigislator — aide
+<!-- tah-tables:end -->
 
 ## Family
 

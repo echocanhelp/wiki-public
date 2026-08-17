@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-W. Y. Chou (周婉窈) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1978 — B.S.歷史
+- 台灣大學 — 1981 — M.S.歷史
+- 耶魯大學 — 1991 — Ph.D.歷史
+
+## Employment
+- 哥倫比亞大學亞洲研究院 — 講師
+- 臺灣大學 — 歷史系教授
+<!-- tah-tables:end -->
 
 ## Family
 

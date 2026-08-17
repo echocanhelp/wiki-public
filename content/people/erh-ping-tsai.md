@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** artist
 - **Source:** TAH Foundation Who’s Who
 
-Erh-Ping Tsai (蔡爾平) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. of Arts — B.S., Art
+- Parsons School of Design — B.S., Sculpture
+- New York Studio School of Drawing, Painting and Sculpture
+
+## Employment
+- Ep Tsai Studio — Founder
+<!-- tah-tables:end -->
 
 ## Family
 

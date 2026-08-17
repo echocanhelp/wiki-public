@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Joseph Hong (洪茂澤) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 高雄醫學院 — B.A.
+- 加州大學 — M.S.社會工作
+
+## Employment
+- 台僑月刊 — 發行人 — (1996-) — Community — 美國台灣文化協會 — 會長 — 南加州台灣人長老教會聯合會執行委員會 — 副主席 — 加州台灣同鄉會 — 會長 — 全美台灣同鄉會 — 會長 — 世界台灣同鄉會聯合會 — 副會長
+<!-- tah-tables:end -->
 
 ## Family
 

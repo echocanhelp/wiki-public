@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Prof. Chi-Tien Chang (張啟典教授) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1963 — B.S.
+- Northeastern University — 1967 — M.S.有機化學
+- Boston University — 1984 — Ph.D.
+
+## Employment
+- Harvard University — professor
+<!-- tah-tables:end -->
 
 ## Family
 

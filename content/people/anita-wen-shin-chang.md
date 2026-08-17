@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 San Francisco’s School of the Arts, University High School, Department of Indigenous Languages and Communication at National Dong Hwa University, Taiwan
 
+<!-- tah-tables:start -->
+## Education
+- Tufts University — B.A. American Studies and English — San Francisco State University
+- University of California Santa Cruz — MFA in Cinema — PhD Film and Digital Media
+
+## Employment
+- Filmmaker — San Francisco Conservation Corp and the Film Arts Foundation — Film/video production and media studies — San Francisco’s School of the Arts, University High School, Department of Indigenous Languages and Communication at National Dong Hwa University, Taiwan — Instructor — Kathmandu Academy of Audio Visual Arts & Sciences — National Taiwan University of Arts — Fulbright Scholar — San Francisco Art Institute, San Francisco State University, University of San Francisco, UC Santa Cruz — Instructor of film/video production, documentary, and third cinema — community activist, urban youth counselor, civil rights investigator, and education director — Film Arts Foundation-Kathmandu AAVAS residency, Headlands Center for the Arts, Taipei Artist Village, and Hweilan International Artists’ Workshop — artist residencies
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Son:** 4.Parents:

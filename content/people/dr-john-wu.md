@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Dr. John Wu (吳正義醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Taipei Medical Univ. (台北醫學院) — 1966 — M.D.
+
+## Employment
+- Bridgeport Hospital — Resident — (1967-1972) — Physician — (1973-2000)
+<!-- tah-tables:end -->
 
 ## Family
 

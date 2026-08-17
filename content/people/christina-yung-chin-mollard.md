@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Christina (Yung-Chin) Mollard 謝永芹 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- Soochow University — 2000 — B.S. Piano Performance
+
+## Employment
+- Ya Yin Chorus, the Hakka Tungfa Chorus, the Hua Xia Chorus, the Tong Xin Chorus — 2011 — 伴奏
+- Northwest High School Chamber & Treble Choirs at Carnegie Hall — 伴奏
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

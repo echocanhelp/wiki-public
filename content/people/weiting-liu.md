@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Weiting Liu (劉威廷) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- University of British Columbia — 2003 — B.S. Computer science
+- Stanford University — 2005 — M.S. 管理科學與工程學 — year
+
+## Employment
+- Codementor — 2013-present — Founder & CEO
+- Mr.6 — 2010-present — Co-founder
+- Noodle Labs, Inc. — 2012 — Co-founder
+- SocialPicks — 2006-2009 — Co-founder & CEO
+<!-- tah-tables:end -->
 
 ## Family
 

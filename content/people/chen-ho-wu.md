@@ -19,7 +19,19 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur, scientist
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Chen-Ho Wu (吳振和博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Taiwan National Univ. — 1964 — B.S. 電機系
+- New Mexico State Univ. — 1967 — M.S. 物理學
+- Stanford University — 1973 — Ph.D. 半導體電子材料學
+
+## Employment
+- Hewlett-Packard — 1973-78 — 1979-84 — Researcher
+- TRW — 1978-79 — Researcher
+- Compound Semiconductors, Inc — 1984-88 — Founder
+- Leotek Electronics Co. — 1993 — Founder
+<!-- tah-tables:end -->
 
 ## Family
 

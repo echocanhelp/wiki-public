@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Tony Chen (陳國洸) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S. 土木工程 — University of Texas, Austin — M.S. 環境健康工程
+
+## Employment
+- 美國德州川乃第流域開發處 — 工程師及經理 — A Plus International Inc. — 1983 — President
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,11 @@ last_reviewed: 2026-08-17
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
-M. K. Wei (魏妙圭) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 師範大學 — B.S., 體育
+<!-- tah-tables:end -->
 
 ## Family
 

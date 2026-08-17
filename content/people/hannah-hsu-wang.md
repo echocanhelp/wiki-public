@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Noted for her elegant touch on the keys of the piano, Hannah has been enchanting her audiences with her exquisite and engaging performances. Born in Taiwan and receiving her Bachelor’s degree from the New England Conservatory and Master’s degree from Yale University, she has performed in prestigious venues such as Merkin Concert Hall and Alice Tully Hall in New York City, Tsai Performance Center in Boston, Arts Center in Toronto, The Playhouse in Vancouver, Suntory Hall in Tokyo, and the National Concert Hall in Taiwan.
 
+<!-- tah-tables:start -->
+## Education
+- New England Conservatory — 1966 — B.S., Music
+- Yale Univ. — 1972 — M.S., Music
+
+## Employment
+- Hannah Hsu Wang Music and Dance Academy (許鴻玉音樂舞蹈學院) — Self-Employee — (1986-2001) — Soochow University (東吳大學) — Faculty Member — (1977-) — National Taiwan Normal University (師範大學) — Faculty Member — (1977-) — Taiwan Culture University (中國文化學院) — Faculty Member — (1977-) — Community — North America Taiwanese Women's Association, NATWA / New York Chapter (北美洲台灣婦女會紐約分會) — President — Music Teachers National Association (MTNA) — Nationally Certified Music Teacher
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

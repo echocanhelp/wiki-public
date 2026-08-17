@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Founded Bioelectronica Corporation, A Mixed Antibody and Cell Measurement/Sorting Platform for Developing Immunotherapies 2017
 
+<!-- tah-tables:start -->
+## Education
+- Massachusetts Institute of Technology — 1991 — B.S., Electrical Engineering
+- Univ. of California, Santa Cruz — 2007 — M.S., Biochemistry
+
+## Employment
+- World Famous Artificial Intelligence Lab on Mobile Robots — Engineering — (1991-) — Maxim Integrated Products Company (MXIM) — Applications Engineer & Business Manager — (1991-2001) — Mixed Signal Analog IC Development — CTO — (2009-2014) — Genia Subsidiary of Roche Molecular Systems — Vice President — (2014-2016) — Bioelectronica Corporation — Founder, President — (2017-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Chen Chen Chen

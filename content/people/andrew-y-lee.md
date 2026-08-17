@@ -19,7 +19,19 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Andrew Y. Lee (李友義博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 省立台北工專 — 1960 — 電機科
+- Kansas State University Manhattan, Kansas — 1967 — M.S.電機
+- Oklahoma State University — 1972 — Ph.D.電機
+
+## Employment
+- Tennessee Valley Authority, Chattanooga — 1967
+- G.E. Electric Co. Washington D.C. — 972-79 — 工程師
+- Liton Industries, New Jersey — 1979-81 — 工程師
+- Northrop Grumma Corporation, San Jose — 1981-2001 — 航空偵測儀器工程師
+<!-- tah-tables:end -->
 
 ## Family
 

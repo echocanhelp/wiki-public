@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, physician, professor
 - **Source:** TAH Foundation Who’s Who
 
-Perry B. Shieh (謝泊怡) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Berkeley University — 1992 — B.A.physics
+- Harvard University — 1995 — M.A.physics
+- Johns Hopkins — 2000 — M.D. & Ph.D.
+
+## Employment
+- UCLA Medical Center — 2012-present — Associate professor
+- Neuromusclar Division at UCLA Medical Cente — 2007-present — Director
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Ting-kuei Tsay (蔡丁貴教授) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 成功大學 — 1971 — B.S., 土木工程
+- 成功大學 — 1973 — M.S., 土木工程
+- Cornell Univ. — 1982 — Ph.D., Environment Eng.
+
+## Employment
+- Syracuse Univ. — 1983-1990 — Professor
+- National Taiwan Univ. — 1990-2016 — Professor
+<!-- tah-tables:end -->
 
 ## Family
 

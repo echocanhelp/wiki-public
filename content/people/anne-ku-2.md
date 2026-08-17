@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Violinist Anne Ku is an up and coming orchestral and chamber musician, as well as a dedicated teacher. A graduate of The Juilliard School, Anne’s goal in music is to inspire the next generation of classical musicians.
 
+<!-- tah-tables:start -->
+## Education
+- The Juilliard School — Temple University Preparatory Division
+
+## Employment
+- National Repertory Orchestra — Assistant Concertmaster — (2011-2011) — Temple Youth Orchestra — Associate Principal Second Violin — (2004-2007)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

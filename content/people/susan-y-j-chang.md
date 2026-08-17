@@ -22,6 +22,11 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of North America Taiwanese Women’s Association (NATWA) (北美洲台灣婦女會會長) 2001-2002
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — BS, Nursing
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** 張仲郎

@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 4. President of the Taiwanese Alumni Association of Univ. of Kansas (堪薩斯大學台灣同學會長)
 
+<!-- tah-tables:start -->
+## Education
+- Kansas Univ. — M.S.
+
+## Employment
+- Tunghai University (東海大學) — Lecturer, Dept. of Foreign Languages — Community — NATWA — Vice President — Huntsville Taiwanese American Association (阿拉巴馬州番薯味同鄉會) — President — Taiwanese Association of Greater Kansas City (大堪薩斯市臺灣同鄉會) — President — Taiwanese Alumni Association of University of Kansas (堪薩斯大學台灣同學會) — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** [[people/yen-sen-chen|陳彥升]]

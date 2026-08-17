@@ -21,6 +21,12 @@ last_reviewed: 2026-08-17
 
 A native of Taiwan, pianist Yu-Wen Chen (陳郁雯) began her study of piano at the age of five. She holds a Bachelor of Music degree in Piano Performance from National Taiwan Normal University (NTNU), a Master of Music degree in Piano Performance and Piano Accompanying (Chamber Music) from the Boyer College of Temple University.
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Normal University — B.S.music
+- Boyer College of Temple University — M.S.music
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

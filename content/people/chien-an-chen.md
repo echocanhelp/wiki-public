@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 A native of Taiwan, Chien-an Chen began cello lessons at the age of seven. His talent soon became apparent, and he was invited to give a performance for the country’s former president, Chiang Kai-shek. At the age of 12, Mr. Chen moved to Japan to study with Hideo Saito and Juro Aoki at the Toho School of Music. He continued his studies at the Peabody Conservatory with Stephen Kates, the Shepherd School of Music with Shirley Trepel, and the University of Southern California with Gabor Rejto. Mr. Chen also studied with Mstislav Rostropovich, Janos Starker, Lynn Harrell, Zara Nelsova, and Laszlo Varga.
 
+<!-- tah-tables:start -->
+## Education
+- 日本桐朋音樂大學 — 大提琴演奏 — PeabodyInstitute ofJohn HopkinsUniversity — Shepherdschoolof Music ofRice University
+
+## Employment
+- Universityof Southern California — 1986 — 助教 — 交通大學音樂研究所 — 2000
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

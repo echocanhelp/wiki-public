@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 8. Marvin J. Johnson Award, Biochemical Technology Division, American Chemical Society, 2009
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1980 — B.S., Chemical Engineering
+- Univ. of Wisconsin-Madison — 1987 — Ph.D., Chemical Engineering
+
+## Employment
+- Eastman Kodak Company — Engineer — (1987-) — Texas A&M University — Professor — (1990-) — UCLA — Professor — (1997-) — Academia Sinica, Taiwan — President — (2016-2018)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** ­­--

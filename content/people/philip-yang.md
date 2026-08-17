@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist
 - **Source:** TAH Foundation Who’s Who
 
-Philip Yang (楊永慶牧師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 美國伊利諾大學 — M.S.化學
+- 美國伊利諾大學 — Ph.D. 材料工程
+
+## Employment
+- 基督先鋒教會 — 創會與主任牧師
+- 飛鷹出版事業 — 執行長
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Ling Ling Chang (張玲玲) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- University of California, Riverside — B.S.
+
+## Employment
+- California State Assembly — Present — 參議員
+- Diamond BarCity Council — City council woman
+- Diamond Bar City — 2011-2012 — Mayor
+<!-- tah-tables:end -->
 
 ## Family
 

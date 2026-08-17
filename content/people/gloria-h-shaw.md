@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Founding Member of Formosan Christian Church of Dallas (Texas) 1978
 
+<!-- tah-tables:start -->
+## Education
+- Shih Chien Univ. — 1970 — B.S., Accounting
+- Gradwohl School of Laboratory Technique — 1972 — Medical Laboratory Technology
+- Univ. of Texas at Dallas — 1988 — 2001 — B.S., Business Administration — MPA Candidate, Public Affairs
+
+## Employment
+- Clinical Pathology of Western Pennsylvania — Medical Lab Technician — (1972-1974) — World Book Educational Products — Area Marketing Manager — (1989-1996) — The American Image Marketing, Inc. — Director — (1990-) — Agape Healthy Living consulting — Founder — (1996-) — Community — Formosan Christian Church of Dallas (Texas) — Founding Member — National Republican Congressional Committee — Honor Chair of Business Advisory
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Ching Hao Shaw

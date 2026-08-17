@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 An accomplished pianist and chamber musician, Rose was born and raised in Taipei, Taiwan, and began attending schools specializing in music at age six. She won first prize in the Kawai Piano Competition for Young Artists, and was invited to perform in the National Concert Hall of Taiwan at age 12. After winning awards in several other piano competitions in her native Taiwan, driven by a very curious and adventurous heart Rose moved to the United States in 1997.
 
+<!-- tah-tables:start -->
+## Education
+- England Conservatory — B.A. Piano
+- San Francisco Conservatory — M.S. Music
+
+## Employment
+- Biola University — Teaching
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

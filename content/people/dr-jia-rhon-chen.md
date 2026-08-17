@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Eleanor Heartney, a contributing editor to Art in America and author of Critical Condition: American Culture at Crossroads, wrote of Jia-Rhon Chen’s artworks: “Dr. Chen blends bold color and cubistic forms which might be seen as part of his western inheritance with sure quick brush strokes that hark back to the tradition of Asian calligraphy. This mixing of reference is evident in other works which perform a similar operation on the landscape of Taiwan, transforming it into a kaleidoscopic vision of movement and change….
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1965 — MD, Medical
+
+## Employment
+- Veterans' Administration Medical Center, Brooklyn, NY — Neurologist — (1973-2010) — SUNY Downstate Medical Center University Hospital — Associate Professor — Formosa Chamber Music Society, Inc. — Chairman of the Board of Directors — (1991-2015) — National Taiwan University Alumni Association, Greater New York Chapter — President — (1995-1997) — National Taiwan University Medical College Alumni Association, Greater New York Chapter — President — (2001-2003) — National Taiwan University Medical College Alumni Association of North America — Chairman of the Board of Directors — (2003-2005) — Community — Formosa Chamber Music Society, Inc. — Chairman of the Board of Directors (1991-2015) — National Taiwan University Alumni Association, Greater New York Chapter — President (1995-1997) — National Taiwan University Medical College Alumni Association, Greater New York Chapter — President (2001-2003) — National Taiwan University Medical College Alumni Association of North America — Chairman of the Board of Directors (2003-2005)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 黃春英

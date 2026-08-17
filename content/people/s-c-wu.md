@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-S. C. Wu (吳西謙) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 淡江文理學院 — B.S.
+
+## Employment
+- 東南旅行社 — 1960-1967 — 副理 — 錫安旅行社 — 1967- — president
+<!-- tah-tables:end -->
 
 ## Family
 

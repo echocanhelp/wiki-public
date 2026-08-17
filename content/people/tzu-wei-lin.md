@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 2. World Youth League Championships won the Most Valuable Player, Percussion King, Scoring King and Best Defense Award, 2010
 
+<!-- tah-tables:start -->
+## Education
+- Kao-Yuan Vocational High School of Technology & Commerce (高苑工商)
+- Tatung Institute of Commerce and Technology (大同技術學院)
+
+## Employment
+- Boston Red Sox — Baseball Player — (2012-2020) — Minnesota Twins — Baseball Player — (2021-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 朱凱莉

@@ -19,7 +19,12 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-J. S. Chung (鍾俊賢) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Employment
+- SDRC機械設計軟體公司 — 1987- — SDRC fellow
+- Siemens
+<!-- tah-tables:end -->
 
 ## Family
 

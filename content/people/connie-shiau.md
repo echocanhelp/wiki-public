@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Won the Outstanding Dancer Award at the Reverb Dance Festival in New York
 
+<!-- tah-tables:start -->
+## Education
+- Taipei National Univ. of the Arts (國立臺北藝術大學) — B.A., Dance
+- SUNY Purchase College — B.A., Dance
+
+## Employment
+- Kyle Abraham/Abraham.In.Motion — Dancer — (2012-2017) — Hubbard Street Dance Chicago — Dancer — (2018-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

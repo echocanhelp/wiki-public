@@ -19,7 +19,20 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Milo Thornberry (唐培禮牧師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Texas Wesleyan College
+- Perkins School of Theology at Southern Methodist University
+- 波士頓大學 — 宣教與世界宗教神學博士學位
+
+## Employment
+- 衛理公會 — 1965- — 傳教士
+- 台灣神學院 — 教會歷史副教授
+- National Council of Churches
+- Emory University — 宣教資源中心主任
+- 亞特蘭大大學 — 教派際神學中心主任
+<!-- tah-tables:end -->
 
 ## Family
 

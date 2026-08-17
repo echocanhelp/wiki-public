@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Source from 美洲台灣日報http://taiwandaily.net/gp2.aspx?_p=kSF1c9zU9HS21FClfOjsJD7dPHKLpMMZ
 
+<!-- tah-tables:start -->
+## Education
+- UCSD — 2003 — B.S.數學
+
+## Employment
+- United Health Care — 2003-2007 — 精算師
+- Blue Shield of California — 2007-2011 — Senior Actuarial Analyst
+- Wellpoint — 2012-present — Associate Actuary
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Father:** 王耀廷 Mother:謝綉緞

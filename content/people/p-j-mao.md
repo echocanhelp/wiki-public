@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-P. J. Mao (毛平吉博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 高雄工業學校 — B.S.
+- 密蘇里大學 — Ph.D.
+
+## Employment
+- 沙加緬度大學工業管理 — Professor
+- 加州柏克萊大學工業管理 — Professor
+- 明尼肯大學國際商業 — Professor
+- 美國加州管理學院 — 院長
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Gene Cho, Professor of Music, has been on the UNT faculty since 1972. He received his Ph.D. degree (music theory) from Northwestern University. His earlier education included science and economics, as well as theology, church music, conducting and composition.
 
+<!-- tah-tables:start -->
+## Education
+- Northwestern University — 1975 — Ph.D. Music Theory
+
+## Employment
+- 美國北德州大學音樂學院 — Professor of Music Theory
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Daughter:** ???

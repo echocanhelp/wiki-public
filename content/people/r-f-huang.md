@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 黃瑞鳳老師出生於台南，在一個愛好音樂的環境長大，母親柯明珠女士，是三十年代留日的聲樂家。黃老師從五歲參加唱詩班至今。1961年台灣範大學音樂系畢業，主修聲樂。來美以後定居長島，不久即參加Long Island Symphonic Chorus至今二十多年。並擔任紐約杏仁Quartet指揮十多年，2011年開始擔任大紐約區台灣同鄉會合唱團指揮。
 
+<!-- tah-tables:start -->
+## Education
+- 師範大學 — 1961 — B.S.音樂
+
+## Employment
+- Long Island Symphonic Chorus — Member — 紐約杏仁 Quartet — Conductor — 大紐約區台灣同鄉會合唱團 — Conductor — (2011-) — Community — 紐約杏林Quartet — 指揮 — 大紐約區台灣同鄉會合唱團 — 指揮
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

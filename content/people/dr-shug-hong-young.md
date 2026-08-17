@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Is board certified in Echocardiography, Nuclear Cardiology, and Cardiac CT in addition to General Cardiology
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. College of Medicine — 1975 — M.D.
+- Catholic Medical Center of Brooklyn & Queens, NY — Residency
+- Harvard School of Public Health — Residency
+
+## Employment
+- Stony Brook Univ. Hospital — Assistant Professor — East Setauket, NY — Cardiologist — Community — New York Formosa Chorus (紐約福爾摩沙合唱團) — Head — Formosan Society for Performing Arts Inc. (FOSPA) (福爾摩沙表演藝術協會) — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** [[people/julie-su-young|蘇秋莉]]

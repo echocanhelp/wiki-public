@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Cellist Ru-Pei Yeh has established herself as a versatile artist who performs regularly in Taiwan and the U.S. Her elegant and lyrical playing has propelled her pursuit in a career as a soloist, chamber musician, and orchestral player.
 
+<!-- tah-tables:start -->
+## Education
+- New England Conservatory — B.S. Music
+- The Juilliard School — M.S. Music
+
+## Employment
+- 聖地牙交響樂團 — 2005-2006 — 首席大提琴手
+- 紐約愛樂交響樂團 — 2009 — 大提琴手
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

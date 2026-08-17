@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of Orange County Taiwanese Association (OCTA) (柑縣台灣同鄉會會長) 2001
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1979 — B.S., Civil Engineering
+- The Univ. of Utah — 1983 — 1985 — M.S., Civil Engineering — Ph.D., Civil Engineering
+
+## Employment
+- Boeing Co. — (1997-) — Community — Orange County Taiwanese Association (OCTA) — President — Golden Orange Club (金桔會)/OCTA — Project Manager — Taiwanese Association of the Greater Salt Lake (TAGSL) — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** [[people/shiu-sian-angel-hsu-wang|許秀香]]

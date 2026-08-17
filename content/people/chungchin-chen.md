@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Directed the staff in preparing Long-Range Regional Development Plan and carrying our various community and regional analyses.
 
+<!-- tah-tables:start -->
+## Education
+- National Cheng-Chi Univ. — 1959 — B.A., Political Science
+- UC Berkeley — 1965 — M.S., City & Regional Planning
+
+## Employment
+- City Planning Dept., Kansas, MO — Assistant Planner — (1965-1967) — Metro-Planning Department, Indianapolis, IN — Senior Planner — (1967-1969) — Capital District Regional Planning Commission, Albany, NY — Executive Director — (1970-2003) — Community — Overseas Compatriot Affairs Council (Taiwan) 僑務委員會 — Advisor
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 魏文華

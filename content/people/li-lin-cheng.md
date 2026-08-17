@@ -23,6 +23,16 @@ last_reviewed: 2026-08-17
 BVM (Bachelor of Veterinary Medicine)
 (1988)
 
+<!-- tah-tables:start -->
+## Education
+- Cornell University — 1992 — M.S. in Virology病毒
+- University of Wisconsin–Madison — 1998 — Ph.D. in Virology 病毒
+- 中興大學 — 1988 — BVM獸醫
+
+## Employment
+- University of Wisconsin–Madison — 1998-2005 — Post Doc Researcher — University of Wisconsin–Madison — 2009- — 2014 — Scientist
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

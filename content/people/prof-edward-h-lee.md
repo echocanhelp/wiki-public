@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Prof. Edward H Lee (李賢淇教授) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — BS
+- Pennsylvania State Univ. — Ph.D
+
+## Employment
+- National Central University (中央大學) — Head of Department of Life Sciences — (1995-) — U.S. Department of Agriculture (USDA) — Research Associate — Community — TAA/GDC Chapter — President — East Coast Taiwanese Summer Conference — Coordinator
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Charles Chiang (江昭儀) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Tunghai Univ. — B.A., Economics
+- Memphis Univ. — M.A., Economics
+
+## Employment
+- Executive Yuan — Financial Consultant — Federal Internal Revenue Service — Commissioner — Community — Taiwanese American CPA Association — President
+<!-- tah-tables:end -->
 
 ## Family
 

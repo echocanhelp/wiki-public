@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Academy Member of ASPH/Pfizer Public Health Academy of Distinguished Teachers, 2012-2017
 
+<!-- tah-tables:start -->
+## Education
+- National Central Univ. — 1974 — B.S., Mathematics
+- The Ohio State Univ. — 1978 — M.S., Mathematics — 1984 — Ph.D., Statistics
+
+## Employment
+- Case Western Reserve Univ. — Assistant Professor — (1984-1988) — UT Health Science Center, Houston — Assistant Professor — (1989-1997) — UT Health Science Center, Houston — Professor — (1997-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

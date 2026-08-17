@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of The Greater New York Region Overseas Taiwanese Pen Club(大紐約區海外台灣人筆會筆會會長) 2016-2017
 
+<!-- tah-tables:start -->
+## Education
+- Kaohsiung Medical Univ. — B.S., Medical
+
+## Employment
+- Anesthesiologist — Greater New York Region Overseas Taiwanese Pen Club — President — (2016-2017) — Kaohsiung Medical University America Alumni Association — Chairman, Board of Directors — (2002-2006) — Global Taiwan Institute (GTI) — Co-founder — (2016-) — Greater New York Taiwanese Pen Club — Editor-in-Chief, Taiwanese American Literature Collections — (2018-2019) — Community — Greater New York Region Overseas Taiwanese Pen Club — President (2016-2017) — Kaohsiung Medical University America Alumni Association — Chairman, Board of Directors (2002-2006) — Global Taiwan Institute (GTI) — Co-founder
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 劉惠昭

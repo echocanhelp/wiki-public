@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Born in Taiwan and raised in California, violist Sifei Cheng joined the Minnesota Orchestra in 1995. He has served as Principal Viola of the Charleston Symphony, New World Symphony, and the Pacific Music Festival Orchestra. He has led sections under Michael Tilson Thomas, Alexander Schneider, Eiji Oue and Christoph Eschenbach. As a chamber music performer, Sifei has played in the Ravinia Festival, Caramoor Music Festival, Taos Chamber Music Festival, Pacific Music Festival and the New York String Seminar. Some of his past coaches include Michael Tree, Samuel Rhodes, Miriam Fried, Paul Biss, Alan de Veritch, the Tokyo String Quartet, and the American String Quartet. He has collaborated in chamber music with artists such as Joshua Bell, Pamela Frank, Alicia de Larrocha and the Shanghai String Quartet. Sifei holds a degree from the Curtis Institute of Music in Philadelphia and studied at the Juilliard School in New York. His past teachers include Karen Tuttle, Michael Tree and William Kennedy.
 
+<!-- tah-tables:start -->
+## Education
+- Curtis Institute of Music — 1994 — B.S. Music
+
+## Employment
+- Minnesota Orchestra — 1995-present — Section Viola
+- Charleston Symphony — principal viola
+- 紐約弦樂團 — 首席中提琴
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

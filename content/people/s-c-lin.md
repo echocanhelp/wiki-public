@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-S. C. Lin (林淑珠) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台大醫學院 — B.S. 醫學
+- University of Cincinnati College — 1985 — M.D. Medicine
+
+## Employment
+- Dept. of Radiology, Margaret Mary Community Hospital — Medical Center
+- University of Cincinnati College of Medicien — Associate Professor
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 6. Time magazine selected her as one of the 100 most influential people of the era (美國時代雜誌將她選入了最具影響力時代百大人物), 2012
 
+<!-- tah-tables:start -->
+## Education
+- Columbia Univ. — 1996 — B.A., Women's Studies
+
+## Employment
+- Domestic Workers United (聯合家庭幫傭工會) — Founder and former lead organizer — (2000-2009) — National Domestic Workers' Alliance (美國全國家庭傭工聯盟) — Director — (2010-) — Caring Across Generations (跨代關懷) — Co-director — (2011-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Father:** 蒲慕明

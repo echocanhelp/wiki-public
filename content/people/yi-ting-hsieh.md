@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Clarinetist Yi-Ting Hsieh has performed solo, orchestral, and chamber works in Taiwan and in the United States. As a double major in clarinet and piano performance, Yi-Ting has been a collaborative pianist for the winning of a number of competitions. In addition, she has placed in several clarinet competitions, including 1st place in the Taiwanese National Student Competition of Music and 3rd place in the Young Artist Music Competition of Taiwan.
 
+<!-- tah-tables:start -->
+## Education
+- National Taichung University of Education — Bachelor of Music in Clarinet and Piano Performance — Peabody Institute of the Johns Hopkins University — Master of Music
+
+## Employment
+- Various chamber groups and orchestras, greater Boston area — Professional Musician — Private Studio — Piano and Clarinet Instructor
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

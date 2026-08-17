@@ -19,7 +19,11 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Rockwell Hsu (徐名璋) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Employment
+- Cisco Systems Inc — present — Senior signal Integrity Engineer
+<!-- tah-tables:end -->
 
 ## Family
 

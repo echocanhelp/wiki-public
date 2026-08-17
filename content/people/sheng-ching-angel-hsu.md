@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Born in Taiwan, Sheng-Ching Angel Hsu started learning music at the early age of two. She began lessons in music theory and started composition and piano at age three. Her mother soon discovered that she possessed absolute pitch and at age five, Ms. Hsu began her studies on the violin. Within a year, she made her first public appearance at the National Cheng-Kung University as both violinist and pianist. Ms. Hsu achieved success early in her career in numerous competitions including First Prize in the Tainan Municipal Cultural Center Competition, Asia Pacific Cup Music Competition, and the National Tainan Senior High School Competition. In 2000, she won the Tainan Music Association Music Competition on violin and consecutively won the prestigious Tainan National Music Competition as the youngest participant on violin and in composition the following year. Her exceptional talent led her to concert stages throughout Asia and soon attracted the attention of Yamaha and Kawai, for which she became the scholarship recipient from both corporations.
 
+<!-- tah-tables:start -->
+## Education
+- Mannes College The New School for Music — 2012 — B.S.Violin Performance
+- The Juilliard School — 2014 — M.S.Violin Performance
+
+## Employment
+- Hire Juilliard Program — 2013-present — Group Leader
+- Manhasset School of Music — 2012-present — Violin and piano instructor
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Won a Dahua Evening News literary essay contest and two Liang Shiqiu literature translation competitions. A recipient of several Iowa Press Women awards, including a first prize for her cover story in the Sunday Register's Picture Magazine. (曾獲臺灣大華晚報散文獎、梁實秋文學翻譯獎、及愛州新聞婦女寫作協會特寫首獎)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.A., Law
+- Univ. of Missouri — M.A., Journalism
+
+## Employment
+- Iowa State Univ. in Ames — Teaching Journalism — Tennessee State Univ. in Knoxville — Teaching Journalism
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** [[people/s-b-liu|劉西北]]

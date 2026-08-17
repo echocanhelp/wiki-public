@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Golden Bell Awards "Best International Chinese Program Award" 2001
 
+<!-- tah-tables:start -->
+## Education
+- Fu Jen Catholic Univ. (輔仁大學) — B.A., History
+- The City Univ. of New York — 1986 — M.A., Journalism
+
+## Employment
+- National Evening News (民族晚報) — Editor — Voice of America — Producer — (1989-2013)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

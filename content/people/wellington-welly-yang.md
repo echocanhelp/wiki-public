@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Wellington (Welly) Yang 楊呈偉 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- Columbia Univ. — 1994 — B.S., Political Science & International Relations
+
+## Employment
+- Ms. Saigon — Lead role of Thuy — (1993-) — Musical Making Tracks — (1999-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Dina Morishita (森下迪納)

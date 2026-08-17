@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Jamy R.M. Liu (尤瑞美) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 銘傳商業學院 — 1962 — 商業
+
+## Employment
+- Creative Business Service Co. — 1982
+<!-- tah-tables:end -->
 
 ## Family
 

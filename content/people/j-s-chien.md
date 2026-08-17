@@ -19,7 +19,13 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-J. S. Chien (簡忠松) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1966 — B.S., 土木工程
+- National Taiwan Univ. — M.S., 土木
+- Univ. of Cincinnati — 1970 — M.S.
+<!-- tah-tables:end -->
 
 ## Family
 

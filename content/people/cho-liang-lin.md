@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Violinist Cho-Liang Lin is lauded the world over for the eloquence of his playing and for the superb musicianship that marks his performances. In a concert career spanning the globe for more than thirty years, he is equally at home with orchestra, in recital, playing chamber music, and in a teaching studio.
 
+<!-- tah-tables:start -->
+## Education
+- The Juilliard School — 1975 — Violin
+
+## Employment
+- The Juilliard School — Instructor — (1991-) — Rice University Shepherd School of Music — Instructor — La Jolla Music Society SummerFest — (2001-) — La Jolla Music Society's SummerFest — Music Director — (2001-) — Hong Kong International Chamber Music Festival — Artistic Director — National Taiwan Symphony Orchestra's Youth Music Summer Camp — Artistic Director — Community — Chamber Music Society of Lincoln Center — Performer — Aspen Music Festival — Performer — Santa Fe Chamber Music Festival — Performer — Beijing Music Festival — Performer
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 何瑞燕

@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Wenhsiung (Luke) Huang 黃文雄 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- 高雄醫學院 — B.S.
+
+## Employment
+- 1. — 小兒科專科醫師
+- New York Medical College - Metropolitan Hospital Center — Residency
+- Our Lady of Mercy Medical Center — Residency
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

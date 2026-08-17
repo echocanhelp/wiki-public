@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-%E8%8E%8A%E6%9E%97%E7%B4%A0%E8%8A%B3 (莊林素芳) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台南第二高女
+
+## Employment
+- ABC Jewlry — Funder
+<!-- tah-tables:end -->
 
 ## Family
 

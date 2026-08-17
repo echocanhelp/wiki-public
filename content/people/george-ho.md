@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-George Ho (何震輝) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Chicago University — B.S.
+- Northwestern University The Feinberg School Of Medicine — 1988 — Ph.D.
+
+## Employment
+- Mount Carmel East Hospital — present — 醫院研究部住任 — Brigham and Women's Hospital — Residency
+<!-- tah-tables:end -->
 
 ## Family
 

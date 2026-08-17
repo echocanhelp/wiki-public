@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Daniel Lin (林嘉仁) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan University — 1965 — BS/Chemical Engineering — Clarkson University — Master — University of Washington — 1973 — PhD
+
+## Employment
+- Bechtel Power Corporation — 1973- — Kingston Machine Tool Mfg. — 1976-Present — Founder/President
+<!-- tah-tables:end -->
 
 ## Family
 

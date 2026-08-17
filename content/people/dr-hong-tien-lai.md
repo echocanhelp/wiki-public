@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 3. Coordinator of Taiwanese American Council of Greater New York (大紐約區台灣人社團聯合會招集人) 2004-2018
 
+<!-- tah-tables:start -->
+## Education
+- Chung Shan Medical Univ. — -1964 — B.S., Dentistry
+- Medical College of Georgia — 1969 — M.S., Microbiology. Biochemistry
+- State Univ. of NY at Buffalo — -1972 — D.D.S (Doctor of Dental Surgery)
+
+## Employment
+- New York Dental Clinic — Practicing Dentist — Community — New York Taiwan Center (紐約台灣會館) — Chairman — UN for Taiwan (台灣加入聯合國行動委員會) — Founder and Coordinator / First Chairman — Taiwanese American Council of Greater New York (大紐約區台灣人社團聯合會) — Coordinator — Greater New York Taiwanese Medical Association (大紐約區台灣醫師協會) — Founding President — Taiwanese American Conference / East Coast (美東台灣人夏令會) — Coordinator — Formosan Association for Public Affairs / New York Chapter (台灣人公共事務會紐約分會) — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 林吟珍

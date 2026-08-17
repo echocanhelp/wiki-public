@@ -19,7 +19,12 @@ last_reviewed: 2026-08-17
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
-Ingrid Tseng (曾暎貴) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan University — 1966 — BS Nursing
+- Ohio State University — MS Health Education
+<!-- tah-tables:end -->
 
 ## Family
 

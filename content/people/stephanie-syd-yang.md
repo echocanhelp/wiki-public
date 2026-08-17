@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Stephanie Syd Yang is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- UCLA — 1994 — B.A., French literature
+- Tulane Univ. — 1996 — M.A., French literature
+
+## Employment
+- Shifting Narratives — Filmmaker — (2003-2010) — SYD Consulting — Philanthropic Advisor — (2005-2011) — Self-Employed — Gaffer/independent filmmaker — (2005-) — Blue Jaguar Love — Intuitive life coach and healer — (2011-)
+<!-- tah-tables:end -->
 
 ## Family
 

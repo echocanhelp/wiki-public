@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 3. B Otto and Kathleen Wheeley Award for Excellence in Technology Transfer 2006 & 2019 ( The first one to win this award twice)
 
+<!-- tah-tables:start -->
+## Education
+- National Taipei Univ. of Technology — 1975 — B.S., Molecular Science and Engineering
+- Kansas State Univ. — M.S.
+- Univ. of Tennessee — Ph. D.
+
+## Employment
+- University of Tennessee — Research Faculty — (1984-2019)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Taiwanese pianist Chih-Yi Chen’s versatile qualities as a collaborative pianist, chamber musician, and soloist have distinguished her as a rarity amongst pianists.
 
+<!-- tah-tables:start -->
+## Education
+- Indiana University — 1997 — B.M. Music
+- , Indiana University — 1999 — M.S. Music
+
+## Employment
+- IU Jacobs School of Music — Senor Lecture
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

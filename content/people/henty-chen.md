@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Henty Chen (陳華山) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台北醫學院 — M.D.
+
+## Employment
+- 醫師 — Self-employment
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Ju Cheng Lee (李汝成) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Univ. in Japan — B.A., Economics
+
+## Employment
+- Japan Insurance Company — San Yueh Textile Co., LTD. (三越紡織工業股份有限公司) — Co-founder — Real Estate (United States) — Operating real estate in the United States — (1974-)
+<!-- tah-tables:end -->
 
 ## Family
 

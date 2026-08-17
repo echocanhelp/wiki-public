@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Tung-Ying Huang is a native of Taiwan and a 2004 graduate of the Mannes College of Music in New York City, where he received a Professional Studies Certificate in viola performance.
 
+<!-- tah-tables:start -->
+## Education
+- 東吳大學 — 1998 — B.A. 音樂系
+- 波士頓大學 — B.S. 音樂系
+
+## Employment
+- Taiwan Yin-Qi Chamber Orchestra and Symphony Orchestra — Member — (1994-) — Taipei Hsien-Chi Chamber Society — Member — (1994-) — Military Band — Percussionist — (1998-2000) — Private Studio, New York and New Jersey — Instructor
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

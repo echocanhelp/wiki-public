@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Howard W. Moore (慕維德) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Malone College — Indiana Wesleyan University — Asbury Theological Seminary — Trinity International University
+
+## Employment
+- Taiwan Friends Mission — 1954-1998 — pastor
+<!-- tah-tables:end -->
 
 ## Family
 

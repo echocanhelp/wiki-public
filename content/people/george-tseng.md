@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 1. Chairman & CEO of Tseng Consulting Group Inc., Internationally Renowned Architecture, Engineering, and Planning Company in Florida1993-Present
 
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S.土木
+- Cornell University — Ph.D.工學
+
+## Employment
+- Tseng Consulting Group In — present — CEO
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 貴美

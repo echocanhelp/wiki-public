@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Prof. Shu-li Chen (陳淑麗教授) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Yang Ming Univ. (陽明大學) — 1991 — B.S., Nursing
+- Univ. of Utah — 1995 — M.S., Nursing Administration — 1997 — Ph.D., Nursing and Research
+
+## Employment
+- Univ. of Tennessee — Assistant Professor/Associate Professor — (1999-2010) — Lincoln Memorial Univ. — Professor/Chair of Graduate Nursing — (2010-2011) — South Univ. — Professor/Associate Dean/Acting Dean/Dean — (2012-2017)
+<!-- tah-tables:end -->
 
 ## Family
 

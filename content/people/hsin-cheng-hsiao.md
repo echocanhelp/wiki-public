@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, scientist
 - **Source:** TAH Foundation Who’s Who
 
-Hsin-Cheng Hsiao (蕭新晟) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- UCLA — 2005 — B.S., Physics — 2007 — M.S., Physics
+
+## Employment
+- BetterPT — Senior Software Engineer — (2017-) — New Power Party (時代力量) — Chief Technology Officer — (2018-2019)
+<!-- tah-tables:end -->
 
 ## Family
 

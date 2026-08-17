@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Tsann-Wang Yu (余燦旺博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.S., Atmospheric Sciences
+- Univ. of Texas — M.S., Atmospheric Sciences — Ph.D., Atmospheric Sciences
+
+## Employment
+- Univ. of Texas — Assistant Professor — NOAA National Meteorological Center — Research Meteorologist — (1976-2005) — NOAA National Meteorological Center — Distinguished Scientist — (2005-)
+<!-- tah-tables:end -->
 
 ## Family
 

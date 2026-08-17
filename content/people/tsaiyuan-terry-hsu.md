@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 電腦公司, 國防軍用機密電腦高科技--Control Data Company for high security US Defense and Military Computer High Technology --Computer Architectures
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1962 — B.S., Electrical Enginnering
+- University of Tennessee — 1966 — M.S., Electrical Enginnering
+- The City University of New York — 1976 — Ph.D., Computer Architecture
+
+## Employment
+- 電腦公司, 國防軍用機密電腦高科技--Control Data Company for high security US Defense and Military Computer High Technology --Computer Architectures
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Emily 廖明惠

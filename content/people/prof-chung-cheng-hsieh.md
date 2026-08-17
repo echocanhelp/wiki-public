@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Prof. Chung-Cheng Hsieh 謝中誠教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1976 — B.S., Public Health
+- Harvard School of Public Health — 1980 — M.S., Epidemiology — 1985 — Ph.D., Epidemiology
+
+## Employment
+- University of Massachusetts Medical School — Professor of Medicine, Dept. of Cancer Biology; Director, Division of Biostatistics and Epidemiology
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

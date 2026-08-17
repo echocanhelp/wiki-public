@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Or. Hsieh (謝娥醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Tokyo Women's Medical Univ. — 1935-1940 — M.D.
+- Columbia Univ. — 1952 — Ph.D., Public Health
+
+## Employment
+- Legislature, Taiwan — Legislator — (1948-) — Oregon State Hospital — (1967-) — Albany Regional Office, NY — Director — (1973-)
+<!-- tah-tables:end -->
 
 ## Family
 

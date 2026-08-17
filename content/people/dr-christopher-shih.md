@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Dr. Christopher Shih 石慶愷醫師 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- Harvard Univ. — B.S.
+- Johns Hopkins Univ. — M.D.
+
+## Employment
+- Hospital of the University of Pennsylvania — Residency — Johns Hopkins Hospital — Gastroenterology Fellowship
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Daughter:** 3

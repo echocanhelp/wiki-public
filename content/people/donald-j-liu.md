@@ -21,6 +21,13 @@ last_reviewed: 2026-08-17
 
 God and art have always been a huge part of my life. I have been a pastor for over 30 years and have seen how deep and rich and powerful God’s Word is. As I spend time reading and studying the Bible, God speaks to my heart and I use the creative gift of art that He has given me to paint these wonderful truths.
 
+<!-- tah-tables:start -->
+## Employment
+- Silica Valley e — 1981-1996 — 牧師
+- 愛恩（Irvine）台福教會 — -r — 主任牧師
+- 台福總會 — 總幹事
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Working in installation and painting, artist Flora Kao explores the poetics of human relationship with environment. Examining architecture and technology, Kao transforms everyday structures into systems of beauty. Her work investigates our impulse to order and preserve in the face of the unknown and uncontrollable.
 
+<!-- tah-tables:start -->
+## Education
+- Harvard University — BA in Environmental Science and Public Policy
+- Otis College of Art and Design — BFA in Painting
+- University of California at Irvine — MFA in Studio Art
+
+## Employment
+- LEK Consulting — Artist
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

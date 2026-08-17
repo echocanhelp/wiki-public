@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 5. A major advisor to the government investigation and reconciliation initiatives of the 228 Incident
 
+<!-- tah-tables:start -->
+## Education
+- Tokyo Imperial Univ. — 1943 — M.D.
+- Univ. of Tokyo — 1953 — Ph.D.
+
+## Employment
+- National Taiwan Univ. Hospital — Chair of Dept. of Psychiatry — (1947-1950) — National Taiwan Univ. Hospital — Director of Pediatric Mental Health — (1957-1964) — World Health Organization — Director of Mental Health — (1964-1969) — Univ. of British Columbia — Professor — (1973-1985)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Mei-Chen Lin(林李美貞)

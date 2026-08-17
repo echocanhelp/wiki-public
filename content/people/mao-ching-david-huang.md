@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 Mao-ching (David) Huang 黃茂清 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- 東吳大學 — B.S., Law
+- 台灣大學 — 1969 — M.S., Law
+- University of Washington, Seattle — 1975 — Ph.D., Law
+
+## Employment
+- Law Offices of David M. Huang — 1979-present — Owner
+- 東吳大學研究所 — Professor
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Daughter:** 黃寵安

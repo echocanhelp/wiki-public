@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Steven Chien (簡鳳孚) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 路格斯大學 — B.S.電腦
+- Harvard Business School — M.S.
+
+## Employment
+- Kaboodle — Chief Marketing Officer
+<!-- tah-tables:end -->
 
 ## Family
 

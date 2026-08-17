@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Kevin Lin (林士斌) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Yale University — year — B.S.
+
+## Employment
+- Twitch — 2004 — COO
+<!-- tah-tables:end -->
 
 ## Family
 

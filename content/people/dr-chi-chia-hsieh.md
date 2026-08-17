@@ -23,6 +23,15 @@ Microelectronics Technology Inc. (台揚科技)
 Co-Founder, Vice Chairman, Chairman
 (1983-)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1965 — B.S., Electrical Engineering
+- Santa Clara Univ. — 1974 — Ph.D., Electrical Engineering
+
+## Employment
+- Harris Company — Technology R&D in Microwave and satellite communications — Jupiter Technology (Wuxi) Co., Ltd — Chairman — Microelectronics Technology Inc. (台揚科技) — Co-Founder, Vice Chairman, Chairman — (1983-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

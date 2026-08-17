@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-B. Michael Yeun (楊明昊) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台北醫學大學 — 1978 — B.S. 齒科
+- 紐澤西州醫科齒科大學 — 1984 — Ph.D. 齒科醫學
+
+## Employment
+- 1紐澤西 — 1985- — 執業齒科
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 3. Associate fellow of the American Academy of Aeronautics and Astronautics (AIAA)
 
+<!-- tah-tables:start -->
+## Education
+- National Cheng Kung Univ. (成功大學) — 1969 — B.S., Engineering Sciences
+- Tennessee Technological Univ. — 1972 — M.S., Engineering Sciences and Mechanics
+- Purdue Univ. — 1979 — Ph.D., Aeronautics and Astronautics
+
+## Employment
+- The University of Texas at Arlington, Dept. of Aerospace Engineering — Professor; Deputy Director — (1994-) — Community — North American Association of Taiwan Engineers (NATEA) — Branch President; Host of Scholarship Program
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

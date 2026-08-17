@@ -19,7 +19,12 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, journalist
 - **Source:** TAH Foundation Who’s Who
 
-P. D. Chen (陳培德) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Employment
+- 太平洋時報 — 發行經理
+- 中華之聲電台 — 主持人
+<!-- tah-tables:end -->
 
 ## Family
 

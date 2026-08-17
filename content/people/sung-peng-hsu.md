@@ -21,6 +21,19 @@ last_reviewed: 2026-08-17
 
 More information please click in my story: 486. The life Story of Prof. Sung-Peng Hsu /徐頌鵬
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1960 — B.A., Philosophy
+- Princeton Theological Seminary — 1965 — B.D., Christian theology
+- Princeton Theological Seminary — 1966 — Th.M., Christian theology
+- Univ. of Pennsylvania — 1970 — Ph.D., World Religious
+
+## Employment
+- Univ. of Delaware — Professor
+- Univ. of Northern Iowa — Professor
+- MGC Diagnostics — Computer software engineer
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** [[people/hui-mei-lin|林慧美]]

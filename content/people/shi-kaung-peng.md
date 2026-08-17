@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, physician, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Shi-Kaung Peng (彭旭光) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台大醫學院 — 1966 — M.D.
+- 西北大學 — 1971 — Ph.D.病理
+
+## Employment
+- 加州大學洛杉磯校區 — 病理教授
+- 加大海港醫學中心 — 心臟病理主任
+<!-- tah-tables:end -->
 
 ## Family
 

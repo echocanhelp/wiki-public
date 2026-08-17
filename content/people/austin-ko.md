@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 1. National Programs Director for the Intercollegiate Taiwanese American Students Association (ITASA), 2014-2015
 
+<!-- tah-tables:start -->
+## Education
+- Johns Hopkins University — 2015 — B.S.Public Health — year — year
+
+## Employment
+- Oscar Insurance — 2016- — network contractor
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

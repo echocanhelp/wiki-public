@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 Chia-wei Lee (DMA, Ohio State University) is quickly establishing himself as one of the most compelling emerging baritones. His distinctively beautiful and strong baritone voice has already won him international acclaim. An extremely gifted artist, he is at home on both the operatic and concert stages. He recently made his Alice Tully Hall debut as the soloist in the Yellow River Cantata.
 
+<!-- tah-tables:start -->
+## Education
+- 國立藝專 — 1993 — B.S. 音樂科
+- 卡內基美隆大學 — 1998 — M.S.聲樂演奏
+- 俄亥俄州大學 — 2003 — Ph.D.聲樂
+
+## Employment
+- 美國德州三一大學 — 2003-Present — 音樂系專任副教授
+- Kenyon學院 — 2002 — 助理教授
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

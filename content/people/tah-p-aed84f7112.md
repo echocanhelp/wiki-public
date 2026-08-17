@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-%E9%Bb%83%E9%96%8B%E6%A6%Ae (黃開榮) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 勤益工專 — B.S. 電子工程科
+
+## Employment
+- 榮威科技公司 — 1991- — President
+<!-- tah-tables:end -->
 
 ## Family
 

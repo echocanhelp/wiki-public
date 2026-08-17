@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Established the first Taiwan Center in the United States in Flushing, New York
 
+<!-- tah-tables:start -->
+## Education
+- National Cheng Kung Univ. (成功大學) — B.S.
+- Tokyo Univ.
+
+## Employment
+- Stone & Webster
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Yu-Mei

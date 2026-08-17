@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 2. Lauded in Time magazine on Nov. 18, 1991, as a scientific“rising star” (美國時代雜誌譽為全美最有潛力的年輕科學家之一)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1983 — B.S., Physics
+- Massachusetts Institute of Technology — 1988 — Ph.D.
+
+## Employment
+- California Institute of Technology — Assistant Professor — (1989-1995) — California Institute of Technology — Professor — (1995-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

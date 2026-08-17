@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 2. Center for Condensed Matter Sciences in National Taiwan Univ. (國立臺灣大學凝態科學研究中心)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1977-1981 — B.S., Physics
+- Harvard Univ. — 1983-1989 — Ph.D., Applied Physics
+
+## Employment
+- GE (美國奇異公司) — Material Science Researcher, R&D Center — (1989-1994) — Center for Condensed Matter Sciences, National Taiwan Univ. (國立臺灣大學凝態科學研究中心) — Associate Researcher, Researcher, Director — (1994-2018) — AI-MAT (國立臺灣大學新穎材料原子級科學研究中心) — Director — (2018-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** 陳貴賢

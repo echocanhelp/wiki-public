@@ -21,6 +21,12 @@ last_reviewed: 2026-08-17
 
 1. Founder and First Chairman of Texas Formosan Federal Credit Union (德州台灣信用合作社創辦人和第一任社長) 1975, Served 22 Years as Chairman and BoardMember.
 
+<!-- tah-tables:start -->
+## Education
+- Cheng Kung University in Taiwan — B.S.
+- University of Missouri at Rolla — M.S.
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 李惠美

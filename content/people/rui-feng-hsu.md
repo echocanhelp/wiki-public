@@ -19,7 +19,19 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Rui-feng Hsu (許瑞峰) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 成功大學 — B.S. 土木工程
+- 佛羅里達大學 — M.S. 土木工程
+
+## Employment
+- 中華顧問工程司 — 董事長
+- 新國會聯合研究室 — 副主任
+- 國大代表
+- 台北市工務局長
+- 高雄市工務局長
+<!-- tah-tables:end -->
 
 ## Family
 

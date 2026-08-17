@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 成立「洛杉磯台美商會青商部」(Founded the Young Professionals Division of the Taiwanese American Chamber of Commerce, Los Angeles), 2000
 
+<!-- tah-tables:start -->
+## Education
+- 加州州立大學富爾頓分校 — 1996 — B.S.財務
+
+## Employment
+- 美國統一證券公司 — Present — 資深副總裁
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 朱菲菲

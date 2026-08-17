@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, journalist
 - **Source:** TAH Foundation Who’s Who
 
-Samuel Lee (李茂玄) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 文化大學 — B.S. 法律
+
+## Employment
+- 千楓電視 — Present — President
+- 華視 — 特約記者
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 5. Cal State Fullerton Faculty and Staff association-membership and public relations
 
+<!-- tah-tables:start -->
+## Education
+- 政治大學 — 1963 — B.A. 財稅系
+
+## Employment
+- 華南銀行 — 1963-1968
+- University of Michigan — 1979-1989
+- California State University - Fullerton — 1989-2004
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** [[people/yung-hwa-hsu|許永華]]

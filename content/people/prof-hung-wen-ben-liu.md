@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Prof. Hung-Wen (Ben) Liu 劉鴻文教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- Tunghai Univ. (東海大學) — 1974 — B.S., Chemistry
+- Columbia Univ. — 1978 — M.S., Chemistry — 1981 — Ph.D., Organic Chemistry
+
+## Employment
+- Univ. of Minnesota — Assistant Professor; Associate Professor; Professor; Distinguished Professor — (1984-2000) — Univ. of Texas at Austin — H. Hitchings Regents Chair in Drug Design, and Professor of Pharmacy and Chemistry — (2000-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

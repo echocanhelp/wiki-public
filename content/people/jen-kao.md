@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 3. Recipient of Harvard Leadership in the Arts Award and the Stacy Nipps Alumni Award from Parsons, 2012
 
+<!-- tah-tables:start -->
+## Education
+- New York University — B.A. Studio Art
+- Parsons School of Design — M.A.
+
+## Employment
+- Fashion designer
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

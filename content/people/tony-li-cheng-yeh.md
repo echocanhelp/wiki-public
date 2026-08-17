@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Fellowship of Anesthesia for Open Heart Surgery at Albert Einstein Hospital, 1975-1976
 
+<!-- tah-tables:start -->
+## Education
+- 台灣醫學院 — 1969 — M.D.
+
+## Employment
+- Albert Einstein College Hospital NY — 1973-1975 — Po Anesthesia Residency
+- Montgomery General Hospital — 1994-2008 — MD
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

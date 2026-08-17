@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Visiting researcher, Dept. of East Asia, Princeton Univ., USA (1991-1992)
 
+<!-- tah-tables:start -->
+## Education
+- Tunghai Univ. (東海大學) — 1972-1976 — B.A., Foreign Languages
+- National Taiwan Univ. — 1979-1982 — M.A., Foreign Languages
+- Univ. of California — 1983-1987 — Ph.D., Institute of Literature
+
+## Employment
+- National Taiwan Univ. — Assistant Professor, Dept. of Foreign Languages — (1982-1983) — Univ. of California — Assistant Professor, Dept. of Literature — (1983-1987) — National Tsinghua Univ. (清華大學) — Associate Professor, Dept. of Foreign Languages — (1987-1991) — National Tsinghua Univ. (清華大學) — Professor, Dept. of Foreign Languages — (1991-) — Princeton Univ., Dept. of East Asia — Visiting Researcher — (1991-1992) — Harvard Univ., Dept. of Foreign Languages — Visiting Researcher — (1996-) — Community — Society of Comparative Literature of the Republic of China — Chairman
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

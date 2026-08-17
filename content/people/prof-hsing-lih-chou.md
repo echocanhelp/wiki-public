@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Prof. Hsing-Lih Chou 周興立教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Chung Hsing Univ. School of Law and Business (國立中興大學法商學院) — B.A., Sociology
+- Columbia Univ. — M.ED; Doctor of Education
+
+## Employment
+- New York Institute of Culture and the Arts (立人學苑) — Founder and President — (1986-) — City University of New York — Adjunct Professor — Fordham University — Adjunct Professor
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

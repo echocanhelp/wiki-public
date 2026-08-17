@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-James Hu (胡宏仁) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 東海大學 — 1959 — B.S.化學
+- 美國北德州大學 — M.S.化學
+- 普渡大學 — M.S.電腦
+- 普渡大學 — Ph.D.化學 — year
+
+## Employment
+- Louisiana 州立東南大學 — 退休教授
+<!-- tah-tables:end -->
 
 ## Family
 

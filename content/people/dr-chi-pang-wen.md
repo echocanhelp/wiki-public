@@ -23,6 +23,16 @@ last_reviewed: 2026-08-17
 -
 Adjunct Professor
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. College of Medicine — M.D.
+- Harvard School of Public Health — M.P.H.
+- Harvard School of Public Health — Ph.D.,Nutrition/Epidemiology
+
+## Employment
+- Dell Medical School, University of Texas at Austin — Clinical Professor — Chevron Corporation — Director of Occupational Medicine — Tulane University School of Public Health and Tropical Medicine — Adjunct Professor — National Health Research Institutes — Researcher of the Health Policy Research Center
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

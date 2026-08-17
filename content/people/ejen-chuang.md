@@ -23,6 +23,14 @@ Freelance
 Photographer; Detention (2010), Cassidy Way (2016) and The Sweet Life (2016)
 (1997-)
 
+<!-- tah-tables:start -->
+## Education
+- Univ. of North Texas — 1997 — B.A.
+
+## Employment
+- Freelance — Photographer; Detention (2010), Cassidy Way (2016) and The Sweet Life (2016) — (1997-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

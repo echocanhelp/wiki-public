@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Prof. Jing-Hsiung (James) Ou 歐競雄教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1976 — B.S., Zoology
+- California Institute of Technology — 1982 — Ph.D., Biology,
+
+## Employment
+- University of Southern California — Assistant Professor, Dept. of Microbiology — (1986-1992) — University of Southern California — Associate Professor — (1992-1999) — University of Southern California — Professor, Dept. of Molecular Microbiology and Immunology — (1999-) — University of Southern California — Associate Director, Institute of Emerging Pathogens and Immune Diseases — (2012-2017) — Academia Sinica — Visiting Professor, Institute of Molecular Biology — (2001-2001)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

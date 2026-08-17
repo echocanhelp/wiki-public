@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Doris T. Chang (張庭寧) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- University of North Carolina at Charlotte — 1992 — B.A.History
+- Bowling Green State University — 1994 — M.A.East Asian History
+- Ohio State University — 2002 — Ph.D.
+
+## Employment
+- Wichita State University — 2003-Present — Associate Professor of Women's Studies
+<!-- tah-tables:end -->
 
 ## Family
 

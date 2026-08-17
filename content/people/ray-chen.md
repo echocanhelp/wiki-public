@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Ray Chen began learning violin at the age of four. Within five years he completed all 10 levels of the Suzuki Music Education (Suzuki method) in Queensland, Australia. Chen was invited to play solo with the Queensland Philharmonic Orchestra at the age of eight. He was also invited to perform at the opening celebration concert of the 1998 Winter Olympics in Nagano, Japan.
 
+<!-- tah-tables:start -->
+## Education
+- Julliard School — B.S. Music
+- 美國克里夫蘭音樂學院 — M.S. Music
+
+## Employment
+- Sony Classical — Recording Artist — (2010-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

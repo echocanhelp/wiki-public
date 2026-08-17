@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 The American pianist, Sean Chen, was born in Florida, and grew up in the Los Angeles area of Oak Park, California. His impressive achievements before college included receiving an NFAA ARTSweek award, a prize at the California International Young Artist Competition, the Los Angeles Music Center’s Spotlight Award, the Evelyn Bonar Storrs Scholarship, and the Glenn Miller Scholarship. These honors combined with his extraordinary intellect facilitated offers of acceptance by MIT, Harvard, and the Juilliard School of Music in New York; choosing to study music, Chen earned his Bachelor’s and Master’s degrees at Juilliard (2006-2012), where he won the 2010 Gina Bachauer Piano Competition, the 2010 Munz Scholarship, and first prize at the 2008 Juilliard Concerto Competition. While attending Juilliard, Chen was the recipient of a notable third-party scholarship: the 2010 Paul and Daisy Soros Fellowship for New Americans. He now resides in New Haven, Connecticut, where since 2012 he is pursuing his Artist Diploma at the Yale School of Music as a George W. Miles Fellowship recipient. He is studying with Hung-Kuan Chen and Tema Blackstone, and his former teachers include Jerome Lowenthal, Mat
 
+<!-- tah-tables:start -->
+## Education
+- 茱莉亞音樂學院 — B.S. Music
+- 茱莉亞音樂學院 — M.S. Music
+
+## Employment
+- Yale School of Music — Artist Diploma Student / George W. Miles Fellow — (2012-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

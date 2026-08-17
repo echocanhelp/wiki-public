@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-H. R. Hsu (許惠茹) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Chung Hsing Univ. — B.A., Accounting
+- Long Island Univ. — M.A., Accounting
+
+## Employment
+- Eastern Savings and Loan — Accountant — Georgia State Postal Services — Senior Accountant — Community — Taiwanese American Association, Atlanta Chapter — President — Formosa Public Affairs Association, Atlanta Chapter — President — Taiwanese American Conference, Southeast Region — Coordinator
+<!-- tah-tables:end -->
 
 ## Family
 

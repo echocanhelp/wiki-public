@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Szu-Ying Huang (黃思穎) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Peabody Conservatory — 2011 — M.S.
+
+## Employment
+- Bard College onservatory of Music, — present — accompanist
+- Institute of Musical Studies (AIMS), University of North Texas — present — accompanist
+- Chicago Summer Opera, University of North Texas
+<!-- tah-tables:end -->
 
 ## Family
 

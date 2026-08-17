@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Jenny Chiu (邱正鵑) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Arizona State Univ. — 1996 — B.A., Finance — 2000 — M.A., Multimedia
+
+## Employment
+- World Financial Group (WFG) — Senior Marketing Director — Transamerica Financial Advisors, Inc. — Senior Manager
+<!-- tah-tables:end -->
 
 ## Family
 

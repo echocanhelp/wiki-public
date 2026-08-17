@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Jane H. Hsiao (許照惠博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1969 — B.S., Pharmacy
+- Univ. of Illinois — 1973 — Ph.D., Pharmaceutical Chemistry & Medicinal Chemistry
+- Nova Southeast Univ. — MBA
+
+## Employment
+- Innotech Laboratory — Founder — (1981-) — IVAX — Co-founder — (1986-2006) — OPKO Health — Vice Chairman, CTO, Interim CEO, Former Chairman — (2007-)
+<!-- tah-tables:end -->
 
 ## Family
 

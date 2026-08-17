@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 “Bass Players with great technique and supreme artistry are non-existent. Well, there are a few exceptions: the legendary Gary Karr, of course, Eugene Levinson of the New York Philharmonic, and now Yung-Chiao Wei, a young, multi-talented female bassist from Taiwan” reads a recent New York Concert Review of Yung-Chiao Wei’s Carnegie Hall solo recital debut. Yung-Chiao Wei was also praised by The Miami Herald as “a two sided-talent – a competition winning pianist turned double bass virtuoso”. Through her musical insight, breathtaking virtuosity and personality, Wei combines compelling, artistic performances on the double bass with a magical presence in stage.
 
+<!-- tah-tables:start -->
+## Education
+- 伊士曼音樂院 — B.S. 演奏
+- 新英格蘭音樂院 — M.S.ejmc qkhk
+
+## Employment
+- 路易斯安納州立大學 — 音樂系低音提琴教授
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

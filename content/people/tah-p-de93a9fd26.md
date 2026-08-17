@@ -19,7 +19,11 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-%E9%Bb%83%E8%81%96%E7%A5%90 %E5%8D%9A%E5%A3%Ab (黃聖祐博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Duke University — Ph.D.
+<!-- tah-tables:end -->
 
 ## Family
 

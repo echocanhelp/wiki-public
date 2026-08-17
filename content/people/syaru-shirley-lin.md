@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Syaru Shirley Lin (林夏如) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 哈佛大學 — B.S.
+- 香港大學 — M.S.國際公共事務
+- 香港大學 — Ph.D.政治與公共行政學
+
+## Employment
+- 香港中文大學 — 教授
+- 維及尼亞大學 — 教授
+- 臺灣三商美邦人壽、 香港朗廷酒店投資以及高盛Asia Bank — 董事
+<!-- tah-tables:end -->
 
 ## Family
 

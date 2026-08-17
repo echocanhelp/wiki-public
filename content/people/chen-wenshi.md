@@ -16,7 +16,7 @@ last_reviewed: 2026-08-17
 
 - **English:** Chen Wenshi
 - **Chinese:** 陳文石
-- **Core roles:** Artist, interior designer, entrepreneur, cultural advocate
+- **Core roles:** artist, educator
 - **Content priority:** B (ingestion depth — see [[sources/2023-tahs-publication|source]])
 - **Geography:** Taiwan, Japan, United States
 
@@ -241,6 +241,15 @@ Notable quotes and mentions of **陳文石** in Taiwan Justice articles:
 
 - **Content priority:** A (primary source — 2023 TAHS Publication, profile Part 2)
 - **Hub:** [[sources/2023-tahs-publication|2023 TAHS Publication]]
+
+<!-- tah-tables:start -->
+## Education
+- 師範大學 — 1974 — B.S. 美術
+
+## Employment
+- 文化大學 — 1976- — Teaching
+- 邱永漢關係企業求美公司 — 1976- — 總經理
+<!-- tah-tables:end -->
 
 ## Sources
 - [TAH #114 encyclopedia: 114. Stone Chen 陳文石](https://taiwaneseamericanhistory.org/114-stone-chen/)

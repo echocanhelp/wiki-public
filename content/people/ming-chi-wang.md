@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Ming Chi Wang is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- University of Minnesota — year — M.S. Architecture
+
+## Employment
+- Architect for 3M
+<!-- tah-tables:end -->
 
 ## Family
 

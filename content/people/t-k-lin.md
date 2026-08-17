@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-T. K. Lin (林宗光) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 東海大學 — 1962 — B.S.政治
+- Tufts大學Fletcher法律外交學院 — M.A.
+- Tufts大學Fletcher法律外交學院 — Ph.D.法律及外交
+
+## Employment
+- Drake University, Iowa — 1970-2013 — Teaching
+<!-- tah-tables:end -->
 
 ## Family
 

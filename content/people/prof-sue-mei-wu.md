@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Finalist for the Inaugural Univ. Innovative Teaching Award, CMU, 2016
 
+<!-- tah-tables:start -->
+## Education
+- National Tsing Hua Univ. (清華大學) — 1990 — B.A., Chinese Language and Literature
+- The Ohio State Univ. — 1994 — M.A. — 1997 — Ph.D., Chinese Linguistics
+
+## Employment
+- Institute of Information Science, Academia Sinica — Research Assistant — Institute of History and Philology, Academia Sinica — Research Assistant — The Ohio State University, Dept. of East Asian Languages and Literature — Teaching Associate — (1993-1996) — Harvard University, Dept. of East Asian Languages and Civilizations — Instructor — (1997-2000) — Carnegie Mellon University, Dept. of Modern Languages — Teaching Professor of Chinese Studies — (2000-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

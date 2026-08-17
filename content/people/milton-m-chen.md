@@ -19,7 +19,19 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Milton M. Chen (程孟郎教授) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 政治大學 — B.S. 財稅系
+- 德保羅大學 — M.S.
+- New York University — Ph.D. 工商管理學
+
+## Employment
+- 聖地牙哥州立大學商學院 — Professor
+- 耶魯大學 — Teaching
+- 喬治頓大學 — Teaching
+- 加州大學 — Teaching
+<!-- tah-tables:end -->
 
 ## Family
 

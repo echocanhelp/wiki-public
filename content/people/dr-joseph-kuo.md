@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 3. President of North American Taiwanese Professors’ Association (北美洲台灣人教授協會) New York Chapter 1998-1999
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.S., History
+- Academia Sinica — Modern History
+- Univ. of Pittsburg — M.A. and Ph.D., History and Science Philosophy
+
+## Employment
+- Academia Sinica — Research Fellow — Columbia University — Visiting Professor — Great Eastern Bank — Director, Advisor, General Secretary — Asian American Times — CEO — Community — Great New York Region-Oversea Taiwanese Pen Club (大紐約區海外台灣人筆會) — President — North American Taiwanese Professors' Association New York Chapter — President (1998-1999)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Sherry Kuo

@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Rev. C. L. Tong (董俊蘭牧師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Chinese Culture Univ. (文化大學) — B.S.
+- Tainan Theological College & Seminary (台南神學院) — 1981 — M. DIV.
+- Univ. of Edinburgh — 1993 — Ph.D., Biblical Theology
+
+## Employment
+- Tainan Theological College & Seminary (台南神學院) — Professor — Yu-Shan Theological College & Seminary (玉山神學院) — Professor — TAFPC (纽澤西台美團契長老教會) — Pastor — Bellevue Taiwanese Presbyterian Church (西雅圖貝城台灣長老教會) — Pastor
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 3. Best known for completing the molecular selection of potassium channels (完成鉀離子通道的分子選殖工作而最為知名)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.S., Physics
+- California Institute of Technology (加州理工學院) — 1968 — M.S., Physics — 1974 — Ph.D., Biophysics
+
+## Employment
+- University of California, San Francisco — Assistant Professor, Associate Professor, Professor — (1979-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Yuh-Nung Jan (詹裕農)

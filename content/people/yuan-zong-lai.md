@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Yuan Zong Lai (賴元榮) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan University — 1963 — B.S., Forestry
+- University of Washington — 1966 — M.S., Wood chemistry
+- University of Washington — 1967 — M.S., Organic Chemistry
+- University of Washington — 1968 — Ph.D., Wood Chemistry
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 3. Small Business of the Year Awards from the Wausau Region Chamber of Commerce (沃沙地區傑出中小企業獎) 1991
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1969 — B.S., Foreign Languages
+- Univ. of Denver — 1971 — M.S., Social work
+
+## Employment
+- Wisconsin Social Bureau — Social Worker — (1971-) — Hsu's Ginseng Enterprises, Inc. — Founder — (1974-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** [[people/sharon-s-hsu|許聖美]]

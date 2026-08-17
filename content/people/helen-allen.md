@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Helen Allen (趙夏蓮) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.A., 護理
+- 芝加哥 — 護理特別科
+
+## Employment
+- 華府榮民醫院 — Nurse
+<!-- tah-tables:end -->
 
 ## Family
 

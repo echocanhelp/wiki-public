@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-K. L. Hong (洪桂林博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S. 化學工程
+- 東京大學 — M.S. 化學工程
+- 東京大學 — Ph.D. 化學工程
+
+## Employment
+- Import & Export Business — 1974- — Self-Employment
+<!-- tah-tables:end -->
 
 ## Family
 

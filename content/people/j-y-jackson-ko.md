@@ -19,7 +19,11 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, journalist
 - **Source:** TAH Foundation Who’s Who
 
-J. Y. Jackson Ko (柯哲洋) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Employment
+- 美東自由時報 — present — 社長
+<!-- tah-tables:end -->
 
 ## Family
 

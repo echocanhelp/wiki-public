@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 北美洲台灣人醫師協會紐約分會 (Taiwanese American Physicians Association of North America, New York Chapter)
 會長 (President)
 
+<!-- tah-tables:start -->
+## Education
+- Kaohsiung Medical University — 1971 — M.D.
+
+## Employment
+- Ear, Nose & Throat (Otolaryngology)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
-%E9%99%B3%E8%A5%Bf%E5%9C%92 (陳西園) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台南藝術大學 — B.A., 舞蹈系
+
+## Employment
+- 舞蹈老師
+<!-- tah-tables:end -->
 
 ## Family
 

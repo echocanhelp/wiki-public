@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. One of the Founder of Formosa Republican Association (福和會), 2018
 
+<!-- tah-tables:start -->
+## Education
+- Soochow Univ. (東吳大學) — 1967-1971 — B.A., Economics
+
+## Employment
+- Safina Office Products Inc. — Founder & President — (1983-) — Executive Yuan of R.O.C. (行政院) — Administrative Advisor — Community — Formosa Republican Association (福和會) — Founder — Taiwanese Heritage Society of Houston (休士頓台灣人傳統基金會) — Vice President — TCC Houston (休士頓台灣商會) — Founding Director and Vice President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Son:** Simon Lee

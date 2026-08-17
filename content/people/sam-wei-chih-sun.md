@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Sam Wei-Chih Sun is a pianist, an accompanist and a music educator from Taiwan. He received a BA degree in Piano Performance with a minor in Cello and Vocal Performance from Taipei Municipal Teachers College. In May 2005, he received a Master’s degree in Conducting from Azusa Pacific University. The following year, he was awarded the “2006 Chinese Overseas Outstanding Youth Award”. Currently, Mr. Sun is the conductor for the Southern California Taiwanese Hakka Chorus, the Arcadia Chinese Chorus, the Southern California TPC Master Chorale, New Orange County Children’s Choir (NOCCC) and Irvine Chinese Chorus. He conducts many concerts and collaborates with many professional soloists. He is the music director at Good Shepherd Taiwanese Presbyterian Church in Monterey Park. Additionally, he is a member of the Music Teacher’s Association of California (MTAC), and serves as an adjunct Professor of Music at Azusa Pacific University, Citrus Community College, and the Chinese for Christ Calvin Chao Theological Seminary.
 
+<!-- tah-tables:start -->
+## Education
+- 台北市立師範學院 — 音樂敎育，主修鋼琴，副修大提琴、聲樂 — Azusa Pacific University — 2005 — 合唱指揮碩士
+
+## Employment
+- Monterey Park 好牧者台灣基督長老敎會 — 2004- — Music Director — 加州音樂敎師協會 — 鋼琴敎師 — 雅音合唱團 — 指揮 — 南加州台港客家合唱團 — 2006- — 指揮 — 爾灣華裔合唱團 — 指揮 — 美國台灣基督長老敎會聖樂團 — 指揮 — 台福聖樂團 — 聲樂指導及伴奏 — 中華歸主神學院音樂系 — 兼任合唱指揮和音樂理論敎師 — Azusa Pacific University — 兼任鋼琴敎師 — Citrus City College — 兼任鋼琴敎師
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Father:** 孫武夫

@@ -21,6 +21,18 @@ last_reviewed: 2026-08-17
 
 顏名秀出生於臺灣台中市，是位十分活躍的作曲家及鋼琴家。她的作品曾多次於美洲、亞洲、歐洲各地演出，並曾與Osmo Vänskä、呂紹嘉、Alexander Drčar、Adrian Schneider等指揮大師，以及美國明尼蘇達管絃樂團、台灣國家交響樂團、台灣音契合唱管絃樂團、PRISM薩克斯風四重奏、Brave New Works現代音樂團、OSSIA現代音樂團等知名國內外演出團體合作。近年來她屢獲國內外獎項，其中包括亞洲作曲聯盟入野義朗紀念獎、美國Heckscher作曲獎、美國作曲聯盟作曲獎、台灣教育部文藝創作獎、中國三川獎等。她也曾受台灣國家交響樂團、漢森美國音樂協會、台灣音契合唱管絃樂團、美國New Sounds Music、新音樂計畫、北加州中國音樂教師協會、亞洲長管研習會等團體及多位傑出演奏家委託創作。
 
+<!-- tah-tables:start -->
+## Education
+- Eastman School of Music — 2003 — B.S. Music
+- University of Michigan — 2005 — M.S. Music
+- University of Michigan — 2010 — Ph.D. Musical Arts
+
+## Employment
+- University of Michigan 教師 (音樂理論), 密西根大學 — Present — 教師(音樂理論)
+- Taiwanese Choral Society of Rochester — Piano Accompanist
+- Community Education Division, Eastman School of Music — Piano Accompanist
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

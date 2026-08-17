@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician, professor
 - **Source:** TAH Foundation Who’s Who
 
-Frank Ju-Feng Liu (劉如峰) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 高雄醫學大學 — 1964 — 醫學系
+
+## Employment
+- 省立新竹醫院 — 外科主治醫師兼代主任
+- 德州大學安德森癌症中心 — 化學病理醫師研究訓練計劃部主任
+- 美國病理學院 — 資深院士
+<!-- tah-tables:end -->
 
 ## Family
 

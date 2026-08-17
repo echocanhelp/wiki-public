@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor
 - **Source:** TAH Foundation Who’s Who
 
-Jim T. R. Chen (鄭昭任) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1958 — B.S.
+- Yale University — 1967 — Ph.D.
+
+## Employment
+- Yale University — 1967- — Research Professor
+- The University of Texas at Houston — 1972 — Assistant Professor
+- Cytogenetic Lab., EKS Center at Boston — 1977 — Director
+- ATCC, Maryland — 1980-1998 — Senior Research Scientist
+<!-- tah-tables:end -->
 
 ## Family
 

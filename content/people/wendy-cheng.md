@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, artist, educator
 - **Source:** TAH Foundation Who’s Who
 
-Wendy Cheng (鄭昕) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Harvard University — A.B.English
+- UC Berkeley — M.A. Geography
+- USC — Ph.D. American Studies and Ethnicity
+
+## Employment
+- Asian Pacific American studies — present — assistant professor
+- writer and photographer — present
+<!-- tah-tables:end -->
 
 ## Family
 

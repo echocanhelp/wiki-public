@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Ketty W. Chen (陳婉宜) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- University of Oklahoma — Ph.D in Political Science
+- University of Oklahoma — M.S in Political Science & International relations
+
+## Employment
+- National Taiwan University — Visiting research fellow
+- Collin College in Plano, Texas — Teach American Politics and international relations
+- Austin College in Sherman, Texas — Teach US-China relations
+<!-- tah-tables:end -->
 
 ## Family
 

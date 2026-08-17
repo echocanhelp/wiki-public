@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 A native of Tennessee, pianist Melvin Chen 陳意超 has received acclaim for performances throughout the United States and abroad. As a soloist and chamber musician, Mr. Chen has performed at major venues in the United States, including Carnegie Hall, Alice Tully Hall, Merkin Concert Hall, Weill Recital Hall, Kennedy Center, and Boston’s Jordan Hall, in addition to other appearances throughout the United States, Canada, and Asia.
 
+<!-- tah-tables:start -->
+## Education
+- Yale University — Bachelor of Science in Chemistry and Physics — The Juilliard School — Master's degree (double) in Piano and Violin — Harvard University — Doctorate in Chemistry
+
+## Employment
+- Bard College Conservatory of Music — Piano Faculty and Associate Director — Hotchkiss Summer Portals — Artistic Director, Chamber Music Program — Yale School of Music — Associate Professor (Adjunct) of Piano, Deputy Dean, and Director of the Yale Summer School of Music/Norfolk Chamber Music Festival — (2012-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

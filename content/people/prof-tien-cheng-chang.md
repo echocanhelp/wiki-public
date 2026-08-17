@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Prof. Tien-Cheng Chang 張典正教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1994 — B.S., Animal Science and Technology
+- Univ. of Wisconsin-Madison — 2001 — M.S., Endocrinology-Reproductive Physiology — 2007 — Ph.D., Endocrinology-Reproductive Physiology
+
+## Employment
+- Univ. of Texas Health Science Center — Assistant Professor, Associate Professor
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

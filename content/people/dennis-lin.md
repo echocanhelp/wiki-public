@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Dennis Lin (林博淵) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- University of California, Irvine — 1991 — B.S. Electrical Engineering
+- University of Southern California — 1993 — M.S. Electrical Engineering
+
+## Employment
+- Hochiki America Corporation — 1996-present — Research & Development Manager
+- Professional Freelance Violinist — 1990-present — Violinist
+- Mozart Classical Orchestra — 1997-2010 — Violinist
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,11 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Gene Lay (賴正光) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Employment
+- Bio Legend — 2002-present — Founder & CEO
+<!-- tah-tables:end -->
 
 ## Family
 

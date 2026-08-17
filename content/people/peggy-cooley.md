@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
-Peggy Cooley (邱碧玉) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Union Theological Seminary — M.S., Music
+
+## Employment
+- Tainan Theological College and Seminary — Teacher
+<!-- tah-tables:end -->
 
 ## Family
 

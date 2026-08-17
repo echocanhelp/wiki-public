@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 1.One of the courageous soul who chained himself to the rallying at the United Nations in 1971
 
+<!-- tah-tables:start -->
+## Education
+- Utah State University — 1968 — MS Statistic
+- New York University — MS Computer Science
+
+## Employment
+- Research Statistician
+- Computer Consultant
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Chau H. Wu (吳照雄博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1963 — B.S., Pharmacy
+- Univ. of Miami — 1970 — Ph.D., Pharmacy
+
+## Employment
+- Duke Univ. — Postdoctoral Fellow — (1972-1974) — Northwestern Univ. — Associate Professor — (-2006)
+<!-- tah-tables:end -->
 
 ## Family
 

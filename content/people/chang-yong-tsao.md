@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Chang-Yong Tsao (曹昌榮) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台北醫學院 — 1977 — M.D.
+
+## Employment
+- Delaware County Memorial Hospital — 1981 — 住院醫師
+- Temple University, Philadelphia — 1983 — 住院醫師
+- The Ohio State University — 1984- — 小兒神經科主治醫師
+<!-- tah-tables:end -->
 
 ## Family
 

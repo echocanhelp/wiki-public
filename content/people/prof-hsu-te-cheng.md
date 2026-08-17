@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Prof. Hsu-Te Cheng (鄭胥德教授) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Normal Univ. (國立臺灣師範大學) — B.A., English Languages and Literature — M.A., English Languages and Literature
+- Univ. of Connecticut — 2013 — Ph.D., Linguistics
+
+## Employment
+- Univ. of Connecticut — Visiting Professor — (2013-2016) — Emory Univ. — Lecturer — (2016-)
+<!-- tah-tables:end -->
 
 ## Family
 

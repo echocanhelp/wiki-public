@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Prof. Chien-Fu (Jeff) Wu 吳建福教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1971 — B.S., Mathematics
+- Univ. of California, Berkeley — 1976 — Ph.D., Statistics
+
+## Employment
+- Univ. of California, Berkeley — Instructor, Dept. of Statistics — (1976-1977) — Univ. of Wisconsin — Statistics Dept., Assistant Professor, Associate Professor, Professor — (1977-1988) — Univ. of Waterloo — GM/NSERC Chair in Quality and Productivity — (1988-1993) — Univ. of Michigan, Ann Arbor — H. C. Carver Professor of Statistics and Professor of Industrial and Operations Engineering — (1993-2003) — Georgia Institute of Technology — Coca-Cola Chair in Engineering Statistics and Professor
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

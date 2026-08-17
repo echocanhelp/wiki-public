@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-%E9%99%B3%E5%9C%8B%E9%9B%84 (陳國雄) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S. 經濟系
+- 休士頓大學 — M.S. Accountancy
+
+## Employment
+- L.A. 日本興業銀行
+- L.A. 美國第一銀行 — VP & Controller
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,11 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Joseph H. Chen (陳河田教授) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Cornell University — 1971 — Ph.D.,Food science
+<!-- tah-tables:end -->
 
 ## Family
 

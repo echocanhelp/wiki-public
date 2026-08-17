@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, journalist
 - **Source:** TAH Foundation Who’s Who
 
-H. M. Jiang (江蕙美) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S.外文
+
+## Employment
+- 美東自由時報代理 — Owner
+<!-- tah-tables:end -->
 
 ## Family
 

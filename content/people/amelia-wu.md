@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Amelia Wu (吳姍姍) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Havard University — B.S.
+
+## Employment
+- The Asia Foundation — 1992-1996 — Regional Desk Officer
+- Bank of the Orient — 1997-1999 — Marketing Analyst
+- The Global Fund for Women — 1999-2005 — Vice President of Programs
+- The Global Fund for Women — 2009-present — Director of Philanthropic Partnerships
+<!-- tah-tables:end -->
 
 ## Family
 

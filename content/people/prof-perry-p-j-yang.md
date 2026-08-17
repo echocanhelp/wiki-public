@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Prof. Perry P.J. Yang 楊沛儒教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.S., Agriculture Engineering/ Bio Environmental Systems Engineering — M.S., Building and Planning — 1990 — Ph.D., Building and Planning
+- Massachusetts Institute of Technology — M.S., Urban Studies and Planning
+
+## Employment
+- Georgia Institute of Technology — Associate Professor and Director of Eco Urban Lab of the School of City
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

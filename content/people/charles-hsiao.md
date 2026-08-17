@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, scientist
 - **Source:** TAH Foundation Who’s Who
 
-Charles Hsiao (蕭俊雄) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- University of Illinois, Urbana-Champaign — 1977 — PhD/Pharmaceutical
+
+## Employment
+- IVAX — 1986-1995 — Co-founder — IMPAX Laboratories — 1995-2008 — Co-founder, Chairman
+<!-- tah-tables:end -->
 
 ## Family
 

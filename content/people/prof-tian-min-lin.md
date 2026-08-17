@@ -23,6 +23,17 @@ Taiwan Theological College (台灣神學院)
 Visiting Professor of World Religion
 (2004-2004)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1959 — B.A., Philosophy
+- Yale Univ. — 1964 — M. Div., Theology
+- Yale Univ. — 1965 — S.T.M., Theology
+- Boston Univ. — 1969 — Ph.D., Systematic Theology
+
+## Employment
+- Tougaloo College — Assistant Professor of Religion — (1969-1972) — Indiana University of Pennsylvania — Professor of Religious Studies — (1972-2002) — Aletheia University (真理大學) — Visiting Professor of Religion — (2003-2005) — Taiwan Theological College (台灣神學院) — Visiting Professor of World Religion — (2004-2004)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Hsueh-Man

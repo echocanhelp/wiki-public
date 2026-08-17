@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Chun Hsin Jenny Wu started playing the violin at age four in Kao-Hsiung, Taiwan. She continued her musical studies with the Concertmaster of Dallas Symphony Bing Wong in the United States. In 1996 Ms. Wu won the First Place award from the Southern California Young Musicians Competition, Romantic Period. In 1998 she studied with the head of American Suzuki Organization William Starr in Colorado. In 2000 she won the Second Place of Fort Collins Symphony Orchestra’s Young Artists Concerto Competition. In 2001 she won Second Place in Jefferson Symphony Orchestra Concerto Competition. Ms. Wu received her Bachelors of Music degree in Violin Performance in 2006. During her undergraduate studies, she studied with Mr. Oswald Lehnert. She received Outstanding Chamber Music Honors at the University of Colorado. In 2005, she won First Place in MTNA (Music Teachers National Association) Young Artist Competition, Colorado Division, and then Honorable Mention at the Regional Division.
 
+<!-- tah-tables:start -->
+## Education
+- University of Colorado — 2006 — B.S.
+- University of Maryland — M.S.
+
+## Employment
+- Piove Trio — Violinist
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

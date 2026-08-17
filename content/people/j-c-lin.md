@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-J. C. Lin (林震泉) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 東海大學 — B.S.
+- North Carolina State University — M.S.
+
+## Employment
+- 北卡州政府 — 工程師
+- Glen Way Motel — owner
+- Kenamy Apartment — owner
+- 榮慶食品 — owner
+<!-- tah-tables:end -->
 
 ## Family
 

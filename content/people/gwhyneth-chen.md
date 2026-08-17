@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Gwhyneth Chen (陳毓襄) is a Taiwanese-American pianist who in 1993, won the biggest cash prize in the history of piano competitions, ($100,000.00.) Ms. Chen, then a young lady of 23, was the youngest contestant at the Ivo Pogorelich International Piano Competition. Subsequent to the award, Mr. Pogorelich himself said of her talent, “She is too good to be true.” Immediately recognized as one of the foremost pianists of her generation, the victory was broadcast internationally on CNN television. In recent years she has played joint concerts with Ivo Pogorelich in Switzerland and in Taiwan.
 
+<!-- tah-tables:start -->
+## Education
+- Juilliard School — B.S., Music — M.S., Music
+
+## Employment
+- Miami Symphony — Guest Soloist
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

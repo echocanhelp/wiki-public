@@ -23,6 +23,15 @@ Criminal Term of the Bronx County Supreme Court
 Principal Court Attorney
 (2010-2017)
 
+<!-- tah-tables:start -->
+## Education
+- St. John’s Univ. — 1998 — B.A.
+- Maurice A. Deane School of Law at Hofstra Univ. — 2002 — J.D.
+
+## Employment
+- Criminal Term of the Bronx County Supreme Court — Principal Court Attorney — (2010-2017) — New York City Civil Court — Judge — (2017-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

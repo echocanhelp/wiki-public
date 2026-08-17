@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Zai-Xing Wang (王再興) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台南神學院
+
+## Employment
+- 台灣基督教長老教會 — 總會議長
+- 台南神學院 — 董事
+- Chicago Taiwanese Presbyterian Church — 1982- — Pastor
+<!-- tah-tables:end -->
 
 ## Family
 

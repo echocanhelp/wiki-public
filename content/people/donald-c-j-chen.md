@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Organized D.C. Area Taiwanese Association (同鄉會) in 1972, independent from Baltimore
 
+<!-- tah-tables:start -->
+## Education
+- Taiwan National Univ. — 1951 — M.D.
+- Washington Univ. Medical School St. Louis, MO — 1957 — M.D.
+
+## Employment
+- Practiced medicine in Belen, Brazil — 1960-64
+- Private Clinic of Ear, Norse and Throat in D.C. Area — 1965-03 — Self Employee
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** [[people/enchin-shaw-chen|蕭永真]]

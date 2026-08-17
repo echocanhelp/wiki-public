@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Enoch Wu (吳怡農) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Yale Univ. — 2003 — B.S., Economics
+
+## Employment
+- National Security Conference — Special Committee — (2019-) — Executive Yuan — Dean's Office — (2017-2019) — Hong Kong Goldman Sachs — Executive Director — (2003-2013) — York Capital Management — Vice President of Capital Management
+<!-- tah-tables:end -->
 
 ## Family
 

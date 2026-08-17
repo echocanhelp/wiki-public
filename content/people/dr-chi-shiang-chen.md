@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Medical Director, Respiratory Therapy Department, Church Hospital Baltimore MD (1977-1999)
 
+<!-- tah-tables:start -->
+## Education
+- 台大醫學院 — 1967 — M.D.
+
+## Employment
+- Church Hospital Baltimore MD — 1977-99 — 1977-late 1980's — 1977-99 — Chief,Pulmonary Medicine — Director,Intensive Care Unit — Medical Director, Respiratory Therapy Department
+- Mercy Medical Center MD — 1999-2013 — Private practice, Pulmonary/Internal medicine
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 陳婉玉

@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Frank Lin (林俊甫) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- University of Florida — B.S.航太工桯
+- Florida Institute of Technology — M.S.航太太空
+
+## Employment
+- NASA — Contracting Officer Technical Representative
+<!-- tah-tables:end -->
 
 ## Family
 

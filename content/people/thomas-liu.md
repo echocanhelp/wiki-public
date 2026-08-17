@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Thomas Liu (劉天良) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 成功大學 — 1962 — B.A., 外文系
+- UCLA — 1968 — M.S., Computer Science, Business Administration
+
+## Employment
+- NCR — 1968-73 — System Analyst
+- Douglas Aircraft Company — 1973-81 — Programmer, System Analyst
+- Northrop — 1981-85 — Programmer
+- Douglas Aircraft Company — 1985-91 — Section Manager
+<!-- tah-tables:end -->
 
 ## Family
 

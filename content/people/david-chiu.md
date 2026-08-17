@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 3. Founder and Chief Operating Officer of the Public Affairs Technology Company: Grassroots Enterprise
 
+<!-- tah-tables:start -->
+## Education
+- Harvard Univ. — B.A., Government — M.A., Government — J.D.
+
+## Employment
+- San Francisco Board of Supervisors — Board Member — (2008-2012) — San Francisco Board of Supervisors — President — (2013-2014) — California State Assembly — Member — (2014-) — Community — Grassroots Enterprise — Founder and Chief Operating Officer — Asian American Bar Association of the Greater Bay Area — President — Youth Leadership Institute — Board Chair
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

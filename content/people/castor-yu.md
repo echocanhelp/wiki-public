@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Castor Yu (尤中正) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 淡江大學 — BS 電算系
+- 淡江大學 — MS 企管
+
+## Employment
+- 保險業 — 1986 — Owner
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of Lions Clubs International/New Jersey Chapter (美國新澤西州獅子會會長)
 
+<!-- tah-tables:start -->
+## Education
+- Providence Univ. (靜宜大學) — 1970 — B.S., Chemistry
+- Columbia Univ. — Art
+- American Art Schools — Art
+
+## Employment
+- Morris County Art Association — Instructor, Ink painting and Oil painting — Verona Community Center — Instructor, Ink painting and Oil painting — Montclair Art Museum School of Art — Instructor, Ink painting and Oil painting — Union County Community College — Instructor, Ink painting and Oil painting — Raritan County Community College — Instructor, Ink painting and Oil painting — Community — Lions Clubs International, New Jersey Chapter (美國新澤西州獅子會) — President — New Jersey Art Foundation (美國新澤西藝術基金會) — President — Providence University Alumni Association, East Coast (靜宜大學美東校友會) — Founding Convener
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** William P. Tseng (曾伯聰)

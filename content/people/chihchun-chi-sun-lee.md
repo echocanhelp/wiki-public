@@ -21,6 +21,19 @@ last_reviewed: 2026-08-17
 
 Chihchun Chi-sun Lee, winner of the 1st Brandenburg Biennial Composers Competition, is an US citizen originally from Kaohsiung, Taiwan. She received a doctoral degree from the University of Michigan, two masters’ degrees from Ohio University, and a bachelor’s degree from Soochow University in Taiwan. Her teachers included William Albright, William Bolcom, Bright Sheng and Loong-Hsing Wen. In 2009, she became only the fourth women in history to receive the nomination of “best composer” from the Golden Melody Awards (Taiwan’s version of the Grammys) for her debut CD “Elegance”. Ms. Lee served as the composer-in-residence with Chai Found Music Workshop in 2009-2011, funded by the Taiwan National Culture and Arts Foundation. Currently she is the board member of Korea-China Art Association, teaches at Ewha Womans University and SangMyung University, Seoul, Korea.
 
+<!-- tah-tables:start -->
+## Education
+- Soochow University — B.M. Music
+- Ohio University — M.M. 音樂作曲及藝術系雙碩士
+- University of Michigan — Ph.D. 音樂系作曲博士
+
+## Employment
+- Composor
+- Chai Found Music Workshop — 2009-2011 — composer-in-residence
+- Ewha Womans University — Professor
+- SangMyung University — Professor
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

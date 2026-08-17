@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
-Marina Lin (林淨媺) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 國立藝專 — B.A.音樂
+- New York University — M.S.音樂演奏&教育
+
+## Employment
+- 紐約瓜地亞藝術高中音樂特殊教育 — 指導老師
+- 華府台語學校 — 音樂老師
+<!-- tah-tables:end -->
 
 ## Family
 

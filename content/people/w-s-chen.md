@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-W. S. Chen (陳務憲) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S.化工
+
+## Employment
+- Mansanto Chemical Co
+<!-- tah-tables:end -->
 
 ## Family
 

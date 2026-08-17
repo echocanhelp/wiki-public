@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of North American Taiwanese Woman Association (NATWA) 1989
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1956 — M.D.
+- Univ. of Wisconsin-Madison — M.S.
+
+## Employment
+- University of Wisconsin-Madison, Enzyme Institute — Biochemical Researcher — Community — North American Taiwanese Woman Association (NATWA) — President — Taiwanese American Association, Cleveland Chapter — President — Taiwanese Summer Conference, Midwest Region — Coordinator — Taiwanese American Parkinson Association (台美人帕金森互助會) — Co-Founder
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** 周烒明

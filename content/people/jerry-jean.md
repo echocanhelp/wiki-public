@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Jerry draws from an eclectic mix of progressive pop, electronic, rock, and classical influences. Fighting for You, Jerry’s self-produced and independently released EP broke into the iTunes Top Albums chart upon release. The title track of his second EP, Your Love, is a 2014 International Songwriting Competition winner, chosen from 18,000+ songs from 100+ countries. Enough, a song written in response to racial profiling, is a 2016 Global Peace Song Awards Finalist.
 
+<!-- tah-tables:start -->
+## Education
+- New York University — 2004 — Bachelor of Music
+- Columbia University — 2008 — Masters of Education
+
+## Employment
+- Self — 2010-present — Songwriter/musician
+- New York University, Tisch School of the Arts — 2005-2010 — Music director; Vocal coach; Music theory instructor
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Carolyn Kelly

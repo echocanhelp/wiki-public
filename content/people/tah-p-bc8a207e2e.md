@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 生於台灣台北，五歲開始跟隨陳泗治老師學習鋼琴。台大化學系畢業後曾於台北中山堂舉行個人獨奏會。留美繼續研究化學，從麻州克拉克大學獲化學博士學位;其後則進行研究工作，曾獲得四個美國專利。1990年信主受洗，現經常參與教會音樂事工及合唱團，聖歌隊伴奏或獨奏及三、四重奏等表演。
 
+<!-- tah-tables:start -->
+## Education
+- 國立臺灣大學 — 化學系學士 — Clark University — Ph.D. in Chemistry
+
+## Employment
+- Research Chemist / Inventor — Community — 教會 — 音樂事工、合唱團伴奏、獨奏及三四重奏表演
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

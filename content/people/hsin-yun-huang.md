@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Violist Hsin-Yun Huang 黃心芸, recognized as one of the leading violists of her generation, came to international prominence in 1993 when she was winner of the top prize of the ARD International Music Competition in Munich and the Bunkamura Orchard Hall Award. In 1988, Ms. Huang was the youngest-ever Gold Medalist of the Lionel Tertis International Viola Competition on the Isle of Man. These and other honors have propelled a career as soloist and chamber musician on stages of major concert halls throughout North America, Europe, and the Far East.
 
+<!-- tah-tables:start -->
+## Education
+- 寇蒂斯音樂院 — B.S. Music
+- Juilliard School — M.S. Music
+
+## Employment
+- Juilliard School — Teacher
+- Mannes College of Music — Teacher
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

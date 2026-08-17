@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Michael Deng Fong Liau 廖登豐 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- 中興大學 — 1961 — B.S.
+- Canada McGill Univ. — 1970 — Ph.D., 生物
+
+## Employment
+- Vanderbilt 醫學院 — 1971 — Postdoctorate fellow
+- Columbia醫學院 — 1975-2010 — 生化病理教授
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 朱秀華 Sally

@@ -19,7 +19,11 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-I-Jen Chen (陳一仁醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 中國醫藥學院 — M.S. — 2. — M.S.公共衛生
+<!-- tah-tables:end -->
 
 ## Family
 

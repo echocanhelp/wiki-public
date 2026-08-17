@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 An accomplished opera baritone, Mr. Jonathan Wu graduated from the Chinese Cultural University in Taiwan, where he studied under the direction of Professor Kwan Lin, a famous vocalist. In December of 1970, he joined the YMCA choir singing the Messiah as a baritone soloist. The following year, in the first opera “Marriage of Figaro” at Chinese Cultural University, he played the roles of both Broadcasting Company chorus. Later that year, he had his own successful concert before leaving Taiwan for Bayreuth Music College in Germany on a full scholarship, where he studied vocals under the direction of Professor Julius Raum. Additionally, he participated in the Southern Germany music tour sponsored by the school, performing solos as well as singing as part of the choir.
 
+<!-- tah-tables:start -->
+## Education
+- 文化大學 — 1971 — B.A., 聲樂
+
+## Employment
+- 牧星 合唱團 — Present — 特約歌唱家
+- 台福柑縣教會詩班 — 2010 — 指揮
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 林碧雪

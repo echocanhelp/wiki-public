@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Ming-Liang Chi (溫明亮) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 輔仁大學 — B.S.日文 — M.S.電腦
+
+## Employment
+- IT
+<!-- tah-tables:end -->
 
 ## Family
 

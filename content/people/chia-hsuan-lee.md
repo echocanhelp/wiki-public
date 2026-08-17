@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Chia-Hsuan Lee was born in 1971 in Chang-hua, Taiwan. She began her piano journey at the age of seven and won several prizes by age ten. She has received her education in experimental musical training programs throughout high school. Miss Lee was an active accompanist at SooChow University from 1989 to 1993. She was a music teacher at WenShin high school. She received master’s degree in piano performance in 1997 at the University of Maryland.
 
+<!-- tah-tables:start -->
+## Education
+- University of Maryland — 1997 — M.S. Music
+
+## Employment
+- SooChow University — 1989-1993 — Accompanist
+- WenShin high school — Music Teacher
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

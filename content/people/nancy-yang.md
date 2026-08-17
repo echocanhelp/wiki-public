@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Nancy Yang graduated from the University of California, Berkeley, with a Master’s degree in Statistics and a Bachelor’s degree in Mathematics.
 
+<!-- tah-tables:start -->
+## Education
+- U.S. NAVAL ACADEMY — 1983
+
+## Employment
+- 舊金山海軍航空基地
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Father:** 楊冠傑 Mother:楊雪鳳 Grandfather: 楊金虎

@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-David Yang (楊熾勳) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 中國醫藥大學 — 1969 — Ph.D.醫學
+
+## Employment
+- 羅東聖母醫院 — 醫師
+- 小兒科與過敏科 — 主治醫師
+- 美國醫師自然療法中心 — 總裁及醫科主任
+<!-- tah-tables:end -->
 
 ## Family
 

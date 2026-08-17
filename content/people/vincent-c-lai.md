@@ -19,7 +19,12 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Vincent C. Lai (賴經都) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S.土木工程
+- 美國密西根大學 — Ph.D.
+<!-- tah-tables:end -->
 
 ## Family
 

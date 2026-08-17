@@ -21,6 +21,12 @@ last_reviewed: 2026-08-17
 
 1. 1996年受邀New York’s Carnegie Hal I與Shiao-Ya Chamber Orchestra演出，並在美國與台灣各 大城市文化中心巡迴演出
 
+<!-- tah-tables:start -->
+## Education
+- CSULB — B.A. 聲樂
+- CSULB — B.S. 國際社會工作
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Son:** ???

@@ -22143,6 +22143,14 @@ Notable quotes and mentions of **楊遠薰** in Taiwan Justice articles:
 - [TAH #25 encyclopedia: 25. Carole Yang 楊遠薰](https://taiwaneseamericanhistory.org/25-carole-yang-%e6%a5%8a%e9%81%a0%e8%96%b0/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/carole-yang/)
 
+<!-- tah-tables:start -->
+## Education
+- 國立政治大學 1969-1973 — B.S. — 新聞系 — 愛荷華州立大學 1985-1987 — M.S. — 企業管理
+
+## Employment
+- 幼獅編譯中心編譯 (Taipei,Taiwan) — 1973-1974 — 內政部秘書( Taipei,Taiwan) — 1974-1976 — 交通部秘書(Taipei,Taiwan) — 1976-1977 — Internal Revenue Service (Newark, NJ , U.S.A.) — 1987-1989 — Macy R. H. and Corp. (New York City, U.S.A.) , Accountant — 1989-1996 — Paragon Computer Professionals, (Cranford, NJ, U.S.A.) Accountant — 1996-2000 — 自由時報美東版 (New York City, U.S.A.) 記者 — 1996-2006
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Ken Hsu許學加

@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Founder, First President and CEO of Asia Bank (亞細亞銀行) N.Y. 1984
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1956 — B.S., Economy
+- Kansai College (關西學院) — M.S., Finance
+- Kobe Univ. (神戶大學) — Ph.D., Economy
+
+## Employment
+- DA DAO Food Co. (大道食品公司) — Founder — Asia Bank (亞細亞銀行) — President & CEO — (1984-) — Flushing Mortgage Co. (法拉盛貸款公司) — Founder — Community — Taiwanese Chamber of Commerce, NY (紐約台灣商業協會) — Founder and First President — North American Taiwanese Chamber of Commerce (第五屆北美洲台灣商會聯合總會) — President (5th term)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 蔡協子

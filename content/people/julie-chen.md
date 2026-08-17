@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Julie Chen (許春惠) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 國立臺灣師範大學 — B.A., 家政系
+- Univ. of Texas — 營養學系
+
+## Employment
+- 經營房地產:住宅、旅館 — 1969 — Owner
+<!-- tah-tables:end -->
 
 ## Family
 

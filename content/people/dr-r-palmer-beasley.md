@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Dr. R. Palmer Beasley 畢思理博士 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- Dartmouth College — 1958 — A.B. philosophy
+- Harvard Univ. Medical School — 1962 — M.D.
+- Univ. of Washington — 1969 — M.S.
+
+## Employment
+- University of Washington — Faculty — (1969-1986) — University of Texas School — Professor — (1987-2012) — The Center of International Research — Director — (2005-2012)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Lu-Yu Hwang(黃綠玉)

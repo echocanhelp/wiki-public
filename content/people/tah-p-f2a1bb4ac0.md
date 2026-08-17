@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-%E6%9D%8E%E7%8E%89%E7%90%9B (李玉琛醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1949 — M.D.
+
+## Employment
+- 台大醫院 — 1949 — Doctor
+- Watts Hospital — 1954 — Doctor
+- Univ. of Maryland Hosp. — 1957 — Doctor
+- 自行開業 — 1966 — Doctor
+- Univ. of Maryland — 1971 — Professor
+<!-- tah-tables:end -->
 
 ## Family
 

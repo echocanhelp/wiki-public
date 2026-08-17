@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of North America Taiwanese Professors' Association (NAPTA) (北美洲台灣人教授協會會長) 2014-2015
 
+<!-- tah-tables:start -->
+## Education
+- Kaohsiung Medical Univ. — M.D.
+
+## Employment
+- Kaiser Permanente Ontario — Doctor — Community — North America Taiwanese Professors' Association (NAPTA) — President — NATMA International Medical Mission — Leader — North American Taiwanese Medical Association, Southern California Chapter (NATMA/S. CA) — President — Southern California Alumni Association of Tainan First Senior High School and Tainan Girls' Senior High School — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 陳秀芬

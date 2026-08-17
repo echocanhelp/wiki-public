@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 3. Ministry of Technology and Science Outstanding Research Award, Taiwan (2014-2017)
 
+<!-- tah-tables:start -->
+## Education
+- Tamkang Univ. (淡江大學) — 1976 — B.A., International Trade
+- National Chengchi Univ. (政治大學) — 1978 — M.A., International Trade
+- Vanderbilt Univ. — 1987 — Ph.D., Economics
+
+## Employment
+- Oak Ridge National Laboratory — Energy Economics Researcher — National Chengchi Univ. (政治大學) — Professor, Banking Dept. & International Trade Office — Academia Sinica Economic Research Institute (中央研究院經濟研究所) — Researcher — (1989-) — National Taiwan Univ. — Professor, Dept. of Economics — (1992-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 Outstanding Performance Presentation of 2013 Annual Symposium-the Society of Chinese Bioscientists in America.
 
+<!-- tah-tables:start -->
+## Education
+- 成功大學 — 1998 — B.S. Chemical Engineering
+- 成功大學 — 2000 — M.S. Chemical Engineering
+- Texas A&M University — 2006 — Ph.D. Chemical engineering
+
+## Employment
+- Texas A&M University — 2013-present — Assistant Professor
+- Synamen Corp., — 2009-2010 — consultant
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, physician
 - **Source:** TAH Foundation Who’s Who
 
-Richard J. Shih (石正岡醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- UCLA — 1995 — B.S. Cybernetics
+- Columbia University College of Dental Medicine — 2000 — DDS. Dentistry
+
+## Employment
+- Richard J. Shih, D.D.S, Inc. — 2005present — Owner
+- Glendora Vine Family Dentistry — 2007-present — Managing partner
+<!-- tah-tables:end -->
 
 ## Family
 

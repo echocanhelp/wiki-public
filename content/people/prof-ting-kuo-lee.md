@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 3. National Science and Technology Program for Nanoscience and Nanotechnology, Taiwan
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1967-1971 — B.S., Physics
+- Brown Univ. — 1972-1975 — Ph.D., Physics
+
+## Employment
+- Virginia Polytechnic Institute and State University — Assistant Professor, Associate Professor, Professor, Dept. of Physics — (1982-1997) — National Tsing-hua University — Adjunct Professor, Dept. of Physics — (2001-) — National Science and Technology Program for Nanoscience and Nanotechnology, Taiwan — Co-Executive Director — (2004-2006) — Academia Sinica — Director, Academic Affairs Office — (2007-2012) — Academia Sinica — Executive Secretary, Central Academic Advisory Committee — (2008-2012) — Academia Sinica — Director, Institute of Physics — (2012-2018) — National Sun Yat-sen University — Research Chair Professor, Dept. of Physics — (2019-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

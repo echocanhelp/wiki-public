@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 Dr. I-Bei Lin is an Associate Professor of Cello and Chair of Strings at the University of Hawai`i at Manoa. Dr. Lin, a native of Taiwan, received her Doctor of Music degree with Honors and her Master of Music degree from Northwestern University. She holds a Bachelor of Music degree with Distinction from the Eastman School of Music.
 
+<!-- tah-tables:start -->
+## Education
+- Eastman School of Music — B.S. Music
+- 美國西北大學音樂學院 — M.S. Music
+- 美國西北大學音樂學院 — Ph.D. Music
+
+## Employment
+- University of Hawaii at Manoa — Present — Associate Professor of Cello
+- University of Hawaii at Manoa — Present — Chair of Strings
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

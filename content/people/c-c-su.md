@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-C. C. Su (蘇仲卿博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1950 — B.S. 農化
+- 台灣大學 — 1954 — M.S. 化學
+- University of California, Berkeley — 1960 — Ph.D.
+
+## Employment
+- 台灣大學生化科技學系 — 教授
+<!-- tah-tables:end -->
 
 ## Family
 

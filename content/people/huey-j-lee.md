@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Huey J. Lee (李惠仁醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 高雄醫學院 — 1986 — M.S.醫科
+
+## Employment
+- Diagnostic Radiology — 1984-1988 — Residency
+- Beth Israel Medical Center
+<!-- tah-tables:end -->
 
 ## Family
 

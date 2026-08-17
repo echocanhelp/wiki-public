@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-F. Z. Chen Wu (吳陳芳容醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 臺灣大學醫學院 — B.S.
+
+## Employment
+- 聖瑪麗醫院 — 1965-1966 — 實習醫生
+- 賓大附屬醫院 — 1966-1969 — 婦產科住院醫師
+- 賓夕凡尼亞醫院 — 1969-1972 — 生殖生理研究1969-1972員
+- 賓大長老教會醫院 — 1973-1975 — 婦產科主任 — 新澤西州倭曦市西澤西醫院 — 1975-2003 — 開業醫師
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Jennifer J. Chow (周展儀) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Cornell University — B.S. Biology & Society
+- UCLA — M.S.W. ( Social Welfare)
+
+## Employment
+- Jennifer J. Chow — Writer
+<!-- tah-tables:end -->
 
 ## Family
 

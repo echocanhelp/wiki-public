@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Sue-Jane Lin (林素貞) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — D.S.
+- University of Oklahoma — M.S.土木工程
+- University of Oklahoma — Ph.D.土木工程
+
+## Employment
+- 成功大學環工系 — present — professor
+- Harvard University能源環境政策中心 (1988-1989) — 1988-1989 — 客座研究員
+- H.T.B, Oklahoma — 1979-1981 — Engineer
+<!-- tah-tables:end -->
 
 ## Family
 

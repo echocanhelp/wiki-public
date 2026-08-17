@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Loring Wuliang Tu (杜武亮) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Princeton — B.S. 數學系
+- McGill University — M.S.數學系
+- Harvard — Ph.D. 理論學
+
+## Employment
+- 美國塔芙茨大學(Tufts University) — Present — 數學系教授
+- Johns Hopkins — Teaching
+- University of Michigan — Teaching
+<!-- tah-tables:end -->
 
 ## Family
 

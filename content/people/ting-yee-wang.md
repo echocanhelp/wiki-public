@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Wang Kong-Lu Human Right Awards by Formosan Association For Human Rights (王康陸人權獎) 2017
 
+<!-- tah-tables:start -->
+## Education
+- Taipei Institute of Technology(台北工專) — 1964 — Civil Engineering
+- Kansas State Univ. — 1970 — M.S., Civil Engineering
+- New York Polytechnic Univ. — 1976 — E.D., Civil Engineering
+
+## Employment
+- City of New York Board of Education — Engineer — (1971-1976) — Rockwell International — Engineer — (1976-1978) — Southern California Edison — Engineer — (1978-1985) — Investors Realty Services Company — CEO — (1985-2020) — Community — Taiwan Human Rights & Culture Association (台灣人權及文化協會) — Co-Founder — Voice of Taiwan Independence (台獨之聲) — Founder — Formosan Association for Human Rights (台灣人權協會) — President 1980, 1992-1993, 1993-1995 — Friends of Taiwan — Founder 1998; President 2015-2018
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 黃明美

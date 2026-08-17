@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, scientist
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Jackson Chiu (邱坤勝博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台北工專 — 1958
+- University of Pennsylvania — 1961- 1968 — Ph.D. in Chemistry Engineering
+
+## Employment
+- Texaco — 1966 - 1994
+- Paragon
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Patrick Wang (王沛智) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 麻省理工學院 — B.S. 經濟學
+
+## Employment
+- 紐約獨立電影人 — 製片, 導演, 編劇, 演員
+<!-- tah-tables:end -->
 
 ## Family
 

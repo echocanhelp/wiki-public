@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of North American Taiwanese Medical Association (北美洲台灣人醫師協會總會長) 2008
 
+<!-- tah-tables:start -->
+## Education
+- China Medical Univ. — 1971 — M.D.
+
+## Employment
+- Seton Hall Univ. — Associate Professor of Clinical Surgery — (1996-) — RWJ Univ. Hospital Rahway — Director of Surgery — (2000-) — Clinical Society of Trinitas Hospital — President — (2005-) — Community — North American Taiwanese Medical Association — President — Pen Club in Greater New York — Founder and First President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 雪莉

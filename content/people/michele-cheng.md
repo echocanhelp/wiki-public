@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Michele Cheng is an artistically and commercially trained composer. Michele started to compose and improvise by herself since an early age of 7. It was not until 17 did she formally start to study music theory, under the instruction of Wen-Pin Hope Lee. Growing up in Taiwan, Michele received her BFA in Music Theory and Composition from National Sun Yat-sen University, where she studied with Szu-Hsien Lee.
 
+<!-- tah-tables:start -->
+## Education
+- National Sun Yat-sen University — BFA in Music Theory and Composition
+
+## Employment
+- Yunlin Sharing Chamber Orchestra — Composer in Residence — (2007-) — RAG Film Co., Ltd — Film Composer in Residence — (2013-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

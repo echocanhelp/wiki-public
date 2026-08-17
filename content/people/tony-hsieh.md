@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 4. Delivering Happiness debuted at #1 on the New York Times Best Seller List and stayed on the list for 27 consecutive weeks
 
+<!-- tah-tables:start -->
+## Education
+- Harvard Univ. — 1995 — B.S., Computer Science
+
+## Employment
+- Oracle — 1995 — Programmer
+- Link Exchange — 1996 — Founder member
+- Zappos — 1999 — Founder member
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Father:** Richard Hsieh謝傳剛/Mother: Judy Lee李小林

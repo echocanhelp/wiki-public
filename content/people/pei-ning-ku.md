@@ -21,6 +21,18 @@ last_reviewed: 2026-08-17
 
 Pei-Ning Ku, the 1996 Outstanding Performance prize winner in the Grand Asia vocal competition held in Malaysia, continues to give outstanding performances on stage and in the classroom. She has devoted herself to family, performing, and vocal music education. She is a passionate teacher and performer, in both Taiwan and the United States.
 
+<!-- tah-tables:start -->
+## Education
+- 1.
+- Manhattan School of Music — 1990 — B.S. Vocal Performance
+- 內華達州立大學 — 2014 — 音樂系聲樂博士
+
+## Employment
+- 內華達州立大學 — present — 聲樂教師
+- Department of Music at the National Taichung University — Instructor
+- Shin-Ming High school in Taiwan — Instructor
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

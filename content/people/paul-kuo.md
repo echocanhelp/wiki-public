@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Artworks include: Breakfast Stand (22″ x 30″ Watercolor), Koi Pond (22″ x 30″ Watercolor), An Old Town (22″ x 30″ Watercolor), Buffalo Hunt (22″ x 30″ Watercolor), and Stormy Day (22″ x 30″ Watercolor). For more bio information, please see Who’s Who entry: 276. Paul Kuo 郭博修.
 
+<!-- tah-tables:start -->
+## Education
+- 國立台灣大學 — B.A.外文系
+
+## Employment
+- 亞歷桑那州鳳凰城Glendale大學 — 1973-1993 — 美術講師
+- 台灣電視公司 — 1962-1971 — 美術指導
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

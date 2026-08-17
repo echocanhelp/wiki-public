@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, lawyer, educator
 - **Source:** TAH Foundation Who’s Who
 
-Prof. Lung-Chi Chen (陳隆志教授) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1954 — B.S. Law
+- Northwestern Univ. — 1961 — M.S. Law
+- Yale Univ. — 1962 — M.S. Law
+- Yale Univ. — 1964 — Ph.D. Law
+
+## Employment
+- New York Law School — Professor — Yale University — Professor — Community — Taiwan New Century Foundation — Chairman
+<!-- tah-tables:end -->
 
 ## Family
 

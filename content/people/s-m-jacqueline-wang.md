@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 S. M. (Jacqueline) Wang 王賽美 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- Providence Univ. (靜宜大學) — Bachelor
+
+## Employment
+- Ramada Inn (Long Beach) — CEO — (1978-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Ken John Wang (王桂榮)

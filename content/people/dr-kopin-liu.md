@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 3. An Awardee of the Foundation for the Advancement of Outstanding Scholarship 1996-2001 & 2001-2006
 
+<!-- tah-tables:start -->
+## Education
+- National Tsing Hua Univ. — 1971 — B.S., Chemistry
+- Ohio Univ. — 1977 — Ph.D., Chemistry
+
+## Employment
+- Argonne National Laboratory — Researcher — (1982-1993) — Institute of Atomic and Molecular Sciences, Academia Sinica — Researcher — (1993-2001) — Institute of Atomic and Molecular Sciences, Academia Sinica — Director — (2001-2004) — Institute of Atomic and Molecular Sciences, Academia Sinica — Distinguished Researcher — (2002-) — National Taiwan University — Distinguished Research Lecturer of the Dept. of Physics
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -21,6 +21,13 @@ last_reviewed: 2026-08-17
 
 杜宛珊博士，五歲開始習琴，紐約曼哈頓音樂院學士畢業，賓州州立大學音樂碩士，並於該校取得演奏博士。曾師事許多著名演奏家如Constance Keene, Marylene Dosse, 及Abbey Simon。 宛珊在台灣及美國演出活躍，也在許多大師班如Constance Keene, David Dubal, Horacio Guiterrez等示範演出。曾獲得許多獎項如2003年美國賓州教師協會鋼琴大賽及2004年賓州州立大學器樂組比賽冠軍。宛珊的室內樂經驗豐富，曾師事Peter Winograd, Junie Cho, Timothy Deighton, 和Timothy Hester.
 
+<!-- tah-tables:start -->
+## Education
+- 紐約曼哈頓音樂院 — B.S. Music
+- 賓州州立大學 — M.S. Music
+- 賓州州立大學 — Ph.D. Music
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

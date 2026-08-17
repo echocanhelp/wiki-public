@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-B. C. Hsu (許炳堅博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1978 — B.S.電機
+- UC Berkeley — 1983 — M.S.電機
+- UC Berkeley — 1985 — Ph.D.電機
+
+## Employment
+- Synopsys Corporation — 研發處處長
+- USC — 1985-1998 — Professor
+<!-- tah-tables:end -->
 
 ## Family
 

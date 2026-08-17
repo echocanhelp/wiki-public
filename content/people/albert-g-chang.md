@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, lawyer
 - **Source:** TAH Foundation Who’s Who
 
-Albert G. Chang (章錦華) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Stanford Univ. — 2006 — B.A., Arts
+- Harvard Law School — 2009 — J.D.
+
+## Employment
+- McKinsey & Company, West Coast office — Associate — (2010-2011) — McKinsey & Company, West Coast office — Engagement Manager — (2011-2012) — McKinsey & Company, Taiwan — Associate Partner — (2012-2015) — McKinsey & Company, Taiwan — General Manager — (2015-) — Community — Taiwanese American Chamber of Commerce — President
+<!-- tah-tables:end -->
 
 ## Family
 

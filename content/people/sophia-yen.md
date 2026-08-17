@@ -21,6 +21,19 @@ last_reviewed: 2026-08-17
 
 3. Stanford’s Lucile Packard Children’s Hospital in the Teen and Young Adult clinic
 
+<!-- tah-tables:start -->
+## Education
+- MASSACHUSETTS INSTITUTE OF TECHNOLOGY — 1993 — B.S.Biology
+- UNIVERSITY OF CALIFORNIA, SAN FRANCISCO — 2000 — M.D.
+- UC Berkeley — M.S. Public Health
+
+## Employment
+- Stanford University School of Medicine — 2015-Present — Clinical Associate Professor
+- Adolescent Medicine — Clinical Associate Professor
+- Stanford’s Lucile Packard Children’s Hospital in the Teen and Young Adult clinic — Teaching, Residents & fellow
+- Children's Hospital Oakland — 1997-2000 — Pediatrics Resident Physician
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

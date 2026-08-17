@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Renowned historian for the studying of Taiwanese American and Taiwanese
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. College of Medicine — 1965 — M.D.
+- UC Berkeley — 1971 — Ph.D., Nutrition
+
+## Employment
+- Saint Louis Univ. — Doctor of Pediatrics — (1975-2006) — Glennon Children's Hospital — Doctor of Pediatrics — (1975-2006)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Daughter:** 1

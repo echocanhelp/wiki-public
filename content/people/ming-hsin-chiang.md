@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Director of The American Red Cross Greater New York Region - Long Island chapter
 
+<!-- tah-tables:start -->
+## Education
+- New York Institute of Technology — Electronic Computer Major
+
+## Employment
+- Yu Shan Company USA, Ltd. — President — (1977-) — Casual Home Worldwide Inc. — Founder & President — (1989-) — Community — American Red Cross Greater New York Region - Long Island Chapter — Director — Taiwanese Chamber of Commerce of New York — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Father:** 江建一

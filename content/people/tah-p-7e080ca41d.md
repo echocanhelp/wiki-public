@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-%E6%9D%8E%E4%B8%Ad%E5%Bf%97 (李中志) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 淡江大學 — B.S. 電子計算機
+- 紐約雪成大學 — Ph.D. 資訊科學
+
+## Employment
+- Illinois State University — 電腦科學教授 — 2.
+<!-- tah-tables:end -->
 
 ## Family
 

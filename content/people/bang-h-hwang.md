@@ -23,6 +23,20 @@ The Pennsylvania State University College of Medicine
 Assistant Professor of Anatomy
 (1980-1986)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1966 — B.S.
+- National Taiwan Univ. — 1972 — M.S.
+- The Univ. of Iowa — 1978 — Ph.D.
+
+## Employment
+- The Pennsylvania State Univ. College of Medicine — 1980-1986 — Assistant Professor of Anatomy
+- Sch. of Medicine at Terre Haute Ctr. for Medical Education, Indiana Univ. — 1986-1988 — Assistant Professor of Anatomy
+- Sch. of Medicine at Terre Haute Ctr. for Medical Education, Indiana Univ. — 1988-1991 — Associate Professor of Anatomy
+- School of Medicine, Indiana Univ. — 1991-2007 — Associate Professor of Anatomy
+- VA Puget Sound Health Care System, Seattle, WA — 2007-present — Senior Health Science Research Specialist
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist
 - **Source:** TAH Foundation Who’s Who
 
-Christine L. Yang (林壽英) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 中興大學 — 1965 — B.S., 昆蟲
+- Northwestern Univ. — 1969 — M.S., 生物
+
+## Employment
+- Northwestern Univ. — 1969-71 — 藥理系研究肋理
+- Abbott 藥廠 — 1973-02 — Researcher
+<!-- tah-tables:end -->
 
 ## Family
 

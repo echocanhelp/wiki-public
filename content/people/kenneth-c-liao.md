@@ -24,6 +24,17 @@ STATE UNIVERSITY OF NEW YORK HEALTH SCIENCE CENTER OF SYRACUSE
 1993
 M.D.
 
+<!-- tah-tables:start -->
+## Education
+- STATE UNIVERSITY OF NEW YORK HEALTH SCIENCE CENTER OF SYRACUSE — 1993 — M.D.
+
+## Employment
+- Yale-New Haven Hospital — 1994-1997 — residency
+- Hospital of the U. Penn. — 1997-1998 — Anesthesiology specialist
+- Saint Clare’s Hospital, pain management Center — 1998- — Director
+- Kenneth Liao, M.D. L.L.C. — present — Anesthesiology specialist
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

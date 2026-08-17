@@ -19,7 +19,19 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, physician, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-%E9%Bb%83%E4%B8%96%E6%83%A0 (黃世惠) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1951 — MD
+- Washington University — 1959 — MD
+
+## Employment
+- Missouri Baptist Medical Center — 1953-54 — MD
+- Barnes-Jewish Hospital/Washington University — 1954-59 — MD
+- Washington University — 1975-79 — Professor
+- 三陽工業 — 1980-14 — 董事長
+- 南陽實業 — 1980-14 — 董事長
+<!-- tah-tables:end -->
 
 ## Family
 

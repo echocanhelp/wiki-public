@@ -23,6 +23,15 @@ Northwestern University
 B.S., Cognitive Science; Math Methods in Social Science
 (2012)
 
+<!-- tah-tables:start -->
+## Education
+- Northwestern Univ. — 2008-2012 — B.S., Cognitive Science; Math Methods in Social Science
+- Harvard T.H. Chan School of Public Health — 2012-2014 — M.S., Epidemiology
+
+## Employment
+- The Boston Foundation — Program Associate — (2014-2016) — The Bridgespan Group — Consultant — (2016-) — Community — TACL — President 2017-2019 — Saffron Circle — Co-Chair, Steering Committee 2015-2018 — TAP-Boston — President 2015-2017 — ITASA — Board of Directors 2012-present — ITASA — President 2011-2012
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

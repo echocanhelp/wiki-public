@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Hung-ping Tsao (曹恆平博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Normal Univ. (師範大學) — 1963 — B.S., Mathematics
+- National Tsing Hua Univ. (清華大學) — 1965 — M.S., Mathematics
+- Univ. of Wisconsin-Milwaukee — 1969 — M.S., Mathematics
+- Univ. of Illinois at Urbana-Champagne — 1976 — Ph.D., Applied Mathematics
+
+## Employment
+- Southern Benedictine College — Professor — (1975-) — Bankers Security Life Insurance Society — Actuarial — (1977-) — National Investors Life Insurance Company — Actuarial — (1978-) — Fireman's Fund American Life Insurance Company — Actuarial — (1980-) — Pacific Standard Life Insurance Company — Actuarial — (1983-) — San Francisco State University — Lecturer — (1985-)
+<!-- tah-tables:end -->
 
 ## Family
 

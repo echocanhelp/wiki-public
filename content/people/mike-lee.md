@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist
 - **Source:** TAH Foundation Who’s Who
 
-Mike Lee (李振生博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1970 — B.S., Chemistry
+- National Taiwan Univ. — 1973 — M.S., Chemistry
+- Claremont Graduate School — 1995 — Ph.D., Information Science
+
+## Employment
+- Walker Mfg — 1976 — SR. DBA.
+- TransAmerica Life — 1984 — DBA Consultant
+- Honda Motor — 1996 — SR. DBA Consultant
+<!-- tah-tables:end -->
 
 ## Family
 

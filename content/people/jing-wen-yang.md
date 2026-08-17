@@ -19,7 +19,11 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-JING-WEN YANG (楊景文) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1951 — B.S. 農業工程學系
+<!-- tah-tables:end -->
 
 ## Family
 

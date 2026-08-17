@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Jack J. Jou was born in Taiwan in 1939. He graduated from National Cheng Kung University with a degree in Architecture, and practiced as an architect for 30 years in both Taiwan and the United States. Although painting was a favorite pastime for many years, it wasn’t until after his retirement in 1996 that Mr. Jou began to study seriously with local American artists such as Chris Van Winkle, Tom Fong, Nancy Shiershke, and Dick Tarkington.
 
+<!-- tah-tables:start -->
+## Education
+- 成功大學 — M.S.建築系
+
+## Employment
+- Architecture
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

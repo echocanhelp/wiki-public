@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Qun Tsai (蔡昆) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 髙等科 — 畢業
+
+## Employment
+- 翠月樓餐館 — 1980 - 2003 — Owner of 3 Resturants
+<!-- tah-tables:end -->
 
 ## Family
 

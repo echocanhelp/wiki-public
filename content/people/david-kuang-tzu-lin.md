@@ -21,6 +21,18 @@ last_reviewed: 2026-08-17
 
 1.美國共和黨國會田納西州醫師委員會榮譽主席Honorary Chairman, NRCC Physician’s Advisory Committee, TN, 2004
 
+<!-- tah-tables:start -->
+## Education
+- 台大醫學院 — 1966 — M.D.
+- University of Wisconsin — 1971 — Ph.D. Physiological
+
+## Employment
+- University of Wisconsin — 1974-1987 — Associate Professor
+- William Beaumont Hospital — 住院醫師
+- Meharrry Medical College — 1996-1987 — 小兒遺傳專科主任
+- 田納西州立醫療中心 — 主治醫師
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

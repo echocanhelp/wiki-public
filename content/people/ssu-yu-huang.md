@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. The Call for Score of National Symphony Orchestra in Taiwan.(Winner) 2010
 
+<!-- tah-tables:start -->
+## Education
+- Tainan Univ. of Technology — Major in Electronic Organ and Piano
+- Chinese Culture Univ. — 1993-1996 — B.S., Theoretical Composition
+- Univ. of Rhode Island — 2007 — Major in Theoretical Composition
+
+## Employment
+- Musician
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

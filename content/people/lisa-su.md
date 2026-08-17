@@ -70,8 +70,7 @@ Pages that link to **lisa-su** (lisa-su):
 
 1. [[people/su-chun-huai.md|su-chun-huai]]
 
-### Sources
-- [TAH #805 encyclopedia: 805. 獨家／蘇姿丰－永遠的先鋒　來自台灣的矽谷半導體女王傳奇 | 09/2021](https://taiwaneseamericanhistory.org/my-stories-805/) (1)
+### Sources (1)
 
 1. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
 

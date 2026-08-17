@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 Dr. Lan-In Winnie Yang has enjoyed successes not only as a pianist, but also as a composer. Her performance activities have taken her through Asia, Europe, and the United States, where she has had the opportunity to successfully premier her own compositions.
 
+<!-- tah-tables:start -->
+## Education
+- Oberlin College — B.S. Music, Piano/Composition
+- Manhattan School of Music — M.S. Music,Piano Performance
+- State University of New York at Stony Brook — M.S. Music Theory and Compositio
+- State University of New York at Stony Brook — 2013 — Ph.D.Music Theory and Composition / Piano
+
+## Employment
+- 1. Suzuki on the Island — 2013-present
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

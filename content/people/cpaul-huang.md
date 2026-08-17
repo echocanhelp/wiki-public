@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Recipient of the prestigious 2015 Avery Fisher Career Grant and 2017 Lincoln Center Award for Emerging Artists, Taiwanese-American violinist Paul Huang is already recognized for his intensely expressive music making, distinctive sound, and effortless virtuosity. Following his Kennedy Center debut, The Washington Post proclaimed: “Huang is definitely an artist with the goods for a significant career.”
 
+<!-- tah-tables:start -->
+## Education
+- Juilliard School — B.S. Music
+- Juilliard School — M.S., Music
+
+## Employment
+- Violinist
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

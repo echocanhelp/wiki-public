@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Dr. S. T. Cheng (鄭信傳醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Taipei Medical Univ. — M.D.
+
+## Employment
+- Taipei Veterans General Hospital — Surgeon — Savannah Georgia Hospital — Physician — Jewish Hospital — Physician — Providence Hospital — Physician
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Prof. Shi-Shung Huang 黃錫勳教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1961 — M.D.
+
+## Employment
+- John Hopkins Medical Center — Professor — Community — TAA/Baltimore (巴爾地摩臺灣同鄉會) — President — North America National Taiwan Univ. Medical College Alumni Association/Greater Washington D.C. (北美臺大醫學院校友會大華府地區) — President
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

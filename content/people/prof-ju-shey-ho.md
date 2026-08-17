@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of The World Association of Copepodologists (世界海洋橈足類學者學會會長) 1993-1999
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1958 — B.A., Zoology
+- Boston Univ. — 1965 — M.S., Biology
+- Boston Univ. — 1969 — Ph.D., Marine Biology
+
+## Employment
+- CSULB — Professor — (1970-) — World Association of Copepodologists — President — (1993-1999) — North America Taiwanese Professors' Association / South California Chapter — President — (1985-1986) — Community — World Association of Copepodologists — President — North America Taiwanese Professors' Association / South California Chapter — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Pao-Hsi

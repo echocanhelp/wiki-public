@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 1. president of the New Jersey Chapter of the Formosan Association for Public Affairs, 2017
 
+<!-- tah-tables:start -->
+## Education
+- Rutgers University — 2007 — B.S. Economics and Political Science
+
+## Employment
+- City Standard Data, Inc — present — owner
+- Clear Skies Title Agency — present — founder
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Shirley

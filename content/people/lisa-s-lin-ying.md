@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, educator
 - **Source:** TAH Foundation Who’s Who
 
-Lisa S. Lin Ying (印林秀玲) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Soochow Univ. — 1979 — B.A., Political Science
+- Queens College — 1985 — M.A., Political Science
+- NYU — 1986 — B.A., English Education
+
+## Employment
+- OPMI Business School — 2010 — President/Director
+- Our Planet Management Institute — 1993 — President
+<!-- tah-tables:end -->
 
 ## Family
 

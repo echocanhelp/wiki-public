@@ -19,7 +19,11 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Hsiu-Chine Yeh Wang (葉秀卿) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1964 — B.A., Foreign Language & Literature Department
+<!-- tah-tables:end -->
 
 ## Family
 

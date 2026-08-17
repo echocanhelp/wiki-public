@@ -24,6 +24,16 @@ Education
 1969-1971
 Tobacco Research (Post doctor research)
 
+<!-- tah-tables:start -->
+## Education
+- University of Kentucky — 1969-1971 — Tobacco Research (Post doctor research)
+- University of Lowa — 1964-1969 — College of Pharmacy
+
+## Employment
+- Animal Drug Development — 1976-1987 — Purina Health Industry/Present Central Life Sciences
+- Human Drug development — 1972-1976 — Mallinckrodt Pharmaceutical
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

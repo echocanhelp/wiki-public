@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Rev. J. C. Cheng (鄭紀昭牧師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Cheng Kung Univ. — B.S., Chemical Engineering
+- Missouri Univ. — 1969 — M.S., Chemical Engineering
+- Covenant Theological Seminary — 2002 — M.Div.
+
+## Employment
+- Monsanto Company — Chemical Engineer — (1969-) — Evangelical Chinese Bible Church (ECBC) — Pastor — Evangelical Formosan Church of Chicago — Pastor — (2006-2018)
+<!-- tah-tables:end -->
 
 ## Family
 

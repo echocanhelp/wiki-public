@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Hansom Chen (陳翰申) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 淡江大學 — 2011 — B.S. 建築系
+- Rhode Island School of Design — M.S.
+
+## Employment
+- IBM Waston
+- R/GA
+- DigitasLBi
+- Leaf Your Life
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -23,6 +23,15 @@ Taipei Institute of Technology (台北工專)
 AA five-year junior college program graduate
 (1965)
 
+<!-- tah-tables:start -->
+## Education
+- Taipei Institute of Technology (台北工專) — 1960-1965 — AA five-year junior college program graduate
+- Tohoku Univ., Japan (日本東北大學) — 1971- — Mineral Engineering
+
+## Employment
+- Poly Tech Company — Self-Employed — (1981-2018) — Community — TAA-ESGV (聖東台灣同鄉會) — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 周月裡

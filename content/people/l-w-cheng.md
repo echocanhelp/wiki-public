@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-L. W. Cheng (鄭良偉) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 師範大學 — 1950 — B.S.英語
+- 師範大學 — 1963 — M.S. 文學
+- 印第安那大學 — 1967 — Ph. D. 語言
+
+## Employment
+- 英國約克大學 — 1968-1969 — 教授
+- 夏威夷大學 — 1969 — 東亞語文系教授
+- 國科會 — 2002- — 講座教授
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Dr. Scott ChangChien 張簡吉誠醫師 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- Chung Shan Medical Univ. (中山醫學大學) — 1975 — M.D.
+- Tulane Univ. School of Public Health and Tropical Medicine — MPH
+
+## Employment
+- UCLA Medical School — Clinical Professor — LOGOS Evangelical Seminary (正道福音神學院) — Board of Directors — Community — North American Taiwanese Medical Association (北美洲台灣人醫師協會) — Member — EFCLA (洛福教會) — Voluntary Missionary Preacher
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

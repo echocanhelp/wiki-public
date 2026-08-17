@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Connie Lu (呂婷婷) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Northeastern University — Pharm. D.
+
+## Employment
+- Veteran Affairs of Loma Linda — Residency
+<!-- tah-tables:end -->
 
 ## Family
 

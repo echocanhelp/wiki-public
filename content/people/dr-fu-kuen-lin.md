@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 2. “Discoverers Award” of Pharmaceutical Research and Manufacturers of America 1995
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1964 — B.S., Plant Pathology
+- National Taiwan Univ. — 1967 — M.S., Plant Pathology
+- Univ. of Illinois at Urbana-Champaign — 1971 — Ph.D., Plant Pathology
+
+## Employment
+- Amgen Inc. — Director, Consultant — (1981-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 高雲娟

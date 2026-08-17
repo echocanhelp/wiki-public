@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Fu-Mei Wu Chen (陳吳富美) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1965 — B. S. Economics
+- Pittsburg Univ. — 1969 — M.S. Mathematics
+
+## Employment
+- Computer Sciences Corp. — Computer Programmer — (1969-) — Northwestern State University of Louisiana — Computer Programmer — (1979-) — Brass House, Inc. — VP/Treasurer — G.H.K.M. Foundation / Acu-Hematite Foundation — VP
+<!-- tah-tables:end -->
 
 ## Family
 

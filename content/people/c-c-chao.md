@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-C. C. Chao (趙誌諄) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 加州正道神學院 — Ph.D. 教牧
+
+## Employment
+- 北卡台語教會 — 主任牧師
+- 維加斯基督教會 — 2016- — 主任牧師
+<!-- tah-tables:end -->
 
 ## Family
 

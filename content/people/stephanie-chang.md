@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Michigan State Senate Fist Asian American Woman and Taiwanese American elected to the Senate in Michigan 2018-
 
+<!-- tah-tables:start -->
+## Education
+- Univ. of Michigan — 2005 — B.A., Psychology with a minor in Asian Pacific Islander American Studies — 2014 — M.S., Public Policy & Social Work
+
+## Employment
+- Michigan State Representative for House District 6 — State Representative (First Term) — (2015-2017) — Michigan State Representative for House District 6 — State Representative (Second Term) — (2017-) — Assistant to social activist Grace Lee Boggs — Assistant — Detroit Asian Youth Project — Mentor — Michigan United/One United Michigan — Organizer — (2006-) — Campaign for Justice — Deputy Director — (2007-2012) — APIAVote-Michigan — Co-founder and former president — James and Grace Boggs School — Community Engagement Coordinator — (2013-) — The Center for Progressive Leadership — Alumni Engagement and Evaluation Coordinator — Community — APIAVote-Michigan — Co-founder and former president
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Sean Gray

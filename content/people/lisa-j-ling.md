@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Host of National Geographic Explorer, reality television show, The Job, reporter on Channel One News
 
+<!-- tah-tables:start -->
+## Education
+- Del Campo High School — 1991
+- National University — 2009 — honorary doctorate
+
+## Employment
+- Journalist and writer — The host of This is Life with Lisa Ling on CNN — 2014-present — The former host of Our America with Lisa Ling on OWN: The Oprah Winfrey Network — 2011-2014 — Former co-host of ABC's The View — 1999-2002 — Host of National Geographic Explorer, reality television show, The Job, reporter on Channel One News
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Paul Song

@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Founded the "Autologous Dendritic Cell/Tumor Antigen, ADCTA" (創辦「自體樹突細胞腫瘤抗原免疫細胞治療製劑」)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. College of Medicine — 1962 — M.D.
+- Tulane Univ. — Ph.D., Biochemistry and Molecular Biology
+
+## Employment
+- Oak Ridge National Laboratory — Researcher — Institute of Biomedical Sciences, Academia Sinica (IBMS) (中央研究院 生物醫學科學研究所(生醫所)) — Researcher — (1993-) — Safe Save Medical Cell Sciences & Technology Co., Ltd (世福細胞醫學科技股份有限公司) — Chairman and General Manager
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 許登美

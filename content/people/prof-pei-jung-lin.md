@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Prof. Pei-Jung Lin is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.S., Public Health
+- Harvard School of Public Health — M.S., Health Policy and Management
+- Univ. of North Carolina at Chapel Hill — Ph.D., Health Policy and Management
+
+## Employment
+- University of Maryland School of Pharmacy — Post-doctoral Fellow — (2008-2009) — Tufts Medical Center — Assistant Professor — (2010-2017) — Tufts Medical Center — Associate Professor — (2017-)
+<!-- tah-tables:end -->
 
 ## Family
 

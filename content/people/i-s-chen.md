@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 發明可續戴數月的隱形眼鏡 (Invented contact lenses that can be worn continuously for several months)
 
+<!-- tah-tables:start -->
+## Education
+- 維吉尼亞大學 — 1970 — M.S.材料系
+
+## Employment
+- Bauch and Lomb公司
+- 眼鏡研究與生產 — Present — President
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

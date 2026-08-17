@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** lawyer
 - **Source:** TAH Foundation Who’s Who
 
-Grace Yang (楊蕙安) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Yale University — 1994 — B.S.
+- Cornell Law — 1997 — J.D.
+
+## Employment
+- Gray Robinson Attorneys at Law — present — shareholder
+<!-- tah-tables:end -->
 
 ## Family
 

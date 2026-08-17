@@ -24,6 +24,17 @@ Employment
 2003
 Mechanical Engineer
 
+<!-- tah-tables:start -->
+## Education
+- 國立成功大學 — 1965 — Civil Engineering
+- Duke University — 1970 — Civil Engineering
+- Brown University — 1975 — Solid Mechanics Engineering
+
+## Employment
+- National Institute of Standards and Technology — 2003 — Mechanical Engineer
+- Nuclear Regulatory Commission — 2004~ — Structural Engineer
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

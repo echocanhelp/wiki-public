@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Cindy Huang (黃心怡) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 賓州州立大學 — B.S.
+
+## Employment
+- 美國陸軍 — -2012 — 上尉指揮官(Captain)
+- 聯邦環保署空氣與放射辦公室計畫 — 分析師
+<!-- tah-tables:end -->
 
 ## Family
 

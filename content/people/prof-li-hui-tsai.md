@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Professor of the Dept. of Brain and Cognitive Sciences; Director of the Picower Learning and Memory Center
 
+<!-- tah-tables:start -->
+## Education
+- National Chung Hsing Univ. (中興大學) — 1983 — D.V.M., Veterinary Medicine
+- Univ. of Wisconsin — M.S., Molecular Biology
+- UT Southwestern Medical Center — 1990 — Ph.D., Virology
+
+## Employment
+- Academia Sinica — Academician — National Chung Hsing University — Chair Professor — Massachusetts Institute of Technology — Professor of the Dept. of Brain and Cognitive Sciences; Director of the Picower Learning and Memory Center
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** artist, educator
 - **Source:** TAH Foundation Who’s Who
 
-%E9%99%B3%E9%87%91%E6%9D%Be (陳金松) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣師範大學 — B.S. 音樂
+- Peabody Conservatory — M.S. 聲樂
+
+## Employment
+- Peabody Prep — Teaching
+- Antioch College — Teaching
+- Baltimore College — Teaching
+- Catonsville College — Teaching
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Publication(Non-professional)
 1. Journey of Thousand Miles; An Extraordinary Life, 2017
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1956 — B.S., Chemistry — 1960 — M.S., Chemistry
+- Univ. of Ottawa — 1966 — Ph.D., Chemistry
+
+## Employment
+- Temple Univ. — Assistant Professor, Associate Professor — (1967-1986) — The Neostrata Company and TriStrata, Inc. — Co-founder — (1988-2016) — BioMark LLC Princeton — Founder — (2014-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Ho Chin Yu

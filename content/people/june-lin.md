@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-June Lin (林倢) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Chengchi Univ. (國立政治大學) — B.S., Information Management
+
+## Employment
+- Lee Teng-Hui Foundation — Research Associate — (2015-) — Office of Legislator Su Chi-Feng — Legislative Assistant — (2016-) — Formosa Association for Public Affairs (FAPA) — Policy Fellow — (2016-)
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-C. L. Hong (洪健棣牧師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 政治大學 — B.S.心理
+- Dres University, NJ — Ph.D.哲學
+
+## Employment
+- 台灣神學院 — Teaching
+- Atlanta Taiwanese Presbyterian Church — 2002- — 牧師
+<!-- tah-tables:end -->
 
 ## Family
 

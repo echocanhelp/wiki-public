@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Grace Liu is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 加州藝術學院 — M.S.音樂
+- 密蘇里大學堪薩斯分校 — Ph.D.長笛演奏
+
+## Employment
+- West Valley-Mission Community College Dis. — Teaching Flute
+- Fremont Education Foundation — Teaching Flute
+<!-- tah-tables:end -->
 
 ## Family
 

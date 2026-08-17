@@ -21,6 +21,18 @@ last_reviewed: 2026-08-17
 
 Dr. Tai Lin was born in Taipei, Taiwan and graduated from Taiwan National Tsing Hua University with BS degree in Physics in 1983. Then, he came to Washington University in St. Louis for graduate study in 1987 and received Doctor of Science Degree in Electrical Engineering in 1994 with a dissertation focus on the understanding of cochlear physiology. In 1996, He went on to Harvard/MIT after receiving the NIH fellowship in furthering his research in this area. He then joined his former dissertation advisor in applying such knowledge into innovative hearing aids designs and received both European and USA patents on this. He and his wife, Dr. Yuhling Lu, started a business, Ariel Premium Supply, Inc., in 1993 in Promotional Product Industry. This company has done well with his wife’s major support and guidance. Ariel has received numerous awards from the industry as well as a St. Louis top 50 company. His personal interests in music started at the age of 10 with private piano lesson. The passion for music came much more stronger in high school band playing flute. He began his exploration of vocal and choir music in Tsing Hua University. He was the choir conductor in Tsing Hua Universit
 
+<!-- tah-tables:start -->
+## Education
+- National Tsing Hua University — 1983 — B.S. Physics
+- Washington University in St. Louis — 1994 — Ph.D. Electrical Engineering
+
+## Employment
+- Tsing Hua University Choir — 1980-81 — Conductor
+- 台北金穗合唱團 — Conductor
+- 唯歌小集 — Conductor
+- St. Louis Taiwanese Youth Chamber Orchestra — Conductor
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Yuhling Lu

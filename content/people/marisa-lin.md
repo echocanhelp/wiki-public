@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Marisa Lin (陳麗雲) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 政治大學 — B.S.
+- Avila University — 2003 — MBA
+
+## Employment
+- Honeywell — 1997-2010 — 業務部
+<!-- tah-tables:end -->
 
 ## Family
 

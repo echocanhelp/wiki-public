@@ -19,7 +19,11 @@ last_reviewed: 2026-08-17
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
-Pearl Pi-Chu Yang Wu (楊碧珠) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Taipei Medical Univ. — B.S.
+<!-- tah-tables:end -->
 
 ## Family
 

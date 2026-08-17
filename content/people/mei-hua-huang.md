@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Mei-Hua Huang has recently received her Master’s Degree in Vocal Performance from the California State University, Los Angeles. She studied under Pollyanne Baxter, who helped Mei-Hua prepare for her Graduate Recital on May 5, 1995.
 
+<!-- tah-tables:start -->
+## Education
+- 加州州立大學洛杉磯分校 — 1995 — M.S.聲樂
+
+## Employment
+- Santa Monica Crossroads Community Foundation — 奧爾福(Orff)音樂主任(Music Coordinator)
+- New Roads Middle School — 合唱團指揮
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

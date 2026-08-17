@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Chinying (Rachel) Chang 張金鶯 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- 台大經濟研究所 — 1968 — 學士 — 台大經濟研究所 — 碩士
+
+## Employment
+- 台灣賦稅改革委員會 — Scan (Washington, DC) — 1980 — 會計部門
+- Alcoa (Pittsburg) — 1986 — Inventory Control System — Pershing (Jersey City) — 1992 — Computer Programmer
+- 美林證券公司 — 1997-2008
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Daughter:** Julie

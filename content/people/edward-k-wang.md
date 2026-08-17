@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Directed the first Home Networking Strategy in the Cable/ Broadband Industry
 
+<!-- tah-tables:start -->
+## Education
+- Northwestern Univ. — 1996-2000 — B.S., Electrical Engineering
+- Cornell Univ. — 2004-2006 — MBA
+
+## Employment
+- AT&T Broadband/Comcast — Senior Manager Product Management — (2000-2004) — Yahoo! Inc. — Senior Manager Product Management — (2005-2008) — Taikan Company Inc. — EVP — (2008-2017) — Taikan Company Inc. — President — (2018-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Father:** [[people/ching-ih-wang|王進益]]

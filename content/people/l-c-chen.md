@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-L. C. Chen (陳麗村) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S.動物
+- University of Alberta — Ph.D.胚胎
+
+## Employment
+- John Hopkins University — 1970-1980 — 助教
+- University of South Florida — 1980 — Professor
+<!-- tah-tables:end -->
 
 ## Family
 

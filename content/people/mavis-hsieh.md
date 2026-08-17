@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 Mavis Hsieh, soprano. Winner of several vocal competitions, Miss Hsieh also has many performing experiences in Taiwan, U.S.A. and Italy. She was heard as Rosalinde in Strauss’ Die Fledermaus. Other roles include Susanna in Mozart’s Le Nozze de Figaro and the First Witch in Dido and Aneas. Her vocal education includes Bachelor Degree from National Taiwan Normal University and Master Degree from Ball State University. She teaches voice at Ji-eun Lee Music Academy, is soprano section leader in the First Presbyterian Church choir, and interns at Muncie Symphony Orchestra as Education and Outreach Coordinator.
 
+<!-- tah-tables:start -->
+## Education
+- Taiwan Normal University — B.A. vocal
+- Ball State University — B.S. vocal
+
+## Employment
+- Ji-eun Lee Music Academy — Teach voice
+- First Presbyterian Church Choir — Soprano section leader
+- Muncie Symphony Orchestra
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

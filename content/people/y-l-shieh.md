@@ -19,7 +19,13 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Y. L. Shieh (沈郁良) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Employment
+- 聯合紀念醫院血液透析中心 — 主任
+- DaVita巴爾地摩城中血液透析中心 — 主任
+- 馬里蘭大學醫學院 — 副教授 — 4, 馬里蘭大學醫院腎臟移植醫學 — 主任
+<!-- tah-tables:end -->
 
 ## Family
 

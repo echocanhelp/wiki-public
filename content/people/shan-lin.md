@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Shan Lin (林上祺) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- University of California, Berkeley — 1989 — B.S. Neurobiology
+- ,Tufts University School of Medicine — 1994 — M.D. — year
+
+## Employment
+- UCSF School of Medicine — present — Associate professor
+- Ophthalmology, University of California, San Francisco — 1998 — Resident
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, physician
 - **Source:** TAH Foundation Who’s Who
 
-John Shiau is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- University of Michigan — 1986 — B.S.
+- University of Michigan — 1990 — M.D
+- Mount Sinai Medical Center — 1997 — Internship & Residency
+- Johannes Gutenberg University Hospital — 1997 — Fellowship
+
+## Employment
+- Minimally Invasive Spine Surgery Institute — 2013- — Founder
+<!-- tah-tables:end -->
 
 ## Family
 

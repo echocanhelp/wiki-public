@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 出生於台灣台北，五歲從父親陳昭良習小提琴，母親則幫忙伴奏，是如此的音樂氣氛伴著琦瑤長大。在台灣參加過多次小提琴比賽並獲獎無數。及長隨家人移居美國洛杉磯。1980年師從名教授Alice Schoenfeld門下習琴。不久獲獎學金到纽約茱麗葉音樂學校就讀，在名小提琴家Margaret Pardee的指導下獲音樂學士與碩士學位。
 
+<!-- tah-tables:start -->
+## Education
+- The Juilliard School — B.A. Music
+- The Juilliard School — B.S. Music
+
+## Employment
+- Long Beach Symphony Orchestra — Concert Master
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

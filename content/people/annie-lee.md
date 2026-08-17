@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Annie Lee (李大妮) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Northwestern University — 2004 — B.A. Psychology
+- Northwestern University — M.D. Medicine
+
+## Employment
+- UCLA — 2008-2012 — Resident Physician
+- Olive View UCLA Medical Center — 2012-present — Physician, Anesthesiologist
+<!-- tah-tables:end -->
 
 ## Family
 

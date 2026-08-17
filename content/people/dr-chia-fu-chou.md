@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Mark Diamond Research Fund Fellowship, State Univ. of New York, 1995-1996
 
+<!-- tah-tables:start -->
+## Education
+- Tsing Hua Univ. (清華大學) — 1986 — B.S., Physics
+- State Univ. of New York at Buffalo — 1996 — Ph.D., Physics
+
+## Employment
+- Center for Applied NanoBioscience at Biodesign Institute, Arizona State University — Associate Professor & Principal Investigator, Co-Founder — (2003-2005) — Harrington Department of Bioengineering, Arizona State University — Adjunct Faculty — (2005-) — Institute of Physics, Academia Sinica (中央研究院) — Research Fellow — (2006-) — Genomics Research Center, Academia Sinica (中央研究院) — Adjunct Research Fellow — (2007-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

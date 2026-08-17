@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Serena Chen is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Duke University — = — =
+
+## Employment
+- Reproductive Medicine at IRMS at Saint Barnabas — Present — Director
+- Johns Hopkins Bayview Medical Center — Residents
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician, professor, artist, educator
 - **Source:** TAH Foundation Who’s Who
 
-Ming-Yen Hsu (許明彥醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Kaohsiung Medical School — 1965 — M.D.
+
+## Employment
+- Emmanuel Hospital, Oregon — 1966 — Doctor
+- Georgetown Univ. and Veteran Hospital, Washington, DC — 1967 — Doctor
+- DC General Hospital — 1971 — Physician
+- Chicago Medical School — 1974 — Clinical Assistant Professor
+<!-- tah-tables:end -->
 
 ## Family
 

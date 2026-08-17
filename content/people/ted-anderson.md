@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
-Ted Anderson (泰德安德森) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Whittier College — B.S.
+- M.S.公共政策&管理
+
+## Employment
+- Downey 少年監獄 Lospadrinos — 副校長
+<!-- tah-tables:end -->
 
 ## Family
 

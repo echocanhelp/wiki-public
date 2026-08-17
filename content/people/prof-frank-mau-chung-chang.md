@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Prof. Frank Mau-Chung Chang 張懋中教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1972 — B.S.,Physics
+- National Tsing Hua Univ. — 1974 — M.S.,Materials
+- National Chiao Tung Univ. — 1979 — Ph.D.,Electronics
+
+## Employment
+- UCLA — Professor — UCLA — Chair of Department — National Chiao Tung University — Principal — (2015-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

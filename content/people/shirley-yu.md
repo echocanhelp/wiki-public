@@ -30,6 +30,18 @@ last_reviewed: 2026-08-17
 - [TAH #306 encyclopedia: 306. Shirley Yu 張欣珠/2015/02](https://taiwaneseamericanhistory.org/306-shirley-yu-%e5%bc%b5%e6%ac%a3%e7%8f%a0201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shirley-yu/)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1970 — B.A., Social Work
+- Wayne State Univ. — 1976 — MSW Social Work
+- USC — 1997 — MBA
+
+## Employment
+- Kindness-Care Home Health — 1996 — CEO
+- CareNet Medical — 2002 — CEO
+- CareNet Health System — 1997 — CEO
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** 游弘

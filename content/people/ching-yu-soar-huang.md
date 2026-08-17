@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Ching-Yu Soar Huang (黃菁瑜) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan University — B.S. Psycology
+- Forensic Psychology in University of York — M.S.
+- 英國劍橋大學 — year — Ph.D.心理學
+
+## Employment
+- California School of Professional Psychology, Alliant International University — 2015-present
+<!-- tah-tables:end -->
 
 ## Family
 

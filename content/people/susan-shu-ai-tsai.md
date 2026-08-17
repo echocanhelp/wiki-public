@@ -21,6 +21,11 @@ last_reviewed: 2026-08-17
 
 Pianist Susan Shu-Ai Tsai is the pianist of Good Shepherd Taiwanese Presbyterian Church, Merry Singers Women’s Chorus, Eunice Chou Vocal Studio, and a frequent piano accompanist of the chorale of the Taiwanese Presbyterian Conference.
 
+<!-- tah-tables:start -->
+## Employment
+- California Institute of Technology (Cal Tech) — Senior Research Associate, Molecular Biology — Good Shepherd Taiwanese Presbyterian Church — Pianist/Accompanist — Merry Singers Women's Chorus — Pianist/Accompanist — Eunice Chou Vocal Studio — Pianist — Taiwanese Presbyterian Conference Chorale — Piano Accompanist — Community — Music Teacher Association of California — Member — Good Shepherd Taiwanese Presbyterian Church - Faith, Hope, Love Chorale — Piano Accompanist — Merry Singer Society (美聲歌唱協會) - 采韻女聲合唱團 — Accompanist — 綠萍樂坊 — Accompanist
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. The Director of Evergreen Senior Class of Irvine Presbyterian Church/CA, A Well-Known Intellectual Activity for T.A. Senior in S. CA
 
+<!-- tah-tables:start -->
+## Education
+- National Chung Hsing Univ. — 1963 — B.S., Forest
+- Univ. of North Carolina — M.S., Forestry and Paper Science
+- NC State Univ. — 1975-1980 — Ph.D. Paper Science &Polymer Physics
+
+## Employment
+- National Chung Hsing Univ. — Professor — (1972-1975) — Monsanto Company — Nylon Fiber Manufacturing and R&D Engineering — Oriental Restaurant, Pensacola, Florida — Owner & Manager — (1980-2001) — Community — Evergreen Senior Class, Irvine Presbyterian Church, CA — Director — Irvine Taiwanese Presbyterian Church — Deacon — Lambert Ranch Asian American Association — Founder & First President — Asian Americans Advisory Committee to the Institute of Memory Impairments and Neurological Disorders at UC Irvine — Board Member
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 詹正玉

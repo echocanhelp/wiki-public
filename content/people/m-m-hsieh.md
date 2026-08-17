@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-M. M. Hsieh (謝玫玫) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台大醫學院 — M.D.
+
+## Employment
+- DC & Albany — 開業醫師
+- Washington DC Howard University — 駐院眼科醫師
+<!-- tah-tables:end -->
 
 ## Family
 

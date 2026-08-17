@@ -23,6 +23,16 @@ San Diego State University
 Professor of Electrical & Computer Engineering
 (1966-)
 
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1954 — B. S. 電機工程
+- University of Michigan — 1958 — M.S. 電機工程
+- University of Michigan — 1964 — Ph.D. 電子工程
+
+## Employment
+- San Diego State University — 1966- — Professor of Electrical & Computer Engineering
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 張明淑

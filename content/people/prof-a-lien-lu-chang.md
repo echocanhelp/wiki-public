@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Prof. A-Lien Lu-Chang 呂阿戀教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1971 — B.S, Botany
+- National Taiwan Univ. — 1973 — M.S, Botany
+- Univ. of North Carolina/ Chapel Hill — 1980 — Ph.D., Biochemistry
+
+## Employment
+- Duke University — Postdoctoral Fellow — (1980-1984) — Department of Biochemistry, University of Maryland, Baltimore — Professor — (1984-) — Community — Taiwanese Association of America (TAA), Baltimore Chapter — President (2010)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** 張道穎

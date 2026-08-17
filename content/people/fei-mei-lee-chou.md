@@ -21,6 +21,18 @@ last_reviewed: 2026-08-17
 
 1.法國里昂(Lyon)的2015世界高齡田徑錦標賽(2015 World Master Athletic Championship) 400公尺(100公尺X4)及1,600公尺(400公尺X4)接力賽，80~84歲年齡組，由美國隊奪得冠軍，更分別以1分21.06秒和8分39.82秒破世界紀錄。我代表美國的接力隊參加了這ニ項接力賽。早先在單項中，並以1分54.95秒獲得400米長跑第三名, 2015/08
 
+<!-- tah-tables:start -->
+## Education
+- 台湾師範大學 — 1953-1957 — B.S.物理
+- Cal. State Univ. Long Beach — 1973-1975 — M.S.物理
+- University of Santa Clara — 1978 -1984 — M.S.電腦
+
+## Employment
+- 台湾中學(several) — 1957-1966 — 物理老師
+- Genral Electric — 1976-1979 — Engineering Assistance
+- Lockheed Martin — 1979-2001 — Software Engineer
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** 周宗文

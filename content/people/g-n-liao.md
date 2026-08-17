@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-G. N. Liao (廖光男) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Chinese Culture Univ. (中國文化學院) — Dept. of Law(法律系)
+
+## Employment
+- Wakiki Motel, Orange County, CA — Owner — Community — Orange County Taiwanese Association — President (First)
+<!-- tah-tables:end -->
 
 ## Family
 

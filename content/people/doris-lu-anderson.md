@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
-Doris Lu-Anderson (呂佳霙博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 銘傳大學 — 1995 — B.S.
+- Louisiana Tech University — 1999 — M.S. Health & Physical Education
+- Florida State University — 2002 — Ph.D.運動管理學
+
+## Employment
+- 美國健康體育休閒舞蹈學院(AAHPERD)Physical Best — 體適能指導
+<!-- tah-tables:end -->
 
 ## Family
 

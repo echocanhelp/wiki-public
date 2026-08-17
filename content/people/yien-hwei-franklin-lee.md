@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Yien-hwei (Franklin) Lee 李彥輝 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — M.D.
+- Univ. of California, LA — Ph.D. Pharmacology
+
+## Employment
+- G.D. Searle — 1968 — Senior research investigator
+- Abbott Lab — 1972 — Section Head, Gastroenterology — 3. — 1976 — Internist/Hematologist/ — Oncologist
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

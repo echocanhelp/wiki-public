@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 Ms. Chen earned her Master degree in Choral Conducting and Church Music from Westminster Choir College (Princeton, New Jersey). While in at Westminster, she studied with Dr. J. Flummerfelt. She is currently the choir director of Chime-In Chorus in Central Jersey, which is dedicated to the singing of Taiwanese folk songs. She also serves as the organist and choir director of First Reformed Church in New Brunswick, New Jersey.
 
+<!-- tah-tables:start -->
+## Education
+- 東海大學 — B.A. 音樂系鋼琴
+- 紐澤西普林斯頓西敏寺合唱學院 — B.S. 合唱指揮及教會音樂 — 3.
+
+## Employment
+- 拾音合唱團 — 1989-present — 指揮
+- 紐澤西South Plainfield衛理公會聖歌隊 — 指揮及管風琴師
+- 台美團契長老教會 — 手風琴師及手鐘團指揮
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

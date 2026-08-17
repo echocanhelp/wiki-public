@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 Shiu-Sian Angel Hsu Wang 許秀香 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Chengchi University — 1981 — B.A., 阿拉伯語文學系
+- The University of Utah — 1983 — M.A., Linguistics
+- The University of Utah — 1986 — M.A., Middle East Studies- Arabic Language and Literature
+- The University of Utah — 1994 — Ph.D., Middle East Studies-Arabic Language and Literature
+
+## Employment
+- Santa Ana Unified School District, California — 1998 — Teacher — Granite School District, Utah — 1994 — Teacher
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** 王健椎

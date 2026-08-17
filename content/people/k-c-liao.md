@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, artist
 - **Source:** TAH Foundation Who’s Who
 
-K. C. Liao (廖國仲) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 文化大學
+
+## Employment
+- Wellmore — 董事長
+<!-- tah-tables:end -->
 
 ## Family
 

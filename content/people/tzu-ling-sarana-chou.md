@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Tzu-Ling Sarana Chou (周子鈴) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- The Juilliard School — 2002 — B.S. Composer
+- University of Chicago — M.S. Music
+- Eastman School of Music — 2009 — Ph.D. Musical Art
+
+## Employment
+- 拉巴馬州伯明罕市Samford 大學 — Present — 專任助理教授
+<!-- tah-tables:end -->
 
 ## Family
 

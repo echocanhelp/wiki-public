@@ -21,6 +21,18 @@ last_reviewed: 2026-08-17
 
 出生於台北，黃鴻偉以獨奏家及室內樂演奏家的身份活躍於世界著名舞台。2002年，年僅23歲的他，已成為香港管弦樂團最年輕的中提琴首席。2005年，指揮大師鄭明勳指定由他擔任首爾(漢城)愛樂中提琴首席。
 
+<!-- tah-tables:start -->
+## Education
+- Mannes 音樂院 — B.S.
+- Mannes 音樂院 — M.S.
+
+## Employment
+- 韓國首爾交響樂團 — 中提琴首席
+- 倫敦愛樂交響樂團 — 客席中提琴首席
+- 香港管弦樂團 — 中提琴首席
+- The Curtis Symphony Orchestral — 中提琴首席
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. One of the Organizers and Members of Tandem Team Sea to See, the First Team With Blind/Visually Impaired Stokers to Complete Bicycle Race Across America 2018
 
+<!-- tah-tables:start -->
+## Education
+- Harvard Univ. — 1997 — A.B. Computer Science
+- Univ. of California, Berkeley — 2000 — M.S. Computer Science
+- Fordham Univ. School of Law — 2005 — J.D.
+
+## Employment
+- Google Inc. — Product Counsel — (2010-) — Community — Academy for Certification of Vision Rehabilitation & Education Professionals (ACVREP) — Board Chair — Lime Connect — Board Member — Aira Inc. — Board Member — Tandem Team Sea to See — Organizer and Member
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

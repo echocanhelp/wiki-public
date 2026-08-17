@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Julius Shu 05 (許清煌) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.A. 電機系
+- 紐約州立大學 — M.S.
+- 紐約州立大學 — 1972 — Ph.D. 電機工程
+
+## Employment
+- 台灣國家太空中心
+- Hughes Aircraft
+- 波音公司衛星研發中心 — 通訊衛生研製顧問
+<!-- tah-tables:end -->
 
 ## Family
 

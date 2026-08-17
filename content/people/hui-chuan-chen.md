@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Pianist Hui-Chuan Chen 陳慧娟 was born in Kaohsiung, Taiwan and began piano lessons at age six. While in school, she was the winner of the Wonderlic piano competition in Baltimore, placed second place in the Kaohsiung City Competition, third prize in the University Piano Competition and fourth in the Kawai Competition. She was also engaged as rehearsal pianist for Taiwan’s National Symphony Orchestra for two years. Upon graduation, she moved to Baltimore to pursue graduate studies at the Peabody Institute.
 
+<!-- tah-tables:start -->
+## Education
+- Peabody Institute
+- Peabody Institute
+
+## Employment
+- Taiwan National Symphony Orchestra — Rehearsal Pianist — Peabody Institute — Accompanying Coordinator
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

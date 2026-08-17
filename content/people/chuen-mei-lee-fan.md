@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Chuen-Mei Lee Fan (范李春美教授) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1961 — B.S. 經濟系
+- University of Minnesota — 1964 — M.S. 經濟系
+- University of Minnesota — 1967 — Ph.D.經濟系
+
+## Employment
+- Colorado State University — 1978-2010 — Professor
+<!-- tah-tables:end -->
 
 ## Family
 

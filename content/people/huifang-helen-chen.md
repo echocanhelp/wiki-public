@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Huifang Chen, a native of Taiwan, earned her Bachelor of Music Degree from the Curtis Institute of Music and her Master of Music Degree from the University of Miami. She was a member of the Florida Philharmonic Orchestra from 1994 until its demise in 2003.
 
+<!-- tah-tables:start -->
+## Education
+- Curtis Institute of Music — Bachelor of Music — University of Miami — Master of Music
+
+## Employment
+- Florida Philharmonic Orchestra — Member — (1994-2003) — Florida Youth Orchestra — Associate Conductor — University of Miami — Faculty — Young Musicians' Camp, University of Miami — Faculty
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Ranked among top 150 in the ATP rankings and won two ATP Challenger events
 
+<!-- tah-tables:start -->
+## Education
+- Univ. of Michigan — 2011 — B.A., Political Science
+- National Changhua Univ. of Education (國立彰化師範大學) — M.S., Sports Science
+
+## Employment
+- ATP Tour — Tennis Professional — (2012-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Father:** 莊憲峰

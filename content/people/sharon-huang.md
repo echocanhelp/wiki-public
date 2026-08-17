@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-07-16
+last_reviewed: 2026-08-17
 ---
 # Sharon Huang (黃馨瑤)
 
@@ -25,6 +25,14 @@ last_reviewed: 2026-07-16
 - **Content priority A:** Name and role on https://www.taiwancenter.org/board (archived `taiwancenter-org-board.md`)
 - **Hub:** [[sources/taiwancenter-org|taiwancenter.org]]
 - **Content priority C:** Full biography not in this source set
+
+<!-- tah-tables:start -->
+## Education
+- Major in Illustration
+
+## Employment
+- Art Studio / Private Teaching — Art Instructor — (2011-2014)
+<!-- tah-tables:end -->
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sharon-huang/)

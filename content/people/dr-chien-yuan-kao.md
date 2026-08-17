@@ -22,6 +22,11 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Outstanding Service Award Recipients by Taiwanese Youth Arts Foundation, 1996-1997
 
+<!-- tah-tables:start -->
+## Education
+- Michigan State Univ. — M.S. — Ph.D., Genetics
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** [[people/ching-fen-lin-2|林青棻]]

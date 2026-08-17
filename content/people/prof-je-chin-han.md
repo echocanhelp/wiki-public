@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 4. ASME IGTI Certificate Award for Valued Service as Chair of the Heat Transfer Committee, 2004-2006
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.S., Mechanical Eng.
+- Lehigh Univ. — 1973 — M.S., Mechanical Eng.
+- M.I.T. — 1976 — Ph.D., Mechanical Eng.
+
+## Employment
+- Ex-Cell-O Corporation — Senior Research Engineer — (1976-1980) — Texas A&M Univ. — Professor — (1980-) — Community — North America Taiwanese Professors' Association (北美洲台灣人教授協會) — President
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

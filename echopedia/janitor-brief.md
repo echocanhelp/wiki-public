@@ -1,27 +1,27 @@
 ## Echopedia Janitor — 2026-08-17
 - Standards v8
-- Pages with findings: **29287**
+- Pages with findings: **29293**
 - Queued tonight (max 20): **20**
 - Queue:
-  - `people/chen-meihui.md` age≈40.5d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
-  - `organizations/ntpc.md` age≈40.5d · LINK_UNLINKED_ENTITY
-  - `people/guo-yingyan.md` age≈40.5d · LINK_UNLINKED_ENTITY
-  - `people/ho-chie-tsai.md` age≈29.5d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
-  - `people/john-chiang.md` age≈29.5d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
-  - `people/shawna-yang-ryan.md` age≈29.5d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
-  - `people/peng-ming-min.md` age≈25.5d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
-  - `people/li-furen.md` age≈35.5d · LINK_UNLINKED_ENTITY
-  - `people/alexander-macdonald.md` age≈34.5d · LINK_UNLINKED_ENTITY
-  - `people/mingyuan-hsu.md` age≈34.5d · LINK_UNLINKED_ENTITY
-  - `organizations/national-taiwanese-presbyterian-council.md` age≈33.5d · LINK_UNLINKED_ENTITY
-  - `organizations/irvine-taiwanese-presbyterian-church.md` age≈33.5d · LINK_UNLINKED_ENTITY
-  - `organizations/formosan-presbyterian-church-in-los-angeles.md` age≈33.5d · LINK_UNLINKED_ENTITY
-  - `sources/toward-a-community-of-hope.md` age≈33.5d · LINK_UNLINKED_ENTITY
-  - `people/jonah-chang.md` age≈33.5d · LINK_UNLINKED_ENTITY
-  - `people/pingtung-lai.md` age≈33.5d · LINK_UNLINKED_ENTITY
-  - `organizations/global-alliance-for-democracy-and-peace-la.md` age≈32.5d · LINK_UNLINKED_ENTITY
-  - `sources/irvine-taiwanese-presbyterian-church.md` age≈32.5d · LINK_BODY_SPARSE
-  - `organizations/taiwanese-american-foundation-of-san-diego.md` age≈32.5d · LINK_UNLINKED_ENTITY
-  - `sources/2017-tahs-publication.md` age≈31.5d · LINK_UNLINKED_ENTITY
+  - `people/chen-meihui.md` age≈40.6d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
+  - `organizations/ntpc.md` age≈40.6d · LINK_UNLINKED_ENTITY
+  - `people/guo-yingyan.md` age≈40.6d · LINK_UNLINKED_ENTITY
+  - `people/ho-chie-tsai.md` age≈29.6d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
+  - `people/li-furen.md` age≈35.6d · LINK_UNLINKED_ENTITY
+  - `people/alexander-macdonald.md` age≈34.6d · LINK_UNLINKED_ENTITY
+  - `people/mingyuan-hsu.md` age≈34.6d · LINK_UNLINKED_ENTITY
+  - `organizations/national-taiwanese-presbyterian-council.md` age≈33.6d · LINK_UNLINKED_ENTITY
+  - `organizations/irvine-taiwanese-presbyterian-church.md` age≈33.6d · LINK_UNLINKED_ENTITY
+  - `organizations/formosan-presbyterian-church-in-los-angeles.md` age≈33.6d · LINK_UNLINKED_ENTITY
+  - `sources/toward-a-community-of-hope.md` age≈33.6d · LINK_UNLINKED_ENTITY
+  - `people/pingtung-lai.md` age≈33.6d · LINK_UNLINKED_ENTITY
+  - `organizations/global-alliance-for-democracy-and-peace-la.md` age≈32.6d · LINK_UNLINKED_ENTITY
+  - `sources/irvine-taiwanese-presbyterian-church.md` age≈32.6d · LINK_BODY_SPARSE
+  - `organizations/taiwanese-american-foundation-of-san-diego.md` age≈32.6d · LINK_UNLINKED_ENTITY
+  - `sources/2017-tahs-publication.md` age≈31.6d · LINK_UNLINKED_ENTITY
+  - `people/lien-hwa-chow.md` age≈31.6d · LINK_UNLINKED_ENTITY
+  - `articles/taiwanjustice-net/2026/20260209113414_美媒_華府估基輔4天內淪陷_烏克蘭領導層約一週_cfe313c815fedaa9.md` age≈20.3d · NO_RELATED_PAGES, NO_LAST_REVIEWED
+  - `articles/taiwanjustice-net/2026/20260115093430_最高法院允許川普政府執行嚴格的綠卡審議政策_18e34aef2ee7cc6d.md` age≈20.3d · NO_RELATED_PAGES, NO_LAST_REVIEWED
+  - `articles/taiwanjustice-net/2026/20260121005456_史達偉_美台經濟對話為三公報及台灣關係法允許_c09409335151d4ee.md` age≈20.3d · NO_RELATED_PAGES, NO_LAST_REVIEWED
 - Log: `knowledge/operational/janitor-log/2026-08-17.jsonl`
 - Agent auto-apply: **False** (local pin only if enabled)

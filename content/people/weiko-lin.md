@@ -19,7 +19,19 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Weiko Lin (林偉克) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- UCLA — B.A., English
+- UCLA — M.F.A., Film and TV - Screenwriting
+
+## Employment
+- UC Riverside — Professor
+- NORTHWESTERN Univ. — Professor
+- MADHOUSE ENTERTAINMENT
+- THE UNISON COMPANY — 2012 — Promoter
+- United Talent Agency — 2012 — Promoter
+<!-- tah-tables:end -->
 
 ## Family
 

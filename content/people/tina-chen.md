@@ -21,6 +21,11 @@ last_reviewed: 2026-08-17
 
 1. Outstanding Service Award Recipients by Taiwanese Youth Arts Foundation,1994-1995
 
+<!-- tah-tables:start -->
+## Employment
+- 華府台灣信用合作社 — 理事長
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

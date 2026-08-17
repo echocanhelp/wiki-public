@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Mike Lin (林健華博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 交通大學 — B.S.工程
+- Case Western Reserve University — 1975 — Ph.D.工業工程
+
+## Employment
+- Sohio石油公司 — 研究員
+<!-- tah-tables:end -->
 
 ## Family
 

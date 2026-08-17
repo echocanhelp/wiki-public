@@ -21,6 +21,19 @@ last_reviewed: 2026-08-17
 
 Shih-Yin Chen 陳詩音, conductor, received both bachelor’s and master’s degrees in choral conducting at Mannes College The New School for Music. She was a recipient of scholarships and studied with Dr. Mark Shapiro. She was an active member of and had occasionally served as a conductor in the rewarded vocal group Cantori of New York. After receiving her master’s degree, she chose to return to her native Taiwan. She was aspired to become part of local efforts in establishing choral groups of world-class caliber in Taiwan. Besides conducting the Taiwan Chorus, she teaches music at Hwa Kang High School, conducts the Dai Chi Junior High School’s chorus and serves as the Conducting Professor of Dao Shen Sacred Music College, as well the Music Director of Wesly Methodist Church.
 
+<!-- tah-tables:start -->
+## Education
+- Mannes College — 2005 — B.S.指揮
+- Mannes College — 2007 — M.S.指揮
+
+## Employment
+- Hwa Kang High School — Teaching
+- Dai Chi Junior High School‘s chorus — Conductor
+- Wesly Methodist Church — Music Director
+- 紐約立人學院 — 2005-2006 — 兒童合唱團指揮
+- 紐約高低音無伴奏室內合唱團(Treble & Bass Vocal Ensemble) — 2003-2006 — 音樂總監
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -19,7 +19,12 @@ last_reviewed: 2026-08-17
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
-Anne Ku is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Juilliard School — Year??? — B.S. Music
+- Juilliard School — Year??? — M.S. Music
+<!-- tah-tables:end -->
 
 ## Family
 

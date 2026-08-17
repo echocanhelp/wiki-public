@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Ying-Hsuan Sun (孫英玄) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 國立臺灣大學 — B.S. 森林
+- North Carolina State University — M.S. Forestry and Environmental Resources
+- North Carolina State University — Ph.D. M.S. Forestry and Environmental Resources
+
+## Employment
+- 國立中興大學 — present — 教授
+- Bioinformatics Group Inc. Cary, North Carolina, USA, — Research Scientist
+- Forest Biotechnology Group, North Carolina State University, — Research Associate
+<!-- tah-tables:end -->
 
 ## Family
 

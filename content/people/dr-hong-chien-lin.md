@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Hong-Chien Lin (林洪謙醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台北市成功高中 — 1952 — 台灣大學醫學院 — 1960 — M.D. 醫科
+
+## Employment
+- 台大醫院 — 1961-1963 — 婦產科醫師
+- 紐約市市立醫院 — 1963-1969
+- Private Practice in obstetrics and gynecology — 1970-1999
+<!-- tah-tables:end -->
 
 ## Family
 

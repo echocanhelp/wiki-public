@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Violist Danny Sheu, a native of San Jose, was born and raised in a musical family, and began his musical studies on the violin at the age of five before switching to viola at eleven. His musical endeavors have taken him through concert halls across the United States such as Royce Hall and Walt Disney Concert Hall as well as on tours and festivals through Europe and Asia.
 
+<!-- tah-tables:start -->
+## Education
+- UCLA — B.A. Music
+- Manhattan School of Music — ? Music
+
+## Employment
+- Private studio — Teaching violin
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

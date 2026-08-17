@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Lynn Huang is an active musician in the Taiwanese American communities in southern California. Stems from her multicultural background, her composition blended elements of classical and jazz and were drawn from rich traditional Taiwanese folk songs. She has arranged many pop music and religious songs for popular Taiwanese star singer Ms. Christine Hsu. Many such songs were also collected in her album “Green Pastures”. Lynn’s music has been publicly performed frequently in Taiwan, German and U. S. A.
 
+<!-- tah-tables:start -->
+## Employment
+- 以立音樂基金會 — Present — 音樂總監
+- Rhapsody Trio — Present — Composer and pianist
+- Elite Music Foundation — Present — Music director
+- 洛杉磯天普市恩惠台灣基督長老教會 — 音樂指揮
+- 洛杉磯台灣會館 — 鋼琴伴奏
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

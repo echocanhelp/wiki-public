@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Raised in Germany, Chen’s early studies fostered strong roots in Germanic Classicism tempered with the sensibility of Chinese philosophy. The winner of the Ferruccio Busoni International Piano Competition and Young Concert Artists International Auditions and the recipient of an Avery Fisher Grant, Chen has collaborated with conductors such as Christoph Eschenbach and Hans Graf, and his colleagues including the Tokyo and Shanghai string quartets, cellist Yo-Yo Ma, violinists Cho-Liang Lin and Roman Totenberg, clarinetist David Shifrin, and pianist Tema Blackstone. An adjudicator in international competitions, including the Van Cliburn, Busoni, Honens, and International China Competition, Chen is a former faculty member of Boston University, the New England Conservatory, and the Shanghai Conservatory, and has been a visiting professor at Yale since 2010.
 
+<!-- tah-tables:start -->
+## Education
+- New England Conservatory — 1988 — B.S. Art
+
+## Employment
+- 波士頓大學 — 1984-1999 — Teaching
+- 新英格蘭音樂學院附中 — 1993-1999 — Teaching
+- 茱莉亞音樂學院钢琴教授 — 2014-Present — 鋼琴教授
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

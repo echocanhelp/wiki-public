@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 5. Director of Medical Student Radiology Education, College of Medicine, Univ. of Cincinnati
 
+<!-- tah-tables:start -->
+## Education
+- Univ. of New South Wales — B.S., Medicine
+- Univ. of Sydney — M.S., Public health
+
+## Employment
+- Univ. of Cincinnati Medical Center — Staff Radiologist — Univ. of Cincinnati Medical Center — Assistant Professor — Medical Student Radiology Education, Univ. of Cincinnati Medical Center — Director — Cincinnati Children's Hospital Medical Center — Staff Pediatric Radiologist/Neuroradiologist — Community — TAA/Cincinnati Chapter (辛辛那提台灣同鄉會) — President — NATWA/Ohio-Kentucky Chapter (北美台灣婦女會) — President — FAPA/Ohio Chapter (台灣人公共事務協會) — President
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

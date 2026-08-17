@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** artist
 - **Source:** TAH Foundation Who’s Who
 
-Ming Jer Kuo (郭明哲) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- School of Visual Arts — 2014 — MFA
+
+## Employment
+- New York — Artist
+<!-- tah-tables:end -->
 
 ## Family
 

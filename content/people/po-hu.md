@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Po Hu (胡博文教授) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 東海大學 — 1975 — B.S., 工業工程
+- Texas A&M Univ. — 1980 — M.S. & Ph.D., Industrial Eng.
+
+## Employment
+- Univ. of Houston — 1979 — Professor
+- Univ. of Texas at El Paso — 1980 — Professor
+- Axxion Group — 1988 — President
+<!-- tah-tables:end -->
 
 ## Family
 

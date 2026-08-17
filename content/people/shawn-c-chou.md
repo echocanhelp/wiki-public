@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, lawyer
 - **Source:** TAH Foundation Who’s Who
 
-Shawn C. Chou (周正烜) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 加大柏克萊分校 — B.S.經濟學
+- Loyola Law School — M.S. 法學
+
+## Employment
+- 聯邦法律援助所
+- 周正烜律師事務所 — 2004-Present — President
+<!-- tah-tables:end -->
 
 ## Family
 

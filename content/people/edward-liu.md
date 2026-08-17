@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Edward Liu (劉俊宏) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 中原理工學院 — 1963 — BS Chemical Engineering
+- University Missouri — 71 — MS Chemical Engineering
+
+## Employment
+- BASF — 1971 — Engineer
+<!-- tah-tables:end -->
 
 ## Family
 

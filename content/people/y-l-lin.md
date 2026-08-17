@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Y. L. Lin (林玉郎) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 國立交通大學 — B.S.
+
+## Employment
+- 北卡農工州立大學 — 教授
+- 美國國家海洋與氣象管理總署 — 資身傑出科學家
+<!-- tah-tables:end -->
 
 ## Family
 

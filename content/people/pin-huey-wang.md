@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 Pianist Pin-Huey Wang received her Doctor of Musical Arts degree in the collaborative piano program at University of Maryland, College Park, in 2008. Ms. Wang is an active collaborative pianist with a wide range of vocal and chamber repertoire. She was the pianist for Kaohsiung Opera Workshop, for Maryland Opera Studio from 2000 to 2003, and for University of Maryland Chorus and Chamber Singers from 2003 to 2005. Among her recent performances were a concert with soprano Carmen Balthrop at the National Concert Hall in Taipei, Taiwan; a concert with baritone Yi-Cherng Lin at Taiwanese Culture Center in San Diego; a concert with Finish soprano Riikka Hakola at the Embassy of Finland in Washington, D.C.; and a concert with Washington Sängerbund at the Embassy of Austria, also in Washington, D.C. In addition to performing, Dr. Wang is an active and experienced piano teacher. She has held a private piano studio since 1993. She is currently an adjunct piano faculty member at Montgomery College, Maryland. She is a member of American College of Musicians and the Music Teachers National Association.
 
+<!-- tah-tables:start -->
+## Education
+- 台灣國立中山大學 — 1994 — B.S. 音樂系
+- 馬里蘭大學 — 2000 — M.S.鋼琴伴奏
+- 馬里蘭大學 — Ph.D. Music Arts
+
+## Employment
+- 馬里蘭州Montgomery社區大學 — Present — Teaching
+- 馬里蘭歌劇工作坊 — 1998-2003 — 專任伴奏
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

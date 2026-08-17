@@ -166,11 +166,7 @@ Pages that link to **yang-xin** (yang-xin):
 2. [[people/liao-shu-zong.md|liao-shu-zong]]
 3. [[people/shawna-yang-ryan.md|shawna-yang-ryan]]
 
-### Sources
-- [TAH #869 encyclopedia: 869. 楊信：甘苦都忘了 做人比做生意重要 | 02/2023](https://taiwaneseamericanhistory.org/my-stories-869/)
-- [TAH #269 encyclopedia: 269. Jackson Yang 楊信](https://taiwaneseamericanhistory.org/ota-269/)
-- [TAH #203 encyclopedia: 203. Jackson Yang 楊信](https://taiwaneseamericanhistory.org/whos-who-203-jackson-yang/)
-- [TAH #175 encyclopedia: 175. 楊信 白手起家的故事 / 朱乙真 / 2015/01](https://taiwaneseamericanhistory.org/mystories175/) (1)
+### Sources (1)
 
 1. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
 

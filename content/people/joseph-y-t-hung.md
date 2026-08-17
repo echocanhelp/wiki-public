@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Garnering the Outstanding Professor Award at Cal Poly Pomona,1991
 
+<!-- tah-tables:start -->
+## Education
+- Michigan State University — M.S.Agricultural Engineering
+- Michigan State University — Ph.D. Agricultural Engineering
+
+## Employment
+- Caly Poly Pomona — 1969-1997 — Professor
+- Modern Irrigation — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Jean Yueh-Chin

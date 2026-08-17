@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-C. Y. Chang (張謙益) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S.電機
+- Rice University, Houston, Texas — 1964 — M.S.電機
+- University of California, Los Angeles — Ph.D.
+
+## Employment
+- IBM
+<!-- tah-tables:end -->
 
 ## Family
 

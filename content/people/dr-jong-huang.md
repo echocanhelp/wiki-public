@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of Southern California Alumni Association of Tainan First Senior High School and Tainan Girls’ Senior High School (台南一中台南女中南加州校友會會長) 2004-2005
 
+<!-- tah-tables:start -->
+## Education
+- Taipei Medical Univ. — M.D.
+- Univ. of Medicine & Dentistry of NJ — Resident Training
+- Rancho Los Amigos Medical Center — Infection Specialist Training
+
+## Employment
+- San Gabriel Valley Medical Center — Doctor of Infectious Disease — Community — Southern California Alumni Association of Tainan First Senior High School and Tainan Girls' Senior High School (台南一中台南女中南加州校友會) — President
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

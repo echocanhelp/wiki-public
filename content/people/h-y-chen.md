@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, scientist
 - **Source:** TAH Foundation Who’s Who
 
-H. Y. Chen (陳弘毅) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S.化學
+- University of Kansas — Ph.D.化學
+
+## Employment
+- Du Pont
+- 費城室內高爾夫球場 — owner
+<!-- tah-tables:end -->
 
 ## Family
 

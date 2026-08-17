@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Dr. Tina Shao is a member of the Pi Kappa Lambda National Honor Society and the American Music Teachers National Association. Dr. Shao is appointed as an Associate Professor of Music at the Tainan University of Technology where she teaches piano performances, literatures, and history of Taiwanese music. A native of Taiwan, Dr. Shao holds a Bachelor and Master of Music in performance from the Peabody Conservatory of Music of the Johns Hopkins University, as well as a Doctor of Musical Arts from the Louisiana State University, U.S.A.
 
+<!-- tah-tables:start -->
+## Education
+- Peabody Conservatory of Music of the Johns Hopkins University — B.S.
+- Peabody Conservatory of Music of the Johns Hopkins University — M.S.
+- Louisiana State University — Ph.D.
+
+## Employment
+- Tainan University of Technol-ogy
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

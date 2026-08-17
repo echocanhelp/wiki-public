@@ -22,6 +22,13 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. TANG Executive Director, Overseas Taiwanese for Democracy (OTD), 2017
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.S. Science
+- National Yang Ming Univ. — M.A., Philosophy of Mind and Cognition
+- Rutgers Univ. — Ph.D., Philosophy
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

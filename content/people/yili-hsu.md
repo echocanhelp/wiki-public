@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Yili Hsu, a native of Taiwan, is a free-lance flutist around the Dallas metro area. Ms. Hsu maintains a teaching studio in Plano; many of her students won competitions and recognition awards from local music festivals.
 
+<!-- tah-tables:start -->
+## Education
+- 東海大學 — B.S.
+- University of Nebraska-Lincoln — M.S.
+
+## Employment
+- Self-employed — Free-lance Flutist — Teaching Studio, Plano, TX — Flute Instructor — Community — 達拉斯台灣婦女會 (Dallas Taiwanese Women's Association) — Member/Featured Musician
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** 葉景安

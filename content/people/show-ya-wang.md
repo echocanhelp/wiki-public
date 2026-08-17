@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Show-Ya Wang (邱綉雅) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Tamkang Univ. (淡江大學) — 1976 — B.A., Western Languages
+
+## Employment
+- Hanson Foods Mfg., Co — Owner — Community — NATWA St. Louis Chapter (北美洲台灣婦女會聖路易分會) — President
+<!-- tah-tables:end -->
 
 ## Family
 

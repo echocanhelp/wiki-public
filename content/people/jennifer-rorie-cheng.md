@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Jennifer Rorie Cheng is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Univ. of Michigan — 2004
+
+## Employment
+- Massachusetts General — Nurse Practitioner Specialist
+<!-- tah-tables:end -->
 
 ## Family
 

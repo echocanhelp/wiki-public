@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Harold M. Otness (歐獻文) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Portland State College — 1960 — BS
+- University of Portland. — 1966 — MLS
+
+## Employment
+- Southern Oregon University — 1966-1999 — Professor of Library Science
+<!-- tah-tables:end -->
 
 ## Family
 

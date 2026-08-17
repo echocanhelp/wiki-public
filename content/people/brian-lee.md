@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Chief Financial Officer of American Institute of Certified Public Accountants (AICPA) (紐約州註冊會計師協會皇后區財務長)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.A., Business management
+- Binghamton Univ. — M.A., Accounting
+
+## Employment
+- Brian Lee, CPA — President — (1982-) — Israeloff, Chan & Lee, LLP — Managing Partner — (1996-) — Chen & Lee, CPAs, LLP — Managing Partner — (2005-2007) — Wei Wei Corp. & LLC — Managing Partner — (2008-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

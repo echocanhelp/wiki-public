@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Ching-Chong Huang (黃慶鍾醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1977 — M.D. Medicine
+- University of Chicago — Residency
+
+## Employment
+- Saint Joseph Medical Center
+<!-- tah-tables:end -->
 
 ## Family
 

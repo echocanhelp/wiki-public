@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Dr. Vincent Wah-Sang Yeung 楊華生醫師 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. College of Medicine — 1978 — M.D.
+
+## Employment
+- Columbia Presbyterian Medical Center — Residency — Flushing Radiation Oncology Services — Radiation Oncologist — Manhattan Radiation Oncology — Radiation Oncologist
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

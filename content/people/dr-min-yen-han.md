@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Member of Tzu Chi International Medical Association, TIMA (國際慈濟人醫會成員)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. College of Medicine — 1969 — M.D.
+
+## Employment
+- French Polyclinic Hospital — Residency — Vernon, NJ — Internist — Community — Tzu Chi International Medical Association (TIMA) 國際慈濟人醫會 — Member
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

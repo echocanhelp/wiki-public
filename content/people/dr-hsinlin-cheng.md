@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Harvard Medical School - Massachusetts General Hospital
 Assistant Professor of Neurology
 
+<!-- tah-tables:start -->
+## Education
+- Taipei Medical Univ. — 1991 — M.D.
+- Univ. of Michigan — Ph.D. M.D.
+
+## Employment
+- Massachusetts General Hospital — Director of H and N Pain Unit, Dept. Neurology — Harvard Medical School - Massachusetts General Hospital — Assistant Professor of Neurology
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Jennifer Rosie Cheng

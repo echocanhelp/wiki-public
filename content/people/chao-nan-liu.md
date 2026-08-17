@@ -19,7 +19,11 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Chao-Nan Liu (劉照男) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Employment
+- The College of New Jersey — Professor
+<!-- tah-tables:end -->
 
 ## Family
 

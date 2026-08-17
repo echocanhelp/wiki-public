@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Irene Lee, is a composer, soprano, performer, and voice teacher. She attended Marines College of Music in New York City and went to graduate school at the Manhattan School of Music in New York City. Her previous voice teachers include Antonio Lavanne from Mannes College, Rose Bampton from the Juilliard School of Music, and Betty Allen and Linda Owen from the Manhattan School of Music.
 
+<!-- tah-tables:start -->
+## Education
+- Marines College — B.S.Music
+- Manhattan School — M.S.
+
+## Employment
+- New Jersey Youth Symphony — Soloist — RCCC Orchestra — Soloist — Kao-Hsiung Orchestra — Guest Soloist — (2008-2008)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -19,7 +19,12 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-%E5%Bc%B5%E8%82%85 (張肅) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 東海大學 — B.S.
+- Kansas State Univ. — M.S. 統計學
+<!-- tah-tables:end -->
 
 ## Family
 

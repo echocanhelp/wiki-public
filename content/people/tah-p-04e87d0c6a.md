@@ -19,7 +19,11 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-%E9%83%Ad%E9%9B%A8%E6%96%B0 (郭雨新) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 臺北帝國大學 — B.S. 農林專門部
+<!-- tah-tables:end -->
 
 ## Family
 

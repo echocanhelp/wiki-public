@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 2. President of New York Chapter of the North American Taiwanese Women’s Association
 
+<!-- tah-tables:start -->
+## Education
+- Taipei Medical Univ. (臺北醫學大學) — B.S., Pharmacy
+- Columbia Univ. — M.S., Pharmacy
+
+## Employment
+- New York University — Researcher — St. Luke's Hospital — Researcher — Columbia University — Researcher — OBGYN Clinic — Office Manager — Community — Taiwanese American Association on Long Island — President — North American Taiwanese Women's Association, New York Chapter — President
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

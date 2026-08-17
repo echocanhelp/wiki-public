@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 1. Dept. of Molecular Biology and Immunology, Health Science Research Center, Univ. of North Texas
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1963 — B.S., Agriculture Chemistry
+- Univ. of Wisconsin — 1970 — Ph.D., Biochemistry
+
+## Employment
+- Dept. of Molecular Biology and Immunology, Health Science Research Center, Univ. of North Texas — Professor — (1982-) — Dept. of Internal Medicine, Univ. of Miami — Professor — Community — Formosan Association for Public Affairs (FAPA) — President (2001-2003) — Formosan Association for Public Affairs (FAPA) / Dallas Chapter — President — Taiwanese Association of America / Dallas/Fort Worth Chapter — President — Taiwanese Association of America / Pittsburgh Chapter — President (1972) — Taiwanese Association of America / South Florida Chapter — President — Southeast Taiwanese American Association (SETAA) — Chairman of the Board
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 許富美

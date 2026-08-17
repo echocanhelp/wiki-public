@@ -21,6 +21,19 @@ last_reviewed: 2026-08-17
 
 Peggy Chen, a soprano vocalist, received her Bachelor of Arts from Tunghai University and a Master’s Degree from Musashino Academy of Music School in Japan. She currently is the assistant conductor of the Los Angeles Formosan Master Chorale. In addition, she is also the Choir Director for Irvine Taiwanese Presbyterian Church and Laguna Woods Village Taiwanese Chorale.
 
+<!-- tah-tables:start -->
+## Education
+- 東海大學 — 音樂系
+- 日本武葳野音樂大學 — 音樂碩士
+
+## Employment
+- 台中市雙十國中音樂班 — 聲樂老師
+- 高田馬場台灣基督長老敎會 — 聖歌隊指揮
+- 洛杉磯福爾摩沙聖樂團 — 助理指揮
+- Irvine台灣基督長老敎會 — 聖歌隊指揮
+- Laguna Woods Village台灣合唱團指揮 — 合唱團指揮
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

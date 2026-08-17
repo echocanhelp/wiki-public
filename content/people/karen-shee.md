@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. A member of The American Association of Chinese Painters and Calligraphers (美國華人書畫藝術家協會會員)
 
+<!-- tah-tables:start -->
+## Education
+- Soochow Univ. (東吳大學) — B.A., Chinese Literature
+- Computer science
+
+## Employment
+- The American Association of Chinese Painters and Calligraphers (美國華人書畫藝術家協會) — Calligrapher — Community — The American Association of Chinese Painters and Calligraphers (美國華人書畫藝術家協會) — Member — The American Association of Chinese Art and Literature (美國華人藝文協會) — Vice President
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

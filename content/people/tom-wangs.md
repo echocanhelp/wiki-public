@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Tom Wang’s (王自立) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 成功大學 — B.S.
+- San Jose State University — M.S.
+- Golden Gate University — MBA
+
+## Employment
+- PTI Ventures — present — Venture Partner
+- Pulse Metric, Inc — president
+- Genoa Systems — president
+<!-- tah-tables:end -->
 
 ## Family
 

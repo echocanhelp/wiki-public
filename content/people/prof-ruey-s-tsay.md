@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 H.G.B. Alexander Professor of Econometrics & Statistics, Booth School of Business
 
+<!-- tah-tables:start -->
+## Education
+- National Tsing-hua Univ. (清華大學) — 1974 — B.A.
+- Univ. of Wisconsin, Madison — 1982 — Ph.D., Statistics
+
+## Employment
+- Carnegie-Mellon University — Assistant Professor — (1982-1986) — University of Chicago — Visiting Professor — (1987-1988) — Carnegie-Mellon University — Associate Professor — (1987-1989) — National Tsing-hua University — Visiting Chair Professor — (1999-) — University of Chicago — Professor — (1990-1998) — University of Chicago, Booth School of Business — H.G.B. Alexander Professor of Econometrics & Statistics — Community — Advisory Committee, Institute of Economics and Institute of Statistical Science, Academia Sinica — Member
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

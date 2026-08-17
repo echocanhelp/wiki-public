@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of World Federation of Taiwanese Association (WFTA) (世界台灣同鄉會聯合會會長) 2017-2019
 
+<!-- tah-tables:start -->
+## Education
+- Chinese Culture Univ. — 1975 — M.S., Land Resources
+- Kansas State Univ. — 1979 — M.S., Agricultural Economy
+- Kansas State Univ. — 1984 — Ph.D., Economics
+
+## Employment
+- DOL/BLS (聯邦勞工部勞工統計局) — HUD/PDR (聯邦住宅都市發展部政策發展研究) — FHFA (聯邦住宅財務局) — Community — World Federation of Taiwanese Association (WFTA) — President — Taiwanese Association of America (TAA) — President — Taiwanese American Conference/East Coast — Coordinator — Taiwanese Association of America/Greater Washington, DC — President
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

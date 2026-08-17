@@ -19,7 +19,12 @@ last_reviewed: 2026-08-17
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
-Shang-Feng Wu (吳上峯) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Employment
+- YMCA兒童合唱團 — 教師
+- 教會聖詩團 — 教師
+<!-- tah-tables:end -->
 
 ## Family
 

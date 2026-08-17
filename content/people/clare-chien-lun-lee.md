@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Originally from Taiwan, Chien-Lun Lee is a versatile artist in New York City. She has university training in Musicology, Pedagogy, Theatre, and 20 years training in Music, all of which has provided the foundation for her professional career as a vocalist, actor, and an official music teacher in Taiwanese junior and senior high schools.
 
+<!-- tah-tables:start -->
+## Education
+- 師範大學 — B.S.聲樂
+- New York University — M.S. Music
+
+## Employment
+- music theory, vocal and piano — present — teacher
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Y. C. Chen (陳英燦) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 東海大學 — B.S. 經濟系
+
+## Employment
+- 房地產 — 經紀人
+- New York Insurance Co. — Manager
+- 資深媒體人
+<!-- tah-tables:end -->
 
 ## Family
 

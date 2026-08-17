@@ -23,6 +23,15 @@ last_reviewed: 2026-08-17
 1979
 Professor and Director of Anesthesiology/Pharmacy
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. College of Medicine — 1951-1958 — M.D.
+- Creighton Univ. — 1960 — M.S., Physiology/ Pharmacology
+
+## Employment
+- New York University School of Medicine — Associate Professor of Anesthesiology — (1974-) — University of Medicine and Dentistry of New Jersey — Professor and Director of Anesthesiology/Pharmacy — (1979-) — Community — Chinese American Medical Society (美洲中華醫學會) — President
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

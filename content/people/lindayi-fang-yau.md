@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Linda Yi-Fang Yau (劉義芳) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 實踐家專 — 1970
+
+## Employment
+- 鹿港國中 — 1970-74 — 教員 — 中餐館、日本料理店 — 1976-2002 — 自雇
+<!-- tah-tables:end -->
 
 ## Family
 

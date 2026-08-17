@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 5. Director of Cardiac Electrophysiology of Joe DiMaggio Children’s Hospital, Hollywood, Florida, June 2010-
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1976 — M.D.
+- John Hopkins Univ. — 1979 — M.S., Hygiene and public health
+
+## Employment
+- University of Iowa — Assistant Professor of Pediatrics — (1986-1988) — University of Miami — Associate Professor of Clinical Pediatrics — (1991-1996) — University of Miami — Professor of Clinical Pediatrics — (1996-1998) — University of Miami — Professor of Pediatrics — (1998-) — Joe DiMaggio Children's Hospital, Hollywood, Florida — Director of Cardiac Electrophysiology — (2010-) — Community — TAA/South Florida Chapter — President — TAA/South Florida Chapter — Editor-in-Chief of Monthly Newsletter — Project Haiti Heart: A Medical Mission to Haiti — Co-Founder
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 林素芬

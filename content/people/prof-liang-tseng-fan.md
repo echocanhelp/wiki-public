@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Prof. Liang-Tseng Fan 范良政教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1951 — B.S., Chemical Engineering
+- Kansas State Univ. — 1954 — M.S., Chemical Engineering
+- West Virginia Univ. — 1957 — Ph.D., Chemical Engineering
+
+## Employment
+- Kansas State Univ. — Instructor — (1958-1963) — Kansas State Univ. — Professor — (1963-) — Kansas State Univ. — Department Head — (1968-) — Kansas State Univ. — University Distinguished Professor — (1984-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Eva S. Cheung

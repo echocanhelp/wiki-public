@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Tse feng Chuang (莊澤豐) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 中央警官學校行政系畢業 — 1975 — B.S.
+- 台福神學院 — 1998 — M.S. 道學
+
+## Employment
+- 愛恩台福教會 — 宣道關懷牧師
+- 台福伯特利祈禱園 — 園牧
+<!-- tah-tables:end -->
 
 ## Family
 

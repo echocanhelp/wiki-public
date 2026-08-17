@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Michelle Wu was born in 1985 in Chicago, Illinois to Taiwanese immigrant parents. She graduated from high school in 2003 as a valedictorian and an Illinois U.S. Presidential Scholar. After high school she attended Harvard University, earning her bachelor’s degree in 2007. She later also earned her J.D. from Harvard Law School in 2012. After completing her bachelor’s Wu consulted in Boston’s financial district, later entering public service by working in the Boston Mayor’s office.
 
+<!-- tah-tables:start -->
+## Education
+- Harvard Univ. — 2007 — B.A. — 2012 — J.D.
+
+## Employment
+- Boston City Council — Member — (2014-2021) — Boston City Council — President — (2016-2018) — City of Boston — Mayor — (2021-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Conor

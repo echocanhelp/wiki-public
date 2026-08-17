@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Lyric Soprano Dr. Lu-Hsuan Lucy Chen 陳綠萱 is a native of Taiwan. She earned her B.A. from National Taiwan Normal University, her M.M. from the Peabody Conservatory of Music of Johns Hopkins University, and her Doctor of Musical Arts from University of Maryland at College Park.
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Normal University — B.A. Music
+- Peabody Conservatory of Music of Johns Hopkins University — M.S. Music
+- University of Maryland at College Park — Ph.D. Music Art
+
+## Employment
+- St. Barnabas’ Episcopal Church — Present — music director/organist
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Samuel S. Cheung has performed as an accompanist in recitals at Carnegie Hall, Merkin Recital Hall, the Carnegie Recital Hall, Avery Fisher Hall (Lincoln Center), Rice University (Texas), The Chan Centre (University of British Columbia), and the Benaroya Hall (Seattle). He has coached with master accompanist Thomas Grubb, vocalists Uta Graf, Helen Vanni, Cynthia Hoffmann, Ellen Rapp, violinist Erick Friedman, violists Lillian Fuchs and Francis Tursi, and cellist Bernard Greenhouse. He was invited to perform at the Southern Vermont Chamber Music Festival by the late pianist Eugene List and the late violinist Carroll Glenn, and also appeared in the inaugural concert of the Wilmington Grand Opera House in Delaware.
 
+<!-- tah-tables:start -->
+## Education
+- 曼哈坦音樂院 — M.S.伴奏
+- 紐約大學巴魯克學院 — M.S.行政管理
+
+## Employment
+- Various venues including Carnegie Hall, Merkin Recital Hall, Avery Fisher Hall, Benaroya Hall — Pianist / Accompanist
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Daughter:** ?-

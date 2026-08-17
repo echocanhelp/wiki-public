@@ -21,6 +21,18 @@ last_reviewed: 2026-08-17
 
 Dr. Y. C. (Simon) Liu 劉耀經博士 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- Chung Yuan Christian Univ. — B.S. Mathematics
+- Indiana Univ. — M.S., Computer
+- Johns Hopkins Univ. — M.S. Government Administration
+- Univ. of Maryland — M.S., Corporate Management
+- Univ. of Washington — Ph.D. Computer Science & Higher Education
+
+## Employment
+- Agriculture Research Service (ARS) — Director — (2000-) — National Agricultural Library, USDA — Director — (2010-) — NASA — Information Manager — Community — Taiwanese American Conference, East Coast — Coordinator (2007) — North American Taiwanese Professor Association, Greater Washington DC Chapter — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 柯淑靜

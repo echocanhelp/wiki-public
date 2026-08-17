@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, scientist
 - **Source:** TAH Foundation Who’s Who
 
-Diane D-S. Tang-Liu (湯丹霞博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S. Pharmacy
+- University of California, San Francisco — Ph.D. Pharmaceutical Chemistry
+
+## Employment
+- AiViva BioPharma. — present — Co-Founder and CEO
+- Allgenesis, Inc. — Co-Founder
+- DTL BioPharma Consulting — CEO & President
+- University of Southern California
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 HERMIT Jackson Kuo is born in Taiwan in 1950. He is not a real hermit but in spiritual level he wishes himself as a hermit, and practices a simply form of life style.
 
+<!-- tah-tables:start -->
+## Education
+- 淡江大學 — BA:日文系; MA:日本研究
+
+## Employment
+- California State University, East Bay — Instructor
+- De Anza Community College, Cupertino, CA — Instructor
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 蕭如香

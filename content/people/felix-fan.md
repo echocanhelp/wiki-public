@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Felix Fan is a celebrated young cellist whose eclectic music-making and leadership reflect a 21st Century sensibility rare among musicians. He is a musical explorer whose journey takes him from a performance of Tan Dun’s music one day to a Devorak Concerto the next.
 
+<!-- tah-tables:start -->
+## Education
+- 德國科隆音樂學院
+
+## Employment
+- Cellist
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Father:** 范清亮

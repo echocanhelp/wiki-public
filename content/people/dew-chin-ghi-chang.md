@@ -19,7 +19,19 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, educator
 - **Source:** TAH Foundation Who’s Who
 
-DEW Chin-Ghi Chang (張清祺) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台南高等工業學校
+
+## Employment
+- 台灣鐵路局
+- 台灣電力公司
+- 大東電器工業所
+- 嘉義工學校 — 校長
+- 嘉義縣建設局 — 局長
+- 台灣省政府建設廳第六科 — 科長
+<!-- tah-tables:end -->
 
 ## Family
 

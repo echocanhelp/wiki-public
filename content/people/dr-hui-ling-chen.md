@@ -23,6 +23,15 @@ National Institute of Environmental Health Sciences
 Research Investigator
 (2007-)
 
+<!-- tah-tables:start -->
+## Education
+- Chinese Culture University — 1993 — B.S., Science in Biology
+- National Defense Medical Center — 1998 — M.S., Science in Cell Biology — 2003 — Ph.D., Philosophy in Biotechnology
+
+## Employment
+- National Institute of Environmental Health Sciences — Research Investigator — (2007-) — Children's National Medical Center — Staff Scientist — (2008-2014) — Amazing Grace Pharmaceutical Inc. — Clinical Research Consultant — (2014-2016) — Glotech Inc. — Database Manager — (2016-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

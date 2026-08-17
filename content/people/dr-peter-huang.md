@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 4. A Popular Speaker on Various Subjects: Medical, Religion, etc. in Taiwanese American Community
 
+<!-- tah-tables:start -->
+## Education
+- Taipei Medical Univ. — 1967 — M.D.
+- The Johns Hopkins Univ. — M.S., Medical policy & Hospital operation
+- The Johns Hopkins Univ. — M.S., Public health
+
+## Employment
+- Delaware Medical Center — Director of Neurosurgery — (1984-1996) — Mennonite Christian Hospital — President — (1993-2015)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Jeanne

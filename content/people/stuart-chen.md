@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 北美洲台灣人醫師協會 (Taiwanese American Physicians Association of North America)
 總會會長 (President)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan University, College Of Medicine — 1959 — M.D.
+- Regions Hospital — residency
+- University of Minnesota at Fairview — residency
+
+## Employment
+- Kansas City — Doctor, Gastroenterology
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

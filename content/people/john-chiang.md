@@ -96,6 +96,16 @@ His childhood experience with racial discrimination shaped his worldview. He wit
 - [TAH #51 encyclopedia: 51. John Chiang 江俊輝](https://taiwaneseamericanhistory.org/whos-who-51-john-chiang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/john-chiang/)
 
+<!-- tah-tables:start -->
+## Education
+- DePaul Univ.
+- Univ. of South Florida — B.S., Finance and Economics
+- Georgetown Univ. — M.A., Law
+
+## Employment
+- California State Treasurer — State Treasurer — (2015-) — California State Controller — State Controller — (2007-2015) — California State Board of Equalization — Board Member — (1997-2007)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Terry Chi (季淳慧)

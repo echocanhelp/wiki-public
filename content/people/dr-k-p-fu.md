@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist
 - **Source:** TAH Foundation Who’s Who
 
-Dr. K. P. Fu (傅康平博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1962-1966 — M.S., Agriculture
+- Kansas State Univ. — 1968-1970 — M.S.
+- Rutgers Univ. — 1970-1974 — Ph.D.
+- Columbia Univ. — 1974- — Post Doc
+
+## Employment
+- Columbia Univ. — Research Associate — American Home — Johnson & Johnson — Acting Director of Pi
+<!-- tah-tables:end -->
 
 ## Family
 

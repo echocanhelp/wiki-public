@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Laboratory Technician; Manufacturing Engineer; Lean Operations Manager; Senior Manager, Manufacturing Engineering
 
+<!-- tah-tables:start -->
+## Education
+- The Johns Hopkins Univ. — 2001-2005 — B.S., Biomedical Engineering
+- Northeastern Univ. — 2007-2009 — M.S., Industrial Engineering
+
+## Employment
+- OmniGuide — Laboratory Technician; Manufacturing Engineer; Lean Operations Manager; Senior Manager, Manufacturing Engineering — (2005-2014) — Gentex — Senior Process Engineer — (2014-2016) — Abiomed — Senior Production Engineer — (2016-2016) — Advanced Functional Fabrics of America (AFFOA) — Senior Process Engineer — (2017-) — Community — FAPA Massachusetts Chapter — President
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

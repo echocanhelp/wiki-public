@@ -23,6 +23,17 @@ IEEE Journal on Emerging and Selected Topics in Circuits and Systems
 Editor-in-Chief
 (2016-2017)
 
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1992 — B.S. Electrical Engineering
+- Princeton University — M.S. Electrical Engineering
+- Princeton University — 1998 — Ph.D. Electrical Engineering
+
+## Employment
+- Intel Corporation — 1998-present — Principal Engineer
+- IEEE Journal on Emerging and Selected Topics in Circuits and Systems — 2016-2017 — Editor-in-Chief
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of the Taiwanese Medical Association of Greater Philadelphia, 2017
 
+<!-- tah-tables:start -->
+## Education
+- Univ. of Rochester — 1989 — B.S., Science
+- State Univ. of New York (SUNY) at Syracuse — 1994 — M.D.
+- Guthrie Healthcare System GME — 1994-1995 — Internship
+
+## Employment
+- Geisinger Medical Center — Residency — (1995-2000) — St. Luke's Orthopedic Care — Orthopedic Surgery Specialist — Community — Taiwanese Medical Association of Greater Philadelphia — President (2017)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

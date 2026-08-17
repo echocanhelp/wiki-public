@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. North American Chang Hua Girls’ High School Alumni Association recognized her as a model mother in 2014 (北美彰女校友會在 2014年表揚她為模範媽媽)
 
+<!-- tah-tables:start -->
+## Education
+- National Changhua Girls' Senior High School (彰化女子高級中學)
+
+## Employment
+- Operating real estate in the United States — (1974-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** [[people/ju-cheng-lee|李汝成]]

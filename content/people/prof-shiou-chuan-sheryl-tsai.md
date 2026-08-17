@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Prof. Shiou-Chuan Sheryl Tsai 蔡秀娟 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan University — 1990 — B.S.Chemistry
+- National Taiwan University — 1992 — M.S.Chemistry
+- UC Berkeley — 1999 — Ph.D.Chemistry
+
+## Employment
+- UC Irvine — Professor
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

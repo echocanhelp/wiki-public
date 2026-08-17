@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, educator
 - **Source:** TAH Foundation Who’s Who
 
-Tina Shih (施雅婷) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台南神學院
+- 加州州立大學 — M.S.幼教
+
+## Employment
+- 施雅婷國際美儀模特學苑 — Present — 美姿美儀老師, President
+<!-- tah-tables:end -->
 
 ## Family
 

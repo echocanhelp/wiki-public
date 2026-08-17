@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, professor, lawyer, educator
 - **Source:** TAH Foundation Who’s Who
 
-Ron Chen (陳榮成) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1960 — B. C. 法律
+- Ok University, Norman — 1967 — M.A. 政治
+
+## Employment
+- Kansas State Uni. Of Pittsburg — 1967 — Assistant Professor
+- Northwestern State Univ. of Louisiana — 1988 — Professor
+- Brass House, Inc. Until now President
+<!-- tah-tables:end -->
 
 ## Family
 

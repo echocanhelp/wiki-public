@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Jensen Huang founded NVIDIA in 1993 and has served since its inception as president, chief executive officer, and a member of the board of directors.
 
+<!-- tah-tables:start -->
+## Education
+- Oregon State Univ. — 1984 — B.S., Electrical Eng.
+- Stanford Univ. — 1992 — M.S., Electrical Eng.
+
+## Employment
+- AMD — Microprocessor Designer — (1983-1985) — LSI — Director of Coreware — (1985-1993) — Nvidia — Co-Founder, President and CEO — (1993-) — Community — Jen-Hsun & Lori Huang Foundation
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Lori Huang

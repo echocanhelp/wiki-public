@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 1. Oversaw the development and production of the Academy Award-winning film The Departed, 10,000 BC, The Aviator, Alexander, TMNT, The Invasion, Unaccompanied Minors, Matchstick Men, Scooby-Doo 2: Monsters Unleashed, Torque
 
+<!-- tah-tables:start -->
+## Education
+- University of Pennsylvania — 1994 — B.A.
+- Harvard University — 1999 — M.B.A.
+
+## Employment
+- Film producer
+- Lin Pictures — 2008 — CEO
+- Warner Bros Picture — 1999-2007 — Senior Vice President of Production
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

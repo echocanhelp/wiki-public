@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Third prize, Stravinsky International Piano Competition, Champaign, Illinois, 1987
 
+<!-- tah-tables:start -->
+## Education
+- Juilliard School — B.S.Music
+
+## Employment
+- Pianist
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Father:** 謝世忠 Mother:陳翠葑

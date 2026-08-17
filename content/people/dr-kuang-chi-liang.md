@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. International Renown Medical Doctor for Malaria Control and Prevention
 
+<!-- tah-tables:start -->
+## Education
+- Taihoku Imperial Univ. (臺北帝國大學) — M.D.
+
+## Employment
+- Pingtung Chaozhou Malaria Research Institute (屏東潮州瘧疾研究所) — Director — (1947-) — World Health Organization (WHO) — Director General — (1955-) — PAHO headquarters in Washington, D.C. — Regional Malariologist / Epidemiologist — (1966-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Chin-Che Lin

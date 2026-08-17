@@ -21,6 +21,18 @@ last_reviewed: 2026-08-17
 
 At the age of three, Tzu-yi Chen idolized her five-year-old brother. She wanted everything he had and even studied his first-grade textbooks. She insisted on sitting with him during his piano lessons instead of waiting with her mother. The teacher observed this quiet, attentive, toddler who showed an uncanny understanding, and soon enrolled her in private study. Tzu-yi said, “I was overtaken by the music.”
 
+<!-- tah-tables:start -->
+## Education
+- 法國國立巴黎高等音樂學院
+- 德國國立卡厄斯魯爾音樂大學
+- 美國哥倫布州立大學音樂學院 — 鋼琴演奏博士
+
+## Employment
+- Pianist
+- Columbus State University — Piano instructor and Staff accompanist
+- International Friendship Ministries Arts Academy — Founder
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

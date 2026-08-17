@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** lawyer
 - **Source:** TAH Foundation Who’s Who
 
-Theresa L. Chung (鍾林瑛娟) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S.法律
+- 內布拉斯加州大學 — M.S. 政治學
+- 華盛頓大學 — M.S. 比較法學
+
+## Employment
+- 華府地區 — 1983- — 執業律師
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Dr. Richard Yu-Tsang Lin 林譽蒼 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- Stanford Univ. — 1986-1990 — BS, Biological Sciences, graduated with honors
+- Harvard Medical School — 1990-1994 — M.D. graduated cum laude
+- Stanford Graduate School of Business — 1997-1999 — MBA, designated as an Arjay Miller Scholar
+
+## Employment
+- Three Arch Partners — Partner — (1998-2011) — Acuta Capital Partners — Founder & Partner — (2011-2018) — HealthQuest Capital — Partner — (2016-2018)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Grace Lay

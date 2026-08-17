@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, lawyer
 - **Source:** TAH Foundation Who’s Who
 
-Stanley Hsiao (蕭東賢) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Soochow Univ. — B.S., Law
+- Univ. of Washington — J.D., Law
+
+## Employment
+- Law Firm — Private Owner — Community — Seattle Taiwanese Chamber of Commerce — Founding President — Taiwanese American Association (TAA) Seattle Chapter — President
+<!-- tah-tables:end -->
 
 ## Family
 

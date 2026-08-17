@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-%E8%B3%B4%E6%9D%B1%E6%88%90 (賴東成) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 農工系
+
+## Employment
+- 1. — 2. — 3.
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 2. JASA theory and methods Editor's invited speaker in Joint Statistical Meetings,1990
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1975 — M.S., Mathematics
+- Univ. of California, Berkeley — 1981 — Ph.D., Statistics
+
+## Employment
+- Purdue Univ. — Assistant Professor, Statistics Dept. — (1981-1984) — UCLA — Professor, Statistics Dept. — (1999-) — Institute of Statistical Science, Academia Sinica — Director — (2006-2012) — National Taiwan Univ. — Joint Professor, Mathematics Dept. — (2007-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

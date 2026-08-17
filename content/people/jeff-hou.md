@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Jeff Hou (侯志仁博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- The Cooper Union — B.S., Architecture
+- Univ. of Pennsylvania — M.S., Landscape Architecture
+- UC Berkeley — M.S., Architecture
+- UC Berkeley — Ph.D., Environmental Planning
+
+## Employment
+- UC Berkeley — 1998 — Project Researcher
+- Univ. of Washington — 2001 — Professor
+<!-- tah-tables:end -->
 
 ## Family
 

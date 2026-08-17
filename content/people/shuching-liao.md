@@ -19,7 +19,12 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Shuching Liao (廖郭淑卿) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 東京神學院 — B.S.
+- 芝加哥大學神學院 — M.S.
+<!-- tah-tables:end -->
 
 ## Family
 

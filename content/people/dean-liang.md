@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 ___________________________________________________________________________________________________________________
 
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S.化學
+
+## Employment
+- 藥廠
+- Colorado University — research
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

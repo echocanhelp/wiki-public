@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Prof. Shirley Cheng Tsai 鄭秀蘭教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1963 — B.S., Chem. Eng.
+- Calif. Inst. of Tech. (Caltech) — 1969 — Ph.D., Chemistry
+
+## Employment
+- Gulf Oil, Pittsburgh, PA — Senior Research Engineer — (1974-1980) — Occidental Research Center, CA — Senior Research Engineer — (1980-1983) — California State University, Long Beach — Professor — (1983-2009) — Academia Sinica, Taiwan — Visiting Research Fellow — (1999-2003)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Chen S. Tsai (蔡振水)

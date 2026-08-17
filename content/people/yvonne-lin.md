@@ -21,6 +21,18 @@ last_reviewed: 2026-08-17
 
 1.Fellowship of The University of Texas M.D. Anderson Cancer Center, Houston, Texas, 2009
 
+<!-- tah-tables:start -->
+## Education
+- Massachusetts Institute of Technology, Cambridge — 1993 — B.S. Chemistry
+- Harvard School of Public Health, Boston — 1995 — Epidemiology
+- University of California-Irvine College of Medicine — 2001 — M.D.
+- Beth Israel Deaconess Medical Center, Boston — 2005 — Residency
+
+## Employment
+- Genentech-Roche — present — assistant medical director
+- USC — Assistant professor
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

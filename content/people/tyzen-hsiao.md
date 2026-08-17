@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 蕭泰然(1938年1月1日-2015年2月24日)，台灣音樂家。台灣高雄市出生。集鋼琴家、指揮家、作曲家於一身。一生致力於台灣本土音樂融入西方音樂的創作。被譽為「台灣拉赫曼尼諾夫-最後的浪漫主義鋼琴詩人」。
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Normal Univ. — 1960-1963 — B.S., Music
+- Musashino Academia Musicae(日本武藏野音樂大學) — 1965-1967
+- UCLA Herb Alpert School of Music — 1985-1987 — M.S., Music
+
+## Employment
+- Tainan Univ. of Technology — Associate Professor — Wenzao Ursuline Univ. of Languages — Lecturer — Tainan Theological Seminary, Music — Lecturer — National Taiwan Normal Univ., Music — Lecturer — Self-employed (arts and crafts shop) — Shop Owner — (1977-) — Community — Southern California Taiwan Music Club (南加州台灣音樂社) — Principal — North American Taiwanese Literary Association (北美台灣人文藝協會) — President — North American Taiwanese Literary Association Chamber Orchestra (北美文協室內樂團) — Founder and Conductor
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 高仁慈

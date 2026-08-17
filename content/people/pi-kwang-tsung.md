@@ -22,6 +22,22 @@ last_reviewed: 2026-08-17
 Publication(Non-professional ones)
 1. Japanese publication :台湾総統への道程(The road to TAIWAN Presidency) , 2001
 
+<!-- tah-tables:start -->
+## Education
+- 中興大學 — 1956 — B.S., 農化
+- 日本東京大學 — 1963 — M.S., 農化
+- Kansas Univ. — 1967 — M.S., Microbiology
+- 日本東京大學 — 1971 — Ph.D., 藥學
+
+## Employment
+- Connecticut Univ. — 1975-78 — Professor
+- St. Elizabeth Hospital(Boston) — 1978-80 — Muscular Dystrophy Chief Inverstigator
+- Dry Eye Institute — 1980-86 — 顧問
+- 美國漢方研究所 — 1986-88 — 所長
+- East-West Medical Digest — 1989-96 — Editor in chief / publisher
+- 美國中醫藥研究所 — 1989- — 所長
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Rieko

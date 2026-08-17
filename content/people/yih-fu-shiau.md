@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, physician, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Yih-Fu Shiau (蕭逸夫) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台北醫學大學 — B.S.
+- 喬治華盛頓大學 — Ph.D. 生理學
+
+## Employment
+- present — 一般內科及胃腸專科開業醫師
+- 賓大與紐奧蘭州立大學 — Professor
+<!-- tah-tables:end -->
 
 ## Family
 

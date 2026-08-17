@@ -24,6 +24,20 @@ Employment
 1976-1991
 Assistant Professor to Professor
 
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1967 — B.S.機械
+- The John Hopkins University — 1974 — Ph.D. Mechanics and Materials Science,
+
+## Employment
+- Department of Aerospace Engineering, University of Southern California — 1976-1991 — Assistant Professor to Professor
+- Mechanical and Aerospace Engineering Department, University of California, Los Angeles — 1991-present — Professor
+- Center for Micro Systems — 1993-1999 — Director
+- Ben Rich-Lockheed Martin — 1996-present — Professor
+- Institute for Cell Mimetic Space Exploration — 2002-2008 — Director
+- Center for Cell Control — 2006-present — Director
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

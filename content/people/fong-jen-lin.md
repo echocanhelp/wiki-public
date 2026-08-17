@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Fong-Jen Lin (林豐仁) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Syracuse University — M.D.
+- The Catholic u. of America — Ph.D.
+
+## Employment
+- 國立成功大學物理系 — Professor
+- 輔仁大學物理系 — Professor
+<!-- tah-tables:end -->
 
 ## Family
 

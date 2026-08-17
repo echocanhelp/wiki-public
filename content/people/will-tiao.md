@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Actor, Producer, and Writer/Translator for TV, Film, and Stage, Starred in and Produced the Award-Winning Short Film “A Starbucks Story”, “Stan” and the Writer, Actor, and Producer of Movie “Formosa Betrayed”
 
+<!-- tah-tables:start -->
+## Education
+- Tufts Univ. — B.A. International Relations
+- Columbia Univ. — M.A. in International Affairs
+
+## Employment
+- Clinton Administration — Presidential Management Fellow — George W. Bush Administration — International Economist — Formosa Entertainment — Co-Founder — (2010-) — Tiao Properties — Owner — (2012-) — Community — Formosan Association for Public Affairs — Employee — U.S. House of Representatives, Committee on Ways and Means — Legislative Fellow — Senate Foreign Relations Committee (Senator Nancy Kassebaum) — Staffer
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

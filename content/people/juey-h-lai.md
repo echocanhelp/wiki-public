@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur, scientist
 - **Source:** TAH Foundation Who’s Who
 
-Juey H. Lai (賴瑞宏博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1959 — B.S., Chemical Engineering
+- Univ. of Washington — 1964 — M.S., Chemical Engineering
+- Univ. of Washington — 1969 — Ph.D., Physical Chemistry
+
+## Employment
+- Univ. of Minnesota — 1969-73 — Research Specialist
+- Honeywell, Inc., — 1973-87 — Staff Scientist
+- LAI Laboratories, Inc. — 1988-04 — President
+<!-- tah-tables:end -->
 
 ## Family
 

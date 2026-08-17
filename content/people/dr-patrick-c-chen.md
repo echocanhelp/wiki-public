@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, physician, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Patrick C. Chen (陳彰醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. Medical College — 1967 — MB
+- The Rockefeller Univ., NYC — 1973 — PhD., Immunology
+- Medical license in US — Pathology Resident training
+
+## Employment
+- State University of New York Downstate Medical Center — Physician — (1974-2008)
+<!-- tah-tables:end -->
 
 ## Family
 

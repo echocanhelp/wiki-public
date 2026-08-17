@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, scientist
 - **Source:** TAH Foundation Who’s Who
 
-Dr. I-Shih Chang (張倚石博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台北工專 — 伊利諾大學 — 航太博士
+
+## Employment
+- Aerospace Corp. — 美國航太協會 — 固態火箭燃料技術組召集人
+<!-- tah-tables:end -->
 
 ## Family
 

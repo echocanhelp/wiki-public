@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Jaw Sy Chen (陳昭司) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S.心理
+- Texas University — Ph.D.心理
+
+## Employment
+- New York — 開業心理醫師
+<!-- tah-tables:end -->
 
 ## Family
 

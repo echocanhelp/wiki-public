@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Brown Univ. Center for Latin American and Caribbean Studies Craig M. Cogut Dissertation Fellowship, 2017
 
+<!-- tah-tables:start -->
+## Education
+- Univ. of California, Irvine — 2010 — B.A., History
+- Brown Univ. — 2012 — A.M., History — 2017 — Ph.D., History
+
+## Employment
+- Brown University — Teaching Assistant — (2012-2014) — Codementor — Content Marketing Specialist — (2017-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Father:** Tony Hwang

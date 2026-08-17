@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Prof. Chi-Tsong Chen 陳啓宗教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1954-1958 — B.S., Mechanical Engineering
+- Hsinchu Chaio Tong Univ. — 1958-1960 — M.S., Electrical Engineering
+- Univ. of California, Berkeley — 1962-1966 — Ph.D., Electrical Engineering
+
+## Employment
+- Stony Brook University / SUNY — Assistant Professor — (1966-1969) — Stony Brook University / SUNY — Associate Professor — (1969-1974) — Stony Brook University / SUNY — Professor — (1974-2011)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

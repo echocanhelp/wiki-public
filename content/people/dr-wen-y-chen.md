@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. A member of the Illinois Eye Specialists’ practice (now affiliated with SureVision Eye Centers – Midwest) since 1990
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — Plant Diseases and Pests
+- Univ. of Illinois — Ph.D., Immunology
+- Medical Univ. Of South Carolina — M.D.
+
+## Employment
+- St. Louis Univ. Group of Hospitals — Residency — SureVision Surgery and Laser Center in Maryville — Physician
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

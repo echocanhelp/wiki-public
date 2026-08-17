@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 Valentina Wen-Ting Huang Born in Taiwan, Ms. Huang performed at the gala concert of Junior Original Composition Yamaha in Japan at the age of 9 and entered the University for Music and Performing Arts in Vienna, Austria at 15. She was honored with the National Excellence Award for Young Artistic Talents in Taiwan and received the scholarship from the Austrian Ministry of Science and Research. She entered Fischoff Chamber Music Competition and Concert Artists Guild International Competition and was the Prize Winner of the Chesapeake Chamber Music Competition.
 
+<!-- tah-tables:start -->
+## Education
+- University of Music and Performing Arts Vienna — B.S. Piano
+- University of Music and Performing Arts Vienna — 1997 — M.S. Piano
+- Indiana University — 2005 — Ph.D. Music
+
+## Employment
+- Music Teachers’ Association of California — Present — Vise president and Bach Chair
+- Felici Piano Trio — Pianist
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

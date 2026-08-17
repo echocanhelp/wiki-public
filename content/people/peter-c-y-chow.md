@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Peter C. Y. Chow (周鉅原博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1969 — B.A., Foreign Languages and Literature — 2 Southern Illinois Univ. — 1974 — Master of Science
+- Southern Illinois Univ. — 1975 — Ph.D., Economic
+
+## Employment
+- City Univ. of New York — 1987 — Professor
+- World Bank — 1999 — Contractual consultant
+<!-- tah-tables:end -->
 
 ## Family
 

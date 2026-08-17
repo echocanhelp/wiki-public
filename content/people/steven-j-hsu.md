@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Steven J. Hsu (許中人醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Case Western Reserve University — B.S. Chemistry
+- Case Western Reserve University — 2010 — M.D. Medicine
+
+## Employment
+- Cedars-Sinai Acute Rehabilitation Unit — present — Associate director
+- UCLA/PM&R Residency program — Core faulty
+<!-- tah-tables:end -->
 
 ## Family
 

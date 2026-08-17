@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Chia-Lin (Charles) Liu 劉家麟 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- Western University of Health Sciences — 1995 — D.O.
+
+## Employment
+- Scripps Memorial Hospital, La Jolla — present
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

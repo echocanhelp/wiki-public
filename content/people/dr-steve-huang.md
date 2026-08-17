@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 4. First Taiwanese American Dentist for Dental In-Plant Only in South California 2001-Present
 
+<!-- tah-tables:start -->
+## Education
+- Washington Univ. — B.A., Economics
+- New York Univ. — 2001 — M.S., Dentist
+
+## Employment
+- San Marino City, CA — Mayor & Councilman — (2015-2019) — Community — Taiwan Center, Los Angeles — President — Taiwanese American Citizen League — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Father:** [[people/chi-shih-huang|黃及時]]

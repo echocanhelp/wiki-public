@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Assisted the US government in the Persian Gulf War code-named "Desert Storm" and helped the US military victory, because of pre-analysis and cracking of crisis data, 1991
 
+<!-- tah-tables:start -->
+## Education
+- National Tsing Hua Univ. (清華大學) — 1974 — B.S., Nuclear Engineering
+- Massachusetts Institute of Technology — M.S., Nuclear Science and Engineering — Ph.D., Nuclear Science and Engineering
+
+## Employment
+- Southern California Edison — Vice President — Performance Improvement International — Founder — Error-Free — Founder — (1987-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

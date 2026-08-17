@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Participate in the driving plans of NASA "Spirit", "Opportunity" and "Curiosity" (參與NASA「精神號」「機會號」及「好奇號」的駕駛計畫)
 
+<!-- tah-tables:start -->
+## Education
+- National Tsing Hua Univ. (清華大學) — B.S., Mathematics
+- Univ. of Iowa — Ph.D., Applied Mathematics and Machinery
+
+## Employment
+- Computer Aid Design & Simulation — Senior Software Engineer — University of Minnesota — Assistant Professor, Dept. of Computer Science — JPL of NASA — Senior Engineer
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

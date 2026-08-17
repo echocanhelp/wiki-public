@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
-I-Chuun Lee is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 國立師範大學 — 1987 — B.S. 音樂系
+- 洛杉磯藝術學院 — 1992 — M.S. 音樂系
+- 洛杉磯南加大音樂學院 — 1997 — Ph. D.音樂藝術
+
+## Employment
+- Yamaha級數 — 1997-now — 監考教師
+- Irvine Valley College — 1997-1998 — 講師
+- USC音樂學院 — 1992-1997 — 講師
+<!-- tah-tables:end -->
 
 ## Family
 

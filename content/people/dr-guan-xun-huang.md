@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Has both clinical laboratory technician and dietitian licenses in Taiwan (在台灣同時擁有醫事檢驗師和營養師執照)
 
+<!-- tah-tables:start -->
+## Education
+- Taipei Medical Univ. (臺北醫學大學) — M.S., Nutrition
+- Pennsylvania State Univ. — 2016 — Ph.D., Nutritional Science
+
+## Employment
+- Tufts University — Postdoc
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. The First T. A. to be the front cover of Time Magazine as the man of the Year: forefront researcher for AIDS 1996
 
+<!-- tah-tables:start -->
+## Education
+- California Institute of Technology — 1974 — B.S., Physics
+- Harvard-MIT Division of Health Sciences and Technology — 1978 — M.D.
+
+## Employment
+- UCLA School of Medicine — Clinical Training — (1978-) — Massachusetts General Hospital — Clinical Training — (1982-) — Aaron Diamond AIDS Research Center — Director
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Susan Kuo Ho

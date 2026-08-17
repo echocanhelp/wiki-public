@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Min-An Huang (黃民安) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Univ. of Mass — 1972 — M.S., Physics ; M.A., Statistics
+
+## Employment
+- AT&T — 1978-98 — IT Manager
+- Telcodia — 1998-02 — Director
+<!-- tah-tables:end -->
 
 ## Family
 

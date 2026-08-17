@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Outstanding Teaching Award, The Pennsylvania State University Engineering Society, 1989
 
+<!-- tah-tables:start -->
+## Education
+- National Tsing Hua Univ. (清華大學) — 1976 — B.S., Power Mechanical Engineering
+- The Pennsylvania State Univ. — 1980 — M.S., Mechanical Engineering
+- California Institute of Technology (加州理工學院) — 1984 — Ph.D., Mechanical Engineering
+
+## Employment
+- Pennsylvania State University — Assistant Professor, Associate Professor, Professor — (1985-2002) — School of Aerospace Engineering, Georgia Institute of Technology — William R. T. Oakes Professor and Chair — (2009-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

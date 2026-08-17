@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Stephanie Wan-Hsiu Lan 藍婉修 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- 台北藝術大學 — B.S. Music
+- California State University, Los Angeles — 2003 — M.S. Piano performance
+
+## Employment
+- California State University, Los Angeles — 客席講師
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

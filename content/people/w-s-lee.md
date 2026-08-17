@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-W. S. Lee (李武雄) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S.Chemical Engineering
+- Princeton University — year — M.S. Chemical Engineering
+
+## Employment
+- U.S. Department of Defense — engineer
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of Taiwanese American Federation of N.CA (北加州台灣同鄉聯合會會長) 2009
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1957 — B.S., Pharmacy
+- Univ. of California, San Francisco — 1966 — Ph.D., Pharmacy
+
+## Employment
+- Chuan Lyu Foundation (川流基金會) — Founder — (1986-) — Community — Taiwanese American Federation of Northern California (北加州台灣同鄉聯合會) — President
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

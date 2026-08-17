@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, educator
 - **Source:** TAH Foundation Who’s Who
 
-Grace Tseng (李雲玉) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 師範大學 — B.S. 英語
+- 舊金山州立大學 — MBA
+
+## Employment
+- CPA 公司
+- 舊金山社區大學 — Teaching Accounting
+<!-- tah-tables:end -->
 
 ## Family
 

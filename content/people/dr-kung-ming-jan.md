@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Columbia Univ. Medical Center/NewYork-Presbyterian Hospital
 Clinical Cardiologist
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. College of Medicine — 1967 — M.D.
+
+## Employment
+- Columbia Univ. Irving Medical Center — Associate Professor of Medicine — Columbia Univ. Medical Center/NewYork-Presbyterian Hospital — Clinical Cardiologist
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

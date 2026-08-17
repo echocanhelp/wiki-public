@@ -19,7 +19,19 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, physician, professor
 - **Source:** TAH Foundation Who’s Who
 
-John Yu (游正博博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan University — 1968 — M.D.
+- University of Chicago — 1974 — Ph.D.
+
+## Employment
+- Harvard University- — 1974-1977 — The Biological Laboratories
+- The Scripps Research Institute — 1977-2002
+- 長庚大學生物醫學研究所 — 2002- — 所長兼教授
+- 台北醫學大學 — 教授
+- 中央研究院細胞與個體生物學研究所 — 2009-2013 — 院士
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Whe-Lan Wu Detrick (迪惠蘭) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 輔仁大學 — B.S., 英語
+- UW-Stout — M.S., Media Tech
+
+## Employment
+- 電腦程式設計師
+<!-- tah-tables:end -->
 
 ## Family
 

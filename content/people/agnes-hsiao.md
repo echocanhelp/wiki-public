@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Agnes Hsiao (黃美琇) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Tamkang University — B.A., German Language & Literature
+- La Salle University — Interior Decorating
+
+## Employment
+- Prudential Real Estate — Sales Agent
+- Stanley Law Firm — Executive Manager
+<!-- tah-tables:end -->
 
 ## Family
 

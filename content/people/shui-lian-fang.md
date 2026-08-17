@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Shui-Lian Fang (方廖水蓮) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Kindai Univ.,Japan — 1972-1976 — B.S., Law
+
+## Employment
+- Fukuju Construction Co., Ltd. — Vice Chairman — Community — Kindai Univ. Alumni Associations — President — Taiwan-Japan Cultural and Economic Association — Vice President
+<!-- tah-tables:end -->
 
 ## Family
 

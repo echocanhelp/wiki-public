@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Henry Cheng (鄭煥壁) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台北師範學校 — 1953 — B.A. — 2.
+
+## Employment
+- Lear Siegler — 1979
+- 美國東芝總部 — 1987
+<!-- tah-tables:end -->
 
 ## Family
 

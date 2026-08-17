@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Professor of Business and Analytics, Teaching MBA and Executive MBA Courses for Working Professionals in Silicon Valley
 
+<!-- tah-tables:start -->
+## Education
+- Stanford Univ. — B.S., Mathematical & Computational Sciences — M.S., Engineering — Ph.D., Business
+
+## Employment
+- Santa Clara University — Dept. Chair & Professor of Information Systems & Analytics — (2010-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Father:** David Tsay

@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-David T. K. Chen (陳廷楷博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 德國Univ. of Erlangen-Nuremberg — Ph.D., Computer Science
+
+## Employment
+- IBM — Research and product management
+- Fordham University — 1989 — Professor
+<!-- tah-tables:end -->
 
 ## Family
 

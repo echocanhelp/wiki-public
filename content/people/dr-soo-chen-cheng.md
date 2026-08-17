@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Deputy Director (2006-08); Director (2013-2016)Institute of Molecular Biology; Distinguished Research Fellow (2004-present), Genomics Research Center
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1977 — B.S., Chemistry
+- Duke Univ. — 1978-1983 — Ph.D., Biochemistry
+
+## Employment
+- Academia Sinica, Institute of Molecular Biology — Deputy Director — (2006-2008) — Academia Sinica, Institute of Molecular Biology — Director — (2013-2016) — Academia Sinica, Genomics Research Center — Distinguished Research Fellow — (2004-) — National Yang-Ming Univ., Institute of Genetics — Adjunct Associate Professor — (1989-1990) — National Yang-Ming Univ., Institute of Microbiology and Immunology — Adjunct Associate Professor; Adjunct Professor — (1990-2013) — National Taiwan Univ., Genome and Systems Biology Degree Program — Professor — (2013-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

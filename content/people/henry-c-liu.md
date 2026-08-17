@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, scientist
 - **Source:** TAH Foundation Who’s Who
 
-Henry C. Liu is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- UC Berkeley — B.S. Bioengineering
+- UC San Diego — Ph.D.Bioengineering
+
+## Employment
+- Lihpao Life Corp — Present — Special Assistant
+<!-- tah-tables:end -->
 
 ## Family
 

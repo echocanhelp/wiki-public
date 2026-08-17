@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, scientist
 - **Source:** TAH Foundation Who’s Who
 
-Larry Hsu (許中強) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan University — 1971 — BS/Pharmacy — University of Illinois — 1975 — Phd/Pharmaceutics — University of Michigan — 1981 — Phd/Pharmaceutics
+
+## Employment
+- Abbott laboratories — 1981-1995 — Director of Product Development — Impax Laboratories — 1995-2014 — President and CEO — Lifemax Healthcare International Corporation — 2014-present — Chairman & CEO
+<!-- tah-tables:end -->
 
 ## Family
 

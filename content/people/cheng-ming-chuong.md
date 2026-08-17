@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 1. 200 research articles can be found in PUBMED, or lab website http://www-hsc.usc.edu/~cmchuong/
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1978 — M.D.
+- Rockefeller Univ. — 1983 — Ph.D. 病理學
+
+## Employment
+- Rockefeller Univ. — 1983-1987 — Assistant Professor of Developmental and Molecular Biology
+- University of Southern California — 1987-present — Professor of Pathology
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 沈慰萍

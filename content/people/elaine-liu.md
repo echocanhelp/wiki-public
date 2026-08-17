@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Elaine Liu (黃久香) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台北護專 — Nursing
+
+## Employment
+- Los Alamitos Medical Center — 護士長Charge Nurse
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -23,6 +23,15 @@ Honda Research Institute USA, Inc.
 Software Engineer, computer vision
 (2017-2018)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.S.
+- Washington Univ. in St. Louis — 2010-2016 — Ph.D., Electrical Engineering
+
+## Employment
+- Monsanto Company — Imaging/Software Engineer, Lidar — (2016-2017) — Honda Research Institute USA, Inc. — Software Engineer, computer vision — (2017-2018) — Apple Inc. — Senior Research Scientist — (2018-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

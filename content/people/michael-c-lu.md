@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 2. Awarded Excellence in Teaching Awards from the Association of Professors of Gynecology and Obstetrics
 
+<!-- tah-tables:start -->
+## Education
+- Stanford University — B.S. Political Science and Juman Biology
+- UC Berkeley — M.S. Health and Medical Sciences and Public Health
+- UC San Francisco — M.D.
+
+## Employment
+- US Department of Health and Human Services — Present — Director of the Maternal and Child Health Bureau
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

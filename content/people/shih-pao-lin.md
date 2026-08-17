@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Source from Shih-Pao Lin. Posted in 09/2014. For more bio-information, please click link in who’s who: 1102. Shih Pao Lin 林世寶. Exhibited works include: Heavenly Timing, Earthly Advantage, Human Harmony I-V, 51″x51″, Mixed media.
 
+<!-- tah-tables:start -->
+## Education
+- 名古屋藝術大學 — 1992 — B.S.
+- 紐約大學藝術研究所 — 1997 — M.S.
+
+## Employment
+- 專業藝術家
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

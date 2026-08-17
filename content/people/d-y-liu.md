@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist
 - **Source:** TAH Foundation Who’s Who
 
-D. Y. Liu (劉德勇) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1955 — B.S.
+- Pittsburgh University — 1961 — Ph.D.
+
+## Employment
+- Maryland — 高級資深研究員 — 中央研究院生物化學研究所 — 1995-1999 — 所長
+<!-- tah-tables:end -->
 
 ## Family
 

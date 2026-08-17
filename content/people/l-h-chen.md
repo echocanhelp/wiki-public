@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist
 - **Source:** TAH Foundation Who’s Who
 
-L. H. Chen (陳隆旭) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 德國海德堡大學
+- 德國烏茲堡大學 — Ph.D.藥學
+
+## Employment
+- 南非Rhodes大學Lennon藥廠 — 1978 — 研發
+- Gensia
+- Nexstar
+- Medinox藥物研發公司 — 2000
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Sha Lin, a Chinese-American artist, based in New York, has been trying so hard for over decades to develop a new paradigm for his art, perfectly combining the Chinese philosophical thoughts with the Western Presentation techniques.
 
+<!-- tah-tables:start -->
+## Education
+- 台北師範學院 — Year??? — B.A., Art
+
+## Employment
+- Traditional Chinese Medicine practice — Chinese Medicine Practitioner (中醫) — (1988-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 林暉

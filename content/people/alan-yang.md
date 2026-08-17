@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1.Master of None – 2016 Primetime Emmy outstanding writing for a comedy series
 
+<!-- tah-tables:start -->
+## Education
+- Harvard Univ. — B.S., Biology
+
+## Employment
+- NBC sitcom Parks and Recreation — Writer and producer — (2009-2015) — Master of None — Co-creator, writer, director — (2015-2017) — Amazon Forever — Co-creator, writer, director — (2018-2019) — Netflix Tigertail — Director, writer, producer — (2020-2020)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Father:** [[people/peter-yang|Peter Yang]]

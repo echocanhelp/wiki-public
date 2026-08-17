@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Liang-Ping How has been a member of the Orpheus Chamber Orchestra since 1980. He has toured extensively throughout North and South America, Europe and Asia with Orpheus and many other ensembles.
 
+<!-- tah-tables:start -->
+## Education
+- Curtis Institute of Music
+
+## Employment
+- Orpheus Chamber Orchestra — Soloist and Chamber Musician — (1980-) — Santa Fe Opera Orchestra in New Mexico — Second Principal Violinist — Santa Fe Opera Orchestra — Member
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

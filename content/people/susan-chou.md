@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Susan Chou (周淑慧牧師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台南神學院 — 神學
+- Fuller Theological Seminary — 教牧博士
+
+## Employment
+- 柑縣台福教會 — 1982 — 創立人及前主任牧師
+- 普世豐盛生命中心 — 1996 — 創立人
+<!-- tah-tables:end -->
 
 ## Family
 

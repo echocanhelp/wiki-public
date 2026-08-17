@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of Philadelphia Branch of Taipei Medical University Alumni Association
 
+<!-- tah-tables:start -->
+## Education
+- Taipei Medical Univ. — 1960-1966 — M.D.
+
+## Employment
+- St. Mary's Medical Center — Pathologist; Deputy Director of Emergency Dept. — Drexel Univ. — Visiting Assistant Professor — Thomas Jefferson Univ. — Visiting Assistant Professor — Philadelphia area (Family Practice)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Daughter:** Gloria (佩利)

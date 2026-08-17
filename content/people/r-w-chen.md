@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-R. W. Chen (陳瑞玟) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 南卡羅萊納大學 — 1987 — B.S.
+- 西北大學 — 1988 — M.S.鋼琴演奏
+- 西北大學 — Ph.D. 鋼琴演奏
+
+## Employment
+- Georgia Perimeter College音樂廳 — Teaching
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,11 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-M. L. Tong (湯銘倫) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台大醫學院 — B.S.
+<!-- tah-tables:end -->
 
 ## Family
 

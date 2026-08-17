@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Prof. Tsan-Iang Chuang 莊燦陽教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Normal Univ. — 1951-1955 — B.S., Botany
+- National Taiwan Univ. — 1955-1957 — M.S., Botany
+- Univ. of California at Berkeley — 1962-1966 — Ph.D., Botany
+
+## Employment
+- Institute of Botany, National Academia Sinica — Assistant Researcher — (1959-1962) — University of Rhode Island (Kingston) — Assistant Professor — (1966-1966) — Central Illinois State University (Normal) — Assistant Professor, Associate Professor (1972), Professor (1977) and Director of the Herbarium — (1967-1994)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 許惠美

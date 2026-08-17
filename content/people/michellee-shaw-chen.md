@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Michellee Shaw Chen (陳美真理) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Washington University. St. Luis, MO — 1992 — B.S. 英語&生物
+- Univ. of Virginia Medical School — 2001 — M.D. Ph.D.醫學&哲學 Cell Biology
+
+## Employment
+- Univ. of Colorado — 2002 — 住院醫師
+- East Bay Perinatal Medical Associate — Present — OBGYN Hospitalist
+- Alameda Health System — Present — OBGYN Hospitalist
+<!-- tah-tables:end -->
 
 ## Family
 

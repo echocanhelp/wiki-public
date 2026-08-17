@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Source from 美國台美會計師協會http://tacpas.org/wp-content/uploads/2014/12/TACPA-Brochurer-2005.pdf
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1975-1979 — B.A., Accounting
+
+## Employment
+- First Interstate Bank — Internal Audit — (1981-1984) — Development Bank of Singapore — Account Officer — (1984-1986) — Conant, Nelson & Conant, Ltd. — Auditor — (1991-1995) — Nevada Real Estate Corp — Owner — (1995-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

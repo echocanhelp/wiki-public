@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 3. One of the originators of Formosar Chriotion for Self Determination (台灣人民自決運動發起人之一) 1973
 
+<!-- tah-tables:start -->
+## Education
+- 台南神學校 — 1930
+
+## Employment
+- 台灣基督長老教會 — 1957 — 總幹事
+- 紐約恩惠歸正教會 — 1972
+- 加州柑縣牧會台語教會 — 1976
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 林蘭玉

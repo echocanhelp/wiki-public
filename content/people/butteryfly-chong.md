@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Born in Malaysia, Choral Conductor Butterfly Chong 張翠蝶 moved to Taipei, Taiwan where she received her Bachelor of Music in voice performance from the National Taiwan Normal University. Immediately after graduating from NTNU, she spent eight years teaching high school music in Taipei. In 1992, Butterfly relocated to Huntsville, Texas and completed a Kodály Certificate and her Master of Music degree in choral conducting at Sam Houston State University.
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Normal University — B.S. Voice performance
+- Sam Houston State University — M.s. Choral conducting
+
+## Employment
+- Taiwanese-American and Tonghua choirs — Director
+- Gloria Star children’s choir — Director
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

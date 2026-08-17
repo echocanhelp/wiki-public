@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Co-established the Lai Ho & Wu Cho-liu Endowed Chair in Taiwan Studies at UCSB(台灣研究-賴和與吳濁流講座教授) 2004
 
+<!-- tah-tables:start -->
+## Education
+- National Tsing Hua Univ. — B.S.
+- Univ. of Wisconsin Madison — Ph.D., Nuclear Eng.
+
+## Employment
+- Research Scientist, Fusion Energy Technology Programs — Community — Taiwanese American Foundation of San Diego / Taiwanese American Community Center (TACC) — Key Co-founder — Taiwanese American Foundation of San Diego — Board Member (聖地牙哥台美基金會董事) — TACC Culture and History Lecture Series — Founder and Chair — Formosan Association for Human Rights — Secretary
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** [[people/shu-ching-cheng|賴淑卿]]

@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Dr. Po-Fang (Philip) Hsieh 謝伯芳博士 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1953-1957 — B.S., Mathematics
+- Univ. of Minnesota — 1959-1961 — M.S., Mathematics — 1961-1964 — Ph.D., Mathematics
+
+## Employment
+- Western Michigan Univ. — Assistant Professor; Associate Professor; Professor; Professor Emeritus — (1964-2000) — Math Research Center, Univ. of Wisconsin — Visiting Associate Professor — (1968-1968) — Math Department, UCLA — Visiting Associate Professor — (1969-1969) — U.S. Naval Research Laboratory, Mathematics Research Center — Research Mathematician — (1970-1971)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Emmy H. (蘇惠美)

@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-R. C. Chen (陳瑞珠) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 實踐大學(前身實踐家專) — B.S.
+
+## Employment
+- 成立YCM公司 — President
+- 成立All Seasons公司 — President
+<!-- tah-tables:end -->
 
 ## Family
 

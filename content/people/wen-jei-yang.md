@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Honorary Professor of the Dept. of Mechanical Engineering and Dept. of Biomedical Engineering
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1954 — B.S., Mechanical Engineering
+- Univ. of Michigan, Ann Arbor — 1956 — M.S., Mechanical Engineering — 1960 — Ph.D., Mechanical Engineering
+
+## Employment
+- Univ. of Michigan, Ann Arbor — Honorary Professor of the Dept. of Mechanical Engineering and Dept. of Biomedical Engineering — (2002-) — Community — Ann Arbor Taiwanese Church — Founder
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 陳月姿

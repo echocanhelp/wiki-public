@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Born in Taipei, Taiwan, Linda began piano lessons at the age of four. A few years later, she relocated to the U.S. with her mother and brother and continued with her piano studies. She holds a Doctorate of Musical Arts degree in Piano Performance as well as a M.M. from the University of Missouri-Kansas City, Conservatory of Music. She received her B.M. degree from the Eastman School of Music. Belonging to various musical organizations, she serves on the executive board in the Kansas City Music Teachers Association, and is currently the District Director of the professional music fraternity, Mu Phi Epsilon. Linda has been teaching privately for over 15 years and currently maintains a full private studio of differing ages and levels.
 
+<!-- tah-tables:start -->
+## Education
+- Eastman School of Music in Rochester, NY — 2000 — BM Music
+- University of Missouri—Kansas City — 2004 — MM Music
+- University of Missouri—Kansas City — 2009 — DMA Music
+
+## Employment
+- Linda Chen Piano Studio — 2000 - present — Piano Teacher
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

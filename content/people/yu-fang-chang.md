@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Ms. Chang received her Doctor of Musical Arts from Boston University and has extensive performing and teaching experience. She has been selected the winner of numerous Cello competitions in Taiwan (in 1992, 1993, 1999 and 2001) and 2007, she was one of the Winners of the audition for the Forum Music Concert series organized by the Department of Cultural Affairs in Taiwan. Yu-Fang continued with her performances as a cellist for distinguished musical group such as Boston Civic Symphony Orchestra, Newton Symphony Orchestra, Waltham Symphony Orchestra, the National Orchestral Institute, Silicon Valley Philharmonic at the venues such as Boston Symphony Hall, Town Hall, and Carnegie Hall, New York, or as a soloist in many recitals.
 
+<!-- tah-tables:start -->
+## Education
+- National Taipei University of Arts — B.S.
+- Boston University — M.M.
+- Boston University — D.M.A.
+
+## Employment
+- Jou Music Institute — present — teaching
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

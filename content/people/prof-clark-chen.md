@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Associate Professor of Neurosurgery, Vice Chair of Research and Academic Development
 
+<!-- tah-tables:start -->
+## Education
+- Stanford Uni. — B.S., Biology
+- Columbia Univ. — M.S., Epidemiology
+- Harvard Medical School — Ph.D.
+
+## Employment
+- The University of California, San Diego School of Medicine (UCSD) — Associate Professor of Neurosurgery, Vice Chair of Research and Academic Development — (-2015) — The University of Minnesota Medical School — Head of Department of Neurosurgery — (2017-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

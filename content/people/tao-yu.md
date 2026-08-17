@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 Tao Yu 余道昌, the highly acclaimed concert violinist, has performed in recitals and concerto concerts across three continents since the age of twelve. Tao came to the United States from his native Taiwan on full scholarship from the Evergreen Foundation to study at the Peabody Preparatory and later at the Peabody Conservatory and Johns Hopkins University in Violin Performance and Electrical Engineering. He began violin study with Dr. Shiao-Jun Ma (father and teacher of the renowned cellist Yo-Yo Ma) at the age of four. He has won prizes at the Taipei International Violin Competition, the American Young Artists Competition, Young Artist Guild Competition, the Marbury Violin Competition, the Yale Gorden Concerto Competition, and the Silbelius International Violin Competition.
 
+<!-- tah-tables:start -->
+## Education
+- 馬里蘭州約翰霍普金斯大學Peabody音樂學院 — 1995 — B.S. Music
+- 馬里蘭州約翰霍普金斯大學Peabody音樂學院 — 1996 — M.S. Music
+- 馬里蘭州約翰霍普金斯大學Peabody音樂學院 — 1998 — Ph.D. Music
+
+## Employment
+- 馬里蘭大學 — 2003 — 教授
+- Peabody音樂學院及Juilliard音樂學院 — 2003- — 先修班客座教授
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. A Critically Acclaimed Cookbook & Recipe Author, One of the Best Baking Cookbooks of 2016 by New York Times
 
+<!-- tah-tables:start -->
+## Education
+- Washington Univ.in St. Louis — 1995 — B.A., English Literature
+
+## Employment
+- Eat the Love — Owner & Founder — (1999-2012) — Studio Propaganda — Cofounder — (2008-) — Better World Advertising — Art Director — (2003-2007) — Archer Design — Senior Designer — (1999-2001) — Contemporary Art Museum St. Louis — Gallery Assistant — (1996-1998)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Father:** 林天送

@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
-Samuel Wu (吳德聖牧師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 長老教台南神學院
+
+## Employment
+- 台灣屏東長老教會 — 傳道師
+- 美國北加州舊金山教會 — 牧師
+- 加州台福愛恩基督教會 — 開拓及主任牧師
+- 台福總會 — 總幹事
+- 福神學院 — 兼任教師
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Awarded “Early Career Award” by American Psychological Association, 2011
 
+<!-- tah-tables:start -->
+## Education
+- UC Riverside — 1994 — B.A., Psychology
+- Boston College — 1996 — M.A., Counseling Psychology
+- Alliant International Univ. — 2002 — Ph.D., Clinical Psychology
+
+## Employment
+- CSPP-LA — Associate Professor, Instructor — (2008-) — Alliant International University — Associate Professor, Professor — (2008-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

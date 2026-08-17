@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Established The Sports Medicine Center at Kaohsiung Chang-Gung Memorial Hospital in December of 2001
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. College of Medicine (臺灣大學醫學院醫學系) — 1965 — M.D.
+
+## Employment
+- Kaohsiung Chang Gung Memorial Hospital (高雄長庚紀念醫院) — Dean; Board of Directors — (1997-2003) — Chang Gung Univ. College of Medicine — Clinical Professor
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Chu-Hue

@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 1. “Multiple Minima in a Fluidized Reactor-Heater System,” AIChE Journal, Vol. 22, No. 4, 1976.
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1953-57 — B.S., Chemical Eng.
+- Kansas State Univ. — 1959-61 — M.S., Chemical Eng.
+- Kansas State Univ. — 1973-77 — Ph.D., Chemical Eng.
+
+## Employment
+- Tri-State Univ. Angola, IN. — 1968-73 — Professor
+- Gilbert /Commonwealth Inc., Reading, PA — 1977-95 — Chemical Eng./Consultant
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Maki Chen

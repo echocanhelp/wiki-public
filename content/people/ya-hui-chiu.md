@@ -19,7 +19,19 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur, scientist
 - **Source:** TAH Foundation Who’s Who
 
-Ya-hui Chiu (邱雅惠博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S. Physics
+- Yale University — M.S. Physics
+- Yale University — Ph.D. Physics
+
+## Employment
+- Yale University — 1979-1981 — post-doctor fellow
+- Bell Laboratory — 1981-1983 — Member of technical staff
+- Western Union — 1983-1989 — Senior Engineer
+- Asia Satellite Telecomunications — 1989-2011 — CEO
+<!-- tah-tables:end -->
 
 ## Family
 

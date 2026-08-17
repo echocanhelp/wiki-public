@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Jien-Hua (Charles) Chuang 莊峻華 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- Taiwan Normal Univ. (師範大學) — BS
+- Auburn Univ., Alabama — MS/Chemistry
+
+## Employment
+- NASA — Environmental Health Laboratory Chemical Analyst — Travel Agency — Owner — (1981-) — Insurance Agent — Community — Taiwanese American Association, Houston Chapter — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Amy (惠美)

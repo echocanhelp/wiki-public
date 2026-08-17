@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, professor
 - **Source:** TAH Foundation Who’s Who
 
-Ching-Nan Ou (歐清南) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 中興大學 — B.S. 農化
+- Texas Tech University — Ph.D.化學
+
+## Employment
+- Baylor College of Mdecine, Houston, TX — 1980- — 病理系教授
+- Clinical Chemistry at Texas Children's Hospital, Houston — Director
+<!-- tah-tables:end -->
 
 ## Family
 

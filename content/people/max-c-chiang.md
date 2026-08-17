@@ -19,7 +19,13 @@ last_reviewed: 2026-08-17
 - **Core roles:** lawyer
 - **Source:** TAH Foundation Who’s Who
 
-Max C. Chiang (江建祥博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 國立政治大學 — B.A. Laws
+- 國立政治大學 — M.A. Laws
+- McGeorge School of Law, Univ. of the Pacific — J.D. Laws
+<!-- tah-tables:end -->
 
 ## Family
 

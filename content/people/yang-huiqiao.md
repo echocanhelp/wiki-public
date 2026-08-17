@@ -19,7 +19,7 @@ last_reviewed: 2026-08-17
 
 - **English:** Yang Huiqiao
 - **Chinese:** 楊惠喬
-- **Core roles:** Activist, Taiwan independence advocate
+- **Core roles:** journalist
 - **Geography:** Los Angeles, California
 - **TAHS role:** Community leader
 
@@ -49,6 +49,14 @@ Yang Huiqiao's dedication to Taiwan independence has inspired generations of Tai
 - [TAH #169 encyclopedia: 169. Catherine Yang 楊惠喬](https://taiwaneseamericanhistory.org/169-catherine-yang/)
 - [TAH #609 encyclopedia: 609. Catherine Yang 楊惠喬](https://taiwaneseamericanhistory.org/whos-who-609-catherine-yang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/catherine-yang/)
+
+<!-- tah-tables:start -->
+## Education
+- National Tainan Girl's Senior High School
+
+## Employment
+- Taiwan Tribune (台灣公論報社) — President — (1996-) — Community — Taiwanese Human Rights and Cultural Association, Southern California (南加州人權會) — President — Taiwanese American Foundation (台美基金會) — Editor in Chief, Annual Journal
+<!-- tah-tables:end -->
 
 ## Family
 

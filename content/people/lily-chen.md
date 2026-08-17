@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Lily Chen (陳佳俐) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- The City College of New York — B.A., Graphic Communications
+
+## Employment
+- Keller Williams Valley Realty — Agent
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -21,6 +21,18 @@ last_reviewed: 2026-08-17
 
 Experimental vocalist, composer,multi-instrumentalist, dancer, andproducer, 2014 Doris DukeImpactAward recipient and Fulbright Scholar
 
+<!-- tah-tables:start -->
+## Education
+- 史丹佛大學 Stanford University — 聲樂表演
+- 英國牛津大學進修
+- 奧地利Mozarteum
+- New York Lake Plaza Institute5.La Escuela Nacional De Arte,Havana, Cuba
+- National Gugak Center, Seoul, SouthKorea
+
+## Employment
+- Experimental vocalist, composer,multi-instrumentalist, dancer, andproducer, 2014 Doris DukeImpactAward recipient and Fulbright Scholar
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

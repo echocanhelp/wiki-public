@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. The 35th Ten Outstanding Young People of the International Youth Chamber of Commerce of the Republic of China (國際青年商會中華民國總會第35屆十大傑出青年) 1997
 
+<!-- tah-tables:start -->
+## Education
+- Harvard Univ. — B.A., Psychology, English & American Literature
+
+## Employment
+- San Francisco Chronicle — "Asian Pop" Columnist — The Wall Street Journal — "Tao Jones" Columnist — A Magazine — Publisher — (1989-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Son:** Hudson, Skyler

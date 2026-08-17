@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, scientist
 - **Source:** TAH Foundation Who’s Who
 
-K. L. Hung (洪基隆博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 成功大學 — B.S.化學
+- 德州大學El Paso — M.S.化學
+- 加州柏克萊大學 — Ph.D.化學
+
+## Employment
+- 加州大學舊金山分校癌症研究中心微脂體研究實驗室 — 研究員
+- 台灣微脂體公司 — 1997- — 董事長
+<!-- tah-tables:end -->
 
 ## Family
 

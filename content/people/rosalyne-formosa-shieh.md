@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Rosalyne Formosa Shieh 謝泊欣 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- 柏克萊大學 — B.S.建築系 — 倫敦大學巴特蕾學院 — M.S. — 普林斯頓大學 — M.S. 建築研究所
+
+## Employment
+- Schaum/Sheih紐約建築師事務所 — Director
+- 雪城大學
+- 柯伯聯盟學院
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Father:** [[people/ching-sze-hsieh|謝清志博士]]

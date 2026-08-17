@@ -24,6 +24,16 @@ Employment
 2012-present
 Special Projects & General Assignment Reporter
 
+<!-- tah-tables:start -->
+## Education
+- Northwestern University — 2007 — B.S. Journalism
+
+## Employment
+- NBC News Bay Area — 2012-present — Special Projects & General Assignment Reporter
+- NBC News — 2011-2012 — Freelance Reporter
+- CBS News — 2007-2008 — Freelance Reporter
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

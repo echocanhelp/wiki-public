@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Founding Member and President of East Tennessee Taiwanese American Association (1975; 1976-1977)
 
+<!-- tah-tables:start -->
+## Education
+- Taiwan University — 1971 — BS Physics — University of Tennessee — 1974 — MS Physics — University of Tennessee — 1977 — PhD Physics
+
+## Employment
+- University of Iowa — 1978 - 1981 — Postdoc Associate — Lockheed Martin — 1982 - 2011 — Principal Engineer
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

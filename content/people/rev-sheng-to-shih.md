@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Rev. Sheng-To Shih (施聖導牧師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Tainan Theological College & Seminary (台南神學院) — M. Div.
+- San Francisco Theological Seminary — Ph.D.
+
+## Employment
+- Chiayi Friendly Church (嘉義友愛教會) — Pastor — Boston Taiwanese Christian Church (波士頓台灣基督教會) — Pastor — Seattle Taiwanese Lutheran Church (西雅圖台灣人信義會) — Pastor
+<!-- tah-tables:end -->
 
 ## Family
 

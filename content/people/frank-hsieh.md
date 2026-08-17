@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-08-16
+last_reviewed: 2026-08-17
 name_en: "Frank Hsieh"
 ---
 # Frank Hsieh (謝長廷)
@@ -28,6 +28,16 @@ name_en: "Frank Hsieh"
 - **Hub:** [[sources/taiwanjustice-net|taiwanjustice.net source hub]]
 - **Primary org:** [[organizations/taiwanjustice-net|taiwanjustice.net (台灣公義網)]]
 - **Do not invent:** No birth data, family, or private contact on this page
+
+<!-- tah-tables:start -->
+## Education
+- 國立藝術學院 — B.S.
+- Arizona State University — M.S.鋼琴演奏
+- University of Southern California Thronton School of Music — Ph.D.鋼琴演奏
+
+## Employment
+- 交通大學音樂研究所 — 教授
+<!-- tah-tables:end -->
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/frank-hsieh/)

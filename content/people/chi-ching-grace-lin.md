@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Taiwanese percussionist Chi-Ching Grace Lin maintains a varied chamber music and orchestra career in New York city area. Chi-Ching has performed with Dicapo Opera, the Metropolitain Opera Orchestra, Teatro Grattacielo Opera, National Choral, Binghamton Philharmonic, Riverside Symphony, New York Asian Symphony Orchestra, New Amsterdam Orchestra, West Field Symphony Orchestra, Colonial Symphony, Park Chamber Symphony Orchestra, Centre Symphony Orchestra, Metro Chamber Orchestra in venues such as Lincoln Center, Carnegie Hall, Merkin Hall, Version Hall in Philadelphia, Washington DC, New Jersey, Honk Kong, China and Japan. As soloist Chi-Ching was feature as marimba soloist in Day of Percussion Festival in NYC in 2001 and 2002 and also obtained the excellent performance of chamber ensemble award. In 2008 Chi-Ching premiered Andrew Beall’s percussion concerto at Lincoln center with CYCNY. She also can be found on Andrew Beall’s solo percussion album “Deliverance”. As chamber musician, Chi-Ching has appeared with the Talujon Percussion group, Tam Dun Percussion group and 20th Century Contemporary Ensemble. Chi-Ching received her Master’s degree and Professional Studies Diploma from Quee
 
+<!-- tah-tables:start -->
+## Education
+- 紐約市立大學 — M.S.打擊演奏
+
+## Employment
+- 打擊樂家
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

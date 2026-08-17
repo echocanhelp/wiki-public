@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Chun Long (Jerry) Tsung 曾俊隆 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — M.S.
+- 愛因斯旦醫學院 — year
+
+## Employment
+- Poughkeepsie,St Francis Hostipital — -2000 — Doctor
+- 愛因斯旦醫學院所屬醫院 — 住院醫師
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Daughter:** Patricia A. Tsung曾毓安

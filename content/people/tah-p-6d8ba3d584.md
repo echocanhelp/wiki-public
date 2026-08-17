@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-%E7%8E%8B%E4%Ba%Ba%E7%B4%80 (王人紀) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台南一中 — 1950 — 2.
+
+## Employment
+- 台灣獨立建國聯盟 — 1967 — 黨主席 — 2.
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 Rev. Prof. Joseph Wang 王守仁牧師 教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.S., Electrical Engineering
+- Asbury Theological Seminary — M. Div.
+- Princeton Theological Seminary — Th. M.
+- Emory Univ. — Ph. D., New Testament Studies
+
+## Employment
+- Asbury Theological Seminary — Professor of New Testament; Chair of the New Testament Dept. — (1970-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

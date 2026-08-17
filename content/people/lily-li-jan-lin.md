@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 台灣臺中縣人，1982年畢業於台灣國立師範大學音樂系，主修聲樂，副修鋼琴。並於 1987年進入師大音樂敎育研究所。曾致力於國民中小學音樂敎育及培養師資，執敎師範 學院音樂系共歷14載。於1990年來美定居於橙縣芳泉谷。來美後多次獨唱演出頗獲嘉評 肯定。近歷指揮敎導＂爾灣青少年合唱團＂、＂南橙縣婦女合唱團＂並任職於爾灣中文學 校合唱團指揮。
 
+<!-- tah-tables:start -->
+## Education
+- 國立師範大學 (National Taiwan Normal University) — Bachelor of Music, major in Vocal Performance, minor in Piano — (1982) — 國立師範大學音樂敎育研究所 (National Taiwan Normal University, Graduate Institute of Music Education) — Graduate study in Music Education — (1987)
+
+## Employment
+- 師範學院音樂系 (Teachers College, Music Department) — Faculty — 爾灣青少年合唱團 (Irvine Youth Chorus) — Conductor — 南橙縣婦女合唱團 (South Orange County Women's Chorus) — Conductor — 爾灣中文學校合唱團 (Irvine Chinese School Chorus) — Conductor — 師範學院音樂系 (Teachers College Music Department) — Music Faculty — 爾灣青少年合唱團 (Irvine Youth Choir) — Conductor
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

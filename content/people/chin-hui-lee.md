@@ -24,6 +24,16 @@ Employment
 2015
 Professor
 
+<!-- tah-tables:start -->
+## Education
+- 國立台灣大學 — 1973 — B.S. Electrical Engineering
+- Yale University — 1977 — M.S. Engineering & Applied Science
+- University of Washington — 1981 — Ph.D Electrical Engineering
+
+## Employment
+- School of Electrical and Computer Engineering, Georgia Institute of Technology. — 2015 — Professor
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-William Chung (鍾桂榮博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.A., Economics — 2. — Ph.D., Economics
+
+## Employment
+- 1. — Professor
+- 聯邦政府 — 國際經濟專員
+<!-- tah-tables:end -->
 
 ## Family
 

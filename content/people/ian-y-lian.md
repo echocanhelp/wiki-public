@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Ian Y. Lian is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- UCSD — 1999 — B.S. Bioengineering
+- UCSD — 2004 — M.S. Bioengineering
+- UCSD — 2007 — Ph.D. Bioengineering
+
+## Employment
+- Department of Biology, Lamar University — 2013-present — Assistant Professor
+<!-- tah-tables:end -->
 
 ## Family
 

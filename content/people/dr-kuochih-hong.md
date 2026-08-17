@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 3. Inventor of world 1st Commercial Nickel Metal Hydride Battery Materials (ECD/OBC batteries), 1982-1985
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Normal Univ. — 1961-1965 — B.S., Chemistry
+- Tsing Hua Univ. — 1967-1969 — M.S., Atomic Science
+- Univ. of Chicago — 1971-1975 — Ph.D., Chemistry
+
+## Employment
+- Brookhaven National Laboratory — Associate Scientist, Energy Research — (1977-1980) — Energy Conversion Devices (ECD) — Hydride Research/Manager — (1980-1986) — Hong Enterprise — Founder — (1986-) — Taiwanese Energy Technology — Co-founder — (1989-1998) — RCI Corp. — Executive Vice President — (1994-1996) — Tsing Hua University — Adjunct Professor — (1990-1992) — Wayne State University / Oakland Community College — Adjunct Faculty — (2009-2013) — Community — Taiwanese American Association, Detroit Chapter — President (1984, 2008, 2019) — Taiwanese Summer Conference, Midwest Region — Coordinator (1984)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 簡慧齡

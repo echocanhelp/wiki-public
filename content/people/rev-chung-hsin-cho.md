@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Rev. Chung Hsin Cho (卓忠信牧師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Chengchi Univ. (政治大學) — M.A., Chinese
+- Westminster College — Theological Seminary
+
+## Employment
+- Annlok Church (安樂教會) — Pastor — Taiwanese Grace Church (費城台灣感恩教會) — Pastor
+<!-- tah-tables:end -->
 
 ## Family
 

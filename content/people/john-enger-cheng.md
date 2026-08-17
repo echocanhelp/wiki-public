@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Artist, Designer and Illustrator Who Mixes Classical Art Techniques with Modern Aesthetics
 
+<!-- tah-tables:start -->
+## Education
+- Univ. of Southern California Roski School — 2009 — B.S., Art
+
+## Employment
+- USC — Director of Design Dept. — Winnow+Glean — Graphic Designer & Co-Founder
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Father:** [[people/simon-cheng|鄭良光]]

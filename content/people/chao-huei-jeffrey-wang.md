@@ -21,6 +21,20 @@ last_reviewed: 2026-08-17
 
 Chao-Huei (Jeffrey) Wang 王肇輝 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Cheng Kung Univ. — 1966 — B.S., Chemistry
+- University of Nebraska- Lincoln, NE — Year 1970 — M.S., Organic Chemistry
+- University of Nebraska- Lincoln, NE — Year 1974 — Ph. D., Organic Chemistry
+- Amherst College — 1973-77 — Postdoctoral research
+
+## Employment
+- Abbott Laboratories — 1977-82 — Research & Development
+- Pandex Laboratories — 1982-87 — Research & Development, Director of Chemistry
+- Baxter Diagnostics (acquired Pandex Laboratories) — 1987-92 — Research & Development, Director of Chemistry
+- Spherotech, Inc. — 1992 — Founder and CEO
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 王黃信惠(Cindy Wang)

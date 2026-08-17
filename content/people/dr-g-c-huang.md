@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 National University of Singapore
 Director of Multimedia and Communication Institute, School of System Engineering
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Normal Univ. (國立臺灣師範大學) — B.S., Mathematics
+- Univ. of Illinois — M.S., Mathematics
+- Massachusetts Institute of Technology — Ph.D., Electrical Engineering and Computer
+
+## Employment
+- National University of Singapore — Director of Multimedia and Communication Institute, School of System Engineering — SingaLab — President — (1992-) — TASKCo (太世科電子商務公司) — President — (1999-) — IBM — Vice President — Infinity Global Inv. Inc. — Chairman — National Taiwan Normal University (國立臺灣師範大學) — Principal — (2004-2005)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

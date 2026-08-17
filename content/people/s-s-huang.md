@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-S.S. Huang (黃申生) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台大醫學院 — M.D. — year — year
+
+## Employment
+- 赤崁骨科外科醫院 — 1954- — 院長
+- 台大醫院 — 1962-1967 — 創建復建科
+- VA Hospital — 1972- — 麻醉科醫師
+- Christ hospital — -1995 — 麻醉科主任
+<!-- tah-tables:end -->
 
 ## Family
 

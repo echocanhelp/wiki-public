@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, scientist
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Tso-Yee Fan (范佐怡博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- M.I.T. — SB, Material Sci. & Eng./ SBEE, Electrical Engineer
+- Stanford Univ. — MS & Ph.D., Electrical Engineer
+
+## Employment
+- MIT Lincoln Laboratory — Associate Group Leader, Senior Staff — (1987-)
+<!-- tah-tables:end -->
 
 ## Family
 

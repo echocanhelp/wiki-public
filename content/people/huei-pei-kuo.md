@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, scientist
 - **Source:** TAH Foundation Who’s Who
 
-Huei Pei Kuo (郭惠沛博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Cornell University — 1975 — Ph.D. Engineering Physics
+
+## Employment
+- HP Labs — 1978-2013 — Scientist ,Principal Scientist
+<!-- tah-tables:end -->
 
 ## Family
 

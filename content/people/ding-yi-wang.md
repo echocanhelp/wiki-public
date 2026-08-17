@@ -19,7 +19,22 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, scientist, physician, professor
 - **Source:** TAH Foundation Who’s Who
 
-Ding Yi Wang (楊定一博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 巴西大學 — B.A.醫學系
+- 洛克菲勒大學 — Ph.D.生化
+- 康乃爾大學 — Ph.D.醫學
+
+## Employment
+- 長庚大學 — present — 董事長
+- 明志科技大學 — present — 董事長
+- 長庚科技大學 — present — 董事長
+- 長庚生物科技 — present — 董事長
+- 美國Inteplast Group — present — 董事長
+- 真原新科學及醫學研究中心 — 創辦人
+- 美國洛克菲勒大學分子免疫及細胞生物學 — 兼任教授
+<!-- tah-tables:end -->
 
 ## Family
 

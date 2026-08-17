@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Born and raised in Vienna, Austria, Hwa-Chow Oliver Hsu began studying cello at age 5 and piano at age 10 and won awards on both instruments in Austria’s national “Jugend Musiziert” youth competition. After moving to the United States, he earned a Bachelor of Arts degree in Computer Science with a minor in Music from Swarthmore College, where he was recipient of the Garrigues Music Scholarship and co-winner of the 2002 Swarthmore College Concerto Competition. He subsequently earned a Master of Music degree from Mannes College of Music in 2007 with a double major in Cello Performance and Music Theory. Mr. Hsu studied cello with Martin Hornstein of the Vienna Schubert Trio and Altenberg Trio, Vivian Barton, Deborah Reeder, and Paul Tobias; in addition, he considers his studies with renowned theorist Carl Schachter and pianist Marcantonio Barone as critical influences in his musical education.
 
+<!-- tah-tables:start -->
+## Education
+- Swarthmore College — 2003 — B.A. Computer Science
+- Mannes College — 2007 — M.M. Cello Performance & Music Theory
+
+## Employment
+- Tradeweb — 2007-present — Software engineer
+- Bryn Mawr Conservatory — 2003-2011 — Cello & Theory Teacher
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** N/A

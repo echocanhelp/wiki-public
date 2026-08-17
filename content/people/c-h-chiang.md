@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-C. H. Chiang (蔣政宏博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 成功大學 — B.S.
+- Texas A & M University — Ph.D.工程
+
+## Employment
+- Nextek Inc — present — Co-funder
+- Unisys, DEC, Intergraph — 資深工程經理,資深顧問
+- VirginiaTech大學 — Professor
+<!-- tah-tables:end -->
 
 ## Family
 

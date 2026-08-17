@@ -22,6 +22,11 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of North America Taiwanese Women’s Association (NATWA) (北美洲臺灣婦女會會長) 2014~15
 
+<!-- tah-tables:start -->
+## Employment
+- North America Taiwanese Women's Association (NATWA) — President — (2014-2015) — North America Taiwanese Women's Association (NATWA) / Greater San Diego Chapter — President — (2008-2008) — Taiwanese American Foundation of San Diego — Executive Director — San Diego Taiwan Community Center — Director
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** 林繁男

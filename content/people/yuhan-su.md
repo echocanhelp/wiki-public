@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 In many ways, Yuhan Su represents the voice of the new generation of jazz musicians. Though she is firmly rooted in jazz tradition, her music is innovative, emotional, cerebral and most importantly, always lyrical. Her compositions and improvisations are uniquely hers, marked with an amalgamation of complexity, intensity and emotional resonance. And though she is capable of blistering technique, she always maintains a sense of melodic lyricism and wonder in her playing.
 
+<!-- tah-tables:start -->
+## Education
+- 台北藝術大學 — 2008 — 管絃與擊樂研究所
+- Berklee College of Music — 2011
+
+## Employment
+- Vibraphonist, Marimbist, Composer, Arranger
+- 朱宗慶打擊樂團二團之躍動打擊樂團
+- Inner Circle Music — musician
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

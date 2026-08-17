@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Hui Na Lin (賴慧娜) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.S., Library Science
+- State University of New York — 1973 — M.S., Library and Information Science
+
+## Employment
+- National Taiwan University — Librarian — National Tsing Hua University Library — Participate in library automation — Medical Information Management (part time) — Community — Taiwanese American Pen Club (台美人筆會) — President — TAA-ESGV (聖東台灣同鄉會) — President — FAPA Los Angeles Chapter (FAPA洛杉磯分會) — President — TACL Los Angeles Chapter (台美公民協會洛杉磯分會) — President
+<!-- tah-tables:end -->
 
 ## Family
 

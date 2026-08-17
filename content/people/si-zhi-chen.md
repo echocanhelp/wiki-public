@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Si-Zhi CHEN was born in Shilin, Taipei in 1911. He attended Tamsui Senior High School and Taiwan Theological College and Seminary. He studied piano with Minister Wu Wei-Lian and Ms. De Ming-Li. He went to Japan in 1934 to study composition at Tokyo Union Theological Seminary. His compositions are full of patriotism, nationalistic fervor and obvious rural characteristics. After returning to Taiwan, he served as headmaster at Tamkang Senior High School for 25 years. Chen was both a Chinese musician and a Chinese music educator. He devoted his life to education. The renowned Taiwanese composer Lü Quan-Sheng called him “a master of all masters.” He passed away in the US in 1992.
 
+<!-- tah-tables:start -->
+## Education
+- 台灣神學院 — 1930-1934
+
+## Employment
+- 淡江中學 — 1952-1954 — 校長
+- 純德女子學校 — 1955-1980 — 校長
+- 啟師
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 劉淡梅

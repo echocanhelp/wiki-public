@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of East Bay Taiwanese Association 1977, 1979, 1981, 1983, 1986
 
+<!-- tah-tables:start -->
+## Education
+- Tainan Institute of Technology (台南工學院;成大前身) — 1952-1956 — B.S., Civil Engineer
+- West Virginia Univ. — 1965-1967 — M.S., Civil Engineer
+
+## Employment
+- Taiwan Electric Co. — Engineer — (1958-1963) — Bechtel Engineer Co. — Civil Engineer — (1968-1977) — Terrace Motel — Owner — (1976-1997) — Community — East Bay Taiwanese Association — President (1977, 1979, 1981, 1983, 1986) — Taiwanese American Federation of Northern California — President (1981, 1988) — Taiwan Christian Church in East Bay, Northern California — Founder
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Jane (楊鸞鳳)

@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 2. Curator Emeritus of Zoology, Univ. of Colorado Museum, Univ. of Colorado at Boulder (科羅拉多大學波德博物館動物館館長) 1973-1999
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Normal Univ. — B.S., Biology
+- Univ. of Michigan — M.D. — Ph.D.
+
+## Employment
+- Institute of Zoology, Academia Sinica — Academic Advisory Committee — (1991-2000) — University of Colorado Museum Zoological Hall — Curator, Professor — University of Colorado Boulder — Professor Emeritus — (1973-) — Community — North America Taiwanese Professors' Association — President — Taiwanese Association of Colorado — Founding President — Taiwanese School for Taiwanese Association of Colorado, Denver — Principal — Plains Fall Conference, Estes Park, Colorado (3rd) — Coordinator — FAPA-Colorado Chapter — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Ching Chen (張錦貞)

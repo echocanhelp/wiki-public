@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Edwyn Charles (Eddie) Huang 黄颐銘 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- Rollins College — 2001-2004 — B.S., English&Film
+- Cardozo School of Law (Yeshiva Univ.) — 2008 — J.D.
+
+## Employment
+- Baohaus Restaurant — Founder and Owner — (2009-) — Cheap Bites TV Show on Cooking Channel — Host — (2011-) — Snack-Off competitive cooking show — Host — (2014-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Father:** Louis Huang

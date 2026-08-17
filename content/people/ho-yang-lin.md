@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** journalist
 - **Source:** TAH Foundation Who’s Who
 
-Ho Yang Lin (楊千鶴) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台北女子高等學院
+
+## Employment
+- 台灣日日新報社 — 1941- — 記者
+<!-- tah-tables:end -->
 
 ## Family
 

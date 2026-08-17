@@ -23,6 +23,20 @@ last_reviewed: 2026-08-17
 -
 Ph.D. Hydrology, Hydraulics and Water Resources Engineering
 
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S. Civil Engineering
+- University of Missouri, Columbia — M.S. Fluid Mechanics and Hydraulics
+- Princeton University — Ph.D. Hydrology, Hydraulics and Water Resources Engineering
+
+## Employment
+- University of Puerto Rico, Old — Dominion University — professor
+- Virginia Tech — 1970-1991 — professor
+- Penn State University in State College — 1991-1996 — Head of Civil and Environmental Engineering
+- Wayne State University in Detroit — 1996-2001 — Dean of Engineering
+- Cleveland State University — 2001-2006 — professor
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 陳娟娟

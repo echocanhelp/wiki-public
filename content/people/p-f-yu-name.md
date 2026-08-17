@@ -19,7 +19,12 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-P. F. Yu Name (喻鵬飛) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S. 電機
+- 加州大學洛杉磯分校 — M.S. 電機
+<!-- tah-tables:end -->
 
 ## Family
 

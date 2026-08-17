@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 2. Recipient of Many Accolades: The Finalists in the CFDA/Vogue Fashion Fund in July 2008, The Swarovski Award for Womenswear at the CFDA Fashion Awards 2010, The CFDA/Swarovski Award for Accessory Design 2011, The Fashion Star Award at The Fashion Group International Night of Stars 2015 & The 2016 International Designer of Year at the Canadian Arts & Fashion Awards
 
+<!-- tah-tables:start -->
+## Education
+- Parsons The New School for Design — B.A.
+
+## Employment
+- Integrity Toys — Doll Clothing Designer and Creative Director — Hugo Boss — Art Director — (2013-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Father:** 吳昆民

@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of Taiwanese American CPA Association (TACPA) (美國台美會計師協會會長), 1996-1998
 
+<!-- tah-tables:start -->
+## Education
+- Soochow Univ. (東吳大學) — B.A., Accounting
+
+## Employment
+- Wu, Liang & Huang, CPAs LLP — President — AHMC (美國仁愛醫療集團) — Vice Chairman — Community — Taiwanese American CPA Association (TACPA) (美國台美會計師協會) — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Amy (江秀葉)

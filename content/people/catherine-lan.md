@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** artist, educator
 - **Source:** TAH Foundation Who’s Who
 
-Catherine Lan (藍巧茹) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 法國國立高等美術院 — B.S.造型藝術
+- Yale University — 2009 — MFA藝術
+
+## Employment
+- Canter for arts Education — 2011-present — Teaching artist
+<!-- tah-tables:end -->
 
 ## Family
 

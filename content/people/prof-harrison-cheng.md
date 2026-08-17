@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Prof. Harrison Cheng 鄭學成教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.S., Mathematics
+- Univ. of California, Berkeley — 1977 — Ph.D., Economics
+- UCSD — 2010 — MBA
+
+## Employment
+- Alumni Scholars Alumni Association — Executive Director — (2008-2018) — UCSD — Teaching Assistant — (2009-2010) — USC — Associate Professor, Dept. of Economics — (2010-2016)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

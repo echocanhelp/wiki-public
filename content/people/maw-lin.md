@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 早年畢業於國立台灣藝術專科學校, 後留學日本大学, 專攻電影導演。1974年定居於紐約, 成為專業画家。擅長使用不透明的水彩画技法, 常以紐約市的冬景為其創作的題材, 而蜚聲於紐約画壇。曾是美國水彩画協會、沙瑪冠帝美術中心( Salmagundi Art Club)之中堅會員, 屢獲奬項, 備受敬重, 亚深獲收藏家的喜愛。
 
+<!-- tah-tables:start -->
+## Education
+- 台灣藝術大學 — B.S.
+- 日本大學 — M.S.電影
+
+## Employment
+- 水彩畫家
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

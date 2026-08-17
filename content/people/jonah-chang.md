@@ -62,8 +62,7 @@ Pages that link to **jonah-chang** (jonah-chang):
 2. [[organizations/formosan-presbyterian-church-in-los-angeles.md|formosan-presbyterian-church-in-los-angeles]]
 3. [[organizations/formosan-presbyterian-church-in-los-angeles.md|formosan-presbyterian-church-in-los-angeles]]
 
-### Sources
-- [TAH #72 encyclopedia: 72. 台灣人的先覺 – 張瑞雄 – 	2004.08 – 傳記](https://taiwaneseamericanhistory.org/72-%e5%8f%b0%e7%81%a3%e4%ba%ba%e7%9a%84%e5%85%88%e8%a6%ba-%e5%bc%b5%e7%91%9e%e9%9b%84-2004-08-%e5%82%b3%e8%a8%98/) (1)
+### Sources (1)
 
 1. [[sources/toward-a-community-of-hope.md|toward-a-community-of-hope]]
 

@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, journalist, educator
 - **Source:** TAH Foundation Who’s Who
 
-Ching-Chih Chen (陳清池) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Harvard University — year — Ph.D. in History
+
+## Employment
+- Southern Illinois University-Edwardsville — 1969 — 歷史學教授
+- 台灣研究院研究員
+- Taipei Times — Editorial/opinion essays (in English)
+<!-- tah-tables:end -->
 
 ## Family
 

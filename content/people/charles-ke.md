@@ -19,7 +19,12 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Charles Ke (柯烱輝) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Employment
+- 美國運輸部 — 資深專家
+- 聯合國危險品運輸專家委員會 — 資深委員
+<!-- tah-tables:end -->
 
 ## Family
 

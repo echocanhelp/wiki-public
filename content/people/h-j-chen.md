@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-H. J. Chen (陳小娟) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- University of Tennessee — 1989 — Ph.D.哲學
+
+## Employment
+- 高雄師範大學 — professor
+<!-- tah-tables:end -->
 
 ## Family
 

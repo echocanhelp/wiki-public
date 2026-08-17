@@ -19,7 +19,7 @@ last_reviewed: 2026-08-17
 
 - **English:** Zheng Shaoliang
 - **Chinese:** 鄭紹良
-- **Core roles:** Pharmacist, radio host
+- **Core roles:** engineer
 - **Business:** 十全藥局 (Shiquan Pharmacy), San Francisco
 - **Years active:** 30 years
 - **Geography:** San Francisco, California
@@ -46,6 +46,17 @@ Despite his physical challenges, Zheng approached life with optimism. He reflect
 ## Sources
 - [TAH #1454 encyclopedia: 1454. Shao Liang Cheng 鄭紹良 / 2017/01](https://taiwaneseamericanhistory.org/whoswho1454/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shao-liang-cheng/)
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1957 — B.S.土木
+- West Virginia University — B.S.土木結構
+
+## Employment
+- The Boeing Company — 1967-1976 — 資深專家工程師
+- Rockwell International — 1976--1985 — 資深專家工程師
+- McDonnell Douglas — 1985- — 主任工程師
+<!-- tah-tables:end -->
 
 ## Family
 

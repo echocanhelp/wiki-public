@@ -21,6 +21,18 @@ last_reviewed: 2026-08-17
 
 Yunn-Shan Ma, a native of Taiwan, is currently pursuing her doctorate at the Eastman School of Music in Rochester New York, studying choral conducting with William Weinert and orchestral conducting with Neil Varon. She has been active as conductor, pianist and educator in both Asia and America.
 
+<!-- tah-tables:start -->
+## Education
+- 國立台灣師範大學 — B.S. 音樂系
+- 國立台灣師範大學 — M.S. 指揮
+- 羅徹斯特大學伊士曼音樂院 — 指揮博士候選人
+
+## Employment
+- 美國羅徹斯特台灣愛鄉合唱團 — 指揮
+- 美國Hobart and William Colleges Community Chorus — 指揮
+- 霍巴特和威廉史密斯學院 — 客席教授
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

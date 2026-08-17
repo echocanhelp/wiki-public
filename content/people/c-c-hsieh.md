@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist
 - **Source:** TAH Foundation Who’s Who
 
-C. C. Hsieh (謝正忠) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S.化學
+- Rice University — 1974 — Ph.D. X-光繞射晶體結構學
+
+## Employment
+- Tyco Healthcare — 2003-2014
+- 輝瑞製藥公司 — -2003
+<!-- tah-tables:end -->
 
 ## Family
 

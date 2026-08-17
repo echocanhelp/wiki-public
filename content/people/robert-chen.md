@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Robert Chen (陳慕融; pinyin: Chén Mùróng) is a Taiwanese-born violinist who is the Concertmaster of the Chicago Symphony Orchestra and Professor of Violin at Roosevelt University. He received Bachelor’s and Master’s of Music degrees from the Juilliard School, where he studied with Dorothy DeLay and Masao Kawasaki.
 
+<!-- tah-tables:start -->
+## Education
+- Juilliard School — B.S. Music — Juilliard School — 1993 — M.S. Music
+
+## Employment
+- 芝加哥交響樂團 — 1999 — 首席小提琴手
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Laura Chen

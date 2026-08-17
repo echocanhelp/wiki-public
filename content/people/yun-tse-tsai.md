@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 6. Awarded to outstanding experimentalists working on Fermilab neutrino experiments and neutrino theorists., 2018
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 2005 — B.S., Physics & Mathematics — 2006 — M.S., Physics
+- University of Rochester — 2013 — Ph.D., Physics
+
+## Employment
+- SLAC National Accelerator Laboratory — Research Associate, Associate Scientist — (2014-2017) — SLAC National Accelerator Laboratory, Menlo Park, CA — Associate Scientist — (2017-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

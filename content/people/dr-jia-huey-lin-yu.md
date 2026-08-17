@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 First President of Taiwanese American Seniors Society of Greater Washington, DC大華府台美人長樂會第一任會長
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1966 — D.D.S. Dentistry — Univ. of Michigan — 1973 — Ph.D., Pharmacology
+
+## Employment
+- Univ. of Alabama — 1978-1983 — Assistant Professor — Georgetown Univ. — 1983-1996 — Associate Professor
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Daughter:** Deborah Yu

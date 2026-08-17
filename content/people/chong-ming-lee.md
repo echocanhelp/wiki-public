@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Chong Ming Lee (李聰敏) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 高雄中學 — 1959
+- 中原大學 — 1963 — B.S. 土木系
+
+## Employment
+- Fastech Enterprise — 1977-present — President
+<!-- tah-tables:end -->
 
 ## Family
 

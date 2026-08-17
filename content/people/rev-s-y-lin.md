@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Rev. S. Y. Lin (林皙陽牧師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Fu Jen Catholic Univ. (輔仁大學) — 1979 — B.S.
+- Pittsburgh Theological Seminary — M.S., Theology, Taoism
+
+## Employment
+- Taiwan Theological College and Seminary (台灣神學院) — Librarian, Deputy Director — Boston Taiwanese Christian Church (波士頓台灣基督教會) — Pastor — (2004-) — Long Island Taiwanese Church (長島台灣教會) — Pastor — (2010-)
+<!-- tah-tables:end -->
 
 ## Family
 

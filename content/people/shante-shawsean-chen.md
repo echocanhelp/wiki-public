@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Shante Shaw(Sean) Chen 陳善哲 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- Carnegie-Mellon Univ. — 1990 — B.S., Industrial Design
+
+## Employment
+- Marvel Comic Book — Cartoonist, Illustrator (Iron Man, Nova Series) — (1992-) — Comic Book — Artist — Valiant Comics — Penciler — Marvel Comics — Comic Artist — Marvel Creative Services Division — Contributing Artist
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Julia Wang Chen

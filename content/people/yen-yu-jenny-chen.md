@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Dr. Yen-Yu (Jenny) Chen 陳延瑜博士 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- Curtis Institute of Music — 2013 — B.A., Music
+- Yale Univ. — M.A., Music
+- Eastman School of Music — Ph.D., Music
+
+## Employment
+- Weill Recital Hall — Pianist — Ossining Budarz Theater — Pianist — Temple Emanu-El Greenwald Hall — Pianist — Philadelphia Orchestra — Soloist — (2007-2007) — Harrisburg Symphony Orchestra — Soloist — (2010-2010) — Philadelphia Orchestra — Soloist — (2010-2010) — Rochester Philharmonic Orchestra — Soloist — Stecher and Horowitz Foundation Young Artists Series — Concert Performer
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Mother:** 呂依潔

@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
-Judy Lin Linton (林奐均) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Indiana University — 1994 — B.A. in Music
+- Columbia University Teacher's College — 1997 — M.A. in Education
+
+## Employment
+- 音樂創作工作者 — 作曲家 — Columbia University Teacher's College — Teaching
+<!-- tah-tables:end -->
 
 ## Family
 

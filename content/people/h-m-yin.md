@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** journalist
 - **Source:** TAH Foundation Who’s Who
 
-H. M. Yin (殷惠敏) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 東海大學-， — M.S.
+- UC Berkley — Ph.D.
+
+## Employment
+- 聯合國 — Staff
+- 自由撰稿人
+<!-- tah-tables:end -->
 
 ## Family
 

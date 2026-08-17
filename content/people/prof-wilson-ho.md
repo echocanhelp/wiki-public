@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Assistant Professor (1980-1985); Associate Professor (1985-1991); Professor (1991-2000)
 
+<!-- tah-tables:start -->
+## Education
+- California Institute of Technology — 1975 — B.S., Chemistry — 1975 — M.S., Chemistry
+- Univ. of Pennsylvania — 1979 — Ph.D., Physics
+
+## Employment
+- Bell Laboratories, Murray Hill, NJ — Member of the Technical Staff — (1979-1980) — Dept. of Physics, Cornell University — Assistant Professor — (1980-1985) — Dept. of Physics, Cornell University — Associate Professor — (1985-1991) — Dept. of Physics, Cornell University — Professor — (1991-2000) — University of California, Irvine — Donald Bren Professor and Distinguished Professor of Physics and Astronomy and of Chemistry — (2000-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

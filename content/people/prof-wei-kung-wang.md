@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Developing a blood test that can distinguish between different members of the flavivirus family.
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. College of Medicine — 1986 — M.D.
+- Harvard School of Public Health — 1995 — Sc.D., Virology
+
+## Employment
+- John A. Burns School of Medicine — Professor of Dept. of Tropical Medicine, Medical Microbiology and Pharmacology
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

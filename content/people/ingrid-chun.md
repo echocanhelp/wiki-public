@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 Violinist INGRID K CHUN is a member of the Los Angeles Philharmonic Orchestra since 1992. She earned her Bachelor’s and Master’s degrees in music from the Juilliard School as a scholarship student of Dorothy DeLay. Her tenure with the L.A. Philharmonic has lead to extensive tours internationally, performing in major concert venues throughout Europe and Asia as well as recording in Grammy winning albums. Ms. Chun maintains a regular performance schedule as a soloist and chamber musician. She made her first solo debut with the L.A. Philharmonic at Walt Disney Concert Hall in 2005 and was again a featured soloist in 2010 and 2014. Her chamber music collaborations included The Taylor Quartet, Thomas Adés, and Yuja Wang. She was chosen to perform chamber music in the Edinburgh International Festival and is often featured in the Green Umbrella New Music series and the L.A. Philharmonic Chamber Music series. As a teacher, Ms. Chun has served as adjunct faculty in La Sierra University and as string orchestra director for The Master’s College. She currently teaches at Azusa Pacific University. Born in Taiwan to a family of musicians, Ms. Chun began her music studies at age five on violin an
 
+<!-- tah-tables:start -->
+## Education
+- Juilliard School — B.A. Music
+- Juilliard School — B.A. Music
+
+## Employment
+- 洛杉磯愛樂交響樂團 — present — 首席小提琴
+- La Sierra University & — Adjunct professor in violin
+- Master’s College — Adjunct professor in Music
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

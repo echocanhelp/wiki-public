@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Hsi-Min Lin (林希明) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Georgia Institute of Technology
+
+## Employment
+- DocVentive, LLC — 2012-present — Managing Partner
+- 3LINS LLC — 2001-present
+- NetCommerce Inc. — 1998-2001 — Senior Vice President
+- Docucorp International — 1987-1998 — Senior Vice President
+<!-- tah-tables:end -->
 
 ## Family
 

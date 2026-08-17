@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Rui Mu Lee (李瑞木) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 師範大學 — B.S.
+- 師範大學 — M.S.
+- University of Minnesota — Ph.D. Psychology
+
+## Employment
+- San Diego State University — 1977- — Professor
+- San Diego State University人力資源發展中心 — 主任
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Kent Wu (吳英資博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Chung Hsing University — 1959 — BS Forestry
+- University of British Columbia — 1961 — M.S. major
+- UC Berkeley — Ph.D.Wood Chemistry
+
+## Employment
+- University of Missouri
+- UC Berkeley
+- California Cedar Products Company
+<!-- tah-tables:end -->
 
 ## Family
 

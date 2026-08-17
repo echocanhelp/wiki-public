@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, scientist
 - **Source:** TAH Foundation Who’s Who
 
-Frank Wu (吳登鈐博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 成功大學 — 1960 — B.S., Physics
+- Univ. of Missouri — 1965 — M.S., Physics
+- Univ. of Buffalo — 1970 — Ph.D., Physics
+
+## Employment
+- Department of Defense/ China Lake/CA — 1979- — 2008 — System Engineer
+<!-- tah-tables:end -->
 
 ## Family
 

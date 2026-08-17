@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. The First Taiwanese-American Graduate of the United States Military Academy, West Point, NY 1984
 
+<!-- tah-tables:start -->
+## Education
+- The United States Military Academy, West Point, New York — 1984 — B.S.
+- Columbia Univ. Graduate School of Business, New York — MBA
+
+## Employment
+- United States Army — Colonel (Retired) — (1984-) — United States Department of State — Foreign Service Officer (Diplomatic Corps) — (2010-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Father:** 張坤文

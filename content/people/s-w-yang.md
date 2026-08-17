@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Received the Literacy Assistance Center's Educational Recognition Award, 2007
 
+<!-- tah-tables:start -->
+## Education
+- De Montfort Univ. — M.A., Arts Education
+
+## Employment
+- Waldorf Primary School — Guest Lecturer in education and training — De Montfort University — Art Education Course Lecturer — The Door — English Teacher — (2004-2012)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

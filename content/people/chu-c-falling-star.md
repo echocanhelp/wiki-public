@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Chu C. Falling-Star (黃初娟) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Employment
+- 美國郵政署大費城地區 — 2012-present — 經理
+- Cincinnati區域 — 2008 — 經理
+- Cincinnati郵局 — 2006 — 局長
+- Hartford郵局 — 2002 — 局長
+- North Haven郵局 — 1999 — 局長
+- Simsbury郵局 — 1997 — 局長
+- Hebron郵局 — 1993 — 局長
+<!-- tah-tables:end -->
 
 ## Family
 

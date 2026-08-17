@@ -259,6 +259,16 @@ Notable quotes and mentions of **吳澧培** in Taiwan Justice articles:
 - [TAH #628 encyclopedia: 628. Li-Pei Wu 吳澧培](https://taiwaneseamericanhistory.org/whos-who-628-li-pei-wu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/li-pei-wu/)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1957 — B.A., Economics
+- Fort Hays State Univ. — 1969 — M.A., Business Management
+- Columbia Univ. — 1974
+
+## Employment
+- National Bank of Alaska — Vice President — (1969-1978) — Alaska National Bank of the North — President — (1978-1981) — General Bank (萬通銀行) — CEO — (1982-2002) — Community — Taiwanese American Citizens League - Los Angeles Chapter (TACL-LA) (洛杉磯台美公民協會) — Founding President — Taiwanese American Citizens League (TACL) (台美公民協會總會) — President — Taiwanese United Fund (南加州台灣人聯合基金會) — President — Taiwan Center Foundation of Greater Los Angeles (大洛杉磯台灣會館基金會) — Chairman — Formosa Foundation (美國福爾摩莎基金會) — Chairman
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 賴秀珠

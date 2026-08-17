@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Shuo-Hui (Sophie) Hung 洪碩徽 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- 台北藝術大學 — B.S.
+- 北德州立大學 — Ph.D. 鋼琴演奏
+
+## Employment
+- Southwestern Oklahoma State University — adjunct instructor
+- Dallas Asian American Youth Orchestra — cello instructor
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

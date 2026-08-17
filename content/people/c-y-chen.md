@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
-C. Y. Chen (陳黃群雁) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S. 公共行政
+- 紐約州立奧本尼大學 — M.S.
+- 紐約州立奧本尼大學 — Ph.D.公共行政
+
+## Employment
+- 亞太婦女中心 — 執行長
+- 紐約州政府中央預算局 — 資深預算分析師
+- Marist大學公共行政碩士班 — 講師
+<!-- tah-tables:end -->
 
 ## Family
 

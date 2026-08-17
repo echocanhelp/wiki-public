@@ -21,6 +21,22 @@ last_reviewed: 2026-08-17
 
 創新設計eLink/e線牽網站，嘉惠了許多單身人士 (Innovatively designed the eLink matchmaking website, benefiting many singles)
 
+<!-- tah-tables:start -->
+## Education
+- Chung Yuen University — 1969 — B.E., Chemical Eng.
+- Taiwan Theological Seminary — 1973 — M.Div. 道學碩士
+- Princeton Theological Seminary — 1975 — M.Th., 神學碩士
+- Claremont Theological School — 1977 — D.Min., 家庭協談博士
+- Harvard University — 1983 Fellow
+- Claremont Theological School — 1987 — Ph.D., 協談心理學博士
+
+## Employment
+- 國際真愛家庭協會/Family Keepers — 2001- — Present — 會長
+- 關渡基督書院 — 1994-97 — 校長
+- 長庚醫院 — 1989-94 — 社會服務處處長
+- 台北家庭協談中心 — 1973-80 — 主任
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 李懷恩

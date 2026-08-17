@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Angie Chen Button (陳筱玲) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- University of Texas — B.S. Finance
+
+## Employment
+- District 112 (Dallas County) — present — Texas State Representative
+- Texas House — 2009 — Representatives
+- Texas instrumentsfromGarland,Texas — marketing manager
+<!-- tah-tables:end -->
 
 ## Family
 

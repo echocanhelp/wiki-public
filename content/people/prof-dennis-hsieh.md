@@ -23,6 +23,15 @@ Hong Kong University of Science and Technology
 Professor and Head of Dept. of Biological Sciences
 (1997-)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.S., Agricultural Chemistry
+- MIT — M.S., Biochemical Engineering — Ph.D., Biochemical Engineering
+
+## Employment
+- UC Davis — Professor — Hong Kong University of Science and Technology — Professor and Head of Dept. of Biological Sciences — (1997-) — National Health Research Institutes — Researcher of the Division of Environment Health Occupational Medicine — (2004-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

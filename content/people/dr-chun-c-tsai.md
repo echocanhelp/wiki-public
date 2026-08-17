@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Chun C Tsai (蔡俊晴醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Kaohsiung Medical Univ. — 1968 — M.D.
+- Detroit Macomb Hospital — 1971 — Internship
+- Illinois State Psychiatric Institute/Metro Child & Adolescent Service — 1972-1975 — Residency
+
+## Employment
+- Edward Hines Jr. VA Hospital — Psychiatrist — (1982-) — Loyola Univ. — Clinical Assistant Professor — Community — TAA — Summer Conference Midwest Region Coordinator 1995 — TAA Chicago Chapter — President
+<!-- tah-tables:end -->
 
 ## Family
 

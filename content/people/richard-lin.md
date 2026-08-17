@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Taiwanese-American violin virtuoso Richard Lin is quickly building an international reputation as one of the new generation’s most promising and gifted young concert soloists.
 
+<!-- tah-tables:start -->
+## Education
+- Curtis Institute — B.S. Music
+
+## Employment
+- Sendai Philharmonic Orchestra — Guest Soloist — (2013-) — Auckland Philharmonia Orchestra — Guest Soloist — Oklahoma City Philharmonic — Guest Soloist — Taipei Symphony Orchestra — Guest Soloist
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

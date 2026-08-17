@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, scientist
 - **Source:** TAH Foundation Who’s Who
 
-Hann-Ping Wang (王漢平博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 中興大學 — 1969 — B.S., Chemistry
+- Wayne State Univ. — 1976 — Ph.D., Biochem
+
+## Employment
+- Du Pont — 1979 — Manager
+- Beckman Coulter — 1988 — Manager
+- Excel Scientific — 1995 — President
+<!-- tah-tables:end -->
 
 ## Family
 

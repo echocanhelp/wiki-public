@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Liang-Shing Fan (范良信) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1956 — B.S. 經濟系
+- 明尼蘇達大學 — M.S. 經濟系
+- 明尼蘇達大學 — 1966 — Ph.D. 經濟系
+
+## Employment
+- Kansas State University — 1964-68 — 經濟學教授
+- Colorado State University — 1968-06 — 經濟學教授
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -21,6 +21,12 @@ last_reviewed: 2026-08-17
 
 副主席, 全美台灣獨立聯盟美國本部 (Vice President, World United Formosans for Independence, USA Chapter)
 
+<!-- tah-tables:start -->
+## Education
+- 台灣大學
+- B.S. chem. eng. — Medical doctor
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** : -

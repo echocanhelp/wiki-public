@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 1. U. of Pittsburgh Dissertation Committee/2010.2. Inaugural Editor-in-Chief, CALA Occasional Paper Series/2006-2009
 
+<!-- tah-tables:start -->
+## Education
+- Rutgers University — 2006 Ph.D
+- U. of Texas at Austin — 1984 MLS
+- National Taiwan U. — 1981 BA
+
+## Employment
+- U. of Illinois at Urbana-Champaign 2011 — 2011- — Adjunct Faculty — Clarion U. of Pennsylvania — 2009-2010 — Assistant Professor — Rutgers U. — 2009 — Part-Time Lecturer — New Jersey City U. — 2005-2009 — Head of Collection Services
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Gary

@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Robert Chung (鐘博盈) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- University of Florida — B.S.電機
+- University of Florida — M.S.Electrical engineering
+
+## Employment
+- Atlana metropolitan — present — Aerospace engineering
+<!-- tah-tables:end -->
 
 ## Family
 

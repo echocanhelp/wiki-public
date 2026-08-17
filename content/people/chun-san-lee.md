@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Chun San Lee (李隼三博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S.化工
+- University of Texas at Austin — M.S.化工
+- Rutgers, The State University of New Jersey — Ph.D.土木與環保
+
+## Employment
+- 安得環保科技工顧問公司 — 1983- — president
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Jerry Jan (詹春孟博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 國立台灣大學 — 1959 — BS. in 土木工程
+- Brigham Young University — 1964 — MS. in 結構工程
+- Columbia University — 1971 — PhD. in結構力學
+
+## Employment
+- Gibbs & Hill. Inc. — 1983-1990 — 土木總工程師
+- Foster Wheeler Corp. — 1990-2003 — 主任土木工程師
+- 行政院原子能委員會 — Present — 核能研究所顧問
+<!-- tah-tables:end -->
 
 ## Family
 

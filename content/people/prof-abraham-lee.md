@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 1. Microstructures in the Electronics Engineering Technologies Division at Lawrence Livermore National Laboratory
 
+<!-- tah-tables:start -->
+## Education
+- National Tsing Hua Univ. — B.S.
+- UC Berkeley — Ph.D.
+
+## Employment
+- Lawrence Livermore National Laboratory, Electronics Engineering Technologies Division — Group Leader, Microstructures — Defense Advanced Research Projects Agency, Microsystems Technology Office — Program Manager — (1999-2001) — UC Irvine — Professor, Chair of Biomedical Engineering — (2001-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

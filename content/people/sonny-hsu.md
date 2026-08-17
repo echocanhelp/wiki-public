@@ -24,6 +24,16 @@ Education
 -
 B.S. Economics and Computer Science and Engineering
 
+<!-- tah-tables:start -->
+## Education
+- Univ. of Pennsylvania — B.S. Economics and Computer Science and Engineering
+- Univ. of Cambridge — M.B.A.
+
+## Employment
+- Moody's Investors Service — 2010-present — Vice President/Senior Analyst
+- Fitch Ratings — 2005-2010 — Director
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

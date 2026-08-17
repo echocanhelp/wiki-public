@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 2. The California Institute of Regenerative Medicine Training Program Grant, 2006-2009
 
+<!-- tah-tables:start -->
+## Education
+- Brown University — 1994 — B.A.Science
+- University of Pennsylvania School — 1999 — M.D. Medical
+
+## Employment
+- Johns Hopkins University School of Medicine — 1999-2002 — Internal Medicine Residency
+- San Francisco Critical Care Medical Group — Present — Doctor
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

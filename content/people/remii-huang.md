@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Won the "Best Female Director Award" at the American Independent Film Festival
 
+<!-- tah-tables:start -->
+## Education
+- ArtCenter College of Design (藝術中心設計學院) — 2014 — B.A.
+
+## Employment
+- Dreamseek Entertainment — Camera/DIT — (2008-2011) — Life of Pi — Set Assistant — (2011-2012) — Problem Child Films — Director — (2010-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

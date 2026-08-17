@@ -19,7 +19,11 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-%E6%9F%Af%E6%89%Bf%E5%Ae%B6 (柯承家) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Employment
+- 婦產科醫師
+<!-- tah-tables:end -->
 
 ## Family
 

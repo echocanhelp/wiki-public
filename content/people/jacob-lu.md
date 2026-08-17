@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Jacob Lu (盧能榮) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 文化學院 — B.S. 理論作曲
+
+## Employment
+- 美國泉音音樂中心 — 總經理
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,19 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Apo Hsu (許瀞心) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣師範大學 — B.S. 音樂
+- Hartt School of Music — M.S.
+
+## Employment
+- 國立台灣師範大學音樂學系交響樂團 — 2003-present — 指揮
+- 紐約州Bard College 指揮家研究院 — present — 客席教授
+- 舊金山女子愛樂樂團 — 指揮及藝術總監
+- 密蘇里州春田市交響樂團 — 指揮
+- 奧瑞岡州Eugene市莫札特室內樂團 — 音樂總監
+<!-- tah-tables:end -->
 
 ## Family
 

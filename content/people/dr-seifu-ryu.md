@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. The first Taiwanese American who graduated from American medical School
 
+<!-- tah-tables:start -->
+## Education
+- Indiana Univ. School of Medicine — 1926 — M.D.
+
+## Employment
+- Cing-feng Hospital of Tainan City — Founder — (1929-) — Community — Tainan Rotary Club (台南扶輪社) — Founding President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 莊采芳醫師

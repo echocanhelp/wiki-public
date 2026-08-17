@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Ni-Chi Chang (張倪綺) was born in Taichung, Taiwan. She graduated from Taipei National University of the Arts (TNUA) in 2009. She attended Thedor Leschetizky Master Class and Summer Camp in Vienna in 2003. As a choir member of Taipei National University of the Arts, she participated in Powell River Kathaumixw International Choir Festival in Canada in 2006. She sang in J.S. Bach – Mass in b minor, under the direction of Helmuth Riling at Taiwan National Concert Hall and at Macau in 2008. She was also a member of Taiwan’s National Opera Workshop from 2010 and sang the role of Ms. Pompous in Too Many Sopranos. She earned her master at Temple University studies with Dr. Phillip Cho.
 
+<!-- tah-tables:start -->
+## Education
+- Taipei National Univ. of the Arts (國立臺北藝術大學) — B.A., Music
+- Temple Univ. — 2011 — M.A., Music
+
+## Employment
+- Taipei National University of the Arts Choir — Vocalist — Taiwan's National Opera Workshop — Choir Member — (2010-) — Member / Performer
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

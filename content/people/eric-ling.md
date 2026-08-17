@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** lawyer
 - **Source:** TAH Foundation Who’s Who
 
-Eric Ling is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- UCSD — B.S.
+- Loyola Law School, Los Angeles — J.D.
+
+## Employment
+- William Morris Endeavor — 2016-present — TV business affairs
+- Paramount Pictures — 2012-2013 — Business affairs and legal
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist
 - **Source:** TAH Foundation Who’s Who
 
-Hung Ya Chao (趙弘雅) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S.化學
+- Polytechnic University — Ph.D.化學
+
+## Employment
+- Moore Corp — 1974-1992 — 資深科技研究員
+- Webcraft Technologies Inc — 1992-1999 — 技術經理
+<!-- tah-tables:end -->
 
 ## Family
 

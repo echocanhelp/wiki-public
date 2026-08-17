@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Ring Lin Hsu (許林碖) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 日本東京女子藥學 — B.S.藥學
+
+## Employment
+- 順天堂製藥公司 — 董事長
+<!-- tah-tables:end -->
 
 ## Family
 

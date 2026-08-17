@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Won the Therapeutic Garden Design Award of the 20th American Horticultural Therapy Conference (獲美國第二十屈園藝治療會議的治療性花園設計獎)
 
+<!-- tah-tables:start -->
+## Education
+- Temple Univ. — M.S., Horticultural therapy
+
+## Employment
+- Temple University — Merck — North Penn Adult School — Teaching
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Kelvin Yu (游朝敏) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- UCLA — Film, Theatre, and Television
+- Goldsmiths University of London
+- Carter Thor Studio
+
+## Employment
+- Screen writer and actor
+<!-- tah-tables:end -->
 
 ## Family
 

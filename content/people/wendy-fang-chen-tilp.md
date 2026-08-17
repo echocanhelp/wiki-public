@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Wendy Fang Chen, pianist and composer born in Brooklyn of Taiwanese descent earned her B.M. and M.M. from the Juilliard School. Chen has performed with such noted orchestras as the London Philharmonic, Brooklyn Philharmonic, Bolshoi Theater Orchestra, Central Philharmonic of China, Taipei Municipal Symphony Orchestra and in such internationally renowned venues as Carnegie Hall, Lincoln Center, Tchaikovsky Grand Concert Hall and Kennedy Center. A faculty member at The Juilliard School, she has won numerous prizes for her piano performances and compositions. She made her theatrical debut in 1994 as the pianist Clara Schumann in the play, Virtuosa.
 
+<!-- tah-tables:start -->
+## Education
+- The Juilliard School — 1994 — B.S., Piano and Composition — 1996 — M.S., Piano and Composition
+
+## Employment
+- The Juilliard School — Associate Director of Career Development — (1999-2003) — The Juilliard School — College Faculty in Career Skills — (2000-2002) — The Juilliard School, Career Planning and Development Department — Associate Director
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Robert Tilp

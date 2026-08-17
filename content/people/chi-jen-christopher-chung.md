@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Chi-Jen Christopher Chung 鍾啓仁 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- Conservatory of Music at Purchase College, SUNY — 2003 — MM — 2001 — BM
+- National Taiwan Normal Univ. — 1990 — Certificate of Music
+
+## Employment
+- Melody Music School — Cello and Piano Teacher — (2010-) — Song of Songs Group — Music Director — (1998-2006) — CYCNY (紐約幼獅青少年管弦樂團) — Music Director and Conductor of Youth Orchestra — (2013-) — CYCNY (紐約幼獅青少年管弦樂團) — String Faculty — (2007-2013) — Taipei Symphony Orchestra — Associate Principal Cellist — (1991-1993) — Yin-Qi Symphony Orchestra & Chorus — Principal Cellist — Yin-Qi Chamber Orchestra — Principal Cellist — Guang-Ren High School — Cello Instructor — Xi-Men Elementary School — Cello Instructor — Guan-Du Christian College — Cello Instructor — Song of Songs Music School — Music Director / Cello and Piano Instructor — Eastern School of Music — Music Director / Cello and Piano Instructor — Amadeus Conservatory of Music — Music Director / Cello and Piano Instructor — Melody Time Music Center — Music Director / Cello and Piano Instructor — Chinese Youth Concert of New York (CYCNY) — String Coach — (2006-) — Chinese Youth Concert of New York (CYCNY) — Conductor — (2011-) — Chinese Youth Concert of New York (CYCNY) — Music Director and Conductor — (2013-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Dr. Robert Delsite

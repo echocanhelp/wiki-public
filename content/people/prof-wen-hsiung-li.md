@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 5. James Watson Professor Emeritus, Dept of Ecology and Evolution in Univ. of Chicago
 
+<!-- tah-tables:start -->
+## Education
+- Chung Yuan Christian Univ. — 1965 — B.S., Civil Engineering
+- National Central Univ. — 1968 — M.S., Geophysics
+- Brown Univ. — 1972 — Ph.D., Applied mathematics
+
+## Employment
+- Univ. of Wisconsin Madison — Post-doctoral researcher — (1972-) — Univ. of Texas — Professor — (1973-) — Univ. of Chicago — Professor — (1998-) — Academia Sinica Biodiversity Research Center — Director
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

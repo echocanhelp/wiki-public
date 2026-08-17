@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** artist
 - **Source:** TAH Foundation Who’s Who
 
-Lulu Meng (孟祥璐) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.A.
+- Rochester Institute of Technology — MFA, imagine arts
+
+## Employment
+- artist
+<!-- tah-tables:end -->
 
 ## Family
 

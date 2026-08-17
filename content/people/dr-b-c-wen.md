@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 7. Revealed His Life Stories to be the Script and Play as the Leading Actor in A Award Winning Documentary Movies: Doctor 2006
 
+<!-- tah-tables:start -->
+## Education
+- Kaohsiung Medical Univ. — 1979 — M.D.
+
+## Employment
+- Iowa University — Physician of Radiation Oncology — Miami University Sylvester Cancer Center — Physician — (2000-) — Miami University — Professor — Community — Taiwanese American Association / South Florida Chapter — President (2004) — Taiwanese American Association / Iowa Chapter — President — Taiwanese Hakka Associations of America (全美客家同鄉會) — Branch President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 蔡明珠

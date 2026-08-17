@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** lawyer
 - **Source:** TAH Foundation Who’s Who
 
-Catherine Ken (耿懿芝) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan University — 1986 — B.S. Law
+- Harvard Law School — M.S. corporate and business
+
+## Employment
+- Law Offices Of Catherine Ken — present — Attorney
+<!-- tah-tables:end -->
 
 ## Family
 

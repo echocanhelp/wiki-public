@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-S. C. Yang (楊淑卿) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S.動物
+- 明尼蘇達大學 — M.S.生物統計
+
+## Employment
+- 明尼蘇達大學電腦中心
+- 哥倫比亞大學附設基督教長老教會醫院 — 電腦程式員
+- 固德(Good)」房產公司 — 1987-Present — 負責人
+<!-- tah-tables:end -->
 
 ## Family
 

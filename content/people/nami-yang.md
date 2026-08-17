@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 3. President of North America Taiwanese Women’s Association (NATWA)/S. CA Chapter (北美洲台灣婦女會南加分會會長2010,區理事 2014-2016)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. of Arts — 1966 — B.S., Arts
+- Art Center College of Design
+- California State Univ. Northridge
+
+## Employment
+- Art Column of the Pacific Times Newspaper — Writer and Editor — (1994-2004) — Neo Art League — Founder and First President — (2006-2009) — Community — Taiwanese Pen Club in L.A. (台美人筆會) — President 2016-2017 — North America Taiwanese Women's Association (NATWA) S. CA Chapter (北美洲台灣婦女會南加分會) — President 2010; District Board Member 2014-2016 — Taiwanese American Arts Association (TAAA) (台美藝術協會) — President 2004-2005 — LATWTTV Fineart Art Platform (千楓藝術台) — Host of Educational Program
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Daughter:** Lisa Yang

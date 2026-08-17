@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-K. T. Wu (吳告祖) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 中興大學 — B.S.農經
+- Oregon State — 1967 — M.S.統計
+
+## Employment
+- 房地產投資
+<!-- tah-tables:end -->
 
 ## Family
 

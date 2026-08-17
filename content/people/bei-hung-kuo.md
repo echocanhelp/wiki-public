@@ -19,7 +19,13 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Bei Hung Kuo (郭倍宏博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1977 — B.S.土木工程
+- 北卡州立大學 — 1982 — M.S.土木工程
+- 北卡州立大學 — Ph.D. 土木工程
+<!-- tah-tables:end -->
 
 ## Family
 

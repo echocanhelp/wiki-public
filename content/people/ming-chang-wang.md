@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist
 - **Source:** TAH Foundation Who’s Who
 
-Ming Chang Wang (王敏昌) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1961 — B.S., Agricultural Chemistry
+- Univ. of Alberta — 1969 — Ph.D., Biochemistry
+
+## Employment
+- Roswell Park Cancer Institute — 1969-1987 — Senior Research Scientist
+<!-- tah-tables:end -->
 
 ## Family
 

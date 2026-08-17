@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 2. 獲帕克德基金會（David and Lucile Packard Foundation Fellowship for Science and Engineering）87萬5000元科研獎金, 2015
 
+<!-- tah-tables:start -->
+## Education
+- Stanford University — 2003 — B.S. Physics
+- Princeton University — 2009 — Ph.D. Physics
+
+## Employment
+- California Institute of Technology — 助理教授
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

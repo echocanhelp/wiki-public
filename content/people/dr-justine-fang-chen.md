@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Dr. Justine Fang Chen 陳潔思博士 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- The Juilliard School — 1998 — B.A., Composition and Violin — 2001 — M.A., Composition and Violin — 2005 — D.M.A., Composition
+
+## Employment
+- The Pierrepont School, Westport, CT — Head of Music Dept. — New York City Ballet — Dancer/Performer — ICE (International Contemporary Ensemble) — Violin Soloist
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** J Andrew Phillips

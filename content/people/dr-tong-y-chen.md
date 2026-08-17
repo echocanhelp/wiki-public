@@ -23,6 +23,14 @@ last_reviewed: 2026-08-17
 1974-1978
 Resident Physician, Chief Physician, Lecturer, Assistant Professor
 
+<!-- tah-tables:start -->
+## Education
+- Kaohsiung Medical Univ. — 1968 — M.D.
+
+## Employment
+- Taipei Veterans General Hospital — Surgical Resident — (1969-) — Lloyd Noland Hospital, Birmingham, AL — Surgical Intern — (1972-) — University of Rochester, Rochester, NY — Surgical Resident — (1973-) — Temple University, Philadelphia, PA — Resident Physician, Chief Physician, Lecturer, Assistant Professor — (1974-1978) — Presbyterian Anesthesia Associates — Retired — (1978-2008) — Presbyterian Matthews Hospital, Charlotte, NC — Chief of the Anesthesia Department — Community — Taiwanese Pen Club / Los Angeles (台美人筆會) — President, 2014-2015 — Taiwanese American Association / Charlotte, NC — Co-Founder, 1992 — North America Taiwanese Medical Association (NATMA) — Member / Journal Publisher — Kaohsiung Medical University Alumni Association of America (KMUAAA) — Member / Journal Publisher — TAPC Official Website (台美筆會網站) — Publisher / Chief Editor, 2015
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 李芬芬

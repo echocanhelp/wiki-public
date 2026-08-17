@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, scientist
 - **Source:** TAH Foundation Who’s Who
 
-Simon C. Kuo (郭朝元博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S.
+- 卡內基理工大學 — Ph.D.機械工程
+
+## Employment
+- CEMCOM Corporation — 技術董事兼總工程師
+- 聯合技術公司 — 1969-1983 — 熱工程經理兼輕量發動機研究負責人
+<!-- tah-tables:end -->
 
 ## Family
 

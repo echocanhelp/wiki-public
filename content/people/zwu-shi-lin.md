@@ -22,6 +22,17 @@ last_reviewed: 2026-08-17
 賓大放射線科 (University of Pennsylvania Radiology)
 住院醫師及神經放射科 (Resident and Neuroradiology)
 
+<!-- tah-tables:start -->
+## Education
+- 高雄醫學大學 — M.S.
+
+## Employment
+- Lehigh Valley Hospital放射線科 — present — staff
+- Lehigh Magnet Imaging Center — Medical director
+- C Lehigh Valley Hospital — 神經放射科主任
+- 賓大放射線科 — 住院醫師及神經放射科
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

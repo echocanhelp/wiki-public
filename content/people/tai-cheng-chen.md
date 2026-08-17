@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 A native of Taiwan, Tai-Cheng Chen began playing the piano at the age of six; by the time he was nine, he had won his first piano competition in Taipei. Within the next two years, he placed first in a national Taiwanese piano competition and performed Mozart’s piano concerto with the Taiwan Symphony Orchestra. At fifteen, he moved to Austria to attend the Vienna Musikhochschule. At age nineteen he not only took first prize in its internal piano competition, but also completed the school’s rigorous Concert Artist program-graduating with its highest honor of Unanimous Distinction. In the following year he won the prestigious Vienna International Music Festival Competition, in a performance that was televised throughout the world.
 
+<!-- tah-tables:start -->
+## Education
+- 國立維也納音樂學院 — 1971 — 演奏家文憑
+- 茱麗亞學院 — 1987 — 音樂藝術博士 D.M.A.
+
+## Employment
+- 國立台北藝術大學 (Taipei National University of the Arts) — 1987-2012 — 教授
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 葉毓真

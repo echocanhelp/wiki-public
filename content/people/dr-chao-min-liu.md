@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 2. Art Students League of New York, New York, 1982-1985 (Studio of H. Dinnerstein, H. Holms, D. Dickerson)
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1954-1960 — B.S, M.S, Plant Pathology
+- Univ. of Wisconsin, Madison, WI — 1963-1969 — M.S, Ph.D., Biochemistry
+
+## Employment
+- Taipei Medical College, Taiwan — Instructor of Biochemistry — (1962-1963) — Waksman Institute of Microbiology, NJ — Post-Doctoral Research Associate — (1970-1972) — Hoffmann-La Roche Inc., Nutley, NJ — Distinguished Research Leader — (1972-2011) — Inst. of Biochemistry, Academia Sinica, Taiwan — Visiting Professor — (2011-2012) — Art Students League of New York — Life Member — West Essex Art Association, NJ — Member — Community — Art Students League of New York — Life Member — West Essex Art Association (WEAA), NJ — Member
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Sharon

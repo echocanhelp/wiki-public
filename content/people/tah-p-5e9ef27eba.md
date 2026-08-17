@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-%E9%99%B3%E5%Ae%9C%E8%93%81 %E5%8D%9A%E5%A3%Ab (陳宜蓁博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Julliard School — B.S. Music
+- Julliard School — M.S.Music
+- NYU — Ph.D. 音樂演奏哲學
+
+## Employment
+- 紐約大學音樂系 — Teaching
+- 紐約Concordia 大學音樂系 — Teaching
+<!-- tah-tables:end -->
 
 ## Family
 

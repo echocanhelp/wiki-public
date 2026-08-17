@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of North American Taiwanese Association (北美洲台灣人醫師協會會長) 1988-1990
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1958 — M.D.
+
+## Employment
+- National Taiwan Univ. Hospital, Taiwan — Physician — (1960-) — Johns Hopkins Univ. School of Medicine-Baltimore City Hospitals — Physician — (1963-) — Wilmington Medical Center, Wilmington, Delaware — Physician — (1964-) — Washington Univ. Medical School, St. Louis, MO — Academic Medicine — (1969-) — Community — North American Taiwanese Association (北美洲台灣人醫師協會) — President 1988-1990 — Taiwanese Medical Society of Greater St. Louis (大聖路易地區台灣醫學會) — First President 1975 — TAA/Greater St. Louis (聖路易台灣同鄉會) — President 1974 — Plains Region Fall Camp (平原區秋令會) — Coordinator 1989 — North America Taiwanese Professors' Association (NATPA)/St. Louis Chapter (北美洲台灣人教授協會聖路易分會) — President
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Grace Yasin (顏雅幸)

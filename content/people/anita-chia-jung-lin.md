@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Born in Tainan, Taiwan, Anita Lin began to learn violin at the age of seven. In 2006, she earned her Bachelor’s degree in music from Tainan National University of the Arts in Taiwan, and earned the Master of Music Degree in violin performance at Southern Illinois University Edwardsville (SIUE) in May 2010. She is currently a violin teacher at St. Louis School of Music, teaching all ages with emphasis of Suzuki teaching method. Besides violin performance and teaching experience, Anita is also actively participates in the opera and musical performance. Anita has two years theater experience in Taipei; and her opera/musical performances in United States include: Lucy in The Telephone (2009), Casilda in The Gondoliers (2010), and Mrs. Mayor in The Seussical (2010) at Southern Illinois University Edwardsville. Anita is the first prize winner in 2008 NATS musical theater competition; a winner of 2009 SIUE Aria/Concerto Competition; and the 2nd prize winner in 2010 NATS vocal competition.
 
+<!-- tah-tables:start -->
+## Education
+- 台南藝術大學 — 2006 — B.S. Music
+- S. Illinois University — Edwardsville — 2010 — M.S. Music
+
+## Employment
+- 聖路易音樂學校 — Present — 小提琴講師
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

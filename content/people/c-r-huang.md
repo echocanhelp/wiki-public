@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-C. R. Huang (黃朝榮) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台北醫學院 — B.S.醫學
+- 加州大學舊金山分校 — Ph.D.
+
+## Employment
+- 德州大學西南醫學中心 — 教授
+- 加州大學舊金山分校 — 腎臟生理研究醫師
+- Iowa大學醫學院 — 住院醫師
+<!-- tah-tables:end -->
 
 ## Family
 

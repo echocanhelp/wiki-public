@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 2. North America Hakka Assn for Public Affair (HAPA-NA) Board member, treasurer, VP
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1962
+
+## Employment
+- Retiree — 2002
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Willie Wu

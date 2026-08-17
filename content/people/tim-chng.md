@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Tim Chng (莊騰程) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Purdue University — 1993 — B.S. Science
+
+## Employment
+- EIM International — 2003- — Senior software developer
+- PayPal — 2009- — Senior software developer
+- AOL Platforms — 2015-present — Principal software engineer
+<!-- tah-tables:end -->
 
 ## Family
 

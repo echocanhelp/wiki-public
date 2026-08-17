@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. President of North American Taiwanese Medical Association (北美洲台灣人醫師協會會長)
 
+<!-- tah-tables:start -->
+## Education
+- Taipei Medical Univ. (臺北醫學大學) — 1970 — B.S.
+- Univ. of Virginia School of Medicine — M.D.
+- Fairview Genl Hospital — 1973 — Internship
+
+## Employment
+- Yale University School of Medicine — Residency — (1976-) — Rockville, MD — Anesthesiology Specialist — Community — North American Taiwanese Medical Association (北美洲台灣人醫師協會) — President — Formosan Association for Public Affairs (台灣人公共事務會總會) — Vice President — Washington Tsai Ing-Wen Support Association (華府蔡英文後援會) — Convener
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

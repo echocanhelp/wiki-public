@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 American Infectious Disease Test Reagent Development Company
 Head of Production Department
 
+<!-- tah-tables:start -->
+## Education
+- National Cheng Kung Univ. — B.S., Biology
+- UCSD — Ph.D., Biology
+
+## Employment
+- American Infectious Disease Test Reagent Development Company — Head of Production Department — Community — San Diego Taiwan American Foundation — Director — FAPA San Diego — Director
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

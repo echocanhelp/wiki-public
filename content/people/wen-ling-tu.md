@@ -19,7 +19,13 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Wen-Ling Tu (杜文苓) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 國立台灣大學 — B.S. 社會
+- 紐約州立大學 — M.S. 環境科學
+- 加州大學柏克來分校 — Ph.D. 環境計劃
+<!-- tah-tables:end -->
 
 ## Family
 

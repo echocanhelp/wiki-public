@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 By very well-known clarinetists- Prof. Ronald DeKant, Jonathan Cohler, and Philippe Cuper highly appreciated: “rich, sophisticate, sentimental, variety of music styles and gives a deep expressions of the musical!.”
 
+<!-- tah-tables:start -->
+## Education
+- 輔仁大學 — B.S. Music
+- University of Cincinnati-CCM — 2000 — M.S. Music
+
+## Employment
+- RhapsodyEducation — Present — Teaching
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Son:** ???

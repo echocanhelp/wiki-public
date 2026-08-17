@@ -19,7 +19,11 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Fong Chung Fan (樊豐忠) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台北醫學大學 — D.S. 醫學
+<!-- tah-tables:end -->
 
 ## Family
 

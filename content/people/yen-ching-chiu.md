@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Soprano Yen-Ching Chiu邱彥菁, originally from Kaohsiung, Taiwan, received her Bachelor of Music from Taipei National University of Arts. She received artist scholarship from United Daily News Organization three years in a row from 2004 to 2006. Moreover, she received a two-year scholarship from Texas State University in 2008, and completed her Master of Music in voice performance in 2010 studying under Ms. Cheryl Parrish.
 
+<!-- tah-tables:start -->
+## Education
+- 台北藝術大學 — B.S.
+- Texas State University — M.S.
+
+## Employment
+- Taiwanese Presbyterian Church of Washington choir — Conductor
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

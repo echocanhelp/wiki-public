@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 2. Director of National Taiwanese American Citizens League – LID JTASA program , 2007-2009
 
+<!-- tah-tables:start -->
+## Education
+- UCLA — 2007 — B.S.國際經濟
+
+## Employment
+- Brandboom — 2007-2015 — Founder
+- Maderight — 2015-present — Founder
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Christine Chen

@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-C. H. Sun (孫曲回牧師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣道生神學院 — B.S.
+- 台灣道生神學院 — B.S.
+- Ph.D.道學,牧學
+
+## Employment
+- 北卡台福教會 — 2016- — 牧師
+- 基督衛理教會 — 牧師
+- Canaan Taiwanese — Christian Church — 牧師
+<!-- tah-tables:end -->
 
 ## Family
 

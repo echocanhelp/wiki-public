@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, artist
 - **Source:** TAH Foundation Who’s Who
 
-Eric Cheng (鄭晧) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Stanford Univ. — B.S., Computer Science
+- Stanford Univ. — 1998 — M.S., Computer Science
+
+## Employment
+- Embarcadero Road — 1998 — Software Engineer
+- Publisher — 2001
+- Photographer — 2001
+- Software contractor — 2001
+<!-- tah-tables:end -->
 
 ## Family
 

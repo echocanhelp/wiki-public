@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Prof. Yie-Hwa Chang (張義華教授) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — B.S., Chemistry
+- California Institute of Technology — Ph.D., Biochemistry
+
+## Employment
+- Saint Louis University — Associate Professor — Mediomics, LLC — Founder and President
+<!-- tah-tables:end -->
 
 ## Family
 

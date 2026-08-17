@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Prof. Ming-Chiao (Michael) Lai 賴明詔教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1968 — M.D.
+- U.C. Berkeley — 1973 — Ph.D., Mol. Biol.
+
+## Employment
+- University of Southern California — Professor — (1973-2007) — Academia Sinica — Distinguished Researcher and Deputy Dean of Institute of Molecular Biology — (2003-2006) — National Cheng Kung University — President — (2007-2011) — Academia Sinica — Distinguished Researcher — (2011-2017)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 翁惠瑛

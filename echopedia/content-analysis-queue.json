@@ -1,8 +1,9 @@
 {
   "date": "2026-08-17",
   "standards_version": 8,
-  "total_pages_scanned": 884,
-  "auto_queued": 11,
+  "total_pages_scanned": 2823,
+  "pages_with_findings": 864,
+  "auto_queued": 8,
   "queue": [
     {
       "path": "people/cai-jinrong.md",
@@ -93,34 +94,6 @@
       ]
     },
     {
-      "path": "people/rue-lin-hung.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "READABILITY_LONG_SENTENCES_36wps"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/tsaiyuan-terry-hsu.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "READABILITY_LONG_SENTENCES_32wps"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
       "path": "people/xie-changting.md",
       "findings": [
         "LINKS_NO_RELATED",
@@ -149,22 +122,8 @@
         "Update last_reviewed after fixes",
         "Commit only (no publish)"
       ]
-    },
-    {
-      "path": "people/yuan-chen-li.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "READABILITY_LONG_SENTENCES_31wps"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
     }
   ],
-  "suppressed_findings": 355,
+  "suppressed_findings": 357,
   "fp_history_entries": 1334
 }

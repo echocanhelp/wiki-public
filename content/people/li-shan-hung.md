@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 “A major musician of tremendous stature, a deeply probing artist.” (Dr. Tom Wendel, late Chair of the American Beethoven Society.)
 
+<!-- tah-tables:start -->
+## Education
+- 師範大學 — B.S.mUSIC
+- Peabody Conservatory of the Joins Hopkins University e — M.S. Music
+- Peabody Conservatory of the Joins Hopkins University — Ph.D. Music
+
+## Employment
+- Biola大學 — Present — 副教授兼鍵盤主任
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

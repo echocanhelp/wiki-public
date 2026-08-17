@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 小提琴家林璇雯，目前是Yinghua Academy的音樂院總監以及樂團指揮。她同時也是鈴木小提琴教學法教師。畢業於明尼蘇達大學小提琴演奏博士班，師事Young-Nam Kim教授。
 
+<!-- tah-tables:start -->
+## Education
+- 1. — 2.
+- 明尼蘇達大學 — 2013 — 小提琴演奏博士班
+
+## Employment
+- Yinghua Academy — 2013- — 音樂院總監以及樂團指揮 — 2.
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

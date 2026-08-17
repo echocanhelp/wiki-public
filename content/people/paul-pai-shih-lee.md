@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Violinist Paul Pai-Shih Lee, a Taiwan born Taiwanese-American, started his musical training at the young age of 4 at the Yamaha School. Lee picked up the violin at the age of 6 and since then it has been a big part of his life.
 
+<!-- tah-tables:start -->
+## Education
+- University of California, Irvine — B.A. Violin
+- University of California, Irvine — B.S. Violin — 3.
+
+## Employment
+- Master of Fine Arts, violin performance — 1996-present — Teaching — 2. — 3.
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Ching-Ming Cheng 鄭靜旻

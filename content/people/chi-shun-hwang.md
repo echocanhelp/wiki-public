@@ -19,7 +19,12 @@ last_reviewed: 2026-08-17
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
-Chi-Shun Hwang (黃智舜) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 師範大學 — B.S., Physics
+- Texas A&M Univ. — 1981 — 電腦軟體工程系
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,11 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Kico Lin (林貴香) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Employment
+- Kicolin Realty — Broker — Trustee, K1&K2 Almond Ranches — Owner — California Line Dance Association of America — Founder & President — Community — Overseas Chinese Affairs Committee (僑務委員) — Committee Member — World Taiwanese Chambers of Commerce (世界臺灣商會聯合總會) — President
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Prof. Su-Chiung Chen 陳素瓊教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ., College of Medicine — 1955-1962 — M.D.
+- Univ. of Chicago, Chicago, Illinois — 1963-1968 — Residency and Fellowship in Pediatrics Cardiology
+
+## Employment
+- St Louis Univ., St Louis, Missouri — Professor of Pediatrics — (1971-2006) — Cardinal Glennon Children's Hospital in St Louis, Missouri — Attending Physician — (1971-2006) — St Louis Univ. — Professor Emerita of Pediatrics — (2006-)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** Hsiu-San Lin (林秀三)

@@ -19,7 +19,11 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Catherine Hwang (黃李彩雲) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Employment
+- HWANG,CATHERINE T.L.,C.P.A — Self-employer
+<!-- tah-tables:end -->
 
 ## Family
 

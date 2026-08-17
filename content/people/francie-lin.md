@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-Francie Lin is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Harvard University — B.S.
+
+## Employment
+- -r — Novelist
+- Threepenny Review — 1998-2004 — Associate Editor
+<!-- tah-tables:end -->
 
 ## Family
 

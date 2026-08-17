@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Strong Chuang (莊秋雄) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1961 — B.S., 土木
+- Kansas State Univ. — 1967 — M.S., Engineering
+- Purdue Univ. — 1970 — Ph.D., Mechanical Eng.
+
+## Employment
+- Procter & Gamble Co. — 1970
+- Kimberly-Clark Coporation — 1989
+<!-- tah-tables:end -->
 
 ## Family
 

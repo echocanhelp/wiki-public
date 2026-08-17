@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Amy Chun-Ting Chao, soprano, a native of Taiwan, is a recent Graduate of the Peabody Institute of The Johns Hopkins University with a Graduate Performance Diploma in Voice. In the Peabody production of Massenet’s Manon, Ms. Chao performed the role of Pousette, and she also performed portions of the roles of Manon, Konstanze, Electra, Juliette, and solo selections from Così fan tutte.
 
+<!-- tah-tables:start -->
+## Education
+- 國立台北藝術大學 — 2006 — B.A Musical Art
+- 東海大學 — 2009 — M.S. Musical Art
+- Catholic University of America — 2011 — Vocal performance
+
+## Employment
+- Taiwan Opera Studio Young Artist Program — Young Artist
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

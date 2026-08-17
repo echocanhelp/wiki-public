@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 黃美菁 小提琴 現任聖地牙哥交響樂團小提琴手。美菁是台灣高雄人。約翰霍普金斯 Peabody 音樂學院學士，華莉亞音樂學院碩士。美菁獲獎甚多，包括 Marbury Violin 比賽、Yale Gordon Concerto 比賽、Hellam Young Artist 比賽等的頭獎。她獲得 Peabody Career Development 獎助金，和台灣文化藝術基金會的才藝青年獎。美菁常和世界著名的音樂家和樂團表演。她曾任 Peabody 交響樂團的首席小提琴手。2006年曾加入紐約交響樂團。
 
+<!-- tah-tables:start -->
+## Education
+- 約翰霍普金斯Peabody音樂學院 — B.S. Music
+- 華利亞音樂學院 — M.S. Music
+
+## Employment
+- 聖地牙哥交響樂團 — Preseng — 小提琴手
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

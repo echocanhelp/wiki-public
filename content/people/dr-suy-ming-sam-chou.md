@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Dr. Suy Ming (Sam) Chou 周烒明博士 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. College of Medicine — 1957 — M.D.
+- Univ. of Wisconsin-Madison — Ph.D.
+
+## Employment
+- Univ. of Virginia School of Medicine — Resident physician, teaching assistant — (1963-) — Cleveland Clinic — Director of Psychopathology — (1981-) — Community — North American Taiwanese Medical Doctor Association (NATMA) 北美洲台灣人醫師協會 — First President — United Formosans in America for Independence 全美台灣獨立聯盟 — Co-Founder — Taiwanese American Parkinson Association 台美人柏金森互助會 — Co-Founder — American Neuropathological Society — Deputy Chairman
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 吳秀惠

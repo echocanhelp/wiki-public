@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 畢業於師大音樂系，美國Monclair State University 音樂碩士，其啟蒙老師Dr. Jack Sacher係Opera Listener Guide一書的作者，經常在大都會歌劇院演唱歌劇。在台灣及美國公立學校從事音樂教育工作達十餘年，她的特殊教學經驗融合舞蹈、戲劇及自編創作的曲子曾於N.J. Star-Ledger 及在世界日報刊載過。
 
+<!-- tah-tables:start -->
+## Education
+- 台北醫學院 — M.D.
+
+## Employment
+- 聯邦政府醫院 — 醫師
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

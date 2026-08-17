@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Joseph Lin is an American violinist. In 2011, he joined the faculty of the Juilliard School and became the first violinist of the Juilliard String Quartet.
 
+<!-- tah-tables:start -->
+## Education
+- Harvard College — 2000 — B.S. — 2.
+
+## Employment
+- Juilliard String Quartet — 2011-Present — First Violinist
+- 康乃爾大學 — 2007-2011 — 小提琴教授助理
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

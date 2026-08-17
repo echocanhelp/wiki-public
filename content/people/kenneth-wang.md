@@ -19,7 +19,19 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Kenneth Wang (王克雄博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S.電機
+- 南卡羅萊納大學 — M.S.電機
+- 佛羅里達大學 — 1975 — Ph.D.電機
+
+## Employment
+- Philips公司 — X光光譜分析儀研發
+- EMI Medical — X光電腦斷層掃描機器研發
+- Hughes Aircraft Company — 1979- — 研發火箭及轟炸機探測儀器
+- 大都會地產公司 — President
+<!-- tah-tables:end -->
 
 ## Family
 

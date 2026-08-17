@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** lawyer
 - **Source:** TAH Foundation Who’s Who
 
-Jenntyng Chern (陳振庭) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Brandeis University — 2004 — B.S. Art
+- NYU — M.S. 稅務法學
+- Seton Hall University — 2009 — Ph.D. Juris
+
+## Employment
+- 紐澤西州上訴法院 — 2009-2010 — 民法大法官助理律師
+- Stern & Montana, LLP — 2012-2015 — Attorney
+- Jon Rory Skolnick 法律事務所 — 2015-Present — 律師
+<!-- tah-tables:end -->
 
 ## Family
 

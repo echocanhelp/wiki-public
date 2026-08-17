@@ -80,6 +80,18 @@ Use the shared intake process at Echopedia Community Contributions Hub and inclu
 - [TAH #800 encyclopedia: 800. Choan-Seng Song 宋泉盛 / 2016/02](https://taiwaneseamericanhistory.org/800-choan-seng-song-%e5%ae%8b%e6%b3%89%e7%9b%9b-201602/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/choan-seng-song/)
 
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S. 哲學
+- 英國愛丁堡大學 — M.S.
+- 紐約協和神學院 — Ph.D.哲學
+
+## Employment
+- 美國加州柏克萊太平洋神學院暨聯合神學院 — Present — 教授
+- 台灣神學文化研究院 — Present — 院長
+- 台南神學院院長﹐普世基督教協會(WCC) 『信仰與教制』 — 副主任
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 陳美滿

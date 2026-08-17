@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 A recipient of the 2002 Avery Fisher Career Grant, Meng-Chieh Liu first made headlines in 1993 as a 21-year-old student, when he substituted for André Watts at the Academy of Music in Philadelphia with three hours’ notice. His acclaimed performance was followed by a number of widely praised appearances, including a recital at the Kennedy Center.
 
+<!-- tah-tables:start -->
+## Education
+- 柯蒂斯音樂院The Curtis Institute of Music — 1993 — B.M.
+
+## Employment
+- 柯蒂斯音樂院The Curtis Institute of Music — 1993- — 鋼琴教授
+- 芝加哥室內樂團Chicago Chamber Musicians — 2009- — 音樂總監
+- 波士頓新英格蘭音樂學院 New England Conservatory
+- 芝加哥羅斯福大學 Roosevelt University — 2006-
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

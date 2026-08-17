@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Dr. Wu received her Doctor of Musical Arts in Cello performance from the University of Texas at Austin. Studied with the renowned cello professor, Phyllis Young, and taught as a Teaching Assistant in the String Department and String Project at UT. Second Prize winner of the 2nd Annual WRR Chamber Music Competition in 2005. Accumulated over 10 years of teaching experience.
 
+<!-- tah-tables:start -->
+## Education
+- 台灣師範大學
+- 德州奧斯汀大學 — B.S.音樂系 — M.S.大提琴演奏
+- 德州奧斯汀大學 — Ph.D.大提琴演奏
+
+## Employment
+- New Hear Music Ministries — present — Teacher
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

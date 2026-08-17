@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist
 - **Source:** TAH Foundation Who’s Who
 
-Dr. Cecelia Tsai (葉明霞博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1970 — B.S., Chemistry
+- Carnegie Mellon Univ. — Ph.D., Chemistry
+
+## Employment
+- General Electric — Senior Researcher — Community — North American Taiwanese Women Association — President
+<!-- tah-tables:end -->
 
 ## Family
 

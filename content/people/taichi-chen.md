@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Taichi Chen began his violin studies in his native country Taiwan when he was 7 years old. At age 14 he was sent to Toho Gakuen of Music in Tokyo Japan to continue his music education. He was offered a full music scholarship to attend Boston University to study with Roman Totenberg in 1976. After three years he decided to study with Shmuel Ashkenasi at Northern Illinois University, where he earned his bachelors and masters degrees. He joined the Minnesota Orchestra in 1985 as a member of the second violin section.
 
+<!-- tah-tables:start -->
+## Education
+- Northern Illinois University — B.A. Music
+- Northern Illinois University — M.S. Music
+
+## Employment
+- Minnesota Orchestra — 1985-present — 2nd violin section
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Robin Chen

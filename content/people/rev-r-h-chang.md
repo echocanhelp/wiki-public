@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Assist in the establishment of Formosan Presbyterian Church in Los Angeles
 
+<!-- tah-tables:start -->
+## Education
+- Tainan Theological College & Seminary (台南神學院) — 1957
+- Pacific School of Religion (太平洋神學院) — 1962
+- San Francisco Theological Seminary (舊金山神學院) — 1967
+
+## Employment
+- Fresno Methodist Church — Pastor — (1967-1971) — Methodist Asian Church — Director of Ministry — (1973-1985) — Berkeley Methodist Church — Chief — (1985-1991) — Tokyo Christian Education, Japan — Missionary — (1991-1999)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 陳美華

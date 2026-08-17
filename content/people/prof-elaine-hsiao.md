@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 3. Recipient of The National Institutes of Health Director’s Early Independence Award, Distinction as Forbes’ 30 Under 30 in Science and Healthcare 2014
 
+<!-- tah-tables:start -->
+## Education
+- UCLA — 2006 — B.S., Science
+- Caltech — M.S. — 2012 — Ph.D.
+
+## Employment
+- UCLA, Biology and Bioengineering — Assistant Professor — California Institute of Technology Biology and Bioengineering — Assistant Professor
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

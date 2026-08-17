@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Chenming Hu (胡正明) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1968 — B.S.
+- 柏克萊加州大學 — 1970 — M.S.
+- 柏克萊加州大學 — 1973 — Ph.D.
+
+## Employment
+- 柏克萊加州大學 — Present — 教授
+- 台積電 — 2001-2004 — 首任技術執行長
+- Celestry Design Technologies, Inc — 1996- — President
+<!-- tah-tables:end -->
 
 ## Family
 

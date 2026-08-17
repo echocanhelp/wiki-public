@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Member of North American Taiwanese Medical Association/New York Chapter
 
+<!-- tah-tables:start -->
+## Education
+- New York Univ. — 1989 — D.D.S.
+
+## Employment
+- New York University — Associate Professor of Dental Clinic — Flushing, NY — Practicing Dentist — Community — North American Taiwanese Medical Association, New York Chapter — Member
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

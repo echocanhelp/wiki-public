@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-C. C. Chang (張健昌醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 高雄醫學院 — B.S.醫學
+- 芝加哥西北大學醫學院 — M.S.小兒科
+
+## Employment
+- ush-St. Lake Presbyterial Hospital — 小兒科主治醫師
+- ush Medical College — 臨床副教授
+- 恆春基督教醫院 — 1999- — 小兒專科醫師
+<!-- tah-tables:end -->
 
 ## Family
 

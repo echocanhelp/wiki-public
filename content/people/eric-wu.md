@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Eric Wu (吳爾融) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S.機械
+- 美國哥倫比亞大學 — year — Ph.D.工程
+
+## Employment
+- 汽車工業組件 — 設計與分析
+- Allied-Signal/AiResearch
+- 航太工業
+<!-- tah-tables:end -->
 
 ## Family
 

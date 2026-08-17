@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Dr. Long Song (Simon) Lin 林榮松醫師 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- Kaohsiung Medical Univ. — 1975 — M.D.
+- Vanderbilt Univ. — 1984 — Resident in Anesthesiology
+
+## Employment
+- Self-Employed — Anesthesiologist — (1986-) — Community — Taiwan Center Foundation / Greater Los Angeles — President — North American Taiwanese Medical Association (NATMA) — President (2000-2001) — NATMA Southern California Chapter — President — NATMA International Medical Mission — Photo Coordinator, A Decade of Serving the Needy 2003-2014
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 石秀文

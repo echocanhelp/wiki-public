@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Born and raised in Taiwan, Indigenous Taiwanese pianist Joy Chi Wang graduated from Manhattan School of Music with piano performance master degree and has presented abundant music performances as a soloist, chamber musician and singer at Carnegie Hall, National Taiwan Concert Hall and so on.
 
+<!-- tah-tables:start -->
+## Education
+- 師範大學 — B.S.
+- 曼哈頓音樂學院 — M.S.鋼琴演奏
+
+## Employment
+- Brooklyn Musical Arts — present — faculty
+- Manhattan School of Music — present — Staff accompanist
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

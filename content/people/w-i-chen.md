@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
-W. I. Chen (陳石溫愛) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 淡江女子中學
+
+## Employment
+- 聖經書院 — 風琴,鋼琴老師
+<!-- tah-tables:end -->
 
 ## Family
 

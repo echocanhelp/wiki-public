@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 I-Ling Chen, Annual Distinguished Young Artist of Taiwan in 1999, received her Doctor of Musical Arts degree from the University of Maryland in December 2002. As former faculty member of Moores School of Music, University of Houston and Howard Community College in Columbia Maryland, Dr. Chen has always dedicated herself to both performing and teaching piano.
 
+<!-- tah-tables:start -->
+## Education
+- 英格蘭音樂院演藝術博士學位 — B.S. Music
+- University of Maryland — 2002 — Ph.D. Music Art
+
+## Employment
+- 劍橋Longy School of Music — Teaching
+- 新英格蘭音樂學院 — Teaching
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

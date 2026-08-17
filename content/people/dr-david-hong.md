@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Economic research, management, teaching, participation in Taiwan's economic policy planning and decision
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1963 — B.A., Economics
+- Vanderbilt Univ. — 1967 — M.A., Economics
+- Univ. of Minnesota — 1978 — Ph.D., Economics
+
+## Employment
+- Public Service Dept., Minnesota — Director, Chief Secretary — (1975-1984) — Taiwan Institute of Economic Research (台灣經濟研究院) — Deputy Director of Energy and Environment Institute — (1993-1994) — Dept. of Finance, Taipei City Government (臺北市政府財政局) — Director — (1994-1995) — Taiwan Institute of Economic Research (台灣經濟研究院) — Director and Deputy Dean — (1995-2015) — Taiwan Institute of Economic Research (台灣經濟研究院) — Dean — (2006-2015)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** 梁信惠

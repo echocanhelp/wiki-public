@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Member of the North Central District Association of the American Higher Education Accreditation Committee (美國高等教育評審委員會中北區協會委員), 1989-present
 
+<!-- tah-tables:start -->
+## Education
+- Tunghai Univ. — 1963 — B.A., Foreign Languages
+- Michigan Univ. — 1968 — M.S., Communication — 1970 — Ph.D., Communication
+
+## Employment
+- Saginaw State Valley Univ. — VP, Professor — (1978-2006) — Ming Chuan Univ. — Executive VP
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Hwei Mei Yien

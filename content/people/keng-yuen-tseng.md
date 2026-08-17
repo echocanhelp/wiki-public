@@ -21,6 +21,11 @@ last_reviewed: 2026-08-17
 
 A native of Taiwan, Keng-Yuen Tseng began studying the violin at the age of five and made his performing debut at the age of seven. Upon his arrival in the United States in 1980, Mr. Tseng was awarded a full scholarship to the Manhattan School of Music, where he studied with Erick Friedman.
 
+<!-- tah-tables:start -->
+## Employment
+- 約翰霍普金斯大學琵琶地音樂學院 — 弦樂系主任
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

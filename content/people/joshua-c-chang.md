@@ -22,6 +22,16 @@ last_reviewed: 2026-08-17
 UT Southwestern Medical Center at Dallas
 Ph.D. neuroscience and embryonic development
 
+<!-- tah-tables:start -->
+## Education
+- 中興大學 — B.S. ecology and physiology
+- 台灣大學 — M.S. Science
+- UT Southwestern Medical Center at Dallas — Ph.D. neuroscience and embryonic development
+
+## Employment
+- Genentech — 2014-present — Researcher in Molecular Biology
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

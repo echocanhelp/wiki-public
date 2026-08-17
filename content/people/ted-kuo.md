@@ -19,7 +19,23 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Ted Kuo (郭來哲博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 日本早稻田大學 — 1963 — B.S.
+- . Kansas State University — 1966 — M.S.
+- . NJIT — 1982 — Ph.D. in Engineering Science
+
+## Employment
+- Thomas & Betts Co. — 1966-1981 — 工程師
+- 開創Oasis Foods Co. — 1981-1997 — President
+- 開創Sunrise Industries, Inc.不動產公司 — 1983-now — President
+- 完成Warren34單位高級小社區 — 1994-1999 — President
+- 開創Broadway Associates, LLC不動產管理公司 — 1997-now — President
+- 開創T & JK Associates LLC不動產管理公司 — 1998-now — President
+- 開創T & JK Associates III, LLC不動產管理公司 — 2004-now — President
+- Brunswick 18 LLC,開創不動產管理公司 — 2010-now — President
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-H. J. Lin (林宏哲博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 美國麻省理工學院 — 1985 — B.S. 電機
+- 美國麻省理工學院 — year — B.S. 電機
+- 美國加州理工學院 — 1992 — Ph.D. 電機
+
+## Employment
+- 華虹半導體 — 2006-Present — 副總裁
+<!-- tah-tables:end -->
 
 ## Family
 

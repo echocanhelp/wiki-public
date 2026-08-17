@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Felix Liu (劉富理牧師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 中原理工學院 — 1963 — B.S. 土木
+- 台南神學院 — 1967
+- 亞州理工學院 — 1970 — M.E.
+- Fuller神學院
+
+## Employment
+- 台福基督教會 Pasadena, CA — 牧師
+- 台福神學院 El Monte — 牧師 — Rev. Felix Liu
+<!-- tah-tables:end -->
 
 ## Family
 

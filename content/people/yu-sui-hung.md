@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Dr. Hung joined the faculty at Vander Cook in 2006 after teaching piano, theory, and musicianship at the University of Cincinnati and Temple University. She received her doctor of musical arts in piano and theory from University of Cincinnati’s College-Conservatory of Music, her master of music degree in piano at Temple University, and her bachelor of fine arts degree in piano and clarinet from National Taiwan Normal University. A chamber music enthusiast, Dr. Hung performs frequently as a solo, collaborative, and orchestral pianist, and has appeared in major concert venues throughout the U.S. and her native Taiwan, collaborating with members of the Philadelphia Orchestra, Cincinnati Symphony, and Cincinnati Chamber Orchestra. She is an active member of Music Teachers National Association and its regional chapters, as well as Pi Kappa Lambda National Music Honor Society.
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Normal University — B.S. Music
+- Temple University — 2002 — M.S. Piano performance
+- University of Cincinnati — 2006 — Ph.D. Piano performance
+
+## Employment
+- VanderCook College of Music — Present — Teaching Piano
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

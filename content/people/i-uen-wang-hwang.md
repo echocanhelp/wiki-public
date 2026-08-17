@@ -21,6 +21,11 @@ last_reviewed: 2026-08-17
 
 I-Uen Wang Hwang was born in Tainan, Taiwan and moved to the United States in 1994. She studied music composition at the Taiwan National Normal University (1987-1991, B.S.) and the University of Pennsylvania (1994-1998, Ph.D.). During the period of the University of Pennsylvania, she was awarded the Halstead Prize (1996, 1998) and the Nitzsche Prize (1997). She studied with George Crumb, James Primosch, Jay Reise, and Richard Wernick.
 
+<!-- tah-tables:start -->
+## Education
+- Taiwan National Normal University — 1991 — B.S. music composition — University of Pennsylvania — 1998 — Ph.D. music composition
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

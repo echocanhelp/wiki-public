@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 Source from http://www.taiwancenter.com/sdtca/articles/2-04/7.html(美國加州聖地牙哥台灣同鄉會)
 
+<!-- tah-tables:start -->
+## Education
+- 成功大學 — B.S. 礦冶
+- University of Missouri — M.S.地球物理
+- Rice University — Ph.D.地球物理
+
+## Employment
+- 日本網路Melma”AC”通信 — present — 專欄作家
+- 亞洲國際通訊"AC”通信 — 1996r — 專欄作家
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

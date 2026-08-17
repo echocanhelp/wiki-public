@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 University of Medicine and Dentistry of New Jersey University Hospital
 Internship
 
+<!-- tah-tables:start -->
+## Education
+- Kaohsiung Medical Univ. — 1966 — M.D.
+
+## Employment
+- University of Medicine and Dentistry of New Jersey University Hospital — Internship — Northwestern Memorial Hospital — Residency — Advocate Christ Medical Center — Otolaryngology Specialist — Community — Taiwanese American Chamber of Commerce in Chicago — President
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

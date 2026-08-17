@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Pianist Hsiang-Ling Hsiao 蕭湘舲, a native of Taiwan, is a third-year doctoral student in Collaborative Piano under Professor Rita Sloan at the University of Maryland. While in her undergrad, she discovered that her passion for collaborating with instrumentalists was more than just a hobby. In addition, participating in Maryland Opera Studio’s productions has sparked her obsession with opera, along with an ever-growing fondness of art songs. Though being a collaborative pianist and performing frequently with instrumentalists and singers keeps her busy, Ms. Hsiao enjoys playing as much solo music as time permits, and she was honored to perform Rachmaninoff’s First Piano Concerto with University of Maryland Repertory Orchestra as a result of winning the third prize in the 2011 UMD Concerto Competition.
 
+<!-- tah-tables:start -->
+## Education
+- University of Texas at Austin — B.S. Piano Performance
+- Collaborative Piano from Maryland — M.S. Music
+
+## Employment
+- 聖經教會樂道堂 — Pianist
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

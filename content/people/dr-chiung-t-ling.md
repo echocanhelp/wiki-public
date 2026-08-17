@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Dr. Chiung T. Ling 林安息(炯東)醫師 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- Taiwan Governor's Medical School (台灣總督府醫學校) — 1918 — B.S.
+- John Hopkins Univ. — 1952 — Ph.D., Biochemical
+
+## Employment
+- Chunyangtang Hospital (春陽堂醫院) — Self-Employed — Jefferson Medical College — Assistant Professor — Johns Hopkins University — Associate Professor
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Daughter:** 林似蘭

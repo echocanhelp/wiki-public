@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, scientist
 - **Source:** TAH Foundation Who’s Who
 
-Joseph Yang (楊澤修博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 加州理工學院 — 流體力學
+
+## Employment
+- Shell Development Research Center — 研究科學家
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist
 - **Source:** TAH Foundation Who’s Who
 
-Yi-Cheng Liu is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Texas A&M University — 2013
+
+## Employment
+- AROG Pharmaceuticals, Inc. — present — Research Associate
+- University of Minnesota and Texas A&M University — Research associate
+<!-- tah-tables:end -->
 
 ## Family
 

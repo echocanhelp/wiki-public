@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Jeffrey Lee (李友禮) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Taiwan National Univ. — 1962 — B.A. Economic
+- Utah State Univ. — 1965 — Accounting
+
+## Employment
+- Chicago — 1967
+- Jeffrey Lee & Associates Inc. — 1982 — Owner
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
-%E9%Bb%83%E8%94%A1%E7%91%9E%E9%9B%B2 (黃蔡瑞雲) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 日本東京師專
+
+## Employment
+- 台南國小 — 老師
+<!-- tah-tables:end -->
 
 ## Family
 

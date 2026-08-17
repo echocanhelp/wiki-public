@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Jau-Ching Lai is a graduate of Soo-Chow University in Taiwan, majoring in Vocal, minoring in Piano. Previously in 1990, she was a student of Professor Natalie Bodanyia at Manhattan School of Music. She received her master degree in Music from USC in 1993 and has studied with Professor Magaret Schaper and Professor Bard Souverkrop. Currently, she is an assistant conductor for the Chin-Chin Children’s Choir in Pomona and pursues a career as a piano teacher.
 
+<!-- tah-tables:start -->
+## Education
+- 東吳大學 — B.A. 聲樂
+- 南加州大學 — 1993 — B.S. 音樂演奏
+
+## Employment
+- Pomona青少年合唱團 — 助理指揮
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

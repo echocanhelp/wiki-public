@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
-Ching-Fen Hsiao (蕭清芬) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 林斯頓神學院 — Ph.D.
+
+## Employment
+- 台南神學院 — 院長
+- 佳壇台灣基督長老教會 — 牧師
+<!-- tah-tables:end -->
 
 ## Family
 

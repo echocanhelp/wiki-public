@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Chio-Zong (Frank) Chen 陳秋榮 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- University of Lowa — 1975 — PhD. in Plasma Physics
+
+## Employment
+- National Cheng-Kung University — Joint Professor
+- National Central University — Chair Professor
+- National Space Origanization — Chief Scientist
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

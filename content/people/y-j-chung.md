@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** artist
 - **Source:** TAH Foundation Who’s Who
 
-Y. J. Chung (鍾宜君) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 英國Wolverhampton藝術學院 — B.S.製陶
+- 亞利桑那州立大學 — M.S.
+
+## Employment
+- Present — 陶藝家
+<!-- tah-tables:end -->
 
 ## Family
 

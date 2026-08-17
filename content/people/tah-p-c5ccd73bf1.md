@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-%E9%99%B3%E5%9C%8B%E6%98%8E (陳國明) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 國立中興大學 — 美國堪薩斯州立大學
+
+## Employment
+- 農林廳台中區農業改良場
+- 非洲農耕隊
+- 菇場經營
+<!-- tah-tables:end -->
 
 ## Family
 

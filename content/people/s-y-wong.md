@@ -19,7 +19,12 @@ last_reviewed: 2026-08-17
 - **Core roles:** artist
 - **Source:** TAH Foundation Who’s Who
 
-S. Y. Wong (翁水元) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 日本上智大學 — B.S.
+- The Cleveland Institute of Art — M.S.
+<!-- tah-tables:end -->
 
 ## Family
 

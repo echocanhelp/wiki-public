@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Hailed by the Sydney Morning Harold as a “cellist with great facility and confidence”, and Strings magazine as a cellist “with effortless technique, a beautiful, warm tone, and an unabashedly romantic soul”, Kenneth Kuo is rapidly establishing an international reputation as one of the top cellists of his generation.
 
+<!-- tah-tables:start -->
+## Education
+- 茱莉亞學院 — 1996 — B.S. Music
+- 耶魯大學音樂學院 — 1999 — M.S. Music
+
+## Employment
+- 紐英格蘭州的紐海芬交響樂及管弦樂團 — Year??? — Cellinist
+- The Connecticut School of Music — Founder & President
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

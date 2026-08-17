@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Prof. Han-Jung Ko (柯涵容教授) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 2002-2007 — B.A., Psychology
+- Univ. of Southern California — 2008-2010 — M.S., Gerontology
+- Oregon State Univ. — 2010-2015 — Ph.D., Philosophy
+
+## Employment
+- Chang Gung Memorial Hospital, Taiwan — Research assistant — (2007-2008) — Oregon State Univ. — Doctoral Candidate — (2010-) — Central Michigan Univ. — Faculty; Adjunct Faculty — (2015-)
+<!-- tah-tables:end -->
 
 ## Family
 

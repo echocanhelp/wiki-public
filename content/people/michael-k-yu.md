@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-Michael K. Yu (游貴森醫師) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Dartmouth College, Hanover, New Hampshire — 1991 — B.S.
+- New York University School — 1995 — M.D. Medicine
+
+## Employment
+- present — urologist
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Shing Lung Tseng (曾醒倫) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 亞利桑那大學 — B.S. 電機工程
+- 紐澤西理工學院, — M.S.
+
+## Employment
+- 美國德季達發公司 — 副總裁
+<!-- tah-tables:end -->
 
 ## Family
 

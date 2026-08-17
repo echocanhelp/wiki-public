@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Co-Founder of Taiwanese Alliance for Interculture (N.California)(台灣協志會(北加州)創始人之一) 1973
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1962 — B.S., Mech. Eng.
+- Univ. of Minnesota — 1967 — Ph.D., Aeronautical Eng.
+
+## Employment
+- Rensselaer Polytechnic Institute — Assistant Professor — (1967-) — IBM — Project Manager & Research Staff — (1968-) — Komag, Inc. — VP Engineering, R&D — (1983-) — Community — Taiwanese Alliance for Interculture (North California) — Co-Founder — Taiwanese American Federation of North California — Co-Founder — Taiwan Center / North California — Co-Founder — Paradise Culture Associates — Co-Founder
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Julie (張初枝)

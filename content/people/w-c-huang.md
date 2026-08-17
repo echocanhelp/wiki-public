@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-W. C. Huang (黃維城) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1960 — M.D.
+- St. Mary Hospital — residency
+
+## Employment
+- 台南市救濟院 — 醫師
+- 幼安小兒科 — 醫師
+<!-- tah-tables:end -->
 
 ## Family
 

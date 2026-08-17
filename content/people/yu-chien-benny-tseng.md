@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Yu-Chien (Benny) Tseng 曾宇謙 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- The Curtis Institute of Music — 2016 — B.S.
+
+## Employment
+- Violinist
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

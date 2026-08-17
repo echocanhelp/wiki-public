@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 2.Board of Director - Intercollegiate Taiwanese American Students Association (ITASA)
 
+<!-- tah-tables:start -->
+## Education
+- UT Austin — 2010 — B.A.
+- University of Southern California — 2012 — M.S. Social Work
+
+## Employment
+- City of Austin — Present — Culture and Art Education Coordinator
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 Violinist Kuan Cheng Lu joined the New York Philharmonic at the start of the 2004-05 season – the first Taiwanese classical musician to earn a seat in the Philharmonic in its 170-year history. Mr. Lu has received numerous awards and scholarships that include the top prize in the Taiwan National Violin Competition, first prize in the ASTA string competition, the Raphael Bronstein Award, and the Taiwan Chi-Mei Corporation’s Outstanding Young Artist award. He received his bachelor’s in music degree from Oberlin College, his master’s in music from the Manhattan School of Music, and his doctor of musical arts from the Graduate Center, City University of New York (CUNY). He is an alumnus of the Music Academy of the West, now a partner in the New York Philharmonic Global Academy, and has studied with former New York Philharmonic Concertmaster Glenn Dicterow, Lisa Kim, Acting Principal, Second Violin Group, and Yoko Takebe. Other teachers have included Roland and Almita Vamos, Daniel Phillips, Julia Bushkova, as well as his father, Chung Chih Lu.
 
+<!-- tah-tables:start -->
+## Education
+- 奧柏林音樂學院大學部 — B.S. Music
+- 哈坦音樂學院 — M.S. Music
+
+## Employment
+- 紐約愛樂交響樂團 — Present — 小提琴手
+- 曼哈坦交響樂團 — 首席小提琴
+- 奧柏林交響樂團小提琴 — 首席小提琴
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

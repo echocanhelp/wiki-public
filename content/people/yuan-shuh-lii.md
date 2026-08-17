@@ -21,6 +21,17 @@ last_reviewed: 2026-08-17
 
 Source from http://www.taiwancenter.com/sdtca/articles/2-04/7.html(美國加州聖地牙哥台灣同鄉會)
 
+<!-- tah-tables:start -->
+## Education
+- 東海大學 — B.S.國際貿易
+- Portland State University — M.S.企業管理
+- Portland State University — Ph.D.行銷
+
+## Employment
+- Portland State University — 1995-2009 — 研究肋理
+- 逢甲大學 — present — 行銷系教授,主任
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

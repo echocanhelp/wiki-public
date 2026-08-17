@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Sue Chen (陳禹辛) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 東吳大學 — B.A. 會計系
+- 路易斯安那州立大學 — M.S.電腦
+
+## Employment
+- Transamerica Financial Advisors Inc. — 投資理財服務
+- AXA Advisors — Financial advisor
+<!-- tah-tables:end -->
 
 ## Family
 

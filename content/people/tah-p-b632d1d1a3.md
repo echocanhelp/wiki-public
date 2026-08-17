@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-%E6%9E%97%E7%Be%8E%E7%8E%B2 (林美玲) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S. 外文系
+
+## Employment
+- Brown, Harris, Stevens — 副總經理
+- Avon
+<!-- tah-tables:end -->
 
 ## Family
 

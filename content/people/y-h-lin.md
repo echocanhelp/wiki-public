@@ -19,7 +19,13 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Y. H. Lin (林永雄) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Employment
+- Hop Industries Cort., Lyndhurst, NJ — present — CEO
+- ITP Corp., S. Hackensack, NJ — present — president
+- 達新塑膠工業公司 — 總經理
+<!-- tah-tables:end -->
 
 ## Family
 

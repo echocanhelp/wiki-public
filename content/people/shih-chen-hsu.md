@@ -19,7 +19,11 @@ last_reviewed: 2026-08-17
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
-Shih-Chen Hsu (許世真) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Normal Univ. — B.S., Music
+<!-- tah-tables:end -->
 
 ## Family
 

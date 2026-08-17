@@ -21,6 +21,19 @@ last_reviewed: 2026-08-17
 
 12. Rosalind Kornfeld Award for Lifetime Achievement in Glycobiology, Society for Glycobiology, 2011
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Univ. — 1955 — B.S., 農化
+- National Taiwan Univ. — 1957 — M.S., 農化
+- Univ. of Iowa — 1962 — Ph.D., Biochemistry
+
+## Employment
+- Johns Hopkins Univ. — 1965-70 — Assistant Professor
+- Johns Hopkins Univ. — 1971-74 — Associate Professor
+- Johns Hopkins Univ. — 1974-12 — Professor
+- Johns Hopkins Univ. — 2013- — present — Academy Professor
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Reiko T. Lee

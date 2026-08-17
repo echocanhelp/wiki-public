@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Beatrice Long 隆信真 is a top prize winner in several international competitions including Robert Casadesus International Piano Competition, World Piano Competition of Cincinnati and the Taipei International Piano Competition.
 
+<!-- tah-tables:start -->
+## Education
+- The Curtis Institute of Music — B.A., Music
+- Peabody Institute of the Johns Hopkins Univ. — M.A., Music
+
+## Employment
+- Peabody Institute of the Johns Hopkins University — Teaching — Watchung Arts Center, NJ — Artistic Director — Naxos — Recording Artist — Community — Formosa Chamber Music Society of New York — Invited Performer
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Mother:** 卓靜純

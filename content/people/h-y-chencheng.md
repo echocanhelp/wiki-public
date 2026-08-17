@@ -19,7 +19,12 @@ last_reviewed: 2026-08-17
 - **Core roles:** Taiwanese American (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
-H. Y. ChenCheng (陳鄭弘堯) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- New Jersey醫學院 — B.S.
+- Montclair State University — M.S.語言
+<!-- tah-tables:end -->
 
 ## Family
 

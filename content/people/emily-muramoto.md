@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Emily Muramoto is a sophomore in high school at the Orange County School of the Arts (OCSA). She is in the classical voice conservatory at OCSA and has performed in numerous opera productions at her school. Emily’s repertoire includes Classical, Broadway, and Jazz vocals. On February 21, 2016, Emily performed a solo with over 100-person orchestra that was twice recognized as a National Grammy Signature School. In December 2015, Emily performed at the Weill Concert Hall in Carnegie Hall, in New York City having placed first in the 2015 American Protégé International Voice Competition.
 
+<!-- tah-tables:start -->
+## Education
+- Orange County School of the Arts (OCSA) — High School / Classical Voice Conservatory
+
+## Employment
+- Orange County Lutheran Church — Dance Instructor / Choreographer — Community — Orange County Lutheran Church — Instructor teaching dance to children ages 5-12 from low income families
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, educator
 - **Source:** TAH Foundation Who’s Who
 
-Margaret Liu (林美華) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 實踐家政女子大學 — 1967 — B.S. 食品營養
+
+## Employment
+- Mega Academy, Inc. — Funder, Principal
+- 長智諮詢公司 — 副總經理
+<!-- tah-tables:end -->
 
 ## Family
 

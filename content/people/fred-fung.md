@@ -19,7 +19,18 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician, professor, lawyer, educator
 - **Source:** TAH Foundation Who’s Who
 
-Fred Fung (馮耀祥) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台北醫學大學 — 1979 — B.S.
+- M.S.藥理&毒物 — 3. — Ph.D.醫學,法學
+
+## Employment
+- 加州大學爾灣分校 — 臨床教授
+- 夏普醫療系統職業醫學與預防醫學部 — 主任
+- 加州最高法院及聯邦南區法院 — 執業律師
+- American Board of Medical Specialties — 總編輯
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Office of the Attorney General, Criminal Appeals, Trial, and Writs section
 Deputy Attorney General
 
+<!-- tah-tables:start -->
+## Education
+- Univ. of California, Berkeley — 1993 — M.S., Governmental Affairs
+- Univ. of the Pacific, McGeorge School of Law — 1997 — J.D.
+
+## Employment
+- Office of the Attorney General, Criminal Appeals, Trial, and Writs section — Deputy Attorney General — Community — City of Yorba Linda — Council Member — City of Yorba Linda — Mayor Pro Tem — City of Yorba Linda — Mayor — Lifesteps Family and Children Services — President — Republican Party of Orange County — Vice-Chair — Yorba Linda Gracious Living Society — Founder — Vista Del Verde community Neighborhood Watch — Coordinator
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Husband:** James Huang

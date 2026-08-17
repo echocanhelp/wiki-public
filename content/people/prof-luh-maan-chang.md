@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Prof. Luh-Maan Chang 張陸滿教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Cheng Kung Univ. — 1971 — B.S., Civil Engineering
+- Univ. of Texas — 1983 — M.S. — Ph.D.
+
+## Employment
+- ITRI, Research Park Development and Integrated Circuit Demonstration Plant Construction — Facility Engineer — (1974-1977) — University of Florida at Gainesville — Facility — (1983-1985) — Purdue University — Professor & Professor Emeritus — (1986-2006) — Dept. of Civil Engineering, National Taiwan University — Professor & Director — (2006-)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

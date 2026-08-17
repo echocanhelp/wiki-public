@@ -21,6 +21,16 @@ last_reviewed: 2026-08-17
 
 Dr. Cheng-Yin (Janine) Lin 林政穎博士 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- B.A., Violin
+- Peabody Institute of The Johns Hopkins Univ. — M.Mus.
+- Louisiana State Univ. — Ph.D., Musical Arts
+
+## Employment
+- LSU Performing Arts Academy — Music Teacher — (2009-2012) — Kid's Orchestra Music Program, Baton Rouge, LA — Violin Teacher — (2013-2013) — Baton Rouge Symphony Orchestra — Assistant Concertmaster — (2010-) — Burgundy Farm Country Day School, Alexandria, VA — Violin Teacher — (2014-) — Louisiana State University — Violin Instructor (undergraduate students)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

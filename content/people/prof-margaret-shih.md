@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Senior Associate Dean, UCLA Anderson School of Management Full Time MBA Program 2014-present
 
+<!-- tah-tables:start -->
+## Education
+- Stanford Univ. — B.A., Psychology
+- Harvard Univ. — M.A., Social Psychology — Ph.D., Social Psychology
+
+## Employment
+- University of Michigan — Professor — UCLA Anderson School of Management — Professor and Associate Dean — (2014-) — UCLA — Associate Vice Chancellor of BruinX — Neil Jacoby — Chair in Management — Community — NATWA — Speaker on Leadership & Leadership Training — NATPA — Speaker on Leadership & Leadership Training
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Father:** 施興國

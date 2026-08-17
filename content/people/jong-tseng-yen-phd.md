@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist
 - **Source:** TAH Foundation Who’s Who
 
-Jong-Tseng Yen PhD (顏榮增博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan University — 1960-1964 — MS Animal Science
+- University of Illinois — 1968-1970 — MS Animal Nutrition — 1970-1975 — Ph.D. Animal Nutrition
+
+## Employment
+- USDA – ARS, US Meat Animal Research Center — 1978-2004 — Research Animal Scientist
+<!-- tah-tables:end -->
 
 ## Family
 

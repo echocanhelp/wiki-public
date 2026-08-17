@@ -19,7 +19,19 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Lung-Wen Tsai (蔡隆文博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Taiwan University — 1967 — B.S., Mechanical Eng.
+- the State University of New York at Buffalo — 1970 — M.S., Mechanical Eng.
+- Stanford University — 1973 — Ph.D., Mechanical Eng.
+
+## Employment
+- General Motors Co.
+- Hewlett-Packard Company
+- University of Maryland in College Park — 1986-2000 — Professor
+- UC Riverside — 2000-2002 — Professor — Dr. Lung-Wen Tsai
+<!-- tah-tables:end -->
 
 ## Family
 

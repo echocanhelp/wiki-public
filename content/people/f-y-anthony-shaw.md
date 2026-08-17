@@ -19,7 +19,14 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-F.Y. Anthony Shaw (蕭芳苑) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Howard Univ. — B.S., Mechanical Engineering
+
+## Employment
+- Rubbermaid Plastic Co. — 製品工程師
+<!-- tah-tables:end -->
 
 ## Family
 

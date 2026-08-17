@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** physician, professor
 - **Source:** TAH Foundation Who’s Who
 
-Prof. Ta-Chiang Liu (劉大強教授) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- National Yang Ming Univ. — 1997 — M.D.
+- Imperial College London, UK
+
+## Employment
+- Methods in Molecular Biology Series (Oncolytic Virus) — Series Editor — (2011-) — Washington Univ. — Assistant Professor, Pathology & Immunology — (2012-)
+<!-- tah-tables:end -->
 
 ## Family
 

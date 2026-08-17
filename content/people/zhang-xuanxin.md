@@ -40,8 +40,7 @@ Pages that link to **zhang-xuanxin** (zhang-xuanxin):
 
 1. [[organizations/irvine-taiwanese-presbyterian-church.md|irvine-taiwanese-presbyterian-church]]
 
-### Sources
-- [TAH #2322 encyclopedia: 2322. Billy Chang 張宣信](https://taiwaneseamericanhistory.org/whos-who-2322/) (1)
+### Sources (1)
 
 1. [[sources/irvine-taiwanese-presbyterian-church.md|irvine-taiwanese-presbyterian-church]]
 

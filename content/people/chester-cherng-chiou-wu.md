@@ -21,6 +21,15 @@ last_reviewed: 2026-08-17
 
 Chester Cherng Chiou Wu 吳澄秋博士 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
+<!-- tah-tables:start -->
+## Education
+- National Taiwan Normal Univ. (國立臺灣師範大學) — B.A., English literature
+- Massachusetts Institute of Technology — Ph.D., Chemistry
+
+## Employment
+- Monsanto Company — Senior Research Specialist — (-2000)
+<!-- tah-tables:end -->
+
 ## Family
 
 - **Wife:** Ursula Wu (陳月秀)

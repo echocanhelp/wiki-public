@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** engineer
 - **Source:** TAH Foundation Who’s Who
 
-Peter Su (蘇國雄) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 成功大學 — M.S.土木
+- 科羅拉多大學 — Ph.D.
+
+## Employment
+- 台電
+<!-- tah-tables:end -->
 
 ## Family
 

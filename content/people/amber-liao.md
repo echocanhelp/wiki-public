@@ -19,7 +19,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor
 - **Source:** TAH Foundation Who’s Who
 
-Amber Liao (廖幼萱) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 國立台灣師範大學 — Bachelor of Fine Arts
+- Peabody Institute — Master of Music
+- Manhattan School of Music — Doctor of Musical Arts
+
+## Employment
+- Seton Hall University — Adjunct Professor — Montclair State University — Staff Accompanist — Amber Liao Piano Studio — Private Piano Instructor
+<!-- tah-tables:end -->
 
 ## Family
 

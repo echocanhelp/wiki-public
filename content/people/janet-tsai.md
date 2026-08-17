@@ -21,6 +21,21 @@ last_reviewed: 2026-08-17
 
 Janet Tsai earned her Bachelor of Arts degree in Church Music from Taiwan Theological College & Seminary. She started taking organ lessons during her junior year with Alice Chen at the college. Janet had been named the first prize winner for the organ scholarship competition in 2001 and 2002.
 
+<!-- tah-tables:start -->
+## Education
+- Taiwan Theological College & Seminary — 2002 — B.S. Art
+- University of Louisville — 2007 — M.S. Music
+- University of Cincinnati College-Conservatory of Music — 2014 — Ph.D. Musical Arts
+
+## Employment
+- Westminster Presbyterian Church (IL) — Present — Organist
+- Taiwanese Presbyterian Church in Greater Chicago — 2011-2013 — Handbell Choir Director
+- Monfort Heights United Methodist Church — 2010-2011 — Organist
+- Church by the Woods — 2009-2010 — Music Director/Organist/Pianist
+- Buechel Park Baptist Church — 2006-2007 — Organist
+- St. Mary’s Catholic Church — 2005-2006 — Organist
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

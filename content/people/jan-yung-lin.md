@@ -19,7 +19,17 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur, lawyer
 - **Source:** TAH Foundation Who’s Who
 
-Jan-Yung Lin (林政原博士) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — B.S.工商管理
+- 柏克萊加州大學 — 1986 — M.S.工商管理
+- 康乃爾大學 — 1997 — Ph.D. 法律
+
+## Employment
+- . Law Office of Jan-Yung Lin — 2011-Present — President
+- GOODWIN PROCTER LLP — 律師
+<!-- tah-tables:end -->
 
 ## Family
 

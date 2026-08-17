@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** entrepreneur
 - **Source:** TAH Foundation Who’s Who
 
-Charles Huang (黃啟仁) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Chung Yuan Christian Univ. (中原大學) — 1970
+- Auburn Univ. Alabama — 1974
+
+## Employment
+- CCH Energy — Managing Director — Community — Taiwanese American Foundation — President — Michigan State Government — Advisor
+<!-- tah-tables:end -->
 
 ## Family
 

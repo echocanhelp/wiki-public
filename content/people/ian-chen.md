@@ -22,6 +22,15 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. This Land won him nominations at several film and music festivals across the globe
 
+<!-- tah-tables:start -->
+## Education
+- Cornell Univ. — 2007-2011 — B.A., Music, Biology
+- NYU — 2011-2012 — M.S., Music
+
+## Employment
+- Composer for Film and Multimedia — (2010-) — Alkaloide Music Productions, LLC — Orchestrator, Arranger — (2012-2015) — NJ Buddha's Light Youth Chinese Orchestra — Guest Conductor — (2012-2012)
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

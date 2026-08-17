@@ -19,7 +19,12 @@ last_reviewed: 2026-08-17
 - **Core roles:** artist
 - **Source:** TAH Foundation Who’s Who
 
-Yue-Juan Joanne Guo (郭玥娟) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- Sophia Univ., Tokyo — B.S., History
+- New York Univ. — M.S., Sociology
+<!-- tah-tables:end -->
 
 ## Family
 

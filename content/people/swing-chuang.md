@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Taiwan's first NAIA (National Association of Intercollegiate Athletics) first-level champion team member (台灣首位NAIA第一級冠軍隊成員)
 
+<!-- tah-tables:start -->
+## Education
+- Vanguard Univ. — 2014 — B.A., Business Administration
+
+## Employment
+- Costco Taiwan — Staff — Kao-Yuan Vocational High School Basketball Team (高苑工商籃球隊) — Physical Trainer — Kaohsiung American School (高雄美國學校) — Lecturer
+<!-- tah-tables:end -->
+
 ## Family
 
 _No filled family fields on the TAH profile._

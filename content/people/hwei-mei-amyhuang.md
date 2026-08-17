@@ -19,7 +19,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, physician, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-Hwei-Mei Amy Huang (謝惠美) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+<!-- tah-tables:start -->
+## Education
+- 台灣大學 — 1959 — B.S. 醫科
+
+## Employment
+- George Washington University — Professor of Microbiology
+- Fairfax Hospital — Pathologist
+<!-- tah-tables:end -->
 
 ## Family
 
