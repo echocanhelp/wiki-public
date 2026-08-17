@@ -186,24 +186,17 @@ Notable quotes and mentions of **陳柏宇** in Taiwan Justice articles:
 - **High:** Name + 2025 titled role as printed on the society org chart (owner-held copy, 2026-08-03 capture)
 - **Pending:** Preferred English spelling (where marked provisional), full biography, tenure dates beyond chart year
 - `verification_status: pending` until member or officer review
+- **Owner 2026-08-17:** TAH encyclopedia Paul Y. Chen 陳柏宇 is **not** this officer. TAH Who’s Who `/person/paul-chen/` (ophthalmologist) was wrongly merged here and has been unmerged.
 
-<!-- tah-tables:start -->
-## Education
-- Berkeley University — B.S.
-- Indiana University School of Medicine — M.S. medicine
-
-## Employment
-- The Permanente Medical Group — Ophthalmology,
-<!-- tah-tables:end -->
-
-## Sources
-- [TAH #1788 encyclopedia: 1788. Paul Y. Chen 陳柏宇](https://taiwaneseamericanhistory.org/whos-who-1788-paul-y-chen/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/paul-chen/)
+## Disambiguation
+- [[people/paul-y-chen|Paul Y. Chen (陳柏宇)]] — TAH #1788 (UCLA / Marshall / Taiwan Center chair 2020–2022). Separate person.
+- [[people/dr-paul-chen|Dr. Paul Chen]] — TAH Who’s Who physician, Redwood City. Separate person.
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-
 - [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
 - [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]] — President (會長)
-- [[people/yang-jia-you|Charles Yang (楊嘉猷)]] — Treasurer (財務長); founding president
+- [[people/yang-jia-you|Charles Yang (楊嘉猷)]] — 創會會長
 - [[people/freeman-huang|Freeman Huang (黃樹人)]] — Secretary (秘書)
+- [[people/paul-y-chen|Paul Y. Chen (陳柏宇)]] — TAH encyclopedia (not this officer)
+- [[people/dr-paul-chen|Dr. Paul Chen]] — TAH ophthalmologist (unmerged)
+

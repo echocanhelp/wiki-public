@@ -6,8 +6,10 @@ tags:
   - TAHS
   - tahs-leadership
   - Taiwanese-American
+  - tah-whos-who
 name_en: "Alan Thian"
 name_zh_hanzi: "田詒鴻"
+name_zh: "田詒鴻"
 verification_status: pending
 last_reviewed: 2026-08-17
 source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
@@ -17,9 +19,11 @@ source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
 **Alan Thian** (田詒鴻) serves as **會務指導會主席 — 會務 (會務指導主席), TAHS 2025** of the [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS / 台美人歷史協會)]].
 
 ## Identity Snapshot
-- **English:** Alan Thian
+- **English:** Alan Thian / Yee Phong (Alan) Thian
 - **Chinese:** 田詒鴻
-- **Core role (2025):** 會務指導會主席 — 會務指導會主席 — 會務 (會務指導主席), TAHS 2025
+- **Birth:** 1952, Singapore (TAH Who’s Who)
+- **US arrival:** 1976, Los Angeles, CA (TAH Who’s Who)
+- **Core role (2025):** 會務指導會主席 — 會務, TAHS 2025
 - **Organization:** [[organizations/taiwanese-american-historical-society|TAHS]]
 - **Era:** Contemporary (documented on 2025 TAHS org chart)
 
@@ -34,6 +38,29 @@ This page is an **A-tier thin record** for graph linking and member-priority sco
 - **Title:** 會務指導會主席 (會務指導會主席 — 會務 (會務指導主席), TAHS 2025)
 - **Source:** TAHS 2025 organization chart (台美人歷史協會組織表), Tax ID 46-4005384
 - **Roster:** `knowledge/operational/tahs-priority-roster.md` (L1)
+
+## TAH Foundation Who’s Who
+
+Source: [Yee Phong (Alan) Thian 田詒鴻](https://taiwaneseamericanhistory.org/person/yee-phong-alan-thian/) (harvest `knowledge/web-archives/taiwaneseamericanhistory-org/person/yee-phong-alan-thian.json`, last updated 2026-06-19). TAH Foundation is a sibling archive to TAHS. Family fields on the TAH profile are `--` (not absorbed).
+
+<!-- tah-tables:start -->
+## Education
+- Nanyang University — B.A., Business Administration
+- University of Southern California — 1982 — MBA
+
+## Employment
+- General Bank — Board member, Head of Small Business Loan Department — (1982–1997)
+- American International Bank — President, CEO, Director — (1997–2000)
+- United Commercial Bank (San Francisco, CA) — Executive Vice President & Regional Director — (to 2007)
+- Royal Business Bank (RBB Bancorp / 皇佳商業銀行) — Chairman, President & CEO — (2008–)
+
+## Community (TAH)
+- Taiwan Center Foundation of Greater Los Angeles (大洛杉磯台灣會館) — President (2018–)
+- Taiwanese American Chamber of Commerce of Greater Los Angeles (洛杉磯台美商會) — President (2011)
+- Outstanding Taiwanese American elected by T.A. Archives, 03/2019
+<!-- tah-tables:end -->
+
+TAH also notes immigration from Singapore and marriage to a Taiwanese American (spouse name not given).
 
 ## Taiwan Justice (台灣公義網) Citations
 
@@ -228,10 +255,15 @@ Notable quotes and mentions of **田詒鴻** in Taiwan Justice articles:
 - **Pending:** Preferred English spelling (where marked provisional), full biography, tenure dates beyond chart year
 - `verification_status: pending` until member or officer review
 
+## Sources
+- TAHS 2025 organization chart (roles only)
+- [TAH Who’s Who: Yee Phong (Alan) Thian 田詒鴻](https://taiwaneseamericanhistory.org/person/yee-phong-alan-thian/)
+
 ## Related Pages
 - [[organizations/tah-foundation|TAH Foundation]]
-
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/taiwan-center-foundation-of-greater-los-angeles|Taiwan Center Foundation of Greater Los Angeles]]
 - [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
 - [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]] — President (會長)
-- [[people/yang-jia-you|Charles Yang (楊嘉猷)]] — Treasurer (財務長); founding president
+- [[people/yang-jia-you|Charles Yang (楊嘉猷)]] — 創會會長
 - [[people/freeman-huang|Freeman Huang (黃樹人)]] — Secretary (秘書)

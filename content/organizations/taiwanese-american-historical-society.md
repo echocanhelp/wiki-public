@@ -6,6 +6,8 @@ tags:
   - organization
   - TAHS
   - historical-preservation
+verification_status: pending
+last_reviewed: 2026-08-17
 ---
 
 # Taiwanese American Historical Society (TAHS)
@@ -47,6 +49,10 @@ Notes:
 - Chart title uses **會務指導會主席** (not separate 財務指導主席). 陳柏宇 is labeled **會計** under that block.
 - **財務** on chart is [[people/phoenix-ko|Phoenix Ko / 柯貝昀]] — not Charles Yang.
 - Charles Yang is **創會會長** on this chart (also historically founding president). Franklin Ping Cheng (程炳成) served as president ~2014–2017.
+
+## Related archives
+- [[organizations/tah-foundation|TAH Foundation (台美史料中心)]] — sibling organization; runs [taiwaneseamericanhistory.org](https://taiwaneseamericanhistory.org/). Not TAHS and not the 2017/2023 TAHS yearbooks.
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org source hub]]
 
 ## Related Pages
 - [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]]

@@ -17,7 +17,9 @@ last_reviewed: 2026-08-17
 - **Core roles:** Historical archive, Who’s Who profiles, organization directory
 - Official site: https://taiwaneseamericanhistory.org/
 
-TAH Foundation documents Taiwanese American lives and organizations. This Echopedia ingest covers the WordPress Who’s Who (`tah_person`) and organization (`tah_organization`) directories. It is **not** the 2017/2023 [[organizations/taiwanese-american-historical-society|TAHS]] yearbooks.
+TAH Foundation (台美史料中心) runs [taiwaneseamericanhistory.org](https://taiwaneseamericanhistory.org/). It is a **sibling archive** to the [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS / 台美人歷史協會)]] — same Taiwanese American history mission, different organization. TAH is **not** TAHS, and TAH.org is **not** the 2017/2023 TAHS yearbook PDFs.
+
+This Echopedia ingest covers the WordPress Who’s Who (`tah_person`) and organization (`tah_organization`) directories.
 
 ## Coverage
 

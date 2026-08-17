@@ -11,8 +11,9 @@ last_reviewed: 2026-08-17
 
 ## Identity Snapshot
 - **Type:** Live website / Who’s Who + organization directory
-- **Publisher:** TAH Foundation (台美史料中心)
+- **Publisher:** TAH Foundation (台美史料中心) — runs this site
 - **Domain:** [taiwaneseamericanhistory.org](https://taiwaneseamericanhistory.org/)
+- **Relation:** Sibling archive to [[organizations/taiwanese-american-historical-society|TAHS]]; not the same org
 - **Not:** 2017/2023 TAHS publication PDFs
 
 Tier-2 harvest: `knowledge/web-archives/taiwaneseamericanhistory-org/` (2212 people, 339 orgs).
@@ -125,6 +126,7 @@ Tier-2 harvest: `knowledge/web-archives/taiwaneseamericanhistory-org/` (2212 peo
 - [[people/ahhee-hsu|Ahhee Hsu (許丕龍)]]
 - [[people/ai-jen-poo|Ai-Jen Poo (蒲艾真)]]
 - [[people/alan-su|Alan Su (蘇德源)]]
+- [[people/alan-thian|Alan Thian / Yee Phong (Alan) Thian (田詒鴻)]]
 - [[people/alan-t-chen|ALAN T. CHEN (陳清風)]]
 - [[people/alan-yang|Alan Yang (楊維榕)]]
 - [[people/albert-g-chang|Albert G. Chang (章錦華)]]
@@ -1527,7 +1529,8 @@ Tier-2 harvest: `knowledge/web-archives/taiwaneseamericanhistory-org/` (2212 peo
 - [[people/patsy-fang-chen|Patsy Fang Chen (方秀蓉)]]
 - [[people/paul-b-hshieh|Paul B. Hshieh 六 (謝博六博士)]]
 - [[people/paul-c-tsai|Paul C. Tsai (蔡正驊)]]
-- [[people/paul-chen|Paul Chen (陳柏宇)]]
+- [[people/dr-paul-chen|Dr. Paul Chen]]
+- [[people/paul-y-chen|Paul Y. Chen (陳柏宇)]]
 - [[people/paul-hsu|Paul Hsu (徐紹欽)]]
 - [[people/cpaul-huang|Paul Huang (黃俊文)]]
 - [[people/paul-kuo|Paul Kuo (郭博修)]]
