@@ -6,11 +6,23 @@
       <description>Last 10 notes on Echopedia</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>People</title>
+    <link>https://echocanhelp.github.io/wiki-public/people/</link>
+    <guid>https://echocanhelp.github.io/wiki-public/people/</guid>
+    <description><![CDATA[ Directory of Taiwanese American person records in Echopedia — clergy, elders, theologians, organizers, and community builders. ]]></description>
+    <pubDate>Mon, 17 Aug 2026 23:16:51 GMT</pubDate>
+  </item><item>
+    <title>Organizations</title>
+    <link>https://echocanhelp.github.io/wiki-public/organizations/</link>
+    <guid>https://echocanhelp.github.io/wiki-public/organizations/</guid>
+    <description><![CDATA[ Directory of Taiwanese American organizations, churches, and institutions documented in Echopedia. ]]></description>
+    <pubDate>Mon, 17 Aug 2026 23:16:51 GMT</pubDate>
+  </item><item>
     <title>TPC — Taiwanese Presbyterian Churches (not PCT)</title>
     <link>https://echocanhelp.github.io/wiki-public/organizations/tpc</link>
     <guid>https://echocanhelp.github.io/wiki-public/organizations/tpc</guid>
     <description><![CDATA[ TPC — Taiwanese Presbyterian Churches (U.S., not PCT) How to read the letters Identity Snapshot Type: disambiguation Rule: PC + place = denomination in that country. ]]></description>
-    <pubDate>Mon, 17 Aug 2026 22:48:52 GMT</pubDate>
+    <pubDate>Mon, 17 Aug 2026 23:16:51 GMT</pubDate>
   </item><item>
     <title>NTPC (disambiguation)</title>
     <link>https://echocanhelp.github.io/wiki-public/organizations/ntpc</link>
@@ -52,18 +64,6 @@
     <link>https://echocanhelp.github.io/wiki-public/people/yunching-yeh-davis</link>
     <guid>https://echocanhelp.github.io/wiki-public/people/yunching-yeh-davis</guid>
     <description><![CDATA[ Dr. Yunching Yeh Davis (葉芸青) Dr. Yunching Yeh Davis (葉芸青) is 主席 of the NTPC 執委會 for 2025/26 (西南區代表; ntpc-usa.org). ]]></description>
-    <pubDate>Mon, 17 Aug 2026 19:52:57 GMT</pubDate>
-  </item><item>
-    <title>Rev. Ching Fang Chen (陳清芳)</title>
-    <link>https://echocanhelp.github.io/wiki-public/people/ching-fang-chen</link>
-    <guid>https://echocanhelp.github.io/wiki-public/people/ching-fang-chen</guid>
-    <description><![CDATA[ Rev. Ching Fang Chen (陳清芳) Rev. Ching Fang Chen (陳清芳) is a Taiwanese American pastor and the inaugural Chair of the NTPC Historical Committee (2025). ]]></description>
-    <pubDate>Mon, 17 Aug 2026 19:52:57 GMT</pubDate>
-  </item><item>
-    <title>National Taiwanese Presbyterian Council (NTPC)</title>
-    <link>https://echocanhelp.github.io/wiki-public/organizations/national-taiwanese-presbyterian-council</link>
-    <guid>https://echocanhelp.github.io/wiki-public/organizations/national-taiwanese-presbyterian-council</guid>
-    <description><![CDATA[ National Taiwanese Presbyterian Council (NTPC) National Taiwanese Presbyterian Council (NTPC) — 美國基督長老教會全國台灣人教會聯合會 / 全國台灣人長老教會聯合會 — is the PC(USA) council of Taiwanese Presbyterian churches in the United States. ]]></description>
     <pubDate>Mon, 17 Aug 2026 19:52:57 GMT</pubDate>
   </item>
     </channel>

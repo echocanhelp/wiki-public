@@ -2400,8 +2400,8 @@ Person records in **Echopedia**. Names keep Chinese characters and romanized for
 
 ## Related organization pages sometimes filed under people
 
-- [[people/fpcla|Faithful Presbyterian Chinese Lutheran Association (FPCLA)]]
-- [[people/ntpc|North Taiwan Presbyterian Church (NTPC)]]
+- [[people/fpcla|FPCLA (redirect) — Formosan Presbyterian Church in Los Angeles]]
+- [[people/ntpc|NTPC (redirect) — National Taiwanese Presbyterian Council, not North Taiwan]]
 - [[people/san-francisco-theological-seminary|San Francisco Theological Seminary]]
 
 

@@ -40,6 +40,14 @@ last_reviewed: 2026-08-17
 
 **Weak:** **no shared polity.** U.S. churches are Presbyterian Church (U.S.A.). Do not write “Good Shepherd is a Presbyterian Church in Taiwan congregation.”
 
+## Why PCT seems to be everywhere (clergy pipeline)
+
+Almost no U.S.-raised pastors preach fluent 台語. Pulpits are filled by clergy **formed in Taiwan** (PCT seminaries: 台神 / 南神). When they take a U.S. call they sit under **PC(USA)** and the **TPC / NTPC** fellowship.
+
+So: **same people, new layer.** PCT is origin (training, 漢名, liturgy). TPC is the U.S. workplace. That is why TAH pages say PCT and Atlanta / 洛杉磯 / FPCLA in one breath — not because the U.S. church is a PCT congregation.
+
+**Do not flatten:** 台福 / EFC hires (e.g. 劉富理) are **not** this pipeline.
+
 ## Related Pages
 - [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan (PCT)]]
 - [[organizations/national-taiwanese-presbyterian-council|National Taiwanese Presbyterian Council (NTPC)]]

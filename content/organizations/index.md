@@ -163,7 +163,7 @@ Organization records in **Echopedia** — churches, cultural centers, historical
 - [[organizations/north-american-taiwanese-medical-association-foundation|NORTH AMERICAN TAIWANESE MEDICAL ASSOCIATION Foundation (北美洲台灣人醫師協會基金會)]]
 - [[organizations/north-shore-club|North Shore Club (北濱會)]]
 - [[organizations/northern-california-taiwanese-medical-association-nctma|Northern California Taiwanese Medical Association NCTMA (北加州台灣醫師會)]]
-- [[organizations/ntpc|North Taiwan Presbyterian Church (NTPC)]]
+- [[organizations/ntpc|NTPC (disambiguation) — not North Taiwan, not New Taipei]]
 - [[organizations/ny-taiwanese-golf-club-nytgc|NY Taiwanese Golf Club NYTGC (紐約台灣人高爾夫球俱樂部)]]
 - [[organizations/nys-orange-county-taiwanese-association|NYS Orange County Taiwanese Association (紐約橙縣台灣同鄉會)]]
 - [[organizations/nyu-taiwanese-american-student-society|NYU Taiwanese American Student Society]]
