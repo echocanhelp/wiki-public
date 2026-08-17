@@ -6,8 +6,10 @@ tags:
   - TAHS
   - tahs-leadership
   - Taiwanese-American
+  - tah-whos-who
 name_en: "Paul Chen"
 name_zh_hanzi: "陳柏宇"
+name_zh: "陳柏宇"
 verification_status: pending
 last_reviewed: 2026-08-17
 source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
@@ -17,11 +19,13 @@ source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
 **Paul Chen** (陳柏宇) serves as **會務指導會主席 — 會計 (財務指導主席), TAHS 2025** of the [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS / 台美人歷史協會)]].
 
 ## Identity Snapshot
-- **English:** Paul Chen
+- **English:** Paul Chen / Paul Y. Chen
 - **Chinese:** 陳柏宇
-- **Core role (2025):** 財務指導主席 — 會務指導會主席 — 會計 (財務指導主席), TAHS 2025
+- **Core role (2025):** 會務指導會主席 — 會計, TAHS 2025
+- **Also:** CPA; Taiwan Center board chair 2020–2022 (TAH #1788)
 - **Organization:** [[organizations/taiwanese-american-historical-society|TAHS]]
 - **Era:** Contemporary (documented on 2025 TAHS org chart)
+- **Not:** [[people/dr-paul-chen|Dr. Paul Chen]] (TAH Who’s Who ophthalmologist, Redwood City)
 
 ## Overview
 
@@ -34,6 +38,26 @@ This page is an **A-tier thin record** for graph linking and member-priority sco
 - **Title:** 財務指導主席 (會務指導會主席 — 會計 (財務指導主席), TAHS 2025)
 - **Source:** TAHS 2025 organization chart (台美人歷史協會組織表), Tax ID 46-4005384
 - **Roster:** `knowledge/operational/tahs-priority-roster.md` (L1)
+
+## TAH encyclopedia #1788 (Paul Y. Chen 陳柏宇)
+
+Owner 2026-08-17: this is the same person as the TAHS officer (CPA), **not** the TAH Who’s Who doctor at `/person/paul-chen/`. Source: [1788. Paul Y. Chen 陳柏宇](https://taiwaneseamericanhistory.org/whos-who-1788-paul-y-chen/). Family fields are `---` (not absorbed).
+
+<!-- tah-tables:start -->
+## Education
+- UCLA — B.S., System Science
+- Marshall School of Business — M.A., Business Administration
+
+## Employment
+- Deloitte & Touche Accounting Firm, Los Angeles Office — Manager in charge of auditing and taxation
+- Chen & Fan Accountancy Corp. — Director (present)
+
+## Community (TAH)
+- TACCLA (洛杉磯台美商會) — President, 2013–2014
+- Rosemead Chamber of Commerce (柔似密美國商會) — President, 2017
+- Taiwan Center Foundation of Greater Los Angeles (大洛杉磯台灣會館) — Chairman of the board, 2020–2022
+- Overseas Chinese Affairs Consultant (僑務顧問)
+<!-- tah-tables:end -->
 
 ## Taiwan Justice (台灣公義網) Citations
 
@@ -184,19 +208,24 @@ Notable quotes and mentions of **陳柏宇** in Taiwan Justice articles:
 ## Source Notes and Confidence
 
 - **High:** Name + 2025 titled role as printed on the society org chart (owner-held copy, 2026-08-03 capture)
-- **Pending:** Preferred English spelling (where marked provisional), full biography, tenure dates beyond chart year
+- **Owner 2026-08-17:** Same person as TAH #1788 Paul Y. Chen 陳柏宇 (CPA / Taiwan Center chair). **Not** TAH `/person/paul-chen/` ophthalmologist.
 - `verification_status: pending` until member or officer review
-- **Owner 2026-08-17:** TAH encyclopedia Paul Y. Chen 陳柏宇 is **not** this officer. TAH Who’s Who `/person/paul-chen/` (ophthalmologist) was wrongly merged here and has been unmerged.
 
 ## Disambiguation
-- [[people/paul-y-chen|Paul Y. Chen (陳柏宇)]] — TAH #1788 (UCLA / Marshall / Taiwan Center chair 2020–2022). Separate person.
-- [[people/dr-paul-chen|Dr. Paul Chen]] — TAH Who’s Who physician, Redwood City. Separate person.
+- [[people/dr-paul-chen|Dr. Paul Chen]] — TAH Who’s Who physician, Redwood City. Different person (same English name only).
+
+## Sources
+- TAHS 2025 organization chart (roles only)
+- [TAH #1788 encyclopedia: 1788. Paul Y. Chen 陳柏宇](https://taiwaneseamericanhistory.org/whos-who-1788-paul-y-chen/)
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
+- [[organizations/tah-foundation|TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/taiwan-center-foundation-of-greater-los-angeles|Taiwan Center Foundation of Greater Los Angeles]]
 - [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]] — President (會長)
 - [[people/yang-jia-you|Charles Yang (楊嘉猷)]] — 創會會長
 - [[people/freeman-huang|Freeman Huang (黃樹人)]] — Secretary (秘書)
-- [[people/paul-y-chen|Paul Y. Chen (陳柏宇)]] — TAH encyclopedia (not this officer)
-- [[people/dr-paul-chen|Dr. Paul Chen]] — TAH ophthalmologist (unmerged)
+- [[people/dr-paul-chen|Dr. Paul Chen]] — TAH ophthalmologist (not this person)
+
 

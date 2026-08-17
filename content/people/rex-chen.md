@@ -59,39 +59,14 @@ A business card shared during onboarding identifies Rex Chen as First Vice Presi
 
 - 2026-06-15: Created Echopedia onboarding page for Rex Chen following Leonard Hsu Jr.'s LINE group introduction and membership instruction.
 - 2026-06-16: Corrected attribution after triple-check: assigned 陳乃光 to Rex Chen, restored Leonard Hsu Jr. to 許景鴻, and linked Rex's LINE sender account as owner-confirmed.
+- 2026-08-17: Owner: TAH `/person/rex-chen/` is 陳財元 (d. 2003), not this member. Unmerged TAH tables/family to [[people/chen-caiyuan|陳財元]].
 
-
-## Network
-
-Pages that link to **陳乃光** (rex-chen):
-
-
-### People (3)
-
-1. [[people/david-lee.md|david-lee]]
-2. [[people/index.md|index]]
-3. [[people/ken-wu.md|ken-wu]]
-
-## Sources
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rex-chen/)
-
-<!-- tah-tables:start -->
-## Education
-- 東吳大學 — B.S.會計
-- Central Oklahoma State University — M.S.
-
-## Employment
-- Crrection Department, Oklahoma — 專員 — 陳財元會計師事務所 — owner
-<!-- tah-tables:end -->
-
-## Family
-
-- **Wife:** 季靜予
-- **Son:** Eric陳融
+## Disambiguation
+- [[people/chen-caiyuan|Rex Chen (陳財元)]] — TAH Who’s Who, 1949–2003, Oklahoma. Different person.
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
 - [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
 - [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]]
 - [[people/ken-wu|Ken Wu (吳兆峯)]]
 - [[people/david-lee|David Lee]]
+- [[people/chen-caiyuan|Rex Chen (陳財元)]] — TAH (not this member)

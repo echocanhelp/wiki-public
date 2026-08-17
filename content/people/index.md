@@ -213,6 +213,7 @@ Person records in **Echopedia**. Names keep Chinese characters and romanized for
 - [[people/chee-hway-tsai|Chee-Hway Tsai (蔡啟輝)]]
 - [[people/cheh-jen-su|Cheh-Jen Su (蘇哲仁)]]
 - [[people/chen-bozhi|Rev. Chen Bozhi (陳柏志)]]
+- [[people/chen-caiyuan|Rex Chen (陳財元)]]
 - [[people/chen-chang-lee|Chen Chang Lee (李振昌)]]
 - [[people/chen-chao-wang|Chen-Chao Wang (王震昭)]]
 - [[people/chen-ho-wu|Dr. Chen-Ho Wu (吳振和博士)]]
@@ -2393,11 +2394,13 @@ Person records in **Echopedia**. Names keep Chinese characters and romanized for
 
 
 
+
 ## Related organization pages sometimes filed under people
 
 - [[people/fpcla|Faithful Presbyterian Chinese Lutheran Association (FPCLA)]]
 - [[people/ntpc|North Taiwan Presbyterian Church (NTPC)]]
 - [[people/san-francisco-theological-seminary|San Francisco Theological Seminary]]
+
 
 
 
@@ -2417,7 +2420,9 @@ Person records in **Echopedia**. Names keep Chinese characters and romanized for
 
 
 
+
 Utility / process pages (not biographical entries):
+
 
 
 
