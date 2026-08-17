@@ -162,15 +162,15 @@ Since 2020, [[people/mingyuan-hsu|Rev. Ming Yuan Hsu (許明遠牧師)]] has pub
 | **Facebook** | [facebook.com/mpgstpc](https://www.facebook.com/mpgstpc/) |
 | **YouTube** | [GSTPC channel](https://www.youtube.com/channel/UCwgxhZ6Yhba9I_0lZ6sK3ew/videos) |
 
-## TPC / PCT / PC(USA) (do not flatten)
+## Presbyterian layers (spell the initials)
 
-| Layer | What | GSTPC |
+| Initials | Spell-out | Good Shepherd |
 |---|---|---|
-| **Polity** | PC(USA) Los Ranchos Presbytery | Hsu is Minister of Word and Sacrament there |
-| **TPC** | 南加州 / NA 台灣人長老教會 fellowship ([TPC 主日直播](https://gstpc.org/home/tpc/); joint prayer 2022-05-18) | peer with other SoCal TPC churches |
-| **PCT** | 台灣基督長老教會 (Taiwan General Assembly) | **origin / people / sister**, not membership |
+| **PC(USA)** | **P**resbyterian **C**hurch **(U.S.A.)**, Los Ranchos Presbytery | Hsu is Minister of Word and Sacrament here — **this is the denomination** |
+| **TPC** | **T**aiwanese **P**resbyterian **C**hurches (南加州 fellowship) | peers; [TPC 主日直播](https://gstpc.org/home/tpc/); joint prayer 2022-05-18 |
+| **PCT** | **P**resbyterian **C**hurch in **T**aiwan · 台灣基督長老教會 | **origin / people / sister**, not membership |
 
-GSTPC is **not** a PCT congregation. See [[organizations/tpc|TPC disambiguation]].
+Good Shepherd is **not** a Presbyterian Church in Taiwan congregation. See [[organizations/tpc|TPC — Taiwanese Presbyterian Churches]].
 
 ## Related Pages
 
