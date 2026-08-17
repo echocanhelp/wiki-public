@@ -46,6 +46,9 @@ Rev. Huang’s documented placement in the transition year helps trace how NTPC 
 
 ## Network
 
+- [[organizations/good-shepherd-taiwanese-presbyterian-church|GSTPC]] — TAH: Good Shepherd Taiwanese Presbyterian Church
+- [[organizations/presbyterian-church-in-taiwan|PCT]] — TAH: 台灣神學院
+- [[organizations/national-taiwanese-presbyterian-council|NTPC]] — 50th commemorative editor
 Pages that link to **david-huang** (david-huang):
 
 

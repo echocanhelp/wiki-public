@@ -234,3 +234,14 @@ The church served as a space where Formosan immigrants could negotiate their ide
 - [[organizations/national-taiwanese-presbyterian-council|National Taiwanese Presbyterian Council (NTPC)]]
 - [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]]
 - Toward A Community of Hope
+- [[people/grace-h-yeh|Grace H. Yeh (張信惠)]] — TAH: first FPCLA organist 1971–74
+- [[people/yang-ming-ren|James Yang (楊明仁)]] — TAH: FPCLA choir guest conductor
+- [[people/james-yang|James Yang (楊榮勝)]] is a different person (Taiwan Center board)
+- [[people/jen-hao-lee|Jen-Hao Lee (李仁豪牧師)]]
+- [[people/may-fang|May Fang (方美盈)]]
+- [[people/prof-sze-ya-yeh|Prof. Sze-ya Yeh (葉思雅教授)]]
+- [[people/rev-edward-bin-tanng|Rev. Edward Bin Tanng (陳黃義敏牧師)]]
+- [[people/rev-j-m-hsu|Rev. J. M. Hsu (許錦銘牧師)]]
+- [[people/rev-r-h-chang|Rev. R. H. Chang (張瑞雄牧師)]]
+- [[people/winnie-chiu|Winnie Chiu (藍月卿)]]
+- [[sources/taiwaneseamericanhistory-org|TAH Foundation Who’s Who]]

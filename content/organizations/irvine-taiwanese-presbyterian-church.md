@@ -425,3 +425,8 @@ From I-5, take the El Toro exit west (towards Laguna Hills). Continue about 3 mi
 - [[Laguna Hills|Laguna Hills, California]]
 - [[Irvine|Irvine, California]]
 - [[sources/irvine-taiwanese-presbyterian-church|ITPC Official Website (source)]]
+- [[people/zhang-xuanxin|Billy Chang 張宣信]]
+- [[people/dr-ching-k-lin|Dr. Ching K. Lin (林清貴博士)]]
+- [[people/h-j-chen|H. J. Chen (陳小娟)]]
+- [[people/harrison-lin|Harrison Lin (林貞棟)]]
+- [[people/peggy-chen|Peggy Chen (張佩仙)]]

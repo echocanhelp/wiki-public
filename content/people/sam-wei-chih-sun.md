@@ -44,3 +44,6 @@ Sam Wei-Chih Sun is a pianist, an accompanist and a music educator from Taiwan. 
 ## Related Pages
 - [[organizations/tah-foundation|TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+
+## Network
+- [[organizations/good-shepherd-taiwanese-presbyterian-church|GSTPC]] — TAH Who’s Who

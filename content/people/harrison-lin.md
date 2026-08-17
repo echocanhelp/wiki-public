@@ -40,3 +40,6 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation|TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+
+## Network
+- [[organizations/irvine-taiwanese-presbyterian-church|ITPC]] — TAH Who’s Who

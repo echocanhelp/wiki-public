@@ -85,3 +85,6 @@ Published by **Taiwan Church Press** and the **Incorporated Association of Taina
 - [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]]
 - [[people/mingyuan-hsu|Rev. Mingyuan Hsu (許明遠)]]
 - [[people/pinghsi-liu|Rev. Pinghsi Liu (劉炳熹)]]
+- [[organizations/good-shepherd-taiwanese-presbyterian-church|GSTPC]]
+- [[organizations/irvine-taiwanese-presbyterian-church|ITPC]]
+- [[people/david-huang|Rev. David Huang (黃德利)]] — NTPC 50th commemorative editor

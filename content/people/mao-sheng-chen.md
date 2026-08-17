@@ -44,3 +44,6 @@ Chen Mao-sheng, born in 1942 in Hsinchu, Taiwan, is a church musician and organi
 ## Related Pages
 - [[organizations/tah-foundation|TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+
+## Network
+- [[organizations/presbyterian-church-in-taiwan|PCT]] — TAH Who’s Who

@@ -164,3 +164,5 @@ GSTPC is a congregation within the [[organizations/presbyterian-church-in-taiwan
 - [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]]
 - [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
 - [[sources/good-shepherd-taiwanese-presbyterian-church|GSTPC Official Website (source)]]
+- [[people/sam-wei-chih-sun|Sam Wei-Chih Sun (孫偉志)]]
+- [[people/susan-shu-ai-tsai|Susan Shu-Ai Tsai (蔡淑愛)]]

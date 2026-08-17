@@ -814,6 +814,7 @@ Person records in **Echopedia**. Names keep Chinese characters and romanized for
 - [[people/gou-chung-chi|Gou-Chung Chi (紀國鐘)]]
 - [[people/grace-chung|Grace Chung (鍾曉青博士)]]
 - [[people/grace-fong|Dr .Grace Fong]]
+- [[people/grace-h-yeh|Grace H. Yeh (張信惠)]]
 - [[people/grace-lin|Grace Lin (吳瑞惠)]]
 - [[people/grace-liu|Grace Liu]]
 - [[people/grace-mei-en-ho|Grace Mei-En Ho (何美恩)]]
@@ -2291,6 +2292,7 @@ Person records in **Echopedia**. Names keep Chinese characters and romanized for
 - [[people/yang-chengwei|楊呵偉 (Yang Chengwei)]]
 - [[people/yang-huiqiao|楊惠喬 (Yang Huiqiao)]]
 - [[people/yang-jia-you|Charles Yang (楊嘉猷)]]
+- [[people/yang-ming-ren|James Yang (楊明仁)]]
 - [[people/yang-xin|Yang Hsin (楊信)]]
 - [[people/yang-yang|Yang Yang (楊陽)]]
 - [[people/yang-yuanxun|Yang Yuan-xun / 楊遠薰]]
@@ -2395,11 +2397,13 @@ Person records in **Echopedia**. Names keep Chinese characters and romanized for
 
 
 
+
 ## Related organization pages sometimes filed under people
 
 - [[people/fpcla|Faithful Presbyterian Chinese Lutheran Association (FPCLA)]]
 - [[people/ntpc|North Taiwan Presbyterian Church (NTPC)]]
 - [[people/san-francisco-theological-seminary|San Francisco Theological Seminary]]
+
 
 
 
@@ -2421,7 +2425,9 @@ Person records in **Echopedia**. Names keep Chinese characters and romanized for
 
 
 
+
 Utility / process pages (not biographical entries):
+
 
 
 

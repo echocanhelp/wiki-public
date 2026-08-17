@@ -45,3 +45,6 @@ Si-Zhi CHEN was born in Shilin, Taipei in 1911. He attended Tamsui Senior High S
 ## Related Pages
 - [[organizations/tah-foundation|TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+
+## Network
+- [[organizations/presbyterian-church-in-taiwan|PCT]] — TAH Who’s Who

@@ -136,6 +136,8 @@ Each kanban card is a **work node** with:
 | `hermes kanban assign <task> pinto` | NVFP4 only |
 | `no_agent` cron jobs | N/A (deterministic) |
 | Vision analysis | Grok (auto, via auxiliary.vision) |
+| **P8/P9 content edits** | **Grok assigns card; Laguna (pinto/NVFP4) executes playbook** |
+| **Identity judgment** | **Grok (frontier) — never delegated to Laguna** |
 
 ---
 

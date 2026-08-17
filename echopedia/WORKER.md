@@ -238,9 +238,12 @@ WORKER.md playbook P8 PATH=content/people/ashton-hsu.md SOURCE="family memo pad 
 ```
 
 **Default workflow when user says "Echopedia <person> <fact>":**
-1. Run P8 with the fact as source
-2. Run P1 to verify (ops/drift/smoke)
-3. Run P2 to publish if green
+1. **Grok (frontier):** identity judgment + assign WORKER **P8** card to Laguna worker
+2. **Laguna (pinto/NVFP4):** P8 with the fact as source (commit only, no publish)
+3. **Laguna:** P1 to verify (ops/drift/smoke)
+4. **Laguna:** P2 to publish if green
+
+**Grok does NOT execute P8/P9 bulk.** It assigns the card; the Laguna worker runs the playbook.
 
 ---
 
@@ -261,6 +264,8 @@ Our architecture follows a **two-graph** model:
 | `hermes kanban assign <task> pinto` | Laguna |
 | `no_agent` cron | N/A (deterministic) |
 | Vision | Grok auxiliary |
+| **P8/P9 content edits** | **Grok assigns card; Laguna executes playbook** |
+| **Identity judgment** | **Grok (frontier) — never delegated to Laguna** |
 
 ### Design principles
 

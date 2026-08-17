@@ -44,3 +44,6 @@ Yin Yin Huang, pianist, born in Taiwan, began her piano lessons at the age of 8 
 ## Related Pages
 - [[organizations/tah-foundation|TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+
+## Network
+- [[organizations/presbyterian-church-in-taiwan|PCT]] — TAH Who’s Who

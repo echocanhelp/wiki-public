@@ -11,16 +11,20 @@ last_reviewed: 2026-08-17
 **Zhang Xuanxin (張宣信)** is a member of the [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society]] community.
 
 ## Identity Snapshot
-- Era: Contemporary
-- Geography: United States
-- Core roles: Community member, historical society participant
+- **English:** Billy Chang
+- **Chinese:** 張宣信
+- **Era:** 1955–
+- **Geography:** 宜蘭 / Southern California
+- **Core roles:** ITPC member; TAH Who’s Who
+- **Official listing:** [Billy Chang 張宣信](https://taiwaneseamericanhistory.org/person/billy-chang/)
 
 ## Historical Context
 Zhang Xuanxin is recognized as a member of the [[organizations/taiwanese-american-historical-society|TAHS]] community and the Taiwanese American historical and community network.
 
 ## Contributions and Legacy
-1. Active participation in Taiwanese American community activities
-2. Engagement with historical preservation efforts
+Per TAH Who’s Who: served [[organizations/irvine-taiwanese-presbyterian-church|ITPC]] (爾灣台灣基督長老教會) and Taiwanese American Presbyterian Church in Ventura County. On 15 May 2022, TAH records that he subdued the gunman at the ITPC shooting.
+
+Education listed: 台灣神學院 (Taiwan Theological College).
 
 
 ## Network
@@ -38,7 +42,9 @@ Pages that link to **zhang-xuanxin** (zhang-xuanxin):
 
 ### Organizations (1)
 
-1. [[organizations/irvine-taiwanese-presbyterian-church.md|irvine-taiwanese-presbyterian-church]]
+- [[organizations/irvine-taiwanese-presbyterian-church|ITPC]] — TAH Who’s Who
+- [[organizations/presbyterian-church-in-taiwan|PCT]] — 台灣神學院
+- [[people/billy-chang|TAH slug billy-chang]] (redirect)
 
 ### Sources (1)
 

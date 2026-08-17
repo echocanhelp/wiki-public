@@ -38,3 +38,6 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation|TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+
+## Network
+- [[organizations/good-shepherd-taiwanese-presbyterian-church|GSTPC]] — TAH Who’s Who

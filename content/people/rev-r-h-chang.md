@@ -47,3 +47,8 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation|TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+
+## Network
+- [[organizations/formosan-presbyterian-church-in-los-angeles|FPCLA]] — TAH Who’s Who
+- [[organizations/presbyterian-church-in-taiwan|PCT]] — TAH Who’s Who
+- [[people/jonah-chang|same person as Rev. Jonah Chang 張瑞雄]]

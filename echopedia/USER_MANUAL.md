@@ -194,11 +194,12 @@ Look at the **janitor queue** (depth is in SYSTEM_STATUS.md). Typical first task
 **Default (Leonard / Hsuperman):** saying **Echopedia** + a target means **live wiki**, not research-only.
 
 **Default workflow when user says "Echopedia <person> <fact>":**
-1. Run P8 with the fact as source
-2. Run P1 to verify (ops/drift/smoke)
-3. Run P2 to publish if green
+1. **Grok (frontier):** identity judgment + assign WORKER **P8** card to Laguna worker
+2. **Laguna (pinto/NVFP4):** P8 with the fact as source (commit only, no publish)
+3. **Laguna:** P1 to verify (ops/drift/smoke)
+4. **Laguna:** P2 to publish if green
 
-**This runs automatically.** The planner does NOT need to ask the user for playbook IDs. The user only needs to say "Echopedia <target> <fact>".
+**This runs automatically.** The planner (Grok) does NOT execute P8/P9 bulk — it assigns the card; the Laguna worker runs the playbook. The user only needs to say "Echopedia <target> <fact>".
 
 | You say | System must do |
 |---------|----------------|
@@ -330,7 +331,7 @@ See also: [AGENT_GRAPH.md](AGENT_GRAPH.md) for the full topology including night
 | Role | Does | Does not |
 |------|------|----------|
 | **You (human)** | Goals, approve plans, flip autonomy flags | Run every shell command |
-| **Smart model (frontier)** | Orient, plan, improve playbooks/skills, hard debug | Nightly bulk rewrite |
+|| **Smart model (frontier)** | Orient, plan, improve playbooks/skills, hard debug, identity judgment | Nightly bulk rewrite, P8/P9 bulk apply |
 | **Worker (local)** | Run **one** WORKER.md playbook exactly | Invent process, invent bios, redesign |
 
 ---
