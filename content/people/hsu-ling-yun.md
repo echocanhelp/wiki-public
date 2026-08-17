@@ -47,7 +47,7 @@ Gazetteer: strong in *baguwen*, recited *Zhouyi* and *Maoshi*; did not dabble in
 
 ## Timeline
 
-- **Chongzhen (clan)** — Watong Hsu from Jinmen Zhupu (珠浦). Village founders include 許靖奕 (1618–1698), 許靖博, 許靖樂, 許靖六. Singer **Hsu Ching-chun (許景淳)** is recorded as 靖樂 11th-generation — **same village clan, not shown as Ling-yun’s child line**.
+- **Chongzhen (clan)** — Watong Hsu from Jinmen Zhupu (珠浦). Village founders include 許靖奕 (1618–1698), 許靖博, 許靖樂, 許靖六. Singer [[people/hsu-ching-chun|Hsu Ching-chun (許景淳)]] is recorded as 靖樂 11th-generation — **same village clan, not shown as Ling-yun’s child line**.
 - **1862** — Born, lunar 6/29, 下瓦硐. Japanese-era household: 瓦硐港鄉47番戶.
 - **1880 (GX6)** — Penghu *ting* exam, rank 32 (age 19). Then Tongliang with Chen Xi-ming.
 - **1883 (GX9)** — With elder brother at Ruihe cloth firm (瑞和), Tainan 岩後／內宮後. Gazetteer: poor at the ledger, tore a page, scolded by his brother, **went home to study for the exams**.
@@ -131,7 +131,7 @@ What *does* exist is Taiwan/Penghu/PCT only:
 
 **Oral / social (the only NY sentence):**
 
-Singer **許景淳** posted a Watong “家族記憶行走” at the hall ([Facebook / christineccmusic](https://www.facebook.com/christineccmusic/posts/3145046432317614)). Public snippet: she is led through the lane by **「自紐約回來的雅琴姑婆」**, who talks about how her grandfather named her.
+Singer [[people/hsu-ching-chun|許景淳]] posted a Watong “家族記憶行走” at the hall ([Facebook / christineccmusic](https://www.facebook.com/christineccmusic/posts/3145046432317614)). Public snippet: she is led through the lane by **「自紐約回來的雅琴姑婆」**, who talks about how her grandfather named her.
 
 Treat as **family oral on a personal post**, not a TAA/NYT/gazetteer fact. It does imply (a) 許雅琴 spent time in New York, (b) 許景淳 addresses her as *gupo* (father’s sister / same-generation aunt) — i.e. 許景淳 is claiming **kinship**, not only same-village surname.
 
@@ -187,6 +187,7 @@ Hall couplet: 「聖道教人時雨化」／「福音牖世春風生」.
 
 - [[organizations/hsu-ling-yun-xiucai-memorial-hall|Hsu Ling-yun Xiucai Memorial Hall]]
 - [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]]
+- [[people/hsu-ching-chun|Hsu Ching-chun (許景淳)]] — Watong Hsu / 靖樂 line (clan, not proven direct descent)
 
 ## Sources
 
