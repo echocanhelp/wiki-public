@@ -102,21 +102,59 @@ Wikipedia’s *Guangxu* year-numbers next to some Penghu-mission AD dates do not
 
 House rebuilt **1973** on the old coral-stone footprint; three-bay six-panel door kept.
 
-## Taiwanese American / diaspora (what the sources actually show)
+## Taiwanese American / diaspora (sourced)
 
-**Hsu Ling-yun himself: no U.S. residence, TAA office, or TAHS role found** in the Wikipedia refs, penghu.info gazetteer, or Lai archive.
+This is the evidence stack — not a résumé. Hsu Ling-yun died in 1944 in Penghu. Anything “Taiwanese American” is **later kin, clan, or a pupil’s afterlife in U.S. commemoration**.
 
-Documented bridges, weakest → strongest *only if* labeled:
+### 1. Hsu Ling-yun himself — no U.S. / TAA / TAHS record
 
-| Claim | Status |
-|-------|--------|
-| Direct Taiwanese American biography for 許凌雲 | **Not found** |
-| Descendant Hsu Ya-chin (許雅琴) as hall steward / heritage applicant | **Yes** (澎湖通訊社 2023; 觸mii 2025). Social posts describe her as returning from **New York** — **not in the official listing copy**; do not treat NY as verified |
-| Fourth son’s 雅歌樂器 | Taiwan company; name is biblical, not a U.S. firm in these sources |
-| Pupil **Lin Mosei (林茂生)** | Tainan student; later 228 victim. TAHS and other Taiwanese American 228 programs name him — **intellectual, not family** |
-| Clan-mate **Hsu Ching-chun (許景淳)** | Same Watong Hsu (靖樂 line). International career. **Not shown as Ling-yun’s descendant** |
+Searched and **not found**: U.S. residence, TAA chapter office, TAHS membership, *taiwaneseamericanhistory.org* who’s-who, *taiwaneseamerican.org*, or a Taiwan Justice byline.
 
-If a New York / TAA document for 許雅琴 appears, that is the first *family* TA node. Until then the TA interest is **PCT–Penghu lineage + 林茂生 pupil line**, not a U.S. résumé.
+What *does* exist is Taiwan/Penghu/PCT only:
+
+- [penghu.info〈許凌雲〉](https://penghu.info/OB8D7D9C164FCF102ED7) (許玉河 + 《續修澎湖縣志．人物志》)
+- [賴永祥〈許凌雲秀才〉](http://www.laijohn.com/archives/pc/khou/Khou,Lhun/biog/Iun.htm)
+- [ZH Wikipedia 許凌雲](https://zh.wikipedia.org/wiki/%E8%A8%B1%E5%87%8C%E9%9B%B2)
+
+**Negative result is the finding.** Do not invent a TA biography.
+
+### 2. Hsu Ya-chin (許雅琴) — verified descendant; NY only in social copy
+
+**Official / news (no New York):**
+
+| Source | What it actually says |
+|--------|------------------------|
+| [澎湖通訊社 2023-03](https://www.phnes.net/%E6%BE%8E%E6%B9%96%E6%96%87%E5%8C%96%E8%B3%87%E7%94%A2%E6%96%B0%E6%93%9A%E9%BB%9E-%E7%99%BD%E6%B2%99%E7%93%A6%E7%A1%90%E8%A8%B1%E5%87%8C%E9%9B%B2%E7%A7%80%E6%89%8D%E7%B4%80%E5%BF%B5%E9%A4%A8%E7%94%B3) | 「由其後人**許雅琴**女士代表申請」紀念建築 |
+| [澎湖日報 2025-02-08](https://penghudaily.blogspot.com/2025/02/blog-post_3.html) | 112年登錄；「獲得許凌雲後代許雅琴女士全力配合」；烏克麗麗營 |
+| [觸mii / 中時 2025-08-15](https://truemii.chinatimes.com/content/20250815002251-265008) | 「許凌雲秀才後人許雅琴女士促成」寒假烏克麗麗營 |
+| [Threads @saltnlight307 2024-12](https://www.threads.com/@saltnlight307/post/DDb5kjUTmK6) | 「後代之一許雅琴」訪館； she hopes the hall can be revived. **No NY** |
+
+**Oral / social (the only NY sentence):**
+
+Singer **許景淳** posted a Watong “家族記憶行走” at the hall ([Facebook / christineccmusic](https://www.facebook.com/christineccmusic/posts/3145046432317614)). Public snippet: she is led through the lane by **「自紐約回來的雅琴姑婆」**, who talks about how her grandfather named her.
+
+Treat as **family oral on a personal post**, not a TAA/NYT/gazetteer fact. It does imply (a) 許雅琴 spent time in New York, (b) 許景淳 addresses her as *gupo* (father’s sister / same-generation aunt) — i.e. 許景淳 is claiming **kinship**, not only same-village surname.
+
+Still missing: a TAA roster, a U.S. address, or 許雅琴’s own statement.
+
+### 3. Pupil Lin Mosei (林茂生) — teacher–pupil, then TA 228 memory
+
+- **Teacher–pupil (Penghu gazetteer):** 臺南名士林燕臣、**林茂生**即其得意門生 — [penghu.info〈許凌雲〉](https://penghu.info/OB8D7D9C164FCF102ED7); repeated on [澎湖通訊社](https://www.phnes.net/%E6%BE%8E%E6%B9%96%E6%96%87%E5%8C%96%E8%B3%87%E7%94%A2%E6%96%B0%E6%93%9A%E9%BB%9E-%E7%99%BD%E6%B2%99%E7%93%A6%E7%A1%90%E8%A8%B1%E5%87%8C%E9%9B%B2%E7%A7%80%E6%89%8D%E7%B4%80%E5%BF%B5%E9%A4%A8%E7%94%B3).
+- **228 victim** named in U.S. Taiwanese community ritual: 2025-02-22 台灣會館「228追思紀念大會」, 24 groups; **TAHS 會長楊嘉猷** present; 林榮松 names 林茂生、湯德章、施江南. Source: 林蓮華 / 楊嘉猷, [台灣公論報](https://taiwanjustice.net/%E5%A4%A7%E6%B4%9B%E6%9D%89%E7%A3%AF%E5%8F%B0%E7%81%A3%E6%9C%83%E9%A4%A8%E7%AD%8924%E5%80%8B%E5%8F%B0%E7%BE%8E%E7%A4%BE%E5%9C%98%E8%88%89%E8%88%89%E8%A1%8C228%E8%BF%BD%E6%80%9D%E7%B4%80%E5%BF%B5/) · vault [[articles/taiwanjustice-net/2025/20250320212940_大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念_c62f5c50846fe267]].
+
+This is **commemoration of a student**, not Hsu family in America.
+
+### 4. Hsu Ching-chun (許景淳) — clan + her own “家族” post
+
+- [蔡光庭〈瓦硐許姓〉](https://penghu.info/OB9B088F09F89D8B7F9E): 始祖許靖奕／靖博／**靖樂**／靖六（崇禎徙澎）；「國內知名女聲樂家**許景淳係靖樂11世裔孫**」。
+- [ZH Wikipedia 許景淳](https://zh.wikipedia.org/wiki/%E8%A8%B1%E6%99%AF%E6%B7%B3): b. 1963 台中; singer / radio. **Does not mention 許凌雲 or Penghu.**
+- Her [Watong family-walk post](https://www.facebook.com/christineccmusic/posts/3145046432317614) *does* place herself in the hall with 雅琴姑婆.
+
+So: **same 瓦硐許／靖樂 line in the clan note**; **she** narrates the hall as family memory; **no published pedigree** that 許凌雲 is her direct ancestor (he could be a collateral *xiucai* in the same village Hsu). Do not write “granddaughter of 許凌雲.”
+
+### What would close the TA node
+
+Need one of: 許雅琴 in a TAA/NY church directory; her own bio with borough/years; or a genealogy chart 許凌雲 → 許雅琴 / 許景淳. Until then the page keeps NY as **oral**.
 
 ## Works
 
@@ -157,6 +195,9 @@ Hall couplet: 「聖道教人時雨化」／「福音牖世春風生」.
 3. 蔡光庭：〈[瓦硐許姓](https://penghu.info/OB9B088F09F89D8B7F9E)〉
 4. 賴永祥：[許凌雲秀才（楊）](http://www.laijohn.com/archives/pc/khou/Khou,Lhun/biog/Iun.htm)；[教會史話 321 府城教會高耀長老](http://www.laijohn.com/book4/321.htm)
 5. Campbell, *Handbook of the E.P. Mission in Formosa* (appointment dates via 縣志 / penghu.info)
-6. 澎湖通訊社 (2023-03)：許雅琴申請登錄紀念建築
-7. 觸mii / 中時 (2025-08-15)：許雅琴促成烏克麗麗營
-8. Maps: [瓦硐村51號](https://maps.app.goo.gl/zr7ehjcTyUvK9pd69)
+6. [澎湖通訊社 (2023-03)](https://www.phnes.net/%E6%BE%8E%E6%B9%96%E6%96%87%E5%8C%96%E8%B3%87%E7%94%A2%E6%96%B0%E6%93%9A%E9%BB%9E-%E7%99%BD%E6%B2%99%E7%93%A6%E7%A1%90%E8%A8%B1%E5%87%8C%E9%9B%B2%E7%A7%80%E6%89%8D%E7%B4%80%E5%BF%B5%E9%A4%A8%E7%94%B3)：許雅琴申請登錄
+7. [澎湖日報 2025-02-08](https://penghudaily.blogspot.com/2025/02/blog-post_3.html)；[觸mii 2025-08-15](https://truemii.chinatimes.com/content/20250815002251-265008)
+8. [Threads @saltnlight307](https://www.threads.com/@saltnlight307/post/DDb5kjUTmK6)；[許景淳 FB 家族行走](https://www.facebook.com/christineccmusic/posts/3145046432317614)（oral NY / 姑婆）
+9. 林蓮華／楊嘉猷：[台灣公論報 2025-02-24 台館228](https://taiwanjustice.net/%E5%A4%A7%E6%B4%9B%E6%9D%89%E7%A3%AF%E5%8F%B0%E7%81%A3%E6%9C%83%E9%A4%A8%E7%AD%8924%E5%80%8B%E5%8F%B0%E7%BE%8E%E7%A4%BE%E5%9C%98%E8%88%89%E8%88%89%E8%A1%8C228%E8%BF%BD%E6%80%9D%E7%B4%80%E5%BF%B5/)
+10. 維基百科：[許景淳](https://zh.wikipedia.org/wiki/%E8%A8%B1%E6%99%AF%E6%B7%B3)
+11. Maps: [瓦硐村51號](https://maps.app.goo.gl/zr7ehjcTyUvK9pd69)
