@@ -1,15 +1,13 @@
 {
-  "at": "2026-08-17T23:59:05.473262+00:00",
-  "status": "CDN_LAG",
+  "at": "2026-08-18T02:00:22.404437+00:00",
+  "status": "OK",
   "homepage": "200",
   "total": 50,
-  "ok": 49,
-  "cdn_lag": 1,
+  "ok": 50,
+  "cdn_lag": 0,
   "missing": 0,
   "other": 0,
   "base_url": "https://echocanhelp.github.io/wiki-public",
   "missing_samples": [],
-  "lag_samples": [
-    "https://echocanhelp.github.io/wiki-public/organizations/chunglun-presbyterian-church"
-  ]
+  "lag_samples": []
 }
