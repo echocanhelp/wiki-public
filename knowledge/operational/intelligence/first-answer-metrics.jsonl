@@ -72,3 +72,6 @@
 {"ts": "2026-08-18T21:57:46Z", "status": "hit", "query": "Stone Chen", "slug": "chen-wenshi", "source": "telegram", "kind": "person"}
 {"ts": "2026-08-18T22:06:20Z", "status": "hit", "query": "Taiwan Center", "slug": "taiwan-center", "source": "telegram", "kind": "organization"}
 {"ts": "2026-08-18T22:06:20Z", "status": "hit", "query": "大洛杉磯台灣會館", "slug": "taiwan-center", "source": "telegram", "kind": "organization"}
+{"ts": "2026-08-18T23:09:28Z", "status": "hit", "query": "Tsan Yu Hsu", "slug": "hsu-ling-yun", "source": "telegram", "kind": "person"}
+{"ts": "2026-08-18T23:09:29Z", "status": "hit", "query": "許贊育", "slug": "c-y-hsu", "source": "telegram", "kind": "person"}
+{"ts": "2026-08-18T23:09:29Z", "status": "hit", "query": "C.Y. Hsu", "slug": "c-y-hsu", "source": "telegram", "kind": "person"}
