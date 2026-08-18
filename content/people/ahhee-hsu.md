@@ -41,5 +41,6 @@ Accomplishment
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ahhee-hsu/)
 
 ## Related Pages
+- [[people/c-y-hsu|Tsan Yu Hsu 許贊育]] — father
 - [[organizations/tah-foundation|TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
