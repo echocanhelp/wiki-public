@@ -1,7 +1,7 @@
-## Site design audit — 2026-08-18 00:49
+## Site design audit — 2026-08-18 08:02
 
 - pages_md=2842
-- critical=0 high=1 medium=2
+- critical=0 high=1 medium=1
 - heals_suggested=none
 
 ### Summary
@@ -18,15 +18,14 @@
   - `people/fan-qingliang.md`
   - `people/franklin-ping-cheng.md`
 
-### MEDIUM (2)
-- **F4** people/index.html is 1339512 bytes — heavy on mobile
-- **C2** stub/thin bodies (<200 chars): 2
-  - `people/alexander-macdonald.md`
-  - `people/billy-chang.md`
+### MEDIUM (1)
+- **F4** people/index.html is 1343907 bytes — heavy on mobile
 
 ### LOW (1)
-- **C1** spelling signals (sample): 1 `[AGENT_SUGGESTED]`
-  - `presbyterian-church-in-taiwan.md: teh→the`
+- **C1** spelling signals (sample): 3 `[AGENT_SUGGESTED]`
+  - `yang-ziqing.md: ?ziqing`
+  - `yang-yueqing.md: ?yueqing`
+  - `wang-qiaoling.md: ?qiaoling`
 
 ### INFO (1)
 - **B1** person/org touched ≤7d (rely on recency featured window): 2614

@@ -1,13 +1,19 @@
 =====================================================
-  VAULT INTELLIGENCE — 2026-08-17
+  VAULT INTELLIGENCE — 2026-08-18
 =====================================================
 Labels: ✅ AUTO (healed/no action) · 🟡 QUEUE (auto backlog) · 🔴 NEED YOU (your judgment) · ℹ️ INFO
 
 🔴 NEED YOU (your judgment only)
-🔴 NEED YOU  1. Romanization: guo-shu-qing
-     → Confirm preferred EN / slug (do not invent)
-🔴 NEED YOU  2. Romanization: xie-qingzhi-xie-poyi
-     → Confirm preferred EN / slug (do not invent)
+🔴 NEED YOU  1. Echopedia miss: “台羅”
+     → Confirm identity / approve thin page / or dismiss
+🔴 NEED YOU  2. Echopedia miss: “Tâi-lô”
+     → Confirm identity / approve thin page / or dismiss
+🔴 NEED YOU  3. Echopedia miss: “Peh-oe-ji”
+     → Confirm identity / approve thin page / or dismiss
+🔴 NEED YOU  4. Echopedia miss: “白話字”
+     → Confirm identity / approve thin page / or dismiss
+🔴 NEED YOU  5. Echopedia miss: “pei o ji”
+     → Confirm identity / approve thin page / or dismiss
 
 🟡 QUEUE / identity (soft — no reply required)
 🟡 QUEUE Becky Yang: soft pending aged out: chinese_name
@@ -23,22 +29,19 @@ Labels: ✅ AUTO (healed/no action) · 🟡 QUEUE (auto backlog) · 🔴 NEED YO
      → go deepen people/bai-weiwei
 
 🟡 QUEUE / unfinished (not a hard gate)
-🟡 QUEUE 2 pages WIP/incomplete
+🟡 QUEUE 3 pages WIP/incomplete
 
 🟡 QUEUE / link suggestions (disk)
-ℹ️  INFO  top tips below · full pairs on disk (~40457 scored)
+ℹ️  INFO  top tips below · full pairs on disk (~40860 scored)
 
 🟡 QUEUE / optional link tips (≤5, not NEED YOU)
 🟡 QUEUE 1. Link tip: organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/american-citizens-for-taiwan.md
 🟡 QUEUE 2. Link tip: organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/american-citizens-of-taiwan-origin-acto.md
 🟡 QUEUE 3. Link tip: organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/ann-arbor-taiwanese-association.md
-🟡 QUEUE 4. Link tip: organizations/democratic-progressive-party.md ↔ people/kao-chun-ming.md
-🟡 QUEUE 5. Link tip: organizations/democratic-progressive-party.md ↔ organizations/taiwanjustice-net.md
+🟡 QUEUE 4. Link tip: organizations/chunglun-presbyterian-church.md ↔ organizations/formosan-presbyterian-church-in-los-angeles.md
+🟡 QUEUE 5. Link tip: organizations/chunglun-presbyterian-church.md ↔ organizations/good-shepherd-taiwanese-presbyterian-church.md
 
 ✅ AUTO (already handled by overnight loop)
 ✅ AUTO  ci-heal / scout / deepeners / content-analysis run on schedule
 ✅ AUTO  silent watchdogs = healthy (thermal, unified, kanban-sync)
 ℹ️  INFO  only 🔴 NEED YOU requires your reply
-
----
-Labels: ✅ AUTO (healed/no action) · 🟡 QUEUE (auto backlog) · 🔴 NEED YOU (your judgment) · ℹ️ INFO

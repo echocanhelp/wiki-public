@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-08-18
 ---
 # Fan Chiang Tsiang (范姜提昂)
 

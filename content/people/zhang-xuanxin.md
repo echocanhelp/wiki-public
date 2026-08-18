@@ -42,9 +42,7 @@ Pages that link to **zhang-xuanxin** (zhang-xuanxin):
 
 ### Organizations (1)
 
-- [[organizations/irvine-taiwanese-presbyterian-church|ITPC]] — TAH Who’s Who
-- [[organizations/presbyterian-church-in-taiwan|PCT]] — 台灣神學院
-- [[people/billy-chang|TAH slug billy-chang]] (redirect)
+1. [[organizations/irvine-taiwanese-presbyterian-church.md|irvine-taiwanese-presbyterian-church]]
 
 ### Sources (1)
 

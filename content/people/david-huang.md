@@ -68,18 +68,24 @@ Current GSTPC pastor is [[people/mingyuan-hsu|Rev. Mingyuan Hsu (許明遠)]], s
 > — NTPC / *Toward A Community of Hope* 2025 republication
 
 ## Network
-- [[organizations/good-shepherd-taiwanese-presbyterian-church|GSTPC]] — plant; TAH senior 1980–2002; 40th: 1985 就任首任
-- [[people/cai-weiren|蔡維仁]] — GSTPC40: 第二任 2006–2016
-- [[people/mingyuan-hsu|許明遠]] — invited 40th essay; current pastor
-- [[organizations/presbyterian-church-in-taiwan|PCT]] — 台灣神學院
-- [[organizations/formosan-presbyterian-church-in-los-angeles|FPCLA]] — first N.A. Taiwanese Presbyterian church (lineage, not TAH employer)
-- [[people/mingyuan-hsu|許明遠]] — later GSTPC pastor
-- [[people/ching-fang-chen|陳清芳]] — NTPC Historical Committee chair (2025)
-- [[people/rev-j-m-hsu|許錦銘]] — Formosan Outreach Mission co-founder
-- [[people/albert-s-lai|Albert S. Lai]] — *Toward A Community of Hope*
-- [[sources/toward-a-community-of-hope|Toward A Community of Hope]]
-- [[sources/taiwaneseamericanhistory-org|TAH Who’s Who]]
-- [[sources/good-shepherd-taiwanese-presbyterian-church|GSTPC official site]]
+
+Pages that link to **david-huang** (david-huang):
+
+
+### People (3)
+
+1. [[people/ching-fang-chen.md|ching-fang-chen]]
+2. [[people/ching-fang-chen.md|ching-fang-chen]]
+3. [[people/index.md|index]]
+
+### Organizations (2)
+
+1. [[organizations/good-shepherd-taiwanese-presbyterian-church.md|good-shepherd-taiwanese-presbyterian-church]]
+2. [[organizations/good-shepherd-taiwanese-presbyterian-church.md|good-shepherd-taiwanese-presbyterian-church]]
+
+### Sources (1)
+
+1. [[sources/good-shepherd-taiwanese-presbyterian-church.md|good-shepherd-taiwanese-presbyterian-church]]
 
 ## Sources
 1. [TAH Who’s Who — Rev. David Huang](https://taiwaneseamericanhistory.org/person/rev-david-huang/)

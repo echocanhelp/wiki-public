@@ -1,25 +1,52 @@
 {
-  "generated_at": "2026-08-17T14:58:12Z",
+  "generated_at": "2026-08-18T14:58:07Z",
   "max": 5,
-  "count": 2,
+  "count": 5,
   "items": [
     {
-      "id": "roman_guo-shu-qing",
-      "priority": 4,
-      "kind": "romanization",
-      "title": "Romanization: guo-shu-qing",
-      "action": "Confirm preferred EN / slug (do not invent)",
-      "source": "romanization-lexicon",
-      "ts": null
+      "id": "gap_9d38053a69",
+      "priority": 1,
+      "kind": "gap_miss",
+      "title": "Echopedia miss: “台羅”",
+      "action": "Confirm identity / approve thin page / or dismiss",
+      "source": "telegram",
+      "ts": "2026-08-18T08:32:20Z"
     },
     {
-      "id": "roman_xie-qingzhi-xie-poyi",
-      "priority": 4,
-      "kind": "romanization",
-      "title": "Romanization: xie-qingzhi-xie-poyi",
-      "action": "Confirm preferred EN / slug (do not invent)",
-      "source": "romanization-lexicon",
-      "ts": null
+      "id": "gap_0c8f8db8d5",
+      "priority": 1,
+      "kind": "gap_miss",
+      "title": "Echopedia miss: “Tâi-lô”",
+      "action": "Confirm identity / approve thin page / or dismiss",
+      "source": "telegram",
+      "ts": "2026-08-18T08:32:19Z"
+    },
+    {
+      "id": "gap_333b81953c",
+      "priority": 1,
+      "kind": "gap_miss",
+      "title": "Echopedia miss: “Peh-oe-ji”",
+      "action": "Confirm identity / approve thin page / or dismiss",
+      "source": "telegram",
+      "ts": "2026-08-18T08:30:48Z"
+    },
+    {
+      "id": "gap_697b52cb8d",
+      "priority": 1,
+      "kind": "gap_miss",
+      "title": "Echopedia miss: “白話字”",
+      "action": "Confirm identity / approve thin page / or dismiss",
+      "source": "telegram",
+      "ts": "2026-08-18T08:30:48Z"
+    },
+    {
+      "id": "gap_8ccba735cf",
+      "priority": 1,
+      "kind": "gap_miss",
+      "title": "Echopedia miss: “pei o ji”",
+      "action": "Confirm identity / approve thin page / or dismiss",
+      "source": "telegram",
+      "ts": "2026-08-18T08:30:47Z"
     }
   ]
 }

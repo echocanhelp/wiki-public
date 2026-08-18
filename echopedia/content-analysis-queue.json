@@ -1,12 +1,41 @@
 {
-  "date": "2026-08-17",
+  "date": "2026-08-18",
   "standards_version": 8,
-  "total_pages_scanned": 2823,
-  "pages_with_findings": 864,
-  "auto_queued": 8,
+  "total_pages_scanned": 603,
+  "auto_queued": 5,
   "queue": [
     {
-      "path": "people/cai-jinrong.md",
+      "path": "organizations/chunglun-presbyterian-church.md",
+      "findings": [
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_HISTORY",
+        "STRUCT_NO_RELATED"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "organizations/tainan-east-gate-barclay-memorial-church.md",
+      "findings": [
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_HISTORY",
+        "STRUCT_NO_RELATED"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/alexander-macdonald.md",
       "findings": [
         "LINKS_NO_RELATED",
         "STRUCT_NO_IDENTITY",
@@ -21,13 +50,15 @@
       ]
     },
     {
-      "path": "people/cai-yingwen.md",
+      "path": "people/billy-chang.md",
       "findings": [
+        "DESC_NO_BODY",
+        "FRESHNESS_NO_REVIEW_DATE",
         "LINKS_NO_RELATED",
-        "STRUCT_NO_IDENTITY",
-        "STRUCT_NO_RELATED"
+        "STRUCT_NO_TYPE",
+        "STRUCT_NO_REVIEW_DATE"
       ],
-      "priority": "medium",
+      "priority": "high",
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol",
         "Fix ONLY listed findings — no inventing biography",
@@ -36,83 +67,10 @@
       ]
     },
     {
-      "path": "people/ching-sze-hsieh.md",
+      "path": "people/yang-ming-ren.md",
       "findings": [
         "DESC_NO_TITLE_MENTION",
-        "READABILITY_LONG_SENTENCES_36wps"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/hou-youyi.md",
-      "findings": [
         "LINKS_NO_RELATED",
-        "STRUCT_NO_IDENTITY",
-        "STRUCT_NO_RELATED"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/lai-qingde.md",
-      "findings": [
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_IDENTITY",
-        "STRUCT_NO_RELATED"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/matthew-tsai.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "READABILITY_LONG_SENTENCES_31wps"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/xie-changting.md",
-      "findings": [
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_IDENTITY",
-        "STRUCT_NO_RELATED"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/xu-shihuan.md",
-      "findings": [
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_IDENTITY",
         "STRUCT_NO_RELATED"
       ],
       "priority": "medium",
@@ -124,6 +82,6 @@
       ]
     }
   ],
-  "suppressed_findings": 357,
-  "fp_history_entries": 1334
+  "suppressed_findings": 1245,
+  "fp_history_entries": 1957
 }

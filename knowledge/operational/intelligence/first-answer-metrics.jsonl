@@ -61,3 +61,8 @@
 {"ts": "2026-08-18T06:45:25Z", "status": "hit", "query": "蕭泰然", "slug": "tyzen-hsiao", "source": "telegram", "kind": "person"}
 {"ts": "2026-08-18T06:45:26Z", "status": "hit", "query": "Tyzen Hsiao", "slug": "tyzen-hsiao", "source": "telegram", "kind": "person"}
 {"ts": "2026-08-18T08:09:09Z", "status": "hit", "query": "Tyzen Hsiao", "slug": "tyzen-hsiao", "source": "telegram", "kind": "person"}
+{"ts": "2026-08-18T08:30:47Z", "status": "miss", "query": "pei o ji", "slug": null, "source": "telegram", "kind": null}
+{"ts": "2026-08-18T08:30:48Z", "status": "miss", "query": "Peh-oe-ji", "slug": null, "source": "telegram", "kind": null}
+{"ts": "2026-08-18T08:30:48Z", "status": "miss", "query": "白話字", "slug": null, "source": "telegram", "kind": null}
+{"ts": "2026-08-18T08:32:19Z", "status": "miss", "query": "Tâi-lô", "slug": null, "source": "telegram", "kind": null}
+{"ts": "2026-08-18T08:32:20Z", "status": "miss", "query": "台羅", "slug": null, "source": "telegram", "kind": null}

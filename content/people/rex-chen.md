@@ -64,6 +64,18 @@ A business card shared during onboarding identifies Rex Chen as First Vice Presi
 ## Disambiguation
 - [[people/chen-caiyuan|Rex Chen (陳財元)]] — TAH Who’s Who, 1949–2003, Oklahoma. Different person.
 
+
+## Network
+
+Pages that link to **陳乃光** (rex-chen):
+
+
+### People (3)
+
+1. [[people/david-lee.md|david-lee]]
+2. [[people/index.md|index]]
+3. [[people/ken-wu.md|ken-wu]]
+
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
 - [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]]

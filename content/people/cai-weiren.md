@@ -43,12 +43,23 @@ Essay headings he used: 高舉基督福音；分享豐盛生命；教導全備�
 > — GSTPC40「數算恩典邁步前行」
 
 ## Network
-- [[organizations/good-shepherd-taiwanese-presbyterian-church|GSTPC]]
-- [[organizations/tpc|TPC]] — essay: GSTPC blessing / participation in TPC
-- [[people/david-huang|黃德利]] — plant / 首任; named Cai among first counselors
-- [[people/mingyuan-hsu|許明遠]] — later pastor
-- [[people/ralph-su|蘇惠智]] — in post 2018 (gap after 2016)
-- [[people/susan-shu-ai-tsai|蔡淑愛]] — GSTPC pianist; **not** assumed kin
+
+Pages that link to **cai-weiren** (cai-weiren):
+
+
+### People (2)
+
+1. [[people/index.md|index]]
+2. [[people/index.md|index]]
+
+### Organizations (2)
+
+1. [[organizations/good-shepherd-taiwanese-presbyterian-church.md|good-shepherd-taiwanese-presbyterian-church]]
+2. [[organizations/index.md|index]]
+
+### Sources (1)
+
+1. [[sources/irvine-taiwanese-presbyterian-church.md|irvine-taiwanese-presbyterian-church]]
 
 ## Sources
 1. GSTPC40「數算恩典邁步前行」([ebook](https://gstpc.org/home/gstpc40/ebook/))

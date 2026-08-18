@@ -67,12 +67,27 @@ From his 2025 foreword material:
 
 ## Network
 
-- [[people/mingyuan-hsu|許明遠]] — 2018 host; 2023 translation invite
-- [[people/albert-s-lai|賴信雄]] / [[sources/toward-a-community-of-hope|Toward A Community of Hope]]
-- [[organizations/tainan-east-gate-barclay-memorial-church|東門巴克禮紀念教會]]
-- [[organizations/chunglun-presbyterian-church|中崙教會]]
-- [[organizations/presbyterian-church-in-taiwan|PCT]]
-- [[people/thomas-barclay|巴克禮]]
+Pages that link to **pinghsi-liu** (pinghsi-liu):
+
+
+### People (7)
+
+1. [[people/albert-s-lai.md|albert-s-lai]]
+2. [[people/albert-s-lai.md|albert-s-lai]]
+3. [[people/ching-fang-chen.md|ching-fang-chen]]
+4. [[people/en-sheng-pan.md|en-sheng-pan]]
+5. [[people/index.md|index]]
+6. [[people/ntpc.md|ntpc]]
+7. [[people/pingtung-lai.md|pingtung-lai]]
+
+### Organizations (2)
+
+1. [[organizations/national-taiwanese-presbyterian-council.md|national-taiwanese-presbyterian-council]]
+2. [[organizations/national-taiwanese-presbyterian-council.md|national-taiwanese-presbyterian-council]]
+
+### Sources (1)
+
+1. [[sources/toward-a-community-of-hope.md|toward-a-community-of-hope]]
 
 ## Source Notes and Confidence
 

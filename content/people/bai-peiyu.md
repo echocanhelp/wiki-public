@@ -7,7 +7,7 @@ tags:
   - TAHS
   - taiwanese-american
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-08-18
 ---
 
 # Bai Peiyu / 白佩玉
