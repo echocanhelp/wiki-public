@@ -8,7 +8,7 @@ tags:
   - Taiwan
   - primary-source
 verification_status: published
-last_reviewed: 2026-08-16
+last_reviewed: 2026-08-18
 ---
 # Presbyterian Church in Taiwan (PCT) Official Website
 
@@ -30,9 +30,9 @@ Official website of the **[[organizations/presbyterian-church-in-taiwan|Presbyte
 
 ## Archive strategy
 
-- **Tier 2:** Full-domain archive of key pages (homepage, news, English site, ministry pages)
-- **Entity index:** Extract organization names, person names, ministry names from page content
-- **No sitemap** — use seed URLs + internal link discovery
+- **v1 (2026-08-18):** official EN Who-We-Are intro/structure + ZH home + news *index*. MANIFEST `knowledge/web-archives/pct-MANIFEST.json` — **local only, never git**.
+- **Not archived:** news article firehose, congregation directory, ministry subdomains.
+- No sitemap.xml — seed URLs only.
 
 ## Related Pages
 

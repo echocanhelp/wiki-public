@@ -8,7 +8,7 @@ tags:
   - democracy
   - indigenous
 verification_status: verified
-last_reviewed: 2026-08-16
+last_reviewed: 2026-08-18
 website: https://www.pct.org.tw/
 ---
 
@@ -27,6 +27,19 @@ The PCT is a member of the World Council of Churches, and its flag features a "b
 - **Governance:** Presbyterian polity — 23 presbyteries, 4 districts, 1 General Assembly
 - **Theology:** Reformed theology — Westminster Confession of Faith, Apostles' Creed, Nicene Creed, Heidelberg Catechism
 - **Language:** Taiwanese Hokkien, Mandarin, indigenous languages
+- **Official sites:** [pct.org.tw](https://www.pct.org.tw/) · [english.pct.org.tw](https://english.pct.org.tw/)
+- **General Assembly office:** 3, Lane 269, Roosevelt Rd Sec. 3, Taipei 106 ([EN site footer](https://english.pct.org.tw/enWho_int_His.htm), archived 2026-08-18)
+- **Tel:** +886-2-2362-5282 · **Fax:** +886-2-2362-8096 · pct@mail.pct.org.tw
+
+## History
+
+Official English “Who We Are → Our History – context and pluralism” ([enWho_int_His.htm](https://english.pct.org.tw/enWho_int_His.htm), archived 2026-08-18) is **island political context**, not a substitute for the mission timeline below.
+
+PCT’s own wording: Dutch, Spanish, and Qing rule; Taiwan made a Qing province **1887**; ceded to Japan **1895** “in perpetuity”; fifty years of colonial development; **1945** Allied instruction that the KMT accept Japan’s surrender and occupy as trustee; **1949** KMT retreat to Taiwan; **228** (28 February 1947) “wiping out at least 20,000 elite Taiwanese leaders and youth”; martial law and a one-language policy until **1987**. About **3 million (13%)** “Mainlander” troops/civilians and descendants; later migrant workers (~300,000) and cross-cultural marriages.
+
+Official “Our Isolation” ([enWho_int_Iso.htm](https://english.pct.org.tw/enWho_int_Iso.htm)): PCT prefers **self-determination** — Taiwan’s people choose their future; rejects forced “one China” unification.
+
+**Church clock (mission):** **1865** Maxwell / Tainan · **1872** Mackay / Tamsui · **1951** single General Assembly. See Timeline. **Not** TPC 50週年 (FPCLA 1970).
 
 ## Historical Significance
 
@@ -71,6 +84,16 @@ The PCT pioneered modern education in Taiwan, establishing:
 - **Tainan Theological College and Seminary** — founded 1876 by missionary Thomas Barclay
 - **Aletheia University** (Tamsui) — traces origins to George Leslie Mackay's Oxford College (1882)
 - **Chang Jung Christian University** (Tainan) — established 1993, building on 1883 Presbyterian school foundations
+- **Yushan Theological College and Seminary** — official related-institution list
+- **Presbyterian Bible College**
+- **Chang-Jung Girls' Senior High / Chang Jung Senior High / Tam-Kang Elementary–High** — official list
+- **Mackay Nursing School · Mackay Medical College**
+
+Official related-institution page also names **Taiwan Church Press** and **Mass Media Foundation** ([enWho_int_Ins.htm](https://english.pct.org.tw/enWho_int_Ins.htm)).
+
+### Mission movement (official)
+
+**One-leads-One New Doubling Movement** launched **2010**: Identity, Commitment, Growth; six dimensions through 2015 ([enWho_int_Eva.htm](https://english.pct.org.tw/enWho_int_Eva.htm)). Do not treat 2015 as a membership-count we have.
 
 ### Healthcare
 
@@ -147,7 +170,17 @@ The PCT subscribes to:
 - **Nicene Creed**
 - **Heidelberg Catechism**
 - **Westminster Confession of Faith** (1646) — primary doctrinal standard
-- **PCT Confession of Faith** (1985) — 20-article adaptation addressing Taiwan's historical and cultural realities
+- **PCT Confession of Faith** (1985) — 20-article adaptation addressing Taiwan's historical and cultural realities. Official English translation (from the authorized Pe̍h-ōe-jī text of the **32nd General Assembly**) adopted by the GA Faith and Order Committee on **10 January 1986** ([enWho_con.htm](https://english.pct.org.tw/enWho_con.htm)).
+
+The official confession names the church as **both universal and rooted in this land**.
+
+### Logo
+
+Official: burning bush — *Nec Tamen Consumebatur* — “burns but is not consumed.” “Since 1865 … scorched by the flames of repression … still stands” ([enWho_int_Log.htm](https://english.pct.org.tw/enWho_int_Log.htm)).
+
+### Program committees (official EN list)
+
+[enWho_int_Com.htm](https://english.pct.org.tw/enWho_int_Com.htm): Evangelism; Education; Church and Society; Ecumenical Relations; Youth; Campus; Women’s; Pine Life (seniors); Indigenous Mission; Hakka Mission; Ministers In-Service & Retirement Welfare; Finance; Law; Faith and Order; Liturgy and Music; Church History; Promote Taiwan’s Ethnic Languages; Higher Education; General Assembly Ministers; Gender Justice. **Names of sitting secretaries not on that page — not invented.**
 
 ### Core Beliefs
 
@@ -229,10 +262,20 @@ The Taiwan Church Press (established 1885) functions as the PCT's primary publis
 
 ## Sources
 
-1. Wikipedia: [Presbyterian Church in Taiwan](https://en.wikipedia.org/wiki/Presbyterian_Church_in_Taiwan)
-2. Grokipedia: [Presbyterian Church in Taiwan](https://grokipedia.com/page/Presbyterian_Church_in_Taiwan)
-3. World Council of Churches: [Presbyterian Church in Taiwan](https://www.oikoumene.org/members/partner-groups/presbyterian-church-in-taiwan)
-4. PCT Official Website: [www.pct.org.tw](https://www.pct.org.tw)
+Official (archived 2026-08-18 under `knowledge/web-archives/pct-*.md`; **not** in git):
+
+1. [Our History](https://english.pct.org.tw/enWho_int_His.htm)
+2. [Our Isolation / self-determination](https://english.pct.org.tw/enWho_int_Iso.htm)
+3. [Confession of Faith](https://english.pct.org.tw/enWho_con.htm)
+4. [Related institutions](https://english.pct.org.tw/enWho_int_Ins.htm)
+5. [Program committees](https://english.pct.org.tw/enWho_int_Com.htm)
+6. [Structure and statistics](https://english.pct.org.tw/enWho_int_Sta.htm) — 257,550 members / 23 presbyteries / 4 districts (2020)
+7. [pct.org.tw](https://www.pct.org.tw/) · [english.pct.org.tw](https://english.pct.org.tw/)
+
+Secondary:
+
+8. Wikipedia: [Presbyterian Church in Taiwan](https://en.wikipedia.org/wiki/Presbyterian_Church_in_Taiwan)
+9. World Council of Churches: [PCT member page](https://www.oikoumene.org/members/partner-groups/presbyterian-church-in-taiwan)
 - [[people/tah-p-b256f6296d|賴鴻毅]]
 - [[people/bach-ying-chun-wu|Bach Ying-Chun Wu (吳英俊)]]
 - [[people/zhang-xuanxin|Billy Chang 張宣信]]

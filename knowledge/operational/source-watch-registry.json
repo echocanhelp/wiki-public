@@ -126,6 +126,8 @@
       "seed_urls": [
         "https://www.pct.org.tw/",
         "https://english.pct.org.tw/",
+        "https://english.pct.org.tw/enWho_int_His.htm",
+        "https://english.pct.org.tw/enWho_con.htm",
         "https://www.pct.org.tw/news_pct.aspx"
       ],
       "url_include_regex": null,

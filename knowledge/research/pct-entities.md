@@ -4,17 +4,34 @@ type: research
 domain: pct.org.tw
 last_updated: 2026-08-18
 ---
-# Fact sheet: pct.org.tw
+# Fact sheet: pct.org.tw (v1 graph)
 
-**Primary:** `content/organizations/presbyterian-church-in-taiwan.md` (~17 KB Wikipedia/WCC-backed encyclopedia — **not thin**)  
-**Hub:** `content/sources/presbyterian-church-in-taiwan.md`
+**Primary:** `content/organizations/presbyterian-church-in-taiwan.md`  
+**Hub:** `content/sources/presbyterian-church-in-taiwan.md`  
+**MANIFEST:** `knowledge/web-archives/pct-MANIFEST.json` (local only — **never commit**)
 
-## Watch honesty
-Registry `tier2_glob: knowledge/web-archives/pct*.md` matches **0 files**. Sunday continuity has **nothing to fingerprint**. This is **not** a WEBSITE_INGEST COMPLETE of pct.org.tw.
+## Scope (v1)
+Official **Who We Are** cluster on `english.pct.org.tw` + ZH home + news **index**.  
+**Not** crawled: `news_pct` article firehose, 1,271 congregations, ministry subdomains.
 
-## On primary (encyclopedia, not site-absorb)
-- Timeline 1865–2025, statements 1971/75/77, institutions, POJ / 教會公報
-- GSTPC/ITPC/FPCLA/TPC disambiguation
+## A-tier (on primary, official cite)
+| Cluster | Archive | Absorbed |
+|---|---|---|
+| Island History / 228 / martial law | `pct-en-introduction-history.md` | ## History |
+| Self-determination | `pct-en-introduction-isolation.md` | ## History |
+| Confession + 1986 EN / POJ 32nd GA | `pct-en-introduction-confession.md` | ## Theology |
+| Logo *Nec Tamen Consumebatur* | `pct-en-introduction-logo.md` | ### Logo |
+| 23 presbyteries / 4 districts / 257,550 (2020) | `pct-en-introduction-statistics.md` | Snapshot + Timeline |
+| Program committees (names only) | `pct-en-introduction-committees.md` | ### Program committees |
+| Institutions (Yushan, PBC, Mackay college…) | `pct-en-introduction-institutions.md` | ## Works |
+| One-leads-One 2010 | `pct-en-introduction-evangelism.md` | ### Mission movement |
+| GA office address / tel | EN footer | Snapshot |
 
-## Gap
-Full-domain archive of pct.org.tw was never landed under the glob. Do not claim overnight refresh of PCT official pages.
+## Not invented
+Sitting Moderator / General Secretary names — **not** on these pages. Keep existing “recent” lines as secondary.
+
+## Dual slug
+None. PCT ≠ TPC ≠ NTPC ≠ GSTPC/ITPC membership.
+
+## Coverage
+Sitemap: **none**. Full-domain HTML: **no**. Status: **PARTIAL** (v1 intro/structure). Gate C narrative: should **pass**.
