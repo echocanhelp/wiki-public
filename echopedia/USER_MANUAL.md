@@ -432,9 +432,9 @@ The system runs a nightly pipeline that discovers content quality gaps on the li
 | Extract | 04:10 | `echopedia-extract-actions.py` | `knowledge/operational/extracted/<date>.json` |
 | Evaluate | 04:15 | `echopedia-evaluate-actions.py` | `knowledge/operational/evaluated/<date>.json` |
 | Generate | 04:20 | `echopedia-generate-cards.py` | `knowledge/operational/generated/cards/*.md` |
-| Review | 05:00 (daily) | `weekly-improvement.sh` | `improvement-brief.md` |
-| Remediate | 04:00 | `echopedia-janitor` | janitor queue (P8/P3/P9) |
-| Publish | 04:15 | `echopedia-ci-heal` | gh-pages deploy |
+| Review | **Sun 07:05** | `weekly-improvement.sh` | `improvement-brief.md` |
+| Remediate | 03:50 | `echopedia-janitor` | janitor queue (P8/P3/P9) |
+| Publish | **08:00** | `echopedia-ci-heal` | gh-pages deploy |
 
 **Flow:** Scout monitors the live site for 404s/slow loads → Filter applies deterministic rules to find actionable gaps → Extract maps findings to specific actions → Evaluate scores by user impact (inbound wikilinks × page type × finding severity) → Generate creates kanban task cards → Review gate summarizes for human approval → Remediate applies fixes → Publish deploys.
 
@@ -712,15 +712,15 @@ The homepage shows **Featured people** and **Featured organizations** cards. The
 
 ## Site designer / layout manager (nightly)
 
-**Canon:** [SITE_DESIGN.md](SITE_DESIGN.md) · **Worker:** WORKER **P13** · **Cron:** 04:30 audit-only · **Heal:** inside 04:15 ci-heal before L3 push
+**Canon:** [SITE_DESIGN.md](SITE_DESIGN.md) · **Worker:** WORKER **P13** · **Cron:** 08:15 audit-only (after push) · **Heal:** inside 08:00 ci-heal before L3 push
 
 Keeps the live site usable after content changes:
 
 | Layer | What |
 |-------|------|
-| L0 audit | MD↔HTML parity, featured markers, viewport/mobile signals, stub sample, spelling sample |
+| L0 audit | MD↔HTML parity, `#echo-recent` inject, viewport/mobile signals, stub sample, spelling sample |
 | L1 heal | runs **inside ci-heal** before the single nightly push (featured root+public, parity publish) |
-| L2 verify | 04:30 audit-only after push — alert if still CRITICAL/HIGH |
+| L2 verify | **08:15** audit-only after push — alert if still CRITICAL/HIGH |
 | L3 agent | Only via P13 + brief `AGENT_SUGGESTED` — **no freeform redesign** |
 
 **Push rule:** heal yes → push yes, but **one pusher** (`ci-heal` L3). Site-design never pushes alone.
@@ -745,7 +745,7 @@ Morning digest includes the site-design brief head.
 | **drift** | The condition where a source Markdown file in `content/` is newer than its deployed HTML tree (stale HTML). Measured by `echopedia-deploy-drift.sh` via mtime comparison. Drift triggers the L2 publish step in `ci-heal`. |
 | **smoke** | A post-deploy liveness check that curls the `smoke_urls` from `standards.json` and verifies HTTP 200 + minimum byte count. Run by `echopedia-smoke-test.sh`. A smoke failure blocks L3 auto-push even when ops and drift are green. |
 | **heal** | The L1/L2 remediation step in `ci-heal` that resolves drift (publish), runs site-design fixes (featured inject, parity), and commits results. Heal is programmable (`no_agent`) — never a freeform LLM rewrite. |
-| **ci-heal** | The 04:15 nightly orchestrator (`echopedia-ci-heal.sh`) that runs ops-check → optional drain → drift→publish → site-design L1 heal → broken-link gate → smoke → L3 green-push. It is the **only** nightly pusher. |
+| **ci-heal** | The **08:00 local** nightly orchestrator (`echopedia-ci-heal.sh`) that runs ops-check → optional drain → drift→publish → site-design L1 heal → broken-link gate → smoke → L3 green-push. It is the **only** nightly pusher. |
 | **L0** | Sense layer. Audit-only: collects findings into a brief + state JSON. Examples: `echopedia-site-design-audit.py` (L0 site-design), `echopedia-nightly-audit` (structural). No writes. |
 | **L1** | Heal layer. Programmable, deterministic fixes driven by L0 findings. Examples: `echopedia-site-design-heal.sh` (featured-regen, parity publish), `echopedia-publish.sh`. No LLM reasoning. |
 | **L2** | Gate/commit layer. Decides whether to commit heal artifacts and whether site-design issues should block green. Flags: `l2_auto_commit_on_heal`, `l2_site_design_blocks_green`. |
@@ -1004,7 +1004,7 @@ grep -r "featured: true" ~/echo-system/content/
 python3 ~/echo-system/scripts/featured-regen.py --root ~/echo-system --dry-run
 python3 ~/echo-system/scripts/featured-regen.py --root ~/echo-system --inject
 # 3. Verify markers in index.html
-grep -A2 "featured-start" ~/echo-system/index.html
+grep -A2 'id="echo-recent"' ~/echo-system/index.html
 # 4. Publish
 bash ~/.hermes/scripts/echopedia-publish.sh --push
 ```

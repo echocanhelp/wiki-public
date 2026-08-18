@@ -19,7 +19,7 @@ Keep the site **usable on phone + desktop**, **structurally correct after every 
 
 | Tier | Engine | When | What |
 |------|--------|------|------|
-| **L0 Sense** | `echopedia-site-design-audit.py` | Nightly 04:25 + P13 | Collect findings → brief + state JSON |
+| **L0 Sense** | `echopedia-site-design-audit.py` | Nightly **08:15** + P13 | Collect findings → brief + state JSON |
 | **L1 Heal** | `echopedia-site-design-heal.sh` | After L0 if flags on | Programmable fixes only (featured, parity, publish) |
 | **L2 Gate** | Optional in heal / ci-heal | If `l2_site_design_blocks_green` | Critical site issues → no silent “all good” |
 | **L3 Agent** | Local worker **P13** only | Human or rare manual | Bounded fixes from brief — **no CSS redesign** |
@@ -63,7 +63,7 @@ Times are **local wall clock** on pinto; SSOT: `jobs.json` / SYSTEM_STATUS inven
 | A1 | `public/index.html` exists and >2KB | No — incident |
 | A2 | Viewport meta on homepage + sample pages | No (Quartz default; flag if missing) |
 | A3 | MD↔HTML parity: every `content/{people,orgs,sources,events}/*.md` has matching tree HTML | Yes → publish |
-| A4 | Featured markers `<!-- featured-start -->` / `<!-- featured-end -->` on homepage HTML (root **and** `public/`) | Yes → featured-regen inject both |
+| A4 | `#echo-recent` present on homepage HTML (root **and** `public/`) | Yes → featured-regen inject both |
 | A5 | Featured section non-empty when selection dry-run returns ≥1 page | Yes → featured-regen |
 | A6 | Index trees exist: `people/`, `organizations/`, `sources/` (HTML counts >0 if MD >0) | Yes → publish |
 | A7 | CSS/JS linked from homepage resolve under `public/` (relative) | Flag only |

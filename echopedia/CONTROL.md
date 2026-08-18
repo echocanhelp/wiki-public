@@ -137,7 +137,8 @@ Do **not** start by rewriting docs or adding crons.
 4) If cron: hermes cron edit (pin no_agent + relative script)
 5) One git commit if repo-owned
 6) ONE doc/skill update at the true SSOT
-7) Kanban complete with verify evidence
+7) **Harmonize** — grep live docs/skills for the *old* fact; patch every live SSOT that still states it (CONTROL §4.8)
+8) Kanban complete with verify evidence
 ```
 
 ### 4.4 Change schedule
@@ -146,7 +147,7 @@ Do **not** start by rewriting docs or adding crons.
 hermes cron list
 hermes cron edit <id> --schedule '...' --no-agent --script name.sh
 ```
-Then **either** wait for docs-sync **or** update WHERE_WE_ARE/WORKER cron section **once** — prefer generated inventory when docs-sync exists.
+Then run `bash ~/.hermes/scripts/echopedia-docs-sync.sh`. Do **not** hand-edit the SYSTEM_STATUS cron table.
 
 ### 4.5 Document a lesson
 
@@ -164,7 +165,7 @@ Then **either** wait for docs-sync **or** update WHERE_WE_ARE/WORKER cron sectio
 
 ### 4.6 Publish / push
 
-- Prefer **ci-heal 04:15** (only nightly pusher).  
+- Prefer **ci-heal 08:00 local** (only nightly pusher).  
 - Manual: WORKER **P2** / `echopedia-publish.sh` path only — not ad-hoc `git push` of partial trees.  
 - After push: CDN status file / smoke — not vibes.
 
@@ -175,13 +176,28 @@ Then **either** wait for docs-sync **or** update WHERE_WE_ARE/WORKER cron sectio
 - **Cron = no_agent** unless there is a written exception in this file.  
 - Never leave agent crons unpinned after `/model` switches.
 
+### 4.8 Document and harmonize (mandatory after any system change)
+
+A change is **not done** until live docs match the new SSOT.
+
+Applies to: cron schedule/script, publish path, site design / featured inject, go-router class, WORKER playbook, gateway split, autonomy flags.
+
+1. Change the **one SSOT** for that fact (table in §3).  
+2. Grep live surfaces for the **old** value (hour, marker, path, pusher name).  
+3. Patch every **live** file that still states the old fact: CONTROL, USER_MANUAL, WORKER, SITE_DESIGN, WHERE_WE_ARE narrative, `go-router`, `echopedia-ops`, the relevant skill.  
+4. Run `bash ~/.hermes/scripts/echopedia-docs-sync.sh`. Never hand-edit the SYSTEM_STATUS cron table.  
+5. Do **not** rewrite historical session notes / `references/*-2026-07-*.md` — those are archives.  
+6. Incomplete if: job moved but USER_MANUAL/ops still show the old hour; featured inject changed but skills still say `<!-- featured-start -->` or `./person/`.
+
+**One lesson → one place** still holds. Harmonize means *delete or update the stale copies*, not add a third essay.
+
 ---
 
 ## 5. Corruption modes (do **not** do this)
 
 | Corruption | Why it breaks things | Repair |
 |------------|----------------------|--------|
-| **Triple-write** same cron/metric in USER_MANUAL + WHERE + skill | Guaranteed drift | SSOT + delete copies |
+| **Ship a change without grepping stale docs** | Next agent/human follows the old hour/marker | CONTROL §4.8 |
 | **Hand-edit SYSTEM_STATUS / briefs** as source of truth | Overwritten next cron; false confidence | Delete hand edits; re-run generator |
 | **Count Tier2 articles as “pages”** | 29k false firehose | Tier1-only metrics in scripts |
 | **Uncapped audit/connector dumps to Telegram** | Timeouts, alert fatigue | Caps + full log on disk |

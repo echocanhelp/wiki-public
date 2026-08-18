@@ -62,7 +62,8 @@ SSOT times: `hermes cron list` / SYSTEM_STATUS generated table. Narrative summar
 | 03:10 | nightly-audit | Structural sense (alert if critical) |
 | 03:50 | janitor | Queue safe remediation candidates |
 | 04:05–04:06 | scout · person-works-linker | Live UX + works links |
-| 04:15–04:30 | extract · evaluate · generate · site-design | Pipeline + design |
+| 04:15–04:25 | extract · evaluate · generate | Pipeline |
+| **08:15** | **site-design** | **Audit-only after ci-heal push** |
 | 04:40–05:20 | backlink · quotes · timeline | Page deepening AUTO |
 | 05:30 Sun | vault-search-index-rebuild | Search index |
 | **Sun 06:00** | **source-continuity** | **Live-site watch (TC/GSTPC/ITPC/PCT) → delta AUTO → next-ingest tips** |
