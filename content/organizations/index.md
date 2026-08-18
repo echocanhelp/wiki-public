@@ -231,6 +231,7 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 
 ### R {#r}
 
+- [Redirect → 大洛杉磯台灣會館](./taiwan-center-foundation-of-greater-los-angeles)
 - [Rice Taiwanese Association](./rice-taiwanese-association)
 - [Rice Taiwanese Graduate Student Association](./rice-taiwanese-graduate-student-association)
 - [Rutgers Taiwan Study Association (羅格斯大學台灣研究社)](./rutgers-taiwan-study-association)
@@ -265,7 +266,6 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 - [Taiwan Benevolent Association of California](./taiwan-benevolent-association-of-california)
 - [Taiwan Care Inc. (關懷台灣基金會)](./taiwan-care-inc)
 - [Taiwan Center Choir](./taiwan-center-choir)
-- [Taiwan Center Foundation of Greater Los Angeles (大洛杉磯台灣會館)](./taiwan-center-foundation-of-greater-los-angeles)
 - [Taiwan Center Foundation of the Greater Los Angeles (大洛杉磯台灣會館)](./taiwan-center)
 - [Taiwan Elite Alliance](./taiwan-elite-alliance)
 - [Taiwan Elite Alliance TEA (優社)](./taiwan-elite-alliancetea)

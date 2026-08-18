@@ -70,3 +70,5 @@
 {"ts": "2026-08-18T21:56:14Z", "status": "hit", "query": "陳文石", "slug": "chen-wenshi", "source": "telegram", "kind": "person"}
 {"ts": "2026-08-18T21:56:15Z", "status": "hit", "query": "chen-wenshi", "slug": "chen-wenshi", "source": "telegram", "kind": "person"}
 {"ts": "2026-08-18T21:57:46Z", "status": "hit", "query": "Stone Chen", "slug": "chen-wenshi", "source": "telegram", "kind": "person"}
+{"ts": "2026-08-18T22:06:20Z", "status": "hit", "query": "Taiwan Center", "slug": "taiwan-center", "source": "telegram", "kind": "organization"}
+{"ts": "2026-08-18T22:06:20Z", "status": "hit", "query": "大洛杉磯台灣會館", "slug": "taiwan-center", "source": "telegram", "kind": "organization"}
