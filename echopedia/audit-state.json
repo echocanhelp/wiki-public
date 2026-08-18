@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "slug-redirect-bot",
+  "last_run": "self-heal-verify",
   "last_run_date": "2026-08-18",
   "pages_audited": 2832,
   "issues_found": 3199,
@@ -460,6 +460,65 @@
         "people/tsai-ing-wen",
         "sources/irvine-taiwanese-presbyterian-church"
       ]
+    },
+    {
+      "run_date": "2026-08-18",
+      "total_issues": 29112,
+      "fixable": 2,
+      "issue_types": {
+        "missing_field": 29108,
+        "missing_frontmatter": 1,
+        "redirect_missing_target": 1,
+        "chinese_name_mismatch": 2
+      }
+    },
+    {
+      "run_date": "2026-08-18",
+      "total_issues": 10,
+      "fixable": 2,
+      "issue_types": {
+        "missing_field": 7,
+        "redirect_missing_target": 1,
+        "chinese_name_mismatch": 2
+      }
+    },
+    {
+      "run_date": "2026-08-18",
+      "total_issues": 8,
+      "fixable": 0,
+      "issue_types": {
+        "missing_field": 7,
+        "redirect_missing_target": 1
+      }
+    },
+    {
+      "run_date": "2026-08-18",
+      "total_issues": 0,
+      "duplicates": 0,
+      "stale_redirects": 0,
+      "name_mismatches": 0
+    },
+    {
+      "run_date": "2026-08-18",
+      "total_broken": 1582,
+      "type_a_md": 1547,
+      "type_b_mismatch": 5,
+      "type_c_missing": 5,
+      "type_d_typo": 1,
+      "type_e_index": 24
+    },
+    {
+      "run_date": "2026-08-18",
+      "total_issues": 2257,
+      "broken_links": 1309,
+      "missing_pages": 871,
+      "structural": 67,
+      "stale": 0,
+      "missing_sections": 0,
+      "orphans": 10,
+      "cross_refs": 0,
+      "prev_total": 1582,
+      "delta": 675
     }
   ],
   "resolved_issues": []
