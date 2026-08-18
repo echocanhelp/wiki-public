@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "updated": "2026-08-16",
-  "note": "Public English / TAHS preferred spelling. Not Hanyu Pinyin. Slug rename only when inbound_wikilinks < max_inbound_for_slug_rename.",
+  "updated": "2026-08-18",
+  "note": "Public English / TAHS preferred spelling. Not Hanyu Pinyin. Slug rename only when inbound_wikilinks < max_inbound_for_slug_rename. Hokkien (POJ / Tâi-lô) is optional snapshot only — never slug, never mass-fill, never invent from a converter.",
+  "hokkien": {
+    "default": "omit",
+    "slug": "never",
+    "require": "named-source",
+    "church_historical": "poj",
+    "moe_language": "tailo",
+    "one_system_per_page": true,
+    "mix_forbidden": true,
+    "converter_invent": false,
+    "audit_scope": "pinyin-vs-preferred-en",
+    "label": "Identity Snapshot field POJ: or Tâi-lô: — omit if unknown"
+  },
   "max_inbound_for_slug_rename": 20,
   "people": {
     "cai-yingwen": {"canonical_slug": "tsai-ing-wen", "name_en": "Tsai Ing-wen", "name_zh": "蔡英文", "heal": "slug"},

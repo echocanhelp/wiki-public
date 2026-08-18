@@ -330,6 +330,7 @@ prefer delete/dedupe/generate over new essays
 8. **Profile scripts are real files**, not symlinks to global.  
 9. **Generated status files are not hand SSOT.**  
 10. **One lesson → one place.**
+11. **Names:** title + slug = preferred English + 漢名 (`romanization-lexicon.json`). **Not** Hanyu Pinyin (`蔡`=Tsai). **POJ / Tâi-lô** only as a labeled Identity Snapshot field when a **named source** already has it — church/PCT/hymn history → POJ; MOE/台語教學 → Tâi-lô; one system per page; never mix; never into the slug; never mass-fill TAH stubs from a converter.
 
 ---
 
@@ -343,6 +344,7 @@ prefer delete/dedupe/generate over new essays
 | Mission | `echopedia/WHERE_WE_ARE.md` |
 | Live health | `echopedia/SYSTEM_STATUS.md` |
 | Autonomy | `echopedia/standards.json` |
+| Name spelling | `echopedia/romanization-lexicon.json` |
 | CDN last check | `echopedia/cdn-verify-status.json` |
 | Map skill | `echopedia-ops` |
 | Cron truth | `~/.hermes/profiles/pinto/cron/jobs.json` |
