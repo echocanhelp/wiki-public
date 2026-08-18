@@ -133,7 +133,7 @@ Times are **local wall clock** on pinto; SSOT: `jobs.json` / SYSTEM_STATUS inven
 
 1. Open **this file** + `echopedia/site-design-brief.md` only (plus named paths in the brief).  
 2. Fix **at most 5** content files OR 1 layout inject path per run.  
-3. **Forbidden without human:** editing Quartz theme SCSS/CSS design tokens, nav IA redesign, new homepage sections beyond featured markers, inventing bios.  
+3. **Forbidden without human:** editing Quartz theme SCSS/CSS design tokens, nav IA redesign, new homepage sections beyond featured markers, inventing bios, **hand-editing `content/people/index.md` or `content/organizations/index.md`** (SSOT = `scripts/echopedia-regen-directory-index.py` — no raw `<h3>` / no `[[people/…]]` lists).  
 4. Spelling: only fix clear English typos in `content/`; never “improve” Chinese names.  
 5. After edits: re-run  
    `python3 ~/.hermes/scripts/echopedia-site-design-audit.py`  
