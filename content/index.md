@@ -39,7 +39,7 @@ tags:
 
 <div class="echo-card">
   <h3><a href="./people/albert-s-lai">Dr. Albert S. Lai (賴信雄)</a></h3>
-  <p>Physician, community voice, and extensively documented TAHS oral-history subject.</p>
+  <p>Pastor and theologian; FPCLA co-founder; author of Toward A Community of Hope (1971 / 2025).</p>
 </div>
 
 <div class="echo-card">
@@ -64,7 +64,7 @@ tags:
 
 <div class="echo-card">
   <h3><a href="./people/yunching-yeh-davis">Dr. Yunching Yeh Davis (葉芸青)</a></h3>
-  <p>Community figure documented for diaspora leadership and public service.</p>
+  <p>NTPC 2025/26 主席 (西南區); wrote the NTPC foreword for the 2025 Lai republication.</p>
 </div>
 
 </div>
@@ -103,7 +103,7 @@ tags:
 
 Pages with a real body that were reviewed in the last two weeks. Thin TAH stubs are not listed here.
 
-<!-- featured-start -->
+<div id="echo-recent" class="echo-recent">
 <div class="echo-card-grid">
 <div class="echo-card">
   <h3><a href="./people/tyzen-hsiao">Tyzen Hsiao (蕭泰然)</a></h3>
@@ -118,7 +118,7 @@ Pages with a real body that were reviewed in the last two weeks. Thin TAH stubs 
   <p>GSTPC 好牧者 — Monterey Park. Not 牧谷, not 新北, not NTPC the US council.</p>
 </div>
 </div>
-<!-- featured-end -->
+</div>
 
 ## Explore by theme
 
