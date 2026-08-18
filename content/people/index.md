@@ -169,7 +169,7 @@ Person records in **Echopedia**. Names keep Chinese characters and romanized for
 - [[people/c-y-tsai|C. Y. Tsai (蔡嘉寅)]]
 - [[people/c-y-wang|C. Y. Wang (王振源)]]
 - [[people/cady-tsai|Cady Tsai (蔡暉玲)]]
-- [[people/cai-weiren|Rev. Cai Weiren (蔡維仁)]]
+- [[people/cai-weiren|Rev. Tsai Weiren (蔡維仁)]]
 - [[people/caleb-tsai|Caleb Tsai (蔡登燦)]]
 - [[people/cao-changqing|Cao Changqing / 曹長青]]
 - [[people/carol-cho|Carol Cho (林秋菊)]]

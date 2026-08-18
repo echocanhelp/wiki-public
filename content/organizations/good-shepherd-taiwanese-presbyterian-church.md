@@ -181,7 +181,8 @@ Good Shepherd is **not** a Presbyterian Church in Taiwan congregation. See [[org
 - [[people/george-leslie-mackay|George Leslie Mackay (馬偕)]]
 - [[people/james-laidlaw-maxwell|James Laidlaw Maxwell (馬雅各)]]
 - [[people/chen-meihui|Chen Meihui (陳美蕙)]]
-- [[people/cai-weiren|Rev. Cai Weiren (蔡維仁牧師)]]
+- [[people/cai-weiren|Rev. Tsai Weiren (蔡維仁)]]
+- [[people/rev-j-m-hsu|Rev. J. M. Hsu (許錦銘)]] — GSTPC40: one of seven PCT-trained pastors at the plant; not settled pastor
 - [[people/chen-bozhi|Rev. Chen Bozhi (陳柏志牧師)]]
 - [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]]
 - [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
