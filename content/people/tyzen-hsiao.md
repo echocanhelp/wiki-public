@@ -141,8 +141,8 @@ TAH employment (unparsed string): Tainan Univ. of Technology assoc. prof.; Wenza
 - [[people/kao-chun-ming]] — sermon that prompted that hymn
 - [[people/hsu-ching-chun]] — father’s circle, not Hsiao’s co-author
 - [[people/jer-shung-lin]] — TAH memorial essays / 《深情的浪漫》
-- [[people/amy-lin]] — TAH: same church pianist
-- [[people/apo-hsu]] — 2007 Formosa Dreaming / *Ilha Formosa* (EN)
+- [[people/amy-lin|Amy Lin (林惠美)]] — TAH: same church pianist (**congregation unnamed**)
+- [[people/apo-hsu|Apo Hsu (許瀞心)]] — 2007 Formosa Dreaming / *Ilha Formosa* (EN)
 - [[organizations/presbyterian-church-in-taiwan]] — family and 台南神學院 teaching, **not** “he was a PCT pastor”
 - [[organizations/good-shepherd-taiwanese-presbyterian-church]] — **GSTPC 好牧者, Monterey Park**. Linked only as a **disambiguation**: 2015 **牧谷 / Shepherds of the Valley (Hacienda Heights)** is a different congregation
 - 鄭兒玉 (John Jyigiokk) — PCT pastor / 台南神學院; 〈台灣翠青〉 lyric. **No person page yet** — do not invent a slug
