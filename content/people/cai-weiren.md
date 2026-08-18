@@ -49,17 +49,17 @@ Pages that link to **cai-weiren** (cai-weiren):
 
 ### People (2)
 
-1. [[people/index.md|index]]
-2. [[people/index.md|index]]
+1. [[people/index|index]]
+2. [[people/index|index]]
 
 ### Organizations (2)
 
-1. [[organizations/good-shepherd-taiwanese-presbyterian-church.md|good-shepherd-taiwanese-presbyterian-church]]
-2. [[organizations/index.md|index]]
+1. [[organizations/good-shepherd-taiwanese-presbyterian-church|good-shepherd-taiwanese-presbyterian-church]]
+2. [[organizations/index|index]]
 
 ### Sources (1)
 
-1. [[sources/irvine-taiwanese-presbyterian-church.md|irvine-taiwanese-presbyterian-church]]
+1. [[sources/irvine-taiwanese-presbyterian-church|irvine-taiwanese-presbyterian-church]]
 
 ## Sources
 1. GSTPC40「數算恩典邁步前行」([ebook](https://gstpc.org/home/gstpc40/ebook/))

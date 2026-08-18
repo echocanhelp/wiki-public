@@ -1,5 +1,5 @@
 ---
-title: "Irvine Taiwanese Presbyterian Church (爾灣台僑基督長老教會)"
+title: "Irvine Taiwanese Presbyterian Church (爾灣台灣基督長老教會 / ITPC)"
 type: source
 tags:
   - source
@@ -11,7 +11,7 @@ tags:
 verification_status: published
 last_reviewed: 2026-07-16
 ---
-# Irvine Taiwanese Presbyterian Church (爾灣台僑基督長老教會)
+# Irvine Taiwanese Presbyterian Church (爾灣台灣基督長老教會 / ITPC)
 
 Official website of the **[[organizations/irvine-taiwanese-presbyterian-church|Irvine Taiwanese Presbyterian Church (ITPC)]]**, a Taiwanese Presbyterian congregation in Orange County, California.
 

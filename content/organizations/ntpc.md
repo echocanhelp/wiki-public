@@ -26,5 +26,4 @@ This slug used to say “North Taiwan Presbyterian Church (NTPC)” and pointed 
 
 ## Related Pages
 - [[organizations/national-taiwanese-presbyterian-council|National Taiwanese Presbyterian Council]]
-- [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]]
-- [[people/ntpc|people/ntpc]] — redirect stub to the US council
+|- [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]]

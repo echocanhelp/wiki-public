@@ -1,5 +1,5 @@
 ---
-title: "Good Shepherd Taiwanese Presbyterian Church (牧靈台僑基督長老教會)"
+title: "Good Shepherd Taiwanese Presbyterian Church (好牧者臺灣基督長老教會)"
 type: source
 tags:
   - source
@@ -11,7 +11,7 @@ tags:
 verification_status: published
 last_reviewed: 2026-08-16
 ---
-# Good Shepherd Taiwanese Presbyterian Church (牧靈台僑基督長老教會)
+# Good Shepherd Taiwanese Presbyterian Church (好牧者臺灣基督長老教會)
 
 Official website of the **[[organizations/good-shepherd-taiwanese-presbyterian-church|Good Shepherd Taiwanese Presbyterian Church (GSTPC)]]**, a Taiwanese Presbyterian congregation in Los Angeles.
 

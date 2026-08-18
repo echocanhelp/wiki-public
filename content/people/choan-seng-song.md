@@ -47,11 +47,11 @@ Pages that link to **choan-seng-song** (choan-seng-song):
 
 ### People (1)
 
-1. [[people/index.md|index]]
+1. [[people/index|index]]
 
 ### Organizations (1)
 
-1. [[organizations/index.md|index]]
+1. [[organizations/index|index]]
 
 ## Source Notes and Confidence
 

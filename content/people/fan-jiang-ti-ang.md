@@ -23024,7 +23024,7 @@ Notable quotes and mentions of **范姜提昂** in Taiwan Justice articles:
 ## Source Notes
 
 - **Content priority A:** Article count (66) from Tier 2 title extraction
-- **Content priority B:** Column author listing from `knowledge/research/taiwanjustice-net-entities.md`
+- **Content priority B:** Column author listing from `knowledge/research/taiwanjustice-net-entities`
 - **Hub:** [[sources/taiwanjustice-net|taiwanjustice.net source hub]]
 - **Archive:** [Column articles](https://github.com/echocanhelp/wiki-public/tree/gh-pages/knowledge/web-archives/taiwanjustice-net/tier2/)
 

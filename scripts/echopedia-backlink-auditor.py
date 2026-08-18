@@ -177,8 +177,9 @@ def generate_network_section(slug, backlinks):
             for i, item in enumerate(items, 1):
                 path = item["path"]
                 title = item["title"]
-                # Create wikilink
-                lines.append(f"{i}. [[{path}|{title}]]")
+                # Create wikilink (strip .md extension — Quartz wiki-links don't use it)
+                clean_path = path.removesuffix('.md')
+                lines.append(f"{i}. [[{clean_path}|{title}]]")
 
     lines.append("")
     return "\n".join(lines)

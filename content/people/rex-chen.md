@@ -72,9 +72,9 @@ Pages that link to **陳乃光** (rex-chen):
 
 ### People (3)
 
-1. [[people/david-lee.md|david-lee]]
-2. [[people/index.md|index]]
-3. [[people/ken-wu.md|ken-wu]]
+1. [[people/david-lee|david-lee]]
+2. [[people/index|index]]
+3. [[people/ken-wu|ken-wu]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
