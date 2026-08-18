@@ -6,6 +6,18 @@
       <description>Last 10 notes on Echopedia</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>People</title>
+    <link>https://echocanhelp.github.io/wiki-public/people/</link>
+    <guid>https://echocanhelp.github.io/wiki-public/people/</guid>
+    <description><![CDATA[ Directory of Taiwanese American person records in Echopedia — clergy, elders, theologians, organizers, and community builders. ]]></description>
+    <pubDate>Tue, 18 Aug 2026 07:13:16 GMT</pubDate>
+  </item><item>
+    <title>Echopedia</title>
+    <link>https://echocanhelp.github.io/wiki-public/</link>
+    <guid>https://echocanhelp.github.io/wiki-public/</guid>
+    <description><![CDATA[ Public knowledge base of Taiwanese American people, churches, and organizations — stewarded by the Taiwanese American Historical Society (TAHS). ]]></description>
+    <pubDate>Tue, 18 Aug 2026 07:13:16 GMT</pubDate>
+  </item><item>
     <title>Tyzen Hsiao (蕭泰然)</title>
     <link>https://echocanhelp.github.io/wiki-public/people/tyzen-hsiao</link>
     <guid>https://echocanhelp.github.io/wiki-public/people/tyzen-hsiao</guid>
@@ -23,12 +35,6 @@
     <guid>https://echocanhelp.github.io/wiki-public/organizations/tyzen-hsiao-foundation</guid>
     <description><![CDATA[ Tyzen Hsiao Foundation (蕭泰然基金會) Identity Snapshot English: Tyzen Hsiao Foundation Chinese: 蕭泰然基金會 Era: Contemporary Geography: Taiwanese American community Core roles: Community organization (TAH directory) The Tyzen Hsiao Foundation is a nonprofit organization dedicated to promoting the music legac... ]]></description>
     <pubDate>Tue, 18 Aug 2026 03:33:43 GMT</pubDate>
-  </item><item>
-    <title>People</title>
-    <link>https://echocanhelp.github.io/wiki-public/people/</link>
-    <guid>https://echocanhelp.github.io/wiki-public/people/</guid>
-    <description><![CDATA[ Directory of Taiwanese American person records in Echopedia — clergy, elders, theologians, organizers, and community builders. ]]></description>
-    <pubDate>Tue, 18 Aug 2026 01:57:59 GMT</pubDate>
   </item><item>
     <title>Rev. J. M. Hsu (許錦銘)</title>
     <link>https://echocanhelp.github.io/wiki-public/people/rev-j-m-hsu</link>
@@ -58,12 +64,6 @@
     <link>https://echocanhelp.github.io/wiki-public/people/thomas-barclay</link>
     <guid>https://echocanhelp.github.io/wiki-public/people/thomas-barclay</guid>
     <description><![CDATA[ Thomas Barclay (巴克禮) Thomas Barclay (巴克禮, POJ: Pa-khek-lé, 21 November 1849 – 5 October 1935) was a Scottish missionary of the Presbyterian Church of England. ]]></description>
-    <pubDate>Mon, 17 Aug 2026 23:55:54 GMT</pubDate>
-  </item><item>
-    <title>Rev. Pinghsi Liu (劉炳熹)</title>
-    <link>https://echocanhelp.github.io/wiki-public/people/pinghsi-liu</link>
-    <guid>https://echocanhelp.github.io/wiki-public/people/pinghsi-liu</guid>
-    <description><![CDATA[ Rev. Pinghsi Liu (劉炳熹) Rev. Pinghsi Liu (劉炳熹) is a PCT pastor. From 14 September 2020 he was 第十任 pastor of 台南東門巴克禮紀念教會. ]]></description>
     <pubDate>Mon, 17 Aug 2026 23:55:54 GMT</pubDate>
   </item>
     </channel>

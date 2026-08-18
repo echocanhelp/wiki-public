@@ -39,9 +39,11 @@ Keep the site **usable on phone + desktop**, **structurally correct after every 
                ├─ site-design L1 heal   ← featured/parity BEFORE push
                ├─ smoke
                └─ L3 push when green    ← only nightly pusher
+08:15        echopedia-site-design      (audit-only AFTER push — no second push)
 07:20        digest                     (tagged dashboard)
 07:55        vault-morning-brief        (🔴 NEED YOU first)
 08:30        cron-self-audit
+Sun 07:05    echopedia-weekly-improvement  (pack + review gate — not a redesign cron)
 ```
 
 **Push policy:** Yes, push after heals — but **once**, from **ci-heal** only.  
@@ -90,6 +92,16 @@ Times are **local wall clock** on pinto; SSOT: `jobs.json` / SYSTEM_STATUS inven
 | D2 | No `width:` > 1200px fixed on inline styles in homepage sample | Flag |
 | D3 | Horizontal-overflow proxies: tables without wrapper class count (informational) | Flag |
 | D4 | Live smoke URLs 200 + bytes (reuse smoke-test) | Via heal calling smoke |
+
+### F. Featured inject / IA (HIGH)
+
+| ID | Check | Auto-heal? |
+|----|-------|------------|
+| F1 | Homepage must not use `./person/` or `./organization/` hrefs | Yes → featured-regen |
+| F2 | Featured markers stay in the Recently deepened section, not dumped before `</body>` | Yes → regen in-place only |
+| F3 | Featured cards must have non-empty `<p>` | Yes → quality recency / featured_summary |
+| F4 | `people/index.html` size (flag if >800KB) | No — IA backlog |
+| B2 | `featured: true` count > 12 | Flag HIGH (overflow hides recency) |
 
 ### E. Regression after worker edits (HIGH)
 

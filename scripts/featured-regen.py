@@ -1,30 +1,23 @@
 #!/usr/bin/env python3
-"""Regenerate Featured People/Orgs cards for the Echopedia homepage.
+"""Regenerate homepage 'Recently deepened' cards for Echopedia.
 
-Hybrid model:
-  1. Pinned: featured: true in frontmatter → always included (human-curated)
-  2. Recency: last_reviewed within recency_window days → auto-included
-
-Output: HTML cards injected between <!-- featured-start --> and <!-- featured-end -->
-markers in root/index.html.
+Curated Featured people/orgs stay in content/index.md.
+This script only fills <!-- featured-start --> … <!-- featured-end -->.
 
 Usage:
-  python3 scripts/featured-regen.py --root /home/leedt/echo-system
-  python3 scripts/featured-regen.py --root /home/leedt/echo-system --output /tmp/featured.html
   python3 scripts/featured-regen.py --root /home/leedt/echo-system --dry-run
+  python3 scripts/featured-regen.py --root /home/leedt/echo-system --inject
 """
 
 import argparse
-import json
 import re
 import sys
 from dataclasses import dataclass
-from datetime import datetime, timedelta
+from datetime import datetime
 from pathlib import Path
 
 
 def parse_frontmatter(content: str) -> dict:
-    """Extract YAML frontmatter as dict."""
     lines = content.split("\n")
     in_fm = False
     fm = {}
@@ -33,25 +26,28 @@ def parse_frontmatter(content: str) -> dict:
             if not in_fm:
                 in_fm = True
                 continue
-            else:
-                break
+            break
         if in_fm and ":" in line:
             key, _, value = line.partition(":")
             fm[key.strip()] = value.strip()
     return fm
 
 
-def extract_summary(content: str, fm: dict) -> str:
-    """Extract a summary string for the featured card.
+def _clean_summary(text: str) -> str:
+    text = re.sub(
+        r"\[\[([^\]|]+)(?:\|([^\]]+))?\]\]",
+        lambda m: m.group(2) or m.group(1).split("/")[-1],
+        text,
+    )
+    text = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", text)
+    text = re.sub(r"[*_`]+", "", text)
+    return " ".join(text.split())
 
-    Priority:
-    1. featured_summary frontmatter (if set)
-    2. First paragraph after frontmatter (up to ## heading)
-    3. Identity Snapshot first bullet
-    """
-    # 1. Check for explicit featured_summary
-    if fm.get("featured_summary"):
-        return fm["featured_summary"]
+
+def extract_summary(content: str, fm: dict) -> str:
+    raw = (fm.get("featured_summary") or "").strip().strip('"').strip("'")
+    if raw:
+        return _clean_summary(raw)[:220]
 
     lines = content.split("\n")
     in_fm = False
@@ -63,20 +59,19 @@ def extract_summary(content: str, fm: dict) -> str:
             else:
                 past_fm = True
             continue
-        if in_fm:
-            continue
         if not past_fm:
             continue
-        # Stop at second-level heading
         if line.startswith("## "):
             break
-        # Skip Identity Snapshot bullets
-        if line.strip().startswith("- **"):
-            continue
-        # Take first non-empty line
         stripped = line.strip()
-        if stripped and not stripped.startswith("- "):
-            return stripped[:250]
+        if not stripped or stripped.startswith(("# ", "- ", ">", "<!--")):
+            continue
+        if stripped.startswith("**") and stripped.endswith("**") and len(stripped) < 80:
+            continue
+        cleaned = _clean_summary(stripped)
+        if len(cleaned) < 40:
+            continue
+        return cleaned[:220]
     return ""
 
 
@@ -84,15 +79,15 @@ def extract_summary(content: str, fm: dict) -> str:
 class Page:
     slug: str
     title: str
-    page_type: str  # "person" or "organization"
+    page_type: str
     summary: str
     featured: bool
     last_reviewed: str
     path: str
+    body_chars: int = 0
 
 
 def scan_pages(root: Path) -> list:
-    """Scan content/people and content/organizations for all pages."""
     pages = []
     for folder in ("people", "organizations"):
         dir_path = root / "content" / folder
@@ -100,7 +95,6 @@ def scan_pages(root: Path) -> list:
             continue
         for md_file in dir_path.glob("*.md"):
             name = md_file.name
-            # Skip index files and non-content files
             if name in ("index.md",):
                 continue
             if name.endswith("-review.md"):
@@ -112,19 +106,59 @@ def scan_pages(root: Path) -> list:
             fm = parse_frontmatter(content)
 
             slug = md_file.stem
-            title = fm.get("title", slug)
-            page_type = fm.get("type", "person")
+            title = (fm.get("title") or slug).strip().strip('"').strip("'")
+            raw_type = (fm.get("type") or "").strip().strip('"').lower()
+            if folder == "organizations":
+                page_type = "organization"
+            elif raw_type in {"person", "organization"}:
+                page_type = raw_type
+            else:
+                page_type = "person"
             featured = fm.get("featured", "false").lower() == "true"
-            last_reviewed = fm.get("last_reviewed", "2000-01-01")
-
+            last_reviewed = (fm.get("last_reviewed") or "2000-01-01").strip().strip('"')
             summary = extract_summary(content, fm)
-
-            pages.append(Page(
-                slug=slug, title=title, page_type=page_type,
-                summary=summary, featured=featured,
-                last_reviewed=last_reviewed, path=name
-            ))
+            pages.append(
+                Page(
+                    slug=slug,
+                    title=title,
+                    page_type=page_type,
+                    summary=summary,
+                    featured=featured,
+                    last_reviewed=last_reviewed,
+                    path=name,
+                    body_chars=len(content),
+                )
+            )
     return pages
+
+
+def select_recent(
+    pages: list,
+    recency_window: int = 14,
+    max_people: int = 4,
+    max_orgs: int = 2,
+    min_body: int = 2500,
+    max_body: int = 40000,
+) -> list:
+    """Quality recency — ignore featured:true overflow, thin stubs, and dump pages."""
+    now = datetime.now()
+    people, orgs = [], []
+    for p in pages:
+        if p.body_chars < min_body or p.body_chars > max_body or not p.summary:
+            continue
+        if any(x in p.path for x in ("review", "audiobook", "consent", "scratch")):
+            continue
+        try:
+            review_date = datetime.strptime(p.last_reviewed, "%Y-%m-%d")
+        except ValueError:
+            continue
+        if (now - review_date).days > recency_window:
+            continue
+        (people if p.page_type == "person" else orgs).append(p)
+    # Prefer newest, then richer-but-not-dump pages
+    people.sort(key=lambda p: (p.last_reviewed, p.body_chars), reverse=True)
+    orgs.sort(key=lambda p: (p.last_reviewed, p.body_chars), reverse=True)
+    return people[:max_people] + orgs[:max_orgs]
 
 
 def select_featured(
@@ -133,85 +167,54 @@ def select_featured(
     max_people: int = 6,
     max_orgs: int = 3,
 ) -> list:
-    """Select which pages to feature.
-
-    Priority:
-    1. Pinned (featured: true) — always included
-    2. Recency — last_reviewed within window
-    3. Cap at max_people / max_orgs
-    """
     now = datetime.now()
-
     pinned_people = [p for p in pages if p.page_type == "person" and p.featured]
     pinned_orgs = [p for p in pages if p.page_type == "organization" and p.featured]
-
-    recency_people = []
-    recency_orgs = []
+    recency_people, recency_orgs = [], []
     for p in pages:
         if p.featured:
-            continue  # already pinned
+            continue
         try:
             review_date = datetime.strptime(p.last_reviewed, "%Y-%m-%d")
-            if (now - review_date).days <= recency_window:
-                if p.page_type == "person":
-                    recency_people.append(p)
-                else:
-                    recency_orgs.append(p)
         except ValueError:
-            pass
-
-    # Sort recency by last_reviewed descending (newest first)
+            continue
+        if (now - review_date).days <= recency_window:
+            (recency_people if p.page_type == "person" else recency_orgs).append(p)
     recency_people.sort(key=lambda p: p.last_reviewed, reverse=True)
     recency_orgs.sort(key=lambda p: p.last_reviewed, reverse=True)
-
-    # Cap
-    remaining_people = max_people - len(pinned_people)
-    remaining_orgs = max_orgs - len(pinned_orgs)
-    if remaining_people < 0:
-        remaining_people = 0
-    if remaining_orgs < 0:
-        remaining_orgs = 0
-
+    remaining_people = max(0, max_people - len(pinned_people))
+    remaining_orgs = max(0, max_orgs - len(pinned_orgs))
     final_people = pinned_people[:max_people] + recency_people[:remaining_people]
     final_orgs = pinned_orgs[:max_orgs] + recency_orgs[:remaining_orgs]
-
-    # Deduplicate by slug
-    seen = set()
-    result = []
+    seen, result = set(), []
     for p in final_people + final_orgs:
         if p.slug not in seen:
             seen.add(p.slug)
             result.append(p)
-
     return result
 
 
 def generate_html(pages: list) -> str:
-    """Generate HTML cards for the selected pages."""
     if not pages:
         return ""
-
+    folder_for = {"person": "people", "organization": "organizations"}
     html = '<div class="echo-card-grid">\n'
     for p in pages:
-        folder = p.page_type
+        folder = folder_for.get(p.page_type, "people")
+        summary = p.summary or "Recently updated Echopedia page."
         html += (
             f'<div class="echo-card">\n'
-            f'  <h3 id="{p.slug}">'
-            f'<a href="./{folder}/{p.slug}" class="internal alias" '
-            f'data-slug="{folder}/{p.slug}">{p.title}</a></h3>\n'
-            f'  <p>{p.summary}</p>\n'
-            f'</div>\n'
+            f'  <h3 id="recent-{p.slug}">'
+            f'<a href="./{folder}/{p.slug}">{p.title}</a></h3>\n'
+            f"  <p>{summary}</p>\n"
+            f"</div>\n"
         )
     html += "</div>\n"
     return html
 
 
 def inject_into_index(html_cards: str, index_path: Path) -> bool:
-    """Inject featured cards between markers in index.html.
-
-    Returns True if markers were found and replaced.
-    Collapses duplicate marker pairs. If markers don't exist, appends before </body>.
-    """
+    """Replace the first marker pair in place. Never dump before </body>."""
     if not index_path.exists():
         print(f"WARNING: {index_path} not found, skipping injection", file=sys.stderr)
         return False
@@ -219,95 +222,95 @@ def inject_into_index(html_cards: str, index_path: Path) -> bool:
     content = index_path.read_text()
     start_marker = "<!-- featured-start -->"
     end_marker = "<!-- featured-end -->"
-
-    # Collapse any prior duplicate featured blocks to a single clean pair
-    if start_marker in content:
-        import re as _re
-        content = _re.sub(
-            _re.escape(start_marker) + r".*?" + _re.escape(end_marker),
-            "",
-            content,
-            flags=_re.DOTALL,
+    if start_marker not in content or end_marker not in content:
+        print(
+            f"WARNING: no featured markers in {index_path}; skip (will not dump before </body>)",
+            file=sys.stderr,
         )
+        return False
 
-    block = start_marker + "\n" + html_cards + "\n" + end_marker + "\n"
-
-    low = content.lower()
-    if "</body>" in low:
-        insert_point = low.rindex("</body>")
-        new_content = content[:insert_point] + "\n" + block + content[insert_point:]
-        index_path.write_text(new_content)
-        print(f"Injected featured cards into {index_path} (before </body>, deduped)")
-        return True
-
-    # Fallback: append
-    index_path.write_text(content.rstrip() + "\n" + block)
-    print(f"Appended featured cards to {index_path}")
+    start = content.find(start_marker)
+    end = content.find(end_marker, start)
+    if start < 0 or end < 0:
+        print(f"WARNING: marker order broken in {index_path}", file=sys.stderr)
+        return False
+    block = start_marker + "\n" + html_cards + "\n" + end_marker
+    tail = content[end + len(end_marker) :]
+    tail = re.sub(
+        re.escape(start_marker) + r".*?" + re.escape(end_marker),
+        "",
+        tail,
+        flags=re.DOTALL,
+    )
+    index_path.write_text(content[:start] + block + tail)
+    print(f"Injected featured cards into {index_path} (in-place markers)")
     return True
 
 
 def main():
-    parser = argparse.ArgumentParser(
-        description="Regenerate Featured pages HTML for Echopedia homepage"
-    )
+    parser = argparse.ArgumentParser(description="Regenerate homepage recent cards")
+    parser.add_argument("--root", default="/home/leedt/echo-system")
+    parser.add_argument("--recency-window", type=int, default=14)
+    parser.add_argument("--max-people", type=int, default=4)
+    parser.add_argument("--max-orgs", type=int, default=2)
+    parser.add_argument("--min-body", type=int, default=2500)
+    parser.add_argument("--max-body", type=int, default=40000)
+    parser.add_argument("--output", default=None)
+    parser.add_argument("--inject", action="store_true")
+    parser.add_argument("--dry-run", action="store_true")
     parser.add_argument(
-        "--root", default="/home/leedt/echo-system", help="Vault root directory"
-    )
-    parser.add_argument(
-        "--recency-window", type=int, default=30, help="Days for recency window"
-    )
-    parser.add_argument(
-        "--max-people", type=int, default=6, help="Max people to feature"
-    )
-    parser.add_argument(
-        "--max-orgs", type=int, default=3, help="Max orgs to feature"
-    )
-    parser.add_argument(
-        "--output", default=None, help="Output HTML file (stdout if omitted)"
-    )
-    parser.add_argument(
-        "--inject", action="store_true", help="Inject into index.html (default: false)"
-    )
-    parser.add_argument(
-        "--dry-run", action="store_true", help="Show selected pages without generating HTML"
+        "--mode",
+        choices=("recent", "pinned"),
+        default="recent",
+        help="recent = quality recency strip (default). pinned = old 6+3 hybrid.",
     )
     args = parser.parse_args()
 
     root = Path(args.root)
-
-    # Scan all pages
     pages = scan_pages(root)
-    print(f"Scanned {len(pages)} pages ({sum(1 for p in pages if p.page_type == 'person')} people, {sum(1 for p in pages if p.page_type == 'organization')} orgs)")
-
-    # Select featured
-    selected = select_featured(
-        pages,
-        recency_window=args.recency_window,
-        max_people=args.max_people,
-        max_orgs=args.max_orgs,
+    print(
+        f"Scanned {len(pages)} pages "
+        f"({sum(1 for p in pages if p.page_type == 'person')} people, "
+        f"{sum(1 for p in pages if p.page_type == 'organization')} orgs)"
     )
 
+    if args.mode == "recent":
+        selected = select_recent(
+            pages,
+            recency_window=args.recency_window,
+            max_people=args.max_people,
+            max_orgs=args.max_orgs,
+            min_body=args.min_body,
+            max_body=args.max_body,
+        )
+    else:
+        selected = select_featured(
+            pages,
+            recency_window=args.recency_window,
+            max_people=args.max_people,
+            max_orgs=args.max_orgs,
+        )
+
     if args.dry_run:
-        print(f"\n=== SELECTED ({len(selected)} pages) ===")
+        print(f"\n=== SELECTED ({len(selected)} pages, mode={args.mode}) ===")
         for p in selected:
-            pin = "PINNED" if p.featured else "RECENCY"
-            print(f"  [{pin}] {p.title} ({p.slug}) — last_reviewed: {p.last_reviewed}")
-        print(f"\nPinned: {sum(1 for p in selected if p.featured)}, Recency: {sum(1 for p in selected if not p.featured)}")
+            tag = "PINNED" if p.featured else "RECENT"
+            print(
+                f"  [{tag}] {p.title} ({p.slug}) "
+                f"reviewed={p.last_reviewed} chars={p.body_chars}"
+            )
         return
 
-    # Generate HTML
     html_cards = generate_html(selected)
-
     if args.output:
         Path(args.output).write_text(html_cards)
         print(f"Wrote {len(html_cards)} chars to {args.output}")
-    else:
+    elif not args.inject:
         print(html_cards)
 
-    # Inject into homepage HTML (root + public tree — Quartz output lives in public/)
     if args.inject:
         targets = []
-        for cand in (root / "index.html", root / "public" / "index.html", root / "root" / "index.html"):
+        for cand in (root / "index.html", root / "public" / "index.html"):
             if cand.exists() and cand not in targets:
                 targets.append(cand)
         if not targets:
@@ -317,5 +320,4 @@ def main():
 
 
 if __name__ == "__main__":
-    from dataclasses import dataclass
     main()
