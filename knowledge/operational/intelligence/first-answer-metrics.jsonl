@@ -66,3 +66,7 @@
 {"ts": "2026-08-18T08:30:48Z", "status": "miss", "query": "白話字", "slug": null, "source": "telegram", "kind": null}
 {"ts": "2026-08-18T08:32:19Z", "status": "miss", "query": "Tâi-lô", "slug": null, "source": "telegram", "kind": null}
 {"ts": "2026-08-18T08:32:20Z", "status": "miss", "query": "台羅", "slug": null, "source": "telegram", "kind": null}
+{"ts": "2026-08-18T21:56:14Z", "status": "miss", "query": "Stone Chen", "slug": null, "source": "telegram", "kind": null}
+{"ts": "2026-08-18T21:56:14Z", "status": "hit", "query": "陳文石", "slug": "chen-wenshi", "source": "telegram", "kind": "person"}
+{"ts": "2026-08-18T21:56:15Z", "status": "hit", "query": "chen-wenshi", "slug": "chen-wenshi", "source": "telegram", "kind": "person"}
+{"ts": "2026-08-18T21:57:46Z", "status": "hit", "query": "Stone Chen", "slug": "chen-wenshi", "source": "telegram", "kind": "person"}
