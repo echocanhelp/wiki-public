@@ -101,6 +101,7 @@ Times are **local wall clock** on pinto; SSOT: `jobs.json` / SYSTEM_STATUS inven
 | F2 | Featured markers stay in the Recently deepened section, not dumped before `</body>` | Yes → regen in-place only |
 | F3 | Featured cards must have non-empty `<p>` | Yes → quality recency / featured_summary |
 | F4 | `people/index.html` size (flag if >800KB) | No — IA backlog |
+| F5 | `people/index.html` / `organizations/index.html` must not contain leftover `[[wikilink]]` text; directory rows are `[Title](./slug)` from `scripts/echopedia-regen-directory-index.py` (never raw `<h3>` — CommonMark swallows the list) | Yes → regen script before Quartz |
 | B2 | `featured: true` count > 12 | Flag HIGH (overflow hides recency) |
 
 ### E. Regression after worker edits (HIGH)
@@ -116,9 +117,10 @@ Times are **local wall clock** on pinto; SSOT: `jobs.json` / SYSTEM_STATUS inven
 ## Allowed programmable heals (L1)
 
 1. `python3 $REPO/scripts/featured-regen.py --root $REPO --inject …` **and** ensure inject targets include **`public/index.html`** and root `index.html` when present  
-2. `bash ~/.hermes/scripts/echopedia-publish.sh` when parity/drift requires rebuild  
-3. Re-run audit after heal; write brief  
-4. **Never:** rewrite prose bios, change Quartz theme tokens freely, delete pages, force-push  
+2. `python3 $REPO/scripts/echopedia-regen-directory-index.py` then `bash ~/.hermes/scripts/echopedia-publish.sh` when `/people/` or `/organizations/` show literal `[[…]]` or `%e5` labels  
+3. `bash ~/.hermes/scripts/echopedia-publish.sh` when parity/drift requires rebuild  
+4. Re-run audit after heal; write brief  
+5. **Never:** rewrite prose bios, change Quartz theme tokens freely, delete pages, force-push  
 
 ---
 

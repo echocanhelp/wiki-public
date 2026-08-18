@@ -4,454 +4,504 @@ type: index
 tags:
   - organizations
   - index
-description: Directory of Taiwanese American organizations, churches, and institutions documented in Echopedia.
-last_reviewed: 2026-07-13
+last_reviewed: 2026-08-18
 ---
 
 # Organizations
 
 Organization records in **Echopedia** — churches, cultural centers, historical societies, and related institutions.
 
+On a phone, **use header search** (漢名 or English). This page is an A–Z list.
+
 ## Directory
 
-- [[organizations/tah-org-d422648fd1|%E5%8C%97%E7%Be%8E%E6%B4%B2%E8%87%Ba%E7%81%A3%E6%96%87%E5%Ad%B8%E7%A0%94%E7%A9%B6%E6%9C%83 (北美洲臺灣文學研究會)]]
-- [[organizations/tah-org-6c8cccca6f|%E5%A4%A7%E5%A0%Aa%E8%96%A9%E6%96%Af%E9%87%9D%E7%81%B8%E5%8F%8A%E6%9D%B1%E6%96%B9%E9%86%Ab%E5%Ad%B8%E5%Ad%B8%E6%9C%83 (大堪薩斯針灸及東方醫學學會)]]
-- [[organizations/tah-org-65f548288a|%E5%A4%A7%E7%B4%90%E7%B4%84%E5%8D%80%E5%8F%B0%E7%81%A3%E4%Ba%Ba%E5%9F%Ba%E7%9D%A3%E5%Be%92%E9%95%B7%E8%Bc%A9%E6%9C%83 (大紐約區台灣人基督徒長輩會)]]
-- [[organizations/acevedo-music-and-art-education-foundation-inc|Acevedo Music & Art Education Foundation Inc]]
-- [[organizations/aj-wang-foundation-scholarship-fund|AJ WANG FOUNDATION – SCHOLARSHIP FUND]]
-- [[organizations/alumni-association-of-chia-yi-high-school-worldwide|Alumni Association of Chia Yi High School Worldwide (AACHW)]]
-- [[organizations/american-citizens-for-taiwan|American Citizens for Taiwan (西雅圖美台會)]]
-- [[organizations/american-citizens-of-taiwan-origin-acto|American Citizens of Taiwan Origin ACTO (美台公民協會)]]
-- [[organizations/ann-arbor-taiwanese-association|Ann Arbor Taiwanese Association (安雅堡)]]
-- [[organizations/arizona-taiwanese-student-association|Arizona Taiwanese Student Association]]
-- [[organizations/asia-democracy-foundation|Asia Democracy Foundation (民主亞洲基金會)]]
-- [[organizations/asian-american-social-welfaer-foundation|Asian American Social Welfaer Foundation]]
-- [[organizations/asian-senior-concerns-foundation|Asian Senior Concerns Foundation (亞裔銀髮族關懷基金會)]]
-- [[organizations/association-of-taiwanese-students-at-mit|Association of Taiwanese Students at MIT]]
-- [[organizations/asu-taiwanese-international-student-association|ASU Taiwanese International Student Association]]
-- [[organizations/austin-taiwanese-association|Austin Taiwanese Association (奧斯丁)]]
-- [[organizations/bald-eagle-society|Bald Eagle Society (白首老鷹社)]]
-- [[organizations/bliss-wisdom-foundation-of-north-america|Bliss & Wisdom Foundation of North America (北美福智基金會)]]
-- [[organizations/boston-taiwanese-biotechnology-association|Boston Taiwanese Biotechnology Association (波士頓台灣人生物科技協會)]]
-- [[organizations/boston-university-taiwanese-student-association|Boston University Taiwanese Student Association]]
-- [[organizations/brooklyn-artists-studio|Brooklyn Artists Studio (布魯克林藝站)]]
-- [[organizations/brown-risd-taiwanese-graduate-student-association|Brown/RISD Taiwanese Graduate Student Association]]
-- [[organizations/brown-taiwan-society|Brown Taiwan Society]]
-- [[organizations/career-taiwan-usa-association|Career Taiwan USA Association]]
-- [[organizations/center-for-taiwan-international-relations-ctir|Center for Taiwan International Relations, CTIR (台灣國際關係中心)]]
-- [[organizations/chang-jung-girls-high-school-alumni-association-southern-california|Chang Jung Girls’ High School Alumni Association Southern California]]
-- [[organizations/chhong-bi-memorial-fund|Chhong-bi Memorial Fund (聰美姐紀念基會)]]
-- [[organizations/chicago-taiwanese-architecture-institute-ctai|Chicago Taiwanese Architecture Institute, CTAI (芝加哥台灣建築學會)]]
-- [[organizations/chicago-taiwanese-cuisine-and-culture-association|Chicago Taiwanese Cuisine and Culture Association (芝加哥台灣美食文化交流協會)]]
-- [[organizations/chinese-and-taiwanese-student-association|Chinese and Taiwanese Student Association]]
-- [[organizations/chinese-christian-church-of-new-jersey|Chinese Christian Church of New Jersey (新澤西主恩堂台語堂)]]
-- [[organizations/chunglun-presbyterian-church|Chunglun Presbyterian Church (中崙教會)]]
-- [[organizations/ching-ying-cultural-and-educational-foundation|Ching Ying Cultural and Educational Foundation]]
-- [[organizations/clear-lake-taiwanese-association|Clear Lake Taiwanese Association (明湖台灣同鄉會)]]
-- [[organizations/coalition-of-taiwan-independences|Coalition of Taiwan Independence’s (台灣建國聯合陣線)]]
-- [[organizations/columbia-university-taiwanese-american-students-association|Columbia University Taiwanese American Students Association]]
-- [[organizations/columbia-university-taiwanese-graduate-student-association|Columbia University Taiwanese Graduate Student Association]]
-- [[organizations/columbia-university-taiwanese-student-association|Columbia University Taiwanese Student Association]]
-- [[organizations/columbus-taiwanese-association-of-america|Columbus Taiwanese Association of America (哥倫布)]]
-- [[organizations/cord-blood-bank|Cord Blood Bank]]
-- [[organizations/cornell-taiwanese-american-society|Cornell Taiwanese American Society]]
-- [[organizations/cornell-taiwanese-student-association|Cornell Taiwanese Student Association]]
-- [[organizations/cwru-taiwanese-student-association|CWRU Taiwanese Student Association]]
-- [[organizations/dartmouth-taiwanese-student-association|Dartmouth Taiwanese Student Association]]
-- [[organizations/democratic-progressive-party|Democratic Progressive Party (民主進步黨)]]
-- [[organizations/dfw-taiwanese-american-heritage-foundation|DFW Taiwanese American Heritage Foundation (達福台美人傳統文化基金會)]]
-- [[organizations/distinguished-citizens-society-international-southern-california|Distinguished Citizens Society International-Southern California]]
-- [[organizations/distinguished-citizens-society-international-usa|Distinguished Citizens Society International USA]]
-- [[organizations/distinguished-citizens-society-international-world-headquarters|Distinguished Citizens Society International World Headquarters]]
-- [[organizations/duke-taiwanese-student-association|Duke Taiwanese Student Association]]
-- [[organizations/east-bay-taiwanese-americans-community-service-center-ebtacsc|East Bay Taiwanese Americans Community Service Center EBTACSC (東灣台美人社區服務中心)]]
-- [[organizations/east-bay-taiwanese-association|East Bay Taiwanese Association (北加州)]]
-- [[organizations/emory-tsa|Emory TSA]]
-- [[organizations/evangelical-formosan-church-of-norcal|Evangelical Formosan Church of NorCal (北加州台福基督教會)]]
-- [[organizations/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca|Evergreen Class by Irvine Taiwanese Presbyterian Church ，Laguna Hills, CA (長青教室)]]
-- [[organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu|Evergreen Senior University by Evangelical Formosa Church of Irvine ESU (愛恩台福基督教會長春大學)]]
-- [[organizations/family-keepers-international-2015-05|Family Keepers International /2015/05 (國際真愛家庭協會)]]
-- [[organizations/fapa-los-angeles|Formosan Association for Public Affairs Los Angeles(FAPA-LA)]]
-- [[organizations/fapa-orange-county|Formosan Association for Public Affairs Orange County (FAPA- OC)]]
-- [[organizations/formosa-foundation|Formosa Foundation]]
-- [[organizations/formosa-senior-association|Formosa Senior Association]]
-- [[organizations/formosan-association-for-g-m-t-culture|FORMOSAN ASSOCIATION FOR G.M.T. CULTURE (台灣人牛罵頭文史拹會)]]
-- [[organizations/formosan-association-for-human-rights|Formosan Association for Human Rights]]
-- [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
-- [[organizations/formosan-society-for-performing-arts-inc-fospa|Formosan Society for Performing Arts Inc. FOSPA (福爾摩沙表演藝術協會)]]
-- [[organizations/formosar-chriotion-for-self-determination|Formosar Chriotion for Self Determination (臺灣人民自決運動)]]
-- [[organizations/fri-philo|Fri. Philo (哲學星期五)]]
-- [[organizations/friends-of-taiwan|Friends of Taiwan]]
-- [[organizations/friends-of-taiwan-greater-st-louis|Friends of Taiwan-Greater St. Louis (聖路易台灣之友會)]]
-- [[organizations/georgetown-taiwanese-american-student-association|Georgetown Taiwanese American Student Association]]
-- [[organizations/georgetown-taiwanese-student-association|Georgetown Taiwanese Student Association]]
-- [[organizations/global-alliance-for-democracy-and-peace|Global Alliance for Democracy and Peace (GADP)]]
-- [[organizations/global-alliance-for-democracy-and-peace-la|Global Alliance for Democracy and Peace (GADP)-LA]]
-- [[organizations/global-education-fund|Global Education Fund (美國環球教育基金會)]]
-- [[organizations/global-hakka-un-ngo-applying-committee-un-ngo|Global HAKKA UN NGO Applying Committee UN NGO (世界客家社團加入)]]
-- [[organizations/global-taiwan-institute|Global Taiwan Institute (全球台灣研究中心)]]
-- [[organizations/golden-eagle-institute|Golden Eagle Institute (金鷹學院)]]
-- [[organizations/good-shepherd-taiwanese-presbyterian-church|Good Shepherd Taiwanese Presbyterian Church (好牧者臺灣基督長老教會)]]
-- [[organizations/greater-los-angeles-hotel-motel-association|Greater Los Angeles Hotel/Motel Association]]
-- [[organizations/greater-sacramento-taiwanese-association-gsta|Greater Sacramento Taiwanese Association GSTA (大沙加偭度台灣同鄉會)]]
-- [[organizations/greater-washington-taiwan-culture-center|Greater Washington Taiwan Culture Center (華府台灣文化中心)]]
-- [[organizations/hakka-foundation|Hakka Foundation (客家基金會)]]
-- [[organizations/happy-dancers-club|Happy Dancers Club]]
-- [[organizations/harvard-griffin-gsas-taiwan-student-association|Harvard Griffin GSAS Taiwan Student Association]]
-- [[organizations/harvard-gsas-taiwanese-roc-student-club|Harvard GSAS Taiwanese ROC Student Club]]
-- [[organizations/harvard-taiwanese-cultural-society|Harvard Taiwanese Cultural Society]]
-- [[organizations/houston-formosan-evergreen-association|Houston Formosan Evergreen Association (休士頓台灣長春會)]]
-- [[organizations/houston-taiwan-institute-for-senior-citizens|Houston Taiwan Institute for Senior Citizens (休士頓台灣松年學院)]]
-- [[organizations/houston-taiwanese-golden-club|Houston Taiwanese Golden Club 樂部 (休士頓台灣清閒俱)]]
-- [[organizations/hsinchu-high-school-alumni-association-of-north-america|Hsinchu High School Alumni Association of North America (北美新竹中學校友會)]]
-- [[organizations/hsu-ling-yun-xiucai-memorial-hall|Hsu Ling-yun Xiucai Memorial Hall (許凌雲秀才紀念館)]]
-- [[organizations/hsu-shih-memorial-foundation|Hsu Shih Memorial Foundation]]
-- [[organizations/huntsville-taiwanese-american-association|Huntsville Taiwanese American Association (亨城)]]
-- [[organizations/ikenobo-ikebana-la-chapter|Ikenobo Ikebana LA Chapter]]
-- [[organizations/institute-for-taiwanese-studies|Institute for Taiwanese Studies]]
-- [[organizations/irvine-taiwanese-presbyterian-church|Irvine Taiwanese Presbyterian Church (IRVINE台灣基督長老教會)]]
-- [[organizations/jhb-foundation|JHB Foundation]]
-- [[organizations/johns-hopkins-university-taiwanese-student-association|Johns Hopkins University Taiwanese Student Association]]
-- [[organizations/joint-alumni-association-of-taiwan-teachers-college-and-normal-univers|Joint Alumni Association of Taiwan Teachers College and Normal University(JTTAA)]]
-- [[organizations/joint-chinese-university-alumni-association-of-southern-california|Joint Chinese University Alumni Association of Southern California]]
-- [[organizations/kaohsiung-high-school-alumni-association|Kaohsiung High School Alumni Association (KHSAA)]]
-- [[organizations/kaohsiung-hotel-association|Kaohsiung Hotel Association]]
-- [[organizations/l-a-study-group|L.A. Study Group (大洛杉磯台灣讀書會)]]
-- [[organizations/laguna-woods-village-taiwanese-club|Laguna Woods Village Taiwanese Club (南加州)]]
-- [[organizations/lapc-music-foundation|LAPC Music Foundation (洛杉磯樂音音樂基金會)]]
-- [[organizations/liu-kwee-family-association-usa|Liu Kwee Family Association USA]]
-- [[organizations/living-well-club-of-new-jersey|Living Well Club of New Jersey (紐澤西州)]]
-- [[organizations/lkgt|LKGT 「」 (老康健)]]
-- [[organizations/los-angeles-life-forum|Los Angeles Life Forum]]
-- [[organizations/manhattan-ks-chapter-taa|Manhattan, KS Chapter / TAA (全美台灣同鄉會曼哈頓分會)]]
-- [[organizations/michigan-taiwanese-student-association|Michigan Taiwanese Student Association]]
-- [[organizations/mid-hudson-taiwanese-association|Mid-Hudson Taiwanese Association (哈德遜中區臺灣同鄉會)]]
-- [[organizations/miss-taiwanese-american-foundation|Miss Taiwanese American Foundation (台美小姐選拔基金會)]]
-- [[organizations/miss-taiwanese-american-pageant|Miss Taiwanese American Pageant Foundation]]
-- [[organizations/mit-republic-of-china-taiwan-student-association|MIT Republic of China Taiwan Student Association]]
-- [[organizations/modern-taiwanese-language-association|Modern Taiwanese Language Association (台語現代文協會)]]
-- [[organizations/mountain-view-taiwanese-golf-association|Mountain View Taiwanese Golf Association]]
-- [[organizations/natea-southern-california|North America Taiwanese Engineering & Science Association(NATEA)]]
-- [[organizations/national-taipei-university-of-technology-alumni-association|National Taipei University of Technology Alumni Association]]
-- [[organizations/national-taiwanese-presbyterian-council|National Taiwanese Presbyterian Council (NTPC)]]
-- [[organizations/natma-southern-california|North American Taiwanese Medical Association - Southern California Chapter（NATMA-SCC）]]
-- [[organizations/natwa-southern-california|North America Taiwanese Women's Assoc. Southern CA Chapter NATWA-SC]]
-- [[organizations/neo-art-league|Neo Art League (加州新藝畫會)]]
-- [[organizations/new-orleans-taiwanese-association|New Orleans Taiwanese Association (紐奧良)]]
-- [[organizations/new-world-art-center|NEW WORLD ART CENTER – (紐約市陳錦芳文化館)]]
-- [[organizations/new-york-taiwan-center|New York Taiwan Center (紐約台灣會館)]]
-- [[organizations/north-america-chang-hua-association|North America Chang Hua Association]]
-- [[organizations/north-america-pastel-artist-association|North America Pastel Artist Association (北美粉彩畫家協會)]]
-- [[organizations/north-america-taiwanese-medical-association-southern-california-chapte|North America Taiwanese Medical Association — Southern California chapter (as listed; verify EN name)]]
-- [[organizations/north-america-taiwanese-professors-sc|North America Taiwanese Professors' Association Southern California]]
-- [[organizations/north-america-taiwanese-womens-association|North America Taiwanese Women’s Association (北美洲臺灣婦女會)]]
-- [[organizations/north-america-taiwanese-womens-association-arizona-chapter|North America Taiwanese Women’s Association – Arizona Chapter (北美洲台灣婦女會亞利桑那分會)]]
-- [[organizations/north-america-taiwanese-womens-association-boston-chapter|North America Taiwanese Women’s Association – Boston Chapter (北美洲台灣婦女會波士頓分會)]]
-- [[organizations/north-america-taiwanese-womens-association-detroit-chapter|North America Taiwanese Women’s Association – Detroit Chapter (北美洲台灣婦女會底特律分會)]]
-- [[organizations/north-america-taiwanese-womens-association-greater-san-diego-chapter|North America Taiwanese Women’s Association – Greater San Diego Chapter (北美洲台灣婦女會聖地牙哥分會)]]
-- [[organizations/north-america-taiwanese-womens-association-hawaii-chapter|North America Taiwanese Women’s Association – Hawaii Chapter (北美洲台灣婦女會夏威夷分會)]]
-- [[organizations/north-america-taiwanese-womens-association-kansas-chapter|North America Taiwanese Women’s Association – Kansas Chapter (北美洲台灣婦女會堪薩斯分會)]]
-- [[organizations/north-america-taiwanese-womens-association-new-jersey-chapter|North America Taiwanese Women’s Association – New Jersey Chapter (北美洲台灣婦女會紐澤西分會)]]
-- [[organizations/north-america-taiwanese-womens-association-new-york-chapter|North America Taiwanese Women’s Association – New York Chapter (北美洲台灣婦女會紐約分會)]]
-- [[organizations/north-america-taiwanese-womens-association-northern-california-chapter|North America Taiwanese Women’s Association – Northern California Chapter (北美洲台灣婦女會北加分會)]]
-- [[organizations/north-america-taiwanese-womens-association-ohio-kentucky-chapter|North America Taiwanese Women’s Association – Ohio/Kentucky Chapter (北美洲台灣婦女會俄亥俄)]]
-- [[organizations/north-america-taiwanese-womens-association-oregon-southwest-washington-chapter|North America Taiwanese Women’s Association – Oregon/Southwest Washington Chapter (北美洲台灣婦女會俄勒岡)]]
-- [[organizations/north-america-taiwanese-womens-association-southern-california-chapter|North America Taiwanese Women’s Association – Southern California Chapter (北美洲台灣婦女會南加分會)]]
-- [[organizations/north-america-taiwanese-womens-association-st-louis-chapter|North America Taiwanese Women’s Association – St. Louis Chapter (北美洲台灣婦女會聖路易分會)]]
-- [[organizations/north-america-taiwanese-womens-association-wisconsin-illinois-chapter|North America Taiwanese Women’s Association – Wisconsin/Illinois Chapter (北美洲台灣婦女會威斯康辛)]]
-- [[organizations/north-american-taiwan-association-of-social-workers|North American Taiwan Association of Social Workers]]
-- [[organizations/north-american-taiwan-studies-associationnatsa|North American Taiwan Studies Association NATSA (北美臺灣研究學會)]]
-- [[organizations/north-american-taiwanese-medical-association-foundation|NORTH AMERICAN TAIWANESE MEDICAL ASSOCIATION Foundation (北美洲台灣人醫師協會基金會)]]
-- [[organizations/north-shore-club|North Shore Club (北濱會)]]
-- [[organizations/northern-california-taiwanese-medical-association-nctma|Northern California Taiwanese Medical Association NCTMA (北加州台灣醫師會)]]
-- [[organizations/ntpc|NTPC (disambiguation) — not North Taiwan, not New Taipei]]
-- [[organizations/ny-taiwanese-golf-club-nytgc|NY Taiwanese Golf Club NYTGC (紐約台灣人高爾夫球俱樂部)]]
-- [[organizations/nys-orange-county-taiwanese-association|NYS Orange County Taiwanese Association (紐約橙縣台灣同鄉會)]]
-- [[organizations/nyu-taiwanese-american-student-society|NYU Taiwanese American Student Society]]
-- [[organizations/orange-county-taiwanese-association|Orange County Taiwanese Association]]
-- [[organizations/organization-for-the-support-of-democratic-movement-of-taiwan|Organization For The Support of Democratic Movement of Taiwan (台灣民主運動支援會)]]
-- [[organizations/overseas-community-affairs-council|Overseas Community Affairs Council (僑務委員會)]]
-- [[organizations/overseas-taiwanese-for-democracy|Overseas Taiwanese for Democracy (海外台灣青年陣線)]]
-- [[organizations/oxford-taiwanese-american-student-association|Oxford Taiwanese American Student Association]]
-- [[organizations/paramitas-foundation|Paramitas Foundation]]
-- [[organizations/penn-taiwanese-society|Penn Taiwanese Society]]
-- [[organizations/penn-taiwanese-student-association|Penn Taiwanese Student Association]]
-- [[organizations/pine-green-institutes|Pine Green Institutes (松青學院)]]
-- [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan (PCT)]]
-- [[organizations/princeton-association-of-taiwanese-students|Princeton Association of Taiwanese Students]]
-- [[organizations/princeton-taiwanese-american-students-association|Princeton Taiwanese American Students Association]]
-- [[organizations/professor-chen-wen-chen-memorial-foundation|Professor Chen Wen-Chen Memorial Foundation (陳文成教授紀念基金會)]]
-- [[organizations/rice-taiwanese-association|Rice Taiwanese Association]]
-- [[organizations/rice-taiwanese-graduate-student-association|Rice Taiwanese Graduate Student Association]]
-- [[organizations/rutgers-taiwan-study-association|Rutgers Taiwan Study Association (羅格斯大學台灣研究社)]]
-- [[organizations/sacramento-taiwanese-culture-foundation|Sacramento Taiwanese Culture Foundation (美國加州首府沙加緬度台灣文化基金會)]]
-- [[organizations/san-diego-taiwanese-cultural-association|San Diego Taiwanese Cultural Association (南加州)]]
-- [[organizations/san-diego-taiwanese-tennis-association|San Diego Taiwanese Tennis Association (聖地牙哥台灣人網球協會)]]
-- [[organizations/san-francisco-taiwanese-association|San Francisco Taiwanese Association (北加州)]]
-- [[organizations/san-gabriel-taiwanese-lions-club|San Gabriel Taiwanese Lions Club]]
-- [[organizations/senior-taiwanese-association-of-northern-california|Senior Taiwanese Association of Northern California (北加州台灣長輩會)]]
-- [[organizations/shee-highland-musee-in-il|Shee Highland Musée in IL (施哲三海嵐美術舘)]]
-- [[organizations/silicon-valley-taiwanese-american-association|Silicon Valley Taiwanese American Association (北加州)]]
-- [[organizations/socal-taiwanese-biotechnology-association-socal-tba|SoCal Taiwanese Biotechnology Association SoCal TBA (南加台灣生物科技協會)]]
-- [[organizations/sogetsu-buxmont-study-group|Sogetsu BuxMont Study Group]]
-- [[organizations/sound-of-taiwan|Sound Of Taiwan]]
-- [[organizations/south-bay-taiwanese-association-of-n-california|South Bay Taiwanese Association of N. California (北加州)]]
-- [[organizations/south-bay-taiwanese-association-of-s-california|South Bay Taiwanese Association of S. California.]]
-- [[organizations/southeast-bay-taiwanese-association-sebta|Southeast Bay Taiwanese Association SEBTA (北加州)]]
-- [[organizations/southern-california-alumni-association-of-tainan-first-senior-high-sch|Southern California Alumni Association of Tainan First Senior High School and Tainan Girls’ Senior High School(AATFHSSCA)]]
-- [[organizations/stanford-taiwanese-student-association|Stanford Taiwanese Student Association]]
-- [[organizations/student-association-of-taiwan-uw-madison|Student Association of Taiwan, UW-Madison]]
-- [[organizations/sun-ten-museum|Sun Ten Museum (順天美術館)]]
-- [[organizations/tacl-toastmaster-club|TACL Toastmaster Club (議會學社)]]
-- [[organizations/tah-foundation|TAH Foundation (台美史料中心)]]
-- [[organizations/taiwan-228-memorial-association-of-southern-california|Taiwan 228 Memorial Association of Southern California]]
-- [[organizations/taiwan-american-foundation|Taiwanese American Foundation (TAF)]]
-- [[organizations/taiwan-benevolent-association-of-california|Taiwan Benevolent Association of California]]
-- [[organizations/taiwan-care-inc|Taiwan Care Inc. (關懷台灣基金會)]]
-- [[organizations/taiwan-center|Taiwan Center Foundation of Greater Los Angeles (大洛杉磯台灣會館基金會)]]
-- [[organizations/tainan-east-gate-barclay-memorial-church|Tainan East Gate Barclay Memorial Church (東門巴克禮紀念教會)]]
-- [[organizations/taiwan-center-choir|Taiwan Center Choir]]
-- [[organizations/taiwan-center-foundation-of-greater-los-angeles|Taiwan Center Foundation of Greater Los Angeles (大洛杉磯台灣會館)]]
-- [[organizations/taiwan-elite-alliance|Taiwan Elite Alliance]]
-- [[organizations/taiwan-elite-alliancetea|Taiwan Elite Alliance TEA (優社)]]
-- [[organizations/taiwan-environmental-action-network-tean|Taiwan Environmental Action Network TEAN (台灣環境行動網)]]
-- [[organizations/taiwan-external-trade-development-council|Taiwan External Trade Development Council]]
-- [[organizations/taiwan-formosa|Taiwan Formosa]]
-- [[organizations/taiwan-hakka-association-for-public-affairs-in-north-america|Taiwan Hakka Association for Public Affairs in North America (北美臺灣客家公共事務協會)]]
-- [[organizations/taiwan-hakka-language-system|Taiwan Hakka Language System]]
-- [[organizations/taiwan-hotel-and-motel-association-of-southern-california|Taiwan Hotel &Motel Association of Southern California (THMASC)]]
-- [[organizations/taiwan-hotel-motel-association-of-greater-houston-thmagh|Taiwan Hotel-Motel Association of Greater Houston THMAGH (休士頓美南台灣旅館公會)]]
-- [[organizations/taiwan-hotel-motel-association-of-north-america|Taiwan Hotel & Motel Association of North America (北美洲台灣旅館公會聯合總會)]]
-- [[organizations/taiwan-hotel-motel-association-of-southern-california|Taiwan Hotel & Motel Association of Southern California (南加州台灣旅館業同業公會)]]
-- [[organizations/taiwan-human-rights-and-culture-association|Taiwan Human Rights & Culture Association]]
-- [[organizations/taiwan-national-organization-at-uci|Taiwan National Organization at UCI]]
-- [[organizations/taiwan-national-treasure-foundation|Taiwan National Treasure Foundation (國家寶藏基金會)]]
-- [[organizations/taiwan-photography-association-in-greater-new-york-tpagny|Taiwan Photography Association in Greater New York TPAGNY (大紐約區台灣攝影學會)]]
-- [[organizations/taiwan-student-association-at-the-university-of-michigan|Taiwan Student Association at the University of Michigan]]
-- [[organizations/taiwan-watch-taiwan-affairs-in-u-s-congress|Taiwan Watch – Taiwan Affairs in U. S. Congress (美國國會台灣觀測站)]]
-- [[organizations/taiwanese-america-seniors-association-of-southern-california-tasa|Taiwanese-America Seniors Association of Southern California TASA (南加州台灣人長輩會)]]
-- [[organizations/taiwanese-american-aeronautics-and-space-association|Taiwanese American Aeronautics and Space Association]]
-- [[organizations/taiwanese-american-arts-association|Taiwanese American Arts Association]]
-- [[organizations/taiwanese-american-arts-council-taac|Taiwanese American Arts Council TAAC (台美文藝協會)]]
-- [[organizations/taiwanese-american-association-atlanta|Taiwanese American Association Atlanta (亞特蘭大)]]
-- [[organizations/taiwanese-american-association-baltimore|Taiwanese American Association Baltimore (巴爾地摩)]]
-- [[organizations/taiwanese-american-association-east-san-gabriel-valley|Taiwanese American Association East San Gabriel Valley (洛杉磯聖東台灣同鄉會)]]
-- [[organizations/taiwanese-american-association-great-richmond|Taiwanese American Association Great Richmond (大雷城)]]
-- [[organizations/taiwanese-american-association-greater-cleveland|Taiwanese American Association Greater Cleveland (克里夫蘭)]]
-- [[organizations/taiwanese-american-association-mid-peninsula-taiwanese|Taiwanese American Association Mid-Peninsula Taiwanese (北加州)]]
-- [[organizations/taiwanese-american-association-milwaukee|Taiwanese American Association Milwaukee (密爾瓦基台灣同鄉會)]]
-- [[organizations/taiwanese-american-association-new-york|Taiwanese American Association New York (大紐約區)]]
-- [[organizations/taiwanese-american-association-of-arizona|Taiwanese American Association of Arizona (亞歷桑那州)]]
-- [[organizations/taiwanese-american-association-of-capital-district-new-york|Taiwanese American Association Of Capital District, New York (紐約州首府區台灣同鄉會)]]
-- [[organizations/taiwanese-american-association-of-greater-orlando-taago|Taiwanese American Association of Greater Orlando TAAGO (大奧蘭多)]]
-- [[organizations/taiwanese-american-association-of-los-angeles-east-san-gabriel-valley|Taiwanese American Association of Los Angeles-East San Gabriel Valley(TAA-ESGV)]]
-- [[organizations/taiwanese-american-association-of-mississippi|Taiwanese American Association of Mississippi (密西西比臺灣同鄉會)]]
-- [[organizations/taiwanese-american-association-of-pharmaceutics|Taiwanese American Association of Pharmaceutics (台美藥劑協會)]]
-- [[organizations/taiwanese-american-association-of-rochester-new-york|Taiwanese American Association Of Rochester, New York (羅徹斯特台灣同鄉會)]]
-- [[organizations/taiwanese-american-center-of-northern-california|Taiwanese American Center of Northern California (北加州台灣會館)]]
-- [[organizations/taiwanese-american-chamber-la|Taiwanese American Chamber of Commerce of Greater Los Angeles]]
-- [[organizations/taiwanese-american-charity-and-education-association|Taiwanese American Charity and Education Association (台美慈善教育協會)]]
-- [[organizations/taiwanese-american-citizens-league|Taiwanese American Citizens League]]
-- [[organizations/taiwanese-american-citizens-league-la|Taiwanese American Citizens League - Los Angeles]]
-- [[organizations/taiwanese-american-council|Taiwanese American Council (紐約紐澤西台灣人社團聯合會)]]
-- [[organizations/taiwanese-american-council-of-greater-new-york|Taiwanese American Council of Greater New York (大紐約區台灣人社團聯合會)]]
-- [[organizations/taiwanese-american-cpa-association-tacpa|Taiwanese American CPA Association, TACPA (台美會計師協會)]]
-- [[organizations/taiwanese-american-cultural-association|Taiwanese American Cultural Association]]
-- [[organizations/taiwanese-american-cultural-society-of-california|Taiwanese American Cultural Society of California (台美文化生活協會)]]
-- [[organizations/taiwanese-american-cultural-society-of-the-capital-district|Taiwanese American Cultural Society of the Capital District (紐約州首府區台美文化促進會)]]
-- [[organizations/taiwanese-american-elite-foundation|Taiwanese-American Elite Foundation (台美智庫基金會)]]
-- [[organizations/taiwanese-american-federation-of-n-california|Taiwanese American Federation of N. California (北加州)]]
-- [[organizations/taiwanese-american-foundation|Taiwanese-American Foundation]]
-- [[organizations/taiwanese-american-foundation-of-boston|Taiwanese-American Foundation of Boston (波士頓台美基金會)]]
-- [[organizations/taiwanese-american-foundation-of-san-diego|Taiwanese American Foundation of San Diego]]
-- [[organizations/taiwanese-american-green-society|Taiwanese American Green Society (台美人生活綠化促進會)]]
-- [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
-- [[organizations/taiwanese-american-industrial-technology-association-taita-east-coast|Taiwanese American Industrial Technology Association TAITA-East Coast (台美產業科技協會美東分會)]]
-- [[organizations/taiwanese-american-irvines-eagle-brotherhood-group-irvine|Taiwanese-American Irvine’s Eagle Brotherhood Group -Irvine (台美人)]]
-- [[organizations/taiwanese-american-lawyers-association|Taiwanese American Lawyers Association (TALA)]]
-- [[organizations/taiwanese-american-lawyers-association-tala|Taiwanese American Lawyers Association TALA (台美律師協會)]]
-- [[organizations/taiwanese-american-ma-ma-class-dc|Taiwanese American Ma Ma Class DC (大華府區台美人媽媽教室)]]
-- [[organizations/taiwanese-american-of-dayton|Taiwanese American of Dayton (戴頓台灣同鄉會)]]
-- [[organizations/taiwanese-american-organization-at-the-university-of-southern-california|Taiwanese American Organization at the University of Southern California]]
-- [[organizations/taiwanese-american-organization-at-uc-davis|Taiwanese American Organization at UC Davis]]
-- [[organizations/taiwanese-american-organization-at-uc-irvine|Taiwanese American Organization at UC Irvine]]
-- [[organizations/taiwanese-american-outreach-association|Taiwanese American Outreach Association (台美人交流協會)]]
-- [[organizations/taiwanese-american-pen-club|Taiwanese American Pen Club]]
-- [[organizations/taiwanese-american-pen-club-la|Taiwanese American Pen Club LA (台美人筆會)]]
-- [[organizations/taiwanese-american-perspectives|Taiwanese American Perspectives]]
-- [[organizations/taiwanese-american-photographers-association|Taiwanese American Photographers Association(TAPA)]]
-- [[organizations/taiwanese-american-professional-society-taps|Taiwanese American Professional Society TAPS (西雅圖台美專業協會)]]
-- [[organizations/taiwanese-american-professionals-atlanta|Taiwanese American Professionals Atlanta (台美菁英協會亞特蘭大分會)]]
-- [[organizations/taiwanese-american-professionals-austin|Taiwanese American Professionals Austin]]
-- [[organizations/taiwanese-american-professionals-boston|Taiwanese American Professionals Boston]]
-- [[organizations/taiwanese-american-professionals-los-angeles|Taiwanese American Professionals Los Angeles (洛杉磯台美菁英協會)]]
-- [[organizations/taiwanese-american-professionals-new-york|Taiwanese American Professionals New York (台美菁英協會紐約分會)]]
-- [[organizations/taiwanese-american-professionals-orange-county|Taiwanese American Professionals Orange County (台美菁英協會橙縣分會)]]
-- [[organizations/taiwanese-american-professionals-san-diego|Taiwanese American Professionals San Diego]]
-- [[organizations/taiwanese-american-professionals-san-francisco|Taiwanese American Professionals San Francisco]]
-- [[organizations/taiwanese-american-professionals-seattle|Taiwanese American Professionals Seattle (台美菁英協會西雅圖分會)]]
-- [[organizations/taiwanese-american-professionals-washington-d-c|Taiwanese American Professionals Washington D.C.]]
-- [[organizations/taiwanese-american-religious-study-association|Taiwanese American Religious Study Association]]
-- [[organizations/taiwanese-american-religious-study-association-southern-california-tarsa-sc|Taiwanese-American Religious Study Association Southern California TARSA-SC (台美人信仰與人文研習會)]]
-- [[organizations/taiwanese-american-scholarship-fund|Taiwanese American Scholarship Fund (台美獎學金基金會)]]
-- [[organizations/taiwanese-american-science-and-technology-association-tasta|Taiwanese American Science and Technology Association TASTA (華府台灣產業科技協會)]]
-- [[organizations/taiwanese-american-senior-society-tass-of-greater-washington-dc|Taiwanese American Senior Society TASS of Greater Washington DC (大華府台美人長樂會)]]
-- [[organizations/taiwanese-american-seniors-association-of-southern-california|Taiwanese American Seniors Association of Southern California]]
-- [[organizations/taiwanese-american-society-at-yale|Taiwanese American Society at Yale]]
-- [[organizations/taiwanese-american-soft-tennis-association|Taiwanese American Soft Tennis Association]]
-- [[organizations/taiwanese-american-student-association|Taiwanese American Student Association]]
-- [[organizations/taiwanese-american-student-association-at-case-western-reserve-university|Taiwanese American Student Association at Case Western Reserve University]]
-- [[organizations/taiwanese-american-student-association-at-cornell|Taiwanese American Student Association at Cornell]]
-- [[organizations/taiwanese-american-student-association-at-emory-university|Taiwanese American Student Association at Emory University]]
-- [[organizations/taiwanese-american-student-association-at-georgia-tech|Taiwanese American Student Association at Georgia Tech]]
-- [[organizations/taiwanese-american-student-association-at-penn-state|Taiwanese American Student Association at Penn State]]
-- [[organizations/taiwanese-american-student-association-at-the-university-of-maryland-college-park|Taiwanese American Student Association at the University of Maryland, College Park]]
-- [[organizations/taiwanese-american-student-association-at-the-university-of-michigan|Taiwanese American Student Association at the University of Michigan]]
-- [[organizations/taiwanese-american-student-association-at-uc-berkeley|Taiwanese American Student Association at UC Berkeley]]
-- [[organizations/taiwanese-american-student-association-at-uc-san-diego|Taiwanese American Student Association at UC San Diego]]
-- [[organizations/taiwanese-american-student-association-at-uc-santa-barbara|Taiwanese American Student Association at UC Santa Barbara]]
-- [[organizations/taiwanese-american-student-association-at-ucla|Taiwanese American Student Association at UCLA]]
-- [[organizations/taiwanese-american-student-association-at-ucr|Taiwanese American Student Association at UCR]]
-- [[organizations/taiwanese-american-student-association-ohio-state-university|Taiwanese American Student Association @ Ohio State University]]
-- [[organizations/taiwanese-american-students-association|Taiwanese American Students Association]]
-- [[organizations/taiwanese-american-students-association-at-johns-hopkins-university|Taiwanese American Students Association at Johns Hopkins University]]
-- [[organizations/taiwanese-american-students-association-of-northwestern-university|Taiwanese American Students Association of Northwestern University]]
-- [[organizations/taiwanese-american-students-club-at-uiuc|Taiwanese American Students Club at UIUC]]
-- [[organizations/taiwanese-association-nc-chapter|Taiwanese Association – NC Chapter (北卡)]]
-- [[organizations/taiwanese-association-of-alabama-birmingham|Taiwanese Association of Alabama Birmingham (伯明罕臺灣同鄉會)]]
-- [[organizations/taiwanese-association-of-america|Taiwanese Association of America (全美台灣同鄉會)]]
-- [[organizations/taiwanese-association-of-america-boston|Taiwanese Association of America Boston (波士頓台灣同鄉會)]]
-- [[organizations/taiwanese-association-of-america-colorado|Taiwanese Association of America Colorado (科羅拉多)]]
-- [[organizations/taiwanese-association-of-america-dallas-fort-worth|Taiwanese Association of America Dallas-Fort Worth (達拉斯台灣同鄉會)]]
-- [[organizations/taiwanese-association-of-america-delaware|Taiwanese Association of America Delaware (德拉瓦州)]]
-- [[organizations/taiwanese-association-of-america-detroit-tagd|Taiwanese Association Of America – Detroit TAGD (底特律台灣同鄉會)]]
-- [[organizations/taiwanese-association-of-america-east-tennessee|Taiwanese Association of America East Tennessee (東田納西)]]
-- [[organizations/taiwanese-association-of-america-greater-philadelphia|Taiwanese Association of America Greater Philadelphia (大費城)]]
-- [[organizations/taiwanese-association-of-america-greater-washington|Taiwanese Association of America Greater Washington (華府台灣同鄉會)]]
-- [[organizations/taiwanese-association-of-america-hawaii|Taiwanese Association of America Hawaii (夏威夷)]]
-- [[organizations/taiwanese-association-of-america-houston-chapter|Taiwanese Association of America – Houston Chapter (休士頓台灣同鄉會)]]
-- [[organizations/taiwanese-association-of-america-in-greater-st-louis|Taiwanese Association of America in Greater St. Louis (聖路易)]]
-- [[organizations/taiwanese-association-of-america-las-vegas|Taiwanese Association of America Las Vegas (拉斯維加斯)]]
-- [[organizations/taiwanese-association-of-america-new-jersey|Taiwanese Association of America – New Jersey (紐澤西)]]
-- [[organizations/taiwanese-association-of-america-northern-new-jersey|Taiwanese Association of America Northern New Jersey (北澤西)]]
-- [[organizations/taiwanese-association-of-america-pittsburgh|Taiwanese Association of America Pittsburgh (匹茲堡)]]
-- [[organizations/taiwanese-association-of-america-san-antonio|Taiwanese Association of America San Antonio (聖安東尼)]]
-- [[organizations/taiwanese-association-of-america-south-jersey-chapter|Taiwanese Association of America – South Jersey Chapter (南澤西台灣同鄉會)]]
-- [[organizations/taiwanese-association-of-america-the-greater-chicago|Taiwanese Association of America the Greater Chicago (大芝加哥台灣同鄉會)]]
-- [[organizations/taiwanese-association-of-cincinnati|Taiwanese Association of Cincinnati (辛辛那提)]]
-- [[organizations/taiwanese-association-of-greater-kansas-city-takc|Taiwanese Association of Greater Kansas City TAKC (大堪薩斯)]]
-- [[organizations/taiwanese-association-of-greater-portland|Taiwanese Association of Greater Portland (大波特蘭)]]
-- [[organizations/taiwanese-association-of-greater-seattle-tags|Taiwanese Association of Greater Seattle TAGS (大西雅圖區台灣同鄉會)]]
-- [[organizations/taiwanese-association-of-indiana|Taiwanese Association of Indiana (印州台灣同鄉會)]]
-- [[organizations/taiwanese-association-of-m-kentucky|Taiwanese Association of M. Kentucky (中肯德基)]]
-- [[organizations/taiwanese-association-of-madison-wi|Taiwanese Association of Madison-WI (威斯康星州麥城台灣同鄉會)]]
-- [[organizations/taiwanese-association-of-northwest-los-angeles|Taiwanese Association of Northwest Los Angeles]]
-- [[organizations/taiwanese-association-of-oklahoma|Taiwanese Association of Oklahoma (奧克拉荷馬台灣同鄉會)]]
-- [[organizations/taiwanese-association-of-south-florida|Taiwanese Association of South Florida (南佛州台灣同鄉會)]]
-- [[organizations/taiwanese-association-of-students-at-tufts|Taiwanese Association of Students at Tufts]]
-- [[organizations/taiwanese-association-of-syracuse|Taiwanese Association of Syracuse (雪城台灣同鄉會)]]
-- [[organizations/taiwanese-association-of-tampa-bay|Taiwanese Association of Tampa Bay (佛州天霸市台灣同鄉會)]]
-- [[organizations/taiwanese-association-of-the-greater-salt-lake|Taiwanese Association of the Greater Salt Lake (大鹽湖)]]
-- [[organizations/taiwanese-association-of-west-michigan|Taiwanese Association of West Michigan (西密西根台灣同鄉會)]]
-- [[organizations/taiwanese-association-of-wisconsin|Taiwanese Association of Wisconsin (威斯康辛)]]
-- [[organizations/taiwanese-chambers-of-commerce-of-orange-county|Taiwanese Chambers of Commerce of Orange County]]
-- [[organizations/taiwanese-cultural-and-sports-association|Taiwanese Cultural and Sports Association (台灣文化體育協會)]]
-- [[organizations/taiwanese-cultural-society-at-stanford-university|Taiwanese Cultural Society at Stanford University]]
-- [[organizations/taiwanese-dental-association|Taiwanese Dental Association]]
-- [[organizations/taiwanese-evergreen-academy|Taiwanese Evergreen Academy (矽谷迦南長青學院)]]
-- [[organizations/taiwanese-graduate-and-professional-student-association|Taiwanese Graduate and Professional Student Association]]
-- [[organizations/taiwanese-graduate-student-association-at-uc-davis|Taiwanese Graduate Student Association at UC Davis]]
-- [[organizations/taiwanese-graduate-student-association-at-uc-irvine|Taiwanese Graduate Student Association at UC Irvine]]
-- [[organizations/taiwanese-graduate-student-association-at-uva|Taiwanese Graduate Student Association at UVa]]
-- [[organizations/taiwanese-hakka-association-of-the-world|Taiwanese Hakka Association of the World]]
-- [[organizations/taiwanese-hakka-associations-of-southern-california|Taiwanese Hakka Associations of Southern California]]
-- [[organizations/taiwanese-heritage-society-of-houston|Taiwanese Heritage Society of Houston (台灣人傳統基金會)]]
-- [[organizations/taiwanese-import-and-export-association-of-america-inc|Taiwanese Import and Export Association of America, Inc. (美國台灣人進出口公會)]]
-- [[organizations/taiwanese-international-student-association|Taiwanese International Student Association]]
-- [[organizations/taiwanese-overseas-student-association-at-the-university-of-washington|Taiwanese Overseas Student Association at the University of Washington]]
-- [[organizations/taiwanese-overseas-students-association-at-boston-university|Taiwanese Overseas Students Association at Boston University]]
-- [[organizations/taiwanese-scholar-association-in-st-louis-tsa-stl|Taiwanese Scholar Association in St. Louis TSA-STL (聖路易台灣學者協會)]]
-- [[organizations/taiwanese-scholar-society|Taiwanese Scholar Society]]
-- [[organizations/taiwanese-senior-citizen-center|Taiwanese Senior Citizen Center (紐約台灣老人聯合會)]]
-- [[organizations/taiwanese-sporting-association-new-jersey|Taiwanese Sporting Association, New Jersey (紐澤西台灣人運動協會)]]
-- [[organizations/taiwanese-student-association|Taiwanese Student Association]]
-- [[organizations/taiwanese-student-association-all-university|Taiwanese Student Association – All-University]]
-- [[organizations/taiwanese-student-association-at-arizona-state-university|Taiwanese Student Association at Arizona State University]]
-- [[organizations/taiwanese-student-association-at-cu|Taiwanese Student Association at CU]]
-- [[organizations/taiwanese-student-association-at-georgia-tech|Taiwanese Student Association at Georgia Tech]]
-- [[organizations/taiwanese-student-association-at-nc-state|Taiwanese Student Association at NC State]]
-- [[organizations/taiwanese-student-association-at-ohio-state-university|Taiwanese Student Association at Ohio State University (俄亥俄州立大學台灣同學會)]]
-- [[organizations/taiwanese-student-association-at-syracuse-university|Taiwanese Student Association at Syracuse University]]
-- [[organizations/taiwanese-student-association-at-the-university-of-southern-california|Taiwanese Student Association at the University of Southern California]]
-- [[organizations/taiwanese-student-association-at-the-university-of-virginia|Taiwanese Student Association at the University of Virginia]]
-- [[organizations/taiwanese-student-association-at-uc-berkeley|Taiwanese Student Association at UC Berkeley]]
-- [[organizations/taiwanese-student-association-at-uc-davis|Taiwanese Student Association at UC Davis]]
-- [[organizations/taiwanese-student-association-at-uc-irvine|Taiwanese Student Association at UC Irvine]]
-- [[organizations/taiwanese-student-association-at-uc-santa-barbara|Taiwanese Student Association at UC Santa Barbara]]
-- [[organizations/taiwanese-student-association-at-ucla|Taiwanese Student Association at UCLA]]
-- [[organizations/taiwanese-student-association-at-uiuc|Taiwanese Student Association at UIUC]]
-- [[organizations/taiwanese-student-association-at-university-of-washington|Taiwanese Student Association at University of Washington]]
-- [[organizations/taiwanese-student-association-for-public-affairs|Taiwanese Student Association for Public Affairs (台灣公共事務學生會華大分會)]]
-- [[organizations/taiwanese-student-association-tsa|Taiwanese Student Association TSA]]
-- [[organizations/taiwanese-student-business-association|Taiwanese Student Business Association]]
-- [[organizations/taiwanese-student-society|Taiwanese Student Society]]
-- [[organizations/taiwanese-students-association|Taiwanese Students Association]]
-- [[organizations/taiwanese-undergraduate-student-organization|Taiwanese Undergraduate Student Organization]]
-- [[organizations/taiwanese-united-fund|TUF(Taiwanese United Fund)]]
-- [[organizations/taiwanese-youth-arts-foundation-washington-dc|Taiwanese Youth Arts Foundation / Washington DC (華府台灣人青少年才藝基金會)]]
-- [[organizations/taiwanjustice-net|taiwanjustice.net (台灣公義網)]]
-- [[organizations/tass-eb|〈TASS-EB〉 (北加州東灣台美人長樂會)]]
-- [[organizations/tennessee-taiwanese-association|Tennessee Taiwanese Association (田納西州大納許維爾台灣同鄉會)]]
-- [[organizations/texas-college-station-taiwan-study-club|Texas College Station Taiwan Study Club (德州卡城台灣研究社)]]
-- [[organizations/texas-formosa-fishing-association|Texas Formosa Fishing Association (德州台灣釣魚協會)]]
-- [[organizations/texas-taiwanese-biotechnology-association|Texas Taiwanese Biotechnology Association (德州台灣生物科技協會)]]
-- [[organizations/the-board-of-taiwanese-american-conferences-west-coast-tac-wc|THE BOARD OF TAIWANESE AMERICAN CONFERENCES – WEST COAST TAC-WC (美西台灣人夏令會理事會)]]
-- [[organizations/the-chuan-lyu-foundation|The Chuan Lyu Foundation (川流基金會)]]
-- [[organizations/the-great-new-york-region-oversea-taiwanese-pen-club|The Great New York Region-Oversea Taiwanese Pen Club (大紐約區海外台灣人筆會)]]
-- [[organizations/the-kee-jen-education-of-arts-foundation|The Kee-Jen Education of Arts Foundation]]
-- [[organizations/the-life-enrichment-club|The Life Enrichment Club (暢樂人生社)]]
-- [[organizations/the-north-america-taiwanese-students-association-tsa-na|The North America Taiwanese Students’ Association TSA-NA (北美台灣學生協會)]]
-- [[organizations/the-yinchin-foundation|The Yinchin Foundation]]
-- [[organizations/tsunah-foundation|TSUNAH FOUNDATION (慈林教育基金會)]]
-- [[organizations/tyzen-hsiao-foundation|Tyzen Hsiao Foundation (蕭泰然基金會)]]
-- [[organizations/tyzen-hsiao-music-works|TYZEN HSIAO MUSIC WORKS (蕭泰然音樂基金會)]]
-- [[organizations/ucla-taiwanese-american-union|UCLA Taiwanese American Union]]
-- [[organizations/ucr-united-taiwanese-student-association|UCR United Taiwanese Student Association]]
-- [[organizations/uf-society-of-taiwanese-and-hong-kong-students|UF Society of Taiwanese and Hong Kong Students]]
-- [[organizations/uf-taiwanese-student-association|UF Taiwanese Student Association]]
-- [[organizations/united-formosans-for-independenceufi|United Formosans for Independence UFI (台獨聯盟)]]
-- [[organizations/united-taiwanese-association-at-uc-san-diego|United Taiwanese Association at UC San Diego]]
-- [[organizations/universal-door-foundation|Universal Door Foundation (美音基金會)]]
-- [[organizations/university-of-maryland-taiwanese-student-association|University of Maryland Taiwanese Student Association]]
-- [[organizations/university-of-minnesota-taiwanese-student-association|University of Minnesota Taiwanese Student Association]]
-- [[organizations/university-of-north-carolina-at-chapel-hill-taiwanese-student-association|University of North Carolina at Chapel Hill Taiwanese Student Association]]
-- [[organizations/upenn-tesol-taiwanese-student-association|UPenn TESOL Taiwanese Student Association]]
-- [[organizations/uw-itaiwan-graduate-students-and-professional-organization|UW iTaiwan Graduate Students and Professional Organization]]
-- [[organizations/vanderbilt-tssa|Vanderbilt TSSA (范德堡大學臺灣同學會)]]
-- [[organizations/wellbrook-foundation|Wellbrook Foundation (美國美溪慈善基金會)]]
-- [[organizations/wellesley-taiwanese-cultural-organization|Wellesley Taiwanese Cultural Organization]]
-- [[organizations/westchester-taiwanese-womens-associationwtwa|Westchester Taiwanese Women’s Association WTWA (威郡台灣婦女會)]]
-- [[organizations/world-taiwan-foundation|World Taiwan Foundation (世台聯合基金會)]]
-- [[organizations/yale-taiwanese-student-association|Yale Taiwanese Student Association]]
-- [[organizations/yang-foundation|Yang Foundation (楊文傑紀念基金會)]]
-- [[organizations/yin-chin-foundation-of-u-s-a|YIN CHIN FOUNDATION OF U.S.A. (美國殷勤文教公益基金會)]]
-- [[organizations/youth-orchestra-cycny|Youth Orchestra, CYCNY (紐約幼獅青少年管弦樂團)]]
+[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [Y](#y)
 
+### A {#a}
 
+- [Acevedo Music & Art Education Foundation Inc](./acevedo-music-and-art-education-foundation-inc)
+- [AJ WANG FOUNDATION – SCHOLARSHIP FUND](./aj-wang-foundation-scholarship-fund)
+- [Alumni Association of Chia Yi High School Worldwide (AACHW)](./alumni-association-of-chia-yi-high-school-worldwide)
+- [American Citizens for Taiwan (西雅圖美台會)](./american-citizens-for-taiwan)
+- [American Citizens of Taiwan Origin ACTO (美台公民協會)](./american-citizens-of-taiwan-origin-acto)
+- [Ann Arbor Taiwanese Association (安雅堡)](./ann-arbor-taiwanese-association)
+- [Arizona Taiwanese Student Association](./arizona-taiwanese-student-association)
+- [Asia Democracy Foundation (民主亞洲基金會)](./asia-democracy-foundation)
+- [Asian American Social Welfaer Foundation](./asian-american-social-welfaer-foundation)
+- [Asian Senior Concerns Foundation (亞裔銀髮族關懷基金會)](./asian-senior-concerns-foundation)
+- [Association of Taiwanese Students at MIT](./association-of-taiwanese-students-at-mit)
+- [ASU Taiwanese International Student Association](./asu-taiwanese-international-student-association)
+- [Austin Taiwanese Association (奧斯丁)](./austin-taiwanese-association)
 
+### B {#b}
 
+- [Bald Eagle Society (白首老鷹社)](./bald-eagle-society)
+- [Bliss & Wisdom Foundation of North America (北美福智基金會)](./bliss-wisdom-foundation-of-north-america)
+- [Boston Taiwanese Biotechnology Association (波士頓台灣人生物科技協會)](./boston-taiwanese-biotechnology-association)
+- [Boston University Taiwanese Student Association](./boston-university-taiwanese-student-association)
+- [Brooklyn Artists Studio (布魯克林藝站)](./brooklyn-artists-studio)
+- [Brown Taiwan Society](./brown-taiwan-society)
+- [Brown/RISD Taiwanese Graduate Student Association](./brown-risd-taiwanese-graduate-student-association)
 
-## Notes
+### C {#c}
 
-- Some organizations appear first on person pages before receiving a standalone organization record.
-- Related pages may also live under [People](../people/) when the source material is primarily biographical.
-- [← Back to Echopedia home](../)
+- [Career Taiwan USA Association](./career-taiwan-usa-association)
+- [Center for Taiwan International Relations, CTIR (台灣國際關係中心)](./center-for-taiwan-international-relations-ctir)
+- [Chang Jung Girls’ High School Alumni Association Southern California](./chang-jung-girls-high-school-alumni-association-southern-california)
+- [Chhong-bi Memorial Fund (聰美姐紀念基會)](./chhong-bi-memorial-fund)
+- [Chicago Taiwanese Architecture Institute, CTAI (芝加哥台灣建築學會)](./chicago-taiwanese-architecture-institute-ctai)
+- [Chicago Taiwanese Cuisine and Culture Association (芝加哥台灣美食文化交流協會)](./chicago-taiwanese-cuisine-and-culture-association)
+- [Chinese and Taiwanese Student Association](./chinese-and-taiwanese-student-association)
+- [Chinese Christian Church of New Jersey (新澤西主恩堂台語堂)](./chinese-christian-church-of-new-jersey)
+- [Ching Ying Cultural and Educational Foundation](./ching-ying-cultural-and-educational-foundation)
+- [Chunglun Presbyterian Church (中崙教會)](./chunglun-presbyterian-church)
+- [Clear Lake Taiwanese Association (明湖台灣同鄉會)](./clear-lake-taiwanese-association)
+- [Coalition of Taiwan Independence’s (台灣建國聯合陣線)](./coalition-of-taiwan-independences)
+- [Columbia University Taiwanese American Students Association](./columbia-university-taiwanese-american-students-association)
+- [Columbia University Taiwanese Graduate Student Association](./columbia-university-taiwanese-graduate-student-association)
+- [Columbia University Taiwanese Student Association](./columbia-university-taiwanese-student-association)
+- [Columbus Taiwanese Association of America (哥倫布)](./columbus-taiwanese-association-of-america)
+- [Cord Blood Bank](./cord-blood-bank)
+- [Cornell Taiwanese American Society](./cornell-taiwanese-american-society)
+- [Cornell Taiwanese Student Association](./cornell-taiwanese-student-association)
+- [CWRU Taiwanese Student Association](./cwru-taiwanese-student-association)
 
-## Related Pages
+### D {#d}
 
-- [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
-- [[people/choan-seng-song|Dr. Choan-Seng Song (宋泉盛)]]
-- [[people/shoki-coe|Dr. Shoki Coe (黃彰輝)]]
-- [[people/lien-hwa-chow|Dr. Lien-Hwa Chow (周聯華)]]
-- [[people/cai-weiren|Rev. Cai Weiren (蔡維仁)]]
-- [[people/chen-bozhi|Rev. Chen Bozhi (陳柏志)]]
+- [Dartmouth Taiwanese Student Association](./dartmouth-taiwanese-student-association)
+- [Democratic Progressive Party (民主進步黨)](./democratic-progressive-party)
+- [DFW Taiwanese American Heritage Foundation (達福台美人傳統文化基金會)](./dfw-taiwanese-american-heritage-foundation)
+- [Distinguished Citizens Society International USA](./distinguished-citizens-society-international-usa)
+- [Distinguished Citizens Society International World Headquarters](./distinguished-citizens-society-international-world-headquarters)
+- [Distinguished Citizens Society International-Southern California](./distinguished-citizens-society-international-southern-california)
+- [Duke Taiwanese Student Association](./duke-taiwanese-student-association)
+
+### E {#e}
+
+- [East Bay Taiwanese Americans Community Service Center EBTACSC (東灣台美人社區服務中心)](./east-bay-taiwanese-americans-community-service-center-ebtacsc)
+- [East Bay Taiwanese Association (北加州)](./east-bay-taiwanese-association)
+- [Emory TSA](./emory-tsa)
+- [Evangelical Formosan Church of NorCal (北加州台福基督教會)](./evangelical-formosan-church-of-norcal)
+- [Evergreen Class by Irvine Taiwanese Presbyterian Church ，Laguna Hills, CA (長青教室)](./evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca)
+- [Evergreen Senior University by Evangelical Formosa Church of Irvine ESU (愛恩台福基督教會長春大學)](./evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu)
+
+### F {#f}
+
+- [Family Keepers International /2015/05 (國際真愛家庭協會)](./family-keepers-international-2015-05)
+- [Formosa Foundation](./formosa-foundation)
+- [Formosa Senior Association](./formosa-senior-association)
+- [FORMOSAN ASSOCIATION FOR G.M.T. CULTURE (台灣人牛罵頭文史拹會)](./formosan-association-for-g-m-t-culture)
+- [Formosan Association for Human Rights](./formosan-association-for-human-rights)
+- [Formosan Association for Public Affairs Los Angeles(FAPA-LA)](./fapa-los-angeles)
+- [Formosan Association for Public Affairs Orange County (FAPA- OC)](./fapa-orange-county)
+- [Formosan Presbyterian Church in Los Angeles (FPCLA)](./formosan-presbyterian-church-in-los-angeles)
+- [Formosan Society for Performing Arts Inc. FOSPA (福爾摩沙表演藝術協會)](./formosan-society-for-performing-arts-inc-fospa)
+- [Formosar Chriotion for Self Determination (臺灣人民自決運動)](./formosar-chriotion-for-self-determination)
+- [Fri. Philo (哲學星期五)](./fri-philo)
+- [Friends of Taiwan](./friends-of-taiwan)
+- [Friends of Taiwan-Greater St. Louis (聖路易台灣之友會)](./friends-of-taiwan-greater-st-louis)
+
+### G {#g}
+
+- [Georgetown Taiwanese American Student Association](./georgetown-taiwanese-american-student-association)
+- [Georgetown Taiwanese Student Association](./georgetown-taiwanese-student-association)
+- [Global Alliance for Democracy and Peace (GADP)](./global-alliance-for-democracy-and-peace)
+- [Global Alliance for Democracy and Peace (GADP)-LA](./global-alliance-for-democracy-and-peace-la)
+- [Global Education Fund (美國環球教育基金會)](./global-education-fund)
+- [Global HAKKA UN NGO Applying Committee UN NGO (世界客家社團加入)](./global-hakka-un-ngo-applying-committee-un-ngo)
+- [Global Taiwan Institute (全球台灣研究中心)](./global-taiwan-institute)
+- [Golden Eagle Institute (金鷹學院)](./golden-eagle-institute)
+- [Good Shepherd Taiwanese Presbyterian Church](./good-shepherd-taiwanese-presbyterian-church)
+- [Greater Los Angeles Hotel/Motel Association](./greater-los-angeles-hotel-motel-association)
+- [Greater Sacramento Taiwanese Association GSTA (大沙加偭度台灣同鄉會)](./greater-sacramento-taiwanese-association-gsta)
+- [Greater Washington Taiwan Culture Center (華府台灣文化中心)](./greater-washington-taiwan-culture-center)
+
+### H {#h}
+
+- [Hakka Foundation (客家基金會)](./hakka-foundation)
+- [Happy Dancers Club](./happy-dancers-club)
+- [Harvard Griffin GSAS Taiwan Student Association](./harvard-griffin-gsas-taiwan-student-association)
+- [Harvard GSAS Taiwanese ROC Student Club](./harvard-gsas-taiwanese-roc-student-club)
+- [Harvard Taiwanese Cultural Society](./harvard-taiwanese-cultural-society)
+- [Houston Formosan Evergreen Association (休士頓台灣長春會)](./houston-formosan-evergreen-association)
+- [Houston Taiwan Institute for Senior Citizens (休士頓台灣松年學院)](./houston-taiwan-institute-for-senior-citizens)
+- [Houston Taiwanese Golden Club 樂部 (休士頓台灣清閒俱)](./houston-taiwanese-golden-club)
+- [Hsinchu High School Alumni Association of North America (北美新竹中學校友會)](./hsinchu-high-school-alumni-association-of-north-america)
+- [Hsu Ling-yun Xiucai Memorial Hall (許凌雲秀才紀念館)](./hsu-ling-yun-xiucai-memorial-hall)
+- [Hsu Shih Memorial Foundation](./hsu-shih-memorial-foundation)
+- [Huntsville Taiwanese American Association (亨城)](./huntsville-taiwanese-american-association)
+
+### I {#i}
+
+- [Ikenobo Ikebana LA Chapter](./ikenobo-ikebana-la-chapter)
+- [Institute for Taiwanese Studies](./institute-for-taiwanese-studies)
+- [Irvine Taiwanese Presbyterian Church (爾灣台灣基督長老教會 (ITPC))](./irvine-taiwanese-presbyterian-church)
+
+### J {#j}
+
+- [JHB Foundation](./jhb-foundation)
+- [Johns Hopkins University Taiwanese Student Association](./johns-hopkins-university-taiwanese-student-association)
+- [Joint Alumni Association of Taiwan Teachers College and Normal University(JTTAA)](./joint-alumni-association-of-taiwan-teachers-college-and-normal-univers)
+- [Joint Chinese University Alumni Association of Southern California](./joint-chinese-university-alumni-association-of-southern-california)
+
+### K {#k}
+
+- [Kaohsiung High School Alumni Association (KHSAA)](./kaohsiung-high-school-alumni-association)
+- [Kaohsiung Hotel Association](./kaohsiung-hotel-association)
+
+### L {#l}
+
+- [L.A. Study Group (大洛杉磯台灣讀書會)](./l-a-study-group)
+- [Laguna Woods Village Taiwanese Club (南加州)](./laguna-woods-village-taiwanese-club)
+- [LAPC Music Foundation (洛杉磯樂音音樂基金會)](./lapc-music-foundation)
+- [Liu Kwee Family Association USA](./liu-kwee-family-association-usa)
+- [Living Well Club of New Jersey (紐澤西州)](./living-well-club-of-new-jersey)
+- [LKGT 「」 (老康健)](./lkgt)
+- [Los Angeles Life Forum](./los-angeles-life-forum)
+
+### M {#m}
+
+- [Manhattan, KS Chapter / TAA (全美台灣同鄉會曼哈頓分會)](./manhattan-ks-chapter-taa)
+- [Michigan Taiwanese Student Association](./michigan-taiwanese-student-association)
+- [Mid-Hudson Taiwanese Association (哈德遜中區臺灣同鄉會)](./mid-hudson-taiwanese-association)
+- [Miss Taiwanese American Foundation (台美小姐選拔基金會)](./miss-taiwanese-american-foundation)
+- [Miss Taiwanese American Pageant Foundation](./miss-taiwanese-american-pageant)
+- [MIT Republic of China Taiwan Student Association](./mit-republic-of-china-taiwan-student-association)
+- [Modern Taiwanese Language Association (台語現代文協會)](./modern-taiwanese-language-association)
+- [Mountain View Taiwanese Golf Association](./mountain-view-taiwanese-golf-association)
+
+### N {#n}
+
+- [National Taipei University of Technology Alumni Association](./national-taipei-university-of-technology-alumni-association)
+- [National Taiwanese Presbyterian Council (NTPC)](./national-taiwanese-presbyterian-council)
+- [Neo Art League (加州新藝畫會)](./neo-art-league)
+- [New Orleans Taiwanese Association (紐奧良)](./new-orleans-taiwanese-association)
+- [NEW WORLD ART CENTER – (紐約市陳錦芳文化館)](./new-world-art-center)
+- [New York Taiwan Center (紐約台灣會館)](./new-york-taiwan-center)
+- [North America Chang Hua Association](./north-america-chang-hua-association)
+- [North America Pastel Artist Association (北美粉彩畫家協會)](./north-america-pastel-artist-association)
+- [North America Taiwanese Engineering & Science Association(NATEA)](./natea-southern-california)
+- [North America Taiwanese Medical Association — Southern California chapter (as listed; verify EN name)](./north-america-taiwanese-medical-association-southern-california-chapte)
+- [North America Taiwanese Professors' Association Southern California](./north-america-taiwanese-professors-sc)
+- [North America Taiwanese Women's Assoc. Southern CA Chapter NATWA-SC](./natwa-southern-california)
+- [North America Taiwanese Women’s Association (北美洲臺灣婦女會)](./north-america-taiwanese-womens-association)
+- [North America Taiwanese Women’s Association – Arizona Chapter (北美洲台灣婦女會亞利桑那分會)](./north-america-taiwanese-womens-association-arizona-chapter)
+- [North America Taiwanese Women’s Association – Boston Chapter (北美洲台灣婦女會波士頓分會)](./north-america-taiwanese-womens-association-boston-chapter)
+- [North America Taiwanese Women’s Association – Detroit Chapter (北美洲台灣婦女會底特律分會)](./north-america-taiwanese-womens-association-detroit-chapter)
+- [North America Taiwanese Women’s Association – Greater San Diego Chapter (北美洲台灣婦女會聖地牙哥分會)](./north-america-taiwanese-womens-association-greater-san-diego-chapter)
+- [North America Taiwanese Women’s Association – Hawaii Chapter (北美洲台灣婦女會夏威夷分會)](./north-america-taiwanese-womens-association-hawaii-chapter)
+- [North America Taiwanese Women’s Association – Kansas Chapter (北美洲台灣婦女會堪薩斯分會)](./north-america-taiwanese-womens-association-kansas-chapter)
+- [North America Taiwanese Women’s Association – New Jersey Chapter (北美洲台灣婦女會紐澤西分會)](./north-america-taiwanese-womens-association-new-jersey-chapter)
+- [North America Taiwanese Women’s Association – New York Chapter (北美洲台灣婦女會紐約分會)](./north-america-taiwanese-womens-association-new-york-chapter)
+- [North America Taiwanese Women’s Association – Northern California Chapter (北美洲台灣婦女會北加分會)](./north-america-taiwanese-womens-association-northern-california-chapter)
+- [North America Taiwanese Women’s Association – Ohio/Kentucky Chapter (北美洲台灣婦女會俄亥俄)](./north-america-taiwanese-womens-association-ohio-kentucky-chapter)
+- [North America Taiwanese Women’s Association – Oregon/Southwest Washington Chapter (北美洲台灣婦女會俄勒岡)](./north-america-taiwanese-womens-association-oregon-southwest-washington-chapter)
+- [North America Taiwanese Women’s Association – Southern California Chapter (北美洲台灣婦女會南加分會)](./north-america-taiwanese-womens-association-southern-california-chapter)
+- [North America Taiwanese Women’s Association – St. Louis Chapter (北美洲台灣婦女會聖路易分會)](./north-america-taiwanese-womens-association-st-louis-chapter)
+- [North America Taiwanese Women’s Association – Wisconsin/Illinois Chapter (北美洲台灣婦女會威斯康辛)](./north-america-taiwanese-womens-association-wisconsin-illinois-chapter)
+- [North American Taiwan Association of Social Workers](./north-american-taiwan-association-of-social-workers)
+- [North American Taiwan Studies Association NATSA (北美臺灣研究學會)](./north-american-taiwan-studies-associationnatsa)
+- [North American Taiwanese Medical Association - Southern California Chapter（NATMA-SCC）](./natma-southern-california)
+- [NORTH AMERICAN TAIWANESE MEDICAL ASSOCIATION Foundation (北美洲台灣人醫師協會基金會)](./north-american-taiwanese-medical-association-foundation)
+- [North Shore Club (北濱會)](./north-shore-club)
+- [Northern California Taiwanese Medical Association NCTMA (北加州台灣醫師會)](./northern-california-taiwanese-medical-association-nctma)
+- [NTPC (disambiguation)](./ntpc)
+- [NY Taiwanese Golf Club NYTGC (紐約台灣人高爾夫球俱樂部)](./ny-taiwanese-golf-club-nytgc)
+- [NYS Orange County Taiwanese Association (紐約橙縣台灣同鄉會)](./nys-orange-county-taiwanese-association)
+- [NYU Taiwanese American Student Society](./nyu-taiwanese-american-student-society)
+
+### O {#o}
+
+- [Orange County Taiwanese Association](./orange-county-taiwanese-association)
+- [Organization For The Support of Democratic Movement of Taiwan (台灣民主運動支援會)](./organization-for-the-support-of-democratic-movement-of-taiwan)
+- [Overseas Community Affairs Council (僑務委員會)](./overseas-community-affairs-council)
+- [Overseas Taiwanese for Democracy (海外台灣青年陣線)](./overseas-taiwanese-for-democracy)
+- [Oxford Taiwanese American Student Association](./oxford-taiwanese-american-student-association)
+
+### P {#p}
+
+- [Paramitas Foundation](./paramitas-foundation)
+- [Penn Taiwanese Society](./penn-taiwanese-society)
+- [Penn Taiwanese Student Association](./penn-taiwanese-student-association)
+- [Pine Green Institutes (松青學院)](./pine-green-institutes)
+- [Presbyterian Church in Taiwan (PCT)](./presbyterian-church-in-taiwan)
+- [Princeton Association of Taiwanese Students](./princeton-association-of-taiwanese-students)
+- [Princeton Taiwanese American Students Association](./princeton-taiwanese-american-students-association)
+- [Professor Chen Wen-Chen Memorial Foundation (陳文成教授紀念基金會)](./professor-chen-wen-chen-memorial-foundation)
+
+### R {#r}
+
+- [Rice Taiwanese Association](./rice-taiwanese-association)
+- [Rice Taiwanese Graduate Student Association](./rice-taiwanese-graduate-student-association)
+- [Rutgers Taiwan Study Association (羅格斯大學台灣研究社)](./rutgers-taiwan-study-association)
+
+### S {#s}
+
+- [Sacramento Taiwanese Culture Foundation (美國加州首府沙加緬度台灣文化基金會)](./sacramento-taiwanese-culture-foundation)
+- [San Diego Taiwanese Cultural Association (南加州)](./san-diego-taiwanese-cultural-association)
+- [San Diego Taiwanese Tennis Association (聖地牙哥台灣人網球協會)](./san-diego-taiwanese-tennis-association)
+- [San Francisco Taiwanese Association (北加州)](./san-francisco-taiwanese-association)
+- [San Gabriel Taiwanese Lions Club](./san-gabriel-taiwanese-lions-club)
+- [Senior Taiwanese Association of Northern California (北加州台灣長輩會)](./senior-taiwanese-association-of-northern-california)
+- [Shee Highland Musée in IL (施哲三海嵐美術舘)](./shee-highland-musee-in-il)
+- [Silicon Valley Taiwanese American Association (北加州)](./silicon-valley-taiwanese-american-association)
+- [SoCal Taiwanese Biotechnology Association SoCal TBA (南加台灣生物科技協會)](./socal-taiwanese-biotechnology-association-socal-tba)
+- [Sogetsu BuxMont Study Group](./sogetsu-buxmont-study-group)
+- [Sound Of Taiwan](./sound-of-taiwan)
+- [South Bay Taiwanese Association of N. California (北加州)](./south-bay-taiwanese-association-of-n-california)
+- [South Bay Taiwanese Association of S. California.](./south-bay-taiwanese-association-of-s-california)
+- [Southeast Bay Taiwanese Association SEBTA (北加州)](./southeast-bay-taiwanese-association-sebta)
+- [Southern California Alumni Association of Tainan First Senior High School and Tainan Girls’ Senior High School(AATFHSSCA)](./southern-california-alumni-association-of-tainan-first-senior-high-sch)
+- [Stanford Taiwanese Student Association](./stanford-taiwanese-student-association)
+- [Student Association of Taiwan, UW-Madison](./student-association-of-taiwan-uw-madison)
+- [Sun Ten Museum (順天美術館)](./sun-ten-museum)
+
+### T {#t}
+
+- [TACL Toastmaster Club (議會學社)](./tacl-toastmaster-club)
+- [TAH Foundation (台美史料中心)](./tah-foundation)
+- [Tainan East Gate Barclay Memorial Church (東門巴克禮紀念教會)](./tainan-east-gate-barclay-memorial-church)
+- [Taiwan 228 Memorial Association of Southern California](./taiwan-228-memorial-association-of-southern-california)
+- [Taiwan Benevolent Association of California](./taiwan-benevolent-association-of-california)
+- [Taiwan Care Inc. (關懷台灣基金會)](./taiwan-care-inc)
+- [Taiwan Center Choir](./taiwan-center-choir)
+- [Taiwan Center Foundation of Greater Los Angeles (大洛杉磯台灣會館)](./taiwan-center-foundation-of-greater-los-angeles)
+- [Taiwan Center Foundation of the Greater Los Angeles (大洛杉磯台灣會館)](./taiwan-center)
+- [Taiwan Elite Alliance](./taiwan-elite-alliance)
+- [Taiwan Elite Alliance TEA (優社)](./taiwan-elite-alliancetea)
+- [Taiwan Environmental Action Network TEAN (台灣環境行動網)](./taiwan-environmental-action-network-tean)
+- [Taiwan External Trade Development Council](./taiwan-external-trade-development-council)
+- [Taiwan Formosa](./taiwan-formosa)
+- [Taiwan Hakka Association for Public Affairs in North America (北美臺灣客家公共事務協會)](./taiwan-hakka-association-for-public-affairs-in-north-america)
+- [Taiwan Hakka Language System](./taiwan-hakka-language-system)
+- [Taiwan Hotel & Motel Association of North America (北美洲台灣旅館公會聯合總會)](./taiwan-hotel-motel-association-of-north-america)
+- [Taiwan Hotel & Motel Association of Southern California (南加州台灣旅館業同業公會)](./taiwan-hotel-motel-association-of-southern-california)
+- [Taiwan Hotel &Motel Association of Southern California (THMASC)](./taiwan-hotel-and-motel-association-of-southern-california)
+- [Taiwan Hotel-Motel Association of Greater Houston THMAGH (休士頓美南台灣旅館公會)](./taiwan-hotel-motel-association-of-greater-houston-thmagh)
+- [Taiwan Human Rights & Culture Association](./taiwan-human-rights-and-culture-association)
+- [Taiwan National Organization at UCI](./taiwan-national-organization-at-uci)
+- [Taiwan National Treasure Foundation (國家寶藏基金會)](./taiwan-national-treasure-foundation)
+- [Taiwan Photography Association in Greater New York TPAGNY (大紐約區台灣攝影學會)](./taiwan-photography-association-in-greater-new-york-tpagny)
+- [Taiwan Student Association at the University of Michigan](./taiwan-student-association-at-the-university-of-michigan)
+- [Taiwan Watch – Taiwan Affairs in U. S. Congress (美國國會台灣觀測站)](./taiwan-watch-taiwan-affairs-in-u-s-congress)
+- [Taiwanese American Aeronautics and Space Association](./taiwanese-american-aeronautics-and-space-association)
+- [Taiwanese American Arts Association](./taiwanese-american-arts-association)
+- [Taiwanese American Arts Council TAAC (台美文藝協會)](./taiwanese-american-arts-council-taac)
+- [Taiwanese American Association Atlanta (亞特蘭大)](./taiwanese-american-association-atlanta)
+- [Taiwanese American Association Baltimore (巴爾地摩)](./taiwanese-american-association-baltimore)
+- [Taiwanese American Association East San Gabriel Valley (洛杉磯聖東台灣同鄉會)](./taiwanese-american-association-east-san-gabriel-valley)
+- [Taiwanese American Association Great Richmond (大雷城)](./taiwanese-american-association-great-richmond)
+- [Taiwanese American Association Greater Cleveland (克里夫蘭)](./taiwanese-american-association-greater-cleveland)
+- [Taiwanese American Association Mid-Peninsula Taiwanese (北加州)](./taiwanese-american-association-mid-peninsula-taiwanese)
+- [Taiwanese American Association Milwaukee (密爾瓦基台灣同鄉會)](./taiwanese-american-association-milwaukee)
+- [Taiwanese American Association New York (大紐約區)](./taiwanese-american-association-new-york)
+- [Taiwanese American Association of Arizona (亞歷桑那州)](./taiwanese-american-association-of-arizona)
+- [Taiwanese American Association Of Capital District, New York (紐約州首府區台灣同鄉會)](./taiwanese-american-association-of-capital-district-new-york)
+- [Taiwanese American Association of Greater Orlando TAAGO (大奧蘭多)](./taiwanese-american-association-of-greater-orlando-taago)
+- [Taiwanese American Association of Los Angeles-East San Gabriel Valley(TAA-ESGV)](./taiwanese-american-association-of-los-angeles-east-san-gabriel-valley)
+- [Taiwanese American Association of Mississippi (密西西比臺灣同鄉會)](./taiwanese-american-association-of-mississippi)
+- [Taiwanese American Association of Pharmaceutics (台美藥劑協會)](./taiwanese-american-association-of-pharmaceutics)
+- [Taiwanese American Association Of Rochester, New York (羅徹斯特台灣同鄉會)](./taiwanese-american-association-of-rochester-new-york)
+- [Taiwanese American Center of Northern California (北加州台灣會館)](./taiwanese-american-center-of-northern-california)
+- [Taiwanese American Chamber of Commerce of Greater Los Angeles](./taiwanese-american-chamber-la)
+- [Taiwanese American Charity and Education Association (台美慈善教育協會)](./taiwanese-american-charity-and-education-association)
+- [Taiwanese American Citizens League](./taiwanese-american-citizens-league)
+- [Taiwanese American Citizens League - Los Angeles](./taiwanese-american-citizens-league-la)
+- [Taiwanese American Council (紐約紐澤西台灣人社團聯合會)](./taiwanese-american-council)
+- [Taiwanese American Council of Greater New York (大紐約區台灣人社團聯合會)](./taiwanese-american-council-of-greater-new-york)
+- [Taiwanese American CPA Association, TACPA (台美會計師協會)](./taiwanese-american-cpa-association-tacpa)
+- [Taiwanese American Cultural Association](./taiwanese-american-cultural-association)
+- [Taiwanese American Cultural Society of California (台美文化生活協會)](./taiwanese-american-cultural-society-of-california)
+- [Taiwanese American Cultural Society of the Capital District (紐約州首府區台美文化促進會)](./taiwanese-american-cultural-society-of-the-capital-district)
+- [Taiwanese American Federation of N. California (北加州)](./taiwanese-american-federation-of-n-california)
+- [Taiwanese American Foundation (TAF)](./taiwan-american-foundation)
+- [Taiwanese American Foundation of San Diego](./taiwanese-american-foundation-of-san-diego)
+- [Taiwanese American Green Society (台美人生活綠化促進會)](./taiwanese-american-green-society)
+- [Taiwanese American Historical Society (TAHS)](./taiwanese-american-historical-society)
+- [Taiwanese American Industrial Technology Association TAITA-East Coast (台美產業科技協會美東分會)](./taiwanese-american-industrial-technology-association-taita-east-coast)
+- [Taiwanese American Lawyers Association (TALA)](./taiwanese-american-lawyers-association)
+- [Taiwanese American Lawyers Association TALA (台美律師協會)](./taiwanese-american-lawyers-association-tala)
+- [Taiwanese American Ma Ma Class DC (大華府區台美人媽媽教室)](./taiwanese-american-ma-ma-class-dc)
+- [Taiwanese American of Dayton (戴頓台灣同鄉會)](./taiwanese-american-of-dayton)
+- [Taiwanese American Organization at the University of Southern California](./taiwanese-american-organization-at-the-university-of-southern-california)
+- [Taiwanese American Organization at UC Davis](./taiwanese-american-organization-at-uc-davis)
+- [Taiwanese American Organization at UC Irvine](./taiwanese-american-organization-at-uc-irvine)
+- [Taiwanese American Outreach Association (台美人交流協會)](./taiwanese-american-outreach-association)
+- [Taiwanese American Pen Club](./taiwanese-american-pen-club)
+- [Taiwanese American Pen Club LA (台美人筆會)](./taiwanese-american-pen-club-la)
+- [Taiwanese American Perspectives](./taiwanese-american-perspectives)
+- [Taiwanese American Photographers Association(TAPA)](./taiwanese-american-photographers-association)
+- [Taiwanese American Professional Society TAPS (西雅圖台美專業協會)](./taiwanese-american-professional-society-taps)
+- [Taiwanese American Professionals Atlanta (台美菁英協會亞特蘭大分會)](./taiwanese-american-professionals-atlanta)
+- [Taiwanese American Professionals Austin](./taiwanese-american-professionals-austin)
+- [Taiwanese American Professionals Boston](./taiwanese-american-professionals-boston)
+- [Taiwanese American Professionals Los Angeles (洛杉磯台美菁英協會)](./taiwanese-american-professionals-los-angeles)
+- [Taiwanese American Professionals New York (台美菁英協會紐約分會)](./taiwanese-american-professionals-new-york)
+- [Taiwanese American Professionals Orange County (台美菁英協會橙縣分會)](./taiwanese-american-professionals-orange-county)
+- [Taiwanese American Professionals San Diego](./taiwanese-american-professionals-san-diego)
+- [Taiwanese American Professionals San Francisco](./taiwanese-american-professionals-san-francisco)
+- [Taiwanese American Professionals Seattle (台美菁英協會西雅圖分會)](./taiwanese-american-professionals-seattle)
+- [Taiwanese American Professionals Washington D.C.](./taiwanese-american-professionals-washington-d-c)
+- [Taiwanese American Religious Study Association](./taiwanese-american-religious-study-association)
+- [Taiwanese American Scholarship Fund (台美獎學金基金會)](./taiwanese-american-scholarship-fund)
+- [Taiwanese American Science and Technology Association TASTA (華府台灣產業科技協會)](./taiwanese-american-science-and-technology-association-tasta)
+- [Taiwanese American Senior Society TASS of Greater Washington DC (大華府台美人長樂會)](./taiwanese-american-senior-society-tass-of-greater-washington-dc)
+- [Taiwanese American Seniors Association of Southern California](./taiwanese-american-seniors-association-of-southern-california)
+- [Taiwanese American Society at Yale](./taiwanese-american-society-at-yale)
+- [Taiwanese American Soft Tennis Association](./taiwanese-american-soft-tennis-association)
+- [Taiwanese American Student Association](./taiwanese-american-student-association)
+- [Taiwanese American Student Association @ Ohio State University](./taiwanese-american-student-association-ohio-state-university)
+- [Taiwanese American Student Association at Case Western Reserve University](./taiwanese-american-student-association-at-case-western-reserve-university)
+- [Taiwanese American Student Association at Cornell](./taiwanese-american-student-association-at-cornell)
+- [Taiwanese American Student Association at Emory University](./taiwanese-american-student-association-at-emory-university)
+- [Taiwanese American Student Association at Georgia Tech](./taiwanese-american-student-association-at-georgia-tech)
+- [Taiwanese American Student Association at Penn State](./taiwanese-american-student-association-at-penn-state)
+- [Taiwanese American Student Association at the University of Maryland, College Park](./taiwanese-american-student-association-at-the-university-of-maryland-college-park)
+- [Taiwanese American Student Association at the University of Michigan](./taiwanese-american-student-association-at-the-university-of-michigan)
+- [Taiwanese American Student Association at UC Berkeley](./taiwanese-american-student-association-at-uc-berkeley)
+- [Taiwanese American Student Association at UC San Diego](./taiwanese-american-student-association-at-uc-san-diego)
+- [Taiwanese American Student Association at UC Santa Barbara](./taiwanese-american-student-association-at-uc-santa-barbara)
+- [Taiwanese American Student Association at UCLA](./taiwanese-american-student-association-at-ucla)
+- [Taiwanese American Student Association at UCR](./taiwanese-american-student-association-at-ucr)
+- [Taiwanese American Students Association](./taiwanese-american-students-association)
+- [Taiwanese American Students Association at Johns Hopkins University](./taiwanese-american-students-association-at-johns-hopkins-university)
+- [Taiwanese American Students Association of Northwestern University](./taiwanese-american-students-association-of-northwestern-university)
+- [Taiwanese American Students Club at UIUC](./taiwanese-american-students-club-at-uiuc)
+- [Taiwanese Association of Alabama Birmingham (伯明罕臺灣同鄉會)](./taiwanese-association-of-alabama-birmingham)
+- [Taiwanese Association of America (全美台灣同鄉會)](./taiwanese-association-of-america)
+- [Taiwanese Association of America Boston (波士頓台灣同鄉會)](./taiwanese-association-of-america-boston)
+- [Taiwanese Association of America Colorado (科羅拉多)](./taiwanese-association-of-america-colorado)
+- [Taiwanese Association of America Dallas-Fort Worth (達拉斯台灣同鄉會)](./taiwanese-association-of-america-dallas-fort-worth)
+- [Taiwanese Association of America Delaware (德拉瓦州)](./taiwanese-association-of-america-delaware)
+- [Taiwanese Association of America East Tennessee (東田納西)](./taiwanese-association-of-america-east-tennessee)
+- [Taiwanese Association of America Greater Philadelphia (大費城)](./taiwanese-association-of-america-greater-philadelphia)
+- [Taiwanese Association of America Greater Washington (華府台灣同鄉會)](./taiwanese-association-of-america-greater-washington)
+- [Taiwanese Association of America Hawaii (夏威夷)](./taiwanese-association-of-america-hawaii)
+- [Taiwanese Association of America in Greater St. Louis (聖路易)](./taiwanese-association-of-america-in-greater-st-louis)
+- [Taiwanese Association of America Las Vegas (拉斯維加斯)](./taiwanese-association-of-america-las-vegas)
+- [Taiwanese Association of America Northern New Jersey (北澤西)](./taiwanese-association-of-america-northern-new-jersey)
+- [Taiwanese Association of America Pittsburgh (匹茲堡)](./taiwanese-association-of-america-pittsburgh)
+- [Taiwanese Association of America San Antonio (聖安東尼)](./taiwanese-association-of-america-san-antonio)
+- [Taiwanese Association of America the Greater Chicago (大芝加哥台灣同鄉會)](./taiwanese-association-of-america-the-greater-chicago)
+- [Taiwanese Association Of America – Detroit TAGD (底特律台灣同鄉會)](./taiwanese-association-of-america-detroit-tagd)
+- [Taiwanese Association of America – Houston Chapter (休士頓台灣同鄉會)](./taiwanese-association-of-america-houston-chapter)
+- [Taiwanese Association of America – New Jersey (紐澤西)](./taiwanese-association-of-america-new-jersey)
+- [Taiwanese Association of America – South Jersey Chapter (南澤西台灣同鄉會)](./taiwanese-association-of-america-south-jersey-chapter)
+- [Taiwanese Association of Cincinnati (辛辛那提)](./taiwanese-association-of-cincinnati)
+- [Taiwanese Association of Greater Kansas City TAKC (大堪薩斯)](./taiwanese-association-of-greater-kansas-city-takc)
+- [Taiwanese Association of Greater Portland (大波特蘭)](./taiwanese-association-of-greater-portland)
+- [Taiwanese Association of Greater Seattle TAGS (大西雅圖區台灣同鄉會)](./taiwanese-association-of-greater-seattle-tags)
+- [Taiwanese Association of Indiana (印州台灣同鄉會)](./taiwanese-association-of-indiana)
+- [Taiwanese Association of M. Kentucky (中肯德基)](./taiwanese-association-of-m-kentucky)
+- [Taiwanese Association of Madison-WI (威斯康星州麥城台灣同鄉會)](./taiwanese-association-of-madison-wi)
+- [Taiwanese Association of Northwest Los Angeles](./taiwanese-association-of-northwest-los-angeles)
+- [Taiwanese Association of Oklahoma (奧克拉荷馬台灣同鄉會)](./taiwanese-association-of-oklahoma)
+- [Taiwanese Association of South Florida (南佛州台灣同鄉會)](./taiwanese-association-of-south-florida)
+- [Taiwanese Association of Students at Tufts](./taiwanese-association-of-students-at-tufts)
+- [Taiwanese Association of Syracuse (雪城台灣同鄉會)](./taiwanese-association-of-syracuse)
+- [Taiwanese Association of Tampa Bay (佛州天霸市台灣同鄉會)](./taiwanese-association-of-tampa-bay)
+- [Taiwanese Association of the Greater Salt Lake (大鹽湖)](./taiwanese-association-of-the-greater-salt-lake)
+- [Taiwanese Association of West Michigan (西密西根台灣同鄉會)](./taiwanese-association-of-west-michigan)
+- [Taiwanese Association of Wisconsin (威斯康辛)](./taiwanese-association-of-wisconsin)
+- [Taiwanese Association – NC Chapter (北卡)](./taiwanese-association-nc-chapter)
+- [Taiwanese Chambers of Commerce of Orange County](./taiwanese-chambers-of-commerce-of-orange-county)
+- [Taiwanese Cultural and Sports Association (台灣文化體育協會)](./taiwanese-cultural-and-sports-association)
+- [Taiwanese Cultural Society at Stanford University](./taiwanese-cultural-society-at-stanford-university)
+- [Taiwanese Dental Association](./taiwanese-dental-association)
+- [Taiwanese Evergreen Academy (矽谷迦南長青學院)](./taiwanese-evergreen-academy)
+- [Taiwanese Graduate and Professional Student Association](./taiwanese-graduate-and-professional-student-association)
+- [Taiwanese Graduate Student Association at UC Davis](./taiwanese-graduate-student-association-at-uc-davis)
+- [Taiwanese Graduate Student Association at UC Irvine](./taiwanese-graduate-student-association-at-uc-irvine)
+- [Taiwanese Graduate Student Association at UVa](./taiwanese-graduate-student-association-at-uva)
+- [Taiwanese Hakka Association of the World](./taiwanese-hakka-association-of-the-world)
+- [Taiwanese Hakka Associations of Southern California](./taiwanese-hakka-associations-of-southern-california)
+- [Taiwanese Heritage Society of Houston (台灣人傳統基金會)](./taiwanese-heritage-society-of-houston)
+- [Taiwanese Import and Export Association of America, Inc. (美國台灣人進出口公會)](./taiwanese-import-and-export-association-of-america-inc)
+- [Taiwanese International Student Association](./taiwanese-international-student-association)
+- [Taiwanese Overseas Student Association at the University of Washington](./taiwanese-overseas-student-association-at-the-university-of-washington)
+- [Taiwanese Overseas Students Association at Boston University](./taiwanese-overseas-students-association-at-boston-university)
+- [Taiwanese Scholar Association in St. Louis TSA-STL (聖路易台灣學者協會)](./taiwanese-scholar-association-in-st-louis-tsa-stl)
+- [Taiwanese Scholar Society](./taiwanese-scholar-society)
+- [Taiwanese Senior Citizen Center (紐約台灣老人聯合會)](./taiwanese-senior-citizen-center)
+- [Taiwanese Sporting Association, New Jersey (紐澤西台灣人運動協會)](./taiwanese-sporting-association-new-jersey)
+- [Taiwanese Student Association](./taiwanese-student-association)
+- [Taiwanese Student Association at Arizona State University](./taiwanese-student-association-at-arizona-state-university)
+- [Taiwanese Student Association at CU](./taiwanese-student-association-at-cu)
+- [Taiwanese Student Association at Georgia Tech](./taiwanese-student-association-at-georgia-tech)
+- [Taiwanese Student Association at NC State](./taiwanese-student-association-at-nc-state)
+- [Taiwanese Student Association at Ohio State University (俄亥俄州立大學台灣同學會)](./taiwanese-student-association-at-ohio-state-university)
+- [Taiwanese Student Association at Syracuse University](./taiwanese-student-association-at-syracuse-university)
+- [Taiwanese Student Association at the University of Southern California](./taiwanese-student-association-at-the-university-of-southern-california)
+- [Taiwanese Student Association at the University of Virginia](./taiwanese-student-association-at-the-university-of-virginia)
+- [Taiwanese Student Association at UC Berkeley](./taiwanese-student-association-at-uc-berkeley)
+- [Taiwanese Student Association at UC Davis](./taiwanese-student-association-at-uc-davis)
+- [Taiwanese Student Association at UC Irvine](./taiwanese-student-association-at-uc-irvine)
+- [Taiwanese Student Association at UC Santa Barbara](./taiwanese-student-association-at-uc-santa-barbara)
+- [Taiwanese Student Association at UCLA](./taiwanese-student-association-at-ucla)
+- [Taiwanese Student Association at UIUC](./taiwanese-student-association-at-uiuc)
+- [Taiwanese Student Association at University of Washington](./taiwanese-student-association-at-university-of-washington)
+- [Taiwanese Student Association for Public Affairs (台灣公共事務學生會華大分會)](./taiwanese-student-association-for-public-affairs)
+- [Taiwanese Student Association TSA](./taiwanese-student-association-tsa)
+- [Taiwanese Student Association – All-University](./taiwanese-student-association-all-university)
+- [Taiwanese Student Business Association](./taiwanese-student-business-association)
+- [Taiwanese Student Society](./taiwanese-student-society)
+- [Taiwanese Students Association](./taiwanese-students-association)
+- [Taiwanese Undergraduate Student Organization](./taiwanese-undergraduate-student-organization)
+- [Taiwanese Youth Arts Foundation / Washington DC (華府台灣人青少年才藝基金會)](./taiwanese-youth-arts-foundation-washington-dc)
+- [Taiwanese-America Seniors Association of Southern California TASA (南加州台灣人長輩會)](./taiwanese-america-seniors-association-of-southern-california-tasa)
+- [Taiwanese-American Elite Foundation (台美智庫基金會)](./taiwanese-american-elite-foundation)
+- [Taiwanese-American Foundation](./taiwanese-american-foundation)
+- [Taiwanese-American Foundation of Boston (波士頓台美基金會)](./taiwanese-american-foundation-of-boston)
+- [Taiwanese-American Irvine’s Eagle Brotherhood Group -Irvine (台美人)](./taiwanese-american-irvines-eagle-brotherhood-group-irvine)
+- [Taiwanese-American Religious Study Association Southern California TARSA-SC (台美人信仰與人文研習會)](./taiwanese-american-religious-study-association-southern-california-tarsa-sc)
+- [taiwanjustice.net (台灣公義網)](./taiwanjustice-net)
+- [Tennessee Taiwanese Association (田納西州大納許維爾台灣同鄉會)](./tennessee-taiwanese-association)
+- [Texas College Station Taiwan Study Club (德州卡城台灣研究社)](./texas-college-station-taiwan-study-club)
+- [Texas Formosa Fishing Association (德州台灣釣魚協會)](./texas-formosa-fishing-association)
+- [Texas Taiwanese Biotechnology Association (德州台灣生物科技協會)](./texas-taiwanese-biotechnology-association)
+- [THE BOARD OF TAIWANESE AMERICAN CONFERENCES – WEST COAST TAC-WC (美西台灣人夏令會理事會)](./the-board-of-taiwanese-american-conferences-west-coast-tac-wc)
+- [The Chuan Lyu Foundation (川流基金會)](./the-chuan-lyu-foundation)
+- [The Great New York Region-Oversea Taiwanese Pen Club (大紐約區海外台灣人筆會)](./the-great-new-york-region-oversea-taiwanese-pen-club)
+- [The Kee-Jen Education of Arts Foundation](./the-kee-jen-education-of-arts-foundation)
+- [The Life Enrichment Club (暢樂人生社)](./the-life-enrichment-club)
+- [The North America Taiwanese Students’ Association TSA-NA (北美台灣學生協會)](./the-north-america-taiwanese-students-association-tsa-na)
+- [The Yinchin Foundation](./the-yinchin-foundation)
+- [TPC — Taiwanese Presbyterian Churches (not PCT)](./tpc)
+- [TSUNAH FOUNDATION (慈林教育基金會)](./tsunah-foundation)
+- [TUF(Taiwanese United Fund)](./taiwanese-united-fund)
+- [Tyzen Hsiao Foundation (蕭泰然基金會)](./tyzen-hsiao-foundation)
+- [TYZEN HSIAO MUSIC WORKS (蕭泰然音樂基金會)](./tyzen-hsiao-music-works)
+- [〈TASS-EB〉 (北加州東灣台美人長樂會)](./tass-eb)
+
+### U {#u}
+
+- [UCLA Taiwanese American Union](./ucla-taiwanese-american-union)
+- [UCR United Taiwanese Student Association](./ucr-united-taiwanese-student-association)
+- [UF Society of Taiwanese and Hong Kong Students](./uf-society-of-taiwanese-and-hong-kong-students)
+- [UF Taiwanese Student Association](./uf-taiwanese-student-association)
+- [United Formosans for Independence UFI (台獨聯盟)](./united-formosans-for-independenceufi)
+- [United Taiwanese Association at UC San Diego](./united-taiwanese-association-at-uc-san-diego)
+- [Universal Door Foundation (美音基金會)](./universal-door-foundation)
+- [University of Maryland Taiwanese Student Association](./university-of-maryland-taiwanese-student-association)
+- [University of Minnesota Taiwanese Student Association](./university-of-minnesota-taiwanese-student-association)
+- [University of North Carolina at Chapel Hill Taiwanese Student Association](./university-of-north-carolina-at-chapel-hill-taiwanese-student-association)
+- [UPenn TESOL Taiwanese Student Association](./upenn-tesol-taiwanese-student-association)
+- [UW iTaiwan Graduate Students and Professional Organization](./uw-itaiwan-graduate-students-and-professional-organization)
+
+### V {#v}
+
+- [Vanderbilt TSSA (范德堡大學臺灣同學會)](./vanderbilt-tssa)
+
+### W {#w}
+
+- [Wellbrook Foundation (美國美溪慈善基金會)](./wellbrook-foundation)
+- [Wellesley Taiwanese Cultural Organization](./wellesley-taiwanese-cultural-organization)
+- [Westchester Taiwanese Women’s Association WTWA (威郡台灣婦女會)](./westchester-taiwanese-womens-associationwtwa)
+- [World Taiwan Foundation (世台聯合基金會)](./world-taiwan-foundation)
+
+### Y {#y}
+
+- [Yale Taiwanese Student Association](./yale-taiwanese-student-association)
+- [Yang Foundation (楊文傑紀念基金會)](./yang-foundation)
+- [YIN CHIN FOUNDATION OF U.S.A. (美國殷勤文教公益基金會)](./yin-chin-foundation-of-u-s-a)
+- [Youth Orchestra, CYCNY (紐約幼獅青少年管弦樂團)](./youth-orchestra-cycny)

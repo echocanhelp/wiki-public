@@ -4,2544 +4,2383 @@ type: index
 tags:
   - people
   - index
-description: Directory of Taiwanese American person records in Echopedia — clergy, elders, theologians, organizers, and community builders.
-last_reviewed: 2026-07-13
+last_reviewed: 2026-08-18
 ---
 
 # People
 
-Person records in **Echopedia**. Names keep Chinese characters and romanized forms where available. Entries marked *verification needed* are conservative drafts.
+Person records in **Echopedia**. Names keep Chinese characters and romanized forms where a source already has them (CONTROL invariant 11 — no converter-invented POJ/Tâi-lô).
 
-## How to find someone
-
-On a phone, **use header search** (漢名 or English). This page is a long A–Z list for desktop browsing.
+On a phone, **use header search** (漢名 or English). This page is an A–Z list.
 
 ## Directory
 
-<div class="echo-az">
-<a href="#a">A</a>
-<a href="#b">B</a>
-<a href="#c">C</a>
-<a href="#d">D</a>
-<a href="#e">E</a>
-<a href="#f">F</a>
-<a href="#g">G</a>
-<a href="#h">H</a>
-<a href="#i">I</a>
-<a href="#j">J</a>
-<a href="#k">K</a>
-<a href="#l">L</a>
-<a href="#m">M</a>
-<a href="#n">N</a>
-<a href="#o">O</a>
-<a href="#p">P</a>
-<a href="#q">Q</a>
-<a href="#r">R</a>
-<a href="#s">S</a>
-<a href="#t">T</a>
-<a href="#v">V</a>
-<a href="#w">W</a>
-<a href="#x">X</a>
-<a href="#y">Y</a>
-<a href="#z">Z</a>
-<a href="#other">#</a>
-</div>
+[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [Q](#q) · [R](#r) · [S](#s) · [T](#t) · [V](#v) · [W](#w) · [X](#x) · [Y](#y) · [Z](#z)
 
-<h3 id="a">A</h3>
-- [[people/a-n-liu|A. N. Liu (劉安諾)]]
-- [[people/abby-hong|Abby Hong]]
-- [[people/adam-chang|Adam Chang (張耀元博士)]]
-- [[people/adrian-lin|Adrian Lin (林宣緒)]]
-- [[people/agnes-hsiao|Agnes Hsiao (黃美琇)]]
-- [[people/agnes-hsu|Agnes Hsu (許芝榕)]]
-- [[people/agnes-wu|Agnes Wu (姜瑞香)]]
-- [[people/ahhee-hsu|Ahhee Hsu (許丕龍)]]
-- [[people/ai-jen-poo|Ai-Jen Poo (蒲艾真)]]
-- [[people/alan-su|Alan Su (蘇德源)]]
-- [[people/alan-t-chen|ALAN T. CHEN (陳清風)]]
-- [[people/alan-thian|Alan Thian (田詒鴻)]]
-- [[people/alan-yang|Alan Yang (楊維榕)]]
-- [[people/albert-chapter1-zh-hsiaochen-full-review|Albert Ch.1 ZH full — HsiaoChen evaluation (SKU B gate)]]
-- [[people/albert-chapter1-zh-review|Albert Ch.1 ZH audiobook review (zh-TW voice bake-off)]]
-- [[people/albert-chapter1-zh-review-v2|Albert Ch.1 ZH audiobook review (zh-TW voice bake-off)]]
-- [[people/albert-en-sku-a-scratch-review|Albert EN SKU A audiobook scratch — full book review]]
-- [[people/albert-g-chang|Albert G. Chang (章錦華)]]
-- [[people/alex-hsuan-yu-lee|Alex Hsuan-Yu Lee (李軒宇博士)]]
-- [[people/alexander-k-young|Alexander K. Young (楊慶安教授)]]
-- [[people/alexander-m-lee|ALEXANDER M. LEE (李豪台)]]
-- [[people/alexander-yeh|Alexander Yeh (葉怡平)]]
-- [[people/alice-chen|Alice Chen (陳祐慈)]]
-- [[people/alice-yu|Alice Yu (游陳鈴津)]]
-- [[people/allen-chang|Allen Chang (張伯寬)]]
-- [[people/allen-chao|Allen Chao (趙宇天博士)]]
-- [[people/alvina-ling|Alvina Ling (林佑珊)]]
-- [[people/amanda-hsu|Amanda Hsu (許惠敏)]]
-- [[people/amanda-shumin-yang|Amanda Shumin Yang (方書敏)]]
-- [[people/amanda-wu|Amanda Wu]]
-- [[people/amber-liao|Amber Liao (廖幼萱)]]
-- [[people/amelia-wu|Amelia Wu (吳姍姍)]]
-- [[people/amenda-wu|Amenda Wu]]
-- [[people/amy-chun-ting-chao|Amy Chun-Ting Chao (趙君婷)]]
-- [[people/amy-hsieh|Amy Hsieh (謝孟容)]]
-- [[people/amy-hsu|Amy Hsu (蘇惠美)]]
-- [[people/amy-liao|Amy Liao (廖允民)]]
-- [[people/amy-lin|Amy Lin (林惠美)]]
-- [[people/an-su-gao-lai|An-Su Gao Lai (賴高安賜)]]
-- [[people/andre-yang|Andre Yang (楊基定)]]
-- [[people/andrew-chen|Andrew Chen (陳威光博士)]]
-- [[people/andrew-lin|Andrew Lin (林昇彬牧師)]]
-- [[people/andrew-wu|Andrew Wu]]
-- [[people/andrew-y-lee|Andrew Y. Lee (李友義博士)]]
-- [[people/andrew-yang|Andrew Yang (楊安澤)]]
-- [[people/andy-chang|Andy Chang (張繼昭博士)]]
-- [[people/andy-yang|Andy Yang]]
-- [[people/ang-lee|Ang Lee (李安)]]
-- [[people/ang-lee-2|Ang Lee (李安)]]
-- [[people/angellee-shaw-chen|Angellee Shaw Chen (陳安仁理博士)]]
-- [[people/angie-chen-button|Angie Chen Button (陳筱玲)]]
-- [[people/anita-chia-jung-lin|Anita Chia-Jung Lin (林佳蓉)]]
-- [[people/anita-wen-shin-chang|Anita Wen-Shin Chang (張文馨)]]
-- [[people/anna-chang|Anna Chang (張月英)]]
-- [[people/anna-lee|Anna Lee (李宛蓉)]]
-- [[people/anne-h-chow|Anne H. Chow]]
-- [[people/anne-ku|Anne Ku]]
-- [[people/anne-ku-2|Anne Ku]]
-- [[people/anne-shih|Anne Shih (施劉秀枝)]]
-- [[people/annie-chuan|Annie Chuan (權雋文)]]
-- [[people/annie-lee|Annie Lee (李大妮)]]
-- [[people/anny-hung|Anny Hung (洪磊螢)]]
-- [[people/anny-yun-an|Anny Yun-An (陳韻安)]]
-- [[people/apo-hsu|Apo Hsu (許瀞心)]]
-- [[people/april-lin|April Lin (林淑卿)]]
-- [[people/ariel-wei|Ariel Wei]]
-- [[people/arnold-j-lee|Arnold J. Lee (李仁旭)]]
-- [[people/arthur-h-wu|Arthur H. Wu (吳漢南)]]
-- [[people/ashley-chen|Ashley Chen (陳祐萱)]]
-- [[people/ashton-hsu|Ashton Hsu (許思敦)]]
-- [[people/audrey-lo|Audrey Lo]]
-- [[people/austin-ko|Austin Ko]]
-- [[people/albert-chapter1-audiobook-consent-and-recording-kit|Albert Ch.1 audiobook consent kit]]
-- [[people/albert-chapter1-audiobook-taiwanese-female|Albert Ch.1 audiobook (Taiwanese female)]]
-- [[people/albert-chapter1-en-review|Albert Ch.1 EN audiobook review (Christopher scratch)]]
+### A {#a}
 
-<h3 id="b">B</h3>
-- [[people/b-c-hsu|B. C. Hsu (許炳堅博士)]]
-- [[people/b-h-chen|B. H. Chen (陳炳煌)]]
-- [[people/b-michael-yeun|B. Michael Yeun (楊明昊)]]
-- [[people/b-n-huang|B. N. Huang (黃邦男)]]
-- [[people/bach-ying-chun-wu|Bach Ying-Chun Wu (吳英俊)]]
-- [[people/bai-peiyu|Bai Peiyu / 白佩玉]]
-- [[people/bang-h-hwang|Bang H. Hwang (黃邦雄)]]
-- [[people/bao-tyan-wang|Bao-Tyan Wang (王寶田博士)]]
-- [[people/beatrice-long|Beatrice Long (隆信真)]]
-- [[people/becky-yang|Becky Yang]]
-- [[people/bei-hung-kuo|Bei Hung Kuo (郭倍宏博士)]]
-- [[people/ben-hong|Ben Hong (洪本倫)]]
-- [[people/ben-mezrich|Ben Mezrich (賓梅立克)]]
-- [[people/benjamin-wu|Benjamin Wu (吳旭淳博士)]]
-- [[people/benny-lee|Benny Lee (李永杰)]]
-- [[people/bernard-huang|Bernard Huang (黃伯文)]]
-- [[people/bi-khim-hsiao|Bi-khim Hsiao (蕭美琴)]]
-- [[people/bianca-liang|Bianca Liang (梁沁茵)]]
-- [[people/bill-lee|Bill Lee (李君偉)]]
-- [[people/bob-in-yu-yang|Bob In-Yu Yang (楊英育)]]
-- [[people/bob-j-wu|Bob J. Wu (吳瑞椿)]]
-- [[people/bob-lin|Bob Lin (林志文)]]
-- [[people/bonnie-yang|Bonnie Yang (陳佳芬)]]
-- [[people/borcheng-hsu|BorCheng Hsu (許伯丞)]]
-- [[people/brian-hioe|Brian Hioe (丘琦欣)]]
-- [[people/brian-lee|Brian Lee (李捷緒)]]
-- [[people/butteryfly-chong|Butteryfly Chong (張翠蝶)]]
-- [[people/hu-gstpc|Brother Hu (GSTPC, verification needed)]]
-- [[people/ku-gstpc|Brother Ku (GSTPC, verification needed)]]
-- [[people/wang-gstpc|Brother Wang (GSTPC, verification needed)]]
+- [A. N. Liu (劉安諾)](./a-n-liu)
+- [Abby Hong](./abby-hong)
+- [Adam Chang (張耀元博士)](./adam-chang)
+- [Adrian Lin (林宣緒)](./adrian-lin)
+- [Agnes Hsiao (黃美琇)](./agnes-hsiao)
+- [Agnes Hsu (許芝榕)](./agnes-hsu)
+- [Agnes Wu (姜瑞香)](./agnes-wu)
+- [Ahhee Hsu (許丕龍)](./ahhee-hsu)
+- [Ai-Jen Poo (蒲艾真)](./ai-jen-poo)
+- [Alan Su (蘇德源)](./alan-su)
+- [ALAN T. CHEN (陳清風)](./alan-t-chen)
+- [Alan Thian (田詒鴻)](./alan-thian)
+- [Alan Yang (楊維榕)](./alan-yang)
+- [Albert G. Chang (章錦華)](./albert-g-chang)
+- [Alex Hsuan-Yu Lee (李軒宇博士)](./alex-hsuan-yu-lee)
+- [Alexander K. Young (楊慶安教授)](./alexander-k-young)
+- [ALEXANDER M. LEE (李豪台)](./alexander-m-lee)
+- [Alexander Yeh (葉怡平)](./alexander-yeh)
+- [Alice Chen (陳祐慈)](./alice-chen)
+- [Alice Yu (游陳鈴津)](./alice-yu)
+- [Allen Chang (張伯寬)](./allen-chang)
+- [Allen Chao (趙宇天博士)](./allen-chao)
+- [Alvina Ling (林佑珊)](./alvina-ling)
+- [Amanda Hsu (許惠敏)](./amanda-hsu)
+- [Amanda Shumin Yang (方書敏)](./amanda-shumin-yang)
+- [Amanda Wu](./amanda-wu)
+- [Amber Liao (廖幼萱)](./amber-liao)
+- [Amelia Wu (吳姍姍)](./amelia-wu)
+- [Amenda Wu](./amenda-wu)
+- [Amy Chun-Ting Chao (趙君婷)](./amy-chun-ting-chao)
+- [Amy Hsieh (謝孟容)](./amy-hsieh)
+- [Amy Hsu (蘇惠美)](./amy-hsu)
+- [Amy Liao (廖允民)](./amy-liao)
+- [Amy Lin (林惠美)](./amy-lin)
+- [An-Su Gao Lai (賴高安賜)](./an-su-gao-lai)
+- [Andre Yang (楊基定)](./andre-yang)
+- [Andrew Chen (陳威光博士)](./andrew-chen)
+- [Andrew Lin (林昇彬牧師)](./andrew-lin)
+- [Andrew Wu](./andrew-wu)
+- [Andrew Y. Lee (李友義博士)](./andrew-y-lee)
+- [Andrew Yang (楊安澤)](./andrew-yang)
+- [Andy Chang (張繼昭博士)](./andy-chang)
+- [Andy Yang](./andy-yang)
+- [Ang Lee (李安)](./ang-lee-2)
+- [Ang Lee (李安)](./ang-lee)
+- [Angellee Shaw Chen (陳安仁理博士)](./angellee-shaw-chen)
+- [Angie Chen Button (陳筱玲)](./angie-chen-button)
+- [Anita Chia-Jung Lin (林佳蓉)](./anita-chia-jung-lin)
+- [Anita Wen-Shin Chang (張文馨)](./anita-wen-shin-chang)
+- [Anna Chang (張月英)](./anna-chang)
+- [Anna Lee (李宛蓉)](./anna-lee)
+- [Anne H. Chow](./anne-h-chow)
+- [Anne Ku](./anne-ku-2)
+- [Anne Ku](./anne-ku)
+- [Anne Shih (施劉秀枝)](./anne-shih)
+- [Annie Chuan (權雋文)](./annie-chuan)
+- [Annie Lee (李大妮)](./annie-lee)
+- [Anny Hung (洪磊螢)](./anny-hung)
+- [Anny Yun-An (陳韻安)](./anny-yun-an)
+- [Apo Hsu (許瀞心)](./apo-hsu)
+- [April Lin (林淑卿)](./april-lin)
+- [Ariel Wei](./ariel-wei)
+- [Arnold J. Lee (李仁旭)](./arnold-j-lee)
+- [Arthur H. Wu (吳漢南)](./arthur-h-wu)
+- [Ashley Chen (陳祐萱)](./ashley-chen)
+- [Ashton Hsu (許思敦)](./ashton-hsu)
+- [Audrey Lo](./audrey-lo)
+- [Austin Ko](./austin-ko)
 
-<h3 id="c">C</h3>
-- [[people/c-a-chou|C. A. Chou 哲 安 (周明安博士)]]
-- [[people/c-b-chien|C. B. Chien (簡錦標)]]
-- [[people/c-b-ku|C. B. Ku (辜澄彬)]]
-- [[people/c-c-chang|C. C. Chang (張健昌醫師)]]
-- [[people/c-c-chao|C. C. Chao (趙誌諄)]]
-- [[people/c-c-chung|C. C. Chung (鍾振乾)]]
-- [[people/c-c-hsiao|C. C. Hsiao (蕭忠正)]]
-- [[people/c-c-hsieh|C. C. Hsieh (謝正忠)]]
-- [[people/c-c-lin|C. C. Lin (林振昌)]]
-- [[people/c-c-su|C. C. Su (蘇仲卿博士)]]
-- [[people/c-c-tsai|C. C. Tsai (蔡清枝)]]
-- [[people/c-c-yang|C. C. Yang (楊朝諄)]]
-- [[people/c-f-liang|C.F. Liang (梁昌夫)]]
-- [[people/c-h-chen|C. H. Chen (陳初雄)]]
-- [[people/c-h-chiang|C. H. Chiang (蔣政宏博士)]]
-- [[people/c-h-chris-liang|C.H. Chris Liang (梁志宏)]]
-- [[people/c-h-kuo|C. H. Kuo (郭忠豪)]]
-- [[people/c-h-lin|C. H. Lin (林建宏)]]
-- [[people/c-h-sun|C. H. Sun (孫曲回牧師)]]
-- [[people/c-j-chang|C. J. Chang (張家禎)]]
-- [[people/c-j-chen|C. J. Chen (陳銓仁)]]
-- [[people/c-k-kuo|C. K. Kuo (郭重國)]]
-- [[people/c-k-lee|C. K. Lee (李世光)]]
-- [[people/c-k-lo|C.K. Lo (羅劍寬)]]
-- [[people/c-l-hong|C. L. Hong (洪健棣牧師)]]
-- [[people/c-l-yin|C. L. Yin (殷清隆)]]
-- [[people/c-lee-chang|C. Lee Chang (李長堅博士)]]
-- [[people/c-m-cecilia-huang|C. M. Cecilia Huang (黃晴美)]]
-- [[people/c-m-fan|C. M. Fan (范清美)]]
-- [[people/c-m-yang|C. M Yang (楊啓明)]]
-- [[people/c-n-chen|C. N. Chen (陳建南)]]
-- [[people/c-p-huang|C. P. Huang (黃澄波)]]
-- [[people/c-r-huang|C. R. Huang (黃朝榮)]]
-- [[people/c-s-fu|C.S. Fu (傅舟山)]]
-- [[people/c-s-hsu|C. S. Hsu (許清松)]]
-- [[people/c-s-huang|C. S. Huang (黃千洵)]]
-- [[people/c-t-huang|C. T. Huang (黃昭騰)]]
-- [[people/c-t-lee|C. T. Lee (李青泰)]]
-- [[people/c-w-wu|C. W. Wu (吳成文)]]
-- [[people/c-y-chang|C. Y. Chang (張謙益)]]
-- [[people/c-y-chen|C. Y. Chen (陳黃群雁)]]
-- [[people/c-y-hsu|C.Y. Hsu (許贊育)]]
-- [[people/c-y-huang|C.Y. Huang (黃清燕)]]
-- [[people/c-y-lee|C. Y. Lee (李欽勇博士)]]
-- [[people/c-y-liu|C. Y. Liu (劉晴吟)]]
-- [[people/c-y-tsai|C. Y. Tsai (蔡嘉寅)]]
-- [[people/c-y-wang|C. Y. Wang (王振源)]]
-- [[people/cady-tsai|Cady Tsai (蔡暉玲)]]
-- [[people/caleb-tsai|Caleb Tsai (蔡登燦)]]
-- [[people/cao-changqing|Cao Changqing / 曹長青]]
-- [[people/carol-cho|Carol Cho (林秋菊)]]
-- [[people/carol-kuo|Carol Kuo (簡雁齡)]]
-- [[people/carol-lee|Carol Lee (李欣蔓)]]
-- [[people/carol-ou-lin|Carol Ou Lin (歐春美)]]
-- [[people/carole-huang|Carole Huang (陳春華)]]
-- [[people/caroline-chien|Caroline Chien (簡淑津)]]
-- [[people/carolyn-kuan|Carolyn Kuan (關琦安)]]
-- [[people/carrie-y-tseng|Carrie Y. Tseng (曾郁庭博士)]]
-- [[people/castor-yu|Castor Yu (尤中正)]]
-- [[people/catherine-hwang|Catherine Hwang (黃李彩雲)]]
-- [[people/catherine-ken|Catherine Ken (耿懿芝)]]
-- [[people/catherine-lan|Catherine Lan (藍巧茹)]]
-- [[people/chang-i-tsai|Chang-I Tsai (蔡正一)]]
-- [[people/chang-kuo-hsin|Chang Kuo-hsin (張國鑫博士)]]
-- [[people/chang-yong-tsao|Chang-Yong Tsao (曹昌榮)]]
-- [[people/chao-hsiung-hsu|Chao-Hsiung Hsu (許昭雄醫師)]]
-- [[people/chao-huei-jeffrey-wang|Chao-Huei Jeffrey Wang (王肇輝)]]
-- [[people/chao-nan-liu|Chao-Nan Liu (劉照男)]]
-- [[people/chao-sile|Chao Sile / 趙思樂]]
-- [[people/chao-w-chen|Chao W Chen (陳昭文)]]
-- [[people/chao-yuh-yang|Chao-Yuh Yang (楊朝諭)]]
-- [[people/charlene-bos-alexander|Charlene Bos Alexander (莫霞琳)]]
-- [[people/charlene-chen|Charlene Chen (陳怡林)]]
-- [[people/charles-cheng-chu-wu|Charles Cheng-Chu Wu (吳政智)]]
-- [[people/charles-chiang|Charles Chiang (江昭儀)]]
-- [[people/charles-hsiao|Charles Hsiao (蕭俊雄)]]
-- [[people/charles-huang|Charles Huang (黃啟仁)]]
-- [[people/charles-ke|Charles Ke (柯烱輝)]]
-- [[people/charles-lu|Charles Lu (盧常吉)]]
-- [[people/charles-ting|Charles Ting (丁昭昇)]]
-- [[people/charles-tsai|Charles Tsai (蔡其芳)]]
-- [[people/charles-w-tang|Charles W. Tang (唐瑋廷)]]
-- [[people/charles-yu|Charles Yu (游朝凱)]]
-- [[people/charlie-wang|Charlie Wang (王清圻)]]
-- [[people/che-hsuan-lin|Che-Hsuan Lin (林哲瑄)]]
-- [[people/che-yen-chen|Che-Yen Chen (陳則言)]]
-- [[people/chee-hway-tsai|Chee-Hway Tsai (蔡啟輝)]]
-- [[people/cheh-jen-su|Cheh-Jen Su (蘇哲仁)]]
-- [[people/chen-chang-lee|Chen Chang Lee (李振昌)]]
-- [[people/chen-chao-wang|Chen-Chao Wang (王震昭)]]
-- [[people/chen-jung-hsu|Chen-Jung Hsu (許振榮)]]
-- [[people/chen-maoxiong|Chen Mao-xiong (陳茂雄)]]
-- [[people/chen-meihui|Chen Meihui (陳美蕙)]]
-- [[people/chen-ming-wang|Chen-Ming Wang (王建民)]]
-- [[people/chen-po-kong|Chen Po-kong (陳破空)]]
-- [[people/chen-shuibian|Chen Shui-bian (陳水扁)]]
-- [[people/chen-zhaonan|Chen Chao-nan (陳昭南)]]
-- [[people/chen-zhefu-xu-chunhui|Chen Zhefu & Xu Chunhui (陳哲夫、許春惠)]]
-- [[people/cheng-hou-lee|Cheng-Hou Lee (李振豪)]]
-- [[people/cheng-long-tsai|Cheng Long Tsai (蔡正隆博士)]]
-- [[people/cheng-ming-chuong|Cheng-Ming Chuong (鍾正明)]]
-- [[people/cheng-shen-fang|Cheng-Shen Fang (范振聲教授)]]
-- [[people/cheng-wu|Cheng Wu (吳錦城)]]
-- [[people/cheng-y-chuang|Cheng Y. Chuang (莊承業)]]
-- [[people/cheng-yan-kao|Cheng-yan Kao (高成炎)]]
-- [[people/cheng-yu-wei|Cheng-Yu Wei (魏琤郁)]]
-- [[people/cheng-yung-kuo|Cheng-Yung Kuo (郭正雍)]]
-- [[people/chenhung-chen|Chenhung Chen (陳貞宏)]]
-- [[people/chenming-hu|Chenming Hu (胡正明)]]
-- [[people/cherie-jeng|Cherie Jeng]]
-- [[people/chern-hsiung-lai|Chern-Hsiung Lai (賴辰雄)]]
-- [[people/cherry-chi|Cherry Chi (紀江蒨)]]
-- [[people/cheryl-lin-hong|Cheryl Lin Hong (林千千)]]
-- [[people/chester-cherng-chiou-wu|Chester Cherng Chiou Wu (吳澄秋博士)]]
-- [[people/chi-chen-wu|Chi-Chen Wu (吳紀禛)]]
-- [[people/chi-chin-huang|Chi-Chin Huang (黃際鑫)]]
-- [[people/chi-ching-grace-lin|Chi-Ching Grace Lin (林季靜)]]
-- [[people/chi-jen-christopher-chung|Chi-Jen Christopher Chung (鍾啓仁)]]
-- [[people/chi-lin-oyoung|Chi-Lin O’Young (歐陽吉林)]]
-- [[people/chi-shih-huang|Chi Shih Huang (黃及時)]]
-- [[people/chi-shun-hwang|Chi-Shun Hwang (黃智舜)]]
-- [[people/chi-yi-chen|Chi Yi Chen (陳志宐)]]
-- [[people/chi-yin-chen|Chi-Yin Chen]]
-- [[people/chi-yuan-chen|Chi-Yuan Chen (陳麒元)]]
-- [[people/chia-ching-liu|Chia-Ching Liu (劉嘉慶)]]
-- [[people/chia-chun-chung|Chia-Chun Chung (鍾佳君)]]
-- [[people/chia-chun-jessica-hu|Chia Chun Jessica Hu (胡佳君)]]
-- [[people/chia-hsuan-lee|Chia-Hsuan Lee (李佳璇)]]
-- [[people/chia-jen-lo|Chia-Jen Lo (羅嘉仁)]]
-- [[people/chia-lin-charles-liu|Chia-Lin Charles Liu (劉家麟)]]
-- [[people/chia-ling-chien|Chia-Ling Chien (簡嘉琳)]]
-- [[people/chia-wei-lee|Chia Wei Lee (李佳蔚)]]
-- [[people/chia-yu-hsu|Chia-Yu Hsu (許家毓博士)]]
-- [[people/chiao-jung-wang|Chiao-jung Wang (王巧蓉)]]
-- [[people/chieh-huang|Chieh Huang]]
-- [[people/chien-an-chen|Chien-An Chen (陳建安)]]
-- [[people/chien-feng-jeffrey-wang|Chien-Feng Jeffrey Wang (王劍峯博士)]]
-- [[people/chien-tai-chen|Chien-Tai Chen (陳建台)]]
-- [[people/chien-ting-yeh|Chien-Ting Yeh (葉介庭)]]
-- [[people/chih-chen-wei|Chih-Chen Wei (魏志真)]]
-- [[people/chih-cheng-wang|Chih-cheng Wang (王志成)]]
-- [[people/chih-long-hu|Chih-Long Hu (胡志龍)]]
-- [[people/chih-ming-ho|Chih-Ming Ho (何志明)]]
-- [[people/chih-wei-hu|Chih-Wei Hu (胡智為)]]
-- [[people/chih-wei-logan-hsu|Chih-Wei Logan Hsu]]
-- [[people/chih-y-kuo|Chih Y Kuo (郭欽義教授)]]
-- [[people/chih-yi-chen|Chih-Yi Chen (陳志毅)]]
-- [[people/chihchun-chi-sun-lee|Chihchun Chi-sun Lee (李志純)]]
-- [[people/chihmei-lin-chen|Chihmei Lin Chen (林智美)]]
-- [[people/chin-cha-cheng|Chin-Cha Cheng (鄭錦家)]]
-- [[people/chin-chih-yang|Chin Chih Yang (楊金池)]]
-- [[people/chin-feng-chen|Chin-Feng Chen (陳金鋒)]]
-- [[people/chin-h-liao|Chin H. Liao (廖俊惠醫師)]]
-- [[people/chin-hsin-jason-liu|Chin-Hsin Jason Liu (劉進興)]]
-- [[people/chin-hui-lee|Chin-Hui Lee (李錦輝)]]
-- [[people/chin-hui-tsao|Chin-Hui Tsao (曹錦輝)]]
-- [[people/chin-lung-hu|Chin-Lung Hu (胡金龍)]]
-- [[people/chin-yi-lee|Chin-Yi Lee (李琹怡)]]
-- [[people/ching-chih-chen|Ching-Chih Chen (陳清池)]]
-- [[people/ching-ching-cernada|Ching Ching Cernada (陳清清)]]
-- [[people/ching-ching-chen|Ching Ching Chen (鄭青青)]]
-- [[people/ching-chong-huang|Ching-Chong Huang (黃慶鍾醫師)]]
-- [[people/ching-fen-hsiao|Ching-Fen Hsiao (蕭清芬)]]
-- [[people/ching-fen-lin|Ching-Fen Lin (張靜芬)]]
-- [[people/ching-fen-lin-2|Ching Fen Lin (林青棻)]]
-- [[people/ching-ih-wang|Ching Ih Wang (王進益)]]
-- [[people/ching-jang-yao|Ching-Jang Yao (姚慶章)]]
-- [[people/ching-ju-cheng|Ching-Ju Cheng (鄭靜如)]]
-- [[people/ching-ming-cheng|Ching-Ming Cheng (鄭靜旻)]]
-- [[people/ching-nan-ou|Ching-Nan Ou (歐清南)]]
-- [[people/ching-sze-hsieh|Ching Sze Hsieh (謝清志博士)]]
-- [[people/ching-wen-hsiao|Ching-Wen Hsiao (蕭晴文)]]
-- [[people/ching-yu-soar-huang|Ching-Yu Soar Huang (黃菁瑜)]]
-- [[people/ching-yun-hu|Ching-Yun Hu (胡瀞云)]]
-- [[people/ching-yung-lee|Ching Yung Lee (李慶榮)]]
-- [[people/chingmhu-lee|Chingmhu Lee (李清木)]]
-- [[people/chinying-rachel-chang|Chinying Rachel Chang (張金鶯)]]
-- [[people/chio-zong-frank-chen|Chio-Zong Frank Chen (陳秋榮)]]
-- [[people/chiu-ling-lin|Chiu-Ling Lin (林巧琳)]]
-- [[people/chiu-sen-wang|Chiu-Sen Wang (王秋森教授)]]
-- [[people/chiuder-hsiao|Chiuder Hsiao (蕭秋德)]]
-- [[people/chiun-teng-cheng|Chiun-Teng Cheng (鄭俊騰)]]
-- [[people/chiung-hsiung-ou|Chiung-Hsiung Ou (歐炯雄)]]
-- [[people/cho-liang-lin|Cho-Liang Lin (林昭亮)]]
-- [[people/chong-ming-lee|Chong Ming Lee (李聰敏)]]
-- [[people/chou-long-huang|Chou-Long Huang (黃朝龍)]]
-- [[people/chris-cn-chang|Chris CN Chang (張照男)]]
-- [[people/christina-hu|Christina Hu (胡若涵)]]
-- [[people/christina-lai|Christina Lai (賴李煦煦)]]
-- [[people/christina-shuyu-hsu|Christina Shuyu Hsu (許吳漱玉)]]
-- [[people/christina-yung-chin-mollard|Christina Yung-Chin Mollard (謝永芹)]]
-- [[people/christine-l-yang|Christine L. Yang (林壽英)]]
-- [[people/christopher-lin|Christopher Lin (林楷夫)]]
-- [[people/chu-c-falling-star|Chu C. Falling-Star (黃初娟)]]
-- [[people/chu-chi-chen|Chu-Chi Chen (陳珠琦醫師)]]
-- [[people/chu-huang-chen|Chu-Huang Chen (陳珠璜)]]
-- [[people/chuan-kwang-yang|Chuan-Kwang Yang (楊傳廣)]]
-- [[people/chuan-yuan-chen|Chuan Yuan Chen (陳泉淵)]]
-- [[people/chuang-shien-lu|Chuang-Shien Lu (呂泉生)]]
-- [[people/chuck-lee|Chuck Lee (李忠敏)]]
-- [[people/chue-jen-huang|Chue-Jen Huang (楊純貞)]]
-- [[people/chuen-mei-lee-fan|Chuen-Mei Lee Fan (范李春美教授)]]
-- [[people/chui-ying-hsu|Chui Ying Hsu (黃翠英)]]
-- [[people/chun-chieh-chiu|Chun-Chieh Chiu (邱俊杰)]]
-- [[people/chun-chiu|Chun Chiu (邱俊邦)]]
-- [[people/chun-hsin-jenny|Chun Hsin Jenny (伍君心)]]
-- [[people/chun-long-jerry-tsung|Chun Long Jerry Tsung (曾俊隆)]]
-- [[people/chun-nan-hsu|Chun-Nan Hsu (許鈞南)]]
-- [[people/chun-san-lee|Chun San Lee (李隼三博士)]]
-- [[people/chun-yen-chang|Chun-Yen Chang (張俊彥)]]
-- [[people/chun-yung-lin|Chun-Yung Lin (林純容)]]
-- [[people/chung-chen-paul-hsu|Chung Chen Paul Hsu (許忠政)]]
-- [[people/chung-chi-chou|Chung Chi Chou (周重吉)]]
-- [[people/chung-h-wu|Chung H. Wu (吳忠修)]]
-- [[people/chung-lien-chen|CHUNG-LIEN Chen (陳崇廉)]]
-- [[people/chung-nan-shih|Chung Nan Shih (施忠男)]]
-- [[people/chungchin-chen|Chungchin Chen (陳仲欽)]]
-- [[people/cindy-chen|Cindy Chen (陳欣意)]]
-- [[people/cindy-hsu-chung|Cindy Hsu Chung (許弘琪)]]
-- [[people/cindy-huang|Cindy Huang (黃心怡)]]
-- [[people/cindy-liu|Cindy Liu (劉杏芳)]]
-- [[people/clara-chen|Clara Chen (劉真真)]]
-- [[people/clare-chien-lun-lee|Clare Chien-Lun Lee (李阡綸)]]
-- [[people/clement-c-s-hsu|Clement C.S.Hsu (許清曉)]]
-- [[people/cleo-chiang|Cleo Chiang (江詩怡)]]
-- [[people/clyde-kiang|Clyde Kiang (江運貴)]]
-- [[people/coen-blaauw|Coen Blaauw (昆布勞)]]
-- [[people/connie-huang|Connie Huang (黃康妮)]]
-- [[people/connie-lu|Connie Lu (呂婷婷)]]
-- [[people/connie-shiau|Connie Shiau (蕭潔恒)]]
-- [[people/constance-wu|Constance Wu (吳恬敏)]]
-- [[people/cossette-sun|Cossette Sun (吳春紅)]]
-- [[people/jin-hegui|Chin Heng-wei (金恆煒)]]
-- [[people/yang-jia-you|Charles Yang (楊嘉猷)]]
-- [[people/zhang-xinhui|Chang Hsin-hui / 張信惠]]
-- [[people/zheng-qinren|Cheng Chin-jen / 鄭欽仁]]
-- [[people/zheng-wenlong|Cheng Wen-lung / 鄭文龍]]
+### B {#b}
 
-<h3 id="d">D</h3>
-- [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
-- [[people/bob-cheng|Dr. Bob Cheng (鄭寶鼎博士)]]
-- [[people/c-c-chen|Dr. C.C. Chen (陳昭俊)]]
-- [[people/c-s-yang|Dr. C. S. Yang (楊彰興醫師)]]
-- [[people/chaolong-kao|Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)]]
-- [[people/charles-c-hsu|Dr. Charles C. Hsu (許宗邦醫師)]]
-- [[people/charles-tu|Dr. Charles Tu (杜武青博士)]]
-- [[people/chen-ho-wu|Dr. Chen-Ho Wu (吳振和博士)]]
-- [[people/cheng-yin-janine-lin|Dr. Cheng-Yin Janine Lin (林政穎博士)]]
-- [[people/cherng-jia-huang|Dr. Cherng Jia Huang (黃呈嘉博士)]]
-- [[people/chi-huey-wong|Dr. Chi-Huey Wong (翁啟惠博士)]]
-- [[people/chin-ming-chen|Dr. Chin-Ming Chen (陳欽明醫師)]]
-- [[people/choan-seng-song|Dr. Choan-Seng Song (宋泉盛)]]
-- [[people/d-l-yang|D. L. Yang (楊東龍)]]
-- [[people/d-y-liu|D. Y. Liu (劉德勇)]]
-- [[people/dan-lin|Dan Lin (林暐)]]
-- [[people/dan-yi-chen|Dan-Yi Chen (陳丹怡)]]
-- [[people/daniel-kao|Dr. Daniel Kao (高光民)]]
-- [[people/daniel-ko|Daniel Ko (柯耀宗博士)]]
-- [[people/daniel-lin|Daniel Lin (林嘉仁)]]
-- [[people/daniel-lu|Daniel Lu (盧以樂)]]
-- [[people/daniel-yang|Daniel Yang]]
-- [[people/danny-chen|Danny Chen (陳啟耕)]]
-- [[people/danny-sheu|Danny Sheu]]
-- [[people/daphne-tsao|Daphne Tsao (曹恩菱)]]
-- [[people/darice-lee|Darice Lee (洪珠美)]]
-- [[people/david-chan|David Chan (詹曉昀)]]
-- [[people/david-chiu|David Chiu (邱信福)]]
-- [[people/david-chu|David Chu (朱欽騏)]]
-- [[people/david-hsieh|David Hsieh (謝漢強)]]
-- [[people/david-j-lu|David J. Lu (盧焜熙)]]
-- [[people/david-k-wang|David K. Wang (王光智牧師)]]
-- [[people/david-kuang-tzu-lin|David Kuang-Tzu Lin (李光治博士)]]
-- [[people/david-lee|David Lee]]
-- [[people/david-loong-hsing-wen|David Loong-Hsing Wen (溫隆信)]]
-- [[people/david-s-chen|David S. Chen (陳皙宗牧師)]]
-- [[people/david-t-k-chen|David T. K. Chen (陳廷楷博士)]]
-- [[people/david-taka-yo|David Taka Yo (楊兆隆)]]
-- [[people/david-tsay|Dr. David Tsay (蔡丁財博士)]]
-- [[people/david-wang|David Wang (王思眾)]]
-- [[people/david-weng|David Weng (翁嘉盛)]]
-- [[people/david-wu|David Wu (吳振瑋博士)]]
-- [[people/david-yang|David Yang (楊熾勳)]]
-- [[people/davy-liu|Davy Liu (劉大偉)]]
-- [[people/dawen-wang|Dawen Wang (王大文)]]
-- [[people/dean-chang|Dean Chang (張怡仁)]]
-- [[people/dean-liang|Dean Liang (梁基典)]]
-- [[people/deana-chuang|Deana Chuang (莊惠綺)]]
-- [[people/debbie-carlson|Debbie Carlson]]
-- [[people/debbie-lee|Debbie Lee]]
-- [[people/deborah-chuang-servino|Deborah Chuang Servino]]
-- [[people/deborah-ma|Deborah Ma (馬佳美醫師)]]
-- [[people/debra-liu|Debra Liu (謝金朱)]]
-- [[people/dennis-lin|Dennis Lin (林博淵)]]
-- [[people/dennis-wang|Dennis Wang (王梓仁)]]
-- [[people/dew-chin-ghi-chang|DEW Chin-Ghi Chang (張清祺)]]
-- [[people/diana-y-huang|Diana Y Huang (黃玉桂)]]
-- [[people/diane-d-s-tang-liu|Diane D-S. Tang-Liu (湯丹霞博士)]]
-- [[people/ding-yi-wang|Ding Yi Wang (楊定一博士)]]
-- [[people/donald-c-j-chen|Donald C.J. Chen (陳哲仁醫師)]]
-- [[people/donald-j-liu|Donald J. Liu (劉瑞義牧師)]]
-- [[people/donald-tsai|Donald Tsai (蔡豪智)]]
-- [[people/doris-hsieh|Doris Hsieh (謝必行)]]
-- [[people/doris-lu-anderson|Doris Lu-Anderson (呂佳霙博士)]]
-- [[people/doris-t-chang|Doris T. Chang (張庭寧)]]
-- [[people/dou-hwei-su-liu|Dou-Hwei Su Liu (劉蘇多惠)]]
-- [[people/doug-chiang|Doug Chiang (江道格)]]
-- [[people/dr-alex-hung|Dr. Alex Hung (洪克璿博士)]]
-- [[people/dr-alex-yang|Dr. Alex Yang (楊青博士)]]
-- [[people/dr-alex-yen|Dr. Alex Yen (顏俊醫師)]]
-- [[people/dr-amy-h-kuo|Dr. Amy H Kuo (郭惠美醫師)]]
-- [[people/dr-andre-chen|Dr. Andre Chen (陳安哲醫師)]]
-- [[people/dr-andy-hwang|Dr. Andy Hwang (黃慶安博士)]]
-- [[people/dr-b-c-wen|Dr. B. C. Wen (溫碧謙醫師)]]
-- [[people/dr-b-s-lu|Dr. B. S. Lu (呂邦雄醫師)]]
-- [[people/dr-bernard-tsai|Dr. Bernard Tsai (蔡武男醫師)]]
-- [[people/dr-binsiong-ou|Dr. Binsiong Ou (胡民祥博士)]]
-- [[people/dr-c-f-huang|Dr. C. F. Huang (黃崇福醫師)]]
-- [[people/dr-c-john-won|Dr. C. John Won (翁錦鐘博士)]]
-- [[people/dr-cary-s-hung|Dr. Cary S. Hung (洪哲勝博士)]]
-- [[people/dr-cecelia-tsai|Dr. Cecelia Tsai (葉明霞博士)]]
-- [[people/dr-chanchi-lee|Dr. Chanchi Lee (李常吉醫師)]]
-- [[people/dr-chang-yang-wang|Dr. Chang-Yang Wang (王昌洋醫師)]]
-- [[people/dr-chao-min-liu|Dr. Chao-Min Liu (劉兆民博士)]]
-- [[people/dr-charles-chiu|Dr. Charles Chiu (邱華彥醫師)]]
-- [[people/dr-chau-h-wu|Dr. Chau H. Wu (吳照雄博士)]]
-- [[people/dr-che-yang-huang|Dr. Che-Yang Huang (黃哲陽醫師)]]
-- [[people/dr-cheng-hung-yeh|Dr. Cheng-Hung Yeh (葉澄鴻博士)]]
-- [[people/dr-chi-cheng-huang|Dr. Chi-Cheng Huang (黃至成醫師)]]
-- [[people/dr-chi-chia-hsieh|Dr. Chi-chia Hsieh (謝其嘉博士)]]
-- [[people/dr-chi-pang-wen|Dr. Chi-Pang Wen (溫啟邦博士)]]
-- [[people/dr-chi-shiang-chen|Dr. Chi- Shiang Chen (陳吉祥醫師)]]
-- [[people/dr-chi-wan-lai|Dr. Chi-Wan Lai (賴其萬醫師)]]
-- [[people/dr-chia-fu-chou|Dr. Chia-Fu Chou (周家復博士)]]
-- [[people/dr-chiau-seng-hwang|Dr. Chiau-Seng Hwang (黃昭聲醫師)]]
-- [[people/dr-chien-yuan-kao|Dr. Chien Yuan Kao (高健元博士)]]
-- [[people/dr-chih-chien-adam-chou|Dr. Chih-Chien Adam Chou (周志謙博士)]]
-- [[people/dr-chih-ming-chen|Dr. Chih-Ming Chen (陳志明博士)]]
-- [[people/dr-chin-b-su|Dr. Chin B. Su (蘇成彬教授)]]
-- [[people/dr-ching-c-shir|Dr. Ching C. Shir (石清正博士)]]
-- [[people/dr-ching-hsing-liao|Dr. Ching-Hsing Liao (廖進興博士)]]
-- [[people/dr-ching-jen-wang|Dr. Ching-Jen Wang (王清貞醫師)]]
-- [[people/dr-ching-k-lin|Dr. Ching K. Lin (林清貴博士)]]
-- [[people/dr-ching-rong-cheng|Dr. Ching-Rong Cheng (鄭清榮醫師)]]
-- [[people/dr-ching-shen-lin|Dr. Ching-Shen Lin (林清森醫師)]]
-- [[people/dr-ching-tsang-hou|Dr. Ching-Tsang Hou (侯景滄博士)]]
-- [[people/dr-ching-tse-lee|Dr. Ching-Tse Lee (李清澤博士)]]
-- [[people/dr-chiu-shan-chen|Dr. Chiu-Shan Chen (陳秋山博士)]]
-- [[people/dr-chiung-t-ling|Dr. Chiung T. Ling (林安息)]]
-- [[people/dr-chris-fan|Dr. Chris Fan (范清亮博士)]]
-- [[people/dr-christopher-shih|Dr. Christopher Shih (石慶愷醫師)]]
-- [[people/dr-chuan-chang|Dr. Chuan Chang (張仲權博士)]]
-- [[people/dr-chun-c-tsai|Dr. Chun C Tsai (蔡俊晴醫師)]]
-- [[people/dr-chun-hsiang-lu|Dr. Chun Hsiang Lu (盧俊雄醫師)]]
-- [[people/dr-chung-chiu|Dr. Chung Chiu (邱強博士)]]
-- [[people/dr-dan-kai-liu|Dr. Dan-Kai Liu (劉登凱博士)]]
-- [[people/dr-daniel-c-hsu|Dr. Daniel C. Hsu (許正雄醫師)]]
-- [[people/dr-daniel-th-liu|Dr. Daniel TH Liu (劉鼎秀博士)]]
-- [[people/dr-david-ho|Dr. David Ho (何大一醫師)]]
-- [[people/dr-david-hong|Dr. David Hong (洪德生博士)]]
-- [[people/dr-doug-chen-hua-yu|Dr. Doug Chen-Hua Yu (余振華博士)]]
-- [[people/dr-edward-cheng|Dr. Edward Cheng (鄭德昌博士)]]
-- [[people/dr-edward-t-s-huang|Dr. Edward T. S. Huang (黃東昇博士)]]
-- [[people/dr-ei-shun-lin|Dr. Ei-Shun Lin (林益顯醫師)]]
-- [[people/dr-evan-ling|Dr. Evan Ling (林富文博士)]]
-- [[people/dr-franklin-fong-ming-lee|Dr. Franklin Fong-Ming Lee (李豐明博士)]]
-- [[people/dr-fu-chen-lo|Dr. Fu-Chen Lo (羅福全博士)]]
-- [[people/dr-fu-kai-hsieh|Dr. Fu-Kai Hsieh (謝富凱博士)]]
-- [[people/dr-fu-kuen-lin|Dr. Fu-Kuen Lin (林福坤博士)]]
-- [[people/dr-fu-tong-hsu|Dr. Fu-Tong Hsu (徐福棟博士)]]
-- [[people/dr-fu-tong-liu|Dr. Fu-Tong Liu (劉扶東博士)]]
-- [[people/dr-fu-yuan-hsu|Dr. Fu Yuan Hsu (許富淵)]]
-- [[people/dr-g-c-huang|Dr. G. C. Huang (黃光彩博士)]]
-- [[people/dr-gerrit-van-der-wees|Dr. Gerrit Van Der Wees (韋傑理博士)]]
-- [[people/dr-gichiong-khu|Dr. Gichiong Khu (邱義昌博士)]]
-- [[people/dr-goodwin-hon-liu|Dr. Goodwin Hon Liu (劉弘威博士)]]
-- [[people/dr-grace-wu|Dr. Grace Wu (吳秀惠醫師)]]
-- [[people/dr-guan-xun-huang|Dr. Guan-Xun Huang (黃冠勳博士)]]
-- [[people/dr-guei-yun-yang|Dr. Guei-Yun Yang (楊貴運博士)]]
-- [[people/dr-henry-h-yu|Dr. Henry H. Yu (游宏仁醫師)]]
-- [[people/dr-henry-k-tsai|Dr. Henry K. Tsai]]
-- [[people/dr-henry-y-wu|Dr. Henry Y. Wu (吳銀鏤醫師)]]
-- [[people/dr-hong-chien-lin|Dr. Hong-Chien Lin (林洪謙醫師)]]
-- [[people/dr-hong-tien-lai|Dr. Hong Tien Lai (賴弘典醫師)]]
-- [[people/dr-hong-yen-hsu|Dr. Hong-Yen Hsu (許鴻源博士)]]
-- [[people/dr-hsing-chi-chuck-chang|Dr. Hsing-Chi Chuck Chang (張幸吉博士)]]
-- [[people/dr-hsing-hua-sylvia-lin|Dr. Hsing-Hua Sylvia Lin (林杏樺博士)]]
-- [[people/dr-hsinlin-cheng|Dr. Hsinlin Cheng (鄭新霖醫師)]]
-- [[people/dr-hui-ling-chen|Dr. Hui-Ling Chen (陳慧玲博士)]]
-- [[people/dr-hung-ping-tsao|Dr. Hung-ping Tsao (曹恆平博士)]]
-- [[people/dr-hwalin-lee|Dr. Hwalin Lee (李華林博士)]]
-- [[people/dr-i-shih-chang|Dr. I-Shih Chang (張倚石博士)]]
-- [[people/dr-izabel-s-h-chuang|Dr. Izabel S. H. Chuang (莊捷筠博士)]]
-- [[people/dr-j-c-wu|Dr. J. C. Wu (巫建嶔博士)]]
-- [[people/dr-jack-j-chen|Dr. Jack J. Chen (陳宏傑教授)]]
-- [[people/dr-jackson-chiu|Dr. Jackson Chiu (邱坤勝博士)]]
-- [[people/dr-jacob-huang|Dr. Jacob Huang (黃正雅醫師)]]
-- [[people/dr-james-tsai|Dr. James Tsai (蔡育智醫師)]]
-- [[people/dr-jane-h-hsiao-2|Dr. Jane H. Hsiao (許照惠博士)]]
-- [[people/dr-jason-wang|Dr. Jason Wang (王智弘)]]
-- [[people/dr-jeffrey-tsai|Dr. Jeffrey Tsai (蔡長宗醫師)]]
-- [[people/dr-jen-tai-tsai|Dr. Jen-Tai Tsai (蔡仁泰博士)]]
-- [[people/dr-jen-tse-cheng|Dr. Jen-Tse Cheng (鄭仁澤醫師)]]
-- [[people/dr-jen-tzaw-huang|Dr. Jen-Tzaw Huang (黃健造博士)]]
-- [[people/dr-jen-yih-chu|Dr. Jen-Yih Chu (朱真一博士)]]
-- [[people/dr-jenta-shen|Dr. Jenta Shen (沈仁達醫師)]]
-- [[people/dr-jer-yuan-tsai|Dr. Jer-Yuan Tsai (蔡哲元醫師)]]
-- [[people/dr-jheng-yan|Dr. Jheng Yan (嚴正博士)]]
-- [[people/dr-jia-huey-lin-yu|Dr. Jia-Huey Lin Yu (林佳惠博士)]]
-- [[people/dr-jia-rhon-chen|Dr. Jia-Rhon Chen (陳家榮醫師)]]
-- [[people/dr-jian-juei-wang|Dr. Jian-Juei Wang (王健椎博士)]]
-- [[people/dr-jii-james-shieh|Dr. Jii James Shieh (謝己博士)]]
-- [[people/dr-jim-lin|Dr. Jim Lin (林存欣醫師)]]
-- [[people/dr-jin-l-lin|Dr. Jin L. Lin (林金龍博士)]]
-- [[people/dr-john-chieu|Dr. John Chieu (邱忠男博士)]]
-- [[people/dr-john-hsu|Dr. John Hsu (徐新宏博士)]]
-- [[people/dr-john-tsuang|Dr. John Tsuang (莊文宗醫師)]]
-- [[people/dr-john-wu|Dr. John Wu (吳正義醫師)]]
-- [[people/dr-jong-huang|Dr. Jong Huang (黃重德醫師)]]
-- [[people/dr-joseph-kho|Dr. Joseph Kho (許隼夫博士)]]
-- [[people/dr-joseph-kuo|Dr. Joseph Kuo (郭正昭博士)]]
-- [[people/dr-ju-cheng-lee|Dr. Ju-Cheng Lee (李汝城醫師)]]
-- [[people/dr-jui-yuan-raymond-cheng|Dr. Jui Yuan Raymond Cheng (鄭瑞源博士)]]
-- [[people/dr-jung-t-tsai|Dr. Jung T. Tsai (蔡榮聰醫師)]]
-- [[people/dr-justina-hwang|Dr. Justina Hwang (黃貞琪博士)]]
-- [[people/dr-justine-fang-chen|Dr. Justine Fang Chen (陳潔思博士)]]
-- [[people/dr-k-p-fu|Dr. K. P. Fu (傅康平博士)]]
-- [[people/dr-karen-hsiao-savage|Dr. Karen Hsiao Savage]]
-- [[people/dr-kei-hsiung-yang|Dr. Kei-Hsiung Yang (楊界雄博士)]]
-- [[people/dr-keith-wang|Dr. Keith Wang (王振濃博士)]]
-- [[people/dr-kent-wu|Dr. Kent Wu (吳英資博士)]]
-- [[people/dr-ker-chau-li|Dr. Ker-Chau Li (李克昭博士)]]
-- [[people/dr-ketty-w-chen|Dr. Ketty W. Chen (陳婉宜)]]
-- [[people/dr-khang-loon-ho|Dr. Khang-Loon Ho (何康隆醫師)]]
-- [[people/dr-kopin-liu|Dr. Kopin Liu (劉國平博士)]]
-- [[people/dr-kuang-chi-liang|Dr. Kuang Chi Liang (梁礦琪醫師)]]
-- [[people/dr-kuei-hsien-chen|Dr. Kuei-Hsien Chen (陳貴賢博士)]]
-- [[people/dr-kuen-shii-tsay|Dr. Kuen-Shii Tsay (蔡坤喜醫師)]]
-- [[people/dr-kun-t-liao|Dr. Kun T. Liao (廖坤塗醫師)]]
-- [[people/dr-kung-ming-jan|Dr. Kung-Ming Jan (詹恭明醫師)]]
-- [[people/dr-kuo-pin-wang|Dr. Kuo-Pin Wang (王國斌博士)]]
-- [[people/dr-kuo-shih-yeh|Dr. Kuo Shih Yeh (葉國勢博士)]]
-- [[people/dr-kuochih-hong|Dr. Kuochih Hong (洪國治博士)]]
-- [[people/dr-l-c-lin|Dr. L. C. Lin (林麗瓊博士)]]
-- [[people/dr-lii-mei-beverly-chang|Dr. Lii Mei Beverly Chang (張理美醫師)]]
-- [[people/dr-lily-wang|Dr. Lily Wang (王俐力醫師)]]
-- [[people/dr-lisa-su|Dr. Lisa Su (蘇姿豐博士)]]
-- [[people/dr-long-song-simon-lin|Dr. Long Song Simon Lin (林榮松醫師)]]
-- [[people/dr-lung-fong-chen|Dr. Lung-Fong Chen (陳隆豐博士)]]
-- [[people/dr-lynn-y-s-lin|Dr. Lynn Y.S. Lin (林英祥博士)]]
-- [[people/dr-m-y-chou|Dr. M. Y. Chou (周美吟博士)]]
-- [[people/dr-matthew-m-yeh|Dr. Matthew M. Yeh (葉孟哲醫師)]]
-- [[people/dr-may-chiu|Dr. May Chiu (邱鈺琳醫師)]]
-- [[people/dr-mei-ann-chen|Dr. Mei-Ann Chen (陳美安博士)]]
-- [[people/dr-mike-kuo|Dr. Mike Kuo (郭正光博士)]]
-- [[people/dr-min-chin-mary-lee|Dr. Min-Chin Mary Lee (李敏琴醫師)]]
-- [[people/dr-min-da-wu-m-d|Dr. Min-Da Wu M.D. (吳明達)]]
-- [[people/dr-min-hsiung-ko|Dr. Min-Hsiung Ko (柯敏雄醫師)]]
-- [[people/dr-min-hsiung-liang|Dr. Min Hsiung Liang (梁敏雄博士)]]
-- [[people/dr-min-hsiung-tsai|Dr. Min Hsiung Tsai (蔡敏雄博士)]]
-- [[people/dr-min-yen-han|Dr. Min-Yen Han (韓明元醫師)]]
-- [[people/dr-ming-cheng-liau|Dr. Ming Cheng Liau (廖明徵博士)]]
-- [[people/dr-ming-daw-tsai|Dr. Ming-Daw Tsai (蔡明道博士)]]
-- [[people/dr-ming-hong-chow|Dr. Ming Hong Chow (周明宏博士)]]
-- [[people/dr-ming-j-lee|Dr. Ming J. Lee (李銘正博士)]]
-- [[people/dr-ming-liang-pan|Dr. Ming Liang Pan (潘銘梁博士)]]
-- [[people/dr-ming-lon-young|Dr. Ming-Lon Young (楊明倫醫師)]]
-- [[people/dr-ming-tang-lai|Dr. Ming Tang Lai (賴明堂博士)]]
-- [[people/dr-minze-chien|Dr. Minze Chien (簡明子博士)]]
-- [[people/dr-mu-sheng-wu|Dr. Mu-Sheng Wu (吳木盛博士)]]
-- [[people/dr-nancy-fan-paul|Dr. Nancy Fan-Paul (樊意琪醫師)]]
-- [[people/dr-or-hsieh|Dr. Or. Hsieh (謝娥醫師)]]
-- [[people/dr-patrick-c-chen|Dr. Patrick C. Chen (陳彰醫師)]]
-- [[people/dr-paul-chen|Dr. Paul Chen]]
-- [[people/dr-peter-huang|Dr. Peter Huang (黃勝雄醫師)]]
-- [[people/dr-peter-tsai|Dr. Peter Tsai (蔡秉燚博士)]]
-- [[people/dr-peter-wu|Dr. Peter Wu (吳平原博士)]]
-- [[people/dr-po-chun-chen|Dr. Po-Chun Chen (陳柏均博士)]]
-- [[people/dr-po-fang-philip-hsieh|Dr. Po-Fang Philip Hsieh (謝伯芳博士)]]
-- [[people/dr-pofu-hsieh|Dr. Pofu Hsieh (謝博夫醫師)]]
-- [[people/dr-poshing-lee|Dr. Poshing Lee (李勃興醫師)]]
-- [[people/dr-priscilla-peilan-chiu|Dr. Priscilla Peilan Chiu (邱佩蘭醫師)]]
-- [[people/dr-r-palmer-beasley|Dr. R. Palmer Beasley (畢思理博士)]]
-- [[people/dr-ray-wang|Dr. Ray Wang (王瑞華博士)]]
-- [[people/dr-raymond-j-jan|Dr. Raymond J. Jan (詹正治博士)]]
-- [[people/dr-rex-yu|Dr. Rex Yu (余忠村博士)]]
-- [[people/dr-richard-r-hwang|Dr. Richard R. Hwang (黃瑞煊醫師)]]
-- [[people/dr-richard-yu-tsang-lin|Dr. Richard Yu-Tsang Lin (林譽蒼)]]
-- [[people/dr-robert-y-lai|Dr. Robert Y. Lai (賴義雄博士)]]
-- [[people/dr-s-f-sheuh|Dr. S. F. Sheuh (薛信夫博士)]]
-- [[people/dr-s-h-lee|Dr. S. H. Lee (李舜豪醫師)]]
-- [[people/dr-s-t-cheng|Dr. S. T. Cheng (鄭信傳醫師)]]
-- [[people/dr-sam-shee|Dr. Sam Shee (施哲三醫師)]]
-- [[people/dr-scott-changchien|Dr. Scott ChangChien (張簡吉誠醫師)]]
-- [[people/dr-sebo-koh|Dr. Sebo Koh (許世模醫師)]]
-- [[people/dr-seifu-ryu|Dr. Seifu Ryu (劉清風醫師)]]
-- [[people/dr-shan-p-tsai|Dr. Shan P Tsai (蔡善璞博士)]]
-- [[people/dr-sheng-yi-chuang|Dr. Sheng-Yi Chuang (莊勝義博士)]]
-- [[people/dr-shiching-john-chang|Dr. Shiching John Chang (張錫清博士)]]
-- [[people/dr-shin-s-chen|Dr. Shin S. Chen (陳幸世醫師)]]
-- [[people/dr-shinn-sheng-chang|Dr. Shinn-Sheng Chang (張信行醫師)]]
-- [[people/dr-shug-hong-young|Dr. Shug-Hong Young (楊士宏醫師)]]
-- [[people/dr-sie-ling-chiang|Dr. Sie-Ling Chiang (姜西淋博士)]]
-- [[people/dr-sie-tung-liu|Dr. Sie-Tung Liu (劉協同博士)]]
-- [[people/dr-sing-san-yang|Dr. Sing-San Yang (楊省三醫師)]]
-- [[people/dr-song-ping-lee|Dr. Song-Ping Lee (李嵩斌醫師)]]
-- [[people/dr-soo-chen-cheng|Dr. Soo-Chen Cheng (鄭淑珍博士)]]
-- [[people/dr-stephen-chen|Dr. Stephen Chen (陳貞華博士)]]
-- [[people/dr-steve-huang|Dr. Steve Huang (黃文谷醫師)]]
-- [[people/dr-steve-lee|Dr. Steve Lee (李致一醫師)]]
-- [[people/dr-su-may-yu|Dr. Su-May Yu (余淑美博士)]]
-- [[people/dr-su-mei-kao|Dr. Su-Mei Kao (林素梅博士)]]
-- [[people/dr-suy-ming-sam-chou|Dr. Suy Ming Sam Chou (周烒明博士)]]
-- [[people/dr-taitzer-wang|Dr. Taitzer Wang (王泰澤博士)]]
-- [[people/dr-tan-sun-mark-chen|Dr. Tan-Sun Mark Chen (陳唐山博士)]]
-- [[people/dr-tehming-liang|Dr. Tehming Liang (梁德明醫師)]]
-- [[people/dr-teng-lung-hsu|Dr. Teng Lung Hsu (許登龍醫師)]]
-- [[people/dr-thomas-yawting-ko|Dr. Thomas Yawting Ko (柯耀庭醫師)]]
-- [[people/dr-tom-chiu|Dr. Tom Chiu (邱崇德博士)]]
-- [[people/dr-tom-f-lue|Dr. Tom F. Lue (呂福泰教授)]]
-- [[people/dr-tong-y-chen|Dr. Tong Y. Chen (陳東榮醫師)]]
-- [[people/dr-tsann-wang-yu|Dr. Tsann-Wang Yu (余燦旺博士)]]
-- [[people/dr-tsing-fang-chen|Dr. Tsing Fang Chen (陳錦芳博士)]]
-- [[people/dr-tso-yee-fan|Dr. Tso-Yee Fan (范佐怡博士)]]
-- [[people/dr-tsunie-chanchien|Dr. Tsunie Chanchien (張簡俊一醫師)]]
-- [[people/dr-tu-chen|Dr. Tu Chen (陳都博士)]]
-- [[people/dr-tzu-hsing-april-kuo|Dr. Tzu-Hsing April Kuo (郭姿杏博士)]]
-- [[people/dr-tzu-shong-yang|Dr. Tzu-Shong Yang (楊次雄醫師)]]
-- [[people/dr-victor-shen|Dr. Victor Shen (沈新欽博士)]]
-- [[people/dr-vincent-chuang|Dr. Vincent Chuang (莊伯祥醫師)]]
-- [[people/dr-vincent-wah-sang-yeung|Dr. Vincent Wah-Sang Yeung (楊華生醫師)]]
-- [[people/dr-virginia-s-shen|Dr. Virginia S. Shen (李香蘭教授)]]
-- [[people/dr-w-p-andrew-lee|Dr. W.P. Andrew Lee (李為平醫師)]]
-- [[people/dr-wayne-lung-wang|Dr. Wayne Lung Wang (王文隆博士)]]
-- [[people/dr-wei-shen-w-lin|Dr. Wei-Shen W. Lin (林威伸醫師)]]
-- [[people/dr-wei-ting-yen|Dr. Wei-Ting Yen (顏維婷博士)]]
-- [[people/dr-wei-yang-andy-lin|Dr. Wei-Yang Andy Lin (林維洋博士)]]
-- [[people/dr-wen-chang-yang|Dr. Wen-Chang Yang (楊文昌醫師)]]
-- [[people/dr-wen-chen-kenneth-wu|Dr. Wen-Chen Kenneth Wu (吳文振博士)]]
-- [[people/dr-wen-hsien-wu|Dr. Wen-Hsien Wu (吳聞咸醫師)]]
-- [[people/dr-wen-y-chen|Dr. Wen Y. Chen (陳文淵醫師)]]
-- [[people/dr-william-l-ko|Dr. William L. Ko (柯威霖博士)]]
-- [[people/dr-william-p-tseng|Dr. William P. Tseng (曾伯聰醫師)]]
-- [[people/dr-wu-hsiung-tsai|Dr. Wu Hsiung Tsai (蔡武雄博士)]]
-- [[people/dr-wylie-i-lee|Dr. Wylie I. Lee (李英偉博士)]]
-- [[people/dr-y-c-cheng|Dr. Y. C. Cheng (鄭翼宗博士)]]
-- [[people/dr-y-c-simon-liu|Dr. Y. C. Simon Liu (劉耀經博士)]]
-- [[people/dr-ya-yen-lee|Dr. Ya Yen Lee (李雅彥醫師)]]
-- [[people/dr-yao-chung-tsao|Dr. Yao-Chung Tsao (卓耀宗博士)]]
-- [[people/dr-yao-tseng-chen|Dr. Yao-Tseng Chen (陳耀楨醫師)]]
-- [[people/dr-yeongchi-wu|Dr. Yeongchi Wu (吳永吉醫師)]]
-- [[people/dr-ying-yuan-lee|Dr. Ying-Yuan Lee (李應元博士)]]
-- [[people/dr-yung-san-liang|Dr. Yung-San Liang (梁永三博士)]]
-- [[people/du-ao-cunfu|Du Ao Cunfu (獨傲村夫)]]
-- [[people/emerson-m-f-jou|Dr. Emerson M.F. Jou (周明峰醫師)]]
-- [[people/fei-kuang-tseng|Dr. Fei-Kuang Tseng (曾輝光博士)]]
-- [[people/fu-mei-chang|Dr. Fu-Mei Chang (張富美博士)]]
-- [[people/george-tseng|Dr. George Tseng (曾水福博士)]]
-- [[people/grace-fong|Dr .Grace Fong]]
-- [[people/hofu-wu|Dr. Hofu Wu (吳和甫博士)]]
-- [[people/jane-h-hsiao|Dr. Jane H. Hsiao (許照惠博士)]]
-- [[people/lien-hwa-chow|Dr. Lien-Hwa Chow (周聯華)]]
-- [[people/long-rong-mark-kao|Dr. Long-Rong Mark Kao (高龍榮)]]
-- [[people/min-kao|Dr. Min Kao (高民環博士)]]
-- [[people/shoki-coe|Dr. Shoki Coe (黃彰輝)]]
-- [[people/shyu-tu-lee|Dr. Shyu-Tu Lee (李學圖博士)]]
-- [[people/tai-cheng-chen|Dr. Tai-Cheng Chen (陳泰成博士)]]
-- [[people/ted-fan|Dr. Ted Fan (范少達博士)]]
-- [[people/tom-lee|Dr. Tom Lee (李木通博士)]]
-- [[people/yen-yu-jenny-chen|Dr. Yen-Yu Jenny Chen (陳延瑜博士)]]
-- [[people/yuan-tseh-lee|Dr. Yuan-Tseh Lee (李遠哲博士)]]
-- [[people/yunching-yeh-davis|Dr. Yunching Yeh Davis (葉芸青)]]
+- [B. C. Hsu (許炳堅博士)](./b-c-hsu)
+- [B. H. Chen (陳炳煌)](./b-h-chen)
+- [B. Michael Yeun (楊明昊)](./b-michael-yeun)
+- [B. N. Huang (黃邦男)](./b-n-huang)
+- [Bach Ying-Chun Wu (吳英俊)](./bach-ying-chun-wu)
+- [Bai Peiyu / 白佩玉](./bai-peiyu)
+- [Bang H. Hwang (黃邦雄)](./bang-h-hwang)
+- [Bao-Tyan Wang (王寶田博士)](./bao-tyan-wang)
+- [Beatrice Long (隆信真)](./beatrice-long)
+- [Becky Yang](./becky-yang)
+- [Bei Hung Kuo (郭倍宏博士)](./bei-hung-kuo)
+- [Ben Hong (洪本倫)](./ben-hong)
+- [Ben Mezrich (賓梅立克)](./ben-mezrich)
+- [Benjamin Wu (吳旭淳博士)](./benjamin-wu)
+- [Benny Lee (李永杰)](./benny-lee)
+- [Bernard Huang (黃伯文)](./bernard-huang)
+- [Bi-khim Hsiao (蕭美琴)](./bi-khim-hsiao)
+- [Bianca Liang (梁沁茵)](./bianca-liang)
+- [Bill Lee (李君偉)](./bill-lee)
+- [billy-chang](./billy-chang)
+- [Bob In-Yu Yang (楊英育)](./bob-in-yu-yang)
+- [Bob J. Wu (吳瑞椿)](./bob-j-wu)
+- [Bob Lin (林志文)](./bob-lin)
+- [Bonnie Yang (陳佳芬)](./bonnie-yang)
+- [BorCheng Hsu (許伯丞)](./borcheng-hsu)
+- [Brian Hioe (丘琦欣)](./brian-hioe)
+- [Brian Lee (李捷緒)](./brian-lee)
+- [Brother Hu (GSTPC)](./hu-gstpc)
+- [Brother Ku (GSTPC)](./ku-gstpc)
+- [Brother Wang (GSTPC)](./wang-gstpc)
+- [Butteryfly Chong (張翠蝶)](./butteryfly-chong)
 
-<h3 id="e">E</h3>
-- [[people/chen-xialian|Elder Chen Xialian (陳夏蓮)]]
-- [[people/deng-shuzhen|Elder Deng Shuzhen (鄧淑貞)]]
-- [[people/echo-lew|Echo Lew (劉白)]]
-- [[people/echo-lin|Echo Lin (林錫湖博士)]]
-- [[people/ed-lin|Ed Lin (林艾德)]]
-- [[people/edward-chen|Edward Chen (陳以德博士)]]
-- [[people/edward-j-s-lin|Edward J. S. Lin (林敬賢)]]
-- [[people/edward-k-wang|Edward K Wang (王凱廷)]]
-- [[people/edward-liu|Edward Liu (劉俊宏)]]
-- [[people/edwyn-charles-eddie-huang|Edwyn Charles Eddie Huang (黄颐銘)]]
-- [[people/ehin-lin-guo|Ehin-Lin Guo (郭青齡博士)]]
-- [[people/eiji-urata|Eiji Urata (謝榮慶)]]
-- [[people/eileen-chang|Eileen Chang (楊宜宜)]]
-- [[people/eileen-lin|Eileen Lin]]
-- [[people/eileen-lo|Eileen Lo (丁志清)]]
-- [[people/ejen-chuang|Ejen Chuang]]
-- [[people/elaine-kate-liu|Elaine Kate Liu]]
-- [[people/elaine-liu|Elaine Liu (黃久香)]]
-- [[people/eleanor-tsai|Eleanor Tsai (謝婉香)]]
-- [[people/elena-ling|Elena Ling (黃美惠)]]
-- [[people/elizabeth-s-chen|Elizabeth S. Chen (李秀麗)]]
-- [[people/emeritus-hh-chiu|Emeritus HH Chiu (邱輝煌)]]
-- [[people/emily-hsieh|Emily Hsieh (謝艾琳)]]
-- [[people/emily-lin-lee|Emily Lin Lee (林榮峰)]]
-- [[people/emily-muramoto|Emily Muramoto (蔡蕙宇)]]
-- [[people/emily-x-r-pan|Emily X.R. Pan (潘相如)]]
-- [[people/emma-chen|Emma Chen (陳怡邁)]]
-- [[people/enchin-shaw-chen|Enchin Shaw Chen (蕭永真)]]
-- [[people/enoch-wu|Enoch Wu (吳怡農)]]
-- [[people/erh-jen-lee|Erh-Jen Lee (李爾仁)]]
-- [[people/erh-lin|Erh Lin (林二)]]
-- [[people/erh-ping-tsai|Erh-Ping Tsai (蔡爾平)]]
-- [[people/eric-c-c-chang|Eric C.C. Chang]]
-- [[people/eric-cheng|Eric Cheng (鄭晧)]]
-- [[people/eric-chien|Eric Chien (簡綸廷)]]
-- [[people/eric-lee|Eric Lee (李英毅)]]
-- [[people/eric-ling|Eric Ling]]
-- [[people/eric-liu|Eric Liu (劉柏川)]]
-- [[people/eric-teng-kuan-huang|Eric Teng-Kuan Huang (黃騰寬)]]
-- [[people/eric-ting|Eric Ting (丁維均)]]
-- [[people/eric-wei|Eric Wei (魏安仁)]]
-- [[people/eric-wu|Eric Wu (吳爾融)]]
-- [[people/eric-yang|Eric Yang (楊一哲)]]
-- [[people/esther-c-lin|Esther C. Lin (林陳春蘭)]]
-- [[people/esther-chou-lu|Esther Chou Lu (周慧香)]]
-- [[people/esther-shieh|Esther Shieh (謝逸詩)]]
-- [[people/eva-hsia|Eva Hsia (夏敬安)]]
-- [[people/evonne-hsu|Evonne Hsu (許慧欣)]]
-- [[people/john-lai|Elder John Lai (賴永祥)]]
-- [[people/qiu-yunen|Elder Qiu Yunen (邱瑜嫩)]]
-- [[people/tzetsai-eric-shen|Eric Shen (沈梓在)]]
-- [[people/wang-xinxin|Elder Wang Xinxin (王信心)]]
-- [[people/xiao-xien|Elder Xiao Xien (蕭錫恩)]]
-- [[people/xu-wenkai|Elder Xu Wenkai (許文凱)]]
+### C {#c}
 
-<h3 id="f">F</h3>
-- [[people/f-f-huang|F. F. Huang (黃鳳凰)]]
-- [[people/f-m-huang|F.M. Huang (黃富美)]]
-- [[people/f-m-yang|F. M. Yang (楊豐明)]]
-- [[people/f-s-shen|F.S. Shen (沈富雄)]]
-- [[people/f-y-anthony-shaw|F.Y. Anthony Shaw (蕭芳苑)]]
-- [[people/f-z-chen-wu|F. Z. Chen Wu (吳陳芳容醫師)]]
-- [[people/fan-jiang-ti-ang|Fan Chiang Tsiang (范姜提昂)]]
-- [[people/fan-ming-lin|Fan-Ming Lin (林芳敏醫師)]]
-- [[people/fan-rong-k-chung-graham|Fan Rong K Chung Graham (金芳蓉)]]
-- [[people/fan-s-lai|Fan S. Lai (賴芳雄)]]
-- [[people/fang-ming-chen|Fang-Ming Chen (陳芳明博士)]]
-- [[people/fang-yi-sheu|Fang-Yi Sheu (許芳宜)]]
-- [[people/fang-yuh-rita-chen|Fang-Yuh Rita Chen (陳芳玉)]]
-- [[people/father-brendan-oconnell|Father Brendan O’Connell (甘惠忠神父)]]
-- [[people/fealing-lin|Fealing Lin (林暉怜)]]
-- [[people/fei-mei-lee-chou|Fei-Mei Lee Chou (周李惠美)]]
-- [[people/fei-tau-kung|Fei-Tau Kung (龔飛濤)]]
-- [[people/felicia-chou|Felicia Chou (周馥亞)]]
-- [[people/felicia-tang|Felicia Tang (唐千畬)]]
-- [[people/felix-fan|Felix Fan (范雅志)]]
-- [[people/felix-liu|Felix Liu (劉富理牧師)]]
-- [[people/feng-hsu-lee|Feng-Hsu Lee (李豐旭)]]
-- [[people/feng-jen-lu|Feng-Jen Lu (路鳳真)]]
-- [[people/fenglien-lee|Fenglien Lee (李鳳霖)]]
-- [[people/flora-kao|Flora Kao (高微婷)]]
-- [[people/fon-may-fan|Fon-May Fan (樊豐美)]]
-- [[people/fong-baatz|Fong Baatz]]
-- [[people/fong-chung-fan|Fong Chung Fan (樊豐忠)]]
-- [[people/fong-jen-lin|Fong-Jen Lin (林豐仁)]]
-- [[people/fong-ling|Fong Ling (峰怜)]]
-- [[people/forest-yang|Forest Yang (楊舜惠)]]
-- [[people/frances-wu|Frances Wu (吳涵秋)]]
-- [[people/frances-y-wang|Frances Y. Wang (王怡芳)]]
-- [[people/francie-lin|Francie Lin]]
-- [[people/frank-c-h-chen|Frank C.H. Chen (陳治煌)]]
-- [[people/frank-hsieh|Frank Hsieh (謝長廷)]]
-- [[people/frank-ju-feng-liu|Frank Ju-Feng Liu (劉如峰)]]
-- [[people/frank-lai|Frank Lai (賴文雄)]]
-- [[people/frank-lin|Frank Lin (林俊甫)]]
-- [[people/frank-m-hsu|Frank M. Hsu (徐民忠)]]
-- [[people/frank-shieh|Frank Shieh (沈培志)]]
-- [[people/frank-t-shu|Frank T. Shu (許子津)]]
-- [[people/frank-wu|Frank Wu (吳登鈐博士)]]
-- [[people/frankie-woo|Frankie Woo (吳映龍)]]
-- [[people/franklin-ping-cheng|Franklin Ping Cheng (程炳成)]]
-- [[people/fred-fung|Fred Fung (馮耀祥)]]
-- [[people/frederic-wang|Frederic Wang (王穎裕)]]
-- [[people/freeman-huang|Freeman Huang (黃樹人)]]
-- [[people/freeman-lin|Freeman Lin (林日榮)]]
-- [[people/fu-ji-liu|Fu-Ji Liu (劉富吉)]]
-- [[people/fu-mei-wu-chen|Fu-Mei Wu Chen (陳吳富美)]]
-- [[people/fu-te-ni|Fu-Te Ni (倪福德)]]
-- [[people/fu-zen-chang|Fu-Zen Chang (張輔仁)]]
-- [[people/fuh-sheng-shieu|Fuh-Sheng Shieu (薛富盛)]]
-- [[people/fumi-chen|Fumi Chen (何文英)]]
-- [[people/fpcla|FPCLA (redirect) — Formosan Presbyterian Church in Los Angeles]]
+- [C. A. Chou 哲 安 (周明安博士)](./c-a-chou)
+- [C. B. Chien (簡錦標)](./c-b-chien)
+- [C. B. Ku (辜澄彬)](./c-b-ku)
+- [C. C. Chang (張健昌醫師)](./c-c-chang)
+- [C. C. Chao (趙誌諄)](./c-c-chao)
+- [C. C. Chung (鍾振乾)](./c-c-chung)
+- [C. C. Hsiao (蕭忠正)](./c-c-hsiao)
+- [C. C. Hsieh (謝正忠)](./c-c-hsieh)
+- [C. C. Lin (林振昌)](./c-c-lin)
+- [C. C. Su (蘇仲卿博士)](./c-c-su)
+- [C. C. Tsai (蔡清枝)](./c-c-tsai)
+- [C. C. Yang (楊朝諄)](./c-c-yang)
+- [C. H. Chen (陳初雄)](./c-h-chen)
+- [C. H. Chiang (蔣政宏博士)](./c-h-chiang)
+- [C. H. Kuo (郭忠豪)](./c-h-kuo)
+- [C. H. Lin (林建宏)](./c-h-lin)
+- [C. H. Sun (孫曲回牧師)](./c-h-sun)
+- [C. J. Chang (張家禎)](./c-j-chang)
+- [C. J. Chen (陳銓仁)](./c-j-chen)
+- [C. K. Kuo (郭重國)](./c-k-kuo)
+- [C. K. Lee (李世光)](./c-k-lee)
+- [C. L. Hong (洪健棣牧師)](./c-l-hong)
+- [C. L. Yin (殷清隆)](./c-l-yin)
+- [C. Lee Chang (李長堅博士)](./c-lee-chang)
+- [C. M Yang (楊啓明)](./c-m-yang)
+- [C. M. Cecilia Huang (黃晴美)](./c-m-cecilia-huang)
+- [C. M. Fan (范清美)](./c-m-fan)
+- [C. N. Chen (陳建南)](./c-n-chen)
+- [C. P. Huang (黃澄波)](./c-p-huang)
+- [C. R. Huang (黃朝榮)](./c-r-huang)
+- [C. S. Hsu (許清松)](./c-s-hsu)
+- [C. S. Huang (黃千洵)](./c-s-huang)
+- [C. T. Huang (黃昭騰)](./c-t-huang)
+- [C. T. Lee (李青泰)](./c-t-lee)
+- [C. W. Wu (吳成文)](./c-w-wu)
+- [C. Y. Chang (張謙益)](./c-y-chang)
+- [C. Y. Chen (陳黃群雁)](./c-y-chen)
+- [C. Y. Lee (李欽勇博士)](./c-y-lee)
+- [C. Y. Liu (劉晴吟)](./c-y-liu)
+- [C. Y. Tsai (蔡嘉寅)](./c-y-tsai)
+- [C. Y. Wang (王振源)](./c-y-wang)
+- [C.F. Liang (梁昌夫)](./c-f-liang)
+- [C.H. Chris Liang (梁志宏)](./c-h-chris-liang)
+- [C.K. Lo (羅劍寬)](./c-k-lo)
+- [C.S. Fu (傅舟山)](./c-s-fu)
+- [C.Y. Hsu (許贊育)](./c-y-hsu)
+- [C.Y. Huang (黃清燕)](./c-y-huang)
+- [Cady Tsai (蔡暉玲)](./cady-tsai)
+- [Caleb Tsai (蔡登燦)](./caleb-tsai)
+- [Cao Changqing / 曹長青](./cao-changqing)
+- [Carol Cho (林秋菊)](./carol-cho)
+- [Carol Kuo (簡雁齡)](./carol-kuo)
+- [Carol Lee (李欣蔓)](./carol-lee)
+- [Carol Ou Lin (歐春美)](./carol-ou-lin)
+- [Carole Huang (陳春華)](./carole-huang)
+- [Caroline Chien (簡淑津)](./caroline-chien)
+- [Carolyn Kuan (關琦安)](./carolyn-kuan)
+- [Carrie Y. Tseng (曾郁庭博士)](./carrie-y-tseng)
+- [Castor Yu (尤中正)](./castor-yu)
+- [Catherine Hwang (黃李彩雲)](./catherine-hwang)
+- [Catherine Ken (耿懿芝)](./catherine-ken)
+- [Catherine Lan (藍巧茹)](./catherine-lan)
+- [Chang Hsin-hui / 張信惠](./zhang-xinhui)
+- [Chang Kuo-hsin (張國鑫博士)](./chang-kuo-hsin)
+- [Chang-I Tsai (蔡正一)](./chang-i-tsai)
+- [Chang-Yong Tsao (曹昌榮)](./chang-yong-tsao)
+- [Chao Sile / 趙思樂](./chao-sile)
+- [Chao W Chen (陳昭文)](./chao-w-chen)
+- [Chao-Hsiung Hsu (許昭雄醫師)](./chao-hsiung-hsu)
+- [Chao-Huei Jeffrey Wang (王肇輝)](./chao-huei-jeffrey-wang)
+- [Chao-Nan Liu (劉照男)](./chao-nan-liu)
+- [Chao-Yuh Yang (楊朝諭)](./chao-yuh-yang)
+- [Charlene Bos Alexander (莫霞琳)](./charlene-bos-alexander)
+- [Charlene Chen (陳怡林)](./charlene-chen)
+- [Charles Cheng-Chu Wu (吳政智)](./charles-cheng-chu-wu)
+- [Charles Chiang (江昭儀)](./charles-chiang)
+- [Charles Hsiao (蕭俊雄)](./charles-hsiao)
+- [Charles Huang (黃啟仁)](./charles-huang)
+- [Charles Ke (柯烱輝)](./charles-ke)
+- [Charles Lu (盧常吉)](./charles-lu)
+- [Charles Ting (丁昭昇)](./charles-ting)
+- [Charles Tsai (蔡其芳)](./charles-tsai)
+- [Charles W. Tang (唐瑋廷)](./charles-w-tang)
+- [Charles Yang (楊嘉猷)](./yang-jia-you)
+- [Charles Yu (游朝凱)](./charles-yu)
+- [Charlie Wang (王清圻)](./charlie-wang)
+- [Che-Hsuan Lin (林哲瑄)](./che-hsuan-lin)
+- [Che-Yen Chen (陳則言)](./che-yen-chen)
+- [Chee-Hway Tsai (蔡啟輝)](./chee-hway-tsai)
+- [Cheh-Jen Su (蘇哲仁)](./cheh-jen-su)
+- [Chen Chang Lee (李振昌)](./chen-chang-lee)
+- [Chen Chao-nan (陳昭南)](./chen-zhaonan)
+- [Chen Mao-xiong (陳茂雄)](./chen-maoxiong)
+- [Chen Meihui (陳美蕙)](./chen-meihui)
+- [Chen Po-kong (陳破空)](./chen-po-kong)
+- [Chen Shui-bian (陳水扁)](./chen-shuibian)
+- [Chen Zhefu & Xu Chunhui (陳哲夫、許春惠)](./chen-zhefu-xu-chunhui)
+- [Chen-Chao Wang (王震昭)](./chen-chao-wang)
+- [Chen-Jung Hsu (許振榮)](./chen-jung-hsu)
+- [Chen-Ming Wang (王建民)](./chen-ming-wang)
+- [Cheng Chin-jen / 鄭欽仁](./zheng-qinren)
+- [Cheng Long Tsai (蔡正隆博士)](./cheng-long-tsai)
+- [Cheng Wen-lung / 鄭文龍](./zheng-wenlong)
+- [Cheng Wu (吳錦城)](./cheng-wu)
+- [Cheng Y. Chuang (莊承業)](./cheng-y-chuang)
+- [Cheng-Hou Lee (李振豪)](./cheng-hou-lee)
+- [Cheng-Ming Chuong (鍾正明)](./cheng-ming-chuong)
+- [Cheng-Shen Fang (范振聲教授)](./cheng-shen-fang)
+- [Cheng-yan Kao (高成炎)](./cheng-yan-kao)
+- [Cheng-Yu Wei (魏琤郁)](./cheng-yu-wei)
+- [Cheng-Yung Kuo (郭正雍)](./cheng-yung-kuo)
+- [Chenhung Chen (陳貞宏)](./chenhung-chen)
+- [Chenming Hu (胡正明)](./chenming-hu)
+- [Cherie Jeng](./cherie-jeng)
+- [Chern-Hsiung Lai (賴辰雄)](./chern-hsiung-lai)
+- [Cherry Chi (紀江蒨)](./cherry-chi)
+- [Cheryl Lin Hong (林千千)](./cheryl-lin-hong)
+- [Chester Cherng Chiou Wu (吳澄秋博士)](./chester-cherng-chiou-wu)
+- [Chi Shih Huang (黃及時)](./chi-shih-huang)
+- [Chi Yi Chen (陳志宐)](./chi-yi-chen)
+- [Chi-Chen Wu (吳紀禛)](./chi-chen-wu)
+- [Chi-Chin Huang (黃際鑫)](./chi-chin-huang)
+- [Chi-Ching Grace Lin (林季靜)](./chi-ching-grace-lin)
+- [Chi-Jen Christopher Chung (鍾啓仁)](./chi-jen-christopher-chung)
+- [Chi-Lin O’Young (歐陽吉林)](./chi-lin-oyoung)
+- [Chi-Shun Hwang (黃智舜)](./chi-shun-hwang)
+- [Chi-Yin Chen](./chi-yin-chen)
+- [Chi-Yuan Chen (陳麒元)](./chi-yuan-chen)
+- [Chia Chun Jessica Hu (胡佳君)](./chia-chun-jessica-hu)
+- [Chia Wei Lee (李佳蔚)](./chia-wei-lee)
+- [Chia-Ching Liu (劉嘉慶)](./chia-ching-liu)
+- [Chia-Chun Chung (鍾佳君)](./chia-chun-chung)
+- [Chia-Hsuan Lee (李佳璇)](./chia-hsuan-lee)
+- [Chia-Jen Lo (羅嘉仁)](./chia-jen-lo)
+- [Chia-Lin Charles Liu (劉家麟)](./chia-lin-charles-liu)
+- [Chia-Ling Chien (簡嘉琳)](./chia-ling-chien)
+- [Chia-Yu Hsu (許家毓博士)](./chia-yu-hsu)
+- [Chiao-jung Wang (王巧蓉)](./chiao-jung-wang)
+- [Chieh Huang](./chieh-huang)
+- [Chien-An Chen (陳建安)](./chien-an-chen)
+- [Chien-Feng Jeffrey Wang (王劍峯博士)](./chien-feng-jeffrey-wang)
+- [Chien-Tai Chen (陳建台)](./chien-tai-chen)
+- [Chien-Ting Yeh (葉介庭)](./chien-ting-yeh)
+- [Chih Y Kuo (郭欽義教授)](./chih-y-kuo)
+- [Chih-Chen Wei (魏志真)](./chih-chen-wei)
+- [Chih-cheng Wang (王志成)](./chih-cheng-wang)
+- [Chih-Long Hu (胡志龍)](./chih-long-hu)
+- [Chih-Ming Ho (何志明)](./chih-ming-ho)
+- [Chih-Wei Hu (胡智為)](./chih-wei-hu)
+- [Chih-Wei Logan Hsu](./chih-wei-logan-hsu)
+- [Chih-Yi Chen (陳志毅)](./chih-yi-chen)
+- [Chihchun Chi-sun Lee (李志純)](./chihchun-chi-sun-lee)
+- [Chihmei Lin Chen (林智美)](./chihmei-lin-chen)
+- [Chin Chih Yang (楊金池)](./chin-chih-yang)
+- [Chin H. Liao (廖俊惠醫師)](./chin-h-liao)
+- [Chin Heng-wei (金恆煒)](./jin-hegui)
+- [Chin-Cha Cheng (鄭錦家)](./chin-cha-cheng)
+- [Chin-Feng Chen (陳金鋒)](./chin-feng-chen)
+- [Chin-Hsin Jason Liu (劉進興)](./chin-hsin-jason-liu)
+- [Chin-Hui Lee (李錦輝)](./chin-hui-lee)
+- [Chin-Hui Tsao (曹錦輝)](./chin-hui-tsao)
+- [Chin-Lung Hu (胡金龍)](./chin-lung-hu)
+- [Chin-Yi Lee (李琹怡)](./chin-yi-lee)
+- [Ching Ching Cernada (陳清清)](./ching-ching-cernada)
+- [Ching Ching Chen (鄭青青)](./ching-ching-chen)
+- [Ching Fen Lin (林青棻)](./ching-fen-lin-2)
+- [Ching Ih Wang (王進益)](./ching-ih-wang)
+- [Ching Sze Hsieh (謝清志博士)](./ching-sze-hsieh)
+- [Ching Yung Lee (李慶榮)](./ching-yung-lee)
+- [Ching-Chih Chen (陳清池)](./ching-chih-chen)
+- [Ching-Chong Huang (黃慶鍾醫師)](./ching-chong-huang)
+- [Ching-Fen Hsiao (蕭清芬)](./ching-fen-hsiao)
+- [Ching-Fen Lin (張靜芬)](./ching-fen-lin)
+- [Ching-Jang Yao (姚慶章)](./ching-jang-yao)
+- [Ching-Ju Cheng (鄭靜如)](./ching-ju-cheng)
+- [Ching-Ming Cheng (鄭靜旻)](./ching-ming-cheng)
+- [Ching-Nan Ou (歐清南)](./ching-nan-ou)
+- [Ching-Wen Hsiao (蕭晴文)](./ching-wen-hsiao)
+- [Ching-Yu Soar Huang (黃菁瑜)](./ching-yu-soar-huang)
+- [Ching-Yun Hu (胡瀞云)](./ching-yun-hu)
+- [Chingmhu Lee (李清木)](./chingmhu-lee)
+- [Chinying Rachel Chang (張金鶯)](./chinying-rachel-chang)
+- [Chio-Zong Frank Chen (陳秋榮)](./chio-zong-frank-chen)
+- [Chiu-Ling Lin (林巧琳)](./chiu-ling-lin)
+- [Chiu-Sen Wang (王秋森教授)](./chiu-sen-wang)
+- [Chiuder Hsiao (蕭秋德)](./chiuder-hsiao)
+- [Chiun-Teng Cheng (鄭俊騰)](./chiun-teng-cheng)
+- [Chiung-Hsiung Ou (歐炯雄)](./chiung-hsiung-ou)
+- [Cho-Liang Lin (林昭亮)](./cho-liang-lin)
+- [Chong Ming Lee (李聰敏)](./chong-ming-lee)
+- [Chou-Long Huang (黃朝龍)](./chou-long-huang)
+- [Chris CN Chang (張照男)](./chris-cn-chang)
+- [Christina Hu (胡若涵)](./christina-hu)
+- [Christina Lai (賴李煦煦)](./christina-lai)
+- [Christina Shuyu Hsu (許吳漱玉)](./christina-shuyu-hsu)
+- [Christina Yung-Chin Mollard (謝永芹)](./christina-yung-chin-mollard)
+- [Christine L. Yang (林壽英)](./christine-l-yang)
+- [Christopher Lin (林楷夫)](./christopher-lin)
+- [Chu C. Falling-Star (黃初娟)](./chu-c-falling-star)
+- [Chu-Chi Chen (陳珠琦醫師)](./chu-chi-chen)
+- [Chu-Huang Chen (陳珠璜)](./chu-huang-chen)
+- [Chuan Yuan Chen (陳泉淵)](./chuan-yuan-chen)
+- [Chuan-Kwang Yang (楊傳廣)](./chuan-kwang-yang)
+- [Chuang-Shien Lu (呂泉生)](./chuang-shien-lu)
+- [Chuck Lee (李忠敏)](./chuck-lee)
+- [Chue-Jen Huang (楊純貞)](./chue-jen-huang)
+- [Chuen-Mei Lee Fan (范李春美教授)](./chuen-mei-lee-fan)
+- [Chui Ying Hsu (黃翠英)](./chui-ying-hsu)
+- [Chun Chiu (邱俊邦)](./chun-chiu)
+- [Chun Hsin Jenny (伍君心)](./chun-hsin-jenny)
+- [Chun Long Jerry Tsung (曾俊隆)](./chun-long-jerry-tsung)
+- [Chun San Lee (李隼三博士)](./chun-san-lee)
+- [Chun-Chieh Chiu (邱俊杰)](./chun-chieh-chiu)
+- [Chun-Nan Hsu (許鈞南)](./chun-nan-hsu)
+- [Chun-Yen Chang (張俊彥)](./chun-yen-chang)
+- [Chun-Yung Lin (林純容)](./chun-yung-lin)
+- [Chung Chen Paul Hsu (許忠政)](./chung-chen-paul-hsu)
+- [Chung Chi Chou (周重吉)](./chung-chi-chou)
+- [Chung H. Wu (吳忠修)](./chung-h-wu)
+- [Chung Nan Shih (施忠男)](./chung-nan-shih)
+- [CHUNG-LIEN Chen (陳崇廉)](./chung-lien-chen)
+- [Chungchin Chen (陳仲欽)](./chungchin-chen)
+- [Cindy Chen (陳欣意)](./cindy-chen)
+- [Cindy Hsu Chung (許弘琪)](./cindy-hsu-chung)
+- [Cindy Huang (黃心怡)](./cindy-huang)
+- [Cindy Liu (劉杏芳)](./cindy-liu)
+- [Clara Chen (劉真真)](./clara-chen)
+- [Clare Chien-Lun Lee (李阡綸)](./clare-chien-lun-lee)
+- [Clement C.S.Hsu (許清曉)](./clement-c-s-hsu)
+- [Cleo Chiang (江詩怡)](./cleo-chiang)
+- [Clyde Kiang (江運貴)](./clyde-kiang)
+- [Coen Blaauw (昆布勞)](./coen-blaauw)
+- [Connie Huang (黃康妮)](./connie-huang)
+- [Connie Lu (呂婷婷)](./connie-lu)
+- [Connie Shiau (蕭潔恒)](./connie-shiau)
+- [Constance Wu (吳恬敏)](./constance-wu)
+- [Cossette Sun (吳春紅)](./cossette-sun)
 
-<h3 id="g">G</h3>
-- [[people/george-leslie-mackay|George Leslie Mackay (馬偕)]]
-- [[people/g-n-liao|G. N. Liao (廖光男)]]
-- [[people/gail-lee|Gail Lee (李秀文)]]
-- [[people/gary-hong|Gary Hong (洪逸凡)]]
-- [[people/gary-lee|Gary Lee (李桂銳)]]
-- [[people/gary-marvin-davison|Gary Marvin Davison]]
-- [[people/gene-cho|Gene Cho (卓仁祥)]]
-- [[people/gene-jack-wang|Gene-Jack Wang (王俊傑)]]
-- [[people/gene-lay|Gene Lay (賴正光)]]
-- [[people/george-chiang|George Chiang (江正吉)]]
-- [[people/george-h-kerr|George H. Kerr (葛超智)]]
-- [[people/george-ho|George Ho (何震輝)]]
-- [[people/george-hsu|George Hsu (許啟勇)]]
-- [[people/george-k-liu|George K. Liu (劉寬平)]]
-- [[people/george-kao|George Kao (高銘益)]]
-- [[people/george-lai|George Lai (賴忠智)]]
-- [[people/george-lee|George Lee (李東亨)]]
-- [[people/gin-ru-yeh|Gin Ru Yeh (葉錦如)]]
-- [[people/gloria-chang|Gloria Chang]]
-- [[people/gloria-chien|Gloria Chien (簡佩盈)]]
-- [[people/gloria-chuang|Gloria Chuang (莊邑文)]]
-- [[people/gloria-h-shaw|Gloria H. Shaw (李雪芬)]]
-- [[people/gong-sun-le|Gong Sun-le (公孫樂)]]
-- [[people/goo-shun-wang|Goo-Shun Wang (王谷神)]]
-- [[people/gordon-s-w-chin|Gordon S. W. Chin (金希文教授)]]
-- [[people/gou-chung-chi|Gou-Chung Chi (紀國鐘)]]
-- [[people/grace-chung|Grace Chung (鍾曉青博士)]]
-- [[people/grace-h-yeh|Grace H. Yeh (張信惠)]]
-- [[people/grace-lin|Grace Lin (吳瑞惠)]]
-- [[people/grace-liu|Grace Liu]]
-- [[people/grace-mei-en-ho|Grace Mei-En Ho (何美恩)]]
-- [[people/grace-tseng|Grace Tseng (李雲玉)]]
-- [[people/grace-yang|Grace Yang (楊蕙安)]]
-- [[people/grace-yia-hei-kao|Grace Yia-Hei Kao]]
-- [[people/guang-xiong-ling|Guang-Xiong Ling (凌光雄)]]
-- [[people/guo-shu-qing|Guo Shu-qing (郭淑卿)]]
-- [[people/guo-yingyan|Guo Yingyan (郭應言)]]
-- [[people/gwhyneth-chen|Gwhyneth Chen (陳毓襄)]]
-- [[organizations/good-shepherd-taiwanese-presbyterian-church|Good Shepherd Taiwanese Presbyterian Church (GSTPC)]]
+### D {#d}
 
+- [D. L. Yang (楊東龍)](./d-l-yang)
+- [D. Y. Liu (劉德勇)](./d-y-liu)
+- [Dan Lin (林暐)](./dan-lin)
+- [Dan-Yi Chen (陳丹怡)](./dan-yi-chen)
+- [Daniel Ko (柯耀宗博士)](./daniel-ko)
+- [Daniel Lin (林嘉仁)](./daniel-lin)
+- [Daniel Lu (盧以樂)](./daniel-lu)
+- [Daniel Yang](./daniel-yang)
+- [Danny Chen (陳啟耕)](./danny-chen)
+- [Danny Sheu](./danny-sheu)
+- [Daphne Tsao (曹恩菱)](./daphne-tsao)
+- [Darice Lee (洪珠美)](./darice-lee)
+- [David Chan (詹曉昀)](./david-chan)
+- [David Chiu (邱信福)](./david-chiu)
+- [David Chu (朱欽騏)](./david-chu)
+- [David Hsieh (謝漢強)](./david-hsieh)
+- [David J. Lu (盧焜熙)](./david-j-lu)
+- [David K. Wang (王光智牧師)](./david-k-wang)
+- [David Kuang-Tzu Lin (李光治博士)](./david-kuang-tzu-lin)
+- [David Lee (李東璞)](./david-lee)
+- [David Loong-Hsing Wen (溫隆信)](./david-loong-hsing-wen)
+- [David S. Chen (陳皙宗牧師)](./david-s-chen)
+- [David T. K. Chen (陳廷楷博士)](./david-t-k-chen)
+- [David Taka Yo (楊兆隆)](./david-taka-yo)
+- [David Wang (王思眾)](./david-wang)
+- [David Weng (翁嘉盛)](./david-weng)
+- [David Wu (吳振瑋博士)](./david-wu)
+- [David Yang (楊熾勳)](./david-yang)
+- [Davy Liu (劉大偉)](./davy-liu)
+- [Dawen Wang (王大文)](./dawen-wang)
+- [Dean Chang (張怡仁)](./dean-chang)
+- [Dean Liang (梁基典)](./dean-liang)
+- [Deana Chuang (莊惠綺)](./deana-chuang)
+- [Debbie Carlson](./debbie-carlson)
+- [Debbie Lee](./debbie-lee)
+- [Deborah Chuang Servino](./deborah-chuang-servino)
+- [Deborah Ma (馬佳美醫師)](./deborah-ma)
+- [Debra Liu (謝金朱)](./debra-liu)
+- [Dennis Lin (林博淵)](./dennis-lin)
+- [Dennis Wang (王梓仁)](./dennis-wang)
+- [DEW Chin-Ghi Chang (張清祺)](./dew-chin-ghi-chang)
+- [Diana Y Huang (黃玉桂)](./diana-y-huang)
+- [Diane D-S. Tang-Liu (湯丹霞博士)](./diane-d-s-tang-liu)
+- [Ding Yi Wang (楊定一博士)](./ding-yi-wang)
+- [Donald C.J. Chen (陳哲仁醫師)](./donald-c-j-chen)
+- [Donald J. Liu (劉瑞義牧師)](./donald-j-liu)
+- [Donald Tsai (蔡豪智)](./donald-tsai)
+- [Doris Hsieh (謝必行)](./doris-hsieh)
+- [Doris Lu-Anderson (呂佳霙博士)](./doris-lu-anderson)
+- [Doris T. Chang (張庭寧)](./doris-t-chang)
+- [Dou-Hwei Su Liu (劉蘇多惠)](./dou-hwei-su-liu)
+- [Doug Chiang (江道格)](./doug-chiang)
+- [Dr .Grace Fong](./grace-fong)
+- [Dr. Albert S. Lai (賴信雄)](./albert-s-lai)
+- [Dr. Alex Hung (洪克璿博士)](./dr-alex-hung)
+- [Dr. Alex Yang (楊青博士)](./dr-alex-yang)
+- [Dr. Alex Yen (顏俊醫師)](./dr-alex-yen)
+- [Dr. Amy H Kuo (郭惠美醫師)](./dr-amy-h-kuo)
+- [Dr. Andre Chen (陳安哲醫師)](./dr-andre-chen)
+- [Dr. Andy Hwang (黃慶安博士)](./dr-andy-hwang)
+- [Dr. B. C. Wen (溫碧謙醫師)](./dr-b-c-wen)
+- [Dr. B. S. Lu (呂邦雄醫師)](./dr-b-s-lu)
+- [Dr. Bernard Tsai (蔡武男醫師)](./dr-bernard-tsai)
+- [Dr. Binsiong Ou (胡民祥博士)](./dr-binsiong-ou)
+- [Dr. Bob Cheng (鄭寶鼎博士)](./bob-cheng)
+- [Dr. C. F. Huang (黃崇福醫師)](./dr-c-f-huang)
+- [Dr. C. John Won (翁錦鐘博士)](./dr-c-john-won)
+- [Dr. C. S. Yang (楊彰興醫師)](./c-s-yang)
+- [Dr. C.C. Chen (陳昭俊)](./c-c-chen)
+- [Dr. Cary S. Hung (洪哲勝博士)](./dr-cary-s-hung)
+- [Dr. Cecelia Tsai (葉明霞博士)](./dr-cecelia-tsai)
+- [Dr. Chanchi Lee (李常吉醫師)](./dr-chanchi-lee)
+- [Dr. Chang-Yang Wang (王昌洋醫師)](./dr-chang-yang-wang)
+- [Dr. Chao-Min Liu (劉兆民博士)](./dr-chao-min-liu)
+- [Dr. Charles C. Hsu (許宗邦醫師)](./charles-c-hsu)
+- [Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)](./chaolong-kao)
+- [Dr. Charles Chiu (邱華彥醫師)](./dr-charles-chiu)
+- [Dr. Charles Tu (杜武青博士)](./charles-tu)
+- [Dr. Chau H. Wu (吳照雄博士)](./dr-chau-h-wu)
+- [Dr. Che-Yang Huang (黃哲陽醫師)](./dr-che-yang-huang)
+- [Dr. Chen-Ho Wu (吳振和博士)](./chen-ho-wu)
+- [Dr. Cheng-Hung Yeh (葉澄鴻博士)](./dr-cheng-hung-yeh)
+- [Dr. Cheng-Yin Janine Lin (林政穎博士)](./cheng-yin-janine-lin)
+- [Dr. Cherng Jia Huang (黃呈嘉博士)](./cherng-jia-huang)
+- [Dr. Chi- Shiang Chen (陳吉祥醫師)](./dr-chi-shiang-chen)
+- [Dr. Chi-Cheng Huang (黃至成醫師)](./dr-chi-cheng-huang)
+- [Dr. Chi-chia Hsieh (謝其嘉博士)](./dr-chi-chia-hsieh)
+- [Dr. Chi-Huey Wong (翁啟惠博士)](./chi-huey-wong)
+- [Dr. Chi-Pang Wen (溫啟邦博士)](./dr-chi-pang-wen)
+- [Dr. Chi-Wan Lai (賴其萬醫師)](./dr-chi-wan-lai)
+- [Dr. Chia-Fu Chou (周家復博士)](./dr-chia-fu-chou)
+- [Dr. Chiau-Seng Hwang (黃昭聲醫師)](./dr-chiau-seng-hwang)
+- [Dr. Chien Yuan Kao (高健元博士)](./dr-chien-yuan-kao)
+- [Dr. Chih-Chien Adam Chou (周志謙博士)](./dr-chih-chien-adam-chou)
+- [Dr. Chih-Ming Chen (陳志明博士)](./dr-chih-ming-chen)
+- [Dr. Chin B. Su (蘇成彬教授)](./dr-chin-b-su)
+- [Dr. Chin-Ming Chen (陳欽明醫師)](./chin-ming-chen)
+- [Dr. Ching C. Shir (石清正博士)](./dr-ching-c-shir)
+- [Dr. Ching K. Lin (林清貴博士)](./dr-ching-k-lin)
+- [Dr. Ching-Hsing Liao (廖進興博士)](./dr-ching-hsing-liao)
+- [Dr. Ching-Jen Wang (王清貞醫師)](./dr-ching-jen-wang)
+- [Dr. Ching-Rong Cheng (鄭清榮醫師)](./dr-ching-rong-cheng)
+- [Dr. Ching-Shen Lin (林清森醫師)](./dr-ching-shen-lin)
+- [Dr. Ching-Tsang Hou (侯景滄博士)](./dr-ching-tsang-hou)
+- [Dr. Ching-Tse Lee (李清澤博士)](./dr-ching-tse-lee)
+- [Dr. Chiu-Shan Chen (陳秋山博士)](./dr-chiu-shan-chen)
+- [Dr. Chiung T. Ling (林安息)](./dr-chiung-t-ling)
+- [Dr. Choan-Seng Song (宋泉盛)](./choan-seng-song)
+- [Dr. Chris Fan (范清亮博士)](./dr-chris-fan)
+- [Dr. Christopher Shih (石慶愷醫師)](./dr-christopher-shih)
+- [Dr. Chuan Chang (張仲權博士)](./dr-chuan-chang)
+- [Dr. Chun C Tsai (蔡俊晴醫師)](./dr-chun-c-tsai)
+- [Dr. Chun Hsiang Lu (盧俊雄醫師)](./dr-chun-hsiang-lu)
+- [Dr. Chung Chiu (邱強博士)](./dr-chung-chiu)
+- [Dr. Dan-Kai Liu (劉登凱博士)](./dr-dan-kai-liu)
+- [Dr. Daniel C. Hsu (許正雄醫師)](./dr-daniel-c-hsu)
+- [Dr. Daniel Kao (高光民)](./daniel-kao)
+- [Dr. Daniel TH Liu (劉鼎秀博士)](./dr-daniel-th-liu)
+- [Dr. David Ho (何大一醫師)](./dr-david-ho)
+- [Dr. David Hong (洪德生博士)](./dr-david-hong)
+- [Dr. David Tsay (蔡丁財博士)](./david-tsay)
+- [Dr. Doug Chen-Hua Yu (余振華博士)](./dr-doug-chen-hua-yu)
+- [Dr. Edward Cheng (鄭德昌博士)](./dr-edward-cheng)
+- [Dr. Edward T. S. Huang (黃東昇博士)](./dr-edward-t-s-huang)
+- [Dr. Ei-Shun Lin (林益顯醫師)](./dr-ei-shun-lin)
+- [Dr. Emerson M.F. Jou (周明峰醫師)](./emerson-m-f-jou)
+- [Dr. Evan Ling (林富文博士)](./dr-evan-ling)
+- [Dr. Fei-Kuang Tseng (曾輝光博士)](./fei-kuang-tseng)
+- [Dr. Franklin Fong-Ming Lee (李豐明博士)](./dr-franklin-fong-ming-lee)
+- [Dr. Fu Yuan Hsu (許富淵)](./dr-fu-yuan-hsu)
+- [Dr. Fu-Chen Lo (羅福全博士)](./dr-fu-chen-lo)
+- [Dr. Fu-Kai Hsieh (謝富凱博士)](./dr-fu-kai-hsieh)
+- [Dr. Fu-Kuen Lin (林福坤博士)](./dr-fu-kuen-lin)
+- [Dr. Fu-Mei Chang (張富美博士)](./fu-mei-chang)
+- [Dr. Fu-Tong Hsu (徐福棟博士)](./dr-fu-tong-hsu)
+- [Dr. Fu-Tong Liu (劉扶東博士)](./dr-fu-tong-liu)
+- [Dr. G. C. Huang (黃光彩博士)](./dr-g-c-huang)
+- [Dr. George Tseng (曾水福博士)](./george-tseng)
+- [Dr. Gerrit Van Der Wees (韋傑理博士)](./dr-gerrit-van-der-wees)
+- [Dr. Gichiong Khu (邱義昌博士)](./dr-gichiong-khu)
+- [Dr. Goodwin Hon Liu (劉弘威博士)](./dr-goodwin-hon-liu)
+- [Dr. Grace Wu (吳秀惠醫師)](./dr-grace-wu)
+- [Dr. Guan-Xun Huang (黃冠勳博士)](./dr-guan-xun-huang)
+- [Dr. Guei-Yun Yang (楊貴運博士)](./dr-guei-yun-yang)
+- [Dr. Henry H. Yu (游宏仁醫師)](./dr-henry-h-yu)
+- [Dr. Henry K. Tsai](./dr-henry-k-tsai)
+- [Dr. Henry Y. Wu (吳銀鏤醫師)](./dr-henry-y-wu)
+- [Dr. Hofu Wu (吳和甫博士)](./hofu-wu)
+- [Dr. Hong Tien Lai (賴弘典醫師)](./dr-hong-tien-lai)
+- [Dr. Hong-Chien Lin (林洪謙醫師)](./dr-hong-chien-lin)
+- [Dr. Hong-Yen Hsu (許鴻源博士)](./dr-hong-yen-hsu)
+- [Dr. Hsing-Chi Chuck Chang (張幸吉博士)](./dr-hsing-chi-chuck-chang)
+- [Dr. Hsing-Hua Sylvia Lin (林杏樺博士)](./dr-hsing-hua-sylvia-lin)
+- [Dr. Hsinlin Cheng (鄭新霖醫師)](./dr-hsinlin-cheng)
+- [Dr. Hui-Ling Chen (陳慧玲博士)](./dr-hui-ling-chen)
+- [Dr. Hung-ping Tsao (曹恆平博士)](./dr-hung-ping-tsao)
+- [Dr. Hwalin Lee (李華林博士)](./dr-hwalin-lee)
+- [Dr. I-Shih Chang (張倚石博士)](./dr-i-shih-chang)
+- [Dr. Izabel S. H. Chuang (莊捷筠博士)](./dr-izabel-s-h-chuang)
+- [Dr. J. C. Wu (巫建嶔博士)](./dr-j-c-wu)
+- [Dr. Jack J. Chen (陳宏傑教授)](./dr-jack-j-chen)
+- [Dr. Jackson Chiu (邱坤勝博士)](./dr-jackson-chiu)
+- [Dr. Jacob Huang (黃正雅醫師)](./dr-jacob-huang)
+- [Dr. James Tsai (蔡育智醫師)](./dr-james-tsai)
+- [Dr. Jane H. Hsiao (許照惠博士)](./dr-jane-h-hsiao-2)
+- [Dr. Jane H. Hsiao (許照惠博士)](./jane-h-hsiao)
+- [Dr. Jason Wang (王智弘)](./dr-jason-wang)
+- [Dr. Jeffrey Tsai (蔡長宗醫師)](./dr-jeffrey-tsai)
+- [Dr. Jen-Tai Tsai (蔡仁泰博士)](./dr-jen-tai-tsai)
+- [Dr. Jen-Tse Cheng (鄭仁澤醫師)](./dr-jen-tse-cheng)
+- [Dr. Jen-Tzaw Huang (黃健造博士)](./dr-jen-tzaw-huang)
+- [Dr. Jen-Yih Chu (朱真一博士)](./dr-jen-yih-chu)
+- [Dr. Jenta Shen (沈仁達醫師)](./dr-jenta-shen)
+- [Dr. Jer-Yuan Tsai (蔡哲元醫師)](./dr-jer-yuan-tsai)
+- [Dr. Jheng Yan (嚴正博士)](./dr-jheng-yan)
+- [Dr. Jia-Huey Lin Yu (林佳惠博士)](./dr-jia-huey-lin-yu)
+- [Dr. Jia-Rhon Chen (陳家榮醫師)](./dr-jia-rhon-chen)
+- [Dr. Jian-Juei Wang (王健椎博士)](./dr-jian-juei-wang)
+- [Dr. Jii James Shieh (謝己博士)](./dr-jii-james-shieh)
+- [Dr. Jim Lin (林存欣醫師)](./dr-jim-lin)
+- [Dr. Jin L. Lin (林金龍博士)](./dr-jin-l-lin)
+- [Dr. John Chieu (邱忠男博士)](./dr-john-chieu)
+- [Dr. John Hsu (徐新宏博士)](./dr-john-hsu)
+- [Dr. John Tsuang (莊文宗醫師)](./dr-john-tsuang)
+- [Dr. John Wu (吳正義醫師)](./dr-john-wu)
+- [Dr. Jong Huang (黃重德醫師)](./dr-jong-huang)
+- [Dr. Joseph Kho (許隼夫博士)](./dr-joseph-kho)
+- [Dr. Joseph Kuo (郭正昭博士)](./dr-joseph-kuo)
+- [Dr. Ju-Cheng Lee (李汝城醫師)](./dr-ju-cheng-lee)
+- [Dr. Jui Yuan Raymond Cheng (鄭瑞源博士)](./dr-jui-yuan-raymond-cheng)
+- [Dr. Jung T. Tsai (蔡榮聰醫師)](./dr-jung-t-tsai)
+- [Dr. Justina Hwang (黃貞琪博士)](./dr-justina-hwang)
+- [Dr. Justine Fang Chen (陳潔思博士)](./dr-justine-fang-chen)
+- [Dr. K. P. Fu (傅康平博士)](./dr-k-p-fu)
+- [Dr. Karen Hsiao Savage](./dr-karen-hsiao-savage)
+- [Dr. Kei-Hsiung Yang (楊界雄博士)](./dr-kei-hsiung-yang)
+- [Dr. Keith Wang (王振濃博士)](./dr-keith-wang)
+- [Dr. Kent Wu (吳英資博士)](./dr-kent-wu)
+- [Dr. Ker-Chau Li (李克昭博士)](./dr-ker-chau-li)
+- [Dr. Ketty W. Chen (陳婉宜)](./dr-ketty-w-chen)
+- [Dr. Khang-Loon Ho (何康隆醫師)](./dr-khang-loon-ho)
+- [Dr. Kopin Liu (劉國平博士)](./dr-kopin-liu)
+- [Dr. Kuang Chi Liang (梁礦琪醫師)](./dr-kuang-chi-liang)
+- [Dr. Kuei-Hsien Chen (陳貴賢博士)](./dr-kuei-hsien-chen)
+- [Dr. Kuen-Shii Tsay (蔡坤喜醫師)](./dr-kuen-shii-tsay)
+- [Dr. Kun T. Liao (廖坤塗醫師)](./dr-kun-t-liao)
+- [Dr. Kung-Ming Jan (詹恭明醫師)](./dr-kung-ming-jan)
+- [Dr. Kuo Shih Yeh (葉國勢博士)](./dr-kuo-shih-yeh)
+- [Dr. Kuo-Pin Wang (王國斌博士)](./dr-kuo-pin-wang)
+- [Dr. Kuochih Hong (洪國治博士)](./dr-kuochih-hong)
+- [Dr. L. C. Lin (林麗瓊博士)](./dr-l-c-lin)
+- [Dr. Lien-Hwa Chow (周聯華)](./lien-hwa-chow)
+- [Dr. Lii Mei Beverly Chang (張理美醫師)](./dr-lii-mei-beverly-chang)
+- [Dr. Lily Wang (王俐力醫師)](./dr-lily-wang)
+- [Dr. Lisa Su (蘇姿豐博士)](./dr-lisa-su)
+- [Dr. Long Song Simon Lin (林榮松醫師)](./dr-long-song-simon-lin)
+- [Dr. Long-Rong Mark Kao (高龍榮)](./long-rong-mark-kao)
+- [Dr. Lung-Fong Chen (陳隆豐博士)](./dr-lung-fong-chen)
+- [Dr. Lynn Y.S. Lin (林英祥博士)](./dr-lynn-y-s-lin)
+- [Dr. M. Y. Chou (周美吟博士)](./dr-m-y-chou)
+- [Dr. Matthew M. Yeh (葉孟哲醫師)](./dr-matthew-m-yeh)
+- [Dr. May Chiu (邱鈺琳醫師)](./dr-may-chiu)
+- [Dr. Mei-Ann Chen (陳美安博士)](./dr-mei-ann-chen)
+- [Dr. Mike Kuo (郭正光博士)](./dr-mike-kuo)
+- [Dr. Min Hsiung Liang (梁敏雄博士)](./dr-min-hsiung-liang)
+- [Dr. Min Hsiung Tsai (蔡敏雄博士)](./dr-min-hsiung-tsai)
+- [Dr. Min Kao (高民環博士)](./min-kao)
+- [Dr. Min-Chin Mary Lee (李敏琴醫師)](./dr-min-chin-mary-lee)
+- [Dr. Min-Da Wu M.D. (吳明達)](./dr-min-da-wu-m-d)
+- [Dr. Min-Hsiung Ko (柯敏雄醫師)](./dr-min-hsiung-ko)
+- [Dr. Min-Yen Han (韓明元醫師)](./dr-min-yen-han)
+- [Dr. Ming Cheng Liau (廖明徵博士)](./dr-ming-cheng-liau)
+- [Dr. Ming Hong Chow (周明宏博士)](./dr-ming-hong-chow)
+- [Dr. Ming J. Lee (李銘正博士)](./dr-ming-j-lee)
+- [Dr. Ming Liang Pan (潘銘梁博士)](./dr-ming-liang-pan)
+- [Dr. Ming Tang Lai (賴明堂博士)](./dr-ming-tang-lai)
+- [Dr. Ming-Daw Tsai (蔡明道博士)](./dr-ming-daw-tsai)
+- [Dr. Ming-Lon Young (楊明倫醫師)](./dr-ming-lon-young)
+- [Dr. Minze Chien (簡明子博士)](./dr-minze-chien)
+- [Dr. Mu-Sheng Wu (吳木盛博士)](./dr-mu-sheng-wu)
+- [Dr. Nancy Fan-Paul (樊意琪醫師)](./dr-nancy-fan-paul)
+- [Dr. Or. Hsieh (謝娥醫師)](./dr-or-hsieh)
+- [Dr. Patrick C. Chen (陳彰醫師)](./dr-patrick-c-chen)
+- [Dr. Paul Chen](./dr-paul-chen)
+- [Dr. Peter Huang (黃勝雄醫師)](./dr-peter-huang)
+- [Dr. Peter Tsai (蔡秉燚博士)](./dr-peter-tsai)
+- [Dr. Peter Wu (吳平原博士)](./dr-peter-wu)
+- [Dr. Po-Chun Chen (陳柏均博士)](./dr-po-chun-chen)
+- [Dr. Po-Fang Philip Hsieh (謝伯芳博士)](./dr-po-fang-philip-hsieh)
+- [Dr. Pofu Hsieh (謝博夫醫師)](./dr-pofu-hsieh)
+- [Dr. Poshing Lee (李勃興醫師)](./dr-poshing-lee)
+- [Dr. Priscilla Peilan Chiu (邱佩蘭醫師)](./dr-priscilla-peilan-chiu)
+- [Dr. R. Palmer Beasley (畢思理博士)](./dr-r-palmer-beasley)
+- [Dr. Ray Wang (王瑞華博士)](./dr-ray-wang)
+- [Dr. Raymond J. Jan (詹正治博士)](./dr-raymond-j-jan)
+- [Dr. Rex Yu (余忠村博士)](./dr-rex-yu)
+- [Dr. Richard R. Hwang (黃瑞煊醫師)](./dr-richard-r-hwang)
+- [Dr. Richard Yu-Tsang Lin (林譽蒼)](./dr-richard-yu-tsang-lin)
+- [Dr. Robert Y. Lai (賴義雄博士)](./dr-robert-y-lai)
+- [Dr. S. F. Sheuh (薛信夫博士)](./dr-s-f-sheuh)
+- [Dr. S. H. Lee (李舜豪醫師)](./dr-s-h-lee)
+- [Dr. S. T. Cheng (鄭信傳醫師)](./dr-s-t-cheng)
+- [Dr. Sam Shee (施哲三醫師)](./dr-sam-shee)
+- [Dr. Scott ChangChien (張簡吉誠醫師)](./dr-scott-changchien)
+- [Dr. Sebo Koh (許世模醫師)](./dr-sebo-koh)
+- [Dr. Seifu Ryu (劉清風醫師)](./dr-seifu-ryu)
+- [Dr. Shan P Tsai (蔡善璞博士)](./dr-shan-p-tsai)
+- [Dr. Sheng-Yi Chuang (莊勝義博士)](./dr-sheng-yi-chuang)
+- [Dr. Shiching John Chang (張錫清博士)](./dr-shiching-john-chang)
+- [Dr. Shin S. Chen (陳幸世醫師)](./dr-shin-s-chen)
+- [Dr. Shinn-Sheng Chang (張信行醫師)](./dr-shinn-sheng-chang)
+- [Dr. Shoki Coe (黃彰輝)](./shoki-coe)
+- [Dr. Shug-Hong Young (楊士宏醫師)](./dr-shug-hong-young)
+- [Dr. Shyu-Tu Lee (李學圖博士)](./shyu-tu-lee)
+- [Dr. Sie-Ling Chiang (姜西淋博士)](./dr-sie-ling-chiang)
+- [Dr. Sie-Tung Liu (劉協同博士)](./dr-sie-tung-liu)
+- [Dr. Sing-San Yang (楊省三醫師)](./dr-sing-san-yang)
+- [Dr. Song-Ping Lee (李嵩斌醫師)](./dr-song-ping-lee)
+- [Dr. Soo-Chen Cheng (鄭淑珍博士)](./dr-soo-chen-cheng)
+- [Dr. Stephen Chen (陳貞華博士)](./dr-stephen-chen)
+- [Dr. Steve Huang (黃文谷醫師)](./dr-steve-huang)
+- [Dr. Steve Lee (李致一醫師)](./dr-steve-lee)
+- [Dr. Su-May Yu (余淑美博士)](./dr-su-may-yu)
+- [Dr. Su-Mei Kao (林素梅博士)](./dr-su-mei-kao)
+- [Dr. Suy Ming Sam Chou (周烒明博士)](./dr-suy-ming-sam-chou)
+- [Dr. Tai-Cheng Chen (陳泰成博士)](./tai-cheng-chen)
+- [Dr. Taitzer Wang (王泰澤博士)](./dr-taitzer-wang)
+- [Dr. Tan-Sun Mark Chen (陳唐山博士)](./dr-tan-sun-mark-chen)
+- [Dr. Ted Fan (范少達博士)](./ted-fan)
+- [Dr. Tehming Liang (梁德明醫師)](./dr-tehming-liang)
+- [Dr. Teng Lung Hsu (許登龍醫師)](./dr-teng-lung-hsu)
+- [Dr. Thomas Yawting Ko (柯耀庭醫師)](./dr-thomas-yawting-ko)
+- [Dr. Tom Chiu (邱崇德博士)](./dr-tom-chiu)
+- [Dr. Tom F. Lue (呂福泰教授)](./dr-tom-f-lue)
+- [Dr. Tom Lee (李木通博士)](./tom-lee)
+- [Dr. Tong Y. Chen (陳東榮醫師)](./dr-tong-y-chen)
+- [Dr. Tsann-Wang Yu (余燦旺博士)](./dr-tsann-wang-yu)
+- [Dr. Tsing Fang Chen (陳錦芳博士)](./dr-tsing-fang-chen)
+- [Dr. Tso-Yee Fan (范佐怡博士)](./dr-tso-yee-fan)
+- [Dr. Tsunie Chanchien (張簡俊一醫師)](./dr-tsunie-chanchien)
+- [Dr. Tu Chen (陳都博士)](./dr-tu-chen)
+- [Dr. Tzu-Hsing April Kuo (郭姿杏博士)](./dr-tzu-hsing-april-kuo)
+- [Dr. Tzu-Shong Yang (楊次雄醫師)](./dr-tzu-shong-yang)
+- [Dr. Victor Shen (沈新欽博士)](./dr-victor-shen)
+- [Dr. Vincent Chuang (莊伯祥醫師)](./dr-vincent-chuang)
+- [Dr. Vincent Wah-Sang Yeung (楊華生醫師)](./dr-vincent-wah-sang-yeung)
+- [Dr. Virginia S. Shen (李香蘭教授)](./dr-virginia-s-shen)
+- [Dr. W.P. Andrew Lee (李為平醫師)](./dr-w-p-andrew-lee)
+- [Dr. Wayne Lung Wang (王文隆博士)](./dr-wayne-lung-wang)
+- [Dr. Wei-Shen W. Lin (林威伸醫師)](./dr-wei-shen-w-lin)
+- [Dr. Wei-Ting Yen (顏維婷博士)](./dr-wei-ting-yen)
+- [Dr. Wei-Yang Andy Lin (林維洋博士)](./dr-wei-yang-andy-lin)
+- [Dr. Wen Y. Chen (陳文淵醫師)](./dr-wen-y-chen)
+- [Dr. Wen-Chang Yang (楊文昌醫師)](./dr-wen-chang-yang)
+- [Dr. Wen-Chen Kenneth Wu (吳文振博士)](./dr-wen-chen-kenneth-wu)
+- [Dr. Wen-Hsien Wu (吳聞咸醫師)](./dr-wen-hsien-wu)
+- [Dr. William L. Ko (柯威霖博士)](./dr-william-l-ko)
+- [Dr. William P. Tseng (曾伯聰醫師)](./dr-william-p-tseng)
+- [Dr. Wu Hsiung Tsai (蔡武雄博士)](./dr-wu-hsiung-tsai)
+- [Dr. Wylie I. Lee (李英偉博士)](./dr-wylie-i-lee)
+- [Dr. Y. C. Cheng (鄭翼宗博士)](./dr-y-c-cheng)
+- [Dr. Y. C. Simon Liu (劉耀經博士)](./dr-y-c-simon-liu)
+- [Dr. Ya Yen Lee (李雅彥醫師)](./dr-ya-yen-lee)
+- [Dr. Yao-Chung Tsao (卓耀宗博士)](./dr-yao-chung-tsao)
+- [Dr. Yao-Tseng Chen (陳耀楨醫師)](./dr-yao-tseng-chen)
+- [Dr. Yen-Yu Jenny Chen (陳延瑜博士)](./yen-yu-jenny-chen)
+- [Dr. Yeongchi Wu (吳永吉醫師)](./dr-yeongchi-wu)
+- [Dr. Ying-Yuan Lee (李應元博士)](./dr-ying-yuan-lee)
+- [Dr. Yuan-Tseh Lee (李遠哲博士)](./yuan-tseh-lee)
+- [Dr. Yunching Yeh Davis (葉芸青)](./yunching-yeh-davis)
+- [Dr. Yung-San Liang (梁永三博士)](./dr-yung-san-liang)
+- [Du Ao Cunfu (獨傲村夫)](./du-ao-cunfu)
 
-<h3 id="h">H</h3>
-- [[people/h-cristina-chen-oster|H. Cristina Chen-Oster (陳慧蓉)]]
-- [[people/h-f-josephine-huang|H. F. Josephine Huang (黃河芬)]]
-- [[people/h-h-chen|H. H. Chen (陳惠華)]]
-- [[people/h-j-andrew-wang|H. J. Andrew Wang (王惠鈞)]]
-- [[people/h-j-chen|H. J. Chen (陳小娟)]]
-- [[people/h-j-lee|H. J. Lee (李慧珍)]]
-- [[people/h-j-lin|H. J. Lin (林宏哲博士)]]
-- [[people/h-l-hung|H. L. Hung (洪榮隆)]]
-- [[people/h-m-chen|H. M. Chen (陳惠民)]]
-- [[people/h-m-jiang|H. M. Jiang (江蕙美)]]
-- [[people/h-m-yin|H. M. Yin (殷惠敏)]]
-- [[people/h-n-tong|H. N. Tong (童海南)]]
-- [[people/h-r-hsu|H. R. Hsu (許惠茹)]]
-- [[people/h-t-chen|H. T. Chen (陳學同)]]
-- [[people/h-w-huang|H. W. Huang (黃鴻偉)]]
-- [[people/h-w-wu|H. W. Wu (吳宏為)]]
-- [[people/h-wu|H. Wu (吳換博士)]]
-- [[people/h-y-chen|H. Y. Chen (陳弘毅)]]
-- [[people/h-y-chencheng|H. Y. ChenCheng (陳鄭弘堯)]]
-- [[people/haluko-lin|Haluko Lin (陳春子)]]
-- [[people/han-guoyu|Han Kuo-yu (韓國瑜)]]
-- [[people/han-han-cho|Han Han Cho (卓涵涵博士)]]
-- [[people/han-hsiao-lee|Han-Hsiao Lee (李含笑)]]
-- [[people/hanchien-lee|Hanchien Lee (李函蒨博士)]]
-- [[people/hann-ping-wang|Hann-Ping Wang (王漢平博士)]]
-- [[people/hanna-huang|Hanna Huang (黃煒涵)]]
-- [[people/hanna-liao|Hanna Liao (周秀蘭)]]
-- [[people/hannah-hsu-wang|Hannah Hsu Wang (許鴻玉)]]
-- [[people/hansom-chen|Hansom Chen (陳翰申)]]
-- [[people/haofan-eric-peng|Haofan Eric Peng (彭浩帆)]]
-- [[people/harmony-yang|Harmony Yang (楊心新)]]
-- [[people/harold-m-otness|Harold M. Otness (歐獻文)]]
-- [[people/harrison-lin|Harrison Lin (林貞棟)]]
-- [[people/he-qingxuan|He Qinglian (何清漣)]]
-- [[people/he-sumei|He Sumei (何素美)]]
-- [[people/helen-allen|Helen Allen (趙夏蓮)]]
-- [[people/helen-huang|Helen Huang (黃海倫)]]
-- [[people/helen-loo|Helen Loo (翁進治)]]
-- [[people/helen-wang|Helen Wang (方惠音)]]
-- [[people/heng-liong-lin|Heng-Liong Lin (林興隆)]]
-- [[people/henry-c-liao|Henry C Liao (廖政森)]]
-- [[people/henry-c-liu|Henry C. Liu]]
-- [[people/henry-cheng|Henry Cheng (鄭煥壁)]]
-- [[people/henry-huan-bi-cheng|Henry Huan Bi Cheng (鄭煥璧)]]
-- [[people/henry-lee|Henry Lee (李豐隆)]]
-- [[people/henry-tseng|Henry Tseng (曾恆利)]]
-- [[people/henty-chen|Henty Chen (陳華山)]]
-- [[people/herbert-t-chen|Herbert T Chen (陳志青)]]
-- [[people/herng-shinn-hwang|Herng-Shinn Hwang (黃恆信)]]
-- [[people/his-ho-chou|His-Ho Chou (周錫和)]]
-- [[people/ho-chie-tsai|Ho Chie Tsai (蔡和杰)]]
-- [[people/ho-chu-yao|Ho Chu Yao (姚張和珠)]]
-- [[people/ho-rui-hsu|Ho Rui Hsu (許和瑞)]]
-- [[people/ho-yang-lin|Ho Yang Lin (楊千鶴)]]
-- [[people/ho-yangpeter-tsai|Ho-Yang Peter Tsai (蔡和陽)]]
-- [[people/hong-chih-kuo|Hong-Chih Kuo (郭泓志)]]
-- [[people/hong-ya|Hong Ya (洪雅)]]
-- [[people/hong-zong-lin|Hong Zong Lin (林宏容)]]
-- [[people/horng-tzer-yau|Horng-Tzer Yau (姚鴻澤)]]
-- [[people/hou-yu-ih|Hou Yu-ih (侯友宜)]]
-- [[people/howard-ho|Howard Ho]]
-- [[people/howard-shu|Howard Shu (舒之顥)]]
-- [[people/howard-w-moore|Howard W. Moore (慕維德)]]
-- [[people/hoyuan-liu|Hoyuan Liu (劉和元)]]
-- [[people/hsi-min-lin|Hsi-Min Lin (林希明)]]
-- [[people/hsiang-ling-hsiao|Hsiang-Ling Hsiao (蕭湘舲)]]
-- [[people/hsien-ann-meng|Hsien-Ann Meng (孟憲安博士)]]
-- [[people/hsien-ching-ko|Hsien-Ching Ko (柯賢清)]]
-- [[people/hsin-cheng-hsiao|Hsin-Cheng Hsiao (蕭新晟)]]
-- [[people/hsin-yun-huang|HSIN-YUN HUANG (黃心芸)]]
-- [[people/hsing-i-chen|Hsing-I Chen (陳欣沂)]]
-- [[people/hsinkuang-chen|HsinKuang Chen (陳信光)]]
-- [[people/hsiu-chine-yeh-wang|Hsiu-Chine Yeh Wang (葉秀卿)]]
-- [[people/hsiu-fang-susan-liu|Hsiu-Fang Susan Liu (陳秀芳)]]
-- [[people/hsu-ching-chun|Hsu Ching-chun (許景淳)]]
-- [[people/hsu-hsin-hung|Hsu Hsin-hung (徐新宏)]]
-- [[people/hsu-ling-yun|Hsu Ling-yun (許凌雲)]]
-- [[people/hsu-shih-huan|Hsu Shih-huan (許世環)]]
-- [[people/hsueh-hu-kuo|Hsueh-Hu Kuo (郭雪湖)]]
-- [[people/hsun-hsun-hsu|Hsun-Hsun Hsu (許恂恂)]]
-- [[people/hu-ping|Hu Ping / 胡平]]
-- [[people/hua-san-chi|Hua-San Chi (紀華山)]]
-- [[people/huai-en-tsai|Huai-En Tsai (蔡懷恩)]]
-- [[people/huai-shion-tsai|Huai Shion Tsai (蔡蕙香)]]
-- [[people/huang-diyin|Huang Di-ying (黃帝穎)]]
-- [[people/huang-gen-shen|Huang Gen-shen (黃根深)]]
-- [[people/huang-yongcheng|Huang Yung-cheng / 黃永成]]
-- [[people/huei-mei-jhou|Huei-mei Jhou (周惠美博士)]]
-- [[people/huei-pei-kuo|Huei Pei Kuo (郭惠沛博士)]]
-- [[people/huei-sheng-kao|Huei-Sheng Kao (高慧生)]]
-- [[people/huey-j-lee|Huey J. Lee (李惠仁醫師)]]
-- [[people/huey-li-liu|Huey Li Liu (劉惠麗)]]
-- [[people/huey-lin|Huey Lin (林惠洲)]]
-- [[people/hui-chi-connally|Hui-Chi Connally (徐慧姬)]]
-- [[people/hui-chuan-chen|Hui-Chuan Chen (陳慧娟)]]
-- [[people/hui-hsiung-kuo|Hui-Hsiung Kuo (郭輝雄)]]
-- [[people/hui-ling-hsu|Hui-Ling Hsu]]
-- [[people/hui-mei-lin|Hui Mei Lin (林慧美)]]
-- [[people/hui-na-lin|Hui Na Lin (賴慧娜)]]
-- [[people/hui-ting-yang|Hui-Ting Yang (楊惠婷)]]
-- [[people/huifan-helen-chen|Huifan Helen Chen]]
-- [[people/huifang-helen-chen|Huifang Helen Chen]]
-- [[people/hung-bin-ding|Hung-bin Ding (丁弘彬)]]
-- [[people/hung-jen-wu|Hung-Jen Wu (吳泓仁)]]
-- [[people/hung-kuan-chen|Hung-Kuan Chen (陳宏寬)]]
-- [[people/hung-ya-chao|Hung Ya Chao (趙弘雅)]]
-- [[people/hung-yi-shau|Hung-Yi Shau (蕭鴻宜博士)]]
-- [[people/hwa-chow-oliver-hsu|Hwa-Chow Oliver Hsu (許華洲)]]
-- [[people/hwan-chyang-lin|Hwan-Chyang Lin (林環牆)]]
-- [[people/hwei-ling-chen|Hwei-Ling Chen (涂惠鈴)]]
-- [[people/hwei-mei-amyhuang|Hwei-Mei Amy Huang (謝惠美)]]
-- [[people/hyden-shen|Hyden Shen (沈尚哲博士)]]
+### E {#e}
 
-<h3 id="i">I</h3>
-- [[people/i-bei-lin|I-Bei Lin (林怡貝)]]
-- [[people/i-chen-wang|I-Chen Wang]]
-- [[people/i-chun-catherine-chang|I-Chun Catherine Chang (張儀君教授)]]
-- [[people/i-chunn-lee|I-Chunn Lee]]
-- [[people/i-chuun-lee|I-Chuun Lee]]
-- [[people/i-fang-tsai|I-Fang Tsai (蔡宜芳)]]
-- [[people/i-jen-chen|I-Jen Chen (陳一仁醫師)]]
-- [[people/i-ling-chen|I-Ling Chen (陳奕伶)]]
-- [[people/i-s-chen|I. S. Chen (陳以信博士)]]
-- [[people/i-ting-huang|I-Ting Huang (黄怡婷)]]
-- [[people/i-uen-wang-hwang|I-Uen Wang Hwang (王怡雯)]]
-- [[people/i-y-lin|I. Y. Lin (林一洋醫師)]]
-- [[people/ian-chen|Ian Chen (陳彥竹)]]
-- [[people/ian-easton|Ian Easton (易思安)]]
-- [[people/ian-lin|Ian Lin (林毅安)]]
-- [[people/ian-y-lian|Ian Y. Lian]]
-- [[people/ignatius-lin|Ignatius Lin (林上翔)]]
-- [[people/ih-foo-lin|Ih Foo Lin (林毅夫醫師)]]
-- [[people/ing-hour-lin|Ing-Hour Lin (林英侯博士)]]
-- [[people/ing-hui-lai|Ing-Hui Lai (賴英慧)]]
-- [[people/ingrid-chun|Ingrid Chun (郭雋音)]]
-- [[people/ingrid-tseng|Ingrid Tseng (曾暎貴)]]
-- [[people/irene-lee|Irene Lee (李智惠)]]
-- [[people/irene-lin|Irene Lin (林晃宇)]]
-- [[people/iris-ho|Iris Ho (何燕青)]]
-- [[people/irvin-lin|Irvin Lin (林斐強)]]
-- [[people/isaiah-lee|Isaiah Lee (李宗派教授)]]
-- [[people/ivy-yang|Ivy Yang (楊靜芬)]]
-- [[organizations/irvine-taiwanese-presbyterian-church|Irvine Taiwanese Presbyterian Church (ITPC)]]
+- [Echo Lew (劉白)](./echo-lew)
+- [Echo Lin (林錫湖博士)](./echo-lin)
+- [Ed Lin (林艾德)](./ed-lin)
+- [Edward Chen (陳以德博士)](./edward-chen)
+- [Edward J. S. Lin (林敬賢)](./edward-j-s-lin)
+- [Edward K Wang (王凱廷)](./edward-k-wang)
+- [Edward Liu (劉俊宏)](./edward-liu)
+- [Edwyn Charles Eddie Huang (黄颐銘)](./edwyn-charles-eddie-huang)
+- [Ehin-Lin Guo (郭青齡博士)](./ehin-lin-guo)
+- [Eiji Urata (謝榮慶)](./eiji-urata)
+- [Eileen Chang (楊宜宜)](./eileen-chang)
+- [Eileen Lin](./eileen-lin)
+- [Eileen Lo (丁志清)](./eileen-lo)
+- [Ejen Chuang](./ejen-chuang)
+- [Elaine Kate Liu](./elaine-kate-liu)
+- [Elaine Liu (黃久香)](./elaine-liu)
+- [Elder Chen Xialian (陳夏蓮長老)](./chen-xialian)
+- [Elder Deng Shuzhen (鄧淑貞長老)](./deng-shuzhen)
+- [Elder John Lai (賴永祥)](./john-lai)
+- [Elder Qiu Yunen (邱瑜嫩)](./qiu-yunen)
+- [Elder Wang Xinxin (王信心)](./wang-xinxin)
+- [Elder Xiao Xien (蕭錫恩)](./xiao-xien)
+- [Elder Xu Wenkai (許文凱)](./xu-wenkai)
+- [Eleanor Tsai (謝婉香)](./eleanor-tsai)
+- [Elena Ling (黃美惠)](./elena-ling)
+- [Elizabeth S. Chen (李秀麗)](./elizabeth-s-chen)
+- [Emeritus HH Chiu (邱輝煌)](./emeritus-hh-chiu)
+- [Emily Hsieh (謝艾琳)](./emily-hsieh)
+- [Emily Lin Lee (林榮峰)](./emily-lin-lee)
+- [Emily Muramoto (蔡蕙宇)](./emily-muramoto)
+- [Emily X.R. Pan (潘相如)](./emily-x-r-pan)
+- [Emma Chen (陳怡邁)](./emma-chen)
+- [Enchin Shaw Chen (蕭永真)](./enchin-shaw-chen)
+- [Enoch Wu (吳怡農)](./enoch-wu)
+- [Erh Lin (林二)](./erh-lin)
+- [Erh-Jen Lee (李爾仁)](./erh-jen-lee)
+- [Erh-Ping Tsai (蔡爾平)](./erh-ping-tsai)
+- [Eric C.C. Chang](./eric-c-c-chang)
+- [Eric Cheng (鄭晧)](./eric-cheng)
+- [Eric Chien (簡綸廷)](./eric-chien)
+- [Eric Lee (李英毅)](./eric-lee)
+- [Eric Ling](./eric-ling)
+- [Eric Liu (劉柏川)](./eric-liu)
+- [Eric Shen (沈梓在)](./tzetsai-eric-shen)
+- [Eric Teng-Kuan Huang (黃騰寬)](./eric-teng-kuan-huang)
+- [Eric Ting (丁維均)](./eric-ting)
+- [Eric Wei (魏安仁)](./eric-wei)
+- [Eric Wu (吳爾融)](./eric-wu)
+- [Eric Yang (楊一哲)](./eric-yang)
+- [Esther C. Lin (林陳春蘭)](./esther-c-lin)
+- [Esther Chou Lu (周慧香)](./esther-chou-lu)
+- [Esther Shieh (謝逸詩)](./esther-shieh)
+- [Eva Hsia (夏敬安)](./eva-hsia)
+- [Evonne Hsu (許慧欣)](./evonne-hsu)
 
-<h3 id="j">J</h3>
-- [[people/j-c-chen|J. C. Chen (陳進財)]]
-- [[people/j-c-hong|J. C. Hong (洪濬正)]]
-- [[people/j-c-lai|J. C. Lai (賴景宗)]]
-- [[people/j-c-lin|J. C. Lin (林震泉)]]
-- [[people/j-c-lu|J. C. Lu (盧健治)]]
-- [[people/j-e-wu|J. E. Wu (吳榮二)]]
-- [[people/j-h-justina-shieh|J. H. Justina Shieh (謝節惠)]]
-- [[people/j-h-liang|J. H. Liang (梁見後)]]
-- [[people/j-m-chiang|J. M. Chiang (江榮茂)]]
-- [[people/j-m-ding|J. M. Ding (丁紀明)]]
-- [[people/j-p-lee|J. P. Lee (李金波)]]
-- [[people/j-s-chien|J. S. Chien (簡忠松)]]
-- [[people/j-s-chung|J. S. Chung (鍾俊賢)]]
-- [[people/j-s-liu|J. S. Liu (劉佳欣)]]
-- [[people/j-w-huang-lee|J. W. Huang Lee (李黃貞文)]]
-- [[people/j-y-jackson-ko|J. Y. Jackson Ko (柯哲洋)]]
-- [[people/j-y-lin|J. Y. Lin (林哲也)]]
-- [[people/j-y-tsai|J. Y. Tsai (蔡金裕)]]
-- [[people/j-z-lee|J. Z. Lee (李錦容)]]
-- [[people/ja-hsieh|Ja Hsieh (謝家豪博士)]]
-- [[people/jack-chen|Jack Chen]]
-- [[people/jack-j-chen|Jack J. Chen (陳宏傑)]]
-- [[people/jack-j-jou|Jack J. Jou (周哲伍)]]
-- [[people/jack-w-su|Jack W. Su (蘇文杰)]]
-- [[people/jackson-kuo|Jackson Kuo (郭敏俊)]]
-- [[people/jacob-lu|Jacob Lu (盧能榮)]]
-- [[people/jacqueline-whang-peng|Jacqueline Whang-Peng (彭汪嘉康)]]
-- [[people/jacy-chen|Jacy Chen (陳彩雲博士)]]
-- [[people/james-cheng|James Cheng (鄭乃榮)]]
-- [[people/james-chin-chun-su|James Chin-Chun Su (蘇金春)]]
-- [[people/james-david-king|James David King (王振明)]]
-- [[people/james-ger|James Ger (葛原隆醫師)]]
-- [[people/james-hu|James Hu (胡宏仁)]]
-- [[people/james-j-y-hsu|James J. Y Hsu (許正餘博士)]]
-- [[people/james-jean|James Jean]]
-- [[people/james-liang|James Liang (梁政吉)]]
-- [[people/james-laidlaw-maxwell|James Laidlaw Maxwell (馬雅各)]]
-- [[people/james-yang|James Yang (楊榮勝)]]
-- [[people/jamy-r-m-liu|Jamy R.M. Liu (尤瑞美)]]
-- [[people/jan-yung-lin|Jan-Yung Lin (林政原博士)]]
-- [[people/jane-lin|Jane Lin (許淑貞)]]
-- [[people/jane-marie-chen|Jane Marie Chen]]
-- [[people/janet-allen|Janet Allen (安美莉)]]
-- [[people/janet-hsieh|Janet Hsieh (謝怡芬)]]
-- [[people/janet-lee|Janet Lee (李慧芝)]]
-- [[people/jang-jang-yang-lee|Jang Jang Yang Lee (李楊娟娟)]]
-- [[people/jang-yen-wu|Jang-Yen Wu (吳政彥)]]
-- [[people/janice-ger|Janice Ger (吳瑩瑛)]]
-- [[people/janice-wong|Janice Wong (王正怡)]]
-- [[people/jannet-jah|Jannet Jah (李俊玲)]]
-- [[people/jasmin-lin|Jasmin Lin (林允白)]]
-- [[people/jason-chang|Jason Chang (張哲雄)]]
-- [[people/jason-chung|Jason Chung (莊建雄)]]
-- [[people/jason-huang|Jason Huang (黃仁宗)]]
-- [[people/jason-jung|Jason Jung (莊吉生)]]
-- [[people/jason-su|Jason Su (蘇子榮)]]
-- [[people/jason-tsai|Jason Tsai (蔡智行)]]
-- [[people/jason-wu|Jason Wu (吳季剛)]]
-- [[people/jason-yang|Jason Yang (楊憶軍)]]
-- [[people/jate-h-pan|Jate H. Pan (潘暉暋)]]
-- [[people/jau-ching-lai|Jau-Ching Lai (賴昭晴)]]
-- [[people/jaw-sy-chen|Jaw Sy Chen (陳昭司)]]
-- [[people/jawshing-arthur-liou|Jawshing Arthur Liou (劉肇興)]]
-- [[people/jay-chen|Jay Chen (陳介飛)]]
-- [[people/jean-cheng|Jean Cheng (鄭如珍)]]
-- [[people/jean-j-fang|Jean J. Fang (黃靜枝)]]
-- [[people/jecoliah-wang|Jecoliah Wang (王欣慈)]]
-- [[people/jeff-hou|Jeff Hou (侯志仁博士)]]
-- [[people/jeff-yang|Jeff Yang (楊致和)]]
-- [[people/jeffrey-l-chen|Jeffrey L. Chen (陳大立)]]
-- [[people/jeffrey-lee|Jeffrey Lee (李友禮)]]
-- [[people/jeffrey-liang|Jeffrey Liang (梁兆豐博士)]]
-- [[people/jeffrey-tsung|Jeffrey Tsung (鄭瑞雄醫師)]]
-- [[people/jen-chan|Jen Chan (詹純甄)]]
-- [[people/jen-hao-lee|Jen-Hao Lee (李仁豪牧師)]]
-- [[people/jen-hsin-lin|JEN HSIN LIN (林人信)]]
-- [[people/jen-jong-lai|Jen-Jong Lai (賴振榮)]]
-- [[people/jen-kao|Jen Kao (高嘉旎)]]
-- [[people/jen-sheen|Jen Sheen (沈正韻)]]
-- [[people/jen-shyu|Jen Shyu (徐雁秋)]]
-- [[people/jennie-wang|Jennie Wang (林靜娥)]]
-- [[people/jennifer-chen|Jennifer Chen]]
-- [[people/jennifer-fan|Jennifer Fan (方碧霞)]]
-- [[people/jennifer-hung|Jennifer Hung (洪錦鈺)]]
-- [[people/jennifer-j-chow|Jennifer J. Chow (周展儀)]]
-- [[people/jennifer-rorie-cheng|Jennifer Rorie Cheng]]
-- [[people/jenntyng-chern|Jenntyng Chern (陳振庭)]]
-- [[people/jenny-chiu|Jenny Chiu (邱正鵑)]]
-- [[people/jenny-lin|Jenny Lin (林佳靜)]]
-- [[people/jenny-m-lin-chang|Jenny M. Lin Chang (張美華)]]
-- [[people/jenny-wang|Jenny Wang (王采羿一)]]
-- [[people/jenny-y-yang|Jenny Y Yang (楊又芳)]]
-- [[people/jensen-huang|Jensen Huang (黃仁勳)]]
-- [[people/jensin-w-sommer|Jensin W. Sommer (翁正欣)]]
-- [[people/jer-shung-lin|Jer-Shung Lin (林衡哲本名林哲雄)]]
-- [[people/jeremy-lin|Jeremy Lin (林書豪)]]
-- [[people/jerry-huang|Jerry Huang (黃金利)]]
-- [[people/jerry-jan|Jerry Jan (詹春孟博士)]]
-- [[people/jerry-jean|Jerry Jean (簡子翕)]]
-- [[people/jesse-shiah|Jesse Shiah]]
-- [[people/jessica-chen|Jessica Chen (陳英惠)]]
-- [[people/jessie-chang|Jessie Chang (張晶晶)]]
-- [[people/jessie-lee|Jessie Lee (李潔晞)]]
-- [[people/jia-ru-li|Jia-Ru Li (李佳儒)]]
-- [[people/jiang-bai-xian|Jiang Bai-xian (江百顯)]]
-- [[people/jiann-tsyh-ken-lin|Jiann-Tsyh Ken Lin (林健次博士)]]
-- [[people/jien-hua-charles-chuang|Jien-Hua Charles Chuang (莊峻華)]]
-- [[people/jim-t-r-chen|Jim T. R. Chen (鄭昭任)]]
-- [[people/jim-young|Jim Young (楊正義)]]
-- [[people/jimenez-lai|Jimenez Lai (賴彥吉)]]
-- [[people/jimmy-li|Jimmy Li (李正明)]]
-- [[people/jin-chyuan-yu|Jin-Chyuan Yu (游銘泉)]]
-- [[people/jin-sheng-jian|Jin-Sheng Jian (簡金生)]]
-- [[people/jing-wen-yang|JING-WEN YANG (楊景文)]]
-- [[people/jinwun-winston-lue|Jinwun Winston Lue (呂錦文)]]
-- [[people/jiunn-yann-genetang|Jiunn-yann Gene Tang (湯俊彥博士)]]
-- [[people/joanna-chen-cham|Joanna Chen Cham (陳怡玲)]]
-- [[people/joanna-yan|Joanna Yan (石正暖)]]
-- [[people/joanne-chang|Joanne Chang (張瓊文)]]
-- [[people/joe-chou|Joe Chou (周景聲)]]
-- [[people/joe-hu|Joe Hu (胡永全)]]
-- [[people/joel-fan|Joel Fan (范景德)]]
-- [[people/joey-chang|Joey Chang (張亦喬)]]
-- [[people/john-chang|John Chang (張景祥牧師)]]
-- [[people/john-chen|John Chen (陳榮儒)]]
-- [[people/john-chiang|John Chiang (江俊輝)]]
-- [[people/john-chin-jung-cheng|John Chin-Jung Cheng (鄭錦榮牧師)]]
-- [[people/john-chun-liu|John Chun Liu (劉醇逸)]]
-- [[people/john-enger-cheng|John Enger Cheng (鄭榮得)]]
-- [[people/john-fan|John Fan (樊立勳博士)]]
-- [[people/john-hsieh|John Hsieh (謝鎮寬)]]
-- [[people/john-j-tkacik|John J. Tkacik (譚慎格)]]
-- [[people/john-j-y-huang|John J.Y. Huang (黃仲義)]]
-- [[people/john-lin|John Lin (林榮勳)]]
-- [[people/john-liu|John Liu (劉宗憲)]]
-- [[people/john-m-yeh|John M. Yeh (葉明翰牧師)]]
-- [[people/john-pang-yu|John Pang Yu (余金榜)]]
-- [[people/john-shiau|John Shiau]]
-- [[people/john-wuo|John Wuo (鄂志超)]]
-- [[people/john-y-chieu|John Y. Chieu]]
-- [[people/john-yang|John Yang (楊錦忠)]]
-- [[people/john-yu|John Yu (游正博博士)]]
-- [[people/joker-l-jenkins|Joker L. Jenkins (簡傑克)]]
-- [[people/jolan-hsieh|Jolan Hsieh (謝若蘭)]]
-- [[people/joli-wu|Joli Wu (吳昭麗)]]
-- [[people/jolie-chenn|Jolie Chenn (陳芃佑)]]
-- [[people/jolie-lin|Jolie Lin (林姝秀)]]
-- [[people/jonathan-h-wu|Jonathan H. Wu (吳顯明)]]
-- [[people/jonathan-lee|Jonathan Lee]]
-- [[people/jonathan-tsay|Jonathan Tsay (蔡宇明)]]
-- [[people/jonathan-yu|Jonathan Yu (余裕義)]]
-- [[people/jong-l-chen|Jong L. Chen (陳榮良醫師)]]
-- [[people/jong-tseng-yen-phd|Jong-Tseng Yen PhD (顏榮增博士)]]
-- [[people/joseph-chang|Joseph Chang (張玉明牧師)]]
-- [[people/joseph-chow|Joseph Chow (周秋霖教授)]]
-- [[people/joseph-h-chen|Joseph H. Chen (陳河田教授)]]
-- [[people/joseph-hong|Joseph Hong (洪茂澤)]]
-- [[people/joseph-huang|Joseph Huang (黃春輝)]]
-- [[people/joseph-lin|Joseph Lin (林以信)]]
-- [[people/joseph-teng|Joseph Teng (曾英銘)]]
-- [[people/joseph-y-t-hung|Joseph Y.T. Hung]]
-- [[people/joseph-yang|Joseph Yang (楊澤修博士)]]
-- [[people/josephine-lu|Josephine Lu (沈雲冰)]]
-- [[people/josephine-pan|Josephine Pan (潘掬慧)]]
-- [[people/joshepine-chuang|Joshepine Chuang (莊靜怡)]]
-- [[people/joshua-c-chang|Joshua C. Chang (張嘉熙)]]
-- [[people/joy-chi-wang|Joy Chi Wang (王琦)]]
-- [[people/joyce-hwang|Joyce Hwang]]
-- [[people/joyce-lin|Joyce Lin (林才欣)]]
-- [[people/joyce-weng|Joyce Weng (黃娟)]]
-- [[people/joyce-yeh|Joyce Yeh (葉怡蘭)]]
-- [[people/ju-cheng-lee|Ju Cheng Lee (李汝成)]]
-- [[people/ju-ying-song|Ju-Ying Song (宋如音)]]
-- [[people/judith-sullivan|Judith Sullivan (林秀華)]]
-- [[people/judy-ching-fang-wu|Judy Ching Fang Wu (吳青芳)]]
-- [[people/judy-hsin-chen-tsai|Judy Hsin-Chen Tsai (蔡幸珍)]]
-- [[people/judy-huang|Judy Huang (陳東蘭)]]
-- [[people/judy-jeng|Judy Jeng (洪秀芬)]]
-- [[people/judy-kang|JUDY KANG (康瑋倫)]]
-- [[people/judy-lin-linton|Judy Lin Linton (林奐均)]]
-- [[people/judy-wang|Judy Wang (王瑞婉)]]
-- [[people/juey-h-lai|Juey H. Lai (賴瑞宏博士)]]
-- [[people/jui-wen-ginger-chen|Jui-Wen Ginger Chen]]
-- [[people/julan-jau|Julan Jau (趙珠蘭)]]
-- [[people/julia-chenzu-tsai|Julia Chenzu Tsai (蔡茜如)]]
-- [[people/julia-huang|Julia Huang (黃馨儀)]]
-- [[people/julia-tai|Julia Tai (戴宇音)]]
-- [[people/juliar-wang|Juliar Wang (謝綉緞)]]
-- [[people/julie-chen|Julie Chen (許春惠)]]
-- [[people/julie-kuo|Julie Kuo (郭瑞筠)]]
-- [[people/julie-su-young|Julie Su Young (蘇秋莉)]]
-- [[people/julie-wong|Julie Wong (翁致理)]]
-- [[people/julie-wu|Julie Wu (吳茗秀醫師)]]
-- [[people/julin-tang|Julin Tang (湯竹林)]]
-- [[people/julius-shu-05|Julius Shu 05 (許清煌)]]
-- [[people/jun-ching-lin|Jun-Ching Lin]]
-- [[people/june-lin|June Lin (林倢)]]
-- [[people/june-wang|June Wang (王純純)]]
-- [[people/jung-lin|Jung Lin (林容光)]]
-- [[people/justin-lai|Justin Lai (賴正雄)]]
-- [[people/justin-lin|Justin Lin (林詣彬)]]
-- [[people/justine-ker|Justine Ker]]
-- [[people/jyh-fa-kuo|Jyh-Fa Kuo (郭智化)]]
-- [[people/yang-ming-ren|James Yang (楊明仁)]]
+### F {#f}
 
-<h3 id="k">K</h3>
-- [[people/guan-renjian|Kuan Jen-chien / 管仁健]]
-- [[people/k-c-du|K. C. Du (杜國清)]]
-- [[people/k-c-liao|K. C. Liao (廖國仲)]]
-- [[people/k-d-wang|K. D. Wang (王康德)]]
-- [[people/k-h-huang|K.H. Huang (黃國雄)]]
-- [[people/k-j-ray-liu|K. J. Ray Liu (劉國瑞)]]
-- [[people/k-k-chen|K. K. Chen (陳國坤)]]
-- [[people/k-l-hong|K. L. Hong (洪桂林博士)]]
-- [[people/k-l-hung|K. L. Hung (洪基隆博士)]]
-- [[people/k-s-chao|K. S. Chao (趙坤山)]]
-- [[people/k-s-lin|K. S. Lin (林高山)]]
-- [[people/k-t-wu|K. T. Wu (吳告祖)]]
-- [[people/kai-chin-chan|Kai-Chin Chan (詹凱臣)]]
-- [[people/kai-ching-chang|Kai-Ching Chang (張凱晶博士)]]
-- [[people/kai-li-cheng|Kai-Li Cheng (鄭凱莉博士)]]
-- [[people/kai-wu|Kai Wu (吳開智)]]
-- [[people/kailin-gow|Kailin Gow (梁凱琳)]]
-- [[people/kaiyin-huang|Kaiyin Huang (黃凱盈)]]
-- [[people/kang-lu-wang|Kang-Lu Wang (王康陸博士)]]
-- [[people/kao-san-lan|Kao San Lan (高山嵐)]]
-- [[people/kaofang-yeh|Kaofang Yeh (葉高芳博士)]]
-- [[people/karen-chen|Karen Chen (陳楷雯)]]
-- [[people/karen-chia-ling-ho|Karen Chia-Ling Ho (何佳陵)]]
-- [[people/karen-chiang|Karen Chiang]]
-- [[people/karen-i-chang-wu|Karen I. Chang Wu (張音音律師)]]
-- [[people/karen-lin|Karen Lin (林璇雯)]]
-- [[people/karen-shee|Karen Shee (施卿柔)]]
-- [[people/kathay-rai|Kathay Rai]]
-- [[people/katherine-huang|Katherine Huang (黃愷怡)]]
-- [[people/katherine-jui-chang|Katherine Jui Chang (張瑞佩)]]
-- [[people/katherine-tai|Katherine Tai (戴琪)]]
-- [[people/katy-tang|Katy Tang (湯凱蒂)]]
-- [[people/ke-chia-chen|Ke Chia Chen (陳可嘉)]]
-- [[people/ke-wenze|Ko Wen-je / Ke Wen-ze (柯文哲)]]
-- [[people/kelly-lin|Kelly Lin (林雨潔博士)]]
-- [[people/kelvin-yu|Kelvin Yu (游朝敏)]]
-- [[people/ken-chen|KEN CHEN]]
-- [[people/ken-lee|Ken Lee (李彥禎)]]
-- [[people/ken-wu|Ken Wu (吳兆峯)]]
-- [[people/keng-chi-wu|Keng Chi Wu (吳耿志)]]
-- [[people/keng-s-liang|Keng S. Liang (梁耕三)]]
-- [[people/keng-wei-william-kuo|Keng-Wei William Kuo (郭耿維)]]
-- [[people/keng-yuen-tseng|Keng-Yuen Tseng (曾耿元)]]
-- [[people/kenji-c-liu|Kenji C. Liu]]
-- [[people/kenneth-c-liao|Kenneth C. Liao]]
-- [[people/kenneth-chang|Kenneth Chang (張學賢)]]
-- [[people/kenneth-fu|Kenneth Fu]]
-- [[people/kenneth-j-kao|Kenneth J. Kao (高永仁)]]
-- [[people/kenneth-ko|Kenneth Ko (柯吉文)]]
-- [[people/kenneth-kuo|Kenneth Kuo (郭虔哲)]]
-- [[people/kenneth-liu|Kenneth Liu (劉光道)]]
-- [[people/kenneth-n-lee|Kenneth N. Lee (李乃恭)]]
-- [[people/kenneth-p-chen|Kenneth P. Chen (陳秉虔博士)]]
-- [[people/kenneth-w-hsu|Kenneth W. Hsu (許根旺)]]
-- [[people/kenneth-wang|Kenneth Wang (王克雄博士)]]
-- [[people/kenny-leu|Kenny Leu (呂蔡嶸)]]
-- [[people/kerina-chang|Kerina Chang (張庭瑄)]]
-- [[people/kevin-lee|Kevin Lee]]
-- [[people/kevin-lin|Kevin Lin (林士斌)]]
-- [[people/kevin-shue|Kevin Shue (許愷洋)]]
-- [[people/kevin-wu|Kevin Wu (吳凱文)]]
-- [[people/khe-beng-chiong|Khe-Beng Chiong (鍾啟明)]]
-- [[people/kico-lin|Kico Lin (林貴香)]]
-- [[people/kim-lai-huang|Kim Lai Huang (黃金來)]]
-- [[people/kim-wang-neal|Kim Wang-Neal (王劭文律師)]]
-- [[people/kin-ko|Kin Ko (柯金寅)]]
-- [[people/kjell-n-lindgren|Kjell N. Lindgren (林其兒)]]
-- [[people/kocheng-kent-liu|Kocheng Kent Liu (劉格正)]]
-- [[people/komi-chen|Komi Chen (郭香美)]]
-- [[people/kris-hsu|Kris Hsu (徐謙讓)]]
-- [[people/kuan-cheng-lu|Kuan Cheng Lu (盧冠呈)]]
-- [[people/kuei-i-wu|Kuei-I Wu (伍癸怡)]]
-- [[people/kuei-ling-chen|Kuei-Ling Chen (陳桂鈴)]]
-- [[people/kun-wang-chao|Kun-wang Chao (邵坤旺)]]
-- [[people/kuo-chang-chen|Kuo Chang Chen (陳國昌)]]
-- [[people/kuo-ching-su|Kuo-Ching Su (蘇國慶)]]
-- [[people/kuo-hsiung-lee|Kuo-Hsiung Lee (李國雄教授)]]
-- [[people/kwei-yang-ben-chang|Kwei-Yang Ben Chang (張貴洋)]]
+- [F. F. Huang (黃鳳凰)](./f-f-huang)
+- [F. M. Yang (楊豐明)](./f-m-yang)
+- [F. Z. Chen Wu (吳陳芳容醫師)](./f-z-chen-wu)
+- [F.M. Huang (黃富美)](./f-m-huang)
+- [F.S. Shen (沈富雄)](./f-s-shen)
+- [F.Y. Anthony Shaw (蕭芳苑)](./f-y-anthony-shaw)
+- [Fan Chiang Tsiang (范姜提昂)](./fan-jiang-ti-ang)
+- [Fan Qingliang (范清亮)](./fan-qingliang)
+- [Fan Rong K Chung Graham (金芳蓉)](./fan-rong-k-chung-graham)
+- [Fan S. Lai (賴芳雄)](./fan-s-lai)
+- [Fan-Ming Lin (林芳敏醫師)](./fan-ming-lin)
+- [Fang-Ming Chen (陳芳明博士)](./fang-ming-chen)
+- [Fang-Yi Sheu (許芳宜)](./fang-yi-sheu)
+- [Fang-Yuh Rita Chen (陳芳玉)](./fang-yuh-rita-chen)
+- [Father Brendan O’Connell (甘惠忠神父)](./father-brendan-oconnell)
+- [Fealing Lin (林暉怜)](./fealing-lin)
+- [Fei-Mei Lee Chou (周李惠美)](./fei-mei-lee-chou)
+- [Fei-Tau Kung (龔飛濤)](./fei-tau-kung)
+- [Felicia Chou (周馥亞)](./felicia-chou)
+- [Felicia Tang (唐千畬)](./felicia-tang)
+- [Felix Fan (范雅志)](./felix-fan)
+- [Felix Liu (劉富理牧師)](./felix-liu)
+- [Feng-Hsu Lee (李豐旭)](./feng-hsu-lee)
+- [Feng-Jen Lu (路鳳真)](./feng-jen-lu)
+- [Fenglien Lee (李鳳霖)](./fenglien-lee)
+- [Flora Kao (高微婷)](./flora-kao)
+- [Fon-May Fan (樊豐美)](./fon-may-fan)
+- [Fong Baatz](./fong-baatz)
+- [Fong Chung Fan (樊豐忠)](./fong-chung-fan)
+- [Fong Ling (峰怜)](./fong-ling)
+- [Fong-Jen Lin (林豐仁)](./fong-jen-lin)
+- [Forest Yang (楊舜惠)](./forest-yang)
+- [FPCLA (see organization page)](./fpcla)
+- [Frances Wu (吳涵秋)](./frances-wu)
+- [Frances Y. Wang (王怡芳)](./frances-y-wang)
+- [Francie Lin](./francie-lin)
+- [Frank C.H. Chen (陳治煌)](./frank-c-h-chen)
+- [Frank Hsieh (謝長廷)](./frank-hsieh)
+- [Frank Ju-Feng Liu (劉如峰)](./frank-ju-feng-liu)
+- [Frank Lai (賴文雄)](./frank-lai)
+- [Frank Lin (林俊甫)](./frank-lin)
+- [Frank M. Hsu (徐民忠)](./frank-m-hsu)
+- [Frank Shieh (沈培志)](./frank-shieh)
+- [Frank T. Shu (許子津)](./frank-t-shu)
+- [Frank Wu (吳登鈐博士)](./frank-wu)
+- [Frankie Woo (吳映龍)](./frankie-woo)
+- [Franklin Ping Cheng (程炳成)](./franklin-ping-cheng)
+- [Fred Fung (馮耀祥)](./fred-fung)
+- [Frederic Wang (王穎裕)](./frederic-wang)
+- [Freeman Huang (黃樹人)](./freeman-huang)
+- [Freeman Lin (林日榮)](./freeman-lin)
+- [Fu-Ji Liu (劉富吉)](./fu-ji-liu)
+- [Fu-Mei Wu Chen (陳吳富美)](./fu-mei-wu-chen)
+- [Fu-Te Ni (倪福德)](./fu-te-ni)
+- [Fu-Zen Chang (張輔仁)](./fu-zen-chang)
+- [Fuh-Sheng Shieu (薛富盛)](./fuh-sheng-shieu)
+- [Fumi Chen (何文英)](./fumi-chen)
 
-<h3 id="l">L</h3>
-- [[people/l-b-chou|L. B. Chou (周聯彬醫師)]]
-- [[people/l-c-chen|L. C. Chen (陳麗村)]]
-- [[people/l-f-tang|L. F. Tang (唐麗芳)]]
-- [[people/l-h-chen|L. H. Chen (陳隆旭)]]
-- [[people/l-j-chen|L. J. Chen (陳柳江)]]
-- [[people/l-j-ho|L. J. Ho (何麗珍)]]
-- [[people/l-m-chen|L. M. Chen (陳麗美)]]
-- [[people/l-n-chang|L. N. Chang (張麗娜)]]
-- [[people/l-w-cheng|L. W. Cheng (鄭良偉)]]
-- [[people/lai-ching-te|Lai Ching-te (賴清德)]]
-- [[people/lanhee-j-chen|Lanhee J. Chen (陳仁宜)]]
-- [[people/larry-hsu|Larry Hsu (許中強)]]
-- [[people/larry-jang|Larry Jang (鄭龍光)]]
-- [[people/laura-g-ling|Laura G. Ling (凌志美)]]
-- [[people/laura-huang|Laura Huang (黃月桂)]]
-- [[people/lekki-chua|Lekki Chua (蔡烈輝)]]
-- [[people/leland-lee|Leland Lee (李柏毅)]]
-- [[people/leon-chang|Leon Chang (張村樑)]]
-- [[people/leona-chen|Leona Chen (陳文羿)]]
-- [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]]
-- [[people/leroy-chiao|Leroy Chiao (焦立中)]]
-- [[people/leslie-ho|Leslie Ho (何炳宏)]]
-- [[people/li-chan-chen-maxham|Li-Chan Chen-Maxham (陳麗嬋)]]
-- [[people/li-fa-xie|Li–Fa Xie (謝里法)]]
-- [[people/li-furen|Li Fu-Jen (李輔仁)]]
-- [[people/li-gui-chen|Li Gui Chen (陳麗貴)]]
-- [[people/li-jian|Li Jian (李堅)]]
-- [[people/li-lin-cheng|Li-Lin Cheng (鄭麗伶)]]
-- [[people/li-shan-chang|Li-Shan Chang (張力山)]]
-- [[people/li-shan-hung|Li-Shan Hung (洪儷珊)]]
-- [[people/li-shun-lu|Li-Shun Lu (呂理順)]]
-- [[people/li-xiaofeng|Li Hsiao-feng / 李筱峰]]
-- [[people/li-ying-chang|Li-Ying Chang (張理盈)]]
-- [[people/li-ying-shang|Li-Ying Shang (商麗鶯)]]
-- [[people/lian-huo-wu|Lian Huo Wu (吳連火)]]
-- [[people/liang-chuan-peng|Liang Chuan Peng (彭兩泉)]]
-- [[people/liang-ping-how|Liang-Ping How]]
-- [[people/liang-shing-fan|Liang-Shing Fan (范良信)]]
-- [[people/liao-ji-chun|Liao Jichun (廖繼春)]]
-- [[people/liao-qingshan|Liao Qing-shan (廖清山)]]
-- [[people/liao-shu-zong|Liao Shu-zong (廖述宗)]]
-- [[people/lily-chen|Lily Chen (陳佳俐)]]
-- [[people/lily-chiang|Lily Chiang (姜萊莉)]]
-- [[people/lily-li-jan-lin|Lily Li-Jan Lin (林麗貞)]]
-- [[people/lin-baohua|Lin Bao-hua (林保華)]]
-- [[people/lin-chang-chien-chu|Lin Chang-Chien Chu (林張簡菊)]]
-- [[people/lin-chao-chi|Lin Chao-chi (林朝棨)]]
-- [[people/lin-chao-quan|Lin Chao-quan (林朝權)]]
-- [[people/lin-fu-kun|Lin Fu-kun (林福坤)]]
-- [[people/lin-jialong|Lin Chia-lung / Lin Jia-long (林佳龍)]]
-- [[people/lin-qiong-xian|Lin Qiong-xian (林瓊仙)]]
-- [[people/lin-rongsong|Lin Jung-sung / 林榮松]]
-- [[people/lin-yuan-ching|Lin Yuan-qing (林元清)]]
-- [[people/lina-huang|Lina Huang (張廖莉娜)]]
-- [[people/linda-chen|Linda Chen (陳映妤)]]
-- [[people/linda-gail-arrigo|Linda Gail Arrigo (艾琳達)]]
-- [[people/linda-liu|Linda Liu (劉玲華)]]
-- [[people/linda-wang|Linda Wang (王琳琦)]]
-- [[people/lindayi-fang-yau|Linda Yi-Fang Yau (劉義芳)]]
-- [[people/lindsay-yang|Lindsay Yang (楊瑩瓊)]]
-- [[people/ling-ling-chang|Ling Ling Chang (張玲玲)]]
-- [[people/ling-yeng-young|Ling-Yeng Young (陳玲瑛)]]
-- [[people/lirong-wang|Lirong Wang (黃麗蓉)]]
-- [[people/lisa-c-williamson|Lisa C. Williamson (李貞瑩)]]
-- [[people/lisa-hou|Lisa Hou (侯乃文)]]
-- [[people/lisa-j-ling|Lisa J. Ling (凌志慧)]]
-- [[people/lisa-liu|Lisa Liu (劉雅薇)]]
-- [[people/lisa-peng|Lisa Peng (彭郁靜)]]
-- [[people/lisa-s-lin-ying|Lisa S. Lin Ying (印林秀玲)]]
-- [[people/lisa-su|Lisa T. Su (蘇姿丰)]]
-- [[people/lisa-wang|Lisa Wang]]
-- [[people/liu-hsiung-chuang|Liu-Hsiung Chuang (莊六雄博士)]]
-- [[people/long-lee|Long Lee (李隆吉)]]
-- [[people/lorenzo-chun-han-chang|Lorenzo Chun-Han Chang (張淳菡)]]
-- [[people/loring-wuliang-tu|Loring Wuliang Tu (杜武亮)]]
-- [[people/lovell-park-chang|Lovell Park Chang (張若葳)]]
-- [[people/lu-hsuan-lucy-chen|Lu-Hsuan Lucy Chen (陳綠萱)]]
-- [[people/lucas-chen|Lucas Chen (陳薰洋)]]
-- [[people/lucy-yang|Lucy Yang (楊淑詠)]]
-- [[people/lulu-meng|Lulu Meng (孟祥璐)]]
-- [[people/lung-chen|Lung Chen (陳隆)]]
-- [[people/lung-wen-tsai|Lung-Wen Tsai (蔡隆文博士)]]
-- [[people/lynn-huang|Lynn Huang (黃令先)]]
+### G {#g}
 
-<h3 id="m">M</h3>
-- [[people/m-c-chen|M. C. Chen (陳玫琪)]]
-- [[people/m-c-cheng-lee|M. C. Cheng Lee (李鄭美昭)]]
-- [[people/m-j-wang|M. J. Wang (王明皆)]]
-- [[people/m-k-lin|M. K. Lin (林明昆醫師)]]
-- [[people/m-k-wei|M. K. Wei (魏妙圭)]]
-- [[people/m-l-chen|M. L. Chen (陳夢蘭)]]
-- [[people/m-l-tong|M. L. Tong (湯銘倫)]]
-- [[people/m-m-hsieh|M. M. Hsieh (謝玫玫)]]
-- [[people/m-r-tsai|M. R. Tsai (蔡滿榮)]]
-- [[people/m-s-chen|M.S. Chen (陳明憲)]]
-- [[people/m-s-chi|M.S. Chi (紀敏雄博士)]]
-- [[people/m-s-wu|M.S. Wu (吳銘賢博士)]]
-- [[people/m-wang|M. Wang (陳美霞)]]
-- [[people/m-y-huang|M. Y. Huang (黃美雲)]]
-- [[people/m-y-wu|M. Y. Wu (吳美雲)]]
-- [[people/ma-yingjeou|Ma Ying-jeou (馬英九)]]
-- [[people/maan-huei-huang|Maan-Huei Huang (黃滿惠)]]
-- [[people/maggie-hsu|Maggie Hsu]]
-- [[people/mao-ching-david-huang|Mao-ching David Huang (黃茂清)]]
-- [[people/mao-chung-lee|MAO-CHUNG LEE (李茂宗)]]
-- [[people/mao-sheng-chen|Mao-Sheng Chen (陳茂生)]]
-- [[people/mao-shiu-lin|Mao-Shiu Lin (林茂修)]]
-- [[people/marcy-leroy-ditmanson|Marcy Leroy Ditmanson (戴德森醫師)]]
-- [[people/margaret-liu|Margaret Liu (林美華)]]
-- [[people/margaretta-wan-ling-lin|Margaretta Wan-Ling Lin]]
-- [[people/marian-miaw-ju-chen|Marian Miaw-ju Chen (陳林妙珠)]]
-- [[people/marie-hsiao-mree|Marie Hsiao Mree]]
-- [[people/marilyn-fu|Marilyn Fu]]
-- [[people/marina-lin|Marina Lin (林淨媺)]]
-- [[people/marina-lu|Marina Lu (呂惠秋)]]
-- [[people/marion-m-lee|Marion M Lee (李明瑱教授)]]
-- [[people/marisa-lin|Marisa Lin (陳麗雲)]]
-- [[people/mark-jong|Mark Jong (鍾茂萃)]]
-- [[people/mark-thelin|Mark Thelin (練馬可博士)]]
-- [[people/marlene-tseng-yu|Marlene Tseng Yu (虞曾富美)]]
-- [[people/marlon-chen|Marlon Chen (陳啟寬)]]
-- [[people/martha-hsu|Martha Hsu (許秀聰)]]
-- [[people/martha-vandriel|Martha VanDriel (Martha S.H. VanDriel)]]
-- [[people/martha-wang|Martha Wang (鄞美珠)]]
-- [[people/martin-tsai|Martin Tsai (蔡明峰)]]
-- [[people/masa-c-w-chen|Masa C. W. Chen (陳正旺)]]
-- [[people/masao-s-yu|Masao S. Yu (游祥修醫師)]]
-- [[people/matthew-lin|Matthew Lin (林元清博士)]]
-- [[people/matthew-tsai|Matthew Tsai (蔡茂堂博士)]]
-- [[people/matthias-c-h-lu|Matthias C. H. Lu (盧志華)]]
-- [[people/maurice-hsu|Maurice Hsu (許盛男醫師)]]
-- [[people/mavis-hsieh|Mavis Hsieh (謝孟潔)]]
-- [[people/maw-lin|Maw Lin (林茂雄)]]
-- [[people/max-c-chiang|Max C. Chiang (江建祥博士)]]
-- [[people/may-fang|May Fang (方美盈)]]
-- [[people/may-sing-chang|May-Sing Chang (黃美星)]]
-- [[people/maysing-huang|Maysing Huang (楊黃美幸)]]
-- [[people/meeihuey-lin|Meeihuey Lin (林許美惠)]]
-- [[people/mei-chiang-su|Mei Chiang Su (江美惠)]]
-- [[people/mei-en-chou|Mei-En Chou (周媺恩)]]
-- [[people/mei-fun-tsai|Mei Fun Tsai (吳美芬)]]
-- [[people/mei-hua-huang|Mei-Hua Huang (黃美華)]]
-- [[people/mei-li-chen|Mei-Li Chen (陳玫麗)]]
-- [[people/mei-li-yang|Mei-Li Yang (楊美麗)]]
-- [[people/mei-liu|Mei Liu (洪梅)]]
-- [[people/mei-lu|Mei Lu (陳香梅)]]
-- [[people/mei-shi-chu|Mei-Shi Chu (徐梅熙)]]
-- [[people/mei-shing-wang|Mei Shing Wang (王美幸)]]
-- [[people/mei-ying-chen|Mei-Ying Chen (陳美瑩)]]
-- [[people/meifeng-tsai|Meifeng Tsai (王梅鳳)]]
-- [[people/meiyin-wang|Meiyin Wang (王美尹)]]
-- [[people/melanie-lee|Melanie Lee (李玫蘭)]]
-- [[people/melinda-tang|Melinda Tang (陳方俐)]]
-- [[people/melody-ko|Melody Ko (柯頌恩)]]
-- [[people/melody-kuo|Melody Kuo (郭雋律)]]
-- [[people/melvin-chen|Melvin Chen (陳意超)]]
-- [[people/meng-chieh-liu|Meng-Chieh Liu (劉孟捷)]]
-- [[people/meng-chih-chiang|Meng Chih Chiang (江孟芝)]]
-- [[people/mian-mian-lu|Mian Mian Lu (陸慧綿)]]
-- [[people/miaw-shang-su-lin|Miaw Shang Su Lin (林蘇妙香)]]
-- [[people/michael-c-lu|Michael C. Lu]]
-- [[people/michael-chong|Michael Chong]]
-- [[people/michael-deng-fong-liau|Michael Deng Fong Liau (廖登豐博士)]]
-- [[people/michael-fonte|Michael Fonte (彭光理)]]
-- [[people/michael-k-yu|Michael K. Yu (游貴森醫師)]]
-- [[people/michael-luo|Michael Luo (羅明瀚)]]
-- [[people/michael-s-k-chen|Michael S. K. Chen (陳希寬博士)]]
-- [[people/michael-yeh|Michael Yeh (葉明青)]]
-- [[people/michele-cheng|Michele Cheng]]
-- [[people/michelle-kuo|Michelle Kuo (郭怡慧)]]
-- [[people/michelle-wu|Michelle Wu (吳彌)]]
-- [[people/michellee-shaw-chen|Michellee Shaw Chen (陳美真理)]]
-- [[people/mien-chie-hung|Mien-Chie Hung (洪明奇博士)]]
-- [[people/mien-chien|Mien Chien (簡勉)]]
-- [[people/mike-lee|Mike Lee (李振生博士)]]
-- [[people/mike-lin|Mike Lin (林健華博士)]]
-- [[people/milo-thornberry|Milo Thornberry (唐培禮牧師)]]
-- [[people/milton-m-chen|Milton M. Chen (程孟郎教授)]]
-- [[people/min-an-huang|Min-An Huang (黃民安)]]
-- [[people/min-chu-wang-chen|Min-Chu Wang Chen (王陳明珠)]]
-- [[people/min-feng-hsin|Min Feng Hsin (辛明峰)]]
-- [[people/min-jen-chen|Min-Jen Chen (陳明真)]]
-- [[people/min-kuei-yang|Min-Kuei Yang (楊閔貴)]]
-- [[people/min-mei-chen|Min-Mei Chen (吳明美)]]
-- [[people/min-shiu-lee|Min-Shiu Lee (李敏修博士)]]
-- [[people/min-tenmilton-lee|Min Ten Milton Lee (李明典)]]
-- [[people/min-yen-chien|Min-Yen Chien (簡名彥)]]
-- [[people/ming-chang-wang|Ming Chang Wang (王敏昌)]]
-- [[people/ming-che-lin|Ming-che Lin (林明哲)]]
-- [[people/ming-chi-wang|Ming Chi Wang]]
-- [[people/ming-franz|Ming Franz (林明姝)]]
-- [[people/ming-hsin-chiang|Ming Hsin Chiang (江明信)]]
-- [[people/ming-hsiu-yen|Ming-Hsiu Yen (顏名秀)]]
-- [[people/ming-jer-kuo|Ming Jer Kuo (郭明哲)]]
-- [[people/ming-liang-chi|Ming-Liang Chi (溫明亮)]]
-- [[people/ming-shing-lee|Ming-Shing Lee (李明星)]]
-- [[people/ming-ten-dan-tsai|Ming Ten Dan Tsai (蔡明殿)]]
-- [[people/ming-tsuang|Ming Tsuang (莊明哲教授)]]
-- [[people/ming-yen-hsu|Ming-Yen Hsu (許明彥醫師)]]
-- [[people/mingkong-chen|Mingkong Chen]]
-- [[people/minlu-chai|Minlu Chai (蔡銘祿)]]
-- [[people/miriam-liu-wu|Miriam Liu Wu (劉逸青)]]
-- [[people/mo-chao-tsai|Mo Chao Tsai (蔡謀昭)]]
-- [[people/monica-hsu|Monica Hsu (徐麗芬)]]
-- [[people/monica-su|Monica Su (蘇千芳)]]
-- [[people/monty-wang|Monty Wang (王興山)]]
-- [[people/morgan-chang|Morgan Chang (張富雄)]]
-- [[people/morisan-lu|Morisan Lu (呂明森)]]
-- [[people/mou-chinlin|Mou-ChinLin (林茂清)]]
-- [[people/mynor-king-wang|Mynor King Wang (王華東博士)]]
+- [G. N. Liao (廖光男)](./g-n-liao)
+- [Gail Lee (李秀文)](./gail-lee)
+- [Gary Hong (洪逸凡)](./gary-hong)
+- [Gary Lee (李桂銳)](./gary-lee)
+- [Gary Marvin Davison](./gary-marvin-davison)
+- [Gene Cho (卓仁祥)](./gene-cho)
+- [Gene Lay (賴正光)](./gene-lay)
+- [Gene Tsai (蔡錦榮)](./gene-tsai)
+- [Gene-Jack Wang (王俊傑)](./gene-jack-wang)
+- [George Chiang (江正吉)](./george-chiang)
+- [George H. Kerr (葛超智)](./george-h-kerr)
+- [George Ho (何震輝)](./george-ho)
+- [George Hsu (許啟勇)](./george-hsu)
+- [George K. Liu (劉寬平)](./george-k-liu)
+- [George Kao (高銘益)](./george-kao)
+- [George Lai (賴忠智)](./george-lai)
+- [George Lee (李東亨)](./george-lee)
+- [George Leslie Mackay (馬偕)](./george-leslie-mackay)
+- [Gin Ru Yeh (葉錦如)](./gin-ru-yeh)
+- [Gloria Chang](./gloria-chang)
+- [Gloria Chien (簡佩盈)](./gloria-chien)
+- [Gloria Chuang (莊邑文)](./gloria-chuang)
+- [Gloria H. Shaw (李雪芬)](./gloria-h-shaw)
+- [Gong Sun-le (公孫樂)](./gong-sun-le)
+- [Goo-Shun Wang (王谷神)](./goo-shun-wang)
+- [Gordon S. W. Chin (金希文教授)](./gordon-s-w-chin)
+- [Gou-Chung Chi (紀國鐘)](./gou-chung-chi)
+- [Grace Chung (鍾曉青博士)](./grace-chung)
+- [Grace H. Yeh (張信惠)](./grace-h-yeh)
+- [Grace Lin (吳瑞惠)](./grace-lin)
+- [Grace Liu](./grace-liu)
+- [Grace Mei-En Ho (何美恩)](./grace-mei-en-ho)
+- [Grace Tseng (李雲玉)](./grace-tseng)
+- [Grace Yang (楊蕙安)](./grace-yang)
+- [Grace Yia-Hei Kao](./grace-yia-hei-kao)
+- [Guang-Xiong Ling (凌光雄)](./guang-xiong-ling)
+- [Guo Shu-qing (郭淑卿)](./guo-shu-qing)
+- [Guo Yingyan (郭應言)](./guo-yingyan)
+- [Gwhyneth Chen (陳毓襄)](./gwhyneth-chen)
 
-<h3 id="n">N</h3>
-- [[people/nai-shin-chu|Nai-Shin Chu (朱迺欣)]]
-- [[people/nai-yuan-hu|Nai-Yuan Hu (胡乃元)]]
-- [[people/nam-yeung|Nam Yeung (楊楠)]]
-- [[people/nami-yang|Nami Yang (李淑櫻)]]
-- [[people/nan-cheng-chen|Nan-Cheng Chen (陳南呈)]]
-- [[people/nan-jae-lin|Nan-Jae Lin (林能傑)]]
-- [[people/nancy-ho|Nancy Ho (何汪瑗教授)]]
-- [[people/nancy-jan|Nancy Jan (詹雅惠)]]
-- [[people/nancy-yang|Nancy Yang (陳玲銖)]]
-- [[people/nanfang-shuo|Nanfang Shuo / 南方朔]]
-- [[people/nat-bellocchi|Nat Bellocchi (白樂崎)]]
-- [[people/nellie-gephardt-amondson|Nellie Gephardt Amondson ‧ (納莉)]]
-- [[people/ni-chi-chang|Ni-Chi Chang (張倪綺)]]
-- [[people/nicholas-c-huang|Nicholas C. Huang (黄文郁)]]
-- [[people/nick-wu|Nick Wu (吳仲輝)]]
-- [[people/nien-tzu-kuo|Nien-Tzu Kuo (郭念慈)]]
-- [[people/nobu-lu|Nobu Lu (呂信也)]]
-- [[people/norman-chen|Norman Chen]]
-- [[people/ntpc|NTPC (redirect) — National Taiwanese Presbyterian Council, not North Taiwan]]
+### H {#h}
 
-<h3 id="o">O</h3>
-- [[people/olive-wujen-chen|Olive WuJen Chen (吳箴)]]
-- [[people/oliver-chen|Oliver Chen (陳奧利佛)]]
+- [H. Cristina Chen-Oster (陳慧蓉)](./h-cristina-chen-oster)
+- [H. F. Josephine Huang (黃河芬)](./h-f-josephine-huang)
+- [H. H. Chen (陳惠華)](./h-h-chen)
+- [H. J. Andrew Wang (王惠鈞)](./h-j-andrew-wang)
+- [H. J. Chen (陳小娟)](./h-j-chen)
+- [H. J. Lee (李慧珍)](./h-j-lee)
+- [H. J. Lin (林宏哲博士)](./h-j-lin)
+- [H. L. Hung (洪榮隆)](./h-l-hung)
+- [H. M. Chen (陳惠民)](./h-m-chen)
+- [H. M. Jiang (江蕙美)](./h-m-jiang)
+- [H. M. Yin (殷惠敏)](./h-m-yin)
+- [H. N. Tong (童海南)](./h-n-tong)
+- [H. R. Hsu (許惠茹)](./h-r-hsu)
+- [H. T. Chen (陳學同)](./h-t-chen)
+- [H. W. Huang (黃鴻偉)](./h-w-huang)
+- [H. W. Wu (吳宏為)](./h-w-wu)
+- [H. Wu (吳換博士)](./h-wu)
+- [H. Y. Chen (陳弘毅)](./h-y-chen)
+- [H. Y. ChenCheng (陳鄭弘堯)](./h-y-chencheng)
+- [Haluko Lin (陳春子)](./haluko-lin)
+- [Han Han Cho (卓涵涵博士)](./han-han-cho)
+- [Han Kuo-yu (韓國瑜)](./han-guoyu)
+- [Han-Hsiao Lee (李含笑)](./han-hsiao-lee)
+- [Hanchien Lee (李函蒨博士)](./hanchien-lee)
+- [Hann-Ping Wang (王漢平博士)](./hann-ping-wang)
+- [Hanna Huang (黃煒涵)](./hanna-huang)
+- [Hanna Liao (周秀蘭)](./hanna-liao)
+- [Hannah Hsu Wang (許鴻玉)](./hannah-hsu-wang)
+- [Hansom Chen (陳翰申)](./hansom-chen)
+- [Haofan Eric Peng (彭浩帆)](./haofan-eric-peng)
+- [Harmony Yang (楊心新)](./harmony-yang)
+- [Harold M. Otness (歐獻文)](./harold-m-otness)
+- [Harrison Lin (林貞棟)](./harrison-lin)
+- [He Qinglian (何清漣)](./he-qingxuan)
+- [He Sumei (何素美)](./he-sumei)
+- [Helen Allen (趙夏蓮)](./helen-allen)
+- [Helen Huang (黃海倫)](./helen-huang)
+- [Helen Loo (翁進治)](./helen-loo)
+- [Helen Wang (方惠音)](./helen-wang)
+- [Heng-Liong Lin (林興隆)](./heng-liong-lin)
+- [Henry C Liao (廖政森)](./henry-c-liao)
+- [Henry C. Liu](./henry-c-liu)
+- [Henry Cheng (鄭煥壁)](./henry-cheng)
+- [Henry Huan Bi Cheng (鄭煥璧)](./henry-huan-bi-cheng)
+- [Henry Lee (李豐隆)](./henry-lee)
+- [Henry Tseng (曾恆利)](./henry-tseng)
+- [Henty Chen (陳華山)](./henty-chen)
+- [Herbert T Chen (陳志青)](./herbert-t-chen)
+- [Herng-Shinn Hwang (黃恆信)](./herng-shinn-hwang)
+- [His-Ho Chou (周錫和)](./his-ho-chou)
+- [Ho Chie Tsai (蔡和杰)](./ho-chie-tsai)
+- [Ho Chu Yao (姚張和珠)](./ho-chu-yao)
+- [Ho Rui Hsu (許和瑞)](./ho-rui-hsu)
+- [Ho Yang Lin (楊千鶴)](./ho-yang-lin)
+- [Ho-Yang Peter Tsai (蔡和陽)](./ho-yangpeter-tsai)
+- [Hong Ya (洪雅)](./hong-ya)
+- [Hong Zong Lin (林宏容)](./hong-zong-lin)
+- [Hong-Chih Kuo (郭泓志)](./hong-chih-kuo)
+- [Horng-Tzer Yau (姚鴻澤)](./horng-tzer-yau)
+- [Hou Yu-ih (侯友宜)](./hou-yu-ih)
+- [Howard Ho](./howard-ho)
+- [Howard Shu (舒之顥)](./howard-shu)
+- [Howard W. Moore (慕維德)](./howard-w-moore)
+- [Hoyuan Liu (劉和元)](./hoyuan-liu)
+- [Hsi-Min Lin (林希明)](./hsi-min-lin)
+- [Hsiang-Ling Hsiao (蕭湘舲)](./hsiang-ling-hsiao)
+- [Hsien-Ann Meng (孟憲安博士)](./hsien-ann-meng)
+- [Hsien-Ching Ko (柯賢清)](./hsien-ching-ko)
+- [Hsin-Cheng Hsiao (蕭新晟)](./hsin-cheng-hsiao)
+- [HSIN-YUN HUANG (黃心芸)](./hsin-yun-huang)
+- [Hsing-I Chen (陳欣沂)](./hsing-i-chen)
+- [HsinKuang Chen (陳信光)](./hsinkuang-chen)
+- [Hsiu-Chine Yeh Wang (葉秀卿)](./hsiu-chine-yeh-wang)
+- [Hsiu-Fang Susan Liu (陳秀芳)](./hsiu-fang-susan-liu)
+- [Hsu Ching-chun (許景淳)](./hsu-ching-chun)
+- [Hsu Hsin-hung (徐新宏)](./hsu-hsin-hung)
+- [Hsu Ling-yun (許凌雲)](./hsu-ling-yun)
+- [Hsu Shih-huan (許世環)](./hsu-shih-huan)
+- [Hsueh-Hu Kuo (郭雪湖)](./hsueh-hu-kuo)
+- [Hsun-Hsun Hsu (許恂恂)](./hsun-hsun-hsu)
+- [Hu Ping / 胡平](./hu-ping)
+- [Hua-San Chi (紀華山)](./hua-san-chi)
+- [Huai Shion Tsai (蔡蕙香)](./huai-shion-tsai)
+- [Huai-En Tsai (蔡懷恩)](./huai-en-tsai)
+- [Huang Di-ying (黃帝穎)](./huang-diyin)
+- [Huang Gen-shen (黃根深)](./huang-gen-shen)
+- [Huang Yung-cheng / 黃永成](./huang-yongcheng)
+- [Huei Pei Kuo (郭惠沛博士)](./huei-pei-kuo)
+- [Huei-mei Jhou (周惠美博士)](./huei-mei-jhou)
+- [Huei-Sheng Kao (高慧生)](./huei-sheng-kao)
+- [Huey J. Lee (李惠仁醫師)](./huey-j-lee)
+- [Huey Li Liu (劉惠麗)](./huey-li-liu)
+- [Huey Lin (林惠洲)](./huey-lin)
+- [Hui Mei Lin (林慧美)](./hui-mei-lin)
+- [Hui Na Lin (賴慧娜)](./hui-na-lin)
+- [Hui-Chi Connally (徐慧姬)](./hui-chi-connally)
+- [Hui-Chuan Chen (陳慧娟)](./hui-chuan-chen)
+- [Hui-Hsiung Kuo (郭輝雄)](./hui-hsiung-kuo)
+- [Hui-Ling Hsu](./hui-ling-hsu)
+- [Hui-Ting Yang (楊惠婷)](./hui-ting-yang)
+- [Huifan Helen Chen](./huifan-helen-chen)
+- [Huifang Helen Chen](./huifang-helen-chen)
+- [Hung Ya Chao (趙弘雅)](./hung-ya-chao)
+- [Hung-bin Ding (丁弘彬)](./hung-bin-ding)
+- [Hung-Jen Wu (吳泓仁)](./hung-jen-wu)
+- [Hung-Kuan Chen (陳宏寬)](./hung-kuan-chen)
+- [Hung-Yi Shau (蕭鴻宜博士)](./hung-yi-shau)
+- [Hwa-Chow Oliver Hsu (許華洲)](./hwa-chow-oliver-hsu)
+- [Hwan-Chyang Lin (林環牆)](./hwan-chyang-lin)
+- [Hwei-Ling Chen (涂惠鈴)](./hwei-ling-chen)
+- [Hwei-Mei Amy Huang (謝惠美)](./hwei-mei-amyhuang)
+- [Hyden Shen (沈尚哲博士)](./hyden-shen)
 
-<h3 id="p">P</h3>
-- [[people/anthony-t-tu|Prof. Anthony T. Tu (杜祖健教授)]]
-- [[people/chi-tien-chang|Prof. Chi-Tien Chang (張啟典教授)]]
-- [[people/chia-yi-tseng|Prof. Chia-Yi Tseng (曾加宜教授)]]
-- [[people/ching-shui-cheng|Prof. Ching-Shui Cheng (鄭清水教授)]]
-- [[people/christina-long|Prof. Christina Long (隆愛真教授)]]
-- [[people/chun-fan-chen|Prof. Chun-fan Chen (陳春帆博士)]]
-- [[people/cpaul-huang|Paul Huang (黃俊文)]]
-- [[people/de-min-wu|Prof. De-Min Wu (吳得民教授)]]
-- [[people/edgar-chun-yi-lin|Prof. Jun-Yi Lin (林俊義教授)]]
-- [[people/hsian-rong-tseng|Prof. Hsian-Rong Tseng (曾憲榮)]]
-- [[people/irwin-chu|Prof. Irwin Chu (朱耀源博士)]]
-- [[people/jeffrey-j-tsay|Prof. Jeffrey J. Tsay]]
-- [[people/kun-mu-chen|Prof. Kun-Mu Chen (陳坤木博士)]]
-- [[people/maw-kuen-wu|Prof. Maw-Kuen Wu (吳茂昆教授)]]
-- [[people/ming-liang-lee|Prof. Ming Liang Lee (李明亮)]]
-- [[people/ming-shian-kao|Prof. Ming-Shian Kao (高銘憲教授)]]
-- [[people/p-d-chen|P. D. Chen (陳培德)]]
-- [[people/p-f-yu-name|P. F. Yu Name (喻鵬飛)]]
-- [[people/p-j-mao|P. J. Mao (毛平吉博士)]]
-- [[people/p-k-frank-hsu|P.K. Frank Hsu (徐博高醫師)]]
-- [[people/pamela-hung|Pamela Hung (洪聚佐)]]
-- [[people/parris-hsu-cheng-chang|PARRIS HSU-CHENG CHANG (張旭成)]]
-- [[people/patricia-anne-tsung|Patricia Anne Tsung (曾毓安醫師)]]
-- [[people/patricia-j-chen|Patricia J. Chen]]
-- [[people/patrick-huang|Patrick Huang (黃再添)]]
-- [[people/patrick-p-lin|Patrick P. Lin (林博智)]]
-- [[people/patrick-wang|Patrick Wang (王沛智)]]
-- [[people/patsy-fang-chen|Patsy Fang Chen (方秀蓉)]]
-- [[people/paul-b-hshieh|Paul B. Hshieh 六 (謝博六博士)]]
-- [[people/paul-c-tsai|Paul C. Tsai (蔡正驊)]]
-- [[people/paul-chen|Paul Chen (陳柏宇)]]
-- [[people/paul-hsu|Paul Hsu (徐紹欽)]]
-- [[people/paul-kuo|Paul Kuo (郭博修)]]
-- [[people/paul-lin|Paul Lin (林水波教授)]]
-- [[people/paul-lynn|Paul Lynn (林保山博士)]]
-- [[people/paul-pai-shih-lee|Paul Pai-Shih Lee (李百仕)]]
-- [[people/paul-porwen-hung|Paul Porwen Hung (洪伯文)]]
-- [[people/paul-y-chen|Paul Y. Chen (陳柏宇)]]
-- [[people/pauline-choiu|Pauline Choiu (邱曼怡)]]
-- [[people/pauline-hsiao-ye|Pauline Hsiao Ye (蕭百忍)]]
-- [[people/pauline-huang|Pauline Huang (黃百齡)]]
-- [[people/pauline-huey-fen-hsu|Pauline Huey-Fen Hsu (徐彗芬)]]
-- [[people/pearl-pi-chu-yang-wu|Pearl Pi-Chu Yang Wu (楊碧珠)]]
-- [[people/peggy-chen|Peggy Chen (張佩仙)]]
-- [[people/peggy-cooley|Peggy Cooley (邱碧玉)]]
-- [[people/peggy-huang|Peggy Huang (黃瑞雅)]]
-- [[people/peggy-kuo|Peggy Kuo (郭佩宇)]]
-- [[people/peggy-liao|Peggy Liao (廖碧玉)]]
-- [[people/pei-ju-wang|Pei-Ju Wang (王培儒)]]
-- [[people/pei-lin|Pei Lin (林伯修)]]
-- [[people/pei-ning-ku|Pei-Ning Ku (顧蓓寧)]]
-- [[people/pei-shan-lee|PEI-SHAN LEE (李蓓珊)]]
-- [[people/peirong-lo|Peirong Lo (羅佩蓉)]]
-- [[people/pen-jen-lin|Pen-Jen Lin (林本仁)]]
-- [[people/peng-ming-min|Peng Ming-min (彭明敏)]]
-- [[people/perry-b-shieh|Perry B. Shieh (謝泊怡)]]
-- [[people/peter-c-y-chow|Peter C. Y. Chow (周鉅原博士)]]
-- [[people/peter-chen|Peter Chen (陳正義)]]
-- [[people/peter-chiu|Peter Chiu (邱勝宗)]]
-- [[people/peter-deng|Peter Deng (鄧培德)]]
-- [[people/peter-hsu|Peter Hsu (徐學猷)]]
-- [[people/peter-kuo|Peter Kuo (郭博資)]]
-- [[people/peter-lee|Peter Lee (李文智)]]
-- [[people/peter-lin|Peter Lin (林冠豪)]]
-- [[people/peter-lu|Peter Lu (盧信義)]]
-- [[people/peter-su|Peter Su (蘇國雄)]]
-- [[people/peter-wang|Peter Wang (王武聰牧師)]]
-- [[people/peter-yang|Peter Yang (楊秉彝)]]
-- [[people/philip-lin|Philip Lin (林水泉)]]
-- [[people/philip-s-chen|Philip S. Chen (陳伸夫)]]
-- [[people/philip-wu|Philip Wu (吳庭和)]]
-- [[people/philip-yang|Philip Yang (楊永慶牧師)]]
-- [[people/phoenix-ko|Phoenix Ko (柯貝昀)]]
-- [[people/pi-kwang-tsung|Pi-Kwang Tsung (曾碧光)]]
-- [[people/pi-pai-wang|Pi-Pai Wang (黃碧白)]]
-- [[people/pin-huey-wang|Pin-Huey Wang (王品惠)]]
-- [[people/pin-shan-peter-chen|Pin-Shan Peter Chen (陳品山教授)]]
-- [[people/ping-wang|Ping Wang (王秉訓)]]
-- [[people/pingtung-lai|Pastor Pingtung Lai (賴炳烔)]]
-- [[people/po-hu|Po Hu (胡博文教授)]]
-- [[people/po-wei-lai|Po-Wei Lai (賴伯瑋)]]
-- [[people/polly-chang|Polly Chang (何佩宜)]]
-- [[people/portia-wu|Portia Wu]]
-- [[people/powen-wang|Powen Wang (王博文)]]
-- [[people/priskapriscilla-liang|Priska Priscilla Liang]]
-- [[people/prof-a-lien-lu-chang|Prof. A-Lien Lu-Chang (呂阿戀教授)]]
-- [[people/prof-abraham-lee|Prof. Abraham Lee (李伯晃教授)]]
-- [[people/prof-albert-b-jeng|Prof. Albert B. Jeng (鄭博仁教授)]]
-- [[people/prof-andre-lee|Prof. Andre Lee (李延志教授)]]
-- [[people/prof-andy-tsay|Prof. Andy Tsay (蔡安達教授)]]
-- [[people/prof-bay-mao-bill-wu|Prof. Bay-Mao Bill Wu (吳倍茂教授)]]
-- [[people/prof-ben-liu|Prof. Ben Liu (劉斌碩教授)]]
-- [[people/prof-bernard-travis-lee|Prof. Bernard Travis Lee (李伯寧教授)]]
-- [[people/prof-bor-jang-chang|Prof. Bor Jang Chang (張博增教授)]]
-- [[people/prof-c-t-james-huang|Prof. C.-T. James Huang (黃正德教授)]]
-- [[people/prof-carol-ou|Prof. Carol Ou (歐逸青教授)]]
-- [[people/prof-chang-jang-hsieh|Prof. Chang-Jang Hsieh (謝常彰教授)]]
-- [[people/prof-chao-yuan-huang|Prof. Chao Yuan Huang (黃昭淵教授)]]
-- [[people/prof-chawnshang-chang|Prof. Chawnshang Chang (張傳祥教授)]]
-- [[people/prof-chen-chong-lin|Prof. Chen-Chong Lin (林建中教授)]]
-- [[people/prof-chen-s-tsai|Prof. Chen S. Tsai (蔡振水教授)]]
-- [[people/prof-cheng-few-lee|Prof. Cheng-Few Lee (李正福教授)]]
-- [[people/prof-chi-tsong-chen|Prof. Chi-Tsong Chen (陳啓宗教授)]]
-- [[people/prof-chien-fu-jeff-wu|Prof. Chien-Fu Jeff Wu (吳建福教授)]]
-- [[people/prof-chien-te-chen|Prof. Chien-Te Chen (陳建德教授)]]
-- [[people/prof-chih-chung-yang|Prof. Chih-Chung Yang (楊志忠教授)]]
-- [[people/prof-chih-hao-lucas-chang|Prof. Chih-Hao Lucas Chang (張志豪教授)]]
-- [[people/prof-chih-ping-yeh|Prof. Chih-Ping Yeh (葉治平教授)]]
-- [[people/prof-chimei-m-lee|Prof. Chimei M. Lee (李綺梅教授)]]
-- [[people/prof-chin-an-li|Prof. Chin-An Li (李勤岸教授)]]
-- [[people/prof-chin-c-lee|Prof. Chin C. Lee (李金忠教授)]]
-- [[people/prof-chin-chu-lin-m-d|Prof. Chin-Chu Lin M.D. (林靜竹教授)]]
-- [[people/prof-chin-hsien-jim-wang|Prof. Chin-Hsien Jim Wang (王進賢教授)]]
-- [[people/prof-chin-pao-huang|Prof. Chin-Pao Huang (黃金寶教授)]]
-- [[people/prof-chin-teh-sun|Prof. Chin-Teh Sun (孫錦德教授)]]
-- [[people/prof-chong-maw-chen|Prof. Chong-Maw Chen (陳正茂教授)]]
-- [[people/prof-chung-cheng-hsieh|Prof. Chung-Cheng Hsieh (謝中誠教授)]]
-- [[people/prof-chung-yi-hsu|Prof. Chung-Yi Hsu (許重義教授)]]
-- [[people/prof-clark-chen|Prof. Clark Chen (陳經宗教授)]]
-- [[people/prof-david-liu|Prof. David Liu (劉如謙教授)]]
-- [[people/prof-davis-l-s-chang|Prof. Davis L. S. Chang (張祿生教授)]]
-- [[people/prof-dennis-hsieh|Prof. Dennis Hsieh (謝顯堂教授)]]
-- [[people/prof-der-tsai-lee|Prof. Der-Tsai Lee (李德財教授)]]
-- [[people/prof-edith-chen|Prof. Edith Chen (陳怡迪教授)]]
-- [[people/prof-edward-h-lee|Prof. Edward H Lee (李賢淇教授)]]
-- [[people/prof-elaine-hsiao|Prof. Elaine Hsiao (蕭夷年教授)]]
-- [[people/prof-eva-y-h-p-lee|Prof. Eva Y.H. P. Lee (潘玉華教授)]]
-- [[people/prof-f-frank-chen|Prof. F. Frank Chen (陳鳳山教授)]]
-- [[people/prof-f-s-shih|Prof. F. S. Shih (謝復生教授)]]
-- [[people/prof-felix-t-hong|Prof. Felix T. Hong (洪正幸教授)]]
-- [[people/prof-fong-yong-tsai|Prof. Fong-Yong Tsai (蔡芳洋教授)]]
-- [[people/prof-frank-chiang|Prof. Frank Chiang (江永芳教授)]]
-- [[people/prof-frank-hsu|Prof. Frank Hsu (許德標教授)]]
-- [[people/prof-frank-mau-chung-chang|Prof. Frank Mau-Chung Chang (張懋中教授)]]
-- [[people/prof-frank-s-t-hsiao|Prof. Frank S. T. Hsiao (蕭聖鐵教授)]]
-- [[people/prof-frank-shih|Prof. Frank Shih (施永強教授)]]
-- [[people/prof-grace-chen-huang|Prof. Grace Chen Huang (陳怡安教授)]]
-- [[people/prof-gwo-jaw-wang|Prof. Gwo Jaw Wang (王國照教授)]]
-- [[people/prof-h-c-lee|Prof. H. C. Lee (李弘祺教授)]]
-- [[people/prof-han-jung-ko|Prof. Han-Jung Ko (柯涵容教授)]]
-- [[people/prof-harrison-cheng|Prof. Harrison Cheng (鄭學成教授)]]
-- [[people/prof-helen-lee|Prof. Helen Lee (李雪玟教授)]]
-- [[people/prof-henry-chuang|Prof. Henry Chuang (莊英煌教授)]]
-- [[people/prof-howard-yuan-hao-chang|Prof. Howard Yuan-Hao Chang (張元豪教授)]]
-- [[people/prof-hsiao-ying-monica-wey|Prof. Hsiao-Ying Monica Wey (魏曉英教授)]]
-- [[people/prof-hsing-jien-kung|Prof. Hsing-Jien Kung (龔行健教授)]]
-- [[people/prof-hsing-lih-chou|Prof. Hsing-Lih Chou (周興立教授)]]
-- [[people/prof-hsiu-lang-chen|Prof. Hsiu-lang Chen (陳秀亮教授)]]
-- [[people/prof-hsiu-san-lin|Prof.Hsiu-San Lin (林秀三教授)]]
-- [[people/prof-hsu-te-cheng|Prof. Hsu-Te Cheng (鄭胥德教授)]]
-- [[people/prof-hung-wen-ben-liu|Prof. Hung-Wen Ben Liu (劉鴻文教授)]]
-- [[people/prof-james-c-liao|Prof. James C. Liao (廖俊智教授)]]
-- [[people/prof-je-chin-han|Prof. Je-Chin Han (黃界清教授)]]
-- [[people/prof-jen-chin-wang|Prof. Jen Chin Wang (王政卿教授)]]
-- [[people/prof-jessica-y-ho|Prof. Jessica Y. Ho]]
-- [[people/prof-jimmy-ching-ming-chen|Prof. Jimmy Ching-Ming Chen]]
-- [[people/prof-jin-shei-lai|Prof. Jin-Shei Lai (賴金雪教授)]]
-- [[people/prof-jin-tan-liu|Prof. Jin-Tan Liu (劉錦添教授)]]
-- [[people/prof-jing-hsiung-james-ou|Prof. Jing-Hsiung James Ou (歐競雄教授)]]
-- [[people/prof-joshua-wen-kwei-liao|Prof. Joshua Wen-Kwei Liao (廖文奎教授)]]
-- [[people/prof-jow-lay-huang|Prof. Jow-Lay Huang (黃肇端教授)]]
-- [[people/prof-ju-shey-ho|Prof. Ju-Shey Ho (何汝諧教授)]]
-- [[people/prof-jyu-hsiung-fang|Prof. Jyu-Hsiung Fang (方菊雄教授)]]
-- [[people/prof-kang-lung-wang|Prof. Kang-Lung Wang (王康隆教授)]]
-- [[people/prof-ke-hsin-jenny-chi|Prof. Ke-Hsin Jenny Chi (紀可欣教授)]]
-- [[people/prof-ken-s-huang|Prof. Ken S. Huang (黃根深教授)]]
-- [[people/prof-kenneth-k-wu|Prof. Kenneth K. Wu (伍焜玉教授)]]
-- [[people/prof-kun-yen-huang|Prof. Kun-Yen Huang (黃崑巖教授)]]
-- [[people/prof-kuo-nan-liou|Prof. Kuo-Nan Liou (廖國男教授)]]
-- [[people/prof-lan-bo-chen|Prof. Lan-Bo Chen (陳良博教授)]]
-- [[people/prof-leona-yi-fan-su|Prof. Leona Yi-Fan Su (蘇怡帆教授)]]
-- [[people/prof-li-fan-philip-liu|Prof. Li-Fan Philip Liu (劉立方教授)]]
-- [[people/prof-li-hui-tsai|Prof. Li-Hui Tsai (蔡立慧教授)]]
-- [[people/prof-liang-shih-fan|Prof. Liang-Shih Fan (范良士教授)]]
-- [[people/prof-liang-tseng-fan|Prof. Liang-Tseng Fan (范良政教授)]]
-- [[people/prof-liao-tsung-lin|Prof. Liao-Tsung Lin (林料總教授)]]
-- [[people/prof-lily-yeh-ja|Prof. Lily Yeh Ja (葉公杼教授)]]
-- [[people/prof-lu-yu-hwang|Prof. Lu-Yu Hwang (黃綠玉教授)]]
-- [[people/prof-luh-maan-chang|Prof. Luh-Maan Chang (張陸滿教授)]]
-- [[people/prof-lung-chi-chen|Prof. Lung-Chi Chen (陳隆志教授)]]
-- [[people/prof-m-s-wang|Prof. M. S. Wang (王孟心教授)]]
-- [[people/prof-margaret-shih|Prof. Margaret Shih (施華維教授)]]
-- [[people/prof-mei-chu-wang-hsiao|Prof. Mei-Chu Wang Hsiao (王美珠教授)]]
-- [[people/prof-michi-fu|Prof. Michi Fu]]
-- [[people/prof-ming-chiang-lin|Prof. Ming Chiang Lin (林明璋教授)]]
-- [[people/prof-ming-chiao-michael-lai|Prof. Ming-Chiao Michael Lai (賴明詔教授)]]
-- [[people/prof-ming-min-peng|Prof. Ming Min Peng (彭明敏教授)]]
-- [[people/prof-mingchi-wu|Prof. Mingchi Wu (吳明基教授)]]
-- [[people/prof-nai-chang-yeh|Prof. Nai-chang Yeh (葉乃裳教授)]]
-- [[people/prof-oliver-chyan|Prof. Oliver Chyan (錢明仁教授)]]
-- [[people/prof-pai-hsiang-chou|Prof. Pai-Hsiang Chou (周百祥教授)]]
-- [[people/prof-pei-jung-lin|Prof. Pei-Jung Lin]]
-- [[people/prof-perry-p-j-yang|Prof. Perry P.J. Yang (楊沛儒教授)]]
-- [[people/prof-ping-hui-liao|Prof. Ping-Hui Liao (廖炳惠教授)]]
-- [[people/prof-ralph-t-yang|Prof. Ralph T. Yang (楊祖保教授)]]
-- [[people/prof-robert-yien|Prof. Robert Yien (顏善邦教授)]]
-- [[people/prof-ruey-j-yu|Prof. Ruey J. Yu (余瑞錦教授)]]
-- [[people/prof-ruey-jen-sung|Prof. Ruey-Jen Sung (宋瑞珍教授)]]
-- [[people/prof-ruey-s-tsay|Prof. Ruey S. Tsay (蔡瑞胸教授)]]
-- [[people/prof-s-felix-wu|Prof. S. Felix Wu (吳士駿教授)]]
-- [[people/prof-s-s-huang|Prof. S. S. Huang (黃壽山教授)]]
-- [[people/prof-shane-rong-lee|Prof. Shane-Rong Lee (李憲榮教授)]]
-- [[people/prof-shang-fa-yang|Prof. Shang-Fa Yang (楊祥發教授)]]
-- [[people/prof-sheng-cheng-hu|Prof. Sheng-cheng Hu (胡勝正教授)]]
-- [[people/prof-shenglin-chang|Prof. Shenglin Chang (張聖琳教授)]]
-- [[people/prof-shi-kuei-wu|Prof. Shi-Kuei Wu (吳錫圭教授)]]
-- [[people/prof-shi-meng-chen|Prof. Shi-Meng Chen (陳師孟教授)]]
-- [[people/prof-shi-shung-huang|Prof. Shi-Shung Huang (黃錫勳教授)]]
-- [[people/prof-shih-i-chu|Prof. Shih-I Chu (朱時宜教授)]]
-- [[people/prof-shih-wen-huang|Prof. Shih-Wen Huang (黃碩文教授)]]
-- [[people/prof-shiou-chuan-sheryl-tsai|Prof. Shiou-Chuan Sheryl Tsai (蔡秀娟)]]
-- [[people/prof-shiou-ping-liao|Prof. Shiou-Ping Liao (廖修平教授)]]
-- [[people/prof-shirley-cheng-tsai|Prof. Shirley Cheng Tsai (鄭秀蘭教授)]]
-- [[people/prof-shu-li-chen|Prof. Shu-li Chen (陳淑麗教授)]]
-- [[people/prof-shumei-s-sun|Prof. Shumei S. Sun]]
-- [[people/prof-shung-wu-lee|Prof. Shung-Wu Lee (李雄武教授)]]
-- [[people/prof-shutsung-liao|Prof. Shutsung Liao (廖述宗教授)]]
-- [[people/prof-stephen-shau-tsi-chen|Prof. Stephen Shau-tsi Chen (陳紹紀教授)]]
-- [[people/prof-su-chiung-chen|Prof. Su-Chiung Chen (陳素瓊教授)]]
-- [[people/prof-sue-mei-wu|Prof. Sue-Mei Wu (吳素美教授)]]
-- [[people/prof-sze-ya-yeh|Prof. Sze-ya Yeh (葉思雅教授)]]
-- [[people/prof-t-l-lin|Prof. T. L. Lin (林子倫教授)]]
-- [[people/prof-ta-chiang-liu|Prof. Ta-Chiang Liu (劉大強教授)]]
-- [[people/prof-tai-chang-chiang|Prof. Tai Chang Chiang (江台章教授)]]
-- [[people/prof-tao-shih-shieh|Prof. Tao-Shih Shieh (謝道時教授)]]
-- [[people/prof-teh-hui-kao|Prof. Teh-Hui Kao (高德輝教授)]]
-- [[people/prof-tender-lin|Prof. Tender Lin (林天德教授)]]
-- [[people/prof-teresa-h-meng|Prof. Teresa H. Meng (孟懷縈教授)]]
-- [[people/prof-tian-min-lin|Prof. Tian-Min Lin (林天民教授)]]
-- [[people/prof-tien-chang-lee|Prof. Tien-Chang Lee (李典常)]]
-- [[people/prof-tien-cheng-chang|Prof. Tien-Cheng Chang (張典正教授)]]
-- [[people/prof-tien-her-wang|Prof. Tien-Her Wang (王天合教授)]]
-- [[people/prof-tien-sung-tom-lin|Prof. Tien‐Sung Tom Lin (林天送教授)]]
-- [[people/prof-ting-chao-chou|Prof. Ting-Chao Chou (周廷潮教授)]]
-- [[people/prof-ting-kuo-lee|Prof. Ting-Kuo Lee (李定國教授)]]
-- [[people/prof-trong-rong-tsai|Prof. Trong-Rong Tsai (蔡同榮教授)]]
-- [[people/prof-tsan-iang-chuang|Prof. Tsan-Iang Chuang (莊燦陽教授)]]
-- [[people/prof-tsung-yi-lin|Prof. Tsung-Yi Lin (林宗義教授)]]
-- [[people/prof-tuan-hua-david-ho|Prof. Tuan-Hua David Ho (賀端華教授)]]
-- [[people/prof-vigor-yang|Prof. Vigor Yang (楊威迦教授)]]
-- [[people/prof-w-k-young|Prof. W.K. Young (楊文光教授)]]
-- [[people/prof-w-s-william-wei|Prof. W.S. William Wei (魏武雄教授)]]
-- [[people/prof-w-s-winston-ho|Prof. W.S. Winston Ho (何文壽教授)]]
-- [[people/prof-wei-kung-wang|Prof. Wei-Kung Wang (王維恭教授)]]
-- [[people/prof-wen-chan|Prof. Wen Chan (詹文聲教授)]]
-- [[people/prof-wen-hsiung-ko|Prof. Wen-Hsiung Ko (柯文雄教授)]]
-- [[people/prof-wen-hsiung-li|Prof. Wen-Hsiung Li (李文雄教授)]]
-- [[people/prof-wen-hwa-lee|Prof. Wen-Hwa Lee (李文華教授)]]
-- [[people/prof-wen-yaw-chan|Prof. Wen-Yaw Chan (詹文耀教授)]]
-- [[people/prof-wentai-liu|Prof. Wentai Liu (劉文泰教授)]]
-- [[people/prof-wilson-ho|Prof. Wilson Ho (何文程教授)]]
-- [[people/prof-y-c-eric-shen|Prof. Y. C. Eric Shen (沈耀初教授)]]
-- [[people/prof-y-c-jeng|Prof. Y. C. Jeng (鄭逸群教授)]]
-- [[people/prof-y-w-cheng|Prof. Y. W. Cheng (鄭義為教授)]]
-- [[people/prof-yang-en-cheng|Prof. Yang-En Cheng (鄭仰恩教授)]]
-- [[people/prof-yao-yuan-yeh|Prof. Yao-Yuan Yeh (葉耀元教授)]]
-- [[people/prof-yie-hwa-chang|Prof. Yie-Hwa Chang (張義華教授)]]
-- [[people/prof-young-chang-chen|Prof. Young-Chang Chen (陳榮昌教授)]]
-- [[people/prof-yu-chong-tai|Prof. Yu-Chong Tai (戴聿昌教授)]]
-- [[people/prof-yuan-pern-lee|Prof. Yuan-Pern Lee (李遠鵬教授)]]
-- [[people/prof-yuh-huey-grace-lin|Prof. Yuh-Huey Grace Lin (林玉惠)]]
-- [[people/professor-schuman-s-tu|Professor Schuman S. Tu (杜新茂教授)]]
+### I {#i}
 
-<h3 id="q">Q</h3>
-- [[people/quei-lih-chen|Quei-Lih Chen (陳瑰麗)]]
-- [[people/qun-tsai|Qun Tsai (蔡昆)]]
+- [I-Bei Lin (林怡貝)](./i-bei-lin)
+- [I-Chen Wang](./i-chen-wang)
+- [I-Chun Catherine Chang (張儀君教授)](./i-chun-catherine-chang)
+- [I-Chunn Lee](./i-chunn-lee)
+- [I-Chuun Lee](./i-chuun-lee)
+- [I-Fang Tsai (蔡宜芳)](./i-fang-tsai)
+- [I-Jen Chen (陳一仁醫師)](./i-jen-chen)
+- [I-Ling Chen (陳奕伶)](./i-ling-chen)
+- [I-Ting Huang (黄怡婷)](./i-ting-huang)
+- [I-Uen Wang Hwang (王怡雯)](./i-uen-wang-hwang)
+- [I. S. Chen (陳以信博士)](./i-s-chen)
+- [I. Y. Lin (林一洋醫師)](./i-y-lin)
+- [Ian Chen (陳彥竹)](./ian-chen)
+- [Ian Easton (易思安)](./ian-easton)
+- [Ian Lin (林毅安)](./ian-lin)
+- [Ian Y. Lian](./ian-y-lian)
+- [Ignatius Lin (林上翔)](./ignatius-lin)
+- [Ih Foo Lin (林毅夫醫師)](./ih-foo-lin)
+- [Ing-Hour Lin (林英侯博士)](./ing-hour-lin)
+- [Ing-Hui Lai (賴英慧)](./ing-hui-lai)
+- [Ingrid Chun (郭雋音)](./ingrid-chun)
+- [Ingrid Tseng (曾暎貴)](./ingrid-tseng)
+- [Irene Lee (李智惠)](./irene-lee)
+- [Irene Lin (林晃宇)](./irene-lin)
+- [Iris Ho (何燕青)](./iris-ho)
+- [Irvin Lin (林斐強)](./irvin-lin)
+- [Isaiah Lee (李宗派教授)](./isaiah-lee)
+- [Ivy Yang (楊靜芬)](./ivy-yang)
 
-<h3 id="r">R</h3>
-- [[people/cai-weiren|Rev. Tsai Weiren (蔡維仁)]]
-- [[people/chen-bozhi|Rev. Chen Bozhi (陳柏志)]]
-- [[people/chen-caiyuan|Rex Chen (陳財元)]]
-- [[people/ching-fang-chen|Rev. Ching Fang Chen (陳清芳)]]
-- [[people/david-huang|Rev. David Huang (黃德利)]]
-- [[people/en-sheng-pan|Rev. En Sheng Pan (潘恩盛)]]
-- [[people/guo-dongxu|Rev. Guo Dongxu (郭東緒)]]
-- [[people/jonah-chang|Rev. Jonah Chang (張瑞雄)]]
-- [[people/kao-chun-ming|Rev. Kao Chun-ming (高俊明)]]
-- [[people/lai-junming|Rev. Lai Junming (賴俊明)]]
-- [[people/mingyuan-hsu|Rev. Mingyuan Hsu (許明遠)]]
-- [[people/pinghsi-liu|Rev. Pinghsi Liu (劉炳熹)]]
-- [[people/r-c-chen|R. C. Chen (陳瑞珠)]]
-- [[people/r-f-huang|R. F. Huang (許黃瑞鳳)]]
-- [[people/r-j-chang|R. J. Chang (張榮吉)]]
-- [[people/r-l-low|R. L. Low (羅瑞蘭)]]
-- [[people/r-r-yang|R. R. Yang (楊蓉蓉)]]
-- [[people/r-w-chen|R. W. Chen (陳瑞玟)]]
-- [[people/rachel-chao|Rachel Chao (趙亦秋)]]
-- [[people/rachel-ku|Rachel Ku]]
-- [[people/rachel-lin|Rachel Lin]]
-- [[people/rachel-liu-siu|Rachel Liu Siu (劉廣然)]]
-- [[people/ralph-su|Ralph Su (蘇惠智牧師)]]
-- [[people/ray-chen|Ray Chen (陳銳)]]
-- [[people/ray-jan|Ray Jan (冉瑞宜)]]
-- [[people/raymond-jeng|Raymond Jeng (鄭英松)]]
-- [[people/raymond-kuo|Raymond Kuo]]
-- [[people/raymond-t-chen|Raymond T. Chen]]
-- [[people/raymond-wu|Raymond Wu (吳瑞信)]]
-- [[people/remii-huang|Remii Huang (黃婕妤)]]
-- [[people/reng-lang-lin|Reng-Lang Lin (林祁郎)]]
-- [[people/rev-ai-chih-tsai|Rev. Ai Chih Tsai (蔡愛智牧師)]]
-- [[people/rev-ben-m-c-hsieh|Rev. Ben M.C. Hsieh (謝敏川牧師)]]
-- [[people/rev-burton-tan|Rev. Burton Tan (陳柏壽牧師)]]
-- [[people/rev-c-l-tong|Rev. C. L. Tong (董俊蘭牧師)]]
-- [[people/rev-c-y-huang|Rev. C. Y. Huang (黃主義牧師)]]
-- [[people/rev-chung-hsin-cho|Rev. Chung Hsin Cho (卓忠信牧師)]]
-- [[people/rev-dave-alexander|Rev. Dave Alexander (亞大偉牧師)]]
-- [[people/rev-edward-bin-tanng|Rev. Edward Bin Tanng (陳黃義敏牧師)]]
-- [[people/rev-h-d-chen|Rev. H. D. Chen (陳浩德牧師)]]
-- [[people/rev-ian-cheng|Rev. Ian Cheng (鄭溢恩牧師)]]
-- [[people/rev-j-c-cheng|Rev. J. C. Cheng (鄭紀昭牧師)]]
-- [[people/rev-j-m-hsu|Rev. J. M. Hsu (許錦銘牧師)]]
-- [[people/rev-j-s-chou|Rev. J. S. Chou (周再賜牧師)]]
-- [[people/rev-james-chang|Rev. James Chang (張拯民牧師)]]
-- [[people/rev-james-i-cheng|Rev. James I. Cheng (鄭義勇牧師)]]
-- [[people/rev-jim-huang|Rev. Jim Huang (黃景彬牧師)]]
-- [[people/rev-martin-c-wang|Rev. Martin C. Wang (王成章牧師)]]
-- [[people/rev-ming-huei-phillip-liu|Rev. Ming Huei Phillip Liu (劉銘輝牧師)]]
-- [[people/rev-parker-shieh|Rev. Parker Shieh (謝貫明牧師)]]
-- [[people/rev-prof-joseph-wang|Rev. Prof. Joseph Wang (王守仁牧師)]]
-- [[people/rev-r-h-chang|Rev. R. H. Chang (張瑞雄牧師)]]
-- [[people/rev-rui-long-lin|Rev. Rui-Long Lin (林瑞隆牧師)]]
-- [[people/rev-s-y-lin|Rev. S. Y. Lin (林皙陽牧師)]]
-- [[people/rev-sheng-to-shih|Rev. Sheng-To Shih (施聖導牧師)]]
-- [[people/rev-shirley-lin|Rev. Shirley Lin (林珊宇牧師)]]
-- [[people/rev-thomas-h-chen|Rev. Thomas H. Chen (陳宏文牧師)]]
-- [[people/rev-tsu-kung-chuang|Rev. Tsu-Kung Chuang (莊祖鯤牧師)]]
-- [[people/rev-william-j-burke-jr|Rev. William J. Burke Jr.]]
-- [[people/rex-chen|Rex Chen (陳乃光)]]
-- [[people/rhoda-wang-jeng|Rhoda Wang Jeng]]
-- [[people/richard-chang|Richard Chang (張立仁)]]
-- [[people/richard-chen|Richard Chen (陳重光舊名)]]
-- [[people/richard-d-fisher|Richard D. Fisher (費學禮)]]
-- [[people/richard-j-shih|Richard J. Shih (石正岡醫師)]]
-- [[people/richard-lee|Richard Lee (李正三)]]
-- [[people/richard-lin|Richard Lin (林品任)]]
-- [[people/richard-pan|Richard Pan (潘君達博士)]]
-- [[people/richard-wang|Richard Wang]]
-- [[people/ring-lin-hsu|Ring Lin Hsu (許林碖)]]
-- [[people/rizia-h-lin|Rizia H. Lin (洪文鳳)]]
-- [[people/robert-chen|Robert Chen (陳慕融)]]
-- [[people/robert-chung|Robert Chung (鐘博盈)]]
-- [[people/robert-g-chu|Robert G. Chu (朱靜懷)]]
-- [[people/robert-lee|Robert Lee (李席舟)]]
-- [[people/rockwell-hsu|Rockwell Hsu (徐名璋)]]
-- [[people/roger-chen|Roger Chen (陳正哲)]]
-- [[people/roger-huang|Roger Huang (黃瑞宗)]]
-- [[people/roger-tsai|Roger Tsai (蔡漢成)]]
-- [[people/roland-p-brown|Roland P. Brown (薄柔纜醫生)]]
-- [[people/ron-chen|Ron Chen (陳榮成)]]
-- [[people/ron-shieh|Ron Shieh (謝榮峻)]]
-- [[people/rong-hu-lu|Rong-hu Lu (盧榮富)]]
-- [[people/rosalyne-formosa-shieh|Rosalyne Formosa Shieh (謝泊欣)]]
-- [[people/rose-chen|Rose Chen (陳慧如)]]
-- [[people/ru-pei-yen|Ru-Pei Yen (葉儒沛)]]
-- [[people/ruby-chen|Ruby Chen (李惠末)]]
-- [[people/rue-lin-hung|Rue-Lin Hung (洪瑞麟)]]
-- [[people/rueibin-chen|Rueibin Chen (陳瑞斌)]]
-- [[people/rui-feng-hsu|Rui-feng Hsu (許瑞峰)]]
-- [[people/rui-mu-lee|Rui Mu Lee (李瑞木)]]
-- [[people/rung-fang-chen|Rung-fang Chen (陳榮芳)]]
-- [[people/russell-hsiao|Russell Hsiao]]
-- [[people/ruth-yeh|Ruth Yeh (葉李麗貞)]]
-- [[people/ryan-hass|Ryan Hass (何瑞恩)]]
-- [[people/wudong-huang|Rev. Wudong Huang (黃武東牧師)]]
-- [[people/xie-dali|Rev. Xie Dali (謝大立)]]
-- [[people/xie-xinguang|Rev. Xie Xinguang (謝信光)]]
-- [[people/xie-xinzhong|Rev. Xie Xinzhong (謝信中)]]
-- [[people/zhuang-xinde|Rev. Zhuang Xinde (莊信德)]]
+### J {#j}
 
-<h3 id="s">S</h3>
-- [[people/janet-tsai|Shu-Hui Janet Tsai (蔡淑慧博士)]]
-- [[people/s-b-liu|S. B. Liu (劉西北)]]
-- [[people/s-c-lin|S. C. Lin (林淑珠)]]
-- [[people/s-c-wu|S. C. Wu (吳西謙)]]
-- [[people/s-c-yang|S. C. Yang (楊淑卿)]]
-- [[people/s-d-chen|S. D. Chen (陳士東)]]
-- [[people/s-f-yang|S. F. Yang (楊雪鳳)]]
-- [[people/s-h-chang|S. H. Chang (張舜華)]]
-- [[people/s-h-lin|S. H. Lin (林聖賢)]]
-- [[people/s-h-shang|S. H. Shang (商夏會)]]
-- [[people/s-i-tom-tsai|S.I. Tom Tsai (蔡式宜)]]
-- [[people/s-j-chen|S. J. Chen (陳松楨)]]
-- [[people/s-j-chou|S. J. Chou (周信結博士)]]
-- [[people/s-j-ho|S. J. Ho (何世杰)]]
-- [[people/s-j-lin|S. J. Lin (林宣繼)]]
-- [[people/s-l-chen|S. L. Chen (陳世霖)]]
-- [[people/s-l-chen-2|S. L. Chen (陳晳憐博士)]]
-- [[people/s-l-lin|S. L. Lin (林幸隆)]]
-- [[people/s-m-jacqueline-wang|S. M. Jacqueline Wang (王賽美)]]
-- [[people/s-m-lin|S. M. Lin (林素敏)]]
-- [[people/s-s-huang|S.S. Huang (黃申生)]]
-- [[people/s-s-wu|S. S. Wu (吳炫三)]]
-- [[people/s-t-liu|S. T. Liu (劉曉亭)]]
-- [[people/s-w-hung|S. W. Hung (洪順伍博士)]]
-- [[people/s-w-yang|S. W. Yang (楊筱薇)]]
-- [[people/s-y-chang|S. Y. Chang (張信義)]]
-- [[people/s-y-huang|S. Y. Huang (黃森元)]]
-- [[people/s-y-lee|S. Y. Lee (李嵩義)]]
-- [[people/s-y-liu|S. Y. Liu (劉淑媛)]]
-- [[people/s-y-wong|S. Y. Wong (翁水元)]]
-- [[people/sally-tsai|Sally Tsai (蔡淑理)]]
-- [[people/sam-chang|Sam Chang (張善良)]]
-- [[people/sam-huang|Sam Huang (黃興貫)]]
-- [[people/sam-hung|Sam Hung (洪南山)]]
-- [[people/sam-s-weng|Sam S Weng (翁勝三醫師)]]
-- [[people/sam-wei-chih-sun|Sam Wei-Chih Sun (孫偉志)]]
-- [[people/samantha-yu|Samantha Yu (游蕙綾)]]
-- [[people/samuel-kao|Samuel Kao (高榮彬)]]
-- [[people/samuel-lee|Samuel Lee (李茂玄)]]
-- [[people/samuel-lin|Samuel Lin (林雲郎)]]
-- [[people/samuel-s-cheung|Samuel S. Cheung (張詩賢)]]
-- [[people/samuel-wu|Samuel Wu (吳德聖牧師)]]
-- [[people/san-john-huang|San John Huang (黃三榮)]]
-- [[people/san-nan-chen|San-Nan Chen (陳珊喃)]]
-- [[people/sandy-yen|Sandy Yen (莊和子)]]
-- [[people/sang-pu|Sang Pu / 桑普]]
-- [[people/sarolina-chang|Sarolina Chang (沈麗華)]]
-- [[people/scott-lee|Scott Lee (李捷琦)]]
-- [[people/sean-chen|Sean Chen (陳宣堯)]]
-- [[people/sean-wang|Sean Wang (王雍翔博士)]]
-- [[people/sen-maw-woody-fang|Sen Maw Woody Fang (方森茂教授)]]
-- [[people/seng-jaw-soong|Seng-Jaw Soong (宋盛照)]]
-- [[people/serena-chen|Serena Chen]]
-- [[people/sha-lin|Sha Lin (林莎)]]
-- [[people/shan-lin|Shan Lin (林上祺)]]
-- [[people/shan-tai-yeh|Shan-Tai Yeh]]
-- [[people/shang-c-chiou|Shang C. Chiou (邱祥竹醫師)]]
-- [[people/shang-fa-yang|Shang Fa Yang]]
-- [[people/shang-feng-wu|Shang-Feng Wu (吳上峯)]]
-- [[people/shante-shawsean-chen|Shante Shaw Sean Chen (陳善哲)]]
-- [[people/sharon-cheng|Sharon Cheng (鄭怡君)]]
-- [[people/sharon-huang|Sharon Huang (黃馨瑤)]]
-- [[people/sharon-s-hsu|Sharon S. Hsu (許聖美)]]
-- [[people/shaw-fang-jeng|Shaw Fang Jeng (鄭劭方)]]
-- [[people/shawn-c-chou|Shawn C. Chou (周正烜)]]
-- [[people/shawn-lu|Shawn Lu (呂紹翔)]]
-- [[people/shawn-yeh|Shawn Yeh (葉上毅)]]
-- [[people/shawna-yang-ryan|Shawna Yang Ryan (楊小娜)]]
-- [[people/sheng-ching-angel-hsu|Sheng-Ching Angel Hsu (徐升晴)]]
-- [[people/sheng-hsin-lin|Sheng-Hsin Lin (林聖馨)]]
-- [[people/sheng-wang|Sheng Wang]]
-- [[people/sheng-yuan-kuan|Sheng-Yuan Kuan (官聖媛)]]
-- [[people/shi-kaung-peng|Shi-Kaung Peng (彭旭光)]]
-- [[people/shi-lung-lin|Shi-Lung Lin (林希龍)]]
-- [[people/shi-yuli|Shi Yuli (施郁麗)]]
-- [[people/shiao-uen-ding|Shiao-Uen Ding (丁曉雯)]]
-- [[people/shida-kuo|Shida Kuo (郭旭達)]]
-- [[people/shih-chen-hsu|Shih-Chen Hsu (許世真)]]
-- [[people/shih-chieh-huang|SHIH CHIEH HUANG (黃世傑)]]
-- [[people/shih-han-erika-chiu|Shih-han Erika Chiu (邱詩涵)]]
-- [[people/shih-hui-chen|Shih-Hui Chen (陳士惠)]]
-- [[people/shih-pao-lin|Shih Pao Lin (林世寶)]]
-- [[people/shih-peng-chang|Shih-Peng Chang (張士芃)]]
-- [[people/shih-ting-huang|Shih-Ting Huang (黃詩婷)]]
-- [[people/shih-yaw-lai|Shih Yaw Lai (賴世耀博士)]]
-- [[people/shih-yin-chen|Shih-Yin Chen (陳詩音)]]
-- [[people/shin-ruh-liu|Shin-Ruh Liu (劉新祿)]]
-- [[people/shin-tson-wu|Shin Tson Wu (吳詩聰博士)]]
-- [[people/shing-lung-tseng|Shing Lung Tseng (曾醒倫)]]
-- [[people/shirley-yu|Shirley Yu (張欣珠)]]
-- [[people/shitien-yang|Shitien Yang (楊錫鈿)]]
-- [[people/shiu-sian-angel-hsu-wang|Shiu-Sian Angel Hsu Wang (許秀香)]]
-- [[people/shiuan-chen|Shiuan Chen (陳瑄)]]
-- [[people/shiuho-lin|Shiuho Lin (林秀合)]]
-- [[people/shoei-sheng-chen|Shoei-Sheng Chen (陳水生)]]
-- [[people/show-ya-wang|Show-Ya Wang (邱綉雅)]]
-- [[people/shu-ching-cheng|Shu-ching Cheng (賴淑卿)]]
-- [[people/shu-hua-wai|Shu Hua Wai (韋黃淑華)]]
-- [[people/shu-lai|Shu Lai (賴淑遠)]]
-- [[people/shu-ting-yao|Shu-Ting Yao (姚舒婷博士)]]
-- [[people/shu-yuan-susan-tsay|Shu-Yuan Susan Tsay (蔡淑媛)]]
-- [[people/shuching-liao|Shuching Liao (廖郭淑卿)]]
-- [[people/shui-lian-fang|Shui-Lian Fang (方廖水蓮)]]
-- [[people/shuin-lin-yang|Shuin-Lin Yang (楊勳琳)]]
-- [[people/shun-dar-lin|Shun Dar Lin (林舜達)]]
-- [[people/shun-hua-yu|Shun Hua Yu (余舜華)]]
-- [[people/shuo-hui-sophie-hung|Shuo-Hui Sophie Hung (洪碩徽)]]
-- [[people/shwu-lih-lin|Shwu Lih Lin (林淑麗)]]
-- [[people/si-fei-cheng|Si-Fei Cheng (鄭希暉)]]
-- [[people/si-zhi-chen|Si Zhi Chen (陳泗治)]]
-- [[people/sibyl-chen|Sibyl Chen (陳世樸)]]
-- [[people/sien-mo-lin|Sien-Mo Lin (林顯模)]]
-- [[people/sim-ti-lim|Sim Ti Lim (林心智博士)]]
-- [[people/simon-c-kuo|Simon C. Kuo (郭朝元博士)]]
-- [[people/simon-cheng|Simon Cheng (鄭良光)]]
-- [[people/simon-lin|Simon Lin (林榮松)]]
-- [[people/simon-shiao|Simon Shiao (蕭世杰)]]
-- [[people/sin-i-hsiao|Sin-I Hsiao (蕭欣義)]]
-- [[people/sin-yang-lin|Sin-Yang Lin (林欣陽)]]
-- [[people/sing-nan-wang|Sing-Nan Wang (王幸男)]]
-- [[people/sonia-lee|Sonia Lee (王淑女)]]
-- [[people/sonny-hsu|Sonny Hsu (徐嵩宜)]]
-- [[people/sophia-yen|Sophia Yen]]
-- [[people/spencer-chen|Spencer Chen]]
-- [[people/ssu-yu-huang|Ssu-Yu Huang (黃思瑜)]]
-- [[people/stanley-hsiao|Stanley Hsiao (蕭東賢)]]
-- [[people/stanley-sun|Stanley Sun (孫獻祥)]]
-- [[people/stella-chen|Stella Chen (陳婉真)]]
-- [[people/stella-landauer|Stella Landauer (陳翠玉)]]
-- [[people/stephanie-chang|Stephanie Chang (張理)]]
-- [[people/stephanie-chuang|Stephanie Chuang]]
-- [[people/stephanie-syd-yang|Stephanie Syd Yang]]
-- [[people/stephanie-wan-hsiu-lan|Stephanie Wan-Hsiu Lan (藍婉修)]]
-- [[people/stephen-lin|Stephen Lin (林俊提)]]
-- [[people/stephen-s-chu|Stephen S. Chu (朱石象)]]
-- [[people/steve-wei|Steve Wei (魏十洲)]]
-- [[people/steven-chien|Steven Chien (簡鳳孚)]]
-- [[people/steven-chou|Steven Chou (周清耀)]]
-- [[people/steven-fan|Steven Fan (范盛裕)]]
-- [[people/steven-j-hsu|Steven J. Hsu (許中人醫師)]]
-- [[people/steven-lin|Steven Lin (林易)]]
-- [[people/steven-shih-chen|Steven Shih Chen (陳士駿)]]
-- [[people/steven-wu|Steven Wu (吳尚誠)]]
-- [[people/strong-chuang|Strong Chuang (莊秋雄)]]
-- [[people/stuart-chen|Stuart Chen (陳照雄)]]
-- [[people/su-chun-huai|Su Chun-huai (蘇春槐)]]
-- [[people/su-hsun-sue-hsiao|Su-Hsun Sue Hsiao (蕭素薰)]]
-- [[people/sue-chen|Sue Chen (陳禹辛)]]
-- [[people/sue-chiu|Sue Chiu (黃雪香)]]
-- [[people/sue-jane-lin|Sue-Jane Lin (林素貞)]]
-- [[people/sueann-shiah|SueAnn Shiah (夏叔安)]]
-- [[people/suhua-low|Suhua Low (陳素華)]]
-- [[people/suing-wang|Suing Wang (王淑英)]]
-- [[people/sung-peng-hsu|Sung-Peng Hsu (徐頌鵬博士)]]
-- [[people/sunu-tsai|Sunu Tsai (蔡淑女)]]
-- [[people/susan-chou|Susan Chou (周淑慧牧師)]]
-- [[people/susan-chuang|Susan Chuang (莊士晟)]]
-- [[people/susan-shu-ai-tsai|Susan Shu-Ai Tsai (蔡淑愛)]]
-- [[people/susan-suying-lee|Susan Suying Lee (李淑英)]]
-- [[people/susan-y-j-chang|Susan Y. J. Chang (程韻如)]]
-- [[people/swing-chuang|Swing Chuang (莊宗勳)]]
-- [[people/syaru-shirley-lin|Syaru Shirley Lin (林夏如)]]
-- [[people/symeon-woo|Symeon Woo (吳西面)]]
-- [[people/szu-ning-tai|Szu-Ning Tai (戴思寧)]]
-- [[people/szu-ying-huang|Szu-Ying Huang (黃思穎)]]
-- [[people/san-francisco-theological-seminary|San Francisco Theological Seminary]]
+- [J. C. Chen (陳進財)](./j-c-chen)
+- [J. C. Hong (洪濬正)](./j-c-hong)
+- [J. C. Lai (賴景宗)](./j-c-lai)
+- [J. C. Lin (林震泉)](./j-c-lin)
+- [J. C. Lu (盧健治)](./j-c-lu)
+- [J. E. Wu (吳榮二)](./j-e-wu)
+- [J. H. Justina Shieh (謝節惠)](./j-h-justina-shieh)
+- [J. H. Liang (梁見後)](./j-h-liang)
+- [J. M. Chiang (江榮茂)](./j-m-chiang)
+- [J. M. Ding (丁紀明)](./j-m-ding)
+- [J. P. Lee (李金波)](./j-p-lee)
+- [J. S. Chien (簡忠松)](./j-s-chien)
+- [J. S. Chung (鍾俊賢)](./j-s-chung)
+- [J. S. Liu (劉佳欣)](./j-s-liu)
+- [J. W. Huang Lee (李黃貞文)](./j-w-huang-lee)
+- [J. Y. Jackson Ko (柯哲洋)](./j-y-jackson-ko)
+- [J. Y. Lin (林哲也)](./j-y-lin)
+- [J. Y. Tsai (蔡金裕)](./j-y-tsai)
+- [J. Z. Lee (李錦容)](./j-z-lee)
+- [Ja Hsieh (謝家豪博士)](./ja-hsieh)
+- [Jack Chen](./jack-chen)
+- [Jack J. Chen (陳宏傑)](./jack-j-chen)
+- [Jack J. Jou (周哲伍)](./jack-j-jou)
+- [Jack W. Su (蘇文杰)](./jack-w-su)
+- [Jackson Kuo (郭敏俊)](./jackson-kuo)
+- [Jacob Lu (盧能榮)](./jacob-lu)
+- [Jacqueline Whang-Peng (彭汪嘉康)](./jacqueline-whang-peng)
+- [Jacy Chen (陳彩雲博士)](./jacy-chen)
+- [James Cheng (鄭乃榮)](./james-cheng)
+- [James Chin-Chun Su (蘇金春)](./james-chin-chun-su)
+- [James David King (王振明)](./james-david-king)
+- [James Ger (葛原隆醫師)](./james-ger)
+- [James Hu (胡宏仁)](./james-hu)
+- [James J. Y Hsu (許正餘博士)](./james-j-y-hsu)
+- [James Jean](./james-jean)
+- [James Laidlaw Maxwell (馬雅各)](./james-laidlaw-maxwell)
+- [James Liang (梁政吉)](./james-liang)
+- [James Yang (楊明仁)](./yang-ming-ren)
+- [James Yang (楊榮勝)](./james-yang)
+- [Jamy R.M. Liu (尤瑞美)](./jamy-r-m-liu)
+- [Jan-Yung Lin (林政原博士)](./jan-yung-lin)
+- [Jane Lin (許淑貞)](./jane-lin)
+- [Jane Marie Chen](./jane-marie-chen)
+- [Janet Allen (安美莉)](./janet-allen)
+- [Janet Hsieh (謝怡芬)](./janet-hsieh)
+- [Janet Lee (李慧芝)](./janet-lee)
+- [Jang Jang Yang Lee (李楊娟娟)](./jang-jang-yang-lee)
+- [Jang-Yen Wu (吳政彥)](./jang-yen-wu)
+- [Janice Ger (吳瑩瑛)](./janice-ger)
+- [Janice Wong (王正怡)](./janice-wong)
+- [Jannet Jah (李俊玲)](./jannet-jah)
+- [Jasmin Lin (林允白)](./jasmin-lin)
+- [Jason Chang (張哲雄)](./jason-chang)
+- [Jason Chung (莊建雄)](./jason-chung)
+- [Jason Huang (黃仁宗)](./jason-huang)
+- [Jason Jung (莊吉生)](./jason-jung)
+- [Jason Su (蘇子榮)](./jason-su)
+- [Jason Tsai (蔡智行)](./jason-tsai)
+- [Jason Wu (吳季剛)](./jason-wu)
+- [Jason Yang (楊憶軍)](./jason-yang)
+- [Jate H. Pan (潘暉暋)](./jate-h-pan)
+- [Jau-Ching Lai (賴昭晴)](./jau-ching-lai)
+- [Jaw Sy Chen (陳昭司)](./jaw-sy-chen)
+- [Jawshing Arthur Liou (劉肇興)](./jawshing-arthur-liou)
+- [Jay Chen (陳介飛)](./jay-chen)
+- [Jean Cheng (鄭如珍)](./jean-cheng)
+- [Jean J. Fang (黃靜枝)](./jean-j-fang)
+- [Jecoliah Wang (王欣慈)](./jecoliah-wang)
+- [Jeff Hou (侯志仁博士)](./jeff-hou)
+- [Jeff Yang (楊致和)](./jeff-yang)
+- [Jeffrey L. Chen (陳大立)](./jeffrey-l-chen)
+- [Jeffrey Lee (李友禮)](./jeffrey-lee)
+- [Jeffrey Liang (梁兆豐博士)](./jeffrey-liang)
+- [Jeffrey Tsung (鄭瑞雄醫師)](./jeffrey-tsung)
+- [Jen Chan (詹純甄)](./jen-chan)
+- [JEN HSIN LIN (林人信)](./jen-hsin-lin)
+- [Jen Kao (高嘉旎)](./jen-kao)
+- [Jen Sheen (沈正韻)](./jen-sheen)
+- [Jen Shyu (徐雁秋)](./jen-shyu)
+- [Jen-Hao Lee (李仁豪牧師)](./jen-hao-lee)
+- [Jen-Jong Lai (賴振榮)](./jen-jong-lai)
+- [Jennie Wang (林靜娥)](./jennie-wang)
+- [Jennifer Chen](./jennifer-chen)
+- [Jennifer Fan (方碧霞)](./jennifer-fan)
+- [Jennifer Hung (洪錦鈺)](./jennifer-hung)
+- [Jennifer J. Chow (周展儀)](./jennifer-j-chow)
+- [Jennifer Rorie Cheng](./jennifer-rorie-cheng)
+- [Jenntyng Chern (陳振庭)](./jenntyng-chern)
+- [Jenny Chiu (邱正鵑)](./jenny-chiu)
+- [Jenny Lin (林佳靜)](./jenny-lin)
+- [Jenny M. Lin Chang (張美華)](./jenny-m-lin-chang)
+- [Jenny Wang (王采羿一)](./jenny-wang)
+- [Jenny Y Yang (楊又芳)](./jenny-y-yang)
+- [Jensen Huang (黃仁勳)](./jensen-huang)
+- [Jensin W. Sommer (翁正欣)](./jensin-w-sommer)
+- [Jer-Shung Lin (林衡哲本名林哲雄)](./jer-shung-lin)
+- [Jeremy Lin (林書豪)](./jeremy-lin)
+- [Jerry Huang (黃金利)](./jerry-huang)
+- [Jerry Jan (詹春孟博士)](./jerry-jan)
+- [Jerry Jean (簡子翕)](./jerry-jean)
+- [Jesse Shiah](./jesse-shiah)
+- [Jessica Chen (陳英惠)](./jessica-chen)
+- [Jessie Chang (張晶晶)](./jessie-chang)
+- [Jessie Lee (李潔晞)](./jessie-lee)
+- [Jia-Ru Li (李佳儒)](./jia-ru-li)
+- [Jiang Bai-xian (江百顯)](./jiang-bai-xian)
+- [Jiann-Tsyh Ken Lin (林健次博士)](./jiann-tsyh-ken-lin)
+- [Jien-Hua Charles Chuang (莊峻華)](./jien-hua-charles-chuang)
+- [Jim T. R. Chen (鄭昭任)](./jim-t-r-chen)
+- [Jim Young (楊正義)](./jim-young)
+- [Jimenez Lai (賴彥吉)](./jimenez-lai)
+- [Jimmy Li (李正明)](./jimmy-li)
+- [Jin-Chyuan Yu (游銘泉)](./jin-chyuan-yu)
+- [Jin-Sheng Jian (簡金生)](./jin-sheng-jian)
+- [JING-WEN YANG (楊景文)](./jing-wen-yang)
+- [Jinwun Winston Lue (呂錦文)](./jinwun-winston-lue)
+- [Jiunn-yann Gene Tang (湯俊彥博士)](./jiunn-yann-genetang)
+- [Joanna Chen Cham (陳怡玲)](./joanna-chen-cham)
+- [Joanna Yan (石正暖)](./joanna-yan)
+- [Joanne Chang (張瓊文)](./joanne-chang)
+- [Joe Chou (周景聲)](./joe-chou)
+- [Joe Hu (胡永全)](./joe-hu)
+- [Joel Fan (范景德)](./joel-fan)
+- [Joey Chang (張亦喬)](./joey-chang)
+- [John Chang (張景祥牧師)](./john-chang)
+- [John Chen (陳榮儒)](./john-chen)
+- [John Chiang (江俊輝)](./john-chiang)
+- [John Chin-Jung Cheng (鄭錦榮牧師)](./john-chin-jung-cheng)
+- [John Chun Liu (劉醇逸)](./john-chun-liu)
+- [John Enger Cheng (鄭榮得)](./john-enger-cheng)
+- [John Fan (樊立勳博士)](./john-fan)
+- [John Hsieh (謝鎮寬)](./john-hsieh)
+- [John J. Tkacik (譚慎格)](./john-j-tkacik)
+- [John J.Y. Huang (黃仲義)](./john-j-y-huang)
+- [John Lin (林榮勳)](./john-lin)
+- [John Liu (劉宗憲)](./john-liu)
+- [John M. Yeh (葉明翰牧師)](./john-m-yeh)
+- [John Pang Yu (余金榜)](./john-pang-yu)
+- [John Shiau](./john-shiau)
+- [John Wuo (鄂志超)](./john-wuo)
+- [John Y. Chieu](./john-y-chieu)
+- [John Yang (楊錦忠)](./john-yang)
+- [John Yu (游正博博士)](./john-yu)
+- [Joker L. Jenkins (簡傑克)](./joker-l-jenkins)
+- [Jolan Hsieh (謝若蘭)](./jolan-hsieh)
+- [Joli Wu (吳昭麗)](./joli-wu)
+- [Jolie Chenn (陳芃佑)](./jolie-chenn)
+- [Jolie Lin (林姝秀)](./jolie-lin)
+- [Jonathan H. Wu (吳顯明)](./jonathan-h-wu)
+- [Jonathan Lee](./jonathan-lee)
+- [Jonathan Tsay (蔡宇明)](./jonathan-tsay)
+- [Jonathan Yu (余裕義)](./jonathan-yu)
+- [Jong L. Chen (陳榮良醫師)](./jong-l-chen)
+- [Jong-Tseng Yen PhD (顏榮增博士)](./jong-tseng-yen-phd)
+- [Joseph Chang (張玉明牧師)](./joseph-chang)
+- [Joseph Chow (周秋霖教授)](./joseph-chow)
+- [Joseph H. Chen (陳河田教授)](./joseph-h-chen)
+- [Joseph Hong (洪茂澤)](./joseph-hong)
+- [Joseph Huang (黃春輝)](./joseph-huang)
+- [Joseph Lin (林以信)](./joseph-lin)
+- [Joseph Teng (曾英銘)](./joseph-teng)
+- [Joseph Y.T. Hung](./joseph-y-t-hung)
+- [Joseph Yang (楊澤修博士)](./joseph-yang)
+- [Josephine Lu (沈雲冰)](./josephine-lu)
+- [Josephine Pan (潘掬慧)](./josephine-pan)
+- [Joshepine Chuang (莊靜怡)](./joshepine-chuang)
+- [Joshua C. Chang (張嘉熙)](./joshua-c-chang)
+- [Joy Chi Wang (王琦)](./joy-chi-wang)
+- [Joyce Hwang](./joyce-hwang)
+- [Joyce Lin (林才欣)](./joyce-lin)
+- [Joyce Weng (黃娟)](./joyce-weng)
+- [Joyce Yeh (葉怡蘭)](./joyce-yeh)
+- [Ju Cheng Lee (李汝成)](./ju-cheng-lee)
+- [Ju-Ying Song (宋如音)](./ju-ying-song)
+- [Judith Sullivan (林秀華)](./judith-sullivan)
+- [Judy Ching Fang Wu (吳青芳)](./judy-ching-fang-wu)
+- [Judy Hsin-Chen Tsai (蔡幸珍)](./judy-hsin-chen-tsai)
+- [Judy Huang (陳東蘭)](./judy-huang)
+- [Judy Jeng (洪秀芬)](./judy-jeng)
+- [JUDY KANG (康瑋倫)](./judy-kang)
+- [Judy Lin Linton (林奐均)](./judy-lin-linton)
+- [Judy Wang (王瑞婉)](./judy-wang)
+- [Juey H. Lai (賴瑞宏博士)](./juey-h-lai)
+- [Jui-Wen Ginger Chen](./jui-wen-ginger-chen)
+- [Julan Jau (趙珠蘭)](./julan-jau)
+- [Julia Chenzu Tsai (蔡茜如)](./julia-chenzu-tsai)
+- [Julia Huang (黃馨儀)](./julia-huang)
+- [Julia Tai (戴宇音)](./julia-tai)
+- [Juliar Wang (謝綉緞)](./juliar-wang)
+- [Julie Chen (許春惠)](./julie-chen)
+- [Julie Kuo (郭瑞筠)](./julie-kuo)
+- [Julie Su Young (蘇秋莉)](./julie-su-young)
+- [Julie Wong (翁致理)](./julie-wong)
+- [Julie Wu (吳茗秀醫師)](./julie-wu)
+- [Julin Tang (湯竹林)](./julin-tang)
+- [Julius Shu 05 (許清煌)](./julius-shu-05)
+- [Jun-Ching Lin](./jun-ching-lin)
+- [June Lin (林倢)](./june-lin)
+- [June Wang (王純純)](./june-wang)
+- [Jung Lin (林容光)](./jung-lin)
+- [Justin Lai (賴正雄)](./justin-lai)
+- [Justin Lin (林詣彬)](./justin-lin)
+- [Justine Ker](./justine-ker)
+- [Jyh-Fa Kuo (郭智化)](./jyh-fa-kuo)
 
+### K {#k}
 
+- [K. C. Du (杜國清)](./k-c-du)
+- [K. C. Liao (廖國仲)](./k-c-liao)
+- [K. D. Wang (王康德)](./k-d-wang)
+- [K. J. Ray Liu (劉國瑞)](./k-j-ray-liu)
+- [K. K. Chen (陳國坤)](./k-k-chen)
+- [K. L. Hong (洪桂林博士)](./k-l-hong)
+- [K. L. Hung (洪基隆博士)](./k-l-hung)
+- [K. S. Chao (趙坤山)](./k-s-chao)
+- [K. S. Lin (林高山)](./k-s-lin)
+- [K. T. Wu (吳告祖)](./k-t-wu)
+- [K.H. Huang (黃國雄)](./k-h-huang)
+- [Kai Wu (吳開智)](./kai-wu)
+- [Kai-Chin Chan (詹凱臣)](./kai-chin-chan)
+- [Kai-Ching Chang (張凱晶博士)](./kai-ching-chang)
+- [Kai-Li Cheng (鄭凱莉博士)](./kai-li-cheng)
+- [Kailin Gow (梁凱琳)](./kailin-gow)
+- [Kaiyin Huang (黃凱盈)](./kaiyin-huang)
+- [Kang-Lu Wang (王康陸博士)](./kang-lu-wang)
+- [Kao San Lan (高山嵐)](./kao-san-lan)
+- [Kaofang Yeh (葉高芳博士)](./kaofang-yeh)
+- [Karen Chen (陳楷雯)](./karen-chen)
+- [Karen Chia-Ling Ho (何佳陵)](./karen-chia-ling-ho)
+- [Karen Chiang](./karen-chiang)
+- [Karen I. Chang Wu (張音音律師)](./karen-i-chang-wu)
+- [Karen Lin (林璇雯)](./karen-lin)
+- [Karen Shee (施卿柔)](./karen-shee)
+- [Kathay Rai](./kathay-rai)
+- [Katherine Huang (黃愷怡)](./katherine-huang)
+- [Katherine Jui Chang (張瑞佩)](./katherine-jui-chang)
+- [Katherine Tai (戴琪)](./katherine-tai)
+- [Katy Tang (湯凱蒂)](./katy-tang)
+- [Ke Chia Chen (陳可嘉)](./ke-chia-chen)
+- [Kelly Lin (林雨潔博士)](./kelly-lin)
+- [Kelvin Yu (游朝敏)](./kelvin-yu)
+- [KEN CHEN](./ken-chen)
+- [Ken Lee (李彥禎)](./ken-lee)
+- [Ken Wu (吳兆峯)](./ken-wu)
+- [Keng Chi Wu (吳耿志)](./keng-chi-wu)
+- [Keng S. Liang (梁耕三)](./keng-s-liang)
+- [Keng-Wei William Kuo (郭耿維)](./keng-wei-william-kuo)
+- [Keng-Yuen Tseng (曾耿元)](./keng-yuen-tseng)
+- [Kenji C. Liu](./kenji-c-liu)
+- [Kenneth C. Liao](./kenneth-c-liao)
+- [Kenneth Chang (張學賢)](./kenneth-chang)
+- [Kenneth Fu](./kenneth-fu)
+- [Kenneth J. Kao (高永仁)](./kenneth-j-kao)
+- [Kenneth Ko (柯吉文)](./kenneth-ko)
+- [Kenneth Kuo (郭虔哲)](./kenneth-kuo)
+- [Kenneth Liu (劉光道)](./kenneth-liu)
+- [Kenneth N. Lee (李乃恭)](./kenneth-n-lee)
+- [Kenneth P. Chen (陳秉虔博士)](./kenneth-p-chen)
+- [Kenneth W. Hsu (許根旺)](./kenneth-w-hsu)
+- [Kenneth Wang (王克雄博士)](./kenneth-wang)
+- [Kenny Leu (呂蔡嶸)](./kenny-leu)
+- [Kerina Chang (張庭瑄)](./kerina-chang)
+- [Kevin Lee](./kevin-lee)
+- [Kevin Lin (林士斌)](./kevin-lin)
+- [Kevin Shue (許愷洋)](./kevin-shue)
+- [Kevin Wu (吳凱文)](./kevin-wu)
+- [Khe-Beng Chiong (鍾啟明)](./khe-beng-chiong)
+- [Kico Lin (林貴香)](./kico-lin)
+- [Kim Lai Huang (黃金來)](./kim-lai-huang)
+- [Kim Wang-Neal (王劭文律師)](./kim-wang-neal)
+- [Kin Ko (柯金寅)](./kin-ko)
+- [Kjell N. Lindgren (林其兒)](./kjell-n-lindgren)
+- [Ko Wen-je / Ke Wen-ze (柯文哲)](./ke-wenze)
+- [Kocheng Kent Liu (劉格正)](./kocheng-kent-liu)
+- [Komi Chen (郭香美)](./komi-chen)
+- [Kris Hsu (徐謙讓)](./kris-hsu)
+- [Kuan Cheng Lu (盧冠呈)](./kuan-cheng-lu)
+- [Kuan Jen-chien / 管仁健](./guan-renjian)
+- [Kuei-I Wu (伍癸怡)](./kuei-i-wu)
+- [Kuei-Ling Chen (陳桂鈴)](./kuei-ling-chen)
+- [Kun-wang Chao (邵坤旺)](./kun-wang-chao)
+- [Kuo Chang Chen (陳國昌)](./kuo-chang-chen)
+- [Kuo-Ching Su (蘇國慶)](./kuo-ching-su)
+- [Kuo-Hsiung Lee (李國雄教授)](./kuo-hsiung-lee)
+- [Kwei-Yang Ben Chang (張貴洋)](./kwei-yang-ben-chang)
 
+### L {#l}
 
+- [L. B. Chou (周聯彬醫師)](./l-b-chou)
+- [L. C. Chen (陳麗村)](./l-c-chen)
+- [L. F. Tang (唐麗芳)](./l-f-tang)
+- [L. H. Chen (陳隆旭)](./l-h-chen)
+- [L. J. Chen (陳柳江)](./l-j-chen)
+- [L. J. Ho (何麗珍)](./l-j-ho)
+- [L. M. Chen (陳麗美)](./l-m-chen)
+- [L. N. Chang (張麗娜)](./l-n-chang)
+- [L. W. Cheng (鄭良偉)](./l-w-cheng)
+- [Lai Ching-te (賴清德)](./lai-ching-te)
+- [Lanhee J. Chen (陳仁宜)](./lanhee-j-chen)
+- [Larry Hsu (許中強)](./larry-hsu)
+- [Larry Jang (鄭龍光)](./larry-jang)
+- [Laura G. Ling (凌志美)](./laura-g-ling)
+- [Laura Huang (黃月桂)](./laura-huang)
+- [Lekki Chua (蔡烈輝)](./lekki-chua)
+- [Leland Lee (李柏毅)](./leland-lee)
+- [Leon Chang (張村樑)](./leon-chang)
+- [Leona Chen (陳文羿)](./leona-chen)
+- [Leonard Hsu Jr. (許景鴻)](./leonard-hsu-jr)
+- [Leroy Chiao (焦立中)](./leroy-chiao)
+- [Leslie Ho (何炳宏)](./leslie-ho)
+- [Li Fu-Jen (李輔仁)](./li-furen)
+- [Li Gui Chen (陳麗貴)](./li-gui-chen)
+- [Li Hsiao-feng / 李筱峰](./li-xiaofeng)
+- [Li Jian (李堅)](./li-jian)
+- [Li-Chan Chen-Maxham (陳麗嬋)](./li-chan-chen-maxham)
+- [Li-Lin Cheng (鄭麗伶)](./li-lin-cheng)
+- [Li-Shan Chang (張力山)](./li-shan-chang)
+- [Li-Shan Hung (洪儷珊)](./li-shan-hung)
+- [Li-Shun Lu (呂理順)](./li-shun-lu)
+- [Li-Ying Chang (張理盈)](./li-ying-chang)
+- [Li-Ying Shang (商麗鶯)](./li-ying-shang)
+- [Lian Huo Wu (吳連火)](./lian-huo-wu)
+- [Liang Chuan Peng (彭兩泉)](./liang-chuan-peng)
+- [Liang-Ping How](./liang-ping-how)
+- [Liang-Shing Fan (范良信)](./liang-shing-fan)
+- [Liao Jichun (廖繼春)](./liao-ji-chun)
+- [Liao Qing-shan (廖清山)](./liao-qingshan)
+- [Liao Shu-zong (廖述宗)](./liao-shu-zong)
+- [Lily Chen (陳佳俐)](./lily-chen)
+- [Lily Chiang (姜萊莉)](./lily-chiang)
+- [Lily Li-Jan Lin (林麗貞)](./lily-li-jan-lin)
+- [Lin Bao-hua (林保華)](./lin-baohua)
+- [Lin Chang-Chien Chu (林張簡菊)](./lin-chang-chien-chu)
+- [Lin Chao-chi (林朝棨)](./lin-chao-chi)
+- [Lin Chao-quan (林朝權)](./lin-chao-quan)
+- [Lin Chia-lung / Lin Jia-long (林佳龍)](./lin-jialong)
+- [Lin Fu-kun (林福坤)](./lin-fu-kun)
+- [Lin Jung-sung / 林榮松](./lin-rongsong)
+- [Lin Qiong-xian (林瓊仙)](./lin-qiong-xian)
+- [Lin Yuan-qing (林元清)](./lin-yuan-ching)
+- [Lina Huang (張廖莉娜)](./lina-huang)
+- [Linda Chen (陳映妤)](./linda-chen)
+- [Linda Gail Arrigo (艾琳達)](./linda-gail-arrigo)
+- [Linda Liu (劉玲華)](./linda-liu)
+- [Linda Wang (王琳琦)](./linda-wang)
+- [Linda Yi-Fang Yau (劉義芳)](./lindayi-fang-yau)
+- [Lindsay Yang (楊瑩瓊)](./lindsay-yang)
+- [Ling Ling Chang (張玲玲)](./ling-ling-chang)
+- [Ling-Yeng Young (陳玲瑛)](./ling-yeng-young)
+- [Lirong Wang (黃麗蓉)](./lirong-wang)
+- [Lisa C. Williamson (李貞瑩)](./lisa-c-williamson)
+- [Lisa Hou (侯乃文)](./lisa-hou)
+- [Lisa J. Ling (凌志慧)](./lisa-j-ling)
+- [Lisa Liu (劉雅薇)](./lisa-liu)
+- [Lisa Peng (彭郁靜)](./lisa-peng)
+- [Lisa S. Lin Ying (印林秀玲)](./lisa-s-lin-ying)
+- [Lisa T. Su (蘇姿丰)](./lisa-su)
+- [Lisa Wang](./lisa-wang)
+- [Liu-Hsiung Chuang (莊六雄博士)](./liu-hsiung-chuang)
+- [Li–Fa Xie (謝里法)](./li-fa-xie)
+- [Long Lee (李隆吉)](./long-lee)
+- [Lorenzo Chun-Han Chang (張淳菡)](./lorenzo-chun-han-chang)
+- [Loring Wuliang Tu (杜武亮)](./loring-wuliang-tu)
+- [Lovell Park Chang (張若葳)](./lovell-park-chang)
+- [Lu-Hsuan Lucy Chen (陳綠萱)](./lu-hsuan-lucy-chen)
+- [Lucas Chen (陳薰洋)](./lucas-chen)
+- [Lucy Yang (楊淑詠)](./lucy-yang)
+- [Lulu Meng (孟祥璐)](./lulu-meng)
+- [Lung Chen (陳隆)](./lung-chen)
+- [Lung-Wen Tsai (蔡隆文博士)](./lung-wen-tsai)
+- [Lynn Huang (黃令先)](./lynn-huang)
 
+### M {#m}
 
+- [M. C. Chen (陳玫琪)](./m-c-chen)
+- [M. C. Cheng Lee (李鄭美昭)](./m-c-cheng-lee)
+- [M. J. Wang (王明皆)](./m-j-wang)
+- [M. K. Lin (林明昆醫師)](./m-k-lin)
+- [M. K. Wei (魏妙圭)](./m-k-wei)
+- [M. L. Chen (陳夢蘭)](./m-l-chen)
+- [M. L. Tong (湯銘倫)](./m-l-tong)
+- [M. M. Hsieh (謝玫玫)](./m-m-hsieh)
+- [M. R. Tsai (蔡滿榮)](./m-r-tsai)
+- [M. Wang (陳美霞)](./m-wang)
+- [M. Y. Huang (黃美雲)](./m-y-huang)
+- [M. Y. Wu (吳美雲)](./m-y-wu)
+- [M.S. Chen (陳明憲)](./m-s-chen)
+- [M.S. Chi (紀敏雄博士)](./m-s-chi)
+- [M.S. Wu (吳銘賢博士)](./m-s-wu)
+- [Ma Ying-jeou (馬英九)](./ma-yingjeou)
+- [Maan-Huei Huang (黃滿惠)](./maan-huei-huang)
+- [Maggie Hsu](./maggie-hsu)
+- [Mao-ching David Huang (黃茂清)](./mao-ching-david-huang)
+- [MAO-CHUNG LEE (李茂宗)](./mao-chung-lee)
+- [Mao-Sheng Chen (陳茂生)](./mao-sheng-chen)
+- [Mao-Shiu Lin (林茂修)](./mao-shiu-lin)
+- [Marcy Leroy Ditmanson (戴德森醫師)](./marcy-leroy-ditmanson)
+- [Margaret Liu (林美華)](./margaret-liu)
+- [Margaretta Wan-Ling Lin](./margaretta-wan-ling-lin)
+- [Marian Miaw-ju Chen (陳林妙珠)](./marian-miaw-ju-chen)
+- [Marie Hsiao Mree](./marie-hsiao-mree)
+- [Marilyn Fu](./marilyn-fu)
+- [Marina Lin (林淨媺)](./marina-lin)
+- [Marina Lu (呂惠秋)](./marina-lu)
+- [Marion M Lee (李明瑱教授)](./marion-m-lee)
+- [Marisa Lin (陳麗雲)](./marisa-lin)
+- [Mark Jong (鍾茂萃)](./mark-jong)
+- [Mark Thelin (練馬可博士)](./mark-thelin)
+- [Marlene Tseng Yu (虞曾富美)](./marlene-tseng-yu)
+- [Marlon Chen (陳啟寬)](./marlon-chen)
+- [Martha Hsu (許秀聰)](./martha-hsu)
+- [Martha VanDriel (Martha S.H. VanDriel)](./martha-vandriel)
+- [Martha Wang (鄞美珠)](./martha-wang)
+- [Martin Tsai (蔡明峰)](./martin-tsai)
+- [Masa C. W. Chen (陳正旺)](./masa-c-w-chen)
+- [Masao S. Yu (游祥修醫師)](./masao-s-yu)
+- [Matthew Lin (林元清博士)](./matthew-lin)
+- [Matthew Tsai (蔡茂堂博士)](./matthew-tsai)
+- [Matthias C. H. Lu (盧志華)](./matthias-c-h-lu)
+- [Maurice Hsu (許盛男醫師)](./maurice-hsu)
+- [Mavis Hsieh (謝孟潔)](./mavis-hsieh)
+- [Maw Lin (林茂雄)](./maw-lin)
+- [Max C. Chiang (江建祥博士)](./max-c-chiang)
+- [May Fang (方美盈)](./may-fang)
+- [May-Sing Chang (黃美星)](./may-sing-chang)
+- [Maysing Huang (楊黃美幸)](./maysing-huang)
+- [Meeihuey Lin (林許美惠)](./meeihuey-lin)
+- [Mei Chiang Su (江美惠)](./mei-chiang-su)
+- [Mei Fun Tsai (吳美芬)](./mei-fun-tsai)
+- [Mei Liu (洪梅)](./mei-liu)
+- [Mei Lu (陳香梅)](./mei-lu)
+- [Mei Shing Wang (王美幸)](./mei-shing-wang)
+- [Mei-En Chou (周媺恩)](./mei-en-chou)
+- [Mei-Hua Huang (黃美華)](./mei-hua-huang)
+- [Mei-Li Chen (陳玫麗)](./mei-li-chen)
+- [Mei-Li Yang (楊美麗)](./mei-li-yang)
+- [Mei-Shi Chu (徐梅熙)](./mei-shi-chu)
+- [Mei-Ying Chen (陳美瑩)](./mei-ying-chen)
+- [Meifeng Tsai (王梅鳳)](./meifeng-tsai)
+- [Meiyin Wang (王美尹)](./meiyin-wang)
+- [Melanie Lee (李玫蘭)](./melanie-lee)
+- [Melinda Tang (陳方俐)](./melinda-tang)
+- [Melody Ko (柯頌恩)](./melody-ko)
+- [Melody Kuo (郭雋律)](./melody-kuo)
+- [Melvin Chen (陳意超)](./melvin-chen)
+- [Meng Chih Chiang (江孟芝)](./meng-chih-chiang)
+- [Meng-Chieh Liu (劉孟捷)](./meng-chieh-liu)
+- [Mian Mian Lu (陸慧綿)](./mian-mian-lu)
+- [Miaw Shang Su Lin (林蘇妙香)](./miaw-shang-su-lin)
+- [Michael C. Lu](./michael-c-lu)
+- [Michael Chong](./michael-chong)
+- [Michael Deng Fong Liau (廖登豐博士)](./michael-deng-fong-liau)
+- [Michael Fonte (彭光理)](./michael-fonte)
+- [Michael K. Yu (游貴森醫師)](./michael-k-yu)
+- [Michael Luo (羅明瀚)](./michael-luo)
+- [Michael S. K. Chen (陳希寬博士)](./michael-s-k-chen)
+- [Michael Yeh (葉明青)](./michael-yeh)
+- [Michele Cheng](./michele-cheng)
+- [Michelle Kuo (郭怡慧)](./michelle-kuo)
+- [Michelle Wu (吳彌)](./michelle-wu)
+- [Michellee Shaw Chen (陳美真理)](./michellee-shaw-chen)
+- [Mien Chien (簡勉)](./mien-chien)
+- [Mien-Chie Hung (洪明奇博士)](./mien-chie-hung)
+- [Mike Lee (李振生博士)](./mike-lee)
+- [Mike Lin (林健華博士)](./mike-lin)
+- [Milo Thornberry (唐培禮牧師)](./milo-thornberry)
+- [Milton M. Chen (程孟郎教授)](./milton-m-chen)
+- [Min Feng Hsin (辛明峰)](./min-feng-hsin)
+- [Min Ten Milton Lee (李明典)](./min-tenmilton-lee)
+- [Min-An Huang (黃民安)](./min-an-huang)
+- [Min-Chu Wang Chen (王陳明珠)](./min-chu-wang-chen)
+- [Min-Jen Chen (陳明真)](./min-jen-chen)
+- [Min-Kuei Yang (楊閔貴)](./min-kuei-yang)
+- [Min-Mei Chen (吳明美)](./min-mei-chen)
+- [Min-Shiu Lee (李敏修博士)](./min-shiu-lee)
+- [Min-Yen Chien (簡名彥)](./min-yen-chien)
+- [Ming Chang Wang (王敏昌)](./ming-chang-wang)
+- [Ming Chi Wang](./ming-chi-wang)
+- [Ming Franz (林明姝)](./ming-franz)
+- [Ming Hsin Chiang (江明信)](./ming-hsin-chiang)
+- [Ming Jer Kuo (郭明哲)](./ming-jer-kuo)
+- [Ming Ten Dan Tsai (蔡明殿)](./ming-ten-dan-tsai)
+- [Ming Tsuang (莊明哲教授)](./ming-tsuang)
+- [Ming-che Lin (林明哲)](./ming-che-lin)
+- [Ming-Hsiu Yen (顏名秀)](./ming-hsiu-yen)
+- [Ming-Liang Chi (溫明亮)](./ming-liang-chi)
+- [Ming-Shing Lee (李明星)](./ming-shing-lee)
+- [Ming-Yen Hsu (許明彥醫師)](./ming-yen-hsu)
+- [Mingkong Chen](./mingkong-chen)
+- [Minlu Chai (蔡銘祿)](./minlu-chai)
+- [Miriam Liu Wu (劉逸青)](./miriam-liu-wu)
+- [Mo Chao Tsai (蔡謀昭)](./mo-chao-tsai)
+- [Monica Hsu (徐麗芬)](./monica-hsu)
+- [Monica Su (蘇千芳)](./monica-su)
+- [Monty Wang (王興山)](./monty-wang)
+- [Morgan Chang (張富雄)](./morgan-chang)
+- [Morisan Lu (呂明森)](./morisan-lu)
+- [Mou-ChinLin (林茂清)](./mou-chinlin)
+- [Mynor King Wang (王華東博士)](./mynor-king-wang)
 
+### N {#n}
 
+- [Nai-Shin Chu (朱迺欣)](./nai-shin-chu)
+- [Nai-Yuan Hu (胡乃元)](./nai-yuan-hu)
+- [Nam Yeung (楊楠)](./nam-yeung)
+- [Nami Yang (李淑櫻)](./nami-yang)
+- [Nan-Cheng Chen (陳南呈)](./nan-cheng-chen)
+- [Nan-Jae Lin (林能傑)](./nan-jae-lin)
+- [Nancy Ho (何汪瑗教授)](./nancy-ho)
+- [Nancy Jan (詹雅惠)](./nancy-jan)
+- [Nancy Yang (陳玲銖)](./nancy-yang)
+- [Nanfang Shuo / 南方朔](./nanfang-shuo)
+- [Nat Bellocchi (白樂崎)](./nat-bellocchi)
+- [Nellie Gephardt Amondson ‧ (納莉)](./nellie-gephardt-amondson)
+- [Ni-Chi Chang (張倪綺)](./ni-chi-chang)
+- [Nicholas C. Huang (黄文郁)](./nicholas-c-huang)
+- [Nick Wu (吳仲輝)](./nick-wu)
+- [Nien-Tzu Kuo (郭念慈)](./nien-tzu-kuo)
+- [Nobu Lu (呂信也)](./nobu-lu)
+- [Norman Chen](./norman-chen)
 
+### O {#o}
 
-<h3 id="t">T</h3>
-- [[people/t-c-cheng|T. C. Cheng (鄭天佐)]]
-- [[people/t-h-ying|T. H. Ying (應天華)]]
-- [[people/t-k-lin|T. K. Lin (林宗光)]]
-- [[people/t-s-hsu|T. S. Hsu (許廷鑫)]]
-- [[people/t-t-dean-su|T. T. Dean Su (蘇藤宗博士)]]
-- [[people/t-y-ko|T. Y. Ko (柯翠園)]]
-- [[people/ta-fu-ho|Ta-Fu Ho (何達夫博士)]]
-- [[people/tai-lin|Tai Lin (林泰)]]
-- [[people/tai-yen-chen|Tai-Yen Chen]]
-- [[people/taichi-chen|Taichi Chen (陳太一)]]
-- [[people/tammy-chang|Tammy Chang]]
-- [[people/tang-peili|Tang Pei-li / 唐培理]]
-- [[people/tao-yu|Tao Yu (余道昌)]]
-- [[people/te-chiang-bacco-liu|Te-Chiang Bacco Liu (劉德強)]]
-- [[people/ted-anderson|Ted Anderson (泰德安德森)]]
-- [[people/ted-kuo|Ted Kuo (郭來哲博士)]]
-- [[people/ted-lau|Ted Lau (劉重義)]]
-- [[people/ted-lieu|Ted Lieu (劉雲平)]]
-- [[people/teh-yuan-ho|Teh Yuan Ho (何德淵博士)]]
-- [[people/teng-kuan-eric-huang|Teng-Kuan Eric Huang (黃勝寬)]]
-- [[people/teresa-dreyfuss|Teresa Dreyfuss]]
-- [[people/theodore-chuang|Theodore Chuang ．莊 (西奧多)]]
-- [[people/theodore-ted-wing|Theodore Ted Wing (溫庭宇)]]
-- [[people/theresa-l-chung|Theresa L. Chung (鍾林瑛娟)]]
-- [[people/thomas-barclay|Thomas Barclay (巴克禮)]]
-- [[people/thomas-c-t-chiu|Thomas C.T. Chiu (邱智正)]]
-- [[people/thomas-chen|Thomas Chen (陳秋貴)]]
-- [[people/thomas-liu|Thomas Liu (劉天良)]]
-- [[people/thomas-ming-chien-wu|Thomas Ming-Chien Wu (吳明杰)]]
-- [[people/thomas-shu|Thomas Shu (許正龍)]]
-- [[people/thomas-tzu-shen-lin|Thomas Tzu-Shen Lin (林資深博士)]]
-- [[people/tien-chen-lin|Tien-Chen Lin (林天成)]]
-- [[people/tiencheng-arthur-chang|Tiencheng Arthur Chang]]
-- [[people/tiffany-huang|Tiffany Huang (黃咏婷)]]
-- [[people/tiffany-ma|Tiffany Ma (馬翊庭)]]
-- [[people/tim-chng|Tim Chng (莊騰程)]]
-- [[people/tim-wu|Tim Wu (吳修銘)]]
-- [[people/timothy-s-wu|Timothy S. Wu (吳獻章博士)]]
-- [[people/tina-chang|Tina Chang (張丁蘭)]]
-- [[people/tina-chen|Tina Chen (吳富子)]]
-- [[people/tina-shao|Tina Shao (邵婷雯)]]
-- [[people/tina-shih|Tina Shih (施雅婷)]]
-- [[people/tina-su|Tina Su (蘇毓婷博士)]]
-- [[people/ting-an-lin|Ting-An Lin (林庭安)]]
-- [[people/ting-ing-lai-okajima|Ting-ing Lai Okajima (賴騰英)]]
-- [[people/ting-kuei-tsay|Ting-kuei Tsay (蔡丁貴教授)]]
-- [[people/ting-lan-ma|Ting-Lan Ma (馬鼎嵐)]]
-- [[people/ting-yee-wang|Ting Yee Wang (王廷宜)]]
-- [[people/tom-thomas-shih|Tom Thomas Shih (石聰賢)]]
-- [[people/tom-wangs|Tom Wang’s (王自立)]]
-- [[people/tom-yang|Tom Yang (楊東傑)]]
-- [[people/tong-liang-larry-chen|Tong-Liang Larry Chen (陳東亮)]]
-- [[people/tony-chen|Tony Chen (陳國洸)]]
-- [[people/tony-hsieh|Tony Hsieh (謝家華)]]
-- [[people/tony-lee|Tony Lee (李賢群)]]
-- [[people/tony-li-cheng-yeh|Tony. Li-Cheng Yeh (葉禮禎)]]
-- [[people/tony-tung-ying-huang|Tony Tung-Ying Huang (黃東瀛)]]
-- [[people/tonya-c-mezrich|Tonya C Mezrich (陳糖亞)]]
-- [[people/treya-lam|Treya Lam]]
-- [[people/tsai-ing-wen|Tsai Ing-wen (蔡英文)]]
-- [[people/tsaiyuan-terry-hsu|Tsaiyuan Terry Hsu (許財源)]]
-- [[people/tsan-hung-george-chang|Tsan-hung George Chang (張燦鍙教授)]]
-- [[people/tse-feng-chuang|Tse feng Chuang (莊澤豐)]]
-- [[people/tsong-yue-lai|Tsong-Yue Lai (賴聰域教授)]]
-- [[people/tsu-yi-jay-loo|Tsu-Yi Jay Loo (盧主義)]]
-- [[people/tsuann-kuo|Tsuann Kuo (郭慈安博士)]]
-- [[people/tsuey-tang-wang|Tsuey-Tang Wang (王萃堂)]]
-- [[people/tsung-ming-hsieh|Tsung Ming Hsieh (謝聰敏)]]
-- [[people/tun-hou-lee|Tun-Hou Lee (李敦厚)]]
-- [[people/tyzen-hsiao|Tyzen Hsiao (蕭泰然)]]
-- [[people/tzann-t-fang|Tzann T. Fang (方贊棠)]]
-- [[people/tze-jer-chuang|Tze-jer Chuang (莊子哲)]]
-- [[people/tze-ming-benson-chen|Tze-Ming Benson Chen]]
-- [[people/tzu-ling-sarana-chou|Tzu-Ling Sarana Chou (周子鈴)]]
-- [[people/tzu-wei-lin|Tzu-Wei Lin (林子偉)]]
-- [[people/tzu-yi-chen|Tzu-Yi Chen (陳孜怡)]]
-- [[people/tzutsai-cheng|Tzutsai Cheng (鄭自才)]]
-- [[people/tzuying-huang|Tzuying Huang (黃姿穎)]]
-- [[people/tzyy-choou-wu|Tzyy-Choou Wu (吳子丑)]]
-- [[people/zou-jingwen|Tsou Ching-wen / 鄒景雯]]
-- [[people/tahs-member-onboarding|TAHS member onboarding]]
+- [Olive WuJen Chen (吳箴)](./olive-wujen-chen)
+- [Oliver Chen (陳奧利佛)](./oliver-chen)
 
+### P {#p}
 
+- [P. D. Chen (陳培德)](./p-d-chen)
+- [P. F. Yu Name (喻鵬飛)](./p-f-yu-name)
+- [P. J. Mao (毛平吉博士)](./p-j-mao)
+- [P.K. Frank Hsu (徐博高醫師)](./p-k-frank-hsu)
+- [Pamela Hung (洪聚佐)](./pamela-hung)
+- [PARRIS HSU-CHENG CHANG (張旭成)](./parris-hsu-cheng-chang)
+- [Pastor Pingtung Lai (賴炳烔)](./pingtung-lai)
+- [Patricia Anne Tsung (曾毓安醫師)](./patricia-anne-tsung)
+- [Patricia J. Chen](./patricia-j-chen)
+- [Patrick Huang (黃再添)](./patrick-huang)
+- [Patrick P. Lin (林博智)](./patrick-p-lin)
+- [Patrick Wang (王沛智)](./patrick-wang)
+- [Patsy Fang Chen (方秀蓉)](./patsy-fang-chen)
+- [Paul B. Hshieh 六 (謝博六博士)](./paul-b-hshieh)
+- [Paul C. Tsai (蔡正驊)](./paul-c-tsai)
+- [Paul Chen (陳柏宇)](./paul-chen)
+- [Paul Hsu (徐紹欽)](./paul-hsu)
+- [Paul Huang (黃俊文)](./cpaul-huang)
+- [Paul Kuo (郭博修)](./paul-kuo)
+- [Paul Lin (林水波教授)](./paul-lin)
+- [Paul Lynn (林保山博士)](./paul-lynn)
+- [Paul Pai-Shih Lee (李百仕)](./paul-pai-shih-lee)
+- [Paul Porwen Hung (洪伯文)](./paul-porwen-hung)
+- [Pauline Choiu (邱曼怡)](./pauline-choiu)
+- [Pauline Hsiao Ye (蕭百忍)](./pauline-hsiao-ye)
+- [Pauline Huang (黃百齡)](./pauline-huang)
+- [Pauline Huey-Fen Hsu (徐彗芬)](./pauline-huey-fen-hsu)
+- [Pearl Pi-Chu Yang Wu (楊碧珠)](./pearl-pi-chu-yang-wu)
+- [Peggy Chen (張佩仙)](./peggy-chen)
+- [Peggy Cooley (邱碧玉)](./peggy-cooley)
+- [Peggy Huang (黃瑞雅)](./peggy-huang)
+- [Peggy Kuo (郭佩宇)](./peggy-kuo)
+- [Peggy Liao (廖碧玉)](./peggy-liao)
+- [Pei Lin (林伯修)](./pei-lin)
+- [Pei-Ju Wang (王培儒)](./pei-ju-wang)
+- [Pei-Ning Ku (顧蓓寧)](./pei-ning-ku)
+- [PEI-SHAN LEE (李蓓珊)](./pei-shan-lee)
+- [Peirong Lo (羅佩蓉)](./peirong-lo)
+- [Pen-Jen Lin (林本仁)](./pen-jen-lin)
+- [Peng Ming-min (彭明敏)](./peng-ming-min)
+- [Perry B. Shieh (謝泊怡)](./perry-b-shieh)
+- [Peter C. Y. Chow (周鉅原博士)](./peter-c-y-chow)
+- [Peter Chen (陳正義)](./peter-chen)
+- [Peter Chiu (邱勝宗)](./peter-chiu)
+- [Peter Deng (鄧培德)](./peter-deng)
+- [Peter Hsu (徐學猷)](./peter-hsu)
+- [Peter Kuo (郭博資)](./peter-kuo)
+- [Peter Lee (李文智)](./peter-lee)
+- [Peter Lin (林冠豪)](./peter-lin)
+- [Peter Lu (盧信義)](./peter-lu)
+- [Peter Su (蘇國雄)](./peter-su)
+- [Peter Wang (王武聰牧師)](./peter-wang)
+- [Peter Yang (楊秉彝)](./peter-yang)
+- [Philip Lin (林水泉)](./philip-lin)
+- [Philip S. Chen (陳伸夫)](./philip-s-chen)
+- [Philip Wu (吳庭和)](./philip-wu)
+- [Philip Yang (楊永慶牧師)](./philip-yang)
+- [Phoenix Ko (柯貝昀)](./phoenix-ko)
+- [Pi-Kwang Tsung (曾碧光)](./pi-kwang-tsung)
+- [Pi-Pai Wang (黃碧白)](./pi-pai-wang)
+- [Pin-Huey Wang (王品惠)](./pin-huey-wang)
+- [Pin-Shan Peter Chen (陳品山教授)](./pin-shan-peter-chen)
+- [Ping Wang (王秉訓)](./ping-wang)
+- [Po Hu (胡博文教授)](./po-hu)
+- [Po-Wei Lai (賴伯瑋)](./po-wei-lai)
+- [Polly Chang (何佩宜)](./polly-chang)
+- [Portia Wu](./portia-wu)
+- [Powen Wang (王博文)](./powen-wang)
+- [Priska Priscilla Liang](./priskapriscilla-liang)
+- [Prof. A-Lien Lu-Chang (呂阿戀教授)](./prof-a-lien-lu-chang)
+- [Prof. Abraham Lee (李伯晃教授)](./prof-abraham-lee)
+- [Prof. Albert B. Jeng (鄭博仁教授)](./prof-albert-b-jeng)
+- [Prof. Andre Lee (李延志教授)](./prof-andre-lee)
+- [Prof. Andy Tsay (蔡安達教授)](./prof-andy-tsay)
+- [Prof. Anthony T. Tu (杜祖健教授)](./anthony-t-tu)
+- [Prof. Bay-Mao Bill Wu (吳倍茂教授)](./prof-bay-mao-bill-wu)
+- [Prof. Ben Liu (劉斌碩教授)](./prof-ben-liu)
+- [Prof. Bernard Travis Lee (李伯寧教授)](./prof-bernard-travis-lee)
+- [Prof. Bor Jang Chang (張博增教授)](./prof-bor-jang-chang)
+- [Prof. C.-T. James Huang (黃正德教授)](./prof-c-t-james-huang)
+- [Prof. Carol Ou (歐逸青教授)](./prof-carol-ou)
+- [Prof. Chang-Jang Hsieh (謝常彰教授)](./prof-chang-jang-hsieh)
+- [Prof. Chao Yuan Huang (黃昭淵教授)](./prof-chao-yuan-huang)
+- [Prof. Chawnshang Chang (張傳祥教授)](./prof-chawnshang-chang)
+- [Prof. Chen S. Tsai (蔡振水教授)](./prof-chen-s-tsai)
+- [Prof. Chen-Chong Lin (林建中教授)](./prof-chen-chong-lin)
+- [Prof. Cheng-Few Lee (李正福教授)](./prof-cheng-few-lee)
+- [Prof. Chi-Tien Chang (張啟典教授)](./chi-tien-chang)
+- [Prof. Chi-Tsong Chen (陳啓宗教授)](./prof-chi-tsong-chen)
+- [Prof. Chia-Yi Tseng (曾加宜教授)](./chia-yi-tseng)
+- [Prof. Chien-Fu Jeff Wu (吳建福教授)](./prof-chien-fu-jeff-wu)
+- [Prof. Chien-Te Chen (陳建德教授)](./prof-chien-te-chen)
+- [Prof. Chih-Chung Yang (楊志忠教授)](./prof-chih-chung-yang)
+- [Prof. Chih-Hao Lucas Chang (張志豪教授)](./prof-chih-hao-lucas-chang)
+- [Prof. Chih-Ping Yeh (葉治平教授)](./prof-chih-ping-yeh)
+- [Prof. Chimei M. Lee (李綺梅教授)](./prof-chimei-m-lee)
+- [Prof. Chin C. Lee (李金忠教授)](./prof-chin-c-lee)
+- [Prof. Chin-An Li (李勤岸教授)](./prof-chin-an-li)
+- [Prof. Chin-Chu Lin M.D. (林靜竹教授)](./prof-chin-chu-lin-m-d)
+- [Prof. Chin-Hsien Jim Wang (王進賢教授)](./prof-chin-hsien-jim-wang)
+- [Prof. Chin-Pao Huang (黃金寶教授)](./prof-chin-pao-huang)
+- [Prof. Chin-Teh Sun (孫錦德教授)](./prof-chin-teh-sun)
+- [Prof. Ching-Shui Cheng (鄭清水教授)](./ching-shui-cheng)
+- [Prof. Chong-Maw Chen (陳正茂教授)](./prof-chong-maw-chen)
+- [Prof. Christina Long (隆愛真教授)](./christina-long)
+- [Prof. Chun-fan Chen (陳春帆博士)](./chun-fan-chen)
+- [Prof. Chung-Cheng Hsieh (謝中誠教授)](./prof-chung-cheng-hsieh)
+- [Prof. Chung-Yi Hsu (許重義教授)](./prof-chung-yi-hsu)
+- [Prof. Clark Chen (陳經宗教授)](./prof-clark-chen)
+- [Prof. David Liu (劉如謙教授)](./prof-david-liu)
+- [Prof. Davis L. S. Chang (張祿生教授)](./prof-davis-l-s-chang)
+- [Prof. De-Min Wu (吳得民教授)](./de-min-wu)
+- [Prof. Dennis Hsieh (謝顯堂教授)](./prof-dennis-hsieh)
+- [Prof. Der-Tsai Lee (李德財教授)](./prof-der-tsai-lee)
+- [Prof. Edith Chen (陳怡迪教授)](./prof-edith-chen)
+- [Prof. Edward H Lee (李賢淇教授)](./prof-edward-h-lee)
+- [Prof. Elaine Hsiao (蕭夷年教授)](./prof-elaine-hsiao)
+- [Prof. Eva Y.H. P. Lee (潘玉華教授)](./prof-eva-y-h-p-lee)
+- [Prof. F. Frank Chen (陳鳳山教授)](./prof-f-frank-chen)
+- [Prof. F. S. Shih (謝復生教授)](./prof-f-s-shih)
+- [Prof. Felix T. Hong (洪正幸教授)](./prof-felix-t-hong)
+- [Prof. Fong-Yong Tsai (蔡芳洋教授)](./prof-fong-yong-tsai)
+- [Prof. Frank Chiang (江永芳教授)](./prof-frank-chiang)
+- [Prof. Frank Hsu (許德標教授)](./prof-frank-hsu)
+- [Prof. Frank Mau-Chung Chang (張懋中教授)](./prof-frank-mau-chung-chang)
+- [Prof. Frank S. T. Hsiao (蕭聖鐵教授)](./prof-frank-s-t-hsiao)
+- [Prof. Frank Shih (施永強教授)](./prof-frank-shih)
+- [Prof. Grace Chen Huang (陳怡安教授)](./prof-grace-chen-huang)
+- [Prof. Gwo Jaw Wang (王國照教授)](./prof-gwo-jaw-wang)
+- [Prof. H. C. Lee (李弘祺教授)](./prof-h-c-lee)
+- [Prof. Han-Jung Ko (柯涵容教授)](./prof-han-jung-ko)
+- [Prof. Harrison Cheng (鄭學成教授)](./prof-harrison-cheng)
+- [Prof. Helen Lee (李雪玟教授)](./prof-helen-lee)
+- [Prof. Henry Chuang (莊英煌教授)](./prof-henry-chuang)
+- [Prof. Howard Yuan-Hao Chang (張元豪教授)](./prof-howard-yuan-hao-chang)
+- [Prof. Hsian-Rong Tseng (曾憲榮)](./hsian-rong-tseng)
+- [Prof. Hsiao-Ying Monica Wey (魏曉英教授)](./prof-hsiao-ying-monica-wey)
+- [Prof. Hsing-Jien Kung (龔行健教授)](./prof-hsing-jien-kung)
+- [Prof. Hsing-Lih Chou (周興立教授)](./prof-hsing-lih-chou)
+- [Prof. Hsiu-lang Chen (陳秀亮教授)](./prof-hsiu-lang-chen)
+- [Prof. Hsu-Te Cheng (鄭胥德教授)](./prof-hsu-te-cheng)
+- [Prof. Hung-Wen Ben Liu (劉鴻文教授)](./prof-hung-wen-ben-liu)
+- [Prof. Irwin Chu (朱耀源博士)](./irwin-chu)
+- [Prof. James C. Liao (廖俊智教授)](./prof-james-c-liao)
+- [Prof. Je-Chin Han (黃界清教授)](./prof-je-chin-han)
+- [Prof. Jeffrey J. Tsay](./jeffrey-j-tsay)
+- [Prof. Jen Chin Wang (王政卿教授)](./prof-jen-chin-wang)
+- [Prof. Jessica Y. Ho](./prof-jessica-y-ho)
+- [Prof. Jimmy Ching-Ming Chen](./prof-jimmy-ching-ming-chen)
+- [Prof. Jin-Shei Lai (賴金雪教授)](./prof-jin-shei-lai)
+- [Prof. Jin-Tan Liu (劉錦添教授)](./prof-jin-tan-liu)
+- [Prof. Jing-Hsiung James Ou (歐競雄教授)](./prof-jing-hsiung-james-ou)
+- [Prof. Joshua Wen-Kwei Liao (廖文奎教授)](./prof-joshua-wen-kwei-liao)
+- [Prof. Jow-Lay Huang (黃肇端教授)](./prof-jow-lay-huang)
+- [Prof. Ju-Shey Ho (何汝諧教授)](./prof-ju-shey-ho)
+- [Prof. Jun-Yi Lin (林俊義教授)](./edgar-chun-yi-lin)
+- [Prof. Jyu-Hsiung Fang (方菊雄教授)](./prof-jyu-hsiung-fang)
+- [Prof. Kang-Lung Wang (王康隆教授)](./prof-kang-lung-wang)
+- [Prof. Ke-Hsin Jenny Chi (紀可欣教授)](./prof-ke-hsin-jenny-chi)
+- [Prof. Ken S. Huang (黃根深教授)](./prof-ken-s-huang)
+- [Prof. Kenneth K. Wu (伍焜玉教授)](./prof-kenneth-k-wu)
+- [Prof. Kun-Mu Chen (陳坤木博士)](./kun-mu-chen)
+- [Prof. Kun-Yen Huang (黃崑巖教授)](./prof-kun-yen-huang)
+- [Prof. Kuo-Nan Liou (廖國男教授)](./prof-kuo-nan-liou)
+- [Prof. Lan-Bo Chen (陳良博教授)](./prof-lan-bo-chen)
+- [Prof. Leona Yi-Fan Su (蘇怡帆教授)](./prof-leona-yi-fan-su)
+- [Prof. Li-Fan Philip Liu (劉立方教授)](./prof-li-fan-philip-liu)
+- [Prof. Li-Hui Tsai (蔡立慧教授)](./prof-li-hui-tsai)
+- [Prof. Liang-Shih Fan (范良士教授)](./prof-liang-shih-fan)
+- [Prof. Liang-Tseng Fan (范良政教授)](./prof-liang-tseng-fan)
+- [Prof. Liao-Tsung Lin (林料總教授)](./prof-liao-tsung-lin)
+- [Prof. Lily Yeh Ja (葉公杼教授)](./prof-lily-yeh-ja)
+- [Prof. Lu-Yu Hwang (黃綠玉教授)](./prof-lu-yu-hwang)
+- [Prof. Luh-Maan Chang (張陸滿教授)](./prof-luh-maan-chang)
+- [Prof. Lung-Chi Chen (陳隆志教授)](./prof-lung-chi-chen)
+- [Prof. M. S. Wang (王孟心教授)](./prof-m-s-wang)
+- [Prof. Margaret Shih (施華維教授)](./prof-margaret-shih)
+- [Prof. Maw-Kuen Wu (吳茂昆教授)](./maw-kuen-wu)
+- [Prof. Mei-Chu Wang Hsiao (王美珠教授)](./prof-mei-chu-wang-hsiao)
+- [Prof. Michi Fu](./prof-michi-fu)
+- [Prof. Ming Chiang Lin (林明璋教授)](./prof-ming-chiang-lin)
+- [Prof. Ming Liang Lee (李明亮)](./ming-liang-lee)
+- [Prof. Ming Min Peng (彭明敏教授)](./prof-ming-min-peng)
+- [Prof. Ming-Chiao Michael Lai (賴明詔教授)](./prof-ming-chiao-michael-lai)
+- [Prof. Ming-Shian Kao (高銘憲教授)](./ming-shian-kao)
+- [Prof. Mingchi Wu (吳明基教授)](./prof-mingchi-wu)
+- [Prof. Nai-chang Yeh (葉乃裳教授)](./prof-nai-chang-yeh)
+- [Prof. Oliver Chyan (錢明仁教授)](./prof-oliver-chyan)
+- [Prof. Pai-Hsiang Chou (周百祥教授)](./prof-pai-hsiang-chou)
+- [Prof. Pei-Jung Lin](./prof-pei-jung-lin)
+- [Prof. Perry P.J. Yang (楊沛儒教授)](./prof-perry-p-j-yang)
+- [Prof. Ping-Hui Liao (廖炳惠教授)](./prof-ping-hui-liao)
+- [Prof. Ralph T. Yang (楊祖保教授)](./prof-ralph-t-yang)
+- [Prof. Robert Yien (顏善邦教授)](./prof-robert-yien)
+- [Prof. Ruey J. Yu (余瑞錦教授)](./prof-ruey-j-yu)
+- [Prof. Ruey S. Tsay (蔡瑞胸教授)](./prof-ruey-s-tsay)
+- [Prof. Ruey-Jen Sung (宋瑞珍教授)](./prof-ruey-jen-sung)
+- [Prof. S. Felix Wu (吳士駿教授)](./prof-s-felix-wu)
+- [Prof. S. S. Huang (黃壽山教授)](./prof-s-s-huang)
+- [Prof. Shane-Rong Lee (李憲榮教授)](./prof-shane-rong-lee)
+- [Prof. Shang-Fa Yang (楊祥發教授)](./prof-shang-fa-yang)
+- [Prof. Sheng-cheng Hu (胡勝正教授)](./prof-sheng-cheng-hu)
+- [Prof. Shenglin Chang (張聖琳教授)](./prof-shenglin-chang)
+- [Prof. Shi-Kuei Wu (吳錫圭教授)](./prof-shi-kuei-wu)
+- [Prof. Shi-Meng Chen (陳師孟教授)](./prof-shi-meng-chen)
+- [Prof. Shi-Shung Huang (黃錫勳教授)](./prof-shi-shung-huang)
+- [Prof. Shih-I Chu (朱時宜教授)](./prof-shih-i-chu)
+- [Prof. Shih-Wen Huang (黃碩文教授)](./prof-shih-wen-huang)
+- [Prof. Shiou-Chuan Sheryl Tsai (蔡秀娟)](./prof-shiou-chuan-sheryl-tsai)
+- [Prof. Shiou-Ping Liao (廖修平教授)](./prof-shiou-ping-liao)
+- [Prof. Shirley Cheng Tsai (鄭秀蘭教授)](./prof-shirley-cheng-tsai)
+- [Prof. Shu-li Chen (陳淑麗教授)](./prof-shu-li-chen)
+- [Prof. Shumei S. Sun](./prof-shumei-s-sun)
+- [Prof. Shung-Wu Lee (李雄武教授)](./prof-shung-wu-lee)
+- [Prof. Shutsung Liao (廖述宗教授)](./prof-shutsung-liao)
+- [Prof. Stephen Shau-tsi Chen (陳紹紀教授)](./prof-stephen-shau-tsi-chen)
+- [Prof. Su-Chiung Chen (陳素瓊教授)](./prof-su-chiung-chen)
+- [Prof. Sue-Mei Wu (吳素美教授)](./prof-sue-mei-wu)
+- [Prof. Sze-ya Yeh (葉思雅教授)](./prof-sze-ya-yeh)
+- [Prof. T. L. Lin (林子倫教授)](./prof-t-l-lin)
+- [Prof. Ta-Chiang Liu (劉大強教授)](./prof-ta-chiang-liu)
+- [Prof. Tai Chang Chiang (江台章教授)](./prof-tai-chang-chiang)
+- [Prof. Tao-Shih Shieh (謝道時教授)](./prof-tao-shih-shieh)
+- [Prof. Teh-Hui Kao (高德輝教授)](./prof-teh-hui-kao)
+- [Prof. Tender Lin (林天德教授)](./prof-tender-lin)
+- [Prof. Teresa H. Meng (孟懷縈教授)](./prof-teresa-h-meng)
+- [Prof. Tian-Min Lin (林天民教授)](./prof-tian-min-lin)
+- [Prof. Tien-Chang Lee (李典常)](./prof-tien-chang-lee)
+- [Prof. Tien-Cheng Chang (張典正教授)](./prof-tien-cheng-chang)
+- [Prof. Tien-Her Wang (王天合教授)](./prof-tien-her-wang)
+- [Prof. Tien‐Sung Tom Lin (林天送教授)](./prof-tien-sung-tom-lin)
+- [Prof. Ting-Chao Chou (周廷潮教授)](./prof-ting-chao-chou)
+- [Prof. Ting-Kuo Lee (李定國教授)](./prof-ting-kuo-lee)
+- [Prof. Trong-Rong Tsai (蔡同榮教授)](./prof-trong-rong-tsai)
+- [Prof. Tsan-Iang Chuang (莊燦陽教授)](./prof-tsan-iang-chuang)
+- [Prof. Tsung-Yi Lin (林宗義教授)](./prof-tsung-yi-lin)
+- [Prof. Tuan-Hua David Ho (賀端華教授)](./prof-tuan-hua-david-ho)
+- [Prof. Vigor Yang (楊威迦教授)](./prof-vigor-yang)
+- [Prof. W.K. Young (楊文光教授)](./prof-w-k-young)
+- [Prof. W.S. William Wei (魏武雄教授)](./prof-w-s-william-wei)
+- [Prof. W.S. Winston Ho (何文壽教授)](./prof-w-s-winston-ho)
+- [Prof. Wei-Kung Wang (王維恭教授)](./prof-wei-kung-wang)
+- [Prof. Wen Chan (詹文聲教授)](./prof-wen-chan)
+- [Prof. Wen-Hsiung Ko (柯文雄教授)](./prof-wen-hsiung-ko)
+- [Prof. Wen-Hsiung Li (李文雄教授)](./prof-wen-hsiung-li)
+- [Prof. Wen-Hwa Lee (李文華教授)](./prof-wen-hwa-lee)
+- [Prof. Wen-Yaw Chan (詹文耀教授)](./prof-wen-yaw-chan)
+- [Prof. Wentai Liu (劉文泰教授)](./prof-wentai-liu)
+- [Prof. Wilson Ho (何文程教授)](./prof-wilson-ho)
+- [Prof. Y. C. Eric Shen (沈耀初教授)](./prof-y-c-eric-shen)
+- [Prof. Y. C. Jeng (鄭逸群教授)](./prof-y-c-jeng)
+- [Prof. Y. W. Cheng (鄭義為教授)](./prof-y-w-cheng)
+- [Prof. Yang-En Cheng (鄭仰恩教授)](./prof-yang-en-cheng)
+- [Prof. Yao-Yuan Yeh (葉耀元教授)](./prof-yao-yuan-yeh)
+- [Prof. Yie-Hwa Chang (張義華教授)](./prof-yie-hwa-chang)
+- [Prof. Young-Chang Chen (陳榮昌教授)](./prof-young-chang-chen)
+- [Prof. Yu-Chong Tai (戴聿昌教授)](./prof-yu-chong-tai)
+- [Prof. Yuan-Pern Lee (李遠鵬教授)](./prof-yuan-pern-lee)
+- [Prof. Yuh-Huey Grace Lin (林玉惠)](./prof-yuh-huey-grace-lin)
+- [Prof.Hsiu-San Lin (林秀三教授)](./prof-hsiu-san-lin)
+- [Professor Schuman S. Tu (杜新茂教授)](./professor-schuman-s-tu)
 
+### Q {#q}
 
+- [Quei-Lih Chen (陳瑰麗)](./quei-lih-chen)
+- [Qun Tsai (蔡昆)](./qun-tsai)
 
+### R {#r}
 
+- [R. C. Chen (陳瑞珠)](./r-c-chen)
+- [R. F. Huang (許黃瑞鳳)](./r-f-huang)
+- [R. J. Chang (張榮吉)](./r-j-chang)
+- [R. L. Low (羅瑞蘭)](./r-l-low)
+- [R. R. Yang (楊蓉蓉)](./r-r-yang)
+- [R. W. Chen (陳瑞玟)](./r-w-chen)
+- [Rachel Chao (趙亦秋)](./rachel-chao)
+- [Rachel Ku](./rachel-ku)
+- [Rachel Lin](./rachel-lin)
+- [Rachel Liu Siu (劉廣然)](./rachel-liu-siu)
+- [Ralph Su (蘇惠智牧師)](./ralph-su)
+- [Ray Chen (陳銳)](./ray-chen)
+- [Ray Jan (冉瑞宜)](./ray-jan)
+- [Raymond Jeng (鄭英松)](./raymond-jeng)
+- [Raymond Kuo](./raymond-kuo)
+- [Raymond T. Chen](./raymond-t-chen)
+- [Raymond Wu (吳瑞信)](./raymond-wu)
+- [Redirect → Alan Thian (田詒鴻)](./yee-phong-alan-thian)
+- [Redirect → Eric Shen (沈梓在)](./shen-zizai)
+- [Redirect → Frank Hsieh (謝長廷)](./xie-changting)
+- [Redirect → Gene Tsai (蔡錦榮)](./cai-jinrong)
+- [Redirect → George Leslie Mackay (馬偕)](./alexander-macdonald)
+- [Redirect → Hou Yu-ih (侯友宜)](./hou-youyi)
+- [Redirect → Hsu Shih-huan (許世環)](./xu-shihuan)
+- [Redirect → Lai Ching-te (賴清德)](./lai-qingde)
+- [Redirect → Paul Chen (陳柏宇)](./paul-y-chen)
+- [Redirect → Sunu Tsai (蔡淑女)](./cai-shunyu)
+- [Redirect → Tsai Ing Wen](./tsai-ingwen)
+- [Redirect → Tsai Ing-wen (蔡英文)](./cai-yingwen)
+- [Redirect → Yi Sen Lee (李意盛)](./li-yisheng)
+- [Remii Huang (黃婕妤)](./remii-huang)
+- [Reng-Lang Lin (林祁郎)](./reng-lang-lin)
+- [Rev. Ai Chih Tsai (蔡愛智牧師)](./rev-ai-chih-tsai)
+- [Rev. Ben M.C. Hsieh (謝敏川牧師)](./rev-ben-m-c-hsieh)
+- [Rev. Burton Tan (陳柏壽牧師)](./rev-burton-tan)
+- [Rev. C. L. Tong (董俊蘭牧師)](./rev-c-l-tong)
+- [Rev. C. Y. Huang (黃主義牧師)](./rev-c-y-huang)
+- [Rev. Chen Bozhi (陳柏志牧師)](./chen-bozhi)
+- [Rev. Ching Fang Chen (陳清芳)](./ching-fang-chen)
+- [Rev. Chung Hsin Cho (卓忠信牧師)](./rev-chung-hsin-cho)
+- [Rev. Dave Alexander (亞大偉牧師)](./rev-dave-alexander)
+- [Rev. David Huang (黃德利)](./david-huang)
+- [Rev. Edward Bin Tanng (陳黃義敏牧師)](./rev-edward-bin-tanng)
+- [Rev. En Sheng Pan (潘恩盛)](./en-sheng-pan)
+- [Rev. Guo Dongxu (郭東緒牧師)](./guo-dongxu)
+- [Rev. H. D. Chen (陳浩德牧師)](./rev-h-d-chen)
+- [Rev. Ian Cheng (鄭溢恩牧師)](./rev-ian-cheng)
+- [Rev. J. C. Cheng (鄭紀昭牧師)](./rev-j-c-cheng)
+- [Rev. J. M. Hsu (許錦銘)](./rev-j-m-hsu)
+- [Rev. J. S. Chou (周再賜牧師)](./rev-j-s-chou)
+- [Rev. James Chang (張拯民牧師)](./rev-james-chang)
+- [Rev. James I. Cheng (鄭義勇牧師)](./rev-james-i-cheng)
+- [Rev. Jim Huang (黃景彬牧師)](./rev-jim-huang)
+- [Rev. Jonah Chang (張瑞雄)](./jonah-chang)
+- [Rev. Kao Chun-ming (高俊明)](./kao-chun-ming)
+- [Rev. Lai Junming (賴俊明牧師)](./lai-junming)
+- [Rev. Martin C. Wang (王成章牧師)](./rev-martin-c-wang)
+- [Rev. Ming Huei Phillip Liu (劉銘輝牧師)](./rev-ming-huei-phillip-liu)
+- [Rev. Mingyuan Hsu (許明遠)](./mingyuan-hsu)
+- [Rev. Parker Shieh (謝貫明牧師)](./rev-parker-shieh)
+- [Rev. Pinghsi Liu (劉炳熹)](./pinghsi-liu)
+- [Rev. Prof. Joseph Wang (王守仁牧師)](./rev-prof-joseph-wang)
+- [Rev. R. H. Chang (張瑞雄牧師)](./rev-r-h-chang)
+- [Rev. Rui-Long Lin (林瑞隆牧師)](./rev-rui-long-lin)
+- [Rev. S. Y. Lin (林皙陽牧師)](./rev-s-y-lin)
+- [Rev. Sheng-To Shih (施聖導牧師)](./rev-sheng-to-shih)
+- [Rev. Shirley Lin (林珊宇牧師)](./rev-shirley-lin)
+- [Rev. Thomas H. Chen (陳宏文牧師)](./rev-thomas-h-chen)
+- [Rev. Tsai Weiren (蔡維仁)](./cai-weiren)
+- [Rev. Tsu-Kung Chuang (莊祖鯤牧師)](./rev-tsu-kung-chuang)
+- [Rev. William J. Burke Jr.](./rev-william-j-burke-jr)
+- [Rev. Wudong Huang (黃武東牧師)](./wudong-huang)
+- [Rev. Xie Dali (謝大立)](./xie-dali)
+- [Rev. Xie Xinguang (謝信光)](./xie-xinguang)
+- [Rev. Xie Xinzhong (謝信中)](./xie-xinzhong)
+- [Rev. Zhuang Xinde (莊信德)](./zhuang-xinde)
+- [Rex Chen (陳乃光)](./rex-chen)
+- [Rex Chen (陳財元)](./chen-caiyuan)
+- [Rhoda Wang Jeng](./rhoda-wang-jeng)
+- [Richard Chang (張立仁)](./richard-chang)
+- [Richard Chen (陳重光舊名)](./richard-chen)
+- [Richard D. Fisher (費學禮)](./richard-d-fisher)
+- [Richard J. Shih (石正岡醫師)](./richard-j-shih)
+- [Richard Lee (李正三)](./richard-lee)
+- [Richard Lin (林品任)](./richard-lin)
+- [Richard Pan (潘君達博士)](./richard-pan)
+- [Richard Wang](./richard-wang)
+- [Ring Lin Hsu (許林碖)](./ring-lin-hsu)
+- [Rizia H. Lin (洪文鳳)](./rizia-h-lin)
+- [Robert Chen (陳慕融)](./robert-chen)
+- [Robert Chung (鐘博盈)](./robert-chung)
+- [Robert G. Chu (朱靜懷)](./robert-g-chu)
+- [Robert Lee (李席舟)](./robert-lee)
+- [Rockwell Hsu (徐名璋)](./rockwell-hsu)
+- [Roger Chen (陳正哲)](./roger-chen)
+- [Roger Huang (黃瑞宗)](./roger-huang)
+- [Roger Tsai (蔡漢成)](./roger-tsai)
+- [Roland P. Brown (薄柔纜醫生)](./roland-p-brown)
+- [Ron Chen (陳榮成)](./ron-chen)
+- [Ron Shieh (謝榮峻)](./ron-shieh)
+- [Rong-hu Lu (盧榮富)](./rong-hu-lu)
+- [Rosalyne Formosa Shieh (謝泊欣)](./rosalyne-formosa-shieh)
+- [Rose Chen (陳慧如)](./rose-chen)
+- [Ru-Pei Yen (葉儒沛)](./ru-pei-yen)
+- [Ruby Chen (李惠末)](./ruby-chen)
+- [Rue-Lin Hung (洪瑞麟)](./rue-lin-hung)
+- [Rueibin Chen (陳瑞斌)](./rueibin-chen)
+- [Rui Mu Lee (李瑞木)](./rui-mu-lee)
+- [Rui-feng Hsu (許瑞峰)](./rui-feng-hsu)
+- [Rung-fang Chen (陳榮芳)](./rung-fang-chen)
+- [Russell Hsiao](./russell-hsiao)
+- [Ruth Yeh (葉李麗貞)](./ruth-yeh)
+- [Ryan Hass (何瑞恩)](./ryan-hass)
 
+### S {#s}
 
-- [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
+- [S. B. Liu (劉西北)](./s-b-liu)
+- [S. C. Lin (林淑珠)](./s-c-lin)
+- [S. C. Wu (吳西謙)](./s-c-wu)
+- [S. C. Yang (楊淑卿)](./s-c-yang)
+- [S. D. Chen (陳士東)](./s-d-chen)
+- [S. F. Yang (楊雪鳳)](./s-f-yang)
+- [S. H. Chang (張舜華)](./s-h-chang)
+- [S. H. Lin (林聖賢)](./s-h-lin)
+- [S. H. Shang (商夏會)](./s-h-shang)
+- [S. J. Chen (陳松楨)](./s-j-chen)
+- [S. J. Chou (周信結博士)](./s-j-chou)
+- [S. J. Ho (何世杰)](./s-j-ho)
+- [S. J. Lin (林宣繼)](./s-j-lin)
+- [S. L. Chen (陳世霖)](./s-l-chen)
+- [S. L. Chen (陳晳憐博士)](./s-l-chen-2)
+- [S. L. Lin (林幸隆)](./s-l-lin)
+- [S. M. Jacqueline Wang (王賽美)](./s-m-jacqueline-wang)
+- [S. M. Lin (林素敏)](./s-m-lin)
+- [S. S. Wu (吳炫三)](./s-s-wu)
+- [S. T. Liu (劉曉亭)](./s-t-liu)
+- [S. W. Hung (洪順伍博士)](./s-w-hung)
+- [S. W. Yang (楊筱薇)](./s-w-yang)
+- [S. Y. Chang (張信義)](./s-y-chang)
+- [S. Y. Huang (黃森元)](./s-y-huang)
+- [S. Y. Lee (李嵩義)](./s-y-lee)
+- [S. Y. Liu (劉淑媛)](./s-y-liu)
+- [S. Y. Wong (翁水元)](./s-y-wong)
+- [S.I. Tom Tsai (蔡式宜)](./s-i-tom-tsai)
+- [S.S. Huang (黃申生)](./s-s-huang)
+- [Sally Tsai (蔡淑理)](./sally-tsai)
+- [Sam Chang (張善良)](./sam-chang)
+- [Sam Huang (黃興貫)](./sam-huang)
+- [Sam Hung (洪南山)](./sam-hung)
+- [Sam S Weng (翁勝三醫師)](./sam-s-weng)
+- [Sam Wei-Chih Sun (孫偉志)](./sam-wei-chih-sun)
+- [Samantha Yu (游蕙綾)](./samantha-yu)
+- [Samuel Kao (高榮彬)](./samuel-kao)
+- [Samuel Lee (李茂玄)](./samuel-lee)
+- [Samuel Lin (林雲郎)](./samuel-lin)
+- [Samuel S. Cheung (張詩賢)](./samuel-s-cheung)
+- [Samuel Wu (吳德聖牧師)](./samuel-wu)
+- [San Francisco Theological Seminary](./san-francisco-theological-seminary)
+- [San John Huang (黃三榮)](./san-john-huang)
+- [San-Nan Chen (陳珊喃)](./san-nan-chen)
+- [Sandy Yen (莊和子)](./sandy-yen)
+- [Sang Pu / 桑普](./sang-pu)
+- [Sarolina Chang (沈麗華)](./sarolina-chang)
+- [Scott Lee (李捷琦)](./scott-lee)
+- [Sean Chen (陳宣堯)](./sean-chen)
+- [Sean Wang (王雍翔博士)](./sean-wang)
+- [Sen Maw Woody Fang (方森茂教授)](./sen-maw-woody-fang)
+- [Seng-Jaw Soong (宋盛照)](./seng-jaw-soong)
+- [Serena Chen](./serena-chen)
+- [Sha Lin (林莎)](./sha-lin)
+- [Shan Lin (林上祺)](./shan-lin)
+- [Shan-Tai Yeh](./shan-tai-yeh)
+- [Shang C. Chiou (邱祥竹醫師)](./shang-c-chiou)
+- [Shang Fa Yang](./shang-fa-yang)
+- [Shang-Feng Wu (吳上峯)](./shang-feng-wu)
+- [Shante Shaw Sean Chen (陳善哲)](./shante-shawsean-chen)
+- [Sharon Cheng (鄭怡君)](./sharon-cheng)
+- [Sharon Huang (黃馨瑤)](./sharon-huang)
+- [Sharon S. Hsu (許聖美)](./sharon-s-hsu)
+- [Shaw Fang Jeng (鄭劭方)](./shaw-fang-jeng)
+- [Shawn C. Chou (周正烜)](./shawn-c-chou)
+- [Shawn Lu (呂紹翔)](./shawn-lu)
+- [Shawn Yeh (葉上毅)](./shawn-yeh)
+- [Shawna Yang Ryan (楊小娜)](./shawna-yang-ryan)
+- [Sheng Wang](./sheng-wang)
+- [Sheng-Ching Angel Hsu (徐升晴)](./sheng-ching-angel-hsu)
+- [Sheng-Hsin Lin (林聖馨)](./sheng-hsin-lin)
+- [Sheng-Yuan Kuan (官聖媛)](./sheng-yuan-kuan)
+- [Shi Yuli (施郁麗)](./shi-yuli)
+- [Shi-Kaung Peng (彭旭光)](./shi-kaung-peng)
+- [Shi-Lung Lin (林希龍)](./shi-lung-lin)
+- [Shiao-Uen Ding (丁曉雯)](./shiao-uen-ding)
+- [Shida Kuo (郭旭達)](./shida-kuo)
+- [SHIH CHIEH HUANG (黃世傑)](./shih-chieh-huang)
+- [Shih Pao Lin (林世寶)](./shih-pao-lin)
+- [Shih Yaw Lai (賴世耀博士)](./shih-yaw-lai)
+- [Shih-Chen Hsu (許世真)](./shih-chen-hsu)
+- [Shih-han Erika Chiu (邱詩涵)](./shih-han-erika-chiu)
+- [Shih-Hui Chen (陳士惠)](./shih-hui-chen)
+- [Shih-Peng Chang (張士芃)](./shih-peng-chang)
+- [Shih-Ting Huang (黃詩婷)](./shih-ting-huang)
+- [Shih-Yin Chen (陳詩音)](./shih-yin-chen)
+- [Shin Tson Wu (吳詩聰博士)](./shin-tson-wu)
+- [Shin-Ruh Liu (劉新祿)](./shin-ruh-liu)
+- [Shing Lung Tseng (曾醒倫)](./shing-lung-tseng)
+- [Shirley Yu (張欣珠)](./shirley-yu)
+- [Shitien Yang (楊錫鈿)](./shitien-yang)
+- [Shiu-Sian Angel Hsu Wang (許秀香)](./shiu-sian-angel-hsu-wang)
+- [Shiuan Chen (陳瑄)](./shiuan-chen)
+- [Shiuho Lin (林秀合)](./shiuho-lin)
+- [Shoei-Sheng Chen (陳水生)](./shoei-sheng-chen)
+- [Show-Ya Wang (邱綉雅)](./show-ya-wang)
+- [Shu Hua Wai (韋黃淑華)](./shu-hua-wai)
+- [Shu Lai (賴淑遠)](./shu-lai)
+- [Shu-ching Cheng (賴淑卿)](./shu-ching-cheng)
+- [Shu-Hui Janet Tsai (蔡淑慧博士)](./janet-tsai)
+- [Shu-Ting Yao (姚舒婷博士)](./shu-ting-yao)
+- [Shu-Yuan Susan Tsay (蔡淑媛)](./shu-yuan-susan-tsay)
+- [Shuching Liao (廖郭淑卿)](./shuching-liao)
+- [Shui-Lian Fang (方廖水蓮)](./shui-lian-fang)
+- [Shuin-Lin Yang (楊勳琳)](./shuin-lin-yang)
+- [Shun Dar Lin (林舜達)](./shun-dar-lin)
+- [Shun Hua Yu (余舜華)](./shun-hua-yu)
+- [Shuo-Hui Sophie Hung (洪碩徽)](./shuo-hui-sophie-hung)
+- [Shwu Lih Lin (林淑麗)](./shwu-lih-lin)
+- [Si Zhi Chen (陳泗治)](./si-zhi-chen)
+- [Si-Fei Cheng (鄭希暉)](./si-fei-cheng)
+- [Sibyl Chen (陳世樸)](./sibyl-chen)
+- [Sien-Mo Lin (林顯模)](./sien-mo-lin)
+- [Sim Ti Lim (林心智博士)](./sim-ti-lim)
+- [Simon C. Kuo (郭朝元博士)](./simon-c-kuo)
+- [Simon Cheng (鄭良光)](./simon-cheng)
+- [Simon Lin (林榮松)](./simon-lin)
+- [Simon Shiao (蕭世杰)](./simon-shiao)
+- [Sin-I Hsiao (蕭欣義)](./sin-i-hsiao)
+- [Sin-Yang Lin (林欣陽)](./sin-yang-lin)
+- [Sing-Nan Wang (王幸男)](./sing-nan-wang)
+- [Sonia Lee (王淑女)](./sonia-lee)
+- [Sonny Hsu (徐嵩宜)](./sonny-hsu)
+- [Sophia Yen](./sophia-yen)
+- [Spencer Chen](./spencer-chen)
+- [Ssu-Yu Huang (黃思瑜)](./ssu-yu-huang)
+- [Stanley Hsiao (蕭東賢)](./stanley-hsiao)
+- [Stanley Sun (孫獻祥)](./stanley-sun)
+- [Stella Chen (陳婉真)](./stella-chen)
+- [Stella Landauer (陳翠玉)](./stella-landauer)
+- [Stephanie Chang (張理)](./stephanie-chang)
+- [Stephanie Chuang](./stephanie-chuang)
+- [Stephanie Syd Yang](./stephanie-syd-yang)
+- [Stephanie Wan-Hsiu Lan (藍婉修)](./stephanie-wan-hsiu-lan)
+- [Stephen Lin (林俊提)](./stephen-lin)
+- [Stephen S. Chu (朱石象)](./stephen-s-chu)
+- [Steve Wei (魏十洲)](./steve-wei)
+- [Steven Chien (簡鳳孚)](./steven-chien)
+- [Steven Chou (周清耀)](./steven-chou)
+- [Steven Fan (范盛裕)](./steven-fan)
+- [Steven J. Hsu (許中人醫師)](./steven-j-hsu)
+- [Steven Lin (林易)](./steven-lin)
+- [Steven Shih Chen (陳士駿)](./steven-shih-chen)
+- [Steven Wu (吳尚誠)](./steven-wu)
+- [Strong Chuang (莊秋雄)](./strong-chuang)
+- [Stuart Chen (陳照雄)](./stuart-chen)
+- [Su Chun-huai (蘇春槐)](./su-chun-huai)
+- [Su-Hsun Sue Hsiao (蕭素薰)](./su-hsun-sue-hsiao)
+- [Sue Chen (陳禹辛)](./sue-chen)
+- [Sue Chiu (黃雪香)](./sue-chiu)
+- [Sue-Jane Lin (林素貞)](./sue-jane-lin)
+- [SueAnn Shiah (夏叔安)](./sueann-shiah)
+- [Suhua Low (陳素華)](./suhua-low)
+- [Suing Wang (王淑英)](./suing-wang)
+- [Sung-Peng Hsu (徐頌鵬博士)](./sung-peng-hsu)
+- [Sunu Tsai (蔡淑女)](./sunu-tsai)
+- [Susan Chou (周淑慧牧師)](./susan-chou)
+- [Susan Chuang (莊士晟)](./susan-chuang)
+- [Susan Shu-Ai Tsai (蔡淑愛)](./susan-shu-ai-tsai)
+- [Susan Suying Lee (李淑英)](./susan-suying-lee)
+- [Susan Y. J. Chang (程韻如)](./susan-y-j-chang)
+- [Swing Chuang (莊宗勳)](./swing-chuang)
+- [Syaru Shirley Lin (林夏如)](./syaru-shirley-lin)
+- [Symeon Woo (吳西面)](./symeon-woo)
+- [Szu-Ning Tai (戴思寧)](./szu-ning-tai)
+- [Szu-Ying Huang (黃思穎)](./szu-ying-huang)
 
-<h3 id="v">V</h3>
-- [[people/valentina-wen-ting-huang|Valentina Wen-Ting Huang (黃文亭)]]
-- [[people/vania-king|Vania King (金久慈)]]
-- [[people/vera-hui-pin-hsu|Vera Hui-pin Hsu (許惠品)]]
-- [[people/vera-yang|Vera Yang (楊悅英)]]
-- [[people/victor-hung|Victor Hung (洪家棟)]]
-- [[people/victor-liu|Victor Liu (劉亮華)]]
-- [[people/victoria-linchong|Victoria Linchong (林鍾維春)]]
-- [[people/vincent-c-lai|Vincent C. Lai (賴經都)]]
-- [[people/vivian-y-g-fu|Vivian Y.G. Fu (林郁子)]]
+### T {#t}
 
-<h3 id="w">W</h3>
-- [[people/bai-weiwei|Wei Wei Bai (白偉瑋)]]
-- [[people/w-b-liu|W. B. Liu (劉文彬)]]
-- [[people/w-c-huang|W. C. Huang (黃維城)]]
-- [[people/w-c-jen|W. C. Jen (任雯娟)]]
-- [[people/w-c-lin|W.C. Lin (林文釗)]]
-- [[people/w-d-lee|W. D. Lee 李 (李武達)]]
-- [[people/w-i-chen|W. I. Chen (陳石溫愛)]]
-- [[people/w-j-james-chung|W. J. James Chung (鍾文忠)]]
-- [[people/w-s-chen|W. S. Chen (陳務憲)]]
-- [[people/w-s-lee|W. S. Lee (李武雄)]]
-- [[people/w-s-lin|W. S. Lin (林維熊)]]
-- [[people/w-y-chou|W. Y. Chou (周婉窈)]]
-- [[people/walter-dunn|Walter Dunn (陳梧水醫師)]]
-- [[people/walter-h-shiau|Walter H Shiau (蕭鴻模)]]
-- [[people/walter-m-yang|Walter M. Yang (楊茂嘉博士)]]
-- [[people/wan-lin-tsai|Wan-Lin Tsai (蔡宛霖博士)]]
-- [[people/wan-lung-chuang|Wan-Lung Chuang (莊婉玲)]]
-- [[people/wang-dan|Wang Dan / 王丹]]
-- [[people/wang-gui-rong|Wang Gui-rong (王桂榮)]]
-- [[people/wang-jinping|Wang Jin-pyng / Wang Jin-ping (王金平)]]
-- [[people/wang-neng-xiang|Wang Neng-xiang (王能祥)]]
-- [[people/wang-qiaoling|Wang Chiao-ling / 王峭嶺]]
-- [[people/wang-rongyi|Wang Rongyi (王榮義)]]
-- [[people/wang-shufen|Wang Shu-fen / 王淑芬]]
-- [[people/wang-taihe|Wang Taihe (王泰和)]]
-- [[people/wang-yao-ting|Wang Yao-ting (王耀廷)]]
-- [[people/wang-yao-ting-xie-xiulan|Wang Yao-ting & Xie Xiulan (王耀廷、謝秀緞)]]
-- [[people/warren-d-yu|Warren D. Yu]]
-- [[people/wayne-lee|Wayne Lee (李家瑋)]]
-- [[people/wei-boji|Wei Boji (魏博基)]]
-- [[people/wei-chiang-chen|Wei-Chiang Chen]]
-- [[people/wei-chin-lin|Wei-Chin Lin (林威震)]]
-- [[people/wei-der-huang|Wei-Der Huang (黃瑋德)]]
-- [[people/wei-en-hsu|Wei-En Hsu (徐惟恩)]]
-- [[people/wei-jane-chir|Wei Jane Chir (池農深)]]
-- [[people/wei-jingsheng|Wei Jingsheng / 魏京生]]
-- [[people/wei-ling-chen|Wei-Ling Chen (陳為伶)]]
-- [[people/wei-ming-hwang|Wei Ming Hwang (黃維明)]]
-- [[people/wei-shou-hu|Wei-Shou Hu (胡維碩)]]
-- [[people/wei-shuan-yu|Wei-Shuan Yu (尤韋琁)]]
-- [[people/weiko-lin|Weiko Lin (林偉克)]]
-- [[people/weiting-liu|Weiting Liu (劉威廷)]]
-- [[people/weiyin-chen|Weiyin Chen (陳偉茵)]]
-- [[people/wellington-welly-yang|Wellington Welly Yang (楊呈偉)]]
-- [[people/wen-chi-chang|Wen Chi Chang (張文祺)]]
-- [[people/wen-chi-lee|Wen Chi Lee (李文枝)]]
-- [[people/wen-h-chang|Wen. H. Chang (張文旭)]]
-- [[people/wen-jei-yang|Wen-Jei Yang (楊文偕教授)]]
-- [[people/wen-jer-chen|Wen Jer Chen (陳文哲)]]
-- [[people/wen-ling-tu|Wen-Ling Tu (杜文苓)]]
-- [[people/wen-s-charlie-chern|Wen S. Charlie Chern (陳文雄博士)]]
-- [[people/wen-shean-young|Wen Shean Young (楊文顯博士)]]
-- [[people/wen-yen-chen|Wen Yen Chen (陳文彥教授)]]
-- [[people/wen-yih-sun|Wen-Yih Sun (商文義)]]
-- [[people/wen-yin-chan|Wen-Yin Chan (詹雯茵)]]
-- [[people/wen_chen-chen|Wen_Chen Chen (陳文成教授)]]
-- [[people/wendy-cheng|Wendy Cheng (鄭昕)]]
-- [[people/wendy-fang-chen-tilp|Wendy Fang Chen Tilp (陳丹蘋)]]
-- [[people/wenhsiung-luke-huang|Wenhsiung Luke Huang (黃文雄)]]
-- [[people/wenhui-cai|Wenhui Cai (蔡文輝)]]
-- [[people/wenlan-chia|Wenlan Chia (賈雯蘭)]]
-- [[people/whe-lan-wu-detrick|Whe-Lan Wu Detrick (迪惠蘭)]]
-- [[people/wilfred-su|Wilfred Su (蘇文隆牧師)]]
-- [[people/will-tiao|Will Tiao (刁毓能)]]
-- [[people/william-cho|William Cho (卓甫良)]]
-- [[people/william-chung|William Chung (鍾桂榮博士)]]
-- [[people/william-h-lee|William H. Lee (李錫洋)]]
-- [[people/william-shu|William Shu (許子祥)]]
-- [[people/william-yau|William Yau (姚火草)]]
-- [[people/william-yeh|William Yeh (葉振忠)]]
-- [[people/willy-pan|Willy Pan (潘建宇)]]
-- [[people/wilson-wang|Wilson Wang (王唯昇)]]
-- [[people/winnie-cheng-wen-lai|Winnie Cheng-Wen Lai (賴政雯)]]
-- [[people/winnie-chiu|Winnie Chiu (藍月卿)]]
-- [[people/winnie-lan-in-yang|Winnie Lan-In Yang (楊嵐茵)]]
-- [[people/winston-t-dang|Winston T. Dang (陳重信)]]
-- [[people/winston-wen|Winston Wen (溫隆志)]]
-- [[people/wu-lang-lee|Wu-Lang Lee (李五郎博士)]]
-- [[people/wu-lipei|Wu Li-pei / 吳澧培]]
-- [[people/wu-pei-su|Wu-Pei Su (蘇武沛)]]
+- [T. C. Cheng (鄭天佐)](./t-c-cheng)
+- [T. H. Ying (應天華)](./t-h-ying)
+- [T. K. Lin (林宗光)](./t-k-lin)
+- [T. S. Hsu (許廷鑫)](./t-s-hsu)
+- [T. T. Dean Su (蘇藤宗博士)](./t-t-dean-su)
+- [T. Y. Ko (柯翠園)](./t-y-ko)
+- [Ta-Fu Ho (何達夫博士)](./ta-fu-ho)
+- [TAHS member onboarding](./tahs-member-onboarding)
+- [Tai Lin (林泰)](./tai-lin)
+- [Tai-Yen Chen](./tai-yen-chen)
+- [Taichi Chen (陳太一)](./taichi-chen)
+- [Tammy Chang](./tammy-chang)
+- [Tang Pei-li / 唐培理](./tang-peili)
+- [Tao Yu (余道昌)](./tao-yu)
+- [Te-Chiang Bacco Liu (劉德強)](./te-chiang-bacco-liu)
+- [Ted Anderson (泰德安德森)](./ted-anderson)
+- [Ted Kuo (郭來哲博士)](./ted-kuo)
+- [Ted Lau (劉重義)](./ted-lau)
+- [Ted Lieu (劉雲平)](./ted-lieu)
+- [Teh Yuan Ho (何德淵博士)](./teh-yuan-ho)
+- [Teng-Kuan Eric Huang (黃勝寬)](./teng-kuan-eric-huang)
+- [Teresa Dreyfuss](./teresa-dreyfuss)
+- [Theodore Chuang ．莊 (西奧多)](./theodore-chuang)
+- [Theodore Ted Wing (溫庭宇)](./theodore-ted-wing)
+- [Theresa L. Chung (鍾林瑛娟)](./theresa-l-chung)
+- [Thomas Barclay (巴克禮)](./thomas-barclay)
+- [Thomas C.T. Chiu (邱智正)](./thomas-c-t-chiu)
+- [Thomas Chen (陳秋貴)](./thomas-chen)
+- [Thomas Liu (劉天良)](./thomas-liu)
+- [Thomas Ming-Chien Wu (吳明杰)](./thomas-ming-chien-wu)
+- [Thomas Shu (許正龍)](./thomas-shu)
+- [Thomas Tzu-Shen Lin (林資深博士)](./thomas-tzu-shen-lin)
+- [Tien-Chen Lin (林天成)](./tien-chen-lin)
+- [Tiencheng Arthur Chang](./tiencheng-arthur-chang)
+- [Tiffany Huang (黃咏婷)](./tiffany-huang)
+- [Tiffany Ma (馬翊庭)](./tiffany-ma)
+- [Tim Chng (莊騰程)](./tim-chng)
+- [Tim Wu (吳修銘)](./tim-wu)
+- [Timothy S. Wu (吳獻章博士)](./timothy-s-wu)
+- [Tina Chang (張丁蘭)](./tina-chang)
+- [Tina Chen (吳富子)](./tina-chen)
+- [Tina Shao (邵婷雯)](./tina-shao)
+- [Tina Shih (施雅婷)](./tina-shih)
+- [Tina Su (蘇毓婷博士)](./tina-su)
+- [Ting Yee Wang (王廷宜)](./ting-yee-wang)
+- [Ting-An Lin (林庭安)](./ting-an-lin)
+- [Ting-ing Lai Okajima (賴騰英)](./ting-ing-lai-okajima)
+- [Ting-kuei Tsay (蔡丁貴教授)](./ting-kuei-tsay)
+- [Ting-Lan Ma (馬鼎嵐)](./ting-lan-ma)
+- [Tom Thomas Shih (石聰賢)](./tom-thomas-shih)
+- [Tom Wang’s (王自立)](./tom-wangs)
+- [Tom Yang (楊東傑)](./tom-yang)
+- [Tong-Liang Larry Chen (陳東亮)](./tong-liang-larry-chen)
+- [Tony Chen (陳國洸)](./tony-chen)
+- [Tony Hsieh (謝家華)](./tony-hsieh)
+- [Tony Lee (李賢群)](./tony-lee)
+- [Tony Tung-Ying Huang (黃東瀛)](./tony-tung-ying-huang)
+- [Tony. Li-Cheng Yeh (葉禮禎)](./tony-li-cheng-yeh)
+- [Tonya C Mezrich (陳糖亞)](./tonya-c-mezrich)
+- [Treya Lam](./treya-lam)
+- [Tsai Ing-wen (蔡英文)](./tsai-ing-wen)
+- [Tsaiyuan Terry Hsu (許財源)](./tsaiyuan-terry-hsu)
+- [Tsan-hung George Chang (張燦鍙教授)](./tsan-hung-george-chang)
+- [Tse feng Chuang (莊澤豐)](./tse-feng-chuang)
+- [Tsong-Yue Lai (賴聰域教授)](./tsong-yue-lai)
+- [Tsou Ching-wen / 鄒景雯](./zou-jingwen)
+- [Tsu-Yi Jay Loo (盧主義)](./tsu-yi-jay-loo)
+- [Tsuann Kuo (郭慈安博士)](./tsuann-kuo)
+- [Tsuey-Tang Wang (王萃堂)](./tsuey-tang-wang)
+- [Tsung Ming Hsieh (謝聰敏)](./tsung-ming-hsieh)
+- [Tun-Hou Lee (李敦厚)](./tun-hou-lee)
+- [Tyzen Hsiao (蕭泰然)](./tyzen-hsiao)
+- [Tzann T. Fang (方贊棠)](./tzann-t-fang)
+- [Tze-jer Chuang (莊子哲)](./tze-jer-chuang)
+- [Tze-Ming Benson Chen](./tze-ming-benson-chen)
+- [Tzu-Ling Sarana Chou (周子鈴)](./tzu-ling-sarana-chou)
+- [Tzu-Wei Lin (林子偉)](./tzu-wei-lin)
+- [Tzu-Yi Chen (陳孜怡)](./tzu-yi-chen)
+- [Tzutsai Cheng (鄭自才)](./tzutsai-cheng)
+- [Tzuying Huang (黃姿穎)](./tzuying-huang)
+- [Tzyy-Choou Wu (吳子丑)](./tzyy-choou-wu)
 
-<h3 id="x">X</h3>
-- [[people/xia-ming|Xia Ming / 夏明]]
-- [[people/xu-shitan|Xu Shitan (徐士坦)]]
+### V {#v}
 
-<h3 id="y">Y</h3>
-- [[people/y-c-chen|Y. C. Chen (陳英燦)]]
-- [[people/y-c-hsu|Y. C. Hsu (許耀慶)]]
-- [[people/y-c-hsu-2|Y.C. Hsu (許英智)]]
-- [[people/y-f-yang|Y. F. Yang (楊雲鳳)]]
-- [[people/y-h-liang|Y. H. Liang (梁琰華)]]
-- [[people/y-h-lin|Y. H. Lin (林永雄)]]
-- [[people/y-j-chung|Y. J. Chung (鍾宜君)]]
-- [[people/y-l-lin|Y. L. Lin (林玉郎)]]
-- [[people/y-l-shieh|Y. L. Shieh (沈郁良)]]
-- [[people/y-s-chen|Y. S. Chen (陳雨辛)]]
-- [[people/y-s-huang|Y. S. Huang (黃炎松)]]
-- [[people/y-s-lee|Y. S. Lee (李延禧)]]
-- [[people/y-s-tseng|Y. S. Tseng (曾元勝)]]
-- [[people/y-t-lin|Y.T.LIN (林又新博士)]]
-- [[people/y-t-yan|Y. T. Yan (顏裕庭)]]
-- [[people/ya-fei-chuang|Ya-Fei Chuang (莊雅斐)]]
-- [[people/ya-hui-chiu|Ya-hui Chiu (邱雅惠博士)]]
-- [[people/ya-hui-wang|Ya-Hui Wang (王雅惠)]]
-- [[people/yabo-soong|Yabo Soong (宋亞伯)]]
-- [[people/yali-chen|Yali Chen (陳雅莉)]]
-- [[people/yang-xin|Yang Hsin (楊信)]]
-- [[people/yang-yang|Yang Yang (楊陽)]]
-- [[people/yang-yuanxun|Yang Yuan-xun / 楊遠薰]]
-- [[people/yang-yueqing|Yang Yue-qing / 楊月清]]
-- [[people/yang-ziqing|Yang Zi-qing (楊子清)]]
-- [[people/ye-ming-wu|Ye-Ming Wu (吳怡明)]]
-- [[people/ye-siya|Yeh Ssu-ya / 葉思雅]]
-- [[people/ye-siya-zhang-xinhui|Ye Siya & Zhang Xinhui (葉思雅、張信惠)]]
-- [[people/yea-hwang-uang|Yea-Hwang Uang (汪雅煌博士)]]
-- [[people/yen-ching-chiu|Yen-Ching Chiu (邱彥菁)]]
-- [[people/yen-kuang-chen|Yen-Kuang Chen]]
-- [[people/yen-sen-chen|Yen-Sen Chen (陳彥升)]]
-- [[people/yensan-simon-wang|Yensan Simon Wang (王燕山)]]
-- [[people/yi-cheng-liu|Yi-Cheng Liu]]
-- [[people/yi-cheng-wang|Yi-Cheng Wang (王奕程)]]
-- [[people/yi-cherng-lin|Yi-Cherng Lin (林宜誠)]]
-- [[people/yi-fang-huang|Yi-Fang Huang (黃亦芳)]]
-- [[people/yi-ho-cheng|Yi-Ho Cheng (鄭義和)]]
-- [[people/yi-hsin-lin|Yi-Hsin Lin (林宜欣)]]
-- [[people/yi-ju-chen|Yi-Ju Chen (陳怡如)]]
-- [[people/yi-miao-huang|Yi-Miao Huang (黃怡妙)]]
-- [[people/yi-ming-chen|Yi-Ming Chen (陳怡名)]]
-- [[people/yi-ming-liu|Yi-Ming Liu (劉怡明)]]
-- [[people/yi-sen-lee|Yi Sen Lee (李意盛)]]
-- [[people/yi-ting-christine-hsieh|Yi-Ting Christine Hsieh]]
-- [[people/yi-ting-hsieh|Yi-Ting Hsieh]]
-- [[people/yien-hwei-franklin-lee|Yien-hwei Franklin Lee (李彥輝醫師)]]
-- [[people/yih-fu-shiau|Yih-Fu Shiau (蕭逸夫)]]
-- [[people/yih-loong-lai|Yih-Loong Lai (賴義隆博士)]]
-- [[people/yih-nan-chiou|Yih-Nan Chiou (邱義男)]]
-- [[people/yili-hsu|Yili Hsu (許義莉)]]
-- [[people/yilien-hsu|Yilien Hsu]]
-- [[people/yin-yin-huang|Yin Yin Huang (黄煐媖)]]
-- [[people/ying-chen-kao|Ying-Chen Kao (高盈真)]]
-- [[people/ying-hsuan-sun|Ying-Hsuan Sun (孫英玄)]]
-- [[people/ying-ming-huang|Ying-ming Huang (黃英明)]]
-- [[people/ying-ying-chen|Ying-Ying Chen (陳盈穎)]]
-- [[people/yiwei-lin|Yiwei Lin (林怡薇)]]
-- [[people/youming-chen|Youming Chen (陳猶明)]]
-- [[people/yu-an-chang|Yu-An Chang (張宇安)]]
-- [[people/yu-chia-hsiao|Yu-Chia Hsiao]]
-- [[people/yu-chieh-jack-wang|Yu-Chieh Jack Wang]]
-- [[people/yu-chien-benny-tseng|Yu-Chien Benny Tseng (曾宇謙)]]
-- [[people/yu-fang-chang|Yu-Fang Chang (張玉芳)]]
-- [[people/yu-han-yeh|Yu-Han Yeh (葉宇涵)]]
-- [[people/yu-hsuan-liao|Yu-Hsuan Liao (廖又萱)]]
-- [[people/yu-hui-chang|Yu-Hui Chang (張玉慧)]]
-- [[people/yu-jie|Yu Chieh (余杰)]]
-- [[people/yu-ming-huang|Yu-Ming Huang (黃昱銘)]]
-- [[people/yu-ru-huang|Yu-Ru Huang 䈎 (郁如)]]
-- [[people/yu-sui-hung|Yu-Sui Hung (洪育穗)]]
-- [[people/yu-tsai|Yu Tsai (蔡羽)]]
-- [[people/yu-wen-chen|Yu-Wen Chen (陳郁雯)]]
-- [[people/yu-wen-wu|Yu-Wen Wu]]
-- [[people/yuan-chen-li|Yuan-Chen Li (李元貞)]]
-- [[people/yuan-chuan-lee|Yuan Chuan Lee (李遠川)]]
-- [[people/yuan-shuh-lii|Yuan-Shuh Lii (李元恕)]]
-- [[people/yuan-tsong-chen|Yuan-Tsong Chen (陳垣崇博士)]]
-- [[people/yuan-zhihui|Yuan Chih-hui / 袁智慧]]
-- [[people/yuan-zong-lai|Yuan Zong Lai (賴元榮)]]
-- [[people/yue-juan-joanne-guo|Yue-Juan Joanne Guo (郭玥娟)]]
-- [[people/yuhan-su|Yuhan Su (蘇郁涵)]]
-- [[people/yuhsuan-liu-aldridge|Yuhsuan Liu Aldridge (劉于瑄)]]
-- [[people/yun-tse-tsai|Yun-Tse Tsai]]
-- [[people/yung-chiao-wei|Yung-Chiao Wei (魏詠蕎)]]
-- [[people/yung-hwa-hsu|Yung Hwa Hsu (許永華)]]
-- [[people/yung-lo-lin|Yung-Lo Lin (林永樂)]]
-- [[people/yung-tsai-yen|Yung-Tsai Yen (顏永財博士)]]
-- [[people/yunn-mei-lin|Yunn-Mei Lin (林詠梅)]]
-- [[people/yunn-shan-ma|Yunn-Shan Ma (馬韻珊)]]
-- [[people/yvonne-cheng|Yvonne Cheng (鄭瑜英)]]
-- [[people/yvonne-lin|Yvonne lin (林韻玉)]]
-- [[people/yvonne-yifang-wang|Yvonne Yifang Wang (王亦凡博士)]]
+- [Valentina Wen-Ting Huang (黃文亭)](./valentina-wen-ting-huang)
+- [Vania King (金久慈)](./vania-king)
+- [Vera Hui-pin Hsu (許惠品)](./vera-hui-pin-hsu)
+- [Vera Yang (楊悅英)](./vera-yang)
+- [Victor Hung (洪家棟)](./victor-hung)
+- [Victor Liu (劉亮華)](./victor-liu)
+- [Victoria Linchong (林鍾維春)](./victoria-linchong)
+- [Vincent C. Lai (賴經都)](./vincent-c-lai)
+- [Vivian Y.G. Fu (林郁子)](./vivian-y-g-fu)
 
-<h3 id="z">Z</h3>
-- [[people/z-h-yang|Z. H. Yang (楊日信博士)]]
-- [[people/z-z-sun|Z.Z. Sun (孫足枝)]]
-- [[people/zai-xing-wang|Zai-Xing Wang (王再興)]]
-- [[people/zeng-daoxiong|Zeng Dao-xiong (曾道雄)]]
-- [[people/zhang-xuanxin|Zhang Xuanxin (張宣信)]]
-- [[people/zheng-bing-quan|Zheng Bingquan (鄭炳全)]]
-- [[people/zheng-bingquan|Zheng Bing-quan / 鄭炳全]]
-- [[people/zheng-dazhi|Zheng Dazhi (鄭達志)]]
-- [[people/zheng-quansheng|Zheng Quansheng (鄭泉聲)]]
-- [[people/zheng-shaoliang|Zheng Shaoliang (鄭紹良)]]
-- [[people/zhou-wei-liang|Zhou Weiliang (周威廉)]]
-- [[people/zhou-wei-lin|Zhou Weilin (周威霖)]]
-- [[people/zoe-huang|Zoe Huang (黃瑞芬)]]
-- [[people/zwu-shi-lin|Zwu-Shi Lin (林竹信)]]
+### W {#w}
 
+- [W. B. Liu (劉文彬)](./w-b-liu)
+- [W. C. Huang (黃維城)](./w-c-huang)
+- [W. C. Jen (任雯娟)](./w-c-jen)
+- [W. D. Lee 李 (李武達)](./w-d-lee)
+- [W. I. Chen (陳石溫愛)](./w-i-chen)
+- [W. J. James Chung (鍾文忠)](./w-j-james-chung)
+- [W. S. Chen (陳務憲)](./w-s-chen)
+- [W. S. Lee (李武雄)](./w-s-lee)
+- [W. S. Lin (林維熊)](./w-s-lin)
+- [W. Y. Chou (周婉窈)](./w-y-chou)
+- [W.C. Lin (林文釗)](./w-c-lin)
+- [Walter Dunn (陳梧水醫師)](./walter-dunn)
+- [Walter H Shiau (蕭鴻模)](./walter-h-shiau)
+- [Walter M. Yang (楊茂嘉博士)](./walter-m-yang)
+- [Wan-Lin Tsai (蔡宛霖博士)](./wan-lin-tsai)
+- [Wan-Lung Chuang (莊婉玲)](./wan-lung-chuang)
+- [Wang Chiao-ling / 王峭嶺](./wang-qiaoling)
+- [Wang Dan / 王丹](./wang-dan)
+- [Wang Gui-rong (王桂榮)](./wang-gui-rong)
+- [Wang Jin-pyng / Wang Jin-ping (王金平)](./wang-jinping)
+- [Wang Neng-xiang (王能祥)](./wang-neng-xiang)
+- [Wang Rongyi (王榮義)](./wang-rongyi)
+- [Wang Shu-fen / 王淑芬](./wang-shufen)
+- [Wang Taihe (王泰和)](./wang-taihe)
+- [Wang Yao-ting & Xie Xiulan (王耀廷、謝秀緞)](./wang-yao-ting-xie-xiulan)
+- [Wang Yao-ting (王耀廷)](./wang-yao-ting)
+- [Warren D. Yu](./warren-d-yu)
+- [Wayne Lee (李家瑋)](./wayne-lee)
+- [Wei Boji (魏博基)](./wei-boji)
+- [Wei Jane Chir (池農深)](./wei-jane-chir)
+- [Wei Jingsheng / 魏京生](./wei-jingsheng)
+- [Wei Ming Hwang (黃維明)](./wei-ming-hwang)
+- [Wei Wei Bai (白偉瑋)](./bai-weiwei)
+- [Wei-Chiang Chen](./wei-chiang-chen)
+- [Wei-Chin Lin (林威震)](./wei-chin-lin)
+- [Wei-Der Huang (黃瑋德)](./wei-der-huang)
+- [Wei-En Hsu (徐惟恩)](./wei-en-hsu)
+- [Wei-Ling Chen (陳為伶)](./wei-ling-chen)
+- [Wei-Shou Hu (胡維碩)](./wei-shou-hu)
+- [Wei-Shuan Yu (尤韋琁)](./wei-shuan-yu)
+- [Weiko Lin (林偉克)](./weiko-lin)
+- [Weiting Liu (劉威廷)](./weiting-liu)
+- [Weiyin Chen (陳偉茵)](./weiyin-chen)
+- [Wellington Welly Yang (楊呈偉)](./wellington-welly-yang)
+- [Wen Chi Chang (張文祺)](./wen-chi-chang)
+- [Wen Chi Lee (李文枝)](./wen-chi-lee)
+- [Wen Jer Chen (陳文哲)](./wen-jer-chen)
+- [Wen S. Charlie Chern (陳文雄博士)](./wen-s-charlie-chern)
+- [Wen Shean Young (楊文顯博士)](./wen-shean-young)
+- [Wen Yen Chen (陳文彥教授)](./wen-yen-chen)
+- [Wen-Jei Yang (楊文偕教授)](./wen-jei-yang)
+- [Wen-Ling Tu (杜文苓)](./wen-ling-tu)
+- [Wen-Yih Sun (商文義)](./wen-yih-sun)
+- [Wen-Yin Chan (詹雯茵)](./wen-yin-chan)
+- [Wen. H. Chang (張文旭)](./wen-h-chang)
+- [Wen_Chen Chen (陳文成教授)](./wen_chen-chen)
+- [Wendy Cheng (鄭昕)](./wendy-cheng)
+- [Wendy Fang Chen Tilp (陳丹蘋)](./wendy-fang-chen-tilp)
+- [Wenhsiung Luke Huang (黃文雄)](./wenhsiung-luke-huang)
+- [Wenhui Cai (蔡文輝)](./wenhui-cai)
+- [Wenlan Chia (賈雯蘭)](./wenlan-chia)
+- [Whe-Lan Wu Detrick (迪惠蘭)](./whe-lan-wu-detrick)
+- [Wilfred Su (蘇文隆牧師)](./wilfred-su)
+- [Will Tiao (刁毓能)](./will-tiao)
+- [William Cho (卓甫良)](./william-cho)
+- [William Chung (鍾桂榮博士)](./william-chung)
+- [William H. Lee (李錫洋)](./william-h-lee)
+- [William Shu (許子祥)](./william-shu)
+- [William Yau (姚火草)](./william-yau)
+- [William Yeh (葉振忠)](./william-yeh)
+- [Willy Pan (潘建宇)](./willy-pan)
+- [Wilson Wang (王唯昇)](./wilson-wang)
+- [Winnie Cheng-Wen Lai (賴政雯)](./winnie-cheng-wen-lai)
+- [Winnie Chiu (藍月卿)](./winnie-chiu)
+- [Winnie Lan-In Yang (楊嵐茵)](./winnie-lan-in-yang)
+- [Winston T. Dang (陳重信)](./winston-t-dang)
+- [Winston Wen (溫隆志)](./winston-wen)
+- [Wu Li-pei / 吳澧培](./wu-lipei)
+- [Wu-Lang Lee (李五郎博士)](./wu-lang-lee)
+- [Wu-Pei Su (蘇武沛)](./wu-pei-su)
 
+### X {#x}
 
+- [Xia Ming / 夏明](./xia-ming)
+- [Xie Qingzhi & Xie Poyi (謝清志、謝泊怡)](./xie-qingzhi-xie-poyi)
+- [Xu Shitan (徐士坦)](./xu-shitan)
 
+### Y {#y}
 
+- [Y. C. Chen (陳英燦)](./y-c-chen)
+- [Y. C. Hsu (許耀慶)](./y-c-hsu)
+- [Y. F. Yang (楊雲鳳)](./y-f-yang)
+- [Y. H. Liang (梁琰華)](./y-h-liang)
+- [Y. H. Lin (林永雄)](./y-h-lin)
+- [Y. J. Chung (鍾宜君)](./y-j-chung)
+- [Y. L. Lin (林玉郎)](./y-l-lin)
+- [Y. L. Shieh (沈郁良)](./y-l-shieh)
+- [Y. S. Chen (陳雨辛)](./y-s-chen)
+- [Y. S. Huang (黃炎松)](./y-s-huang)
+- [Y. S. Lee (李延禧)](./y-s-lee)
+- [Y. S. Tseng (曾元勝)](./y-s-tseng)
+- [Y. T. Yan (顏裕庭)](./y-t-yan)
+- [Y.C. Hsu (許英智)](./y-c-hsu-2)
+- [Y.T.LIN (林又新博士)](./y-t-lin)
+- [Ya-Fei Chuang (莊雅斐)](./ya-fei-chuang)
+- [Ya-hui Chiu (邱雅惠博士)](./ya-hui-chiu)
+- [Ya-Hui Wang (王雅惠)](./ya-hui-wang)
+- [Yabo Soong (宋亞伯)](./yabo-soong)
+- [Yali Chen (陳雅莉)](./yali-chen)
+- [Yang Chengwei (楊呵偉)](./yang-chengwei)
+- [Yang Hsin (楊信)](./yang-xin)
+- [Yang Huiqiao (楊惠喬)](./yang-huiqiao)
+- [Yang Yang (楊陽)](./yang-yang)
+- [Yang Yuan-xun / 楊遠薰](./yang-yuanxun)
+- [Yang Yue-qing / 楊月清](./yang-yueqing)
+- [Yang Zhengxiang (Ethan Yang)](./yang-zhengxiang)
+- [Yang Zi-qing (楊子清)](./yang-ziqing)
+- [Ye Siya & Zhang Xinhui (葉思雅、張信惠)](./ye-siya-zhang-xinhui)
+- [Ye-Ming Wu (吳怡明)](./ye-ming-wu)
+- [Yea-Hwang Uang (汪雅煌博士)](./yea-hwang-uang)
+- [Yeh Ssu-ya / 葉思雅](./ye-siya)
+- [Yen-Ching Chiu (邱彥菁)](./yen-ching-chiu)
+- [Yen-Kuang Chen](./yen-kuang-chen)
+- [Yen-Sen Chen (陳彥升)](./yen-sen-chen)
+- [Yensan Simon Wang (王燕山)](./yensan-simon-wang)
+- [Yi Sen Lee (李意盛)](./yi-sen-lee)
+- [Yi-Cheng Liu](./yi-cheng-liu)
+- [Yi-Cheng Wang (王奕程)](./yi-cheng-wang)
+- [Yi-Cherng Lin (林宜誠)](./yi-cherng-lin)
+- [Yi-Fang Huang (黃亦芳)](./yi-fang-huang)
+- [Yi-Ho Cheng (鄭義和)](./yi-ho-cheng)
+- [Yi-Hsin Lin (林宜欣)](./yi-hsin-lin)
+- [Yi-Ju Chen (陳怡如)](./yi-ju-chen)
+- [Yi-Miao Huang (黃怡妙)](./yi-miao-huang)
+- [Yi-Ming Chen (陳怡名)](./yi-ming-chen)
+- [Yi-Ming Liu (劉怡明)](./yi-ming-liu)
+- [Yi-Ting Christine Hsieh](./yi-ting-christine-hsieh)
+- [Yi-Ting Hsieh](./yi-ting-hsieh)
+- [Yien-hwei Franklin Lee (李彥輝醫師)](./yien-hwei-franklin-lee)
+- [Yih-Fu Shiau (蕭逸夫)](./yih-fu-shiau)
+- [Yih-Loong Lai (賴義隆博士)](./yih-loong-lai)
+- [Yih-Nan Chiou (邱義男)](./yih-nan-chiou)
+- [Yili Hsu (許義莉)](./yili-hsu)
+- [Yilien Hsu](./yilien-hsu)
+- [Yin Yin Huang (黄煐媖)](./yin-yin-huang)
+- [Ying-Chen Kao (高盈真)](./ying-chen-kao)
+- [Ying-Hsuan Sun (孫英玄)](./ying-hsuan-sun)
+- [Ying-ming Huang (黃英明)](./ying-ming-huang)
+- [Ying-Ying Chen (陳盈穎)](./ying-ying-chen)
+- [Yiwei Lin (林怡薇)](./yiwei-lin)
+- [Youming Chen (陳猶明)](./youming-chen)
+- [Yu Chieh (余杰)](./yu-jie)
+- [Yu Tsai (蔡羽)](./yu-tsai)
+- [Yu-An Chang (張宇安)](./yu-an-chang)
+- [Yu-Chia Hsiao](./yu-chia-hsiao)
+- [Yu-Chieh Jack Wang](./yu-chieh-jack-wang)
+- [Yu-Chien Benny Tseng (曾宇謙)](./yu-chien-benny-tseng)
+- [Yu-Fang Chang (張玉芳)](./yu-fang-chang)
+- [Yu-Han Yeh (葉宇涵)](./yu-han-yeh)
+- [Yu-Hsuan Liao (廖又萱)](./yu-hsuan-liao)
+- [Yu-Hui Chang (張玉慧)](./yu-hui-chang)
+- [Yu-Ming Huang (黃昱銘)](./yu-ming-huang)
+- [Yu-Ru Huang 䈎 (郁如)](./yu-ru-huang)
+- [Yu-Sui Hung (洪育穗)](./yu-sui-hung)
+- [Yu-Wen Chen (陳郁雯)](./yu-wen-chen)
+- [Yu-Wen Wu](./yu-wen-wu)
+- [Yuan Chih-hui / 袁智慧](./yuan-zhihui)
+- [Yuan Chuan Lee (李遠川)](./yuan-chuan-lee)
+- [Yuan Zong Lai (賴元榮)](./yuan-zong-lai)
+- [Yuan-Chen Li (李元貞)](./yuan-chen-li)
+- [Yuan-Shuh Lii (李元恕)](./yuan-shuh-lii)
+- [Yuan-Tsong Chen (陳垣崇博士)](./yuan-tsong-chen)
+- [Yue-Juan Joanne Guo (郭玥娟)](./yue-juan-joanne-guo)
+- [Yuhan Su (蘇郁涵)](./yuhan-su)
+- [Yuhsuan Liu Aldridge (劉于瑄)](./yuhsuan-liu-aldridge)
+- [Yun-Tse Tsai](./yun-tse-tsai)
+- [Yung Hwa Hsu (許永華)](./yung-hwa-hsu)
+- [Yung-Chiao Wei (魏詠蕎)](./yung-chiao-wei)
+- [Yung-Lo Lin (林永樂)](./yung-lo-lin)
+- [Yung-Tsai Yen (顏永財博士)](./yung-tsai-yen)
+- [Yunn-Mei Lin (林詠梅)](./yunn-mei-lin)
+- [Yunn-Shan Ma (馬韻珊)](./yunn-shan-ma)
+- [Yvonne Cheng (鄭瑜英)](./yvonne-cheng)
+- [Yvonne lin (林韻玉)](./yvonne-lin)
+- [Yvonne Yifang Wang (王亦凡博士)](./yvonne-yifang-wang)
 
+### Z {#z}
 
-
-
-
-<h3 id="other">#</h3>
-
-- [[people/alexander-macdonald|馬偕 → George Leslie Mackay]]
-- [[people/chen-wenshi|陳文石 (Chen Wenshi)]]
-- [[people/chen-wenxue|陳文學 (Chen Wenxue)]]
-- [[people/fan-qingliang|范清亮 (Fan Qingliang)]]
-- [[people/gene-tsai|蔡錦榮 (Gene Tsai)]]
-- [[people/li-mutong|李木通 (Li Mutong)]]
-- [[people/sandra-wright-shen|‧‧沈 Sandra Wright Shen (仙杜拉)]]
-- [[people/tah-p-02202e862f|%E5%8D%93%E6%81%92%E5%88%A9 (卓恒利)]]
-- [[people/tah-p-04e87d0c6a|%E9%83%Ad%E9%9B%A8%E6%96%B0 (郭雨新)]]
-- [[people/tah-p-08c51934b7|%E6%9E%97%E8%8A%B8 (林芸)]]
-- [[people/tah-p-096c81c4f5|%E8%Ac%9D%E6%98%Ad%E6%A2%85%E5%A4%8F%E7%9C%89 (謝昭梅夏眉)]]
-- [[people/tah-p-0c2b755a64|%E7%8E%8B%E4%Bd%A9%E7%91%A4 (王佩瑤)]]
-- [[people/tah-p-0e321dc33f|%E8%94%A1%E4%Bd%A9%E5%90%9B (蔡佩君)]]
-- [[people/tah-p-0f50cf1291|%E5%90%B3%E6%9C%88%E7%Be%8E (吳月美)]]
-- [[people/tah-p-13236f3ab7|%E9%99%B3%E5%9C%8B%E6%88%90 (陳國成)]]
-- [[people/tah-p-161a8a78cc|%E5%8A%89%E9%9D%92%E8%97%9C%E5%8D%9A%E5%A3%Ab (劉青藜博士)]]
-- [[people/tah-p-1725abf16b|%E6%9F%Af%E6%89%Bf%E5%Ae%B6 (柯承家)]]
-- [[people/tah-p-1912485b35|%E8%91%89%E9%9B%B2%E6%97%97 (葉雲旗)]]
-- [[people/tah-p-1bf2083742|%E9%Ad%8F%E8%89%Af%E5%A4%99 (魏良夙)]]
-- [[people/tah-p-1c92380779|%E9%99%B3%E6%A8%82%E7%Be%A4 (陳樂群)]]
-- [[people/tah-p-217c354681|%E6%9E%97%E6%Ad%A3%E5%89%9B (林正剛)]]
-- [[people/tah-p-230622a660|%E6%9D%8E%E7%A7%89%E6%9E%97%E5%8D%9A%E5%A3%Ab (李秉林博士)]]
-- [[people/tah-p-23744668d9|%E8%91%89%E5%Ad%9F%E8%8A%B8 (葉孟芸)]]
-- [[people/tah-p-26d063c006|%E6%9D%8E%E5%8F%B0%E5%85%89 (李台光博士)]]
-- [[people/tah-p-2b6d280f0f|%E9%99%B3%E5%Bb%Ba%E8%B3%93 (陳建賓)]]
-- [[people/tah-p-2b6f08e693|%E9%83%Ad%E5%A6%82%E6%9C%88 (郭如月)]]
-- [[people/tah-p-2c7888f54d|%E9%Ab%98%E5%93%B2%E4%B8%80 (高哲一)]]
-- [[people/tah-p-2cc9076139|%E9%99%B3%E7%Be%8E%E6%B4%A5 (陳美津)]]
-- [[people/tah-p-2f601a3b72|%E6%Ba%Ab%E7%8E%89%E5%A6%99 (溫玉妙)]]
-- [[people/tah-p-32f8852a8b|%E9%99%B3%E7%Be%A9%E9%9B%84 (陳義雄)]]
-- [[people/tah-p-344b17ce25|%E5%90%B3%E4%B8%9E%E7%Ab%A3 (吳丞竣)]]
-- [[people/tah-p-3496456ca5|%E5%91%A8%E6%98%Ad%E4%Ba%Ae (周昭亮)]]
-- [[people/tah-p-372f20f9ee|%E6%9E%97%E7%A6%8F%E8%A3%95 (林福裕)]]
-- [[people/tah-p-3a1a1d0836|%E8%98%87%E6%B7%Bb%E8%B2%B4 (蘇添貴)]]
-- [[people/tah-p-3bba902925|%E6%9E%97%E5%Bf%A0%E5%8B%9D (林忠勝)]]
-- [[people/tah-p-3dcf0f5bcb|%E8%B3%B4%E6%9D%B1%E6%88%90 (賴東成)]]
-- [[people/tah-p-3fce859644|%E7%8E%8B%E7%85%A7%E5%85%89 (王照光)]]
-- [[people/tah-p-400b8fbb05|%E6%96%Bd%E5%Bd%A5%E4%Bc%83 (施彥伃博士)]]
-- [[people/tah-p-402dfe9c41|%E5%Bc%B5%E5%A6%99%E8%8F%Af (張妙華)]]
-- [[people/tah-p-464a81f5f0|%E8%91%89%E8%8B%B1%E5%A0%83 (葉英堃博士)]]
-- [[people/tah-p-46d31b6447|%E6%9E%97%E8%89%Af%E5%Bd%Ac (林良彬)]]
-- [[people/tah-p-46e0b09a87|%E6%B9%Af%E6%98%87%E5%8B%87 (湯昇勇)]]
-- [[people/tah-p-47a0a66e24|%E6%9E%97%E5%B0%9A%E6%Ad%A6 (林尚武)]]
-- [[people/tah-p-48d42f32e0|%E9%99%B3%E4%Be%86%E6%B2%Bb (陳來治)]]
-- [[people/tah-p-4b7e8e54e2|%E9%99%B3%E6%98%Ad%E4%Bf%8A (陳昭俊博士)]]
-- [[people/tah-p-4e2cc68fdc|%E5%Bc%B5%E8%82%85 (張肅)]]
-- [[people/tah-p-5ca0031b5f|%E8%8E%8A%E6%9E%97%E7%B4%A0%E8%8A%B3 (莊林素芳)]]
-- [[people/tah-p-5cf2b4632a|%E9%A0%88%E8%97%A4%E6%Ad%A3%E5%Ad%90 (須藤正子)]]
-- [[people/tah-p-5e9ef27eba|%E9%99%B3%E5%Ae%9C%E8%93%81 %E5%8D%9A%E5%A3%Ab (陳宜蓁博士)]]
-- [[people/tah-p-62fd568361|%E5%Ba%B7%E7%Be%8E%E7%8F%8D (康美珍)]]
-- [[people/tah-p-63a087360f|%E6%A5%8A%E5%95%9F%E6%98%8E (楊啟明)]]
-- [[people/tah-p-650c4a6677|%E7%8E%8B%E6%99%Af%E5%Bc%98 (王景弘)]]
-- [[people/tah-p-6808fc35f1|%E6%B4%Aa%E8%8E%89%E7%8E%B2 (洪莉玲)]]
-- [[people/tah-p-6d8ba3d584|%E7%8E%8B%E4%Ba%Ba%E7%B4%80 (王人紀)]]
-- [[people/tah-p-6f2c4b9d8d|%E9%Bb%83%E7%Be%8E%E8%8F%81 (黃美菁)]]
-- [[people/tah-p-6f52d6733e|%E5%8A%89%E6%B0%B8%E6%96%8C (劉永斌)]]
-- [[people/tah-p-73e6156ed8|%E9%Bb%83%E9%82%B1%E6%B7%91%E6%83%A0 (黃邱淑惠)]]
-- [[people/tah-p-78afe78c03|%E9%99%B3%E7%8E%B2%E7%8E%89 (陳玲玉博士)]]
-- [[people/tah-p-7e080ca41d|%E6%9D%8E%E4%B8%Ad%E5%Bf%97 (李中志)]]
-- [[people/tah-p-850ffab5db|%E5%91%A8%E6%94%Bf%E5%Bf%A0 (周政忠)]]
-- [[people/tah-p-8b0212151d|%E6%96%Bd%E9%Ba%97%E5%Aa%9B (施麗媛)]]
-- [[people/tah-p-8b5bcc4bca|%E9%Bb%83%E4%B8%96%E6%83%A0 (黃世惠)]]
-- [[people/tah-p-8c33cb949b|%E8%B3%B4%E6%B1%9F%E6%A4%Bf (賴江椿)]]
-- [[people/tah-p-8c5a93b3d4|%E7%8E%8B%E5%Ba%B7%E5%8E%9A (王康厚)]]
-- [[people/tah-p-9078eeef12|%E7%8E%8B%E6%83%A0%E6%B4%A5 (王惠津)]]
-- [[people/tah-p-957ce8befb|%E7%9F%B3%E9%9D%92%E5%A6%82 (石青如)]]
-- [[people/tah-p-9893db816a|%E8%98%87%E5%Bf%83%E4%B8%80 (蘇心一)]]
-- [[people/tah-p-9a69693e1e|%E8%B3%B4%E9%87%91%E5%Be%B7 (賴金德)]]
-- [[people/tah-p-9af7a1ae9e|%E9%99%B3%E9%87%91%E6%9D%Be (陳金松)]]
-- [[people/tah-p-a2aa6c2089|%E6%9D%8E%E6%B3%B0%E9%9B%84 (李泰雄筆名)]]
-- [[people/tah-p-a80569567d|%E6%9E%97%E5%Ad%9D%E4%Bf%A1 (林孝信)]]
-- [[people/tah-p-ad385bd78f|%E6%9E%97%E5%Bd%B0%E5%Bd%A9 (林彰彩)]]
-- [[people/tah-p-aed84f7112|%E9%Bb%83%E9%96%8B%E6%A6%Ae (黃開榮)]]
-- [[people/tah-p-b172331fd9|%E5%Bc%B5%E4%Bf%A1%E5%A0%82 (張信堂)]]
-- [[people/tah-p-b256f6296d|%E8%B3%B4%E9%B4%Bb%E6%Af%85 (賴鴻毅)]]
-- [[people/tah-p-b3e363fd2d|%E9%99%B3%E7%90%A6%E7%91%A4 (陳琦瑤)]]
-- [[people/tah-p-b5dfddaa1e|%E9%Bb%83%E8%94%A1%E7%91%9E%E9%9B%B2 (黃蔡瑞雲)]]
-- [[people/tah-p-b632d1d1a3|%E6%9E%97%E7%Be%8E%E7%8E%B2 (林美玲)]]
-- [[people/tah-p-bc8a207e2e|%E6%B4%Aa%E8%Bc%9D%E9%9B%84 (洪輝雄)]]
-- [[people/tah-p-bcf3a35e0a|%E5%8A%89%E6%96%87%E7%Ab%A0 (劉文章)]]
-- [[people/tah-p-bebef2fc0f|%E9%99%B3%E7%82%B3%E8%A1%A1 (陳炳衡)]]
-- [[people/tah-p-c5ccd73bf1|%E9%99%B3%E5%9C%8B%E6%98%8E (陳國明)]]
-- [[people/tah-p-c727e71d65|%E6%9E%97%E5%Ae%89%E9%87%8C (林安里)]]
-- [[people/tah-p-d0f36c77d3|%E6%9D%8E%E5%Bd%A5%E7%A7%80 (李彥秀)]]
-- [[people/tah-p-d699884bcd|%E9%84%Ad%E5%Be%B7%E5%92%8C (鄭德和)]]
-- [[people/tah-p-dbd0edebb9|%E9%Bb%83%E7%A7%80%E8%8F%Af (黃秀華)]]
-- [[people/tah-p-de93a9fd26|%E9%Bb%83%E8%81%96%E7%A5%90 %E5%8D%9A%E5%A3%Ab (黃聖祐博士)]]
-- [[people/tah-p-e00ace0a3a|%E6%Af%9B%E6%B8%85%E8%8A%Ac (毛清芬)]]
-- [[people/tah-p-e0d94fd09b|%E9%99%B3%E8%A5%Bf%E5%9C%92 (陳西園)]]
-- [[people/tah-p-e19e178fe4|%E9%84%Ad%E8%A8%B1%E6%A2%85 (鄭許梅)]]
-- [[people/tah-p-e842a7cf22|%E6%A5%8A%E9%87%91%E6%96%87 (楊金文)]]
-- [[people/tah-p-e8a9f7b57c|%E8%95%Ad%E6%A8%82%E5%96%84 (蕭樂善)]]
-- [[people/tah-p-f09674a9b0|%E8%94%A1%E6%96%87%E7%8E%89 (蔡文玉)]]
-- [[people/tah-p-f29b98a03f|%E6%9D%9C%E5%Ae%9B%E7%8F%8A (杜宛珊)]]
-- [[people/tah-p-f2a1bb4ac0|%E6%9D%8E%E7%8E%89%E7%90%9B (李玉琛醫師)]]
-- [[people/tah-p-f5d7338384|%E6%9E%97%E9%9B%85%E7%8E%B2 (林雅玲)]]
-- [[people/tah-p-f831dcdf3e|%E9%99%B3%E5%9C%8B%E9%9B%84 (陳國雄)]]
-- [[people/wang-kexiong|王克雄 (Wang Kexiong)]]
-- [[people/xie-qingzhi-xie-poyi|謝清志、謝泊怡 (Xie Qingzhi & Xie Poyi)]]
-- [[people/xu-zongbang|許宗邦 (Xu Zongbang)]]
-- [[people/yang-chengwei|楊呵偉 (Yang Chengwei)]]
-- [[people/yang-huiqiao|楊惠喬 (Yang Huiqiao)]]
-- [[people/yang-zhengxiang|楊正光 (Ethan Yang)]]
-
-## Network
-
-Pages that link to **index** (index):
-
-
-### People (17)
-
-1. [[people/alexander-macdonald|alexander-macdonald]]
-2. [[people/hu-gstpc|hu-gstpc]]
-3. [[people/ku-gstpc|ku-gstpc]]
-4. [[people/leonard-hsu-jr|leonard-hsu-jr]]
-5. [[people/qiu-yunen|qiu-yunen]]
-6. [[people/shoki-coe|shoki-coe]]
-7. [[people/wang-gstpc|wang-gstpc]]
-8. [[people/wang-xinxin|wang-xinxin]]
-9. [[people/willy-pan|willy-pan]]
-10. [[people/xiao-xien|xiao-xien]]
-11. [[people/xie-dali|xie-dali]]
-12. [[people/xie-xinguang|xie-xinguang]]
-13. [[people/xie-xinzhong|xie-xinzhong]]
-14. [[people/xu-wenkai|xu-wenkai]]
-15. [[people/zhang-xuanxin|zhang-xuanxin]]
-16. [[people/zheng-quansheng|zheng-quansheng]]
-17. [[people/zhuang-xinde|zhuang-xinde]]
-
-### Organizations (3)
-
-1. [[organizations/ntpc|ntpc]]
-2. [[organizations/presbyterian-church-in-taiwan|presbyterian-church-in-taiwan]]
-3. [[organizations/taiwan-formosa|taiwan-formosa]]
+- [Z. H. Yang (楊日信博士)](./z-h-yang)
+- [Z.Z. Sun (孫足枝)](./z-z-sun)
+- [Zai-Xing Wang (王再興)](./zai-xing-wang)
+- [Zeng Dao-xiong (曾道雄)](./zeng-daoxiong)
+- [Zhang Xuanxin (張宣信)](./zhang-xuanxin)
+- [Zheng Bing-quan / 鄭炳全](./zheng-bingquan)
+- [Zheng Bingquan (鄭炳全)](./zheng-bing-quan)
+- [Zheng Dazhi (鄭達志)](./zheng-dazhi)
+- [Zheng Quansheng (鄭泉聲)](./zheng-quansheng)
+- [Zheng Shaoliang (鄭紹良)](./zheng-shaoliang)
+- [Zhou Weiliang (周威廉)](./zhou-wei-liang)
+- [Zhou Weilin (周威霖)](./zhou-wei-lin)
+- [Zoe Huang (黃瑞芬)](./zoe-huang)
+- [Zwu-Shi Lin (林竹信)](./zwu-shi-lin)
