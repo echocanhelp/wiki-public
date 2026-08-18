@@ -1,28 +1,36 @@
 ---
-title: "陳文石 (Chen Wenshi)"
+title: "Stone Chen (陳文石)"
 type: person
+name_en: "Stone Chen"
+name_zh: "陳文石"
 tags:
   - person
   - Taiwanese-American
   - tahs-publication-2023
   - artist
   - entrepreneur
+  - painter
 verification_status: pending
 last_reviewed: 2026-08-18
 ---
-# 陳文石 (Chen Wenshi)
+# Stone Chen (陳文石)
+
+**Stone Chen** is the **public / legal English name** on TAH Who’s Who (`English Name: Stone Chen`). **陳文石** is the 漢名. **Chen Wenshi** is a Pinyin dump — display only, not the legal EN. Slug stays `chen-wenshi`. Alias page: [[people/stone-chen]].
 
 ## Identity Snapshot
 
-- **English:** Chen Wenshi
+- **English (legal / TAH):** Stone Chen
 - **Chinese:** 陳文石
-- **Core roles:** artist, educator
-- **Content priority:** B (ingestion depth — see [[sources/2023-tahs-publication|source]])
-- **Geography:** Taiwan, Japan, United States
+- **Also seen:** Chen Wenshi (Pinyin; not the TAH English field)
+- **Born:** 1943, 宜蘭 / Ilan
+- **Core roles:** painter; interior designer; educator; community leader
+- **US:** Los Angeles / San Gabriel area from 1979 (TAH) — 2023 TAHS pub also says 1979; CNA/TJ 2020 says 1978. Keep both.
+- **Content priority:** A (2023 TAHS 菁英錄 + TAH Who’s Who)
+- **Geography:** 宜蘭 → Taipei → Los Angeles
 
 ## Overview
 
-Chen Wenshi is profiled in the 2023 TAHS Publication (台美菁英錄 第二輯). He is a Taiwanese American artist, interior designer, and entrepreneur whose life spans the transition from Japanese colonial rule through the 228 Incident, the rise of Taiwan's industrial economy, and his eventual emigration to the United States. His career encompasses early struggles as a street vendor and factory worker, rise as a successful interior designer and real estate investor in Taiwan, and later artistic achievements in the United States.
+**Stone Chen (陳文石)** is profiled in the 2023 TAHS Publication (台美菁英錄 第二輯) and TAH Who’s Who. Taiwanese American artist, interior designer, and entrepreneur. Life spans Japanese colonial rule, 228, Taiwan’s industrial boom, and emigration to the United States. Career: street-vendor painter and factory work → interior design / real estate in Taiwan → painting, motels, and civic posts in LA.
 
 ## Career
 
@@ -83,6 +91,30 @@ Chen Wenshi is profiled in the 2023 TAHS Publication (台美菁英錄 第二輯)
 - He invested in Thailand's stock market, purchasing shares in BBL Bank when the Thai stock index was at 660, achieving significant returns
 - In 1989, he visited Shanghai but decided against investing due to political risks
 - In 1991, he held his first art exhibition in Los Angeles with the theme "Nostalgia for Home," featuring rural Taiwanese scenes that resonated deeply with fellow Taiwanese
+
+## TAH Who’s Who (named rows — not a second bio)
+
+TAH card title **Stone Chen 陳文石**. English Name = **Stone Chen**. Do not overwrite the 2023 narrative above with these rows.
+
+| Year | Fact | Source |
+|---|---|---|
+| 1969 | 復興美術工藝學校畢業 (Fu-Shing Art and Vocational School) | TAH EN + ZH |
+| 1974–75 | 師大美術系 — TAH table says 1974 B.S. 美術; TAH prose says 1975. **Not** the same claim as the 2023 pub’s 1960–64 成大外文 | TAH |
+| 1976 | 文化大學任教 | TAH |
+| 1976 | 邱永漢關係企業求美藝術公司總經理 | TAH ZH (2023 pub romanizes a partner as Qiu Wanhong — do not merge or split without another source) |
+| 1979 | Immigrated; settled Los Angeles | TAH |
+| 1984 | 北美洲文藝協會會員 | TAH |
+| 1985 | 聖谷藝術協會會員 | TAH |
+| 1990 | SCTUF-invited oil solo; 北美台灣人文藝協會藝術成就獎 | TAH |
+| 1991 | 北美洲台灣文藝協會會長 | TAH |
+| 1994 | With 林顯模: 李石樵美術館, 藝術總監 | TAH — no person pages yet |
+| 1995 | With 林哲雄醫師 et al.: 台灣望春風文化出版社 | TAH |
+| 2000 | 民進黨美西黨部主委 | TAH; CNA/TJ 2020 also says 曾任民主進步黨美西黨部主委 |
+| 2006 | 全僑和平民主聯盟總盟理事長 | TAH |
+| 2007–08 | Chairman, [[organizations/taiwan-center|大洛杉磯台灣會館]] | TAH |
+| 2018-08-09 | Co-coordinator, 蕭泰然音樂節 / Maestro [[people/tyzen-hsiao|Tyzen Hsiao]] Music Festival, LA | TAH |
+
+Education **conflict, keep both:** 2023 TAHS pub: 1960 成大外文, 1964 graduate. TAH: 1969 復興美工, 1974/75 師大美術. Do not flatten into one degree.
 
 ## Legacy
 
@@ -260,10 +292,14 @@ Notable quotes and mentions of **陳文石** in Taiwan Justice articles:
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/stone-chen/)
 
 ## Related Pages
+- [[people/stone-chen|Stone Chen]] — alias / TAH slug
+- [[people/tyzen-hsiao|Tyzen Hsiao (蕭泰然)]]
+- [[organizations/taiwan-center|大洛杉磯台灣會館]]
+- [[organizations/democratic-progressive-party|DPP]]
 - [[organizations/tah-foundation|TAH Foundation]]
-
 - [[organizations/taiwanese-american-historical-society|TAHS]]
 - [[sources/2023-tahs-publication|2023 TAHS Publication]]
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
 
 ## TJ Citations
 
