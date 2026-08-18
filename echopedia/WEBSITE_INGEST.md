@@ -43,6 +43,9 @@
 ### C. Wiki absorption (Tier 1) — this is what was missing
 - [ ] **`content/sources/<domain-slug>.md`** work/source hub (site as primary source + GitHub/archive paths + entity index links)  
 - [ ] **Primary page** (usually `organizations/…` or `people/…`) expanded from **all** A-tier clusters in the fact sheet, not homepage only  
+- [ ] **About / 簡介 / History / Mission** from the official intro page is **prose on the primary page** (dated archive cite). Archive-only + a 3-line History = **not** absorbed. Continuity will **never** write this (no AUTO About rewrite).  
+- [ ] Fact sheet lists History / Mission / membership-scale as A-tier clusters, not only board names  
+- [ ] If a TAH (or other) directory slug is the same org → `redirect_to` the canonical primary; do not leave a second thin org page  
 - [ ] **People with official roles + enough A-tier** → own `people/` page **or** explicit “listed only; thin page TBD” in fact sheet (prefer create thin A-tier page if name+role+source solid)  
 - [ ] **Orgs that already have Echopedia pages** → first-mention wikilinks both ways where relevant  
 - [ ] **High-value orgs without pages** that appear as structural members (e.g. FAPA-LA) → create **thin** org page **or** leave plain text with reason in fact sheet (default: **create thin page** if listed as formal group member and has clear English/Chinese name)  
@@ -87,9 +90,11 @@
 **List-heavy pages (group members):**  
 - Create or link **notable** orgs (those with existing wiki pages + clear TAHS-nexus priorities).  
 - Remainder: structured list on primary or source page + “full list in archive `…-group-members.md`”.  
-- Do **not** create 80 empty stub pages in one shot unless user says `create all member org stubs`.
+- Do **not** create 80 empty stub pages in one shot unless user says `create all member org stubs`.  
+- A 76-row member dump **without** the official 設立過程 / 宗旨 is still **thin**. Graph ≠ narrative.  
 
-**Default for board officers:** create/update **thin person pages** for officers (chair, CEO, secretary-general, etc.); individual directors can be table on primary page unless user asks for all person pages.
+**Default for board officers:** create/update **thin person pages** for officers (chair, CEO, secretary-general, etc.); individual directors can be table on primary page unless user asks for all person pages.  
+**Past officers** named on TAH / intro (first chair, named 董事長 years) belong on the primary History table — do not invent the gaps.
 
 ---
 
@@ -152,7 +157,7 @@ Mass writes: ingestion-protocol pitfalls **33–36** (cron-silent) before publis
 | When | New site / major rebuild | Weekly watch of **already ingested** live sites |
 | SSOT | This doc | `knowledge/operational/source-watch-registry.json` + `source-continuity.md` |
 | Cron | None (on demand) | **+1** Sunday 06:00 only |
-| AUTO | N/A (agent/planner) | Tier2 append, `last_reviewed`, clean event stubs |
+| AUTO | N/A (agent/planner) | Tier2 append, `last_reviewed`, clean event stubs — **never** About/History prose |
 | Push | `echopedia-publish.sh` | **Never** — rides **ci-heal** |
 
 **After COMPLETE live site:**  
