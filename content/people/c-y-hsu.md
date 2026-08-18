@@ -109,6 +109,7 @@ TAH #49 / person card: 許贊育先生，字化功，一九一〇年生於台灣
 - [[people/ahhee-hsu|Ahhee Hsu 許丕龍]]
 - [[people/hsu-ling-yun|許凌雲]]
 - [[people/hsu-ching-chun|許景淳]]
+- [[people/yang-jia-you|Charles Yang 楊嘉猷]]
 - [[organizations/taiwanese-alliance-for-interculture-southern-california|南加州臺灣協志社]]
 - [[organizations/presbyterian-church-in-taiwan|PCT]]
 - [[organizations/taiwan-center|台灣會館]]
