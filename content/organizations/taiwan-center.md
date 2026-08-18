@@ -10,13 +10,15 @@ tags:
   - Taiwan-School
   - Alhambra
 verification_status: published
-last_reviewed: 2026-07-30
+last_reviewed: 2026-08-18
 ---
 # Taiwan Center Foundation of the Greater Los Angeles (大洛杉磯台灣會館)
 
-**Taiwan Center Foundation of the Greater Los Angeles** (大洛杉磯台灣會館基金會; Taiwan Center / TWCLA) is a **501(c)(3)** nonprofit cultural and community institution for Taiwanese Americans in Southern California.
+**Taiwan Center Foundation of the Greater Los Angeles** (大洛杉磯台灣會館基金會; Taiwan Center / **TWCLA**) is a **501(c)(3)** nonprofit. Official intro: one of the largest overseas Taiwan cultural institutions — education, arts, and community service for Taiwanese Americans in Southern California. Site: **800+** permanent individual members and **50+** group members; **36** directors. They call it the 龍頭 of LA 台美人社團.
 
 **Official site:** [taiwancenter.org](https://www.taiwancenter.org/) · **Source hub:** [[sources/taiwancenter-org|taiwancenter.org full-domain archive]]
+
+Do **not** confuse with [[organizations/new-york-taiwan-center|New York Taiwan Center]]. The TAH directory slug `taiwan-center-foundation-of-greater-los-angeles` is a **redirect** here.
 
 ## Identity Snapshot
 
@@ -24,6 +26,7 @@ last_reviewed: 2026-07-30
 |-------|--------|
 | **English** | Taiwan Center Foundation of the Greater Los Angeles |
 | **Chinese** | 大洛杉磯台灣會館基金會 / 台灣會館 |
+| **Earlier name** | 南加州台灣會館基金會 (1998–2001) |
 | **Legal** | 501(c)(3) · EIN **95-4679702** |
 | **Address** | 901 S. Fremont Ave. #118, Alhambra, CA 91803 |
 | **Phone / Email** | (626) 307-4881 · tcgla@taiwancenterla.org |
@@ -32,11 +35,38 @@ last_reviewed: 2026-07-30
 
 ## History
 
-In 1998, **王桂榮 (Wang Kuei-jung / Kenjohn Wang)** donated property in Rosemead. **吳澧培 (Wu Li-pei)** then convened fundraising with **40+** Taiwanese organizations and ~**1,000** donors (~**US$1M**). The Foundation was established **12 June 1998** and renamed **2001**.
+Official [會館簡介](https://www.taiwancenter.org/introduction) (archive 2026-07-16):
 
-## Contact
+In 1998, 僑務委員 **[[people/wang-gui-rong|王桂榮 (Kenjohn Wang)]]** donated property in **Rosemead** (柔斯蜜). **[[people/wu-lipei|吳澧培 (Li-Pei Wu)]]**, then 萬通銀行總裁, convened fundraising: **40+** Taiwanese organizations and ~**1,000** donors, ~**US$1M**. On **12 June 1998** they formed **南加州台灣會館基金會**, a nonprofit that owns and runs **南加州台灣會館**. Purpose: 宣揚台灣文化與傳統; 促進台美人與外族裔溝通了解. **2001** renamed **大洛杉磯台灣會館**.
 
-901 S. Fremont Ave. #118, Alhambra, CA 91803 · (626) 307-4881 · tcgla@taiwancenterla.org · Tue–Sun 10:00–18:00
+Same founding sentence appears on a 2020 TASF scholarship notice (TJ). TAH encyclopedia **#162**: 吳澧培 / **南加州台灣會館第一任董事長 / 1998**.
+
+### Chairs we can name (do not invent the gaps)
+
+| Years | Chair | Source |
+|---|---|---|
+| 1998 (first) | [[people/wu-lipei|吳澧培]] | TAH #162 |
+| 2007–2008 | [[people/chen-wenshi|Stone Chen 陳文石]] | TAH Who’s Who (會館董長) |
+| current (site board) | [[people/alan-thian|Alan Thian 田詒鴻]] | taiwancenter.org/board |
+
+Middle years are **not** filled from memory.
+
+### New building (2025–)
+
+Official events: [[events/tc-event-groundbreaking-ceremony|動土典禮]] **3 May 2025**; [[events/tc-event-construction-progress-of-the-building|新館建館工程進度]] **5 Feb 2026**. Intro page lists 建館委員會 / 硬體規畫 / 募款 / 室內設計 committees. Do not invent budget, architect, or opening date.
+
+## Mission (official four)
+
+From the same 簡介:
+
+1. 舉辦公益、文藝及教育活動，發揚台灣文化傳統
+2. 促進與主流社會交流，提升台美人形象
+3. 培養第二代台美人，傳承優質文化
+4. 鼓勵台美人積極參與社區事務
+
+## Organization (scale)
+
+Official: **36** directors; 董事長兼會館會長; 正副監事長 / 財務長 / 秘書長; 會長以下六位副會長; 十個委員會及工作小組. **800+** permanent individual members; **50+** group members. Current officer names are the **board table below** (site listing) — not a second invented slate.
 
 ## Board of Directors (all 27)
 
@@ -180,5 +210,11 @@ In 1998, **王桂榮 (Wang Kuei-jung / Kenjohn Wang)** donated property in Rosem
 ## Related Pages
 
 - [[sources/taiwancenter-org|taiwancenter.org]]
-- Board & teachers: see sections above
-- Group members: full linked list above
+- [[people/wang-gui-rong|王桂榮 (Kenjohn Wang)]] — land gift
+- [[people/wu-lipei|吳澧培]] — first chair / fundraising
+- [[people/chen-wenshi|Stone Chen 陳文石]] — 2007–08 chair
+- [[people/alan-thian|Alan Thian 田詒鴻]] — current 董事長
+- [[people/simon-lin|Simon Lin 林榮松]] — 執行長
+- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/new-york-taiwan-center|New York Taiwan Center]] — different org
+- Board, school, group members: sections above
