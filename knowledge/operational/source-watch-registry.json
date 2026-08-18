@@ -55,7 +55,9 @@
       ],
       "seed_urls": [
         "https://gstpc.org/home/",
-        "https://gstpc.org/"
+        "https://gstpc.org/",
+        "https://gstpc.org/home/about-us/",
+        "https://gstpc.org/home/our-vision/"
       ],
       "url_include_regex": null,
       "url_exclude_regex": "wp-admin|cart|login",
@@ -90,7 +92,8 @@
       ],
       "seed_urls": [
         "https://www.irvinetpc.org/",
-        "https://www.irvine-tpc.org/"
+        "https://www.irvine-tpc.org/",
+        "https://www.irvinetpc.org/About/AboutUs.html"
       ],
       "url_include_regex": null,
       "url_exclude_regex": "wp-admin|cart|login",

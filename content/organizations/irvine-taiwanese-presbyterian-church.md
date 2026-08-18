@@ -25,7 +25,7 @@ Irvine Taiwanese Presbyterian Church (ITPC, 爾灣台灣基督長老教會) is a
 
 ITPC was established around 2012 as a Taiwanese-language congregation for immigrants and retirees in the Southern California area, particularly in [[Irvine]] and [[Laguna Woods Village]]. The church found a home through a partnership with Geneva Presbyterian Church, which opened its chapel for ITPC's worship services. The community consists largely of Taiwanese-born retirees who relocated to the area after retiring from careers across the United States.
 
-The church has maintained a continuous presence for over a decade, celebrating its 515th anniversary with a commemorative booklet in 2023. The congregation has grown from a small gathering to a community of approximately 120 members who worship in the Taiwanese (Hokkien/台语) language each Sunday.
+The church has maintained a continuous presence for over a decade. The site lists a **2023 515紀念冊** ([Drive PDF](https://drive.google.com/file/d/1neFS8L5gwOi0AAQHpAROd75Gn1vrXaYE/view?usp=sharing)) — that is the booklet **title**, not a claim the church is 515 years old. The congregation is about **120** members; Sunday worship in 台語.
 
 In August 2025, Rev. Li Fu-Jen (李輔仁牧師) began his pastoral ministry at ITPC, succeeding Rev. Chen Meihui (陳美蕙) and Rev. Zhang Xuanxin (張宣信), who had served the congregation in various capacities over the years.
 
