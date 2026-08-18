@@ -116,7 +116,7 @@ STATUS: COMPLETE | PARTIAL (reason)
 NARRATIVE: python3 $REPO/scripts/echopedia-ingest-complete.py --only <id>
 ```
 
-**STATUS: COMPLETE** only if §2 A–D all checked **and** `echopedia-ingest-complete.py --only <id>` exits 0. Planner checkbox alone is not enough.
+**STATUS: COMPLETE** only if §2 A–D all checked **and** `echopedia-ingest-complete.py --only <id>` exits 0. Planner checkbox alone is not enough. `echopedia-ops-check.sh` runs the same script (🟡 WARN on PARTIAL, no new cron).
 
 ---
 
