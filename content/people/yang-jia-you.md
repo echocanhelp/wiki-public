@@ -153,37 +153,37 @@ Pages that link to **楊嘉猷** (yang-jia-you):
 
 ### People (22)
 
-1. [[people/alan-thian.md|alan-thian]]
-2. [[people/anne-shih.md|anne-shih]]
-3. [[people/bob-j-wu.md|bob-j-wu]]
-4. [[people/franklin-ping-cheng.md|franklin-ping-cheng]]
-5. [[people/ho-chie-tsai.md|ho-chie-tsai]]
-6. [[people/hsu-hsin-hung.md|hsu-hsin-hung]]
-7. [[people/huang-gen-shen.md|huang-gen-shen]]
-8. [[people/jack-j-chen.md|jack-j-chen]]
-9. [[people/katherine-huang.md|katherine-huang]]
-10. [[people/liao-shu-zong.md|liao-shu-zong]]
-11. [[people/lin-chao-quan.md|lin-chao-quan]]
-12. [[people/lin-fu-kun.md|lin-fu-kun]]
-13. [[people/lin-yuan-ching.md|lin-yuan-ching]]
-14. [[people/martha-vandriel.md|martha-vandriel]]
-15. [[people/shawna-yang-ryan.md|shawna-yang-ryan]]
-16. [[people/tiffany-huang.md|tiffany-huang]]
-17. [[people/wang-gui-rong.md|wang-gui-rong]]
-18. [[people/wang-neng-xiang.md|wang-neng-xiang]]
-19. [[people/wang-yao-ting.md|wang-yao-ting]]
-20. [[people/zheng-bing-quan.md|zheng-bing-quan]]
-21. [[people/zhou-wei-lin.md|zhou-wei-lin]]
-22. [[people/zhou-wei-lin.md|zhou-wei-lin]]
+1. [[people/alan-thian|alan-thian]]
+2. [[people/anne-shih|anne-shih]]
+3. [[people/bob-j-wu|bob-j-wu]]
+4. [[people/franklin-ping-cheng|franklin-ping-cheng]]
+5. [[people/ho-chie-tsai|ho-chie-tsai]]
+6. [[people/hsu-hsin-hung|hsu-hsin-hung]]
+7. [[people/huang-gen-shen|huang-gen-shen]]
+8. [[people/jack-j-chen|jack-j-chen]]
+9. [[people/katherine-huang|katherine-huang]]
+10. [[people/liao-shu-zong|liao-shu-zong]]
+11. [[people/lin-chao-quan|lin-chao-quan]]
+12. [[people/lin-fu-kun|lin-fu-kun]]
+13. [[people/lin-yuan-ching|lin-yuan-ching]]
+14. [[people/martha-vandriel|martha-vandriel]]
+15. [[people/shawna-yang-ryan|shawna-yang-ryan]]
+16. [[people/tiffany-huang|tiffany-huang]]
+17. [[people/wang-gui-rong|wang-gui-rong]]
+18. [[people/wang-neng-xiang|wang-neng-xiang]]
+19. [[people/wang-yao-ting|wang-yao-ting]]
+20. [[people/zheng-bing-quan|zheng-bing-quan]]
+21. [[people/zhou-wei-lin|zhou-wei-lin]]
+22. [[people/zhou-wei-lin|zhou-wei-lin]]
 
 ### Organizations (1)
 
-1. [[organizations/taiwanese-american-historical-society.md|taiwanese-american-historical-society]]
+1. [[organizations/taiwanese-american-historical-society|taiwanese-american-historical-society]]
 
 ### Sources (2)
 
-1. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
-2. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
+1. [[sources/2017-tahs-publication|2017-tahs-publication]]
+2. [[sources/2017-tahs-publication|2017-tahs-publication]]
 
 ## Timeline
 

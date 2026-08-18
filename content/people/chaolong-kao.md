@@ -92,21 +92,21 @@ Pages that link to **chaolong-kao** (chaolong-kao):
 
 ### People (6)
 
-1. [[people/albert-s-lai.md|albert-s-lai]]
-2. [[people/albert-s-lai.md|albert-s-lai]]
-3. [[people/c-c-chen.md|c-c-chen]]
-4. [[people/daniel-kao.md|daniel-kao]]
-5. [[people/daniel-kao.md|daniel-kao]]
-6. [[people/jonah-chang.md|jonah-chang]]
+1. [[people/albert-s-lai|albert-s-lai]]
+2. [[people/albert-s-lai|albert-s-lai]]
+3. [[people/c-c-chen|c-c-chen]]
+4. [[people/daniel-kao|daniel-kao]]
+5. [[people/daniel-kao|daniel-kao]]
+6. [[people/jonah-chang|jonah-chang]]
 
 ### Organizations (2)
 
-1. [[organizations/formosan-presbyterian-church-in-los-angeles.md|formosan-presbyterian-church-in-los-angeles]]
-2. [[organizations/formosan-presbyterian-church-in-los-angeles.md|formosan-presbyterian-church-in-los-angeles]]
+1. [[organizations/formosan-presbyterian-church-in-los-angeles|formosan-presbyterian-church-in-los-angeles]]
+2. [[organizations/formosan-presbyterian-church-in-los-angeles|formosan-presbyterian-church-in-los-angeles]]
 
 ### Sources (1)
 
-1. [[sources/toward-a-community-of-hope.md|toward-a-community-of-hope]]
+1. [[sources/toward-a-community-of-hope|toward-a-community-of-hope]]
 
 ## Source Notes and Confidence
 

@@ -186,9 +186,9 @@ Pages that link to **李東璞** (david-lee):
 
 ### People (3)
 
-1. [[people/index.md|index]]
-2. [[people/ken-wu.md|ken-wu]]
-3. [[people/rex-chen.md|rex-chen]]
+1. [[people/index|index]]
+2. [[people/ken-wu|ken-wu]]
+3. [[people/rex-chen|rex-chen]]
 
 ## Related Pages
 

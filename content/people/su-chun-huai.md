@@ -51,17 +51,17 @@ Pages that link to **su-chun-huai** (su-chun-huai):
 
 ### People (1)
 
-1. [[people/lisa-su.md|lisa-su]]
+1. [[people/lisa-su|lisa-su]]
 
 ### Sources (1)
 
-1. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
+1. [[sources/2017-tahs-publication|2017-tahs-publication]]
 
 ## Sources
 - [TAH #183 oral history: 183. President of NYTC – 蘇春槐 Chun-Hwai Su’s Journey | TAH Taiwanese Americans Or](https://taiwaneseamericanhistory.org/video-183/)
 - [TAH #2117 encyclopedia: 2117. C. H. Su 蘇春槐](https://taiwaneseamericanhistory.org/whos-who-2117-c-h-su/) (1)
 
-1. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
+1. [[sources/2017-tahs-publication|2017-tahs-publication]]
 
 ## Source Notes and Confidence
 

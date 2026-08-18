@@ -1,4 +1,16 @@
-## Site design audit — 2026-08-18 08:30
+=== SITE DESIGN HEAL — 2026-08-18 dry=0 audit_only=1 ===
+flags: heal=True featured=True publish=True
+SITE_DESIGN_STATUS: ACTION
+SITE_DESIGN_SUMMARY: critical=0 high=1 medium=1 md=2842 heals=none
+HIGH: [B2] pinned featured pages: 47 (cap 6 people + 3 orgs; overflow hides recency)
+SITE_DESIGN_BRIEF: /home/leedt/echo-system/echopedia/site-design-brief.md
+SITE_DESIGN_HEAL: audit-only status=ACTION
+=== SITE DESIGN AUDIT ===
+SITE_DESIGN_STATUS: ACTION
+SITE_DESIGN_SUMMARY: critical=0 high=1 medium=1 md=2842 heals=none
+HIGH: [B2] pinned featured pages: 47 (cap 6 people + 3 orgs; overflow hides recency)
+SITE_DESIGN_BRIEF: /home/leedt/echo-system/echopedia/site-design-brief.md
+## Site design audit — 2026-08-18 08:15
 
 - pages_md=2842
 - critical=0 high=1 medium=1

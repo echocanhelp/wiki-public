@@ -93,16 +93,16 @@ Pages that link to **黃根深** (huang-gen-shen):
 
 ### People (6)
 
-1. [[people/franklin-ping-cheng.md|franklin-ping-cheng]]
-2. [[people/liao-shu-zong.md|liao-shu-zong]]
-3. [[people/lin-fu-kun.md|lin-fu-kun]]
-4. [[people/wang-gui-rong.md|wang-gui-rong]]
-5. [[people/yang-jia-you.md|yang-jia-you]]
-6. [[people/yang-xin.md|yang-xin]]
+1. [[people/franklin-ping-cheng|franklin-ping-cheng]]
+2. [[people/liao-shu-zong|liao-shu-zong]]
+3. [[people/lin-fu-kun|lin-fu-kun]]
+4. [[people/wang-gui-rong|wang-gui-rong]]
+5. [[people/yang-jia-you|yang-jia-you]]
+6. [[people/yang-xin|yang-xin]]
 
 ### Organizations (1)
 
-1. [[organizations/taiwanese-american-historical-society.md|taiwanese-american-historical-society]]
+1. [[organizations/taiwanese-american-historical-society|taiwanese-american-historical-society]]
 
 ## Quotes
 

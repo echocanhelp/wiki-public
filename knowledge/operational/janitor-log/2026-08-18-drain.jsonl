@@ -18,3 +18,23 @@
 {"path": "articles/taiwanjustice-net/2026/20260122064246_荷媒稱台灣獨立國家_專訪唐鳳以數位科技抗疫_da4205a89547a369.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
 {"path": "articles/taiwanjustice-net/2026/20260125130505_美最高法院大法官barrett參議聽證會開場_賀錦麗可能_fc2754efed620769.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
 {"path": "articles/taiwanjustice-net/2026/20260208205725_美軍電偵機現蹤台灣南部海域-_4月來第11度_a796ba2c0e018682.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "people/chen-meihui.md", "findings": ["LINK_BODY_SPARSE", "LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/guo-yingyan.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/li-furen.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "sources/toward-a-community-of-hope.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "organizations/formosan-presbyterian-church-in-los-angeles.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "organizations/irvine-taiwanese-presbyterian-church.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/chaolong-kao.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/daniel-kao.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/pingtung-lai.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "organizations/global-alliance-for-democracy-and-peace-la.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "sources/irvine-taiwanese-presbyterian-church.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "organizations/taiwanese-american-foundation-of-san-diego.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "sources/2017-tahs-publication.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/lien-hwa-chow.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "articles/taiwanjustice-net/2026/20260209113414_美媒_華府估基輔4天內淪陷_烏克蘭領導層約一週_cfe313c815fedaa9.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["refresh last_reviewed"]}
+{"path": "articles/taiwanjustice-net/2026/20260115093430_最高法院允許川普政府執行嚴格的綠卡審議政策_18e34aef2ee7cc6d.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["refresh last_reviewed"]}
+{"path": "articles/taiwanjustice-net/2026/20260121005456_史達偉_美台經濟對話為三公報及台灣關係法允許_c09409335151d4ee.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["refresh last_reviewed"]}
+{"path": "articles/taiwanjustice-net/2026/20260122064246_荷媒稱台灣獨立國家_專訪唐鳳以數位科技抗疫_da4205a89547a369.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["refresh last_reviewed"]}
+{"path": "articles/taiwanjustice-net/2026/20260125130505_美最高法院大法官barrett參議聽證會開場_賀錦麗可能_fc2754efed620769.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["refresh last_reviewed"]}
+{"path": "articles/taiwanjustice-net/2026/20260208205725_美軍電偵機現蹤台灣南部海域-_4月來第11度_a796ba2c0e018682.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["refresh last_reviewed"]}

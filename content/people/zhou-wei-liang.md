@@ -42,13 +42,13 @@ Pages that link to **zhou-wei-liang** (zhou-wei-liang):
 
 ### People (3)
 
-1. [[people/sam-chang.md|sam-chang]]
-2. [[people/sam-chang.md|sam-chang]]
-3. [[people/zhou-wei-lin.md|zhou-wei-lin]]
+1. [[people/sam-chang|sam-chang]]
+2. [[people/sam-chang|sam-chang]]
+3. [[people/zhou-wei-lin|zhou-wei-lin]]
 
 ### Sources (1)
 
-1. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
+1. [[sources/2017-tahs-publication|2017-tahs-publication]]
 
 ## Related Pages
 

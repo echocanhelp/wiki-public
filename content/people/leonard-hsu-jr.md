@@ -104,12 +104,12 @@ Pages that link to **許景鴻** (leonard-hsu-jr):
 
 ### People (6)
 
-1. [[people/david-lee.md|david-lee]]
-2. [[people/index.md|index]]
-3. [[people/ken-wu.md|ken-wu]]
-4. [[people/ken-wu.md|ken-wu]]
-5. [[people/rex-chen.md|rex-chen]]
-6. [[people/rex-chen.md|rex-chen]]
+1. [[people/david-lee|david-lee]]
+2. [[people/index|index]]
+3. [[people/ken-wu|ken-wu]]
+4. [[people/ken-wu|ken-wu]]
+5. [[people/rex-chen|rex-chen]]
+6. [[people/rex-chen|rex-chen]]
 
 ## Quotes
 

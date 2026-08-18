@@ -1,7 +1,8 @@
 {
   "date": "2026-08-18",
   "standards_version": 8,
-  "total_pages_scanned": 603,
+  "total_pages_scanned": 2836,
+  "pages_with_findings": 603,
   "auto_queued": 5,
   "queue": [
     {

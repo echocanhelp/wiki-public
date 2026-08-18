@@ -58,18 +58,18 @@ Pages that link to **c-c-chen** (c-c-chen):
 
 ### People (3)
 
-1. [[people/albert-s-lai.md|albert-s-lai]]
-2. [[people/albert-s-lai.md|albert-s-lai]]
-3. [[people/daniel-kao.md|daniel-kao]]
+1. [[people/albert-s-lai|albert-s-lai]]
+2. [[people/albert-s-lai|albert-s-lai]]
+3. [[people/daniel-kao|daniel-kao]]
 
 ### Organizations (2)
 
-1. [[organizations/formosan-presbyterian-church-in-los-angeles.md|formosan-presbyterian-church-in-los-angeles]]
-2. [[organizations/formosan-presbyterian-church-in-los-angeles.md|formosan-presbyterian-church-in-los-angeles]]
+1. [[organizations/formosan-presbyterian-church-in-los-angeles|formosan-presbyterian-church-in-los-angeles]]
+2. [[organizations/formosan-presbyterian-church-in-los-angeles|formosan-presbyterian-church-in-los-angeles]]
 
 ### Sources (1)
 
-1. [[sources/toward-a-community-of-hope.md|toward-a-community-of-hope]]
+1. [[sources/toward-a-community-of-hope|toward-a-community-of-hope]]
 
 ## Source Notes and Confidence
 

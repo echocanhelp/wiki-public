@@ -78,12 +78,12 @@ Pages that link to **陳博志** (chen-bozhi):
 
 ### People (1)
 
-1. [[people/index.md|index]]
+1. [[people/index|index]]
 
 ### Organizations (2)
 
-1. [[organizations/good-shepherd-taiwanese-presbyterian-church.md|good-shepherd-taiwanese-presbyterian-church]]
-2. [[organizations/index.md|index]]
+1. [[organizations/good-shepherd-taiwanese-presbyterian-church|good-shepherd-taiwanese-presbyterian-church]]
+2. [[organizations/index|index]]
 
 ## Quotes
 

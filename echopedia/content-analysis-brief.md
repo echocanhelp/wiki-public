@@ -1,8 +1,8 @@
 ## Echopedia Content Analysis — 2026-08-18
 - Standards v8
-- Pages scanned: **603** with findings
+- Pages scanned: **2836** total, **603** with findings
 - Auto-queued for remediation: **5** (score ≥ 3)
-- Wall time: 2.9s
+- Wall time: 4.6s
 
 ### Top 10 pages needing attention:
 - `people/billy-chang.md` score=6 ⚠️ DESC_NO_BODY — DESC_NO_BODY, FRESHNESS_NO_REVIEW_DATE, LINKS_NO_RELATED, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE

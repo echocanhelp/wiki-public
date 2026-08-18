@@ -338,23 +338,23 @@ Pages that link to **廖述宗** (liao-shu-zong):
 
 ### People (8)
 
-1. [[people/guo-shu-qing.md|guo-shu-qing]]
-2. [[people/liao-ji-chun.md|liao-ji-chun]]
-3. [[people/lin-chao-chi.md|lin-chao-chi]]
-4. [[people/lin-chao-quan.md|lin-chao-quan]]
-5. [[people/lin-qiong-xian.md|lin-qiong-xian]]
-6. [[people/wang-gui-rong.md|wang-gui-rong]]
-7. [[people/wang-neng-xiang.md|wang-neng-xiang]]
-8. [[people/yang-xin.md|yang-xin]]
+1. [[people/guo-shu-qing|guo-shu-qing]]
+2. [[people/liao-ji-chun|liao-ji-chun]]
+3. [[people/lin-chao-chi|lin-chao-chi]]
+4. [[people/lin-chao-quan|lin-chao-quan]]
+5. [[people/lin-qiong-xian|lin-qiong-xian]]
+6. [[people/wang-gui-rong|wang-gui-rong]]
+7. [[people/wang-neng-xiang|wang-neng-xiang]]
+8. [[people/yang-xin|yang-xin]]
 
 ### Organizations (1)
 
-1. [[organizations/taiwanese-american-historical-society.md|taiwanese-american-historical-society]]
+1. [[organizations/taiwanese-american-historical-society|taiwanese-american-historical-society]]
 
 ### Sources (2)
 
-1. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
-2. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
+1. [[sources/2017-tahs-publication|2017-tahs-publication]]
+2. [[sources/2017-tahs-publication|2017-tahs-publication]]
 
 ## Quotes
 

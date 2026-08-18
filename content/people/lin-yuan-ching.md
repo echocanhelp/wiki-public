@@ -159,11 +159,11 @@ Pages that link to **lin-yuan-ching** (lin-yuan-ching):
 
 ### People (1)
 
-1. [[people/hsu-hsin-hung.md|hsu-hsin-hung]]
+1. [[people/hsu-hsin-hung|hsu-hsin-hung]]
 
 ### Sources (1)
 
-1. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
+1. [[sources/2017-tahs-publication|2017-tahs-publication]]
 
 ## Source Notes and Confidence
 

@@ -93,8 +93,8 @@ Pages that link to **albert-chapter1-en-review** (albert-chapter1-en-review):
 
 ### People (2)
 
-1. [[people/albert-s-lai.md|albert-s-lai]]
-2. [[people/index.md|index]]
+1. [[people/albert-s-lai|albert-s-lai]]
+2. [[people/index|index]]
 
 ## Related Pages
 

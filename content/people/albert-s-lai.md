@@ -269,51 +269,51 @@ Pages that link to **賴信雄** (albert-s-lai):
 
 ### People (26)
 
-1. [[people/albert-chapter1-audiobook-consent-and-recording-kit.md|albert-chapter1-audiobook-consent-and-recording-kit]]
-2. [[people/albert-chapter1-audiobook-taiwanese-female.md|albert-chapter1-audiobook-taiwanese-female]]
-3. [[people/c-c-chen.md|c-c-chen]]
-4. [[people/c-c-chen.md|c-c-chen]]
-5. [[people/chaolong-kao.md|chaolong-kao]]
-6. [[people/chaolong-kao.md|chaolong-kao]]
-7. [[people/ching-fang-chen.md|ching-fang-chen]]
-8. [[people/ching-fang-chen.md|ching-fang-chen]]
-9. [[people/daniel-kao.md|daniel-kao]]
-10. [[people/daniel-kao.md|daniel-kao]]
-11. [[people/en-sheng-pan.md|en-sheng-pan]]
-12. [[people/en-sheng-pan.md|en-sheng-pan]]
-13. [[people/fpcla.md|fpcla]]
-14. [[people/index.md|index]]
-15. [[people/jonah-chang.md|jonah-chang]]
-16. [[people/mingyuan-hsu.md|mingyuan-hsu]]
-17. [[people/ntpc.md|ntpc]]
-18. [[people/pinghsi-liu.md|pinghsi-liu]]
-19. [[people/pinghsi-liu.md|pinghsi-liu]]
-20. [[people/pingtung-lai.md|pingtung-lai]]
-21. [[people/pingtung-lai.md|pingtung-lai]]
-22. [[people/san-francisco-theological-seminary.md|san-francisco-theological-seminary]]
-23. [[people/yunching-yeh-davis.md|yunching-yeh-davis]]
-24. [[people/yunching-yeh-davis.md|yunching-yeh-davis]]
-25. [[people/zhou-wei-liang.md|zhou-wei-liang]]
-26. [[people/zhou-wei-lin.md|zhou-wei-lin]]
+1. [[people/albert-chapter1-audiobook-consent-and-recording-kit|albert-chapter1-audiobook-consent-and-recording-kit]]
+2. [[people/albert-chapter1-audiobook-taiwanese-female|albert-chapter1-audiobook-taiwanese-female]]
+3. [[people/c-c-chen|c-c-chen]]
+4. [[people/c-c-chen|c-c-chen]]
+5. [[people/chaolong-kao|chaolong-kao]]
+6. [[people/chaolong-kao|chaolong-kao]]
+7. [[people/ching-fang-chen|ching-fang-chen]]
+8. [[people/ching-fang-chen|ching-fang-chen]]
+9. [[people/daniel-kao|daniel-kao]]
+10. [[people/daniel-kao|daniel-kao]]
+11. [[people/en-sheng-pan|en-sheng-pan]]
+12. [[people/en-sheng-pan|en-sheng-pan]]
+13. [[people/fpcla|fpcla]]
+14. [[people/index|index]]
+15. [[people/jonah-chang|jonah-chang]]
+16. [[people/mingyuan-hsu|mingyuan-hsu]]
+17. [[people/ntpc|ntpc]]
+18. [[people/pinghsi-liu|pinghsi-liu]]
+19. [[people/pinghsi-liu|pinghsi-liu]]
+20. [[people/pingtung-lai|pingtung-lai]]
+21. [[people/pingtung-lai|pingtung-lai]]
+22. [[people/san-francisco-theological-seminary|san-francisco-theological-seminary]]
+23. [[people/yunching-yeh-davis|yunching-yeh-davis]]
+24. [[people/yunching-yeh-davis|yunching-yeh-davis]]
+25. [[people/zhou-wei-liang|zhou-wei-liang]]
+26. [[people/zhou-wei-lin|zhou-wei-lin]]
 
 ### Organizations (8)
 
-1. [[organizations/democratic-progressive-party.md|democratic-progressive-party]]
-2. [[organizations/democratic-progressive-party.md|democratic-progressive-party]]
-3. [[organizations/formosan-presbyterian-church-in-los-angeles.md|formosan-presbyterian-church-in-los-angeles]]
-4. [[organizations/formosan-presbyterian-church-in-los-angeles.md|formosan-presbyterian-church-in-los-angeles]]
-5. [[organizations/index.md|index]]
-6. [[organizations/national-taiwanese-presbyterian-council.md|national-taiwanese-presbyterian-council]]
-7. [[organizations/national-taiwanese-presbyterian-council.md|national-taiwanese-presbyterian-council]]
-8. [[organizations/national-taiwanese-presbyterian-council.md|national-taiwanese-presbyterian-council]]
+1. [[organizations/democratic-progressive-party|democratic-progressive-party]]
+2. [[organizations/democratic-progressive-party|democratic-progressive-party]]
+3. [[organizations/formosan-presbyterian-church-in-los-angeles|formosan-presbyterian-church-in-los-angeles]]
+4. [[organizations/formosan-presbyterian-church-in-los-angeles|formosan-presbyterian-church-in-los-angeles]]
+5. [[organizations/index|index]]
+6. [[organizations/national-taiwanese-presbyterian-council|national-taiwanese-presbyterian-council]]
+7. [[organizations/national-taiwanese-presbyterian-council|national-taiwanese-presbyterian-council]]
+8. [[organizations/national-taiwanese-presbyterian-council|national-taiwanese-presbyterian-council]]
 
 ### Sources (5)
 
-1. [[sources/toward-a-community-of-hope.md|toward-a-community-of-hope]]
-2. [[sources/toward-a-community-of-hope.md|toward-a-community-of-hope]]
-3. [[sources/toward-a-community-of-hope.md|toward-a-community-of-hope]]
-4. [[sources/wikipedia-democratic-progressive-party.md|wikipedia-democratic-progressive-party]]
-5. [[sources/wikipedia-democratic-progressive-party.md|wikipedia-democratic-progressive-party]]
+1. [[sources/toward-a-community-of-hope|toward-a-community-of-hope]]
+2. [[sources/toward-a-community-of-hope|toward-a-community-of-hope]]
+3. [[sources/toward-a-community-of-hope|toward-a-community-of-hope]]
+4. [[sources/wikipedia-democratic-progressive-party|wikipedia-democratic-progressive-party]]
+5. [[sources/wikipedia-democratic-progressive-party|wikipedia-democratic-progressive-party]]
 
 ## Quotes
 
@@ -325,58 +325,66 @@ Notable quotes and mentions of **賴信雄** in Taiwan Justice articles:
 1. "acks done/skipped/fail per file. ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
    — PILOT_NOTES (unknown)
 
-### 2022 (1 quotes)
+### 2022 (2 quotes)
 
-1. "10226 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+1. "10225 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+   — 美媒：華府估基輔4天內淪陷，烏克蘭領導層約一週垮台 (2022-02-24)
+2. "10226 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
    — 連2天同台出席 外界解讀盧秀燕蔡其昌互相較勁 (2022-02-26)
 
-### 2020 (11 quotes)
+### 2020 (16 quotes)
 
 1. "興訟敗訴，法官：黨產會處分合法 January 16, 2020 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
    — 'Tag: 黨產會處分合法' (2020-01-16)
 2. "90123 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
    — 武漢肺炎疫情擴散，法國議員籲WHO讓台灣參與 (2020-01-22)
-3. "肺炎破3500死，疫情估7天內達高峰 April 4, 2020 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+3. "利的資格。 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+   — 最高法院允許川普政府執行嚴格的綠卡審議政策 (2020-01-27)
+4. "肺炎破3500死，疫情估7天內達高峰 April 4, 2020 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
    — 'Tag: 紐約州武漢肺炎破3500死' (2020-04-04)
-4. "聯繫協調。 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+5. "疫苗之前，這是最好的替代方案 。」（編輯：郭中翰）1090417 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+   — 荷媒稱台灣獨立國家，專訪唐鳳以數位科技抗疫 (2020-04-17)
+6. "C；第11次則是今天的EP-3E。（編輯：張均懋）1090421 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+   — 美軍電偵機現蹤台灣南部海域 ，4月來第11度 (2020-04-20)
+7. "聯繫協調。 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
    — 台海軍情》公告南北300公里射擊管制區，傳中科院測試增程雄二E飛彈 (2020-04-23)
-5. "更多價值，對台灣人民生活更有幫助。（編輯：蘇志宗）1090426 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+8. "更多價值，對台灣人民生活更有幫助。（編輯：蘇志宗）1090426 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
    — 辜寬敏推制憲公投，30日向中選會提案 (2020-04-25)
-6. "本擬將脊髓性肌萎症藥物定價逾4500萬 May 12, 2020 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+9. "本擬將脊髓性肌萎症藥物定價逾4500萬 May 12, 2020 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
    — 'Tag: 日本擬將脊髓性肌萎症藥物定價逾4500萬台幣' (2020-05-12)
-7. "連43天無本土病例，居家隔離個案也歸零 May 25, 2020 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+10. "連43天無本土病例，居家隔離個案也歸零 May 25, 2020 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
    — 'Tag: 居家隔離個案也歸零' (2020-05-25)
-8. "陳昭南 《六都春秋》創辦人，曾任立法委員，現為網路媒體專欄作家。 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
-   — 國台辦訓斥國民黨　馬英九就立刻表態效忠  ◎陳昭南 (2020-06-22)
-9. "問題，可以甩鍋給中國，讓中國疫苗外交會從“天使”轉變成“魔鬼”。 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
-   — 中國疫苗外交會不會重蹈口罩覆轍？ (2020-09-19)
-10. "國會的地下教友又得回到墓穴裡哭泣。（編輯：郭中翰）1090929 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
-   — 陳日君千里求見教宗遭拒 惹哭網友，義媒為陳日君打抱不平 (2020-09-29)
 
-*...and 3 more quotes*
+*...and 9 more quotes*
 
 ## Timeline
 
 Chronological events for **賴信雄**:
 
 
-### 2022 (1 events)
+### 2022 (2 events)
 
+- **2022-02-24** 📰 美媒：華府估基輔4天內淪陷，烏克蘭領導層約一週垮台
 - **2022-02-26** 📰 連2天同台出席 外界解讀盧秀燕蔡其昌互相較勁
 
-### 2020 (11 events)
+### 2020 (16 events)
 
 - **2020-01-16** 📰 'Tag: 黨產會處分合法'
 - **2020-01-22** 🏥 武漢肺炎疫情擴散，法國議員籲WHO讓台灣參與
+- **2020-01-27** 🗳️ 最高法院允許川普政府執行嚴格的綠卡審議政策
 - **2020-04-04** 📰 'Tag: 紐約州武漢肺炎破3500死'
+- **2020-04-17** 🏥 荷媒稱台灣獨立國家，專訪唐鳳以數位科技抗疫
+- **2020-04-20** 🗳️ 美軍電偵機現蹤台灣南部海域 ，4月來第11度
 - **2020-04-23** 📰 台海軍情》公告南北300公里射擊管制區，傳中科院測試增程雄二E飛彈
 - **2020-04-25** 🏛️ 辜寬敏推制憲公投，30日向中選會提案
 - **2020-05-12** 📰 'Tag: 日本擬將脊髓性肌萎症藥物定價逾4500萬台幣'
 - **2020-05-25** 🏥 'Tag: 居家隔離個案也歸零'
 - **2020-06-22** 🗳️ 國台辦訓斥國民黨　馬英九就立刻表態效忠  ◎陳昭南
+- **2020-09-02** 🗳️ 史達偉：美台經濟對話為三公報及台灣關係法允許，北京不應有激烈反應
 - **2020-09-19** 📰 中國疫苗外交會不會重蹈口罩覆轍？
 - **2020-09-29** 🏥 陳日君千里求見教宗遭拒 惹哭網友，義媒為陳日君打抱不平
 - **2020-10-03** 📰 中國軍艦靠近台灣東部外海鄰接區，國防部：即時應處
+- **2020-10-12** 🗳️ 美最高法院大法官Barrett參議聽證會開場，賀錦麗可能出手
 
 ## Source Notes and Confidence
 

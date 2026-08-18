@@ -69,20 +69,20 @@ Pages that link to **en-sheng-pan** (en-sheng-pan):
 
 ### People (5)
 
-1. [[people/albert-s-lai.md|albert-s-lai]]
-2. [[people/albert-s-lai.md|albert-s-lai]]
-3. [[people/index.md|index]]
-4. [[people/pinghsi-liu.md|pinghsi-liu]]
-5. [[people/yunching-yeh-davis.md|yunching-yeh-davis]]
+1. [[people/albert-s-lai|albert-s-lai]]
+2. [[people/albert-s-lai|albert-s-lai]]
+3. [[people/index|index]]
+4. [[people/pinghsi-liu|pinghsi-liu]]
+5. [[people/yunching-yeh-davis|yunching-yeh-davis]]
 
 ### Organizations (2)
 
-1. [[organizations/national-taiwanese-presbyterian-council.md|national-taiwanese-presbyterian-council]]
-2. [[organizations/national-taiwanese-presbyterian-council.md|national-taiwanese-presbyterian-council]]
+1. [[organizations/national-taiwanese-presbyterian-council|national-taiwanese-presbyterian-council]]
+2. [[organizations/national-taiwanese-presbyterian-council|national-taiwanese-presbyterian-council]]
 
 ### Sources (1)
 
-1. [[sources/toward-a-community-of-hope.md|toward-a-community-of-hope]]
+1. [[sources/toward-a-community-of-hope|toward-a-community-of-hope]]
 
 ## Source Notes and Confidence
 

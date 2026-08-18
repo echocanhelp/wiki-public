@@ -31,10 +31,10 @@ Pages that link to **albert-chapter1-audiobook-taiwanese-female** (albert-chapte
 
 ### People (4)
 
-1. [[people/albert-chapter1-audiobook-consent-and-recording-kit.md|albert-chapter1-audiobook-consent-and-recording-kit]]
-2. [[people/albert-chapter1-audiobook-consent-and-recording-kit.md|albert-chapter1-audiobook-consent-and-recording-kit]]
-3. [[people/albert-s-lai.md|albert-s-lai]]
-4. [[people/index.md|index]]
+1. [[people/albert-chapter1-audiobook-consent-and-recording-kit|albert-chapter1-audiobook-consent-and-recording-kit]]
+2. [[people/albert-chapter1-audiobook-consent-and-recording-kit|albert-chapter1-audiobook-consent-and-recording-kit]]
+3. [[people/albert-s-lai|albert-s-lai]]
+4. [[people/index|index]]
 
 ## Related Pages
 

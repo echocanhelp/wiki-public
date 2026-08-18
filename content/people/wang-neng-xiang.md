@@ -80,13 +80,13 @@ Pages that link to **wang-neng-xiang** (wang-neng-xiang):
 
 ### People (3)
 
-1. [[people/wang-gui-rong.md|wang-gui-rong]]
-2. [[people/zhou-wei-lin.md|zhou-wei-lin]]
-3. [[people/zhou-wei-lin.md|zhou-wei-lin]]
+1. [[people/wang-gui-rong|wang-gui-rong]]
+2. [[people/zhou-wei-lin|zhou-wei-lin]]
+3. [[people/zhou-wei-lin|zhou-wei-lin]]
 
 ### Sources (1)
 
-1. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
+1. [[sources/2017-tahs-publication|2017-tahs-publication]]
 
 ## Source Notes and Confidence
 

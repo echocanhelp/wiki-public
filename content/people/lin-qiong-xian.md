@@ -49,8 +49,8 @@ Pages that link to **lin-qiong-xian** (lin-qiong-xian):
 
 ### People (2)
 
-1. [[people/guo-shu-qing.md|guo-shu-qing]]
-2. [[people/liao-ji-chun.md|liao-ji-chun]]
+1. [[people/guo-shu-qing|guo-shu-qing]]
+2. [[people/liao-ji-chun|liao-ji-chun]]
 
 ## Source Notes and Confidence
 

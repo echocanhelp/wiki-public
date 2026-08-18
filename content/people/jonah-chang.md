@@ -93,21 +93,21 @@ Pages that link to **jonah-chang** (jonah-chang):
 
 ### People (5)
 
-1. [[people/albert-s-lai.md|albert-s-lai]]
-2. [[people/albert-s-lai.md|albert-s-lai]]
-3. [[people/c-c-chen.md|c-c-chen]]
-4. [[people/chaolong-kao.md|chaolong-kao]]
-5. [[people/daniel-kao.md|daniel-kao]]
+1. [[people/albert-s-lai|albert-s-lai]]
+2. [[people/albert-s-lai|albert-s-lai]]
+3. [[people/c-c-chen|c-c-chen]]
+4. [[people/chaolong-kao|chaolong-kao]]
+5. [[people/daniel-kao|daniel-kao]]
 
 ### Organizations (3)
 
-1. [[organizations/formosan-presbyterian-church-in-los-angeles.md|formosan-presbyterian-church-in-los-angeles]]
-2. [[organizations/formosan-presbyterian-church-in-los-angeles.md|formosan-presbyterian-church-in-los-angeles]]
-3. [[organizations/formosan-presbyterian-church-in-los-angeles.md|formosan-presbyterian-church-in-los-angeles]]
+1. [[organizations/formosan-presbyterian-church-in-los-angeles|formosan-presbyterian-church-in-los-angeles]]
+2. [[organizations/formosan-presbyterian-church-in-los-angeles|formosan-presbyterian-church-in-los-angeles]]
+3. [[organizations/formosan-presbyterian-church-in-los-angeles|formosan-presbyterian-church-in-los-angeles]]
 
 ### Sources (1)
 
-1. [[sources/toward-a-community-of-hope.md|toward-a-community-of-hope]]
+1. [[sources/toward-a-community-of-hope|toward-a-community-of-hope]]
 
 ## Source Notes and Confidence
 

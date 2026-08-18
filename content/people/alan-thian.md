@@ -148,17 +148,17 @@ Pages that link to **田詒鴻** (alan-thian):
 
 ### People (2)
 
-1. [[people/john-chiang.md|john-chiang]]
-2. [[people/ken-wu.md|ken-wu]]
+1. [[people/john-chiang|john-chiang]]
+2. [[people/ken-wu|ken-wu]]
 
 ### Organizations (1)
 
-1. [[organizations/taiwan-center.md|taiwan-center]]
+1. [[organizations/taiwan-center|taiwan-center]]
 
 ### Sources (2)
 
-1. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
-2. [[sources/taiwancenter-org.md|taiwancenter-org]]
+1. [[sources/2017-tahs-publication|2017-tahs-publication]]
+2. [[sources/taiwancenter-org|taiwancenter-org]]
 
 ## Quotes
 

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "echopedia-nightly-audit",
+  "last_run": "slug-redirect-bot",
   "last_run_date": "2026-08-18",
   "pages_audited": 2832,
   "issues_found": 3199,
@@ -13,8 +13,8 @@
       "stale_content": 0,
       "orphans": 0,
       "details": [
-        "BROKEN: people/chen-meihui.md → people/li-furen",
-        "BROKEN: people/index.md → people/leonard-szu",
+        "BROKEN: people/chen-meihui.md \u2192 people/li-furen",
+        "BROKEN: people/index.md \u2192 people/leonard-szu",
         "NO_RELATED_PAGES: organizations/index.md",
         "NO_LAST_REVIEWED: organizations/index.md",
         "NO_RELATED_PAGES: people/index.md",
@@ -437,6 +437,29 @@
       "web_issues": 0,
       "structural": 38,
       "full_log": "/home/leedt/echo-system/echopedia/logs/nightly-audit-2026-08-18.txt"
+    },
+    {
+      "run_date": "2026-08-18",
+      "md_fixes": 1550,
+      "redirect_stubs": 5,
+      "skipped": 27,
+      "redirect_targets": [
+        "people/tsai-ing-wen",
+        "people/tsai-ing-wen",
+        "people/tsai-ing-wen",
+        "sources/irvine-taiwanese-presbyterian-church",
+        "sources/irvine-taiwanese-presbyterian-church"
+      ]
+    },
+    {
+      "run_date": "2026-08-18",
+      "md_fixes": 1571,
+      "redirect_stubs": 2,
+      "skipped": 27,
+      "redirect_targets": [
+        "people/tsai-ing-wen",
+        "sources/irvine-taiwanese-presbyterian-church"
+      ]
     }
   ],
   "resolved_issues": []

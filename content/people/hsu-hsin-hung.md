@@ -89,19 +89,19 @@ Pages that link to **hsu-hsin-hung** (hsu-hsin-hung):
 
 ### People (3)
 
-1. [[people/lin-yuan-ching.md|lin-yuan-ching]]
-2. [[people/zhou-wei-lin.md|zhou-wei-lin]]
-3. [[people/zhou-wei-lin.md|zhou-wei-lin]]
+1. [[people/lin-yuan-ching|lin-yuan-ching]]
+2. [[people/zhou-wei-lin|zhou-wei-lin]]
+3. [[people/zhou-wei-lin|zhou-wei-lin]]
 
 ### Organizations (2)
 
-1. [[organizations/overseas-community-affairs-council.md|overseas-community-affairs-council]]
-2. [[organizations/overseas-community-affairs-council.md|overseas-community-affairs-council]]
+1. [[organizations/overseas-community-affairs-council|overseas-community-affairs-council]]
+2. [[organizations/overseas-community-affairs-council|overseas-community-affairs-council]]
 
 ### Sources (2)
 
-1. [[sources/2017-tahs-publication.md|2017-tahs-publication]]
-2. [[sources/ocac-gov-tw.md|ocac-gov-tw]]
+1. [[sources/2017-tahs-publication|2017-tahs-publication]]
+2. [[sources/ocac-gov-tw|ocac-gov-tw]]
 
 ## Source Notes and Confidence
 

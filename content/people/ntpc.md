@@ -26,10 +26,10 @@ Pages that link to **ntpc** (ntpc):
 
 ### People (4)
 
-1. [[people/david-huang.md|david-huang]]
-2. [[people/index.md|index]]
-3. [[people/lien-hwa-chow.md|lien-hwa-chow]]
-4. [[people/mingyuan-hsu.md|mingyuan-hsu]]
+1. [[people/david-huang|david-huang]]
+2. [[people/index|index]]
+3. [[people/lien-hwa-chow|lien-hwa-chow]]
+4. [[people/mingyuan-hsu|mingyuan-hsu]]
 
 ## Related Pages
 - [[organizations/national-taiwanese-presbyterian-council|National Taiwanese Presbyterian Council (NTPC)]]
