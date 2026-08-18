@@ -213,38 +213,72 @@ def generate_html(pages: list) -> str:
     return html
 
 
+def _replace_div_by_id(content: str, div_id: str, inner_html: str) -> str | None:
+    needle = f'id="{div_id}"'
+    i = content.find(needle)
+    if i < 0:
+        return None
+    start = content.rfind("<div", 0, i)
+    if start < 0:
+        return None
+    pos = start
+    depth = 0
+    end = None
+    while pos < len(content):
+        nxt_open = content.find("<div", pos)
+        nxt_close = content.find("</div>", pos)
+        if nxt_close < 0:
+            return None
+        if nxt_open >= 0 and nxt_open < nxt_close:
+            depth += 1
+            pos = nxt_open + 4
+        else:
+            depth -= 1
+            pos = nxt_close + 6
+            if depth == 0:
+                end = pos
+                break
+    if end is None:
+        return None
+    block = f'<div id="{div_id}" class="echo-recent">\n{inner_html}</div>'
+    return content[:start] + block + content[end:]
+
+
 def inject_into_index(html_cards: str, index_path: Path) -> bool:
-    """Replace the first marker pair in place. Never dump before </body>."""
+    """Replace #echo-recent (preferred) or comment markers. Never dump before </body>."""
     if not index_path.exists():
         print(f"WARNING: {index_path} not found, skipping injection", file=sys.stderr)
         return False
 
     content = index_path.read_text()
+    replaced = _replace_div_by_id(content, "echo-recent", html_cards)
+    if replaced is not None:
+        index_path.write_text(replaced)
+        print(f"Injected featured cards into {index_path} (#echo-recent)")
+        return True
+
     start_marker = "<!-- featured-start -->"
     end_marker = "<!-- featured-end -->"
-    if start_marker not in content or end_marker not in content:
-        print(
-            f"WARNING: no featured markers in {index_path}; skip (will not dump before </body>)",
-            file=sys.stderr,
+    if start_marker in content and end_marker in content:
+        start = content.find(start_marker)
+        end = content.find(end_marker, start)
+        block = start_marker + "\n" + html_cards + "\n" + end_marker
+        tail = content[end + len(end_marker) :]
+        tail = re.sub(
+            re.escape(start_marker) + r".*?" + re.escape(end_marker),
+            "",
+            tail,
+            flags=re.DOTALL,
         )
-        return False
+        index_path.write_text(content[:start] + block + tail)
+        print(f"Injected featured cards into {index_path} (comment markers)")
+        return True
 
-    start = content.find(start_marker)
-    end = content.find(end_marker, start)
-    if start < 0 or end < 0:
-        print(f"WARNING: marker order broken in {index_path}", file=sys.stderr)
-        return False
-    block = start_marker + "\n" + html_cards + "\n" + end_marker
-    tail = content[end + len(end_marker) :]
-    tail = re.sub(
-        re.escape(start_marker) + r".*?" + re.escape(end_marker),
-        "",
-        tail,
-        flags=re.DOTALL,
+    print(
+        f"WARNING: no #echo-recent or featured markers in {index_path}; skip (will not dump before </body>)",
+        file=sys.stderr,
     )
-    index_path.write_text(content[:start] + block + tail)
-    print(f"Injected featured cards into {index_path} (in-place markers)")
-    return True
+    return False
 
 
 def main():
