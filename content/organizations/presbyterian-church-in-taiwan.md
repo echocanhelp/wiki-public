@@ -253,6 +253,26 @@ The Taiwan Church Press (established 1885) functions as the PCT's primary publis
 - **Growth peak:** 1955–1965 Ten-Year Double the Church Movement (doubled membership)
 - **Current trend:** Stabilized or modest decline amid broader secularization
 
+## Official announcements (index only)
+
+Listing harvested **2026-08-18** from [news_pct.aspx](https://www.pct.org.tw/news_pct.aspx). **Titles + dates + official URLs only** — article bodies not archived. Full index is longer (pagination).
+
+| Date | Headline (official) |
+|---|---|
+| 2026-08-12 | [2026性別友善及性騷擾防治研習營](https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&strContentid=C2026081200001&strDesc=Y) |
+| 2026-08-10 | [2026《新使者》聖誕特刊「果然，是你」](https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&strContentid=C2026081000001&strDesc=Y) |
+| 2026-08-06 | [針對本宗教會牧師因性侵案件遭判決聲明](https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&strContentid=C2026080600001&strDesc=Y) |
+| 2026-08-05 | [2026年婦女神學工作坊](https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&strContentid=C2026080500001&strDesc=Y) |
+| 2026-07-29 | 防災士培訓（花蓮 / 桃竹苗 / 中區 / 南區 / 北區） — see [index](https://www.pct.org.tw/news_pct.aspx) |
+| 2026-07-23 | [2026年慈善助學金申請辦法](https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&strContentid=C2026072300001&strDesc=Y) |
+| 2026-07-22 | [第71屆總會議長盃桌球錦標賽](https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&strContentid=C2026072200002&strDesc=Y) |
+| 2026-07-21 | [傳道師族群語言能力認證（第二梯次）](https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&strContentid=C2026072100001&strDesc=Y) |
+| 2026-07-15 | [2026總會教社奉獻主日](https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&strContentid=C2026071500002&strDesc=Y) |
+| 2026-05-25 | [教勢統計 2004–2023：族群與世代結構](https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&strContentid=C2026052500001&strDesc=Y) |
+| 2026-05-15 | [宋信喜等十位牧師退休公告](https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&strContentid=C2026051500004&strDesc=Y) |
+
+English listing (older / ILT-focused): [enNews_pct.aspx](https://english.pct.org.tw/enNews_pct.aspx).
+
 ## Related Pages
 
 - [[organizations/good-shepherd-taiwanese-presbyterian-church|Good Shepherd Taiwanese Presbyterian Church]]

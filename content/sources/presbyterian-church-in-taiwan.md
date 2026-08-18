@@ -30,7 +30,7 @@ Official website of the **[[organizations/presbyterian-church-in-taiwan|Presbyte
 
 ## Archive strategy
 
-- **v1 (2026-08-18):** official EN Who-We-Are intro/structure + ZH home + news *index*. MANIFEST `knowledge/web-archives/pct-MANIFEST.json` — **local only, never git**.
+- **v1+v2 (2026-08-18):** Who-We-Are + news **index** (titles/dates). Bodies not archived. MANIFEST local only.
 - **Not archived:** news article firehose, congregation directory, ministry subdomains.
 - No sitemap.xml — seed URLs only.
 

@@ -10,9 +10,9 @@ last_updated: 2026-08-18
 **Hub:** `content/sources/presbyterian-church-in-taiwan.md`  
 **MANIFEST:** `knowledge/web-archives/pct-MANIFEST.json` (local only — **never commit**)
 
-## Scope (v1)
-Official **Who We Are** cluster on `english.pct.org.tw` + ZH home + news **index**.  
-**Not** crawled: `news_pct` article firehose, 1,271 congregations, ministry subdomains.
+## Scope (v1 + v2 index)
+Official **Who We Are** cluster + ZH/EN **news listing pages**.  
+**Not** crawled: article bodies, 1,271 congregations, ministry subdomains.
 
 ## A-tier (on primary, official cite)
 | Cluster | Archive | Absorbed |
@@ -26,6 +26,7 @@ Official **Who We Are** cluster on `english.pct.org.tw` + ZH home + news **index
 | Institutions (Yushan, PBC, Mackay college…) | `pct-en-introduction-institutions.md` | ## Works |
 | One-leads-One 2010 | `pct-en-introduction-evangelism.md` | ### Mission movement |
 | GA office address / tel | EN footer | Snapshot |
+| News index (titles/dates) | `pct-zh-news-index.md` · `pct-en-news-index.md` | ## Official announcements |
 
 ## Not invented
 Sitting Moderator / General Secretary names — **not** on these pages. Keep existing “recent” lines as secondary.
