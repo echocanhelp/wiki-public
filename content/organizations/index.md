@@ -284,6 +284,7 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 - [Taiwan Photography Association in Greater New York TPAGNY (大紐約區台灣攝影學會)](./taiwan-photography-association-in-greater-new-york-tpagny)
 - [Taiwan Student Association at the University of Michigan](./taiwan-student-association-at-the-university-of-michigan)
 - [Taiwan Watch – Taiwan Affairs in U. S. Congress (美國國會台灣觀測站)](./taiwan-watch-taiwan-affairs-in-u-s-congress)
+- [Taiwanese Alliance for Interculture (S. California) (南加州臺灣協志社)](./taiwanese-alliance-for-interculture-southern-california)
 - [Taiwanese American Aeronautics and Space Association](./taiwanese-american-aeronautics-and-space-association)
 - [Taiwanese American Arts Association](./taiwanese-american-arts-association)
 - [Taiwanese American Arts Council TAAC (台美文藝協會)](./taiwanese-american-arts-council-taac)
