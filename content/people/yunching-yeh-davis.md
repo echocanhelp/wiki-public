@@ -39,6 +39,29 @@ Key themes:
 - Unfinished mission across generations
 
 
+## Works
+
+**albert-s-lai** has **1** article where they appear in the title and **0** additional articles that mention them in the body.
+
+### Title Mentions (1 article)
+
+1. **2025** — [[sources/toward-a-community-of-hope|Toward A Community of Hope (2025 NTPC Foreword)]] — NTPC Moderator; foreword author
+
+## Publications
+
+- **2025** — Authored the NTPC foreword "Half a Century of Faith and Mission" for the 50th anniversary republication of *Toward A Community of Hope — A Mission to Formosan Community in Los Angeles* (Taiwan Church Press).
+
+## Quotes
+
+> "In 1971, Dr. Albert S. Lai published Toward A Community Of Hope — A Mission to Formosan Community in Los Angeles, a work both theological and prophetic in nature."
+> — Dr. Yunching Yeh Davis, NTPC foreword
+
+> "He called the church to transcend being merely a haven for immigrants and instead become a missional community, a beacon of hope and a witness to the gospel in the larger society."
+> — Dr. Yunching Yeh Davis, NTPC foreword
+
+> "The idea of a 'hopeful community' carries rich theological weight. It is not a slogan born of optimism or human willpower, but a lived imagination rooted in biblical truth."
+> — Dr. Yunching Yeh Davis, NTPC foreword
+
 ## Network
 
 Pages that link to **yunching-yeh-davis** (yunching-yeh-davis):

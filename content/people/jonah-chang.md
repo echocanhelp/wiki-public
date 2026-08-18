@@ -43,6 +43,49 @@ From Dr. Albert S. Lai's 1971 dissertation:
 Later republication materials and wiki narrative also associate Chang with an earlier **Taiyou Church (太陽教會)** experimental effort (c. 1967) using Japanese Methodist facilities — treat as **content priority B** context pending fuller primary citation in the archive chunks.
 
 
+## Education
+
+- **Tainan Theological College and Seminary (TTCS)** — graduated
+- **San Francisco Theological Seminary** — earned master's degree
+
+## Timeline
+
+- **Early 1960s** — Came to the United States
+- **1967** — Switched to the United Methodist Church
+- **1967** — Assigned to a Japanese church in Fresno, Central California
+- **August 9, 1970** — First experimental Sunday worship; 22 adults and 11 children attended
+- **August 1970** — Conducted one-month experimental church ("Taiyou Church") to test feasibility of a Formosan congregation in Los Angeles
+- **August 30, 1970** — Experimental church ended; congregation decided to organize a permanent church
+- **September 6, 1970** — Church officially established as Formosan Presbyterian Church in Los Angeles
+- **Post-1970** — Returned to Fresno to continue pastoral work
+
+## Works
+
+**albert-s-lai** has **1** article where they appear in the title and **1** additional article that mentions them in the body.
+
+### Body Mentions (1 article)
+
+1. **2025** — [[sources/toward-a-community-of-hope|Toward A Community of Hope (2025 reprint)]] — August 1970 experimental church, first worship attendance, catalyst for permanent organization
+
+## Publications
+
+- **1971** — Referenced in Dr. Albert S. Lai's dissertation *Toward A Community of Hope — A Mission to Formosan Community in Los Angeles* (San Francisco Theological Seminary). Chang is documented as the leader of the August 1970 experimental church.
+- **2025** — Referenced in the 50th anniversary republication of *Toward A Community of Hope* with NTPC/PCT forewords.
+
+## Quotes
+
+> "In August 1970, Reverend Jonah Chang of the United Methodist Church in Fresno, California, a former minister of Presbyterian Church of Formosa, started a one-month experimental church to test the feasibility of such a church group in the Formosan community."
+> — *Toward A Community of Hope*, Ch. IV
+
+> "On the first experimental Sunday worship held on August 9, 1970, by Rev. Jonah Chang, 22 adults and 11 children attended."
+> — *Toward A Community of Hope*, Ch. IV
+
+> "Rev. Jonah Chang noted this situation and got to know several church friends, desiring to establish a Taiwanese church in Los Angeles."
+> — *Toward A Community of Hope*, Ch. IV
+
+> "After Rev. Chang led the worship service, he asked everyone to stay for a discussion... the majority of the congregation envisioned the importance of carrying on such fellowship among the Formosan people and decided to organize a church."
+> — *Toward A Community of Hope*, Ch. IV
+
 ## Network
 
 Pages that link to **jonah-chang** (jonah-chang):

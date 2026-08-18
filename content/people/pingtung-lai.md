@@ -33,6 +33,42 @@ last_reviewed: 2026-07-15
 > **Full text (GitHub):** [complete extract](https://github.com/echocanhelp/wiki-public/blob/gh-pages/knowledge/web-archives/albert-lai-toward-community-of-hope.md)
 
 
+## Education
+
+- **Tainan Theological College and Seminary (TTCS)** — 1932–1936; student council president (1935–1936)
+- **Nanking Theological Seminary** — pursued further studies
+
+## Timeline
+
+- **1932–1936** — Student at TTCS; elected student council president in final year (1935–1936)
+- **1935** — Dr. Barclay died October 5; his father and classmates carried the coffin at the funeral
+- **Post-1936** — Pastored in Huwei, Chingliao, Wu-niu-lan (Ailan), and Beigang; built Beigang Church
+- **Early-mid 1940s** — Centennial Doubling Campaign evangelistic officer
+- **1940s–1950s** — Founded United Bible Societies work in Taiwan from Beigang; moved to Taichung office/warehouse
+- **1950s–1960s** — Post-retirement evangelism; Taiwan International Missions; Good Friend Mission (勵友中心)
+- **1960s–1970s** — Assisted US church planting; father of Dr. Albert S. Lai
+
+## Works
+
+**albert-s-lai** has **1** article where they appear in the title and **0** additional articles that mention them in the body.
+
+### Title Mentions (1 article)
+
+1. **2025** — [[sources/toward-a-community-of-hope|Toward A Community of Hope (2025 Self-Preface)]] — father of Albert Lai; TTCS; Bible Society
+
+## Publications
+
+- **1971** — Referenced in Dr. Albert S. Lai's dissertation *Toward A Community of Hope — A Mission to Formosan Community in Los Angeles* (San Francisco Theological Seminary). Pingtung Lai is documented as Albert Lai's father and a TTCS/Bible Society pioneer.
+- **2025** — Referenced in the 50th anniversary republication of *Toward A Community of Hope* with NTPC/PCT forewords.
+
+## Quotes
+
+> "Pastor Pingtung Lai (賴炳烔) is my father, and he was a student of Dr. Barclay."
+> — Dr. Albert S. Lai, Self-Preface
+
+> "He attended Tainan Theological College and Seminary(TTCS) from 1932 to 1936. In the academic year of 1935-1936, which was his final year at the TTCS, he was elected as the president of the student council."
+> — Dr. Albert S. Lai, Self-Preface
+
 ## Network
 
 Pages that link to **pingtung-lai** (pingtung-lai):

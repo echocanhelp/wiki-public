@@ -32,6 +32,26 @@ Following the NTPC's 50th anniversary conference (2024; [[people/david-huang|黃
 His June 2025 foreword stressed urgency of preservation, history as theological encounter, and Lai's 1971 dissertation as a cornerstone resource for understanding the founding of the first Taiwanese Presbyterian church in Southern California ([[organizations/formosan-presbyterian-church-in-los-angeles|FPCLA]] lineage).
 
 
+## Works
+
+**albert-s-lai** has **1** article where they appear in the title and **0** additional articles that mention them in the body.
+
+### Title Mentions (1 article)
+
+1. **2025** — [[sources/toward-a-community-of-hope|Toward A Community of Hope (2025 Historical Committee Foreword)]] — NTPC Historical Committee chair
+
+## Publications
+
+- **2025** — Authored the Historical Committee foreword to the 50th anniversary republication of *Toward A Community of Hope — A Mission to Formosan Community in Los Angeles* (Taiwan Church Press). This book was the first publication of the NTPC Historical Committee.
+
+## Quotes
+
+> "The publication of this book is entirely the result of God's unexpected grace and blessing."
+> — Rev. Ching Fang Chen, 2025 Historical Committee foreword
+
+> "On the afternoon of June 9, 2022, during an initial visit to our esteemed brother, Albert Lai, I chanced upon a doctoral dissertation, sealed in dust for over half a century."
+> — Rev. Ching Fang Chen, 2025 Historical Committee foreword
+
 ## Network
 
 Pages that link to **ching-fang-chen** (ching-fang-chen):

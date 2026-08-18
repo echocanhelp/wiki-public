@@ -29,6 +29,30 @@ In the 2025 Self-Preface to [[sources/toward-a-community-of-hope|Toward A Commun
 **Disambiguation:** Not the same person as [[people/chaolong-kao|Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)]], who was called as **organizing minister** by the Presbytery of Los Angeles Southwest in September 1971.
 
 
+## Timeline
+
+- **1970** — Co-founded the Formosan Presbyterian Church in Los Angeles (FPCLA) with his wife, Mrs. Daniel Kao
+- **1971** — Listed among the core co-founding households in Dr. Albert S. Lai's Self-Preface to *Toward A Community of Hope*
+- **1971** — Joined the United Presbyterian Church (UPCUSA) system alongside other founding families and UPCUSA supporters
+
+## Works
+
+**albert-s-lai** has **1** article where they appear in the title and **0** additional articles that mention them in the body.
+
+### Title Mentions (1 article)
+
+1. **2025** — [[sources/toward-a-community-of-hope|Toward A Community of Hope (2025 Self-Preface)]] — co-founder listing
+
+## Publications
+
+- **1971** — Named as a co-founder in Dr. Albert S. Lai's dissertation *Toward A Community of Hope — A Mission to Formosan Community in Los Angeles* (San Francisco Theological Seminary).
+- **2025** — Named as a co-founder in the 50th anniversary republication of *Toward A Community of Hope*.
+
+## Quotes
+
+> "Dr. & Mrs. Daniel Kao (高光民夫婦)"
+> — *Toward A Community of Hope*, Self-Preface (co-founder listing)
+
 ## Network
 
 Pages that link to **daniel-kao** (daniel-kao):

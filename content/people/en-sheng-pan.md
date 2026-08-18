@@ -39,6 +39,29 @@ Key themes:
 - **Mission and nationhood** — witness as a community moving toward hope
 
 
+## Works
+
+**albert-s-lai** has **1** article where they appear in the title and **0** additional articles that mention them in the body.
+
+### Title Mentions (1 article)
+
+1. **2025** — [[sources/toward-a-community-of-hope|Toward A Community of Hope (2025 PCT Foreword)]] — PCT 70th GA Moderator; foreword author
+
+## Publications
+
+- **2025** — Authored the PCT foreword for the 50th anniversary republication of *Toward A Community of Hope — A Mission to Formosan Community in Los Angeles* (Taiwan Church Press), dated June 15, 2025.
+
+## Quotes
+
+> "I have been deeply moved by my readings. The various journeys and historical testimonies left by the author, Dr. Albert S. Lai, and the pioneers of faith, both in Taiwan and in the immigrant environment, are truly commendable and worthy of recommendation to the church and society at large."
+> — Rev. En Sheng Pan, PCT foreword
+
+> "Among the many dialogues on various issues, it is rare that the author presents the concept of 'internal integration and external harmony,' along with practical suggestions, which is indeed a profound insight and wisdom."
+> — Rev. En Sheng Pan, PCT foreword
+
+> "As Taiwanese Christians, we encourage each other, firmly believing that under the blessings of our Lord Jesus Christ, we will continue to build a beautiful society together in love, and with immense hope, we will move towards universality, resiliently moving forward."
+> — Rev. En Sheng Pan, PCT foreword
+
 ## Network
 
 Pages that link to **en-sheng-pan** (en-sheng-pan):

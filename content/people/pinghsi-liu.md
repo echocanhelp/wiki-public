@@ -48,6 +48,23 @@ From his 2025 foreword material:
 - **2023** — Invited by Rev. Mingyuan Hsu to help translate Lai's dissertation and pursue publication
 
 
+## Works
+
+**albert-s-lai** has **1** article where they appear in the title and **0** additional articles that mention them in the body.
+
+### Title Mentions (1 article)
+
+1. **2025** — [[sources/toward-a-community-of-hope|Toward A Community of Hope (2025 Translation)]] — co-translator and publisher
+
+## Publications
+
+- **2025** — Co-translated and published *Toward A Community of Hope — A Mission to Formosan Community in Los Angeles* (Taiwan Church Press / Incorporated Association of Tainan East Gate Barclay History Education Promotion) with [[people/mingyuan-hsu|Rev. Mingyuan Hsu]].
+
+## Quotes
+
+> "In 2016, at the invitation of the Presbyterian Church in Taiwan General Assembly, Evangelism Committee, I had the honor of serving as a theological lecturer for the Taiwanese Christian Church Association of North America (TCCANA)."
+> — Rev. Pinghsi Liu, 2025 foreword material
+
 ## Network
 
 - [[people/mingyuan-hsu|許明遠]] — 2018 host; 2023 translation invite

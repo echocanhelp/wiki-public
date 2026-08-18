@@ -66,6 +66,18 @@ Lai on the approach:
 >
 > — [[people/albert-s-lai|Albert S. Lai]]
 
+## Works
+
+**albert-s-lai** has **1** article where they appear in the title and **0** additional articles that mention them in the body.
+
+### Title Mentions (1 article)
+
+1. **2025** — [[sources/toward-a-community-of-hope|Toward A Community of Hope (2025 Foreword)]] — catalyst for republication
+
+## Publications
+
+- **2025** — Foreword to the 50th anniversary republication of *Toward A Community of Hope — A Mission to Formosan Community in Los Angeles* (Taiwan Church Press). His foreword catalyzed the translation and publication project with [[people/pinghsi-liu|Rev. Pinghsi Liu]].
+
 ## Network
 - [[organizations/good-shepherd-taiwanese-presbyterian-church|GSTPC]] — current pastor
 - [[organizations/national-taiwanese-presbyterian-council|NTPC]] — 2025 reprint foreword
