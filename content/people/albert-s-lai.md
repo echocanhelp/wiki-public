@@ -325,53 +325,98 @@ Notable quotes and mentions of **賴信雄** in Taiwan Justice articles:
 1. "acks done/skipped/fail per file. ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
    — PILOT_NOTES (unknown)
 
-### 2022 (2 quotes)
+### 2022 (5 quotes)
 
-1. "10225 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+1. "恐讓川普再次競選情勢變得更加困難。（譯者：紀錦玲/核稿：劉文瑜） ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+   — 曼哈頓地區檢察官請辭，川普刑事調查案再掀波瀾 (2022-02-23)
+2. "10225 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
    — 美媒：華府估基輔4天內淪陷，烏克蘭領導層約一週垮台 (2022-02-24)
-2. "10226 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+3. "10226 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
    — 連2天同台出席 外界解讀盧秀燕蔡其昌互相較勁 (2022-02-26)
+4. "，當他讓裝甲車碾壓烏克蘭土地的時候，他自己使這一切變得毫無可能。 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+   — 淪為如金正恩一樣的“國際棄兒”，普丁何以發起准自殺行動 (2022-03-01)
+5. "中央社製圖） 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+   — 俄羅斯4架戰機進入瑞典領空 (2022-03-02)
 
-### 2020 (16 quotes)
+### 2021 (7 quotes)
 
-1. "興訟敗訴，法官：黨產會處分合法 January 16, 2020 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+1. "衝突，「我不認為這會是曇花一現」。（譯者：陳亦偉）1100130 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+   — 看懂美國GameStop股價逆襲事件，散戶起義打垮對沖基金 (2021-01-30)
+2. "姬則將被禁止參選。」（譯者：張正芊/核稿：陳政一）1100201 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+   — 緬甸軍隊總司令敏昂萊發動政變 暴露政治野心 (2021-02-01)
+3. "00203 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+   — 同性戀入閣第一人，美國參院確認布塔朱吉（Pete Buttigieg）掌運輸部 (2021-02-03)
+4. "見效甚微。 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+   — 加州已有近140萬人簽名罷免州長紐森 (2021-02-05)
+5. "政府美國和中國近期內將仍然維持在全球貿易和技術方面的競爭地位。” ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+   — 路透調查：美國復甦步入正軌，就業增長尚需時日 (2021-02-14)
+6. "00220 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+   — 白宮證實 美致函台灣盼解決汽車晶片問題，感謝台灣出力協助解決 (2021-02-19)
+7. "00306 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+   — 反制中國宣傳入校園，美參院通過加強管控孔子學院 (2021-03-05)
+
+### 2020 (28 quotes)
+
+1. "90108 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+   — 釐清狙殺伊朗將領決策，眾院外委會邀蓬佩奧作證 (2020-01-07)
+2. "興訟敗訴，法官：黨產會處分合法 January 16, 2020 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
    — 'Tag: 黨產會處分合法' (2020-01-16)
-2. "90123 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+3. "90123 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
    — 武漢肺炎疫情擴散，法國議員籲WHO讓台灣參與 (2020-01-22)
-3. "利的資格。 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+4. "利的資格。 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
    — 最高法院允許川普政府執行嚴格的綠卡審議政策 (2020-01-27)
-4. "肺炎破3500死，疫情估7天內達高峰 April 4, 2020 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+5. "檢疫隔離。 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+   — 美接回鑽石公主號公民，14人對武漢肺炎呈陽性反應 (2020-02-17)
+6. "肺炎破3500死，疫情估7天內達高峰 April 4, 2020 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
    — 'Tag: 紐約州武漢肺炎破3500死' (2020-04-04)
-5. "疫苗之前，這是最好的替代方案 。」（編輯：郭中翰）1090417 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+7. "疫苗之前，這是最好的替代方案 。」（編輯：郭中翰）1090417 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
    — 荷媒稱台灣獨立國家，專訪唐鳳以數位科技抗疫 (2020-04-17)
-6. "C；第11次則是今天的EP-3E。（編輯：張均懋）1090421 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+8. "C；第11次則是今天的EP-3E。（編輯：張均懋）1090421 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
    — 美軍電偵機現蹤台灣南部海域 ，4月來第11度 (2020-04-20)
-7. "聯繫協調。 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+9. "聯繫協調。 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
    — 台海軍情》公告南北300公里射擊管制區，傳中科院測試增程雄二E飛彈 (2020-04-23)
-8. "更多價值，對台灣人民生活更有幫助。（編輯：蘇志宗）1090426 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+10. "更多價值，對台灣人民生活更有幫助。（編輯：蘇志宗）1090426 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
    — 辜寬敏推制憲公投，30日向中選會提案 (2020-04-25)
-9. "本擬將脊髓性肌萎症藥物定價逾4500萬 May 12, 2020 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
-   — 'Tag: 日本擬將脊髓性肌萎症藥物定價逾4500萬台幣' (2020-05-12)
-10. "連43天無本土病例，居家隔離個案也歸零 May 25, 2020 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
-   — 'Tag: 居家隔離個案也歸零' (2020-05-25)
 
-*...and 9 more quotes*
+### 2019 (2 quotes)
+
+1. "訪者受不了舊金山的交通和停車問題。（編輯：陳惠珍）1081227 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+   — 便便危機蒙羞，舊金山市苦於屎都形象 (2019-12-27)
+2. "全美國每4個遊民就有一人住在加州。（編輯：陳惠珍）1081228 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+   — 露營車成舊金山流動屋，州長為遊民槓上川普 (2019-12-28)
+
+*...and 33 more quotes*
 
 ## Timeline
 
 Chronological events for **賴信雄**:
 
 
-### 2022 (2 events)
+### 2022 (5 events)
 
+- **2022-02-23** 📰 曼哈頓地區檢察官請辭，川普刑事調查案再掀波瀾
 - **2022-02-24** 📰 美媒：華府估基輔4天內淪陷，烏克蘭領導層約一週垮台
 - **2022-02-26** 📰 連2天同台出席 外界解讀盧秀燕蔡其昌互相較勁
+- **2022-03-01** 📰 淪為如金正恩一樣的“國際棄兒”，普丁何以發起准自殺行動
+- **2022-03-02** 📰 俄羅斯4架戰機進入瑞典領空
 
-### 2020 (16 events)
+### 2021 (7 events)
 
+- **2021-01-30** 📰 看懂美國GameStop股價逆襲事件，散戶起義打垮對沖基金
+- **2021-02-01** 🗳️ 緬甸軍隊總司令敏昂萊發動政變 暴露政治野心
+- **2021-02-03** 📰 同性戀入閣第一人，美國參院確認布塔朱吉（Pete Buttigieg）掌運輸部
+- **2021-02-05** 🗳️ 加州已有近140萬人簽名罷免州長紐森
+- **2021-02-14** 🏥 路透調查：美國復甦步入正軌，就業增長尚需時日
+- **2021-02-19** 📰 白宮證實 美致函台灣盼解決汽車晶片問題，感謝台灣出力協助解決
+- **2021-03-05** 📰 反制中國宣傳入校園，美參院通過加強管控孔子學院
+
+### 2020 (28 events)
+
+- **2020-01-07** 🗳️ 釐清狙殺伊朗將領決策，眾院外委會邀蓬佩奧作證
 - **2020-01-16** 📰 'Tag: 黨產會處分合法'
 - **2020-01-22** 🏥 武漢肺炎疫情擴散，法國議員籲WHO讓台灣參與
 - **2020-01-27** 🗳️ 最高法院允許川普政府執行嚴格的綠卡審議政策
+- **2020-02-17** 🏥 美接回鑽石公主號公民，14人對武漢肺炎呈陽性反應
 - **2020-04-04** 📰 'Tag: 紐約州武漢肺炎破3500死'
 - **2020-04-17** 🏥 荷媒稱台灣獨立國家，專訪唐鳳以數位科技抗疫
 - **2020-04-20** 🗳️ 美軍電偵機現蹤台灣南部海域 ，4月來第11度
@@ -379,12 +424,27 @@ Chronological events for **賴信雄**:
 - **2020-04-25** 🏛️ 辜寬敏推制憲公投，30日向中選會提案
 - **2020-05-12** 📰 'Tag: 日本擬將脊髓性肌萎症藥物定價逾4500萬台幣'
 - **2020-05-25** 🏥 'Tag: 居家隔離個案也歸零'
+- **2020-06-17** 🏛️ 改寫創建60年歷史，美洲開發銀行將首見美國行長
 - **2020-06-22** 🗳️ 國台辦訓斥國民黨　馬英九就立刻表態效忠  ◎陳昭南
+- **2020-08-13** 🗳️ 美政軍助卿會晤蕭美琴，盼共同維繫區域和平穩定
+- **2020-08-31** 📰 內蒙取消蒙語教學加速漢化，上萬蒙古族學生及家長抗議
 - **2020-09-02** 🗳️ 史達偉：美台經濟對話為三公報及台灣關係法允許，北京不應有激烈反應
+- **2020-09-07** 🗳️ 川普：可能與中國經濟脫鉤，美國不會蒙受損失
+- **2020-09-07** 🗳️ 中國拒延簽美媒記者證 暗示可能驅逐，美中記者簽證拉鋸戰持續
+- **2020-09-09** 📰 美國俄勒岡州野火情勢嚴峻，死亡人數恐破州史紀錄
+- **2020-09-10** 🗳️ TikTok在美業務15日前出售，川普：不會延長時限
+- **2020-09-14** 🏛️ 論文首發！ 閻麗夢籲：查武漢P4實驗室與美衛生院的金流，新型冠狀病毒是2病毒改造[影]
 - **2020-09-19** 📰 中國疫苗外交會不會重蹈口罩覆轍？
 - **2020-09-29** 🏥 陳日君千里求見教宗遭拒 惹哭網友，義媒為陳日君打抱不平
 - **2020-10-03** 📰 中國軍艦靠近台灣東部外海鄰接區，國防部：即時應處
 - **2020-10-12** 🗳️ 美最高法院大法官Barrett參議聽證會開場，賀錦麗可能出手
+- **2020-10-13** 🗳️ 杜絕中國影響，美國務院要求智庫披露外國資助
+- **2020-10-13** 📰 黃之鋒自香港公開大學畢業，未來留港作戰
+
+### 2019 (2 events)
+
+- **2019-12-27** 📰 便便危機蒙羞，舊金山市苦於屎都形象
+- **2019-12-28** 🗳️ 露營車成舊金山流動屋，州長為遊民槓上川普
 
 ## Source Notes and Confidence
 

@@ -1,4 +1,4 @@
-## Site design audit — 2026-08-19 08:04
+## Site design audit — 2026-08-19 08:36
 
 - pages_md=2853
 - critical=0 high=1 medium=1
@@ -20,12 +20,6 @@
 
 ### MEDIUM (1)
 - **F4** people/index.html is 1468780 bytes — heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break.
-
-### LOW (1)
-- **C1** spelling signals (sample): 3 `[AGENT_SUGGESTED]`
-  - `yang-ziqing.md: ?ziqing`
-  - `yang-yueqing.md: ?yueqing`
-  - `wang-qiaoling.md: ?qiaoling`
 
 ### INFO (1)
 - **B1** person/org touched ≤7d (rely on recency featured window): 2625

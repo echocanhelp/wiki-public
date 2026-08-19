@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-08-19T08:04:56",
+  "last_run": "2026-08-19T08:36:35",
   "status": "ACTION",
   "stats": {
     "md": 2853,
@@ -56,69 +56,10 @@
         "people/albert-g-chang.md",
         "people/alex-hsuan-yu-lee.md"
       ]
-    },
-    {
-      "id": "C1",
-      "sev": "LOW",
-      "msg": "spelling signals (sample): 3",
-      "examples": [
-        "yang-ziqing.md: ?ziqing",
-        "yang-yueqing.md: ?yueqing",
-        "wang-qiaoling.md: ?qiaoling"
-      ],
-      "agent": true
     }
   ],
   "heals": [],
   "history": [
-    {
-      "at": "2026-08-13T08:30:31",
-      "status": "OK",
-      "critical": 0,
-      "high": 0,
-      "medium": 0,
-      "finding_count": 3
-    },
-    {
-      "at": "2026-08-14T04:30:54",
-      "status": "OK",
-      "critical": 0,
-      "high": 0,
-      "medium": 0,
-      "finding_count": 3
-    },
-    {
-      "at": "2026-08-14T08:10:08",
-      "status": "OK",
-      "critical": 0,
-      "high": 0,
-      "medium": 0,
-      "finding_count": 3
-    },
-    {
-      "at": "2026-08-14T08:19:48",
-      "status": "OK",
-      "critical": 0,
-      "high": 0,
-      "medium": 0,
-      "finding_count": 3
-    },
-    {
-      "at": "2026-08-14T08:31:19",
-      "status": "OK",
-      "critical": 0,
-      "high": 0,
-      "medium": 0,
-      "finding_count": 3
-    },
-    {
-      "at": "2026-08-14T08:31:28",
-      "status": "OK",
-      "critical": 0,
-      "high": 0,
-      "medium": 0,
-      "finding_count": 3
-    },
     {
       "at": "2026-08-15T04:30:56",
       "status": "OK",
@@ -310,6 +251,54 @@
       "high": 1,
       "medium": 1,
       "finding_count": 4
+    },
+    {
+      "at": "2026-08-19T08:15:01",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 1,
+      "medium": 1,
+      "finding_count": 4
+    },
+    {
+      "at": "2026-08-19T08:30:27",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 1,
+      "medium": 1,
+      "finding_count": 4
+    },
+    {
+      "at": "2026-08-19T08:33:19",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 1,
+      "medium": 1,
+      "finding_count": 4
+    },
+    {
+      "at": "2026-08-19T08:33:56",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 1,
+      "medium": 1,
+      "finding_count": 4
+    },
+    {
+      "at": "2026-08-19T08:35:41",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 1,
+      "medium": 1,
+      "finding_count": 4
+    },
+    {
+      "at": "2026-08-19T08:36:35",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 1,
+      "medium": 1,
+      "finding_count": 3
     }
   ]
 }
