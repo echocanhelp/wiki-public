@@ -5402,7 +5402,9 @@
   "people/john-lai.md|DESC_NO_TITLE_MENTION": [
     "2026-08-17",
     "2026-08-17",
-    "2026-08-17"
+    "2026-08-17",
+    "2026-08-19",
+    "2026-08-19"
   ],
   "people/john-pang-yu.md|DESC_NO_TITLE_MENTION": [
     "2026-08-17",
@@ -9823,5 +9825,73 @@
     "2026-08-18",
     "2026-08-18",
     "2026-08-18"
+  ],
+  "organizations/boston-taiwanese-christian-church.md|DESC_NO_TITLE_MENTION": [
+    "2026-08-19",
+    "2026-08-19"
+  ],
+  "organizations/boston-taiwanese-christian-church.md|STRUCT_NO_HISTORY": [
+    "2026-08-19",
+    "2026-08-19"
+  ],
+  "organizations/elder-john-lai-archives.md|DESC_NO_TITLE_MENTION": [
+    "2026-08-19",
+    "2026-08-19"
+  ],
+  "organizations/national-taiwanese-presbyterian-council.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-08-19",
+    "2026-08-19"
+  ],
+  "organizations/taiwanese-alliance-for-interculture-southern-california.md|STRUCT_NO_HISTORY": [
+    "2026-08-19",
+    "2026-08-19"
+  ],
+  "people/chen-wenshi.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-08-19",
+    "2026-08-19"
+  ],
+  "people/john-lai.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-08-19",
+    "2026-08-19"
+  ],
+  "people/lin-yushu.md|READABILITY_LONG_SENTENCES": [
+    "2026-08-19",
+    "2026-08-19"
+  ],
+  "people/tsai-ingwen.md|LINKS_NO_RELATED": [
+    "2026-08-19",
+    "2026-08-19"
+  ],
+  "people/tsai-ingwen.md|STRUCT_NO_IDENTITY": [
+    "2026-08-19",
+    "2026-08-19"
+  ],
+  "people/tsai-ingwen.md|STRUCT_NO_RELATED": [
+    "2026-08-19",
+    "2026-08-19"
+  ],
+  "people/tsan-yu-hsu.md|LINKS_NO_RELATED": [
+    "2026-08-19",
+    "2026-08-19"
+  ],
+  "people/tsan-yu-hsu.md|STRUCT_NO_IDENTITY": [
+    "2026-08-19",
+    "2026-08-19"
+  ],
+  "people/tsan-yu-hsu.md|STRUCT_NO_RELATED": [
+    "2026-08-19",
+    "2026-08-19"
+  ],
+  "sources/irvine-taiwanese-presbyterterian-church.md|LINKS_NO_RELATED": [
+    "2026-08-19",
+    "2026-08-19"
+  ],
+  "sources/laijohn-com.md|STRUCT_NO_STATS": [
+    "2026-08-19",
+    "2026-08-19"
+  ],
+  "sources/ntpc-usa-org.md|STRUCT_NO_STATS": [
+    "2026-08-19",
+    "2026-08-19"
   ]
 }

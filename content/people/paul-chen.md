@@ -11,7 +11,7 @@ name_en: "Paul Chen"
 name_zh_hanzi: "陳柏宇"
 name_zh: "陳柏宇"
 verification_status: pending
-last_reviewed: 2026-08-18
+last_reviewed: 2026-08-19
 source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
 ---
 # Paul Chen (陳柏宇)

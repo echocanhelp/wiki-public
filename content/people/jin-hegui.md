@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-18
+last_reviewed: 2026-08-19
 ---
 # Chin Heng-wei (金恆煒)
 

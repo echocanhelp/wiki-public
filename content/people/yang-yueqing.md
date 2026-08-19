@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-18
+last_reviewed: 2026-08-19
 ---
 
 # Yang Yue-qing / 楊月清

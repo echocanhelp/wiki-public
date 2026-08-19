@@ -1,18 +1,17 @@
 =====================================================
-  VAULT INTELLIGENCE — 2026-08-18
+  VAULT INTELLIGENCE — 2026-08-19
 =====================================================
-Labels: ✅ AUTO (healed/no action) · 🟡 QUEUE (auto backlog) · 🔴 NEED YOU (your judgment) · ℹ️ INFO
 
 🔴 NEED YOU (your judgment only)
-🔴 NEED YOU  1. Echopedia miss: “台羅”
+🔴 NEED YOU  1. Echopedia miss: “Stone Chen”
      → Confirm identity / approve thin page / or dismiss
-🔴 NEED YOU  2. Echopedia miss: “Tâi-lô”
+🔴 NEED YOU  2. Echopedia miss: “台羅”
      → Confirm identity / approve thin page / or dismiss
-🔴 NEED YOU  3. Echopedia miss: “Peh-oe-ji”
+🔴 NEED YOU  3. Echopedia miss: “Tâi-lô”
      → Confirm identity / approve thin page / or dismiss
-🔴 NEED YOU  4. Echopedia miss: “白話字”
+🔴 NEED YOU  4. Echopedia miss: “Peh-oe-ji”
      → Confirm identity / approve thin page / or dismiss
-🔴 NEED YOU  5. Echopedia miss: “pei o ji”
+🔴 NEED YOU  5. Echopedia miss: “白話字”
      → Confirm identity / approve thin page / or dismiss
 
 🟡 QUEUE / identity (soft — no reply required)
@@ -23,23 +22,23 @@ Labels: ✅ AUTO (healed/no action) · 🟡 QUEUE (auto backlog) · 🔴 NEED YO
 ✅ AUTO  good-shepherd-taiwanese-presbyterian-church: +0 new / 1 changed; applied 3
 
 🟡 NEXT INGEST (≤2, advisory — not started)
-🟡 QUEUE pct.org.tw — external host on 2 Tier1 pages; not watched
-     → go Echopedia website https://pct.org.tw/
-🟡 QUEUE bai-weiwei — thin L1 person page (2015 chars); densify from Tier2/roster — not a new website
-     → go deepen people/bai-weiwei
+🟡 QUEUE taiwaneseamericanhistory.org — external host on 5306 Tier1 pages; not watched
+     → go Echopedia website https://taiwaneseamericanhistory.org/
+🟡 QUEUE eastgatebarclay.org — external host on 6 Tier1 pages; not watched
+     → go Echopedia website https://eastgatebarclay.org/
 
 🟡 QUEUE / unfinished (not a hard gate)
 🟡 QUEUE 3 pages WIP/incomplete
 
 🟡 QUEUE / link suggestions (disk)
-ℹ️  INFO  top tips below · full pairs on disk (~40860 scored)
+ℹ️  INFO  top tips below · full pairs on disk (~41735 scored)
 
 🟡 QUEUE / optional link tips (≤5, not NEED YOU)
 🟡 QUEUE 1. Link tip: organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/american-citizens-for-taiwan.md
 🟡 QUEUE 2. Link tip: organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/american-citizens-of-taiwan-origin-acto.md
 🟡 QUEUE 3. Link tip: organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/ann-arbor-taiwanese-association.md
-🟡 QUEUE 4. Link tip: organizations/chunglun-presbyterian-church.md ↔ organizations/formosan-presbyterian-church-in-los-angeles.md
-🟡 QUEUE 5. Link tip: organizations/chunglun-presbyterian-church.md ↔ organizations/good-shepherd-taiwanese-presbyterian-church.md
+🟡 QUEUE 4. Link tip: organizations/boston-taiwanese-christian-church.md ↔ organizations/elder-john-lai-archives.md
+🟡 QUEUE 5. Link tip: organizations/boston-taiwanese-christian-church.md ↔ organizations/presbyterian-church-in-taiwan.md
 
 ✅ AUTO (already handled by overnight loop)
 ✅ AUTO  ci-heal / scout / deepeners / content-analysis run on schedule
