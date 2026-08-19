@@ -1,27 +1,75 @@
 {
-  "at": "2026-08-16T21:02:49Z",
+  "at": "2026-08-19T06:18:58Z",
   "suggestions": [
     {
       "kind": "website",
-      "host": "pct.org.tw",
-      "mentions": 2,
-      "score": 6,
-      "why": "external host on 2 Tier1 pages; not watched",
-      "action": "go Echopedia website https://pct.org.tw/"
+      "host": "taiwaneseamericanhistory.org",
+      "mentions": 5306,
+      "score": 15926,
+      "why": "external host on 5306 Tier1 pages; not watched",
+      "action": "go Echopedia website https://taiwaneseamericanhistory.org/"
     },
     {
-      "kind": "densify",
-      "host": "bai-weiwei",
-      "id": "bai-weiwei",
-      "score": 8,
-      "why": "thin L1 person page (2015 chars); densify from Tier2/roster — not a new website",
-      "action": "go deepen people/bai-weiwei"
+      "kind": "website",
+      "host": "eastgatebarclay.org",
+      "mentions": 6,
+      "score": 26,
+      "why": "external host on 6 Tier1 pages; not watched",
+      "action": "go Echopedia website https://eastgatebarclay.org/"
+    },
+    {
+      "kind": "website",
+      "host": "ntpc-usa.org",
+      "mentions": 6,
+      "score": 26,
+      "why": "external host on 6 Tier1 pages; not watched",
+      "action": "go Echopedia website https://ntpc-usa.org/"
+    },
+    {
+      "kind": "website",
+      "host": "penghu.info",
+      "mentions": 8,
+      "score": 24,
+      "why": "external host on 8 Tier1 pages; not watched",
+      "action": "go Echopedia website https://penghu.info/"
+    },
+    {
+      "kind": "website",
+      "host": "ntumcaa-na.org",
+      "mentions": 3,
+      "score": 17,
+      "why": "external host on 3 Tier1 pages; not watched",
+      "action": "go Echopedia website https://ntumcaa-na.org/"
+    },
+    {
+      "kind": "website",
+      "host": "tcnn.org.tw",
+      "mentions": 5,
+      "score": 15,
+      "why": "external host on 5 Tier1 pages; not watched",
+      "action": "go Echopedia website https://tcnn.org.tw/"
+    },
+    {
+      "kind": "website",
+      "host": "taifuten.com",
+      "mentions": 4,
+      "score": 12,
+      "why": "external host on 4 Tier1 pages; not watched",
+      "action": "go Echopedia website https://taifuten.com/"
+    },
+    {
+      "kind": "website",
+      "host": "taiwandaily.net",
+      "mentions": 4,
+      "score": 12,
+      "why": "external host on 4 Tier1 pages; not watched",
+      "action": "go Echopedia website https://taiwandaily.net/"
     }
   ],
-  "candidates_considered": 7,
+  "candidates_considered": 20,
   "pools": {
-    "website_like": 1,
+    "website_like": 13,
     "densify": 4,
-    "total": 7
+    "total": 20
   }
 }
