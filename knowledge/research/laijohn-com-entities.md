@@ -6,7 +6,8 @@ last_reviewed: 2026-08-18
 # laijohn.com — Elder John Lai's Archives
 
 **Scope v1:** official Who / EN home / 生平 / 著作目錄 / 史話 TOC / 1998 lecture.  
-**Not v1:** 本土信徒 `pc-contents.htm` (441 KB), 宣教師/原住民/日人列傳, 史話 article bodies.
+**Not v1/v2:** 本土信徒 `pc-contents.htm` (441 KB), 宣教師/原住民/日人列傳, 史話 **article bodies**.
+**v2:** 628 titles, `laijohn-com-suoe-index.json`.
 
 ## Primary
 - Site: **Elder John Lai's Archives / 賴永祥長老史料庫** — http://www.laijohn.com/

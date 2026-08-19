@@ -52,7 +52,7 @@ From official 生平 + TAH (keep both lists):
 - 《中國圖書分類法》（1964 初版，2001 第八版）
 - 《臺灣省通志稿》外事篇 · 《臺灣史研究初輯》
 - 《明鄭研究叢輯》1–4 · 《南明研究叢輯》
-- 《教會史話》（公報連載；結刊 5 輯，生平：第 6 輯近刊）
+- 《教會史話》（公報連載；TOC v2：**7 輯 · 628 則 · nos. 1–674** — titles only）
 - 《臺灣基督長老教會歷史年譜》（增訂）
 - *Protestant Missionary Works in Chinese*, Harvard-Yenching Library (catalog + microfiches)
 - 主編哈佛燕京圖書館中日文藏書目錄（72 冊）

@@ -1,0 +1,4405 @@
+{
+  "source": "http://www.laijohn.com/contents.htm",
+  "fetched": "2026-08-18",
+  "scope": "titles+urls only, no article bodies",
+  "count": 628,
+  "empty_titles": 0,
+  "items": [
+    {
+      "vol": 1,
+      "n": 1,
+      "title": "「歷史年譜」",
+      "path": "BOOK1/001.htm",
+      "url": "http://www.laijohn.com/BOOK1/001.htm"
+    },
+    {
+      "vol": 1,
+      "n": 2,
+      "title": "「台灣長老教會百年史」",
+      "path": "BOOK1/002.htm",
+      "url": "http://www.laijohn.com/BOOK1/002.htm"
+    },
+    {
+      "vol": 1,
+      "n": 3,
+      "title": "「南台教會史」",
+      "path": "BOOK1/003.htm",
+      "url": "http://www.laijohn.com/BOOK1/003.htm"
+    },
+    {
+      "vol": 1,
+      "n": 4,
+      "title": "「台灣信仰名人略傳」",
+      "path": "BOOK1/004.htm",
+      "url": "http://www.laijohn.com/BOOK1/004.htm"
+    },
+    {
+      "vol": 1,
+      "n": 5,
+      "title": "《北部教會大觀》",
+      "path": "BOOK1/005.htm",
+      "url": "http://www.laijohn.com/BOOK1/005.htm"
+    },
+    {
+      "vol": 1,
+      "n": 6,
+      "title": "「設教一二0週年年鑑」",
+      "path": "BOOK1/006.htm",
+      "url": "http://www.laijohn.com/BOOK1/006.htm"
+    },
+    {
+      "vol": 1,
+      "n": 7,
+      "title": "《台灣教會公報》",
+      "path": "BOOK1/007.htm",
+      "url": "http://www.laijohn.com/BOOK1/007.htm"
+    },
+    {
+      "vol": 1,
+      "n": 8,
+      "title": "白話字教會報的選譯",
+      "path": "BOOK1/008.htm",
+      "url": "http://www.laijohn.com/BOOK1/008.htm"
+    },
+    {
+      "vol": 1,
+      "n": 9,
+      "title": "「台灣基督教會醫學史」",
+      "path": "BOOK1/009.htm",
+      "url": "http://www.laijohn.com/BOOK1/009.htm"
+    },
+    {
+      "vol": 1,
+      "n": 10,
+      "title": "黎明期台灣西醫師承錄",
+      "path": "BOOK1/010.htm",
+      "url": "http://www.laijohn.com/BOOK1/010.htm"
+    },
+    {
+      "vol": 1,
+      "n": 11,
+      "title": "馬偕紀念醫院紀念冊",
+      "path": "BOOK1/011.htm",
+      "url": "http://www.laijohn.com/BOOK1/011.htm"
+    },
+    {
+      "vol": 1,
+      "n": 12,
+      "title": "「馬偕人」題名錄",
+      "path": "BOOK1/012.htm",
+      "url": "http://www.laijohn.com/BOOK1/012.htm"
+    },
+    {
+      "vol": 1,
+      "n": 13,
+      "title": "馬偕「看護婦學」學員",
+      "path": "BOOK1/013.htm",
+      "url": "http://www.laijohn.com/BOOK1/013.htm"
+    },
+    {
+      "vol": 1,
+      "n": 14,
+      "title": "馬偕台灣傳道記",
+      "path": "BOOK1/014.htm",
+      "url": "http://www.laijohn.com/BOOK1/014.htm"
+    },
+    {
+      "vol": 1,
+      "n": 15,
+      "title": "淡水學園的馬偕研究",
+      "path": "BOOK1/015.htm",
+      "url": "http://www.laijohn.com/BOOK1/015.htm"
+    },
+    {
+      "vol": 1,
+      "n": 16,
+      "title": "百年禧慶馬偕三傳",
+      "path": "BOOK1/016.htm",
+      "url": "http://www.laijohn.com/BOOK1/016.htm"
+    },
+    {
+      "vol": 1,
+      "n": 17,
+      "title": "英文馬偕文獻",
+      "path": "BOOK1/017.htm",
+      "url": "http://www.laijohn.com/BOOK1/017.htm"
+    },
+    {
+      "vol": 1,
+      "n": 18,
+      "title": "「台灣的巴克禮」",
+      "path": "BOOK1/018.htm",
+      "url": "http://www.laijohn.com/BOOK1/018.htm"
+    },
+    {
+      "vol": 1,
+      "n": 19,
+      "title": "巴克禮博士獻身書",
+      "path": "BOOK1/019.htm",
+      "url": "http://www.laijohn.com/BOOK1/019.htm"
+    },
+    {
+      "vol": 1,
+      "n": 20,
+      "title": "巴克禮推動白話字",
+      "path": "BOOK1/020.htm",
+      "url": "http://www.laijohn.com/BOOK1/020.htm"
+    },
+    {
+      "vol": 1,
+      "n": 21,
+      "title": "教會白話字的源流",
+      "path": "BOOK1/021.htm",
+      "url": "http://www.laijohn.com/BOOK1/021.htm"
+    },
+    {
+      "vol": 1,
+      "n": 22,
+      "title": "學習當地的語言的土方法",
+      "path": "BOOK1/022.htm",
+      "url": "http://www.laijohn.com/BOOK1/022.htm"
+    },
+    {
+      "vol": 1,
+      "n": 23,
+      "title": "馬偕「中西字典」",
+      "path": "BOOK1/023.htm",
+      "url": "http://www.laijohn.com/BOOK1/023.htm"
+    },
+    {
+      "vol": 1,
+      "n": 24,
+      "title": "早期的閩南話聖經",
+      "path": "BOOK1/024.htm",
+      "url": "http://www.laijohn.com/BOOK1/024.htm"
+    },
+    {
+      "vol": 1,
+      "n": 25,
+      "title": "馬雅各監印新約及舊約",
+      "path": "BOOK1/025.htm",
+      "url": "http://www.laijohn.com/BOOK1/025.htm"
+    },
+    {
+      "vol": 1,
+      "n": 26,
+      "title": "字邊無圈讀白話",
+      "path": "BOOK1/026.htm",
+      "url": "http://www.laijohn.com/BOOK1/026.htm"
+    },
+    {
+      "vol": 1,
+      "n": 27,
+      "title": "養心神詩五十九首頭句",
+      "path": "BOOK1/027.htm",
+      "url": "http://www.laijohn.com/BOOK1/027.htm"
+    },
+    {
+      "vol": 1,
+      "n": 28,
+      "title": "詩冊和早期信徒之入信",
+      "path": "BOOK1/028.htm",
+      "url": "http://www.laijohn.com/BOOK1/028.htm"
+    },
+    {
+      "vol": 1,
+      "n": 29,
+      "title": "杜嘉德編「廈英大辭典」",
+      "path": "BOOK1/029.htm",
+      "url": "http://www.laijohn.com/BOOK1/029.htm"
+    },
+    {
+      "vol": 1,
+      "n": 30,
+      "title": "巴克禮增補杜辭典",
+      "path": "BOOK1/030.htm",
+      "url": "http://www.laijohn.com/BOOK1/030.htm"
+    },
+    {
+      "vol": 1,
+      "n": 31,
+      "title": "英廈、荷廈等辭典",
+      "path": "BOOK1/031.htm",
+      "url": "http://www.laijohn.com/BOOK1/031.htm"
+    },
+    {
+      "vol": 1,
+      "n": 32,
+      "title": "廈門音新字典",
+      "path": "BOOK1/032.htm",
+      "url": "http://www.laijohn.com/BOOK1/032.htm"
+    },
+    {
+      "vol": 1,
+      "n": 33,
+      "title": "書序有名陳大鑼",
+      "path": "BOOK1/033.htm",
+      "url": "http://www.laijohn.com/BOOK1/033.htm"
+    },
+    {
+      "vol": 1,
+      "n": 34,
+      "title": "從「萬世盤」到「聖詩歌」",
+      "path": "BOOK1/034.htm",
+      "url": "http://www.laijohn.com/BOOK1/034.htm"
+    },
+    {
+      "vol": 1,
+      "n": 35,
+      "title": "甘為霖著作等身",
+      "path": "BOOK1/035.htm",
+      "url": "http://www.laijohn.com/BOOK1/035.htm"
+    },
+    {
+      "vol": 1,
+      "n": 36,
+      "title": "荷蘭台灣宣教史的開拓",
+      "path": "BOOK1/036.htm",
+      "url": "http://www.laijohn.com/BOOK1/036.htm"
+    },
+    {
+      "vol": 1,
+      "n": 37,
+      "title": "荷蘭時期駐台牧師名錄",
+      "path": "BOOK1/037.htm",
+      "url": "http://www.laijohn.com/BOOK1/037.htm"
+    },
+    {
+      "vol": 1,
+      "n": 38,
+      "title": "荷人教化所及的平埔社",
+      "path": "BOOK1/038.htm",
+      "url": "http://www.laijohn.com/BOOK1/038.htm"
+    },
+    {
+      "vol": 1,
+      "n": 39,
+      "title": "荷人羅馬字番語文獻",
+      "path": "BOOK1/039.htm",
+      "url": "http://www.laijohn.com/BOOK1/039.htm"
+    },
+    {
+      "vol": 1,
+      "n": 40,
+      "title": "新港文書",
+      "path": "BOOK1/040.htm",
+      "url": "http://www.laijohn.com/BOOK1/040.htm"
+    },
+    {
+      "vol": 1,
+      "n": 41,
+      "title": "紅毛親戚",
+      "path": "BOOK1/041.htm",
+      "url": "http://www.laijohn.com/BOOK1/041.htm"
+    },
+    {
+      "vol": 1,
+      "n": 42,
+      "title": "祖籍新港的李順義",
+      "path": "BOOK1/042.htm",
+      "url": "http://www.laijohn.com/BOOK1/042.htm"
+    },
+    {
+      "vol": 1,
+      "n": 43,
+      "title": "干治士湖",
+      "path": "BOOK1/043.htm",
+      "url": "http://www.laijohn.com/BOOK1/043.htm"
+    },
+    {
+      "vol": 1,
+      "n": 44,
+      "title": "被處死的荷蘭宣教師",
+      "path": "BOOK1/044.htm",
+      "url": "http://www.laijohn.com/BOOK1/044.htm"
+    },
+    {
+      "vol": 1,
+      "n": 45,
+      "title": "熱蘭遮城日誌",
+      "path": "BOOK1/045.htm",
+      "url": "http://www.laijohn.com/BOOK1/045.htm"
+    },
+    {
+      "vol": 1,
+      "n": 46,
+      "title": "殖民地宣教師的角色",
+      "path": "BOOK1/046.htm",
+      "url": "http://www.laijohn.com/BOOK1/046.htm"
+    },
+    {
+      "vol": 1,
+      "n": 47,
+      "title": "補述荷蘭宣教文獻",
+      "path": "BOOK1/047.htm",
+      "url": "http://www.laijohn.com/BOOK1/047.htm"
+    },
+    {
+      "vol": 1,
+      "n": 48,
+      "title": "天主教傳入台灣",
+      "path": "BOOK1/048.htm",
+      "url": "http://www.laijohn.com/BOOK1/048.htm"
+    },
+    {
+      "vol": 1,
+      "n": 49,
+      "title": "西班牙人的撤退",
+      "path": "BOOK1/049.htm",
+      "url": "http://www.laijohn.com/BOOK1/049.htm"
+    },
+    {
+      "vol": 1,
+      "n": 50,
+      "title": "鄭芝龍是天主教徒",
+      "path": "BOOK1/050.htm",
+      "url": "http://www.laijohn.com/BOOK1/050.htm"
+    },
+    {
+      "vol": 1,
+      "n": 51,
+      "title": "鄭成功優遇神父李科羅",
+      "path": "BOOK1/051.htm",
+      "url": "http://www.laijohn.com/BOOK1/051.htm"
+    },
+    {
+      "vol": 1,
+      "n": 52,
+      "title": "李科羅與鄭經",
+      "path": "BOOK1/052.htm",
+      "url": "http://www.laijohn.com/BOOK1/052.htm"
+    },
+    {
+      "vol": 1,
+      "n": 53,
+      "title": "鄭氏的呂宋政策",
+      "path": "BOOK1/053.htm",
+      "url": "http://www.laijohn.com/BOOK1/053.htm"
+    },
+    {
+      "vol": 1,
+      "n": 54,
+      "title": "康熙教土測繪台灣地圖",
+      "path": "BOOK1/054.htm",
+      "url": "http://www.laijohn.com/BOOK1/054.htm"
+    },
+    {
+      "vol": 1,
+      "n": 55,
+      "title": "林錦生與甘字典",
+      "path": "BOOK1/055.htm",
+      "url": "http://www.laijohn.com/BOOK1/055.htm"
+    },
+    {
+      "vol": 1,
+      "n": 56,
+      "title": "少年茂生手寫中堂",
+      "path": "BOOK1/056.htm",
+      "url": "http://www.laijohn.com/BOOK1/056.htm"
+    },
+    {
+      "vol": 1,
+      "n": 57,
+      "title": "跟費師母學練風琴",
+      "path": "BOOK1/057.htm",
+      "url": "http://www.laijohn.com/BOOK1/057.htm"
+    },
+    {
+      "vol": 1,
+      "n": 58,
+      "title": "自編詞譜合璧聖詩",
+      "path": "BOOK1/058.htm",
+      "url": "http://www.laijohn.com/BOOK1/058.htm"
+    },
+    {
+      "vol": 1,
+      "n": 59,
+      "title": "「聖詩歌」所加的詩",
+      "path": "BOOK1/059.htm",
+      "url": "http://www.laijohn.com/BOOK1/059.htm"
+    },
+    {
+      "vol": 1,
+      "n": 60,
+      "title": "打馬字的字典",
+      "path": "BOOK1/060.htm",
+      "url": "http://www.laijohn.com/BOOK1/060.htm"
+    },
+    {
+      "vol": 1,
+      "n": 61,
+      "title": "俗語字在甘字典",
+      "path": "BOOK1/061.htm",
+      "url": "http://www.laijohn.com/BOOK1/061.htm"
+    },
+    {
+      "vol": 1,
+      "n": 62,
+      "title": "對字典的期許",
+      "path": "BOOK1/062.htm",
+      "url": "http://www.laijohn.com/BOOK1/062.htm"
+    },
+    {
+      "vol": 1,
+      "n": 63,
+      "title": "干治士「台灣紀略」",
+      "path": "BOOK1/063.htm",
+      "url": "http://www.laijohn.com/BOOK1/063.htm"
+    },
+    {
+      "vol": 1,
+      "n": 64,
+      "title": "娶駐在地婦女為妻",
+      "path": "BOOK1/064.htm",
+      "url": "http://www.laijohn.com/BOOK1/064.htm"
+    },
+    {
+      "vol": 1,
+      "n": 65,
+      "title": "五千九百人政信",
+      "path": "BOOK1/065.htm",
+      "url": "http://www.laijohn.com/BOOK1/065.htm"
+    },
+    {
+      "vol": 1,
+      "n": 66,
+      "title": "台灣佈教之成功",
+      "path": "BOOK1/066.htm",
+      "url": "http://www.laijohn.com/BOOK1/066.htm"
+    },
+    {
+      "vol": 1,
+      "n": 67,
+      "title": "記教區的拓展及巡迴",
+      "path": "BOOK1/067.htm",
+      "url": "http://www.laijohn.com/BOOK1/067.htm"
+    },
+    {
+      "vol": 1,
+      "n": 68,
+      "title": "馬偕的教區",
+      "path": "BOOK1/068.htm",
+      "url": "http://www.laijohn.com/BOOK1/068.htm"
+    },
+    {
+      "vol": 1,
+      "n": 69,
+      "title": "白水溪遭難",
+      "path": "BOOK1/069.htm",
+      "url": "http://www.laijohn.com/BOOK1/069.htm"
+    },
+    {
+      "vol": 1,
+      "n": 70,
+      "title": "標天才之回憶",
+      "path": "BOOK1/070.htm",
+      "url": "http://www.laijohn.com/BOOK1/070.htm"
+    },
+    {
+      "vol": 1,
+      "n": 71,
+      "title": "斗六都司吳志高",
+      "path": "BOOK1/071.htm",
+      "url": "http://www.laijohn.com/BOOK1/071.htm"
+    },
+    {
+      "vol": 1,
+      "n": 72,
+      "title": "盲人信徒溫旺遭殺",
+      "path": "BOOK1/072.htm",
+      "url": "http://www.laijohn.com/BOOK1/072.htm"
+    },
+    {
+      "vol": 1,
+      "n": 73,
+      "title": "盲人事工的發韌",
+      "path": "BOOK1/073.htm",
+      "url": "http://www.laijohn.com/BOOK1/073.htm"
+    },
+    {
+      "vol": 1,
+      "n": 74,
+      "title": "設訓瞥堂在洪公祠",
+      "path": "BOOK1/074.htm",
+      "url": "http://www.laijohn.com/BOOK1/074.htm"
+    },
+    {
+      "vol": 1,
+      "n": 75,
+      "title": "甘為霖悼念林紅",
+      "path": "BOOK1/075.htm",
+      "url": "http://www.laijohn.com/BOOK1/075.htm"
+    },
+    {
+      "vol": 1,
+      "n": 76,
+      "title": "白河白水溪之遺跡",
+      "path": "BOOK1/076.htm",
+      "url": "http://www.laijohn.com/BOOK1/076.htm"
+    },
+    {
+      "vol": 1,
+      "n": 77,
+      "title": "教務教案檔",
+      "path": "BOOK1/077.htm",
+      "url": "http://www.laijohn.com/BOOK1/077.htm"
+    },
+    {
+      "vol": 1,
+      "n": 78,
+      "title": "陳祐稟白水溪案",
+      "path": "BOOK1/078.htm",
+      "url": "http://www.laijohn.com/BOOK1/078.htm"
+    },
+    {
+      "vol": 1,
+      "n": 79,
+      "title": "郁永河反巴黎論",
+      "path": "BOOK1/079.htm",
+      "url": "http://www.laijohn.com/BOOK1/079.htm"
+    },
+    {
+      "vol": 1,
+      "n": 80,
+      "title": "中西紀事",
+      "path": "BOOK1/080.htm",
+      "url": "http://www.laijohn.com/BOOK1/080.htm"
+    },
+    {
+      "vol": 1,
+      "n": 81,
+      "title": "馬禮遜之來華",
+      "path": "BOOK1/081.htm",
+      "url": "http://www.laijohn.com/BOOK1/081.htm"
+    },
+    {
+      "vol": 1,
+      "n": 82,
+      "title": "禁教令之弛廢",
+      "path": "BOOK1/082.htm",
+      "url": "http://www.laijohn.com/BOOK1/082.htm"
+    },
+    {
+      "vol": 1,
+      "n": 83,
+      "title": "早期派員來華之宣道會",
+      "path": "BOOK1/083.htm",
+      "url": "http://www.laijohn.com/BOOK1/083.htm"
+    },
+    {
+      "vol": 1,
+      "n": 84,
+      "title": "倫敦宣道會",
+      "path": "BOOK1/084.htm",
+      "url": "http://www.laijohn.com/BOOK1/084.htm"
+    },
+    {
+      "vol": 1,
+      "n": 85,
+      "title": "沿海傳道家郭實臘",
+      "path": "BOOK1/085.htm",
+      "url": "http://www.laijohn.com/BOOK1/085.htm"
+    },
+    {
+      "vol": 1,
+      "n": 86,
+      "title": "亞比絲喜美總會",
+      "path": "BOOK1/086.htm",
+      "url": "http://www.laijohn.com/BOOK1/086.htm"
+    },
+    {
+      "vol": 1,
+      "n": 87,
+      "title": "美國歸正教會",
+      "path": "BOOK1/087.htm",
+      "url": "http://www.laijohn.com/BOOK1/087.htm"
+    },
+    {
+      "vol": 1,
+      "n": 88,
+      "title": "英國長老會的宣道",
+      "path": "BOOK1/088.htm",
+      "url": "http://www.laijohn.com/BOOK1/088.htm"
+    },
+    {
+      "vol": 1,
+      "n": 89,
+      "title": "縮影教會更料",
+      "path": "BOOK1/089.htm",
+      "url": "http://www.laijohn.com/BOOK1/089.htm"
+    },
+    {
+      "vol": 1,
+      "n": 90,
+      "title": "記念賓威廉",
+      "path": "BOOK1/090.htm",
+      "url": "http://www.laijohn.com/BOOK1/090.htm"
+    },
+    {
+      "vol": 1,
+      "n": 91,
+      "title": "杜嘉德駐廈門",
+      "path": "BOOK1/091.htm",
+      "url": "http://www.laijohn.com/BOOK1/091.htm"
+    },
+    {
+      "vol": 1,
+      "n": 92,
+      "title": "全台紳民公約",
+      "path": "BOOK1/092.htm",
+      "url": "http://www.laijohn.com/BOOK1/092.htm"
+    },
+    {
+      "vol": 1,
+      "n": 93,
+      "title": "天主教捲土重來",
+      "path": "BOOK1/093.htm",
+      "url": "http://www.laijohn.com/BOOK1/093.htm"
+    },
+    {
+      "vol": 1,
+      "n": 94,
+      "title": "天主教的步伐",
+      "path": "BOOK1/094.htm",
+      "url": "http://www.laijohn.com/BOOK1/094.htm"
+    },
+    {
+      "vol": 1,
+      "n": 95,
+      "title": "同治天主堂被毀案",
+      "path": "BOOK1/095.htm",
+      "url": "http://www.laijohn.com/BOOK1/095.htm"
+    },
+    {
+      "vol": 1,
+      "n": 96,
+      "title": "台灣之開埠：",
+      "path": "BOOK1/096.htm",
+      "url": "http://www.laijohn.com/BOOK1/096.htm"
+    },
+    {
+      "vol": 1,
+      "n": 97,
+      "title": "杜嘉德聽到呼聲",
+      "path": "BOOK1/097.htm",
+      "url": "http://www.laijohn.com/BOOK1/097.htm"
+    },
+    {
+      "vol": 1,
+      "n": 98,
+      "title": "馬雅各醫生應召",
+      "path": "BOOK1/098.htm",
+      "url": "http://www.laijohn.com/BOOK1/098.htm"
+    },
+    {
+      "vol": 1,
+      "n": 99,
+      "title": "一八六五年五月",
+      "path": "BOOK1/099.htm",
+      "url": "http://www.laijohn.com/BOOK1/099.htm"
+    },
+    {
+      "vol": 1,
+      "n": 100,
+      "title": "指向台灣府城",
+      "path": "BOOK1/100.htm",
+      "url": "http://www.laijohn.com/BOOK1/100.htm"
+    },
+    {
+      "vol": 2,
+      "n": 101,
+      "title": "「臺灣今昔」",
+      "path": "book2/101.htm",
+      "url": "http://www.laijohn.com/book2/101.htm"
+    },
+    {
+      "vol": 2,
+      "n": 102,
+      "title": "府城廟宇和聯境",
+      "path": "book2/102.htm",
+      "url": "http://www.laijohn.com/book2/102.htm"
+    },
+    {
+      "vol": 2,
+      "n": 103,
+      "title": "水仙宮一帶是鬧市",
+      "path": "book2/103.htm",
+      "url": "http://www.laijohn.com/book2/103.htm"
+    },
+    {
+      "vol": 2,
+      "n": 104,
+      "title": "看西街設教受挫",
+      "path": "book2/104.htm",
+      "url": "http://www.laijohn.com/book2/104.htm"
+    },
+    {
+      "vol": 2,
+      "n": 105,
+      "title": "馬雅各回述挫折",
+      "path": "book2/105.htm",
+      "url": "http://www.laijohn.com/book2/105.htm"
+    },
+    {
+      "vol": 2,
+      "n": 106,
+      "title": "在旗後建立教堂",
+      "path": "book2/106.htm",
+      "url": "http://www.laijohn.com/book2/106.htm"
+    },
+    {
+      "vol": 2,
+      "n": 107,
+      "title": "天利行和必麒麟",
+      "path": "book2/107.htm",
+      "url": "http://www.laijohn.com/book2/107.htm"
+    },
+    {
+      "vol": 2,
+      "n": 108,
+      "title": "馬雅各初訪平埔社",
+      "path": "book2/108.htm",
+      "url": "http://www.laijohn.com/book2/108.htm"
+    },
+    {
+      "vol": 2,
+      "n": 109,
+      "title": "最早的領洗者",
+      "path": "book2/109.htm",
+      "url": "http://www.laijohn.com/book2/109.htm"
+    },
+    {
+      "vol": 2,
+      "n": 110,
+      "title": "旗後醫務的進展",
+      "path": "book2/110.htm",
+      "url": "http://www.laijohn.com/book2/110.htm"
+    },
+    {
+      "vol": 2,
+      "n": 111,
+      "title": "醫館管家黃嘉智",
+      "path": "book2/111.htm",
+      "url": "http://www.laijohn.com/book2/111.htm"
+    },
+    {
+      "vol": 2,
+      "n": 112,
+      "title": "進鳳山縣治埤頭",
+      "path": "book2/112.htm",
+      "url": "http://www.laijohn.com/book2/112.htm"
+    },
+    {
+      "vol": 2,
+      "n": 113,
+      "title": "首任駐台牧師李庥",
+      "path": "book2/113.htm",
+      "url": "http://www.laijohn.com/book2/113.htm"
+    },
+    {
+      "vol": 2,
+      "n": 114,
+      "title": "馬雅各的家屬",
+      "path": "book2/114.htm",
+      "url": "http://www.laijohn.com/book2/114.htm"
+    },
+    {
+      "vol": 2,
+      "n": 115,
+      "title": "三塊厝．莊清風",
+      "path": "book2/115.htm",
+      "url": "http://www.laijohn.com/book2/115.htm"
+    },
+    {
+      "vol": 2,
+      "n": 116,
+      "title": "多難的一八六八年",
+      "path": "book2/116.htm",
+      "url": "http://www.laijohn.com/book2/116.htm"
+    },
+    {
+      "vol": 2,
+      "n": 117,
+      "title": "民惡天主教",
+      "path": "book2/117.htm",
+      "url": "http://www.laijohn.com/book2/117.htm"
+    },
+    {
+      "vol": 2,
+      "n": 118,
+      "title": "高長的受苦",
+      "path": "book2/118.htm",
+      "url": "http://www.laijohn.com/book2/118.htm"
+    },
+    {
+      "vol": 2,
+      "n": 119,
+      "title": "用藥迷毒人",
+      "path": "book2/119.htm",
+      "url": "http://www.laijohn.com/book2/119.htm"
+    },
+    {
+      "vol": 2,
+      "n": 120,
+      "title": "埤頭教會大劫難",
+      "path": "book2/120.htm",
+      "url": "http://www.laijohn.com/book2/120.htm"
+    },
+    {
+      "vol": 2,
+      "n": 121,
+      "title": "莊清風殉教",
+      "path": "book2/121.htm",
+      "url": "http://www.laijohn.com/book2/121.htm"
+    },
+    {
+      "vol": 2,
+      "n": 122,
+      "title": "馬雅各上書阿禮國",
+      "path": "book2/122.htm",
+      "url": "http://www.laijohn.com/book2/122.htm"
+    },
+    {
+      "vol": 2,
+      "n": 123,
+      "title": "贖我罪過",
+      "path": "book2/123.htm",
+      "url": "http://www.laijohn.com/book2/123.htm"
+    },
+    {
+      "vol": 2,
+      "n": 124,
+      "title": "馬雅各之處境",
+      "path": "book2/124.htm",
+      "url": "http://www.laijohn.com/book2/124.htm"
+    },
+    {
+      "vol": 2,
+      "n": 125,
+      "title": "樟腦糾紛的解決",
+      "path": "book2/125.htm",
+      "url": "http://www.laijohn.com/book2/125.htm"
+    },
+    {
+      "vol": 2,
+      "n": 126,
+      "title": "高賢的故事",
+      "path": "book2/126.htm",
+      "url": "http://www.laijohn.com/book2/126.htm"
+    },
+    {
+      "vol": 2,
+      "n": 127,
+      "title": "善後及新部署",
+      "path": "book2/127.htm",
+      "url": "http://www.laijohn.com/book2/127.htm"
+    },
+    {
+      "vol": 2,
+      "n": 128,
+      "title": "深河伯本是賭徒",
+      "path": "book2/128.htm",
+      "url": "http://www.laijohn.com/book2/128.htm"
+    },
+    {
+      "vol": 2,
+      "n": 129,
+      "title": "傳道葉清遇殺真相",
+      "path": "book2/129.htm",
+      "url": "http://www.laijohn.com/book2/129.htm"
+    },
+    {
+      "vol": 2,
+      "n": 130,
+      "title": "「高長伯」傳探原",
+      "path": "book2/130.htm",
+      "url": "http://www.laijohn.com/book2/130.htm"
+    },
+    {
+      "vol": 2,
+      "n": 131,
+      "title": "念念不忘文哥",
+      "path": "book2/131.htm",
+      "url": "http://www.laijohn.com/book2/131.htm"
+    },
+    {
+      "vol": 2,
+      "n": 132,
+      "title": "漳州傳道陳子路",
+      "path": "book2/132.htm",
+      "url": "http://www.laijohn.com/book2/132.htm"
+    },
+    {
+      "vol": 2,
+      "n": 133,
+      "title": "埤頭教會教後向榮",
+      "path": "book2/133.htm",
+      "url": "http://www.laijohn.com/book2/133.htm"
+    },
+    {
+      "vol": 2,
+      "n": 134,
+      "title": "二老口舊樓",
+      "path": "book2/134.htm",
+      "url": "http://www.laijohn.com/book2/134.htm"
+    },
+    {
+      "vol": 2,
+      "n": 135,
+      "title": "府城七人受洗",
+      "path": "book2/135.htm",
+      "url": "http://www.laijohn.com/book2/135.htm"
+    },
+    {
+      "vol": 2,
+      "n": 136,
+      "title": "高耀槌破煙管",
+      "path": "book2/136.htm",
+      "url": "http://www.laijohn.com/book2/136.htm"
+    },
+    {
+      "vol": 2,
+      "n": 137,
+      "title": "由家譜尋線索",
+      "path": "book2/137.htm",
+      "url": "http://www.laijohn.com/book2/137.htm"
+    },
+    {
+      "vol": 2,
+      "n": 138,
+      "title": "劉光求族系",
+      "path": "book2/138.htm",
+      "url": "http://www.laijohn.com/book2/138.htm"
+    },
+    {
+      "vol": 2,
+      "n": 139,
+      "title": "吳意說我沒有空",
+      "path": "book2/139.htm",
+      "url": "http://www.laijohn.com/book2/139.htm"
+    },
+    {
+      "vol": 2,
+      "n": 140,
+      "title": "開設亭仔腳禮拜堂",
+      "path": "book2/140.htm",
+      "url": "http://www.laijohn.com/book2/140.htm"
+    },
+    {
+      "vol": 2,
+      "n": 141,
+      "title": "戴返遇見必麒麟",
+      "path": "book2/141.htm",
+      "url": "http://www.laijohn.com/book2/141.htm"
+    },
+    {
+      "vol": 2,
+      "n": 142,
+      "title": "木柵的歸主運動",
+      "path": "book2/142.htm",
+      "url": "http://www.laijohn.com/book2/142.htm"
+    },
+    {
+      "vol": 2,
+      "n": 143,
+      "title": "拔馬教會的起源",
+      "path": "book2/143.htm",
+      "url": "http://www.laijohn.com/book2/143.htm"
+    },
+    {
+      "vol": 2,
+      "n": 144,
+      "title": "卓加弄家譜",
+      "path": "book2/144.htm",
+      "url": "http://www.laijohn.com/book2/144.htm"
+    },
+    {
+      "vol": 2,
+      "n": 145,
+      "title": "崗仔林建堂年考",
+      "path": "book2/145.htm",
+      "url": "http://www.laijohn.com/book2/145.htm"
+    },
+    {
+      "vol": 2,
+      "n": 146,
+      "title": "崗仔林李家",
+      "path": "book2/146.htm",
+      "url": "http://www.laijohn.com/book2/146.htm"
+    },
+    {
+      "vol": 2,
+      "n": 147,
+      "title": "柑仔林教會自立待望",
+      "path": "book2/147.htm",
+      "url": "http://www.laijohn.com/book2/147.htm"
+    },
+    {
+      "vol": 2,
+      "n": 148,
+      "title": "東港以何聘為始",
+      "path": "book2/148.htm",
+      "url": "http://www.laijohn.com/book2/148.htm"
+    },
+    {
+      "vol": 2,
+      "n": 149,
+      "title": "在東港的早期發展",
+      "path": "book2/149.htm",
+      "url": "http://www.laijohn.com/book2/149.htm"
+    },
+    {
+      "vol": 2,
+      "n": 150,
+      "title": "划竹筏的吳著",
+      "path": "book2/150.htm",
+      "url": "http://www.laijohn.com/book2/150.htm"
+    },
+    {
+      "vol": 2,
+      "n": 151,
+      "title": "吳葛多產而聞名",
+      "path": "book2/151.htm",
+      "url": "http://www.laijohn.com/book2/151.htm"
+    },
+    {
+      "vol": 2,
+      "n": 152,
+      "title": "阿猴教務的拓展",
+      "path": "book2/152.htm",
+      "url": "http://www.laijohn.com/book2/152.htm"
+    },
+    {
+      "vol": 2,
+      "n": 153,
+      "title": "阿猴首任傳道彭根",
+      "path": "book2/153.htm",
+      "url": "http://www.laijohn.com/book2/153.htm"
+    },
+    {
+      "vol": 2,
+      "n": 154,
+      "title": "彭士藏長老",
+      "path": "book2/154.htm",
+      "url": "http://www.laijohn.com/book2/154.htm"
+    },
+    {
+      "vol": 2,
+      "n": 155,
+      "title": "竹仔腳教會起源",
+      "path": "book2/155.htm",
+      "url": "http://www.laijohn.com/book2/155.htm"
+    },
+    {
+      "vol": 2,
+      "n": 156,
+      "title": "劉沃出身劉厝庄",
+      "path": "book2/156.htm",
+      "url": "http://www.laijohn.com/book2/156.htm"
+    },
+    {
+      "vol": 2,
+      "n": 157,
+      "title": "里港劉謀一家",
+      "path": "book2/157.htm",
+      "url": "http://www.laijohn.com/book2/157.htm"
+    },
+    {
+      "vol": 2,
+      "n": 158,
+      "title": "東港何來發家系",
+      "path": "book2/158.htm",
+      "url": "http://www.laijohn.com/book2/158.htm"
+    },
+    {
+      "vol": 2,
+      "n": 159,
+      "title": "胡肇基傳道師",
+      "path": "book2/159.htm",
+      "url": "http://www.laijohn.com/book2/159.htm"
+    },
+    {
+      "vol": 2,
+      "n": 160,
+      "title": "自澎湖來的讀書人",
+      "path": "book2/160.htm",
+      "url": "http://www.laijohn.com/book2/160.htm"
+    },
+    {
+      "vol": 2,
+      "n": 161,
+      "title": "「上帝十命」",
+      "path": "book2/161.htm",
+      "url": "http://www.laijohn.com/book2/161.htm"
+    },
+    {
+      "vol": 2,
+      "n": 162,
+      "title": "尤羅伯編譯十誡",
+      "path": "book2/162.htm",
+      "url": "http://www.laijohn.com/book2/162.htm"
+    },
+    {
+      "vol": 2,
+      "n": 163,
+      "title": "奉祀「上帝」的民",
+      "path": "book2/163.htm",
+      "url": "http://www.laijohn.com/book2/163.htm"
+    },
+    {
+      "vol": 2,
+      "n": 164,
+      "title": "敬天敬神．敬上帝",
+      "path": "book2/164.htm",
+      "url": "http://www.laijohn.com/book2/164.htm"
+    },
+    {
+      "vol": 2,
+      "n": 165,
+      "title": "吳寬裕讀第五誠",
+      "path": "book2/165.htm",
+      "url": "http://www.laijohn.com/book2/165.htm"
+    },
+    {
+      "vol": 2,
+      "n": 166,
+      "title": "木柵早期領洗者",
+      "path": "book2/166.htm",
+      "url": "http://www.laijohn.com/book2/166.htm"
+    },
+    {
+      "vol": 2,
+      "n": 167,
+      "title": "跛腳的剃頭匠",
+      "path": "book2/167.htm",
+      "url": "http://www.laijohn.com/book2/167.htm"
+    },
+    {
+      "vol": 2,
+      "n": 171,
+      "title": "鳥松腳庄的黃家",
+      "path": "book2/171.htm",
+      "url": "http://www.laijohn.com/book2/171.htm"
+    },
+    {
+      "vol": 2,
+      "n": 173,
+      "title": "下庄仔的阮氏",
+      "path": "book2/173.htm",
+      "url": "http://www.laijohn.com/book2/173.htm"
+    },
+    {
+      "vol": 2,
+      "n": 176,
+      "title": "舊城黃香之裔",
+      "path": "book2/176.htm",
+      "url": "http://www.laijohn.com/book2/176.htm"
+    },
+    {
+      "vol": 2,
+      "n": 181,
+      "title": "「蔡生子孫家譜」",
+      "path": "book2/181.htm",
+      "url": "http://www.laijohn.com/book2/181.htm"
+    },
+    {
+      "vol": 2,
+      "n": 182,
+      "title": "瓦砍支派許姓族譜",
+      "path": "book2/182.htm",
+      "url": "http://www.laijohn.com/book2/182.htm"
+    },
+    {
+      "vol": 2,
+      "n": 183,
+      "title": "高長裔有五房",
+      "path": "book2/183.htm",
+      "url": "http://www.laijohn.com/book2/183.htm"
+    },
+    {
+      "vol": 2,
+      "n": 184,
+      "title": "埤頭陳齊之裔",
+      "path": "book2/184.htm",
+      "url": "http://www.laijohn.com/book2/184.htm"
+    },
+    {
+      "vol": 2,
+      "n": 185,
+      "title": "李豹之裔",
+      "path": "book2/185.htm",
+      "url": "http://www.laijohn.com/book2/185.htm"
+    },
+    {
+      "vol": 2,
+      "n": 186,
+      "title": "郭洪建是賣魚出身",
+      "path": "book2/186.htm",
+      "url": "http://www.laijohn.com/book2/186.htm"
+    },
+    {
+      "vol": 2,
+      "n": 187,
+      "title": "「讚！基督的福音」",
+      "path": "book2/187.htm",
+      "url": "http://www.laijohn.com/book2/187.htm"
+    },
+    {
+      "vol": 2,
+      "n": 188,
+      "title": "獲張約翰家恩錄",
+      "path": "book2/188.htm",
+      "url": "http://www.laijohn.com/book2/188.htm"
+    },
+    {
+      "vol": 2,
+      "n": 189,
+      "title": "媳婦仔蔥仔",
+      "path": "book2/189.htm",
+      "url": "http://www.laijohn.com/book2/189.htm"
+    },
+    {
+      "vol": 2,
+      "n": 190,
+      "title": "北部首位女信徒",
+      "path": "book2/190.htm",
+      "url": "http://www.laijohn.com/book2/190.htm"
+    },
+    {
+      "vol": 2,
+      "n": 191,
+      "title": "張新添之遭遇",
+      "path": "book2/191.htm",
+      "url": "http://www.laijohn.com/book2/191.htm"
+    },
+    {
+      "vol": 2,
+      "n": 192,
+      "title": "吳葛事略補述",
+      "path": "book2/192.htm",
+      "url": "http://www.laijohn.com/book2/192.htm"
+    },
+    {
+      "vol": 2,
+      "n": 193,
+      "title": "吳家牽親引戚",
+      "path": "book2/193.htm",
+      "url": "http://www.laijohn.com/book2/193.htm"
+    },
+    {
+      "vol": 2,
+      "n": 194,
+      "title": "為馬偕作媒",
+      "path": "book2/194.htm",
+      "url": "http://www.laijohn.com/book2/194.htm"
+    },
+    {
+      "vol": 2,
+      "n": 195,
+      "title": "汪培英百歲紀念集",
+      "path": "book2/195.htm",
+      "url": "http://www.laijohn.com/book2/195.htm"
+    },
+    {
+      "vol": 2,
+      "n": 196,
+      "title": "汪培英牧師略歷",
+      "path": "book2/196.htm",
+      "url": "http://www.laijohn.com/book2/196.htm"
+    },
+    {
+      "vol": 2,
+      "n": 197,
+      "title": "梅甘霧描述美見",
+      "path": "book2/197.htm",
+      "url": "http://www.laijohn.com/book2/197.htm"
+    },
+    {
+      "vol": 2,
+      "n": 198,
+      "title": "泰平農園與吳家",
+      "path": "book2/198.htm",
+      "url": "http://www.laijohn.com/book2/198.htm"
+    },
+    {
+      "vol": 2,
+      "n": 199,
+      "title": "吳希榮牧師逸事",
+      "path": "book2/199.htm",
+      "url": "http://www.laijohn.com/book2/199.htm"
+    },
+    {
+      "vol": 2,
+      "n": 200,
+      "title": "「至於我和我家」",
+      "path": "book2/200.htm",
+      "url": "http://www.laijohn.com/book2/200.htm"
+    },
+    {
+      "vol": 3,
+      "n": 201,
+      "title": "馬雅各名醫神技",
+      "path": "book3/201.htm",
+      "url": "http://www.laijohn.com/book3/201.htm"
+    },
+    {
+      "vol": 3,
+      "n": 202,
+      "title": "馬醫生名傳四方",
+      "path": "book3/202.htm",
+      "url": "http://www.laijohn.com/book3/202.htm"
+    },
+    {
+      "vol": 3,
+      "n": 203,
+      "title": "福音傳到台灣中部",
+      "path": "book3/203.htm",
+      "url": "http://www.laijohn.com/book3/203.htm"
+    },
+    {
+      "vol": 3,
+      "n": 204,
+      "title": "烏牛欄潘開山武干",
+      "path": "book3/204.htm",
+      "url": "http://www.laijohn.com/book3/204.htm"
+    },
+    {
+      "vol": 3,
+      "n": 205,
+      "title": "大社最早的領洗者",
+      "path": "book3/205.htm",
+      "url": "http://www.laijohn.com/book3/205.htm"
+    },
+    {
+      "vol": 3,
+      "n": 206,
+      "title": "大社潘交根阿打歪",
+      "path": "book3/206.htm",
+      "url": "http://www.laijohn.com/book3/206.htm"
+    },
+    {
+      "vol": 3,
+      "n": 207,
+      "title": "吳子光寓居岸裡社",
+      "path": "book3/207.htm",
+      "url": "http://www.laijohn.com/book3/207.htm"
+    },
+    {
+      "vol": 3,
+      "n": 208,
+      "title": "岸裡社受封土賜姓",
+      "path": "book3/208.htm",
+      "url": "http://www.laijohn.com/book3/208.htm"
+    },
+    {
+      "vol": 3,
+      "n": 209,
+      "title": "總土官阿穆派下",
+      "path": "book3/209.htm",
+      "url": "http://www.laijohn.com/book3/209.htm"
+    },
+    {
+      "vol": 3,
+      "n": 210,
+      "title": "大社的早期進教者",
+      "path": "book3/210.htm",
+      "url": "http://www.laijohn.com/book3/210.htm"
+    },
+    {
+      "vol": 3,
+      "n": 211,
+      "title": "內社首次領洗者",
+      "path": "book3/211.htm",
+      "url": "http://www.laijohn.com/book3/211.htm"
+    },
+    {
+      "vol": 3,
+      "n": 212,
+      "title": "德馬太醫生",
+      "path": "book3/212.htm",
+      "url": "http://www.laijohn.com/book3/212.htm"
+    },
+    {
+      "vol": 3,
+      "n": 213,
+      "title": "甘為霖受封駐府城",
+      "path": "book3/213.htm",
+      "url": "http://www.laijohn.com/book3/213.htm"
+    },
+    {
+      "vol": 3,
+      "n": 214,
+      "title": "蘇格蘭出身的牧師",
+      "path": "book3/214.htm",
+      "url": "http://www.laijohn.com/book3/214.htm"
+    },
+    {
+      "vol": 3,
+      "n": 215,
+      "title": "馬偕的蘇格蘭淵源",
+      "path": "book3/215.htm",
+      "url": "http://www.laijohn.com/book3/215.htm"
+    },
+    {
+      "vol": 3,
+      "n": 216,
+      "title": "遙遠的臺灣！",
+      "path": "book3/216.htm",
+      "url": "http://www.laijohn.com/book3/216.htm"
+    },
+    {
+      "vol": 3,
+      "n": 217,
+      "title": "我常與你同在！",
+      "path": "book3/217.htm",
+      "url": "http://www.laijohn.com/book3/217.htm"
+    },
+    {
+      "vol": 3,
+      "n": 218,
+      "title": "馬偕抵打狗找李庥",
+      "path": "book3/218.htm",
+      "url": "http://www.laijohn.com/book3/218.htm"
+    },
+    {
+      "vol": 3,
+      "n": 219,
+      "title": "從打狗到淡水",
+      "path": "book3/219.htm",
+      "url": "http://www.laijohn.com/book3/219.htm"
+    },
+    {
+      "vol": 3,
+      "n": 220,
+      "title": "「女皇飯店」",
+      "path": "book3/220.htm",
+      "url": "http://www.laijohn.com/book3/220.htm"
+    },
+    {
+      "vol": 3,
+      "n": 221,
+      "title": "南下到大社埔社",
+      "path": "book3/221.htm",
+      "url": "http://www.laijohn.com/book3/221.htm"
+    },
+    {
+      "vol": 3,
+      "n": 222,
+      "title": "巴宰族裔的土名",
+      "path": "book3/222.htm",
+      "url": "http://www.laijohn.com/book3/222.htm"
+    },
+    {
+      "vol": 3,
+      "n": 223,
+      "title": "尋找開山武干之裔",
+      "path": "book3/223.htm",
+      "url": "http://www.laijohn.com/book3/223.htm"
+    },
+    {
+      "vol": 3,
+      "n": 224,
+      "title": "甘為霖府城初印象",
+      "path": "book3/224.htm",
+      "url": "http://www.laijohn.com/book3/224.htm"
+    },
+    {
+      "vol": 3,
+      "n": 225,
+      "title": "布屏隔開男女席",
+      "path": "book3/225.htm",
+      "url": "http://www.laijohn.com/book3/225.htm"
+    },
+    {
+      "vol": 3,
+      "n": 226,
+      "title": "山崗四社傳道站",
+      "path": "book3/226.htm",
+      "url": "http://www.laijohn.com/book3/226.htm"
+    },
+    {
+      "vol": 3,
+      "n": 227,
+      "title": "湯姆遜山崗印象記",
+      "path": "book3/227.htm",
+      "url": "http://www.laijohn.com/book3/227.htm"
+    },
+    {
+      "vol": 3,
+      "n": 228,
+      "title": "廈門葉漢章牧師",
+      "path": "book3/228.htm",
+      "url": "http://www.laijohn.com/book3/228.htm"
+    },
+    {
+      "vol": 3,
+      "n": 229,
+      "title": "熱帶醫學之父萬巴德",
+      "path": "book3/229.htm",
+      "url": "http://www.laijohn.com/book3/229.htm"
+    },
+    {
+      "vol": 3,
+      "n": 230,
+      "title": "是萬大衛接馬偕上岸",
+      "path": "book3/230.htm",
+      "url": "http://www.laijohn.com/book3/230.htm"
+    },
+    {
+      "vol": 3,
+      "n": 231,
+      "title": "萬大衛的醫務報告",
+      "path": "book3/231.htm",
+      "url": "http://www.laijohn.com/book3/231.htm"
+    },
+    {
+      "vol": 3,
+      "n": 232,
+      "title": "馬偕談述本地醫生",
+      "path": "book3/232.htm",
+      "url": "http://www.laijohn.com/book3/232.htm"
+    },
+    {
+      "vol": 3,
+      "n": 233,
+      "title": "汪培英牧師的藥方",
+      "path": "book3/233.htm",
+      "url": "http://www.laijohn.com/book3/233.htm"
+    },
+    {
+      "vol": 3,
+      "n": 234,
+      "title": "甘為霖首次訪大社",
+      "path": "book3/234.htm",
+      "url": "http://www.laijohn.com/book3/234.htm"
+    },
+    {
+      "vol": 3,
+      "n": 235,
+      "title": "大社內社各有進展",
+      "path": "book3/235.htm",
+      "url": "http://www.laijohn.com/book3/235.htm"
+    },
+    {
+      "vol": 3,
+      "n": 236,
+      "title": "內社首次選出長執",
+      "path": "book3/236.htm",
+      "url": "http://www.laijohn.com/book3/236.htm"
+    },
+    {
+      "vol": 3,
+      "n": 237,
+      "title": "內社潘文良遇番害",
+      "path": "book3/237.htm",
+      "url": "http://www.laijohn.com/book3/237.htm"
+    },
+    {
+      "vol": 3,
+      "n": 238,
+      "title": "打雨鬧里接替文良",
+      "path": "book3/238.htm",
+      "url": "http://www.laijohn.com/book3/238.htm"
+    },
+    {
+      "vol": 3,
+      "n": 239,
+      "title": "許銳在獅潭底遇害",
+      "path": "book3/239.htm",
+      "url": "http://www.laijohn.com/book3/239.htm"
+    },
+    {
+      "vol": 3,
+      "n": 240,
+      "title": "馬偕在新港的奇遇",
+      "path": "book3/240.htm",
+      "url": "http://www.laijohn.com/book3/240.htm"
+    },
+    {
+      "vol": 3,
+      "n": 245,
+      "title": "馬偕的淡水素描",
+      "path": "book3/245.htm",
+      "url": "http://www.laijohn.com/book3/245.htm"
+    },
+    {
+      "vol": 3,
+      "n": 248,
+      "title": "馬偕在淡水的新生活",
+      "path": "book3/248.htm",
+      "url": "http://www.laijohn.com/book3/248.htm"
+    },
+    {
+      "vol": 3,
+      "n": 249,
+      "title": "青年阿華就近馬偕",
+      "path": "book3/249.htm",
+      "url": "http://www.laijohn.com/book3/249.htm"
+    },
+    {
+      "vol": 3,
+      "n": 250,
+      "title": "嚴清華的身世及弟妹",
+      "path": "book3/250.htm",
+      "url": "http://www.laijohn.com/book3/250.htm"
+    },
+    {
+      "vol": 3,
+      "n": 251,
+      "title": "我教阿華．阿華教我",
+      "path": "book3/251.htm",
+      "url": "http://www.laijohn.com/book3/251.htm"
+    },
+    {
+      "vol": 3,
+      "n": 252,
+      "title": "首次祈禱．學習自然",
+      "path": "book3/252.htm",
+      "url": "http://www.laijohn.com/book3/252.htm"
+    },
+    {
+      "vol": 3,
+      "n": 253,
+      "title": "雞籠廟前阿華証道",
+      "path": "book3/253.htm",
+      "url": "http://www.laijohn.com/book3/253.htm"
+    },
+    {
+      "vol": 3,
+      "n": 254,
+      "title": "五股坑設教和陳炮",
+      "path": "book3/254.htm",
+      "url": "http://www.laijohn.com/book3/254.htm"
+    },
+    {
+      "vol": 3,
+      "n": 255,
+      "title": "陳炮壹子廢棄婚約",
+      "path": "book3/255.htm",
+      "url": "http://www.laijohn.com/book3/255.htm"
+    },
+    {
+      "vol": 3,
+      "n": 256,
+      "title": "嚴清華妹婿陳雲騰",
+      "path": "book3/256.htm",
+      "url": "http://www.laijohn.com/book3/256.htm"
+    },
+    {
+      "vol": 3,
+      "n": 257,
+      "title": "五股陳炮長老之裔",
+      "path": "book3/257.htm",
+      "url": "http://www.laijohn.com/book3/257.htm"
+    },
+    {
+      "vol": 3,
+      "n": 258,
+      "title": "母親責吳寬裕入信",
+      "path": "book3/258.htm",
+      "url": "http://www.laijohn.com/book3/258.htm"
+    },
+    {
+      "vol": 3,
+      "n": 260,
+      "title": "淡水五人受洗接餐",
+      "path": "book3/260.htm",
+      "url": "http://www.laijohn.com/book3/260.htm"
+    },
+    {
+      "vol": 3,
+      "n": 261,
+      "title": "再述北部首次聖禮典",
+      "path": "book3/261.htm",
+      "url": "http://www.laijohn.com/book3/261.htm"
+    },
+    {
+      "vol": 3,
+      "n": 262,
+      "title": "木匠林孽成為傳道",
+      "path": "book3/262.htm",
+      "url": "http://www.laijohn.com/book3/262.htm"
+    },
+    {
+      "vol": 3,
+      "n": 263,
+      "title": "嚴清華之後半生涯",
+      "path": "book3/263.htm",
+      "url": "http://www.laijohn.com/book3/263.htm"
+    },
+    {
+      "vol": 3,
+      "n": 264,
+      "title": "能幹的嚴清華牧師",
+      "path": "book3/264.htm",
+      "url": "http://www.laijohn.com/book3/264.htm"
+    },
+    {
+      "vol": 3,
+      "n": 265,
+      "title": "陳火就是陳榮輝：",
+      "path": "book3/265.htm",
+      "url": "http://www.laijohn.com/book3/265.htm"
+    },
+    {
+      "vol": 3,
+      "n": 266,
+      "title": "陳長流陳能及其裔",
+      "path": "book3/266.htm",
+      "url": "http://www.laijohn.com/book3/266.htm"
+    },
+    {
+      "vol": 3,
+      "n": 267,
+      "title": "陳榮輝牧師的履歷",
+      "path": "book3/267.htm",
+      "url": "http://www.laijohn.com/book3/267.htm"
+    },
+    {
+      "vol": 3,
+      "n": 268,
+      "title": "馬偕主持首次婚禮",
+      "path": "book3/268.htm",
+      "url": "http://www.laijohn.com/book3/268.htm"
+    },
+    {
+      "vol": 3,
+      "n": 269,
+      "title": "墊師蕭大醇全家入信",
+      "path": "book3/269.htm",
+      "url": "http://www.laijohn.com/book3/269.htm"
+    },
+    {
+      "vol": 3,
+      "n": 270,
+      "title": "在觀音山原的腳蹤",
+      "path": "book3/270.htm",
+      "url": "http://www.laijohn.com/book3/270.htm"
+    },
+    {
+      "vol": 3,
+      "n": 271,
+      "title": "陳榮輝僥倖保生命",
+      "path": "book3/271.htm",
+      "url": "http://www.laijohn.com/book3/271.htm"
+    },
+    {
+      "vol": 3,
+      "n": 272,
+      "title": "陳榮輝牧師受敬重",
+      "path": "book3/272.htm",
+      "url": "http://www.laijohn.com/book3/272.htm"
+    },
+    {
+      "vol": 3,
+      "n": 273,
+      "title": "初到洲裡、八里岔：",
+      "path": "book3/273.htm",
+      "url": "http://www.laijohn.com/book3/273.htm"
+    },
+    {
+      "vol": 3,
+      "n": 274,
+      "title": "早年的洲裡教會",
+      "path": "book3/274.htm",
+      "url": "http://www.laijohn.com/book3/274.htm"
+    },
+    {
+      "vol": 3,
+      "n": 275,
+      "title": "八里岔教會的建立",
+      "path": "book3/275.htm",
+      "url": "http://www.laijohn.com/book3/275.htm"
+    },
+    {
+      "vol": 3,
+      "n": 276,
+      "title": "三重埔至水返腳",
+      "path": "book3/276.htm",
+      "url": "http://www.laijohn.com/book3/276.htm"
+    },
+    {
+      "vol": 3,
+      "n": 277,
+      "title": "新店設教的經過",
+      "path": "book3/277.htm",
+      "url": "http://www.laijohn.com/book3/277.htm"
+    },
+    {
+      "vol": 3,
+      "n": 278,
+      "title": "吳寬裕在新店成親",
+      "path": "book3/278.htm",
+      "url": "http://www.laijohn.com/book3/278.htm"
+    },
+    {
+      "vol": 3,
+      "n": 279,
+      "title": "雞籠設教前後小記",
+      "path": "book3/279.htm",
+      "url": "http://www.laijohn.com/book3/279.htm"
+    },
+    {
+      "vol": 3,
+      "n": 280,
+      "title": "高振和雞籠設教",
+      "path": "book3/280.htm",
+      "url": "http://www.laijohn.com/book3/280.htm"
+    },
+    {
+      "vol": 3,
+      "n": 281,
+      "title": "洲裡陳士美的故事",
+      "path": "book3/281.htm",
+      "url": "http://www.laijohn.com/book3/281.htm"
+    },
+    {
+      "vol": 3,
+      "n": 282,
+      "title": "和尚洲李東面父子案",
+      "path": "book3/282.htm",
+      "url": "http://www.laijohn.com/book3/282.htm"
+    },
+    {
+      "vol": 3,
+      "n": 283,
+      "title": "馬偕述評清期司法",
+      "path": "book3/283.htm",
+      "url": "http://www.laijohn.com/book3/283.htm"
+    },
+    {
+      "vol": 3,
+      "n": 284,
+      "title": "光緒二年三重埔教案",
+      "path": "book3/284.htm",
+      "url": "http://www.laijohn.com/book3/284.htm"
+    },
+    {
+      "vol": 3,
+      "n": 285,
+      "title": "姦犯冒稱入教而起",
+      "path": "book3/285.htm",
+      "url": "http://www.laijohn.com/book3/285.htm"
+    },
+    {
+      "vol": 3,
+      "n": 286,
+      "title": "陳願和大龍恫設教",
+      "path": "book3/286.htm",
+      "url": "http://www.laijohn.com/book3/286.htm"
+    },
+    {
+      "vol": 3,
+      "n": 287,
+      "title": "米粉寮的柯厝入信",
+      "path": "book3/287.htm",
+      "url": "http://www.laijohn.com/book3/287.htm"
+    },
+    {
+      "vol": 3,
+      "n": 288,
+      "title": "崙仔頂的李恭李沃",
+      "path": "book3/288.htm",
+      "url": "http://www.laijohn.com/book3/288.htm"
+    },
+    {
+      "vol": 3,
+      "n": 289,
+      "title": "錫口街租屋設教",
+      "path": "book3/289.htm",
+      "url": "http://www.laijohn.com/book3/289.htm"
+    },
+    {
+      "vol": 3,
+      "n": 290,
+      "title": "陳雲燕裔簡譜",
+      "path": "book3/290.htm",
+      "url": "http://www.laijohn.com/book3/290.htm"
+    },
+    {
+      "vol": 3,
+      "n": 291,
+      "title": "社子庄的郭姓信徒",
+      "path": "book3/291.htm",
+      "url": "http://www.laijohn.com/book3/291.htm"
+    },
+    {
+      "vol": 3,
+      "n": 292,
+      "title": "光緒初年新店教案",
+      "path": "book3/292.htm",
+      "url": "http://www.laijohn.com/book3/292.htm"
+    },
+    {
+      "vol": 3,
+      "n": 293,
+      "title": "後埔仔溪洲的設教",
+      "path": "book3/293.htm",
+      "url": "http://www.laijohn.com/book3/293.htm"
+    },
+    {
+      "vol": 3,
+      "n": 294,
+      "title": "三角湧石頭擦過身",
+      "path": "book3/294.htm",
+      "url": "http://www.laijohn.com/book3/294.htm"
+    },
+    {
+      "vol": 3,
+      "n": 295,
+      "title": "三角湧礁溪庄林姓",
+      "path": "book3/295.htm",
+      "url": "http://www.laijohn.com/book3/295.htm"
+    },
+    {
+      "vol": 3,
+      "n": 296,
+      "title": "張新添有孫戴伯福",
+      "path": "book3/296.htm",
+      "url": "http://www.laijohn.com/book3/296.htm"
+    },
+    {
+      "vol": 3,
+      "n": 297,
+      "title": "五股坑陳江河之死",
+      "path": "book3/297.htm",
+      "url": "http://www.laijohn.com/book3/297.htm"
+    },
+    {
+      "vol": 3,
+      "n": 298,
+      "title": "水返腳曹恩及其裔",
+      "path": "book3/298.htm",
+      "url": "http://www.laijohn.com/book3/298.htm"
+    },
+    {
+      "vol": 3,
+      "n": 299,
+      "title": "獄死的高賜及其裔",
+      "path": "book3/299.htm",
+      "url": "http://www.laijohn.com/book3/299.htm"
+    },
+    {
+      "vol": 3,
+      "n": 300,
+      "title": "李水車教師的父母",
+      "path": "book3/300.htm",
+      "url": "http://www.laijohn.com/book3/300.htm"
+    },
+    {
+      "vol": 4,
+      "n": 301,
+      "title": "馬雅各紀念教會史",
+      "path": "book4/301.htm",
+      "url": "http://www.laijohn.com/book4/301.htm"
+    },
+    {
+      "vol": 4,
+      "n": 302,
+      "title": "黃茂卿抱住教會史",
+      "path": "book4/302.htm",
+      "url": "http://www.laijohn.com/book4/302.htm"
+    },
+    {
+      "vol": 4,
+      "n": 303,
+      "title": "欽佩茂卿博采資料",
+      "path": "book4/303.htm",
+      "url": "http://www.laijohn.com/book4/303.htm"
+    },
+    {
+      "vol": 4,
+      "n": 304,
+      "title": "甘姑娘手交壹「手冊」",
+      "path": "book4/304.htm",
+      "url": "http://www.laijohn.com/book4/304.htm"
+    },
+    {
+      "vol": 4,
+      "n": 305,
+      "title": "資料館藏使信月刊",
+      "path": "book4/305.htm",
+      "url": "http://www.laijohn.com/book4/305.htm"
+    },
+    {
+      "vol": 4,
+      "n": 306,
+      "title": "追尋巴克禮的遺物",
+      "path": "book4/306.htm",
+      "url": "http://www.laijohn.com/book4/306.htm"
+    },
+    {
+      "vol": 4,
+      "n": 307,
+      "title": "在巴克禮書架上的",
+      "path": "book4/307.htm",
+      "url": "http://www.laijohn.com/book4/307.htm"
+    },
+    {
+      "vol": 4,
+      "n": 308,
+      "title": "黃武東晚年的心願",
+      "path": "book4/308.htm",
+      "url": "http://www.laijohn.com/book4/308.htm"
+    },
+    {
+      "vol": 4,
+      "n": 309,
+      "title": "「長榮中學百年史」",
+      "path": "book4/309.htm",
+      "url": "http://www.laijohn.com/book4/309.htm"
+    },
+    {
+      "vol": 4,
+      "n": 310,
+      "title": "教土會議設男中學",
+      "path": "book4/310.htm",
+      "url": "http://www.laijohn.com/book4/310.htm"
+    },
+    {
+      "vol": 4,
+      "n": 311,
+      "title": "長老教中學招生了",
+      "path": "book4/311.htm",
+      "url": "http://www.laijohn.com/book4/311.htm"
+    },
+    {
+      "vol": 4,
+      "n": 312,
+      "title": "余饒埋三字經註解",
+      "path": "book4/312.htm",
+      "url": "http://www.laijohn.com/book4/312.htm"
+    },
+    {
+      "vol": 4,
+      "n": 313,
+      "title": "劉主燈學業成績單",
+      "path": "book4/313.htm",
+      "url": "http://www.laijohn.com/book4/313.htm"
+    },
+    {
+      "vol": 4,
+      "n": 314,
+      "title": "羅華改造統一書翰文",
+      "path": "book4/314.htm",
+      "url": "http://www.laijohn.com/book4/314.htm"
+    },
+    {
+      "vol": 4,
+      "n": 315,
+      "title": "「天國奧秘全照射」跋",
+      "path": "book4/315.htm",
+      "url": "http://www.laijohn.com/book4/315.htm"
+    },
+    {
+      "vol": 4,
+      "n": 316,
+      "title": "回憶長中東門建舍",
+      "path": "book4/316.htm",
+      "url": "http://www.laijohn.com/book4/316.htm"
+    },
+    {
+      "vol": 4,
+      "n": 317,
+      "title": "高歧鳳就是劉瑞山",
+      "path": "book4/317.htm",
+      "url": "http://www.laijohn.com/book4/317.htm"
+    },
+    {
+      "vol": 4,
+      "n": 318,
+      "title": "甘余二師記高天賜",
+      "path": "book4/318.htm",
+      "url": "http://www.laijohn.com/book4/318.htm"
+    },
+    {
+      "vol": 4,
+      "n": 319,
+      "title": "福州鶴齡英華書院",
+      "path": "book4/319.htm",
+      "url": "http://www.laijohn.com/book4/319.htm"
+    },
+    {
+      "vol": 4,
+      "n": 320,
+      "title": "在洪公祠設主日學",
+      "path": "book4/320.htm",
+      "url": "http://www.laijohn.com/book4/320.htm"
+    },
+    {
+      "vol": 4,
+      "n": 321,
+      "title": "府城教會高耀長老",
+      "path": "book4/321.htm",
+      "url": "http://www.laijohn.com/book4/321.htm"
+    },
+    {
+      "vol": 4,
+      "n": 322,
+      "title": "劉光求神主牌談起",
+      "path": "book4/322.htm",
+      "url": "http://www.laijohn.com/book4/322.htm"
+    },
+    {
+      "vol": 4,
+      "n": 323,
+      "title": "劉錫五長老的小傳",
+      "path": "book4/323.htm",
+      "url": "http://www.laijohn.com/book4/323.htm"
+    },
+    {
+      "vol": 4,
+      "n": 324,
+      "title": "中學頭班生潘阿炎",
+      "path": "book4/324.htm",
+      "url": "http://www.laijohn.com/book4/324.htm"
+    },
+    {
+      "vol": 4,
+      "n": 325,
+      "title": "傳道李文盛及其裔",
+      "path": "book4/325.htm",
+      "url": "http://www.laijohn.com/book4/325.htm"
+    },
+    {
+      "vol": 4,
+      "n": 326,
+      "title": "李本蘇得婚約案例",
+      "path": "book4/326.htm",
+      "url": "http://www.laijohn.com/book4/326.htm"
+    },
+    {
+      "vol": 4,
+      "n": 327,
+      "title": "李庥天婦籌建女學",
+      "path": "book4/327.htm",
+      "url": "http://www.laijohn.com/book4/327.htm"
+    },
+    {
+      "vol": 4,
+      "n": 328,
+      "title": "首批駐台女宣教師",
+      "path": "book4/328.htm",
+      "url": "http://www.laijohn.com/book4/328.htm"
+    },
+    {
+      "vol": 4,
+      "n": 329,
+      "title": "蓋建女學及姑娘樓",
+      "path": "book4/329.htm",
+      "url": "http://www.laijohn.com/book4/329.htm"
+    },
+    {
+      "vol": 4,
+      "n": 330,
+      "title": "長老教女學的開學",
+      "path": "book4/330.htm",
+      "url": "http://www.laijohn.com/book4/330.htm"
+    },
+    {
+      "vol": 4,
+      "n": 331,
+      "title": "不纏足運動的先鋒",
+      "path": "book4/331.htm",
+      "url": "http://www.laijohn.com/book4/331.htm"
+    },
+    {
+      "vol": 4,
+      "n": 332,
+      "title": "陳六伯的兩個女兒",
+      "path": "book4/332.htm",
+      "url": "http://www.laijohn.com/book4/332.htm"
+    },
+    {
+      "vol": 4,
+      "n": 333,
+      "title": "內社出身的潘阿金",
+      "path": "book4/333.htm",
+      "url": "http://www.laijohn.com/book4/333.htm"
+    },
+    {
+      "vol": 4,
+      "n": 334,
+      "title": "高鐵潘阿金的婚事",
+      "path": "book4/334.htm",
+      "url": "http://www.laijohn.com/book4/334.htm"
+    },
+    {
+      "vol": 4,
+      "n": 335,
+      "title": "學天道者宜求良朋",
+      "path": "book4/335.htm",
+      "url": "http://www.laijohn.com/book4/335.htm"
+    },
+    {
+      "vol": 4,
+      "n": 336,
+      "title": "高長在福建結過婚",
+      "path": "book4/336.htm",
+      "url": "http://www.laijohn.com/book4/336.htm"
+    },
+    {
+      "vol": 4,
+      "n": 337,
+      "title": "可以將兒女給人嗎？",
+      "path": "book4/337.htm",
+      "url": "http://www.laijohn.com/book4/337.htm"
+    },
+    {
+      "vol": 4,
+      "n": 338,
+      "title": "西螺廖陳明鏡長老",
+      "path": "book4/338.htm",
+      "url": "http://www.laijohn.com/book4/338.htm"
+    },
+    {
+      "vol": 4,
+      "n": 339,
+      "title": "一0六歲人瑞吳偷",
+      "path": "book4/339.htm",
+      "url": "http://www.laijohn.com/book4/339.htm"
+    },
+    {
+      "vol": 4,
+      "n": 340,
+      "title": "龔家女學有百年緣",
+      "path": "book4/340.htm",
+      "url": "http://www.laijohn.com/book4/340.htm"
+    },
+    {
+      "vol": 4,
+      "n": 341,
+      "title": "長榮女中的紀念刊",
+      "path": "book4/341.htm",
+      "url": "http://www.laijohn.com/book4/341.htm"
+    },
+    {
+      "vol": 4,
+      "n": 342,
+      "title": "李仁義長老娘林宇",
+      "path": "book4/342.htm",
+      "url": "http://www.laijohn.com/book4/342.htm"
+    },
+    {
+      "vol": 4,
+      "n": 343,
+      "title": "買快自拔馬進女學",
+      "path": "book4/343.htm",
+      "url": "http://www.laijohn.com/book4/343.htm"
+    },
+    {
+      "vol": 4,
+      "n": 344,
+      "title": "拔馬買矸長老之裔",
+      "path": "book4/344.htm",
+      "url": "http://www.laijohn.com/book4/344.htm"
+    },
+    {
+      "vol": 4,
+      "n": 345,
+      "title": "趙爵祥的傳道生涯",
+      "path": "book4/345.htm",
+      "url": "http://www.laijohn.com/book4/345.htm"
+    },
+    {
+      "vol": 4,
+      "n": 346,
+      "title": "趙天慈撰「回憶錄",
+      "path": "book4/346.htm",
+      "url": "http://www.laijohn.com/book4/346.htm"
+    },
+    {
+      "vol": 4,
+      "n": 347,
+      "title": "女學首屆生趙油柑",
+      "path": "book4/347.htm",
+      "url": "http://www.laijohn.com/book4/347.htm"
+    },
+    {
+      "vol": 4,
+      "n": 348,
+      "title": "趙天恩在麻豆遇難",
+      "path": "book4/348.htm",
+      "url": "http://www.laijohn.com/book4/348.htm"
+    },
+    {
+      "vol": 4,
+      "n": 349,
+      "title": "高阿金于歸黃信期",
+      "path": "book4/349.htm",
+      "url": "http://www.laijohn.com/book4/349.htm"
+    },
+    {
+      "vol": 4,
+      "n": 350,
+      "title": "黃西經長老及其裔",
+      "path": "book4/350.htm",
+      "url": "http://www.laijohn.com/book4/350.htm"
+    },
+    {
+      "vol": 4,
+      "n": 352,
+      "title": "周步霞的傳道腳蹤",
+      "path": "book4/352.htm",
+      "url": "http://www.laijohn.com/book4/352.htm"
+    },
+    {
+      "vol": 4,
+      "n": 353,
+      "title": "傳道周步霞的子女",
+      "path": "book4/353.htm",
+      "url": "http://www.laijohn.com/book4/353.htm"
+    },
+    {
+      "vol": 4,
+      "n": 354,
+      "title": "鹽埔仔人張匏醫生",
+      "path": "book4/354.htm",
+      "url": "http://www.laijohn.com/book4/354.htm"
+    },
+    {
+      "vol": 4,
+      "n": 358,
+      "title": "李道隆編製血統表",
+      "path": "book4/358.htm",
+      "url": "http://www.laijohn.com/book4/358.htm"
+    },
+    {
+      "vol": 4,
+      "n": 360,
+      "title": "傳道卓道生的履歷",
+      "path": "book4/360.htm",
+      "url": "http://www.laijohn.com/book4/360.htm"
+    },
+    {
+      "vol": 4,
+      "n": 361,
+      "title": "有成阿：勿編假見証",
+      "path": "book4/361.htm",
+      "url": "http://www.laijohn.com/book4/361.htm"
+    },
+    {
+      "vol": 4,
+      "n": 364,
+      "title": "新樓購地高耀中友",
+      "path": "book4/364.htm",
+      "url": "http://www.laijohn.com/book4/364.htm"
+    },
+    {
+      "vol": 4,
+      "n": 365,
+      "title": "興建新樓教士住宅",
+      "path": "book4/365.htm",
+      "url": "http://www.laijohn.com/book4/365.htm"
+    },
+    {
+      "vol": 4,
+      "n": 366,
+      "title": "仁和堂流出鴉片丸",
+      "path": "book4/366.htm",
+      "url": "http://www.laijohn.com/book4/366.htm"
+    },
+    {
+      "vol": 4,
+      "n": 367,
+      "title": "用鴉片丸來戒鴉片？",
+      "path": "book4/367.htm",
+      "url": "http://www.laijohn.com/book4/367.htm"
+    },
+    {
+      "vol": 4,
+      "n": 368,
+      "title": "傳道人曾經售奎寧",
+      "path": "book4/368.htm",
+      "url": "http://www.laijohn.com/book4/368.htm"
+    },
+    {
+      "vol": 4,
+      "n": 369,
+      "title": "接辦仁和堂的徐賞",
+      "path": "book4/369.htm",
+      "url": "http://www.laijohn.com/book4/369.htm"
+    },
+    {
+      "vol": 4,
+      "n": 370,
+      "title": "函新加坡問天賜裔",
+      "path": "book4/370.htm",
+      "url": "http://www.laijohn.com/book4/370.htm"
+    },
+    {
+      "vol": 4,
+      "n": 371,
+      "title": "傳道吳雞母及其妻",
+      "path": "book4/371.htm",
+      "url": "http://www.laijohn.com/book4/371.htm"
+    },
+    {
+      "vol": 4,
+      "n": 372,
+      "title": "翻議事錄看吳雞母",
+      "path": "book4/372.htm",
+      "url": "http://www.laijohn.com/book4/372.htm"
+    },
+    {
+      "vol": 4,
+      "n": 373,
+      "title": "吳從新傳道及其裔",
+      "path": "book4/373.htm",
+      "url": "http://www.laijohn.com/book4/373.htm"
+    },
+    {
+      "vol": 4,
+      "n": 374,
+      "title": "埤頭草店尾人林乾",
+      "path": "book4/374.htm",
+      "url": "http://www.laijohn.com/book4/374.htm"
+    },
+    {
+      "vol": 4,
+      "n": 375,
+      "title": "林乾結出許多子粒",
+      "path": "book4/375.htm",
+      "url": "http://www.laijohn.com/book4/375.htm"
+    },
+    {
+      "vol": 4,
+      "n": 376,
+      "title": "奔走那前途的路程",
+      "path": "book4/376.htm",
+      "url": "http://www.laijohn.com/book4/376.htm"
+    },
+    {
+      "vol": 4,
+      "n": 377,
+      "title": "老王欲選枝清為徒",
+      "path": "book4/377.htm",
+      "url": "http://www.laijohn.com/book4/377.htm"
+    },
+    {
+      "vol": 4,
+      "n": 378,
+      "title": "談打狗傳道養成班",
+      "path": "book4/378.htm",
+      "url": "http://www.laijohn.com/book4/378.htm"
+    },
+    {
+      "vol": 4,
+      "n": 379,
+      "title": "吳看長女婿徐春枝",
+      "path": "book4/379.htm",
+      "url": "http://www.laijohn.com/book4/379.htm"
+    },
+    {
+      "vol": 4,
+      "n": 380,
+      "title": "卓道生述大學之始",
+      "path": "book4/380.htm",
+      "url": "http://www.laijohn.com/book4/380.htm"
+    },
+    {
+      "vol": 4,
+      "n": 381,
+      "title": "廈門來兩位漢文仙",
+      "path": "book4/381.htm",
+      "url": "http://www.laijohn.com/book4/381.htm"
+    },
+    {
+      "vol": 4,
+      "n": 382,
+      "title": "盧良負責管神學生",
+      "path": "book4/382.htm",
+      "url": "http://www.laijohn.com/book4/382.htm"
+    },
+    {
+      "vol": 4,
+      "n": 383,
+      "title": "許朝陽傳道師小傳",
+      "path": "book4/383.htm",
+      "url": "http://www.laijohn.com/book4/383.htm"
+    },
+    {
+      "vol": 4,
+      "n": 392,
+      "title": "陳有成傳道的腳蹤",
+      "path": "book4/392.htm",
+      "url": "http://www.laijohn.com/book4/392.htm"
+    },
+    {
+      "vol": 4,
+      "n": 393,
+      "title": "趙爵祥傳道售經記",
+      "path": "book4/393.htm",
+      "url": "http://www.laijohn.com/book4/393.htm"
+    },
+    {
+      "vol": 4,
+      "n": 394,
+      "title": "台南趙進水之系統",
+      "path": "book4/394.htm",
+      "url": "http://www.laijohn.com/book4/394.htm"
+    },
+    {
+      "vol": 4,
+      "n": 400,
+      "title": "台南教土會議事錄",
+      "path": "book4/400.htm",
+      "url": "http://www.laijohn.com/book4/400.htm"
+    },
+    {
+      "vol": 5,
+      "n": 401,
+      "title": "高長伯的傳道生涯",
+      "path": "book5/401.htm",
+      "url": "http://www.laijohn.com/book5/401.htm"
+    },
+    {
+      "vol": 5,
+      "n": 402,
+      "title": "談談高長伯的家族",
+      "path": "book5/402.htm",
+      "url": "http://www.laijohn.com/book5/402.htm"
+    },
+    {
+      "vol": 5,
+      "n": 403,
+      "title": "高金聲牧師的簡歷",
+      "path": "book5/403.htm",
+      "url": "http://www.laijohn.com/book5/403.htm"
+    },
+    {
+      "vol": 5,
+      "n": 404,
+      "title": "高鐵留福州初見聞",
+      "path": "book5/404.htm",
+      "url": "http://www.laijohn.com/book5/404.htm"
+    },
+    {
+      "vol": 5,
+      "n": 405,
+      "title": "留學福州的潘日新",
+      "path": "book5/405.htm",
+      "url": "http://www.laijohn.com/book5/405.htm"
+    },
+    {
+      "vol": 5,
+      "n": 406,
+      "title": "南部最早本地牧師",
+      "path": "book5/406.htm",
+      "url": "http://www.laijohn.com/book5/406.htm"
+    },
+    {
+      "vol": 5,
+      "n": 407,
+      "title": "潘明珠牧師的家屬",
+      "path": "book5/407.htm",
+      "url": "http://www.laijohn.com/book5/407.htm"
+    },
+    {
+      "vol": 5,
+      "n": 408,
+      "title": "劉茂坤在台南封牧",
+      "path": "book5/408.htm",
+      "url": "http://www.laijohn.com/book5/408.htm"
+    },
+    {
+      "vol": 5,
+      "n": 409,
+      "title": "劉茂坤俊臣牧會歷",
+      "path": "book5/409.htm",
+      "url": "http://www.laijohn.com/book5/409.htm"
+    },
+    {
+      "vol": 5,
+      "n": 410,
+      "title": "日軍釋放了劉茂坤",
+      "path": "book5/410.htm",
+      "url": "http://www.laijohn.com/book5/410.htm"
+    },
+    {
+      "vol": 5,
+      "n": 411,
+      "title": "劉俊臣有子二女四",
+      "path": "book5/411.htm",
+      "url": "http://www.laijohn.com/book5/411.htm"
+    },
+    {
+      "vol": 5,
+      "n": 412,
+      "title": "老校友談潘劉兩師",
+      "path": "book5/412.htm",
+      "url": "http://www.laijohn.com/book5/412.htm"
+    },
+    {
+      "vol": 5,
+      "n": 413,
+      "title": "本地教會自治之議",
+      "path": "book5/413.htm",
+      "url": "http://www.laijohn.com/book5/413.htm"
+    },
+    {
+      "vol": 5,
+      "n": 414,
+      "title": "台南府屬長老名單",
+      "path": "book5/414.htm",
+      "url": "http://www.laijohn.com/book5/414.htm"
+    },
+    {
+      "vol": 5,
+      "n": 415,
+      "title": "甘為霖撰治理教會",
+      "path": "book5/415.htm",
+      "url": "http://www.laijohn.com/book5/415.htm"
+    },
+    {
+      "vol": 5,
+      "n": 416,
+      "title": "來公論聘本地牧師",
+      "path": "book5/416.htm",
+      "url": "http://www.laijohn.com/book5/416.htm"
+    },
+    {
+      "vol": 5,
+      "n": 417,
+      "title": "南部教會首屆中崙",
+      "path": "book5/417.htm",
+      "url": "http://www.laijohn.com/book5/417.htm"
+    },
+    {
+      "vol": 5,
+      "n": 418,
+      "title": "四位早期考進名者",
+      "path": "book5/418.htm",
+      "url": "http://www.laijohn.com/book5/418.htm"
+    },
+    {
+      "vol": 5,
+      "n": 419,
+      "title": "梅監霧回述黃茂盛",
+      "path": "book5/419.htm",
+      "url": "http://www.laijohn.com/book5/419.htm"
+    },
+    {
+      "vol": 5,
+      "n": 420,
+      "title": "黃茂盛傳道的親屬",
+      "path": "book5/420.htm",
+      "url": "http://www.laijohn.com/book5/420.htm"
+    },
+    {
+      "vol": 5,
+      "n": 421,
+      "title": "鹽埔仔陳枝財之裔",
+      "path": "book5/421.htm",
+      "url": "http://www.laijohn.com/book5/421.htm"
+    },
+    {
+      "vol": 5,
+      "n": 422,
+      "title": "黃茂盛的傳道行跡",
+      "path": "book5/422.htm",
+      "url": "http://www.laijohn.com/book5/422.htm"
+    },
+    {
+      "vol": 5,
+      "n": 423,
+      "title": "教會歷史熱潮首波",
+      "path": "book5/423.htm",
+      "url": "http://www.laijohn.com/book5/423.htm"
+    },
+    {
+      "vol": 5,
+      "n": 424,
+      "title": "曾有過杜君英教會",
+      "path": "book5/424.htm",
+      "url": "http://www.laijohn.com/book5/424.htm"
+    },
+    {
+      "vol": 5,
+      "n": 425,
+      "title": "杜君英的若干記錄",
+      "path": "book5/425.htm",
+      "url": "http://www.laijohn.com/book5/425.htm"
+    },
+    {
+      "vol": 5,
+      "n": 426,
+      "title": "杜君英的潘姓信徒",
+      "path": "book5/426.htm",
+      "url": "http://www.laijohn.com/book5/426.htm"
+    },
+    {
+      "vol": 5,
+      "n": 427,
+      "title": "南岸客庄設教緣由",
+      "path": "book5/427.htm",
+      "url": "http://www.laijohn.com/book5/427.htm"
+    },
+    {
+      "vol": 5,
+      "n": 428,
+      "title": "南岸教會史事補述",
+      "path": "book5/428.htm",
+      "url": "http://www.laijohn.com/book5/428.htm"
+    },
+    {
+      "vol": 5,
+      "n": 429,
+      "title": "從南岸遷去建功庄",
+      "path": "book5/429.htm",
+      "url": "http://www.laijohn.com/book5/429.htm"
+    },
+    {
+      "vol": 5,
+      "n": 430,
+      "title": "落教的先生邱增發",
+      "path": "book5/430.htm",
+      "url": "http://www.laijohn.com/book5/430.htm"
+    },
+    {
+      "vol": 5,
+      "n": 431,
+      "title": "內埔李細狗的傳奇",
+      "path": "book5/431.htm",
+      "url": "http://www.laijohn.com/book5/431.htm"
+    },
+    {
+      "vol": 5,
+      "n": 432,
+      "title": "繼承李秋元的信仰",
+      "path": "book5/432.htm",
+      "url": "http://www.laijohn.com/book5/432.htm"
+    },
+    {
+      "vol": 5,
+      "n": 433,
+      "title": "內埔遇阻圖進二崙",
+      "path": "book5/433.htm",
+      "url": "http://www.laijohn.com/book5/433.htm"
+    },
+    {
+      "vol": 5,
+      "n": 434,
+      "title": "你們浪費好水肥",
+      "path": "book5/434.htm",
+      "url": "http://www.laijohn.com/book5/434.htm"
+    },
+    {
+      "vol": 5,
+      "n": 435,
+      "title": "巴克禮終於脫險了",
+      "path": "book5/435.htm",
+      "url": "http://www.laijohn.com/book5/435.htm"
+    },
+    {
+      "vol": 5,
+      "n": 436,
+      "title": "張阿金、安貴和純恩",
+      "path": "book5/436.htm",
+      "url": "http://www.laijohn.com/book5/436.htm"
+    },
+    {
+      "vol": 5,
+      "n": 437,
+      "title": "張安貴牧師的親屬",
+      "path": "book5/437.htm",
+      "url": "http://www.laijohn.com/book5/437.htm"
+    },
+    {
+      "vol": 5,
+      "n": 438,
+      "title": "二崙教務停頓結束",
+      "path": "book5/438.htm",
+      "url": "http://www.laijohn.com/book5/438.htm"
+    },
+    {
+      "vol": 5,
+      "n": 439,
+      "title": "巴克禮二崙蒙難碑",
+      "path": "book5/439.htm",
+      "url": "http://www.laijohn.com/book5/439.htm"
+    },
+    {
+      "vol": 5,
+      "n": 440,
+      "title": "清季六堆反外仇教",
+      "path": "book5/440.htm",
+      "url": "http://www.laijohn.com/book5/440.htm"
+    },
+    {
+      "vol": 5,
+      "n": 441,
+      "title": "魚寮下的內埔教會",
+      "path": "book5/441.htm",
+      "url": "http://www.laijohn.com/book5/441.htm"
+    },
+    {
+      "vol": 5,
+      "n": 442,
+      "title": "潘明珠牧養五堂會",
+      "path": "book5/442.htm",
+      "url": "http://www.laijohn.com/book5/442.htm"
+    },
+    {
+      "vol": 5,
+      "n": 443,
+      "title": "萬丹設教會的緣由",
+      "path": "book5/443.htm",
+      "url": "http://www.laijohn.com/book5/443.htm"
+    },
+    {
+      "vol": 5,
+      "n": 444,
+      "title": "李仲義翁和鼎昌號",
+      "path": "book5/444.htm",
+      "url": "http://www.laijohn.com/book5/444.htm"
+    },
+    {
+      "vol": 5,
+      "n": 445,
+      "title": "李趖、李乘鰲、李正",
+      "path": "book5/445.htm",
+      "url": "http://www.laijohn.com/book5/445.htm"
+    },
+    {
+      "vol": 5,
+      "n": 446,
+      "title": "來訪問李仲義先生",
+      "path": "book5/446.htm",
+      "url": "http://www.laijohn.com/book5/446.htm"
+    },
+    {
+      "vol": 5,
+      "n": 447,
+      "title": "施担傳道出身萬丹",
+      "path": "book5/447.htm",
+      "url": "http://www.laijohn.com/book5/447.htm"
+    },
+    {
+      "vol": 5,
+      "n": 448,
+      "title": "李仲義伯好施行善",
+      "path": "book5/448.htm",
+      "url": "http://www.laijohn.com/book5/448.htm"
+    },
+    {
+      "vol": 5,
+      "n": 449,
+      "title": "石舜英憶女學姑娘",
+      "path": "book5/449.htm",
+      "url": "http://www.laijohn.com/book5/449.htm"
+    },
+    {
+      "vol": 5,
+      "n": 450,
+      "title": "李仲義繼室石舜英",
+      "path": "book5/450.htm",
+      "url": "http://www.laijohn.com/book5/450.htm"
+    },
+    {
+      "vol": 5,
+      "n": 451,
+      "title": "阮為仁繼阮慶之後",
+      "path": "book5/451.htm",
+      "url": "http://www.laijohn.com/book5/451.htm"
+    },
+    {
+      "vol": 5,
+      "n": 452,
+      "title": "竹仔腳林良及其裔",
+      "path": "book5/452.htm",
+      "url": "http://www.laijohn.com/book5/452.htm"
+    },
+    {
+      "vol": 5,
+      "n": 453,
+      "title": "溪州周信的家蒙恩",
+      "path": "book5/453.htm",
+      "url": "http://www.laijohn.com/book5/453.htm"
+    },
+    {
+      "vol": 5,
+      "n": 454,
+      "title": "同主經長老的路程",
+      "path": "book5/454.htm",
+      "url": "http://www.laijohn.com/book5/454.htm"
+    },
+    {
+      "vol": 5,
+      "n": 455,
+      "title": "黃誌誠履歷書存稿",
+      "path": "book5/455.htm",
+      "url": "http://www.laijohn.com/book5/455.htm"
+    },
+    {
+      "vol": 5,
+      "n": 456,
+      "title": "黃能傑曾是童乩？",
+      "path": "book5/456.htm",
+      "url": "http://www.laijohn.com/book5/456.htm"
+    },
+    {
+      "vol": 5,
+      "n": 457,
+      "title": "澎海傳約西叫主聲",
+      "path": "book5/457.htm",
+      "url": "http://www.laijohn.com/book5/457.htm"
+    },
+    {
+      "vol": 5,
+      "n": 458,
+      "title": "黃誌誠賢內助楊儼",
+      "path": "book5/458.htm",
+      "url": "http://www.laijohn.com/book5/458.htm"
+    },
+    {
+      "vol": 5,
+      "n": 459,
+      "title": "黃誌誠做自由傳道",
+      "path": "book5/459.htm",
+      "url": "http://www.laijohn.com/book5/459.htm"
+    },
+    {
+      "vol": 5,
+      "n": 460,
+      "title": "黃依利嫁給洪朝抽",
+      "path": "book5/460.htm",
+      "url": "http://www.laijohn.com/book5/460.htm"
+    },
+    {
+      "vol": 5,
+      "n": 462,
+      "title": "長中新校長萬榮華",
+      "path": "book5/462.htm",
+      "url": "http://www.laijohn.com/book5/462.htm"
+    },
+    {
+      "vol": 5,
+      "n": 463,
+      "title": "您真正是學校之心",
+      "path": "book5/463.htm",
+      "url": "http://www.laijohn.com/book5/463.htm"
+    },
+    {
+      "vol": 5,
+      "n": 464,
+      "title": "台南東門首任牧師",
+      "path": "book5/464.htm",
+      "url": "http://www.laijohn.com/book5/464.htm"
+    },
+    {
+      "vol": 5,
+      "n": 465,
+      "title": "東港的郭洪建一家",
+      "path": "book5/465.htm",
+      "url": "http://www.laijohn.com/book5/465.htm"
+    },
+    {
+      "vol": 5,
+      "n": 466,
+      "title": "郭水雹、國基、國清",
+      "path": "book5/466.htm",
+      "url": "http://www.laijohn.com/book5/466.htm"
+    },
+    {
+      "vol": 5,
+      "n": 467,
+      "title": "讀康嘉音文談康家",
+      "path": "book5/467.htm",
+      "url": "http://www.laijohn.com/book5/467.htm"
+    },
+    {
+      "vol": 5,
+      "n": 468,
+      "title": "東港有長老名林賜",
+      "path": "book5/468.htm",
+      "url": "http://www.laijohn.com/book5/468.htm"
+    },
+    {
+      "vol": 5,
+      "n": 469,
+      "title": "廖得談黃俟命牧師",
+      "path": "book5/469.htm",
+      "url": "http://www.laijohn.com/book5/469.htm"
+    },
+    {
+      "vol": 5,
+      "n": 470,
+      "title": "黃俟命牧師的家眷",
+      "path": "book5/470.htm",
+      "url": "http://www.laijohn.com/book5/470.htm"
+    },
+    {
+      "vol": 5,
+      "n": 471,
+      "title": "黃誌誠牧師的家系",
+      "path": "book5/471.htm",
+      "url": "http://www.laijohn.com/book5/471.htm"
+    },
+    {
+      "vol": 5,
+      "n": 473,
+      "title": "李崢嶸李瑞雲之後",
+      "path": "book5/473.htm",
+      "url": "http://www.laijohn.com/book5/473.htm"
+    },
+    {
+      "vol": 5,
+      "n": 474,
+      "title": "李明道李明家昆仲",
+      "path": "book5/474.htm",
+      "url": "http://www.laijohn.com/book5/474.htm"
+    },
+    {
+      "vol": 5,
+      "n": 475,
+      "title": "李仲清快婿吳希揚",
+      "path": "book5/475.htm",
+      "url": "http://www.laijohn.com/book5/475.htm"
+    },
+    {
+      "vol": 5,
+      "n": 476,
+      "title": "追溯到東港洪老義",
+      "path": "book5/476.htm",
+      "url": "http://www.laijohn.com/book5/476.htm"
+    },
+    {
+      "vol": 5,
+      "n": 477,
+      "title": "蔡添貴入信的經過",
+      "path": "book5/477.htm",
+      "url": "http://www.laijohn.com/book5/477.htm"
+    },
+    {
+      "vol": 5,
+      "n": 478,
+      "title": "建功蔡月輝的傳承",
+      "path": "book5/478.htm",
+      "url": "http://www.laijohn.com/book5/478.htm"
+    },
+    {
+      "vol": 5,
+      "n": 479,
+      "title": "琉球設教初期史略",
+      "path": "book5/479.htm",
+      "url": "http://www.laijohn.com/book5/479.htm"
+    },
+    {
+      "vol": 5,
+      "n": 480,
+      "title": "琉球嶼建教士別莊",
+      "path": "book5/480.htm",
+      "url": "http://www.laijohn.com/book5/480.htm"
+    },
+    {
+      "vol": 5,
+      "n": 481,
+      "title": "二崙出身的曾炳祥",
+      "path": "book5/481.htm",
+      "url": "http://www.laijohn.com/book5/481.htm"
+    },
+    {
+      "vol": 5,
+      "n": 482,
+      "title": "受逼離庄卻保了命",
+      "path": "book5/482.htm",
+      "url": "http://www.laijohn.com/book5/482.htm"
+    },
+    {
+      "vol": 5,
+      "n": 483,
+      "title": "楠仔坑的莊樂長老",
+      "path": "book5/483.htm",
+      "url": "http://www.laijohn.com/book5/483.htm"
+    },
+    {
+      "vol": 5,
+      "n": 484,
+      "title": "黃俟命牧師略年譜",
+      "path": "book5/484.htm",
+      "url": "http://www.laijohn.com/book5/484.htm"
+    },
+    {
+      "vol": 5,
+      "n": 485,
+      "title": "颱風難不倒黃俟命",
+      "path": "book5/485.htm",
+      "url": "http://www.laijohn.com/book5/485.htm"
+    },
+    {
+      "vol": 5,
+      "n": 486,
+      "title": "俟命父子苦讀約伯",
+      "path": "book5/486.htm",
+      "url": "http://www.laijohn.com/book5/486.htm"
+    },
+    {
+      "vol": 5,
+      "n": 487,
+      "title": "萬校長談神社問題",
+      "path": "book5/487.htm",
+      "url": "http://www.laijohn.com/book5/487.htm"
+    },
+    {
+      "vol": 5,
+      "n": 488,
+      "title": "潘道榮當東門副牧",
+      "path": "book5/488.htm",
+      "url": "http://www.laijohn.com/book5/488.htm"
+    },
+    {
+      "vol": 5,
+      "n": 489,
+      "title": "在大肚龍井的日子",
+      "path": "book5/489.htm",
+      "url": "http://www.laijohn.com/book5/489.htm"
+    },
+    {
+      "vol": 5,
+      "n": 490,
+      "title": "尼姑黃水妹當傳道",
+      "path": "book5/490.htm",
+      "url": "http://www.laijohn.com/book5/490.htm"
+    },
+    {
+      "vol": 5,
+      "n": 491,
+      "title": "美濃客庄傳道見聞",
+      "path": "book5/491.htm",
+      "url": "http://www.laijohn.com/book5/491.htm"
+    },
+    {
+      "vol": 5,
+      "n": 492,
+      "title": "萬巒的鍾成增一家",
+      "path": "book5/492.htm",
+      "url": "http://www.laijohn.com/book5/492.htm"
+    },
+    {
+      "vol": 5,
+      "n": 493,
+      "title": "隱藏信仰有四十年",
+      "path": "book5/493.htm",
+      "url": "http://www.laijohn.com/book5/493.htm"
+    },
+    {
+      "vol": 5,
+      "n": 494,
+      "title": "日據下的中林教會",
+      "path": "book5/494.htm",
+      "url": "http://www.laijohn.com/book5/494.htm"
+    },
+    {
+      "vol": 5,
+      "n": 495,
+      "title": "談中林的潘姓信徒",
+      "path": "book5/495.htm",
+      "url": "http://www.laijohn.com/book5/495.htm"
+    },
+    {
+      "vol": 5,
+      "n": 496,
+      "title": "黃俟命和家庭族譜",
+      "path": "book5/496.htm",
+      "url": "http://www.laijohn.com/book5/496.htm"
+    },
+    {
+      "vol": 5,
+      "n": 497,
+      "title": "李照耀和新化設教",
+      "path": "book5/497.htm",
+      "url": "http://www.laijohn.com/book5/497.htm"
+    },
+    {
+      "vol": 5,
+      "n": 498,
+      "title": "談萬丹的潘姓信徒",
+      "path": "book5/498.htm",
+      "url": "http://www.laijohn.com/book5/498.htm"
+    },
+    {
+      "vol": 5,
+      "n": 499,
+      "title": "張家惠長老的覆函",
+      "path": "book5/499.htm",
+      "url": "http://www.laijohn.com/book5/499.htm"
+    },
+    {
+      "vol": 5,
+      "n": 500,
+      "title": "石舜英義子郝文章",
+      "path": "book5/500.htm",
+      "url": "http://www.laijohn.com/book5/500.htm"
+    },
+    {
+      "vol": 6,
+      "n": 501,
+      "title": "偕叡廉牧師談父親",
+      "path": "book6/501.htm",
+      "url": "http://www.laijohn.com/book6/501.htm"
+    },
+    {
+      "vol": 6,
+      "n": 502,
+      "title": "略述偕叡理的晚年",
+      "path": "book6/502.htm",
+      "url": "http://www.laijohn.com/book6/502.htm"
+    },
+    {
+      "vol": 6,
+      "n": 503,
+      "title": "六十年週年廣播記念",
+      "path": "book6/503.htm",
+      "url": "http://www.laijohn.com/book6/503.htm"
+    },
+    {
+      "vol": 6,
+      "n": 504,
+      "title": "馬偕深入本地民間",
+      "path": "book6/504.htm",
+      "url": "http://www.laijohn.com/book6/504.htm"
+    },
+    {
+      "vol": 6,
+      "n": 505,
+      "title": "偕叡理和乃木總督",
+      "path": "book6/505.htm",
+      "url": "http://www.laijohn.com/book6/505.htm"
+    },
+    {
+      "vol": 6,
+      "n": 506,
+      "title": "馬偕的喜愛和心願",
+      "path": "book6/506.htm",
+      "url": "http://www.laijohn.com/book6/506.htm"
+    },
+    {
+      "vol": 6,
+      "n": 507,
+      "title": "母會訃告馬偕之死",
+      "path": "book6/507.htm",
+      "url": "http://www.laijohn.com/book6/507.htm"
+    },
+    {
+      "vol": 6,
+      "n": 508,
+      "title": "甘為霖念畏友馬偕",
+      "path": "book6/508.htm",
+      "url": "http://www.laijohn.com/book6/508.htm"
+    },
+    {
+      "vol": 6,
+      "n": 509,
+      "title": "馬偕抵台第一封信",
+      "path": "book6/509.htm",
+      "url": "http://www.laijohn.com/book6/509.htm"
+    },
+    {
+      "vol": 6,
+      "n": 510,
+      "title": "加拿大長老教會會誌",
+      "path": "book6/510.htm",
+      "url": "http://www.laijohn.com/book6/510.htm"
+    },
+    {
+      "vol": 6,
+      "n": 511,
+      "title": "五股坑首次聖禮典",
+      "path": "book6/511.htm",
+      "url": "http://www.laijohn.com/book6/511.htm"
+    },
+    {
+      "vol": 6,
+      "n": 512,
+      "title": "從陳翁談到陳信貞",
+      "path": "book6/512.htm",
+      "url": "http://www.laijohn.com/book6/512.htm"
+    },
+    {
+      "vol": 6,
+      "n": 513,
+      "title": "八里坋的早期信徒",
+      "path": "book6/513.htm",
+      "url": "http://www.laijohn.com/book6/513.htm"
+    },
+    {
+      "vol": 6,
+      "n": 514,
+      "title": "八里坋長老汪式金",
+      "path": "book6/514.htm",
+      "url": "http://www.laijohn.com/book6/514.htm"
+    },
+    {
+      "vol": 6,
+      "n": 515,
+      "title": "談洲裡的首次聖餐",
+      "path": "book6/515.htm",
+      "url": "http://www.laijohn.com/book6/515.htm"
+    },
+    {
+      "vol": 6,
+      "n": 516,
+      "title": "談李沃長老的親族",
+      "path": "book6/516.htm",
+      "url": "http://www.laijohn.com/book6/516.htm"
+    },
+    {
+      "vol": 6,
+      "n": 517,
+      "title": "三重埔早期受洗者",
+      "path": "book6/517.htm",
+      "url": "http://www.laijohn.com/book6/517.htm"
+    },
+    {
+      "vol": 6,
+      "n": 518,
+      "title": "談新店的高霞一家",
+      "path": "book6/518.htm",
+      "url": "http://www.laijohn.com/book6/518.htm"
+    },
+    {
+      "vol": 6,
+      "n": 519,
+      "title": "高霞嫂林桂泉略考",
+      "path": "book6/519.htm",
+      "url": "http://www.laijohn.com/book6/519.htm"
+    },
+    {
+      "vol": 6,
+      "n": 520,
+      "title": "林德叫高霞嫂阿姑",
+      "path": "book6/520.htm",
+      "url": "http://www.laijohn.com/book6/520.htm"
+    },
+    {
+      "vol": 6,
+      "n": 521,
+      "title": "大龍峒施洗四十人",
+      "path": "book6/521.htm",
+      "url": "http://www.laijohn.com/book6/521.htm"
+    },
+    {
+      "vol": 6,
+      "n": 522,
+      "title": "米粉寮柯清泰裔譜",
+      "path": "book6/522.htm",
+      "url": "http://www.laijohn.com/book6/522.htm"
+    },
+    {
+      "vol": 6,
+      "n": 523,
+      "title": "濟陽柯尊裔的系統",
+      "path": "book6/523.htm",
+      "url": "http://www.laijohn.com/book6/523.htm"
+    },
+    {
+      "vol": 6,
+      "n": 524,
+      "title": "五股坑早期受洗者",
+      "path": "book6/524.htm",
+      "url": "http://www.laijohn.com/book6/524.htm"
+    },
+    {
+      "vol": 6,
+      "n": 525,
+      "title": "陳能戶口資料一瞥",
+      "path": "book6/525.htm",
+      "url": "http://www.laijohn.com/book6/525.htm"
+    },
+    {
+      "vol": 6,
+      "n": 526,
+      "title": "錫口徐家陸續進教",
+      "path": "book6/526.htm",
+      "url": "http://www.laijohn.com/book6/526.htm"
+    },
+    {
+      "vol": 6,
+      "n": 527,
+      "title": "傳道師徐水永之後",
+      "path": "book6/527.htm",
+      "url": "http://www.laijohn.com/book6/527.htm"
+    },
+    {
+      "vol": 6,
+      "n": 528,
+      "title": "新店許任曾為跳童",
+      "path": "book6/528.htm",
+      "url": "http://www.laijohn.com/book6/528.htm"
+    },
+    {
+      "vol": 6,
+      "n": 529,
+      "title": "新店林雨露及其裔",
+      "path": "book6/529.htm",
+      "url": "http://www.laijohn.com/book6/529.htm"
+    },
+    {
+      "vol": 6,
+      "n": 530,
+      "title": "吳健道娘險些遇害",
+      "path": "book6/530.htm",
+      "url": "http://www.laijohn.com/book6/530.htm"
+    },
+    {
+      "vol": 6,
+      "n": 531,
+      "title": "新港社民劉氏入信",
+      "path": "book6/531.htm",
+      "url": "http://www.laijohn.com/book6/531.htm"
+    },
+    {
+      "vol": 6,
+      "n": 532,
+      "title": "劉安都及其子孫們",
+      "path": "book6/532.htm",
+      "url": "http://www.laijohn.com/book6/532.htm"
+    },
+    {
+      "vol": 6,
+      "n": 533,
+      "title": "一八七二年的獅潭",
+      "path": "book6/533.htm",
+      "url": "http://www.laijohn.com/book6/533.htm"
+    },
+    {
+      "vol": 6,
+      "n": 534,
+      "title": "馬偕進入賽夏族區",
+      "path": "book6/534.htm",
+      "url": "http://www.laijohn.com/book6/534.htm"
+    },
+    {
+      "vol": 6,
+      "n": 535,
+      "title": "船長巴克陳述賽夏",
+      "path": "book6/535.htm",
+      "url": "http://www.laijohn.com/book6/535.htm"
+    },
+    {
+      "vol": 6,
+      "n": 536,
+      "title": "馬偕歷訪獅潭經過",
+      "path": "book6/536.htm",
+      "url": "http://www.laijohn.com/book6/536.htm"
+    },
+    {
+      "vol": 6,
+      "n": 537,
+      "title": "馬偕攀登雪山記略",
+      "path": "book6/537.htm",
+      "url": "http://www.laijohn.com/book6/537.htm"
+    },
+    {
+      "vol": 6,
+      "n": 538,
+      "title": "英艦侏儒號的訪臺",
+      "path": "book6/538.htm",
+      "url": "http://www.laijohn.com/book6/538.htm"
+    },
+    {
+      "vol": 6,
+      "n": 539,
+      "title": "美博物學家史蒂瑞",
+      "path": "book6/539.htm",
+      "url": "http://www.laijohn.com/book6/539.htm"
+    },
+    {
+      "vol": 6,
+      "n": 540,
+      "title": "記大嵙嵌設教前後",
+      "path": "book6/540.htm",
+      "url": "http://www.laijohn.com/book6/540.htm"
+    },
+    {
+      "vol": 6,
+      "n": 541,
+      "title": "竹塹的「先知小樓",
+      "path": "book6/541.htm",
+      "url": "http://www.laijohn.com/book6/541.htm"
+    },
+    {
+      "vol": 6,
+      "n": 542,
+      "title": "繁榮的大都會艋舺",
+      "path": "book6/542.htm",
+      "url": "http://www.laijohn.com/book6/542.htm"
+    },
+    {
+      "vol": 6,
+      "n": 543,
+      "title": "馬偕傳教受辱舉例",
+      "path": "book6/543.htm",
+      "url": "http://www.laijohn.com/book6/543.htm"
+    },
+    {
+      "vol": 6,
+      "n": 544,
+      "title": "馬偕談起艋舺設教",
+      "path": "book6/544.htm",
+      "url": "http://www.laijohn.com/book6/544.htm"
+    },
+    {
+      "vol": 6,
+      "n": 545,
+      "title": "艋舺設教日期存疑",
+      "path": "book6/545.htm",
+      "url": "http://www.laijohn.com/book6/545.htm"
+    },
+    {
+      "vol": 6,
+      "n": 546,
+      "title": "日記記載艋舺糾紛",
+      "path": "book6/546.htm",
+      "url": "http://www.laijohn.com/book6/546.htm"
+    },
+    {
+      "vol": 6,
+      "n": 547,
+      "title": "草店尾街租屋談起",
+      "path": "book6/547.htm",
+      "url": "http://www.laijohn.com/book6/547.htm"
+    },
+    {
+      "vol": 6,
+      "n": 548,
+      "title": "租得房屋被拆毀了",
+      "path": "book6/548.htm",
+      "url": "http://www.laijohn.com/book6/548.htm"
+    },
+    {
+      "vol": 6,
+      "n": 549,
+      "title": "賠建房屋租照原約",
+      "path": "book6/549.htm",
+      "url": "http://www.laijohn.com/book6/549.htm"
+    },
+    {
+      "vol": 6,
+      "n": 550,
+      "title": "草店尾街租約前夕",
+      "path": "book6/550.htm",
+      "url": "http://www.laijohn.com/book6/550.htm"
+    },
+    {
+      "vol": 6,
+      "n": 552,
+      "title": "馬偕為何娶本地妻",
+      "path": "book6/552.htm",
+      "url": "http://www.laijohn.com/book6/552.htm"
+    },
+    {
+      "vol": 6,
+      "n": 553,
+      "title": "馬偕夫婦的蜜月行",
+      "path": "book6/553.htm",
+      "url": "http://www.laijohn.com/book6/553.htm"
+    },
+    {
+      "vol": 6,
+      "n": 554,
+      "title": "竹塹禮拜堂的開幕",
+      "path": "book6/554.htm",
+      "url": "http://www.laijohn.com/book6/554.htm"
+    },
+    {
+      "vol": 6,
+      "n": 555,
+      "title": "紅毛港教會的由來",
+      "path": "book6/555.htm",
+      "url": "http://www.laijohn.com/book6/555.htm"
+    },
+    {
+      "vol": 6,
+      "n": 557,
+      "title": "洲裡教會逐漸成長",
+      "path": "book6/557.htm",
+      "url": "http://www.laijohn.com/book6/557.htm"
+    },
+    {
+      "vol": 6,
+      "n": 558,
+      "title": "崙仔頂早年的果子",
+      "path": "book6/558.htm",
+      "url": "http://www.laijohn.com/book6/558.htm"
+    },
+    {
+      "vol": 6,
+      "n": 559,
+      "title": "社子庄郭國詠裔譜",
+      "path": "book6/559.htm",
+      "url": "http://www.laijohn.com/book6/559.htm"
+    },
+    {
+      "vol": 6,
+      "n": 560,
+      "title": "後埔仔新莊的成續",
+      "path": "book6/560.htm",
+      "url": "http://www.laijohn.com/book6/560.htm"
+    },
+    {
+      "vol": 6,
+      "n": 561,
+      "title": "溪洲．枋寮．枋橋頭",
+      "path": "book6/561.htm",
+      "url": "http://www.laijohn.com/book6/561.htm"
+    },
+    {
+      "vol": 6,
+      "n": 562,
+      "title": "馬偕訪問林本源邸",
+      "path": "book6/562.htm",
+      "url": "http://www.laijohn.com/book6/562.htm"
+    },
+    {
+      "vol": 6,
+      "n": 563,
+      "title": "暖暖金包里的設教",
+      "path": "book6/563.htm",
+      "url": "http://www.laijohn.com/book6/563.htm"
+    },
+    {
+      "vol": 6,
+      "n": 564,
+      "title": "馬偕三角湧的腳蹤",
+      "path": "book6/564.htm",
+      "url": "http://www.laijohn.com/book6/564.htm"
+    },
+    {
+      "vol": 6,
+      "n": 565,
+      "title": "竹塹里期的受洗者",
+      "path": "book6/565.htm",
+      "url": "http://www.laijohn.com/book6/565.htm"
+    },
+    {
+      "vol": 6,
+      "n": 566,
+      "title": "馬偕在後龍的宣教",
+      "path": "book6/566.htm",
+      "url": "http://www.laijohn.com/book6/566.htm"
+    },
+    {
+      "vol": 6,
+      "n": 567,
+      "title": "新港社秀才劉澄清",
+      "path": "book6/567.htm",
+      "url": "http://www.laijohn.com/book6/567.htm"
+    },
+    {
+      "vol": 6,
+      "n": 568,
+      "title": "新店設教十年誌略",
+      "path": "book6/568.htm",
+      "url": "http://www.laijohn.com/book6/568.htm"
+    },
+    {
+      "vol": 6,
+      "n": 569,
+      "title": "新店早期受洗者（一）",
+      "path": "book6/569.htm",
+      "url": "http://www.laijohn.com/book6/569.htm"
+    },
+    {
+      "vol": 6,
+      "n": 570,
+      "title": "新店早期受洗者（二）",
+      "path": "book6/570.htm",
+      "url": "http://www.laijohn.com/book6/570.htm"
+    },
+    {
+      "vol": 6,
+      "n": 571,
+      "title": "新店早期受洗者（三）",
+      "path": "book6/571.htm",
+      "url": "http://www.laijohn.com/book6/571.htm"
+    },
+    {
+      "vol": 6,
+      "n": 573,
+      "title": "大龍峒教會的結局",
+      "path": "book6/573.htm",
+      "url": "http://www.laijohn.com/book6/573.htm"
+    },
+    {
+      "vol": 6,
+      "n": 575,
+      "title": "中港設教若干事則",
+      "path": "book6/575.htm",
+      "url": "http://www.laijohn.com/book6/575.htm"
+    },
+    {
+      "vol": 6,
+      "n": 576,
+      "title": "水返腳教會的設立",
+      "path": "book6/576.htm",
+      "url": "http://www.laijohn.com/book6/576.htm"
+    },
+    {
+      "vol": 6,
+      "n": 577,
+      "title": "水返腳蘇六吉一家",
+      "path": "book6/577.htm",
+      "url": "http://www.laijohn.com/book6/577.htm"
+    },
+    {
+      "vol": 6,
+      "n": 578,
+      "title": "陳居昆仲堅定不移",
+      "path": "book6/578.htm",
+      "url": "http://www.laijohn.com/book6/578.htm"
+    },
+    {
+      "vol": 6,
+      "n": 579,
+      "title": "水返腳的陳熊長老",
+      "path": "book6/579.htm",
+      "url": "http://www.laijohn.com/book6/579.htm"
+    },
+    {
+      "vol": 6,
+      "n": 580,
+      "title": "葉金木是陳熊女婿",
+      "path": "book6/580.htm",
+      "url": "http://www.laijohn.com/book6/580.htm"
+    },
+    {
+      "vol": 6,
+      "n": 581,
+      "title": "陳熊的孫女告訴我",
+      "path": "book6/581.htm",
+      "url": "http://www.laijohn.com/book6/581.htm"
+    },
+    {
+      "vol": 6,
+      "n": 582,
+      "title": "陳熊長老的兒孫們",
+      "path": "book6/582.htm",
+      "url": "http://www.laijohn.com/book6/582.htm"
+    },
+    {
+      "vol": 6,
+      "n": 583,
+      "title": "馬偕愛徒葉順傳略",
+      "path": "book6/583.htm",
+      "url": "http://www.laijohn.com/book6/583.htm"
+    },
+    {
+      "vol": 6,
+      "n": 584,
+      "title": "有姊葉桃有弟葉俊",
+      "path": "book6/584.htm",
+      "url": "http://www.laijohn.com/book6/584.htm"
+    },
+    {
+      "vol": 6,
+      "n": 585,
+      "title": "葉順摘祖師公木鼻",
+      "path": "book6/585.htm",
+      "url": "http://www.laijohn.com/book6/585.htm"
+    },
+    {
+      "vol": 6,
+      "n": 586,
+      "title": "陳添貴傳道及後裔",
+      "path": "book6/586.htm",
+      "url": "http://www.laijohn.com/book6/586.htm"
+    },
+    {
+      "vol": 6,
+      "n": 587,
+      "title": "大稻埕枋隙禮拜堂",
+      "path": "book6/587.htm",
+      "url": "http://www.laijohn.com/book6/587.htm"
+    },
+    {
+      "vol": 6,
+      "n": 588,
+      "title": "寶香齋餅舖和余家",
+      "path": "book6/588.htm",
+      "url": "http://www.laijohn.com/book6/588.htm"
+    },
+    {
+      "vol": 6,
+      "n": 589,
+      "title": "李春生自述前半生",
+      "path": "book6/589.htm",
+      "url": "http://www.laijohn.com/book6/589.htm"
+    },
+    {
+      "vol": 6,
+      "n": 590,
+      "title": "德約瀚與台灣茶葉",
+      "path": "book6/590.htm",
+      "url": "http://www.laijohn.com/book6/590.htm"
+    },
+    {
+      "vol": 6,
+      "n": 591,
+      "title": "馬偕的至交德約翰",
+      "path": "book6/591.htm",
+      "url": "http://www.laijohn.com/book6/591.htm"
+    },
+    {
+      "vol": 6,
+      "n": 593,
+      "title": "錄李春生公墓誌銘",
+      "path": "book6/593.htm",
+      "url": "http://www.laijohn.com/book6/593.htm"
+    },
+    {
+      "vol": 6,
+      "n": 594,
+      "title": "馬偕在桃國的腳蹤",
+      "path": "book6/594.htm",
+      "url": "http://www.laijohn.com/book6/594.htm"
+    },
+    {
+      "vol": 6,
+      "n": 597,
+      "title": "連和曾差點被淹死",
+      "path": "book6/597.htm",
+      "url": "http://www.laijohn.com/book6/597.htm"
+    },
+    {
+      "vol": 6,
+      "n": 598,
+      "title": "塾師連和馬偕高足",
+      "path": "book6/598.htm",
+      "url": "http://www.laijohn.com/book6/598.htm"
+    },
+    {
+      "vol": 6,
+      "n": 599,
+      "title": "嚴清華有養子欽天",
+      "path": "book6/599.htm",
+      "url": "http://www.laijohn.com/book6/599.htm"
+    },
+    {
+      "vol": 6,
+      "n": 600,
+      "title": "許水發的信仰傳承",
+      "path": "book6/600.htm",
+      "url": "http://www.laijohn.com/book6/600.htm"
+    },
+    {
+      "vol": 7,
+      "n": 601,
+      "title": "幾種中文馬偕傳記",
+      "path": "book7/601.htm",
+      "url": "http://www.laijohn.com/book7/601.htm"
+    },
+    {
+      "vol": 7,
+      "n": 602,
+      "title": "馬偕留下傳道日記",
+      "path": "book7/602.htm",
+      "url": "http://www.laijohn.com/book7/602.htm"
+    },
+    {
+      "vol": 7,
+      "n": 603,
+      "title": "馬偕日記手稿出土",
+      "path": "book7/603.htm",
+      "url": "http://www.laijohn.com/book7/603.htm"
+    },
+    {
+      "vol": 7,
+      "n": 604,
+      "title": "馬偕的身世和故鄉",
+      "path": "book7/604.htm",
+      "url": "http://www.laijohn.com/book7/604.htm"
+    },
+    {
+      "vol": 7,
+      "n": 605,
+      "title": "馬偕故鄉巡禮之旅",
+      "path": "book7/605.htm",
+      "url": "http://www.laijohn.com/book7/605.htm"
+    },
+    {
+      "vol": 7,
+      "n": 606,
+      "title": "佐拉開拓期的教會",
+      "path": "book7/606.htm",
+      "url": "http://www.laijohn.com/book7/606.htm"
+    },
+    {
+      "vol": 7,
+      "n": 607,
+      "title": "高地式的宗教生活",
+      "path": "book7/607.htm",
+      "url": "http://www.laijohn.com/book7/607.htm"
+    },
+    {
+      "vol": 7,
+      "n": 608,
+      "title": "馬偕童年的小故事",
+      "path": "book7/608.htm",
+      "url": "http://www.laijohn.com/book7/608.htm"
+    },
+    {
+      "vol": 7,
+      "n": 609,
+      "title": "馬偕心儀的賓威廉",
+      "path": "book7/609.htm",
+      "url": "http://www.laijohn.com/book7/609.htm"
+    },
+    {
+      "vol": 7,
+      "n": 610,
+      "title": "賓威廉的中國傳道",
+      "path": "book7/610.htm",
+      "url": "http://www.laijohn.com/book7/610.htm"
+    },
+    {
+      "vol": 7,
+      "n": 611,
+      "title": "蘇格籣教會的創始",
+      "path": "book7/611.htm",
+      "url": "http://www.laijohn.com/book7/611.htm"
+    },
+    {
+      "vol": 7,
+      "n": 612,
+      "title": "蘇格籣的教會規範",
+      "path": "book7/612.htm",
+      "url": "http://www.laijohn.com/book7/612.htm"
+    },
+    {
+      "vol": 7,
+      "n": 613,
+      "title": "信仰告白和問答書",
+      "path": "book7/613.htm",
+      "url": "http://www.laijohn.com/book7/613.htm"
+    },
+    {
+      "vol": 7,
+      "n": 614,
+      "title": "蘇格籣教會的離合",
+      "path": "book7/614.htm",
+      "url": "http://www.laijohn.com/book7/614.htm"
+    },
+    {
+      "vol": 7,
+      "n": 615,
+      "title": "查麥士和自由教會",
+      "path": "book7/615.htm",
+      "url": "http://www.laijohn.com/book7/615.htm"
+    },
+    {
+      "vol": 7,
+      "n": 616,
+      "title": "英國國教和清教徒",
+      "path": "book7/616.htm",
+      "url": "http://www.laijohn.com/book7/616.htm"
+    },
+    {
+      "vol": 7,
+      "n": 617,
+      "title": "傳承接納三項信條",
+      "path": "book7/617.htm",
+      "url": "http://www.laijohn.com/book7/617.htm"
+    },
+    {
+      "vol": 7,
+      "n": 618,
+      "title": "本人約翰滄桑小傳",
+      "path": "book7/618.htm",
+      "url": "http://www.laijohn.com/book7/618.htm"
+    },
+    {
+      "vol": 7,
+      "n": 619,
+      "title": "李查喀隆麥及其徒",
+      "path": "book7/619.htm",
+      "url": "http://www.laijohn.com/book7/619.htm"
+    },
+    {
+      "vol": 7,
+      "n": 620,
+      "title": "倡導會眾制的布朗",
+      "path": "book7/620.htm",
+      "url": "http://www.laijohn.com/book7/620.htm"
+    },
+    {
+      "vol": 7,
+      "n": 621,
+      "title": "布魯斯特長老小傳",
+      "path": "book7/621.htm",
+      "url": "http://www.laijohn.com/book7/621.htm"
+    },
+    {
+      "vol": 7,
+      "n": 622,
+      "title": "浸信會在英國興起",
+      "path": "book7/622.htm",
+      "url": "http://www.laijohn.com/book7/622.htm"
+    },
+    {
+      "vol": 7,
+      "n": 623,
+      "title": "威廉．布拉福特",
+      "path": "book7/623.htm",
+      "url": "http://www.laijohn.com/book7/623.htm"
+    },
+    {
+      "vol": 7,
+      "n": 624,
+      "title": "普里茅斯殖民地史",
+      "path": "book7/624.htm",
+      "url": "http://www.laijohn.com/book7/624.htm"
+    },
+    {
+      "vol": 7,
+      "n": 625,
+      "title": "《黑鬚番》及其譯本",
+      "path": "book7/625.htm",
+      "url": "http://www.laijohn.com/book7/625.htm"
+    },
+    {
+      "vol": 7,
+      "n": 626,
+      "title": "五月花號航海日誌",
+      "path": "book7/626.htm",
+      "url": "http://www.laijohn.com/book7/626.htm"
+    },
+    {
+      "vol": 7,
+      "n": 627,
+      "title": "我認救主無驚愧恥",
+      "path": "book7/627.htm",
+      "url": "http://www.laijohn.com/book7/627.htm"
+    },
+    {
+      "vol": 7,
+      "n": 628,
+      "title": "聖詩歌的歷史淵源",
+      "path": "book7/628.htm",
+      "url": "http://www.laijohn.com/book7/628.htm"
+    },
+    {
+      "vol": 7,
+      "n": 629,
+      "title": "偉烈亞力的兩書誌",
+      "path": "book7/629.htm",
+      "url": "http://www.laijohn.com/book7/629.htm"
+    },
+    {
+      "vol": 7,
+      "n": 630,
+      "title": "第一本漢文聖詩冊",
+      "path": "book7/630.htm",
+      "url": "http://www.laijohn.com/book7/630.htm"
+    },
+    {
+      "vol": 7,
+      "n": 631,
+      "title": "開港前後的聖詩冊",
+      "path": "book7/631.htm",
+      "url": "http://www.laijohn.com/book7/631.htm"
+    },
+    {
+      "vol": 7,
+      "n": 632,
+      "title": "植物學家的詩調",
+      "path": "book7/632.htm",
+      "url": "http://www.laijohn.com/book7/632.htm"
+    },
+    {
+      "vol": 7,
+      "n": 633,
+      "title": "養心神詩和嚴清華",
+      "path": "book7/633.htm",
+      "url": "http://www.laijohn.com/book7/633.htm"
+    },
+    {
+      "vol": 7,
+      "n": 634,
+      "title": "從匾額「春風」談起",
+      "path": "book7/634.htm",
+      "url": "http://www.laijohn.com/book7/634.htm"
+    },
+    {
+      "vol": 7,
+      "n": 635,
+      "title": "馬偕的「逍遙學院」",
+      "path": "book7/635.htm",
+      "url": "http://www.laijohn.com/book7/635.htm"
+    },
+    {
+      "vol": 7,
+      "n": 636,
+      "title": "馬偕述蕭大醇生涯",
+      "path": "book7/636.htm",
+      "url": "http://www.laijohn.com/book7/636.htm"
+    },
+    {
+      "vol": 7,
+      "n": 637,
+      "title": "有關洪胡的備忘錄",
+      "path": "book7/637.htm",
+      "url": "http://www.laijohn.com/book7/637.htm"
+    },
+    {
+      "vol": 7,
+      "n": 638,
+      "title": "再談崙仔頂的李恭",
+      "path": "book7/638.htm",
+      "url": "http://www.laijohn.com/book7/638.htm"
+    },
+    {
+      "vol": 7,
+      "n": 639,
+      "title": "艋舺蔡文從及其裔",
+      "path": "book7/639.htm",
+      "url": "http://www.laijohn.com/book7/639.htm"
+    },
+    {
+      "vol": 7,
+      "n": 640,
+      "title": "略談蔡天註及其後",
+      "path": "book7/640.htm",
+      "url": "http://www.laijohn.com/book7/640.htm"
+    },
+    {
+      "vol": 7,
+      "n": 641,
+      "title": "新港社出身的劉和",
+      "path": "book7/641.htm",
+      "url": "http://www.laijohn.com/book7/641.htm"
+    },
+    {
+      "vol": 7,
+      "n": 642,
+      "title": "蔡生傳道生涯點滴",
+      "path": "book7/642.htm",
+      "url": "http://www.laijohn.com/book7/642.htm"
+    },
+    {
+      "vol": 7,
+      "n": 643,
+      "title": "馬偕和蕭大醇傳道",
+      "path": "book7/643.htm",
+      "url": "http://www.laijohn.com/book7/643.htm"
+    },
+    {
+      "vol": 7,
+      "n": 644,
+      "title": "陳榮輝的長女真仁",
+      "path": "book7/644.htm",
+      "url": "http://www.laijohn.com/book7/644.htm"
+    },
+    {
+      "vol": 7,
+      "n": 645,
+      "title": "蕭田，蕭湖，蕭東山",
+      "path": "book7/645.htm",
+      "url": "http://www.laijohn.com/book7/645.htm"
+    },
+    {
+      "vol": 7,
+      "n": 646,
+      "title": "幾座蕭家的墓碑文",
+      "path": "book7/646.htm",
+      "url": "http://www.laijohn.com/book7/646.htm"
+    },
+    {
+      "vol": 7,
+      "n": 647,
+      "title": "陳清義成長的過程",
+      "path": "book7/647.htm",
+      "url": "http://www.laijohn.com/book7/647.htm"
+    },
+    {
+      "vol": 7,
+      "n": 648,
+      "title": "柯維思長老的小傳",
+      "path": "book7/648.htm",
+      "url": "http://www.laijohn.com/book7/648.htm"
+    },
+    {
+      "vol": 7,
+      "n": 649,
+      "title": "陳和在馬偕宅成婚",
+      "path": "book7/649.htm",
+      "url": "http://www.laijohn.com/book7/649.htm"
+    },
+    {
+      "vol": 7,
+      "n": 650,
+      "title": "陳和牧會生活清苦",
+      "path": "book7/650.htm",
+      "url": "http://www.laijohn.com/book7/650.htm"
+    },
+    {
+      "vol": 7,
+      "n": 651,
+      "title": "郭希信牧師的回憶",
+      "path": "book7/651.htm",
+      "url": "http://www.laijohn.com/book7/651.htm"
+    },
+    {
+      "vol": 7,
+      "n": 652,
+      "title": "牛津學堂首屆學生",
+      "path": "book7/652.htm",
+      "url": "http://www.laijohn.com/book7/652.htm"
+    },
+    {
+      "vol": 7,
+      "n": 653,
+      "title": "嚴彰柯玖是二屆生",
+      "path": "book7/653.htm",
+      "url": "http://www.laijohn.com/book7/653.htm"
+    },
+    {
+      "vol": 7,
+      "n": 654,
+      "title": "師公出身的李壬水",
+      "path": "book7/654.htm",
+      "url": "http://www.laijohn.com/book7/654.htm"
+    },
+    {
+      "vol": 7,
+      "n": 655,
+      "title": "郭希信的牧會經過",
+      "path": "book7/655.htm",
+      "url": "http://www.laijohn.com/book7/655.htm"
+    },
+    {
+      "vol": 7,
+      "n": 656,
+      "title": "噶瑪蘭來的夏介辣",
+      "path": "book7/656.htm",
+      "url": "http://www.laijohn.com/book7/656.htm"
+    },
+    {
+      "vol": 7,
+      "n": 657,
+      "title": "偕阿篤及其女阿云",
+      "path": "book7/657.htm",
+      "url": "http://www.laijohn.com/book7/657.htm"
+    },
+    {
+      "vol": 7,
+      "n": 658,
+      "title": "林清火傳道並行醫",
+      "path": "book7/658.htm",
+      "url": "http://www.laijohn.com/book7/658.htm"
+    },
+    {
+      "vol": 7,
+      "n": 659,
+      "title": "林清火之小弟林發",
+      "path": "book7/659.htm",
+      "url": "http://www.laijohn.com/book7/659.htm"
+    },
+    {
+      "vol": 7,
+      "n": 660,
+      "title": "中港出身的陳禧年",
+      "path": "book7/660.htm",
+      "url": "http://www.laijohn.com/book7/660.htm"
+    },
+    {
+      "vol": 7,
+      "n": 661,
+      "title": "土牛一塾師的告白",
+      "path": "book7/661.htm",
+      "url": "http://www.laijohn.com/book7/661.htm"
+    },
+    {
+      "vol": 7,
+      "n": 662,
+      "title": "艋舺八甲庄的開堂",
+      "path": "book7/662.htm",
+      "url": "http://www.laijohn.com/book7/662.htm"
+    },
+    {
+      "vol": 7,
+      "n": 663,
+      "title": "張金波牧師的小傳",
+      "path": "book7/663.htm",
+      "url": "http://www.laijohn.com/book7/663.htm"
+    },
+    {
+      "vol": 7,
+      "n": 664,
+      "title": "談八寶良和偕八寶",
+      "path": "book7/664.htm",
+      "url": "http://www.laijohn.com/book7/664.htm"
+    },
+    {
+      "vol": 7,
+      "n": 665,
+      "title": "加禮宛的廚師傳道",
+      "path": "book7/665.htm",
+      "url": "http://www.laijohn.com/book7/665.htm"
+    },
+    {
+      "vol": 7,
+      "n": 666,
+      "title": "顏有年的裔在哪裡",
+      "path": "book7/666.htm",
+      "url": "http://www.laijohn.com/book7/666.htm"
+    },
+    {
+      "vol": 7,
+      "n": 667,
+      "title": "新店教民遭大災難",
+      "path": "book7/667.htm",
+      "url": "http://www.laijohn.com/book7/667.htm"
+    },
+    {
+      "vol": 7,
+      "n": 668,
+      "title": "新店的劉貴及劉寬",
+      "path": "book7/668.htm",
+      "url": "http://www.laijohn.com/book7/668.htm"
+    },
+    {
+      "vol": 7,
+      "n": 669,
+      "title": "新店林雨露的為人",
+      "path": "book7/669.htm",
+      "url": "http://www.laijohn.com/book7/669.htm"
+    },
+    {
+      "vol": 7,
+      "n": 670,
+      "title": "被拆毀的新店拜堂",
+      "path": "book7/670.htm",
+      "url": "http://www.laijohn.com/book7/670.htm"
+    },
+    {
+      "vol": 7,
+      "n": 671,
+      "title": "馬偕的好友李高功",
+      "path": "book7/671.htm",
+      "url": "http://www.laijohn.com/book7/671.htm"
+    },
+    {
+      "vol": 7,
+      "n": 672,
+      "title": "甲申八月十七的事",
+      "path": "book7/672.htm",
+      "url": "http://www.laijohn.com/book7/672.htm"
+    },
+    {
+      "vol": 7,
+      "n": 673,
+      "title": "馬偕視察被拆教堂",
+      "path": "book7/673.htm",
+      "url": "http://www.laijohn.com/book7/673.htm"
+    },
+    {
+      "vol": 7,
+      "n": 674,
+      "title": "蓋有高尖頂的教堂",
+      "path": "book7/674.htm",
+      "url": "http://www.laijohn.com/book7/674.htm"
+    }
+  ]
+}

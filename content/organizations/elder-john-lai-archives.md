@@ -37,12 +37,35 @@ Materials: 中日文、台文、西文；刊物、檔案、各教會紀念刊、
 
 English home: prepared mainly for Chinese readers; also English, Japanese, and romanized Taiwanese. Academic/private use; [Contact](http://www.laijohn.com/contact.htm).
 
-## Site map (v1)
+## 《教會史話》 (index only)
+
+Harvested **2026-08-18** from [contents.htm](http://www.laijohn.com/contents.htm). **Titles + numbers + URLs only** — article bodies not archived. Machine index: `knowledge/research/laijohn-com-suoe-index.json` (628 rows, nos. **1–674**).
+
+| 輯 | Print | n | First / last title |
+|---|---|---|---|
+| 1 | 1990 · 282 面 | 100 · 1–100 | [「歷史年譜」](http://www.laijohn.com/BOOK1/001.htm) … [指向台灣府城](http://www.laijohn.com/BOOK1/100.htm) |
+| 2 | 1992 · 264 面 | 90 · 101–200 | [「臺灣今昔」](http://www.laijohn.com/book2/101.htm) … [「至於我和我家」](http://www.laijohn.com/book2/200.htm) |
+| 3 | 1995 · 262 面 | 93 · 201–300 | [馬雅各名醫神技](http://www.laijohn.com/book3/201.htm) … [李水車教師的父母](http://www.laijohn.com/book3/300.htm) |
+| 4 | 1998 · 254 面 | 80 · 301–400 | [馬雅各紀念教會史](http://www.laijohn.com/book4/301.htm) … [台南教土會議事錄](http://www.laijohn.com/book4/400.htm) |
+| 5 | 2000 · 280 面 | 98 · 401–500 | [高長伯的傳道生涯](http://www.laijohn.com/book5/401.htm) … [石舜英義子郝文章](http://www.laijohn.com/book5/500.htm) |
+| 6 | (year not on TOC) | 93 · 501–600 | [偕叡廉牧師談父親](http://www.laijohn.com/book6/501.htm) … [許水發的信仰傳承](http://www.laijohn.com/book6/600.htm) |
+| 7 | (year not on TOC) | 74 · 601–674 | [幾種中文馬偕傳記](http://www.laijohn.com/book7/601.htm) … [蓋有高尖頂的教堂](http://www.laijohn.com/book7/674.htm) |
+
+Wiki-linked titles (not a dump of 628):
+
+- [[people/james-laidlaw-maxwell|馬雅各]] — 25, 105, 108, 114, 122, 124, **201**, **301** 馬雅各紀念教會史
+- [[people/thomas-barclay|巴克禮]] — 18–20, 30, 435, 439
+- [[people/hsu-ling-yun|許凌雲]] cites **321** [府城教會高耀長老](http://www.laijohn.com/book4/321.htm)
+- 馬偕 — 51 title hits (not listed)
+
+**374** on this TOC is 〈埤頭草店尾人林乾〉 — not 蕭泰然.
+
+## Site map (v1+v2)
 
 | Area | Path |
 |---|---|
-| 史話 1–7 輯 | `/contents.htm` → `book1`…`book7` |
-| 本土信徒 | `/archives/pc-contents.htm` — **not absorbed** (list firehose) |
+| 史話 1–7 輯 | `/contents.htm` — titles indexed; **bodies not archived** |
+| 本土信徒 | `/archives/pc-contents.htm` — **not absorbed** |
 | 宣教師 / 馬偕 / 原住民 / 日人 | `/archives/pm` `pt` `pg` `pj` `/Mackay/` |
 | PCT cluster | `/PCT/` `/PCTC/` `/PCT-W/` |
 | Around John | `/life/biog.htm` `/works/` `/interview/` `/Loas/` `/Laus/` |
