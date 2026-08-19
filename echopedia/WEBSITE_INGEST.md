@@ -46,7 +46,7 @@
 - [ ] **About / 簡介 / History / Mission** from the official intro page is **prose on the primary page** (dated archive cite). Archive-only + a 3-line History = **not** absorbed. Continuity will **never** write this (no AUTO About rewrite).  
 - [ ] Fact sheet lists History / Mission / membership-scale as A-tier clusters, not only board names  
 - [ ] If a TAH (or other) directory slug is the same org → `redirect_to` the canonical primary; do not leave a second thin org page  
-- [ ] **People with official roles + enough A-tier** → own `people/` page **or** explicit “listed only; thin page TBD” in fact sheet (prefer create thin A-tier page if name+role+source solid)  
+- [ ] **People with official roles + enough A-tier** → own `people/` page **or** explicit “listed only; page TBD” in fact sheet (prefer **dossier** if name+role+source solid; `thin` only if user said so or mass-stub)  
 - [ ] **Orgs that already have Echopedia pages** → first-mention wikilinks both ways where relevant  
 - [ ] **High-value orgs without pages** that appear as structural members (e.g. FAPA-LA) → create **thin** org page **or** leave plain text with reason in fact sheet (default: **create thin page** if listed as formal group member and has clear English/Chinese name)  
 - [ ] **Major events** (dated, named) → either section on primary page **or** `content/` event stubs if event-level pages are in scope; minimum: primary page section with dates/venues/links to archive files  
@@ -82,7 +82,7 @@
 | Do | Don’t |
 |----|--------|
 | Prefer **many linked pages** over one mega-page | Paste full bylaws PDF into wiki |
-| Thin A-tier person/org pages OK (role + source) | Invent bios for board members |
+| **Dossier** person/org pages for named officers (see §4.1) | Invent bios; firehose / 史話 bodies |
 | Link existing Echopedia orgs (TAHS, FAPA if page exists) | Orphan plain-text lists with zero links when slugs exist |
 | Point to archive files for long lists | Claim “full ingest” if only homepage applied |
 | One domain → one MANIFEST + one entities sheet | Scatter facts only in chat |
@@ -93,8 +93,22 @@
 - Do **not** create 80 empty stub pages in one shot unless user says `create all member org stubs`.  
 - A 76-row member dump **without** the official 設立過程 / 宗旨 is still **thin**. Graph ≠ narrative.  
 
-**Default for board officers:** create/update **thin person pages** for officers (chair, CEO, secretary-general, etc.); individual directors can be table on primary page unless user asks for all person pages.  
+**Default for board officers:** create/update **dossier** person pages for officers (chair, CEO, secretary-general, etc.) from the **same official source** — do not hunt a second source. Individual directors stay a table on the primary page unless user asks for all person pages.  
 **Past officers** named on TAH / intro (first chair, named 董事長 years) belong on the primary History table — do not invent the gaps.
+
+### 4.1 Default depth (2026-08-18)
+
+Named pages default to **dossier**, one notch above thin. Not a third source hunt.
+
+| Level | When | Must have | Must not |
+|---|---|---|---|
+| **thin** | user said `thin`; L1 roster mass-create; unnamed directors; `create all member org stubs` | Identity Snapshot + role + 1 source + Related | Timeline hunt |
+| **dossier** (default) | `Echopedia <name>`; website officers; new named person/org | Identity + **Timeline** (up to what **this** source dates) + Network + Sources + Related. Works / Quotes **only** if that same source already has a named work or a quoted sentence | Second-source crawl; 史話 / article **bodies**; Wikipedia exhaust |
+| **thicken** / **exhaust** | user said `thicken` / `one source: <url>` | next unused A-tier source, one pass | loop until asked again |
+
+**Enough:** user says `enough` / `thin` / `v1` → stop mining.
+
+**Primary site page** is unchanged: official About / History **prose** (Gate C). That is narrative, not a person-page thicken loop.
 
 ---
 
@@ -126,7 +140,7 @@ NARRATIVE: python3 $REPO/scripts/echopedia-ingest-complete.py --only <id>
 Echopedia website <https://example.org>
 Follow echopedia/WEBSITE_INGEST.md completeness bar.
 Full domain archive + entities fact sheet + source hub + primary page
-+ thin pages for key people/orgs + links + publish push.
++ dossier pages for key people/orgs + links + publish push.
 Do not stop at archive-only or single-page summary.
 Report with WEBSITE_INGEST template.
 ```

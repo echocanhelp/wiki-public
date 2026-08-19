@@ -211,6 +211,8 @@ Found two relevant mechanisms:
 - Source path (absolute) — the file or URL providing the new facts
 - Target path (absolute) — the page to edit
 - Facts must come from a verifiable source
+- **Default depth = dossier** (WEBSITE_INGEST §4.1): Identity + Timeline from **this** source + Network + Sources + Related. Do not open a second source unless the card/user said `thicken` / `one source:`.
+- `thin` on the card → snapshot only. Mass L1 / member stubs stay thin.
 
 **Steps:**
 1. Read the source file/URL to extract new facts

@@ -214,7 +214,7 @@ Look at the **janitor queue** (depth is in SYSTEM_STATUS.md). Typical first task
 | **`go identity link\|defer\|not-member\|clear-pending <slug>`** | Identity close-loop (EVO-3) — [identity-close-loop.md](../knowledge/operational/identity-close-loop.md) |
 
 **“Website” completeness (not optional):**  
-Tier2 MANIFEST for whole domain → **entities/facts sheet** → `content/sources/` hub → rich primary page → **thin pages / links for valuable people & orgs** → hygiene → **publish push**.  
+Tier2 MANIFEST for whole domain → **entities/facts sheet** → `content/sources/` hub → rich primary page → **dossier pages / links for valuable people & orgs** (thin only for mass stubs) → hygiene → **publish push**.  
 Stopping after archives or a single summary page = **PARTIAL**, not done.
 
 **Override only if you explicitly say otherwise:**
@@ -224,7 +224,11 @@ Stopping after archives or a single summary page = **PARTIAL**, not done.
 | `archive only` / `Tier2 only` | `knowledge/web-archives/` only |
 | `primary page only` | Skip new person/org stubs; still publish primary |
 | `no publish` / `no push` | Apply to `content/` only |
-| `create all member org stubs` | Expand group-member list into many thin org pages |
+| `thin` | Snapshot + role + 1 source (override dossier) |
+| `dossier` | Default named-page depth — [WEBSITE_INGEST §4.1](WEBSITE_INGEST.md) |
+| `thicken` / `exhaust` / `one source: <url>` | One more A-tier source, then stop |
+| `enough` | Stop mining |
+| `create all member org stubs` | Expand group-member list into many **thin** org pages |
 
 **Done = viewable + linked:** live GitHub Pages URLs, not merely disk files.
 
