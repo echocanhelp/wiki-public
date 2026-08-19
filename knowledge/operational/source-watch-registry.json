@@ -150,6 +150,42 @@
       "notes": "Official PCT website; no sitemap.xml; ASP.NET with query-string URLs; subdomains for ministries",
       "added": "2026-08-16",
       "removed": null
+    },
+    {
+      "id": "laijohn-com",
+      "enabled": true,
+      "class": "live-small",
+      "display_name": "Elder John Lai's Archives (laijohn.com)",
+      "home_url": "http://www.laijohn.com/",
+      "sitemap_urls": [],
+      "seed_urls": [
+        "http://www.laijohn.com/",
+        "http://www.laijohn.com/Index.htm",
+        "http://www.laijohn.com/English/Home.htm",
+        "http://www.laijohn.com/contents.htm",
+        "http://www.laijohn.com/life/biog.htm",
+        "http://www.laijohn.com/works/works-contents.htm",
+        "http://www.laijohn.com/newartical/2024/03.htm"
+      ],
+      "url_include_regex": null,
+      "url_exclude_regex": "archives/pc-contents|archives/pg|archives/pj|archives/pm|archives/pt|BOOK1/|book[2-7]/|wp-admin",
+      "event_path_regex": null,
+      "max_urls_per_poll": 12,
+      "cadence_days": 7,
+      "tier2_glob": "knowledge/web-archives/laijohn-com-*.md",
+      "manifest": "knowledge/web-archives/laijohn-com-MANIFEST.json",
+      "source_hub": "content/sources/laijohn-com.md",
+      "primary_pages": [
+        "content/organizations/elder-john-lai-archives.md"
+      ],
+      "entities_sheet": "knowledge/research/laijohn-com-entities.md",
+      "auto_apply": [
+        "tier2_append",
+        "last_reviewed"
+      ],
+      "notes": "User 2026-08-18: watch. Static HTTP archive. Seeds = official Who + TOC only. AUTO never About/History. Never 本土信徒 firehose or 史話 bodies.",
+      "added": "2026-08-18",
+      "removed": null
     }
   ],
   "archived_sources": []

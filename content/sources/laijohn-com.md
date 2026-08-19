@@ -34,7 +34,7 @@ Static archive of **[[people/john-lai|Elder John Lai 賴永祥]]** — 台灣教
 - **v1 (2026-08-18):** official Who + 生平 + works TOC + 1998 lecture.
 - **v2 (2026-08-18):** 《教會史話》 **628 titles** (nos. 1–674) in `laijohn-com-suoe-index.json`. Bodies not archived.
 - **Not archived:** 本土信徒 / 日人 / 原住民 / 宣教師 bodies; 史話 article firehose; off-site `taigi.fhl.net`.
-- **Not Sunday-watched** — static Class-B.
+- **Watch:** Sunday continuity `laijohn-com` — seeds = official Who + TOC. AUTO last_reviewed + tier2 only. **Never** About rewrite / 本土信徒 / 史話 bodies.
 
 ## Related Pages
 - [[organizations/elder-john-lai-archives|賴永祥長老史料庫]]

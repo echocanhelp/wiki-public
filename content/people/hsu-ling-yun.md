@@ -188,6 +188,7 @@ Hall couplet: 「聖道教人時雨化」／「福音牖世春風生」.
 - [[organizations/hsu-ling-yun-xiucai-memorial-hall|Hsu Ling-yun Xiucai Memorial Hall]]
 - [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]]
 - [[people/hsu-ching-chun|Hsu Ching-chun (許景淳)]] — Watong Hsu / 靖樂 line (clan, not proven direct descent)
+- [[organizations/elder-john-lai-archives|賴永祥長老史料庫]] — 史話 321 + 許凌雲秀才檔
 
 ## Sources
 

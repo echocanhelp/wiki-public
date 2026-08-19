@@ -179,3 +179,4 @@ TAH employment (unparsed string): Tainan Univ. of Technology assoc. prof.; Wenza
 - [[people/hsu-ching-chun]]
 - [[people/jer-shung-lin]]
 - [[people/apo-hsu]]
+- [[organizations/elder-john-lai-archives|史料庫]] — episode + 〈台灣翠青〉檔. TOC **374** = 林乾, not this man

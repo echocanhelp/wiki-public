@@ -279,6 +279,8 @@ English listing (older / ILT-focused): [enNews_pct.aspx](https://english.pct.org
 - [[organizations/irvine-taiwanese-presbyterian-church|Irvine Taiwanese Presbyterian Church]]
 - [[people/kao-chun-ming|Kao Chun-ming (高俊明)]]
 - [[people/index|People Index]]
+- [[organizations/elder-john-lai-archives|賴永祥長老史料庫]]
+- [[people/john-lai|Elder John Lai]]
 
 ## Sources
 

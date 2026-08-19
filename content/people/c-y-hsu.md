@@ -114,3 +114,5 @@ TAH #49 / person card: 許贊育先生，字化功，一九一〇年生於台灣
 - [[organizations/presbyterian-church-in-taiwan|PCT]]
 - [[organizations/taiwan-center|台灣會館]]
 - [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[sources/laijohn-com|laijohn.com]]
+- [[organizations/elder-john-lai-archives|史料庫]]

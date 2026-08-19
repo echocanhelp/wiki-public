@@ -10,7 +10,7 @@ tags:
   - PCT
   - Taiwan
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-08-18
 ---
 # George Leslie Mackay (馬偕)
 
@@ -35,6 +35,9 @@ last_reviewed: 2026-08-17
 - 馬偕紀念醫院 (Mackay Memorial Hospital)
 - Northern mission that became part of [[organizations/presbyterian-church-in-taiwan|PCT]]
 
+## 《教會史話》 (titles only)
+Laijohn TOC: **51** 馬偕-title hits (not listed). Son **偕叡廉** = 史話 501. Bodies not archived. Site also has `/Mackay/` scrap cluster (not v2).
+
 ## Network
 - [[people/james-laidlaw-maxwell|馬雅各]] — south, 1865; distinct person
 - [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]]
@@ -44,3 +47,9 @@ last_reviewed: 2026-08-17
 1. [Wikipedia: George Leslie Mackay](https://en.wikipedia.org/wiki/George_Leslie_Mackay)
 2. [維基百科：馬偕](https://zh.wikipedia.org/wiki/馬偕)
 3. [[organizations/presbyterian-church-in-taiwan|PCT]] page (1872 northern mission)
+4. [[sources/laijohn-com|laijohn.com]]
+
+## Related Pages
+- [[people/james-laidlaw-maxwell|馬雅各]]
+- [[organizations/elder-john-lai-archives|史料庫]]
+- [[sources/laijohn-com|laijohn.com]]

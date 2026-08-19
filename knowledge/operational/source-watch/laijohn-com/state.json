@@ -1,0 +1,79 @@
+{
+  "id": "laijohn-com",
+  "urls": {
+    "http://www.laijohn.com/": {
+      "hash": "a1daf2c8e1735a185cdfe130238534a9",
+      "len": 12986,
+      "code": 200,
+      "baseline": true
+    },
+    "http://www.laijohn.com/#content": {
+      "hash": "a1daf2c8e1735a185cdfe130238534a9",
+      "len": 12986,
+      "code": 200,
+      "baseline": true
+    },
+    "http://www.laijohn.com/#pageNav": {
+      "hash": "a1daf2c8e1735a185cdfe130238534a9",
+      "len": 12986,
+      "code": 200,
+      "baseline": true
+    },
+    "http://www.laijohn.com/#globalNav": {
+      "hash": "a1daf2c8e1735a185cdfe130238534a9",
+      "len": 12986,
+      "code": 200,
+      "baseline": true
+    },
+    "http://www.laijohn.com/#siteInfo": {
+      "hash": "a1daf2c8e1735a185cdfe130238534a9",
+      "len": 12986,
+      "code": 200,
+      "baseline": true
+    },
+    "http://www.laijohn.com/English/Home.htm": {
+      "hash": "678e2ebebe2cb5809d315996a22cbee5",
+      "len": 15171,
+      "code": 200,
+      "baseline": true
+    },
+    "http://www.laijohn.com/Japanese.htm": {
+      "hash": "6f6a05ec9ce7bdd42fca468ebadcab59",
+      "len": 39267,
+      "code": 200,
+      "baseline": true
+    },
+    "http://www.laijohn.com/newartical/2024/03.htm": {
+      "hash": "63a4959094974ec55ec1c8862e648ba5",
+      "len": 10546,
+      "code": 200,
+      "baseline": true
+    },
+    "http://www.laijohn.com/contents.htm": {
+      "hash": "ae4c2e8fb803d62d1fe92a1c49474384",
+      "len": 141298,
+      "code": 200,
+      "baseline": true
+    },
+    "http://www.laijohn.com/Index.htm": {
+      "hash": "a1daf2c8e1735a185cdfe130238534a9",
+      "len": 12986,
+      "code": 200,
+      "baseline": true
+    },
+    "http://www.laijohn.com/Index.htm#content": {
+      "hash": "a1daf2c8e1735a185cdfe130238534a9",
+      "len": 12986,
+      "code": 200,
+      "baseline": true
+    },
+    "http://www.laijohn.com/life/biog.htm": {
+      "hash": "290f7af223f95224f5a6db8fc7ddfb7b",
+      "len": 14145,
+      "code": 200,
+      "baseline": true
+    }
+  },
+  "last_poll": "2026-08-19T04:38:44Z",
+  "baseline_at": "2026-08-19T04:38:44Z"
+}

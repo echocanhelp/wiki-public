@@ -44,3 +44,4 @@ Accomplishment
 - [[people/c-y-hsu|Tsan Yu Hsu 許贊育]] — father
 - [[organizations/tah-foundation|TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[sources/laijohn-com|laijohn.com]] — 書法家許贊育 (2012)
