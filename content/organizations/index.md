@@ -38,6 +38,7 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 - [Bald Eagle Society (白首老鷹社)](./bald-eagle-society)
 - [Bliss & Wisdom Foundation of North America (北美福智基金會)](./bliss-wisdom-foundation-of-north-america)
 - [Boston Taiwanese Biotechnology Association (波士頓台灣人生物科技協會)](./boston-taiwanese-biotechnology-association)
+- [Boston Taiwanese Christian Church (波士頓台灣基督教會)](./boston-taiwanese-christian-church)
 - [Boston University Taiwanese Student Association](./boston-university-taiwanese-student-association)
 - [Brooklyn Artists Studio (布魯克林藝站)](./brooklyn-artists-studio)
 - [Brown Taiwan Society](./brown-taiwan-society)
@@ -80,6 +81,7 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 
 - [East Bay Taiwanese Americans Community Service Center EBTACSC (東灣台美人社區服務中心)](./east-bay-taiwanese-americans-community-service-center-ebtacsc)
 - [East Bay Taiwanese Association (北加州)](./east-bay-taiwanese-association)
+- [Elder John Lai's Archives (賴永祥長老史料庫)](./elder-john-lai-archives)
 - [Emory TSA](./emory-tsa)
 - [Evangelical Formosan Church of NorCal (北加州台福基督教會)](./evangelical-formosan-church-of-norcal)
 - [Evergreen Class by Irvine Taiwanese Presbyterian Church ，Laguna Hills, CA (長青教室)](./evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca)
