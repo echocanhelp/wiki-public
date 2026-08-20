@@ -105,7 +105,8 @@ A magazine of Taiwanese American interviews, essays, and stories **is the histor
 - [ ] Primary org **dossier**: About / History **prose** (Gate C) + editorial identity  
 - [ ] `content/sources/<id>.md` hub **catalog** wikilinking every A/B/C work  
 - [ ] `content/works/<id>/*.md` for **every A/B/C unit** (`echopedia-work-stub.py`)  
-- [ ] `content/works/index.md` lists this source  
+- [ ] **`content/works/index.md` is a reader catalog** — titled **A-band** links (via `echopedia-regen-works-index.py`), not an operator band table  
+- [ ] **Homepage** has a **Stories** hero button `href="./works/"` plus ≥1 featured story card to a real work slug  
 - [ ] Named subjects with solid identity → **people dossiers** (not byline-only stubs)  
 - [ ] Existing people/orgs get first-mention cites from A-band  
 - [ ] D-band stays off the wiki
@@ -123,7 +124,7 @@ A magazine of Taiwanese American interviews, essays, and stories **is the histor
 - [ ] **Never AUTO** person pages or About rewrite  
 - [ ] Morning brief 🟡 for new **A-band** units (human thicken)
 
-**PARTIAL if:** units.jsonl exists but A/B/C works missing; or org page has no About prose.
+**PARTIAL if:** units.jsonl exists but A/B/C works missing; org page has no About prose; **or work pages exist but homepage has no Stories entry and `/works/` has no titled A-band links.**
 
 ---
 

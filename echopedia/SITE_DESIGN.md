@@ -62,10 +62,10 @@ Times are **local wall clock** on pinto; SSOT: `jobs.json` / SYSTEM_STATUS inven
 |----|-------|------------|
 | A1 | `public/index.html` exists and >2KB | No — incident |
 | A2 | Viewport meta on homepage + sample pages | No (Quartz default; flag if missing) |
-| A3 | MD↔HTML parity: every `content/{people,orgs,sources,events}/*.md` has matching tree HTML | Yes → publish |
+| A3 | MD↔HTML parity: every `content/{people,orgs,sources,events,works}/*.md` has matching tree HTML | Yes → publish |
 | A4 | `#echo-recent` present on homepage HTML (root **and** `public/`) | Yes → featured-regen inject both |
 | A5 | Featured section non-empty when selection dry-run returns ≥1 page | Yes → featured-regen |
-| A6 | Index trees exist: `people/`, `organizations/`, `sources/` (HTML counts >0 if MD >0) | Yes → publish |
+| A6 | Index trees exist: `people/`, `organizations/`, `sources/`, `works/` (HTML counts >0 if MD >0) | Yes → publish |
 | A7 | CSS/JS linked from homepage resolve under `public/` (relative) | Flag only |
 
 ### B. Prominence / freshness (HIGH)

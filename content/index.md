@@ -12,10 +12,11 @@ tags:
 
 <div class="echo-hero">
   <p class="echo-hero-kicker">Taiwanese American Historical Society · 台美人歷史協會</p>
-  <p class="echo-hero-lead">A community-built encyclopedia of memory: clergy and lay leaders, churches and centers, histories that deserve to stay findable.</p>
-  <p class="echo-hero-hint">On a phone: tap the search icon in the header, type a 漢名 or English name, then open the page.</p>
+  <p class="echo-hero-lead">A community-built encyclopedia of memory: people, churches, organizations, and the stories they told.</p>
+  <p class="echo-hero-hint">On a phone: tap the search icon in the header, type a 漢名, English name, or story title, then open the page.</p>
   <div class="echo-hero-actions">
     <a class="echo-btn echo-btn-primary" href="./people/">People</a>
+    <a class="echo-btn echo-btn-secondary" href="./works/">Stories</a>
     <a class="echo-btn echo-btn-secondary" href="./organizations/good-shepherd-taiwanese-presbyterian-church">Churches</a>
     <a class="echo-btn echo-btn-secondary" href="./organizations/">Organizations</a>
   </div>
@@ -26,12 +27,13 @@ tags:
 | | |
 |:--|:--|
 | **People** | ~2,400 person pages — theologians, pastors, musicians, organizers, and community builders |
+| **Stories** | Interviews and historical works — start at [Stories](./works/) |
 | **Organizations** | ~420 churches, cultural centers, and historical bodies |
 | **Languages** | English + Chinese names and romanizations where known |
 | **Steward** | [Taiwanese American Historical Society (TAHS)](./organizations/taiwanese-american-historical-society) |
 
 > [!info] How to use this wiki
-> Start from **People** or **Organizations**, follow `[[wikilinks]]` between related pages, and treat `verification_status: pending` entries as living drafts that welcome community correction.
+> Start from **People**, **Stories**, or **Organizations**. Follow links between related pages. Treat `verification_status: pending` as living drafts.
 
 ## Featured people
 
@@ -99,6 +101,36 @@ tags:
 
 [→ Full organizations directory](./organizations/)
 
+## Featured stories
+
+Interviews and oral history. Full catalog: [Stories & historical works](./works/).
+
+<div class="echo-card-grid">
+
+<div class="echo-card">
+  <h3><a href="./works/taiwaneseamerican-org/stefany-valentine-interview">Crying in the Taipei 101 Food Court</a></h3>
+  <p>Two transpacific adoptees on (re-)learning Mandarin in Taiwan — TaiwaneseAmerican.org, 2026.</p>
+</div>
+
+<div class="echo-card">
+  <h3><a href="./works/taiwaneseamerican-org/228-reflection-2026">A Reflection on 228, from Taiwanese America in 2026</a></h3>
+  <p>228 remembrance from the diaspora magazine record.</p>
+</div>
+
+<div class="echo-card">
+  <h3><a href="./works/taiwaneseamerican-org/elaine-hsieh-chou-interview">A Conversation with Elaine Hsieh Chou</a></h3>
+  <p>Named-subject interview — TaiwaneseAmerican.org, 2025.</p>
+</div>
+
+<div class="echo-card">
+  <h3><a href="./works/taiwaneseamerican-org/leaving-the-united-states-made-me-feel-more-taiwanese-american">Leaving the United States Made Me Feel More Taiwanese American</a></h3>
+  <p>Personal essay in the 2026 magazine corpus.</p>
+</div>
+
+</div>
+
+[→ All stories](./works/)
+
 ## Recently deepened
 
 Pages with a real body that were reviewed in the last two weeks. Thin TAH stubs are not listed here.
@@ -129,7 +161,7 @@ Pages with a real body that were reviewed in the last two weeks. Thin TAH stubs 
 | **Southern California congregations** | [GSTPC](./organizations/good-shepherd-taiwanese-presbyterian-church) · [ITPC](./organizations/irvine-taiwanese-presbyterian-church) |
 | **Music & diaspora arts** | [Tyzen Hsiao](./people/tyzen-hsiao) · [Hsu Ching-chun](./people/hsu-ching-chun) |
 | **Community infrastructure** | [Leonard Hsu Jr.](./people/leonard-hsu-jr) · [People index](./people/) · [Organizations index](./organizations/) |
-| **Taiwanese American stories & works** | [Historical works](./works/) · [taiwanjustice.net archive](./articles/taiwanjustice-net/) |
+| **Taiwanese American stories** | [Stories](./works/) · [TaiwaneseAmerican.org](./organizations/taiwaneseamerican-org) |
 
 ## What Echopedia is (and isn't)
 
@@ -158,6 +190,7 @@ Community memory is stronger when many hands review it.
 ## Site map
 
 - [People](./people/) — person records
+- [Stories](./works/) — interviews and historical works
 - [Organizations](./organizations/) — churches, societies, and institutions
 - [Tags](./tags/) — cross-cutting labels (where present)
 
