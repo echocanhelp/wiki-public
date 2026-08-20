@@ -61,8 +61,11 @@ Ho Chie is a **board-certified pediatrician** on staff at the **UCSF Benioff Chi
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ho-chie-tsai/)
+- [TaiwaneseAmerican.org Staff](https://www.taiwaneseamerican.org/about/staff/) — Founder / founding board (2026-08-20)
 
 ## Related Pages
+- [[organizations/taiwaneseamerican-org|TaiwaneseAmerican.org]]
+- [[sources/taiwaneseamerican-org]]
 - [[organizations/tah-foundation|TAH Foundation]]
 
 - [[organizations/taiwanese-american-historical-society|TAHS]]

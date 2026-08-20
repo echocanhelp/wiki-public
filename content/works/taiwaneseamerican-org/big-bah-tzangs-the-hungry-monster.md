@@ -1,0 +1,33 @@
+---
+title: "Big Bah-Tzangs: The Hungry Monster"
+type: work
+source_id: taiwaneseamerican-org
+value_band: A
+license: all-rights
+verification_status: pending
+last_reviewed: 2026-08-20
+---
+# Big Bah-Tzangs: The Hungry Monster
+
+## Identity Snapshot
+- Era: 2014
+- Geography: Taiwanese America
+- Core roles: historical work (story; band A)
+
+## Record
+- **Date:** 2014-05-08
+- **Byline:** —
+- **Original:** [https://www.taiwaneseamerican.org/2014/05/big-bah-tzangs-the-hungry-monster/](https://www.taiwaneseamerican.org/2014/05/big-bah-tzangs-the-hungry-monster/)
+- **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
+- **License:** all-rights
+
+## Excerpt
+_Bibliographic record only. Full text stays in the vault (copyright)._ 
+
+
+## Subjects
+- (named subjects pending absorb)
+
+## Related Pages
+- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[sources/taiwaneseamerican-org|Source hub]]

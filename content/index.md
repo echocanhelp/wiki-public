@@ -129,13 +129,13 @@ Pages with a real body that were reviewed in the last two weeks. Thin TAH stubs 
 | **Southern California congregations** | [GSTPC](./organizations/good-shepherd-taiwanese-presbyterian-church) · [ITPC](./organizations/irvine-taiwanese-presbyterian-church) |
 | **Music & diaspora arts** | [Tyzen Hsiao](./people/tyzen-hsiao) · [Hsu Ching-chun](./people/hsu-ching-chun) |
 | **Community infrastructure** | [Leonard Hsu Jr.](./people/leonard-hsu-jr) · [People index](./people/) · [Organizations index](./organizations/) |
-| **Taiwan justice & opinion archive** | [taiwanjustice.net Article Archive](./articles/taiwanjustice-net/) · [taiwanjustice.net](./organizations/taiwanjustice-net) |
+| **Taiwanese American stories & works** | [Historical works](./works/) · [taiwanjustice.net archive](./articles/taiwanjustice-net/) |
 
 ## What Echopedia is (and isn't)
 
 **Is**
 
-- A public, linkable encyclopedia of Taiwanese American people and organizations
+- A public, linkable encyclopedia of Taiwanese American people, organizations, **and historical works** (interviews, essays, bibliographic records)
 - Bilingual where evidence allows (Chinese names + romanization)
 - Conservative about verification — pending pages are labeled as such
 - Maintained as part of the Echo / TAHS community systems stack
@@ -143,7 +143,7 @@ Pages with a real body that were reviewed in the last two weeks. Thin TAH stubs 
 **Isn't**
 
 - A social network or private member directory
-- An automated dump of every message or contact
+- An automated dump of every blog chrome slide, gift-guide, or private message
 - A substitute for primary archives, interviews, or academic monographs
 
 ## Contribute & correct

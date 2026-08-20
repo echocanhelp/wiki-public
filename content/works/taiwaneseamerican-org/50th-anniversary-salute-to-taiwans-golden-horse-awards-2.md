@@ -1,0 +1,33 @@
+---
+title: "50th Anniversary Salute to Taiwan&#039;s Golden Horse Awards"
+type: work
+source_id: taiwaneseamerican-org
+value_band: B
+license: all-rights
+verification_status: pending
+last_reviewed: 2026-08-20
+---
+# 50th Anniversary Salute to Taiwan&#039;s Golden Horse Awards
+
+## Identity Snapshot
+- Era: 2013
+- Geography: Taiwanese America
+- Core roles: historical work (story; band B)
+
+## Record
+- **Date:** 2013-11-24
+- **Byline:** —
+- **Original:** [https://www.taiwaneseamerican.org/2013/11/50th-anniversary-salute-to-taiwans-golden-horse-awards-2/](https://www.taiwaneseamerican.org/2013/11/50th-anniversary-salute-to-taiwans-golden-horse-awards-2/)
+- **Value band:** B (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
+- **License:** all-rights
+
+## Excerpt
+_Bibliographic record only. Full text stays in the vault (copyright)._ 
+
+
+## Subjects
+- (named subjects pending absorb)
+
+## Related Pages
+- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[sources/taiwaneseamerican-org|Source hub]]

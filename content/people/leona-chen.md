@@ -16,8 +16,8 @@ last_reviewed: 2026-08-17
 - **Chinese:** 陳文羿
 - **Era:** -
 - **Geography:** CA
-- **Core roles:** Taiwanese American (TAH Who’s Who)
-- **Source:** TAH Foundation Who’s Who
+- **Core roles:** Editor-in-Chief, TaiwaneseAmerican.org; writer
+- **Source:** TAH Foundation Who’s Who; TaiwaneseAmerican.org staff (2026-08-20)
 
 
 <!-- tah-tables:start -->
@@ -34,7 +34,10 @@ last_reviewed: 2026-08-17
 ## Sources
 - [TAH #2075 encyclopedia: 2075. Leona Chen 陳文羿 / 03/2018](https://taiwaneseamericanhistory.org/whos-leona-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/leona-chen/)
+- [TaiwaneseAmerican.org Staff](https://www.taiwaneseamerican.org/about/staff/) — Editor-in-Chief (masthead)
 
 ## Related Pages
+- [[organizations/taiwaneseamerican-org|TaiwaneseAmerican.org]]
 - [[organizations/tah-foundation|TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[sources/taiwaneseamerican-org]]
