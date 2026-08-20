@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2026
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2026-01-12
-- **Byline:** —
+- **Byline:** Leona
 - **Original:** [https://www.taiwaneseamerican.org/2026/01/yahu-beauty-inteview/](https://www.taiwaneseamerican.org/2026/01/yahu-beauty-inteview/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+As our annual Taiwanese American gift guides have scaled in breadth and reach, we’ve been so delighted to hear from emerging Taiwanese American creators and entrepreneurs eager to tell their story. Shortly after our 2025 edition was released, we had the opportunity to meet Brittaney Hu, who’d founded a skincare brand, Yahu Beauty (pronounced like […]
 
+## Timeline
+- 2026-01-12 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

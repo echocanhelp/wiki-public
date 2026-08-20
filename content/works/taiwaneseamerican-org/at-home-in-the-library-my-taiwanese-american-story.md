@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2020
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2020-08-07
-- **Byline:** —
+- **Byline:** Guest Contributor
 - **Original:** [https://www.taiwaneseamerican.org/2020/08/at-home-in-the-library-my-taiwanese-american-story/](https://www.taiwaneseamerican.org/2020/08/at-home-in-the-library-my-taiwanese-american-story/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Twenty years after we moved from Ohio to California, my parents received a letter from the children’s librarian in our old town. She had addressed it to “Resident,” not knowing if she had the right address for our family. “The other day while uncluttering a box in my basement,” she wrote, “I discovered a letter […]
 
+## Timeline
+- 2020-08-07 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Community
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

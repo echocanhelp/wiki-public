@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2017
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2017-02-19
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2017/02/slow-jam-jerry-jean/](https://www.taiwaneseamerican.org/2017/02/slow-jam-jerry-jean/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Jerry Jean is an NYC-based Taiwanese American songwriter, producer, and musician who has been creating some beautiful compositions and music videos on YouTube for several years. I was drawn to his most recent video for his soul-inspiring original song, Do We Reach Home, featuring a captivating dance performance by Chloe Noelle Crade. Directed by José […]
 
+## Timeline
+- 2017-02-19 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

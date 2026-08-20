@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2012
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2012-01-30
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2012/01/through-the-eyes-of-illustrator-julia-kuo/](https://www.taiwaneseamerican.org/2012/01/through-the-eyes-of-illustrator-julia-kuo/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+TaiwaneseAmerican.org’s Ho Chie Tsai takes a look at the work of Julia Kuo, an illustrator who works out of Cleveland for most of the year and Taipei during the winter. She recently gained greater attention for her project “100 Days in Cleveland,” which showcases 100 of her favorite things about the city. Many of the […]
 
+## Timeline
+- 2012-01-30 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

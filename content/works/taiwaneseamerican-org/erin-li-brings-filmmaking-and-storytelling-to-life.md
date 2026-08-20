@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2011
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2011-06-10
-- **Byline:** —
+- **Byline:** Stinky Tofu
 - **Original:** [https://www.taiwaneseamerican.org/2011/06/erin-li-brings-filmmaking-and-storytelling-to-life/](https://www.taiwaneseamerican.org/2011/06/erin-li-brings-filmmaking-and-storytelling-to-life/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Guest correspondent Timothy Tau recently met with fellow filmmaker Erin Li at the 2011 Los Angeles Asian Pacific Film Festival (LAAPFF). Erin’s film, L.A. Coffin School, which stars Elizabeth Sung, Michelle Krusiec, Jerry Ying, Megan Lee Angela Ai and Danni Lang, had the rare honor of being selected as one of the ten films sponsored […]
 
+## Timeline
+- 2011-06-10 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

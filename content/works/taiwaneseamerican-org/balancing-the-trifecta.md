@@ -13,21 +13,27 @@ last_reviewed: 2026-08-20
 - Era: 2018
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2018-07-23
-- **Byline:** —
+- **Byline:** Guest Contributor
 - **Original:** [https://www.taiwaneseamerican.org/2018/07/balancing-the-trifecta/](https://www.taiwaneseamerican.org/2018/07/balancing-the-trifecta/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+There are 27 picture frames on the wall next to our staircase, each chronicling flashes of the life I know. Pictures of my mom and dad on a vacation to Italy while they were dating, pictures of my brother and me in Mexico, pictures of my brother as a toddler in a pumpkin patch. […]
 
+## Timeline
+- 2018-07-23 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Community
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

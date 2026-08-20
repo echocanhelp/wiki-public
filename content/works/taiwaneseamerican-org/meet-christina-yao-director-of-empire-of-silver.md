@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2011
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2011-05-31
-- **Byline:** —
+- **Byline:** Stinky Tofu
 - **Original:** [https://www.taiwaneseamerican.org/2011/05/meet-christina-yao-director-of-empire-of-silver/](https://www.taiwaneseamerican.org/2011/05/meet-christina-yao-director-of-empire-of-silver/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+TaiwaneseAmerican.org guest correspondent Annie Tung interviews Taiwanese American director Christina Yao, director of “Empire of Silver.” Set in 1899, “Empire of Silver” follows the story of a carefree young man who must prepare to take over his family’s Chinese banking empire. The film stars Aaron Kwok, Jennifer Tilly, and Lantian Chang. It has won 19 […]
 
+## Timeline
+- 2011-05-31 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

@@ -13,21 +13,27 @@ last_reviewed: 2026-08-20
 - Era: 2018
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2018-02-26
-- **Byline:** —
+- **Byline:** Leona
 - **Original:** [https://www.taiwaneseamerican.org/2018/02/green-island-secrets/](https://www.taiwaneseamerican.org/2018/02/green-island-secrets/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Journalism & Scholarship Force Us to Bear Witness to Taiwan’s Darkest Era By Dr. Chung-Chih Li, edited by Leona Chen Editor’s Note: In 1981, Professor Chen Wen-Cheng (陳文成), assistant professor of mathematics at Carnegie Mellon University, was taken for interrogation by Taiwan’s secret police under allegations of sedition. Despite official reports of a friendly and […]
 
+## Timeline
+- 2018-02-26 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Featured
+- Perspectives
+- Social/Politics
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

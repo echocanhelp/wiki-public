@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2011
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2011-10-01
-- **Byline:** —
+- **Byline:** Anna
 - **Original:** [https://www.taiwaneseamerican.org/2011/10/happy-birthday-ho-chie/](https://www.taiwaneseamerican.org/2011/10/happy-birthday-ho-chie/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Most of you probably know Ho Chie, since he’s a regular superhero who seems to know everyone. Of course, Ho Chie Tsai is the founder of TaiwaneseAmerican.org, and he’s contributed to the Taiwanese American community in endless ways over the years. Plus, he’s still busy coming up with new ways to serve the community every […]
 
+## Timeline
+- 2011-10-01 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Interviews
+- National
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

@@ -13,21 +13,27 @@ last_reviewed: 2026-08-20
 - Era: 2020
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2020-05-28
-- **Byline:** —
+- **Byline:** Guest Contributor
 - **Original:** [https://www.taiwaneseamerican.org/2020/05/write-director-alice-wu-on-the-half-of-it/](https://www.taiwaneseamerican.org/2020/05/write-director-alice-wu-on-the-half-of-it/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+FEATURE PHOTO OF ALICE WU BY K.C. BAILEY When Netflix dropped its trailer for The Half of It almost a month ago, it rocked the internet. People quickly attached themselves to the film’s universally relatable main character Ellie Chu. Ellie is a shy and smart student who devotes her screen time to helping her […]
 
+## Timeline
+- 2020-05-28 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Community
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

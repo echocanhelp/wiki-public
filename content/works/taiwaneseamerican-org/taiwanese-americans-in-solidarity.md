@@ -13,21 +13,27 @@ last_reviewed: 2026-08-20
 - Era: 2015
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2015-05-06
-- **Byline:** —
+- **Byline:** Leona
 - **Original:** [https://www.taiwaneseamerican.org/2015/05/taiwanese-americans-in-solidarity/](https://www.taiwaneseamerican.org/2015/05/taiwanese-americans-in-solidarity/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Although systemic racism is the oldest motif in American history, recent events – including the Michael Brown shooting in Ferguson and the protests in Baltimore – have prompted us to thoroughly confront what it means to be a person of color in the United States. As Taiwanese Americans, our phenotype generally assigns us to a […]
 
+## Timeline
+- 2015-05-06 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Featured
+- Perspectives
+- Social/Politics
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

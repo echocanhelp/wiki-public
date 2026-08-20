@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2025
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2025-06-20
-- **Byline:** —
+- **Byline:** Tiffany Ran
 - **Original:** [https://www.taiwaneseamerican.org/2025/06/formosa-chocolates-kimberly-yang/](https://www.taiwaneseamerican.org/2025/06/formosa-chocolates-kimberly-yang/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+If life were like a box of chocolates, one could only hope it would be a box of Formosa Chocolates; each, a veritable jewel box of brightly colored chocolate bon bons with flavors like coconut caramel, passionfruit, or a surprising membrillo yogurt. Its founder Kimberly Yang is a psychiatrist-turned-chocolatier and her boxes of bon bons […]
 
+## Timeline
+- 2025-06-20 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Food &amp; Travel
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2013
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2013-04-28
-- **Byline:** —
+- **Byline:** Guest Contributor
 - **Original:** [https://www.taiwaneseamerican.org/2013/04/timothy-den-of-ohvaur/](https://www.taiwaneseamerican.org/2013/04/timothy-den-of-ohvaur/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+What’s your story? It’s the simplest of questions with the most complex of answers guaranteed. For many Asian Americans, the answer begins with our parents emboldened by the pipe dream of a better life for themselves and their family. The roads leading towards this dream were tumultuous for so many generations preceding us, wrought with […]
 
+## Timeline
+- 2013-04-28 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

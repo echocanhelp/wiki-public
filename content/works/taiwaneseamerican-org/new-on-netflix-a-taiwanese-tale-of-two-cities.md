@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2019
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2019-01-22
-- **Byline:** —
+- **Byline:** Guest Contributor
 - **Original:** [https://www.taiwaneseamerican.org/2019/01/new-on-netflix-a-taiwanese-tale-of-two-cities/](https://www.taiwaneseamerican.org/2019/01/new-on-netflix-a-taiwanese-tale-of-two-cities/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+An Interview with “A Taiwanese Tale of Two Cities” actor Denny Huang When Denny Huang decided to move to Taipei in 2005 as a young adult, he had no idea what he was going to do. As a Taiwanese American born in Houston, he barely spoke Mandarin at the time, and when he started pursuing […]
 
+## Timeline
+- 2019-01-22 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

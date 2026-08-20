@@ -13,21 +13,27 @@ last_reviewed: 2026-08-20
 - Era: 2019
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2019-05-02
-- **Byline:** —
+- **Byline:** Guest Contributor
 - **Original:** [https://www.taiwaneseamerican.org/2019/05/sharing-spaces-taiwanese-indigenous-art-connects-tradition-with-new-audiences/](https://www.taiwaneseamerican.org/2019/05/sharing-spaces-taiwanese-indigenous-art-connects-tradition-with-new-audiences/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Djanav Zengror’s greeting flies through the air, and then the rest of the Ayi-Yanga troupe fills the cozy lounge of the Hearst Museum of Anthropology with harmonies. Within the intimate room, the music transports us to a wide-open space and readily calls to mind the verdant mountains of Taiwan. Their song, “Home Direction” (指路), starts […]
 
+## Timeline
+- 2019-05-02 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Community
+- Featured
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

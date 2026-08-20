@@ -13,21 +13,27 @@ last_reviewed: 2026-08-20
 - Era: 2016
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2016-05-12
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2016/05/kenji-liu/](https://www.taiwaneseamerican.org/2016/05/kenji-liu/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+As we celebrate Taiwanese American Heritage Week and Asian Pacific American Heritage Month, TaiwaneseAmerican.org is pleased to feature accomplished individuals of Taiwanese descent who have used their voices and talents to highlight the histories and legacies of our community. Kenji C. Liu is author of Map of an Onion, national winner of the 2015 Hillary […]
 
+## Timeline
+- 2016-05-12 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Featured
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

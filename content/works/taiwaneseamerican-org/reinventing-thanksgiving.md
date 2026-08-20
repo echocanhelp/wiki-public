@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2011
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2011-11-24
-- **Byline:** —
+- **Byline:** Stinky Tofu
 - **Original:** [https://www.taiwaneseamerican.org/2011/11/reinventing-thanksgiving/](https://www.taiwaneseamerican.org/2011/11/reinventing-thanksgiving/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+This is a story about Thanksgiving traditions and my hidden talent. (More on the talent later.) Those of us who can’t trace our ancestry to the Mayflower are left to create our own Thanksgiving traditions. As a result, I think I had the best Thanksgivings of anyone I know. To understand, we have to start […]
 
+## Timeline
+- 2011-11-24 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

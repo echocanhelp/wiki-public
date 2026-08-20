@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2014
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2014-04-26
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2014/04/tap-chicago-serving-at-a-just-harvest-community-kitchen/](https://www.taiwaneseamerican.org/2014/04/tap-chicago-serving-at-a-just-harvest-community-kitchen/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Date: Saturday, April 26, 2014 Time: 4:00pm – 6:30pm Location: A Just Harvest Address: 7649 N Paulina St, Chicago, IL Facebook event page: https://www.facebook.com/events/553969464721148/ Join TAP-Chicago at A Just Harvest where we will be serving at Chicago’s largest community soup kitchen. A Just Harvest is focused on providing a welcoming and respectful environment in which […]
 
+## Timeline
+- 2014-04-26 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Midwest
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

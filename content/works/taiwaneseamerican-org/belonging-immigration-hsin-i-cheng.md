@@ -13,21 +13,27 @@ last_reviewed: 2026-08-20
 - Era: 2025
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2025-06-23
-- **Byline:** —
+- **Byline:** Leona
 - **Original:** [https://www.taiwaneseamerican.org/2025/06/belonging-immigration-hsin-i-cheng/](https://www.taiwaneseamerican.org/2025/06/belonging-immigration-hsin-i-cheng/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Part 1: Citizenship, Belonging, and the Emotional Legacies of Immigration This interview has also been translated to Mandarin Chinese (Hanzi) and can be viewed here. Editor’s Introduction: As political crises unfold, they rarely do so in a vacuum—and neither do our responses to them. I have been thinking fervently of how the different reactions to […]
 
+## Timeline
+- 2025-06-23 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Featured
+- Social/Politics
+- Spotlight
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

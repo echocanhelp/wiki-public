@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2011
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2011-11-17
-- **Byline:** —
+- **Byline:** Margaret
 - **Original:** [https://www.taiwaneseamerican.org/2011/11/meet-karin-wang-civil-rights-advocate-and-proud-taiwanese-american/](https://www.taiwaneseamerican.org/2011/11/meet-karin-wang-civil-rights-advocate-and-proud-taiwanese-american/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+TaiwaneseAmerican.org’s Margaret Chen speaks with Karin Wang, a life-long civil rights advocate who currently serves as Vice-President of Programs & Communications at the Asian Pacific American Legal Center (APALC), the nation’s largest legal and civil rights organization serving Asian American and Pacific Islander communities. We’ve followed her work for the past decade and remain impressed […]
 
+## Timeline
+- 2011-11-17 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Interviews
+- Social/Politics
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

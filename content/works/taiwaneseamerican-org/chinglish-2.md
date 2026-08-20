@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2012
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2012-10-11
-- **Byline:** —
+- **Byline:** Kristina
 - **Original:** [https://www.taiwaneseamerican.org/2012/10/chinglish-2/](https://www.taiwaneseamerican.org/2012/10/chinglish-2/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+I’m no avid theatergoer, but I do love entertainment! Watching David Henry Hwang’s new comedic play, Chinglish, with a few TaiwaneseAmerican.org staff was definitely one of the most enjoyable evenings I’ve had all summer. We follow an American man on his business trip to China, where he is faced with language barrier, cultural differences, and […]
 
+## Timeline
+- 2012-10-11 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

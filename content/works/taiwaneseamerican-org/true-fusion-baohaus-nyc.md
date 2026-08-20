@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2010
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2010-05-13
-- **Byline:** —
+- **Byline:** Stinky Tofu
 - **Original:** [https://www.taiwaneseamerican.org/2010/05/true-fusion-baohaus-nyc/](https://www.taiwaneseamerican.org/2010/05/true-fusion-baohaus-nyc/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Like most other Taiwanese Americans, I love food. But I hate fusion cuisine. The term implies something equally Asian and Western, but have you ever been to a Wolfgang Puck’s, perhaps at an airport? Beyond the superficial addition of some exotic ingredient to some random dish we could find at Applebee’s, there’s nothing Asian about […]
 
+## Timeline
+- 2010-05-13 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- East Coast
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

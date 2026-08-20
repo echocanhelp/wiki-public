@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2010
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2010-12-28
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2010/12/talking-music-politics-with-freddy-lim/](https://www.taiwaneseamerican.org/2010/12/talking-music-politics-with-freddy-lim/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+While visiting Taipei, TaiwaneseAmerican.org’s Ho Chie Tsai stops by The Wall to catch up with Freddy Lim who fronts the internationally-acclaimed Taiwanese black metal band ChthoniC. They’ve had a busy year touring throughout Asia and the UK, but our staff was fortunate to be able to sit down with Freddy and hear about what he’s […]
 
+## Timeline
+- 2010-12-28 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

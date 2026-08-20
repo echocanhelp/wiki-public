@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2010
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2010-05-05
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2010/05/chen-shu-chu-quietly-doing-good-and-now-one-of-times-100-most-influential/](https://www.taiwaneseamerican.org/2010/05/chen-shu-chu-quietly-doing-good-and-now-one-of-times-100-most-influential/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+PHOTO: HUANG MING-TANG, TAIPEI TIMESThis story has been making the rounds since TIME magazine announced its 2010 list of the world’s 100 most influential people, so in case you haven’t heard, we thought we’d let you in on the news: Since 1963, Chen Shu-chu has sold vegetables out of a stall in Taitung County’s central […]
 
+## Timeline
+- 2010-05-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Social/Politics
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

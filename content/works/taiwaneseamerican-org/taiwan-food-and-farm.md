@@ -13,21 +13,28 @@ last_reviewed: 2026-08-20
 - Era: 2025
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2025-10-06
-- **Byline:** —
+- **Byline:** Leona
 - **Original:** [https://www.taiwaneseamerican.org/2025/10/taiwan-food-and-farm/](https://www.taiwaneseamerican.org/2025/10/taiwan-food-and-farm/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+For many in diaspora, food is one of the most tangible threads connecting us to ancestry, memory, and land. Yet the pathways that sustain those connections—seed to harvest, recipe to ritual—are often complicated or even fractured by displacement, colonization, and distance. It is along these fractured, but fertile, lines that Taiwanese American community organizers Li […]
 
+## Timeline
+- 2025-10-06 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Community
+- Featured
+- Food &amp; Travel
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

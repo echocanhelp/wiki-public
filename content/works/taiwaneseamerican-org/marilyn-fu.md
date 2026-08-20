@@ -13,21 +13,27 @@ last_reviewed: 2026-08-20
 - Era: 2015
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2015-03-20
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2015/03/marilyn-fu/](https://www.taiwaneseamerican.org/2015/03/marilyn-fu/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Marilyn Fu is a Taiwanese American screenwriter whose latest film “The Sisterhood of Night” has been just begun screening on the film festival circuit and is soon to be released in theaters nationwide and on VOD starting April 10th. Inspired by Steven Millhauser’s short story of the same name, “The Sisterhood of Night” tells the […]
 
+## Timeline
+- 2015-03-20 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Featured
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

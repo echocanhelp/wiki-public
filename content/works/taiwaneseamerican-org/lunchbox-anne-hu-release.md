@@ -13,21 +13,27 @@ last_reviewed: 2026-08-20
 - Era: 2025
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2025-05-08
-- **Byline:** —
+- **Byline:** Guest Contributor
 - **Original:** [https://www.taiwaneseamerican.org/2025/05/lunchbox-anne-hu-release/](https://www.taiwaneseamerican.org/2025/05/lunchbox-anne-hu-release/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Nearly four years ago, filmmaker Anne Hu spoke with Grace Hwang Lynch for TaiwaneseAmerican.org as she was crowdfunding to make Lunchbox, a dramatic, three-part coming-of-age short drama about regret, healing, and honoring the people we love. In the film, when a Taiwanese American woman (Shirley), prepares lunches from her childhood, she struggles to forgive herself […]
 
+## Timeline
+- 2025-05-08 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Interviews
+- Spotlight
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

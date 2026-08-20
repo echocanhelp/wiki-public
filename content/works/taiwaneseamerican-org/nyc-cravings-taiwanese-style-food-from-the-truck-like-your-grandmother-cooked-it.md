@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2009
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2009-07-27
-- **Byline:** —
+- **Byline:** Dot
 - **Original:** [https://www.taiwaneseamerican.org/2009/07/nyc-cravings-taiwanese-style-food-from-the-truck-like-your-grandmother-cooked-it/](https://www.taiwaneseamerican.org/2009/07/nyc-cravings-taiwanese-style-food-from-the-truck-like-your-grandmother-cooked-it/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Update: NYC Cravings is now called Bian Dang! Where can one get Taiwanese-style fried chicken over rice, seasoned with a delicious home-cooked pork sauce, with tea eggs and handmade dumplings on the side? Earlier this summer, possibly the first Taiwanese-style food truck in the United States drove into town and opened for lunch at neighborhoods […]
 
+## Timeline
+- 2009-07-27 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Food &amp; Travel
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

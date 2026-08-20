@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2023
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2023-04-03
-- **Byline:** —
+- **Byline:** Guest Contributor
 - **Original:** [https://www.taiwaneseamerican.org/2023/04/directors-picks-ten-films-from-taiwan-to-watch/](https://www.taiwaneseamerican.org/2023/04/directors-picks-ten-films-from-taiwan-to-watch/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+By guest contributor Brian Hu, a film curator and educator with a focus on Asian and Asian American cinema. Where does one start with Taiwan cinema? While it was barely scraping by with a couple dozen features per year in the early 2000s, the Taiwanese film industry had once been one of the world’s biggest, […]
 
+## Timeline
+- 2023-04-03 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Community
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

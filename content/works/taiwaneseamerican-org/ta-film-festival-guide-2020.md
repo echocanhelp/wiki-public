@@ -13,21 +13,28 @@ last_reviewed: 2026-08-20
 - Era: 2020
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2020-10-19
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2020/10/ta-film-festival-guide-2020/](https://www.taiwaneseamerican.org/2020/10/ta-film-festival-guide-2020/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+FEATURE IMAGE: HELLO FROM TAIWAN, dir. TIFFANY FRANCES We are beaming with Taiwanese American pride as our stories come to life and are being projected across the country! A global pandemic may have paused in-person film festivals and gatherings in America, but that hasn’t stopped organizers from creating virtual film festivals accessible to a wider […]
 
+## Timeline
+- 2020-10-19 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Community
+- Featured
+- Spotlight
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

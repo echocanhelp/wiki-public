@@ -13,21 +13,27 @@ last_reviewed: 2026-08-20
 - Era: 2022
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2022-08-23
-- **Byline:** —
+- **Byline:** Guest Contributor
 - **Original:** [https://www.taiwaneseamerican.org/2022/08/judy-i-lin-interview/](https://www.taiwaneseamerican.org/2022/08/judy-i-lin-interview/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Welcome back to another interview in our “New Creatives” series at TaiwaneseAmerican.org! With August and the end of summer coming around, avid readers will know that this month brings a plethora of new book releases. One of our most highly-anticipated reads of the summer is A Venom Dark and Sweet, the second book in author […]
 
+## Timeline
+- 2022-08-23 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Featured
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

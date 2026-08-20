@@ -13,21 +13,27 @@ last_reviewed: 2026-08-20
 - Era: 2015
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2015-12-31
-- **Byline:** —
+- **Byline:** Stinky Tofu
 - **Original:** [https://www.taiwaneseamerican.org/2015/12/taiwaneseamerican-org-top-10-facebook-posts-2015/](https://www.taiwaneseamerican.org/2015/12/taiwaneseamerican-org-top-10-facebook-posts-2015/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Miss Taiwan, cats, Taiwan making the world’s #1 whisky, hot nightmarket vendors, Taiwan’s first woman president–and more! Check out 10+ of the most popular TaiwaneseAmerican.org Facebook posts of 2015. Happy New Year! 1. Miss Taiwan takes a stand. Ms. Ting Wen-yin (Dingding 丁丁丁), Taiwan’s contestant at Miss Earth 2015, refused to wear a sash that read “Miss Chinese… […]
 
+## Timeline
+- 2015-12-31 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Featured
+- Food &amp; Travel
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

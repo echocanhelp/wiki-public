@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2024
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2024-09-01
-- **Byline:** —
+- **Byline:** Guest Contributor
 - **Original:** [https://www.taiwaneseamerican.org/2024/09/kim-liao-interview/](https://www.taiwaneseamerican.org/2024/09/kim-liao-interview/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+After hearing Kim Liao speak at the 2024 North American Taiwan Studies Association Conference welcoming plenary session, I found myself eagerly anticipating the September release of her book, Where Every Ghost Has a Name: A Memoir of Taiwanese Independence. In 2010, Kim traveled to Taiwan on a Fulbright, seeking to uncover the story of her […]
 
+## Timeline
+- 2024-09-01 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2009
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2009-07-11
-- **Byline:** —
+- **Byline:** Jessica
 - **Original:** [https://www.taiwaneseamerican.org/2009/07/the-cost-of-public-outings/](https://www.taiwaneseamerican.org/2009/07/the-cost-of-public-outings/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Today is Free Slurpee Day at 7-11. I like free things, I like Slurpees, therefore my sister (who has the same sentiments) and I went to the nearest 7-11: small, far from spotless, and located on a large boulevard calm on a Saturday night. The few people that were in there before us trickled out […]
 
+## Timeline
+- 2009-07-11 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

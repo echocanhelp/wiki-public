@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2026
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2026-02-19
-- **Byline:** —
+- **Byline:** Guest Contributor
 - **Original:** [https://www.taiwaneseamerican.org/2026/02/in-grief-returning-to-my-roots/](https://www.taiwaneseamerican.org/2026/02/in-grief-returning-to-my-roots/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+My father’s final resting place was on a grassy knoll overlooking the Los Angeles skyline, 7,000 miles from his childhood home. Since he immigrated to California in the 1970s, he’d only returned twice to Xingang, a rural township in southern Taiwan, flying over eleven hours across the Pacific Ocean each way. These trips were also […]
 
+## Timeline
+- 2026-02-19 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

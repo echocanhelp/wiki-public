@@ -13,21 +13,28 @@ last_reviewed: 2026-08-20
 - Era: 2020
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2020-11-30
-- **Byline:** —
+- **Byline:** Leona
 - **Original:** [https://www.taiwaneseamerican.org/2020/11/introducing-taiwan-mixed-an-aggregator-for-english-language-taiwan-news/](https://www.taiwaneseamerican.org/2020/11/introducing-taiwan-mixed-an-aggregator-for-english-language-taiwan-news/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+L: Hi Salina! Thanks for taking the time to chat. Tell us about this aggregator project. S: Taiwan Mixed is a platform that aggregates English content on Taiwan. In particular, the aggregator seeks to support Taiwan-based independent media outlets that release English articles related to developments on the island and beyond. It also seeks to […]
 
+## Timeline
+- 2020-11-30 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Community
+- Featured
+- Interviews
+- Projects
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

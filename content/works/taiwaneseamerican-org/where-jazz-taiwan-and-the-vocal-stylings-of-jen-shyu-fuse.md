@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2008
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2008-04-19
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2008/04/where-jazz-taiwan-and-the-vocal-stylings-of-jen-shyu-fuse/](https://www.taiwaneseamerican.org/2008/04/where-jazz-taiwan-and-the-vocal-stylings-of-jen-shyu-fuse/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+“It doesn’t matter if you don’t know the music well, I just want you to sing it loud and proud,” Jen Shyu declares, as she teaches a traditional Taiwanese folk song to a group of her peers at the North American Taiwanese Womens Association’s 2nd Generation program in Los Angeles. This is, after all, a […]
 
+## Timeline
+- 2008-04-19 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

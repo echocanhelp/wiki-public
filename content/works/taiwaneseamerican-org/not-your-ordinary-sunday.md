@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2011
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2011-02-07
-- **Byline:** —
+- **Byline:** Stinky Tofu
 - **Original:** [https://www.taiwaneseamerican.org/2011/02/not-your-ordinary-sunday/](https://www.taiwaneseamerican.org/2011/02/not-your-ordinary-sunday/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Article by: Samantha Lai, freshman at UC Berkeley For a group of people who haven’t spent a lot of time together, much less on public transit, we had a remarkably good time getting acquainted with one another and Los Angeles Times writer Rong-Gong “Ron” Lin II on our August 15 trip in Downtown LA. Time […]
 
+## Timeline
+- 2011-02-07 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

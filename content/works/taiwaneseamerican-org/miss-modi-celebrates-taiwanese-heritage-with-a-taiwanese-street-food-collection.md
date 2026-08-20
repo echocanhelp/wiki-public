@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2020
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2020-05-11
-- **Byline:** —
+- **Byline:** Guest Contributor
 - **Original:** [https://www.taiwaneseamerican.org/2020/05/miss-modi-celebrates-taiwanese-heritage-with-a-taiwanese-street-food-collection/](https://www.taiwaneseamerican.org/2020/05/miss-modi-celebrates-taiwanese-heritage-with-a-taiwanese-street-food-collection/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+10% of proceeds from Miss Modi’s “Taiwanese Street Food Collection” will be donated to TaiwaneseAmerican.org My name is Casey (Hsiu-Wan) Yui, founder of Miss Modi (@missmodi2018). I immigrated to New York from Taiwan with my family at the age of 17. Like all new immigrants, I barely spoke English and struggled to learn the language […]
 
+## Timeline
+- 2020-05-11 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Community
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

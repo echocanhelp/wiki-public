@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2024
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2024-08-17
-- **Byline:** —
+- **Byline:** Tiffany Ran
 - **Original:** [https://www.taiwaneseamerican.org/2024/08/gu-grocery-feature/](https://www.taiwaneseamerican.org/2024/08/gu-grocery-feature/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+I thought I first met Jessica Wang and her mother, who lovingly goes by the name Mama Peggy, at the LA River Farmers Market a few years ago. But looking back in my shoebox of old photos from high school, I dug out a picture of my friends enjoying a park picnic and there she […]
 
+## Timeline
+- 2024-08-17 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Food &amp; Travel
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2026
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2026-05-04
-- **Byline:** —
+- **Byline:** Guest Contributor
 - **Original:** [https://www.taiwaneseamerican.org/2026/05/leaving-the-united-states-made-me-feel-more-taiwanese-american/](https://www.taiwaneseamerican.org/2026/05/leaving-the-united-states-made-me-feel-more-taiwanese-american/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+“But where are you really from?” That’s the age-old question so many of us Asian-Americans have received throughout our lives living in the U.S. And while many have various objections to the principle of the question, for me, the real reason that question used to get under my skin was because it was really an […]
 
+## Timeline
+- 2026-05-04 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

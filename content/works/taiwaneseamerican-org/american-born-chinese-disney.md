@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2023
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2023-05-24
-- **Byline:** —
+- **Byline:** Leona
 - **Original:** [https://www.taiwaneseamerican.org/2023/05/american-born-chinese-disney/](https://www.taiwaneseamerican.org/2023/05/american-born-chinese-disney/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Maybe it’s our vantage point from TaiwaneseAmerican.org that allows us to appreciate every product and project – especially a mainstream one like this – as a hard-won triumph, as a member of a lineage where people had doors opened for them, and in turn opened doors for others. As much as “representation” is a buzzy […]
 
+## Timeline
+- 2023-05-24 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Community
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2010
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2010-03-31
-- **Byline:** —
+- **Byline:** Jon
 - **Original:** [https://www.taiwaneseamerican.org/2010/03/reexamining-taiwans-228-massacre-a-discussion-on-the-u-s-role-in-taiwan-then-and-now/](https://www.taiwaneseamerican.org/2010/03/reexamining-taiwans-228-massacre-a-discussion-on-the-u-s-role-in-taiwan-then-and-now/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+The Human Rights for Taiwanese organization in Seattle made a great and detailed transcript of their 2/28 Event held at the University of Washington. Participating on the panel is Jonathan Manthorpe, author of Forbidden Nation: A History of Taiwan and International Affairs columnist for the Vancouver Sun; Dr. Sam Small, Vice-Chairman of the Taiwan Veterans Badge […]
 
+## Timeline
+- 2010-03-31 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Perspectives
+- West Coast
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

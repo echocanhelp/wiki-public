@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2014
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2014-07-04
-- **Byline:** —
+- **Byline:** Guest Contributor
 - **Original:** [https://www.taiwaneseamerican.org/2014/07/an-interview-with-meimeiwawa/](https://www.taiwaneseamerican.org/2014/07/an-interview-with-meimeiwawa/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Earlier this year we were able to meet up with Lara and Esther Veronin, two sisters who are starting their own multimedia company in Taiwan. You may have heard of Lara in the past as she’s been all over the entertainment industry! She is best known as lead female singer of the band Nan Quan […]
 
+## Timeline
+- 2014-07-04 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

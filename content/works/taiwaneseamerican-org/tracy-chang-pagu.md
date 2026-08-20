@@ -13,21 +13,27 @@ last_reviewed: 2026-08-20
 - Era: 2017
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2017-04-18
-- **Byline:** —
+- **Byline:** Pamela
 - **Original:** [https://www.taiwaneseamerican.org/2017/04/tracy-chang-pagu/](https://www.taiwaneseamerican.org/2017/04/tracy-chang-pagu/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+As a food explorer living in Boston, I follow the food blog Tiny Urban Kitchen by Taiwanese American Jen Che. This is where I first heard about the restaurant PAGU and its Taiwanese American chef/owner Tracy Chang, a talented culinary entrepreneur who sports a unique hairstyle (aka the “ramen wave”). PAGU serves Japanese tapas, a reflection […]
 
+## Timeline
+- 2017-04-18 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Featured
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

@@ -13,21 +13,27 @@ last_reviewed: 2026-08-20
 - Era: 2024
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2024-10-22
-- **Byline:** —
+- **Byline:** Guest Contributor
 - **Original:** [https://www.taiwaneseamerican.org/2024/10/ellie-yang-camp/](https://www.taiwaneseamerican.org/2024/10/ellie-yang-camp/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Taiwanese American author Ellie Yang Camp has been a high school history teacher, an artist, and an anti-racist educator. Now she’s taking on another task, authoring Louder Than the Lies: Asian American Identity, Solidarity, and Self-Love. In this book she unpacks the Asian American identity by drawing on personal experiences, stories from her friends, and […]
 
+## Timeline
+- 2024-10-22 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Interviews
+- Social/Politics
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

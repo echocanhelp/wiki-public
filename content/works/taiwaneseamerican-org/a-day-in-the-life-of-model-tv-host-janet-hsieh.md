@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2010
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2010-12-30
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2010/12/a-day-in-the-life-of-model-tv-host-janet-hsieh/](https://www.taiwaneseamerican.org/2010/12/a-day-in-the-life-of-model-tv-host-janet-hsieh/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Janet Hsieh 謝怡芬, the beautiful model and TV show host of “FunTaiwan” on the Discovery Travel & Living Channel, is one busy girl who is always working and jet-setting worldwide. She shares her explorations with a growing audience in Taiwan and throughout Asia. While in Taipei, TaiwaneseAmerican.org’s Ho Chie Tsai drops in to say hello […]
 
+## Timeline
+- 2010-12-30 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

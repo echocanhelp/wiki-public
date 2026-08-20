@@ -60,7 +60,7 @@ def load_works() -> list[dict]:
                     "title": title,
                     "band": band,
                     "date": date,
-                    "href": f"./{src_dir.name}/{md.stem}",
+                    "href": f"works/{src_dir.name}/{md.stem}",
                 }
             )
     rows.sort(key=lambda r: (r["date"] or "", r["title"]), reverse=True)
@@ -68,8 +68,9 @@ def load_works() -> list[dict]:
 
 
 def md_link(r: dict) -> str:
-    t = r["title"].replace("|", "\\|")
-    return f"- [{t}]({r['href']}) — {r['date'] or 'undated'}"
+    t = r["title"].replace("|", "\\|").replace("]", "")
+    # Full works/ wikilink — relative ./src/slug becomes ../src (404 at site root)
+    return f"- [[{r['href']}|{t}]] — {r['date'] or 'undated'}"
 
 
 def main() -> int:
@@ -84,7 +85,7 @@ def main() -> int:
 
     featured = a[:FEATURED_N]
     feat_lines = "\n".join(
-        f'<div class="echo-card">\n  <h3><a href="{r["href"]}">{html.unescape(r["title"])}</a></h3>\n  <p>{r["date"]} · {r["src"]}</p>\n</div>'
+        f"- [[{r['href']}|{html.unescape(r['title']).replace(']', '')}]] — {r['date']} · {r['src']}"
         for r in featured
     )
 
@@ -119,9 +120,7 @@ Interviews, oral history, and named-subject features absorbed as Echopedia **wor
 <!-- works-index-start -->
 ## Featured stories
 
-<div class="echo-card-grid">
-{feat_lines or '<p>No A-band stories yet.</p>'}
-</div>
+{feat_lines or '_No A-band stories yet._'}
 
 [→ All sources below](#by-source)
 

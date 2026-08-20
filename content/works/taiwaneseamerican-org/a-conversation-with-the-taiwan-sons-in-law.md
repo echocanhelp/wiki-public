@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2008
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2008-02-18
-- **Byline:** —
+- **Byline:** Stinky Tofu
 - **Original:** [https://www.taiwaneseamerican.org/2008/02/a-conversation-with-the-taiwan-sons-in-law/](https://www.taiwaneseamerican.org/2008/02/a-conversation-with-the-taiwan-sons-in-law/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+by Audrey Jean What does it mean to be a Taiwanese American? How strong of a tie should we feel towards our parent culture? How much of our life should we devote to exploring and promoting our heritage? These are questions that we all think about and come up with our own answers for. But, […]
 
+## Timeline
+- 2008-02-18 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

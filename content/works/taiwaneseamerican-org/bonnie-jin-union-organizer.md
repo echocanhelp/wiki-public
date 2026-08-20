@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2025
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2025-06-17
-- **Byline:** —
+- **Byline:** Leona
 - **Original:** [https://www.taiwaneseamerican.org/2025/06/bonnie-jin-union-organizer/](https://www.taiwaneseamerican.org/2025/06/bonnie-jin-union-organizer/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Taiwanese American Bonnie Jin is one of the most brilliant voices of our generation, lucidly alchemizing identity into strategy as a multilingual union organizer and storyteller. In a conversation for TaiwaneseAmerican.org, we talk about how diasporic experiences can inform a labor movement rooted in empathy and collective care, and the kind of Taiwanese American stories […]
 
+## Timeline
+- 2025-06-17 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Featured
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2023
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2023-01-30
-- **Byline:** —
+- **Byline:** Leona
 - **Original:** [https://www.taiwaneseamerican.org/2023/01/miss-taiwanese-american-queen-tiffany-chang/](https://www.taiwaneseamerican.org/2023/01/miss-taiwanese-american-queen-tiffany-chang/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+When Tiffany Chang entered the Miss Taiwanese American Pageant, she embarked on an experience many alumni have described as “life-changing.” The Miss Taiwanese American (MTA) Pageant (台美小姐選拔 ) is an annual competition held by the Taiwan Center Foundation of Greater Los Angeles (大洛杉磯台灣會館基金會) to “find and encourage the next generation of leaders for the Taiwanese […]
 
+## Timeline
+- 2023-01-30 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Community
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

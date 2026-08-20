@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2010
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2010-11-14
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2010/11/its-prep-time-for-actor-dyana-liu/](https://www.taiwaneseamerican.org/2010/11/its-prep-time-for-actor-dyana-liu/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+I recently heard about up and coming actor Dyana Liu through our friends over at 8asians.com and reached out to her when I discovered she was Taiwanese American. Dyana is one of the stars of a new Cartoon Network live-action series, Tower Prep. She plays Suki Sato, a “tech and gadget expert” who also possesses […]
 
+## Timeline
+- 2010-11-14 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

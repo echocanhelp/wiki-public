@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2013
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2013-03-26
-- **Byline:** —
+- **Byline:** Kristina
 - **Original:** [https://www.taiwaneseamerican.org/2013/03/fashion-trending-with-designer-jason-wu/](https://www.taiwaneseamerican.org/2013/03/fashion-trending-with-designer-jason-wu/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Outside of the fashion corners of Paris, Milan, London and New York, it isn’t often that one comes across a Fashion Runway Showcase here in San Francisco, let alone that of acclaimed New York-based Taiwanese Canadian designer, Jason Wu. Honored and ecstatic, Creative/Editorial Director (and professional photographer) Anna Wu and myself attended to cover this […]
 
+## Timeline
+- 2013-03-26 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

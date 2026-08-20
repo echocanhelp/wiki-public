@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2014
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2014-02-04
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2014/02/taiwan-america-student-conference/](https://www.taiwaneseamerican.org/2014/02/taiwan-america-student-conference/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+TaiwaneseAmerican.org’s Ho Chie Tsai takes a moment to chat with some of the organizers behind a new student-oriented conference that aims to build bridges across the Pacific by bringing together young spirited leaders from the U.S. and Taiwan. Their vision is broad and meaningful: By connecting ambitious young leaders with established leaders in Taiwan, they […]
 
+## Timeline
+- 2014-02-04 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Community
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

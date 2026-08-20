@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2010
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2010-02-07
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2010/02/a-moment-with-the-actors-and-production-team-behind-formosa-betrayed/](https://www.taiwaneseamerican.org/2010/02/a-moment-with-the-actors-and-production-team-behind-formosa-betrayed/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Ho Chie Tsai, creator of TaiwaneseAmerican.org, chats with a few of the actors and production team behind the upcoming movie, Formosa Betrayed at the San Francisco / Bay Area’s 2010 annual Lunar New Year celebration. Revolving around the theme, “Projecting Our Presence,” the event was hosted by TaiwaneseAmerican.org and the 2nd generation organizations in the […]
 
+## Timeline
+- 2010-02-07 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

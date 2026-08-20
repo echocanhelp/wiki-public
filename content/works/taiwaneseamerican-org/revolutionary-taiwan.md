@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2026
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2026-02-01
-- **Byline:** —
+- **Byline:** Leona
 - **Original:** [https://www.taiwaneseamerican.org/2026/02/revolutionary-taiwan/](https://www.taiwaneseamerican.org/2026/02/revolutionary-taiwan/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Those who’ve monitored English-language online discourse on “Taiwan issues” for the past decade or so may be familiar with the lucid lyricism and rigorous clarity of Catherine Chou (perhaps first known by her then-Twitter handle, “@catielila.”) I’ve long admired Catherine for her rare ability to braid political theory, historical context, and lived affect; how she […]
 
+## Timeline
+- 2026-02-01 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Interviews
+- Social/Politics
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2015
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2015-12-15
-- **Byline:** —
+- **Byline:** A Chu
 - **Original:** [https://www.taiwaneseamerican.org/2015/12/paths-and-patterns/](https://www.taiwaneseamerican.org/2015/12/paths-and-patterns/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+We’ve fallen into a pattern, my new friends. And some of my old friends, in this new context. It’s a new thing, for them, but feels familiar, comfortable, for me. You see, it’s natural for me, because it’s how I grew up. I grew up in the US, in the heart of the Midwest, a […]
 
+## Timeline
+- 2015-12-15 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Featured
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

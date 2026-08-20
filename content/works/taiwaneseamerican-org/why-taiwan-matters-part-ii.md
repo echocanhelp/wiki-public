@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2011
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2011-10-04
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2011/10/why-taiwan-matters-part-ii/](https://www.taiwaneseamerican.org/2011/10/why-taiwan-matters-part-ii/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+You are invited to attend the following open hearing of the US House of Representatives’ Committee on Foreign Affairs to be held in Room 2172 of the Rayburn House Office Building. Hosted by Chairman Ileana Ros-Lehtinen (R-FL), this presentation is part II on the topic of “Why Taiwan Matters.” Date: Tuesday, October 4, 2011 Time: […]
 
+## Timeline
+- 2011-10-04 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- East Coast
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

@@ -1,19 +1,13 @@
 {
-  "at": "2026-08-20T18:52:17.110263+00:00",
-  "status": "BROKEN_PAGES",
+  "at": "2026-08-20T19:05:25.408063+00:00",
+  "status": "OK",
   "homepage": "200",
-  "total": 5,
-  "ok": 1,
-  "cdn_lag": 3,
-  "missing": 1,
+  "total": 50,
+  "ok": 50,
+  "cdn_lag": 0,
+  "missing": 0,
   "other": 0,
   "base_url": "https://echocanhelp.github.io/wiki-public",
-  "missing_samples": [
-    "https://echocanhelp.github.io/wiki-public/works/taiwaneseamerican-org"
-  ],
-  "lag_samples": [
-    "https://echocanhelp.github.io/wiki-public/organizations/taiwaneseamerican-org",
-    "https://echocanhelp.github.io/wiki-public/sources/taiwaneseamerican-org",
-    "https://echocanhelp.github.io/wiki-public/works/index"
-  ]
+  "missing_samples": [],
+  "lag_samples": []
 }

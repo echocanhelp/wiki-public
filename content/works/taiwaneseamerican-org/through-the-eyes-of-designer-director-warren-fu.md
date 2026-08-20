@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2010
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2010-05-31
-- **Byline:** —
+- **Byline:** Jessica Fu
 - **Original:** [https://www.taiwaneseamerican.org/2010/05/through-the-eyes-of-designer-director-warren-fu/](https://www.taiwaneseamerican.org/2010/05/through-the-eyes-of-designer-director-warren-fu/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+“Sorry I’m late!” my cousin Warren apologized when he showed up for our interview. “The Jimmy Fallon taping with Julian [Casablancas, lead singer of The Strokes] ran a little long.” I wish I could have that kind of excuse whenever I’m late to an engagement. This was, however, simply another day in the life of […]
 
+## Timeline
+- 2010-05-31 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

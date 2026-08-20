@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2025
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2025-07-10
-- **Byline:** —
+- **Byline:** Leona
 - **Original:** [https://www.taiwaneseamerican.org/2025/07/anne-that-taiwanese-gal/](https://www.taiwaneseamerican.org/2025/07/anne-that-taiwanese-gal/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Editor’s Note: In this article, we use the terms “Taigi” and “Taiwanese” interchangeably to refer specifically to Taiwanese Hokkien, also known as Taigi or Tâi-gí (台語). While commonly spoken in many Taiwanese households and often associated with Taiwanese cultural identity, it is important to recognize that Taigi is not currently the official language of Taiwan, […]
 
+## Timeline
+- 2025-07-10 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

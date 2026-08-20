@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2012
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2012-12-08
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2012/12/chicago-taiwanese-american-professionals-community-service-event/](https://www.taiwaneseamerican.org/2012/12/chicago-taiwanese-american-professionals-community-service-event/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Date: Saturday, December 8, 2012 Time: 11:00am – 1:00pm Location: Asian Youth Services (AYS) Address: 4809 N. California, Chicago, IL Facebook event page: http://www.facebook.com/events/408234972579573/ Join TAP-Chicago in spreading warmth and cheer to low-income, at-risk youth at Asian Youth Services (AYS) on Sat, December 8. Volunteers will be paired with the kids to make holiday-themed arts […]
 
+## Timeline
+- 2012-12-08 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Midwest
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

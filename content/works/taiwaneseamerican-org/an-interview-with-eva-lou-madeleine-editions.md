@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2018
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2018-09-18
-- **Byline:** —
+- **Byline:** Leona
 - **Original:** [https://www.taiwaneseamerican.org/2018/09/an-interview-with-eva-lou-madeleine-editions/](https://www.taiwaneseamerican.org/2018/09/an-interview-with-eva-lou-madeleine-editions/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Editor’s Note: Something we consider often is how language informs how we define and experience an ethnic or national identity. We wonder about the merits of raising bilingual, or even trilingual, children, and whether our mother tongues will ever find a place in communities that do not recognize them. Our contributors have discussed loss and […]
 
+## Timeline
+- 2018-09-18 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

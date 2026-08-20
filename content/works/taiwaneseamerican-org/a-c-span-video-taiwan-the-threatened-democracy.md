@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2010
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2010-05-22
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2010/05/a-c-span-video-taiwan-the-threatened-democracy/](https://www.taiwaneseamerican.org/2010/05/a-c-span-video-taiwan-the-threatened-democracy/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+This C-SPAN video is 3 yrs old, but explains so well the history & absurdity of Taiwan-US-China relations. If you don’t get it, watch this. We never thought we’d be promoting a C-SPAN video like this… but it’s good recap through history and policy regarding Taiwan, and there is some interesting commentary about it all. […]
 
+## Timeline
+- 2010-05-22 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

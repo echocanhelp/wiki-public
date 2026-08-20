@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2024
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2024-11-02
-- **Byline:** —
+- **Byline:** Guest Contributor
 - **Original:** [https://www.taiwaneseamerican.org/2024/11/when-love-is-more-than-words/](https://www.taiwaneseamerican.org/2024/11/when-love-is-more-than-words/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Jasmine: Hi Jocelyn and Julia! Congratulations Jocelyn on your debut picture book, and thank you both for creating WHEN LOVE IS MORE THAN WORDS. I was immediately intrigued by the title and thrilled to see this Taiwanese American pairing. What a beautiful story that will resonate deeply with young readers. This book is a mirror […]
 
+## Timeline
+- 2024-11-02 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

@@ -13,21 +13,27 @@ last_reviewed: 2026-08-20
 - Era: 2024
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2024-08-14
-- **Byline:** —
+- **Byline:** Guest Contributor
 - **Original:** [https://www.taiwaneseamerican.org/2024/08/wild-greens-beautiful-girl/](https://www.taiwaneseamerican.org/2024/08/wild-greens-beautiful-girl/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+As a parent, I’m perpetually on the lookout for children’s books about Taiwan or meaningful reads written by fellow Taiwanese American authors. Wild Greens, Beautiful Girl, is a soon-to-be released picture book that has been on my radar ever since I first heard of this award-winning story about an aboriginal Amis girl in Taiwan. My […]
 
+## Timeline
+- 2024-08-14 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Featured
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

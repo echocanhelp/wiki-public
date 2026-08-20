@@ -13,21 +13,27 @@ last_reviewed: 2026-08-20
 - Era: 2019
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2019-10-09
-- **Byline:** —
+- **Byline:** Guest Contributor
 - **Original:** [https://www.taiwaneseamerican.org/2019/10/no-double-ten-is-not-taiwans-independence-day/](https://www.taiwaneseamerican.org/2019/10/no-double-ten-is-not-taiwans-independence-day/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+No, Double Ten is not “Taiwan’s independence day”. Just bear with me here; I know it looks very much like Independence Day on July Fourth here in the United States. When I was growing up in Taiwan in the 1980s, it certainly felt like it. It was something I looked forward to. The oppressive summer […]
 
+## Timeline
+- 2019-10-09 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Featured
+- Perspectives
+- Social/Politics
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

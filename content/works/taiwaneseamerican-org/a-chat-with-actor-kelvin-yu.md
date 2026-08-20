@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2008
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2008-11-19
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2008/11/a-chat-with-actor-kelvin-yu/](https://www.taiwaneseamerican.org/2008/11/a-chat-with-actor-kelvin-yu/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+I recently met up with Taiwanese American actor and friend Kelvin Yu in Los Angeles. I’ve known him for years, even before he started his acting career, so it has been a privilege to see him find success in Hollywood over the past decade. Kelvin’s studies range from the UCLA School of Theater, Film, and […]
 
+## Timeline
+- 2008-11-19 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

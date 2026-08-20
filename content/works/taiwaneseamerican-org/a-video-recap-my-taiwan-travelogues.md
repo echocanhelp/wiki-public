@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2011
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2011-03-01
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2011/03/a-video-recap-my-taiwan-travelogues/](https://www.taiwaneseamerican.org/2011/03/a-video-recap-my-taiwan-travelogues/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Join Ho Chie Tsai, the creator of TaiwaneseAmerican.org, as he wanders Taipei, Taiwan with a video camera in hand during a one week journey and exploration of the city and surrounding area. You’ll discover Taiwan through the eyes of a 2nd generation Taiwanese American who is a relative newcomer to this amazing vibrant city filled […]
 
+## Timeline
+- 2011-03-01 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

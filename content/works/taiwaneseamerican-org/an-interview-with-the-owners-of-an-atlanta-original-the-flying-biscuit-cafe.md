@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2010
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2010-07-14
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2010/07/an-interview-with-the-owners-of-an-atlanta-original-the-flying-biscuit-cafe/](https://www.taiwaneseamerican.org/2010/07/an-interview-with-the-owners-of-an-atlanta-original-the-flying-biscuit-cafe/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Check out the video interview above as TaiwaneseAmerican.org’s Ho Chie Tsai stops through Atlanta, GA to meet up with two young entrepreneurs and brothers, Joseph and Matthew Hsiao. They now own and operate the very popular all-day breakfast spot, The Flying Biscuit Cafe. Joseph manages the original historic Candler Park location, while Matthew manages the […]
 
+## Timeline
+- 2010-07-14 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Food &amp; Travel
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

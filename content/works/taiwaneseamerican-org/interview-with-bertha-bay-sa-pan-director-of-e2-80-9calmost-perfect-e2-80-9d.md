@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2011
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2011-04-24
-- **Byline:** —
+- **Byline:** Stinky Tofu
 - **Original:** [https://www.taiwaneseamerican.org/2011/04/interview-with-bertha-bay-sa-pan-director-of-%e2%80%9calmost-perfect%e2%80%9d/](https://www.taiwaneseamerican.org/2011/04/interview-with-bertha-bay-sa-pan-director-of-%e2%80%9calmost-perfect%e2%80%9d/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+By Timothy Tau, Guest Contributor I am here with Bertha Bay-Sa Pan, whose feature film “Almost Perfect” (2011) (which she wrote and directed), starring Kelly Hu, Edison Chen, Ivan Shaw, Christine Chang, Tina Chen and Roger Rees, will be screening at the 2011 Los Angeles Asian Pacific Film Festival (LAAPFF) as the Festival Centerpiece Presentation. […]
 
+## Timeline
+- 2011-04-24 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

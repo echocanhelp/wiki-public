@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2013
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2013-11-17
-- **Byline:** —
+- **Byline:** Kristina
 - **Original:** [https://www.taiwaneseamerican.org/2013/11/community-service-opportunity-with-tap-in-sf/](https://www.taiwaneseamerican.org/2013/11/community-service-opportunity-with-tap-in-sf/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Date: Sunday, November 17, 2013 Time: 1:00pm – 4:00pm Location: SCRAP-SF Address: 801 Toland Street (entrance on Newcomb between Toland and Selby), San Francisco, CA Facebook event page: https://www.facebook.com/events/319632141510649/ Do you like discovering new ways to reuse material that most people throw away? This event is for anyone interested in being creative while helping the […]
 
+## Timeline
+- 2013-11-17 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- West Coast
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

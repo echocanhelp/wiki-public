@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2011
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2011-08-01
-- **Byline:** —
+- **Byline:** Jessica
 - **Original:** [https://www.taiwaneseamerican.org/2011/08/on-being-stupid/](https://www.taiwaneseamerican.org/2011/08/on-being-stupid/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+The advantage of any European-looking foreigner in Taiwan has over me is they look foreign. I blend into the crowd and maybe my Mandarin is better. Therefore tricksters might not as easily pick me out. But sometimes it backfires. Take, for example, trying to buy some lychees. A very nondescript action, buying fruit. Yet I cannot […]
 
+## Timeline
+- 2011-08-01 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

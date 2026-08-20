@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2010
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2010-03-02
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2010/03/connecting-with-janet-hsieh-host-of-discoverys-fun-taiwan/](https://www.taiwaneseamerican.org/2010/03/connecting-with-janet-hsieh-host-of-discoverys-fun-taiwan/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Depending on where you’re tuning in from, you may or may not have heard of Janet Hsieh, an American-born Taiwanese model and the current host of Discovery Travel & Living Channel’s “Fun Taiwan.” Broadcast throughout 25 countries around Asia, this show has gained wide recognition for Janet as she explores many of the hidden treasures […]
 
+## Timeline
+- 2010-03-02 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

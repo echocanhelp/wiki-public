@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2014
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2014-10-07
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2014/10/inside-piccollage/](https://www.taiwaneseamerican.org/2014/10/inside-piccollage/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Create. Connect. Collage. That’s the simple premise behind PicCollage, one of the most downloaded photo collage apps on iOS and Android smartphones today. The app allows free-form collage editing with or without the use of templates, and it has attracted a huge user-base globally–primarily young female tweens. Gone are the days of printing, cutting, and […]
 
+## Timeline
+- 2014-10-07 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Featured
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

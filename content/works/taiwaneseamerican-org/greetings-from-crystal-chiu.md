@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2010
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2010-03-12
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2010/03/greetings-from-crystal-chiu/](https://www.taiwaneseamerican.org/2010/03/greetings-from-crystal-chiu/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+TaiwaneseAmerican.org is proud to present a future star in our Taiwanese American community, Crystal Chiu! We take a moment to ask this talented young actress some questions about her role in Tze Chun’s critically acclaimed film “Children of Invention.” Also want to know what her favorite Taiwanese food is? Then, take a peek! She’s adorable, […]
 
+## Timeline
+- 2010-03-12 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- East Coast
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

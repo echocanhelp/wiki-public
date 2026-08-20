@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2019
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2019-01-30
-- **Byline:** —
+- **Byline:** Leona
 - **Original:** [https://www.taiwaneseamerican.org/2019/01/interview-with-joyce-bergvelt-lord-of-formosa/](https://www.taiwaneseamerican.org/2019/01/interview-with-joyce-bergvelt-lord-of-formosa/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Editor’s Note: When I call for diversity in Taiwanese American literature, or English-language works on Taiwan, I mean books like Lord of Formosa. Taiwan, originally an Austronesian island, is colonized land. The hallmark of great literature about Taiwan, then, is perhaps sensitivity to this fraught crystallization of elements,  the way they arrived together under fire […]
 
+## Timeline
+- 2019-01-30 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

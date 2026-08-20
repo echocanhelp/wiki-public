@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2006
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2006-10-07
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2006/10/an-interview-with-twins-emily-and-susan-hsu-of-exit-clov/](https://www.taiwaneseamerican.org/2006/10/an-interview-with-twins-emily-and-susan-hsu-of-exit-clov/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+I recently crossed paths with two beautiful and musically talented women, Emily and Susan Hsu, of the popular DC indie pop band Exit Clov. After being captivated by their sweet melodic voices and thought-provoking smartly-composed lyrics, I was inspired to find out more about their life paths and what drives them to do what many […]
 
+## Timeline
+- 2006-10-07 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

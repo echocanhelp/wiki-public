@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2014
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2014-05-13
-- **Byline:** —
+- **Byline:** Guest Contributor
 - **Original:** [https://www.taiwaneseamerican.org/2014/05/mental-health-awareness/](https://www.taiwaneseamerican.org/2014/05/mental-health-awareness/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+By Emily Wu Truong The subject of mental health is like the elephant in the room that no one wants to talk about, and that is how it seems in my local community. Many individuals choose not to seek help in fear of becoming marginalized and shunned by friends and family. Many choose to suffer […]
 
+## Timeline
+- 2014-05-13 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

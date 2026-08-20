@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2013
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2013-04-05
-- **Byline:** —
+- **Byline:** Kristina
 - **Original:** [https://www.taiwaneseamerican.org/2013/04/taiwanese-american-community-scholarship-awards/](https://www.taiwaneseamerican.org/2013/04/taiwanese-american-community-scholarship-awards/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Deadline: April 5, 2013 Website: http://www.taagp.org/scholarship.html Flyer: http://www.taagp.org/tmp/scholarship_1.jpg The Taiwanese Association of America, Greater Philadelphia Chapter (TAAGP) is awarding a scholarship which is open to college bound seniors, regardless of race, national origin and financial needs. The Taiwanese American Community Scholarship Awards recognize and honor the seniors, selected from high schools in the Greater Philadelphia […]
 
+## Timeline
+- 2013-04-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- East Coast
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

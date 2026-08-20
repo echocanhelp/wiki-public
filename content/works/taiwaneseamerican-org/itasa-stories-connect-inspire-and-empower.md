@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2013
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2013-09-10
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2013/09/itasa-stories-connect-inspire-and-empower/](https://www.taiwaneseamerican.org/2013/09/itasa-stories-connect-inspire-and-empower/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+TaiwaneseAmerican.org’s HoChie Tsai sits down with Ada Chen, the 2013-2014 national president for the Intercollegiate Taiwanese American Students Association (ITASA) to talk about the national network and their initiatives for the coming year. Their mission is to provide events and resources that explore and celebrate Taiwanese American identity in order to connect, inspire, and empower […]
 
+## Timeline
+- 2013-09-10 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Community
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

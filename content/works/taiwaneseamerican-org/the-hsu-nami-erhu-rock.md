@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2008
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2008-01-22
-- **Byline:** —
+- **Byline:** Anna
 - **Original:** [https://www.taiwaneseamerican.org/2008/01/the-hsu-nami-erhu-rock/](https://www.taiwaneseamerican.org/2008/01/the-hsu-nami-erhu-rock/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+The Hsu-nami. It’s an audacious rock band with a twist. Based in Mahwah, New Jersey, the group comprises standard rock band elements (Brent Bergholm- Lead Guitar, Vinny Belcastro- Guitar, Derril Sellers- Bass, John Manna- Drums, and Adam Toth- Piano/Synth). But in place of a lead singer, you’ll find 24-year-old Jack Hsu playing erhu, a two-stringed […]
 
+## Timeline
+- 2008-01-22 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

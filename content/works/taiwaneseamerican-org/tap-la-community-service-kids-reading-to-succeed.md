@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2012
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2012-02-04
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2012/02/tap-la-community-service-kids-reading-to-succeed/](https://www.taiwaneseamerican.org/2012/02/tap-la-community-service-kids-reading-to-succeed/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Date: Saturday, February 4, 2012 Time: 8:30am – 11:30am Address: 500 Villa St. Pasadena, CA Facebook event page: http://www.facebook.com/events/257863454279715/ Join Taiwanese American Professionals – Los Angeles (TAP-LA) for this community service event. Kids Reading to Succeed (KRS) goals are three-fold: (1) to inspire and impart a love of reading in our youth; (2) to improve […]
 
+## Timeline
+- 2012-02-04 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- West Coast
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

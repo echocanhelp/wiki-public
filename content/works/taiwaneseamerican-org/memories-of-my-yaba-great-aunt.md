@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2018
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2018-05-31
-- **Byline:** —
+- **Byline:** Guest Contributor
 - **Original:** [https://www.taiwaneseamerican.org/2018/05/memories-of-my-yaba-great-aunt/](https://www.taiwaneseamerican.org/2018/05/memories-of-my-yaba-great-aunt/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+by James Y. Shih When I was 3, my ahgong (grandpa) brought me to Taiwan from California to visit our old family home in the historic town of Lukang (鹿港). The home was and still is a narrow, two story, brick and wood building off the main road. There, my great aunt, whom I affectionately […]
 
+## Timeline
+- 2018-05-31 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

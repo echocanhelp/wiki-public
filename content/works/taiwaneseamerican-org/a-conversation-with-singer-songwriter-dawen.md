@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2009
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2009-07-13
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2009/07/a-conversation-with-singer-songwriter-dawen/](https://www.taiwaneseamerican.org/2009/07/a-conversation-with-singer-songwriter-dawen/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Taiwanese American singer-songwriter and independent producer Dawen describes his music as “neo-soul with socially conscious lyricism” that he hopes “will further the dialogue on racism and social injustice in American society.” And sure enough, if you listen closely to his lyrics, you’ll find that it speaks directly from his personal experience as an Asian American […]
 
+## Timeline
+- 2009-07-13 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

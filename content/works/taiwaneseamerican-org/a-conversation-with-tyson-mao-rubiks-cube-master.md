@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2007
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2007-01-21
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2007/01/a-conversation-with-tyson-mao-rubiks-cube-master/](https://www.taiwaneseamerican.org/2007/01/a-conversation-with-tyson-mao-rubiks-cube-master/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Did you watch Season 2 of the TV reality show Beauty and the Geek? It was a “social experiment” where eight gorgeous but academically impaired women are paired with eight brilliant but socially challenged men to test intellect and social skills – for a chance to win a $250,000 grand prize. One of the favorite […]
 
+## Timeline
+- 2007-01-21 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

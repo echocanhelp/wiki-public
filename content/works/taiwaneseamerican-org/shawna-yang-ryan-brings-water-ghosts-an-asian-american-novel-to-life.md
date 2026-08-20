@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2009
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2009-04-18
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2009/04/shawna-yang-ryan-brings-water-ghosts-an-asian-american-novel-to-life/](https://www.taiwaneseamerican.org/2009/04/shawna-yang-ryan-brings-water-ghosts-an-asian-american-novel-to-life/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+TaiwaneseAmerican.org is excited to share an exclusive personal interview with Taiwanese American author Shawna Yang Ryan whose new novel, Water Ghosts, hit mainstream bookstores starting April 16th, 2009. We caught up with her just after the book release and just before she embarks on a multi-stop reading tour at several bookstores around the west coast! She […]
 
+## Timeline
+- 2009-04-18 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

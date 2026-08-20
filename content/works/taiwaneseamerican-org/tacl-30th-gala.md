@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2015
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2015-08-20
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2015/08/tacl-30th-gala/](https://www.taiwaneseamerican.org/2015/08/tacl-30th-gala/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+The Taiwanese American Citizens League (TACL) celebrates its 30th anniversary, and you are invited to join their Gala Celebration. Joining in this celebration will be leaders and officers from sister Taiwanese American Professionals (TAP) chapters in NYC, Atlanta, Austin, Boston, DC, LA, SF, SD and Seattle who will be in town for their National Convention […]
 
+## Timeline
+- 2015-08-20 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Community
+- Featured
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

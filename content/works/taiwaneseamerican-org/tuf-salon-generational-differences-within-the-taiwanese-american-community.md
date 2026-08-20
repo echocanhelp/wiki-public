@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2010
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2010-03-13
-- **Byline:** —
+- **Byline:** Jessica
 - **Original:** [https://www.taiwaneseamerican.org/2010/03/tuf-salon-generational-differences-within-the-taiwanese-american-community/](https://www.taiwaneseamerican.org/2010/03/tuf-salon-generational-differences-within-the-taiwanese-american-community/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Location: Best Western Thousand Oaks Inn, 75 W Thousand Oaks Blvd., Thousand Oaks, CA Date: Saturday, March 13, 2010 Time: 3:00pm – 5:00pm http://www.facebook.com/event.php?eid=10150127621095258 Professor Mitchell Chang’s presentation “Implications of College Student National Trends for Considering Generational Differences within the Taiwanese American Community” will be followed by a question and answer session and a social […]
 
+## Timeline
+- 2010-03-13 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- West Coast
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

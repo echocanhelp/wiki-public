@@ -13,21 +13,27 @@ last_reviewed: 2026-08-20
 - Era: 2019
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2019-03-09
-- **Byline:** —
+- **Byline:** Guest Contributor
 - **Original:** [https://www.taiwaneseamerican.org/2019/03/addressing-anti-blackness-within-the-taiwanese-american-community/](https://www.taiwaneseamerican.org/2019/03/addressing-anti-blackness-within-the-taiwanese-american-community/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+By Tiffany Diane Tso, edited by Leona Chen | original photography by Micheile Henderson Editor’s Note: I’ve been thinking a lot about (valid) accusations that Asian Americans, frankly, suck at standing up for others. And though there is no singular Taiwanese American immigration narrative, many families in our community arrived by way of H-1B visas, […]
 
+## Timeline
+- 2019-03-09 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Featured
+- Perspectives
+- Social/Politics
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

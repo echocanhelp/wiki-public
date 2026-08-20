@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2011
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2011-04-13
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2011/04/jenton-and-stephanie-and-a-pop-mashup/](https://www.taiwaneseamerican.org/2011/04/jenton-and-stephanie-and-a-pop-mashup/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Here’s a fun and fresh pop music mashup brought to you by musicians Jenton Lee and Stephanie Lai! Jenton has been creating original music, fun parodies, and awesome mashups for some time now. Occasionally, cellist Stephanie will join him on some collaborations. She recently returned from Australia where she was one of 100 featured YouTube […]
 
+## Timeline
+- 2011-04-13 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

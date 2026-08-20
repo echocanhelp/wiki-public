@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2011
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2011-12-22
-- **Byline:** —
+- **Byline:** Stinky Tofu
 - **Original:** [https://www.taiwaneseamerican.org/2011/12/guest-post-recommended-taiwan-blogs-2011/](https://www.taiwaneseamerican.org/2011/12/guest-post-recommended-taiwan-blogs-2011/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Meet Fili, an expat blogger who previously spent two years living in Taiwan (Taipei and Tainan). During his time there, he and other Taiwan bloggers created a community to help expats and tourists find high quality information in English. The result? Handy websites that include travel/culture guides and forum advice: Taiwanderful and iTainan. Fili also […]
 
+## Timeline
+- 2011-12-22 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

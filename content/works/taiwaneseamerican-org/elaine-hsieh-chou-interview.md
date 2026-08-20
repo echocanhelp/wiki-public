@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2025
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2025-11-30
-- **Byline:** —
+- **Byline:** Guest Contributor
 - **Original:** [https://www.taiwaneseamerican.org/2025/11/elaine-hsieh-chou-interview/](https://www.taiwaneseamerican.org/2025/11/elaine-hsieh-chou-interview/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Published earlier this year, Elaine Hsieh Chou’s second book, Where Are You Really From, is a stunning short story collection that keeps the reader on the edge of their seat. From a world in which men can purchase mail order brides to a deceptively playful story about a dollhouse, this book demonstrates Chou’s ability to […]
 
+## Timeline
+- 2025-11-30 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

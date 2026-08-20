@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2015
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2015-05-03
-- **Byline:** —
+- **Byline:** Stinky Tofu
 - **Original:** [https://www.taiwaneseamerican.org/2015/05/celebrate-tahw/](https://www.taiwaneseamerican.org/2015/05/celebrate-tahw/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Through the month of May, share this post link through Facebook or Twitter and include the hashtags #APAHM #taiwanlove to help spread the pride! Asian Pacific American Heritage Month is celebrated nationwide during the month of May to honor the cultures, traditions, and achievements of Asian Pacific Islanders in the United States. In June of […]
 
+## Timeline
+- 2015-05-03 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Community
+- Featured
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

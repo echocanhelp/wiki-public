@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2022
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2022-01-07
-- **Byline:** —
+- **Byline:** Guest Contributor
 - **Original:** [https://www.taiwaneseamerican.org/2022/01/britney-chen-a-taste-of-nostalgia/](https://www.taiwaneseamerican.org/2022/01/britney-chen-a-taste-of-nostalgia/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Over the years, I had grown familiar with the musty scent of airplanes, the sound of my footsteps on the boarding bridge, and the taste of microwavable airline meals. I had gotten used to the constant feeling of change, like a bottle bobbing in the Pacific Ocean seafoam, searching for a home. What does […]
 
+## Timeline
+- 2022-01-07 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Community
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

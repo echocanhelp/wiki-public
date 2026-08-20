@@ -30,13 +30,14 @@ Human still says `Echopedia website <domain>`. Detector / planner sets **class**
 
 | Phrase | Meaning |
 |--------|---------|
-| **`Echopedia website <domain>`** | Classify (§0) → that class’s bar → **done = live + linked** |
-| `Echopedia full-domain archive <domain>` | Same as website (synonym under this doc) |
+| **`Echopedia website <domain>`** | Classify (§0) → that class’s bar → **P2 publish** → **done = live + linked + findable** |
+| `Echopedia full-domain archive <domain>` | **Legacy name** for website. Prefer `Echopedia website`. “Archive” alone = vault-only |
 | `Echopedia refresh <domain>` | Same default unless they say archive-only |
 | `archive only` / `Tier2 only` | Stop after §3 (no apply/publish) |
 
-**Done ≠** files only under `knowledge/web-archives/`.  
-**Done =** viewable wiki pages that **absorb** A-tier facts and **link** the domain’s valuable entities.
+**Done ≠** files only under `knowledge/web-archives/` or uncommitted `content/`.  
+**Done =** live wiki pages a reviewer can find (homepage / directory / Stories). That is ingest.  
+**Archive** (opt-out) = vault only — say `archive only`.
 
 ---
 
@@ -89,7 +90,7 @@ A magazine of Taiwanese American interviews, essays, and stories **is the histor
 
 | Band | What | Tier1 |
 |------|------|-------|
-| **A** | Interviews, oral history, community, 228/politics, named-subject features | `content/works/<id>/<slug>.md` **dossier-lite** + facts onto people/orgs when identity solid |
+| **A** | Interviews, oral history, community, 228/politics, named-subject features | **dossier-lite**: byline + fair-cite excerpt (≤500) + ≥1 subject + Timeline. Bib-only A-band = **PARTIAL**. P2 does not thicken. |
 | **B** | Other nonfiction essays/features | work page + light subject list |
 | **C** | Fiction, poetry, CNF, prize selections | **Bibliographic** work page (title/author/date/URL). **No body** on gh-pages |
 | **D** | Slider, gift-guide, chrome, empty | Vault index only (`absorb=skip`) |
@@ -124,7 +125,7 @@ A magazine of Taiwanese American interviews, essays, and stories **is the histor
 - [ ] **Never AUTO** person pages or About rewrite  
 - [ ] Morning brief 🟡 for new **A-band** units (human thicken)
 
-**PARTIAL if:** units.jsonl exists but A/B/C works missing; org page has no About prose; **or work pages exist but homepage has no Stories entry and `/works/` has no titled A-band links.**
+**PARTIAL if:** units.jsonl exists but A/B/C works missing; org page has no About prose; work pages exist but homepage has no Stories; **A-band pages are bib stubs (no excerpt/subjects)**; `/works/` links resolve outside `works/` (404).
 
 ---
 
@@ -211,9 +212,11 @@ NARRATIVE: python3 $REPO/scripts/echopedia-ingest-complete.py --only <id>
 ```text
 Echopedia website <https://example.org>
 Follow echopedia/WEBSITE_INGEST.md §0 class then that class’s bar.
-live-small: full domain archive + fact sheet + hub + primary + dossiers + publish.
-story-corpus: python3 $REPO/scripts/echopedia-story-corpus-ingest.py --source-id <id> --home <url> [--apply-works]
-Do not P9-drip. Report with WEBSITE_INGEST template (include CLASS).
+live-small: full domain graph + fact sheet + hub + primary + dossiers + **P2 publish**.
+story-corpus: python3 $REPO/scripts/echopedia-story-corpus-ingest.py --source-id <id> --home <url> --all --apply-works
+Then python3 $REPO/scripts/echopedia-thicken-work-a.py --source-id <id> --home <url>
+Then works-index regen + homepage Stories path + **echopedia-publish.sh --push** (linkcheck gates 404s).
+Do not P9-drip. Do not stop at disk. Report with WEBSITE_INGEST template (include CLASS).
 ```
 
 Short form (same meaning):

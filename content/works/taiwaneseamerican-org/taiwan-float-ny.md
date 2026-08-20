@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2017
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2017-06-20
-- **Byline:** —
+- **Byline:** Guest Contributor
 - **Original:** [https://www.taiwaneseamerican.org/2017/06/taiwan-float-ny/](https://www.taiwaneseamerican.org/2017/06/taiwan-float-ny/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+The New York Taiwanese Community Crowdfunds to Celebrate the Recent Ruling on Same-sex Marriage by Taiwan’s Constitutional Court To celebrate this historic ruling, Mr. Chi Chia-Wei, the gay activist who filed the lawsuit that Taiwan’s Constitutional Court recently ruled on, has been invited to New York to participate in this year’s Gay Pride Parade, which […]
 
+## Timeline
+- 2017-06-20 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Perspectives
+- Social/Politics
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

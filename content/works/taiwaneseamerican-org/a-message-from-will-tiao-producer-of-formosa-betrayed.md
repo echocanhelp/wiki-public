@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2010
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2010-02-24
-- **Byline:** —
+- **Byline:** Jon
 - **Original:** [https://www.taiwaneseamerican.org/2010/02/a-message-from-will-tiao-producer-of-formosa-betrayed/](https://www.taiwaneseamerican.org/2010/02/a-message-from-will-tiao-producer-of-formosa-betrayed/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Dear Fellow Taiwanese, This coming weekend, February 26-28, a new movie about Taiwan will be coming to theaters. Formosa Betrayed is the first American film to ever deal with US-Taiwan relations and explore the issues of democracy, identity, and justice during the White Terror period in Taiwan. The movie was largely funded by Taiwanese all […]
 
+## Timeline
+- 2010-02-24 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

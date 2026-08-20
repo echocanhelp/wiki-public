@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2014
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2014-01-07
-- **Byline:** —
+- **Byline:** Anna
 - **Original:** [https://www.taiwaneseamerican.org/2014/01/kathy-cheng-and-thankful-registry-giving-with-heart/](https://www.taiwaneseamerican.org/2014/01/kathy-cheng-and-thankful-registry-giving-with-heart/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+TaiwaneseAmerican.org’s Managing Editor, Anna Wu, speaks with Thankful founder Kathy Cheng to find out more about her innovative start-up that is helping to personalize the gift-giving traditions around weddings, birthdays, and other events. Anna has also found success as a professional wedding photographer, so both she and Kathy have much in common when it comes […]
 
+## Timeline
+- 2014-01-07 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Interviews
+- Social/Politics
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

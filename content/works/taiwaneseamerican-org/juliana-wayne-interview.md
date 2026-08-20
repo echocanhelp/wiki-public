@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2018
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2018-06-05
-- **Byline:** —
+- **Byline:** Anna
 - **Original:** [https://www.taiwaneseamerican.org/2018/06/juliana-wayne-interview/](https://www.taiwaneseamerican.org/2018/06/juliana-wayne-interview/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Pianist Juliana Han and violinist Wayne Lee are the husband and wife co-directors of the Piedmont Chamber Music Festival in the Bay Area, California. Our editorial director Anna Wu caught up with them to chat about the festival, the Formosa Quartet, and their journeys as musicians. * * * Anna Wu: Hi Juliana and Wayne! […]
 
+## Timeline
+- 2018-06-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

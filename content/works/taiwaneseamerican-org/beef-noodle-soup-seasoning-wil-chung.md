@@ -13,21 +13,27 @@ last_reviewed: 2026-08-20
 - Era: 2021
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2021-12-24
-- **Byline:** —
+- **Byline:** Guest Contributor
 - **Original:** [https://www.taiwaneseamerican.org/2021/12/beef-noodle-soup-seasoning-wil-chung/](https://www.taiwaneseamerican.org/2021/12/beef-noodle-soup-seasoning-wil-chung/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+In the spring of 2020, a small group of Taiwanese Americans started the Taiwanese Home Cooking Facebook group in order to have a place for the Taiwanese diaspora and others to share and learn about Taiwanese food that was more focused than other groups we had been a part of. It was through this group […]
 
+## Timeline
+- 2021-12-24 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Featured
+- Food &amp; Travel
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

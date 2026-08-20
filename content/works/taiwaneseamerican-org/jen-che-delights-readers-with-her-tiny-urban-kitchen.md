@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2011
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2011-09-07
-- **Byline:** —
+- **Byline:** Bettina
 - **Original:** [https://www.taiwaneseamerican.org/2011/09/jen-che-delights-readers-with-her-tiny-urban-kitchen/](https://www.taiwaneseamerican.org/2011/09/jen-che-delights-readers-with-her-tiny-urban-kitchen/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+It’s not always easy to find a good, authentic recipe for traditional Taiwanese recipes, much less recipes with options for substitutions where the authentic ingredients are hard to find. When guest contributor Bettina Chang’s mom didn’t pick up the phone one day, she turned to an Internet search to get a recipe for sticky rice. […]
 
+## Timeline
+- 2011-09-07 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Food &amp; Travel
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

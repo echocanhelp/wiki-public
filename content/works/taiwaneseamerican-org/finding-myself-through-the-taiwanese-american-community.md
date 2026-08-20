@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2013
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2013-03-14
-- **Byline:** —
+- **Byline:** Pamela
 - **Original:** [https://www.taiwaneseamerican.org/2013/03/finding-myself-through-the-taiwanese-american-community/](https://www.taiwaneseamerican.org/2013/03/finding-myself-through-the-taiwanese-american-community/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+I grew up in San Marino, a small 3-mile radius town that was pretty Asian. No, I mean really Asian: my high school was 75% Asian, and probably 30% Taiwanese. I always knew I was Asian because I looked it and spoke Taiwanese at home, but I didn’t actually know what that meant. So when […]
 
+## Timeline
+- 2013-03-14 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

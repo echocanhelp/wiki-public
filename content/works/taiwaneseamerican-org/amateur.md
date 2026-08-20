@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2010
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2010-01-24
-- **Byline:** —
+- **Byline:** Jessica
 - **Original:** [https://www.taiwaneseamerican.org/2010/01/amateur/](https://www.taiwaneseamerican.org/2010/01/amateur/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+I am standing in a circle, being taught simple Portuguese lyrics. I only need to repeat the words – not necessarily grasp the language. As the words slip around inside my mouth and through my mind, I realize they are, well, slippery. It was quite an epiphany that’s hard to explain. I start to visualize […]
 
+## Timeline
+- 2010-01-24 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

@@ -9,7 +9,7 @@
 ## What it does
 
 Weekly: poll enabled live sites → fingerprint URLs → append Tier2 on new/changed → narrow AUTO (`last_reviewed`, clean event stubs) → write summary + next-ingest tips.  
-**Does not** push (ci-heal only). **Does not** watch dead/static/OCAC stub until owner watch-add. **`story-corpus`** is watchable after WEBSITE_INGEST §2S COMPLETE (`class=story-corpus`, `auto_apply` includes `work_stub`, no `event_stub`). Poll = seeds + recent REST posts. New A/B/C → AUTO work page. Never AUTO people.
+**Does not** push (ci-heal only). **Does not** watch dead/static/OCAC stub until owner watch-add. **`story-corpus`** is watchable after **ingest COMPLETE** (wiki + **P2** + Stories path; `class=story-corpus`, `work_stub`, no `event_stub`). Poll = seeds + recent REST. New A/B/C → AUTO work page. Never AUTO people. `archive only` is not COMPLETE.
 
 ## Labels
 
@@ -39,7 +39,7 @@ $SC --self-check
 
 ### Add site
 
-1. Gate A: `Echopedia website <domain>` until COMPLETE + live 200  
+1. Gate A: `Echopedia website <domain>` until ingest COMPLETE (live + findable). `archive only` does not qualify.  
 2. `site add` → `site check` → `site baseline` → `site enable`  
 3. **Do not** edit jobs.json  
 

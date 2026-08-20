@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2010
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2010-07-20
-- **Byline:** —
+- **Byline:** Justin
 - **Original:** [https://www.taiwaneseamerican.org/2010/07/jeremy-lin-nearing-deal-with-warriors/](https://www.taiwaneseamerican.org/2010/07/jeremy-lin-nearing-deal-with-warriors/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Former Harvard point guard, 6-3 Jeremy Lin is close to signing a deal with the Golden State Warriors. Lin was born and raised in California and led Palo Alto High School to a Division II championship. That means Lin will be playing for his hometown team next year if the deal goes through. The contract […]
 
+## Timeline
+- 2010-07-20 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

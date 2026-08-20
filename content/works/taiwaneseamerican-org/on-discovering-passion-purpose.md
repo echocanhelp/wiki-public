@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2010
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2010-11-11
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2010/11/on-discovering-passion-purpose/](https://www.taiwaneseamerican.org/2010/11/on-discovering-passion-purpose/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Singer-songwriter Dawen, music composer George Shaw, 8asians.com blogger Joz Wang, and music producer Wat Deeudomchan are interviewed by TaiwaneseAmerican.org’s Ho Chie Tsai Many of you who follow our site know me as the creator behind TaiwaneseAmerican.org, and some of you know that I often speak at Asian American collegiate conferences across the country about discovering […]
 
+## Timeline
+- 2010-11-11 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

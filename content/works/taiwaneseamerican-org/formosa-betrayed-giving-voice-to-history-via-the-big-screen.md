@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2009
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2009-02-28
-- **Byline:** —
+- **Byline:** Anna
 - **Original:** [https://www.taiwaneseamerican.org/2009/02/formosa-betrayed-giving-voice-to-history-via-the-big-screen/](https://www.taiwaneseamerican.org/2009/02/formosa-betrayed-giving-voice-to-history-via-the-big-screen/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Contributors: Ho Chie Tsai, Shawna Yang Ryan, and Anna Wu February 28th, 2009. 8:12 pm: On a snowy Illinois evening, two mysterious hooded Asian “thugs” approach Professor Wen. They shoot him at point blank range. He tumbles to the icy ground –setting the on-screen instigating episode that inspires the Hollywood political thriller, Formosa Betrayed. Flashback 2 […]
 
+## Timeline
+- 2009-02-28 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

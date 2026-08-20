@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2010
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2010-02-14
-- **Byline:** —
+- **Byline:** Anna
 - **Original:** [https://www.taiwaneseamerican.org/2010/02/comedian-sheng-wang-and-the-surreality-of-everyday-mundane-experiences/](https://www.taiwaneseamerican.org/2010/02/comedian-sheng-wang-and-the-surreality-of-everyday-mundane-experiences/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Sheng Wang is a Taiwanese Texan comedian currently living in New York. We recently caught up with him at Go!Style, an Asian American performance event in the Bay Area which TaiwaneseAmerican.org helped sponsor. When Sheng gets on stage, he just looks like your average friendly Taiwanese guy with an unassuming stage presence. But as he […]
 
+## Timeline
+- 2010-02-14 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

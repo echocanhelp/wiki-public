@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2016
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2016-04-01
-- **Byline:** —
+- **Byline:** Stinky Tofu
 - **Original:** [https://www.taiwaneseamerican.org/2016/04/taiwan-to-update-garbage-truck-music/](https://www.taiwaneseamerican.org/2016/04/taiwan-to-update-garbage-truck-music/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Taiwanese garbage trucks gettin’ that makeover like an Asian drama heroine It’s no secret Taiwanese garbage trucks are renowned for playing tinkly charming music that lures local residents far and wide … to go outside and throw out their trash. That sonorous melody is both super useful (Taiwanese citizens are required to “hand deliver” their trash) and a prime […]
 
+## Timeline
+- 2016-04-01 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Community
+- Featured
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

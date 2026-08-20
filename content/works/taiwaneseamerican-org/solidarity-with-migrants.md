@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2025
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2025-06-10
-- **Byline:** —
+- **Byline:** Leona
 - **Original:** [https://www.taiwaneseamerican.org/2025/06/solidarity-with-migrants/](https://www.taiwaneseamerican.org/2025/06/solidarity-with-migrants/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+As a Taiwanese American, I stand in solidarity with migrants and asylum seekers targeted by U.S. Immigration and Customs Enforcement (ICE) and other violent apparatuses of detention and deportation. Our community’s presence in the United States is not incidental—it is the result of layered and often painful migrations shaped by militarism, colonial displacement, authoritarian repression, […]
 
+## Timeline
+- 2025-06-10 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Community
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

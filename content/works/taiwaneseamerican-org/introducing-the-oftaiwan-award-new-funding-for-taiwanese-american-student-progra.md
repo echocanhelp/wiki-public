@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2020
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2020-01-12
-- **Byline:** —
+- **Byline:** Eric Tsai
 - **Original:** [https://www.taiwaneseamerican.org/2020/01/introducing-the-oftaiwan-award-new-funding-for-taiwanese-american-student-programs/](https://www.taiwaneseamerican.org/2020/01/introducing-the-oftaiwan-award-new-funding-for-taiwanese-american-student-programs/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+FEATURE IMAGE: ITASA MIDWEST NATIONAL CONFERENCE Seven years ago, my friend Jenny Wang and I graduated from Rutgers University and began our professional lives in New York City. However, we both missed our time back at TASA (Taiwanese American Students Association). Of course one part was the being part of “TASA fam,” but we also […]
 
+## Timeline
+- 2020-01-12 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Community
+- Projects
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2018
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2018-08-08
-- **Byline:** —
+- **Byline:** Stephanie
 - **Original:** [https://www.taiwaneseamerican.org/2018/08/passing-taiwanese-language/](https://www.taiwaneseamerican.org/2018/08/passing-taiwanese-language/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+I was born in the US and, like many second generation Taiwanese-Americans, I grew up speaking first Taiwanese (台語), and then English at home. I recall visiting Taiwan as a child and people finding it quite odd that my brother and I understood only Taiwanese—not Mandarin Chinese. Although my level of Taiwanese never reached beyond […]
 
+## Timeline
+- 2018-08-08 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

@@ -13,21 +13,27 @@ last_reviewed: 2026-08-20
 - Era: 2016
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2016-06-22
-- **Byline:** —
+- **Byline:** Guest Contributor
 - **Original:** [https://www.taiwaneseamerican.org/2016/06/2016-taiwan-gay-pride-parade-in-ny/](https://www.taiwaneseamerican.org/2016/06/2016-taiwan-gay-pride-parade-in-ny/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+HELP Taiwan be represented at the 2016 New York Gay Pride Parade! Did you know that Taiwan is the home of Asia’s largest Gay Pride parade? But the last time there was a float representing Taiwan in the New York Pride Parade was in 2010! There hasn’t been a Taiwan float these past couple of years because […]
 
+## Timeline
+- 2016-06-22 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Community
+- Featured
+- Social/Politics
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

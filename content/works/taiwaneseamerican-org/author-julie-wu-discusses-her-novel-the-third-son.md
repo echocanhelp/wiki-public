@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2014
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2014-06-30
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2014/06/author-julie-wu-discusses-her-novel-the-third-son/](https://www.taiwaneseamerican.org/2014/06/author-julie-wu-discusses-her-novel-the-third-son/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+TaiwaneseAmerican.org’s Ho Chie Tsai briefly interviews author Julie Wu about her latest novel, The Third Son, which is set during martial-law era Taiwan. In 2013, it was an Oprah.com featured favorite, and this year, the paperback version is now available. Julie shares her inspiration behind The Third Son and how culture, heritage, and history influences […]
 
+## Timeline
+- 2014-06-30 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

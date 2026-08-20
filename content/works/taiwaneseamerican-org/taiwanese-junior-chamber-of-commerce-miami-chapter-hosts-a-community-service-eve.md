@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2011
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2011-06-08
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2011/06/taiwanese-junior-chamber-of-commerce-miami-chapter-hosts-a-community-service-event/](https://www.taiwaneseamerican.org/2011/06/taiwanese-junior-chamber-of-commerce-miami-chapter-hosts-a-community-service-event/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Date: Saturday, June 11, 2011 Time: 8:00am – 2:00pm Location: Good Shepherd Villas Address: 3036 NW 77th Street, Miami, FL Facebook event page: http://www.facebook.com/event.php?eid=172375506156126 The Taiwanese Junior Chamber of Commerce – Miami (TJCC Miami Chapter) invites you to join them for a community service event. Camillus House – a local homeless shelter – owns several […]
 
+## Timeline
+- 2011-06-08 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- South
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

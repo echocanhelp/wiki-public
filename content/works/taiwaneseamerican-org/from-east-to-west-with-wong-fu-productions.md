@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2008
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2008-11-14
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2008/11/from-east-to-west-with-wong-fu-productions/](https://www.taiwaneseamerican.org/2008/11/from-east-to-west-with-wong-fu-productions/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+During the past year, I was fortunate enough to hang out with the guys of independent filmmaking company Wong Fu Productions on three separate occasions, in three different cities. As they jet-set from coast to coast, campus to campus, their fans instantly recognize them and never quite allow them to be the international secret agents they […]
 
+## Timeline
+- 2008-11-14 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

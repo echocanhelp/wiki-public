@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2018
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2018-08-20
-- **Byline:** —
+- **Byline:** Leona
 - **Original:** [https://www.taiwaneseamerican.org/2018/08/bao-crazy-rich-asians/](https://www.taiwaneseamerican.org/2018/08/bao-crazy-rich-asians/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Traditional mama’s girls who need a support group, I am here for you. Contains tiny spoilers. Anyone who’s even vaguely heard of me knows that I’m a mama’s girl. My life’s work navigates a strange dichotomy between “hot pot of rice that don’t need no side dish” and “most filial child #1.” Like many of […]
 
+## Timeline
+- 2018-08-20 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

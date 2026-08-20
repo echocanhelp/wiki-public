@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2022
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2022-05-08
-- **Byline:** —
+- **Byline:** Guest Contributor
 - **Original:** [https://www.taiwaneseamerican.org/2022/05/hearts-in-taiwan-taiwanese-identity/](https://www.taiwaneseamerican.org/2022/05/hearts-in-taiwan-taiwanese-identity/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+By Angela Yu, co-host of “Hearts in Taiwan” podcast I am Taiwanese American, but it’s taken me a long time and a lot of careful thought to say that. I am also Chinese American, an identity I’ve lived with for much longer. This week marks the one-year anniversary of launching a podcast that my cousin […]
 
+## Timeline
+- 2022-05-08 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Community
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

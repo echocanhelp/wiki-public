@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2010
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2010-08-06
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2010/08/an-interview-with-eric-chang-aka-ahbying-on-being-taiwanese-american-and-making-an-impact/](https://www.taiwaneseamerican.org/2010/08/an-interview-with-eric-chang-aka-ahbying-on-being-taiwanese-american-and-making-an-impact/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+TaiwaneseAmerican.org’s Ho Chie Tsai takes a moment to chat with Eric Chang, aka 阿明, while both are attending the Taiwanese American Foundation 2010 Summer Conference for students in the Midwest. Eric was an invited speaker for the Junior High and High School programs and kicks off a west coast speaking tour here. Eric is a […]
 
+## Timeline
+- 2010-08-06 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

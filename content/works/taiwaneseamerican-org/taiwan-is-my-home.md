@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2013
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2013-11-26
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2013/11/taiwan-is-my-home/](https://www.taiwaneseamerican.org/2013/11/taiwan-is-my-home/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Daniel D. Zarazua has spent his life navigating the ways globalization and international migration have taken root in the daily experiences of life in Taiwan. As a mixed-race 1.5 generation Taiwanese American who has returned to Taiwan several times, he has explored the hip-hop scene, capoeira community, Latino restaurants, and made a number of friendships […]
 
+## Timeline
+- 2013-11-26 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

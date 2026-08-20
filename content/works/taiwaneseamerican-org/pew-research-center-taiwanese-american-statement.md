@@ -13,21 +13,27 @@ last_reviewed: 2026-08-20
 - Era: 2021
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2021-05-01
-- **Byline:** —
+- **Byline:** Leona
 - **Original:** [https://www.taiwaneseamerican.org/2021/05/pew-research-center-taiwanese-american-statement/](https://www.taiwaneseamerican.org/2021/05/pew-research-center-taiwanese-american-statement/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Taiwanese American Community Response to Pew Research Reports on Asian American Communities IMAGE SOURCE: PEW RESEARCH CENTER Recently published reports by the Pew Research Center analyzing Asian American communities have included footnotes that data for “‘Chinese’ includes those identifying as ‘Taiwanese.’” As of today (May 1 – the start of Asian Pacific American Heritage Month), the […]
 
+## Timeline
+- 2021-05-01 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Community
+- Featured
+- Social/Politics
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

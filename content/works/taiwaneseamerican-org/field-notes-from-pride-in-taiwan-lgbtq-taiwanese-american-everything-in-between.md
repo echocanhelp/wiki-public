@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2020
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2020-08-05
-- **Byline:** —
+- **Byline:** Guest Contributor
 - **Original:** [https://www.taiwaneseamerican.org/2020/08/field-notes-from-pride-in-taiwan-lgbtq-taiwanese-american-everything-in-between/](https://www.taiwaneseamerican.org/2020/08/field-notes-from-pride-in-taiwan-lgbtq-taiwanese-american-everything-in-between/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Taiwan was one of the few places worldwide able to celebrate LGBTQ* visibility and acceptance during this year’s Pride Month. Hundreds of participants wearing rainbow masks marched in Liberty Square on behalf of those who could not due to the pandemic. In the face of the recent killings of Black transgender individuals such as Tony […]
 
+## Timeline
+- 2020-08-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Featured
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2023
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2023-12-20
-- **Byline:** —
+- **Byline:** Guest Contributor
 - **Original:** [https://www.taiwaneseamerican.org/2023/12/taiwanese-democracy-changed-the-way-i-see-my-life/](https://www.taiwaneseamerican.org/2023/12/taiwanese-democracy-changed-the-way-i-see-my-life/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+I remember being in Taiwan with my Ama, standing in a convenience store on the verge of tears because she refused to leave with me if I bought a headband I wanted. A deeply Christian woman, I knew she wouldn’t understand but it was important for me to try to explain why I wanted it. […]
 
+## Timeline
+- 2023-12-20 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

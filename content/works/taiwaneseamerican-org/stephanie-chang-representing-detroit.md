@@ -13,21 +13,27 @@ last_reviewed: 2026-08-20
 - Era: 2013
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2013-10-28
-- **Byline:** —
+- **Byline:** Guest Contributor
 - **Original:** [https://www.taiwaneseamerican.org/2013/10/stephanie-chang-representing-detroit/](https://www.taiwaneseamerican.org/2013/10/stephanie-chang-representing-detroit/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+I met with my friend, Stephanie Chang, at our alma mater in Ann Arbor, Michigan for an interview over ramen and pork buns. We talked about her decision to run for Michigan State Representative next year, what it is like being Taiwanese American in the city of Detroit, and her journey as an Asian American […]
 
+## Timeline
+- 2013-10-28 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Featured
+- Social/Politics
+- Spotlight
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

@@ -13,21 +13,27 @@ last_reviewed: 2026-08-20
 - Era: 2026
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2026-01-23
-- **Byline:** —
+- **Byline:** Leona
 - **Original:** [https://www.taiwaneseamerican.org/2026/01/kaila-yus-fetishized-community-discussion-guide/](https://www.taiwaneseamerican.org/2026/01/kaila-yus-fetishized-community-discussion-guide/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+We had such a wonderful, nourishing discussion on January 18 to kick off our 2026 Taiwanese American Memoir Book Club! Below are questions inspired by our conversation to help spark further discussion/reflection. We encourage you to form your own reading groups to explore these texts in community. To view our full schedule and RSVP to […]
 
+## Timeline
+- 2026-01-23 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Book Club Discussion Guides
+- Community
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

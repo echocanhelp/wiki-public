@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2011
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2011-06-01
-- **Byline:** —
+- **Byline:** Esther
 - **Original:** [https://www.taiwaneseamerican.org/2011/06/ambassadors-of-taiwan-tea/](https://www.taiwaneseamerican.org/2011/06/ambassadors-of-taiwan-tea/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+During the Intercollegiate Taiwanese American Students Association 2011 Midwest Conference at Northwestern University, TaiwaneseAmerican.org’s Esther Hou speaks with Thomas Shu and Josephine Pan, the ambassadors of Taiwan tea. Shu and Pan share an appreciation of Taiwan through the culture of tea. Together, they bring their knowledge to people of all ages through workshops and even […]
 
+## Timeline
+- 2011-06-01 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

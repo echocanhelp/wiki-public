@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2009
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2009-10-06
-- **Byline:** —
+- **Byline:** Grace
 - **Original:** [https://www.taiwaneseamerican.org/2009/10/apa-artists-on-overcoming-racism-stereotypes/](https://www.taiwaneseamerican.org/2009/10/apa-artists-on-overcoming-racism-stereotypes/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Taiwanese American and Asian American artists discuss their personal experiences with stereotypes and racism and how it influences their creative work. The interviews feature 2nd generation Taiwanese Americans such as actor Adam Wang of Formosa Betrayed, R&B singer-songwriter Dawen, music video producer / filmmaker Karen Lin, and creative director Jerry Ma of the Secret Identities […]
 
+## Timeline
+- 2009-10-06 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

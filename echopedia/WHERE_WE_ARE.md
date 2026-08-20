@@ -24,7 +24,7 @@
 | **Human map** | **Morning brief** (NEED YOU) + digest + SYSTEM_STATUS + this file |
 | **Telegram labels** | ✅ AUTO · 🟡 QUEUE · 🔴 NEED YOU · ℹ️ INFO — [cron-notify-labels.md](../knowledge/operational/cron-notify-labels.md) |
 | **Live-site continuity** | Sunday **source-continuity** (TC · GSTPC · ITPC · PCT · laijohn); `story-corpus` watchable after COMPLETE — [source-continuity.md](../knowledge/operational/source-continuity.md) |
-| **Story / book / social receive** | WEBSITE_INGEST **§0**. Magazines: vault + **work pages** (A/B/C). Books = publication. Social = work or cite. Hub-only = PARTIAL — [WEBSITE_INGEST.md](WEBSITE_INGEST.md) |
+| **Story / book / social receive** | **Ingest** = wiki + **P2**. Magazines: vault + work pages A/B/C + **Stories**. `archive only` = vault. Hub-only = PARTIAL — [WEBSITE_INGEST.md](WEBSITE_INGEST.md) |
 | **First-answer card / next-ingest** | EVO-5: card UX + metrics; Sunday recommend ≤2 — [echopedia-first-path.md](../knowledge/operational/echopedia-first-path.md) |
 | **Identity close-loop** | EVO-3: soft pending → QUEUE; CLI `identity-decide.py` — [identity-close-loop.md](../knowledge/operational/identity-close-loop.md) |
 | **Clean URLs** | Tier1 trailing-slash → `slug/index.html` redirect (publish step) |

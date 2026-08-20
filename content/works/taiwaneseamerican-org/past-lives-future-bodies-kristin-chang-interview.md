@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2018
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2018-11-10
-- **Byline:** —
+- **Byline:** Leona
 - **Original:** [https://www.taiwaneseamerican.org/2018/11/past-lives-future-bodies-kristin-chang-interview/](https://www.taiwaneseamerican.org/2018/11/past-lives-future-bodies-kristin-chang-interview/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Reading Kristin Chang’s work revives all the little things we lose: our names for nation. Yeye and his ghosts. Papaya in Taiyu meaning wood/melon. She doesn’t tackle, but instead deftly burrows into bodies of queerness, identity, immigration, and colonialism, a laundry list of tropes Chang has somehow resurrected and dissected in new, astonishing ways. I […]
 
+## Timeline
+- 2018-11-10 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

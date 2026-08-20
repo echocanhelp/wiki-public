@@ -192,6 +192,16 @@ Look at the **janitor queue** (depth is in SYSTEM_STATUS.md). Typical first task
 
 ## Command language: what "Echopedia …" means
 
+**Leonard contract (2nd brain):** Echopedia **is** the published review surface. If you name a source without an opt-out, it becomes wiki graph **and** live Pages. Disk-only is **not** ingest.
+
+| You mean | Say | System does |
+|----------|-----|-------------|
+| Put it in the 2nd brain (reviewable) | **`Echopedia website <domain>`** or **ingest** | Vault **and** wiki pages **and** **P2 publish**. Reader can find it (story-corpus: homepage **Stories** + `/works/` titles). |
+| Keep a copy, do **not** put on the wiki | **`archive`** / **`archive only`** / **`vault only`** / **`Tier2 only`** | `knowledge/web-archives/` (gitignored) + optional `units.jsonl`. **No** `content/` apply, **no** publish. |
+| Wiki files, don’t push yet | **`no publish`** / **`no push`** | `content/` only (rare; you must say this) |
+
+Do **not** say “archive” when you want it on Echopedia. Legacy phrase `Echopedia full-domain archive` is treated as **website** (ingest+publish) — prefer **`Echopedia website`**.
+
 **Default (Leonard / Hsuperman):** saying **Echopedia** + a target means **live wiki**, not research-only.
 
 **Default workflow when user says "Echopedia <person> <fact>":**
@@ -204,12 +214,12 @@ Look at the **janitor queue** (depth is in SYSTEM_STATUS.md). Typical first task
 
 | You say | System must do |
 |---------|----------------|
-| **`Echopedia website <domain>`** | Classify then **that class’s bar** — [WEBSITE_INGEST.md](WEBSITE_INGEST.md) §0. Church/org = graph. **Story magazine** = full vault + **work page per A/B/C unit** (hub-only = PARTIAL) |
+| **`Echopedia website <domain>`** | Classify then **that class’s bar + P2**. Church/org = graph. **Story magazine** = vault + **work page per A/B/C** + homepage **Stories**. Hub-only or disk-only = PARTIAL — [WEBSITE_INGEST.md](WEBSITE_INGEST.md) |
 | `Echopedia publication <name>` | Multi-entity publication ingest (yearbook, 菁英錄-style) — see **[PUBLICATION_INGEST.md](PUBLICATION_INGEST.md)** |
 | **`Echopedia cite <url> on <slug>`** | One social-short / story unit onto an **existing** page (P8). No new person from IG |
 | `Echopedia feature <name>` | Pin/unpin a page to homepage Featured section — see [Featured section docs](#featured-section) |
 | `Echopedia refresh <url/site>` | Full website bar for new/unwatched sites; **watched live sites** use Sunday continuity (delta) automatically |
-| `Echopedia full-domain archive <site>` | Synonym of **website** (not archive-only) |
+| `Echopedia full-domain archive <site>` | **Legacy.** Same as **website** (ingest+publish). Do **not** use “archive” for this — “archive” now means vault-only |
 | `Echopedia <site>` / `Echopedia <name>` | Prefer full **website** pipeline if a domain; else entity refresh + publish push |
 | **`Echopedia watch add <domain>`** | After COMPLETE: registry + baseline + enable. Magazines: `--class story-corpus` (work_stub, no event_stub) — [source-continuity.md](../knowledge/operational/source-continuity.md) |
 | `Echopedia watch remove/pause/status` | Soft-remove / disable / list watched live sites (no cron redesign) |
@@ -217,7 +227,7 @@ Look at the **janitor queue** (depth is in SYSTEM_STATUS.md). Typical first task
 
 **“Website” completeness (not optional):** follow **class** in WEBSITE_INGEST §0.  
 `live-small`: Tier2 MANIFEST for whole domain → fact sheet → hub → About prose → dossiers → publish.  
-`story-corpus`: **full vault** + `units.jsonl` + org dossier + **work page per A/B/C unit** + people dossiers when identity solid. Index-only = PARTIAL.  
+`story-corpus`: **full vault** + `units.jsonl` + org dossier + **work page per A/B/C** + **A-band dossier-lite** (`thicken-work-a`) + homepage **Stories** + **P2**. Bib-only A-band or unpublished = PARTIAL.  
 Stopping after archives or a thin hub = **PARTIAL**. Publishing D-band chrome or copyrighted **bodies** = wrong.
 
 **Override only if you explicitly say otherwise:**
@@ -233,9 +243,9 @@ Stopping after archives or a thin hub = **PARTIAL**. Publishing D-band chrome or
 | `enough` | Stop mining |
 | `create all member org stubs` | Expand group-member list into many **thin** org pages |
 
-**Done = viewable + linked:** live GitHub Pages URLs, not merely disk files.
+**Done = live + linked + findable:** GitHub Pages URLs a human can reach from the homepage (or directory). Disk files without P2 = **PARTIAL**, not ingest.
 
-Agents: **do not stop after archive.** Follow `WEBSITE_INGEST.md` until COMPLETE or explicit override.
+Agents: **do not stop after archive or after `content/` write.** Follow `WEBSITE_INGEST.md` through **P2** unless they said `archive only` or `no publish`.
 
 ---
 
@@ -748,7 +758,11 @@ Morning digest includes the site-design brief head.
 
 | Term | Definition |
 |------|------------|
-| **Tier2** | The archived, machine-indexed copy of source material (web archives, PDF chunks, raw source files) stored under `knowledge/`. Tier2 is the input layer: structured but not yet absorbed into the wiki graph. A full-domain website ingest always produces a Tier2 MANIFEST before generating the entities/facts sheet and content pages. |
+| **ingest** | Absorb into the 2nd brain: wiki `content/` **and** P2 publish. Default for `Echopedia website` / `Echopedia <fact>`. |
+| **archive** | Vault only (`knowledge/web-archives/`, gitignored). Not wiki, not live. Opt-out words: `archive only`, `vault only`, `Tier2 only`. |
+| **publish / P2** | Quartz build + gh-pages. Ingest is not done until this runs (unless `no publish`). |
+| **2nd brain** | Echopedia live wiki (people / orgs / **stories**). Always the review copy. |
+| **Tier2** | The archived, machine-indexed copy of source material (web archives, PDF chunks, raw source files) stored under `knowledge/`. Input layer. **Not** ingest by itself. |
 | **drift** | The condition where a source Markdown file in `content/` is newer than its deployed HTML tree (stale HTML). Measured by `echopedia-deploy-drift.sh` via mtime comparison. Drift triggers the L2 publish step in `ci-heal`. |
 | **smoke** | A post-deploy liveness check that curls the `smoke_urls` from `standards.json` and verifies HTTP 200 + minimum byte count. Run by `echopedia-smoke-test.sh`. A smoke failure blocks L3 auto-push even when ops and drift are green. |
 | **heal** | The L1/L2 remediation step in `ci-heal` that resolves drift (publish), runs site-design fixes (featured inject, parity), and commits results. Heal is programmable (`no_agent`) — never a freeform LLM rewrite. |

@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2024
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2024-10-15
-- **Byline:** —
+- **Byline:** Tiffany Ran
 - **Original:** [https://www.taiwaneseamerican.org/2024/10/chef-james-chang/](https://www.taiwaneseamerican.org/2024/10/chef-james-chang/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Chef James Chang was perusing the aisle at the Pan Asian Supermarket in Overland Park, Kansas when I spoke with him. Along the way, he picked up soy paste, oyster sauce, black vinegar, rice wine, ChingKiang vinegar. These were items for his upcoming pop-up and a collaboration dinner he was planning for the following week. […]
 
+## Timeline
+- 2024-10-15 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Food &amp; Travel
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

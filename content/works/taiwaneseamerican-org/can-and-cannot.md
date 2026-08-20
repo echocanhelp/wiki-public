@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2010
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2010-07-03
-- **Byline:** —
+- **Byline:** Jessica
 - **Original:** [https://www.taiwaneseamerican.org/2010/07/can-and-cannot/](https://www.taiwaneseamerican.org/2010/07/can-and-cannot/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+I can cook. I can marinate salmon filets, roast a turkey, make focaccia bread, but I do not know how to whip up a dish of bamboo shoots or beef noodle soup. To my mother, I do not know how to cook. Whenever I made dinner for the family, there would always be some criticism. […]
 
+## Timeline
+- 2010-07-03 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

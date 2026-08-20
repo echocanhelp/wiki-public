@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2014
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2014-04-02
-- **Byline:** —
+- **Byline:** A Chu
 - **Original:** [https://www.taiwaneseamerican.org/2014/04/a-taiwanese-american-look-at-the-sunflower-movement/](https://www.taiwaneseamerican.org/2014/04/a-taiwanese-american-look-at-the-sunflower-movement/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Let me paint a picture. The golden age of the American economy, where the US was the uncontested global hegemon after the Second World War, tripped over itself in the 1970s. Inflation, unemployment, and income inequality all rose significantly in the coming decades, contributing to what sociologists call the Great U-Turn, in reference to the receding of hard-earned social progress.
 
+## Timeline
+- 2014-04-02 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

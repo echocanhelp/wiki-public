@@ -67,6 +67,7 @@ Times are **local wall clock** on pinto; SSOT: `jobs.json` / SYSTEM_STATUS inven
 | A5 | Featured section non-empty when selection dry-run returns ≥1 page | Yes → featured-regen |
 | A6 | Index trees exist: `people/`, `organizations/`, `sources/`, `works/` (HTML counts >0 if MD >0) | Yes → publish |
 | A7 | CSS/JS linked from homepage resolve under `public/` (relative) | Flag only |
+| A8 | Quartz Explorer `useSavedState: false` (localStorage `fileTree` otherwise hides new `works/`) | Fix `quartz.layout.ts` — **no extra cron** |
 
 ### B. Prominence / freshness (HIGH)
 

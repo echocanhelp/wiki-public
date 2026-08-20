@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2012
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2012-03-28
-- **Byline:** —
+- **Byline:** Kristina
 - **Original:** [https://www.taiwaneseamerican.org/2012/03/bubble-tea-with-the-boba-guys/](https://www.taiwaneseamerican.org/2012/03/bubble-tea-with-the-boba-guys/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+TaiwaneseAmerican.org’s Ho Chie Tsai and his bubble tea tasting team visit with The Boba Guys, Andrew Chau and Bin Chen. In late 2011, they launched their “pop-up” bubble tea shop in the heart of San Francisco’s Mission District to rave reviews. Guest correspondent Kristina Lin from Taipei, Taiwan joins the team and shares her thoughts […]
 
+## Timeline
+- 2012-03-28 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Food &amp; Travel
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

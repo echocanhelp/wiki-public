@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2008
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2008-06-04
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2008/06/an-interview-with-abe-young-author-of-humanity-at-stake/](https://www.taiwaneseamerican.org/2008/06/an-interview-with-abe-young-author-of-humanity-at-stake/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+A few months ago, I accidentally came across a brief work-in-progress by Abe Young, a 2nd generation Taiwanese American who was inspired to write about the generally touchy subject of Taiwan-China-US relations. What captured my attention most was his wonderful ability to explore the depth and breadth of the issues, yet frame it through a […]
 
+## Timeline
+- 2008-06-04 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2011
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2011-11-22
-- **Byline:** —
+- **Byline:** Stinky Tofu
 - **Original:** [https://www.taiwaneseamerican.org/2011/11/mixed-roots-thanksgiving/](https://www.taiwaneseamerican.org/2011/11/mixed-roots-thanksgiving/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+What does the next generation of Taiwanese Americans look like? All I have to do is take a look at my kids for some clues. Like my sons, a growing number of third-generation Taiwanese Americans are mixed-race. I started my blog, HapaMama, in 2008 after many conversations with friends – many of them Gen X […]
 
+## Timeline
+- 2011-11-22 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

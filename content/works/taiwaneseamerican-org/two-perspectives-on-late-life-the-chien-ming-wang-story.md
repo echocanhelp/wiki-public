@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2020
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2020-05-07
-- **Byline:** —
+- **Byline:** Vivienne Chang
 - **Original:** [https://www.taiwaneseamerican.org/2020/05/two-perspectives-on-late-life-the-chien-ming-wang-story/](https://www.taiwaneseamerican.org/2020/05/two-perspectives-on-late-life-the-chien-ming-wang-story/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+View this post on Instagram A post shared by LateLifeMovie (@latelifemovie) Editor’s Note: I’m thrilled to present two perspectives on LATE LIFE: The Chien-Ming Wang Story – both from bay area-raised college students who chose to pursue college in the Midwest. Derek is a student at the University of Michigan, and Vivienne is a student at […]
 
+## Timeline
+- 2020-05-07 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

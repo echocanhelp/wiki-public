@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2023
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2023-02-14
-- **Byline:** —
+- **Byline:** Leona
 - **Original:** [https://www.taiwaneseamerican.org/2023/02/a-tale-of-two-islands-fire-ex-ignite-community/](https://www.taiwaneseamerican.org/2023/02/a-tale-of-two-islands-fire-ex-ignite-community/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Taiwanese Americans had back-to-back reasons to gather this weekend in the Bay Area. A Tale of Two Islands: Hong Kong x Taiwan Fair In San Leandro, Formosan United Methodist Church, one of the most longstanding Taiwanese churches in the United States, played host to the Hong Kong x Taiwan Fair 台港交流日, named 雙島: A Tale […]
 
+## Timeline
+- 2023-02-14 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Community
+- Social/Politics
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

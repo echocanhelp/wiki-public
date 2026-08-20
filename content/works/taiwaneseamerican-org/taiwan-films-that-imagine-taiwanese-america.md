@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2023
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2023-05-26
-- **Byline:** —
+- **Byline:** Guest Contributor
 - **Original:** [https://www.taiwaneseamerican.org/2023/05/taiwan-films-that-imagine-taiwanese-america/](https://www.taiwaneseamerican.org/2023/05/taiwan-films-that-imagine-taiwanese-america/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Filmmakers in Taiwan have always had their sights on the world and not just the nation. For one, the concept of nation in Taiwan is tricky, especially through decades of colonization, American influence, and rapid globalization. When we think of the globalization of Taiwanese cinema, we typically think of the international film festival success of […]
 
+## Timeline
+- 2023-05-26 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Community
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

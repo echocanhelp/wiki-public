@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2012
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2012-05-24
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2012/05/streetside-chat-with-author-ed-lin/](https://www.taiwaneseamerican.org/2012/05/streetside-chat-with-author-ed-lin/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Meet acclaimed published author Ed Lin, who is of Taiwanese and Chinese descent. He has just released One Red Bastard, the third book in his mystery series featuring protagonist Robert Chow. His earlier books, Waylaid and This Is a Bust, were published by Kaya Press in 2002 and 2007, respectively, and received wide praise. Both […]
 
+## Timeline
+- 2012-05-24 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

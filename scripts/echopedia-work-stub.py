@@ -68,16 +68,19 @@ def page_body(unit: dict, band: str, slug: str) -> str:
     lic = unit.get("license") or "all-rights"
     genre = unit.get("genre") or "story"
     excerpt = (unit.get("excerpt") or "").strip()
-    if lic == "all-rights" or band == "C":
+    # A-band: fair-cite teaser even under all-rights. Never full body. C stays bib-only.
+    if band == "C" or (lic == "all-rights" and band != "A"):
         excerpt_block = "_Bibliographic record only. Full text stays in the vault (copyright)._ \n"
     elif excerpt:
         excerpt_block = excerpt[:500] + ("…" if len(excerpt) > 500 else "")
+    elif band == "A":
+        excerpt_block = "_A-band excerpt not captured — PARTIAL until fair-cite teaser exists._"
     else:
         excerpt_block = "_Excerpt not captured yet._"
     subjects = unit.get("subjects") or []
     subj_lines = "\n".join(f"- {s}" for s in subjects) if subjects else "- (named subjects pending absorb)"
     today = date.today().isoformat()
-    org = unit.get("primary_org") or ""
+    org = unit.get("primary_org") or f"organizations/{src}"
     hub = unit.get("source_hub") or f"sources/{src}"
     related = ["- [[organizations/taiwanese-american-historical-society|TAHS]]"]
     if org:
@@ -99,6 +102,7 @@ last_reviewed: {today}
 - Era: {year}
 - Geography: Taiwanese America
 - Core roles: historical work ({genre}; band {band})
+- Source org: [[{org}]]
 
 ## Record
 - **Date:** {dt or "undated"}
@@ -107,8 +111,11 @@ last_reviewed: {today}
 - **Value band:** {band} (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** {lic}
 
-## Excerpt
+## Summary
 {excerpt_block}
+
+## Timeline
+{f"- {dt} — published" if dt else "- (undated)"}
 
 ## Subjects
 {subj_lines}

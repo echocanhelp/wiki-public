@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2009
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2009-05-15
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2009/05/chris-lins-mandy-and-pandy-say-ni-hao-ma/](https://www.taiwaneseamerican.org/2009/05/chris-lins-mandy-and-pandy-say-ni-hao-ma/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+I recently had the opportunity to catch up with Chris Lin, a 2nd generation Taiwanese American who grew up near Ann Arbor, Michigan, who in recent years created the cartoon characters Mandy and Pandy as a means to teach Mandarin to children. Since publishing the books, the entrepreneurial endeavor has taken a life of its […]
 
+## Timeline
+- 2009-05-15 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

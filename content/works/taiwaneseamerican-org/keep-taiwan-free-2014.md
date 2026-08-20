@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2014
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2014-09-02
-- **Byline:** —
+- **Byline:** Stinky Tofu
 - **Original:** [https://www.taiwaneseamerican.org/2014/09/keep-taiwan-free-2014/](https://www.taiwaneseamerican.org/2014/09/keep-taiwan-free-2014/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Though one of the world’s youngest successful democracies, Taiwan continues to be excluded from the United Nations. That means Taiwan is unable to fully participate in global institutions such as the World Health Organization and forced to enter international competitions under the name of “Chinese Taipei.”
 
+## Timeline
+- 2014-09-02 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Social/Politics
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

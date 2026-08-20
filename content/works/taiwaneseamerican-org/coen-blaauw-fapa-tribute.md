@@ -13,21 +13,27 @@ last_reviewed: 2026-08-20
 - Era: 2024
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2024-05-26
-- **Byline:** —
+- **Byline:** Leona
 - **Original:** [https://www.taiwaneseamerican.org/2024/05/coen-blaauw-fapa-tribute/](https://www.taiwaneseamerican.org/2024/05/coen-blaauw-fapa-tribute/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Reposted with permission from the Formosan Association for Public Affairs (FAPA)
 
+## Timeline
+- 2024-05-26 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Community
+- Featured
+- Social/Politics
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

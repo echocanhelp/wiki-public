@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2017
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2017-09-20
-- **Byline:** —
+- **Byline:** Eric
 - **Original:** [https://www.taiwaneseamerican.org/2017/09/team-taiwan-jason-jung/](https://www.taiwaneseamerican.org/2017/09/team-taiwan-jason-jung/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+“Sports” is not what usually comes to mind first when people think about Taiwan, but in August, thousands of student athletes landed in Taiwan to compete in the 2017 Summer Universiade, hosted in Taipei and the surrounding municipalities. Taiwan ranked 3rd at the competition with 90 medals, including 26 gold medals! TaiwaneseAmerican.org’s Eric Kao chatted […]
 
+## Timeline
+- 2017-09-20 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Featured
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

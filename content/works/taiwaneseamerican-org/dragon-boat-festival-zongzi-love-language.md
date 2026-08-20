@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2023
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2023-06-21
-- **Byline:** —
+- **Byline:** Guest Contributor
 - **Original:** [https://www.taiwaneseamerican.org/2023/06/dragon-boat-festival-zongzi-love-language/](https://www.taiwaneseamerican.org/2023/06/dragon-boat-festival-zongzi-love-language/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+For as long as I can remember, the scent of steaming Taiwanese zongzi (or bahtzang, in Taigi) filled my childhood home the weekend ahead of the Dragon Boat Festival day. Before the convenience of Asian grocery chains having a prepared foods section, the memory of my mom sitting on a low plastic stool in the […]
 
+## Timeline
+- 2023-06-21 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Food &amp; Travel
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2014
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2014-05-19
-- **Byline:** —
+- **Byline:** Anna
 - **Original:** [https://www.taiwaneseamerican.org/2014/05/interview-jennifer-j-chow/](https://www.taiwaneseamerican.org/2014/05/interview-jennifer-j-chow/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Jennifer J. Chow’s fiction writing has appeared in several literary magazines, but now she debuts her full-length novel, The 228 Legacy, which was inspired by stories about the 228 Incident recounted to her by her Taiwanese American husband and relatives. Three generations in an all-female Taiwanese family living near Los Angeles in 1980 are each […]
 
+## Timeline
+- 2014-05-19 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

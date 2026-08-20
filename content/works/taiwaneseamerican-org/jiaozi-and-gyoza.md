@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2023
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2023-02-01
-- **Byline:** —
+- **Byline:** Guest Contributor
 - **Original:** [https://www.taiwaneseamerican.org/2023/02/jiaozi-and-gyoza/](https://www.taiwaneseamerican.org/2023/02/jiaozi-and-gyoza/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Jiaozi and Gyoza. The average person might not see a difference between them– they’re just dumplings, and dumplings taste good. Still, the differences are important. Jiaozi is a historical dish from Taiwan and China, eaten by Chinese people as far back as the Tang Dynasty. Its Japanese counterpart, however, is a more recent creation. It […]
 
+## Timeline
+- 2023-02-01 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Community
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

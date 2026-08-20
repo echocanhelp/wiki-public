@@ -203,7 +203,7 @@ Found two relevant mechanisms:
 | P13 | Site design | Layout issues | 1. Read site-design-brief.md 2. Run audit 3. Propose fixes (incl. root index.html copy from quartz build, Pages build type migration) 4. Report |
 | **P14** | **Person-to-work linking** | **Ensure person pages list all works + articles link back** | **1. Run `echopedia-person-works-linker.py --all` 2. Verify ## Works section on sample page 3. Verify backlinks in sample articles 4. Commit** |
 
-**Story-corpus (magazines):** do **not** P9-drip 2k pages. Parent: `python3 $REPO/scripts/echopedia-story-corpus-ingest.py --source-id <id> --home <url> [--apply-works]`. Watch-add: `site add --class story-corpus` (work_stub, no event_stub).
+**Story-corpus (magazines):** parent `echopedia-story-corpus-ingest.py --all --apply-works` then `echopedia-thicken-work-a.py` (A-band dossier-lite). Then works-index regen + linkcheck + **P2**. P2 does not thicken. Watch-add after live 200s. Ingest ≠ archive.
 
 ### P8 — Edit page content (content update)
 

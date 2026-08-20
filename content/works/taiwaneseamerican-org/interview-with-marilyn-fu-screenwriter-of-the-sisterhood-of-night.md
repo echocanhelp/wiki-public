@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2012
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2012-02-22
-- **Byline:** —
+- **Byline:** Stinky Tofu
 - **Original:** [https://www.taiwaneseamerican.org/2012/02/interview-with-marilyn-fu-screenwriter-of-the-sisterhood-of-night/](https://www.taiwaneseamerican.org/2012/02/interview-with-marilyn-fu-screenwriter-of-the-sisterhood-of-night/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+by Hanna Huang A graduate of Columbia University’s Film program, Marilyn Fu won the Tribeca Film Fest’s Creative Promise Award for a script entitled The Sisterhood of Night. She is also the inaugural recipient of the William Goldman Screenwriting Fellowship. The Sisterhood of Night is a modern re-telling of the Salem witch trials, based on […]
 
+## Timeline
+- 2012-02-22 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

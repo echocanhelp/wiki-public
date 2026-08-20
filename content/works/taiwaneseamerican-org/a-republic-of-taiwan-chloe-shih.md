@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2025
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2025-01-03
-- **Byline:** —
+- **Byline:** Guest Contributor
 - **Original:** [https://www.taiwaneseamerican.org/2025/01/a-republic-of-taiwan-chloe-shih/](https://www.taiwaneseamerican.org/2025/01/a-republic-of-taiwan-chloe-shih/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Editor’s Note: A Republic of Taiwan: Breaking the Chains was submitted by high schooler Chloe Wu Shih to the 2024 Betty L. Yu and Jin C. Yu Creative Writing Prizes and recommended by judge Charles Yu as noteworthy for publication. We are pleased to share this impressive, deeply researched piece representing the views of the writer; […]
 
+## Timeline
+- 2025-01-03 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

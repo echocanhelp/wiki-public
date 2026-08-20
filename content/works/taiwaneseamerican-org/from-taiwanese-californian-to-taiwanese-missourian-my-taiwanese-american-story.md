@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2020
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2020-05-19
-- **Byline:** —
+- **Byline:** Vivienne Chang
 - **Original:** [https://www.taiwaneseamerican.org/2020/05/from-taiwanese-californian-to-taiwanese-missourian-my-taiwanese-american-story/](https://www.taiwaneseamerican.org/2020/05/from-taiwanese-californian-to-taiwanese-missourian-my-taiwanese-american-story/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+There is only one Taiwanese restaurant in the city of St. Louis. When I introduce Taiwanese culture to my new college friends, I bring them to Tai Ke (台客), and my friends are always surprised when they find themselves eating a dish resembling Chinese food instead of Pad Thai. Yep, they thought Taiwanese people lived […]
 
+## Timeline
+- 2020-05-19 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Community
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

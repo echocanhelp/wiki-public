@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2013
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2013-05-09
-- **Byline:** —
+- **Byline:** Dot
 - **Original:** [https://www.taiwaneseamerican.org/2013/05/flipping-the-taiwanese-oyster-omelette/](https://www.taiwaneseamerican.org/2013/05/flipping-the-taiwanese-oyster-omelette/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Ah, “Oh-ah-jen” (蚵仔煎). Oyster omelette. Taiwan night market staple. Street food favorite—and rare find in the United States. McD’s does not exactly have an Oyster McOmelette on the drive-thru menu. So, last Saturday, several of us made the pilgrimage out to Union Church in Astoria, Queens to take part in TAP-NY‘s “Cooking Series” (aka Cooking 101 […]
 
+## Timeline
+- 2013-05-09 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Food &amp; Travel
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

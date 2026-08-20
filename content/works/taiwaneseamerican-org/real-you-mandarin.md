@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2024
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2024-06-08
-- **Byline:** —
+- **Byline:** Leona
 - **Original:** [https://www.taiwaneseamerican.org/2024/06/real-you-mandarin/](https://www.taiwaneseamerican.org/2024/06/real-you-mandarin/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Real You Mandarin is an online language course created by Taiwanese American and Taiwanese co-founders Angela Lin and Jane Liu. Angela is Taiwanese American, with extensive language learning experience across multiple languages and learning techniques. As creator and co-host of the But Where Are You Really From? Podcast, she has spent years discussing the unique […]
 
+## Timeline
+- 2024-06-08 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Interviews
+- Parenting Resources
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

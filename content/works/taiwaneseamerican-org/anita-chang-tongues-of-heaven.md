@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2014
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2014-09-28
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2014/09/anita-chang-tongues-of-heaven/](https://www.taiwaneseamerican.org/2014/09/anita-chang-tongues-of-heaven/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Taiwanese American filmmaker Anita Chang’s most recent documentary film, Tongues of Heaven, revolves around the issue of language loss and asks the essential question: “what do you lose when you lose your native language?” Her film explores the challenges of young indigenous peoples of Taiwan and Hawaii in learning the heritage languages of their ancestors […]
 
+## Timeline
+- 2014-09-28 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Social/Politics
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

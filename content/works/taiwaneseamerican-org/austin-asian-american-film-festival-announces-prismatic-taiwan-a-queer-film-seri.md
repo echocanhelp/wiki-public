@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2020
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2020-08-20
-- **Byline:** —
+- **Byline:** Leona
 - **Original:** [https://www.taiwaneseamerican.org/2020/08/austin-asian-american-film-festival-announces-prismatic-taiwan-a-queer-film-series/](https://www.taiwaneseamerican.org/2020/08/austin-asian-american-film-festival-announces-prismatic-taiwan-a-queer-film-series/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+[PRESS RELEASE FROM THE AUSTIN ASIAN AMERICAN FILM FESTIVAL] Co-presented by Taiwan Academy Houston, OFTaiwan, Taiwanese American Citizens League, and Asian Cinevision; Sponsored by the Taiwan Ministry of Culture AUSTIN, TX – The Austin Asian American Film Festival (AAAFF) is thrilled to co-present a virtual, six-film series celebrating the past and present of queer Taiwanese […]
 
+## Timeline
+- 2020-08-20 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Community
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

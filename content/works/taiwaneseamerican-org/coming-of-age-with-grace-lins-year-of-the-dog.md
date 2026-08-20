@@ -13,21 +13,28 @@ last_reviewed: 2026-08-20
 - Era: 2022
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2022-12-06
-- **Byline:** —
+- **Byline:** Guest Contributor
 - **Original:** [https://www.taiwaneseamerican.org/2022/12/coming-of-age-with-grace-lins-year-of-the-dog/](https://www.taiwaneseamerican.org/2022/12/coming-of-age-with-grace-lins-year-of-the-dog/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+“So, what are you?” Since childhood, I’ve had a go-to response: “I’m fifty-percent Taiwanese, twenty-five percent Mexican, and twenty-five percent German.” I was proud to present myself as a unique combination of races and ethnicities, to be “othered” from any and all groups; but this statistical proclamation showed that I only understood myself as a […]
 
+## Timeline
+- 2022-12-06 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Community
+- Featured
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

@@ -90,7 +90,7 @@ Use the **highest** surface that can do the job. Never jump to freestyle edits w
 |------|------|-------------------------------------|
 | Cron schedule & mode | pinto `cron/jobs.json` | SYSTEM_STATUS, digest, (future docs-sync) |
 | Autonomy | `echopedia/standards.json` | SYSTEM_STATUS, ci-heal behavior |
-| Wiki content | `content/people\|organizations\|sources` | Live site via publish/ci-heal |
+| Wiki content | `content/people|organizations|sources|works` | Live site via publish/ci-heal |
 | Live health | scripts → `SYSTEM_STATUS.md`, `cdn-verify-status.json`, `*-brief.md` | Morning digest |
 | How to assign work | `USER_MANUAL.md` (thin) | — |
 | Exact worker steps | `WORKER.md` | — |
@@ -114,7 +114,7 @@ Use the **highest** surface that can do the job. Never jump to freestyle edits w
 5. New fact about a person/org →  
    `Echopedia <name> <fact>` (implies P8 → verify → publish path per USER_MANUAL).  
 6. New website domain →  
-   `Echopedia website <domain>` (WEBSITE_INGEST **class bar**, not Tier2-only; magazines ≠ every-HTML).  
+   `Echopedia website <domain>` = **ingest** (class bar + **P2 publish**). Say **`archive only`** if vault-only.  
 
 Tag SSOT: `knowledge/operational/cron-notify-labels.md`. Cron schedule SSOT: pinto `jobs.json` (not this essay).
 

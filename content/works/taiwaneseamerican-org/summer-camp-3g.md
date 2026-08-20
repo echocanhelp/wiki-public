@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2019
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2019-10-09
-- **Byline:** —
+- **Byline:** Stephanie
 - **Original:** [https://www.taiwaneseamerican.org/2019/10/summer-camp-3g/](https://www.taiwaneseamerican.org/2019/10/summer-camp-3g/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+At the beginning of the summer, I received a Facebook reminder that the early-bird registration discount for TAF (Taiwanese American Foundation—the largest and longest-running summer camp for children and teens of Taiwanese descent in the US and Canada), was ending in just a week. Always a sucker for a good deal, I brought up the […]
 
+## Timeline
+- 2019-10-09 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Community
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2013
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2013-07-28
-- **Byline:** —
+- **Byline:** Kristina
 - **Original:** [https://www.taiwaneseamerican.org/2013/07/community-service-event-with-tap-in-dc/](https://www.taiwaneseamerican.org/2013/07/community-service-event-with-tap-in-dc/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Date: Sunday, July 28, 2013 Time: 1:00pm Location: William H.G. FitzGerald Tennis Center Address: Washington, DC Facebook event page: https://www.facebook.com/events/555152664530472/ Taiwanese American Professionals – DC (TAP-DC) is supporting Extreme Recess, an adaptive sports program for kids of all disabilities. We will provide volunteers for Dreams for Kids (http://dreamsforkids.org/) and Citi Open Tennis (www.citiopentennis.com)’s adaptive tennis […]
 
+## Timeline
+- 2013-07-28 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- East Coast
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2006
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2006-07-21
-- **Byline:** —
+- **Byline:** Grace
 - **Original:** [https://www.taiwaneseamerican.org/2006/07/vienna-tengs-newest-release/](https://www.taiwaneseamerican.org/2006/07/vienna-tengs-newest-release/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Vienna Teng’s new album, “Dreaming Through the Noise” comes out on Tuesday, July 25th! Her first single from this album is already in rotation at local radio stations. To hear her music, learn more about her, check her tour dates, or purchase her albums, go to her website.
 
+## Timeline
+- 2006-07-21 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

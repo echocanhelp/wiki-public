@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2011
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2011-12-08
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2011/12/dinner-dumplings-with-lisa-lee-co-founder-of-thickdumplingskin-com/](https://www.taiwaneseamerican.org/2011/12/dinner-dumplings-with-lisa-lee-co-founder-of-thickdumplingskin-com/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+TaiwaneseAmerican.org’s Ho Chie Tsai takes a dinner break with Lisa Lee, co-founder along with actress Lynn Chen of the website ThickDumplingSkin.com, to talk about Asian American community activism and her personal story of Taiwanese American identity. Lisa previously served as the publisher of Hyphen Magazine and was also recognized by AngryAsianMan.com as one of 30 […]
 
+## Timeline
+- 2011-12-08 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Interviews
+- Social/Politics
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

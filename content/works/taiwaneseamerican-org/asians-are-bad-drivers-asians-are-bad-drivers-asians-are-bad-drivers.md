@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2012
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2012-06-18
-- **Byline:** —
+- **Byline:** Stinky Tofu
 - **Original:** [https://www.taiwaneseamerican.org/2012/06/asians-are-bad-drivers-asians-are-bad-drivers-asians-are-bad-drivers/](https://www.taiwaneseamerican.org/2012/06/asians-are-bad-drivers-asians-are-bad-drivers-asians-are-bad-drivers/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Guest blogger Charles McDonald is a hapa Taiwanese American who has spent several years living and working in Taiwan. He mentioned to us a year ago that he intended to start a Taiwanese-inspired clothing line. Back then, it was just an idea, but a year later, his company has become reality and showcases some interesting […]
 
+## Timeline
+- 2012-06-18 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

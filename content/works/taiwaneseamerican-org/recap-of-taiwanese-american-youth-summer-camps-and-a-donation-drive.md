@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2010
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2010-09-03
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2010/09/recap-of-taiwanese-american-youth-summer-camps-and-a-donation-drive/](https://www.taiwaneseamerican.org/2010/09/recap-of-taiwanese-american-youth-summer-camps-and-a-donation-drive/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Hello friends of TaiwaneseAmerican.org! As summer comes to a close and students head back into the school year, it’s a great time to re-live the fun memories and thoughtful reflections from the various Taiwanese American youth camps & conferences all over the country. I was lucky enough to travel to every major camp & conference […]
 
+## Timeline
+- 2010-09-03 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

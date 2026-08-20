@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2020
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2020-06-15
-- **Byline:** —
+- **Byline:** Vivienne Chang
 - **Original:** [https://www.taiwaneseamerican.org/2020/06/taiwanese-cha-cha-cha-film-festival/](https://www.taiwaneseamerican.org/2020/06/taiwanese-cha-cha-cha-film-festival/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Judie Yang is a polyglot: she can speak English, Mandarin, Taiwanese, Japanese, and Spanish. Although she doesn’t always introduce herself as a polyglot, language has always been a huge part of her identity and is a common theme that runs through all her films, including Taiwanese Cha Cha Cha, a narrative short-film now playing at […]
 
+## Timeline
+- 2020-06-15 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

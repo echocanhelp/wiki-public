@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2015
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2015-03-10
-- **Byline:** —
+- **Byline:** Ho Chie
 - **Original:** [https://www.taiwaneseamerican.org/2015/03/sunflower-occupation-doc/](https://www.taiwaneseamerican.org/2015/03/sunflower-occupation-doc/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+A year after the historic occupation of Taiwan’s Legislative Yuan, a 9-part collaboration documentary has been made featuring the stories and timeline of events during this student-led “Sunflower Movement.” The Sunflower Student Movement, driven by a coalition of students and civic groups, protested the passing of the Cross-Strait Service Trade Agreement by the Kuomintang party […]
 
+## Timeline
+- 2015-03-10 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Social/Politics
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

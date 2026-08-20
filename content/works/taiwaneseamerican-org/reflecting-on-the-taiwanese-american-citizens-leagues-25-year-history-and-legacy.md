@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2010
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2010-08-20
-- **Byline:** —
+- **Byline:** Erica
 - **Original:** [https://www.taiwaneseamerican.org/2010/08/reflecting-on-the-taiwanese-american-citizens-leagues-25-year-history-and-legacy/](https://www.taiwaneseamerican.org/2010/08/reflecting-on-the-taiwanese-american-citizens-leagues-25-year-history-and-legacy/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+by Erica Ling On a recent summer’s night, over 300 members of the Taiwanese community gathered to celebrate the 25th birthday of the Taiwanese American Citizens League (TACL). At the request of Ben Ling (TACL National President), who had been working tirelessly in directing the entire event, several mentors, interns, and board members arrived early […]
 
+## Timeline
+- 2010-08-20 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Community
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

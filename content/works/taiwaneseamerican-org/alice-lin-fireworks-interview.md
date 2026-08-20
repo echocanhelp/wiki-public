@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2022
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2022-06-16
-- **Byline:** —
+- **Byline:** Guest Contributor
 - **Original:** [https://www.taiwaneseamerican.org/2022/06/alice-lin-fireworks-interview/](https://www.taiwaneseamerican.org/2022/06/alice-lin-fireworks-interview/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+In this “New Creatives” interview with Alice Lin, an up-and-coming Taiwanese American author, we dig into the cultural roots and swoon-worthy characters of her recently released young adult (YA) romance novel, Fireworks. The story revolves around Lulu Li, a 17 year-old girl who is reunited with her childhood friend, Kite Xu, now a rising […]
 
+## Timeline
+- 2022-06-16 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

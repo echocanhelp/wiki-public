@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2012
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2012-10-07
-- **Byline:** —
+- **Byline:** A Chu
 - **Original:** [https://www.taiwaneseamerican.org/2012/10/social-media-racism-revisited/](https://www.taiwaneseamerican.org/2012/10/social-media-racism-revisited/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+It seems that my first post about racial encounters in social media was only the beginning…
 
+## Timeline
+- 2012-10-07 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Perspectives
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

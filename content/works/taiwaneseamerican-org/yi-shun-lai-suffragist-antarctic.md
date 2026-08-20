@@ -13,21 +13,26 @@ last_reviewed: 2026-08-20
 - Era: 2024
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2024-01-31
-- **Byline:** —
+- **Byline:** Leona
 - **Original:** [https://www.taiwaneseamerican.org/2024/01/yi-shun-lai-suffragist-antarctic/](https://www.taiwaneseamerican.org/2024/01/yi-shun-lai-suffragist-antarctic/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+I was so pleased to read an advance copy of Yi Shun Lai’s forthcoming A SUFFRAGIST’S GUIDE TO THE ANTARCTIC, a young adult novel constructed as the diary entries of Clara Ketterling-Dunbar, who has somehow maneuvered her way into an otherwise all-male Antarctic expedition. None of the other crew members know the full truth about […]
 
+## Timeline
+- 2024-01-31 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Arts &amp; Culture
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]

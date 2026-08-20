@@ -13,21 +13,25 @@ last_reviewed: 2026-08-20
 - Era: 2011
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
+- Source org: [[organizations/taiwaneseamerican-org]]
 
 ## Record
 - **Date:** 2011-03-08
-- **Byline:** —
+- **Byline:** Anna
 - **Original:** [https://www.taiwaneseamerican.org/2011/03/author-to-author-a-chat-with-charles-yu-how-to-live-safely-in-a-science-fictional-universe/](https://www.taiwaneseamerican.org/2011/03/author-to-author-a-chat-with-charles-yu-how-to-live-safely-in-a-science-fictional-universe/)
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Excerpt
-_Bibliographic record only. Full text stays in the vault (copyright)._ 
+## Summary
+Author Shawna Yang Ryan, on behalf of TaiwaneseAmerican.org, interviews fellow Taiwanese American author Charles Yu during his recent book tour. Charles Yu’s debut novel How to Live Safely in a Science Fictional Universe is a funny, quirky, touching story of a time machine repairman, also named Charles Yu. Set in a science fiction universe, the […]
 
+## Timeline
+- 2011-03-08 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- Interviews
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]
 - [[sources/taiwaneseamerican-org|Source hub]]
