@@ -9,7 +9,7 @@
 ## What it does
 
 Weekly: poll enabled live sites → fingerprint URLs → append Tier2 on new/changed → narrow AUTO (`last_reviewed`, clean event stubs) → write summary + next-ingest tips.  
-**Does not** push (ci-heal only). **Does not** watch dead/static/OCAC stub.
+**Does not** push (ci-heal only). **Does not** watch dead/static/OCAC stub until owner watch-add. **`story-corpus`** is watchable after WEBSITE_INGEST §2S COMPLETE (`class=story-corpus`, `auto_apply` includes `work_stub`, no `event_stub`). Poll = seeds + recent REST posts. New A/B/C → AUTO work page. Never AUTO people.
 
 ## Labels
 
@@ -28,7 +28,7 @@ SC=~/.hermes/profiles/pinto/scripts/echopedia-source-continuity.sh
 
 $SC site list
 $SC site check <id>
-$SC site add --id <id> --home <url> --hub content/sources/<slug>.md --primary content/organizations/<slug>.md
+$SC site add --id <id> --home <url> --hub content/sources/<slug>.md --primary content/organizations/<slug>.md [--class story-corpus]
 $SC site baseline <id>
 $SC site enable <id>
 $SC site disable <id>    # pause

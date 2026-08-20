@@ -54,33 +54,27 @@ Top 10 articles from taiwanjustice.net mentioning wu-lipei:
 
 ## Works
 
-**吳立埔** has **6** articles where they appear in the title (column articles) and **10** additional articles that mention them in the body.
+**吳立埔** — **3** title hits, **10** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
+### 2024 (2)
 
-### 2016 (2 articles)
+1. [[articles/taiwanjustice-net/2024/20240620181046_root_14fc155f974c6638|吳澧培再開砲 直指張盛和謊話連篇 ◎自由時報 08-30-2016]]
+2. [[articles/taiwanjustice-net/2024/20240425080646_root_9a39a754d2a3b236|我的人生︰一個堅持和無數的巧合 ◎吳澧培/吳澧培回憶錄前言 10-12-2015]]
 
-1. **2016-08-30** — [[articles/taiwanjustice-net/2024/20240620181046_root_14fc155f974c6638|吳澧培再開砲 直指張盛和謊話連篇 ◎自由時報 08-30-2016]]
-2. **2016-08-30** — [[articles/taiwanjustice-net/2024/20240620181046_root_14fc155f974c6638|吳澧培再開砲 直指張盛和謊話連篇 ◎自由時報 08-30-2016]]
+### 2021 (1)
 
-### 2015 (2 articles)
+1. [[articles/taiwanjustice-net/2021/20210620125731_2013_04_23_新台灣加油_2013-04-23_從阿扁的遭遇看馬政府下的台灣_05b61a14ea38cb50|《新台灣加油》2013.04.23_從阿扁的遭遇看馬政府下的台灣獄政+綠營吳澧培等五大案，告檢濫訴]]
 
-1. **2015-10-12** — [[articles/taiwanjustice-net/2024/20240425080646_root_9a39a754d2a3b236|我的人生︰一個堅持和無數的巧合 ◎吳澧培/吳澧培回憶錄前言 10-12-2015]]
-2. **2015-10-12** — [[articles/taiwanjustice-net/2024/20240425080646_root_9a39a754d2a3b236|我的人生︰一個堅持和無數的巧合 ◎吳澧培/吳澧培回憶錄前言 10-12-2015]]
+### Body mentions (10)
 
-### 2013 (2 articles)
+See the source hub. Top mentions:
 
-1. **2013-04-23** — [[articles/taiwanjustice-net/2021/20210620125731_2013_04_23_新台灣加油_2013-04-23_從阿扁的遭遇看馬政府下的台灣_05b61a14ea38cb50|《新台灣加油》2013.04.23_從阿扁的遭遇看馬政府下的台灣獄政+綠營吳澧培等五大案，告檢濫訴]]
-2. **2013-04-23** — [[articles/taiwanjustice-net/2021/20210620125731_2013_04_23_新台灣加油_2013-04-23_從阿扁的遭遇看馬政府下的台灣_05b61a14ea38cb50|《新台灣加油》2013.04.23_從阿扁的遭遇看馬政府下的台灣獄政+綠營吳澧培等五大案，告檢濫訴]]
+1. [[articles/taiwanjustice-net/2024/20240301081358_root_b3dc60c35a8ef225|專欄]]
+2. [[articles/taiwanjustice-net/2023/20230603183449_2012_08_05_台灣的危機與轉機1-吳澧培先生專題演講-08052012-大洛杉_screenhunter_14-aug-05-22-40_3e86920c6c28fcbb|ScreenHunter_14 Aug. 05 22.40]]
+3. [[articles/taiwanjustice-net/2024/20240520034910_root_4facf0eb156eac2c|有話好說]]
+4. [[articles/taiwanjustice-net/2024/20240221103129_root_915dba7c8fc3f3d3|〈洛杉磯看台〉 拼了吧！◎ 廖清山 2017-09-04]]
+5. [[articles/taiwanjustice-net/2025/20251209223029_賴清德應邀赴華府-出席全美祈禱早餐會_3bde1bcb0bb0e10b|賴清德應邀赴華府 出席全美祈禱早餐會， 將拜會國際事務智庫僑界]]
 
-### Body Mentions (10 articles)
-
-Articles by other authors that mention **吳立埔**: See [[sources/taiwanjustice-net|taiwanjustice.net source hub]] for the full article index. Top mentions by score:
-
-1. **2015-10-12** — [[articles/taiwanjustice-net/2024/20240301081358_root_b3dc60c35a8ef225|專欄]] (score: 740)
-2. **undated** — [[articles/taiwanjustice-net/2023/20230603183449_2012_08_05_台灣的危機與轉機1-吳澧培先生專題演講-08052012-大洛杉_screenhunter_14-aug-05-22-40_3e86920c6c28fcbb|ScreenHunter_14 Aug. 05 22.40]] (score: 700)
-3. **2019-04-11** — [[articles/taiwanjustice-net/2024/20240520034910_root_4facf0eb156eac2c|有話好說]] (score: 700)
-4. **2017-09-04** — [[articles/taiwanjustice-net/2024/20240221103129_root_915dba7c8fc3f3d3|〈洛杉磯看台〉 拼了吧！◎ 廖清山 2017-09-04]] (score: 210)
-5. **2020-02-02** — [[articles/taiwanjustice-net/2025/20251209223029_賴清德應邀赴華府-出席全美祈禱早餐會_3bde1bcb0bb0e10b|賴清德應邀赴華府 出席全美祈禱早餐會， 將拜會國際事務智庫僑界]] (score: 170)
 
 ## Timeline
 

@@ -50,23 +50,22 @@ Top 8 articles from taiwanjustice.net mentioning bai-peiyu:
 
 ## Works
 
-**白珮瑜** has **2** articles where they appear in the title (column articles) and **7** additional articles that mention them in the body.
+**白珮瑜** — **1** title hits, **7** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
+### 2017 (1)
 
-### 2017 (2 articles)
+1. [[articles/taiwanjustice-net/2017/20171206054445_2017_12_03_看板人物-20171203-郭台銘找她-白佩玉_立功_9aacecc339b6db22|看板人物 20171203 郭台銘找她 白佩玉‧立功]]
 
-1. **2017-12-03** — [[articles/taiwanjustice-net/2017/20171206054445_2017_12_03_看板人物-20171203-郭台銘找她-白佩玉_立功_9aacecc339b6db22|看板人物 20171203 郭台銘找她 白佩玉‧立功]]
-2. **2017-12-03** — [[articles/taiwanjustice-net/2017/20171206054445_2017_12_03_看板人物-20171203-郭台銘找她-白佩玉_立功_9aacecc339b6db22|看板人物 20171203 郭台銘找她 白佩玉‧立功]]
+### Body mentions (7)
 
-### Body Mentions (7 articles)
+See the source hub. Top mentions:
 
-Articles by other authors that mention **白珮瑜**: See [[sources/taiwanjustice-net|taiwanjustice.net source hub]] for the full article index. Top mentions by score:
+1. [[articles/taiwanjustice-net/2024/20240225023718_root_78b19c4a1aa1f9ac|看板人物]]
+2. [[articles/taiwanjustice-net/2024/20240523001218_root_a88f761242f919ed|看板人物]]
+3. [[articles/taiwanjustice-net/2024/20240713105601_root_da8d6e56d536ef9f|看板人物]]
+4. [[articles/taiwanjustice-net/2017/20171204112451_2017_12_02_政經看民視-20171202-新閣蜜月期已過-壓垮賴清德的是他_7309b18e0622a55e|政經看民視 20171202 新閣蜜月期已過? 壓垮賴清德的是他…..]]
+5. [[articles/taiwanjustice-net/2017/20171204101252_2017_11_22_年代向錢看-20171122-法拍向錢看-情債_錢債太難清_3239c0110e44223f|年代向錢看 20171122 法拍向錢看!? 情債，錢債太難清?!]]
 
-1. **2018-12-02** — [[articles/taiwanjustice-net/2024/20240225023718_root_78b19c4a1aa1f9ac|看板人物]] (score: 700)
-2. **2018-07-22** — [[articles/taiwanjustice-net/2024/20240523001218_root_a88f761242f919ed|看板人物]] (score: 700)
-3. **2017-12-03** — [[articles/taiwanjustice-net/2024/20240713105601_root_da8d6e56d536ef9f|看板人物]] (score: 700)
-4. **2017-12-02** — [[articles/taiwanjustice-net/2017/20171204112451_2017_12_02_政經看民視-20171202-新閣蜜月期已過-壓垮賴清德的是他_7309b18e0622a55e|政經看民視 20171202 新閣蜜月期已過? 壓垮賴清德的是他…..]] (score: 610)
-5. **2017-11-22** — [[articles/taiwanjustice-net/2017/20171204101252_2017_11_22_年代向錢看-20171122-法拍向錢看-情債_錢債太難清_3239c0110e44223f|年代向錢看 20171122 法拍向錢看!? 情債，錢債太難清?!]] (score: 560)
 
 ## Timeline
 

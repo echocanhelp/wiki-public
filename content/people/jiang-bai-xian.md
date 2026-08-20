@@ -59,34 +59,37 @@ Top 10 articles from taiwanjustice.net mentioning jiang-bai-xian:
 
 ## Works
 
-**江百顯** has **13** articles where they appear in the title (column articles) and **476** additional articles that mention them in the body.
+**江百顯** — **13** title hits, **476** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
+### 2025 (7)
 
-### 2024 (13 articles)
+1. [[articles/taiwanjustice-net/2025/20250418225233_各顯_神_通-_-江百顯_a5ce891bda48d9ab|各顯「神」通 ◎ 江百顯]]
+2. [[articles/taiwanjustice-net/2025/20250328130528_看見台灣靠爸族-_-江百顯_9f0f9c88c324bc6c|看見台灣靠爸族  ◎ 江百顯]]
+3. [[articles/taiwanjustice-net/2025/20250328120407_民主楷模_搶救王義川大兵_-江百顯_18f93ddd9988a850|民主楷模，《搶救王義川大兵》◎ 江百顯]]
+4. [[articles/taiwanjustice-net/2025/20250317182425_邁出第一步_賴清德勇以接受挑戰-_江百顯_b0cdef1ecc8f6640|邁出第一步，賴清德勇以接受挑戰 ◎江百顯]]
+5. [[articles/taiwanjustice-net/2025/20250216014712_台灣人的宿命_賴清德被駡不能回嘴-_江百顯_9f39aa67a9d23de1|台灣人的宿命，賴清德被駡不能回嘴  ◎江百顯]]
+6. [[articles/taiwanjustice-net/2025/20250213034938_告別讀稿機_蔡英文心情輕鬆-_-江百顯_5fc6545c48001a2a|告別讀稿機，蔡英文心情輕鬆  ◎ 江百顯]]
+7. [[articles/taiwanjustice-net/2025/20250213024533_他們怎麼說_我們就怎麼聽_可以嗎_-_-江百顯_bda4110044e76bae|他們怎麼說，我們就怎麼聽。可以嗎？ ◎ 江百顯]]
 
-1. **2024-10-18** — [[articles/taiwanjustice-net/2025/20250328130528_看見台灣靠爸族-_-江百顯_9f0f9c88c324bc6c|看見台灣靠爸族  ◎ 江百顯]]
-2. **2024-10-12** — [[articles/taiwanjustice-net/2025/20250328120407_民主楷模_搶救王義川大兵_-江百顯_18f93ddd9988a850|民主楷模，《搶救王義川大兵》◎ 江百顯]]
-3. **2024-09-21** — [[articles/taiwanjustice-net/2025/20250418225233_各顯_神_通-_-江百顯_a5ce891bda48d9ab|各顯「神」通 ◎ 江百顯]]
-4. **2024-06-19** — [[articles/taiwanjustice-net/2024/20240719114021_root_6b289050a578f6ba|絕非意外的脫序行徑 ◎ 江百顯]]
-5. **2024-06-10** — [[articles/taiwanjustice-net/2024/20240622124621_root_1d651f77ea82fb20|台灣空氣，忽然瀰漫濃濃的金錢滋味 ◎江百顯]]
-6. **2024-06-06** — [[articles/taiwanjustice-net/2025/20250213024533_他們怎麼說_我們就怎麼聽_可以嗎_-_-江百顯_bda4110044e76bae|他們怎麼說，我們就怎麼聽。可以嗎？ ◎ 江百顯]]
-7. **2024-05-31** — [[articles/taiwanjustice-net/2024/20240719121050_root_928436cb5cc9df20|遭不實指控，王義川冷笑駁斥 ◎ 江百顯]]
-8. **2024-05-28** — [[articles/taiwanjustice-net/2025/20250216014712_台灣人的宿命_賴清德被駡不能回嘴-_江百顯_9f39aa67a9d23de1|台灣人的宿命，賴清德被駡不能回嘴  ◎江百顯]]
-9. **2024-05-26** — [[articles/taiwanjustice-net/2024/20240622130456_root_551a16bdcf19b809|諷太陽花搞笑賣萌，網紅百靈果被噓 ◎江百顯]]
-10. **2024-05-22** — [[articles/taiwanjustice-net/2024/20240622132839_root_c4981e640c0d3f57|邁出第一步，賴清德勇以接受挑戰 ◎江百顯]]
-11. **2024-05-22** — [[articles/taiwanjustice-net/2025/20250317182425_邁出第一步_賴清德勇以接受挑戰-_江百顯_b0cdef1ecc8f6640|邁出第一步，賴清德勇以接受挑戰 ◎江百顯]]
-12. **2024-05-18** — [[articles/taiwanjustice-net/2024/20240613112135_root_a6f9bce8cf5635d0|告別讀稿機，蔡英文心情輕鬆  ◎ 江百顯]]
-13. **2024-05-18** — [[articles/taiwanjustice-net/2025/20250213034938_告別讀稿機_蔡英文心情輕鬆-_-江百顯_5fc6545c48001a2a|告別讀稿機，蔡英文心情輕鬆  ◎ 江百顯]]
+### 2024 (6)
 
-### Body Mentions (476 articles)
+1. [[articles/taiwanjustice-net/2024/20240719121050_root_928436cb5cc9df20|遭不實指控，王義川冷笑駁斥 ◎ 江百顯]]
+2. [[articles/taiwanjustice-net/2024/20240719114021_root_6b289050a578f6ba|絕非意外的脫序行徑 ◎ 江百顯]]
+3. [[articles/taiwanjustice-net/2024/20240622132839_root_c4981e640c0d3f57|邁出第一步，賴清德勇以接受挑戰 ◎江百顯]]
+4. [[articles/taiwanjustice-net/2024/20240622130456_root_551a16bdcf19b809|諷太陽花搞笑賣萌，網紅百靈果被噓 ◎江百顯]]
+5. [[articles/taiwanjustice-net/2024/20240622124621_root_1d651f77ea82fb20|台灣空氣，忽然瀰漫濃濃的金錢滋味 ◎江百顯]]
+6. [[articles/taiwanjustice-net/2024/20240613112135_root_a6f9bce8cf5635d0|告別讀稿機，蔡英文心情輕鬆  ◎ 江百顯]]
 
-Articles by other authors that mention **江百顯**: See [[sources/taiwanjustice-net|taiwanjustice.net source hub]] for the full article index. Top mentions by score:
+### Body mentions (476)
 
-1. **2020-05-07** — [[articles/taiwanjustice-net/2025/20250616212548_民視新聞-20200507-韓國瑜陷罷免危機-王金平傳將救韓_edebf3c5d169ff35|民視新聞 20200507 韓國瑜陷罷免危機 王金平傳將救韓]] (score: 780)
-2. **2020-06-02** — [[articles/taiwanjustice-net/2025/20250726002608_2020_06_02_bab4d106ba4a1757|'Daily Archives: June 2, 2020']] (score: 780)
-3. **2024-05-26** — [[articles/taiwanjustice-net/2024/20240527025145_root_7f1c7c50f69f16a1|賴清德政府]] (score: 770)
-4. **2024-07-18** — [[articles/taiwanjustice-net/2024/20240718224048_root_869431711a13de70|台灣頭條]] (score: 760)
-5. **2025-04-08** — [[articles/taiwanjustice-net/2025/20250418073734_大洛杉磯台灣會館2025年3月會訊_ae94b37008468254|大洛杉磯台灣會館2025年3月會訊]] (score: 750)
+See the source hub. Top mentions:
+
+1. [[articles/taiwanjustice-net/2025/20250616212548_民視新聞-20200507-韓國瑜陷罷免危機-王金平傳將救韓_edebf3c5d169ff35|民視新聞 20200507 韓國瑜陷罷免危機 王金平傳將救韓]]
+2. [[articles/taiwanjustice-net/2025/20250726002608_2020_06_02_bab4d106ba4a1757|Daily Archives: June 2, 2020]]
+3. [[articles/taiwanjustice-net/2024/20240527025145_root_7f1c7c50f69f16a1|賴清德政府]]
+4. [[articles/taiwanjustice-net/2024/20240718224048_root_869431711a13de70|台灣頭條]]
+5. [[articles/taiwanjustice-net/2025/20250418073734_大洛杉磯台灣會館2025年3月會訊_ae94b37008468254|大洛杉磯台灣會館2025年3月會訊]]
+
 
 ## Source Notes
 

@@ -20,14 +20,14 @@ Related: [Taiwanese American Historical Society](/organizations/taiwanese-americ
 
 ## Works
 
-**zheng-qinren** has **0** articles where they appear in the title (column articles) and **1** additional articles that mention them in the body.
+**zheng-qinren** — **0** title hits, **1** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
+### Body mentions (1)
 
-### Body Mentions (1 articles)
+See the source hub. Top mentions:
 
-Articles by other authors that mention **zheng-qinren**: See [[sources/taiwanjustice-net|taiwanjustice.net source hub]] for the full article index. Top mentions by score:
+1. [[articles/taiwanjustice-net/2023/20230322163322_2023_03_18_陳儀深_台獨非異端_是歷史長河所提前途選項_7a1fac458741d886|陳儀深：台獨非異端，是歷史長河所提前途選項]]
 
-1. **2023-03-18** — [[articles/taiwanjustice-net/2023/20230322163322_2023_03_18_陳儀深_台獨非異端_是歷史長河所提前途選項_7a1fac458741d886|陳儀深：台獨非異端，是歷史長河所提前途選項]] (score: 40)
 
 ## Timeline
 

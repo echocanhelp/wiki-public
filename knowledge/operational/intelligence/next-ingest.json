@@ -1,5 +1,5 @@
 {
-  "at": "2026-08-20T14:37:02Z",
+  "at": "2026-08-20T17:54:36Z",
   "suggestions": [
     {
       "kind": "website",
@@ -16,6 +16,150 @@
       "score": 29,
       "why": "external host on 7 Tier1 pages; not watched",
       "action": "go Echopedia website https://ntpc-usa.org/"
+    },
+    {
+      "kind": "website",
+      "host": "eastgatebarclay.org",
+      "mentions": 6,
+      "score": 26,
+      "why": "external host on 6 Tier1 pages; not watched",
+      "action": "go Echopedia website https://eastgatebarclay.org/"
+    },
+    {
+      "kind": "website",
+      "host": "penghu.info",
+      "mentions": 8,
+      "score": 24,
+      "why": "external host on 8 Tier1 pages; not watched",
+      "action": "go Echopedia website https://penghu.info/"
+    },
+    {
+      "kind": "website",
+      "host": "ntumcaa-na.org",
+      "mentions": 3,
+      "score": 17,
+      "why": "external host on 3 Tier1 pages; not watched",
+      "action": "go Echopedia website https://ntumcaa-na.org/"
+    },
+    {
+      "kind": "website",
+      "host": "tcnn.org.tw",
+      "mentions": 5,
+      "score": 15,
+      "why": "external host on 5 Tier1 pages; not watched",
+      "action": "go Echopedia website https://tcnn.org.tw/"
+    },
+    {
+      "kind": "website",
+      "host": "taifuten.com",
+      "mentions": 4,
+      "score": 12,
+      "why": "external host on 4 Tier1 pages; not watched",
+      "action": "go Echopedia website https://taifuten.com/"
+    },
+    {
+      "kind": "website",
+      "host": "taiwandaily.net",
+      "mentions": 4,
+      "score": 12,
+      "why": "external host on 4 Tier1 pages; not watched",
+      "action": "go Echopedia website https://taiwandaily.net/"
+    },
+    {
+      "kind": "website",
+      "host": "chunglun.church",
+      "mentions": 3,
+      "score": 9,
+      "why": "external host on 3 Tier1 pages; not watched",
+      "action": "go Echopedia website https://chunglun.church/"
+    },
+    {
+      "kind": "website",
+      "host": "phnes.net",
+      "mentions": 3,
+      "score": 9,
+      "why": "external host on 3 Tier1 pages; not watched",
+      "action": "go Echopedia website https://phnes.net/"
+    },
+    {
+      "kind": "website",
+      "host": "taiwancenter.com",
+      "mentions": 2,
+      "score": 6,
+      "why": "external host on 2 Tier1 pages; not watched",
+      "action": "go Echopedia website https://taiwancenter.com/"
+    },
+    {
+      "kind": "website",
+      "host": "threads.com",
+      "mentions": 2,
+      "score": 6,
+      "why": "external host on 2 Tier1 pages; not watched",
+      "action": "go Echopedia website https://threads.com/"
+    },
+    {
+      "kind": "website",
+      "host": "truemii.chinatimes.com",
+      "mentions": 2,
+      "score": 6,
+      "why": "external host on 2 Tier1 pages; not watched",
+      "action": "go Echopedia website https://truemii.chinatimes.com/"
+    },
+    {
+      "kind": "densify",
+      "host": "bai-weiwei",
+      "id": "bai-weiwei",
+      "score": 8,
+      "why": "thin L1 person page (2015 chars); densify from Tier2/roster — not a new website",
+      "action": "go deepen people/bai-weiwei"
+    },
+    {
+      "kind": "densify",
+      "host": "kevin-lee",
+      "id": "kevin-lee",
+      "score": 8,
+      "why": "thin L1 person page (1798 chars); densify from Tier2/roster — not a new website",
+      "action": "go deepen people/kevin-lee"
+    },
+    {
+      "kind": "densify",
+      "host": "zheng-qinren",
+      "id": "zheng-qinren",
+      "score": 8,
+      "why": "thin L1 person page (1984 chars); densify from Tier2/roster — not a new website",
+      "action": "go deepen people/zheng-qinren"
+    },
+    {
+      "kind": "densify",
+      "host": "phoenix-ko",
+      "id": "phoenix-ko",
+      "score": 7,
+      "why": "thin L1 person page (2193 chars); densify from Tier2/roster — not a new website",
+      "action": "go deepen people/phoenix-ko"
+    },
+    {
+      "kind": "source_hub",
+      "host": "irvine-taiwanese-presbyterterian-church",
+      "id": "irvine-taiwanese-presbyterterian-church",
+      "score": 12,
+      "why": "stub/not-watched source hub",
+      "action": "review stub hub content/sources/irvine-taiwanese-presbyterterian-church.md (no full ingest unless approved)"
+    },
+    {
+      "kind": "source_hub",
+      "host": "ocac.gov.tw",
+      "id": "ocac-gov-tw",
+      "score": 12,
+      "why": "stub/not-watched source hub",
+      "action": "review stub hub content/sources/ocac-gov-tw.md (no full ingest unless approved)"
+    },
+    {
+      "kind": "source_hub",
+      "host": "taiwancenter.org",
+      "id": "taiwancenter-org",
+      "score": 12,
+      "why": "stub/not-watched source hub",
+      "action": "review stub hub content/sources/taiwancenter-org.md (no full ingest unless approved)"
     }
   ],
   "candidates_considered": 20,

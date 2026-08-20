@@ -457,6 +457,7 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 - [Taiwanese-American Foundation of Boston (波士頓台美基金會)](./taiwanese-american-foundation-of-boston)
 - [Taiwanese-American Irvine’s Eagle Brotherhood Group -Irvine (台美人)](./taiwanese-american-irvines-eagle-brotherhood-group-irvine)
 - [Taiwanese-American Religious Study Association Southern California TARSA-SC (台美人信仰與人文研習會)](./taiwanese-american-religious-study-association-southern-california-tarsa-sc)
+- [TaiwaneseAmerican.org](./taiwaneseamerican-org)
 - [taiwanjustice.net (台灣公義網)](./taiwanjustice-net)
 - [Tennessee Taiwanese Association (田納西州大納許維爾台灣同鄉會)](./tennessee-taiwanese-association)
 - [Texas College Station Taiwan Study Club (德州卡城台灣研究社)](./texas-college-station-taiwan-study-club)

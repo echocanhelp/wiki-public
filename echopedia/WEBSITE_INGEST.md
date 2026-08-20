@@ -1,8 +1,28 @@
 # Website full ingestion (Echopedia website …)
 
-**Purpose:** When the user says **Echopedia website &lt;domain&gt;** (or equivalent), the job is **not** “one org blurb + some archives.” It is **full-domain save + absorb into the wiki graph + live publish**.
+**Purpose:** When the user says **Echopedia website &lt;domain&gt;** (or equivalent), classify the source (**§0**), then run **that class’s completeness bar** — not a one-size church crawl.
 
 **Source of truth for command language:** also `USER_MANUAL.md` § Command language.
+
+**Receive envelope:** `echopedia/schemas/source-unit.schema.json` · `scripts/echopedia-source-unit-validate.py` · class detector `scripts/echopedia-source-class.py`.
+
+---
+
+## 0. Source class (pick once)
+
+Human still says `Echopedia website <domain>`. Detector / planner sets **class**. Wrong class = fake COMPLETE or 2k stubs.
+
+| class | Examples | Tier2 | COMPLETE |
+|-------|----------|-------|----------|
+| **`live-small`** | GSTPC, ITPC, TC, NTPC, PCT v1 | On-domain HTML + MANIFEST | Hub + **About/History prose** + officer dossiers (§2) |
+| **`static-v1`** | laijohn | Official Who + TOC only | Hub + primary; no 史話 / pc-contents bodies |
+| **`story-corpus`** | taiwaneseamerican.org, taiwanjustice | **Full post corpus** gitignored + units.jsonl | Org **dossier** + hub catalog + **`content/works/<id>/` page per A/B/C unit** + people dossiers when identity solid (§2S) |
+| **`publication`** | TAHS yearbook, memoir PDF | Chunks + facts-clean | [PUBLICATION_INGEST.md](PUBLICATION_INGEST.md) |
+| **`social-short`** | one IG/X/FB post | Optional gitignored snippet | Historical value → **work page** (or cite on existing dossier). Never domain crawl. No person from handle alone |
+
+**TAHS default:** vault captures the record; the wiki publishes every unit with **distinct historical value** as a `type: work` page. Index-only / hub-only is **PARTIAL**. Chrome (slider, gift-guide) is band D (vault only). Copyrighted fiction **bodies** stay in the vault; the **bibliographic work page** still publishes.
+
+`taiwaneseamerican.org` ≠ `taiwaneseamericanhistory.org` (TAH recrawl skip).
 
 ---
 
@@ -10,7 +30,7 @@
 
 | Phrase | Meaning |
 |--------|---------|
-| **`Echopedia website <domain>`** | Full pipeline below → **done = live + dense linking** |
+| **`Echopedia website <domain>`** | Classify (§0) → that class’s bar → **done = live + linked** |
 | `Echopedia full-domain archive <domain>` | Same as website (synonym under this doc) |
 | `Echopedia refresh <domain>` | Same default unless they say archive-only |
 | `archive only` / `Tier2 only` | Stop after §3 (no apply/publish) |
@@ -20,7 +40,9 @@
 
 ---
 
-## 2. Completeness bar (must all pass)
+## 2. Completeness bar — `live-small` (must all pass)
+
+**`story-corpus` uses §2S instead of “every HTML page.”** `publication` uses PUBLICATION_INGEST. `social-short` = work page or cite on existing dossier.
 
 ### A. Archive (Tier 2)
 - [ ] `sitemap.xml` (or equivalent) fully walked  
@@ -59,6 +81,52 @@
 
 ---
 
+## 2S. Completeness bar — `story-corpus` (historical society default)
+
+A magazine of Taiwanese American interviews, essays, and stories **is the historical record**. Thin hub + URL index is **not** absorption.
+
+**Value bands** (`scripts/echopedia-work-stub.py`):
+
+| Band | What | Tier1 |
+|------|------|-------|
+| **A** | Interviews, oral history, community, 228/politics, named-subject features | `content/works/<id>/<slug>.md` **dossier-lite** + facts onto people/orgs when identity solid |
+| **B** | Other nonfiction essays/features | work page + light subject list |
+| **C** | Fiction, poetry, CNF, prize selections | **Bibliographic** work page (title/author/date/URL). **No body** on gh-pages |
+| **D** | Slider, gift-guide, chrome, empty | Vault index only (`absorb=skip`) |
+
+### A. Vault (Tier 2) — capture the corpus
+- [ ] Official **pages** (About / Mission) archived + MANIFEST  
+- [ ] **All posts** fetched to gitignored store (`knowledge/web-archives/` or `content/articles/<id>/`) — this is the society’s copy  
+- [ ] `knowledge/research/<id>/units.jsonl` one line per post (`value_band` + `absorb`)  
+- [ ] Validator OK  
+- [ ] **Never** `git add` bulk archives (Pages 1GB)
+
+### B. Wiki — org + works
+- [ ] Primary org **dossier**: About / History **prose** (Gate C) + editorial identity  
+- [ ] `content/sources/<id>.md` hub **catalog** wikilinking every A/B/C work  
+- [ ] `content/works/<id>/*.md` for **every A/B/C unit** (`echopedia-work-stub.py`)  
+- [ ] `content/works/index.md` lists this source  
+- [ ] Named subjects with solid identity → **people dossiers** (not byline-only stubs)  
+- [ ] Existing people/orgs get first-mention cites from A-band  
+- [ ] D-band stays off the wiki
+
+### C. Publish
+- [ ] Quartz **builds `works/`** (not `articles/**`)  
+- [ ] Hub + org + work pages live  
+- [ ] `git ls-files knowledge/web-archives` empty of this harvest  
+
+### D. Overnight (no new cron)
+- [ ] Watch-add after org About prose exists  
+- [ ] `class=story-corpus`; `auto_apply`: `tier2_append`, `last_reviewed`, **`work_stub`** — **no** `event_stub`  
+- [ ] Poll = seeds + **recent REST posts**, never full sitemap  
+- [ ] New A/B/C → AUTO work page from metadata  
+- [ ] **Never AUTO** person pages or About rewrite  
+- [ ] Morning brief 🟡 for new **A-band** units (human thicken)
+
+**PARTIAL if:** units.jsonl exists but A/B/C works missing; or org page has no About prose.
+
+---
+
 ## 3. Pipeline (order)
 
 ```
@@ -73,7 +141,7 @@
 9. REPORT     counts: URLs archived, pages created/updated, live links, residual gaps
 ```
 
-**Do not stop at step 2 or 5.** Stopping at primary-page-only is **incomplete** for `Echopedia website`.
+**Do not stop at step 2 or 5** for `live-small`. For `story-corpus` vault+index without A/B/C **work pages** is **PARTIAL**.
 
 ---
 
@@ -116,7 +184,10 @@ Named pages default to **dossier**, one notch above thin. Not a third source hun
 
 ```text
 WEBSITE_INGEST: <domain>
+CLASS: live-small | story-corpus | static-v1 | publication | social-short
 ARCHIVE: <n> urls, manifest=<path>, weak=<n>
+UNITS: <n> indexed / cites=<n> / new_people=<n>
+LICENSE: all-rights | fair-cite | cc
 FACT_SHEET: <path>
 SOURCE_PAGE: <path or none>
 PRIMARY_PAGE: <path>
@@ -130,7 +201,7 @@ STATUS: COMPLETE | PARTIAL (reason)
 NARRATIVE: python3 $REPO/scripts/echopedia-ingest-complete.py --only <id>
 ```
 
-**STATUS: COMPLETE** only if §2 A–D all checked **and** `echopedia-ingest-complete.py --only <id>` exits 0. Planner checkbox alone is not enough. `echopedia-ops-check.sh` runs the same script (🟡 WARN on PARTIAL, no new cron).
+**STATUS: COMPLETE** only if the **class bar** is checked (**§2** or **§2S**) **and** `echopedia-ingest-complete.py --only <id>` exits 0 (registry row after watch-add). Planner checkbox alone is not enough. `echopedia-ops-check.sh` runs the same script (🟡 WARN on PARTIAL, no new cron).
 
 ---
 
@@ -138,11 +209,10 @@ NARRATIVE: python3 $REPO/scripts/echopedia-ingest-complete.py --only <id>
 
 ```text
 Echopedia website <https://example.org>
-Follow echopedia/WEBSITE_INGEST.md completeness bar.
-Full domain archive + entities fact sheet + source hub + primary page
-+ dossier pages for key people/orgs + links + publish push.
-Do not stop at archive-only or single-page summary.
-Report with WEBSITE_INGEST template.
+Follow echopedia/WEBSITE_INGEST.md §0 class then that class’s bar.
+live-small: full domain archive + fact sheet + hub + primary + dossiers + publish.
+story-corpus: python3 $REPO/scripts/echopedia-story-corpus-ingest.py --source-id <id> --home <url> [--apply-works]
+Do not P9-drip. Report with WEBSITE_INGEST template (include CLASS).
 ```
 
 Short form (same meaning):
@@ -157,26 +227,27 @@ Echopedia website taiwancenter.org
 
 Until playbooks automate discovery/scrape, **planner executes** this doc.  
 Worker may be given **post-archive** steps only (P8/P3/P2 per path list).  
-Do not claim COMPLETE without §2 checklist.  
+Do not claim COMPLETE without the **class** checklist (§2 or §2S).  
 Mass writes: ingestion-protocol pitfalls **33–36** (cron-silent) before publish.
 
 ---
 
 ## 8. Delta refresh vs full ingest (source continuity)
 
-**Full ingest** (`Echopedia website <domain>`) = Gate A one-shot (this doc §2–3).  
-**Continuity** = live-small sites only, registry-driven, **Sunday 06:00** job `echopedia-source-continuity` (`no_agent`).
+**Full ingest** (`Echopedia website <domain>`) = Gate A one-shot (this doc class bar).  
+**Continuity** = registry-driven, **Sunday 06:00** job `echopedia-source-continuity` (`no_agent`). Watchable classes: **`live-small`** and **`story-corpus`** (after COMPLETE). `static-v1` only if owner watch-add (laijohn already on as live-small).
 
 | | Full WEBSITE_INGEST | Source continuity |
 |--|---------------------|-------------------|
-| When | New site / major rebuild | Weekly watch of **already ingested** live sites |
+| When | New site / major rebuild | Weekly watch of **already ingested** sites |
 | SSOT | This doc | `knowledge/operational/source-watch-registry.json` + `source-continuity.md` |
 | Cron | None (on demand) | **+1** Sunday 06:00 only |
-| AUTO | N/A (agent/planner) | Tier2 append, `last_reviewed`, clean event stubs — **never** About/History prose |
+| AUTO `live-small` | N/A | Tier2 append, `last_reviewed`, clean event stubs — **never** About/History prose |
+| AUTO `story-corpus` | N/A | Tier2 append + `last_reviewed` + **`work_stub`** — **no** `event_stub`, **never** person/About |
 | Push | `echopedia-publish.sh` | **Never** — rides **ci-heal** |
 
-**After COMPLETE live site:**  
-`go Echopedia watch add <domain>` → check → baseline → enable (no jobs.json edit).
+**After COMPLETE:**  
+`go Echopedia watch add <domain>` → check → baseline → enable (no jobs.json edit). Story-corpus: `class=story-corpus`, `auto_apply` includes `work_stub`, omit `event_stub`.
 
 **Refresh command meaning:**  
 - Prefer continuity for watched sites (automatic).  

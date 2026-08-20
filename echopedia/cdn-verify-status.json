@@ -1,13 +1,15 @@
 {
-  "at": "2026-08-19T18:07:08.873938+00:00",
-  "status": "OK",
+  "at": "2026-08-20T15:06:58.820220+00:00",
+  "status": "CDN_LAG",
   "homepage": "200",
   "total": 50,
-  "ok": 50,
-  "cdn_lag": 0,
+  "ok": 49,
+  "cdn_lag": 1,
   "missing": 0,
   "other": 0,
   "base_url": "https://echocanhelp.github.io/wiki-public",
   "missing_samples": [],
-  "lag_samples": []
+  "lag_samples": [
+    "https://echocanhelp.github.io/wiki-public/events/sc-presbyterian-church--news_pct.aspx"
+  ]
 }

@@ -1,18 +1,15 @@
 #!/usr/bin/env python3
 """
-P1 Link: Automatically link Echopedia person pages to all their works.
+P1 Link: Keep ## Works on person pages as a dossier, not a firehose.
 
-Reads the priority-hits JSONL (or any hits file), groups by columnist slug,
-and for each person page:
+Reads taiwanjustice-net priority-hits JSONL, groups by slug, and:
 
-  1. Generates a COMPLETE ## Works section with ALL articles where the person
-     appears in the TITLE (their own column articles), grouped by year.
-     (NOT just top-10 — the existing enrich_columnist_pages.py only does top-10.)
+  1. Writes a CAPPED ## Works section (last 5 years, ≤8 titles/year, counts for
+     the rest). Nightly cron must not dump 10k+ harvest hits onto a person page.
+  2. Backlinks only the listed title hits (not the whole harvest).
 
-  2. Adds wikilinks from each article back to the person page
-     ([[people/<slug>|Author Name]]) in the article's frontmatter or body.
-
-This runs as a no_agent cron job for automatic maintenance.
+Skip index pages. Do not treat body text as a title hit (no DOTALL).
+Full-corpus Chinese-name scan is --scan-bodies only (off in cron).
 
 Usage:
   python3 echopedia-person-works-linker.py --all
@@ -95,6 +92,10 @@ TAHS_MEMBER_SLUGS = [
 
 ALL_SLUGS = list(dict.fromkeys(COLUMNIST_SLUGS + ADDITIONAL_SLUGS + TAHS_MEMBER_SLUGS))
 
+MAX_YEARS = 5
+MAX_PER_YEAR = 8
+MAX_BODY = 5
+
 # Chinese name lookup for wikilinks
 SLUG_TO_CHINESE = {
     "chen-po-kong": "陳破空",
@@ -172,68 +173,66 @@ def load_hits():
     return hits
 
 
-def group_hits_by_slug(hits):
-    """Group hits by columnist slug, separating title mentions from body mentions.
+def group_hits_by_slug(hits, scan_bodies=False):
+    """Group hits by slug. Title vs body from JSONL `where` only.
 
-    For founding members (who aren't columnists), also search article bodies
-    for Chinese name mentions since they won't be in the priority-hits JSONL.
+    `--scan-bodies` is the expensive full-corpus Chinese-name walk. Cron must
+    not do that: a DOTALL title regex previously classified every body mention
+    as a title hit and blew ## Works to megabytes.
     """
     grouped = defaultdict(lambda: {"title": [], "body": []})
 
-    # 1. Process existing hits from JSONL (columnists + additional slugs)
     for hit in hits:
+        if hit.get("is_index"):
+            continue
         for match in hit.get("matches", []):
             slug = match.get("slug")
             if slug and slug in ALL_SLUGS:
                 where = match.get("where", [])
                 if "title" in where:
                     grouped[slug]["title"].append(hit)
-                if "body" in where:
+                elif "body" in where:
                     grouped[slug]["body"].append(hit)
 
-    # 2. For founding members, search article bodies for Chinese name mentions
-    #    (they won't appear in the priority-hits JSONL since they're not columnists)
+    if not scan_bodies:
+        return grouped
+
     founding_member_slugs = set(TAHS_MEMBER_SLUGS)
-    if founding_member_slugs:
-        # Build Chinese name → slug lookup
-        chinese_to_slug = {}
-        for slug in founding_member_slugs:
-            chinese_name = SLUG_TO_CHINESE.get(slug)
-            if chinese_name:
-                chinese_to_slug[chinese_name] = slug
+    chinese_to_slug = {}
+    for slug in founding_member_slugs:
+        chinese_name = SLUG_TO_CHINESE.get(slug)
+        if chinese_name:
+            chinese_to_slug[chinese_name] = slug
 
-        # Search all Taiwan Justice articles for Chinese name mentions
-        articles_dir = CONTENT_DIR / "articles" / "taiwanjustice-net"
-        if articles_dir.exists():
-            for article_file in articles_dir.rglob("*.md"):
-                try:
-                    content = article_file.read_text(encoding="utf-8")
-                    # Extract relative path for the hit structure
-                    rel_path = str(article_file.relative_to(REPO_ROOT))
-
-                    for chinese_name, slug in chinese_to_slug.items():
-                        if chinese_name in content:
-                            # Check if it's in the title (frontmatter)
-                            title_match = re.search(
-                                r'^title:\s*.*' + re.escape(chinese_name),
-                                content, re.MULTILINE | re.DOTALL
-                            )
-                            hit = {
-                                "path": rel_path,
-                                "score": 1,
-                                "matches": [{
-                                    "slug": slug,
-                                    "where": ["title"] if title_match else ["body"],
-                                    "text": chinese_name
-                                }]
-                            }
-                            if title_match:
-                                grouped[slug]["title"].append(hit)
-                            else:
-                                grouped[slug]["body"].append(hit)
-                except (OSError, UnicodeDecodeError):
+    articles_dir = CONTENT_DIR / "articles" / "taiwanjustice-net"
+    if not articles_dir.exists():
+        return grouped
+    for article_file in articles_dir.rglob("*.md"):
+        try:
+            content = article_file.read_text(encoding="utf-8")
+            rel_path = str(article_file.relative_to(REPO_ROOT))
+            title_line = ""
+            for line in content.splitlines()[:40]:
+                if line.startswith("title:"):
+                    title_line = line
+                    break
+            for chinese_name, slug in chinese_to_slug.items():
+                if chinese_name not in content:
                     continue
-
+                in_title = chinese_name in title_line
+                hit = {
+                    "path": rel_path,
+                    "score": 1,
+                    "title": title_line[6:].strip().strip('"').strip("'"),
+                    "matches": [{
+                        "slug": slug,
+                        "where": ["title"] if in_title else ["body"],
+                        "text": chinese_name,
+                    }],
+                }
+                grouped[slug]["title" if in_title else "body"].append(hit)
+        except (OSError, UnicodeDecodeError):
+            continue
     return grouped
 
 
@@ -316,84 +315,100 @@ def build_echopedia_article_link(article_path):
     return echo_path
 
 
-def generate_works_section(slug, title_articles, body_articles):
-    """Generate a complete ## Works section for a person page.
+def _year_from_path(path: str) -> str:
+    m = re.search(r"/(\d{4})/", str(path).replace("\\", "/"))
+    return m.group(1) if m else "Undated"
 
-    Includes ALL articles where the person appears in the title (their own
-    column articles), grouped by year. Also notes body-mention count.
 
-    Links point to echopedia article pages (wikilinks), not external URLs.
-    """
-    chinese_name = SLUG_TO_CHINESE.get(slug, slug)
-    total_title = len(title_articles)
-    total_body = len(body_articles)
+def _dedupe_hits(hits):
+    seen = set()
+    out = []
+    for h in hits:
+        p = h.get("path")
+        if not p or p in seen:
+            continue
+        seen.add(p)
+        out.append(h)
+    return out
 
-    lines = []
-    lines.append(f"\n## Works\n")
-    lines.append(f"**{chinese_name}** has **{total_title}** articles where they appear in the title "
-                 f"(column articles) and **{total_body}** additional articles that mention them in the body.\n")
 
-    # Group title articles by year
+def listed_title_hits(title_articles):
+    """Title hits that will appear in the capped Works list (for backlinks)."""
+    titles = _dedupe_hits(title_articles)
     by_year = defaultdict(list)
-    for article in title_articles:
-        meta = extract_article_metadata(article["path"])
-        if meta:
-            year = meta["year"] if meta["year"] else "Undated"
-            by_year[year].append(meta)
+    for article in titles:
+        by_year[_year_from_path(article.get("path", ""))].append(article)
+    years = sorted(by_year.keys(), reverse=True)[:MAX_YEARS]
+    listed = []
+    for year in years:
+        arts = sorted(by_year[year], key=lambda x: x.get("path", ""), reverse=True)
+        listed.extend(arts[:MAX_PER_YEAR])
+    return listed
 
-    # Sort years descending
-    sorted_years = sorted(by_year.keys(), reverse=True)
 
-    for year in sorted_years:
-        articles = by_year[year]
-        # Sort by date within year
-        articles.sort(key=lambda x: x["date"] if x["date"] else "0000-00-00", reverse=True)
-        lines.append(f"\n### {year} ({len(articles)} articles)\n")
-        for i, meta in enumerate(articles, 1):
-            title = meta["title"] if meta["title"] else meta["filename"]
-            date_str = meta["date"] if meta["date"] else "undated"
+def generate_works_section(slug, title_articles, body_articles):
+    """Dossier ## Works: counts + recent sample. Never dump the full harvest."""
+    chinese_name = SLUG_TO_CHINESE.get(slug, slug)
+    titles = _dedupe_hits(title_articles)
+    title_paths = {h.get("path") for h in titles}
+    bodies = [h for h in _dedupe_hits(body_articles) if h.get("path") not in title_paths]
+    total_title = len(titles)
+    total_body = len(bodies)
 
-            # Build echopedia wikilink — verify article file exists
-            echo_path = build_echopedia_article_link(meta["path"])
+    by_year = defaultdict(list)
+    for article in titles:
+        by_year[_year_from_path(article.get("path", ""))].append(article)
+    years = sorted(by_year.keys(), reverse=True)
+    shown_years = years[:MAX_YEARS]
+    omitted_n = sum(len(by_year[y]) for y in years[MAX_YEARS:])
+
+    lines = [
+        "",
+        "## Works",
+        "",
+        (
+            f"**{chinese_name}** — **{total_title}** title hits, **{total_body}** body mentions "
+            f"in the taiwanjustice.net harvest. Listed: last {MAX_YEARS} years, "
+            f"up to {MAX_PER_YEAR}/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]]."
+        ),
+        "",
+    ]
+    for year in shown_years:
+        arts = sorted(by_year[year], key=lambda x: x.get("path", ""), reverse=True)
+        listed = arts[:MAX_PER_YEAR]
+        extra = len(arts) - len(listed)
+        lines.append(f"### {year} ({len(arts)})")
+        lines.append("")
+        for i, article in enumerate(listed, 1):
+            path = article.get("path", "")
+            title = article.get("title") or Path(path).stem
+            echo_path = build_echopedia_article_link(path) if path else None
             if echo_path:
-                lines.append(f"{i}. **{date_str}** — [[{echo_path}|{title}]]")
+                lines.append(f"{i}. [[{echo_path}|{title}]]")
             else:
-                # Fallback: link to source_url if echopedia article doesn't exist
-                url = meta["source_url"] if meta["source_url"] else None
-                if url:
-                    lines.append(f"{i}. **{date_str}** — [{title}]({url})")
-                else:
-                    lines.append(f"{i}. **{date_str}** — {title}")
-
-    # Add body mentions section
-    if total_body > 0:
-        lines.append(f"\n### Body Mentions ({total_body} articles)\n")
-        lines.append(f"Articles by other authors that mention **{chinese_name}**: "
-                     f"See [[sources/taiwanjustice-net|taiwanjustice.net source hub]] for the full "
-                     f"article index. Top mentions by score:\n")
-        # Show top 5 body mentions by score
-        sorted_body = sorted(body_articles, key=lambda x: x.get("score", 0), reverse=True)[:5]
-        for i, article in enumerate(sorted_body, 1):
-            meta = extract_article_metadata(article["path"])
-            if meta:
-                title = meta["title"] if meta["title"] else meta["filename"]
-                date_str = meta["date"] if meta["date"] else "undated"
-                score = article.get("score", 0)
-
-                # Build echopedia wikilink — verify article file exists
-                echo_path = build_echopedia_article_link(meta["path"])
-                if echo_path:
-                    lines.append(f"{i}. **{date_str}** — [[{echo_path}|{title}]] (score: {score})")
-                else:
-                    # Fallback: link to source_url if echopedia article doesn't exist
-                    url = meta["source_url"] if meta["source_url"] else None
-                    if url:
-                        lines.append(f"{i}. **{date_str}** — [{title}]({url}) (score: {score})")
-                    else:
-                        lines.append(f"{i}. **{date_str}** — {title} (score: {score})")
-
-    lines.append("")
-    return "\n".join(lines)
+                lines.append(f"{i}. {title}")
+        if extra:
+            lines.append(f"- … {extra} more this year")
+        lines.append("")
+    if omitted_n:
+        lines.append(f"Earlier years: **{omitted_n}** additional title hits (not listed).")
+        lines.append("")
+    if total_body:
+        lines.append(f"### Body mentions ({total_body})")
+        lines.append("")
+        lines.append("See the source hub. Top mentions:")
+        lines.append("")
+        top = sorted(bodies, key=lambda x: x.get("score", 0), reverse=True)[:MAX_BODY]
+        for i, article in enumerate(top, 1):
+            path = article.get("path", "")
+            title = article.get("title") or Path(path).stem
+            echo_path = build_echopedia_article_link(path) if path else None
+            if echo_path:
+                lines.append(f"{i}. [[{echo_path}|{title}]]")
+            else:
+                lines.append(f"{i}. {title}")
+        lines.append("")
+    return "\n".join(lines) + "\n"
 
 
 def add_works_to_person_page(slug, title_articles, body_articles, dry_run=False):
@@ -406,36 +421,27 @@ def add_works_to_person_page(slug, title_articles, body_articles, dry_run=False)
     with open(page_path, "r", encoding="utf-8") as f:
         content = f.read()
 
-    # Check if ## Works section already exists
-    works_pattern = r"\n## Works\n"
-    if re.search(works_pattern, content):
-        # Replace existing Works section
-        # Find the section from "## Works" to the next "## " header or end of file
-        works_match = re.search(r"\n## Works\n(.*?)(?=\n## |\Z)", content, re.DOTALL)
-        if works_match:
-            new_section = generate_works_section(slug, title_articles, body_articles)
-            content = content[:works_match.start()] + new_section + content[works_match.end():]
-        else:
-            # Can't find the section boundary, just replace the header
-            new_section = generate_works_section(slug, title_articles, body_articles)
-            content = re.sub(works_pattern, new_section, content)
+    new_section = generate_works_section(slug, title_articles, body_articles)
+    works_match = re.search(r"\n## Works\n(.*?)(?=\n## |\Z)", content, re.DOTALL)
+    if works_match:
+        old = works_match.group(0).strip()
+        if old == new_section.strip():
+            return False
+        content = content[:works_match.start()] + "\n" + new_section.lstrip("\n") + content[works_match.end():]
     else:
-        # Insert before "## Source Notes" or "## Related Pages" or at end
-        new_section = generate_works_section(slug, title_articles, body_articles)
-
         if "## Source Notes" in content:
-            content = content.replace("## Source Notes", new_section + "\n## Source Notes")
+            content = content.replace("## Source Notes", new_section.lstrip("\n") + "\n## Source Notes", 1)
         elif "## Related Pages" in content:
-            content = content.replace("## Related Pages", new_section + "\n## Related Pages")
+            content = content.replace("## Related Pages", new_section.lstrip("\n") + "\n## Related Pages", 1)
         else:
             content = content.rstrip() + "\n" + new_section
 
-    # Update last_reviewed date
     today = datetime.now().strftime("%Y-%m-%d")
     content = re.sub(
         r"last_reviewed: \d{4}-\d{2}-\d{2}",
         f"last_reviewed: {today}",
-        content
+        content,
+        count=1,
     )
 
     if dry_run:
@@ -445,7 +451,7 @@ def add_works_to_person_page(slug, title_articles, body_articles, dry_run=False)
     with open(page_path, "w", encoding="utf-8") as f:
         f.write(content)
 
-    print(f"  DONE: {slug} — {len(title_articles)} title articles, {len(body_articles)} body mentions")
+    print(f"  DONE: {slug} — {len(_dedupe_hits(title_articles))} title / {len(_dedupe_hits(body_articles))} body (capped list)")
     return True
 
 
@@ -510,9 +516,8 @@ def process_columnist(slug, grouped_hits, dry_run=False):
     # Update person page with Works section
     page_updated = add_works_to_person_page(slug, title_articles, body_articles, dry_run)
 
-    # Link articles back to person page (title articles only — these are the person's own columns)
     articles_linked = 0
-    for article in title_articles:
+    for article in listed_title_hits(title_articles):
         if add_person_link_to_article(article["path"], slug, dry_run):
             articles_linked += 1
 
@@ -557,6 +562,8 @@ def main():
     parser.add_argument("--dry-run", action="store_true", help="Don't write changes")
     parser.add_argument("--list-slugs", action="store_true", help="List all columnist slugs")
     parser.add_argument("--verify", action="store_true", help="Verify existing person pages for external links")
+    parser.add_argument("--scan-bodies", action="store_true",
+                        help="Expensive full-corpus Chinese-name walk (off in cron)")
     args = parser.parse_args()
 
     if args.list_slugs:
@@ -605,7 +612,7 @@ def main():
     print(f"  Loaded {len(hits)} hits")
 
     print(f"Grouping hits by slug...")
-    grouped = group_hits_by_slug(hits)
+    grouped = group_hits_by_slug(hits, scan_bodies=args.scan_bodies)
     print(f"  Found hits for {len(grouped)} slugs")
 
     results = []

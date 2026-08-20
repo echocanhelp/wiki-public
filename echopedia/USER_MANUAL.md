@@ -49,15 +49,16 @@ Vault: `/home/leedt/echo-system` · Live: https://echocanhelp.github.io/wiki-pub
 ## Quick start (first time)
 
 1. **Read this file** — it defines how to assign work.
-2. **Say** `Echopedia website <domain>` — full pipeline: archive → absorb → publish.
+2. **Say** `Echopedia website <domain>` — classify then absorb (church graph **or** story index, not always every HTML).
 3. **Review the morning brief** at ~**07:55** local (System group) — only **🔴 NEED YOU** lines need you. Digest ~07:20 is optional health skim.
 
 **Command decision tree:**
 
 ```
 Do you have a…
-├── Domain (website)? → “Echopedia website <domain>"
-├── PDF (yearbook, publication)? → "Echopedia publication <name>"
+├── Domain (website)? → Echopedia website <domain>  (class auto)
+├── One URL onto an existing page? → Echopedia cite <url> on <slug>
+├── PDF (yearbook, publication)? → Echopedia publication <name>
 ├── Page to feature? → "Echopedia feature <name>"
 ├── Site layout issue? → "Echopedia site design"
 ├── Something broken? → Check SYSTEM_STATUS.md → pick a playbook
@@ -203,19 +204,21 @@ Look at the **janitor queue** (depth is in SYSTEM_STATUS.md). Typical first task
 
 | You say | System must do |
 |---------|----------------|
-| **`Echopedia website <domain>`** | **Full-domain** archive + **absorb into wiki graph** + publish push — see **[WEBSITE_INGEST.md](WEBSITE_INGEST.md)** completeness bar |
+| **`Echopedia website <domain>`** | Classify then **that class’s bar** — [WEBSITE_INGEST.md](WEBSITE_INGEST.md) §0. Church/org = graph. **Story magazine** = full vault + **work page per A/B/C unit** (hub-only = PARTIAL) |
 | `Echopedia publication <name>` | Multi-entity publication ingest (yearbook, 菁英錄-style) — see **[PUBLICATION_INGEST.md](PUBLICATION_INGEST.md)** |
+| **`Echopedia cite <url> on <slug>`** | One social-short / story unit onto an **existing** page (P8). No new person from IG |
 | `Echopedia feature <name>` | Pin/unpin a page to homepage Featured section — see [Featured section docs](#featured-section) |
 | `Echopedia refresh <url/site>` | Full website bar for new/unwatched sites; **watched live sites** use Sunday continuity (delta) automatically |
 | `Echopedia full-domain archive <site>` | Synonym of **website** (not archive-only) |
 | `Echopedia <site>` / `Echopedia <name>` | Prefer full **website** pipeline if a domain; else entity refresh + publish push |
-| **`Echopedia watch add <domain>`** | After WEBSITE_INGEST COMPLETE: registry + baseline + enable — [source-continuity.md](../knowledge/operational/source-continuity.md) |
+| **`Echopedia watch add <domain>`** | After COMPLETE: registry + baseline + enable. Magazines: `--class story-corpus` (work_stub, no event_stub) — [source-continuity.md](../knowledge/operational/source-continuity.md) |
 | `Echopedia watch remove/pause/status` | Soft-remove / disable / list watched live sites (no cron redesign) |
 | **`go identity link\|defer\|not-member\|clear-pending <slug>`** | Identity close-loop (EVO-3) — [identity-close-loop.md](../knowledge/operational/identity-close-loop.md) |
 
-**“Website” completeness (not optional):**  
-Tier2 MANIFEST for whole domain → **entities/facts sheet** → `content/sources/` hub → rich primary page → **dossier pages / links for valuable people & orgs** (thin only for mass stubs) → hygiene → **publish push**.  
-Stopping after archives or a single summary page = **PARTIAL**, not done.
+**“Website” completeness (not optional):** follow **class** in WEBSITE_INGEST §0.  
+`live-small`: Tier2 MANIFEST for whole domain → fact sheet → hub → About prose → dossiers → publish.  
+`story-corpus`: **full vault** + `units.jsonl` + org dossier + **work page per A/B/C unit** + people dossiers when identity solid. Index-only = PARTIAL.  
+Stopping after archives or a thin hub = **PARTIAL**. Publishing D-band chrome or copyrighted **bodies** = wrong.
 
 **Override only if you explicitly say otherwise:**
 

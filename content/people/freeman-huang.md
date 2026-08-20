@@ -38,18 +38,18 @@ Public wiki pages must **not** include private LINE IDs or non-public contact de
 
 ## Works
 
-**freeman-huang** has **0** articles where they appear in the title (column articles) and **9** additional articles that mention them in the body.
+**freeman-huang** — **0** title hits, **9** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
+### Body mentions (9)
 
-### Body Mentions (9 articles)
+See the source hub. Top mentions:
 
-Articles by other authors that mention **freeman-huang**: See [[sources/taiwanjustice-net|taiwanjustice.net source hub]] for the full article index. Top mentions by score:
+1. [[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74|台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元]]
+2. [[articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3|旅美五十周年 ◎ 鄭炳全]]
+3. [[articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16|旅美五十周年 ◎ 鄭炳全]]
+4. [[articles/taiwanjustice-net/2022/20220127025846_2022_01_10_圓滿的100-慶賀葉思雅_張信惠_週末漫談音樂_專_a1be6b822ac7cdcd|圓滿的100- 慶賀葉思雅、張信惠「週末漫談音樂」專欄里程碑]]
+5. [[articles/taiwanjustice-net/2024/20240425080646_root_9a39a754d2a3b236|我的人生︰一個堅持和無數的巧合 ◎吳澧培/吳澧培回憶錄前言 10-12-2015]]
 
-1. **2025-09-05** — [[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74|台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元]] (score: 555)
-2. **2020-09-04** — [[articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3|旅美五十周年 ◎ 鄭炳全]] (score: 395)
-3. **2020-09-04** — [[articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16|旅美五十周年 ◎ 鄭炳全]] (score: 395)
-4. **2022-01-10** — [[articles/taiwanjustice-net/2022/20220127025846_2022_01_10_圓滿的100-慶賀葉思雅_張信惠_週末漫談音樂_專_a1be6b822ac7cdcd|圓滿的100- 慶賀葉思雅、張信惠「週末漫談音樂」專欄里程碑]] (score: 380)
-5. **2015-10-12** — [[articles/taiwanjustice-net/2024/20240425080646_root_9a39a754d2a3b236|我的人生︰一個堅持和無數的巧合 ◎吳澧培/吳澧培回憶錄前言 10-12-2015]] (score: 285)
 
 ## Timeline
 

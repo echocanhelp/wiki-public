@@ -80,13 +80,12 @@ Primary architect and maintainer of Echopedia, the community knowledge base for 
 
 ## Works
 
-**許景鴻** has **2** articles where they appear in the title (column articles) and **0** additional articles that mention them in the body.
+**許景鴻** — **1** title hits, **0** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
+### 2025 (1)
 
-### 2025 (2 articles)
+1. [[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74|台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元]]
 
-1. **2025-09-05** — [[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74|台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元]]
-2. **2025-09-05** — [[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74|台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元]]
 
 ## Timeline
 

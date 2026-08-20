@@ -44,14 +44,14 @@ This page is an **A-tier thin record** for graph linking and member-priority sco
 
 ## Works
 
-**gene-tsai** has **0** articles where they appear in the title (column articles) and **1** additional articles that mention them in the body.
+**gene-tsai** — **0** title hits, **1** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
+### Body mentions (1)
 
-### Body Mentions (1 articles)
+See the source hub. Top mentions:
 
-Articles by other authors that mention **gene-tsai**: See [[sources/taiwanjustice-net|taiwanjustice.net source hub]] for the full article index. Top mentions by score:
+1. [[articles/taiwanjustice-net/2023/20230601053743_2023_03_20_台美人歷史協會3-25舉辦_如何寫回憶錄自傳座談會_e0c8343cf2888d43|台美人歷史協會3/25舉辦「如何寫回憶錄(自傳)座談會」]]
 
-1. **2023-03-20** — [[articles/taiwanjustice-net/2023/20230601053743_2023_03_20_台美人歷史協會3-25舉辦_如何寫回憶錄自傳座談會_e0c8343cf2888d43|台美人歷史協會3/25舉辦「如何寫回憶錄(自傳)座談會」]] (score: 195)
 
 ## Timeline
 

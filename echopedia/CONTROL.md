@@ -26,7 +26,7 @@ Bare messages without `go` on this system are treated the same as `go <message>`
 |------------|-----------------|
 | status / healthy / broken / docs | health (SYSTEM_STATUS, docs-sync) |
 | person/org + fact / source | Echopedia P8 — **Ornith/LAN worker** if this chat is Grok (`WORKER.md` token split) |
-| website / domain | WEBSITE_INGEST |
+| website / domain | WEBSITE_INGEST (**class** live-small vs story-corpus) |
 | cron / nightly / job | cron SSOT + docs-sync |
 | publish / ship | P2 / ci-heal |
 | build / plan / epic | plan + kanban |
@@ -114,7 +114,7 @@ Use the **highest** surface that can do the job. Never jump to freestyle edits w
 5. New fact about a person/org →  
    `Echopedia <name> <fact>` (implies P8 → verify → publish path per USER_MANUAL).  
 6. New website domain →  
-   `Echopedia website <domain>` (full WEBSITE_INGEST bar, not Tier2-only).  
+   `Echopedia website <domain>` (WEBSITE_INGEST **class bar**, not Tier2-only; magazines ≠ every-HTML).  
 
 Tag SSOT: `knowledge/operational/cron-notify-labels.md`. Cron schedule SSOT: pinto `jobs.json` (not this essay).
 

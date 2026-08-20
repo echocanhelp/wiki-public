@@ -42,23 +42,23 @@ Top 4 articles from taiwanjustice.net mentioning richard-d-fisher:
 
 ## Works
 
-**費學禮** has **2** articles where they appear in the title (column articles) and **2** additional articles that mention them in the body.
+**費學禮** — **2** title hits, **2** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
+### 2025 (1)
 
-### 2020 (1 articles)
+1. [[articles/taiwanjustice-net/2025/20250425155555_戰略火砲的及時回歸-_費學禮_richard-d-fisher-jr-_c4d8b26293607cca|戰略火砲的及時回歸 ◎費學禮（Richard D. Fisher, Jr.）]]
 
-1. **2020-03-15** — [[articles/taiwanjustice-net/2025/20250425155555_戰略火砲的及時回歸-_費學禮_richard-d-fisher-jr-_c4d8b26293607cca|戰略火砲的及時回歸 ◎費學禮（Richard D. Fisher, Jr.）]]
+### 2024 (1)
 
-### 2019 (1 articles)
+1. [[articles/taiwanjustice-net/2024/20240725005235_root_7f15b38e799d4267|台灣確保空優的不對稱與對稱戰力選項 ◎費學禮]]
 
-1. **2019-11-02** — [[articles/taiwanjustice-net/2024/20240725005235_root_7f15b38e799d4267|台灣確保空優的不對稱與對稱戰力選項 ◎費學禮]]
+### Body mentions (2)
 
-### Body Mentions (2 articles)
+See the source hub. Top mentions:
 
-Articles by other authors that mention **費學禮**: See [[sources/taiwanjustice-net|taiwanjustice.net source hub]] for the full article index. Top mentions by score:
+1. [[articles/taiwanjustice-net/2021/20211212130710_2021_12_11_90443dc51fdfb3b0|Daily Archives: December 11, 2021]]
+2. [[articles/taiwanjustice-net/2025/20250617073241_中國首艘自製航母入列_目標是造十五艘_1c6dd391765ef67a|中國首艘自製航母入列，目標是造十五艘？]]
 
-1. **2021-12-11** — [[articles/taiwanjustice-net/2021/20211212130710_2021_12_11_90443dc51fdfb3b0|'Daily Archives: December 11, 2021']] (score: 680)
-2. **2019-12-17** — [[articles/taiwanjustice-net/2025/20250617073241_中國首艘自製航母入列_目標是造十五艘_1c6dd391765ef67a|中國首艘自製航母入列，目標是造十五艘？]] (score: 40)
 
 ## Source Notes
 

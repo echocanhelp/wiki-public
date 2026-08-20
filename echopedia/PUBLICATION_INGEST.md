@@ -454,4 +454,4 @@ wc -c <output-path>     # reject if under depth floor for section size
 
 ---
 
-*Related: large-document-ingestion (PDF chunking) · WEBSITE_INGEST (domain archive) · USER_MANUAL (command language) · echopedia-ingestion-protocol (general workflow) · depth audit example: `knowledge/research/2017-tahs-publication-depth-audit.md`*
+*Related: large-document-ingestion · WEBSITE_INGEST §0 (`publication` class) · USER_MANUAL · echopedia-ingestion-protocol · 2017-tahs depth audit*

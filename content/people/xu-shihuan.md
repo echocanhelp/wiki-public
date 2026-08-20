@@ -16,14 +16,14 @@ Former provisional slug: `xu-shihuan`.
 
 ## Works
 
-**xu-shihuan** has **0** articles where they appear in the title (column articles) and **1** additional articles that mention them in the body.
+**xu-shihuan** — **0** title hits, **1** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
+### Body mentions (1)
 
-### Body Mentions (1 articles)
+See the source hub. Top mentions:
 
-Articles by other authors that mention **xu-shihuan**: See [[sources/taiwanjustice-net|taiwanjustice.net source hub]] for the full article index. Top mentions by score:
+1. [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|抗議 南加州台大校友會邀管中閔來年會做專題演講 ◎國立台灣大學校友 2018-07-19]]
 
-1. **2018-07-20** — [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|抗議 南加州台大校友會邀管中閔來年會做專題演講 ◎國立台灣大學校友 2018-07-19]] (score: 230)
 
 ## Quotes
 

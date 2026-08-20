@@ -278,32 +278,29 @@ He passed away in 2017. A memorial tribute was written by 楊嘉猷 (Charles Yan
 
 ## Works
 
-**liao-shu-zong** has **4** articles where they appear in the title (column articles) and **3** additional articles that mention them in the body.
+**liao-shu-zong** — **4** title hits, **3** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
+### 2025 (2)
 
-### 2021 (1 articles)
+1. [[articles/taiwanjustice-net/2025/20251108180838_榮獲廖述宗教授紀念獎_罷韓四君子_是肯定每個_d2e6e5b19ab4b452|榮獲廖述宗教授紀念獎，罷韓四君子：是肯定每個夥伴]]
+2. [[articles/taiwanjustice-net/2025/20250328063830_2020年第6屆_natpa-廖述宗教授紀念獎_接受推薦_c74aa78d01af7084|2020年第6屆「NATPA 廖述宗教授紀念獎」接受推薦]]
 
-1. **2021-04-20** — [[articles/taiwanjustice-net/2025/20251108180838_榮獲廖述宗教授紀念獎_罷韓四君子_是肯定每個_d2e6e5b19ab4b452|榮獲廖述宗教授紀念獎，罷韓四君子：是肯定每個夥伴]]
+### 2024 (1)
 
-### 2020 (1 articles)
+1. [[articles/taiwanjustice-net/2024/20240528135924_root_357eb029de9402e8|2015年第一屆「NATPA 廖述宗教授紀念獎」記者會 ◎台灣公義網攝錄]]
 
-1. **2020-02-08** — [[articles/taiwanjustice-net/2025/20250328063830_2020年第6屆_natpa-廖述宗教授紀念獎_接受推薦_c74aa78d01af7084|2020年第6屆「NATPA 廖述宗教授紀念獎」接受推薦]]
+### 2023 (1)
 
-### 2018 (1 articles)
+1. [[articles/taiwanjustice-net/2023/20230130104507_2018_08_06_獲廖述宗紀念獎肯定-林昶佐_繼續全力以赴打拚-_9e34883dc9bc8948|獲廖述宗紀念獎肯定 林昶佐：繼續全力以赴打拚 ◎中央社 2018-08-06]]
 
-1. **2018-08-06** — [[articles/taiwanjustice-net/2023/20230130104507_2018_08_06_獲廖述宗紀念獎肯定-林昶佐_繼續全力以赴打拚-_9e34883dc9bc8948|獲廖述宗紀念獎肯定 林昶佐：繼續全力以赴打拚 ◎中央社 2018-08-06]]
+### Body mentions (3)
 
-### 2015 (1 articles)
+See the source hub. Top mentions:
 
-1. **2015-03-07** — [[articles/taiwanjustice-net/2024/20240528135924_root_357eb029de9402e8|2015年第一屆「NATPA 廖述宗教授紀念獎」記者會 ◎台灣公義網攝錄]]
+1. [[articles/taiwanjustice-net/2022/20220927144814_2022_06_27_唐山打人事件顯示中國已淪為_蠅國_-余杰_982bb72dd4fe3353|唐山打人事件顯示中國已淪為「蠅國」◎ 余杰]]
+2. [[articles/taiwanjustice-net/2024/20240619172639_root_9c55093535c7aca4|唐山打人事件顯示中國已淪為「蠅國」◎ 余杰]]
+3. [[articles/taiwanjustice-net/2025/20250213033003_唐山打人事件顯示中國已淪為_蠅國_-余杰_ae7f270f52c6cf8f|唐山打人事件顯示中國已淪為「蠅國」◎ 余杰]]
 
-### Body Mentions (3 articles)
-
-Articles by other authors that mention **liao-shu-zong**: See [[sources/taiwanjustice-net|taiwanjustice.net source hub]] for the full article index. Top mentions by score:
-
-1. **2022-06-27** — [[articles/taiwanjustice-net/2022/20220927144814_2022_06_27_唐山打人事件顯示中國已淪為_蠅國_-余杰_982bb72dd4fe3353|唐山打人事件顯示中國已淪為「蠅國」◎ 余杰]] (score: 175)
-2. **2022-06-27** — [[articles/taiwanjustice-net/2024/20240619172639_root_9c55093535c7aca4|唐山打人事件顯示中國已淪為「蠅國」◎ 余杰]] (score: 175)
-3. **2022-06-27** — [[articles/taiwanjustice-net/2025/20250213033003_唐山打人事件顯示中國已淪為_蠅國_-余杰_ae7f270f52c6cf8f|唐山打人事件顯示中國已淪為「蠅國」◎ 余杰]] (score: 175)
 
 ## Timeline
 

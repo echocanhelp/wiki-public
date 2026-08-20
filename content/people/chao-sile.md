@@ -33,21 +33,19 @@ Top 3 articles from taiwanjustice.net mentioning chao-sile:
 
 ## Works
 
-**朝思樂** has **4** articles where they appear in the title (column articles) and **1** additional articles that mention them in the body.
+**朝思樂** — **2** title hits, **1** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
+### 2017 (2)
 
-### 2017 (4 articles)
+1. [[articles/taiwanjustice-net/2017/20171220122636_2017_11_30_她們_就是我們-趙思樂_她們的征途_上-_-余_cf3667da25193e54|「她們」就是我們—趙思樂《她們的征途》(上)  ◎ 余杰 /民報 2017-11-27]]
+2. [[articles/taiwanjustice-net/2017/20171220120615_2017_11_30_她們_就是我們-趙思樂_她們的征途_下-_-余_19b3e57bf212babd|「她們」就是我們—趙思樂《她們的征途》(下) ◎ 余杰/ 民報 2017-11-28]]
 
-1. **2017-11-30** — [[articles/taiwanjustice-net/2017/20171220122636_2017_11_30_她們_就是我們-趙思樂_她們的征途_上-_-余_cf3667da25193e54|「她們」就是我們—趙思樂《她們的征途》(上)  ◎ 余杰 /民報 2017-11-27]]
-2. **2017-11-30** — [[articles/taiwanjustice-net/2017/20171220120615_2017_11_30_她們_就是我們-趙思樂_她們的征途_下-_-余_19b3e57bf212babd|「她們」就是我們—趙思樂《她們的征途》(下) ◎ 余杰/ 民報 2017-11-28]]
-3. **2017-11-30** — [[articles/taiwanjustice-net/2017/20171220120615_2017_11_30_她們_就是我們-趙思樂_她們的征途_下-_-余_19b3e57bf212babd|「她們」就是我們—趙思樂《她們的征途》(下) ◎ 余杰/ 民報 2017-11-28]]
-4. **2017-11-30** — [[articles/taiwanjustice-net/2017/20171220122636_2017_11_30_她們_就是我們-趙思樂_她們的征途_上-_-余_cf3667da25193e54|「她們」就是我們—趙思樂《她們的征途》(上)  ◎ 余杰 /民報 2017-11-27]]
+### Body mentions (1)
 
-### Body Mentions (1 articles)
+See the source hub. Top mentions:
 
-Articles by other authors that mention **朝思樂**: See [[sources/taiwanjustice-net|taiwanjustice.net source hub]] for the full article index. Top mentions by score:
+1. [[articles/taiwanjustice-net/2023/20230922214344_2023_06_06_作家指控飯桌性騷擾-上報董事長王健壯_不予置評_a8958513b49b024e|作家指控飯桌性騷擾 上報董事長王健壯：不予置評]]
 
-1. **2023-06-06** — [[articles/taiwanjustice-net/2023/20230922214344_2023_06_06_作家指控飯桌性騷擾-上報董事長王健壯_不予置評_a8958513b49b024e|作家指控飯桌性騷擾 上報董事長王健壯：不予置評]] (score: 40)
 
 ## Timeline
 

@@ -48,67 +48,24 @@ Top 8 articles from taiwanjustice.net mentioning nanfang-shuo:
 
 ## Works
 
-**南方朔** has **23** articles where they appear in the title (column articles) and **4** additional articles that mention them in the body.
+**南方朔** — **4** title hits, **4** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
+### 2024 (4)
 
-### Undated (1 articles)
+1. [[articles/taiwanjustice-net/2024/20240724235325_root_5cd1258f59d0251c|他們為甚麼不自殺？ ◎南方朔 / 民報 08-15-2014]]
+2. [[articles/taiwanjustice-net/2024/20240719125045_root_32c4204ea4c13f44|馬英九的新外號是 [馬惠帝] ! ◎南方朔/2012-5-14]]
+3. [[articles/taiwanjustice-net/2024/20240713171008_root_d42005bf379d04c4|擋住民粹！荷、法、德將是民主的功臣 ◎南方朔/民報 2017-03-24]]
+4. [[articles/taiwanjustice-net/2024/20240619173250_root_bae9a02a5a98b67c|立法院對兩岸政策出現大反彈！◎南方朔 01-13-2014]]
 
-1. **undated** — [[articles/taiwanjustice-net/2024/20240616082309_root_b06407961c998198|馬惠帝]]
+### Body mentions (4)
 
-### 2023 (1 articles)
+See the source hub. Top mentions:
 
-1. **2023-08-12** — [[articles/taiwanjustice-net/2024/20240719130745_root_c122ab4d6dc8d2cf|2012大選]]
+1. [[articles/taiwanjustice-net/2024/20240719130745_root_c122ab4d6dc8d2cf|2012大選]]
+2. [[articles/taiwanjustice-net/2024/20240425071604_root_7dc2555b77fd028d|專欄]]
+3. [[articles/taiwanjustice-net/2024/20240520020609_root_49bbba86f2299b6d|兩岸關係]]
+4. [[articles/taiwanjustice-net/2024/20240616082309_root_b06407961c998198|馬惠帝]]
 
-### 2022 (1 articles)
-
-1. **2022-03-25** — [[articles/taiwanjustice-net/2023/20230205145143_tag_通俄門_c7f967103505dadd|'Tag: 通俄門']]
-
-### 2020 (3 articles)
-
-1. **2020-09-22** — [[articles/taiwanjustice-net/2024/20240614151623_root_e5d1bf19ab2b6a79|'Tag: 貪腐']]
-2. **2020-09-10** — [[articles/taiwanjustice-net/2024/20240719110625_root_547a5200798520ea|'Tag: ECFA']]
-3. **2020-06-27** — [[articles/taiwanjustice-net/2023/20230130120943_tag_祭旗_f31c37e04120cd07|'Tag: 祭旗']]
-
-### 2018 (2 articles)
-
-1. **2018-07-28** — [[articles/taiwanjustice-net/2024/20240522233237_root_f450be5a3e50a6a2|'Tag: 希臘']]
-2. **2018-05-11** — [[articles/taiwanjustice-net/2024/20240520020609_root_49bbba86f2299b6d|兩岸關係]]
-
-### 2017 (4 articles)
-
-1. **2017-11-18** — [[articles/taiwanjustice-net/2023/20230930222913_tag_權力鬥爭_929893e3ad3f43c3|'Tag: 權力鬥爭']]
-2. **2017-03-31** — [[articles/taiwanjustice-net/2023/20230601063913_tag_旅遊_6eecd7773e76c4c0|'Tag: 旅遊']]
-3. **2017-03-24** — [[articles/taiwanjustice-net/2024/20240713171008_root_d42005bf379d04c4|擋住民粹！荷、法、德將是民主的功臣 ◎南方朔/民報 2017-03-24]]
-4. **2017-03-24** — [[articles/taiwanjustice-net/2024/20240713171008_root_d42005bf379d04c4|擋住民粹！荷、法、德將是民主的功臣 ◎南方朔/民報 2017-03-24]]
-
-### 2016 (1 articles)
-
-1. **2016-06-14** — [[articles/taiwanjustice-net/2017/20171206054042_category_taiwan-news_election2012_993d1744c7629fdf|2012大選]]
-
-### 2014 (7 articles)
-
-1. **2014-11-22** — [[articles/taiwanjustice-net/2024/20240721112503_root_eeea5230474918c3|'Tag: 馬英九親中']]
-2. **2014-08-15** — [[articles/taiwanjustice-net/2024/20240724235325_root_5cd1258f59d0251c|他們為甚麼不自殺？ ◎南方朔 / 民報 08-15-2014]]
-3. **2014-08-15** — [[articles/taiwanjustice-net/2024/20240724235325_root_5cd1258f59d0251c|他們為甚麼不自殺？ ◎南方朔 / 民報 08-15-2014]]
-4. **2014-08-02** — [[articles/taiwanjustice-net/2024/20240725001513_root_78d205643fd84845|'Tag: 貪腐']]
-5. **2014-05-02** — [[articles/taiwanjustice-net/2024/20240425071604_root_7dc2555b77fd028d|專欄]]
-6. **2014-01-13** — [[articles/taiwanjustice-net/2024/20240619173250_root_bae9a02a5a98b67c|立法院對兩岸政策出現大反彈！◎南方朔 01-13-2014]]
-7. **2014-01-13** — [[articles/taiwanjustice-net/2024/20240619173250_root_bae9a02a5a98b67c|立法院對兩岸政策出現大反彈！◎南方朔 01-13-2014]]
-
-### 2012 (3 articles)
-
-1. **2012-12-18** — [[articles/taiwanjustice-net/2024/20240619163451_root_3a2213e25f3b946d|'Tag: 2012年台灣總統選舉']]
-2. **2012-05-14** — [[articles/taiwanjustice-net/2024/20240719125045_root_32c4204ea4c13f44|馬英九的新外號是 [馬惠帝] ! ◎南方朔/2012-5-14]]
-3. **2012-05-14** — [[articles/taiwanjustice-net/2024/20240719125045_root_32c4204ea4c13f44|馬英九的新外號是 [馬惠帝] ! ◎南方朔/2012-5-14]]
-
-### Body Mentions (4 articles)
-
-Articles by other authors that mention **南方朔**: See [[sources/taiwanjustice-net|taiwanjustice.net source hub]] for the full article index. Top mentions by score:
-
-1. **2023-08-12** — [[articles/taiwanjustice-net/2024/20240719130745_root_c122ab4d6dc8d2cf|2012大選]] (score: 800)
-2. **2014-05-02** — [[articles/taiwanjustice-net/2024/20240425071604_root_7dc2555b77fd028d|專欄]] (score: 720)
-3. **2018-05-11** — [[articles/taiwanjustice-net/2024/20240520020609_root_49bbba86f2299b6d|兩岸關係]] (score: 720)
-4. **undated** — [[articles/taiwanjustice-net/2024/20240616082309_root_b06407961c998198|馬惠帝]] (score: 720)
 
 ## Timeline
 

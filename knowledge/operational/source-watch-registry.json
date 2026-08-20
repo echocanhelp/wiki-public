@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-18",
+  "updated": "2026-08-20",
   "global_auto_allowlist": [
     "tier2_append",
     "last_reviewed",
@@ -185,6 +185,37 @@
       ],
       "notes": "User 2026-08-18: watch. Static HTTP archive. Seeds = official Who + TOC only. AUTO never About/History. Never 本土信徒 firehose or 史話 bodies.",
       "added": "2026-08-18",
+      "removed": null
+    },
+    {
+      "id": "taiwaneseamerican-org",
+      "enabled": false,
+      "class": "story-corpus",
+      "display_name": "TaiwaneseAmerican.org",
+      "home_url": "https://www.taiwaneseamerican.org/",
+      "sitemap_urls": [],
+      "seed_urls": [
+        "https://www.taiwaneseamerican.org/"
+      ],
+      "url_include_regex": null,
+      "url_exclude_regex": "wp-admin|cart|login",
+      "event_path_regex": null,
+      "max_urls_per_poll": 20,
+      "cadence_days": 7,
+      "tier2_glob": "knowledge/web-archives/taiwaneseamerican-org*.md",
+      "manifest": "knowledge/web-archives/taiwaneseamerican-org-MANIFEST.json",
+      "source_hub": "content/sources/taiwaneseamerican-org.md",
+      "primary_pages": [
+        "content/organizations/taiwaneseamerican-org.md"
+      ],
+      "entities_sheet": "knowledge/research/taiwaneseamerican-org-entities.md",
+      "auto_apply": [
+        "tier2_append",
+        "last_reviewed",
+        "work_stub"
+      ],
+      "notes": "story-corpus: REST recent posts + work_stub; never event_stub/people",
+      "added": "2026-08-20",
       "removed": null
     }
   ],

@@ -1,0 +1,42 @@
+{
+  "$id": "echopedia/schemas/source-unit.schema.json",
+  "title": "Echopedia source receive unit",
+  "description": "One JSONL line per story/post/cite. Vault index. SSOT: WEBSITE_INGEST.md §0.",
+  "type": "object",
+  "required": [
+    "class",
+    "source_id",
+    "unit_id",
+    "url",
+    "title",
+    "date",
+    "license",
+    "absorb"
+  ],
+  "additionalProperties": true,
+  "properties": {
+    "class": {
+      "type": "string",
+      "enum": ["live-small", "static-v1", "story-corpus", "publication", "social-short"]
+    },
+    "source_id": { "type": "string", "minLength": 1 },
+    "unit_id": { "type": "string", "minLength": 1 },
+    "url": { "type": "string", "minLength": 8 },
+    "title": { "type": "string" },
+    "date": { "type": "string" },
+    "byline": { "type": "string" },
+    "subjects": { "type": "array", "items": { "type": "string" } },
+    "categories": { "type": "array", "items": { "type": "string" } },
+    "genre": { "type": "string" },
+    "value_band": { "type": "string", "enum": ["A", "B", "C", "D"] },
+    "excerpt": { "type": "string" },
+    "license": {
+      "type": "string",
+      "enum": ["all-rights", "fair-cite", "cc"]
+    },
+    "absorb": {
+      "type": "string",
+      "enum": ["work-page", "cite-existing", "dossier-new", "hub-list-only", "skip"]
+    }
+  }
+}

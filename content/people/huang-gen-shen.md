@@ -41,32 +41,24 @@ last_reviewed: 2026-08-20
 
 ## Works
 
-**黃根深** has **7** articles where they appear in the title (column articles) and **3** additional articles that mention them in the body.
+**黃根深** — **2** title hits, **3** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
+### 2024 (1)
 
-### 2020 (2 articles)
+1. [[articles/taiwanjustice-net/2024/20240719003614_root_36738f1d5cef98e1|Taiwanese are Taiwanese-Please sign the petition for Census US – 2020 ◎黃根深(Ken]]
 
-1. **2020-09-04** — [[articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16|旅美五十周年 ◎ 鄭炳全]]
-2. **2020-09-04** — [[articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3|旅美五十周年 ◎ 鄭炳全]]
+### 2017 (1)
 
-### 2017 (2 articles)
+1. [[articles/taiwanjustice-net/2017/20171220125053_2017_11_29_全美台灣人權協會年會暨鄭南榕紀念獎_王康陸人_c4d413fd5efb8a9c|全美台灣人權協會年會暨鄭南榕紀念獎、王康陸人權獎頒獎典禮 12/09 聖地牙哥舉行(得獎人鄭文龍、王泰和、黃根深)]]
 
-1. **2017-11-29** — [[articles/taiwanjustice-net/2017/20171220125053_2017_11_29_全美台灣人權協會年會暨鄭南榕紀念獎_王康陸人_c4d413fd5efb8a9c|全美台灣人權協會年會暨鄭南榕紀念獎、王康陸人權獎頒獎典禮 12/09 聖地牙哥舉行(得獎人鄭文龍、王泰和、黃根深)]]
-2. **2017-11-29** — [[articles/taiwanjustice-net/2017/20171220125053_2017_11_29_全美台灣人權協會年會暨鄭南榕紀念獎_王康陸人_c4d413fd5efb8a9c|全美台灣人權協會年會暨鄭南榕紀念獎、王康陸人權獎頒獎典禮 12/09 聖地牙哥舉行(得獎人鄭文龍、王泰和、黃根深)]]
+### Body mentions (3)
 
-### 2016 (3 articles)
+See the source hub. Top mentions:
 
-1. **2016-06-14** — [[articles/taiwanjustice-net/2024/20240719003614_root_36738f1d5cef98e1|Taiwanese are Taiwanese-Please sign the petition for Census US – 2020 ◎黃根深(Ken]]
-2. **2016-06-14** — [[articles/taiwanjustice-net/2024/20240719003614_root_36738f1d5cef98e1|Taiwanese are Taiwanese-Please sign the petition for Census US – 2020 ◎黃根深(Ken]]
-3. **2016-05-17** — [[articles/taiwanjustice-net/2024/20240520023218_root_89e6683c93156205|台美人台加人]]
+1. [[articles/taiwanjustice-net/2024/20240520023218_root_89e6683c93156205|台美人台加人]]
+2. [[articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3|旅美五十周年 ◎ 鄭炳全]]
+3. [[articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16|旅美五十周年 ◎ 鄭炳全]]
 
-### Body Mentions (3 articles)
-
-Articles by other authors that mention **黃根深**: See [[sources/taiwanjustice-net|taiwanjustice.net source hub]] for the full article index. Top mentions by score:
-
-1. **2016-05-17** — [[articles/taiwanjustice-net/2024/20240520023218_root_89e6683c93156205|台美人台加人]] (score: 760)
-2. **2020-09-04** — [[articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3|旅美五十周年 ◎ 鄭炳全]] (score: 395)
-3. **2020-09-04** — [[articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16|旅美五十周年 ◎ 鄭炳全]] (score: 395)
 
 ## Timeline
 

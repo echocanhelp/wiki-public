@@ -100,22 +100,22 @@ A business card shared during onboarding identifies Ken Wu (吳兆峯) as Secret
 
 ## Works
 
-**ken-wu** has **1** articles where they appear in the title (column articles) and **28** additional articles that mention them in the body.
+**ken-wu** — **1** title hits, **28** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
+### 2024 (1)
 
-### 2019 (1 articles)
+1. [[articles/taiwanjustice-net/2024/20240520031837_root_1cfb902d3288728c|FAPA洛杉磯分會長吳兆峯提7疑點：合理懷疑彭文正國際記者會不存在]]
 
-1. **2019-10-19** — [[articles/taiwanjustice-net/2024/20240520031837_root_1cfb902d3288728c|FAPA洛杉磯分會長吳兆峯提7疑點：合理懷疑彭文正國際記者會不存在]]
+### Body mentions (28)
 
-### Body Mentions (28 articles)
+See the source hub. Top mentions:
 
-Articles by other authors that mention **ken-wu**: See [[sources/taiwanjustice-net|taiwanjustice.net source hub]] for the full article index. Top mentions by score:
+1. [[articles/taiwanjustice-net/2024/20240421184918_root_9a66943e68f1e0ef|台美人台加人]]
+2. [[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66|2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2日舉行]]
+3. [[articles/taiwanjustice-net/2025/20250320212940_大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念_c62f5c50846fe267|大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念大會]]
+4. [[articles/taiwanjustice-net/2020/20201118162555_2018_06_27_大洛杉磯台灣會館會訊_2018-年六月-_大洛杉磯台灣_79291dad808ef7f7|大洛杉磯台灣會館會訊，2018 年六月 ◎大洛杉磯台灣會館 2018-06-27]]
+5. [[articles/taiwanjustice-net/2020/20201126160218_2020_11_17_大洛杉磯台灣會館基金會22週年線上募款年會12-5舉行_c3e762826a7e42d2|大洛杉磯台灣會館基金會22週年線上募款年會12/5舉行]]
 
-1. **2021-11-13** — [[articles/taiwanjustice-net/2024/20240421184918_root_9a66943e68f1e0ef|台美人台加人]] (score: 785)
-2. **2024-10-04** — [[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66|2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2日舉行]] (score: 690)
-3. **2025-02-24** — [[articles/taiwanjustice-net/2025/20250320212940_大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念_c62f5c50846fe267|大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念大會]] (score: 435)
-4. **2018-06-27** — [[articles/taiwanjustice-net/2020/20201118162555_2018_06_27_大洛杉磯台灣會館會訊_2018-年六月-_大洛杉磯台灣_79291dad808ef7f7|大洛杉磯台灣會館會訊，2018 年六月 ◎大洛杉磯台灣會館 2018-06-27]] (score: 415)
-5. **2020-11-17** — [[articles/taiwanjustice-net/2020/20201126160218_2020_11_17_大洛杉磯台灣會館基金會22週年線上募款年會12-5舉行_c3e762826a7e42d2|大洛杉磯台灣會館基金會22週年線上募款年會12/5舉行]] (score: 320)
 
 ## Timeline
 

@@ -25,14 +25,14 @@ Willy Pan is recognized as a member of the Taiwanese American historical and com
 
 ## Works
 
-**willy-pan** has **0** articles where they appear in the title (column articles) and **1** additional articles that mention them in the body.
+**willy-pan** — **0** title hits, **1** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
+### Body mentions (1)
 
-### Body Mentions (1 articles)
+See the source hub. Top mentions:
 
-Articles by other authors that mention **willy-pan**: See [[sources/taiwanjustice-net|taiwanjustice.net source hub]] for the full article index. Top mentions by score:
+1. [[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66|2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2日舉行]]
 
-1. **2024-10-04** — [[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66|2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2日舉行]] (score: 690)
 
 ## Timeline
 

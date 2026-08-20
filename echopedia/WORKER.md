@@ -203,6 +203,8 @@ Found two relevant mechanisms:
 | P13 | Site design | Layout issues | 1. Read site-design-brief.md 2. Run audit 3. Propose fixes (incl. root index.html copy from quartz build, Pages build type migration) 4. Report |
 | **P14** | **Person-to-work linking** | **Ensure person pages list all works + articles link back** | **1. Run `echopedia-person-works-linker.py --all` 2. Verify ## Works section on sample page 3. Verify backlinks in sample articles 4. Commit** |
 
+**Story-corpus (magazines):** do **not** P9-drip 2k pages. Parent: `python3 $REPO/scripts/echopedia-story-corpus-ingest.py --source-id <id> --home <url> [--apply-works]`. Watch-add: `site add --class story-corpus` (work_stub, no event_stub).
+
 ### P8 — Edit page content (content update)
 
 **When:** You have new facts from a named source that need to be applied to an existing wiki page.

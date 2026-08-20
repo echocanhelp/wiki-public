@@ -3,20 +3,16 @@
 =====================================================
 
 🔴 NEED YOU (your judgment only)
-🔴 NEED YOU  1. Echopedia miss: “228”
-     → Confirm identity / approve thin page / or dismiss
-🔴 NEED YOU  2. Echopedia miss: “the 228 incident”
-     → Confirm identity / approve thin page / or dismiss
-🔴 NEED YOU  3. Echopedia miss: “Stone Chen”
-     → Confirm identity / approve thin page / or dismiss
-🔴 NEED YOU  4. Echopedia miss: “台羅”
-     → Confirm identity / approve thin page / or dismiss
-🔴 NEED YOU  5. Echopedia miss: “Tâi-lô”
+🔴 NEED YOU  1. Echopedia miss: “Stone Chen”
      → Confirm identity / approve thin page / or dismiss
 
 🟡 QUEUE / identity (soft — no reply required)
 🟡 QUEUE Becky Yang: soft pending aged out: chinese_name
 🟡 QUEUE Charles Yang: soft pending aged out: capture_line_user_id_on_first_sender_message
+
+🟡 SOURCE CONTINUITY (live sites)
+✅ AUTO  good-shepherd-taiwanese-presbyterian-church: +0 new / 1 changed; applied 3
+✅ AUTO  presbyterian-church-in-taiwan: +2 new / 0 changed; applied 4
 
 🟡 NEXT INGEST (≤2, advisory — not started)
 🟡 QUEUE taiwaneseamericanhistory.org — external host on 5306 Tier1 pages; not watched

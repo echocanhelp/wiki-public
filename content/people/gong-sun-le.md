@@ -59,60 +59,30 @@ Top 10 articles from taiwanjustice.net mentioning gong-sun-le:
 
 ## Works
 
-**公孫樂** has **18** articles where they appear in the title (column articles) and **7** additional articles that mention them in the body.
+**公孫樂** — **3** title hits, **7** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
+### 2025 (1)
 
-### Undated (1 articles)
+1. [[articles/taiwanjustice-net/2025/20250328160746_228談蔣廟-_公孫樂_1e5bf49bc8bd0c0c|228談蔣廟 ◎公孫樂]]
 
-1. **undated** — [[articles/taiwanjustice-net/2017/20171109043633_category_ma-caca_6bdf7f09c4448e37|動畫 | Taiwan Justice | 台灣公義網]]
+### 2024 (1)
 
-### 2024 (5 articles)
+1. [[articles/taiwanjustice-net/2024/20240522045307_root_3655a0839ab49215|「大破」卻無「大立」的川普總統 ◎公孫樂 2017-10-19]]
 
-1. **2024-05-29** — [[articles/taiwanjustice-net/2025/20250617205127_一場獲滿堂彩的文化交流-以立合唱團為美國中學生_9412105875987041|一場獲滿堂彩的文化交流-以立合唱團為美國中學生介紹台灣並演唱「天烏烏」]]
-2. **2024-05-29** — [[articles/taiwanjustice-net/2024/20240622135632_root_54dd66fe454bf899|一場獲滿堂彩的文化交流-以立合唱團為美國中學生介紹台灣並演唱「天烏烏」]]
-3. **2024-04-22** — [[articles/taiwanjustice-net/2024/20240425074107_root_e17b36baffe6fe32|我的肥皂箱]]
-4. **2024-03-01** — [[articles/taiwanjustice-net/2025/20250328160746_228談蔣廟-_公孫樂_1e5bf49bc8bd0c0c|228談蔣廟 ◎公孫樂]]
-5. **2024-03-01** — [[articles/taiwanjustice-net/2025/20250328160746_228談蔣廟-_公孫樂_1e5bf49bc8bd0c0c|228談蔣廟 ◎公孫樂]]
+### 2018 (1)
 
-### 2021 (1 articles)
+1. [[articles/taiwanjustice-net/2018/20180804202559_2015_07_04_國難當頭_馬英九_你知羞不知羞_動畫-_公孫_3a34460cd3cc60c3|國難當頭，馬英九，你知羞不知羞？(+動畫) ◎公孫樂 07-04-2015]]
 
-1. **2021-01-13** — [[articles/taiwanjustice-net/2024/20240221103614_root_e3c7f5e6fe545ddd|我的肥皂箱]]
+### Body mentions (7)
 
-### 2020 (1 articles)
+See the source hub. Top mentions:
 
-1. **2020-04-25** — [[articles/taiwanjustice-net/2025/20250614200906_週末漫談音樂-13_音樂與電影-_le-bonheur_幸福_44cfc51f91c8d846|【週末漫談音樂 (13)】音樂與電影 – 「Le Bonheur（幸福）」◎信雅]]
+1. [[articles/taiwanjustice-net/2024/20240425074107_root_e17b36baffe6fe32|我的肥皂箱]]
+2. [[articles/taiwanjustice-net/2023/20230326050802_author_josephc_page_12603_269d7b2877b6dec4|admin]]
+3. [[articles/taiwanjustice-net/2023/20231201230105_root_613509a10916014b|動畫]]
+4. [[articles/taiwanjustice-net/2024/20240221103614_root_e3c7f5e6fe545ddd|我的肥皂箱]]
+5. [[articles/taiwanjustice-net/2024/20240622135632_root_54dd66fe454bf899|一場獲滿堂彩的文化交流-以立合唱團為美國中學生介紹台灣並演唱「天烏烏」]]
 
-### 2018 (1 articles)
-
-1. **2018-07-28** — [[articles/taiwanjustice-net/2024/20240522233237_root_f450be5a3e50a6a2|'Tag: 希臘']]
-
-### 2017 (2 articles)
-
-1. **2017-10-19** — [[articles/taiwanjustice-net/2024/20240522045307_root_3655a0839ab49215|「大破」卻無「大立」的川普總統 ◎公孫樂 2017-10-19]]
-2. **2017-10-19** — [[articles/taiwanjustice-net/2024/20240522045307_root_3655a0839ab49215|「大破」卻無「大立」的川普總統 ◎公孫樂 2017-10-19]]
-
-### 2015 (5 articles)
-
-1. **2015-10-08** — [[articles/taiwanjustice-net/2023/20231201230105_root_613509a10916014b|動畫]]
-2. **2015-10-08** — [[articles/taiwanjustice-net/2020/20200621232249_category_ma-caca_page_2_34996af49209fc78|動畫]]
-3. **2015-10-08** — [[articles/taiwanjustice-net/2020/20200627141248_category_ma-caca_page_3_c013e4e6a032b0ed|動畫]]
-4. **2015-07-04** — [[articles/taiwanjustice-net/2018/20180804202559_2015_07_04_國難當頭_馬英九_你知羞不知羞_動畫-_公孫_3a34460cd3cc60c3|國難當頭，馬英九，你知羞不知羞？(+動畫) ◎公孫樂 07-04-2015]]
-5. **2015-07-04** — [[articles/taiwanjustice-net/2018/20180804202559_2015_07_04_國難當頭_馬英九_你知羞不知羞_動畫-_公孫_3a34460cd3cc60c3|國難當頭，馬英九，你知羞不知羞？(+動畫) ◎公孫樂 07-04-2015]]
-
-### 2012 (2 articles)
-
-1. **2012-06-29** — [[articles/taiwanjustice-net/2022/20220813063055_tag_習近平_page_79_abc359acbdee12e0|'Tag: 習近平']]
-2. **2012-05-10** — [[articles/taiwanjustice-net/2023/20230326050802_author_josephc_page_12603_269d7b2877b6dec4|admin]]
-
-### Body Mentions (7 articles)
-
-Articles by other authors that mention **公孫樂**: See [[sources/taiwanjustice-net|taiwanjustice.net source hub]] for the full article index. Top mentions by score:
-
-1. **2024-04-22** — [[articles/taiwanjustice-net/2024/20240425074107_root_e17b36baffe6fe32|我的肥皂箱]] (score: 740)
-2. **2012-05-10** — [[articles/taiwanjustice-net/2023/20230326050802_author_josephc_page_12603_269d7b2877b6dec4|admin]] (score: 700)
-3. **2015-10-08** — [[articles/taiwanjustice-net/2023/20231201230105_root_613509a10916014b|動畫]] (score: 700)
-4. **2021-01-13** — [[articles/taiwanjustice-net/2024/20240221103614_root_e3c7f5e6fe545ddd|我的肥皂箱]] (score: 700)
-5. **2024-05-29** — [[articles/taiwanjustice-net/2024/20240622135632_root_54dd66fe454bf899|一場獲滿堂彩的文化交流-以立合唱團為美國中學生介紹台灣並演唱「天烏烏」]] (score: 145)
 
 ## Timeline
 

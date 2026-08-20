@@ -51,12 +51,15 @@ echo-system/
 │   ├── people/
 │   ├── organizations/
 │   ├── sources/              # works: dissertations, books (link + full-text GitHub)
+│   ├── articles/             # vault firehose (Quartz ignored)
+│   ├── works/                # published historical works (story-corpus A/B/C)
+│   ├── events/
 │   ├── media/
 │   └── .wiki-index.md
 ├── knowledge/                # Tier 2 — private / raw / work product
 │   ├── interactions/         # LINE community auto-capture (default private)
 │   ├── web-archives/         # org site scrapes / raw web / PDF extracts
-│   ├── research/             # fact sheets, analyzers (*-facts.md = data not procedures)
+│   ├── research/             # fact sheets; <source-id>/units.jsonl (story receive, gitignored)
 │   ├── staging/              # drafts toward content/
 │   └── operational/          # community projects (incl. audiobook ops)
 ├── audiobook-albert-lai/     # community knowledge project (local vault; gitignored from public)

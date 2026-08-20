@@ -52,9 +52,13 @@ def history_blob(primary: Path) -> str:
     return "\n".join(parts)
 
 
+WATCHABLE_CLASSES = {"live-small", "story-corpus"}
+
+
 def check_site(site: dict) -> list[str]:
     issues: list[str] = []
     sid = site.get("id", "?")
+    cls = site.get("class") or "live-small"
     primaries = [REPO / p for p in site.get("primary_pages") or []]
     sheet = site.get("entities_sheet")
     glob_pat = site.get("tier2_glob") or ""
@@ -64,6 +68,20 @@ def check_site(site: dict) -> list[str]:
     if not live_primary:
         issues.append(f"{sid}: no primary page on disk")
         return issues
+    if cls == "story-corpus":
+        units = REPO / "knowledge/research" / sid / "units.jsonl"
+        if not units.is_file():
+            issues.append(f"{sid}: story-corpus missing {units.relative_to(REPO)}")
+        hub = site.get("source_hub")
+        if hub and not (REPO / hub).is_file():
+            issues.append(f"{sid}: missing source hub {hub}")
+        auto = site.get("auto_apply") or []
+        if "event_stub" in auto:
+            issues.append(f"{sid}: story-corpus must not auto_apply event_stub")
+        works_dir = REPO / "content" / "works" / sid
+        n_works = len(list(works_dir.glob("*.md"))) if works_dir.is_dir() else 0
+        if units.is_file() and n_works == 0:
+            issues.append(f"{sid}: units indexed but no content/works/{sid} pages")
     intros = intro_archives(glob_pat) if glob_pat else []
     if not intros:
         return issues  # no intro corpus → skip narrative gate
