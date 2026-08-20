@@ -43,7 +43,7 @@ sources:
 
 ## TAHS / Echo System Membership Assignment
 
-- Membership Class: Member
+- Membership Class: Member — listed under TAHS Echo System / digital leadership (owner-appointed, 2026-08-20); not reclassified as officer
 - Functional Title: **Director of Echo System Engineering**
 - System permissions: **Full** (owner-directed)
 - Appointing Authority: Leonard Hsu Jr. (TAHS President / Echo System owner)
@@ -136,3 +136,4 @@ _(Optional — paste a short first-person intro anytime via LINE @Echo許.)_
 - 2026-07-26: Added Chinese name 許思敦 (思敦), family relationships (father Henry Hsu 許景恒, grandfather Teng-Lung Hsu M.D.) from family memo pad.
 - 2026-07-26: Owner-verified as TAHS/community member and Director of Echo System Engineering with full system permissions; `verification_status` → `owner_verified`; added membership, verification, consent sections.
 - 2026-07-26: Corrected family relationships — Henry Hsu is Leonard Hsu Jr.'s cousin (not father); Ashton is Henry's son, making him Leonard's first cousin once removed. Teng-Lung Hsu M.D. is Henry's father, not Leonard's grandfather.
+|- 2026-08-20: Owner confirmed public TAHS leadership listing under Echo System / digital leadership (owner-appointed, Telegram Echopedia). Functional title Director of Echo System Engineering; TAHS membership class unchanged (Member).

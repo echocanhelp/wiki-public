@@ -50,6 +50,15 @@ Notes:
 - **財務** on chart is [[people/phoenix-ko|Phoenix Ko / 柯貝昀]] — not Charles Yang.
 - Charles Yang is **創會會長** on this chart (also historically founding president). Franklin Ping Cheng (程炳成) served as president ~2014–2017.
 
+## Echo System / digital leadership (owner-appointed)
+
+Not on the 2025 paper org chart. Owner-confirmed for public leadership listing (Telegram Echopedia, 2026-08-20).
+
+| Role | Person |
+|------|--------|
+| Chief Technology Officer (CTO) | [[people/david-lee|David Lee (李東璞)]] |
+| Director of Echo System Engineering | [[people/ashton-hsu|Ashton Hsu (許思敦)]] |
+
 ## Related archives
 - [[organizations/tah-foundation|TAH Foundation (台美史料中心)]] — sibling organization; runs [taiwaneseamericanhistory.org](https://taiwaneseamericanhistory.org/). Not TAHS and not the 2017/2023 TAHS yearbooks.
 - [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org source hub]]
@@ -58,5 +67,7 @@ Notes:
 - [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]]
 - [[people/yang-jia-you|Charles Yang (楊嘉猷)]]
 - [[people/freeman-huang|Freeman Huang (黃樹人)]]
+- [[people/david-lee|David Lee (李東璞)]]
+- [[people/ashton-hsu|Ashton Hsu (許思敦)]]
 - [[sources/taiwanjustice-net|taiwanjustice.net archive]]
 - [[people|People Index]]

@@ -7,6 +7,7 @@ tags:
   - onboarding
   - cybersecurity
   - scouting
+  - tahs-leadership
   - AI-governance
 verification_status: pending
 status: draft
@@ -29,9 +30,9 @@ sources:
 
 ## TAHS Membership Assignment
 
-- Membership Class: Officer (pending confirmation)
+- Membership Class: Officer (owner-confirmed public leadership listing, 2026-08-20)
 - Functional Title: Chief Technology Officer (CTO)
-- Effective Date: pending confirmation
+- Effective Date: 2026-08-20 (owner-confirmed public leadership listing)
 - Appointing Authority: Leonard Hsu Jr.
 - Appointment Basis: owner-directed LINE onboarding
 - Term: Not specified
@@ -218,3 +219,4 @@ Pages that link to **李東璞** (david-lee):
 - 2026-07-21: Full Experience timeline transcribed from two member screenshots (Light & Wonder → GIA → Ingram Micro → Broadcom). Education not on screenshots.
 - 2026-07-21: Added scouting leadership — Pack 214 Committee Chairman (2021); Pack 1776 Cubmaster (2022–2023); Troop 1776 Assistant Scoutmaster (2023–present).
 - 2026-07-21: Added full professional bio narrative (VP IS / Deputy CISO at Light & Wonder; AI governance & MCP gateway; 20+ year arc Broadcom → Ingram Micro → GIA → L&W).
+|- 2026-08-20: Owner confirmed public TAHS leadership listing — CTO (owner-appointed Echo System leadership, Telegram Echopedia). Functional title confirmed; scope of day-to-day TAHS tech ownership still pending member self-description.

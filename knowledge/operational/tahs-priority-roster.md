@@ -33,6 +33,8 @@ Source of truth: paper org chart 台美人歷史協會組織表 2025 + owner han
 | Freeman Huang | 黃樹人 | freeman-huang | **秘書長** (Secretary-general); LINE: "黄樹人"; tj.net publisher |
 | Eric Shen | 沈梓在 | tzetsai-eric-shen | 資訊; LINE: "Tzetsai Eric Shen"; chart handwrite "Eric Shen" |
 | Sunu Tsai | 蔡淑女 | sunu-tsai | 總務; LINE: "Sunu Tsai"; slug was cai-shunyu |
+| David Lee | 李東璞 | david-lee | **CTO** — owner-appointed Echo System / digital leadership (not on 2025 paper chart; owner 2026-08-20); LINE: "David Lee (Work)" |
+| Ashton Hsu | 許思敦 | ashton-hsu | **Director of Echo System Engineering** — owner-appointed (not on 2025 paper chart; owner 2026-08-20); TAHS membership class Member; LINE: "ashton hsu" |
 
 ## L1 — LINE group members (matched 2026-08-03)
 
