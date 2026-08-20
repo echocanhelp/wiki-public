@@ -56,11 +56,11 @@ Sources:
 | Yi Sen Lee | 李意盛 | yi-sen-lee | Yi Lee | 2025 特別助理; = chart 李意盛 (handwrite Yi-Sen Lee) |
 | Charles Yang | 楊嘉猷 | yang-jia-you | *(mention: Chia you)* | 創會會長 (not 財務) |
 | Becky Yang | *(pending ZH)* | becky-yang | Becky Yang | spouse of Charles Yang; ZH pending |
-| David Lee | 李東璞 | david-lee | David Lee (Work) | preferred EN without "(Work)" |
+| David Lee | 李東璞 | david-lee | David Lee (Work) | **CTO** (owner-appointed; not 2025 paper chart); preferred EN without "(Work)" |
 | Ken Wu | 吳兆峯 | ken-wu | Ken Wu | subtitle on LINE: 吳兆峯; Taiwan Center / FAPA-LA |
 | Linda Liu | 劉玲華 | linda-liu | Linda | preferred full name; handwritten on 2025 chart near 顧問 |
 | Rex Chen | 陳乃光 | rex-chen | Rex Chen | owner-verified ZH |
-| Ashton Hsu | 許思敦 | ashton-hsu | ashton hsu | title-case preferred; Echo System Engineering |
+| Ashton Hsu | 許思敦 | ashton-hsu | ashton hsu | title-case preferred; **Director of Echo System Engineering** (owner-appointed; not 2025 paper chart) |
 | Albert S. Lai | 賴信雄 | albert-s-lai | 賴信雄 Albert Lai | preferred "Albert S. Lai" |
 | Phoenix Ko | 柯貝昀 | phoenix-ko | Phoenix Ko | 2025 **財務**; chart 柯貝昀 |
 | Kevin Lee | *(pending ZH)* | kevin-lee | Kevin Lee | ZH pending; distinct from David Lee |

@@ -9,6 +9,7 @@ tags:
   - New York
   - Brooklyn
   - engineering-leadership
+  - tahs-leadership
 verification_status: owner_verified
 status: published
 last_reviewed: 2026-07-26
