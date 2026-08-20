@@ -22,8 +22,24 @@ last_reviewed: 2026-08-20
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Summary
-TaiwaneseAmerican.org’s Ho Chie Tsai briefly interviews author Julie Wu about her latest novel, The Third Son, which is set during martial-law era Taiwan. In 2013, it was an Oprah.com featured favorite, and this year, the paperback version is now available. Julie shares her inspiration behind The Third Son and how culture, heritage, and history influences […]
+## Article
+Cited from the original ([source](https://www.taiwaneseamerican.org/2014/06/author-julie-wu-discusses-her-novel-the-third-son/)). Echopedia holds this as community historical record.
+
+TaiwaneseAmerican.org’s Ho Chie Tsai briefly interviews author Julie Wu about her latest novel, The Third Son, which is set during martial-law era Taiwan. In 2013, it was an Oprah.com featured favorite, and this year, the paperback version is now available.
+
+Julie shares her inspiration behind The Third Son and how culture, heritage, and history influences her work. Segments of this video feature Julie Wu speaking on a panel moderated by TaiwaneseAmerican.org’s Kristina Lin at the North America Taiwanese Women’s Association national conference.
+
+TaiwaneseAmerican.org is pleased to give away the newly released paperback novel to two of our followers on Facebook! To enter, simply Like our Page, then find the relevant post dated 6/23/14, and Like/Comment on that post to enter! We’ll randomly select a winner by the end of June.
+
+Visit:
+
+http://juliewuauthor.com/
+
+http://www.oprah.com/book/The-Third-Son
+
+Check out TaiwaneseAmerican.org’s 2013 interview:
+
+http://www.taiwaneseamerican.org/2013/04/23/julie-wu-the-third-son/
 
 ## Timeline
 - 2014-06-30 — published

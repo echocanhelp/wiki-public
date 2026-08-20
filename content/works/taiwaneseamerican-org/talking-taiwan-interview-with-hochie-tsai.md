@@ -22,8 +22,14 @@ last_reviewed: 2026-08-20
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Summary
-Talking Taiwan is an audio magazine (podcast) about interesting people who are connected to Taiwan and what they are doing. Hosted by author Felicia Lin, TalkingTaiwan seeks to introduce you to the interesting and diverse individuals who make up Taiwan’s global community – in Taiwan, the US, and around the world. TaiwaneseAmerican.org’s founder, Ho Chie […]
+## Article
+Cited from the original ([source](https://www.taiwaneseamerican.org/2013/09/talking-taiwan-interview-with-hochie-tsai/)). Echopedia holds this as community historical record.
+
+Talking Taiwan is an audio magazine (podcast) about interesting people who are connected to Taiwan and what they are doing.
+
+Hosted by author Felicia Lin, TalkingTaiwan seeks to introduce you to the interesting and diverse individuals who make up Taiwan’s global community – in Taiwan, the US, and around the world.
+
+TaiwaneseAmerican.org’s founder, Ho Chie Tsai, was recently interviewed by Felicia. Listen to the full interview here (26 min): https://talkingtaiwan.com/tt025-ho-chie-tsai/
 
 ## Timeline
 - 2013-09-20 — published

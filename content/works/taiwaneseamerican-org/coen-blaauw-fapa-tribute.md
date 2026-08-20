@@ -22,7 +22,9 @@ last_reviewed: 2026-08-20
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Summary
+## Article
+Cited from the original ([source](https://www.taiwaneseamerican.org/2024/05/coen-blaauw-fapa-tribute/)). Echopedia holds this as community historical record.
+
 Reposted with permission from the Formosan Association for Public Affairs (FAPA)
 
 ## Timeline

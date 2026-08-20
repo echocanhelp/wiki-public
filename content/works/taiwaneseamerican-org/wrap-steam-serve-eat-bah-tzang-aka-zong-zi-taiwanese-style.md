@@ -22,8 +22,14 @@ last_reviewed: 2026-08-20
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Summary
-Join TaiwaneseAmerican.org’s Atlanta-based staff, Grace and Liz, as they visit with Taiwanese American Professionals – San Francisco / Bay area members during a bah-tzang (zong-zi) making workshop! Can these 2nd generation folks with little experience in this culinary art form be taught how to make one of our most popular and favorite Taiwanese foods? Watch […]
+## Article
+Cited from the original ([source](https://www.taiwaneseamerican.org/2009/11/wrap-steam-serve-eat-bah-tzang-aka-zong-zi-taiwanese-style/)). Echopedia holds this as community historical record.
+
+Join TaiwaneseAmerican.org’s Atlanta-based staff, Grace and Liz, as they visit with Taiwanese American Professionals – San Francisco / Bay area members during a bah-tzang (zong-zi) making workshop! Can these 2nd generation folks with little experience in this culinary art form be taught how to make one of our most popular and favorite Taiwanese foods? Watch the video and find out!
+
+The bah-tzang is a delicious traditional Taiwanese (and Chinese) comfort food made with sticky rice and meat wrapped in bamboo leaves, which imparts a unique flavor as it is steamed to perfection! The process is as simple as “wrap, steam, serve!” A recipe is included in the video, too!
+
+TaiwaneseAmerican.org bah-tzang/zong-zi t-shirts featured in the video are available online! Just click on the Store link above! Proceeds are used to support other fine cultural and educational projects.
 
 ## Timeline
 - 2009-11-14 — published

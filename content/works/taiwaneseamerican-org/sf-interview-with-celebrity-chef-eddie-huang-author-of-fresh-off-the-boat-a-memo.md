@@ -22,8 +22,20 @@ last_reviewed: 2026-08-20
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Summary
-Date: Monday, February 4, 2013 Time: 6pm – 7pm Location: Omnivore Bookstore Address: 3885a Cesar Chavez Street (at Church Street), San Francisco, CA Interviewed by Adam Mansbach, author of Go the ∗uck To Sleep Eddie Huang is the thirty-year-old proprietor of Baohaus—the hot East Village hangout where foodies, stoners, and students come to stuff their […]
+## Article
+Cited from the original ([source](https://www.taiwaneseamerican.org/2013/02/sf-interview-with-celebrity-chef-eddie-huang-author-of-fresh-off-the-boat-a-memoir/)). Echopedia holds this as community historical record.
+
+Date: Monday, February 4, 2013
+
+Time: 6pm – 7pm
+
+Location: Omnivore Bookstore
+
+Address: 3885a Cesar Chavez Street (at Church Street), San Francisco, CA
+
+Interviewed by Adam Mansbach, author of Go the ∗uck To Sleep
+
+Eddie Huang is the thirty-year-old proprietor of Baohaus—the hot East Village hangout where foodies, stoners, and students come to stuff their faces with delicious Taiwanese street food late into the night—and one of the food world’s brightest and most controversial young stars. But before he created the perfect home for himself in a small patch of downtown New York, Eddie wandered the American wilderness looking for a place to call his own.
 
 ## Timeline
 - 2013-02-04 — published

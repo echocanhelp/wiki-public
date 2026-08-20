@@ -22,8 +22,10 @@ last_reviewed: 2026-08-20
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Summary
-Through the month of May, share this post link through Facebook or Twitter and include the hashtags #APAHM #taiwanlove to help spread the pride! Asian Pacific American Heritage Month is celebrated nationwide during the month of May to honor the cultures, traditions, and achievements of Asian Pacific Islanders in the United States. In June of […]
+## Article
+Cited from the original ([source](https://www.taiwaneseamerican.org/2015/05/celebrate-tahw/)). Echopedia holds this as community historical record.
+
+_PARTIAL: A-band article body not captured. This is not ingest._
 
 ## Timeline
 - 2015-05-03 — published

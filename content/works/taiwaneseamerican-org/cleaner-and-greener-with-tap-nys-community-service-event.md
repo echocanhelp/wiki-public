@@ -22,8 +22,24 @@ last_reviewed: 2026-08-20
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Summary
-Date: Saturday, April 16, 2011 Time: 8:30am – 2:00pm Location: We will meet at the New York Cares Office Address: 214 W. 29th St., New York, NY Facebook event page: http://www.facebook.com/event.php?eid=201981789835758 Taiwanese American Professionals – New York (TAP – NY) will be participating in the New York Cares Hands On New York Day on Saturday […]
+## Article
+Cited from the original ([source](https://www.taiwaneseamerican.org/2011/04/cleaner-and-greener-with-tap-nys-community-service-event/)). Echopedia holds this as community historical record.
+
+Date: Saturday, April 16, 2011
+
+Time: 8:30am – 2:00pm
+
+Location: We will meet at the New York Cares Office
+
+Address: 214 W. 29th St., New York, NY
+
+Facebook event page: http://www.facebook.com/event.php?eid=201981789835758
+
+Taiwanese American Professionals – New York (TAP – NY) will be participating in the New York Cares Hands On New York Day on Saturday April 16th. It is a community service project to help make the parks in New York cleaner and greener. Volunteers will rake and clean debris, plant, mulch, paint fences and benches, and more. Please note NY Cares has a fee of $20 to participate, but you get transportation and a shirt.
+
+If you are interested, please sign up here by Thurs April 7th: http://www.handsonnewyorkday.org/faf/search/searchTeamPart.asp?ievent=463658&team=4107907
+
+If you have any questions, please contact: Jennifer @ jenn.lin@tap-ny.org
 
 ## Timeline
 - 2011-04-16 — published

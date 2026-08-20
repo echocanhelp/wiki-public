@@ -22,8 +22,14 @@ last_reviewed: 2026-08-20
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Summary
-HoChie Tsai, creator of TaiwaneseAmerican.org, takes a whirlwind weekend tour through Hollywood and Los Angeles and squeezes in visits with several emerging celebrities and leaders within the Taiwanese American community! TaiwaneseAmerican.org in Hollywood & LA, 2009 from Taiwanese American on Vimeo. TaiwaneseAmerican.org in Hollywood & LA, 2009 from Taiwanese American on Vimeo.
+## Article
+Cited from the original ([source](https://www.taiwaneseamerican.org/2009/06/taiwaneseamerican-org-in-hollywood-la-2009/)). Echopedia holds this as community historical record.
+
+HoChie Tsai, creator of TaiwaneseAmerican.org, takes a whirlwind weekend tour through Hollywood and Los Angeles and squeezes in visits with several emerging celebrities and leaders within the Taiwanese American community!
+
+TaiwaneseAmerican.org in Hollywood & LA, 2009 from Taiwanese American on Vimeo.
+
+TaiwaneseAmerican.org in Hollywood & LA, 2009 from Taiwanese American on Vimeo.
 
 ## Timeline
 - 2009-06-23 — published

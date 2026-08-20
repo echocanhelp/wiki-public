@@ -227,8 +227,8 @@ Do **not** say “archive” when you want it on Echopedia. Legacy phrase `Echop
 
 **“Website” completeness (not optional):** follow **class** in WEBSITE_INGEST §0.  
 `live-small`: Tier2 MANIFEST for whole domain → fact sheet → hub → About prose → dossiers → publish.  
-`story-corpus`: **full vault** + `units.jsonl` + org dossier + **work page per A/B/C** + **A-band dossier-lite** (`thicken-work-a`) + homepage **Stories** + **P2**. Bib-only A-band or unpublished = PARTIAL.  
-Stopping after archives or a thin hub = **PARTIAL**. Publishing D-band chrome or copyrighted **bodies** = wrong.
+`story-corpus`: vault + works A/B/C + **A-band full article** (`thicken-work-a`) + Stories + **P2**. Truncated teaser or unpublished = PARTIAL. C fiction stays bib.  
+Stopping after archives, a thin hub, or a **truncated teaser** = **PARTIAL**. Do not publish D-band chrome. C-band fiction **bodies** stay vault-only.
 
 **Override only if you explicitly say otherwise:**
 

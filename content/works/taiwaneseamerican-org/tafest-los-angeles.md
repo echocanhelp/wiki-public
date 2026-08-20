@@ -22,8 +22,30 @@ last_reviewed: 2026-08-20
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Summary
-The 2015 Taiwanese American Heritage Week Festival in Los Angeles takes place this year at Barnes Memorial Park in Monterey Park! There will be performances from Taiwan as well as by local talent. Be sure to come out and enjoy a beautiful day celebrating culture and community! And of course, eat some delicious Taiwanese food! […]
+## Article
+Cited from the original ([source](https://www.taiwaneseamerican.org/2015/05/tafest-los-angeles/)). Echopedia holds this as community historical record.
+
+The 2015 Taiwanese American Heritage Week Festival in Los Angeles takes place this year at Barnes Memorial Park in Monterey Park! There will be performances from Taiwan as well as by local talent. Be sure to come out and enjoy a beautiful day celebrating culture and community! And of course, eat some delicious Taiwanese food! You might also win a round trip ticket to Taiwan!
+
+Date: Sunday, May 17, 2015
+
+Time: 10:00am – 7:00pm
+
+Location: Barnes Memorial Park, 350 S. McPherrin Ave., Monterey Park, CA 91745
+
+Facebook event page: https://www.facebook.com/events/832093946884843/
+
+Admission and parking to the TAHW Festival is free.
+
+Parking is free and can be found street-side around the venue. We also have three off-site parking lots with free shuttle service at the following locations:
+
+1) Cathay Bank 250 S Atlantic Blvd., Monterey Park, CA 91754
+
+2) East West Bank 228 W Garvey Ave., Monterey Park, CA 91754
+
+3) Taiwanese American Heritage Week 台美人傳統週 3001 Walnut Grove Ave., Rosemead, CA 91770
+
+Please exchange money (cash/check) for festival currency ($10/sheet). Festival currency booklets come with raffle tickets with a chance for a round trip ticket to Taiwan from Eva Airlines or a chance for a round trip ticket to Taiwan from China Airlines and many more prizes!
 
 ## Timeline
 - 2015-05-15 — published

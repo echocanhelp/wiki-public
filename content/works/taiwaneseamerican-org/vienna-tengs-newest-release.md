@@ -22,8 +22,14 @@ last_reviewed: 2026-08-20
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Summary
-Vienna Teng’s new album, “Dreaming Through the Noise” comes out on Tuesday, July 25th! Her first single from this album is already in rotation at local radio stations. To hear her music, learn more about her, check her tour dates, or purchase her albums, go to her website.
+## Article
+Cited from the original ([source](https://www.taiwaneseamerican.org/2006/07/vienna-tengs-newest-release/)). Echopedia holds this as community historical record.
+
+Vienna Teng’s new album, “Dreaming Through the Noise” comes out on Tuesday, July 25th!
+
+Her first single from this album is already in rotation at local radio stations.
+
+To hear her music, learn more about her, check her tour dates, or purchase her albums, go to her website.
 
 ## Timeline
 - 2006-07-21 — published

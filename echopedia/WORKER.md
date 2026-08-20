@@ -203,7 +203,7 @@ Found two relevant mechanisms:
 | P13 | Site design | Layout issues | 1. Read site-design-brief.md 2. Run audit 3. Propose fixes (incl. root index.html copy from quartz build, Pages build type migration) 4. Report |
 | **P14** | **Person-to-work linking** | **Ensure person pages list all works + articles link back** | **1. Run `echopedia-person-works-linker.py --all` 2. Verify ## Works section on sample page 3. Verify backlinks in sample articles 4. Commit** |
 
-**Story-corpus (magazines):** parent `echopedia-story-corpus-ingest.py --all --apply-works` then `echopedia-thicken-work-a.py` (A-band dossier-lite). Then works-index regen + linkcheck + **P2**. P2 does not thicken. Watch-add after live 200s. Ingest ≠ archive.
+**Story-corpus (magazines):** ingest `--apply-works` then `echopedia-thicken-work-a.py` (**full A-band article**, not WP teaser). C stays bib. Then works-index + linkcheck + **P2**. Truncation is a bug.
 
 ### P8 — Edit page content (content update)
 

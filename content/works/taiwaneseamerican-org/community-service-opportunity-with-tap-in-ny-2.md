@@ -22,8 +22,24 @@ last_reviewed: 2026-08-20
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Summary
-Date: Saturday, October 19, 2013 Time: 9:30am – 3:00pm Address: New York, NY Facebook event page: https://www.facebook.com/events/169368469927331/ To sign up, register here: https://nycaresfall2013tap.eventbrite.com/ Join the Taiwanese American Professionals – New York (TAP-NY) volunteer team to be part of New York Cares’ annual effort to make our city’s schools a more welcoming environment for children to […]
+## Article
+Cited from the original ([source](https://www.taiwaneseamerican.org/2013/10/community-service-opportunity-with-tap-in-ny-2/)). Echopedia holds this as community historical record.
+
+Date: Saturday, October 19, 2013
+
+Time: 9:30am – 3:00pm
+
+Address: New York, NY
+
+Facebook event page: https://www.facebook.com/events/169368469927331/
+
+To sign up, register here: https://nycaresfall2013tap.eventbrite.com/
+
+Join the Taiwanese American Professionals – New York (TAP-NY) volunteer team to be part of New York Cares’ annual effort to make our city’s schools a more welcoming environment for children to learn and grow! Get ready to paint classrooms, create bright murals, plant school gardens, organize book rooms and libraries, and design outdoor play spaces where more than 1 million of the youngest New Yorkers go nearly every day. By the end of New York Cares Day Fall, 90 school sites in need will be transformed.
+
+Please email Jennifer.Lin@tap-ny.org with any questions.
+
+To sign up, register here: https://nycaresfall2013tap.eventbrite.com/
 
 ## Timeline
 - 2013-10-19 — published

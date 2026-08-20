@@ -22,8 +22,14 @@ last_reviewed: 2026-08-20
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Summary
-While visiting Taipei, TaiwaneseAmerican.org’s Ho Chie Tsai stops by The Wall to catch up with Freddy Lim who fronts the internationally-acclaimed Taiwanese black metal band ChthoniC. They’ve had a busy year touring throughout Asia and the UK, but our staff was fortunate to be able to sit down with Freddy and hear about what he’s […]
+## Article
+Cited from the original ([source](https://www.taiwaneseamerican.org/2010/12/talking-music-politics-with-freddy-lim/)). Echopedia holds this as community historical record.
+
+While visiting Taipei, TaiwaneseAmerican.org’s Ho Chie Tsai stops by The Wall to catch up with Freddy Lim who fronts the internationally-acclaimed Taiwanese black metal band ChthoniC. They’ve had a busy year touring throughout Asia and the UK, but our staff was fortunate to be able to sit down with Freddy and hear about what he’s been up to.
+
+Check out the band’s webpage. Be prepared to be scared:
+
+http://chthonic.tw
 
 ## Timeline
 - 2010-12-28 — published

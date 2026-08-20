@@ -22,8 +22,26 @@ last_reviewed: 2026-08-20
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Summary
-TaiwaneseAmerican.org’s Ho Chie Tsai interviews internet celebrity, model, and former host of NMA.tv, Lianne Lin. Together, they swat at flying insects, while she talks about her background in the arts and evolving career path in the media. With over 1.7 million followers on Google+, there’s no doubt that her wry yet witty sense of humor, […]
+## Article
+Cited from the original ([source](https://www.taiwaneseamerican.org/2012/10/heylianne/)). Echopedia holds this as community historical record.
+
+TaiwaneseAmerican.org’s Ho Chie Tsai interviews internet celebrity, model, and former host of NMA.tv, Lianne Lin. Together, they swat at flying insects, while she talks about her background in the arts and evolving career path in the media.
+
+With over 1.7 million followers on Google+, there’s no doubt that her wry yet witty sense of humor, her gorgeous looks, and her time spent as an NMA host has drawn a huge fan base worldwide.
+
+Her latest project is the development of her own YouTube channel “Hey Lianne”. Be sure to check her videos out!
+
+Visit her at:
+
+http://heylianne.com/
+
+http://www.youtube.com/heylianne
+
+https://plus.google.com/+Lianne
+
+Support:
+
+NMA.tv
 
 ## Timeline
 - 2012-10-25 — published

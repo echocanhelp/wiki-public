@@ -22,8 +22,22 @@ last_reviewed: 2026-08-20
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Summary
-Date: Sunday, July 28, 2013 Time: 1:00pm Location: William H.G. FitzGerald Tennis Center Address: Washington, DC Facebook event page: https://www.facebook.com/events/555152664530472/ Taiwanese American Professionals – DC (TAP-DC) is supporting Extreme Recess, an adaptive sports program for kids of all disabilities. We will provide volunteers for Dreams for Kids (http://dreamsforkids.org/) and Citi Open Tennis (www.citiopentennis.com)’s adaptive tennis […]
+## Article
+Cited from the original ([source](https://www.taiwaneseamerican.org/2013/07/community-service-event-with-tap-in-dc/)). Echopedia holds this as community historical record.
+
+Date: Sunday, July 28, 2013
+
+Time: 1:00pm
+
+Location: William H.G. FitzGerald Tennis Center
+
+Address: Washington, DC
+
+Facebook event page: https://www.facebook.com/events/555152664530472/
+
+Taiwanese American Professionals – DC (TAP-DC) is supporting Extreme Recess, an adaptive sports program for kids of all disabilities. We will provide volunteers for Dreams for Kids (http://dreamsforkids.org/) and Citi Open Tennis (www.citiopentennis.com)’s adaptive tennis clinic at the William H.G. FitzGerald Tennis Center in Rock Creek Park.
+
+This event consists of specialized instruction and activities for all participants. Each volunteer will be paired with one participant and remain with him/her for the entire clinic to help go through drills and breaks, as well as to provide encouragement throughout the day. USTA professionals will lead the clinics, so no tennis experience is required.
 
 ## Timeline
 - 2013-07-28 — published

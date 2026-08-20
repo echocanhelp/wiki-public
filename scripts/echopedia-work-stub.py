@@ -67,16 +67,20 @@ def page_body(unit: dict, band: str, slug: str) -> str:
     year = (dt[:4] if dt else "") or "undated"
     lic = unit.get("license") or "all-rights"
     genre = unit.get("genre") or "story"
+    body = (unit.get("body") or "").strip()
     excerpt = (unit.get("excerpt") or "").strip()
-    # A-band: fair-cite teaser even under all-rights. Never full body. C stays bib-only.
-    if band == "C" or (lic == "all-rights" and band != "A"):
-        excerpt_block = "_Bibliographic record only. Full text stays in the vault (copyright)._ \n"
-    elif excerpt:
-        excerpt_block = excerpt[:500] + ("…" if len(excerpt) > 500 else "")
+    # TAHS: A-band is the historical record on the wiki. Truncated WP teasers are a bug.
+    # C (fiction/poetry) stays bibliographic. B stays light unless body is provided.
+    if band == "C":
+        article = "_Creative work — bibliographic record only. Full text stays in the vault (copyright)._\n"
+    elif band == "A" and body:
+        article = body
     elif band == "A":
-        excerpt_block = "_A-band excerpt not captured — PARTIAL until fair-cite teaser exists._"
+        article = "_PARTIAL: A-band article body not captured. This is not ingest._"
+    elif body:
+        article = body
     else:
-        excerpt_block = "_Excerpt not captured yet._"
+        article = "_Bibliographic record only. Full text stays in the vault._\n"
     subjects = unit.get("subjects") or []
     subj_lines = "\n".join(f"- {s}" for s in subjects) if subjects else "- (named subjects pending absorb)"
     today = date.today().isoformat()
@@ -111,8 +115,10 @@ last_reviewed: {today}
 - **Value band:** {band} (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** {lic}
 
-## Summary
-{excerpt_block}
+## Article
+Cited from the original ([source]({url})). Echopedia holds this as community historical record.
+
+{article}
 
 ## Timeline
 {f"- {dt} — published" if dt else "- (undated)"}

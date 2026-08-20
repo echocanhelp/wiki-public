@@ -20,7 +20,7 @@ Human still says `Echopedia website <domain>`. Detector / planner sets **class**
 | **`publication`** | TAHS yearbook, memoir PDF | Chunks + facts-clean | [PUBLICATION_INGEST.md](PUBLICATION_INGEST.md) |
 | **`social-short`** | one IG/X/FB post | Optional gitignored snippet | Historical value → **work page** (or cite on existing dossier). Never domain crawl. No person from handle alone |
 
-**TAHS default:** vault captures the record; the wiki publishes every unit with **distinct historical value** as a `type: work` page. Index-only / hub-only is **PARTIAL**. Chrome (slider, gift-guide) is band D (vault only). Copyrighted fiction **bodies** stay in the vault; the **bibliographic work page** still publishes.
+**TAHS default:** vault captures the record; the wiki publishes the **history** (A-band = full article). Index-only / hub-only / **truncated teaser** is **PARTIAL**. Chrome is band D. Copyrighted **fiction** bodies (C) stay in the vault; bib page still publishes.
 
 `taiwaneseamerican.org` ≠ `taiwaneseamericanhistory.org` (TAH recrawl skip).
 
@@ -90,7 +90,7 @@ A magazine of Taiwanese American interviews, essays, and stories **is the histor
 
 | Band | What | Tier1 |
 |------|------|-------|
-| **A** | Interviews, oral history, community, 228/politics, named-subject features | **dossier-lite**: byline + fair-cite excerpt (≤500) + ≥1 subject + Timeline. Bib-only A-band = **PARTIAL**. P2 does not thicken. |
+| **A** | Interviews, oral history, community, 228/politics, named-subject features | **Full article** on the wiki (cited). Truncated WP excerpt = **bug / PARTIAL**. P2 does not write the article. |
 | **B** | Other nonfiction essays/features | work page + light subject list |
 | **C** | Fiction, poetry, CNF, prize selections | **Bibliographic** work page (title/author/date/URL). **No body** on gh-pages |
 | **D** | Slider, gift-guide, chrome, empty | Vault index only (`absorb=skip`) |
@@ -125,7 +125,7 @@ A magazine of Taiwanese American interviews, essays, and stories **is the histor
 - [ ] **Never AUTO** person pages or About rewrite  
 - [ ] Morning brief 🟡 for new **A-band** units (human thicken)
 
-**PARTIAL if:** units.jsonl exists but A/B/C works missing; org page has no About prose; work pages exist but homepage has no Stories; **A-band pages are bib stubs (no excerpt/subjects)**; `/works/` links resolve outside `works/` (404).
+**PARTIAL if:** A-band page is a teaser/`[…]`/no `## Article` body; units without works; no About prose; no Stories path; `/works/` links 404.
 
 ---
 

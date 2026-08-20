@@ -22,8 +22,10 @@ last_reviewed: 2026-08-20
 - **Value band:** A (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
 - **License:** all-rights
 
-## Summary
-_A-band excerpt not captured — PARTIAL until fair-cite teaser exists._
+## Article
+Cited from the original ([source](https://www.taiwaneseamerican.org/2006/12/exit-clov-music-video-release/)). Echopedia holds this as community historical record.
+
+_PARTIAL: A-band article body not captured. This is not ingest._
 
 ## Timeline
 - 2006-12-08 — published
