@@ -16,26 +16,26 @@ tags:
 
 ## Who runs what (token split)
 
-**Second purpose of this file:** keep **premium Grok tokens** on judgment; spend **free Laguna tokens** on playbook execution.
+**Second purpose of this file:** keep **premium Grok tokens** on judgment; spend **free LAN (Ornith) tokens** on playbook execution.
 
-Live (2026-08-17): pinto `model.default` = `poolside/Laguna-S-2.1-NVFP4` `:8888`; `delegation.provider/model` = same Laguna. Grok appears when the operator `/model`s or this chat already fell over to xAI.
+Live (2026-08-19): pinto `model.default` = `ornith-1.5-35b-a3b-nvfp4` `:8888`; `delegation.provider/model` = same Ornith. Laguna **deprecated** — files kept; revert only via `swap-llm-stack.sh laguna-primary`. Grok appears when the operator `/model`s or this chat already fell over to xAI.
 
 | Role | Model | May | Must not |
 |------|-------|-----|----------|
 | **Planner** (this chat if Grok) | premium | Classify, identity call (same person?), pick **one** playbook ID, write a self-contained card, patch *this file* if the recipe is wrong, verify worker output | Bulk `patch`/`write_file` on `content/people|organizations`, harvest loops, Quartz publish grind |
-| **Worker** | Laguna (free) | **One** playbook, exact commands, Report, STOP | Redesign, new crons, identity guesses, `/model` hop |
+| **Worker** | Ornith / LAN (free) | **One** playbook, exact commands, Report, STOP | Redesign, new crons, identity guesses, `/model` hop |
 | **Scripts / `no_agent`** | $0 tokens | Harvest, backfill, index-sync, collect | LLM in the loop |
 
 **Hand-off (planner on Grok):**
 
 1. Decide identity + playbook in this chat (short).
 2. `hermes kanban create "P8 …" --body "WORKER.md P8 PATH=… SOURCE=…" --assignee pinto`  
-   **or** `delegate_task(goal="WORKER P8 …", context="paths + gates")` — children already inherit Laguna.
+   **or** `delegate_task(goal="WORKER P8 …", context="paths + gates")` — children already inherit Ornith.
 3. Do **not** execute P8/P9/P3/P12 in the Grok turn.
 4. Re-read the files the worker claims; then P1/P2 only if you must (P2 may stay planner if publish is one script).
 
 **Stay on Grok for:** “same person?”, romanization collisions, CONTROL/process patches, architecture.  
-**Force Laguna for:** apply tables, new thin pages, redirects, hub list rows, index-sync.
+**Force Ornith/LAN for:** apply tables, new thin pages, redirects, hub list rows, index-sync.
 
 If you already started P8 on Grok this turn, **stop after the next file** and hand off the rest.
 
@@ -240,12 +240,12 @@ WORKER.md playbook P8 PATH=content/people/ashton-hsu.md SOURCE="family memo pad 
 ```
 
 **Default workflow when user says "Echopedia <person> <fact>":**
-1. **Grok (frontier):** identity judgment + assign WORKER **P8** card to Laguna worker
-2. **Laguna (pinto/NVFP4):** P8 with the fact as source (commit only, no publish)
-3. **Laguna:** P1 to verify (ops/drift/smoke)
-4. **Laguna:** P2 to publish if green
+1. **Grok (frontier):** identity judgment + assign WORKER **P8** card to Ornith worker
+2. **Ornith (pinto LAN):** P8 with the fact as source (commit only, no publish)
+3. **Ornith:** P1 to verify (ops/drift/smoke)
+4. **Ornith:** P2 to publish if green
 
-**Grok does NOT execute P8/P9 bulk.** It assigns the card; the Laguna worker runs the playbook.
+**Grok does NOT execute P8/P9 bulk.** It assigns the card; the Ornith worker runs the playbook.
 
 ---
 
@@ -260,14 +260,14 @@ Our architecture follows a **two-graph** model:
 
 | Context | Model (2026-08-17 live) |
 |---------|-------|
-| pinto profile default | Laguna `:8888` (`poolside/Laguna-S-2.1-NVFP4`); fallback Grok |
-| This chat after `/model` Grok | premium — **plan + identity only**; spawn Laguna for playbooks |
-| `delegate_task` | `delegation.*` → Laguna (already set) |
-| `hermes kanban assign <task> pinto` | Laguna |
+| pinto profile default | Ornith `:8888` (`ornith-1.5-35b-a3b-nvfp4`); fallback Grok |
+| This chat after `/model` Grok | premium — **plan + identity only**; spawn Ornith for playbooks |
+| `delegate_task` | `delegation.*` → Ornith (already set) |
+| `hermes kanban assign <task> pinto` | Ornith |
 | `no_agent` cron | N/A (deterministic) |
 | Vision | Grok auxiliary |
-| **P8/P9 content edits** | **Grok assigns card; Laguna executes playbook** |
-| **Identity judgment** | **Grok (frontier) — never delegated to Laguna** |
+| **P8/P9 content edits** | **Grok assigns card; Ornith executes playbook** |
+| **Identity judgment** | **Grok (frontier) — never delegated to Ornith** |
 
 ### Design principles
 

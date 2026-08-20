@@ -1,0 +1,120 @@
+{"path": "people/chen-meihui.md", "findings": ["LINK_BODY_SPARSE", "LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/guo-yingyan.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/li-furen.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "sources/toward-a-community-of-hope.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "organizations/formosan-presbyterian-church-in-los-angeles.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "organizations/irvine-taiwanese-presbyterian-church.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/chaolong-kao.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/daniel-kao.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/pingtung-lai.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "organizations/global-alliance-for-democracy-and-peace-la.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "organizations/taiwanese-american-foundation-of-san-diego.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "sources/irvine-taiwanese-presbyterian-church.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "sources/2017-tahs-publication.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/lien-hwa-chow.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "articles/taiwanjustice-net/2026/20260210054434_烏總統致電法德領袖-求協助釋放遭俄軍綁架市長_a052c7dd14bfe563.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "articles/taiwanjustice-net/2026/20260125123521_李登輝10-7長眠五指山_墓園主體工程完成_1cdcb2b3dd874c6e.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "articles/taiwanjustice-net/2026/20260122073329_美國失業潮猛烈_7週內3348萬人申請失業補助_ffbc167cedc48b49.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "articles/taiwanjustice-net/2026/20260115085919_徐斯儉會晤美國退伍軍人部長_討論台美深化合作_d6e99a63d1c59b0a.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "articles/taiwanjustice-net/2026/20260122081217_收到美國禁飛令計劃_中國緊急放寬對外國航班的_8e2ccbbdb67786e7.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "articles/taiwanjustice-net/2026/20260125124944_美國最高法院拒絕聽取川普最後一項選舉上訴案_ed079bb4b0da2544.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "people/chen-meihui.md", "findings": ["LINK_BODY_SPARSE", "LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/guo-yingyan.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/li-furen.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "sources/toward-a-community-of-hope.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "organizations/formosan-presbyterian-church-in-los-angeles.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "organizations/irvine-taiwanese-presbyterian-church.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/chaolong-kao.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/daniel-kao.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/pingtung-lai.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "organizations/global-alliance-for-democracy-and-peace-la.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "organizations/taiwanese-american-foundation-of-san-diego.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "sources/irvine-taiwanese-presbyterian-church.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "sources/2017-tahs-publication.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/lien-hwa-chow.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "articles/taiwanjustice-net/2026/20260210173508_2021大洛杉磯台灣會館228事件線上追思紀念會與系列活_ac0c255ef64908a5.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "articles/taiwanjustice-net/2026/20260121002429_香港反送中示威十一街頭重現_獅子山頭燈光再起_2c56498c36577970.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "articles/taiwanjustice-net/2026/20260118231830_特斯拉售價馬斯克承諾大砍_目標3年後2萬5000元美金_8aec3260a20353ee.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "articles/taiwanjustice-net/2026/20260121013348_華為違反美國對伊朗制裁令_路透提新證據_f7bd35657d078fe4.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "articles/taiwanjustice-net/2026/20260211100714_亞裔成疫情代罪羔羊-美司法部終於開始正視_67de3f82cdfbca82.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "articles/taiwanjustice-net/2026/20260121005232_張忠謀出席總統餐會_專家_台積電成台美重要連_76aed91fd9e4f5e4.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "people/chen-meihui.md", "findings": ["LINK_BODY_SPARSE", "LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/guo-yingyan.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/li-furen.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "sources/toward-a-community-of-hope.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "organizations/formosan-presbyterian-church-in-los-angeles.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "organizations/irvine-taiwanese-presbyterian-church.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/chaolong-kao.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/daniel-kao.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/pingtung-lai.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "organizations/global-alliance-for-democracy-and-peace-la.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "organizations/taiwanese-american-foundation-of-san-diego.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "sources/irvine-taiwanese-presbyterian-church.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "sources/2017-tahs-publication.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/lien-hwa-chow.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "articles/taiwanjustice-net/2026/20260211094541_拜登就職上演慶祝行情_美股再創新高_2c7414c3e1df1faa.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "articles/taiwanjustice-net/2026/20260118231519_面對美國全面制裁_華為承認進入求生存模式_ac673a90efb269b0.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "articles/taiwanjustice-net/2026/20260124001226_聲稱國會有人洩密_川普_國家情報總監辦公室_dacfda4c56bd6b66.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "articles/taiwanjustice-net/2026/20260125061520_川普宣布確診染疫_紐時_左派人士懷疑真假_5f49fc7bd4d9358a.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "articles/taiwanjustice-net/2026/20260125131405_第五屆國際醫療典範獎頒獎典禮_在台灣舉行_a8bd530e85c30548.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "articles/taiwanjustice-net/2026/20260210061707_消息指美告訴盟邦_中國願軍援俄國攻烏_abbbe9e560e2e63b.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "people/chen-meihui.md", "findings": ["LINK_BODY_SPARSE", "LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/guo-yingyan.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/li-furen.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "sources/toward-a-community-of-hope.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "organizations/formosan-presbyterian-church-in-los-angeles.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "organizations/irvine-taiwanese-presbyterian-church.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/chaolong-kao.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/daniel-kao.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/pingtung-lai.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "organizations/global-alliance-for-democracy-and-peace-la.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "organizations/taiwanese-american-foundation-of-san-diego.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "sources/irvine-taiwanese-presbyterian-church.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "sources/2017-tahs-publication.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/lien-hwa-chow.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "articles/taiwanjustice-net/2026/20260121011510_朝野提交推派名單_修憲委員會6日啟動_a65366b0219d919f.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "articles/taiwanjustice-net/2026/20260210174617_擊落多架俄國戰機的烏克蘭英雄_烏軍曝光_基輔_cdcf22fa09fa52a7.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "articles/taiwanjustice-net/2026/20260122080828_專家_美中正邁入最黑暗篇章_北京仍盼川普連任_fa4d2d885c19807f.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "articles/taiwanjustice-net/2026/20260118114059_陸委會_紅色滲透媒體須另檢討_反滲透法不涉及_f2e812e84450157c.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "articles/taiwanjustice-net/2026/20260118103638_陳菊_與慶富弊案無任何關係_各界勿再錯誤連結_5ec35537797d5dc2.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "articles/taiwanjustice-net/2026/20260118234725_國民黨決定參加海峽論壇_王金平率團赴廈門_蘇_956015238783628e.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "people/chen-meihui.md", "findings": ["LINK_BODY_SPARSE", "LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/guo-yingyan.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/li-furen.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "sources/toward-a-community-of-hope.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "organizations/formosan-presbyterian-church-in-los-angeles.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "organizations/irvine-taiwanese-presbyterian-church.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/chaolong-kao.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/daniel-kao.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/pingtung-lai.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "organizations/global-alliance-for-democracy-and-peace-la.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "organizations/taiwanese-american-foundation-of-san-diego.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "sources/irvine-taiwanese-presbyterian-church.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "sources/2017-tahs-publication.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/lien-hwa-chow.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "articles/taiwanjustice-net/2026/20260118101136_內政部廢止婦聯會立案-依法清算388億財產_黨產會_c0f3fa3d0529cab7.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "articles/taiwanjustice-net/2026/20260124000808_印度軍備升級-將迎第二艘自製核潛艇_ec89013560df4a4b.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "articles/taiwanjustice-net/2026/20260210174509_好萊塢體壇商界聲援烏克蘭_全球名流紛紛表態反_59a27c818d31bd81.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "articles/taiwanjustice-net/2026/20260210172230_紐約州長性騷事件連環爆_第3名女子控摸背又索吻_dc299fcef2b0e32a.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "articles/taiwanjustice-net/2026/20260122070918_陳柏惟_挺罷免票讓韓國瑜自由_願助高市府募款_8c5f12a005b6c960.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "articles/taiwanjustice-net/2026/20260125054313_美亞太助卿_破壞穩定行為來自北京_非台北或華_eb53870fed17d6a1.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "people/chen-meihui.md", "findings": ["LINK_BODY_SPARSE", "LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/guo-yingyan.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/li-furen.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "sources/toward-a-community-of-hope.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "organizations/formosan-presbyterian-church-in-los-angeles.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "organizations/irvine-taiwanese-presbyterian-church.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/chaolong-kao.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/daniel-kao.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/pingtung-lai.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "organizations/global-alliance-for-democracy-and-peace-la.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "organizations/taiwanese-american-foundation-of-san-diego.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "sources/irvine-taiwanese-presbyterian-church.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "sources/2017-tahs-publication.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "people/lien-hwa-chow.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (needs human/agent for body links)"]}
+{"path": "articles/taiwanjustice-net/2026/20260208210824_無懼中國警告_澳洲堅持調查中國_985b0c754731e99b.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "articles/taiwanjustice-net/2026/20260124111240_日媒_鑽石公主號全船20人感染武漢肺炎_cbe1937a321671d0.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "articles/taiwanjustice-net/2026/20260211094251_嘉市228追思-受難家屬籲拆中正紀念堂蔣介石銅像_8823630dc3646a93.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "articles/taiwanjustice-net/2026/20260211101404_賴清德_卑躬屈膝無法停止侵略_全民一心守護國_6eb558bd5ea47dfe.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "articles/taiwanjustice-net/2026/20260125065048_維特齊9-1立院演說_非邦交國議長第一人_b65d3648996b7e4a.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}
+{"path": "articles/taiwanjustice-net/2026/20260118234924_古老泰國性藝術不隱諱_曼谷咖啡館打破禁忌_4df25eac75d36cd2.md", "findings": ["NO_RELATED_PAGES", "NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "add Related Pages stub", "WROTE"]}

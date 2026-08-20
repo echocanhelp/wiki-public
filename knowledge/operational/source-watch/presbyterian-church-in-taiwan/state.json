@@ -1,0 +1,247 @@
+{
+  "id": "presbyterian-church-in-taiwan",
+  "urls": {
+    "https://www.pct.org.tw/": {
+      "hash": "31a8c636629aa61d0cab18bacc1c2af1",
+      "len": 48503,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/sitemap.aspx": {
+      "hash": "91a75ef7397615de6925f0fcd919fb9e",
+      "len": 23532,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/aboutus.aspx": {
+      "hash": "3e068d155c5d52aecc309b36aa240753",
+      "len": 10832,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/ab_faith.aspx": {
+      "hash": "bdf460f93ab8fea68f709d3f1c76bcbd",
+      "len": 13155,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/ab_doc.aspx": {
+      "hash": "6eb8c9a2c6155c682469a6f17d71526e",
+      "len": 17789,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/ab_org_chart.aspx": {
+      "hash": "f38bcac25d3445d81032ef6041ee2647",
+      "len": 9893,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/ab_officers.aspx": {
+      "hash": "d34cf33406c2a77c0f99b20b96cd3130",
+      "len": 17031,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/ab_secretaries.aspx": {
+      "hash": "3e72b9ed1a7446ee007774ff9d4f9da6",
+      "len": 21842,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/ab_calender.aspx": {
+      "hash": "3bc2924900b38e749355326935aaeeb5",
+      "len": 62571,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/ab_missionplans.aspx": {
+      "hash": "ee04e1be98bc3afdca9a569a18b5aa9a",
+      "len": 16649,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/news_pct.aspx": {
+      "hash": "216c74f74867312c45fd23fe48b24d9a",
+      "len": 48281,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/news_church.aspx": {
+      "hash": "80666c3003aa7b6f00d6bb3e76f3e201",
+      "len": 51761,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/ministry.aspx": {
+      "hash": "3813e09399a515ad1c70efa65dfb6156",
+      "len": 42760,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/church.aspx": {
+      "hash": "582ac25e667f0c3c27ba1f7d5bdebee1",
+      "len": 16969,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/pastor.aspx": {
+      "hash": "d8d2c142f539fbf36e0508fd9ffe8f14",
+      "len": 26966,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/bylaws.aspx": {
+      "hash": "ef47345b74bcd25ddf149bc379d8996a",
+      "len": 22738,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/ftr.aspx": {
+      "hash": "55a2c6ffde2574ee292b45984e806fad",
+      "len": 7669,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/neweyes.aspx": {
+      "hash": "7dcb7b3043d7689c0431a1d9bfdb5a99",
+      "len": 15774,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/epaper.aspx": {
+      "hash": "dd48596e180db84a8b02d82fe44edbe6",
+      "len": 6516,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/links.aspx": {
+      "hash": "fa25af8ec8bbe5ceeb7fb21c52bd3aef",
+      "len": 19158,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/links.aspx#dev": {
+      "hash": "fa25af8ec8bbe5ceeb7fb21c52bd3aef",
+      "len": 19158,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/links02.aspx": {
+      "hash": "bb6216e6521dc4a692aecd6ff94116e1",
+      "len": 21626,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/look4church.aspx": {
+      "hash": "ce476c0d138c580561018a0066a1c824",
+      "len": 18324,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/download.aspx": {
+      "hash": "5d531da9801f21ddc51caef7e189af1b",
+      "len": 66813,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/contactus.aspx": {
+      "hash": "8dcbb3809e289444ec4306a650565089",
+      "len": 36407,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/news_focus.aspx": {
+      "hash": "5e27ab6b3466ab090a6621514d3d1139",
+      "len": 30671,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/news_focus.aspx?strSiteID=S001&amp;strContentid=C2026031600001": {
+      "hash": "b5493f3e792f95a27d8455cc5229e6db",
+      "len": 38377,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&amp;strContentID=C2026081200001&amp;strDesc=Y": {
+      "hash": "7ac7526e7045727e34e09df4302e0858",
+      "len": 48357,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&amp;strContentID=C2026081000001&amp;strDesc=Y": {
+      "hash": "12636fe7225b74d7cfbf0eeb3511be2b",
+      "len": 48357,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&amp;strContentID=C2026080700001&amp;strDesc=Y": {
+      "hash": "a120d561d68904a9355775d6009242c4",
+      "len": 48357,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&amp;strContentID=C2026080600001&amp;strDesc=Y": {
+      "hash": "d9732ace0c33ece93ea333a2b940cefe",
+      "len": 48357,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&amp;strContentID=C2026080500001&amp;strDesc=Y": {
+      "hash": "1a4aae54d9cd8e4e34bd54ea656103d3",
+      "len": 48357,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&amp;strContentID=C2026073100002&amp;strDesc=Y": {
+      "hash": "ab5bb4c35df8179c5c222586bd8ef362",
+      "len": 48357,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&amp;strContentID=C2026072900007&amp;strDesc=Y": {
+      "hash": "29d0af876e695298cef159f09c16797c",
+      "len": 48357,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&amp;strContentID=C2026072900006&amp;strDesc=Y": {
+      "hash": "378658f08782790f62c4f802042a8fba",
+      "len": 48357,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&amp;strContentID=C2026072900005&amp;strDesc=Y": {
+      "hash": "5b0fb09e6a7539eb142048a4b13e0191",
+      "len": 48357,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&amp;strContentID=C2026072700003&amp;strDesc=Y": {
+      "hash": "b2ff6e47b0df2fb818ac6ca75c046706",
+      "len": 48357,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&amp;strContentID=C2026072700002&amp;strDesc=Y": {
+      "hash": "5adf20b609d5859445afb2e9ee4ddf75",
+      "len": 48357,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&amp;strContentID=C2026072300001&amp;strDesc=Y": {
+      "hash": "dbaabdf6b415bff7065968ae8339081c",
+      "len": 48357,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&amp;strContentID=C2026072200002&amp;strDesc=Y": {
+      "hash": "c1fd861edfce91109f12936d81cb61de",
+      "len": 48357,
+      "code": 200,
+      "baseline": false
+    }
+  },
+  "last_poll": "2026-08-20T14:36:46Z",
+  "baseline_at": null
+}

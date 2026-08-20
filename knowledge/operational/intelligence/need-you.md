@@ -1,18 +1,18 @@
 ## NEED YOU (5/5)
 
-1. **Echopedia miss: “Stone Chen”**
+1. **Echopedia miss: “228”**
    → Confirm identity / approve thin page / or dismiss
    _telegram_
-2. **Echopedia miss: “台羅”**
+2. **Echopedia miss: “the 228 incident”**
    → Confirm identity / approve thin page / or dismiss
    _telegram_
-3. **Echopedia miss: “Tâi-lô”**
+3. **Echopedia miss: “Stone Chen”**
    → Confirm identity / approve thin page / or dismiss
    _telegram_
-4. **Echopedia miss: “Peh-oe-ji”**
+4. **Echopedia miss: “台羅”**
    → Confirm identity / approve thin page / or dismiss
    _telegram_
-5. **Echopedia miss: “白話字”**
+5. **Echopedia miss: “Tâi-lô”**
    → Confirm identity / approve thin page / or dismiss
    _telegram_
 

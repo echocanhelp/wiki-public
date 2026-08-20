@@ -1,67 +1,26 @@
 {
-  "at": "2026-08-16T21:02:49Z",
-  "dry_run": false,
-  "sources": [
-    {
-      "id": "taiwancenter-org",
-      "new": [],
-      "changed": [],
-      "gone_sample": [],
-      "errors": [],
-      "applied": [],
-      "parked": false
-    },
-    {
-      "id": "good-shepherd-taiwanese-presbyterian-church",
-      "new": [],
-      "changed": [
-        "https://gstpc.org/home/08-16-2026-sunday-bulletin/"
-      ],
-      "gone_sample": [],
-      "errors": [
-        "https://gstpc.org/home/xmlrpc.php HTTP 405",
-        "https://gstpc.org/home/wprhe_qrcode_style.css  HTTP 404"
-      ],
-      "applied": [
-        "tier2:good-shepherd-taiwanese-presbyterian-church-delta-2026-08-16-home-08-16-2026-sunday-bulletin.md",
-        "last_reviewed:hub",
-        "last_reviewed:good-shepherd-taiwanese-presbyterian-church.md"
-      ],
-      "parked": false
-    },
-    {
-      "id": "irvine-taiwanese-presbyterian-church",
-      "new": [],
-      "changed": [],
-      "gone_sample": [],
-      "errors": [
-        "https://www.irvine-tpc.org/"
-      ],
-      "applied": [],
-      "parked": false
-    }
-  ],
+  "at": "2026-08-20T14:46:17Z",
+  "dry_run": true,
+  "sources": [],
   "recommend": [
     {
-      "kind": "website",
-      "host": "pct.org.tw",
-      "mentions": 2,
-      "score": 6,
-      "why": "external host on 2 Tier1 pages; not watched",
-      "action": "go Echopedia website https://pct.org.tw/"
+      "host": "example.org",
+      "score": 10,
+      "mentions": 3,
+      "action": "go Echopedia website https://example.org/"
     },
     {
-      "kind": "densify",
-      "host": "bai-weiwei",
-      "id": "bai-weiwei",
+      "host": "foo.org",
+      "score": 11,
+      "action": "go Echopedia website https://foo.org/"
+    },
+    {
+      "host": "bar-slug",
       "score": 8,
-      "why": "thin L1 person page (2015 chars); densify from Tier2/roster — not a new website",
-      "action": "go deepen people/bai-weiwei"
+      "action": "go deepen people/bar-slug"
     }
   ],
   "need_you": [],
-  "auto_lines": [
-    "good-shepherd-taiwanese-presbyterian-church: +0 new / 1 changed; applied 3"
-  ],
+  "auto_lines": [],
   "queue_lines": []
 }

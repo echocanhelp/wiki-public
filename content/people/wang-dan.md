@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-19
+last_reviewed: 2026-08-20
 ---
 
 # Wang Dan / 王丹

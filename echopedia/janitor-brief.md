@@ -1,27 +1,27 @@
-## Echopedia Janitor — 2026-08-19
+## Echopedia Janitor — 2026-08-20
 - Standards v8
-- Pages with findings: **29348**
+- Pages with findings: **29319**
 - Queued tonight (max 20): **20**
 - Queue:
-  - `people/chen-meihui.md` age≈42.7d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
-  - `people/guo-yingyan.md` age≈42.7d · LINK_UNLINKED_ENTITY
-  - `people/li-furen.md` age≈37.7d · LINK_UNLINKED_ENTITY
-  - `sources/toward-a-community-of-hope.md` age≈35.7d · LINK_UNLINKED_ENTITY
-  - `organizations/formosan-presbyterian-church-in-los-angeles.md` age≈35.7d · LINK_UNLINKED_ENTITY
-  - `organizations/irvine-taiwanese-presbyterian-church.md` age≈35.7d · LINK_UNLINKED_ENTITY
-  - `people/chaolong-kao.md` age≈35.7d · LINK_UNLINKED_ENTITY
-  - `people/daniel-kao.md` age≈35.7d · LINK_UNLINKED_ENTITY
-  - `people/pingtung-lai.md` age≈35.7d · LINK_UNLINKED_ENTITY
-  - `organizations/global-alliance-for-democracy-and-peace-la.md` age≈34.7d · LINK_UNLINKED_ENTITY
-  - `organizations/taiwanese-american-foundation-of-san-diego.md` age≈34.7d · LINK_UNLINKED_ENTITY
-  - `sources/irvine-taiwanese-presbyterian-church.md` age≈34.7d · LINK_BODY_SPARSE
-  - `sources/2017-tahs-publication.md` age≈33.7d · LINK_UNLINKED_ENTITY
-  - `people/lien-hwa-chow.md` age≈33.7d · LINK_UNLINKED_ENTITY
-  - `articles/taiwanjustice-net/2026/20260210054434_烏總統致電法德領袖-求協助釋放遭俄軍綁架市長_a052c7dd14bfe563.md` age≈22.3d · NO_RELATED_PAGES, NO_LAST_REVIEWED
-  - `articles/taiwanjustice-net/2026/20260125123521_李登輝10-7長眠五指山_墓園主體工程完成_1cdcb2b3dd874c6e.md` age≈22.3d · NO_RELATED_PAGES, NO_LAST_REVIEWED
-  - `articles/taiwanjustice-net/2026/20260122073329_美國失業潮猛烈_7週內3348萬人申請失業補助_ffbc167cedc48b49.md` age≈22.3d · NO_RELATED_PAGES, NO_LAST_REVIEWED
-  - `articles/taiwanjustice-net/2026/20260115085919_徐斯儉會晤美國退伍軍人部長_討論台美深化合作_d6e99a63d1c59b0a.md` age≈22.3d · NO_RELATED_PAGES, NO_LAST_REVIEWED
-  - `articles/taiwanjustice-net/2026/20260122081217_收到美國禁飛令計劃_中國緊急放寬對外國航班的_8e2ccbbdb67786e7.md` age≈22.3d · NO_RELATED_PAGES, NO_LAST_REVIEWED
-  - `articles/taiwanjustice-net/2026/20260125124944_美國最高法院拒絕聽取川普最後一項選舉上訴案_ed079bb4b0da2544.md` age≈22.3d · NO_RELATED_PAGES, NO_LAST_REVIEWED
-- Log: `knowledge/operational/janitor-log/2026-08-19.jsonl`
+  - `people/chen-meihui.md` age≈43.6d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
+  - `people/guo-yingyan.md` age≈43.6d · LINK_UNLINKED_ENTITY
+  - `people/li-furen.md` age≈38.6d · LINK_UNLINKED_ENTITY
+  - `sources/toward-a-community-of-hope.md` age≈36.6d · LINK_UNLINKED_ENTITY
+  - `organizations/formosan-presbyterian-church-in-los-angeles.md` age≈36.6d · LINK_UNLINKED_ENTITY
+  - `organizations/irvine-taiwanese-presbyterian-church.md` age≈36.6d · LINK_UNLINKED_ENTITY
+  - `people/chaolong-kao.md` age≈36.6d · LINK_UNLINKED_ENTITY
+  - `people/daniel-kao.md` age≈36.6d · LINK_UNLINKED_ENTITY
+  - `people/pingtung-lai.md` age≈36.6d · LINK_UNLINKED_ENTITY
+  - `organizations/global-alliance-for-democracy-and-peace-la.md` age≈35.6d · LINK_UNLINKED_ENTITY
+  - `organizations/taiwanese-american-foundation-of-san-diego.md` age≈35.6d · LINK_UNLINKED_ENTITY
+  - `sources/irvine-taiwanese-presbyterian-church.md` age≈35.6d · LINK_BODY_SPARSE
+  - `sources/2017-tahs-publication.md` age≈34.6d · LINK_UNLINKED_ENTITY
+  - `people/lien-hwa-chow.md` age≈34.6d · LINK_UNLINKED_ENTITY
+  - `articles/taiwanjustice-net/2026/20260208210824_無懼中國警告_澳洲堅持調查中國_985b0c754731e99b.md` age≈23.2d · NO_RELATED_PAGES, NO_LAST_REVIEWED
+  - `articles/taiwanjustice-net/2026/20260124111240_日媒_鑽石公主號全船20人感染武漢肺炎_cbe1937a321671d0.md` age≈23.2d · NO_RELATED_PAGES, NO_LAST_REVIEWED
+  - `articles/taiwanjustice-net/2026/20260211094251_嘉市228追思-受難家屬籲拆中正紀念堂蔣介石銅像_8823630dc3646a93.md` age≈23.2d · NO_RELATED_PAGES, NO_LAST_REVIEWED
+  - `articles/taiwanjustice-net/2026/20260211101404_賴清德_卑躬屈膝無法停止侵略_全民一心守護國_6eb558bd5ea47dfe.md` age≈23.2d · NO_RELATED_PAGES, NO_LAST_REVIEWED
+  - `articles/taiwanjustice-net/2026/20260125065048_維特齊9-1立院演說_非邦交國議長第一人_b65d3648996b7e4a.md` age≈23.2d · NO_RELATED_PAGES, NO_LAST_REVIEWED
+  - `articles/taiwanjustice-net/2026/20260118234924_古老泰國性藝術不隱諱_曼谷咖啡館打破禁忌_4df25eac75d36cd2.md` age≈23.2d · NO_RELATED_PAGES, NO_LAST_REVIEWED
+- Log: `knowledge/operational/janitor-log/2026-08-20.jsonl`
 - Agent auto-apply: **False** (local pin only if enabled)

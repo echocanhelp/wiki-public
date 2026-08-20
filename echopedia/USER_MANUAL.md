@@ -71,18 +71,18 @@ Do you have a…
 ### Media stack / LLM UP–DOWN (pinto)
 
 **Full how-to (best utilization):** [`~/ai-services/media-stack/docs/USER_GUIDE.md`](../../ai-services/media-stack/docs/USER_GUIDE.md)  
-Orchestrator: `~/ai-services/media-stack/orchestrator/` · Policy: **force UP on reboot** (Laguna); Lightning = hard-window only.
+Orchestrator: `~/ai-services/media-stack/orchestrator/` · Policy: **force UP on reboot** (Ornith `:8888`); Lightning = hard-window only. Laguna deprecated.
 
 | You say | What happens |
 |---------|----------------|
 | `go media status` / `go llm mode` | mode/ports/mem/thermal via `media-status.sh` |
-| `go back to laguna` / `go emergency up` | panic restore Laguna (`media-emergency-up.sh`) |
-| `go generate image …` (local) | `soft_image.sh` (SD1.5 soft; Laguna stays up) |
+| `go back to laguna` / `go emergency up` / `go back to ornith` | panic restore Ornith UP (`media-emergency-up.sh`) |
+| `go generate image …` (local) | `soft_image.sh` (SD1.5 soft; Ornith stays up) |
 | `go describe this image` (local) | `soft_vision.sh` (Qwen2.5-VL-3B on-demand) |
 | local whisper / music / tts | `whisper_transcribe.sh` · `soft_music.sh` · `soft_tts.sh` (music/tts may be stub) |
 | hard local Lightning burst | ops: `transition.py hard-enter` → `:8890` → `hard-exit` (see USER_GUIDE) |
 
-**Default:** prefer **soft** (Laguna up). **Hard** only for Lightning/fat GPU. LINE stays Grok during hard. Vault disk always available. Stuck → emergency up.
+**Default:** prefer **soft** (Ornith up). **Hard** only for Lightning/fat GPU. LINE stays Grok during hard. Vault disk always available. Stuck → emergency up.
 
 ### Ingest a new website
 1. Say: `Echopedia website <domain>`
@@ -194,12 +194,12 @@ Look at the **janitor queue** (depth is in SYSTEM_STATUS.md). Typical first task
 **Default (Leonard / Hsuperman):** saying **Echopedia** + a target means **live wiki**, not research-only.
 
 **Default workflow when user says "Echopedia <person> <fact>":**
-1. **Grok (frontier):** identity judgment + assign WORKER **P8** card to Laguna worker
-2. **Laguna (pinto/NVFP4):** P8 with the fact as source (commit only, no publish)
-3. **Laguna:** P1 to verify (ops/drift/smoke)
-4. **Laguna:** P2 to publish if green
+1. **Grok (frontier):** identity judgment + assign WORKER **P8** card to Ornith worker
+2. **Ornith (pinto LAN):** P8 with the fact as source (commit only, no publish)
+3. **Ornith:** P1 to verify (ops/drift/smoke)
+4. **Ornith:** P2 to publish if green
 
-**This runs automatically.** The planner (Grok) does NOT execute P8/P9 bulk — it assigns the card; the Laguna worker runs the playbook. The user only needs to say "Echopedia <target> <fact>".
+**This runs automatically.** The planner (Grok) does NOT execute P8/P9 bulk — it assigns the card; the Ornith worker runs the playbook. The user only needs to say "Echopedia <target> <fact>".
 
 | You say | System must do |
 |---------|----------------|

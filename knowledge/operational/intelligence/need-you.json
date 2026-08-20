@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-08-19T14:58:06Z",
+  "generated_at": "2026-08-20T14:56:05Z",
   "max": 5,
   "count": 5,
   "items": [
+    {
+      "id": "gap_5fd080a9d3",
+      "priority": 1,
+      "kind": "gap_miss",
+      "title": "Echopedia miss: “228”",
+      "action": "Confirm identity / approve thin page / or dismiss",
+      "source": "telegram",
+      "ts": "2026-08-20T01:29:19Z"
+    },
+    {
+      "id": "gap_0129882b06",
+      "priority": 1,
+      "kind": "gap_miss",
+      "title": "Echopedia miss: “the 228 incident”",
+      "action": "Confirm identity / approve thin page / or dismiss",
+      "source": "telegram",
+      "ts": "2026-08-20T01:29:19Z"
+    },
     {
       "id": "gap_14fc415227",
       "priority": 1,
@@ -29,24 +47,6 @@
       "action": "Confirm identity / approve thin page / or dismiss",
       "source": "telegram",
       "ts": "2026-08-18T08:32:19Z"
-    },
-    {
-      "id": "gap_333b81953c",
-      "priority": 1,
-      "kind": "gap_miss",
-      "title": "Echopedia miss: “Peh-oe-ji”",
-      "action": "Confirm identity / approve thin page / or dismiss",
-      "source": "telegram",
-      "ts": "2026-08-18T08:30:48Z"
-    },
-    {
-      "id": "gap_697b52cb8d",
-      "priority": 1,
-      "kind": "gap_miss",
-      "title": "Echopedia miss: “白話字”",
-      "action": "Confirm identity / approve thin page / or dismiss",
-      "source": "telegram",
-      "ts": "2026-08-18T08:30:48Z"
     }
   ]
 }

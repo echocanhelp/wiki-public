@@ -78,3 +78,6 @@
 {"ts": "2026-08-19T05:37:31Z", "status": "hit", "query": "賴永祥", "slug": "john-lai", "source": "telegram", "kind": "person"}
 {"ts": "2026-08-19T05:37:31Z", "status": "hit", "query": "John Lai", "slug": "john-lai", "source": "telegram", "kind": "person"}
 {"ts": "2026-08-19T07:00:09Z", "status": "hit", "query": "Tsan Yu Hsu", "slug": "c-y-hsu", "source": "telegram", "kind": "person"}
+{"ts": "2026-08-20T01:26:17Z", "status": "hit", "query": "Taiwan", "slug": "albert-chapter1-audiobook-taiwanese-female", "source": "telegram", "kind": "person"}
+{"ts": "2026-08-20T01:29:19Z", "status": "miss", "query": "228", "slug": null, "source": "telegram", "kind": null}
+{"ts": "2026-08-20T01:29:19Z", "status": "miss", "query": "the 228 incident", "slug": null, "source": "telegram", "kind": null}

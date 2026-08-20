@@ -1,23 +1,35 @@
 {
-  "at": "2026-08-16T21:02:49Z",
+  "at": "2026-08-20T14:37:01Z",
   "items": [
     {
       "id": "taiwancenter-org",
       "page": "content/organizations/taiwan-center.md",
-      "bytes": 17198,
+      "bytes": 19834,
       "tier": "THICK"
     },
     {
       "id": "good-shepherd-taiwanese-presbyterian-church",
       "page": "content/organizations/good-shepherd-taiwanese-presbyterian-church.md",
-      "bytes": 11792,
+      "bytes": 12784,
       "tier": "THICK"
     },
     {
       "id": "irvine-taiwanese-presbyterian-church",
       "page": "content/organizations/irvine-taiwanese-presbyterian-church.md",
-      "bytes": 27752,
+      "bytes": 27957,
       "tier": "THICK"
+    },
+    {
+      "id": "presbyterian-church-in-taiwan",
+      "page": "content/organizations/presbyterian-church-in-taiwan.md",
+      "bytes": 23086,
+      "tier": "THICK"
+    },
+    {
+      "id": "laijohn-com",
+      "page": "content/organizations/elder-john-lai-archives.md",
+      "bytes": 4914,
+      "tier": "MEDIUM"
     }
   ]
 }

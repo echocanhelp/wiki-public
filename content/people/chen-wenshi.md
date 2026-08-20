@@ -11,7 +11,7 @@ tags:
   - entrepreneur
   - painter
 verification_status: pending
-last_reviewed: 2026-08-19
+last_reviewed: 2026-08-20
 ---
 # Stone Chen (陳文石)
 

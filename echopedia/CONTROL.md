@@ -25,7 +25,7 @@ Bare messages without `go` on this system are treated the same as `go <message>`
 | Your words | Agent routes to |
 |------------|-----------------|
 | status / healthy / broken / docs | health (SYSTEM_STATUS, docs-sync) |
-| person/org + fact / source | Echopedia P8 — **Laguna worker** if this chat is Grok (`WORKER.md` token split) |
+| person/org + fact / source | Echopedia P8 — **Ornith/LAN worker** if this chat is Grok (`WORKER.md` token split) |
 | website / domain | WEBSITE_INGEST |
 | cron / nightly / job | cron SSOT + docs-sync |
 | publish / ship | P2 / ci-heal |
@@ -36,7 +36,7 @@ Bare messages without `go` on this system are treated the same as `go <message>`
 
 Full classifier: skill **`go-router`**.
 
-**LLM UP/DOWN (pinto media-stack):** Only the media orchestrator flips Laguna (`:8888`) ↔ Lightning down-model (`:8890`). Reboot always reconciles **force UP** (`force_up_on_reboot`). Never run dual LLMs. LINE stays Grok-primary.
+**LLM UP/DOWN (pinto media-stack):** Only the media orchestrator flips Ornith (`:8888`) ↔ Lightning down-model (`:8890`). Reboot always reconciles **force UP** (`force_up_on_reboot`). Never run dual LLMs. LINE stays Grok-primary. Laguna files kept for `swap-llm-stack.sh laguna-primary`.
 
 ---
 
@@ -171,7 +171,7 @@ Then run `bash ~/.hermes/scripts/echopedia-docs-sync.sh`. Do **not** hand-edit t
 
 ### 4.7 Models / spend
 
-- **Default local** (Laguna) for TAHS/private/LINE-adjacent.  
+- **Default local** (Ornith `:8888`) for TAHS/private/LINE-adjacent. Laguna files kept for revert only.  
 - **Grok** for architecture/planning when needed.  
 - **Cron = no_agent** unless there is a written exception in this file.  
 - Never leave agent crons unpinned after `/model` switches.

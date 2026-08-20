@@ -1,15 +1,8 @@
 {
   "version": 1,
-  "last_run": "2026-08-19",
+  "last_run": "2026-08-20",
   "standards_version_seen": 8,
   "runs": [
-    {
-      "date": "2026-07-20",
-      "candidates": 38,
-      "selected": 5,
-      "standards_version": 6,
-      "standards_bumped": false
-    },
     {
       "date": "2026-07-21",
       "candidates": 52,
@@ -209,6 +202,13 @@
     {
       "date": "2026-08-19",
       "candidates": 29348,
+      "selected": 20,
+      "standards_version": 8,
+      "standards_bumped": false
+    },
+    {
+      "date": "2026-08-20",
+      "candidates": 29319,
       "selected": 20,
       "standards_version": 8,
       "standards_bumped": false
@@ -458,7 +458,7 @@
       ]
     },
     {
-      "path": "articles/taiwanjustice-net/2026/20260210054434_烏總統致電法德領袖-求協助釋放遭俄軍綁架市長_a052c7dd14bfe563.md",
+      "path": "articles/taiwanjustice-net/2026/20260208210824_無懼中國警告_澳洲堅持調查中國_985b0c754731e99b.md",
       "findings": [
         "NO_RELATED_PAGES",
         "NO_LAST_REVIEWED"
@@ -473,7 +473,7 @@
       ]
     },
     {
-      "path": "articles/taiwanjustice-net/2026/20260125123521_李登輝10-7長眠五指山_墓園主體工程完成_1cdcb2b3dd874c6e.md",
+      "path": "articles/taiwanjustice-net/2026/20260124111240_日媒_鑽石公主號全船20人感染武漢肺炎_cbe1937a321671d0.md",
       "findings": [
         "NO_RELATED_PAGES",
         "NO_LAST_REVIEWED"
@@ -488,7 +488,7 @@
       ]
     },
     {
-      "path": "articles/taiwanjustice-net/2026/20260122073329_美國失業潮猛烈_7週內3348萬人申請失業補助_ffbc167cedc48b49.md",
+      "path": "articles/taiwanjustice-net/2026/20260211094251_嘉市228追思-受難家屬籲拆中正紀念堂蔣介石銅像_8823630dc3646a93.md",
       "findings": [
         "NO_RELATED_PAGES",
         "NO_LAST_REVIEWED"
@@ -503,7 +503,7 @@
       ]
     },
     {
-      "path": "articles/taiwanjustice-net/2026/20260115085919_徐斯儉會晤美國退伍軍人部長_討論台美深化合作_d6e99a63d1c59b0a.md",
+      "path": "articles/taiwanjustice-net/2026/20260211101404_賴清德_卑躬屈膝無法停止侵略_全民一心守護國_6eb558bd5ea47dfe.md",
       "findings": [
         "NO_RELATED_PAGES",
         "NO_LAST_REVIEWED"
@@ -518,7 +518,7 @@
       ]
     },
     {
-      "path": "articles/taiwanjustice-net/2026/20260122081217_收到美國禁飛令計劃_中國緊急放寬對外國航班的_8e2ccbbdb67786e7.md",
+      "path": "articles/taiwanjustice-net/2026/20260125065048_維特齊9-1立院演說_非邦交國議長第一人_b65d3648996b7e4a.md",
       "findings": [
         "NO_RELATED_PAGES",
         "NO_LAST_REVIEWED"
@@ -533,7 +533,7 @@
       ]
     },
     {
-      "path": "articles/taiwanjustice-net/2026/20260125124944_美國最高法院拒絕聽取川普最後一項選舉上訴案_ed079bb4b0da2544.md",
+      "path": "articles/taiwanjustice-net/2026/20260118234924_古老泰國性藝術不隱諱_曼谷咖啡館打破禁忌_4df25eac75d36cd2.md",
       "findings": [
         "NO_RELATED_PAGES",
         "NO_LAST_REVIEWED"
@@ -548,7 +548,7 @@
       ]
     }
   ],
-  "last_candidates": 29348,
+  "last_candidates": 29319,
   "last_selected": [
     "people/chen-meihui.md",
     "people/guo-yingyan.md",
@@ -564,11 +564,11 @@
     "sources/irvine-taiwanese-presbyterian-church.md",
     "sources/2017-tahs-publication.md",
     "people/lien-hwa-chow.md",
-    "articles/taiwanjustice-net/2026/20260210054434_烏總統致電法德領袖-求協助釋放遭俄軍綁架市長_a052c7dd14bfe563.md",
-    "articles/taiwanjustice-net/2026/20260125123521_李登輝10-7長眠五指山_墓園主體工程完成_1cdcb2b3dd874c6e.md",
-    "articles/taiwanjustice-net/2026/20260122073329_美國失業潮猛烈_7週內3348萬人申請失業補助_ffbc167cedc48b49.md",
-    "articles/taiwanjustice-net/2026/20260115085919_徐斯儉會晤美國退伍軍人部長_討論台美深化合作_d6e99a63d1c59b0a.md",
-    "articles/taiwanjustice-net/2026/20260122081217_收到美國禁飛令計劃_中國緊急放寬對外國航班的_8e2ccbbdb67786e7.md",
-    "articles/taiwanjustice-net/2026/20260125124944_美國最高法院拒絕聽取川普最後一項選舉上訴案_ed079bb4b0da2544.md"
+    "articles/taiwanjustice-net/2026/20260208210824_無懼中國警告_澳洲堅持調查中國_985b0c754731e99b.md",
+    "articles/taiwanjustice-net/2026/20260124111240_日媒_鑽石公主號全船20人感染武漢肺炎_cbe1937a321671d0.md",
+    "articles/taiwanjustice-net/2026/20260211094251_嘉市228追思-受難家屬籲拆中正紀念堂蔣介石銅像_8823630dc3646a93.md",
+    "articles/taiwanjustice-net/2026/20260211101404_賴清德_卑躬屈膝無法停止侵略_全民一心守護國_6eb558bd5ea47dfe.md",
+    "articles/taiwanjustice-net/2026/20260125065048_維特齊9-1立院演說_非邦交國議長第一人_b65d3648996b7e4a.md",
+    "articles/taiwanjustice-net/2026/20260118234924_古老泰國性藝術不隱諱_曼谷咖啡館打破禁忌_4df25eac75d36cd2.md"
   ]
 }

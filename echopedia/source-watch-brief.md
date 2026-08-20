@@ -1,12 +1,10 @@
-# Source continuity brief — 2026-08-16
+# Source continuity brief — 2026-08-20
 
-dry_run=False
+dry_run=True
 
 ## Results
-- **taiwancenter-org**: new=0 changed=0 applied=0 parked=False
-- **good-shepherd-taiwanese-presbyterian-church**: new=0 changed=1 applied=3 parked=False
-- **irvine-taiwanese-presbyterian-church**: new=0 changed=0 applied=0 parked=False
 
 ## Next ingest
-- pct.org.tw (score=6, mentions=2) — go Echopedia website https://pct.org.tw/
-- bai-weiwei (score=8, mentions=?) — go deepen people/bai-weiwei
+- example.org (score=10, mentions=3) — go Echopedia website https://example.org/
+- foo.org (score=11, mentions=?) — go Echopedia website https://foo.org/
+- bar-slug (score=8, mentions=?) — go deepen people/bar-slug
