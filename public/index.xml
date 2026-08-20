@@ -6,6 +6,18 @@
       <description>Last 10 notes on Echopedia</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>People</title>
+    <link>https://echocanhelp.github.io/wiki-public/people/</link>
+    <guid>https://echocanhelp.github.io/wiki-public/people/</guid>
+    <description><![CDATA[ People Person records in Echopedia. ]]></description>
+    <pubDate>Thu, 20 Aug 2026 15:03:48 GMT</pubDate>
+  </item><item>
+    <title>Organizations</title>
+    <link>https://echocanhelp.github.io/wiki-public/organizations/</link>
+    <guid>https://echocanhelp.github.io/wiki-public/organizations/</guid>
+    <description><![CDATA[ Organizations Organization records in Echopedia — churches, cultural centers, historical societies, and related institutions. ]]></description>
+    <pubDate>Thu, 20 Aug 2026 15:03:48 GMT</pubDate>
+  </item><item>
     <title>Presbyterian Church in Taiwan (PCT) Official Website</title>
     <link>https://echocanhelp.github.io/wiki-public/sources/presbyterian-church-in-taiwan</link>
     <guid>https://echocanhelp.github.io/wiki-public/sources/presbyterian-church-in-taiwan</guid>
@@ -52,18 +64,6 @@
     <link>https://echocanhelp.github.io/wiki-public/people/zheng-qinren</link>
     <guid>https://echocanhelp.github.io/wiki-public/people/zheng-qinren</guid>
     <description><![CDATA[ Cheng Chin-jen / 鄭欽仁 Mentioned as a contributor or subject in 2017/2023 taiwanjustice.net publications. ]]></description>
-    <pubDate>Thu, 20 Aug 2026 15:01:09 GMT</pubDate>
-  </item><item>
-    <title>Dr. Yunching Yeh Davis (葉芸青)</title>
-    <link>https://echocanhelp.github.io/wiki-public/people/yunching-yeh-davis</link>
-    <guid>https://echocanhelp.github.io/wiki-public/people/yunching-yeh-davis</guid>
-    <description><![CDATA[ Dr. Yunching Yeh Davis (葉芸青) Dr. Yunching Yeh Davis (葉芸青) is 主席 of the NTPC 執委會 for 2025/26 (西南區代表; ntpc-usa.org). ]]></description>
-    <pubDate>Thu, 20 Aug 2026 15:01:09 GMT</pubDate>
-  </item><item>
-    <title>Zeng Dao-xiong (曾道雄)</title>
-    <link>https://echocanhelp.github.io/wiki-public/people/zeng-daoxiong</link>
-    <guid>https://echocanhelp.github.io/wiki-public/people/zeng-daoxiong</guid>
-    <description><![CDATA[ Zeng Dao-xiong (曾道雄) Zeng Dao-xiong (曾道雄) is a columnist for taiwanjustice.net (台灣公義網), with 6 articles archived from the site’s column section. ]]></description>
     <pubDate>Thu, 20 Aug 2026 15:01:09 GMT</pubDate>
   </item>
     </channel>
