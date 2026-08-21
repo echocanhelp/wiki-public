@@ -57,6 +57,29 @@ If you change the same fact in three markdown files, you are **corrupting** the 
 
 ---
 
+## 1b. Who belongs on a person page (inclusion)
+
+Canon homepage: Echopedia documents people, congregations, and organizations that **shape Taiwanese American life** — not a census of 台美人 only.
+
+| Tier | Who | Keep? | How we list them |
+|------|-----|-------|------------------|
+| **A** | 台美人 (diaspora / US life / TA orgs & churches) | Core | Full dossier |
+| **B** | Taiwan people who shaped TA life (e.g. TAH.org subjects, visiting pastors) | Yes | Dossier; describe the *relationship*, do not fake 台美 identity |
+| **C** | Allies in **our** sources (TJ/RFA columnists the community read and kept) | Yes, usually thin | **Ally / contributor in the archive.** Never stamp “not Taiwanese American.” |
+| **D** | Famous names with **no** tie to a TAHS/community source | Out | Do not ingest |
+
+**Voice:** grateful and specific (“work the community read and kept”). Exclusion labels are rude and off-mission.
+
+**Thicken:** only along connections that fit the mission, **≤1 layer** from that source (the archive page, co-names already in Echopedia on the same harvest item). Do not walk a commentator’s wider PRC/US political graph.
+
+**Auto-merge:** option B only when scorer `enrich` **and** ≥2 independent sources agree (or one record source with no contradicting source). Hometown mismatch → queue, never overwrite. Birthdate conflict across the web → HOLD.
+
+**Related Pages:** link the **community source** (e.g. taiwanjustice). Do not tag `TAHS` / L1 “community engagement” unless they actually are TAHS/community members.
+
+Scripts: `echopedia-score-person.py`, `echopedia-candidate-gate.py`, `echopedia-merge-gateway.py`, `echopedia-recast-allies.py`.
+
+---
+
 ## 2. Control surfaces (how you actually steer)
 
 Use the **highest** surface that can do the job. Never jump to freestyle edits when a surface exists.

@@ -4,18 +4,28 @@ title: Wang Dan / 王丹
 name_en: Wang Dan
 name_zh_hanzi: 王丹
 tags:
-  - TAHS
+  - person
+  - allied-commentator
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-20
+last_reviewed: 2026-08-21
 ---
 
 # Wang Dan / 王丹
 
-Mentioned as a contributor or subject in 2017/2023 [taiwanjustice.net](/organizations/taiwanjustice-net) publications. Added to the TAHS L1 priority roster for community engagement and archive scoring.
+**Wang Dan** (王丹) appears in the [[organizations/taiwanjustice-net|taiwanjustice.net (台灣公義網)]] archive. Echopedia keeps this page because **that archive is part of the community’s reading life**.
 
-Related: [Taiwanese American Historical Society](/organizations/taiwanese-american-historical-society)
+He is included as an **ally and contributor in the record** — someone whose work or presence the community read and preserved. The page is about that shared reading life, not a claim about his own community identity.
+
+## Identity Snapshot
+
+- **English:** Wang Dan
+- **Chinese:** 王丹
+- **In this archive:** taiwanjustice.net
+- **How we list him:** Ally / contributor in a Taiwanese American media archive
+
+Related: [[organizations/taiwanjustice-net|taiwanjustice.net (台灣公義網)]]
 
 ## TJ Citations
 

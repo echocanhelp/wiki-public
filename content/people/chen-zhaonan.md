@@ -7,7 +7,11 @@ tags:
   - taiwanjustice-net
 verification_status: pending
 last_reviewed: 2026-08-20
+birthdate: 1942-12-11
+birth_year: 1942
+hometown: 台北市
 ---
+
 # Chen Chao-nan (陳昭南)
 
 **Chen Chao-nan** (陳昭南) is a columnist for [[sources/taiwanjustice-net|taiwanjustice.net (台灣公義網)]], with 398 articles archived from the site's column section.

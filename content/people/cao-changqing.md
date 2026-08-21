@@ -4,18 +4,50 @@ title: Cao Changqing / 曹長青
 name_en: Cao Changqing
 name_zh_hanzi: 曹長青
 tags:
-  - TAHS
+  - person
+  - allied-commentator
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-20
+last_reviewed: 2026-08-21
+birthdate: 1953-12-26
+birth_year: 1953
+hometown: 黑龍江省北安市
 ---
 
 # Cao Changqing / 曹長青
 
-Mentioned as a contributor or subject in 2017/2023 [taiwanjustice.net](/organizations/taiwanjustice-net) publications. Added to the TAHS L1 priority roster for community engagement and archive scoring.
+**Cao Changqing** (曹長青) is a U.S.-based commentator and writer, born 1953-12-26 in Bei'an, Heilongjiang (北安). Taiwanese American readers encountered his voice in [[organizations/taiwanjustice-net|taiwanjustice.net (台灣公義網)]], including columns first published via Radio Free Asia and later kept in that archive. Echopedia keeps this page because **that archive is part of the community’s reading life**.
 
-Related: [Taiwanese American Historical Society](/organizations/taiwanese-american-historical-society)
+He is included as an **ally and contributor in the record** — someone whose work the community read and preserved. The page is about that shared reading life, not a claim about his own community identity.
+
+Identity for this page was confirmed in 2026-08-21 review (same person as the photographs on the public profile). Birth and hometown follow the Wikipedia / ETtoday line (1953-12-26, 北安), not a conflicting 1961 date from a thinner profile.
+
+## Identity Snapshot
+
+- **English:** Cao Changqing
+- **Chinese:** 曹長青
+- **Born:** 1953-12-26, Bei'an, Heilongjiang (北安)
+- **Role:** Commentator and writer
+- **In this archive:** Columns and mentions on taiwanjustice.net (including RFA pieces the site kept)
+- **How we list him:** Ally / contributor in a Taiwanese American media archive
+
+## In this archive (one layer)
+
+Only ties that already sit in Echopedia / taiwanjustice — no walk into a wider political network.
+
+- **[[organizations/taiwanjustice-net|taiwanjustice.net]]** — the reason this page exists.
+- **Columns the community kept:** RFA pieces under his byline in the TJ harvest — [[articles/taiwanjustice-net/2024/20240723031812_root_1c8797085340c22e|南海仲裁下的台灣錯亂]] (2016) and [[articles/taiwanjustice-net/2023/20230530144628_2014_05_25_中國-五四運動是文革的前奏-_曹長青-自由亞洲電_c35692b8983d628e|五四運動是文革的前奏]] (2014).
+- **[[people/fan-jiang-ti-ang|Fan Chiang Tsiang (范姜提昂)]]** — 2016-12-21 自由時報 column in the TJ harvest, on 愛國同心會, names 曹長青 among people assaulted in Taipei (with 李登輝、陳水扁、許世楷 in the same news sentence). That is community-source context, not a new tree of PRC politics.
+- **[[people/yu-jie|余杰]]** — same TJ column index; names appear together in the harvest. No further 余杰 network on this page.
+
+## Sources
+
+- [曹長青 - 維基百科](https://zh.wikipedia.org/wiki/曹長青) — 1953-12-26, 北安
+- [ETtoday 曹長青](https://www.ettoday.net/feature/曹長青/11552) — same dates
+- taiwanjustice.net harvest (Works / TJ Citations below)
+
+Related: [[organizations/taiwanjustice-net|taiwanjustice.net (台灣公義網)]]
 
 ## TJ Citations
 
@@ -162,4 +194,6 @@ Notable quotes and mentions of **曹長青** in Taiwan Justice articles:
 
 ## Related Pages
 
-- [[people/albert-s-lai|Dr. Albert S. Lai]]
+- [[organizations/taiwanjustice-net|taiwanjustice.net (台灣公義網)]]
+- [[people/fan-jiang-ti-ang|Fan Chiang Tsiang (范姜提昂)]]
+- [[people/yu-jie|余杰]]

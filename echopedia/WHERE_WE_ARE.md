@@ -14,7 +14,7 @@
 
 | Layer | Status |
 |-------|--------|
-| **Content** | Albert / FPCLA / NTPC / co-founders / foreword authors; dissertation work page + GitHub full text |
+| **Content** | Albert / FPCLA / NTPC / co-founders / foreword authors; dissertation work page + GitHub full text. **Inclusion:** CONTROL §1b (allies in archive, ≤1-layer thicken, no exclusion stamps) |
 | **Linking** | First-mention + sources callouts; deepeners write Timeline / Quotes / Network |
 | **Large docs** | Archive → chunks → fact sheet → apply (not full PDF in context) |
 | **Protocol hub** | `go-router` + `echopedia-ops` first → single map |

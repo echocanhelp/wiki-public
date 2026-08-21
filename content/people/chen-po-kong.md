@@ -7,18 +7,23 @@ tags:
   - taiwanjustice-net
 verification_status: pending
 last_reviewed: 2026-08-20
+birthdate: 1963-12-20
+birth_year: 1963
+hometown: 四川省三台縣
 ---
+
 # Chen Po-kong (陳破空)
 
-**Chen Po-kong** (陳破空) is a columnist for [[sources/taiwanjustice-net|taiwanjustice.net (台灣公義網)]], with 463 articles archived from the site's column section.
+**Chen Po-kong** (陳破空) is a commentator whose columns are preserved on [[sources/taiwanjustice-net|taiwanjustice.net (台灣公義網)]] (463 articles in the site’s column section). Echopedia lists him as a **voice in that archive** — work Taiwanese American readers kept.
 
 ## Identity Snapshot
 
 - **English:** Chen Po-kong
 - **Chinese:** 陳破空
-- **Role:** Columnist
+- **Role:** Commentator (columns in the taiwanjustice.net archive)
 - **Source:** taiwanjustice.net column category
 - **Articles:** 463
+- **How we list him:** Ally / contributor in a Taiwanese American media archive
 
 ## Disambiguation
 

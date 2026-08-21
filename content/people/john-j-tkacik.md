@@ -6,17 +6,20 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-20
+last_reviewed: 2026-08-21
 ---
 # John J. Tkacik (譚慎格)
 
-**John J. Tkacik** (譚慎格) is a columnist for [[sources/taiwanjustice-net|taiwanjustice.net (台灣公義網)]], with 1 article archived from the site's column section.
+**John J. Tkacik** (譚慎格) is a commentator whose columns are preserved on [[sources/taiwanjustice-net|taiwanjustice.net (台灣公義網)]], with 1 article archived from the site's column section.
+
+Echopedia lists this writer as a **voice in that archive** — work Taiwanese American readers kept.
 
 ## Identity Snapshot
 
 - **English:** John J. Tkacik
 - **Chinese:** 譚慎格
-- **Role:** Columnist
+- **Role:** Commentator (columns in the taiwanjustice.net archive)
+- **How we list this writer:** Ally / contributor in a Taiwanese American media archive
 - **Source:** taiwanjustice.net column category
 - **Articles:** 1
 

@@ -6,17 +6,20 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-20
+last_reviewed: 2026-08-21
 ---
 # Lin Bao-hua (林保華)
 
-**Lin Bao-hua** (林保華) is a columnist for [[sources/taiwanjustice-net|taiwanjustice.net (台灣公義網)]], with 241 articles archived from the site's column section.
+**Lin Bao-hua** (林保華) is a commentator whose columns are preserved on [[sources/taiwanjustice-net|taiwanjustice.net (台灣公義網)]], with 241 articles archived from the site's column section.
+
+Echopedia lists this writer as a **voice in that archive** — work Taiwanese American readers kept.
 
 ## Identity Snapshot
 
 - **English:** Lin Bao-hua
 - **Chinese:** 林保華
-- **Role:** Columnist
+- **Role:** Commentator (columns in the taiwanjustice.net archive)
+- **How we list this writer:** Ally / contributor in a Taiwanese American media archive
 - **Source:** taiwanjustice.net column category
 - **Articles:** 241
 

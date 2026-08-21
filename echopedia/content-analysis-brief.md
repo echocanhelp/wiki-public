@@ -2,7 +2,7 @@
 - Standards v8
 - Pages scanned: **1658** with findings
 - Auto-queued for remediation: **52** (score ≥ 3)
-- Wall time: 1.17s
+- Wall time: 1.12s
 
 ### Top 10 pages needing attention:
 - `people/billy-chang.md` score=6 ⚠️ DESC_NO_BODY — DESC_NO_BODY, FRESHNESS_NO_REVIEW_DATE, LINKS_NO_RELATED, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
