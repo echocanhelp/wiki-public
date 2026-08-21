@@ -17,6 +17,7 @@ categories:
 - internatinal
 - usa_news
 - vanity
+last_reviewed: 2026-08-20
 ---
 
 敬請支持‧歡迎訂閱本報newsletter
@@ -27,3 +28,7 @@ categories:
  歡迎訂閱本報newsletter
 嘉年華郵輪還強調，旗下郵輪恢復營運「取決於數個因素」，他們也會「致力配合因應2019冠狀病毒疾病（COVID-19，武漢肺炎）疫情採取的所有公衛措施」。（譯者：陳家倫/核稿：張正芊）1090505
  本報24/7隨時更新 歡迎定閱newsletter
+
+## Related Pages
+
+- [[people/albert-s-lai|Dr. Albert S. Lai]]

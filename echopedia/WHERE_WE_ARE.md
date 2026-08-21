@@ -42,8 +42,8 @@ All stages **`no_agent`** (no LLM in overnight path):
 7. **Publish** (08:00) — ci-heal L2/L3  
 8. **Review** (Sun 07:05) — weekly-improvement pack + review gate  
 
-**Human surface (last content brief):** `vault-morning-brief` **07:55** — NEED YOU ≤5 first.  
-**Cron self-heal:** `cron-audit` 06:50 · `cron-self-audit` 08:30 (schedule restore + missed-run guards).
+**Human surface (last content brief):** `vault-morning-brief` **08:15** — NEED YOU ≤5 first.  
+**Cron self-heal:** `cron-audit` 06:00 · `cron-self-audit` 06:40 (schedule restore + missed-run guards).
 
 **Folded (paused as Telegram):** `vault-unfinished-threads`, `vault-connector-suggestions`, `vault-intelligence-digest` — collectors still run **via morning-brief** (disk), not separate spam.
 
@@ -59,43 +59,29 @@ SSOT times: `hermes cron list` / SYSTEM_STATUS generated table. Narrative summar
 |--------------|-----|------|
 | every 1m | `vllm-thermal-scaler` | Adaptive GPU/thermals (silent when cool) |
 | every 30m | `unified-watchdog` · `kanban-sync` | Health + board sync (silent OK) |
-| 03:05 | content-analysis · output-rotate | Filter + log hygiene |
-| 03:10 | nightly-audit | Structural sense (alert if critical) |
-| 03:50 | janitor | Queue safe remediation candidates |
-| 04:05–04:06 | scout · person-works-linker | Live UX + works links |
-| 04:15–04:25 | extract · evaluate · generate | Pipeline |
-| **08:15** | **site-design** | **Audit-only after ci-heal push** |
-| 04:40–05:20 | backlink · quotes · timeline | Page deepening AUTO |
-| 05:30 Sun | vault-search-index-rebuild | Search index |
-| **Sun 06:00** | **source-continuity** | **Live-site watch (TC/GSTPC/ITPC/PCT) → delta AUTO → next-ingest tips** |
-| 06:50 | cron-audit | Empty-schedule / missed-run / deliver guards |
-| **08:00** | **ci-heal** | **Only nightly pusher** (L2 heal + L3 green) |
-| 07:10 | docs-sync | Doc OS sense + cron inventory regen |
-| 07:20 | digest | System dashboard (tagged) |
-| 07:50 | memory-audit | Silent unless MEMORY/USER issues |
-| **07:55** | **vault-morning-brief** | **Primary human surface** (+ SOURCE CONTINUITY / NEXT INGEST) |
-| 08:30 | cron-self-audit | Schedule integrity + sequence |
-| Sun 07:05 | weekly-improvement | Review gate + pack |
-
-### Autonomy flags (`echopedia/standards.json` → `autonomy`)
-- L2: publish on drift, drain on CI, commit heal  
-- L3: `l3_auto_push_on_green` when ops ≠ FAIL, drift OK, smoke OK  
-- Turn off push: set `l3_auto_push_on_green: false`
-
-### State files
-| Path | Purpose |
-|------|---------|
-| `echopedia/standards.json` | Rules + autonomy version |
-| `echopedia/SYSTEM_STATUS.md` | **Auto** machine snapshot (crons, queue, last good) |
-| `echopedia/WHERE_WE_ARE.md` | **This** human narrative |
-| `echopedia/janitor-state.json` | Queue |
-| `echopedia/last-good-deploy.json` | Last green push |
-| `echopedia/*-brief.md` | Janitor / CI / improvement / intake |
-| `knowledge/operational/intelligence/` | Morning brief, NEED YOU, unfinished |
-| `knowledge/operational/cron-notify-labels.md` | Telegram tag contract |
-| `knowledge/operational/source-continuity.md` | Live-site watch lifecycle |
-| `knowledge/operational/source-watch-registry.json` | Watched live sites SSOT |
-| `knowledge/operational/echopedia-first-path.md` | First-answer → NEED YOU path |
+| **01:10** | **content-analysis** | Daily content-quality audit (auto-heal) |
+| 01:15 | nightly-audit | Structural sense (alert if critical) |
+| **01:30** | **janitor** | Queue safe remediation candidates |
+| 01:40 | scout-live | Live UX gaps (404s, slow) |
+| 01:50 | backlink-auditor | Inbound link audit |
+| **02:00** | **extract-actions** | Findings → actionable cards (pipeline) |
+| 02:10 | evaluate-actions | Score by impact (pipeline) |
+| 02:20 | generate-cards | Build remediation task cards (pipeline) |
+| **02:30** | **person-works-linker** | Link people ↔ works (AUTO) |
+| 02:40 | quote-extractor | Quote mining (AUTO) |
+| **03:00** | **timeline-builder** | Deepen timelines (AUTO) |
+| 03:15 | output-rotate | Log/output hygiene |
+| **03:30** | **ci-heal** | **Only nightly pusher** (L2 heal + L3 green) |
+| **03:45** | **site-design** | **Audit-only after ci-heal push** |
+| **06:00** | **cron-audit** | Empty-schedule / missed-run / deliver guards |
+| 06:10 | docs-sync | Doc OS sense + cron inventory regen |
+| **06:20** | **digest** | System dashboard (tagged) |
+| 06:30 | memory-audit | Silent unless MEMORY/USER issues |
+| **06:40** | **cron-self-audit** | Schedule integrity + sequence |
+| **Sun 05:30** | **vault-search-index-rebuild** | Search index rebuild |
+| **Sun 07:00** | **source-continuity** | **Live-site watch (TC/GSTPC/ITPC/PCT) → delta AUTO → next-ingest tips** |
+| Sun 07:15 | weekly-improvement | Review gate + pack |
+| **08:15** | **vault-morning-brief** | **Primary human surface** (+ SOURCE CONTINUITY / NEXT INGEST) |
 | `knowledge/operational/incidents/` | Failures |
 
 ---

@@ -1,0 +1,127 @@
+{
+  "id": "taiwaneseamerican-org",
+  "urls": {
+    "https://www.taiwaneseamerican.org/": {
+      "hash": "b35f5718f8a58c2e1399c81c4bfac4ef",
+      "len": 57534,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.taiwaneseamerican.org/2026/07/theyve-always-come-to-us-fiction-eddie-lo/": {
+      "hash": "60f5a8cf74d32b55bfd07ae2d87640e9",
+      "len": 89475,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.taiwaneseamerican.org/2026/05/2026-creative-writing-prize-winners/": {
+      "hash": "2815020f901fb7419fafe26b7df981cc",
+      "len": 77265,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.taiwaneseamerican.org/2026/07/to-my-date-at-wonder-bar/": {
+      "hash": "544e33d41e3971d936d887e79a2da28d",
+      "len": 70116,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.taiwaneseamerican.org/2026/05/inner-voices-of-the-fog-a-reflection-on-a-foggy-tale/": {
+      "hash": "d8e6fef9351388f9572ed76667bd29b2",
+      "len": 65085,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.taiwaneseamerican.org/2026/05/a-pilgrimage-creative-nonfiction-by-cindy-cheng/": {
+      "hash": "9a1ce3f56d4b87e3d4b934f1f2286b20",
+      "len": 87611,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.taiwaneseamerican.org/2026/05/serena-shih-fiction-cwp/": {
+      "hash": "1f99670358393d621c8d100f84497674",
+      "len": 67713,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.taiwaneseamerican.org/2026/05/laurie-fang-fiction-cwp/": {
+      "hash": "94c649b2af2e0d5913d9142133839fe2",
+      "len": 69716,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.taiwaneseamerican.org/2026/05/susan-hong-fiction-cwp/": {
+      "hash": "736d3357144fac141d62c9f22e0b57e9",
+      "len": 77082,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.taiwaneseamerican.org/2026/05/esther-fung-fiction-cwp/": {
+      "hash": "5e75e50deaabb4bf75f6407e3ced6a72",
+      "len": 88665,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.taiwaneseamerican.org/2026/05/leaving-the-united-states-made-me-feel-more-taiwanese-american/": {
+      "hash": "834cfc1a552684fab00cff264f740634",
+      "len": 74898,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.taiwaneseamerican.org/2026/04/a-little-bit-sweet-doc/": {
+      "hash": "d3e9c3c1e53dfde323a2f8a09a15029b",
+      "len": 69496,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.taiwaneseamerican.org/2026/02/2026-creative-writing-prize/": {
+      "hash": "235597d4cfa3a3e43689eaf52a449d65",
+      "len": 67859,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.taiwaneseamerican.org/2026/02/228-reflection-2026/": {
+      "hash": "d929b2d610ce92bd4da6e069f1dfa156",
+      "len": 64024,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.taiwaneseamerican.org/2026/02/stefany-valentine-interview/": {
+      "hash": "958e2a1686a87cf41dd66c92377734c2",
+      "len": 73939,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.taiwaneseamerican.org/2026/02/in-grief-returning-to-my-roots/": {
+      "hash": "de9030cf780e222635267280ee888f0f",
+      "len": 63438,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.taiwaneseamerican.org/2026/02/national-treasure-taiwanese-identity/": {
+      "hash": "3642d183fd04d24942a6a1cd48ac25d3",
+      "len": 63459,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.taiwaneseamerican.org/2026/02/revolutionary-taiwan/": {
+      "hash": "672b7f6ffb3421e4a27765bf3992ac32",
+      "len": 72895,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.taiwaneseamerican.org/2025/06/model-minority-myth-hsin-i-cheng/": {
+      "hash": "eb6cf4f169599c94c34399f6f13fe8e2",
+      "len": 79774,
+      "code": 200,
+      "baseline": true
+    },
+    "https://www.taiwaneseamerican.org/2026/01/kaila-yus-fetishized-community-discussion-guide/": {
+      "hash": "8edf425aeab29a208b70a0fab4af26b9",
+      "len": 60916,
+      "code": 200,
+      "baseline": true
+    }
+  },
+  "last_poll": "2026-08-21T01:37:21Z",
+  "baseline_at": "2026-08-21T01:37:21Z"
+}

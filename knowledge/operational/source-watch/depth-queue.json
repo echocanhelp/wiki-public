@@ -1,5 +1,5 @@
 {
-  "at": "2026-08-20T17:16:23Z",
+  "at": "2026-08-21T01:37:49Z",
   "items": [
     {
       "id": "taiwancenter-org",
@@ -29,6 +29,12 @@
       "id": "laijohn-com",
       "page": "content/organizations/elder-john-lai-archives.md",
       "bytes": 4914,
+      "tier": "MEDIUM"
+    },
+    {
+      "id": "taiwaneseamerican-org",
+      "page": "content/organizations/taiwaneseamerican-org.md",
+      "bytes": 3671,
       "tier": "MEDIUM"
     }
   ]

@@ -44,11 +44,11 @@ Public wiki pages must **not** include private LINE IDs or non-public contact de
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74|台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元]]
-2. [[articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3|旅美五十周年 ◎ 鄭炳全]]
-3. [[articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16|旅美五十周年 ◎ 鄭炳全]]
-4. [[articles/taiwanjustice-net/2022/20220127025846_2022_01_10_圓滿的100-慶賀葉思雅_張信惠_週末漫談音樂_專_a1be6b822ac7cdcd|圓滿的100- 慶賀葉思雅、張信惠「週末漫談音樂」專欄里程碑]]
-5. [[articles/taiwanjustice-net/2024/20240425080646_root_9a39a754d2a3b236|我的人生︰一個堅持和無數的巧合 ◎吳澧培/吳澧培回憶錄前言 10-12-2015]]
+1. [[articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3|旅美五十周年 ◎ 鄭炳全]]
+2. [[articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16|旅美五十周年 ◎ 鄭炳全]]
+3. [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|抗議 南加州台大校友會邀管中閔來年會做專題演講 ◎國立台灣大學校友 2018-07-19]]
+4. [[articles/taiwanjustice-net/2025/20250811013132_化作千風_懷念台美人的人權鬥士_台獨先鋒王泰_31b7081a5d37939f|化作千風－懷念台美人的人權鬥士、台獨先鋒王泰和 [追思會影音]]]
+5. [[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74|台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元]]
 
 
 ## Timeline

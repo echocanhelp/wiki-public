@@ -77,8 +77,8 @@ Top 10 articles from taiwanjustice.net mentioning gong-sun-le:
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2024/20240425074107_root_e17b36baffe6fe32|我的肥皂箱]]
-2. [[articles/taiwanjustice-net/2023/20230326050802_author_josephc_page_12603_269d7b2877b6dec4|admin]]
+1. [[articles/taiwanjustice-net/2023/20230326050802_author_josephc_page_12603_269d7b2877b6dec4|admin]]
+2. [[articles/taiwanjustice-net/2024/20240425074107_root_e17b36baffe6fe32|我的肥皂箱]]
 3. [[articles/taiwanjustice-net/2023/20231201230105_root_613509a10916014b|動畫]]
 4. [[articles/taiwanjustice-net/2024/20240221103614_root_e3c7f5e6fe545ddd|我的肥皂箱]]
 5. [[articles/taiwanjustice-net/2024/20240622135632_root_54dd66fe454bf899|一場獲滿堂彩的文化交流-以立合唱團為美國中學生介紹台灣並演唱「天烏烏」]]

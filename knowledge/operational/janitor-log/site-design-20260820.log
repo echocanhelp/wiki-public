@@ -1,18 +1,18 @@
 === SITE DESIGN HEAL — 2026-08-20 dry=0 audit_only=1 ===
 flags: heal=True featured=True publish=True
 SITE_DESIGN_STATUS: ACTION
-SITE_DESIGN_SUMMARY: critical=0 high=1 medium=1 md=2854 heals=none
+SITE_DESIGN_SUMMARY: critical=0 high=1 medium=1 md=5267 heals=none
 HIGH: [B2] pinned featured pages: 47 (cap 6 people + 3 orgs; overflow hides recency)
 SITE_DESIGN_BRIEF: /home/leedt/echo-system/echopedia/site-design-brief.md
 SITE_DESIGN_HEAL: audit-only status=ACTION
 === SITE DESIGN AUDIT ===
 SITE_DESIGN_STATUS: ACTION
-SITE_DESIGN_SUMMARY: critical=0 high=1 medium=1 md=2854 heals=none
+SITE_DESIGN_SUMMARY: critical=0 high=1 medium=1 md=5267 heals=none
 HIGH: [B2] pinned featured pages: 47 (cap 6 people + 3 orgs; overflow hides recency)
 SITE_DESIGN_BRIEF: /home/leedt/echo-system/echopedia/site-design-brief.md
-## Site design audit — 2026-08-20 10:23
+## Site design audit — 2026-08-20 23:08
 
-- pages_md=2854
+- pages_md=5267
 - critical=0 high=1 medium=1
 - heals_suggested=none
 
@@ -31,14 +31,10 @@ SITE_DESIGN_BRIEF: /home/leedt/echo-system/echopedia/site-design-brief.md
   - `people/franklin-ping-cheng.md`
 
 ### MEDIUM (1)
-- **F4** people/index.html is 1468780 bytes — heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break.
-
-### LOW (1)
-- **C1** spelling signals (sample): 1 `[AGENT_SUGGESTED]`
-  - `cao-changqing.md: ?changqing`
+- **F4** people/index.html is 1468869 bytes — heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break.
 
 ### INFO (1)
-- **B1** person/org touched ≤7d (rely on recency featured window): 2625
+- **B1** person/org touched ≤7d (rely on recency featured window): 2626
   - `people/a-n-liu.md`
   - `people/abby-hong.md`
   - `people/adam-chang.md`

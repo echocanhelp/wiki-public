@@ -262,13 +262,13 @@ After cron edits: run docs-sync (or wait for system-status/ci-heal). Optional: s
 | When (local) | System does | You do |
 |--------------|-------------|--------|
 | Continuous | Watchdog, thermal | Nothing if silent |
-| 03:05–05:30 | Sense → deepen → queue | Sleep |
-| **Sun 06:00** | **source-continuity** (live sites) | Nothing if silent |
-| **08:00** | **ci-heal** (only nightly push) | Sleep |
-| 07:20 | Digest (tagged) | Optional skim |
-| **07:55** | **Morning brief** | **Only 🔴 NEED YOU** |
-| 08:30 | Cron self-audit | Nothing if silent |
-| Sun 07:05 | Weekly improvement | Nothing unless 🔴 FAIL |
+|| 01:10–03:45 | Sense → deepen → queue | Sleep |
+|| **Sun 07:00** | **source-continuity** (live sites) | Nothing if silent |
+|| **03:30** | **ci-heal** (only nightly push) | Sleep |
+|| 06:20 | Digest (tagged) | Optional skim |
+|| **08:15** | **Morning brief** | **Only 🔴 NEED YOU** |
+|| 06:40 | Cron self-audit | Nothing if silent |
+|| Sun 07:15 | Weekly improvement | Nothing unless 🔴 FAIL |
 | Ad hoc | — | Commands / one playbook / one plan epic |
 
 **Intervention rule:**  

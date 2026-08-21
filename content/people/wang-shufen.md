@@ -78,11 +78,11 @@ Top 10 articles from taiwanjustice.net mentioning wang-shufen:
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2023/20231201225623_root_41b304eda05fa545|Covid-19 浩劫餘生錄]]
-2. [[articles/taiwanjustice-net/2023/20231201230251_root_3ab5b8dfba8018b5|藝文]]
+1. [[articles/taiwanjustice-net/2023/20231201230251_root_3ab5b8dfba8018b5|藝文]]
+2. [[articles/taiwanjustice-net/2023/20231201225623_root_41b304eda05fa545|Covid-19 浩劫餘生錄]]
 3. [[articles/taiwanjustice-net/2025/20251108180838_榮獲廖述宗教授紀念獎_罷韓四君子_是肯定每個_d2e6e5b19ab4b452|榮獲廖述宗教授紀念獎，罷韓四君子：是肯定每個夥伴]]
 4. [[articles/taiwanjustice-net/2025/20250515102312_高雄市長補選15日登場-雙鐵出現返鄉人潮_21a5534ecfeaf505|高雄市長補選15日登場 雙鐵出現返鄉人潮]]
-5. [[articles/taiwanjustice-net/2025/20250617075507_選前之夜-蔡總統_高雄人不能讓韓國瑜騙第二次_880e4017516d8998|選前之夜 蔡總統：高雄人不能讓韓國瑜騙第二次]]
+5. [[articles/taiwanjustice-net/2020/20200623235826_2020_06_21_拚高市長補選-陳其邁_競總團隊22日公布_趙天麟_c3caed5fc249caa4|拚高市長補選，陳其邁競總團隊主委許立明出任，總幹事為立委趙天麟]]
 
 
 ## Timeline

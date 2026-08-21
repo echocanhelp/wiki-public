@@ -78,9 +78,9 @@ See the source hub. Top mentions:
 
 1. [[articles/taiwanjustice-net/2024/20240225010015_root_98c2db4fe9f79102|股市亮點]]
 2. [[articles/taiwanjustice-net/2020/20201220100700_2020_12_02_股市亮點_167-amd-advanced-micro-devices_6f0896677c9e2c1e|股市亮點（167) AMD ( Advanced Micro Devices )]]
-3. [[articles/taiwanjustice-net/2020/20200623105014_2020_05_31_股市亮點_120_sedg-solaredge-tech_c745312aa33bd0a7|股市亮點（120）SEDG ( SolarEdge Tech.)]]
-4. [[articles/taiwanjustice-net/2020/20201022173605_2020_10_01_股市亮點-_137_podd-insulet-corp_79129d9f40928e43|股市亮點 （137）PODD ( Insulet Corp. )]]
-5. [[articles/taiwanjustice-net/2020/20201119011204_2020_11_12_股市亮點151rem-ishares-mortgage-real-estate-capped-etf_0c50422a96f3b1b7|股市亮點(151)REM ( iShares Mortgage Real Estate Capped ETF )]]
+3. [[articles/taiwanjustice-net/2020/20201022173605_2020_10_01_股市亮點-_137_podd-insulet-corp_79129d9f40928e43|股市亮點 （137）PODD ( Insulet Corp. )]]
+4. [[articles/taiwanjustice-net/2023/20230530150718_2020_12_24_股市亮點_174_-gbtc-grayscale-bitcoin-trust-otc_b7bc3b2fa691f6bd|股市亮點（174） GBTC ( Grayscale Bitcoin Trust, OTC )]]
+5. [[articles/taiwanjustice-net/2020/20201219211915_2020_12_11_股市亮點_172_grmn-garmin-ltd_bf49664a03ffdcd0|股市亮點（172）GRMN ( Garmin Ltd. )]]
 
 
 ## Source Notes

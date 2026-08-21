@@ -41,8 +41,8 @@ Related: [Taiwanese American Historical Society](/organizations/taiwanese-americ
 See the source hub. Top mentions:
 
 1. [[articles/taiwanjustice-net/2023/20230607064911_author_josephc_page_12602_fe34f8717ed9a31d|admin]]
-2. [[articles/taiwanjustice-net/2024/20240421183124_root_48a2d01d5d49f855|台灣需要陪審團【上】◎黃帝穎 極光電子報/ July 8,2014]]
-3. [[articles/taiwanjustice-net/2021/20210118235211_2020_11_25_全美台灣人權協會第44屆年會暨_鄭南榕紀念獎_頒_996879ac7a006acf|全美台灣人權協會第44屆年會暨「鄭南榕紀念獎」頒獎　12月5日移師台灣]]
+2. [[articles/taiwanjustice-net/2021/20210118235211_2020_11_25_全美台灣人權協會第44屆年會暨_鄭南榕紀念獎_頒_996879ac7a006acf|全美台灣人權協會第44屆年會暨「鄭南榕紀念獎」頒獎　12月5日移師台灣]]
+3. [[articles/taiwanjustice-net/2024/20240421183124_root_48a2d01d5d49f855|台灣需要陪審團【上】◎黃帝穎 極光電子報/ July 8,2014]]
 4. [[articles/taiwanjustice-net/2025/20250430193548_因應中國5大威脅-軍事審判等修法期程4月上旬定調_026ac23060eacd58|因應中國5大威脅 軍事審判等修法期程4月上旬定調]]
 5. [[articles/taiwanjustice-net/2026/20260112180939_2020區域_原民立委79席當選名單_822ff0e9ac13d27c|2020區域、原民立委79席當選名單]]
 

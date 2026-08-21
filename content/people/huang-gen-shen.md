@@ -55,9 +55,9 @@ last_reviewed: 2026-08-20
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2024/20240520023218_root_89e6683c93156205|台美人台加人]]
-2. [[articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3|旅美五十周年 ◎ 鄭炳全]]
-3. [[articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16|旅美五十周年 ◎ 鄭炳全]]
+1. [[articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3|旅美五十周年 ◎ 鄭炳全]]
+2. [[articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16|旅美五十周年 ◎ 鄭炳全]]
+3. [[articles/taiwanjustice-net/2024/20240520023218_root_89e6683c93156205|台美人台加人]]
 
 
 ## Timeline

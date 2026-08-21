@@ -1,18 +1,12 @@
-=====================================================
-  VAULT INTELLIGENCE — 2026-08-20
-=====================================================
+TAHS · Echopedia morning brief — 2026-08-20
+No owner judgment needed — overnight loop ran clean.
 
 🔴 NEED YOU (your judgment only)
-🔴 NEED YOU  1. Echopedia miss: “Stone Chen”
-     → Confirm identity / approve thin page / or dismiss
+✅ AUTO  none — no owner judgment required
 
 🟡 QUEUE / identity (soft — no reply required)
 🟡 QUEUE Becky Yang: soft pending aged out: chinese_name
 🟡 QUEUE Charles Yang: soft pending aged out: capture_line_user_id_on_first_sender_message
-
-🟡 SOURCE CONTINUITY (live sites)
-✅ AUTO  good-shepherd-taiwanese-presbyterian-church: +0 new / 1 changed; applied 3
-✅ AUTO  presbyterian-church-in-taiwan: +2 new / 0 changed; applied 4
 
 🟡 NEXT INGEST (≤2, advisory — not started)
 🟡 QUEUE taiwaneseamericanhistory.org — external host on 5306 Tier1 pages; not watched
@@ -21,10 +15,10 @@
      → go Echopedia website https://ntpc-usa.org/
 
 🟡 QUEUE / unfinished (not a hard gate)
-🟡 QUEUE 3 pages WIP/incomplete
+🟡 QUEUE 11 pages WIP/incomplete
 
 🟡 QUEUE / link suggestions (disk)
-ℹ️  INFO  top tips below · full pairs on disk (~41736 scored)
+ℹ️  INFO  top tips below · full pairs on disk (~6926 scored)
 
 🟡 QUEUE / optional link tips (≤5, not NEED YOU)
 🟡 QUEUE 1. Link tip: organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/american-citizens-for-taiwan.md

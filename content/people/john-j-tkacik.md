@@ -57,8 +57,8 @@ See the source hub. Top mentions:
 
 1. [[articles/taiwanjustice-net/2024/20240224194137_root_b1e144ecc18e460f|English Pages]]
 2. [[articles/taiwanjustice-net/2024/20240301084218_root_2eea1835f9769141|彈劾馬的司法暗樁 ◎ 黃帝穎律師/ 北社評論/ 2018-04-10]]
-3. [[articles/taiwanjustice-net/2020/20200822225548_2020_08_16_不必經過修憲_以什麼國名走向國際-_-王克雄_042f16251f8871bf|不必經過修憲：以什麼國名走向國際 ◎ 王克雄]]
-4. [[articles/taiwanjustice-net/2024/20240715145556_root_185fdc80c7d5764b|VOA專訪游錫堃：美國“新一中政策”形成，台美建交一定會實現]]
+3. [[articles/taiwanjustice-net/2024/20240715145556_root_185fdc80c7d5764b|VOA專訪游錫堃：美國“新一中政策”形成，台美建交一定會實現]]
+4. [[articles/taiwanjustice-net/2020/20200822225548_2020_08_16_不必經過修憲_以什麼國名走向國際-_-王克雄_042f16251f8871bf|不必經過修憲：以什麼國名走向國際 ◎ 王克雄]]
 
 
 ## Source Notes

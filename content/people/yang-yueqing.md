@@ -72,8 +72,8 @@ Top 10 articles from taiwanjustice.net mentioning yang-yueqing:
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2024/20240221113229_root_17825a06f4cdbb6f|林保華專欄]]
-2. [[articles/taiwanjustice-net/2024/20240221105045_root_4b96e7a2f9d76692|專欄]]
+1. [[articles/taiwanjustice-net/2024/20240221105045_root_4b96e7a2f9d76692|專欄]]
+2. [[articles/taiwanjustice-net/2024/20240221113229_root_17825a06f4cdbb6f|林保華專欄]]
 3. [[articles/taiwanjustice-net/2023/20230328171355_2011_10_28_與王丹父母台北城再續前緣-_楊月清20111028_attachment_7_5dc101c47e71cf6b|7]]
 4. [[articles/taiwanjustice-net/2023/20230328171530_2011_10_28_與王丹父母台北城再續前緣-_楊月清20111028_attachment_2_8be10472c6f25b8b|2]]
 5. [[articles/taiwanjustice-net/2023/20230328173909_2011_10_28_與王丹父母台北城再續前緣-_楊月清20111028_attachment_5_6939cfd9ec85cbd1|5]]

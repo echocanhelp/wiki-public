@@ -152,10 +152,10 @@ Education **conflict, keep both:** 2023 TAHS pub: 1960 成大外文, 1964 gradua
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596|台美人台加人]]
-2. [[articles/taiwanjustice-net/2024/20240224182938_root_c998eeb8ae0eb037|台灣人文藝術]]
-3. [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]]
-4. [[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6|2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]]
+1. [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]]
+2. [[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6|2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]]
+3. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596|台美人台加人]]
+4. [[articles/taiwanjustice-net/2024/20240224182938_root_c998eeb8ae0eb037|台灣人文藝術]]
 5. [[articles/taiwanjustice-net/2024/20240724234326_root_cd2062fe6528223c|The Beauty of Taiwan-Heart of Asia Exhibition & Art Talk 台灣之美‧亞洲之心國際巡迴展 4/1~2,]]
 
 

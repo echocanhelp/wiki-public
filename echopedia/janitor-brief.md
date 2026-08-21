@@ -1,27 +1,47 @@
-## Echopedia Janitor — 2026-08-20
+## Echopedia Janitor — 2026-08-21
 - Standards v8
-- Pages with findings: **29301**
-- Queued tonight (max 20): **20**
+- Pages with findings: **457**
+- Queued tonight (max 40): **40**
 - Queue:
-  - `people/chen-meihui.md` age≈43.7d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
-  - `people/guo-yingyan.md` age≈43.7d · LINK_UNLINKED_ENTITY
-  - `people/li-furen.md` age≈38.7d · LINK_UNLINKED_ENTITY
-  - `sources/toward-a-community-of-hope.md` age≈36.7d · LINK_UNLINKED_ENTITY
-  - `organizations/formosan-presbyterian-church-in-los-angeles.md` age≈36.7d · LINK_UNLINKED_ENTITY
-  - `organizations/irvine-taiwanese-presbyterian-church.md` age≈36.7d · LINK_UNLINKED_ENTITY
-  - `people/chaolong-kao.md` age≈36.7d · LINK_UNLINKED_ENTITY
-  - `people/daniel-kao.md` age≈36.7d · LINK_UNLINKED_ENTITY
-  - `people/pingtung-lai.md` age≈36.7d · LINK_UNLINKED_ENTITY
-  - `organizations/global-alliance-for-democracy-and-peace-la.md` age≈35.7d · LINK_UNLINKED_ENTITY
-  - `organizations/taiwanese-american-foundation-of-san-diego.md` age≈35.7d · LINK_UNLINKED_ENTITY
-  - `sources/irvine-taiwanese-presbyterian-church.md` age≈35.7d · LINK_BODY_SPARSE
-  - `sources/2017-tahs-publication.md` age≈34.7d · LINK_UNLINKED_ENTITY
-  - `people/lien-hwa-chow.md` age≈34.7d · LINK_UNLINKED_ENTITY
-  - `articles/taiwanjustice-net/2026/20260112185014_做了壞事又要立牌坊-澳洲中資搜刮醫療物資運回國_a3944067723a06af.md` age≈23.4d · NO_RELATED_PAGES, NO_LAST_REVIEWED
-  - `articles/taiwanjustice-net/2026/20260121000721_加中外長硬碰硬_孟晚舟事件僵局尚無鬆動跡象_3e1ab4f836db60d1.md` age≈23.4d · NO_RELATED_PAGES, NO_LAST_REVIEWED
-  - `articles/taiwanjustice-net/2026/20260211100952_俄軍進攻仍自曝行蹤_澤倫斯基_沒在躲也沒在怕_18dbc3c11b61d31b.md` age≈23.4d · NO_RELATED_PAGES, NO_LAST_REVIEWED
-  - `articles/taiwanjustice-net/2026/20260120233732_台海衝突風險增加_蔡英文呼籲各方保持溝通蔡總_a9183aac3eebf7d5.md` age≈23.4d · NO_RELATED_PAGES, NO_LAST_REVIEWED
-  - `articles/taiwanjustice-net/2026/20260208201149_嘉年華郵輪carnival-cruise-lines-8月1日恢復部分營運_美佛州德州_b868676d5dcbaddb.md` age≈23.4d · NO_RELATED_PAGES, NO_LAST_REVIEWED
-  - `articles/taiwanjustice-net/2026/20260120233902_遭威斯康辛州基諾沙警察槍傷的非裔男jacob-blake_病床上_3a16e40a1125b177.md` age≈23.4d · NO_RELATED_PAGES, NO_LAST_REVIEWED
-- Log: `knowledge/operational/janitor-log/2026-08-20.jsonl`
+  - `people/chen-meihui.md` age≈44.4d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
+  - `people/guo-yingyan.md` age≈44.4d · LINK_UNLINKED_ENTITY
+  - `people/li-furen.md` age≈39.4d · LINK_UNLINKED_ENTITY
+  - `sources/toward-a-community-of-hope.md` age≈37.4d · LINK_UNLINKED_ENTITY
+  - `organizations/formosan-presbyterian-church-in-los-angeles.md` age≈37.4d · LINK_UNLINKED_ENTITY
+  - `organizations/irvine-taiwanese-presbyterian-church.md` age≈37.4d · LINK_UNLINKED_ENTITY
+  - `people/chaolong-kao.md` age≈37.4d · LINK_UNLINKED_ENTITY
+  - `people/daniel-kao.md` age≈37.4d · LINK_UNLINKED_ENTITY
+  - `people/pingtung-lai.md` age≈37.4d · LINK_UNLINKED_ENTITY
+  - `organizations/global-alliance-for-democracy-and-peace-la.md` age≈36.4d · LINK_UNLINKED_ENTITY
+  - `organizations/taiwanese-american-foundation-of-san-diego.md` age≈36.4d · LINK_UNLINKED_ENTITY
+  - `sources/irvine-taiwanese-presbyterian-church.md` age≈36.4d · LINK_BODY_SPARSE
+  - `sources/2017-tahs-publication.md` age≈35.4d · LINK_UNLINKED_ENTITY
+  - `people/lien-hwa-chow.md` age≈35.4d · LINK_UNLINKED_ENTITY
+  - `people/anne-shih.md` age≈33.4d · LINK_UNLINKED_ENTITY
+  - `people/hsu-hsin-hung.md` age≈33.4d · LINK_UNLINKED_ENTITY
+  - `organizations/taiwan-american-foundation.md` age≈32.4d · LINK_UNLINKED_ENTITY
+  - `people/guo-shu-qing.md` age≈32.4d · LINK_UNLINKED_ENTITY
+  - `people/hu-gstpc.md` age≈32.4d · LINK_UNLINKED_ENTITY
+  - `people/ku-gstpc.md` age≈32.4d · LINK_UNLINKED_ENTITY
+  - `people/lin-chao-chi.md` age≈32.4d · LINK_UNLINKED_ENTITY
+  - `people/lin-chao-quan.md` age≈32.4d · LINK_UNLINKED_ENTITY
+  - `people/wang-gstpc.md` age≈32.4d · LINK_UNLINKED_ENTITY
+  - `people/liao-ji-chun.md` age≈32.4d · LINK_UNLINKED_ENTITY
+  - `people/lin-qiong-xian.md` age≈32.4d · LINK_UNLINKED_ENTITY
+  - `people/david-lee.md` age≈31.4d · LINK_UNLINKED_ENTITY
+  - `organizations/overseas-community-affairs-council.md` age≈30.4d · LINK_UNLINKED_ENTITY
+  - `sources/wikipedia-democratic-progressive-party.md` age≈30.4d · LINK_UNLINKED_ENTITY
+  - `organizations/democratic-progressive-party.md` age≈30.4d · LINK_UNLINKED_ENTITY
+  - `people/xu-zongbang.md` age≈29.4d · LINK_UNLINKED_ENTITY
+  - `people/ye-siya-zhang-xinhui.md` age≈29.4d · LINK_UNLINKED_ENTITY
+  - `sources/2023-tahs-publication.md` age≈29.4d · LINK_UNLINKED_ENTITY
+  - `people/wang-yao-ting.md` age≈29.4d · LINK_UNLINKED_ENTITY
+  - `people/zheng-bing-quan.md` age≈29.4d · LINK_UNLINKED_ENTITY
+  - `sources/taiwancenter-org.md` age≈28.4d · LINK_BODY_SPARSE
+  - `organizations/taiwanjustice-net.md` age≈24.4d · LINK_UNLINKED_ENTITY
+  - `sources/taiwanjustice-net.md` age≈24.4d · LINK_UNLINKED_ENTITY
+  - `people/becky-yang.md` age≈19.4d · LINK_UNLINKED_ENTITY
+  - `people/yang-zhengxiang.md` age≈19.4d · LINK_UNLINKED_ENTITY
+  - `people/bai-weiwei.md` age≈19.4d · LINK_UNLINKED_ENTITY
+- Log: `knowledge/operational/janitor-log/2026-08-21.jsonl`
 - Agent auto-apply: **False** (local pin only if enabled)

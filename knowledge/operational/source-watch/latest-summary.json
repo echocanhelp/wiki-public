@@ -1,70 +1,16 @@
 {
-  "at": "2026-08-20T17:16:24Z",
-  "dry_run": false,
+  "at": "2026-08-21T01:37:49Z",
+  "dry_run": true,
   "sources": [
     {
-      "id": "taiwancenter-org",
+      "id": "taiwaneseamerican-org",
       "new": [],
       "changed": [],
       "gone_sample": [],
       "errors": [],
       "applied": [],
-      "parked": false
-    },
-    {
-      "id": "good-shepherd-taiwanese-presbyterian-church",
-      "new": [],
-      "changed": [
-        "https://gstpc.org/home/08-16-2026-sunday-bulletin/"
-      ],
-      "gone_sample": [],
-      "errors": [
-        "https://gstpc.org/home/xmlrpc.php HTTP 405",
-        "https://gstpc.org/home/wprhe_qrcode_style.css  HTTP 404"
-      ],
-      "applied": [
-        "tier2:good-shepherd-taiwanese-presbyterian-church-delta-2026-08-20-home-08-16-2026-sunday-bulletin.md",
-        "last_reviewed:hub",
-        "last_reviewed:good-shepherd-taiwanese-presbyterian-church.md"
-      ],
-      "parked": false
-    },
-    {
-      "id": "irvine-taiwanese-presbyterian-church",
-      "new": [],
-      "changed": [],
-      "gone_sample": [],
-      "errors": [
-        "https://www.irvine-tpc.org/"
-      ],
-      "applied": [],
-      "parked": false
-    },
-    {
-      "id": "presbyterian-church-in-taiwan",
-      "new": [
-        "https://www.pct.org.tw/news_focus.aspx?strSiteID=S001&amp;strContentid=C2026073100002",
-        "https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&amp;strContentID=C2026072100001&amp;strDesc=Y"
-      ],
-      "changed": [],
-      "gone_sample": [],
-      "errors": [],
-      "applied": [
-        "tier2:presbyterian-church-in-taiwan-delta-2026-08-20-news_focus.aspx.md",
-        "tier2:presbyterian-church-in-taiwan-delta-2026-08-20-news_pct.aspx.md",
-        "last_reviewed:hub",
-        "last_reviewed:presbyterian-church-in-taiwan.md"
-      ],
-      "parked": false
-    },
-    {
-      "id": "laijohn-com",
-      "new": [],
-      "changed": [],
-      "gone_sample": [],
-      "errors": [],
-      "applied": [],
-      "parked": false
+      "parked": false,
+      "a_band": []
     }
   ],
   "recommend": [
@@ -86,9 +32,7 @@
     }
   ],
   "need_you": [],
-  "auto_lines": [
-    "good-shepherd-taiwanese-presbyterian-church: +0 new / 1 changed; applied 3",
-    "presbyterian-church-in-taiwan: +2 new / 0 changed; applied 4"
-  ],
-  "queue_lines": []
+  "auto_lines": [],
+  "queue_lines": [],
+  "a_band": []
 }
