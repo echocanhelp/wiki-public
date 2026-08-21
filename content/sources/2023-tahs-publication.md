@@ -25,11 +25,11 @@ last_reviewed: 2026-07-23
 The second TAHS commemorative publication, following the 2017 edition. This publication profiles 19 individuals across three thematic sections:
 
 ### 典範‧傷逝 (Role Models / Deceased)
-1. 彭明敏 (Peng Ming-min) — Democratic activist, former DPP chairman
+1. [[people/peng-ming-min|彭明敏]] (Peng Ming-min) — Democratic activist, former DPP chairman
 2. 鄭達志 (Zheng Dazhi)
 3. 鄭紹良 (Zheng Shaoliang)
-4. 王泰和 (Wang Taihe)
-5. 陳哲夫、許春惠 (Chen Zhefu & Xu Chunhui)
+4. [[people/wang-taihe|王泰和]] (Wang Taihe)
+5. [[people/chen-zhefu-xu-chunhui|陳哲夫、許春惠]] (Chen Zhefu & Xu Chunhui)
 
 ### 奠基‧傳承 (Foundations / Legacy)
 6. 葉思雅、張信惠 (Ye Siya & Zhang Xinhui)
@@ -38,13 +38,13 @@ The second TAHS commemorative publication, following the 2017 edition. This publ
 9. 陳文學 (Chen Wenxue)
 10. 王克雄 (Wang Kexiong)
 11. 鄭炳全 (Zheng Bingquan) — also in 2017 publication
-12. 王耀廷、謝秀緞 (Wang Yaoting & Xie Xiulan) — also in 2017 publication
+12. [[people/wang-yao-ting|王耀廷]]、謝秀緞 (Wang Yaoting & Xie Xiulan) — also in 2017 publication
 13. 陳文石 (Chen Wenshi)
-14. 楊惠喬 (Yang Huiqiao)
+14. [[people/yang-huiqiao|楊惠喬]] (Yang Huiqiao)
 15. 蔡錦榮 (Gene Tsai)
-16. 謝清志、謝泊怡 (Xie Qingzhi & Xie Poyi)
-17. 楊呵偉 (Yang Chengwei)
-18. 范清亮 (Fan Qingliang)
+16. [[people/xie-qingzhi-xie-poyi|謝清志、謝泊怡]] (Xie Qingzhi & Xie Poyi)
+17. [[people/yang-chengwei|楊呵偉]] (Yang Chengwei)
+18. [[people/fan-qingliang|范清亮]] (Fan Qingliang)
 
 ### 第三代‧飛揚 (Third Generation / Rising)
 19. 楊正光 (Ethan Yang)

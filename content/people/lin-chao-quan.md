@@ -37,7 +37,7 @@ After World War II (終戰), Lin Chao-quan became a leading figure in Taiwan's s
 
 ## 1984 LA Olympics Visit
 
-In 1984, during the Los Angeles Olympics, Lin Chao-quan visited Los Angeles. He was visited by 楊嘉猷 (Charles Yang), who brought him three books: "江文也傳" (Biography of Wen-yeh Chiang), 彭明敏's "自由的滋味" (The Taste of Freedom), and 吳濁流's "無花果" (Figless Fruit), hoping to help him reconnect with his Taiwanese identity.
+In 1984, during the Los Angeles Olympics, Lin Chao-quan visited Los Angeles. He was visited by 楊嘉猷 (Charles Yang), who brought him three books: "江文也傳" (Biography of Wen-yeh Chiang), [[people/peng-ming-min|彭明敏]]'s "自由的滋味" (The Taste of Freedom), and 吳濁流's "無花果" (Figless Fruit), hoping to help him reconnect with his Taiwanese identity.
 
 ## Source Notes and Confidence
 

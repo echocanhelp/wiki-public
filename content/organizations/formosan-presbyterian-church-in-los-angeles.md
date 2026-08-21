@@ -37,7 +37,7 @@ Before FPCLA, an experimental church called "Taiyou Church" (太陽教會, "Sun 
 
 FPCLA was founded through the collaboration of:
 
-- **Taiwanese believers:** A group of Taiwanese immigrants including [[people/daniel-kao|Dr. & Mrs. Daniel Kao (高光民)]], [[people/c-c-chen|Dr. & Mrs. C. C. Chen (陳昭俊)]], Mr. & Mrs. Norman Hsu (許彬), Dr. & Mrs. Isiah Lee (李宗派), Dr. & Mrs. Joseph T. C. Lu (盧俊哲), Mr. & Mrs. Morris Chen (陳茂雄), Mr. & Mrs. George Chen (陳進琛), Dr. & Mrs. Sze-Ya Yeh (葉思雅), Mr. & Mrs. Wang Chun Hsiung (王春雄), Dr. & Mrs. Jang Yan Wu (吳政彥), Dr. Wen-Cho Yang (楊哲), Dr. & Mrs. Justin Chen (陳有義), Meiling Lai (賴美玲), Michael Chen (陳明章), and others
+- **Taiwanese believers:** A group of Taiwanese immigrants including [[people/daniel-kao|Dr. & Mrs. Daniel Kao (高光民)]], [[people/c-c-chen|Dr. & Mrs. C. C. Chen (陳昭俊)]], Mr. & Mrs. Norman Hsu (許彬), Dr. & Mrs. Isiah Lee (李宗派), Dr. & Mrs. Joseph T. C. Lu (盧俊哲), Mr. & Mrs. Morris Chen ([[people/chen-maoxiong|陳茂雄]]), Mr. & Mrs. George Chen (陳進琛), Dr. & Mrs. Sze-Ya Yeh (葉思雅), Mr. & Mrs. Wang Chun Hsiung (王春雄), Dr. & Mrs. Jang Yan Wu (吳政彥), Dr. Wen-Cho Yang (楊哲), Dr. & Mrs. Justin Chen (陳有義), Meiling Lai (賴美玲), Michael Chen (陳明章), and others
 - **UPCUSA support:** Pastors and elders from the United Presbyterian Church system, including San Francisco Theological Seminary, the General Assembly of the United Presbyterian Church, the Southern California/Hawaii Presbytery, and the Pacific Presbytery
 - **Organizing Pastor:** [[people/chaolong-kao|Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)]] — called by Presbytery of Los Angeles Southwest in September 1971 (former TTCS Assistant Professor; Visiting Scholar at Harvard). Distinct from co-founder [[people/daniel-kao|Dr. Daniel Kao (高光民)]].
 

@@ -31,7 +31,7 @@ His reputation as a geologist made him well-known enough to be specifically ment
 
 ## Family Connections
 
-As the third uncle (三舅) of 廖述宗, Lin Chao-chi was part of the extended family network that included 廖述宗's mother 林瓊仙 (Lin Qiong-xian) and second uncle 林朝權 (Lin Chao-quan). The memorial account by 楊嘉猷 (Charles Yang) specifically notes Lin Chao-chi's fame for discovering the 十三行遺址.
+As the third uncle (三舅) of 廖述宗, Lin Chao-chi was part of the extended family network that included 廖述宗's mother [[people/lin-qiong-xian|林瓊仙]] (Lin Qiong-xian) and second uncle 林朝權 (Lin Chao-quan). The memorial account by [[people/yang-jia-you|楊嘉猷]] (Charles Yang) specifically notes Lin Chao-chi's fame for discovering the 十三行遺址.
 
 ## Source Notes and Confidence
 

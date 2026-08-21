@@ -127,16 +127,16 @@ knowledge/web-archives/taiwanjustice-net/
 
 | Chinese | Slug | Articles | Role |
 |---------|------|---------:|------|
-| 蔡英文 | `people/tsai-ing-wen` | 222 | President (2016–2024) |
-| 賴清德 | `people/lai-ching-te` | 211 | President (2024–) |
-| 柯文哲 | `people/ke-wenze` | 167 | Mayor Taipei / TPP |
-| 韓國瑜 | `people/han-guoyu` | 124 | Kaohsiung Mayor / KMT |
-| 馬英九 | `people/ma-yingjeou` | 109 | President (2008–2016) |
-| 侯友宜 | `people/hou-yu-ih` | 84 | Mayor New Taipei / KMT |
-| 林佳龍 | `people/lin-jialong` | 68 | Mayor Tainan |
+| [[people/tsai-ing-wen|蔡英文]] | `people/tsai-ing-wen` | 222 | President (2016–2024) |
+| [[people/lai-ching-te|賴清德]] | `people/lai-ching-te` | 211 | President (2024–) |
+| [[people/ke-wenze|柯文哲]] | `people/ke-wenze` | 167 | Mayor Taipei / TPP |
+| [[people/han-guoyu|韓國瑜]] | `people/han-guoyu` | 124 | Kaohsiung Mayor / KMT |
+| [[people/ma-yingjeou|馬英九]] | `people/ma-yingjeou` | 109 | President (2008–2016) |
+| [[people/hou-yu-ih|侯友宜]] | `people/hou-yu-ih` | 84 | Mayor New Taipei / KMT |
+| [[people/lin-jialong|林佳龍]] | `people/lin-jialong` | 68 | Mayor Tainan |
 | 王金平 | `people/wang-jinping` | 24 | Politician |
 | 謝長廷 | `people/frank-hsieh` | 22 | former Premier / DPP |
-| 陳水扁 | `people/chen-shuibian` | 14 | President (2000–2008) |
+| [[people/chen-shuibian|陳水扁]] | `people/chen-shuibian` | 14 | President (2000–2008) |
 
 ### Video Series (20+)
 

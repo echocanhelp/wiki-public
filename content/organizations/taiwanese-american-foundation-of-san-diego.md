@@ -8,7 +8,7 @@ tags:
 verification_status: published
 last_reviewed: 2026-07-16
 ---
-# Taiwanese American Foundation of San Diego
+# [[organizations/taiwan-american-foundation|Taiwanese American Foundation]] of San Diego
 
 **Taiwanese American Foundation of San Diego** (聖地牙哥台灣中心) is listed as a **group member** of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]].
 

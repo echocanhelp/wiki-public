@@ -40,7 +40,7 @@ OCAC has undergone several name changes reflecting Taiwan's evolving political l
 | Name | Period | Notes |
 |------|--------|-------|
 | Overseas Chinese Affairs Commission | October 1926 – April 2006 | Original name |
-| Overseas Compatriot Affairs Commission | April 2006 – 1 September 2012 | Renamed under Chen Shui-bian to "avoid being confused as a governmental body of the PRC" |
+| Overseas Compatriot Affairs Commission | April 2006 – 1 September 2012 | Renamed under [[people/chen-shuibian|Chen Shui-bian]] to "avoid being confused as a governmental body of the PRC" |
 | Overseas Chinese Affairs Commission | 1 September 2012 – 12 November 2012 | Brief interim |
 | Overseas Community Affairs Council | Since 12 November 2012 | Current name; reverted under KMT after 2012 election |
 

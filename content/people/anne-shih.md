@@ -85,7 +85,7 @@ Anne is nearly 70 years old at the time of the profile, and shows no signs of fa
 
 ## Source Notes and Confidence
 
-- **Content priority A:** 2017 TAHS Publication (profile Part 1, ~96 lines), interview by 鄭炳全, photography by 黃樹人
+- **Content priority A:** 2017 TAHS Publication (profile Part 1, ~96 lines), interview by [[people/zheng-bing-quan|鄭炳全]], photography by [[people/freeman-huang|黃樹人]]
 - **Content priority A:** Contains detailed biographical narrative including early life in Taiwan, immigration, Bowers Museum service, major exhibitions, and personal life
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Note:** The full text includes detailed biographical information including family background, immigration story, and museum leadership.

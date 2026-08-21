@@ -25,7 +25,7 @@ source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
 
 ## Overview
 
-Listed on the TAHS 2025 organization chart as Vice President (副會長), serving with Roger Tsai.
+Listed on the TAHS 2025 organization chart as Vice President (副會長), serving with [[people/roger-tsai|Roger Tsai]].
 
 This page is an **A-tier thin record** for graph linking and member-priority scoring. Biographical depth should be expanded only from public sources or member-approved notes. Private phone numbers and LINE IDs from internal charts are **not** published here.
 

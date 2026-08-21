@@ -28,7 +28,7 @@ Guo Shu-qing married 廖述宗 in 1960 after her mother-in-law 林瓊仙 (Lin Qi
 ## Source Notes and Confidence
 
 - **Content priority A:** 2017 TAHS Publication 生命的執著 (The Persistence of Life) — Liao Shu-zong profile, Part 2
-- **Content priority A:** Memorial by 楊嘉猷 (Charles Yang), 2017 TAHS Publication, mentions family
+- **Content priority A:** Memorial by [[people/yang-jia-you|楊嘉猷]] (Charles Yang), 2017 TAHS Publication, mentions family
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 
 ## Related Pages

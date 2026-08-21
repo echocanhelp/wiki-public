@@ -34,7 +34,7 @@ His inclusion suggests intergenerational reliance on influential theological voi
 - Source confidence C
 
 ## Historical Context
-In this cluster, Dr. Chow functions as a reference point in theological lineage rather than as a primary narrator of NTPC institutional events.
+In this cluster, Dr. Chow functions as a reference point in theological lineage rather than as a primary narrator of [[organizations/national-taiwanese-presbyterian-council|NTPC]] institutional events.
 
 ## Contributions and Legacy
 1. Serves as a theological reference anchor for migration-era church interpretation. — Source: cluster contextual layer (C)

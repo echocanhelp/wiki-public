@@ -17,7 +17,7 @@ last_reviewed: 2026-07-17
 - Publisher: Taiwanese American Historical Society (台美人歷史協會, TAHS)
 - Year: 2017
 - Pages: 1–118 (bilingual Chinese/English)
-- Editors/Compilers: [[people/zhou-wei-liang|周威廉]], 周威霖, Edda Huang, 楊文顯, 楊遠薰, 陳婉真, 鄭炳全, etc.
+- Editors/Compilers: [[people/zhou-wei-liang|周威廉]], [[people/zhou-wei-lin|周威霖]], Edda Huang, 楊文顯, 楊遠薰, 陳婉真, [[people/zheng-bing-quan|鄭炳全]], etc.
 
 ## Overview
 Primary Tier-2/Tier-1 source for 2017 TAHS profiles of first- and second-generation Taiwanese Americans, plus founding essays, activity summary, and donor lists. Published by TAHS to document the community's history and celebrate prominent members.
@@ -51,7 +51,7 @@ Primary Tier-2/Tier-1 source for 2017 TAHS profiles of first- and second-generat
 - [[people/shawna-yang-ryan|楊小娜 (Shawna Yang Ryan)]] — Novelist, 2017 American Book Awards
 
 ### Priority C / bylines (no page)
-黃樹人, 廖清山, 周威廉, 周威霖, 楊文顯, Edda Huang, 鄭炳全, 楊遠薰, 陳婉真, 曾恆利, 賴慧娜, 台美人歷史協會 整理
+[[people/freeman-huang|黃樹人]], [[people/liao-qingshan|廖清山]], 周威廉, 周威霖, 楊文顯, Edda Huang, 鄭炳全, 楊遠薰, 陳婉真, 曾恆利, 賴慧娜, 台美人歷史協會 整理
 
 ### Institutions mentioned
 - [[organizations/taiwanese-american-historical-society|TAHS]]
@@ -80,7 +80,7 @@ This publication's 22 profiles have been migrated into **Echopedia** as living p
 
 **Profiles migrated:** All 22 people profiles are now living pages in Echopedia, with depth-floor-compliant facts and hyperlinked connections to organizations, sources, and related people.
 
-**Next step:** The 2023 TAHS Publication will follow the same migration path when ingested.
+**Next step:** The [[sources/2023-tahs-publication|2023 TAHS Publication]] will follow the same migration path when ingested.
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]

@@ -64,7 +64,7 @@ Over years of dedicated work, Hsu built a diversified enterprise group with oper
 
 ## Taiwan Identity and Community Engagement
 
-Hsu Hsin-hung distinguishes himself from many other Taiwanese American entrepreneurs through his strong Taiwan identity and advocacy. He has been vocal about his views on cross-strait relations, even before President Chen Shui-bian's "one side, one state" (一邊一國) statement.
+Hsu Hsin-hung distinguishes himself from many other Taiwanese American entrepreneurs through his strong Taiwan identity and advocacy. He has been vocal about his views on cross-strait relations, even before President [[people/chen-shuibian|Chen Shui-bian]]'s "one side, one state" (一邊一國) statement.
 
 In 2002–2003, at his first Overseas Community Affairs Council (僑務委員會) meeting, Hsu noticed that even Chairman Chang Fu-mei (張富美) and others constantly used the terms "兩岸" (cross-strait) and "大陸" (mainland). He publicly raised concerns about this terminology and privately advised the Chairman to use "兩國" (two countries) instead, noting that "China" should be called "China," not "mainland."
 

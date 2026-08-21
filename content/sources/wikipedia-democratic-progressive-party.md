@@ -30,7 +30,7 @@ Source page for the **[[organizations/democratic-progressive-party|Democratic Pr
 | Ideology and policies | Social liberalism, progressivism, Taiwanese nationalism, cross-strait relations |
 | Stance on Taiwanese independence | Resolution on Taiwan's Future, One China, 1992 Consensus |
 | Factions | New Tide, TNCPA, Green Fellowship, Taiwan Forward, Su, Ing, Democracy Living Water |
-| Corruption scandals | Chen Shui-bian, Cheng Wen-tsan, Lai Mei-hui, Lin I-chin, Lin Dai-hua |
+| Corruption scandals | [[people/chen-shuibian|Chen Shui-bian]], Cheng Wen-tsan, Lai Mei-hui, Lin I-chin, Lin Dai-hua |
 
 ## How Echopedia uses this source
 

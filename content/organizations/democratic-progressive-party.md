@@ -45,7 +45,7 @@ The DPP has had three party leaders serve as President of the Republic of China:
 
 | Election | Candidate | Running Mate | Total Votes | Share | Outcome |
 |----------|-----------|-------------|-------------|-------|---------|
-| 1996 | [[people/peng-ming-min|Peng Ming-min]] | Frank Hsieh | 2,274,586 | 21.13% | Defeated |
+| 1996 | [[people/peng-ming-min|Peng Ming-min]] | [[people/frank-hsieh|Frank Hsieh]] | 2,274,586 | 21.13% | Defeated |
 | 2000 | [[people/chen-shuibian|Chen Shui-bian]] | Annette Lu | 4,977,737 | 39.30% | Elected |
 | 2004 | [[people/chen-shuibian|Chen Shui-bian]] | Annette Lu | 6,446,900 | 50.11% | Elected |
 | 2008 | Frank Hsieh | Su Tseng-chang | 5,445,239 | 41.55% | Defeated |
@@ -83,7 +83,7 @@ As of 2022, Taiwan News identified at least 7 factions within the party:
 - **Green Fellowship Association** (綠色友誼系統) — Ho Chih-wei
 - **Taiwan Forward** (湧言會) — Lin Kun-hai, Hsu Kuo-yung
 - **Su Faction** (蘇系) — Su Tseng-chang
-- **Ing Faction** (英系) — Tsai Ing-wen, Chen Ming-wen, Kuan Bi-ling
+- **Ing Faction** (英系) — [[people/tsai-ing-wen|Tsai Ing-wen]], Chen Ming-wen, Kuan Bi-ling
 - **Democracy Living Water Connection** (民主活水連線) — Cho Jung-tai, Luo Wen-jia, Lin Fei-fan
 
 In 2006, the party ended official recognition of factions, though they remain referred to by name in national media.

@@ -41,7 +41,7 @@ last_reviewed: 2026-07-23
 ### Zhang Xinhui — Music & Faith
 1. Graduated in 1963 from the National College of Music (now National Taiwan University of the Arts), majoring in piano under masters Jin Baoyi and Tian Zi.
 2. Grew up in a pastor's household; immersed in church music and hymnody from childhood.
-3. Co-founded the Los Angeles Taiwan Christ Memorial Church (FPCLA) and served as director of its choir and song ministry.
+3. Co-founded the Los Angeles Taiwan Christ Memorial Church ([[organizations/formosan-presbyterian-church-in-los-angeles|FPCLA]]) and served as director of its choir and song ministry.
 4. In 1992, organized a family wedding performance where the couple and five uncles sang wedding hymns, becoming a celebrated anecdote in the community.
 5. Together with Ye Siya, established the classical music appreciation program at the San Gabriel Valley Taiwanese Community Center (2015–2020), leading weekly sessions for five years.
 6. Co-authored a weekly classical music column for the Taiwan Public Justice newspaper from 2020 to 2022, producing 100 articles.
@@ -52,7 +52,7 @@ last_reviewed: 2026-07-23
 Ye Siya's research on fetal monitoring contributed to the clinical adoption of cardiotocography, allowing physicians to detect fetal hypoxia before birth. His WHO mission to China in 1981 represented a milestone for Taiwanese medical professionals engaging in cross-strait academic exchange, where he advocated for Taiwan's distinct identity while providing humanitarian medical expertise.
 
 ### Cultural & Religious Contributions
-The couple co-founded TARSA (Taiwanese American Religious Study Association) in 2009 with Lin Tianmin, Huang Zhiyang, Huang Youcheng, and others, promoting interfaith dialogue among Christians, Muslims, Buddhists, and Jews. TARSA hosted monthly study sessions at the Taiwan Community Center until its dissolution in 2020. The couple also donated their 10,000+ classical music CD and vinyl collection to the Tainan County Library, establishing the "Ye-Xinhui Classical Music Collection" in 2021.
+The couple co-founded TARSA ([[organizations/taiwanese-american-religious-study-association|Taiwanese American Religious Study Association]]) in 2009 with Lin Tianmin, Huang Zhiyang, Huang Youcheng, and others, promoting interfaith dialogue among Christians, Muslims, Buddhists, and Jews. TARSA hosted monthly study sessions at the Taiwan Community Center until its dissolution in 2020. The couple also donated their 10,000+ classical music CD and vinyl collection to the Tainan County Library, establishing the "Ye-Xinhui Classical Music Collection" in 2021.
 
 ### Personal & Family
 1. Married in 1964 after meeting in the YMCA Sacred Song Choir directed by Pastor Zhang Fengchang; Ye was a medical student at NTU and Zhang was a fourth-year piano student at the Music College.

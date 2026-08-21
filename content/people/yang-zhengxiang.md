@@ -34,7 +34,7 @@ Per owner verification in the TAHS LINE community (2026-08-02), Ethan's grandpar
 
 ## Overview
 
-Ethan Yang represents the third generation of Taiwanese Americans profiled in the 2023 TAHS Publication. As a research fellow at the American Institute for Economic Research and a PhD candidate at George Mason University, he is actively engaged in political economy and free-market advocacy.
+Ethan Yang represents the third generation of Taiwanese Americans profiled in the [[sources/2023-tahs-publication|2023 TAHS Publication]]. As a research fellow at the American Institute for Economic Research and a PhD candidate at George Mason University, he is actively engaged in political economy and free-market advocacy.
 
 ## Education and Career
 

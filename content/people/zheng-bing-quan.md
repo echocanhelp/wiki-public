@@ -27,11 +27,11 @@ last_reviewed: 2026-07-23
 
 ## TAHS Founding
 
-Zheng Bingquan was the first convener of the Taiwanese American Historical Society, beginning the process in June 2013 by convening community leaders, notably 楊嘉猷 (Charles Yang). He was one of the key founders alongside Yang (founding president), 周威霖 (secretary), and 王耀廷 (vice president). He also served as an interviewer for the 2017 TAHS Publication, conducting the profile interview of Anne Shih (施劉秀枝).
+Zheng Bingquan was the first convener of the Taiwanese American Historical Society, beginning the process in June 2013 by convening community leaders, notably 楊嘉猷 (Charles Yang). He was one of the key founders alongside Yang (founding president), 周威霖 (secretary), and 王耀廷 (vice president). He also served as an interviewer for the 2017 TAHS Publication, conducting the profile interview of [[people/anne-shih|Anne Shih]] (施劉秀枝).
 
 ## Editorial Work
 
-Zheng was listed as an editor/compiler of the 2017 TAHS Publication, alongside 周威廉, 周威霖, Edda Huang, 楊文顯, 楊遠薰, and 陳婉真.
+Zheng was listed as an editor/compiler of the 2017 TAHS Publication, alongside [[people/zhou-wei-liang|周威廉]], 周威霖, Edda Huang, 楊文顯, 楊遠薰, and 陳婉真.
 
 
 ## Network

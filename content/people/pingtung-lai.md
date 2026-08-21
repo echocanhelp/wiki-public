@@ -26,7 +26,7 @@ last_reviewed: 2026-07-15
 ## Life & Ministry (three stages)
 
 1. **Pastoral ministry** — Huwei, Chingliao, Ailan (Wu-niu-lan), Beigang (built church); Centennial Doubling Campaign evangelistic officer; assisted US church planting
-2. **Bible missions** — founded United Bible Societies work in Taiwan from Beigang, then Taichung office/warehouse; translation/distribution; advisory network including KMT-era Christian officials (e.g. 張群, 周聯華, 馬壽華)
+2. **Bible missions** — founded United Bible Societies work in Taiwan from Beigang, then Taichung office/warehouse; translation/distribution; advisory network including KMT-era Christian officials (e.g. 張群, [[people/lien-hwa-chow|周聯華]], 馬壽華)
 3. **Post-retirement evangelism** — Taiwan International Missions; Good Friend Mission (勵友中心) continued by second generation
 
 > **Primary source context:** [[sources/toward-a-community-of-hope|Toward A Community of Hope (work & sources)]]  
