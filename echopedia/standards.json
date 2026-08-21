@@ -1,7 +1,7 @@
 {
-  "version": 8,
-  "updated": "2026-07-28",
-  "description": "Bump version when echopedia-ops / linking / ingestion standards change so the janitor re-prioritizes the corpus. Added content analysis integration (v8).",
+  "version": 10,
+  "updated": "2026-08-21",
+  "description": "Bump version when echopedia-ops / linking / ingestion standards change so the janitor re-prioritizes the corpus. v10: fail-closed first-mention apply (lexicon/redirect, org>source, skip SPARSE). auto_apply_agent stays false. B/C/D not enabled.",
   "rules": [
     "identity_snapshot",
     "related_pages",
@@ -30,6 +30,18 @@
     "model": "nvidia/Qwen3.6-35B-A3B-NVFP4",
     "auto_apply_programmable": true,
     "auto_apply_agent": false,
+    "first_mention_apply": {
+      "enabled": true,
+      "script": "/home/leedt/echo-system/scripts/echopedia-first-mention-apply.py",
+      "skip_link_body_sparse": true,
+      "prefer_org_over_source": true,
+      "resolve_lexicon_redirect": true,
+      "max_links_per_page": 8
+    },
+    "critic_gate": {
+      "required_before_agent_apply": true,
+      "script": "/home/leedt/echo-system/scripts/echopedia-critic-gate.py"
+    },
     "auto_commit": true,
     "auto_push": false,
     "auto_quartz": false,

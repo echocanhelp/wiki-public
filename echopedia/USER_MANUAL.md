@@ -154,7 +154,7 @@ Look at the **janitor queue** (depth is in SYSTEM_STATUS.md). Typical first task
 
 | Queue item | Playbook | What you do |
 |------------|----------|-------------|
-| Thin person/org page | P3 | Fix links, add first-mention body links |
+| Thin person/org page | P3 | Broken wikilinks only. First-mention AUTO is janitor (fail-closed). |
 | Broken wikilink | P3 | Repair or redirect |
 | Stale `last_reviewed` | P3 | Review content, bump date |
 | New source hub needed | P9 | Create `content/sources/<name>.md` |
@@ -935,7 +935,7 @@ python3 ~/.hermes/scripts/echopedia-queue-drain.py
 cat ~/echo-system/echopedia/janitor-brief.md
 ```
 
-**Note:** Queue drain is programmable only (`auto_apply_agent: false`). If queue grows, either standards changed (bump version so janitor resweeps) or pages need manual review.
+**Note:** Queue drain + first-mention apply are programmable (`auto_apply_agent: false`). HOLD leftovers (SFTS-as-person, SPARSE section-order) stay queued. Do not flip `auto_apply_agent`.
 
 ---
 

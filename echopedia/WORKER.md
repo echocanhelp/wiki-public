@@ -191,7 +191,7 @@ Found two relevant mechanisms:
 | P1 | Ops/drift/smoke | Check health | 1. `echopedia-ops-check.sh` 2. `echopedia-ci-heal.sh --dry-run` 3. `echopedia-smoke-test.sh` 4. Report |
 | P2 | Publish/deploy | Push to live | 1. `echopedia-publish.sh --push` (rsync→quartz build→tree-copy + root index.html + **root `static/contentIndex.json`** copy→featured regen→commit+push→CDN verify) 2. Verify smoke URLs **and** live `static/contentIndex.json` key count 3. Report |
 | P3 | One page links | Fix wikilinks | 1. Read page 2. Find broken wikilinks 3. Repair or redirect 4. Commit only (no publish) 5. Report |
-| P4 | Janitor queue | Queue items | 1. Read janitor-brief.md 2. Process items per type 3. Romanization `--heal` is automatic in janitor-wrapper (lexicon-only) 4. Commit 5. Report |
+| P4 | Janitor queue | HOLD leftovers | 1. Read janitor-brief.md 2. Fail-closed first-mention + romanization `--heal` are AUTO 3. Process only HOLD leftovers (not already-linked) 4. Commit 5. Report |
 | P5 | Heal/drift/smoke | Full heal | 1. `echopedia-ci-heal.sh` 2. Verify 3. Report |
 | P6 | Toggle autonomy | Disable push | 1. Edit standards.json 2. Report |
 | P7 | Improvement pack | Weekly | 1. Read improvement-brief.md 2. Process items 3. Report |
@@ -201,7 +201,8 @@ Found two relevant mechanisms:
 | P11 | Docs selfcheck | Doc OS | 1. `bash ~/.hermes/scripts/echopedia-docs-sync.sh` 2. Check DOCS_STATUS 3. Fix any FAIL 4. Report |
 | P12 | Featured regen | Homepage cards | 1. `featured-regen.py --dry-run` 2. Verify 3. `featured-regen.py --inject` 4. Commit + publish 5. Report |
 | P13 | Site design | Layout issues | 1. Read site-design-brief.md 2. Run audit 3. Propose fixes (incl. root index.html copy from quartz build, Pages build type migration) 4. Report |
-| **P14** | **Person-to-work linking** | **Ensure person pages list all works + articles link back** | **1. Run `echopedia-person-works-linker.py --all` 2. Verify ## Works section on sample page 3. Verify backlinks in sample articles 4. Commit** |
+
+Person-to-work linking is **not a worker playbook.** Nightly `no_agent` cron `echopedia-person-works-linker` owns it (capped). Do **not** run `--all` from a session — that was the 22.8MB `## Works` dump.
 
 **Story-corpus (magazines):** ingest `--apply-works` then `echopedia-thicken-work-a.py` (**full A-band article**, not WP teaser). C stays bib. Then works-index + linkcheck + **P2**. Truncation of the **catalog** (`works/index`, people/orgs directories, source hubs) is a bug — list everything. Do **not** uncap person-page quote/harvest dumps (that was the 22MB `## Works` incident).
 

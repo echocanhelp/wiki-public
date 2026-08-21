@@ -112,7 +112,8 @@ Use the **highest** surface that can do the job. Never jump to freestyle edits w
 | Fact | SSOT | Projections (read-only / generated) |
 |------|------|-------------------------------------|
 | Cron schedule & mode | pinto `cron/jobs.json` | SYSTEM_STATUS, digest, (future docs-sync) |
-| Autonomy | `echopedia/standards.json` | SYSTEM_STATUS, ci-heal behavior |
+| Autonomy | `echopedia/standards.json` | SYSTEM_STATUS, ci-heal, janitor |
+| First-mention AUTO | `scripts/echopedia-first-mention-apply.py` + `standards.janitor.first_mention_apply` | janitor / drain briefs |
 | Wiki content | `content/people|organizations|sources|works` | Live site via publish/ci-heal |
 | Live health | scripts → `SYSTEM_STATUS.md`, `cdn-verify-status.json`, `*-brief.md` | Morning digest |
 | How to assign work | `USER_MANUAL.md` (thin) | — |

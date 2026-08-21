@@ -144,7 +144,7 @@ Each kanban card is a **work node** with:
 ## Open / future
 
 - **G2 path-cost tagging:** Add `path_id` + step duration to nightly cron output; surface in digest.
-- **More deterministic nodes:** Identify L2/L3 tasks that could be scripted (currently all go through LLM).
+- **More deterministic nodes:** First-mention wrap is now `echopedia-first-mention-apply.py` (no LLM). Do not auto-GO untagged kanban or retry timed-out ingest.
 - **Dynamic work graph mutation:** Kanban parent-child spawning is already a form of dynamic graph mutation (see factor 10: small focused agents).
 
 ---

@@ -2,8 +2,8 @@
 
 *Living snapshot of the vibe-coded Echopedia system. Update when autonomy level, major crons, or mission status changes. Not a second copy of procedures — those live in skills / jobs.json.*
 
-**Last reviewed:** 2026-08-20  
-**Standards:** v8 · **Autonomy:** L3 · **Overnight crons:** all `no_agent` (agent=0)  
+**Last reviewed:** 2026-08-21  
+**Standards:** v10 · **Autonomy:** L3 · **Overnight crons:** all `no_agent` (agent=0)  
 **Start here:** [USER_MANUAL.md](USER_MANUAL.md) · [CONTROL.md](CONTROL.md) · workers: [WORKER.md](WORKER.md)  
 **Entry:** `go <plain language>` → skill `go-router`  
 **Hub skill:** `echopedia-ops` · **Cron SSOT:** pinto `cron/jobs.json` (see generated inventory in SYSTEM_STATUS)
@@ -93,17 +93,17 @@ SSOT times: `hermes cron list` / SYSTEM_STATUS generated table. Narrative summar
 - Current open example class: pending LINE/Echopedia identity confirms  
 
 ### Content (optional backlog)
-- Janitor `NO_SAFE_ACT` body-link pages (agent/human batch)  
+- Janitor HOLD leftovers only (SFTS-as-person, `LINK_BODY_SPARSE` section-order, already-linked) — not a body-link human batch  
 - Intake missing-page noise (~500 cross-refs — no auto-create)  
 - Broken-link mass (~1.6k, parser noisy — gate skipped)  
 - Timeline/quote over-match quality tune  
 - Misfiled pages / GSTPC OCR / homepage dual inject  
 
 ### Autonomy gaps (L4+)
-- Local agent body-link drain still programmable-only  
-- P13 site-design agent pass remains human-triggered  
-- Hard broken-link gate when parser is trustworthy  
-- WORKER thin playbook **P14** (docs WARN only)
+- B auto-GO: gated kicker OK to code; do **not** fire untagged ready cards (pct.org.tw / bai-weiwei / TAH.org)
+- C: archive ZH-B3–B6 only; do **not** retry ntpc/laijohn/ZH as-is
+- D1 decay **shipped** in analyzer; D2 page enrich **not** enabled (identity)
+- P13 site-design agent pass remains human-triggered
 
 ### Not autonomous (by design)
 - Inventing biographies  
