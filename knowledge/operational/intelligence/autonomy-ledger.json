@@ -1,0 +1,48 @@
+{
+  "date": "2026-08-21",
+  "standards_version": 10,
+  "auto_apply_agent": false,
+  "nodes": {
+    "janitor.first_mention": {
+      "n": 0,
+      "enabled": true
+    },
+    "janitor.related": {
+      "n": 0
+    },
+    "analyzer": {
+      "scanned": 1658,
+      "queued": 52,
+      "suppressed": 0
+    },
+    "enrichment_writes": {
+      "n": 2,
+      "enabled": false
+    },
+    "janitor.hold": {
+      "n": 40
+    },
+    "kanban.blocked": {
+      "n": 6
+    },
+    "kanban.auto_go": {
+      "enabled": false
+    },
+    "kanban.retry_timeout": {
+      "enabled": false
+    },
+    "standards": {
+      "version": 10,
+      "auto_apply_agent": false,
+      "first_mention_apply": true
+    },
+    "cron.fail": []
+  },
+  "telegram_auto_lines": [
+    "✅ AUTO analyzer scanned 1658 queued 52 suppressed 0",
+    "🟡 QUEUE enrichment wrote 2 page(s) — review identity",
+    "🟡 QUEUE janitor HOLD leftover 40",
+    "🟡 QUEUE kanban blocked 6"
+  ],
+  "cron_fail_names": []
+}

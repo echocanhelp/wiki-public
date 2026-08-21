@@ -21,7 +21,7 @@
 | **Nightly sense** | Content analysis → janitor queue + structural audit (local wall clock; see table) |
 | **Self-improve** | Scout → Filter → Extract → Evaluate → Generate → Review → Remediate → Publish (deterministic) |
 | **L2/L3 autonomy** | `ci-heal` heals drift, smoke, green → auto-push |
-| **Human map** | **Morning brief** (NEED YOU) + digest + SYSTEM_STATUS + this file |
+| **Human map** | **Morning brief** (NEED YOU + AUTO ledger ≤8) + digest + SYSTEM_STATUS + this file |
 | **Telegram labels** | ✅ AUTO · 🟡 QUEUE · 🔴 NEED YOU · ℹ️ INFO — [cron-notify-labels.md](../knowledge/operational/cron-notify-labels.md) |
 | **Live-site continuity** | Sunday **source-continuity** (TC · GSTPC · ITPC · PCT · laijohn · TA.org story-corpus) — [source-continuity.md](../knowledge/operational/source-continuity.md) |
 | **Story / book / social receive** | **Ingest** = wiki + **P2**. Magazines: vault + work pages A/B/C + **Stories**. `archive only` = vault. Hub-only = PARTIAL — [WEBSITE_INGEST.md](WEBSITE_INGEST.md) |
@@ -42,7 +42,7 @@ All stages **`no_agent`** (no LLM in overnight path):
 7. **Publish** (08:00) — ci-heal L2/L3  
 8. **Review** (Sun 07:05) — weekly-improvement pack + review gate  
 
-**Human surface (last content brief):** `vault-morning-brief` **08:15** — NEED YOU ≤5 first.  
+**Human surface (last content brief):** `vault-morning-brief` **08:15** — NEED YOU ≤5 first; AUTO strip from `autonomy-ledger.json`.  
 **Cron self-heal:** `cron-audit` 06:00 · `cron-self-audit` 06:40 (schedule restore + missed-run guards).
 
 **Folded (paused as Telegram):** `vault-unfinished-threads`, `vault-connector-suggestions`, `vault-intelligence-digest` — collectors still run **via morning-brief** (disk), not separate spam.
