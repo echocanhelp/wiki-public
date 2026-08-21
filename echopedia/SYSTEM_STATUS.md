@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-08-21 03:32 PDT*
+*Generated: 2026-08-21 03:33 PDT*
 
 ## Orientation
 - **Entry:** go <plain language> via go-router (auto-route) · **Control:** [CONTROL.md](CONTROL.md)
@@ -19,7 +19,7 @@
 ## Content
 |- **Tier1 pages:** 2845 (people 2402 / orgs 428 / sources 15) · Tier2 archive: 29103
 |- **Janitor queue depth:** 54
-|- **Uncommitted files:** 6505
+|- **Uncommitted files:** 3095
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 || Stage | Script | Last run | Output |
@@ -59,7 +59,7 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-08-20T07:56:06.337206-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-08-21T03:30:53.283377-07:00  ok
+    Last run:  2026-08-21T03:32:53.319936-07:00  ok
     Name:      Echopedia content analysis
     Schedule:  10 1 * * *
     Last run:  2026-08-21T01:10:26.056906-07:00  ok
