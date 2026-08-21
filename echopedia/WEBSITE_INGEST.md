@@ -20,7 +20,7 @@ Human still says `Echopedia website <domain>`. Detector / planner sets **class**
 | **`publication`** | TAHS yearbook, memoir PDF | Chunks + facts-clean | [PUBLICATION_INGEST.md](PUBLICATION_INGEST.md) |
 | **`social-short`** | one IG/X/FB post | Optional gitignored snippet | Historical value → **work page** (or cite on existing dossier). Never domain crawl. No person from handle alone |
 
-**TAHS default:** vault captures the record; the wiki publishes the **history** (A-band = full article). Index-only / hub-only / **truncated teaser** is **PARTIAL**. Chrome is band D. Copyrighted **fiction** bodies (C) stay in the vault; bib page still publishes.
+**TAHS default (owner 2026-08-20):** a historical society **saves valuable text**. Pages 1GB / “too many posts” is **never** a reason to skip the vault copy. **Vault A/B/C full bodies** (gitignored). Wiki: A = full article, B = work page, C = bib (fiction body vault-only), D = chrome only. Index-only / hub-only / **truncated teaser** = **PARTIAL**.
 
 `taiwaneseamerican.org` ≠ `taiwaneseamericanhistory.org` (TAH recrawl skip).
 
@@ -92,12 +92,12 @@ A magazine of Taiwanese American interviews, essays, and stories **is the histor
 |------|------|-------|
 | **A** | Interviews, oral history, community, 228/politics, named-subject features | **Full article** on the wiki (cited). Truncated WP excerpt = **bug / PARTIAL**. P2 does not write the article. |
 | **B** | Other nonfiction essays/features | work page + light subject list |
-| **C** | Fiction, poetry, CNF, prize selections | **Bibliographic** work page (title/author/date/URL). **No body** on gh-pages |
-| **D** | Slider, gift-guide, chrome, empty | Vault index only (`absorb=skip`) |
+| **C** | Fiction, poetry, CNF, prize selections | **Bibliographic** work page (title/author/date/URL). **No body** on gh-pages. **Full text in vault.** |
+| **D** | Gift-guide / chrome / empty | Vault index only (`absorb=skip`). Literary text is never D. |
 
 ### A. Vault (Tier 2) — capture the corpus
 - [ ] Official **pages** (About / Mission) archived + MANIFEST  
-- [ ] **All posts** fetched to gitignored store (`knowledge/web-archives/` or `content/articles/<id>/`) — this is the society’s copy  
+- [ ] **All A/B/C posts** fetched **full text** to gitignored store (`knowledge/web-archives/<id>/`) — this is the society’s copy. A-band-only vault = **PARTIAL**. D chrome may stay index-only.  
 - [ ] `knowledge/research/<id>/units.jsonl` one line per post (`value_band` + `absorb`)  
 - [ ] Validator OK  
 - [ ] **Never** `git add` bulk archives (Pages 1GB)

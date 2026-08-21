@@ -103,8 +103,9 @@ def main() -> int:
         if not line.strip():
             continue
         unit = json.loads(line)
-        if (unit.get("value_band") or stub.value_band(unit)) != "A":
+        if stub.value_band(unit) != "A":
             continue
+        # Wiki full-article thicken is A-only. B/C full text: ingest --fill-vault.
         n += 1
         if args.limit and thickened >= args.limit:
             break

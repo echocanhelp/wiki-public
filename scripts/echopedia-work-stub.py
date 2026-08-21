@@ -30,16 +30,41 @@ def slugify(url: str, unit_id: str = "") -> str:
     return s[:80]
 
 
-def value_band(unit: dict) -> str:
-    if unit.get("value_band") in ("A", "B", "C", "D"):
-        return unit["value_band"]
+def _blob(unit: dict) -> str:
     cats = [str(c).lower() for c in (unit.get("categories") or [])]
     genre = str(unit.get("genre") or "").lower()
-    blob = " ".join(cats) + " " + genre + " " + str(unit.get("title") or "").lower() + " " + str(unit.get("url") or "").lower()
+    return (
+        " ".join(cats)
+        + " "
+        + genre
+        + " "
+        + str(unit.get("title") or "").lower()
+        + " "
+        + str(unit.get("url") or "").lower()
+    )
+
+
+def classify_band(unit: dict) -> str:
+    """Society bar: literary text is never D chrome. Gift-guides are D."""
+    blob = _blob(unit)
+    genre = str(unit.get("genre") or "").lower()
+    if (
+        genre in ("fiction", "poetry", "cnf", "creative-nonfiction")
+        or any(
+            x in blob
+            for x in (
+                "fiction",
+                "poetry",
+                "cnf",
+                "creative-nonfiction",
+                "creative nonfiction",
+                "creative-writing",
+            )
+        )
+    ):
+        return "C"
     if any(x in blob for x in ("gift-guide", "gift_guide", "old-events")) and "interview" not in blob:
         return "D"
-    if genre in ("fiction", "poetry", "cnf", "creative-nonfiction") or "creative-writing" in blob:
-        return "C"
     if any(
         x in blob
         for x in (
@@ -52,6 +77,16 @@ def value_band(unit: dict) -> str:
     ):
         return "A"
     return "B"
+
+
+def value_band(unit: dict, *, trust_stored: bool = True) -> str:
+    stored = unit.get("value_band")
+    if trust_stored and stored in ("A", "B", "C", "D"):
+        # Repair: literary pieces tagged D (gift-guide false positive)
+        if stored == "D" and classify_band(unit) == "C":
+            return "C"
+        return stored
+    return classify_band(unit)
 
 
 def default_absorb(band: str) -> str:
@@ -161,6 +196,14 @@ def self_test() -> int:
         "absorb": "work-page",
     }
     assert value_band(unit) == "A"
+    fic = {
+        "title": "They’ve Always Come to Us: Fiction by Eddie Lo",
+        "url": "https://example.org/fiction-eddie/",
+        "categories": ["slider"],
+        "value_band": "D",
+    }
+    assert classify_band(fic) == "C"
+    assert value_band(fic) == "C"
     p = write_unit(unit, force=True)
     assert p and p.is_file()
     text = p.read_text(encoding="utf-8")
