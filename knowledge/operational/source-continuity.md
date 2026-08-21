@@ -4,7 +4,7 @@
 **Orchestrator:** `~/.hermes/profiles/pinto/scripts/echopedia-source-continuity.sh`  
 **Schedule:** Sunday **06:00** local — job `echopedia-source-continuity` (`no_agent`)  
 **Human surface:** morning-brief 07:55 (SOURCE CONTINUITY / NEXT INGEST sections)  
-**Ship:** 2026-08-09 v3 — live-small (TC · GSTPC · ITPC · PCT). **2026-08-18:** `laijohn-com` added by owner (static HTTP; seeds=Who+TOC; no event stubs / no About AUTO).
+**Ship:** 2026-08-09 v3 — live-small (TC · GSTPC · ITPC · PCT). **2026-08-18:** `laijohn-com` added by owner (static HTTP; seeds=Who+TOC; no event stubs / no About AUTO). **2026-08-20:** `taiwaneseamerican-org` enabled (`story-corpus`; work_stub; no event_stub/people).
 
 ## What it does
 

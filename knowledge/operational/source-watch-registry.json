@@ -189,7 +189,7 @@
     },
     {
       "id": "taiwaneseamerican-org",
-      "enabled": false,
+      "enabled": true,
       "class": "story-corpus",
       "display_name": "TaiwaneseAmerican.org",
       "home_url": "https://www.taiwaneseamerican.org/",
