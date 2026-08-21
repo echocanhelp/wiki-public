@@ -189,7 +189,7 @@ Found two relevant mechanisms:
 |----|------|------|-------|
 | P0 | Orient | Don't know state | 1. Read SYSTEM_STATUS.md 2. Read WHERE_WE_ARE.md 3. Report |
 | P1 | Ops/drift/smoke | Check health | 1. `echopedia-ops-check.sh` 2. `echopedia-ci-heal.sh --dry-run` 3. `echopedia-smoke-test.sh` 4. Report |
-| P2 | Publish/deploy | Push to live | 1. `echopedia-publish.sh --push` (rsync→quartz build→tree-copy + root index.html copy→featured regen→commit+push→CDN verify) 2. Verify smoke URLs 3. Report |
+| P2 | Publish/deploy | Push to live | 1. `echopedia-publish.sh --push` (rsync→quartz build→tree-copy + root index.html + **root `static/contentIndex.json`** copy→featured regen→commit+push→CDN verify) 2. Verify smoke URLs **and** live `static/contentIndex.json` key count 3. Report |
 | P3 | One page links | Fix wikilinks | 1. Read page 2. Find broken wikilinks 3. Repair or redirect 4. Commit only (no publish) 5. Report |
 | P4 | Janitor queue | Queue items | 1. Read janitor-brief.md 2. Process items per type 3. Romanization `--heal` is automatic in janitor-wrapper (lexicon-only) 4. Commit 5. Report |
 | P5 | Heal/drift/smoke | Full heal | 1. `echopedia-ci-heal.sh` 2. Verify 3. Report |
@@ -203,7 +203,7 @@ Found two relevant mechanisms:
 | P13 | Site design | Layout issues | 1. Read site-design-brief.md 2. Run audit 3. Propose fixes (incl. root index.html copy from quartz build, Pages build type migration) 4. Report |
 | **P14** | **Person-to-work linking** | **Ensure person pages list all works + articles link back** | **1. Run `echopedia-person-works-linker.py --all` 2. Verify ## Works section on sample page 3. Verify backlinks in sample articles 4. Commit** |
 
-**Story-corpus (magazines):** ingest `--apply-works` then `echopedia-thicken-work-a.py` (**full A-band article**, not WP teaser). C stays bib. Then works-index + linkcheck + **P2**. Truncation is a bug.
+**Story-corpus (magazines):** ingest `--apply-works` then `echopedia-thicken-work-a.py` (**full A-band article**, not WP teaser). C stays bib. Then works-index + linkcheck + **P2**. Truncation of the **catalog** (`works/index`, people/orgs directories, source hubs) is a bug — list everything. Do **not** uncap person-page quote/harvest dumps (that was the 22MB `## Works` incident).
 
 ### P8 — Edit page content (content update)
 

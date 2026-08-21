@@ -10,7 +10,7 @@ last_reviewed: 2026-08-20
 ---
 # Stories & historical works
 
-Interviews, oral history, and named-subject features absorbed as Echopedia **work** pages. These are the stories — not a URL dump. Use header **search** for a title or 漢名.
+Interviews, oral history, and named-subject features absorbed as Echopedia **work** pages. **Every** A/B/C work we have is listed below (not a teaser). Use header **search** to jump to a title or 漢名.
 
 <!-- works-index-start -->
 ## Featured stories
@@ -34,50 +34,2419 @@ Interviews, oral history, and named-subject features absorbed as Echopedia **wor
 
 ### taiwaneseamerican-org
 
-A 552 · B 1781 · C 78 · total 2411
+A 552 · B 1781 · C 78 · total 2411 — full list, never truncated.
 
-- [[works/taiwaneseamerican-org/leaving-the-united-states-made-me-feel-more-taiwanese-american|Leaving the United States Made Me Feel More Taiwanese American]] — 2026-05-04
-- [[works/taiwaneseamerican-org/a-little-bit-sweet-doc|A Little Bit Sweet: A Taiwanese American Documentary About Grief, Family, and Hot Sauce]] — 2026-04-18
-- [[works/taiwaneseamerican-org/228-reflection-2026|A Reflection on 228, from Taiwanese America in 2026]] — 2026-02-27
-- [[works/taiwaneseamerican-org/stefany-valentine-interview|Crying in the Taipei 101 Food Court: Two Transpacific Adoptees Talk (Re-)Learning Mandarin in Taiwan]] — 2026-02-23
-- [[works/taiwaneseamerican-org/in-grief-returning-to-my-roots|In Grief, Returning to my Roots in Search of my Father’s Childhood]] — 2026-02-19
-- [[works/taiwaneseamerican-org/national-treasure-taiwanese-identity|Finding the Treasure: How National Treasure Helped Me Rediscover My Taiwanese American Story]] — 2026-02-03
-- [[works/taiwaneseamerican-org/revolutionary-taiwan|What happens when we think of Taiwan as a revolutionary place?: A Conversation with Catherine Chou, co-author of REVOLUTIONARY TAIWAN]] — 2026-02-01
-- [[works/taiwaneseamerican-org/kaila-yus-fetishized-community-discussion-guide|Kaila Yu’s FETISHIZED: Community Discussion Guide]] — 2026-01-23
-- [[works/taiwaneseamerican-org/taiwan-is-not-up-to-xi-vickie-wang|It Is Not Up to Xi. And It Is Not Complicated.]] — 2026-01-19
-- [[works/taiwaneseamerican-org/yahu-beauty-inteview|Skincare & Sourcing from Taiwan’s Natural Richness: In Conversation with Yahu Beauty Founder Brittaney Hu]] — 2026-01-12
-- [[works/taiwaneseamerican-org/taiwan-plus-possible-invasion-taiwan|A Beginner’s Guide to Understanding a Possible Invasion of Taiwan]] — 2025-12-11
-- [[works/taiwaneseamerican-org/jane-liu-understanding-parents-stories|Understanding Our Parents Through the Stories They Never Told: A Glimpse Into 1970s Rural Taiwan]] — 2025-12-10
-- [[works/taiwaneseamerican-org/angie-qq-sounds-of-taiwan|Creating an Archive Through Sound and Community:  A Conversation with Angie QQ, Curator of SOUNDS OF TAIWAN]] — 2025-12-10
-- [[works/taiwaneseamerican-org/elaine-hsieh-chou-interview|The Surreal, Dehumanized, and Fractured: A Conversation with Elaine Hsieh Chou]] — 2025-11-30
-- [[works/taiwaneseamerican-org/taiwanese-american-jing-mei-memorial-park|We Build Museums So We Can Someday Stop Building Cages: A Taiwanese American Reflection from the Jing-Mei White Terror Memorial Park]] — 2025-10-15
-- [[works/taiwaneseamerican-org/taiwan-food-and-farm|Shared Meals, Fieldwork, Storytelling: Building Transnational Solidarity Through the Taiwan Food and Farm Delegation]] — 2025-10-06
-- [[works/taiwaneseamerican-org/ghost-month-cecilia-chen|Ghost Month in Taiwan: When the Gates of the Underworld Open]] — 2025-09-05
-- [[works/taiwaneseamerican-org/jane-kuo-interview|“To write is to share; to share is to be seen”: Jane Kuo, in conversation with Rebecca Yang]] — 2025-09-03
-- [[works/taiwaneseamerican-org/third-generation-taiwanese-american-sophia-chang|Claiming Taiwanese American Identity: A Third-Generation Perspective]] — 2025-09-02
-- [[works/taiwaneseamerican-org/taigi-activism-keng-lam-su-in|Keng-lâm Su-iⁿ: Writing A New Chapter for Tâi-gí]] — 2025-08-29
-- [[works/taiwaneseamerican-org/who-gets-to-be-taiwanese-vickie-wang|Who Gets to be Taiwanese?]] — 2025-08-22
-- [[works/taiwaneseamerican-org/alvin-lu-daydreamers|Light as Insistent: Alvin Lu (“Daydreamers”) in conversation with Shawna Yang Ryan]] — 2025-08-11
-- [[works/taiwaneseamerican-org/anne-that-taiwanese-gal|Speaking in Layers: How Anne Is Building a Taiwanese Language Movement from New York to Nantou]] — 2025-07-10
-- [[works/taiwaneseamerican-org/model-minority-myth-hsin-i-cheng|Where we come from, who we stand with: A Conversation with Professor Hsin-I Cheng (Part 2/2)]] — 2025-06-30
-- [[works/taiwaneseamerican-org/belonging-immigration-hsin-i-cheng|Where we come from, who we stand with: A Conversation with Professor Hsin-I Cheng (Part 1/2)]] — 2025-06-23
-- [[works/taiwaneseamerican-org/formosa-chocolates-kimberly-yang|“Like a Box of Chocolates”: Formosa Chocolates’ Kimberly Yang Talks About a Life That Led Her to Chocolate Making]] — 2025-06-20
-- [[works/taiwaneseamerican-org/bonnie-jin-union-organizer|To Speak in Many Tongues Is to Fight on Many Fronts: Bonnie Jin on Labor, Diaspora, and the Politics of Belonging]] — 2025-06-17
-- [[works/taiwaneseamerican-org/solidarity-with-migrants|[中/EN In solidarity with migrants facing ICE violence⁠]] — 2025-06-10
-- [[works/taiwaneseamerican-org/into-the-forest-szu-chieh-yun|Walking through the Forest with Artist Szu-Chieh Yun: A Conversation Between Sisters]] — 2025-05-23
-- [[works/taiwaneseamerican-org/michelle-young-the-art-spy|Rose Valland, the Woman Who Outsmarted the Nazis:  Michelle Young  (“The Art Spy”) in conversation with Kristi Hong]] — 2025-05-12
-- [[works/taiwaneseamerican-org/lunchbox-anne-hu-release|Lunchbox: Anne Hu Serves a Taste of Taiwanese America in 90s-Era Cleveland]] — 2025-05-08
-- [[works/taiwaneseamerican-org/rediscovering-my-heart-language-real-you-mandarin|Rediscovering My  Heart Language:  A Taiwanese American Mother’s Journey to Relearn Mandarin]] — 2025-05-07
-- [[works/taiwaneseamerican-org/kristi-hong-the-teachers-match|“Abbott Elementary meets Crazy Rich Asians, but less crazy and a lot less rich”: Kristi Hong  (“The Teacher’s Match”) in conversation with Michelle Young]] — 2025-04-23
-- [[works/taiwaneseamerican-org/on-stubborn-roots-creative-nonfiction-by-charis-chu|On Stubborn Roots: Creative Nonfiction by Charis Chu]] — 2025-02-28
-- [[works/taiwaneseamerican-org/good-to-eat-owners-look-back-and-ahead-at-eight-years-of-sharing-taiwanese-cuisi|Good to Eat Owners Look Back (and Ahead) at Eight Years of Sharing Taiwanese Cuisine]] — 2025-02-22
-- [[works/taiwaneseamerican-org/gloria-chao-ex-marks-the-spot|Gloria Chao on “Ex Marks the Spot,” Diasporic Storytelling, and the Puzzles That Reveal Us to Each Other]] — 2025-02-13
-- [[works/taiwaneseamerican-org/cindy-chang-how-to-draw-a-secret|Transforming Memory Into Storytelling: Cindy Chang in conversation with Jocelyn Chung]] — 2025-02-11
-- [[works/taiwaneseamerican-org/a-republic-of-taiwan-chloe-shih|A Republic of Taiwan: Breaking the Chains]] — 2025-01-03
-- [[works/taiwaneseamerican-org/minyoli-taiwanese-noodles-chicago|Preserving a Slice of Taiwan’s Culinary History: Meet Rich and X Wang of Chicago’s Minyoli Taiwanese Noodles 民有里台灣麵館]] — 2024-12-04
-- [[works/taiwaneseamerican-org/when-love-is-more-than-words|On Family, Love, and Creating: Jocelyn Chung & Julia Kuo (When Love is More Than Words) in conversation with Jasmine Fang]] — 2024-11-02
-
-_512 more A-band in this source — use header search._
+- [[works/taiwaneseamerican-org/inner-voices-of-the-fog-a-reflection-on-a-foggy-tale|Inner Voices of the Fog: A Reflection on A Foggy Tale]] — 2026-05-26 · B
+- [[works/taiwaneseamerican-org/a-pilgrimage-creative-nonfiction-by-cindy-cheng|A Pilgrimage: Creative Nonfiction by Cindy Cheng]] — 2026-05-21 · C
+- [[works/taiwaneseamerican-org/esther-fung-fiction-cwp|Last Night in Taipei: Fiction by Esther Fung]] — 2026-05-15 · C
+- [[works/taiwaneseamerican-org/susan-hong-fiction-cwp|Home / 故鄉 : Fiction by Susan Hong]] — 2026-05-15 · C
+- [[works/taiwaneseamerican-org/serena-shih-fiction-cwp|Assembly Required: Functioning Woman – Fiction by Serena Shih]] — 2026-05-15 · C
+- [[works/taiwaneseamerican-org/laurie-fang-fiction-cwp|Apology Flowers: Fiction by Laurie Fang]] — 2026-05-15 · C
+- [[works/taiwaneseamerican-org/2026-creative-writing-prize-winners|Charles Yu, Grace Loh Prasad, Alvina Ling, Shawna Yang Ryan, Averylin Cummins select 2026 Creative Writing Prize Winners]] — 2026-05-14 · C
+- [[works/taiwaneseamerican-org/leaving-the-united-states-made-me-feel-more-taiwanese-american|Leaving the United States Made Me Feel More Taiwanese American]] — 2026-05-04 · A
+- [[works/taiwaneseamerican-org/a-little-bit-sweet-doc|A Little Bit Sweet: A Taiwanese American Documentary About Grief, Family, and Hot Sauce]] — 2026-04-18 · A
+- [[works/taiwaneseamerican-org/228-reflection-2026|A Reflection on 228, from Taiwanese America in 2026]] — 2026-02-27 · A
+- [[works/taiwaneseamerican-org/stefany-valentine-interview|Crying in the Taipei 101 Food Court: Two Transpacific Adoptees Talk (Re-)Learning Mandarin in Taiwan]] — 2026-02-23 · A
+- [[works/taiwaneseamerican-org/in-grief-returning-to-my-roots|In Grief, Returning to my Roots in Search of my Father’s Childhood]] — 2026-02-19 · A
+- [[works/taiwaneseamerican-org/2026-creative-writing-prize|Now accepting submissions: 2026 Betty L. Yu and Jin C. Yu Creative Writing Prizes]] — 2026-02-09 · C
+- [[works/taiwaneseamerican-org/national-treasure-taiwanese-identity|Finding the Treasure: How National Treasure Helped Me Rediscover My Taiwanese American Story]] — 2026-02-03 · A
+- [[works/taiwaneseamerican-org/revolutionary-taiwan|What happens when we think of Taiwan as a revolutionary place?: A Conversation with Catherine Chou, co-author of REVOLUTIONARY TAIWAN]] — 2026-02-01 · A
+- [[works/taiwaneseamerican-org/kaila-yus-fetishized-community-discussion-guide|Kaila Yu’s FETISHIZED: Community Discussion Guide]] — 2026-01-23 · A
+- [[works/taiwaneseamerican-org/taiwan-is-not-up-to-xi-vickie-wang|It Is Not Up to Xi. And It Is Not Complicated.]] — 2026-01-19 · A
+- [[works/taiwaneseamerican-org/yahu-beauty-inteview|Skincare & Sourcing from Taiwan’s Natural Richness: In Conversation with Yahu Beauty Founder Brittaney Hu]] — 2026-01-12 · A
+- [[works/taiwaneseamerican-org/gl-blandford-memoir|In the Shadow of a Flag: Creative Nonfiction by G.L. Blandford]] — 2026-01-06 · C
+- [[works/taiwaneseamerican-org/yagyu-fiction-by-grace-a-lin|Yagyu: Fiction by Grace A. Lin]] — 2025-12-17 · C
+- [[works/taiwaneseamerican-org/taiwan-plus-possible-invasion-taiwan|A Beginner’s Guide to Understanding a Possible Invasion of Taiwan]] — 2025-12-11 · A
+- [[works/taiwaneseamerican-org/jane-liu-understanding-parents-stories|Understanding Our Parents Through the Stories They Never Told: A Glimpse Into 1970s Rural Taiwan]] — 2025-12-10 · A
+- [[works/taiwaneseamerican-org/angie-qq-sounds-of-taiwan|Creating an Archive Through Sound and Community:  A Conversation with Angie QQ, Curator of SOUNDS OF TAIWAN]] — 2025-12-10 · A
+- [[works/taiwaneseamerican-org/elaine-hsieh-chou-interview|The Surreal, Dehumanized, and Fractured: A Conversation with Elaine Hsieh Chou]] — 2025-11-30 · A
+- [[works/taiwaneseamerican-org/the-lime-stand-portland|How The Lime Stand Recreated Taiwan’s Most Unique Dessert in Portland]] — 2025-10-30 · B
+- [[works/taiwaneseamerican-org/translation-is-a-gift-creative-nonfiction-by-brenda-lin|Translation is a gift: Creative Nonfiction by brenda Lin]] — 2025-10-21 · C
+- [[works/taiwaneseamerican-org/taiwanese-american-jing-mei-memorial-park|We Build Museums So We Can Someday Stop Building Cages: A Taiwanese American Reflection from the Jing-Mei White Terror Memorial Park]] — 2025-10-15 · A
+- [[works/taiwaneseamerican-org/taiwan-food-and-farm|Shared Meals, Fieldwork, Storytelling: Building Transnational Solidarity Through the Taiwan Food and Farm Delegation]] — 2025-10-06 · A
+- [[works/taiwaneseamerican-org/creative-writing-by-caroline-chieh-mei-pai|Drive to the Airport: Creative Writing by Caroline Chieh-Mei Pai]] — 2025-09-18 · C
+- [[works/taiwaneseamerican-org/ghost-month-cecilia-chen|Ghost Month in Taiwan: When the Gates of the Underworld Open]] — 2025-09-05 · A
+- [[works/taiwaneseamerican-org/jane-kuo-interview|“To write is to share; to share is to be seen”: Jane Kuo, in conversation with Rebecca Yang]] — 2025-09-03 · A
+- [[works/taiwaneseamerican-org/third-generation-taiwanese-american-sophia-chang|Claiming Taiwanese American Identity: A Third-Generation Perspective]] — 2025-09-02 · A
+- [[works/taiwaneseamerican-org/taigi-activism-keng-lam-su-in|Keng-lâm Su-iⁿ: Writing A New Chapter for Tâi-gí]] — 2025-08-29 · A
+- [[works/taiwaneseamerican-org/who-gets-to-be-taiwanese-vickie-wang|Who Gets to be Taiwanese?]] — 2025-08-22 · A
+- [[works/taiwaneseamerican-org/alvin-lu-daydreamers|Light as Insistent: Alvin Lu (“Daydreamers”) in conversation with Shawna Yang Ryan]] — 2025-08-11 · A
+- [[works/taiwaneseamerican-org/winnie-lis-what-we-left-unsaid-and-california-book-tour|Winnie M Li’s “WHAT WE LEFT UNSAID” and California Book Tour!]] — 2025-08-10 · B
+- [[works/taiwaneseamerican-org/the-inevitable-goodbye-charis-chu|The Inevitable Goodbye: Fiction by Charis Chu]] — 2025-08-07 · C
+- [[works/taiwaneseamerican-org/anne-that-taiwanese-gal|Speaking in Layers: How Anne Is Building a Taiwanese Language Movement from New York to Nantou]] — 2025-07-10 · A
+- [[works/taiwaneseamerican-org/model-minority-myth-hsin-i-cheng|Where we come from, who we stand with: A Conversation with Professor Hsin-I Cheng (Part 2/2)]] — 2025-06-30 · A
+- [[works/taiwaneseamerican-org/belonging-immigration-hsin-i-cheng|Where we come from, who we stand with: A Conversation with Professor Hsin-I Cheng (Part 1/2)]] — 2025-06-23 · A
+- [[works/taiwaneseamerican-org/wo-de-fiction-by-alice-kuok|Wǒ De: Fiction by Alice Kuok]] — 2025-06-21 · C
+- [[works/taiwaneseamerican-org/jaded-girls-fiction-by-davina-jou|Jaded Girls: Fiction by Davina Jou]] — 2025-06-21 · C
+- [[works/taiwaneseamerican-org/formosa-chocolates-kimberly-yang|“Like a Box of Chocolates”: Formosa Chocolates’ Kimberly Yang Talks About a Life That Led Her to Chocolate Making]] — 2025-06-20 · A
+- [[works/taiwaneseamerican-org/taiwanese-popcorn-chicken-creative-nonfiction-by-kelly-chu|Taiwanese Popcorn Chicken: Creative Nonfiction by Kelly Chu]] — 2025-06-20 · C
+- [[works/taiwaneseamerican-org/how-far-we-stray-fiction-by-angelica-lai|How Far We Stray: Fiction by Angelica Lai]] — 2025-06-20 · C
+- [[works/taiwaneseamerican-org/charles-yu-grace-loh-prasad-alvina-ling-select-2025-creative-writing-prize-winne|Charles Yu, Grace Loh Prasad, Alvina Ling select 2025 Creative Writing Prize Winners]] — 2025-06-20 · C
+- [[works/taiwaneseamerican-org/bonnie-jin-union-organizer|To Speak in Many Tongues Is to Fight on Many Fronts: Bonnie Jin on Labor, Diaspora, and the Politics of Belonging]] — 2025-06-17 · A
+- [[works/taiwaneseamerican-org/solidarity-with-migrants|[中/EN In solidarity with migrants facing ICE violence⁠]] — 2025-06-10 · A
+- [[works/taiwaneseamerican-org/into-the-forest-szu-chieh-yun|Walking through the Forest with Artist Szu-Chieh Yun: A Conversation Between Sisters]] — 2025-05-23 · A
+- [[works/taiwaneseamerican-org/taiwanese-american-book-fair-2025|Taiwanese American Book Fair: TaiwaneseAmerican.org at the 2025 Taiwanese American Cultural Festival]] — 2025-05-13 · B
+- [[works/taiwaneseamerican-org/michelle-young-the-art-spy|Rose Valland, the Woman Who Outsmarted the Nazis:  Michelle Young  (“The Art Spy”) in conversation with Kristi Hong]] — 2025-05-12 · A
+- [[works/taiwaneseamerican-org/lunchbox-anne-hu-release|Lunchbox: Anne Hu Serves a Taste of Taiwanese America in 90s-Era Cleveland]] — 2025-05-08 · A
+- [[works/taiwaneseamerican-org/rediscovering-my-heart-language-real-you-mandarin|Rediscovering My  Heart Language:  A Taiwanese American Mother’s Journey to Relearn Mandarin]] — 2025-05-07 · A
+- [[works/taiwaneseamerican-org/change-in-atmosphere-creative-non-fiction-by-evelyn-wu|Change in Atmosphere: Creative Non-Fiction by Evelyn Wu]] — 2025-04-24 · C
+- [[works/taiwaneseamerican-org/kristi-hong-the-teachers-match|“Abbott Elementary meets Crazy Rich Asians, but less crazy and a lot less rich”: Kristi Hong  (“The Teacher’s Match”) in conversation with Michelle Young]] — 2025-04-23 · A
+- [[works/taiwaneseamerican-org/taiwanese-american-writers-awp-2025|A Tradition of Gathering: Taiwanese American Writers at AWP 2025]] — 2025-03-28 · B
+- [[works/taiwaneseamerican-org/2025-creative-writing-prize|Now accepting submissions: 2025 Betty L. Yu and Jin C. Yu Creative Writing Prizes, in Celebration of Taiwanese American student and adult writers]] — 2025-03-10 · C
+- [[works/taiwaneseamerican-org/on-stubborn-roots-creative-nonfiction-by-charis-chu|On Stubborn Roots: Creative Nonfiction by Charis Chu]] — 2025-02-28 · A
+- [[works/taiwaneseamerican-org/good-to-eat-owners-look-back-and-ahead-at-eight-years-of-sharing-taiwanese-cuisi|Good to Eat Owners Look Back (and Ahead) at Eight Years of Sharing Taiwanese Cuisine]] — 2025-02-22 · A
+- [[works/taiwaneseamerican-org/gloria-chao-ex-marks-the-spot|Gloria Chao on “Ex Marks the Spot,” Diasporic Storytelling, and the Puzzles That Reveal Us to Each Other]] — 2025-02-13 · A
+- [[works/taiwaneseamerican-org/cindy-chang-how-to-draw-a-secret|Transforming Memory Into Storytelling: Cindy Chang in conversation with Jocelyn Chung]] — 2025-02-11 · A
+- [[works/taiwaneseamerican-org/a-republic-of-taiwan-chloe-shih|A Republic of Taiwan: Breaking the Chains]] — 2025-01-03 · A
+- [[works/taiwaneseamerican-org/juliana-chang-poems|“the most Taiwanese thing about me” & Other Poems by Juliana Chang]] — 2024-12-25 · C
+- [[works/taiwaneseamerican-org/alice-kuok-poems|“Even with my muddied vision” & Other Poems by Alice Kuok]] — 2024-12-25 · C
+- [[works/taiwaneseamerican-org/sunlight-in-a-bottle-fiction-by-davina-jou|sunlight in a bottle: Fiction by Davina Jou]] — 2024-12-25 · C
+- [[works/taiwaneseamerican-org/umbilical-cord-creative-nonfiction-by-brenda-lin|Umbilical Cord: Creative Nonfiction by brenda Lin]] — 2024-12-25 · B
+- [[works/taiwaneseamerican-org/soon-enough-later-fiction-by-naomi-gage|Soon Enough, Later: Fiction by Naomi Gage]] — 2024-12-25 · C
+- [[works/taiwaneseamerican-org/rude-colette-chang|Rude: Creative Nonfiction by Colette Chang]] — 2024-12-25 · C
+- [[works/taiwaneseamerican-org/in-the-name-of-scientific-progress-fiction-by-susan-l-lin|In the Name of Scientific Progress: Fiction by Susan L. Lin]] — 2024-12-25 · C
+- [[works/taiwaneseamerican-org/achieu-fiction-wiley-ho|A-chieu: Fiction by Wiley Ho]] — 2024-12-25 · C
+- [[works/taiwaneseamerican-org/minyoli-taiwanese-noodles-chicago|Preserving a Slice of Taiwan’s Culinary History: Meet Rich and X Wang of Chicago’s Minyoli Taiwanese Noodles 民有里台灣麵館]] — 2024-12-04 · A
+- [[works/taiwaneseamerican-org/when-love-is-more-than-words|On Family, Love, and Creating: Jocelyn Chung & Julia Kuo (When Love is More Than Words) in conversation with Jasmine Fang]] — 2024-11-02 · A
+- [[works/taiwaneseamerican-org/bo-lu-baos-doll|On playfulness, anger, mother-daughter relationships, and all the white space in between: Bo Lu (Bao’s Doll) in conversation with Mikaela Luke]] — 2024-10-25 · A
+- [[works/taiwaneseamerican-org/ellie-yang-camp|“To be left ignorant about Asian American history is to erase who we are as a people”: Ellie Yang Camp’s “Louder Than the Lies”]] — 2024-10-22 · A
+- [[works/taiwaneseamerican-org/chef-james-chang|From “幾乎沒有 Basically Nothing,” Pop-Up Chef James Chang Defines Taiwanese American Cuisine in Kansas City]] — 2024-10-15 · A
+- [[works/taiwaneseamerican-org/lin-a-short-story-by-triona-tsai|“Lin”: A Short Story by Triona Tsai]] — 2024-10-05 · C
+- [[works/taiwaneseamerican-org/kinmen-1969-deborah-jang|“Kinmen, 1969”: Fiction by Deborah Jang]] — 2024-10-05 · C
+- [[works/taiwaneseamerican-org/june-poems-mackenzie-duan|“June” & Other Poems by Mackenzie Duan]] — 2024-10-05 · C
+- [[works/taiwaneseamerican-org/next-gen-parenting-isabelle-engler|How bilingual author & pediatric music therapist Isabelle Engler is raising the next generation of Taiwanese Americans]] — 2024-09-22 · B
+- [[works/taiwaneseamerican-org/cat-cheng-bakes-netflix-blue-ribbon|“Baking is working, right?”: Meet Baker Cat Cheng, from Netflix’s “Blue Ribbon Baking Championship”]] — 2024-09-13 · B
+- [[works/taiwaneseamerican-org/kim-liao-interview|“Where Every Ghost Has a Name”: Kim Liao in conversation with Cosette Wu]] — 2024-09-01 · A
+- [[works/taiwaneseamerican-org/chop-fry-watch-learn-michelle-t-king| Chop Fry Watch Learn: Fu Pei-mei and the Making of Modern Chinese Food]] — 2024-08-17 · B
+- [[works/taiwaneseamerican-org/felicia-liang-interview|Taiwanese Homecoming: Meet Artist Felicia Liang]] — 2024-08-17 · A
+- [[works/taiwaneseamerican-org/gu-grocery-feature|A True Family Business: Jessica Wang of Gu Grocery in conversation with Tiffany Ran]] — 2024-08-17 · A
+- [[works/taiwaneseamerican-org/wild-greens-beautiful-girl|On Identity, Writing, and Preserving Heritage: Erica Lee Schlaikjer (“Wild Greens, Beautiful Girl”) in conversation with Crystal Z. Lee]] — 2024-08-14 · A
+- [[works/taiwaneseamerican-org/koi-fish-a-taf-story-by-brady-nichols|Koi Fish: A TAF Story by Brady Nichols]] — 2024-08-13 · A
+- [[works/taiwaneseamerican-org/community-resources-for-taiwanese-american-parents-families|Community Resources for Taiwanese American Parents & Families]] — 2024-08-11 · A
+- [[works/taiwaneseamerican-org/homing-creative-nonfiction-by-lenna-liu|Homing: Creative Nonfiction by Lenna L. Liu]] — 2024-08-06 · C
+- [[works/taiwaneseamerican-org/luck-girl-benign-city-fiction-by-herbert-chang|Luck Girl; Benign City: Fiction by Herbert Chang]] — 2024-06-19 · C
+- [[works/taiwaneseamerican-org/grace-loh-prasad-interview|“Half a World Apart”: Grace Loh Prasad (The Translator’s Daughter) in conversation with Jami Nakamura Lin]] — 2024-06-08 · A
+- [[works/taiwaneseamerican-org/real-you-mandarin|Real You Mandarin: Angela Lin on Empowering American-born Mandarin Speakers to have Adult Conversations]] — 2024-06-08 · A
+- [[works/taiwaneseamerican-org/beyond-boba-nicole-chen|Beyond Boba: Grunge Rock, Taiwanese Democracy, and the Model Minority Myth—in A Kid’s Book]] — 2024-06-05 · A
+- [[works/taiwaneseamerican-org/the-trilingualist-creative-nonfiction-by-devon|the trilingualist: Creative Nonfiction by devon chang]] — 2024-06-01 · C
+- [[works/taiwaneseamerican-org/2024-creative-writing-prize-2|Charles Yu, Shawna Yang Ryan, Alvina Ling select 2024 Creative Writing Prize Winners]] — 2024-05-30 · C
+- [[works/taiwaneseamerican-org/coen-blaauw-fapa-tribute|COEN BLAAUW: From the Blacklist to a Brilliant Star]] — 2024-05-26 · A
+- [[works/taiwaneseamerican-org/life-lessons-casting-call|NOW CASTING:  First-generation Taiwanese immigrants, 60+ years]] — 2024-05-24 · A
+- [[works/taiwaneseamerican-org/min-bridges-bay-area|“KITE”: On Crossing and Choreographing ‘Min Bridges’]] — 2024-04-10 · B
+- [[works/taiwaneseamerican-org/author-qa-kara-h-l-chen-and-love-resistance-asking-for-a-friend|Author Q&A: Kara H.L. Chen and “Love & Resistance,” “Asking for a Friend”]] — 2024-03-19 · A
+- [[works/taiwaneseamerican-org/birthworker-priscilla-hsu|Sitting the Month: Caretaking for Next Generation Taiwanese American Parents]] — 2024-03-06 · B
+- [[works/taiwaneseamerican-org/gathering-taiwanese-american-writers-at-awp-2024-i-wish-i-had-this-community-gro|Gathering Taiwanese American Writers at AWP 2024: “I wish I had this community growing up.”]] — 2024-02-09 · C
+- [[works/taiwaneseamerican-org/in-search-of-rounder-moons-poems-by-eleanor-lin|In Search of Rounder Moons: Poems by Eleanor Lin]] — 2024-02-03 · C
+- [[works/taiwaneseamerican-org/yi-shun-lai-suffragist-antarctic|Author Q&A: Yi Shun Lai and “A Suffragist’s Guide to the Antarctic”]] — 2024-01-31 · A
+- [[works/taiwaneseamerican-org/2024-creative-writing-prize|Now accepting submissions: 2024 Betty L. Yu and Jin C. Yu Creative Writing Prizes celebrate Taiwanese American student and adult writers]] — 2024-01-23 · C
+- [[works/taiwaneseamerican-org/taiwanese-soy-milk-migration|Taiwanese Soy Milk & My Transnational Story of Migration]] — 2024-01-21 · A
+- [[works/taiwaneseamerican-org/the-brothers-sun-reality-index|(Mostly Unserious) Reality Index for The Brothers Sun]] — 2024-01-21 · B
+- [[works/taiwaneseamerican-org/history-lessons-from-netflixs-the-brothers-sun|History Lessons from Netflix’s “The Brothers Sun”]] — 2024-01-06 · B
+- [[works/taiwaneseamerican-org/one-order-of-dan-bing-please-creative-non-fiction-by-tristan-tang|“One Order of Dan Bing, Please”: Creative Non-Fiction by Tristan Tang]] — 2023-12-31 · C
+- [[works/taiwaneseamerican-org/salty-like-tears-creative-nonfiction-by-grace-hwang-lynch|Salty Like Tears: Creative Nonfiction by Grace Hwang Lynch]] — 2023-12-31 · C
+- [[works/taiwaneseamerican-org/intergenerational-language-transmission-poems-by-gazelle-chen|Intergenerational Language Transmission: Poems by Gazelle Chen]] — 2023-12-31 · C
+- [[works/taiwaneseamerican-org/gravitational-pull-fiction-by-susan-lin|Gravitational Pull: Fiction by Susan L. Lin]] — 2023-12-31 · C
+- [[works/taiwaneseamerican-org/betelnut-soldier-wolf-e6-aa-b3-e6-a6-94-ef-bc-8c-e5-85-b5-e7-8b-bc-fiction-by-ya|Betelnut, Soldier-Wolf 檳榔，兵狼: Fiction by YakuzaBaby]] — 2023-12-31 · C
+- [[works/taiwaneseamerican-org/atlantic-menhaden-fiction-by-nicholas-servedio|Atlantic Menhaden: Fiction by Nicholas Servedio]] — 2023-12-31 · C
+- [[works/taiwaneseamerican-org/taiwanese-democracy-changed-the-way-i-see-my-life|How Taiwanese Democracy Changed the Way I See My Life]] — 2023-12-20 · A
+- [[works/taiwaneseamerican-org/next-gen-parenting-christina-wu|How bilingual author Christina Wu is raising the next generation of Taiwanese Americans]] — 2023-12-02 · B
+- [[works/taiwaneseamerican-org/wendy-cheng-island-x|Wendy Cheng’s “ISLAND X” is essential reading for Taiwanese Americans]] — 2023-11-26 · A
+- [[works/taiwaneseamerican-org/s-leo-chiang-island-in-between-kinmen|S. Leo Chiang’s ISLAND IN BETWEEN: Observations of Kinmen and Liminality]] — 2023-11-04 · B
+- [[works/taiwaneseamerican-org/vanessa-hope-invisible-nation|Vanessa Hope’s INVISIBLE NATION: “China does not want the world to know our story.”]] — 2023-11-03 · A
+- [[works/taiwaneseamerican-org/understanding-the-jewish-struggle-for-palestine-taiwanese-american-perspective|“Not in Our Name” – Understanding the Jewish Struggle for Palestine from a Taiwanese American Perspective]] — 2023-10-22 · A
+- [[works/taiwaneseamerican-org/forms-of-expression-an-interview-with-artist-jocelyn-tsaih|Forms of Expression: An Interview with Artist Jocelyn Tsaih]] — 2023-08-07 · A
+- [[works/taiwaneseamerican-org/taliyah-huang-interview-bobaway|How she built this: sophomore Taliyah Huang invents a Taiwanese-English translation tool to bridge language gaps]] — 2023-07-31 · A
+- [[works/taiwaneseamerican-org/double-happiness-other-poems-by-mackenzie-duan|“Double Happiness” & Other Poems by Mackenzie Duan]] — 2023-07-06 · C
+- [[works/taiwaneseamerican-org/the-taiwanese-experience-the-biggest-act-of-my-life-creative-nonfiction-by-jamie|The Taiwanese Experience: The Biggest Act of My Life – Creative Nonfiction by Jamie Su]] — 2023-07-06 · C
+- [[works/taiwaneseamerican-org/the-glass-butterfly-poems-by-natalie-chien|The Glass Butterfly: Poems by Natalie Chien]] — 2023-07-06 · C
+- [[works/taiwaneseamerican-org/the-first-meal-of-many-creative-nonfiction-by-ruth-lee|The First Meal (Of Many): Creative Nonfiction by Ruth Lee]] — 2023-07-06 · C
+- [[works/taiwaneseamerican-org/ramen-fiction-by-yvonne-gillen|RAMEN: Fiction by Yvonne Gillen]] — 2023-07-06 · C
+- [[works/taiwaneseamerican-org/directors-picks-taiwanese-american-films-to-watch|Director’s Picks: Ten Taiwanese American Films to Watch]] — 2023-06-24 · B
+- [[works/taiwaneseamerican-org/taiwanplus-kitchen-remix|New on TaiwanPlus: “Kitchen Remix” presents Taiwanese Food… With a Twist]] — 2023-06-21 · A
+- [[works/taiwaneseamerican-org/dragon-boat-festival-zongzi-love-language|How Dragon Boat Festival zongzi are my mom’s love language]] — 2023-06-21 · A
+- [[works/taiwaneseamerican-org/christina-matula-holly-mei-jones|A Girl Worth Rooting For: Meet Holly-Mei Jones]] — 2023-06-21 · A
+- [[works/taiwaneseamerican-org/cynthia-lin-tw-diaspora-shin-yu-pai|Podcasts & Poetry: Cynthia Lin (TW Diaspora) Interviews Shin Yu Pai]] — 2023-05-31 · A
+- [[works/taiwaneseamerican-org/taiwan-films-that-imagine-taiwanese-america|Director’s Picks: Ten Taiwan Films that Imagine Taiwanese America]] — 2023-05-26 · A
+- [[works/taiwaneseamerican-org/american-born-chinese-disney|The Roots of Disney’s “American Born Chinese”]] — 2023-05-24 · A
+- [[works/taiwaneseamerican-org/2023-creative-writing-prize-winners|Charles Yu, Shawna Yang Ryan, Alvina Ling Select 2023 Creative Writing Prize Recipients]] — 2023-05-22 · C
+- [[works/taiwaneseamerican-org/fantuan-discourse|Fantuan Discourse]] — 2023-05-16 · A
+- [[works/taiwaneseamerican-org/vanessa-chen-until-the-sun-rises|“Until The Sun Rises”: Q&A with Artist & Curator Vanessa Chen]] — 2023-04-10 · A
+- [[works/taiwaneseamerican-org/gloria-chao-when-you-wish-upon-a-lantern|Wish-Granting and Magic-Making in “When You Wish Upon a Lantern”]] — 2023-04-07 · B
+- [[works/taiwaneseamerican-org/directors-picks-ten-films-from-taiwan-to-watch|Director’s Picks: Ten Films from Taiwan to Watch]] — 2023-04-03 · A
+- [[works/taiwaneseamerican-org/between-my-grandfather-taiwan-and-me|Between My Grandfather, Taiwan, and Me]] — 2023-03-26 · A
+- [[works/taiwaneseamerican-org/everything-everywhere-all-at-once|Why I Love “Everything Everywhere All At Once”]] — 2023-03-22 · A
+- [[works/taiwaneseamerican-org/2023-creative-writing-prize|Now accepting submissions: 2023 Betty L. Yu and Jin C. Yu Creative Writing Prizes celebrate Taiwanese American student and adult writers]] — 2023-03-06 · C
+- [[works/taiwaneseamerican-org/taiwan-plus-the-jennie-show|“The Jennie Show” on TaiwanPlus: Animated First-Hand Telling of “Third Culture” Experiences in Taiwan]] — 2023-02-24 · B
+- [[works/taiwaneseamerican-org/jireh-deng-the-purpose-of-all-things-and-other-poems|Jireh Deng: “The Purpose of All Things” and Other Poems]] — 2023-02-20 · C
+- [[works/taiwaneseamerican-org/a-tale-of-two-islands-fire-ex-ignite-community|‘A Tale of Two Islands’ & Fire EX Ignite Community]] — 2023-02-14 · A
+- [[works/taiwaneseamerican-org/book-review-elaine-hsieh-chous-disorientation|Book Review: Elaine Hsieh Chou’s “Disorientation”]] — 2023-02-05 · B
+- [[works/taiwaneseamerican-org/how-writing-novels-helped-me-learn-more-about-what-it-means-to-be-taiwanese-amer|How writing novels helped me learn more about what it means to be Taiwanese American]] — 2023-02-03 · B
+- [[works/taiwaneseamerican-org/jiaozi-and-gyoza|Jiaozi and Gyoza]] — 2023-02-01 · A
+- [[works/taiwaneseamerican-org/miss-taiwanese-american-queen-tiffany-chang|Meet the Miss Taiwanese American 2022 Queen, Tiffany Chang]] — 2023-01-30 · A
+- [[works/taiwaneseamerican-org/this-is-why-you-must-read-this-is-not-my-home|This is why you must read “THIS IS NOT MY HOME”]] — 2023-01-25 · A
+- [[works/taiwaneseamerican-org/naomi-zhenmei-gage-strange-pastures|Naomi Zhenmei Gage: Strange Pastures]] — 2023-01-10 · C
+- [[works/taiwaneseamerican-org/scallion-pancakes-taiwanese-identity|Cōng yóu Bǐng: A Catalyst for Taiwanese Self-Identity]] — 2022-12-06 · A
+- [[works/taiwaneseamerican-org/coming-of-age-with-grace-lins-year-of-the-dog|Coming of Age with Grace Lin’s “Year of the Dog”]] — 2022-12-06 · A
+- [[works/taiwaneseamerican-org/gathering-taiwanese-american-community-at-emeryvilles-good-to-eat|Gathering Taiwanese American community at Emeryville’s “Good to Eat”]] — 2022-12-05 · A
+- [[works/taiwaneseamerican-org/yakuza-baby-mooncakes|Yakuza Baby: Mooncakes]] — 2022-11-02 · C
+- [[works/taiwaneseamerican-org/tyler-tsai-furikake-gohan|Tyler Tsai: Furikake Gohan]] — 2022-11-02 · C
+- [[works/taiwaneseamerican-org/josephine-cheng-the-best-day|Josephine Cheng: The Best Day]] — 2022-11-02 · C
+- [[works/taiwaneseamerican-org/anastasia-yang-crosswalk-catwalk|Anastasia Yang: Crosswalk・Catwalk]] — 2022-11-02 · C
+- [[works/taiwaneseamerican-org/nicole-chen-picture-book-interview|“How We Say I Love You”: Nicole Chen on her picture book & middle grade debuts]] — 2022-09-15 · A
+- [[works/taiwaneseamerican-org/rusted-dawn-hannah-han|Hannah Han: Rusted Dawn]] — 2022-09-06 · C
+- [[works/taiwaneseamerican-org/judy-i-lin-interview|Political intrigue, romance, danger: Meet Judy I. Lin, fantasy author of A Magic Steeped in Poison &  A Venom Dark and Sweet]] — 2022-08-23 · A
+- [[works/taiwaneseamerican-org/ian-tseng-deconstructing-daan-forest-park|Ian Yu-Hung Tseng: “Deconstructing Daan Forest Park”]] — 2022-08-13 · C
+- [[works/taiwaneseamerican-org/blueprints-poetry-prose-by-jeanelle-fu|Editor’s Review – “Blueprints: Poetry & Prose” by Jeanelle Fu]] — 2022-08-13 · B
+- [[works/taiwaneseamerican-org/alton-ru-creative-writing-short-story|Alton Ru: Doujiang, Youtiao, Bean (Short Story)]] — 2022-07-27 · C
+- [[works/taiwaneseamerican-org/rosalie-chiang-turning-red-interview|Rosalie Chiang on “Turning Red”: “My red panda is my acting career.”]] — 2022-07-17 · A
+- [[works/taiwaneseamerican-org/charles-yu-celebrates-sophomore-year-of-betty-l-yu-and-jin-c-yu-creative-writing|Charles Yu celebrates sophomore year of Betty L. Yu and Jin C. Yu Creative Writing Prizes with fellow judges, participants]] — 2022-07-01 · C
+- [[works/taiwaneseamerican-org/alice-lin-fireworks-interview|Alice Lin’s YA debut novel “Fireworks” navigates bisexuality, pop fandom, friendship]] — 2022-06-16 · A
+- [[works/taiwaneseamerican-org/new-creatives-eric-lin-music|Architecture student, journalist, designer, musician: Eric Lin is all of these and more]] — 2022-06-07 · A
+- [[works/taiwaneseamerican-org/2022-creative-writing-recipients|Charles Yu, Shawna Yang Ryan, Alvina Ling Select 2022 Creative Writing Prize Recipients]] — 2022-05-25 · C
+- [[works/taiwaneseamerican-org/oliver-lin-to-add-oil|Oliver Lin’s short film “To Add Oil” interrogates identity and duty]] — 2022-05-23 · A
+- [[works/taiwaneseamerican-org/laguna-woods-taiwanese-church-shooting|We grieve the May 15th Shooting at Irvine Taiwanese Presbyterian Church]] — 2022-05-16 · A
+- [[works/taiwaneseamerican-org/amah-faraway-margaret-chiu-greanias|“Amah Faraway” celebrates the joys of bravery and gathering at last]] — 2022-05-08 · A
+- [[works/taiwaneseamerican-org/hearts-in-taiwan-taiwanese-identity|What I learned from a year of asking, “Am I Taiwanese?”]] — 2022-05-08 · A
+- [[works/taiwaneseamerican-org/li-bai-creative-fiction|What I Wish Li Bai Knew (Creative Fiction)]] — 2022-04-25 · C
+- [[works/taiwaneseamerican-org/treat-yourself-meet-the-powerhouse-women-of-twrl-milk-tea|Treat Yourself: Meet the Powerhouse Women of Twrl Milk Tea]] — 2022-04-09 · B
+- [[works/taiwaneseamerican-org/cosette-wu-the-last-night-march-11-1947|Cosette Wu: The Last Night: March 11, 1947]] — 2022-02-28 · B
+- [[works/taiwaneseamerican-org/remembering-the-228-massacre-readings-resources-on-taiwans-white-terror-era|Remembering the 228 Massacre: Readings & Resources on Taiwan’s White Terror Era]] — 2022-02-24 · A
+- [[works/taiwaneseamerican-org/now-accepting-submissions-2022-betty-l-yu-and-jin-c-yu-creative-writing-prizes-c|Now accepting submissions: 2022 Betty L. Yu and Jin C. Yu Creative Writing Prizes celebrate Taiwanese American student writers]] — 2022-02-20 · C
+- [[works/taiwaneseamerican-org/spencer-chang-ghost-stories-and-other-poems|Spencer Chang: “Ghost Stories” and Other Poems]] — 2022-02-01 · C
+- [[works/taiwaneseamerican-org/claire-kuo-gong-gong-po-po|Claire Kuo: 公公婆婆 ]] — 2022-01-24 · C
+- [[works/taiwaneseamerican-org/phoebe-ga-yi-chan-formosa-is-portuguese-for-beautiful|Phoebe Ga-Yi Chan: Formosa is Portuguese for “Beautiful”]] — 2022-01-15 · C
+- [[works/taiwaneseamerican-org/britney-chen-a-taste-of-nostalgia|Britney Chen: A Taste of Nostalgia]] — 2022-01-07 · A
+- [[works/taiwaneseamerican-org/annies-t-cakes-vegan-east-asian-snacks-from-your-childhood|Annie’s T Cakes: Vegan East Asian snacks from your childhood]] — 2022-01-06 · A
+- [[works/taiwaneseamerican-org/candice-wang-the-palace-within|Candice Wang: The Palace Within]] — 2022-01-05 · C
+- [[works/taiwaneseamerican-org/jaja-hashimoto-i-cut-my-own-tongue-off|Jaja Hashimoto: I Cut My Own Tongue Off]] — 2022-01-03 · C
+- [[works/taiwaneseamerican-org/the-other-end-poetry-by-avery-lin-cummins|“The Other End” & other Poems by Averylin Cummins]] — 2021-12-29 · C
+- [[works/taiwaneseamerican-org/beef-noodle-soup-seasoning-wil-chung|All Hail the ‘BNS’: Meet Wil Chung of Impromptu Spices]] — 2021-12-24 · A
+- [[works/taiwaneseamerican-org/nnadi-samuel-subject-lessons-poems|Nnadi Samuel: “Subject Lessons” (Poems)]] — 2021-11-25 · C
+- [[works/taiwaneseamerican-org/dignity-belonging-and-meaning-making-in-a-pandemic-what-learning-taiwanese-taugh|Dignity, Belonging, and Meaning-Making in a Pandemic: What Learning Taiwanese Taught Me in a Season of Loss and Hate]] — 2021-11-12 · A
+- [[works/taiwaneseamerican-org/elegy-for-a-century-egg-and-other-poems-by-katy-hargett-hsu|“Elegy for a Century Egg” and Other Poems by Katy Hargett-Hsu]] — 2021-11-04 · C
+- [[works/taiwaneseamerican-org/jennifer-co-1993-1998|Jennifer Co: 1993 – 1998]] — 2021-10-19 · C
+- [[works/taiwaneseamerican-org/emily-lo-a-growing-pair-of-asian-eyes|Emily Lo: A Growing Pair of Asian Eyes]] — 2021-10-07 · A
+- [[works/taiwaneseamerican-org/chewing-on-home-boba-authenticity-and-identity|Chewing on Home: Boba, Authenticity, and Identity]] — 2021-09-25 · A
+- [[works/taiwaneseamerican-org/interwellness-the-women-led-startup-representing-taiwan-at-the-hult-prize-global|interWellness: The women-led startup representing Taiwan at the Hult Prize global accelerator]] — 2021-09-16 · A
+- [[works/taiwaneseamerican-org/pew-research-reissues-report-on-asian-americans-after-misrepresenting-taiwanese-|Pew Research reissues report on Asian Americans after misrepresenting Taiwanese Americans]] — 2021-09-08 · A
+- [[works/taiwaneseamerican-org/huiru-may-huang-on-encountering-a-stranger|Huiru May Huang: On Encountering a Stranger  ]] — 2021-08-20 · C
+- [[works/taiwaneseamerican-org/now-at-the-honolulu-rainbow-film-festival-taiwan-equals-love|Now at the Honolulu Rainbow Film Festival: “Taiwan Equals Love”]] — 2021-08-12 · A
+- [[works/taiwaneseamerican-org/ashley-chuyun-cheng-a-ma-i-hope-you-can-hear-me-over-zoom|Ashley Chuyun Cheng: A-ma, I Hope You Can Hear Me Over Zoom]] — 2021-08-10 · C
+- [[works/taiwaneseamerican-org/stamp-thief-by-ying-ann-annie-chen|Stamp Thief, by Ying-Ann (Annie) Chen]] — 2021-08-05 · C
+- [[works/taiwaneseamerican-org/cong-mei-guo-lai-de-by-vanessa-wan|cóng mei guo lai de, by Vanessa Wan]] — 2021-07-31 · A
+- [[works/taiwaneseamerican-org/danny-danny-meet-san-francisco-filmmaker-huan-cheng|“Danny, Danny”: Meet San Francisco filmmaker Huan Cheng]] — 2021-07-29 · A
+- [[works/taiwaneseamerican-org/convenience-store-encounters-by-katie-chen|Convenience Store Encounters, by Katie Chen]] — 2021-07-25 · C
+- [[works/taiwaneseamerican-org/anne-hu-plans-to-unpack-a-complicated-mother-daughter-relationship-in-lunchbox|Anne Hu’s Short Film “Lunchbox” Unpacks a Complicated Mother-Daughter Relationship]] — 2021-07-11 · A
+- [[works/taiwaneseamerican-org/lithification-and-other-processes-dri-chiu-tattersfield|Lithification, and Other Processes, by Dri Chiu Tattersfield]] — 2021-06-28 · C
+- [[works/taiwaneseamerican-org/judges-charles-yu-and-shawna-yang-ryan-select-award-recipients|Judges Charles Yu and Shawna Yang Ryan select award recipients]] — 2021-06-03 · C
+- [[works/taiwaneseamerican-org/spark-accel-a-virtual-accelerator-for-taiwanese-american-entrepreneurs|SPARK Accel: A Virtual Accelerator for Taiwanese American Entrepreneurs]] — 2021-05-21 · A
+- [[works/taiwaneseamerican-org/laura-huang-olivia-chen-project-emplify|Meet Laura and Olivia, Co-founders of Project EMplify]] — 2021-05-13 · A
+- [[works/taiwaneseamerican-org/taiwans-got-it-a-talent-competition-for-all|Taiwan’s Got It! A Talent Competition for All]] — 2021-05-11 · A
+- [[works/taiwaneseamerican-org/jude-chao-skin-care-for-your-soul-and-sexy-radishes|Jude Chao: ‘Skin Care for your soul’ and sexy radishes]] — 2021-05-05 · A
+- [[works/taiwaneseamerican-org/katrina-liu-on-asian-american-motherhood-mina-learns-chinese|Katrina Liu on Asian American Motherhood: “Mina Learns Chinese”]] — 2021-05-03 · A
+- [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Response to Pew Research Reports Hiding Taiwanese Identity: “We made it count. Now tell our stories.”]] — 2021-05-01 · A
+- [[works/taiwaneseamerican-org/from-caamfest-2021-and-taiwan-academy-taiwan-direct|From CAAMFest 2021 and Taiwan Academy: “Direct to Taiwan”]] — 2021-04-30 · A
+- [[works/taiwaneseamerican-org/taiwanese-americans-help-report-anti-aapi-discrimination|Taiwanese Americans: Help Report Anti-AAPI Discrimination]] — 2021-03-02 · A
+- [[works/taiwaneseamerican-org/remembrance-resources-learning-about-228|Remembrance & Resources: Learning About 228]] — 2021-02-28 · A
+- [[works/taiwaneseamerican-org/national-book-award-winner-charles-yu-establishes-prize-for-young-taiwanese-amer|National Book Award Winner Charles Yu establishes prize for young Taiwanese American creative writers]] — 2021-02-11 · C
+- [[works/taiwaneseamerican-org/on-clubhouse-e8-87-bakanda-taiwans-wakanda-fantasies|On Clubhouse, ‘臺kanda’: Taiwan’s Wakanda Fantasies]] — 2021-02-09 · A
+- [[works/taiwaneseamerican-org/what-to-watch-taiwanese-shows-movies-on-netflix-now|What to Watch: Taiwanese Shows & Movies on Netflix Now]] — 2021-02-06 · B
+- [[works/taiwaneseamerican-org/i-dream-of-popo-is-the-taiwanese-american-story-of-all-generations|I DREAM OF POPO is the Taiwanese American story of all generations]] — 2021-01-26 · A
+- [[works/taiwaneseamerican-org/best-of-the-best-2020-lists-taiwan|The Best of the “Best of 2020” Lists]] — 2020-12-21 · A
+- [[works/taiwaneseamerican-org/for-a-better-life-move-to-taiwan-my-taiwanese-american-story|For a Better Life, Move to Taiwan: My Taiwanese American Story]] — 2020-12-14 · A
+- [[works/taiwaneseamerican-org/introducing-taiwan-mixed-an-aggregator-for-english-language-taiwan-news|Introducing Taiwan Mixed: An Aggregator for English-Language Taiwan News]] — 2020-11-30 · A
+- [[works/taiwaneseamerican-org/ta-film-festival-guide-2020|Taiwanese and Taiwanese American Film Festival Guide: Fall 2020]] — 2020-10-19 · A
+- [[works/taiwaneseamerican-org/peter-tsai-n95-inventor|Our Dad Invented the N95 Mask: Our Taiwanese American Story]] — 2020-09-22 · A
+- [[works/taiwaneseamerican-org/director-zero-chou-on-spider-lilies-and-the-evolution-of-taiwanese-queer-cinema|Director Zero Chou on “Spider Lilies” and the Evolution of Taiwanese Queer Cinema]] — 2020-09-15 · A
+- [[works/taiwaneseamerican-org/chinese-english-taiwanese-america-ensuring-taiwans-security|[中英版 Another Perspective for Taiwanese America: Ensuring Taiwan’s Security  另外一個角度給台美人:保證臺灣的安全]] — 2020-08-29 · A
+- [[works/taiwaneseamerican-org/bilingual-chinese-english-an-open-letter-to-the-taiwanese-american-community-sec|[中英版 An Open Letter to the Taiwanese American Community: Securing Taiwan’s Democracy 給台美人的一封公開信：守護台灣民主]] — 2020-08-22 · A
+- [[works/taiwaneseamerican-org/meet-high-schooler-founded-social-impact-small-business-formosa|Meet High Schooler-Founded Social Impact Small Business ‘Formosa’]] — 2020-08-20 · A
+- [[works/taiwaneseamerican-org/austin-asian-american-film-festival-announces-prismatic-taiwan-a-queer-film-seri|Austin Asian American Film Festival Announces “Prismatic Taiwan,” A Queer Film Series]] — 2020-08-20 · A
+- [[works/taiwaneseamerican-org/at-home-in-the-library-my-taiwanese-american-story|[中英版 At Home in the Library: My Taiwanese American Story / 圖書館裡的家]] — 2020-08-07 · A
+- [[works/taiwaneseamerican-org/field-notes-from-pride-in-taiwan-lgbtq-taiwanese-american-everything-in-between|Field Notes from Pride in Taiwan: LGBTQ*, Taiwanese-American, & Everything In Between]] — 2020-08-05 · A
+- [[works/taiwaneseamerican-org/taiwan-zhiguang-taiwanese-taiwanese-american-athletes-to-root-for|Taiwan ‘Zhiguang’: Taiwanese & Taiwanese American Athletes to Root For]] — 2020-08-03 · A
+- [[works/taiwaneseamerican-org/the-formosa-coffee-interview|The Formosa Coffee Brings Taiwan-grown Beans to US]] — 2020-07-30 · A
+- [[works/taiwaneseamerican-org/taiwanese-cha-cha-cha-film-festival|Taiwanese Cha Cha Cha: Judie Yang on Language, Culture, & Family]] — 2020-06-15 · A
+- [[works/taiwaneseamerican-org/between-the-notes-jordan-hwang-brings-the-taipei-music-academy-festival-to-austi|Between the Notes: Jordan Hwang brings the Taipei Music Academy & Festival to Austin Asian American Film Festival]] — 2020-06-15 · A
+- [[works/taiwaneseamerican-org/these-youtubers-are-vlogging-their-mandatory-quarantine-in-taiwan|These Youtubers are vlogging their mandatory quarantine in Taiwan]] — 2020-06-10 · A
+- [[works/taiwaneseamerican-org/chinese-english-understanding-black-lives-matter-chinese-english-resources|[中英版參考資料 Understanding ‘Black Lives Matter’: Chinese & English Resources]] — 2020-06-09 · A
+- [[works/taiwaneseamerican-org/chinese-english-the-taiwanese-american-conversation-about-blacklivesmatter|[中英版 The Taiwanese American Conversation about #BlackLivesMatter]] — 2020-06-07 · A
+- [[works/taiwaneseamerican-org/the-taiwanese-american-conversation-about-blacklivesmatter|The Taiwanese American Conversation about #BlackLivesMatter]] — 2020-05-31 · A
+- [[works/taiwaneseamerican-org/write-director-alice-wu-on-the-half-of-it|We interviewed “The Half of It” writer & director Alice Wu]] — 2020-05-28 · A
+- [[works/taiwaneseamerican-org/an-open-letter-to-my-hafu-grandfather-my-taiwanese-american-story|An Open Letter to my Hafu Grandfather: My Taiwanese American Story]] — 2020-05-28 · A
+- [[works/taiwaneseamerican-org/my-signature-represents-me-writing-in-taiwanese-on-the-united-states-census|My Signature Represents Me: Writing in ‘Taiwanese’ on the United States Census]] — 2020-05-26 · A
+- [[works/taiwaneseamerican-org/glowie-co-on-bubble-tea-masks-the-best-of-taiwanese-beauty|Glowie Co on Bubble Tea Masks & The Best of Taiwanese Beauty]] — 2020-05-26 · A
+- [[works/taiwaneseamerican-org/the-overlooked-japanese-roots-of-taiwanese-americans|The Overlooked Japanese Roots of Taiwanese Americans]] — 2020-05-21 · A
+- [[works/taiwaneseamerican-org/from-taiwanese-californian-to-taiwanese-missourian-my-taiwanese-american-story|From Taiwanese Californian to Taiwanese Missourian: My Taiwanese American Story]] — 2020-05-19 · A
+- [[works/taiwaneseamerican-org/miss-modi-celebrates-taiwanese-heritage-with-a-taiwanese-street-food-collection|Miss Modi celebrates Taiwanese heritage with a Taiwanese Street Food collection]] — 2020-05-11 · A
+- [[works/taiwaneseamerican-org/lynnchen-iwillmakeyoumine|Director Lynn Chen Debuts I Will Make You Mine at CAAMFest]] — 2020-05-10 · B
+- [[works/taiwaneseamerican-org/two-perspectives-on-late-life-the-chien-ming-wang-story|Two Perspectives on Late Life: The Chien-Ming Wang Story]] — 2020-05-07 · A
+- [[works/taiwaneseamerican-org/being-in-taiwan-during-covid-19-a-taiwanese-american-student-perspective|Being in Taiwan During COVID-19: A Taiwanese American Student Perspective]] — 2020-05-07 · A
+- [[works/taiwaneseamerican-org/celebrate-mothers-day-with-taiwaneseamerican-org|Celebrate Mother’s Day with TaiwaneseAmerican.org]] — 2020-05-04 · A
+- [[works/taiwaneseamerican-org/april-1-is-census-day-this-is-who-we-are-make-it-count|April 1 is Census Day: This is Who We Are. Make It Count.]] — 2020-03-28 · A
+- [[works/taiwaneseamerican-org/roll-call-supporting-taiwanese-american-creators-small-businesses-during-covid-1|Roll Call: Supporting Taiwanese American Creators & Small Businesses During COVID-19]] — 2020-03-18 · A
+- [[works/taiwaneseamerican-org/from-ilha-formosa-to-passport-to-taiwan-comparing-the-2006-and-2018-taiwanese-to|From Ilha Formosa to Passport to Taiwan: Comparing the 2006 and 2018 Taiwanese Tourism Bureau Campaigns]] — 2020-02-09 · A
+- [[works/taiwaneseamerican-org/introducing-the-oftaiwan-award-new-funding-for-taiwanese-american-student-progra|Introducing the OFTaiwan Award: New funding for Taiwanese American student programs]] — 2020-01-12 · A
+- [[works/taiwaneseamerican-org/19-things-that-happened-in-taiwan-taiwanese-america-in-2019|19 Things That Happened in Taiwan & Taiwanese America in 2019]] — 2019-12-25 · A
+- [[works/taiwaneseamerican-org/the-thrill-of-the-chase-get-to-know-taiwanese-canadian-actor-chase-tang|The Thrill of the Chase: Get to Know Taiwanese Canadian Actor Chase Tang]] — 2019-11-20 · A
+- [[works/taiwaneseamerican-org/census-2020-fundraiser|Census Day is April 1, 2020: “Write in ‘Taiwanese'”]] — 2019-10-17 · A
+- [[works/taiwaneseamerican-org/where-to-watch-love-boat-taiwan|Where to Watch LOVE BOAT: TAIWAN]] — 2019-10-11 · A
+- [[works/taiwaneseamerican-org/summer-camp-3g|Taiwanese American Summer Camp: Does the 3rd Gen Need It?]] — 2019-10-09 · A
+- [[works/taiwaneseamerican-org/no-double-ten-is-not-taiwans-independence-day|No, Double Ten Is Not “Taiwan’s Independence Day”]] — 2019-10-09 · A
+- [[works/taiwaneseamerican-org/our-youth-in-taiwan-fall-screenings-nationwide|Our Youth in Taiwan: Fall Screenings Nationwide]] — 2019-09-21 · B
+- [[works/taiwaneseamerican-org/in-memoriam-su-beng-the-revolutionist|(In Memoriam) Su Beng: The Revolutionist]] — 2019-09-21 · A
+- [[works/taiwaneseamerican-org/im-taiwanese-american-heres-why-i-stand-by-hong-kong|I’m Taiwanese American. Here’s Why I Stand by Hong Kong.]] — 2019-08-23 · A
+- [[works/taiwaneseamerican-org/taiwaneseamerican-org-statement-on-solidarity-with-mauna-kea-protectors|TaiwaneseAmerican.org Statement on Solidarity with Mauna Kea Protectors]] — 2019-07-23 · A
+- [[works/taiwaneseamerican-org/summer-language-camps-in-taiwan-five-firsthand-accounts-2|Summer Language Camps in Taiwan: Five Firsthand Accounts]] — 2019-07-20 · A
+- [[works/taiwaneseamerican-org/why-this-taiwanese-american-helped-tell-the-story-of-chinese-railroad-workers|Why This Taiwanese American Helped Tell the Story of Chinese Railroad Workers]] — 2019-06-17 · A
+- [[works/taiwaneseamerican-org/ties-that-unbind-qa-with-filmmaker-james-y-shih|Ties that (Un)Bind: Q&A with Filmmaker James Y. Shih]] — 2019-06-09 · A
+- [[works/taiwaneseamerican-org/its-t-beauty-time-5-great-taiwanese-skincare-products-to-try|It’s T-Beauty Time! 5 Great Taiwanese Skincare Products To Try]] — 2019-06-07 · A
+- [[works/taiwaneseamerican-org/new-age-old-ways-peter-lin-crosses-artistic-mediums-and-cultures-through-taiwane|New Age, Old Ways: Peter Lin Crosses Artistic Mediums and Cultures through Taiwanese American Jazz]] — 2019-06-06 · A
+- [[works/taiwaneseamerican-org/the-first-taiwan-film-festival-in-boston-puts-documentaries-front-and-center|The First Taiwan Film Festival in Boston Puts Documentaries Front and Center]] — 2019-05-14 · B
+- [[works/taiwaneseamerican-org/sharing-spaces-taiwanese-indigenous-art-connects-tradition-with-new-audiences|Sharing Spaces: Taiwanese Indigenous Art Connects Tradition with New Audiences]] — 2019-05-02 · A
+- [[works/taiwaneseamerican-org/step-taiwan-the-taiwanese-american-experience|STEP Taiwan: The Taiwanese American Experience]] — 2019-04-28 · A
+- [[works/taiwaneseamerican-org/hello-from-taiwan-qa-with-filmmaker-tiffany-frances|Hello from Taiwan: Q&A with Filmmaker Tiffany Frances]] — 2019-03-18 · A
+- [[works/taiwaneseamerican-org/from-wild-lilies-to-sunflowers-discovering-taiwans-democracy|From Wild Lilies to Sunflowers: Discovering Taiwan’s Democracy]] — 2019-03-18 · A
+- [[works/taiwaneseamerican-org/addressing-anti-blackness-within-the-taiwanese-american-community|Addressing Anti-Blackness Within the Taiwanese American Community]] — 2019-03-09 · A
+- [[works/taiwaneseamerican-org/the-228-inheritance-taiwans-revolution-is-here|The 228 Inheritance: Taiwan’s Revolution Is Here]] — 2019-02-27 · A
+- [[works/taiwaneseamerican-org/coming-out-to-my-taiwanese-family|“When I came out to my mom, she was scared for me.”]] — 2019-02-23 · A
+- [[works/taiwaneseamerican-org/interview-with-joyce-bergvelt-lord-of-formosa|Interview with Joyce Bergvelt, Lord of Formosa]] — 2019-01-30 · A
+- [[works/taiwaneseamerican-org/new-on-netflix-a-taiwanese-tale-of-two-cities|New on Netflix: A Taiwanese Tale of Two Cities]] — 2019-01-22 · A
+- [[works/taiwaneseamerican-org/tricky-taipei-hey-taipei|Tricky Taipei Debuts Children’s Book Set in Taipei]] — 2019-01-04 · B
+- [[works/taiwaneseamerican-org/call-for-submissions-chrysanthemum-volume-ii|Call for Submissions: Chrysanthemum – Volume II]] — 2018-12-10 · B
+- [[works/taiwaneseamerican-org/what-taiwanese-americans-can-learn-from-taiwanese-politics|What Taiwanese Americans Can Learn From Taiwanese Politics]] — 2018-11-25 · A
+- [[works/taiwaneseamerican-org/past-lives-future-bodies-kristin-chang-interview|How our bodies domesticate/disaster: An Interview with Kristin Chang, Past Lives, Future Bodies]] — 2018-11-10 · A
+- [[works/taiwaneseamerican-org/latelife|LATE LIFE: The Chien-Ming Wang Story in Theaters]] — 2018-10-17 · B
+- [[works/taiwaneseamerican-org/an-interview-with-emily-x-r-pan-the-astonishing-color-of-after|An Interview with Emily X.R. Pan, The Astonishing Color of After]] — 2018-09-25 · A
+- [[works/taiwaneseamerican-org/an-interview-with-eva-lou-madeleine-editions|An Interview with Eva Lou, Madeleine Editions]] — 2018-09-18 · A
+- [[works/taiwaneseamerican-org/bao-crazy-rich-asians|What ‘Bao’ and ‘Crazy Rich Asians’ Meant to Me]] — 2018-08-20 · A
+- [[works/taiwaneseamerican-org/passing-taiwanese-language|Passing on the Taiwanese Language: A Personal Account]] — 2018-08-08 · A
+- [[works/taiwaneseamerican-org/balancing-the-trifecta|Balancing the Trifecta: Growing up Taiwanese, Korean, and American]] — 2018-07-23 · A
+- [[works/taiwaneseamerican-org/seataff|Taiwanese American Film Festival in Seattle]] — 2018-06-19 · B
+- [[works/taiwaneseamerican-org/juliana-wayne-interview|An Interview with Juliana and Wayne, Co-directors of the Piedmont Chamber Music Festival]] — 2018-06-05 · A
+- [[works/taiwaneseamerican-org/memories-of-my-yaba-great-aunt|Memories of my Yaba Great Aunt]] — 2018-05-31 · A
+- [[works/taiwaneseamerican-org/finding-meaning-in-taiwanese-america-an-open-letter|Finding Meaning in Taiwanese America: An Open Letter]] — 2018-05-17 · A
+- [[works/taiwaneseamerican-org/ta-book-list|50 Books for Your Taiwanese American Library]] — 2018-05-09 · B
+- [[works/taiwaneseamerican-org/an-interview-with-cynthia-cheng-the-co-organizer-of-family-style-zine-an-aapi-fo|An Interview with Cynthia Cheng, the Co-Organizer of Family Style Zine: An AAPI Food Anthology]] — 2018-05-08 · A
+- [[works/taiwaneseamerican-org/fiona-interview|An Interview with Filmmaker Fiona Roan: Reflections on Sisterhood and Belonging]] — 2018-04-29 · A
+- [[works/taiwaneseamerican-org/taiwan-films-caamfest-2018|Taiwan Films at CAAMFest 2018]] — 2018-04-27 · B
+- [[works/taiwaneseamerican-org/summer-camps-2018|Register for Taiwanese American Summer Camps]] — 2018-04-14 · A
+- [[works/taiwaneseamerican-org/natwa2con|Taiwanese American Women’s Convention & Filmmaker Panel]] — 2018-03-16 · A
+- [[works/taiwaneseamerican-org/author-julia-lin|The Life Story: An Interview with Author Julia Lin]] — 2018-03-06 · A
+- [[works/taiwaneseamerican-org/all-quiet-228-in-taiwan|All Quiet: An American in Taiwan’s Perspective on 228]] — 2018-02-28 · A
+- [[works/taiwaneseamerican-org/green-island-secrets|Green Island Secrets]] — 2018-02-26 · A
+- [[works/taiwaneseamerican-org/actor-chris-pang|Chris Pang: Upcoming Crazy Rich Asian and Certified Haiku Hottie]] — 2018-02-02 · A
+- [[works/taiwaneseamerican-org/interview-leona-chen|For the (Re)Cord: An Interview with Leona Chen]] — 2018-01-28 · A
+- [[works/taiwaneseamerican-org/taiwanesethanksgiving|Grateful for Family & Friends #TaiwaneseThanksgiving]] — 2017-11-26 · B
+- [[works/taiwaneseamerican-org/writing-journey-5|My Writing Journey: Announcing the Publication of my First Novel, Travails of a Trailing Spouse [Part 5]] — 2017-11-09 · A
+- [[works/taiwaneseamerican-org/harvest-moons-and-autumn-flowers|Harvest Moons and Autumn Flowers]] — 2017-10-06 · B
+- [[works/taiwaneseamerican-org/writing-journey-4|My Writing Journey: After the Phone Call [Part 4]] — 2017-10-03 · A
+- [[works/taiwaneseamerican-org/five-ways-understand-parents|Five Ways I Understand my Parents Differently Since Becoming a Mom]] — 2017-09-30 · A
+- [[works/taiwaneseamerican-org/team-taiwan-jason-jung|Advantage, Team Taiwan: Jason Jung–Men’s Tennis Gold]] — 2017-09-20 · A
+- [[works/taiwaneseamerican-org/who-is-arthur-chu-villain-hero-or-anti-hero|Who Is Arthur Chu? Villain, Hero, or Anti-Hero?]] — 2017-09-11 · A
+- [[works/taiwaneseamerican-org/when-world-met-taiwan|When the World Met Taiwan: A Taiwanese Opera]] — 2017-08-29 · B
+- [[works/taiwaneseamerican-org/9-beef-noodle-soup-restaurants|9 Beef Noodle Soup Restaurants to Try While Your Child is at Summer Camp in Taipei]] — 2017-08-29 · B
+- [[works/taiwaneseamerican-org/summer-language-camps-in-taiwan-five-firsthand-accounts|Summer Language Camps in Taiwan: Five Firsthand Accounts]] — 2017-08-21 · A
+- [[works/taiwaneseamerican-org/interview-michellekuo|A Canon of Our Own: Q&A with Michelle Kuo, Author of Reading with Patrick]] — 2017-07-19 · A
+- [[works/taiwaneseamerican-org/writing-journey-3|My Writing Journey: The Need for Approval and Praise [Part 3]] — 2017-07-13 · A
+- [[works/taiwaneseamerican-org/fireex|Taiwanese Music and the World: Interview with FireEX]] — 2017-07-12 · A
+- [[works/taiwaneseamerican-org/representation-apa|Representation in the Asian American Community: A Roundtable Discussion]] — 2017-06-25 · A
+- [[works/taiwaneseamerican-org/taiwan-float-ny|Taiwan Float in NY Pride Parade Celebrates LGBTQ Movement in Taiwan]] — 2017-06-20 · A
+- [[works/taiwaneseamerican-org/writing-journey-2|My Writing Journey: Is It Good Enough? Dealing with Self-Doubt [Part 2]] — 2017-06-12 · A
+- [[works/taiwaneseamerican-org/writing-journey-1|My Writing Journey: How it Began [Part 1]] — 2017-05-30 · A
+- [[works/taiwaneseamerican-org/celebrate-tahw-2|Celebrate Asian American and Pacific Islander Heritage Month and Taiwanese American Heritage Week!]] — 2017-05-17 · A
+- [[works/taiwaneseamerican-org/justineker|An Interview with Justine Ker: A Taiwanese American Journey to Miss Louisiana]] — 2017-05-08 · A
+- [[works/taiwaneseamerican-org/tracy-chang-pagu|More than a Chef with a Ramen Wave: Tracy Chang of PAGU]] — 2017-04-18 · A
+- [[works/taiwaneseamerican-org/taipei-guide|Taipei Guide: An Illustrated Exploration]] — 2017-04-06 · B
+- [[works/taiwaneseamerican-org/stephanie-chen-great-american-baking-show|Sweet Success: Q&A with Stephanie Chen of “The Great American Baking Show”]] — 2017-03-07 · A
+- [[works/taiwaneseamerican-org/blacklistfilm|Blacklist: A Film by Christina Hu]] — 2017-02-27 · A
+- [[works/taiwaneseamerican-org/farewell-formosa-foundation|End of an Era: Farewell to the Formosa Foundation]] — 2017-02-24 · A
+- [[works/taiwaneseamerican-org/caamfest2017|Who Is Arthur Chu? Screens at CAAMFest 2017]] — 2017-02-20 · B
+- [[works/taiwaneseamerican-org/slow-jam-jerry-jean|Your New Classic Slow Jam: Music by Jerry Jean]] — 2017-02-19 · A
+- [[works/taiwaneseamerican-org/rose-by-any-other|A Rose By Any Other]] — 2017-02-17 · A
+- [[works/taiwaneseamerican-org/2017-tasf|The 2017 Taiwanese American Scholarship]] — 2017-02-16 · A
+- [[works/taiwaneseamerican-org/summer-camps-2017|Register for Taiwanese American Youth Summer Camps]] — 2017-02-16 · A
+- [[works/taiwaneseamerican-org/syr-tour|GREEN ISLAND Author Shawna Yang Ryan on Tour]] — 2017-02-16 · B
+- [[works/taiwaneseamerican-org/ta-anthology|Beyond the Amy Tan Questions: Why a Millennial TA Anthology]] — 2017-01-24 · B
+- [[works/taiwaneseamerican-org/find-your-place|To Find Your Place in the World – by Kelly Tsai]] — 2017-01-23 · A
+- [[works/taiwaneseamerican-org/the-slants-taiwan-tour|The Slants go to Taiwan for new music video!]] — 2016-10-06 · B
+- [[works/taiwaneseamerican-org/author-ed-lin-on-tour-with-new-taiwan-based-novel-incensed|Author Ed Lin on Tour with New Taiwan-based Novel Incensed]] — 2016-10-06 · B
+- [[works/taiwaneseamerican-org/rally-for-un-membership-for-taiwan|Rally for UN Membership for Taiwan]] — 2016-09-14 · A
+- [[works/taiwaneseamerican-org/checking-dawen|Checking in with Dawen (王大文)]] — 2016-09-08 · B
+- [[works/taiwaneseamerican-org/dmae-roberts-letting-go-trilogies|Q&A with Dmae Roberts, Author of The Letting Go Trilogies]] — 2016-08-30 · A
+- [[works/taiwaneseamerican-org/priska-working-on-debut-ep|Priska Working on Debut EP]] — 2016-08-25 · B
+- [[works/taiwaneseamerican-org/glass-ceiling-ballet|Through the Glass Ceiling: A Contemporary Ballet Collaboration]] — 2016-08-04 · A
+- [[works/taiwaneseamerican-org/the-lintet-jazz-band|The Lintet: A Taiwanese American Trombonist Shows That Jazz Has No Boundaries]] — 2016-07-27 · A
+- [[works/taiwaneseamerican-org/taiwan-blacklivesmatter|Summer in Taiwan and #blacklivesmatter]] — 2016-07-07 · A
+- [[works/taiwaneseamerican-org/taiwaneseamericanorg-newsletter|Introducing the TaiwaneseAmerican.org Newsletter!]] — 2016-06-28 · A
+- [[works/taiwaneseamerican-org/the-hsu-nami-new-album|The Hsu-Nami Storm Back Again with New Album]] — 2016-06-27 · A
+- [[works/taiwaneseamerican-org/2016-taiwan-gay-pride-parade-in-ny|2016 Taiwan Gay Pride Parade in NY]] — 2016-06-22 · A
+- [[works/taiwaneseamerican-org/isa-ho-taiwan-academy|Perspective to Empower: Isa Ho’s “Girls Falling” at Taiwan Academy L.A.]] — 2016-06-10 · B
+- [[works/taiwaneseamerican-org/join-taiwaneseamerican-org|Join TaiwaneseAmerican.org!]] — 2016-05-23 · A
+- [[works/taiwaneseamerican-org/taiwanese-fans-bring-british-thrash-metal-onslaught-to-taipei|For the Love of the Band: Taiwanese Fans bring British Thrash Metal Onslaught to Taipei!]] — 2016-05-23 · B
+- [[works/taiwaneseamerican-org/kenji-liu|Intersection of Poetry and Movements: An Interview with Author Kenji Liu]] — 2016-05-12 · A
+- [[works/taiwaneseamerican-org/love-boat-taiwan|Love Boat: Taiwan]] — 2016-04-26 · B
+- [[works/taiwaneseamerican-org/summer-camps-2016|Taiwanese American Youth Summer Camps]] — 2016-04-14 · A
+- [[works/taiwaneseamerican-org/taiwanese-7-eleven-open-in-us|Taiwanese 7-Eleven to Open in Four U.S. Cities Early 2017]] — 2016-04-01 · B
+- [[works/taiwaneseamerican-org/taiwan-to-update-garbage-truck-music|Taiwan to ‘Update’ its Garbage Truck Music]] — 2016-04-01 · A
+- [[works/taiwaneseamerican-org/taiwanese-dessert-madness|Taiwanese Dessert Madness 2016: The Sweet Sixteen Edition!]] — 2016-03-28 · B
+- [[works/taiwaneseamerican-org/going-beyond-borders-with-daniel-henney|Going Beyond Borders with Daniel Henney]] — 2016-03-15 · B
+- [[works/taiwaneseamerican-org/taiwan-films-caamfest-2016|Taiwan Films at CAAMFest 2016]] — 2016-03-03 · B
+- [[works/taiwaneseamerican-org/a-moment-with-mree|A Moment With Mree]] — 2016-02-29 · A
+- [[works/taiwaneseamerican-org/228-storytelling|228 and the Power of Storytelling]] — 2016-02-28 · A
+- [[works/taiwaneseamerican-org/kelvin-yu|Meet Jack of All Trades: Actor, Writer, Producer Kelvin Yu]] — 2016-02-18 · A
+- [[works/taiwaneseamerican-org/green-island-novel|GREEN ISLAND – A New Novel by Shawna Yang Ryan]] — 2016-02-15 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-digital-archive|USC Launches New Taiwanese American Digital Archive]] — 2016-02-07 · A
+- [[works/taiwaneseamerican-org/tacl-pip-2016|Experience the 2016 TACL Summer Political Internship Program]] — 2016-01-29 · A
+- [[works/taiwaneseamerican-org/the-2016-taiwanese-american-scholarship-fund|The 2016 Taiwanese American Scholarship Fund]] — 2016-01-10 · A
+- [[works/taiwaneseamerican-org/taiwanese-folk-song-re-inspired|Taiwanese Folk Song Re-inspired: Ti-O-O (Dark Dark Skies)]] — 2016-01-10 · B
+- [[works/taiwaneseamerican-org/taiwaneseamerican-org-top-10-facebook-posts-2015|The Top 10 TaiwaneseAmerican.org Facebook Posts of 2015!]] — 2015-12-31 · A
+- [[works/taiwaneseamerican-org/paths-and-patterns|Paths and Patterns: experiences in translingualism]] — 2015-12-15 · A
+- [[works/taiwaneseamerican-org/arthur-chu-film|Who Is Arthur Chu? This Documentary Tells his Story]] — 2015-11-19 · B
+- [[works/taiwaneseamerican-org/howard-chen|Over Beef Noodle Soup with Sportscaster Howard Chen]] — 2015-11-18 · A
+- [[works/taiwaneseamerican-org/taiwan-film-days-sf|Taiwan Film Days in SF featuring Hou Hsiao-hsien]] — 2015-10-08 · B
+- [[works/taiwaneseamerican-org/13686|Hello Taiwan Concert and Food Bazaar in NYC]] — 2015-10-08 · A
+- [[works/taiwaneseamerican-org/13639|Hanging with Albert Tsai and the Cast of Dr. Ken!]] — 2015-10-01 · A
+- [[works/taiwaneseamerican-org/happy-mid-autumn-festival|Happy Mid-Autumn Festival! Celebrate Friends and Family!]] — 2015-09-26 · B
+- [[works/taiwaneseamerican-org/caamfest-san-jose|TaiwaneseAmerican.org Co-presents FOTB and Baby Steps at CAAMFest San Jose]] — 2015-09-10 · B
+- [[works/taiwaneseamerican-org/un-for-taiwan|Rally for United Nations Membership for Taiwan]] — 2015-09-09 · A
+- [[works/taiwaneseamerican-org/taiwan-organizations-and-resources|Help Us Build a Guide to Taiwanese American & Taiwan-Related Resources!]] — 2015-08-28 · A
+- [[works/taiwaneseamerican-org/tacl-30th-gala|NYC Gala Celebrates TACL’s 30th Anniversary]] — 2015-08-20 · A
+- [[works/taiwaneseamerican-org/photo-taiwan-immersive-benjamin-dunn|[PHOTO Taiwan: Immersive]] — 2015-07-29 · B
+- [[works/taiwaneseamerican-org/2015-miss-taiwanese-american-pageant|2015 Miss Taiwanese American Pageant in LA]] — 2015-07-29 · A
+- [[works/taiwaneseamerican-org/photo-taiwan-potato-twists-benjamin-dunn|[PHOTO Taiwan: Potato Twists]] — 2015-07-06 · B
+- [[works/taiwaneseamerican-org/introducing-treya|Introducing Treya]] — 2015-06-21 · A
+- [[works/taiwaneseamerican-org/stephanie-lin-champions-womens-empowerment|Stephanie Lin Champions Women’s Empowerment, Community and Education]] — 2015-06-18 · A
+- [[works/taiwaneseamerican-org/maggie-hsu-mochimag|Maggie Hsu – Co-founder of Mochi Magazine for Young Asian American Women]] — 2015-05-29 · A
+- [[works/taiwaneseamerican-org/david-chen-taiwanese-handbook|David Li-Wei Chen Introduces his Handbook of Romanized Taiwanese & Hokkien]] — 2015-05-28 · A
+- [[works/taiwaneseamerican-org/in-honor-of-taiwanese-ancestry-and-identity|In Honor of Taiwanese Ancestry and Identity]] — 2015-05-27 · A
+- [[works/taiwaneseamerican-org/summer-camps-2015|Register for Taiwanese American Youth Summer Camps Nationwide]] — 2015-05-26 · A
+- [[works/taiwaneseamerican-org/midnight-carnival|Midnight Carnival: A Film Project by Chung Wei Huang]] — 2015-05-24 · A
+- [[works/taiwaneseamerican-org/passport-to-taiwan|NYC’s Taiwanese American Cultural Festival: Passport to Taiwan]] — 2015-05-22 · A
+- [[works/taiwaneseamerican-org/alvina-ling-editor|Breaking Barriers: Alvina Ling, Editor-in-Chief for Little, Brown Book for Young Readers]] — 2015-05-22 · A
+- [[works/taiwaneseamerican-org/american-privilege-in-taiwan|Tongues like Swords: American Privilege in Taiwan]] — 2015-05-17 · A
+- [[works/taiwaneseamerican-org/tafest-los-angeles|Taiwanese American Heritage Week Festival near Los Angeles]] — 2015-05-15 · A
+- [[works/taiwaneseamerican-org/taiwanese-aborigines-culture-tour-throughout-america|Taiwanese Aborigines Culture Tour throughout America]] — 2015-05-15 · B
+- [[works/taiwaneseamerican-org/jonathan-chen|Meet FiscalNote Co-founder Jonathan Chen]] — 2015-05-14 · A
+- [[works/taiwaneseamerican-org/music-video-alishan|World Premiere: Music Video for “Alishan” from the Island X Album]] — 2015-05-06 · A
+- [[works/taiwaneseamerican-org/taiwanese-americans-in-solidarity|Taiwanese Americans in Solidarity]] — 2015-05-06 · A
+- [[works/taiwaneseamerican-org/taiwanese-american-cultural-festival-in-sf-2|Taiwanese American Cultural Festival in SF]] — 2015-05-03 · A
+- [[works/taiwaneseamerican-org/celebrate-tahw|Celebrate Asian Pacific American Heritage Month and Taiwanese American Heritage Week!]] — 2015-05-03 · A
+- [[works/taiwaneseamerican-org/sisterhood-of-night-catherine-huang|“The Sisterhood of Night” movie: Catherine Huang]] — 2015-04-30 · A
+- [[works/taiwaneseamerican-org/photo-taiwan-rush-hour-benjamin-dunn|[PHOTO Taiwan: Rush Hour]] — 2015-04-20 · B
+- [[works/taiwaneseamerican-org/taiwan-soul-photography-competition|Taiwan Soul Photography Competition]] — 2015-04-09 · A
+- [[works/taiwaneseamerican-org/pungent-new-fragrance-takes-taiwan-by-storm|Pungent New Fragrance Takes Taiwan By Storm]] — 2015-04-01 · B
+- [[works/taiwaneseamerican-org/marilyn-fu|Meet Marilyn Fu – Screenwriter for The Sisterhood of Night]] — 2015-03-20 · A
+- [[works/taiwaneseamerican-org/photo-taiwan-benjamin-dunn|[PHOTO Taiwan: Through the Lens of an ABT]] — 2015-03-16 · B
+- [[works/taiwaneseamerican-org/taiwanese-food-madness|Taiwanese Food Madness]] — 2015-03-15 · B
+- [[works/taiwaneseamerican-org/natwa2015|National Taiwanese American Women’s Conference in San Diego]] — 2015-03-11 · A
+- [[works/taiwaneseamerican-org/sunflower-occupation-doc|Sunflower Occupation Documentary Tours North America]] — 2015-03-10 · A
+- [[works/taiwaneseamerican-org/formosa-foundation|Apply to be a Formosa Foundation Ambassador]] — 2015-03-09 · A
+- [[works/taiwaneseamerican-org/four-films-at-caamfest2015|TaiwaneseAmerican.org Presents Four Films at CAAM Fest 2015]] — 2015-03-02 · B
+- [[works/taiwaneseamerican-org/release-party-nyc-food-of-taiwan-cookbook|The Food of Taiwan Cookbook: NYC Launch Party & Event]] — 2015-02-24 · A
+- [[works/taiwaneseamerican-org/the-2015-taiwanese-american-scholarship-fund|The 2015 Taiwanese American Scholarship Fund]] — 2015-02-24 · A
+- [[works/taiwaneseamerican-org/itasa-west-coast-conference-for-collegiate-students|ITASA West Coast Conference for Collegiate Students]] — 2015-02-24 · A
+- [[works/taiwaneseamerican-org/lucky-facebook|A Lucky Milestone! Follow Us on Facebook!]] — 2015-02-13 · A
+- [[works/taiwaneseamerican-org/applications-available-ilf-civic-fellowship-program|Applications Available for the International Leadership Foundation Civic Fellowship Program]] — 2015-02-06 · A
+- [[works/taiwaneseamerican-org/the-year-of-taiwanese-food|The Year of Taiwanese Food]] — 2015-02-02 · B
+- [[works/taiwaneseamerican-org/hudson-yang|Meet Actor Hudson Yang from ABC’s Fresh Off the Boat]] — 2015-02-02 · A
+- [[works/taiwaneseamerican-org/adopt-ellie-dunn-baby-sister-taiwan|Family: Help Bring Home Ellie’s Baby Sister from Taiwan]] — 2015-01-05 · A
+- [[works/taiwaneseamerican-org/accepting-applications-for-2015-tacl-summer-political-internship-program|Accepting Applications for 2015 TACL Summer Political Internship Program]] — 2015-01-05 · A
+- [[works/taiwaneseamerican-org/fascinoma-musical-taiwanese-cat|FASCINOMA: This Musical Taiwanese Cat Can Sing The Beatles]] — 2014-12-25 · A
+- [[works/taiwaneseamerican-org/healthy-living-and-eating|Healthy Living and Eating: Advice from Taiwanese American Health Professionals]] — 2014-11-30 · A
+- [[works/taiwaneseamerican-org/100-days-opens-in-la|100 DAYS Opens in LA]] — 2014-11-23 · B
+- [[works/taiwaneseamerican-org/champchu|#ChampChu]] — 2014-11-09 · B
+- [[works/taiwaneseamerican-org/kano-screenings-in-usa|KANO Screenings in USA]] — 2014-11-07 · B
+- [[works/taiwaneseamerican-org/charlie-chang-new-album|Charlie Chang Releases New Album to Combat Domestic Violence]] — 2014-11-03 · A
+- [[works/taiwaneseamerican-org/survey-on-culture-and-identity-for-students|Survey on Culture and Identity for Asian American High School Students]] — 2014-10-08 · A
+- [[works/taiwaneseamerican-org/inside-piccollage|Inside the Taipei Office of PicCollage]] — 2014-10-07 · A
+- [[works/taiwaneseamerican-org/anita-chang-tongues-of-heaven|Anita Chang’s Tongues of Heaven Screens in SF/Bay Area]] — 2014-09-28 · A
+- [[works/taiwaneseamerican-org/fresh-and-accidental|Fresh and Accidental: Two Voices in Taiwanese America]] — 2014-09-26 · B
+- [[works/taiwaneseamerican-org/baby-benjamin|A Plea for Baby Benjamin: Join the Bone Marrow Registry]] — 2014-09-23 · B
+- [[works/taiwaneseamerican-org/keep-taiwan-free|Why I Fight to “Keep Taiwan Free”]] — 2014-09-12 · A
+- [[works/taiwaneseamerican-org/keep-taiwan-free-kick-off-concert-in-ny|Keep Taiwan Free Kick-Off Concert in NY]] — 2014-09-10 · B
+- [[works/taiwaneseamerican-org/drinks-discussion-on-taiwan-civil-participation-in-sf|Drinks & Discussion on Taiwan Civil Participation in SF]] — 2014-09-09 · B
+- [[works/taiwaneseamerican-org/caam-festival-san-jose-closing-night-film|CAAM Festival San Jose Closing Night Film]] — 2014-09-07 · B
+- [[works/taiwaneseamerican-org/volunteer-at-the-mid-autumn-festival-in-atlanta|Volunteer at the Mid Autumn Festival in Atlanta]] — 2014-09-06 · B
+- [[works/taiwaneseamerican-org/mid-autumn-festival-bbq-with-tap-in-seattle|Mid-Autumn Festival BBQ with TAP in Seattle]] — 2014-09-06 · B
+- [[works/taiwaneseamerican-org/ed-lin-interview|An Interview with Ed Lin, Author of Ghost Month]] — 2014-09-03 · A
+- [[works/taiwaneseamerican-org/keep-taiwan-free-2014|September 13th \| Keep Taiwan Free Movement in NYC!]] — 2014-09-02 · A
+- [[works/taiwaneseamerican-org/keep-taiwan-free-rally-2014-fundraiser|Keep Taiwan Free Rally 2014 Fundraiser]] — 2014-09-02 · B
+- [[works/taiwaneseamerican-org/beach-bbq-with-tap-and-uiaaan-in-chicago|Beach BBQ with TAP and UIAAAN in Chicago]] — 2014-09-01 · B
+- [[works/taiwaneseamerican-org/blood-drive-with-tap-and-tjcc-in-san-diego|Blood Drive with TAP and TJCC in San Diego]] — 2014-08-31 · B
+- [[works/taiwaneseamerican-org/author-ed-lin-discussion-novel-ghost-month-in-ny|Author Ed Lin Discussion Novel "Ghost Month" in NY]] — 2014-08-30 · B
+- [[works/taiwaneseamerican-org/research-participation-opportunity|Taiwanese American Research Participation Opportunity]] — 2014-08-29 · B
+- [[works/taiwaneseamerican-org/tap-chicago-workshop-with-ho-chie-tsai|TAP Chicago Workshop with Ho Chie Tsai]] — 2014-08-29 · B
+- [[works/taiwaneseamerican-org/sunflower-tour|Sunflower Movement Student Leaders Tour in CA, DC, and NY]] — 2014-08-27 · A
+- [[works/taiwaneseamerican-org/sunflower-movement-leaders-speech-in-ny|Sunflower Movement Leaders Speech in NY]] — 2014-08-27 · B
+- [[works/taiwaneseamerican-org/mandarin-dinner-series-with-tap-in-atlanta|Mandarin Dinner Series with TAP in Atlanta]] — 2014-08-27 · B
+- [[works/taiwaneseamerican-org/tap-chicago-racing-at-lake-superior-dragon-boat-festival|TAP-Chicago Racing at Lake Superior Dragon Boat Festival]] — 2014-08-23 · B
+- [[works/taiwaneseamerican-org/summer-beach-party-and-bonfire-with-tap-in-la|Summer Beach Party and Bonfire with TAP in LA]] — 2014-08-23 · B
+- [[works/taiwaneseamerican-org/night-market-with-taiwanese-professionals-in-austin|Night Market with Taiwanese Professionals in Austin]] — 2014-08-23 · B
+- [[works/taiwaneseamerican-org/fapa-ypg-national-advocacy-conference|FAPA YPG National Advocacy Conference]] — 2014-08-23 · B
+- [[works/taiwaneseamerican-org/sunflower-movement-leaders-speech-in-dc|Sunflower Movement Leaders Speech in DC]] — 2014-08-22 · B
+- [[works/taiwaneseamerican-org/networking-event-with-tap-and-tajcc-in-norcal|Networking Event with TAP and TAJCC in NorCal]] — 2014-08-21 · B
+- [[works/taiwaneseamerican-org/sunflower-movement-leaders-speech-in-norcal|Sunflower Movement Leaders Speech in NorCal]] — 2014-08-18 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-atlanta-ga|TAPpy Hour in Atlanta, GA]] — 2014-08-14 · B
+- [[works/taiwaneseamerican-org/au-revoir-taipei|Au Revoir Taipei Screens at Seaport Film & Food Festival]] — 2014-08-14 · B
+- [[works/taiwaneseamerican-org/linsanity-movie-screening-in-la-for-kaohsiung-disaster-relief|Linsanity Movie Screening in LA for Kaohsiung Disaster Relief]] — 2014-08-13 · B
+- [[works/taiwaneseamerican-org/author-ed-lin-presents-novel-ghost-month-in-berkeley|Author Ed Lin Presents Novel “Ghost Month” in Berkeley]] — 2014-08-10 · B
+- [[works/taiwaneseamerican-org/author-ed-lin-presents-novel-ghost-month-in-berkeley-2|Author Ed Lin Presents Novel "Ghost Month" in Berkeley]] — 2014-08-10 · B
+- [[works/taiwaneseamerican-org/summer-bbq-with-taita-in-norcal-2|Summer BBQ with TAITA in NorCal]] — 2014-08-09 · B
+- [[works/taiwaneseamerican-org/pool-party-with-tap-in-chicago|Pool Party with TAP in Chicago]] — 2014-08-09 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-author-julie-wu-speaks-on-the-third-son-novel|Taiwanese American Author Julie Wu Speaks on “The Third Son” Novel]] — 2014-08-03 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-author-julie-wu-speaks-on-the-third-son-novel-2|Taiwanese American Author Julie Wu Speaks on "The Third Son" Novel]] — 2014-08-03 · B
+- [[works/taiwaneseamerican-org/relationships-workshop-with-natwa-and-tap-in-sd|Relationships Workshop with NATWA and TAP in SD]] — 2014-08-03 · B
+- [[works/taiwaneseamerican-org/fapa-summer-potluck-featuring-author-julie-wu-in-norcal|FAPA Summer Potluck Featuring Author Julie Wu in NorCal]] — 2014-08-02 · B
+- [[works/taiwaneseamerican-org/annual-beach-bonfire-with-tap-in-sd|Annual Beach Bonfire with TAP in SD]] — 2014-08-02 · B
+- [[works/taiwaneseamerican-org/2014-miss-taiwanese-american-pageant-in-la|2014 Miss Taiwanese American Pageant in LA]] — 2014-08-02 · B
+- [[works/taiwaneseamerican-org/100-days-screens-at-new-yorks-asian-american-film-festival|“100 Days” Screens at New York’s Asian American Film Festival]] — 2014-08-01 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-author-jennifer-j-chow-speaks-in-wa|Taiwanese American Author Jennifer J. Chow Speaks in WA]] — 2014-08-01 · B
+- [[works/taiwaneseamerican-org/tacl-political-internship-program-closing-social-in-la|TACL Political Internship Program Closing Social in LA]] — 2014-08-01 · B
+- [[works/taiwaneseamerican-org/night-market-with-taiwanese-american-author-ed-lin-in-ny|Night Market with Taiwanese American Author Ed Lin in NY]] — 2014-08-01 · B
+- [[works/taiwaneseamerican-org/dinner-with-taiwanese-american-author-jennifer-j-chow-in-seattle|Dinner with Taiwanese American Author Jennifer J. Chow in Seattle]] — 2014-08-01 · B
+- [[works/taiwaneseamerican-org/100-days-screens-at-new-yorks-asian-american-film-festival-2|"100 Days" Screens at New York's Asian American Film Festival]] — 2014-08-01 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-boston-5|TAPpy Hour in Boston]] — 2014-07-31 · B
+- [[works/taiwaneseamerican-org/speed-networking-mixer-with-tajcc-in-la|Speed Networking Mixer with TAJCC in LA]] — 2014-07-31 · B
+- [[works/taiwaneseamerican-org/singer-songwriter-cynthia-lin-releases-new-album-in-sf|Singer-Songwriter Cynthia Lin Releases New Album in SF]] — 2014-07-31 · B
+- [[works/taiwaneseamerican-org/a-taiwanese-film-screening-in-ny|A Taiwanese Film Screening in NY]] — 2014-07-27 · B
+- [[works/taiwaneseamerican-org/sunflower-movement-china-and-taiwans-future-talk-in-la|“Sunflower Movement, China, and Taiwan’s Future” Talk in LA]] — 2014-07-26 · B
+- [[works/taiwaneseamerican-org/sunflower-movement-china-and-taiwans-future-talk-in-la-2|"Sunflower Movement, China, and Taiwan's Future" Talk in LA]] — 2014-07-26 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-identity-workshop-with-ho-chie-tsai-in-chicago|Taiwanese American Identity Workshop with Ho Chie Tsai in Chicago]] — 2014-07-25 · B
+- [[works/taiwaneseamerican-org/yacht-party-with-tap-and-social-quarters-in-chicago|Yacht Party with TAP and Social Quarters in Chicago]] — 2014-07-19 · B
+- [[works/taiwaneseamerican-org/paintball-event-with-tap-in-ma|Paintball Event with TAP in MA]] — 2014-07-19 · B
+- [[works/taiwaneseamerican-org/2014-taiwanese-american-conference-west-coast|2014 Taiwanese American Conference West Coast]] — 2014-07-13 · B
+- [[works/taiwaneseamerican-org/2014-taa-midwest-summer-conference-in-oh|2014 TAA Midwest Summer Conference in OH]] — 2014-07-13 · B
+- [[works/taiwaneseamerican-org/run-5k-with-tap-and-project-vision-in-chicago|Run 5K with TAP and Project Vision in Chicago]] — 2014-07-12 · B
+- [[works/taiwaneseamerican-org/salsa-night-with-tap-and-tinasa-in-austin|Salsa Night with TAP and TINASA in Austin]] — 2014-07-10 · B
+- [[works/taiwaneseamerican-org/poster-art-show-jerry-ma|Poster Art Show in NY Curated by Comic Artist Jerry Ma]] — 2014-07-10 · B
+- [[works/taiwaneseamerican-org/happy-hour-with-tap-and-aacn-in-chicago|Happy Hour with TAP and AACN in Chicago]] — 2014-07-09 · B
+- [[works/taiwaneseamerican-org/dmae-roberts-mei-meis-journey|Dmae Roberts on Preserving and Reviving 25 Years of Mei Mei’s Journey]] — 2014-07-09 · A
+- [[works/taiwaneseamerican-org/summer-bbq-with-tap-in-boston|Summer BBQ with TAP in Boston]] — 2014-07-05 · B
+- [[works/taiwaneseamerican-org/natma-foundation-scholarship|Scholarship for Health Professional Students/Trainees of Taiwanese Heritage]] — 2014-07-05 · B
+- [[works/taiwaneseamerican-org/an-interview-with-meimeiwawa|An Interview with MeiMeiWaWa]] — 2014-07-04 · A
+- [[works/taiwaneseamerican-org/submit-art-zine|Submit your Art, Poetry, Prose, or Photos to the OACC Zine]] — 2014-07-01 · B
+- [[works/taiwaneseamerican-org/author-julie-wu-discusses-her-novel-the-third-son|Author Julie Wu Discusses her Novel, The Third Son]] — 2014-06-30 · A
+- [[works/taiwaneseamerican-org/taiwanese-film-tongues-of-heaven-screening-in-norcal|Taiwanese Film “Tongues of Heaven” Screening in NorCal]] — 2014-06-28 · B
+- [[works/taiwaneseamerican-org/taiwanese-film-tongues-of-heaven-screening-in-norcal-2|Taiwanese Film "Tongues of Heaven" Screening in NorCal]] — 2014-06-28 · B
+- [[works/taiwaneseamerican-org/future-of-taiwan-e2-80-99s-democracy-with-fapa-in-norcal|Future of Taiwan’s Democracy with FAPA in NorCal]] — 2014-06-21 · B
+- [[works/taiwaneseamerican-org/happy-hour-with-tap-in-chicago-5|Happy Hour with TAP in Chicago]] — 2014-06-13 · B
+- [[works/taiwaneseamerican-org/taiwans-economic-future-discussion-in-sf|Taiwan’s Economic Future Discussion in SF]] — 2014-06-05 · B
+- [[works/taiwaneseamerican-org/taiwans-economic-future-discussion-in-sf-2|Taiwan's Economic Future Discussion in SF]] — 2014-06-05 · B
+- [[works/taiwaneseamerican-org/art-for-taiwan-exhibition-in-ny|Art for Taiwan Exhibition in NY]] — 2014-06-05 · B
+- [[works/taiwaneseamerican-org/paperback-launch-party-for-julie-wus-the-third-son-in-ma|Paperback Launch Party for Julie Wu’s “The Third Son” in MA]] — 2014-06-03 · B
+- [[works/taiwaneseamerican-org/paperback-launch-party-for-julie-wus-the-third-son-in-ma-2|Paperback Launch Party for Julie Wu's "The Third Son" in MA]] — 2014-06-03 · B
+- [[works/taiwaneseamerican-org/dawen-in-taiwan|Catching Up with Singer-Songwriter Dawen]] — 2014-06-03 · A
+- [[works/taiwaneseamerican-org/2014-itasa-footprints-scholarship-program|2014 ITASA Footprints Scholarship Program]] — 2014-05-31 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-boston-4|TAPpy Hour in Boston]] — 2014-05-30 · B
+- [[works/taiwaneseamerican-org/takao-run-band-of-taiwan-performs-in-albany-ny|Takao Run Band of Taiwan Performs in Albany, NY]] — 2014-05-28 · B
+- [[works/taiwaneseamerican-org/registration-for-summer-camps|Registration Open for the 2014 Taiwanese American Youth Summer Camps]] — 2014-05-27 · B
+- [[works/taiwaneseamerican-org/art-for-advocacy|ART FOR ADVOCACY: Bringing Taiwan’s Sunflower Movement to Brooklyn]] — 2014-05-27 · B
+- [[works/taiwaneseamerican-org/art-for-advocacy-2|ART FOR ADVOCACY: Bringing Taiwan's Sunflower Movement to Brooklyn]] — 2014-05-27 · A
+- [[works/taiwaneseamerican-org/13th-annual-passport-to-taiwan-festival-in-ny|13th Annual Passport to Taiwan Festival in NY]] — 2014-05-25 · B
+- [[works/taiwaneseamerican-org/2014-hello-taiwan-tour-boston|2014 Hello Taiwan Tour: Boston]] — 2014-05-24 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-norcal|TAPpy Hour in NorCal]] — 2014-05-23 · B
+- [[works/taiwaneseamerican-org/how-i-became-more-involved|How I Became More Involved With the Taiwanese American Community]] — 2014-05-23 · A
+- [[works/taiwaneseamerican-org/tap-chicago-participates-in-the-silk-road-festival|TAP Chicago Participates in the Silk Road Festival]] — 2014-05-22 · B
+- [[works/taiwaneseamerican-org/reverse-happy-hour-with-tap-in-austin|Reverse Happy Hour with TAP in Austin]] — 2014-05-22 · B
+- [[works/taiwaneseamerican-org/art-for-advocacy-event-with-taa-in-ny|Art for Advocacy Event with TAA in NY]] — 2014-05-22 · B
+- [[works/taiwaneseamerican-org/beyond-beauty-taiwan-from-above-movie-with-tap-in-seattle|“Beyond Beauty – Taiwan From Above” Movie with TAP in Seattle]] — 2014-05-21 · B
+- [[works/taiwaneseamerican-org/dinner-series-with-tap-in-la-3|Dinner Series with TAP in LA]] — 2014-05-21 · B
+- [[works/taiwaneseamerican-org/beyond-beauty-taiwan-from-above-movie-with-tap-in-seattle-2|"Beyond Beauty – Taiwan From Above" Movie with TAP in Seattle]] — 2014-05-21 · B
+- [[works/taiwaneseamerican-org/interview-jennifer-j-chow|An Interview with Jennifer J. Chow, Author of The 228 Legacy]] — 2014-05-19 · A
+- [[works/taiwaneseamerican-org/taiwanese-american-idol-with-mta-in-la|Taiwanese American Idol with MTA in LA]] — 2014-05-17 · B
+- [[works/taiwaneseamerican-org/2014-hello-taiwan-tour-nyc|2014 Hello Taiwan Tour: NYC]] — 2014-05-17 · B
+- [[works/taiwaneseamerican-org/16th-annual-taiwanese-american-heritage-week-festival-of-los-angeles|16th Annual Taiwanese American Heritage Week Festival of Los Angeles]] — 2014-05-17 · B
+- [[works/taiwaneseamerican-org/an-evening-with-tap-seattle-at-northwest-sinfonietta|An Evening with TAP-Seattle at Northwest Sinfonietta]] — 2014-05-16 · B
+- [[works/taiwaneseamerican-org/taiwanese-heritage-week-tappy-hour-in-atlanta|Taiwanese Heritage Week TAPpy Hour in Atlanta]] — 2014-05-15 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-heritage-week-benefit-concert-featuring-jason-chen-at-ucla|Taiwanese American Heritage Week Benefit Concert featuring Jason Chen at UCLA]] — 2014-05-15 · B
+- [[works/taiwaneseamerican-org/tap-chicago-happy-hour-2|TAP-Chicago Happy Hour]] — 2014-05-15 · B
+- [[works/taiwaneseamerican-org/register-for-the-tacl-lyf-summer-camp-in-norcal|Register for the TACL-LYF Summer Camp in NorCal]] — 2014-05-15 · B
+- [[works/taiwaneseamerican-org/real-estate-workshop-happy-hour-hosted-by-tap-dc|Real Estate Workshop Happy Hour hosted by TAP-DC]] — 2014-05-15 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-pasadena-ca|TAPpy Hour in Pasadena, CA]] — 2014-05-14 · B
+- [[works/taiwaneseamerican-org/tap-ny-panel-women-in-the-workplace-from-passion-to-success|TAP-NY Panel: Women in the Workplace: From Passion to Success]] — 2014-05-14 · B
+- [[works/taiwaneseamerican-org/taiwanese-cultural-dance-performance-in-seattle|Taiwanese Cultural Dance Performance in Seattle]] — 2014-05-13 · B
+- [[works/taiwaneseamerican-org/mental-health-awareness|Happy Mental Health Awareness Month! It’s Time to Normalize the Elephant!]] — 2014-05-13 · A
+- [[works/taiwaneseamerican-org/taiwanese-metal-band-chthonic-performing-in-sf|Taiwanese Metal Band Chthonic Performing in SF]] — 2014-05-11 · B
+- [[works/taiwaneseamerican-org/volunteer-at-the-taiwanese-american-cultural-festival-in-sf|Volunteer at the Taiwanese American Cultural Festival in SF]] — 2014-05-10 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-heritage-week-fest|Taiwanese American Heritage Week Festivals]] — 2014-05-10 · B
+- [[works/taiwaneseamerican-org/producer-weiko-lin|Behind the Scenes with Producer Weiko Lin of 100 DAYS]] — 2014-05-09 · A
+- [[works/taiwaneseamerican-org/big-bah-tzangs-the-hungry-monster|Big Bah-Tzangs: The Hungry Monster]] — 2014-05-08 · A
+- [[works/taiwaneseamerican-org/a-chat-with-documentary-filmmaker-anita-chang|A Chat with Documentary Filmmaker Anita Chang]] — 2014-05-07 · A
+- [[works/taiwaneseamerican-org/taos-got-talent-performance-at-uc-davis|TAO’s Got Talent Performance at UC Davis]] — 2014-05-06 · B
+- [[works/taiwaneseamerican-org/taos-got-talent-performance-at-uc-davis-2|TAO's Got Talent Performance at UC Davis]] — 2014-05-06 · B
+- [[works/taiwaneseamerican-org/more-tahw-award-winners|More Taiwanese American Heritage Week Poster Award Winners]] — 2014-05-06 · B
+- [[works/taiwaneseamerican-org/watch-100-days-with-tap-at-the-los-angeles-asian-pacific-film-festival|Watch “100 Days” with TAP at the Los Angeles Asian Pacific Film Festival]] — 2014-05-04 · B
+- [[works/taiwaneseamerican-org/watch-d-major-band-perform-in-san-jose|Watch D Major Band Perform in San Jose]] — 2014-05-04 · B
+- [[works/taiwaneseamerican-org/watch-100-days-with-tap-at-the-los-angeles-asian-pacific-film-festival-2|Watch "100 Days" with TAP at the Los Angeles Asian Pacific Film Festival]] — 2014-05-04 · B
+- [[works/taiwaneseamerican-org/taiwan-day-in-boston|Taiwan Day in Boston]] — 2014-05-03 · B
+- [[works/taiwaneseamerican-org/2014-gala-with-tap-in-boston|2014 Gala with TAP in Boston]] — 2014-05-03 · B
+- [[works/taiwaneseamerican-org/tahw-2014poster|Taiwanese American Heritage Week 2014 Poster]] — 2014-05-01 · B
+- [[works/taiwaneseamerican-org/tap-networking-mixer-and-photoshoot-in-sf|TAP Networking Mixer and Photoshoot in SF]] — 2014-05-01 · B
+- [[works/taiwaneseamerican-org/apply-for-the-itasa-national-board-2014-2015|Apply for the ITASA National Board 2014-2015]] — 2014-04-30 · B
+- [[works/taiwaneseamerican-org/beyond-boundaries-what-makes-us-taiwanese|Beyond Boundaries: What makes us Taiwanese?]] — 2014-04-29 · A
+- [[works/taiwaneseamerican-org/april-tappy-hour-tuesday-in-nyc|April TAPpy Hour Tuesday in NYC]] — 2014-04-29 · B
+- [[works/taiwaneseamerican-org/tap-chicago-volunteer-planning-meeting|TAP-Chicago – Volunteer Planning Meeting]] — 2014-04-27 · B
+- [[works/taiwaneseamerican-org/island-awakening-fire-ex-u-s-west-coast-tour|Island Awakening – Fire Ex U.S. West Coast Tour]] — 2014-04-27 · B
+- [[works/taiwaneseamerican-org/taiwans-sunflower-student-movement|[UPDATED Taiwan’s Sunflower Student Movement]] — 2014-04-26 · A
+- [[works/taiwaneseamerican-org/taiwan-tea-workshop-with-tap-in-sd|Taiwan Tea Workshop with TAP in SD]] — 2014-04-26 · B
+- [[works/taiwaneseamerican-org/taps-x-tyapn-co-host-limjiuhappy-hour-in-bellevue-wa|TAPS X TYAPN Co-Host LimJiu/Happy Hour in Bellevue, WA]] — 2014-04-26 · B
+- [[works/taiwaneseamerican-org/tap-chicago-serving-at-a-just-harvest-community-kitchen|TAP-Chicago Serving at A Just Harvest Community Kitchen]] — 2014-04-26 · A
+- [[works/taiwaneseamerican-org/bazhang-zong-zi-making-demonstration-in-dc|Bazhang (Zong-zi) Making Demonstration in DC]] — 2014-04-26 · B
+- [[works/taiwaneseamerican-org/taiwanese-night-market-with-tap-in-ny|Taiwanese Night Market with TAP in NY]] — 2014-04-25 · B
+- [[works/taiwaneseamerican-org/glo-leadership-conference-spring-2014-at-ucla|GLO Leadership Conference Spring 2014 at UCLA]] — 2014-04-25 · B
+- [[works/taiwaneseamerican-org/tap-austin-spring-reverse-happy-hour|TAP-Austin Spring Reverse Happy Hour!]] — 2014-04-24 · B
+- [[works/taiwaneseamerican-org/tap-mandarin-dinner-series-west-la|TAP Mandarin Dinner Series – West LA]] — 2014-04-24 · B
+- [[works/taiwaneseamerican-org/spring-social-fundraiser-for-tacl-lyf-camp|Spring Social: Fundraiser for TACL-LYF Camp]] — 2014-04-24 · B
+- [[works/taiwaneseamerican-org/time-for-taiwan|Time for Taiwan – A Smithsonian Event]] — 2014-04-23 · B
+- [[works/taiwaneseamerican-org/dinner-series-with-tap-in-la|Dinner Series with TAP in LA]] — 2014-04-23 · B
+- [[works/taiwaneseamerican-org/itasa-college-seminar-and-overnight-program-in-socal|ITASA College Seminar and Overnight Program in SoCal]] — 2014-04-19 · B
+- [[works/taiwaneseamerican-org/north-america-taiwanese-womens-association-national-convention-in-new-orleans|North America Taiwanese Women’s Association National Convention in New Orleans]] — 2014-04-18 · B
+- [[works/taiwaneseamerican-org/north-america-taiwanese-womens-association-national-convention-in-new-orleans-2|North America Taiwanese Women's Association National Convention in New Orleans]] — 2014-04-18 · B
+- [[works/taiwaneseamerican-org/formosa-solo-show-with-spoken-word-artist-kelly-zen-yie-tsai|Formosa Solo Show with Spoken Word Artist Kelly Zen-Yie Tsai]] — 2014-04-16 · B
+- [[works/taiwaneseamerican-org/meet-sunflower-movement-students-from-taiwan-in-norcal|Meet Sunflower Movement Students from Taiwan in NorCal]] — 2014-04-15 · B
+- [[works/taiwaneseamerican-org/designing-taiwan-contest|2014 DESIGNING TAIWAN: Taiwanese American Heritage Week Contest]] — 2014-04-15 · B
+- [[works/taiwaneseamerican-org/standup-comedy-performance-with-sheng-wang-in-texas|Standup Comedy Performance with Sheng Wang in Texas]] — 2014-04-13 · B
+- [[works/taiwaneseamerican-org/taiwanese-night-market-at-stanford-university-2|Taiwanese Night Market at Stanford University]] — 2014-04-12 · B
+- [[works/taiwaneseamerican-org/connect-with-1st-generation-with-tap-in-sd|Connect with 1st Generation with TAP in SD]] — 2014-04-12 · B
+- [[works/taiwaneseamerican-org/taiwanese-night-market-at-georgia-tech|Taiwanese Night Market at Georgia Tech]] — 2014-04-11 · B
+- [[works/taiwaneseamerican-org/apply-to-the-2014-formosa-foundation-ambassador-program|Apply to the 2014 Formosa Foundation Ambassador Program]] — 2014-04-11 · B
+- [[works/taiwaneseamerican-org/team-taiwan-dragon-boat-is-recruiting-members-in-laoc|Team Taiwan Dragon Boat is Recruiting Members in LA/OC]] — 2014-04-10 · B
+- [[works/taiwaneseamerican-org/sunflower-celebration-in-sf|Sunflower Celebration in SF]] — 2014-04-10 · B
+- [[works/taiwaneseamerican-org/taiwan-identity-media-and-culture-talk-at-uc-berkeley|Taiwan: Identity, Media, and Culture Talk at UC Berkeley]] — 2014-04-09 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-la-12|TAPpy Hour in LA]] — 2014-04-09 · B
+- [[works/taiwaneseamerican-org/cross-strait-relations-talk-at-uc-berkeley|Cross-Strait Relations Talk at UC Berkeley]] — 2014-04-07 · B
+- [[works/taiwaneseamerican-org/natma-spring-hike-in-socal|NATMA Spring Hike in SoCal]] — 2014-04-06 · B
+- [[works/taiwaneseamerican-org/lantern-festival-and-night-market-with-tao-at-uci|Lantern Festival and Night Market with TAO at UCI]] — 2014-04-06 · B
+- [[works/taiwaneseamerican-org/2014-itasa-west-coast-conference-at-uc-berkeley|2014 ITASA West Coast Conference at UC Berkeley]] — 2014-04-06 · B
+- [[works/taiwaneseamerican-org/a-taiwanese-american-look-at-the-sunflower-movement|A Taiwanese American Look at the Sunflower Movement]] — 2014-04-02 · A
+- [[works/taiwaneseamerican-org/taiwans-democracy-rally-in-sf|Taiwan’s Democracy Rally in SF]] — 2014-03-29 · B
+- [[works/taiwaneseamerican-org/taiwans-democracy-rally-in-sf-2|Taiwan's Democracy Rally in SF]] — 2014-03-29 · B
+- [[works/taiwaneseamerican-org/228-commemorative-concert-in-la|228 Commemorative Concert in LA]] — 2014-03-28 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-seattle|TAPpy Hour in Seattle]] — 2014-03-27 · B
+- [[works/taiwaneseamerican-org/tap-dinner-series-in-la|TAP Dinner Series in LA]] — 2014-03-27 · B
+- [[works/taiwaneseamerican-org/tap-date-and-service-auction-in-dc|TAP Date and Service Auction in DC]] — 2014-03-27 · B
+- [[works/taiwaneseamerican-org/commemorate-228-with-art-and-film-victoria-linchongs-almost-home|Commemorate 228 with Art and Film: Victoria Linchong’s “Almost Home”]] — 2014-03-23 · B
+- [[works/taiwaneseamerican-org/commemorate-228-with-art-and-film-victoria-linchongs-almost-home-2|Commemorate 228 with Art and Film: Victoria Linchong's "Almost Home"]] — 2014-03-23 · B
+- [[works/taiwaneseamerican-org/volunteer-opportunity-with-tap-in-boston|Volunteer Opportunity with TAP in Boston]] — 2014-03-22 · B
+- [[works/taiwaneseamerican-org/taste-of-taiwan-festival-at-university-of-michigan|Taste of Taiwan Festival at University of Michigan]] — 2014-03-22 · B
+- [[works/taiwaneseamerican-org/movie-with-tap-in-dc|Movie with TAP in DC]] — 2014-03-22 · B
+- [[works/taiwaneseamerican-org/community-service-event-with-tap-in-norcal|Community Service Event with TAP in NorCal]] — 2014-03-22 · A
+- [[works/taiwaneseamerican-org/annual-natwa-banquet-in-la|Annual NATWA Banquet in LA]] — 2014-03-22 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-la-11|TAPpy Hour in LA]] — 2014-03-21 · B
+- [[works/taiwaneseamerican-org/ucla-film-series-what-time-is-it-there-taiwan-as-crossroads|UCLA Film Series: What Time Is It There? Taiwan as Crossroads]] — 2014-03-19 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-san-diego-8|TAPpy Hour in San Diego]] — 2014-03-19 · B
+- [[works/taiwaneseamerican-org/tap-ny-volunteer-open-house|TAP-NY Volunteer Open House]] — 2014-03-17 · B
+- [[works/taiwaneseamerican-org/cloud-gate-dance-theatre-of-taiwan-performs-in-chicago|Cloud Gate Dance Theatre of Taiwan Performs in Chicago]] — 2014-03-16 · B
+- [[works/taiwaneseamerican-org/cocktail-party-with-tap-in-sf|Cocktail Party with TAP in SF]] — 2014-03-15 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-boston-3|TAPpy Hour in Boston]] — 2014-03-14 · B
+- [[works/taiwaneseamerican-org/singer-songwriter-dawen-opens-west-coast-tour-for-wanting|Singer-songwriter Dawen Opens West Coast Tour for Wanting]] — 2014-03-14 · B
+- [[works/taiwaneseamerican-org/tappy-hour-and-game-watch-in-chicago|TAPpy Hour and Game Watch in Chicago]] — 2014-03-13 · B
+- [[works/taiwaneseamerican-org/pool-party-with-tap-in-ny|Pool Party with TAP in NY]] — 2014-03-08 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-maryland-2|TAPpy Hour in Maryland]] — 2014-03-07 · B
+- [[works/taiwaneseamerican-org/travel-to-taiwan-lunar-new-year-2014|Travel to Taiwan! A Lunar New Year 2014 Edition]] — 2014-03-06 · B
+- [[works/taiwaneseamerican-org/apply-for-the-tacl-2014-political-internship|Apply for the TACL 2014 Political Internship]] — 2014-03-02 · B
+- [[works/taiwaneseamerican-org/community-service-event-with-tap-in-chicago-2|Community Service Event with TAP in Chicago]] — 2014-03-01 · A
+- [[works/taiwaneseamerican-org/reflections-on-228|Reflections on 228]] — 2014-02-28 · A
+- [[works/taiwaneseamerican-org/networking-hour-with-tajcc-in-norcal-3|Networking Hour with TAJCC in NorCal]] — 2014-02-27 · B
+- [[works/taiwaneseamerican-org/happy-hour-with-taps-in-seattle-6|Happy Hour with TAPS in Seattle]] — 2014-02-27 · B
+- [[works/taiwaneseamerican-org/lantern-festival-treasure-hunt-with-tap-in-sf|Lantern Festival Treasure Hunt with TAP in SF]] — 2014-02-23 · B
+- [[works/taiwaneseamerican-org/hollywood-hike-with-tap-in-la|Hollywood Hike with TAP in LA]] — 2014-02-23 · B
+- [[works/taiwaneseamerican-org/lunar-new-year-taiwanese-lantern-festival-in-austin-tx|Lunar New Year & Taiwanese Lantern Festival in Austin, TX]] — 2014-02-22 · B
+- [[works/taiwaneseamerican-org/lunar-ball-with-chicago-taiwanese-american-professionals|Lunar Ball with Chicago Taiwanese American Professionals]] — 2014-02-22 · B
+- [[works/taiwaneseamerican-org/228-memorial-concert-in-norcal|228 Memorial Concert in NorCal]] — 2014-02-22 · B
+- [[works/taiwaneseamerican-org/standup-comedy-performance-with-sheng-wang-in-sf|Standup Comedy Performance with Sheng Wang in SF]] — 2014-02-21 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-ny-10|TAPpy Hour in NY]] — 2014-02-19 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-dc-8|TAPpy Hour in DC]] — 2014-02-19 · B
+- [[works/taiwaneseamerican-org/lunar-new-year-hotpot-dinner-with-tap-in-sd|Lunar New Year Hotpot Dinner with TAP in SD]] — 2014-02-15 · B
+- [[works/taiwaneseamerican-org/itasa-2014-alumni-events-at-yale|ITASA 2014 Alumni Events at Yale]] — 2014-02-15 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-sf-bay-area-6|TAPpy Hour in SF Bay Area]] — 2014-02-13 · B
+- [[works/taiwaneseamerican-org/2014-itasa-east-coast-conference-at-yale|2014 ITASA East Coast Conference at Yale]] — 2014-02-13 · B
+- [[works/taiwaneseamerican-org/professional-speaker-series-with-tap-in-la|Professional Speaker Series with TAP in LA]] — 2014-02-12 · B
+- [[works/taiwaneseamerican-org/film-review-will-you-still-love-me-tomorrow|Film Review: Will You Still Love Me Tomorrow?]] — 2014-02-11 · B
+- [[works/taiwaneseamerican-org/out-of-taiwan-photography-exhibit-with-natwa-ii-in-socal|“Out of Taiwan” Photography Exhibit with NATWA II in SoCal]] — 2014-02-09 · B
+- [[works/taiwaneseamerican-org/taiwanese-homestyle-cooking-workshop-with-tap-in-la|Taiwanese Homestyle Cooking Workshop with TAP in LA]] — 2014-02-09 · B
+- [[works/taiwaneseamerican-org/out-of-taiwan-photography-exhibit-with-natwa-ii-in-socal-2|"Out of Taiwan" Photography Exhibit with NATWA II in SoCal]] — 2014-02-09 · B
+- [[works/taiwaneseamerican-org/lunar-new-year-celebration-with-tap-in-dc|Lunar New Year Celebration with TAP in DC]] — 2014-02-08 · B
+- [[works/taiwaneseamerican-org/live-performance-by-taiwanese-american-artists-in-sf|Live Performance by Taiwanese American Artists in SF]] — 2014-02-08 · B
+- [[works/taiwaneseamerican-org/community-service-opportunity-with-tap-in-oakland|Community Service Opportunity with TAP in Oakland]] — 2014-02-08 · A
+- [[works/taiwaneseamerican-org/bowling-with-tap-in-san-diego|Bowling with TAP in San Diego]] — 2014-02-08 · B
+- [[works/taiwaneseamerican-org/tap-boston-first-fridays-at-the-mfa|TAP-Boston First Fridays at the MFA]] — 2014-02-07 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-dc-7|TAPpy Hour in DC]] — 2014-02-06 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-la-10|TAPpy Hour in LA]] — 2014-02-05 · B
+- [[works/taiwaneseamerican-org/taiwan-america-student-conference|Building Bridges: An Interview with Organizers of the Taiwan-America Student Conference]] — 2014-02-04 · A
+- [[works/taiwaneseamerican-org/taiwanese-speech-competition-in-norcal|Taiwanese Speech Competition in NorCal]] — 2014-02-02 · B
+- [[works/taiwaneseamerican-org/taiwanese-breakfast-with-chicago-tap|Taiwanese Breakfast with Chicago TAP]] — 2014-02-02 · B
+- [[works/taiwaneseamerican-org/lunar-new-year-dinner-with-tap-in-la|Lunar New Year Dinner with TAP in LA]] — 2014-02-01 · B
+- [[works/taiwaneseamerican-org/lunar-new-year-banquet-with-tap-in-sf|Lunar New Year Banquet with TAP in SF]] — 2014-02-01 · B
+- [[works/taiwaneseamerican-org/lunar-new-year-dinner-with-taps-in-seattle|Lunar New Year Dinner with TAPS in Seattle]] — 2014-01-31 · B
+- [[works/taiwaneseamerican-org/glo-leadership-conference-winter-2014-in-boston-ma|GLO Leadership Conference Winter 2014 in Boston, MA]] — 2014-01-31 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-new-york-4|TAPpy Hour in New York]] — 2014-01-30 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-boston-2|TAPpy Hour in Boston]] — 2014-01-30 · B
+- [[works/taiwaneseamerican-org/happy-hour-with-taps-in-seattle-5|Happy Hour with TAPS in Seattle]] — 2014-01-30 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-networking-mixer-with-dog-g-in-la|Taiwanese American Networking Mixer with Dog G in LA]] — 2014-01-25 · B
+- [[works/taiwaneseamerican-org/lunar-new-year-banquet-with-tap-in-ny|Lunar New Year Banquet with TAP in NY]] — 2014-01-25 · B
+- [[works/taiwaneseamerican-org/lunar-new-year-banquet-with-tafnc-in-norcal|Lunar New Year Banquet with TAFNC in NorCal]] — 2014-01-25 · B
+- [[works/taiwaneseamerican-org/community-service-opportunity-with-tap-in-sf-2|Community Service Opportunity with TAP in SF]] — 2014-01-25 · A
+- [[works/taiwaneseamerican-org/tappy-hour-in-chicago-4|TAPpy Hour in Chicago]] — 2014-01-23 · B
+- [[works/taiwaneseamerican-org/happy-hour-with-tajccnc-in-norcal|Happy Hour with TAJCCNC in NorCal]] — 2014-01-23 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-san-diego-7|TAPpy Hour in San Diego]] — 2014-01-22 · B
+- [[works/taiwaneseamerican-org/new-years-party-with-tacl-lyf-in-norcal|New Years Party with TACL-LYF in NorCal]] — 2014-01-18 · B
+- [[works/taiwaneseamerican-org/tjccc-tax-seminar|TJCCC Tax Seminar Series in Chicago: Business Tax]] — 2014-01-16 · B
+- [[works/taiwaneseamerican-org/tap-atlanta-announcement-party|TAP Atlanta – Announcement Party]] — 2014-01-16 · B
+- [[works/taiwaneseamerican-org/networking-mixer-with-tap-in-sf|Networking Mixer with TAP in SF]] — 2014-01-16 · B
+- [[works/taiwaneseamerican-org/restaurant-week-dinners-with-tap-in-dc|Restaurant Week Dinners with TAP in DC]] — 2014-01-13 · B
+- [[works/taiwaneseamerican-org/watch-the-wizards-vs-rockets-game-with-tap-in-dc|Watch the Wizards vs. Rockets Game with TAP in DC]] — 2014-01-11 · B
+- [[works/taiwaneseamerican-org/call-for-papers-natsa2014|Call for Papers – North American Taiwan Studies Association 20th Anniversary Conference]] — 2014-01-10 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-maryland|TAPpy Hour in Maryland]] — 2014-01-07 · B
+- [[works/taiwaneseamerican-org/kathy-cheng-and-thankful-registry-giving-with-heart|Kathy Cheng and Thankful Registry: Giving with Heart]] — 2014-01-07 · A
+- [[works/taiwaneseamerican-org/tap-seattle-volunteers-with-ronald-mcdonald-house|TAP-Seattle Volunteers with Ronald McDonald House]] — 2014-01-05 · B
+- [[works/taiwaneseamerican-org/fundraiser-for-tacl-lyf-summer-camp-in-mountain-view-ca|Fundraiser for TACL-LYF Summer Camp in Mountain View, CA]] — 2014-01-02 · B
+- [[works/taiwaneseamerican-org/tap-chicagos-president-djs-on-nye-2014-at-vora|TAP-Chicago’s President DJ’s on NYE 2014 at Vora]] — 2013-12-31 · B
+- [[works/taiwaneseamerican-org/2013-taf-new-year-party-in-chicago|2013 TAF New Year Party in Chicago]] — 2013-12-29 · B
+- [[works/taiwaneseamerican-org/holiday-live-webcast-with-singer-songwriter-cynthia-lin|Holiday Live Webcast with Singer-Songwriter Cynthia Lin]] — 2013-12-22 · B
+- [[works/taiwaneseamerican-org/christmas-in-the-city-event-with-tap-in-boston|“Christmas in the City” Event with TAP in Boston]] — 2013-12-21 · B
+- [[works/taiwaneseamerican-org/christmas-in-the-city-event-with-tap-in-boston-2|"Christmas in the City" Event with TAP in Boston]] — 2013-12-21 · B
+- [[works/taiwaneseamerican-org/mentorship-program-with-itasa-and-tap-in-ny|Mentorship Program with ITASA and TAP in NY]] — 2013-12-20 · B
+- [[works/taiwaneseamerican-org/celebrate-chicago-with-tap-and-kac|“Celebrate Chicago” with TAP and KAC]] — 2013-12-19 · B
+- [[works/taiwaneseamerican-org/dinner-series-with-tap-in-la-2|Dinner Series with TAP in LA]] — 2013-12-19 · B
+- [[works/taiwaneseamerican-org/celebrate-chicago-with-tap-and-kac-2|"Celebrate Chicago" with TAP and KAC]] — 2013-12-19 · B
+- [[works/taiwaneseamerican-org/tax-seminar-series-with-tjccc-in-chicago|Tax Seminar Series with TJCCC in Chicago]] — 2013-12-18 · B
+- [[works/taiwaneseamerican-org/holiday-potluck-with-fapa-ypg-in-sf|Holiday Potluck with FAPA-YPG in SF]] — 2013-12-18 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-la-9|TAPpy Hour in LA]] — 2013-12-17 · B
+- [[works/taiwaneseamerican-org/holiday-party-and-toy-drive-with-chicago-tap|Holiday Party and Toy Drive with Chicago TAP]] — 2013-12-17 · B
+- [[works/taiwaneseamerican-org/taiwanese-cooking-workshop-with-tap-in-norcal|Taiwanese Cooking Workshop with TAP in NorCal]] — 2013-12-15 · B
+- [[works/taiwaneseamerican-org/holiday-potluck-with-natwa-ii-in-la|Holiday Potluck with NATWA II in LA]] — 2013-12-15 · B
+- [[works/taiwaneseamerican-org/poker-tournament-with-tap-in-ny|Poker Tournament with TAP in NY]] — 2013-12-14 · B
+- [[works/taiwaneseamerican-org/community-service-opportunity-with-tap-in-sd|Community Service Opportunity with TAP in SD]] — 2013-12-14 · A
+- [[works/taiwaneseamerican-org/holiday-gala-with-tap-and-naaap-in-sf|Holiday Gala with TAP and NAAAP in SF]] — 2013-12-12 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-dc-6|TAPpy Hour in DC]] — 2013-12-11 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-atlanta|TAPpy Hour in Atlanta]] — 2013-12-11 · B
+- [[works/taiwaneseamerican-org/tacc-annual-members-meeting-in-la|TACC Annual Member’s Meeting in LA]] — 2013-12-11 · B
+- [[works/taiwaneseamerican-org/tacc-annual-members-meeting-in-la-2|TACC Annual Member's Meeting in LA]] — 2013-12-11 · B
+- [[works/taiwaneseamerican-org/professional-development-seminar-with-tap-in-chicago|Professional Development Seminar with TAP in Chicago]] — 2013-12-11 · B
+- [[works/taiwaneseamerican-org/making-history-happen|Making History Happen]] — 2013-12-10 · A
+- [[works/taiwaneseamerican-org/michelle-wu|Michelle Wu – On Campaigning, Boston, and Pig Ears]] — 2013-12-07 · A
+- [[works/taiwaneseamerican-org/holiday-party-and-karaoke-with-tap-in-sd|Holiday Party and Karaoke with TAP in SD]] — 2013-12-07 · B
+- [[works/taiwaneseamerican-org/tappy-hour-and-toy-drive-in-seattle|TAPpy Hour and Toy Drive in Seattle]] — 2013-12-05 · B
+- [[works/taiwaneseamerican-org/tacl-lyf-fundraiser-dinner-in-norcal|TACL-LYF Fundraiser Dinner in NorCal]] — 2013-12-05 · B
+- [[works/taiwaneseamerican-org/happy-hour-with-tacc-ycag-in-la|Happy Hour with TACC-YCAG in LA]] — 2013-12-05 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-sd|TAPpy Hour in SD]] — 2013-12-04 · B
+- [[works/taiwaneseamerican-org/taiwan-is-my-home|Taiwan is My Home: Stories of the Black and Latino Diaspora]] — 2013-11-26 · A
+- [[works/taiwaneseamerican-org/50th-anniversary-salute-to-taiwans-golden-horse-awards|50th Anniversary Salute to Taiwan’s Golden Horse Awards]] — 2013-11-24 · B
+- [[works/taiwaneseamerican-org/50th-anniversary-salute-to-taiwans-golden-horse-awards-2|50th Anniversary Salute to Taiwan's Golden Horse Awards]] — 2013-11-24 · B
+- [[works/taiwaneseamerican-org/thanksgiving-dinner-with-tap-in-boston|Thanksgiving Dinner with TAP in Boston]] — 2013-11-23 · B
+- [[works/taiwaneseamerican-org/taiwanese-brunch-with-tasa-at-osu|Taiwanese Brunch with TASA at OSU]] — 2013-11-23 · B
+- [[works/taiwaneseamerican-org/networking-brunch-with-tap-in-boston-2|Networking Brunch with TAP in Boston]] — 2013-11-23 · B
+- [[works/taiwaneseamerican-org/crafts-with-tasa-in-michigan|Crafts with TASA in Michigan]] — 2013-11-23 · B
+- [[works/taiwaneseamerican-org/4th-annual-hello-taiwan-concert-night-market-in-ny|4th Annual “Hello Taiwan” Concert & Night Market in NY to benefit Philippines Typhoon Haiyan Relief Effort]] — 2013-11-23 · B
+- [[works/taiwaneseamerican-org/4th-annual-hello-taiwan-concert-night-market-in-ny-2|4th Annual "Hello Taiwan" Concert & Night Market in NY to benefit Philippines Typhoon Haiyan Relief Effort]] — 2013-11-23 · B
+- [[works/taiwaneseamerican-org/merry-mandarin-thanksgiving-with-tap-in-sf|Merry Mandarin Thanksgiving with TAP in SF]] — 2013-11-22 · B
+- [[works/taiwaneseamerican-org/karaoke-competition-with-tsa-at-berkeley|Karaoke Competition with TSA at Berkeley]] — 2013-11-22 · B
+- [[works/taiwaneseamerican-org/taste-of-taiwan-with-tass-at-nyu|Taste of Taiwan with TASS at NYU]] — 2013-11-21 · B
+- [[works/taiwaneseamerican-org/happy-hour-with-tap-in-seattle|Happy Hour with TAP in Seattle]] — 2013-11-21 · B
+- [[works/taiwaneseamerican-org/drinks-and-discussion-with-fapa-ypg-in-sf|Drinks and Discussion with FAPA-YPG in SF]] — 2013-11-21 · B
+- [[works/taiwaneseamerican-org/dine-discuss-series-with-tap-in-sd-2|Dine & Discuss Series with TAP in SD]] — 2013-11-19 · B
+- [[works/taiwaneseamerican-org/dine-discuss-series-with-tap-in-sd|Dine & Discuss Series with TAP in SD]] — 2013-11-19 · B
+- [[works/taiwaneseamerican-org/community-service-opportunity-with-tap-in-sf|Community Service Opportunity with TAP in SF]] — 2013-11-17 · A
+- [[works/taiwaneseamerican-org/support-singer-songwriter-cynthia-lin-on-her-newest-album|Support Singer-Songwriter Cynthia Lin on Her Newest Album]] — 2013-11-16 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-virginia|TAPpy Hour in Virginia]] — 2013-11-13 · B
+- [[works/taiwaneseamerican-org/movie-screening-with-tap-in-sd|Movie Screening with TAP in SD]] — 2013-11-13 · B
+- [[works/taiwaneseamerican-org/happy-hour-with-tap-in-chicago-4|Happy Hour with TAP in Chicago]] — 2013-11-13 · B
+- [[works/taiwaneseamerican-org/happy-hour-in-chicago-2|Happy Hour in Chicago]] — 2013-11-13 · B
+- [[works/taiwaneseamerican-org/tao-tang-yuan-night-at-uc-davis|TAO Tang Yuan Night at UC Davis]] — 2013-11-12 · B
+- [[works/taiwaneseamerican-org/happy-hour-with-tacl-in-la|Happy Hour with TACL in LA]] — 2013-11-12 · B
+- [[works/taiwaneseamerican-org/taiwanese-home-style-cooking-workshop-with-tap-in-la|Taiwanese Home-style Cooking Workshop with TAP in LA]] — 2013-11-09 · B
+- [[works/taiwaneseamerican-org/taiwan-discussion-in-ny|Taiwan Discussion in NY]] — 2013-11-09 · B
+- [[works/taiwaneseamerican-org/wine-party-with-taps-in-seattle|Wine Party with TAPS in Seattle]] — 2013-11-01 · B
+- [[works/taiwaneseamerican-org/moon-festival-showcase-with-tasa-at-osu|Moon Festival Showcase with TASA at OSU]] — 2013-11-01 · B
+- [[works/taiwaneseamerican-org/the-2013-taiwan-cmj-music-showcase|The 2013 Taiwan CMJ Music Showcase]] — 2013-10-30 · B
+- [[works/taiwaneseamerican-org/stephanie-chang-representing-detroit|Going Where No Taiwanese American Has Gone Before: Stephanie Chang Representing Detroit]] — 2013-10-28 · A
+- [[works/taiwaneseamerican-org/natma-annual-meeting-and-banquet-in-ny|NATMA Annual Meeting and Banquet in NY]] — 2013-10-26 · B
+- [[works/taiwaneseamerican-org/itasa-norcal-district-fall-mixer-in-sf|ITASA NorCal District Fall Mixer in SF]] — 2013-10-26 · B
+- [[works/taiwaneseamerican-org/halloween-parade-with-tap-in-san-diego|Halloween Parade with TAP in San Diego]] — 2013-10-26 · B
+- [[works/taiwaneseamerican-org/the-mountain-brothers|The Mountain Brothers]] — 2013-10-24 · A
+- [[works/taiwaneseamerican-org/happy-hour-with-chicago-taiwanese-american-professionals-5|Happy Hour with Chicago Taiwanese American Professionals]] — 2013-10-24 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-la-8|TAPpy Hour in LA]] — 2013-10-23 · B
+- [[works/taiwaneseamerican-org/taiwan-ideas-day-in-norcal|Taiwan IDEAS Day in NorCal]] — 2013-10-21 · B
+- [[works/taiwaneseamerican-org/taiwanese-cooking-workshop-with-tap-in-la|Taiwanese Cooking Workshop with TAP in LA]] — 2013-10-20 · B
+- [[works/taiwaneseamerican-org/itasa-leadership-retreat-at-usc|ITASA Leadership Retreat at USC]] — 2013-10-19 · B
+- [[works/taiwaneseamerican-org/community-service-opportunity-with-tap-in-ny-2|Community Service Opportunity with TAP in NY]] — 2013-10-19 · A
+- [[works/taiwaneseamerican-org/college-admissions-workshop-with-tasa-in-berkeley|College Admissions Workshop with TASA in Berkeley]] — 2013-10-19 · B
+- [[works/taiwaneseamerican-org/chicago-taiwan-compassion-foundation-food-bazaar|Chicago Taiwan Compassion Foundation Food Bazaar]] — 2013-10-19 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-socal|TAPpy Hour in SoCal]] — 2013-10-18 · B
+- [[works/taiwaneseamerican-org/miss-ko-joanna-wang-dj-noodles-rep-taiwan-at-cmj-music-marathon-in-nyc|Miss Ko, Joanna Wang, DJ Noodles Rep Taiwan at CMJ Music Marathon in NYC]] — 2013-10-18 · B
+- [[works/taiwaneseamerican-org/watch-a-linsanity-screening-in-austin-tx|Watch a LINSANITY Screening in Austin, TX]] — 2013-10-17 · B
+- [[works/taiwaneseamerican-org/dinner-and-linsanity-screening-with-tasc-at-ucla|Dinner and Linsanity Screening with TASC at UCLA]] — 2013-10-17 · B
+- [[works/taiwaneseamerican-org/talking-taiwan-panel-at-cmj-asias-growing-marketplace|Talking Taiwan Panel at CMJ: Asia’s Growing Marketplace]] — 2013-10-16 · B
+- [[works/taiwaneseamerican-org/talking-taiwan-panel-at-cmj-asias-growing-marketplace-2|Talking Taiwan Panel at CMJ: Asia's Growing Marketplace]] — 2013-10-16 · B
+- [[works/taiwaneseamerican-org/register-for-the-12th-international-culture-tour-of-taiwan|Register for the 12th International Culture Tour of Taiwan]] — 2013-10-15 · B
+- [[works/taiwaneseamerican-org/experium-with-taiwanese-american-professionals-in-chicago|Experium with Taiwanese American Professionals in Chicago]] — 2013-10-15 · B
+- [[works/taiwaneseamerican-org/olympic-day-with-overseas-taiwanese-in-il|Olympic Day with Overseas Taiwanese in IL]] — 2013-10-13 · B
+- [[works/taiwaneseamerican-org/hawaii-international-film-festival-presents-100-days-directed-by-henry-chan|Hawaii International Film Festival Presents “100 Days” Directed by Henry Chan]] — 2013-10-13 · B
+- [[works/taiwaneseamerican-org/hawaii-international-film-festival-presents-100-days-directed-by-henry-chan-2|Hawaii International Film Festival Presents "100 Days" Directed by Henry Chan]] — 2013-10-13 · B
+- [[works/taiwaneseamerican-org/taiwan-democracy-discussion-with-fapa-in-norcal|Taiwan Democracy Discussion with FAPA in NorCal]] — 2013-10-12 · B
+- [[works/taiwaneseamerican-org/join-tap-in-seattle-for-a-linsanity-screening|Join TAP in Seattle for a LINSANITY Screening]] — 2013-10-12 · B
+- [[works/taiwaneseamerican-org/corn-maze-with-tacl-lyf-in-davis-ca|Corn Maze with TACL-LYF in Davis, CA]] — 2013-10-12 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-students-club-night-market-at-uiuc|Taiwanese American Students Club Night Market at UIUC]] — 2013-10-11 · B
+- [[works/taiwaneseamerican-org/linsanity-documentary|LINSANITY Documentary Opens in Theaters across the Nation]] — 2013-10-11 · B
+- [[works/taiwaneseamerican-org/join-tap-in-boston-for-a-linsanity-screening|Join TAP in Boston for a LINSANITY Screening]] — 2013-10-11 · B
+- [[works/taiwaneseamerican-org/watch-theater-with-tap-in-ny|Watch Theater with TAP in NY]] — 2013-10-10 · B
+- [[works/taiwaneseamerican-org/singer-songwriter-priska-performs-in-socal|Singer-Songwriter Priska Performs in SoCal]] — 2013-10-09 · B
+- [[works/taiwaneseamerican-org/tap-chicago-10-10-celebration-dinner|TAP-Chicago 10-10 Celebration Dinner]] — 2013-10-08 · B
+- [[works/taiwaneseamerican-org/join-chicago-tap-for-a-linsanity-screening|Join Chicago TAP for a LINSANITY Screening]] — 2013-10-06 · B
+- [[works/taiwaneseamerican-org/free-screening-of-will-you-still-love-me-tomorrow-in-dc|Free Screening of Will You Still Love Me Tomorrow? in DC]] — 2013-10-06 · B
+- [[works/taiwaneseamerican-org/wen-sinn-yang-cello-performance-in-la|Wen-Sinn Yang Cello Performance in LA]] — 2013-10-05 · B
+- [[works/taiwaneseamerican-org/tap-chicago-project-vision-e2-80-99s-6th-annual-fall-soiree-silent-auction|TAP-Chicago & Project: VISION’s 6th Annual Fall Soiree & Silent Auction]] — 2013-10-05 · B
+- [[works/taiwaneseamerican-org/linsanity-opening-weekend-charity-party-in-sf|LINSANITY Opening Weekend Charity Party in SF]] — 2013-10-05 · B
+- [[works/taiwaneseamerican-org/join-tap-sf-in-south-bay-for-a-linsanity-screening|Join TAP-SF in South Bay for a LINSANITY Screening]] — 2013-10-05 · B
+- [[works/taiwaneseamerican-org/join-tap-in-ny-for-a-linsanity-screening|Join TAP in NY for a LINSANITY Screening]] — 2013-10-05 · B
+- [[works/taiwaneseamerican-org/join-tap-in-la-for-a-linsanity-screening|Join TAP in LA for a LINSANITY Screening]] — 2013-10-05 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-bethesda-md|TAPpy Hour in Bethesda, MD]] — 2013-10-04 · B
+- [[works/taiwaneseamerican-org/join-tap-in-dc-for-a-linsanity-screening|Join TAP in DC for a LINSANITY Screening]] — 2013-10-04 · B
+- [[works/taiwaneseamerican-org/singer-songwriter-cynthia-lin-video-release-party|Singer-songwriter Cynthia Lin Video Release Party]] — 2013-10-03 · B
+- [[works/taiwaneseamerican-org/a-chat-with-brian-yang-on-acting-producing-and-taiwanese-parents|A Chat with Brian Yang on Acting, Producing, and Taiwanese Parents]] — 2013-10-03 · A
+- [[works/taiwaneseamerican-org/uc-irvine-tao-hosts-boba-social|UC Irvine TAO Hosts Boba Social]] — 2013-10-02 · B
+- [[works/taiwaneseamerican-org/uc-davis-tao-hosts-first-general-meeting|UC Davis TAO Hosts First General Meeting]] — 2013-10-02 · B
+- [[works/taiwaneseamerican-org/mid-autumn-dinner-with-fapa-ypg-norcal|Mid-Autumn Dinner with FAPA-YPG NorCal]] — 2013-10-02 · B
+- [[works/taiwaneseamerican-org/museum-day-live-taiwan-celebration-in-ny|Museum Day Live Taiwan Celebration in NY]] — 2013-09-28 · B
+- [[works/taiwaneseamerican-org/glo-leadership-conference-fall-2013-in-berkeley-ca|GLO Leadership Conference Fall 2013 in Berkeley, CA]] — 2013-09-27 · B
+- [[works/taiwaneseamerican-org/nice-girls-crew-season-2-screening-in-la|Nice Girls Crew Season 2 Screening in LA]] — 2013-09-26 · B
+- [[works/taiwaneseamerican-org/follow-your-passion-singer-songwriter-cynthia-lin|Follow Your Passion: Singer-songwriter Cynthia Lin]] — 2013-09-25 · B
+- [[works/taiwaneseamerican-org/golf-outing-with-tjccc-and-taccgc-in-chicago|Golf Outing with TJCCC and TACCGC in Chicago]] — 2013-09-22 · B
+- [[works/taiwaneseamerican-org/cooking-dumplings-with-tap-in-dc|Cooking Dumplings with TAP in DC]] — 2013-09-22 · B
+- [[works/taiwaneseamerican-org/conversation-with-taiwan-activist-gerrit-van-der-wees-in-ca|Conversation with Taiwan Activist Gerrit van der Wees in CA]] — 2013-09-22 · B
+- [[works/taiwaneseamerican-org/basketball-team-with-tap-in-ny|Basketball Team with TAP in NY]] — 2013-09-22 · B
+- [[works/taiwaneseamerican-org/networking-brunch-with-tap-in-boston|Networking Brunch with TAP in Boston]] — 2013-09-21 · B
+- [[works/taiwaneseamerican-org/talking-taiwan-interview-with-hochie-tsai|Talking Taiwan Interview with Ho Chie Tsai, Founder of TaiwaneseAmerican.org]] — 2013-09-20 · A
+- [[works/taiwaneseamerican-org/mooncake-festival-hike-with-tap-in-sd|Mooncake Festival Hike with TAP in SD]] — 2013-09-20 · B
+- [[works/taiwaneseamerican-org/apply-to-the-strait-talk-symposium-at-brown-university|Apply to the Strait Talk Symposium at Brown University]] — 2013-09-20 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-la-7|TAPpy Hour in LA]] — 2013-09-18 · B
+- [[works/taiwaneseamerican-org/taiwanese-home-style-cooking-with-tap-in-la|Taiwanese Home-style Cooking with TAP in LA]] — 2013-09-15 · B
+- [[works/taiwaneseamerican-org/tacc-business-expo-in-socal|TACC Business Expo in SoCal]] — 2013-09-15 · B
+- [[works/taiwaneseamerican-org/meet-and-greet-with-tap-leadership-in-sf|Meet and Greet with TAP Leadership in SF]] — 2013-09-15 · B
+- [[works/taiwaneseamerican-org/keep-taiwan-free-march-and-rally-in-ny|Keep Taiwan Free March and Rally in NY]] — 2013-09-14 · B
+- [[works/taiwaneseamerican-org/hyphen-hosts-between-the-sheets-authorwriter-event-in-nyc|Hyphen Hosts “Between the Sheets” Author/Writer Event in NYC]] — 2013-09-14 · B
+- [[works/taiwaneseamerican-org/hyphen-hosts-between-the-sheets-authorwriter-event-in-nyc-2|Hyphen Hosts "Between the Sheets" Author/Writer Event in NYC]] — 2013-09-14 · B
+- [[works/taiwaneseamerican-org/ghost-month-party-with-taps-in-seattle|Ghost Month Party with TAPS in Seattle]] — 2013-09-14 · B
+- [[works/taiwaneseamerican-org/ecc-2013-final-competition-day-in-ny|ECC 2013 Final Competition Day in NY]] — 2013-09-14 · B
+- [[works/taiwaneseamerican-org/baseball-night-with-tap-in-dc|Baseball Night with TAP in DC]] — 2013-09-14 · B
+- [[works/taiwaneseamerican-org/annual-bbq-picnic-with-tap-in-chicago|Annual BBQ Picnic with TAP in Chicago]] — 2013-09-14 · B
+- [[works/taiwaneseamerican-org/1st-and-2nd-gen-life-experience-seminar-in-sd|1st and 2nd Gen Life Experience Seminar in SD]] — 2013-09-14 · B
+- [[works/taiwaneseamerican-org/johnny-hi-fi-and-nate-tao-perform-in-la|Johnny Hi-Fi and Nate Tao perform in LA]] — 2013-09-13 · B
+- [[works/taiwaneseamerican-org/happy-hour-with-chicago-taiwanese-american-professionals-4|Happy Hour with Chicago Taiwanese American Professionals]] — 2013-09-12 · B
+- [[works/taiwaneseamerican-org/taiwanese-food-and-language-night-in-ny|Taiwanese Food and Language Night in NY]] — 2013-09-10 · B
+- [[works/taiwaneseamerican-org/itasa-stories-connect-inspire-and-empower|ITASA Stories: Connect, Inspire, and Empower]] — 2013-09-10 · A
+- [[works/taiwaneseamerican-org/taiwan-week-movie-night-in-ny|Taiwan Week Movie Night in NY]] — 2013-09-09 · B
+- [[works/taiwaneseamerican-org/running-and-biking-at-taiwan-week-in-ny|Running and Biking at Taiwan Week in NY]] — 2013-09-08 · B
+- [[works/taiwaneseamerican-org/meet-the-third-prince-at-taiwan-week-in-ny|Meet the Third Prince at Taiwan Week in NY]] — 2013-09-07 · B
+- [[works/taiwaneseamerican-org/made-in-taiwan-concert-in-ny|“Made in Taiwan” Concert Kicks Off Taiwan Week in NY]] — 2013-09-06 · B
+- [[works/taiwaneseamerican-org/made-in-taiwan-concert-in-ny-2|"Made in Taiwan" Concert Kicks Off Taiwan Week in NY]] — 2013-09-06 · B
+- [[works/taiwaneseamerican-org/tasc-family-introduction-at-uiuc-for-students|TASC Family Introduction at UIUC for Students]] — 2013-09-05 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-boston|TAPpy Hour in Boston]] — 2013-09-05 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-dc-5|TAPpy Hour in DC]] — 2013-09-04 · B
+- [[works/taiwaneseamerican-org/magic-continues-at-tacl-lid-camp|Magic Continues at TACL-LID Camp]] — 2013-09-04 · A
+- [[works/taiwaneseamerican-org/banquet-casino-night-hosted-by-taiwanese-american-professionals-in-san-francisco|Banquet & Casino Night Hosted by Taiwanese American Professionals in San Francisco]] — 2013-08-31 · B
+- [[works/taiwaneseamerican-org/go-grandriders-screenings-and-tour-through-california|Go Grandriders Screenings and Tour through California]] — 2013-08-29 · B
+- [[works/taiwaneseamerican-org/beach-activities-bbq-with-taiwanese-american-chamber-of-commerce-of-greater-chic|Beach Activities & BBQ with Taiwanese American Chamber of Commerce of Greater Chicago]] — 2013-08-25 · B
+- [[works/taiwaneseamerican-org/tap-chicago-volunteer-day-with-lincoln-park-conservatory-north-pond|TAP-Chicago Volunteer Day with Lincoln Park Conservatory & North Pond]] — 2013-08-24 · B
+- [[works/taiwaneseamerican-org/fapa-ypg-annual-advocacy-conference-in-washington-dc|FAPA-YPG Annual Advocacy Conference in Washington DC]] — 2013-08-24 · B
+- [[works/taiwaneseamerican-org/what-would-you-tell-allie|What Would You Tell Allie, a 6 Year-Old Taiwanese American Adoptee?]] — 2013-08-23 · A
+- [[works/taiwaneseamerican-org/tap-dc-professional-workshop-networking-techniques-and-skills|TAP-DC Professional Workshop: Networking Techniques and Skills]] — 2013-08-22 · B
+- [[works/taiwaneseamerican-org/stringing-together-success-an-interview-with-vania-king|Stringing Together Success: An Interview with Vania King]] — 2013-08-21 · A
+- [[works/taiwaneseamerican-org/tap-seattle-mid-summer-picnic|TAP-Seattle Mid-Summer Picnic]] — 2013-08-17 · B
+- [[works/taiwaneseamerican-org/9th-annual-banquet-and-casino-night-with-tap-in-la|9th Annual Banquet and Casino Night with TAP in LA]] — 2013-08-17 · B
+- [[works/taiwaneseamerican-org/taiwaneseamerican-org-co-presents-taiwan-films-at-caamfest-san-jose|TaiwaneseAmerican.org Co-Presents Taiwan Films at CAAMFest San Jose]] — 2013-08-16 · B
+- [[works/taiwaneseamerican-org/tap-chicago-fan-august-happy-hour|TAP-Chicago & FAN August Happy Hour]] — 2013-08-15 · B
+- [[works/taiwaneseamerican-org/first-time-homebuyers-seminar-with-taiwanese-junior-chamber-of-commerce-chicago|First-time Homebuyers Seminar with Taiwanese Junior Chamber of Commerce Chicago]] — 2013-08-15 · B
+- [[works/taiwaneseamerican-org/now-accepting-2013-2014-natwa-ii-internship-program-applications|Now Accepting 2013-2014 NATWA II Internship Program Applications]] — 2013-08-12 · B
+- [[works/taiwaneseamerican-org/jtasa-norcal-beachboardwalk-summer-meet-up|JTASA NorCal: Beach/Boardwalk Summer Meet-Up]] — 2013-08-10 · B
+- [[works/taiwaneseamerican-org/tap-sf-watches-the-giants-vs-orioles|TAP-SF watches the Giants vs. Orioles]] — 2013-08-09 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-san-diego-6|TAPpy Hour in San Diego]] — 2013-08-08 · B
+- [[works/taiwaneseamerican-org/tap-seattle-august-limjiuhappy-hour|TAP-Seattle August LimJiu/Happy Hour]] — 2013-08-08 · B
+- [[works/taiwaneseamerican-org/tap-sf-co-hosts-happy-hour-with-naaap-sf-and-pbb-sf|TAP-SF Co-hosts happy hour with NAAAP-SF and PbB SF]] — 2013-08-08 · B
+- [[works/taiwaneseamerican-org/the-2013-taiwanese-american-summer-camp-season-begins-register-now|The 2013 Taiwanese American Summer Camp Season Begins! Register Now!]] — 2013-08-07 · B
+- [[works/taiwaneseamerican-org/register-for-tacl-e2-80-99s-2013-leadership-identity-development-lid-camp|Register for TACL’s 2013 Leadership Identity Development (LID) Camp]] — 2013-08-07 · B
+- [[works/taiwaneseamerican-org/fundraiser-and-mixer-with-tap-la-and-mta|Fundraiser and Mixer with TAP-LA and MTA]] — 2013-08-07 · B
+- [[works/taiwaneseamerican-org/tappy-hour-with-tap-dc-in-arlington-va|TAPpy Hour with TAP-DC in Arlington, VA]] — 2013-08-06 · B
+- [[works/taiwaneseamerican-org/summer-olympics-with-tap-in-ny|Summer Olympics with TAP in NY]] — 2013-08-04 · B
+- [[works/taiwaneseamerican-org/hiking-with-taps-in-seattle|Hiking with TAPS in Seattle]] — 2013-08-04 · B
+- [[works/taiwaneseamerican-org/3rd-annual-tap-olympics-in-ny|3rd Annual TAP Olympics in NY]] — 2013-08-04 · B
+- [[works/taiwaneseamerican-org/2013-miss-taiwanese-american-pageant|2013 Miss Taiwanese American Pageant]] — 2013-08-03 · B
+- [[works/taiwaneseamerican-org/submit-your-immigration-story-to-tacls-twelve-percent-project|Submit your Immigration Story to TACL’s Twelve Percent Project]] — 2013-08-02 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-ny-9|TAPpy Hour in NY]] — 2013-07-31 · B
+- [[works/taiwaneseamerican-org/how-you-can-help-the-entrepreneur-challenge-and-competition-grow|How You Can Help the Entrepreneur Challenge and Competition Grow]] — 2013-07-31 · B
+- [[works/taiwaneseamerican-org/enter-the-213-entrepreneur-challenge-competition-in-ny-2|Enter the 213 Entrepreneur Challenge & Competition in NY]] — 2013-07-31 · B
+- [[works/taiwaneseamerican-org/enter-the-213-entrepreneur-challenge-competition-in-ny|Enter the 2013 Entrepreneur Challenge & Competition in NY]] — 2013-07-31 · B
+- [[works/taiwaneseamerican-org/resume-workshop-with-tap-in-dc|Resume Workshop with TAP in DC]] — 2013-07-30 · B
+- [[works/taiwaneseamerican-org/taiwanese-brunch-with-tap-in-chicago|Taiwanese Brunch with TAP in Chicago]] — 2013-07-28 · B
+- [[works/taiwaneseamerican-org/register-for-the-taiwanese-american-foundation-taf-2013-summer-conference|Register for the Taiwanese American Foundation (TAF) 2013 Summer Conference]] — 2013-07-28 · B
+- [[works/taiwaneseamerican-org/public-speaking-event-with-tap-in-sd|Public Speaking Event with TAP in SD]] — 2013-07-28 · B
+- [[works/taiwaneseamerican-org/lunch-with-natwa-ii-in-la|Lunch with NATWA II in LA]] — 2013-07-28 · B
+- [[works/taiwaneseamerican-org/fundraising-dinner-for-the-tacl-political-internship-program-in-md|Fundraising Dinner for the TACL Political Internship Program in MD]] — 2013-07-28 · B
+- [[works/taiwaneseamerican-org/community-service-opportunity-with-taps-in-seattle|Community Service Opportunity with TAPS in Seattle]] — 2013-07-28 · A
+- [[works/taiwaneseamerican-org/community-service-event-with-tap-in-dc|Community Service Event with TAP in DC]] — 2013-07-28 · A
+- [[works/taiwaneseamerican-org/twin-oaks-tour-with-tap-in-dc|Twin Oaks Tour with TAP in DC]] — 2013-07-27 · B
+- [[works/taiwaneseamerican-org/natma-2g-talent-show-in-la|NATMA 2G Talent Show in LA]] — 2013-07-27 · B
+- [[works/taiwaneseamerican-org/gala-benefit-concert-with-tjccc-in-chicago|Gala Benefit Concert with TJCCC in Chicago]] — 2013-07-27 · B
+- [[works/taiwaneseamerican-org/car-wash-fundraiser-for-tacl-lid-in-socal|Car Wash Fundraiser for TACL-LID in SoCal]] — 2013-07-27 · B
+- [[works/taiwaneseamerican-org/joint-mixer-with-tap-and-tajccnc-in-norcal|Joint Mixer with TAP and TAJCCNC in NorCal]] — 2013-07-25 · B
+- [[works/taiwaneseamerican-org/taiwanese-language-class-with-tacc-in-la|Taiwanese Language Class with TACC in LA]] — 2013-07-24 · B
+- [[works/taiwaneseamerican-org/linsanity-documentary-screening-with-tap-in-ny|Linsanity Documentary Screening with TAP in NY]] — 2013-07-24 · B
+- [[works/taiwaneseamerican-org/yacht-party-with-taps-in-seattle|Yacht Party with TAPS in Seattle]] — 2013-07-20 · B
+- [[works/taiwaneseamerican-org/tang-yuan-cooking-workshop-with-tap-in-ny|Tang Yuan Cooking Workshop with TAP in NY]] — 2013-07-20 · B
+- [[works/taiwaneseamerican-org/karaoke-night-with-tap-in-dc|Karaoke Night with TAP in DC]] — 2013-07-20 · B
+- [[works/taiwaneseamerican-org/hiking-with-tap-in-sf|Hiking with TAP in SF]] — 2013-07-20 · B
+- [[works/taiwaneseamerican-org/beach-bonfire-bbq-with-tap-in-sd|Beach Bonfire BBQ with TAP in SD]] — 2013-07-20 · B
+- [[works/taiwaneseamerican-org/taiwanese-films-at-dallas-asian-film-festival|Taiwanese Films at Dallas Asian Film Festival]] — 2013-07-18 · B
+- [[works/taiwaneseamerican-org/join-tap-and-kollaboration-in-chicago-for-a-happy-hour-mixer|Join TAP and Kollaboration in Chicago for a Happy Hour Mixer]] — 2013-07-17 · B
+- [[works/taiwaneseamerican-org/fresh-off-the-boat-book-discussion-with-tap-in-ny|“Fresh Off the Boat” Book Discussion with TAP in NY]] — 2013-07-16 · B
+- [[works/taiwaneseamerican-org/movie-screening-with-chicago-taiwanese-american-professionals|Movie Screening with Chicago Taiwanese American Professionals]] — 2013-07-16 · B
+- [[works/taiwaneseamerican-org/fresh-off-the-boat-book-discussion-with-tap-in-ny-2|"Fresh Off the Boat" Book Discussion with TAP in NY]] — 2013-07-16 · B
+- [[works/taiwaneseamerican-org/symphony-in-the-park-with-tap-in-ny|Symphony in the Park with TAP in NY]] — 2013-07-15 · B
+- [[works/taiwaneseamerican-org/mock-interview-workshop-with-tap-in-sf|Mock Interview Workshop with TAP in SF]] — 2013-07-13 · A
+- [[works/taiwaneseamerican-org/tappy-hour-in-la-6|TAPpy Hour in LA]] — 2013-07-12 · B
+- [[works/taiwaneseamerican-org/2013-taiwanese-american-conference-west-coast|2013 Taiwanese American Conference – West Coast]] — 2013-07-12 · B
+- [[works/taiwaneseamerican-org/limjiu-happy-hour-with-taps-of-seattle|LimJiu Happy Hour with TAPS of Seattle]] — 2013-07-11 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-dc-4|TAPpy Hour in DC]] — 2013-07-10 · B
+- [[works/taiwaneseamerican-org/taiwanese-aboriginal-childrens-choir-performs-in-norcal|Taiwanese Aboriginal Children’s Choir Performs in NorCal]] — 2013-07-06 · B
+- [[works/taiwaneseamerican-org/taiwanese-aboriginal-childrens-choir-performs-in-norcal-2|Taiwanese Aboriginal Children's Choir Performs in NorCal]] — 2013-07-06 · B
+- [[works/taiwaneseamerican-org/register-for-taiwanese-american-next-generation-tang-2013-east-coast-conference|Register for Taiwanese American Next Generation (TANG) 2013 East Coast Conference]] — 2013-07-03 · B
+- [[works/taiwaneseamerican-org/weekly-writing-workshop-fundraiser|Weekly Writing Workshop Fundraiser]] — 2013-07-01 · B
+- [[works/taiwaneseamerican-org/2013-ncsalt-11th-kid-e2-80-99s-culture-summer-camp|2013 NCSALT 11th Kid’s Culture Summer Camp]] — 2013-07-01 · B
+- [[works/taiwaneseamerican-org/twin-oaks-estate-tour-with-tap-in-dc|Twin Oaks Estate Tour with TAP in DC]] — 2013-06-29 · B
+- [[works/taiwaneseamerican-org/disoriented-comedy-show-in-la|Dis/orient/ed Comedy Show in LA]] — 2013-06-29 · B
+- [[works/taiwaneseamerican-org/bbq-and-hiking-with-tap-in-dc|BBQ and Hiking with TAP in DC]] — 2013-06-29 · B
+- [[works/taiwaneseamerican-org/food-drive-and-mixer-with-taiwanese-americans-in-la|Food Drive and Mixer with Taiwanese Americans in LA]] — 2013-06-26 · B
+- [[works/taiwaneseamerican-org/tap-chicago-happy-hour|TAP-Chicago Happy Hour]] — 2013-06-25 · B
+- [[works/taiwaneseamerican-org/strawberry-picking-with-tap-in-sd|Strawberry Picking with TAP in SD]] — 2013-06-22 · B
+- [[works/taiwaneseamerican-org/paintball-event-with-tap-in-dc|Paintball Event with TAP in DC]] — 2013-06-22 · B
+- [[works/taiwaneseamerican-org/hiking-with-taps-in-wa|Hiking with TAPS in WA]] — 2013-06-22 · B
+- [[works/taiwaneseamerican-org/ettv-top-idol-contest-application|ETTV Top Idol Contest Application]] — 2013-06-22 · B
+- [[works/taiwaneseamerican-org/tjcc-board-meeting-and-elections-in-atlanta|TJCC Board Meeting and Elections in Atlanta]] — 2013-06-20 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-ny-8|TAPpy Hour in NY]] — 2013-06-20 · B
+- [[works/taiwaneseamerican-org/register-for-leading-youth-forward-tacl-lyf-2013-summer-camp|Register for Leading Youth Forward (TACL-LYF) 2013 Summer Camp]] — 2013-06-19 · B
+- [[works/taiwaneseamerican-org/rediscovering-ramen-toki-underground|Rediscovering Ramen: A Chat with Toki Underground’s Chef-Owner Erik Bruner-Yang]] — 2013-06-17 · A
+- [[works/taiwaneseamerican-org/michelle-krusiec-performs-made-in-taiwan-excerpt-in-la|Michelle Krusiec Performs Made in Taiwan Excerpt in LA]] — 2013-06-17 · B
+- [[works/taiwaneseamerican-org/tap-theme-party-in-sf-the-great-tapsy|TAP theme party in SF: The Great TAPsy]] — 2013-06-15 · B
+- [[works/taiwaneseamerican-org/summer-rafting-with-tcaa-nc|Summer Rafting with TCAA-NC]] — 2013-06-15 · B
+- [[works/taiwaneseamerican-org/natma-2g-information-session-in-norcal|NATMA 2G Information Session in NorCal]] — 2013-06-15 · B
+- [[works/taiwaneseamerican-org/blood-drive-with-tap-in-seattle|Blood Drive with TAP in Seattle]] — 2013-06-15 · B
+- [[works/taiwaneseamerican-org/bike-tour-with-tap-in-dc|Bike Tour with TAP in DC]] — 2013-06-15 · B
+- [[works/taiwaneseamerican-org/life-sketch-gene-luen-yang|Life Sketch: Gene Luen Yang]] — 2013-06-14 · A
+- [[works/taiwaneseamerican-org/happy-hour-with-taps-in-seattle-4|Happy Hour with TAPS in Seattle]] — 2013-06-13 · B
+- [[works/taiwaneseamerican-org/blood-drive-with-tjccc-in-chicago|Blood Drive with TJCCC in Chicago]] — 2013-06-07 · B
+- [[works/taiwaneseamerican-org/wine-tasting-with-tap-in-san-diego|Wine Tasting with TAP in San Diego]] — 2013-06-01 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-heritage-week-performance-in-ny|Taiwanese American Heritage Week Performance in NY]] — 2013-06-01 · B
+- [[works/taiwaneseamerican-org/community-service-opportunity-with-tap-in-ny|Community Service Opportunity with TAP in NY]] — 2013-06-01 · A
+- [[works/taiwaneseamerican-org/julie-wu-presents-the-third-son-novel-at-harvard|Julie Wu Presents “The Third Son” Novel at Harvard]] — 2013-05-31 · B
+- [[works/taiwaneseamerican-org/julie-wu-presents-the-third-son-novel-at-harvard-2|Julie Wu Presents "The Third Son" Novel at Harvard]] — 2013-05-31 · B
+- [[works/taiwaneseamerican-org/celebrating-the-closing-night-of-apa-heritage-month-in-sf|Celebrating the Closing Night of APA Heritage Month in SF]] — 2013-05-31 · B
+- [[works/taiwaneseamerican-org/ta-bakery-owner-joanne-chang-signs-book-at-harvard|TA Bakery Owner Joanne Chang Signs Book at Harvard]] — 2013-05-30 · B
+- [[works/taiwaneseamerican-org/happy-hour-with-tap-in-chicago-3|Happy Hour with TAP in Chicago]] — 2013-05-30 · B
+- [[works/taiwaneseamerican-org/happy-hour-with-tajcc-in-ca|Happy Hour with TAJCC in CA]] — 2013-05-30 · B
+- [[works/taiwaneseamerican-org/hello-taiwan-east-coast-tour|“Hello Taiwan” East Coast Tour]] — 2013-05-26 · B
+- [[works/taiwaneseamerican-org/passport-to-taiwan-festival-in-new-york|Passport to Taiwan Festival in New York]] — 2013-05-26 · B
+- [[works/taiwaneseamerican-org/hello-taiwan-east-coast-tour-2|"Hello Taiwan" East Coast Tour]] — 2013-05-26 · B
+- [[works/taiwaneseamerican-org/almost-home-taiwan-documentary-preview-in-boston|“Almost Home: Taiwan” Documentary Preview in Boston]] — 2013-05-24 · B
+- [[works/taiwaneseamerican-org/almost-home-taiwan-documentary-preview-in-boston-2|"Almost Home: Taiwan" Documentary Preview in Boston]] — 2013-05-24 · B
+- [[works/taiwaneseamerican-org/tap-bostons-first-annual-banquet|TAP Boston’s First Annual Banquet]] — 2013-05-23 · B
+- [[works/taiwaneseamerican-org/tap-bostons-first-annual-banquet-2|TAP Boston's First Annual Banquet]] — 2013-05-23 · B
+- [[works/taiwaneseamerican-org/movie-screening-with-tap-in-chicago|Movie Screening with TAP in Chicago]] — 2013-05-23 · B
+- [[works/taiwaneseamerican-org/dinner-series-with-tap-in-dc|Dinner Series with TAP in DC]] — 2013-05-22 · B
+- [[works/taiwaneseamerican-org/happy-hour-with-taps-in-seattle-3|Happy Hour with TAPS in Seattle]] — 2013-05-21 · B
+- [[works/taiwaneseamerican-org/taiwanese-heritage-celebration-violin-concert|Taiwanese Heritage Celebration Violin Concert]] — 2013-05-19 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-heritage-week-festival-in-la-2|Taiwanese American Heritage Week Festival in LA]] — 2013-05-19 · B
+- [[works/taiwaneseamerican-org/volunteer-opportunity-with-tap-in-dc-2|Volunteer Opportunity with TAP in DC]] — 2013-05-18 · B
+- [[works/taiwaneseamerican-org/taiwanese-night-market-in-seattle|Taiwanese Night Market in Seattle]] — 2013-05-18 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-benefit-concert-at-ucla|Taiwanese American Benefit Concert at UCLA]] — 2013-05-18 · B
+- [[works/taiwaneseamerican-org/tap-parents-and-kids-meetup-in-san-diego|TAP Parents and Kids Meetup in San Diego]] — 2013-05-18 · B
+- [[works/taiwaneseamerican-org/taiwan-101-workshop-for-ucla-students|Taiwan 101 Workshop for UCLA Students]] — 2013-05-16 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-ny-7|TAPpy Hour in NY]] — 2013-05-16 · B
+- [[works/taiwaneseamerican-org/loops-of-yarn|Loops of Yarn]] — 2013-05-15 · A
+- [[works/taiwaneseamerican-org/taiwanese-night-market-at-ucla|Taiwanese Night Market at UCLA]] — 2013-05-14 · B
+- [[works/taiwaneseamerican-org/the-100-mothers-and-daughters-project|The 100 Mothers and Daughters Project]] — 2013-05-12 · B
+- [[works/taiwaneseamerican-org/the-making-of-the-taiwanese-american-identity|The Making of the Taiwanese American Identity]] — 2013-05-11 · A
+- [[works/taiwaneseamerican-org/taiwanese-night-market-at-stanford|Taiwanese Night Market at Stanford]] — 2013-05-11 · B
+- [[works/taiwaneseamerican-org/taiwanese-night-market-events|Taiwanese Night Market Events]] — 2013-05-11 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-cultural-festival-in-sf|Taiwanese American Cultural Festival in SF]] — 2013-05-11 · B
+- [[works/taiwaneseamerican-org/ba-zhang-making-dinner-with-tap-in-dc|Ba Zhang Making Dinner with TAP in DC]] — 2013-05-11 · B
+- [[works/taiwaneseamerican-org/annual-uw-night-market-in-seattle|Annual UW Night Market in Seattle]] — 2013-05-11 · B
+- [[works/taiwaneseamerican-org/taiwanese-oyster-omelette-reduxe|Taiwanese Oyster Omelette Reduxe]] — 2013-05-10 · A
+- [[works/taiwaneseamerican-org/karaoke-night-with-tap-in-la|Karaoke Night with TAP in LA]] — 2013-05-10 · B
+- [[works/taiwaneseamerican-org/taiwanese-language-workshop-in-la|Taiwanese Language Workshop in LA]] — 2013-05-09 · B
+- [[works/taiwaneseamerican-org/joint-tappy-hour-in-sf|Joint TAPpy Hour in SF]] — 2013-05-09 · B
+- [[works/taiwaneseamerican-org/flipping-the-taiwanese-oyster-omelette|Flipping Out: An Irreverent Photo Essay on Making the Taiwanese Oyster Omelette]] — 2013-05-09 · A
+- [[works/taiwaneseamerican-org/touch-of-the-light-movie-with-tap-in-la|Touch of the Light Movie with TAP in LA]] — 2013-05-06 · B
+- [[works/taiwaneseamerican-org/photography-contest-for-taiwanese-american-heritage-week-at-ucla|Photography Contest for Taiwanese American Heritage Week at UCLA]] — 2013-05-05 · B
+- [[works/taiwaneseamerican-org/10th-anniversary-banquet-with-berkeley-tasa|10th Anniversary Banquet with Berkeley TASA]] — 2013-05-05 · B
+- [[works/taiwaneseamerican-org/taiwanese-heritage-week-acrobat-show-in-indianapolis|Taiwanese Heritage Week Acrobat Show in Indianapolis]] — 2013-05-04 · B
+- [[works/taiwaneseamerican-org/book-release-party-with-tap-in-chicago|Book Release Party with TAP in Chicago]] — 2013-05-04 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-medical-association-offers-1000-scholarships|Taiwanese American Medical Association Offers $1000 Scholarships]] — 2013-05-01 · B
+- [[works/taiwaneseamerican-org/celebrate-asian-pacific-american-heritage-month-and-taiwanese-american-heritage-|Celebrate Asian Pacific American Heritage Month and Taiwanese American Heritage Week!]] — 2013-05-01 · B
+- [[works/taiwaneseamerican-org/timothy-den-of-ohvaur|“A Memories Chase” With Timothy Den of Ohvaur]] — 2013-04-28 · A
+- [[works/taiwaneseamerican-org/taiwanese-canadian-author-julia-lin-speaks-in-norcal|Taiwanese Canadian Author Julia Lin Speaks in NorCal]] — 2013-04-28 · B
+- [[works/taiwaneseamerican-org/cooking-taiwanese-food-with-tap-in-sd|Cooking Taiwanese Food with TAP in SD]] — 2013-04-28 · B
+- [[works/taiwaneseamerican-org/timothy-den-of-ohvaur-2|"A Memories Chase" With Timothy Den of Ohvaur]] — 2013-04-28 · A
+- [[works/taiwaneseamerican-org/itasa-mixer-at-uc-davis|ITASA Mixer at UC Davis]] — 2013-04-27 · B
+- [[works/taiwaneseamerican-org/college-workshop-series-in-sf-bay-area|College Workshop Series in SF Bay Area]] — 2013-04-27 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-ny-6|TAPpy Hour in NY]] — 2013-04-25 · B
+- [[works/taiwaneseamerican-org/tappy-hour-fundraiser-in-san-diego|TAPpy Hour Fundraiser in San Diego]] — 2013-04-25 · B
+- [[works/taiwaneseamerican-org/networking-hour-with-tajcc-in-sf-bay-area|Networking Hour with TAJCC in SF Bay Area]] — 2013-04-25 · B
+- [[works/taiwaneseamerican-org/happy-hour-in-chicago|Happy Hour in Chicago]] — 2013-04-25 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-irvine-ca|TAPpy Hour in Irvine, CA]] — 2013-04-24 · B
+- [[works/taiwaneseamerican-org/personal-finance-seminar-with-tap-in-ny|Personal Finance Seminar with TAP in NY]] — 2013-04-24 · B
+- [[works/taiwaneseamerican-org/julie-wu-the-third-son|An Interview with Julie Wu, Author of The Third Son]] — 2013-04-23 · A
+- [[works/taiwaneseamerican-org/itasa-fundraiser-taiwan-necklace-project-and-formosa-treasures|ITASA Fundraiser: Taiwan Necklace Project and Formosa Treasures]] — 2013-04-21 · B
+- [[works/taiwaneseamerican-org/out-of-taiwan-photograph-exhibit-in-socal|“Out of Taiwan” Photograph Exhibit in SoCal]] — 2013-04-20 · B
+- [[works/taiwaneseamerican-org/night-market-at-johns-hopkins-university-in-md|Night Market at Johns Hopkins University in MD]] — 2013-04-20 · B
+- [[works/taiwaneseamerican-org/earth-day-volunteer-opportunity-with-tap-in-sd|Earth Day Volunteer Opportunity with TAP in SD]] — 2013-04-20 · B
+- [[works/taiwaneseamerican-org/out-of-taiwan-photograph-exhibit-in-socal-2|"Out of Taiwan" Photograph Exhibit in SoCal]] — 2013-04-20 · B
+- [[works/taiwaneseamerican-org/tacl-leadership-conference-spring-2013-in-austin-tx|TACL Leadership Conference Spring 2013 in Austin, TX]] — 2013-04-19 · B
+- [[works/taiwaneseamerican-org/north-america-taiwanese-womens-association-national-convention-to-be-hosted-in-l|North America Taiwanese Women’s Association National Convention to be Hosted in LA]] — 2013-04-19 · B
+- [[works/taiwaneseamerican-org/night-market-event-with-tap-in-ny|Night Market Event with TAP in NY]] — 2013-04-19 · B
+- [[works/taiwaneseamerican-org/linsanity-movie-night-with-tap-in-sd|Linsanity Movie Night with TAP in SD]] — 2013-04-18 · B
+- [[works/taiwaneseamerican-org/happy-hour-with-taps-in-seattle-2|Happy Hour with TAPS in Seattle]] — 2013-04-18 · B
+- [[works/taiwaneseamerican-org/cold-war-politicization-conference-hosted-by-ut-austin|Cold War Politicization Conference hosted by UT Austin]] — 2013-04-18 · B
+- [[works/taiwaneseamerican-org/social-mixer-with-tap-in-la|Social Mixer with TAP in LA]] — 2013-04-17 · B
+- [[works/taiwaneseamerican-org/race-in-america-forum-with-chancellor-frank-h-wu-in-sf|Race in America: Forum with Chancellor Frank H. Wu in SF]] — 2013-04-17 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-dc-3|TAPpy Hour in DC]] — 2013-04-15 · B
+- [[works/taiwaneseamerican-org/register-for-the-2013-itasa-regional-conferences|Register for the 2013 ITASA Regional Conferences]] — 2013-04-14 · B
+- [[works/taiwaneseamerican-org/hike-with-tap-in-san-diego|Hike with TAP in San Diego]] — 2013-04-14 · B
+- [[works/taiwaneseamerican-org/monthly-vigil-for-taiwan-in-ma|Monthly Vigil for Taiwan in MA]] — 2013-04-13 · B
+- [[works/taiwaneseamerican-org/tsa-karaoke-contest-in-berkeley|TSA Karaoke Contest in Berkeley]] — 2013-04-12 · B
+- [[works/taiwaneseamerican-org/2013-itasa-midwest-conference-at-the-ohio-state-university|2013 ITASA Midwest Conference at The Ohio State University]] — 2013-04-12 · B
+- [[works/taiwaneseamerican-org/tass-night-market-at-nyu|TASS Night Market at NYU]] — 2013-04-11 · B
+- [[works/taiwaneseamerican-org/social-mixer-with-tap-and-naaap-in-sf|Social Mixer with TAP and NAAAP in SF]] — 2013-04-10 · B
+- [[works/taiwaneseamerican-org/2013-strait-talk-symposium-in-berkeley|2013 Strait Talk Symposium in Berkeley]] — 2013-04-10 · B
+- [[works/taiwaneseamerican-org/strait-talk-peace-symposium-in-sf|Strait Talk Peace Symposium in SF]] — 2013-04-08 · B
+- [[works/taiwaneseamerican-org/itasa-20th-anniversary-alumni-reunion-at-ucla|ITASA 20th Anniversary Alumni Reunion at UCLA]] — 2013-04-06 · B
+- [[works/taiwaneseamerican-org/community-service-event-with-tap-at-ucsf|Community Service Event with TAP at UCSF]] — 2013-04-06 · A
+- [[works/taiwaneseamerican-org/community-panel-with-tap-at-ucla|Community Panel with TAP at UCLA]] — 2013-04-06 · A
+- [[works/taiwaneseamerican-org/taiwanese-american-community-scholarship-awards|Taiwanese American Community Scholarship Awards]] — 2013-04-05 · A
+- [[works/taiwaneseamerican-org/2013-itasa-west-coast-conference-at-ucla|2013 ITASA West Coast Conference at UCLA]] — 2013-04-04 · B
+- [[works/taiwaneseamerican-org/bowling-with-tap-in-la-2|Bowling with TAP in LA]] — 2013-04-02 · B
+- [[works/taiwaneseamerican-org/volunteer-at-a-martial-arts-tournament-with-tap-in-berkeley|Volunteer at a Martial Arts Tournament with TAP in Berkeley]] — 2013-03-30 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-ny-5|TAPpy Hour in NY]] — 2013-03-28 · B
+- [[works/taiwaneseamerican-org/networking-hour-with-tajcc-in-norcal-2|Networking Hour with TAJCC in NorCal]] — 2013-03-28 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-la-5|TAPpy Hour in LA]] — 2013-03-26 · B
+- [[works/taiwaneseamerican-org/fashion-trending-with-designer-jason-wu|Fashion Trending with Designer Jason Wu]] — 2013-03-26 · A
+- [[works/taiwaneseamerican-org/volunteer-opportunity-with-tap-in-dc|Volunteer Opportunity with TAP in DC]] — 2013-03-24 · B
+- [[works/taiwaneseamerican-org/taiwaneseamerican-org-co-presents-three-films-at-caamfest-in-san-francisco|TaiwaneseAmerican.org Co-presents Three Films at CAAMfest in San Francisco]] — 2013-03-23 · B
+- [[works/taiwaneseamerican-org/meet-taiwanese-american-state-controller-john-chiang-in-norcal|Meet Taiwanese American State Controller John Chiang in NorCal]] — 2013-03-22 · B
+- [[works/taiwaneseamerican-org/johnny-hi-fi-tours-thewest-coast|Johnny Hi-Fi Tours The West Coast]] — 2013-03-21 · B
+- [[works/taiwaneseamerican-org/happy-hour-with-taps-in-seattle|Happy Hour with TAPS in Seattle]] — 2013-03-21 · B
+- [[works/taiwaneseamerican-org/fashion-designer-jason-wu-showcases-new-collection|Fashion Designer Jason Wu Showcases New Collection]] — 2013-03-21 · B
+- [[works/taiwaneseamerican-org/learning-taiwanese-with-tap-in-la|Learning Taiwanese with TAP in LA]] — 2013-03-20 · B
+- [[works/taiwaneseamerican-org/seattle-disoriented-comedy-show|Seattle: Dis/orient/ed Comedy Show]] — 2013-03-16 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-the-oc|TAPpy Hour in the OC]] — 2013-03-15 · B
+- [[works/taiwaneseamerican-org/apply-to-the-2013-formosa-foundation-ambassador-program|Apply to the 2013 Formosa Foundation Ambassador Program]] — 2013-03-15 · B
+- [[works/taiwaneseamerican-org/linsanity-documentary-opens-caamfest-in-san-francisco|LINSANITY Documentary Opens CAAMfest in San Francisco]] — 2013-03-14 · B
+- [[works/taiwaneseamerican-org/happy-hour-with-tap-in-chicago-2|Happy Hour with TAP in Chicago]] — 2013-03-14 · B
+- [[works/taiwaneseamerican-org/finding-myself-through-the-taiwanese-american-community|Finding Myself through the Taiwanese American Community]] — 2013-03-14 · A
+- [[works/taiwaneseamerican-org/volunteer-open-house-with-tap-in-ny|Volunteer Open House with TAP in NY]] — 2013-03-13 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-sf-bay-area-5|TAPpy Hour in SF Bay Area]] — 2013-03-13 · B
+- [[works/taiwaneseamerican-org/shaved-ice-night-with-tao-at-uc-davis|Shaved Ice Night with TAO at UC Davis]] — 2013-03-13 · B
+- [[works/taiwaneseamerican-org/town-hall-social-with-taiwanese-student-activist-lin-fei-fan-in-socal|Town Hall Social with Taiwanese Student Activist Lin Fei-Fan in SoCal]] — 2013-03-09 · B
+- [[works/taiwaneseamerican-org/snowboarding-and-skiing-with-tap-in-dc|Snowboarding and Skiing with TAP in DC]] — 2013-03-09 · B
+- [[works/taiwaneseamerican-org/big-sibs-program-with-tap-in-chicago|Big Sibs Program with TAP in Chicago]] — 2013-03-09 · B
+- [[works/taiwaneseamerican-org/dear-jeremy-lin|Dear Jeremy Lin…]] — 2013-03-08 · B
+- [[works/taiwaneseamerican-org/wine-and-dessert-tasting-with-tap-in-chicago|Wine and Dessert Tasting with TAP in Chicago]] — 2013-03-07 · B
+- [[works/taiwaneseamerican-org/erhu-rock-band-the-hsu-nami-plays-in-brooklyn|Erhu Rock Band The Hsu-Nami Plays in Brooklyn]] — 2013-03-07 · B
+- [[works/taiwaneseamerican-org/dress-for-success-with-tap-dc|Dress for Success with TAP-DC]] — 2013-03-07 · B
+- [[works/taiwaneseamerican-org/tap-sf-professional-workshop-negotiations|TAP-SF Professional Workshop: Negotiations]] — 2013-03-05 · B
+- [[works/taiwaneseamerican-org/career-development-seminar-with-tap-in-la|Career Development Seminar with TAP in LA]] — 2013-03-05 · B
+- [[works/taiwaneseamerican-org/ai-jen-poo-inspiring-across-generations|Ai-jen Poo: Inspiring Across Generations]] — 2013-03-04 · A
+- [[works/taiwaneseamerican-org/planning-meeting-for-tacl-lyf-summer-camp-in-norcal|Planning Meeting for TACL-LYF Summer Camp in NorCal]] — 2013-03-02 · B
+- [[works/taiwaneseamerican-org/new-york-228-memorial-concert|New York 228 Memorial Concert]] — 2013-03-02 · B
+- [[works/taiwaneseamerican-org/community-service-event-with-tap-in-chicago|Community Service Event with TAP in Chicago]] — 2013-03-02 · A
+- [[works/taiwaneseamerican-org/co-ed-flag-football-with-tap-ny|Co-Ed Flag Football with TAP-NY]] — 2013-03-02 · B
+- [[works/taiwaneseamerican-org/reflections-and-echoes-of-228|Reflections and Echoes of 228]] — 2013-02-28 · A
+- [[works/taiwaneseamerican-org/network-hour-with-tajcc-nc-in-norcal|Network Hour with TAJCC-NC in NorCal]] — 2013-02-28 · B
+- [[works/taiwaneseamerican-org/commemorate-228-by-changing-your-facebook-photo|Commemorate 228 by Changing Your Facebook Photo]] — 2013-02-28 · B
+- [[works/taiwaneseamerican-org/66th-commemorative-concert-for-228-in-socal|66th Commemorative Concert for 228 in SoCal]] — 2013-02-28 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-ang-lee-wins-best-director-academy-award-for-life-of-pi|Taiwanese American Ang Lee Wins Best Director Academy Award for Life of Pi]] — 2013-02-25 · A
+- [[works/taiwaneseamerican-org/tajcc-nc-lantern-festival-in-sf-bay-area|TAJCC-NC Lantern Festival in SF Bay Area]] — 2013-02-24 · B
+- [[works/taiwaneseamerican-org/accepting-applications-for-2013-tacl-summer-political-internship-program|Accepting Applications for 2013 TACL Summer Political Internship Program]] — 2013-02-24 · B
+- [[works/taiwaneseamerican-org/2013-lantern-festival-and-night-market-at-uc-irvine|2013 Lantern Festival and Night Market at UC Irvine]] — 2013-02-24 · B
+- [[works/taiwaneseamerican-org/jtasa-bowling-social-norcal|JTASA Bowling Social NorCal]] — 2013-02-23 · B
+- [[works/taiwaneseamerican-org/228-memorial-concert-and-discussion-in-sf-bay-area|228 Memorial Concert and Discussion in SF Bay Area]] — 2013-02-23 · B
+- [[works/taiwaneseamerican-org/2013-lunar-new-year-celebration-with-chicago-tap|2013 Lunar New Year Celebration with Chicago TAP]] — 2013-02-23 · B
+- [[works/taiwaneseamerican-org/watch-houston-rockets-vs-brooklyn-net-with-tap-in-ny|Watch Houston Rockets vs Brooklyn Nets with TAP in NY]] — 2013-02-22 · B
+- [[works/taiwaneseamerican-org/tasa-tea-pong-at-university-of-michigan|TASA Tea Pong at University of Michigan]] — 2013-02-22 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-ny-4|TAPpy Hour in NY]] — 2013-02-21 · B
+- [[works/taiwaneseamerican-org/midwestern-roots|Midwestern Roots]] — 2013-02-20 · A
+- [[works/taiwaneseamerican-org/itasa-20th-anniversary-alumni-celebration|ITASA 20th Anniversary Alumni Celebration]] — 2013-02-15 · B
+- [[works/taiwaneseamerican-org/annual-ski-and-snowboardtrip-with-tap-in-la|Annual Ski and Snowboard Trip with TAP in LA]] — 2013-02-15 · B
+- [[works/taiwaneseamerican-org/2013-tacl-lid-winter-camp-in-socal|2013 TACL-LID Winter Camp in SoCal]] — 2013-02-15 · B
+- [[works/taiwaneseamerican-org/2013-itasa-east-coast-conference-in-new-york|2013 ITASA East Coast Conference in New York]] — 2013-02-14 · B
+- [[works/taiwaneseamerican-org/happy-hour-with-chicago-taiwanese-american-professionals-3|Happy Hour with Chicago Taiwanese American Professionals]] — 2013-02-13 · B
+- [[works/taiwaneseamerican-org/tap-in-chicago-helps-to-feed-the-homeless|TAP in Chicago Helps to Feed the Homeless]] — 2013-02-10 · B
+- [[works/taiwaneseamerican-org/lunar-new-year-hot-pot-dinner-with-tap-in-sd|Lunar New Year Hot Pot Dinner with TAP in SD]] — 2013-02-10 · B
+- [[works/taiwaneseamerican-org/lunar-new-year-party-hosted-by-tjcc-miami|Lunar New Year Party Hosted by TJCC Miami]] — 2013-02-09 · B
+- [[works/taiwaneseamerican-org/johnny-hi-fi-performs-live-in-la-2|Johnny Hi-Fi Performs Live in LA]] — 2013-02-09 · B
+- [[works/taiwaneseamerican-org/community-service-event-with-tap-in-la-2|Community Service Event with TAP in LA]] — 2013-02-09 · A
+- [[works/taiwaneseamerican-org/celebrate-lunar-new-year-with-taps-in-seattle|Celebrate Lunar New Year with TAPS in Seattle]] — 2013-02-09 · B
+- [[works/taiwaneseamerican-org/celebrate-lunar-new-year-with-tap-in-sf|Celebrate Lunar New Year with TAP in SF]] — 2013-02-09 · B
+- [[works/taiwaneseamerican-org/tap-ktv-night-in-nyc|TAP KTV Night in NYC]] — 2013-02-08 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-dc-2|TAPpy Hour in DC]] — 2013-02-07 · B
+- [[works/taiwaneseamerican-org/tappy-hour-with-tap-in-sf|TAPpy Hour with TAP in SF]] — 2013-02-06 · B
+- [[works/taiwaneseamerican-org/american-citizens-for-taiwan-taiwan-policy-act-2013-introduced|American Citizens for Taiwan: Taiwan Policy Act 2013 Introduced]] — 2013-02-06 · B
+- [[works/taiwaneseamerican-org/sf-interview-with-celebrity-chef-eddie-huang-author-of-fresh-off-the-boat-a-memo|SF Interview with Celebrity Chef Eddie Huang, Author of Fresh Off the Boat: A Memoir]] — 2013-02-04 · A
+- [[works/taiwaneseamerican-org/roots-and-leaves|Roots and Leaves]] — 2013-02-03 · A
+- [[works/taiwaneseamerican-org/the-san-francisco-symphony-performs-tyzen-hsiaos-the-angel-from-formosa|The San Francisco Symphony Performs Tyzen Hsiao’s “The Angel from Formosa”]] — 2013-02-02 · B
+- [[works/taiwaneseamerican-org/celebrate-taps-annual-lunar-new-year-dinner-in-la|Celebrate TAP’s Annual Lunar New Year Dinner in LA]] — 2013-02-02 · B
+- [[works/taiwaneseamerican-org/celebrate-taps-6th-annual-lunar-new-year-banquet-in-ny|Celebrate TAP’s 6th Annual Lunar New Year Banquet in NY]] — 2013-02-02 · B
+- [[works/taiwaneseamerican-org/celebrate-taps-annual-lunar-new-year-dinner-in-la-2|Celebrate TAP's Annual Lunar New Year Dinner in LA]] — 2013-02-02 · B
+- [[works/taiwaneseamerican-org/celebrate-taps-6th-annual-lunar-new-year-banquet-in-ny-2|Celebrate TAP's 6th Annual Lunar New Year Banquet in NY]] — 2013-02-02 · B
+- [[works/taiwaneseamerican-org/austin-taiwanese-association-2013-lunar-new-year-celebration|Austin Taiwanese Association 2013 Lunar New Year Celebration]] — 2013-02-02 · B
+- [[works/taiwaneseamerican-org/watch-an-all-female-asian-american-comedy-show-with-tap-in-la|Watch an All-Female Asian American Comedy Show with TAP in LA]] — 2013-01-31 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-san-diego-5|TAPpy Hour in San Diego]] — 2013-01-30 · B
+- [[works/taiwaneseamerican-org/linsanity-documentary-film-premieres-at-sundance-film-festival|Linsanity Documentary Film Premieres at Sundance Film Festival]] — 2013-01-27 · B
+- [[works/taiwaneseamerican-org/ski-and-snowboard-with-taps-in-seattle|Ski and Snowboard with TAPS in Seattle]] — 2013-01-26 · B
+- [[works/taiwaneseamerican-org/kick-off-social-with-jtasa-in-socal|Kick-off Social with JTASA in SoCal]] — 2013-01-26 · B
+- [[works/taiwaneseamerican-org/learn-beginning-ballet-with-tap-in-chicago|Learn Beginning Ballet With TAP in Chicago]] — 2013-01-25 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-nyc-5|TAPpy Hour in NYC]] — 2013-01-24 · B
+- [[works/taiwaneseamerican-org/join-tap-for-an-entrepreneur-chat-in-norcal|Join TAP For an Entrepreneur Chat in NorCal]] — 2013-01-24 · B
+- [[works/taiwaneseamerican-org/erin-lis-to-the-bone-screens-at-slamdance-film-festival|Erin Li’s “To the Bone” Screens at Slamdance Film Festival]] — 2013-01-23 · B
+- [[works/taiwaneseamerican-org/where-in-the-world-is-your-favorite-bubble-tea|Where in the World is (Your Favorite) Bubble Tea?]] — 2013-01-21 · B
+- [[works/taiwaneseamerican-org/bike-ride-with-tap-in-san-diego|Bike Ride with TAP in San Diego]] — 2013-01-21 · B
+- [[works/taiwaneseamerican-org/the-tofu-not-eaten|The Tofu Not Eaten]] — 2013-01-20 · A
+- [[works/taiwaneseamerican-org/public-speaking-skills-workshop-with-chicago-tap|Public Speaking Skills Workshop with Chicago TAP]] — 2013-01-20 · B
+- [[works/taiwaneseamerican-org/karaoke-night-with-tap-in-san-diego|Karaoke Night with TAP in San Diego]] — 2013-01-20 · B
+- [[works/taiwaneseamerican-org/tacl-national-midterm-retreat-kick-off-party-in-san-diego|TACL National Midterm Retreat Kick-Off Party in San Diego]] — 2013-01-19 · B
+- [[works/taiwaneseamerican-org/karaoke-idol-with-tap-in-sf-bay-area|Karaoke Idol with TAP in SF Bay Area]] — 2013-01-18 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-sf-bay-area-4|TAPpy Hour in SF Bay Area]] — 2013-01-17 · B
+- [[works/taiwaneseamerican-org/happy-hour-with-taps-in-seattle-wa|Happy Hour with TAPS in Seattle, WA]] — 2013-01-17 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-washington-dc-3|TAPpy Hour in Washington DC]] — 2013-01-16 · B
+- [[works/taiwaneseamerican-org/university-of-michigan-tasa-mass-meeting|University of Michigan TASA Mass Meeting]] — 2013-01-15 · B
+- [[works/taiwaneseamerican-org/professional-sales-skill-development-seminar-with-tap-in-chicago|Professional Sales Skill Development Seminar with TAP in Chicago]] — 2013-01-15 · B
+- [[works/taiwaneseamerican-org/fitness-conditioning-with-chicago-taiwanese-american-professionals|Fitness Conditioning with Chicago Taiwanese American Professionals]] — 2013-01-13 · B
+- [[works/taiwaneseamerican-org/tacl-lyf-summer-camp-counselor-meeting-in-norcal|TACL-LYF Summer Camp Counselor Meeting in NorCal]] — 2013-01-12 · B
+- [[works/taiwaneseamerican-org/happy-hour-fundraiser-with-chicago-taiwanese-american-professionals|Happy Hour Fundraiser with Chicago Taiwanese American Professionals]] — 2013-01-12 · B
+- [[works/taiwaneseamerican-org/community-service-event-with-tap-in-sf-bay-area|Community Service Event with TAP in SF Bay Area]] — 2013-01-12 · A
+- [[works/taiwaneseamerican-org/community-service-event-with-natwa-ii-in-socal|Community Service Event with NATWA II in SoCal]] — 2013-01-12 · A
+- [[works/taiwaneseamerican-org/community-service-event-with-chicago-tap-and-horizons-for-youth|Community Service Event With Chicago TAP and Horizons For Youth]] — 2013-01-12 · A
+- [[works/taiwaneseamerican-org/advanced-degree-workshop-with-tap-in-dc|Advanced Degree Workshop with TAP in DC]] — 2013-01-12 · B
+- [[works/taiwaneseamerican-org/wizards-vs-rockets-game-with-tap-dc|Wizards vs Rockets Game with TAP-DC]] — 2013-01-11 · B
+- [[works/taiwaneseamerican-org/dinner-topic-discussion-with-tap-in-sf-bay-area|Dinner Topic Discussion with TAP in SF Bay Area]] — 2013-01-10 · B
+- [[works/taiwaneseamerican-org/paperdoll-performs-at-girl-rock-fest-in-ny|PaperDoll Performs at Girl Rock Fest in NY]] — 2013-01-08 · B
+- [[works/taiwaneseamerican-org/build-your-own-terrarium-with-tap-in-sd|Build Your Own Terrarium with TAP in SD]] — 2013-01-06 · B
+- [[works/taiwaneseamerican-org/tacl-lyf-summer-camp-recruitment-information-meeting-in-norcal|TACL-LYF Summer Camp Recruitment Information Meeting in NorCal]] — 2013-01-05 · B
+- [[works/taiwaneseamerican-org/community-service-event-with-tap-in-la|Community Service Event with TAP in LA]] — 2013-01-05 · A
+- [[works/taiwaneseamerican-org/call-for-papers-for-north-american-taiwan-studies-association-annual-conference|Call for Papers for North American Taiwan Studies Association Annual Conference]] — 2013-01-04 · B
+- [[works/taiwaneseamerican-org/hike-with-taiwanese-american-professionals-in-sf|Hike with Taiwanese American Professionals in SF]] — 2013-01-03 · B
+- [[works/taiwaneseamerican-org/johnny-hi-fi-performs-live-in-la|Johnny Hi-Fi Performs Live in LA]] — 2012-12-29 · B
+- [[works/taiwaneseamerican-org/annual-ski-trip-winter-reunion-with-tang|Annual Ski Trip & Winter Reunion with TANG]] — 2012-12-27 · B
+- [[works/taiwaneseamerican-org/annual-ski-trip-winter-reunion-with-tang-2|Annual Ski Trip & Winter Reunion with TANG]] — 2012-12-27 · B
+- [[works/taiwaneseamerican-org/iyca-christmas-cd-album-for-hurricane-sandy|IYCA Christmas CD Album for Hurricane Sandy]] — 2012-12-25 · B
+- [[works/taiwaneseamerican-org/winter-reunion-with-tacl-lyf-in-norcal|Winter Reunion with TACL-LYF in NorCal]] — 2012-12-22 · B
+- [[works/taiwaneseamerican-org/tap-and-tjccc-host-holiday-toy-drive|TAP and TJCCC Host Holiday Toy Drive]] — 2012-12-19 · B
+- [[works/taiwaneseamerican-org/tacl-national-midterm-retreat-planning-in-sd|TACL National Midterm Retreat Planning in SD]] — 2012-12-18 · B
+- [[works/taiwaneseamerican-org/composer-george-shaw-closes-the-year-on-a-high-note|Composer George Shaw Closes the Year on a High Note]] — 2012-12-18 · A
+- [[works/taiwaneseamerican-org/taiwanese-breakfast-with-taiwanese-american-professionals-in-chicago|Taiwanese Breakfast with Taiwanese American Professionals in Chicago]] — 2012-12-16 · B
+- [[works/taiwaneseamerican-org/spoken-word-poet-kelly-zen-yie-tsai-east-coast-performances|Spoken Word Poet Kelly Zen-Yie Tsai East Coast Performances]] — 2012-12-16 · B
+- [[works/taiwaneseamerican-org/taiwanese-singer-wang-ming-zhe-e7-8e-8b-e6-98-8e-e5-93-b2-performs-in-norcal|Taiwanese Singer Wang Ming Zhe 王明哲 Performs in NorCal]] — 2012-12-15 · B
+- [[works/taiwaneseamerican-org/shabu-shabu-with-tap-in-washington-dc|Shabu Shabu with TAP in Washington DC]] — 2012-12-15 · B
+- [[works/taiwaneseamerican-org/holiday-party-with-san-diegos-taiwanese-american-medical-health-professionals|Holiday Party with San Diego’s Taiwanese American Medical & Health Professionals]] — 2012-12-15 · B
+- [[works/taiwaneseamerican-org/community-service-event-with-tap-in-sf|Community Service Event with TAP in SF]] — 2012-12-15 · A
+- [[works/taiwaneseamerican-org/holiday-dinner-with-tap-in-la|Holiday Dinner with TAP in LA]] — 2012-12-14 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-oakland-ca|TAPpy Hour in Oakland, CA]] — 2012-12-13 · B
+- [[works/taiwaneseamerican-org/patrick-wangs-critically-acclaimed-in-the-family-opens-in-select-cities|Patrick Wang’s Critically-acclaimed “In the Family” Opens in Select Cities]] — 2012-12-13 · B
+- [[works/taiwaneseamerican-org/networking-hour-with-tajcc-in-norcal|Networking Hour with TAJCC in NorCal]] — 2012-12-13 · B
+- [[works/taiwaneseamerican-org/arcade-social-with-tap-in-ny|Arcade Social with TAP in NY]] — 2012-12-12 · B
+- [[works/taiwaneseamerican-org/bowling-with-tap-in-la|Bowling with TAP in LA]] — 2012-12-11 · B
+- [[works/taiwaneseamerican-org/tap-ny-women-in-the-city-part-2|TAP-NY Women in the City, Part 2]] — 2012-12-10 · B
+- [[works/taiwaneseamerican-org/public-speaking-workshop-for-chicago-taiwanese-american-professionals|Public Speaking Workshop for Chicago Taiwanese American Professionals]] — 2012-12-09 · B
+- [[works/taiwaneseamerican-org/support-victoria-linchongs-almost-home-taiwan|Support Victoria Linchong’s “Almost Home: Taiwan”]] — 2012-12-08 · B
+- [[works/taiwaneseamerican-org/chicago-taiwanese-american-professionals-community-service-event|Chicago Taiwanese American Professionals Community Service Event]] — 2012-12-08 · A
+- [[works/taiwaneseamerican-org/celebrate-fapas-30th-anniversary-in-sf-bay-area|Celebrate FAPA’s 30th Anniversary in SF Bay Area]] — 2012-12-08 · B
+- [[works/taiwaneseamerican-org/celebrate-fapas-30th-anniversary-in-sf-bay-area-2|Celebrate FAPA's 30th Anniversary in SF Bay Area]] — 2012-12-08 · B
+- [[works/taiwaneseamerican-org/2nd-annual-holiday-bash-with-tap-and-naaap-in-sf|2nd Annual Holiday Bash with TAP and NAAAP in SF]] — 2012-12-06 · B
+- [[works/taiwaneseamerican-org/volunteer-with-tap-for-a-community-service-event-in-sf|Volunteer with TAP for a Community Service Event in SF]] — 2012-12-02 · A
+- [[works/taiwaneseamerican-org/watch-lesley-hu-in-golden-child-with-tap-in-ny|Watch Lesley Hu in Golden Child with TAP in NY]] — 2012-12-01 · B
+- [[works/taiwaneseamerican-org/community-service-event-with-chicago-tap|Community Service Event with Chicago TAP]] — 2012-12-01 · A
+- [[works/taiwaneseamerican-org/annual-meeting-for-taiwanese-american-medical-professionals-in-ny|Annual Meeting for Taiwanese American Medical Professionals in NY]] — 2012-12-01 · B
+- [[works/taiwaneseamerican-org/tasa-at-osu-presents-dumpling-night|TASA at OSU Presents Dumpling Night]] — 2012-11-29 · B
+- [[works/taiwaneseamerican-org/tap-ny-womens-speaker-series-exploring-women-still-cant-have-it-all-event|TAP-NY Women’s Speaker Series: Exploring “Women Still Can’t Have It All” Event]] — 2012-11-29 · B
+- [[works/taiwaneseamerican-org/linsanity-viewing-party-with-tap-in-la|Linsanity Viewing Party with TAP in LA]] — 2012-11-18 · B
+- [[works/taiwaneseamerican-org/iron-chef-series-dumplings-with-tap-in-sf|Iron Chef Series: Dumplings with TAP in SF]] — 2012-11-18 · B
+- [[works/taiwaneseamerican-org/volunteer-with-tap-at-a-community-service-event-in-la|Volunteer with TAP at a Community Service Event in LA]] — 2012-11-17 · A
+- [[works/taiwaneseamerican-org/join-tap-sf-at-prom-2012|Join TAP-SF at Prom 2012]] — 2012-11-17 · B
+- [[works/taiwaneseamerican-org/join-tap-for-a-taiwanese-food-tour-in-dc|Join TAP for a Taiwanese Food Tour in DC]] — 2012-11-17 · B
+- [[works/taiwaneseamerican-org/2012-hello-taiwan-rocks-concert-and-nightmarket|2012 Hello Taiwan Rocks Concert and Nightmarket]] — 2012-11-17 · B
+- [[works/taiwaneseamerican-org/the-films-of-ang-lee|The Films of Ang Lee: A Month of Screenings in Washington DC]] — 2012-11-16 · B
+- [[works/taiwaneseamerican-org/tap-boston-night-out-w-hotel|TAP Boston Night Out @ W Hotel]] — 2012-11-16 · B
+- [[works/taiwaneseamerican-org/karaoke-contest-with-uc-berkeleys-taiwanese-student-association|Karaoke Contest with UC Berkeley’s Taiwanese Student Association]] — 2012-11-16 · B
+- [[works/taiwaneseamerican-org/karaoke-contest-with-uc-berkeleys-taiwanese-student-association-2|Karaoke Contest with UC Berkeley's Taiwanese Student Association]] — 2012-11-16 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-la-4|TAPpy Hour in LA]] — 2012-11-15 · B
+- [[works/taiwaneseamerican-org/tap-movie-night-in-ny-win-free-tix|TAP Movie Night in NY – Win Free Tix]] — 2012-11-15 · B
+- [[works/taiwaneseamerican-org/movie-night-with-tap-in-nyc|Movie Night with TAP in NYC]] — 2012-11-15 · B
+- [[works/taiwaneseamerican-org/happy-hour-with-taiwanese-american-junior-chamber-of-commerce-in-norcal|Happy Hour with Taiwanese American Junior Chamber of Commerce in NorCal]] — 2012-11-15 · B
+- [[works/taiwaneseamerican-org/happy-hour-with-chicago-taiwanese-american-professionals-2|Happy Hour with Chicago Taiwanese American Professionals]] — 2012-11-15 · B
+- [[works/taiwaneseamerican-org/catching-the-invisible-light|Catching the Invisible Light]] — 2012-11-15 · A
+- [[works/taiwaneseamerican-org/ice-skate-with-the-taiwanese-american-students-club-at-uiuc|Ice Skate with the Taiwanese American Students Club at UIUC]] — 2012-11-14 · B
+- [[works/taiwaneseamerican-org/thanksgiving-potluck-with-tap-in-sf|Thanksgiving Potluck with TAP in SF]] — 2012-11-13 · B
+- [[works/taiwaneseamerican-org/tap-hosts-senior-home-visiting-program-in-nyc-chinatown|TAP Hosts Senior Home Visiting Program in NYC Chinatown]] — 2012-11-11 · B
+- [[works/taiwaneseamerican-org/showcase-traveling-taiwan-lessons-from-locals|Showcase: “Traveling Taiwan: Lessons from Locals”]] — 2012-11-11 · B
+- [[works/taiwaneseamerican-org/join-chicago-taiwanese-american-professionals-for-a-taiwanese-breakfast|Join Chicago Taiwanese American Professionals for a Taiwanese Breakfast]] — 2012-11-11 · B
+- [[works/taiwaneseamerican-org/volunteer-with-tap-at-a-community-service-event-in-san-jose|Volunteer with TAP at a Community Service Event in San Jose]] — 2012-11-10 · A
+- [[works/taiwaneseamerican-org/tacl-lyf-hosts-college-workshop-series-admissions|TACL-LYF Hosts College Workshop Series: Admissions]] — 2012-11-10 · B
+- [[works/taiwaneseamerican-org/gus-on-the-go-taiwanese-mandarin-ios-language-learning-apps|Gus on the Go: Taiwanese & Mandarin iOS Language Learning Apps]] — 2012-11-09 · B
+- [[works/taiwaneseamerican-org/tasa-game-night-at-university-of-michigan|TASA Game Night at University of Michigan]] — 2012-11-08 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-mountain-view-ca|TAPpy Hour in Mountain View, CA]] — 2012-11-08 · B
+- [[works/taiwaneseamerican-org/happy-hour-and-thanksgiving-food-drive-with-tap-and-ecaasu-in-dc|Happy Hour and Thanksgiving Food Drive with TAP and ECAASU in DC]] — 2012-11-08 · B
+- [[works/taiwaneseamerican-org/2012-san-diego-asian-american-film-festival-taiwan-film-showcase|2012 San Diego Asian American Film Festival: Taiwan Film Showcase]] — 2012-11-04 · B
+- [[works/taiwaneseamerican-org/skate-night-with-tasa-at-u-of-m-ann-arbor|Skate Night with TASA at U of M, Ann Arbor]] — 2012-11-03 · B
+- [[works/taiwaneseamerican-org/itasa-socal-district-college-seminar-in-la|ITASA SoCal District College Seminar in LA]] — 2012-11-03 · B
+- [[works/taiwaneseamerican-org/dinner-topic-discussion-with-tapfapa-ypg-in-sf-bay-area|Dinner Topic Discussion with TAP/FAPA-YPG in SF Bay Area]] — 2012-11-01 · B
+- [[works/taiwaneseamerican-org/a-dumpling-fundraiser-for-tasa-at-berkeley|A Dumpling Fundraiser for TASA at Berkeley]] — 2012-10-30 · B
+- [[works/taiwaneseamerican-org/chicago-taiwanese-american-professionals-public-speaking-workshop|Chicago Taiwanese American Professionals Public Speaking Workshop]] — 2012-10-29 · B
+- [[works/taiwaneseamerican-org/join-tap-for-an-oktoberfest-in-la|Join TAP for an Oktoberfest in LA]] — 2012-10-27 · B
+- [[works/taiwaneseamerican-org/eremy-lin-the-musical-a-journey-to-linsanity|Jeremy Lin: The Musical (a Journey to LinSanity)]] — 2012-10-27 · B
+- [[works/taiwaneseamerican-org/itasa-leadership-retreat-at-uc-berkeley|ITASA Leadership Retreat at UC Berkeley]] — 2012-10-27 · B
+- [[works/taiwaneseamerican-org/halloween-party-with-chicago-taiwanese-american-professionals|Halloween Party with Chicago Taiwanese American Professionals]] — 2012-10-27 · B
+- [[works/taiwaneseamerican-org/fapa-norcal-annual-meeting-feat-roselyn-hsueh|FAPA NorCal Annual Meeting feat. Roselyn Hsueh]] — 2012-10-27 · B
+- [[works/taiwaneseamerican-org/heylianne|Hey Lianne! How about that Video Interview?]] — 2012-10-25 · A
+- [[works/taiwaneseamerican-org/volunteer-with-taiwanese-american-professionals-in-chicago|Volunteer with Taiwanese American Professionals in Chicago]] — 2012-10-20 · B
+- [[works/taiwaneseamerican-org/mini-olympics-social-with-uci-ucla-taiwanese-american-clubs|Mini Olympics & Social with UCI + UCLA Taiwanese American Clubs]] — 2012-10-20 · B
+- [[works/taiwaneseamerican-org/mini-olympics-social-with-uci-ucla-taiwanese-american-clubs-2|Mini Olympics & Social with UCI + UCLA Taiwanese American Clubs]] — 2012-10-20 · B
+- [[works/taiwaneseamerican-org/claudeo-performs-in-nyc|Claudeo Performs in NYC]] — 2012-10-20 · B
+- [[works/taiwaneseamerican-org/chicago-taiwanese-american-professionals-volunteer-event|Chicago Taiwanese American Professionals Volunteer Event]] — 2012-10-20 · B
+- [[works/taiwaneseamerican-org/tacl-leadership-conference-fall-2012-in-nyc|TACL Leadership Conference Fall 2012 in NYC]] — 2012-10-19 · B
+- [[works/taiwaneseamerican-org/dumpling-night-for-university-of-michigan-tasa|Dumpling Night for University of Michigan TASA]] — 2012-10-19 · B
+- [[works/taiwaneseamerican-org/cmj-taiwan-music-festival-in-ny|CMJ Taiwan Music Festival in NY]] — 2012-10-18 · B
+- [[works/taiwaneseamerican-org/taiwan-update-talk-by-director-general-liao-of-teco-houston|“Taiwan Update” talk by Director General Liao of TECO Houston]] — 2012-10-17 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-arlington-va-3|TAPpy Hour in Arlington, VA]] — 2012-10-17 · B
+- [[works/taiwaneseamerican-org/shenandoah-national-park-hike-with-tap-dc-2|Shenandoah National Park Hike with TAP-DC]] — 2012-10-17 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-san-diego-4|TAPpy Hour in San Diego]] — 2012-10-16 · B
+- [[works/taiwaneseamerican-org/join-chicago-taiwanese-american-professionals-at-project-visions-fall-soiree|Join Chicago Taiwanese American Professionals at Project VISIONS Fall Soiree]] — 2012-10-13 · B
+- [[works/taiwaneseamerican-org/city-scavenger-hunt-with-tap-in-sf|City Scavenger Hunt with TAP in SF]] — 2012-10-13 · B
+- [[works/taiwaneseamerican-org/taiwan-film-days-in-san-francisco|Taiwan Film Days in San Francisco]] — 2012-10-12 · B
+- [[works/taiwaneseamerican-org/tappy-hour-at-the-charleston-in-la|TAPpy Hour at the Charleston in LA]] — 2012-10-11 · B
+- [[works/taiwaneseamerican-org/happy-hour-with-chicago-tap|Happy Hour with Chicago Taiwanese American Professionals]] — 2012-10-11 · B
+- [[works/taiwaneseamerican-org/chinglish|Culture and Language in David Henry Hwang’s ‘Chinglish’]] — 2012-10-11 · A
+- [[works/taiwaneseamerican-org/chinglish-2|Culture and Language in David Henry Hwang's 'Chinglish']] — 2012-10-11 · A
+- [[works/taiwaneseamerican-org/social-media-racism-revisited|Social Media Racism, Revisited]] — 2012-10-07 · A
+- [[works/taiwaneseamerican-org/volunteer-with-tap-at-kids-fishing-day-in-sf-bay-area|Volunteer with TAP at Kids’ Fishing Day in SF Bay Area]] — 2012-10-06 · B
+- [[works/taiwaneseamerican-org/volunteer-with-tap-at-kids-fishing-day-in-sf-bay-area-2|Volunteer with TAP at Kids' Fishing Day in SF Bay Area]] — 2012-10-06 · B
+- [[works/taiwaneseamerican-org/shenandoah-national-park-hike-with-tap-dc|Shenandoah National Park Hike with TAP-DC]] — 2012-10-06 · B
+- [[works/taiwaneseamerican-org/bruncheon-with-bubbles-with-chicago-taiwanese-american-professionals|Bruncheon with Bubbles with Chicago Taiwanese American Professionals]] — 2012-10-06 · B
+- [[works/taiwaneseamerican-org/goohana-means-family|Berkeley Area Show: Go!Ohana Means Family]] — 2012-10-05 · B
+- [[works/taiwaneseamerican-org/10th-annual-taiwanese-night-market-with-tasa-in-texas|10th Annual Taiwanese Night Market with TASA in Texas]] — 2012-10-05 · B
+- [[works/taiwaneseamerican-org/the-modern-a-cappella-group-from-taiwan|The Modern A Cappella Group from Taiwan]] — 2012-10-04 · B
+- [[works/taiwaneseamerican-org/tap-boston-tappy-hour-at-the-forum|TAP Boston TAPpy Hour at the Forum]] — 2012-10-04 · B
+- [[works/taiwaneseamerican-org/on-two-decades-of-blacklava-and-celebrating-the-other|On Two Decades of Blacklava and Celebrating the “Other”: A Taiwanese American Perspective]] — 2012-10-04 · A
+- [[works/taiwaneseamerican-org/uw-taiwanese-student-association-orientation-meeting|UW Taiwanese Student Association Orientation Meeting]] — 2012-10-03 · B
+- [[works/taiwaneseamerican-org/taiwanese-student-association-orientation-at-uw-seattle|Taiwanese Student Association Orientation at UW Seattle]] — 2012-10-03 · B
+- [[works/taiwaneseamerican-org/in-memory-of-my-son-keimay-yang-e2-80-93-a-devoted-supporter-of-itasa|In Memory of my Son, Keimay Yang – A Devoted Supporter of ITASA]] — 2012-10-01 · A
+- [[works/taiwaneseamerican-org/volunteer-with-tap-in-ny|Volunteer with TAP in NY]] — 2012-09-30 · B
+- [[works/taiwaneseamerican-org/vienna-teng-performs-live-in-ann-arbor-mi|Vienna Teng Performs Live in Ann Arbor, MI]] — 2012-09-29 · B
+- [[works/taiwaneseamerican-org/celebrate-mid-autumn-festival-with-taps-in-seattle|Celebrate Mid-Autumn Festival with TAPS in Seattle]] — 2012-09-29 · B
+- [[works/taiwaneseamerican-org/celebrate-mid-autumn-festival-with-chicago-taiwanese-american-professionals|Celebrate Mid-Autumn Festival with Chicago Taiwanese American Professionals]] — 2012-09-29 · B
+- [[works/taiwaneseamerican-org/meet-u-of-ms-tasa-families|Meet U of M’s TASA Families]] — 2012-09-28 · B
+- [[works/taiwaneseamerican-org/meet-u-of-ms-tasa-families-2|Meet U of M's TASA Families]] — 2012-09-28 · B
+- [[works/taiwaneseamerican-org/apply-for-the-2012-strait-talk-symposium-at-brown-university|Apply for the 2012 Strait Talk Symposium at Brown University]] — 2012-09-28 · B
+- [[works/taiwaneseamerican-org/ucis-tao-hosts-first-general-meeting|UCI’s TAO Hosts First General Meeting]] — 2012-09-27 · B
+- [[works/taiwaneseamerican-org/ucis-tao-hosts-first-general-meeting-2|UCI's TAO Hosts First General Meeting]] — 2012-09-27 · B
+- [[works/taiwaneseamerican-org/nyus-tass-hosts-first-general-meeting|NYU’s TASS Hosts First General Meeting]] — 2012-09-27 · B
+- [[works/taiwaneseamerican-org/nyus-tass-hosts-first-general-meeting-2|NYU's TASS Hosts First General Meeting]] — 2012-09-27 · B
+- [[works/taiwaneseamerican-org/moon-cake-tasting-and-movie-night-with-tap-in-sf-bay-area|Moon Cake Tasting and Movie Night with TAP in SF Bay Area]] — 2012-09-27 · B
+- [[works/taiwaneseamerican-org/chicago-taiwanese-american-professionals-hosts-a-dinner-in-the-burbs|Chicago Taiwanese American Professionals Hosts a Dinner in the ‘Burbs]] — 2012-09-27 · B
+- [[works/taiwaneseamerican-org/chicago-taiwanese-american-professionals-hosts-a-dinner-in-the-burbs-2|Chicago Taiwanese American Professionals Hosts a Dinner in the 'Burbs]] — 2012-09-27 · B
+- [[works/taiwaneseamerican-org/music-highlight-totally-blue-feat-fascinoma-and-the-emergency-songs-band|Music Highlight: Totally (Blue) feat. Fascinoma and the Emergency Songs Band]] — 2012-09-25 · B
+- [[works/taiwaneseamerican-org/volunteer-with-tap-for-the-harvest-moon-festival-in-la|Volunteer with TAP for the Harvest Moon Festival in LA]] — 2012-09-23 · B
+- [[works/taiwaneseamerican-org/join-team-taiwan-in-race-for-the-cure-in-la|Join Team Taiwan in Race for the Cure in LA]] — 2012-09-23 · B
+- [[works/taiwaneseamerican-org/volunteer-at-a-community-service-event-with-tap-sf|Volunteer at a Community Service Event with TAP-SF]] — 2012-09-22 · A
+- [[works/taiwaneseamerican-org/taiwan-week-2012-in-nyc|Taiwan Week 2012 in NYC]] — 2012-09-22 · B
+- [[works/taiwaneseamerican-org/tap-boston-networking-dim-sum-brunch|TAP Boston Networking Dim Sum Brunch]] — 2012-09-22 · B
+- [[works/taiwaneseamerican-org/karaoke-contest-hosted-by-tap-in-san-diego|Karaoke Contest Hosted by TAP in San Diego]] — 2012-09-22 · B
+- [[works/taiwaneseamerican-org/autumn-picnic-with-taiwanese-american-professionals-in-ny|Autumn Picnic with Taiwanese American Professionals in NY]] — 2012-09-22 · B
+- [[works/taiwaneseamerican-org/happy-hour-with-taiwanese-american-professionals-society-of-seattle|Happy Hour with Taiwanese American Professionals Society of Seattle]] — 2012-09-21 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-chicago-3|TAPpy Hour in Chicago]] — 2012-09-20 · B
+- [[works/taiwaneseamerican-org/join-tacl-in-learning-taiwanese-with-david-chen-in-la|Join TACL in Learning Taiwanese with David Chen in LA]] — 2012-09-20 · B
+- [[works/taiwaneseamerican-org/chicago-taiwanese-american-professionals-hosts-happy-hour-at-zella|Chicago Taiwanese American Professionals Hosts Happy Hour at Zella]] — 2012-09-20 · B
+- [[works/taiwaneseamerican-org/tacl-taiwanese-american-professionals-tappy-hour-in-chicago|TACL Taiwanese American Professionals TAPpy Hour in Chicago]] — 2012-09-19 · B
+- [[works/taiwaneseamerican-org/first-time-homebuyerowner-seminar-in-chicago|First-time Homebuyer/Owner Seminar in Chicago]] — 2012-09-18 · B
+- [[works/taiwaneseamerican-org/spoken-word-artist-kelly-zen-yie-tsai-performs-in-nyc|Spoken Word Artist Kelly Zen-Yie Tsai Performs in NYC]] — 2012-09-16 · B
+- [[works/taiwaneseamerican-org/chicago-taiwanese-american-professionals-and-junior-chamber-of-commerce-host-bbq|Chicago Taiwanese American Professionals and Junior Chamber of Commerce Host BBQ Beach Party]] — 2012-09-16 · B
+- [[works/taiwaneseamerican-org/volunteer-with-tap-at-asian-youth-services-in-chicago|Volunteer with TAP at Asian Youth Services in Chicago]] — 2012-09-15 · B
+- [[works/taiwaneseamerican-org/taiwan-week-in-nyc-come-meet-the-third-prince|Taiwan Week in NYC: Come Meet the Third Prince]] — 2012-09-15 · B
+- [[works/taiwaneseamerican-org/help-judge-the-final-round-of-the-tap-ny-entrepreneur-challenge-competition-2|Help Judge the Final Round of the TAP-NY Entrepreneur Challenge & Competition]] — 2012-09-15 · B
+- [[works/taiwaneseamerican-org/help-judge-the-final-round-of-the-tap-ny-entrepreneur-challenge-competition|Help Judge the Final Round of the TAP-NY Entrepreneur Challenge & Competition]] — 2012-09-15 · B
+- [[works/taiwaneseamerican-org/felicia-lin-speaks-of-documenting-the-life-of-su-beng-in-ny|Felicia Lin Speaks of Documenting the Life of Su Beng in NY]] — 2012-09-15 · B
+- [[works/taiwaneseamerican-org/cultural-night-with-taiwanese-united-fund|Cultural Night with Taiwanese United Fund]] — 2012-09-15 · B
+- [[works/taiwaneseamerican-org/syhme|The Spoken Word: Say You Heard My Echo]] — 2012-09-14 · A
+- [[works/taiwaneseamerican-org/register-to-vote-with-18-million-rising|Register to Vote with 18 Million Rising!]] — 2012-09-14 · B
+- [[works/taiwaneseamerican-org/university-of-michigan-tasa-invites-students-to-their-mass-meeting|University of Michigan TASA Invites Students to their Mass Meeting]] — 2012-09-13 · B
+- [[works/taiwaneseamerican-org/meet-dc-area-taiwanese-american-professionals-at-tappy-hour|Meet DC area Taiwanese American Professionals at TAPpy Hour]] — 2012-09-13 · B
+- [[works/taiwaneseamerican-org/join-tap-for-a-professional-seminar-in-chicago|Join TAP for a Professional Seminar in Chicago]] — 2012-09-13 · B
+- [[works/taiwaneseamerican-org/indie-electronic-rock-band-claudeo-performs-in-san-jose-ca|Indie Electronic Rock Band Claudeo Performs in San Jose, CA]] — 2012-09-13 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-sf-bay-area-3|TAPpy Hour in SF Bay Area]] — 2012-09-12 · B
+- [[works/taiwaneseamerican-org/to-date-or-not-to-date|To Date or Not to Date]] — 2012-09-11 · A
+- [[works/taiwaneseamerican-org/tw-in-da-house-baohaus-nyc|TW in da House: Baohaus NYC]] — 2012-09-11 · A
+- [[works/taiwaneseamerican-org/welcome-back-to-school|Welcome Back to School! Join ITASA or JTASA!]] — 2012-09-09 · B
+- [[works/taiwaneseamerican-org/kollaboration-sf-2012-at-berkeley-ca|Kollaboration SF 2012 at Berkeley, CA]] — 2012-09-08 · B
+- [[works/taiwaneseamerican-org/the-chairman-and-johnny-hi-fi-perform-in-sf|The Chairman and Johnny Hi-Fi Perform in SF]] — 2012-09-02 · B
+- [[works/taiwaneseamerican-org/join-tap-for-a-bbq-beach-party-in-chicago-2|Join TAP for a BBQ Beach Party in Chicago]] — 2012-09-01 · B
+- [[works/taiwaneseamerican-org/join-tap-for-a-bbq-beach-party-in-chicago|Join TAP for a BBQ Beach Party in Chicago]] — 2012-09-01 · B
+- [[works/taiwaneseamerican-org/benefit-concert-for-taiwan-orphans-in-sf-bay-area|Benefit Concert for Taiwan Orphans in SF Bay Area]] — 2012-09-01 · B
+- [[works/taiwaneseamerican-org/annual-boat-cruise-for-the-tacltap-convention-in-nyc|Annual Boat Cruise for the TACL/TAP Convention in NYC]] — 2012-09-01 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-ny-3|TAPpy Hour in NY]] — 2012-08-31 · B
+- [[works/taiwaneseamerican-org/tacltap-national-convention-2012-in-nyc|TACL/TAP National Convention 2012 in NYC]] — 2012-08-31 · B
+- [[works/taiwaneseamerican-org/singer-songwriter-nate-tao-shares-his-language-of-love|Singer-songwriter Nate Tao Shares his Language of Love]] — 2012-08-31 · A
+- [[works/taiwaneseamerican-org/taiwanese-student-association-at-rice-university-first-general-meeting|Taiwanese Student Association at Rice University First General Meeting]] — 2012-08-30 · B
+- [[works/taiwaneseamerican-org/the-fat-and-the-furious-part-i|The Fat and the Furious, Part I]] — 2012-08-27 · A
+- [[works/taiwaneseamerican-org/join-tap-for-a-luncheon-in-sf|Join TAP for a Luncheon in SF]] — 2012-08-26 · B
+- [[works/taiwaneseamerican-org/v3-digital-media-conference-vision-visibility-voice|V3 Digital Media Conference: Vision. Visibility. Voice.]] — 2012-08-25 · B
+- [[works/taiwaneseamerican-org/tap-sf-supports-macys-shop-for-a-cause-benefiting-apa-students|TAP-SF Supports Macy’s Shop for a Cause Benefiting APA Students]] — 2012-08-25 · B
+- [[works/taiwaneseamerican-org/tap-sf-supports-macys-shop-for-a-cause-benefiting-apa-students-2|TAP-SF Supports Macy's Shop for a Cause Benefiting APA Students]] — 2012-08-25 · B
+- [[works/taiwaneseamerican-org/join-tacls-tap-for-a-karaoke-night-in-chicago|Join TACL’s TAP for a Karaoke Night in Chicago]] — 2012-08-25 · B
+- [[works/taiwaneseamerican-org/join-tacls-tap-for-a-karaoke-night-in-chicago-2|Join TACL's TAP for a Karaoke Night in Chicago]] — 2012-08-25 · B
+- [[works/taiwaneseamerican-org/taiwaneseamerican-org-co-presents-au-revoir-taipei-at-san-jose-summer-showcase|TaiwaneseAmerican.org Co-presents “Au Revoir Taipei” at San Jose Summer Showcase]] — 2012-08-18 · B
+- [[works/taiwaneseamerican-org/tap-8th-annual-banquet-casino-night-in-la-2|TAP 8th Annual Banquet & Casino Night in LA]] — 2012-08-18 · B
+- [[works/taiwaneseamerican-org/tap-8th-annual-banquet-casino-night-in-la|TAP 8th Annual Banquet & Casino Night in LA]] — 2012-08-18 · B
+- [[works/taiwaneseamerican-org/summer-hike-with-tap-in-san-diego|Summer Hike with TAP in San Diego]] — 2012-08-18 · B
+- [[works/taiwaneseamerican-org/movie-night-with-chicago-taiwanese-american-professionals|Movie Night with Chicago Taiwanese American Professionals]] — 2012-08-18 · B
+- [[works/taiwaneseamerican-org/join-tap-for-a-dinner-topic-on-healthcare-in-sf-bay-area|Join TAP for a Dinner Topic on Healthcare in SF Bay Area]] — 2012-08-16 · B
+- [[works/taiwaneseamerican-org/join-chicago-tap-tjccc-for-happy-hour|Join Chicago TAP & TJCCC for Happy Hour]] — 2012-08-16 · B
+- [[works/taiwaneseamerican-org/hyphen-magazine-recruitment-happy-hour|Hyphen Magazine Recruitment Happy Hour]] — 2012-08-16 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-san-diego-3|TAPpy Hour in San Diego]] — 2012-08-15 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-chicago-2|TAPpy Hour in Chicago]] — 2012-08-15 · B
+- [[works/taiwaneseamerican-org/enter-the-tap-ny-entrepreneur-challenge-competition|Enter the TAP-NY Entrepreneur Challenge & Competition]] — 2012-08-15 · B
+- [[works/taiwaneseamerican-org/enter-the-tap-ny-entrepreneur-challenge-competition-2|Enter the TAP-NY Entrepreneur Challenge & Competition]] — 2012-08-15 · B
+- [[works/taiwaneseamerican-org/the-slants-yellow-album-tour-in-the-south|The Slants’ Yellow Album Tour in the South]] — 2012-08-12 · B
+- [[works/taiwaneseamerican-org/the-slants-yellow-album-tour-in-the-south-2|The Slants' Yellow Album Tour in the South]] — 2012-08-12 · B
+- [[works/taiwaneseamerican-org/seeking-bands-musicians-to-perform-at-taiwan-week-in-ny|Seeking Bands/Musicians to Perform at Taiwan Week in NY]] — 2012-08-12 · B
+- [[works/taiwaneseamerican-org/happy-kids-day-2012-in-sf-bay-area|Happy Kids Day 2012 in SF Bay Area]] — 2012-08-11 · B
+- [[works/taiwaneseamerican-org/1st-and-2nd-generation-life-experience-panel-hosted-by-taiwan-center-in-san-dieg|1st and 2nd Generation Life Experience Panel Hosted by Taiwan Center in San Diego]] — 2012-08-11 · B
+- [[works/taiwaneseamerican-org/ambassador-daniel-t-c-liao-speaks-o-the-future-of-taiwan-in-austin-tx|Ambassador Daniel T.C. Liao Speaks on “The Future of Taiwan” in Austin, TX]] — 2012-08-09 · B
+- [[works/taiwaneseamerican-org/ambassador-daniel-t-c-liao-speaks-o-the-future-of-taiwan-in-austin-tx-2|Ambassador Daniel T.C. Liao Speaks on "The Future of Taiwan" in Austin, TX]] — 2012-08-09 · B
+- [[works/taiwaneseamerican-org/register-for-the-fapa-ypg-national-advocacy-conference|Register for the FAPA-YPG National Advocacy Conference]] — 2012-08-08 · B
+- [[works/taiwaneseamerican-org/register-for-tacl-e2-80-99s-2012-leadership-identity-development-lid-camp|Register for TACL’s 2012 Leadership Identity Development (LID) Camp]] — 2012-08-08 · B
+- [[works/taiwaneseamerican-org/taiwan-advocacy-workshop-with-fapatacl-political-interns-in-sfbay-area|Taiwan Advocacy Workshop with FAPA/TACL Political Interns in SF/Bay Area]] — 2012-08-05 · B
+- [[works/taiwaneseamerican-org/tap-volunteers-at-chinatown-summer-street-fest-in-nyc|TAP Volunteers at Chinatown Summer Street Fest in NYC]] — 2012-08-05 · B
+- [[works/taiwaneseamerican-org/join-tap-for-a-cabinet-information-meeting-in-sf|Join TAP for a Cabinet Information Meeting in SF]] — 2012-08-05 · B
+- [[works/taiwaneseamerican-org/join-tap-at-api-equalitys-7th-anniversary-in-la|Join TAP at API-Equality’s 7th Anniversary in LA]] — 2012-08-05 · B
+- [[works/taiwaneseamerican-org/join-tap-at-api-equalitys-7th-anniversary-in-la-2|Join TAP at API-Equality's 7th Anniversary in LA]] — 2012-08-05 · B
+- [[works/taiwaneseamerican-org/formosa-foundation-founder-li-pei-wu-speaks-in-la-area|Formosa Foundation Founder Li-Pei Wu Speaks in LA Area]] — 2012-08-05 · B
+- [[works/taiwaneseamerican-org/learn-to-make-sushi-with-tap-in-san-diego|Learn to Make Sushi with TAP in San Diego]] — 2012-08-04 · B
+- [[works/taiwaneseamerican-org/2012-miss-taiwanese-american-pageant-in-socal|2012 Miss Taiwanese American Pageant in SoCal]] — 2012-08-04 · B
+- [[works/taiwaneseamerican-org/taiwans-chio-tian-folk-drums-arts-troupe-performs-in-nyc|Taiwan’s Chio-Tian Folk Drums & Arts Troupe Performs in NYC]] — 2012-08-03 · B
+- [[works/taiwaneseamerican-org/taiwans-chio-tian-folk-drums-arts-troupe-performs-in-nyc-2|Taiwan's Chio-Tian Folk Drums & Arts Troupe Performs in NYC]] — 2012-08-03 · B
+- [[works/taiwaneseamerican-org/taiwaneseamerican-org-august-2012-update-fathers-day-in-taiwan|TaiwaneseAmerican.org August 2012 Update: Father’s Day in Taiwan]] — 2012-08-02 · B
+- [[works/taiwaneseamerican-org/tap-sf-professional-series-getting-your-mba|TAP-SF Professional Series: Getting Your MBA]] — 2012-08-02 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-sf-2|TAPpy Hour in SF]] — 2012-08-01 · B
+- [[works/taiwaneseamerican-org/register-for-the-taiwanese-american-foundation-taf-2012-summer-conference|Register for the Taiwanese American Foundation (TAF) 2012 Summer Conference]] — 2012-07-29 · B
+- [[works/taiwaneseamerican-org/support-team-taiwan-at-long-beach-dragon-boat-racing-tournament|Support Team Taiwan at Long Beach Dragon Boat Racing Tournament]] — 2012-07-28 · B
+- [[works/taiwaneseamerican-org/join-tap-for-a-taiwanese-night-market-in-sf|Join TAP for a Taiwanese Night Market in SF]] — 2012-07-28 · B
+- [[works/taiwaneseamerican-org/join-tap-for-a-summer-hike-in-san-diego|Join TAP for a Summer Hike in San Diego]] — 2012-07-28 · B
+- [[works/taiwaneseamerican-org/tap-ny-hosts-a-food-series-workshop-and-qa|TAP-NY Hosts a Food Series Workshop and Q&A]] — 2012-07-25 · B
+- [[works/taiwaneseamerican-org/join-tap-for-a-food-series-qa-discussion-in-ny|Join TAP for a Food Series Q&A Discussion in NY]] — 2012-07-25 · B
+- [[works/taiwaneseamerican-org/join-tap-for-a-food-series-qa-discussion-in-ny-2|Join TAP for a Food Series Q&A Discussion in NY]] — 2012-07-25 · B
+- [[works/taiwaneseamerican-org/financial-planning-workshop-with-tap-in-la|Financial Planning Workshop with TAP in LA]] — 2012-07-24 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-womens-association-natwa-ii-hosts-numerology-101-in-arcadia-c|Taiwanese American Women’s Association NATWA II Hosts “Numerology 101” in Arcadia, CA]] — 2012-07-22 · B
+- [[works/taiwaneseamerican-org/taiwanese-chamber-of-commerce-annual-gala-in-miami|Taiwanese Chamber of Commerce Annual Gala in Miami]] — 2012-07-21 · B
+- [[works/taiwaneseamerican-org/taiwan-ink-painting-artist-huang-zhefu-exhibition-and-demo|Taiwan Ink Painting Artist Huang Zhefu Exhibition and Demo]] — 2012-07-21 · B
+- [[works/taiwaneseamerican-org/tap-partners-with-naaap-for-from-geek-to-chic-in-san-diego|TAP Partners with NAAAP for “From Geek to Chic” in San Diego]] — 2012-07-21 · B
+- [[works/taiwaneseamerican-org/tap-partners-with-naaap-for-from-geek-to-chic-in-san-diego-2|TAP Partners with NAAAP for "From Geek to Chic" in San Diego]] — 2012-07-21 · B
+- [[works/taiwaneseamerican-org/join-tap-for-a-taiwanese-styled-bbq-in-sf|Join TAP for a Taiwanese-Styled BBQ in SF]] — 2012-07-21 · B
+- [[works/taiwaneseamerican-org/real-estate-seminar-hosted-by-tap-in-ny|Real Estate Seminar Hosted by TAP in NY]] — 2012-07-20 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-ny-2|TAPpy Hour in NY]] — 2012-07-19 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-dc|TAPpy Hour in DC]] — 2012-07-19 · B
+- [[works/taiwaneseamerican-org/tappy-hour-fundraiser-in-la|TAPpy Hour Fundraiser in LA]] — 2012-07-19 · B
+- [[works/taiwaneseamerican-org/happy-hour-with-chicago-taiwanese-american-professionals|Happy Hour with Chicago Taiwanese American Professionals]] — 2012-07-19 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-san-diego-2|TAPpy Hour in San Diego]] — 2012-07-18 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-chicago|TAPpy Hour in Chicago]] — 2012-07-18 · B
+- [[works/taiwaneseamerican-org/recruiting-organizers-for-un-for-taiwan-rally|Recruiting Organizers for UN for Taiwan Rally]] — 2012-07-15 · B
+- [[works/taiwaneseamerican-org/best-dance-crew-competition-in-la-area|“Best Dance Crew” Competition in LA Area]] — 2012-07-14 · B
+- [[works/taiwaneseamerican-org/tap-ny-beach-a-palooza|TAP-NY Beach-a-Palooza]] — 2012-07-14 · B
+- [[works/taiwaneseamerican-org/paperdoll-headlines-at-mercury-lounge-nyc-2|PaperDoll Headlines at Mercury Lounge, NYC]] — 2012-07-14 · B
+- [[works/taiwaneseamerican-org/join-fapa-ypg-for-an-art-outreach-in-ny|Join FAPA-YPG for an Art Outreach in NY]] — 2012-07-14 · B
+- [[works/taiwaneseamerican-org/disoriented-all-female-asian-american-stand-up-comedy-show-in-la|Dis/orient/ed: All-Female Asian American Stand-up Comedy Show in LA]] — 2012-07-14 · B
+- [[works/taiwaneseamerican-org/best-dance-crew-competition-in-la-area-2|"Best Dance Crew" Competition in LA Area]] — 2012-07-14 · B
+- [[works/taiwaneseamerican-org/asian-rock-fest-2012-in-sf-bay-area|Asian Rock Fest 2012 in SF Bay Area]] — 2012-07-13 · B
+- [[works/taiwaneseamerican-org/view-winning-selections-of-formosart-at-dtla-art-walk|View Winning Selections of FORMOSArt at DTLA Art Walk]] — 2012-07-12 · B
+- [[works/taiwaneseamerican-org/the-soonest-plays-in-sf|The Soonest Plays in SF]] — 2012-07-12 · B
+- [[works/taiwaneseamerican-org/join-chicago-taiwanese-american-professionals-and-network-with-apa-professionals|Join Chicago Taiwanese American Professionals and Network with APA Professionals]] — 2012-07-12 · B
+- [[works/taiwaneseamerican-org/casting-call-for-taiwanese-american-teen-actress-role|Casting Call for Taiwanese American Teen Actress Role]] — 2012-07-12 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-sf|TAPpy Hour in SF]] — 2012-07-11 · B
+- [[works/taiwaneseamerican-org/heart-and-soul-introducing-american-citizens-for-taiwan|Heart and Soul: Introducing American Citizens for Taiwan]] — 2012-07-09 · A
+- [[works/taiwaneseamerican-org/dinner-conversation-with-eric-chang-one-passionate-abt|Dinner Conversation in SF with Eric Chang “One Passionate ABT”]] — 2012-07-09 · B
+- [[works/taiwaneseamerican-org/dinner-conversation-with-eric-chang-one-passionate-abt-2|Dinner Conversation in SF with Eric Chang "One Passionate ABT"]] — 2012-07-09 · B
+- [[works/taiwaneseamerican-org/newcomer-melody-chen-competes-in-kollaboration-chicago|Newcomer Melody Chen Competes in Kollaboration Chicago]] — 2012-07-07 · B
+- [[works/taiwaneseamerican-org/taiwaneseamerican-org-july-2012-update-summer-music-and-soundtracks|TaiwaneseAmerican.org July 2012 Update: Summer Music and Soundtracks]] — 2012-07-02 · B
+- [[works/taiwaneseamerican-org/movie-night-you-are-the-apple-of-my-eye-with-tap-ny|Movie Night “You are the Apple of my Eye” with TAP-NY]] — 2012-07-02 · B
+- [[works/taiwaneseamerican-org/join-guest-speaker-eric-chang|Join Guest Speaker Eric Chang at FAPA-YPG’s Meeting in NY/NJ]] — 2012-07-02 · B
+- [[works/taiwaneseamerican-org/join-guest-speaker-eric-chang-2|Join Guest Speaker Eric Chang at FAPA-YPG's Meeting in NY/NJ]] — 2012-07-02 · B
+- [[works/taiwaneseamerican-org/natma-medical-dental-health-professionals-scholarship|Apply for the NATMA Medical, Dental & Health Professionals Scholarship]] — 2012-07-01 · B
+- [[works/taiwaneseamerican-org/join-tap-for-a-summer-olympics-in-the-bay-area|Join TAP for a Summer Olympics in the Bay Area]] — 2012-06-30 · B
+- [[works/taiwaneseamerican-org/join-tap-for-a-hiking-trip-in-seattle-wa|Join TAP for a Hiking Trip in Seattle, WA]] — 2012-06-30 · B
+- [[works/taiwaneseamerican-org/join-tap-for-a-hiking-bbq-social-in-dc|Join TAP for a Hiking & BBQ Social in DC]] — 2012-06-30 · B
+- [[works/taiwaneseamerican-org/join-tap-for-a-hiking-bbq-social-in-dc-2|Join TAP for a Hiking & BBQ Social in DC]] — 2012-06-30 · B
+- [[works/taiwaneseamerican-org/ettv-american-top-idol-singing-contest-in-ny|ETTV American Top Idol Singing Contest in NY]] — 2012-06-30 · B
+- [[works/taiwaneseamerican-org/celebrate-10-years-of-hyphen-magazine|Celebrate 10 Years of Hyphen Magazine]] — 2012-06-30 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-sf-bay-area-2|TAPpy Hour in SF Bay Area]] — 2012-06-28 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-ny|TAPpy Hour in NY]] — 2012-06-28 · B
+- [[works/taiwaneseamerican-org/register-for-taiwanese-american-next-generation-tang-east-coast-conference|Register for Taiwanese American Next Generation (TANG) East Coast Conference]] — 2012-06-28 · B
+- [[works/taiwaneseamerican-org/join-tap-for-a-communication-workshop-in-sf-bay-area|Join TAP for a Communication Workshop in SF Bay Area]] — 2012-06-26 · B
+- [[works/taiwaneseamerican-org/join-tap-for-a-shaved-ice-night-in-la|Join TAP for a Shaved Ice Night in LA]] — 2012-06-25 · B
+- [[works/taiwaneseamerican-org/volunteer-with-tap-to-cook-a-meal-in-sd|Volunteer with TAP to Cook a Meal in SD]] — 2012-06-24 · B
+- [[works/taiwaneseamerican-org/volunteer-with-tap-at-a-career-summit-in-oakland-ca|Volunteer with TAP at a Career Summit in Oakland, CA]] — 2012-06-23 · B
+- [[works/taiwaneseamerican-org/join-tap-for-a-beach-bonfire-bbq-in-san-diego-ca|Join TAP for a Beach Bonfire & BBQ in San Diego, CA]] — 2012-06-23 · B
+- [[works/taiwaneseamerican-org/join-tap-for-a-beach-bonfire-bbq-in-san-diego-ca-2|Join TAP for a Beach Bonfire & BBQ in San Diego, CA]] — 2012-06-23 · B
+- [[works/taiwaneseamerican-org/join-tuf-for-a-movie-night-in-socal|Join TUF for a Movie Night in SoCal]] — 2012-06-21 · B
+- [[works/taiwaneseamerican-org/2012-taiwanese-american-summer-camp-season|The 2012 Taiwanese American Summer Camp Season Begins! Register Now!]] — 2012-06-20 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-chicago-il-2|TAPpy Hour in Chicago, IL]] — 2012-06-20 · B
+- [[works/taiwaneseamerican-org/register-for-leading-youth-forward-tacl-lyf-summer-camp|Register for Leading Youth Forward (TACL-LYF) Summer Camp]] — 2012-06-20 · B
+- [[works/taiwaneseamerican-org/asians-are-bad-drivers-asians-are-bad-drivers-asians-are-bad-drivers|Asians are Bad Drivers, Asians are Bad Drivers, Asians are Bad Drivers?]] — 2012-06-18 · A
+- [[works/taiwaneseamerican-org/taiwanese-chamber-of-commerce-annual-conference|Taiwanese Chamber of Commerce Annual Conference]] — 2012-06-17 · B
+- [[works/taiwaneseamerican-org/bicycle-tour-of-san-francisco-with-tap-sf|Bicycle Tour of San Francisco with TAP-SF]] — 2012-06-17 · B
+- [[works/taiwaneseamerican-org/urban-farming-with-chicago-taiwanese-american-professionals|Urban Farming with Chicago Taiwanese American Professionals]] — 2012-06-16 · B
+- [[works/taiwaneseamerican-org/taiwan-night-concert-in-la|Taiwan Night Concert in LA]] — 2012-06-16 · B
+- [[works/taiwaneseamerican-org/join-fapa-ypg-for-a-taiwan-outreach-workshop-in-ny|Join FAPA-YPG for a Taiwan Outreach Workshop in NY]] — 2012-06-16 · B
+- [[works/taiwaneseamerican-org/ladies-of-taiwanese-heritage-apply-for-the-2012-miss-taiwanese-american-pageant|Ladies of Taiwanese Heritage: Apply for the 2012 Miss Taiwanese American Pageant]] — 2012-06-15 · B
+- [[works/taiwaneseamerican-org/join-tap-at-a-comedy-night-featuring-eliot-chang-in-ny|Join TAP at a Comedy Night Featuring Eliot Chang in NY]] — 2012-06-15 · B
+- [[works/taiwaneseamerican-org/asia-business-forum-in-illinois|Asia Business Forum in Illinois]] — 2012-06-15 · B
+- [[works/taiwaneseamerican-org/underwoman-and-the-believers-play-in-baltimore-md|Underwoman and the Believers play in Baltimore, MD]] — 2012-06-13 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-sf-bay-area|TAPpy Hour in SF Bay Area]] — 2012-06-13 · B
+- [[works/taiwaneseamerican-org/spoken-word-artist-kelly-zen-yie-tsai-performs-solo-show-in-nyc|Spoken Word Artist Kelly Zen-Yie Tsai Performs Solo Show in NYC]] — 2012-06-12 · B
+- [[works/taiwaneseamerican-org/join-chicago-ta-professionals-for-dragon-boat-racing-at-riverfest|Join Chicago TA Professionals for Dragon Boat Racing at Riverfest]] — 2012-06-10 · B
+- [[works/taiwaneseamerican-org/zongzi-wrapping-party-in-chicago-for-dragon-boat-festival|Zongzi Wrapping Party in Chicago for Dragon Boat Festival]] — 2012-06-09 · B
+- [[works/taiwaneseamerican-org/the-18th-annual-north-american-taiwan-studies-conference|The 18th Annual North American Taiwan Studies Conference]] — 2012-06-09 · B
+- [[works/taiwaneseamerican-org/join-tap-for-a-trail-hike-in-san-diego-ca|Join TAP for a Trail Hike in San Diego, CA]] — 2012-06-09 · B
+- [[works/taiwaneseamerican-org/tappy-hour-social-in-sf|TAPpy Hour Social in SF]] — 2012-06-08 · B
+- [[works/taiwaneseamerican-org/twitter-wars|Twitter Wars]] — 2012-06-07 · A
+- [[works/taiwaneseamerican-org/tappy-hour-fundraiser-in-dc|TAPpy Hour Fundraiser in DC]] — 2012-06-07 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-chicago-il|TAPpy Hour in Chicago, IL]] — 2012-06-06 · B
+- [[works/taiwaneseamerican-org/tap-la-hosts-a-graduate-school-workshop-and-seminar-in-pasadena-ca|TAP-LA Hosts a Graduate School Workshop and Seminar in Pasadena, CA]] — 2012-06-06 · B
+- [[works/taiwaneseamerican-org/camping-trip-with-tap-in-san-diego-ca|Camping Trip with TAP in San Diego, CA]] — 2012-06-03 · B
+- [[works/taiwaneseamerican-org/volunteer-with-tap-at-a-childrens-reading-event-in-la|Volunteer with TAP at a Children’s Reading Event in LA]] — 2012-06-02 · B
+- [[works/taiwaneseamerican-org/volunteer-with-tap-at-a-childrens-reading-event-in-la-2|Volunteer with TAP at a Children's Reading Event in LA]] — 2012-06-02 · B
+- [[works/taiwaneseamerican-org/fapa-general-chapter-meeting-in-san-jose-ca|FAPA General Chapter Meeting in San Jose, CA]] — 2012-06-02 · B
+- [[works/taiwaneseamerican-org/taiwanese-dancer-and-composer-yung-li-chen-performs-in-nyc|Taiwanese Dancer and Composer Yung-Li Chen Performs in NYC]] — 2012-06-01 · B
+- [[works/taiwaneseamerican-org/formosart-2012-images-of-taiwanese-and-taiwanese-american-experiences|FORMOSArt 2012:  Images of Taiwanese and Taiwanese American Experiences]] — 2012-06-01 · B
+- [[works/taiwaneseamerican-org/apa-heritage-month-closing-night-celebration-in-sf-bay-area|APA Heritage Month Closing Night Celebration in SF Bay Area]] — 2012-05-31 · B
+- [[works/taiwaneseamerican-org/join-tap-for-paintball-and-bbq-in-san-diego|Join TAP for Paintball and BBQ in San Diego]] — 2012-05-27 · B
+- [[works/taiwaneseamerican-org/join-passport-to-taiwan-at-the-street-fair-in-ny|Join Passport to Taiwan at “The Street Fair” in NY]] — 2012-05-27 · B
+- [[works/taiwaneseamerican-org/join-passport-to-taiwan-at-the-street-fair-in-ny-2|Join Passport to Taiwan at "The Street Fair" in NY]] — 2012-05-27 · B
+- [[works/taiwaneseamerican-org/join-chicago-ta-professionals-for-karaoke-night|Join Chicago TA Professionals for Karaoke Night]] — 2012-05-26 · B
+- [[works/taiwaneseamerican-org/why-taiwan-matters-an-exhibit-at-sf-main-library|Why Taiwan Matters: An Exhibit at SF Main Library]] — 2012-05-24 · B
+- [[works/taiwaneseamerican-org/taiwanese-conversation-group-in-ny-meet-the-experts|Taiwanese Conversation Group in NY “Meet the Experts”]] — 2012-05-24 · B
+- [[works/taiwaneseamerican-org/taiwanese-conversation-group-in-ny-meet-the-experts-2|Taiwanese Conversation Group in NY "Meet the Experts"]] — 2012-05-24 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-nyc-4|TAPpy Hour in NYC]] — 2012-05-24 · B
+- [[works/taiwaneseamerican-org/streetside-chat-with-author-ed-lin|Streetside Chat with Author Ed Lin]] — 2012-05-24 · A
+- [[works/taiwaneseamerican-org/special-topic-series-hosted-by-tap-in-sf|Special Topic Series Hosted by TAP in SF]] — 2012-05-23 · B
+- [[works/taiwaneseamerican-org/hello-taiwan-east-coast-band-tour|“Hello Taiwan” East Coast Band Tour]] — 2012-05-20 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-heritage-week-festival-in-la|Taiwanese American Heritage Week Festival in LA]] — 2012-05-20 · B
+- [[works/taiwaneseamerican-org/los-angeles-asian-pacific-film-festival-2012|Los Angeles Asian Pacific Film Festival 2012]] — 2012-05-20 · B
+- [[works/taiwaneseamerican-org/a-farewell-and-a-welcome|A Farewell and a Welcome]] — 2012-05-20 · B
+- [[works/taiwaneseamerican-org/join-tsa-and-tosa-at-a-night-market-in-seattle-wa|Join TSA and TOSA at a Night Market in Seattle, WA]] — 2012-05-19 · B
+- [[works/taiwaneseamerican-org/join-tap-sf-at-the-8th-annual-asian-heritage-street-celebration-in-sf|Join TAP-SF at the 8th Annual Asian Heritage Street Celebration in SF]] — 2012-05-19 · B
+- [[works/taiwaneseamerican-org/join-tap-for-a-museum-scavenger-hunt-in-ny|Join TAP for a Museum Scavenger Hunt in NY]] — 2012-05-19 · B
+- [[works/taiwaneseamerican-org/join-tap-at-a-fiesta-asia-social-in-dc|Join TAP at a Fiesta Asia Social in DC]] — 2012-05-19 · B
+- [[works/taiwaneseamerican-org/fiesta-asia-after-party-with-taiwanese-rock-bands-in-dc|Fiesta Asia After-Party with Taiwanese Rock Bands in DC]] — 2012-05-19 · B
+- [[works/taiwaneseamerican-org/tacl-lid-summer-camp-counselor-applications-now-available|TACL-LID Summer Camp Counselor Applications Now Available]] — 2012-05-18 · B
+- [[works/taiwaneseamerican-org/taiwanese-bands-the-chairman-and-red-flower-perform-in-nyc|Taiwanese Bands “The Chairman” and “Red Flower” Perform in NYC]] — 2012-05-17 · B
+- [[works/taiwaneseamerican-org/taiwanese-bands-the-chairman-and-red-flower-perform-in-nyc-2|Taiwanese Bands "The Chairman" and "Red Flower" Perform in NYC]] — 2012-05-17 · B
+- [[works/taiwaneseamerican-org/support-our-sisters-apa-vagina-monologues|Support Our Sisters in The APA Vagina Monologues]] — 2012-05-17 · B
+- [[works/taiwaneseamerican-org/watch-uploaded-the-asian-american-movement-documentary|Watch “UPLOADED: The Asian American Movement” Documentary at LA Asian Pacific Film Fest]] — 2012-05-16 · B
+- [[works/taiwaneseamerican-org/meet-taiwanese-american-mba-alums-in-nyc|Meet Taiwanese American MBA Alums in NYC]] — 2012-05-15 · B
+- [[works/taiwaneseamerican-org/itasa-footprints-e2-80-9cwhat-is-the-one-thing-you-love-about-taiwan-e2-80-9d|ITASA Footprints: “What is the one thing you love about Taiwan?”]] — 2012-05-15 · B
+- [[works/taiwaneseamerican-org/join-tap-at-the-1010-movie-screening-in-la|Join TAP at the “10+10” Movie Screening in LA]] — 2012-05-14 · B
+- [[works/taiwaneseamerican-org/join-tap-at-the-1010-movie-screening-in-la-2|Join TAP at the "10+10" Movie Screening in LA]] — 2012-05-14 · B
+- [[works/taiwaneseamerican-org/passport-to-taiwan-festival-in-nyc|Passport to Taiwan Festival 2012 in NYC]] — 2012-05-13 · B
+- [[works/taiwaneseamerican-org/taiwanese-night-market-at-stanford-university|Taiwanese Night Market at Stanford University]] — 2012-05-12 · B
+- [[works/taiwaneseamerican-org/taiwanese-food-fair-in-san-diego-ca|Taiwanese Food Fair in San Diego, CA]] — 2012-05-12 · B
+- [[works/taiwaneseamerican-org/spoken-word-artist-kelly-zen-yie-tsai-performs-in-chicago|Spoken Word Artist Kelly Zen-Yie Tsai Performs in Chicago]] — 2012-05-12 · B
+- [[works/taiwaneseamerican-org/2012-taiwanese-american-cultural-festival-in-sf|2012 Taiwanese American Cultural Festival in SF]] — 2012-05-12 · B
+- [[works/taiwaneseamerican-org/screening-of-formosa-betrayed-in-austin-t|Screening of “Formosa Betrayed” in Austin, TX]] — 2012-05-10 · B
+- [[works/taiwaneseamerican-org/screening-of-formosa-betrayed-in-austin-t-2|Screening of "Formosa Betrayed" in Austin, TX]] — 2012-05-10 · B
+- [[works/taiwaneseamerican-org/delegation-worshop-with-tap-sd-in-san-diego|Delegation Workshop with TAP-SD in San Diego]] — 2012-05-09 · B
+- [[works/taiwaneseamerican-org/tappy-hour-with-tap-sf-in-san-francisco-ca|TAPpy Hour with TAP-SF in San Francisco, CA]] — 2012-05-08 · B
+- [[works/taiwaneseamerican-org/introducing-singer-songwriter-priska|Introducing Singer-songwriter Priska]] — 2012-05-08 · A
+- [[works/taiwaneseamerican-org/itasa-national-board-applications-now-available|ITASA National Board Applications Now Available]] — 2012-05-07 · B
+- [[works/taiwaneseamerican-org/volunteer-with-tap-tacl-chicago-for-the-2012-taste-of-asia|Volunteer with TAP-TACL Chicago for the 2012 Taste of Asia]] — 2012-05-06 · B
+- [[works/taiwaneseamerican-org/mr-and-ms-formosa-culture-pageant-presented-by-ucsd-tasa|Mr. & Ms. Formosa Culture Pageant Presented by UCSD TASA]] — 2012-05-05 · B
+- [[works/taiwaneseamerican-org/join-ta-professionals-in-chicago-and-project-vision-for-park-cleanup|Join TA Professionals in Chicago for Park Cleanup]] — 2012-05-05 · B
+- [[works/taiwaneseamerican-org/night-market-event-at-uc-santa-barbara|Night Market Event at UC Santa Barbara]] — 2012-05-04 · B
+- [[works/taiwaneseamerican-org/kevin-lien-and-priska-perform-at-osmosis|Kevin Lien and Priska Perform at Osmosis Spotlight in San Gabriel, CA]] — 2012-05-04 · B
+- [[works/taiwaneseamerican-org/leadership-powerhouse-with-fapa-ypg-in-ny|Leadership Powerhouse with FAPA-YPG in NY]] — 2012-05-03 · B
+- [[works/taiwaneseamerican-org/join-taiwanese-american-professionals-for-happy-hour-in-chicago|Join Taiwanese American Professionals for Happy Hour in Chicago]] — 2012-05-03 · B
+- [[works/taiwaneseamerican-org/young-lees-band-the-soonest-performs-in-oakland-ca|Young Lee’s Band “The Soonest” Performs in Oakland, CA]] — 2012-05-02 · B
+- [[works/taiwaneseamerican-org/young-lees-band-the-soonest-performs-in-oakland-ca-2|Young Lee's Band "The Soonest" Performs in Oakland, CA]] — 2012-05-02 · B
+- [[works/taiwaneseamerican-org/join-tao-for-a-shaved-ice-night-at-uc-davis-ca|Join TAO for a Shaved Ice Night at UC Davis, CA]] — 2012-05-02 · B
+- [[works/taiwaneseamerican-org/apa-heritage-month-and-taiwanese-american-heritage-week|APA Heritage Month and Taiwanese American Heritage Week]] — 2012-05-01 · B
+- [[works/taiwaneseamerican-org/ta-comedian-sheng-wang-performs-at-sacramento-punchline-this-weekend|TA Comedian Sheng Wang Performs in Sacramento This Weekend]] — 2012-04-29 · B
+- [[works/taiwaneseamerican-org/award-winning-in-the-family-by-directoractor-patrick-wang-opens-in-major-cities|Award-winning “In the Family” by Director/Actor Patrick Wang Opens in Major Cities]] — 2012-04-29 · B
+- [[works/taiwaneseamerican-org/join-ta-professionals-in-la-for-community-service-river-clean-up|Join TA Professionals in LA for Community Service River Clean Up]] — 2012-04-28 · A
+- [[works/taiwaneseamerican-org/join-fapa-ypg-in-ny-for-a-taiwanese-conversation-tea-time|Join FAPA-YPG in NY for a Taiwanese Conversation and Tea Time]] — 2012-04-28 · B
+- [[works/taiwaneseamerican-org/community-service-event-hosted-by-tap-in-ny|Community Service Event Hosted by TAP in NY]] — 2012-04-28 · A
+- [[works/taiwaneseamerican-org/celebrate-the-30th-year-anniversary-of-tacl-lyf-formerly-tayl-youth-camp|Celebrate the 30th Year Anniversary of TACL-LYF (formerly TAYL) Youth Camp]] — 2012-04-28 · B
+- [[works/taiwaneseamerican-org/young-lees-band-the-soonest-performs-in-san-jose-ca|Young Lee’s Band “The Soonest” Performs in San Jose, CA]] — 2012-04-27 · B
+- [[works/taiwaneseamerican-org/young-lees-band-the-soonest-performs-in-san-jose-ca-2|Young Lee's Band "The Soonest" Performs in San Jose, CA]] — 2012-04-27 · B
+- [[works/taiwaneseamerican-org/join-taps-in-seattle-for-a-pre-movie-dinner|Join TAPS in Seattle for a Pre-Movie Dinner]] — 2012-04-27 · B
+- [[works/taiwaneseamerican-org/showing-of-taipei-101-documentary-film-in-la-area|Showing of “TAIPEI 101” Documentary Film in LA Area]] — 2012-04-26 · B
+- [[works/taiwaneseamerican-org/hungry-ghost-an-exhibition-in-sf-by-asian-american-women-artists|Hungry Ghost: An Exhibition in SF by Asian American Women Artists]] — 2012-04-26 · B
+- [[works/taiwaneseamerican-org/join-ta-professionals-for-a-wine-tasting-social-in-chicago|Join TA Professionals for a Wine Tasting Social in Chicago]] — 2012-04-25 · B
+- [[works/taiwaneseamerican-org/filmmaker-timothy-tau-pays-tribute-to-pioneer-actor-keye-luke|Filmmaker Timothy Tau Pays Tribute to Pioneer Actor Keye Luke]] — 2012-04-25 · A
+- [[works/taiwaneseamerican-org/recap-tap-nys-first-annual-nightmarket|Event Recap: TAP-NY’s First Annual Nightmarket]] — 2012-04-25 · A
+- [[works/taiwaneseamerican-org/taiwanese-breakfast-with-taiwanese-junior-chamber-of-commerce-in-chicago|Taiwanese Breakfast with Taiwanese Junior Chamber of Commerce in Chicago]] — 2012-04-22 · B
+- [[works/taiwaneseamerican-org/tap-tacl-chicago-hosts-a-collegiate-young-professional-bbq-mixer|TAP-TACL Chicago Hosts a Collegiate & Young Professional BBQ Mixer]] — 2012-04-22 · B
+- [[works/taiwaneseamerican-org/sunday-brunch-with-ta-health-professionals-natma-in-ny|Sunday Brunch with TA Health Professionals NATMA in NY]] — 2012-04-22 · B
+- [[works/taiwaneseamerican-org/taiwan-discussion-series-why-taiwan-matters-part-2-in-san-francisco|Taiwan Discussion Series: Why Taiwan Matters Part 2 in SF]] — 2012-04-21 · B
+- [[works/taiwaneseamerican-org/tap-in-san-diego-attends-film-fest-screening-of-you-are-the-apple-of-my-eye|TAP in San Diego Attends Film Fest Screening of “You are the Apple of my Eye”]] — 2012-04-21 · B
+- [[works/taiwaneseamerican-org/new-york-cares-day-volunteer-event-with-tap-ny|New York Cares Day Volunteer Event with TAP-NY]] — 2012-04-21 · B
+- [[works/taiwaneseamerican-org/director-tim-tsai-debuts-short-film-post-racial-in-austin-tx|Director Tim Tsai Debuts Short Film “Post Racial” in Austin, TX]] — 2012-04-21 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-womens-convention-hosted-by-natwa-in-sfbay-area|Taiwanese American Women’s Convention Hosted by NATWA in SF/Bay Area]] — 2012-04-20 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-heritage-writing-contest-2012|Taiwanese American Heritage Writing Contest 2012]] — 2012-04-20 · B
+- [[works/taiwaneseamerican-org/mosaic-asian-heritage-street-celebration-artist-preview-show-in-sf|MOSAIC: Asian Heritage Street Celebration Artist Preview Show in SF]] — 2012-04-20 · B
+- [[works/taiwaneseamerican-org/yes-were-open-starring-lynn-chen-screens-in-chicago|Yes, We’re Open – Starring Lynn Chen Screens in Chicago]] — 2012-04-19 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-new-york-3|TAPpy Hour with TAP-NY in New York]] — 2012-04-19 · B
+- [[works/taiwaneseamerican-org/tappy-hour-with-tap-la-in-los-angeles-ca|TAPpy Hour with TAP-LA in Los Angeles, CA]] — 2012-04-19 · B
+- [[works/taiwaneseamerican-org/night-market-in-nyc-hosted-by-nyus-tass|Night Market in NYC Hosted by NYU’s TASS]] — 2012-04-19 · B
+- [[works/taiwaneseamerican-org/catrockshow-feat-singer-songwriters-cynthia-lin-and-annie-lin|CATROCKSHOW Feat. Singer-songwriters Cynthia Lin and Annie Lin]] — 2012-04-19 · B
+- [[works/taiwaneseamerican-org/conversation-with-david-chiu-in-sf-asian-americans-in-politics|Conversation with David Chiu in SF: Asian Americans in Politics]] — 2012-04-18 · B
+- [[works/taiwaneseamerican-org/tap-general-membership-volunteer-meeting-in-ny|TAP General Membership Volunteer Meeting in NY]] — 2012-04-17 · B
+- [[works/taiwaneseamerican-org/bahtzang-workshop-hosted-by-tap-sf|BahTzang Workshop Hosted by TAP-SF]] — 2012-04-15 · B
+- [[works/taiwaneseamerican-org/almost-home-taiwan-sneak-preview-screening-in-cambridge-ma|“Almost Home: Taiwan” Sneak Preview Screening in Cambridge, MA]] — 2012-04-14 · B
+- [[works/taiwaneseamerican-org/taiwanese-movie-in-dc-warriors-of-the-rainbow-seediq-bale|Taiwanese Movie in DC – Warriors of the Rainbow: Seediq Bale]] — 2012-04-14 · B
+- [[works/taiwaneseamerican-org/university-of-illinois-taiwanese-american-students-club-alumni-reunion|University of Illinois’ Taiwanese American Students Club Alumni Reunion]] — 2012-04-13 · B
+- [[works/taiwaneseamerican-org/taiwanese-night-market-with-university-of-marylands-tasa|Taiwanese Night Market with University of Maryland’s TASA]] — 2012-04-13 · B
+- [[works/taiwaneseamerican-org/taiwanese-night-market-in-new-york-with-taiwanese-american-professionals|Taiwanese Night Market in New York]] — 2012-04-13 · B
+- [[works/taiwaneseamerican-org/ramas-goohana-show-at-berkeley-ca|RAMA’s Go!Ohana Show at Berkeley, CA]] — 2012-04-13 · B
+- [[works/taiwaneseamerican-org/20-year-anniversary-alumni-weekend-for-uiuc-tasc|20 Year Anniversary Alumni Weekend for UIUC-TASC]] — 2012-04-13 · B
+- [[works/taiwaneseamerican-org/tappy-hour-with-tap-sf-and-natea|TAPpy Hour with TAP-SF and NATEA]] — 2012-04-12 · B
+- [[works/taiwaneseamerican-org/highlighting-taiwanese-america-the-100-mothers-and-daughters-project|Highlighting Taiwanese America: The 100 Mothers and Daughters Project]] — 2012-04-12 · B
+- [[works/taiwaneseamerican-org/chicago-taiwanese-american-professionals|Chicago Taiwanese American Professionals’ Morning Run]] — 2012-04-12 · B
+- [[works/taiwaneseamerican-org/taiwanese-film-hear-me-screens-in-chicago|Taiwanese Film “Hear Me” Screens in Chicago]] — 2012-04-11 · B
+- [[works/taiwaneseamerican-org/epic-taiwanese-film-warriors-of-the-rainbow-seediq-bale-opening-across-north-ame|Epic Taiwanese Film “Warriors of the Rainbow: Seediq Bale” Opening Across North America]] — 2012-04-11 · B
+- [[works/taiwaneseamerican-org/whirlyball-with-university-of-michigan-tasa-students|Whirlyball with University of Michigan TASA Students]] — 2012-04-10 · B
+- [[works/taiwaneseamerican-org/celebrate-taiwan-heritage-night-with-nycs-mets|Celebrate Taiwan Heritage Night with NYC’s Mets]] — 2012-04-09 · B
+- [[works/taiwaneseamerican-org/culturecivil-society-strait-talk-panel-at-uc-berkeley|Culture/Civil Society Strait Talk Panel at UC Berkeley]] — 2012-04-07 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-professionals-full-moon-hike-in-san-diego|Taiwanese American Professionals Full Moon Hike in San Diego]] — 2012-04-06 · B
+- [[works/taiwaneseamerican-org/itasa-midwest-conference-at-the-university-of-michigan|ITASA Midwest Conference at the University of Michigan]] — 2012-04-06 · B
+- [[works/taiwaneseamerican-org/businesseconomics-strait-talk-panel-at-uc-berkeley|Business/Economics Strait Talk Panel at UC Berkeley]] — 2012-04-06 · B
+- [[works/taiwaneseamerican-org/happy-hour-hosted-by-tap-dc-in-arlington-va|Happy Hour Hosted by TAP-DC in Arlington, VA]] — 2012-04-05 · B
+- [[works/taiwaneseamerican-org/pring-happy-hour-with-tap-chicago|Spring Happy Hour with TAP Chicago]] — 2012-04-03 · B
+- [[works/taiwaneseamerican-org/meet-the-author-of-terroryaki-jennifer-k-chung-near-seattle-wa|Meet the Author of Terroryaki! Jennifer K. Chung near Seattle, WA]] — 2012-04-01 · B
+- [[works/taiwaneseamerican-org/scholarship-to-attend-the-itasa-midwest-conference|Scholarship to Attend the ITASA Midwest Conference]] — 2012-03-31 · B
+- [[works/taiwaneseamerican-org/jay-chen-kicks-off-run-for-congress|Jay Chen Kicks Off Run for Congress]] — 2012-03-31 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-happy-hour-in-seattle-wa|Happy Hour Hosted by TAPS in Seattle, WA]] — 2012-03-30 · B
+- [[works/taiwaneseamerican-org/march-spring-fun-tappy-hour-in-nyc|March “Spring Fun” TAPpy Hour in NYC]] — 2012-03-29 · B
+- [[works/taiwaneseamerican-org/linsanity-viewing-party-in-new-york-ny|Linsanity Viewing Party in New York, NY]] — 2012-03-28 · B
+- [[works/taiwaneseamerican-org/bubble-tea-with-the-boba-guys|Bubble Tea with the Boba Guys]] — 2012-03-28 · A
+- [[works/taiwaneseamerican-org/dynasty-of-rock-concert-featuring-taiwanese-band-the-chairman|Dynasty of Rock Concert Featuring Taiwanese Band “The Chairman”]] — 2012-03-25 · B
+- [[works/taiwaneseamerican-org/youth-summer-camp-info-session-in-northern-california|Youth Summer Camp Info Session in Northern California]] — 2012-03-24 · B
+- [[works/taiwaneseamerican-org/the-beauty-of-taiwan-photo-exhibition-in-austin-tx|The Beauty of  Taiwan Photo Exhibition in Austin, TX]] — 2012-03-24 · B
+- [[works/taiwaneseamerican-org/taiwanese-rock-band-the-chairman-performs-live-in-sfbay-area|Taiwanese Rock Band “The Chairman” Performs Live in SF/Bay Area]] — 2012-03-24 · B
+- [[works/taiwaneseamerican-org/taiwanese-night-market-food-cooking-class|Taiwanese Night Market Food Cooking Class]] — 2012-03-24 · B
+- [[works/taiwaneseamerican-org/tap-dc-social-sakura-viewing-2012|TAP-DC Social: Sakura Viewing 2012!]] — 2012-03-24 · B
+- [[works/taiwaneseamerican-org/on-the-topic-of-tiger-mom-to-linsanity-a-discussion-in-flushing-ny|On the Topic of Tiger Mom to Linsanity: A Discussion in Flushing, NY]] — 2012-03-24 · B
+- [[works/taiwaneseamerican-org/yea-ming-chen-and-her-indie-rock-band-dreamdate-perform-in-oakland-ca|Yea-Ming Chen and Her Indie Rock Band Dreamdate Perform in Oakland, CA]] — 2012-03-23 · B
+- [[works/taiwaneseamerican-org/participate-in-an-online-taiwanese-immigration-survey-2|Participate in an Online Taiwanese Immigration Survey]] — 2012-03-23 · B
+- [[works/taiwaneseamerican-org/susan-and-emily-present-island-x-a-collection-of-taiwanese-folk-songs|Susan and Emily Present “Island X” – a Collection of Taiwanese Folk Songs]] — 2012-03-22 · A
+- [[works/taiwaneseamerican-org/dinner-discussion-series-with-tap-in-san-diego|Dinner Discussion Series with TAP in San Diego]] — 2012-03-22 · B
+- [[works/taiwaneseamerican-org/tap-sf-topic-dinner-social-media|TAP-SF Topic Dinner: Social Media]] — 2012-03-21 · B
+- [[works/taiwaneseamerican-org/songwriter-salon-featuring-cynthia-lin|Songwriter Salon Featuring Cynthia Lin]] — 2012-03-20 · B
+- [[works/taiwaneseamerican-org/register-for-the-tacl-leadership-conference|Register for the TACL Leadership Conference]] — 2012-03-20 · B
+- [[works/taiwaneseamerican-org/a-taste-of-taiwanese-beef-noodle-soup|A Taste of Taiwanese Beef Noodle Soup]] — 2012-03-20 · A
+- [[works/taiwaneseamerican-org/san-francisco-international-asian-american-film-festival|TaiwaneseAmerican.org Co-Presents “Nice Girls Crew” & “Yes, We’re Open” at the SF International Asian American Film Festival]] — 2012-03-18 · B
+- [[works/taiwaneseamerican-org/sf-screening-why-taiwan-matters-part-i|SF Screening: Why Taiwan Matters Part I]] — 2012-03-18 · B
+- [[works/taiwaneseamerican-org/taiwanese-film-night-market-hero-screening-in-san-jose-ca|Taiwanese Film: Night Market Hero Screening in San Jose, CA]] — 2012-03-17 · B
+- [[works/taiwaneseamerican-org/taiwanese-nobel-prize-winner-yuan-tseh-lee-speaks-on-taiwanese-identity-in-berke|Taiwanese Nobel Prize Winner Yuan-Tseh Lee Speaks on “Taiwanese Identity” in Berkeley, CA]] — 2012-03-15 · B
+- [[works/taiwaneseamerican-org/kelly-zen-yie-tsai-presents-a-dance-solo-show-in-nyc-formosa|Kelly Zen-Yie Tsai Presents a Dance Solo Show in NYC: Formosa]] — 2012-03-15 · B
+- [[works/taiwaneseamerican-org/apply-to-the-2012-formosa-foundation-ambassador-program|Apply to the 2012 Formosa Foundation Ambassador Program]] — 2012-03-15 · B
+- [[works/taiwaneseamerican-org/spring-tappy-hour-in-sf|Spring TAPpy Hour in SF!]] — 2012-03-14 · B
+- [[works/taiwaneseamerican-org/chicago-tap-roots-for-bulls-and-knicks|Chicago TAP Roots for Bulls and Knicks]] — 2012-03-12 · B
+- [[works/taiwaneseamerican-org/tap-community-service-volunteer-at-the-sfiaaff-festival-forum|TAP Community Service: Volunteer at the SFIAAFF Festival Forum]] — 2012-03-10 · A
+- [[works/taiwaneseamerican-org/tap-bingo-game-night-iin-san-diego|TAP BINGO Game Night iin San Diego]] — 2012-03-10 · B
+- [[works/taiwaneseamerican-org/tap-chicago-bites-into-taco-flavored-egg-rolls|TAP-Chicago Bites Into Taco Flavored Egg Rolls]] — 2012-03-09 · B
+- [[works/taiwaneseamerican-org/tap-sf-workshop-financial-planning|TAP-SF Workshop: Financial Planning]] — 2012-03-08 · B
+- [[works/taiwaneseamerican-org/meet-terry-chen-a-taiwanese-american-martha-stewart|Meet Terry Chen, a Taiwanese American Martha Stewart]] — 2012-03-07 · A
+- [[works/taiwaneseamerican-org/tap-la-hosts-knicks-vs-mavericks-viewing-party|TAP-LA Hosts Knicks vs. Mavericks Viewing Party]] — 2012-03-06 · B
+- [[works/taiwaneseamerican-org/taiwanese-cooking-workshop-in-ny-2|Taiwanese Cooking Workshop in NY]] — 2012-03-03 · B
+- [[works/taiwaneseamerican-org/tap-la-community-service-kids-reading-to-succeed-2|TAP-LA: Community Service – Kids Reading to Succeed]] — 2012-03-03 · A
+- [[works/taiwaneseamerican-org/mixed-fapa-ypgs-monthly-networking-event-in-nyc-2|“Mixed” FAPA-YPG’s Monthly Networking Event in NYC]] — 2012-03-02 · B
+- [[works/taiwaneseamerican-org/asian-american-donor-program-laugh-for-lives-comedy-show-in-sf|Asian American Donor Program: Laugh For Lives Comedy Show in SF]] — 2012-03-02 · B
+- [[works/taiwaneseamerican-org/tappy-hour-at-cafe-citron-in-washington-dc|TAPpy Hour at Cafe Citron in Washington, DC]] — 2012-02-29 · B
+- [[works/taiwaneseamerican-org/tappy-hour-at-balboa-park-san-diego|TAPpy Hour at Balboa Park, San Diego]] — 2012-02-29 · B
+- [[works/taiwaneseamerican-org/itasa-alumni-happy-hour-in-nyc|ITASA Alumni Happy Hour in NYC]] — 2012-02-29 · B
+- [[works/taiwaneseamerican-org/18th-mjaa-asia-business-technology-tour-info-session|18th MJAA Asia Business & Technology Tour – Info Session]] — 2012-02-29 · B
+- [[works/taiwaneseamerican-org/movie-night-in-nyc-a-city-of-sadness|Movie Night in NYC: A City of Sadness]] — 2012-02-28 · B
+- [[works/taiwaneseamerican-org/formosa-alive-a-film-screening-and-228-remembrance|Formosa Alive: A Film Screening and 228 Remembrance]] — 2012-02-28 · B
+- [[works/taiwaneseamerican-org/a-personal-discussion-panel-in-sf-on-the-events-of-228-taiwanese-american-perspe|A Personal Discussion Panel in SF on the Events of 228: Taiwanese American Perspectives]] — 2012-02-28 · A
+- [[works/taiwaneseamerican-org/2-28-65th-commemorative-concert-in-arcadia-ca|2-28 65th Commemorative Concert in Arcadia, CA]] — 2012-02-28 · B
+- [[works/taiwaneseamerican-org/taiwanese-breakfast-with-tap-in-chicago|Taiwanese Breakfast with TAP in Chicago]] — 2012-02-26 · B
+- [[works/taiwaneseamerican-org/tao-presents-3rd-annual-lantern-festival-night-market-at-uc-irvine|TAO Presents 3rd Annual Lantern Festival & Night Market at UC Irvine]] — 2012-02-25 · B
+- [[works/taiwaneseamerican-org/northern-california-228-peace-memorial-concert|Northern California 228 Peace Memorial Concert]] — 2012-02-25 · B
+- [[works/taiwaneseamerican-org/ice-skating-at-bryant-park-with-tap-in-nyc|Ice Skating at Bryant Park with TAP in NYC]] — 2012-02-25 · B
+- [[works/taiwaneseamerican-org/tjccc-february-event-in-chicago-dine-learn|TJCCC February Event in Chicago: Dine & Learn]] — 2012-02-23 · B
+- [[works/taiwaneseamerican-org/taps-linsane-game-watch-at-mother-hubbards-in-chicago|TAP’s LINsane Game Watch at Mother Hubbards in Chicago]] — 2012-02-23 · B
+- [[works/taiwaneseamerican-org/interview-with-marilyn-fu-screenwriter-of-the-sisterhood-of-night|Interview with Marilyn Fu, Screenwriter of The Sisterhood of Night]] — 2012-02-22 · A
+- [[works/taiwaneseamerican-org/applications-available-for-tacl-summer-political-internship-program|Applications Available for TACL Summer Political Internship Program]] — 2012-02-19 · B
+- [[works/taiwaneseamerican-org/paperdoll-headlines-at-mercury-lounge-nyc|PaperDoll Headlines at Mercury Lounge, NYC]] — 2012-02-18 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-collegiate-and-young-professionals-ski-trip-to-vermont|Taiwanese American Collegiate and Young Professionals Ski Trip to Vermont]] — 2012-02-17 · B
+- [[works/taiwaneseamerican-org/guest-post-e2-80-9cpassing-e2-80-9d-for-white-to-get-into-harvard|Guest Post: “Passing” for White to Get Into Harvard?]] — 2012-02-17 · A
+- [[works/taiwaneseamerican-org/tappy-hour-in-la-3|TAPpy Hour in LA]] — 2012-02-16 · B
+- [[works/taiwaneseamerican-org/itasa-east-coast-conference-at-georgia-tech-in-atlanta|ITASA East Coast Conference at Georgia Tech in Atlanta]] — 2012-02-16 · B
+- [[works/taiwaneseamerican-org/february-fall-in-love-tappy-hour-in-nyc|February *Fall in Love* TAPpy Hour in NYC]] — 2012-02-16 · B
+- [[works/taiwaneseamerican-org/all-eyes-on-nba-sensation-jeremy-lin|All Eyes on NBA Sensation Jeremy Lin]] — 2012-02-15 · A
+- [[works/taiwaneseamerican-org/worldvision-taiwan-fundraiser-by-tsa-at-uc-berkeley|WorldVision Taiwan Fundraiser by TSA at UC Berkeley]] — 2012-02-14 · B
+- [[works/taiwaneseamerican-org/scholarship-for-taiwanese-american-high-school-students-in-nj-or-ny|Scholarship for Taiwanese American High School Students in NJ or NY]] — 2012-02-12 · B
+- [[works/taiwaneseamerican-org/jason-wu-for-target-collection-debuts|Jason Wu for Target Collection Debuts]] — 2012-02-11 · B
+- [[works/taiwaneseamerican-org/itasa-norcal-intertasa-winter-mixer-at-uc-davis|ITASA NorCal InterTASA Winter Mixer at UC Davis]] — 2012-02-11 · B
+- [[works/taiwaneseamerican-org/taps-lim-jiu-happy-hour-in-bellevue-wa-2|TAPS Lim Jiu Happy Hour in Bellevue, WA]] — 2012-02-10 · B
+- [[works/taiwaneseamerican-org/friday-night-linsanity-jeremy-lin-vs-the-lakers-in-nyc|Friday Night Linsanity! Jeremy Lin vs the Lakers in NYC]] — 2012-02-10 · B
+- [[works/taiwaneseamerican-org/tappy-hour-with-tap-sf-and-mjaa-in-mountain-view-ca|TAPpy Hour with TAP-SF and MJAA in Mountain View, CA]] — 2012-02-09 · B
+- [[works/taiwaneseamerican-org/tap-sf-community-service-sorting-materials-with-scrap-sf|TAP-SF Community Service: Sorting Materials with Scrap-SF]] — 2012-02-05 · A
+- [[works/taiwaneseamerican-org/tap-la-community-service-kids-reading-to-succeed|TAP-LA Community Service: Kids Reading to Succeed]] — 2012-02-04 · A
+- [[works/taiwaneseamerican-org/tap-chicago-hosts-4th-annual-lunar-new-year-party|TAP-Chicago Hosts 4th Annual Lunar New Year Party]] — 2012-02-04 · B
+- [[works/taiwaneseamerican-org/fapa-ypgs-monthly-networking-event-mixed-in-nyc|FAPA-YPG’s Monthly Networking Event: “Mixed” in NYC]] — 2012-02-03 · B
+- [[works/taiwaneseamerican-org/uc-berkeley-tasa-general-meeting|UC Berkeley TASA General Meeting]] — 2012-02-02 · B
+- [[works/taiwaneseamerican-org/tang-yuan-tasting-red-envelopes-with-uc-irvines-tao|Tang Yuan Tasting & Red Envelopes with UC Irvine’s TAO]] — 2012-02-02 · B
+- [[works/taiwaneseamerican-org/tap-sf-professional-series-creating-success-in-asian-american-publishing|TAP-SF Professional Series: Creating success in Asian American publishing]] — 2012-02-02 · B
+- [[works/taiwaneseamerican-org/professional-speaker-series-ny-start-up-tech-entrepreneurs|Professional Speaker Series: NY Start-Up Tech Entrepreneurs]] — 2012-02-02 · B
+- [[works/taiwaneseamerican-org/nyu-tass-second-general-meeting|NYU TASS Second General Meeting]] — 2012-02-02 · B
+- [[works/taiwaneseamerican-org/irvington-jtasa-tapex-fundraiser-in-fremont-ca|Irvington JTASA Tapex Fundraiser in Fremont, CA]] — 2012-02-02 · B
+- [[works/taiwaneseamerican-org/college-students-itasa-its-a-party-in-the-nyc|College Students! ITASA: It’s a Party in the NYC!]] — 2012-02-02 · B
+- [[works/taiwaneseamerican-org/a-snapshot-of-the-taiwanese-american-community-and-immigrant-diaspora|A Snapshot of the Taiwanese American Community and Immigrant Diaspora]] — 2012-02-01 · A
+- [[works/taiwaneseamerican-org/through-the-eyes-of-illustrator-julia-kuo|Through the Eyes of Illustrator Julia Kuo]] — 2012-01-30 · A
+- [[works/taiwaneseamerican-org/chicago-2012-lunar-new-year-parade|Chicago 2012 Lunar New Year Parade]] — 2012-01-30 · B
+- [[works/taiwaneseamerican-org/taiwan-film-festival-at-yale-university|Taiwan Film Festival at Yale University]] — 2012-01-29 · B
+- [[works/taiwaneseamerican-org/game-trivia-night-with-tap-sf|Game & Trivia Night with TAP-SF]] — 2012-01-28 · B
+- [[works/taiwaneseamerican-org/college-students-itasa-norcal-intertasa-winter-mixer|College Students! [ITASA NorCal InterTASA Winter Mixer]] — 2012-01-28 · B
+- [[works/taiwaneseamerican-org/all-aboard-for-seattle-area-taiwanese-american-collegiate-semi-formal|All Aboard for Seattle Area Taiwanese American Collegiate Semi-Formal]] — 2012-01-28 · B
+- [[works/taiwaneseamerican-org/tap-ny-annual-snowboarding-extravaganza-trip|TAP-NY Annual Snowboarding Extravaganza Trip]] — 2012-01-27 · B
+- [[works/taiwaneseamerican-org/comedian-sheng-wang-performs-at-sf-sketchfest-dozen|Comedian Sheng Wang Performs at SF Sketchfest Dozen]] — 2012-01-27 · B
+- [[works/taiwaneseamerican-org/tap-sf-nightlife-at-san-franciscos-california-academy-of-sciences|TAP-SF “NightLife” at San Francisco’s California Academy of Sciences]] — 2012-01-26 · B
+- [[works/taiwaneseamerican-org/college-students-party-with-uc-irvines-taiwanese-american-organization|College Students! Party with UC Irvine’s Taiwanese American Organization]] — 2012-01-26 · B
+- [[works/taiwaneseamerican-org/the-big-picture-a-snapshot-of-photographer-anna-wu|The Big Picture: A Snapshot of Photographer Anna Wu]] — 2012-01-24 · A
+- [[works/taiwaneseamerican-org/underwoman-and-the-believers-performs-in-oakland-ca|Underwoman and the Believers Performs in Oakland, CA]] — 2012-01-21 · B
+- [[works/taiwaneseamerican-org/tjccc-2012-chinese-new-year-dinner-in-chicago|TJCCC 2012 Chinese New Year Dinner in Chicago]] — 2012-01-21 · B
+- [[works/taiwaneseamerican-org/tap-community-service-project-with-rei-sf-recreation-and-parks-dept|TAP Community Service: Project with REI & SF Recreation and Parks Dept]] — 2012-01-21 · A
+- [[works/taiwaneseamerican-org/lunar-new-year-hotpot-dinner-with-tap-in-san-diego|Lunar New Year Hotpot Dinner with TAP in San Diego]] — 2012-01-21 · B
+- [[works/taiwaneseamerican-org/lunar-new-year-banquet-with-tap-in-new-york|Lunar New Year Banquet with TAP in New York]] — 2012-01-21 · B
+- [[works/taiwaneseamerican-org/celebrate-year-of-the-dragon-with-tjccc-miami|Celebrate Year of the Dragon with TJCC-Miami]] — 2012-01-21 · B
+- [[works/taiwaneseamerican-org/tap-happy-hour-in-chicago|TAP Happy Hour in Chicago]] — 2012-01-20 · B
+- [[works/taiwaneseamerican-org/tappy-hour-fundraiser-in-los-angeles|TAPpy Hour Fundraiser in Los Angeles]] — 2012-01-19 · B
+- [[works/taiwaneseamerican-org/clean-slate|Guest Post: “Clean Slate”]] — 2012-01-18 · A
+- [[works/taiwaneseamerican-org/tappy-hour-in-arlington-va-2|TAPpy Hour in Arlington, VA]] — 2012-01-17 · B
+- [[works/taiwaneseamerican-org/tap-lunar-new-year-banquet-in-san-francisco|TAP Lunar New Year Banquet in San Francisco]] — 2012-01-14 · B
+- [[works/taiwaneseamerican-org/taiwan-2012-presidential-elections-media-roundup|Taiwan 2012 Presidential Elections: Media Roundup]] — 2012-01-11 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-san-francisco|TAPpy Hour in San Francisco]] — 2012-01-11 · B
+- [[works/taiwaneseamerican-org/starting-a-collegiate-taiwanese-american-student-association|Starting a Collegiate Taiwanese American Student Association]] — 2012-01-08 · B
+- [[works/taiwaneseamerican-org/a-taiwanese-american-adoptees-journey-and-search-for-identity|A Taiwanese American Adoptee’s Journey and Search for Identity]] — 2012-01-08 · B
+- [[works/taiwaneseamerican-org/tacl-lyf-new-years-event-for-students-and-camprs-in-san-jose-ca|TACL-LYF New Year’s Event for Students and Campers in San Jose, CA]] — 2012-01-07 · B
+- [[works/taiwaneseamerican-org/taccgc-event-hosts-a-chinese-new-year-party-in-chicago|TACCGC Event Hosts a Chinese New Year Party in Chicago]] — 2012-01-07 · B
+- [[works/taiwaneseamerican-org/join-tap-las-community-service-event-kids-reading-to-succeed|Join TAP-LA’s Community Service Event: Kids Reading to Succeed]] — 2012-01-07 · A
+- [[works/taiwaneseamerican-org/mixed-fapa-ypgs-monthly-networking-event-in-nyc|“Mixed” FAPA-YPG’s Monthly Networking Event in NYC]] — 2012-01-06 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-new-york-2|TAPpy Hour in New York]] — 2012-01-05 · B
+- [[works/taiwaneseamerican-org/taf-winter-wonderland-new-years-ice-skating-party|TAF Winter Wonderland New Year’s Ice Skating Party]] — 2011-12-31 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-nyc-3|TAPpy Hour in NYC]] — 2011-12-22 · B
+- [[works/taiwaneseamerican-org/guest-post-recommended-taiwan-blogs-2011|Guest Post: Recommended Taiwan Blogs 2011]] — 2011-12-22 · A
+- [[works/taiwaneseamerican-org/help-kickstart-susan-emilys-next-exit-clov-album|Help Kickstart Susan & Emily’s Next Exit Clov Album]] — 2011-12-20 · B
+- [[works/taiwaneseamerican-org/dc-taiwan-school-annual-winter-solstice-and-christmas-party|DC Taiwan School Annual Winter Solstice and Christmas Party]] — 2011-12-18 · B
+- [[works/taiwaneseamerican-org/taiwanese-conversation-group-in-flushing-ny|Taiwanese Conversation Group in Flushing, NY]] — 2011-12-17 · B
+- [[works/taiwaneseamerican-org/a-taiwanese-end-of-year-celebration-with-fapa-ypg-in-flushing-ny|A Taiwanese End of Year Celebration with FAPA-YPG in Flushing, NY]] — 2011-12-17 · B
+- [[works/taiwaneseamerican-org/a-special-holiday-goohana|A Special Holiday Go!Ohana]] — 2011-12-16 · B
+- [[works/taiwaneseamerican-org/tap-christmas-dinner-in-santa-monica-ca|TAP Christmas Dinner in Santa Monica, CA]] — 2011-12-15 · B
+- [[works/taiwaneseamerican-org/financial-planning-101-with-tap-in-san-diego|Financial Planning 101 with TAP in San Diego]] — 2011-12-15 · B
+- [[works/taiwaneseamerican-org/dine-learn-with-taiwanese-junior-chamber-of-commerce-chicago|Dine & Learn with Taiwanese Junior Chamber of Commerce – Chicago]] — 2011-12-15 · B
+- [[works/taiwaneseamerican-org/tappy-hour-at-cafe-asia-dc|TAPpy Hour at Cafe Asia DC]] — 2011-12-14 · B
+- [[works/taiwaneseamerican-org/sf-tappy-hour-in-mountain-view-ca|SF TAPpy Hour in Mountain View, CA]] — 2011-12-14 · B
+- [[works/taiwaneseamerican-org/taiwanese-cooking-competition-and-reception-in-chicago|Taiwanese Cooking Competition and Reception in Chicago]] — 2011-12-12 · B
+- [[works/taiwaneseamerican-org/tap-holiday-potluck-party-in-san-diego|TAP Holiday Potluck Party in San Diego]] — 2011-12-11 · B
+- [[works/taiwaneseamerican-org/tap-community-service-gift-sorting-and-creating-holiday-cards-in-sf|TAP Community Service: Gift Sorting and Creating Holiday Cards in SF]] — 2011-12-11 · A
+- [[works/taiwaneseamerican-org/taf-chicago-holiday-hullabaloo|TAF Chicago Holiday Hullabaloo and “Dear Taiwan” Screening]] — 2011-12-10 · B
+- [[works/taiwaneseamerican-org/congrats-timothy-tau-winner-of-hyphen-magazines-asian-american-short-story-conte|Congrats Timothy Tau, Winner of Hyphen Magazine’s Asian American Short Story Contest]] — 2011-12-10 · B
+- [[works/taiwaneseamerican-org/private-tap-comedy-night-with-eliot-chang-in-nyc|Private TAP Comedy Night with Eliot Chang in NYC]] — 2011-12-09 · B
+- [[works/taiwaneseamerican-org/oc-tappy-hour-fundraiser-at-the-balcony|OC TAPpy Hour Fundraiser at the Balcony!]] — 2011-12-08 · B
+- [[works/taiwaneseamerican-org/dinner-dumplings-with-lisa-lee-co-founder-of-thickdumplingskin-com|Dinner Dumplings with Lisa Lee – Co-founder of ThickDumplingSkin.com]] — 2011-12-08 · A
+- [[works/taiwaneseamerican-org/tap-and-naaap-present-a-holiday-bash-charity-event-in-sf|TAP and NAAAP Present a Holiday Bash Charity Event in SF]] — 2011-12-07 · B
+- [[works/taiwaneseamerican-org/meet-christina-yao-at-seattle-screening-of-empire-of-silver|Meet Christina Yao at Seattle Screening of Empire of Silver]] — 2011-12-03 · B
+- [[works/taiwaneseamerican-org/join-tap-in-la-at-kids-reading-to-succeed|Join TAP in LA at Kids Reading to Succeed]] — 2011-12-03 · B
+- [[works/taiwaneseamerican-org/lim-jiu-happy-hour-and-toy-drive-with-taps-in-seattle|Lim Jiu (Happy Hour) and Toy Drive with TAPS in Seattle]] — 2011-12-02 · B
+- [[works/taiwaneseamerican-org/fapa-ypg-hosts-holiday-edition-mixed-networking-event-in-nyc|FAPA-YPG Hosts Holiday Edition “Mixed” Networking Event in NYC]] — 2011-12-02 · B
+- [[works/taiwaneseamerican-org/akufuncture-presents-osmosis-spotlights-featuring-dawen|Akufuncture presents: OSMOSIS Spotlights Featuring Dawen]] — 2011-12-02 · B
+- [[works/taiwaneseamerican-org/dc-event-ensuring-free-and-fair-elections-taiwan-2012|DC Event: Ensuring Free and Fair Elections: Taiwan 2012]] — 2011-12-01 · B
+- [[works/taiwaneseamerican-org/api-circle-holiday-celebration-in-oakland-ca|API Circle Holiday Celebration in Oakland, CA]] — 2011-12-01 · B
+- [[works/taiwaneseamerican-org/tap-sf-professional-series-starting-your-own-business|TAP-SF Professional Series: Starting Your Own Business]] — 2011-11-30 · B
+- [[works/taiwaneseamerican-org/wendy-hsu-on-issues-of-invisibility-and-asian-american-identities|Wendy Hsu on Issues of (In)visibility and Asian American Identities]] — 2011-11-26 · A
+- [[works/taiwaneseamerican-org/taiwanese-american-organization-event-in-florida|Taiwanese American Organization Event in Florida]] — 2011-11-26 · B
+- [[works/taiwaneseamerican-org/introducing-alison-yeh|Introducing Alison Yeh, aka “yayAlison” – Our First Sponsored YouTube Musician]] — 2011-11-26 · B
+- [[works/taiwaneseamerican-org/a-capella-group-the-ritards-perform-at-santana-row-in-san-jose-ca|A Capella group, the Ritards, Perform at Santana Row in San Jose, CA]] — 2011-11-25 · B
+- [[works/taiwaneseamerican-org/reinventing-thanksgiving|Reinventing Thanksgiving]] — 2011-11-24 · A
+- [[works/taiwaneseamerican-org/mixed-roots-thanksgiving|Mixed Roots Thanksgiving]] — 2011-11-22 · A
+- [[works/taiwaneseamerican-org/jhutasa-and-iac-present-taste-of-taiwan|jhuTASA and IAC Present: Taste of Taiwan]] — 2011-11-19 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-association-thanksgiving-banquet-speaker-event-in-dc|Taiwanese American Association Thanksgiving Banquet & Speaker Event in DC]] — 2011-11-19 · B
+- [[works/taiwaneseamerican-org/taps-jia-bun-dinner-to-celebrate-thanksgiving|TAPS Jia Bun (Dinner) to Celebrate Thanksgiving]] — 2011-11-19 · B
+- [[works/taiwaneseamerican-org/fapa-ypgs-sfbay-area-thanksgiving-potluck|FAPA-YPG’s SF/Bay Area Thanksgiving Potluck]] — 2011-11-19 · B
+- [[works/taiwaneseamerican-org/2nd-annual-e2-80-9chello-taiwan-rocks-e2-80-9d-concert-in-nyc|2nd Annual “Hello Taiwan Rocks!” Concert in NYC]] — 2011-11-19 · B
+- [[works/taiwaneseamerican-org/meet-karin-wang-civil-rights-advocate-and-proud-taiwanese-american|Meet Karin Wang, Civil Rights Advocate and Proud Taiwanese American]] — 2011-11-17 · A
+- [[works/taiwaneseamerican-org/join-for-tappy-hour-in-bethesda-md|Join for TAPpy Hour in Bethesda, MD]] — 2011-11-17 · B
+- [[works/taiwaneseamerican-org/entrepreneur-panel-hosted-by-tap-in-san-diego|Entrepreneur Panel Hosted by TAP in San Diego]] — 2011-11-17 · B
+- [[works/taiwaneseamerican-org/dinner-discussion-with-tap-in-san-francisco|Dinner & Discussion with TAP in San Francisco]] — 2011-11-17 · B
+- [[works/taiwaneseamerican-org/columbia-university-lecture-political-progress-and-change-in-taiwan|Columbia University Lecture: “Political Progress and Change in Taiwan”]] — 2011-11-16 · B
+- [[works/taiwaneseamerican-org/collegiate-tasa-restaurant-outing-in-atlanta-ga|Collegiate TASA Restaurant Outing in Atlanta, GA]] — 2011-11-16 · B
+- [[works/taiwaneseamerican-org/dear-taiwan-documentary-screens-at-northwestern-university|“Dear Taiwan” Documentary Screens at Northwestern University]] — 2011-11-13 · B
+- [[works/taiwaneseamerican-org/taiwanese-cooking-workshop-in-ny|Taiwanese Cooking Workshop in NY]] — 2011-11-12 · B
+- [[works/taiwaneseamerican-org/tafnc-benefit-concert-in-the-sfbay-area|TAFNC Benefit Concert in the SF/Bay Area]] — 2011-11-12 · B
+- [[works/taiwaneseamerican-org/policy-forum-on-taiwan-us-relations-with-congressman-ed-royce|Policy Forum on Taiwan-US Relations with Congressman Ed Royce]] — 2011-11-12 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-nyc-2|TAPpy Hour in NYC]] — 2011-11-10 · B
+- [[works/taiwaneseamerican-org/tap-professional-dinner-series-in-dc-on-law-legal-careers|TAP Professional Dinner Series in DC on Law & Legal Careers]] — 2011-11-10 · B
+- [[works/taiwaneseamerican-org/tap-dinner-group-in-san-gabriel-ca|TAP Dinner Group in San Gabriel, CA]] — 2011-11-10 · B
+- [[works/taiwaneseamerican-org/november-tappy-hour-with-taiwanese-american-professionals-in-sf|November TAPpy Hour with Taiwanese American Professionals in SF]] — 2011-11-09 · B
+- [[works/taiwaneseamerican-org/akufuncture-family-founder-samuel-wang-musician-kevin-lien|Akufuncture Family: Founder Samuel Wang & Musician Kevin Lien]] — 2011-11-08 · A
+- [[works/taiwaneseamerican-org/mahjong-day-with-taiwanese-american-professionals-in-san-diego|Mahjong Day with Taiwanese American Professionals in San Diego]] — 2011-11-06 · B
+- [[works/taiwaneseamerican-org/dear-taiwan-documentary-tours-the-us|“Dear Taiwan” Documentary Tours the US]] — 2011-11-05 · B
+- [[works/taiwaneseamerican-org/dear-taiwan-documentary-screens-in-atlanta-and-north-carolina|“Dear Taiwan” Documentary Screens in Atlanta and North Carolina]] — 2011-11-05 · B
+- [[works/taiwaneseamerican-org/dawen-performs-at-kollaboration-11-in-la|Dawen Performs at Kollaboration 11 in LA]] — 2011-11-05 · B
+- [[works/taiwaneseamerican-org/fapa-ypg-hosts-mixed-a-monthly-networking-event-in-nyc|FAPA-YPG Hosts “Mixed” – A Monthly Networking Event in NYC]] — 2011-11-04 · B
+- [[works/taiwaneseamerican-org/tap-sf-asian-american-professional-mixer|TAP-SF + Asian American Professional Mixer]] — 2011-11-03 · B
+- [[works/taiwaneseamerican-org/tsunah-foundations-youth-culture-tour-of-taiwan|Tsunah Foundation’s Youth Culture Tour of Taiwan]] — 2011-10-31 · B
+- [[works/taiwaneseamerican-org/the-politics-of-taiwan-recognition-on-cbs-the-good-wife|The Politics of Taiwan Recognition on CBS’ The Good Wife]] — 2011-10-31 · B
+- [[works/taiwaneseamerican-org/halloween-30th-on-30th-with-tap-in-san-diego|Halloween 30th on 30th with TAP in San Diego]] — 2011-10-30 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-health-professionals-dinner-in-nyc|Taiwanese American Health Professionals Dinner in NYC]] — 2011-10-29 · B
+- [[works/taiwaneseamerican-org/halloween-party-sponsored-by-nyus-tsa|Halloween Party Sponsored by NYU’s TSA]] — 2011-10-28 · B
+- [[works/taiwaneseamerican-org/taiwaneseamerican-org-supports-the-2011-advancing-justice-conference-in-sf|TaiwaneseAmerican.org Supports the 2011 Advancing Justice Conference in SF]] — 2011-10-27 · B
+- [[works/taiwaneseamerican-org/free-screening-of-a-city-of-sadness-at-san-diego-asian-film-fest|Free Screening of A City of Sadness at San Diego Asian Film Fest]] — 2011-10-25 · B
+- [[works/taiwaneseamerican-org/on-passion-inspiration-with-comedian-yola-lu|On Passion & Inspiration with Comedian Yola Lu]] — 2011-10-24 · A
+- [[works/taiwaneseamerican-org/cynthia-lin-and-the-blue-moon-all-stars-the-like-mes-and-alfa-perform-in-sf|Cynthia Lin and the Blue Moon All Stars, The Like Me’s, and Alfa Perform in SF]] — 2011-10-23 · B
+- [[works/taiwaneseamerican-org/tap-celebrates-oktoberfest-in-torrance-ca|TAP Celebrates Oktoberfest in Torrance, CA]] — 2011-10-22 · B
+- [[works/taiwaneseamerican-org/intercollegiate-taiwanese-american-mixer-at-huntington-beach-ca|Intercollegiate Taiwanese American Mixer at Huntington Beach, CA]] — 2011-10-22 · B
+- [[works/taiwaneseamerican-org/college-students-join-an-itasa-norcal-mixer-at-uc-berkeley|College Students! Join an ITASA NorCal Mixer at UC Berkeley]] — 2011-10-22 · B
+- [[works/taiwaneseamerican-org/college-admissions-workshop-hosted-by-tacl-lyf-in-san-jose-ca|College Admissions Workshop Hosted by TACL-LYF in San Jose, CA]] — 2011-10-22 · B
+- [[works/taiwaneseamerican-org/cloud-gate-dance-theatre-of-taiwan-performs-at-u-of-michigan|Cloud Gate Dance Theatre of Taiwan Performs at U. of Michigan]] — 2011-10-22 · B
+- [[works/taiwaneseamerican-org/the-soonest-performs-in-sf-2|The Soonest Performs in SF]] — 2011-10-21 · B
+- [[works/taiwaneseamerican-org/taps-lim-jiu-happy-hour-in-bellevue-wa|TAPS Lim Jiu (Happy Hour) in Bellevue, WA]] — 2011-10-21 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-la-2|TAPpy Hour in LA]] — 2011-10-20 · B
+- [[works/taiwaneseamerican-org/october-tappy-hour-at-the-cabanas-in-nyc|October TAPpy Hour at The Cabanas in NYC]] — 2011-10-20 · B
+- [[works/taiwaneseamerican-org/celebrate-oktoberfest-with-tap-sf|Celebrate Oktoberfest with TAP-SF]] — 2011-10-20 · B
+- [[works/taiwaneseamerican-org/bertha-bay-sa-pans-almost-perfect-opens-12th-san-diego-asian-film-festival|Bertha Bay-Sa Pan’s Almost Perfect Opens 12th San Diego Asian Film Festival]] — 2011-10-20 · B
+- [[works/taiwaneseamerican-org/watch-pinoy-sunday-at-sfs-taiwan-film-days|Watch Pinoy Sunday at  SF’s Taiwan Film Days]] — 2011-10-15 · B
+- [[works/taiwaneseamerican-org/college-students-party-with-nyus-tass-at-pink-bash-ii|College Students: Party with NYU’s TASS at Pink Bash II]] — 2011-10-15 · B
+- [[works/taiwaneseamerican-org/the-support-taiwan-campaign-on-social-media|The “Support Taiwan” Campaign on Social Media]] — 2011-10-14 · A
+- [[works/taiwaneseamerican-org/tap-chowdown-dim-sum-party-in-nyc|TAP Chowdown Dim Sum Party in NYC]] — 2011-10-14 · B
+- [[works/taiwaneseamerican-org/extra-arms-new-release-in-parallel-now-available|Extra Arms’ New Release “In Parallel” Now Available]] — 2011-10-14 · B
+- [[works/taiwaneseamerican-org/spotlight-on-taiwanese-cinema-at-dc-apa-film-festival|Spotlight on Taiwanese Cinema at DC APA Film Festival]] — 2011-10-13 · B
+- [[works/taiwaneseamerican-org/meet-david-chiu-at-asian-american-leaders-in-government-panel-in-sf|Meet David Chiu at “Asian American Leaders in Government” Panel in SF]] — 2011-10-13 · B
+- [[works/taiwaneseamerican-org/tappy-hour-at-the-foundry-in-san-diego|TAPpy Hour at The Foundry in San Diego]] — 2011-10-10 · B
+- [[works/taiwaneseamerican-org/advance-screening-of-almost-home-taiwan|Advance Screening of “Almost Home: Taiwan”]] — 2011-10-10 · B
+- [[works/taiwaneseamerican-org/100-years-of-history-behind-double-ten-day-of-the-r-o-c|100 Years of History Behind “Double Ten” Day of the R.O.C.]] — 2011-10-10 · B
+- [[works/taiwaneseamerican-org/university-of-illinois-taiwanese-cultural-day|University of Illinois – Taiwanese Cultural Day]] — 2011-10-09 · B
+- [[works/taiwaneseamerican-org/kelly-zen-yie-tsai-presents-say-you-heard-my-echo-in-nyc|Kelly Zen-Yie Tsai Presents “Say You Heard My Echo” in NYC]] — 2011-10-09 · B
+- [[works/taiwaneseamerican-org/high-school-jtasa-fundraiser-in-san-gabriel-ca|High School JTASA FUNdraiser in San Gabriel, CA]] — 2011-10-08 · B
+- [[works/taiwaneseamerican-org/formosa-mixer-party-for-collegiate-students-in-boston|Formosa Mixer Party for Collegiate Students in Boston]] — 2011-10-08 · B
+- [[works/taiwaneseamerican-org/banquet-honoring-rev-milo-thornberry-judith-thomas-in-irvine-ca|Banquet Honoring Rev. Milo Thornberry & Judith Thomas in Irvine, CA]] — 2011-10-08 · B
+- [[works/taiwaneseamerican-org/mixed-monthly-networking-event-in-nyc|“Mixed” Monthly Networking Event in NYC]] — 2011-10-07 · B
+- [[works/taiwaneseamerican-org/taiwan-based-a-moving-sound-tours-east-west-coast|Taiwan-based “A Moving Sound” Tours East & West Coast]] — 2011-10-06 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-washington-dc-2|TAPpy Hour in Washington DC]] — 2011-10-06 · B
+- [[works/taiwaneseamerican-org/tap-sf-professional-series-creating-a-successful-resume|TAP-SF Professional Series: Creating a Successful Resume]] — 2011-10-05 · B
+- [[works/taiwaneseamerican-org/why-taiwan-matters-part-ii|Why Taiwan Matters, Part II]] — 2011-10-04 · A
+- [[works/taiwaneseamerican-org/taiwanese-junior-chamber-of-commerce-supports-one-laptop-per-child|Taiwanese Junior Chamber of Commerce Supports One Laptop Per Child]] — 2011-10-01 · B
+- [[works/taiwaneseamerican-org/taiwan-cuisine-carnival-hosted-by-tjcc-chicago|Taiwan Cuisine Carnival hosted by TJCC Chicago]] — 2011-10-01 · B
+- [[works/taiwaneseamerican-org/tap-community-service-in-sf-be-the-change-day|TAP Community Service in SF: Be The Change Day]] — 2011-10-01 · A
+- [[works/taiwaneseamerican-org/happy-birthday-ho-chie|Happy Birthday Ho Chie! – Donate to TaiwaneseAmerican.org]] — 2011-10-01 · A
+- [[works/taiwaneseamerican-org/bowling-pool-happy-hour-with-taps-in-seattle|Bowling & Pool Happy Hour with TAPS in Seattle]] — 2011-10-01 · B
+- [[works/taiwaneseamerican-org/tap-karaoke-night-in-nyc|TAP Karaoke Night in NYC]] — 2011-09-30 · B
+- [[works/taiwaneseamerican-org/happy-hour-with-taiwanese-junior-chamber-of-commerce-in-chicago|Happy Hour with Taiwanese Junior Chamber of Commerce in Chicago]] — 2011-09-29 · B
+- [[works/taiwaneseamerican-org/a-taiwanese-american-story-celebrating-malachys-70-year-old-gong-gong|A Taiwanese American Story: Celebrating Malachy’s 70 Year-old Gong Gong]] — 2011-09-28 · A
+- [[works/taiwaneseamerican-org/tap-joins-team-taiwan-race-for-the-cure-in-newport-beach-ca|TAP joins “Team Taiwan” Race for the Cure in Newport Beach, CA]] — 2011-09-25 · B
+- [[works/taiwaneseamerican-org/join-team-taiwan-for-the-annual-komen-sf-race-for-the-cure|Join Team Taiwan for the Annual Komen SF Race for the Cure]] — 2011-09-25 · B
+- [[works/taiwaneseamerican-org/taiwan-centennial-celebration-in-houston-tx|Taiwan Centennial Celebration in Houston, TX]] — 2011-09-24 · B
+- [[works/taiwaneseamerican-org/le-noir-jazz-networking-evening-presented-by-tap-ny|‘Le Noir’ Jazz Networking Evening Presented by TAP-NY]] — 2011-09-23 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-medicalhealth-professionals-convention-in-dc|Taiwanese American Medical/Health Professionals Convention in Washington, DC]] — 2011-09-23 · B
+- [[works/taiwaneseamerican-org/tappy-hour-with-taiwanese-american-professionals-in-la|TAPpy Hour with Taiwanese American Professionals in LA]] — 2011-09-22 · B
+- [[works/taiwaneseamerican-org/johnny-hi-fis-eric-hsu-and-nba-player-jeremy-lin-at-kollaboration-sf|Johnny Hi-Fi’s Eric Hsu and NBA Player Jeremy Lin at Kollaboration SF]] — 2011-09-21 · A
+- [[works/taiwaneseamerican-org/tap-jtasa-and-youtube-star-jason-chen-at-harvest-moon-festival-in-la|TAP, JTASA, and YouTube Star Jason Chen at Harvest Moon Festival in LA]] — 2011-09-18 · B
+- [[works/taiwaneseamerican-org/poolside-bbq-with-tap-in-san-diego|Poolside BBQ with TAP in San Diego]] — 2011-09-18 · B
+- [[works/taiwaneseamerican-org/un-for-taiwan-rally-in-nyc|UN for Taiwan Rally in NYC]] — 2011-09-17 · B
+- [[works/taiwaneseamerican-org/taiwan-week-in-new-york|Taiwan Week in New York]] — 2011-09-17 · B
+- [[works/taiwaneseamerican-org/new-students-welcome-party-moon-festival-celebration-in-florida|New Students Welcome Party & Moon Festival Celebration in Florida]] — 2011-09-17 · B
+- [[works/taiwaneseamerican-org/4961|Dr. Ing-Wen Tsai Speaker Session in Houston, TX]] — 2011-09-17 · B
+- [[works/taiwaneseamerican-org/dawen-performs-at-san-diegos-amp-music-festival|Dawen Performs at San Diego’s AMP Music Festival]] — 2011-09-17 · B
+- [[works/taiwaneseamerican-org/the-soonest-and-the-slants-play-at-rockit-room-in-sf|The Soonest and The Slants Play at Rockit Room in SF]] — 2011-09-15 · B
+- [[works/taiwaneseamerican-org/tappy-hour-celebrate-the-moon-festival-with-tap-sf|TAPpy Hour – Celebrate the Moon Festival with TAP-SF]] — 2011-09-14 · B
+- [[works/taiwaneseamerican-org/taiwan-heritage-night-with-the-mets-in-ny|Taiwan Heritage Night with the Mets in NY]] — 2011-09-12 · B
+- [[works/taiwaneseamerican-org/celebrate-taiwan-mid-autumn-festival-with-taps-in-new-castle-wa|Celebrate Taiwan Mid Autumn Festival with TAPS in New Castle, WA]] — 2011-09-11 · B
+- [[works/taiwaneseamerican-org/taiwanese-arts-week-madison-wi|Taiwanese Arts Week – Madison, WI]] — 2011-09-10 · B
+- [[works/taiwaneseamerican-org/seminar-by-director-of-the-taiwan-trade-center-of-miami|Seminar by Director of the Taiwan Trade Center of Miami]] — 2011-09-10 · B
+- [[works/taiwaneseamerican-org/seminar-explores-san-francisco-peace-treaty-60-years-later|Seminar Explores San Francisco Peace Treaty 60 Years Later]] — 2011-09-10 · B
+- [[works/taiwaneseamerican-org/johnny-hi-fi-competes-in-kollaboration-sf|Johnny Hi-Fi Competes in Kollaboration SF]] — 2011-09-10 · B
+- [[works/taiwaneseamerican-org/summer-networking-mixer-with-fapa-ypg-in-ny|Summer Networking Mixer with FAPA-YPG in NY]] — 2011-09-09 · B
+- [[works/taiwaneseamerican-org/time-for-some-extra-arms|Time for Some Extra Arms]] — 2011-09-08 · B
+- [[works/taiwaneseamerican-org/taiwaneseamerican-org-ho-chie-tsai-featured-on-taiwan543-net|TaiwaneseAmerican.org’s Ho Chie Tsai Featured on Taiwan543.net]] — 2011-09-08 · A
+- [[works/taiwaneseamerican-org/tappy-hour-in-washington-dc|TAPpy Hour in Washington DC]] — 2011-09-07 · B
+- [[works/taiwaneseamerican-org/tap-ny-hosts-a-small-business-workshop|TAP-NY Hosts a Small Business Workshop]] — 2011-09-07 · B
+- [[works/taiwaneseamerican-org/jen-che-delights-readers-with-her-tiny-urban-kitchen|Jen Che Delights Readers With Her Tiny Urban Kitchen]] — 2011-09-07 · A
+- [[works/taiwaneseamerican-org/formosa-foundation-hosts-community-forum-with-congressman-berman|Formosa Foundation Hosts Community Forum with Congressman Berman]] — 2011-09-03 · A
+- [[works/taiwaneseamerican-org/2nd-annual-tap-flag-football-season-in-ny|2nd Annual TAP Flag Football Season in NY]] — 2011-09-01 · B
+- [[works/taiwaneseamerican-org/taiwan-cinema-in-chicago|Taiwan Cinema in Chicago throughout August]] — 2011-08-31 · B
+- [[works/taiwaneseamerican-org/dinner-banquet-hosted-by-taiwanese-american-chamber-of-commerce-in-la|Dinner Banquet Hosted by Taiwanese American Chamber of Commerce in LA]] — 2011-08-31 · B
+- [[works/taiwaneseamerican-org/trivia-night-with-taiwanese-american-professionals-in-sf|Trivia Night with Taiwanese American Professionals in SF]] — 2011-08-30 · B
+- [[works/taiwaneseamerican-org/stephanie-chuang-on-life-in-broadcast-journalism|Stephanie Chuang on Life in Broadcast Journalism]] — 2011-08-29 · A
+- [[works/taiwaneseamerican-org/happy-kids-day-festival-in-cupertino-ca|Happy Kids Day Festival in Cupertino, CA]] — 2011-08-28 · B
+- [[works/taiwaneseamerican-org/chicago-taiwanese-american-professionals-host-a-downtown-bbq|Chicago Taiwanese American Professionals Host a Downtown BBQ]] — 2011-08-28 · B
+- [[works/taiwaneseamerican-org/taps-jiabun-family-dinner|Taiwanese American Professionals Society of Seattle’s “Jia Bun” Family Dinner]] — 2011-08-27 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-health-professionals-dinnerspeaker-event-in-ny|Taiwanese American Health Professionals Dinner/Speaker Event in NY]] — 2011-08-27 · B
+- [[works/taiwaneseamerican-org/tap-nys-first-annual-tap-softball-team|TAP-NY’s First Annual TAP Softball Team]] — 2011-08-27 · B
+- [[works/taiwaneseamerican-org/fapa-ypg-2011-national-conference|FAPA-YPG 2011 National Conference]] — 2011-08-27 · B
+- [[works/taiwaneseamerican-org/dim-sum-with-taiwanese-american-professionals-in-austin-tx|Dim Sum with Taiwanese American Professionals in Austin, TX]] — 2011-08-27 · B
+- [[works/taiwaneseamerican-org/fapa-ypg-sfbay-area-meeting|FAPA-YPG SF/Bay Area Meeting]] — 2011-08-25 · B
+- [[works/taiwaneseamerican-org/tap7th-annual-banquet-casino-night|TAP 7th Annual Banquet & Casino Night]] — 2011-08-20 · B
+- [[works/taiwaneseamerican-org/hike-at-rattlesnake-ledge-with-taiwanese-american-professionals-society-of-seatt|Hike at Rattlesnake Ledge with Taiwanese American Professionals Society of Seattle]] — 2011-08-20 · B
+- [[works/taiwaneseamerican-org/beach-getaway-with-tap-in-ny|Beach Getaway with TAP in NY]] — 2011-08-20 · B
+- [[works/taiwaneseamerican-org/taccla-happy-hour-mixer|TACCLA Happy Hour Mixer]] — 2011-08-18 · B
+- [[works/taiwaneseamerican-org/indie-band-extra-arms-opens-for-danish-band-figurines-in-ny|Indie Band Extra Arms Opens for Danish Band Figurines in NY]] — 2011-08-17 · B
+- [[works/taiwaneseamerican-org/su-bengs-2011-us-tour-reconnecting-with-taiwanese-america|Su Beng’s 2011 US Tour: Reconnecting with Taiwanese America]] — 2011-08-15 · B
+- [[works/taiwaneseamerican-org/why-taiwan-we-ask-blogger-jade-star-of-wai-taiwan-com|Why Taiwan? We Ask Blogger Jade Star of Wai-Taiwan.com]] — 2011-08-14 · A
+- [[works/taiwaneseamerican-org/taiwan-night-at-la-dodgers-vs-houston-astros-game|Taiwan Night at LA Dodgers vs Houston Astros Game]] — 2011-08-13 · B
+- [[works/taiwaneseamerican-org/tw-bookmarks-and-outreach-in-new-york|TW Bookmarks and Outreach in New York]] — 2011-08-13 · B
+- [[works/taiwaneseamerican-org/taps-lim-jiu-happy-hour-at-acquabar-in-seattle|TAPS Lim Jiu (Happy Hour) at Acquabar in Seattle]] — 2011-08-12 · B
+- [[works/taiwaneseamerican-org/register-for-tacls-leadership-identity-development-camp-for-youth|Register for TACL’s Leadership Identity Development Camp for Youth]] — 2011-08-10 · B
+- [[works/taiwaneseamerican-org/tap-in-new-york-goes-white-water-rafting|TAP in New York Goes White Water Rafting]] — 2011-08-07 · B
+- [[works/taiwaneseamerican-org/southbay-hillside-hiking-with-tap-in-sf|Southbay Hillside Hiking with TAP in SF]] — 2011-08-07 · B
+- [[works/taiwaneseamerican-org/natma2g-hosts-a-golf-tournament-in-southern-california|NATMA2G Hosts a Golf Tournament in Southern California]] — 2011-08-07 · B
+- [[works/taiwaneseamerican-org/taiwanese-cooking-workshop-by-tap-in-new-york|Taiwanese Cooking Workshop by TAP in New York]] — 2011-08-06 · B
+- [[works/taiwaneseamerican-org/follow-nikki-on-her-quest-for-the-crown-in-the-miss-taiwanese-american-pageant|Follow Nikki on her Quest for the Crown in the Miss Taiwanese American Pageant]] — 2011-08-06 · A
+- [[works/taiwaneseamerican-org/welcome-reception-in-florida-for-youth-ambassadors-from-taiwan|Welcome Reception in Florida for Youth Ambassadors from Taiwan]] — 2011-08-05 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-la|TAPpy Hour in LA]] — 2011-08-04 · B
+- [[works/taiwaneseamerican-org/tap-chicago-happy-hour-mixer|TAP Chicago Happy Hour Mixer]] — 2011-08-03 · B
+- [[works/taiwaneseamerican-org/plate-by-plate-kickoff-happy-hour-with-tap-in-san-francisco|Plate by Plate Kickoff Happy Hour with TAP in San Francisco]] — 2011-08-03 · B
+- [[works/taiwaneseamerican-org/on-being-stupid|On Being Stupid]] — 2011-08-01 · A
+- [[works/taiwaneseamerican-org/taiwanese-american-foundation-2011-summer-conference-the-ones|Taiwanese American Foundation 2011 Summer Conference: “The Ones”]] — 2011-07-31 · B
+- [[works/taiwaneseamerican-org/taiwanese-food-bonanza-with-tap-in-austin-tx|Taiwanese Food Bonanza with TAP in Austin, TX]] — 2011-07-30 · B
+- [[works/taiwaneseamerican-org/tap-taiwanese-karaoke-league-kala-okay-collaboration-in-nyc|TAP & Taiwanese Karaoke League Kala-Okay Collaboration in NYC]] — 2011-07-30 · B
+- [[works/taiwaneseamerican-org/eat-at-30th-on-30th-with-tap-in-san-diego|Eat at 30th on 30th with TAP in San Diego]] — 2011-07-30 · B
+- [[works/taiwaneseamerican-org/community-roundtable-in-la-briefing-on-taiwan-e2-80-99s-resurgence-in-washington|Community Roundtable in LA: Briefing on Taiwan’s Resurgence in Washington]] — 2011-07-30 · A
+- [[works/taiwaneseamerican-org/cheer-on-the-taiwan-dragonboat-team-in-long-beach-ca|Cheer on the Taiwan Dragonboat Team in Long Beach, CA]] — 2011-07-30 · B
+- [[works/taiwaneseamerican-org/car-wash-fundraiser-in-la-to-support-tacl-lid-youth-summer-camp|Car Wash Fundraiser in LA to Support TACL-LID Youth Summer Camp]] — 2011-07-30 · B
+- [[works/taiwaneseamerican-org/taiwanese-youth-culture-leadership-conference|Taiwanese Youth Culture & Leadership Conference]] — 2011-07-28 · B
+- [[works/taiwaneseamerican-org/tap-comedy-night-with-eliot-chang-in-nyc|TAP Comedy Night with Eliot Chang in NYC]] — 2011-07-28 · B
+- [[works/taiwaneseamerican-org/the-soonest-performs-in-sf|The Soonest Performs in SF]] — 2011-07-24 · B
+- [[works/taiwaneseamerican-org/1st-annual-tap-central-park-field-day-olympics|1st Annual TAP Central Park Field Day Olympics]] — 2011-07-24 · B
+- [[works/taiwaneseamerican-org/underwoman-and-the-believers-play-in-west-hollywood-ca|Underwoman and the Believers Play in West Hollywood, CA]] — 2011-07-23 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-medical-and-health-professionals-meeting|Taiwanese American Medical and Health Professionals Meeting]] — 2011-07-23 · B
+- [[works/taiwaneseamerican-org/an-evening-with-su-beng-in-nyc-reading-talk-documentary-film-trailer|An Evening with Su Beng in NYC -Reading, Talk & Documentary Film Trailer]] — 2011-07-22 · B
+- [[works/taiwaneseamerican-org/july-tappy-hour-in-nyc|July TAPpy Hour in NYC]] — 2011-07-21 · B
+- [[works/taiwaneseamerican-org/tappy-hour-at-cafe-asia-in-the-dc-area|TAPpy Hour at Cafe Asia in the DC Area]] — 2011-07-20 · B
+- [[works/taiwaneseamerican-org/su-beng-u-s-speech-tour-e2-80-93-boston-visit|Su Beng U.S. Speech Tour – Boston Visit]] — 2011-07-16 · B
+- [[works/taiwaneseamerican-org/indie-band-extra-arms-performs-in-brooklyn-ny|Indie Band Extra Arms Performs in Brooklyn, NY]] — 2011-07-15 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-professionals-host-tappy-hour-in-san-jose-ca|Taiwanese American Professionals Host TAPpy Hour in San Jose, CA]] — 2011-07-13 · B
+- [[works/taiwaneseamerican-org/tap-speaker-series-in-nyc-social-change-impact-entrepreneurship|TAP Speaker Series in NYC: Social Change, Impact, & Entrepreneurship]] — 2011-07-13 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-professionals-speed-networking-in-la|Taiwanese American Professionals Speed Networking in LA]] — 2011-07-09 · B
+- [[works/taiwaneseamerican-org/tap-sfs-summer-taiwanese-style-bbq|TAP-SF’s Summer Taiwanese Style BBQ]] — 2011-07-09 · B
+- [[works/taiwaneseamerican-org/paperdoll-headlines-mercury-lounge-in-nyc|PaperDoll Headlines Mercury Lounge in NYC]] — 2011-07-09 · B
+- [[works/taiwaneseamerican-org/southeastern-taiwanese-american-association-annual-conference-in-south-carolina|Southeastern Taiwanese American Association Annual Conference in South Carolina]] — 2011-07-08 · B
+- [[works/taiwaneseamerican-org/tap-co-sponsors-scclas-summer-associate-mixer-in-la|TAP Co-Sponsors SCCLA’s Summer Associate Mixer in LA]] — 2011-07-07 · B
+- [[works/taiwaneseamerican-org/inside-natwa-ii-an-interview-with-co-founder-joann-lo|Inside NATWA II: An Interview with Co-founder Joann Lo]] — 2011-07-06 · A
+- [[works/taiwaneseamerican-org/application-for-2011-miss-taiwanese-american-pageant|Application for 2011 Miss Taiwanese American Pageant]] — 2011-07-05 · B
+- [[works/taiwaneseamerican-org/taiwan-tea-gala-in-la|Taiwan Tea Gala in LA]] — 2011-07-02 · B
+- [[works/taiwaneseamerican-org/taiwan-night-performances-at-tacwc-in-san-diego-ca|Taiwan Night Performances at TACWC in San Diego, CA]] — 2011-07-02 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-conference-west-coast-natpa-program-in-san-diego-ca|Taiwanese American Conference West Coast & NATPA Program in San Diego, CA]] — 2011-07-01 · B
+- [[works/taiwaneseamerican-org/register-for-tang-east-coast-conference|Register for TANG East Coast Conference]] — 2011-07-01 · B
+- [[works/taiwaneseamerican-org/la-event-treasures-of-the-taiwanese-american-community-undocumented-uncovered|LA Event: Treasures of the Taiwanese American Community: Undocumented & Uncovered]] — 2011-06-25 · A
+- [[works/taiwaneseamerican-org/taiwanese-american-professionals-in-new-york-host-tappy-hour|Taiwanese American Professionals in New York Host “TAPpy Hour”]] — 2011-06-23 · B
+- [[works/taiwaneseamerican-org/dzian-takes-vintage-asian-garage-surf-rock-to-nyc|Dzian! Takes Vintage Asian Garage-Surf Rock to NYC]] — 2011-06-23 · B
+- [[works/taiwaneseamerican-org/register-for-the-tacl-leading-youth-forward-summer-camp-in-the-sf-bay-area|Register for the TACL “Leading Youth Forward” Summer Camp in the SF Bay Area]] — 2011-06-22 · B
+- [[works/taiwaneseamerican-org/re-election-kick-off-fundraiser-for-jay-chen|Re-election Kick-off Fundraiser for Jay Chen]] — 2011-06-22 · B
+- [[works/taiwaneseamerican-org/formosa-prix-fixe-menu|Formosa Prix Fixe Menu: An Adventure in Taiwanese Cuisine]] — 2011-06-21 · A
+- [[works/taiwaneseamerican-org/taiwanese-junior-chamber-seminar-event-on-real-estate|Taiwanese Junior Chamber of Commerce Seminar Event in Florida]] — 2011-06-18 · B
+- [[works/taiwaneseamerican-org/make-taiwanese-food-with-a-ma-in-new-york|Make Taiwanese Food with A-Ma in New York]] — 2011-06-18 · B
+- [[works/taiwaneseamerican-org/first-formosart-exhibition-in-pomona-ca|First FORMOSArt Exhibition in Pomona, CA]] — 2011-06-18 · B
+- [[works/taiwaneseamerican-org/dinner-with-taiwanese-american-medical-health-professionals-in-ny|Dinner with Taiwanese American Medical & Health Professionals in NY]] — 2011-06-18 · B
+- [[works/taiwaneseamerican-org/summer-party-cruise-with-taiwanese-american-professionals-in-ny|Summer Party Cruise with Taiwanese American Professionals in NY]] — 2011-06-17 · B
+- [[works/taiwaneseamerican-org/north-american-taiwan-studies-association-annual-conference-in-pittsburgh|North American Taiwan Studies Association Annual Conference in Pittsburgh]] — 2011-06-17 · B
+- [[works/taiwaneseamerican-org/words-with-poet-kelly-zen-yie-tsai|Words with Poet Kelly Zen-Yie Tsai]] — 2011-06-16 · A
+- [[works/taiwaneseamerican-org/tappy-hour-at-silk-lounge-in-monterey-park-ca|TAPpy Hour at Silk Lounge in Monterey Park, CA]] — 2011-06-16 · B
+- [[works/taiwaneseamerican-org/house-committee-on-foreign-affairs-hearing-on-why-taiwan-matters|House Committee on Foreign Affairs Hearing on “Why Taiwan Matters”]] — 2011-06-16 · B
+- [[works/taiwaneseamerican-org/tap-new-york-hosts-a-topic-dinner-paper-tigers|TAP – New York Hosts a Topic Dinner: Paper Tigers]] — 2011-06-15 · B
+- [[works/taiwaneseamerican-org/scholarship-for-taiwanese-american-medical-health-professional-students-and-resi|Scholarship for Taiwanese American Medical / Health Professional Students and Residents]] — 2011-06-15 · B
+- [[works/taiwaneseamerican-org/support-hong-chih-kuo-at-dodgers-vs-reds-game-in-la|Support Hong-Chih Kuo at Dodgers vs. Reds Game in LA]] — 2011-06-14 · B
+- [[works/taiwaneseamerican-org/seattle-tjcc-seminar|Seattle TJCC Seminar]] — 2011-06-11 · B
+- [[works/taiwaneseamerican-org/la-event-rep-ileana-ros-lehtinen-on-why-taiwan-matters|LA Event: Rep. Ileana Ros-Lehtinen on “Why Taiwan Matters”]] — 2011-06-11 · B
+- [[works/taiwaneseamerican-org/au-revoir-taipei-screens-during-chicago-international-film-festival|Au Revoir Taipei Screens during Chicago International Film Festival]] — 2011-06-11 · B
+- [[works/taiwaneseamerican-org/sfbay-areas-goohana-june-line-up-includes-cynthia-lin-and-the-soonest|SF/Bay Area’s “Go!Ohana” June Line-up Includes Cynthia Lin and The Soonest]] — 2011-06-10 · B
+- [[works/taiwaneseamerican-org/erin-li-brings-filmmaking-and-storytelling-to-life|Erin Li Brings Filmmaking and Storytelling to Life]] — 2011-06-10 · A
+- [[works/taiwaneseamerican-org/taiwanese-junior-chamber-of-commerce-miami-chapter-hosts-a-community-service-eve|Taiwanese Junior Chamber of Commerce Miami Chapter Hosts a Community Service Event]] — 2011-06-08 · A
+- [[works/taiwaneseamerican-org/taiwanese-american-professionals-tappy-hour-at-palomino-in-sf|Taiwanese American Professionals “TAPpy Hour” at Palomino in SF]] — 2011-06-07 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-professionals-hillside-hike-in-sfbay-area|Taiwanese American Professionals’ Hillside Hike in SF/Bay Area]] — 2011-06-05 · B
+- [[works/taiwaneseamerican-org/join-taiwanese-american-organizations-at-bostons-cambridge-river-festival|Join Taiwanese American Organizations at Boston’s Cambridge River Festival]] — 2011-06-04 · B
+- [[works/taiwaneseamerican-org/tappy-hour-with-taiwanese-american-professionals-in-washington-dc|TAPpy Hour with  Taiwanese American Professionals in Washington DC]] — 2011-06-01 · B
+- [[works/taiwaneseamerican-org/ambassadors-of-taiwan-tea|Ambassadors of Taiwan Tea]] — 2011-06-01 · A
+- [[works/taiwaneseamerican-org/tap-sf-professional-series-public-speaking-with-toastmasters|TAP-SF Professional Series: Public Speaking with Toastmasters]] — 2011-05-31 · B
+- [[works/taiwaneseamerican-org/next-media-animation-brings-news-to-life|Next Media Animation Brings News to Life]] — 2011-05-31 · A
+- [[works/taiwaneseamerican-org/meet-christina-yao-director-of-empire-of-silver|Meet Christina Yao, Director of “Empire of Silver”]] — 2011-05-31 · A
+- [[works/taiwaneseamerican-org/jen-shyu-solo-performance-with-jade-tongue|Jen Shyu Solo Performance with Jade Tongue]] — 2011-05-30 · B
+- [[works/taiwaneseamerican-org/passport-to-taiwan-fest|Passport to Taiwan Festival in NYC]] — 2011-05-29 · B
+- [[works/taiwaneseamerican-org/karaoke-with-taiwanese-american-professionals-in-austin-tx|Karaoke with Taiwanese American Professionals in Austin, TX]] — 2011-05-27 · B
+- [[works/taiwaneseamerican-org/taiwanese-culture-night-at-ucla-a-soldiers-ink|Taiwanese Culture Night at UCLA: “A Soldier’s Ink”]] — 2011-05-26 · B
+- [[works/taiwaneseamerican-org/tappy-hour-with-taiwanese-american-professionals-in-austin-tx|TAPpy Hour with Taiwanese American Professionals in Austin, TX]] — 2011-05-26 · B
+- [[works/taiwaneseamerican-org/taiwan-culinary-art-show-in-austin-tx|Taiwan Culinary Art Show in Austin, TX]] — 2011-05-24 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-heritage-festival-in-la|Taiwanese American Heritage Festival in LA]] — 2011-05-22 · B
+- [[works/taiwaneseamerican-org/taiwan-advocacy-workshop-in-seattle|Taiwan Advocacy Workshop in Seattle]] — 2011-05-21 · B
+- [[works/taiwaneseamerican-org/tap-dc-at-fiesta-asia-street-fair|TAP-DC at Fiesta Asia Street Fair]] — 2011-05-21 · B
+- [[works/taiwaneseamerican-org/may-tappy-hour-at-hotel-chantelle-in-nyc|May TAPpy Hour at Hotel Chantelle in NYC]] — 2011-05-20 · B
+- [[works/taiwaneseamerican-org/taiwan-stories-classic-and-contemporary-film-from-taiwan-playing-in-nyc|Taiwan Stories: Classic and Contemporary Film from Taiwan Playing in NYC]] — 2011-05-19 · B
+- [[works/taiwaneseamerican-org/celebrate-taiwanese-american-heritage-week-in-florida|Celebrate Taiwanese American Heritage Week in Florida]] — 2011-05-19 · B
+- [[works/taiwaneseamerican-org/taiwan-night-concert-in-el-monte-ca|Taiwan Night Concert in El Monte, CA]] — 2011-05-15 · B
+- [[works/taiwaneseamerican-org/violin-concert-in-celebration-of-taiwanese-american-heritage-week-in-houston|Violin Concert in Celebration of Taiwanese American Heritage Week in Houston]] — 2011-05-14 · B
+- [[works/taiwaneseamerican-org/taiwanese-night-market-event-at-uw-seattle|Taiwanese Night Market Event at UW, Seattle]] — 2011-05-14 · B
+- [[works/taiwaneseamerican-org/taiwanese-food-fair-in-san-diego|Taiwanese Food Fair in San Diego]] — 2011-05-14 · B
+- [[works/taiwaneseamerican-org/19th-annual-sf-taiwanese-american-cultural-festival|19th Annual SF Taiwanese American Cultural Festival]] — 2011-05-14 · B
+- [[works/taiwaneseamerican-org/2011-taiwan-heritage-week-north-american-music-tour|2011 Taiwan Heritage Week North American Music Tour Through Chicago]] — 2011-05-13 · B
+- [[works/taiwaneseamerican-org/tap-sf-may-tappy-hour-v-bar-in-san-jose|TAP-SF May TAPpy Hour: V Bar in San Jose!]] — 2011-05-11 · B
+- [[works/taiwaneseamerican-org/getting-personal-with-lynn-chen|Getting Personal with Lynn Chen]] — 2011-05-08 · A
+- [[works/taiwaneseamerican-org/ready-set-go-los-angeles-asian-pacific-film-festival|Ready! Set! Go! Los Angeles Asian Pacific Film Festival!]] — 2011-05-07 · B
+- [[works/taiwaneseamerican-org/la-dodgers-vs-ny-mets-hu-vs-kuo|LA Dodgers vs NY Mets (Hu vs Kuo)]] — 2011-05-07 · B
+- [[works/taiwaneseamerican-org/dumpling-party-identity-discussion-hosted-by-taiwanese-american-womens-organizat|Dumpling Party & Identity Discussion Hosted by Taiwanese American Women’s Organization in SF]] — 2011-05-07 · B
+- [[works/taiwaneseamerican-org/the-taiwanese-american-story-a-history-in-progress|The Taiwanese American Story: A History in Progress]] — 2011-05-02 · A
+- [[works/taiwaneseamerican-org/celebrate-taiwanese-american-heritage-week|Celebrate Taiwanese American Heritage Week!]] — 2011-05-02 · B
+- [[works/taiwaneseamerican-org/volunteer-for-citizenship-drive-event-in-flushing-ny|Volunteer for Citizenship Drive Event in Flushing, NY]] — 2011-05-01 · B
+- [[works/taiwaneseamerican-org/footprints-imprints-between-generations-an-itasa-project|Footprints: Imprints Between Generations – An ITASA Project]] — 2011-05-01 · B
+- [[works/taiwaneseamerican-org/4298|The Soonest EP Release Party in SF]] — 2011-04-30 · B
+- [[works/taiwaneseamerican-org/the-7th-annual-asian-heritage-street-celebration-artist-preview-show-in-sf|The 7th Annual Asian Heritage Street Celebration – Artist Preview Show in SF]] — 2011-04-30 · B
+- [[works/taiwaneseamerican-org/tap-community-service-for-la-river-clean-up|TAP Community Service for LA River Clean Up]] — 2011-04-30 · A
+- [[works/taiwaneseamerican-org/night-market-at-university-of-maryland|Night Market at University of Maryland]] — 2011-04-29 · B
+- [[works/taiwaneseamerican-org/the-hsu-nami-perform-at-pianos-in-nyc|The Hsu-Nami Perform at Pianos in NYC]] — 2011-04-28 · B
+- [[works/taiwaneseamerican-org/tappy-hour-opening-event-for-tap-in-austin-tx|TAPpy Hour & Opening Event for TAP in Austin, TX]] — 2011-04-27 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-professional-mixer-in-san-diego|Taiwanese American Professional Mixer in San Diego]] — 2011-04-26 · B
+- [[works/taiwaneseamerican-org/tap-nys-professional-speaker-series|TAP-NY’s Professional Speaker Series]] — 2011-04-26 · B
+- [[works/taiwaneseamerican-org/indie-band-paperdoll-on-west-east-coast-tour|Indie Band PaperDoll on West & East Coast Tour]] — 2011-04-26 · B
+- [[works/taiwaneseamerican-org/an-investment-workshop-hosted-by-taps-in-seattle|An Investment Workshop hosted by TAPS in Seattle]] — 2011-04-26 · B
+- [[works/taiwaneseamerican-org/a-moment-with-michelle-krusiec-reflections-on-life-as-an-actor|A Moment with Michelle Krusiec: Reflections on Life as an Actor]] — 2011-04-25 · A
+- [[works/taiwaneseamerican-org/interview-with-bertha-bay-sa-pan-director-of-e2-80-9calmost-perfect-e2-80-9d|Interview with Bertha Bay-Sa Pan, Director of “Almost Perfect”]] — 2011-04-24 · A
+- [[works/taiwaneseamerican-org/taiwanese-night-market-at-johns-hopkins-university|Taiwanese Night Market at Johns Hopkins University]] — 2011-04-23 · B
+- [[works/taiwaneseamerican-org/instant-noodles-crew-on-abdc-season-6|Instant Noodles Crew on ABDC Season 6!]] — 2011-04-23 · B
+- [[works/taiwaneseamerican-org/natwa-hosts-taiwanese-american-womens-conference-in-st-louis|NATWA Hosts Taiwanese American Women’s Conference in St. Louis]] — 2011-04-22 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-nyc|TAPpy Hour in NYC]] — 2011-04-21 · B
+- [[works/taiwaneseamerican-org/tappy-hour-with-tap-dc|TAPpy Hour with TAP-DC]] — 2011-04-20 · B
+- [[works/taiwaneseamerican-org/spoken-word-artist-kelly-zen-yie-tsai-east-coast-tour|Spoken Word Artist Kelly Zen-Yie Tsai East Coast Tour]] — 2011-04-20 · B
+- [[works/taiwaneseamerican-org/thomas-shu-ambassador-of-taiwan-tea-presents-a-hands-on-tea-workshop-in-chicago|Thomas Shu, Ambassador of Taiwan Tea, Presents a Hands-on Tea Workshop in Chicago]] — 2011-04-17 · B
+- [[works/taiwaneseamerican-org/tap-sf-community-service-event-earth-day-giving-at-an-urban-farm|TAP-SF Community Service Event: Earth Day Giving at an Urban Farm]] — 2011-04-17 · A
+- [[works/taiwaneseamerican-org/taiwanese-american-singer-songwriter-carolyn-chen-presents-m-m-m-music|Taiwanese American Singer-Songwriter Carolyn Chen Presents “m-m-m-music”]] — 2011-04-16 · B
+- [[works/taiwaneseamerican-org/cleaner-and-greener-with-tap-nys-community-service-event|Cleaner and Greener with TAP-NY’s Community Service Event]] — 2011-04-16 · A
+- [[works/taiwaneseamerican-org/tap-chicago-hosts-cape-no-7-film-screening-and-networking-mixer|TAP Chicago Hosts “Cape No. 7” Film Screening and Networking Mixer]] — 2011-04-15 · B
+- [[works/taiwaneseamerican-org/summer-political-internships-in-top-governmental-offices|TACL Political Internships in Top Governmental Offices]] — 2011-04-15 · B
+- [[works/taiwaneseamerican-org/itasa-midwest-conference-at-northwestern-university|ITASA Midwest Conference at Northwestern University]] — 2011-04-15 · B
+- [[works/taiwaneseamerican-org/tap-sf-e2-80-93-april-tappy-hour-say-aloha-to-spring|TAP-SF – April TAPpy Hour: Say Aloha to Spring!]] — 2011-04-13 · B
+- [[works/taiwaneseamerican-org/jenton-and-stephanie-and-a-pop-mashup|Jenton and Stephanie and a Pop Mashup!]] — 2011-04-13 · A
+- [[works/taiwaneseamerican-org/night-carnival-at-university-of-illinois-at-urbana-champaign|Night Carnival at University of Illinois at Urbana-Champaign]] — 2011-04-08 · B
+- [[works/taiwaneseamerican-org/itasa-2011-west-coast-conference-presents-taiwans-got-talent|ITASA 2011 West Coast Conference Presents: Taiwan’s Got Talent]] — 2011-04-08 · B
+- [[works/taiwaneseamerican-org/exploring-untapped-cities-with-michelle-young|Exploring Untapped Cities with Michelle Young]] — 2011-04-08 · A
+- [[works/taiwaneseamerican-org/emory-university-ga-tech-tasa-annual-night-market|Emory University & GA Tech TASA Annual Night Market]] — 2011-04-08 · B
+- [[works/taiwaneseamerican-org/dawen-performs-at-goohana-in-berkeley|Dawen Performs at GO!OHANA in Berkeley]] — 2011-04-08 · B
+- [[works/taiwaneseamerican-org/spoken-word-artist-kelly-zen-yie-tsai-performs-in-madison-wi|Spoken Word Artist Kelly Zen-Yie Tsai Performs in Madison, WI]] — 2011-04-07 · B
+- [[works/taiwaneseamerican-org/itasa-west-coast-conference-at-uc-berkeley|ITASA West Coast Conference at UC Berkeley]] — 2011-04-07 · B
+- [[works/taiwaneseamerican-org/surrogate-valentine-plays-at-dallas-international-film-festival|Surrogate Valentine Plays at Dallas International Film Festival]] — 2011-04-06 · B
+- [[works/taiwaneseamerican-org/benjamin-shih-not-your-ordinary-taiwanese-american|Benjamin Shih – Not Your Ordinary Taiwanese American]] — 2011-04-04 · A
+- [[works/taiwaneseamerican-org/itasa-alumni-and-national-board-mixer-in-washington-dc|ITASA Alumni and National Board Mixer in Washington DC]] — 2011-04-02 · B
+- [[works/taiwaneseamerican-org/free-screening-of-winds-of-september-uc-irvine|Free Screening of Winds of September – UC Irvine]] — 2011-04-02 · B
+- [[works/taiwaneseamerican-org/surrogate-valentine-opens-the-chicago-asian-american-showcase|Surrogate Valentine Opens the Chicago Asian American Showcase]] — 2011-04-01 · B
+- [[works/taiwaneseamerican-org/nyc-tappy-hour-and-fundraiser-for-japan|NYC TAPpy Hour and Fundraiser for Japan]] — 2011-03-31 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-professionals-society-of-seattle-achieving-dreams-with-a-five|Taiwanese American Professionals Society of Seattle: Achieving Dreams with a Five Year Plan]] — 2011-03-30 · B
+- [[works/taiwaneseamerican-org/nyu-hosts-night-market-2011-taiwan-in-motion|NYU Hosts Night Market 2011: Taiwan in Motion]] — 2011-03-30 · B
+- [[works/taiwaneseamerican-org/dinner-w-the-artist-cynthia-lin-alfa-live-in-la|Dinner w/ the Artist! Cynthia Lin + Alfa, Live in LA]] — 2011-03-29 · B
+- [[works/taiwaneseamerican-org/tap-dc-social-goes-to-sakura-festival|TAP-DC Social Goes to Sakura Festival]] — 2011-03-27 · B
+- [[works/taiwaneseamerican-org/taiwanese-americans-on-stage-and-screen-in-san-diego|Taiwanese Americans on Stage and Screen in San Diego]] — 2011-03-26 · B
+- [[works/taiwaneseamerican-org/speed-networking-hosted-by-tap-in-san-francisco|Speed Networking Hosted by TAP in San Francisco]] — 2011-03-26 · B
+- [[works/taiwaneseamerican-org/natma-southern-california-chapter-presents-a-forum-getting-into-medical-school-o|NATMA Southern California Chapter Presents a Forum: “Getting into Medical School or Dental School”]] — 2011-03-26 · B
+- [[works/taiwaneseamerican-org/building-an-itasa-alumni-network|Building an ITASA Alumni Network]] — 2011-03-24 · B
+- [[works/taiwaneseamerican-org/myx-tv-covers-taiwaneseamerican-orgs-to-the-top-concert-event|MYX.tv Covers TaiwaneseAmerican.org’s “To the Top” Concert Event]] — 2011-03-22 · B
+- [[works/taiwaneseamerican-org/cynthia-lin-solo-set-in-san-francisco|Cynthia Lin Solo Set in San Francisco]] — 2011-03-22 · B
+- [[works/taiwaneseamerican-org/taiwanese-baking-lesson-and-tiger-mother-discussion-in-san-francisco|Taiwanese Baking Lesson and “Tiger Mother” Discussion in San Francisco]] — 2011-03-20 · B
+- [[works/taiwaneseamerican-org/taiwanese-indie-bands-rock-sxsw|Taiwanese Indie Bands Rock SXSW]] — 2011-03-18 · B
+- [[works/taiwaneseamerican-org/face-to-face-with-the-lovely-lynn-chen|Face to Face with the Lovely Lynn Chen]] — 2011-03-18 · A
+- [[works/taiwaneseamerican-org/lecture-in-san-jose-on-taiwanese-music-in-the-1930s|Lecture in San Jose on Taiwanese Music in the 1930s]] — 2011-03-15 · B
+- [[works/taiwaneseamerican-org/applications-now-available-for-the-formosa-foundation-2011-ambassador-program|Applications Now Available for the Formosa Foundation 2011 Ambassador Program]] — 2011-03-15 · B
+- [[works/taiwaneseamerican-org/the-white-eyes-and-fire-ex-at-webster-hall-the-studio|The White Eyes and Fire Ex at Webster Hall: The Studio]] — 2011-03-14 · B
+- [[works/taiwaneseamerican-org/following-wong-fu-to-places-theyve-gone|Following Wong Fu to Places They’ve Gone]] — 2011-03-14 · A
+- [[works/taiwaneseamerican-org/the-hsu-nami-with-go-chic-at-arlenes-grocery-nyc|The Hsu-nami with Go Chic at Arlene’s Grocery NYC]] — 2011-03-13 · B
+- [[works/taiwaneseamerican-org/taiwanese-movie-festival-at-university-of-maryland|Taiwanese Movie Festival at University of Maryland]] — 2011-03-13 · B
+- [[works/taiwaneseamerican-org/tap-professional-series-workshop-in-la|TAP Professional Series Workshop in LA]] — 2011-03-13 · B
+- [[works/taiwaneseamerican-org/formosart-taiwan-photo-collage-call-for-entry|FORMOSArt – Taiwan Photo Collage Call for Entry]] — 2011-03-13 · B
+- [[works/taiwaneseamerican-org/taiwanese-films-when-love-comes-and-fourth-portrait-at-sf-international-asian-am|Taiwanese Films “When Love Comes” and “Fourth Portrait” at SF International Asian American Film Festival]] — 2011-03-11 · B
+- [[works/taiwaneseamerican-org/seen-and-heard-conference-2011-features-dawen|Seen and Heard Conference 2011 Features Dawen]] — 2011-03-11 · B
+- [[works/taiwaneseamerican-org/lynn-chen-in-surrogate-valentine-premieres-at-sxsw-in-austin-tx|Lynn Chen in “Surrogate Valentine” – Premieres at SXSW in Austin, TX]] — 2011-03-11 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-los-angeles|TAPpy Hour in Los Angeles]] — 2011-03-10 · B
+- [[works/taiwaneseamerican-org/tappy-hour-cafe-asia-in-washington-dc|TAPpy Hour @ Cafe Asia in Washington DC]] — 2011-03-10 · B
+- [[works/taiwaneseamerican-org/tappy-hour-with-taiwanese-american-professionals-in-sf|TAPpy Hour with Taiwanese American Professionals in SF]] — 2011-03-09 · B
+- [[works/taiwaneseamerican-org/jen-shyu-solo-inner-chapters|Jen Shyu Solo: INNER CHAPTERS]] — 2011-03-08 · B
+- [[works/taiwaneseamerican-org/author-to-author-a-chat-with-charles-yu-how-to-live-safely-in-a-science-fictiona|Author to Author: A Chat with Charles Yu – How to Live Safely in a Science Fictional Universe]] — 2011-03-08 · A
+- [[works/taiwaneseamerican-org/exhibition-opportunity-looking-both-ways-the-roc-100-years-and-beyond|Exhibition Opportunity: Looking Both Ways: The ROC 100 Years and Beyond]] — 2011-03-07 · B
+- [[works/taiwaneseamerican-org/tap-professional-series-in-los-angeles-tax-seminar|TAP Professional Series in Los Angeles: Tax Seminar]] — 2011-03-06 · B
+- [[works/taiwaneseamerican-org/conference-at-uc-berkeley-mobile-horizons-interactions-across-the-taiwan-strait|Conference at UC Berkeley – Mobile Horizons: Interactions Across the Taiwan Strait]] — 2011-03-03 · B
+- [[works/taiwaneseamerican-org/fascinoma-releases-emergency-songs-before-during-after|Fascinoma Releases “Emergency Songs; Before, During, & After”]] — 2011-03-02 · B
+- [[works/taiwaneseamerican-org/a-video-recap-my-taiwan-travelogues|A Video Recap: “My Taiwan Travelogues”]] — 2011-03-01 · A
+- [[works/taiwaneseamerican-org/remember-228|Remember 228]] — 2011-02-27 · A
+- [[works/taiwaneseamerican-org/creative-arts-with-taps-in-seattle|Creative Arts with TAPS in Seattle]] — 2011-02-27 · B
+- [[works/taiwaneseamerican-org/taiwaneseamerican-org-at-banana-2-conference-in-la|TaiwaneseAmerican.org at BANANA 2 Conference in LA]] — 2011-02-26 · B
+- [[works/taiwaneseamerican-org/tao-lantern-festival-night-market-at-uc-irvine|TAO Lantern Festival & Night Market at UC Irvine]] — 2011-02-26 · B
+- [[works/taiwaneseamerican-org/228-peace-memorial-concert-in-the-sfbay-area|228 Peace Memorial Concert in the SF/Bay Area]] — 2011-02-26 · B
+- [[works/taiwaneseamerican-org/to-the-top-an-evening-with-the-bay-areas-taiwanese-american-all-stars|TO THE TOP: An Evening with the Bay Area’s Taiwanese American All-Stars]] — 2011-02-25 · B
+- [[works/taiwaneseamerican-org/apply-to-be-a-delegate-for-strait-talk-at-berkeley|Apply to be a Delegate for Strait Talk at Berkeley]] — 2011-02-21 · B
+- [[works/taiwaneseamerican-org/lantern-festival-night-market-at-stanford-university|Lantern Festival Night Market at Stanford University]] — 2011-02-20 · B
+- [[works/taiwaneseamerican-org/fapa-ypg-regional-advocacy-conference-in-houston|FAPA-YPG Regional Advocacy Conference in Houston]] — 2011-02-20 · B
+- [[works/taiwaneseamerican-org/tap-ice-skating-escapades-at-bryant-park-in-nyc|TAP Ice Skating Escapades at Bryant Park in NYC]] — 2011-02-19 · B
+- [[works/taiwaneseamerican-org/fapa-ypg-regional-advocacy-conference-in-dallas|FAPA-YPG Regional Advocacy Conference in Dallas]] — 2011-02-19 · B
+- [[works/taiwaneseamerican-org/just-the-way-you-are-cover-and-amazing-video-by-dawen|“Just the Way You Are” Cover and Amazing Video by Dawen]] — 2011-02-18 · B
+- [[works/taiwaneseamerican-org/tap-ski-boarding-trip-west-coast|TAP Ski & Boarding Trip (West Coast)]] — 2011-02-18 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-nyc-featuring-taiwan-beer|TAPpy Hour in NYC Featuring Taiwan Beer!]] — 2011-02-17 · B
+- [[works/taiwaneseamerican-org/berkeley-tasa-lantern-festival-and-tang-yuan-night|Berkeley TASA Lantern Festival and Tang Yuan Night]] — 2011-02-17 · B
+- [[works/taiwaneseamerican-org/tap-chicago-lunar-new-year-party|TAP-Chicago Lunar New Year Party]] — 2011-02-12 · B
+- [[works/taiwaneseamerican-org/tap-lunar-new-year-party-game-night-in-sfbay-area|TAP Lunar New Year Party & Game Night in SF/Bay Area]] — 2011-02-12 · B
+- [[works/taiwaneseamerican-org/tappy-hour-asian-style-in-sf|TAPpy Hour: Asian Style in SF]] — 2011-02-09 · B
+- [[works/taiwaneseamerican-org/not-your-ordinary-sunday|Not Your Ordinary Sunday]] — 2011-02-07 · A
+- [[works/taiwaneseamerican-org/lunar-new-year-party-with-tap-dc|Lunar New Year Party with TAP-DC]] — 2011-02-05 · B
+- [[works/taiwaneseamerican-org/lunar-new-year-celebration-with-tap-in-la|Lunar New Year Celebration with TAP in LA]] — 2011-02-05 · B
+- [[works/taiwaneseamerican-org/lunar-new-year-dinner-with-tap-dc-in-arlington-va|Lunar New Year Dinner with TAP-DC in Arlington, VA]] — 2011-02-04 · B
+- [[works/taiwaneseamerican-org/tour-the-art-institute-of-chicago-with-tap-chicago|Tour the Art Institute of Chicago with TAP-Chicago]] — 2011-02-03 · B
+- [[works/taiwaneseamerican-org/3695|“The People I’ve Slept With” Plays at UT Austin]] — 2011-01-31 · B
+- [[works/taiwaneseamerican-org/cynthia-lin-performs-at-googies-in-nyc|Cynthia Lin Performs at Googie’s in NYC]] — 2011-01-31 · B
+- [[works/taiwaneseamerican-org/spoken-word-artist-kelly-tsai-and-name-your-own-price-album-for-download|Spoken Word Artist Kelly Tsai and Name-Your-Own-Price Album for Download]] — 2011-01-30 · B
+- [[works/taiwaneseamerican-org/au-revoir-taipei-on-comcast-video-on-demand-for-the-month-of-january|AU REVOIR TAIPEI on Comcast Video-On-Demand for the month of January!]] — 2011-01-30 · B
+- [[works/taiwaneseamerican-org/lunar-new-year-celebration-with-tap-in-san-diego|Lunar New Year Celebration with TAP in San Diego]] — 2011-01-29 · B
+- [[works/taiwaneseamerican-org/illinois-college-students-its-time-for-winter-wonderland-semi-formal|Illinois College Students! It’s Time for Winter Wonderland Semi-Formal!]] — 2011-01-28 · B
+- [[works/taiwaneseamerican-org/comedian-sheng-wang-on-comedy-central-january-28|Comedian Sheng Wang on Comedy Central – January 28]] — 2011-01-28 · B
+- [[works/taiwaneseamerican-org/tappy-hour-at-union-jacks-in-the-dc-area|TAPpy Hour at Union Jack’s in the DC Area]] — 2011-01-27 · B
+- [[works/taiwaneseamerican-org/spoken-word-poet-kelly-tsai-performs-in-memphis-tn|Spoken Word Poet Kelly Tsai Performs in Memphis, TN]] — 2011-01-27 · B
+- [[works/taiwaneseamerican-org/join-tap-las-tappy-hour-at-gonpachi-in-beverly-hills|Join TAP-LA’s “TAPpy Hour” at Gonpachi in Beverly Hills]] — 2011-01-26 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-jennifer-k-chung-winner-of-the-3-day-novel-contest|Taiwanese American Jennifer K. Chung – Winner of the 3-Day Novel Contest]] — 2011-01-25 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-san-diego|TAPpy Hour in San Diego]] — 2011-01-25 · B
+- [[works/taiwaneseamerican-org/tap-professional-series-in-sfbay-area-effective-goal-setting-the-keys-to-success|TAP Professional Series in SF/Bay Area: Effective Goal Setting – the Keys to Success!]] — 2011-01-25 · B
+- [[works/taiwaneseamerican-org/jay-chou-fans-watch-the-green-hornet-with-tap-sf|Jay Chou Fans! Watch the Green Hornet with TAP-SF!]] — 2011-01-23 · B
+- [[works/taiwaneseamerican-org/world-city-at-the-music-center-featuring-chen-kuai-le-puppet-theater-la|World City at the Music Center featuring Chen Kuai Le Puppet Theater – LA]] — 2011-01-22 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-community-lunar-new-year-celebration-in-sfbay-area|Taiwanese American Community Lunar New Year Celebration in SF/Bay Area]] — 2011-01-22 · A
+- [[works/taiwaneseamerican-org/tap-4th-annual-lunar-new-year-banquet-after-party-in-nyc|TAP 4th Annual Lunar New Year Banquet + After Party in NYC]] — 2011-01-22 · B
+- [[works/taiwaneseamerican-org/the-hsu-nami-live-at-pianos-nyc|The Hsu-nami Live at Pianos NYC]] — 2011-01-21 · B
+- [[works/taiwaneseamerican-org/my-mom-is-a-fob-book-signing-in-sf|My Mom is a Fob Book Signing in SF]] — 2011-01-20 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-youths-voice-taiwans-right-to-self-determination-during-hu-ji|Taiwanese American Youths Voice Taiwan’s Right to Self-Determination During Hu Jintao’s Visit]] — 2011-01-19 · A
+- [[works/taiwaneseamerican-org/the-hsu-nami-performs-at-stairway-to-the-dream-stage-11|The Hsu-nami Performs at “Stairway to the Dream – Stage 11”]] — 2011-01-16 · B
+- [[works/taiwaneseamerican-org/tuf-hosts-taiwan-night-concert|TUF Hosts “Taiwan Night Concert”]] — 2011-01-15 · B
+- [[works/taiwaneseamerican-org/fapa-ypg-san-francisco-bay-area-planning-meeting|FAPA-YPG San Francisco Bay Area Planning Meeting]] — 2011-01-13 · B
+- [[works/taiwaneseamerican-org/unplugged-up-close-personal-with-cynthia-lin|UNPLUGGED: Up Close & Personal with Cynthia Lin – An Acoustic Performance in DC]] — 2011-01-12 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-arlington-va|TAPpy Hour in Arlington, VA]] — 2011-01-12 · B
+- [[works/taiwaneseamerican-org/tap-sf-tappy-hour-kick-off-a-brand-new-year|TAP-SF TAPpy Hour – Kick Off a Brand New Year!]] — 2011-01-12 · B
+- [[works/taiwaneseamerican-org/the-legend-of-phoenix-mountain-a-debut-novel-by-tina-tsai|“The Legend of Phoenix Mountain” – A Debut Novel by Tina Tsai]] — 2011-01-11 · B
+- [[works/taiwaneseamerican-org/cynthia-lin-performs-at-coffee-foundry-in-ny|Cynthia Lin Performs at Coffee Foundry in NY]] — 2011-01-08 · B
+- [[works/taiwaneseamerican-org/a-magic-show-fundraiser-for-tacl-lyf-summer-camp|A Magic Show Fundraiser for TACL-LYF Summer Camp]] — 2011-01-08 · B
+- [[works/taiwaneseamerican-org/inspire-empower-and-activate-itasas-coming-of-age|Inspire, Empower, and Activate: ITASA’s “Coming of Age”]] — 2011-01-06 · A
+- [[works/taiwaneseamerican-org/usvs-performs-at-mercury-lounge-in-nyc|USVS Performs at Mercury Lounge in NYC]] — 2011-01-05 · B
+- [[works/taiwaneseamerican-org/dawen-and-youtube-stars-sing-macy-grays-beauty-in-the-world|Dawen and YouTube Stars Sing Macy Gray’s “Beauty in the World”]] — 2011-01-05 · B
+- [[works/taiwaneseamerican-org/my-mom-is-a-fob-book-bash|“My Mom is a Fob” Book Bash]] — 2011-01-04 · B
+- [[works/taiwaneseamerican-org/a-day-in-the-life-of-model-tv-host-janet-hsieh|A Day in the Life of Model & TV Host Janet Hsieh]] — 2010-12-30 · A
+- [[works/taiwaneseamerican-org/taiwanese-american-college-students-in-taipei-join-an-itasa-meetup|Taiwanese American College Students in Taipei – Join an ITASA Meetup!]] — 2010-12-29 · B
+- [[works/taiwaneseamerican-org/talking-music-politics-with-freddy-lim|Talking Music & Politics with Freddy Lim]] — 2010-12-28 · A
+- [[works/taiwaneseamerican-org/in-the-studio-with-singer-songwriter-elisa-lin|In the Studio with Singer-Songwriter Elisa Lin]] — 2010-12-22 · A
+- [[works/taiwaneseamerican-org/taiwanese-american-professionals-society-of-seattle-hosts-annual-toy-drive|Taiwanese American Professionals Society of Seattle Hosts Annual Toy Drive.]] — 2010-12-18 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-professionals-winter-holiday-party-fundraiser-in-new-york|Taiwanese American Professionals Winter Holiday Party & Fundraiser in New York]] — 2010-12-17 · B
+- [[works/taiwaneseamerican-org/goohana-features-singer-songwriter-cynthia-lin|GO!OHANA Features Singer-songwriter Cynthia Lin]] — 2010-12-17 · B
+- [[works/taiwaneseamerican-org/cellist-stephanie-lai-a-finalist-for-youtube-symphony-orchestra|Cellist Stephanie Lai a Finalist for YouTube Symphony Orchestra]] — 2010-12-17 · B
+- [[works/taiwaneseamerican-org/tap-la-donate-and-dine-annual-christmas-dinner-toy-drive|TAP-LA Donate and Dine: Annual Christmas Dinner & Toy Drive]] — 2010-12-16 · B
+- [[works/taiwaneseamerican-org/tap-in-san-diego-hosts-a-financial-workshop|TAP in San Diego Hosts a Financial Workshop]] — 2010-12-16 · B
+- [[works/taiwaneseamerican-org/cynthia-lin-live-holiday-webcast-december-15th|Cynthia Lin LIVE Holiday Webcast, December 15th]] — 2010-12-15 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-professionals-wine-event-in-sf-bay-area|Taiwanese American Professionals Wine Event in SF Bay Area]] — 2010-12-12 · B
+- [[works/taiwaneseamerican-org/natma-annual-golf-tournament-in-southern-california|NATMA Annual Golf Tournament in Southern California]] — 2010-12-12 · B
+- [[works/taiwaneseamerican-org/fapa-ypg-laoc-christmas-boat-parade-in-huntington-beach-ca|FAPA-YPG LA/OC Christmas Boat Parade in Huntington Beach, CA]] — 2010-12-12 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-professionals-holiday-party-in-san-diego|Taiwanese American Professionals Holiday Party in San Diego]] — 2010-12-11 · B
+- [[works/taiwaneseamerican-org/lion-riding-horses-performs-in-san-francisco|Lion Riding Horses Performs in San Francisco]] — 2010-12-09 · B
+- [[works/taiwaneseamerican-org/win-a-free-ticket-to-the-jay-chou-concert-in-san-jose-ca|Win a Free Ticket to the Jay Chou Concert in San Jose, CA]] — 2010-12-03 · B
+- [[works/taiwaneseamerican-org/outside-life-inside-taiwan-a-taiwanese-film-series-reception|OUTSIDE LIFE INSIDE TAIWAN – A Taiwanese Film Series & Reception in Chicago]] — 2010-12-03 · B
+- [[works/taiwaneseamerican-org/panel-discussion-the-implications-of-taiwans-big-city-elections|Panel Discussion: The Implications of Taiwan’s Big City Elections]] — 2010-12-01 · B
+- [[works/taiwaneseamerican-org/former-harvard-running-back-is-thankful-for-a-lot-this-holiday|Former Harvard Running Back is Thankful this Holiday]] — 2010-11-28 · A
+- [[works/taiwaneseamerican-org/jen-shyu-solo-inner-chapters-duo-with-mat-maneri-in-ny|Jen Shyu solo: Inner Chapters + Duo with Mat Maneri in NY]] — 2010-11-24 · B
+- [[works/taiwaneseamerican-org/a-video-and-interview-with-sweet-sweet-alice-tong|A Video and Interview with Sweet Sweet Alice Tong]] — 2010-11-24 · A
+- [[works/taiwaneseamerican-org/indie-band-usvs-performs-at-mercury-lounge-in-ny|Indie Band USVS Performs at Mercury Lounge in NY]] — 2010-11-22 · B
+- [[works/taiwaneseamerican-org/hello-taiwan-rocks-concert-in-new-york|“Hello Taiwan Rocks!” Concert in New York]] — 2010-11-20 · B
+- [[works/taiwaneseamerican-org/taste-of-taiwan-2010-hosted-by-emory-gatech|Taste of Taiwan 2010, hosted by Emory & GATech]] — 2010-11-20 · B
+- [[works/taiwaneseamerican-org/join-tap-in-la-for-a-community-service-event|Join TAP in LA for a Community Service Event]] — 2010-11-20 · A
+- [[works/taiwaneseamerican-org/celebrate-thanksgiving-dinner-with-taiwanese-flavor-in-sfbay-area|Celebrate Thanksgiving Dinner with Taiwanese Flavor in SF/Bay Area]] — 2010-11-20 · B
+- [[works/taiwaneseamerican-org/taiwan-film-festival-at-the-chapman-university-in-orange-county-ca|Taiwan Film Festival at the Chapman University in Orange County, CA]] — 2010-11-19 · B
+- [[works/taiwaneseamerican-org/singer-songwriter-alice-tong-tours-the-west-coast|Singer-Songwriter Alice Tong Tours the West Coast]] — 2010-11-19 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-orange-county-ca|TAPpy Hour in Orange County, CA]] — 2010-11-18 · B
+- [[works/taiwaneseamerican-org/tap-in-new-york-hosts-speaker-series-on-entrepreneurship|TAP in New York Hosts Speaker Series on Entrepreneurship]] — 2010-11-18 · B
+- [[works/taiwaneseamerican-org/spoken-word-artist-kelly-zen-yie-tsai-on-tour-through-texas-and-louisiana|Spoken Word Artist Kelly Zen-Yie Tsai on Tour through Texas and Louisiana]] — 2010-11-18 · B
+- [[works/taiwaneseamerican-org/lion-riding-horses-performs-at-goohana-in-berkeley-ca|Lion Riding Horses Performs at GO!OHANA in Berkeley, CA]] — 2010-11-18 · B
+- [[works/taiwaneseamerican-org/wong-fu-productions-autumn-tour|Wong Fu Productions Autumn Tour]] — 2010-11-16 · B
+- [[works/taiwaneseamerican-org/dawen-speaks-about-pursuing-a-music-career-as-an-asian-american|Dawen Speaks About Pursuing a Music Career as an Asian American]] — 2010-11-16 · B
+- [[works/taiwaneseamerican-org/singer-songwriter-dawen-performs-at-the-university-of-illinois|Singer-Songwriter Dawen Performs at the University of Illinois]] — 2010-11-15 · B
+- [[works/taiwaneseamerican-org/northwestern-universitys-tasc-hosts-a-taiwan-film-festival|Northwestern University’s TASC Hosts a Taiwan Film Festival]] — 2010-11-14 · B
+- [[works/taiwaneseamerican-org/its-prep-time-for-actor-dyana-liu|It’s Prep Time for Actor Dyana Liu!]] — 2010-11-14 · A
+- [[works/taiwaneseamerican-org/taiwanese-american-health-professionals-dinner-in-new-york|Taiwanese American Health Professionals Dinner in New York]] — 2010-11-13 · B
+- [[works/taiwaneseamerican-org/natma-chicago-seminar-and-dinner-for-medicalhealth-professionals|NATMA-Chicago Seminar and Dinner for Medical/Health Professionals]] — 2010-11-13 · B
+- [[works/taiwaneseamerican-org/on-discovering-passion-purpose|On Discovering Passion & Purpose]] — 2010-11-11 · A
+- [[works/taiwaneseamerican-org/day-hike-in-san-gabriel-valley-with-tap-in-los-angeles|Day Hike in San Gabriel Valley with TAP in Los Angeles]] — 2010-11-07 · B
+- [[works/taiwaneseamerican-org/discussion-on-current-taiwan-u-s-relation-and-taiwanese-american-advocacy|Discussion On Current Taiwan-U.S. Relation and Taiwanese American Advocacy]] — 2010-11-06 · B
+- [[works/taiwaneseamerican-org/dinner-at-tabule-restaurant-bar-with-tap-in-san-diego|Dinner at Tabule Restaurant & Bar with TAP in San Diego]] — 2010-11-06 · B
+- [[works/taiwaneseamerican-org/tappy-hour-hosted-by-tap-in-new-york|TAPpy Hour Hosted by TAP in New York]] — 2010-11-04 · B
+- [[works/taiwaneseamerican-org/natma-annual-meeting-in-ny|NATMA Annual Meeting in NY]] — 2010-10-31 · B
+- [[works/taiwaneseamerican-org/tap-in-san-diego-hosts-halloween-fun-for-the-family|TAP in San Diego Hosts Halloween Fun for the Family]] — 2010-10-30 · B
+- [[works/taiwaneseamerican-org/tap-in-chicago-hosts-halloween-madness|TAP in Chicago Hosts “Halloween Madness”]] — 2010-10-30 · B
+- [[works/taiwaneseamerican-org/chicago-area-halloween-extravaganza-by-taiwanese-american-foundation|Chicago-area Halloween Extravaganza by Taiwanese American Foundation]] — 2010-10-30 · B
+- [[works/taiwaneseamerican-org/warriors-asian-heritage-night-post-game-qa-with-jeremy-lin|Warriors Asian Heritage Night and Post-game Q&A with Jeremy Lin!]] — 2010-10-29 · B
+- [[works/taiwaneseamerican-org/tappy-hour-at-science-club-in-washington-dc|TAPpy Hour at Science Club in Washington DC]] — 2010-10-27 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-documentary-voices-in-the-clouds-screens-at-san-diego-asian-f|Taiwanese American Documentary “Voices in the Clouds” Screens at San Diego Asian Film Festival]] — 2010-10-26 · B
+- [[works/taiwaneseamerican-org/speaker-session-in-la-taiwan-the-crucial-keystone-of-asia|Speaker Session in LA: “Taiwan -The Crucial Keystone of Asia”]] — 2010-10-25 · B
+- [[works/taiwaneseamerican-org/jen-shyu-seminar-hidden-musical-traditions-of-east-timor-taiwan-china|Jen Shyu Seminar: Hidden Musical Traditions of East Timor, Taiwan, & China]] — 2010-10-25 · B
+- [[works/taiwaneseamerican-org/congrats-to-shawna-yang-ryan-nominee-for-the-page-turner-fest-award|Congrats to Shawna Yang Ryan, Nominee for the Page Turner Fest Award!]] — 2010-10-25 · B
+- [[works/taiwaneseamerican-org/singer-songwriter-jenton-lee-performs-at-goohana-in-berkeley|Singer-songwriter Jenton Lee Performs at GO!OHANA in Berkeley]] — 2010-10-22 · B
+- [[works/taiwaneseamerican-org/film-festival-in-san-francisco-taiwan-film-days|Film Festival in San Francisco: “Taiwan Film Days”]] — 2010-10-22 · B
+- [[works/taiwaneseamerican-org/hsu-nami-headlining-at-cmj-music-marathon-fest|Hsu-nami Headlining at CMJ Music Marathon Fest]] — 2010-10-21 · B
+- [[works/taiwaneseamerican-org/taiwan-stories-e2-80-93-a-festival-of-films-at-university-of-oregon|Taiwan Stories – a Festival of Films at University of Oregon]] — 2010-10-20 · B
+- [[works/taiwaneseamerican-org/microscope-a-new-album-by-singer-songwriter-cynthia-lin|MICROSCOPE, A New Album by Singer-Songwriter Cynthia Lin]] — 2010-10-20 · B
+- [[works/taiwaneseamerican-org/taiwanesecooking-com-brings-you-recipes-from-a-taiwanese-american-mom|TaiwaneseCooking.com Brings You Recipes from a Taiwanese American Mom]] — 2010-10-18 · B
+- [[works/taiwaneseamerican-org/kevin-wu-aka-kevjumba-and-dad-on-amazing-race|Kevin Wu (aka KevJumba) and Dad on Amazing Race]] — 2010-10-18 · B
+- [[works/taiwaneseamerican-org/finding-home-a-kaleidoscope-of-musical-journeys-featuring-music-of-tyzen-hsiao|Finding Home: A Kaleidoscope of Musical Journeys – Featuring Music of Tyzen Hsiao]] — 2010-10-17 · B
+- [[works/taiwaneseamerican-org/taiwan-stories-e2-80-93-a-festival-of-films-at-usf-and-uc-berkeley|Taiwan Stories – a Festival of Films at USF and UC Berkeley]] — 2010-10-15 · B
+- [[works/taiwaneseamerican-org/comedian-sheng-wang-at-comedy-central-presents-in-new-york-city|Comedian Sheng Wang at Comedy Central Presents in New York City]] — 2010-10-15 · B
+- [[works/taiwaneseamerican-org/natma-scc-2010-annual-meeting-and-banquet|NATMA-SCC 2010 Annual Meeting and Banquet]] — 2010-10-09 · B
+- [[works/taiwaneseamerican-org/better-city-better-life-the-taiwan-pavilion-at-the-shanghai-world-expo|Better City, Better Life: The Taiwan Pavilion at the Shanghai World Expo]] — 2010-10-09 · A
+- [[works/taiwaneseamerican-org/strait-talk-at-brown-university-apply-now|Strait Talk at Brown University – Apply Now!]] — 2010-10-08 · B
+- [[works/taiwaneseamerican-org/san-jose-event-pop-politics-the-culture-of-taiwanese-democracy|San Jose Event: “Pop Politics: The Culture of Taiwanese Democracy”]] — 2010-10-08 · B
+- [[works/taiwaneseamerican-org/natma-2g-happy-hour-social-in-pasadena-ca|NATMA 2G Happy Hour Social in Pasadena, CA]] — 2010-10-08 · B
+- [[works/taiwaneseamerican-org/bookmark-design-contest-showcasing-taiwan-pride|Bookmark Design Contest Showcasing Taiwan Pride]] — 2010-10-08 · B
+- [[works/taiwaneseamerican-org/8th-annual-night-market-event-at-ut-austin|8th Annual Night Market Event at UT Austin]] — 2010-10-08 · B
+- [[works/taiwaneseamerican-org/dc-apa-film-festival-opening-night-au-revoir-taipei|DC APA Film Festival Opening Night: Au Revoir Taipei]] — 2010-10-07 · B
+- [[works/taiwaneseamerican-org/taiwanese-vocalists-performance-in-miami-goodwill-mission-bravo-taiwan|Taiwanese Vocalists Performance in Miami: Goodwill Mission Bravo Taiwan]] — 2010-10-03 · B
+- [[works/taiwaneseamerican-org/letter-of-advice|Letter of Advice from One Intern to Another]] — 2010-10-03 · A
+- [[works/taiwaneseamerican-org/sacramento-event-featuring-coen-blaauw-an-advocate-for-taiwan-on-capitol-hill|Sacramento Event Featuring Coen Blaauw, an Advocate for Taiwan on Capitol Hill]] — 2010-10-02 · B
+- [[works/taiwaneseamerican-org/white-house-initiative-on-asian-americans-and-pacific-islanders-seeking-interns|White House Initiative on Asian Americans and Pacific Islanders Seeking Interns]] — 2010-10-01 · B
+- [[works/taiwaneseamerican-org/national-geographics-megacities-kaohsiung|National Geographic’s Megacities: Kaohsiung]] — 2010-10-01 · B
+- [[works/taiwaneseamerican-org/chia-cc-8dh-pa-e2-80-94be-have-you-eaten-yet-a-new-t-shirt-design-by-us|Chia̍h-pá—bē? Have You Eaten Yet? A New T-shirt Design… by Us!]] — 2010-10-01 · B
+- [[works/taiwaneseamerican-org/tap-sf-professional-series-residential-real-estate-market|TAP-SF Professional Series: Residential Real Estate Market]] — 2010-09-28 · B
+- [[works/taiwaneseamerican-org/tap-in-san-diego-co-sponsors-a-speaker-series-featuring-founder-of-vizio|TAP in San Diego Co-sponsors a Speaker Series Featuring Founder of Vizio]] — 2010-09-25 · B
+- [[works/taiwaneseamerican-org/singer-songwriter-cynthia-lin-performances-in-the-sf-bay-area|Singer-songwriter Cynthia Lin Performances in the SF Bay Area]] — 2010-09-25 · B
+- [[works/taiwaneseamerican-org/3137|Seeking Taiwanese New Yorkers for a TV Reality Show]] — 2010-09-25 · B
+- [[works/taiwaneseamerican-org/harvest-moon-celebration-at-san-diegos-taiwan-center|Harvest Moon Celebration at San Diego’s Taiwan Center]] — 2010-09-25 · B
+- [[works/taiwaneseamerican-org/arvin-chens-au-revoir-taipei-plays-at-milwaukee-film-fest|Arvin Chen’s “Au Revoir Taipei” Plays at Milwaukee Film Fest]] — 2010-09-25 · B
+- [[works/taiwaneseamerican-org/meet-greet-book-reading-with-author-charles-yu|Meet & Greet / Book Reading with Author Charles Yu in Berkeley, CA]] — 2010-09-24 · B
+- [[works/taiwaneseamerican-org/the-formosan-association-for-public-affairs-taiwan-communique-back-in-print|The Formosan Association for Public Affairs’ Taiwan Communiqué Back in Print]] — 2010-09-23 · A
+- [[works/taiwaneseamerican-org/tappy-hour-at-cafe-asia-in-washington-dc|TAPpy Hour at Cafe Asia in Washington DC]] — 2010-09-22 · B
+- [[works/taiwaneseamerican-org/interview-with-author-shawna-yang-ryan-on-authormagazine-com|Interview with Author Shawna Yang Ryan on AuthorMagazine.com]] — 2010-09-22 · A
+- [[works/taiwaneseamerican-org/a-new-website-thinktaiwan-com|A New Website: ThinkTaiwan.com]] — 2010-09-22 · B
+- [[works/taiwaneseamerican-org/lion-riding-horses-performs-at-el-rio-in-sf|Lion Riding Horses Performs at El Rio in SF.]] — 2010-09-21 · B
+- [[works/taiwaneseamerican-org/comic-artist-jerry-ma-wants-you-to-create-an-asian-superhero|Comic Artist Jerry Ma Wants You to Create an Asian Superhero]] — 2010-09-20 · B
+- [[works/taiwaneseamerican-org/volunteer-with-tap-at-the-harvest-moon-festival-in-la|Volunteer with TAP at the Harvest Moon Festival in LA]] — 2010-09-19 · B
+- [[works/taiwaneseamerican-org/indie-band-usvs-performs-in-nyc|Indie Band USVS Performs in NYC]] — 2010-09-19 · B
+- [[works/taiwaneseamerican-org/un-for-taiwan-outreach-demonstration-at-nyc-times-square|UN for Taiwan Outreach & Demonstration at NYC Times Square]] — 2010-09-18 · B
+- [[works/taiwaneseamerican-org/taps-habitat-for-humanity-build-a-thon-event-in-seattle|TAPS Habitat for Humanity Build-a-Thon Event in Seattle]] — 2010-09-18 · B
+- [[works/taiwaneseamerican-org/natmas-taiwanese-american-medical-health-professionals-conference-in-st-louis|NATMA’s Taiwanese American Medical & Health Professionals Conference in St Louis]] — 2010-09-17 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-professionals-in-la-host-a-tappy-hour|Taiwanese American Professionals in LA Host a “TAPpy” Hour]] — 2010-09-16 · B
+- [[works/taiwaneseamerican-org/u-s-representatives-introduce-un-for-taiwan-resolution|U.S. Representatives Introduce UN-for-Taiwan Resolution]] — 2010-09-15 · A
+- [[works/taiwaneseamerican-org/performance-artist-jen-shyu-with-ben-monder-inner-chapters|Performance Artist Jen Shyu with Ben Monder: “Inner Chapters”]] — 2010-09-11 · B
+- [[works/taiwaneseamerican-org/extended-run-of-michelle-krusiecs-made-in-taiwan-in-nyc|Extended Run of Michelle Krusiec’s “Made in Taiwan” in NYC]] — 2010-09-10 · B
+- [[works/taiwaneseamerican-org/tap-sfs-tappy-hour-a-night-of-fashion|TAP-SF’s TAPpy Hour: A Night of Fashion]] — 2010-09-08 · B
+- [[works/taiwaneseamerican-org/author-charles-yu-on-tour-for-new-novel-how-to-live-safely-in-a-science-fictiona|Author Charles Yu on Tour for New Novel: “How to Live Safely in a Science Fictional Universe”]] — 2010-09-07 · B
+- [[works/taiwaneseamerican-org/asian-americans-climb-fashion-industry-ladder|Asian-Americans Climb Fashion Industry Ladder]] — 2010-09-07 · B
+- [[works/taiwaneseamerican-org/launching-the-100-student-leaders-project-know-a-great-one-refer-them-to-us|Launching the 100 Student Leaders Project! Know A Great One? Refer Them to Us!]] — 2010-09-06 · B
+- [[works/taiwaneseamerican-org/tap-dodgertown-taiwan|TAP @ Dodgertown, Taiwan]] — 2010-09-04 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-association-south-region-conference-in-austin-tx|Taiwanese American Association South Region Conference in Austin, TX]] — 2010-09-03 · B
+- [[works/taiwaneseamerican-org/recap-of-taiwanese-american-youth-summer-camps-and-a-donation-drive|Recap of Taiwanese American Youth Summer Camps and a Donation Drive]] — 2010-09-03 · A
+- [[works/taiwaneseamerican-org/tap-in-new-york-hosts-end-of-summer-tappy-hour|TAP in New York Hosts End of Summer TAPpy Hour]] — 2010-09-02 · B
+- [[works/taiwaneseamerican-org/reel-in-the-vote-psa-video-contest|“Reel in the Vote” PSA Video Contest]] — 2010-08-31 · B
+- [[works/taiwaneseamerican-org/cast-your-vote-for-nyc-cravings|Cast Your Vote for NYC Cravings!]] — 2010-08-31 · B
+- [[works/taiwaneseamerican-org/2010-formosa-foundation-fundraising-gala-dinner-in-la|2010 Formosa Foundation Fundraising Gala Dinner in LA]] — 2010-08-29 · B
+- [[works/taiwaneseamerican-org/tuf-salon-series-in-la-define-design|TUF Salon Series in LA: “Define Design”]] — 2010-08-28 · B
+- [[works/taiwaneseamerican-org/bbq-pool-party-hosted-by-tap-in-san-diego|BBQ & Pool Party Hosted by TAP in San Diego]] — 2010-08-28 · B
+- [[works/taiwaneseamerican-org/rb-singer-songwriter-dawen-performs-at-kollaboration-4-in-la|R&B Singer-songwriter Dawen Performs at Kollaboration 4 in LA]] — 2010-08-27 · B
+- [[works/taiwaneseamerican-org/exit-clov-summer-tour-on-east-coast-begins|Exit Clov Summer Tour on East Coast Begins!]] — 2010-08-26 · B
+- [[works/taiwaneseamerican-org/tap-in-san-diego-hosts-seminar-the-origins-of-the-taiwanese-people|TAP in San Diego Hosts Seminar: “The Origins of the Taiwanese People”]] — 2010-08-24 · B
+- [[works/taiwaneseamerican-org/fapa-ypg-national-conference-2010-taiwan-action-days|FAPA YPG National Conference 2010: Taiwan Action Days]] — 2010-08-23 · B
+- [[works/taiwaneseamerican-org/tap-sf-scavenger-hunt-taiwanese-style|TAP-SF Scavenger Hunt: Taiwanese Style]] — 2010-08-21 · B
+- [[works/taiwaneseamerican-org/hsu-nami-and-kou-chou-ching-perform-in-brooklyn|Hsu-nami and Kou Chou Ching Perform in Brooklyn]] — 2010-08-21 · B
+- [[works/taiwaneseamerican-org/reflecting-on-the-taiwanese-american-citizens-leagues-25-year-history-and-legacy|Reflecting on the Taiwanese American Citizens League’s 25 Year History and Legacy]] — 2010-08-20 · A
+- [[works/taiwaneseamerican-org/apply-for-the-natwa-ii-internship-program|Apply for the NATWA II Internship Program]] — 2010-08-20 · B
+- [[works/taiwaneseamerican-org/goohana-show-in-sfbay-area-featuring-cynthia-lin|Go!Ohana Show in SF/Bay Area Featuring Cynthia Lin]] — 2010-08-19 · B
+- [[works/taiwaneseamerican-org/introducing-the-next-chapter-of-the-taiwanese-american-student-movement-jtasa|Introducing the Next Chapter of the Taiwanese American Student Movement: JTASA]] — 2010-08-17 · A
+- [[works/taiwaneseamerican-org/getting-to-know-taiwan-featuring-big-g-san-jose|Getting to Know Taiwan (Featuring Big G!) – San Jose]] — 2010-08-15 · B
+- [[works/taiwaneseamerican-org/michelle-krusiecs-made-in-taiwan-at-nyc-fringe-festival|Michelle Krusiec’s “MADE IN TAIWAN” at NYC Fringe Festival]] — 2010-08-14 · B
+- [[works/taiwaneseamerican-org/shout-out-to-atlanta-taiwanese-american-professionals|Shout Out to Atlanta Taiwanese American Professionals]] — 2010-08-12 · B
+- [[works/taiwaneseamerican-org/remember-susan-emily-from-the-typhoon-morakot-viral-video-time-for-a-remix|Remember Susan & Emily from the Typhoon Morakot Viral Video? Time for a Remix!]] — 2010-08-12 · B
+- [[works/taiwaneseamerican-org/tap-sfs-tappy-hour-midsummer-night-e2-80-99s-dream|TAP-SF’s TAPpy Hour: Midsummer Night’s Dream]] — 2010-08-11 · B
+- [[works/taiwaneseamerican-org/town-hall-discussion-featuring-eric-chang-aka-ahbying-and-rapper-dog-g|Town Hall Discussion – Featuring Eric Chang aka Ahbying and Rapper Dog G]] — 2010-08-07 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-professionals-25th-anniversary-galanational-convention|Taiwanese American Professionals 25th Anniversary Gala/National Convention]] — 2010-08-07 · B
+- [[works/taiwaneseamerican-org/an-interview-with-eric-chang-aka-ahbying-on-being-taiwanese-american-and-making-|An Interview with Eric Chang aka “Ahbying” on Being Taiwanese American and Making an Impact]] — 2010-08-06 · A
+- [[works/taiwaneseamerican-org/taiwanese-american-foundation-youth-summer-conference-in-the-midwest|Taiwanese American Foundation Youth Summer Conference in the Midwest]] — 2010-07-25 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-comic-book-artists-at-comic-con-2010|Taiwanese American Comic Book Artists at Comic-Con 2010]] — 2010-07-25 · A
+- [[works/taiwaneseamerican-org/taiwanese-films-at-nys-asian-american-international-film-festival|Taiwanese Films at NY’s Asian American International Film Festival]] — 2010-07-24 · B
+- [[works/taiwaneseamerican-org/tap-tea-time-in-la-with-the-ambassador-of-taiwan-tea|TAP Tea Time in LA with the “Ambassador of Taiwan Tea”]] — 2010-07-24 · B
+- [[works/taiwaneseamerican-org/join-a-taiwanese-american-professionals-bbq-in-san-francisco|Join a Taiwanese American Professionals BBQ in San Francisco]] — 2010-07-24 · B
+- [[works/taiwaneseamerican-org/screening-of-formosa-betrayed-in-tampa-fl|Screening of Formosa Betrayed in Tampa, FL]] — 2010-07-23 · B
+- [[works/taiwaneseamerican-org/jeremy-lin-nearing-deal-with-warriors|Jeremy Lin Nearing Deal with Warriors]] — 2010-07-20 · A
+- [[works/taiwaneseamerican-org/jeremy-lin-one-step-closer-to-nba-contract|Jeremy Lin One Step Closer to NBA Contract]] — 2010-07-18 · A
+- [[works/taiwaneseamerican-org/outing-in-central-park-with-tap-ny|Outing in Central Park with TAP-NY]] — 2010-07-17 · B
+- [[works/taiwaneseamerican-org/johnny-hi-fi-performs-at-goohana-in-berkeley-ca|Johnny Hi-Fi Performs at GO!OHANA in Berkeley, CA]] — 2010-07-15 · B
+- [[works/taiwaneseamerican-org/southeastern-taiwanese-american-association-setaa-on-facebook|Southeastern Taiwanese American Association SETAA on Facebook]] — 2010-07-14 · B
+- [[works/taiwaneseamerican-org/an-online-chat-with-taiwanese-american-childrens-author-grace-lin|An Online Chat with Taiwanese American Children’s Author Grace Lin]] — 2010-07-14 · B
+- [[works/taiwaneseamerican-org/an-interview-with-the-owners-of-an-atlanta-original-the-flying-biscuit-cafe|An Interview with the Owners of an Atlanta Original: The Flying Biscuit Cafe]] — 2010-07-14 · A
+- [[works/taiwaneseamerican-org/join-tap-for-a-dodgers-game-in-la|Join TAP for a Dodgers Game in LA]] — 2010-07-12 · B
+- [[works/taiwaneseamerican-org/tap-la-community-service-alamitos-beach-clean-up|TAP-LA Community Service @ Alamitos Beach Clean Up]] — 2010-07-10 · A
+- [[works/taiwaneseamerican-org/welcome-2gs-to-the-southeast-taa-conference-in-north-carolina|Welcome 2G’s to the Southeast TAA Conference in North Carolina]] — 2010-07-09 · B
+- [[works/taiwaneseamerican-org/midwest-taiwanese-american-summer-conference-in-illinois|Midwest Taiwanese American Summer Conference in Illinois]] — 2010-07-09 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-pasadena-with-tap-la|“TAPpy Hour” in Pasadena with TAP-LA]] — 2010-07-07 · B
+- [[works/taiwaneseamerican-org/tappy-hour-in-palo-alto-with-tap-sf|“TAPpy Hour” in Palo Alto with TAP-SF]] — 2010-07-07 · B
+- [[works/taiwaneseamerican-org/join-a-july-4th-bbq-with-taps-in-seattle|Join a July 4th BBQ with TAPS in Seattle]] — 2010-07-03 · B
+- [[works/taiwaneseamerican-org/can-and-cannot|Can and cannot]] — 2010-07-03 · A
+- [[works/taiwaneseamerican-org/tang-youth-summer-camp-collegiate-conference|TANG Youth Summer Camp & Collegiate Conference]] — 2010-07-02 · B
+- [[works/taiwaneseamerican-org/an-art-exhibit-by-catherine-yu-los-angeles|An Art Exhibit by Catherine Yu, Los Angeles]] — 2010-06-29 · B
+- [[works/taiwaneseamerican-org/artist-ling-an-fang-at-the-cb1-gallery|Artist Ling-An Fang at the CB1 Gallery, Los Angeles]] — 2010-06-27 · B
+- [[works/taiwaneseamerican-org/tap-summer-kick-off-in-la|Taiwanese American Professionals – Summer Kick-off in LA]] — 2010-06-26 · B
+- [[works/taiwaneseamerican-org/tacl-lyf-youth-summer-camp-in-northern-california|TACL-LYF Youth Summer Camp in Northern California]] — 2010-06-24 · B
+- [[works/taiwaneseamerican-org/special-guest-singer-songwriter-alice-tong-at-goohana-in-berkeley-ca|Special Guest Singer-songwriter Alice Tong at GO!OHANA in Berkeley, CA]] — 2010-06-24 · B
+- [[works/taiwaneseamerican-org/u-s-representative-calls-for-full-membership-for-taiwan-in-international-organiz|U.S. Representative Calls for Full Membership for Taiwan in International Organizations]] — 2010-06-22 · A
+- [[works/taiwaneseamerican-org/sfbay-area-presentation-keep-taiwan-free-the-making-of-taiwans-democracy|SF/Bay Area Presentation: “Keep Taiwan Free: The Making of Taiwan’s Democracy”]] — 2010-06-20 · B
+- [[works/taiwaneseamerican-org/back-stage-with-taiwanese-american-pop-star-evonne-hsu|Back Stage with Taiwanese American Pop Star Evonne Hsu at APAHM 2010 Concert]] — 2010-06-19 · A
+- [[works/taiwaneseamerican-org/tappy-hour-in-new-york|“TAPpy Hour” in New York]] — 2010-06-17 · B
+- [[works/taiwaneseamerican-org/tjccna-annual-meeting-in-san-jose-ca|TJCCNA Annual Meeting in San Jose, CA]] — 2010-06-17 · B
+- [[works/taiwaneseamerican-org/johnny-hi-fi-returns-to-houston-tx|Johnny Hi-Fi Returns to Houston, TX]] — 2010-06-17 · B
+- [[works/taiwaneseamerican-org/alice-tong-cd-release-party-and-performance-in-la|Alice Tong CD Release Party and Performance in LA]] — 2010-06-17 · B
+- [[works/taiwaneseamerican-org/actress-lynn-chen-possible-food-show-host|Actress Lynn Chen – Possible Food Show Host?]] — 2010-06-15 · B
+- [[works/taiwaneseamerican-org/tap-sfs-tappy-hour-summer-kickoff|TAP-SF’s TAPpy Hour: Summer Kickoff!]] — 2010-06-09 · B
+- [[works/taiwaneseamerican-org/student-leaders-apply-for-itasa-national-board|Student Leaders: Apply for ITASA National Board]] — 2010-06-01 · B
+- [[works/taiwaneseamerican-org/2010-natpa-young-scholars-program-and-travel-fund-announcement|2010 NATPA Young Scholars Program and Travel Fund Announcement]] — 2010-06-01 · B
+- [[works/taiwaneseamerican-org/through-the-eyes-of-designer-director-warren-fu|Through the Eyes of Designer-Director Warren Fu]] — 2010-05-31 · A
+- [[works/taiwaneseamerican-org/help-give-formosa-betrayed-dvd-to-members-of-congress|Help Give FORMOSA BETRAYED DVD to Members of Congress]] — 2010-05-31 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-cultural-festival-in-new-york-passport-to-taiwan|Taiwanese American Cultural Festival in New York: “Passport to Taiwan”]] — 2010-05-30 · B
+- [[works/taiwaneseamerican-org/win-free-apahm-concert-tickets-from-taiwaneseamerican-org|Win Free APAHM Concert Tickets from TaiwaneseAmerican.org!]] — 2010-05-29 · B
+- [[works/taiwaneseamerican-org/asian-rock-fest-in-san-francisco-features-several-taiwanese-american-bands|Asian Rock Fest in San Francisco Features Several Taiwanese American Bands]] — 2010-05-29 · B
+- [[works/taiwaneseamerican-org/alice-tong-cd-release-party-in-san-francisco|Alice Tong CD Release Party in San Francisco]] — 2010-05-29 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-producer-director-s-leo-chiangs-a-village-called-versailles-o|Taiwanese American Producer-Director S. Leo Chiang’s “A Village Called Versailles” on PBS]] — 2010-05-25 · B
+- [[works/taiwaneseamerican-org/tap-in-san-diego-hosts-a-panel-on-traveling-taiwan|TAP in San Diego Hosts a Panel on “Traveling Taiwan”]] — 2010-05-25 · B
+- [[works/taiwaneseamerican-org/explore-taiwan-on-cbs-eye-on-the-bay|Explore Taiwan on CBS’ Eye on the Bay]] — 2010-05-24 · B
+- [[works/taiwaneseamerican-org/art-of-culture-event-in-houston|Art of Culture Event in Houston]] — 2010-05-22 · B
+- [[works/taiwaneseamerican-org/a-c-span-video-taiwan-the-threatened-democracy|A C-SPAN Video: “Taiwan: The Threatened Democracy”]] — 2010-05-22 · A
+- [[works/taiwaneseamerican-org/the-taiwanese-american-heritage-week-celebration-in-southern-california|The Taiwanese American Heritage Week Celebration in Southern California]] — 2010-05-16 · B
+- [[works/taiwaneseamerican-org/visit-taiwaneseamerican-org-at-sf-asian-heritage-street-celebration|Visit TaiwaneseAmerican.org at SF Asian Heritage Street Celebration]] — 2010-05-15 · B
+- [[works/taiwaneseamerican-org/taiwanese-food-fair-at-san-diegos-taiwan-center|Taiwanese Food Fair at San Diego’s Taiwan Center]] — 2010-05-15 · B
+- [[works/taiwaneseamerican-org/friends-of-taiwan-in-la-presents-bird-water-dance-ensemble|Friends of Taiwan in LA Presents: Bird & Water Dance Ensemble]] — 2010-05-15 · B
+- [[works/taiwaneseamerican-org/true-fusion-baohaus-nyc|True Fusion: BaoHaus NYC]] — 2010-05-13 · A
+- [[works/taiwaneseamerican-org/taiwanese-american-youth-summer-camp-season-begins|Taiwanese American Youth Summer Camp Season Begins!]] — 2010-05-13 · B
+- [[works/taiwaneseamerican-org/keep-taiwan-free-facebook-campaign|“Keep Taiwan Free” Facebook Campaign]] — 2010-05-09 · A
+- [[works/taiwaneseamerican-org/taiwaneseamerican-org-co-sponsors-a-community-mixer|TaiwaneseAmerican.org Co-sponsors a Community Mixer]] — 2010-05-08 · A
+- [[works/taiwaneseamerican-org/san-francisco-taiwanese-american-cultural-festival-vibrant-taiwan|San Francisco Taiwanese American Cultural Festival: “Vibrant Taiwan”]] — 2010-05-08 · B
+- [[works/taiwaneseamerican-org/taiwanese-artisans-at-taiwanese-american-heritage-week-cultural-fair-in-michigan|Taiwanese Artisans at Taiwanese American Heritage Week Cultural Fair in Michigan]] — 2010-05-07 · B
+- [[works/taiwaneseamerican-org/formosa-betrayed-the-movie-showing-in-atlanta-this-weekend|UPDATE: Formosa Betrayed showing in ATL through May 6]] — 2010-05-06 · B
+- [[works/taiwaneseamerican-org/confirmation-hearing-for-nominee-goodwin-liu-to-the-u-s-court-of-appeals|Confirmation Hearing for Nominee Goodwin Liu to the U.S. Court of Appeals]] — 2010-05-06 · B
+- [[works/taiwaneseamerican-org/chen-shu-chu-quietly-doing-good-and-now-one-of-times-100-most-influential|Chen Shu-chu “Quietly Doing Good” and Now One of TIME’s 100 Most Influential]] — 2010-05-05 · A
+- [[works/taiwaneseamerican-org/taiwan-folk-art-event-showcases-artists|‘Taiwan Folk Art’ Event Showcases Artists]] — 2010-05-02 · B
+- [[works/taiwaneseamerican-org/the-100-passionate-people-project|The 100 Passionate People Project]] — 2010-05-01 · B
+- [[works/taiwaneseamerican-org/join-taiwanese-american-professionals-in-ny-for-bowling|Join Taiwanese American Professionals in NY for Bowling!]] — 2010-05-01 · B
+- [[works/taiwaneseamerican-org/free-asian-pacific-american-heritage-month-celebration-in-morrow-ga|Free Asian Pacific American Heritage Month Celebration in Morrow, GA]] — 2010-05-01 · B
+- [[works/taiwaneseamerican-org/celebrate-taiwanese-american-heritage-week-and-asian-pacific-american-heritage-m|Celebrate Taiwanese American Heritage Week and Asian Pacific American Heritage Month!]] — 2010-05-01 · B
+- [[works/taiwaneseamerican-org/an-open-letter-from-producer-will-tiao-to-the-fans-of-formosa-betrayed|An Open Letter from Producer Will Tiao to the Fans of FORMOSA BETRAYED]] — 2010-04-30 · B
+- [[works/taiwaneseamerican-org/tap-co-presents-au-revoir-taipei-at-la-asian-film-festival|TAP Co-Presents “Au Revoir Taipei” at LA Asian Film Festival]] — 2010-04-29 · B
+- [[works/taiwaneseamerican-org/jack-tung-at-goohan|Jack Tung at GO!OHANA Performance Showcase]] — 2010-04-29 · B
+- [[works/taiwaneseamerican-org/upcoming-asian-american-film-festivals-nationwide|Upcoming Asian American Film Festivals Nationwide]] — 2010-04-28 · B
+- [[works/taiwaneseamerican-org/in-step-with-alice-tong-prelude-to-progression|In Step with Alice Tong: Prelude to Progression]] — 2010-04-27 · A
+- [[works/taiwaneseamerican-org/a-taiwanese-history-seminar-hosted-by-tap-san-diego|A Taiwanese History Seminar Hosted by TAP – San Diego]] — 2010-04-27 · B
+- [[works/taiwaneseamerican-org/other-asian|“Other Asian”]] — 2010-04-24 · A
+- [[works/taiwaneseamerican-org/san-francisco-hiking-trip-with-tap-sf|San Francisco Hiking Trip with TAP-SF]] — 2010-04-24 · B
+- [[works/taiwaneseamerican-org/asian-american-literature-symposium-at-university-of-maryland|Asian American Literature Symposium at University of Maryland]] — 2010-04-24 · B
+- [[works/taiwaneseamerican-org/wong-fu-productions-continues-tour-through-midwest|Wong Fu Productions Continues Tour through Midwest]] — 2010-04-23 · B
+- [[works/taiwaneseamerican-org/congratulations-karin-wang-kcets-local-hero-in-southern-california|Congratulations Karin Wang, KCET’s “Local Hero” in Southern California]] — 2010-04-23 · B
+- [[works/taiwaneseamerican-org/accepting-applications-for-the-2010-miss-taiwanese-american-pageant-in-los-angel|Accepting Applications for the 2010 Miss Taiwanese American Pageant in Los Angeles]] — 2010-04-23 · B
+- [[works/taiwaneseamerican-org/will-tiao-speaking-at-emory-university-422|Will Tiao Speaking at Emory University 4/22]] — 2010-04-22 · B
+- [[works/taiwaneseamerican-org/james-huang-is-a-gleek-are-you|James Huang is a Gleek! Are You?]] — 2010-04-21 · B
+- [[works/taiwaneseamerican-org/taiwaneseamerican-org-presents-an-exploration-of-fine-tea-in-sfbay-area|TaiwaneseAmerican.org Presents “An Exploration of Fine Tea” in SF/Bay Area]] — 2010-04-17 · B
+- [[works/taiwaneseamerican-org/taiwanese-night-market-in-boston|Taiwanese Night Market in Boston]] — 2010-04-17 · B
+- [[works/taiwaneseamerican-org/exitclovs-upcoming-performances|Exit Clov’s Cover Boy Tour]] — 2010-04-17 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-womens-conference-in-toronto|Taiwanese American/Canadian Women’s Conference in Toronto]] — 2010-04-16 · B
+- [[works/taiwaneseamerican-org/declare-indie-3-showcasing-the-best-of-chicagos-asian-american-musicians|Declare INDIE 3 – Showcasing the Best of Chicago’s Asian American Musicians]] — 2010-04-16 · B
+- [[works/taiwaneseamerican-org/tappy-hour-at-the-crocker-club-in-la|TAPpy Hour at The Crocker Club in LA]] — 2010-04-15 · B
+- [[works/taiwaneseamerican-org/happy-hour-with-taiwanese-american-professionals-in-dc|Happy Hour with Taiwanese American Professionals in DC]] — 2010-04-15 · B
+- [[works/taiwaneseamerican-org/taiwanese-americans-presenting-at-new-communities-symposium-at-purdue|Taiwanese Americans Presenting at New Communities Symposium at Purdue]] — 2010-04-13 · B
+- [[works/taiwaneseamerican-org/spoken-word-artist-kelly-zen-yie-tsai-performs-at-purdue-university|Spoken Word Artist Kelly Zen-Yie Tsai Performs at Purdue University]] — 2010-04-13 · B
+- [[works/taiwaneseamerican-org/tuf-salon-series-the-business-of-cars|TUF Salon Series: The Business of Cars]] — 2010-04-11 · B
+- [[works/taiwaneseamerican-org/spring-bbqpicnic-at-mission-bay-with-tap-in-san-diego|Spring BBQ/Picnic at Mission Bay with TAP in San Diego]] — 2010-04-10 · B
+- [[works/taiwaneseamerican-org/formula-drift-2010-with-tap-in-la|Formula Drift 2010 with TAP in LA]] — 2010-04-10 · B
+- [[works/taiwaneseamerican-org/fapa-ypg-regional-conference-2010|FAPA YPG Regional Conferences 2010]] — 2010-04-10 · B
+- [[works/taiwaneseamerican-org/lim-jiu-happy-hour-with-taiwanese-american-professionals-of-seattle|Lim Jiu (Happy Hour) with Taiwanese American Professionals of Seattle]] — 2010-04-09 · B
+- [[works/taiwaneseamerican-org/atlanta-tasa-night-market-49|Atlanta TASA Night Market – 4/9]] — 2010-04-09 · B
+- [[works/taiwaneseamerican-org/jen-shyu-solo-in-la-inner-chapters-cafe-metropol|Jen Shyu Solo in LA: INNER CHAPTERS @ Café Metropol]] — 2010-04-08 · B
+- [[works/taiwaneseamerican-org/taiwanese-competitor-lin-yu-chun-amazes-with-i-will-always-love-you|Taiwanese Competitor Lin Yu Chun Amazes with “I Will Always Love You”]] — 2010-04-07 · B
+- [[works/taiwaneseamerican-org/vienna-teng-and-cynthia-lin-perform-at-northwestern-university|Vienna Teng and Cynthia Lin Perform at Northwestern University!]] — 2010-04-06 · B
+- [[works/taiwaneseamerican-org/opening-ceremony-for-the-2010-bay-area-strait-talk-symposium|Opening Ceremony for the 2010 Bay Area Strait Talk Symposium]] — 2010-04-05 · B
+- [[works/taiwaneseamerican-org/atcc-bbq-in-the-sun|ATCC BBQ in the Sun]] — 2010-04-03 · B
+- [[works/taiwaneseamerican-org/the-staff-of-taiwaneseamerican-org-say-we-count|The Staff of TaiwaneseAmerican.org Say “We Count!”]] — 2010-04-01 · A
+- [[works/taiwaneseamerican-org/the-2010-write-in-taiwanese-campaign-and-500-scholarships|The 2010 Census “Write in Taiwanese” Campaign]] — 2010-04-01 · B
+- [[works/taiwaneseamerican-org/tappy-hour-at-the-volstead-in-new-york|“TAPpy Hour” at The Volstead in New York]] — 2010-03-31 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-professionals-los-angeles-global-jobs-seminar|Taiwanese American Professionals – Los Angeles: Global Jobs Seminar]] — 2010-03-31 · B
+- [[works/taiwaneseamerican-org/reexamining-taiwans-228-massacre-a-discussion-on-the-u-s-role-in-taiwan-then-and|Reexamining Taiwan’s 228 Massacre: A Discussion on the U.S. Role in Taiwan Then and Now]] — 2010-03-31 · A
+- [[works/taiwaneseamerican-org/i-am-taiwanese-american-say-the-bloggers|“I am Taiwanese American” Say the Bloggers!]] — 2010-03-30 · A
+- [[works/taiwaneseamerican-org/the-history-of-taiwan-postwar-era-and-the-228-incident|The History of Taiwan: Postwar Era and The 228 Incident]] — 2010-03-30 · B
+- [[works/taiwaneseamerican-org/san-jose-mercury-news-taiwanese-americans-spread-the-word-to-increase-2010-censu|San Jose Mercury News: “Taiwanese-Americans spread word to increase 2010 census numbers”]] — 2010-03-30 · B
+- [[works/taiwaneseamerican-org/itasa-midwest-conferences-round-up|ITASA Midwest Conferences: Round Up]] — 2010-03-28 · B
+- [[works/taiwaneseamerican-org/a-presentation-in-san-jose-by-the-examiners-michael-richardson|A Presentation in San Jose by the Examiner’s Michael Richardson]] — 2010-03-28 · B
+- [[works/taiwaneseamerican-org/tap-boston-at-sound-of-the-ocean-by-u-theatre-taiwan|TAP-Boston at Sound of the Ocean by U Theatre Taiwan]] — 2010-03-27 · B
+- [[works/taiwaneseamerican-org/cynthia-lin-performance-at-itasa-midwest-conference|Cynthia Lin Performance at ITASA Midwest Conference]] — 2010-03-27 · B
+- [[works/taiwaneseamerican-org/faces-of-taiwan-series-opens-in-the-bronx|“Faces of Taiwan” Series Opens in the Bronx]] — 2010-03-26 · B
+- [[works/taiwaneseamerican-org/kite-operations-jack-tung-the-gold-medalists-and-xyzr-kx-in-san-francisco-on-mar|Kite Operations, Jack Tung, the Gold Medalists, and XYZR_KX in San Francisco on March 26!]] — 2010-03-26 · B
+- [[works/taiwaneseamerican-org/u-theatre-sound-of-the-ocean|TAP-DC at Sound of the Ocean by U Theatre]] — 2010-03-25 · B
+- [[works/taiwaneseamerican-org/confirmation-hearing-events-for-nominee-goodwin-liu-to-the-u-s-court-of-appeals|Confirmation Hearing Events for Nominee Goodwin Liu to the U.S. Court of Appeals]] — 2010-03-24 · B
+- [[works/taiwaneseamerican-org/taiwaneseamerican-org-hosts-first-national-board-staff-meeting-in-austin-tx|TaiwaneseAmerican.org Hosts First National Board & Staff Meeting in Austin, TX]] — 2010-03-23 · A
+- [[works/taiwaneseamerican-org/tacl-2010-summer-political-internship|TACL 2010 Summer Political Internship]] — 2010-03-22 · B
+- [[works/taiwaneseamerican-org/the-hsu-nami-live-at-beast-attire-2nd-year-anniversary|The Hsu-nami Live at Beast Attire 2nd Year Anniversary]] — 2010-03-21 · B
+- [[works/taiwaneseamerican-org/northern-california-taiwan-forum-in-san-jose|Northern California Taiwan Forum in San Jose]] — 2010-03-20 · B
+- [[works/taiwaneseamerican-org/formosa-betrayed-chicago-premier|Formosa Betrayed Chicago Premier]] — 2010-03-20 · B
+- [[works/taiwaneseamerican-org/2010-us-census-soiree-a-fundraising-social-in-san-jose-ca|2010 US Census Soiree – A Fundraising Social in San Jose, CA]] — 2010-03-20 · B
+- [[works/taiwaneseamerican-org/girl-power-leading-the-way-for-taiwanese-american-collegiate-conferences|Girl Power Leading the Way for Taiwanese American Collegiate Conferences!]] — 2010-03-19 · A
+- [[works/taiwaneseamerican-org/chai-found-music-workshop-in-wilmington-de|Chai Found Music Workshop in Wilmington, DE]] — 2010-03-19 · B
+- [[works/taiwaneseamerican-org/cynthia-lin-performance-at-la-pena-cultural-center|Cynthia Lin Performance at La Pena Cultural Center]] — 2010-03-18 · B
+- [[works/taiwaneseamerican-org/filmmaker-arvin-chen-greets-the-world-with-au-revoir-taipei|Filmmaker Arvin Chen Greets the World with “Au Revoir Taipei”]] — 2010-03-16 · A
+- [[works/taiwaneseamerican-org/formosa-foundation-2010-ambassador-program|Formosa Foundation 2010 Ambassador Program]] — 2010-03-15 · B
+- [[works/taiwaneseamerican-org/tap-dc-dim-sum-lunch-in-washington-dc|TAP-DC Dim Sum Lunch in Washington, DC]] — 2010-03-14 · B
+- [[works/taiwaneseamerican-org/tuf-salon-generational-differences-within-the-taiwanese-american-community|TUF Salon: Generational Differences Within the Taiwanese American Community in Thousand Oaks]] — 2010-03-13 · A
+- [[works/taiwaneseamerican-org/taps-karaoke-sing-off-in-seattle|TAPS Karaoke Sing off in Seattle]] — 2010-03-13 · B
+- [[works/taiwaneseamerican-org/tap-sd-formosa-betrayed-and-meal-in-san-diego|TAP-SD: Formosa Betrayed and Meal in San Diego]] — 2010-03-13 · B
+- [[works/taiwaneseamerican-org/greetings-from-crystal-chiu|Greetings From Young Taiwanese American Actress Crystal Chiu, Co-star of “Children of Invention”]] — 2010-03-12 · A
+- [[works/taiwaneseamerican-org/tap-march-happy-hour-in-chicago|TAP March Happy Hour in Chicago]] — 2010-03-11 · B
+- [[works/taiwaneseamerican-org/join-us-for-the-san-francisco-international-asian-american-film-festival|Join us for the San Francisco International Asian American Film Festival]] — 2010-03-11 · B
+- [[works/taiwaneseamerican-org/dawen-live-with-macy-gray-311|Dawen Live with Macy Gray! Streaming Online!]] — 2010-03-11 · B
+- [[works/taiwaneseamerican-org/meet-formosa-betrayeds-will-tiao-and-adam-kane-at-northwestern-university|Meet Formosa Betrayed’s Will Tiao and Adam Kane at Northwestern University]] — 2010-03-04 · B
+- [[works/taiwaneseamerican-org/connecting-with-janet-hsieh-host-of-discoverys-fun-taiwan|Connecting with Janet Hsieh, Host of Discovery’s Fun Taiwan!]] — 2010-03-02 · A
+- [[works/taiwaneseamerican-org/check-it-taiwanese-american-census-psa-video|Check it! Taiwanese American Census PSA Video!]] — 2010-03-02 · B
+- [[works/taiwaneseamerican-org/a-fresh-look-for-the-new-decade|A Fresh Look for the New Decade!]] — 2010-02-28 · B
+- [[works/taiwaneseamerican-org/tap-speed-networking-in-pasadena-ca|TAP Speed Networking in Pasadena, CA]] — 2010-02-27 · B
+- [[works/taiwaneseamerican-org/tap-boston-at-formosa-betrayed-opening-weekend-and-karaoke|TAP Boston at Formosa Betrayed opening weekend and Karaoke]] — 2010-02-27 · B
+- [[works/taiwaneseamerican-org/look-at-these-the-slants-reclaim-their-eyes|Look At THESE! The Slants Reclaim Their Eyes]] — 2010-02-27 · A
+- [[works/taiwaneseamerican-org/remember-228-celebrate-identity-and-make-history|Remember 228, Celebrate Identity, and Make History!]] — 2010-02-26 · A
+- [[works/taiwaneseamerican-org/coming-soon-to-a-theater-near-you|FORMOSA BETRAYED – Now In Theaters!]] — 2010-02-26 · B
+- [[works/taiwaneseamerican-org/application-deadline-for-strait-talk-symposium-at-uc-berkeley|Application Deadline for Strait Talk Symposium at UC Berkeley]] — 2010-02-26 · B
+- [[works/taiwaneseamerican-org/exit-clov-at-dc9-in-washington-dc|Exit Clov at DC9 in Washington, DC]] — 2010-02-25 · B
+- [[works/taiwaneseamerican-org/why-you-need-to-pick-up-a-penbrushcamera|Why You Need to Pick up A Pen/Brush/Camera]] — 2010-02-24 · A
+- [[works/taiwaneseamerican-org/president-obama-nominates-taiwanese-american-goodwin-liu-for-the-ninth-circuit|President Obama Nominates Taiwanese American Goodwin Liu for the Ninth Circuit]] — 2010-02-24 · B
+- [[works/taiwaneseamerican-org/a-message-from-will-tiao-producer-of-formosa-betrayed|A Message from Will Tiao, Producer of Formosa Betrayed]] — 2010-02-24 · A
+- [[works/taiwaneseamerican-org/celebrate-school-board-member-jay-chen|Celebrate School Board Member Jay Chen!]] — 2010-02-23 · B
+- [[works/taiwaneseamerican-org/new-year-gala-hosted-by-taiwanese-chamber-of-commerce-in-dallas-fort-worth|New Year Gala hosted by Taiwanese Chamber of Commerce in Dallas-Fort Worth]] — 2010-02-21 · B
+- [[works/taiwaneseamerican-org/tappy-hour-census-fundraiser-in-san-francisco-ca|“TAPpy Hour” Census Fundraiser in San Francisco, CA]] — 2010-02-20 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-professionals-sd-day-trip-to-big-bear|Taiwanese American Professionals – SD Day Trip to Big Bear]] — 2010-02-20 · B
+- [[works/taiwaneseamerican-org/asianinny-com-presents-a-celebration-of-lunar-new-year|AsianinNY.com Presents A Celebration of Lunar New Year]] — 2010-02-20 · B
+- [[works/taiwaneseamerican-org/ski-trip-with-tap-la-to-big-bear-lake|Ski Trip with Taiwanese American Professionals – LA to Big Bear Lake!]] — 2010-02-19 · B
+- [[works/taiwaneseamerican-org/ang-lee-retrospective-at-rice-university-houston-tx|Ang Lee Retrospective at Rice University, Houston, TX]] — 2010-02-19 · B
+- [[works/taiwaneseamerican-org/singer-songwriter-charlie-chang-debuts-on-myx-tv|Singer-songwriter Charlie Chang Debuts on MYX TV!]] — 2010-02-18 · B
+- [[works/taiwaneseamerican-org/register-for-itasa-east-midwest-conferences|Register for ITASA Regional Conferences!]] — 2010-02-18 · B
+- [[works/taiwaneseamerican-org/women-e2-80-99s-movements-in-twentieth-century-taiwan|Women’s Movements in Twentieth-Century Taiwan]] — 2010-02-16 · B
+- [[works/taiwaneseamerican-org/meet-taiwanese-singer-cindy-yen-in-austin-tx|Meet Taiwanese Singer Cindy Yen in Austin, TX]] — 2010-02-15 · B
+- [[works/taiwaneseamerican-org/comedian-sheng-wang-and-the-surreality-of-everyday-mundane-experiences|Comedian Sheng Wang and the Surreality of Everyday Mundane Experiences]] — 2010-02-14 · A
+- [[works/taiwaneseamerican-org/speed-networking-by-taiwanese-american-professionals-boston-213|Speed Networking by Taiwanese American Professionals – Boston 2/13]] — 2010-02-13 · B
+- [[works/taiwaneseamerican-org/spoken-word-artist-kelly-zen-yie-tsai-at-museum-of-chinese-in-america|Spoken word artist Kelly Zen-Yie Tsai at Museum of Chinese in America]] — 2010-02-12 · B
+- [[works/taiwaneseamerican-org/chih-hung-ma-the-sole-taiwanese-athlete-at-the-2010-winter-olympics|Chih-Hung Ma, the Sole Taiwanese Athlete at the 2010 Winter Olympics]] — 2010-02-12 · B
+- [[works/taiwaneseamerican-org/vote-for-jeremy-lin-for-the-bob-cousy-award|Vote for Jeremy Lin for the Bob Cousy Award!]] — 2010-02-10 · B
+- [[works/taiwaneseamerican-org/tax-seminar-by-taiwanese-american-professionals-sd|Tax Seminar by Taiwanese American Professionals – SD]] — 2010-02-09 · B
+- [[works/taiwaneseamerican-org/taiwanese-brothers-and-sisters-global-edition|Taiwanese Brothers and Sisters, Global Edition]] — 2010-02-09 · A
+- [[works/taiwaneseamerican-org/a-moment-with-the-actors-and-production-team-behind-formosa-betrayed|A Moment with the Actors and Production Team Behind “Formosa Betrayed.”]] — 2010-02-07 · A
+- [[works/taiwaneseamerican-org/tap-ny-2010-lunar-new-year-dinner-banquet|TAP-NY 2010 Lunar New Year Dinner Banquet]] — 2010-02-06 · B
+- [[works/taiwaneseamerican-org/tap-chicagos-2nd-annual-lunar-new-year-party|TAP Chicago’s 2nd Annual Lunar New Year Party]] — 2010-02-06 · B
+- [[works/taiwaneseamerican-org/lantern-festival-night-market-at-uc-irvine|Lantern Festival Night Market at UC Irvine]] — 2010-02-06 · B
+- [[works/taiwaneseamerican-org/exit-clov-performances-to-debut-memento-mori|Exit Clov Performances to Debut Memento Mori]] — 2010-02-06 · B
+- [[works/taiwaneseamerican-org/2010-sfbay-area-annual-lunar-new-year-celebration|2010 SF/Bay Area Annual Lunar New Year Celebration]] — 2010-02-06 · B
+- [[works/taiwaneseamerican-org/tap-in-la-hosts-the-annual-lunar-new-year-dinner|TAP in LA Hosts the Annual Lunar New Year Dinner]] — 2010-02-05 · B
+- [[works/taiwaneseamerican-org/spoken-word-artist-kelly-zen-yie-tsai-performs-at-coe-college|Spoken Word Artist Kelly Zen-Yie Tsai Performs at Coe College]] — 2010-02-05 · B
+- [[works/taiwaneseamerican-org/a-proud-sponsor-of-gostyle-hosted-by-comedian-sheng-wang|A Proud Sponsor of Go!Style – Hosted by Comedian Sheng Wang]] — 2010-02-05 · B
+- [[works/taiwaneseamerican-org/tap-dcs-2010-new-year-new-friends-tappy-hour|TAP-DC’s 2010 New Year New Friends TAPpy Hour]] — 2010-02-04 · B
+- [[works/taiwaneseamerican-org/spoken-word-artist-kelly-zen-yie-tsais-performances|Spoken Word Artist Kelly Zen-Yie Tsai’s Performances]] — 2010-02-04 · B
+- [[works/taiwaneseamerican-org/earn-a-salary-teaching-in-taiwan|Earn a Salary Teaching in Taiwan!]] — 2010-02-03 · B
+- [[works/taiwaneseamerican-org/behind-the-scenes-a-word-from-the-designer|Behind the Scenes: A Word from the Designer]] — 2010-02-03 · A
+- [[works/taiwaneseamerican-org/director-justin-lin-on-asian-american-filmmaking|Director Justin Lin on Asian American Filmmaking]] — 2010-02-02 · A
+- [[works/taiwaneseamerican-org/jeremy-lin-a-boston-fans-broadcast-from-the-bleachers|Jeremy Lin: A Boston Fan’s Broadcast from the Bleachers]] — 2010-02-01 · A
+- [[works/taiwaneseamerican-org/a-work-in-progress-almost-home-taiwan|A Work-in-Progress: “Almost Home: Taiwan”]] — 2010-02-01 · B
+- [[works/taiwaneseamerican-org/new-jersey-area-high-school-scholarships-available|New Jersey Area High School Scholarships Available]] — 2010-01-31 · B
+- [[works/taiwaneseamerican-org/a-scholarship-opportunity-for-high-school-seniors-of-taiwanese-descent|A Scholarship Opportunity for High School Seniors of Taiwanese Descent]] — 2010-01-31 · B
+- [[works/taiwaneseamerican-org/singer-songwriter-cynthia-lin-in-chicago|Singer-songwriter Cynthia Lin in Chicago]] — 2010-01-29 · B
+- [[works/taiwaneseamerican-org/amateur|Amateur]] — 2010-01-24 · A
+- [[works/taiwaneseamerican-org/singer-songwriter-carolyn-chen-performs-in-oakland-ca|Singer-songwriter Carolyn Chen Performs in Oakland, CA.]] — 2010-01-22 · B
+- [[works/taiwaneseamerican-org/dineforchange-partners-with-tap-sf-for-haiti-earthquake-relief|DineForChange Partners with TAP-SF For Haiti Earthquake Relief]] — 2010-01-22 · B
+- [[works/taiwaneseamerican-org/atjccna-hot-pot|ATJCCNA Hot Pot!]] — 2010-01-22 · B
+- [[works/taiwaneseamerican-org/taita-sv-panel-presentation-opportunities-for-the-new-decade|TAITA-SV Panel Presentation: “Opportunities for the New Decade”]] — 2010-01-21 · B
+- [[works/taiwaneseamerican-org/interested-in-volunteering-with-tap-ny|Interested in Volunteering with TAP-NY?]] — 2010-01-17 · B
+- [[works/taiwaneseamerican-org/take-a-stance-against-domestic-violence-and-sexual-assault|Take a Stance Against Domestic Violence and Sexual Assault!]] — 2010-01-15 · B
+- [[works/taiwaneseamerican-org/spoken-word-artist-kelly-zen-yie-tsai-performs-at-northwestern-university|Spoken Word Artist Kelly Zen-Yie Tsai Performs at Northwestern University]] — 2010-01-15 · B
+- [[works/taiwaneseamerican-org/tappy-hour-with-tap-in-la|“TAPpy Hour” with TAP in LA]] — 2010-01-13 · B
+- [[works/taiwaneseamerican-org/haitian-earthquake-relief|Haitian Earthquake Relief]] — 2010-01-13 · B
+- [[works/taiwaneseamerican-org/free-cynthia-lin-album-downloads|Free Cynthia Lin Album Downloads]] — 2010-01-13 · B
+- [[works/taiwaneseamerican-org/exit-clov-introduces-a-new-album-memento-mori|Exit Clov Introduces a New Album: Memento Mori]] — 2010-01-12 · B
+- [[works/taiwaneseamerican-org/ny-times-on-a-scale-of-1-to-10-how-weird-are-you|NY Times: “On a Scale of 1 to 10, How Weird Are You?”]] — 2010-01-11 · B
+- [[works/taiwaneseamerican-org/introducing-singer-songwriter-charlie-chang|Introducing Singer-songwriter Charlie Chang]] — 2010-01-10 · B
+- [[works/taiwaneseamerican-org/tjcc-sf-hosts-karaoke-fundraiser-benefit-in-silicon-valley|TJCC-SF Hosts Karaoke Fundraiser Benefit in Silicon Valley]] — 2009-12-25 · B
+- [[works/taiwaneseamerican-org/dineforchange-com-tap-sf-host-a-holiday-dinner-benefit|DineForChange.com & TAP-SF Host a Holiday Dinner Benefit!]] — 2009-12-25 · B
+- [[works/taiwaneseamerican-org/rebiya-kadeer-10-conditions-of-love-screening|Rebiya Kadeer & “10 Conditions of Love” Screening]] — 2009-12-19 · B
+- [[works/taiwaneseamerican-org/tap-chicago-holiday-wine-tasting-mixer-2|TAP-Chicago Holiday Wine Tasting Mixer]] — 2009-12-12 · B
+- [[works/taiwaneseamerican-org/tap-in-los-angeles-hosts-a-christmas-party|TAP in Los Angeles Hosts a Christmas Party!]] — 2009-12-12 · B
+- [[works/taiwaneseamerican-org/hotpot-and-game-night-with-tap-sd|Hotpot and Game Night with TAP-SD]] — 2009-12-12 · B
+- [[works/taiwaneseamerican-org/dinner-with-john-liu-nyc-comptroller|Dinner with John Liu, NYC Comptroller]] — 2009-12-12 · B
+- [[works/taiwaneseamerican-org/a-cozy-holiday-gathering-with-tap-in-san-francisco-bay-area|A Cozy Holiday Gathering With TAP in San Francisco / Bay Area]] — 2009-12-12 · B
+- [[works/taiwaneseamerican-org/toydrive-at-eyebar-with-naaap-dc-tap-dc-and-other-organizations|ToyDrive at Eyebar with NAAAP-DC, TAP-DC and other organizations]] — 2009-12-11 · B
+- [[works/taiwaneseamerican-org/jeremy-lin-harvard-superstar-on-the-b-ball-court|Jeremy Lin – Harvard Superstar… On the B-ball Court!]] — 2009-12-11 · B
+- [[works/taiwaneseamerican-org/jenton-friends-sing-the-holiday-classics-and-more|Jenton & Friends Sing the Holiday Classics and More!]] — 2009-12-11 · B
+- [[works/taiwaneseamerican-org/a-taste-of-life-and-passion-with-flour-bakerys-joanne-chang|A Taste of Life and Passion with Flour Bakery’s Joanne Chang]] — 2009-12-11 · A
+- [[works/taiwaneseamerican-org/yankee-holiday-dinner-with-tap-boston|Yankee Holiday Dinner with TAP-Boston]] — 2009-12-10 · B
+- [[works/taiwaneseamerican-org/elisa-lins-debut-album-e6-88-91-e4-b8-8d-e6-98-af-e2-80-9c-i-am-not|Elisa Lin’s Debut Album “我不是“ I Am Not]] — 2009-12-10 · B
+- [[works/taiwaneseamerican-org/a-foreigner-competes-in-taiwanese-speech-contest|A “Foreigner” Competes in Taiwanese Speech Contest]] — 2009-12-05 · B
+- [[works/taiwaneseamerican-org/the-dawen-e2-80-9camerican-me-e2-80-9d-tour|The Dawen “American Me” Tour]] — 2009-12-04 · B
+- [[works/taiwaneseamerican-org/the-dawen-e2-80-9camerican-me-e2-80-9d-tour-2|The Dawen “American Me” Tour]] — 2009-12-04 · B
+- [[works/taiwaneseamerican-org/spoken-word-artist-kelly-zen-yie-tsai-around-the-midwestsouth-2|Spoken Word Artist Kelly Zen-Yie Tsai Around the Midwest/South]] — 2009-12-03 · B
+- [[works/taiwaneseamerican-org/applications-now-available-for-the-2010-ambassador-program|Applications Now Available for the 2010 Ambassador Program]] — 2009-12-02 · B
+- [[works/taiwaneseamerican-org/taiwanese-american-health-professionals-in-ny-for-dinner|Taiwanese American Health Professionals in NY for Dinner]] — 2009-11-22 · B
+- [[works/taiwaneseamerican-org/the-hsu-nami-performs-live-in-brooklyn|The Hsu-nami Performs Live in Brooklyn]] — 2009-11-21 · B
+- [[works/taiwaneseamerican-org/spoken-word-performances-by-kelly-zen-yie-tsai|Spoken Word Performances by Kelly Zen-Yie Tsai]] — 2009-11-20 · B
+- [[works/taiwaneseamerican-org/happy-hour-with-tap-in-chicago|Happy Hour with TAP in Chicago]] — 2009-11-19 · B
+- [[works/taiwaneseamerican-org/wrap-steam-serve-eat-bah-tzang-aka-zong-zi-taiwanese-style|Wrap! Steam! Serve! Eat Bah-tzang (aka Zong-zi)! Taiwanese-style!]] — 2009-11-14 · A
+- [[works/taiwaneseamerican-org/behind-the-big-screen-with-composer-george-shaw|Behind the Big Screen with Composer George Shaw]] — 2009-11-07 · A
+- [[works/taiwaneseamerican-org/we-b-here-with-kevjumba-he-e2-80-99s-taiwanese|We B HERE with KevJumba! He’s Taiwanese!]] — 2009-10-30 · A
+- [[works/taiwaneseamerican-org/two-taiwanese-films-at-the-chicago-international-film-festival|Two Taiwanese Films at the Chicago International Film Festival]] — 2009-10-12 · B
+- [[works/taiwaneseamerican-org/singer-songwriter-vienna-teng-fall-tour-in-midwest|Singer-songwriter Vienna Teng Fall Tour in Midwest]] — 2009-10-07 · B
+- [[works/taiwaneseamerican-org/apa-artists-on-overcoming-racism-stereotypes|APA Artists on Overcoming Racism & Stereotypes]] — 2009-10-06 · A
+- [[works/taiwaneseamerican-org/double-ten-day-festival-and-fundraiser|Double Ten Day Festival and Fundraiser]] — 2009-09-18 · B
+- [[works/taiwaneseamerican-org/cover-band-vip-hosts-a-benefit-concert-in-houston-tx|Cover Band VIP Hosts a Benefit Concert in Houston, TX]] — 2009-09-06 · B
+- [[works/taiwaneseamerican-org/nyc-cravings-taiwanese-style-food-from-the-truck-like-your-grandmother-cooked-it|NYC Cravings, Taiwanese-Style Food from the Truck: Like Your Grandmother Cooked It]] — 2009-07-27 · A
+- [[works/taiwaneseamerican-org/the-return-of-tacls-leadership-in-development-camp-a-glimpse-behind-the-scenes|The Return of TACL’s Leadership In Development Camp: A Glimpse Behind-the-Scenes]] — 2009-07-21 · A
+- [[works/taiwaneseamerican-org/a-conversation-with-singer-songwriter-dawen|A Conversation with Singer-songwriter Dawen]] — 2009-07-13 · A
+- [[works/taiwaneseamerican-org/the-cost-of-public-outings|The Cost of Public Outings]] — 2009-07-11 · A
+- [[works/taiwaneseamerican-org/taiwaneseamerican-org-in-hollywood-la-2009|TaiwaneseAmerican.org in Hollywood & LA, 2009]] — 2009-06-23 · A
+- [[works/taiwaneseamerican-org/a-fine-prologue-for-singer-songwriter-calista-wu|A Fine Prologue for Singer-songwriter Calista Wu]] — 2009-06-10 · A
+- [[works/taiwaneseamerican-org/in-tune-with-singer-songwriter-diana-li|In Tune with Singer-songwriter Diana Li]] — 2009-06-09 · A
+- [[works/taiwaneseamerican-org/chris-lins-mandy-and-pandy-say-ni-hao-ma|Chris Lin’s Mandy and Pandy Say “Ni Hao Ma?”]] — 2009-05-15 · A
+- [[works/taiwaneseamerican-org/itasa-west-coast-and-midwest-conferences-2009|ITASA West Coast and Midwest Conferences 2009]] — 2009-04-24 · A
+- [[works/taiwaneseamerican-org/shawna-yang-ryan-brings-water-ghosts-an-asian-american-novel-to-life|Shawna Yang Ryan Brings Water Ghosts, an Asian American Novel, to Life]] — 2009-04-18 · A
+- [[works/taiwaneseamerican-org/mixing-it-up-with-dj-shooey|Mixing It Up with DJ ShOOey!]] — 2009-04-01 · A
+- [[works/taiwaneseamerican-org/a-papaya-story|A Papaya Story]] — 2009-03-23 · A
+- [[works/taiwaneseamerican-org/choosing-your-own-battles|Choosing Your Own Battles]] — 2009-03-22 · A
+- [[works/taiwaneseamerican-org/ang-lee-lust-caution-a-special-screening-co-presented-by-taiwaneseamerican-org|Ang Lee & Lust, Caution — a special screening co-presented by TaiwaneseAmerican.org]] — 2009-03-21 · A
+- [[works/taiwaneseamerican-org/formosa-betrayed-giving-voice-to-history-via-the-big-screen|Formosa Betrayed – Giving Voice to History Via the Big Screen]] — 2009-02-28 · A
+- [[works/taiwaneseamerican-org/exploring-double-consciousness-with-professor-carolyn-chen|Exploring Double Consciousness with Professor Carolyn Chen]] — 2009-02-22 · A
+- [[works/taiwaneseamerican-org/an-afternoon-with-girl-geek-angie|An Afternoon with Girl Geek Angie]] — 2009-02-02 · A
+- [[works/taiwaneseamerican-org/on-the-ice-with-david-liu|On the Ice with David Liu]] — 2009-01-29 · A
+- [[works/taiwaneseamerican-org/obsession-with-taiwanese-oyster-omelettes|Obsession with Taiwanese Oyster Omelettes]] — 2009-01-18 · A
+- [[works/taiwaneseamerican-org/turtlist-media-gets-a-whole-new-shell|Turtlist Media Gets a Whole New Shell]] — 2009-01-14 · A
+- [[works/taiwaneseamerican-org/in-tune-with-serena-and-teresa-the-creators-of-mymomisafob-com|In Tune with Serena and Teresa, the Creators of mymomisafob.com]] — 2008-12-23 · A
+- [[works/taiwaneseamerican-org/behind-the-scenes-with-stephanie-chuang|Behind the Scenes with Stephanie Chuang]] — 2008-12-02 · A
+- [[works/taiwaneseamerican-org/a-chat-with-actor-kelvin-yu|A Chat with Actor Kelvin Yu]] — 2008-11-19 · A
+- [[works/taiwaneseamerican-org/from-east-to-west-with-wong-fu-productions|From East to West with Wong Fu Productions]] — 2008-11-14 · A
+- [[works/taiwaneseamerican-org/taiwanese-and-american-democratic-or-republican-during-the-2008-presidential-ele|Taiwanese and American, Democratic or Republican during the 2008 Presidential Election]] — 2008-10-28 · A
+- [[works/taiwaneseamerican-org/an-interview-with-jimmy-tsai-of-ping-pong-playa|An Interview with Jimmy Tsai of Ping Pong Playa]] — 2008-09-05 · A
+- [[works/taiwaneseamerican-org/literary-author-francie-lin-talks-about-a-different-kind-of-foreigner|Literary author Francie Lin talks about a different kind of Foreigner]] — 2008-07-11 · A
+- [[works/taiwaneseamerican-org/an-interview-with-abe-young-author-of-humanity-at-stake|An Interview with Abe Young, Author of Humanity at Stake]] — 2008-06-04 · A
+- [[works/taiwaneseamerican-org/where-jazz-taiwan-and-the-vocal-stylings-of-jen-shyu-fuse|Where Jazz, Taiwan, and the Vocal Stylings of Jen Shyu Fuse.]] — 2008-04-19 · A
+- [[works/taiwaneseamerican-org/a-conversation-with-the-taiwan-sons-in-law|A Conversation with the Taiwan Sons-in-Law]] — 2008-02-18 · A
+- [[works/taiwaneseamerican-org/the-hsu-nami-erhu-rock|The Hsu-nami: Erhu Rock]] — 2008-01-22 · A
+- [[works/taiwaneseamerican-org/e2-80-9cwhat-are-you-e2-80-9d-thoughts-on-taiwanese-american-identity|“What Are You?”: Thoughts on Taiwanese American Identity]] — 2007-12-02 · A
+- [[works/taiwaneseamerican-org/andrea-lin-aka-superdoll|Andrea Lin AKA Superdoll]] — 2007-10-14 · A
+- [[works/taiwaneseamerican-org/metalheads-politicians-and-old-taiwanese-folk-come-together|Metalheads, politicians and old Taiwanese folk come together]] — 2007-09-18 · A
+- [[works/taiwaneseamerican-org/perspectives-on-taiwan-and-the-united-nations-a-personal-journey|Perspectives on Taiwan and the United Nations: A Personal Journey]] — 2007-09-13 · A
+- [[works/taiwaneseamerican-org/qa-spotlight-on-wesley-du|Q&A Spotlight on Wesley Du]] — 2007-08-09 · A
+- [[works/taiwaneseamerican-org/tribute-to-edward-yang|Tribute to Edward Yang]] — 2007-07-06 · A
+- [[works/taiwaneseamerican-org/taiwanese-american-film|Taiwanese American Film]] — 2007-05-31 · A
+- [[works/taiwaneseamerican-org/an-op-ed-letter-from-taiwans-president-chen-shui-bian|An Op-Ed Letter from Taiwan’s President Chen Shui-bian]] — 2007-05-14 · A
+- [[works/taiwaneseamerican-org/a-generation-of-new-taiwanese-american-writers-emerge|A Generation of New Taiwanese American Writers Emerge]] — 2007-03-25 · A
+- [[works/taiwaneseamerican-org/a-conversation-with-tyson-mao-rubiks-cube-master|A Conversation with Tyson Mao, Rubik’s Cube Master]] — 2007-01-21 · A
+- [[works/taiwaneseamerican-org/exit-clov-music-video-release|Exit Clov Music Video Release!]] — 2006-12-08 · A
+- [[works/taiwaneseamerican-org/an-interview-with-twins-emily-and-susan-hsu-of-exit-clov|An Interview with twins Emily and Susan Hsu of Exit Clov]] — 2006-10-07 · A
+- [[works/taiwaneseamerican-org/the-taiwanese-american-foundation-summer-conference|The Taiwanese American Foundation Summer Conference]] — 2006-09-16 · A
+- [[works/taiwaneseamerican-org/vienna-tengs-newest-release|Vienna Teng’s Newest Release]] — 2006-07-21 · A
+- [[works/taiwaneseamerican-org/introducing-will-tiao|Introducing Will Tiao]] — 2006-06-26 · A
+- [[works/taiwaneseamerican-org/taiwanese-american-heritage-week|Taiwanese American Heritage Week]] — 2006-05-13 · A
+- [[works/taiwaneseamerican-org/meeting-michelle-krusiec|Meeting Michelle Krusiec]] — 2006-04-13 · A
 <!-- works-index-end -->
 
 ## Related Pages

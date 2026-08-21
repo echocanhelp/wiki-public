@@ -33,17 +33,20 @@ Keep the site **usable on phone + desktop**, **structurally correct after every 
 
 ```
 03:05–05:30  sense / scout / extract-eval-gen / deepen   (no_agent)
-08:00        ci-heal                    (act + SINGLE push gate)
+01:10–03:45  01:10 content-analysis · 01:15 nightly-audit · 01:30 janitor · 01:40 scout · 01:50 backlink · 02:00 extract · 02:10 evaluate · 02:20 generate-cards · 02:30 person-link · 02:40 quote · 03:00 timeline · 03:15 rotate · 03:30 ci-heal · 03:45 site-design
+03:30        ci-heal                    (act + SINGLE push gate)
                ├─ ops / drain
                ├─ drift → publish
                ├─ site-design L1 heal   ← featured/parity BEFORE push
                ├─ smoke
                └─ L3 push when green    ← only nightly pusher
-08:15        echopedia-site-design      (audit-only AFTER push — no second push)
-07:20        digest                     (tagged dashboard)
-07:55        vault-morning-brief        (🔴 NEED YOU first)
-08:30        cron-self-audit
-Sun 07:05    echopedia-weekly-improvement  (pack + review gate — not a redesign cron)
+03:45        echopedia-site-design      (audit-only AFTER push — no second push)
+06:20        digest                     (tagged dashboard)
+08:15        vault-morning-brief        (🔴 NEED YOU first)
+06:40        cron-self-audit
+Sun 07:15    echopedia-weekly-improvement  (pack + review gate — not a redesign cron)
+Sun 05:30    vault-search-index-rebuild   (Sun only)
+Sun 07:00    echopedia-source-continuity  (Sun only)
 ```
 
 **Push policy:** Yes, push after heals — but **once**, from **ci-heal** only.  
@@ -68,6 +71,8 @@ Times are **local wall clock** on pinto; SSOT: `jobs.json` / SYSTEM_STATUS inven
 | A6 | Index trees exist: `people/`, `organizations/`, `sources/`, `works/` (HTML counts >0 if MD >0) | Yes → publish |
 | A7 | CSS/JS linked from homepage resolve under `public/` (relative) | Flag only |
 | A8 | Quartz Explorer `useSavedState: false` (localStorage `fileTree` otherwise hides new `works/`) | Fix `quartz.layout.ts` — **no extra cron** |
+| A9 | Repo-root `static/contentIndex.json` key count ≥ 50% of Tier1 md (Explorer/search/graph). Homepage fetches `./static/…` **not** `public/static/` | Copy from quartz `public/static/` in publish + L1 heal `contentindex` — **no explorer cron** |
+| A10 | `content/works/index.md` lists **every** A/B/C work (no `more A-band` teaser) | `echopedia-regen-works-index.py` then publish |
 
 ### B. Prominence / freshness (HIGH)
 
@@ -119,9 +124,11 @@ Times are **local wall clock** on pinto; SSOT: `jobs.json` / SYSTEM_STATUS inven
 
 1. `python3 $REPO/scripts/featured-regen.py --root $REPO --inject …` **and** ensure inject targets include **`public/index.html`** and root `index.html` when present  
 2. `python3 $REPO/scripts/echopedia-regen-directory-index.py` then `bash ~/.hermes/scripts/echopedia-publish.sh` when `/people/` or `/organizations/` show literal `[[…]]` or `%e5` labels  
-3. `bash ~/.hermes/scripts/echopedia-publish.sh` when parity/drift requires rebuild  
-4. Re-run audit after heal; write brief  
-5. **Never:** rewrite prose bios, change Quartz theme tokens freely, delete pages, force-push  
+3. Copy `$REPO/public/static/contentIndex.json` → `$REPO/static/contentIndex.json` when A9 (Explorer/search frozen)  
+4. `python3 $REPO/scripts/echopedia-regen-works-index.py` when A10 (catalog truncated)  
+5. `bash ~/.hermes/scripts/echopedia-publish.sh` when parity/drift requires rebuild  
+6. Re-run audit after heal; write brief  
+7. **Never:** rewrite prose bios, change Quartz theme tokens freely, delete pages, force-push, add an Explorer cron  
 
 ---
 

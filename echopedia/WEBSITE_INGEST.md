@@ -106,7 +106,7 @@ A magazine of Taiwanese American interviews, essays, and stories **is the histor
 - [ ] Primary org **dossier**: About / History **prose** (Gate C) + editorial identity  
 - [ ] `content/sources/<id>.md` hub **catalog** wikilinking every A/B/C work  
 - [ ] `content/works/<id>/*.md` for **every A/B/C unit** (`echopedia-work-stub.py`)  
-- [ ] **`content/works/index.md` is a reader catalog** — titled **A-band** links (via `echopedia-regen-works-index.py`), not an operator band table  
+- [ ] **`content/works/index.md` is a reader catalog** — **every** A/B/C work titled (via `echopedia-regen-works-index.py`). Featured-12 is a highlight only. Truncated “N more” = **PARTIAL** / bug. Not an operator band table.  
 - [ ] **Homepage** has a **Stories** hero button `href="./works/"` plus ≥1 featured story card to a real work slug  
 - [ ] Named subjects with solid identity → **people dossiers** (not byline-only stubs)  
 - [ ] Existing people/orgs get first-mention cites from A-band  

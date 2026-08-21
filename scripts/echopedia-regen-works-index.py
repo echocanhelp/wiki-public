@@ -18,7 +18,6 @@ REPO = Path("/home/leedt/echo-system")
 WORKS = REPO / "content" / "works"
 OUT = WORKS / "index.md"
 FEATURED_N = 12
-PER_SOURCE_A = 40
 
 FM_RE = re.compile(r"^---\n(.*?)\n---\n", re.S)
 DATE_RE = re.compile(r"\*\*Date:\*\*\s*([0-9]{4}-[0-9]{2}-[0-9]{2}|undated)")
@@ -69,8 +68,9 @@ def load_works() -> list[dict]:
 
 def md_link(r: dict) -> str:
     t = r["title"].replace("|", "\\|").replace("]", "")
+    band = r["band"] or "?"
     # Full works/ wikilink — relative ./src/slug becomes ../src (404 at site root)
-    return f"- [[{r['href']}|{t}]] — {r['date'] or 'undated'}"
+    return f"- [[{r['href']}|{t}]] — {r['date'] or 'undated'} · {band}"
 
 
 def main() -> int:
@@ -90,17 +90,21 @@ def main() -> int:
     )
 
     src_blocks = []
+    listed_n = 0
     for src, items in sorted(by_src.items()):
-        aa = [r for r in items if r["band"] == "A"]
         c = counts[src]
-        listed = aa[:PER_SOURCE_A]
-        more = max(0, len(aa) - len(listed))
-        lines = "\n".join(md_link(r) for r in listed) or "_No A-band stories yet._"
-        extra = f"\n\n_{more} more A-band in this source — use header search._" if more else ""
+        listed = sorted(
+            items,
+            key=lambda r: (r["date"] or "", r["title"]),
+            reverse=True,
+        )
+        listed_n += len(listed)
+        lines = "\n".join(md_link(r) for r in listed) or "_No work pages yet._"
         src_blocks.append(
             f"### {src}\n\n"
-            f"A {c.get('A', 0)} · B {c.get('B', 0)} · C {c.get('C', 0)} · total {c.get('all', 0)}\n\n"
-            f"{lines}{extra}"
+            f"A {c.get('A', 0)} · B {c.get('B', 0)} · C {c.get('C', 0)} · total {c.get('all', 0)} "
+            f"— full list, never truncated.\n\n"
+            f"{lines}"
         )
 
     body = f"""---
@@ -115,7 +119,7 @@ last_reviewed: 2026-08-20
 ---
 # Stories & historical works
 
-Interviews, oral history, and named-subject features absorbed as Echopedia **work** pages. These are the stories — not a URL dump. Use header **search** for a title or 漢名.
+Interviews, oral history, and named-subject features absorbed as Echopedia **work** pages. **Every** A/B/C work we have is listed below (not a teaser). Use header **search** to jump to a title or 漢名.
 
 <!-- works-index-start -->
 ## Featured stories
@@ -136,7 +140,9 @@ Interviews, oral history, and named-subject features absorbed as Echopedia **wor
 """
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(body, encoding="utf-8")
-    print(f"REGEN_WORKS: n={len(rows)} A={len(a)} featured={len(featured)} -> {OUT}")
+    print(
+        f"REGEN_WORKS: n={len(rows)} A={len(a)} listed={listed_n} featured={len(featured)} -> {OUT}"
+    )
     return 0
 
 
