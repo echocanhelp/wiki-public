@@ -35,7 +35,7 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Wife:** 林淑卿
+- **Wife:** [[people/april-lin|林淑卿]]
 - **Daughter:** 琇美
 - **Son:** 英祺
 

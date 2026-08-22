@@ -36,7 +36,7 @@ last_reviewed: 2026-08-17
 
 ## Link we actually have
 
-**Strong:** people and books — 黃德利 at 台灣神學院; seven Presbyterian Church in Taiwan pastors at the Good Shepherd plant; 劉炳熹 / East Gate Barclay; 潘恩盛 (Presbyterian Church in Taiwan moderator) on the Lai reprint; STM Taiwan (short-term mission); sister tie with 台北重新教會.
+**Strong:** people and books — [[people/david-huang|黃德利]] at 台灣神學院; seven Presbyterian Church in Taiwan pastors at the Good Shepherd plant; [[people/pinghsi-liu|劉炳熹]] / East Gate Barclay; [[people/en-sheng-pan|潘恩盛]] (Presbyterian Church in Taiwan moderator) on the Lai reprint; STM Taiwan (short-term mission); sister tie with 台北重新教會.
 
 **Weak:** **no shared polity.** U.S. churches are Presbyterian Church (U.S.A.). Do not write “Good Shepherd is a Presbyterian Church in Taiwan congregation.”
 
