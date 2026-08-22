@@ -228,6 +228,7 @@ Do **not** say “archive” when you want it on Echopedia. Legacy phrase `Echop
 **“Website” completeness (not optional):** follow **class** in WEBSITE_INGEST §0.  
 `live-small`: Tier2 MANIFEST for whole domain → fact sheet → hub → About prose → dossiers → publish.  
 `story-corpus`: **vault A/B/C full text** (gitignored) + works A/B/C + **A-band full article** (`thicken-work-a`) + Stories + **P2**. A-band-only vault = PARTIAL. Truncated teaser or unpublished = PARTIAL. C fiction wiki stays bib.  
+`directory-corpus` (TAH.org): CPT wiki + **mandatory post/page/video vault** (REST, else HTML). No 9k work stubs. Index-only or REST-empty without HTML = PARTIAL.  
 Stopping after archives, a thin hub, or a **truncated teaser** = **PARTIAL**. Do not publish D-band chrome. C-band fiction **bodies** stay vault-only.
 
 **Override only if you explicitly say otherwise:**

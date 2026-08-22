@@ -52,7 +52,56 @@ def history_blob(primary: Path) -> str:
     return "\n".join(parts)
 
 
-WATCHABLE_CLASSES = {"live-small", "story-corpus"}
+WATCHABLE_CLASSES = {"live-small", "story-corpus", "directory-corpus"}
+VAULT_CLASSES = {"story-corpus", "directory-corpus"}
+MIN_VAULT_BYTES = 400
+
+
+def unit_slug(unit: dict) -> str:
+    url = str(unit.get("url") or "")
+    return url.rstrip("/").split("/")[-1] or str(unit.get("unit_id") or "unit")
+
+
+def vault_gaps(repo: Path, sid: str) -> list[str]:
+    """High-value units without a vault body → PARTIAL.
+
+    D chrome and explicit rest_empty_after_html may stay index-only.
+    """
+    units = repo / "knowledge" / "research" / sid / "units.jsonl"
+    if not units.is_file():
+        return [f"{sid}: story/directory corpus missing {units.relative_to(repo)}"]
+    vault_root = repo / "knowledge" / "web-archives" / sid
+    stems: set[str] = set()
+    if vault_root.is_dir():
+        for p in vault_root.rglob("*.md"):
+            if p.stat().st_size >= MIN_VAULT_BYTES:
+                stems.add(p.stem)
+    missing = 0
+    n = 0
+    for line in units.read_text(encoding="utf-8").splitlines():
+        if not line.strip():
+            continue
+        try:
+            u = json.loads(line)
+        except json.JSONDecodeError:
+            continue
+        n += 1
+        band = str(u.get("value_band") or "B")
+        if band == "D":
+            continue
+        if u.get("capture") in ("rest_empty_after_html", "chrome"):
+            continue
+        slug = unit_slug(u)
+        if slug not in stems:
+            missing += 1
+    if n == 0:
+        return [f"{sid}: units.jsonl empty"]
+    if missing:
+        return [
+            f"{sid}: vault missing {missing}/{n} A/B/C units "
+            f"(REST-empty needs HTML pass; index-only = PARTIAL)"
+        ]
+    return []
 
 
 def check_site(site: dict) -> list[str]:
@@ -68,23 +117,23 @@ def check_site(site: dict) -> list[str]:
     if not live_primary:
         issues.append(f"{sid}: no primary page on disk")
         return issues
-    if cls == "story-corpus":
-        units = REPO / "knowledge/research" / sid / "units.jsonl"
-        if not units.is_file():
-            issues.append(f"{sid}: story-corpus missing {units.relative_to(REPO)}")
+    if cls in VAULT_CLASSES:
+        issues.extend(vault_gaps(REPO, sid))
         hub = site.get("source_hub")
         if hub and not (REPO / hub).is_file():
             issues.append(f"{sid}: missing source hub {hub}")
         auto = site.get("auto_apply") or []
         if "event_stub" in auto:
-            issues.append(f"{sid}: story-corpus must not auto_apply event_stub")
-        works_dir = REPO / "content" / "works" / sid
-        n_works = len(list(works_dir.glob("*.md"))) if works_dir.is_dir() else 0
-        if units.is_file() and n_works == 0:
-            issues.append(f"{sid}: units indexed but no content/works/{sid} pages")
+            issues.append(f"{sid}: {cls} must not auto_apply event_stub")
+        if cls == "story-corpus":
+            works_dir = REPO / "content" / "works" / sid
+            n_works = len(list(works_dir.glob("*.md"))) if works_dir.is_dir() else 0
+            units = REPO / "knowledge/research" / sid / "units.jsonl"
+            if units.is_file() and n_works == 0:
+                issues.append(f"{sid}: units indexed but no content/works/{sid} pages")
     intros = intro_archives(glob_pat) if glob_pat else []
     if not intros:
-        return issues  # no intro corpus → skip narrative gate
+        return issues
     blob = "\n".join(history_blob(p) for p in live_primary)
     if len(blob) < MIN_HISTORY_CHARS:
         issues.append(

@@ -254,7 +254,7 @@
     {
       "id": "taiwaneseamericanhistory-org",
       "enabled": true,
-      "class": "story-corpus",
+      "class": "directory-corpus",
       "display_name": "TAH Foundation (taiwaneseamericanhistory.org)",
       "home_url": "https://taiwaneseamericanhistory.org/",
       "sitemap_urls": [],
@@ -278,7 +278,7 @@
         "last_reviewed",
         "work_stub"
       ],
-      "notes": "story-corpus: REST recent posts + work_stub; never event_stub/people",
+      "notes": "directory-corpus: CPT wiki + post vault; REST else HTML; never skip high-value; never people AUTO",
       "added": "2026-08-21",
       "removed": null
     }

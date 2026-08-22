@@ -17,12 +17,13 @@ Human still says `Echopedia website <domain>`. Detector / planner sets **class**
 | **`live-small`** | GSTPC, ITPC, TC, NTPC, PCT v1 | On-domain HTML + MANIFEST | Hub + **About/History prose** + officer dossiers (§2) |
 | **`static-v1`** | laijohn | Official Who + TOC only | Hub + primary; no 史話 / pc-contents bodies |
 | **`story-corpus`** | taiwaneseamerican.org, taiwanjustice | **Full post corpus** gitignored + units.jsonl | Org **dossier** + hub catalog + **`content/works/<id>/` page per A/B/C unit** + people dossiers when identity solid (§2S) |
+| **`directory-corpus`** | taiwaneseamericanhistory.org (TAH) | CPT JSON + **post/page/video vault** (REST, else HTML) | Hub + About prose + Who’s Who graph. **Vault required.** Not 9k work stubs |
 | **`publication`** | TAHS yearbook, memoir PDF | Chunks + facts-clean | [PUBLICATION_INGEST.md](PUBLICATION_INGEST.md) |
 | **`social-short`** | one IG/X/FB post | Optional gitignored snippet | Historical value → **work page** (or cite on existing dossier). Never domain crawl. No person from handle alone |
 
-**TAHS default (owner 2026-08-20):** a historical society **saves valuable text**. Pages 1GB / “too many posts” is **never** a reason to skip the vault copy. **Vault A/B/C full bodies** (gitignored). Wiki: A = full article, B = work page, C = bib (fiction body vault-only), D = chrome only. Index-only / hub-only / **truncated teaser** = **PARTIAL**.
+**TAHS default (owner 2026-08-20 / mission lock 2026-08-21):** a historical society **never passes over high-value text**. Pages 1GB / “too many posts” is **never** a reason to skip the vault copy. **Vault A/B/C full bodies** (gitignored). Wiki: A = full article, B = work page, C = bib (fiction body vault-only), D = chrome only. Index-only / hub-only / **truncated teaser** / REST-empty with no HTML pass = **PARTIAL**.
 
-`taiwaneseamerican.org` ≠ `taiwaneseamericanhistory.org`. TAH **CPT graph** recrawl skip (person/org JSON already harvested). TAH **posts/pages/videos** must still be **vaulted** (TAHS valuable-text bar). Index-only `posts/index.jsonl` = PARTIAL.
+`taiwaneseamerican.org` ≠ `taiwaneseamericanhistory.org`. TAH is **`directory-corpus`**: wiki = CPT Who’s Who (no 9k work stubs); **vault = every post/page/video with recoverable text** (REST body, else live HTML). CPT recrawl skip does **not** skip the post vault. Index-only `posts/index.jsonl` = PARTIAL.
 
 ---
 

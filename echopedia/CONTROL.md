@@ -117,6 +117,7 @@ Use the **highest** surface that can do the job. Never jump to freestyle edits w
 | Autonomy daily track | `knowledge/operational/intelligence/autonomy-ledger.json` | morning brief AUTO strip, SYSTEM_STATUS |
 | Wiki content | `content/people|organizations|sources|works` | Live site via publish/ci-heal |
 | Live health | scripts → `SYSTEM_STATUS.md`, `cdn-verify-status.json`, `*-brief.md` | Morning digest |
+| Website ingest class | `echopedia/WEBSITE_INGEST.md` + `scripts/echopedia-source-class.py` | ingest-complete, go-router |
 | How to assign work | `USER_MANUAL.md` (thin) | — |
 | Exact worker steps | `WORKER.md` | — |
 | Mission / remains | `WHERE_WE_ARE.md` | — |

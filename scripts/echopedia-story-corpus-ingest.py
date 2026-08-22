@@ -44,6 +44,19 @@ def fetch_json(url: str):
         return body, hdr
 
 
+def fetch_html(url: str) -> str:
+    """Live HTML when REST content.rendered is empty. Never skip high-value text."""
+    if not url:
+        return ""
+    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "text/html"})
+    try:
+        with urllib.request.urlopen(req, timeout=40) as r:
+            return r.read().decode("utf-8", "replace")
+    except Exception as e:
+        print(f"HTML_FETCH_FAIL {url} {e}", file=sys.stderr)
+        return ""
+
+
 def cat_slugs(row: dict) -> list[str]:
     slugs = []
     for group in (row.get("_embedded") or {}).get("wp:term") or []:
@@ -153,6 +166,11 @@ def fill_vault(
                     skipped += 1
                     continue
                 body = html_to_md((row.get("content") or {}).get("rendered") or "")
+                if len(body) < 80 and link:
+                    body = html_to_md(fetch_html(link)) or body
+                    time.sleep(sleep)
+                if len(body) < 40:
+                    continue
                 p = write_vault(
                     source_id,
                     link,

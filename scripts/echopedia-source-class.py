@@ -40,6 +40,8 @@ def classify(signals: dict) -> str:
     host = (signals.get("host") or "").lower()
     if any(h in host for h in SOCIAL_HOSTS):
         return "social-short"
+    if "taiwaneseamericanhistory.org" in host:
+        return "directory-corpus"
     if kind in ("static-v1", "laijohn", "史料庫"):
         return "static-v1"
     posts = int(signals.get("posts_total") or 0)
@@ -67,6 +69,10 @@ def self_test() -> int:
         ({"kind": "pdf"}, "publication"),
         ({"host": "instagram.com"}, "social-short"),
         ({"kind": "static-v1"}, "static-v1"),
+        (
+            {"posts_total": 9739, "pages_total": 128, "cms": "wordpress", "host": "taiwaneseamericanhistory.org"},
+            "directory-corpus",
+        ),
         ({}, "live-small"),
     ]
     fail = 0
