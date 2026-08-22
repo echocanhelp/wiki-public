@@ -57,6 +57,7 @@ Official About **does not name** the six 2013 founders or a current board. Do no
 - [x] Source hub + primary exist and live 200
 - [x] About / History / Mission **prose on primary** (2026-08-21)
 - [x] Graph on wiki (hub index + people/org pages)
+- [x] P2 publish — pushed f142c28b90, live 200 (2026-08-21)
 - [ ] Watch add — **human after COMPLETE** (same Sunday job)
 - [ ] Residual table backfill on ~61 pages without `tah-tables` — HOLD if page is a thickened TAHS dossier (e.g. 黃德利, 許瀞心, 許錦銘)
 
