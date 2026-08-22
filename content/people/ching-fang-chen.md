@@ -63,7 +63,7 @@ Pages that link to **ching-fang-chen** (ching-fang-chen):
 2. [[people/albert-s-lai|albert-s-lai]]
 3. [[people/en-sheng-pan|en-sheng-pan]]
 4. [[people/index|index]]
-5. [[people/ntpc|ntpc]]
+5. [[organizations/national-taiwanese-presbyterian-council|NTPC]]
 6. [[people/pinghsi-liu|pinghsi-liu]]
 7. [[people/yunching-yeh-davis|yunching-yeh-davis]]
 

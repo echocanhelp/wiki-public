@@ -79,6 +79,6 @@ Use the shared intake process at Echopedia Community Contributions Hub and inclu
 
 ## Related Pages
 - toward-a-community-of-hope
-- [[people/ntpc|National Taiwanese Presbyterian Council (NTPC)]]
+- [[organizations/national-taiwanese-presbyterian-council|NTPC]]
 - [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan (台灣基督長老教會)]]
 - Echopedia Person Recordation Framework

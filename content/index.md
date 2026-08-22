@@ -108,23 +108,38 @@ Interviews and oral history. Full catalog: [Stories & historical works](./works/
 <div class="echo-card-grid">
 
 <div class="echo-card">
-  <h3><a href="./works/taiwaneseamerican-org/stefany-valentine-interview">Crying in the Taipei 101 Food Court</a></h3>
-  <p>Two transpacific adoptees on (re-)learning Mandarin in Taiwan — TaiwaneseAmerican.org, 2026.</p>
+  <h3><a href="./works/taiwaneseamerican-org/cindy-chang-how-to-draw-a-secret">Transforming Memory Into Storytelling: Cindy Chang</a></h3>
+  <p>Cindy Chang on turning memory into art, in conversation with Jocelyn Chung.</p>
 </div>
 
 <div class="echo-card">
-  <h3><a href="./works/taiwaneseamerican-org/228-reflection-2026">A Reflection on 228, from Taiwanese America in 2026</a></h3>
-  <p>228 remembrance from the diaspora magazine record.</p>
+  <h3><a href="./works/taiwaneseamerican-org/interview-michellekuo">A Canon of Our Own: Michelle Kuo</a></h3>
+  <p>Q&A with Michelle Kuo, author of Reading with Patrick, on building a literary canon.</p>
 </div>
 
 <div class="echo-card">
-  <h3><a href="./works/taiwaneseamerican-org/elaine-hsieh-chou-interview">A Conversation with Elaine Hsieh Chou</a></h3>
-  <p>Named-subject interview — TaiwaneseAmerican.org, 2025.</p>
+  <h3><a href="./works/taiwaneseamerican-org/this-is-why-you-must-read-this-is-not-my-home">This Is Not My Home</a></h3>
+  <p>A must-read personal essay on identity, belonging, and home from the diaspora.</p>
 </div>
 
 <div class="echo-card">
-  <h3><a href="./works/taiwaneseamerican-org/leaving-the-united-states-made-me-feel-more-taiwanese-american">Leaving the United States Made Me Feel More Taiwanese American</a></h3>
-  <p>Personal essay in the 2026 magazine corpus.</p>
+  <h3><a href="./works/taiwaneseamerican-org/understanding-the-jewish-struggle-for-palestine-taiwanese-american-perspective">Not in Our Name</a></h3>
+  <p>Understanding the Jewish struggle for Palestine from a Taiwanese American perspective.</p>
+</div>
+
+<div class="echo-card">
+  <h3><a href="./works/taiwaneseamerican-org/taigi-activism-keng-lam-su-in">Keng-lâm Su-iⁿ: A New Chapter for Tâi-gí</a></h3>
+  <p>Writing a new chapter for the mother tongue — Tâi-gí, activism, and voice.</p>
+</div>
+
+<div class="echo-card">
+  <h3><a href="./works/taiwaneseamerican-org/cynthia-lin-tw-diaspora-shin-yu-pai">Podcasts &amp; Poetry: Cynthia Lin on Shin Yu Pai</a></h3>
+  <p>TW Diaspora's Cynthia Lin on Shin Yu Pai — language, exile, and verse.</p>
+</div>
+
+<div class="echo-card">
+  <h3><a href="./works/taiwaneseamerican-org/roots-and-leaves">Roots and Leaves</a></h3>
+  <p>A personal essay on heritage, growth, and the roots that carry us forward.</p>
 </div>
 
 </div>
