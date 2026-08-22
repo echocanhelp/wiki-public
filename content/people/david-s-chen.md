@@ -49,3 +49,5 @@ last_reviewed: 2026-08-17
 
 ## Network
 - [[organizations/presbyterian-church-in-taiwan|PCT]] — TAH Who’s Who
+
+- Dr. Lin: soft-info test note
