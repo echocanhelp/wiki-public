@@ -59,3 +59,7 @@ So: **same people, new layer.** PCT is origin (training, 漢名, liturgy). TPC i
 ## Sister Churches
 
 - [台北新教](content/people/willy-pan.md)
+
+## Review Partners
+
+- extra note
