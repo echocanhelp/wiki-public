@@ -281,6 +281,42 @@
       "notes": "directory-corpus: CPT wiki + post vault; REST else HTML; never skip high-value; never people AUTO",
       "added": "2026-08-21",
       "removed": null
+    },
+    {
+      "id": "eastgatebarclay-org",
+      "enabled": true,
+      "class": "live-small",
+      "display_name": "東門巴克禮紀念教會 (Tainan East Gate Barclay Memorial Church)",
+      "home_url": "https://eastgatebarclay.org/",
+      "sitemap_urls": [
+        "https://eastgatebarclay.org/sitemap.xml"
+      ],
+      "seed_urls": [
+        "https://eastgatebarclay.org/",
+        "https://eastgatebarclay.org/aboutme/%e6%95%99%e6%9c%83%e6%ad%b7%e5%8f%b2/",
+        "https://eastgatebarclay.org/aboutme/%e9%83%a8%e6%9c%83%e4%ba%8b%e5%b7%a5/",
+        "https://eastgatebarclay.org/aboutme/simple-history/"
+      ],
+      "url_include_regex": null,
+      "url_exclude_regex": "wp-admin|cart|login",
+      "event_path_regex": "/event/",
+      "max_urls_per_poll": 100,
+      "cadence_days": 7,
+      "tier2_glob": "knowledge/web-archives/eastgatebarclay-org-*.md",
+      "manifest": "knowledge/web-archives/eastgatebarclay-org/MANIFEST.json",
+      "source_hub": "content/sources/eastgatebarclay-org.md",
+      "primary_pages": [
+        "content/organizations/tainan-east-gate-barclay-memorial-church.md"
+      ],
+      "entities_sheet": "knowledge/research/eastgatebarclay-org-entities.md",
+      "auto_apply": [
+        "tier2_append",
+        "last_reviewed",
+        "event_stub"
+      ],
+      "notes": "PCT Tainan church (C08007), not a U.S. TPC. 739 sermon posts; live-small bar = static pages + About/History. Sermon corpus deferred as separate story-corpus candidate.",
+      "added": "2026-08-22",
+      "removed": null
     }
   ],
   "archived_sources": []
