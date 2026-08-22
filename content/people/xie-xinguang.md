@@ -34,7 +34,7 @@ He is the receiving point for church reports submitted to the Annual Meeting. Th
 
 - Chinese: 謝信光
 - Romanized: Xie Xinguang / Frank Hsieh
-- **Never** merge to `people/frank-hsieh` (謝長康) — different person. Site email frankhsieh7 confirms identity.
+- **Never** merge to `people/frank-hsieh` (謝長廷) — different person. Site email frankhsieh7 confirms identity.
 
 ## Related Pages
 
