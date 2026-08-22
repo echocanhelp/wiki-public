@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-20",
+  "updated": "2026-08-21",
   "global_auto_allowlist": [
     "tier2_append",
     "last_reviewed",
@@ -216,6 +216,39 @@
       ],
       "notes": "story-corpus: REST recent posts + work_stub; never event_stub/people",
       "added": "2026-08-20",
+      "removed": null
+    },
+    {
+      "id": "ntpc-usa-org",
+      "enabled": true,
+      "class": "live-small",
+      "display_name": "NTPC USA (ntpc-usa.org)",
+      "home_url": "https://www.ntpc-usa.org/",
+      "sitemap_urls": [
+        "https://www.ntpc-usa.org/sitemap.xml"
+      ],
+      "seed_urls": [
+        "https://www.ntpc-usa.org/"
+      ],
+      "url_include_regex": null,
+      "url_exclude_regex": "wp-admin|cart|login",
+      "event_path_regex": "/event/",
+      "max_urls_per_poll": 40,
+      "cadence_days": 7,
+      "tier2_glob": "knowledge/web-archives/ntpc-usa-org-*.md",
+      "manifest": "knowledge/web-archives/ntpc-usa-org-MANIFEST.json",
+      "source_hub": "content/sources/ntpc-usa-org.md",
+      "primary_pages": [
+        "content/organizations/national-taiwanese-presbyterian-council.md"
+      ],
+      "entities_sheet": "knowledge/research/ntpc-usa-org-entities.md",
+      "auto_apply": [
+        "tier2_append",
+        "last_reviewed",
+        "event_stub"
+      ],
+      "notes": "added via CLI",
+      "added": "2026-08-21",
       "removed": null
     }
   ],

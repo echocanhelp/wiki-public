@@ -23,7 +23,7 @@
 | **L2/L3 autonomy** | `ci-heal` heals drift, smoke, green → auto-push |
 | **Human map** | **Morning brief** (NEED YOU + AUTO ledger ≤8) + digest + SYSTEM_STATUS + this file |
 | **Telegram labels** | ✅ AUTO · 🟡 QUEUE · 🔴 NEED YOU · ℹ️ INFO — [cron-notify-labels.md](../knowledge/operational/cron-notify-labels.md) |
-| **Live-site continuity** | Sunday **source-continuity** (TC · GSTPC · ITPC · PCT · laijohn · TA.org story-corpus) — [source-continuity.md](../knowledge/operational/source-continuity.md) |
+| **Live-site continuity** | Sunday **source-continuity** (TC · GSTPC · ITPC · PCT · laijohn · TA.org story-corpus · **NTPC**) — [source-continuity.md](../knowledge/operational/source-continuity.md) |
 | **Story / book / social receive** | **Ingest** = wiki + **P2**. Magazines: vault + work pages A/B/C + **Stories**. `archive only` = vault. Hub-only = PARTIAL — [WEBSITE_INGEST.md](WEBSITE_INGEST.md) |
 | **First-answer card / next-ingest** | EVO-5: card UX + metrics; Sunday recommend ≤2 — [echopedia-first-path.md](../knowledge/operational/echopedia-first-path.md) |
 | **Identity close-loop** | EVO-3: soft pending → QUEUE; CLI `identity-decide.py` — [identity-close-loop.md](../knowledge/operational/identity-close-loop.md) |
