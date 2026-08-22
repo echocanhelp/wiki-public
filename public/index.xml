@@ -6,6 +6,24 @@
       <description>Last 10 notes on Echopedia</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>People</title>
+    <link>https://echocanhelp.github.io/wiki-public/people/</link>
+    <guid>https://echocanhelp.github.io/wiki-public/people/</guid>
+    <description><![CDATA[ People Person records in Echopedia. ]]></description>
+    <pubDate>Sat, 22 Aug 2026 10:32:43 GMT</pubDate>
+  </item><item>
+    <title>Stories &amp; historical works</title>
+    <link>https://echocanhelp.github.io/wiki-public/works/</link>
+    <guid>https://echocanhelp.github.io/wiki-public/works/</guid>
+    <description><![CDATA[ Stories &amp; historical works Interviews, oral history, and named-subject features absorbed as Echopedia work pages. ]]></description>
+    <pubDate>Sat, 22 Aug 2026 10:32:43 GMT</pubDate>
+  </item><item>
+    <title>Organizations</title>
+    <link>https://echocanhelp.github.io/wiki-public/organizations/</link>
+    <guid>https://echocanhelp.github.io/wiki-public/organizations/</guid>
+    <description><![CDATA[ Organizations Organization records in Echopedia — churches, cultural centers, historical societies, and related institutions. ]]></description>
+    <pubDate>Sat, 22 Aug 2026 10:32:43 GMT</pubDate>
+  </item><item>
     <title>Cheng Wen-lung / 鄭文龍</title>
     <link>https://echocanhelp.github.io/wiki-public/people/zheng-wenlong</link>
     <guid>https://echocanhelp.github.io/wiki-public/people/zheng-wenlong</guid>
@@ -36,12 +54,6 @@
     <description><![CDATA[ 2023 TAHS Publication 2023 TAHS Publication (台美人菁英錄 第二輯) — The second TAHS commemorative yearbook, published in May 2023. ]]></description>
     <pubDate>Sat, 22 Aug 2026 10:31:06 GMT</pubDate>
   </item><item>
-    <title>Stories &amp; historical works</title>
-    <link>https://echocanhelp.github.io/wiki-public/works/</link>
-    <guid>https://echocanhelp.github.io/wiki-public/works/</guid>
-    <description><![CDATA[ Stories &amp; historical works Interviews, oral history, and named-subject features absorbed as Echopedia work pages. ]]></description>
-    <pubDate>Sat, 22 Aug 2026 10:31:06 GMT</pubDate>
-  </item><item>
     <title>Chang Hsin-hui / 張信惠</title>
     <link>https://echocanhelp.github.io/wiki-public/people/zhang-xinhui</link>
     <guid>https://echocanhelp.github.io/wiki-public/people/zhang-xinhui</guid>
@@ -52,18 +64,6 @@
     <link>https://echocanhelp.github.io/wiki-public/people/zhang-xuanxin</link>
     <guid>https://echocanhelp.github.io/wiki-public/people/zhang-xuanxin</guid>
     <description><![CDATA[ Zhang Xuanxin (張宣信) Zhang Xuanxin (張宣信) is a member of the Taiwanese American Historical Society community. ]]></description>
-    <pubDate>Sat, 22 Aug 2026 10:31:06 GMT</pubDate>
-  </item><item>
-    <title>Zheng Bingquan (鄭炳全)</title>
-    <link>https://echocanhelp.github.io/wiki-public/people/zheng-bing-quan</link>
-    <guid>https://echocanhelp.github.io/wiki-public/people/zheng-bing-quan</guid>
-    <description><![CDATA[ Zheng Bingquan (鄑炳全) Zheng Bingquan (鄭炳全) is a Taiwanese American community leader and founding member of the Taiwanese American Historical Society (TAHS). ]]></description>
-    <pubDate>Sat, 22 Aug 2026 10:31:06 GMT</pubDate>
-  </item><item>
-    <title>Zheng Bing-quan / 鄭炳全</title>
-    <link>https://echocanhelp.github.io/wiki-public/people/zheng-bingquan</link>
-    <guid>https://echocanhelp.github.io/wiki-public/people/zheng-bingquan</guid>
-    <description><![CDATA[ Zheng Bing-quan / 鄭炳全 Mentioned as a contributor or subject in 2017/2023 taiwanjustice.net publications. ]]></description>
     <pubDate>Sat, 22 Aug 2026 10:31:06 GMT</pubDate>
   </item>
     </channel>
