@@ -26,13 +26,13 @@ The second TAHS commemorative publication, following the 2017 edition. This publ
 
 ### 典範‧傷逝 (Role Models / Deceased)
 1. [[people/peng-ming-min|彭明敏]] (Peng Ming-min) — Democratic activist, former DPP chairman
-2. 鄭達志 (Zheng Dazhi)
-3. 鄭紹良 (Zheng Shaoliang)
+2. [[people/zheng-dazhi|鄭達志]] (Zheng Dazhi)
+3. [[people/zheng-shaoliang|鄭紹良]] (Zheng Shaoliang)
 4. [[people/wang-taihe|王泰和]] (Wang Taihe)
 5. [[people/chen-zhefu-xu-chunhui|陳哲夫、許春惠]] (Chen Zhefu & Xu Chunhui)
 
 ### 奠基‧傳承 (Foundations / Legacy)
-6. 葉思雅、張信惠 (Ye Siya & Zhang Xinhui)
+6. [[people/ye-siya-zhang-xinhui|葉思雅、張信惠]] (Ye Siya & Zhang Xinhui)
 7. 許宗邦 (Xu Zongbang)
 8. 李木通 (Li Mutong)
 9. 陳文學 (Chen Wenxue)
@@ -88,7 +88,7 @@ The second TAHS commemorative publication, following the 2017 edition. This publ
 | Xie Qingzhi & Xie Poyi | `xie-qingzhi-xie-poyi` | [[people/xie-qingzhi-xie-poyi\|謝清志、謝泊怡]] |
 | Yang Chengwei | `yang-chengwei` | [[people/yang-chengwei\|楊呵偉 (Yang Chengwei)]] |
 | Fan Qingliang | `fan-qingliang` | [[people/fan-qingliang\|范清亮 (Fan Qingliang)]] |
-| Yang Zhengxiang | `yang-zhengxiang` | [[people/yang-zhengxiang\|楊正光 (Ethan Yang)]] |
+| [[people/yang-zhengxiang|Yang Zhengxiang]] | `yang-zhengxiang` | [[people/yang-zhengxiang\|楊正光 (Ethan Yang)]] |
 
 ## Depth Status
 - **Content priority A:** 2/2 PASS (depth floor met)

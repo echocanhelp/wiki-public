@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "last_run": "2026-08-21T12:07:58",
+  "last_run": "2026-08-22T03:32:23",
   "status": "ACTION",
   "stats": {
-    "md": 5267,
+    "md": 5268,
     "critical": 0,
     "high": 1,
     "medium": 1,
@@ -56,18 +56,21 @@
         "people/albert-g-chang.md",
         "people/alex-hsuan-yu-lee.md"
       ]
+    },
+    {
+      "id": "C1",
+      "sev": "LOW",
+      "msg": "spelling signals (sample): 3",
+      "examples": [
+        "yang-ziqing.md: ?ziqing",
+        "yang-yueqing.md: ?yueqing",
+        "wang-qiaoling.md: ?qiaoling"
+      ],
+      "agent": true
     }
   ],
   "heals": [],
   "history": [
-    {
-      "at": "2026-08-18T08:30:32",
-      "status": "ACTION",
-      "critical": 0,
-      "high": 1,
-      "medium": 1,
-      "finding_count": 4
-    },
     {
       "at": "2026-08-19T08:02:27",
       "status": "ACTION",
@@ -299,6 +302,14 @@
       "high": 1,
       "medium": 1,
       "finding_count": 3
+    },
+    {
+      "at": "2026-08-22T03:32:23",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 1,
+      "medium": 1,
+      "finding_count": 4
     }
   ]
 }

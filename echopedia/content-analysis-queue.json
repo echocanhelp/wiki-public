@@ -1,8 +1,8 @@
 {
-  "date": "2026-08-21",
-  "standards_version": 8,
-  "total_pages_scanned": 1658,
-  "auto_queued": 52,
+  "date": "2026-08-22",
+  "standards_version": 10,
+  "total_pages_scanned": 1652,
+  "auto_queued": 34,
   "queue": [
     {
       "path": "organizations/boston-taiwanese-christian-church.md",
@@ -140,39 +140,10 @@
       ]
     },
     {
-      "path": "people/cao-changqing.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "STRUCT_NO_IDENTITY"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
       "path": "people/chao-sile.md",
       "findings": [
         "DESC_NO_TITLE_MENTION",
         "STRUCT_NO_IDENTITY"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/chen-maoxiong.md",
-      "findings": [
-        "LINKS_LOW_DENSITY",
-        "READABILITY_LONG_SENTENCES_77wps",
-        "READABILITY_MANY_LONG_SENTENCES_238"
       ],
       "priority": "medium",
       "instructions": [
@@ -197,85 +168,10 @@
       ]
     },
     {
-      "path": "people/chen-po-kong.md",
-      "findings": [
-        "LINKS_LOW_DENSITY",
-        "READABILITY_LONG_SENTENCES_71wps",
-        "READABILITY_MANY_LONG_SENTENCES_225"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/chen-zhaonan.md",
-      "findings": [
-        "LINKS_LOW_DENSITY",
-        "READABILITY_LONG_SENTENCES_66wps",
-        "READABILITY_MANY_LONG_SENTENCES_288"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/du-ao-cunfu.md",
-      "findings": [
-        "LINKS_LOW_DENSITY",
-        "READABILITY_LONG_SENTENCES_100wps",
-        "READABILITY_MANY_LONG_SENTENCES_207"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/fan-jiang-ti-ang.md",
-      "findings": [
-        "LINKS_LOW_DENSITY",
-        "READABILITY_LONG_SENTENCES_108wps",
-        "READABILITY_MANY_LONG_SENTENCES_208"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
       "path": "people/guan-renjian.md",
       "findings": [
         "DESC_NO_TITLE_MENTION",
         "STRUCT_NO_IDENTITY"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/he-qingxuan.md",
-      "findings": [
-        "LINKS_LOW_DENSITY",
-        "READABILITY_LONG_SENTENCES_109wps",
-        "READABILITY_MANY_LONG_SENTENCES_204"
       ],
       "priority": "medium",
       "instructions": [
@@ -301,40 +197,10 @@
       ]
     },
     {
-      "path": "people/huang-diyin.md",
-      "findings": [
-        "LINKS_LOW_DENSITY",
-        "READABILITY_LONG_SENTENCES_99wps",
-        "READABILITY_MANY_LONG_SENTENCES_200"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
       "path": "people/huang-yongcheng.md",
       "findings": [
         "DESC_NO_TITLE_MENTION",
         "STRUCT_NO_IDENTITY"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/jin-hegui.md",
-      "findings": [
-        "LINKS_LOW_DENSITY",
-        "READABILITY_LONG_SENTENCES_113wps",
-        "READABILITY_MANY_LONG_SENTENCES_199"
       ],
       "priority": "medium",
       "instructions": [
@@ -374,73 +240,11 @@
       ]
     },
     {
-      "path": "people/li-jian.md",
-      "findings": [
-        "LINKS_LOW_DENSITY",
-        "READABILITY_LONG_SENTENCES_121wps",
-        "READABILITY_MANY_LONG_SENTENCES_200"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/li-xiaofeng.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "STRUCT_NO_IDENTITY",
-        "READABILITY_LONG_SENTENCES_122wps",
-        "READABILITY_MANY_LONG_SENTENCES_200"
-      ],
-      "priority": "high",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
       "path": "people/li-yisheng.md",
       "findings": [
         "LINKS_NO_RELATED",
         "STRUCT_NO_IDENTITY",
         "STRUCT_NO_RELATED"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/liao-qingshan.md",
-      "findings": [
-        "LINKS_LOW_DENSITY",
-        "READABILITY_LONG_SENTENCES_114wps",
-        "READABILITY_MANY_LONG_SENTENCES_202"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/lin-baohua.md",
-      "findings": [
-        "LINKS_LOW_DENSITY",
-        "READABILITY_LONG_SENTENCES_76wps",
-        "READABILITY_MANY_LONG_SENTENCES_215"
       ],
       "priority": "medium",
       "instructions": [
@@ -486,23 +290,6 @@
         "STRUCT_NO_RELATED"
       ],
       "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/tang-peili.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "STRUCT_NO_IDENTITY",
-        "READABILITY_LONG_SENTENCES_122wps",
-        "READABILITY_MANY_LONG_SENTENCES_199"
-      ],
-      "priority": "high",
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol",
         "Fix ONLY listed findings — no inventing biography",
@@ -569,20 +356,6 @@
       ]
     },
     {
-      "path": "people/wei-jingsheng.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "STRUCT_NO_IDENTITY"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
       "path": "people/xie-changting.md",
       "findings": [
         "LINKS_NO_RELATED",
@@ -628,42 +401,10 @@
       ]
     },
     {
-      "path": "people/yang-yuanxun.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "STRUCT_NO_IDENTITY",
-        "READABILITY_LONG_SENTENCES_117wps",
-        "READABILITY_MANY_LONG_SENTENCES_193"
-      ],
-      "priority": "high",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
       "path": "people/yang-yueqing.md",
       "findings": [
         "DESC_NO_TITLE_MENTION",
         "STRUCT_NO_IDENTITY"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/yang-ziqing.md",
-      "findings": [
-        "LINKS_LOW_DENSITY",
-        "READABILITY_LONG_SENTENCES_106wps",
-        "READABILITY_MANY_LONG_SENTENCES_197"
       ],
       "priority": "medium",
       "instructions": [
@@ -716,23 +457,6 @@
       ]
     },
     {
-      "path": "people/zheng-bingquan.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "STRUCT_NO_IDENTITY",
-        "READABILITY_LONG_SENTENCES_135wps",
-        "READABILITY_MANY_LONG_SENTENCES_193"
-      ],
-      "priority": "high",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
       "path": "people/zheng-qinren.md",
       "findings": [
         "DESC_NO_TITLE_MENTION",
@@ -775,6 +499,6 @@
       ]
     }
   ],
-  "suppressed_findings": 0,
-  "fp_history_entries": 1768
+  "suppressed_findings": 29,
+  "fp_history_entries": 1770
 }
