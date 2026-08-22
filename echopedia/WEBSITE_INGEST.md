@@ -22,7 +22,7 @@ Human still says `Echopedia website <domain>`. Detector / planner sets **class**
 
 **TAHS default (owner 2026-08-20):** a historical society **saves valuable text**. Pages 1GB / “too many posts” is **never** a reason to skip the vault copy. **Vault A/B/C full bodies** (gitignored). Wiki: A = full article, B = work page, C = bib (fiction body vault-only), D = chrome only. Index-only / hub-only / **truncated teaser** = **PARTIAL**.
 
-`taiwaneseamerican.org` ≠ `taiwaneseamericanhistory.org` (TAH recrawl skip).
+`taiwaneseamerican.org` ≠ `taiwaneseamericanhistory.org`. TAH **CPT graph** recrawl skip (person/org JSON already harvested). TAH **posts/pages/videos** must still be **vaulted** (TAHS valuable-text bar). Index-only `posts/index.jsonl` = PARTIAL.
 
 ---
 

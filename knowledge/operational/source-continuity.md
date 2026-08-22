@@ -4,7 +4,7 @@
 **Orchestrator:** `~/.hermes/profiles/pinto/scripts/echopedia-source-continuity.sh`  
 **Schedule:** Sunday **06:00** local — job `echopedia-source-continuity` (`no_agent`)  
 **Human surface:** morning-brief 07:55 (SOURCE CONTINUITY / NEXT INGEST sections)  
-**Ship:** 2026-08-09 v3 — live-small (TC · GSTPC · ITPC · PCT). **2026-08-18:** `laijohn-com`. **2026-08-20:** `taiwaneseamerican-org` (`story-corpus`). **2026-08-21:** `ntpc-usa-org` enabled (`live-small`; Gate A COMPLETE; baseline 40 URLs).
+**Ship:** 2026-08-09 v3 — live-small (TC · GSTPC · ITPC · PCT). **2026-08-18:** `laijohn-com`. **2026-08-20:** `taiwaneseamerican-org` (`story-corpus`). **2026-08-21:** `ntpc-usa-org` (`live-small`). **2026-08-21:** `taiwaneseamericanhistory-org` (`story-corpus` hybrid — CPT wiki + post vault; AUTO work_stub, never people).
 
 ## What it does
 

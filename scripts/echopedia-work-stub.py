@@ -73,6 +73,10 @@ def classify_band(unit: dict) -> str:
             "social-issues",
             "perspectives",
             "oral",
+            "my-stories",
+            "our-journeys",
+            "my-story",
+            "our-journey",
         )
     ):
         return "A"
@@ -221,6 +225,10 @@ def self_test() -> int:
         "license": "all-rights",
     }
     assert value_band(fic) == "C"
+    tah = {"title": "Connecting Generations", "url": "https://taiwaneseamericanhistory.org/x/", "categories": ["our-journeys"]}
+    assert classify_band(tah) == "A"
+    mag = {"title": "校友會年刊", "url": "https://taiwaneseamericanhistory.org/publications-1384/", "categories": ["magazines", "publications"]}
+    assert classify_band(mag) == "B"
     print("SELF_TEST OK")
     return 0
 

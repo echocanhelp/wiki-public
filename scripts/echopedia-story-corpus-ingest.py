@@ -39,7 +39,9 @@ workstub = _load("workstub", REPO / "scripts" / "echopedia-work-stub.py")
 def fetch_json(url: str):
     req = urllib.request.Request(url, headers={"User-Agent": UA})
     with urllib.request.urlopen(req, timeout=40) as r:
-        return json.loads(r.read().decode("utf-8", "replace")), dict(r.headers)
+        body = json.loads(r.read().decode("utf-8", "replace"))
+        hdr = {k.lower(): v for k, v in r.headers.items()}
+        return body, hdr
 
 
 def cat_slugs(row: dict) -> list[str]:
@@ -80,12 +82,14 @@ def html_to_md(raw: str) -> str:
     return s.strip()
 
 
-def write_vault(source_id: str, url: str, title: str, body: str) -> Path | None:
+def write_vault(source_id: str, url: str, title: str, body: str, subdir: str = "") -> Path | None:
     """Gitignored society copy. Never commit."""
     if not body:
         return None
     slug = url.rstrip("/").split("/")[-1] or "unit"
     vault = REPO / "knowledge/web-archives" / source_id
+    if subdir:
+        vault = vault / subdir
     vault.mkdir(parents=True, exist_ok=True)
     path = vault / f"{slug}.md"
     path.write_text(
@@ -95,7 +99,15 @@ def write_vault(source_id: str, url: str, title: str, body: str) -> Path | None:
     return path
 
 
-def fill_vault(source_id: str, home: str, sleep: float) -> int:
+REST_SUBDIR = {"posts": "posts", "pages": "pages", "tah_video": "videos"}
+
+
+def fill_vault(
+    source_id: str,
+    home: str,
+    sleep: float,
+    rest_bases: list[str] | None = None,
+) -> int:
     """Page WP REST and save A/B/C full text. Skip existing vault files >400 bytes. D chrome skipped."""
     units_path = REPO / "knowledge/research" / source_id / "units.jsonl"
     by_id: dict[str, dict] = {}
@@ -106,48 +118,57 @@ def fill_vault(source_id: str, home: str, sleep: float) -> int:
             u = json.loads(line)
             by_id[str(u.get("unit_id") or "")] = u
             by_id[str(u.get("url") or "")] = u
-    vault_dir = REPO / "knowledge/web-archives" / source_id
     wrote = skipped = dskip = missing_band = 0
-    page = 1
-    while True:
-        url = f"{home}/wp-json/wp/v2/posts?per_page=20&page={page}&_embed=1"
-        try:
-            data, hdr = fetch_json(url)
-        except Exception as e:
-            print(f"VAULT_FETCH_FAIL page={page} {e}", file=sys.stderr)
-            break
-        if not isinstance(data, list) or not data:
-            break
-        for row in data:
-            link = str(row.get("link") or "")
-            uid = str(row.get("id") or link)
-            unit = by_id.get(uid) or by_id.get(link) or {
-                "title": title_of(row),
-                "url": link,
-                "categories": cat_slugs(row),
-            }
-            band = workstub.value_band(unit)
-            if band == "D":
-                dskip += 1
-                continue
-            if band not in ("A", "B", "C"):
-                missing_band += 1
-                continue
-            slug = link.rstrip("/").split("/")[-1] or uid
-            dest = vault_dir / f"{slug}.md"
-            if dest.is_file() and dest.stat().st_size > 400:
-                skipped += 1
-                continue
-            body = html_to_md((row.get("content") or {}).get("rendered") or "")
-            p = write_vault(source_id, link, title_of(row) or unit.get("title") or slug, body)
-            if p:
-                wrote += 1
-                print(f"VAULT {band} {p.name} {len(body)}")
-        total_pages = int(hdr.get("X-WP-TotalPages") or 1)
-        page += 1
-        if page > total_pages:
-            break
-        time.sleep(sleep)
+    for rest in rest_bases or ["posts"]:
+        subdir = REST_SUBDIR.get(rest, rest)
+        vault_dir = REPO / "knowledge/web-archives" / source_id / subdir
+        page = 1
+        while True:
+            url = f"{home}/wp-json/wp/v2/{rest}?per_page=20&page={page}&_embed=1"
+            try:
+                data, hdr = fetch_json(url)
+            except Exception as e:
+                print(f"VAULT_FETCH_FAIL rest={rest} page={page} {e}", file=sys.stderr)
+                break
+            if not isinstance(data, list) or not data:
+                break
+            for row in data:
+                link = str(row.get("link") or "")
+                uid = str(row.get("id") or link)
+                unit = by_id.get(uid) or by_id.get(link) or {
+                    "title": title_of(row),
+                    "url": link,
+                    "categories": cat_slugs(row),
+                }
+                band = workstub.value_band(unit)
+                if band == "D":
+                    dskip += 1
+                    continue
+                if band not in ("A", "B", "C"):
+                    missing_band += 1
+                    continue
+                slug = link.rstrip("/").split("/")[-1] or uid
+                dest = vault_dir / f"{slug}.md"
+                if dest.is_file() and dest.stat().st_size > 400:
+                    skipped += 1
+                    continue
+                body = html_to_md((row.get("content") or {}).get("rendered") or "")
+                p = write_vault(
+                    source_id,
+                    link,
+                    title_of(row) or unit.get("title") or slug,
+                    body,
+                    subdir=subdir,
+                )
+                if p:
+                    wrote += 1
+                    if wrote <= 8 or wrote % 200 == 0:
+                        print(f"VAULT {band} {rest} {p.name} {len(body)}")
+            total_pages = int(hdr.get("x-wp-totalpages") or hdr.get("X-WP-TotalPages") or 1)
+            page += 1
+            if page > total_pages:
+                break
+            time.sleep(sleep)
     print(f"FILL_VAULT wrote={wrote} skipped_existing={skipped} d_chrome={dskip} other={missing_band}")
     return 0
 
@@ -162,12 +183,18 @@ def main() -> int:
     ap.add_argument("--fill-vault", action="store_true", help="Save A/B/C full text to gitignored vault")
     ap.add_argument("--no-vault", action="store_true", help="Skip vault even on --all (not the TAHS default)")
     ap.add_argument("--sleep", type=float, default=0.25)
+    ap.add_argument(
+        "--rest-bases",
+        default="posts",
+        help="comma REST bases to vault (default posts). TAH: posts,pages,tah_video",
+    )
     args = ap.parse_args()
     home = args.home.rstrip("/")
     dest = REPO / "knowledge" / "research" / args.source_id / "units.jsonl"
     dest.parent.mkdir(parents=True, exist_ok=True)
+    rest_bases = [x.strip() for x in (args.rest_bases or "posts").split(",") if x.strip()]
     if args.fill_vault and not args.all and not args.apply_works:
-        return fill_vault(args.source_id, home, args.sleep)
+        return fill_vault(args.source_id, home, args.sleep, rest_bases=rest_bases)
     n = 0
     page = 1
     per = min(args.limit, 20) if not args.all else 20
@@ -224,15 +251,15 @@ def main() -> int:
                 print("WORK", p or "SKIP")
             if not args.no_vault and unit.get("value_band") in ("A", "B", "C"):
                 body = html_to_md((row.get("content") or {}).get("rendered") or "")
-                write_vault(args.source_id, link, unit.get("title") or "", body)
-        total_pages = int(hdr.get("X-WP-TotalPages") or 1)
+                write_vault(args.source_id, link, unit.get("title") or "", body, subdir="posts")
+        total_pages = int(hdr.get("x-wp-totalpages") or hdr.get("X-WP-TotalPages") or 1)
         page += 1
         if page > total_pages or not args.all:
             break
         time.sleep(args.sleep)
     print(f"INDEXED n={n} file={dest} apply_works={args.apply_works}")
     if args.all and not args.no_vault:
-        fill_vault(args.source_id, home, args.sleep)
+        fill_vault(args.source_id, home, args.sleep, rest_bases=rest_bases)
     return 0
 
 

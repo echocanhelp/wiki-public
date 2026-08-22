@@ -250,6 +250,37 @@
       "notes": "added via CLI",
       "added": "2026-08-21",
       "removed": null
+    },
+    {
+      "id": "taiwaneseamericanhistory-org",
+      "enabled": true,
+      "class": "story-corpus",
+      "display_name": "TAH Foundation (taiwaneseamericanhistory.org)",
+      "home_url": "https://taiwaneseamericanhistory.org/",
+      "sitemap_urls": [],
+      "seed_urls": [
+        "https://taiwaneseamericanhistory.org/"
+      ],
+      "url_include_regex": null,
+      "url_exclude_regex": "wp-admin|cart|login",
+      "event_path_regex": null,
+      "max_urls_per_poll": 20,
+      "cadence_days": 7,
+      "tier2_glob": "knowledge/web-archives/taiwaneseamericanhistory-org/posts/*.md",
+      "manifest": "knowledge/web-archives/taiwaneseamericanhistory-org/MANIFEST.json",
+      "source_hub": "content/sources/taiwaneseamericanhistory-org.md",
+      "primary_pages": [
+        "content/organizations/tah-foundation.md"
+      ],
+      "entities_sheet": "knowledge/research/taiwaneseamericanhistory-org-entities.md",
+      "auto_apply": [
+        "tier2_append",
+        "last_reviewed",
+        "work_stub"
+      ],
+      "notes": "story-corpus: REST recent posts + work_stub; never event_stub/people",
+      "added": "2026-08-21",
+      "removed": null
     }
   ],
   "archived_sources": []
