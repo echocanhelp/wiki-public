@@ -4,19 +4,21 @@ type: source
 tags:
   - source
   - tah-foundation
-verification_status: pending
-last_reviewed: 2026-08-17
+verification_status: published
+last_reviewed: 2026-08-21
 ---
 # taiwaneseamericanhistory.org (TAH Foundation)
 
 ## Identity Snapshot
-- **Type:** Live website / Who’s Who + organization directory
+- **Type:** Live website / Who’s Who + organization directory (**not** story-corpus)
 - **Publisher:** TAH Foundation (台美史料中心) — runs this site
 - **Domain:** [taiwaneseamericanhistory.org](https://taiwaneseamericanhistory.org/)
 - **Relation:** Sibling archive to [[organizations/taiwanese-american-historical-society|TAHS]]; not the same org
-- **Not:** 2017/2023 TAHS publication PDFs
+- **Not:** 2017/2023 TAHS publication PDFs; not [[sources/taiwaneseamerican-org|taiwaneseamerican.org]]
+- **Class:** CPT graph (recrawl skip). COMPLETE residual 2026-08-21 = About/History on [[organizations/tah-foundation]]
 
-Tier-2 harvest: `knowledge/web-archives/taiwaneseamericanhistory-org/` (2212 people, 339 orgs).
+Tier-2 harvest: `knowledge/web-archives/taiwaneseamericanhistory-org/` (2212 people, 339 orgs).  
+Fact sheet: `knowledge/research/taiwaneseamericanhistory-org-entities.md`
 
 ## Related Pages
 - [[organizations/tah-foundation|TAH Foundation]]
