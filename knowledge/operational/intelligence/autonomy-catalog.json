@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-21T16:33:25",
+  "updated": "2026-08-21T16:59:02",
   "nodes": [
+    {
+      "id": "cron.crons",
+      "enabled": true,
+      "human": false,
+      "ssot": "pinto cron/jobs.json",
+      "count": 26
+    },
     {
       "id": "janitor.first_mention",
       "enabled": true,
@@ -12,6 +19,54 @@
       "enabled": true,
       "human": false,
       "ssot": "standards.janitor.auto_apply_programmable"
+    },
+    {
+      "id": "janitor.hold",
+      "enabled": true,
+      "human": true,
+      "ssot": "drain-brief / janitor-brief NO_SAFE_ACT"
+    },
+    {
+      "id": "ci_heal",
+      "enabled": true,
+      "human": false,
+      "ssot": "standards.autonomy.l3_auto_push_on_green"
+    },
+    {
+      "id": "analyzer",
+      "enabled": true,
+      "human": false,
+      "ssot": "echopedia-content-analysis-queue.json"
+    },
+    {
+      "id": "generate_cards",
+      "enabled": true,
+      "human": false,
+      "ssot": "knowledge/operational/generated/ + review-gate-brief"
+    },
+    {
+      "id": "enrichment_writes",
+      "enabled": false,
+      "human": true,
+      "ssot": "auto_apply_agent false"
+    },
+    {
+      "id": "watchdogs",
+      "enabled": true,
+      "human": false,
+      "ssot": "cron jobs.json"
+    },
+    {
+      "id": "kanban.blocked",
+      "enabled": true,
+      "human": true,
+      "ssot": "hermes kanban list --status blocked"
+    },
+    {
+      "id": "standards",
+      "enabled": true,
+      "human": false,
+      "ssot": "echopedia/standards.json"
     },
     {
       "id": "kanban.auto_go",
@@ -30,30 +85,6 @@
       "enabled": false,
       "human": true,
       "ssot": "auto_apply_agent false"
-    },
-    {
-      "id": "analyzer.decay",
-      "enabled": true,
-      "human": false,
-      "ssot": "echopedia-content-analyzer.py FP_DECAY"
-    },
-    {
-      "id": "ci_heal",
-      "enabled": true,
-      "human": false,
-      "ssot": "standards.autonomy.l3_auto_push_on_green"
-    },
-    {
-      "id": "watchdogs",
-      "enabled": true,
-      "human": false,
-      "ssot": "cron jobs.json"
-    },
-    {
-      "id": "standards",
-      "enabled": true,
-      "human": false,
-      "ssot": "echopedia/standards.json"
     }
   ],
   "cron_jobs": [
@@ -76,7 +107,7 @@
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-21T16:33:18.241017-07:00"
+      "last_run_at": "2026-08-21T16:57:17.621513-07:00"
     },
     {
       "name": "Echopedia content analysis",
@@ -90,7 +121,7 @@
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-21T16:25:16.705894-07:00"
+      "last_run_at": "2026-08-21T16:55:17.368545-07:00"
     },
     {
       "name": "echopedia-digest",
@@ -104,7 +135,7 @@
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-21T16:09:17.495982-07:00"
+      "last_run_at": "2026-08-21T16:40:17.082833-07:00"
     },
     {
       "name": "memory-audit",

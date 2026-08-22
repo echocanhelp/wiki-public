@@ -27,7 +27,9 @@ No owner judgment needed — overnight loop ran clean.
 🟡 QUEUE 4. Link tip: organizations/boston-taiwanese-christian-church.md ↔ organizations/elder-john-lai-archives.md
 🟡 QUEUE 5. Link tip: organizations/boston-taiwanese-christian-church.md ↔ organizations/presbyterian-church-in-taiwan.md
 
-✅ AUTO (already handled by overnight loop)
-✅ AUTO  ci-heal / scout / deepeners / content-analysis run on schedule
-✅ AUTO  silent watchdogs = healthy (thermal, unified, kanban-sync)
+✅ AUTO (overnight — evidence)
+✅ AUTO analyzer scanned 1658 queued 52 suppressed 0
+🟡 QUEUE enrichment wrote 2 page(s) — review identity
+🟡 QUEUE janitor HOLD leftover 40
+🟡 QUEUE kanban blocked 6
 ℹ️  INFO  only 🔴 NEED YOU requires your reply

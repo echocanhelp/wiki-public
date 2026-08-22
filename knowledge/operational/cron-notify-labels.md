@@ -16,7 +16,7 @@
 
 | When (local) | Job | What to read |
 |--------------|-----|----------------|
-| **07:55** | `vault-morning-brief` | **NEED YOU first** (≤5), then SOURCE CONTINUITY / NEXT INGEST / QUEUE |
+| **07:55** | `vault-morning-brief` | **NEED YOU first** (≤5), then SOURCE CONTINUITY / NEXT INGEST / QUEUE / ℹ️ wiki visits (GoatCounter after 2026-08-21 12:22 PDT cutoff; omit if 0) |
 | 07:20 | `echopedia-digest` | Health + AUTO/QUEUE strip |
 | **Sun 06:00** | `echopedia-source-continuity` | Live-site watch (silent if clean) |
 | else | silent watchdogs / clean audits | empty stdout = healthy |

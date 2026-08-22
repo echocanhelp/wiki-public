@@ -1,9 +1,9 @@
 {
-  "applied": 2156,
-  "skipped": 0,
+  "applied": 1893,
+  "skipped": 268,
   "no_json": 0,
   "no_meat": 45,
-  "apply": true,
+  "apply": false,
   "samples": [
     {
       "page": "a-n-liu",
@@ -20,17 +20,6 @@
         "journalist",
         "educator"
       ]
-    },
-    {
-      "page": "abby-hong",
-      "harvest": "abby-hong",
-      "edu": [
-        "Univ. of Pennsylvania — 2018 — B.A., Arts"
-      ],
-      "emp": [
-        "University of Pennsylvania — Undergraduate Research Assistant — (2016-)"
-      ],
-      "roles": []
     },
     {
       "page": "adam-chang",
@@ -120,6 +109,21 @@
       "roles": [
         "entrepreneur",
         "journalist"
+      ]
+    },
+    {
+      "page": "alan-su",
+      "harvest": "alan-su",
+      "edu": [
+        "New York University — B.S.Computer",
+        "Stevens Institute of Technology — M.S.科技管理"
+      ],
+      "emp": [
+        "Bankers Trust Company"
+      ],
+      "roles": [
+        "engineer",
+        "educator"
       ]
     }
   ]

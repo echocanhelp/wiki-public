@@ -119,11 +119,19 @@ def build_ledger(
     }
 
 
-def build_catalog(standards: dict | None = None) -> dict:
+def build_catalog(standards: dict | None = None, jobs: dict | None = None) -> dict:
     std = standards or {}
     jan = std.get("janitor") or {}
     fm = bool((jan.get("first_mention_apply") or {}).get("enabled"))
+    job_list = (jobs or {}).get("jobs") or []
     nodes = [
+        {
+            "id": "cron.crons",
+            "enabled": bool(job_list),
+            "human": False,
+            "ssot": "pinto cron/jobs.json",
+            "count": len(job_list),
+        },
         {
             "id": "janitor.first_mention",
             "enabled": fm,
@@ -136,6 +144,55 @@ def build_catalog(standards: dict | None = None) -> dict:
             "human": False,
             "ssot": "standards.janitor.auto_apply_programmable",
         },
+        {
+            "id": "janitor.hold",
+            "enabled": True,
+            "human": True,
+            "ssot": "drain-brief / janitor-brief NO_SAFE_ACT",
+        },
+        {
+            "id": "ci_heal",
+            "enabled": True,
+            "human": False,
+            "ssot": "standards.autonomy.l3_auto_push_on_green",
+        },
+        {
+            "id": "analyzer",
+            "enabled": True,
+            "human": False,
+            "ssot": "echopedia-content-analysis-queue.json",
+        },
+        {
+            "id": "generate_cards",
+            "enabled": True,
+            "human": False,
+            "ssot": "knowledge/operational/generated/ + review-gate-brief",
+        },
+        {
+            "id": "enrichment_writes",
+            "enabled": False,
+            "human": True,
+            "ssot": "auto_apply_agent false",
+        },
+        {
+            "id": "watchdogs",
+            "enabled": True,
+            "human": False,
+            "ssot": "cron jobs.json",
+        },
+        {
+            "id": "kanban.blocked",
+            "enabled": True,
+            "human": True,
+            "ssot": "hermes kanban list --status blocked",
+        },
+        {
+            "id": "standards",
+            "enabled": True,
+            "human": False,
+            "ssot": "echopedia/standards.json",
+        },
+        # B/C/D autonomy flags — never enabled by this plan
         {
             "id": "kanban.auto_go",
             "enabled": False,
@@ -154,33 +211,8 @@ def build_catalog(standards: dict | None = None) -> dict:
             "human": True,
             "ssot": "auto_apply_agent false",
         },
-        {
-            "id": "analyzer.decay",
-            "enabled": True,
-            "human": False,
-            "ssot": "echopedia-content-analyzer.py FP_DECAY",
-        },
-        {
-            "id": "ci_heal",
-            "enabled": True,
-            "human": False,
-            "ssot": "standards.autonomy.l3_auto_push_on_green",
-        },
-        {
-            "id": "watchdogs",
-            "enabled": True,
-            "human": False,
-            "ssot": "cron jobs.json",
-        },
-        {
-            "id": "standards",
-            "enabled": True,
-            "human": False,
-            "ssot": "echopedia/standards.json",
-        },
     ]
     return {"updated": datetime.now().isoformat(timespec="seconds"), "nodes": nodes}
-
 
 def load_json(path: Path, default):
     try:
@@ -266,7 +298,7 @@ def collect_live() -> tuple[dict, dict]:
         kanban_blocked=blocked,
         hold_count=hold,
     )
-    catalog = build_catalog(standards)
+    catalog = build_catalog(standards, jobs)
     # attach cron nodes from jobs
     catalog["cron_jobs"] = [
         {

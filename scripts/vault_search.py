@@ -58,6 +58,7 @@ def get_embedder():
 # ─── Database ───────────────────────────────────────────────────────────
 def get_db():
     """Get SQLite connection with vector and graph tables."""
+    CACHE_DB.parent.mkdir(parents=True, exist_ok=True)
     conn = sqlite3.connect(str(CACHE_DB))
     conn.row_factory = sqlite3.Row
     _init_tables(conn)
@@ -160,88 +161,141 @@ def content_hash(text):
 
 
 # ─── Indexing ───────────────────────────────────────────────────────────
-def index_vault(rebuild=False, tier1_only=False):
-    """Build or update the vector + graph index for all vault pages."""
+# Never rglob content/articles (Tier2 firehose) or knowledge/web-archives.
+TIER1_INDEX_DIRS = ("people", "organizations", "sources", "works", "events", "media")
+
+
+def _read_page(md_file: Path, rel: str, tier: int):
+    try:
+        content = md_file.read_text(encoding="utf-8", errors="replace")
+    except OSError as e:
+        print(f"  [warn] skip unreadable {md_file}: {e}", file=sys.stderr)
+        return None
+    return {
+        "path": rel,
+        "tier": tier,
+        "content": content,
+        "body": extract_body(content),
+        "fm": extract_frontmatter(content),
+    }
+
+
+def collect_pages(tier1_only=False):
+    """Collect indexable markdown. Skips articles/, web-archives/, broken symlinks."""
+    pages = []
+
+    for sub in TIER1_INDEX_DIRS:
+        d = CONTENT_DIR / sub
+        if not d.is_dir():
+            continue
+        for md_file in d.rglob("*.md"):
+            if not md_file.is_file() or "*" in md_file.name or md_file.name.startswith("."):
+                continue
+            rel = md_file.relative_to(CONTENT_DIR)
+            if "index" in str(rel):
+                continue
+            page = _read_page(md_file, str(rel), 1)
+            if page:
+                pages.append(page)
+
+    if not tier1_only and KNOWLEDGE_DIR.is_dir():
+        for child in KNOWLEDGE_DIR.iterdir():
+            if child.name in ("web-archives",) or child.name.startswith("."):
+                continue
+            files = []
+            if child.is_file() and child.suffix == ".md":
+                files = [child]
+            elif child.is_dir():
+                files = [p for p in child.rglob("*.md")]
+            for md_file in files:
+                if not md_file.is_file() or "*" in md_file.name or md_file.name.startswith("."):
+                    continue
+                rel = md_file.relative_to(ECHOPEDIA_DIR)
+                if "web-archives" in rel.parts:
+                    continue
+                page = _read_page(md_file, str(rel), 2)
+                if page:
+                    pages.append(page)
+
+    return pages
+
+
+def index_vault(rebuild=False, tier1_only=False, with_embeddings=None):
+    """Build or update the vector + graph index.
+
+    rebuild=True wipes tables then reindexes.
+    rebuild=False is incremental: hash-skip unchanged, prune missing, re-embed dirty.
+    with_embeddings=None → embeddings only when not tier1_only (weekly speed).
+    Incremental after ci-heal should pass with_embeddings=True.
+    """
     conn = get_db()
     c = conn.cursor()
 
-    embedder = get_embedder()
-    if embedder is False:
-        print("  [info] No embedding model available — indexing graph only")
+    if with_embeddings is None:
+        with_embeddings = not tier1_only
 
-    # Collect all pages
-    pages = []
+    embedder_state = "lazy" if with_embeddings else None
 
-    # Tier 1: content/
-    for md_file in CONTENT_DIR.rglob("*.md"):
-        rel = md_file.relative_to(CONTENT_DIR)
-        if rel.name.startswith(".") or "index" in str(rel):
-            continue
-        content = md_file.read_text()
-        fm = extract_frontmatter(content)
-        body = extract_body(content)
-        pages.append({
-            "path": str(rel),
-            "tier": 1,
-            "content": content,
-            "body": body,
-            "fm": fm,
-        })
+    def _get_embedder_lazy():
+        nonlocal embedder_state
+        if embedder_state != "lazy":
+            return embedder_state
+        loaded = get_embedder()
+        if loaded and loaded is not False:
+            embedder_state = loaded
+        else:
+            print("  [info] No embedding model available — indexing graph only")
+            embedder_state = None
+        return embedder_state
 
-    # Tier 2: knowledge/ (skip if tier1_only)
-    if not tier1_only:
-        for md_file in KNOWLEDGE_DIR.rglob("*.md"):
-            rel = md_file.relative_to(ECHOPEDIA_DIR)
-            if rel.name.startswith("."):
-                continue
-            content = md_file.read_text()
-            fm = extract_frontmatter(content)
-            body = extract_body(content)
-            pages.append({
-                "path": str(rel),
-                "tier": 2,
-                "content": content,
-                "body": body,
-                "fm": fm,
-            })
+    pages = collect_pages(tier1_only=tier1_only)
+    print(f"  [info] Found {len(pages)} pages to consider")
 
-    print(f"  [info] Found {len(pages)} pages to index")
-
-    # Clear old graph if rebuilding
     if rebuild:
-        c.execute("DELETE FROM vault_embeddings")
-        c.execute("DELETE FROM vault_graph_links")
-        c.execute("DELETE FROM vault_graph_tags")
+        if tier1_only:
+            c.execute("DELETE FROM vault_graph_links WHERE source IN (SELECT path FROM vault_embeddings WHERE tier = 1)")
+            c.execute("DELETE FROM vault_graph_tags WHERE path IN (SELECT path FROM vault_embeddings WHERE tier = 1)")
+            c.execute("DELETE FROM vault_embeddings WHERE tier = 1")
+        else:
+            c.execute("DELETE FROM vault_embeddings")
+            c.execute("DELETE FROM vault_graph_links")
+            c.execute("DELETE FROM vault_graph_tags")
         conn.commit()
 
-    # Index each page
+    updated = 0
+    skipped = 0
+    wikilink_lookup = None
+
     for page in pages:
         path = page["path"]
         ch = content_hash(page["content"])
 
-        # Skip if already indexed and unchanged
         if not rebuild:
             c.execute("SELECT content_hash FROM vault_embeddings WHERE path = ?", (path,))
             row = c.fetchone()
             if row and row["content_hash"] == ch:
+                skipped += 1
                 continue
+            c.execute("DELETE FROM vault_graph_links WHERE source = ?", (path,))
+            c.execute("DELETE FROM vault_graph_tags WHERE path = ?", (path,))
 
         fm = page["fm"]
         title = fm.get("title", Path(path).stem)
         page_type = fm.get("type", "unknown")
         tags = extract_tags(fm)
 
-        # Generate embedding (skip if tier1_only for speed)
-        if embedder and not tier1_only:
-            # Use title + first 500 chars of body for embedding
-            embed_text = f"{title}\n{page['body'][:500]}"
-            import numpy as np
-            emb = embedder.encode(embed_text)
-            embedding = np.asarray(emb, dtype=np.float32).tobytes()
+        if with_embeddings:
+            model = _get_embedder_lazy()
+            if model:
+                embed_text = f"{title}\n{page['body'][:500]}"
+                import numpy as np
+                emb = model.encode(embed_text)
+                embedding = np.asarray(emb, dtype=np.float32).tobytes()
+            else:
+                embedding = b"\x00" * 384
         else:
-            embedding = b"\x00" * 384  # placeholder
+            embedding = b"\x00" * 384
 
-        # Store embedding
         c.execute("""
             INSERT OR REPLACE INTO vault_embeddings
             (path, tier, title, page_type, tags, embedding, content_hash, updated_at)
@@ -249,12 +303,8 @@ def index_vault(rebuild=False, tier1_only=False):
         """, (path, page["tier"], title, page_type, ",".join(tags),
               embedding, ch, datetime.now().isoformat()))
 
-        # Store wikilinks
-        wikilink_lookup = None
         for link in extract_wikilinks(page["body"]):
-            # Normalize link to path
             target = link.replace("|", "").strip()
-            # Try to resolve to a known path
             target_path, wikilink_lookup = _resolve_wikilink(target, pages, wikilink_lookup)
             if target_path:
                 c.execute("""
@@ -262,15 +312,28 @@ def index_vault(rebuild=False, tier1_only=False):
                     (source, target, link_type) VALUES (?, ?, 'wikilink')
                 """, (path, target_path))
 
-        # Store tags
         for tag in tags:
             c.execute("""
                 INSERT OR IGNORE INTO vault_graph_tags (tag, path) VALUES (?, ?)
             """, (tag, path))
+        updated += 1
+
+    pruned = 0
+    live_paths = {p["path"] for p in pages}
+    if tier1_only:
+        c.execute("SELECT path FROM vault_embeddings WHERE tier = 1")
+    else:
+        c.execute("SELECT path FROM vault_embeddings")
+    stale = [row["path"] for row in c.fetchall() if row["path"] not in live_paths]
+    for sp in stale:
+        c.execute("DELETE FROM vault_embeddings WHERE path = ?", (sp,))
+        c.execute("DELETE FROM vault_graph_links WHERE source = ? OR target = ?", (sp, sp))
+        c.execute("DELETE FROM vault_graph_tags WHERE path = ?", (sp,))
+        pruned += 1
 
     conn.commit()
-    print(f"  [info] Indexed {len(pages)} pages")
-    return len(pages)
+    print(f"  [info] updated={updated} skipped={skipped} pruned={pruned} considered={len(pages)}")
+    return {"pages": len(pages), "updated": updated, "skipped": skipped, "pruned": pruned}
 
 
 def _resolve_wikilink(link, pages, _lookup=None):
@@ -694,14 +757,23 @@ def main():
 
     if "--rebuild-index" in args:
         print("Rebuilding vault index...")
-        count = index_vault(rebuild=True)
-        print(f"Indexed {count} pages")
+        stats = index_vault(rebuild=True)
+        print(f"Indexed {stats['pages']} pages (updated={stats['updated']})")
         return
 
     if "--rebuild-index-tier1" in args:
         print("Rebuilding vault index (Tier1 only, no embeddings)...")
-        count = index_vault(rebuild=True, tier1_only=True)
-        print(f"Indexed {count} pages")
+        stats = index_vault(rebuild=True, tier1_only=True, with_embeddings=False)
+        print(f"Indexed {stats['pages']} pages (updated={stats['updated']})")
+        return
+
+    if "--incremental-tier1" in args:
+        print("Incremental vault index (Tier1, embed dirty)...")
+        stats = index_vault(rebuild=False, tier1_only=True, with_embeddings=True)
+        print(
+            f"incremental-tier1 considered={stats['pages']} "
+            f"updated={stats['updated']} skipped={stats['skipped']} pruned={stats['pruned']}"
+        )
         return
 
     if "--stats" in args:
@@ -729,6 +801,8 @@ def main():
         print("Usage: python3 vault_search.py <query>")
         print("       python3 vault_search.py --related <path>")
         print("       python3 vault_search.py --rebuild-index")
+        print("       python3 vault_search.py --rebuild-index-tier1")
+        print("       python3 vault_search.py --incremental-tier1")
         print("       python3 vault_search.py --stats")
         print()
         print("Examples:")

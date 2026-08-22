@@ -1,9 +1,9 @@
 {
-  "at": "2026-08-21T01:37:49Z",
+  "at": "2026-08-22T00:05:17Z",
   "dry_run": true,
   "sources": [
     {
-      "id": "taiwaneseamerican-org",
+      "id": "ntpc-usa-org",
       "new": [],
       "changed": [],
       "gone_sample": [],
@@ -24,11 +24,11 @@
     },
     {
       "kind": "website",
-      "host": "ntpc-usa.org",
-      "mentions": 7,
-      "score": 29,
-      "why": "external host on 7 Tier1 pages; not watched",
-      "action": "go Echopedia website https://ntpc-usa.org/"
+      "host": "eastgatebarclay.org",
+      "mentions": 6,
+      "score": 26,
+      "why": "external host on 6 Tier1 pages; not watched",
+      "action": "go Echopedia website https://eastgatebarclay.org/"
     }
   ],
   "need_you": [],
