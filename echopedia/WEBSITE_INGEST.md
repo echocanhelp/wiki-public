@@ -87,6 +87,15 @@ Human still says `Echopedia website <domain>`. Detector / planner sets **class**
 
 A magazine of Taiwanese American interviews, essays, and stories **is the historical record**. Thin hub + URL index is **not** absorption.
 
+> **`directory-corpus` carve-out (TAH.org, `taiwaneseamericanhistory-org`):** the **vault bar below is mandatory**; the **wiki bar is NOT** (no 9k). A historical society **never skips the vault copy** — REST-empty must fall back to **live HTML** (`echopedia-story-corpus-ingest.py --fill-vault --rest-bases posts,pages,tah_video`), and the Gate C gate treats **REST-empty-without-HTML-pass as PARTIAL**.
+>
+> Diverge from the magazine bullets above only as follows:
+> - **§B.1 (works A/B/C):** `directory-corpus` → **hub catalog lists every A/B/C unit** (`content/sources/taiwaneseamericanhistory-org.md`), **NOT one wiki page per unit**. `echopedia-work-stub.py` AUTO (`work_stub` on Sunday continuity) writes **work stubs on disk only as needed for A-band human thicken**, never 9k. `content/works/taiwaneseamericanhistory-org/` stays near-empty by design.
+> - **§B.2 reader catalog / §B.3 Stories hero:** magazine-only (the ~2.4k-post magazine needs a /works front door). For `directory-corpus` the **source hub catalog is the front door** — no `/works/` button required.
+> - **§C / PARTIAL:** `directory-corpus` completes on **vault full bodies + hub catalog + About prose**; **A-band A/C full article on the wiki is magazine-only.** Fiction/C bodies stay **vault-only**.
+>
+> **Gate C machine** (`scripts/echopedia-ingest-complete.py`, `VAULT_CLASSES` includes `directory-corpus`): **all A/B/C units have a ≥400B vault file (REST or HTML)**, D chrome index-only, hub present, `event_stub` forbidden, primary History+Mission prose. Index-only `units.jsonl` or **REST-empty-without-HTML-pass = PARTIAL**.
+
 **Value bands** (`scripts/echopedia-work-stub.py`):
 
 | Band | What | Tier1 |
@@ -240,7 +249,7 @@ Mass writes: ingestion-protocol pitfalls **33–36** (cron-silent) before publis
 ## 8. Delta refresh vs full ingest (source continuity)
 
 **Full ingest** (`Echopedia website <domain>`) = Gate A one-shot (this doc class bar).  
-**Continuity** = registry-driven, **Sunday 06:00** job `echopedia-source-continuity` (`no_agent`). Watchable classes: **`live-small`** and **`story-corpus`** (after COMPLETE). `static-v1` only if owner watch-add (laijohn already on as live-small).
+**Continuity** = registry-driven, **Sunday 06:00** job `echopedia-source-continuity` (`no_agent`). Watchable classes: **`live-small`**, **`story-corpus`**, **`directory-corpus`** (after COMPLETE). `static-v1` only if owner watch-add (laijohn already on as live-small).
 
 | | Full WEBSITE_INGEST | Source continuity |
 |--|---------------------|-------------------|

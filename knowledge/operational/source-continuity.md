@@ -4,12 +4,12 @@
 **Orchestrator:** `~/.hermes/profiles/pinto/scripts/echopedia-source-continuity.sh`  
 **Schedule:** Sunday **06:00** local — job `echopedia-source-continuity` (`no_agent`)  
 **Human surface:** morning-brief 07:55 (SOURCE CONTINUITY / NEXT INGEST sections)  
-**Ship:** 2026-08-09 v3 — live-small (TC · GSTPC · ITPC · PCT). **2026-08-18:** `laijohn-com`. **2026-08-20:** `taiwaneseamerican-org` (`story-corpus`). **2026-08-21:** `ntpc-usa-org` (`live-small`). **2026-08-21:** `taiwaneseamericanhistory-org` (`story-corpus` hybrid — CPT wiki + post vault; AUTO work_stub, never people).
+**Ship:** 2026-08-09 v3 — live-small (TC · GSTPC · ITPC · PCT). **2026-08-18:** `laijohn-com`. **2026-08-20:** `taiwaneseamerican-org` (`story-corpus`). **2026-08-21:** `ntpc-usa-org` (`live-small`). **2026-08-21:** `taiwaneseamericanhistory-org` (`directory-corpus` — CPT wiki + mandatory post vault; REST else HTML; never skip high-value; never AUTO people).
 
 ## What it does
 
 Weekly: poll enabled live sites → fingerprint URLs → append Tier2 on new/changed → narrow AUTO (`last_reviewed`, clean event stubs) → write summary + next-ingest tips.  
-**Does not** push (ci-heal only). **Does not** watch dead/static/OCAC stub until owner watch-add. **`story-corpus`** is watchable after **ingest COMPLETE** (wiki + **P2** + Stories path; `class=story-corpus`, `work_stub`, no `event_stub`). Poll = seeds + recent REST. New A/B/C → AUTO work page. Never AUTO people. `archive only` is not COMPLETE.
+**Does not** push (ci-heal only). **Does not** watch dead/static/OCAC stub until owner watch-add. **`story-corpus`** and **`directory-corpus`** are watchable after **ingest COMPLETE**. Poll = seeds + recent REST. New A/B/C → vault (HTML if REST empty); magazine also AUTO work page. Never AUTO people. `archive only` is not COMPLETE.
 
 ## Labels
 

@@ -40,7 +40,7 @@ Official About **does not name** the six 2013 founders or a current board. Do no
 | About / History / Mission | about-us.md + live About | primary `tah-foundation` |
 | Who’s Who CPT | `person/*.json` (2212) | people pages + hub index |
 | Org CPT | `organization/*.json` (339) | org pages; directory twin → `redirect_to` |
-| My Stories / Journeys / blogs | **not** v1 | do not recrawl |
+| My Stories / Journeys / blogs | `posts/*.md` vault (fill-vault) | work_stub on Sunday; not 9k wiki stubs |
 | Family table | harvest `--` | **skip** |
 | Education / Employment | harvest `page_text` | backfill on *existing* Who’s Who only |
 
@@ -58,7 +58,8 @@ Official About **does not name** the six 2013 founders or a current board. Do no
 - [x] About / History / Mission **prose on primary** (2026-08-21)
 - [x] Graph on wiki (hub index + people/org pages)
 - [x] P2 publish — pushed f142c28b90, live 200 (2026-08-21)
-- [ ] Watch add — **human after COMPLETE** (same Sunday job)
+- [x] Watch add 2026-08-21 (`directory-corpus`)
+- [x] Post vault COMPLETE (REST + `--gaps-only` HTML; vault_gaps NONE 2026-08-21)
 - [ ] Residual table backfill on ~61 pages without `tah-tables` — HOLD if page is a thickened TAHS dossier (e.g. 黃德利, 許瀞心, 許錦銘)
 
-**PARTIAL if:** recrawl blogs; or primary stays a 3-line stub.
+**PARTIAL if:** title-only `posts/index.jsonl`; or primary stays a 3-line stub.
