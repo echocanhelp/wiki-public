@@ -55,3 +55,7 @@ So: **same people, new layer.** PCT is origin (training, 漢名, liturgy). TPC i
 - [[organizations/good-shepherd-taiwanese-presbyterian-church|Good Shepherd Taiwanese Presbyterian Church (GSTPC)]]
 - [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
 - [[organizations/irvine-taiwanese-presbyterian-church|Irvine Taiwanese Presbyterian Church (ITPC)]]
+
+## Sister Churches
+
+- [台北新教](content/people/willy-pan.md)
