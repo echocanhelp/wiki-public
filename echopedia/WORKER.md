@@ -206,6 +206,23 @@ Person-to-work linking is **not a worker playbook.** Nightly `no_agent` cron `ec
 
 **Story-corpus (magazines):** ingest `--apply-works` then `echopedia-thicken-work-a.py` (**full A-band article**, not WP teaser). C stays bib. Then works-index + linkcheck + **P2**. Truncation of the **catalog** (`works/index`, people/orgs directories, source hubs) is a bug — list everything. Do **not** uncap person-page quote/harvest dumps (that was the 22MB `## Works` incident).
 
+**directory-corpus (TAH.org) — never skip high-value text:**
+
+```bash
+python3 ~/echo-system/scripts/echopedia-story-corpus-ingest.py \
+  --source-id taiwaneseamericanhistory-org \
+  --home https://taiwaneseamericanhistory.org \
+  --fill-vault --rest-bases posts,pages,tah_video
+# residual (REST-empty / short teaser):
+python3 ~/echo-system/scripts/echopedia-story-corpus-ingest.py \
+  --source-id taiwaneseamericanhistory-org \
+  --home https://taiwaneseamericanhistory.org \
+  --gaps-only
+python3 ~/echo-system/scripts/echopedia-ingest-complete.py --only taiwaneseamericanhistory-org
+```
+
+Index-only or vault_gaps ≠ 0 = **PARTIAL**. No 9k work stubs. Never re-run REST person harvest (wipes `page_text`).
+
 ### P8 — Edit page content (content update)
 
 **When:** You have new facts from a named source that need to be applied to an existing wiki page.

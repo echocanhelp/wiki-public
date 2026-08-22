@@ -191,6 +191,53 @@ def fill_vault(
     return 0
 
 
+def fill_gaps(source_id: str, sleep: float) -> int:
+    """HTML-only residual: units without a ≥400B vault body."""
+    import importlib.util
+
+    ic_path = REPO / "scripts" / "echopedia-ingest-complete.py"
+    spec = importlib.util.spec_from_file_location("ic", ic_path)
+    ic = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(ic)
+
+    units_path = REPO / "knowledge" / "research" / source_id / "units.jsonl"
+    vault_root = REPO / "knowledge" / "web-archives" / source_id
+    stems = set()
+    if vault_root.is_dir():
+        for p in vault_root.rglob("*.md"):
+            if p.stat().st_size >= 400:
+                stems.add(p.stem)
+    wrote = empty = fail = 0
+    if not units_path.is_file():
+        print("GAPS_FAIL no units.jsonl", file=sys.stderr)
+        return 1
+    for line in units_path.read_text(encoding="utf-8").splitlines():
+        if not line.strip():
+            continue
+        u = json.loads(line)
+        if u.get("value_band") == "D":
+            continue
+        slug = ic.unit_slug(u)
+        if slug in stems:
+            continue
+        url = str(u.get("url") or "")
+        body = html_to_md(fetch_html(url))
+        time.sleep(sleep)
+        if len(body) < 40:
+            empty += 1
+            continue
+        p = write_vault(source_id, url, u.get("title") or slug, body, subdir="posts")
+        if p:
+            wrote += 1
+            stems.add(slug)
+            if wrote <= 5 or wrote % 100 == 0:
+                print(f"GAP {p.name} {len(body)}")
+        else:
+            fail += 1
+    print(f"FILL_GAPS wrote={wrote} still_empty={empty} fail={fail}")
+    return 0
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--source-id", required=True)
@@ -206,11 +253,14 @@ def main() -> int:
         default="posts",
         help="comma REST bases to vault (default posts). TAH: posts,pages,tah_video",
     )
+    ap.add_argument("--gaps-only", action="store_true", help="HTML pass for units missing a ≥400B vault body")
     args = ap.parse_args()
     home = args.home.rstrip("/")
     dest = REPO / "knowledge" / "research" / args.source_id / "units.jsonl"
     dest.parent.mkdir(parents=True, exist_ok=True)
     rest_bases = [x.strip() for x in (args.rest_bases or "posts").split(",") if x.strip()]
+    if args.gaps_only:
+        return fill_gaps(args.source_id, args.sleep)
     if args.fill_vault and not args.all and not args.apply_works:
         return fill_vault(args.source_id, home, args.sleep, rest_bases=rest_bases)
     n = 0
