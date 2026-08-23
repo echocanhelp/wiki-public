@@ -6,6 +6,24 @@
       <description>Last 10 notes on Echopedia</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Stories &amp; historical works</title>
+    <link>https://echocanhelp.github.io/wiki-public/works/</link>
+    <guid>https://echocanhelp.github.io/wiki-public/works/</guid>
+    <description><![CDATA[ Stories &amp; historical works Interviews, oral history, and named-subject features absorbed as Echopedia work pages. ]]></description>
+    <pubDate>Sun, 23 Aug 2026 14:17:27 GMT</pubDate>
+  </item><item>
+    <title>People</title>
+    <link>https://echocanhelp.github.io/wiki-public/people/</link>
+    <guid>https://echocanhelp.github.io/wiki-public/people/</guid>
+    <description><![CDATA[ People Person records in Echopedia. ]]></description>
+    <pubDate>Sun, 23 Aug 2026 14:17:27 GMT</pubDate>
+  </item><item>
+    <title>Organizations</title>
+    <link>https://echocanhelp.github.io/wiki-public/organizations/</link>
+    <guid>https://echocanhelp.github.io/wiki-public/organizations/</guid>
+    <description><![CDATA[ Organizations Organization records in Echopedia — churches, cultural centers, historical societies, and related institutions. ]]></description>
+    <pubDate>Sun, 23 Aug 2026 14:17:27 GMT</pubDate>
+  </item><item>
     <title>Cheng Chin-jen / 鄭欽仁</title>
     <link>https://echocanhelp.github.io/wiki-public/people/zheng-qinren</link>
     <guid>https://echocanhelp.github.io/wiki-public/people/zheng-qinren</guid>
@@ -46,24 +64,6 @@
     <link>https://echocanhelp.github.io/wiki-public/sources/good-shepherd-taiwanese-presbyterian-church</link>
     <guid>https://echocanhelp.github.io/wiki-public/sources/good-shepherd-taiwanese-presbyterian-church</guid>
     <description><![CDATA[ Good Shepherd Taiwanese Presbyterian Church (好牧者臺灣基督長老教會) Official website of the Good Shepherd Taiwanese Presbyterian Church (GSTPC), a Taiwanese Presbyterian congregation in Los Angeles. ]]></description>
-    <pubDate>Sun, 23 Aug 2026 14:15:56 GMT</pubDate>
-  </item><item>
-    <title>Presbyterian Church in Taiwan (PCT) Official Website</title>
-    <link>https://echocanhelp.github.io/wiki-public/sources/presbyterian-church-in-taiwan</link>
-    <guid>https://echocanhelp.github.io/wiki-public/sources/presbyterian-church-in-taiwan</guid>
-    <description><![CDATA[ Presbyterian Church in Taiwan (PCT) Official Website Official website of the Presbyterian Church in Taiwan (PCT), the largest Protestant Christian denomination based in Taiwan. ]]></description>
-    <pubDate>Sun, 23 Aug 2026 14:15:56 GMT</pubDate>
-  </item><item>
-    <title>taiwaneseamerican.org (TaiwaneseAmerican.org)</title>
-    <link>https://echocanhelp.github.io/wiki-public/sources/taiwaneseamerican-org</link>
-    <guid>https://echocanhelp.github.io/wiki-public/sources/taiwaneseamerican-org</guid>
-    <description><![CDATA[ taiwaneseamerican.org Official magazine/site of TaiwaneseAmerican.org (founded 2006). Story-corpus: interviews, essays, fiction. ]]></description>
-    <pubDate>Sun, 23 Aug 2026 14:15:56 GMT</pubDate>
-  </item><item>
-    <title>Stories &amp; historical works</title>
-    <link>https://echocanhelp.github.io/wiki-public/works/</link>
-    <guid>https://echocanhelp.github.io/wiki-public/works/</guid>
-    <description><![CDATA[ Stories &amp; historical works Interviews, oral history, and named-subject features absorbed as Echopedia work pages. ]]></description>
     <pubDate>Sun, 23 Aug 2026 14:15:56 GMT</pubDate>
   </item>
     </channel>
