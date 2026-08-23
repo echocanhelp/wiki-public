@@ -1,4 +1,4 @@
-TAHS · Echopedia morning brief — 2026-08-21
+TAHS · Echopedia morning brief — 2026-08-22
 No owner judgment needed — overnight loop ran clean.
 
 🔴 NEED YOU (your judgment only)
@@ -9,16 +9,16 @@ No owner judgment needed — overnight loop ran clean.
 🟡 QUEUE Charles Yang: soft pending aged out: capture_line_user_id_on_first_sender_message
 
 🟡 NEXT INGEST (≤2, advisory — not started)
-🟡 QUEUE taiwaneseamericanhistory.org — external host on 5306 Tier1 pages; not watched
-     → go Echopedia website https://taiwaneseamericanhistory.org/
-🟡 QUEUE ntpc-usa.org — external host on 7 Tier1 pages; not watched
-     → go Echopedia website https://ntpc-usa.org/
+🟡 QUEUE eastgatebarclay.org — external host on 6 Tier1 pages; not watched
+     → go Echopedia website https://eastgatebarclay.org/
+🟡 QUEUE penghu.info — external host on 8 Tier1 pages; not watched
+     → go Echopedia website https://penghu.info/
 
 🟡 QUEUE / unfinished (not a hard gate)
 🟡 QUEUE 11 pages WIP/incomplete
 
 🟡 QUEUE / link suggestions (disk)
-ℹ️  INFO  top tips below · full pairs on disk (~6926 scored)
+ℹ️  INFO  top tips below · full pairs on disk (~6975 scored)
 
 🟡 QUEUE / optional link tips (≤5, not NEED YOU)
 🟡 QUEUE 1. Link tip: organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/american-citizens-for-taiwan.md
@@ -28,8 +28,8 @@ No owner judgment needed — overnight loop ran clean.
 🟡 QUEUE 5. Link tip: organizations/boston-taiwanese-christian-church.md ↔ organizations/presbyterian-church-in-taiwan.md
 
 ✅ AUTO (overnight — evidence)
-✅ AUTO analyzer scanned 1658 queued 52 suppressed 0
-🟡 QUEUE enrichment wrote 2 page(s) — review identity
+✅ AUTO first-mention 2 page(s)
+✅ AUTO analyzer scanned 1652 queued 34 suppressed 29
 🟡 QUEUE janitor HOLD leftover 40
-🟡 QUEUE kanban blocked 6
+🟡 QUEUE kanban blocked 5
 ℹ️  INFO  only 🔴 NEED YOU requires your reply

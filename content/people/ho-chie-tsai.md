@@ -23,7 +23,7 @@ last_reviewed: 2026-08-17
 - **Role:** Founder, TaiwaneseAmerican.org
 - **Profession:** Board-certified pediatrician
 - **Affiliation:** UCSF Benioff Children's Hospital
-- **Organizations:** Taiwanese American Foundation (TAF); Taiwanese American Professionals in San Francisco
+- **Organizations:** [[organizations/taiwan-american-foundation|Taiwanese American Foundation]] (TAF); Taiwanese American Professionals in San Francisco
 - **Geography:** San Francisco Bay Area / Northern California
 - **Heritage:** Second-generation Taiwanese American
 

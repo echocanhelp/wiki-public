@@ -1,9 +1,9 @@
 {
-  "at": "2026-08-21T23:59:02Z",
+  "at": "2026-08-22T15:15:15Z",
   "cutoff": "2026-08-21T19:22:14Z",
   "ok": true,
   "visits_since_cutoff": 0,
-  "yesterday_pdt": "2026-08-20",
+  "yesterday_pdt": "2026-08-21",
   "yesterday_visits": 0,
   "top": [],
   "error": null

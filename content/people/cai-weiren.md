@@ -20,7 +20,7 @@ last_reviewed: 2026-08-17
 - **English:** Rev. Tsai Weiren (older files: Cai Weiren)
 - **Chinese:** 蔡維仁
 - **Wife:** 純雅 (GSTPC40; 16 years of GSTPC service; no surname given)
-- **GSTPC:** one of seven founding-era youth counselors (黃德利 40th); later 第二任牧師
+- **GSTPC:** one of seven founding-era youth counselors ([[people/david-huang|黃德利]] 40th); later 第二任牧師
 - **Polity:** U.S. TPC pulpit. Do not tag as PCT-employed.
 
 ## Timeline
@@ -60,6 +60,13 @@ Pages that link to **cai-weiren** (cai-weiren):
 ### Sources (1)
 
 1. [[sources/irvine-taiwanese-presbyterian-church|irvine-taiwanese-presbyterian-church]]
+
+## Related Pages
+
+- [[organizations/good-shepherd-taiwanese-presbyterian-church]]
+- [[people/index]]
+- [[organizations/index]]
+- [[sources/irvine-taiwanese-presbyterian-church]]
 
 ## Sources
 1. GSTPC40「數算恩典邁步前行」([ebook](https://gstpc.org/home/gstpc40/ebook/))

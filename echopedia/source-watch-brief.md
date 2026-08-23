@@ -1,12 +1,12 @@
-# Source continuity brief — 2026-08-21
+# Source continuity brief — 2026-08-22
 
-dry_run=True
+dry_run=False
 
 ## Results
-- **taiwaneseamericanhistory-org**: new=0 changed=0 applied=0 parked=False
+- **penghu-info**: new=0 changed=0 applied=0 parked=False
 
 ## A-band (thicken)
 
 ## Next ingest
-- eastgatebarclay.org (score=26, mentions=6) — go Echopedia website https://eastgatebarclay.org/
-- penghu.info (score=24, mentions=8) — go Echopedia website https://penghu.info/
+- ntumcaa-na.org (score=17, mentions=3) — go Echopedia website https://ntumcaa-na.org/
+- tcnn.org.tw (score=15, mentions=5) — go Echopedia website https://tcnn.org.tw/

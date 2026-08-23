@@ -1,7 +1,7 @@
 # Connector suggestions (capped top 80)
 
-- co_citation total=1002 kept=80
-- co_mention total=5924 kept=40
+- co_citation total=1029 kept=80
+- co_mention total=5946 kept=40
 - shared_tags total=0 kept=0
 
 ## Top co-citation
@@ -19,14 +19,14 @@
 - organizations/chunglun-presbyterian-church.md ↔ organizations/good-shepherd-taiwanese-presbyterian-church.md
 - organizations/chunglun-presbyterian-church.md ↔ organizations/national-taiwanese-presbyterian-council.md
 - organizations/chunglun-presbyterian-church.md ↔ organizations/tainan-east-gate-barclay-memorial-church.md
-- organizations/chunglun-presbyterian-church.md ↔ people/albert-s-lai.md
+- organizations/chunglun-presbyterian-church.md ↔ organizations/tpc.md
 - organizations/chunglun-presbyterian-church.md ↔ organizations/presbyterian-church-in-taiwan.md
 - organizations/chunglun-presbyterian-church.md ↔ people/pinghsi-liu.md
 - organizations/chunglun-presbyterian-church.md ↔ people/thomas-barclay.md
 - organizations/democratic-progressive-party.md ↔ people/albert-s-lai.md
 - organizations/democratic-progressive-party.md ↔ people/ken-wu.md
 - organizations/democratic-progressive-party.md ↔ people/zhou-wei-lin.md
+- organizations/democratic-progressive-party.md ↔ organizations/taiwan-american-foundation.md
 - organizations/democratic-progressive-party.md ↔ people/kao-chun-ming.md
+- organizations/democratic-progressive-party.md ↔ people/lin-chao-quan.md
 - organizations/democratic-progressive-party.md ↔ organizations/taiwanjustice-net.md
-- organizations/democratic-progressive-party.md ↔ people/lai-qingde.md
-- organizations/taiwanjustice-net.md ↔ people/lai-qingde.md

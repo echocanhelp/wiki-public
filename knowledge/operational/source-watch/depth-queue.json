@@ -1,5 +1,5 @@
 {
-  "at": "2026-08-22T00:53:50Z",
+  "at": "2026-08-22T18:48:59Z",
   "items": [
     {
       "id": "taiwancenter-org",
@@ -48,6 +48,18 @@
       "page": "content/organizations/tah-foundation.md",
       "bytes": 5223,
       "tier": "MEDIUM"
+    },
+    {
+      "id": "eastgatebarclay-org",
+      "page": "content/organizations/tainan-east-gate-barclay-memorial-church.md",
+      "bytes": 2406,
+      "tier": "THIN"
+    },
+    {
+      "id": "penghu-info",
+      "page": "content/organizations/penghu-info.md",
+      "bytes": 2353,
+      "tier": "THIN"
     }
   ]
 }

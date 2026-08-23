@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-21",
+  "updated": "2026-08-22",
   "global_auto_allowlist": [
     "tier2_append",
     "last_reviewed",
@@ -315,6 +315,39 @@
         "event_stub"
       ],
       "notes": "PCT Tainan church (C08007), not a U.S. TPC. 739 sermon posts; live-small bar = static pages + About/History. Sermon corpus deferred as separate story-corpus candidate.",
+      "added": "2026-08-22",
+      "removed": null
+    },
+    {
+      "id": "penghu-info",
+      "enabled": true,
+      "class": "live-small",
+      "display_name": "penghu-info",
+      "home_url": "https://penghu.info/",
+      "sitemap_urls": [
+        "https://penghu.info/sitemap.xml"
+      ],
+      "seed_urls": [
+        "https://penghu.info/"
+      ],
+      "url_include_regex": null,
+      "url_exclude_regex": "wp-admin|cart|login",
+      "event_path_regex": "/event/",
+      "max_urls_per_poll": 40,
+      "cadence_days": 7,
+      "tier2_glob": "knowledge/web-archives/penghu-info*.md",
+      "manifest": "knowledge/web-archives/penghu-info-MANIFEST.json",
+      "source_hub": "content/sources/penghu-info.md",
+      "primary_pages": [
+        "content/organizations/penghu-info.md"
+      ],
+      "entities_sheet": "knowledge/research/penghu-info-entities.md",
+      "auto_apply": [
+        "tier2_append",
+        "last_reviewed",
+        "event_stub"
+      ],
+      "notes": "added via CLI",
       "added": "2026-08-22",
       "removed": null
     }

@@ -223,6 +223,7 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 ### P {#p}
 
 - [Paramitas Foundation](./paramitas-foundation)
+- [Penghu.info 平台（澎湖知識服務／澎湖記憶庫）](./penghu-info)
 - [Penn Taiwanese Society](./penn-taiwanese-society)
 - [Penn Taiwanese Student Association](./penn-taiwanese-student-association)
 - [Pine Green Institutes (松青學院)](./pine-green-institutes)
