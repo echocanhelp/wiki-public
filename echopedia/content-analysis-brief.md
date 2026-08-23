@@ -2,7 +2,7 @@
 - Standards v10
 - Pages scanned: **4** with findings
 - Auto-queued for remediation: **1** (score ≥ 3)
-- Wall time: 1.14s
+- Wall time: 1.19s
 
 ### Top 10 pages needing attention:
 - `organizations/penghu-info.md` score=3 — LINKS_NO_RELATED, STRUCT_NO_HISTORY, STRUCT_NO_RELATED

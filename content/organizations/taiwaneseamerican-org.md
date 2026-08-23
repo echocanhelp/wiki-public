@@ -11,7 +11,7 @@ tags:
   - story-corpus
 website: https://www.taiwaneseamerican.org/
 verification_status: pending
-last_reviewed: 2026-08-20
+last_reviewed: 2026-08-23
 ---
 # TaiwaneseAmerican.org
 

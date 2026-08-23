@@ -39,7 +39,7 @@
 - `people/rev-sheng-to-shih.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/sam-wei-chih-sun.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/susan-shu-ai-tsai.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/ho-chie-tsai.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/cai-weiren.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/mingyuan-hsu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/chen-hui-chen.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 
 Fail-closed first-mention is AUTO (janitor). HOLD leftover ≠ human body-link batch.

@@ -27,7 +27,7 @@ Per the 2025/26 執委 letter on ntpc-usa.org:
 
 > **副主席：陳慧貞長老(中原區)2028 年屆滿**
 
-She is the Treasurer for the NTPC Historical Committee's 2025 republication of *Toward A Community of Hope*. The 2026 invitation states: "敬請各教會將今年度 NTPC 年費(禮拜人數 50人以下$100，禮拜人數 100 人以上$300，較大教會請增加。)請寄支票給會計陳慧貞長老 1429 Wembley CT. NE., Atlanta, GA 30329。"
+She is the Treasurer for the NTPC Historical Committee's 2025 republication of *[[sources/toward-a-community-of-hope|Toward A Community of Hope]]*. The 2026 invitation states: "敬請各教會將今年度 NTPC 年費(禮拜人數 50人以下$100，禮拜人數 100 人以上$300，較大教會請增加。)請寄支票給會計陳慧貞長老 1429 Wembley CT. NE., Atlanta, GA 30329。"
 
 ## Related Pages
 

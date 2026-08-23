@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-08-23 03:33 PDT*
+*Generated: 2026-08-23 07:17 PDT*
 
 ## Orientation
 - **Entry:** go <plain language> via go-router (auto-route) · **Control:** [CONTROL.md](CONTROL.md)
@@ -14,14 +14,14 @@
 - **Level:** L3
 - **L2 auto-publish on drift:** True
 - **L3 auto-push when green:** True
-- **Last good deploy:** `914796f0f6`
+- **Last good deploy:** `6ae98a09a7`
 - **Last night (ledger):** first-mention 2 page(s) · analyzer scanned 1652 queued 34 suppressed 29 · 🟡 QUEUE janitor HOLD leftover 40 · 🟡 QUEUE kanban blocked 5
 - **Track SSOT:** `knowledge/operational/intelligence/autonomy-ledger.json`
 
 ## Content
 |- **Tier1 pages:** 2848 (people 2402 / orgs 429 / sources 17) · Tier2 archive: 29103
-|- **Janitor queue depth:** 74
-|- **Uncommitted files:** 3883
+|- **Janitor queue depth:** 41
+|- **Uncommitted files:** 6170
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 || Stage | Script | Last run | Output |
@@ -61,22 +61,22 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-08-22T08:15:19.846113-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-08-23T03:33:04.064440-07:00  ok
+    Last run:  2026-08-23T07:17:07.798707-07:00  ok
     Name:      Echopedia content analysis
     Schedule:  10 1 * * *
     Last run:  2026-08-23T01:11:00.052406-07:00  ok
     Name:      unified-watchdog
     Schedule:  every 30m
-    Last run:  2026-08-23T03:06:04.363831-07:00  ok
+    Last run:  2026-08-23T07:07:08.184723-07:00  ok
     Name:      echopedia-digest
     Schedule:  20 6 * * *
-    Last run:  2026-08-22T06:20:59.930639-07:00  ok
+    Last run:  2026-08-23T06:20:07.102584-07:00  ok
     Name:      kanban-sync
     Schedule:  every 30m
-    Last run:  2026-08-23T03:18:04.660637-07:00  ok
+    Last run:  2026-08-23T06:51:06.939509-07:00  ok
     Name:      memory-audit
     Schedule:  30 6 * * *
-    Last run:  2026-08-22T06:30:59.099386-07:00  ok
+    Last run:  2026-08-23T06:30:06.251977-07:00  ok
     Name:      echopedia-nightly-audit
     Schedule:  15 1 * * *
     Last run:  2026-08-23T01:19:34.795639-07:00  ok
@@ -88,10 +88,10 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-08-16T07:28:56.895128-07:00  ok
     Name:      echopedia-ci-heal
     Schedule:  30 3 * * *
-    Last run:  2026-08-22T03:34:22.463738-07:00  ok
+    Last run:  2026-08-23T03:33:36.628201-07:00  ok
     Name:      echopedia-site-design
     Schedule:  45 3 * * *
-    Last run:  2026-08-22T03:45:57.186442-07:00  ok
+    Last run:  2026-08-23T03:45:05.339046-07:00  ok
     Name:      vault-search-index-rebuild
 ```
 
@@ -107,7 +107,7 @@ Load skill **echopedia-ops** first for any wiki work.
 |----------|-----|------|----|------|--------|
 | 0 2 * * * | `echopedia-extract-actions` | no_agent | on | ok | `echopedia-extract-actions.py` |
 | 0 3 * * * | `echopedia-timeline-builder` | no_agent | on | ok | `echopedia-timeline-builder-cron.sh` |
-| 0 6 * * * | `cron-audit` | no_agent | on | ok | `cron-audit.py` |
+| 0 6 * * * | `cron-audit` | no_agent | on | error | `cron-audit.py` |
 | 0 7 * * 0 | `echopedia-source-continuity` | no_agent | on | ok | `echopedia-source-continuity.sh` |
 | 10 1 * * * | `Echopedia content analysis` | no_agent | on | ok | `echopedia-content-analysis-cron.sh` |
 | 10 2 * * * | `echopedia-evaluate-actions` | no_agent | on | ok | `echopedia-evaluate-actions.py` |
@@ -125,7 +125,7 @@ Load skill **echopedia-ops** first for any wiki work.
 | 30 6 * * * | `memory-audit` | no_agent | on | ok | `memory-audit.sh` |
 | 40 1 * * * | `echopedia-scout-live` | no_agent | on | ok | `echopedia-scout-live.sh` |
 | 40 2 * * * | `echopedia-quote-extractor` | no_agent | on | ok | `echopedia-quote-extractor-cron.sh` |
-| 40 6 * * * | `cron-self-audit` | no_agent | on | ok | `cron-self-audit.py` |
+| 40 6 * * * | `cron-self-audit` | no_agent | on | error | `cron-self-audit.py` |
 | 45 3 * * * | `echopedia-site-design` | no_agent | on | ok | `echopedia-site-design-wrapper.sh` |
 | 50 1 * * * | `echopedia-backlink-auditor` | no_agent | on | ok | `echopedia-backlink-auditor-cron.sh` |
 | 50 7 * * * | `echopedia-tier1-sweep` | AGENT | on | — | `echopedia-tier1-sweep.sh` |

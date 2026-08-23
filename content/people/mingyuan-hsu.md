@@ -17,7 +17,7 @@ last_reviewed: 2026-08-17
 
 **Rev. Mingyuan Hsu (許明遠牧師)** is the full-time pastor of [[organizations/good-shepherd-taiwanese-presbyterian-church|GSTPC]] (July 2019–present) and a Minister of Word and Sacrament in Los Ranchos Presbytery, PC(USA). He wrote a foreword for the 2025 republication of [[sources/toward-a-community-of-hope|Toward A Community of Hope]] and, in 2023, brought [[people/pinghsi-liu|Rev. Pinghsi Liu (劉炳熹)]] into that translation project.
 
-Not [[people/ashton-hsu|Ashton Hsu]]. Not [[people/hsu-hsin-hung|Hsu Hsin-hung (徐新宏)]]. ITPC’s “Dr. 許明遠” book-launch line is a different name-string unless a 漢名 match is shown.
+Not [[people/ashton-hsu|Ashton Hsu]]. Not [[people/hsu-hsin-hung|Hsu Hsin-hung (徐新宏)]]. [[organizations/irvine-taiwanese-presbyterian-church|ITPC]]’s “Dr. 許明遠” book-launch line is a different name-string unless a 漢名 match is shown.
 
 ## Identity Snapshot
 - **English:** Rev. Ming Yuan Hsu / Mingyuan Hsu
@@ -62,7 +62,7 @@ Predecessor listed by TAH: [[people/david-huang|Rev. David Huang (黃德利)]], 
 
 Lai on the approach:
 
-> “When my esteemed Rev. Mingyuan Hsu of the Los Angeles Good Shepherd Presbyterian Church in Taiwan informed me that Rev. Pinghsi Liu and his team from the Tainan East Gate Barclay Memorial Church were interested in my dissertation…”
+> “When my esteemed Rev. Mingyuan Hsu of the Los Angeles Good Shepherd [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]] informed me that Rev. Pinghsi Liu and his team from the Tainan East Gate Barclay Memorial Church were interested in my dissertation…”
 >
 > — [[people/albert-s-lai|Albert S. Lai]]
 
@@ -110,6 +110,21 @@ Pages that link to **mingyuan-hsu** (mingyuan-hsu):
 ### Sources (1)
 
 1. [[sources/toward-a-community-of-hope|toward-a-community-of-hope]]
+
+## Related Pages
+
+- [[organizations/good-shepherd-taiwanese-presbyterian-church]]
+- [[sources/toward-a-community-of-hope]]
+- [[people/pinghsi-liu]]
+- [[people/ashton-hsu]]
+- [[people/hsu-hsin-hung]]
+- [[people/david-huang]]
+- [[people/albert-s-lai]]
+- [[people/alexander-macdonald]]
+- [[people/ching-fang-chen]]
+- [[people/en-sheng-pan]]
+- [[people/index]]
+- [[people/ntpc]]
 
 ## Sources
 1. [GSTPC — 神的牧者 / Our Pastor](https://gstpc.org/home/our-pastor/)

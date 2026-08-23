@@ -7,7 +7,7 @@ tags:
   - story-corpus
   - Taiwanese-American
 verification_status: pending
-last_reviewed: 2026-08-20
+last_reviewed: 2026-08-23
 ---
 # taiwaneseamerican.org
 

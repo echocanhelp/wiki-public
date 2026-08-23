@@ -14,8 +14,8 @@
       "baseline": true
     },
     "https://gstpc.org/home/feed/": {
-      "hash": "62a69d5846967575f9e53f8fbdc5ae97",
-      "len": 40868,
+      "hash": "903fa0001da9552e156e76635659730d",
+      "len": 41939,
       "code": 200,
       "baseline": false
     },
@@ -252,8 +252,14 @@
       "len": 26493,
       "code": 200,
       "baseline": false
+    },
+    "https://gstpc.org/home/08-23-2026-sunday-bulletin/": {
+      "hash": "db96fb3d0d726cc79aee6164e4ad4ea1",
+      "len": 24848,
+      "code": 200,
+      "baseline": false
     }
   },
-  "last_poll": "2026-08-20T17:19:14Z",
+  "last_poll": "2026-08-23T14:01:07Z",
   "baseline_at": "2026-08-09T21:02:05Z"
 }

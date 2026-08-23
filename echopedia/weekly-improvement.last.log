@@ -1,1 +1,8 @@
-=== weekly improvement 2026-08-20 ===
+=== weekly improvement 2026-08-23 ===
+IMPROVE_BRIEF: /home/leedt/echo-system/echopedia/improvement-brief.md
+IMPROVE_STATUS: OK
+CI: ops-check WARN
+CI: queue-drain done
+CI: publishing to heal drift
+CI: site-design ACTION
+CI: smoke OK

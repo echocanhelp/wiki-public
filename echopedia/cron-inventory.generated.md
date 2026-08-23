@@ -3,7 +3,7 @@
 |----------|-----|------|----|------|--------|
 | 0 2 * * * | `echopedia-extract-actions` | no_agent | on | ok | `echopedia-extract-actions.py` |
 | 0 3 * * * | `echopedia-timeline-builder` | no_agent | on | ok | `echopedia-timeline-builder-cron.sh` |
-| 0 6 * * * | `cron-audit` | no_agent | on | ok | `cron-audit.py` |
+| 0 6 * * * | `cron-audit` | no_agent | on | error | `cron-audit.py` |
 | 0 7 * * 0 | `echopedia-source-continuity` | no_agent | on | ok | `echopedia-source-continuity.sh` |
 | 10 1 * * * | `Echopedia content analysis` | no_agent | on | ok | `echopedia-content-analysis-cron.sh` |
 | 10 2 * * * | `echopedia-evaluate-actions` | no_agent | on | ok | `echopedia-evaluate-actions.py` |
@@ -21,7 +21,7 @@
 | 30 6 * * * | `memory-audit` | no_agent | on | ok | `memory-audit.sh` |
 | 40 1 * * * | `echopedia-scout-live` | no_agent | on | ok | `echopedia-scout-live.sh` |
 | 40 2 * * * | `echopedia-quote-extractor` | no_agent | on | ok | `echopedia-quote-extractor-cron.sh` |
-| 40 6 * * * | `cron-self-audit` | no_agent | on | ok | `cron-self-audit.py` |
+| 40 6 * * * | `cron-self-audit` | no_agent | on | error | `cron-self-audit.py` |
 | 45 3 * * * | `echopedia-site-design` | no_agent | on | ok | `echopedia-site-design-wrapper.sh` |
 | 50 1 * * * | `echopedia-backlink-auditor` | no_agent | on | ok | `echopedia-backlink-auditor-cron.sh` |
 | 50 7 * * * | `echopedia-tier1-sweep` | AGENT | on | — | `echopedia-tier1-sweep.sh` |
