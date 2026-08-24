@@ -1,18 +1,24 @@
 {
-  "version": 1,
-  "updated": "2026-08-18",
-  "note": "Public English / TAHS preferred spelling. Not Hanyu Pinyin. Slug rename only when inbound_wikilinks < max_inbound_for_slug_rename. Hokkien (POJ / Tâi-lô) is optional snapshot only — never slug, never mass-fill, never invent from a converter.",
+  "version": 2,
+  "updated": "2026-08-24",
+  "note": "Public English / TAHS preferred spelling. Not Hanyu Pinyin. Slug rename only when inbound_wikilinks < max_inbound_for_slug_rename. Taigi default = Tâi-lô via 萌典 /t/. POJ only for church/historical-religious named sources. Never slug, never mass-fill, never invent from a converter.",
   "hokkien": {
-    "default": "omit",
+    "default": "tailo",
+    "taigi_means": "tailo",
     "slug": "never",
-    "require": "named-source",
+    "person_names": "hold",
+    "require_poj": "named-church-or-historical-religious-source",
     "church_historical": "poj",
     "moe_language": "tailo",
+    "moe_ssot": "https://www.moedict.tw/t/<詞>.json",
+    "moe_field": "h[].T",
+    "lookup_trs": "https://www.moedict.tw/lookup/trs/<tailo>",
+    "verify": "python3 ~/echo-system/scripts/moedict-ssot.py",
     "one_system_per_page": true,
     "mix_forbidden": true,
     "converter_invent": false,
     "audit_scope": "pinyin-vs-preferred-en",
-    "label": "Identity Snapshot field POJ: or Tâi-lô: — omit if unknown"
+    "label": "Identity Snapshot: Tâi-lô: (default) or POJ: (church/historical only)"
   },
   "max_inbound_for_slug_rename": 20,
   "people": {

@@ -93,55 +93,55 @@ The artist the comics will remember
 
 </details>
 
-**Tân Siān-tiat (Taigi / POJ)** · music · taigi · 2026-08-24 · 2:37
+**Shante Shaw Sean Chen (Taigi / Tâi-lô)** · music · zh-TW · 2026-08-24 · 1:45
 
 - Download: [shante-shawsean-chen-song-taigi.mp3](../media/shante-shawsean-chen-song-taigi.mp3)
 
 <audio controls preload="none" src="../media/shante-shawsean-chen-song-taigi.mp3">
-Tân Siān-tiat — Echo Resonance (Taigi)
+Shante Shaw Sean Chen — Echo Resonance (Taigi / Tâi-lô)
 </audio>
 
 <details>
-<summary>Lyrics (Taigi / POJ)</summary>
+<summary>Lyrics (Taigi / Tâi-lô)</summary>
 
 ```
 [Intro]
-Báng-gah ti chhiunn-thau
-Pit-chhau teh poe
+Marvel tī tshiûnn thâu
+tsheh á teh pue
 
 [Verse]
-Tui Hoa-seng-tun khí-sin
-Tân Siān-tiat, i e mia
-Kha-nái-ki Bî-lûn, siat-kè e chhiú
-Chheh-á bang chiâⁿ chin
+tùi Washington khí-sin
+Shante, i ê miâ
+Carnegie Mellon, siat-kè ê tshiú
+tsheh á bāng tsiânn tsin-si̍t
 
 [Chorus]
-Tân Siān-tiat, Tân Siān-tiat
-Ia-thih-lâng, Sin-chheⁿ-lâng
-Tâi-bí e gē-su, uì pâi-á kng
-Phian-phian sek-chhái, kiô kàu thiⁿ-kng
+Shante, Shante
+kǹg-thih lâng, sin tshinn lâng
+Tâi Bí ê gē-su̍t, uì pâi-á kng
+phian-phian sik-tshái, kiô kàu thinn-kng
 
 [Bridge]
-Ka-têng ti pinn-á
-Chhiú-lō͘ bē hioh
-Marvel e chheh-á
+ka-tîng tī pinn-á
+tshiú-lōo bē hioh
+Marvel ê tsheh á
 I iáu teh siá
 
 [Outro]
-Tân Siān-tiat
-Ki-ek lâu tī pâi-á
+Shante
+kì-ik lâu tī pâi-á
 ```
 
 </details>
 
-**朗讀 (萌典 / 教育部 台語官方音，非歌唱)** · speech · taigi · 2026-08-24 · 0:29
+**朗讀 (萌典 / 教育部 台語官方音，非歌唱)** · speech · taigi · 2026-08-24 · 0:51
 
-Official spoken clips stitched from [萌典台語](https://www.moedict.tw/) — the listen teacher, not HeartMuLa. Coverage 21/26 content words. **陳善哲** is HOLD (name ≠ dictionary).
+Official spoken clips stitched from [萌典台語](https://www.moedict.tw/) — the listen teacher, not HeartMuLa. Coverage 39/41 content words (95.1%). Misses: 咧, 袂 (entry, no official clip). **陳善哲** is HOLD (name ≠ dictionary). English tokens Marvel / Washington / Carnegie / Mellon / Shante are proper nouns, not 萌典.
 
 - Download: [shante-shawsean-chen-song-taigi-gold-langdu.mp3](../media/shante-shawsean-chen-song-taigi-gold-langdu.mp3)
 
 <audio controls preload="none" src="../media/shante-shawsean-chen-song-taigi-gold-langdu.mp3">
-Tân Siān-tiat — 朗讀 (萌典)
+Shante Shaw Sean Chen — 朗讀 (萌典)
 </audio>
 
 ## Related Pages

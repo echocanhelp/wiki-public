@@ -20,13 +20,13 @@ Listen below; every piece is listed (not a teaser).
 
 ### Shante Shawsean Chen Song Taigi  <a href="#top">#</a>
 
-- slug: shante-shawsean-chen-song-taigi · kind: MUSIC · language: taigi · produced: 2026-08-24
+- slug: shante-shawsean-chen-song-taigi · kind: MUSIC · language: zh-TW · produced: 2026-08-24
 - link: [[#slug-shante-shawsean-chen-song-taigi|Shante Shawsean Chen Song Taigi]]
 
 - Download: [shante-shawsean-chen-song-taigi.mp3](../media/shante-shawsean-chen-song-taigi.mp3)
 
 <audio controls preload="none" src="../media/shante-shawsean-chen-song-taigi.mp3">
-              Shante Shawsean Chen Song Taigi · MUSIC · taigi (2026-08-24)
+              Shante Shawsean Chen Song Taigi · MUSIC · zh-TW (2026-08-24)
             </audio>
 
 ### Shante Shawsean Chen Song  <a href="#top">#</a>
