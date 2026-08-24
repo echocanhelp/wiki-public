@@ -6,6 +6,24 @@
       <description>Last 10 notes on Echopedia</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Stories &amp; historical works</title>
+    <link>https://echocanhelp.github.io/wiki-public/works/</link>
+    <guid>https://echocanhelp.github.io/wiki-public/works/</guid>
+    <description><![CDATA[ Stories &amp; historical works Interviews, oral history, and named-subject features absorbed as Echopedia work pages. ]]></description>
+    <pubDate>Mon, 24 Aug 2026 10:31:49 GMT</pubDate>
+  </item><item>
+    <title>People</title>
+    <link>https://echocanhelp.github.io/wiki-public/people/</link>
+    <guid>https://echocanhelp.github.io/wiki-public/people/</guid>
+    <description><![CDATA[ People Person records in Echopedia. ]]></description>
+    <pubDate>Mon, 24 Aug 2026 10:31:49 GMT</pubDate>
+  </item><item>
+    <title>Organizations</title>
+    <link>https://echocanhelp.github.io/wiki-public/organizations/</link>
+    <guid>https://echocanhelp.github.io/wiki-public/organizations/</guid>
+    <description><![CDATA[ Organizations Organization records in Echopedia — churches, cultural centers, historical societies, and related institutions. ]]></description>
+    <pubDate>Mon, 24 Aug 2026 10:31:49 GMT</pubDate>
+  </item><item>
     <title>Yang Zi-qing (楊子清)</title>
     <link>https://echocanhelp.github.io/wiki-public/people/yang-ziqing</link>
     <guid>https://echocanhelp.github.io/wiki-public/people/yang-ziqing</guid>
@@ -46,24 +64,6 @@
     <link>https://echocanhelp.github.io/wiki-public/people/zhang-xinhui</link>
     <guid>https://echocanhelp.github.io/wiki-public/people/zhang-xinhui</guid>
     <description><![CDATA[ Chang Hsin-hui / 張信惠 Mentioned as a contributor or subject in 2017/2023 taiwanjustice.net publications. ]]></description>
-    <pubDate>Mon, 24 Aug 2026 10:30:16 GMT</pubDate>
-  </item><item>
-    <title>Zhang Xuanxin (張宣信)</title>
-    <link>https://echocanhelp.github.io/wiki-public/people/zhang-xuanxin</link>
-    <guid>https://echocanhelp.github.io/wiki-public/people/zhang-xuanxin</guid>
-    <description><![CDATA[ Zhang Xuanxin (張宣信) Zhang Xuanxin (張宣信) is a member of the Taiwanese American Historical Society community. ]]></description>
-    <pubDate>Mon, 24 Aug 2026 10:30:16 GMT</pubDate>
-  </item><item>
-    <title>Zheng Bingquan (鄭炳全)</title>
-    <link>https://echocanhelp.github.io/wiki-public/people/zheng-bing-quan</link>
-    <guid>https://echocanhelp.github.io/wiki-public/people/zheng-bing-quan</guid>
-    <description><![CDATA[ Zheng Bingquan (鄑炳全) Zheng Bingquan (鄭炳全) is a Taiwanese American community leader and founding member of the Taiwanese American Historical Society (TAHS). ]]></description>
-    <pubDate>Mon, 24 Aug 2026 10:30:16 GMT</pubDate>
-  </item><item>
-    <title>Zheng Bing-quan / 鄭炳全</title>
-    <link>https://echocanhelp.github.io/wiki-public/people/zheng-bingquan</link>
-    <guid>https://echocanhelp.github.io/wiki-public/people/zheng-bingquan</guid>
-    <description><![CDATA[ Zheng Bing-quan / 鄭炳全 Mentioned as a contributor or subject in 2017/2023 taiwanjustice.net publications. ]]></description>
     <pubDate>Mon, 24 Aug 2026 10:30:16 GMT</pubDate>
   </item>
     </channel>
