@@ -56,6 +56,43 @@ AI interpretation from Echopedia facts — **creative, not verified history**. �
 Shante Shaw Sean Chen — Echo Resonance
 </audio>
 
+<details>
+<summary>Lyrics (EN)</summary>
+
+```
+[Intro]
+(Instrumental, playful and bright)
+Yeah, yeah
+Marvel on the wall
+
+[Verse]
+From Washington, D.C. he rose
+A designer with a story untold
+Carnegie Mellon, hands that flew
+Turned sketchbook dreams into something true
+
+[Chorus]
+Shante Shaw Sean Chen!
+Pages come alive, the hero gets his name
+Iron Man, the Nova race
+Taiwanese-American, winning the race
+Panel by panel, color and light
+He draws a bridge from dawn to night
+
+[Bridge]
+Comic book legend, smiling bright
+Iron Man and Nova taking flight
+A family he holds so near
+Chen the artist, we cheer, cheer
+
+[Outro]
+Shante Shaw Sean Chen
+The artist the comics will remember
+(Outro fade)
+```
+
+</details>
+
 **Tân Siān-tiat (Taigi / POJ)** · music · taigi · 2026-08-24 · 2:37
 
 - Download: [shante-shawsean-chen-song-taigi.mp3](../media/shante-shawsean-chen-song-taigi.mp3)
@@ -63,6 +100,39 @@ Shante Shaw Sean Chen — Echo Resonance
 <audio controls preload="none" src="../media/shante-shawsean-chen-song-taigi.mp3">
 Tân Siān-tiat — Echo Resonance (Taigi)
 </audio>
+
+<details>
+<summary>Lyrics (Taigi / POJ)</summary>
+
+```
+[Intro]
+Báng-gah ti chhiunn-thau
+Pit-chhau teh poe
+
+[Verse]
+Tui Hoa-seng-tun khí-sin
+Tân Siān-tiat, i e mia
+Kha-nái-ki Bî-lûn, siat-kè e chhiú
+Chheh-á bang chiâⁿ chin
+
+[Chorus]
+Tân Siān-tiat, Tân Siān-tiat
+Ia-thih-lâng, Sin-chheⁿ-lâng
+Tâi-bí e gē-su, uì pâi-á kng
+Phian-phian sek-chhái, kiô kàu thiⁿ-kng
+
+[Bridge]
+Ka-têng ti pinn-á
+Chhiú-lō͘ bē hioh
+Marvel e chheh-á
+I iáu teh siá
+
+[Outro]
+Tân Siān-tiat
+Ki-ek lâu tī pâi-á
+```
+
+</details>
 
 ## Related Pages
 
