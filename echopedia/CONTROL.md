@@ -29,7 +29,7 @@ Bare messages without `go` on this system are treated the same as `go <message>`
 | website / domain | WEBSITE_INGEST (**class** live-small vs story-corpus) |
 | cron / nightly / job | cron SSOT + docs-sync |
 | publish / ship | P2 / ci-heal |
-| echo resonance / 歲月有聲 / song + publish | go-router → skill **`echo-resonance`** (player + **lyrics**; not a new P#) |
+| echo resonance / 歲月有聲 / song + publish | go-router → skill **`echo-resonance`** (player + lyrics + **萌典 listen**; not a new P#) |
 | build / plan / epic | plan + kanban |
 | turn off push / L3 | standards P6 |
 | media status / llm mode / hard window / emergency laguna | infra-media-* via go-router → `~/ai-services/media-stack` |

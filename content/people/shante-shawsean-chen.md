@@ -134,6 +134,16 @@ Ki-ek lâu tī pâi-á
 
 </details>
 
+**朗讀 (萌典 / 教育部 台語官方音，非歌唱)** · speech · taigi · 2026-08-24 · 0:29
+
+Official spoken clips stitched from [萌典台語](https://www.moedict.tw/) — the listen teacher, not HeartMuLa. Coverage 21/26 content words. **陳善哲** is HOLD (name ≠ dictionary).
+
+- Download: [shante-shawsean-chen-song-taigi-gold-langdu.mp3](../media/shante-shawsean-chen-song-taigi-gold-langdu.mp3)
+
+<audio controls preload="none" src="../media/shante-shawsean-chen-song-taigi-gold-langdu.mp3">
+Tân Siān-tiat — 朗讀 (萌典)
+</audio>
+
 ## Related Pages
 
 - [[organizations/tah-foundation|TAH Foundation]]
