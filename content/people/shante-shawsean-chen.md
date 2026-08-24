@@ -56,6 +56,14 @@ AI interpretation from Echopedia facts — **creative, not verified history**. �
 Shante Shaw Sean Chen — Echo Resonance
 </audio>
 
+**Tân Siān-tiat (Taigi / POJ)** · music · taigi · 2026-08-24 · 2:37
+
+- Download: [shante-shawsean-chen-song-taigi.mp3](../media/shante-shawsean-chen-song-taigi.mp3)
+
+<audio controls preload="none" src="../media/shante-shawsean-chen-song-taigi.mp3">
+Tân Siān-tiat — Echo Resonance (Taigi)
+</audio>
+
 ## Related Pages
 
 - [[organizations/tah-foundation|TAH Foundation]]

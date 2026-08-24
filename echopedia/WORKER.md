@@ -189,7 +189,7 @@ Found two relevant mechanisms:
 |----|------|------|-------|
 | P0 | Orient | Don't know state | 1. Read SYSTEM_STATUS.md 2. Read WHERE_WE_ARE.md 3. Report |
 | P1 | Ops/drift/smoke | Check health | 1. `echopedia-ops-check.sh` 2. `echopedia-ci-heal.sh --dry-run` 3. `echopedia-smoke-test.sh` 4. Report |
-| P2 | Publish/deploy | Push to live | 1. `echopedia-publish.sh --push` (directory+works regen→rsync→quartz build→**prepublish linkcheck** (works + people + orgs catalogs must not emit `../<slug>` root 404s)→tree-copy + root index.html + **root `static/contentIndex.json`** copy→featured regen→commit+push→CDN verify) 2. Verify smoke URLs **and** live `static/contentIndex.json` key count 3. Report |
+| P2 | Publish/deploy | Push to live | 1. `echopedia-publish.sh --push` (directory+works regen→**echo-media-regen + content/media/index.md**→rsync→quartz build→**prepublish linkcheck** (works + people + orgs catalogs must not emit `../<slug>` root 404s)→tree-copy including **`public/media/` → repo `media/`** (keep `_manifest.json`) + root index.html + **root `static/contentIndex.json`** copy→featured regen→commit+push→CDN verify) 2. Verify smoke URLs **and** live `static/contentIndex.json` key count 3. Report. **Song+wiki ship is not this playbook** — `go` → skill `echo-resonance`, which ends by calling P2. |
 | P3 | One page links | Fix wikilinks | 1. Read page 2. Find broken wikilinks 3. Repair or redirect 4. Commit only (no publish) 5. Report |
 | P4 | Janitor queue | HOLD leftovers | 1. Read janitor-brief.md 2. Fail-closed first-mention + romanization `--heal` are AUTO 3. Process only HOLD leftovers (not already-linked) 4. Commit 5. Report |
 | P5 | Heal/drift/smoke | Full heal | 1. `echopedia-ci-heal.sh` 2. Verify 3. Report |

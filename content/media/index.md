@@ -18,6 +18,17 @@ Listen below; every piece is listed (not a teaser).
 
 ## Featured pieces
 
+### Shante Shawsean Chen Song Taigi  <a href="#top">#</a>
+
+- slug: shante-shawsean-chen-song-taigi · kind: MUSIC · language: taigi · produced: 2026-08-24
+- link: [[#slug-shante-shawsean-chen-song-taigi|Shante Shawsean Chen Song Taigi]]
+
+- Download: [shante-shawsean-chen-song-taigi.mp3](../media/shante-shawsean-chen-song-taigi.mp3)
+
+<audio controls preload="none" src="../media/shante-shawsean-chen-song-taigi.mp3">
+              Shante Shawsean Chen Song Taigi · MUSIC · taigi (2026-08-24)
+            </audio>
+
 ### Shante Shawsean Chen Song  <a href="#top">#</a>
 
 - slug: shante-shawsean-chen-song · kind: MUSIC · language: en · produced: 2026-08-24
