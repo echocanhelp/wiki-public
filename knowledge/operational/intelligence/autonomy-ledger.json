@@ -1,19 +1,19 @@
 {
-  "date": "2026-08-23",
+  "date": "2026-08-24",
   "standards_version": 10,
   "auto_apply_agent": false,
   "nodes": {
     "janitor.first_mention": {
-      "n": 2,
+      "n": 0,
       "enabled": true
     },
     "janitor.related": {
-      "n": 1
+      "n": 0
     },
     "analyzer": {
-      "scanned": 4,
+      "scanned": 2,
       "queued": 1,
-      "suppressed": 1758
+      "suppressed": 1760
     },
     "enrichment_writes": {
       "n": 0,
@@ -37,19 +37,19 @@
       "first_mention_apply": true
     },
     "cron.fail": [
+      "echopedia-janitor",
       "cron-audit",
       "cron-self-audit"
     ]
   },
   "telegram_auto_lines": [
-    "✅ AUTO first-mention 2 page(s)",
-    "✅ AUTO related-pages 1",
-    "✅ AUTO analyzer scanned 4 queued 1 suppressed 1758",
+    "✅ AUTO analyzer scanned 2 queued 1 suppressed 1760",
     "🟡 QUEUE janitor HOLD leftover 40",
     "🟡 QUEUE kanban blocked 5",
-    "🔴 NEED YOU cron fail: cron-audit, cron-self-audit"
+    "🔴 NEED YOU cron fail: echopedia-janitor, cron-audit, cron-self-audit"
   ],
   "cron_fail_names": [
+    "echopedia-janitor",
     "cron-audit",
     "cron-self-audit"
   ]

@@ -1,4 +1,4 @@
-TAHS · Echopedia morning brief — 2026-08-23
+TAHS · Echopedia morning brief — 2026-08-24
 No owner judgment needed — overnight loop ran clean.
 
 🔴 NEED YOU (your judgment only)
@@ -36,13 +36,11 @@ No owner judgment needed — overnight loop ran clean.
 🟡 QUEUE 5. Link tip: organizations/boston-taiwanese-christian-church.md ↔ organizations/presbyterian-church-in-taiwan.md
 
 ℹ️ SITE (wiki visits; operator self-traffic excluded)
-ℹ️  INFO  wiki 1 visits since cutoff · yday 2026-08-22 = 1 · /people/albert-chapter1-zh-hsiaochen-full-review 1
+ℹ️  INFO  wiki 1 visits since cutoff · yday 2026-08-23 = 0 · /people/albert-chapter1-zh-hsiaochen-full-review 1
 
 ✅ AUTO (overnight — evidence)
-✅ AUTO first-mention 2 page(s)
-✅ AUTO related-pages 1
-✅ AUTO analyzer scanned 4 queued 1 suppressed 1758
+✅ AUTO analyzer scanned 2 queued 1 suppressed 1760
 🟡 QUEUE janitor HOLD leftover 40
 🟡 QUEUE kanban blocked 5
-🔴 NEED YOU cron fail: cron-audit, cron-self-audit
+🔴 NEED YOU cron fail: echopedia-janitor, cron-audit, cron-self-audit
 ℹ️  INFO  only 🔴 NEED YOU requires your reply

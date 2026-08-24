@@ -1,0 +1,14 @@
+import os
+
+SRC = "/home/leedt/echo-system/scripts"
+for name in ["echopedi-regen-works-index.py",
+             "echopedi-regen-directory-index.py",
+             "featured-regen.py"]:
+    path = os.path.join(SRC, name)
+    print("\n\n================== %s ==================" % name)
+    if not os.path.exists(path):
+        print("MISSING:", path)
+        continue
+    with open(path, "r", encoding="utf-8") as f:
+        print(f.read())
+PY_DONE = 1

@@ -1,0 +1,117 @@
+{
+  "version": 1,
+  "brand": "echo-resonance",
+  "name_en": "Echo Resonance",
+  "name_zh": "歲月有聲",
+  "disclaimer": "Echopedia records facts. This piece is an AI interpretation built from those facts — creative, not verified history. Treat it as a story inspired by truth, not a primary source.",
+  "disclaimer_zh": "Echopedia 記錄事實；本作品則據這些事實以 AI 創作，屬藝術詮釋而非查證之史實。請視為源於真實的故事，而非第一手史料。",
+  "interpretation": true,
+  "updated": "2026-08-24T20:36:30Z",
+  "entries": [
+    {
+      "id": "david-lee-song",
+      "slug": "david-lee-song",
+      "kind": "music",
+      "asset": "/home/leedt/media-outputs/jobs/david-lee-song.wav",
+      "size_bytes": 21135404,
+      "language": "zh-TW",
+      "entities": [
+        "people/david-lee.md"
+      ],
+      "source": "heartmula::job::david-lee-song",
+      "interpretation": true,
+      "disclaimer": "",
+      "produced_at": "2026-08-24",
+      "engine": "HeartMuLa",
+      "status": "staged",
+      "mtime": "2026-08-24T04:17:59Z"
+    },
+    {
+      "id": "ken-wu-quote",
+      "slug": "ken-wu-quote",
+      "kind": "narration",
+      "asset": "/home/leedt/media-outputs/jobs/ken-wu-quote.wav",
+      "size_bytes": 606798,
+      "language": "zh-TW",
+      "entities": [
+        "people/david-lee.md"
+      ],
+      "source": "heartmula::job::ken-wu-quote",
+      "interpretation": true,
+      "disclaimer": "",
+      "produced_at": "2026-08-14",
+      "engine": "HeartMuLa",
+      "status": "staged",
+      "mtime": "2026-08-14T21:41:06Z"
+    },
+    {
+      "id": "leonard-go-leonard",
+      "slug": "leonard-go-leonard",
+      "kind": "music",
+      "asset": "/home/leedt/media-outputs/jobs/leonard-go-leonard.wav",
+      "size_bytes": 31011884,
+      "language": "zh-TW",
+      "entities": [],
+      "source": "heartmula::job::leonard-go-leonard",
+      "interpretation": true,
+      "disclaimer": "",
+      "produced_at": "2026-08-24",
+      "engine": "HeartMuLa",
+      "status": "staged",
+      "mtime": "2026-08-24T03:25:45Z"
+    },
+    {
+      "id": "leonard-go-taigi-v2",
+      "slug": "leonard-go-taigi-v2",
+      "kind": "music",
+      "asset": "/home/leedt/media-outputs/jobs/leonard-go-taigi-v2.wav",
+      "size_bytes": 34621484,
+      "language": "zh-TW",
+      "entities": [
+        "people/leonard-hsu-jr.md"
+      ],
+      "source": "heartmula::job::leonard-go-taigi-v2",
+      "interpretation": true,
+      "disclaimer": "",
+      "produced_at": "2026-08-24",
+      "engine": "HeartMuLa",
+      "status": "staged",
+      "mtime": "2026-08-24T15:40:18Z"
+    },
+    {
+      "id": "leonard-go-taigi",
+      "slug": "leonard-go-taigi",
+      "kind": "music",
+      "asset": "/home/leedt/media-outputs/jobs/leonard-go-taigi.wav",
+      "size_bytes": 34575404,
+      "language": "zh-TW",
+      "entities": [
+        "people/leonard-hsu-jr.md"
+      ],
+      "source": "heartmula::job::leonard-go-taigi",
+      "interpretation": true,
+      "disclaimer": "",
+      "produced_at": "2026-08-24",
+      "engine": "HeartMuLa",
+      "status": "staged",
+      "mtime": "2026-08-24T15:17:39Z"
+    },
+    {
+      "id": "shante-shawsean-chen-song",
+      "slug": "shante-shawsean-chen-song",
+      "kind": "music",
+      "asset": "/home/leedt/media-outputs/jobs/shante-shawsean-chen-song.wav",
+      "size_bytes": 19476524,
+      "language": "zh-TW",
+      "entities": [
+        "people/shante-shawsean-chen.md"
+      ],
+      "source": "heartmula::job::shante-shawsean-chen-song",
+      "interpretation": true,
+      "disclaimer": "",
+      "produced_at": "2026-08-24",
+      "engine": "HeartMuLa",
+      "status": "staged"
+    }
+  ]
+}

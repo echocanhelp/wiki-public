@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-08-24
 ---
 # Shante Shaw Sean Chen (陳善哲)
 
@@ -17,7 +17,7 @@ last_reviewed: 2026-08-17
 - **Era:** 1968
 - **Geography:** Washington D.C.
 - **Core roles:** artist
-- **Source:** TAH Foundation Who’s Who
+- **Source:** TAH Foundation Who's Who
 
 Shante Shaw(Sean) Chen 陳善哲 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
@@ -42,8 +42,22 @@ Shante Shaw(Sean) Chen 陳善哲 – History of Taiwanese American (T.A. Archive
 - [TAH #209 encyclopedia: 209. Shante Shaw(Sean) Chen 陳善哲](https://taiwaneseamericanhistory.org/209/)
 - [TAH #61 encyclopedia: 61. 陳善哲 Shante Shaw(Sean) Chen](https://taiwaneseamericanhistory.org/artist61-shante-shawsean-chen/)
 - [TAH #870 encyclopedia: 870. Shante Shaw(Sean) Chen  陳善哲](https://taiwaneseamericanhistory.org/whos-who-870-shante-shaw-chen/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shante-shawsean-chen/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/shante-shawsean-chen/)
+
+## Echo Resonance 歲月有聲
+
+### Shante Shaw Sean Chen  <a href="#top">#</a>
+
+- slug: shante-shawsean-chen-song · kind: MUSIC · language: zh-TW · produced: 2026-08-24
+- link: [[#slug-shante-shawsean-chen-song|Shante Shaw Sean Chen]]
+
+- Download: [shante-shawsean-chen-song.wav](/home/leedt/media-outputs/jobs/shante-shawsean-chen-song.wav)
+
+<audio controls preload="none" src="/home/leedt/media-outputs/jobs/shante-shawsean-chen-song.wav">
+              Shante Shaw Sean Chen
+            </audio>
 
 ## Related Pages
+
 - [[organizations/tah-foundation|TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
