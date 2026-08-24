@@ -1,7 +1,7 @@
 # Connector suggestions (capped top 80)
 
-- co_citation total=1029 kept=80
-- co_mention total=5946 kept=40
+- co_citation total=1031 kept=80
+- co_mention total=5948 kept=40
 - shared_tags total=0 kept=0
 
 ## Top co-citation

@@ -1,12 +1,12 @@
 {
-  "updated": "2026-08-22T08:15:15",
+  "updated": "2026-08-23T08:15:21",
   "nodes": [
     {
       "id": "cron.crons",
       "enabled": true,
       "human": false,
       "ssot": "pinto cron/jobs.json",
-      "count": 26
+      "count": 27
     },
     {
       "id": "janitor.first_mention",
@@ -93,147 +93,147 @@
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-22T03:15:55.184194-07:00"
+      "last_run_at": "2026-08-23T03:15:03.323871-07:00"
     },
     {
       "name": "vault-morning-brief",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-21T08:16:05.135180-07:00"
+      "last_run_at": "2026-08-22T08:15:19.846113-07:00"
     },
     {
       "name": "vllm-thermal-scaler",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-22T08:14:02.293876-07:00"
+      "last_run_at": "2026-08-23T08:15:08.917021-07:00"
     },
     {
       "name": "Echopedia content analysis",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-22T01:10:29.710556-07:00"
+      "last_run_at": "2026-08-23T01:11:00.052406-07:00"
     },
     {
       "name": "unified-watchdog",
       "enabled": true,
       "no_agent": true,
-      "last_status": "error",
-      "last_run_at": "2026-08-22T08:02:02.597101-07:00"
+      "last_status": "ok",
+      "last_run_at": "2026-08-23T08:08:08.295594-07:00"
     },
     {
       "name": "echopedia-digest",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-22T06:20:59.930639-07:00"
+      "last_run_at": "2026-08-23T06:20:07.102584-07:00"
     },
     {
       "name": "kanban-sync",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-22T08:14:01.979118-07:00"
+      "last_run_at": "2026-08-23T07:51:08.141495-07:00"
     },
     {
       "name": "memory-audit",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-22T06:30:59.099386-07:00"
+      "last_run_at": "2026-08-23T06:30:06.251977-07:00"
     },
     {
       "name": "echopedia-nightly-audit",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-22T01:19:10.988792-07:00"
+      "last_run_at": "2026-08-23T01:19:34.795639-07:00"
     },
     {
       "name": "echopedia-janitor",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-22T01:30:40.275516-07:00"
+      "last_run_at": "2026-08-23T01:31:09.919800-07:00"
     },
     {
       "name": "echopedia-weekly-improvement",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-16T07:28:56.895128-07:00"
+      "last_run_at": "2026-08-23T07:19:03.747492-07:00"
     },
     {
       "name": "echopedia-ci-heal",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-22T03:34:22.463738-07:00"
+      "last_run_at": "2026-08-23T03:33:36.628201-07:00"
     },
     {
       "name": "echopedia-site-design",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-22T03:45:57.186442-07:00"
+      "last_run_at": "2026-08-23T03:45:05.339046-07:00"
     },
     {
       "name": "vault-search-index-rebuild",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-16T05:31:42.763780-07:00"
+      "last_run_at": "2026-08-23T05:30:10.142073-07:00"
     },
     {
       "name": "echopedia-scout-live",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-22T01:40:34.992577-07:00"
+      "last_run_at": "2026-08-23T01:41:04.786451-07:00"
     },
     {
       "name": "echopedia-extract-actions",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-22T02:00:30.138190-07:00"
+      "last_run_at": "2026-08-23T02:00:59.600744-07:00"
     },
     {
       "name": "echopedia-evaluate-actions",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-22T02:10:52.749774-07:00"
+      "last_run_at": "2026-08-23T02:11:00.482663-07:00"
     },
     {
       "name": "echopedia-generate-cards",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-22T02:20:30.605100-07:00"
+      "last_run_at": "2026-08-23T02:21:00.022863-07:00"
     },
     {
       "name": "echopedia-docs-sync",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-22T06:10:58.888376-07:00"
+      "last_run_at": "2026-08-23T06:10:06.851561-07:00"
     },
     {
       "name": "echopedia-person-works-linker",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-22T02:30:30.166280-07:00"
+      "last_run_at": "2026-08-23T02:30:59.570769-07:00"
     },
     {
       "name": "cron-audit",
       "enabled": true,
       "no_agent": true,
-      "last_status": "ok",
-      "last_run_at": "2026-08-22T06:00:58.606387-07:00"
+      "last_status": "error",
+      "last_run_at": "2026-08-23T06:00:06.574162-07:00"
     },
     {
       "name": "echopedia-timeline-builder",
@@ -247,28 +247,35 @@
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-22T02:41:17.463368-07:00"
+      "last_run_at": "2026-08-23T02:41:46.228188-07:00"
     },
     {
       "name": "echopedia-backlink-auditor",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-22T01:50:28.980248-07:00"
+      "last_run_at": "2026-08-23T01:50:58.535893-07:00"
     },
     {
       "name": "cron-self-audit",
       "enabled": true,
       "no_agent": true,
-      "last_status": "ok",
-      "last_run_at": "2026-08-22T06:41:30.275820-07:00"
+      "last_status": "error",
+      "last_run_at": "2026-08-23T06:40:45.071646-07:00"
     },
     {
       "name": "echopedia-source-continuity",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-20T10:21:30-07:00"
+      "last_run_at": "2026-08-23T07:09:32.591811-07:00"
+    },
+    {
+      "name": "echopedia-tier1-sweep",
+      "enabled": true,
+      "no_agent": false,
+      "last_status": "ok",
+      "last_run_at": "2026-08-23T07:50:07.882260-07:00"
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-08-23 07:18 PDT*
+*Generated: 2026-08-23 07:19 PDT*
 
 ## Orientation
 - **Entry:** go <plain language> via go-router (auto-route) · **Control:** [CONTROL.md](CONTROL.md)
@@ -14,14 +14,14 @@
 - **Level:** L3
 - **L2 auto-publish on drift:** True
 - **L3 auto-push when green:** True
-- **Last good deploy:** `6ae98a09a7`
+- **Last good deploy:** `5c17c2fc28`
 - **Last night (ledger):** first-mention 2 page(s) · analyzer scanned 1652 queued 34 suppressed 29 · 🟡 QUEUE janitor HOLD leftover 40 · 🟡 QUEUE kanban blocked 5
 - **Track SSOT:** `knowledge/operational/intelligence/autonomy-ledger.json`
 
 ## Content
 |- **Tier1 pages:** 2848 (people 2402 / orgs 429 / sources 17) · Tier2 archive: 29103
 |- **Janitor queue depth:** 41
-|- **Uncommitted files:** 3890
+|- **Uncommitted files:** 2421
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 || Stage | Script | Last run | Output |
@@ -128,7 +128,7 @@ Load skill **echopedia-ops** first for any wiki work.
 | 40 6 * * * | `cron-self-audit` | no_agent | on | error | `cron-self-audit.py` |
 | 45 3 * * * | `echopedia-site-design` | no_agent | on | ok | `echopedia-site-design-wrapper.sh` |
 | 50 1 * * * | `echopedia-backlink-auditor` | no_agent | on | ok | `echopedia-backlink-auditor-cron.sh` |
-| 50 7 * * * | `echopedia-tier1-sweep` | AGENT | on | — | `echopedia-tier1-sweep.sh` |
+| 50 7 * * * | `echopedia-tier1-sweep` | AGENT | on | ok | `echopedia-tier1-sweep.sh` |
 | every 1m | `vllm-thermal-scaler` | no_agent | on | ok | `vllm-thermal-scaler.sh` |
 | every 30m | `kanban-sync` | no_agent | on | ok | `kanban-sync.sh` |
 | every 30m | `unified-watchdog` | no_agent | on | ok | `unified-watchdog.sh` |

@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "standards_version": 10,
   "auto_apply_agent": false,
   "nodes": {
@@ -8,12 +8,12 @@
       "enabled": true
     },
     "janitor.related": {
-      "n": 0
+      "n": 1
     },
     "analyzer": {
-      "scanned": 1652,
-      "queued": 34,
-      "suppressed": 29
+      "scanned": 4,
+      "queued": 1,
+      "suppressed": 1758
     },
     "enrichment_writes": {
       "n": 0,
@@ -36,13 +36,21 @@
       "auto_apply_agent": false,
       "first_mention_apply": true
     },
-    "cron.fail": []
+    "cron.fail": [
+      "cron-audit",
+      "cron-self-audit"
+    ]
   },
   "telegram_auto_lines": [
     "✅ AUTO first-mention 2 page(s)",
-    "✅ AUTO analyzer scanned 1652 queued 34 suppressed 29",
+    "✅ AUTO related-pages 1",
+    "✅ AUTO analyzer scanned 4 queued 1 suppressed 1758",
     "🟡 QUEUE janitor HOLD leftover 40",
-    "🟡 QUEUE kanban blocked 5"
+    "🟡 QUEUE kanban blocked 5",
+    "🔴 NEED YOU cron fail: cron-audit, cron-self-audit"
   ],
-  "cron_fail_names": []
+  "cron_fail_names": [
+    "cron-audit",
+    "cron-self-audit"
+  ]
 }

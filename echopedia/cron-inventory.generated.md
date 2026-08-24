@@ -24,7 +24,7 @@
 | 40 6 * * * | `cron-self-audit` | no_agent | on | error | `cron-self-audit.py` |
 | 45 3 * * * | `echopedia-site-design` | no_agent | on | ok | `echopedia-site-design-wrapper.sh` |
 | 50 1 * * * | `echopedia-backlink-auditor` | no_agent | on | ok | `echopedia-backlink-auditor-cron.sh` |
-| 50 7 * * * | `echopedia-tier1-sweep` | AGENT | on | — | `echopedia-tier1-sweep.sh` |
+| 50 7 * * * | `echopedia-tier1-sweep` | AGENT | on | ok | `echopedia-tier1-sweep.sh` |
 | every 1m | `vllm-thermal-scaler` | no_agent | on | ok | `vllm-thermal-scaler.sh` |
 | every 30m | `kanban-sync` | no_agent | on | ok | `kanban-sync.sh` |
 | every 30m | `unified-watchdog` | no_agent | on | ok | `unified-watchdog.sh` |

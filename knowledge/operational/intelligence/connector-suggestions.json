@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-22T08:15:15.102451",
-  "pages_scanned": 2857,
+  "generated_at": "2026-08-23T08:15:21.565214",
+  "pages_scanned": 2859,
   "capped": true,
   "cap_top_n": 80,
   "summary": {
-    "co_citation_count": 1029,
-    "co_mention_count": 5946,
+    "co_citation_count": 1031,
+    "co_mention_count": 5948,
     "shared_tags_count": 0,
     "orphan_folder_count": 2,
     "kept_co_citation": 80,
@@ -102,7 +102,7 @@
         "shared_target": "organizations/presbyterian-church-in-taiwan",
         "page1_title": "Chunglun Presbyterian Church (中崙教會)",
         "page2_title": "Elder John Lai's Archives (賴永祥長老史料庫)",
-        "shared_targets_count": 106
+        "shared_targets_count": 107
       },
       {
         "type": "CO-CITATION",
@@ -111,7 +111,7 @@
         "shared_target": "organizations/presbyterian-church-in-taiwan",
         "page1_title": "Chunglun Presbyterian Church (中崙教會)",
         "page2_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "shared_targets_count": 106
+        "shared_targets_count": 107
       },
       {
         "type": "CO-CITATION",
@@ -120,7 +120,7 @@
         "shared_target": "organizations/presbyterian-church-in-taiwan",
         "page1_title": "Chunglun Presbyterian Church (中崙教會)",
         "page2_title": "Good Shepherd Taiwanese Presbyterian Church",
-        "shared_targets_count": 106
+        "shared_targets_count": 107
       },
       {
         "type": "CO-CITATION",
@@ -129,7 +129,7 @@
         "shared_target": "people/pinghsi-liu",
         "page1_title": "Chunglun Presbyterian Church (中崙教會)",
         "page2_title": "National Taiwanese Presbyterian Council (NTPC)",
-        "shared_targets_count": 27
+        "shared_targets_count": 28
       },
       {
         "type": "CO-CITATION",
@@ -138,7 +138,7 @@
         "shared_target": "people/pinghsi-liu",
         "page1_title": "Chunglun Presbyterian Church (中崙教會)",
         "page2_title": "Tainan East Gate Barclay Memorial Church (東門巴克禮紀念教會)",
-        "shared_targets_count": 27
+        "shared_targets_count": 28
       },
       {
         "type": "CO-CITATION",
@@ -147,7 +147,7 @@
         "shared_target": "people/pinghsi-liu",
         "page1_title": "Chunglun Presbyterian Church (中崙教會)",
         "page2_title": "TPC — Taiwanese Presbyterian Churches (not PCT)",
-        "shared_targets_count": 27
+        "shared_targets_count": 28
       },
       {
         "type": "CO-CITATION",
@@ -318,7 +318,7 @@
         "shared_target": "sources/toward-a-community-of-hope",
         "page1_title": "Democratic Progressive Party (民主進步黨)",
         "page2_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "shared_targets_count": 71
+        "shared_targets_count": 73
       },
       {
         "type": "CO-CITATION",
@@ -327,7 +327,7 @@
         "shared_target": "sources/toward-a-community-of-hope",
         "page1_title": "Democratic Progressive Party (民主進步黨)",
         "page2_title": "National Taiwanese Presbyterian Council (NTPC)",
-        "shared_targets_count": 71
+        "shared_targets_count": 73
       },
       {
         "type": "CO-CITATION",
@@ -336,7 +336,7 @@
         "shared_target": "sources/toward-a-community-of-hope",
         "page1_title": "Democratic Progressive Party (民主進步黨)",
         "page2_title": "Albert EN SKU A audiobook scratch — full book review",
-        "shared_targets_count": 71
+        "shared_targets_count": 73
       },
       {
         "type": "CO-CITATION",
@@ -345,7 +345,7 @@
         "shared_target": "people/albert-s-lai",
         "page1_title": "Democratic Progressive Party (民主進步黨)",
         "page2_title": "Albert ch.1 audiobook consent kit",
-        "shared_targets_count": 128
+        "shared_targets_count": 129
       },
       {
         "type": "CO-CITATION",
@@ -426,16 +426,16 @@
         "shared_target": "people/hsu-ling-yun",
         "page1_title": "Elder John Lai's Archives (賴永祥長老史料庫)",
         "page2_title": "Hsu Ling-yun Xiucai Memorial Hall (許凌雲秀才紀念館)",
-        "shared_targets_count": 11
+        "shared_targets_count": 14
       },
       {
         "type": "CO-CITATION",
         "page1": "organizations/elder-john-lai-archives.md",
-        "page2": "people/hsu-ching-chun.md",
+        "page2": "organizations/penghu-info.md",
         "shared_target": "people/hsu-ling-yun",
         "page1_title": "Elder John Lai's Archives (賴永祥長老史料庫)",
-        "page2_title": "Hsu Ching-chun (許景淳)",
-        "shared_targets_count": 11
+        "page2_title": "Penghu.info 平台（澎湖知識服務／澎湖記憶庫）",
+        "shared_targets_count": 14
       },
       {
         "type": "CO-CITATION",
@@ -516,7 +516,7 @@
         "shared_target": "organizations/good-shepherd-taiwanese-presbyterian-church",
         "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
         "page2_title": "Irvine Taiwanese Presbyterian Church (爾灣台灣基督長老教會 (ITPC))",
-        "shared_targets_count": 52
+        "shared_targets_count": 54
       },
       {
         "type": "CO-CITATION",
@@ -525,7 +525,7 @@
         "shared_target": "organizations/good-shepherd-taiwanese-presbyterian-church",
         "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
         "page2_title": "National Taiwanese Presbyterian Council (NTPC)",
-        "shared_targets_count": 52
+        "shared_targets_count": 54
       },
       {
         "type": "CO-CITATION",
@@ -534,7 +534,7 @@
         "shared_target": "organizations/good-shepherd-taiwanese-presbyterian-church",
         "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
         "page2_title": "Presbyterian Church in Taiwan (PCT)",
-        "shared_targets_count": 52
+        "shared_targets_count": 54
       },
       {
         "type": "CO-CITATION",
@@ -543,7 +543,7 @@
         "shared_target": "organizations/irvine-taiwanese-presbyterian-church",
         "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
         "page2_title": "Good Shepherd Taiwanese Presbyterian Church",
-        "shared_targets_count": 23
+        "shared_targets_count": 24
       },
       {
         "type": "CO-CITATION",

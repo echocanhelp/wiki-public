@@ -7,7 +7,10 @@ resolves [[people/slug]] — live /people/ shows 2000+ literal wikilinks.
 
 Rules (GitHub Pages project site + CONTROL names lock):
 - Markdown ### A  (never raw <h3>)
-- Sibling links [Title](./slug) — not [[people/slug]], not /people/slug
+- Sibling links [[kind/slug|Title]] full wikilinks — Quartz resolves these from
+  any depth. Relative ./slug is rewritten to ../slug by Quartz pathToRoot, which
+  escapes the /people/ folder and 404s at /wiki-public/slug. Same fix that healed
+  works/index.md: full wikilinks, no relative ./slug.
 - Labels from dest frontmatter title / name_zh — never %e5 URL encoding
 - Skip index.md, type:index, echo:scratch, audiobook-review leaks
 """
@@ -67,7 +70,7 @@ def parse_page(path: Path) -> dict | None:
 
 def letter_of(title: str) -> str:
     for ch in title:
-        if ch.isalpha():
+        if ch.isascii() and ch.isalpha():
             return ch.upper()
     return "#"
 
@@ -109,8 +112,10 @@ def render(kind: str, heading: str, blurb: str, rows: list[dict]) -> str:
         parts.append(f"### {c} {{#{hid}}}")
         parts.append("")
         for r in sorted(by[c], key=lambda x: x["title"].casefold()):
-            # sibling ./slug — Quartz + GH Pages /people/
-            parts.append(f"- [{r['title']}](./{r['slug']})")
+            # Full wikilink [[kind/slug|title]] — Quartz resolves from any depth
+            # under /wiki-public/. Relative ./slug becomes ../slug (Quartz
+            # pathToRoot) and 404s; full wikilink is the proven fix (works/).
+            parts.append(f"[[{kind}/{r['slug']}|{r['title']}]]")
         parts.append("")
     return "\n".join(parts).rstrip() + "\n"
 
@@ -148,11 +153,13 @@ def main() -> int:
     kinds = ["people", "organizations"] if args.only == "both" else [args.only]
     for k in kinds:
         n, path = regen_one(k)
-        leftover = path.read_text(encoding="utf-8").count("[[")
-        raw_h3 = path.read_text(encoding="utf-8").count("<h3")
-        print(f"REGEN_DIR: {k} n={n} leftover_wikilink={leftover} raw_h3={raw_h3} -> {path}")
-        if leftover or raw_h3:
-            print(f"REGEN_DIR_FAIL: {k} still has wiki/html headings", file=sys.stderr)
+        text = path.read_text(encoding="utf-8")
+        leftover_raw_h3 = text.count("<h3")
+        # Full wikilinks [[kind/slug|title]] are the intended output now — mirror
+        # works/index.md. Only fail on a raw <h3> reappearing.
+        print(f"REGEN_DIR: {k} n={n} raw_h3={leftover_raw_h3} -> {path}")
+        if leftover_raw_h3:
+            print(f"REGEN_DIR_FAIL: {k} still has raw h3 headings", file=sys.stderr)
             return 1
     return 0
 

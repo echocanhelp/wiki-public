@@ -107,7 +107,7 @@ Times are **local wall clock** on pinto; SSOT: `jobs.json` / SYSTEM_STATUS inven
 | F2 | Featured markers stay in the Recently deepened section, not dumped before `</body>` | Yes → regen in-place only |
 | F3 | Featured cards must have non-empty `<p>` | Yes → quality recency / featured_summary |
 | F4 | `people/index.html` size (flag if >800KB) | No — IA backlog |
-| F5 | `people/index.html` / `organizations/index.html` must not contain leftover `[[wikilink]]` text; directory rows are `[Title](./slug)` from `scripts/echopedia-regen-directory-index.py` (never raw `<h3>` — CommonMark swallows the list) | Yes → regen script before Quartz |
+| F5 | `people/index.html` / `organizations/index.html` must not contain leftover `[[wikilink]]` text or `href="../<slug>"` (no folder — those 404 at site root). Directory rows are `[[kind/slug\|title]]` from `scripts/echopedia-regen-directory-index.py` (never raw `<h3>`, never `./slug` — Quartz `pathToRoot` rewrites `./slug` → `../slug`) | Yes → regen script before Quartz |
 | B2 | `featured: true` count > 12 | Flag HIGH (overflow hides recency) |
 
 ### E. Regression after worker edits (HIGH)
@@ -141,7 +141,7 @@ Times are **local wall clock** on pinto; SSOT: `jobs.json` / SYSTEM_STATUS inven
 
 1. Open **this file** + `echopedia/site-design-brief.md` only (plus named paths in the brief).  
 2. Fix **at most 5** content files OR 1 layout inject path per run.  
-3. **Forbidden without human:** editing Quartz theme SCSS/CSS design tokens, nav IA redesign, new homepage sections beyond featured markers, inventing bios, **hand-editing `content/people/index.md` or `content/organizations/index.md`** (SSOT = `scripts/echopedia-regen-directory-index.py` — no raw `<h3>` / no `[[people/…]]` lists).  
+3. **Forbidden without human:** editing Quartz theme SCSS/CSS design tokens, nav IA redesign, new homepage sections beyond featured markers, inventing bios, **hand-editing `content/people/index.md` or `content/organizations/index.md`** (SSOT = `scripts/echopedia-regen-directory-index.py` — `[[kind/slug|title]]` only; no raw `<h3>` / no `./slug` / no `[[../slug]]`).  
 4. Spelling: only fix clear English typos in `content/`; never “improve” Chinese names.  
 5. After edits: re-run  
    `python3 ~/.hermes/scripts/echopedia-site-design-audit.py`  

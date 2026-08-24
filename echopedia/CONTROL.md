@@ -36,7 +36,7 @@ Bare messages without `go` on this system are treated the same as `go <message>`
 
 Full classifier: skill **`go-router`**.
 
-**LLM UP/DOWN (pinto media-stack):** Only the media orchestrator flips Ornith (`:8888`) ↔ Lightning down-model (`:8890`). Reboot always reconciles **force UP** (`force_up_on_reboot`). Never run dual LLMs. LINE stays Grok-primary. Laguna files kept for `swap-llm-stack.sh laguna-primary`.
+**LLM (pinto media-stack):** Always-on brain is **Ornith** `:8888`. Hard media (Qwen-Image / LTX / H3) = **stop Ornith** (agent off); no second local LLM. HeartMuLa 3B lazy is **soft** (Ornith stays). Reboot **force UP** (`force_up_on_reboot`). Never dual vLLM. LINE stays Grok-primary. Laguna files kept for `swap-llm-stack.sh laguna-primary` only.
 
 ---
 

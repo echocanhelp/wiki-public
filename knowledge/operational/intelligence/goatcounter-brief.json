@@ -1,10 +1,16 @@
 {
-  "at": "2026-08-22T15:15:15Z",
+  "at": "2026-08-23T15:15:21Z",
   "cutoff": "2026-08-21T19:22:14Z",
   "ok": true,
-  "visits_since_cutoff": 0,
-  "yesterday_pdt": "2026-08-21",
-  "yesterday_visits": 0,
-  "top": [],
+  "visits_since_cutoff": 1,
+  "yesterday_pdt": "2026-08-22",
+  "yesterday_visits": 1,
+  "top": [
+    {
+      "count": 1,
+      "path": "/wiki-public/people/albert-chapter1-zh-hsiaochen-full-review",
+      "title": "Albert Ch.1 ZH full \u2014 HsiaoChen evaluation (SKU B gate)"
+    }
+  ],
   "error": null
 }

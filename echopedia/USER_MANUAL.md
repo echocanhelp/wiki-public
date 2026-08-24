@@ -72,18 +72,17 @@ Do you have a…
 ### Media stack / LLM UP–DOWN (pinto)
 
 **Full how-to (best utilization):** [`~/ai-services/media-stack/docs/USER_GUIDE.md`](../../ai-services/media-stack/docs/USER_GUIDE.md)  
-Orchestrator: `~/ai-services/media-stack/orchestrator/` · Policy: **force UP on reboot** (Ornith `:8888`); Lightning = hard-window only. Laguna deprecated.
+Orchestrator: `~/ai-services/media-stack/orchestrator/` · Policy: **force UP on reboot** (Ornith `:8888`). Hard = agent off (no Lightning). Laguna deprecated.
 
 | You say | What happens |
 |---------|----------------|
 | `go media status` / `go llm mode` | mode/ports/mem/thermal via `media-status.sh` |
 | `go back to laguna` / `go emergency up` / `go back to ornith` | panic restore Ornith UP (`media-emergency-up.sh`) |
 | `go generate image …` (local) | `soft_image.sh` (SD1.5 soft; Ornith stays up) |
-| `go describe this image` (local) | `soft_vision.sh` (Qwen2.5-VL-3B on-demand) |
-| local whisper / music / tts | `whisper_transcribe.sh` · `soft_music.sh` · `soft_tts.sh` (music/tts may be stub) |
-| hard local Lightning burst | ops: `transition.py hard-enter` → `:8890` → `hard-exit` (see USER_GUIDE) |
+| `go describe this image` (local) | `native_vision.sh` (Ornith `:8888`) |
+| hard fat media | `run_job.sh hard` / wrappers — **agent off**, no `:8890` |
 
-**Default:** prefer **soft** (Ornith up). **Hard** only for Lightning/fat GPU. LINE stays Grok during hard. Vault disk always available. Stuck → emergency up.
+**Default:** prefer **soft** (Ornith up). **Hard** only for fat GPU. LINE stays Grok during hard. Vault disk always available. Stuck → emergency up.
 
 ### Ingest a new website
 1. Say: `Echopedia website <domain>`

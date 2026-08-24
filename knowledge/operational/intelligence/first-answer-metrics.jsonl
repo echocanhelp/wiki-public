@@ -85,3 +85,6 @@
 {"ts": "2026-08-20T18:25:35Z", "status": "hit", "query": "paul chen", "slug": "paul-chen", "source": "line", "kind": "person"}
 {"ts": "2026-08-20T18:26:02Z", "status": "hit", "query": "charles yang", "slug": "yang-jia-you", "source": "line", "kind": "person"}
 {"ts": "2026-08-20T18:26:15Z", "status": "hit", "query": "ken wu", "slug": "ken-wu", "source": "line", "kind": "person"}
+{"ts": "2026-08-24T02:27:48Z", "status": "hit", "query": "Fu-Chen Lo", "slug": "dr-fu-chen-lo", "source": "telegram", "kind": "person"}
+{"ts": "2026-08-24T02:27:52Z", "status": "hit", "query": "Fu Chen Lo", "slug": "dr-fu-chen-lo", "source": "telegram", "kind": "person"}
+{"ts": "2026-08-24T02:34:10Z", "status": "hit", "query": "leonard hsu", "slug": "leonard-hsu-jr", "source": "line", "kind": "person"}
