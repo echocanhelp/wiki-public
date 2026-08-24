@@ -41,3 +41,8 @@ cache/
 
 # Private creds
 secrets/
+
+# Hermes / agent worktrees — gitlinks without .gitmodules break
+# GitHub Pages checkout (`submodules: recursive` → exit 128)
+.worktrees/
+
