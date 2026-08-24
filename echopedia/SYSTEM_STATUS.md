@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-08-23 07:19 PDT*
+*Generated: 2026-08-24 03:31 PDT*
 
 ## Orientation
 - **Entry:** go <plain language> via go-router (auto-route) · **Control:** [CONTROL.md](CONTROL.md)
@@ -15,13 +15,13 @@
 - **L2 auto-publish on drift:** True
 - **L3 auto-push when green:** True
 - **Last good deploy:** `5c17c2fc28`
-- **Last night (ledger):** first-mention 2 page(s) · analyzer scanned 1652 queued 34 suppressed 29 · 🟡 QUEUE janitor HOLD leftover 40 · 🟡 QUEUE kanban blocked 5
+- **Last night (ledger):** first-mention 2 page(s) · related-pages 1 · analyzer scanned 4 queued 1 suppressed 1758 · 🟡 QUEUE janitor HOLD leftover 40 · 🟡 QUEUE kanban blocked 5 · 🔴 NEED YOU cron fail: cron-audit, cron-self-audit
 - **Track SSOT:** `knowledge/operational/intelligence/autonomy-ledger.json`
 
 ## Content
 |- **Tier1 pages:** 2848 (people 2402 / orgs 429 / sources 17) · Tier2 archive: 29103
 |- **Janitor queue depth:** 41
-|- **Uncommitted files:** 2421
+|- **Uncommitted files:** 1650
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 || Stage | Script | Last run | Output |
@@ -55,37 +55,37 @@ Load skill **echopedia-ops** first for any wiki work.
 ```
     Name:      cron-output-rotate
     Schedule:  15 3 * * *
-    Last run:  2026-08-23T03:15:03.323871-07:00  ok
+    Last run:  2026-08-24T03:15:05.316174-07:00  ok
     Name:      vault-morning-brief
     Schedule:  15 8 * * *
-    Last run:  2026-08-22T08:15:19.846113-07:00  ok
+    Last run:  2026-08-23T08:15:26.189751-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-08-23T07:17:07.798707-07:00  ok
+    Last run:  2026-08-24T03:31:07.427014-07:00  ok
     Name:      Echopedia content analysis
     Schedule:  10 1 * * *
-    Last run:  2026-08-23T01:11:00.052406-07:00  ok
+    Last run:  2026-08-24T01:10:02.397761-07:00  ok
     Name:      unified-watchdog
     Schedule:  every 30m
-    Last run:  2026-08-23T07:07:08.184723-07:00  ok
+    Last run:  2026-08-24T03:19:06.607606-07:00  ok
     Name:      echopedia-digest
     Schedule:  20 6 * * *
     Last run:  2026-08-23T06:20:07.102584-07:00  ok
     Name:      kanban-sync
     Schedule:  every 30m
-    Last run:  2026-08-23T06:51:06.939509-07:00  ok
+    Last run:  2026-08-24T03:28:06.906447-07:00  ok
     Name:      memory-audit
     Schedule:  30 6 * * *
     Last run:  2026-08-23T06:30:06.251977-07:00  ok
     Name:      echopedia-nightly-audit
     Schedule:  15 1 * * *
-    Last run:  2026-08-23T01:19:34.795639-07:00  ok
+    Last run:  2026-08-24T01:25:55.219977-07:00  ok
     Name:      echopedia-janitor
     Schedule:  30 1 * * *
-    Last run:  2026-08-23T01:31:09.919800-07:00  ok
+    Last run:  2026-08-24T01:32:02.114598-07:00  error: Script exited with code 1
     Name:      echopedia-weekly-improvement
     Schedule:  15 7 * * 0
-    Last run:  2026-08-16T07:28:56.895128-07:00  ok
+    Last run:  2026-08-23T07:19:03.747492-07:00  ok
     Name:      echopedia-ci-heal
     Schedule:  30 3 * * *
     Last run:  2026-08-23T03:33:36.628201-07:00  ok
@@ -118,7 +118,7 @@ Load skill **echopedia-ops** first for any wiki work.
 | 15 8 * * * | `vault-morning-brief` | no_agent | on | ok | `vault-morning-brief.py` |
 | 20 2 * * * | `echopedia-generate-cards` | no_agent | on | ok | `echopedia-generate-cards.py` |
 | 20 6 * * * | `echopedia-digest` | no_agent | on | ok | `echopedia-digest.sh` |
-| 30 1 * * * | `echopedia-janitor` | no_agent | on | ok | `echopedia-janitor-wrapper.sh` |
+| 30 1 * * * | `echopedia-janitor` | no_agent | on | error | `echopedia-janitor-wrapper.sh` |
 | 30 2 * * * | `echopedia-person-works-linker` | no_agent | on | ok | `echopedia-person-works-linker-cron.sh` |
 | 30 3 * * * | `echopedia-ci-heal` | no_agent | on | ok | `echopedia-ci-heal-wrapper.sh` |
 | 30 5 * * 0 | `vault-search-index-rebuild` | no_agent | on | ok | `vault-search-index-rebuild.sh` |
