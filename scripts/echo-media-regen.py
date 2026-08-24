@@ -62,12 +62,13 @@ def slug_to_title(slug: str) -> str:
 def site_src(asset: str, from_file: Path) -> str:
     """Audio src for the *published* static site.
 
-    The jobs WAVs are the repo-external SSOT (they live at ~/media-outputs/jobs
-    and are never copied into the repo). echo-media-views.py emitted the raw
-    absolute host path there, which is faithful on the host but 404s under a
-    Quartz project-site base. P4 wires it site-relative when the asset is inside
-    REPO; for the external blobs it emits the absolute path AND a download link so
-    the embed stays correct on pinto while the manifest records the relation.
+    MP3s that live inside the repo (content/media/<slug>.mp3) are the default
+    embed: Quartz copies content/media/ into public/media/ and GitHub Pages
+    serves them, so the stream works publicly at /wiki-public/media/<slug>.mp3.
+
+    For repo-external assets (the ~/media-outputs/jobs SSOT WAVs that were never
+    copied in), fall back to the absolute host path so the embed still plays on
+    pinto; it 404s under GitHub Pages until the asset is imported into content/media/.
     """
     ap = Path(asset)
     try:
@@ -77,6 +78,41 @@ def site_src(asset: str, from_file: Path) -> str:
     depth = len(from_file.parent.relative_to(REPO).parts)
     prefix = "../" * depth
     return f"{prefix}/{'/'.join(rel.parts)}"
+
+
+def published_media_href(slug: str, page: Path) -> str:
+    """Relative href to media/<slug>.mp3 from the *published* HTML location.
+
+    Quartz emits content/people/x.md → /people/x.html (content/ is stripped).
+    GitHub Pages serves repo-root media/<slug>.mp3 at /wiki-public/media/<slug>.mp3.
+    Using the markdown tree depth (including content/) produced ../../media/...
+    which 404s from /people/. Always strip a leading content/ segment.
+    """
+    rel = page.resolve().relative_to(REPO.resolve())
+    parts = rel.parts
+    if parts and parts[0] == "content":
+        parts = parts[1:]
+    depth = max(len(parts) - 1, 0)
+    if depth == 0:
+        return f"media/{slug}.mp3"
+    return ("../" * depth) + f"media/{slug}.mp3"
+
+
+def asset_src(entry: dict, page: Path) -> tuple[str, str]:
+    """Resolve (embed src, download href) for a manifest entry.
+
+    Prefer a repo MP3 at content/media/<slug>.mp3 or media/<slug>.mp3 so the
+    player works on GitHub Pages. Else fall back to the host-path WAV SSOT
+    (plays on pinto only).
+    """
+    slug = entry.get("slug", "")
+    kind = (entry.get("kind") or "").lower()
+    content_mp3 = REPO / "content" / "media" / f"{slug}.mp3"
+    root_mp3 = REPO / "media" / f"{slug}.mp3"
+    if kind == "music" and (content_mp3.exists() or root_mp3.exists()):
+        href = published_media_href(slug, page)
+        return href, href
+    return entry.get("asset", ""), entry.get("asset", "")
 
 
 def load_manifest(path: Path) -> dict:
@@ -91,26 +127,24 @@ def _escape(t: str) -> str:
     return html.unescape(t or "")
 
 
-def section_block(e: dict) -> str:
+def section_block(e: dict, page: Path) -> str:
     title = _escape(slug_to_title(e["slug"]))
     slug = e["slug"]
     kind = (e.get("kind") or "music").upper()
     lang = e.get("language") or "zh-TW"
     created = e.get("produced_at") or "undated"
-    asset = e.get("asset", "")
-    link = f"[[#slug-{slug}|{title}]]"
-    src = site_src(asset, INDEX)
+    src, dl = asset_src(e, page)
     audio = (
         f'<audio controls preload="none" src="{src}">\n'
         f"              {title} · {kind} · {lang} ({created})\n"
         f"            </audio>"
     )
-    dl = f"- Download: [{Path(asset).name}]({asset})"
+    dl_link = f"- Download: [{Path(dl).name}]({dl})"
     return (
         f"### {title}  <a href=\"#top\">#</a>\n\n"
         f"- slug: {slug} · kind: {kind} · language: {lang} · produced: {created}\n"
-        f"- link: {link}\n\n"
-        f"{dl}\n\n"
+        f"- link: [[#slug-{slug}|{title}]]\n\n"
+        f"{dl_link}\n\n"
         f"{audio}\n"
     )
 
@@ -124,8 +158,8 @@ def render_index_region(cat: dict) -> str:
     )
     featured = [e for e in entries if e.get("kind") in FEATURED_KINDS]
     rest = [e for e in entries if e.get("kind") not in FEATURED_KINDS]
-    featured_lines = "\n".join(section_block(e) for e in featured) or "_No production pieces yet._"
-    rest_lines = "\n".join(section_block(e) for e in rest) or "_None._"
+    featured_lines = "\n".join(section_block(e, INDEX) for e in featured) or "_No production pieces yet._"
+    rest_lines = "\n".join(section_block(e, INDEX) for e in rest) or "_None._"
     return (
         "\n## Featured pieces\n\n"
         f"{featured_lines}\n\n"
@@ -203,7 +237,7 @@ def regen_media_sections(cat: dict) -> dict:
             touched[slug] = False
             continue
         e = by_id[slug]
-        inner = "\n" + section_block(e) + "\n"
+        inner = "\n" + section_block(e, md) + "\n"
         patched, changed = patch_region(text, MARK_SEC_START, MARK_SEC_END, inner)
         if changed:
             md.write_text(patched, encoding="utf-8")

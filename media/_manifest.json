@@ -102,7 +102,7 @@
       "kind": "music",
       "asset": "/home/leedt/media-outputs/jobs/shante-shawsean-chen-song.wav",
       "size_bytes": 19476524,
-      "language": "zh-TW",
+      "language": "en",
       "entities": [
         "people/shante-shawsean-chen.md"
       ],
@@ -111,7 +111,9 @@
       "disclaimer": "",
       "produced_at": "2026-08-24",
       "engine": "HeartMuLa",
-      "status": "staged"
+      "status": "staged",
+      "duration_s": 101.44,
+      "mtime": "2026-08-24T20:28:00Z"
     }
   ]
 }

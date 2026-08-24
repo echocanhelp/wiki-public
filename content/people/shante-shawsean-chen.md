@@ -46,16 +46,15 @@ Shante Shaw(Sean) Chen 陳善哲 – History of Taiwanese American (T.A. Archive
 
 ## Echo Resonance 歲月有聲
 
-### Shante Shaw Sean Chen  <a href="#top">#</a>
+AI interpretation from Echopedia facts — **creative, not verified history**. 據這些事實以 AI 創作，屬藝術詮釋而非查證之史實。
 
-- slug: shante-shawsean-chen-song · kind: MUSIC · language: zh-TW · produced: 2026-08-24
-- link: [[#slug-shante-shawsean-chen-song|Shante Shaw Sean Chen]]
+**Shante Shaw Sean Chen** · music · en · 2026-08-24 · 1:41
 
-- Download: [shante-shawsean-chen-song.wav](/home/leedt/media-outputs/jobs/shante-shawsean-chen-song.wav)
+- Download: [shante-shawsean-chen-song.mp3](../media/shante-shawsean-chen-song.mp3)
 
-<audio controls preload="none" src="/home/leedt/media-outputs/jobs/shante-shawsean-chen-song.wav">
-              Shante Shaw Sean Chen
-            </audio>
+<audio controls preload="none" src="../media/shante-shawsean-chen-song.mp3">
+Shante Shaw Sean Chen — Echo Resonance
+</audio>
 
 ## Related Pages
 
