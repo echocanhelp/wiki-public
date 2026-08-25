@@ -6,7 +6,7 @@
   "disclaimer": "Echopedia records facts. This piece is an AI interpretation built from those facts — creative, not verified history. Treat it as a story inspired by truth, not a primary source.",
   "disclaimer_zh": "Echopedia 記錄事實；本作品則據這些事實以 AI 創作，屬藝術詮釋而非查證之史實。請視為源於真實的故事，而非第一手史料。",
   "interpretation": true,
-  "updated": "2026-08-24",
+  "updated": "2026-08-25",
   "entries": [
     {
       "id": "david-lee-song",
@@ -120,7 +120,7 @@
       "slug": "shante-shawsean-chen-song-taigi",
       "kind": "music",
       "asset": "/home/leedt/media-outputs/jobs/shante-shawsean-chen-song-taigi.wav",
-      "size_bytes": 20075564,
+      "size_bytes": 25113644,
       "language": "zh-TW",
       "entities": [
         "people/shante-shawsean-chen.md"
@@ -128,12 +128,13 @@
       "source": "heartmula::job::shante-shawsean-chen-song-taigi",
       "interpretation": true,
       "disclaimer": "",
-      "produced_at": "2026-08-24",
+      "produced_at": "2026-08-25",
       "engine": "HeartMuLa",
       "status": "staged",
-      "duration_s": 104.56,
-      "mtime": "2026-08-24T23:56:38Z",
-      "scheme": "tailo"
+      "duration_s": 130.8,
+      "mtime": "2026-08-25T00:30:12Z",
+      "scheme": "tailo",
+      "design": "native-taigi-hanzi"
     }
   ]
 }

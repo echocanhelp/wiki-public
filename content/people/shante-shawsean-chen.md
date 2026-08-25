@@ -93,50 +93,78 @@ The artist the comics will remember
 
 </details>
 
-**Shante Shaw Sean Chen (Taigi / Tâi-lô)** · music · zh-TW · 2026-08-24 · 1:45
+**Shante Shaw Sean Chen (台語歌 / Tâi-lô)** · music · zh-TW · 2026-08-25 · 2:11
+
+Native 台語歌 — not an English translation. Sung from 漢字; spelling is Tâi-lô (萌典 `/t/`). No English proper nouns in the lyric.
 
 - Download: [shante-shawsean-chen-song-taigi.mp3](../media/shante-shawsean-chen-song-taigi.mp3)
 
 <audio controls preload="none" src="../media/shante-shawsean-chen-song-taigi.mp3">
-Shante Shaw Sean Chen — Echo Resonance (Taigi / Tâi-lô)
+Shante Shaw Sean Chen — Echo Resonance (台語歌)
 </audio>
 
 <details>
-<summary>Lyrics (Taigi / Tâi-lô)</summary>
+<summary>Lyrics (台語 漢字 + Tâi-lô)</summary>
 
 ```
 [Intro]
-Marvel tī tshiûnn thâu
-tsheh á teh pue
+手一支一支
+tshiú tsi̍t ki tsi̍t ki
+冊一頁一頁
+tsheh tsi̍t ia̍h tsi̍t ia̍h
 
 [Verse]
-tùi Washington khí-sin
-Shante, i ê miâ
-Carnegie Mellon, siat-kè ê tshiú
-tsheh á bāng tsiânn tsin-si̍t
+細漢就愛畫
+sè-hàn tō ài uē
+畫到天光
+uē kàu thinn-kng
+紙頂英雄行
+tsuá tíng ing-hiông kiânn
+一格一格光
+tsi̍t keh tsi̍t keh kng
 
 [Chorus]
-Shante, Shante
-kǹg-thih lâng, sin tshinn lâng
-Tâi Bí ê gē-su̍t, uì pâi-á kng
-phian-phian sik-tshái, kiô kàu thinn-kng
+這支手袂歇
+tsit ki tshiú bē hioh
+這條路真長
+tsit tiâu lōo tsin tn̂g
+故鄉佇心內
+kòo-hiong tī sim-lāi
+畫出希望
+uē tshut hi-bāng
+
+[Verse]
+某囝佇身邊
+bóo kiánn tī sin-pinn
+家庭是力量
+ka-tîng sī li̍k-liōng
+筆猶閣佇手
+pit iáu koh tī tshiú
+心猶閣燒
+sim iáu koh sio
 
 [Bridge]
-ka-tîng tī pinn-á
-tshiú-lōo bē hioh
-Marvel ê tsheh á
-I iáu teh siá
+鐵人紙頂飛
+thih-lâng tsuá tíng pue
+星佇天頂光
+tshinn tī thinn-tíng kng
+海湧有聲
+hái-íng ū siann
+故鄉無放
+kòo-hiong bô pàng
 
 [Outro]
-Shante
-kì-ik lâu tī pâi-á
+手一支一支
+tshiú tsi̍t ki tsi̍t ki
+路一條一條
+lōo tsi̍t tiâu tsi̍t tiâu
 ```
 
 </details>
 
-**朗讀 (萌典 / 教育部 台語官方音，非歌唱)** · speech · taigi · 2026-08-24 · 0:51
+**朗讀 (萌典 / 教育部 台語官方音，非歌唱)** · speech · taigi · 2026-08-25 · 0:59
 
-Official spoken clips stitched from [萌典台語](https://www.moedict.tw/) — the listen teacher, not HeartMuLa. Coverage 39/41 content words (95.1%). Misses: 咧, 袂 (entry, no official clip). **陳善哲** is HOLD (name ≠ dictionary). English tokens Marvel / Washington / Carnegie / Mellon / Shante are proper nouns, not 萌典.
+Official spoken clips stitched from [萌典台語](https://www.moedict.tw/) — the listen teacher, not HeartMuLa. Coverage 47/48 content words (97.9%). Miss: 袂 (entry, no official clip). **陳善哲** HOLD (name ≠ dictionary).
 
 - Download: [shante-shawsean-chen-song-taigi-gold-langdu.mp3](../media/shante-shawsean-chen-song-taigi-gold-langdu.mp3)
 
