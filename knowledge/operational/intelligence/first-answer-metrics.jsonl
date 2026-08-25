@@ -88,3 +88,8 @@
 {"ts": "2026-08-24T02:27:48Z", "status": "hit", "query": "Fu-Chen Lo", "slug": "dr-fu-chen-lo", "source": "telegram", "kind": "person"}
 {"ts": "2026-08-24T02:27:52Z", "status": "hit", "query": "Fu Chen Lo", "slug": "dr-fu-chen-lo", "source": "telegram", "kind": "person"}
 {"ts": "2026-08-24T02:34:10Z", "status": "hit", "query": "leonard hsu", "slug": "leonard-hsu-jr", "source": "line", "kind": "person"}
+{"ts": "2026-08-25T08:00:50Z", "status": "hit", "query": "GSTPC", "slug": "ku-gstpc", "source": "telegram", "kind": "person"}
+{"ts": "2026-08-25T08:00:54Z", "status": "hit", "query": "good-shepherd-taiwanese-presbyterian-church", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "cli", "kind": "organization"}
+{"ts": "2026-08-25T08:13:40Z", "status": "miss", "query": "誰是牧谷", "slug": null, "source": "line", "kind": null}
+{"ts": "2026-08-25T08:17:13Z", "status": "miss", "query": "牧谷", "slug": null, "source": "telegram", "kind": null}
+{"ts": "2026-08-25T08:17:47Z", "status": "miss", "query": "誰是牧谷", "slug": null, "source": "line", "kind": null}

@@ -1,0 +1,16 @@
+{
+  "authority": "sung/spoken sense — not 文白 class",
+  "note": "白>替 picker still picks the first 白. These force a 萌典-attested later reading. Apply only when that T exists on the entry.",
+  "words": {
+    "長": {
+      "tailo": "tn̂g",
+      "reason": "adj. long (這條路真長); not first 白 tiúnn (classifier/elder)",
+      "audio_id_expected": "4509"
+    },
+    "到": {
+      "tailo": "kàu",
+      "reason": "until/arrive (畫到天光); not first 白 tàu",
+      "audio_id_expected": "3607"
+    }
+  }
+}

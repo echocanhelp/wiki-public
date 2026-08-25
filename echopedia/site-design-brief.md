@@ -1,4 +1,4 @@
-## Site design audit — 2026-08-24 06:40
+## Site design audit — 2026-08-25 03:32
 
 - pages_md=5271
 - critical=0 high=1 medium=1
@@ -28,15 +28,15 @@
   - `wang-qiaoling.md: ?qiaoling`
 
 ### INFO (1)
-- **B1** person/org touched ≤7d (rely on recency featured window): 2615
-  - `people/a-n-liu.md`
-  - `people/abby-hong.md`
-  - `people/adam-chang.md`
-  - `people/adrian-lin.md`
-  - `people/agnes-hsiao.md`
-  - `people/agnes-hsu.md`
-  - `people/agnes-wu.md`
-  - `people/ahhee-hsu.md`
+- **B1** person/org touched ≤7d (rely on recency featured window): 90
+  - `people/alan-thian.md`
+  - `people/amy-lin.md`
+  - `people/apo-hsu.md`
+  - `people/bai-peiyu.md`
+  - `people/c-y-hsu.md`
+  - `people/cai-shunyu.md`
+  - `people/cao-changqing.md`
+  - `people/chao-sile.md`
 
 ### Programmable heals
 - (none)

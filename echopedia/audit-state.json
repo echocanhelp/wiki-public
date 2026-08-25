@@ -1,9 +1,9 @@
 {
   "version": 1,
   "last_run": "echopedia-nightly-audit",
-  "last_run_date": "2026-08-24",
+  "last_run_date": "2026-08-25",
   "pages_audited": 2848,
-  "issues_found": 2449,
+  "issues_found": 2452,
   "issue_history": [
     {
       "run_date": "2026-07-13",
@@ -603,6 +603,20 @@
       "web_issues": 1,
       "structural": 36,
       "full_log": "/home/leedt/echo-system/echopedia/logs/nightly-audit-2026-08-24.txt"
+    },
+    {
+      "run_date": "2026-08-25",
+      "total_issues": 2452,
+      "broken_links": 7,
+      "missing_sections": 67,
+      "stale_content": 207,
+      "orphans": 5,
+      "cross_references": 254,
+      "missing_pages": 1911,
+      "index_sync": 0,
+      "web_issues": 1,
+      "structural": 36,
+      "full_log": "/home/leedt/echo-system/echopedia/logs/nightly-audit-2026-08-25.txt"
     }
   ],
   "resolved_issues": []

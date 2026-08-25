@@ -11,7 +11,9 @@
     "church_historical": "poj",
     "moe_language": "tailo",
     "moe_ssot": "https://www.moedict.tw/t/<詞>.json",
-    "moe_field": "h[].T",
+    "moe_field": "spoken h[].T (白>替>audio>unlabeled>文)",
+    "index": "https://www.moedict.tw/t/index.json",
+    "segment": "longest-match",
     "lookup_trs": "https://www.moedict.tw/lookup/trs/<tailo>",
     "verify": "python3 ~/echo-system/scripts/moedict-ssot.py",
     "song": {
@@ -25,6 +27,12 @@
         "tailo": "<slug>-lyrics-tailo.txt",
         "wiki": "<slug>-lyrics.txt"
       },
+      "picker": "白>替>audio>unlabeled>文",
+      "segment": "longest-match /t/index.json",
+      "sense_overrides": "echopedia/taigi-sense-overrides.json",
+      "accuracy_ssot": "echopedia/taigi-accuracy.md",
+      "tags_default": "taiwanese,hokkien,folk,ballad,male-vocal,acoustic,warm,nostalgic,melodic,guitar",
+      "tags_note": "A ear-winner 2026-08-25; unused for 腔口; do not replace live full song without GO",
       "audit": "python3 ~/echo-system/scripts/moedict-ssot.py audit-pack"
     },
     "one_system_per_page": true,

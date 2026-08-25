@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-08-24T06:40:28",
+  "last_run": "2026-08-25T03:32:27",
   "status": "ACTION",
   "stats": {
     "md": 5271,
@@ -38,23 +38,23 @@
     {
       "id": "B1",
       "sev": "INFO",
-      "msg": "person/org touched \u22647d (rely on recency featured window): 2615",
+      "msg": "person/org touched \u22647d (rely on recency featured window): 90",
       "examples": [
-        "people/a-n-liu.md",
-        "people/abby-hong.md",
-        "people/adam-chang.md",
-        "people/adrian-lin.md",
-        "people/agnes-hsiao.md",
-        "people/agnes-hsu.md",
-        "people/agnes-wu.md",
-        "people/ahhee-hsu.md",
-        "people/ai-jen-poo.md",
-        "people/alan-su.md",
-        "people/alan-t-chen.md",
         "people/alan-thian.md",
-        "people/alan-yang.md",
-        "people/albert-g-chang.md",
-        "people/alex-hsuan-yu-lee.md"
+        "people/amy-lin.md",
+        "people/apo-hsu.md",
+        "people/bai-peiyu.md",
+        "people/c-y-hsu.md",
+        "people/cai-shunyu.md",
+        "people/cao-changqing.md",
+        "people/chao-sile.md",
+        "people/chen-bozhi.md",
+        "people/chen-hui-chen.md",
+        "people/chen-maoxiong.md",
+        "people/chen-po-kong.md",
+        "people/chen-wenshi.md",
+        "people/chen-zhaonan.md",
+        "people/du-ao-cunfu.md"
       ]
     },
     {
@@ -71,14 +71,6 @@
   ],
   "heals": [],
   "history": [
-    {
-      "at": "2026-08-20T08:03:25",
-      "status": "ACTION",
-      "critical": 0,
-      "high": 1,
-      "medium": 1,
-      "finding_count": 4
-    },
     {
       "at": "2026-08-20T08:05:57",
       "status": "ACTION",
@@ -305,6 +297,14 @@
     },
     {
       "at": "2026-08-24T06:40:28",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 1,
+      "medium": 1,
+      "finding_count": 4
+    },
+    {
+      "at": "2026-08-25T03:32:27",
       "status": "ACTION",
       "critical": 0,
       "high": 1,
