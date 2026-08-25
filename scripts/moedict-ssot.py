@@ -5,10 +5,17 @@ POJ is never invented here. Church/historical POJ stays on the named source.
 Person names are HOLD unless --hold is omitted *and* the operator passed a
 dictionary headword that is not a personal name.
 
+Echo Resonance Taigi pack (locked 2026-08-25):
+  <slug>-lyrics-hanzi.txt  → HeartMuLa (漢字 only — do not sing Tâi-lô)
+  <slug>-lyrics-tailo.txt  → audit-lyrics (space-separated Tâi-lô)
+  <slug>-lyrics.txt        → wiki interlinear (漢字 + Tâi-lô)
+Never translate an English lyric line-by-line. Design a native 台語歌.
+
 Usage:
   python3 moedict-ssot.py lookup --words '家庭,手,陳善哲' --hold '陳善哲'
   python3 moedict-ssot.py trs --q tshiú
-  python3 moedict-ssot.py audit-lyrics --file ~/media-outputs/jobs/<slug>-lyrics.txt
+  python3 moedict-ssot.py audit-lyrics --file ~/media-outputs/jobs/<slug>-lyrics-tailo.txt
+  python3 moedict-ssot.py audit-pack --hanzi …-hanzi.txt --tailo …-tailo.txt --wiki …-lyrics.txt --words '手,一' --hold '陳善哲'
 """
 from __future__ import annotations
 
@@ -153,8 +160,23 @@ def cmd_trs(args: argparse.Namespace) -> int:
     return 0
 
 
-def cmd_audit_lyrics(args: argparse.Namespace) -> int:
-    text = Path(args.file).read_text(encoding="utf-8")
+SECTION_LABELS = {
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Outro",
+    "Pre-Chorus",
+    "Hook",
+    "Lyrics",
+    "Taigi",
+}
+EN_PROPER = re.compile(r"\b[A-Z][A-Za-z]{2,}\b")
+CJK = re.compile(r"[\u4e00-\u9fff]")
+
+
+def audit_lyrics_file(path: str) -> dict:
+    text = Path(path).read_text(encoding="utf-8")
     toks = tokenize_lyrics(text)
     rows = []
     for t in toks:
@@ -174,8 +196,8 @@ def cmd_audit_lyrics(args: argparse.Namespace) -> int:
     n = len(rows)
     hits = sum(1 for r in rows if r["verdict"] == "TAILO_HIT")
     poj = sum(1 for r in rows if r["verdict"] == "POJ_OR_UNKNOWN")
-    out = {
-        "file": str(args.file),
+    return {
+        "file": str(path),
         "authority": "https://www.moedict.tw/lookup/trs/<tailo>",
         "default_scheme": "tailo",
         "n_tokens": n,
@@ -185,8 +207,87 @@ def cmd_audit_lyrics(args: argparse.Namespace) -> int:
         "ship_as_taigi": hits >= max(1, int(0.5 * n)) and poj == 0,
         "rows": rows,
     }
+
+
+def english_proper_nouns(text: str) -> list[str]:
+    found = []
+    for m in EN_PROPER.findall(text):
+        if m not in SECTION_LABELS:
+            found.append(m)
+    return found
+
+
+def cmd_audit_lyrics(args: argparse.Namespace) -> int:
+    out = audit_lyrics_file(args.file)
     print(json.dumps(out, ensure_ascii=False, indent=2))
     return 0 if out["ship_as_taigi"] else 2
+
+
+def cmd_audit_pack(args: argparse.Namespace) -> int:
+    hanzi_text = Path(args.hanzi).read_text(encoding="utf-8")
+    tailo_text = Path(args.tailo).read_text(encoding="utf-8")
+    wiki_text = Path(args.wiki).read_text(encoding="utf-8") if args.wiki else ""
+    n_cjk = len(CJK.findall(hanzi_text))
+    n_lat = len(re.findall(r"[A-Za-z]", hanzi_text))
+    en_hanzi = english_proper_nouns(hanzi_text)
+    en_wiki = english_proper_nouns(wiki_text) if wiki_text else []
+    holds = {w.strip() for w in (args.hold or "").split(",") if w.strip()}
+    words = [w.strip() for w in args.words.split(",") if w.strip()]
+    lookup_rows = []
+    for w in words:
+        if w in holds:
+            lookup_rows.append({"word": w, "ok": False, "hold": True})
+            continue
+        rec = lookup_word(w)
+        rec["hold"] = False
+        lookup_rows.append(rec)
+    n_lookup = len(lookup_rows)
+    n_ok = sum(1 for r in lookup_rows if r.get("ok"))
+    n_hold = sum(1 for r in lookup_rows if r.get("hold"))
+    n_miss = n_lookup - n_ok - n_hold
+    tailo = audit_lyrics_file(args.tailo)
+    # wiki must carry every non-empty 漢字 line from the singer file
+    hanzi_lines = [
+        ln.strip()
+        for ln in hanzi_text.splitlines()
+        if ln.strip() and not (ln.strip().startswith("[") and ln.strip().endswith("]"))
+    ]
+    missing_lines = [ln for ln in hanzi_lines if wiki_text and ln not in wiki_text]
+    singer_is_hanzi = n_cjk >= 8 and n_cjk > n_lat
+    wiki_ok = (not args.wiki) or (not missing_lines and n_cjk > 0)
+    ship = (
+        singer_is_hanzi
+        and not en_hanzi
+        and not en_wiki
+        and n_miss == 0
+        and n_ok >= 1
+        and tailo["ship_as_taigi"]
+        and wiki_ok
+    )
+    out = {
+        "authority": "https://www.moedict.tw/t/<詞>.json",
+        "design": "native-taigi-hanzi",
+        "translate_from_english": False,
+        "singer": "hanzi",
+        "spelling": "tailo",
+        "hanzi_file": str(args.hanzi),
+        "tailo_file": str(args.tailo),
+        "wiki_file": str(args.wiki) if args.wiki else None,
+        "n_cjk": n_cjk,
+        "n_latin": n_lat,
+        "singer_is_hanzi": singer_is_hanzi,
+        "english_proper_hanzi": en_hanzi,
+        "english_proper_wiki": en_wiki,
+        "n_lookup": n_lookup,
+        "n_ok": n_ok,
+        "n_hold": n_hold,
+        "n_miss": n_miss,
+        "wiki_missing_hanzi_lines": missing_lines,
+        "tailo": {k: tailo[k] for k in tailo if k != "rows"},
+        "ship_as_taigi": ship,
+    }
+    print(json.dumps(out, ensure_ascii=False, indent=2))
+    return 0 if ship else 2
 
 
 def main() -> int:
@@ -202,9 +303,20 @@ def main() -> int:
     p.add_argument("--q", required=True)
     p.set_defaults(fn=cmd_trs)
 
-    p = sub.add_parser("audit-lyrics", help="score a lyrics sidecar against /lookup/trs/")
+    p = sub.add_parser("audit-lyrics", help="score a Tâi-lô sidecar against /lookup/trs/")
     p.add_argument("--file", required=True)
     p.set_defaults(fn=cmd_audit_lyrics)
+
+    p = sub.add_parser(
+        "audit-pack",
+        help="native Taigi pack: 漢字 singer + Tâi-lô audit + wiki interlinear",
+    )
+    p.add_argument("--hanzi", required=True, help="<slug>-lyrics-hanzi.txt")
+    p.add_argument("--tailo", required=True, help="<slug>-lyrics-tailo.txt")
+    p.add_argument("--wiki", default="", help="<slug>-lyrics.txt interlinear")
+    p.add_argument("--words", required=True, help="comma 漢字 list for /t/ lookup")
+    p.add_argument("--hold", default="")
+    p.set_defaults(fn=cmd_audit_pack)
 
     args = ap.parse_args()
     return args.fn(args)

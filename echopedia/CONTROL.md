@@ -29,7 +29,7 @@ Bare messages without `go` on this system are treated the same as `go <message>`
 | website / domain | WEBSITE_INGEST (**class** live-small vs story-corpus) |
 | cron / nightly / job | cron SSOT + docs-sync |
 | publish / ship | P2 / ci-heal |
-| echo resonance / 歲月有聲 / song + publish | go-router → skill **`echo-resonance`** (player + **Tâi-lô** lyrics + 萌典 listen; not a new P#) |
+| echo resonance / 歲月有聲 / song + publish | go-router → skill **`echo-resonance`** (player + native **漢字 singer** + **Tâi-lô** gloss + 萌典 listen; never EN→Taigi; not a new P#) |
 | taigi / 台語 / 台羅 / POJ spelling | **Tâi-lô** via `scripts/moedict-ssot.py` unless source is church/historical → POJ |
 | build / plan / epic | plan + kanban |
 | turn off push / L3 | standards P6 |
@@ -358,7 +358,7 @@ prefer delete/dedupe/generate over new essays
 8. **Profile scripts are real files**, not symlinks to global.  
 9. **Generated status files are not hand SSOT.**  
 10. **One lesson → one place.**
-11. **Names:** title + slug = preferred English + 漢名 (`romanization-lexicon.json`). **Not** Hanyu Pinyin (`蔡`=Tsai). **Taigi default = Tâi-lô.** Verify words with 萌典 `https://www.moedict.tw/t/<詞>.json` (`h[].T`) via `scripts/moedict-ssot.py`. Saying “Taigi” without a scheme means Tâi-lô. **POJ only** when the named source is church / PCT / hymn / 教會公報 / other historical religious text — quote it, label **POJ:**. One system per page; never mix; never into the slug; never mass-fill TAH stubs from a converter. Person names HOLD (family/TAH/person), not 萌典.
+11. **Names:** title + slug = preferred English + 漢名 (`romanization-lexicon.json`). **Not** Hanyu Pinyin (`蔡`=Tsai). **Taigi default = Tâi-lô.** Verify words with 萌典 `https://www.moedict.tw/t/<詞>.json` (`h[].T`) via `scripts/moedict-ssot.py`. Saying “Taigi” without a scheme means Tâi-lô. **POJ only** when the named source is church / PCT / hymn / 教會公報 / other historical religious text — quote it, label **POJ:**. One system per page; never mix; never into the slug; never mass-fill TAH stubs from a converter. Person names HOLD (family/TAH/person), not 萌典. **Echo Resonance Taigi:** write a native 台語歌 — HeartMuLa sings **漢字**; wiki/audit = Tâi-lô interlinear (`audit-pack`). Never translate English lyrics; never sing romanization.
 
 ---
 
@@ -374,6 +374,7 @@ prefer delete/dedupe/generate over new essays
 | Autonomy | `echopedia/standards.json` |
 | Name spelling (EN) | `echopedia/romanization-lexicon.json` |
 | Taigi spelling | 萌典 `/t/` via `scripts/moedict-ssot.py` (Tâi-lô default) |
+| Taigi Echo Resonance pack | `moedict-ssot.py audit-pack` — 漢字 singer + Tâi-lô sidecar + interlinear wiki |
 | CDN last check | `echopedia/cdn-verify-status.json` |
 | Map skill | `echopedia-ops` |
 | Cron truth | `~/.hermes/profiles/pinto/cron/jobs.json` |

@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "updated": "2026-08-24",
+  "version": 3,
+  "updated": "2026-08-25",
   "note": "Public English / TAHS preferred spelling. Not Hanyu Pinyin. Slug rename only when inbound_wikilinks < max_inbound_for_slug_rename. Taigi default = Tâi-lô via 萌典 /t/. POJ only for church/historical-religious named sources. Never slug, never mass-fill, never invent from a converter.",
   "hokkien": {
     "default": "tailo",
@@ -14,6 +14,19 @@
     "moe_field": "h[].T",
     "lookup_trs": "https://www.moedict.tw/lookup/trs/<tailo>",
     "verify": "python3 ~/echo-system/scripts/moedict-ssot.py",
+    "song": {
+      "design": "native-taigi",
+      "translate_from_english": false,
+      "singer": "hanzi",
+      "spelling": "tailo",
+      "wiki": "hanzi+tailo-interlinear",
+      "files": {
+        "hanzi": "<slug>-lyrics-hanzi.txt",
+        "tailo": "<slug>-lyrics-tailo.txt",
+        "wiki": "<slug>-lyrics.txt"
+      },
+      "audit": "python3 ~/echo-system/scripts/moedict-ssot.py audit-pack"
+    },
     "one_system_per_page": true,
     "mix_forbidden": true,
     "converter_invent": false,
