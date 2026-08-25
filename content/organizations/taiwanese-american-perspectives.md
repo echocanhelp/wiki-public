@@ -10,7 +10,7 @@ last_reviewed: 2026-07-16
 ---
 # Taiwanese American Perspectives
 
-**Taiwanese American Perspectives** (台美人論壇) is listed as a **group member** of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]].
+**Taiwanese American Perspectives** ([[organizations/taiwanese-american-irvines-eagle-brotherhood-group-irvine|台美人]]論壇) is listed as a **group member** of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]].
 
 ## Identity Snapshot
 

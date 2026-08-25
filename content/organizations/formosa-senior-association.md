@@ -10,11 +10,11 @@ last_reviewed: 2026-07-16
 ---
 # Formosa Senior Association
 
-**Formosa Senior Association** (南加州蓬萊長青會) is listed as a **group member** of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]].
+**Formosa Senior Association** ([[organizations/laguna-woods-village-taiwanese-club|南加州]]蓬萊長青會) is listed as a **group member** of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]].
 
 ## Identity Snapshot
 
-- **Chinese:** 南加州蓬萊長青會
+- **Chinese:** [[organizations/san-diego-taiwanese-cultural-association|南加州]]蓬萊長青會
 - **English (as listed):** Formosa Senior Association
 - **Relation:** Taiwan Center group member (official listing)
 - **Source:** https://www.taiwancenter.org/group-members · `taiwancenter-org-group-members.md`

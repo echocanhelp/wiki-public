@@ -10,11 +10,11 @@ last_reviewed: 2026-07-16
 ---
 # Alumni Association of Chia Yi High School Worldwide (AACHW)
 
-**Alumni Association of Chia Yi High School Worldwide (AACHW)** (南加州嘉中校友會) is listed as a **group member** of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]].
+**Alumni Association of Chia Yi High School Worldwide (AACHW)** ([[organizations/laguna-woods-village-taiwanese-club|南加州]]嘉中校友會) is listed as a **group member** of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]].
 
 ## Identity Snapshot
 
-- **Chinese:** 南加州嘉中校友會
+- **Chinese:** [[organizations/san-diego-taiwanese-cultural-association|南加州]]嘉中校友會
 - **English (as listed):** Alumni Association of Chia Yi High School Worldwide (AACHW)
 - **Relation:** Taiwan Center group member (official listing)
 - **Source:** https://www.taiwancenter.org/group-members · `taiwancenter-org-group-members.md`

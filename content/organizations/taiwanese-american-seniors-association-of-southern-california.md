@@ -10,11 +10,11 @@ last_reviewed: 2026-07-16
 ---
 # Taiwanese American Seniors Association of Southern California
 
-**Taiwanese American Seniors Association of Southern California** (南加州台灣人長輩會) is listed as a **group member** of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]].
+**Taiwanese American Seniors Association of Southern California** ([[organizations/laguna-woods-village-taiwanese-club|南加州]]台灣人長輩會) is listed as a **group member** of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]].
 
 ## Identity Snapshot
 
-- **Chinese:** 南加州台灣人長輩會
+- **Chinese:** [[organizations/san-diego-taiwanese-cultural-association|南加州]]台灣人長輩會
 - **English (as listed):** Taiwanese American Seniors Association of Southern California
 - **Relation:** Taiwan Center group member (official listing)
 - **Source:** https://www.taiwancenter.org/group-members · `taiwancenter-org-group-members.md`

@@ -10,7 +10,7 @@ last_reviewed: 2026-07-16
 ---
 # The Yinchin Foundation
 
-**The Yinchin Foundation** (美國殷勤文教公益基金會) is listed as a **group member** of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]].
+**The Yinchin Foundation** ([[organizations/yin-chin-foundation-of-u-s-a|美國殷勤文教公益基金會]]) is listed as a **group member** of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]].
 
 ## Identity Snapshot
 

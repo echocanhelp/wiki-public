@@ -10,11 +10,11 @@ last_reviewed: 2026-07-16
 ---
 # Chang Jung Girls’ High School Alumni Association Southern California
 
-**Chang Jung Girls’ High School Alumni Association Southern California** (台南長榮女中南加州校友會) is listed as a **group member** of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]].
+**Chang Jung Girls’ High School Alumni Association Southern California** (台南長榮女中[[organizations/laguna-woods-village-taiwanese-club|南加州]]校友會) is listed as a **group member** of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]].
 
 ## Identity Snapshot
 
-- **Chinese:** 台南長榮女中南加州校友會
+- **Chinese:** 台南長榮女中[[organizations/san-diego-taiwanese-cultural-association|南加州]]校友會
 - **English (as listed):** Chang Jung Girls’ High School Alumni Association Southern California
 - **Relation:** Taiwan Center group member (official listing)
 - **Source:** https://www.taiwancenter.org/group-members · `taiwancenter-org-group-members.md`

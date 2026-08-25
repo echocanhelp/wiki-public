@@ -10,7 +10,7 @@ last_reviewed: 2026-07-16
 ---
 # The Kee-Jen Education of Arts Foundation
 
-**The Kee-Jen Education of Arts Foundation** (呂泉生文教基金會) is listed as a **group member** of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]].
+**The Kee-Jen Education of Arts Foundation** ([[people/chuang-shien-lu|呂泉生]]文教基金會) is listed as a **group member** of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]].
 
 ## Identity Snapshot
 

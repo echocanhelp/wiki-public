@@ -10,11 +10,11 @@ last_reviewed: 2026-07-16
 ---
 # Taiwanese American Religious Study Association
 
-**Taiwanese American Religious Study Association** (台美人信仰與人文研習會) is listed as a **group member** of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]].
+**Taiwanese American Religious Study Association** ([[organizations/taiwanese-american-irvines-eagle-brotherhood-group-irvine|台美人]]信仰與人文研習會) is listed as a **group member** of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]].
 
 ## Identity Snapshot
 
-- **Chinese:** 台美人信仰與人文研習會
+- **Chinese:** [[organizations/taiwanese-american-religious-study-association-southern-california-tarsa-sc|台美人信仰與人文研習會]]
 - **English (as listed):** Taiwanese American Religious Study Association
 - **Relation:** Taiwan Center group member (official listing)
 - **Source:** https://www.taiwancenter.org/group-members · `taiwancenter-org-group-members.md`

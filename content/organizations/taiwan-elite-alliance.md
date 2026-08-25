@@ -10,7 +10,7 @@ last_reviewed: 2026-07-16
 ---
 # Taiwan Elite Alliance
 
-**Taiwan Elite Alliance** (優社) is listed as a **group member** of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]].
+**Taiwan Elite Alliance** ([[organizations/taiwan-elite-alliancetea|優社]]) is listed as a **group member** of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]].
 
 ## Identity Snapshot
 

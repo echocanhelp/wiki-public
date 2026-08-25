@@ -10,11 +10,11 @@ last_reviewed: 2026-07-16
 ---
 # Joint Alumni Association of Taiwan Teachers College and Normal University(JTTAA)
 
-**Joint Alumni Association of Taiwan Teachers College and Normal University(JTTAA)** (南加州台灣師範院校校友聯合會) is listed as a **group member** of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]].
+**Joint Alumni Association of Taiwan Teachers College and Normal University(JTTAA)** ([[organizations/laguna-woods-village-taiwanese-club|南加州]]台灣師範院校校友聯合會) is listed as a **group member** of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]].
 
 ## Identity Snapshot
 
-- **Chinese:** 南加州台灣師範院校校友聯合會
+- **Chinese:** [[organizations/san-diego-taiwanese-cultural-association|南加州]]台灣師範院校校友聯合會
 - **English (as listed):** Joint Alumni Association of Taiwan Teachers College and Normal University(JTTAA)
 - **Relation:** Taiwan Center group member (official listing)
 - **Source:** https://www.taiwancenter.org/group-members · `taiwancenter-org-group-members.md`

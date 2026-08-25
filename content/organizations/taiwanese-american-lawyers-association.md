@@ -10,7 +10,7 @@ last_reviewed: 2026-07-16
 ---
 # Taiwanese American Lawyers Association (TALA)
 
-**Taiwanese American Lawyers Association (TALA)** (台美律師協會) is listed as a **group member** of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]].
+**Taiwanese American Lawyers Association (TALA)** ([[organizations/taiwanese-american-lawyers-association-tala|台美律師協會]]) is listed as a **group member** of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]].
 
 ## Identity Snapshot
 

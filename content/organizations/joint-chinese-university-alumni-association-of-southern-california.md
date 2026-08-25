@@ -10,11 +10,11 @@ last_reviewed: 2026-07-16
 ---
 # Joint Chinese University Alumni Association of Southern California
 
-**Joint Chinese University Alumni Association of Southern California** (南加州台灣大專聯合校友會) is listed as a **group member** of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]].
+**Joint Chinese University Alumni Association of Southern California** ([[organizations/laguna-woods-village-taiwanese-club|南加州]]台灣大專聯合校友會) is listed as a **group member** of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]].
 
 ## Identity Snapshot
 
-- **Chinese:** 南加州台灣大專聯合校友會
+- **Chinese:** [[organizations/san-diego-taiwanese-cultural-association|南加州]]台灣大專聯合校友會
 - **English (as listed):** Joint Chinese University Alumni Association of Southern California
 - **Relation:** Taiwan Center group member (official listing)
 - **Source:** https://www.taiwancenter.org/group-members · `taiwancenter-org-group-members.md`

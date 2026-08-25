@@ -10,11 +10,11 @@ last_reviewed: 2026-07-16
 ---
 # North America Taiwanese Women's Assoc. Southern CA Chapter NATWA-SC
 
-**North America Taiwanese Women's Assoc. Southern CA Chapter NATWA-SC** (北美洲台灣婦女會南加州分會) is listed as a **group member** of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]].
+**North America Taiwanese Women's Assoc. Southern CA Chapter NATWA-SC** (北美洲台灣婦女會[[organizations/laguna-woods-village-taiwanese-club|南加州]]分會) is listed as a **group member** of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]].
 
 ## Identity Snapshot
 
-- **Chinese:** 北美洲台灣婦女會南加州分會
+- **Chinese:** 北美洲台灣婦女會[[organizations/san-diego-taiwanese-cultural-association|南加州]]分會
 - **English (as listed):** North America Taiwanese Women's Assoc. Southern CA Chapter NATWA-SC
 - **Relation:** Taiwan Center group member (official listing)
 - **Source:** https://www.taiwancenter.org/group-members · `taiwancenter-org-group-members.md`

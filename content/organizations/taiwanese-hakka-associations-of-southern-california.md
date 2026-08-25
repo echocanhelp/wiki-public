@@ -10,11 +10,11 @@ last_reviewed: 2026-07-16
 ---
 # Taiwanese Hakka Associations of Southern California
 
-**Taiwanese Hakka Associations of Southern California** (南加州台灣客家會) is listed as a **group member** of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]].
+**Taiwanese Hakka Associations of Southern California** ([[organizations/laguna-woods-village-taiwanese-club|南加州]]台灣客家會) is listed as a **group member** of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]].
 
 ## Identity Snapshot
 
-- **Chinese:** 南加州台灣客家會
+- **Chinese:** [[organizations/san-diego-taiwanese-cultural-association|南加州]]台灣客家會
 - **English (as listed):** Taiwanese Hakka Associations of Southern California
 - **Relation:** Taiwan Center group member (official listing)
 - **Source:** https://www.taiwancenter.org/group-members · `taiwancenter-org-group-members.md`

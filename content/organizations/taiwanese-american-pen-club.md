@@ -10,11 +10,11 @@ last_reviewed: 2026-07-16
 ---
 # Taiwanese American Pen Club
 
-**Taiwanese American Pen Club** (台美人筆會) is listed as a **group member** of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]].
+**Taiwanese American Pen Club** ([[organizations/taiwanese-american-irvines-eagle-brotherhood-group-irvine|台美人]]筆會) is listed as a **group member** of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]].
 
 ## Identity Snapshot
 
-- **Chinese:** 台美人筆會
+- **Chinese:** [[organizations/taiwanese-american-pen-club-la|台美人筆會]]
 - **English (as listed):** Taiwanese American Pen Club
 - **Relation:** Taiwan Center group member (official listing)
 - **Source:** https://www.taiwancenter.org/group-members · `taiwancenter-org-group-members.md`

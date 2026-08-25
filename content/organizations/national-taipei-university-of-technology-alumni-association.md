@@ -10,11 +10,11 @@ last_reviewed: 2026-07-16
 ---
 # National Taipei University of Technology Alumni Association
 
-**National Taipei University of Technology Alumni Association** (台北工專/台北科技大學南加州校友會) is listed as a **group member** of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]].
+**National Taipei University of Technology Alumni Association** (台北工專/台北科技大學[[organizations/laguna-woods-village-taiwanese-club|南加州]]校友會) is listed as a **group member** of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]].
 
 ## Identity Snapshot
 
-- **Chinese:** 台北工專/台北科技大學南加州校友會
+- **Chinese:** 台北工專/台北科技大學[[organizations/san-diego-taiwanese-cultural-association|南加州]]校友會
 - **English (as listed):** National Taipei University of Technology Alumni Association
 - **Relation:** Taiwan Center group member (official listing)
 - **Source:** https://www.taiwancenter.org/group-members · `taiwancenter-org-group-members.md`
