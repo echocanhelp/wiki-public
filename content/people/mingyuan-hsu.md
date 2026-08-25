@@ -92,7 +92,7 @@ Pages that link to **mingyuan-hsu** (mingyuan-hsu):
 5. [[people/ching-fang-chen|ching-fang-chen]]
 6. [[people/en-sheng-pan|en-sheng-pan]]
 7. [[people/index|index]]
-8. [[organizations/ntpc|NTPC]]
+8. [[people/ntpc|ntpc]]
 9. [[people/pinghsi-liu|pinghsi-liu]]
 10. [[people/pinghsi-liu|pinghsi-liu]]
 11. [[people/pingtung-lai|pingtung-lai]]
