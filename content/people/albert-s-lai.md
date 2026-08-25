@@ -285,7 +285,7 @@ Pages that link to **賴信雄** (albert-s-lai):
 14. [[people/index|index]]
 15. [[people/jonah-chang|jonah-chang]]
 16. [[people/mingyuan-hsu|mingyuan-hsu]]
-17. [[people/ntpc|ntpc]]
+17. [[organizations/ntpc|NTPC]]
 18. [[people/pinghsi-liu|pinghsi-liu]]
 19. [[people/pinghsi-liu|pinghsi-liu]]
 20. [[people/pingtung-lai|pingtung-lai]]
