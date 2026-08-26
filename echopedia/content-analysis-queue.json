@@ -1,25 +1,9 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "standards_version": 10,
-  "total_pages_scanned": 3,
-  "auto_queued": 1,
-  "queue": [
-    {
-      "path": "organizations/penghu-info.md",
-      "findings": [
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_HISTORY",
-        "STRUCT_NO_RELATED"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    }
-  ],
-  "suppressed_findings": 1760,
+  "total_pages_scanned": 1,
+  "auto_queued": 0,
+  "queue": [],
+  "suppressed_findings": 1765,
   "fp_history_entries": 1776
 }

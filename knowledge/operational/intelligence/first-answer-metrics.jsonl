@@ -93,3 +93,543 @@
 {"ts": "2026-08-25T08:13:40Z", "status": "miss", "query": "誰是牧谷", "slug": null, "source": "line", "kind": null}
 {"ts": "2026-08-25T08:17:13Z", "status": "miss", "query": "牧谷", "slug": null, "source": "telegram", "kind": null}
 {"ts": "2026-08-25T08:17:47Z", "status": "miss", "query": "誰是牧谷", "slug": null, "source": "line", "kind": null}
+{"ts": "2026-08-25T19:04:34Z", "status": "hit", "query": "Phoenix Ko", "slug": "phoenix-ko", "source": "cli", "kind": "person"}
+{"ts": "2026-08-25T19:04:35Z", "status": "hit", "query": "GSTPC", "slug": "ku-gstpc", "source": "cli", "kind": "person"}
+{"ts": "2026-08-25T19:04:35Z", "status": "hit", "query": "Phoenix Ko", "slug": "phoenix-ko", "source": "cli", "kind": "person"}
+{"ts": "2026-08-25T19:04:35Z", "status": "hit", "query": "GSTPC", "slug": "ku-gstpc", "source": "cli", "kind": "person"}
+{"ts": "2026-08-25T19:05:28Z", "status": "hit", "query": "Phoenix Ko", "slug": "phoenix-ko", "source": "cli", "kind": "person"}
+{"ts": "2026-08-25T19:05:29Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "cli", "kind": "organization"}
+{"ts": "2026-08-25T19:05:29Z", "status": "hit", "query": "好牧者", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "cli", "kind": "organization"}
+{"ts": "2026-08-25T19:06:49Z", "status": "hit", "query": "Paul Tsai", "slug": "c-c-tsai", "source": "cli", "kind": "person"}
+{"ts": "2026-08-25T19:06:58Z", "status": "miss", "query": "牧谷", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-08-25T19:06:58Z", "status": "hit", "query": "Phoenix Ko", "slug": "phoenix-ko", "source": "cli", "kind": "person"}
+{"ts": "2026-08-25T19:07:08Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "cli", "kind": "organization"}
+{"ts": "2026-08-25T19:07:08Z", "status": "hit", "query": "Brother Ku", "slug": "hu-gstpc", "source": "cli", "kind": "person"}
+{"ts": "2026-08-25T19:14:59Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:14:59Z", "status": "hit", "query": "Phoenix Ko", "slug": "phoenix-ko", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:14:59Z", "status": "hit", "query": "Leonard Hsu Jr", "slug": "leonard-hsu-jr", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:14:59Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:15:00Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:15:00Z", "status": "hit", "query": "Phoenix Ko", "slug": "phoenix-ko", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:16:14Z", "status": "miss", "query": "hello", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T19:16:14Z", "status": "miss", "query": "ok", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T19:16:14Z", "status": "miss", "query": "thanks", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T19:16:15Z", "status": "miss", "query": "hi", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T19:16:15Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:16:15Z", "status": "hit", "query": "Phoenix Ko", "slug": "phoenix-ko", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:16:15Z", "status": "hit", "query": "good morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:16:29Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:16:29Z", "status": "hit", "query": "Phoenix Ko", "slug": "phoenix-ko", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:16:29Z", "status": "hit", "query": "Leonard Hsu Jr", "slug": "leonard-hsu-jr", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:16:29Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:16:56Z", "status": "hit", "query": "GSTPC Taiwan church", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:17:34Z", "status": "hit", "query": "Phoenix Ko", "slug": "phoenix-ko", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:17:35Z", "status": "miss", "query": "你好", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T19:17:35Z", "status": "hit", "query": "Albert Lai", "slug": "albert-chapter1-en-review", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:17:35Z", "status": "hit", "query": "Phoenix Ko", "slug": "phoenix-ko", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:17:46Z", "status": "hit", "query": "許景鴻", "slug": "leonard-hsu-jr", "source": "line", "kind": "person"}
+{"ts": "2026-08-25T19:17:46Z", "status": "hit", "query": "Ashton Hsu", "slug": "ashton-hsu", "source": "cli", "kind": "person"}
+{"ts": "2026-08-25T19:17:47Z", "status": "miss", "query": "zzznomansuchperson", "slug": null, "source": "line", "kind": null}
+{"ts": "2026-08-25T19:22:12Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:22:13Z", "status": "miss", "query": "誰是牧谷", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T19:22:13Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:22:13Z", "status": "hit", "query": "那天我在 GSTPC 幫忙", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:22:13Z", "status": "hit", "query": "the church in Monterey Park", "slug": "lovell-park-chang", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:22:14Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:22:14Z", "status": "hit", "query": "Phoenix Ko", "slug": "phoenix-ko", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:22:14Z", "status": "hit", "query": "Leonard Hsu Jr", "slug": "leonard-hsu-jr", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:22:14Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:22:21Z", "status": "hit", "query": "the church in Monterey Park", "slug": "lovell-park-chang", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:22:21Z", "status": "hit", "query": "the church in Monterey Park", "slug": "lovell-park-chang", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:23:04Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:23:04Z", "status": "miss", "query": "誰是牧谷", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T19:23:04Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:23:05Z", "status": "hit", "query": "那天我在 GSTPC 幫忙", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:23:05Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:23:13Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:24:54Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:24:54Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:27:14Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:27:14Z", "status": "hit", "query": "Phoenix Ko", "slug": "phoenix-ko", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:27:14Z", "status": "hit", "query": "Leonard Hsu Jr", "slug": "leonard-hsu-jr", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:27:15Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:27:15Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:27:15Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:27:15Z", "status": "miss", "query": "誰是牧谷", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T19:27:16Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:27:16Z", "status": "hit", "query": "那天我在 GSTPC 幫忙", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:27:16Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:29:20Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:29:20Z", "status": "miss", "query": "誰是牧谷", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T19:29:20Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:29:21Z", "status": "hit", "query": "那天我在 GSTPC 幫忙", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:29:21Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:29:21Z", "status": "hit", "query": "Albert Lai", "slug": "albert-chapter1-en-review", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:29:21Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:29:22Z", "status": "hit", "query": "Phoenix Ko", "slug": "phoenix-ko", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:29:22Z", "status": "hit", "query": "Leonard Hsu Jr", "slug": "leonard-hsu-jr", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:29:22Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:29:22Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:31:18Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:31:18Z", "status": "hit", "query": "Phoenix Ko", "slug": "phoenix-ko", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:31:18Z", "status": "hit", "query": "Leonard Hsu Jr", "slug": "leonard-hsu-jr", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:31:18Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:31:19Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:31:19Z", "status": "hit", "query": "陳乃光", "slug": "rex-chen", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:31:19Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:31:19Z", "status": "miss", "query": "誰是牧谷", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T19:31:20Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:31:20Z", "status": "hit", "query": "那天我在 GSTPC 幫忙", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:31:20Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:31:20Z", "status": "hit", "query": "Albert Lai", "slug": "albert-chapter1-en-review", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:31:31Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:31:31Z", "status": "hit", "query": "Phoenix Ko", "slug": "phoenix-ko", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:31:31Z", "status": "hit", "query": "Leonard Hsu Jr", "slug": "leonard-hsu-jr", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:31:31Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:31:32Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:31:32Z", "status": "hit", "query": "陳乃光", "slug": "rex-chen", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:31:32Z", "status": "hit", "query": "吳兆峯", "slug": "ken-wu", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:31:32Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:31:32Z", "status": "miss", "query": "誰是牧谷", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T19:31:33Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:31:33Z", "status": "hit", "query": "那天我在 GSTPC 幫忙", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:31:33Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:31:33Z", "status": "hit", "query": "Albert Lai", "slug": "albert-chapter1-en-review", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:36:25Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:36:26Z", "status": "miss", "query": "誰是牧谷", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T19:36:26Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:36:26Z", "status": "hit", "query": "那天我在 GSTPC 幫忙", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:36:27Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:36:27Z", "status": "hit", "query": "Albert Lai", "slug": "albert-chapter1-en-review", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:36:27Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:36:27Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:36:28Z", "status": "hit", "query": "Phoenix Ko", "slug": "phoenix-ko", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:36:28Z", "status": "hit", "query": "Leonard Hsu Jr", "slug": "leonard-hsu-jr", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:36:28Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:36:28Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:36:28Z", "status": "hit", "query": "陳乃光", "slug": "rex-chen", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:36:29Z", "status": "hit", "query": "吳兆峯", "slug": "ken-wu", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:38:22Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:38:23Z", "status": "miss", "query": "誰是牧谷", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T19:38:23Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:38:23Z", "status": "hit", "query": "那天我在 GSTPC 幫忙", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:38:23Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:38:24Z", "status": "hit", "query": "Albert Lai", "slug": "albert-chapter1-en-review", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:38:24Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:38:24Z", "status": "hit", "query": "Albert Lai", "slug": "albert-chapter1-en-review", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:38:24Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:38:25Z", "status": "hit", "query": "Phoenix Ko", "slug": "phoenix-ko", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:38:25Z", "status": "hit", "query": "Leonard Hsu Jr", "slug": "leonard-hsu-jr", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:38:25Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:38:25Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:38:26Z", "status": "hit", "query": "陳乃光", "slug": "rex-chen", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:38:26Z", "status": "hit", "query": "吳兆峯", "slug": "ken-wu", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:38:32Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:38:32Z", "status": "miss", "query": "誰是牧谷", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T19:38:32Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:38:33Z", "status": "hit", "query": "那天我在 GSTPC 幫忙", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:38:33Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:38:33Z", "status": "hit", "query": "Albert Lai", "slug": "albert-chapter1-en-review", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:38:33Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:38:34Z", "status": "hit", "query": "Albert Lai", "slug": "albert-chapter1-en-review", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:38:34Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:38:34Z", "status": "hit", "query": "Phoenix Ko", "slug": "phoenix-ko", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:38:34Z", "status": "hit", "query": "Leonard Hsu Jr", "slug": "leonard-hsu-jr", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:38:35Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:38:35Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:38:35Z", "status": "hit", "query": "陳乃光", "slug": "rex-chen", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:38:35Z", "status": "hit", "query": "吳兆峯", "slug": "ken-wu", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:40:26Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:40:26Z", "status": "miss", "query": "誰是牧谷", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T19:40:27Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:40:27Z", "status": "hit", "query": "那天我在 GSTPC 幫忙", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:40:27Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:40:27Z", "status": "hit", "query": "Albert Lai", "slug": "albert-chapter1-en-review", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:40:28Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:40:28Z", "status": "hit", "query": "Albert Lai", "slug": "albert-chapter1-en-review", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:40:28Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:40:28Z", "status": "hit", "query": "Phoenix Ko", "slug": "phoenix-ko", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:40:29Z", "status": "hit", "query": "Leonard Hsu Jr", "slug": "leonard-hsu-jr", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:40:29Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:40:29Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:40:29Z", "status": "hit", "query": "陳乃光", "slug": "rex-chen", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:40:30Z", "status": "hit", "query": "吳兆峯", "slug": "ken-wu", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:42:20Z", "status": "hit", "query": "in TAHS", "slug": "taiwanese-american-historical-society", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:43:12Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:43:13Z", "status": "miss", "query": "誰是牧谷", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T19:43:13Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:43:14Z", "status": "hit", "query": "那天我在 GSTPC 幫忙", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:43:14Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:43:15Z", "status": "hit", "query": "Albert Lai", "slug": "albert-chapter1-en-review", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:43:15Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:43:15Z", "status": "hit", "query": "Albert Lai", "slug": "albert-chapter1-en-review", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:43:16Z", "status": "hit", "query": "in TAHS", "slug": "taiwanese-american-historical-society", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:43:16Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:43:17Z", "status": "hit", "query": "Phoenix Ko", "slug": "phoenix-ko", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:43:17Z", "status": "hit", "query": "Leonard Hsu Jr", "slug": "leonard-hsu-jr", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:43:17Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:43:18Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:43:18Z", "status": "hit", "query": "陳乃光", "slug": "rex-chen", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:43:18Z", "status": "hit", "query": "吳兆峯", "slug": "ken-wu", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:45:36Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:45:37Z", "status": "miss", "query": "誰是牧谷", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T19:45:37Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:45:37Z", "status": "hit", "query": "那天我在 GSTPC 幫忙", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:45:38Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:45:38Z", "status": "hit", "query": "Albert Lai", "slug": "albert-chapter1-en-review", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:45:39Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:45:39Z", "status": "hit", "query": "Albert Lai", "slug": "albert-chapter1-en-review", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:45:40Z", "status": "hit", "query": "in TAHS", "slug": "taiwanese-american-historical-society", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:46:43Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:46:44Z", "status": "miss", "query": "誰是牧谷", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T19:46:44Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:46:44Z", "status": "hit", "query": "那天我在 GSTPC 幫忙", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:46:45Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:46:45Z", "status": "hit", "query": "Albert Lai", "slug": "albert-chapter1-en-review", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:46:57Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:46:58Z", "status": "hit", "query": "Phoenix Ko", "slug": "phoenix-ko", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:46:58Z", "status": "hit", "query": "Leonard Hsu Jr", "slug": "leonard-hsu-jr", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:46:58Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:46:59Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:46:59Z", "status": "hit", "query": "陳乃光", "slug": "rex-chen", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:46:59Z", "status": "hit", "query": "吳兆峯", "slug": "ken-wu", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:47:10Z", "status": "hit", "query": "Phoenix Ko", "slug": "phoenix-ko", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:47:10Z", "status": "miss", "query": "许景鸿", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T19:47:11Z", "status": "miss", "query": "许景鴻", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T19:47:11Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:47:11Z", "status": "hit", "query": "Albert Lai", "slug": "albert-chapter1-en-review", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:47:12Z", "status": "hit", "query": "柯貝昀", "slug": "phoenix-ko", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:47:16Z", "status": "hit", "query": "Phoenix Ko", "slug": "phoenix-ko", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:47:16Z", "status": "miss", "query": "许景鸿", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T19:47:16Z", "status": "miss", "query": "许景鴻", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T19:47:17Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:47:17Z", "status": "hit", "query": "Albert Lai", "slug": "albert-chapter1-en-review", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:47:18Z", "status": "hit", "query": "柯貝昀", "slug": "phoenix-ko", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:48:48Z", "status": "hit", "query": "Phoenix Ko", "slug": "phoenix-ko", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:48:48Z", "status": "miss", "query": "许景鸿", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T19:48:48Z", "status": "miss", "query": "许景鴻", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T19:48:49Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:48:49Z", "status": "hit", "query": "Albert Lai", "slug": "albert-chapter1-en-review", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:48:49Z", "status": "hit", "query": "柯貝昀", "slug": "phoenix-ko", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:51:48Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:51:49Z", "status": "miss", "query": "誰是牧谷", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T19:51:49Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:51:49Z", "status": "hit", "query": "那天我在 GSTPC 幫忙", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:51:50Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:51:50Z", "status": "hit", "query": "Albert Lai", "slug": "albert-chapter1-en-review", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:51:50Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:51:51Z", "status": "hit", "query": "Albert Lai", "slug": "albert-chapter1-en-review", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:51:51Z", "status": "hit", "query": "in TAHS", "slug": "taiwanese-american-historical-society", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:53:16Z", "status": "hit", "query": "Ken Wu", "slug": "ken-wu", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:53:16Z", "status": "hit", "query": "Ken Wu", "slug": "ken-wu", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:53:16Z", "status": "hit", "query": "I met Ken Woo yesterday", "slug": "catherine-ken", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:53:17Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:53:17Z", "status": "miss", "query": "誰是牧谷", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T19:53:18Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:53:18Z", "status": "hit", "query": "那天我在 GSTPC 幫忙", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:53:19Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:53:19Z", "status": "hit", "query": "Albert Lai", "slug": "albert-chapter1-en-review", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:53:20Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:53:20Z", "status": "hit", "query": "Albert Lai", "slug": "albert-chapter1-en-review", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:53:21Z", "status": "hit", "query": "in TAHS", "slug": "taiwanese-american-historical-society", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:53:21Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:53:21Z", "status": "hit", "query": "Phoenix Ko", "slug": "phoenix-ko", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:53:21Z", "status": "hit", "query": "Leonard Hsu Jr", "slug": "leonard-hsu-jr", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:53:22Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:53:22Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:53:23Z", "status": "hit", "query": "陳乃光", "slug": "rex-chen", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:53:23Z", "status": "hit", "query": "吳兆峯", "slug": "ken-wu", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:54:21Z", "status": "hit", "query": "Ken Wu", "slug": "ken-wu", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:54:22Z", "status": "hit", "query": "Ken Wu", "slug": "ken-wu", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:54:22Z", "status": "hit", "query": "I met Ken Woo yesterday", "slug": "catherine-ken", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:54:23Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:54:23Z", "status": "miss", "query": "誰是牧谷", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T19:54:23Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:54:24Z", "status": "hit", "query": "那天我在 GSTPC 幫忙", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:54:24Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:54:25Z", "status": "hit", "query": "Albert Lai", "slug": "albert-chapter1-en-review", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:54:26Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:54:26Z", "status": "hit", "query": "Albert Lai", "slug": "albert-chapter1-en-review", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:54:26Z", "status": "hit", "query": "in TAHS", "slug": "taiwanese-american-historical-society", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:54:27Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:54:27Z", "status": "hit", "query": "Phoenix Ko", "slug": "phoenix-ko", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:54:27Z", "status": "hit", "query": "Leonard Hsu Jr", "slug": "leonard-hsu-jr", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:54:28Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:54:28Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:54:28Z", "status": "hit", "query": "陳乃光", "slug": "rex-chen", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:54:29Z", "status": "hit", "query": "吳兆峯", "slug": "ken-wu", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:56:50Z", "status": "hit", "query": "Bitcoin is pumping and the Lakers won", "slug": "chicago-taiwanese-cuisine-and-culture-association", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:56:50Z", "status": "hit", "query": "那天我在 GSTPC 幫忙", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:56:51Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:56:51Z", "status": "miss", "query": "誰是牧谷", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T19:56:52Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:56:52Z", "status": "hit", "query": "那天我在 GSTPC 幫忙", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:56:52Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:56:53Z", "status": "hit", "query": "Albert Lai", "slug": "albert-chapter1-en-review", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:56:54Z", "status": "hit", "query": "Ken Wu", "slug": "ken-wu", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:56:54Z", "status": "hit", "query": "Ken Wu", "slug": "ken-wu", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:56:54Z", "status": "hit", "query": "I met Ken Woo yesterday", "slug": "catherine-ken", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:56:55Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:56:56Z", "status": "hit", "query": "Albert Lai", "slug": "albert-chapter1-en-review", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:56:56Z", "status": "hit", "query": "in TAHS", "slug": "taiwanese-american-historical-society", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:56:56Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:56:57Z", "status": "hit", "query": "Phoenix Ko", "slug": "phoenix-ko", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:56:57Z", "status": "hit", "query": "Leonard Hsu Jr", "slug": "leonard-hsu-jr", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:56:57Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:56:58Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:56:58Z", "status": "hit", "query": "陳乃光", "slug": "rex-chen", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:56:58Z", "status": "hit", "query": "吳兆峯", "slug": "ken-wu", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:58:05Z", "status": "hit", "query": "Ken Wu", "slug": "ken-wu", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:58:05Z", "status": "hit", "query": "Ken Wu", "slug": "ken-wu", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:58:05Z", "status": "hit", "query": "I met Ken Woo yesterday", "slug": "catherine-ken", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:58:06Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:58:07Z", "status": "miss", "query": "誰是牧谷", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T19:58:07Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:58:07Z", "status": "hit", "query": "那天我在 GSTPC 幫忙", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:58:08Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:58:08Z", "status": "hit", "query": "Albert Lai", "slug": "albert-chapter1-en-review", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:58:49Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:58:49Z", "status": "hit", "query": "Albert Lai", "slug": "albert-chapter1-en-review", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:58:49Z", "status": "hit", "query": "in TAHS", "slug": "taiwanese-american-historical-society", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:58:50Z", "status": "hit", "query": "We went to the 228 memorial", "slug": "chhong-bi-memorial-fund", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:58:50Z", "status": "miss", "query": "Good Morning", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T19:58:51Z", "status": "miss", "query": "誰是牧谷", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T19:58:51Z", "status": "miss", "query": "Good Morning", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T19:58:51Z", "status": "hit", "query": "那天我在 GSTPC 幫忙", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:58:52Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:58:53Z", "status": "hit", "query": "Albert Lai", "slug": "albert-chapter1-en-review", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:58:53Z", "status": "hit", "query": "Ken Wu", "slug": "ken-wu", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:58:53Z", "status": "hit", "query": "Ken Wu", "slug": "ken-wu", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:58:54Z", "status": "hit", "query": "I met Ken Woo yesterday", "slug": "catherine-ken", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:58:54Z", "status": "hit", "query": "Bitcoin is pumping and the Lakers won", "slug": "chicago-taiwanese-cuisine-and-culture-association", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:58:55Z", "status": "hit", "query": "那天我在 GSTPC 幫忙", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:58:55Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:58:56Z", "status": "hit", "query": "Phoenix Ko", "slug": "phoenix-ko", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:58:56Z", "status": "hit", "query": "Leonard Hsu Jr", "slug": "leonard-hsu-jr", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:58:56Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:58:57Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T19:58:57Z", "status": "hit", "query": "陳乃光", "slug": "rex-chen", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T19:58:57Z", "status": "hit", "query": "吳兆峯", "slug": "ken-wu", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:07:39Z", "status": "hit", "query": "My favorites are steak, salsa salad bar and nacho's", "slug": "chicago-taiwanese-cuisine-and-culture-association", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:10:23Z", "status": "miss", "query": "Good Morning", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:10:23Z", "status": "miss", "query": "早安", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:10:24Z", "status": "miss", "query": "誰是牧谷", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:10:24Z", "status": "miss", "query": "Good Morning", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:10:25Z", "status": "hit", "query": "那天我在 GSTPC 幫忙", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:10:25Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:10:26Z", "status": "hit", "query": "Albert Lai", "slug": "albert-chapter1-en-review", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:11:42Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:11:42Z", "status": "hit", "query": "Albert Lai", "slug": "albert-chapter1-en-review", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:11:43Z", "status": "hit", "query": "in TAHS", "slug": "taiwanese-american-historical-society", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:11:43Z", "status": "hit", "query": "We went to the 228 memorial", "slug": "chhong-bi-memorial-fund", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:11:44Z", "status": "miss", "query": "Good Morning", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:11:44Z", "status": "miss", "query": "早安", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:11:44Z", "status": "miss", "query": "誰是牧谷", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:11:45Z", "status": "miss", "query": "Good Morning", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:11:45Z", "status": "hit", "query": "那天我在 GSTPC 幫忙", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:11:46Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:11:46Z", "status": "hit", "query": "Albert Lai", "slug": "albert-chapter1-en-review", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:11:52Z", "status": "hit", "query": "We went to the 228 memorial", "slug": "chhong-bi-memorial-fund", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:15:05Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:15:06Z", "status": "hit", "query": "Albert Lai", "slug": "albert-chapter1-en-review", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:15:06Z", "status": "hit", "query": "in TAHS", "slug": "taiwanese-american-historical-society", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:15:07Z", "status": "hit", "query": "We went to the 228 memorial", "slug": "chhong-bi-memorial-fund", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:15:07Z", "status": "miss", "query": "菁英錄 yearbook", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:15:08Z", "status": "miss", "query": "Good Morning", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:15:08Z", "status": "miss", "query": "早安", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:15:09Z", "status": "miss", "query": "誰是牧谷", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:15:09Z", "status": "miss", "query": "Good Morning", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:15:09Z", "status": "hit", "query": "那天我在 GSTPC 幫忙", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:15:10Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:15:11Z", "status": "hit", "query": "Albert Lai", "slug": "albert-chapter1-en-review", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:16:08Z", "status": "miss", "query": "Good Morning", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:16:08Z", "status": "miss", "query": "早安", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:16:09Z", "status": "miss", "query": "誰是牧谷", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:16:09Z", "status": "miss", "query": "Good Morning", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:16:10Z", "status": "hit", "query": "那天我在 GSTPC 幫忙", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:16:10Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:16:11Z", "status": "hit", "query": "Albert Lai", "slug": "albert-chapter1-en-review", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:21:03Z", "status": "hit", "query": "Ken Wu", "slug": "ken-wu", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:21:04Z", "status": "hit", "query": "Ken Wu", "slug": "ken-wu", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:21:04Z", "status": "hit", "query": "I met Ken Woo yesterday", "slug": "catherine-ken", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:24:36Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:24:36Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:24:37Z", "status": "hit", "query": "in TAHS", "slug": "taiwanese-american-historical-society", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:24:37Z", "status": "hit", "query": "We went to the 228 memorial", "slug": "taiwan-228-memorial-association-of-southern-california", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:24:38Z", "status": "miss", "query": "菁英錄 yearbook", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:24:38Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:24:39Z", "status": "miss", "query": "早安", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:24:39Z", "status": "miss", "query": "誰是牧谷", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:24:39Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:24:40Z", "status": "hit", "query": "那天我在 GSTPC 幫忙", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:24:40Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:24:41Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:26:22Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:26:22Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:26:23Z", "status": "hit", "query": "in TAHS", "slug": "taiwanese-american-historical-society", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:26:23Z", "status": "hit", "query": "We went to the 228 memorial", "slug": "taiwan-228-memorial-association-of-southern-california", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:26:23Z", "status": "miss", "query": "菁英錄 yearbook", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:26:24Z", "status": "hit", "query": "228 Memorial Concert in NorCal", "slug": "hsu-ling-yun-xiucai-memorial-hall", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:26:24Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:26:25Z", "status": "miss", "query": "早安", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:26:25Z", "status": "miss", "query": "誰是牧谷", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:26:26Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:26:26Z", "status": "hit", "query": "那天我在 GSTPC 幫忙", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:26:27Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:26:27Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:26:28Z", "status": "hit", "query": "Ken Wu", "slug": "ken-wu", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:26:28Z", "status": "hit", "query": "Ken Wu", "slug": "ken-wu", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:26:28Z", "status": "hit", "query": "I met Ken Woo yesterday", "slug": "ken-wu", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:29:21Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:29:22Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:29:22Z", "status": "hit", "query": "in TAHS", "slug": "taiwanese-american-historical-society", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:29:23Z", "status": "hit", "query": "We went to the 228 memorial", "slug": "taiwan-228-memorial-association-of-southern-california", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:29:23Z", "status": "miss", "query": "菁英錄 yearbook", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:29:24Z", "status": "hit", "query": "228 Memorial Concert in NorCal", "slug": "hsu-ling-yun-xiucai-memorial-hall", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:29:24Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:29:24Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:29:25Z", "status": "miss", "query": "早安", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:29:25Z", "status": "miss", "query": "誰是牧谷", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:29:25Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:29:26Z", "status": "hit", "query": "那天我在 GSTPC 幫忙", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:29:26Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:29:27Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:29:28Z", "status": "hit", "query": "Ken Wu", "slug": "ken-wu", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:29:28Z", "status": "hit", "query": "Ken Wu", "slug": "ken-wu", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:29:28Z", "status": "hit", "query": "I met Ken Woo yesterday", "slug": "ken-wu", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:33:08Z", "status": "hit", "query": "那天我在 GSTPC 幫忙", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:33:09Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:33:09Z", "status": "hit", "query": "It's been a long time since I thought about grandma", "slug": "long-lee", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:33:10Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:34:47Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:34:47Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:34:48Z", "status": "hit", "query": "in TAHS", "slug": "taiwanese-american-historical-society", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:34:48Z", "status": "hit", "query": "We went to the 228 memorial", "slug": "taiwan-228-memorial-association-of-southern-california", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:34:48Z", "status": "miss", "query": "菁英錄 yearbook", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:34:49Z", "status": "hit", "query": "228 Memorial Concert in NorCal", "slug": "hsu-ling-yun-xiucai-memorial-hall", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:34:49Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:34:49Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:34:50Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:34:50Z", "status": "miss", "query": "早安", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:34:51Z", "status": "miss", "query": "誰是牧谷", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:34:51Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:34:51Z", "status": "hit", "query": "那天我在 GSTPC 幫忙", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:34:52Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:34:52Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:34:59Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:35:00Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:35:00Z", "status": "hit", "query": "in TAHS", "slug": "taiwanese-american-historical-society", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:35:00Z", "status": "hit", "query": "We went to the 228 memorial", "slug": "taiwan-228-memorial-association-of-southern-california", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:35:01Z", "status": "miss", "query": "菁英錄 yearbook", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:35:01Z", "status": "hit", "query": "228 Memorial Concert in NorCal", "slug": "hsu-ling-yun-xiucai-memorial-hall", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:35:02Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:35:02Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:35:02Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:35:03Z", "status": "miss", "query": "早安", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:35:03Z", "status": "miss", "query": "誰是牧谷", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:35:03Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:35:04Z", "status": "hit", "query": "那天我在 GSTPC 幫忙", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:35:04Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:35:05Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:35:05Z", "status": "hit", "query": "Ken Wu", "slug": "ken-wu", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:35:06Z", "status": "hit", "query": "Ken Wu", "slug": "ken-wu", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:35:06Z", "status": "hit", "query": "I met Ken Woo yesterday", "slug": "ken-wu", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:35:07Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:35:07Z", "status": "hit", "query": "那天我在 GSTPC 幫忙", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:40:17Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:40:17Z", "status": "miss", "query": "早安", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:40:17Z", "status": "miss", "query": "誰是牧谷", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:40:18Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:40:18Z", "status": "hit", "query": "那天我在 GSTPC 幫忙", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:40:19Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:40:19Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:40:19Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:40:20Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:40:20Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:40:21Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:40:21Z", "status": "hit", "query": "in TAHS", "slug": "taiwanese-american-historical-society", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:40:21Z", "status": "hit", "query": "We went to the 228 memorial", "slug": "taiwan-228-memorial-association-of-southern-california", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:40:22Z", "status": "miss", "query": "菁英錄 yearbook", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:40:22Z", "status": "hit", "query": "228 Memorial Concert in NorCal", "slug": "hsu-ling-yun-xiucai-memorial-hall", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:40:23Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:40:23Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:40:24Z", "status": "hit", "query": "Ken Wu", "slug": "ken-wu", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:40:24Z", "status": "hit", "query": "Ken Wu", "slug": "ken-wu", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:40:24Z", "status": "hit", "query": "I met Ken Woo yesterday", "slug": "ken-wu", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:50:17Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:50:26Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:50:26Z", "status": "miss", "query": "早安", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:50:27Z", "status": "miss", "query": "誰是牧谷", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:50:27Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:50:28Z", "status": "hit", "query": "那天我在 GSTPC 幫忙", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:50:28Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:50:29Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:50:29Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:50:30Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:50:30Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:50:30Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:50:31Z", "status": "hit", "query": "in TAHS", "slug": "taiwanese-american-historical-society", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:50:31Z", "status": "hit", "query": "We went to the 228 memorial", "slug": "taiwan-228-memorial-association-of-southern-california", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:50:32Z", "status": "miss", "query": "菁英錄 yearbook", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:50:32Z", "status": "hit", "query": "228 Memorial Concert in NorCal", "slug": "hsu-ling-yun-xiucai-memorial-hall", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:50:33Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:50:33Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:51:46Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:51:47Z", "status": "miss", "query": "早安", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:51:47Z", "status": "miss", "query": "誰是牧谷", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:51:48Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:51:48Z", "status": "hit", "query": "那天我在 GSTPC 幫忙", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:51:49Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:51:49Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:51:50Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:51:50Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:51:51Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:51:51Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:51:52Z", "status": "hit", "query": "in TAHS", "slug": "taiwanese-american-historical-society", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:51:52Z", "status": "hit", "query": "We went to the 228 memorial", "slug": "taiwan-228-memorial-association-of-southern-california", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:51:52Z", "status": "miss", "query": "菁英錄 yearbook", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:51:53Z", "status": "hit", "query": "228 Memorial Concert in NorCal", "slug": "hsu-ling-yun-xiucai-memorial-hall", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:51:53Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:51:54Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:53:13Z", "status": "hit", "query": "許景鴻", "slug": "leonard-hsu-jr", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:54:41Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:54:41Z", "status": "miss", "query": "早安", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:54:41Z", "status": "miss", "query": "誰是牧谷", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:54:42Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:54:42Z", "status": "hit", "query": "那天我在 GSTPC 幫忙", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:54:43Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:54:43Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:54:44Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:54:44Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:54:45Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:54:45Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:54:46Z", "status": "hit", "query": "in TAHS", "slug": "taiwanese-american-historical-society", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:54:46Z", "status": "hit", "query": "We went to the 228 memorial", "slug": "taiwan-228-memorial-association-of-southern-california", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:54:46Z", "status": "miss", "query": "菁英錄 yearbook", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T20:54:47Z", "status": "hit", "query": "228 Memorial Concert in NorCal", "slug": "hsu-ling-yun-xiucai-memorial-hall", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:54:47Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:54:48Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:54:48Z", "status": "hit", "query": "Ken Wu", "slug": "ken-wu", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:54:49Z", "status": "hit", "query": "Ken Wu", "slug": "ken-wu", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:54:49Z", "status": "hit", "query": "I met Ken Woo yesterday", "slug": "ken-wu", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:54:50Z", "status": "hit", "query": "Bitcoin is pumping and the Lakers won", "slug": "dr-c-john-won", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T20:54:51Z", "status": "hit", "query": "那天我在 GSTPC 幫忙", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T20:57:14Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T21:01:15Z", "status": "hit", "query": "Wifey made me a delicious shake, I saw her sneak vitamins in it to keep me and the kids healthy.  Wonderful woman", "slug": "prof-tien-her-wang", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T21:30:30Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T21:30:30Z", "status": "miss", "query": "早安", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T21:30:31Z", "status": "miss", "query": "誰是牧谷", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T21:30:31Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T21:30:31Z", "status": "hit", "query": "那天我在 GSTPC 幫忙", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T21:30:32Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T21:30:33Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T21:30:33Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T21:30:33Z", "status": "hit", "query": "Good Morning", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T21:30:34Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T21:30:34Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T21:30:35Z", "status": "hit", "query": "in TAHS", "slug": "taiwanese-american-historical-society", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T21:30:35Z", "status": "hit", "query": "We went to the 228 memorial", "slug": "taiwan-228-memorial-association-of-southern-california", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T21:30:36Z", "status": "miss", "query": "菁英錄 yearbook", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-25T21:30:36Z", "status": "hit", "query": "228 Memorial Concert in NorCal", "slug": "hsu-ling-yun-xiucai-memorial-hall", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-25T21:30:37Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-25T21:30:37Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}

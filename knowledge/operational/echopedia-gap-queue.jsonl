@@ -13,3 +13,6 @@
 {"id": "gap_5fd080a9d3", "ts": "2026-08-20T01:29:19Z", "status": "open", "query": "228", "source": "telegram", "kind": "echopedia_miss", "priority": "need_you", "notes": "", "raw_query": "228"}
 {"id": "gap_0129882b06", "ts": "2026-08-20T01:29:19Z", "status": "open", "query": "the 228 incident", "source": "telegram", "kind": "echopedia_miss", "priority": "need_you", "notes": "", "raw_query": "what is the 228 incident"}
 {"id": "gap_fa15c039b5", "ts": "2026-08-25T08:17:13Z", "status": "open", "query": "牧谷", "source": "telegram", "kind": "echopedia_miss", "priority": "need_you", "notes": "", "raw_query": "牧谷"}
+{"id": "gap_7add35834f", "ts": "2026-08-25T19:06:58Z", "status": "open", "query": "牧谷", "source": "cli", "kind": "echopedia_miss", "priority": "backfill", "notes": "", "raw_query": "牧谷"}
+{"id": "gap_c9e6a196e9", "ts": "2026-08-25T19:17:47Z", "status": "open", "query": "zzznomansuchperson", "source": "line", "kind": "echopedia_miss", "priority": "need_you", "notes": "", "raw_query": "zzznomansuchperson"}
+{"id": "gap_e0d5c724a8", "ts": "2026-08-25T19:43:54Z", "status": "open", "query": "zzznomansuchperson", "source": "cli", "kind": "echopedia_miss", "priority": "backfill", "notes": "", "raw_query": "zzznomansuchperson"}

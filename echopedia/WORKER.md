@@ -29,8 +29,9 @@ Live (2026-08-19): pinto `model.default` = `ornith-1.5-35b-a3b-nvfp4` `:8888`; `
 **Hand-off (planner on Grok):**
 
 1. Decide identity + playbook in this chat (short).
-2. `hermes kanban create "P8 …" --body "WORKER.md P8 PATH=… SOURCE=…" --assignee pinto`  
-   **or** `delegate_task(goal="WORKER P8 …", context="paths + gates")` — children already inherit Ornith.
+2. `hermes kanban create "P8 …" --body "WORKER.md P8 PATH=…" --assignee pinto --model ornith-1.5-35b-a3b-nvfp4 --provider custom:pinto --max-runtime 5m`  
+   **or** `delegate_task(tasks=[7 short goals])` — never 2–4; children inherit Ornith.  
+   Leave the card **ready**. Do **not** `claim` from Grok.
 3. Do **not** execute P8/P9/P3/P12 in the Grok turn.
 4. Re-read the files the worker claims; then P1/P2 only if you must (P2 may stay planner if publish is one script).
 

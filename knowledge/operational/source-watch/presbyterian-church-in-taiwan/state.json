@@ -258,8 +258,14 @@
       "len": 48353,
       "code": 200,
       "baseline": false
+    },
+    "https://www.pct.org.tw/news_focus.aspx?strSiteID=S001&amp;strContentid=C2026031300003": {
+      "hash": "7e4c72e866c6439a42bb06efa75e710c",
+      "len": 30724,
+      "code": 200,
+      "baseline": false
     }
   },
-  "last_poll": "2026-08-23T14:06:56Z",
+  "last_poll": "2026-08-25T18:22:38Z",
   "baseline_at": null
 }

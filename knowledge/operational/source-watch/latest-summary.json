@@ -1,152 +1,20 @@
 {
-  "at": "2026-08-23T14:09:31Z",
-  "dry_run": false,
+  "at": "2026-08-25T18:27:47Z",
+  "dry_run": true,
   "sources": [
     {
-      "id": "taiwancenter-org",
-      "new": [],
-      "changed": [],
-      "gone_sample": [],
-      "errors": [],
-      "applied": [],
-      "parked": false,
-      "a_band": [],
-      "advisory": []
-    },
-    {
-      "id": "good-shepherd-taiwanese-presbyterian-church",
-      "new": [
-        "https://gstpc.org/home/08-23-2026-sunday-bulletin/"
-      ],
-      "changed": [
-        "https://gstpc.org/home/feed/"
-      ],
-      "gone_sample": [],
-      "errors": [
-        "https://gstpc.org/home/xmlrpc.php HTTP 405",
-        "https://gstpc.org/home/wprhe_qrcode_style.css  HTTP 404"
-      ],
-      "applied": [
-        "tier2:good-shepherd-taiwanese-presbyterian-church-delta-2026-08-23-home-feed.md",
-        "tier2:good-shepherd-taiwanese-presbyterian-church-delta-2026-08-23-home-08-23-2026-sunday-bulletin.md",
-        "last_reviewed:hub",
-        "last_reviewed:good-shepherd-taiwanese-presbyterian-church.md"
-      ],
-      "parked": false,
-      "a_band": [],
-      "advisory": []
-    },
-    {
-      "id": "irvine-taiwanese-presbyterian-church",
-      "new": [],
-      "changed": [],
-      "gone_sample": [],
-      "errors": [
-        "https://www.irvine-tpc.org/"
-      ],
-      "applied": [],
-      "parked": false,
-      "a_band": [],
-      "advisory": []
-    },
-    {
       "id": "presbyterian-church-in-taiwan",
-      "new": [
-        "https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&amp;strContentID=C2026082100001&amp;strDesc=Y"
-      ],
+      "new": [],
       "changed": [
-        "https://www.pct.org.tw/news_focus.aspx?strSiteID=S001&amp;strContentid=C2026031600001"
+        "https://www.pct.org.tw/news_focus.aspx",
+        "https://www.pct.org.tw/news_focus.aspx?strSiteID=S001&amp;strContentid=C2026073100002"
       ],
-      "gone_sample": [],
-      "errors": [
-        "https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&amp;strContentID=C2026072900007&amp;strDesc=Y"
-      ],
-      "applied": [
-        "tier2:presbyterian-church-in-taiwan-delta-2026-08-23-news_focus.aspx.md",
-        "tier2:presbyterian-church-in-taiwan-delta-2026-08-23-news_pct.aspx.md",
-        "last_reviewed:hub",
-        "last_reviewed:presbyterian-church-in-taiwan.md"
-      ],
-      "parked": false,
-      "a_band": [],
-      "advisory": []
-    },
-    {
-      "id": "laijohn-com",
-      "new": [],
-      "changed": [],
       "gone_sample": [],
       "errors": [],
       "applied": [],
       "parked": false,
       "a_band": [],
       "advisory": []
-    },
-    {
-      "id": "taiwaneseamerican-org",
-      "new": [
-        "https://www.taiwaneseamerican.org/2026/08/beneath-the-same-round-moon-jasmine-fang/"
-      ],
-      "changed": [],
-      "gone_sample": [],
-      "errors": [],
-      "applied": [
-        "tier2:taiwaneseamerican-org-delta-2026-08-23-2026-08-beneath-the-same-round-moon-jasmine-fang.md",
-        "work:beneath-the-same-round-moon-jasmine-fang.md",
-        "last_reviewed:hub",
-        "last_reviewed:taiwaneseamerican-org.md"
-      ],
-      "parked": false,
-      "a_band": [
-        "taiwaneseamerican-org: &#8220;Beneath the Same Round Moon&#8221;: Q&#038;A with Debut Author Jasmine Fang"
-      ],
-      "advisory": []
-    },
-    {
-      "id": "ntpc-usa-org",
-      "new": [],
-      "changed": [],
-      "gone_sample": [],
-      "errors": [],
-      "applied": [],
-      "parked": false,
-      "a_band": [],
-      "advisory": []
-    },
-    {
-      "id": "taiwaneseamericanhistory-org",
-      "new": [],
-      "changed": [],
-      "gone_sample": [],
-      "errors": [],
-      "applied": [],
-      "parked": false,
-      "a_band": [],
-      "advisory": []
-    },
-    {
-      "id": "eastgatebarclay-org",
-      "new": [],
-      "changed": [],
-      "gone_sample": [],
-      "errors": [],
-      "applied": [],
-      "parked": false,
-      "a_band": [],
-      "advisory": []
-    },
-    {
-      "id": "penghu-info",
-      "new": [],
-      "changed": [],
-      "gone_sample": [],
-      "errors": [],
-      "applied": [],
-      "parked": false,
-      "a_band": [],
-      "advisory": [
-        "stale-sitemap: sitemap has only 10 loc(s); full corpus likely >> sitemap — consider targeted/batch harvest (search endpoint may expose it)"
-      ]
     }
   ],
   "recommend": [
@@ -168,13 +36,9 @@
     }
   ],
   "need_you": [],
-  "auto_lines": [
-    "good-shepherd-taiwanese-presbyterian-church: +1 new / 1 changed; applied 4",
-    "presbyterian-church-in-taiwan: +1 new / 1 changed; applied 4",
-    "taiwaneseamerican-org: +1 new / 0 changed; applied 4"
+  "auto_lines": [],
+  "queue_lines": [
+    "presbyterian-church-in-taiwan: +0 new / 2 changed (see disk)"
   ],
-  "queue_lines": [],
-  "a_band": [
-    "taiwaneseamerican-org: &#8220;Beneath the Same Round Moon&#8221;: Q&#038;A with Debut Author Jasmine Fang"
-  ]
+  "a_band": []
 }

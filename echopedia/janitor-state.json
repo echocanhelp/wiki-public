@@ -1,22 +1,8 @@
 {
   "version": 1,
-  "last_run": "2026-08-23",
+  "last_run": "2026-08-26",
   "standards_version_seen": 10,
   "runs": [
-    {
-      "date": "2026-07-24",
-      "candidates": 58,
-      "selected": 5,
-      "standards_version": 6,
-      "standards_bumped": false
-    },
-    {
-      "date": "2026-07-25",
-      "candidates": 75,
-      "selected": 5,
-      "standards_version": 7,
-      "standards_bumped": true
-    },
     {
       "date": "2026-07-26",
       "candidates": 58,
@@ -212,6 +198,20 @@
       "selected": 40,
       "standards_version": 10,
       "standards_bumped": false
+    },
+    {
+      "date": "2026-08-25",
+      "candidates": 5098,
+      "selected": 40,
+      "standards_version": 10,
+      "standards_bumped": false
+    },
+    {
+      "date": "2026-08-26",
+      "candidates": 5098,
+      "selected": 40,
+      "standards_version": 10,
+      "standards_bumped": false
     }
   ],
   "queue": [
@@ -240,6 +240,22 @@
       ],
       "hygiene": [
         "LINK_UNLINKED_ENTITY: people/guo-yingyan.md → organizations/irvine-taiwanese-presbyterian-church"
+      ],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "people/tahs-member-onboarding.md",
+      "findings": [
+        "LINK_UNLINKED_ENTITY"
+      ],
+      "hygiene": [
+        "LINK_UNLINKED_ENTITY: people/tahs-member-onboarding.md → organizations/taiwanese-american-irvines-eagle-brotherhood-group-irvine"
       ],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
@@ -304,7 +320,9 @@
       ],
       "hygiene": [
         "LINK_UNLINKED_ENTITY: organizations/irvine-taiwanese-presbyterian-church.md → people/chen-meihui",
-        "LINK_UNLINKED_ENTITY: organizations/irvine-taiwanese-presbyterian-church.md → people/zhang-xuanxin"
+        "LINK_UNLINKED_ENTITY: organizations/irvine-taiwanese-presbyterian-church.md → people/zhang-xuanxin",
+        "LINK_UNLINKED_ENTITY: organizations/irvine-taiwanese-presbyterian-church.md → people/peggy-chen",
+        "LINK_UNLINKED_ENTITY: organizations/irvine-taiwanese-presbyterian-church.md → people/stone-chen"
       ],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
@@ -365,12 +383,172 @@
       ]
     },
     {
+      "path": "organizations/formosa-foundation.md",
+      "findings": [
+        "LINK_UNLINKED_ENTITY"
+      ],
+      "hygiene": [
+        "LINK_UNLINKED_ENTITY: organizations/formosa-foundation.md → sources/taiwaneseamericanhistory-org"
+      ],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "organizations/institute-for-taiwanese-studies.md",
+      "findings": [
+        "LINK_UNLINKED_ENTITY"
+      ],
+      "hygiene": [
+        "LINK_UNLINKED_ENTITY: organizations/institute-for-taiwanese-studies.md → sources/taiwaneseamericanhistory-org"
+      ],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "organizations/orange-county-taiwanese-association.md",
+      "findings": [
+        "LINK_UNLINKED_ENTITY"
+      ],
+      "hygiene": [
+        "LINK_UNLINKED_ENTITY: organizations/orange-county-taiwanese-association.md → sources/taiwaneseamericanhistory-org"
+      ],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "organizations/san-gabriel-taiwanese-lions-club.md",
+      "findings": [
+        "LINK_UNLINKED_ENTITY"
+      ],
+      "hygiene": [
+        "LINK_UNLINKED_ENTITY: organizations/san-gabriel-taiwanese-lions-club.md → sources/taiwaneseamericanhistory-org"
+      ],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "organizations/taiwanese-american-foundation.md",
+      "findings": [
+        "LINK_UNLINKED_ENTITY"
+      ],
+      "hygiene": [
+        "LINK_UNLINKED_ENTITY: organizations/taiwanese-american-foundation.md → sources/taiwaneseamericanhistory-org"
+      ],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "organizations/taiwanese-american-photographers-association.md",
+      "findings": [
+        "LINK_UNLINKED_ENTITY"
+      ],
+      "hygiene": [
+        "LINK_UNLINKED_ENTITY: organizations/taiwanese-american-photographers-association.md → sources/taiwaneseamericanhistory-org"
+      ],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "organizations/taiwanese-association-of-northwest-los-angeles.md",
+      "findings": [
+        "LINK_UNLINKED_ENTITY"
+      ],
+      "hygiene": [
+        "LINK_UNLINKED_ENTITY: organizations/taiwanese-association-of-northwest-los-angeles.md → sources/taiwaneseamericanhistory-org"
+      ],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "organizations/taiwanese-united-fund.md",
+      "findings": [
+        "LINK_UNLINKED_ENTITY"
+      ],
+      "hygiene": [
+        "LINK_UNLINKED_ENTITY: organizations/taiwanese-united-fund.md → sources/taiwaneseamericanhistory-org"
+      ],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
       "path": "sources/irvine-taiwanese-presbyterian-church.md",
       "findings": [
         "LINK_BODY_SPARSE"
       ],
       "hygiene": [
         "LINK_BODY_SPARSE: sources/irvine-taiwanese-presbyterian-church.md (body_wikis=1 related=5)"
+      ],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "organizations/taiwanese-american-foundation-of-san-diego.md",
+      "findings": [
+        "LINK_UNLINKED_ENTITY"
+      ],
+      "hygiene": [
+        "LINK_UNLINKED_ENTITY: organizations/taiwanese-american-foundation-of-san-diego.md → sources/taiwaneseamericanhistory-org"
+      ],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "sources/2017-tahs-publication.md",
+      "findings": [
+        "LINK_UNLINKED_ENTITY"
+      ],
+      "hygiene": [
+        "LINK_UNLINKED_ENTITY: sources/2017-tahs-publication.md → people/yee-phong-alan-thian"
       ],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
@@ -533,7 +711,24 @@
         "LINK_UNLINKED_ENTITY"
       ],
       "hygiene": [
-        "LINK_UNLINKED_ENTITY: people/david-lee.md → people/leonard-hsu-jr"
+        "LINK_UNLINKED_ENTITY: people/david-lee.md → people/leonard-hsu-jr",
+        "LINK_UNLINKED_ENTITY: people/david-lee.md → organizations/taiwanese-american-irvines-eagle-brotherhood-group-irvine"
+      ],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "organizations/democratic-progressive-party.md",
+      "findings": [
+        "LINK_UNLINKED_ENTITY"
+      ],
+      "hygiene": [
+        "LINK_UNLINKED_ENTITY: organizations/democratic-progressive-party.md → people/lai-qingde"
       ],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
@@ -551,7 +746,12 @@
       "hygiene": [
         "LINK_UNLINKED_ENTITY: sources/2023-tahs-publication.md → organizations/taiwanese-american-historical-society",
         "LINK_UNLINKED_ENTITY: sources/2023-tahs-publication.md → people/wang-yao-ting-xie-xiulan",
-        "LINK_UNLINKED_ENTITY: sources/2023-tahs-publication.md → people/zheng-bing-quan"
+        "LINK_UNLINKED_ENTITY: sources/2023-tahs-publication.md → people/zheng-bing-quan",
+        "LINK_UNLINKED_ENTITY: sources/2023-tahs-publication.md → people/cai-jinrong",
+        "LINK_UNLINKED_ENTITY: sources/2023-tahs-publication.md → people/grace-h-yeh",
+        "LINK_UNLINKED_ENTITY: sources/2023-tahs-publication.md → people/julie-chen",
+        "LINK_UNLINKED_ENTITY: sources/2023-tahs-publication.md → people/perry-b-shieh",
+        "LINK_UNLINKED_ENTITY: sources/2023-tahs-publication.md → people/stone-chen"
       ],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
@@ -612,6 +812,25 @@
       ]
     },
     {
+      "path": "organizations/taiwanjustice-net.md",
+      "findings": [
+        "LINK_UNLINKED_ENTITY"
+      ],
+      "hygiene": [
+        "LINK_UNLINKED_ENTITY: organizations/taiwanjustice-net.md → people/cai-yingwen",
+        "LINK_UNLINKED_ENTITY: organizations/taiwanjustice-net.md → people/hou-youyi",
+        "LINK_UNLINKED_ENTITY: organizations/taiwanjustice-net.md → people/lai-qingde",
+        "LINK_UNLINKED_ENTITY: organizations/taiwanjustice-net.md → people/xie-changting"
+      ],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
       "path": "sources/taiwanjustice-net.md",
       "findings": [
         "LINK_UNLINKED_ENTITY"
@@ -653,14 +872,14 @@
       ]
     },
     {
-      "path": "people/shawna-yang-ryan.md",
+      "path": "people/katherine-huang.md",
       "findings": [
         "LINK_BODY_SPARSE",
         "LINK_UNLINKED_ENTITY"
       ],
       "hygiene": [
-        "LINK_BODY_SPARSE: people/shawna-yang-ryan.md (body_wikis=1 related=6)",
-        "LINK_UNLINKED_ENTITY: people/shawna-yang-ryan.md → organizations/taiwanese-american-historical-society"
+        "LINK_BODY_SPARSE: people/katherine-huang.md (body_wikis=1 related=5)",
+        "LINK_UNLINKED_ENTITY: people/katherine-huang.md → sources/taiwaneseamericanhistory-org"
       ],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
@@ -669,261 +888,13 @@
         "Do not commit/push/quartz unless operator enabled",
         "Re-run link-hygiene on this path after edits"
       ]
-    },
-    {
-      "path": "people/dr-ching-k-lin.md",
-      "findings": [
-        "LINK_BODY_SPARSE",
-        "LINK_UNLINKED_ENTITY"
-      ],
-      "hygiene": [
-        "LINK_BODY_SPARSE: people/dr-ching-k-lin.md (body_wikis=0 related=3)",
-        "LINK_UNLINKED_ENTITY: people/dr-ching-k-lin.md → organizations/irvine-taiwanese-presbyterian-church"
-      ],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "people/may-fang.md",
-      "findings": [
-        "LINK_BODY_SPARSE",
-        "LINK_UNLINKED_ENTITY"
-      ],
-      "hygiene": [
-        "LINK_BODY_SPARSE: people/may-fang.md (body_wikis=0 related=3)",
-        "LINK_UNLINKED_ENTITY: people/may-fang.md → organizations/formosan-presbyterian-church-in-los-angeles"
-      ],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "people/peggy-chen.md",
-      "findings": [
-        "LINK_BODY_SPARSE",
-        "LINK_UNLINKED_ENTITY"
-      ],
-      "hygiene": [
-        "LINK_BODY_SPARSE: people/peggy-chen.md (body_wikis=0 related=3)",
-        "LINK_UNLINKED_ENTITY: people/peggy-chen.md → organizations/irvine-taiwanese-presbyterian-church"
-      ],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "people/prof-sze-ya-yeh.md",
-      "findings": [
-        "LINK_BODY_SPARSE",
-        "LINK_UNLINKED_ENTITY"
-      ],
-      "hygiene": [
-        "LINK_BODY_SPARSE: people/prof-sze-ya-yeh.md (body_wikis=0 related=3)",
-        "LINK_UNLINKED_ENTITY: people/prof-sze-ya-yeh.md → organizations/formosan-presbyterian-church-in-los-angeles"
-      ],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "people/rev-edward-bin-tanng.md",
-      "findings": [
-        "LINK_BODY_SPARSE",
-        "LINK_UNLINKED_ENTITY"
-      ],
-      "hygiene": [
-        "LINK_BODY_SPARSE: people/rev-edward-bin-tanng.md (body_wikis=0 related=3)",
-        "LINK_UNLINKED_ENTITY: people/rev-edward-bin-tanng.md → organizations/formosan-presbyterian-church-in-los-angeles"
-      ],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "people/rev-h-d-chen.md",
-      "findings": [
-        "LINK_BODY_SPARSE",
-        "LINK_UNLINKED_ENTITY"
-      ],
-      "hygiene": [
-        "LINK_BODY_SPARSE: people/rev-h-d-chen.md (body_wikis=0 related=3)",
-        "LINK_UNLINKED_ENTITY: people/rev-h-d-chen.md → organizations/presbyterian-church-in-taiwan"
-      ],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "people/rev-james-chang.md",
-      "findings": [
-        "LINK_BODY_SPARSE",
-        "LINK_UNLINKED_ENTITY"
-      ],
-      "hygiene": [
-        "LINK_BODY_SPARSE: people/rev-james-chang.md (body_wikis=0 related=3)",
-        "LINK_UNLINKED_ENTITY: people/rev-james-chang.md → organizations/presbyterian-church-in-taiwan"
-      ],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "people/rev-r-h-chang.md",
-      "findings": [
-        "LINK_BODY_SPARSE",
-        "LINK_UNLINKED_ENTITY"
-      ],
-      "hygiene": [
-        "LINK_BODY_SPARSE: people/rev-r-h-chang.md (body_wikis=0 related=5)",
-        "LINK_UNLINKED_ENTITY: people/rev-r-h-chang.md → organizations/formosan-presbyterian-church-in-los-angeles",
-        "LINK_UNLINKED_ENTITY: people/rev-r-h-chang.md → people/jonah-chang",
-        "LINK_UNLINKED_ENTITY: people/rev-r-h-chang.md → people/san-francisco-theological-seminary"
-      ],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "people/rev-sheng-to-shih.md",
-      "findings": [
-        "LINK_BODY_SPARSE",
-        "LINK_UNLINKED_ENTITY"
-      ],
-      "hygiene": [
-        "LINK_BODY_SPARSE: people/rev-sheng-to-shih.md (body_wikis=0 related=3)",
-        "LINK_UNLINKED_ENTITY: people/rev-sheng-to-shih.md → people/san-francisco-theological-seminary"
-      ],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "people/sam-wei-chih-sun.md",
-      "findings": [
-        "LINK_BODY_SPARSE",
-        "LINK_UNLINKED_ENTITY"
-      ],
-      "hygiene": [
-        "LINK_BODY_SPARSE: people/sam-wei-chih-sun.md (body_wikis=0 related=3)",
-        "LINK_UNLINKED_ENTITY: people/sam-wei-chih-sun.md → organizations/good-shepherd-taiwanese-presbyterian-church"
-      ],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "people/susan-shu-ai-tsai.md",
-      "findings": [
-        "LINK_BODY_SPARSE",
-        "LINK_UNLINKED_ENTITY"
-      ],
-      "hygiene": [
-        "LINK_BODY_SPARSE: people/susan-shu-ai-tsai.md (body_wikis=0 related=3)",
-        "LINK_UNLINKED_ENTITY: people/susan-shu-ai-tsai.md → organizations/good-shepherd-taiwanese-presbyterian-church"
-      ],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "people/mingyuan-hsu.md",
-      "findings": [],
-      "hygiene": [
-        "LINK_UNLINKED_ENTITY: people/mingyuan-hsu.md → organizations/irvine-taiwanese-presbyterian-church",
-        "LINK_UNLINKED_ENTITY: people/mingyuan-hsu.md → organizations/presbyterian-church-in-taiwan"
-      ],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "people/chen-hui-chen.md",
-      "findings": [
-        "LINK_BODY_SPARSE"
-      ],
-      "hygiene": [
-        "LINK_BODY_SPARSE: people/chen-hui-chen.md (body_wikis=1 related=6)",
-        "LINK_UNLINKED_ENTITY: people/chen-hui-chen.md → sources/toward-a-community-of-hope"
-      ],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "organizations/penghu-info.md",
-      "findings": [
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_HISTORY",
-        "STRUCT_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
     }
   ],
-  "last_candidates": 442,
+  "last_candidates": 5098,
   "last_selected": [
     "people/chen-meihui.md",
     "people/guo-yingyan.md",
+    "people/tahs-member-onboarding.md",
     "people/li-furen.md",
     "sources/toward-a-community-of-hope.md",
     "organizations/formosan-presbyterian-church-in-los-angeles.md",
@@ -931,7 +902,17 @@
     "people/chaolong-kao.md",
     "people/daniel-kao.md",
     "people/pingtung-lai.md",
+    "organizations/formosa-foundation.md",
+    "organizations/institute-for-taiwanese-studies.md",
+    "organizations/orange-county-taiwanese-association.md",
+    "organizations/san-gabriel-taiwanese-lions-club.md",
+    "organizations/taiwanese-american-foundation.md",
+    "organizations/taiwanese-american-photographers-association.md",
+    "organizations/taiwanese-association-of-northwest-los-angeles.md",
+    "organizations/taiwanese-united-fund.md",
     "sources/irvine-taiwanese-presbyterian-church.md",
+    "organizations/taiwanese-american-foundation-of-san-diego.md",
+    "sources/2017-tahs-publication.md",
     "people/hu-gstpc.md",
     "people/ku-gstpc.md",
     "people/wang-gstpc.md",
@@ -942,25 +923,14 @@
     "people/liao-ji-chun.md",
     "people/lin-qiong-xian.md",
     "people/david-lee.md",
+    "organizations/democratic-progressive-party.md",
     "sources/2023-tahs-publication.md",
     "people/wang-yao-ting.md",
     "people/zheng-bing-quan.md",
     "sources/taiwancenter-org.md",
+    "organizations/taiwanjustice-net.md",
     "sources/taiwanjustice-net.md",
     "people/becky-yang.md",
-    "people/shawna-yang-ryan.md",
-    "people/dr-ching-k-lin.md",
-    "people/may-fang.md",
-    "people/peggy-chen.md",
-    "people/prof-sze-ya-yeh.md",
-    "people/rev-edward-bin-tanng.md",
-    "people/rev-h-d-chen.md",
-    "people/rev-james-chang.md",
-    "people/rev-r-h-chang.md",
-    "people/rev-sheng-to-shih.md",
-    "people/sam-wei-chih-sun.md",
-    "people/susan-shu-ai-tsai.md",
-    "people/mingyuan-hsu.md",
-    "people/chen-hui-chen.md"
+    "people/katherine-huang.md"
   ]
 }

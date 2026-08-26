@@ -7,7 +7,7 @@ tags:
 verification_status: published
 last_reviewed: 2026-07-16
 ---
-# 2025 洛杉磯台美人傳統週
+# 2025 洛杉磯[[organizations/taiwanese-american-irvines-eagle-brotherhood-group-irvine|台美人]]傳統週
 
 **Date:** April 15, 2025  
 **Host / related:** [[organizations/taiwan-center|Taiwan Center Foundation of Greater Los Angeles]]  

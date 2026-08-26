@@ -1,38 +1,7 @@
 {
   "date": "2026-08-25",
   "standards_version": 10,
-  "total_findings": 3,
-  "total_pages": 1,
-  "actions": [
-    {
-      "page": "organizations/penghu-info.md",
-      "finding": "LINKS_NO_RELATED",
-      "finding_prefix": "LINKS_NO_RELATED",
-      "action": "Add ## Related Pages section",
-      "detail": "Add a Related Pages section with wikilinks to connected people, organizations, and sources.",
-      "playbook": "P3",
-      "priority": "medium",
-      "source": "content-analysis-queue"
-    },
-    {
-      "page": "organizations/penghu-info.md",
-      "finding": "STRUCT_NO_HISTORY",
-      "finding_prefix": "STRUCT_NO_HISTORY",
-      "action": "Add ## History section",
-      "detail": "Add a History section with key dates, milestones, and events. Include dates and brief descriptions.",
-      "playbook": "P8",
-      "priority": "medium",
-      "source": "content-analysis-queue"
-    },
-    {
-      "page": "organizations/penghu-info.md",
-      "finding": "STRUCT_NO_RELATED",
-      "finding_prefix": "STRUCT_NO_RELATED",
-      "action": "Add ## Related Pages section",
-      "detail": "Add a Related Pages section with wikilinks ([[people/name|Name]]) to connected pages. Use first-mention convention.",
-      "playbook": "P3",
-      "priority": "medium",
-      "source": "content-analysis-queue"
-    }
-  ]
+  "total_findings": 0,
+  "total_pages": 0,
+  "actions": []
 }

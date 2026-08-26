@@ -1,6 +1,52 @@
 {
-  "generated_at": "2026-08-24T15:15:30Z",
+  "generated_at": "2026-08-25T19:17:35Z",
   "max": 5,
-  "count": 0,
-  "items": []
+  "count": 5,
+  "items": [
+    {
+      "id": "gap_7add35834f",
+      "priority": 1,
+      "kind": "gap_miss",
+      "title": "Echopedia miss: “牧谷”",
+      "action": "Confirm identity / approve thin page / or dismiss",
+      "source": "cli",
+      "ts": "2026-08-25T19:06:58Z"
+    },
+    {
+      "id": "gap_fa15c039b5",
+      "priority": 1,
+      "kind": "gap_miss",
+      "title": "Echopedia miss: “牧谷”",
+      "action": "Confirm identity / approve thin page / or dismiss",
+      "source": "telegram",
+      "ts": "2026-08-25T08:17:13Z"
+    },
+    {
+      "id": "gap_5fd080a9d3",
+      "priority": 1,
+      "kind": "gap_miss",
+      "title": "Echopedia miss: “228”",
+      "action": "Confirm identity / approve thin page / or dismiss",
+      "source": "telegram",
+      "ts": "2026-08-20T01:29:19Z"
+    },
+    {
+      "id": "gap_0129882b06",
+      "priority": 1,
+      "kind": "gap_miss",
+      "title": "Echopedia miss: “the 228 incident”",
+      "action": "Confirm identity / approve thin page / or dismiss",
+      "source": "telegram",
+      "ts": "2026-08-20T01:29:19Z"
+    },
+    {
+      "id": "gap_9d38053a69",
+      "priority": 1,
+      "kind": "gap_miss",
+      "title": "Echopedia miss: “台羅”",
+      "action": "Confirm identity / approve thin page / or dismiss",
+      "source": "telegram",
+      "ts": "2026-08-18T08:32:20Z"
+    }
+  ]
 }

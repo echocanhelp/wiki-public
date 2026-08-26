@@ -1,16 +1,11 @@
-## Echopedia Content Analysis — 2026-08-25
+## Echopedia Content Analysis — 2026-08-26
 - Standards v10
-- Pages scanned: **3** with findings
-- Auto-queued for remediation: **1** (score ≥ 3)
-- Wall time: 1.24s
+- Pages scanned: **1** with findings
+- Auto-queued for remediation: **0** (score ≥ 3)
+- Wall time: 1.38s
 
 ### Top 10 pages needing attention:
-- `organizations/penghu-info.md` score=3 — LINKS_NO_RELATED, STRUCT_NO_HISTORY, STRUCT_NO_RELATED
-- `sources/penghu-info.md` score=2 — LINKS_NO_RELATED, STRUCT_NO_STATS
 - `people/shante-shawsean-chen.md` score=1 — LINKS_LOW_DENSITY
 
-### Auto-queued for P13 remediation:
-- `organizations/penghu-info.md` (medium) — LINKS_NO_RELATED, STRUCT_NO_HISTORY, STRUCT_NO_RELATED
-
-- Log: `knowledge/operational/content-analysis/2026-08-25.jsonl`
+- Log: `knowledge/operational/content-analysis/2026-08-26.jsonl`
 - Queue: `echopedia/content-analysis-queue.json`

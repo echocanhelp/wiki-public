@@ -1,8 +1,9 @@
-TAHS · Echopedia morning brief — 2026-08-24
-No owner judgment needed — overnight loop ran clean.
+TAHS · Echopedia morning brief — 2026-08-25
+1 NEED YOU item(s) below; the rest is auto-handled.
 
 🔴 NEED YOU (your judgment only)
-✅ AUTO  none — no owner judgment required
+🔴 NEED YOU  1. Echopedia miss: “牧谷”
+     → Confirm identity / approve thin page / or dismiss
 
 🟡 QUEUE / identity (soft — no reply required)
 🟡 QUEUE Becky Yang: soft pending aged out: chinese_name
@@ -36,11 +37,11 @@ No owner judgment needed — overnight loop ran clean.
 🟡 QUEUE 5. Link tip: organizations/boston-taiwanese-christian-church.md ↔ organizations/presbyterian-church-in-taiwan.md
 
 ℹ️ SITE (wiki visits; operator self-traffic excluded)
-ℹ️  INFO  wiki 1 visits since cutoff · yday 2026-08-23 = 0 · /people/albert-chapter1-zh-hsiaochen-full-review 1
+ℹ️  INFO  wiki 1 visits since cutoff · yday 2026-08-24 = 0 · /people/albert-chapter1-zh-hsiaochen-full-review 1
 
 ✅ AUTO (overnight — evidence)
-✅ AUTO analyzer scanned 2 queued 1 suppressed 1760
+✅ AUTO analyzer scanned 1 queued 0 suppressed 1765
 🟡 QUEUE janitor HOLD leftover 40
-🟡 QUEUE kanban blocked 5
+🟡 QUEUE kanban blocked 6
 🔴 NEED YOU cron fail: echopedia-janitor, cron-audit, cron-self-audit
 ℹ️  INFO  only 🔴 NEED YOU requires your reply

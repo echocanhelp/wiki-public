@@ -40,6 +40,8 @@ Full classifier: skill **`go-router`**.
 
 **LLM (pinto media-stack):** Always-on brain is **Ornith** `:8888`. Hard media (Qwen-Image / LTX / H3) = **stop Ornith** (agent off); no second local LLM. HeartMuLa 3B lazy is **soft** (Ornith stays). Reboot **force UP** (`force_up_on_reboot`). Never dual vLLM. LINE stays Grok-primary. Laguna files kept for `swap-llm-stack.sh laguna-primary` only.
 
+**STT (one door, all channels):** `~/ai-services/media-stack/orchestrator/stt.sh` — tape stays; sidecar `.stt.txt`. Default **Breeze-ASR-25** CT2 int8 CPU (`language=zh`, 台灣華語). `--engine taigi` = Breeze-ASR-26 (華語漢字, not 台羅). Fallback zh = faster-whisper `base`. **pinto + stories + global** (`~/.hermes/config.yaml`, Echo許) all `stt.provider: pinto_stt` → this door. HeartMuLa fidelity same. 萌典 is spelling SSOT, not ASR. STT config via `hermes config set` only (global: `env -u HERMES_HOME`).
+
 ---
 
 ## 1. Mental model (one sentence)
@@ -359,6 +361,7 @@ prefer delete/dedupe/generate over new essays
 9. **Generated status files are not hand SSOT.**  
 10. **One lesson → one place.**
 11. **Names:** title + slug = preferred English + 漢名 (`romanization-lexicon.json`). **Not** Hanyu Pinyin (`蔡`=Tsai). **Taigi default = Tâi-lô.** Verify words with 萌典 `https://www.moedict.tw/t/<詞>.json` via `scripts/moedict-ssot.py` — **spoken picker** (白 > 替 > audio > unlabeled > 文; never first-wins `h[0]`), **longest-match** on `/t/index.json`, and **sense overrides** (`echopedia/taigi-sense-overrides.json`: `長`=`tn̂g` not `tiúnn`; `到`=`kàu` not `tàu`). Saying “Taigi” without a scheme means Tâi-lô. **POJ only** when the named source is church / PCT / hymn / 教會公報 / other historical religious text — quote it, label **POJ:**. One system per page; never mix; never into the slug; never mass-fill TAH stubs from a converter. Person names HOLD (family/TAH/person), not 萌典. **Echo Resonance Taigi:** write a native 台語歌 — HeartMuLa sings **漢字**; wiki/audit = Tâi-lô interlinear (`audit-pack`). Never translate English lyrics; never sing romanization. Sung 腔口 is **not** a 萌典 problem.
+12. **Echopedia is the 2nd brain.** Person / org / church / community facts: look in the vault first (`echopedia-first-answer.py` → title/alias retrieve). Cite the page. Web, news, and session_search only after a vault miss. Never invent a bio that contradicts the page.
 
 ---
 
