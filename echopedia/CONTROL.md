@@ -188,10 +188,13 @@ Then run `bash ~/.hermes/scripts/echopedia-docs-sync.sh`. Do **not** hand-edit t
 | New worker steps | WORKER playbook only | P8 source required |
 | Mission done/remaining | WHERE_WE_ARE | TJ archive status |
 | Autonomy policy | standards.json | l3_auto_push_on_green |
-| Preference | MEMORY/USER | “no HITL if possible” |
-| One-off project | plan + kanban | then CLOSE |
+|| Preference | MEMORY/USER | "no HITL if possible" |
+|| One-off project | plan + kanban | then CLOSE |
+|| New lesson / reviewed correction | **learnings ledger** `intelligence/learnings.md` | the "Learning" layer; see routing table below |
 
 **One lesson → one place.** If you write it thrice, delete two copies.
+
+**Company-Brain correction loop (Learning layer):** every correction has a home. A fact→Echopedia page; a rule/standard→CONTROL/USER_MANUAL/standards.json; a repeatable skill→its `SKILL.md`; a preference→MEMORY/USER; an agent/behavior bug→a profile script (patch→verify→commit). The reviewed ledger is `intelligence/learnings.md`. Routing a correction back to the right layer is what makes the brain reusable across people and agents — not a one-off fix.
 
 ### 4.6 Publish / push
 
