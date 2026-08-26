@@ -17,6 +17,10 @@ last_reviewed: 2026-08-17
 
 ## Identity Snapshot
 
+> **Primary work page:** [[sources/toward-a-community-of-hope|Toward A Community of Hope (work & sources)]]  
+> **Full text (GitHub):** [complete extract](https://github.com/echocanhelp/wiki-public/blob/gh-pages/knowledge/web-archives/albert-lai-toward-community-of-hope.md)
+
+
 - **English:** Lin Fu-kun
 - **Chinese:** 林福坤
 - **Born:** 1941, Keelung (基隆市), Taiwan
@@ -116,6 +120,8 @@ The 2017 TAHS publication describes his story as one that "gives hope to Taiwane
 - [TAH #8 encyclopedia: 8. Fu-Kuen Lin 林福坤](https://taiwaneseamericanhistory.org/8-fu-kuen-lin/)
 
 ## Related Pages
+
+- [[sources/toward-a-community-of-hope|Toward A Community of Hope]]
 
 - [[organizations/taiwanese-american-historical-society|TAHS]]
 - [[sources/2017-tahs-publication|2017 TAHS Publication]]
