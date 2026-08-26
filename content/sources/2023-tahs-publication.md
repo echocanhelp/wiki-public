@@ -12,7 +12,7 @@ last_reviewed: 2026-07-23
 ---
 # 2023 TAHS Publication
 
-**2023 TAHS Publication (台美人菁英錄 第二輯)** — The second TAHS commemorative yearbook, published in May 2023. Contains 19 profiles across three sections: 典範‧傷逝 (Role Models / Deceased), 奠基‧傳承 (Foundations / Legacy), and 第三代‧飛揚 (Third Generation / Rising).
+**2023 TAHS Publication ([[organizations/taiwanese-american-irvines-eagle-brotherhood-group-irvine|台美人]]菁英錄 第二輯)** — The second TAHS commemorative yearbook, published in May 2023. Contains 19 profiles across three sections: 典範‧傷逝 (Role Models / Deceased), 奠基‧傳承 (Foundations / Legacy), and 第三代‧飛揚 (Third Generation / Rising).
 
 ## Identity Snapshot
 - **Type:** Community yearbook / elite profiles publication (台美菁英錄 第二輯)
@@ -39,7 +39,7 @@ The second TAHS commemorative publication, following the 2017 edition. This publ
 10. 王克雄 (Wang Kexiong)
 11. 鄭炳全 (Zheng Bingquan) — also in 2017 publication
 12. [[people/wang-yao-ting|王耀廷]]、謝秀緞 (Wang Yaoting & Xie Xiulan) — also in 2017 publication
-13. 陳文石 (Chen Wenshi)
+13. [[people/chen-wenshi|陳文石]] (Chen Wenshi)
 14. [[people/yang-huiqiao|楊惠喬]] (Yang Huiqiao)
 15. 蔡錦榮 (Gene Tsai)
 16. [[people/xie-qingzhi-xie-poyi|謝清志、謝泊怡]] (Xie Qingzhi & Xie Poyi)

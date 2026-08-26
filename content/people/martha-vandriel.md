@@ -14,7 +14,7 @@ last_reviewed: 2026-07-19
 ---
 # Martha VanDriel (Martha S.H. VanDriel)
 
-**Colonel Martha S.H. VanDriel** (née Hsu, 許和瑞's daughter) is a retired U.S. Army officer who served for over 26 years. She is the **first Taiwanese-American woman to graduate from the U.S. Military Academy at West Point** (1991), graduating in the top 10% of her class. She retired in September 2017 from the Office of the Secretary of Defense.
+**Colonel Martha S.H. VanDriel** (née Hsu, [[people/ho-rui-hsu|許和瑞]]'s daughter) is a retired U.S. Army officer who served for over 26 years. She is the **first Taiwanese-American woman to graduate from the U.S. Military Academy at West Point** (1991), graduating in the top 10% of her class. She retired in September 2017 from the Office of the Secretary of Defense.
 
 ## Identity Snapshot
 

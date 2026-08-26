@@ -105,7 +105,7 @@ Pages that link to **hsu-hsin-hung** (hsu-hsin-hung):
 
 ## Source Notes and Confidence
 
-- **Content priority A:** 2017 TAHS Publication 加州佳和企業集團董事長兼總裁徐新宏博士, Part 1, L1405–1584 (~179 lines), written by 周威霖
+- **Content priority A:** 2017 TAHS Publication 加州佳和企業集團董事長兼總裁[[people/dr-john-hsu|徐新宏博士]], Part 1, L1405–1584 (~179 lines), written by 周威霖
 - **Content priority A:** Contains detailed biographical narrative including education, mentorship, founding of J.H. Biotech, business philosophy, and Taiwan identity advocacy
 - **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
 - **Note:** Full text includes extensive biographical detail including family background, the 228 birth year significance, Professor Sun's mentorship, and his public advocacy positions.

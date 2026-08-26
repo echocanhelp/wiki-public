@@ -14,10 +14,10 @@ last_reviewed: 2026-07-17
 
 ## Identity Snapshot
 - Type: Community yearbook / elite profiles publication (台美菁英錄)
-- Publisher: Taiwanese American Historical Society (台美人歷史協會, TAHS)
+- Publisher: Taiwanese American Historical Society ([[organizations/taiwanese-american-irvines-eagle-brotherhood-group-irvine|台美人]]歷史協會, TAHS)
 - Year: 2017
 - Pages: 1–118 (bilingual Chinese/English)
-- Editors/Compilers: [[people/zhou-wei-liang|周威廉]], [[people/zhou-wei-lin|周威霖]], Edda Huang, 楊文顯, 楊遠薰, 陳婉真, [[people/zheng-bing-quan|鄭炳全]], etc.
+- Editors/Compilers: [[people/zhou-wei-liang|周威廉]], [[people/zhou-wei-lin|周威霖]], Edda Huang, 楊文顯, 楊遠薰, [[people/stella-chen|陳婉真]], [[people/zheng-bing-quan|鄭炳全]], etc.
 
 ## Overview
 Primary Tier-2/Tier-1 source for 2017 TAHS profiles of first- and second-generation Taiwanese Americans, plus founding essays, activity summary, and donor lists. Published by TAHS to document the community's history and celebrate prominent members.
@@ -42,7 +42,7 @@ Primary Tier-2/Tier-1 source for 2017 TAHS profiles of first- and second-generat
 - [[people/wang-neng-xiang|王能祥 (Wang Neng-xiang)]] — Religious elder, Taiwan democracy lobbyist
 - [[people/su-chun-huai|蘇春槐 (Su Chun-huai)]] — Father of Lisa Su
 - [[people/sam-chang|張善良 (Sam Chang)]] — Hotel developer, 紐約台裔
-- [[people/ho-chie-tsai|蔡和杰 (Dr. Ho Chie Tsai)]] — TaiwaneseAmerican.org founder
+- [[people/ho-chie-tsai|蔡和杰 (Dr. Ho Chie Tsai)]] — [[organizations/taiwaneseamerican-org|TaiwaneseAmerican.org]] founder
 - [[people/martha-vandriel|瑪莎·范德瑞爾 (Martha VanDriel)]] — Colonel, U.S. Army
 - [[people/jack-j-chen|陳宏傑 (Jack J. Chen)]] — Clinical Pharmacist PhD
 - [[people/katherine-huang|黃愷怡 (Katherine Huang)]] — Attorney
@@ -51,7 +51,7 @@ Primary Tier-2/Tier-1 source for 2017 TAHS profiles of first- and second-generat
 - [[people/shawna-yang-ryan|楊小娜 (Shawna Yang Ryan)]] — Novelist, 2017 American Book Awards
 
 ### Priority C / bylines (no page)
-[[people/freeman-huang|黃樹人]], [[people/liao-qingshan|廖清山]], 周威廉, 周威霖, 楊文顯, Edda Huang, 鄭炳全, 楊遠薰, 陳婉真, 曾恆利, 賴慧娜, 台美人歷史協會 整理
+[[people/freeman-huang|黃樹人]], [[people/liao-qingshan|廖清山]], 周威廉, 周威霖, 楊文顯, Edda Huang, 鄭炳全, 楊遠薰, 陳婉真, [[people/henry-tseng|曾恆利]], [[people/hui-na-lin|賴慧娜]], 台美人歷史協會 整理
 
 ### Institutions mentioned
 - [[organizations/taiwanese-american-historical-society|TAHS]]

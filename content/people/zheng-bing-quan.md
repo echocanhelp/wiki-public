@@ -31,7 +31,7 @@ Zheng Bingquan was the first convener of the Taiwanese American Historical Socie
 
 ## Editorial Work
 
-Zheng was listed as an editor/compiler of the 2017 TAHS Publication, alongside [[people/zhou-wei-liang|周威廉]], 周威霖, Edda Huang, 楊文顯, 楊遠薰, and 陳婉真.
+Zheng was listed as an editor/compiler of the 2017 TAHS Publication, alongside [[people/zhou-wei-liang|周威廉]], 周威霖, Edda Huang, 楊文顯, 楊遠薰, and [[people/stella-chen|陳婉真]].
 
 
 ## Network

@@ -12,7 +12,7 @@ verification_status: pending
 featured: true
 last_reviewed: 2026-07-23
 ---
-# Ye Siya & Zhang Xinhui (葉思雅、張信惠)
+# Ye Siya & Zhang Xinhui (葉思雅、[[people/grace-h-yeh|張信惠]])
 
 ## Identity Snapshot
 - **English:** Ye Siya & Zhang Xinhui
