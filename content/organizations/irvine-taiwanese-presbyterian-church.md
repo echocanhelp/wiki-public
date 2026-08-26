@@ -74,11 +74,11 @@ The 2026 ITPC organizational structure includes the following committees and min
 | **議長 (Moderator)** |  |  |
 | **書記 (Clerk)** |  | 副書記:  |
 | **A. 崇拜典禮組 (Worship & Ceremonies)** | 陳淳正 (召) | 洪崇皙, 蕭慶和, 張佩仙, 張妙華, 翁妙玲, 張惟道, 方安姿 |
-| **B. 信徒教育組 (Believer Education)** | [[people/k-h-huang|黃國雄]] (召) | 林雅咏 (副召), 薛慧美, [[people/james-hu|胡宏仁]], 林金龍, 張啟偵, 黃勝雄, 陳建文, 蕭東賢 |
+| **B. 信徒教育組 (Believer Education)** | [[people/k-h-huang|黃國雄]] (召) | 林雅咏 (副召), 薛慧美, [[people/james-hu|胡宏仁]], 林金龍, 張啟偵, 黃勝雄, 陳建文, [[people/stanley-hsiao|蕭東賢]] |
 | **C. 靈修宣道組 (Spiritual Devotion & Evangelism)** | 鍾瑞美 (召) | 陳建文, 許純真, 黃幸惠, 林錦好, 顏鴻州 |
 | **D. 影音錄影組 (Audio/Video)** | 鍾富榮 (召) | 蕭慶和 (顧問), 蔡淑蕙, 劉純真, 林英宏, 楊瑞珍 |
 | **E. 會友關懷組 (Member Care)** | 林淑華 (召) | 張啟偵 (副召), 顏鴻州, 林素珠, 鄭宏明, [[people/agnes-hsiao|黃美琇]] |
-| **F. 教會總務組 (Church Administration)** | 鄭宏明 (召) | 陳慶榮, 蔡昆山, 翁國田, 林淑華 |
+| **F. 教會總務組 (Church Administration)** | 鄭宏明 (召) | 陳慶榮, [[people/qun-tsai|蔡昆]]山, 翁國田, 林淑華 |
 | **G. 會計財務組 (Accounting & Finance)** | 蔡淑蕙 (召) | 林淑華, 鍾瑞美, [[people/grace-lin|吳瑞惠]], 陳鳳珍, 林英宏, 梁淑慧, 陳素珠, 盧香吟 (稽查) |
 | **H. 社區服務組 (Community Service)** |  |  |
 | H1. 長青教室 (Senior Class) | 林英宏 (召) | 黃勝雄, 蔡淑蕙, 林淑華, 謝崇仁, 林德生, 劉純真, [[people/matthias-c-h-lu|盧志華]], 歐孟軒 |
@@ -165,7 +165,7 @@ The 長青教室 (Senior Class) is ITPC's flagship educational program — a wee
 
 *Health & Medicine:*
 - Alzheimer's disease research and prevention (UCI MIND researchers, Dr. [[people/bang-h-hwang|黃邦雄]], Dr. [[people/hong-zong-lin|林宏容]])
-- Diabetes management (Dr. 王秉訓, Dr. 蔡明康 & 陳英純)
+- Diabetes management (Dr. [[people/ping-wang|王秉訓]], Dr. 蔡明康 & 陳英純)
 - Cancer awareness and treatment (Dr. 黃邦雄, Dr. 呂津洲, Dr. [[people/c-y-tsai|蔡嘉寅]])
 - Osteoporosis prevention (Dr. 何峻豪)
 - Sleep apnea in older adults (Dr. 黃勝雄)
@@ -189,7 +189,7 @@ The 長青教室 (Senior Class) is ITPC's flagship educational program — a wee
 - Vaccinations for seniors (Dr. 蔡孟達)
 
 *Science & Technology:*
-- Artificial Intelligence (Dr. 劉曉亭, Prof. 林洪權, Dr. 吳經義)
+- Artificial Intelligence (Dr. [[people/s-t-liu|劉曉亭]], Prof. 林洪權, Dr. 吳經義)
 - 5G communication (Mr. 王榮冠)
 - Wireless communication (Dr. 黃森茂)
 - StarLink satellite internet (Dr. 黃森茂)
@@ -269,10 +269,10 @@ The 長青教室 (Senior Class) is ITPC's flagship educational program — a wee
 - Xi Jinping's anti-corruption campaign (Mr. 蘇水)
 - The 228 Massacre (Dr. 黃俊炯, Dr. 王克雄)
 - Taiwan's democratization (Dr. 謝清志)
-- Taiwanese Americans' role in Taiwan (Attorney 陳正義)
+- Taiwanese Americans' role in Taiwan (Attorney [[people/peter-chen|陳正義]])
 - Taiwan's early human rights movement (Dr. 郭清江)
 - Taiwan's past and future (Dr. 洪遠相)
-- The role and position of Taiwanese Americans (Prof. 鄭英松)
+- The role and position of Taiwanese Americans (Prof. [[people/raymond-jeng|鄭英松]])
 
 *Retirement & Lifestyle:*
 - Retirement planning (Ms. 林郁子)
@@ -312,7 +312,7 @@ The 長青教室 (Senior Class) is ITPC's flagship educational program — a wee
 - Cultural festivals
 
 **Notable Speakers (2009–2026):**
-Rev. 劉曉亭 (劉三), Rev. 李輔仁, Rev. 張宣信, Rev. 陳美蕙, Rev. 周景聲, Dr. 黃勝雄, Dr. 林清貴, Dr. 呂信賢, Prof. 黃永勝, Prof. 王金壽, Prof. 李清木, Dr. 陳淑桂, Dr. 許盛男, Mr. 賴天明, Dr. 黃國雄, Dr. 蔡嘉寅, Prof. 胡宏仁, Dr. 林宗忠, Dr. 盧志華, Dr. 謝清志, Prof. 林豐仁, Dr. 曾凡鋼, Dr. 王克雄, Prof. 林水波, Dr. 郭清江, Dr. 朱耀源, Mr. 蘇水, Dr. 陳正茂, Dr. 林宏容, Dr. 黃邦雄, Dr. 鍾成晏, Dr. 柳在豐, Dr. 鄭博仁, Dr. 劉曉亭, Dr. 吳經義, Dr. 林洪權, Dr. 李彥禎, Dr. 陳春仁, Dr. 蔡孟達, Dr. 呂津洲, Dr. 何峻豪, Dr. 何汝諧, Dr. 何汝堦, Dr. 林惠洲, Dr. 陳文淵, Dr. 許正雄, Dr. 陳惠亭, Dr. 黃文雄, Dr. 蔡宗一, Dr. 甘以昌, Dr. 李宗派, Dr. 湯昇勇, Dr. 游正中, Dr. 游正民, Dr. [[people/jennifer-hung|洪錦鈺]], Dr. 葛原隆, Dr. 林衡哲, Dr. 張崇智, Dr. 陳嘉式, Dr. 范正彥, Dr. 陳東榮, Dr. 張耀文, Dr. 林益顯, Dr. 蔡明康, Dr. 章殷寧, Mr. 章殷寧, Mr. 邱伸彥, Mr. 向鵬, Mr. [[people/clyde-kiang|江運貴]], Prof. 李宗派, Prof. 甘以昌, Prof. 陳正茂, Prof. [[people/nai-shin-chu|朱迺欣]], Prof. 林忠宗, Prof. 林衡哲, Prof. 李宗派, Prof. 蔡嘉寅, Prof. 黃永勝, Prof. 王金壽, Prof. 李清木, Prof. 林清貴, Prof. 胡宏仁, Prof. 謝清志, Prof. 林豐仁, Prof. 曾凡鋼, Prof. 王克雄, Prof. 林水波, Prof. 鄭英松, Prof. 郭清江, Prof. 朱耀源, Prof. 朱迺欣, Prof. [[people/hsu-hsin-hung|徐新宏]], Prof. 鄭英松, Prof. 李宗派, Prof. 董雅美, Prof. 陳金樹, Prof. 何汝諧, Prof. 郭清江, Prof. 張繼昭, Prof. 郭義雄, Prof. 江運貴, Prof. 蔡宗一, Prof. 林豐仁, Prof. 朱迺欣, Prof. 蘇奐豪, Prof. 李宜哲, Prof. 向鵬, Prof. 陳春仁, Prof. 江運貴, Prof. 蔡宗一, Prof. 郭義雄, Prof. 張繼昭, Ms. 周嬌, Ms. 林幸魄, Ms. 董雅美, Ms. 陳金樹, Ms. 何汝諧, Ms. 郭清江, Ms. 陳慈美, Ms. 周嬌, Ms. 林幸魄, Ms. 董雅美, Ms. 陳金樹, Ms. 何汝諧, Ms. 郭清江, Ms. 陳慈美, Ms. 楊朱美, Ms. 邱伸彥, Ms. 周嬌, Ms. 林幸魄, Ms. 董雅美, Ms. 陳金樹, Ms. 何汝諧, Ms. 郭清江, Ms. 陳慈美, Ms. 楊朱美, Ms. 邱伸彥, Mr. 賴天明, Mr. 蘇水, Mr. 章殷寧, Mr. 邱伸彥, Mr. 向鵬, Mr. 江運貴, Mr. 蔡宗一, Mr. 林豐仁, Mr. 朱迺欣, Mr. 蘇奐豪, Mr. 李宜哲, Mr. 向鵬, Mr. 陳春仁, Mr. 江運貴, Mr. 蔡宗一, Mr. 郭義雄, Mr. 張繼昭, Mr. 林文政, Mr. 李彥禎, Mr. 楊朱美, Mr. 陳在程, Mr. 趙聰仁, Mr. 邱伸彎, Mr. 李典常, Mr. 盧志華, Mr. 蔡孟達, Mr. 郭清江, Mr. 章殷寧, Mr. 林忠宗, Mr. 胡宏仁, Mr. 蔡長宗, Mr. 林文政, Mr. 蔡明康, Mr. 林益顯, Mr. 范正彥, Mr. 林益顯, Mr. 盧志華, Mr. 陳東榮, Mr. 章殷寧, Mr. 林幸魄, Mr. 蔡嘉寅, Mr. 林水波, Mr. 楊朱美, Mr. 林宗忠, Mr. 郭清江, Mr. 游正民, Mr. 呂汝慈, Mr. 林衡哲, Mr. 林宗忠, Mr. 朱迺欣, Mr. 徐新宏, Mr. 張崇智, Mr. 周叔夜, Mr. 蔡嘉寅, Mr. 鄭英松, Mr. 范正彎, Mr. [[people/fan-qingliang|范清亮]], Mr. 林華山, Mr. 賴天明, Mr. 周嬌, Mr. 林幸魄, Mr. [[people/zheng-bing-quan|鄭炳全]], Mr. 游正中, Mr. 董雅美, Mr. 陳金樹, Mr. 何汝諧, Mr. 郭清江, Mr. 盧志華, Mr. 陳惠亭, Mr. 蔡孟達, Mr. 朱迺欣, Mr. 林豐仁, Mr. 范正彥, Mr. [[people/li-ying-shang|商麗鶯]], Mr. 林文政, Mr. 游正中, Mr. 朱迺欣, Mr. 李彥禎, Mr. 蘇奐豪, Mr. 李宜哲, Mr. 向鵬, Mr. 陳春仁, Mr. 江運貴, Mr. 蔡宗一, Mr. 郭義雄, Mr. 張繼昭, Mr. 林文政, Mr. 李彥禎, Mr. 楊朱美, Mr. 陳在程, Mr. 趙聰仁, Mr. 邱伸彥, Mr. 李典常, Mr. 盧志華, Mr. 蔡孟達, Mr. 郭清江, Mr. 章殷寧, Mr. 林忠宗, Mr. 胡宏仁, Mr. 蔡長宗, Mr. 林宗忠, Mr. 游正民, Mr. 呂汝慈, Mr. 林衡哲, Mr. 林宗忠, Mr. 朱迺欣, Mr. 徐新宏, Mr. 張崇智, Mr. 周叔夜, Mr. 蔡嘉寅, Mr. 鄭英松, Mr. 范正彥, Mr. 范清亮, Mr. 林華山, Mr. 賴天明, Mr. 周嬌, Mr. 林幸魄, Mr. 鄭炳全, Mr. 游正中, Mr. 董雅美, Mr. 陳金樹, Mr. 何汝諧, Mr. 郭清江, Mr. 盧志華
+Rev. 劉曉亭 (劉三), Rev. 李輔仁, Rev. 張宣信, Rev. 陳美蕙, Rev. 周景聲, Dr. 黃勝雄, Dr. 林清貴, Dr. 呂信賢, Prof. 黃永勝, Prof. 王金壽, Prof. 李清木, Dr. 陳淑桂, Dr. 許盛男, Mr. 賴天明, Dr. 黃國雄, Dr. 蔡嘉寅, Prof. 胡宏仁, Dr. 林宗忠, Dr. 盧志華, Dr. 謝清志, Prof. 林豐仁, Dr. 曾凡鋼, Dr. 王克雄, Prof. 林水波, Dr. 郭清江, Dr. 朱耀源, Mr. 蘇水, Dr. 陳正茂, Dr. 林宏容, Dr. 黃邦雄, Dr. 鍾成晏, Dr. 柳在豐, Dr. 鄭博仁, Dr. 劉曉亭, Dr. 吳經義, Dr. 林洪權, Dr. 李彥禎, Dr. 陳春仁, Dr. 蔡孟達, Dr. 呂津洲, Dr. 何峻豪, Dr. 何汝諧, Dr. 何汝堦, Dr. 林惠洲, Dr. 陳文淵, Dr. 許正雄, Dr. 陳惠亭, Dr. 黃文雄, Dr. 蔡宗一, Dr. 甘以昌, Dr. 李宗派, Dr. 湯昇勇, Dr. 游正中, Dr. 游正民, Dr. [[people/jennifer-hung|洪錦鈺]], Dr. 葛原隆, Dr. 林衡哲, Dr. 張崇智, Dr. 陳嘉式, Dr. 范正彥, Dr. 陳東榮, Dr. 張耀文, Dr. 林益顯, Dr. 蔡明康, Dr. 章殷寧, Mr. 章殷寧, Mr. 邱伸彥, Mr. 向鵬, Mr. [[people/clyde-kiang|江運貴]], Prof. 李宗派, Prof. 甘以昌, Prof. 陳正茂, Prof. [[people/nai-shin-chu|朱迺欣]], Prof. 林忠宗, Prof. 林衡哲, Prof. 李宗派, Prof. 蔡嘉寅, Prof. 黃永勝, Prof. 王金壽, Prof. 李清木, Prof. 林清貴, Prof. 胡宏仁, Prof. 謝清志, Prof. 林豐仁, Prof. 曾凡鋼, Prof. 王克雄, Prof. 林水波, Prof. 鄭英松, Prof. 郭清江, Prof. 朱耀源, Prof. 朱迺欣, Prof. [[people/hsu-hsin-hung|徐新宏]], Prof. 鄭英松, Prof. 李宗派, Prof. 董雅美, Prof. 陳金樹, Prof. 何汝諧, Prof. 郭清江, Prof. 張繼昭, Prof. 郭義雄, Prof. 江運貴, Prof. 蔡宗一, Prof. 林豐仁, Prof. 朱迺欣, Prof. 蘇奐豪, Prof. 李宜哲, Prof. 向鵬, Prof. 陳春仁, Prof. 江運貴, Prof. 蔡宗一, Prof. 郭義雄, Prof. 張繼昭, Ms. 周嬌, Ms. 林幸魄, Ms. 董雅美, Ms. 陳金樹, Ms. 何汝諧, Ms. 郭清江, Ms. 陳慈美, Ms. 周嬌, Ms. 林幸魄, Ms. 董雅美, Ms. 陳金樹, Ms. 何汝諧, Ms. 郭清江, Ms. 陳慈美, Ms. 楊朱美, Ms. 邱伸彥, Ms. 周嬌, Ms. 林幸魄, Ms. 董雅美, Ms. 陳金樹, Ms. 何汝諧, Ms. 郭清江, Ms. 陳慈美, Ms. 楊朱美, Ms. 邱伸彥, Mr. 賴天明, Mr. 蘇水, Mr. 章殷寧, Mr. 邱伸彥, Mr. 向鵬, Mr. 江運貴, Mr. 蔡宗一, Mr. 林豐仁, Mr. 朱迺欣, Mr. 蘇奐豪, Mr. 李宜哲, Mr. 向鵬, Mr. 陳春仁, Mr. 江運貴, Mr. 蔡宗一, Mr. 郭義雄, Mr. 張繼昭, Mr. 林文政, Mr. 李彥禎, Mr. 楊朱美, Mr. 陳在程, Mr. 趙聰仁, Mr. 邱伸彎, Mr. [[people/prof-tien-chang-lee|李典常]], Mr. 盧志華, Mr. 蔡孟達, Mr. 郭清江, Mr. 章殷寧, Mr. 林忠宗, Mr. 胡宏仁, Mr. 蔡長宗, Mr. 林文政, Mr. 蔡明康, Mr. 林益顯, Mr. 范正彥, Mr. 林益顯, Mr. 盧志華, Mr. 陳東榮, Mr. 章殷寧, Mr. 林幸魄, Mr. 蔡嘉寅, Mr. 林水波, Mr. 楊朱美, Mr. 林宗忠, Mr. 郭清江, Mr. 游正民, Mr. 呂汝慈, Mr. 林衡哲, Mr. 林宗忠, Mr. 朱迺欣, Mr. 徐新宏, Mr. 張崇智, Mr. 周叔夜, Mr. 蔡嘉寅, Mr. 鄭英松, Mr. 范正彎, Mr. [[people/fan-qingliang|范清亮]], Mr. 林華山, Mr. 賴天明, Mr. 周嬌, Mr. 林幸魄, Mr. [[people/zheng-bing-quan|鄭炳全]], Mr. 游正中, Mr. 董雅美, Mr. 陳金樹, Mr. 何汝諧, Mr. 郭清江, Mr. 盧志華, Mr. 陳惠亭, Mr. 蔡孟達, Mr. 朱迺欣, Mr. 林豐仁, Mr. 范正彥, Mr. [[people/li-ying-shang|商麗鶯]], Mr. 林文政, Mr. 游正中, Mr. 朱迺欣, Mr. 李彥禎, Mr. 蘇奐豪, Mr. 李宜哲, Mr. 向鵬, Mr. 陳春仁, Mr. 江運貴, Mr. 蔡宗一, Mr. 郭義雄, Mr. 張繼昭, Mr. 林文政, Mr. 李彥禎, Mr. 楊朱美, Mr. 陳在程, Mr. 趙聰仁, Mr. 邱伸彥, Mr. 李典常, Mr. 盧志華, Mr. 蔡孟達, Mr. 郭清江, Mr. 章殷寧, Mr. 林忠宗, Mr. 胡宏仁, Mr. 蔡長宗, Mr. 林宗忠, Mr. 游正民, Mr. 呂汝慈, Mr. 林衡哲, Mr. 林宗忠, Mr. 朱迺欣, Mr. 徐新宏, Mr. 張崇智, Mr. 周叔夜, Mr. 蔡嘉寅, Mr. 鄭英松, Mr. 范正彥, Mr. 范清亮, Mr. 林華山, Mr. 賴天明, Mr. 周嬌, Mr. 林幸魄, Mr. 鄭炳全, Mr. 游正中, Mr. 董雅美, Mr. 陳金樹, Mr. 何汝諧, Mr. 郭清江, Mr. 盧志華
 
 ### 小組聚會 (Small Groups)
 
