@@ -81,7 +81,7 @@ The 2026 ITPC organizational structure includes the following committees and min
 | **F. 教會總務組 (Church Administration)** | 鄭宏明 (召) | 陳慶榮, [[people/qun-tsai|蔡昆]]山, 翁國田, 林淑華 |
 | **G. 會計財務組 (Accounting & Finance)** | 蔡淑蕙 (召) | 林淑華, 鍾瑞美, [[people/grace-lin|吳瑞惠]], 陳鳳珍, 林英宏, 梁淑慧, 陳素珠, 盧香吟 (稽查) |
 | **H. 社區服務組 (Community Service)** |  |  |
-| H1. 長青教室 (Senior Class) | 林英宏 (召) | 黃勝雄, 蔡淑蕙, 林淑華, 謝崇仁, 林德生, 劉純真, [[people/matthias-c-h-lu|盧志華]], 歐孟軒 |
+| H1. [[organizations/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca|長青教室]] (Senior Class) | 林英宏 (召) | 黃勝雄, 蔡淑蕙, 林淑華, 謝崇仁, 林德生, 劉純真, [[people/matthias-c-h-lu|盧志華]], 歐孟軒 |
 | H2. 拿娥美事工 (Nao Mei Ministry) | 黃勝雄 (召) | 鍾瑞美, 蔡淑蕙, 林淑華, 黃美琇, 薛慧美 |
 | **I. 對外聯絡 (External Relations)** | 陳鳳珍 (召) | 黃勝雄, 陳建文, 黄美琇 |
 | **J. 財務管理會 (Financial Management)** | 黃勝雄 (召) | 陳建文, 薛慧美, 黃國雄, 胡宏仁 |
@@ -182,7 +182,7 @@ The 長青教室 (Senior Class) is ITPC's flagship educational program — a wee
 - Prostate health (Dr. [[people/huey-lin|林惠洲]])
 - Urinary incontinence (Dr. 林惠洲)
 - Male infertility (Dr. 鍾成晏)
-- Dermatology (Dr. 黃文雄)
+- Dermatology (Dr. [[people/wenhsiung-luke-huang|黃文雄]])
 - Dentistry (Dr. 許正雄)
 - Anesthesiology (Dr. 陳惠亭)
 - Bone health (Dr. 陳春仁)
@@ -275,7 +275,7 @@ The 長青教室 (Senior Class) is ITPC's flagship educational program — a wee
 - The role and position of Taiwanese Americans (Prof. [[people/raymond-jeng|鄭英松]])
 
 *Retirement & Lifestyle:*
-- Retirement planning (Ms. 林郁子)
+- Retirement planning (Ms. [[people/vivian-y-g-fu|林郁子]])
 - Financial and physical health in retirement (Ms. 林郁子)
 - Estate planning (Mr. Atsushi "Alex" Kurosawa)
 - Legal documents for elderly Taiwanese (Attorney 蕭東賢)
