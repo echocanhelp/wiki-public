@@ -134,12 +134,12 @@ Notable quotes and mentions of **許景鴻** in Taiwan Justice articles:
 
 AI interpretation from Echopedia facts — **creative, not verified history**. 據這些事實以 AI 創作，屬藝術詮釋而非查證之史實。
 
-**Display Name** · music · en · 2026-08-27 · 2:35
+**Leonard Hsu Jr. (許景鴻)** · music · en · 2026-08-27 · 2:35
 
 - Download: [leonard-hsu-jr.mp3](../media/leonard-hsu-jr.mp3)
 
 <audio controls preload="none" src="../media/leonard-hsu-jr.mp3">
-Display Name — Echo Resonance
+Leonard Hsu Jr. — Echo Resonance
 </audio>
 
 <details>
