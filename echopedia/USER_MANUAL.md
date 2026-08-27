@@ -640,7 +640,7 @@ The publish script (`echopedia-publish.sh`) does the following:
 3. **Tree-copy** subdirectories: `people/`, `organizations/`, `sources/`, `events/`, `articles/`, `tags/` from `quartz/public/` → repo root
 4. **Copy root `index.html`** from `quartz/public/index.html` → repo root (homepage with theme table, etc.)
 5. **Featured regen** — `featured-regen.py --inject` adds featured cards to root `index.html`
-6. **Commit + push** to `gh-pages`
+6. **Commit + push** to `gh-pages` — `--push` runs `git add -A`. On a dirty `echo-system` tree, run the script **without** `--push`, then path-limit `git add`. Never `git commit` in `~/quartz-v4` (rsync target). Pushing markdown/MP3 without this Quartz step does **not** update live person HTML.
 7. **Post-push CDN verify** — `echopedia-cdn-verify.sh --heal`
 
 **Critical step:** Step 4 (root `index.html` copy) is required because the tree-copy in step 3 only copies subdirectories. Without it, the homepage's "Explore by theme" table and other content from `content/index.md` never reaches the live site.
