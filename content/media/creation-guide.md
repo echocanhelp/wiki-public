@@ -5,71 +5,82 @@ tags: [media, echo-resonance, guide]
 verification_status: draft
 last_reviewed: 2026-08-26
 ---
-# How Echopedia crafts media / Echopedia 如何創作媒體
+# How Echopedia crafts media
 
-We never start from a blank prompt. Each piece is inferred from **who it is for** —
-built from the person's or page's Echopedia entry, not an empty box.
-我们不凭空起稿；每一首都是看着当事人的 Echopedia 页面、为特定的人而创作。
+We do not answer to a blank prompt. We infer each piece from **who it is for**,
+reading the Echopedia page the go-line names and building from there. This is a
+behind-the-curtains look at that reasoning.
 
-## Creative, not verified history / 是創作，不是查證之史實
-Echopedia records **facts**. This media is an **AI interpretation** built from those
-facts — an artful retelling, not a documented account. Treat it as a story inspired
-by truth, not a primary source.
-據這些事實以 AI 創作，屬藝術詮釋而非查證之史實。請視為源於真實的故事，而非第一手史料。
+> Creative, not verified history. 據這些事實以 AI 創作，屬藝術詮釋而非查證之史實.
 
-## The context ladder / 線索的階梯
-We read, in order:
-1. the **named page** — who or what is the subject
-2. **family & related people**, exactly as the page links them
-3. the **era**, only if the page cites it
-4. the **occasion** described in the go-line (the request line)
-5. **language tokens** (e.g. `taigi`, 台語, 台羅)
+## The context ladder
 
-## Music now / 目前的作品
-Today we make **music**:
-- **With lyrics** → a song (verse, chorus, sing-along line)
-- **Without lyrics** → instrumental / backdrop
-Image and video come later.
+We climb a ladder, using only what the page and go-line actually carry:
 
-## Language / 語言
-- `taigi` / 台語 / 台羅 → a **native 台語 song**: 漢字 for the singer's line, Tâi-lô
-  for the follow-along line.
-- Otherwise **English**, unless the go-line says otherwise.
-- We never translate English lyrics into 台語.
+1. **The named page** — the person, church, or event the go-line points to.
+2. **Family / related people, *as linked*** — we only follow links the page
+   actually makes. We do not invent relatives.
+3. **Era — only if cited** — a decade or year that the page explicitly states.
+4. **Occasion** — what the go-line is for (a birthday, a memorial, a gathering).
+5. **Language tokens** — `taigi` / 台語 / 台羅, or otherwise English.
 
-## Names & ages / 名字與年齡
-We do not invent ages or relatives. If the page has no birth year, we do not guess.
-Family names and relationships are held exactly as written.
-我们不猜测年龄或亲属；页面没有出生年，就不写出生年。
+If a rung is missing, we stop there. We do not fabricate the next one.
 
-## Audience / 聽眾
-If the page lists **children without ages**, we write a warm, multi-generational
-piece — never a toddler jingle, and never an adult club track.
+## What we make now — and what comes later
 
-## Connections / 關聯
-We read **this page's** family, related people, orgs, and tags. A link to a composer,
-singer, or church is a **style hint**, not a verdict. We do not treat a shared surname
-as a musical lineage, and we do not flatten a whole "PCT family" into
-"this person is clergy."
-關聯是風格線索，不是結論；不因同姓就斷定音樂血統，也不會因同屬某個家族就说某人是聖職人員。
+- **Music, today.** With lyrics (a song) or without lyrics (an instrumental).
+- **Image / video** — a later wave, not this one.
 
-## Worked examples (true vault facts only)
-- **Leonard Hsu Jr. / 許景鴻** — TAHS, Echopedia, SoCal, Phoenix, Lennix, Leon.
-  English vocal, acoustic/warm. No Tyzen skew unless the page actually links 萧泰然.
-- A page that wikilinks **[[people/tyzen-hsiao | 蕭泰然]]** → piano / neo-romantic /
-  sacred + homeland *guidance*. Influence, not a copy of a known work.
-- A page tagged **pastor / minister** → hymn / choir / piano defaults, then age and
-  era only if the page **cites** them.
-- A page tagged **singer** (e.g. [[people/hsu-ching-chun | 許景淳]]) → vocal-forward
-  ballad. A church household is a creative mechanism, not a clergy office.
+## Language
 
-## Public tags, as a single sentence
-Tags are shown as one plain line, e.g. **Taiwanese folk / acoustic / male vocal** —
-not a raw comma dump.
+- `taigi` / 台語 / 台羅 → a **native 台語歌** (漢字 singer, with a Tâi-lô
+  follow-along). Otherwise English — unless the go-line says otherwise.
+- We never translate English lyrics into 台語, and we never sing Tâi-lô as
+  English syllables.
 
-## What we will not do / 不做的事
-- No photoreal deepfakes of a named person.
-- No English→Taigi calque (a literal translation that kills the language).
-- No singing Tâi-lô in English syllables.
-- No replacing a live full 台語 song without a fresh GO.
-- No inventing a named home congregation or specific church/pew the page does not cite.
+## Names, ages, and family — we hold the line
+
+We do **not** invent ages or relatives. If the page has no birth year, we do not
+guess. Family names are held exactly as the vault writes them.
+
+## Audience
+
+If children are listed **without ages**, we write a warm **multi-generational**
+piece — not a toddler jingle, not an adult club track.
+
+## Connections (how links shape a sound)
+
+We read **this page's** family, related people/orgs, and tags:
+
+- A link to a composer, singer, or church is a **style hint** — nothing more.
+- We do **not** treat a shared surname as a musical lineage.
+- We do **not** flatten "PCT family" into "this person is clergy."
+
+A shared name is not a chord.
+
+## Worked examples
+
+True vault facts only. We add no biography the page does not hold.
+
+- **Go-line family music for Leonard Hsu Jr. / 許景鴻** → TAHS, Echopedia,
+  SoCal, Phoenix, Lennix, Leon. EN vocal, acoustic / warm. No Tyzen skew unless
+  the page actually links 蕭泰然.
+- **A page that wikilinks [[people/tyzen-hsiao|蕭泰然]]** → piano / neo-romantic /
+  sacred + homeland **guidance** — still not "we composed 台灣翠青."
+- **A page tagged pastor / minister** → hymn / choir / piano defaults, then age or
+  era **only if cited**.
+- **A page tagged singer** (e.g. [[people/hsu-ching-chun|許景淳]]) → vocal-forward
+  ballad; a church household is the *mechanism*, not a clergy office.
+
+## What we will not do
+
+- Photoreal deepfakes of a real person.
+- An EN→Taigi calque — mechanically translating English words into 台語.
+- Singing Tâi-lô as English syllables.
+- Replacing a live full 台語歌 without a GO.
+- Inventing a named pew. (Tyzen / Amy Lin: SoCal home congregation **not found**.)
+
+## A note on tags
+
+On the album we show a single tag line as a natural sentence —
+"Taiwanese folk / acoustic / male vocal" — never the raw comma list.
