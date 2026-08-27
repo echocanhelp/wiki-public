@@ -29,7 +29,7 @@ Bare messages without `go` on this system are treated the same as `go <message>`
 | website / domain | WEBSITE_INGEST (**class** live-small vs story-corpus) |
 | cron / nightly / job | cron SSOT + docs-sync |
 | publish / ship | P2 / ci-heal |
-| echo resonance / song + publish | go-router → skill **`echo-resonance`** (player + native **漢字 singer** + **Tâi-lô** gloss + 萌典 listen; never EN→Taigi; not a new P#). Operator command is English (`go echo resonance`). **Not** LINE story collector (`go ee`). |
+| echo resonance / song + publish | go-router → skill **`echo-resonance`**. Before tags: consult `content/media/creation-guide.md` + `~/ai-services/media-stack/orchestrator/media_profile.py` (MPP). Token **`only` ≠ instrumental** (`family music only` = music modality). Native **漢字 singer** + **Tâi-lô** gloss + 萌典 listen; never EN→Taigi; not a new P#. Operator command is English (`go echo resonance`). **Not** LINE story collector (`go ee`). |
 | taigi / 台語 / 台羅 / POJ spelling | **Tâi-lô** via `scripts/moedict-ssot.py` unless source is church/historical → POJ |
 | build / plan / epic | plan + kanban |
 | turn off push / L3 | standards P6 |

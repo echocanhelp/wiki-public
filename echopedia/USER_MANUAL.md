@@ -80,6 +80,7 @@ Orchestrator: `~/ai-services/media-stack/orchestrator/` · Policy: **force UP on
 | `go back to laguna` / `go emergency up` / `go back to ornith` | panic restore Ornith UP (`media-emergency-up.sh`) |
 | `go generate image …` (local) | `soft_image.sh` (SD1.5 soft; Ornith stays up) |
 | `go describe this image` (local) | `native_vision.sh` (Ornith `:8888`) |
+| `go echo resonance …` | skill **`echo-resonance`**. Palette: `media_profile.py` → jobs sidecar; human contract: `content/media/creation-guide.md`. `music only` ≠ BGM. |
 | hard fat media | `run_job.sh hard` / wrappers — **agent off**, no `:8890` |
 
 **Default:** prefer **soft** (Ornith up). **Hard** only for fat GPU. LINE stays Grok during hard. Vault disk always available. Stuck → emergency up.
