@@ -18,6 +18,83 @@ Listen below; every piece is listed (not a teaser).
 
 ## Featured pieces
 
+### Leonard Hsu Jr  <a href="#top">#</a>
+
+- slug: leonard-hsu-jr · kind: MUSIC · language: en · produced: 2026-08-27
+- link: [[#slug-leonard-hsu-jr|Leonard Hsu Jr]]
+
+- Download: [leonard-hsu-jr.mp3](../media/leonard-hsu-jr.mp3)
+
+<audio controls preload="none" src="../media/leonard-hsu-jr.mp3">
+              Leonard Hsu Jr · MUSIC · en (2026-08-27)
+            </audio>
+
+### Smoke Instrumental  <a href="#top">#</a>
+
+- slug: _smoke-instrumental · kind: MUSIC · language: zh-TW · produced: 2026-08-26
+- link: [[#slug-_smoke-instrumental|Smoke Instrumental]]
+
+- Download: [_smoke-instrumental.wav](/home/leedt/media-outputs/jobs/_smoke-instrumental.wav)
+
+<audio controls preload="none" src="/home/leedt/media-outputs/jobs/_smoke-instrumental.wav">
+              Smoke Instrumental · MUSIC · zh-TW (2026-08-26)
+            </audio>
+
+### Shante Taigi Chorus a  <a href="#top">#</a>
+
+- slug: shante-taigi-chorus-a · kind: MUSIC · language: zh-TW · produced: 2026-08-25
+- link: [[#slug-shante-taigi-chorus-a|Shante Taigi Chorus a]]
+
+- Download: [shante-taigi-chorus-A.wav](/home/leedt/media-outputs/jobs/shante-taigi-chorus-A.wav)
+
+<audio controls preload="none" src="/home/leedt/media-outputs/jobs/shante-taigi-chorus-A.wav">
+              Shante Taigi Chorus a · MUSIC · zh-TW (2026-08-25)
+            </audio>
+
+### Shante Taigi Chorus Taga Chopped90  <a href="#top">#</a>
+
+- slug: shante-taigi-chorus-taga-chopped90 · kind: MUSIC · language: zh-TW · produced: 2026-08-25
+- link: [[#slug-shante-taigi-chorus-taga-chopped90|Shante Taigi Chorus Taga Chopped90]]
+
+- Download: [shante-taigi-chorus-tagA-chopped90.wav](/home/leedt/media-outputs/jobs/shante-taigi-chorus-tagA-chopped90.wav)
+
+<audio controls preload="none" src="/home/leedt/media-outputs/jobs/shante-taigi-chorus-tagA-chopped90.wav">
+              Shante Taigi Chorus Taga Chopped90 · MUSIC · zh-TW (2026-08-25)
+            </audio>
+
+### Shante Taigi Chorus Taga  <a href="#top">#</a>
+
+- slug: shante-taigi-chorus-taga · kind: MUSIC · language: zh-TW · produced: 2026-08-25
+- link: [[#slug-shante-taigi-chorus-taga|Shante Taigi Chorus Taga]]
+
+- Download: [shante-taigi-chorus-tagA.wav](/home/leedt/media-outputs/jobs/shante-taigi-chorus-tagA.wav)
+
+<audio controls preload="none" src="/home/leedt/media-outputs/jobs/shante-taigi-chorus-tagA.wav">
+              Shante Taigi Chorus Taga · MUSIC · zh-TW (2026-08-25)
+            </audio>
+
+### Shante Taigi Chorus B  <a href="#top">#</a>
+
+- slug: shante-taigi-chorus-b · kind: MUSIC · language: zh-TW · produced: 2026-08-25
+- link: [[#slug-shante-taigi-chorus-b|Shante Taigi Chorus B]]
+
+- Download: [shante-taigi-chorus-B.wav](/home/leedt/media-outputs/jobs/shante-taigi-chorus-B.wav)
+
+<audio controls preload="none" src="/home/leedt/media-outputs/jobs/shante-taigi-chorus-B.wav">
+              Shante Taigi Chorus B · MUSIC · zh-TW (2026-08-25)
+            </audio>
+
+### Shante Shawsean Chen Song Taigi Gold Langdu  <a href="#top">#</a>
+
+- slug: shante-shawsean-chen-song-taigi-gold-langdu · kind: MUSIC · language: zh-TW · produced: 2026-08-25
+- link: [[#slug-shante-shawsean-chen-song-taigi-gold-langdu|Shante Shawsean Chen Song Taigi Gold Langdu]]
+
+- Download: [shante-shawsean-chen-song-taigi-gold-langdu.mp3](../media/shante-shawsean-chen-song-taigi-gold-langdu.mp3)
+
+<audio controls preload="none" src="../media/shante-shawsean-chen-song-taigi-gold-langdu.mp3">
+              Shante Shawsean Chen Song Taigi Gold Langdu · MUSIC · zh-TW (2026-08-25)
+            </audio>
+
 ### Shante Shawsean Chen Song Taigi  <a href="#top">#</a>
 
 - slug: shante-shawsean-chen-song-taigi · kind: MUSIC · language: zh-TW · produced: 2026-08-25
@@ -27,6 +104,61 @@ Listen below; every piece is listed (not a teaser).
 
 <audio controls preload="none" src="../media/shante-shawsean-chen-song-taigi.mp3">
               Shante Shawsean Chen Song Taigi · MUSIC · zh-TW (2026-08-25)
+            </audio>
+
+### Leonard go Zh Taga  <a href="#top">#</a>
+
+- slug: leonard-go-zh-taga · kind: MUSIC · language: zh-TW · produced: 2026-08-25
+- link: [[#slug-leonard-go-zh-taga|Leonard go Zh Taga]]
+
+- Download: [leonard-go-zh-tagA.wav](/home/leedt/media-outputs/jobs/leonard-go-zh-tagA.wav)
+
+<audio controls preload="none" src="/home/leedt/media-outputs/jobs/leonard-go-zh-tagA.wav">
+              Leonard go Zh Taga · MUSIC · zh-TW (2026-08-25)
+            </audio>
+
+### Leonard go Taigi V4  <a href="#top">#</a>
+
+- slug: leonard-go-taigi-v4 · kind: MUSIC · language: zh-TW · produced: 2026-08-25
+- link: [[#slug-leonard-go-taigi-v4|Leonard go Taigi V4]]
+
+- Download: [leonard-go-taigi-v4.wav](/home/leedt/media-outputs/jobs/leonard-go-taigi-v4.wav)
+
+<audio controls preload="none" src="/home/leedt/media-outputs/jobs/leonard-go-taigi-v4.wav">
+              Leonard go Taigi V4 · MUSIC · zh-TW (2026-08-25)
+            </audio>
+
+### Leonard go Taigi V3  <a href="#top">#</a>
+
+- slug: leonard-go-taigi-v3 · kind: MUSIC · language: zh-TW · produced: 2026-08-25
+- link: [[#slug-leonard-go-taigi-v3|Leonard go Taigi V3]]
+
+- Download: [leonard-go-taigi-v3.wav](/home/leedt/media-outputs/jobs/leonard-go-taigi-v3.wav)
+
+<audio controls preload="none" src="/home/leedt/media-outputs/jobs/leonard-go-taigi-v3.wav">
+              Leonard go Taigi V3 · MUSIC · zh-TW (2026-08-25)
+            </audio>
+
+### Echo Resonance Tony Ann  <a href="#top">#</a>
+
+- slug: echo-resonance-tony-ann · kind: MUSIC · language: zh-TW · produced: 2026-08-25
+- link: [[#slug-echo-resonance-tony-ann|Echo Resonance Tony Ann]]
+
+- Download: [echo-resonance-tony-ann.wav](/home/leedt/media-outputs/jobs/echo-resonance-tony-ann.wav)
+
+<audio controls preload="none" src="/home/leedt/media-outputs/jobs/echo-resonance-tony-ann.wav">
+              Echo Resonance Tony Ann · MUSIC · zh-TW (2026-08-25)
+            </audio>
+
+### David Lee Song Zhtw  <a href="#top">#</a>
+
+- slug: david-lee-song-zhtw · kind: MUSIC · language: zh-TW · produced: 2026-08-25
+- link: [[#slug-david-lee-song-zhtw|David Lee Song Zhtw]]
+
+- Download: [david-lee-song-zhtw.wav](/home/leedt/media-outputs/jobs/david-lee-song-zhtw.wav)
+
+<audio controls preload="none" src="/home/leedt/media-outputs/jobs/david-lee-song-zhtw.wav">
+              David Lee Song Zhtw · MUSIC · zh-TW (2026-08-25)
             </audio>
 
 ### Shante Shawsean Chen Song  <a href="#top">#</a>
