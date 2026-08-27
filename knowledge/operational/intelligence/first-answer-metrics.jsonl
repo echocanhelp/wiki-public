@@ -633,3 +633,5 @@
 {"ts": "2026-08-25T21:30:36Z", "status": "hit", "query": "228 Memorial Concert in NorCal", "slug": "hsu-ling-yun-xiucai-memorial-hall", "source": "brain", "kind": "organization"}
 {"ts": "2026-08-25T21:30:37Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
 {"ts": "2026-08-25T21:30:37Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-26T15:36:10Z", "status": "miss", "query": "牧谷", "slug": null, "source": "owner", "kind": null}
+{"ts": "2026-08-26T17:03:37Z", "status": "miss", "query": "[Hsuperman] dismiss 牧谷", "slug": null, "source": "brain", "kind": null}

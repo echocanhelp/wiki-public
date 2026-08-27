@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-25T08:15:16.732693",
+  "generated_at": "2026-08-26T08:15:28.243265",
   "pages_scanned": 2859,
   "capped": true,
   "cap_top_n": 80,
   "summary": {
-    "co_citation_count": 1031,
-    "co_mention_count": 5948,
+    "co_citation_count": 1104,
+    "co_mention_count": 6023,
     "shared_tags_count": 0,
     "orphan_folder_count": 2,
     "kept_co_citation": 80,
@@ -40,6 +40,33 @@
         "page1_title": "AJ WANG FOUNDATION – SCHOLARSHIP FUND",
         "page2_title": "Ann Arbor Taiwanese Association (安雅堡)",
         "shared_targets_count": 2549
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/alumni-association-of-chia-yi-high-school-worldwide.md",
+        "page2": "organizations/chang-jung-girls-high-school-alumni-association-southern-california.md",
+        "shared_target": "organizations/laguna-woods-village-taiwanese-club",
+        "page1_title": "Alumni Association of Chia Yi High School Worldwide (AACHW)",
+        "page2_title": "Chang Jung Girls’ High School Alumni Association Southern California",
+        "shared_targets_count": 13
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/alumni-association-of-chia-yi-high-school-worldwide.md",
+        "page2": "organizations/formosa-senior-association.md",
+        "shared_target": "organizations/laguna-woods-village-taiwanese-club",
+        "page1_title": "Alumni Association of Chia Yi High School Worldwide (AACHW)",
+        "page2_title": "Formosa Senior Association",
+        "shared_targets_count": 13
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/alumni-association-of-chia-yi-high-school-worldwide.md",
+        "page2": "organizations/joint-alumni-association-of-taiwan-teachers-college-and-normal-univers.md",
+        "shared_target": "organizations/laguna-woods-village-taiwanese-club",
+        "page1_title": "Alumni Association of Chia Yi High School Worldwide (AACHW)",
+        "page2_title": "Joint Alumni Association of Taiwan Teachers College and Normal University(JTTAA)",
+        "shared_targets_count": 13
       },
       {
         "type": "CO-CITATION",
@@ -318,7 +345,7 @@
         "shared_target": "sources/toward-a-community-of-hope",
         "page1_title": "Democratic Progressive Party (民主進步黨)",
         "page2_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "shared_targets_count": 73
+        "shared_targets_count": 75
       },
       {
         "type": "CO-CITATION",
@@ -327,7 +354,7 @@
         "shared_target": "sources/toward-a-community-of-hope",
         "page1_title": "Democratic Progressive Party (民主進步黨)",
         "page2_title": "National Taiwanese Presbyterian Council (NTPC)",
-        "shared_targets_count": 73
+        "shared_targets_count": 75
       },
       {
         "type": "CO-CITATION",
@@ -336,7 +363,7 @@
         "shared_target": "sources/toward-a-community-of-hope",
         "page1_title": "Democratic Progressive Party (民主進步黨)",
         "page2_title": "Albert EN SKU A audiobook scratch — full book review",
-        "shared_targets_count": 73
+        "shared_targets_count": 75
       },
       {
         "type": "CO-CITATION",
@@ -512,11 +539,29 @@
       {
         "type": "CO-CITATION",
         "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
+        "page2": "sources/taiwaneseamericanhistory-org.md",
+        "shared_target": "people/jang-yen-wu",
+        "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
+        "page2_title": "taiwaneseamericanhistory.org (TAH Foundation)",
+        "shared_targets_count": 2
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
         "page2": "organizations/irvine-taiwanese-presbyterian-church.md",
-        "shared_target": "organizations/good-shepherd-taiwanese-presbyterian-church",
+        "shared_target": "people/peter-chen",
         "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
         "page2_title": "Irvine Taiwanese Presbyterian Church (爾灣台灣基督長老教會 (ITPC))",
-        "shared_targets_count": 54
+        "shared_targets_count": 3
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/irvine-taiwanese-presbyterian-church.md",
+        "page2": "sources/taiwaneseamericanhistory-org.md",
+        "shared_target": "people/peter-chen",
+        "page1_title": "Irvine Taiwanese Presbyterian Church (爾灣台灣基督長老教會 (ITPC))",
+        "page2_title": "taiwaneseamericanhistory.org (TAH Foundation)",
+        "shared_targets_count": 3
       },
       {
         "type": "CO-CITATION",
@@ -611,6 +656,15 @@
       {
         "type": "CO-CITATION",
         "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
+        "page2": "people/ye-siya-zhang-xinhui.md",
+        "shared_target": "people/grace-h-yeh",
+        "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
+        "page2_title": "Ye Siya & Zhang Xinhui (葉思雅、張信惠)",
+        "shared_targets_count": 2
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
         "page2": "people/james-yang.md",
         "shared_target": "people/yang-ming-ren",
         "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
@@ -643,15 +697,6 @@
         "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
         "page2_title": "Danny Chen (陳啟耕)",
         "shared_targets_count": 36
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
-        "page2": "sources/taiwaneseamericanhistory-org.md",
-        "shared_target": "people/jen-hao-lee",
-        "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "page2_title": "taiwaneseamericanhistory.org (TAH Foundation)",
-        "shared_targets_count": 3
       },
       {
         "type": "CO-CITATION",
@@ -688,51 +733,6 @@
         "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
         "page2_title": "Rev. David Huang (黃德利)",
         "shared_targets_count": 6
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/global-alliance-for-democracy-and-peace-la.md",
-        "page2": "organizations/taiwan-center.md",
-        "shared_target": "organizations/global-alliance-for-democracy-and-peace",
-        "page1_title": "Global Alliance for Democracy and Peace (GADP)-LA",
-        "page2_title": "Taiwan Center Foundation of the Greater Los Angeles (大洛杉磯台灣會館)",
-        "shared_targets_count": 4
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/global-alliance-for-democracy-and-peace-la.md",
-        "page2": "people/zhou-wei-lin.md",
-        "shared_target": "organizations/global-alliance-for-democracy-and-peace",
-        "page1_title": "Global Alliance for Democracy and Peace (GADP)-LA",
-        "page2_title": "Zhou Weilin (周威霖)",
-        "shared_targets_count": 4
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/taiwan-center.md",
-        "page2": "people/zhou-wei-lin.md",
-        "shared_target": "organizations/global-alliance-for-democracy-and-peace",
-        "page1_title": "Taiwan Center Foundation of the Greater Los Angeles (大洛杉磯台灣會館)",
-        "page2_title": "Zhou Weilin (周威霖)",
-        "shared_targets_count": 4
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/good-shepherd-taiwanese-presbyterian-church.md",
-        "page2": "organizations/irvine-taiwanese-presbyterian-church.md",
-        "shared_target": "people/mingyuan-hsu",
-        "page1_title": "Good Shepherd Taiwanese Presbyterian Church",
-        "page2_title": "Irvine Taiwanese Presbyterian Church (爾灣台灣基督長老教會 (ITPC))",
-        "shared_targets_count": 23
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/good-shepherd-taiwanese-presbyterian-church.md",
-        "page2": "organizations/national-taiwanese-presbyterian-council.md",
-        "shared_target": "people/mingyuan-hsu",
-        "page1_title": "Good Shepherd Taiwanese Presbyterian Church",
-        "page2_title": "National Taiwanese Presbyterian Council (NTPC)",
-        "shared_targets_count": 23
       }
     ],
     "co_mention": [
@@ -743,6 +743,22 @@
         "page1_title": "AJ WANG FOUNDATION – SCHOLARSHIP FUND",
         "page2_title": "taiwaneseamericanhistory.org (TAH Foundation)",
         "mention_text": "taiwaneseamericanhistory.org (TAH Foundation)"
+      },
+      {
+        "type": "CO-MENTION",
+        "page1": "organizations/alumni-association-of-chia-yi-high-school-worldwide.md",
+        "page2": "organizations/laguna-woods-village-taiwanese-club.md",
+        "page1_title": "Alumni Association of Chia Yi High School Worldwide (AACHW)",
+        "page2_title": "Laguna Woods Village Taiwanese Club (南加州)",
+        "mention_text": "Laguna Woods Village Taiwanese Club (南加州)"
+      },
+      {
+        "type": "CO-MENTION",
+        "page1": "organizations/alumni-association-of-chia-yi-high-school-worldwide.md",
+        "page2": "organizations/san-diego-taiwanese-cultural-association.md",
+        "page1_title": "Alumni Association of Chia Yi High School Worldwide (AACHW)",
+        "page2_title": "San Diego Taiwanese Cultural Association (南加州)",
+        "mention_text": "San Diego Taiwanese Cultural Association (南加州)"
       },
       {
         "type": "CO-MENTION",
@@ -1039,22 +1055,6 @@
         "page1_title": "Boston Taiwanese Christian Church (波士頓台灣基督教會)",
         "page2_title": "Elder John Lai (賴永祥)",
         "mention_text": "Elder John Lai (賴永祥)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "organizations/boston-university-taiwanese-student-association.md",
-        "page2": "organizations/chinese-and-taiwanese-student-association.md",
-        "page1_title": "Boston University Taiwanese Student Association",
-        "page2_title": "Chinese and Taiwanese Student Association",
-        "mention_text": "Chinese and Taiwanese Student Association"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "organizations/boston-university-taiwanese-student-association.md",
-        "page2": "organizations/taiwanese-american-student-association.md",
-        "page1_title": "Boston University Taiwanese Student Association",
-        "page2_title": "Taiwanese American Student Association",
-        "mention_text": "Taiwanese American Student Association"
       }
     ],
     "shared_tags": []

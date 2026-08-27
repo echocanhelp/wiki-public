@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "standards_version": 10,
   "auto_apply_agent": false,
   "nodes": {
@@ -23,7 +23,7 @@
       "n": 40
     },
     "kanban.blocked": {
-      "n": 6
+      "n": 46
     },
     "kanban.auto_go": {
       "enabled": false
@@ -36,21 +36,12 @@
       "auto_apply_agent": false,
       "first_mention_apply": true
     },
-    "cron.fail": [
-      "echopedia-janitor",
-      "cron-audit",
-      "cron-self-audit"
-    ]
+    "cron.fail": []
   },
   "telegram_auto_lines": [
     "✅ AUTO analyzer scanned 1 queued 0 suppressed 1765",
     "🟡 QUEUE janitor HOLD leftover 40",
-    "🟡 QUEUE kanban blocked 6",
-    "🔴 NEED YOU cron fail: echopedia-janitor, cron-audit, cron-self-audit"
+    "🟡 QUEUE kanban blocked 46"
   ],
-  "cron_fail_names": [
-    "echopedia-janitor",
-    "cron-audit",
-    "cron-self-audit"
-  ]
+  "cron_fail_names": []
 }

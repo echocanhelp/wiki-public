@@ -1,4 +1,4 @@
-## Site design audit — 2026-08-26 03:32
+## Site design audit — 2026-08-27 03:31
 
 - pages_md=5271
 - critical=0 high=1 medium=1
@@ -19,7 +19,7 @@
   - `people/franklin-ping-cheng.md`
 
 ### MEDIUM (1)
-- **F4** people/index.html is 1491826 bytes — heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break.
+- **F4** people/index.html is 1491824 bytes — heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break.
 
 ### LOW (1)
 - **C1** spelling signals (sample): 3 `[AGENT_SUGGESTED]`
@@ -28,7 +28,7 @@
   - `wang-qiaoling.md: ?qiaoling`
 
 ### INFO (1)
-- **B1** person/org touched ≤7d (rely on recency featured window): 75
+- **B1** person/org touched ≤7d (rely on recency featured window): 70
   - `people/alan-thian.md`
   - `people/bai-peiyu.md`
   - `people/bai-weiwei.md`
@@ -36,7 +36,7 @@
   - `people/cao-changqing.md`
   - `people/chao-sile.md`
   - `people/chen-bozhi.md`
-  - `people/chen-hui-chen.md`
+  - `people/chen-maoxiong.md`
 
 ### Programmable heals
 - (none)

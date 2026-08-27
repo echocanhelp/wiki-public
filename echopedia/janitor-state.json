@@ -1,15 +1,8 @@
 {
   "version": 1,
-  "last_run": "2026-08-26",
+  "last_run": "2026-08-27",
   "standards_version_seen": 10,
   "runs": [
-    {
-      "date": "2026-07-26",
-      "candidates": 58,
-      "selected": 5,
-      "standards_version": 7,
-      "standards_bumped": false
-    },
     {
       "date": "2026-07-27",
       "candidates": 58,
@@ -209,6 +202,13 @@
     {
       "date": "2026-08-26",
       "candidates": 5098,
+      "selected": 40,
+      "standards_version": 10,
+      "standards_bumped": false
+    },
+    {
+      "date": "2026-08-27",
+      "candidates": 5099,
       "selected": 40,
       "standards_version": 10,
       "standards_bumped": false
@@ -890,7 +890,7 @@
       ]
     }
   ],
-  "last_candidates": 5098,
+  "last_candidates": 5099,
   "last_selected": [
     "people/chen-meihui.md",
     "people/guo-yingyan.md",

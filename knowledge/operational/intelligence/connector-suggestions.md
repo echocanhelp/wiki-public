@@ -1,13 +1,16 @@
 # Connector suggestions (capped top 80)
 
-- co_citation total=1031 kept=80
-- co_mention total=5948 kept=40
+- co_citation total=1104 kept=80
+- co_mention total=6023 kept=40
 - shared_tags total=0 kept=0
 
 ## Top co-citation
 - organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/american-citizens-for-taiwan.md
 - organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/american-citizens-of-taiwan-origin-acto.md
 - organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/ann-arbor-taiwanese-association.md
+- organizations/alumni-association-of-chia-yi-high-school-worldwide.md ↔ organizations/chang-jung-girls-high-school-alumni-association-southern-california.md
+- organizations/alumni-association-of-chia-yi-high-school-worldwide.md ↔ organizations/formosa-senior-association.md
+- organizations/alumni-association-of-chia-yi-high-school-worldwide.md ↔ organizations/joint-alumni-association-of-taiwan-teachers-college-and-normal-univers.md
 - organizations/boston-taiwanese-christian-church.md ↔ organizations/elder-john-lai-archives.md
 - organizations/boston-taiwanese-christian-church.md ↔ organizations/presbyterian-church-in-taiwan.md
 - organizations/boston-taiwanese-christian-church.md ↔ people/thomas-barclay.md
@@ -27,6 +30,3 @@
 - organizations/democratic-progressive-party.md ↔ people/ken-wu.md
 - organizations/democratic-progressive-party.md ↔ people/zhou-wei-lin.md
 - organizations/democratic-progressive-party.md ↔ organizations/taiwan-american-foundation.md
-- organizations/democratic-progressive-party.md ↔ people/kao-chun-ming.md
-- organizations/democratic-progressive-party.md ↔ people/lin-chao-quan.md
-- organizations/democratic-progressive-party.md ↔ organizations/taiwanjustice-net.md
