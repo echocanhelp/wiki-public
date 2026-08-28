@@ -1,4 +1,4 @@
-TAHS · Echopedia morning brief — 2026-08-26
+TAHS · Echopedia morning brief — 2026-08-27
 No owner judgment needed — overnight loop ran clean.
 
 🔴 NEED YOU (your judgment only)
@@ -21,7 +21,7 @@ No owner judgment needed — overnight loop ran clean.
 🟡 QUEUE 11 pages WIP/incomplete
 
 🟡 QUEUE / link suggestions (disk)
-ℹ️  INFO  top tips below · full pairs on disk (~7127 scored)
+ℹ️  INFO  top tips below · full pairs on disk (~7128 scored)
 
 🟡 QUEUE / optional link tips (≤5, not NEED YOU)
 🟡 QUEUE 1. Link tip: organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/american-citizens-for-taiwan.md
@@ -31,10 +31,9 @@ No owner judgment needed — overnight loop ran clean.
 🟡 QUEUE 5. Link tip: organizations/alumni-association-of-chia-yi-high-school-worldwide.md ↔ organizations/formosa-senior-association.md
 
 ℹ️ SITE (wiki visits; operator self-traffic excluded)
-ℹ️  INFO  wiki 3 visits since cutoff · yday 2026-08-25 = 2 · / 2, /people/albert-chapter1-zh-hsiaochen-full-review 1
+ℹ️  INFO  wiki 3 visits since cutoff · yday 2026-08-26 = 0 · / 2, /people/albert-chapter1-zh-hsiaochen-full-review 1
 
 ✅ AUTO (overnight — evidence)
-✅ AUTO analyzer scanned 1 queued 0 suppressed 1765
 🟡 QUEUE janitor HOLD leftover 40
-🟡 QUEUE kanban blocked 46
+🟡 QUEUE kanban blocked 61
 ℹ️  INFO  only 🔴 NEED YOU requires your reply

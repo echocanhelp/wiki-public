@@ -635,3 +635,5 @@
 {"ts": "2026-08-25T21:30:37Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
 {"ts": "2026-08-26T15:36:10Z", "status": "miss", "query": "牧谷", "slug": null, "source": "owner", "kind": null}
 {"ts": "2026-08-26T17:03:37Z", "status": "miss", "query": "[Hsuperman] dismiss 牧谷", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-27T15:03:42Z", "status": "hit", "query": "[Hsuperman] Go echopedia Leonard hsu and his family love piano music, listens to contemporary piano artists like Tony Ann and Web Weary daily", "slug": "leonard-hsu-jr", "source": "brain", "kind": "person"}
+{"ts": "2026-08-28T07:01:44Z", "status": "hit", "query": "[Hsuperman] Tell me about option 2.  27b with 4 workers", "slug": "north-american-taiwan-association-of-social-workers", "source": "brain", "kind": "organization"}

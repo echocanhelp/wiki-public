@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-26T08:15:28.243265",
+  "generated_at": "2026-08-27T08:15:26.812648",
   "pages_scanned": 2859,
   "capped": true,
   "cap_top_n": 80,
   "summary": {
     "co_citation_count": 1104,
-    "co_mention_count": 6023,
+    "co_mention_count": 6024,
     "shared_tags_count": 0,
     "orphan_folder_count": 2,
     "kept_co_citation": 80,

@@ -1,15 +1,8 @@
 {
   "version": 1,
-  "last_run": "2026-08-27",
+  "last_run": "2026-08-28",
   "standards_version_seen": 10,
   "runs": [
-    {
-      "date": "2026-07-27",
-      "candidates": 58,
-      "selected": 5,
-      "standards_version": 7,
-      "standards_bumped": false
-    },
     {
       "date": "2026-07-28",
       "candidates": 29167,
@@ -208,6 +201,13 @@
     },
     {
       "date": "2026-08-27",
+      "candidates": 5099,
+      "selected": 40,
+      "standards_version": 10,
+      "standards_bumped": false
+    },
+    {
+      "date": "2026-08-28",
       "candidates": 5099,
       "selected": 40,
       "standards_version": 10,
