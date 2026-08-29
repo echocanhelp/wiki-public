@@ -134,68 +134,19 @@ Notable quotes and mentions of **許景鴻** in Taiwan Justice articles:
 
 AI interpretation from Echopedia facts — **creative, not verified history**. 據這些事實以 AI 創作，屬藝術詮釋而非查證之史實。
 
-**Leonard Hsu Jr. (許景鴻)** · music · en · 2026-08-27 · 2:35
+**Leonard Hsu Jr. (許景鴻)** · instrumental · en · 2026-08-27 · 2:35
 
 - Download: [leonard-hsu-jr.mp3](../media/leonard-hsu-jr.mp3)
 
 <audio controls preload="none" src="../media/leonard-hsu-jr.mp3">
-Leonard Hsu Jr. — Echo Resonance
+Leonard Hsu Jr. — Echo Resonance (instrumental)
 </audio>
 
 <details>
-<summary>Lyrics (en)</summary>
+<summary>Production note (en)</summary>
 
-```
-[Intro]
-Quiet keys on the table
-Every evening they come home
-Couches full and laughter rising
-The piano keeps us all warm
-
-[Verse]
-A little one at the bench
-Small hands reaching for the sound
-You say the whole day feels gentle
-When the music wraps us 'round
-
-[Pre-Chorus]
-Contemporary hands on the keys
-Keep us company through the day
-Two pianos teaching slowly
-How a quiet heart can carry
-
-[Chorus]
-Family at the piano
-That is where we always are
-Not a stage, not a parade
-Just our voices and the stars
-We listen and we keep on listening
-And the melody holds us true
-Every key that we are learning
-Is a way to say I love you
-
-[Verse]
-Letters on the family tree
-Every name a song to keep
-The ones who played before us
-Are still singing while we sleep
-
-[Chorus]
-Family at the piano
-That is where we always are
-Not a stage, not a parade
-Just our voices and the stars
-We listen and we keep on listening
-And the melody holds us true
-Every key that we are learning
-Is a way to say I love you
-
-[Outro]
-So we sit beside the keyboard
-And the music fills the door
-Years will come and years will pass
-But this song will stay here more
-```
+Instrumental interpretation only — no vocals. Warm, calm, piano.
+AI interpretation from Echopedia facts — <strong>creative, not verified history</strong>. 據這些事實以 AI 創作，屬藝術詮釋而非查證之史實。
 
 </details>
 

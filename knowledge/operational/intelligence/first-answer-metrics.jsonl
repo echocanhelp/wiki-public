@@ -637,3 +637,11 @@
 {"ts": "2026-08-26T17:03:37Z", "status": "miss", "query": "[Hsuperman] dismiss 牧谷", "slug": null, "source": "brain", "kind": null}
 {"ts": "2026-08-27T15:03:42Z", "status": "hit", "query": "[Hsuperman] Go echopedia Leonard hsu and his family love piano music, listens to contemporary piano artists like Tony Ann and Web Weary daily", "slug": "leonard-hsu-jr", "source": "brain", "kind": "person"}
 {"ts": "2026-08-28T07:01:44Z", "status": "hit", "query": "[Hsuperman] Tell me about option 2.  27b with 4 workers", "slug": "north-american-taiwan-association-of-social-workers", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-29T03:59:05Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-29T03:59:05Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-29T04:03:09Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-08-29T04:03:09Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-29T04:03:09Z", "status": "hit", "query": "albert audiobook scratch", "slug": "albert-en-sku-a-scratch-review", "source": "brain", "kind": "person"}
+{"ts": "2026-08-29T05:29:28Z", "status": "miss", "query": "hybrid routing", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-29T05:40:33Z", "status": "hit", "query": "hybrid routing, I used up all my grok credits today and I think it needs reprogramming", "slug": "taiwanese-student-association-all-university", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-29T07:36:55Z", "status": "hit", "query": "the correct prompt to use the universal script and what about transitions from worker model to media model", "slug": "universal-door-foundation", "source": "brain", "kind": "organization"}

@@ -1,4 +1,4 @@
-## Queue drain — 2026-08-28
+## Queue drain — 2026-08-29
 - Items: **40**
 
 - `people/chen-meihui.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)

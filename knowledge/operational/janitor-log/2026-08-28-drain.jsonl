@@ -38,3 +38,43 @@
 {"path": "sources/taiwanjustice-net.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
 {"path": "people/becky-yang.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
 {"path": "people/katherine-huang.md", "findings": ["LINK_BODY_SPARSE", "LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/chen-meihui.md", "findings": ["LINK_BODY_SPARSE", "LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/guo-yingyan.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/tahs-member-onboarding.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/li-furen.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "sources/toward-a-community-of-hope.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "organizations/formosan-presbyterian-church-in-los-angeles.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "organizations/irvine-taiwanese-presbyterian-church.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/chaolong-kao.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/daniel-kao.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/pingtung-lai.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "organizations/formosa-foundation.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "organizations/institute-for-taiwanese-studies.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "organizations/orange-county-taiwanese-association.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "organizations/san-gabriel-taiwanese-lions-club.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "organizations/taiwanese-american-foundation.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "organizations/taiwanese-american-photographers-association.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "organizations/taiwanese-association-of-northwest-los-angeles.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "organizations/taiwanese-united-fund.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "sources/irvine-taiwanese-presbyterian-church.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "organizations/taiwanese-american-foundation-of-san-diego.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "sources/2017-tahs-publication.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/hu-gstpc.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/ku-gstpc.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/wang-gstpc.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "organizations/taiwan-american-foundation.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/guo-shu-qing.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/lin-chao-chi.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/lin-chao-quan.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/liao-ji-chun.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/lin-qiong-xian.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/david-lee.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "organizations/democratic-progressive-party.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "sources/2023-tahs-publication.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/wang-yao-ting.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/zheng-bing-quan.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "sources/taiwancenter-org.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "organizations/taiwanjustice-net.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "sources/taiwanjustice-net.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/becky-yang.md", "findings": ["LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/katherine-huang.md", "findings": ["LINK_BODY_SPARSE", "LINK_UNLINKED_ENTITY"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}

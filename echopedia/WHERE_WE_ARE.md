@@ -33,14 +33,14 @@
 
 All stages **`no_agent`** (no LLM in overnight path):
 
-1. **Filter** (03:05) — content-analysis  
-2. **Audit** (03:10) — nightly structural audit (alert-only critical)  
-3. **Remediate queue** (03:50) — janitor prioritize / queue  
-4. **Scout** (04:05) — live site UX  
-5. **Extract → Evaluate → Generate** (04:15 / 04:20 / 04:25) — staggered  
-6. **Deepen** (04:40–05:20) — backlink / quotes / timeline (content AUTO writes)  
-7. **Publish** (08:00) — ci-heal L2/L3  
-8. **Review** (Sun 07:05) — weekly-improvement pack + review gate  
+1. **Filter** (01:10) — content-analysis  
+2. **Audit** (01:15) — nightly structural audit (alert-only critical)  
+3. **Remediate queue** (01:30) — janitor prioritize / queue  
+4. **Scout** (01:40) — live site UX  
+5. **Extract → Evaluate → Generate** (02:00 / 02:10 / 02:20) — same-day files only  
+6. **Deepen** (01:50–03:00) — backlink / quotes / timeline (content AUTO writes)  
+7. **Publish** (03:30) — ci-heal L2/L3 (only nightly pusher)  
+8. **Review** (Sun 07:15) — weekly-improvement pack + review gate  
 
 **Human surface (last content brief):** `vault-morning-brief` **08:15** — NEED YOU ≤5 first; AUTO strip from `autonomy-ledger.json`.  
 **Cron self-heal:** `cron-audit` 06:00 · `cron-self-audit` 06:40 (schedule restore + missed-run guards).
@@ -58,7 +58,7 @@ SSOT times: `hermes cron list` / SYSTEM_STATUS generated table. Narrative summar
 | When (local) | Job | Role |
 |--------------|-----|------|
 | every 1m | `vllm-thermal-scaler` | Adaptive GPU/thermals (silent when cool) |
-| every 30m | `unified-watchdog` · `kanban-sync` | Health + board sync (silent OK) |
+| every 30m | `unified-watchdog` | Health (silent OK). **No kanban-sync** — chat→board was junk. |
 | **01:10** | **content-analysis** | Daily content-quality audit (auto-heal) |
 | 01:15 | nightly-audit | Structural sense (alert if critical) |
 | **01:30** | **janitor** | Queue safe remediation candidates |

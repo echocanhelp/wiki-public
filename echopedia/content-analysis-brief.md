@@ -1,10 +1,10 @@
-## Echopedia Content Analysis — 2026-08-28
+## Echopedia Content Analysis — 2026-08-29
 - Standards v10
 - Pages scanned: **0** with findings
 - Auto-queued for remediation: **0** (score ≥ 3)
-- Wall time: 1.39s
+- Wall time: 1.31s
 
 - **All pages pass content quality checks.**
 
-- Log: `knowledge/operational/content-analysis/2026-08-28.jsonl`
+- Log: `knowledge/operational/content-analysis/2026-08-29.jsonl`
 - Queue: `echopedia/content-analysis-queue.json`

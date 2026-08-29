@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "standards_version": 10,
   "auto_apply_agent": false,
   "nodes": {
@@ -23,7 +23,7 @@
       "n": 40
     },
     "kanban.blocked": {
-      "n": 61
+      "n": 87
     },
     "kanban.auto_go": {
       "enabled": false
@@ -36,11 +36,16 @@
       "auto_apply_agent": false,
       "first_mention_apply": true
     },
-    "cron.fail": []
+    "cron.fail": [
+      "echopedia-site-design"
+    ]
   },
   "telegram_auto_lines": [
     "🟡 QUEUE janitor HOLD leftover 40",
-    "🟡 QUEUE kanban blocked 61"
+    "🟡 QUEUE kanban blocked 87",
+    "🔴 NEED YOU cron fail: echopedia-site-design"
   ],
-  "cron_fail_names": []
+  "cron_fail_names": [
+    "echopedia-site-design"
+  ]
 }

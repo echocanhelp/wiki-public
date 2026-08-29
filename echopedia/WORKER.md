@@ -12,25 +12,37 @@ tags:
 # Worker Guidelines
 
 > Auto-generated from plan: `~/.hermes/plans/2026-07-19_12-factor-agents-implementation.md`  
-> Last reviewed: 2026-08-17 (token split + TAH identity pitfalls)
+> Last reviewed: 2026-08-28 (LAN pin-by-port + thin-doc / worker load contract)
+
+## If you are the LAN worker (read this, then STOP)
+
+You claimed a **pinto** card. Context budget is small.
+
+1. Read **only** the playbook ID in the card body (P0–P13). Skip this file’s Graph Engineering, Factor essays, and token-split tables unless the card says to patch *this file*.
+2. Do **not** `skill_view go-router`, do **not** `read_file` CONTROL.md / USER_MANUAL.md.
+3. Do **not** load extra echopedia skills. Pitfall → **that one skill** (`## Pitfalls`), never go-router/CONTROL.
+4. Exact commands. Report template. **STOP.** One playbook.
+5. Omit `--model`. Provider `custom:pinto` = live `:8888` id.
+
+Planner (Grok) wrote the card. You execute. You do not redesign.
 
 ## Who runs what (token split)
 
-**Second purpose of this file:** keep **premium Grok tokens** on judgment; spend **free LAN (Ornith) tokens** on playbook execution.
+**Second purpose of this file:** keep **premium Grok tokens** on judgment; spend **free LAN (`:8888`) tokens** on playbook execution.
 
-Live (2026-08-19): pinto `model.default` = `ornith-1.5-35b-a3b-nvfp4` `:8888`; `delegation.provider/model` = same Ornith. Laguna **deprecated** — files kept; revert only via `swap-llm-stack.sh laguna-primary`. Grok appears when the operator `/model`s or this chat already fell over to xAI.
+Live: pinto `model.default` = **served id on `:8888`** (`custom:pinto`). Probe `curl -sf :8888/v1/models` — do **not** pin Ornith/DSV4/Laguna by name. After a stack swap, `retarget-lan-hermes.sh` must run. Laguna **deprecated** — revert only via `swap-llm-stack.sh laguna-primary`. Grok appears when the operator `/model`s or this chat already fell over to xAI.
 
 | Role | Model | May | Must not |
 |------|-------|-----|----------|
 | **Planner** (this chat if Grok) | premium | Classify, identity call (same person?), pick **one** playbook ID, write a self-contained card, patch *this file* if the recipe is wrong, verify worker output | Bulk `patch`/`write_file` on `content/people|organizations`, harvest loops, Quartz publish grind |
-| **Worker** | Ornith / LAN (free) | **One** playbook, exact commands, Report, STOP | Redesign, new crons, identity guesses, `/model` hop |
+| **Worker** | LAN (`:8888` live id) | **One** playbook, exact commands, Report, STOP. Pitfall → **that skill only** | Redesign, new crons, identity guesses, `/model` hop, rewrite go-router / CONTROL / USER_MANUAL |
 | **Scripts / `no_agent`** | $0 tokens | Harvest, backfill, index-sync, collect | LLM in the loop |
 
 **Hand-off (planner on Grok):**
 
 1. Decide identity + playbook in this chat (short).
-2. `hermes kanban create "P8 …" --body "WORKER.md P8 PATH=…" --assignee pinto --model ornith-1.5-35b-a3b-nvfp4 --provider custom:pinto --max-runtime 5m`  
-   **or** `delegate_task(tasks=[7 short goals])` — never 2–4; children inherit Ornith.  
+2. `hermes kanban create "P8 …" --body "WORKER.md P8 PATH=…" --assignee pinto --provider custom:pinto --max-runtime 5m`  
+   Omit `--model` (inherits live `:8888` id). **or** `delegate_task(tasks=[7 short goals])` — never 2–4; children inherit LAN.  
    Leave the card **ready**. Do **not** `claim` from Grok.
 3. Do **not** execute P8/P9/P3/P12 in the Grok turn.
 4. Re-read the files the worker claims; then P1/P2 only if you must (P2 may stay planner if publish is one script).
@@ -39,6 +51,94 @@ Live (2026-08-19): pinto `model.default` = `ornith-1.5-35b-a3b-nvfp4` `:8888`; `
 **Force Ornith/LAN for:** apply tables, new thin pages, redirects, hub list rows, index-sync.
 
 If you already started P8 on Grok this turn, **stop after the next file** and hand off the rest.
+
+## Routing Table (Playbooks P0–P13)
+
+| ID | Name | When | Steps |
+|----|------|------|-------|
+| P0 | Orient | Don't know state | 1. Read SYSTEM_STATUS.md 2. Read WHERE_WE_ARE.md 3. Report |
+| P1 | Ops/drift/smoke | Check health | 1. `echopedia-ops-check.sh` 2. `echopedia-ci-heal.sh --dry-run` 3. `echopedia-smoke-test.sh` 4. Report |
+| P2 | Publish/deploy | Push to live | 1. `echopedia-publish.sh --push` (directory+works regen→**echo-media-regen + content/media/index.md**→rsync→quartz build→**prepublish linkcheck** (works + people + orgs catalogs must not emit `../<slug>` root 404s)→tree-copy including **`public/media/` → repo `media/`** (keep `_manifest.json`) + root index.html + **root `static/contentIndex.json`** copy→featured regen→commit+push→CDN verify) 2. Verify smoke URLs **and** live `static/contentIndex.json` key count 3. Report. **Dirty tree:** if `git status --short | wc -l` is large, run **without** `--push` (script's `--push` is `git add -A`), then path-limit add. Never commit `~/quartz-v4`. **md+mp3 ≠ live HTML.** **Song+wiki ship is not this playbook** — `go` → skill `echo-resonance`, which ends by calling P2. |
+| P3 | One page links | Fix wikilinks | 1. Read page 2. Find broken wikilinks 3. Repair or redirect 4. Commit only (no publish) 5. Report |
+| P4 | Janitor queue | HOLD leftovers | 1. Read janitor-brief.md 2. Fail-closed first-mention + romanization `--heal` are AUTO 3. Process only HOLD leftovers (not already-linked) 4. Commit 5. Report |
+| P5 | Heal/drift/smoke | Full heal | 1. `echopedia-ci-heal.sh` 2. Verify 3. Report |
+| P6 | Toggle autonomy | Disable push | 1. Edit standards.json 2. Report |
+| P7 | Improvement pack | Weekly | 1. Read improvement-brief.md 2. Process items 3. Report |
+| **P8** | **Edit page content** | **New facts from source** | **1. Read source 2. Read target page 3. Apply edits with named source 4. Commit only (no publish) 5. Report** |
+| P9 | New work page | Create stub | 1. Create page from template 2. Add frontmatter 3. Commit 4. Report |
+| P10 | Commit/push git | Git ops | 1. `git add` 2. `git commit` 3. `git push` 4. Report |
+| P11 | Docs selfcheck | Doc OS | 1. `bash ~/.hermes/scripts/echopedia-docs-sync.sh` 2. Check DOCS_STATUS 3. Fix any FAIL 4. Report |
+| P12 | Featured regen | Homepage cards | 1. `featured-regen.py --dry-run` 2. Verify 3. `featured-regen.py --inject` 4. Commit + publish 5. Report |
+| P13 | Site design | Layout issues | 1. Read site-design-brief.md 2. Run audit 3. Propose fixes (incl. root index.html copy from quartz build, Pages build type migration) 4. Report |
+
+Person-to-work linking is **not a worker playbook.** Nightly `no_agent` cron `echopedia-person-works-linker` owns it (capped). Do **not** run `--all` from a session — that was the 22.8MB `## Works` dump.
+
+**Story-corpus (magazines):** ingest `--apply-works` then `echopedia-thicken-work-a.py` (**full A-band article**, not WP teaser). C stays bib. Then works-index + linkcheck + **P2**. Truncation of the **catalog** (`works/index`, people/orgs directories, source hubs) is a bug — list everything. Do **not** uncap person-page quote/harvest dumps (that was the 22MB `## Works` incident).
+
+**directory-corpus (TAH.org) — never skip high-value text:**
+
+```bash
+python3 ~/echo-system/scripts/echopedia-story-corpus-ingest.py \
+  --source-id taiwaneseamericanhistory-org \
+  --home https://taiwaneseamericanhistory.org \
+  --fill-vault --rest-bases posts,pages,tah_video
+# residual (REST-empty / short teaser):
+python3 ~/echo-system/scripts/echopedia-story-corpus-ingest.py \
+  --source-id taiwaneseamericanhistory-org \
+  --home https://taiwaneseamericanhistory.org \
+  --gaps-only
+python3 ~/echo-system/scripts/echopedia-ingest-complete.py --only taiwaneseamericanhistory-org
+```
+
+Index-only or vault_gaps ≠ 0 = **PARTIAL**. No 9k work stubs. Never re-run REST person harvest (wipes `page_text`).
+
+### P8 — Edit page content (content update)
+
+**When:** You have new facts from a named source that need to be applied to an existing wiki page.
+
+**Requirements:**
+- Source path (absolute) — the file or URL providing the new facts
+- Target path (absolute) — the page to edit
+- Facts must come from a verifiable source
+- **Default depth = dossier** (WEBSITE_INGEST §4.1): Identity + Timeline from **this** source + Network + Sources + Related. Do not open a second source unless the card/user said `thicken` / `one source:`.
+- `thin` on the card → snapshot only. Mass L1 / member stubs stay thin.
+
+**Steps:**
+1. Read the source file/URL to extract new facts
+2. Read the target page (`content/<path>.md`)
+3. Apply edits using `patch` tool — only add content that comes from the source
+4. Add source to frontmatter `sources:` list if not already present
+5. Update `last_reviewed` date
+6. Add revision history entry
+7. **Commit only** — do NOT publish (use P2 for publish)
+8. Report changes
+
+**Pitfalls:**
+- Do NOT invent content — only apply what the source provides
+- Do NOT remove existing content unless it contradicts the source
+- Always cite the source in revision history
+- Cross-reference with related pages to ensure consistency (e.g., if you edit family relations, check the related person's page)
+- **TAH English slug ≠ identity.** `taiwaneseamericanhistory.org/person/<slug>/` matching an Echopedia filename is **not** a merge. Require 漢名 (or owner/roster confirm) before absorbing TAH tables onto a TAHS page. Same EN name + different 漢名 → **unmerge**: keep the TAHS page, create a separate `tah-whos-who` page (or encyclopedia page), add Disambiguation both ways. Examples 2026-08-17: TAH `paul-chen` = ophthalmologist (no 漢名) ≠ TAHS officer Paul Chen; TAH #1788 Paul Y. Chen 陳柏宇 is a third row unless owner says otherwise; TAH `rex-chen` = 陳財元 (d. 2003) ≠ TAHS 陳乃光 — do not decide without owner.
+- **TAH WP slug may differ from our slug.** Absorb onto the existing TAHS page (`yee-phong-alan-thian` → `alan-thian`); leave a `redirect_to` stub at the TAH slug. Redirect stubs need `## Identity Snapshot` + `## Related Pages` or `verify_echopedia.py` fails.
+- **Owner identity call beats harvest.** If owner says “X is not ours,” do not put TAH tables on the TAHS officer page even when 漢名 strings match.
+- **Allies in the archive (CONTROL §1b).** People who appear in community sources (e.g. taiwanjustice columnists) stay as **ally / contributor in the record** — not TAHS members, not “not Taiwanese American.” Thicken ≤1 layer from the mission/source. Do not follow their wider political network. Do not add `TAHS` / L1 roster language.
+- **P8 is commit-only.** go-router “Echopedia fact” still runs P1 then P2 after P8. Do not skip P1. New Pages slugs often CDN-404 for minutes; verify `raw.githubusercontent.com/echocanhelp/wiki-public/gh-pages/people/<slug>.html` = 200 before republishing.
+
+**Example:**
+```
+WORKER.md playbook P8 PATH=content/people/ashton-hsu.md SOURCE="family memo pad (Teng-Lung Hsu, M.D. stationery, code 7CIM4107762)"
+```
+
+**Default workflow when user says "Echopedia <person> <fact>":**
+1. **Grok (frontier):** identity judgment + assign WORKER **P8** card to LAN worker
+2. **LAN (`:8888` live id):** P8 with the fact as source (commit only, no publish)
+3. **LAN:** P1 to verify (ops/drift/smoke)
+4. **LAN:** P2 to publish if green
+
+**Grok does NOT execute P8/P9 bulk.** It assigns the card; the LAN worker runs the playbook.
+
+---
+
 
 ## Self-Contained Tasks (Factor 12 — Stateless Reducer)
 
@@ -184,93 +284,6 @@ Found two relevant mechanisms:
 
 ---
 
-## Routing Table (Playbooks P0–P13)
-
-| ID | Name | When | Steps |
-|----|------|------|-------|
-| P0 | Orient | Don't know state | 1. Read SYSTEM_STATUS.md 2. Read WHERE_WE_ARE.md 3. Report |
-| P1 | Ops/drift/smoke | Check health | 1. `echopedia-ops-check.sh` 2. `echopedia-ci-heal.sh --dry-run` 3. `echopedia-smoke-test.sh` 4. Report |
-| P2 | Publish/deploy | Push to live | 1. `echopedia-publish.sh --push` (directory+works regen→**echo-media-regen + content/media/index.md**→rsync→quartz build→**prepublish linkcheck** (works + people + orgs catalogs must not emit `../<slug>` root 404s)→tree-copy including **`public/media/` → repo `media/`** (keep `_manifest.json`) + root index.html + **root `static/contentIndex.json`** copy→featured regen→commit+push→CDN verify) 2. Verify smoke URLs **and** live `static/contentIndex.json` key count 3. Report. **Dirty tree:** if `git status --short | wc -l` is large, run **without** `--push` (script's `--push` is `git add -A`), then path-limit add. Never commit `~/quartz-v4`. **md+mp3 ≠ live HTML.** **Song+wiki ship is not this playbook** — `go` → skill `echo-resonance`, which ends by calling P2. |
-| P3 | One page links | Fix wikilinks | 1. Read page 2. Find broken wikilinks 3. Repair or redirect 4. Commit only (no publish) 5. Report |
-| P4 | Janitor queue | HOLD leftovers | 1. Read janitor-brief.md 2. Fail-closed first-mention + romanization `--heal` are AUTO 3. Process only HOLD leftovers (not already-linked) 4. Commit 5. Report |
-| P5 | Heal/drift/smoke | Full heal | 1. `echopedia-ci-heal.sh` 2. Verify 3. Report |
-| P6 | Toggle autonomy | Disable push | 1. Edit standards.json 2. Report |
-| P7 | Improvement pack | Weekly | 1. Read improvement-brief.md 2. Process items 3. Report |
-| **P8** | **Edit page content** | **New facts from source** | **1. Read source 2. Read target page 3. Apply edits with named source 4. Commit only (no publish) 5. Report** |
-| P9 | New work page | Create stub | 1. Create page from template 2. Add frontmatter 3. Commit 4. Report |
-| P10 | Commit/push git | Git ops | 1. `git add` 2. `git commit` 3. `git push` 4. Report |
-| P11 | Docs selfcheck | Doc OS | 1. `bash ~/.hermes/scripts/echopedia-docs-sync.sh` 2. Check DOCS_STATUS 3. Fix any FAIL 4. Report |
-| P12 | Featured regen | Homepage cards | 1. `featured-regen.py --dry-run` 2. Verify 3. `featured-regen.py --inject` 4. Commit + publish 5. Report |
-| P13 | Site design | Layout issues | 1. Read site-design-brief.md 2. Run audit 3. Propose fixes (incl. root index.html copy from quartz build, Pages build type migration) 4. Report |
-
-Person-to-work linking is **not a worker playbook.** Nightly `no_agent` cron `echopedia-person-works-linker` owns it (capped). Do **not** run `--all` from a session — that was the 22.8MB `## Works` dump.
-
-**Story-corpus (magazines):** ingest `--apply-works` then `echopedia-thicken-work-a.py` (**full A-band article**, not WP teaser). C stays bib. Then works-index + linkcheck + **P2**. Truncation of the **catalog** (`works/index`, people/orgs directories, source hubs) is a bug — list everything. Do **not** uncap person-page quote/harvest dumps (that was the 22MB `## Works` incident).
-
-**directory-corpus (TAH.org) — never skip high-value text:**
-
-```bash
-python3 ~/echo-system/scripts/echopedia-story-corpus-ingest.py \
-  --source-id taiwaneseamericanhistory-org \
-  --home https://taiwaneseamericanhistory.org \
-  --fill-vault --rest-bases posts,pages,tah_video
-# residual (REST-empty / short teaser):
-python3 ~/echo-system/scripts/echopedia-story-corpus-ingest.py \
-  --source-id taiwaneseamericanhistory-org \
-  --home https://taiwaneseamericanhistory.org \
-  --gaps-only
-python3 ~/echo-system/scripts/echopedia-ingest-complete.py --only taiwaneseamericanhistory-org
-```
-
-Index-only or vault_gaps ≠ 0 = **PARTIAL**. No 9k work stubs. Never re-run REST person harvest (wipes `page_text`).
-
-### P8 — Edit page content (content update)
-
-**When:** You have new facts from a named source that need to be applied to an existing wiki page.
-
-**Requirements:**
-- Source path (absolute) — the file or URL providing the new facts
-- Target path (absolute) — the page to edit
-- Facts must come from a verifiable source
-- **Default depth = dossier** (WEBSITE_INGEST §4.1): Identity + Timeline from **this** source + Network + Sources + Related. Do not open a second source unless the card/user said `thicken` / `one source:`.
-- `thin` on the card → snapshot only. Mass L1 / member stubs stay thin.
-
-**Steps:**
-1. Read the source file/URL to extract new facts
-2. Read the target page (`content/<path>.md`)
-3. Apply edits using `patch` tool — only add content that comes from the source
-4. Add source to frontmatter `sources:` list if not already present
-5. Update `last_reviewed` date
-6. Add revision history entry
-7. **Commit only** — do NOT publish (use P2 for publish)
-8. Report changes
-
-**Pitfalls:**
-- Do NOT invent content — only apply what the source provides
-- Do NOT remove existing content unless it contradicts the source
-- Always cite the source in revision history
-- Cross-reference with related pages to ensure consistency (e.g., if you edit family relations, check the related person's page)
-- **TAH English slug ≠ identity.** `taiwaneseamericanhistory.org/person/<slug>/` matching an Echopedia filename is **not** a merge. Require 漢名 (or owner/roster confirm) before absorbing TAH tables onto a TAHS page. Same EN name + different 漢名 → **unmerge**: keep the TAHS page, create a separate `tah-whos-who` page (or encyclopedia page), add Disambiguation both ways. Examples 2026-08-17: TAH `paul-chen` = ophthalmologist (no 漢名) ≠ TAHS officer Paul Chen; TAH #1788 Paul Y. Chen 陳柏宇 is a third row unless owner says otherwise; TAH `rex-chen` = 陳財元 (d. 2003) ≠ TAHS 陳乃光 — do not decide without owner.
-- **TAH WP slug may differ from our slug.** Absorb onto the existing TAHS page (`yee-phong-alan-thian` → `alan-thian`); leave a `redirect_to` stub at the TAH slug. Redirect stubs need `## Identity Snapshot` + `## Related Pages` or `verify_echopedia.py` fails.
-- **Owner identity call beats harvest.** If owner says “X is not ours,” do not put TAH tables on the TAHS officer page even when 漢名 strings match.
-- **Allies in the archive (CONTROL §1b).** People who appear in community sources (e.g. taiwanjustice columnists) stay as **ally / contributor in the record** — not TAHS members, not “not Taiwanese American.” Thicken ≤1 layer from the mission/source. Do not follow their wider political network. Do not add `TAHS` / L1 roster language.
-- **P8 is commit-only.** go-router “Echopedia fact” still runs P1 then P2 after P8. Do not skip P1. New Pages slugs often CDN-404 for minutes; verify `raw.githubusercontent.com/echocanhelp/wiki-public/gh-pages/people/<slug>.html` = 200 before republishing.
-
-**Example:**
-```
-WORKER.md playbook P8 PATH=content/people/ashton-hsu.md SOURCE="family memo pad (Teng-Lung Hsu, M.D. stationery, code 7CIM4107762)"
-```
-
-**Default workflow when user says "Echopedia <person> <fact>":**
-1. **Grok (frontier):** identity judgment + assign WORKER **P8** card to Ornith worker
-2. **Ornith (pinto LAN):** P8 with the fact as source (commit only, no publish)
-3. **Ornith:** P1 to verify (ops/drift/smoke)
-4. **Ornith:** P2 to publish if green
-
-**Grok does NOT execute P8/P9 bulk.** It assigns the card; the Ornith worker runs the playbook.
-
----
-
 ## Graph Engineering (from AGENT_GRAPH.md)
 
 Our architecture follows a **two-graph** model:
@@ -282,14 +295,14 @@ Our architecture follows a **two-graph** model:
 
 | Context | Model (2026-08-17 live) |
 |---------|-------|
-| pinto profile default | Ornith `:8888` (`ornith-1.5-35b-a3b-nvfp4`); fallback Grok |
-| This chat after `/model` Grok | premium — **plan + identity only**; spawn Ornith for playbooks |
-| `delegate_task` | `delegation.*` → Ornith (already set) |
-| `hermes kanban assign <task> pinto` | Ornith |
+| pinto profile default | live `:8888` id (`custom:pinto`); fallback Grok |
+| This chat after `/model` Grok | premium — **plan + identity only**; spawn LAN worker for playbooks |
+| `delegate_task` | `delegation.*` → live `:8888` id |
+| `hermes kanban assign <task> pinto` | LAN (`custom:pinto`, no hardcoded `--model`) |
 | `no_agent` cron | N/A (deterministic) |
 | Vision | Grok auxiliary |
-| **P8/P9 content edits** | **Grok assigns card; Ornith executes playbook** |
-| **Identity judgment** | **Grok (frontier) — never delegated to Ornith** |
+| **P8/P9 content edits** | **Grok assigns card; LAN worker executes playbook** |
+| **Identity judgment** | **Grok (frontier) — never delegated to LAN worker** |
 
 ### Design principles
 

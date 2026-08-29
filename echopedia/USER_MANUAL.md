@@ -174,7 +174,7 @@ Look at the **janitor queue** (depth is in SYSTEM_STATUS.md). Typical first task
    No publish. Report. STOP.
    ```
 4. **Commit** your change (P10 if you need help).
-5. **Ask for a publish** (P2) or let ci-heal pick it up at **08:00** local.
+5. **Ask for a publish** (P2) or let ci-heal pick it up at **03:30** local.
 
 **Goal:** You've made one verified edit that follows the standards in `standards.json`.
 
@@ -426,7 +426,7 @@ Workers never “reason through” cron prompts — only run scripts or P5/P11.
 
 Turn off all auto-push: P6 `l3_auto_push_on_green=false`.
 
-**Local wall clock (pinto):** 03:05–05:30 sense/deepen · **08:00 ci-heal** (only nightly push) · 07:20 digest · **07:55 morning-brief** · 08:30 cron-self-audit · Sun weekly-improvement · + infra watchdogs.  
+**Local wall clock (pinto):** 01:10–03:00 sense/deepen · **03:30 ci-heal** (only nightly push) · 06:20 digest · **08:15 morning-brief** · 06:40 cron-self-audit · Sun weekly-improvement · + infra watchdogs.  
 Telegram tags: ✅ AUTO · 🟡 QUEUE · 🔴 NEED YOU — see `knowledge/operational/cron-notify-labels.md`.
 
 
@@ -445,14 +445,14 @@ The system runs a nightly pipeline that discovers content quality gaps on the li
 
 | Stage | Time | Script | Output |
 |-------|------|--------|--------|
-| Scout | 04:05 | `echopedia-scout-live.sh` | `knowledge/operational/scout/latest.json` |
-| Filter | 04:00 | `echopedia-content-analyzer.py` | `echopedia/content-analysis-queue.json` |
-| Extract | 04:10 | `echopedia-extract-actions.py` | `knowledge/operational/extracted/<date>.json` |
-| Evaluate | 04:15 | `echopedia-evaluate-actions.py` | `knowledge/operational/evaluated/<date>.json` |
-| Generate | 04:20 | `echopedia-generate-cards.py` | `knowledge/operational/generated/cards/*.md` |
-| Review | **Sun 07:05** | `weekly-improvement.sh` | `improvement-brief.md` |
-| Remediate | 03:50 | `echopedia-janitor` | janitor queue (P8/P3/P9) |
-| Publish | **08:00** | `echopedia-ci-heal` | gh-pages deploy |
+| Scout | 01:40 | `echopedia-scout-live.sh` | `knowledge/operational/scout/latest.json` |
+| Filter | 01:10 | `echopedia-content-analyzer.py` | `echopedia/content-analysis-queue.json` |
+| Extract | 02:00 | `echopedia-extract-actions.py` | `knowledge/operational/extracted/<date>.json` |
+| Evaluate | 02:10 | `echopedia-evaluate-actions.py` | `knowledge/operational/evaluated/<date>.json` |
+| Generate | 02:20 | `echopedia-generate-cards.py` | `knowledge/operational/generated/<date>.json` (same-day evaluate only) |
+| Review | **Sun 07:15** | `weekly-improvement.sh` | `improvement-brief.md` |
+| Remediate | 01:30 | `echopedia-janitor` | janitor queue (P8/P3/P9) |
+| Publish | **03:30** | `echopedia-ci-heal` | gh-pages deploy |
 
 **Flow:** Scout monitors the live site for 404s/slow loads → Filter applies deterministic rules to find actionable gaps → Extract maps findings to specific actions → Evaluate scores by user impact (inbound wikilinks × page type × finding severity) → Generate creates kanban task cards → Review gate summarizes for human approval → Remediate applies fixes → Publish deploys.
 
@@ -464,7 +464,7 @@ The system runs a nightly pipeline that discovers content quality gaps on the li
 
 ## When to intervene (decision matrix)
 
-The system runs 24/7 (local): sense/deepen overnight · **08:00 ci-heal** · 07:20 digest · **07:55 morning-brief**. **You only intervene on 🔴 NEED YOU** (or true smoke/site FAIL). Each row maps a signal to a concrete action (or "do nothing").
+The system runs 24/7 (local): sense/deepen overnight · **03:30 ci-heal** · 06:20 digest · **08:15 morning-brief**. **You only intervene on 🔴 NEED YOU** (or true smoke/site FAIL). Each row maps a signal to a concrete action (or "do nothing").
 
 | Situation | Matrix trigger | Your action |
 |-----------|---------------|-------------|
@@ -730,7 +730,7 @@ The homepage shows **Featured people** and **Featured organizations** cards. The
 
 ## Site designer / layout manager (nightly)
 
-**Canon:** [SITE_DESIGN.md](SITE_DESIGN.md) · **Worker:** WORKER **P13** · **Cron:** 08:15 audit-only (after push) · **Heal:** inside 08:00 ci-heal before L3 push
+**Canon:** [SITE_DESIGN.md](SITE_DESIGN.md) · **Worker:** WORKER **P13** · **Cron:** 03:45 audit-only (after push) · **Heal:** inside 03:30 ci-heal before L3 push
 
 Keeps the live site usable after content changes:
 
@@ -767,7 +767,7 @@ Morning digest includes the site-design brief head.
 | **drift** | The condition where a source Markdown file in `content/` is newer than its deployed HTML tree (stale HTML). Measured by `echopedia-deploy-drift.sh` via mtime comparison. Drift triggers the L2 publish step in `ci-heal`. |
 | **smoke** | A post-deploy liveness check that curls the `smoke_urls` from `standards.json` and verifies HTTP 200 + minimum byte count. Run by `echopedia-smoke-test.sh`. A smoke failure blocks L3 auto-push even when ops and drift are green. |
 | **heal** | The L1/L2 remediation step in `ci-heal` that resolves drift (publish), runs site-design fixes (featured inject, parity), and commits results. Heal is programmable (`no_agent`) — never a freeform LLM rewrite. |
-| **ci-heal** | The **08:00 local** nightly orchestrator (`echopedia-ci-heal.sh`) that runs ops-check → optional drain → drift→publish → site-design L1 heal → broken-link gate → smoke → L3 green-push. It is the **only** nightly pusher. |
+| **ci-heal** | The **03:30 local** nightly orchestrator (`echopedia-ci-heal.sh`) that runs ops-check → optional drain → drift→publish → site-design L1 heal → broken-link gate → smoke → L3 green-push. It is the **only** nightly pusher. |
 | **L0** | Sense layer. Audit-only: collects findings into a brief + state JSON. Examples: `echopedia-site-design-audit.py` (L0 site-design), `echopedia-nightly-audit` (structural). No writes. |
 | **L1** | Heal layer. Programmable, deterministic fixes driven by L0 findings. Examples: `echopedia-site-design-heal.sh` (featured-regen, parity publish), `echopedia-publish.sh`. No LLM reasoning. |
 | **L2** | Gate/commit layer. Decides whether to commit heal artifacts and whether site-design issues should block green. Flags: `l2_auto_commit_on_heal`, `l2_site_design_blocks_green`. |

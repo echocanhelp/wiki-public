@@ -18,14 +18,14 @@ go <plain language>
 Examples: `go status` · `go add fact about X from Y` · `go fix nightly audit` · `go` (alone = orient)
 
 **You do not** pick CONTROL vs manual vs ops vs Echopedia vs P#.  
-**The agent** loads skill `go-router`, applies this file’s invariants, auto-classifies, and touches **one SSOT**.
+**The agent** loads skill `go-router`, applies **go-router’s invariant extract** (do not re-read this whole file on every `go`), auto-classifies, and touches **one SSOT**.
 
 Bare messages without `go` on this system are treated the same as `go <message>` (user will forget the prefix).
 
 | Your words | Agent routes to |
 |------------|-----------------|
 | status / healthy / broken / docs | health (SYSTEM_STATUS, docs-sync) |
-| person/org + fact / source | Echopedia P8 — **Ornith/LAN worker** if this chat is Grok (`WORKER.md` token split) |
+| person/org + fact / source | Echopedia P8 — **LAN worker** (`:8888` live id) if this chat is Grok (`WORKER.md` token split) |
 | website / domain | WEBSITE_INGEST (**class** live-small vs story-corpus) |
 | cron / nightly / job | cron SSOT + docs-sync |
 | publish / ship | P2 / ci-heal |
@@ -38,7 +38,7 @@ Bare messages without `go` on this system are treated the same as `go <message>`
 
 Full classifier: skill **`go-router`**.
 
-**LLM (pinto media-stack):** Always-on brain is **Ornith** `:8888`. Hard media (Qwen-Image / LTX / H3) = **stop Ornith** (agent off); no second local LLM. HeartMuLa 3B lazy is **soft** (Ornith stays). Reboot **force UP** (`force_up_on_reboot`). Never dual vLLM. LINE stays Grok-primary. Laguna files kept for `swap-llm-stack.sh laguna-primary` only.
+**LLM (pinto media-stack):** Always-on brain is **whatever `:8888` currently serves** (`custom:pinto`). Pin by **port**, not by stack name. Live id = `curl -sf :8888/v1/models` first `data[0].id` (also in `~/.hermes/cache/pinto-llm-mode.json` `served_model`). **Never** hardcode `ornith-1.5-35b-a3b-nvfp4` / `deepseek-v4-flash-0731` / Laguna in Hermes config, kanban `--model`, cron, or `auxiliary.goal_judge` — those 404 after a mode swap. After `swap-llm-stack.sh *`, run (or let the swap script run) `~/.hermes/scripts/retarget-lan-hermes.sh` so `model.default` / `custom_providers` / `delegation` / `compression` / `goal_judge` follow the live id. Today that is DSV4 (`vllm-dsv4.service`). Hard media = stop `:8888` (agent off). Reboot `force_up_on_reboot`. Never dual vLLM. LINE = Grok-primary + LAN fallback (live id). Ornith revert: `swap-llm-stack.sh ornith-primary` (retargets Hermes).
 
 **STT (one door, all channels):** `~/ai-services/media-stack/orchestrator/stt.sh` — tape stays; sidecar `.stt.txt`. Default **Breeze-ASR-25** CT2 int8 CPU (`language=zh`, 台灣華語). `--engine taigi` = Breeze-ASR-26 (華語漢字, not 台羅). Fallback zh = faster-whisper `base`. **pinto + stories + global** (`~/.hermes/config.yaml`, Echo許) all `stt.provider: pinto_stt` → this door. HeartMuLa fidelity same. 萌典 is spelling SSOT, not ASR. STT config via `hermes config set` only (global: `env -u HERMES_HOME`).
 
@@ -105,8 +105,8 @@ Use the **highest** surface that can do the job. Never jump to freestyle edits w
 | Role | May | Must not |
 |------|-----|----------|
 | **Human** | Intent, approve L3 risks, P6 autonomy, content facts with source | Raw freestyle on prod scripts without verify |
-| **Planner (frontier)** | Choose playbook IDs, patch WORKER/skills when process wrong, write plans | Bulk invent wiki prose; silent multi-file “cleanup” |
-| **Worker (local)** | **One** WORKER playbook, exact commands | Redesign, new crons, rewrite USER_MANUAL, restart gateways in cron |
+| **Planner (frontier)** | Choose playbook IDs, patch WORKER/skills when process wrong, write plans | Bulk invent wiki prose; silent multi-file “cleanup”; paste recipes into go-router |
+| **Worker (local)** | **One** WORKER playbook, exact commands; pitfall → **that skill only** | Redesign, new crons, rewrite USER_MANUAL / CONTROL / go-router, restart gateways in cron |
 | **Cron (no_agent)** | Listed scripts only | LLM reasoning, gateway restart, unbounded git push except ci-heal rules |
 
 ---
@@ -188,9 +188,13 @@ Then run `bash ~/.hermes/scripts/echopedia-docs-sync.sh`. Do **not** hand-edit t
 | New worker steps | WORKER playbook only | P8 source required |
 | Mission done/remaining | WHERE_WE_ARE | TJ archive status |
 | Autonomy policy | standards.json | l3_auto_push_on_green |
-|| Preference | MEMORY/USER | "no HITL if possible" |
-|| One-off project | plan + kanban | then CLOSE |
-|| New lesson / reviewed correction | **learnings ledger** `intelligence/learnings.md` | the "Learning" layer; see routing table below |
+| Preference | MEMORY/USER | "no HITL if possible" |
+| One-off project | plan + kanban | then CLOSE |
+| New lesson / reviewed correction | **learnings ledger** `intelligence/learnings.md` | the "Learning" layer |
+| **New `go` class** | **go-router: one table row** (class + skill name). Recipe stays in that skill | `go ee` → `ee-story-collector` |
+| **How-to / flags / Taigi pack / media recipe** | **the class skill** — never go-router, CONTROL, or USER_MANUAL | HeartMuLa vs ACE-Step → `media-stack` |
+
+**Smart policy (thin vs recipe):** go-router and CONTROL are **classifiers + invariants**. They stay short so every turn can load them. A worker who “documents the full procedure” in go-router/CONTROL/USER_MANUAL is **corrupting** the system (clutter). Patch the **one** class skill or WORKER playbook. Harmonize = *delete stale copies*, not a third essay.
 
 **One lesson → one place.** If you write it thrice, delete two copies.
 
@@ -198,13 +202,13 @@ Then run `bash ~/.hermes/scripts/echopedia-docs-sync.sh`. Do **not** hand-edit t
 
 ### 4.6 Publish / push
 
-- Prefer **ci-heal 08:00 local** (only nightly pusher).  
+- Prefer **ci-heal 03:30 local** (only nightly pusher). Late Tier1 drift after that is `echopedia-tier1-sweep` 07:50.  
 - Manual: WORKER **P2** / `echopedia-publish.sh` path only — not ad-hoc `git push` of partial trees.  
 - After push: CDN status file / smoke — not vibes.
 
 ### 4.7 Models / spend
 
-- **Default local** (Ornith `:8888`) for TAHS/private/LINE-adjacent. Laguna files kept for revert only.  
+- **Default local** (`custom:pinto` + **live `:8888` id**) for TAHS/private/LINE-adjacent. Never hardcode Ornith/DSV4/Laguna.  
 - **Grok** for architecture/planning when needed.  
 - **Cron = no_agent** unless there is a written exception in this file.  
 - Never leave agent crons unpinned after `/model` switches.
@@ -224,6 +228,8 @@ Applies to: cron schedule/script, publish path, site design / featured inject, g
 
 **One lesson → one place** still holds. Harmonize means *delete or update the stale copies*, not add a third essay.
 
+**Do not re-inflate go-router.** After a media/wiki/cron change, the class skill (or WORKER playbook) is the recipe SSOT. go-router gets **at most one new row** (intent → class → skill name). CONTROL gets an invariant only if every `go` must obey it. Pasting a 40-line procedure into go-router is a §5 corruption.
+
 ---
 
 ## 5. Corruption modes (do **not** do this)
@@ -239,7 +245,7 @@ Applies to: cron schedule/script, publish path, site design / featured inject, g
 | **Symlink scripts into profile scripts/** | Security guard blocks | **File copy** |
 | **Commit secrets / identity / .env** | Irreversible risk | gitignore + gitleaks |
 | **Commit root HTML emit / public/** as content | Dirty tree forever | gitignore build outputs |
-| **Freestyle worker redesign** | Inconsistent wiki + broken publish | One playbook STOP |
+| **Paste a recipe into go-router / CONTROL / USER_MANUAL** | Next turns pay 12k+ to classify; workers copy it again | Thin row + class skill; delete the paste |
 | **Invent biographies** | Trust death | Source-required P8 |
 | **Legacy AGENTS.md / old bridges as live** | Wrong ports/models | Quarantine deprecated |
 | **MEMORY.md for task logs / PATs** | Context rot + leaks | session_search + vault |
