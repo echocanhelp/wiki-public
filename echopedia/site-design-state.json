@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-08-30T07:18:04",
+  "last_run": "2026-08-30T07:19:34",
   "status": "ACTION",
   "stats": {
     "md": 5272,
@@ -64,14 +64,6 @@
   ],
   "heals": [],
   "history": [
-    {
-      "at": "2026-08-25T23:08:12",
-      "status": "ACTION",
-      "critical": 0,
-      "high": 1,
-      "medium": 1,
-      "finding_count": 4
-    },
     {
       "at": "2026-08-25T23:24:00",
       "status": "ACTION",
@@ -298,6 +290,14 @@
     },
     {
       "at": "2026-08-30T07:18:04",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 1,
+      "medium": 1,
+      "finding_count": 4
+    },
+    {
+      "at": "2026-08-30T07:19:34",
       "status": "ACTION",
       "critical": 0,
       "high": 1,

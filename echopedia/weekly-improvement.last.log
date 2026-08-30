@@ -6,3 +6,14 @@ CI: queue-drain done
 CI: publishing to heal drift
 CI: site-design ACTION
 CI: smoke OK
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+[gh-pages f608aca4f6] ci-heal: L2 auto-heal (2026-08-30)
+ 8815 files changed, 18206 insertions(+), 17265 deletions(-)
+ create mode 100644 content/events/sc-taiwancenter-org-event-2026-tai-wan-hui-guan-nian-hui.md
+ create mode 100644 events/sc-taiwancenter-org-event-2026-tai-wan-hui-guan-nian-hui.html
+ create mode 100644 knowledge/operational/janitor-log/site-design-20260830.log
+ create mode 100644 public/events/sc-taiwancenter-org-event-2026-tai-wan-hui-guan-nian-hui.html
+ create mode 100644 public/tags/taiwancenter-org.html
+ create mode 100644 tags/taiwancenter-org.html
+CI: committed heal
