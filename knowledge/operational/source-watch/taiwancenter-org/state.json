@@ -200,8 +200,8 @@
       "baseline": false
     },
     "https://www.taiwancenter.org/event/2026-tai-wan-hui-guan-nian-hui": {
-      "hash": "ee0cec90a8f3a0a88352c57edc8e149f",
-      "len": 26581,
+      "hash": "717dd20f83c3c4b3caa819d9b8091c27",
+      "len": 27170,
       "code": 200,
       "baseline": false
     },
@@ -236,6 +236,6 @@
       "baseline": false
     }
   },
-  "last_poll": "2026-08-23T14:00:31Z",
+  "last_poll": "2026-08-30T14:01:20Z",
   "baseline_at": "2026-08-09T21:01:41Z"
 }

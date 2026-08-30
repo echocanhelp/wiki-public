@@ -8,7 +8,7 @@ tags:
   - Greater-Los-Angeles
   - primary-source
 verification_status: published
-last_reviewed: 2026-07-24
+last_reviewed: 2026-08-30
 ---
 # taiwancenter.org — Taiwan Center Foundation website
 

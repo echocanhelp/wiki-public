@@ -1,6 +1,6 @@
-## Site design audit — 2026-08-30 03:33
+## Site design audit — 2026-08-30 07:18
 
-- pages_md=5271
+- pages_md=5272
 - critical=0 high=1 medium=1
 - heals_suggested=none
 
@@ -19,20 +19,23 @@
   - `people/franklin-ping-cheng.md`
 
 ### MEDIUM (1)
-- **F4** people/index.html is 1491826 bytes — heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break.
+- **F4** people/index.html is 1491824 bytes — heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break.
 
 ### LOW (1)
-- **C1** spelling signals (sample): 3 `[AGENT_SUGGESTED]`
+- **C1** spelling signals (sample): 4 `[AGENT_SUGGESTED]`
+  - `penghu-info.md: ?ching`
+  - `presbyterian-church-in-taiwan.md: teh→the`
   - `yang-ziqing.md: ?ziqing`
   - `yang-yueqing.md: ?yueqing`
-  - `wang-qiaoling.md: ?qiaoling`
 
 ### INFO (1)
-- **B1** person/org touched ≤7d (rely on recency featured window): 5
+- **B1** person/org touched ≤7d (rely on recency featured window): 7
   - `people/bai-weiwei.md`
   - `people/shante-shawsean-chen.md`
   - `organizations/good-shepherd-taiwanese-presbyterian-church.md`
+  - `organizations/penghu-info.md`
   - `organizations/presbyterian-church-in-taiwan.md`
+  - `organizations/taiwan-center.md`
   - `organizations/taiwaneseamerican-org.md`
 
 ### Programmable heals

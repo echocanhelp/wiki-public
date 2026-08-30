@@ -1,20 +1,168 @@
 {
-  "at": "2026-08-25T18:27:47Z",
-  "dry_run": true,
+  "at": "2026-08-30T14:09:05Z",
+  "dry_run": false,
   "sources": [
     {
-      "id": "presbyterian-church-in-taiwan",
+      "id": "taiwancenter-org",
       "new": [],
       "changed": [
-        "https://www.pct.org.tw/news_focus.aspx",
-        "https://www.pct.org.tw/news_focus.aspx?strSiteID=S001&amp;strContentid=C2026073100002"
+        "https://www.taiwancenter.org/event/2026-tai-wan-hui-guan-nian-hui"
       ],
+      "gone_sample": [],
+      "errors": [],
+      "applied": [
+        "tier2:taiwancenter-org-delta-2026-08-30-event-2026-tai-wan-hui-guan-nian-hui.md",
+        "event:sc-taiwancenter-org-event-2026-tai-wan-hui-guan-nian-hui.md",
+        "last_reviewed:hub",
+        "last_reviewed:taiwan-center.md"
+      ],
+      "parked": false,
+      "a_band": [],
+      "advisory": []
+    },
+    {
+      "id": "good-shepherd-taiwanese-presbyterian-church",
+      "new": [
+        "https://gstpc.org/home/08-30-2026-sunday-bulletin/"
+      ],
+      "changed": [
+        "https://gstpc.org/home/feed/"
+      ],
+      "gone_sample": [],
+      "errors": [
+        "https://gstpc.org/home/xmlrpc.php HTTP 405",
+        "https://gstpc.org/home/wprhe_qrcode_style.css  HTTP 404"
+      ],
+      "applied": [
+        "tier2:good-shepherd-taiwanese-presbyterian-church-delta-2026-08-30-home-feed.md",
+        "tier2:good-shepherd-taiwanese-presbyterian-church-delta-2026-08-30-home-08-30-2026-sunday-bulletin.md",
+        "last_reviewed:hub",
+        "last_reviewed:good-shepherd-taiwanese-presbyterian-church.md"
+      ],
+      "parked": false,
+      "a_band": [],
+      "advisory": []
+    },
+    {
+      "id": "irvine-taiwanese-presbyterian-church",
+      "new": [],
+      "changed": [],
+      "gone_sample": [],
+      "errors": [
+        "https://www.irvine-tpc.org/"
+      ],
+      "applied": [],
+      "parked": false,
+      "a_band": [],
+      "advisory": []
+    },
+    {
+      "id": "presbyterian-church-in-taiwan",
+      "new": [
+        "https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&amp;strContentID=C2026082800006&amp;strDesc=Y",
+        "https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&amp;strContentID=C2026082600001&amp;strDesc=Y"
+      ],
+      "changed": [
+        "https://www.pct.org.tw/news_focus.aspx",
+        "https://www.pct.org.tw/news_focus.aspx?strSiteID=S001&amp;strContentid=C2026031600001"
+      ],
+      "gone_sample": [],
+      "errors": [
+        "https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&amp;strContentID=C2026080700001&amp;strDesc=Y"
+      ],
+      "applied": [
+        "tier2:presbyterian-church-in-taiwan-delta-2026-08-30-news_focus.aspx.md",
+        "tier2:presbyterian-church-in-taiwan-delta-2026-08-30-news_focus.aspx.md",
+        "tier2:presbyterian-church-in-taiwan-delta-2026-08-30-news_pct.aspx.md",
+        "tier2:presbyterian-church-in-taiwan-delta-2026-08-30-news_pct.aspx.md",
+        "last_reviewed:hub",
+        "last_reviewed:presbyterian-church-in-taiwan.md"
+      ],
+      "parked": false,
+      "a_band": [],
+      "advisory": []
+    },
+    {
+      "id": "laijohn-com",
+      "new": [],
+      "changed": [],
       "gone_sample": [],
       "errors": [],
       "applied": [],
       "parked": false,
       "a_band": [],
       "advisory": []
+    },
+    {
+      "id": "taiwaneseamerican-org",
+      "new": [],
+      "changed": [],
+      "gone_sample": [],
+      "errors": [],
+      "applied": [],
+      "parked": false,
+      "a_band": [],
+      "advisory": []
+    },
+    {
+      "id": "ntpc-usa-org",
+      "new": [],
+      "changed": [],
+      "gone_sample": [],
+      "errors": [],
+      "applied": [],
+      "parked": false,
+      "a_band": [],
+      "advisory": []
+    },
+    {
+      "id": "taiwaneseamericanhistory-org",
+      "new": [],
+      "changed": [],
+      "gone_sample": [],
+      "errors": [],
+      "applied": [],
+      "parked": false,
+      "a_band": [],
+      "advisory": []
+    },
+    {
+      "id": "eastgatebarclay-org",
+      "new": [],
+      "changed": [],
+      "gone_sample": [],
+      "errors": [],
+      "applied": [],
+      "parked": false,
+      "a_band": [],
+      "advisory": []
+    },
+    {
+      "id": "penghu-info",
+      "new": [],
+      "changed": [
+        "https://penghu.info/OB0CB9D97C7D16435617",
+        "https://penghu.info/OB23C512046DFE3D988E",
+        "https://penghu.info/OB3BAC46B986E5DBC51B",
+        "https://penghu.info/OB2C73E27C74756946C9",
+        "https://penghu.info/OBC70EF284CBE5C8FB3C"
+      ],
+      "gone_sample": [],
+      "errors": [],
+      "applied": [
+        "tier2:penghu-info-delta-2026-08-30-ob0cb9d97c7d16435617.md",
+        "tier2:penghu-info-delta-2026-08-30-ob23c512046dfe3d988e.md",
+        "tier2:penghu-info-delta-2026-08-30-ob3bac46b986e5dbc51b.md",
+        "tier2:penghu-info-delta-2026-08-30-ob2c73e27c74756946c9.md",
+        "tier2:penghu-info-delta-2026-08-30-obc70ef284cbe5c8fb3c.md",
+        "last_reviewed:hub",
+        "last_reviewed:penghu-info.md"
+      ],
+      "parked": false,
+      "a_band": [],
+      "advisory": [
+        "stale-sitemap: sitemap has only 10 loc(s); full corpus likely >> sitemap — consider targeted/batch harvest (search endpoint may expose it)"
+      ]
     }
   ],
   "recommend": [
@@ -36,9 +184,12 @@
     }
   ],
   "need_you": [],
-  "auto_lines": [],
-  "queue_lines": [
-    "presbyterian-church-in-taiwan: +0 new / 2 changed (see disk)"
+  "auto_lines": [
+    "taiwancenter-org: +0 new / 1 changed; applied 4",
+    "good-shepherd-taiwanese-presbyterian-church: +1 new / 1 changed; applied 4",
+    "presbyterian-church-in-taiwan: +2 new / 2 changed; applied 6",
+    "penghu-info: +0 new / 5 changed; applied 7"
   ],
+  "queue_lines": [],
   "a_band": []
 }

@@ -1,4 +1,4 @@
-=== weekly improvement 2026-08-23 ===
+=== weekly improvement 2026-08-30 ===
 IMPROVE_BRIEF: /home/leedt/echo-system/echopedia/improvement-brief.md
 IMPROVE_STATUS: OK
 CI: ops-check WARN
@@ -6,17 +6,3 @@ CI: queue-drain done
 CI: publishing to heal drift
 CI: site-design ACTION
 CI: smoke OK
-[gh-pages 9f17fe6c6b] ci-heal: L2 auto-heal (2026-08-23)
- 3751 files changed, 7274 insertions(+), 6910 deletions(-)
- create mode 100644 content/works/taiwaneseamerican-org/beneath-the-same-round-moon-jasmine-fang.md
- create mode 100644 knowledge/operational/janitor-log/site-design-20260823.log
- create mode 100644 public/works/taiwaneseamerican-org/beneath-the-same-round-moon-jasmine-fang.html
-CI: committed heal
-[gh-pages 5c17c2fc28] ci-heal: L3 green publish (2026-08-23)
- 1473 files changed, 1506 insertions(+), 1500 deletions(-)
-To https://github.com/echocanhelp/wiki-public.git
-   6ae98a09a7..5c17c2fc28  gh-pages -> gh-pages
-CI: L3 pushed 5c17c2fc28
-CI: post-push CDN verify OK
-CI_SUMMARY: green=1 ops=WARN drift=OK smoke=OK
-CI_STATUS: GREEN

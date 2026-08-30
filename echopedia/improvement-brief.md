@@ -1,4 +1,4 @@
-## Echopedia self-improvement — 2026-08-23
+## Echopedia self-improvement — 2026-08-30
 
 ### Ops check
 - OPS_WARN: orphan script not in ops REQUIRED list: echopedia-bm25-search.py
@@ -7,6 +7,7 @@
 - OPS_WARN: orphan script not in ops REQUIRED list: echopedia-first-answer.py
 - OPS_WARN: orphan script not in ops REQUIRED list: echopedia-fp-lockout-audit.py
 - OPS_WARN: orphan script not in ops REQUIRED list: echopedia-merge-gateway.py
+- OPS_WARN: orphan script not in ops REQUIRED list: echopedia-prepublish-linkcheck.py
 - OPS_WARN: orphan script not in ops REQUIRED list: echopedia-preservation-check.py
 - OPS_WARN: orphan script not in ops REQUIRED list: echopedia-recast-allies.py
 - OPS_WARN: orphan script not in ops REQUIRED list: echopedia-romanization-audit.py
@@ -19,12 +20,13 @@
 - DOCS_SUMMARY: status=WARN fail=0 warn=1 ok=14 crons=27 agent=1 links_missing=0
 - DOCS_STATUS: WARN
 - OPS_WARN: docs-sync WARN
-- OPS_SUMMARY: fail=0 warn=16
+- OPS_SUMMARY: fail=0 warn=17
 - OPS_STATUS: WARN
 
 ### Deploy drift
-- DRIFT_STALE_HTML: organizations/presbyterian-church-in-taiwan (md newer by ~214m)
-- DRIFT_STALE_HTML: organizations/taiwaneseamerican-org (md newer by ~214m)
+- DRIFT_STALE_HTML: organizations/taiwan-center (md newer by ~208m)
+- DRIFT_STALE_HTML: organizations/presbyterian-church-in-taiwan (md newer by ~212m)
+- DRIFT_STALE_HTML: organizations/penghu-info (md newer by ~215m)
 - DRIFT_STALE_HTML: organizations/good-shepherd-taiwanese-presbyterian-church (md newer by ~208m)
 - DRIFT_STALE_HTML: people/zhang-xuanxin (md newer by ~187m)
 - DRIFT_STALE_HTML: people/huang-diyin (md newer by ~188m)
@@ -35,18 +37,17 @@
 - DRIFT_STALE_HTML: people/fan-jiang-ti-ang (md newer by ~188m)
 - DRIFT_STALE_HTML: people/wang-neng-xiang (md newer by ~187m)
 - DRIFT_STALE_HTML: people/yang-xin (md newer by ~187m)
-- DRIFT_STALE_HTML: people/shoki-coe (md newer by ~187m)
+- DRIFT_STALE_HTML: people/shoki-coe (md newer by ~188m)
 - DRIFT_STALE_HTML: people/zheng-bingquan (md newer by ~188m)
 - DRIFT_STALE_HTML: people/choan-seng-song (md newer by ~188m)
 - DRIFT_STALE_HTML: people/chen-wenshi (md newer by ~188m)
-- DRIFT_STALE_HTML: people/chen-hui-chen (md newer by ~187m)
 - DRIFT_STALE_HTML: people/ye-siya (md newer by ~188m)
 - DRIFT_STALE_HTML: people/alan-thian (md newer by ~188m)
 - DRIFT_STALE_HTML: people/zhang-xinhui (md newer by ~188m)
-- DRIFT_STALE_HTML: people/leonard-hsu-jr (md newer by ~187m)
+- DRIFT_STALE_HTML: people/leonard-hsu-jr (md newer by ~188m)
 - DRIFT_STALE_HTML: people/wei-jingsheng (md newer by ~188m)
 - DRIFT_STALE_HTML: people/chaolong-kao (md newer by ~188m)
-- DRIFT_STALE_HTML: people/liao-ji-chun (md newer by ~187m)
+- DRIFT_STALE_HTML: people/liao-ji-chun (md newer by ~188m)
 - DRIFT_STALE_HTML: people/zhou-wei-liang (md newer by ~187m)
 - DRIFT_STALE_HTML: people/john-yang (md newer by ~188m)
 - DRIFT_STALE_HTML: people/jin-hegui (md newer by ~188m)
@@ -54,12 +55,12 @@
 - DRIFT_STALE_HTML: people/en-sheng-pan (md newer by ~188m)
 - DRIFT_STALE_HTML: people/hu-ping (md newer by ~188m)
 - DRIFT_STALE_HTML: people/david-lee (md newer by ~188m)
-- DRIFT_STALE_HTML: people/simon-lin (md newer by ~187m)
+- DRIFT_STALE_HTML: people/simon-lin (md newer by ~188m)
 - DRIFT_STALE_HTML: people/wang-shufen (md newer by ~188m)
-- DRIFT_STALE_HTML: people/sunu-tsai (md newer by ~187m)
+- DRIFT_STALE_HTML: people/sunu-tsai (md newer by ~188m)
 - DRIFT_STALE_HTML: people/freeman-huang (md newer by ~188m)
 - DRIFT_STALE_HTML: people/yuan-zhihui (md newer by ~188m)
-- DRIFT_STALE_HTML: people/pinghsi-liu (md newer by ~187m)
+- DRIFT_STALE_HTML: people/pinghsi-liu (md newer by ~188m)
 - DRIFT_STALE_HTML: people/willy-pan (md newer by ~188m)
 - DRIFT_STALE_HTML: people/ken-wu (md newer by ~188m)
 - DRIFT_STALE_HTML: people/du-ao-cunfu (md newer by ~188m)
@@ -99,6 +100,7 @@
 ### Queue drain (programmable)
 - DRAIN: people/chen-meihui.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 - DRAIN: people/guo-yingyan.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
+- DRAIN: people/tahs-member-onboarding.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 - DRAIN: people/li-furen.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 - DRAIN: sources/toward-a-community-of-hope.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 - DRAIN: organizations/formosan-presbyterian-church-in-los-angeles.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
@@ -106,7 +108,17 @@
 - DRAIN: people/chaolong-kao.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 - DRAIN: people/daniel-kao.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 - DRAIN: people/pingtung-lai.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
+- DRAIN: organizations/formosa-foundation.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
+- DRAIN: organizations/institute-for-taiwanese-studies.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
+- DRAIN: organizations/orange-county-taiwanese-association.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
+- DRAIN: organizations/san-gabriel-taiwanese-lions-club.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
+- DRAIN: organizations/taiwanese-american-foundation.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
+- DRAIN: organizations/taiwanese-american-photographers-association.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
+- DRAIN: organizations/taiwanese-association-of-northwest-los-angeles.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
+- DRAIN: organizations/taiwanese-united-fund.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 - DRAIN: sources/irvine-taiwanese-presbyterian-church.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
+- DRAIN: organizations/taiwanese-american-foundation-of-san-diego.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
+- DRAIN: sources/2017-tahs-publication.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 - DRAIN: people/hu-gstpc.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 - DRAIN: people/ku-gstpc.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 - DRAIN: people/wang-gstpc.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
@@ -117,33 +129,23 @@
 - DRAIN: people/liao-ji-chun.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 - DRAIN: people/lin-qiong-xian.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 - DRAIN: people/david-lee.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
+- DRAIN: organizations/democratic-progressive-party.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 - DRAIN: sources/2023-tahs-publication.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 - DRAIN: people/wang-yao-ting.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 - DRAIN: people/zheng-bing-quan.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 - DRAIN: sources/taiwancenter-org.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
+- DRAIN: organizations/taiwanjustice-net.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 - DRAIN: sources/taiwanjustice-net.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 - DRAIN: people/becky-yang.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
-- DRAIN: people/shawna-yang-ryan.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
-- DRAIN: people/dr-ching-k-lin.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
-- DRAIN: people/may-fang.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
-- DRAIN: people/peggy-chen.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
-- DRAIN: people/prof-sze-ya-yeh.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
-- DRAIN: people/rev-edward-bin-tanng.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
-- DRAIN: people/rev-h-d-chen.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
-- DRAIN: people/rev-james-chang.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
-- DRAIN: people/rev-r-h-chang.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
-- DRAIN: people/rev-sheng-to-shih.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
-- DRAIN: people/sam-wei-chih-sun.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
-- DRAIN: people/susan-shu-ai-tsai.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
-- DRAIN: people/mingyuan-hsu.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
-- DRAIN: people/chen-hui-chen.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
+- DRAIN: people/katherine-huang.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 
 ### Drain detail
-## Queue drain — 2026-08-23
+## Queue drain — 2026-08-30
 - Items: **40**
 
 - `people/chen-meihui.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/guo-yingyan.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/tahs-member-onboarding.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/li-furen.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `sources/toward-a-community-of-hope.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `organizations/formosan-presbyterian-church-in-los-angeles.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
@@ -151,7 +153,17 @@
 - `people/chaolong-kao.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/daniel-kao.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/pingtung-lai.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `organizations/formosa-foundation.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `organizations/institute-for-taiwanese-studies.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `organizations/orange-county-taiwanese-association.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `organizations/san-gabriel-taiwanese-lions-club.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `organizations/taiwanese-american-foundation.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `organizations/taiwanese-american-photographers-association.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `organizations/taiwanese-association-of-northwest-los-angeles.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `organizations/taiwanese-united-fund.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `sources/irvine-taiwanese-presbyterian-church.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `organizations/taiwanese-american-foundation-of-san-diego.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `sources/2017-tahs-publication.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/hu-gstpc.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/ku-gstpc.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/wang-gstpc.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
@@ -162,26 +174,15 @@
 - `people/liao-ji-chun.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/lin-qiong-xian.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/david-lee.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `organizations/democratic-progressive-party.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `sources/2023-tahs-publication.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/wang-yao-ting.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/zheng-bing-quan.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `sources/taiwancenter-org.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `organizations/taiwanjustice-net.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `sources/taiwanjustice-net.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/becky-yang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/shawna-yang-ryan.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/dr-ching-k-lin.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/may-fang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/peggy-chen.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/prof-sze-ya-yeh.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/rev-edward-bin-tanng.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/rev-h-d-chen.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/rev-james-chang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/rev-r-h-chang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/rev-sheng-to-shih.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/sam-wei-chih-sun.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/susan-shu-ai-tsai.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/mingyuan-hsu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/chen-hui-chen.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/katherine-huang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 
 Fail-closed first-mention is AUTO (janitor). HOLD leftover ≠ human body-link batch.
 
@@ -205,12 +206,3 @@ Fail-closed first-mention is AUTO (janitor). HOLD leftover ≠ human body-link b
 - No strong interaction name candidates
 
 *Auto: no page creation — queue for human/ops.*
-### Review gate: generated cards
-- Generated cards: 3 (from /home/leedt/echo-system/knowledge/operational/evaluated/2026-08-23.json)
-- Priorities: {'low': 3}
-- Playbooks: {'P3': 2, 'P8': 1}
-
-  [LOW] [LOW] penghu-info: Add ## Related Pages section
-  [LOW] [LOW] penghu-info: Add ## History section
-  [LOW] [LOW] penghu-info: Add ## Related Pages section
-

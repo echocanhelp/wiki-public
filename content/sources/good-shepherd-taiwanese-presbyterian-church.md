@@ -9,7 +9,7 @@ tags:
   - Los-Angeles
   - primary-source
 verification_status: published
-last_reviewed: 2026-08-23
+last_reviewed: 2026-08-30
 ---
 # Good Shepherd Taiwanese Presbyterian Church (好牧者臺灣基督長老教會)
 
