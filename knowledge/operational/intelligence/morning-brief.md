@@ -1,4 +1,4 @@
-TAHS · Echopedia morning brief — 2026-08-28
+TAHS · Echopedia morning brief — 2026-08-29
 No owner judgment needed — overnight loop ran clean.
 
 🔴 NEED YOU (your judgment only)
@@ -31,10 +31,10 @@ No owner judgment needed — overnight loop ran clean.
 🟡 QUEUE 5. Link tip: organizations/alumni-association-of-chia-yi-high-school-worldwide.md ↔ organizations/formosa-senior-association.md
 
 ℹ️ SITE (wiki visits; operator self-traffic excluded)
-ℹ️  INFO  wiki 3 visits since cutoff · yday 2026-08-27 = 0 · / 2, /people/albert-chapter1-zh-hsiaochen-full-review 1
+ℹ️  INFO  wiki 3 visits since cutoff · yday 2026-08-28 = 0 · / 2, /people/albert-chapter1-zh-hsiaochen-full-review 1
 
 ✅ AUTO (overnight — evidence)
+✅ AUTO analyzer scanned 2853 queued 0 suppressed 1766
 🟡 QUEUE janitor HOLD leftover 40
-🟡 QUEUE kanban blocked 87
-🔴 NEED YOU cron fail: echopedia-site-design
+🟡 QUEUE kanban blocked 60
 ℹ️  INFO  only 🔴 NEED YOU requires your reply

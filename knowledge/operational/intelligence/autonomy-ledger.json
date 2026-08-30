@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "standards_version": 10,
   "auto_apply_agent": false,
   "nodes": {
@@ -11,7 +11,7 @@
       "n": 0
     },
     "analyzer": {
-      "scanned": 0,
+      "scanned": 2853,
       "queued": 0,
       "suppressed": 1766
     },
@@ -23,7 +23,7 @@
       "n": 40
     },
     "kanban.blocked": {
-      "n": 87
+      "n": 60
     },
     "kanban.auto_go": {
       "enabled": false
@@ -36,16 +36,12 @@
       "auto_apply_agent": false,
       "first_mention_apply": true
     },
-    "cron.fail": [
-      "echopedia-site-design"
-    ]
+    "cron.fail": []
   },
   "telegram_auto_lines": [
+    "✅ AUTO analyzer scanned 2853 queued 0 suppressed 1766",
     "🟡 QUEUE janitor HOLD leftover 40",
-    "🟡 QUEUE kanban blocked 87",
-    "🔴 NEED YOU cron fail: echopedia-site-design"
+    "🟡 QUEUE kanban blocked 60"
   ],
-  "cron_fail_names": [
-    "echopedia-site-design"
-  ]
+  "cron_fail_names": []
 }

@@ -1,4 +1,4 @@
-## Site design audit — 2026-08-29 03:32
+## Site design audit — 2026-08-30 03:32
 
 - pages_md=5271
 - critical=0 high=1 medium=1
@@ -28,11 +28,10 @@
   - `wang-qiaoling.md: ?qiaoling`
 
 ### INFO (1)
-- **B1** person/org touched ≤7d (rely on recency featured window): 6
+- **B1** person/org touched ≤7d (rely on recency featured window): 5
   - `people/bai-weiwei.md`
   - `people/shante-shawsean-chen.md`
   - `organizations/good-shepherd-taiwanese-presbyterian-church.md`
-  - `organizations/penghu-info.md`
   - `organizations/presbyterian-church-in-taiwan.md`
   - `organizations/taiwaneseamerican-org.md`
 
