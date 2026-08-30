@@ -26,7 +26,8 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/umbilical-cord-creative-nonfiction-by-brenda-lin|Umbilical Cord: Creative Nonfiction by brenda Lin]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

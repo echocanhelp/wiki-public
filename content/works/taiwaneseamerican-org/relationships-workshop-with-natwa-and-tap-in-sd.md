@@ -26,7 +26,8 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/relationships-workshop-with-natwa-and-tap-in-sd|Relationships Workshop with NATWA and TAP in SD]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

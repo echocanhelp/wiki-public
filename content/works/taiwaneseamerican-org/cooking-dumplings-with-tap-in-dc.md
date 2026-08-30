@@ -26,7 +26,8 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/cooking-dumplings-with-tap-in-dc|Cooking Dumplings with TAP in DC]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

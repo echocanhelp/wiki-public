@@ -26,7 +26,8 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/taiwanese-homestyle-cooking-workshop-with-tap-in-la|Taiwanese Homestyle Cooking Workshop with TAP in LA]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

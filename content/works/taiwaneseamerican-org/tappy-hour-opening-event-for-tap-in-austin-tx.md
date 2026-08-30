@@ -26,7 +26,8 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/tappy-hour-opening-event-for-tap-in-austin-tx|TAPpy Hour &#038; Opening Event for TAP in Austin, TX]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

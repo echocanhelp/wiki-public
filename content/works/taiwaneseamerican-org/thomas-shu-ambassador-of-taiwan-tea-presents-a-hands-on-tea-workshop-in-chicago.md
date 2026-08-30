@@ -26,7 +26,8 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/thomas-shu-ambassador-of-taiwan-tea-presents-a-hands-on-tea-workshop-in-chicago|Thomas Shu, Ambassador of Taiwan Tea, Presents a Hands-on Tea Workshop in Chicago]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

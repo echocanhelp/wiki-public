@@ -26,7 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/formosa-foundation-founder-li-pei-wu-speaks-in-la-area|Formosa Foundation Founder Li-Pei Wu Speaks in LA Area]]
+- [[organizations/formosa-foundation|Formosa Foundation]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

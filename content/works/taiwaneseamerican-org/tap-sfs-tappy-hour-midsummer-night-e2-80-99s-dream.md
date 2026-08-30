@@ -26,7 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/tap-sfs-tappy-hour-midsummer-night-e2-80-99s-dream|TAP-SF&#8217;s TAPpy Hour: Midsummer Night’s Dream]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[articles/taiwanjustice-net/2023/20231208225407_root_12f4fa36695ac846|10]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

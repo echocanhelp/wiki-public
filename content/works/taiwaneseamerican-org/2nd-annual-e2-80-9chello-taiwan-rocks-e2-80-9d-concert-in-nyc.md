@@ -26,7 +26,8 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/2nd-annual-e2-80-9chello-taiwan-rocks-e2-80-9d-concert-in-nyc|2nd Annual “Hello Taiwan Rocks!” Concert in NYC]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -26,7 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/2013-taf-new-year-party-in-chicago|2013 TAF New Year Party in Chicago]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwan-american-foundation|TAF]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

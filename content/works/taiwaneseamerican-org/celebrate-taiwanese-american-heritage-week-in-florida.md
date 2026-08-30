@@ -26,7 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/celebrate-taiwanese-american-heritage-week-in-florida|Celebrate Taiwanese American Heritage Week in Florida]]
+- [[works/taiwaneseamerican-org/taiwanese-american-heritage-week|Taiwanese American Heritage Week]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

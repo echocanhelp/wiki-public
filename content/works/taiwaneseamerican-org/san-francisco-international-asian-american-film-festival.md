@@ -26,7 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/san-francisco-international-asian-american-film-festival|TaiwaneseAmerican.org Co-Presents &#8220;Nice Girls Crew&#8221; &#038; &#8220;Yes, We&#8217;re Open&#8221; at the SF International Asian American Film Festival]]
+- [[organizations/taiwaneseamerican-org|TaiwaneseAmerican.org]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

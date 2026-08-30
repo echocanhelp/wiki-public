@@ -26,7 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/2012-taiwanese-american-cultural-festival-in-sf|2012 Taiwanese American Cultural Festival in SF]]
+- [[works/taiwaneseamerican-org/taiwanese-american-cultural-festival-in-sf|Taiwanese American Cultural Festival in SF]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

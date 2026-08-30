@@ -26,7 +26,8 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/tap-sf-nightlife-at-san-franciscos-california-academy-of-sciences|TAP-SF &#8220;NightLife&#8221; at San Francisco&#8217;s California Academy of Sciences]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

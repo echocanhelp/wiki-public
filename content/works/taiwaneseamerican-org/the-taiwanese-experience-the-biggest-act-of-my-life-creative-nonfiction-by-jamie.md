@@ -26,7 +26,8 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/the-taiwanese-experience-the-biggest-act-of-my-life-creative-nonfiction-by-jamie|The Taiwanese Experience: The Biggest Act of My Life &#8211; Creative Nonfiction by Jamie Su]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

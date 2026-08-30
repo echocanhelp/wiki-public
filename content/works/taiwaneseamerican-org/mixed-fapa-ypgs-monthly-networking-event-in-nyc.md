@@ -26,7 +26,8 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/mixed-fapa-ypgs-monthly-networking-event-in-nyc-2|&#8220;Mixed&#8221; FAPA-YPG&#8217;s Monthly Networking Event in NYC]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

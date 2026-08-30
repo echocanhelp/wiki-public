@@ -26,7 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/tahw-2014poster|Taiwanese American Heritage Week 2014 Poster]]
+- [[works/taiwaneseamerican-org/taiwanese-american-heritage-week|Taiwanese American Heritage Week]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -26,7 +26,8 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/toydrive-at-eyebar-with-naaap-dc-tap-dc-and-other-organizations|ToyDrive at Eyebar with NAAAP-DC, TAP-DC and other organizations]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

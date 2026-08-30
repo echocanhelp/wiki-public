@@ -26,7 +26,8 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/taiwanese-american-professionals-society-of-seattle-achieving-dreams-with-a-five|Taiwanese American Professionals Society of Seattle: Achieving Dreams with a Five Year Plan]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

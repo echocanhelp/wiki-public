@@ -26,7 +26,8 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/tap-jtasa-and-youtube-star-jason-chen-at-harvest-moon-festival-in-la|TAP, JTASA, and YouTube Star Jason Chen at Harvest Moon Festival in LA]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

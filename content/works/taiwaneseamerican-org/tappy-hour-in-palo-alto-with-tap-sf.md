@@ -26,7 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/tappy-hour-in-palo-alto-with-tap-sf|&#8220;TAPpy Hour&#8221; in Palo Alto with TAP-SF]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[articles/taiwanjustice-net/2023/20231208225407_root_12f4fa36695ac846|10]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

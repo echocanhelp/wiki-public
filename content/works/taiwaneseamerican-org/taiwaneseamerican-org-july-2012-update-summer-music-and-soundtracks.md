@@ -26,7 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/taiwaneseamerican-org-july-2012-update-summer-music-and-soundtracks|TaiwaneseAmerican.org July 2012 Update: Summer Music and Soundtracks]]
+- [[organizations/taiwaneseamerican-org|TaiwaneseAmerican.org]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

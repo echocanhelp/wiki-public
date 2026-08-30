@@ -77,7 +77,7 @@ Pages that link to **pinghsi-liu** (pinghsi-liu):
 3. [[people/ching-fang-chen|ching-fang-chen]]
 4. [[people/en-sheng-pan|en-sheng-pan]]
 5. [[people/index|index]]
-6. [[people/ntpc|ntpc]]
+6. [[organizations/national-taiwanese-presbyterian-council|ntpc]]
 7. [[people/pingtung-lai|pingtung-lai]]
 
 ### Organizations (2)

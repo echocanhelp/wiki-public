@@ -26,7 +26,8 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/an-evening-with-su-beng-in-nyc-reading-talk-documentary-film-trailer|An Evening with Su Beng in NYC -Reading, Talk &#038; Documentary Film Trailer]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

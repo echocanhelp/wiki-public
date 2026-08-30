@@ -26,7 +26,8 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/commemorate-228-with-art-and-film-victoria-linchongs-almost-home|Commemorate 228 with Art and Film: Victoria Linchong&#8217;s &#8220;Almost Home&#8221;]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

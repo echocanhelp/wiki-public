@@ -26,7 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/congratulations-karin-wang-kcets-local-hero-in-southern-california|Congratulations Karin Wang, KCET&#8217;s &#8220;Local Hero&#8221; in Southern California]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[articles/taiwanjustice-net/2023/20231208225407_root_12f4fa36695ac846|10]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

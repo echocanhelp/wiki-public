@@ -26,7 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/karaoke-contest-with-uc-berkeleys-taiwanese-student-association|Karaoke Contest with UC Berkeley&#8217;s Taiwanese Student Association]]
+- [[organizations/taiwanese-student-association|Taiwanese Student Association]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

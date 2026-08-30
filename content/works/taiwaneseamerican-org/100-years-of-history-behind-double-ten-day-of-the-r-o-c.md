@@ -26,7 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/100-years-of-history-behind-double-ten-day-of-the-r-o-c|100 Years of History Behind &#8220;Double Ten&#8221; Day of the R.O.C.]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[articles/taiwanjustice-net/2023/20231208225407_root_12f4fa36695ac846|10]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

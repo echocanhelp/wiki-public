@@ -26,7 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/island-awakening-fire-ex-u-s-west-coast-tour|Island Awakening &#8211; Fire Ex U.S. West Coast Tour]]
+- [[works/taiwaneseamerican-org/tap-ski-boarding-trip-west-coast|West Coast]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -26,7 +26,8 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/betelnut-soldier-wolf-e6-aa-b3-e6-a6-94-ef-bc-8c-e5-85-b5-e7-8b-bc-fiction-by-ya|Betelnut, Soldier-Wolf 檳榔，兵狼: Fiction by YakuzaBaby]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

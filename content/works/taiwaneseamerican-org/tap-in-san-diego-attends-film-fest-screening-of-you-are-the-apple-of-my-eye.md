@@ -26,7 +26,8 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/tap-in-san-diego-attends-film-fest-screening-of-you-are-the-apple-of-my-eye|TAP in San Diego Attends Film Fest Screening of &#8220;You are the Apple of my Eye&#8221;]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

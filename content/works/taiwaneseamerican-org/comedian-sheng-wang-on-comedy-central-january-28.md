@@ -26,7 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/comedian-sheng-wang-on-comedy-central-january-28|Comedian Sheng Wang on Comedy Central &#8211; January 28]]
+- [[people/sheng-wang|Sheng Wang]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

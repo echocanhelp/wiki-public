@@ -26,7 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/singer-songwriter-dawen-opens-west-coast-tour-for-wanting|Singer-songwriter Dawen Opens West Coast Tour for Wanting]]
+- [[works/taiwaneseamerican-org/tap-ski-boarding-trip-west-coast|West Coast]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

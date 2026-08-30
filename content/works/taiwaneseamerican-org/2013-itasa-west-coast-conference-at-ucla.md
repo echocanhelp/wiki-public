@@ -26,7 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/2013-itasa-west-coast-conference-at-ucla|2013 ITASA West Coast Conference at UCLA]]
+- [[works/taiwaneseamerican-org/tap-ski-boarding-trip-west-coast|West Coast]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

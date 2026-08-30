@@ -26,7 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/photography-contest-for-taiwanese-american-heritage-week-at-ucla|Photography Contest for Taiwanese American Heritage Week at UCLA]]
+- [[works/taiwaneseamerican-org/taiwanese-american-heritage-week|Taiwanese American Heritage Week]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

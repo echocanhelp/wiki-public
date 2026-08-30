@@ -26,7 +26,8 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/conference-at-uc-berkeley-mobile-horizons-interactions-across-the-taiwan-strait|Conference at UC Berkeley &#8211; Mobile Horizons: Interactions Across the Taiwan Strait]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

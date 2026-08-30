@@ -26,7 +26,8 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/itasa-footprints-e2-80-9cwhat-is-the-one-thing-you-love-about-taiwan-e2-80-9d|ITASA Footprints: “What is the one thing you love about Taiwan?”]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

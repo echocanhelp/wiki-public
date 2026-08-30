@@ -26,7 +26,8 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/help-judge-the-final-round-of-the-tap-ny-entrepreneur-challenge-competition-2|Help Judge the Final Round of the TAP-NY Entrepreneur Challenge &amp; Competition]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -26,7 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/2013-taiwanese-american-conference-west-coast|2013 Taiwanese American Conference &#8211; West Coast]]
+- [[works/taiwaneseamerican-org/tap-ski-boarding-trip-west-coast|West Coast]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

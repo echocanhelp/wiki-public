@@ -26,7 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/tappy-hour-in-sf-bay-area-5|TAPpy Hour in SF Bay Area]]
+- [[works/taiwaneseamerican-org/tappy-hour-in-sf|TAPpy Hour in SF]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

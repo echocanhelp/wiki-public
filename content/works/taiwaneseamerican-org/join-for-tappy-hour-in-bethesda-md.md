@@ -26,7 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/join-for-tappy-hour-in-bethesda-md|Join for TAPpy Hour in Bethesda, MD]]
+- [[works/taiwaneseamerican-org/tappy-hour-in-bethesda-md|TAPpy Hour in Bethesda, MD]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

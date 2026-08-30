@@ -26,7 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/tappy-hour-in-atlanta-ga|TAPpy Hour in Atlanta, GA]]
+- [[works/taiwaneseamerican-org/tappy-hour-in-atlanta|TAPpy Hour in Atlanta]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -26,7 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/summer-hike-with-tap-in-san-diego|Summer Hike with TAP in San Diego]]
+- [[works/taiwaneseamerican-org/hike-with-tap-in-san-diego|Hike with TAP in San Diego]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

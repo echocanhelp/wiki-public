@@ -26,7 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/spencer-chang-ghost-stories-and-other-poems|Spencer Chang: &#8220;Ghost Stories&#8221; and Other Poems]]
+- [[works/taiwaneseamerican-org/nnadi-samuel-subject-lessons-poems|Poems]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

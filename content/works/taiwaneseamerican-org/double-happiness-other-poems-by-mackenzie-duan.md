@@ -26,7 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/double-happiness-other-poems-by-mackenzie-duan|&#8220;Double Happiness&#8221; &#038; Other Poems by Mackenzie Duan]]
+- [[works/taiwaneseamerican-org/nnadi-samuel-subject-lessons-poems|Poems]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

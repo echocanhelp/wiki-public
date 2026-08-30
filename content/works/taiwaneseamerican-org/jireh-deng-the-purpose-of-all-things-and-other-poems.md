@@ -26,7 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/jireh-deng-the-purpose-of-all-things-and-other-poems|Jireh Deng: &#8220;The Purpose of All Things&#8221; and Other Poems]]
+- [[works/taiwaneseamerican-org/nnadi-samuel-subject-lessons-poems|Poems]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

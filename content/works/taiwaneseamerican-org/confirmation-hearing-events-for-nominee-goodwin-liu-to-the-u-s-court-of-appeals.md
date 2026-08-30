@@ -26,7 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/confirmation-hearing-events-for-nominee-goodwin-liu-to-the-u-s-court-of-appeals|Confirmation Hearing Events for Nominee Goodwin Liu to the U.S. Court of Appeals]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[articles/taiwanjustice-net/2023/20231208225407_root_12f4fa36695ac846|10]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

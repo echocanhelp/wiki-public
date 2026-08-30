@@ -26,7 +26,8 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/celebrate-the-30th-year-anniversary-of-tacl-lyf-formerly-tayl-youth-camp|Celebrate the 30th Year Anniversary of TACL-LYF (formerly TAYL) Youth Camp]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

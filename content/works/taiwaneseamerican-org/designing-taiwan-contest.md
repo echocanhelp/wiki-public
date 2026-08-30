@@ -26,7 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/designing-taiwan-contest|2014 DESIGNING TAIWAN: Taiwanese American Heritage Week Contest]]
+- [[works/taiwaneseamerican-org/taiwanese-american-heritage-week|Taiwanese American Heritage Week]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

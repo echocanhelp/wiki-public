@@ -26,7 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/ta-comedian-sheng-wang-performs-at-sacramento-punchline-this-weekend|TA Comedian Sheng Wang Performs in Sacramento This Weekend]]
+- [[people/sheng-wang|Sheng Wang]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

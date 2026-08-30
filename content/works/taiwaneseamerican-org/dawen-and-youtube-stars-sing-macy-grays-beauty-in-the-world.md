@@ -26,7 +26,8 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/dawen-and-youtube-stars-sing-macy-grays-beauty-in-the-world|Dawen and YouTube Stars Sing Macy Gray&#8217;s &#8220;Beauty in the World&#8221;]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

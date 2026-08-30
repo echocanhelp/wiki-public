@@ -26,7 +26,8 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/join-tap-las-tappy-hour-at-gonpachi-in-beverly-hills|Join TAP-LA&#8217;s &#8220;TAPpy Hour&#8221; at Gonpachi in Beverly Hills]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

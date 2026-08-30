@@ -26,7 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/private-tap-comedy-night-with-eliot-chang-in-nyc|Private TAP Comedy Night with Eliot Chang in NYC]]
+- [[works/taiwaneseamerican-org/tap-comedy-night-with-eliot-chang-in-nyc|TAP Comedy Night with Eliot Chang in NYC]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

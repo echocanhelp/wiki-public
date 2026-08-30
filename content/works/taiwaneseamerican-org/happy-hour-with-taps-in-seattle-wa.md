@@ -26,7 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/happy-hour-with-taps-in-seattle-wa|Happy Hour with TAPS in Seattle, WA]]
+- [[works/taiwaneseamerican-org/happy-hour-with-taps-in-seattle|Happy Hour with TAPS in Seattle]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

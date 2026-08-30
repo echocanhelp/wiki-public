@@ -26,7 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/juliana-chang-poems|&#8220;the most Taiwanese thing about me&#8221; &#038; Other Poems by Juliana Chang]]
+- [[works/taiwaneseamerican-org/nnadi-samuel-subject-lessons-poems|Poems]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

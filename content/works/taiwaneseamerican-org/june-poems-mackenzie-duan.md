@@ -26,7 +26,10 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/june-poems-mackenzie-duan|&#8220;June&#8221; &#038; Other Poems by Mackenzie Duan]]
+- [[works/taiwaneseamerican-org/nnadi-samuel-subject-lessons-poems|Poems]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[articles/taiwanjustice-net/2023/20231208225407_root_12f4fa36695ac846|10]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

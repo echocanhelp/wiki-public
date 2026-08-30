@@ -26,7 +26,8 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/kelly-zen-yie-tsai-presents-a-dance-solo-show-in-nyc-formosa|Kelly Zen-Yie Tsai Presents a Dance Solo Show in NYC: Formosa]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

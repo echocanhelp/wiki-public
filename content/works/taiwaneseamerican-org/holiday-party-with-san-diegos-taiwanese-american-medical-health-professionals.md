@@ -26,7 +26,8 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/holiday-party-with-san-diegos-taiwanese-american-medical-health-professionals|Holiday Party with San Diego&#8217;s Taiwanese American Medical &#038; Health Professionals]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -26,7 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/directors-picks-taiwanese-american-films-to-watch|Director&#8217;s Picks: Ten Taiwanese American Films to Watch]]
+- [[works/taiwaneseamerican-org/taiwanese-american-film|Taiwanese American Film]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -26,7 +26,8 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/yea-ming-chen-and-her-indie-rock-band-dreamdate-perform-in-oakland-ca|Yea-Ming Chen and Her Indie Rock Band Dreamdate Perform in Oakland, CA]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

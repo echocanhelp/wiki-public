@@ -26,7 +26,8 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/blueprints-poetry-prose-by-jeanelle-fu|Editor&#8217;s Review &#8211; &#8220;Blueprints: Poetry &#038; Prose&#8221; by Jeanelle Fu]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

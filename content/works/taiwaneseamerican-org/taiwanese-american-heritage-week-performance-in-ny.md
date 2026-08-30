@@ -26,7 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/taiwanese-american-heritage-week-performance-in-ny|Taiwanese American Heritage Week Performance in NY]]
+- [[works/taiwaneseamerican-org/taiwanese-american-heritage-week|Taiwanese American Heritage Week]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

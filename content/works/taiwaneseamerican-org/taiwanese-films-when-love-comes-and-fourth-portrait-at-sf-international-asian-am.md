@@ -26,7 +26,8 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/taiwanese-films-when-love-comes-and-fourth-portrait-at-sf-international-asian-am|Taiwanese Films &#8220;When Love Comes&#8221; and &#8220;Fourth Portrait&#8221; at SF International Asian American Film Festival]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

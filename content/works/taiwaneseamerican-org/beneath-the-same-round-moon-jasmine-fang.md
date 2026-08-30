@@ -31,7 +31,8 @@ _PARTIAL: A-band article body not captured. This is not ingest._
 - 2026-08-20 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/beneath-the-same-round-moon-jasmine-fang|&#8220;Beneath the Same Round Moon&#8221;: Q&#038;A with Debut Author Jasmine Fang]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

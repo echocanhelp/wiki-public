@@ -26,7 +26,8 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/tap-professional-series-in-sfbay-area-effective-goal-setting-the-keys-to-success|TAP Professional Series in SF/Bay Area: Effective Goal Setting &#8211; the Keys to Success!]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

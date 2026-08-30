@@ -26,7 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/southbay-hillside-hiking-with-tap-in-sf|Southbay Hillside Hiking with TAP in SF]]
+- [[works/taiwaneseamerican-org/hiking-with-tap-in-sf|Hiking with TAP in SF]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

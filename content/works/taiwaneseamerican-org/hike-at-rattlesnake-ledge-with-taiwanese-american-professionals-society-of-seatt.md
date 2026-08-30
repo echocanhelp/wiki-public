@@ -26,7 +26,8 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/hike-at-rattlesnake-ledge-with-taiwanese-american-professionals-society-of-seatt|Hike at Rattlesnake Ledge with Taiwanese American Professionals Society of Seattle]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

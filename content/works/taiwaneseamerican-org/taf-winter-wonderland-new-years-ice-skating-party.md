@@ -26,7 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/taf-winter-wonderland-new-years-ice-skating-party|TAF Winter Wonderland New Year&#8217;s Ice Skating Party]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwan-american-foundation|TAF]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -26,7 +26,8 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/ambassador-daniel-t-c-liao-speaks-o-the-future-of-taiwan-in-austin-tx|Ambassador Daniel T.C. Liao Speaks on &#8220;The Future of Taiwan&#8221; in Austin, TX]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

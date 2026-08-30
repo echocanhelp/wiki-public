@@ -26,7 +26,8 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/la-event-rep-ileana-ros-lehtinen-on-why-taiwan-matters|LA Event: Rep. Ileana Ros-Lehtinen on &#8220;Why Taiwan Matters&#8221;]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

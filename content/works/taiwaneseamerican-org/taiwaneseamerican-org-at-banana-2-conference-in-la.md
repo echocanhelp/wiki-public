@@ -26,7 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/taiwaneseamerican-org-at-banana-2-conference-in-la|TaiwaneseAmerican.org at BANANA 2 Conference in LA]]
+- [[organizations/taiwaneseamerican-org|TaiwaneseAmerican.org]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

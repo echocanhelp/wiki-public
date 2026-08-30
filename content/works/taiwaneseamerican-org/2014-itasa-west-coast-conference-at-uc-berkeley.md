@@ -26,7 +26,10 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/2014-itasa-west-coast-conference-at-uc-berkeley|2014 ITASA West Coast Conference at UC Berkeley]]
+- [[works/taiwaneseamerican-org/itasa-west-coast-conference-at-uc-berkeley|ITASA West Coast Conference at UC Berkeley]]
+- [[works/taiwaneseamerican-org/tap-ski-boarding-trip-west-coast|West Coast]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

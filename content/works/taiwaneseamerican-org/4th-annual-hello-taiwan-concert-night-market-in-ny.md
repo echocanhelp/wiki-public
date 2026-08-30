@@ -26,7 +26,8 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/4th-annual-hello-taiwan-concert-night-market-in-ny|4th Annual &#8220;Hello Taiwan&#8221; Concert &#038; Night Market in NY to benefit Philippines Typhoon Haiyan Relief Effort]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

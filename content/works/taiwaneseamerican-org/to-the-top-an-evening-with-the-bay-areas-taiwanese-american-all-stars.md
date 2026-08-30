@@ -26,7 +26,8 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/to-the-top-an-evening-with-the-bay-areas-taiwanese-american-all-stars|TO THE TOP: An Evening with the Bay Area&#8217;s Taiwanese American All-Stars]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

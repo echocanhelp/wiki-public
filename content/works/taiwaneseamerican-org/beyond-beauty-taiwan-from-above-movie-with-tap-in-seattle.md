@@ -26,7 +26,8 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/beyond-beauty-taiwan-from-above-movie-with-tap-in-seattle|&#8220;Beyond Beauty &#8211; Taiwan From Above&#8221; Movie with TAP in Seattle]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

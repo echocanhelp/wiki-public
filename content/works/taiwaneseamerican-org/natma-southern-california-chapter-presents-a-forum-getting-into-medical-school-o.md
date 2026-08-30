@@ -26,7 +26,8 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/natma-southern-california-chapter-presents-a-forum-getting-into-medical-school-o|NATMA Southern California Chapter Presents a Forum: &#8220;Getting into Medical School or Dental School&#8221;]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

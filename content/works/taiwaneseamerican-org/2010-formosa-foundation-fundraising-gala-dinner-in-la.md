@@ -26,7 +26,10 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- (named subjects pending absorb)
+- [[works/taiwaneseamerican-org/2010-formosa-foundation-fundraising-gala-dinner-in-la|2010 Formosa Foundation Fundraising Gala Dinner in LA]]
+- [[organizations/formosa-foundation|Formosa Foundation]]
+- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[articles/taiwanjustice-net/2023/20231208225407_root_12f4fa36695ac846|10]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
