@@ -15,7 +15,7 @@ website: https://chunglun.church/
 ---
 # Chunglun Presbyterian Church (中崙教會)
 
-A [[organizations/presbyterian-church-in-taiwan||PCT]] congregation in **七星中會** (Taipei). **Not** 台南東門巴克禮紀念教會.
+A [[organizations/presbyterian-church-in-taiwan||PCT]] congregation in **七星中會** (Taipei). **Not** 台南東門[[people/thomas-barclay|巴克禮]]紀念教會.
 
 ## Identity Snapshot
 - **Presbytery:** 七星中會 (PCT)
@@ -32,6 +32,12 @@ PCT / 七星中會. Taiwan congregation, not U.S. TPC.
 - [[people/pinghsi-liu||劉炳熹]]
 - [[organizations/presbyterian-church-in-taiwan||PCT]]
 - [[organizations/tainan-east-gate-barclay-memorial-church||東門巴克禮紀念教會]] — Liu’s previous pulpit
+
+## Related Pages
+
+- [[organizations/presbyterian-church-in-taiwan]]
+- [[people/pinghsi-liu]]
+- [[organizations/tainan-east-gate-barclay-memorial-church]]
 
 ## Sources
 1. [PCT：劉炳熹牧師就任七星中會中崙教會](https://www.pct.org.tw/news_church.aspx?strBlockID=B00001&strContentID=C2026052900007&strDesc=Y) (2026-05-29)
