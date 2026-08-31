@@ -43,5 +43,5 @@ May-Sing studied music in college, and had a lot of concert experience since gra
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/may-sing-chang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/lynn-chen-in-surrogate-valentine-premieres-at-sxsw-in-austin-tx|Lynn Chen in &#8220;Surrogate Valentine&#8221; &#8211; Premieres at SXSW in Austin, TX]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/lynn-chen-in-surrogate-valentine-premieres-at-sxsw-in-austin-tx||Lynn Chen in &#8220;Surrogate Valentine&#8221; &#8211; Premieres at SXSW in Austin, TX]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

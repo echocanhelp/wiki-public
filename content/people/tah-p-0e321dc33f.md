@@ -40,5 +40,5 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e8%94%a1%e4%bd%a9%e5%90%9b/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

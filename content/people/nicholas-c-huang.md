@@ -33,7 +33,7 @@ Accomplishment
 
 ## Family
 
-- **Father:** [[people/charles-huang|Charles Huang]]
+- **Father:** [[people/charles-huang||Charles Huang]]
 - **Mother:** Judy Chen
 
 
@@ -42,5 +42,5 @@ Accomplishment
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/nicholas-c-huang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

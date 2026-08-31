@@ -43,5 +43,5 @@ Helen Lee 李雪玟, Soprano, is a faculty member in the Music Department at the
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-helen-lee/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

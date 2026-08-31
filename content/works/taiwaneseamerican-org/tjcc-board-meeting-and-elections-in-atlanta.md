@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/tjcc-board-meeting-and-elections-in-atlanta|TJCC Board Meeting and Elections in Atlanta]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/tjcc-board-meeting-and-elections-in-atlanta||TJCC Board Meeting and Elections in Atlanta]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

@@ -36,7 +36,7 @@ More information please click in my story: 486. The life Story of Prof. Sung-Pen
 
 ## Family
 
-- **Wife:** [[people/hui-mei-lin|林慧美]]
+- **Wife:** [[people/hui-mei-lin||林慧美]]
 - **Daughter:** 徐佩雯
 - **Son:** 徐良愷
 
@@ -45,5 +45,5 @@ More information please click in my story: 486. The life Story of Prof. Sung-Pen
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sung-peng-hsu/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

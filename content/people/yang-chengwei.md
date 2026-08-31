@@ -39,7 +39,7 @@ Yang was born in New York and raised in a politically connected family. His gran
 Yang is one of the few Taiwanese Americans to perform on Broadway. He has been invited to perform at numerous Taiwanese community events across major U.S. cities including Los Angeles, New York, San Francisco, and Chicago. He has also performed at events hosted by New York Governor George Pataki and at Asian heritage celebrations in Vancouver, Canada.
 
 ### Second Generation Theater Company
-Yang founded the "Second Generation" theater company in the United States to promote the development of Asian American performers. The company has collaborated with Tony Award winners to create musicals including "Laying Tracks" (based on [[people/ang-lee-2|Ang Lee]]'s film), "The Feast" (adapted from [[people/ang-lee|Ang Lee]]'s film of the same name), and "Finding Home" — a musical about Chinese immigrant families. The company toured Taiwan from 2001-2005, receiving enthusiastic responses from audiences.
+Yang founded the "Second Generation" theater company in the United States to promote the development of Asian American performers. The company has collaborated with Tony Award winners to create musicals including "Laying Tracks" (based on [[people/ang-lee-2||Ang Lee]]'s film), "The Feast" (adapted from [[people/ang-lee||Ang Lee]]'s film of the same name), and "Finding Home" — a musical about Chinese immigrant families. The company toured Taiwan from 2001-2005, receiving enthusiastic responses from audiences.
 
 ### Recent Work
 In August 2022, Yang returned to Taiwan with his family to participate in the rehearsals for the musical "The Fantasticks" (夢幻愛程), which was performed at the Songshan Cultural and Creative Park from September 23 to November 13, 2022. The production was a collaboration between the American original and the Taiwan Chinese Musical Theater Company.
@@ -60,11 +60,11 @@ Yang Chengwei's story represents the bridge between Taiwanese American families 
 ## Source Notes and Confidence
 
 - **Content priority B:** 2023 TAHS Publication (profile, Section 3, page 109)
-- **Hub:** [[sources/2023-tahs-publication|2023 TAHS Publication]]
+- **Hub:** [[sources/2023-tahs-publication||2023 TAHS Publication]]
 - **Archive:** `knowledge/web-archives/2023-tahs-publication-part2.md`
 
 ## Related Pages
 
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/2023-tahs-publication|2023 TAHS Publication]]
-- [[people/zheng-bing-quan|Zheng Bingquan (鄭炳全)]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/2023-tahs-publication||2023 TAHS Publication]]
+- [[people/zheng-bing-quan||Zheng Bingquan (鄭炳全)]]

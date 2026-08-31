@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/2014-gala-with-tap-in-boston|2014 Gala with TAP in Boston]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/2014-gala-with-tap-in-boston||2014 Gala with TAP in Boston]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

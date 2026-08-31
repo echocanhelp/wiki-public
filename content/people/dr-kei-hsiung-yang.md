@@ -34,8 +34,8 @@ Accomplishment
 
 ## Family
 
-- **Wife:** [[people/nancy-yang|陳玲銖]]
-- **Son:** [[people/andrew-yang|楊安澤]]
+- **Wife:** [[people/nancy-yang||陳玲銖]]
+- **Son:** [[people/andrew-yang||楊安澤]]
 
 
 ## Sources
@@ -43,5 +43,5 @@ Accomplishment
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-kei-hsiung-yang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

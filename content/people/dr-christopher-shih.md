@@ -40,5 +40,5 @@ Dr. Christopher Shih 石慶愷醫師 – History of Taiwanese American (T.A. Arc
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-christopher-shih/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

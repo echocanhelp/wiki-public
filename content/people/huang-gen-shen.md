@@ -41,23 +41,23 @@ last_reviewed: 2026-08-20
 
 ## Works
 
-**黃根深** — **2** title hits, **3** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
+**黃根深** — **2** title hits, **3** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
 
 ### 2024 (1)
 
-1. [[articles/taiwanjustice-net/2024/20240719003614_root_36738f1d5cef98e1|Taiwanese are Taiwanese-Please sign the petition for Census US – 2020 ◎黃根深(Ken]]
+1. [[articles/taiwanjustice-net/2024/20240719003614_root_36738f1d5cef98e1||Taiwanese are Taiwanese-Please sign the petition for Census US – 2020 ◎黃根深(Ken]]
 
 ### 2017 (1)
 
-1. [[articles/taiwanjustice-net/2017/20171220125053_2017_11_29_全美台灣人權協會年會暨鄭南榕紀念獎_王康陸人_c4d413fd5efb8a9c|全美台灣人權協會年會暨鄭南榕紀念獎、王康陸人權獎頒獎典禮 12/09 聖地牙哥舉行(得獎人鄭文龍、王泰和、黃根深)]]
+1. [[articles/taiwanjustice-net/2017/20171220125053_2017_11_29_全美台灣人權協會年會暨鄭南榕紀念獎_王康陸人_c4d413fd5efb8a9c||全美台灣人權協會年會暨鄭南榕紀念獎、王康陸人權獎頒獎典禮 12/09 聖地牙哥舉行(得獎人鄭文龍、王泰和、黃根深)]]
 
 ### Body mentions (3)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3|旅美五十周年 ◎ 鄭炳全]]
-2. [[articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16|旅美五十周年 ◎ 鄭炳全]]
-3. [[articles/taiwanjustice-net/2024/20240520023218_root_89e6683c93156205|台美人台加人]]
+1. [[articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3||旅美五十周年 ◎ 鄭炳全]]
+2. [[articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16||旅美五十周年 ◎ 鄭炳全]]
+3. [[articles/taiwanjustice-net/2024/20240520023218_root_89e6683c93156205||台美人台加人]]
 
 
 ## Timeline
@@ -85,16 +85,16 @@ Pages that link to **黃根深** (huang-gen-shen):
 
 ### People (6)
 
-1. [[people/franklin-ping-cheng|franklin-ping-cheng]]
-2. [[people/liao-shu-zong|liao-shu-zong]]
-3. [[people/lin-fu-kun|lin-fu-kun]]
-4. [[people/wang-gui-rong|wang-gui-rong]]
-5. [[people/yang-jia-you|yang-jia-you]]
-6. [[people/yang-xin|yang-xin]]
+1. [[people/franklin-ping-cheng||franklin-ping-cheng]]
+2. [[people/liao-shu-zong||liao-shu-zong]]
+3. [[people/lin-fu-kun||lin-fu-kun]]
+4. [[people/wang-gui-rong||wang-gui-rong]]
+5. [[people/yang-jia-you||yang-jia-you]]
+6. [[people/yang-xin||yang-xin]]
 
 ### Organizations (1)
 
-1. [[organizations/taiwanese-american-historical-society|taiwanese-american-historical-society]]
+1. [[organizations/taiwanese-american-historical-society||taiwanese-american-historical-society]]
 
 ## Quotes
 
@@ -120,7 +120,7 @@ Notable quotes and mentions of **黃根深** in Taiwan Justice articles:
 
 ## Source Notes and Confidence
 - **Content priority A:** 2017 TAHS Publication profile "用畫筆搞台獨的黃根深教授" (Part 2, L667–843), by 陳婉真
-- **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
+- **Hub:** [[sources/2017-tahs-publication||2017 TAHS Publication]]
 - **Archive:** Part 2, lines 667–843
 - Layout-limited extraction; not a full translation
 
@@ -129,35 +129,35 @@ Notable quotes and mentions of **黃根深** in Taiwan Justice articles:
 - [TAH #64 encyclopedia: 64. 黃根深 Ken S. Huang](https://taiwaneseamericanhistory.org/64-ken-s-huang/)
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/2017-tahs-publication|2017 TAHS Publication]]
-- [[people/yang-jia-you|楊嘉猷]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/2017-tahs-publication||2017 TAHS Publication]]
+- [[people/yang-jia-you||楊嘉猷]]
 
 ## TJ Citations
 
 Articles from taiwanjustice.net mentioning **Huang Gen-shen (黃根深)**:
 
-1. **2017-11-29** — [[articles/taiwanjustice-net/2017/20171220125053_2017_11_29_全美台灣人權協會年會暨鄭南榕紀念獎_王康陸人_c4d413fd5efb8a9c|全美台灣人權協會年會暨鄭南榕紀念獎、王康陸人權獎頒獎典禮 12/09 聖地牙哥舉行(得獎人鄭文龍、王泰和、黃根深)]]
+1. **2017-11-29** — [[articles/taiwanjustice-net/2017/20171220125053_2017_11_29_全美台灣人權協會年會暨鄭南榕紀念獎_王康陸人_c4d413fd5efb8a9c||全美台灣人權協會年會暨鄭南榕紀念獎、王康陸人權獎頒獎典禮 12/09 聖地牙哥舉行(得獎人鄭文龍、王泰和、黃根深)]]
    - Source: http://www.taiwanjustice.net:80/2017/11/29/%E5%85%A8%E7%BE%8E%E5%8F%B0%E7%81%A3%E4%BA%BA%E6%AC%8A%E5%8D%94%E6%9C%83%E5%B9%B4%E6%9C%83%E6%9A%A8%E9%84%AD%E5%8D%97%E6%A6%95%E7%B4%80%E5%BF%B5%E7%8D%8E%E3%80%81%E7%8E%8B%E5%BA%B7%E9%99%B8%E4%BA%BA/
    - Match: alias='黃根深' where=title pts=100
    - Score: 770
 
-2. **2016-05-17** — [[articles/taiwanjustice-net/2024/20240520023218_root_89e6683c93156205|台美人台加人]]
+2. **2016-05-17** — [[articles/taiwanjustice-net/2024/20240520023218_root_89e6683c93156205||台美人台加人]]
    - Source: https://www.taiwanjustice.net/?cat=59&filter_by=random_posts&paged=356
    - Match: alias='黃根深' where=body pts=40
    - Score: 760
 
-3. **2020-09-04** — [[articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3|旅美五十周年 ◎ 鄭炳全]]
+3. **2020-09-04** — [[articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3||旅美五十周年 ◎ 鄭炳全]]
    - Source: https://www.taiwanjustice.net/?p=222913
    - Match: alias='黃根深' where=body pts=40
    - Score: 395
 
-4. **2020-09-04** — [[articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16|旅美五十周年 ◎ 鄭炳全]]
+4. **2020-09-04** — [[articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16||旅美五十周年 ◎ 鄭炳全]]
    - Source: https://taiwanjustice.net/%e6%97%85%e7%be%8e%e4%ba%94%e5%8d%81%e5%91%a8%e5%b9%b4-%e2%97%8e-%e9%84%ad%e7%82%b3%e5%85%a8/
    - Match: alias='黃根深' where=body pts=40
    - Score: 395
 
-5. **2016-06-14** — [[articles/taiwanjustice-net/2024/20240719003614_root_36738f1d5cef98e1|Taiwanese are Taiwanese-Please sign the petition for Census US – 2020 ◎黃根深(Ken]]
+5. **2016-06-14** — [[articles/taiwanjustice-net/2024/20240719003614_root_36738f1d5cef98e1||Taiwanese are Taiwanese-Please sign the petition for Census US – 2020 ◎黃根深(Ken]]
    - Source: https://www.taiwanjustice.net/?p=84924
    - Match: alias='黃根深' where=title pts=100
    - Score: 150

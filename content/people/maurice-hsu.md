@@ -30,7 +30,7 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Wife:** [[people/chui-ying-hsu|黃翠英]]
+- **Wife:** [[people/chui-ying-hsu||黃翠英]]
 - **Son:** Edwin
 - **Son:** Patrick
 - **Son:** Daniel
@@ -40,5 +40,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/maurice-hsu/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

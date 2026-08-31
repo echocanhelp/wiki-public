@@ -22,5 +22,5 @@ The Taiwanese American Conferences – West Coast (TAC-WC) is a nonprofit corpor
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/the-board-of-taiwanese-american-conferences-west-coast-tac-wc/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

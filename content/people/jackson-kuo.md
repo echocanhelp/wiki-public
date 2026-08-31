@@ -43,5 +43,5 @@ HERMIT Jackson Kuo is born in Taiwan in 1950. He is not a real hermit but in spi
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jackson-kuo/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

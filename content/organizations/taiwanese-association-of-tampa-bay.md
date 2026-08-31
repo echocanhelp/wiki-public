@@ -22,5 +22,5 @@ The Taiwanese Association of Tampa Bay (佛州天霸市台灣同鄉會) is a reg
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-tampa-bay/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

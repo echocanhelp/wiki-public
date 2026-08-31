@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/the-slants-yellow-album-tour-in-the-south-2|The Slants&#039; Yellow Album Tour in the South]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/the-slants-yellow-album-tour-in-the-south-2||The Slants&#039; Yellow Album Tour in the South]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

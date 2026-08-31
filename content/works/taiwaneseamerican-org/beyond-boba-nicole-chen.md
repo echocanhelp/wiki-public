@@ -13,7 +13,7 @@ last_reviewed: 2026-08-20
 - Era: 2024
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
-- Source org: [[organizations/taiwaneseamerican-org]]
+- Source org: [[organizations/taiwaneseamerican-org]]]]
 
 ## Record
 - **Date:** 2024-06-05
@@ -57,6 +57,6 @@ Nicole Chen’s experience growing up Taiwanese American, and the blend of Catal
 - Featured
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[organizations/taiwaneseamerican-org]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[organizations/taiwaneseamerican-org]]]]
+- [[sources/taiwaneseamerican-org||Source hub]]

@@ -42,5 +42,5 @@ Prof. Fong-Yong Tsai 蔡芳洋教授 – History of Taiwanese American (T.A. Arc
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-fong-yong-tsai/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

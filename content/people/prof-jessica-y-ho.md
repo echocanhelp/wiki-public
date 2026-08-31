@@ -41,5 +41,5 @@ B.A., Economics, health and societies (major)/English (minor)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-jessica-y-ho/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

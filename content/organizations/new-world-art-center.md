@@ -22,5 +22,5 @@ The New World Art Center (NWAC) is an international art gallery and management c
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/new-world-art-center/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

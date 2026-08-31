@@ -41,5 +41,5 @@ Medical Director, Respiratory Therapy Department, Church Hospital Baltimore MD (
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-chi-shiang-chen/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

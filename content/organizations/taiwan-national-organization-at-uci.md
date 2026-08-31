@@ -22,5 +22,5 @@ The Taiwan National Organization (TNO) at UC Irvine is a student organization fo
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwan-national-organization-at-uci/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

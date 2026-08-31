@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/taiwanese-singer-wang-ming-zhe-e7-8e-8b-e6-98-8e-e5-93-b2-performs-in-norcal|Taiwanese Singer Wang Ming Zhe 王明哲 Performs in NorCal]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/taiwanese-singer-wang-ming-zhe-e7-8e-8b-e6-98-8e-e5-93-b2-performs-in-norcal||Taiwanese Singer Wang Ming Zhe 王明哲 Performs in NorCal]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

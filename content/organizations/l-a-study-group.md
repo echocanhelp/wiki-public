@@ -22,5 +22,5 @@ The L.A. Study Group is a Taiwanese American reading and discussion group based 
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/l-a-study-group/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

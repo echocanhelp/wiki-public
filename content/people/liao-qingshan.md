@@ -10,7 +10,7 @@ last_reviewed: 2026-08-20
 ---
 # Liao Qing-shan (廖清山)
 
-**Liao Qing-shan** (廖清山) is a columnist for [[sources/taiwanjustice-net|taiwanjustice.net (台灣公義網)]], with 37 articles archived from the site's column section.
+**Liao Qing-shan** (廖清山) is a columnist for [[sources/taiwanjustice-net||taiwanjustice.net (台灣公義網)]], with 37 articles archived from the site's column section.
 
 ## Identity Snapshot
 
@@ -30,75 +30,75 @@ last_reviewed: 2026-08-20
 
 Top 10 articles from taiwanjustice.net mentioning liao-qingshan:
 
-1. **2017-11-13** — [[articles/taiwanjustice-net/2024/20240221113229_root_17825a06f4cdbb6f|林保華專欄]]
+1. **2017-11-13** — [[articles/taiwanjustice-net/2024/20240221113229_root_17825a06f4cdbb6f||林保華專欄]]
    - *November 13, 2017...*
    - Score: 825
-2. **2022-07-10** — [[articles/taiwanjustice-net/2024/20240425084829_root_b5c9f6bb0360ed23|陳茂雄專欄]]
+2. **2022-07-10** — [[articles/taiwanjustice-net/2024/20240425084829_root_b5c9f6bb0360ed23||陳茂雄專欄]]
    - *高雄的民主水準居冠 ◎ 陳茂雄...*
    - Score: 825
-3. **2017-03-07** — [[articles/taiwanjustice-net/2024/20240715140333_root_de6de376c47e0ff9|余杰專欄]]
+3. **2017-03-07** — [[articles/taiwanjustice-net/2024/20240715140333_root_de6de376c47e0ff9||余杰專欄]]
    - *March 7, 2017...*
    - Score: 825
-4. **2017-11-22** — [[articles/taiwanjustice-net/2024/20240221105045_root_4b96e7a2f9d76692|專欄]]
+4. **2017-11-22** — [[articles/taiwanjustice-net/2024/20240221105045_root_4b96e7a2f9d76692||專欄]]
    - *監察權的謬誤 ◎ 陳茂雄 2017-11-22...*
    - Score: 820
-5. **2022-08-22** — [[articles/taiwanjustice-net/2024/20240619175142_root_e903f760568c0883|余杰專欄]]
+5. **2022-08-22** — [[articles/taiwanjustice-net/2024/20240619175142_root_e903f760568c0883||余杰專欄]]
    - *跟習近平聊天是雞同鴨講-范疇《與習近平聊聊台灣和中國》◎ 余傑...*
    - Score: 810
-6. **2017-01-30** — [[articles/taiwanjustice-net/2024/20240616123010_root_e9a4d38b79b420ee|余杰專欄]]
+6. **2017-01-30** — [[articles/taiwanjustice-net/2024/20240616123010_root_e9a4d38b79b420ee||余杰專欄]]
    - *January 30, 2017...*
    - Score: 805
-7. **2024-04-24** — [[articles/taiwanjustice-net/2024/20240425072010_root_e39ecec0fdeb18d2|台灣頭條]]
+7. **2024-04-24** — [[articles/taiwanjustice-net/2024/20240425072010_root_e39ecec0fdeb18d2||台灣頭條]]
    - *April 24, 2024...*
    - Score: 800
-8. **2023-07-30** — [[articles/taiwanjustice-net/2024/20240425083432_root_99aaa4abcb78ff6d|台美人台加人]]
+8. **2023-07-30** — [[articles/taiwanjustice-net/2024/20240425083432_root_99aaa4abcb78ff6d||台美人台加人]]
    - *July 30, 2023...*
    - Score: 800
-9. **2023-08-12** — [[articles/taiwanjustice-net/2024/20240719130745_root_c122ab4d6dc8d2cf|2012大選]]
+9. **2023-08-12** — [[articles/taiwanjustice-net/2024/20240719130745_root_c122ab4d6dc8d2cf||2012大選]]
    - *August 12, 2023...*
    - Score: 800
-10. **2018-01-04** — [[articles/taiwanjustice-net/2024/20240224183824_root_3a00a14a809ec2ca|大洛杉磯台灣會館]]
+10. **2018-01-04** — [[articles/taiwanjustice-net/2024/20240224183824_root_3a00a14a809ec2ca||大洛杉磯台灣會館]]
    - *January 4, 2018...*
    - Score: 795
 
 
 ## Works
 
-**廖清山** — **31** title hits, **1166** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
+**廖清山** — **31** title hits, **1166** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
 
 ### 2024 (25)
 
-1. [[articles/taiwanjustice-net/2024/20240713171901_root_856035db4dff4334|蘇打綠不想維持現狀 ◎ 廖清山 2016-12-12]]
-2. [[articles/taiwanjustice-net/2024/20240421192538_root_55cdd2e4b1247e76|何必一竿子打翻一船人？ ◎  廖清山 2017-02-05]]
-3. [[articles/taiwanjustice-net/2024/20240421190439_root_987888767220f69a|馮光遠發飈 ◎ 廖清山 2017-01-16]]
-4. [[articles/taiwanjustice-net/2024/20240421190316_root_39b87795c51b5977|死要錢和要死錢 ◎廖清山 2017-01-23]]
-5. [[articles/taiwanjustice-net/2024/20240421183934_root_04d3c3057238ce60|家務事難斷也難看 ◎ 廖清山 2017-07-01]]
-6. [[articles/taiwanjustice-net/2024/20240301085804_root_3405f38ab9607d1e|廖清山專欄]]
-7. [[articles/taiwanjustice-net/2024/20240301073239_root_ebe6758520a6bdc3|〈洛杉磯看台〉時代變了嗎？◎  廖清山 2017-11-07]]
-8. [[articles/taiwanjustice-net/2024/20240301071009_root_cbf185d4e8137928|〈洛杉磯看台〉一顆難以忘懷的台灣心 ◎ 廖清山 2017-09-19]]
+1. [[articles/taiwanjustice-net/2024/20240713171901_root_856035db4dff4334||蘇打綠不想維持現狀 ◎ 廖清山 2016-12-12]]
+2. [[articles/taiwanjustice-net/2024/20240421192538_root_55cdd2e4b1247e76||何必一竿子打翻一船人？ ◎  廖清山 2017-02-05]]
+3. [[articles/taiwanjustice-net/2024/20240421190439_root_987888767220f69a||馮光遠發飈 ◎ 廖清山 2017-01-16]]
+4. [[articles/taiwanjustice-net/2024/20240421190316_root_39b87795c51b5977||死要錢和要死錢 ◎廖清山 2017-01-23]]
+5. [[articles/taiwanjustice-net/2024/20240421183934_root_04d3c3057238ce60||家務事難斷也難看 ◎ 廖清山 2017-07-01]]
+6. [[articles/taiwanjustice-net/2024/20240301085804_root_3405f38ab9607d1e||廖清山專欄]]
+7. [[articles/taiwanjustice-net/2024/20240301073239_root_ebe6758520a6bdc3||〈洛杉磯看台〉時代變了嗎？◎  廖清山 2017-11-07]]
+8. [[articles/taiwanjustice-net/2024/20240301071009_root_cbf185d4e8137928||〈洛杉磯看台〉一顆難以忘懷的台灣心 ◎ 廖清山 2017-09-19]]
 - … 17 more this year
 
 ### 2023 (1)
 
-1. [[articles/taiwanjustice-net/2023/20231208121021_root_805f314dfbaf7d5e|廖清山專欄]]
+1. [[articles/taiwanjustice-net/2023/20231208121021_root_805f314dfbaf7d5e||廖清山專欄]]
 
 ### 2017 (5)
 
-1. [[articles/taiwanjustice-net/2017/20171231181317_2017_11_14_洛杉磯看台_-自曝其短的布希家族-_-廖_0d95bdefa646ce68|〈洛杉磯看台〉 自曝其短的布希家族  ◎  廖清山 2017-11-14]]
-2. [[articles/taiwanjustice-net/2017/20171231174050_2017_11_06_洛杉磯看台_時代變了嗎_-廖清山-2017-11-07_bc4e4a1ce60fc688|〈洛杉磯看台〉時代變了嗎？◎  廖清山 2017-11-07]]
-3. [[articles/taiwanjustice-net/2017/20171220122528_2017_10_30_洛杉磯看台_美媒持續霸凌川普-_廖清山-2017-10-30_5485a82845781b89|〈洛杉磯看台〉美媒持續霸凌川普 ◎廖清山 2017-10-30]]
-4. [[articles/taiwanjustice-net/2017/20171220120554_2017_10_23_洛杉磯看台_-安倍晉三輕鬆大勝-_-廖清_788826310a67e9e0|〈洛杉磯看台〉  安倍晉三輕鬆大勝 ◎  廖清山 2017-10-24]]
-5. [[articles/taiwanjustice-net/2017/20171220114203_2017_10_23_洛杉磯看台_-從槍手到門神-_-廖清山-2017-10-23_2e5e1b2374bc2203|〈洛杉磯看台〉 從槍手到門神 ◎ 廖清山 2017-10-23]]
+1. [[articles/taiwanjustice-net/2017/20171231181317_2017_11_14_洛杉磯看台_-自曝其短的布希家族-_-廖_0d95bdefa646ce68||〈洛杉磯看台〉 自曝其短的布希家族  ◎  廖清山 2017-11-14]]
+2. [[articles/taiwanjustice-net/2017/20171231174050_2017_11_06_洛杉磯看台_時代變了嗎_-廖清山-2017-11-07_bc4e4a1ce60fc688||〈洛杉磯看台〉時代變了嗎？◎  廖清山 2017-11-07]]
+3. [[articles/taiwanjustice-net/2017/20171220122528_2017_10_30_洛杉磯看台_美媒持續霸凌川普-_廖清山-2017-10-30_5485a82845781b89||〈洛杉磯看台〉美媒持續霸凌川普 ◎廖清山 2017-10-30]]
+4. [[articles/taiwanjustice-net/2017/20171220120554_2017_10_23_洛杉磯看台_-安倍晉三輕鬆大勝-_-廖清_788826310a67e9e0||〈洛杉磯看台〉  安倍晉三輕鬆大勝 ◎  廖清山 2017-10-24]]
+5. [[articles/taiwanjustice-net/2017/20171220114203_2017_10_23_洛杉磯看台_-從槍手到門神-_-廖清山-2017-10-23_2e5e1b2374bc2203||〈洛杉磯看台〉 從槍手到門神 ◎ 廖清山 2017-10-23]]
 
 ### Body mentions (1166)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2024/20240520034013_root_6f2b431c9cb0cca9|台美人台加人]]
-2. [[articles/taiwanjustice-net/2024/20240421185358_root_09926246802abc6a|台美人台加人]]
-3. [[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea|台美人台加人]]
-4. [[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3|台美人台加人]]
-5. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596|台美人台加人]]
+1. [[articles/taiwanjustice-net/2024/20240520034013_root_6f2b431c9cb0cca9||台美人台加人]]
+2. [[articles/taiwanjustice-net/2024/20240421185358_root_09926246802abc6a||台美人台加人]]
+3. [[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea||台美人台加人]]
+4. [[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3||台美人台加人]]
+5. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596||台美人台加人]]
 
 
 ## Timeline
@@ -11137,7 +11137,7 @@ Notable quotes and mentions of **廖清山** in Taiwan Justice articles:
 
 ### Unknown (1 quotes)
 
-1. "xuan|He Qinglian (何清漣)]] — 50 articles - [[people/liao-qingshan|Liao Qing-shan (廖清山)]] — 37 articles ### Political Figures - [[people/tsai-ing-wen|Tsai Ing-wen (蔡"
+1. "xuan|He Qinglian (何清漣)]] — 50 articles - [[people/liao-qingshan||Liao Qing-shan (廖清山)]] — 37 articles ### Political Figures - [[people/tsai-ing-wen||Tsai Ing-wen (蔡"
    — "taiwanjustice.net Article Archive" (unknown)
 
 ### 2024 (24 quotes)
@@ -11237,7 +11237,7 @@ Notable quotes and mentions of **廖清山** in Taiwan Justice articles:
 
 - **Content priority A:** Article count (37) from Tier 2 title extraction
 - **Content priority B:** Column author listing from `knowledge/research/taiwanjustice-net-entities`
-- **Hub:** [[sources/taiwanjustice-net|taiwanjustice.net source hub]]
+- **Hub:** [[sources/taiwanjustice-net||taiwanjustice.net source hub]]
 - **Archive:** [Column articles](https://github.com/echocanhelp/wiki-public/tree/gh-pages/knowledge/web-archives/taiwanjustice-net/tier2/)
 
 ## Sources
@@ -11246,6 +11246,6 @@ Notable quotes and mentions of **廖清山** in Taiwan Justice articles:
 
 ## Related Pages
 
-- [[sources/taiwanjustice-net|taiwanjustice.net source hub]]
-- [[organizations/taiwanjustice-net|taiwanjustice.net (台灣公義網)]]
-- [[people/freeman-huang|Freeman Huang (黃樹人)]]
+- [[sources/taiwanjustice-net||taiwanjustice.net source hub]]
+- [[organizations/taiwanjustice-net||taiwanjustice.net (台灣公義網)]]
+- [[people/freeman-huang||Freeman Huang (黃樹人)]]

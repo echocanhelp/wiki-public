@@ -31,7 +31,7 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Wife:** [[people/chue-jen-huang|楊純貞]]
+- **Wife:** [[people/chue-jen-huang||楊純貞]]
 - **Son:** Jason
 
 
@@ -40,5 +40,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/min-an-huang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

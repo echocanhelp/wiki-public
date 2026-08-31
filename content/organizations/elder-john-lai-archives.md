@@ -21,7 +21,7 @@ last_reviewed: 2026-08-18
 - **Era:** site live as John Lai’s online 蒐藏; 《教會史話》欄 1988–
 - **Geography:** Taiwan church history (stage = Taiwan, also 涉外); operator later US/Boston
 - **Core roles:** digital archive of PCT / Taiwan Christianity sources; 《教會史話》全文；剪報與信徒檔
-- **Not:** PCT official website ([[organizations/presbyterian-church-in-taiwan|pct.org.tw]]); not TAH Foundation
+- **Not:** PCT official website ([[organizations/presbyterian-church-in-taiwan||pct.org.tw]]); not TAH Foundation
 
 ## History
 
@@ -53,9 +53,9 @@ Harvested **2026-08-18** from [contents.htm](http://www.laijohn.com/contents.htm
 
 Wiki-linked titles (not a dump of 628):
 
-- [[people/james-laidlaw-maxwell|馬雅各]] — 25, 105, 108, 114, 122, 124, **201**, **301** 馬雅各紀念教會史
-- [[people/thomas-barclay|巴克禮]] — 18–20, 30, 435, 439
-- [[people/hsu-ling-yun|許凌雲]] cites **321** [府城教會高耀長老](http://www.laijohn.com/book4/321.htm)
+- [[people/james-laidlaw-maxwell||馬雅各]] — 25, 105, 108, 114, 122, 124, **201**, **301** 馬雅各紀念教會史
+- [[people/thomas-barclay||巴克禮]] — 18–20, 30, 435, 439
+- [[people/hsu-ling-yun||許凌雲]] cites **321** [府城教會高耀長老](http://www.laijohn.com/book4/321.htm)
 - 馬偕 — 51 title hits (not listed)
 
 **374** on this TOC is 〈埤頭草店尾人林乾〉 — not 蕭泰然.
@@ -71,8 +71,8 @@ Wiki-linked titles (not a dump of 628):
 | Around John | `/life/biog.htm` `/works/` `/interview/` `/Loas/` `/Laus/` |
 
 ## Related Pages
-- [[people/john-lai|Elder John Lai 賴永祥]]
-- [[sources/laijohn-com|laijohn.com]]
-- [[organizations/presbyterian-church-in-taiwan|PCT]]
-- [[organizations/boston-taiwanese-christian-church|波士頓台灣基督教會]]
-- [[sources/taiwaneseamericanhistory-org|TAH]]
+- [[people/john-lai||Elder John Lai 賴永祥]]
+- [[sources/laijohn-com||laijohn.com]]
+- [[organizations/presbyterian-church-in-taiwan||PCT]]
+- [[organizations/boston-taiwanese-christian-church||波士頓台灣基督教會]]
+- [[sources/taiwaneseamericanhistory-org||TAH]]

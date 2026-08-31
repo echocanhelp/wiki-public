@@ -13,7 +13,7 @@ last_reviewed: 2026-08-23
 - Era: 2026
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
-- Source org: [[organizations/taiwaneseamerican-org]]
+- Source org: [[organizations/taiwaneseamerican-org]]]]
 
 ## Record
 - **Date:** 2026-08-20
@@ -31,10 +31,10 @@ _PARTIAL: A-band article body not captured. This is not ingest._
 - 2026-08-20 — published
 
 ## Subjects
-- [[works/taiwaneseamerican-org/beneath-the-same-round-moon-jasmine-fang|&#8220;Beneath the Same Round Moon&#8221;: Q&#038;A with Debut Author Jasmine Fang]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/beneath-the-same-round-moon-jasmine-fang||&#8220;Beneath the Same Round Moon&#8221;: Q&#038;A with Debut Author Jasmine Fang]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[organizations/taiwaneseamerican-org]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[organizations/taiwaneseamerican-org]]]]
+- [[sources/taiwaneseamerican-org||Source hub]]

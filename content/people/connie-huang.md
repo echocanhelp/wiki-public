@@ -31,7 +31,7 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Father:** [[people/sam-huang|黃興貫]]
+- **Father:** [[people/sam-huang||黃興貫]]
 
 
 ## Sources
@@ -39,5 +39,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/connie-huang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

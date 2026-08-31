@@ -22,5 +22,5 @@ The San Diego Taiwanese Tennis Association (SDTTA) is a grassroots nonprofit org
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/san-diego-taiwanese-tennis-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

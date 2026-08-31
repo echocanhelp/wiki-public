@@ -22,5 +22,5 @@ The Taiwanese American Association of Greater Orlando (TAAGO), known in Chinese 
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-association-of-greater-orlando-taago/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

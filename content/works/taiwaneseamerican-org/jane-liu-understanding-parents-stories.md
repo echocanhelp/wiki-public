@@ -13,7 +13,7 @@ last_reviewed: 2026-08-20
 - Era: 2025
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
-- Source org: [[organizations/taiwaneseamerican-org]]
+- Source org: [[organizations/taiwaneseamerican-org]]]]
 
 ## Record
 - **Date:** 2025-12-10
@@ -70,6 +70,6 @@ Jane Liu is the founder of Jane’s Mandarin and has been teaching Taiwanese Man
 - Perspectives
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[organizations/taiwaneseamerican-org]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[organizations/taiwaneseamerican-org]]]]
+- [[sources/taiwaneseamerican-org||Source hub]]

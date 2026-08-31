@@ -22,5 +22,5 @@ The Harvard Griffin GSAS Taiwan Student Association (HTSA), known in Chinese as 
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/harvard-griffin-gsas-taiwan-student-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -32,12 +32,12 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Husband:** [[people/liang-shing-fan|范良信]]
+- **Husband:** [[people/liang-shing-fan||范良信]]
 
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chuen-mei-lee-fan/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

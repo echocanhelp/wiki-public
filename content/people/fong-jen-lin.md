@@ -32,7 +32,7 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Wife:** [[people/grace-lin|吳瑞惠]]
+- **Wife:** [[people/grace-lin||吳瑞惠]]
 - **Daughter:** 林致欣
 - **Son:** 林致真
 
@@ -42,5 +42,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/fong-jen-lin/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

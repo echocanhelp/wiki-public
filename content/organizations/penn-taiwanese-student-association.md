@@ -22,5 +22,5 @@ Penn Taiwanese Student Association is a Taiwanese student organization at the Un
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/penn-taiwanese-student-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

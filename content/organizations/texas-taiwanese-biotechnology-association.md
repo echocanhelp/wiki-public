@@ -22,5 +22,5 @@ The Texas Taiwanese Biotechnology Association is a young organization establishe
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/texas-taiwanese-biotechnology-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

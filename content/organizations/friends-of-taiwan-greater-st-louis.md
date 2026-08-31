@@ -22,5 +22,5 @@ Friends of Taiwan-Greater St. Louis is a non-profit organization dedicated to pr
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/friends-of-taiwan-greater-st-louis/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

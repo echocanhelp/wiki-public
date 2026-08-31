@@ -22,5 +22,5 @@ The Houston Taiwanese Golden Club is a nonprofit, nonpolitical, and nonreligious
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/houston-taiwanese-golden-club/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

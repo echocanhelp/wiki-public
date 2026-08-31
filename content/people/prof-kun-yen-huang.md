@@ -33,7 +33,7 @@ Accomplishment
 
 ## Family
 
-- **Wife:** [[people/hwei-mei-amyhuang|謝惠美]]
+- **Wife:** [[people/hwei-mei-amyhuang||謝惠美]]
 - **Daughter:** 黃岫清, 黃岫安, 黃岫寧
 
 
@@ -44,5 +44,5 @@ Accomplishment
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-kun-yen-huang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

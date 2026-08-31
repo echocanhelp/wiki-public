@@ -22,5 +22,5 @@ The Taiwanese Student Association (TSA) at the University of California, Irvine 
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-student-association-at-uc-irvine/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

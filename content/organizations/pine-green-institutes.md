@@ -22,5 +22,5 @@ Pine Green Institute (松青學院) is a Taiwanese American community learning p
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/pine-green-institutes/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

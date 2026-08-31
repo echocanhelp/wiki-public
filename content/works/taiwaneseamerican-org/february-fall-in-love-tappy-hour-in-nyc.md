@@ -26,11 +26,11 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/february-fall-in-love-tappy-hour-in-nyc|February *Fall in Love* TAPpy Hour in NYC]]
-- [[works/taiwaneseamerican-org/tappy-hour-in-nyc-5|TAPpy Hour in NYC]]
-- [[works/taiwaneseamerican-org/tappy-hour-in-ny-7|TAPpy Hour in NY]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/february-fall-in-love-tappy-hour-in-nyc||February *Fall in Love* TAPpy Hour in NYC]]
+- [[works/taiwaneseamerican-org/tappy-hour-in-nyc-5||TAPpy Hour in NYC]]
+- [[works/taiwaneseamerican-org/tappy-hour-in-ny-7||TAPpy Hour in NY]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

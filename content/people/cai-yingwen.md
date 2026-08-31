@@ -10,6 +10,6 @@ last_reviewed: 2026-08-16
 
 # Moved
 
-Canonical page: **[[people/tsai-ing-wen|Tsai Ing-wen (蔡英文)]]**.
+Canonical page: **[[people/tsai-ing-wen||Tsai Ing-wen (蔡英文)]]**.
 
 Former provisional slug: `cai-yingwen`.

@@ -55,5 +55,5 @@ Professor, Head of Department
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ming-liang-lee/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -80,19 +80,19 @@ Pages that link to **wang-neng-xiang** (wang-neng-xiang):
 
 ### People (3)
 
-1. [[people/wang-gui-rong|wang-gui-rong]]
-2. [[people/zhou-wei-lin|zhou-wei-lin]]
-3. [[people/zhou-wei-lin|zhou-wei-lin]]
+1. [[people/wang-gui-rong||wang-gui-rong]]
+2. [[people/zhou-wei-lin||zhou-wei-lin]]
+3. [[people/zhou-wei-lin||zhou-wei-lin]]
 
 ### Sources (1)
 
-1. [[sources/2017-tahs-publication|2017-tahs-publication]]
+1. [[sources/2017-tahs-publication||2017-tahs-publication]]
 
 ## Source Notes and Confidence
 
 - **Content priority A:** 2017 TAHS Publication (profile Part 1, ~66 lines), co-authored by 楊嘉猷 and 周威霖
 - **Content priority A:** Contains biographical narrative including education, CPA career, and decades of Taiwan democracy advocacy
-- **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
+- **Hub:** [[sources/2017-tahs-publication||2017 TAHS Publication]]
 - **Note:** The full text includes detailed biographical information including family background, education, and decades of advocacy work.
 
 ## Family
@@ -102,10 +102,10 @@ Pages that link to **wang-neng-xiang** (wang-neng-xiang):
 - **Daughter:** 唯禮
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
+- [[organizations/tah-foundation||TAH Foundation]]
 
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/2017-tahs-publication|2017 TAHS Publication]]
-- [[people/yang-jia-you|楊嘉猷 (Charles Yang) — co-author of profile]]
-- [[people/liao-shu-zong|Liao Shu-zong (廖述宗) — fellow democratic activist]]
-- [[people/franklin-ping-cheng|Franklin Ping Cheng (程炳成) — TAHS president]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/2017-tahs-publication||2017 TAHS Publication]]
+- [[people/yang-jia-you||楊嘉猷 (Charles Yang) — co-author of profile]]
+- [[people/liao-shu-zong||Liao Shu-zong (廖述宗) — fellow democratic activist]]
+- [[people/franklin-ping-cheng||Franklin Ping Cheng (程炳成) — TAHS president]]

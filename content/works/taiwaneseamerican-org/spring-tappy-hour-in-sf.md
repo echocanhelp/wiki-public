@@ -26,10 +26,10 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/spring-tappy-hour-in-sf|Spring TAPpy Hour in SF!]]
-- [[works/taiwaneseamerican-org/tappy-hour-in-sf|TAPpy Hour in SF]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/spring-tappy-hour-in-sf||Spring TAPpy Hour in SF!]]
+- [[works/taiwaneseamerican-org/tappy-hour-in-sf||TAPpy Hour in SF]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

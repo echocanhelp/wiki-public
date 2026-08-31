@@ -40,5 +40,5 @@ First President of Taiwanese American Seniors Society of Greater Washington, DCå
 - [TAH Whoâ€™s Who](https://taiwaneseamericanhistory.org/person/dr-jia-huey-lin-yu/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

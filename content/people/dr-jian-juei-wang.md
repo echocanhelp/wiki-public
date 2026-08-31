@@ -33,8 +33,8 @@ Accomplishment
 
 ## Family
 
-- **Wife:** [[people/shiu-sian-angel-hsu-wang|許秀香]]
-- **Son:** [[people/dennis-wang|Dennis Wang]]
+- **Wife:** [[people/shiu-sian-angel-hsu-wang||許秀香]]
+- **Son:** [[people/dennis-wang||Dennis Wang]]
 
 
 ## Sources
@@ -43,5 +43,5 @@ Accomplishment
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-jian-juei-wang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

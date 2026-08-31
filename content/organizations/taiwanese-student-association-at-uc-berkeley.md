@@ -22,5 +22,5 @@ The Taiwanese Student Association (TSA) at the University of California, Berkele
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-student-association-at-uc-berkeley/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

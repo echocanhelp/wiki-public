@@ -22,5 +22,5 @@ The Taiwanese American Center of Northern California (北加州台灣會館, TAC
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-center-of-northern-california/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

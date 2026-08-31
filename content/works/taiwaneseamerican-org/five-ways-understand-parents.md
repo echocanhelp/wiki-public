@@ -13,7 +13,7 @@ last_reviewed: 2026-08-20
 - Era: 2017
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
-- Source org: [[organizations/taiwaneseamerican-org]]
+- Source org: [[organizations/taiwaneseamerican-org]]]]
 
 ## Record
 - **Date:** 2017-09-30
@@ -68,6 +68,6 @@ Evita Wong blogs at www.momtakeone.com about the complicated and joy-filled expe
 - Perspectives
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[organizations/taiwaneseamerican-org]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[organizations/taiwaneseamerican-org]]]]
+- [[sources/taiwaneseamerican-org||Source hub]]

@@ -42,5 +42,5 @@ Currently a freelance musician in Washington D.C area, trombonist Huai-En Tsai è
 - [TAH Whoâ€™s Who](https://taiwaneseamericanhistory.org/person/huai-en-tsai/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

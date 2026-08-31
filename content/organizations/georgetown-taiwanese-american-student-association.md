@@ -22,5 +22,5 @@ The Georgetown Taiwanese American Student Association (TASA) is a student organi
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/georgetown-taiwanese-american-student-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

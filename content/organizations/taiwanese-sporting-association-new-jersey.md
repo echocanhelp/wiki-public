@@ -22,5 +22,5 @@ The Taiwanese Sporting Association of New Jersey is a community organization cen
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-sporting-association-new-jersey/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

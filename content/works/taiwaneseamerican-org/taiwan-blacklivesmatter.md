@@ -13,7 +13,7 @@ last_reviewed: 2026-08-20
 - Era: 2016
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
-- Source org: [[organizations/taiwaneseamerican-org]]
+- Source org: [[organizations/taiwaneseamerican-org]]]]
 
 ## Record
 - **Date:** 2016-07-07
@@ -102,6 +102,6 @@ Update: This piece was written with Reynolds’ description of the shooter as As
 - Social/Politics
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[organizations/taiwaneseamerican-org]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[organizations/taiwaneseamerican-org]]]]
+- [[sources/taiwaneseamerican-org||Source hub]]

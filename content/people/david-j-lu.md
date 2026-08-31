@@ -50,5 +50,5 @@ PhD, International Law and International Relations
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/david-j-lu/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

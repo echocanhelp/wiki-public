@@ -22,5 +22,5 @@ The Universal Door Foundation was cofounded to bridge cultural and generational 
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/universal-door-foundation/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

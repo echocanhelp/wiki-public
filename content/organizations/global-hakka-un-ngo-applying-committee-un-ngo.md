@@ -22,5 +22,5 @@ The Global Hakka UN NGO Applying Committee (協進會) was established on August
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/global-hakka-un-ngo-applying-committee-un-ngo/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

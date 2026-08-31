@@ -43,5 +43,5 @@ Resident Physician, Chief Physician, Lecturer, Assistant Professor
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-tong-y-chen/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

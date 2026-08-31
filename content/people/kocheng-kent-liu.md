@@ -33,7 +33,7 @@ Accomplishment
 
 ## Family
 
-- **Wife:** [[people/debra-liu|謝金朱]]
+- **Wife:** [[people/debra-liu||謝金朱]]
 - **Daughter:** Janet Formosa (劉怡真), Yileen Formosa(劉怡鈴)
 
 
@@ -43,5 +43,5 @@ Accomplishment
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kocheng-kent-liu/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

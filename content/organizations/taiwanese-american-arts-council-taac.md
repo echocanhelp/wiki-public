@@ -22,5 +22,5 @@ The Taiwanese American Arts Council (TAAC) was established in 2014 to carry forw
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-arts-council-taac/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

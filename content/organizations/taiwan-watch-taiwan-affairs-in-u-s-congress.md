@@ -22,5 +22,5 @@ Taiwan Watch is an organization based in Houston, Texas that monitors and tracks
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwan-watch-taiwan-affairs-in-u-s-congress/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

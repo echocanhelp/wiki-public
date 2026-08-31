@@ -22,5 +22,5 @@ Neo Art League is a professional artists association founded in 2006 by Taiwanes
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/neo-art-league/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

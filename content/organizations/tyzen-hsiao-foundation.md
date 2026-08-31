@@ -22,6 +22,6 @@ The Tyzen Hsiao Foundation is a nonprofit organization dedicated to promoting th
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/tyzen-hsiao-foundation/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[people/tyzen-hsiao|Tyzen Hsiao (蕭泰然)]]
-- [[organizations/tyzen-hsiao-music-works|TYZEN HSIAO MUSIC WORKS]] — TAH lists a second org; not merged
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[people/tyzen-hsiao||Tyzen Hsiao (蕭泰然)]]
+- [[organizations/tyzen-hsiao-music-works||TYZEN HSIAO MUSIC WORKS]] — TAH lists a second org; not merged

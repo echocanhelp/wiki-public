@@ -42,5 +42,5 @@ Dr. Edward T. S. Huang 黃東昇博士 – History of Taiwanese American (T.A. A
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-edward-t-s-huang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

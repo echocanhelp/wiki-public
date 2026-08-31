@@ -41,5 +41,5 @@ Dr. Min Hsiung Liang 梁敏雄博士 – History of Taiwanese American (T.A. Arc
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-min-hsiung-liang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

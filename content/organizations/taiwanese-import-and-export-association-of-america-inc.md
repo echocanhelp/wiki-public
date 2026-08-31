@@ -22,5 +22,5 @@ The Taiwanese Import and Export Association of America is a business association
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-import-and-export-association-of-america-inc/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -22,5 +22,5 @@ The Duke Taiwanese Student Association (DTSA) is a graduate and professional stu
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/duke-taiwanese-student-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

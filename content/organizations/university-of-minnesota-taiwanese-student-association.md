@@ -22,5 +22,5 @@ The University of Minnesota Taiwanese Student Association (UMNTSA), also referre
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/university-of-minnesota-taiwanese-student-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -26,10 +26,10 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/myx-tv-covers-taiwaneseamerican-orgs-to-the-top-concert-event|MYX.tv Covers TaiwaneseAmerican.org&#8217;s &#8220;To the Top&#8221; Concert Event]]
-- [[organizations/taiwaneseamerican-org|TaiwaneseAmerican.org]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/myx-tv-covers-taiwaneseamerican-orgs-to-the-top-concert-event||MYX.tv Covers TaiwaneseAmerican.org&#8217;s &#8220;To the Top&#8221; Concert Event]]
+- [[organizations/taiwaneseamerican-org||TaiwaneseAmerican.org]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

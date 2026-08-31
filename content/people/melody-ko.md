@@ -30,7 +30,7 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Father:** [[people/kenneth-ko|柯吉文]]
+- **Father:** [[people/kenneth-ko||柯吉文]]
 - **Mother:** 王瑞玲
 
 
@@ -39,5 +39,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/melody-ko/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

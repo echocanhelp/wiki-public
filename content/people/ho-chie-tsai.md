@@ -23,7 +23,7 @@ last_reviewed: 2026-08-17
 - **Role:** Founder, TaiwaneseAmerican.org
 - **Profession:** Board-certified pediatrician
 - **Affiliation:** UCSF Benioff Children's Hospital
-- **Organizations:** [[organizations/taiwan-american-foundation|Taiwanese American Foundation]] (TAF); Taiwanese American Professionals in San Francisco
+- **Organizations:** [[organizations/taiwan-american-foundation||Taiwanese American Foundation]] (TAF); Taiwanese American Professionals in San Francisco
 - **Geography:** San Francisco Bay Area / Northern California
 - **Heritage:** Second-generation Taiwanese American
 
@@ -47,7 +47,7 @@ Ho Chie is a **board-certified pediatrician** on staff at the **UCSF Benioff Chi
 
 - **Content priority A:** 2017 TAHS Publication (profile Part 2, ~130 lines), written by 楊遠薰
 - **Content priority A:** Contains biographical narrative including professional career and community involvement
-- **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
+- **Hub:** [[sources/2017-tahs-publication||2017 TAHS Publication]]
 - **Note:** The full text includes detailed biographical information including education, professional career, and community involvement.
 
 <!-- tah-tables:start -->
@@ -64,11 +64,11 @@ Ho Chie is a **board-certified pediatrician** on staff at the **UCSF Benioff Chi
 - [TaiwaneseAmerican.org Staff](https://www.taiwaneseamerican.org/about/staff/) — Founder / founding board (2026-08-20)
 
 ## Related Pages
-- [[organizations/taiwaneseamerican-org|TaiwaneseAmerican.org]]
-- [[sources/taiwaneseamerican-org]]
-- [[organizations/tah-foundation|TAH Foundation]]
+- [[organizations/taiwaneseamerican-org||TaiwaneseAmerican.org]]
+- [[sources/taiwaneseamerican-org]]]]
+- [[organizations/tah-foundation||TAH Foundation]]
 
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/2017-tahs-publication|2017 TAHS Publication]]
-- [[people/franklin-ping-cheng|Franklin Ping Cheng (程炳成) — TAHS president]]
-- [[people/yang-jia-you|Charles Yang (楊嘉猷) — TAHS founding president]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/2017-tahs-publication||2017 TAHS Publication]]
+- [[people/franklin-ping-cheng||Franklin Ping Cheng (程炳成) — TAHS president]]
+- [[people/yang-jia-you||Charles Yang (楊嘉猷) — TAHS founding president]]

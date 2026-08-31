@@ -22,5 +22,5 @@ SoCal Taiwanese Biotechnology Association (SoCal TBA) is a non-profit organizati
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/socal-taiwanese-biotechnology-association-socal-tba/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -22,5 +22,5 @@ The Chinese and Taiwanese Student Association (CATSA) is a recognized student or
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/chinese-and-taiwanese-student-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

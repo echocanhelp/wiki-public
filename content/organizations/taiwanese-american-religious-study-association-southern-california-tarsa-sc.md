@@ -22,5 +22,5 @@ The Taiwanese-American Religious Study Association Southern California (TARSA-SC
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-religious-study-association-southern-california-tarsa-sc/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

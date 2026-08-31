@@ -33,7 +33,7 @@ last_reviewed: 2026-08-17
 ## Family
 
 - **Wife:** 趙郁芬
-- **Daughter:** [[people/jen-kao|高嘉旎]]
+- **Daughter:** [[people/jen-kao||高嘉旎]]
 - **Son:** 高凱麟
 
 
@@ -43,5 +43,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/min-kao/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

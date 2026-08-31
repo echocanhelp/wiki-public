@@ -40,5 +40,5 @@ San Francisco’s School of the Arts, University High School, Department of Indi
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/anita-wen-shin-chang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

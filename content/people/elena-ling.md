@@ -42,5 +42,5 @@ Vice President of International Federation of Business and Professional Women, T
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/elena-ling/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

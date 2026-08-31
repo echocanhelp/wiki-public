@@ -15,14 +15,14 @@ source_note: "TAHS 2025 org chart 財務 柯貝昀; owner confirmed = Phoenix Ko
 ---
 # Phoenix Ko (柯貝昀)
 
-**Phoenix Ko** (柯貝昀) serves as **財務 (Finance), TAHS 2025** of the [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS / 台美人歷史協會)]].
+**Phoenix Ko** (柯貝昀) serves as **財務 (Finance), TAHS 2025** of the [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society (TAHS / 台美人歷史協會)]].
 
 ## Identity Snapshot
 - **English:** Phoenix Ko
 - **Chinese:** 柯貝昀
 - **LINE displayName:** `Phoenix Ko`
 - **Core role (2025):** 財務 (Finance)
-- **Organization:** [[organizations/taiwanese-american-historical-society|TAHS]]
+- **Organization:** [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Overview
 
@@ -46,20 +46,20 @@ Private phones and LINE U-ids are **not** published here.
 
 ## Network
 
-- [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
-- [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]] — President (會長), 2025–
-- [[people/yang-jia-you|Charles Yang (楊嘉猷)]] — Founding president (創會會長)
-- [[people/roger-tsai|Roger Tsai (蔡漢成)]] — Vice president
-- [[people/freeman-huang|Freeman Huang (黃樹人)]] — Secretary-general (秘書長)
-- [[people/linda-liu|Linda Liu (劉玲華)]] — Advisor
-- [[people/john-yang|John Yang (楊錦忠)]] — Special assistant
-- [[people/paul-chen|Paul Chen (陳柏宇)]] — Finance guidance chair (會務指導會 / 會計)
+- [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society (TAHS)]]
+- [[people/leonard-hsu-jr||Leonard Hsu Jr. (許景鴻)]] — President (會長), 2025–
+- [[people/yang-jia-you||Charles Yang (楊嘉猷)]] — Founding president (創會會長)
+- [[people/roger-tsai||Roger Tsai (蔡漢成)]] — Vice president
+- [[people/freeman-huang||Freeman Huang (黃樹人)]] — Secretary-general (秘書長)
+- [[people/linda-liu||Linda Liu (劉玲華)]] — Advisor
+- [[people/john-yang||John Yang (楊錦忠)]] — Special assistant
+- [[people/paul-chen||Paul Chen (陳柏宇)]] — Finance guidance chair (會務指導會 / 會計)
 
 ## Related Pages
 
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]]
-- [[people/paul-chen|Paul Chen (陳柏宇)]] (會務指導會主席 — 會計)
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[people/leonard-hsu-jr||Leonard Hsu Jr. (許景鴻)]]
+- [[people/paul-chen||Paul Chen (陳柏宇)]] (會務指導會主席 — 會計)
 
 ## Sources
 

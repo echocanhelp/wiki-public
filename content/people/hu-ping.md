@@ -14,7 +14,7 @@ last_reviewed: 2026-08-21
 
 # Hu Ping / 胡平
 
-**Hu Ping** (胡平) appears in the [[organizations/taiwanjustice-net|taiwanjustice.net (台灣公義網)]] archive. Echopedia keeps this page because **that archive is part of the community’s reading life**.
+**Hu Ping** (胡平) appears in the [[organizations/taiwanjustice-net||taiwanjustice.net (台灣公義網)]] archive. Echopedia keeps this page because **that archive is part of the community’s reading life**.
 
 He is included as an **ally and contributor in the record** — someone whose work or presence the community read and preserved. The page is about that shared reading life, not a claim about his own community identity.
 
@@ -25,56 +25,56 @@ He is included as an **ally and contributor in the record** — someone whose wo
 - **In this archive:** taiwanjustice.net
 - **How we list him:** Ally / contributor in a Taiwanese American media archive
 
-Related: [[organizations/taiwanjustice-net|taiwanjustice.net (台灣公義網)]]
+Related: [[organizations/taiwanjustice-net||taiwanjustice.net (台灣公義網)]]
 
 ## TJ Citations
 
 Top 10 articles from taiwanjustice.net mentioning hu-ping:
 
-1. **2022-02-09** — [[articles/taiwanjustice-net/2024/20240715150935_root_381c41cc0d0733ac|陳破空專欄]]
+1. **2022-02-09** — [[articles/taiwanjustice-net/2024/20240715150935_root_381c41cc0d0733ac||陳破空專欄]]
    - *February 9, 2022...*
    - Score: 785
-2. **2023-01-06** — [[articles/taiwanjustice-net/2024/20240221105603_root_7f811410f303ac59|國際要聞]]
+2. **2023-01-06** — [[articles/taiwanjustice-net/2024/20240221105603_root_7f811410f303ac59||國際要聞]]
    - *January 6, 2023...*
    - Score: 720
-3. **2017-11-30** — [[articles/taiwanjustice-net/2017/20171220122636_2017_11_30_她們_就是我們-趙思樂_她們的征途_上-_-余_cf3667da25193e54|「她們」就是我們—趙思樂《她們的征途》(上)  ◎ 余杰 /民報 2017-11-27]]
+3. **2017-11-30** — [[articles/taiwanjustice-net/2017/20171220122636_2017_11_30_她們_就是我們-趙思樂_她們的征途_上-_-余_cf3667da25193e54||「她們」就是我們—趙思樂《她們的征途》(上)  ◎ 余杰 /民報 2017-11-27]]
    - *中國的民主化尚未啓動，但中國人從未放棄民主夢和自由夢，那是習近平的中國夢裡嚴重缺席的內容。1949年以來，儘管一直面對亙古未有的中共之獨裁暴政，爲了民主自由而奮鬥的仁人志士依然前仆後繼、絡繹不絕。正在發生的事件，必定成為歷史中不能掩蓋的一部分，若秉持此種信念，書寫者就能秉筆直書，留下驚天地、泣鬼神的...*
    - Score: 325
-4. **2020-05-24** — [[articles/taiwanjustice-net/2022/20221127060450_2020_05_24_王丹-陳破空等民運人士發表聲明_習近平正在摧毀_cbfa794595722afe|王丹 陳破空等民運人士發表聲明：習近平正在摧毀東方之珠！]]
+4. **2020-05-24** — [[articles/taiwanjustice-net/2022/20221127060450_2020_05_24_王丹-陳破空等民運人士發表聲明_習近平正在摧毀_cbfa794595722afe||王丹 陳破空等民運人士發表聲明：習近平正在摧毀東方之珠！]]
    - *堅決反對港版國安法，堅定支持港人抗爭...*
    - Score: 270
-5. **2020-05-24** — [[articles/taiwanjustice-net/2025/20251205030738_王丹-陳破空等民運人士發表聲明_習近平正在摧毀_e9a229ea649c7632|王丹 陳破空等民運人士發表聲明：習近平正在摧毀東方之珠！]]
+5. **2020-05-24** — [[articles/taiwanjustice-net/2025/20251205030738_王丹-陳破空等民運人士發表聲明_習近平正在摧毀_e9a229ea649c7632||王丹 陳破空等民運人士發表聲明：習近平正在摧毀東方之珠！]]
    - *堅決反對港版國安法，堅定支持港人抗爭...*
    - Score: 265
-6. **2021-04-28** — [[articles/taiwanjustice-net/2021/20210616084215_2021_04_28_陳破空縱論天下0428_96bd4e78d69b360a|陳破空縱論天下0428]]
+6. **2021-04-28** — [[articles/taiwanjustice-net/2021/20210616084215_2021_04_28_陳破空縱論天下0428_96bd4e78d69b360a||陳破空縱論天下0428]]
    - *專欄陳破空專欄焦點影音我的肥皂箱義論精闢專論影音 陳破空縱論天下0428 April 28, 2021 敬請支持‧歡迎訂閱本報newsletter 廣西透風！習近平承認最困難時刻。他帶給中共接班危機！俄媒看衰中國：不可能主導世界 王岐山洩露高層機密！恐淪為第二個趙紫陽？習近平女兒案，二審維持重判 趙...*
    - Score: 175
-7. **2021-11-13** — [[articles/taiwanjustice-net/2021/20211207125250_2021_11_13_陳昭南專欄_習拜峰會-美中大國和平競爭的新_ded4a67f30b6103b|【陳昭南專欄】習拜峰會—美中大國和平競爭的新起點嗎？]]
+7. **2021-11-13** — [[articles/taiwanjustice-net/2021/20211207125250_2021_11_13_陳昭南專欄_習拜峰會-美中大國和平競爭的新_ded4a67f30b6103b||【陳昭南專欄】習拜峰會—美中大國和平競爭的新起點嗎？]]
    - *作者 陳 昭南 2021 年 11 月 13 日 【六都春秋】...*
    - Score: 175
-8. **2020-04-04** — [[articles/taiwanjustice-net/2025/20250618184457_小英重挫中共大外宣_全球將找習近平算總帳_38778a06b13557e4|小英重挫中共大外宣，全球將找習近平算總帳！◎ 陳昭南]]
+8. **2020-04-04** — [[articles/taiwanjustice-net/2025/20250618184457_小英重挫中共大外宣_全球將找習近平算總帳_38778a06b13557e4||小英重挫中共大外宣，全球將找習近平算總帳！◎ 陳昭南]]
    - *2020-04-04...*
    - Score: 175
-9. **2021-06-16** — [[articles/taiwanjustice-net/2025/20250713120115_陳破空縱論天下0616_bebd7e2c6fe07c7a|陳破空縱論天下0616]]
+9. **2021-06-16** — [[articles/taiwanjustice-net/2025/20250713120115_陳破空縱論天下0616_bebd7e2c6fe07c7a||陳破空縱論天下0616]]
    - *敬請支持‧歡迎訂閱本報newsletter...*
    - Score: 175
-10. **2020-01-02** — [[articles/taiwanjustice-net/2025/20251210000945_陳破空縱論天下影音輯-6_fcda7b115e1afe7d|陳破空縱論天下影音輯]]
+10. **2020-01-02** — [[articles/taiwanjustice-net/2025/20251210000945_陳破空縱論天下影音輯-6_fcda7b115e1afe7d||陳破空縱論天下影音輯]]
    - *103萬！港人大遊行，便衣警作亂。胡總洩露黨國機密。美總統將訪中？美中航母對峙...*
    - Score: 175
 
 ## Works
 
-**胡平** — **0** title hits, **29** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
+**胡平** — **0** title hits, **29** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
 
 ### Body mentions (29)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2024/20240715150935_root_381c41cc0d0733ac|陳破空專欄]]
-2. [[articles/taiwanjustice-net/2024/20240221105603_root_7f811410f303ac59|國際要聞]]
-3. [[articles/taiwanjustice-net/2017/20171220122636_2017_11_30_她們_就是我們-趙思樂_她們的征途_上-_-余_cf3667da25193e54|「她們」就是我們—趙思樂《她們的征途》(上)  ◎ 余杰 /民報 2017-11-27]]
-4. [[articles/taiwanjustice-net/2022/20221127060450_2020_05_24_王丹-陳破空等民運人士發表聲明_習近平正在摧毀_cbfa794595722afe|王丹 陳破空等民運人士發表聲明：習近平正在摧毀東方之珠！]]
-5. [[articles/taiwanjustice-net/2025/20251205030738_王丹-陳破空等民運人士發表聲明_習近平正在摧毀_e9a229ea649c7632|王丹 陳破空等民運人士發表聲明：習近平正在摧毀東方之珠！]]
+1. [[articles/taiwanjustice-net/2024/20240715150935_root_381c41cc0d0733ac||陳破空專欄]]
+2. [[articles/taiwanjustice-net/2024/20240221105603_root_7f811410f303ac59||國際要聞]]
+3. [[articles/taiwanjustice-net/2017/20171220122636_2017_11_30_她們_就是我們-趙思樂_她們的征途_上-_-余_cf3667da25193e54||「她們」就是我們—趙思樂《她們的征途》(上)  ◎ 余杰 /民報 2017-11-27]]
+4. [[articles/taiwanjustice-net/2022/20221127060450_2020_05_24_王丹-陳破空等民運人士發表聲明_習近平正在摧毀_cbfa794595722afe||王丹 陳破空等民運人士發表聲明：習近平正在摧毀東方之珠！]]
+5. [[articles/taiwanjustice-net/2025/20251205030738_王丹-陳破空等民運人士發表聲明_習近平正在摧毀_e9a229ea649c7632||王丹 陳破空等民運人士發表聲明：習近平正在摧毀東方之珠！]]
 
 
 ## Timeline
@@ -226,4 +226,4 @@ Notable quotes and mentions of **胡平** in Taiwan Justice articles:
 
 ## Related Pages
 
-- [[people/albert-s-lai|Dr. Albert S. Lai]]
+- [[people/albert-s-lai||Dr. Albert S. Lai]]

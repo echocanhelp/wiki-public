@@ -36,7 +36,7 @@ His portfolio includes hotels associated with major brands, including properties
 
 Chang was born in Taiwan in 1960 and came to the United States, initially spending time in Japan before settling in New York. He built his career in real estate development, focusing on the hospitality industry.
 
-His profile in the 2017 TAHS publication (菁英錄) was compiled by [[people/zhou-wei-liang|周威廉 (Zhou Weiliang)]], presenting him as a model of Taiwanese American entrepreneurial success on the East Coast.
+His profile in the 2017 TAHS publication (菁英錄) was compiled by [[people/zhou-wei-liang||周威廉 (Zhou Weiliang)]], presenting him as a model of Taiwanese American entrepreneurial success on the East Coast.
 
 
 ## Network
@@ -46,21 +46,21 @@ Pages that link to **sam-chang** (sam-chang):
 
 ### People (1)
 
-1. [[people/zhou-wei-liang|zhou-wei-liang]]
+1. [[people/zhou-wei-liang||zhou-wei-liang]]
 
 ### Sources (1)
 
-1. [[sources/2017-tahs-publication|2017-tahs-publication]]
+1. [[sources/2017-tahs-publication||2017-tahs-publication]]
 
 ## Source Notes and Confidence
 
-- **Content priority A:** 2017 TAHS Publication (Sam Chang 張善良 旅館開發大王), Part 2, ~231 lines, compiled by [[people/zhou-wei-liang|周威廉 (Zhou Weiliang)]]
-- **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
+- **Content priority A:** 2017 TAHS Publication (Sam Chang 張善良 旅館開發大王), Part 2, ~231 lines, compiled by [[people/zhou-wei-liang||周威廉 (Zhou Weiliang)]]
+- **Hub:** [[sources/2017-tahs-publication||2017 TAHS Publication]]
 - **Note:** The full text contains detailed biographical information including his journey from Taiwan to Japan to the US, his real estate development career, and his hotel portfolio.
 
 ## Related Pages
 
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/2017-tahs-publication|2017 TAHS Publication]]
-- [[people/wang-gui-rong|Wang Gui-rong (王桂榮) — fellow hotel developer]]
-- [[people/franklin-ping-cheng|Franklin Ping Cheng (程炳成) — TAHS president]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/2017-tahs-publication||2017 TAHS Publication]]
+- [[people/wang-gui-rong||Wang Gui-rong (王桂榮) — fellow hotel developer]]
+- [[people/franklin-ping-cheng||Franklin Ping Cheng (程炳成) — TAHS president]]

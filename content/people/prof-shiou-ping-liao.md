@@ -41,5 +41,5 @@ Prof. Shiou-Ping Liao 廖修平教授 – History of Taiwanese American (T.A. Ar
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-shiou-ping-liao/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -15,9 +15,9 @@ last_reviewed: 2026-08-17
 ---
 # Rev. David Huang (黃德利)
 
-**Rev. David Huang (黃德利牧師)** is a Taiwanese American Presbyterian minister. TAH Who’s Who lists him as senior pastor of [[organizations/good-shepherd-taiwanese-presbyterian-church|GSTPC]] (1980–2002) and as a 1965 graduate of 台灣神學院. In 2024 he edited the [[organizations/national-taiwanese-presbyterian-council|NTPC]] 50th-anniversary commemorative publication.
+**Rev. David Huang (黃德利牧師)** is a Taiwanese American Presbyterian minister. TAH Who’s Who lists him as senior pastor of [[organizations/good-shepherd-taiwanese-presbyterian-church||GSTPC]] (1980–2002) and as a 1965 graduate of 台灣神學院. In 2024 he edited the [[organizations/national-taiwanese-presbyterian-council||NTPC]] 50th-anniversary commemorative publication.
 
-Not [[people/mao-ching-david-huang|Mao-ching David Huang (黃茂清)]].
+Not [[people/mao-ching-david-huang||Mao-ching David Huang (黃茂清)]].
 
 ## Identity Snapshot
 - **English:** Rev. David Huang
@@ -31,13 +31,13 @@ Not [[people/mao-ching-david-huang|Mao-ching David Huang (黃茂清)]].
 Family fields on TAH are empty (`--`); no relatives invented.
 
 ## Education
-- [[organizations/presbyterian-church-in-taiwan|台灣神學院]] (Taiwan Theological College and Seminary) — 1965 — M.S., Theology (TAH)
+- [[organizations/presbyterian-church-in-taiwan||台灣神學院]] (Taiwan Theological College and Seminary) — 1965 — M.S., Theology (TAH)
 
 ## Employment
 - CCIUSA (美國福音證主協會) — Director — 1970– (TAH; end year not given)
-- [[organizations/good-shepherd-taiwanese-presbyterian-church|GSTPC]] — Senior Pastor — 1980–2002 (TAH)
+- [[organizations/good-shepherd-taiwanese-presbyterian-church||GSTPC]] — Senior Pastor — 1980–2002 (TAH)
 
-Current GSTPC pastor is [[people/mingyuan-hsu|Rev. Mingyuan Hsu (許明遠)]], since July 2019.
+Current GSTPC pastor is [[people/mingyuan-hsu||Rev. Mingyuan Hsu (許明遠)]], since July 2019.
 
 ## Timeline
 - **1965** — 台灣神學院, M.S. Theology
@@ -48,13 +48,13 @@ Current GSTPC pastor is [[people/mingyuan-hsu|Rev. Mingyuan Hsu (許明遠)]], s
 - **1985** — 就任首任牧師 at fifth anniversary (GSTPC40 潘淑姃)
 - **1988** — congregation bought Monterey Park building (GSTPC40)
 - **2021** — GSTPC40 essay《那些人，那些事》; 榮譽牧師 interview listed in TOC
-- **1983** — Co-founded Formosan Outreach Mission (北美宣道會), with [[people/rev-j-m-hsu|Rev. J. M. Hsu (許錦銘)]] listed as co-founder / first president
+- **1983** — Co-founded Formosan Outreach Mission (北美宣道會), with [[people/rev-j-m-hsu||Rev. J. M. Hsu (許錦銘)]] listed as co-founder / first president
 - **2015** — Chairman, World Alliance of Taiwanese Christian Churches (TAH)
 - **2016** — Outstanding Alumni Award, 台灣神學院 (TAH)
 - **2020** — GSTPC series *TPC 50 週年特別節目* (three episodes, 5–19 June)
 - **2024** — NTPC 50th 紀念特刊 總編輯 (invitation PDF; book **not** on the public web)
 - **2025-05** — NTPC 51st panel, Houston 恩惠 (TCNN)
-- **2025** — Named in the [[sources/toward-a-community-of-hope|Toward A Community of Hope]] republication preface cluster
+- **2025** — Named in the [[sources/toward-a-community-of-hope||Toward A Community of Hope]] republication preface cluster
 
 ## Works
 - GSTPC40《那些人，那些事》(2021)
@@ -74,22 +74,22 @@ Pages that link to **david-huang** (david-huang):
 
 ### People (3)
 
-1. [[people/ching-fang-chen|ching-fang-chen]]
-2. [[people/ching-fang-chen|ching-fang-chen]]
-3. [[people/index|index]]
+1. [[people/ching-fang-chen||ching-fang-chen]]
+2. [[people/ching-fang-chen||ching-fang-chen]]
+3. [[people/index||index]]
 
 ### Organizations (2)
 
-1. [[organizations/good-shepherd-taiwanese-presbyterian-church|good-shepherd-taiwanese-presbyterian-church]]
-2. [[organizations/good-shepherd-taiwanese-presbyterian-church|good-shepherd-taiwanese-presbyterian-church]]
+1. [[organizations/good-shepherd-taiwanese-presbyterian-church||good-shepherd-taiwanese-presbyterian-church]]
+2. [[organizations/good-shepherd-taiwanese-presbyterian-church||good-shepherd-taiwanese-presbyterian-church]]
 
 ### Sources (1)
 
-1. [[sources/good-shepherd-taiwanese-presbyterian-church|good-shepherd-taiwanese-presbyterian-church]]
+1. [[sources/good-shepherd-taiwanese-presbyterian-church||good-shepherd-taiwanese-presbyterian-church]]
 
 ## Sources
 1. [TAH Who’s Who — Rev. David Huang](https://taiwaneseamericanhistory.org/person/rev-david-huang/)
-2. [[organizations/national-taiwanese-presbyterian-council|NTPC]] 50th / Historical Committee notes
-3. [[organizations/good-shepherd-taiwanese-presbyterian-church|GSTPC]] — TPC 50 週年特別節目 (2020)
+2. [[organizations/national-taiwanese-presbyterian-council||NTPC]] 50th / Historical Committee notes
+3. [[organizations/good-shepherd-taiwanese-presbyterian-church||GSTPC]] — TPC 50 週年特別節目 (2020)
 4. [GSTPC40 flipbook](https://gstpc.org/home/gstpc40/ebook/) — 許明遠前言; 黃德利《那些人，那些事》
-5. [[sources/good-shepherd-taiwanese-presbyterian-church|GSTPC official site]]
+5. [[sources/good-shepherd-taiwanese-presbyterian-church||GSTPC official site]]

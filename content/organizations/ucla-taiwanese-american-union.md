@@ -22,5 +22,5 @@ The UCLA Taiwanese American Union (TAU) was an undergraduate Taiwanese student o
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/ucla-taiwanese-american-union/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

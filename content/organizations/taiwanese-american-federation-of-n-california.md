@@ -22,5 +22,5 @@ The Taiwanese American Federation of N. California (TAFNC, 北加州台灣同鄉
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-federation-of-n-california/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

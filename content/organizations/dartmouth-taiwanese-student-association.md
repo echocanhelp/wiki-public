@@ -22,5 +22,5 @@ The Dartmouth Taiwanese Student Association (TSA) is the current Taiwanese stude
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/dartmouth-taiwanese-student-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

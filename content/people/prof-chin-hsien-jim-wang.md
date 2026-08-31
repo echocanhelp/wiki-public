@@ -33,7 +33,7 @@ Prof. Chin-Hsien (Jim) Wang 王進賢教授 – History of Taiwanese American (T
 
 ## Family
 
-- **Wife:** [[people/lirong-wang|黃麗蓉]]
+- **Wife:** [[people/lirong-wang||黃麗蓉]]
 - **Daughter:** Nancy, Jeanny, Elaine
 - **Son:** Wilson
 
@@ -44,5 +44,5 @@ Prof. Chin-Hsien (Jim) Wang 王進賢教授 – History of Taiwanese American (T
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-chin-hsien-jim-wang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

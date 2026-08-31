@@ -22,5 +22,5 @@ The Chen Wen-Chen Memorial Foundation was established in memory of Chen Wen-Chen
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/professor-chen-wen-chen-memorial-foundation/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

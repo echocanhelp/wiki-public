@@ -26,10 +26,10 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/karaoke-contest-with-uc-berkeleys-taiwanese-student-association-2|Karaoke Contest with UC Berkeley&#039;s Taiwanese Student Association]]
-- [[organizations/taiwanese-student-association|Taiwanese Student Association]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/karaoke-contest-with-uc-berkeleys-taiwanese-student-association-2||Karaoke Contest with UC Berkeley&#039;s Taiwanese Student Association]]
+- [[organizations/taiwanese-student-association||Taiwanese Student Association]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

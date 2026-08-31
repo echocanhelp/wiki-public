@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/young-lees-band-the-soonest-performs-in-san-jose-ca|Young Lee&#8217;s Band &#8220;The Soonest&#8221; Performs in San Jose, CA]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/young-lees-band-the-soonest-performs-in-san-jose-ca||Young Lee&#8217;s Band &#8220;The Soonest&#8221; Performs in San Jose, CA]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

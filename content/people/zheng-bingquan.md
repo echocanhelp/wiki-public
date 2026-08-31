@@ -23,74 +23,74 @@ Related: [Taiwanese American Historical Society](/organizations/taiwanese-americ
 
 Top 10 articles from taiwanjustice.net mentioning zheng-bingquan:
 
-1. **2017-11-13** — [[articles/taiwanjustice-net/2024/20240221113229_root_17825a06f4cdbb6f|林保華專欄]]
+1. **2017-11-13** — [[articles/taiwanjustice-net/2024/20240221113229_root_17825a06f4cdbb6f||林保華專欄]]
    - *November 13, 2017...*
    - Score: 825
-2. **2022-07-10** — [[articles/taiwanjustice-net/2024/20240425084829_root_b5c9f6bb0360ed23|陳茂雄專欄]]
+2. **2022-07-10** — [[articles/taiwanjustice-net/2024/20240425084829_root_b5c9f6bb0360ed23||陳茂雄專欄]]
    - *高雄的民主水準居冠 ◎ 陳茂雄...*
    - Score: 825
-3. **2017-03-07** — [[articles/taiwanjustice-net/2024/20240715140333_root_de6de376c47e0ff9|余杰專欄]]
+3. **2017-03-07** — [[articles/taiwanjustice-net/2024/20240715140333_root_de6de376c47e0ff9||余杰專欄]]
    - *March 7, 2017...*
    - Score: 825
-4. **2017-11-22** — [[articles/taiwanjustice-net/2024/20240221105045_root_4b96e7a2f9d76692|專欄]]
+4. **2017-11-22** — [[articles/taiwanjustice-net/2024/20240221105045_root_4b96e7a2f9d76692||專欄]]
    - *監察權的謬誤 ◎ 陳茂雄 2017-11-22...*
    - Score: 820
-5. **2022-08-22** — [[articles/taiwanjustice-net/2024/20240619175142_root_e903f760568c0883|余杰專欄]]
+5. **2022-08-22** — [[articles/taiwanjustice-net/2024/20240619175142_root_e903f760568c0883||余杰專欄]]
    - *跟習近平聊天是雞同鴨講-范疇《與習近平聊聊台灣和中國》◎ 余傑...*
    - Score: 810
-6. **2017-01-30** — [[articles/taiwanjustice-net/2024/20240616123010_root_e9a4d38b79b420ee|余杰專欄]]
+6. **2017-01-30** — [[articles/taiwanjustice-net/2024/20240616123010_root_e9a4d38b79b420ee||余杰專欄]]
    - *January 30, 2017...*
    - Score: 805
-7. **2024-04-24** — [[articles/taiwanjustice-net/2024/20240425072010_root_e39ecec0fdeb18d2|台灣頭條]]
+7. **2024-04-24** — [[articles/taiwanjustice-net/2024/20240425072010_root_e39ecec0fdeb18d2||台灣頭條]]
    - *April 24, 2024...*
    - Score: 800
-8. **2023-07-30** — [[articles/taiwanjustice-net/2024/20240425083432_root_99aaa4abcb78ff6d|台美人台加人]]
+8. **2023-07-30** — [[articles/taiwanjustice-net/2024/20240425083432_root_99aaa4abcb78ff6d||台美人台加人]]
    - *July 30, 2023...*
    - Score: 800
-9. **2023-08-12** — [[articles/taiwanjustice-net/2024/20240719130745_root_c122ab4d6dc8d2cf|2012大選]]
+9. **2023-08-12** — [[articles/taiwanjustice-net/2024/20240719130745_root_c122ab4d6dc8d2cf||2012大選]]
    - *August 12, 2023...*
    - Score: 800
-10. **2018-01-04** — [[articles/taiwanjustice-net/2024/20240224183824_root_3a00a14a809ec2ca|大洛杉磯台灣會館]]
+10. **2018-01-04** — [[articles/taiwanjustice-net/2024/20240224183824_root_3a00a14a809ec2ca||大洛杉磯台灣會館]]
    - *January 4, 2018...*
    - Score: 795
 
 
 ## Works
 
-**鄭炳全** — **11** title hits, **1101** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
+**鄭炳全** — **11** title hits, **1101** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
 
 ### 2025 (3)
 
-1. [[articles/taiwanjustice-net/2025/20250518221601_2020-父親節省思-_-鄭炳全_9e40a0c476bdcb3e|2020 父親節省思 ◎ 鄭炳全]]
-2. [[articles/taiwanjustice-net/2025/20250422123615_白目-_-鄭炳全_ec0a3a7d2ca44bd8|白目 ◎ 鄭炳全]]
-3. [[articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16|旅美五十周年 ◎ 鄭炳全]]
+1. [[articles/taiwanjustice-net/2025/20250518221601_2020-父親節省思-_-鄭炳全_9e40a0c476bdcb3e||2020 父親節省思 ◎ 鄭炳全]]
+2. [[articles/taiwanjustice-net/2025/20250422123615_白目-_-鄭炳全_ec0a3a7d2ca44bd8||白目 ◎ 鄭炳全]]
+3. [[articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16||旅美五十周年 ◎ 鄭炳全]]
 
 ### 2024 (6)
 
-1. [[articles/taiwanjustice-net/2024/20240302045006_root_d28fb8cc7aa276a9|鄭炳全專欄]]
-2. [[articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3|旅美五十周年 ◎ 鄭炳全]]
-3. [[articles/taiwanjustice-net/2024/20240302032630_root_bab8519c6175a23d|鄭炳全專欄]]
-4. [[articles/taiwanjustice-net/2024/20240302031437_root_94462e51786e65a9|鄭炳全專欄]]
-5. [[articles/taiwanjustice-net/2024/20240302030103_root_84679a504636036c|鄭炳全專欄]]
-6. [[articles/taiwanjustice-net/2024/20240225150548_root_7f860f63a5da50fc|鄭炳全專欄]]
+1. [[articles/taiwanjustice-net/2024/20240302045006_root_d28fb8cc7aa276a9||鄭炳全專欄]]
+2. [[articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3||旅美五十周年 ◎ 鄭炳全]]
+3. [[articles/taiwanjustice-net/2024/20240302032630_root_bab8519c6175a23d||鄭炳全專欄]]
+4. [[articles/taiwanjustice-net/2024/20240302031437_root_94462e51786e65a9||鄭炳全專欄]]
+5. [[articles/taiwanjustice-net/2024/20240302030103_root_84679a504636036c||鄭炳全專欄]]
+6. [[articles/taiwanjustice-net/2024/20240225150548_root_7f860f63a5da50fc||鄭炳全專欄]]
 
 ### 2023 (1)
 
-1. [[articles/taiwanjustice-net/2023/20231208115508_root_424807cb69255dea|鄭炳全專欄]]
+1. [[articles/taiwanjustice-net/2023/20231208115508_root_424807cb69255dea||鄭炳全專欄]]
 
 ### 2021 (1)
 
-1. [[articles/taiwanjustice-net/2021/20210415104102_2021_03_30_白目-_-鄭炳全_5c6be7cd75f23adf|白目 ◎ 鄭炳全]]
+1. [[articles/taiwanjustice-net/2021/20210415104102_2021_03_30_白目-_-鄭炳全_5c6be7cd75f23adf||白目 ◎ 鄭炳全]]
 
 ### Body mentions (1101)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2024/20240520034013_root_6f2b431c9cb0cca9|台美人台加人]]
-2. [[articles/taiwanjustice-net/2024/20240421185358_root_09926246802abc6a|台美人台加人]]
-3. [[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea|台美人台加人]]
-4. [[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3|台美人台加人]]
-5. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596|台美人台加人]]
+1. [[articles/taiwanjustice-net/2024/20240520034013_root_6f2b431c9cb0cca9||台美人台加人]]
+2. [[articles/taiwanjustice-net/2024/20240421185358_root_09926246802abc6a||台美人台加人]]
+3. [[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea||台美人台加人]]
+4. [[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3||台美人台加人]]
+5. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596||台美人台加人]]
 
 
 ## Timeline
@@ -10823,4 +10823,4 @@ Notable quotes and mentions of **鄭炳全** in Taiwan Justice articles:
 
 ## Related Pages
 
-- [[people/albert-s-lai|Dr. Albert S. Lai]]
+- [[people/albert-s-lai||Dr. Albert S. Lai]]

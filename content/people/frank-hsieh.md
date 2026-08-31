@@ -12,7 +12,7 @@ name_en: "Frank Hsieh"
 ---
 # Frank Hsieh (謝長廷)
 
-**Frank Hsieh** (謝長廷) appears extensively in the [[sources/taiwanjustice-net|taiwanjustice.net]] archive (**22** article hits by title/topic extraction). This is a **thin A-tier** page for graph linking — not a full biography.
+**Frank Hsieh** (謝長廷) appears extensively in the [[sources/taiwanjustice-net||taiwanjustice.net]] archive (**22** article hits by title/topic extraction). This is a **thin A-tier** page for graph linking — not a full biography.
 
 ## Identity Snapshot
 
@@ -25,8 +25,8 @@ name_en: "Frank Hsieh"
 
 - **Content priority A:** Article hit count (22) from `knowledge/research/taiwanjustice-net-entities.md` (title extraction)
 - **Content priority B:** Public office / role labels from secondary knowledge used only for disambiguation — expand only with primary sources
-- **Hub:** [[sources/taiwanjustice-net|taiwanjustice.net source hub]]
-- **Primary org:** [[organizations/taiwanjustice-net|taiwanjustice.net (台灣公義網)]]
+- **Hub:** [[sources/taiwanjustice-net||taiwanjustice.net source hub]]
+- **Primary org:** [[organizations/taiwanjustice-net||taiwanjustice.net (台灣公義網)]]
 - **Do not invent:** No birth data, family, or private contact on this page
 
 <!-- tah-tables:start -->
@@ -43,9 +43,9 @@ name_en: "Frank Hsieh"
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/frank-hsieh/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
+- [[organizations/tah-foundation||TAH Foundation]]
 
-- [[sources/taiwanjustice-net|taiwanjustice.net source hub]]
-- [[organizations/taiwanjustice-net|taiwanjustice.net (台灣公義網)]]
-- [[articles/taiwanjustice-net/index|taiwanjustice.net Article Archive]]
-- [[people/freeman-huang|Freeman Huang (黃樹人)]]
+- [[sources/taiwanjustice-net||taiwanjustice.net source hub]]
+- [[organizations/taiwanjustice-net||taiwanjustice.net (台灣公義網)]]
+- [[articles/taiwanjustice-net/index||taiwanjustice.net Article Archive]]
+- [[people/freeman-huang||Freeman Huang (黃樹人)]]

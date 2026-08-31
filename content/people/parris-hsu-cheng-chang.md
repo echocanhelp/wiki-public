@@ -49,5 +49,5 @@ PARRIS HSU-CHENG CHANG 張旭成 – History of Taiwanese American (T.A. Archive
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/parris-hsu-cheng-chang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

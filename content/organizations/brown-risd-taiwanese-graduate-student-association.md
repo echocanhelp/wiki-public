@@ -22,5 +22,5 @@ The Brown/RISD Taiwanese Graduate Student Association is a student group serving
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/brown-risd-taiwanese-graduate-student-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

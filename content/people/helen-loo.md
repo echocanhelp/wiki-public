@@ -30,7 +30,7 @@ Accomplishment
 
 ## Family
 
-- **Husband:** [[people/tsu-yi-jay-loo|盧主義]]
+- **Husband:** [[people/tsu-yi-jay-loo||盧主義]]
 
 
 ## Sources
@@ -38,5 +38,5 @@ Accomplishment
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/helen-loo/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -17,7 +17,7 @@ categories:
 - taiwaneseamerican
 - taiwan-news
 authors:
-  - [[people/tang-peili|唐培理]]
+  - [[people/tang-peili||唐培理]]
 ---
 
 《撲火飛蛾》(Fireproof Moth)的作者，關切台灣民主政治和人權而於1971年被國民黨政府驅逐的美國宣教師唐培禮（Milo Thornberry），2017年3月8日於奧瑞岡州去世。

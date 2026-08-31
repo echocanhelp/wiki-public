@@ -22,5 +22,5 @@ The Taiwanese Association of Syracuse (雪城台灣同鄉會) is a local chapter
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-syracuse/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

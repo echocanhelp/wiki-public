@@ -32,7 +32,7 @@ Accomplishment
 
 ## Family
 
-- **Wife:** [[people/maysing-huang|楊黃美幸]]
+- **Wife:** [[people/maysing-huang||楊黃美幸]]
 - **Son:** Welly Yang (楊呈偉)
 
 
@@ -41,5 +41,5 @@ Accomplishment
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-tzu-shong-yang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

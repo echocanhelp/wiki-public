@@ -45,5 +45,5 @@ Senior Staff Engineer to Engineering Consultant
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/li-shun-lu/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

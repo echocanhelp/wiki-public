@@ -35,7 +35,7 @@ last_reviewed: 2026-08-17
 ## Family
 
 - **Wife:** 陳麗貞
-- **Daughter:** [[people/flora-kao|Flora Kao]]
+- **Daughter:** [[people/flora-kao||Flora Kao]]
 - **Daughter:** Michelle Kao
 - **Daughter:** Sophia Kao
 
@@ -45,5 +45,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/cheng-yan-kao/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

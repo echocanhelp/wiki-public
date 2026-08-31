@@ -22,5 +22,5 @@ The Taiwanese Undergraduate Student Organization (TUSO) at the University of Wis
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-undergraduate-student-organization/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

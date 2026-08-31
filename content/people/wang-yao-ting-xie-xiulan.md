@@ -99,17 +99,17 @@ Wang Yao-ting was born in 1941 in Taichung during Japanese colonial rule. He gre
 
 - **Content priority A:** 2023 TAHS Publication (profile, Part 2)
 - **Content priority A:** 2017 TAHS Publication (profile, Part 1)
-- **Hub:** [[sources/2023-tahs-publication|2023 TAHS Publication]]
-- **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
+- **Hub:** [[sources/2023-tahs-publication||2023 TAHS Publication]]
+- **Hub:** [[sources/2017-tahs-publication||2017 TAHS Publication]]
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/y-t-wang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
+- [[organizations/tah-foundation||TAH Foundation]]
 
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/2023-tahs-publication|2023 TAHS Publication]]
-- [[sources/2017-tahs-publication|2017 TAHS Publication]]
-- [[people/zheng-bing-quan|Zheng Bingquan (鄭炳全)]]
-- [[people/yang-jia-you|Charles Yang (楊嘉猷)]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/2023-tahs-publication||2023 TAHS Publication]]
+- [[sources/2017-tahs-publication||2017 TAHS Publication]]
+- [[people/zheng-bing-quan||Zheng Bingquan (鄭炳全)]]
+- [[people/yang-jia-you||Charles Yang (楊嘉猷)]]

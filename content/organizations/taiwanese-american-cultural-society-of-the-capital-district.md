@@ -22,5 +22,5 @@ The Taiwanese American Cultural Society of the Capital District, Inc. (TACS) is 
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-cultural-society-of-the-capital-district/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

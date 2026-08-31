@@ -26,10 +26,10 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/private-tap-comedy-night-with-eliot-chang-in-nyc|Private TAP Comedy Night with Eliot Chang in NYC]]
-- [[works/taiwaneseamerican-org/tap-comedy-night-with-eliot-chang-in-nyc|TAP Comedy Night with Eliot Chang in NYC]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/private-tap-comedy-night-with-eliot-chang-in-nyc||Private TAP Comedy Night with Eliot Chang in NYC]]
+- [[works/taiwaneseamerican-org/tap-comedy-night-with-eliot-chang-in-nyc||TAP Comedy Night with Eliot Chang in NYC]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

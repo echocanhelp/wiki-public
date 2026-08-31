@@ -47,5 +47,5 @@ Pianist Dr. Ching-Ming Cheng, a native of Taiwan. Dr. Cheng holds a bachelor’s
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ching-ming-cheng/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

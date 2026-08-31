@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/yes-were-open-starring-lynn-chen-screens-in-chicago|Yes, We&#8217;re Open &#8211; Starring Lynn Chen Screens in Chicago]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/yes-were-open-starring-lynn-chen-screens-in-chicago||Yes, We&#8217;re Open &#8211; Starring Lynn Chen Screens in Chicago]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

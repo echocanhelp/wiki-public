@@ -40,5 +40,5 @@ Esther C. Lin is a versatile Taiwanese American artist. President of Taiwan Cent
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/esther-c-lin/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

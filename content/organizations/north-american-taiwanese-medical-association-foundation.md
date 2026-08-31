@@ -22,5 +22,5 @@ The NATMA Foundation is a distinct tax-exempt nonprofit corporation entity of th
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/north-american-taiwanese-medical-association-foundation/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

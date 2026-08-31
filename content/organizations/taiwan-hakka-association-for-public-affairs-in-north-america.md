@@ -22,5 +22,5 @@ Taiwan Hakka Association for Public Affairs in North America (HAPA-NA) is the fi
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwan-hakka-association-for-public-affairs-in-north-america/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

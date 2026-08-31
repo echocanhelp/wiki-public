@@ -34,7 +34,7 @@ Accomplishment
 ## Family
 
 - **Wife:** Kate Judge
-- **Father:** [[people/dr-min-da-wu-m-d|吳明達]]
+- **Father:** [[people/dr-min-da-wu-m-d||吳明達]]
 - **Mother:** Gillian Wu
 
 
@@ -44,5 +44,5 @@ Accomplishment
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tim-wu/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

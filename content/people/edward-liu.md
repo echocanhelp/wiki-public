@@ -31,7 +31,7 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Wife:** [[people/ingrid-tseng|曾暎貴]]
+- **Wife:** [[people/ingrid-tseng||曾暎貴]]
 - **Daughter:** Jenny
 - **Son:** Jasper
 
@@ -41,5 +41,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/edward-liu/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

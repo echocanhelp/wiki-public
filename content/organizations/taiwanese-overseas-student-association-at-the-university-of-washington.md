@@ -22,5 +22,5 @@ The Taiwanese Overseas Student Association at the University of Washington (TOSA
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-overseas-student-association-at-the-university-of-washington/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

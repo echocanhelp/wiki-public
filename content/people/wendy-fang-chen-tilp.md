@@ -34,8 +34,8 @@ Wendy Fang Chen, pianist and composer born in Brooklyn of Taiwanese descent earn
 - **Husband:** Robert Tilp
 - **Daughter:** Danielle Chen Tilp
 - **Son:** Brandon Chen Tilp
-- **Father:** [[people/wen-jer-chen|Wen Jer Chen]]
-- **Mother:** [[people/patsy-fang-chen|Patsy Fang Chen]]
+- **Father:** [[people/wen-jer-chen||Wen Jer Chen]]
+- **Mother:** [[people/patsy-fang-chen||Patsy Fang Chen]]
 
 
 ## Sources
@@ -45,5 +45,5 @@ Wendy Fang Chen, pianist and composer born in Brooklyn of Taiwanese descent earn
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/wendy-fang-chen-tilp/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

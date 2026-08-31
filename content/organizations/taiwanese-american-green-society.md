@@ -22,5 +22,5 @@ The Taiwanese American Green Society is a nonprofit organization founded by Taiw
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-green-society/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

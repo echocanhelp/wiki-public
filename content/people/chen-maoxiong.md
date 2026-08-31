@@ -10,7 +10,7 @@ last_reviewed: 2026-08-20
 ---
 # Chen Mao-xiong (陳茂雄)
 
-**Chen Mao-xiong** (陳茂雄) is a columnist for [[sources/taiwanjustice-net|taiwanjustice.net (台灣公義網)]], with 475 articles archived from the site's column section.
+**Chen Mao-xiong** (陳茂雄) is a columnist for [[sources/taiwanjustice-net||taiwanjustice.net (台灣公義網)]], with 475 articles archived from the site's column section.
 
 ## Identity Snapshot
 
@@ -26,100 +26,100 @@ last_reviewed: 2026-08-20
 
 Top 10 articles from taiwanjustice.net mentioning chen-maoxiong:
 
-1. **2017-11-13** — [[articles/taiwanjustice-net/2024/20240221113229_root_17825a06f4cdbb6f|林保華專欄]]
+1. **2017-11-13** — [[articles/taiwanjustice-net/2024/20240221113229_root_17825a06f4cdbb6f||林保華專欄]]
    - *November 13, 2017...*
    - Score: 825
-2. **2022-07-10** — [[articles/taiwanjustice-net/2024/20240425084829_root_b5c9f6bb0360ed23|陳茂雄專欄]]
+2. **2022-07-10** — [[articles/taiwanjustice-net/2024/20240425084829_root_b5c9f6bb0360ed23||陳茂雄專欄]]
    - *高雄的民主水準居冠 ◎ 陳茂雄...*
    - Score: 825
-3. **2017-03-07** — [[articles/taiwanjustice-net/2024/20240715140333_root_de6de376c47e0ff9|余杰專欄]]
+3. **2017-03-07** — [[articles/taiwanjustice-net/2024/20240715140333_root_de6de376c47e0ff9||余杰專欄]]
    - *March 7, 2017...*
    - Score: 825
-4. **2017-11-22** — [[articles/taiwanjustice-net/2024/20240221105045_root_4b96e7a2f9d76692|專欄]]
+4. **2017-11-22** — [[articles/taiwanjustice-net/2024/20240221105045_root_4b96e7a2f9d76692||專欄]]
    - *監察權的謬誤 ◎ 陳茂雄 2017-11-22...*
    - Score: 820
-5. **2022-08-22** — [[articles/taiwanjustice-net/2024/20240619175142_root_e903f760568c0883|余杰專欄]]
+5. **2022-08-22** — [[articles/taiwanjustice-net/2024/20240619175142_root_e903f760568c0883||余杰專欄]]
    - *跟習近平聊天是雞同鴨講-范疇《與習近平聊聊台灣和中國》◎ 余傑...*
    - Score: 810
-6. **2017-01-30** — [[articles/taiwanjustice-net/2024/20240616123010_root_e9a4d38b79b420ee|余杰專欄]]
+6. **2017-01-30** — [[articles/taiwanjustice-net/2024/20240616123010_root_e9a4d38b79b420ee||余杰專欄]]
    - *January 30, 2017...*
    - Score: 805
-7. **2024-04-24** — [[articles/taiwanjustice-net/2024/20240425072010_root_e39ecec0fdeb18d2|台灣頭條]]
+7. **2024-04-24** — [[articles/taiwanjustice-net/2024/20240425072010_root_e39ecec0fdeb18d2||台灣頭條]]
    - *April 24, 2024...*
    - Score: 800
-8. **2023-07-30** — [[articles/taiwanjustice-net/2024/20240425083432_root_99aaa4abcb78ff6d|台美人台加人]]
+8. **2023-07-30** — [[articles/taiwanjustice-net/2024/20240425083432_root_99aaa4abcb78ff6d||台美人台加人]]
    - *July 30, 2023...*
    - Score: 800
-9. **2023-08-12** — [[articles/taiwanjustice-net/2024/20240719130745_root_c122ab4d6dc8d2cf|2012大選]]
+9. **2023-08-12** — [[articles/taiwanjustice-net/2024/20240719130745_root_c122ab4d6dc8d2cf||2012大選]]
    - *August 12, 2023...*
    - Score: 800
-10. **2018-01-04** — [[articles/taiwanjustice-net/2024/20240224183824_root_3a00a14a809ec2ca|大洛杉磯台灣會館]]
+10. **2018-01-04** — [[articles/taiwanjustice-net/2024/20240224183824_root_3a00a14a809ec2ca||大洛杉磯台灣會館]]
    - *January 4, 2018...*
    - Score: 795
 
 
 ## Works
 
-**陳茂雄** — **432** title hits, **1154** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
+**陳茂雄** — **432** title hits, **1154** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
 
 ### 2026 (20)
 
-1. [[articles/taiwanjustice-net/2026/20260211084634_共獨_分裂中國-干_台獨_底事_-_-陳茂雄_9a907f23024c1512|「共獨」分裂中國  干「台獨」底事？ ◎ 陳茂雄]]
-2. [[articles/taiwanjustice-net/2026/20260210185035_非科學_將是防疫的未爆彈-_-陳茂雄_7f6397d709800d56|「非科學」將是防疫的未爆彈 ◎ 陳茂雄]]
-3. [[articles/taiwanjustice-net/2026/20260210063229_並非有顯赫的過去才偉大-_-陳茂雄_4b7ebde9f2240331|並非有顯赫的過去才偉大 ◎ 陳茂雄]]
-4. [[articles/taiwanjustice-net/2026/20260210062940_統獨哪一派影響力較大_-_-陳茂雄_5ed4e87a653e2b2d|統獨哪一派影響力較大？ ◎ 陳茂雄]]
-5. [[articles/taiwanjustice-net/2026/20260210061739_中國國民黨變成小黨了_-_-陳茂雄_21b56e7f0bb119bd|中國國民黨變成小黨了？ ◎ 陳茂雄]]
-6. [[articles/taiwanjustice-net/2026/20260210060433_繼續迫害如何和解_-_-陳茂雄_66ff134c539cce69|繼續迫害如何和解？ ◎ 陳茂雄]]
-7. [[articles/taiwanjustice-net/2026/20260209114642_母語教學只是口號-_-陳茂雄_9e9580cb898b8d43|母語教學只是口號 ◎ 陳茂雄]]
-8. [[articles/taiwanjustice-net/2026/20260208194644_退休教授談中山大學-_-陳茂雄_edc140d46dd01b5f|退休教授談中山大學 ◎ 陳茂雄]]
+1. [[articles/taiwanjustice-net/2026/20260211084634_共獨_分裂中國-干_台獨_底事_-_-陳茂雄_9a907f23024c1512||「共獨」分裂中國  干「台獨」底事？ ◎ 陳茂雄]]
+2. [[articles/taiwanjustice-net/2026/20260210185035_非科學_將是防疫的未爆彈-_-陳茂雄_7f6397d709800d56||「非科學」將是防疫的未爆彈 ◎ 陳茂雄]]
+3. [[articles/taiwanjustice-net/2026/20260210063229_並非有顯赫的過去才偉大-_-陳茂雄_4b7ebde9f2240331||並非有顯赫的過去才偉大 ◎ 陳茂雄]]
+4. [[articles/taiwanjustice-net/2026/20260210062940_統獨哪一派影響力較大_-_-陳茂雄_5ed4e87a653e2b2d||統獨哪一派影響力較大？ ◎ 陳茂雄]]
+5. [[articles/taiwanjustice-net/2026/20260210061739_中國國民黨變成小黨了_-_-陳茂雄_21b56e7f0bb119bd||中國國民黨變成小黨了？ ◎ 陳茂雄]]
+6. [[articles/taiwanjustice-net/2026/20260210060433_繼續迫害如何和解_-_-陳茂雄_66ff134c539cce69||繼續迫害如何和解？ ◎ 陳茂雄]]
+7. [[articles/taiwanjustice-net/2026/20260209114642_母語教學只是口號-_-陳茂雄_9e9580cb898b8d43||母語教學只是口號 ◎ 陳茂雄]]
+8. [[articles/taiwanjustice-net/2026/20260208194644_退休教授談中山大學-_-陳茂雄_edc140d46dd01b5f||退休教授談中山大學 ◎ 陳茂雄]]
 - … 12 more this year
 
 ### 2025 (188)
 
-1. [[articles/taiwanjustice-net/2025/20251211221642_中生本來就不該來台-_-陳茂雄_58ac5f2bd6412bfc|中生本來就不該來台 ◎ 陳茂雄]]
-2. [[articles/taiwanjustice-net/2025/20251211213732_勿被賭盤誤導-_-陳茂雄_19a534768f6e2e2b|勿被賭盤誤導  ◎ 陳茂雄]]
-3. [[articles/taiwanjustice-net/2025/20251211212751_韓團隊在推動罷韓案過關_-_-陳茂雄_b2635920ea7a18b6|韓團隊在推動罷韓案過關？  ◎ 陳茂雄]]
-4. [[articles/taiwanjustice-net/2025/20251211062930_偽君子_與_真小人_的政界-_-陳茂雄_2f610b40bcecb527|「偽君子」與「真小人」的政界  ◎ 陳茂雄]]
-5. [[articles/taiwanjustice-net/2025/20251211062041_由六四看統派的心歷路程-_陳茂雄_d95fd2cbdf4ee96f|由六四看統派的心歷路程 ◎陳茂雄]]
-6. [[articles/taiwanjustice-net/2025/20251211061603_民眾黨是台灣民主水準的指標-_-陳茂雄_4e8a783bbf1c1535|民眾黨是台灣民主水準的指標  ◎ 陳茂雄]]
-7. [[articles/taiwanjustice-net/2025/20251210214220_蔡英文與韓國瑜命運的輪迴-_陳茂雄_19e768b4a746bd9d|蔡英文與韓國瑜命運的輪迴  ◎陳茂雄]]
-8. [[articles/taiwanjustice-net/2025/20251210213125_中國國民黨輸在內鬥-_-陳茂雄_c89d8d6968402f3a|中國國民黨輸在內鬥  ◎ 陳茂雄]]
+1. [[articles/taiwanjustice-net/2025/20251211221642_中生本來就不該來台-_-陳茂雄_58ac5f2bd6412bfc||中生本來就不該來台 ◎ 陳茂雄]]
+2. [[articles/taiwanjustice-net/2025/20251211213732_勿被賭盤誤導-_-陳茂雄_19a534768f6e2e2b||勿被賭盤誤導  ◎ 陳茂雄]]
+3. [[articles/taiwanjustice-net/2025/20251211212751_韓團隊在推動罷韓案過關_-_-陳茂雄_b2635920ea7a18b6||韓團隊在推動罷韓案過關？  ◎ 陳茂雄]]
+4. [[articles/taiwanjustice-net/2025/20251211062930_偽君子_與_真小人_的政界-_-陳茂雄_2f610b40bcecb527||「偽君子」與「真小人」的政界  ◎ 陳茂雄]]
+5. [[articles/taiwanjustice-net/2025/20251211062041_由六四看統派的心歷路程-_陳茂雄_d95fd2cbdf4ee96f||由六四看統派的心歷路程 ◎陳茂雄]]
+6. [[articles/taiwanjustice-net/2025/20251211061603_民眾黨是台灣民主水準的指標-_-陳茂雄_4e8a783bbf1c1535||民眾黨是台灣民主水準的指標  ◎ 陳茂雄]]
+7. [[articles/taiwanjustice-net/2025/20251210214220_蔡英文與韓國瑜命運的輪迴-_陳茂雄_19e768b4a746bd9d||蔡英文與韓國瑜命運的輪迴  ◎陳茂雄]]
+8. [[articles/taiwanjustice-net/2025/20251210213125_中國國民黨輸在內鬥-_-陳茂雄_c89d8d6968402f3a||中國國民黨輸在內鬥  ◎ 陳茂雄]]
 - … 180 more this year
 
 ### 2024 (85)
 
-1. [[articles/taiwanjustice-net/2024/20240723032638_root_837a1b66537821ac|反改革就不要眼紅  ◎陳茂雄 11-18-2012]]
-2. [[articles/taiwanjustice-net/2024/20240723032506_root_25afacc0a4ba7053|再現主流與非主流 ◎ 陳茂雄]]
-3. [[articles/taiwanjustice-net/2024/20240721093705_root_6b476625c41f66b9|三幕僚長制 ◎ 陳茂雄 2018-04-12]]
-4. [[articles/taiwanjustice-net/2024/20240719221755_root_501d53f681a3accd|貪腐的病毒在台灣到處蔓延 ◎陳茂雄 /民報月刊 2017-12-10]]
-5. [[articles/taiwanjustice-net/2024/20240719114711_root_c3eef969f6eb56db|馬英九怎麼會是「阿斗」？  ◎陳茂雄 11-25-2012]]
-6. [[articles/taiwanjustice-net/2024/20240715083107_root_b4f7e3e6701537a4|沒有法治哪來民主？ ◎ 陳茂雄]]
-7. [[articles/taiwanjustice-net/2024/20240715081241_root_ba718c76478143d6|解讀馬英九的「和」與「合」◎陳茂雄/台灣時報社論 01-01-2015]]
-8. [[articles/taiwanjustice-net/2024/20240715075410_root_f167e73ee0cc0c43|廢監院？門都沒有 ◎陳茂雄]]
+1. [[articles/taiwanjustice-net/2024/20240723032638_root_837a1b66537821ac||反改革就不要眼紅  ◎陳茂雄 11-18-2012]]
+2. [[articles/taiwanjustice-net/2024/20240723032506_root_25afacc0a4ba7053||再現主流與非主流 ◎ 陳茂雄]]
+3. [[articles/taiwanjustice-net/2024/20240721093705_root_6b476625c41f66b9||三幕僚長制 ◎ 陳茂雄 2018-04-12]]
+4. [[articles/taiwanjustice-net/2024/20240719221755_root_501d53f681a3accd||貪腐的病毒在台灣到處蔓延 ◎陳茂雄 /民報月刊 2017-12-10]]
+5. [[articles/taiwanjustice-net/2024/20240719114711_root_c3eef969f6eb56db||馬英九怎麼會是「阿斗」？  ◎陳茂雄 11-25-2012]]
+6. [[articles/taiwanjustice-net/2024/20240715083107_root_b4f7e3e6701537a4||沒有法治哪來民主？ ◎ 陳茂雄]]
+7. [[articles/taiwanjustice-net/2024/20240715081241_root_ba718c76478143d6||解讀馬英九的「和」與「合」◎陳茂雄/台灣時報社論 01-01-2015]]
+8. [[articles/taiwanjustice-net/2024/20240715075410_root_f167e73ee0cc0c43||廢監院？門都沒有 ◎陳茂雄]]
 - … 77 more this year
 
 ### 2023 (35)
 
-1. [[articles/taiwanjustice-net/2023/20231208140528_root_a05400a928579c76|馬英九不知球員不能兼裁判？◎ 陳茂雄]]
-2. [[articles/taiwanjustice-net/2023/20231208134910_root_b28d53e31b1fa8aa|在討皮痛？ ◎ 陳茂雄]]
-3. [[articles/taiwanjustice-net/2023/20231208131541_root_eef27b1dfb8865c5|高明的設計師？ ◎陳茂雄]]
-4. [[articles/taiwanjustice-net/2023/20231208124142_root_ea72761c01023282|耕耘與收穫 ◎ 陳茂雄]]
-5. [[articles/taiwanjustice-net/2023/20231208122436_root_2a1dc951c35c7865|陳茂雄專欄]]
-6. [[articles/taiwanjustice-net/2023/20230923052610_2023_06_05_不沾鍋與沾不了鍋-_-陳茂雄_f89e46c9c635241a|不沾鍋與沾不了鍋 ◎ 陳茂雄]]
-7. [[articles/taiwanjustice-net/2023/20230923051949_2014_02_15_台灣脫離不了中國的人治模式-_陳茂雄-02-15-2014_d7b72c9e704c53b4|台灣脫離不了中國的人治模式 ◎陳茂雄 02-15-2014]]
-8. [[articles/taiwanjustice-net/2023/20230923050959_2023_09_15_自恨枝無葉-_陳茂雄_0e696f31926f5ec9|自恨枝無葉  ◎陳茂雄]]
+1. [[articles/taiwanjustice-net/2023/20231208140528_root_a05400a928579c76||馬英九不知球員不能兼裁判？◎ 陳茂雄]]
+2. [[articles/taiwanjustice-net/2023/20231208134910_root_b28d53e31b1fa8aa||在討皮痛？ ◎ 陳茂雄]]
+3. [[articles/taiwanjustice-net/2023/20231208131541_root_eef27b1dfb8865c5||高明的設計師？ ◎陳茂雄]]
+4. [[articles/taiwanjustice-net/2023/20231208124142_root_ea72761c01023282||耕耘與收穫 ◎ 陳茂雄]]
+5. [[articles/taiwanjustice-net/2023/20231208122436_root_2a1dc951c35c7865||陳茂雄專欄]]
+6. [[articles/taiwanjustice-net/2023/20230923052610_2023_06_05_不沾鍋與沾不了鍋-_-陳茂雄_f89e46c9c635241a||不沾鍋與沾不了鍋 ◎ 陳茂雄]]
+7. [[articles/taiwanjustice-net/2023/20230923051949_2014_02_15_台灣脫離不了中國的人治模式-_陳茂雄-02-15-2014_d7b72c9e704c53b4||台灣脫離不了中國的人治模式 ◎陳茂雄 02-15-2014]]
+8. [[articles/taiwanjustice-net/2023/20230923050959_2023_09_15_自恨枝無葉-_陳茂雄_0e696f31926f5ec9||自恨枝無葉  ◎陳茂雄]]
 - … 27 more this year
 
 ### 2022 (39)
 
-1. [[articles/taiwanjustice-net/2022/20221205051657_2022_11_23_綠藍白的征戰-_-陳茂雄_46ba3bff810c8d2d|綠藍白的征戰 ◎ 陳茂雄]]
-2. [[articles/taiwanjustice-net/2022/20221204223249_2021_01_25_統獨哪一派影響力較大_-_-陳茂雄_055db6c44080ac24|統獨哪一派影響力較大？ ◎ 陳茂雄]]
-3. [[articles/taiwanjustice-net/2022/20221202064329_2017_07_23_監察院並非太上皇-_-陳茂雄-2017-07-23_e271270ac8cd7bad|監察院並非太上皇 ◎ 陳茂雄 2017-07-23]]
-4. [[articles/taiwanjustice-net/2022/20221202063137_2013_12_02_尸位素餐-_陳茂雄12-02-2013_2da230836228a445|尸位素餐 ◎陳茂雄12-02-2013]]
-5. [[articles/taiwanjustice-net/2022/20221202062551_2022_06_29_藍營總統路難行無關侯友宜-_-陳茂雄_4e15b22188cabac4|藍營總統路難行無關侯友宜 ◎ 陳茂雄]]
-6. [[articles/taiwanjustice-net/2022/20221202054004_2020_07_26_醜惡的政教勾結-_-陳茂雄_66e0af39a791e444|醜惡的政教勾結  ◎ 陳茂雄]]
-7. [[articles/taiwanjustice-net/2022/20221202053511_2021_08_29_監察與司法搭配失靈-_-陳茂雄_8d77aa3956e9bbdd|監察與司法搭配失靈 ◎ 陳茂雄]]
-8. [[articles/taiwanjustice-net/2022/20221202051529_2021_01_25_防疫工作變成執政成敗的關鍵-_-陳茂雄_d545972162fa8703|防疫工作變成執政成敗的關鍵  ◎ 陳茂雄]]
+1. [[articles/taiwanjustice-net/2022/20221205051657_2022_11_23_綠藍白的征戰-_-陳茂雄_46ba3bff810c8d2d||綠藍白的征戰 ◎ 陳茂雄]]
+2. [[articles/taiwanjustice-net/2022/20221204223249_2021_01_25_統獨哪一派影響力較大_-_-陳茂雄_055db6c44080ac24||統獨哪一派影響力較大？ ◎ 陳茂雄]]
+3. [[articles/taiwanjustice-net/2022/20221202064329_2017_07_23_監察院並非太上皇-_-陳茂雄-2017-07-23_e271270ac8cd7bad||監察院並非太上皇 ◎ 陳茂雄 2017-07-23]]
+4. [[articles/taiwanjustice-net/2022/20221202063137_2013_12_02_尸位素餐-_陳茂雄12-02-2013_2da230836228a445||尸位素餐 ◎陳茂雄12-02-2013]]
+5. [[articles/taiwanjustice-net/2022/20221202062551_2022_06_29_藍營總統路難行無關侯友宜-_-陳茂雄_4e15b22188cabac4||藍營總統路難行無關侯友宜 ◎ 陳茂雄]]
+6. [[articles/taiwanjustice-net/2022/20221202054004_2020_07_26_醜惡的政教勾結-_-陳茂雄_66e0af39a791e444||醜惡的政教勾結  ◎ 陳茂雄]]
+7. [[articles/taiwanjustice-net/2022/20221202053511_2021_08_29_監察與司法搭配失靈-_-陳茂雄_8d77aa3956e9bbdd||監察與司法搭配失靈 ◎ 陳茂雄]]
+8. [[articles/taiwanjustice-net/2022/20221202051529_2021_01_25_防疫工作變成執政成敗的關鍵-_-陳茂雄_d545972162fa8703||防疫工作變成執政成敗的關鍵  ◎ 陳茂雄]]
 - … 31 more this year
 
 Earlier years: **65** additional title hits (not listed).
@@ -128,11 +128,11 @@ Earlier years: **65** additional title hits (not listed).
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2024/20240520034013_root_6f2b431c9cb0cca9|台美人台加人]]
-2. [[articles/taiwanjustice-net/2024/20240421185358_root_09926246802abc6a|台美人台加人]]
-3. [[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea|台美人台加人]]
-4. [[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3|台美人台加人]]
-5. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596|台美人台加人]]
+1. [[articles/taiwanjustice-net/2024/20240520034013_root_6f2b431c9cb0cca9||台美人台加人]]
+2. [[articles/taiwanjustice-net/2024/20240421185358_root_09926246802abc6a||台美人台加人]]
+3. [[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea||台美人台加人]]
+4. [[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3||台美人台加人]]
+5. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596||台美人台加人]]
 
 
 ## Timeline
@@ -11518,7 +11518,7 @@ Notable quotes and mentions of **陳茂雄** in Taiwan Justice articles:
 
 ### Unknown (1 quotes)
 
-1. "ng|Chen Po-kong (陳破空)]] — 463 articles - [[people/chen-maoxiong|Chen Mao-xiong (陳茂雄)]] — 475 articles - [[people/chen-zhaonan|Chen Chao-nan (陳昭南)]] — 398 articles"
+1. "ng|Chen Po-kong (陳破空)]] — 463 articles - [[people/chen-maoxiong||Chen Mao-xiong (陳茂雄)]] — 475 articles - [[people/chen-zhaonan||Chen Chao-nan (陳昭南)]] — 398 articles"
    — "taiwanjustice.net Article Archive" (unknown)
 
 ### 2025 (74 quotes)
@@ -11832,11 +11832,11 @@ Notable quotes and mentions of **陳茂雄** in Taiwan Justice articles:
 
 - **Content priority A:** Article count (475) from Tier 2 title extraction
 - **Content priority B:** Column author listing from `knowledge/research/taiwanjustice-net-entities.md`
-- **Hub:** [[sources/taiwanjustice-net|taiwanjustice.net source hub]]
+- **Hub:** [[sources/taiwanjustice-net||taiwanjustice.net source hub]]
 - **Archive:** [Column articles](https://github.com/echocanhelp/wiki-public/tree/gh-pages/knowledge/web-archives/taiwanjustice-net/tier2/)
 
 ## Related Pages
 
-- [[sources/taiwanjustice-net|taiwanjustice.net source hub]]
-- [[organizations/taiwanjustice-net|taiwanjustice.net (台灣公義網)]]
-- [[people/freeman-huang|Freeman Huang (黃樹人)]]
+- [[sources/taiwanjustice-net||taiwanjustice.net source hub]]
+- [[organizations/taiwanjustice-net||taiwanjustice.net (台灣公義網)]]
+- [[people/freeman-huang||Freeman Huang (黃樹人)]]

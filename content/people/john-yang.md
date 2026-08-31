@@ -14,13 +14,13 @@ source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
 ---
 # John Yang (楊錦忠)
 
-**John Yang** (楊錦忠) serves as **Special assistant (特別助理), TAHS 2025** of the [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS / 台美人歷史協會)]].
+**John Yang** (楊錦忠) serves as **Special assistant (特別助理), TAHS 2025** of the [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society (TAHS / 台美人歷史協會)]].
 
 ## Identity Snapshot
 - **English:** John Yang
 - **Chinese:** 楊錦忠
 - **Core role (2025):** 特別助理 — Special assistant (特別助理), TAHS 2025
-- **Organization:** [[organizations/taiwanese-american-historical-society|TAHS]]
+- **Organization:** [[organizations/taiwanese-american-historical-society||TAHS]]
 - **Era:** Contemporary (documented on 2025 TAHS org chart)
 
 ## Overview
@@ -46,13 +46,13 @@ This page is an **A-tier thin record** for graph linking and member-priority sco
 
 ## Works
 
-**john-yang** — **0** title hits, **1** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
+**john-yang** — **0** title hits, **1** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
 
 ### Body mentions (1)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74|台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元]]
+1. [[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74||台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元]]
 
 
 ## Timeline
@@ -82,7 +82,7 @@ Notable quotes and mentions of **楊錦忠** in Taiwan Justice articles:
 
 ## Related Pages
 
-- [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
-- [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]] — President (會長)
-- [[people/yang-jia-you|Charles Yang (楊嘉猷)]] — Treasurer (財務長); founding president
-- [[people/freeman-huang|Freeman Huang (黃樹人)]] — Secretary (秘書)
+- [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society (TAHS)]]
+- [[people/leonard-hsu-jr||Leonard Hsu Jr. (許景鴻)]] — President (會長)
+- [[people/yang-jia-you||Charles Yang (楊嘉猷)]] — Treasurer (財務長); founding president
+- [[people/freeman-huang||Freeman Huang (黃樹人)]] — Secretary (秘書)

@@ -22,5 +22,5 @@ Paramitas Foundation was founded by Winston Chen in 1992. The Foundation support
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/paramitas-foundation/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

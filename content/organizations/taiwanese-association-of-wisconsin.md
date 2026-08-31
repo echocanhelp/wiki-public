@@ -22,5 +22,5 @@ The Taiwanese Association of Wisconsin (威斯康辛 台灣同鄉會) is a regio
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-wisconsin/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -42,5 +42,5 @@ Publication(Non-professional)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-chuan-chang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

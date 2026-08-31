@@ -22,5 +22,5 @@ The Taiwanese Association of America Greater Philadelphia (大費城 台灣同�
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-greater-philadelphia/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

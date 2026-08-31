@@ -22,5 +22,5 @@ The Chhong-bi Memorial Fund was established in April 1993 in memory of a selfles
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/chhong-bi-memorial-fund/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

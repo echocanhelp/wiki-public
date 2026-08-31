@@ -33,11 +33,11 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Wife:** [[people/fu-mei-wu-chen|陳吳富美]]
+- **Wife:** [[people/fu-mei-wu-chen||陳吳富美]]
 - **Daughter:** Sonya Chen
 - **Daughter:** Tonya Chen
 - **Daughter:** Patricia Chen
-- **Daughter:** [[people/oliver-chen|Oliver Chen]]
+- **Daughter:** [[people/oliver-chen||Oliver Chen]]
 
 
 ## Works
@@ -49,5 +49,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ron-chen/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

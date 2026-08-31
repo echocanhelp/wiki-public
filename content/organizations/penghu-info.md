@@ -19,9 +19,9 @@ totals **8,946 則知識**, organized along three axes: **空間** (空間: 馬�
 望安鄉／七美鄉／白沙鄉／湖西鄉), **類別** (文化、宗教、歷史、地理、交通、產業、治理、生態),
 and **時間** (史前時代、宋代、元代、明代、荷治時期、明鄭時期、清領時期、日治時期、戰後時期).
 
-It is the authoritative local source cited by [[people/hsu-ling-yun|Hsu Ling-yun (許凌雲)]],
-[[people/hsu-ching-chun|Hsu Ching-chun (許景淳)]], and
-[[organizations/hsu-ling-yun-xiucai-memorial-hall|Huu Ling-yun Xiucai Memorial Hall]]
+It is the authoritative local source cited by [[people/hsu-ling-yun||Hsu Ling-yun (許凌雲)]],
+[[people/hsu-ching-chun||Hsu Ching-chun (許景淳)]], and
+[[organizations/hsu-ling-yun-xiucai-memorial-hall||Huu Ling-yun Xiucai Memorial Hall]]
 for Qing-era Penghu biography, the 凌雲秀才 memorial, and the 瓦硐 Xuu clan.
 
 **Class:** live-small knowledge platform (no WordPress REST; the 2017-era
@@ -42,5 +42,5 @@ this record captures only the historically-anchored subset linked from Tier1.
 - 瓦硐許姓 clan (始祖 1618) — 靖樂 11 世 line
 
 ## Sources
-- Hub: [[sources/penghu-info|penghu.info 平台]]
-- [[people/hsu-ling-yun|Hsu Ling-yun]] · [[people/hsu-ching-chun|Hsu Ching-chun]] · [[organizations/hsu-ling-yun-xiucai-memorial-hall|凌雲秀才紀念館]]
+- Hub: [[sources/penghu-info||penghu.info 平台]]
+- [[people/hsu-ling-yun||Hsu Ling-yun]] · [[people/hsu-ching-chun||Hsu Ching-chun]] · [[organizations/hsu-ling-yun-xiucai-memorial-hall||凌雲秀才紀念館]]

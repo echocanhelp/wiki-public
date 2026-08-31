@@ -22,5 +22,5 @@ LKGT (老康健) is an informal senior social group of Taiwanese Americans in th
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/lkgt/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

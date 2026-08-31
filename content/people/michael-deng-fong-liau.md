@@ -41,5 +41,5 @@ Michael Deng Fong Liau 廖登豐 – History of Taiwanese American (T.A. Archive
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/michael-deng-fong-liau/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

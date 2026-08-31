@@ -22,5 +22,5 @@ The Taiwanese Youth Arts Foundation, Inc. (TYAF), established in 1982 and IRS-re
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-youth-arts-foundation-washington-dc/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

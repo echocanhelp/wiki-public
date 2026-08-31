@@ -22,5 +22,5 @@ The Boston University Taiwanese Student Association (BUTSA, 波士頓大學台�
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/boston-university-taiwanese-student-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

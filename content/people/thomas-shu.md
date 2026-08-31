@@ -40,5 +40,5 @@ Founding member and board member of the American Premium Tea Institute (now merg
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/thomas-shu/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

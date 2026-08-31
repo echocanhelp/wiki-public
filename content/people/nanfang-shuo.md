@@ -21,50 +21,50 @@ Related: [Taiwanese American Historical Society](/organizations/taiwanese-americ
 
 Top 8 articles from taiwanjustice.net mentioning nanfang-shuo:
 
-1. **2023-08-12** — [[articles/taiwanjustice-net/2024/20240719130745_root_c122ab4d6dc8d2cf|2012大選]]
+1. **2023-08-12** — [[articles/taiwanjustice-net/2024/20240719130745_root_c122ab4d6dc8d2cf||2012大選]]
    - *August 12, 2023...*
    - Score: 800
-2. **2014-05-02** — [[articles/taiwanjustice-net/2024/20240425071604_root_7dc2555b77fd028d|專欄]]
+2. **2014-05-02** — [[articles/taiwanjustice-net/2024/20240425071604_root_7dc2555b77fd028d||專欄]]
    - *May 2, 2014...*
    - Score: 720
-3. **2018-05-11** — [[articles/taiwanjustice-net/2024/20240520020609_root_49bbba86f2299b6d|兩岸關係]]
+3. **2018-05-11** — [[articles/taiwanjustice-net/2024/20240520020609_root_49bbba86f2299b6d||兩岸關係]]
    - *May 11, 2018...*
    - Score: 720
-4. **undated** — [[articles/taiwanjustice-net/2024/20240616082309_root_b06407961c998198|馬惠帝]]
+4. **undated** — [[articles/taiwanjustice-net/2024/20240616082309_root_b06407961c998198||馬惠帝]]
    - *美國頭條...*
    - Score: 720
-5. **2012-05-14** — [[articles/taiwanjustice-net/2024/20240719125045_root_32c4204ea4c13f44|馬英九的新外號是 [馬惠帝] ! ◎南方朔/2012-5-14]]
+5. **2012-05-14** — [[articles/taiwanjustice-net/2024/20240719125045_root_32c4204ea4c13f44||馬英九的新外號是 [馬惠帝] ! ◎南方朔/2012-5-14]]
    - *第一個是5月上旬《蘋果日報》所做的民調，馬英九的滿意度只剩15.11%，不滿意的為70.62%，不表示意見的為14.27%。滿意度只剩15.11%，這已是全世界少見的對領導人的不滿意程度。...*
    - Score: 190
-6. **2014-01-13** — [[articles/taiwanjustice-net/2024/20240619173250_root_bae9a02a5a98b67c|立法院對兩岸政策出現大反彈！◎南方朔 01-13-2014]]
+6. **2014-01-13** — [[articles/taiwanjustice-net/2024/20240619173250_root_bae9a02a5a98b67c||立法院對兩岸政策出現大反彈！◎南方朔 01-13-2014]]
    - *而2014年2月份開始，最大的事件可能就是春節後，台灣的陸委會主委王郁琦將訪問中國大陸，將和中國的國台辦主任張志軍會面。這次「張王會」意義至為重大﹕...*
    - Score: 140
-7. **2017-03-24** — [[articles/taiwanjustice-net/2024/20240713171008_root_d42005bf379d04c4|擋住民粹！荷、法、德將是民主的功臣 ◎南方朔/民報 2017-03-24]]
+7. **2017-03-24** — [[articles/taiwanjustice-net/2024/20240713171008_root_d42005bf379d04c4||擋住民粹！荷、法、德將是民主的功臣 ◎南方朔/民報 2017-03-24]]
    - *美歐近年來經濟不佳，於是自認受害的族群遂開始自閉，出現以認同為主軸的民粹主義。這是新的鎖國主義，美國由於獨大獨強，川普的民粹主義可以任性胡為，但已惹起世界各國的反彈，至於歐洲國家並沒有美國的實力，所以有識者都知道民粹主義的禍害，所以就要自行調整，反擊這種以認同為核心的民粹主義。...*
    - Score: 105
-8. **2014-08-15** — [[articles/taiwanjustice-net/2024/20240724235325_root_5cd1258f59d0251c|他們為甚麼不自殺？ ◎南方朔 / 民報 08-15-2014]]
+8. **2014-08-15** — [[articles/taiwanjustice-net/2024/20240724235325_root_5cd1258f59d0251c||他們為甚麼不自殺？ ◎南方朔 / 民報 08-15-2014]]
    - *日本人有沒有「罪惡感」，一直是近代學術界的爭議課題。有一派學者認為，日本人沒有「罪惡感」，但有極強的「羞恥感」，因此日本人不會為了作了罪惡感的事而道歉，但會為了作出丟臉的事而自殺。...*
    - Score: 105
 
 ## Works
 
-**南方朔** — **4** title hits, **4** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
+**南方朔** — **4** title hits, **4** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
 
 ### 2024 (4)
 
-1. [[articles/taiwanjustice-net/2024/20240724235325_root_5cd1258f59d0251c|他們為甚麼不自殺？ ◎南方朔 / 民報 08-15-2014]]
-2. [[articles/taiwanjustice-net/2024/20240719125045_root_32c4204ea4c13f44|馬英九的新外號是 [馬惠帝] ! ◎南方朔/2012-5-14]]
-3. [[articles/taiwanjustice-net/2024/20240713171008_root_d42005bf379d04c4|擋住民粹！荷、法、德將是民主的功臣 ◎南方朔/民報 2017-03-24]]
-4. [[articles/taiwanjustice-net/2024/20240619173250_root_bae9a02a5a98b67c|立法院對兩岸政策出現大反彈！◎南方朔 01-13-2014]]
+1. [[articles/taiwanjustice-net/2024/20240724235325_root_5cd1258f59d0251c||他們為甚麼不自殺？ ◎南方朔 / 民報 08-15-2014]]
+2. [[articles/taiwanjustice-net/2024/20240719125045_root_32c4204ea4c13f44||馬英九的新外號是 [馬惠帝] ! ◎南方朔/2012-5-14]]
+3. [[articles/taiwanjustice-net/2024/20240713171008_root_d42005bf379d04c4||擋住民粹！荷、法、德將是民主的功臣 ◎南方朔/民報 2017-03-24]]
+4. [[articles/taiwanjustice-net/2024/20240619173250_root_bae9a02a5a98b67c||立法院對兩岸政策出現大反彈！◎南方朔 01-13-2014]]
 
 ### Body mentions (4)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2024/20240719130745_root_c122ab4d6dc8d2cf|2012大選]]
-2. [[articles/taiwanjustice-net/2024/20240425071604_root_7dc2555b77fd028d|專欄]]
-3. [[articles/taiwanjustice-net/2024/20240520020609_root_49bbba86f2299b6d|兩岸關係]]
-4. [[articles/taiwanjustice-net/2024/20240616082309_root_b06407961c998198|馬惠帝]]
+1. [[articles/taiwanjustice-net/2024/20240719130745_root_c122ab4d6dc8d2cf||2012大選]]
+2. [[articles/taiwanjustice-net/2024/20240425071604_root_7dc2555b77fd028d||專欄]]
+3. [[articles/taiwanjustice-net/2024/20240520020609_root_49bbba86f2299b6d||兩岸關係]]
+4. [[articles/taiwanjustice-net/2024/20240616082309_root_b06407961c998198||馬惠帝]]
 
 
 ## Timeline
@@ -187,4 +187,4 @@ Notable quotes and mentions of **南方朔** in Taiwan Justice articles:
 
 ## Related Pages
 
-- [[people/albert-s-lai|Dr. Albert S. Lai]]
+- [[people/albert-s-lai||Dr. Albert S. Lai]]

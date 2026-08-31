@@ -17,9 +17,9 @@ last_reviewed: 2026-08-17
 - **Chinese:** 楊明仁
 - **Source:** TAH Foundation Who’s Who
 - **Official listing:** [James Yang 楊明仁](https://taiwaneseamericanhistory.org/person/james-yang/)
-- **Not:** [[people/james-yang|James Yang (楊榮勝)]] (Taiwan Center 個人董事)
+- **Not:** [[people/james-yang||James Yang (楊榮勝)]] (Taiwan Center 個人董事)
 
-UCLA B.S. Computer Science and Engineering (1994). TAH lists guest conducting the [[organizations/formosan-presbyterian-church-in-los-angeles|FPCLA]] joint adult and youth choir.
+UCLA B.S. Computer Science and Engineering (1994). TAH lists guest conducting the [[organizations/formosan-presbyterian-church-in-los-angeles||FPCLA]] joint adult and youth choir.
 
 <!-- tah-tables:start -->
 ## Education
@@ -36,9 +36,9 @@ UCLA B.S. Computer Science and Engineering (1994). TAH lists guest conducting th
 - **Mother:** 李淑櫻
 
 ## Network
-- [[organizations/formosan-presbyterian-church-in-los-angeles|FPCLA]] — TAH: guest conductor, joint choir
-- [[people/james-yang|Not 楊榮勝]]
+- [[organizations/formosan-presbyterian-church-in-los-angeles||FPCLA]] — TAH: guest conductor, joint choir
+- [[people/james-yang||Not 楊榮勝]]
 
 ## Sources
 - [James Yang 楊明仁](https://taiwaneseamericanhistory.org/person/james-yang/)
-- [[sources/taiwaneseamericanhistory-org|TAH Foundation Who’s Who]]
+- [[sources/taiwaneseamericanhistory-org||TAH Foundation Who’s Who]]

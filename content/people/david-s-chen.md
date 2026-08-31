@@ -35,7 +35,7 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Wife:** [[people/april-lin|林淑卿]]
+- **Wife:** [[people/april-lin||林淑卿]]
 - **Daughter:** 琇美
 - **Son:** 英祺
 
@@ -44,11 +44,11 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/david-s-chen/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## Network
-- [[organizations/presbyterian-church-in-taiwan|PCT]] — TAH Who’s Who
+- [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
 
 - Dr. Lin: soft-info test note
 

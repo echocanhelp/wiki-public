@@ -17,7 +17,7 @@ last_reviewed: 2026-08-17
 
 ## Identity Snapshot
 
-> **Primary work page:** [[sources/toward-a-community-of-hope|Toward A Community of Hope (work & sources)]]  
+> **Primary work page:** [[sources/toward-a-community-of-hope||Toward A Community of Hope (work & sources)]]  
 > **Full text (GitHub):** [complete extract](https://github.com/echocanhelp/wiki-public/blob/gh-pages/knowledge/web-archives/albert-lai-toward-community-of-hope.md)
 
 
@@ -113,7 +113,7 @@ The 2017 TAHS publication describes his story as one that "gives hope to Taiwane
 
 - **Content priority A:** 2017 TAHS Publication 生技巨人林福坤的故事 (The Story of Biotech Giant Lin Fu-kun), Part 1, L1020–1404 (~380 lines), written by 楊文顯
 - **Content priority A:** Contains detailed biographical narrative from birth through Amgen career, including the EPO discovery timeline
-- **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
+- **Hub:** [[sources/2017-tahs-publication||2017 TAHS Publication]]
 - **Note:** The full text contains extensive biographical detail including family background, education timeline, research methodology, and the EPO competitive race narrative.
 
 ## Sources
@@ -121,10 +121,10 @@ The 2017 TAHS publication describes his story as one that "gives hope to Taiwane
 
 ## Related Pages
 
-- [[sources/toward-a-community-of-hope|Toward A Community of Hope]]
+- [[sources/toward-a-community-of-hope||Toward A Community of Hope]]
 
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/2017-tahs-publication|2017 TAHS Publication]]
-- [[people/yang-jia-you|Charles Yang (楊嘉猷)]]
-- [[people/huang-gen-shen|Huang Gen-shen (黃根深)]]
-- [[people/wang-gui-rong|Wang Gui-rong (王桂榮) — fellow 菁英錄 subject]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/2017-tahs-publication||2017 TAHS Publication]]
+- [[people/yang-jia-you||Charles Yang (楊嘉猷)]]
+- [[people/huang-gen-shen||Huang Gen-shen (黃根深)]]
+- [[people/wang-gui-rong||Wang Gui-rong (王桂榮) — fellow 菁英錄 subject]]

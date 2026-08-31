@@ -22,5 +22,5 @@ The Taiwanese American Students Association at Johns Hopkins University (jhuTASA
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-students-association-at-johns-hopkins-university/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

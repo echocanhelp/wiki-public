@@ -32,7 +32,7 @@ Steven Chen received his B.S. degree in Chemical Engineering from National Taiwa
 ## Family
 
 - **Wife:** Park Ji-hyun
-- **Daughter:** [[people/clara-chen|Clara Chen]]
+- **Daughter:** [[people/clara-chen||Clara Chen]]
 - **Son:** Joseph Chen
 
 
@@ -42,5 +42,5 @@ Steven Chen received his B.S. degree in Chemical Engineering from National Taiwa
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/steven-shih-chen/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

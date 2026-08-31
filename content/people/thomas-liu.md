@@ -34,7 +34,7 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Wife:** [[people/elaine-liu|黃久香]]
+- **Wife:** [[people/elaine-liu||黃久香]]
 
 
 ## Sources
@@ -42,5 +42,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/thomas-liu/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

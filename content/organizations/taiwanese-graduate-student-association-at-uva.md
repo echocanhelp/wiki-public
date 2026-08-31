@@ -22,5 +22,5 @@ The Taiwanese Graduate Student Association at UVa (TGSA) is a graduate-focused s
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-graduate-student-association-at-uva/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

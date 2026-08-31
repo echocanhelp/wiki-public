@@ -17,9 +17,9 @@ echo: scratch
 
 **Decision (2026-08-02 · Albert + friends):** From the three bake-off candidates, **#2 HsiaoChen** is the locked voice. Complete Ch.1 first → evaluate → only then Ch.2–6.
 
-**Bake-off (openings only):** [[people/albert-chapter1-zh-review|Ch.1 ZH voice bake-off]]  
-**EN Ch.1:** [[people/albert-chapter1-en-review|Ch.1 EN Christopher]]  
-**EN full book:** [[people/albert-en-sku-a-scratch-review|EN SKU A hub]]
+**Bake-off (openings only):** [[people/albert-chapter1-zh-review||Ch.1 ZH voice bake-off]]  
+**EN Ch.1:** [[people/albert-chapter1-en-review||Ch.1 EN Christopher]]  
+**EN full book:** [[people/albert-en-sku-a-scratch-review||EN SKU A hub]]
 
 ## Identity Snapshot
 
@@ -86,7 +86,7 @@ EN Ch.I Christopher was ~29 min @ ~149 wpm. ZH full Ch.I is longer in wall-clock
 
 ## Related
 
-- [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
-- [[people/albert-chapter1-zh-review|Bake-off (three voices, openings)]]
-- [[people/albert-chapter1-en-review|EN Ch.1]]
-- [[people/albert-en-sku-a-scratch-review|EN SKU A full hub]]
+- [[people/albert-s-lai||Dr. Albert S. Lai (賴信雄)]]
+- [[people/albert-chapter1-zh-review||Bake-off (three voices, openings)]]
+- [[people/albert-chapter1-en-review||EN Ch.1]]
+- [[people/albert-en-sku-a-scratch-review||EN SKU A full hub]]

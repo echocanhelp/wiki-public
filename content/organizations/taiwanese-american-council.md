@@ -22,5 +22,5 @@ The Taiwanese American Council (紐約紐澤西台灣人社團聯合會) was fou
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-council/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

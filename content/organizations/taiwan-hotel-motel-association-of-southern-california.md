@@ -22,5 +22,5 @@ The Taiwan Hotel & Motel Association of Southern California was established in 1
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwan-hotel-motel-association-of-southern-california/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

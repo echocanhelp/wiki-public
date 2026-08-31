@@ -22,5 +22,5 @@ The Georgetown Taiwanese Student Association (GUTSA) was a student organization 
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/georgetown-taiwanese-student-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

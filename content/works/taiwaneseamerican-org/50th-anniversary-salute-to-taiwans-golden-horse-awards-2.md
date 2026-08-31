@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/50th-anniversary-salute-to-taiwans-golden-horse-awards-2|50th Anniversary Salute to Taiwan&#039;s Golden Horse Awards]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/50th-anniversary-salute-to-taiwans-golden-horse-awards-2||50th Anniversary Salute to Taiwan&#039;s Golden Horse Awards]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

@@ -15,7 +15,7 @@ last_reviewed: 2026-08-16
 
 # Rev. Kao Chun-ming (高俊明)
 
-**Rev. Kao Chun-ming** (Chinese: 高俊明; Pe̍h-ōe-jī: Ko Chùn-bêng; 6 June 1929, Tainan – 14 February 2019) was a minister of the [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan (PCT)]]. He served as PCT General Secretary (1970–1989), was imprisoned (1980–1984) for sheltering Kaohsiung Incident dissident Shih Ming-teh (施明德), and later served as a Senior Advisor to the Office of the President under Chen Shui-bian.
+**Rev. Kao Chun-ming** (Chinese: 高俊明; Pe̍h-ōe-jī: Ko Chùn-bêng; 6 June 1929, Tainan – 14 February 2019) was a minister of the [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan (PCT)]]. He served as PCT General Secretary (1970–1989), was imprisoned (1980–1984) for sheltering Kaohsiung Incident dissident Shih Ming-teh (施明德), and later served as a Senior Advisor to the Office of the President under Chen Shui-bian.
 
 ## Identity Snapshot
 
@@ -46,7 +46,7 @@ last_reviewed: 2026-08-16
 - **2012-12-20** — Named Tainan Outstanding Citizen; Mayor Lai Ching-te called him a “人格者.”
 - **2013 / later** — Publicly opposed same-sex marriage legislation.
 - **2016** — Declined a Senior Advisor post under President Tsai Ing-wen.
-- **2019-01** — With [[people/peng-ming-min|Peng Ming-min]], [[people/wu-lipei|Wu Li-pei]], and Lee Yuan-tseh, signed an open letter urging Tsai not to seek re-election.
+- **2019-01** — With [[people/peng-ming-min||Peng Ming-min]], [[people/wu-lipei||Wu Li-pei]], and Lee Yuan-tseh, signed an open letter urging Tsai not to seek re-election.
 - **2019-02-14** — Died of illness. State citation of merit read at the 22 Feb memorial (Vice President Chen Chien-jen representing President Tsai).
 
 ## Works
@@ -58,10 +58,10 @@ last_reviewed: 2026-08-16
 
 ## Network
 
-- [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]]
+- [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan]]
 - Shih Ming-teh (施明德) — sheltered after Kaohsiung Incident; later a political rival (2006)
 - Ruth Kao — organized support during his imprisonment
-- [[people/peng-ming-min|Peng Ming-min (彭明敏)]], [[people/wu-lipei|Wu Li-pei (吳澧培)]] — 2019 open letter
+- [[people/peng-ming-min||Peng Ming-min (彭明敏)]], [[people/wu-lipei||Wu Li-pei (吳澧培)]] — 2019 open letter
 - Chen Shui-bian — appointed Kao advisor; Kao supported him in 2006
 
 ## Quotes
@@ -70,14 +70,14 @@ last_reviewed: 2026-08-16
 
 ## Related Pages
 
-- [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]]
-- [[people/peng-ming-min|Peng Ming-min (彭明敏)]]
-- [[people/wu-lipei|Wu Li-pei (吳澧培)]]
-- [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
+- [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan]]
+- [[people/peng-ming-min||Peng Ming-min (彭明敏)]]
+- [[people/wu-lipei||Wu Li-pei (吳澧培)]]
+- [[people/albert-s-lai||Dr. Albert S. Lai (賴信雄)]]
 
 ## Sources
 
 1. Wikipedia: [Kao Chun-ming](https://en.wikipedia.org/wiki/Kao_Chun-ming)
 2. 維基百科：[高俊明](https://zh.wikipedia.org/wiki/%E9%AB%98%E4%BF%8A%E6%98%8E)
-3. [[organizations/presbyterian-church-in-taiwan|Echopedia PCT page]] (1977 declaration; 1980 arrest)
+3. [[organizations/presbyterian-church-in-taiwan||Echopedia PCT page]] (1977 declaration; 1980 arrest)
 4. Taipei Times (2001-04-25) memoir launch; (2006-09-09) Kao–Shih split

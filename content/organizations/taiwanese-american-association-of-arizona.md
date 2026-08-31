@@ -22,5 +22,5 @@ The Taiwanese American Association of Arizona (TAAA) is a regional chapter of th
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-association-of-arizona/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -40,5 +40,5 @@ Pianist Gloria Chien has been picked by the Boston Globe as one of the Superior 
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/gloria-chien/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

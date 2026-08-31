@@ -22,5 +22,5 @@ The San Diego Taiwanese Cultural Association (SDTCA, 聖地牙哥台灣同鄉會
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/san-diego-taiwanese-cultural-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -22,5 +22,5 @@ The Northern California Taiwanese Medical Association (NCTMA) is a nonprofit pub
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/northern-california-taiwanese-medical-association-nctma/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

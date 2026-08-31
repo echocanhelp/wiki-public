@@ -22,5 +22,5 @@ The Taiwanese American Association of Pharmaceutics (TAAP) is a professional org
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-association-of-pharmaceutics/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

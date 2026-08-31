@@ -41,5 +41,5 @@ Dr. Po-Fang (Philip) Hsieh 謝伯芳博士 – History of Taiwanese American (T.
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-po-fang-philip-hsieh/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

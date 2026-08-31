@@ -22,5 +22,5 @@ Taiwanese American of Dayton (戴頓台灣同鄉會) is a local chapter of the T
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-of-dayton/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

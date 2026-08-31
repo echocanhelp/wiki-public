@@ -26,10 +26,10 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/accepting-applications-for-the-2010-miss-taiwanese-american-pageant-in-los-angel|Accepting Applications for the 2010 Miss Taiwanese American Pageant in Los Angeles]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[articles/taiwanjustice-net/2023/20231208225407_root_12f4fa36695ac846|10]]
+- [[works/taiwaneseamerican-org/accepting-applications-for-the-2010-miss-taiwanese-american-pageant-in-los-angel||Accepting Applications for the 2010 Miss Taiwanese American Pageant in Los Angeles]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[articles/taiwanjustice-net/2023/20231208225407_root_12f4fa36695ac846||10]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

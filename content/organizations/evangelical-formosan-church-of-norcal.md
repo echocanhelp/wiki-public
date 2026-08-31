@@ -22,5 +22,5 @@ The former Evangelical Formosan Church of El Sobrante (平諾台福基督教會)
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/evangelical-formosan-church-of-norcal/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -12,7 +12,7 @@ last_reviewed: 2026-08-20
 - **Date (guess):** 2026-08-20
 - **Source URL:** [https://www.pct.org.tw/news_pct.aspx](https://www.pct.org.tw/news_pct.aspx)
 - **Captured by:** source-continuity delta
-- **Source hub:** [[sources/presbyterian-church-in-taiwan|source]]
+- **Source hub:** [[sources/presbyterian-church-in-taiwan||source]]
 
 ## Notes
 

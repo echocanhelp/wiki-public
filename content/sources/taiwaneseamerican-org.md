@@ -11,14 +11,14 @@ last_reviewed: 2026-08-23
 ---
 # taiwaneseamerican.org
 
-Official magazine/site of **[[organizations/taiwaneseamerican-org|TaiwaneseAmerican.org]]** (founded 2006). Story-corpus: interviews, essays, fiction.
+Official magazine/site of **[[organizations/taiwaneseamerican-org||TaiwaneseAmerican.org]]** (founded 2006). Story-corpus: interviews, essays, fiction.
 
 - **Live:** https://www.taiwaneseamerican.org/
 - **About:** https://www.taiwaneseamerican.org/about/
 - **Staff:** https://www.taiwaneseamerican.org/about/staff/
 - **Units index (vault):** `knowledge/research/taiwaneseamerican-org/units.jsonl` (gitignored)
 - **Published works:** `content/works/taiwaneseamerican-org/`
-- **Not:** [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- **Not:** [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## Class
 
@@ -35,14 +35,14 @@ WEBSITE_INGEST **story-corpus**. Vault = full posts (gitignored). Wiki = work pa
 | D skip | 10 |
 | Work pages | **2411** |
 
-Catalog: `content/works/taiwaneseamerican-org/` · landing [[works/index]].
+Catalog: `content/works/taiwaneseamerican-org/` · landing [[works/index]]]].
 
 ## Identity locks
 
 - 台美.org magazine ≠ TAH Who’s Who encyclopedia
-- Staff **Nicholas Huang** (Indianapolis) ≠ auto-merge [[people/nicholas-c-huang]]
+- Staff **Nicholas Huang** (Indianapolis) ≠ auto-merge [[people/nicholas-c-huang]]]]
 
 ## Related Pages
-- [[organizations/taiwaneseamerican-org]]
-- [[works/index|Historical works]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamerican-org]]]]
+- [[works/index||Historical works]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]

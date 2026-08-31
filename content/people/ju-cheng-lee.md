@@ -30,7 +30,7 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Wife:** [[people/jang-jang-yang-lee|李楊娟娟]]
+- **Wife:** [[people/jang-jang-yang-lee||李楊娟娟]]
 - **Daughter:** 李碧娥,李瑞鳳
 - **Son:** 李興國,李元宏
 
@@ -40,5 +40,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ju-cheng-lee/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

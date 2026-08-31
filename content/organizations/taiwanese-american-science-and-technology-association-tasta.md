@@ -22,5 +22,5 @@ TASTA is a civil and non-profit organization founded in May 2002 by Taiwanese Am
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-science-and-technology-association-tasta/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

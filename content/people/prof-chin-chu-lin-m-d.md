@@ -43,5 +43,5 @@ Prof. Chin-Chu Lin M.D. 林靜竹教授 – History of Taiwanese American (T.A. 
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-chin-chu-lin-m-d/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

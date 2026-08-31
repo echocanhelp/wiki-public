@@ -10,7 +10,7 @@ last_reviewed: 2026-07-16
 # 台灣加入世衛組織的歷程與展望
 
 **Date:** May 2, 2021  
-**Host / related:** [[organizations/taiwan-center|Taiwan Center Foundation of Greater Los Angeles]]  
+**Host / related:** [[organizations/taiwan-center||Taiwan Center Foundation of Greater Los Angeles]]  
 **Official page:** https://www.taiwancenter.org/event/taiwan-joining-who
 
 ## Summary
@@ -20,9 +20,9 @@ last_reviewed: 2026-07-16
 ## Source Notes
 
 - **Content priority A:** Official event page archive `taiwancenter-org-event-taiwan-joining-who.md`
-- **Hub:** [[sources/taiwancenter-org|taiwancenter.org]]
+- **Hub:** [[sources/taiwancenter-org||taiwancenter.org]]
 
 ## Related Pages
 
-- [[organizations/taiwan-center|Taiwan Center]]
-- [[sources/taiwancenter-org|taiwancenter.org]]
+- [[organizations/taiwan-center||Taiwan Center]]
+- [[sources/taiwancenter-org||taiwancenter.org]]

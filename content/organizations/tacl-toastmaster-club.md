@@ -22,5 +22,5 @@ TACL Toastmasters Club was founded in September 1992 by board members and member
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/tacl-toastmaster-club/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

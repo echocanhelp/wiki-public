@@ -13,7 +13,7 @@ last_reviewed: 2026-08-20
 - Era: 2024
 - Geography: Taiwanese America
 - Core roles: historical work (story; band A)
-- Source org: [[organizations/taiwaneseamerican-org]]
+- Source org: [[organizations/taiwaneseamerican-org]]]]
 
 ## Record
 - **Date:** 2024-01-21
@@ -84,6 +84,6 @@ https://baike.baidu.com/item/%E6%B0%B8%E5%92%8C%E8%B1%86%E6%B5%86/4723885 #refer
 - Perspectives
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[organizations/taiwaneseamerican-org]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[organizations/taiwaneseamerican-org]]]]
+- [[sources/taiwaneseamerican-org||Source hub]]

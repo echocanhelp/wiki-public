@@ -15,9 +15,9 @@ last_reviewed: 2026-08-17
 ---
 # Rev. Mingyuan Hsu (許明遠)
 
-**Rev. Mingyuan Hsu (許明遠牧師)** is the full-time pastor of [[organizations/good-shepherd-taiwanese-presbyterian-church|GSTPC]] (July 2019–present) and a Minister of Word and Sacrament in Los Ranchos Presbytery, PC(USA). He wrote a foreword for the 2025 republication of [[sources/toward-a-community-of-hope|Toward A Community of Hope]] and, in 2023, brought [[people/pinghsi-liu|Rev. Pinghsi Liu (劉炳熹)]] into that translation project.
+**Rev. Mingyuan Hsu (許明遠牧師)** is the full-time pastor of [[organizations/good-shepherd-taiwanese-presbyterian-church||GSTPC]] (July 2019–present) and a Minister of Word and Sacrament in Los Ranchos Presbytery, PC(USA). He wrote a foreword for the 2025 republication of [[sources/toward-a-community-of-hope||Toward A Community of Hope]] and, in 2023, brought [[people/pinghsi-liu||Rev. Pinghsi Liu (劉炳熹)]] into that translation project.
 
-Not [[people/ashton-hsu|Ashton Hsu]]. Not [[people/hsu-hsin-hung|Hsu Hsin-hung (徐新宏)]]. [[organizations/irvine-taiwanese-presbyterian-church|ITPC]]’s “Dr. 許明遠” book-launch line is a different name-string unless a 漢名 match is shown.
+Not [[people/ashton-hsu||Ashton Hsu]]. Not [[people/hsu-hsin-hung||Hsu Hsin-hung (徐新宏)]]. [[organizations/irvine-taiwanese-presbyterian-church||ITPC]]’s “Dr. 許明遠” book-launch line is a different name-string unless a 漢名 match is shown.
 
 ## Identity Snapshot
 - **English:** Rev. Ming Yuan Hsu / Mingyuan Hsu
@@ -36,15 +36,15 @@ Not [[people/ashton-hsu|Ashton Hsu]]. Not [[people/hsu-hsin-hung|Hsu Hsin-hung (
 - Taiwan civil-service qualification (公務人員資格檢定)
 - 成功大學航空太空研究所視聽中心
 - 成功大學醫學院視聽中心
-- [[organizations/good-shepherd-taiwanese-presbyterian-church|GSTPC]] — full-time pastor — **July 2019–present**
+- [[organizations/good-shepherd-taiwanese-presbyterian-church||GSTPC]] — full-time pastor — **July 2019–present**
 
-Predecessor listed by TAH: [[people/david-huang|Rev. David Huang (黃德利)]], GSTPC senior pastor 1980–2002.
+Predecessor listed by TAH: [[people/david-huang||Rev. David Huang (黃德利)]], GSTPC senior pastor 1980–2002.
 
 ## Timeline
 - **1982** — Converted at a 靈修會; committed to ministry (GSTPC)
 - **1982–1992** — Ten years of prayer before ordained ministry (GSTPC)
 - **1990** — Married 周美玲
-- **2018** — Hosted [[people/pinghsi-liu|劉炳熹]] family in North America (Liu foreword)
+- **2018** — Hosted [[people/pinghsi-liu||劉炳熹]] family in North America (Liu foreword)
 - **July 2019–** — GSTPC full-time pastor
 - **2020–** — GSTPC 靈修默想 / daily devotion archive ([devotion](https://gstpc.org/home/devotion-archive/); ~123 entries in 2020)
 - **2021** — GSTPC40 牧者前言 (設教 1980-12-07; thanked 歷任牧者)
@@ -62,9 +62,9 @@ Predecessor listed by TAH: [[people/david-huang|Rev. David Huang (黃德利)]], 
 
 Lai on the approach:
 
-> “When my esteemed Rev. Mingyuan Hsu of the Los Angeles Good Shepherd [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]] informed me that Rev. Pinghsi Liu and his team from the Tainan East Gate Barclay Memorial Church were interested in my dissertation…”
+> “When my esteemed Rev. Mingyuan Hsu of the Los Angeles Good Shepherd [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan]] informed me that Rev. Pinghsi Liu and his team from the Tainan East Gate Barclay Memorial Church were interested in my dissertation…”
 >
-> — [[people/albert-s-lai|Albert S. Lai]]
+> — [[people/albert-s-lai||Albert S. Lai]]
 
 ## Works
 
@@ -72,11 +72,11 @@ Lai on the approach:
 
 ### Title Mentions (1 article)
 
-1. **2025** — [[sources/toward-a-community-of-hope|Toward A Community of Hope (2025 Foreword)]] — catalyst for republication
+1. **2025** — [[sources/toward-a-community-of-hope||Toward A Community of Hope (2025 Foreword)]] — catalyst for republication
 
 ## Publications
 
-- **2025** — Foreword to the 50th anniversary republication of *Toward A Community of Hope — A Mission to Formosan Community in Los Angeles* (Taiwan Church Press). His foreword catalyzed the translation and publication project with [[people/pinghsi-liu|Rev. Pinghsi Liu]].
+- **2025** — Foreword to the 50th anniversary republication of *Toward A Community of Hope — A Mission to Formosan Community in Los Angeles* (Taiwan Church Press). His foreword catalyzed the translation and publication project with [[people/pinghsi-liu||Rev. Pinghsi Liu]].
 
 ## Network
 
@@ -85,50 +85,50 @@ Pages that link to **mingyuan-hsu** (mingyuan-hsu):
 
 ### People (12)
 
-1. [[people/albert-s-lai|albert-s-lai]]
-2. [[people/albert-s-lai|albert-s-lai]]
-3. [[people/alexander-macdonald|alexander-macdonald]]
-4. [[people/alexander-macdonald|alexander-macdonald]]
-5. [[people/ching-fang-chen|ching-fang-chen]]
-6. [[people/en-sheng-pan|en-sheng-pan]]
-7. [[people/index|index]]
-8. [[organizations/national-taiwanese-presbyterian-council|ntpc]]
-9. [[people/pinghsi-liu|pinghsi-liu]]
-10. [[people/pinghsi-liu|pinghsi-liu]]
-11. [[people/pingtung-lai|pingtung-lai]]
-12. [[people/yunching-yeh-davis|yunching-yeh-davis]]
+1. [[people/albert-s-lai||albert-s-lai]]
+2. [[people/albert-s-lai||albert-s-lai]]
+3. [[people/alexander-macdonald||alexander-macdonald]]
+4. [[people/alexander-macdonald||alexander-macdonald]]
+5. [[people/ching-fang-chen||ching-fang-chen]]
+6. [[people/en-sheng-pan||en-sheng-pan]]
+7. [[people/index||index]]
+8. [[organizations/national-taiwanese-presbyterian-council||ntpc]]
+9. [[people/pinghsi-liu||pinghsi-liu]]
+10. [[people/pinghsi-liu||pinghsi-liu]]
+11. [[people/pingtung-lai||pingtung-lai]]
+12. [[people/yunching-yeh-davis||yunching-yeh-davis]]
 
 ### Organizations (6)
 
-1. [[organizations/good-shepherd-taiwanese-presbyterian-church|good-shepherd-taiwanese-presbyterian-church]]
-2. [[organizations/good-shepherd-taiwanese-presbyterian-church|good-shepherd-taiwanese-presbyterian-church]]
-3. [[organizations/good-shepherd-taiwanese-presbyterian-church|good-shepherd-taiwanese-presbyterian-church]]
-4. [[organizations/good-shepherd-taiwanese-presbyterian-church|good-shepherd-taiwanese-presbyterian-church]]
-5. [[organizations/national-taiwanese-presbyterian-council|national-taiwanese-presbyterian-council]]
-6. [[organizations/national-taiwanese-presbyterian-council|national-taiwanese-presbyterian-council]]
+1. [[organizations/good-shepherd-taiwanese-presbyterian-church||good-shepherd-taiwanese-presbyterian-church]]
+2. [[organizations/good-shepherd-taiwanese-presbyterian-church||good-shepherd-taiwanese-presbyterian-church]]
+3. [[organizations/good-shepherd-taiwanese-presbyterian-church||good-shepherd-taiwanese-presbyterian-church]]
+4. [[organizations/good-shepherd-taiwanese-presbyterian-church||good-shepherd-taiwanese-presbyterian-church]]
+5. [[organizations/national-taiwanese-presbyterian-council||national-taiwanese-presbyterian-council]]
+6. [[organizations/national-taiwanese-presbyterian-council||national-taiwanese-presbyterian-council]]
 
 ### Sources (1)
 
-1. [[sources/toward-a-community-of-hope|toward-a-community-of-hope]]
+1. [[sources/toward-a-community-of-hope||toward-a-community-of-hope]]
 
 ## Related Pages
 
-- [[organizations/good-shepherd-taiwanese-presbyterian-church]]
-- [[sources/toward-a-community-of-hope]]
-- [[people/pinghsi-liu]]
-- [[people/ashton-hsu]]
-- [[people/hsu-hsin-hung]]
-- [[people/david-huang]]
-- [[people/albert-s-lai]]
-- [[people/alexander-macdonald]]
-- [[people/ching-fang-chen]]
-- [[people/en-sheng-pan]]
-- [[people/index]]
-- [[organizations/ntpc|NTPC]]
+- [[organizations/good-shepherd-taiwanese-presbyterian-church]]]]
+- [[sources/toward-a-community-of-hope]]]]
+- [[people/pinghsi-liu]]]]
+- [[people/ashton-hsu]]]]
+- [[people/hsu-hsin-hung]]]]
+- [[people/david-huang]]]]
+- [[people/albert-s-lai]]]]
+- [[people/alexander-macdonald]]]]
+- [[people/ching-fang-chen]]]]
+- [[people/en-sheng-pan]]]]
+- [[people/index]]]]
+- [[organizations/ntpc||NTPC]]
 
 ## Sources
 1. [GSTPC — 神的牧者 / Our Pastor](https://gstpc.org/home/our-pastor/)
 2. [GSTPC 靈修默想](https://gstpc.org/home/devotion-archive/)
-3. [[sources/toward-a-community-of-hope|Toward A Community of Hope]] (2025 reprint)
-4. [[organizations/national-taiwanese-presbyterian-council|NTPC]]
-5. [[organizations/good-shepherd-taiwanese-presbyterian-church|GSTPC]] org page
+3. [[sources/toward-a-community-of-hope||Toward A Community of Hope]] (2025 reprint)
+4. [[organizations/national-taiwanese-presbyterian-council||NTPC]]
+5. [[organizations/good-shepherd-taiwanese-presbyterian-church||GSTPC]] org page

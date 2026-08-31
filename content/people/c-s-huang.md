@@ -31,7 +31,7 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Husband:** [[people/nai-yuan-hu|胡乃元]]
+- **Husband:** [[people/nai-yuan-hu||胡乃元]]
 
 
 ## Sources
@@ -39,5 +39,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-s-huang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

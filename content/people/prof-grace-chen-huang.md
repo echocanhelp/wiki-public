@@ -42,5 +42,5 @@ Prof. Grace Chen Huang 陳怡安教授 – History of Taiwanese American (T.A. A
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-grace-chen-huang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

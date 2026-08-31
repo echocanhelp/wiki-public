@@ -22,5 +22,5 @@ The Taiwanese American Association of Mississippi (密西西比臺灣同鄉會) 
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-association-of-mississippi/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

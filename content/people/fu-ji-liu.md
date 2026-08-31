@@ -44,5 +44,5 @@ AA five-year junior college program graduate
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/fu-ji-liu/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

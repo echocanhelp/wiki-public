@@ -25,7 +25,7 @@ last_reviewed: 2026-08-18
 - **Husband:** 賴玉森醫師 (married 1992; no Echopedia page)
 - **Geography:** Taipei → California (1981) → Ohio (1992)
 - **Core roles:** choir accompanist; church pianist; Ariel Trio pianist; hospital pharmacy director (Taiwan); US pharmacist
-- **Tyzen link:** TAH: attended the **same church** as Prof. [[people/tyzen-hsiao|Tyzen Hsiao]] and served as 教會司琴. **Named congregation is not given** — do not invent a SoCal pew (Tyzen page: named SoCal home pew still missing)
+- **Tyzen link:** TAH: attended the **same church** as Prof. [[people/tyzen-hsiao||Tyzen Hsiao]] and served as 教會司琴. **Named congregation is not given** — do not invent a SoCal pew (Tyzen page: named SoCal home pew still missing)
 
 ## Overview
 
@@ -75,7 +75,7 @@ TAH English “M.S.” is not given a school name. Chinese text places the maste
 
 ## Tyzen Hsiao
 
-[[people/tyzen-hsiao]] network already lists Amy Lin as “TAH: same church pianist.” That is **all** the vault has. Tyzen’s own page still marks **named SoCal home pew: not found**. Write the church link as TAH’s wording, not as GSTPC, 牧谷, 台福, or FPCLA.
+[[people/tyzen-hsiao]]]] network already lists Amy Lin as “TAH: same church pianist.” That is **all** the vault has. Tyzen’s own page still marks **named SoCal home pew: not found**. Write the church link as TAH’s wording, not as GSTPC, 牧谷, 台福, or FPCLA.
 
 ## Name Variants / Disambiguation
 
@@ -94,9 +94,9 @@ TAH English “M.S.” is not given a school name. Chinese text places the maste
 
 ## Related Pages
 
-- [[people/tyzen-hsiao|Tyzen Hsiao (蕭泰然)]]
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[people/tyzen-hsiao||Tyzen Hsiao (蕭泰然)]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## Sources
 
@@ -104,4 +104,4 @@ TAH English “M.S.” is not given a school name. Chinese text places the maste
 - [TAH #557 encyclopedia: 557. Amy Lin 林惠美 / 2015/08](https://taiwaneseamericanhistory.org/557-amy-lin-%e6%9e%97%e6%83%a0%e7%be%8e-201508/)
 - [TAH #262 encyclopedia: 262. Amy Lin 林惠美, Pianist / 2015/08](https://taiwaneseamericanhistory.org/262-amy-lin-%e6%9e%97%e6%83%a0%e7%be%8e-pianist-201508/)
 - Credited on TAH card: 北美洲台灣婦女會第十三屆年會音樂會手冊
-- [[people/tyzen-hsiao|Tyzen Hsiao]] — network note only
+- [[people/tyzen-hsiao||Tyzen Hsiao]] — network note only

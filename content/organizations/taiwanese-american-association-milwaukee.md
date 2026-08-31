@@ -22,5 +22,5 @@ The Taiwanese American Association Milwaukee (TAAM, 密爾瓦基台灣同鄉會)
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-association-milwaukee/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

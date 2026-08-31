@@ -42,5 +42,5 @@ Heartland Institute Financial Education, CPP-College Planning Program
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/polly-chang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/ladies-of-taiwanese-heritage-apply-for-the-2012-miss-taiwanese-american-pageant|Ladies of Taiwanese Heritage: Apply for the 2012 Miss Taiwanese American Pageant]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/ladies-of-taiwanese-heritage-apply-for-the-2012-miss-taiwanese-american-pageant||Ladies of Taiwanese Heritage: Apply for the 2012 Miss Taiwanese American Pageant]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

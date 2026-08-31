@@ -33,7 +33,7 @@ last_reviewed: 2026-07-23
 
 ### Awakening to Taiwan Consciousness
 1. In 1981, the Chen Wen-cheng murder case shocked Taiwanese Americans; Professor Liao Shuzong established TAPA (North American Taiwanese Professors Association) in Chicago, leading to the formation of FAPA and other organizations.
-2. Xu met [[people/peng-ming-min|Peng Ming-min]] at a 1985 TAPA annual meeting in Des Moines, Iowa; they became close friends, with Peng addressing him by his given name.
+2. Xu met [[people/peng-ming-min||Peng Ming-min]] at a 1985 TAPA annual meeting in Des Moines, Iowa; they became close friends, with Peng addressing him by his given name.
 3. In Iowa, also befriended Taiwanese American writer Yang Yuanxun and the family of Hsu Hsiaojung, forming lasting connections.
 4. In 1985, joined Kaiser Permanente in Ontario, California, beginning his long-term medical career in Southern California.
 
@@ -60,10 +60,10 @@ last_reviewed: 2026-07-23
 
 ## Source Notes and Confidence
 - **Content priority A:** 2023 TAHS Publication (profile, "奠基‧傳承" section, ~2720 lines)
-- **Hub:** [[sources/2023-tahs-publication|2023 TAHS Publication]]
+- **Hub:** [[sources/2023-tahs-publication||2023 TAHS Publication]]
 - **Archive:** Section dump at `knowledge/research/tahs-2023-section-dumps/ye-siya-zhang-xinhui-xu-zongbang-li-mutong-chen-wenxue-wang-kexiong-...txt` (lines 1353–1857)
 - Layout-limited extraction; not a full translation
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/2023-tahs-publication|2023 TAHS Publication]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/2023-tahs-publication||2023 TAHS Publication]]

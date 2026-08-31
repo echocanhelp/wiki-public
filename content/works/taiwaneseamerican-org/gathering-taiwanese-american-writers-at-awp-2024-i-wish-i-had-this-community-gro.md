@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/gathering-taiwanese-american-writers-at-awp-2024-i-wish-i-had-this-community-gro|Gathering Taiwanese American Writers at AWP 2024: “I wish I had this community growing up.”]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/gathering-taiwanese-american-writers-at-awp-2024-i-wish-i-had-this-community-gro||Gathering Taiwanese American Writers at AWP 2024: “I wish I had this community growing up.”]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

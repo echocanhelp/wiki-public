@@ -22,5 +22,5 @@ The Taiwanese American Association of Rochester, New York (羅徹斯特台灣同
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-association-of-rochester-new-york/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

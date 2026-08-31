@@ -22,5 +22,5 @@ World Taiwan Foundation is an NGO that supports international charity work acros
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/world-taiwan-foundation/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/paperback-launch-party-for-julie-wus-the-third-son-in-ma-2|Paperback Launch Party for Julie Wu&#039;s &quot;The Third Son&quot; in MA]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/paperback-launch-party-for-julie-wus-the-third-son-in-ma-2||Paperback Launch Party for Julie Wu&#039;s &quot;The Third Son&quot; in MA]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

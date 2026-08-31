@@ -22,5 +22,5 @@ The Organization For The Support of Democratic Movement of Taiwan was founded in
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/organization-for-the-support-of-democratic-movement-of-taiwan/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

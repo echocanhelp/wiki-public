@@ -27,7 +27,7 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Husband:** [[people/tzutsai-cheng|鄭自才]]
+- **Husband:** [[people/tzutsai-cheng||鄭自才]]
 - **Daughter:** 鄭日青
 - **Son:** 鄭日傑
 
@@ -37,5 +37,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-m-cecilia-huang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

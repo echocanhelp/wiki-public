@@ -44,5 +44,5 @@ Sergeant, Lieutenant, Captain
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/khe-beng-chiong/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

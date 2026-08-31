@@ -22,5 +22,5 @@ Formosan Christians for Self Determination was a movement founded in 1973 to mob
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/formosar-chriotion-for-self-determination/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

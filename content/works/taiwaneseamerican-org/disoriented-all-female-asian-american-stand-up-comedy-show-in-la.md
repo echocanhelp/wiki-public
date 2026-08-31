@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/disoriented-all-female-asian-american-stand-up-comedy-show-in-la|Dis/orient/ed: All-Female Asian American Stand-up Comedy Show in LA]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/disoriented-all-female-asian-american-stand-up-comedy-show-in-la||Dis/orient/ed: All-Female Asian American Stand-up Comedy Show in LA]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

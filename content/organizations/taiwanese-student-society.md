@@ -22,5 +22,5 @@ The Taiwanese Student Society (TSS), known in Chinese as 明尼蘇達大學台�
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-student-society/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

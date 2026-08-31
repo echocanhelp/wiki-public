@@ -22,5 +22,5 @@ The Cornell Taiwanese Student Association (CTSA; 康乃爾臺灣同學會) is a 
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/cornell-taiwanese-student-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

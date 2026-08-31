@@ -32,7 +32,7 @@ Frank C.H. Chen (Conductor). Frank C.H. Chen holds a BS and MS degrees in Electr
 
 ## Family
 
-- **Wife:** [[people/amanda-hsu|許惠敏]]
+- **Wife:** [[people/amanda-hsu||許惠敏]]
 
 
 ## Sources
@@ -42,5 +42,5 @@ Frank C.H. Chen (Conductor). Frank C.H. Chen holds a BS and MS degrees in Electr
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/frank-c-h-chen/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

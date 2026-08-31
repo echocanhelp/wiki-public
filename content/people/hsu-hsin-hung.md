@@ -64,7 +64,7 @@ Over years of dedicated work, Hsu built a diversified enterprise group with oper
 
 ## Taiwan Identity and Community Engagement
 
-Hsu Hsin-hung distinguishes himself from many other Taiwanese American entrepreneurs through his strong Taiwan identity and advocacy. He has been vocal about his views on cross-strait relations, even before President [[people/chen-shuibian|Chen Shui-bian]]'s "one side, one state" (一邊一國) statement.
+Hsu Hsin-hung distinguishes himself from many other Taiwanese American entrepreneurs through his strong Taiwan identity and advocacy. He has been vocal about his views on cross-strait relations, even before President [[people/chen-shuibian||Chen Shui-bian]]'s "one side, one state" (一邊一國) statement.
 
 In 2002–2003, at his first Overseas Community Affairs Council (僑務委員會) meeting, Hsu noticed that even Chairman Chang Fu-mei (張富美) and others constantly used the terms "兩岸" (cross-strait) and "大陸" (mainland). He publicly raised concerns about this terminology and privately advised the Chairman to use "兩國" (two countries) instead, noting that "China" should be called "China," not "mainland."
 
@@ -89,31 +89,31 @@ Pages that link to **hsu-hsin-hung** (hsu-hsin-hung):
 
 ### People (3)
 
-1. [[people/lin-yuan-ching|lin-yuan-ching]]
-2. [[people/zhou-wei-lin|zhou-wei-lin]]
-3. [[people/zhou-wei-lin|zhou-wei-lin]]
+1. [[people/lin-yuan-ching||lin-yuan-ching]]
+2. [[people/zhou-wei-lin||zhou-wei-lin]]
+3. [[people/zhou-wei-lin||zhou-wei-lin]]
 
 ### Organizations (2)
 
-1. [[organizations/overseas-community-affairs-council|overseas-community-affairs-council]]
-2. [[organizations/overseas-community-affairs-council|overseas-community-affairs-council]]
+1. [[organizations/overseas-community-affairs-council||overseas-community-affairs-council]]
+2. [[organizations/overseas-community-affairs-council||overseas-community-affairs-council]]
 
 ### Sources (2)
 
-1. [[sources/2017-tahs-publication|2017-tahs-publication]]
-2. [[sources/ocac-gov-tw|ocac-gov-tw]]
+1. [[sources/2017-tahs-publication||2017-tahs-publication]]
+2. [[sources/ocac-gov-tw||ocac-gov-tw]]
 
 ## Source Notes and Confidence
 
-- **Content priority A:** 2017 TAHS Publication 加州佳和企業集團董事長兼總裁[[people/dr-john-hsu|徐新宏博士]], Part 1, L1405–1584 (~179 lines), written by 周威霖
+- **Content priority A:** 2017 TAHS Publication 加州佳和企業集團董事長兼總裁[[people/dr-john-hsu||徐新宏博士]], Part 1, L1405–1584 (~179 lines), written by 周威霖
 - **Content priority A:** Contains detailed biographical narrative including education, mentorship, founding of J.H. Biotech, business philosophy, and Taiwan identity advocacy
-- **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
+- **Hub:** [[sources/2017-tahs-publication||2017 TAHS Publication]]
 - **Note:** Full text includes extensive biographical detail including family background, the 228 birth year significance, Professor Sun's mentorship, and his public advocacy positions.
 
 ## Related Pages
 
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/2017-tahs-publication|2017 TAHS Publication]]
-- [[people/yang-jia-you|Charles Yang (楊嘉猷)]]
-- [[people/wang-gui-rong|Wang Gui-rong (王桂榮) — fellow 菁英錄 subject]]
-- [[people/lin-yuan-ching|Lin Yuan-qing (林元清) — fellow first-gen success story]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/2017-tahs-publication||2017 TAHS Publication]]
+- [[people/yang-jia-you||Charles Yang (楊嘉猷)]]
+- [[people/wang-gui-rong||Wang Gui-rong (王桂榮) — fellow 菁英錄 subject]]
+- [[people/lin-yuan-ching||Lin Yuan-qing (林元清) — fellow first-gen success story]]

@@ -33,8 +33,8 @@ Dr. Justine Fang Chen 陳潔思博士 – History of Taiwanese American (T.A. Ar
 
 - **Husband:** J Andrew Phillips
 - **Son:** Walter Tetz Phillips-Chen, Toshiro Trent Phillips-Chen
-- **Father:** [[people/wen-jer-chen|Wen Jer Chen]]
-- **Mother:** [[people/patsy-fang-chen|Patsy Fang Chen]]
+- **Father:** [[people/wen-jer-chen||Wen Jer Chen]]
+- **Mother:** [[people/patsy-fang-chen||Patsy Fang Chen]]
 
 
 ## Sources
@@ -43,5 +43,5 @@ Dr. Justine Fang Chen 陳潔思博士 – History of Taiwanese American (T.A. Ar
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-justine-fang-chen/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

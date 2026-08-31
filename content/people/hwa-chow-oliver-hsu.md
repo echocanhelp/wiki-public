@@ -44,5 +44,5 @@ Born and raised in Vienna, Austria, Hwa-Chow Oliver Hsu began studying cello at 
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hwa-chow-oliver-hsu/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

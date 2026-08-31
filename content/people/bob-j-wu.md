@@ -75,12 +75,12 @@ Wu's personal American dream has come full circle. He works in the same neighbor
 
 - **Content priority A:** 2017 TAHS Publication (self-authored "Brief Biography"), Part 2, ~71 lines
 - **Content priority A:** Contains detailed biographical narrative including early life, education, medical training, and community practice
-- **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
+- **Hub:** [[sources/2017-tahs-publication||2017 TAHS Publication]]
 - **Note:** The full text includes detailed biographical information including family background, education, and practice details.
 
 ## Related Pages
 
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/2017-tahs-publication|2017 TAHS Publication]]
-- [[people/franklin-ping-cheng|Franklin Ping Cheng (程炳成) — TAHS president]]
-- [[people/yang-jia-you|Charles Yang (楊嘉猷) — TAHS founding president]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/2017-tahs-publication||2017 TAHS Publication]]
+- [[people/franklin-ping-cheng||Franklin Ping Cheng (程炳成) — TAHS president]]
+- [[people/yang-jia-you||Charles Yang (楊嘉猷) — TAHS founding president]]

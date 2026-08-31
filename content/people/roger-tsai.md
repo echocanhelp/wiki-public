@@ -14,13 +14,13 @@ source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
 ---
 # Roger Tsai (蔡漢成)
 
-**Roger Tsai** (蔡漢成) serves as **Vice President (副會長), TAHS 2025** of the [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS / 台美人歷史協會)]].
+**Roger Tsai** (蔡漢成) serves as **Vice President (副會長), TAHS 2025** of the [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society (TAHS / 台美人歷史協會)]].
 
 ## Identity Snapshot
 - **English:** Roger Tsai
 - **Chinese:** 蔡漢成
 - **Core role (2025):** 副會長 — Vice President (副會長), TAHS 2025
-- **Organization:** [[organizations/taiwanese-american-historical-society|TAHS]]
+- **Organization:** [[organizations/taiwanese-american-historical-society||TAHS]]
 - **Era:** Contemporary (documented on 2025 TAHS org chart)
 
 ## Overview
@@ -38,17 +38,17 @@ This page is an **A-tier thin record** for graph linking and member-priority sco
 
 ## Works
 
-**roger-tsai** — **0** title hits, **16** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
+**roger-tsai** — **0** title hits, **16** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
 
 ### Body mentions (16)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]]
-2. [[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6|2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]]
-3. [[articles/taiwanjustice-net/2020/20201118162555_2018_06_27_大洛杉磯台灣會館會訊_2018-年六月-_大洛杉磯台灣_79291dad808ef7f7|大洛杉磯台灣會館會訊，2018 年六月 ◎大洛杉磯台灣會館 2018-06-27]]
-4. [[articles/taiwanjustice-net/2025/20250320212940_大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念_c62f5c50846fe267|大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念大會]]
-5. [[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74|台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元]]
+1. [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b||2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]]
+2. [[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6||2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]]
+3. [[articles/taiwanjustice-net/2020/20201118162555_2018_06_27_大洛杉磯台灣會館會訊_2018-年六月-_大洛杉磯台灣_79291dad808ef7f7||大洛杉磯台灣會館會訊，2018 年六月 ◎大洛杉磯台灣會館 2018-06-27]]
+4. [[articles/taiwanjustice-net/2025/20250320212940_大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念_c62f5c50846fe267||大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念大會]]
+5. [[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74||台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元]]
 
 
 ## Timeline
@@ -178,7 +178,7 @@ Notable quotes and mentions of **蔡漢成** in Taiwan Justice articles:
   - Article: `articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66.md`
   - Role: Listed as board director (董事) of Taiwan Center; listed among 38 directors for the 2024 fundraising gala.
   - Publisher: Freeman Huang (黃樹人); categories: `usa`, `taiwaneseamerican`, `taiwan-center`
-  - Wikilink: `[[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66|2024台灣會館26周年晚宴]]`
+  - Wikilink: `[[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66||2024台灣會館26周年晚宴]]`
 
 ## Taiwan Justice (台灣公義網) Citations
 
@@ -189,7 +189,7 @@ Notable quotes and mentions of **蔡漢成** in Taiwan Justice articles:
   - Live URL: [2024台灣會館26周年晚宴](https://echocanhelp.github.io/wiki-public/articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磮台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66.html)
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
-- [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]] — President (會長)
-- [[people/yang-jia-you|Charles Yang (楊嘉猷)]] — Treasurer (財務長); founding president
-- [[people/freeman-huang|Freeman Huang (黃樹人)]] — Secretary (秘書)
+- [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society (TAHS)]]
+- [[people/leonard-hsu-jr||Leonard Hsu Jr. (許景鴻)]] — President (會長)
+- [[people/yang-jia-you||Charles Yang (楊嘉猷)]] — Treasurer (財務長); founding president
+- [[people/freeman-huang||Freeman Huang (黃樹人)]] — Secretary (秘書)

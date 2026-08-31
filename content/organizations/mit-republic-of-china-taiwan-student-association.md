@@ -22,5 +22,5 @@ The MIT Republic of China (Taiwan) Student Association, known as MIT ROCSA, is a
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/mit-republic-of-china-taiwan-student-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

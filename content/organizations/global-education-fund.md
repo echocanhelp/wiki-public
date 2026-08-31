@@ -22,5 +22,5 @@ The Global Education Fund (美國環球教育基金會) was established in April
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/global-education-fund/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

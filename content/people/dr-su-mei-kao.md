@@ -34,7 +34,7 @@ Accomplishment
 
 ## Family
 
-- **Husband:** [[people/long-rong-mark-kao|高龍榮]]
+- **Husband:** [[people/long-rong-mark-kao||高龍榮]]
 - **Daughter:** Megan (高怡玫), Jennifer (高怡真)
 
 
@@ -44,5 +44,5 @@ Accomplishment
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-su-mei-kao/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

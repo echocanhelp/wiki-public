@@ -22,5 +22,5 @@ The Taiwanese American Senior Society – East Bay (TASS-EB) is a nonprofit, inf
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/tass-eb/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

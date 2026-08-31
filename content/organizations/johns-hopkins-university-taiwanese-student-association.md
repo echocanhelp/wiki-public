@@ -22,5 +22,5 @@ The Johns Hopkins University Taiwanese Student Association (JHUTSA) is a student
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/johns-hopkins-university-taiwanese-student-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

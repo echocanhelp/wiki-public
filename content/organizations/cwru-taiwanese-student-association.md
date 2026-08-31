@@ -22,5 +22,5 @@ The CWRU Taiwanese Student Association (CWRUTSA) is a student organization at Ca
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/cwru-taiwanese-student-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -22,5 +22,5 @@ The Taiwanese Association of Madison-WI (威斯康星州麥城台灣同鄉會) i
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-madison-wi/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

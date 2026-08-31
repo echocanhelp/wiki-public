@@ -30,9 +30,9 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Wife:** [[people/w-i-chen|陳石溫愛]]
-- **Son:** [[people/c-j-chen|陳銓仁]]
-- **Son:** [[people/lung-chen|陳隆]]
+- **Wife:** [[people/w-i-chen||陳石溫愛]]
+- **Son:** [[people/c-j-chen||陳銓仁]]
+- **Son:** [[people/lung-chen||陳隆]]
 - **Son:** 陳喜
 - **Son:** 陳堅
 - **Daughter:** 陳淳美
@@ -45,5 +45,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/m-l-chen/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

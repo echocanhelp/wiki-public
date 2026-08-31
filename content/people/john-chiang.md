@@ -63,7 +63,7 @@ In 2010, he was re-elected as State Controller. In 2014, his second term ended a
 
 ### Community Engagement
 
-Throughout his political career, Chiang has consistently given back to the Taiwanese American community. He served as president of the [[organizations/taiwanese-american-lawyers-association|Taiwanese American Lawyers Association]] and as a board member of the Los Angeles Taiwan Cultural Center. In 2013, Taiwanese community organizations held a fundraiser in Monterey Park supporting his campaign for State Treasurer. World Federation of Taiwanese Congress President 楊信 (Yang Hsin) praised Chiang's sincerity and dedication, urging full community support. TACL President 田詒鴻 (Alan Thian), Taiwan Chamber of Commerce President [[people/paul-chen|陳柏宇]], and Taiwan Cultural Association Chairman [[people/meifeng-tsai|王梅鳳]] all publicly endorsed him.
+Throughout his political career, Chiang has consistently given back to the Taiwanese American community. He served as president of the [[organizations/taiwanese-american-lawyers-association||Taiwanese American Lawyers Association]] and as a board member of the Los Angeles Taiwan Cultural Center. In 2013, Taiwanese community organizations held a fundraiser in Monterey Park supporting his campaign for State Treasurer. World Federation of Taiwanese Congress President 楊信 (Yang Hsin) praised Chiang's sincerity and dedication, urging full community support. TACL President 田詒鴻 (Alan Thian), Taiwan Chamber of Commerce President [[people/paul-chen||陳柏宇]], and Taiwan Cultural Association Chairman [[people/meifeng-tsai||王梅鳳]] all publicly endorsed him.
 
 Chiang also established a political internship program through TACL, opening his office to young Taiwanese Americans for civic engagement experience.
 
@@ -87,7 +87,7 @@ His childhood experience with racial discrimination shaped his worldview. He wit
 
 - **Content priority A:** 2017 TAHS Publication (profile L1126–1412, Part 2, ~286 lines), written by 楊文顯
 - **Content priority A:** Contains detailed biographical narrative including education, prosecutor career, State Controller election, Schwarzenegger dispute, and community support
-- **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
+- **Hub:** [[sources/2017-tahs-publication||2017 TAHS Publication]]
 - **Note:** The full text includes detailed biographical information including family background, education, prosecutorial career, and political achievements.
 
 ## Sources
@@ -113,10 +113,10 @@ His childhood experience with racial discrimination shaped his worldview. He wit
 - **Mother:** 沈吟香
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
+- [[organizations/tah-foundation||TAH Foundation]]
 
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/2017-tahs-publication|2017 TAHS Publication]]
-- [[people/yang-xin|楊信 (Yang Hsin) — organized fundraising]]
-- [[people/alan-thian|田詒鴻 (Alan Thian) — supported campaign]]
-- [[people/franklin-ping-cheng|Franklin Ping Cheng (程炳成) — TAHS president]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/2017-tahs-publication||2017 TAHS Publication]]
+- [[people/yang-xin||楊信 (Yang Hsin) — organized fundraising]]
+- [[people/alan-thian||田詒鴻 (Alan Thian) — supported campaign]]
+- [[people/franklin-ping-cheng||Franklin Ping Cheng (程炳成) — TAHS president]]

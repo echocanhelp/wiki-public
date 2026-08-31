@@ -22,5 +22,5 @@ The North American Taiwan Studies Association (NATSA) is a US-based 501(c)(3) no
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/north-american-taiwan-studies-associationnatsa/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

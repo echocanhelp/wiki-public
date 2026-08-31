@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/chicago-taiwanese-american-professionals-and-junior-chamber-of-commerce-host-bbq|Chicago Taiwanese American Professionals and Junior Chamber of Commerce Host BBQ Beach Party]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/chicago-taiwanese-american-professionals-and-junior-chamber-of-commerce-host-bbq||Chicago Taiwanese American Professionals and Junior Chamber of Commerce Host BBQ Beach Party]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

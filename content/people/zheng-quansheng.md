@@ -8,7 +8,7 @@ last_reviewed: 2026-07-08
 ---
 # Zheng Quansheng (鄭泉聲)
 
-**Zheng Quansheng (鄭泉聲)** is a member of the [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society]] community.
+**Zheng Quansheng (鄭泉聲)** is a member of the [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society]] community.
 
 ## Identity Snapshot
 - Era: Contemporary
@@ -30,9 +30,9 @@ Pages that link to **zheng-quansheng** (zheng-quansheng):
 
 ### People (3)
 
-1. [[people/guo-yingyan|guo-yingyan]]
-2. [[people/guo-yingyan|guo-yingyan]]
-3. [[people/index|index]]
+1. [[people/guo-yingyan||guo-yingyan]]
+2. [[people/guo-yingyan||guo-yingyan]]
+3. [[people/index||index]]
 
 ## Source Notes and Confidence
 - Needs verification: expanded biographical details
@@ -43,4 +43,4 @@ Pages that link to **zheng-quansheng** (zheng-quansheng):
 - Romanized: Zheng Quansheng / Zheng Quansheng
 
 ## Related Pages
-- [[people/index|People Index]]
+- [[people/index||People Index]]

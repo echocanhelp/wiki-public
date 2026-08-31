@@ -22,5 +22,5 @@ The Taiwanese Association – NC Chapter (北卡 台灣同鄉會) is a regional 
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-nc-chapter/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

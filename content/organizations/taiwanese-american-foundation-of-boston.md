@@ -22,5 +22,5 @@ The Taiwanese-American Foundation of Boston is a non-profit organization establi
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-foundation-of-boston/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

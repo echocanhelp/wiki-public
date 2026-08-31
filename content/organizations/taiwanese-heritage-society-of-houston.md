@@ -22,5 +22,5 @@ The Taiwanese Heritage Society of Houston (THSH) is an IRS 501(c)(3) non-profit 
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-heritage-society-of-houston/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

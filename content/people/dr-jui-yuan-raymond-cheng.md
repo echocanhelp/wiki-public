@@ -41,5 +41,5 @@ Dr. Jui Yuan (Raymond) Cheng 鄭瑞源博士 – History of Taiwanese American (
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-jui-yuan-raymond-cheng/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

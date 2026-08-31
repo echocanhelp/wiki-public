@@ -22,5 +22,5 @@ The Taiwanese Student Association at NC State (NCSU TSA) is a student organizati
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-student-association-at-nc-state/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

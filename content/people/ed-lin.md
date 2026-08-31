@@ -36,5 +36,5 @@ Waylaid (2002) won a Members' Choice Award at the Asian American Literary Awards
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ed-lin/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

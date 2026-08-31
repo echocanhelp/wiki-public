@@ -69,7 +69,7 @@ last_reviewed: 2026-08-17
 
 ## Source Notes and Confidence
 - **Content priority A:** 2023 TAHS Publication (profile, "奠基‧傳承" section, ~2720 lines)
-- **Hub:** [[sources/2023-tahs-publication|2023 TAHS Publication]]
+- **Hub:** [[sources/2023-tahs-publication||2023 TAHS Publication]]
 - **Archive:** Section dump at `knowledge/research/tahs-2023-section-dumps/ye-siya-zhang-xinhui-xu-zongbang-li-mutong-chen-wenxue-wang-kexiong-...txt` (lines 1860–2157)
 - Layout-limited extraction; not a full translation
 
@@ -77,5 +77,5 @@ last_reviewed: 2026-08-17
 - [TAH #703 encyclopedia: 703. Dr. Tom Lee 李木通 / 2015/11](https://taiwaneseamericanhistory.org/whos-tom-lee/)
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/2023-tahs-publication|2023 TAHS Publication]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/2023-tahs-publication||2023 TAHS Publication]]

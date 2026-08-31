@@ -41,5 +41,5 @@ Charlene Bos Alexander 莫霞琳 – History of Taiwanese American (T.A. Archive
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/charlene-bos-alexander/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -32,7 +32,7 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Wife:** [[people/sharon-s-hsu|許聖美]]
+- **Wife:** [[people/sharon-s-hsu||許聖美]]
 
 
 ## Sources
@@ -42,5 +42,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chung-chen-paul-hsu/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -26,10 +26,10 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/tappy-hour-with-tap-dc-in-arlington-va|TAPpy Hour with TAP-DC in Arlington, VA]]
-- [[works/taiwaneseamerican-org/tappy-hour-with-tap-dc|TAPpy Hour with TAP-DC]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/tappy-hour-with-tap-dc-in-arlington-va||TAPpy Hour with TAP-DC in Arlington, VA]]
+- [[works/taiwaneseamerican-org/tappy-hour-with-tap-dc||TAPpy Hour with TAP-DC]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

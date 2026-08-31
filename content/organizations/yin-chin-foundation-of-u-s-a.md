@@ -22,5 +22,5 @@ The Yin Chin Foundation of U.S.A. is a nonprofit charitable organization registe
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/yin-chin-foundation-of-u-s-a/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

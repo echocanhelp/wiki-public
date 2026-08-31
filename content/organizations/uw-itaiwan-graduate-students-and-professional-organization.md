@@ -22,5 +22,5 @@ The UW iTaiwan Graduate Students and Professional Organization (Chinese name: ше
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/uw-itaiwan-graduate-students-and-professional-organization/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -22,5 +22,5 @@ The Silicon Valley Taiwanese American Association (矽谷台灣同鄉會) is a r
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/silicon-valley-taiwanese-american-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

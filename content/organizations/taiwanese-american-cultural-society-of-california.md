@@ -22,5 +22,5 @@ The Taiwanese American Cultural Society of California is a cultural organization
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-cultural-society-of-california/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

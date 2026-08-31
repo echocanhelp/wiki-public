@@ -32,7 +32,7 @@ Accomplishment
 
 ## Family
 
-- **Father:** [[people/simon-cheng|鄭良光]]
+- **Father:** [[people/simon-cheng||鄭良光]]
 - **Mother:** Christine (鄭何如璋)
 
 
@@ -43,5 +43,5 @@ Accomplishment
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/john-enger-cheng/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

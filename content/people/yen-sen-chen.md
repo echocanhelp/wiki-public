@@ -41,7 +41,7 @@ Senior Research fellow and Suborbital science experiment program manager
 
 ## Family
 
-- **Wife:** [[people/t-y-ko|柯翠園]]
+- **Wife:** [[people/t-y-ko||柯翠園]]
 
 
 ## Sources
@@ -50,5 +50,5 @@ Senior Research fellow and Suborbital science experiment program manager
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yen-sen-chen/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

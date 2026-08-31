@@ -23,7 +23,7 @@ Diana Y Huang (黃玉桂) is listed in the TAH Foundation Who’s Who Taiwanese 
 
 ## Family
 
-- **Wife:** [[people/philip-s-chen|陳伸夫]]
+- **Wife:** [[people/philip-s-chen||陳伸夫]]
 
 
 ## Sources
@@ -31,5 +31,5 @@ Diana Y Huang (黃玉桂) is listed in the TAH Foundation Who’s Who Taiwanese 
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/diana-y-huang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -44,5 +44,5 @@ Staff Psychiatrist, Director
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ih-foo-lin/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

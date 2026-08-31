@@ -12,7 +12,7 @@ last_reviewed: 2026-08-30
 ---
 # taiwancenter.org — Taiwan Center Foundation website
 
-Official website of the **[[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles (大洛杉磯台灣會館)]]**.
+Official website of the **[[organizations/taiwan-center||Taiwan Center Foundation of the Greater Los Angeles (大洛杉磯台灣會館)]]**.
 
 - **Live site:** [https://www.taiwancenter.org/](https://www.taiwancenter.org/)
 - **Full-domain archive (Tier 2):** `knowledge/web-archives/taiwancenter-org-*.md`
@@ -43,17 +43,17 @@ Official website of the **[[organizations/taiwan-center|Taiwan Center Foundation
 
 ## How Echopedia uses this source
 
-1. Facts applied to **[[organizations/taiwan-center|Taiwan Center]]** primary page  
+1. Facts applied to **[[organizations/taiwan-center||Taiwan Center]]** primary page  
 2. Officers → thin **people/** pages  
 3. Selected member orgs → thin **organizations/** pages + wikilinks  
 4. Long lists (full group membership) remain in archives; summarized on primary/source  
 
 ## Related Pages
 
-- [[organizations/taiwan-center|Taiwan Center Foundation of Greater Los Angeles]]
-- [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
-- [[organizations/fapa-los-angeles|FAPA Los Angeles]]
-- [[organizations/fapa-orange-county|FAPA Orange County]]
-- [[people/ken-wu|Ken Wu (吳兆峯)]]
-- [[people/alan-thian|Alan Thian (田詒鴻)]]
-- [[people/simon-lin|Simon Lin (林榮松)]]
+- [[organizations/taiwan-center||Taiwan Center Foundation of Greater Los Angeles]]
+- [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society (TAHS)]]
+- [[organizations/fapa-los-angeles||FAPA Los Angeles]]
+- [[organizations/fapa-orange-county||FAPA Orange County]]
+- [[people/ken-wu||Ken Wu (吳兆峯)]]
+- [[people/alan-thian||Alan Thian (田詒鴻)]]
+- [[people/simon-lin||Simon Lin (林榮松)]]

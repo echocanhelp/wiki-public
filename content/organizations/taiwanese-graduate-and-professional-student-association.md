@@ -22,5 +22,5 @@ The Taiwanese Graduate and Professional Student Association (TGAPSA), also refer
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-graduate-and-professional-student-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

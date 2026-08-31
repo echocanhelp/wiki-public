@@ -33,7 +33,7 @@ Accomplishment
 
 ## Family
 
-- **Father:** [[people/ching-ih-wang|王進益]]
+- **Father:** [[people/ching-ih-wang||王進益]]
 - **Mother:** 吳淑莊
 
 
@@ -42,5 +42,5 @@ Accomplishment
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/edward-k-wang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

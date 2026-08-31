@@ -43,5 +43,5 @@ Shiu-Sian Angel Hsu Wang 許秀香 – History of Taiwanese American (T.A. Archi
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shiu-sian-angel-hsu-wang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

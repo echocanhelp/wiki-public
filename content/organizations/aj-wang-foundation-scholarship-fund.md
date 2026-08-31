@@ -22,5 +22,5 @@ The AJ Wang Foundation is a 501(c)(3) non-profit organization established in Nov
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/aj-wang-foundation-scholarship-fund/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

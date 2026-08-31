@@ -13,7 +13,7 @@ last_reviewed: 2026-08-17
 ---
 # Rev. Pinghsi Liu (劉炳熹)
 
-**Rev. Pinghsi Liu (劉炳熹)** is a [[organizations/presbyterian-church-in-taiwan|PCT]] pastor. From 14 September 2020 he was **第十任** pastor of [[organizations/tainan-east-gate-barclay-memorial-church|台南東門巴克禮紀念教會]]. On 31 May 2026 he was installed as fifth senior pastor of [[organizations/chunglun-presbyterian-church|七星中會中崙教會]] (Taipei). He translated / published [[sources/toward-a-community-of-hope|Toward A Community of Hope]] with [[people/mingyuan-hsu|許明遠]].
+**Rev. Pinghsi Liu (劉炳熹)** is a [[organizations/presbyterian-church-in-taiwan||PCT]] pastor. From 14 September 2020 he was **第十任** pastor of [[organizations/tainan-east-gate-barclay-memorial-church||台南東門巴克禮紀念教會]]. On 31 May 2026 he was installed as fifth senior pastor of [[organizations/chunglun-presbyterian-church||七星中會中崙教會]] (Taipei). He translated / published [[sources/toward-a-community-of-hope||Toward A Community of Hope]] with [[people/mingyuan-hsu||許明遠]].
 
 ## Identity Snapshot
 
@@ -27,7 +27,7 @@ last_reviewed: 2026-08-17
 ## Timeline
 
 - **2016** — Theological lecturer for TCCANA, invited by PCT General Assembly Evangelism Committee (Liu 2025 foreword)
-- **2018** — Family trip to North America; hospitality of [[people/mingyuan-hsu|許明遠]]
+- **2018** — Family trip to North America; hospitality of [[people/mingyuan-hsu||許明遠]]
 - **2020-09-14** — Installed 第十任, East Gate Barclay ([教會歷史](https://eastgatebarclay.org/aboutme/%E6%95%99%E6%9C%83%E6%AD%B7%E5%8F%B2/); YouTube 就任)
 - **2021-08** — East Gate hired 王鋼傳道師 (church history)
 - **2023** — Hsu invited him to translate Lai; East Gate hired 張簡盈真 as 關懷牧師 (June)
@@ -37,7 +37,7 @@ East Gate’s “關於本會” still said 現任劉炳熹 when fetched 2026-08
 
 ## Role in the 2025 Republication
 
-> **Primary work page:** [[sources/toward-a-community-of-hope|Toward A Community of Hope (work & sources)]]  
+> **Primary work page:** [[sources/toward-a-community-of-hope||Toward A Community of Hope (work & sources)]]  
 > **Full text (GitHub):** [complete extract](https://github.com/echocanhelp/wiki-public/blob/gh-pages/knowledge/web-archives/albert-lai-toward-community-of-hope.md)
 
 From his 2025 foreword material:
@@ -54,11 +54,11 @@ From his 2025 foreword material:
 
 ### Title Mentions (1 article)
 
-1. **2025** — [[sources/toward-a-community-of-hope|Toward A Community of Hope (2025 Translation)]] — co-translator and publisher
+1. **2025** — [[sources/toward-a-community-of-hope||Toward A Community of Hope (2025 Translation)]] — co-translator and publisher
 
 ## Publications
 
-- **2025** — Co-translated and published *Toward A Community of Hope — A Mission to Formosan Community in Los Angeles* (Taiwan Church Press / Incorporated Association of Tainan East Gate Barclay History Education Promotion) with [[people/mingyuan-hsu|Rev. Mingyuan Hsu]].
+- **2025** — Co-translated and published *Toward A Community of Hope — A Mission to Formosan Community in Los Angeles* (Taiwan Church Press / Incorporated Association of Tainan East Gate Barclay History Education Promotion) with [[people/mingyuan-hsu||Rev. Mingyuan Hsu]].
 
 ## Quotes
 
@@ -72,22 +72,22 @@ Pages that link to **pinghsi-liu** (pinghsi-liu):
 
 ### People (7)
 
-1. [[people/albert-s-lai|albert-s-lai]]
-2. [[people/albert-s-lai|albert-s-lai]]
-3. [[people/ching-fang-chen|ching-fang-chen]]
-4. [[people/en-sheng-pan|en-sheng-pan]]
-5. [[people/index|index]]
-6. [[organizations/national-taiwanese-presbyterian-council|ntpc]]
-7. [[people/pingtung-lai|pingtung-lai]]
+1. [[people/albert-s-lai||albert-s-lai]]
+2. [[people/albert-s-lai||albert-s-lai]]
+3. [[people/ching-fang-chen||ching-fang-chen]]
+4. [[people/en-sheng-pan||en-sheng-pan]]
+5. [[people/index||index]]
+6. [[organizations/national-taiwanese-presbyterian-council||ntpc]]
+7. [[people/pingtung-lai||pingtung-lai]]
 
 ### Organizations (2)
 
-1. [[organizations/national-taiwanese-presbyterian-council|national-taiwanese-presbyterian-council]]
-2. [[organizations/national-taiwanese-presbyterian-council|national-taiwanese-presbyterian-council]]
+1. [[organizations/national-taiwanese-presbyterian-council||national-taiwanese-presbyterian-council]]
+2. [[organizations/national-taiwanese-presbyterian-council||national-taiwanese-presbyterian-council]]
 
 ### Sources (1)
 
-1. [[sources/toward-a-community-of-hope|toward-a-community-of-hope]]
+1. [[sources/toward-a-community-of-hope||toward-a-community-of-hope]]
 
 ## Source Notes and Confidence
 
@@ -102,10 +102,10 @@ Pages that link to **pinghsi-liu** (pinghsi-liu):
 
 ## Related Pages
 
-- [[sources/toward-a-community-of-hope|Toward A Community of Hope]]
-- [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
-- [[people/mingyuan-hsu|Rev. Mingyuan Hsu (許明遠)]]
-- [[organizations/tainan-east-gate-barclay-memorial-church|東門巴克禮紀念教會]]
-- [[organizations/chunglun-presbyterian-church|中崙教會]]
-- [[people/thomas-barclay|Thomas Barclay (巴克禮)]]
-- [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]]
+- [[sources/toward-a-community-of-hope||Toward A Community of Hope]]
+- [[people/albert-s-lai||Dr. Albert S. Lai (賴信雄)]]
+- [[people/mingyuan-hsu||Rev. Mingyuan Hsu (許明遠)]]
+- [[organizations/tainan-east-gate-barclay-memorial-church||東門巴克禮紀念教會]]
+- [[organizations/chunglun-presbyterian-church||中崙教會]]
+- [[people/thomas-barclay||Thomas Barclay (巴克禮)]]
+- [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan]]

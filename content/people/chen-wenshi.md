@@ -15,7 +15,7 @@ last_reviewed: 2026-08-20
 ---
 # Stone Chen (陳文石)
 
-**Stone Chen** is the **public / legal English name** on TAH Who’s Who (`English Name: Stone Chen`). **陳文石** is the 漢名. **Chen Wenshi** is a Pinyin dump — display only, not the legal EN. Slug stays `chen-wenshi`. Alias page: [[people/stone-chen]].
+**Stone Chen** is the **public / legal English name** on TAH Who’s Who (`English Name: Stone Chen`). **陳文石** is the 漢名. **Chen Wenshi** is a Pinyin dump — display only, not the legal EN. Slug stays `chen-wenshi`. Alias page: [[people/stone-chen]]]].
 
 ## Identity Snapshot
 
@@ -111,8 +111,8 @@ TAH card title **Stone Chen 陳文石**. English Name = **Stone Chen**. Do not o
 | 1995 | With 林哲雄醫師 et al.: 台灣望春風文化出版社 | TAH |
 | 2000 | 民進黨美西黨部主委 | TAH; CNA/TJ 2020 also says 曾任民主進步黨美西黨部主委 |
 | 2006 | 全僑和平民主聯盟總盟理事長 | TAH |
-| 2007–08 | Chairman, [[organizations/taiwan-center|大洛杉磯台灣會館]] | TAH |
-| 2018-08-09 | Co-coordinator, 蕭泰然音樂節 / Maestro [[people/tyzen-hsiao|Tyzen Hsiao]] Music Festival, LA | TAH |
+| 2007–08 | Chairman, [[organizations/taiwan-center||大洛杉磯台灣會館]] | TAH |
+| 2018-08-09 | Co-coordinator, 蕭泰然音樂節 / Maestro [[people/tyzen-hsiao||Tyzen Hsiao]] Music Festival, LA | TAH |
 
 Education **conflict, keep both:** 2023 TAHS pub: 1960 成大外文, 1964 graduate. TAH: 1969 復興美工, 1974/75 師大美術. Do not flatten into one degree.
 
@@ -138,25 +138,25 @@ Education **conflict, keep both:** 2023 TAHS pub: 1960 成大外文, 1964 gradua
 
 ## Works
 
-**chen-wenshi** — **2** title hits, **5** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
+**chen-wenshi** — **2** title hits, **5** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
 
 ### 2025 (1)
 
-1. [[articles/taiwanjustice-net/2025/20251205211626_看寶石激發創作靈感_陳文石相隔28年返台展畫_4036955fa8493ebc|看寶石激發創作靈感，陳文石相隔28年返台展畫]]
+1. [[articles/taiwanjustice-net/2025/20251205211626_看寶石激發創作靈感_陳文石相隔28年返台展畫_4036955fa8493ebc||看寶石激發創作靈感，陳文石相隔28年返台展畫]]
 
 ### 2024 (1)
 
-1. [[articles/taiwanjustice-net/2024/20240225151323_root_622221d578f3cb3e|蘇奕榮．陳文石藝壇雙傑 台南台江文化中心跨年展[影]]]
+1. [[articles/taiwanjustice-net/2024/20240225151323_root_622221d578f3cb3e||蘇奕榮．陳文石藝壇雙傑 台南台江文化中心跨年展[影]]]
 
 ### Body mentions (5)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]]
-2. [[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6|2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]]
-3. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596|台美人台加人]]
-4. [[articles/taiwanjustice-net/2024/20240224182938_root_c998eeb8ae0eb037|台灣人文藝術]]
-5. [[articles/taiwanjustice-net/2024/20240724234326_root_cd2062fe6528223c|The Beauty of Taiwan-Heart of Asia Exhibition & Art Talk 台灣之美‧亞洲之心國際巡迴展 4/1~2,]]
+1. [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b||2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]]
+2. [[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6||2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]]
+3. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596||台美人台加人]]
+4. [[articles/taiwanjustice-net/2024/20240224182938_root_c998eeb8ae0eb037||台灣人文藝術]]
+5. [[articles/taiwanjustice-net/2024/20240724234326_root_cd2062fe6528223c||The Beauty of Taiwan-Heart of Asia Exhibition & Art Talk 台灣之美‧亞洲之心國際巡迴展 4/1~2,]]
 
 
 ## Timeline
@@ -272,7 +272,7 @@ Notable quotes and mentions of **陳文石** in Taiwan Justice articles:
 ## Source Notes and Confidence
 
 - **Content priority:** A (primary source — 2023 TAHS Publication, profile Part 2)
-- **Hub:** [[sources/2023-tahs-publication|2023 TAHS Publication]]
+- **Hub:** [[sources/2023-tahs-publication||2023 TAHS Publication]]
 
 <!-- tah-tables:start -->
 ## Education
@@ -292,50 +292,50 @@ Notable quotes and mentions of **陳文石** in Taiwan Justice articles:
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/stone-chen/)
 
 ## Related Pages
-- [[people/stone-chen|Stone Chen]] — alias / TAH slug
-- [[people/tyzen-hsiao|Tyzen Hsiao (蕭泰然)]]
-- [[organizations/taiwan-center|大洛杉磯台灣會館]]
-- [[organizations/democratic-progressive-party|DPP]]
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/2023-tahs-publication|2023 TAHS Publication]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[people/stone-chen||Stone Chen]] — alias / TAH slug
+- [[people/tyzen-hsiao||Tyzen Hsiao (蕭泰然)]]
+- [[organizations/taiwan-center||大洛杉磯台灣會館]]
+- [[organizations/democratic-progressive-party||DPP]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/2023-tahs-publication||2023 TAHS Publication]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## TJ Citations
 
 Articles from taiwanjustice.net mentioning **陳文石 (Chen Wenshi)**:
 
-1. **2020-11-25** — [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596|台美人台加人]]
+1. **2020-11-25** — [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596||台美人台加人]]
    - Source: https://www.taiwanjustice.net/?cat=59&filter_by=random_posts&paged=352
    - Match: alias='陳文石' where=body pts=40
    - Score: 760
 
-2. **2024-02-21** — [[articles/taiwanjustice-net/2024/20240224182938_root_c998eeb8ae0eb037|台灣人文藝術]]
+2. **2024-02-21** — [[articles/taiwanjustice-net/2024/20240224182938_root_c998eeb8ae0eb037||台灣人文藝術]]
    - Source: https://www.taiwanjustice.net/?cat=113&filter_by=featured
    - Match: alias='陳文石' where=body pts=40
    - Score: 740
 
-3. **2021-05-17** — [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]]
+3. **2021-05-17** — [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b||2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]]
    - Source: https://www.taiwanjustice.net/2021/05/17/2021%E5%B9%B4%E5%8D%97%E5%8A%A0%E5%B7%9E%E5%83%91%E7%95%8C%E6%94%AF%E6%8C%81%E5%8F%B0%E7%81%A3%E5%8F%83%E8%88%87%E4%B8%96%E7%95%8C%E8%A1%9B%E7%94%9F%E5%A4%A7%E6%9C%83wha%E8%81%AF%E5%90%88%E8%81%B2/
    - Match: alias='陳文石' where=body pts=40
    - Score: 520
 
-4. **2021-05-17** — [[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6|2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]]
+4. **2021-05-17** — [[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6||2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]]
    - Source: https://taiwanjustice.net/2021%E5%B9%B4%E5%8D%97%E5%8A%A0%E5%B7%9E%E5%83%91%E7%95%8C%E6%94%AF%E6%8C%81%E5%8F%B0%E7%81%A3%E5%8F%83%E8%88%87%E4%B8%96%E7%95%8C%E8%A1%9B%E7%94%9F%E5%A4%A7%E6%9C%83wha%E8%81%AF%E5%90%88%E8%81%B2/
    - Match: alias='陳文石' where=body pts=40
    - Score: 515
 
-5. **2020-03-21** — [[articles/taiwanjustice-net/2025/20251205211626_看寶石激發創作靈感_陳文石相隔28年返台展畫_4036955fa8493ebc|看寶石激發創作靈感，陳文石相隔28年返台展畫]]
+5. **2020-03-21** — [[articles/taiwanjustice-net/2025/20251205211626_看寶石激發創作靈感_陳文石相隔28年返台展畫_4036955fa8493ebc||看寶石激發創作靈感，陳文石相隔28年返台展畫]]
    - Source: https://taiwanjustice.net/%E7%9C%8B%E5%AF%B6%E7%9F%B3%E6%BF%80%E7%99%BC%E5%89%B5%E4%BD%9C%E9%9D%88%E6%84%9F%EF%BC%8C%E9%99%B3%E6%96%87%E7%9F%B3%E7%9B%B8%E9%9A%9428%E5%B9%B4%E8%BF%94%E5%8F%B0%E5%B1%95%E7%95%AB/
    - Match: alias='陳文石' where=title pts=100
    - Score: 200
 
-6. **2023-12-18** — [[articles/taiwanjustice-net/2024/20240225151323_root_622221d578f3cb3e|蘇奕榮．陳文石藝壇雙傑 台南台江文化中心跨年展[影]]]
+6. **2023-12-18** — [[articles/taiwanjustice-net/2024/20240225151323_root_622221d578f3cb3e||蘇奕榮．陳文石藝壇雙傑 台南台江文化中心跨年展[影]]]
    - Source: https://www.taiwanjustice.net/?p=371082
    - Match: alias='陳文石' where=title pts=100
    - Score: 125
 
-7. **2017-03-14** — [[articles/taiwanjustice-net/2024/20240724234326_root_cd2062fe6528223c|The Beauty of Taiwan-Heart of Asia Exhibition & Art Talk 台灣之美‧亞洲之心國際巡迴展 4/1~2,]]
+7. **2017-03-14** — [[articles/taiwanjustice-net/2024/20240724234326_root_cd2062fe6528223c||The Beauty of Taiwan-Heart of Asia Exhibition & Art Talk 台灣之美‧亞洲之心國際巡迴展 4/1~2,]]
    - Source: https://www.taiwanjustice.net/?p=106987
    - Match: alias='陳文石' where=body pts=40
    - Score: 65

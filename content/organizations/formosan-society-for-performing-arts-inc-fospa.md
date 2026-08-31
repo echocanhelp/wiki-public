@@ -22,5 +22,5 @@ The Formosan Society for Performing Arts Inc. (FOSPA) is a nonprofit, non-religi
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/formosan-society-for-performing-arts-inc-fospa/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

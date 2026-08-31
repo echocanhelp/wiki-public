@@ -34,7 +34,7 @@ Accomplishment
 
 - **Husband:** Sean Gray
 - **Father:** 張連彰
-- **Mother:** [[people/sarolina-chang|沈麗華]]
+- **Mother:** [[people/sarolina-chang||沈麗華]]
 
 
 ## Sources
@@ -43,5 +43,5 @@ Accomplishment
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/stephanie-chang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

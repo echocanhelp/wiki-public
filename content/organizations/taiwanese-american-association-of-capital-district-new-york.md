@@ -22,5 +22,5 @@ The Taiwanese American Association of Capital District, New York (TAA-CDNY; Á¥êÁ
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-association-of-capital-district-new-york/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

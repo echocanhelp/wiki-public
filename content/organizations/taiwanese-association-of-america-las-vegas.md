@@ -22,5 +22,5 @@ The Taiwanese Association of America Las Vegas (TAALV, 拉斯維加斯 台灣同
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-las-vegas/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -42,5 +42,5 @@ Chester Cherng Chiou Wu 吳澄秋博士 – History of Taiwanese American (T.A. 
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chester-cherng-chiou-wu/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

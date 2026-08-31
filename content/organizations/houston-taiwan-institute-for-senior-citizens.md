@@ -22,5 +22,5 @@ The Houston Taiwan Institute for Senior Citizens is a nonprofit educational inst
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/houston-taiwan-institute-for-senior-citizens/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

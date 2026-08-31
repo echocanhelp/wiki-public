@@ -33,7 +33,7 @@ last_reviewed: 2026-08-17
 - **Wife:** May
 - **Daughter:** Alice Lin
 - **Son:** David Lin
-- **Son:** [[people/frank-lin|Frank Lin]]
+- **Son:** [[people/frank-lin||Frank Lin]]
 
 
 ## Sources
@@ -41,5 +41,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e6%9e%97%e5%bd%b0%e5%bd%a9/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

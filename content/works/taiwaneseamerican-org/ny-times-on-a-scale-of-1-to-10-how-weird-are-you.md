@@ -26,10 +26,10 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/ny-times-on-a-scale-of-1-to-10-how-weird-are-you|NY Times: &#8220;On a Scale of 1 to 10, How Weird Are You?&#8221;]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[articles/taiwanjustice-net/2023/20231208225407_root_12f4fa36695ac846|10]]
+- [[works/taiwaneseamerican-org/ny-times-on-a-scale-of-1-to-10-how-weird-are-you||NY Times: &#8220;On a Scale of 1 to 10, How Weird Are You?&#8221;]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[articles/taiwanjustice-net/2023/20231208225407_root_12f4fa36695ac846||10]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

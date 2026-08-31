@@ -33,7 +33,7 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Husband:** [[people/yung-hwa-hsu|許永華]]
+- **Husband:** [[people/yung-hwa-hsu||許永華]]
 - **Son:** Edward
 
 
@@ -42,5 +42,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/amy-hsu/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

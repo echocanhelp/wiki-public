@@ -32,7 +32,7 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Wife:** [[people/tah-p-5cf2b4632a|須藤正子]]
+- **Wife:** [[people/tah-p-5cf2b4632a||須藤正子]]
 
 
 ## Sources
@@ -40,5 +40,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/long-lee/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

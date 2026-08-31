@@ -10,7 +10,7 @@ last_reviewed: 2026-07-16
 # 二二八追思紀念會暨系列活動
 
 **Date:** February 28, 2026  
-**Host / related:** [[organizations/taiwan-center|Taiwan Center Foundation of Greater Los Angeles]]  
+**Host / related:** [[organizations/taiwan-center||Taiwan Center Foundation of Greater Los Angeles]]  
 **Official page:** https://www.taiwancenter.org/event/228-memorial-commemoration-ceremony
 
 ## Summary
@@ -20,9 +20,9 @@ last_reviewed: 2026-07-16
 ## Source Notes
 
 - **Content priority A:** Official event page archive `taiwancenter-org-event-228-memorial-commemoration-ceremony.md`
-- **Hub:** [[sources/taiwancenter-org|taiwancenter.org]]
+- **Hub:** [[sources/taiwancenter-org||taiwancenter.org]]
 
 ## Related Pages
 
-- [[organizations/taiwan-center|Taiwan Center]]
-- [[sources/taiwancenter-org|taiwancenter.org]]
+- [[organizations/taiwan-center||Taiwan Center]]
+- [[sources/taiwancenter-org||taiwancenter.org]]

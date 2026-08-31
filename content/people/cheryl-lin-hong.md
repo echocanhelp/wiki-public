@@ -41,5 +41,5 @@ Ms. Cheryl Lin Hong started her piano lesson at 5, and was fascinated by music s
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/cheryl-lin-hong/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

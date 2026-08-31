@@ -32,12 +32,12 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Wife:** [[people/j-h-justina-shieh|謝節惠]]
+- **Wife:** [[people/j-h-justina-shieh||謝節惠]]
 
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/m-s-wu/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

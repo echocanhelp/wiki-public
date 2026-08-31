@@ -44,5 +44,5 @@ Dr. Tai Lin was born in Taipei, Taiwan and graduated from Taiwan National Tsing 
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tai-lin/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

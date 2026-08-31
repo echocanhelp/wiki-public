@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/epic-taiwanese-film-warriors-of-the-rainbow-seediq-bale-opening-across-north-ame|Epic Taiwanese Film &#8220;Warriors of the Rainbow: Seediq Bale&#8221; Opening Across North America]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/epic-taiwanese-film-warriors-of-the-rainbow-seediq-bale-opening-across-north-ame||Epic Taiwanese Film &#8220;Warriors of the Rainbow: Seediq Bale&#8221; Opening Across North America]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

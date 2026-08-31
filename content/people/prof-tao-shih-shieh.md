@@ -40,5 +40,5 @@ Prof. Tao-Shih Shieh 謝道時教授 – History of Taiwanese American (T.A. Arc
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-tao-shih-shieh/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -13,7 +13,7 @@ last_reviewed: 2026-08-30
 ---
 # Good Shepherd Taiwanese Presbyterian Church (好牧者臺灣基督長老教會)
 
-Official website of the **[[organizations/good-shepherd-taiwanese-presbyterian-church|Good Shepherd Taiwanese Presbyterian Church (GSTPC)]]**, a Taiwanese Presbyterian congregation in Los Angeles.
+Official website of the **[[organizations/good-shepherd-taiwanese-presbyterian-church||Good Shepherd Taiwanese Presbyterian Church (GSTPC)]]**, a Taiwanese Presbyterian congregation in Los Angeles.
 
 - **Live site:** https://www.gstpc.org/ (archived)
 - **Full-domain archive (Tier 2):** `knowledge/web-archives/gstpc-*.md` — **21** files (~230KB)
@@ -35,14 +35,14 @@ Official website of the **[[organizations/good-shepherd-taiwanese-presbyterian-c
 
 ## How Echopedia uses this source
 
-1. Facts applied to **[[organizations/good-shepherd-taiwanese-presbyterian-church|GSTPC]]** primary page
+1. Facts applied to **[[organizations/good-shepherd-taiwanese-presbyterian-church||GSTPC]]** primary page
 2. Ministers, elders, staff → thin **people/** pages
 3. Ministries → thin **organizations/** pages + wikilinks
 4. Bulletin/devotion archives → event/program pages
 
 ## Related Pages
 
-- [[organizations/good-shepherd-taiwanese-presbyterian-church|Good Shepherd Taiwanese Presbyterian Church]]
-- [[people/david-huang|Rev. David Huang (黃德利)]]
-- [[people/shoki-coe|Dr. Shoki Coe (黃彰輝)]]
-- [[sources/toward-a-community-of-hope|Toward A Community of Hope (Lai, 1971)]]
+- [[organizations/good-shepherd-taiwanese-presbyterian-church||Good Shepherd Taiwanese Presbyterian Church]]
+- [[people/david-huang||Rev. David Huang (黃德利)]]
+- [[people/shoki-coe||Dr. Shoki Coe (黃彰輝)]]
+- [[sources/toward-a-community-of-hope||Toward A Community of Hope (Lai, 1971)]]

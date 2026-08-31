@@ -43,5 +43,5 @@ A recipient of Alexander C. Williams, Jr Award from Human Factors and Ergonomics
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-yao-chung-tsao/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

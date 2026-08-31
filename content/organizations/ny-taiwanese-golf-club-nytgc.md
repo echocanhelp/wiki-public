@@ -22,5 +22,5 @@ NY Taiwanese Golf Club is a non-profit organization serving the Taiwanese Americ
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/ny-taiwanese-golf-club-nytgc/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

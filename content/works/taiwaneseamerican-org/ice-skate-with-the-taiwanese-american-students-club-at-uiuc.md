@@ -26,10 +26,10 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/ice-skate-with-the-taiwanese-american-students-club-at-uiuc|Ice Skate with the Taiwanese American Students Club at UIUC]]
-- [[organizations/taiwanese-american-students-club-at-uiuc|Taiwanese American Students Club at UIUC]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/ice-skate-with-the-taiwanese-american-students-club-at-uiuc||Ice Skate with the Taiwanese American Students Club at UIUC]]
+- [[organizations/taiwanese-american-students-club-at-uiuc||Taiwanese American Students Club at UIUC]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

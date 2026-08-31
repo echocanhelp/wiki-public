@@ -23,7 +23,7 @@ last_reviewed: 2026-08-17
 - **Business:** 十全藥局 (Shiquan Pharmacy), San Francisco
 - **Years active:** 30 years
 - **Geography:** San Francisco, California
-- **Related to:** [[people/zheng-bing-quan|Zheng Bingquan]] — fellow community member
+- **Related to:** [[people/zheng-bing-quan||Zheng Bingquan]] — fellow community member
 
 ## Pharmacy Career
 
@@ -40,7 +40,7 @@ Despite his physical challenges, Zheng approached life with optimism. He reflect
 ## Source Notes and Confidence
 
 - **Content priority A:** 2023 TAHS Publication (profile, Part 1, ~39 lines), written by 鄭炳全
-- **Hub:** [[sources/2023-tahs-publication|2023 TAHS Publication]]
+- **Hub:** [[sources/2023-tahs-publication||2023 TAHS Publication]]
 - **Note:** The profile includes details about his pharmacy work, radio program, and philosophy on disability.
 
 ## Sources
@@ -63,9 +63,9 @@ Despite his physical challenges, Zheng approached life with optimism. He reflect
 - **Wife:** 黃美玲
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
+- [[organizations/tah-foundation||TAH Foundation]]
 
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/2023-tahs-publication|2023 TAHS Publication]]
-- [[people/zheng-bing-quan|Zheng Bingquan (鄭炳全)]]
-- [[sources/2017-tahs-publication|2017 TAHS Publication]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/2023-tahs-publication||2023 TAHS Publication]]
+- [[people/zheng-bing-quan||Zheng Bingquan (鄭炳全)]]
+- [[sources/2017-tahs-publication||2017 TAHS Publication]]

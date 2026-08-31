@@ -27,7 +27,7 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Husband:** [[people/k-t-wu|吳告祖]]
+- **Husband:** [[people/k-t-wu||吳告祖]]
 
 
 ## Sources
@@ -35,5 +35,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/s-m-lin/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

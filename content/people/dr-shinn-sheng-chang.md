@@ -31,7 +31,7 @@ Dr. Shinn-Sheng Chang 張信行醫師 – History of Taiwanese American (T.A. Ar
 
 ## Family
 
-- **Wife:** [[people/may-sing-chang|黃美星]]
+- **Wife:** [[people/may-sing-chang||黃美星]]
 - **Daughter:** Gloria
 
 
@@ -41,5 +41,5 @@ Dr. Shinn-Sheng Chang 張信行醫師 – History of Taiwanese American (T.A. Ar
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-shinn-sheng-chang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

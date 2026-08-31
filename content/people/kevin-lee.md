@@ -22,7 +22,7 @@ source_note: "LINE group displayName Kevin Lee; ZH pending; distinct from David 
 - **English:** Kevin Lee
 - **Chinese:** *(pending ZH)*
 - **LINE displayName (exact):** `Kevin Lee`
-- **Organization:** [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
+- **Organization:** [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society (TAHS)]]
 - **Roster band:** L1 — LINE group members
 
 ## Overview
@@ -33,15 +33,15 @@ Documented on the TAHS LINE group member list used for the L1 priority roster (2
 
 Do **not** conflate with:
 
-- [[people/david-lee|David Lee (李東璞)]] — LINE display often includes `(Work)`
-- [[people/yi-sen-lee|Yi Sen Lee (李意盛)]] — LINE display `Yi Lee`; chart 特別助理
+- [[people/david-lee||David Lee (李東璞)]] — LINE display often includes `(Work)`
+- [[people/yi-sen-lee||Yi Sen Lee (李意盛)]] — LINE display `Yi Lee`; chart 特別助理
 
 ## Network
 
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[people/david-lee|David Lee (李東璞)]] — distinct person
-- [[people/yi-sen-lee|Yi Sen Lee (李意盛)]] — distinct person
-- [[people/leonard-hsu-jr|Leonard Hsu Jr.]] — TAHS President
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[people/david-lee||David Lee (李東璞)]] — distinct person
+- [[people/yi-sen-lee||Yi Sen Lee (李意盛)]] — distinct person
+- [[people/leonard-hsu-jr||Leonard Hsu Jr.]] — TAHS President
 
 ## Timeline
 
@@ -54,6 +54,6 @@ Do **not** conflate with:
 
 ## Related Pages
 
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[people/david-lee|David Lee]]
-- [[people/yi-sen-lee|Yi Sen Lee]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[people/david-lee||David Lee]]
+- [[people/yi-sen-lee||Yi Sen Lee]]

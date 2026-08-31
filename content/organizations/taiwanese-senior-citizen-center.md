@@ -22,5 +22,5 @@ The Taiwanese Senior Citizen Center, also known as the New York Taiwan Senior Ce
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-senior-citizen-center/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

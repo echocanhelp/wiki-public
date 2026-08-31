@@ -40,5 +40,5 @@ Source from Taiwanese Association of American Greater Washington Chapter Special
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chi-chin-huang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

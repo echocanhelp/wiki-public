@@ -44,5 +44,5 @@ Prof. W.S. (William) Wei 魏武雄教授 – History of Taiwanese American (T.A.
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-w-s-william-wei/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

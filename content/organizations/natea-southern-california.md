@@ -10,7 +10,7 @@ last_reviewed: 2026-07-16
 ---
 # North America Taiwanese Engineering & Science Association(NATEA)
 
-**North America Taiwanese Engineering & Science Association(NATEA)** (北美洲台灣工程師協會南加分會) is listed as a **group member** of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]].
+**North America Taiwanese Engineering & Science Association(NATEA)** (北美洲台灣工程師協會南加分會) is listed as a **group member** of the [[organizations/taiwan-center||Taiwan Center Foundation of the Greater Los Angeles]].
 
 ## Identity Snapshot
 
@@ -22,10 +22,10 @@ last_reviewed: 2026-07-16
 ## Source Notes
 
 - **Content priority A:** Name on Taiwan Center group-members page  
-- **Hub:** [[sources/taiwancenter-org|taiwancenter.org]]  
+- **Hub:** [[sources/taiwancenter-org||taiwancenter.org]]  
 - **Content priority C:** Independent history not expanded from listing alone  
 
 ## Related Pages
 
-- [[organizations/taiwan-center|Taiwan Center]]
-- [[sources/taiwancenter-org|taiwancenter.org]]
+- [[organizations/taiwan-center||Taiwan Center]]
+- [[sources/taiwancenter-org||taiwancenter.org]]

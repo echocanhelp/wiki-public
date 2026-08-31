@@ -14,13 +14,13 @@ title: "Eric Shen (沈梓在)"
 ---
 # Eric Shen (沈梓在)
 
-**Eric Shen** (沈梓在) serves as **Information / IT (資訊), TAHS 2025** of the [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS / 台美人歷史協會)]].
+**Eric Shen** (沈梓在) serves as **Information / IT (資訊), TAHS 2025** of the [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society (TAHS / 台美人歷史協會)]].
 
 ## Identity Snapshot
 - **English:** Eric Shen
 - **Chinese:** 沈梓在
 - **Core role (2025):** Information / IT (資訊)
-- **Organization:** [[organizations/taiwanese-american-historical-society|TAHS]]
+- **Organization:** [[organizations/taiwanese-american-historical-society||TAHS]]
 - **Era:** Contemporary (documented on 2025 TAHS org chart)
 
 ## Overview
@@ -46,18 +46,18 @@ This page is an **A-tier thin record** for graph linking and member-priority sco
 ## Former slug
 
 - Previous provisional slug: `shen-zizai` → canonical `tzetsai-eric-shen`
-- Redirect stub remains at [[people/shen-zizai]]
+- Redirect stub remains at [[people/shen-zizai]]]]
 
 
 ## Works
 
-**tzetsai-eric-shen** — **0** title hits, **1** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
+**tzetsai-eric-shen** — **0** title hits, **1** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
 
 ### Body mentions (1)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74|台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元]]
+1. [[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74||台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元]]
 
 
 ## Timeline
@@ -95,17 +95,17 @@ Notable quotes and mentions of **沈梓在** in Taiwan Justice articles:
 
 ## Network
 
-- [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
-- [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]] — President (會長), 2025–
-- [[people/yang-jia-you|Charles Yang (楊嘉猷)]] — Founding president (創會會長)
-- [[people/roger-tsai|Roger Tsai (蔡漢成)]] — Vice president
-- [[people/freeman-huang|Freeman Huang (黃樹人)]] — Secretary-general (秘書長)
-- [[people/linda-liu|Linda Liu (劉玲華)]] — Advisor
-- [[people/john-yang|John Yang (楊錦忠)]] — Special assistant
-- [[people/yi-sen-lee|Yi Sen Lee (李意盛)]]
-- [[people/sunu-tsai|Sunu Tsai (蔡淑女)]]
+- [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society (TAHS)]]
+- [[people/leonard-hsu-jr||Leonard Hsu Jr. (許景鴻)]] — President (會長), 2025–
+- [[people/yang-jia-you||Charles Yang (楊嘉猷)]] — Founding president (創會會長)
+- [[people/roger-tsai||Roger Tsai (蔡漢成)]] — Vice president
+- [[people/freeman-huang||Freeman Huang (黃樹人)]] — Secretary-general (秘書長)
+- [[people/linda-liu||Linda Liu (劉玲華)]] — Advisor
+- [[people/john-yang||John Yang (楊錦忠)]] — Special assistant
+- [[people/yi-sen-lee||Yi Sen Lee (李意盛)]]
+- [[people/sunu-tsai||Sunu Tsai (蔡淑女)]]
 
 ## Related Pages
 
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]] (President 2025)
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[people/leonard-hsu-jr||Leonard Hsu Jr. (許景鴻)]] (President 2025)

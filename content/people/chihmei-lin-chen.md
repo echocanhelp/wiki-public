@@ -33,7 +33,7 @@ last_reviewed: 2026-08-17
 
 - **Husband:** 陳文彥
 - **Daughter:** Katherine
-- **Mother:** [[people/ho-yang-lin|楊千鶴]]
+- **Mother:** [[people/ho-yang-lin||楊千鶴]]
 
 
 ## Sources
@@ -41,5 +41,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chihmei-lin-chen/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -27,7 +27,7 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Wife:** [[people/diana-y-huang|黃玉桂]]
+- **Wife:** [[people/diana-y-huang||黃玉桂]]
 
 
 ## Sources
@@ -35,5 +35,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/philip-s-chen/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -26,7 +26,7 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Wife:** [[people/tah-p-48d42f32e0|陳來治]]
+- **Wife:** [[people/tah-p-48d42f32e0||陳來治]]
 
 
 ## Sources
@@ -34,5 +34,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e5%8a%89%e9%9d%92%e8%97%9c%e5%8d%9a%e5%a3%ab/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

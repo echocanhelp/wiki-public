@@ -28,7 +28,7 @@ last_reviewed: 2026-08-17
 ## Family
 
 - **Wife:** 陳月卿
-- **Daughter:** [[people/martha-hsu|許秀聰]]
+- **Daughter:** [[people/martha-hsu||許秀聰]]
 
 
 ## Sources
@@ -36,5 +36,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ho-rui-hsu/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

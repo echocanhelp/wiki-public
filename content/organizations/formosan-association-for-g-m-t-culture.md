@@ -22,5 +22,5 @@ The Formosan Association for G.M.T. Culture is a Los Angeles-based organization 
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/formosan-association-for-g-m-t-culture/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

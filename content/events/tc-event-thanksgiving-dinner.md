@@ -10,7 +10,7 @@ last_reviewed: 2026-07-16
 # 2024年海外留學生感恩節餐會
 
 **Date:** December 1, 2024  
-**Host / related:** [[organizations/taiwan-center|Taiwan Center Foundation of Greater Los Angeles]]  
+**Host / related:** [[organizations/taiwan-center||Taiwan Center Foundation of Greater Los Angeles]]  
 **Official page:** https://www.taiwancenter.org/event/thanksgiving-dinner
 
 ## Summary
@@ -20,9 +20,9 @@ last_reviewed: 2026-07-16
 ## Source Notes
 
 - **Content priority A:** Official event page archive `taiwancenter-org-event-thanksgiving-dinner.md`
-- **Hub:** [[sources/taiwancenter-org|taiwancenter.org]]
+- **Hub:** [[sources/taiwancenter-org||taiwancenter.org]]
 
 ## Related Pages
 
-- [[organizations/taiwan-center|Taiwan Center]]
-- [[sources/taiwancenter-org|taiwancenter.org]]
+- [[organizations/taiwan-center||Taiwan Center]]
+- [[sources/taiwancenter-org||taiwancenter.org]]

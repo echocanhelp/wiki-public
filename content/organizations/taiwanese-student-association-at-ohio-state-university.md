@@ -22,5 +22,5 @@ The Taiwanese Student Association (TWSA) at The Ohio State University — known 
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-student-association-at-ohio-state-university/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

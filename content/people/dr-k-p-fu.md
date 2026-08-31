@@ -33,7 +33,7 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Wife:** [[people/vivian-y-g-fu|林郁子]]
+- **Wife:** [[people/vivian-y-g-fu||林郁子]]
 - **Daughter:** Marilyn, Irene
 
 
@@ -42,5 +42,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-k-p-fu/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

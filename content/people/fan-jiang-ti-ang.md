@@ -10,7 +10,7 @@ last_reviewed: 2026-08-20
 ---
 # Fan Chiang Tsiang (范姜提昂)
 
-**Fan Chiang Tsiang** (范姜提昂) is a columnist for [[sources/taiwanjustice-net|taiwanjustice.net (台灣公義網)]], with 66 articles archived from the site's column section.
+**Fan Chiang Tsiang** (范姜提昂) is a columnist for [[sources/taiwanjustice-net||taiwanjustice.net (台灣公義網)]], with 66 articles archived from the site's column section.
 
 ## Identity Snapshot
 
@@ -30,88 +30,88 @@ last_reviewed: 2026-08-20
 
 Top 10 articles from taiwanjustice.net mentioning fan-jiang-ti-ang:
 
-1. **2017-11-13** — [[articles/taiwanjustice-net/2024/20240221113229_root_17825a06f4cdbb6f|林保華專欄]]
+1. **2017-11-13** — [[articles/taiwanjustice-net/2024/20240221113229_root_17825a06f4cdbb6f||林保華專欄]]
    - *November 13, 2017...*
    - Score: 825
-2. **2022-07-10** — [[articles/taiwanjustice-net/2024/20240425084829_root_b5c9f6bb0360ed23|陳茂雄專欄]]
+2. **2022-07-10** — [[articles/taiwanjustice-net/2024/20240425084829_root_b5c9f6bb0360ed23||陳茂雄專欄]]
    - *高雄的民主水準居冠 ◎ 陳茂雄...*
    - Score: 825
-3. **2017-03-07** — [[articles/taiwanjustice-net/2024/20240715140333_root_de6de376c47e0ff9|余杰專欄]]
+3. **2017-03-07** — [[articles/taiwanjustice-net/2024/20240715140333_root_de6de376c47e0ff9||余杰專欄]]
    - *March 7, 2017...*
    - Score: 825
-4. **2017-11-22** — [[articles/taiwanjustice-net/2024/20240221105045_root_4b96e7a2f9d76692|專欄]]
+4. **2017-11-22** — [[articles/taiwanjustice-net/2024/20240221105045_root_4b96e7a2f9d76692||專欄]]
    - *監察權的謬誤 ◎ 陳茂雄 2017-11-22...*
    - Score: 820
-5. **2022-08-22** — [[articles/taiwanjustice-net/2024/20240619175142_root_e903f760568c0883|余杰專欄]]
+5. **2022-08-22** — [[articles/taiwanjustice-net/2024/20240619175142_root_e903f760568c0883||余杰專欄]]
    - *跟習近平聊天是雞同鴨講-范疇《與習近平聊聊台灣和中國》◎ 余傑...*
    - Score: 810
-6. **2017-01-30** — [[articles/taiwanjustice-net/2024/20240616123010_root_e9a4d38b79b420ee|余杰專欄]]
+6. **2017-01-30** — [[articles/taiwanjustice-net/2024/20240616123010_root_e9a4d38b79b420ee||余杰專欄]]
    - *January 30, 2017...*
    - Score: 805
-7. **2024-04-24** — [[articles/taiwanjustice-net/2024/20240425072010_root_e39ecec0fdeb18d2|台灣頭條]]
+7. **2024-04-24** — [[articles/taiwanjustice-net/2024/20240425072010_root_e39ecec0fdeb18d2||台灣頭條]]
    - *April 24, 2024...*
    - Score: 800
-8. **2023-07-30** — [[articles/taiwanjustice-net/2024/20240425083432_root_99aaa4abcb78ff6d|台美人台加人]]
+8. **2023-07-30** — [[articles/taiwanjustice-net/2024/20240425083432_root_99aaa4abcb78ff6d||台美人台加人]]
    - *July 30, 2023...*
    - Score: 800
-9. **2023-08-12** — [[articles/taiwanjustice-net/2024/20240719130745_root_c122ab4d6dc8d2cf|2012大選]]
+9. **2023-08-12** — [[articles/taiwanjustice-net/2024/20240719130745_root_c122ab4d6dc8d2cf||2012大選]]
    - *August 12, 2023...*
    - Score: 800
-10. **2018-01-04** — [[articles/taiwanjustice-net/2024/20240224183824_root_3a00a14a809ec2ca|大洛杉磯台灣會館]]
+10. **2018-01-04** — [[articles/taiwanjustice-net/2024/20240224183824_root_3a00a14a809ec2ca||大洛杉磯台灣會館]]
    - *January 4, 2018...*
    - Score: 795
 
 
 ## Works
 
-**范姜提昂** — **57** title hits, **1149** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
+**范姜提昂** — **57** title hits, **1149** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
 
 ### 2025 (4)
 
-1. [[articles/taiwanjustice-net/2025/20250323084245_修憲_過不了_公民複決_-范姜提昂_0ab24531555ffe2c|修憲？過不了「公民複決」！◎ 范姜提昂]]
-2. [[articles/taiwanjustice-net/2025/20250323083104_舔共_台灣必成美軍頭號箭靶-_-范姜提昂_e339e37b4aea4941|舔共，台灣必成美軍頭號箭靶 ◎ 范姜提昂]]
-3. [[articles/taiwanjustice-net/2025/20250323081103_親中表態_-小心老共垮台-_-范姜提昂_7bcb84b671b4ea3d|親中表態？ 小心老共垮台  ◎ 范姜提昂]]
-4. [[articles/taiwanjustice-net/2025/20250323075230_小英應該制止修憲鬧劇-_-范姜提昂_d25ac1a64cbf153d|小英應該制止修憲鬧劇 ◎ 范姜提昂]]
+1. [[articles/taiwanjustice-net/2025/20250323084245_修憲_過不了_公民複決_-范姜提昂_0ab24531555ffe2c||修憲？過不了「公民複決」！◎ 范姜提昂]]
+2. [[articles/taiwanjustice-net/2025/20250323083104_舔共_台灣必成美軍頭號箭靶-_-范姜提昂_e339e37b4aea4941||舔共，台灣必成美軍頭號箭靶 ◎ 范姜提昂]]
+3. [[articles/taiwanjustice-net/2025/20250323081103_親中表態_-小心老共垮台-_-范姜提昂_7bcb84b671b4ea3d||親中表態？ 小心老共垮台  ◎ 范姜提昂]]
+4. [[articles/taiwanjustice-net/2025/20250323075230_小英應該制止修憲鬧劇-_-范姜提昂_d25ac1a64cbf153d||小英應該制止修憲鬧劇 ◎ 范姜提昂]]
 
 ### 2024 (44)
 
-1. [[articles/taiwanjustice-net/2024/20240527025315_root_ed1d450e1f71a104|一個2015年修憲運動樂觀者的反省  ◎ 范姜提昂/自由時報 2017-02-20]]
-2. [[articles/taiwanjustice-net/2024/20240520035257_root_743414bc536ef8ef|台灣教育部長強暴教育基本法(漢英對照) ◎ 范姜提昂/自由時報+Taipei Times/ 2015-07-23]]
-3. [[articles/taiwanjustice-net/2024/20240520035102_root_1bba45d636e4b77c|不赦扁的三個不通 ◎ 范姜提昂 /民報 2017-09-19]]
-4. [[articles/taiwanjustice-net/2024/20240520034947_root_39ff044b89fc2462|一場莊嚴肅穆的禁食儀式  ◎ 范姜提昂/ 民報 2014-04-29]]
-5. [[articles/taiwanjustice-net/2024/20240520034714_root_ccf151b93949c861|國安局應徹查愛國同心會 ◎范姜提昂/自由時報 2016-12-21]]
-6. [[articles/taiwanjustice-net/2024/20240520033822_root_beda29deab804052|十指緊扣？漸行漸遠！◎ 范姜提昂/自由時報 2017-06-13]]
-7. [[articles/taiwanjustice-net/2024/20240520033245_root_d96ac42f613ca0f0|陳師孟彈劾法官除垢！堪憂 ◎范姜提昂 2017-03-29]]
-8. [[articles/taiwanjustice-net/2024/20240520033129_root_9c174e09d8bdc8cf|范姜提昂專欄]]
+1. [[articles/taiwanjustice-net/2024/20240527025315_root_ed1d450e1f71a104||一個2015年修憲運動樂觀者的反省  ◎ 范姜提昂/自由時報 2017-02-20]]
+2. [[articles/taiwanjustice-net/2024/20240520035257_root_743414bc536ef8ef||台灣教育部長強暴教育基本法(漢英對照) ◎ 范姜提昂/自由時報+Taipei Times/ 2015-07-23]]
+3. [[articles/taiwanjustice-net/2024/20240520035102_root_1bba45d636e4b77c||不赦扁的三個不通 ◎ 范姜提昂 /民報 2017-09-19]]
+4. [[articles/taiwanjustice-net/2024/20240520034947_root_39ff044b89fc2462||一場莊嚴肅穆的禁食儀式  ◎ 范姜提昂/ 民報 2014-04-29]]
+5. [[articles/taiwanjustice-net/2024/20240520034714_root_ccf151b93949c861||國安局應徹查愛國同心會 ◎范姜提昂/自由時報 2016-12-21]]
+6. [[articles/taiwanjustice-net/2024/20240520033822_root_beda29deab804052||十指緊扣？漸行漸遠！◎ 范姜提昂/自由時報 2017-06-13]]
+7. [[articles/taiwanjustice-net/2024/20240520033245_root_d96ac42f613ca0f0||陳師孟彈劾法官除垢！堪憂 ◎范姜提昂 2017-03-29]]
+8. [[articles/taiwanjustice-net/2024/20240520033129_root_9c174e09d8bdc8cf||范姜提昂專欄]]
 - … 36 more this year
 
 ### 2023 (1)
 
-1. [[articles/taiwanjustice-net/2023/20231208140146_root_15c490516e41f1eb|范姜提昂專欄]]
+1. [[articles/taiwanjustice-net/2023/20231208140146_root_15c490516e41f1eb||范姜提昂專欄]]
 
 ### 2021 (3)
 
-1. [[articles/taiwanjustice-net/2021/20210117072536_2020_08_25_舔共_台灣必成美軍頭號箭靶-_-范姜提昂_7322d30b0074c01d|舔共，台灣必成美軍頭號箭靶 ◎ 范姜提昂]]
-2. [[articles/taiwanjustice-net/2021/20210104211419_2018_10_19_魔化葉克膜_論文-柯造孽關鍵-_-范姜提昂-2018-10-17_9c0015550dd8b450|「魔化葉克膜」論文 柯造孽關鍵 ◎ 范姜提昂 2018-10-17]]
-3. [[articles/taiwanjustice-net/2021/20210104205658_2020_07_23_修憲_過不了_公民複決_-范姜提昂_1c3255160717b13d|修憲？過不了「公民複決」！◎ 范姜提昂]]
+1. [[articles/taiwanjustice-net/2021/20210117072536_2020_08_25_舔共_台灣必成美軍頭號箭靶-_-范姜提昂_7322d30b0074c01d||舔共，台灣必成美軍頭號箭靶 ◎ 范姜提昂]]
+2. [[articles/taiwanjustice-net/2021/20210104211419_2018_10_19_魔化葉克膜_論文-柯造孽關鍵-_-范姜提昂-2018-10-17_9c0015550dd8b450||「魔化葉克膜」論文 柯造孽關鍵 ◎ 范姜提昂 2018-10-17]]
+3. [[articles/taiwanjustice-net/2021/20210104205658_2020_07_23_修憲_過不了_公民複決_-范姜提昂_1c3255160717b13d||修憲？過不了「公民複決」！◎ 范姜提昂]]
 
 ### 2017 (5)
 
-1. [[articles/taiwanjustice-net/2017/20171220124738_2017_10_08_這部外來憲法值得再修嗎_-_-范姜提昂自由時報-2017-10_6ac016235e18f5b7|這部外來憲法值得再修嗎？ ◎ 范姜提昂/自由時報 2017-10-09]]
-2. [[articles/taiwanjustice-net/2017/20171220123102_2017_08_23_世大運閉幕應出動軍隊-_-范姜提昂-自由時報-2017-08-23_79b43792c038f010|世大運閉幕應出動軍隊 ◎ 范姜提昂 /自由時報 2017-08-23]]
-3. [[articles/taiwanjustice-net/2017/20171220120637_2017_11_02_瑪丹娜_永山英樹_賴清德-談東奧正名-_-范姜提_47092415124dec68|瑪丹娜‧永山英樹‧賴清德 談東奧正名 ◎ 范姜提昂 2017-11-02]]
-4. [[articles/taiwanjustice-net/2017/20171220115839_2017_10_19_棄柯保獨-寧可首都淪陷_也要拋棄柯文哲_-范姜_2b885e860eb7c520|棄柯保獨- 寧可首都淪陷，也要拋棄柯文哲◎ 范姜提昂/自由時報 2017-10-19]]
-5. [[articles/taiwanjustice-net/2017/20171220115722_2017_09_18_不赦扁的三個不通-_-范姜提昂-民報-2017-09-19_fd1ae4ec06c05d99|不赦扁的三個不通 ◎ 范姜提昂 /民報 2017-09-19]]
+1. [[articles/taiwanjustice-net/2017/20171220124738_2017_10_08_這部外來憲法值得再修嗎_-_-范姜提昂自由時報-2017-10_6ac016235e18f5b7||這部外來憲法值得再修嗎？ ◎ 范姜提昂/自由時報 2017-10-09]]
+2. [[articles/taiwanjustice-net/2017/20171220123102_2017_08_23_世大運閉幕應出動軍隊-_-范姜提昂-自由時報-2017-08-23_79b43792c038f010||世大運閉幕應出動軍隊 ◎ 范姜提昂 /自由時報 2017-08-23]]
+3. [[articles/taiwanjustice-net/2017/20171220120637_2017_11_02_瑪丹娜_永山英樹_賴清德-談東奧正名-_-范姜提_47092415124dec68||瑪丹娜‧永山英樹‧賴清德 談東奧正名 ◎ 范姜提昂 2017-11-02]]
+4. [[articles/taiwanjustice-net/2017/20171220115839_2017_10_19_棄柯保獨-寧可首都淪陷_也要拋棄柯文哲_-范姜_2b885e860eb7c520||棄柯保獨- 寧可首都淪陷，也要拋棄柯文哲◎ 范姜提昂/自由時報 2017-10-19]]
+5. [[articles/taiwanjustice-net/2017/20171220115722_2017_09_18_不赦扁的三個不通-_-范姜提昂-民報-2017-09-19_fd1ae4ec06c05d99||不赦扁的三個不通 ◎ 范姜提昂 /民報 2017-09-19]]
 
 ### Body mentions (1149)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2024/20240520034013_root_6f2b431c9cb0cca9|台美人台加人]]
-2. [[articles/taiwanjustice-net/2024/20240421185358_root_09926246802abc6a|台美人台加人]]
-3. [[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea|台美人台加人]]
-4. [[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3|台美人台加人]]
-5. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596|台美人台加人]]
+1. [[articles/taiwanjustice-net/2024/20240520034013_root_6f2b431c9cb0cca9||台美人台加人]]
+2. [[articles/taiwanjustice-net/2024/20240421185358_root_09926246802abc6a||台美人台加人]]
+3. [[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea||台美人台加人]]
+4. [[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3||台美人台加人]]
+5. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596||台美人台加人]]
 
 
 ## Timeline
@@ -11158,7 +11158,7 @@ Notable quotes and mentions of **范姜提昂** in Taiwan Justice articles:
 
 ### Unknown (1 quotes)
 
-1. "ie|Yu Chieh (余杰)]] — 99 articles - [[people/fan-jiang-ti-ang|Fan Chiang Tsiang (范姜提昂)]] — 66 articles - [[people/yang-ziqing|Yang Zi-qing (楊子清)]] — 65 articles - [["
+1. "ie|Yu Chieh (余杰)]] — 99 articles - [[people/fan-jiang-ti-ang||Fan Chiang Tsiang (范姜提昂)]] — 66 articles - [[people/yang-ziqing||Yang Zi-qing (楊子清)]] — 65 articles - [["
    — "taiwanjustice.net Article Archive" (unknown)
 
 ### 2025 (2 quotes)
@@ -11298,11 +11298,11 @@ Notable quotes and mentions of **范姜提昂** in Taiwan Justice articles:
 
 - **Content priority A:** Article count (66) from Tier 2 title extraction
 - **Content priority B:** Column author listing from `knowledge/research/taiwanjustice-net-entities`
-- **Hub:** [[sources/taiwanjustice-net|taiwanjustice.net source hub]]
+- **Hub:** [[sources/taiwanjustice-net||taiwanjustice.net source hub]]
 - **Archive:** [Column articles](https://github.com/echocanhelp/wiki-public/tree/gh-pages/knowledge/web-archives/taiwanjustice-net/tier2/)
 
 ## Related Pages
 
-- [[sources/taiwanjustice-net|taiwanjustice.net source hub]]
-- [[organizations/taiwanjustice-net|taiwanjustice.net (台灣公義網)]]
-- [[people/freeman-huang|Freeman Huang (黃樹人)]]
+- [[sources/taiwanjustice-net||taiwanjustice.net source hub]]
+- [[organizations/taiwanjustice-net||taiwanjustice.net (台灣公義網)]]
+- [[people/freeman-huang||Freeman Huang (黃樹人)]]

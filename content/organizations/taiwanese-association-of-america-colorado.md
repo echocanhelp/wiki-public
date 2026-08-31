@@ -22,5 +22,5 @@ The Taiwanese Association of America Colorado (TAA-CO, 科羅拉多 台灣同鄉
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-colorado/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -33,7 +33,7 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Wife:** [[people/a-n-liu|劉安諾]]
+- **Wife:** [[people/a-n-liu||劉安諾]]
 
 
 ## Sources
@@ -41,5 +41,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/s-b-liu/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

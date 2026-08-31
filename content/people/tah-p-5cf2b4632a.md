@@ -29,7 +29,7 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Husband:** [[people/long-lee|李隆吉]]
+- **Husband:** [[people/long-lee||李隆吉]]
 
 
 ## Sources
@@ -37,5 +37,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e9%a0%88%e8%97%a4%e6%ad%a3%e5%ad%90/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -22,5 +22,5 @@ The Bliss & Wisdom Foundation of North America is the North American arm of the 
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/bliss-wisdom-foundation-of-north-america/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

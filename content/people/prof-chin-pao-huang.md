@@ -33,7 +33,7 @@ Prof. Chin-Pao Huang 黃金寶教授 – History of Taiwanese American (T.A. Arc
 ## Family
 
 - **Wife:** Yu-Chu Chang
-- **Daughter:** [[people/katherine-huang|Catherine Huang]]
+- **Daughter:** [[people/katherine-huang||Catherine Huang]]
 - **Son:** Calvin Huang
 
 
@@ -42,5 +42,5 @@ Prof. Chin-Pao Huang 黃金寶教授 – History of Taiwanese American (T.A. Arc
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-chin-pao-huang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -22,5 +22,5 @@ The Westchester Taiwanese Women’s Association (WTWA) is a nonprofit, non-polit
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/westchester-taiwanese-womens-associationwtwa/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

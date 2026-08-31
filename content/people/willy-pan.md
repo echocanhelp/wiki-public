@@ -8,7 +8,7 @@ last_reviewed: 2026-08-20
 ---
 # Willy Pan (潘建宇)
 
-**Willy Pan (潘建宇)** is a member of the [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society]] community.
+**Willy Pan (潘建宇)** is a member of the [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society]] community.
 
 ## Identity Snapshot
 - Era: Contemporary
@@ -25,13 +25,13 @@ Willy Pan is recognized as a member of the Taiwanese American historical and com
 
 ## Works
 
-**willy-pan** — **0** title hits, **1** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
+**willy-pan** — **0** title hits, **1** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
 
 ### Body mentions (1)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66|2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2日舉行]]
+1. [[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66||2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2日舉行]]
 
 
 ## Timeline
@@ -70,7 +70,7 @@ Notable quotes and mentions of **潘建宇** in Taiwan Justice articles:
   - Live URL: [2024台灣會館26周年晚宴](https://echocanhelp.github.io/wiki-public/articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磮台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66.html)
 
 ## Related Pages
-- [[people/index|People Index]]
+- [[people/index||People Index]]
 
 ## LINE
 

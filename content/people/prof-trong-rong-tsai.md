@@ -46,5 +46,5 @@ Prof. Trong-Rong Tsai 蔡同榮教授 – History of Taiwanese American (T.A. Ar
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-trong-rong-tsai/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

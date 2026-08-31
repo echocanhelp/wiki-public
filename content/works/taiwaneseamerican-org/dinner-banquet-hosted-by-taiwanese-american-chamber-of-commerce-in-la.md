@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/dinner-banquet-hosted-by-taiwanese-american-chamber-of-commerce-in-la|Dinner Banquet Hosted by Taiwanese American Chamber of Commerce in LA]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/dinner-banquet-hosted-by-taiwanese-american-chamber-of-commerce-in-la||Dinner Banquet Hosted by Taiwanese American Chamber of Commerce in LA]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

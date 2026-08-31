@@ -22,5 +22,5 @@ The Taiwanese Association of America Manhattan Chapter was founded in January 19
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/manhattan-ks-chapter-taa/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

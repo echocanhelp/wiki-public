@@ -22,5 +22,5 @@ American Citizens of Taiwan Origin (ACTO) is a non-profit 501(c)(3) organization
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/american-citizens-of-taiwan-origin-acto/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

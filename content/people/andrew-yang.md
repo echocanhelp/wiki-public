@@ -34,7 +34,7 @@ Andrew Yang is an American entrepreneur, author, and politician born on January 
 
 - **Wife:** Evelyn Yang
 - **Father:** 楊界雄
-- **Mother:** [[people/nancy-yang|陳玲銖]]
+- **Mother:** [[people/nancy-yang||陳玲銖]]
 
 
 ## Sources
@@ -43,5 +43,5 @@ Andrew Yang is an American entrepreneur, author, and politician born on January 
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/andrew-yang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

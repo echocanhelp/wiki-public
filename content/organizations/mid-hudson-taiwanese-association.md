@@ -22,5 +22,5 @@ The Mid-Hudson Taiwanese Association (MHTA) is a regional chapter of the Taiwane
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/mid-hudson-taiwanese-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

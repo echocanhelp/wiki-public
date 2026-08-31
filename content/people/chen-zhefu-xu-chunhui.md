@@ -105,7 +105,7 @@ Their story exemplifies the immigrant entrepreneur's journey — from a $2,000 i
 ## Source Notes and Confidence
 
 - **Content priority A:** 2023 TAHS Publication (profile, pp. 23–27)
-- **Hub:** [[sources/2023-tahs-publication|2023 TAHS Publication]]
+- **Hub:** [[sources/2023-tahs-publication||2023 TAHS Publication]]
 - **Note:** Couple profile. Content extracted from the 2023 TAHS Publication "台美人菁英錄 第二輯" (Taiwanese American Elite Records, Volume 2), compiled by Yang Jiachou, Yang Pingchou, and Jiang Meijuan.
 
 ## Sources
@@ -115,8 +115,8 @@ Their story exemplifies the immigrant entrepreneur's journey — from a $2,000 i
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jeff-chen/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
+- [[organizations/tah-foundation||TAH Foundation]]
 
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/2023-tahs-publication|2023 TAHS Publication]]
-- [[sources/2017-tahs-publication|2017 TAHS Publication]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/2023-tahs-publication||2023 TAHS Publication]]
+- [[sources/2017-tahs-publication||2017 TAHS Publication]]

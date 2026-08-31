@@ -29,7 +29,7 @@ Nellie Gephardt Amondson 納莉‧艾默森 – History of Taiwanese American (T
 ## Family
 
 - **Daughter:** Jean
-- **Daughter:** [[people/linda-gail-arrigo|Linda Gail Arrigo]]
+- **Daughter:** [[people/linda-gail-arrigo||Linda Gail Arrigo]]
 - **Daughter:** Sue
 
 
@@ -38,5 +38,5 @@ Nellie Gephardt Amondson 納莉‧艾默森 – History of Taiwanese American (T
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/nellie-gephardt-amondson/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

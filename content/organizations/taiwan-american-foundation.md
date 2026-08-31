@@ -21,7 +21,7 @@ last_reviewed: 2026-07-20
 | **Founded** | 1982 |
 | **Founder** | Wang Gui-rong (王桂榮) |
 | **Purpose** | Honor outstanding Taiwanese individuals worldwide |
-| **Laureates** | [[people/liao-shu-zong|廖述宗]], 柏楊, 李登輝, [[people/peng-ming-min|彭明敏]], 李遠哲, 蘭大弼, and others |
+| **Laureates** | [[people/liao-shu-zong||廖述宗]], 柏楊, 李登輝, [[people/peng-ming-min||彭明敏]], 李遠哲, 蘭大弼, and others |
 
 ## History
 
@@ -29,5 +29,5 @@ In 1982, Wang Gui-rong donated $1 million to establish the TAF. From 1983 onward
 
 ## Related Pages
 
-- [[people/wang-gui-rong|Wang Gui-rong (王桂榮)]] — founder
-- [[sources/2017-tahs-publication|2017 TAHS Publication]]
+- [[people/wang-gui-rong||Wang Gui-rong (王桂榮)]] — founder
+- [[sources/2017-tahs-publication||2017 TAHS Publication]]

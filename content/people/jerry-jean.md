@@ -46,5 +46,5 @@ Jerry draws from an eclectic mix of progressive pop, electronic, rock, and class
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jerry-jean/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

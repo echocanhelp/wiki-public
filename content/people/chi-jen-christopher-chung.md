@@ -44,5 +44,5 @@ Chi-Jen Christopher Chung 鍾啓仁 – History of Taiwanese American (T.A. Arch
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chi-jen-christopher-chung/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

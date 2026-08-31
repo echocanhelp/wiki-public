@@ -22,5 +22,5 @@ The University of Maryland Taiwanese Student Association (TSA) is a student orga
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/university-of-maryland-taiwanese-student-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

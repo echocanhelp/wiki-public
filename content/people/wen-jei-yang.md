@@ -42,5 +42,5 @@ Honorary Professor of the Dept. of Mechanical Engineering and Dept. of Biomedica
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/wen-jei-yang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

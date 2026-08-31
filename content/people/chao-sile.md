@@ -21,30 +21,30 @@ Related: [Taiwanese American Historical Society](/organizations/taiwanese-americ
 
 Top 3 articles from taiwanjustice.net mentioning chao-sile:
 
-1. **2017-11-30** — [[articles/taiwanjustice-net/2017/20171220122636_2017_11_30_她們_就是我們-趙思樂_她們的征途_上-_-余_cf3667da25193e54|「她們」就是我們—趙思樂《她們的征途》(上)  ◎ 余杰 /民報 2017-11-27]]
+1. **2017-11-30** — [[articles/taiwanjustice-net/2017/20171220122636_2017_11_30_她們_就是我們-趙思樂_她們的征途_上-_-余_cf3667da25193e54||「她們」就是我們—趙思樂《她們的征途》(上)  ◎ 余杰 /民報 2017-11-27]]
    - *中國的民主化尚未啓動，但中國人從未放棄民主夢和自由夢，那是習近平的中國夢裡嚴重缺席的內容。1949年以來，儘管一直面對亙古未有的中共之獨裁暴政，爲了民主自由而奮鬥的仁人志士依然前仆後繼、絡繹不絕。正在發生的事件，必定成為歷史中不能掩蓋的一部分，若秉持此種信念，書寫者就能秉筆直書，留下驚天地、泣鬼神的...*
    - Score: 325
-2. **2017-11-30** — [[articles/taiwanjustice-net/2017/20171220120615_2017_11_30_她們_就是我們-趙思樂_她們的征途_下-_-余_19b3e57bf212babd|「她們」就是我們—趙思樂《她們的征途》(下) ◎ 余杰/ 民報 2017-11-28]]
+2. **2017-11-30** — [[articles/taiwanjustice-net/2017/20171220120615_2017_11_30_她們_就是我們-趙思樂_她們的征途_下-_-余_19b3e57bf212babd||「她們」就是我們—趙思樂《她們的征途》(下) ◎ 余杰/ 民報 2017-11-28]]
    - *茉莉花、太陽花與黃雨傘何時合流？...*
    - Score: 290
-3. **2023-06-06** — [[articles/taiwanjustice-net/2023/20230922214344_2023_06_06_作家指控飯桌性騷擾-上報董事長王健壯_不予置評_a8958513b49b024e|作家指控飯桌性騷擾 上報董事長王健壯：不予置評]]
+3. **2023-06-06** — [[articles/taiwanjustice-net/2023/20230922214344_2023_06_06_作家指控飯桌性騷擾-上報董事長王健壯_不予置評_a8958513b49b024e||作家指控飯桌性騷擾 上報董事長王健壯：不予置評]]
    - *（中央社記者葉冠吟台北6日電）從政壇掀起的台版#MeToo風潮持續，作家房慧真今天在臉書指控曾遭資深新聞人王健壯在飯桌上性騷擾，對此，王健壯僅於現任職董事長的「上報」新聞裡回應「不予置評」。...*
    - Score: 40
 
 ## Works
 
-**朝思樂** — **2** title hits, **1** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
+**朝思樂** — **2** title hits, **1** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
 
 ### 2017 (2)
 
-1. [[articles/taiwanjustice-net/2017/20171220122636_2017_11_30_她們_就是我們-趙思樂_她們的征途_上-_-余_cf3667da25193e54|「她們」就是我們—趙思樂《她們的征途》(上)  ◎ 余杰 /民報 2017-11-27]]
-2. [[articles/taiwanjustice-net/2017/20171220120615_2017_11_30_她們_就是我們-趙思樂_她們的征途_下-_-余_19b3e57bf212babd|「她們」就是我們—趙思樂《她們的征途》(下) ◎ 余杰/ 民報 2017-11-28]]
+1. [[articles/taiwanjustice-net/2017/20171220122636_2017_11_30_她們_就是我們-趙思樂_她們的征途_上-_-余_cf3667da25193e54||「她們」就是我們—趙思樂《她們的征途》(上)  ◎ 余杰 /民報 2017-11-27]]
+2. [[articles/taiwanjustice-net/2017/20171220120615_2017_11_30_她們_就是我們-趙思樂_她們的征途_下-_-余_19b3e57bf212babd||「她們」就是我們—趙思樂《她們的征途》(下) ◎ 余杰/ 民報 2017-11-28]]
 
 ### Body mentions (1)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2023/20230922214344_2023_06_06_作家指控飯桌性騷擾-上報董事長王健壯_不予置評_a8958513b49b024e|作家指控飯桌性騷擾 上報董事長王健壯：不予置評]]
+1. [[articles/taiwanjustice-net/2023/20230922214344_2023_06_06_作家指控飯桌性騷擾-上報董事長王健壯_不予置評_a8958513b49b024e||作家指控飯桌性騷擾 上報董事長王健壯：不予置評]]
 
 
 ## Timeline
@@ -101,4 +101,4 @@ Notable quotes and mentions of **趙思樂** in Taiwan Justice articles:
 
 ## Related Pages
 
-- [[people/albert-s-lai|Dr. Albert S. Lai]]
+- [[people/albert-s-lai||Dr. Albert S. Lai]]

@@ -45,5 +45,5 @@ Prof. Young-Chang Chen 陳榮昌教授 – History of Taiwanese American (T.A. A
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-young-chang-chen/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

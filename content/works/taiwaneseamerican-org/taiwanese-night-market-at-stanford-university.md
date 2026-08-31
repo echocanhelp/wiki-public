@@ -26,10 +26,10 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/taiwanese-night-market-at-stanford-university-2|Taiwanese Night Market at Stanford University]]
-- [[works/taiwaneseamerican-org/taiwanese-night-market-at-stanford|Taiwanese Night Market at Stanford]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/taiwanese-night-market-at-stanford-university-2||Taiwanese Night Market at Stanford University]]
+- [[works/taiwaneseamerican-org/taiwanese-night-market-at-stanford||Taiwanese Night Market at Stanford]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

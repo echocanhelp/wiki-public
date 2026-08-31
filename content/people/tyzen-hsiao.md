@@ -15,7 +15,7 @@ last_reviewed: 2026-08-18
 ---
 # Tyzen Hsiao (蕭泰然)
 
-**Tyzen Hsiao** (蕭泰然, POJ: Siau Thài-jiân, 1 January 1938 – 24 February 2015) was a Taiwanese neo-Romantic composer, pianist, and conductor. Raised in a [[organizations/presbyterian-church-in-taiwan|PCT]] family in Fengshan, Kaohsiung. Lived and worked in Southern California from 1977; blacklisted by the KMT after 〈出頭天進行曲〉 (1980) until 1995 (ZH Wikipedia / TAH). Nicknamed **台灣拉赫曼尼諾夫**. 〈台灣翠青〉 / “Taiwan the Green” is widely treated as an unofficial anthem; it also appears in the **1947 Overture**.
+**Tyzen Hsiao** (蕭泰然, POJ: Siau Thài-jiân, 1 January 1938 – 24 February 2015) was a Taiwanese neo-Romantic composer, pianist, and conductor. Raised in a [[organizations/presbyterian-church-in-taiwan||PCT]] family in Fengshan, Kaohsiung. Lived and worked in Southern California from 1977; blacklisted by the KMT after 〈出頭天進行曲〉 (1980) until 1995 (ZH Wikipedia / TAH). Nicknamed **台灣拉赫曼尼諾夫**. 〈台灣翠青〉 / “Taiwan the Green” is widely treated as an unofficial anthem; it also appears in the **1947 Overture**.
 
 ## Identity Snapshot
 - **English:** Tyzen Hsiao
@@ -64,7 +64,7 @@ Named **Fengshan home congregation** is still **not found**. Mechanism is househ
 - **1977** — Family to Atlanta (wife’s business failure); TAH: self-employed arts/crafts shop. EN: an elderly listener in the shop asked why he was there; Touchlife: three women professors in Orange County — **do not flatten**
 - **1978** — Moves toward Los Angeles Taiwanese-community work (EN)
 - **1980** — 〈出頭天進行曲〉 → KMT blacklist until 1995 (ZH / TAH). Taipei Times / some obituaries also name 〈嘸通嫌台灣〉. Keep both claims
-- **1982** — With [[people/ahhee-hsu]] founded 南加州台灣音樂社; Oct Thanksgiving concert, Crystal Cathedral (TAH 258 on 許景淳 page)
+- **1982** — With [[people/ahhee-hsu]]]] founded 南加州台灣音樂社; Oct Thanksgiving concert, Crystal Cathedral (TAH 258 on 許景淳 page)
 - **1985** — 北美台灣人文藝協會室內樂團 (TAH employment)
 - **1986–1987** — Master’s in composition. **Conflict:** TAH = UCLA Herb Alpert; ZH Wikipedia / Cosmic Light = **CSULA**, advisor Dr. B. K. Kim. NTNU page cites both in different pasted obituaries. Do not flatten
 - **1988–1992** — Three concertos (vn D op.50, vc C op.52, pf c op.53)
@@ -96,7 +96,7 @@ EN Wikipedia “most widely performed large-scale”:
 
 Art songs (EN Wikipedia): 〈台灣翠青〉 (“Taiwan the Formosa/Green”, lyrics 鄭兒玉 — TAH 514; **no person page yet**); “The Fairest Flower”; “Eternal Hometown”; Psalm 23 in Taiwanese; “I Love Taiwan”; folk settings including 望春風 etc. after 1977.
 
-ZH Wikipedia also: oratorio 《耶穌基督》(1971, text by father); 1967 first choral collection; 〈嘸通嫌台灣〉; 〈蕃薯不驚落土爛〉 / 〈蕃薯嘸驚落土爛〉 (ZH date 1986) with [[people/ahhee-hsu]] after hearing [[people/kao-chun-ming]] (TAH 258 — do not add 許景淳 as co-writer).
+ZH Wikipedia also: oratorio 《耶穌基督》(1971, text by father); 1967 first choral collection; 〈嘸通嫌台灣〉; 〈蕃薯不驚落土爛〉 / 〈蕃薯嘸驚落土爛〉 (ZH date 1986) with [[people/ahhee-hsu]]]] after hearing [[people/kao-chun-ming]]]] (TAH 258 — do not add 許景淳 as co-writer).
 
 Most of his output is hymns / sacred song, then Taiwanese folk arrangements (ZH Wikipedia). ZH: US copyright held by California **Tyzen Hsiao Foundation**.
 
@@ -135,16 +135,16 @@ TAH employment (unparsed string): Tainan Univ. of Technology assoc. prof.; Wenza
 - 蕭傑夫 (Touchlife): father told him, if it can 榮神益人, do it
 
 ## Network
-- [[organizations/tyzen-hsiao-foundation]] and [[organizations/tyzen-hsiao-music-works]] — TAH lists **two** orgs; **not merged**. 2020 OCAC: 蕭傑文夫婦 founded the US foundation after 2015
-- [[organizations/taiwanese-american-foundation]] — 1989 Humanities award (TAH)
-- [[people/ahhee-hsu]] — 南加州音樂社; 1982 Crystal Cathedral; 〈蕃薯不驚落土爛〉; 1989 call that introduced 鄭兒玉
-- [[people/kao-chun-ming]] — sermon that prompted that hymn
-- [[people/hsu-ching-chun]] — father’s circle, not Hsiao’s co-author
-- [[people/jer-shung-lin]] — TAH memorial essays / 《深情的浪漫》
-- [[people/amy-lin|Amy Lin (林惠美)]] — TAH: same church pianist (**congregation unnamed**)
-- [[people/apo-hsu|Apo Hsu (許瀞心)]] — 2007 Formosa Dreaming / *Ilha Formosa* (EN)
-- [[organizations/presbyterian-church-in-taiwan]] — family and 台南神學院 teaching, **not** “he was a PCT pastor”
-- [[organizations/good-shepherd-taiwanese-presbyterian-church]] — **GSTPC 好牧者, Monterey Park**. Linked only as a **disambiguation**: 2015 **牧谷 / Shepherds of the Valley (Hacienda Heights)** is a different congregation
+- [[organizations/tyzen-hsiao-foundation]]]] and [[organizations/tyzen-hsiao-music-works]]]] — TAH lists **two** orgs; **not merged**. 2020 OCAC: 蕭傑文夫婦 founded the US foundation after 2015
+- [[organizations/taiwanese-american-foundation]]]] — 1989 Humanities award (TAH)
+- [[people/ahhee-hsu]]]] — 南加州音樂社; 1982 Crystal Cathedral; 〈蕃薯不驚落土爛〉; 1989 call that introduced 鄭兒玉
+- [[people/kao-chun-ming]]]] — sermon that prompted that hymn
+- [[people/hsu-ching-chun]]]] — father’s circle, not Hsiao’s co-author
+- [[people/jer-shung-lin]]]] — TAH memorial essays / 《深情的浪漫》
+- [[people/amy-lin||Amy Lin (林惠美)]] — TAH: same church pianist (**congregation unnamed**)
+- [[people/apo-hsu||Apo Hsu (許瀞心)]] — 2007 Formosa Dreaming / *Ilha Formosa* (EN)
+- [[organizations/presbyterian-church-in-taiwan]]]] — family and 台南神學院 teaching, **not** “he was a PCT pastor”
+- [[organizations/good-shepherd-taiwanese-presbyterian-church]]]] — **GSTPC 好牧者, Monterey Park**. Linked only as a **disambiguation**: 2015 **牧谷 / Shepherds of the Valley (Hacienda Heights)** is a different congregation
 - 鄭兒玉 (John Jyigiokk) — PCT pastor / 台南神學院; 〈台灣翠青〉 lyric. **No person page yet** — do not invent a slug
 - 許常惠 — NTNU composition steer. No person page yet
 
@@ -156,7 +156,7 @@ TAH employment (unparsed string): Tainan Univ. of Technology assoc. prof.; Wenza
 5. [TAH 23](https://taiwaneseamericanhistory.org/23-tyzen-hsiao/)
 6. [TAH 514 蕭泰然kap台灣翠青 / 鄭兒玉](https://taiwaneseamericanhistory.org/mystories514/)
 7. [TAH 75 Collection](https://taiwaneseamericanhistory.org/75-collection-of-maestro-tyzen-hsiao-%e8%95%ad%e6%b3%b0%e7%84%b6/)
-8. TAH 258 via [[people/hsu-ching-chun]] (Crystal Cathedral / 蕃薯)
+8. TAH 258 via [[people/hsu-ching-chun]]]] (Crystal Cathedral / 蕃薯)
 9. [laijohn：蕭泰然教授二三事](http://www.laijohn.com/archives/pc/Siau/Siau,Tjian/episode/Ng,Sliong.htm)
 10. [laijohn：蕭泰然和「台灣翠青」](http://www.laijohn.com/archives/pc/Siau/Siau,Tjian/tocc/Tin,Jgiok.htm)
 11. [Taipei Times, 2015-02-26](https://www.taipeitimes.com/News/front/archives/2015/02/26/2003612259)
@@ -168,15 +168,15 @@ TAH employment (unparsed string): Tainan Univ. of Technology assoc. prof.; Wenza
 17. [TAH org: Tyzen Hsiao Foundation](https://taiwaneseamericanhistory.org/tyzen-hsiao-foundation/)
 
 ## Related Pages
-- [[organizations/tah-foundation]]
-- [[sources/taiwaneseamericanhistory-org]]
-- [[organizations/tyzen-hsiao-foundation]]
-- [[organizations/tyzen-hsiao-music-works]]
-- [[organizations/presbyterian-church-in-taiwan]]
-- [[organizations/taiwanese-american-foundation]]
-- [[people/ahhee-hsu]]
-- [[people/kao-chun-ming]]
-- [[people/hsu-ching-chun]]
-- [[people/jer-shung-lin]]
-- [[people/apo-hsu]]
-- [[organizations/elder-john-lai-archives|史料庫]] — episode + 〈台灣翠青〉檔. TOC **374** = 林乾, not this man
+- [[organizations/tah-foundation]]]]
+- [[sources/taiwaneseamericanhistory-org]]]]
+- [[organizations/tyzen-hsiao-foundation]]]]
+- [[organizations/tyzen-hsiao-music-works]]]]
+- [[organizations/presbyterian-church-in-taiwan]]]]
+- [[organizations/taiwanese-american-foundation]]]]
+- [[people/ahhee-hsu]]]]
+- [[people/kao-chun-ming]]]]
+- [[people/hsu-ching-chun]]]]
+- [[people/jer-shung-lin]]]]
+- [[people/apo-hsu]]]]
+- [[organizations/elder-john-lai-archives||史料庫]] — episode + 〈台灣翠青〉檔. TOC **374** = 林乾, not this man

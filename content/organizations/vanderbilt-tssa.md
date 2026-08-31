@@ -22,5 +22,5 @@ Vanderbilt TSSA (范德堡大學臺灣同學會) is a Facebook group associated 
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/vanderbilt-tssa/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

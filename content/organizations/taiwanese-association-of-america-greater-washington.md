@@ -22,5 +22,5 @@ The Taiwanese Association of America Greater Washington Chapter (TAAGWC, 華府�
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-greater-washington/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

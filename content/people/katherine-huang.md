@@ -73,7 +73,7 @@ She is proficient in Taiwanese, Mandarin, and Spanish, and has taught creative w
 
 - **Content priority A:** 2017 TAHS Publication (profile Part 2, ~60 lines), with detailed editor's note
 - **Content priority A:** Contains biographical narrative including education, clerkship, firm career, and TASA lawsuit
-- **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
+- **Hub:** [[sources/2017-tahs-publication||2017 TAHS Publication]]
 - **Note:** The profile includes detailed biographical information including education, clerkship, and professional career.
 
 <!-- tah-tables:start -->
@@ -91,9 +91,9 @@ She is proficient in Taiwanese, Mandarin, and Spanish, and has taught creative w
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/catherine-huang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
+- [[organizations/tah-foundation||TAH Foundation]]
 
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/2017-tahs-publication|2017 TAHS Publication]]
-- [[people/franklin-ping-cheng|Franklin Ping Cheng (程炳成) — TAHS president]]
-- [[people/yang-jia-you|Charles Yang (楊嘉猷) — TAHS founding president]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/2017-tahs-publication||2017 TAHS Publication]]
+- [[people/franklin-ping-cheng||Franklin Ping Cheng (程炳成) — TAHS president]]
+- [[people/yang-jia-you||Charles Yang (楊嘉猷) — TAHS founding president]]

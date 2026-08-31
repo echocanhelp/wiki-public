@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/world-city-at-the-music-center-featuring-chen-kuai-le-puppet-theater-la|World City at the Music Center featuring Chen Kuai Le Puppet Theater &#8211; LA]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/world-city-at-the-music-center-featuring-chen-kuai-le-puppet-theater-la||World City at the Music Center featuring Chen Kuai Le Puppet Theater &#8211; LA]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

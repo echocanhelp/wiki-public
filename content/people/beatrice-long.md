@@ -41,5 +41,5 @@ Beatrice Long 隆信真 is a top prize winner in several international competiti
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/beatrice-long/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -8,9 +8,9 @@ tags:
 verification_status: published
 last_reviewed: 2026-07-16
 ---
-# [[organizations/global-alliance-for-democracy-and-peace|Global Alliance for Democracy and Peace]] (GADP)-LA
+# [[organizations/global-alliance-for-democracy-and-peace||Global Alliance for Democracy and Peace]] (GADP)-LA
 
-**Global Alliance for Democracy and Peace (GADP)-LA** (全僑民主和平聯盟洛杉磯支盟) is listed as a **group member** of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]].
+**Global Alliance for Democracy and Peace (GADP)-LA** (全僑民主和平聯盟洛杉磯支盟) is listed as a **group member** of the [[organizations/taiwan-center||Taiwan Center Foundation of the Greater Los Angeles]].
 
 ## Identity Snapshot
 
@@ -22,10 +22,10 @@ last_reviewed: 2026-07-16
 ## Source Notes
 
 - **Content priority A:** Name on Taiwan Center group-members page  
-- **Hub:** [[sources/taiwancenter-org|taiwancenter.org]]  
+- **Hub:** [[sources/taiwancenter-org||taiwancenter.org]]  
 - **Content priority C:** Independent history not expanded from listing alone  
 
 ## Related Pages
 
-- [[organizations/taiwan-center|Taiwan Center]]
-- [[sources/taiwancenter-org|taiwancenter.org]]
+- [[organizations/taiwan-center||Taiwan Center]]
+- [[sources/taiwancenter-org||taiwancenter.org]]

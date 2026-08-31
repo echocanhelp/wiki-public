@@ -44,5 +44,5 @@ Master of Arts (MA), Drawing, School of Art and Art History, University of Iowa,
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-ken-s-huang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

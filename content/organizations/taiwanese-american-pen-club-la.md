@@ -22,5 +22,5 @@ The Taiwanese American Pen Club (TAPC) is a literary organization founded in 199
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-pen-club-la/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

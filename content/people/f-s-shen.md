@@ -44,5 +44,5 @@ Member of the Legislative Yuan (Legislative Yuan, Republic of China) for three t
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/f-s-shen/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

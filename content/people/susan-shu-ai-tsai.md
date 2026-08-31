@@ -36,8 +36,8 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/susan-shu-ai-tsai/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## Network
-- [[organizations/good-shepherd-taiwanese-presbyterian-church|GSTPC]] — TAH Who’s Who
+- [[organizations/good-shepherd-taiwanese-presbyterian-church||GSTPC]] — TAH Who’s Who

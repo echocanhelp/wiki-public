@@ -22,5 +22,5 @@ The Columbia University Taiwanese American Students Association (CU TASA) is an 
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/columbia-university-taiwanese-american-students-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

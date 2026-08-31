@@ -19,7 +19,7 @@ last_reviewed: 2026-07-19
 - **English:** Franklin Ping Cheng
 - **Chinese:** 程炳成
 - **Role:** President, Taiwanese American Historical Society (2014–2017)
-- **Organizations:** [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
+- **Organizations:** [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society (TAHS)]]
 - **Era:** 2014–2017 (TAHS presidency); 2017 publication year
 
 ## Overview
@@ -46,44 +46,44 @@ Pages that link to **程炳成** (franklin-ping-cheng):
 
 ### People (18)
 
-1. [[people/alan-thian|alan-thian]]
-2. [[people/anne-shih|anne-shih]]
-3. [[people/bob-j-wu|bob-j-wu]]
-4. [[people/ho-chie-tsai|ho-chie-tsai]]
-5. [[people/jack-j-chen|jack-j-chen]]
-6. [[people/john-chiang|john-chiang]]
-7. [[people/katherine-huang|katherine-huang]]
-8. [[people/liao-shu-zong|liao-shu-zong]]
-9. [[people/lisa-su|lisa-su]]
-10. [[people/martha-vandriel|martha-vandriel]]
-11. [[people/sam-chang|sam-chang]]
-12. [[people/shawna-yang-ryan|shawna-yang-ryan]]
-13. [[people/su-chun-huai|su-chun-huai]]
-14. [[people/tiffany-huang|tiffany-huang]]
-15. [[people/wang-gui-rong|wang-gui-rong]]
-16. [[people/wang-neng-xiang|wang-neng-xiang]]
-17. [[people/yang-jia-you|yang-jia-you]]
-18. [[people/yang-xin|yang-xin]]
+1. [[people/alan-thian||alan-thian]]
+2. [[people/anne-shih||anne-shih]]
+3. [[people/bob-j-wu||bob-j-wu]]
+4. [[people/ho-chie-tsai||ho-chie-tsai]]
+5. [[people/jack-j-chen||jack-j-chen]]
+6. [[people/john-chiang||john-chiang]]
+7. [[people/katherine-huang||katherine-huang]]
+8. [[people/liao-shu-zong||liao-shu-zong]]
+9. [[people/lisa-su||lisa-su]]
+10. [[people/martha-vandriel||martha-vandriel]]
+11. [[people/sam-chang||sam-chang]]
+12. [[people/shawna-yang-ryan||shawna-yang-ryan]]
+13. [[people/su-chun-huai||su-chun-huai]]
+14. [[people/tiffany-huang||tiffany-huang]]
+15. [[people/wang-gui-rong||wang-gui-rong]]
+16. [[people/wang-neng-xiang||wang-neng-xiang]]
+17. [[people/yang-jia-you||yang-jia-you]]
+18. [[people/yang-xin||yang-xin]]
 
 ### Organizations (1)
 
-1. [[organizations/taiwanese-american-historical-society|taiwanese-american-historical-society]]
+1. [[organizations/taiwanese-american-historical-society||taiwanese-american-historical-society]]
 
 ### Sources (1)
 
-1. [[sources/2017-tahs-publication|2017-tahs-publication]]
+1. [[sources/2017-tahs-publication||2017-tahs-publication]]
 
 ## Source Notes and Confidence
 
 - **Content priority A:** 2017 TAHS Publication 會長謝詞 (President's Gratitude) — Franklin Ping Cheng's own account, Part 2, L2594–2618
 - **Content priority A:** TAHS organizational leadership records
-- **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
+- **Hub:** [[sources/2017-tahs-publication||2017 TAHS Publication]]
 - **Note:** Franklin's profile is brief in the source — primarily the 會長謝詞 — rather than a long-form biographical interview like other 菁英錄 subjects. His significance derives from his institutional role as TAHS president during a formative period.
 
 ## Related Pages
 
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/2017-tahs-publication|2017 TAHS Publication]]
-- [[people/yang-jia-you|Charles Yang (楊嘉猷) — founding president]]
-- [[people/huang-gen-shen|Huang Gen-shen — UFAI activist, TAHS founding-era member]]
-- [[people/wang-gui-rong|Wang Gui-rong — TAHS founding-era member]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/2017-tahs-publication||2017 TAHS Publication]]
+- [[people/yang-jia-you||Charles Yang (楊嘉猷) — founding president]]
+- [[people/huang-gen-shen||Huang Gen-shen — UFAI activist, TAHS founding-era member]]
+- [[people/wang-gui-rong||Wang Gui-rong — TAHS founding-era member]]

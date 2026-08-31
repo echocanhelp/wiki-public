@@ -22,5 +22,5 @@ Evergreen Senior University (ESU) is an outreach program of Evangelical Formosan
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

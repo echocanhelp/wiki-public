@@ -22,5 +22,5 @@ The Taiwanese American Scholarship Fund (TASF) was created in 2014 to support ec
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-scholarship-fund/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

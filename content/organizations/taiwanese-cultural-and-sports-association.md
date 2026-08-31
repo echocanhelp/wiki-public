@@ -22,5 +22,5 @@ TCSA is a non-profit organization based in Northern California that promotes Tai
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-cultural-and-sports-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

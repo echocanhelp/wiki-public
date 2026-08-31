@@ -10,7 +10,7 @@ last_reviewed: 2026-07-16
 # 新館建館工程進度
 
 **Date:** February 5, 2026  
-**Host / related:** [[organizations/taiwan-center|Taiwan Center Foundation of Greater Los Angeles]]  
+**Host / related:** [[organizations/taiwan-center||Taiwan Center Foundation of Greater Los Angeles]]  
 **Official page:** https://www.taiwancenter.org/event/construction-progress-of-the-building
 
 ## Summary
@@ -20,9 +20,9 @@ last_reviewed: 2026-07-16
 ## Source Notes
 
 - **Content priority A:** Official event page archive `taiwancenter-org-event-construction-progress-of-the-building.md`
-- **Hub:** [[sources/taiwancenter-org|taiwancenter.org]]
+- **Hub:** [[sources/taiwancenter-org||taiwancenter.org]]
 
 ## Related Pages
 
-- [[organizations/taiwan-center|Taiwan Center]]
-- [[sources/taiwancenter-org|taiwancenter.org]]
+- [[organizations/taiwan-center||Taiwan Center]]
+- [[sources/taiwancenter-org||taiwancenter.org]]

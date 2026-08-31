@@ -34,7 +34,7 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Wife:** [[people/mei-chiang-su|江美惠]]
+- **Wife:** [[people/mei-chiang-su||江美惠]]
 
 
 ## Sources
@@ -42,5 +42,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/matthias-c-h-lu/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

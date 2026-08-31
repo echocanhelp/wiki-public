@@ -22,5 +22,5 @@ Sun Ten Museum is a nonprofit fine arts museum located in Irvine, California, fo
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/sun-ten-museum/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

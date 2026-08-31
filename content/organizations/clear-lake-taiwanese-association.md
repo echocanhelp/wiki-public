@@ -22,5 +22,5 @@ The Clear Lake Taiwanese Association (明湖台灣同鄉會) is a local chapter 
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/clear-lake-taiwanese-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

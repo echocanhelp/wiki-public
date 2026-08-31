@@ -22,5 +22,5 @@ The Taiwanese Association of America Dallas-Fort Worth (TAA-DFW, 達拉斯台灣
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-dallas-fort-worth/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

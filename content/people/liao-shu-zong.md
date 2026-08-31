@@ -248,7 +248,7 @@ Beyond his artistic legacy, Liao Shu-zong's father 廖繼春 (Liao Jichun) under
 Through his mother 林瓊仙's prominent Fengyuan family, Liao Shu-zong was connected to two notable Taiwanese figures:
 
 - **林朝權 (Lin Chao-quan)** — His maternal uncle (二舅), a post-war leader in Taiwan's sports movement and a former comrade of revolutionary leader Sun Wen.
-- **林朝棨 (Lin Chao-qi)** — His third maternal uncle (三舅), a renowned geologist famous for discovering the Banqiao site and other Taiwanese archaeological sites. See [[people/lin-chao-chi|林朝棨 (Lin Chao-chi)]] for details.
+- **林朝棨 (Lin Chao-qi)** — His third maternal uncle (三舅), a renowned geologist famous for discovering the Banqiao site and other Taiwanese archaeological sites. See [[people/lin-chao-chi||林朝棨 (Lin Chao-chi)]] for details.
 
 ### 清水同鄉 & 1984 Olympics
 
@@ -278,28 +278,28 @@ He passed away in 2017. A memorial tribute was written by 楊嘉猷 (Charles Yan
 
 ## Works
 
-**liao-shu-zong** — **4** title hits, **3** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
+**liao-shu-zong** — **4** title hits, **3** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
 
 ### 2025 (2)
 
-1. [[articles/taiwanjustice-net/2025/20251108180838_榮獲廖述宗教授紀念獎_罷韓四君子_是肯定每個_d2e6e5b19ab4b452|榮獲廖述宗教授紀念獎，罷韓四君子：是肯定每個夥伴]]
-2. [[articles/taiwanjustice-net/2025/20250328063830_2020年第6屆_natpa-廖述宗教授紀念獎_接受推薦_c74aa78d01af7084|2020年第6屆「NATPA 廖述宗教授紀念獎」接受推薦]]
+1. [[articles/taiwanjustice-net/2025/20251108180838_榮獲廖述宗教授紀念獎_罷韓四君子_是肯定每個_d2e6e5b19ab4b452||榮獲廖述宗教授紀念獎，罷韓四君子：是肯定每個夥伴]]
+2. [[articles/taiwanjustice-net/2025/20250328063830_2020年第6屆_natpa-廖述宗教授紀念獎_接受推薦_c74aa78d01af7084||2020年第6屆「NATPA 廖述宗教授紀念獎」接受推薦]]
 
 ### 2024 (1)
 
-1. [[articles/taiwanjustice-net/2024/20240528135924_root_357eb029de9402e8|2015年第一屆「NATPA 廖述宗教授紀念獎」記者會 ◎台灣公義網攝錄]]
+1. [[articles/taiwanjustice-net/2024/20240528135924_root_357eb029de9402e8||2015年第一屆「NATPA 廖述宗教授紀念獎」記者會 ◎台灣公義網攝錄]]
 
 ### 2023 (1)
 
-1. [[articles/taiwanjustice-net/2023/20230130104507_2018_08_06_獲廖述宗紀念獎肯定-林昶佐_繼續全力以赴打拚-_9e34883dc9bc8948|獲廖述宗紀念獎肯定 林昶佐：繼續全力以赴打拚 ◎中央社 2018-08-06]]
+1. [[articles/taiwanjustice-net/2023/20230130104507_2018_08_06_獲廖述宗紀念獎肯定-林昶佐_繼續全力以赴打拚-_9e34883dc9bc8948||獲廖述宗紀念獎肯定 林昶佐：繼續全力以赴打拚 ◎中央社 2018-08-06]]
 
 ### Body mentions (3)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2022/20220927144814_2022_06_27_唐山打人事件顯示中國已淪為_蠅國_-余杰_982bb72dd4fe3353|唐山打人事件顯示中國已淪為「蠅國」◎ 余杰]]
-2. [[articles/taiwanjustice-net/2024/20240619172639_root_9c55093535c7aca4|唐山打人事件顯示中國已淪為「蠅國」◎ 余杰]]
-3. [[articles/taiwanjustice-net/2025/20250213033003_唐山打人事件顯示中國已淪為_蠅國_-余杰_ae7f270f52c6cf8f|唐山打人事件顯示中國已淪為「蠅國」◎ 余杰]]
+1. [[articles/taiwanjustice-net/2022/20220927144814_2022_06_27_唐山打人事件顯示中國已淪為_蠅國_-余杰_982bb72dd4fe3353||唐山打人事件顯示中國已淪為「蠅國」◎ 余杰]]
+2. [[articles/taiwanjustice-net/2024/20240619172639_root_9c55093535c7aca4||唐山打人事件顯示中國已淪為「蠅國」◎ 余杰]]
+3. [[articles/taiwanjustice-net/2025/20250213033003_唐山打人事件顯示中國已淪為_蠅國_-余杰_ae7f270f52c6cf8f||唐山打人事件顯示中國已淪為「蠅國」◎ 余杰]]
 
 
 ## Timeline
@@ -335,23 +335,23 @@ Pages that link to **廖述宗** (liao-shu-zong):
 
 ### People (8)
 
-1. [[people/guo-shu-qing|guo-shu-qing]]
-2. [[people/liao-ji-chun|liao-ji-chun]]
-3. [[people/lin-chao-chi|lin-chao-chi]]
-4. [[people/lin-chao-quan|lin-chao-quan]]
-5. [[people/lin-qiong-xian|lin-qiong-xian]]
-6. [[people/wang-gui-rong|wang-gui-rong]]
-7. [[people/wang-neng-xiang|wang-neng-xiang]]
-8. [[people/yang-xin|yang-xin]]
+1. [[people/guo-shu-qing||guo-shu-qing]]
+2. [[people/liao-ji-chun||liao-ji-chun]]
+3. [[people/lin-chao-chi||lin-chao-chi]]
+4. [[people/lin-chao-quan||lin-chao-quan]]
+5. [[people/lin-qiong-xian||lin-qiong-xian]]
+6. [[people/wang-gui-rong||wang-gui-rong]]
+7. [[people/wang-neng-xiang||wang-neng-xiang]]
+8. [[people/yang-xin||yang-xin]]
 
 ### Organizations (1)
 
-1. [[organizations/taiwanese-american-historical-society|taiwanese-american-historical-society]]
+1. [[organizations/taiwanese-american-historical-society||taiwanese-american-historical-society]]
 
 ### Sources (2)
 
-1. [[sources/2017-tahs-publication|2017-tahs-publication]]
-2. [[sources/2017-tahs-publication|2017-tahs-publication]]
+1. [[sources/2017-tahs-publication||2017-tahs-publication]]
+2. [[sources/2017-tahs-publication||2017-tahs-publication]]
 
 ## Quotes
 
@@ -442,54 +442,54 @@ Notable quotes and mentions of **廖述宗** in Taiwan Justice articles:
 - **Content priority A:** 2017 TAHS Publication 生命的執著 (The Persistence of Life) — Liao Shu-zong profile, Part 2, L1–569 (~568 lines), written by 楊遠薰
 - **Content priority A:** Memorial by 楊嘉猷 (Charles Yang), Part 2, L570–666
 - **Content priority A:** Contains extensive biographical narrative from birth through UChicago career, scientific breakthroughs, NATPA founding, and democratic activism
-- **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
+- **Hub:** [[sources/2017-tahs-publication||2017 TAHS Publication]]
 - **Note:** The full text includes detailed biographical information including family background, education, 228/White Terror experiences, UChicago career, male hormone research, NATPA founding, and democratic movement involvement.
 
 ## Related Pages
 
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/2017-tahs-publication|2017 TAHS Publication]]
-- [[people/yang-jia-you|楊嘉猷 (Charles Yang) — wrote memorial tribute]]
-- [[people/wang-gui-rong|Wang Gui-rong (王桂榮) — TAF laureate]]
-- [[people/huang-gen-shen|Huang Gen-shen (黃根深) — fellow UFAI activist]]
-- [[people/franklin-ping-cheng|Franklin Ping Cheng (程炳成) — TAHS president]]
-- [[people/yang-xin|Yang Hsin (楊信) — fellow 菁英錄 subject]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/2017-tahs-publication||2017 TAHS Publication]]
+- [[people/yang-jia-you||楊嘉猷 (Charles Yang) — wrote memorial tribute]]
+- [[people/wang-gui-rong||Wang Gui-rong (王桂榮) — TAF laureate]]
+- [[people/huang-gen-shen||Huang Gen-shen (黃根深) — fellow UFAI activist]]
+- [[people/franklin-ping-cheng||Franklin Ping Cheng (程炳成) — TAHS president]]
+- [[people/yang-xin||Yang Hsin (楊信) — fellow 菁英錄 subject]]
 
 ## TJ Citations
 
 Articles from taiwanjustice.net mentioning **Liao Shu-zong (廖述宗)**:
 
-1. **2022-06-27** — [[articles/taiwanjustice-net/2022/20220927144814_2022_06_27_唐山打人事件顯示中國已淪為_蠅國_-余杰_982bb72dd4fe3353|唐山打人事件顯示中國已淪為「蠅國」◎ 余杰]]
+1. **2022-06-27** — [[articles/taiwanjustice-net/2022/20220927144814_2022_06_27_唐山打人事件顯示中國已淪為_蠅國_-余杰_982bb72dd4fe3353||唐山打人事件顯示中國已淪為「蠅國」◎ 余杰]]
    - Source: https://www.taiwanjustice.net/2022/06/27/%E5%94%90%E5%B1%B1%E6%89%93%E4%BA%BA%E4%BA%8B%E4%BB%B6%E9%A1%AF%E7%A4%BA%E4%B8%AD%E5%9C%8B%E5%B7%B2%E6%B7%AA%E7%82%BA%E3%80%8C%E8%A0%85%E5%9C%8B%E3%80%8D%E2%97%8E-%E4%BD%99%E6%9D%B0/
    - Match: alias='廖述宗' where=body pts=40
    - Score: 175
 
-2. **2022-06-27** — [[articles/taiwanjustice-net/2024/20240619172639_root_9c55093535c7aca4|唐山打人事件顯示中國已淪為「蠅國」◎ 余杰]]
+2. **2022-06-27** — [[articles/taiwanjustice-net/2024/20240619172639_root_9c55093535c7aca4||唐山打人事件顯示中國已淪為「蠅國」◎ 余杰]]
    - Source: https://www.taiwanjustice.net/?p=301199
    - Match: alias='廖述宗' where=body pts=40
    - Score: 175
 
-3. **2022-06-27** — [[articles/taiwanjustice-net/2025/20250213033003_唐山打人事件顯示中國已淪為_蠅國_-余杰_ae7f270f52c6cf8f|唐山打人事件顯示中國已淪為「蠅國」◎ 余杰]]
+3. **2022-06-27** — [[articles/taiwanjustice-net/2025/20250213033003_唐山打人事件顯示中國已淪為_蠅國_-余杰_ae7f270f52c6cf8f||唐山打人事件顯示中國已淪為「蠅國」◎ 余杰]]
    - Source: https://taiwanjustice.net/%e5%94%90%e5%b1%b1%e6%89%93%e4%ba%ba%e4%ba%8b%e4%bb%b6%e9%a1%af%e7%a4%ba%e4%b8%ad%e5%9c%8b%e5%b7%b2%e6%b7%aa%e7%82%ba%e3%80%8c%e8%a0%85%e5%9c%8b%e3%80%8d%e2%97%8e-%e4%bd%99%e6%9d%b0/
    - Match: alias='廖述宗' where=body pts=40
    - Score: 175
 
-4. **2015-03-07** — [[articles/taiwanjustice-net/2024/20240528135924_root_357eb029de9402e8|2015年第一屆「NATPA 廖述宗教授紀念獎」記者會 ◎台灣公義網攝錄]]
+4. **2015-03-07** — [[articles/taiwanjustice-net/2024/20240528135924_root_357eb029de9402e8||2015年第一屆「NATPA 廖述宗教授紀念獎」記者會 ◎台灣公義網攝錄]]
    - Source: https://www.taiwanjustice.net/?p=50041
    - Match: alias='廖述宗' where=title pts=100
    - Score: 165
 
-5. **2021-04-20** — [[articles/taiwanjustice-net/2025/20251108180838_榮獲廖述宗教授紀念獎_罷韓四君子_是肯定每個_d2e6e5b19ab4b452|榮獲廖述宗教授紀念獎，罷韓四君子：是肯定每個夥伴]]
+5. **2021-04-20** — [[articles/taiwanjustice-net/2025/20251108180838_榮獲廖述宗教授紀念獎_罷韓四君子_是肯定每個_d2e6e5b19ab4b452||榮獲廖述宗教授紀念獎，罷韓四君子：是肯定每個夥伴]]
    - Source: https://taiwanjustice.net/%E6%A6%AE%E7%8D%B2%E5%BB%96%E8%BF%B0%E5%AE%97%E6%95%99%E6%8E%88%E7%B4%80%E5%BF%B5%E7%8D%8E%EF%BC%8C%E7%BD%B7%E9%9F%93%E5%9B%9B%E5%90%9B%E5%AD%90%EF%BC%9A%E6%98%AF%E8%82%AF%E5%AE%9A%E6%AF%8F%E5%80%8B/
    - Match: alias='廖述宗' where=title pts=100
    - Score: 160
 
-6. **2018-08-06** — [[articles/taiwanjustice-net/2023/20230130104507_2018_08_06_獲廖述宗紀念獎肯定-林昶佐_繼續全力以赴打拚-_9e34883dc9bc8948|獲廖述宗紀念獎肯定 林昶佐：繼續全力以赴打拚 ◎中央社 2018-08-06]]
+6. **2018-08-06** — [[articles/taiwanjustice-net/2023/20230130104507_2018_08_06_獲廖述宗紀念獎肯定-林昶佐_繼續全力以赴打拚-_9e34883dc9bc8948||獲廖述宗紀念獎肯定 林昶佐：繼續全力以赴打拚 ◎中央社 2018-08-06]]
    - Source: https://www.taiwanjustice.net/2018/08/06/%E7%8D%B2%E5%BB%96%E8%BF%B0%E5%AE%97%E7%B4%80%E5%BF%B5%E7%8D%8E%E8%82%AF%E5%AE%9A-%E6%9E%97%E6%98%B6%E4%BD%90%EF%BC%9A%E7%B9%BC%E7%BA%8C%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4%E6%89%93%E6%8B%9A-%E2%97%8E/
    - Match: alias='廖述宗' where=title pts=100
    - Score: 155
 
-7. **2020-02-08** — [[articles/taiwanjustice-net/2025/20250328063830_2020年第6屆_natpa-廖述宗教授紀念獎_接受推薦_c74aa78d01af7084|2020年第6屆「NATPA 廖述宗教授紀念獎」接受推薦]]
+7. **2020-02-08** — [[articles/taiwanjustice-net/2025/20250328063830_2020年第6屆_natpa-廖述宗教授紀念獎_接受推薦_c74aa78d01af7084||2020年第6屆「NATPA 廖述宗教授紀念獎」接受推薦]]
    - Source: https://taiwanjustice.net/2020%E5%B9%B4%E7%AC%AC6%E5%B1%86%E3%80%8Cnatpa-%E5%BB%96%E8%BF%B0%E5%AE%97%E6%95%99%E6%8E%88%E7%B4%80%E5%BF%B5%E7%8D%8E%E3%80%8D%E6%8E%A5%E5%8F%97%E6%8E%A8%E8%96%A6/
    - Match: alias='廖述宗' where=title pts=100
    - Score: 100

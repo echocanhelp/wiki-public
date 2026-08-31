@@ -33,7 +33,7 @@ Huai-Shion Tsai was born in Tainan, Taiwan in 1947. She graduated from the Natio
 
 ## Family
 
-- **Husband:** [[people/henty-chen|陳華山]]
+- **Husband:** [[people/henty-chen||陳華山]]
 - **Son:** Jack, Steve, Mike, Jimmy
 
 
@@ -45,5 +45,5 @@ Huai-Shion Tsai was born in Tainan, Taiwan in 1947. She graduated from the Natio
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/huai-shion-tsai/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

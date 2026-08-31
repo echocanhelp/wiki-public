@@ -47,5 +47,5 @@ For more information, please clickProjects >>>14. Pride of T. A. >>>6. 全美最
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ming-shian-kao/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

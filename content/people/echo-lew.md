@@ -45,5 +45,5 @@ Exhibition at SCA Gallery (Southern California Art Project Gallery), Pomona, Cal
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/echo-lew/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

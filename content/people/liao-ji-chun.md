@@ -46,17 +46,17 @@ Pages that link to **liao-ji-chun** (liao-ji-chun):
 
 ### People (2)
 
-1. [[people/guo-shu-qing|guo-shu-qing]]
-2. [[people/lin-qiong-xian|lin-qiong-xian]]
+1. [[people/guo-shu-qing||guo-shu-qing]]
+2. [[people/lin-qiong-xian||lin-qiong-xian]]
 
 ## Source Notes and Confidence
 
 - **Content priority A:** 2017 TAHS Publication 生命的執著 (The Persistence of Life) — Liao Shu-zong profile, mentions of his father
-- **Content priority A:** Memorial by [[people/yang-jia-you|楊嘉猷]] (Charles Yang), Part 2, L20–23 — mentions 廖繼春 as famous painter and 台中師範學校 teacher
-- **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
+- **Content priority A:** Memorial by [[people/yang-jia-you||楊嘉猷]] (Charles Yang), Part 2, L20–23 — mentions 廖繼春 as famous painter and 台中師範學校 teacher
+- **Hub:** [[sources/2017-tahs-publication||2017 TAHS Publication]]
 
 ## Related Pages
 
-- [[people/liao-shu-zong|廖述宗 (Liao Shu-zong) — son, biochemist]]
-- [[people/lin-qiong-xian|林瓊仙 (Lin Qiong-xian) — wife]]
-- [[sources/2017-tahs-publication|2017 TAHS Publication]]
+- [[people/liao-shu-zong||廖述宗 (Liao Shu-zong) — son, biochemist]]
+- [[people/lin-qiong-xian||林瓊仙 (Lin Qiong-xian) — wife]]
+- [[sources/2017-tahs-publication||2017 TAHS Publication]]

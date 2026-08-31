@@ -44,5 +44,5 @@ An accomplished opera baritone, Mr. Jonathan Wu graduated from the Chinese Cultu
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jonathan-h-wu/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

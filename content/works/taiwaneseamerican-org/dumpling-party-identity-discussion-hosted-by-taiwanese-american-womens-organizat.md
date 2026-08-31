@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/dumpling-party-identity-discussion-hosted-by-taiwanese-american-womens-organizat|Dumpling Party &#038; Identity Discussion Hosted by Taiwanese American Women&#8217;s Organization in SF]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/dumpling-party-identity-discussion-hosted-by-taiwanese-american-womens-organizat||Dumpling Party &#038; Identity Discussion Hosted by Taiwanese American Women&#8217;s Organization in SF]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

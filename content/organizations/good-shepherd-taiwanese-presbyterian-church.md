@@ -25,7 +25,7 @@ last_reviewed: 2026-08-30
 - **Type:** Taiwanese Presbyterian congregation (PC(USA) network context)
 - **Location:** 606 South Atlantic Blvd., Monterey Park, CA 91754
 - **Denomination / language:** Presbyterian; primary worship in Taiwanese; integrated English ministry (Noah's Ark) for youth and children
-- **Leadership:** [[people/mingyuan-hsu|Rev. Ming Yuan Hsu (許明遠牧師)]] (full-time pastor, July 2019–present per official profile)
+- **Leadership:** [[people/mingyuan-hsu||Rev. Ming Yuan Hsu (許明遠牧師)]] (full-time pastor, July 2019–present per official profile)
 - **Official site:** [GSTPC Official Site](https://gstpc.org/home/)
 
 ## Overview
@@ -44,7 +44,7 @@ Per the church's vision statement ([異象使命](https://gstpc.org/home/our-vis
 
 ### Founding
 
-**設教:** 7 December 1980 (GSTPC40 許明遠前言). [[people/david-huang|黃德利]]’s 40th essay: planted in Monterey Park for 台語 worship during the 1980s immigrant wave; first year grew from **three families and seven youth** to 70+ in worship and 37 youth. Seven PCT pastors then in SoCal helped the plant (among them [[people/rev-j-m-hsu|許錦銘]]; 邱以正、許文將、余裕義 later deceased; 陳獻平 later in Taiwan).
+**設教:** 7 December 1980 (GSTPC40 許明遠前言). [[people/david-huang||黃德利]]’s 40th essay: planted in Monterey Park for 台語 worship during the 1980s immigrant wave; first year grew from **three families and seven youth** to 70+ in worship and 37 youth. Seven PCT pastors then in SoCal helped the plant (among them [[people/rev-j-m-hsu||許錦銘]]; 邱以正、許文將、余裕義 later deceased; 陳獻平 later in Taiwan).
 
 潘淑姃 (GSTPC40): 1985 fifth-anniversary — 黃德利 **就任首任牧師**; 1988 the congregation bought the Monterey Park building (bid vs a Korean congregation after the white host church offered the property); 1990 tenth-anniversary worship; fifteenth-anniversary 獻堂; sister-church tie with 台北重新教會.
 
@@ -62,12 +62,12 @@ From GSTPC40 許明遠 thanks + dated essays (not TAH alone):
 
 | Role / years | Person | Source |
 |---|---|---|
-| Plant / 首任 (installed 1985); TAH: senior 1980–2002 | [[people/david-huang|黃德利]] | GSTPC40; TAH |
-| 傳道及**第二任牧師 2006–2016**; deacon 1981–86 | [[people/cai-weiren|蔡維仁]] | GSTPC40 蔡文 |
-| In post 2018 (堅信禮) | [[people/ralph-su|蘇惠智]] | GSTPC40 孫紫雲 |
-| Full-time **July 2019–** | [[people/mingyuan-hsu|許明遠]] | GSTPC pastor page + 40th |
+| Plant / 首任 (installed 1985); TAH: senior 1980–2002 | [[people/david-huang||黃德利]] | GSTPC40; TAH |
+| 傳道及**第二任牧師 2006–2016**; deacon 1981–86 | [[people/cai-weiren||蔡維仁]] | GSTPC40 蔡文 |
+| In post 2018 (堅信禮) | [[people/ralph-su||蘇惠智]] | GSTPC40 孫紫雲 |
+| Full-time **July 2019–** | [[people/mingyuan-hsu||許明遠]] | GSTPC pastor page + 40th |
 
-Also thanked as having served (years not given in the 40th list): 吳天賜、葉君勇、郭應啟、陳順欽、黃梓洋、[[people/guo-dongxu|郭東緒]]、林雍迪.
+Also thanked as having served (years not given in the 40th list): 吳天賜、葉君勇、郭應啟、陳順欽、黃梓洋、[[people/guo-dongxu||郭東緒]]、林雍迪.
 
 Youth-counselor core named by 黃德利 (40th): 廖芳誼、蔡維仁、黃授正、黃惠琦、謝敏慧、謝明敏、林尚嫻 — later 黃授正、蔡維仁、林雍迪 pastors; 林雍肇宣教師.
 
@@ -101,11 +101,11 @@ GSTPC offers a range of ministries serving different age groups and needs within
 
 ### 馬偕博士台灣宣教150週年紀念主日 (2022)
 
-On March 6, 2022, GSTPC joined a 南加州 TPC outdoor service for **馬偕博士台灣宣教150週年** (Mackay 1872–2022). Heritage link to [[organizations/presbyterian-church-in-taiwan|PCT]]; **not** a claim that GSTPC is a PCT congregation.
+On March 6, 2022, GSTPC joined a 南加州 TPC outdoor service for **馬偕博士台灣宣教150週年** (Mackay 1872–2022). Heritage link to [[organizations/presbyterian-church-in-taiwan||PCT]]; **not** a claim that GSTPC is a PCT congregation.
 
 ### TPC 50th Anniversary Special (May–June 2020)
 
-GSTPC hosted [[people/david-huang|黃德利]] for **TPC 50 週年特別節目** — 50 years of **North American Taiwanese Presbyterian** work from [[organizations/formosan-presbyterian-church-in-los-angeles|FPCLA]] (1970), **not** PCT’s 1865/1951 clock. Three episodes (5 / 12 / 19 June 2020).
+GSTPC hosted [[people/david-huang||黃德利]] for **TPC 50 週年特別節目** — 50 years of **North American Taiwanese Presbyterian** work from [[organizations/formosan-presbyterian-church-in-los-angeles||FPCLA]] (1970), **not** PCT’s 1865/1951 clock. Three episodes (5 / 12 / 19 June 2020).
 
 | Date | Title |
 |------|-------|
@@ -115,7 +115,7 @@ GSTPC hosted [[people/david-huang|黃德利]] for **TPC 50 週年特別節目** 
 
 ## Devotion Archive (靈修默想)
 
-Since 2020, [[people/mingyuan-hsu|Rev. Ming Yuan Hsu (許明遠牧師)]] has published daily spiritual reflections (靈修默想 / 每日靈修) on the church website. The archive contains approximately 123 entries from 2020 alone, published regularly throughout the year. These devotionals are accessible via the [Devotion Archive](https://gstpc.org/home/devotion-archive/).
+Since 2020, [[people/mingyuan-hsu||Rev. Ming Yuan Hsu (許明遠牧師)]] has published daily spiritual reflections (靈修默想 / 每日靈修) on the church website. The archive contains approximately 123 entries from 2020 alone, published regularly throughout the year. These devotionals are accessible via the [Devotion Archive](https://gstpc.org/home/devotion-archive/).
 
 ## Resources
 
@@ -170,22 +170,22 @@ Since 2020, [[people/mingyuan-hsu|Rev. Ming Yuan Hsu (許明遠牧師)]] has pub
 | **TPC** | **T**aiwanese **P**resbyterian **C**hurches (南加州 fellowship) | peers; [TPC 主日直播](https://gstpc.org/home/tpc/); joint prayer 2022-05-18 |
 | **PCT** | **P**resbyterian **C**hurch in **T**aiwan · 台灣基督長老教會 | **origin / people / sister**, not membership |
 
-Good Shepherd is **not** a Presbyterian Church in Taiwan congregation. See [[organizations/tpc|TPC — Taiwanese Presbyterian Churches]].
+Good Shepherd is **not** a Presbyterian Church in Taiwan congregation. See [[organizations/tpc||TPC — Taiwanese Presbyterian Churches]].
 
 ## Related Pages
 
-- [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
-- [[organizations/irvine-taiwanese-presbyterian-church|Irvine Taiwanese Presbyterian Church (ITPC)]]
-- [[people/mingyuan-hsu|Rev. Ming Yuan Hsu (許明遠牧師)]]
-- [[people/david-huang|Rev. David Huang (黃德利)]]
-- [[people/george-leslie-mackay|George Leslie Mackay (馬偕)]]
-- [[people/james-laidlaw-maxwell|James Laidlaw Maxwell (馬雅各)]]
-- [[people/chen-meihui|Chen Meihui (陳美蕙)]]
-- [[people/cai-weiren|Rev. Tsai Weiren (蔡維仁)]]
-- [[people/rev-j-m-hsu|Rev. J. M. Hsu (許錦銘)]] — GSTPC40: one of seven PCT-trained pastors at the plant; not settled pastor
-- [[people/chen-bozhi|Rev. Chen Bozhi (陳柏志牧師)]]
-- [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]]
-- [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
-- [[sources/good-shepherd-taiwanese-presbyterian-church|GSTPC Official Website (source)]]
-- [[people/sam-wei-chih-sun|Sam Wei-Chih Sun (孫偉志)]]
-- [[people/susan-shu-ai-tsai|Susan Shu-Ai Tsai (蔡淑愛)]]
+- [[organizations/formosan-presbyterian-church-in-los-angeles||Formosan Presbyterian Church in Los Angeles (FPCLA)]]
+- [[organizations/irvine-taiwanese-presbyterian-church||Irvine Taiwanese Presbyterian Church (ITPC)]]
+- [[people/mingyuan-hsu||Rev. Ming Yuan Hsu (許明遠牧師)]]
+- [[people/david-huang||Rev. David Huang (黃德利)]]
+- [[people/george-leslie-mackay||George Leslie Mackay (馬偕)]]
+- [[people/james-laidlaw-maxwell||James Laidlaw Maxwell (馬雅各)]]
+- [[people/chen-meihui||Chen Meihui (陳美蕙)]]
+- [[people/cai-weiren||Rev. Tsai Weiren (蔡維仁)]]
+- [[people/rev-j-m-hsu||Rev. J. M. Hsu (許錦銘)]] — GSTPC40: one of seven PCT-trained pastors at the plant; not settled pastor
+- [[people/chen-bozhi||Rev. Chen Bozhi (陳柏志牧師)]]
+- [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan]]
+- [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society (TAHS)]]
+- [[sources/good-shepherd-taiwanese-presbyterian-church||GSTPC Official Website (source)]]
+- [[people/sam-wei-chih-sun||Sam Wei-Chih Sun (孫偉志)]]
+- [[people/susan-shu-ai-tsai||Susan Shu-Ai Tsai (蔡淑愛)]]

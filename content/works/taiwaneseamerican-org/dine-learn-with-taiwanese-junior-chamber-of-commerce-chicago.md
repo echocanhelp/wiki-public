@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/dine-learn-with-taiwanese-junior-chamber-of-commerce-chicago|Dine &#038; Learn with Taiwanese Junior Chamber of Commerce &#8211; Chicago]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/dine-learn-with-taiwanese-junior-chamber-of-commerce-chicago||Dine &#038; Learn with Taiwanese Junior Chamber of Commerce &#8211; Chicago]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

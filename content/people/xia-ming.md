@@ -21,49 +21,49 @@ Related: [Taiwanese American Historical Society](/organizations/taiwanese-americ
 
 Top 7 articles from taiwanjustice.net mentioning xia-ming:
 
-1. **2015-04-11** — [[articles/taiwanjustice-net/2023/20230204021237_2015_04_11_恐懼之海中渡己渡人-讀陳破空_不受歡迎的中_f63c99f7cf1f8e72|恐懼之海中渡己渡人 —— 讀陳破空《不受歡迎的中國人》◎夏明]]
+1. **2015-04-11** — [[articles/taiwanjustice-net/2023/20230204021237_2015_04_11_恐懼之海中渡己渡人-讀陳破空_不受歡迎的中_f63c99f7cf1f8e72||恐懼之海中渡己渡人 —— 讀陳破空《不受歡迎的中國人》◎夏明]]
    - *在「大國崛起」、「千年盛世」的喧囂下談論「醜陋的中國人」這個話題，註定要承擔極大的風險。對中國人國民性的批判、對厚黑學的論述、對中國圓滑文化的剖析、對中國人文化劣根性的抨擊已經形成傳承。在魯迅（以《阿Q正傳》為代表）、李宗吾（《厚黑學》）、林語堂（以《吾土吾民》為代表）、李敖（例如《中國性研究》）和...*
    - Score: 230
-2. **2015-05-01** — [[articles/taiwanjustice-net/2024/20240528125913_root_e878dc04fcf89dab|安倍晉三美國會演講一箭三雕 ◎ 夏明/BBC 2015-4-30]]
+2. **2015-05-01** — [[articles/taiwanjustice-net/2024/20240528125913_root_e878dc04fcf89dab||安倍晉三美國會演講一箭三雕 ◎ 夏明/BBC 2015-4-30]]
    - *▲首相安倍晉三成為日本第一位到美國國會聯合會議發表演講的首相。...*
    - Score: 100
-3. **2021-07-02** — [[articles/taiwanjustice-net/2025/20250719151725_中國科學家_公鼠懷孕_引發倫理爭議_論文作者_2e1f86fae52b47cf|「公鼠懷孕」引發倫理爭議，論文作者撤稿，中國科研人員的底線在哪兒？]]
+3. **2021-07-02** — [[articles/taiwanjustice-net/2025/20250719151725_中國科學家_公鼠懷孕_引發倫理爭議_論文作者_2e1f86fae52b47cf||「公鼠懷孕」引發倫理爭議，論文作者撤稿，中國科研人員的底線在哪兒？]]
    - *（中央社台北2日電）中國科學家6月初發布研究成果說成功讓雄性老鼠懷孕並產下幼鼠，打破自然界規律，隨即引起關注和爭議，據報導，論文作者因此決定撤回文章，已提交撤稿請求。...*
    - Score: 45
-4. **2022-03-14** — [[articles/taiwanjustice-net/2026/20260210062455_烏克蘭戰火連天_中俄威脅再成美國中期選舉焦點_20c1f9a32904d47e|烏克蘭戰火連天，中俄威脅再成美國中期選舉焦點]]
+4. **2022-03-14** — [[articles/taiwanjustice-net/2026/20260210062455_烏克蘭戰火連天_中俄威脅再成美國中期選舉焦點_20c1f9a32904d47e||烏克蘭戰火連天，中俄威脅再成美國中期選舉焦點]]
    - *2022年3月13日 美國之音 雨舟...*
    - Score: 45
-5. **2021-06-18** — [[articles/taiwanjustice-net/2021/20211025205305_2021_06_18_中共國安高層董經緯現身破叛逃傳聞美專家說此_b8dbc7d70bddf189|中共國安高層董經緯”現身”破叛逃傳聞?美專家說此舉“很有意思”]]
+5. **2021-06-18** — [[articles/taiwanjustice-net/2021/20211025205305_2021_06_18_中共國安高層董經緯現身破叛逃傳聞美專家說此_b8dbc7d70bddf189||中共國安高層董經緯”現身”破叛逃傳聞?美專家說此舉“很有意思”]]
    - *2021-06-18 自由亞洲電台...*
    - Score: 40
-6. **2022-05-18** — [[articles/taiwanjustice-net/2022/20220705124219_2022_05_18_中央辦公廳發文禁止離休領導妄議中央_中共_0add6d71f272a1c0|中央辦公廳發文禁止離休領導“妄議中央”，中共高層權鬥白熱化？]]
+6. **2022-05-18** — [[articles/taiwanjustice-net/2022/20220705124219_2022_05_18_中央辦公廳發文禁止離休領導妄議中央_中共_0add6d71f272a1c0||中央辦公廳發文禁止離休領導“妄議中央”，中共高層權鬥白熱化？]]
    - *2022.05.17 自由亞洲電台...*
    - Score: 40
-7. **2022-07-31** — [[articles/taiwanjustice-net/2025/20251010063915_上海再次全球招募五千名博士後-引人質疑是變相_fce0670c4e4126d0|上海再次全球招募五千名博士後 引人質疑是變相”千人計劃”]]
+7. **2022-07-31** — [[articles/taiwanjustice-net/2025/20251010063915_上海再次全球招募五千名博士後-引人質疑是變相_fce0670c4e4126d0||上海再次全球招募五千名博士後 引人質疑是變相”千人計劃”]]
    - *2022.07.29 自由亞洲電台...*
    - Score: 40
 
 ## Works
 
-**小明** — **2** title hits, **5** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
+**小明** — **2** title hits, **5** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
 
 ### 2024 (1)
 
-1. [[articles/taiwanjustice-net/2024/20240528125913_root_e878dc04fcf89dab|安倍晉三美國會演講一箭三雕 ◎ 夏明/BBC 2015-4-30]]
+1. [[articles/taiwanjustice-net/2024/20240528125913_root_e878dc04fcf89dab||安倍晉三美國會演講一箭三雕 ◎ 夏明/BBC 2015-4-30]]
 
 ### 2023 (1)
 
-1. [[articles/taiwanjustice-net/2023/20230204021237_2015_04_11_恐懼之海中渡己渡人-讀陳破空_不受歡迎的中_f63c99f7cf1f8e72|恐懼之海中渡己渡人 —— 讀陳破空《不受歡迎的中國人》◎夏明]]
+1. [[articles/taiwanjustice-net/2023/20230204021237_2015_04_11_恐懼之海中渡己渡人-讀陳破空_不受歡迎的中_f63c99f7cf1f8e72||恐懼之海中渡己渡人 —— 讀陳破空《不受歡迎的中國人》◎夏明]]
 
 ### Body mentions (5)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2025/20250719151725_中國科學家_公鼠懷孕_引發倫理爭議_論文作者_2e1f86fae52b47cf|「公鼠懷孕」引發倫理爭議，論文作者撤稿，中國科研人員的底線在哪兒？]]
-2. [[articles/taiwanjustice-net/2026/20260210062455_烏克蘭戰火連天_中俄威脅再成美國中期選舉焦點_20c1f9a32904d47e|烏克蘭戰火連天，中俄威脅再成美國中期選舉焦點]]
-3. [[articles/taiwanjustice-net/2021/20211025205305_2021_06_18_中共國安高層董經緯現身破叛逃傳聞美專家說此_b8dbc7d70bddf189|中共國安高層董經緯”現身”破叛逃傳聞?美專家說此舉“很有意思”]]
-4. [[articles/taiwanjustice-net/2022/20220705124219_2022_05_18_中央辦公廳發文禁止離休領導妄議中央_中共_0add6d71f272a1c0|中央辦公廳發文禁止離休領導“妄議中央”，中共高層權鬥白熱化？]]
-5. [[articles/taiwanjustice-net/2025/20251010063915_上海再次全球招募五千名博士後-引人質疑是變相_fce0670c4e4126d0|上海再次全球招募五千名博士後 引人質疑是變相”千人計劃”]]
+1. [[articles/taiwanjustice-net/2025/20250719151725_中國科學家_公鼠懷孕_引發倫理爭議_論文作者_2e1f86fae52b47cf||「公鼠懷孕」引發倫理爭議，論文作者撤稿，中國科研人員的底線在哪兒？]]
+2. [[articles/taiwanjustice-net/2026/20260210062455_烏克蘭戰火連天_中俄威脅再成美國中期選舉焦點_20c1f9a32904d47e||烏克蘭戰火連天，中俄威脅再成美國中期選舉焦點]]
+3. [[articles/taiwanjustice-net/2021/20211025205305_2021_06_18_中共國安高層董經緯現身破叛逃傳聞美專家說此_b8dbc7d70bddf189||中共國安高層董經緯”現身”破叛逃傳聞?美專家說此舉“很有意思”]]
+4. [[articles/taiwanjustice-net/2022/20220705124219_2022_05_18_中央辦公廳發文禁止離休領導妄議中央_中共_0add6d71f272a1c0||中央辦公廳發文禁止離休領導“妄議中央”，中共高層權鬥白熱化？]]
+5. [[articles/taiwanjustice-net/2025/20251010063915_上海再次全球招募五千名博士後-引人質疑是變相_fce0670c4e4126d0||上海再次全球招募五千名博士後 引人質疑是變相”千人計劃”]]
 
 
 ## Timeline
@@ -161,4 +161,4 @@ Notable quotes and mentions of **夏明** in Taiwan Justice articles:
 
 ## Related Pages
 
-- [[people/albert-s-lai|Dr. Albert S. Lai]]
+- [[people/albert-s-lai||Dr. Albert S. Lai]]

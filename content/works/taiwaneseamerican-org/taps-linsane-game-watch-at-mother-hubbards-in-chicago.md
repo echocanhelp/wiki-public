@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/taps-linsane-game-watch-at-mother-hubbards-in-chicago|TAP&#8217;s LINsane Game Watch at Mother Hubbards in Chicago]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/taps-linsane-game-watch-at-mother-hubbards-in-chicago||TAP&#8217;s LINsane Game Watch at Mother Hubbards in Chicago]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

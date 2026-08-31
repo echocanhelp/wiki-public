@@ -22,5 +22,5 @@ Golden Eagle Institute is a continuing education institution founded in 1991 in 
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/golden-eagle-institute/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

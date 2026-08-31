@@ -33,7 +33,7 @@ Accomplishment
 
 ## Family
 
-- **Husband:** [[people/s-b-liu|劉西北]]
+- **Husband:** [[people/s-b-liu||劉西北]]
 
 
 ## Sources
@@ -41,5 +41,5 @@ Accomplishment
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/a-n-liu/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

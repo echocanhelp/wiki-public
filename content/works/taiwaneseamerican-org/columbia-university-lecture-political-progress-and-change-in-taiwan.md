@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/columbia-university-lecture-political-progress-and-change-in-taiwan|Columbia University Lecture: &#8220;Political Progress and Change in Taiwan&#8221;]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/columbia-university-lecture-political-progress-and-change-in-taiwan||Columbia University Lecture: &#8220;Political Progress and Change in Taiwan&#8221;]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

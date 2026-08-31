@@ -22,5 +22,5 @@ The Association of Taiwanese Students (ATS) at MIT is an undergraduate student o
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/association-of-taiwanese-students-at-mit/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

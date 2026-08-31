@@ -22,5 +22,5 @@ The Taiwanese Association of Alabama Birmingham (伯明罕臺灣同鄉會) is a 
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-alabama-birmingham/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

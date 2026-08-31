@@ -31,5 +31,5 @@ Source from Taiwanese Association of American Greater Washington Chapter Special
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kenneth-chang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

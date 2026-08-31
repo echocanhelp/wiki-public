@@ -22,5 +22,5 @@ The Taiwanese Association of America – Detroit (TAGD), known in Chinese as 底
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-detroit-tagd/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

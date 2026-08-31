@@ -44,8 +44,8 @@ Accomplishment
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-sze-ya-yeh/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## Network
-- [[organizations/formosan-presbyterian-church-in-los-angeles|FPCLA]] — TAH Who’s Who
+- [[organizations/formosan-presbyterian-church-in-los-angeles||FPCLA]] — TAH Who’s Who

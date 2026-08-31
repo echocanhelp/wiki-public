@@ -37,7 +37,7 @@ Assistant to Full Professor of Radiation Oncology
 
 ## Family
 
-- **Wife:** [[people/prof-su-chiung-chen|陳素瓊教授]]
+- **Wife:** [[people/prof-su-chiung-chen||陳素瓊教授]]
 - **Daughter:** Elizabeth Lin
 - **Son:** Kenneth, & Michael Lin
 
@@ -47,5 +47,5 @@ Assistant to Full Professor of Radiation Oncology
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-hsiu-san-lin/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

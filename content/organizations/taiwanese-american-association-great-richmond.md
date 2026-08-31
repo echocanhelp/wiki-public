@@ -22,5 +22,5 @@ The Taiwanese American Association Great Richmond (大雷城 台灣同鄉會) is
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-association-great-richmond/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

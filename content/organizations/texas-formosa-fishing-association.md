@@ -22,5 +22,5 @@ The Texas Formosa Fishing Association is a nonprofit, nonpolitical organization 
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/texas-formosa-fishing-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

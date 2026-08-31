@@ -43,5 +43,5 @@ Yvonne Cheng graduated with a degree in music from the Shih Chien University in 
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yvonne-cheng/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

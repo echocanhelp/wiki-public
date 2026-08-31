@@ -43,5 +43,5 @@ Shu-Yuan (Susan) Tsay 蔡淑媛 (翠屏) – History of Taiwanese American (T.A.
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shu-yuan-susan-tsay/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

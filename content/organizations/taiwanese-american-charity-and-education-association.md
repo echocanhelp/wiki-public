@@ -22,5 +22,5 @@ The Taiwanese American Charity and Education Association is a nonprofit organiza
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-charity-and-education-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

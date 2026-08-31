@@ -26,10 +26,10 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/taiwanese-heritage-week-tappy-hour-in-atlanta|Taiwanese Heritage Week TAPpy Hour in Atlanta]]
-- [[works/taiwaneseamerican-org/tappy-hour-in-atlanta|TAPpy Hour in Atlanta]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/taiwanese-heritage-week-tappy-hour-in-atlanta||Taiwanese Heritage Week TAPpy Hour in Atlanta]]
+- [[works/taiwaneseamerican-org/tappy-hour-in-atlanta||TAPpy Hour in Atlanta]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

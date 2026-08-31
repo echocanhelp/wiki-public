@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/register-for-the-tacl-leading-youth-forward-summer-camp-in-the-sf-bay-area|Register for the TACL &#8220;Leading Youth Forward&#8221; Summer Camp in the SF Bay Area]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/register-for-the-tacl-leading-youth-forward-summer-camp-in-the-sf-bay-area||Register for the TACL &#8220;Leading Youth Forward&#8221; Summer Camp in the SF Bay Area]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

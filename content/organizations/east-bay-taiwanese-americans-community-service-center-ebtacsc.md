@@ -22,5 +22,5 @@ The East Bay Taiwanese Americans Community Service Center (EBTACSC) is a nonprof
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/east-bay-taiwanese-americans-community-service-center-ebtacsc/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

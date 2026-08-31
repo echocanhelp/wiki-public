@@ -40,5 +40,5 @@ Sha Lin, a Chinese-American artist, based in New York, has been trying so hard f
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sha-lin/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

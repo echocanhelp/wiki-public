@@ -20,13 +20,13 @@ Related: [Taiwanese American Historical Society](/organizations/taiwanese-americ
 
 ## Works
 
-**zheng-qinren** — **0** title hits, **1** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
+**zheng-qinren** — **0** title hits, **1** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
 
 ### Body mentions (1)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2023/20230322163322_2023_03_18_陳儀深_台獨非異端_是歷史長河所提前途選項_7a1fac458741d886|陳儀深：台獨非異端，是歷史長河所提前途選項]]
+1. [[articles/taiwanjustice-net/2023/20230322163322_2023_03_18_陳儀深_台獨非異端_是歷史長河所提前途選項_7a1fac458741d886||陳儀深：台獨非異端，是歷史長河所提前途選項]]
 
 
 ## Timeline
@@ -62,4 +62,4 @@ Notable quotes and mentions of **鄭欽仁** in Taiwan Justice articles:
 
 ## Related Pages
 
-- [[people/albert-s-lai|Dr. Albert S. Lai]]
+- [[people/albert-s-lai||Dr. Albert S. Lai]]

@@ -22,5 +22,5 @@ The North America Pastel Artists Association (NAPAA) was founded in 1997 in New 
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/north-america-pastel-artist-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

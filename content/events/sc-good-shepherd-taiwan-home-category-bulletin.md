@@ -12,7 +12,7 @@ last_reviewed: 2026-08-16
 - **Date (guess):** 2026-08-16
 - **Source URL:** [https://gstpc.org/home/category/bulletin/](https://gstpc.org/home/category/bulletin/)
 - **Captured by:** source-continuity delta
-- **Source hub:** [[sources/good-shepherd-taiwanese-presbyterian-church|source]]
+- **Source hub:** [[sources/good-shepherd-taiwanese-presbyterian-church||source]]
 
 ## Notes
 

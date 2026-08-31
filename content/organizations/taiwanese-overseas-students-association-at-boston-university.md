@@ -22,5 +22,5 @@ The Taiwanese Overseas Students Association at Boston University (TOSA, 波士�
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-overseas-students-association-at-boston-university/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

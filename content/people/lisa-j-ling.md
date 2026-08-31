@@ -41,5 +41,5 @@ Host of National Geographic Explorer, reality television show, The Job, reporter
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/lisa-j-ling/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

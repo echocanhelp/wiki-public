@@ -26,10 +26,10 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/two-taiwanese-films-at-the-chicago-international-film-festival|Two Taiwanese Films at the Chicago International Film Festival]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[articles/taiwanjustice-net/2023/20231208225407_root_12f4fa36695ac846|10]]
+- [[works/taiwaneseamerican-org/two-taiwanese-films-at-the-chicago-international-film-festival||Two Taiwanese Films at the Chicago International Film Festival]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[articles/taiwanjustice-net/2023/20231208225407_root_12f4fa36695ac846||10]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

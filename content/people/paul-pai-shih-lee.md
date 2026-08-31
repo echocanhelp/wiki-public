@@ -41,5 +41,5 @@ Violinist Paul Pai-Shih Lee, a Taiwan born Taiwanese-American, started his music
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/paul-pai-shih-lee/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

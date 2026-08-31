@@ -22,5 +22,5 @@ The Taiwan Hotel & Motel Association of North America is a national umbrella org
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwan-hotel-motel-association-of-north-america/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

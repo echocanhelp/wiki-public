@@ -32,7 +32,7 @@ last_reviewed: 2026-07-20
 
 ## Sources
 - **Content priority A:** 2017 TAHS Publication (台美菁英錄), Part 1 (緣起與展望 essay), Part 2 (Sam Chang profile)
-- **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
+- **Hub:** [[sources/2017-tahs-publication||2017 TAHS Publication]]
 
 
 ## Network
@@ -42,15 +42,15 @@ Pages that link to **zhou-wei-liang** (zhou-wei-liang):
 
 ### People (3)
 
-1. [[people/sam-chang|sam-chang]]
-2. [[people/sam-chang|sam-chang]]
-3. [[people/zhou-wei-lin|zhou-wei-lin]]
+1. [[people/sam-chang||sam-chang]]
+2. [[people/sam-chang||sam-chang]]
+3. [[people/zhou-wei-lin||zhou-wei-lin]]
 
 ### Sources (1)
 
-1. [[sources/2017-tahs-publication|2017-tahs-publication]]
+1. [[sources/2017-tahs-publication||2017-tahs-publication]]
 
 ## Related Pages
 
-- [[people/albert-s-lai|Dr. Albert S. Lai]]
-- [[people/sam-chang|Sam Chang (張善良)]] — profile compiled by Zhou Weiliang
+- [[people/albert-s-lai||Dr. Albert S. Lai]]
+- [[people/sam-chang||Sam Chang (張善良)]] — profile compiled by Zhou Weiliang

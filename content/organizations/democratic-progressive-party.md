@@ -14,7 +14,7 @@ last_reviewed: 2026-07-22
 
 **Democratic Progressive Party** (民主進步黨, DPP) is a Taiwanese nationalist political party in Taiwan. As the dominant party in the Pan-Green Coalition, one of the two main political camps in Taiwan, the DPP is the ruling party, leading a minority government that controls the presidency and the central government.
 
-**Official site:** [www.dpp.org.tw](https://www.dpp.org.tw/) · **Source:** [[sources/wikipedia-democratic-progressive-party|Wikipedia: Democratic Progressive Party]]
+**Official site:** [www.dpp.org.tw](https://www.dpp.org.tw/) · **Source:** [[sources/wikipedia-democratic-progressive-party||Wikipedia: Democratic Progressive Party]]
 
 ## Identity Snapshot
 
@@ -45,14 +45,14 @@ The DPP has had three party leaders serve as President of the Republic of China:
 
 | Election | Candidate | Running Mate | Total Votes | Share | Outcome |
 |----------|-----------|-------------|-------------|-------|---------|
-| 1996 | [[people/peng-ming-min|Peng Ming-min]] | [[people/frank-hsieh|Frank Hsieh]] | 2,274,586 | 21.13% | Defeated |
-| 2000 | [[people/chen-shuibian|Chen Shui-bian]] | Annette Lu | 4,977,737 | 39.30% | Elected |
-| 2004 | [[people/chen-shuibian|Chen Shui-bian]] | Annette Lu | 6,446,900 | 50.11% | Elected |
+| 1996 | [[people/peng-ming-min||Peng Ming-min]] | [[people/frank-hsieh||Frank Hsieh]] | 2,274,586 | 21.13% | Defeated |
+| 2000 | [[people/chen-shuibian||Chen Shui-bian]] | Annette Lu | 4,977,737 | 39.30% | Elected |
+| 2004 | [[people/chen-shuibian||Chen Shui-bian]] | Annette Lu | 6,446,900 | 50.11% | Elected |
 | 2008 | Frank Hsieh | Su Tseng-chang | 5,445,239 | 41.55% | Defeated |
-| 2012 | [[people/tsai-ingwen|Tsai Ing-wen]] | Su Jia-chyuan | 6,093,578 | 45.63% | Defeated |
-| 2016 | [[people/tsai-ingwen|Tsai Ing-wen]] | Chen Chien-jen | 6,894,744 | 56.12% | Elected |
-| 2020 | [[people/lai-ching-te|Lai Ching-te]] | William Lai | 8,170,231 | 57.13% | Elected |
-| 2024 | [[people/lai-ching-te|Lai Ching-te]] | Hsiao Bi-khim | 5,586,019 | 40.05% | Elected |
+| 2012 | [[people/tsai-ingwen||Tsai Ing-wen]] | Su Jia-chyuan | 6,093,578 | 45.63% | Defeated |
+| 2016 | [[people/tsai-ingwen||Tsai Ing-wen]] | Chen Chien-jen | 6,894,744 | 56.12% | Elected |
+| 2020 | [[people/lai-ching-te||Lai Ching-te]] | William Lai | 8,170,231 | 57.13% | Elected |
+| 2024 | [[people/lai-ching-te||Lai Ching-te]] | Hsiao Bi-khim | 5,586,019 | 40.05% | Elected |
 
 The 2024 election made the DPP the first party to win three consecutive presidential terms since direct elections were introduced in 1996.
 
@@ -70,9 +70,9 @@ The DPP rejects the so-called "One China principle" as the basis for official di
 
 ## Taiwanese-American Connection
 
-The DPP maintains overseas organizations in the United States, including the DPP US West Chapter. [[people/ken-wu|Ken Wu (吳兆峯)]], a Los Angeles-based Taiwanese-American community leader and FAPA Los Angeles chapter president, serves as an executive committee member of the DPP US West Chapter.
+The DPP maintains overseas organizations in the United States, including the DPP US West Chapter. [[people/ken-wu||Ken Wu (吳兆峯)]], a Los Angeles-based Taiwanese-American community leader and FAPA Los Angeles chapter president, serves as an executive committee member of the DPP US West Chapter.
 
-The party's democratization history — including the Kaohsiung Incident (1979), the lifting of martial law (1987), the Wild Lily Movement (1990), and the first direct presidential election (1996) — is documented in [[sources/toward-a-community-of-hope|Toward a Community of Hope]] by [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]], whose 1971 dissertation chronicled the founding of [[organizations/formosan-presbyterian-church-in-los-angeles|FPCLA]] and the broader Taiwanese-American church experience. The DPP's current minister of the [[organizations/overseas-community-affairs-council|Overseas Community Affairs Council (OCAC)]] is Hsu Chia-ching (徐佳青). The party's current chairperson is [[people/lai-ching-te|Lai Ching-te (賴清德)]], and its 2024 presidential candidate was [[people/tsai-ingwen|Tsai Ing-wen]].
+The party's democratization history — including the Kaohsiung Incident (1979), the lifting of martial law (1987), the Wild Lily Movement (1990), and the first direct presidential election (1996) — is documented in [[sources/toward-a-community-of-hope||Toward a Community of Hope]] by [[people/albert-s-lai||Dr. Albert S. Lai (賴信雄)]], whose 1971 dissertation chronicled the founding of [[organizations/formosan-presbyterian-church-in-los-angeles||FPCLA]] and the broader Taiwanese-American church experience. The DPP's current minister of the [[organizations/overseas-community-affairs-council||Overseas Community Affairs Council (OCAC)]] is Hsu Chia-ching (徐佳青). The party's current chairperson is [[people/lai-ching-te||Lai Ching-te (賴清德)]], and its 2024 presidential candidate was [[people/tsai-ingwen||Tsai Ing-wen]].
 
 ## Factions
 
@@ -83,7 +83,7 @@ As of 2022, Taiwan News identified at least 7 factions within the party:
 - **Green Fellowship Association** (綠色友誼系統) — Ho Chih-wei
 - **Taiwan Forward** (湧言會) — Lin Kun-hai, Hsu Kuo-yung
 - **Su Faction** (蘇系) — Su Tseng-chang
-- **Ing Faction** (英系) — [[people/tsai-ing-wen|Tsai Ing-wen]], Chen Ming-wen, Kuan Bi-ling
+- **Ing Faction** (英系) — [[people/tsai-ing-wen||Tsai Ing-wen]], Chen Ming-wen, Kuan Bi-ling
 - **Democracy Living Water Connection** (民主活水連線) — Cho Jung-tai, Luo Wen-jia, Lin Fei-fan
 
 In 2006, the party ended official recognition of factions, though they remain referred to by name in national media.
@@ -96,14 +96,14 @@ In 2006, the party ended official recognition of factions, though they remain re
 ## Source Notes
 
 - **Primary source:** [Wikipedia: Democratic Progressive Party](https://en.wikipedia.org/wiki/Democratic_Progressive_Party) — full-domain archive in `knowledge/web-archives/wikipedia-democratic-progressive-party.md`
-- **Cross-references:** [[people/ken-wu|Ken Wu]] (DPP US West Chapter executive committee member), [[sources/toward-a-community-of-hope|Toward a Community of Hope]] (democratization history)
+- **Cross-references:** [[people/ken-wu||Ken Wu]] (DPP US West Chapter executive committee member), [[sources/toward-a-community-of-hope||Toward a Community of Hope]] (democratization history)
 - **Verification:** Pending — content derived from Wikipedia (CC BY-SA 3.0) and cross-referenced with existing Echopedia pages
 
 ## Related Pages
 
-- [[sources/wikipedia-democratic-progressive-party|Wikipedia: Democratic Progressive Party]]
-- [[people/ken-wu|Ken Wu (吳兆峯)]]
-- [[sources/toward-a-community-of-hope|Toward a Community of Hope]]
-- [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
-- [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]] — linked through Albert Lai's dissertation documenting the democratization history
-- [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]]
+- [[sources/wikipedia-democratic-progressive-party||Wikipedia: Democratic Progressive Party]]
+- [[people/ken-wu||Ken Wu (吳兆峯)]]
+- [[sources/toward-a-community-of-hope||Toward a Community of Hope]]
+- [[people/albert-s-lai||Dr. Albert S. Lai (賴信雄)]]
+- [[organizations/formosan-presbyterian-church-in-los-angeles||Formosan Presbyterian Church in Los Angeles (FPCLA)]] — linked through Albert Lai's dissertation documenting the democratization history
+- [[organizations/taiwan-center||Taiwan Center Foundation of the Greater Los Angeles]]

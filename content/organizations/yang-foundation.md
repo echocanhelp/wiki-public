@@ -22,5 +22,5 @@ The Yang Foundation is a community-oriented organization focused on educational 
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/yang-foundation/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

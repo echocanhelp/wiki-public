@@ -45,5 +45,5 @@ M.S., Aerospace Engineering; Ph.D. Course Program
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kin-ko/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

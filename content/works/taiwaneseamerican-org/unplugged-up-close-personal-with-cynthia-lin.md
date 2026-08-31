@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/unplugged-up-close-personal-with-cynthia-lin|UNPLUGGED: Up Close &#038; Personal with Cynthia Lin &#8211; An Acoustic Performance in DC]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/unplugged-up-close-personal-with-cynthia-lin||UNPLUGGED: Up Close &#038; Personal with Cynthia Lin &#8211; An Acoustic Performance in DC]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

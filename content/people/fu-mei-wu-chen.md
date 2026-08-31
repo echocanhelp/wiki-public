@@ -31,7 +31,7 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Husband:** [[people/ron-chen|陳榮成]]
+- **Husband:** [[people/ron-chen||陳榮成]]
 - **Daughter:** Sonya,Tonya, Patricia
 - **Son:** Oliver
 
@@ -41,5 +41,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/fu-mei-wu-chen/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

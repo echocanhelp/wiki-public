@@ -22,5 +22,5 @@ Café Philo (哲學星期五, literally ‘Philosophy Friday’) is a civic foru
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/fri-philo/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

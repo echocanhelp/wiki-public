@@ -22,5 +22,5 @@ The Cornell Taiwanese American Society (CTAS) is a registered student organizati
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/cornell-taiwanese-american-society/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

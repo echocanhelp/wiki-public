@@ -34,7 +34,7 @@ His inclusion suggests intergenerational reliance on influential theological voi
 - Source confidence C
 
 ## Historical Context
-In this cluster, Dr. Chow functions as a reference point in theological lineage rather than as a primary narrator of [[organizations/national-taiwanese-presbyterian-council|NTPC]] institutional events.
+In this cluster, Dr. Chow functions as a reference point in theological lineage rather than as a primary narrator of [[organizations/national-taiwanese-presbyterian-council||NTPC]] institutional events.
 
 ## Contributions and Legacy
 1. Serves as a theological reference anchor for migration-era church interpretation. — Source: cluster contextual layer (C)
@@ -48,11 +48,11 @@ Pages that link to **lien-hwa-chow** (lien-hwa-chow):
 
 ### People (1)
 
-1. [[people/index|index]]
+1. [[people/index||index]]
 
 ### Organizations (1)
 
-1. [[organizations/index|index]]
+1. [[organizations/index||index]]
 
 ## Source Notes and Confidence
 
@@ -79,6 +79,6 @@ Use the shared intake process at Echopedia Community Contributions Hub and inclu
 
 ## Related Pages
 - toward-a-community-of-hope
-- [[organizations/national-taiwanese-presbyterian-council|NTPC]]
-- [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan (台灣基督長老教會)]]
+- [[organizations/national-taiwanese-presbyterian-council||NTPC]]
+- [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan (台灣基督長老教會)]]
 - Echopedia Person Recordation Framework

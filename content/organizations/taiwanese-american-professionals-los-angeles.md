@@ -22,5 +22,5 @@ Taiwanese American Professionals Los Angeles (TAP-LA) is the founding chapter of
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-professionals-los-angeles/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

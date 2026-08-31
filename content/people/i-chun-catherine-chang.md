@@ -41,5 +41,5 @@ I-Chun (Catherine) Chang 張儀君教授 – History of Taiwanese American (T.A.
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/i-chun-catherine-chang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

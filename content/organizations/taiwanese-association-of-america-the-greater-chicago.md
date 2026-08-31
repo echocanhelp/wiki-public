@@ -22,5 +22,5 @@ Taiwanese Association of America the Greater Chicago (大芝加哥台灣同鄉�
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-the-greater-chicago/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

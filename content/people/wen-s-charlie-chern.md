@@ -49,5 +49,5 @@ Wen S. (Charlie) Chern 陳文雄 – History of Taiwanese American (T.A. Archive
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/wen-s-charlie-chern/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

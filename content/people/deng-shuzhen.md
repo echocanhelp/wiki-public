@@ -77,5 +77,5 @@ Use Echopedia Community Contributions Hub and include:
 ## Related Pages
 - GSTPC Tier-A Person Wikification Queue (第一優先人物建頁佇列)
 - GSTPC Bulletin Person Wikification Candidates (週報人物頁候選清單)
-- [[organizations/good-shepherd-taiwanese-presbyterian-church|Good Shepherd Taiwanese Presbyterian Church (好牧者臺灣基督長老教會)]]
+- [[organizations/good-shepherd-taiwanese-presbyterian-church||Good Shepherd Taiwanese Presbyterian Church (好牧者臺灣基督長老教會)]]
 - GSTPC Fiduciary Extraction Ledger

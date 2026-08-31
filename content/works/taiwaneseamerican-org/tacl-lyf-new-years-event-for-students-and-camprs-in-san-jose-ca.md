@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/tacl-lyf-new-years-event-for-students-and-camprs-in-san-jose-ca|TACL-LYF New Year&#8217;s Event for Students and Campers in San Jose, CA]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/tacl-lyf-new-years-event-for-students-and-camprs-in-san-jose-ca||TACL-LYF New Year&#8217;s Event for Students and Campers in San Jose, CA]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

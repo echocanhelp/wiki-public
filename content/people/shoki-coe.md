@@ -32,18 +32,18 @@ Pages that link to **shoki-coe** (shoki-coe):
 
 ### People (3)
 
-1. [[people/albert-s-lai|albert-s-lai]]
-2. [[people/chaolong-kao|chaolong-kao]]
-3. [[people/index|index]]
+1. [[people/albert-s-lai||albert-s-lai]]
+2. [[people/chaolong-kao||chaolong-kao]]
+3. [[people/index||index]]
 
 ### Organizations (2)
 
-1. [[organizations/formosan-presbyterian-church-in-los-angeles|formosan-presbyterian-church-in-los-angeles]]
-2. [[organizations/index|index]]
+1. [[organizations/formosan-presbyterian-church-in-los-angeles||formosan-presbyterian-church-in-los-angeles]]
+2. [[organizations/index||index]]
 
 ### Sources (1)
 
-1. [[sources/good-shepherd-taiwanese-presbyterian-church|good-shepherd-taiwanese-presbyterian-church]]
+1. [[sources/good-shepherd-taiwanese-presbyterian-church||good-shepherd-taiwanese-presbyterian-church]]
 
 ## Source Notes and Confidence
 - Needs verification: expanded biographical details
@@ -54,5 +54,5 @@ Pages that link to **shoki-coe** (shoki-coe):
 - Romanized: Shoki Coe / Huang Zhanghui
 
 ## Related Pages
-- [[people/index|People Index]]
-- [[organizations/good-shepherd-taiwanese-presbyterian-church|Good Shepherd Taiwanese Presbyterian Church]]
+- [[people/index||People Index]]
+- [[organizations/good-shepherd-taiwanese-presbyterian-church||Good Shepherd Taiwanese Presbyterian Church]]

@@ -22,5 +22,5 @@ The Taiwanese Student Association at the University of Virginia (TSA at UVA) is 
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-student-association-at-the-university-of-virginia/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

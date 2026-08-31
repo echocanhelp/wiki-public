@@ -17,7 +17,7 @@ last_reviewed: 2026-08-20
 ---
 # Dr. Albert S. Lai (賴信雄)
 
-**Dr. Albert S. Lai (賴信雄, Lai Sin-hiong)** is a Taiwanese American pastor, theologian, and institution-builder who helped establish the first Taiwanese Presbyterian Church in North America and authored the landmark 1971 dissertation [[sources/toward-a-community-of-hope|Toward A Community of Hope — A Mission to Formosan Community in Los Angeles]], reprinted in 2025 with a 50th anniversary foreword.
+**Dr. Albert S. Lai (賴信雄, Lai Sin-hiong)** is a Taiwanese American pastor, theologian, and institution-builder who helped establish the first Taiwanese Presbyterian Church in North America and authored the landmark 1971 dissertation [[sources/toward-a-community-of-hope||Toward A Community of Hope — A Mission to Formosan Community in Los Angeles]], reprinted in 2025 with a 50th anniversary foreword.
 
 ## Identity Snapshot
 
@@ -29,20 +29,20 @@ last_reviewed: 2026-08-20
 
 ## Historical Context
 
-Dr. Lai's life and work sit at the intersection of migration-era pastoral care and institution formation. In 1970, he participated in the founding of the [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]], the first Taiwanese church in North America. In 1971, he produced a doctoral dissertation that connected historical memory, migration pressure, identity tension, and communal mission. His work remains a foundational reference for Taiwanese American church history.
+Dr. Lai's life and work sit at the intersection of migration-era pastoral care and institution formation. In 1970, he participated in the founding of the [[organizations/formosan-presbyterian-church-in-los-angeles||Formosan Presbyterian Church in Los Angeles (FPCLA)]], the first Taiwanese church in North America. In 1971, he produced a doctoral dissertation that connected historical memory, migration pressure, identity tension, and communal mission. His work remains a foundational reference for Taiwanese American church history.
 
 ## FPCLA Founding (1970)
 
-Dr. Lai was among the enthusiastic believers who co-founded [[organizations/formosan-presbyterian-church-in-los-angeles|FPCLA]] under the theology and system of the United Presbyterian Church (UPCUSA, now PC(USA)). The founding involved:
+Dr. Lai was among the enthusiastic believers who co-founded [[organizations/formosan-presbyterian-church-in-los-angeles||FPCLA]] under the theology and system of the United Presbyterian Church (UPCUSA, now PC(USA)). The founding involved:
 
-- **Co-founders:** [[people/daniel-kao|Dr. & Mrs. Daniel Kao (高光民)]], [[people/c-c-chen|Dr. & Mrs. C. C. Chen (陳昭俊)]], Mr. & Mrs. Norman Hsu (許彬), Dr. & Mrs. Isiah Lee (李宗派), Dr. & Mrs. Joseph T. C. Lu (盧俊哲), Mr. & Mrs. Morris Chen (陳茂雄), Mr. & Mrs. George Chen (陳進琛), Dr. & Mrs. Sze-Ya Yeh (葉思雅), Mr. & Mrs. Wang Chun Hsiung (王春雄), Dr. & Mrs. Jang Yan Wu (吳政彥), Dr. Wen-Cho Yang (楊哲), Dr. & Mrs. Justin Chen (陳有義), Meiling Lai (賴美玲), Michael Chen (陳明章), and others
+- **Co-founders:** [[people/daniel-kao||Dr. & Mrs. Daniel Kao (高光民)]], [[people/c-c-chen||Dr. & Mrs. C. C. Chen (陳昭俊)]], Mr. & Mrs. Norman Hsu (許彬), Dr. & Mrs. Isiah Lee (李宗派), Dr. & Mrs. Joseph T. C. Lu (盧俊哲), Mr. & Mrs. Morris Chen (陳茂雄), Mr. & Mrs. George Chen (陳進琛), Dr. & Mrs. Sze-Ya Yeh (葉思雅), Mr. & Mrs. Wang Chun Hsiung (王春雄), Dr. & Mrs. Jang Yan Wu (吳政彥), Dr. Wen-Cho Yang (楊哲), Dr. & Mrs. Justin Chen (陳有義), Meiling Lai (賴美玲), Michael Chen (陳明章), and others
 - **Supporting pastors and elders:** From the UPCUSA system including San Francisco Theological Seminary, the General Assembly of the United Presbyterian Church, the Southern California/Hawaii Presbytery, and the Pacific Presbytery
-- **Organizing Pastor:** [[people/chaolong-kao|Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)]] — former TTCS faculty / Harvard Visiting Scholar; called by Presbytery of Los Angeles Southwest (Sep 1971). Distinct from co-founder Daniel Kao.
-- **Predecessor experiment:** "Taiyou Church" (太陽教會) and the Aug 1970 experimental worship led by [[people/jonah-chang|Rev. Jonah Chang (張瑞雄)]]
+- **Organizing Pastor:** [[people/chaolong-kao||Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)]] — former TTCS faculty / Harvard Visiting Scholar; called by Presbytery of Los Angeles Southwest (Sep 1971). Distinct from co-founder Daniel Kao.
+- **Predecessor experiment:** "Taiyou Church" (太陽教會) and the Aug 1970 experimental worship led by [[people/jonah-chang||Rev. Jonah Chang (張瑞雄)]]
 
 ## Dissertation: *Toward A Community of Hope* (1971)
 
-> **Primary work page:** [[sources/toward-a-community-of-hope|Toward A Community of Hope (work & sources)]]  
+> **Primary work page:** [[sources/toward-a-community-of-hope||Toward A Community of Hope (work & sources)]]  
 > **Full text (GitHub archive):** [complete extract](https://github.com/echocanhelp/wiki-public/blob/gh-pages/knowledge/web-archives/albert-lai-toward-community-of-hope.md) · [fact sheet](https://github.com/echocanhelp/wiki-public/blob/gh-pages/knowledge/research/albert-lai-facts.md)
 
 Dr. Lai's doctoral dissertation at San Francisco Theological Seminary was titled *Toward A Community of Hope — A Mission to Formosan Community in Los Angeles*. It was:
@@ -52,15 +52,15 @@ Dr. Lai's doctoral dissertation at San Francisco Theological Seminary was titled
 - **Vision:** The church as a "hopeful community" — not a safe retreat for insiders, but a dynamic body for the hope of the world, choosing love in adversity, service in marginality, and witness in brokenness
 - **Significance:** The first Taiwanese church in North America; FPCLA did not exist merely to bridge linguistic or cultural gaps but sought to become a "mission base" in the local community
 
-See also the [[organizations/formosan-presbyterian-church-in-los-angeles|FPCLA]] page for Chapter IV founding timeline, budget, membership, and activities.
+See also the [[organizations/formosan-presbyterian-church-in-los-angeles||FPCLA]] page for Chapter IV founding timeline, budget, membership, and activities.
 
 ## Audiobook Production
 
-EN SKU A of *Toward A Community of Hope* (1971 Preface + Ch I–VI) has been produced as AI-scratch audiobook for Echopedia review. See [[people/albert-en-sku-a-scratch-review|full multi-track hub]], [[people/albert-chapter1-en-review|Chapter I detail]], and [[people/albert-chapter1-audiobook-taiwanese-female|Taiwanese female pilot]] (separate experiment).
+EN SKU A of *Toward A Community of Hope* (1971 Preface + Ch I–VI) has been produced as AI-scratch audiobook for Echopedia review. See [[people/albert-en-sku-a-scratch-review||full multi-track hub]], [[people/albert-chapter1-en-review||Chapter I detail]], and [[people/albert-chapter1-audiobook-taiwanese-female||Taiwanese female pilot]] (separate experiment).
 
 ## 50th Anniversary Republication (2025)
 
-In 2025, the dissertation was reprinted with a 50th anniversary foreword by [[people/yunching-yeh-davis|Dr. Yunching Yeh Davis]] (NTPC Moderator), along with forewords from the PCT ([[people/en-sheng-pan|Rev. En Sheng Pan]]), [[organizations/national-taiwanese-presbyterian-council|NTPC]] Historical Committee ([[people/ching-fang-chen|Rev. Ching Fang Chen]]), [[people/mingyuan-hsu|Rev. Mingyuan Hsu]] (Good Shepherd TPC), and [[people/pinghsi-liu|Rev. Pinghsi Liu]] (Tainan East Gate Barclay Memorial Church). The republication was published by Taiwan Church Press and the Incorporated Association of Tainan East Gate Barclay History Education Promotion.
+In 2025, the dissertation was reprinted with a 50th anniversary foreword by [[people/yunching-yeh-davis||Dr. Yunching Yeh Davis]] (NTPC Moderator), along with forewords from the PCT ([[people/en-sheng-pan||Rev. En Sheng Pan]]), [[organizations/national-taiwanese-presbyterian-council||NTPC]] Historical Committee ([[people/ching-fang-chen||Rev. Ching Fang Chen]]), [[people/mingyuan-hsu||Rev. Mingyuan Hsu]] (Good Shepherd TPC), and [[people/pinghsi-liu||Rev. Pinghsi Liu]] (Tainan East Gate Barclay Memorial Church). The republication was published by Taiwan Church Press and the Incorporated Association of Tainan East Gate Barclay History Education Promotion.
 
 ### Self-Preface (May 2025)
 
@@ -249,17 +249,17 @@ Dr. Lai's dissertation, written in 1971, is described as "not only a profound de
 
 ## Works
 
-**albert-s-lai** — **0** title hits, **92** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
+**albert-s-lai** — **0** title hits, **92** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
 
 ### Body mentions (92)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2026/20260210173508_2021大洛杉磯台灣會館228事件線上追思紀念會與系列活_ac0c255ef64908a5|2021大洛杉磯台灣會館228事件線上追思紀念會與系列活動]]
-2. [[articles/taiwanjustice-net/2026/20260125131405_第五屆國際醫療典範獎頒獎典禮_在台灣舉行_a8bd530e85c30548|「第五屆國際醫療典範獎頒獎典禮」在台灣舉行．北美洲臺灣人醫師協會義診團及沈裕明醫師報雙喜]]
-3. [[articles/taiwanjustice-net/2026/20260118105817_國台辦訓斥國民黨_馬英九就立刻表態效忠-_陳昭_44fcb678ea0c3f42|國台辦訓斥國民黨　馬英九就立刻表態效忠  ◎陳昭南]]
-4. [[articles/taiwanjustice-net/2026/20260121005456_史達偉_美台經濟對話為三公報及台灣關係法允許_c09409335151d4ee|史達偉：美台經濟對話為三公報及台灣關係法允許，北京不應有激烈反應]]
-5. [[articles/taiwanjustice-net/2026/20260125054313_美亞太助卿_破壞穩定行為來自北京_非台北或華_eb53870fed17d6a1|美亞太助卿：破壞穩定行為來自北京，非台北或華府]]
+1. [[articles/taiwanjustice-net/2026/20260210173508_2021大洛杉磯台灣會館228事件線上追思紀念會與系列活_ac0c255ef64908a5||2021大洛杉磯台灣會館228事件線上追思紀念會與系列活動]]
+2. [[articles/taiwanjustice-net/2026/20260125131405_第五屆國際醫療典範獎頒獎典禮_在台灣舉行_a8bd530e85c30548||「第五屆國際醫療典範獎頒獎典禮」在台灣舉行．北美洲臺灣人醫師協會義診團及沈裕明醫師報雙喜]]
+3. [[articles/taiwanjustice-net/2026/20260118105817_國台辦訓斥國民黨_馬英九就立刻表態效忠-_陳昭_44fcb678ea0c3f42||國台辦訓斥國民黨　馬英九就立刻表態效忠  ◎陳昭南]]
+4. [[articles/taiwanjustice-net/2026/20260121005456_史達偉_美台經濟對話為三公報及台灣關係法允許_c09409335151d4ee||史達偉：美台經濟對話為三公報及台灣關係法允許，北京不應有激烈反應]]
+5. [[articles/taiwanjustice-net/2026/20260125054313_美亞太助卿_破壞穩定行為來自北京_非台北或華_eb53870fed17d6a1||美亞太助卿：破壞穩定行為來自北京，非台北或華府]]
 
 
 ## Network
@@ -269,51 +269,51 @@ Pages that link to **賴信雄** (albert-s-lai):
 
 ### People (26)
 
-1. [[people/albert-chapter1-audiobook-consent-and-recording-kit|albert-chapter1-audiobook-consent-and-recording-kit]]
-2. [[people/albert-chapter1-audiobook-taiwanese-female|albert-chapter1-audiobook-taiwanese-female]]
-3. [[people/c-c-chen|c-c-chen]]
-4. [[people/c-c-chen|c-c-chen]]
-5. [[people/chaolong-kao|chaolong-kao]]
-6. [[people/chaolong-kao|chaolong-kao]]
-7. [[people/ching-fang-chen|ching-fang-chen]]
-8. [[people/ching-fang-chen|ching-fang-chen]]
-9. [[people/daniel-kao|daniel-kao]]
-10. [[people/daniel-kao|daniel-kao]]
-11. [[people/en-sheng-pan|en-sheng-pan]]
-12. [[people/en-sheng-pan|en-sheng-pan]]
-13. [[people/fpcla|fpcla]]
-14. [[people/index|index]]
-15. [[people/jonah-chang|jonah-chang]]
-16. [[people/mingyuan-hsu|mingyuan-hsu]]
-17. [[organizations/national-taiwanese-presbyterian-council|ntpc]]
-18. [[people/pinghsi-liu|pinghsi-liu]]
-19. [[people/pinghsi-liu|pinghsi-liu]]
-20. [[people/pingtung-lai|pingtung-lai]]
-21. [[people/pingtung-lai|pingtung-lai]]
-22. [[people/san-francisco-theological-seminary|san-francisco-theological-seminary]]
-23. [[people/yunching-yeh-davis|yunching-yeh-davis]]
-24. [[people/yunching-yeh-davis|yunching-yeh-davis]]
-25. [[people/zhou-wei-liang|zhou-wei-liang]]
-26. [[people/zhou-wei-lin|zhou-wei-lin]]
+1. [[people/albert-chapter1-audiobook-consent-and-recording-kit||albert-chapter1-audiobook-consent-and-recording-kit]]
+2. [[people/albert-chapter1-audiobook-taiwanese-female||albert-chapter1-audiobook-taiwanese-female]]
+3. [[people/c-c-chen||c-c-chen]]
+4. [[people/c-c-chen||c-c-chen]]
+5. [[people/chaolong-kao||chaolong-kao]]
+6. [[people/chaolong-kao||chaolong-kao]]
+7. [[people/ching-fang-chen||ching-fang-chen]]
+8. [[people/ching-fang-chen||ching-fang-chen]]
+9. [[people/daniel-kao||daniel-kao]]
+10. [[people/daniel-kao||daniel-kao]]
+11. [[people/en-sheng-pan||en-sheng-pan]]
+12. [[people/en-sheng-pan||en-sheng-pan]]
+13. [[people/fpcla||fpcla]]
+14. [[people/index||index]]
+15. [[people/jonah-chang||jonah-chang]]
+16. [[people/mingyuan-hsu||mingyuan-hsu]]
+17. [[organizations/national-taiwanese-presbyterian-council||ntpc]]
+18. [[people/pinghsi-liu||pinghsi-liu]]
+19. [[people/pinghsi-liu||pinghsi-liu]]
+20. [[people/pingtung-lai||pingtung-lai]]
+21. [[people/pingtung-lai||pingtung-lai]]
+22. [[people/san-francisco-theological-seminary||san-francisco-theological-seminary]]
+23. [[people/yunching-yeh-davis||yunching-yeh-davis]]
+24. [[people/yunching-yeh-davis||yunching-yeh-davis]]
+25. [[people/zhou-wei-liang||zhou-wei-liang]]
+26. [[people/zhou-wei-lin||zhou-wei-lin]]
 
 ### Organizations (8)
 
-1. [[organizations/democratic-progressive-party|democratic-progressive-party]]
-2. [[organizations/democratic-progressive-party|democratic-progressive-party]]
-3. [[organizations/formosan-presbyterian-church-in-los-angeles|formosan-presbyterian-church-in-los-angeles]]
-4. [[organizations/formosan-presbyterian-church-in-los-angeles|formosan-presbyterian-church-in-los-angeles]]
-5. [[organizations/index|index]]
-6. [[organizations/national-taiwanese-presbyterian-council|national-taiwanese-presbyterian-council]]
-7. [[organizations/national-taiwanese-presbyterian-council|national-taiwanese-presbyterian-council]]
-8. [[organizations/national-taiwanese-presbyterian-council|national-taiwanese-presbyterian-council]]
+1. [[organizations/democratic-progressive-party||democratic-progressive-party]]
+2. [[organizations/democratic-progressive-party||democratic-progressive-party]]
+3. [[organizations/formosan-presbyterian-church-in-los-angeles||formosan-presbyterian-church-in-los-angeles]]
+4. [[organizations/formosan-presbyterian-church-in-los-angeles||formosan-presbyterian-church-in-los-angeles]]
+5. [[organizations/index||index]]
+6. [[organizations/national-taiwanese-presbyterian-council||national-taiwanese-presbyterian-council]]
+7. [[organizations/national-taiwanese-presbyterian-council||national-taiwanese-presbyterian-council]]
+8. [[organizations/national-taiwanese-presbyterian-council||national-taiwanese-presbyterian-council]]
 
 ### Sources (5)
 
-1. [[sources/toward-a-community-of-hope|toward-a-community-of-hope]]
-2. [[sources/toward-a-community-of-hope|toward-a-community-of-hope]]
-3. [[sources/toward-a-community-of-hope|toward-a-community-of-hope]]
-4. [[sources/wikipedia-democratic-progressive-party|wikipedia-democratic-progressive-party]]
-5. [[sources/wikipedia-democratic-progressive-party|wikipedia-democratic-progressive-party]]
+1. [[sources/toward-a-community-of-hope||toward-a-community-of-hope]]
+2. [[sources/toward-a-community-of-hope||toward-a-community-of-hope]]
+3. [[sources/toward-a-community-of-hope||toward-a-community-of-hope]]
+4. [[sources/wikipedia-democratic-progressive-party||wikipedia-democratic-progressive-party]]
+5. [[sources/wikipedia-democratic-progressive-party||wikipedia-democratic-progressive-party]]
 
 ## Quotes
 
@@ -322,87 +322,87 @@ Notable quotes and mentions of **賴信雄** in Taiwan Justice articles:
 
 ### Unknown (1 quotes)
 
-1. "acks done/skipped/fail per file. ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+1. "acks done/skipped/fail per file. ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — PILOT_NOTES (unknown)
 
 ### 2022 (16 quotes)
 
-1. "恐讓川普再次競選情勢變得更加困難。（譯者：紀錦玲/核稿：劉文瑜） ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+1. "恐讓川普再次競選情勢變得更加困難。（譯者：紀錦玲/核稿：劉文瑜） ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 曼哈頓地區檢察官請辭，川普刑事調查案再掀波瀾 (2022-02-23)
-2. "10225 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+2. "10225 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 美媒：華府估基輔4天內淪陷，烏克蘭領導層約一週垮台 (2022-02-24)
-3. "規武器及相關用品、技術的出口為主。（編輯：潘羿菁）1110225 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+3. "規武器及相關用品、技術的出口為主。（編輯：潘羿菁）1110225 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 總統府：譴責俄羅斯軍事行動，台灣參與對俄經濟制裁 (2022-02-24)
-4. "區紀念特展，由江榮森親自導覽解說。（編輯：戴光育）1110225 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+4. "區紀念特展，由江榮森親自導覽解說。（編輯：戴光育）1110225 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 嘉市228追思 受難家屬籲拆中正紀念堂蔣介石銅像 (2022-02-25)
-5. "10226 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+5. "10226 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 連2天同台出席 外界解讀盧秀燕蔡其昌互相較勁 (2022-02-26)
-6. "10227 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+6. "10227 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 賴清德：卑躬屈膝無法停止侵略，全民一心守護國家 (2022-02-27)
-7. "，當他讓裝甲車碾壓烏克蘭土地的時候，他自己使這一切變得毫無可能。 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+7. "，當他讓裝甲車碾壓烏克蘭土地的時候，他自己使這一切變得毫無可能。 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 淪為如金正恩一樣的“國際棄兒”，普丁何以發起准自殺行動 (2022-03-01)
-8. "中央社製圖） 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+8. "中央社製圖） 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 俄羅斯4架戰機進入瑞典領空 (2022-03-02)
-9. "社論，呼籲蒲亭「請停止這場戰爭」。（編輯：高照芬）1110303 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+9. "社論，呼籲蒲亭「請停止這場戰爭」。（編輯：高照芬）1110303 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 好萊塢體壇商界聲援烏克蘭，全球名流紛紛表態反戰 (2022-03-03)
-10. "10304 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+10. "10304 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 加入制裁行列，英特爾、Airbnb及IKEA暫停在俄國及白俄業務 (2022-03-04)
 
 ### 2021 (18 quotes)
 
-1. "00121 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+1. "00121 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 拜登就職上演慶祝行情，美股再創新高 (2021-01-20)
-2. "00130 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+2. "00130 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 拜登政府檢視前朝國安措施，美中貿易協議也算 (2021-01-29)
-3. "衝突，「我不認為這會是曇花一現」。（譯者：陳亦偉）1100130 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+3. "衝突，「我不認為這會是曇花一現」。（譯者：陳亦偉）1100130 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 看懂美國GameStop股價逆襲事件，散戶起義打垮對沖基金 (2021-01-30)
-4. "姬則將被禁止參選。」（譯者：張正芊/核稿：陳政一）1100201 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+4. "姬則將被禁止參選。」（譯者：張正芊/核稿：陳政一）1100201 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 緬甸軍隊總司令敏昂萊發動政變 暴露政治野心 (2021-02-01)
-5. "00203 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+5. "00203 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 同性戀入閣第一人，美國參院確認布塔朱吉（Pete Buttigieg）掌運輸部 (2021-02-03)
-6. "見效甚微。 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+6. "見效甚微。 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 加州已有近140萬人簽名罷免州長紐森 (2021-02-05)
-7. "有1260萬人已經接種第一劑疫苗。（編輯：黃自強）1100210 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+7. "有1260萬人已經接種第一劑疫苗。（編輯：黃自強）1100210 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 英國防疫祭重典，入境隱瞞旅遊史可重判10年 (2021-02-09)
-8. "政府美國和中國近期內將仍然維持在全球貿易和技術方面的競爭地位。” ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+8. "政府美國和中國近期內將仍然維持在全球貿易和技術方面的競爭地位。” ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 路透調查：美國復甦步入正軌，就業增長尚需時日 (2021-02-14)
-9. "機率偏高，可望為台股提供資金活水。（編輯：張良知）1100216 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+9. "機率偏高，可望為台股提供資金活水。（編輯：張良知）1100216 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 台股新春開紅盤 近15年呈現逐步走高格局 (2021-02-15)
-10. "00220 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+10. "00220 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 白宮證實 美致函台灣盼解決汽車晶片問題，感謝台灣出力協助解決 (2021-02-19)
 
 ### 2020 (62 quotes)
 
-1. "事情是，在《港澳條例》裡面，維持政府在剛剛所提到的這種模糊認定。 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+1. "事情是，在《港澳條例》裡面，維持政府在剛剛所提到的這種模糊認定。 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 林靜儀專訪:在中共不放棄武力犯台下，主張統一是對主權的威脅，也會對國家安全造成危害 (2020-01-02)
-2. "90108 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+2. "90108 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 釐清狙殺伊朗將領決策，眾院外委會邀蓬佩奧作證 (2020-01-07)
-3. "國民黨總統候選人韓國瑜，成功連任。（編輯：劉學源）1090112 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+3. "國民黨總統候選人韓國瑜，成功連任。（編輯：劉學源）1090112 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 蔡英文高票連任， 法國英國議會友台小組祝賀 (2020-01-11)
-4. "興訟敗訴，法官：黨產會處分合法 January 16, 2020 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+4. "興訟敗訴，法官：黨產會處分合法 January 16, 2020 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 'Tag: 黨產會處分合法' (2020-01-16)
-5. "作出貢獻。 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+5. "作出貢獻。 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 徐斯儉會晤美國退伍軍人部長，討論台美深化合作 (2020-01-20)
-6. "09年加強重要節日安全維護工作」。（編輯：洪學廣）1090120 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+6. "09年加強重要節日安全維護工作」。（編輯：洪學廣）1090120 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 陳柏惟：挺罷免票讓韓國瑜自由，願助高市府募款 (2020-01-20)
-7. "90123 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+7. "90123 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 武漢肺炎疫情擴散，法國議員籲WHO讓台灣參與 (2020-01-22)
-8. "利的資格。 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+8. "利的資格。 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 最高法院允許川普政府執行嚴格的綠卡審議政策 (2020-01-27)
-9. "檢疫隔離。 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+9. "檢疫隔離。 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 美接回鑽石公主號公民，14人對武漢肺炎呈陽性反應 (2020-02-17)
-10. "宣揚中國極權主義的價值觀，幫助中國政府影響各國政治。 記者：韓潔 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+10. "宣揚中國極權主義的價值觀，幫助中國政府影響各國政治。 記者：韓潔 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 做了壞事又要立牌坊! 澳洲中資搜刮醫療物資運回國再搞捐贈， 北京大外宣演很大 (2020-04-02)
 
 ### 2019 (4 quotes)
 
-1. "許任何有特定立場的團體造謠帶風向。（編輯：張良知）1081223 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+1. "許任何有特定立場的團體造謠帶風向。（編輯：張良知）1081223 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 陳菊：與慶富弊案無任何關係，各界勿再錯誤連結 (2019-12-23)
-2. "81226 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+2. "81226 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 陸委會：紅色滲透媒體須另檢討，反滲透法不涉及 (2019-12-26)
-3. "訪者受不了舊金山的交通和停車問題。（編輯：陳惠珍）1081227 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+3. "訪者受不了舊金山的交通和停車問題。（編輯：陳惠珍）1081227 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 便便危機蒙羞，舊金山市苦於屎都形象 (2019-12-27)
-4. "全美國每4個遊民就有一人住在加州。（編輯：陳惠珍）1081228 ## Related Pages - [[people/albert-s-lai|Dr. Albert S. Lai]]"
+4. "全美國每4個遊民就有一人住在加州。（編輯：陳惠珍）1081228 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 露營車成舊金山流動屋，州長為遊民槓上川普 (2019-12-28)
 
 *...and 91 more quotes*
@@ -545,64 +545,64 @@ Chronological events for **賴信雄**:
 
 ## Related Pages
 
-- [[people/albert-en-sku-a-scratch-review|EN SKU A full-book AI scratch review (~4.4 h)]]
-- [[people/albert-chapter1-en-review|Ch.1 English audiobook review (voice/tempo)]]
-- [[sources/toward-a-community-of-hope|Toward A Community of Hope (work & full-text links)]]
-- [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
-- [[people/chaolong-kao|Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)]]
-- [[people/daniel-kao|Dr. Daniel Kao (高光民)]]
-- [[people/c-c-chen|Dr. C.C. Chen (陳昭俊)]]
-- [[people/jonah-chang|Rev. Jonah Chang (張瑞雄)]]
-- [[people/pingtung-lai|Pastor Pingtung Lai (賴炳烔)]]
-- [[people/yunching-yeh-davis|Dr. Yunching Yeh Davis (葉芸青)]]
-- [[people/mingyuan-hsu|Rev. Mingyuan Hsu (許明遠)]]
-- [[people/pinghsi-liu|Rev. Pinghsi Liu (劉炳熹)]]
-- [[people/ching-fang-chen|Rev. Ching Fang Chen (陳清芳)]]
-- [[people/en-sheng-pan|Rev. En Sheng Pan (潘恩盛)]]
-- [[organizations/national-taiwanese-presbyterian-council|National Taiwanese Presbyterian Council (NTPC)]]
-- [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]]
-- [[people/shoki-coe|Dr. Shoki Coe (黃彰輝 / Shoki Coe)]]
+- [[people/albert-en-sku-a-scratch-review||EN SKU A full-book AI scratch review (~4.4 h)]]
+- [[people/albert-chapter1-en-review||Ch.1 English audiobook review (voice/tempo)]]
+- [[sources/toward-a-community-of-hope||Toward A Community of Hope (work & full-text links)]]
+- [[organizations/formosan-presbyterian-church-in-los-angeles||Formosan Presbyterian Church in Los Angeles (FPCLA)]]
+- [[people/chaolong-kao||Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)]]
+- [[people/daniel-kao||Dr. Daniel Kao (高光民)]]
+- [[people/c-c-chen||Dr. C.C. Chen (陳昭俊)]]
+- [[people/jonah-chang||Rev. Jonah Chang (張瑞雄)]]
+- [[people/pingtung-lai||Pastor Pingtung Lai (賴炳烔)]]
+- [[people/yunching-yeh-davis||Dr. Yunching Yeh Davis (葉芸青)]]
+- [[people/mingyuan-hsu||Rev. Mingyuan Hsu (許明遠)]]
+- [[people/pinghsi-liu||Rev. Pinghsi Liu (劉炳熹)]]
+- [[people/ching-fang-chen||Rev. Ching Fang Chen (陳清芳)]]
+- [[people/en-sheng-pan||Rev. En Sheng Pan (潘恩盛)]]
+- [[organizations/national-taiwanese-presbyterian-council||National Taiwanese Presbyterian Council (NTPC)]]
+- [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan]]
+- [[people/shoki-coe||Dr. Shoki Coe (黃彰輝 / Shoki Coe)]]
 
 ## TJ Citations
 
 Articles from taiwanjustice.net mentioning **Dr. Albert S. Lai (賴信雄)**:
 
-1. **2020-06-22** — [[articles/taiwanjustice-net/2026/20260118105817_國台辦訓斥國民黨_馬英九就立刻表態效忠-_陳昭_44fcb678ea0c3f42|國台辦訓斥國民黨　馬英九就立刻表態效忠  ◎陳昭南]]
+1. **2020-06-22** — [[articles/taiwanjustice-net/2026/20260118105817_國台辦訓斥國民黨_馬英九就立刻表態效忠-_陳昭_44fcb678ea0c3f42||國台辦訓斥國民黨　馬英九就立刻表態效忠  ◎陳昭南]]
    - Source: https://taiwanjustice.net/%E5%9C%8B%E5%8F%B0%E8%BE%A6%E8%A8%93%E6%96%A5%E5%9C%8B%E6%B0%91%E9%BB%A8%E3%80%80%E9%A6%AC%E8%8B%B1%E4%B9%9D%E5%B0%B1%E7%AB%8B%E5%88%BB%E8%A1%A8%E6%85%8B%E6%95%88%E5%BF%A0-%E2%97%8E%E9%99%B3%E6%98%AD/
    - Match: alias='Albert S. Lai' where=body pts=40
    - Score: 245
 
-2. **2020-09-29** — [[articles/taiwanjustice-net/2026/20260121003652_陳日君千里求見教宗遭拒-惹哭網友_義媒為陳日君_fe5af730dd000a00|陳日君千里求見教宗遭拒 惹哭網友，義媒為陳日君打抱不平]]
+2. **2020-09-29** — [[articles/taiwanjustice-net/2026/20260121003652_陳日君千里求見教宗遭拒-惹哭網友_義媒為陳日君_fe5af730dd000a00||陳日君千里求見教宗遭拒 惹哭網友，義媒為陳日君打抱不平]]
    - Source: https://taiwanjustice.net/%E9%99%B3%E6%97%A5%E5%90%9B%E5%8D%83%E9%87%8C%E6%B1%82%E8%A6%8B%E6%95%99%E5%AE%97%E9%81%AD%E6%8B%92-%E6%83%B9%E5%93%AD%E7%B6%B2%E5%8F%8B%EF%BC%8C%E7%BE%A9%E5%AA%92%E7%82%BA%E9%99%B3%E6%97%A5%E5%90%9B/
    - Match: alias='Albert S. Lai' where=body pts=40
    - Score: 65
 
-3. **2020-01-22** — [[articles/taiwanjustice-net/2026/20260118100613_武漢肺炎疫情擴散_法國議員籲who讓台灣參與_fa27676777a91a3a|武漢肺炎疫情擴散，法國議員籲WHO讓台灣參與]]
+3. **2020-01-22** — [[articles/taiwanjustice-net/2026/20260118100613_武漢肺炎疫情擴散_法國議員籲who讓台灣參與_fa27676777a91a3a||武漢肺炎疫情擴散，法國議員籲WHO讓台灣參與]]
    - Source: https://taiwanjustice.net/%E6%AD%A6%E6%BC%A2%E8%82%BA%E7%82%8E%E7%96%AB%E6%83%85%E6%93%B4%E6%95%A3%EF%BC%8C%E6%B3%95%E5%9C%8B%E8%AD%B0%E5%93%A1%E7%B1%B2who%E8%AE%93%E5%8F%B0%E7%81%A3%E5%8F%83%E8%88%87/
    - Match: alias='Albert S. Lai' where=body pts=40
    - Score: 60
 
-4. **2022-02-26** — [[articles/taiwanjustice-net/2026/20260209113555_連2天同台出席-外界解讀盧秀燕蔡其昌互相較勁_c2a5c76345831246|連2天同台出席 外界解讀盧秀燕蔡其昌互相較勁]]
+4. **2022-02-26** — [[articles/taiwanjustice-net/2026/20260209113555_連2天同台出席-外界解讀盧秀燕蔡其昌互相較勁_c2a5c76345831246||連2天同台出席 外界解讀盧秀燕蔡其昌互相較勁]]
    - Source: https://taiwanjustice.net/%E9%80%A32%E5%A4%A9%E5%90%8C%E5%8F%B0%E5%87%BA%E5%B8%AD-%E5%A4%96%E7%95%8C%E8%A7%A3%E8%AE%80%E7%9B%A7%E7%A7%80%E7%87%95%E8%94%A1%E5%85%B6%E6%98%8C%E4%BA%92%E7%9B%B8%E8%BC%83%E5%8B%81/
    - Match: alias='Albert S. Lai' where=body pts=40
    - Score: 60
 
-5. **2020-09-19** — [[articles/taiwanjustice-net/2026/20260121000856_中國疫苗外交會不會重蹈口罩覆轍_3d385b738e35e94d|中國疫苗外交會不會重蹈口罩覆轍？]]
+5. **2020-09-19** — [[articles/taiwanjustice-net/2026/20260121000856_中國疫苗外交會不會重蹈口罩覆轍_3d385b738e35e94d||中國疫苗外交會不會重蹈口罩覆轍？]]
    - Source: https://taiwanjustice.net/%E4%B8%AD%E5%9C%8B%E7%96%AB%E8%8B%97%E5%A4%96%E4%BA%A4%E6%9C%83%E4%B8%8D%E6%9C%83%E9%87%8D%E8%B9%88%E5%8F%A3%E7%BD%A9%E8%A6%86%E8%BD%8D%EF%BC%9F/
    - Match: alias='Albert S. Lai' where=body pts=40
    - Score: 45
 
-6. **2020-04-25** — [[articles/taiwanjustice-net/2026/20260122074806_辜寬敏推制憲公投_30日向中選會提案_5ac4b5644ec82fba|辜寬敏推制憲公投，30日向中選會提案]]
+6. **2020-04-25** — [[articles/taiwanjustice-net/2026/20260122074806_辜寬敏推制憲公投_30日向中選會提案_5ac4b5644ec82fba||辜寬敏推制憲公投，30日向中選會提案]]
    - Source: https://taiwanjustice.net/%E8%BE%9C%E5%AF%AC%E6%95%8F%E6%8E%A8%E5%88%B6%E6%86%B2%E5%85%AC%E6%8A%95%EF%BC%8C30%E6%97%A5%E5%90%91%E4%B8%AD%E9%81%B8%E6%9C%83%E6%8F%90%E6%A1%88/
    - Match: alias='Albert S. Lai' where=body pts=40
    - Score: 40
 
-7. **2020-10-03** — [[articles/taiwanjustice-net/2026/20260123224435_中國軍艦靠近台灣東部外海鄰接區_國防部_即時_7b214389f3e7625d|中國軍艦靠近台灣東部外海鄰接區，國防部：即時應處]]
+7. **2020-10-03** — [[articles/taiwanjustice-net/2026/20260123224435_中國軍艦靠近台灣東部外海鄰接區_國防部_即時_7b214389f3e7625d||中國軍艦靠近台灣東部外海鄰接區，國防部：即時應處]]
    - Source: https://taiwanjustice.net/%E4%B8%AD%E5%9C%8B%E8%BB%8D%E8%89%A6%E9%9D%A0%E8%BF%91%E5%8F%B0%E7%81%A3%E6%9D%B1%E9%83%A8%E5%A4%96%E6%B5%B7%E9%84%B0%E6%8E%A5%E5%8D%80%EF%BC%8C%E5%9C%8B%E9%98%B2%E9%83%A8%EF%BC%9A%E5%8D%B3%E6%99%82/
    - Match: alias='Albert S. Lai' where=body pts=40
    - Score: 40
 
-8. **2020-04-23** — [[articles/taiwanjustice-net/2026/20260208204548_台海軍情_公告南北300公里射擊管制區_傳中科院_9ba82a74e3f71867|台海軍情》公告南北300公里射擊管制區，傳中科院測試增程雄二E飛彈]]
+8. **2020-04-23** — [[articles/taiwanjustice-net/2026/20260208204548_台海軍情_公告南北300公里射擊管制區_傳中科院_9ba82a74e3f71867||台海軍情》公告南北300公里射擊管制區，傳中科院測試增程雄二E飛彈]]
    - Source: https://taiwanjustice.net/%E5%8F%B0%E6%B5%B7%E8%BB%8D%E6%83%85%E3%80%8B%E5%85%AC%E5%91%8A%E5%8D%97%E5%8C%97300%E5%85%AC%E9%87%8C%E5%B0%84%E6%93%8A%E7%AE%A1%E5%88%B6%E5%8D%80%EF%BC%8C%E5%82%B3%E4%B8%AD%E7%A7%91%E9%99%A2/
    - Match: alias='Albert S. Lai' where=body pts=40
    - Score: 40

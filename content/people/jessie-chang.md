@@ -43,5 +43,5 @@ Pianist Jessie Chang is admired for her beautiful tone, commanding technique, an
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jessie-chang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

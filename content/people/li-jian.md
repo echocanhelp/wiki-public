@@ -10,7 +10,7 @@ last_reviewed: 2026-08-20
 ---
 # Li Jian (李堅)
 
-**Li Jian** (李堅) is a columnist for [[sources/taiwanjustice-net|taiwanjustice.net (台灣公義網)]], with 10 articles archived from the site's column section.
+**Li Jian** (李堅) is a columnist for [[sources/taiwanjustice-net||taiwanjustice.net (台灣公義網)]], with 10 articles archived from the site's column section.
 
 ## Identity Snapshot
 
@@ -26,65 +26,65 @@ last_reviewed: 2026-08-20
 
 Top 10 articles from taiwanjustice.net mentioning li-jian:
 
-1. **2017-11-13** — [[articles/taiwanjustice-net/2024/20240221113229_root_17825a06f4cdbb6f|林保華專欄]]
+1. **2017-11-13** — [[articles/taiwanjustice-net/2024/20240221113229_root_17825a06f4cdbb6f||林保華專欄]]
    - *November 13, 2017...*
    - Score: 825
-2. **2022-07-10** — [[articles/taiwanjustice-net/2024/20240425084829_root_b5c9f6bb0360ed23|陳茂雄專欄]]
+2. **2022-07-10** — [[articles/taiwanjustice-net/2024/20240425084829_root_b5c9f6bb0360ed23||陳茂雄專欄]]
    - *高雄的民主水準居冠 ◎ 陳茂雄...*
    - Score: 825
-3. **2017-03-07** — [[articles/taiwanjustice-net/2024/20240715140333_root_de6de376c47e0ff9|余杰專欄]]
+3. **2017-03-07** — [[articles/taiwanjustice-net/2024/20240715140333_root_de6de376c47e0ff9||余杰專欄]]
    - *March 7, 2017...*
    - Score: 825
-4. **2017-11-22** — [[articles/taiwanjustice-net/2024/20240221105045_root_4b96e7a2f9d76692|專欄]]
+4. **2017-11-22** — [[articles/taiwanjustice-net/2024/20240221105045_root_4b96e7a2f9d76692||專欄]]
    - *監察權的謬誤 ◎ 陳茂雄 2017-11-22...*
    - Score: 820
-5. **2022-08-22** — [[articles/taiwanjustice-net/2024/20240619175142_root_e903f760568c0883|余杰專欄]]
+5. **2022-08-22** — [[articles/taiwanjustice-net/2024/20240619175142_root_e903f760568c0883||余杰專欄]]
    - *跟習近平聊天是雞同鴨講-范疇《與習近平聊聊台灣和中國》◎ 余傑...*
    - Score: 810
-6. **2017-01-30** — [[articles/taiwanjustice-net/2024/20240616123010_root_e9a4d38b79b420ee|余杰專欄]]
+6. **2017-01-30** — [[articles/taiwanjustice-net/2024/20240616123010_root_e9a4d38b79b420ee||余杰專欄]]
    - *January 30, 2017...*
    - Score: 805
-7. **2024-04-24** — [[articles/taiwanjustice-net/2024/20240425072010_root_e39ecec0fdeb18d2|台灣頭條]]
+7. **2024-04-24** — [[articles/taiwanjustice-net/2024/20240425072010_root_e39ecec0fdeb18d2||台灣頭條]]
    - *April 24, 2024...*
    - Score: 800
-8. **2023-07-30** — [[articles/taiwanjustice-net/2024/20240425083432_root_99aaa4abcb78ff6d|台美人台加人]]
+8. **2023-07-30** — [[articles/taiwanjustice-net/2024/20240425083432_root_99aaa4abcb78ff6d||台美人台加人]]
    - *July 30, 2023...*
    - Score: 800
-9. **2023-08-12** — [[articles/taiwanjustice-net/2024/20240719130745_root_c122ab4d6dc8d2cf|2012大選]]
+9. **2023-08-12** — [[articles/taiwanjustice-net/2024/20240719130745_root_c122ab4d6dc8d2cf||2012大選]]
    - *August 12, 2023...*
    - Score: 800
-10. **2018-01-04** — [[articles/taiwanjustice-net/2024/20240224183824_root_3a00a14a809ec2ca|大洛杉磯台灣會館]]
+10. **2018-01-04** — [[articles/taiwanjustice-net/2024/20240224183824_root_3a00a14a809ec2ca||大洛杉磯台灣會館]]
    - *January 4, 2018...*
    - Score: 795
 
 
 ## Works
 
-**李堅** — **8** title hits, **1154** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
+**李堅** — **8** title hits, **1154** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
 
 ### 2024 (7)
 
-1. [[articles/taiwanjustice-net/2024/20240527034609_root_1c081f3c860e64d9|李堅專欄]]
-2. [[articles/taiwanjustice-net/2024/20240527025931_root_9615f8126bfa90fb|貪腐的政治經濟文化學之五- 台灣人愛錢嗎？──後藤新平的詛咒？◎李堅 08-08-2015]]
-3. [[articles/taiwanjustice-net/2024/20240523001401_root_681a5c6a87af8ff4|審視宋楚瑜‧解剖宋楚瑜 ◎李堅 08-03-2015]]
-4. [[articles/taiwanjustice-net/2024/20240522235729_root_8b461083af7f6a86|李堅專欄]]
-5. [[articles/taiwanjustice-net/2024/20240522233919_root_1ae93a5c2d864e81|李堅專欄]]
-6. [[articles/taiwanjustice-net/2024/20240522233444_root_ac2b51fc9273bd19|李堅專欄]]
-7. [[articles/taiwanjustice-net/2024/20240522232231_root_18d9cfe0b2c655f0|李堅專欄]]
+1. [[articles/taiwanjustice-net/2024/20240527034609_root_1c081f3c860e64d9||李堅專欄]]
+2. [[articles/taiwanjustice-net/2024/20240527025931_root_9615f8126bfa90fb||貪腐的政治經濟文化學之五- 台灣人愛錢嗎？──後藤新平的詛咒？◎李堅 08-08-2015]]
+3. [[articles/taiwanjustice-net/2024/20240523001401_root_681a5c6a87af8ff4||審視宋楚瑜‧解剖宋楚瑜 ◎李堅 08-03-2015]]
+4. [[articles/taiwanjustice-net/2024/20240522235729_root_8b461083af7f6a86||李堅專欄]]
+5. [[articles/taiwanjustice-net/2024/20240522233919_root_1ae93a5c2d864e81||李堅專欄]]
+6. [[articles/taiwanjustice-net/2024/20240522233444_root_ac2b51fc9273bd19||李堅專欄]]
+7. [[articles/taiwanjustice-net/2024/20240522232231_root_18d9cfe0b2c655f0||李堅專欄]]
 
 ### 2023 (1)
 
-1. [[articles/taiwanjustice-net/2023/20231201233728_root_cdaf8454892b3148|李堅專欄]]
+1. [[articles/taiwanjustice-net/2023/20231201233728_root_cdaf8454892b3148||李堅專欄]]
 
 ### Body mentions (1154)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2024/20240520034013_root_6f2b431c9cb0cca9|台美人台加人]]
-2. [[articles/taiwanjustice-net/2024/20240421185358_root_09926246802abc6a|台美人台加人]]
-3. [[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea|台美人台加人]]
-4. [[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3|台美人台加人]]
-5. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596|台美人台加人]]
+1. [[articles/taiwanjustice-net/2024/20240520034013_root_6f2b431c9cb0cca9||台美人台加人]]
+2. [[articles/taiwanjustice-net/2024/20240421185358_root_09926246802abc6a||台美人台加人]]
+3. [[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea||台美人台加人]]
+4. [[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3||台美人台加人]]
+5. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596||台美人台加人]]
 
 
 ## Timeline
@@ -11190,11 +11190,11 @@ Notable quotes and mentions of **李堅** in Taiwan Justice articles:
 
 - **Content priority A:** Article count (10) from Tier 2 title extraction
 - **Content priority B:** Column author listing from `knowledge/research/taiwanjustice-net-entities.md`
-- **Hub:** [[sources/taiwanjustice-net|taiwanjustice.net source hub]]
+- **Hub:** [[sources/taiwanjustice-net||taiwanjustice.net source hub]]
 - **Archive:** [Column articles](https://github.com/echocanhelp/wiki-public/tree/gh-pages/knowledge/web-archives/taiwanjustice-net/tier2/)
 
 ## Related Pages
 
-- [[sources/taiwanjustice-net|taiwanjustice.net source hub]]
-- [[organizations/taiwanjustice-net|taiwanjustice.net (台灣公義網)]]
-- [[people/freeman-huang|Freeman Huang (黃樹人)]]
+- [[sources/taiwanjustice-net||taiwanjustice.net source hub]]
+- [[organizations/taiwanjustice-net||taiwanjustice.net (台灣公義網)]]
+- [[people/freeman-huang||Freeman Huang (黃樹人)]]

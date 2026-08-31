@@ -22,5 +22,5 @@ The Taiwan National Treasure Foundation is a US 501(c)(3) public charity nonprof
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwan-national-treasure-foundation/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

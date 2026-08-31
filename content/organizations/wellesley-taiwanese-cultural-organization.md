@@ -22,5 +22,5 @@ The Wellesley Taiwanese Cultural Organization (TCO) is a student organization at
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/wellesley-taiwanese-cultural-organization/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

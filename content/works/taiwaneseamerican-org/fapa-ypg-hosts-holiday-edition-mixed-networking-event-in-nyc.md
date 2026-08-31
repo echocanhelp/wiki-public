@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/fapa-ypg-hosts-holiday-edition-mixed-networking-event-in-nyc|FAPA-YPG Hosts Holiday Edition &#8220;Mixed&#8221; Networking Event in NYC]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/fapa-ypg-hosts-holiday-edition-mixed-networking-event-in-nyc||FAPA-YPG Hosts Holiday Edition &#8220;Mixed&#8221; Networking Event in NYC]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

@@ -22,5 +22,5 @@ The Asia Democracy Foundation is dedicated to promoting democratization in Asia,
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/asia-democracy-foundation/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

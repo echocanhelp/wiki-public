@@ -41,5 +41,5 @@ Assistant Professor, Director of Epilepsy Center, Director of EEG Physiology, As
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-chi-wan-lai/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

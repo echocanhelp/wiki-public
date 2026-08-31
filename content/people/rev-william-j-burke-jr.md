@@ -41,5 +41,5 @@ Student work, teaching Western literature, Greek, Roman Literature & Drama
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rev-william-j-burke-jr/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

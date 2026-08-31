@@ -33,7 +33,7 @@ last_reviewed: 2026-08-17
 
 - **Husband:** 陳富美
 - **Daughter:** Sonya Chen
-- **Son:** [[people/oliver-chen|Oliver Chen]]
+- **Son:** [[people/oliver-chen||Oliver Chen]]
 
 
 ## Sources
@@ -42,5 +42,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e9%bb%83%e7%a7%80%e8%8f%af/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

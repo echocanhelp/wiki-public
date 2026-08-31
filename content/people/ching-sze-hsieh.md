@@ -33,12 +33,12 @@ Led FORMOSAT-1 (福衛一號) launch team as head of launch group at National Sc
 
 - **Wife:** 蔡淑敏Connie Tsai
 - **Daughter:** 謝泊欣 Ruselyne Formosa Shieh
-- **Son:** [[people/perry-b-shieh|謝泊怡]]
+- **Son:** [[people/perry-b-shieh||謝泊怡]]
 
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ching-sze-hsieh/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

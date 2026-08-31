@@ -68,23 +68,23 @@ Pages that link to **lisa-su** (lisa-su):
 
 ### People (1)
 
-1. [[people/su-chun-huai|su-chun-huai]]
+1. [[people/su-chun-huai||su-chun-huai]]
 
 ### Sources (1)
 
-1. [[sources/2017-tahs-publication|2017-tahs-publication]]
+1. [[sources/2017-tahs-publication||2017-tahs-publication]]
 
 ## Source Notes and Confidence
 
 - **Content priority A:** 2017 TAHS Publication (profile L844–1027, Part 2, ~183 lines), written by 曾恆利
 - **Content priority A:** Contains biographical narrative including education, IBM career, and AMD leadership
-- **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
+- **Hub:** [[sources/2017-tahs-publication||2017 TAHS Publication]]
 - **Note:** The full text includes detailed biographical information including family background, education, and career trajectory.
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
+- [[organizations/tah-foundation||TAH Foundation]]
 
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/2017-tahs-publication|2017 TAHS Publication]]
-- [[people/su-chun-huai|蘇春槐 (Su Chun-huai) — father]]
-- [[people/franklin-ping-cheng|Franklin Ping Cheng (程炳成) — TAHS president]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/2017-tahs-publication||2017 TAHS Publication]]
+- [[people/su-chun-huai||蘇春槐 (Su Chun-huai) — father]]
+- [[people/franklin-ping-cheng||Franklin Ping Cheng (程炳成) — TAHS president]]

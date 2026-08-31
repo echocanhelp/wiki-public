@@ -33,7 +33,7 @@ last_reviewed: 2026-08-17
 
 - **Wife:** Sunu
 - **Father:** 葉思雅
-- **Mother:** [[people/zhang-xinhui|張信惠]]
+- **Mother:** [[people/zhang-xinhui||張信惠]]
 
 
 ## Sources
@@ -41,5 +41,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/michael-yeh/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

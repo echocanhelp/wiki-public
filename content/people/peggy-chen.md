@@ -44,8 +44,8 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/peggy-chen/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## Network
-- [[organizations/irvine-taiwanese-presbyterian-church|ITPC]] — TAH Who’s Who
+- [[organizations/irvine-taiwanese-presbyterian-church||ITPC]] — TAH Who’s Who

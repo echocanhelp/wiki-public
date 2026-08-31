@@ -34,7 +34,7 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Wife:** [[people/yunn-mei-lin|林詠梅]]
+- **Wife:** [[people/yunn-mei-lin||林詠梅]]
 - **Son:** Eric
 
 
@@ -45,5 +45,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-fu-tong-hsu/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

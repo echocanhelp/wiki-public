@@ -16,7 +16,7 @@ echo: scratch
 
 **Status:** Scratch AI narration for **voice / tempo / style review** only. **Not** the retail master (retail = human cast).
 
-**Full EN SKU A (all chapters):** [[people/albert-en-sku-a-scratch-review|EN SKU A multi-track review hub]]
+**Full EN SKU A (all chapters):** [[people/albert-en-sku-a-scratch-review||EN SKU A multi-track review hub]]
 
 ## Identity Snapshot
 
@@ -87,7 +87,7 @@ The EN Ch.1 Christopher scratch measured ~149 wpm. The zh-TW voices are signific
 2. **Geography density (first 5 min):** Does tempo hold without rushing lists of distances and measurements?
 3. **Pastoral vs academic:** Does the voice feel appropriately scholarly without being news-anchor-like?
 4. **Formosa/Formosan policy:** Are the historical 1971 terms (Formosa, Formosan) read naturally without over-emphasis?
-5. **Compare EN:** [[people/albert-chapter1-en-review|EN Ch.1 review (Christopher)]] — does the zh-TW voice carry the same scholarly authority?
+5. **Compare EN:** [[people/albert-chapter1-en-review||EN Ch.1 review (Christopher)]] — does the zh-TW voice carry the same scholarly authority?
 
 ## Opening text (AMT excerpt)
 
@@ -107,7 +107,7 @@ Full frozen AMT lives in the private production tree (`audiobook-albert-lai/01_A
 
 ## Related Pages
 
-- [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
-- [[people/albert-chapter1-en-review|Ch.1 EN review (Christopher)]]
-- [[people/albert-en-sku-a-scratch-review|EN SKU A multi-track review hub]]
-- [[people/albert-chapter1-audiobook-consent-and-recording-kit|Consent & recording kit]]
+- [[people/albert-s-lai||Dr. Albert S. Lai (賴信雄)]]
+- [[people/albert-chapter1-en-review||Ch.1 EN review (Christopher)]]
+- [[people/albert-en-sku-a-scratch-review||EN SKU A multi-track review hub]]
+- [[people/albert-chapter1-audiobook-consent-and-recording-kit||Consent & recording kit]]

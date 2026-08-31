@@ -40,5 +40,5 @@ Dr. Chiung T. Ling 林安息(炯東)醫師 – History of Taiwanese American (T.
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-chiung-t-ling/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

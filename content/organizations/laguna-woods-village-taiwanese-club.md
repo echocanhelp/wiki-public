@@ -22,5 +22,5 @@ The Laguna Woods Village Taiwanese Club (拉古拿木屋台灣同鄉會) is a ch
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/laguna-woods-village-taiwanese-club/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

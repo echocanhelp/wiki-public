@@ -33,7 +33,7 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Wife:** [[people/tah-p-e00ace0a3a|毛清芬]]
+- **Wife:** [[people/tah-p-e00ace0a3a||毛清芬]]
 - **Son:** 羅澤行, 羅澤言
 
 
@@ -48,5 +48,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-fu-chen-lo/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

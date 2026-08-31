@@ -13,7 +13,7 @@ last_reviewed: 2026-08-19
 ---
 # NTPC USA (National Taiwanese Presbyterian Council, Presbyterian Church (U.S.A.))
 
-Official website of the **[[organizations/national-taiwanese-presbyterian-council|National Taiwanese Presbyterian Council (NTPC)]]**, the PC(USA) council of Taiwanese Presbyterian churches in the United States.
+Official website of the **[[organizations/national-taiwanese-presbyterian-council||National Taiwanese Presbyterian Council (NTPC)]]**, the PC(USA) council of Taiwanese Presbyterian churches in the United States.
 
 - **Live site:** https://www.ntpc-usa.org/ (archived)
 - **Full-domain archive (Tier 2):** `knowledge/web-archives/ntpc-usa-org-*.md` — **47** HTML files + 4 PDFs (listed-only)
@@ -42,12 +42,12 @@ Official website of the **[[organizations/national-taiwanese-presbyterian-counci
 ## Identity locks
 
 - NTPC = National Taiwanese Presbyterian Council (PC(USA)) — **not** New Taipei City; **not** PCT 北部大會.
-- 2024 年會 at 牧谷 (Shepherd of the Valley, Hacienda Heights) ≠ [[organizations/good-shepherd-taiwanese-presbyterian-church|GSTPC 好牧者]].
+- 2024 年會 at 牧谷 (Shepherd of the Valley, Hacienda Heights) ≠ [[organizations/good-shepherd-taiwanese-presbyterian-church||GSTPC 好牧者]].
 - 50th commemorative book: editor 黃德利; **full 特刊 not on public web** — do not invent contents.
 
 ## How Echopedia uses this source
 
-1. Facts applied to **[[organizations/national-taiwanese-presbyterian-council|NTPC]]** primary page (Gate C: History, Mission, membership, 執委 table)
+1. Facts applied to **[[organizations/national-taiwanese-presbyterian-council||NTPC]]** primary page (Gate C: History, Mission, membership, 執委 table)
 2. Named officers (2025/26 執委 + NTPW) → dossier **people/** pages
 3. Past chairs → table on primary
 4. NTPW officers → table on primary
@@ -70,15 +70,15 @@ Official website of the **[[organizations/national-taiwanese-presbyterian-counci
 
 ## Related Pages
 
-- [[organizations/national-taiwanese-presbyterian-council|National Taiwanese Presbyterian Council (NTPC)]]
-- [[organizations/ntpc|NTPC disambiguation]]
-- [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
-- [[organizations/good-shepherd-taiwanese-presbyterian-church|GSTPC]]
-- [[organizations/irvine-taiwanese-presbyterian-church|ITPC]]
-- [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]]
-- [[people/yunching-yeh-davis|Dr. Yunching Yeh Davis (葉芸青)]]
-- [[people/xie-xinguang|Rev. Xie Xinguang (謝信光)]]
-- [[people/ching-fang-chen|Rev. Ching Fang Chen (陳清芳)]]
-- [[people/david-huang|Rev. David Huang (黃德利)]]
-- [[people/ralph-su|Ralph Su (蘇惠智)]]
-- [[sources/toward-a-community-of-hope|Toward A Community of Hope (Lai, 1971)]]
+- [[organizations/national-taiwanese-presbyterian-council||National Taiwanese Presbyterian Council (NTPC)]]
+- [[organizations/ntpc||NTPC disambiguation]]
+- [[organizations/formosan-presbyterian-church-in-los-angeles||Formosan Presbyterian Church in Los Angeles (FPCLA)]]
+- [[organizations/good-shepherd-taiwanese-presbyterian-church||GSTPC]]
+- [[organizations/irvine-taiwanese-presbyterian-church||ITPC]]
+- [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan]]
+- [[people/yunching-yeh-davis||Dr. Yunching Yeh Davis (葉芸青)]]
+- [[people/xie-xinguang||Rev. Xie Xinguang (謝信光)]]
+- [[people/ching-fang-chen||Rev. Ching Fang Chen (陳清芳)]]
+- [[people/david-huang||Rev. David Huang (黃德利)]]
+- [[people/ralph-su||Ralph Su (蘇惠智)]]
+- [[sources/toward-a-community-of-hope||Toward A Community of Hope (Lai, 1971)]]

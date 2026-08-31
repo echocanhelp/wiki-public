@@ -38,5 +38,5 @@ Member, Committee on Agriculture, Committee on Appropriations, and Committee on 
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/richard-pan/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

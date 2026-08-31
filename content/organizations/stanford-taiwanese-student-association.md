@@ -22,5 +22,5 @@ The Stanford Taiwanese Student Association (STSA) is a non-political, non-religi
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/stanford-taiwanese-student-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

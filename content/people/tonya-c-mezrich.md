@@ -31,8 +31,8 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Husband:** [[people/ben-mezrich|Ben Mezrich]]
-- **Father:** [[people/ron-chen|Ron Chen]]
+- **Husband:** [[people/ben-mezrich||Ben Mezrich]]
+- **Father:** [[people/ron-chen||Ron Chen]]
 - **Mother:** Fu-mei Chen
 
 
@@ -42,5 +42,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tonya-c-mezrich/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

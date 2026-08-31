@@ -22,5 +22,5 @@ The East Bay Taiwanese Association (EBTA, 東灣台灣同鄉會) is a chapter of
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/east-bay-taiwanese-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

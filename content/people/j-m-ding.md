@@ -23,7 +23,7 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Wife:** [[people/beatrice-long|隆信真]]
+- **Wife:** [[people/beatrice-long||隆信真]]
 
 
 ## Sources
@@ -31,5 +31,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/j-m-ding/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

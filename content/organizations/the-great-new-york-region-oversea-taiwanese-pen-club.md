@@ -22,5 +22,5 @@ The Great New York Region-Oversea Taiwanese Pen Club is a literary and civic org
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/the-great-new-york-region-oversea-taiwanese-pen-club/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

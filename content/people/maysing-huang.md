@@ -28,7 +28,7 @@ last_reviewed: 2026-08-17
 ## Family
 
 - **Husband:** 楊次雄
-- **Son:** [[people/wellington-welly-yang|楊呈偉]]
+- **Son:** [[people/wellington-welly-yang||楊呈偉]]
 
 
 ## Sources
@@ -36,5 +36,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/maysing-huang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

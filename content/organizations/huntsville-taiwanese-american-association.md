@@ -22,5 +22,5 @@ The Huntsville Taiwanese American Association (HTAA) is a local chapter of the T
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/huntsville-taiwanese-american-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -36,5 +36,5 @@ Founded the Formosa Club of Eastern US (美東福爾摩莎俱樂部), the predec
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-m-yang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

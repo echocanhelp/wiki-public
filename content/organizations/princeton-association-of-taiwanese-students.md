@@ -22,5 +22,5 @@ The Princeton Association of Taiwanese Students (PATS; 普林斯頓台灣同學�
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/princeton-association-of-taiwanese-students/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

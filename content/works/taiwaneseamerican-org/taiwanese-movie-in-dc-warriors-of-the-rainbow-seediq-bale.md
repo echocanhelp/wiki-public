@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/taiwanese-movie-in-dc-warriors-of-the-rainbow-seediq-bale|Taiwanese Movie in DC &#8211; Warriors of the Rainbow: Seediq Bale]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/taiwanese-movie-in-dc-warriors-of-the-rainbow-seediq-bale||Taiwanese Movie in DC &#8211; Warriors of the Rainbow: Seediq Bale]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

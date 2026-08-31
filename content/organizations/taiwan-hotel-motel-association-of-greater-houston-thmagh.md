@@ -22,5 +22,5 @@ The Taiwan Hotel-Motel Association of Greater Houston (THMAGH) was founded in 19
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwan-hotel-motel-association-of-greater-houston-thmagh/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

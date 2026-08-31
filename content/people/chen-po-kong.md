@@ -14,7 +14,7 @@ hometown: 四川省三台縣
 
 # Chen Po-kong (陳破空)
 
-**Chen Po-kong** (陳破空) is a commentator whose columns are preserved on [[sources/taiwanjustice-net|taiwanjustice.net (台灣公義網)]] (463 articles in the site’s column section). Echopedia lists him as a **voice in that archive** — work Taiwanese American readers kept.
+**Chen Po-kong** (陳破空) is a commentator whose columns are preserved on [[sources/taiwanjustice-net||taiwanjustice.net (台灣公義網)]] (463 articles in the site’s column section). Echopedia lists him as a **voice in that archive** — work Taiwanese American readers kept.
 
 ## Identity Snapshot
 
@@ -27,7 +27,7 @@ hometown: 四川省三台縣
 
 ## Disambiguation
 
-**陳破空 ≠ 陳柏志** — Chen Po-kong (陳破空) is a columnist; Chen Po-chih (陳柏志) is a preacher at the [[organizations/good-shepherd-taiwanese-presbyterian-church|Good Shepherd Taiwanese Presbyterian Church (GSTPC)]]. They have different Chinese characters and are different people.
+**陳破空 ≠ 陳柏志** — Chen Po-kong (陳破空) is a columnist; Chen Po-chih (陳柏志) is a preacher at the [[organizations/good-shepherd-taiwanese-presbyterian-church||Good Shepherd Taiwanese Presbyterian Church (GSTPC)]]. They have different Chinese characters and are different people.
 
 
 
@@ -35,100 +35,100 @@ hometown: 四川省三台縣
 
 Top 10 articles from taiwanjustice.net mentioning chen-po-kong:
 
-1. **2017-11-13** — [[articles/taiwanjustice-net/2024/20240221113229_root_17825a06f4cdbb6f|林保華專欄]]
+1. **2017-11-13** — [[articles/taiwanjustice-net/2024/20240221113229_root_17825a06f4cdbb6f||林保華專欄]]
    - *November 13, 2017...*
    - Score: 825
-2. **2022-07-10** — [[articles/taiwanjustice-net/2024/20240425084829_root_b5c9f6bb0360ed23|陳茂雄專欄]]
+2. **2022-07-10** — [[articles/taiwanjustice-net/2024/20240425084829_root_b5c9f6bb0360ed23||陳茂雄專欄]]
    - *高雄的民主水準居冠 ◎ 陳茂雄...*
    - Score: 825
-3. **2017-03-07** — [[articles/taiwanjustice-net/2024/20240715140333_root_de6de376c47e0ff9|余杰專欄]]
+3. **2017-03-07** — [[articles/taiwanjustice-net/2024/20240715140333_root_de6de376c47e0ff9||余杰專欄]]
    - *March 7, 2017...*
    - Score: 825
-4. **2017-11-22** — [[articles/taiwanjustice-net/2024/20240221105045_root_4b96e7a2f9d76692|專欄]]
+4. **2017-11-22** — [[articles/taiwanjustice-net/2024/20240221105045_root_4b96e7a2f9d76692||專欄]]
    - *監察權的謬誤 ◎ 陳茂雄 2017-11-22...*
    - Score: 820
-5. **2022-08-22** — [[articles/taiwanjustice-net/2024/20240619175142_root_e903f760568c0883|余杰專欄]]
+5. **2022-08-22** — [[articles/taiwanjustice-net/2024/20240619175142_root_e903f760568c0883||余杰專欄]]
    - *跟習近平聊天是雞同鴨講-范疇《與習近平聊聊台灣和中國》◎ 余傑...*
    - Score: 810
-6. **2017-01-30** — [[articles/taiwanjustice-net/2024/20240616123010_root_e9a4d38b79b420ee|余杰專欄]]
+6. **2017-01-30** — [[articles/taiwanjustice-net/2024/20240616123010_root_e9a4d38b79b420ee||余杰專欄]]
    - *January 30, 2017...*
    - Score: 805
-7. **2024-04-24** — [[articles/taiwanjustice-net/2024/20240425072010_root_e39ecec0fdeb18d2|台灣頭條]]
+7. **2024-04-24** — [[articles/taiwanjustice-net/2024/20240425072010_root_e39ecec0fdeb18d2||台灣頭條]]
    - *April 24, 2024...*
    - Score: 800
-8. **2023-07-30** — [[articles/taiwanjustice-net/2024/20240425083432_root_99aaa4abcb78ff6d|台美人台加人]]
+8. **2023-07-30** — [[articles/taiwanjustice-net/2024/20240425083432_root_99aaa4abcb78ff6d||台美人台加人]]
    - *July 30, 2023...*
    - Score: 800
-9. **2023-08-12** — [[articles/taiwanjustice-net/2024/20240719130745_root_c122ab4d6dc8d2cf|2012大選]]
+9. **2023-08-12** — [[articles/taiwanjustice-net/2024/20240719130745_root_c122ab4d6dc8d2cf||2012大選]]
    - *August 12, 2023...*
    - Score: 800
-10. **2018-01-04** — [[articles/taiwanjustice-net/2024/20240224183824_root_3a00a14a809ec2ca|大洛杉磯台灣會館]]
+10. **2018-01-04** — [[articles/taiwanjustice-net/2024/20240224183824_root_3a00a14a809ec2ca||大洛杉磯台灣會館]]
    - *January 4, 2018...*
    - Score: 795
 
 
 ## Works
 
-**陳破空** — **413** title hits, **1148** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
+**陳破空** — **413** title hits, **1148** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
 
 ### 2026 (23)
 
-1. [[articles/taiwanjustice-net/2026/20260211101232_陳破空縱論天下-0307_6eb0fe0cd7933fec|陳破空縱論天下 0307]]
-2. [[articles/taiwanjustice-net/2026/20260210181423_陳破空縱論天下影音專輯-7_6c5ab35ea4098beb|陳破空縱論天下影音專輯]]
-3. [[articles/taiwanjustice-net/2026/20260210180526_陳破空縱論天下-0304_4d55a575fcf5b949|陳破空縱論天下 0304]]
-4. [[articles/taiwanjustice-net/2026/20260210060650_陳破空縱論天下影音專輯-5_45e516a3f958dd12|陳破空縱論天下影音專輯]]
-5. [[articles/taiwanjustice-net/2026/20260210055721_北京冬奧會_中共給中國人上了一堂愛國課-_-陳破_3f98f68881efaedf|北京冬奧會，中共給中國人上了一堂愛國課 ◎ 陳破空]]
-6. [[articles/taiwanjustice-net/2026/20260210054356_陳破空縱論天下-0223_22f950cee2ebccc3|陳破空縱論天下 0223]]
-7. [[articles/taiwanjustice-net/2026/20260208204745_陳破空縱論天下影音集-8_4c5747b36b3a8d52|陳破空縱論天下影音集]]
-8. [[articles/taiwanjustice-net/2026/20260125125846_陳破空縱論天下影音專輯-15_4025b93f54598ef6|陳破空縱論天下影音專輯]]
+1. [[articles/taiwanjustice-net/2026/20260211101232_陳破空縱論天下-0307_6eb0fe0cd7933fec||陳破空縱論天下 0307]]
+2. [[articles/taiwanjustice-net/2026/20260210181423_陳破空縱論天下影音專輯-7_6c5ab35ea4098beb||陳破空縱論天下影音專輯]]
+3. [[articles/taiwanjustice-net/2026/20260210180526_陳破空縱論天下-0304_4d55a575fcf5b949||陳破空縱論天下 0304]]
+4. [[articles/taiwanjustice-net/2026/20260210060650_陳破空縱論天下影音專輯-5_45e516a3f958dd12||陳破空縱論天下影音專輯]]
+5. [[articles/taiwanjustice-net/2026/20260210055721_北京冬奧會_中共給中國人上了一堂愛國課-_-陳破_3f98f68881efaedf||北京冬奧會，中共給中國人上了一堂愛國課 ◎ 陳破空]]
+6. [[articles/taiwanjustice-net/2026/20260210054356_陳破空縱論天下-0223_22f950cee2ebccc3||陳破空縱論天下 0223]]
+7. [[articles/taiwanjustice-net/2026/20260208204745_陳破空縱論天下影音集-8_4c5747b36b3a8d52||陳破空縱論天下影音集]]
+8. [[articles/taiwanjustice-net/2026/20260125125846_陳破空縱論天下影音專輯-15_4025b93f54598ef6||陳破空縱論天下影音專輯]]
 - … 15 more this year
 
 ### 2025 (144)
 
-1. [[articles/taiwanjustice-net/2025/20251210000945_陳破空縱論天下影音輯-6_fcda7b115e1afe7d|陳破空縱論天下影音輯]]
-2. [[articles/taiwanjustice-net/2025/20251207063743_如何解讀特朗普在西點軍校的演講_中共已經對美_2cbe3beaa3a67337|如何解讀特朗普在西點軍校的演講？中共已經對美國開戰 ◎陳破空]]
-3. [[articles/taiwanjustice-net/2025/20251206003950_追憶王康_那個長得像列寧的人-_-陳破空_6cdebb11713c0b05|追憶王康：那個長得像列寧的人  ◎ 陳破空]]
-4. [[articles/taiwanjustice-net/2025/20251205232618_重大信號_美國不再承認習近平-解讀_美國對中_e20b986d1d641732|重大信號！美國不再承認習近平— 解讀《美國對中國的戰略方針》◎ 陳破空]]
-5. [[articles/taiwanjustice-net/2025/20251205210745_陳破空縱論天下影音集-7_407132318e556e15|陳破空縱論天下影音集]]
-6. [[articles/taiwanjustice-net/2025/20251205030738_王丹-陳破空等民運人士發表聲明_習近平正在摧毀_e9a229ea649c7632|王丹 陳破空等民運人士發表聲明：習近平正在摧毀東方之珠！]]
-7. [[articles/taiwanjustice-net/2025/20251117000005_陳破空縱論天下0507_4e1c1cec4ec0a971|陳破空縱論天下0507]]
-8. [[articles/taiwanjustice-net/2025/20251116235818_陳破空縱論天下0517_1d0c6dff224d704c|陳破空縱論天下0517]]
+1. [[articles/taiwanjustice-net/2025/20251210000945_陳破空縱論天下影音輯-6_fcda7b115e1afe7d||陳破空縱論天下影音輯]]
+2. [[articles/taiwanjustice-net/2025/20251207063743_如何解讀特朗普在西點軍校的演講_中共已經對美_2cbe3beaa3a67337||如何解讀特朗普在西點軍校的演講？中共已經對美國開戰 ◎陳破空]]
+3. [[articles/taiwanjustice-net/2025/20251206003950_追憶王康_那個長得像列寧的人-_-陳破空_6cdebb11713c0b05||追憶王康：那個長得像列寧的人  ◎ 陳破空]]
+4. [[articles/taiwanjustice-net/2025/20251205232618_重大信號_美國不再承認習近平-解讀_美國對中_e20b986d1d641732||重大信號！美國不再承認習近平— 解讀《美國對中國的戰略方針》◎ 陳破空]]
+5. [[articles/taiwanjustice-net/2025/20251205210745_陳破空縱論天下影音集-7_407132318e556e15||陳破空縱論天下影音集]]
+6. [[articles/taiwanjustice-net/2025/20251205030738_王丹-陳破空等民運人士發表聲明_習近平正在摧毀_e9a229ea649c7632||王丹 陳破空等民運人士發表聲明：習近平正在摧毀東方之珠！]]
+7. [[articles/taiwanjustice-net/2025/20251117000005_陳破空縱論天下0507_4e1c1cec4ec0a971||陳破空縱論天下0507]]
+8. [[articles/taiwanjustice-net/2025/20251116235818_陳破空縱論天下0517_1d0c6dff224d704c||陳破空縱論天下0517]]
 - … 136 more this year
 
 ### 2024 (62)
 
-1. [[articles/taiwanjustice-net/2024/20240723013519_root_415146ac047a81d8|陳破空縱論天下 1022]]
-2. [[articles/taiwanjustice-net/2024/20240718235156_root_0b639713072e151b|陳破空縱論天下(videos) 2017-11-18]]
-3. [[articles/taiwanjustice-net/2024/20240718233250_root_7e1f726fdfaa9ad3|超規格追悼江澤民，習近平費心自證權力來源 ◎ 陳破空]]
-4. [[articles/taiwanjustice-net/2024/20240718232901_root_90ce44f115fe5a0b|陳破空縱論天下0201]]
-5. [[articles/taiwanjustice-net/2024/20240718230250_root_0ed7573593679c6e|陳破空縱論天下 0330]]
-6. [[articles/taiwanjustice-net/2024/20240718224910_root_179859b5b57d31b4|斯里蘭卡破產，政府垮臺，只因落入中國陷阱  ◎ 陳破空]]
-7. [[articles/taiwanjustice-net/2024/20240718224731_root_0511afdf3817a69b|把世界拉回冷戰，都是中共惹的禍 –寫在《徹底解說被誤讀的中國》出版之際 ◎ 陳破空 2016-12-30]]
-8. [[articles/taiwanjustice-net/2024/20240718223432_root_250d1990394be3a0|陳破空縱論天下0301]]
+1. [[articles/taiwanjustice-net/2024/20240723013519_root_415146ac047a81d8||陳破空縱論天下 1022]]
+2. [[articles/taiwanjustice-net/2024/20240718235156_root_0b639713072e151b||陳破空縱論天下(videos) 2017-11-18]]
+3. [[articles/taiwanjustice-net/2024/20240718233250_root_7e1f726fdfaa9ad3||超規格追悼江澤民，習近平費心自證權力來源 ◎ 陳破空]]
+4. [[articles/taiwanjustice-net/2024/20240718232901_root_90ce44f115fe5a0b||陳破空縱論天下0201]]
+5. [[articles/taiwanjustice-net/2024/20240718230250_root_0ed7573593679c6e||陳破空縱論天下 0330]]
+6. [[articles/taiwanjustice-net/2024/20240718224910_root_179859b5b57d31b4||斯里蘭卡破產，政府垮臺，只因落入中國陷阱  ◎ 陳破空]]
+7. [[articles/taiwanjustice-net/2024/20240718224731_root_0511afdf3817a69b||把世界拉回冷戰，都是中共惹的禍 –寫在《徹底解說被誤讀的中國》出版之際 ◎ 陳破空 2016-12-30]]
+8. [[articles/taiwanjustice-net/2024/20240718223432_root_250d1990394be3a0||陳破空縱論天下0301]]
 - … 54 more this year
 
 ### 2023 (39)
 
-1. [[articles/taiwanjustice-net/2023/20231208223642_root_d824e8b388e31141|.陳破空新書發表會]]
-2. [[articles/taiwanjustice-net/2023/20231208135238_root_484f78a64ba65cec|陳破空縱論天下 1112]]
-3. [[articles/taiwanjustice-net/2023/20231208135203_root_3b68e9303da9cf87|陳破空縱論天下 1019]]
-4. [[articles/taiwanjustice-net/2023/20231208134021_root_f151defd6ffe9215|李克強突然離世，悼念潮引人沉思  ◎ 陳破空]]
-5. [[articles/taiwanjustice-net/2023/20231208130231_root_71d231959948e160|陳破空專欄]]
-6. [[articles/taiwanjustice-net/2023/20231208122601_root_f69f452f246f15a4|陳破空縱論天下 1110]]
-7. [[articles/taiwanjustice-net/2023/20231208120152_root_0fb03dfdda634ede|陳破空縱論天下 1015]]
-8. [[articles/taiwanjustice-net/2023/20230923050223_2023_09_17_陳破空縱論天下-0917_759694b074f5ad72|陳破空縱論天下 0917]]
+1. [[articles/taiwanjustice-net/2023/20231208223642_root_d824e8b388e31141||.陳破空新書發表會]]
+2. [[articles/taiwanjustice-net/2023/20231208135238_root_484f78a64ba65cec||陳破空縱論天下 1112]]
+3. [[articles/taiwanjustice-net/2023/20231208135203_root_3b68e9303da9cf87||陳破空縱論天下 1019]]
+4. [[articles/taiwanjustice-net/2023/20231208134021_root_f151defd6ffe9215||李克強突然離世，悼念潮引人沉思  ◎ 陳破空]]
+5. [[articles/taiwanjustice-net/2023/20231208130231_root_71d231959948e160||陳破空專欄]]
+6. [[articles/taiwanjustice-net/2023/20231208122601_root_f69f452f246f15a4||陳破空縱論天下 1110]]
+7. [[articles/taiwanjustice-net/2023/20231208120152_root_0fb03dfdda634ede||陳破空縱論天下 1015]]
+8. [[articles/taiwanjustice-net/2023/20230923050223_2023_09_17_陳破空縱論天下-0917_759694b074f5ad72||陳破空縱論天下 0917]]
 - … 31 more this year
 
 ### 2022 (84)
 
-1. [[articles/taiwanjustice-net/2022/20221205053623_2022_09_23_中辦下通知_針對黨內政敵_卻酷似為習近平量身_43f0ac64b1a1bffe|中辦下通知，針對黨內政敵？卻酷似為習近平量身定做 ◎ 陳破空]]
-2. [[articles/taiwanjustice-net/2022/20221205052853_2022_09_26_陳破空縱論天下-0926_9e7f204a816cc5ad|陳破空縱論天下 0926]]
-3. [[articles/taiwanjustice-net/2022/20221205052819_2022_11_20_拿胡春華說事_淡化二十大政變_是習派的障眼法_c73d82e314b48924|拿胡春華說事，淡化二十大政變，是習派的障眼法（下） ◎ 陳破空]]
-4. [[articles/taiwanjustice-net/2022/20221205052300_2022_11_20_陳破空縱論天下-1120_50b7830b6261cabe|陳破空縱論天下 1120]]
-5. [[articles/taiwanjustice-net/2022/20221205043748_2022_11_14_陳破空縱論天下-1114-2_f9847a1c010b42ad|陳破空縱論天下 1114]]
-6. [[articles/taiwanjustice-net/2022/20221205043138_2022_11_11_陳破空縱論天下-1111_de37ac23e89066e7|陳破空縱論天下 1111]]
-7. [[articles/taiwanjustice-net/2022/20221205040450_2022_09_28_陳破空縱論天下-0928_5ce2b7cabc874b99|陳破空縱論天下 0928]]
-8. [[articles/taiwanjustice-net/2022/20221205035053_2022_11_17_陳破空縱論天下-1117-2_5c7d842c2fb25805|陳破空縱論天下 1117]]
+1. [[articles/taiwanjustice-net/2022/20221205053623_2022_09_23_中辦下通知_針對黨內政敵_卻酷似為習近平量身_43f0ac64b1a1bffe||中辦下通知，針對黨內政敵？卻酷似為習近平量身定做 ◎ 陳破空]]
+2. [[articles/taiwanjustice-net/2022/20221205052853_2022_09_26_陳破空縱論天下-0926_9e7f204a816cc5ad||陳破空縱論天下 0926]]
+3. [[articles/taiwanjustice-net/2022/20221205052819_2022_11_20_拿胡春華說事_淡化二十大政變_是習派的障眼法_c73d82e314b48924||拿胡春華說事，淡化二十大政變，是習派的障眼法（下） ◎ 陳破空]]
+4. [[articles/taiwanjustice-net/2022/20221205052300_2022_11_20_陳破空縱論天下-1120_50b7830b6261cabe||陳破空縱論天下 1120]]
+5. [[articles/taiwanjustice-net/2022/20221205043748_2022_11_14_陳破空縱論天下-1114-2_f9847a1c010b42ad||陳破空縱論天下 1114]]
+6. [[articles/taiwanjustice-net/2022/20221205043138_2022_11_11_陳破空縱論天下-1111_de37ac23e89066e7||陳破空縱論天下 1111]]
+7. [[articles/taiwanjustice-net/2022/20221205040450_2022_09_28_陳破空縱論天下-0928_5ce2b7cabc874b99||陳破空縱論天下 0928]]
+8. [[articles/taiwanjustice-net/2022/20221205035053_2022_11_17_陳破空縱論天下-1117-2_5c7d842c2fb25805||陳破空縱論天下 1117]]
 - … 76 more this year
 
 Earlier years: **61** additional title hits (not listed).
@@ -137,11 +137,11 @@ Earlier years: **61** additional title hits (not listed).
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2024/20240520034013_root_6f2b431c9cb0cca9|台美人台加人]]
-2. [[articles/taiwanjustice-net/2024/20240421185358_root_09926246802abc6a|台美人台加人]]
-3. [[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea|台美人台加人]]
-4. [[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3|台美人台加人]]
-5. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596|台美人台加人]]
+1. [[articles/taiwanjustice-net/2024/20240520034013_root_6f2b431c9cb0cca9||台美人台加人]]
+2. [[articles/taiwanjustice-net/2024/20240421185358_root_09926246802abc6a||台美人台加人]]
+3. [[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea||台美人台加人]]
+4. [[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3||台美人台加人]]
+5. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596||台美人台加人]]
 
 
 ## Timeline
@@ -11485,7 +11485,7 @@ Notable quotes and mentions of **陳破空** in Taiwan Justice articles:
 
 ### Unknown (1 quotes)
 
-1. "ts | ## Key Entities ### Column Authors - [[people/chen-po-kong|Chen Po-kong (陳破空)]] — 463 articles - [[people/chen-maoxiong|Chen Mao-xiong (陳茂雄)]] — 475 article"
+1. "ts | ## Key Entities ### Column Authors - [[people/chen-po-kong||Chen Po-kong (陳破空)]] — 463 articles - [[people/chen-maoxiong||Chen Mao-xiong (陳茂雄)]] — 475 article"
    — "taiwanjustice.net Article Archive" (unknown)
 
 ### 2025 (6 quotes)
@@ -11817,11 +11817,11 @@ Notable quotes and mentions of **陳破空** in Taiwan Justice articles:
 
 - **Content priority A:** Article count (463) from Tier 2 title extraction
 - **Content priority B:** Column author listing from `knowledge/research/taiwanjustice-net-entities.md`
-- **Hub:** [[sources/taiwanjustice-net|taiwanjustice.net source hub]]
+- **Hub:** [[sources/taiwanjustice-net||taiwanjustice.net source hub]]
 - **Archive:** [Column articles](https://github.com/echocanhelp/wiki-public/tree/gh-pages/knowledge/web-archives/taiwanjustice-net/tier2/)
 
 ## Related Pages
 
-- [[sources/taiwanjustice-net|taiwanjustice.net source hub]]
-- [[organizations/taiwanjustice-net|taiwanjustice.net (台灣公義網)]]
-- [[people/freeman-huang|Freeman Huang (黃樹人)]]
+- [[sources/taiwanjustice-net||taiwanjustice.net source hub]]
+- [[organizations/taiwanjustice-net||taiwanjustice.net (台灣公義網)]]
+- [[people/freeman-huang||Freeman Huang (黃樹人)]]

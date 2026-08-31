@@ -26,10 +26,10 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/taiwaneseamerican-org-co-presents-taiwan-films-at-caamfest-san-jose|TaiwaneseAmerican.org Co-Presents Taiwan Films at CAAMFest San Jose]]
-- [[organizations/taiwaneseamerican-org|TaiwaneseAmerican.org]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/taiwaneseamerican-org-co-presents-taiwan-films-at-caamfest-san-jose||TaiwaneseAmerican.org Co-Presents Taiwan Films at CAAMFest San Jose]]
+- [[organizations/taiwaneseamerican-org||TaiwaneseAmerican.org]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/house-committee-on-foreign-affairs-hearing-on-why-taiwan-matters|House Committee on Foreign Affairs Hearing on &#8220;Why Taiwan Matters&#8221;]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/house-committee-on-foreign-affairs-hearing-on-why-taiwan-matters||House Committee on Foreign Affairs Hearing on &#8220;Why Taiwan Matters&#8221;]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

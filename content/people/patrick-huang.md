@@ -33,7 +33,7 @@ Accomplishment
 
 ## Family
 
-- **Wife:** [[people/s-c-yang|楊淑卿]]
+- **Wife:** [[people/s-c-yang||楊淑卿]]
 
 
 ## Sources
@@ -43,5 +43,5 @@ Accomplishment
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/patrick-huang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

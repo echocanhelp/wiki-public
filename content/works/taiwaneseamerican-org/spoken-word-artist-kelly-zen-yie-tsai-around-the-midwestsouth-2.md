@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/spoken-word-artist-kelly-zen-yie-tsai-around-the-midwestsouth-2|Spoken Word Artist Kelly Zen-Yie Tsai Around the Midwest/South]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/spoken-word-artist-kelly-zen-yie-tsai-around-the-midwestsouth-2||Spoken Word Artist Kelly Zen-Yie Tsai Around the Midwest/South]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

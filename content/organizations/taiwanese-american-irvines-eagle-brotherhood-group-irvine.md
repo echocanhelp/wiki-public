@@ -22,5 +22,5 @@ The Taiwanese-American Irvine’s Eagle Brotherhood Group is a fraternity organi
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-irvines-eagle-brotherhood-group-irvine/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

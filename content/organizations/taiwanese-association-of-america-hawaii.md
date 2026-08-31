@@ -22,5 +22,5 @@ The Taiwanese Association of America Hawaii (夏威夷台灣同鄉會) is the Ha
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-hawaii/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

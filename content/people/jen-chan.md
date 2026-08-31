@@ -41,5 +41,5 @@ By very well-known clarinetists- Prof. Ronald DeKant, Jonathan Cohler, and Phili
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jen-chan/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

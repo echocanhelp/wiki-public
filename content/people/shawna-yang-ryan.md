@@ -65,7 +65,7 @@ Yang Ryan's profile in the 2017 TAHS publication was prepared by the Taiwanese A
 
 - **Content priority A:** 2017 TAHS Publication (profile Part 2, ~240 lines), prepared by TAHS editors
 - **Content priority A:** Green Island won the 2017 American Book Awards (verifiable external source)
-- **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
+- **Hub:** [[sources/2017-tahs-publication||2017 TAHS Publication]]
 - **Note:** The profile in the publication is relatively brief. Additional biographical details (education, earlier works, other publications) exist in external literary sources.
 
 <!-- tah-tables:start -->
@@ -82,10 +82,10 @@ Yang Ryan's profile in the 2017 TAHS publication was prepared by the Taiwanese A
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shawna-yang-ryan/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
+- [[organizations/tah-foundation||TAH Foundation]]
 
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/2017-tahs-publication|2017 TAHS Publication]]
-- [[people/yang-jia-you|Charles Yang (楊嘉猷) — TAHS founding president]]
-- [[people/yang-xin|Yang Hsin (楊信) — fellow 菁英錄 subject]]
-- [[people/franklin-ping-cheng|Franklin Ping Cheng (程炳成) — TAHS president]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/2017-tahs-publication||2017 TAHS Publication]]
+- [[people/yang-jia-you||Charles Yang (楊嘉猷) — TAHS founding president]]
+- [[people/yang-xin||Yang Hsin (楊信) — fellow 菁英錄 subject]]
+- [[people/franklin-ping-cheng||Franklin Ping Cheng (程炳成) — TAHS president]]

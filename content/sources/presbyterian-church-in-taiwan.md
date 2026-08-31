@@ -12,7 +12,7 @@ last_reviewed: 2026-08-30
 ---
 # Presbyterian Church in Taiwan (PCT) Official Website
 
-Official website of the **[[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan (PCT)]]**, the largest Protestant Christian denomination based in Taiwan.
+Official website of the **[[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan (PCT)]]**, the largest Protestant Christian denomination based in Taiwan.
 
 - **Live site:** https://www.pct.org.tw/ (Chinese)
 - **English site:** https://english.pct.org.tw/
@@ -36,9 +36,9 @@ Official website of the **[[organizations/presbyterian-church-in-taiwan|Presbyte
 
 ## Related Pages
 
-- [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan (PCT)]]
-- [[organizations/good-shepherd-taiwanese-presbyterian-church|Good Shepherd Taiwanese Presbyterian Church]]
-- [[organizations/irvine-taiwanese-presbyterian-church|Irvine Taiwanese Presbyterian Church]]
+- [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan (PCT)]]
+- [[organizations/good-shepherd-taiwanese-presbyterian-church||Good Shepherd Taiwanese Presbyterian Church]]
+- [[organizations/irvine-taiwanese-presbyterian-church||Irvine Taiwanese Presbyterian Church]]
 
 ## Sources
 

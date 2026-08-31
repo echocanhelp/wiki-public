@@ -45,5 +45,5 @@ Growing up, Jeremy realized that teammates on his basketball team all came from 
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jeremy-lin/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

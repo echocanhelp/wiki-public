@@ -22,5 +22,5 @@ Brooklyn Artists Studio (BAS) is a nonprofit residential and activity space in B
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/brooklyn-artists-studio/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -10,6 +10,6 @@ last_reviewed: 2026-08-16
 
 # Moved
 
-Canonical page: **[[people/hou-yu-ih|Hou Yu-ih (侯友宜)]]**.
+Canonical page: **[[people/hou-yu-ih||Hou Yu-ih (侯友宜)]]**.
 
 Former provisional slug: `hou-youyi`.

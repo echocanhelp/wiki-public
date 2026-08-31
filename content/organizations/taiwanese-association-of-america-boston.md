@@ -22,5 +22,5 @@ The Taiwanese Association of America Boston (波士頓台灣同鄉會) is the Bo
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-boston/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

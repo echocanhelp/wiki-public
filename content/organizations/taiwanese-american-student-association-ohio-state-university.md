@@ -22,5 +22,5 @@ The Taiwanese American Student Association (TASA) at The Ohio State University i
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-student-association-ohio-state-university/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

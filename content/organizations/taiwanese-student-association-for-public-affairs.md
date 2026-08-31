@@ -22,5 +22,5 @@ TSAPA is the University of Washington chapter of the Taiwanese Student Associati
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-student-association-for-public-affairs/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

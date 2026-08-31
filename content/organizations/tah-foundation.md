@@ -11,7 +11,7 @@ last_reviewed: 2026-08-21
 ---
 # TAH Foundation (台美史料中心)
 
-**TAH Foundation / History of Taiwanese American (T.A. Archives) — 台美史料中心** runs [taiwaneseamericanhistory.org](https://taiwaneseamericanhistory.org/). It is a **sibling archive** to the [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS / 台美人歷史協會)]] — same Taiwanese American history mission, **different organization**. TAH is **not** TAHS, and this site is **not** the 2017/2023 TAHS yearbook PDFs.
+**TAH Foundation / History of Taiwanese American (T.A. Archives) — 台美史料中心** runs [taiwaneseamericanhistory.org](https://taiwaneseamericanhistory.org/). It is a **sibling archive** to the [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society (TAHS / 台美人歷史協會)]] — same Taiwanese American history mission, **different organization**. TAH is **not** TAHS, and this site is **not** the 2017/2023 TAHS yearbook PDFs.
 
 Official About: [About Us](https://taiwaneseamericanhistory.org/about-us/) (archived 2026-08-21).
 
@@ -23,7 +23,7 @@ Official About: [About Us](https://taiwaneseamericanhistory.org/about-us/) (arch
 - **Founded:** 2013 (six first-generation Taiwanese Americans; website May 2013)
 - **Geography:** Irvine, California (Archives Center) + nationwide collecting
 - **Official site:** https://taiwaneseamericanhistory.org/
-- **Not:** [[organizations/taiwanese-american-historical-society|TAHS]]; not [[sources/taiwaneseamerican-org|taiwaneseamerican.org]] (story-corpus)
+- **Not:** [[organizations/taiwanese-american-historical-society||TAHS]]; not [[sources/taiwaneseamerican-org||taiwaneseamerican.org]] (story-corpus)
 
 ## History
 
@@ -59,7 +59,7 @@ Echopedia **v1** of this domain = CPT **graph** (people + orgs), **not** a recra
 | Cluster | Where |
 |---------|--------|
 | About / 簡介 / History / Mission | this page (cite About 2026-08-21) |
-| Source hub / directory index | [[sources/taiwaneseamericanhistory-org]] |
+| Source hub / directory index | [[sources/taiwaneseamericanhistory-org]]]] |
 | Who’s Who people | `content/people/` (`tah-whos-who`; 漢名-only = `tah-p-*`) |
 | Organizations | `content/organizations/` from TAH org CPT |
 | Education / Employment tables | harvest backfill on existing Who’s Who pages (Family skipped) |
@@ -70,8 +70,8 @@ Echopedia **v1** of this domain = CPT **graph** (people + orgs), **not** a recra
 
 ## Related Pages
 
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org source hub]]
-- [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
-- [[sources/taiwaneseamerican-org|taiwaneseamerican.org]] — different site (story-corpus)
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org source hub]]
+- [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society (TAHS)]]
+- [[sources/taiwaneseamerican-org||taiwaneseamerican.org]] — different site (story-corpus)
 - [Official site](https://taiwaneseamericanhistory.org/)
 - [About Us](https://taiwaneseamericanhistory.org/about-us/)

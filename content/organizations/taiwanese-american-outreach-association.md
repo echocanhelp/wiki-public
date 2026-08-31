@@ -22,5 +22,5 @@ The Taiwanese American Outreach Association (TAOA) is a volunteer-driven, not-fo
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-outreach-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

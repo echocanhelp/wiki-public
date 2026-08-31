@@ -33,7 +33,7 @@ Karen Hsiao Savage is Associate Professor at Washington State University School 
 ## Family
 
 - **Husband:** Jeffrey Savage
-- **Father:** [[people/sin-i-hsiao|蕭欣義]]
+- **Father:** [[people/sin-i-hsiao||蕭欣義]]
 - **Mother:** 李惠惠
 
 
@@ -41,5 +41,5 @@ Karen Hsiao Savage is Associate Professor at Washington State University School 
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-karen-hsiao-savage/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

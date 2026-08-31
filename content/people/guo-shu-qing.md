@@ -28,11 +28,11 @@ Guo Shu-qing married 廖述宗 in 1960 after her mother-in-law 林瓊仙 (Lin Qi
 ## Source Notes and Confidence
 
 - **Content priority A:** 2017 TAHS Publication 生命的執著 (The Persistence of Life) — Liao Shu-zong profile, Part 2
-- **Content priority A:** Memorial by [[people/yang-jia-you|楊嘉猷]] (Charles Yang), 2017 TAHS Publication, mentions family
-- **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
+- **Content priority A:** Memorial by [[people/yang-jia-you||楊嘉猷]] (Charles Yang), 2017 TAHS Publication, mentions family
+- **Hub:** [[sources/2017-tahs-publication||2017 TAHS Publication]]
 
 ## Related Pages
 
-- [[people/liao-shu-zong|廖述宗 (Liao Shu-zong) — spouse]]
-- [[people/liao-ji-chun|廖繼春 (Liao Jichun) — father-in-law, painter]]
-- [[people/lin-qiong-xian|林瓊仙 (Lin Qiong-xian) — mother-in-law]]
+- [[people/liao-shu-zong||廖述宗 (Liao Shu-zong) — spouse]]
+- [[people/liao-ji-chun||廖繼春 (Liao Jichun) — father-in-law, painter]]
+- [[people/lin-qiong-xian||林瓊仙 (Lin Qiong-xian) — mother-in-law]]

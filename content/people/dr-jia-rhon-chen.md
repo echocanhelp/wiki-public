@@ -44,5 +44,5 @@ Eleanor Heartney, a contributing editor to Art in America and author of Critical
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-jia-rhon-chen/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

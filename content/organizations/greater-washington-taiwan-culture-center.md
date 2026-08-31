@@ -22,5 +22,5 @@ The Greater Washington Taiwan Culture Center (TCC) is a non-profit 501(c)(3) org
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/greater-washington-taiwan-culture-center/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -33,7 +33,7 @@ Accomplishment
 
 ## Family
 
-- **Wife:** [[people/min-mei-chen|吳明美]]
+- **Wife:** [[people/min-mei-chen||吳明美]]
 - **Daughter:** Edith& Emma
 
 
@@ -42,5 +42,5 @@ Accomplishment
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chun-fan-chen/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

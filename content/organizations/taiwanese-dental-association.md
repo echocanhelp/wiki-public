@@ -22,5 +22,5 @@ The Taiwanese Dental Association (TDA) is a Taiwanese student organization based
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-dental-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

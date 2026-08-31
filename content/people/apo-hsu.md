@@ -15,7 +15,7 @@ last_reviewed: 2026-08-18
 ---
 # Apo Hsu (許瀞心)
 
-**Apo Hsu** (許瀞心; also **Apo Ching-Hsin Hsu** on English concert listings) is a Taiwan-born conductor and teacher. TAH Who’s Who lists her as conductor, educator, musician, and professor. She is **not** [[people/ahhee-hsu|Ahhee Hsu (許丕龍)]].
+**Apo Hsu** (許瀞心; also **Apo Ching-Hsin Hsu** on English concert listings) is a Taiwan-born conductor and teacher. TAH Who’s Who lists her as conductor, educator, musician, and professor. She is **not** [[people/ahhee-hsu||Ahhee Hsu (許丕龍)]].
 
 ## Identity Snapshot
 - **English:** Apo Hsu; concert listings also Apo Ching-Hsin Hsu
@@ -23,7 +23,7 @@ last_reviewed: 2026-08-18
 - **Born:** year not given on TAH; birthplace 基隆 / 台灣
 - **Geography:** Keelung → US training (Hartt) → US podiums → Taiwan (TAH address field: 台灣)
 - **Core roles:** conductor; NTNU symphony conductor (from 2003); US orchestra music director / artistic director posts
-- **Source layer:** TAH Who’s Who + TAH #369 / #1310; EN Wikipedia on [[people/tyzen-hsiao|Tyzen Hsiao]] / *Ilha Formosa*
+- **Source layer:** TAH Who’s Who + TAH #369 / #1310; EN Wikipedia on [[people/tyzen-hsiao||Tyzen Hsiao]] / *Ilha Formosa*
 
 ## Overview
 
@@ -47,7 +47,7 @@ TAH source line on the card: 奧瑞岡日報 & 台灣公論報 第1239期, 1994/
 
 ## Tyzen Hsiao / *Ilha Formosa*
 
-On [[people/tyzen-hsiao|Tyzen Hsiao]]’s page (EN Wikipedia / *Ilha Formosa* article):
+On [[people/tyzen-hsiao||Tyzen Hsiao]]’s page (EN Wikipedia / *Ilha Formosa* article):
 
 - Apo Hsu conducts the **NTNU Symphony Orchestra** and **Formosa Festival Choir** in Hsiao’s *Ilha Formosa: Requiem for Formosa’s Martyrs*.
 - **2007 Formosa Dreaming** — concert of works for orchestra and voices by Hsiao and Fan-Long Ko (柯芳隆). US tour after a sendoff at Taipei 中山堂 (the hall of Hsiao’s first 蕭泰然樂展, 1975). EN Wikipedia video note: DVD, concert **9 September 2007**, Apo Ching-Hsin Hsu conducting NTNU Symphony + Formosa Festival Chorus.
@@ -68,8 +68,8 @@ That is a **student/successor mention**, not a second biography. 林韡函 / 陳
 ## Name Variants / Disambiguation
 
 - Apo Hsu / Apo Ching-Hsin Hsu / 許瀞心
-- **Not:** [[people/ahhee-hsu|Ahhee Hsu 許丕龍]] (Penghu; 南加州台灣音樂社 with Tyzen; father of [[people/hsu-ching-chun|許景淳]])
-- **Not:** [[people/hsu-ching-chun|Hsu Ching-chun 許景淳]]
+- **Not:** [[people/ahhee-hsu||Ahhee Hsu 許丕龍]] (Penghu; 南加州台灣音樂社 with Tyzen; father of [[people/hsu-ching-chun||許景淳]])
+- **Not:** [[people/hsu-ching-chun||Hsu Ching-chun 許景淳]]
 
 ## Source Notes and Confidence
 
@@ -81,11 +81,11 @@ That is a **student/successor mention**, not a second biography. 林韡函 / 陳
 
 ## Related Pages
 
-- [[people/tyzen-hsiao|Tyzen Hsiao (蕭泰然)]]
-- [[people/ahhee-hsu|Ahhee Hsu (許丕龍)]] — different Hsu
-- [[organizations/tyzen-hsiao-foundation|Tyzen Hsiao Foundation]]
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[people/tyzen-hsiao||Tyzen Hsiao (蕭泰然)]]
+- [[people/ahhee-hsu||Ahhee Hsu (許丕龍)]] — different Hsu
+- [[organizations/tyzen-hsiao-foundation||Tyzen Hsiao Foundation]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## Sources
 
@@ -94,4 +94,4 @@ That is a **student/successor mention**, not a second biography. 林韡函 / 陳
 - [TAH #1310 encyclopedia: 1310. Apo Hsu 許瀞心 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1310/)
 - [Wikipedia: Tyzen Hsiao](https://en.wikipedia.org/wiki/Tyzen_Hsiao) — Formosa Dreaming / Apo Hsu
 - [Wikipedia: Ilha Formosa: Requiem for Formosa’s Martyrs](https://en.wikipedia.org/wiki/Ilha_Formosa:_Requiem_for_Formosa%27s_Martyrs)
-- 中央社 / [[articles/taiwanjustice-net/2022/20221002094539_2022_08_11_台灣指揮林韡函-獲聘美密蘇里交響樂團音樂總監_23d7e5334ba5a0ec|台灣公義網 2022-08-11]] — 林韡函 studied conducting with 許瀞心
+- 中央社 / [[articles/taiwanjustice-net/2022/20221002094539_2022_08_11_台灣指揮林韡函-獲聘美密蘇里交響樂團音樂總監_23d7e5334ba5a0ec||台灣公義網 2022-08-11]] — 林韡函 studied conducting with 許瀞心

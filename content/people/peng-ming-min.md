@@ -14,7 +14,7 @@ last_reviewed: 2026-08-17
 ---
 # Peng Ming-min (彭明敏)
 
-**Peng Ming-min** (彭明敏, 1919–2022) was a Taiwanese democratic activist, politician, and founding chairman of the [[organizations/democratic-progressive-party|Democratic Progressive Party]] (DPP). He was a leading figure in Taiwan's democratic independence movement and a prominent advocate for Taiwan's international recognition.
+**Peng Ming-min** (彭明敏, 1919–2022) was a Taiwanese democratic activist, politician, and founding chairman of the [[organizations/democratic-progressive-party||Democratic Progressive Party]] (DPP). He was a leading figure in Taiwan's democratic independence movement and a prominent advocate for Taiwan's international recognition.
 
 ## Identity Snapshot
 
@@ -59,7 +59,7 @@ In 1986, Peng became the founding chairman of the Democratic Progressive Party (
 
 ### 2000 Presidential Election
 
-In 2000, Peng ran for president as the DPP candidate but lost to [[people/chen-shuibian|Chen Shui-bian]]. His campaign was marked by his vision of Taiwan's independence and international recognition.
+In 2000, Peng ran for president as the DPP candidate but lost to [[people/chen-shuibian||Chen Shui-bian]]. His campaign was marked by his vision of Taiwan's independence and international recognition.
 
 ## Philosophy and Legacy
 
@@ -90,7 +90,7 @@ Peng Ming-min died on April 8, 2022. A memorial tribute was written by 楊嘉猷
 
 - **Content priority A:** 2023 TAHS Publication (profile, Part 1, ~58 lines), written by 楊嘐猷 (Charles Yang)
 - **Content priority A:** Contains extensive biographical narrative from birth through escape, academic career, DPP founding, and 2000 presidential campaign
-- **Hub:** [[sources/2023-tahs-publication|2023 TAHS Publication]]
+- **Hub:** [[sources/2023-tahs-publication||2023 TAHS Publication]]
 - **Note:** The full text includes detailed biographical information including the 1964 Self-Salvation Movement, escape to Sweden, academic career at University of Michigan, DPP founding, and presidential campaign
 
 ## Sources
@@ -98,8 +98,8 @@ Peng Ming-min died on April 8, 2022. A memorial tribute was written by 楊嘉猷
 
 ## Related Pages
 
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/2023-tahs-publication|2023 TAHS Publication]]
-- [[sources/2017-tahs-publication|2017 TAHS Publication]]
-- [[people/yang-jia-you|楊嘉猷 (Charles Yang) — wrote memorial tribute]]
-- [[people/zheng-bing-quan|鄭炳全 (Zheng Bingquan) — fellow TAHS member]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/2023-tahs-publication||2023 TAHS Publication]]
+- [[sources/2017-tahs-publication||2017 TAHS Publication]]
+- [[people/yang-jia-you||楊嘉猷 (Charles Yang) — wrote memorial tribute]]
+- [[people/zheng-bing-quan||鄭炳全 (Zheng Bingquan) — fellow TAHS member]]

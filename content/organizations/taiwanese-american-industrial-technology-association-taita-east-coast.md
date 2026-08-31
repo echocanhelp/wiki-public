@@ -22,5 +22,5 @@ TAITA-East Coast is the East Coast chapter of the Taiwanese American Industrial 
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-industrial-technology-association-taita-east-coast/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -22,5 +22,5 @@ The Taiwanese American Citizens League (TACL) is a national 501(c)(3) nonprofit 
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-citizens-league/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

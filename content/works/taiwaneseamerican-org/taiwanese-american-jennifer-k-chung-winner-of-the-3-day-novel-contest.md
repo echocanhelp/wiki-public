@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/taiwanese-american-jennifer-k-chung-winner-of-the-3-day-novel-contest|Taiwanese American Jennifer K. Chung &#8211; Winner of the 3-Day Novel Contest]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/taiwanese-american-jennifer-k-chung-winner-of-the-3-day-novel-contest||Taiwanese American Jennifer K. Chung &#8211; Winner of the 3-Day Novel Contest]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

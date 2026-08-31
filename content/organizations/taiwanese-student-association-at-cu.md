@@ -22,5 +22,5 @@ The Taiwanese Student Association at CU (TSA) is a recognized student organizati
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-student-association-at-cu/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

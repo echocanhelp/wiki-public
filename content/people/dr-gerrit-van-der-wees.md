@@ -32,7 +32,7 @@ Dr. Gerrit Van Der Wees 韋傑理博士 – History of Taiwanese American (T.A. 
 
 ## Family
 
-- **Wife:** [[people/tah-p-2cc9076139|陳美津]]
+- **Wife:** [[people/tah-p-2cc9076139||陳美津]]
 
 
 ## Sources
@@ -40,5 +40,5 @@ Dr. Gerrit Van Der Wees 韋傑理博士 – History of Taiwanese American (T.A. 
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-gerrit-van-der-wees/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

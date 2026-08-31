@@ -47,5 +47,5 @@ Chao-Huei (Jeffrey) Wang 王肇輝 – History of Taiwanese American (T.A. Archi
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chao-huei-jeffrey-wang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

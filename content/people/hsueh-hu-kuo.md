@@ -45,5 +45,5 @@ For more bio information, please click link in Who’s Who: 890. Hsueh-Hu Kuo �
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hsueh-hu-kuo/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -42,5 +42,5 @@ Research/Teaching Specialist
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/teh-yuan-ho/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

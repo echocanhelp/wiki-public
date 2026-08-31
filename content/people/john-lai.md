@@ -20,9 +20,9 @@ last_reviewed: 2026-08-18
 - **POJ / Tâi-lô (ZH Wikipedia):** Loā Éng-siông / Luā Íng-siông
 - **Born:** **1922-09-21** 日治臺南州新營郡後壁庄上茄苳（今後壁區嘉田村）
 - **Died:** **2024-06-07** 10:00 Boston / 22:00 台灣，Life Care Center，**腎衰竭**。林宜瑩《台灣教會公報》2024-06-08（6/11 更新）：**享嵩壽 102**；ZH Wikipedia：**101 歲** — both kept
-- **Memorial:** **2024-06-29** 10:30 [[organizations/boston-taiwanese-christian-church|波士頓台灣基督教會]]（TCNN: RCA）；林皙陽主理
+- **Memorial:** **2024-06-29** 10:30 [[organizations/boston-taiwanese-christian-church||波士頓台灣基督教會]]（TCNN: RCA）；林皙陽主理
 - **Geography:** 後壁 → **1926** 基隆 → 北高 / 東京帝大 → 臺大 → Arlington MA / Harvard / Boston（TAH first US **1972**）
-- **Core roles:** 圖書館學；《中國圖書分類法》；臺大圖資；哈佛燕京；《教會史話》；[[organizations/elder-john-lai-archives|史料庫]]；全民台語聖經協會榮譽理事長（林俊育 / TCNN）
+- **Core roles:** 圖書館學；《中國圖書分類法》；臺大圖資；哈佛燕京；《教會史話》；[[organizations/elder-john-lai-archives||史料庫]]；全民台語聖經協會榮譽理事長（林俊育 / TCNN）
 - **Not:** PCT sitting GA officer; TAH staff; other EN-wiki “John Lai” people
 
 Official biog: 父**盧明** 母**賴葉**；長男**從母姓**；弟**盧焜熙**. TAH: wife **劉慶理**; 子女 `--` — **no pages**.  
@@ -116,7 +116,7 @@ Official extras: 基隆壽國小（壽公學校）；基隆中學四年肄業；
 - 淡水工商董事長（TCNN：約 1969 一年）
 - PCT 總會首屆歷史委員
 - 和平執事 / 主日學校長 / 長老
-- [[organizations/boston-taiwanese-christian-church|波士頓台灣基督教會]]長老、名譽長老
+- [[organizations/boston-taiwanese-christian-church||波士頓台灣基督教會]]長老、名譽長老
 - 全民台語聖經協會榮譽理事長（TCNN）
 
 ## Family
@@ -136,11 +136,11 @@ Official extras: 基隆壽國小（壽公學校）；基隆中學四年肄業；
 > — 〈和平教會和我〉
 
 ## Network
-- [[organizations/elder-john-lai-archives|史料庫]] — 2007 林皙陽 / 李秀卿 / 林俊育
-- [[organizations/presbyterian-church-in-taiwan|PCT]]
+- [[organizations/elder-john-lai-archives||史料庫]] — 2007 林皙陽 / 李秀卿 / 林俊育
+- [[organizations/presbyterian-church-in-taiwan||PCT]]
 - 和平教會 — 1947–1972；2001–03 土地（no page）
-- [[organizations/boston-taiwanese-christian-church|波士頓台灣基督教會]]（TCNN: RCA）
-- [[people/james-laidlaw-maxwell|馬雅各]] · [[people/george-leslie-mackay|馬偕]] · [[people/thomas-barclay|巴克禮]]
+- [[organizations/boston-taiwanese-christian-church||波士頓台灣基督教會]]（TCNN: RCA）
+- [[people/james-laidlaw-maxwell||馬雅各]] · [[people/george-leslie-mackay||馬偕]] · [[people/thomas-barclay||巴克禮]]
 - 朱昭陽 — 延平 / 新生台灣建設研究會
 - 曹永和 — 1951 臺大
 - 盧俊義 — 史話邀稿
@@ -158,15 +158,15 @@ Official extras: 基隆壽國小（壽公學校）；基隆中學四年肄業；
 - [1998 講演](http://www.laijohn.com/works/lectures/Twkhsl.htm) · [著作目錄](http://www.laijohn.com/works/works-contents.htm)
 - [ZH Wikipedia](https://zh.wikipedia.org/wiki/賴永祥)
 - [TAH person](https://taiwaneseamericanhistory.org/person/john-lai/) · [TAH #41](https://taiwaneseamericanhistory.org/whos-who-41-john-lai/)
-- [[sources/laijohn-com|laijohn.com]]
+- [[sources/laijohn-com||laijohn.com]]
 
 ## Related Pages
-- [[organizations/elder-john-lai-archives|賴永祥長老史料庫]]
-- [[organizations/boston-taiwanese-christian-church|波士頓台灣基督教會]]
-- [[organizations/presbyterian-church-in-taiwan|PCT]]
-- [[people/james-laidlaw-maxwell|馬雅各]]
-- [[people/george-leslie-mackay|馬偕]]
-- [[people/thomas-barclay|巴克禮]]
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/laijohn-com|laijohn.com]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/elder-john-lai-archives||賴永祥長老史料庫]]
+- [[organizations/boston-taiwanese-christian-church||波士頓台灣基督教會]]
+- [[organizations/presbyterian-church-in-taiwan||PCT]]
+- [[people/james-laidlaw-maxwell||馬雅各]]
+- [[people/george-leslie-mackay||馬偕]]
+- [[people/thomas-barclay||巴克禮]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/laijohn-com||laijohn.com]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

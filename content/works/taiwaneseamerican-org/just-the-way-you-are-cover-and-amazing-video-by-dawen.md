@@ -26,10 +26,10 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/just-the-way-you-are-cover-and-amazing-video-by-dawen|&#8220;Just the Way You Are&#8221; Cover and Amazing Video by Dawen]]
-- [[articles/taiwanjustice-net/2026/20260115092409_印度_一個神奇_令你爆笑_又難以逾越的國度-video_4a3af7cf76adcd72|video]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/just-the-way-you-are-cover-and-amazing-video-by-dawen||&#8220;Just the Way You Are&#8221; Cover and Amazing Video by Dawen]]
+- [[articles/taiwanjustice-net/2026/20260115092409_印度_一個神奇_令你爆笑_又難以逾越的國度-video_4a3af7cf76adcd72||video]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

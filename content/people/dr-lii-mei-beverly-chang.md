@@ -45,5 +45,5 @@ Dr. Lii Mei (Beverly) Chang 張理美醫師 – History of Taiwanese American (T
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-lii-mei-beverly-chang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

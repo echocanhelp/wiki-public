@@ -33,7 +33,7 @@ last_reviewed: 2026-08-17
 ## Family
 
 - **Wife:** 蔡玲理
-- **Daughter:** [[people/joanna-chen-cham|陳怡玲]]
+- **Daughter:** [[people/joanna-chen-cham||陳怡玲]]
 - **Son:** 陳怡隆
 
 
@@ -44,5 +44,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/lung-chen/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

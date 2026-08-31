@@ -32,12 +32,12 @@ Adjunct Professor, Department of Engineering and System Science, National Tsing 
 
 ## Family
 
-- **Wife:** [[people/y-h-liang|梁琰華]]
+- **Wife:** [[people/y-h-liang||梁琰華]]
 
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/james-j-y-hsu/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

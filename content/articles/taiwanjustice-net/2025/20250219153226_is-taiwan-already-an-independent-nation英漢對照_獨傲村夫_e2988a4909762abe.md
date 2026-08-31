@@ -18,7 +18,7 @@ categories:
 - column
 - sopt-light-article
 authors:
-  - [[people/du-ao-cunfu|獨傲村夫]]
+  - [[people/du-ao-cunfu||獨傲村夫]]
 ---
 
 During BBC’s interview on January 16, 2020, President Tsai Ing-wen told the reporter, John Sudworth, “Taiwan does not have to declare independence because the country is already an independent nation.”, she also added “We are an independent country already and we call ourselves the Republic of China, Taiwan.”

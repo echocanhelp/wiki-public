@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/chicago-taiwanese-american-professionals-hosts-happy-hour-at-zella|Chicago Taiwanese American Professionals Hosts Happy Hour at Zella]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/chicago-taiwanese-american-professionals-hosts-happy-hour-at-zella||Chicago Taiwanese American Professionals Hosts Happy Hour at Zella]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

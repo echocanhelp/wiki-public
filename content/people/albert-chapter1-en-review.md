@@ -14,7 +14,7 @@ echo: scratch
 
 **Status:** Scratch AI narration for **voice / tempo / style review** only. **Not** the retail master (retail = human cast).
 
-**Full EN SKU A (all chapters):** [[people/albert-en-sku-a-scratch-review|EN SKU A multi-track review hub]]
+**Full EN SKU A (all chapters):** [[people/albert-en-sku-a-scratch-review||EN SKU A multi-track review hub]]
 
 ## Identity Snapshot
 
@@ -68,7 +68,7 @@ echo: scratch
 2. **Geography density (first 5 min):** Does tempo hold without rushing lists of distances?
 3. **Pastoral vs academic:** Does “authority” voice feel too news-anchor or appropriately measured?
 4. **Section transitions:** Clear enough without theatricality?
-5. **Compare prior pilot:** [[albert-chapter1-audiobook-taiwanese-female|Taiwanese female Ch.1 pilot]] was a different language/affinity experiment — this page is **EN SKU A** direction.
+5. **Compare prior pilot:** [[people/albert-chapter1-audiobook-taiwanese-female|Taiwanese female Ch.1 pilot]] was a different language/affinity experiment — this page is **EN SKU A** direction.
 
 ## Opening text (AMT excerpt)
 
@@ -93,12 +93,12 @@ Pages that link to **albert-chapter1-en-review** (albert-chapter1-en-review):
 
 ### People (2)
 
-1. [[people/albert-s-lai|albert-s-lai]]
-2. [[people/index|index]]
+1. [[people/albert-s-lai||albert-s-lai]]
+2. [[people/index||index]]
 
 ## Related Pages
 
-- [[albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
-- [[albert-chapter1-audiobook-consent-and-recording-kit|Consent & recording kit]]
-- [[albert-chapter1-audiobook-taiwanese-female|Ch.1 Taiwanese female pilot (prior)]]
-- [[taiwanese-american-historical-society|Taiwanese American Historical Society]]
+- [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
+- [[people/albert-chapter1-audiobook-consent-and-recording-kit|Consent & recording kit]]
+- [[people/albert-chapter1-audiobook-taiwanese-female|Ch.1 Taiwanese female pilot (prior)]]
+- [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society]]

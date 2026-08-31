@@ -22,5 +22,5 @@ The Taiwanese Association of America – New Jersey (TAA-NJ, 紐澤西台灣同�
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-new-jersey/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

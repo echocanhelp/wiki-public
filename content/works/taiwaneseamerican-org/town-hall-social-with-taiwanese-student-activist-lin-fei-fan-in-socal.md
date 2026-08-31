@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/town-hall-social-with-taiwanese-student-activist-lin-fei-fan-in-socal|Town Hall Social with Taiwanese Student Activist Lin Fei-Fan in SoCal]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/town-hall-social-with-taiwanese-student-activist-lin-fei-fan-in-socal||Town Hall Social with Taiwanese Student Activist Lin Fei-Fan in SoCal]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

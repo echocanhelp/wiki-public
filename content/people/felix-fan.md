@@ -41,5 +41,5 @@ Felix Fan is a celebrated young cellist whose eclectic music-making and leadersh
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/felix-fan/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

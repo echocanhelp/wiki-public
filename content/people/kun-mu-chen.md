@@ -44,5 +44,5 @@ Director of Electrical Engineering Research Department
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kun-mu-chen/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -13,7 +13,7 @@ last_reviewed: 2026-07-15
 ---
 # Pastor Pingtung Lai (賴炳烔)
 
-**Pastor Pingtung Lai (賴炳烔, Lai Ping-tung)** was a Taiwanese Presbyterian pastor, Bible Society pioneer, and evangelist. He was a student of Dr. Barclay at Tainan Theological College and Seminary (TTCS), built Beigang Church, founded United Bible Societies work in Taiwan, and established Good Friend Mission. His son, [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]], documented this heritage in the Self-Preface material tied to [[sources/toward-a-community-of-hope|Toward A Community of Hope]] (1971 / 2025 reprint).
+**Pastor Pingtung Lai (賴炳烔, Lai Ping-tung)** was a Taiwanese Presbyterian pastor, Bible Society pioneer, and evangelist. He was a student of Dr. Barclay at Tainan Theological College and Seminary (TTCS), built Beigang Church, founded United Bible Societies work in Taiwan, and established Good Friend Mission. His son, [[people/albert-s-lai||Dr. Albert S. Lai (賴信雄)]], documented this heritage in the Self-Preface material tied to [[sources/toward-a-community-of-hope||Toward A Community of Hope]] (1971 / 2025 reprint).
 
 ## Identity Snapshot
 
@@ -26,10 +26,10 @@ last_reviewed: 2026-07-15
 ## Life & Ministry (three stages)
 
 1. **Pastoral ministry** — Huwei, Chingliao, Ailan (Wu-niu-lan), Beigang (built church); Centennial Doubling Campaign evangelistic officer; assisted US church planting
-2. **Bible missions** — founded United Bible Societies work in Taiwan from Beigang, then Taichung office/warehouse; translation/distribution; advisory network including KMT-era Christian officials (e.g. 張群, [[people/lien-hwa-chow|周聯華]], 馬壽華)
+2. **Bible missions** — founded United Bible Societies work in Taiwan from Beigang, then Taichung office/warehouse; translation/distribution; advisory network including KMT-era Christian officials (e.g. 張群, [[people/lien-hwa-chow||周聯華]], 馬壽華)
 3. **Post-retirement evangelism** — Taiwan International Missions; Good Friend Mission (勵友中心) continued by second generation
 
-> **Primary source context:** [[sources/toward-a-community-of-hope|Toward A Community of Hope (work & sources)]]  
+> **Primary source context:** [[sources/toward-a-community-of-hope||Toward A Community of Hope (work & sources)]]  
 > **Full text (GitHub):** [complete extract](https://github.com/echocanhelp/wiki-public/blob/gh-pages/knowledge/web-archives/albert-lai-toward-community-of-hope.md)
 
 
@@ -54,7 +54,7 @@ last_reviewed: 2026-07-15
 
 ### Title Mentions (1 article)
 
-1. **2025** — [[sources/toward-a-community-of-hope|Toward A Community of Hope (2025 Self-Preface)]] — father of Albert Lai; TTCS; Bible Society
+1. **2025** — [[sources/toward-a-community-of-hope||Toward A Community of Hope (2025 Self-Preface)]] — father of Albert Lai; TTCS; Bible Society
 
 ## Publications
 
@@ -76,15 +76,15 @@ Pages that link to **pingtung-lai** (pingtung-lai):
 
 ### People (1)
 
-1. [[people/albert-s-lai|albert-s-lai]]
+1. [[people/albert-s-lai||albert-s-lai]]
 
 ### Organizations (1)
 
-1. [[organizations/formosan-presbyterian-church-in-los-angeles|formosan-presbyterian-church-in-los-angeles]]
+1. [[organizations/formosan-presbyterian-church-in-los-angeles||formosan-presbyterian-church-in-los-angeles]]
 
 ### Sources (1)
 
-1. [[sources/toward-a-community-of-hope|toward-a-community-of-hope]]
+1. [[sources/toward-a-community-of-hope||toward-a-community-of-hope]]
 
 ## Source Notes and Confidence
 
@@ -98,10 +98,10 @@ Pages that link to **pingtung-lai** (pingtung-lai):
 
 ## Related Pages
 
-- [[sources/toward-a-community-of-hope|Toward A Community of Hope]]
-- [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
-- [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]]
-- [[organizations/national-taiwanese-presbyterian-council|National Taiwanese Presbyterian Council (NTPC)]]
-- [[people/mingyuan-hsu|Rev. Mingyuan Hsu (許明遠)]]
-- [[people/pinghsi-liu|Rev. Pinghsi Liu (劉炳熹)]]
-- [[people/thomas-barclay|Thomas Barclay (巴克禮)]]
+- [[sources/toward-a-community-of-hope||Toward A Community of Hope]]
+- [[people/albert-s-lai||Dr. Albert S. Lai (賴信雄)]]
+- [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan]]
+- [[organizations/national-taiwanese-presbyterian-council||National Taiwanese Presbyterian Council (NTPC)]]
+- [[people/mingyuan-hsu||Rev. Mingyuan Hsu (許明遠)]]
+- [[people/pinghsi-liu||Rev. Pinghsi Liu (劉炳熹)]]
+- [[people/thomas-barclay||Thomas Barclay (巴克禮)]]

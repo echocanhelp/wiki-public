@@ -22,5 +22,5 @@ Tsunah Foundation is a U.S. IRS-registered nonprofit organization based in Lagun
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/tsunah-foundation/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

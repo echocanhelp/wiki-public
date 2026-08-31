@@ -39,5 +39,5 @@ Eight published books on Taiwanese history and culture; on and African American 
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/gary-marvin-davison/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

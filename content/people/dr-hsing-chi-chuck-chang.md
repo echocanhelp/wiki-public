@@ -43,5 +43,5 @@ Dr. Hsing-Chi (Chuck) Chang 張幸吉博士 – History of Taiwanese American (T
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-hsing-chi-chuck-chang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

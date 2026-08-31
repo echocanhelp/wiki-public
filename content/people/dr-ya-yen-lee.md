@@ -32,7 +32,7 @@ Accomplishment
 
 ## Family
 
-- **Wife:** [[people/gin-ru-yeh|葉錦如]]
+- **Wife:** [[people/gin-ru-yeh||葉錦如]]
 - **Daughter:** 李宜靜、李宜安
 - **Son:** 李卓學
 
@@ -44,5 +44,5 @@ Accomplishment
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-ya-yen-lee/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

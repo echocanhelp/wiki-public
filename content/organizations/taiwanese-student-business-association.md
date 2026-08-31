@@ -22,5 +22,5 @@ The Taiwanese Student Business Association (TSBA) is a student organization at t
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-student-business-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

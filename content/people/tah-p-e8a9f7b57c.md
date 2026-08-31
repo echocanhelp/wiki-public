@@ -37,7 +37,7 @@ last_reviewed: 2026-08-17
 - **Son:** 蕭郇賓
 - **Son:** 蕭芳宛
 - **Son:** 蕭志上
-- **Daughter:** [[people/enchin-shaw-chen|蕭永真]]
+- **Daughter:** [[people/enchin-shaw-chen||蕭永真]]
 - **Daughter:** 蕭純真
 
 
@@ -46,5 +46,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e8%95%ad%e6%a8%82%e5%96%84/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

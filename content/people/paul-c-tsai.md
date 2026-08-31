@@ -45,5 +45,5 @@ Paul C. Tsai is a graduate of Chinese Culture University in Taiwan. He was educa
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/paul-c-tsai/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

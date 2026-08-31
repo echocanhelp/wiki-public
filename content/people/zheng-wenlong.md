@@ -20,31 +20,31 @@ Related: [Taiwanese American Historical Society](/organizations/taiwanese-americ
 
 ## Works
 
-**zheng-wenlong** — **8** title hits, **5** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
+**zheng-wenlong** — **8** title hits, **5** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
 
 ### 2024 (5)
 
-1. [[articles/taiwanjustice-net/2024/20240717220238_root_5b815778b76c9b24|鄭文龍律師]]
-2. [[articles/taiwanjustice-net/2024/20240716124207_root_73dfece35c15cfd2|台美人消息︰鄭文龍律師、民進黨發言人黃帝穎及太陽花學運青年小組精英法律系學生參訪團7月3日拜訪灣區]]
-3. [[articles/taiwanjustice-net/2024/20240613104640_root_c451abfb03ed9c5b|鄭文龍律師講「台灣司法改革與陪審團」@全美台灣人權協會41週年年會20171209 ◎台灣公義報攝錄+美洲台灣日報記者林蓮華報導]]
-4. [[articles/taiwanjustice-net/2024/20240613100519_root_74bcf8e252e06b24|長青教室心得報告-陪審團與台灣司法改革 ◎鄭文龍律師   2017-12-12]]
-5. [[articles/taiwanjustice-net/2024/20240613095142_root_9f2ade3733afac04|獨家影音報導–陪審團︰請大家一起來做法官–鄭文龍律師11282012凱達格蘭學校演說]]
+1. [[articles/taiwanjustice-net/2024/20240717220238_root_5b815778b76c9b24||鄭文龍律師]]
+2. [[articles/taiwanjustice-net/2024/20240716124207_root_73dfece35c15cfd2||台美人消息︰鄭文龍律師、民進黨發言人黃帝穎及太陽花學運青年小組精英法律系學生參訪團7月3日拜訪灣區]]
+3. [[articles/taiwanjustice-net/2024/20240613104640_root_c451abfb03ed9c5b||鄭文龍律師講「台灣司法改革與陪審團」@全美台灣人權協會41週年年會20171209 ◎台灣公義報攝錄+美洲台灣日報記者林蓮華報導]]
+4. [[articles/taiwanjustice-net/2024/20240613100519_root_74bcf8e252e06b24||長青教室心得報告-陪審團與台灣司法改革 ◎鄭文龍律師   2017-12-12]]
+5. [[articles/taiwanjustice-net/2024/20240613095142_root_9f2ade3733afac04||獨家影音報導–陪審團︰請大家一起來做法官–鄭文龍律師11282012凱達格蘭學校演說]]
 
 ### 2017 (3)
 
-1. [[articles/taiwanjustice-net/2017/20171231185115_2017_11_29_鄭文龍律師-12-10-12-13-分別在洛杉磯台灣會館及爾灣場老_3e441b1f10db56a5|鄭文龍律師 12/10, 12/13 分別在洛杉磯台灣會館及爾灣場老教會演說︰台灣司法改革及陪審團]]
-2. [[articles/taiwanjustice-net/2017/20171220125053_2017_11_29_全美台灣人權協會年會暨鄭南榕紀念獎_王康陸人_c4d413fd5efb8a9c|全美台灣人權協會年會暨鄭南榕紀念獎、王康陸人權獎頒獎典禮 12/09 聖地牙哥舉行(得獎人鄭文龍、王泰和、黃根深)]]
-3. [[articles/taiwanjustice-net/2017/20171216093843_2017_12_14_長青教室心得報告-陪審團與台灣司法改革-_鄭文龍_d3c74d18b6afe46c|長青教室心得報告-陪審團與台灣司法改革 ◎鄭文龍律師   2017-12-12]]
+1. [[articles/taiwanjustice-net/2017/20171231185115_2017_11_29_鄭文龍律師-12-10-12-13-分別在洛杉磯台灣會館及爾灣場老_3e441b1f10db56a5||鄭文龍律師 12/10, 12/13 分別在洛杉磯台灣會館及爾灣場老教會演說︰台灣司法改革及陪審團]]
+2. [[articles/taiwanjustice-net/2017/20171220125053_2017_11_29_全美台灣人權協會年會暨鄭南榕紀念獎_王康陸人_c4d413fd5efb8a9c||全美台灣人權協會年會暨鄭南榕紀念獎、王康陸人權獎頒獎典禮 12/09 聖地牙哥舉行(得獎人鄭文龍、王泰和、黃根深)]]
+3. [[articles/taiwanjustice-net/2017/20171216093843_2017_12_14_長青教室心得報告-陪審團與台灣司法改革-_鄭文龍_d3c74d18b6afe46c||長青教室心得報告-陪審團與台灣司法改革 ◎鄭文龍律師   2017-12-12]]
 
 ### Body mentions (5)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2023/20230607064911_author_josephc_page_12602_fe34f8717ed9a31d|admin]]
-2. [[articles/taiwanjustice-net/2021/20210118235211_2020_11_25_全美台灣人權協會第44屆年會暨_鄭南榕紀念獎_頒_996879ac7a006acf|全美台灣人權協會第44屆年會暨「鄭南榕紀念獎」頒獎　12月5日移師台灣]]
-3. [[articles/taiwanjustice-net/2024/20240421183124_root_48a2d01d5d49f855|台灣需要陪審團【上】◎黃帝穎 極光電子報/ July 8,2014]]
-4. [[articles/taiwanjustice-net/2025/20250430193548_因應中國5大威脅-軍事審判等修法期程4月上旬定調_026ac23060eacd58|因應中國5大威脅 軍事審判等修法期程4月上旬定調]]
-5. [[articles/taiwanjustice-net/2026/20260112180939_2020區域_原民立委79席當選名單_822ff0e9ac13d27c|2020區域、原民立委79席當選名單]]
+1. [[articles/taiwanjustice-net/2023/20230607064911_author_josephc_page_12602_fe34f8717ed9a31d||admin]]
+2. [[articles/taiwanjustice-net/2021/20210118235211_2020_11_25_全美台灣人權協會第44屆年會暨_鄭南榕紀念獎_頒_996879ac7a006acf||全美台灣人權協會第44屆年會暨「鄭南榕紀念獎」頒獎　12月5日移師台灣]]
+3. [[articles/taiwanjustice-net/2024/20240421183124_root_48a2d01d5d49f855||台灣需要陪審團【上】◎黃帝穎 極光電子報/ July 8,2014]]
+4. [[articles/taiwanjustice-net/2025/20250430193548_因應中國5大威脅-軍事審判等修法期程4月上旬定調_026ac23060eacd58||因應中國5大威脅 軍事審判等修法期程4月上旬定調]]
+5. [[articles/taiwanjustice-net/2026/20260112180939_2020區域_原民立委79席當選名單_822ff0e9ac13d27c||2020區域、原民立委79席當選名單]]
 
 
 ## Timeline
@@ -192,4 +192,4 @@ Notable quotes and mentions of **鄭文龍** in Taiwan Justice articles:
 
 ## Related Pages
 
-- [[people/albert-s-lai|Dr. Albert S. Lai]]
+- [[people/albert-s-lai||Dr. Albert S. Lai]]

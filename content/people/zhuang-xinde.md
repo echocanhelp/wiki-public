@@ -31,4 +31,4 @@ Rev. Zhuang is recognized as an ordained minister within the Taiwanese Presbyter
 - Romanized: Zhuang Xinde / Zhuang Xinde
 
 ## Related Pages
-- [[people/index|People Index]]
+- [[people/index||People Index]]

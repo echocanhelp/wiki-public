@@ -34,7 +34,7 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ralph-su/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
-- [[organizations/good-shepherd-taiwanese-presbyterian-church|GSTPC]] — 40th: in post 2018 (孫紫雲: 堅信禮)
-- [[organizations/national-taiwanese-presbyterian-council|NTPC]] 51st (2025 Houston): session host with 蔡尚男、莊雅棠 ([TCNN](https://tcnn.org.tw/archives/239132))
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[organizations/good-shepherd-taiwanese-presbyterian-church||GSTPC]] — 40th: in post 2018 (孫紫雲: 堅信禮)
+- [[organizations/national-taiwanese-presbyterian-council||NTPC]] 51st (2025 Houston): session host with 蔡尚男、莊雅棠 ([TCNN](https://tcnn.org.tw/archives/239132))

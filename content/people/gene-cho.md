@@ -40,5 +40,5 @@ Gene Cho, Professor of Music, has been on the UNT faculty since 1972. He receive
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/gene-cho/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

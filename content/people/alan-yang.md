@@ -32,7 +32,7 @@ Accomplishment
 
 ## Family
 
-- **Father:** [[people/peter-yang|Peter Yang]]
+- **Father:** [[people/peter-yang||Peter Yang]]
 
 
 ## Sources
@@ -40,5 +40,5 @@ Accomplishment
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/alan-yang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -22,5 +22,5 @@ Shee Highland Musée is the artistic institution associated with international a
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/shee-highland-musee-in-il/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

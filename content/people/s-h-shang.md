@@ -29,7 +29,7 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Husband:** [[people/peter-su|蘇國雄]]
+- **Husband:** [[people/peter-su||蘇國雄]]
 
 
 ## Sources
@@ -37,5 +37,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/s-h-shang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

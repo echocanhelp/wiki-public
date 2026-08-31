@@ -49,5 +49,5 @@ Dr. Tan-Sun (Mark) Chen 陳唐山 – History of Taiwanese American (T.A. Archiv
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-tan-sun-mark-chen/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

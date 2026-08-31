@@ -12,7 +12,7 @@ last_reviewed: 2026-08-30
 - **Date (guess):** 2026-08-30
 - **Source URL:** [https://www.taiwancenter.org/event/2026-tai-wan-hui-guan-nian-hui](https://www.taiwancenter.org/event/2026-tai-wan-hui-guan-nian-hui)
 - **Captured by:** source-continuity delta
-- **Source hub:** [[sources/taiwancenter-org|source]]
+- **Source hub:** [[sources/taiwancenter-org||source]]
 
 ## Notes
 

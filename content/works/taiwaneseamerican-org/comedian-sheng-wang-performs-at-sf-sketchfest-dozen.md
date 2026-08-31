@@ -26,10 +26,10 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/comedian-sheng-wang-performs-at-sf-sketchfest-dozen|Comedian Sheng Wang Performs at SF Sketchfest Dozen]]
-- [[people/sheng-wang|Sheng Wang]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/comedian-sheng-wang-performs-at-sf-sketchfest-dozen||Comedian Sheng Wang Performs at SF Sketchfest Dozen]]
+- [[people/sheng-wang||Sheng Wang]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

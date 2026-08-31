@@ -33,7 +33,7 @@ Accomplishment
 ## Family
 
 - **Wife:** 蔡瀛如
-- **Daughter:** [[people/hsu-ching-chun|許景淳]]
+- **Daughter:** [[people/hsu-ching-chun||許景淳]]
 
 
 ## Sources
@@ -41,7 +41,7 @@ Accomplishment
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ahhee-hsu/)
 
 ## Related Pages
-- [[people/c-y-hsu|Tsan Yu Hsu 許贊育]] — father
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
-- [[sources/laijohn-com|laijohn.com]] — 書法家許贊育 (2012)
+- [[people/c-y-hsu||Tsan Yu Hsu 許贊育]] — father
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[sources/laijohn-com||laijohn.com]] — 書法家許贊育 (2012)

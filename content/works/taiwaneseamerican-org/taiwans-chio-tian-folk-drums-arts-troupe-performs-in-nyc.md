@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/taiwans-chio-tian-folk-drums-arts-troupe-performs-in-nyc|Taiwan&#8217;s Chio-Tian Folk Drums &#038; Arts Troupe Performs in NYC]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/taiwans-chio-tian-folk-drums-arts-troupe-performs-in-nyc||Taiwan&#8217;s Chio-Tian Folk Drums &#038; Arts Troupe Performs in NYC]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

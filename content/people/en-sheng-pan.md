@@ -13,7 +13,7 @@ last_reviewed: 2026-07-15
 ---
 # Rev. En Sheng Pan (潘恩盛)
 
-**Rev. En Sheng Pan (潘恩盛)** is a Taiwanese Presbyterian pastor who served as Moderator of the 70th General Assembly of the [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan (PCT)]]. Born in the 1960s, he wrote the PCT foreword for the 2025 republication of [[people/albert-s-lai|Dr. Albert S. Lai]]'s dissertation [[sources/toward-a-community-of-hope|Toward A Community of Hope]].
+**Rev. En Sheng Pan (潘恩盛)** is a Taiwanese Presbyterian pastor who served as Moderator of the 70th General Assembly of the [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan (PCT)]]. Born in the 1960s, he wrote the PCT foreword for the 2025 republication of [[people/albert-s-lai||Dr. Albert S. Lai]]'s dissertation [[sources/toward-a-community-of-hope||Toward A Community of Hope]].
 
 ## Identity Snapshot
 
@@ -26,7 +26,7 @@ last_reviewed: 2026-07-15
 
 Rev. Pan served as Moderator of the 70th General Assembly of the PCT. In this capacity, he authored the PCT foreword (June 15, 2025) for the republication of *Toward A Community of Hope — A Mission to Formosan Community in Los Angeles*.
 
-> **Primary work page:** [[sources/toward-a-community-of-hope|Toward A Community of Hope (work & sources)]]  
+> **Primary work page:** [[sources/toward-a-community-of-hope||Toward A Community of Hope (work & sources)]]  
 > **Full text (GitHub):** [complete extract](https://github.com/echocanhelp/wiki-public/blob/gh-pages/knowledge/web-archives/albert-lai-toward-community-of-hope.md)
 
 ## Foreword Content Summary
@@ -45,7 +45,7 @@ Key themes:
 
 ### Title Mentions (1 article)
 
-1. **2025** — [[sources/toward-a-community-of-hope|Toward A Community of Hope (2025 PCT Foreword)]] — PCT 70th GA Moderator; foreword author
+1. **2025** — [[sources/toward-a-community-of-hope||Toward A Community of Hope (2025 PCT Foreword)]] — PCT 70th GA Moderator; foreword author
 
 ## Publications
 
@@ -69,20 +69,20 @@ Pages that link to **en-sheng-pan** (en-sheng-pan):
 
 ### People (5)
 
-1. [[people/albert-s-lai|albert-s-lai]]
-2. [[people/albert-s-lai|albert-s-lai]]
-3. [[people/index|index]]
-4. [[people/pinghsi-liu|pinghsi-liu]]
-5. [[people/yunching-yeh-davis|yunching-yeh-davis]]
+1. [[people/albert-s-lai||albert-s-lai]]
+2. [[people/albert-s-lai||albert-s-lai]]
+3. [[people/index||index]]
+4. [[people/pinghsi-liu||pinghsi-liu]]
+5. [[people/yunching-yeh-davis||yunching-yeh-davis]]
 
 ### Organizations (2)
 
-1. [[organizations/national-taiwanese-presbyterian-council|national-taiwanese-presbyterian-council]]
-2. [[organizations/national-taiwanese-presbyterian-council|national-taiwanese-presbyterian-council]]
+1. [[organizations/national-taiwanese-presbyterian-council||national-taiwanese-presbyterian-council]]
+2. [[organizations/national-taiwanese-presbyterian-council||national-taiwanese-presbyterian-council]]
 
 ### Sources (1)
 
-1. [[sources/toward-a-community-of-hope|toward-a-community-of-hope]]
+1. [[sources/toward-a-community-of-hope||toward-a-community-of-hope]]
 
 ## Source Notes and Confidence
 
@@ -96,11 +96,11 @@ Pages that link to **en-sheng-pan** (en-sheng-pan):
 
 ## Related Pages
 
-- [[sources/toward-a-community-of-hope|Toward A Community of Hope]]
-- [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
-- [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan (PCT)]]
-- [[organizations/national-taiwanese-presbyterian-council|National Taiwanese Presbyterian Council (NTPC)]]
-- [[people/yunching-yeh-davis|Dr. Yunching Yeh Davis (葉芸青)]]
-- [[people/mingyuan-hsu|Rev. Mingyuan Hsu (許明遠)]]
-- [[people/pinghsi-liu|Rev. Pinghsi Liu (劉炳熹)]]
-- [[people/ching-fang-chen|Rev. Ching Fang Chen (陳清芳)]]
+- [[sources/toward-a-community-of-hope||Toward A Community of Hope]]
+- [[people/albert-s-lai||Dr. Albert S. Lai (賴信雄)]]
+- [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan (PCT)]]
+- [[organizations/national-taiwanese-presbyterian-council||National Taiwanese Presbyterian Council (NTPC)]]
+- [[people/yunching-yeh-davis||Dr. Yunching Yeh Davis (葉芸青)]]
+- [[people/mingyuan-hsu||Rev. Mingyuan Hsu (許明遠)]]
+- [[people/pinghsi-liu||Rev. Pinghsi Liu (劉炳熹)]]
+- [[people/ching-fang-chen||Rev. Ching Fang Chen (陳清芳)]]

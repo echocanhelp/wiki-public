@@ -43,5 +43,5 @@ Prof. Chawnshang Chang 張傳祥教授 – History of Taiwanese American (T.A. A
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-chawnshang-chang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

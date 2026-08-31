@@ -43,8 +43,8 @@ Rev. Edward Bin Tanng 陳黃義敏牧師 – History of Taiwanese American (T.A.
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rev-edward-bin-tanng/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## Network
-- [[organizations/formosan-presbyterian-church-in-los-angeles|FPCLA]] — TAH Who’s Who
+- [[organizations/formosan-presbyterian-church-in-los-angeles||FPCLA]] — TAH Who’s Who

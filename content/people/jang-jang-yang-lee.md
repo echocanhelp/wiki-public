@@ -32,7 +32,7 @@ Accomplishment
 
 ## Family
 
-- **Husband:** [[people/ju-cheng-lee|李汝成]]
+- **Husband:** [[people/ju-cheng-lee||李汝成]]
 - **Daughter:** 李碧娥,李瑞鳳
 - **Son:** 李興國,李元宏
 
@@ -42,5 +42,5 @@ Accomplishment
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jang-jang-yang-lee/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

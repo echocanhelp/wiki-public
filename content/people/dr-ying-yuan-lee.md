@@ -30,12 +30,12 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Wife:** [[people/laura-huang|黃月桂]]
+- **Wife:** [[people/laura-huang||黃月桂]]
 
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-ying-yuan-lee/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

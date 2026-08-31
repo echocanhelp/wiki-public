@@ -22,5 +22,5 @@ The Taiwanese Scholar Association in St. Louis (TSA-STL) is a community organiza
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-scholar-association-in-st-louis-tsa-stl/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

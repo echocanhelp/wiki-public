@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/beach-activities-bbq-with-taiwanese-american-chamber-of-commerce-of-greater-chic|Beach Activities &#038; BBQ with Taiwanese American Chamber of Commerce of Greater Chicago]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/beach-activities-bbq-with-taiwanese-american-chamber-of-commerce-of-greater-chic||Beach Activities &#038; BBQ with Taiwanese American Chamber of Commerce of Greater Chicago]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

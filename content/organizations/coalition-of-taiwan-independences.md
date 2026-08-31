@@ -22,5 +22,5 @@ The Coalition of Taiwan Independence (台灣建國聯合陣線) was a broad unit
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/coalition-of-taiwan-independences/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

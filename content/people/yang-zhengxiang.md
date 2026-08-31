@@ -26,7 +26,7 @@ last_reviewed: 2026-08-02
 - **Geography:** Washington, D.C.
 - **Education:** Trinity College, Hartford (BA in Political Science); George Mason University (PhD, Antonin Scalia Law School)
 - **Awards:** 2023 Vernon Smith Prize (13th Annual International Vernon Smith Prize)
-- **Family (owner-stated 2026-08-02):** Grandparents [[people/yang-jia-you|Charles Yang (楊嘉猷)]] and [[people/becky-yang|Becky Yang]]
+- **Family (owner-stated 2026-08-02):** Grandparents [[people/yang-jia-you||Charles Yang (楊嘉猷)]] and [[people/becky-yang||Becky Yang]]
 
 ## Family
 
@@ -34,7 +34,7 @@ Per owner verification in the TAHS LINE community (2026-08-02), Ethan's grandpar
 
 ## Overview
 
-Ethan Yang represents the third generation of Taiwanese Americans profiled in the [[sources/2023-tahs-publication|2023 TAHS Publication]]. As a research fellow at the American Institute for Economic Research and a PhD candidate at George Mason University, he is actively engaged in political economy and free-market advocacy.
+Ethan Yang represents the third generation of Taiwanese Americans profiled in the [[sources/2023-tahs-publication||2023 TAHS Publication]]. As a research fellow at the American Institute for Economic Research and a PhD candidate at George Mason University, he is actively engaged in political economy and free-market advocacy.
 
 ## Education and Career
 
@@ -69,9 +69,9 @@ As a third-generation Taiwanese American, Ethan represents the evolving identity
 
 ## Related Pages
 
-- [[people/yang-jia-you|Charles Yang (楊嘉猷) — grandfather]]
-- [[people/becky-yang|Becky Yang — grandmother]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[people/yang-jia-you||Charles Yang (楊嘉猷) — grandfather]]
+- [[people/becky-yang||Becky Yang — grandmother]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 - 2023 TAHS Publication (source hub pending restore on disk)
 - Zheng Bingquan (鄭炳全) (page pending restore)
 

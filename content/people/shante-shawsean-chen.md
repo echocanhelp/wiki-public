@@ -35,7 +35,7 @@ Shante Shaw(Sean) Chen 陳善哲 – History of Taiwanese American (T.A. Archive
 - **Daughter:** Eloise
 - **Son:** Travis Kiran Chen
 - **Father:** 陳哲仁
-- **Mother:** [[people/enchin-shaw-chen|蕭永真]]
+- **Mother:** [[people/enchin-shaw-chen||蕭永真]]
 
 
 ## Sources
@@ -174,5 +174,5 @@ Shante Shaw Sean Chen — 朗讀 (萌典)
 
 ## Related Pages
 
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

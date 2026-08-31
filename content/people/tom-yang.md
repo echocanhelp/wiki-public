@@ -38,7 +38,7 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Son:** [[people/b-michael-yeun|楊明昊]]
+- **Son:** [[people/b-michael-yeun||楊明昊]]
 
 
 ## Sources
@@ -46,5 +46,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tom-yang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

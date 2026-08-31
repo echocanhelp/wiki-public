@@ -22,5 +22,5 @@ The Taiwanese Association of Indiana (印州台灣同鄉會) is a regional chapt
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-indiana/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

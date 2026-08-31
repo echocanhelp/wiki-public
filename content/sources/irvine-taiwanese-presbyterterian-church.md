@@ -10,7 +10,7 @@ last_reviewed: 2026-08-18
 
 # Moved
 
-Canonical page: **[[sources/irvine-taiwanese-presbyterian-church|Irvine Taiwanese Presbyterian Church]]**.
+Canonical page: **[[sources/irvine-taiwanese-presbyterian-church||Irvine Taiwanese Presbyterian Church]]**.
 
 Former provisional slug: `irvine-taiwanese-presbyterterian-church`.
 

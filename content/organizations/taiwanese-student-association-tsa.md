@@ -22,5 +22,5 @@ The Taiwanese Student Association (TSA) at UC Santa Cruz — known in Chinese as
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-student-association-tsa/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

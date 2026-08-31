@@ -22,5 +22,5 @@ The UF Society of Taiwanese and Hong Kong Students (STAHKS) is a student organiz
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/uf-society-of-taiwanese-and-hong-kong-students/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -22,5 +22,5 @@ The Taiwanese Graduate Student Association (TGSA) at UC Davis is a community org
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-graduate-student-association-at-uc-davis/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

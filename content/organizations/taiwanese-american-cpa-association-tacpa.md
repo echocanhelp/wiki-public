@@ -22,5 +22,5 @@ The Taiwanese American CPA Association (TACPA) is a professional organization fo
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-cpa-association-tacpa/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

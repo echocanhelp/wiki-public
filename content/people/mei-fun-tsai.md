@@ -29,7 +29,7 @@ Accomplishment
 
 ## Family
 
-- **Husband:** [[people/s-i-tom-tsai|蔡式宜]]
+- **Husband:** [[people/s-i-tom-tsai||蔡式宜]]
 
 
 ## Sources
@@ -38,5 +38,5 @@ Accomplishment
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mei-fun-tsai/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

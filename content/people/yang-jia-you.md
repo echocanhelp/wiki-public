@@ -29,8 +29,8 @@ last_reviewed: 2026-08-20
 - **Geography:** Southern California (Los Angeles area)
 - **Key work:** 緣起與展望 (Origins and Prospects) — founding essay of TAHS
 - **Era:** Active 2013–present (TAHS founding); 2017 publication year
-- **Family (owner-stated 2026-08-02):** Spouse [[people/becky-yang|Becky Yang]]; maternal/paternal grandparents of [[people/yang-zhengxiang|Ethan Yang (楊正光)]] (owner: grandparents of Ethan)
-- **Organizations:** [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
+- **Family (owner-stated 2026-08-02):** Spouse [[people/becky-yang||Becky Yang]]; maternal/paternal grandparents of [[people/yang-zhengxiang||Ethan Yang (楊正光)]] (owner: grandparents of Ethan)
+- **Organizations:** [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society (TAHS)]]
 
 ## TAHS Membership Assignment
 
@@ -42,8 +42,8 @@ last_reviewed: 2026-08-20
 
 ## Family
 
-- Spouse: [[people/becky-yang|Becky Yang]] (owner-verified relationship, 2026-08-02)
-- Grandson: [[people/yang-zhengxiang|Ethan Yang (楊正光 / Yang Zhengxiang)]] — third-generation profile in 2023 TAHS publication; Charles and Becky are his grandparents per owner statement in LINE
+- Spouse: [[people/becky-yang||Becky Yang]] (owner-verified relationship, 2026-08-02)
+- Grandson: [[people/yang-zhengxiang||Ethan Yang (楊正光 / Yang Zhengxiang)]] — third-generation profile in 2023 TAHS publication; Charles and Becky are his grandparents per owner statement in LINE
 
 ## TAHS Founding
 
@@ -100,25 +100,25 @@ Yang's legacy is the establishment of TAHS as an organization dedicated to docum
 
 ## Works
 
-**楊嘉猷** — **2** title hits, **9** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
+**楊嘉猷** — **2** title hits, **9** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
 
 ### 2026 (1)
 
-1. [[articles/taiwanjustice-net/2026/20260209111911_咱的故鄉-咱的故事-台美人追尋自我identity的人生-_-楊_b7a181b116206c11|咱的故鄉 咱的故事-第六講：東瀛歲月 ◎ 楊嘉猷]]
+1. [[articles/taiwanjustice-net/2026/20260209111911_咱的故鄉-咱的故事-台美人追尋自我identity的人生-_-楊_b7a181b116206c11||咱的故鄉 咱的故事-第六講：東瀛歲月 ◎ 楊嘉猷]]
 
 ### 2022 (1)
 
-1. [[articles/taiwanjustice-net/2022/20220122114800_2021_02_01_咱的故鄉-咱的故事-台美人追尋自我identity的人生-_-楊_f2a6026ae071fa32|咱的故鄉 咱的故事-台美人追尋自我(Identity)的人生 ◎ 楊嘉猷]]
+1. [[articles/taiwanjustice-net/2022/20220122114800_2021_02_01_咱的故鄉-咱的故事-台美人追尋自我identity的人生-_-楊_f2a6026ae071fa32||咱的故鄉 咱的故事-台美人追尋自我(Identity)的人生 ◎ 楊嘉猷]]
 
 ### Body mentions (9)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]]
-2. [[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6|2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]]
-3. [[articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3|旅美五十周年 ◎ 鄭炳全]]
-4. [[articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16|旅美五十周年 ◎ 鄭炳全]]
-5. [[articles/taiwanjustice-net/2024/20240425083432_root_99aaa4abcb78ff6d|台美人台加人]]
+1. [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b||2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]]
+2. [[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6||2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]]
+3. [[articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3||旅美五十周年 ◎ 鄭炳全]]
+4. [[articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16||旅美五十周年 ◎ 鄭炳全]]
+5. [[articles/taiwanjustice-net/2024/20240425083432_root_99aaa4abcb78ff6d||台美人台加人]]
 
 
 ## Network
@@ -128,37 +128,37 @@ Pages that link to **楊嘉猷** (yang-jia-you):
 
 ### People (22)
 
-1. [[people/alan-thian|alan-thian]]
-2. [[people/anne-shih|anne-shih]]
-3. [[people/bob-j-wu|bob-j-wu]]
-4. [[people/franklin-ping-cheng|franklin-ping-cheng]]
-5. [[people/ho-chie-tsai|ho-chie-tsai]]
-6. [[people/hsu-hsin-hung|hsu-hsin-hung]]
-7. [[people/huang-gen-shen|huang-gen-shen]]
-8. [[people/jack-j-chen|jack-j-chen]]
-9. [[people/katherine-huang|katherine-huang]]
-10. [[people/liao-shu-zong|liao-shu-zong]]
-11. [[people/lin-chao-quan|lin-chao-quan]]
-12. [[people/lin-fu-kun|lin-fu-kun]]
-13. [[people/lin-yuan-ching|lin-yuan-ching]]
-14. [[people/martha-vandriel|martha-vandriel]]
-15. [[people/shawna-yang-ryan|shawna-yang-ryan]]
-16. [[people/tiffany-huang|tiffany-huang]]
-17. [[people/wang-gui-rong|wang-gui-rong]]
-18. [[people/wang-neng-xiang|wang-neng-xiang]]
-19. [[people/wang-yao-ting|wang-yao-ting]]
-20. [[people/zheng-bing-quan|zheng-bing-quan]]
-21. [[people/zhou-wei-lin|zhou-wei-lin]]
-22. [[people/zhou-wei-lin|zhou-wei-lin]]
+1. [[people/alan-thian||alan-thian]]
+2. [[people/anne-shih||anne-shih]]
+3. [[people/bob-j-wu||bob-j-wu]]
+4. [[people/franklin-ping-cheng||franklin-ping-cheng]]
+5. [[people/ho-chie-tsai||ho-chie-tsai]]
+6. [[people/hsu-hsin-hung||hsu-hsin-hung]]
+7. [[people/huang-gen-shen||huang-gen-shen]]
+8. [[people/jack-j-chen||jack-j-chen]]
+9. [[people/katherine-huang||katherine-huang]]
+10. [[people/liao-shu-zong||liao-shu-zong]]
+11. [[people/lin-chao-quan||lin-chao-quan]]
+12. [[people/lin-fu-kun||lin-fu-kun]]
+13. [[people/lin-yuan-ching||lin-yuan-ching]]
+14. [[people/martha-vandriel||martha-vandriel]]
+15. [[people/shawna-yang-ryan||shawna-yang-ryan]]
+16. [[people/tiffany-huang||tiffany-huang]]
+17. [[people/wang-gui-rong||wang-gui-rong]]
+18. [[people/wang-neng-xiang||wang-neng-xiang]]
+19. [[people/wang-yao-ting||wang-yao-ting]]
+20. [[people/zheng-bing-quan||zheng-bing-quan]]
+21. [[people/zhou-wei-lin||zhou-wei-lin]]
+22. [[people/zhou-wei-lin||zhou-wei-lin]]
 
 ### Organizations (1)
 
-1. [[organizations/taiwanese-american-historical-society|taiwanese-american-historical-society]]
+1. [[organizations/taiwanese-american-historical-society||taiwanese-american-historical-society]]
 
 ### Sources (2)
 
-1. [[sources/2017-tahs-publication|2017-tahs-publication]]
-2. [[sources/2017-tahs-publication|2017-tahs-publication]]
+1. [[sources/2017-tahs-publication||2017-tahs-publication]]
+2. [[sources/2017-tahs-publication||2017-tahs-publication]]
 
 ## Timeline
 
@@ -263,12 +263,12 @@ Notable quotes and mentions of **楊嘉猷** in Taiwan Justice articles:
   - Live URL: [台美人歷史協會新任會長許景鴻接椽](https://echocanhelp.github.io/wiki-public/articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74.html)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
+- [[organizations/tah-foundation||TAH Foundation]]
 
-- [[people/becky-yang|Becky Yang]]
-- [[people/yang-zhengxiang|Ethan Yang (楊正光)]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]]
+- [[people/becky-yang||Becky Yang]]
+- [[people/yang-zhengxiang||Ethan Yang (楊正光)]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[people/leonard-hsu-jr||Leonard Hsu Jr. (許景鴻)]]
 - 2017 TAHS Publication (source hub page pending restore on disk)
 - Franklin Ping Cheng (程炳成) — TAHS president 2014–2017 (page pending restore)
 - Wang Gui-rong (王桂榮); Huang Gen-shen (黃根深) — founding-era members (pages pending restore)

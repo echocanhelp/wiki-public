@@ -41,5 +41,5 @@ Samuel S. Cheung has performed as an accompanist in recitals at Carnegie Hall, M
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/samuel-s-cheung/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

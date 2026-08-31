@@ -33,7 +33,7 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Husband:** [[people/william-cho|卓甫良]]
+- **Husband:** [[people/william-cho||卓甫良]]
 - **Daughter:** Elsa 卓慧麗
 - **Daughter:** Esther 卓慧文
 
@@ -43,5 +43,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/carol-cho/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

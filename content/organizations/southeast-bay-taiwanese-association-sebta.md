@@ -22,5 +22,5 @@ The Southeast Bay Taiwanese Association (SEBTA, 東南灣台灣同鄉會) is a r
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/southeast-bay-taiwanese-association-sebta/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

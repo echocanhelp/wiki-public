@@ -40,5 +40,5 @@ President and Chairman, Formosan Chamber of Commerce, Orange County
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/san-john-huang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

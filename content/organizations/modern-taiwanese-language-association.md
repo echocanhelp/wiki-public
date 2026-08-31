@@ -22,5 +22,5 @@ The Modern Taiwanese Language Association (MTLA) was founded in 2003 by teachers
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/modern-taiwanese-language-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

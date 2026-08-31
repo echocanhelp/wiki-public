@@ -22,5 +22,5 @@ Overseas Taiwanese for Democracy (海外台灣青年陣線) is a North American 
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/overseas-taiwanese-for-democracy/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -47,11 +47,11 @@ Pages that link to **choan-seng-song** (choan-seng-song):
 
 ### People (1)
 
-1. [[people/index|index]]
+1. [[people/index||index]]
 
 ### Organizations (1)
 
-1. [[organizations/index|index]]
+1. [[organizations/index||index]]
 
 ## Source Notes and Confidence
 
@@ -97,7 +97,7 @@ Use the shared intake process at Echopedia Community Contributions Hub and inclu
 - **Wife:** 陳美滿
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
+- [[organizations/tah-foundation||TAH Foundation]]
 - toward-a-community-of-hope
-- [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan (台灣基督長老教會)]]
+- [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan (台灣基督長老教會)]]
 - Echopedia Person Recordation Framework

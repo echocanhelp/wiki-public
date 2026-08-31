@@ -61,7 +61,7 @@ Before "Moment," Tiffany had previously created work for church/missionary group
 
 - **Content priority A:** 2017 TAHS Publication (profile Part 2, ~66 lines)
 - **Content priority A:** Contains biographical narrative including education, National Geographic project, and previous work
-- **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
+- **Hub:** [[sources/2017-tahs-publication||2017 TAHS Publication]]
 - **Note:** The full text includes detailed biographical information including education, National Geographic project details, and previous work.
 
 ## Sources
@@ -83,9 +83,9 @@ Before "Moment," Tiffany had previously created work for church/missionary group
 - **Mother:** 張瑞菊
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
+- [[organizations/tah-foundation||TAH Foundation]]
 
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/2017-tahs-publication|2017 TAHS Publication]]
-- [[people/franklin-ping-cheng|Franklin Ping Cheng (程炳成) — TAHS president]]
-- [[people/yang-jia-you|Charles Yang (楊嘉猷) — TAHS founding president]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/2017-tahs-publication||2017 TAHS Publication]]
+- [[people/franklin-ping-cheng||Franklin Ping Cheng (程炳成) — TAHS president]]
+- [[people/yang-jia-you||Charles Yang (楊嘉猷) — TAHS founding president]]

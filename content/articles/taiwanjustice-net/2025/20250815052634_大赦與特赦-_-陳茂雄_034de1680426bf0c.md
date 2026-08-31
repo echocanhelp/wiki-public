@@ -20,7 +20,7 @@ categories:
 - sopt-light-article
 - chen-mao-xiong
 authors:
-  - [[people/chen-maoxiong|陳茂雄]]
+  - [[people/chen-maoxiong||陳茂雄]]
 ---
 
 2024-05-07

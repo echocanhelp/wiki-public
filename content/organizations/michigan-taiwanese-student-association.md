@@ -22,5 +22,5 @@ The Michigan Taiwanese Student Association (MTSA) is a Taiwanese student organiz
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/michigan-taiwanese-student-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

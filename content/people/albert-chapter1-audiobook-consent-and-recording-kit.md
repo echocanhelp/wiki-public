@@ -58,7 +58,7 @@ Before full production, produce a 60–90 second pilot and check:
 - Approval from stakeholders
 
 Status update:
-- Full Chapter 1 narration has now been published at [[people/albert-chapter1-audiobook-taiwanese-female|Albert Chapter 1 Audiobook（第一章有聲版）]].
+- Full Chapter 1 narration has now been published at [[people/albert-chapter1-audiobook-taiwanese-female||Albert Chapter 1 Audiobook（第一章有聲版）]].
 
 ## Identity Snapshot
 - Type: Production kit / consent documentation
@@ -89,5 +89,5 @@ Do **not** upload signed consents, personal phone numbers, or raw session WAVs t
 - toward-a-community-of-hope-chapter-i-formosan-in-formosa-yesterday
 - toward-a-community-of-hope
 - echopedia-community-contributions-hub
-- [[people/albert-chapter1-audiobook-taiwanese-female|Albert Chapter 1 Audiobook（第一章有聲版）]]
-- [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
+- [[people/albert-chapter1-audiobook-taiwanese-female||Albert Chapter 1 Audiobook（第一章有聲版）]]
+- [[people/albert-s-lai||Dr. Albert S. Lai (賴信雄)]]

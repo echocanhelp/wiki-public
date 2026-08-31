@@ -16,7 +16,7 @@ last_reviewed: 2026-07-22
 > **Status: stub / partial drift — not a full WEBSITE_INGEST.** No `web-archives/ocac*` corpus. **Not** in `source-watch-registry` (live-site continuity). Do not treat as an ingested live website until Gate A completes.
 
 
-Official website of the **[[organizations/overseas-community-affairs-council|Overseas Community Affairs Council (僑務委員會)]]**, a cabinet-level council of the Executive Yuan of the Republic of China (Taiwan).
+Official website of the **[[organizations/overseas-community-affairs-council||Overseas Community Affairs Council (僑務委員會)]]**, a cabinet-level council of the Executive Yuan of the Republic of China (Taiwan).
 
 - **Live site (ZH):** [http://www.ocac.gov.tw](http://www.ocac.gov.tw/)
 - **Live site (EN):** [https://www.ocac.gov.tw/OCAC/Eng](https://www.ocac.gov.tw/OCAC/Eng/)
@@ -38,14 +38,14 @@ OCAC's website is a large government portal with sections for:
 
 ## How Echopedia uses this source
 
-1. Facts applied to **[[organizations/overseas-community-affairs-council|OCAC]]** primary page
+1. Facts applied to **[[organizations/overseas-community-affairs-council||OCAC]]** primary page
 2. Overseas offices referenced in relation to Taiwanese-American community services
-3. Education programs linked to [[organizations/taiwan-center|Taiwan Center]] Taiwan School coordination
+3. Education programs linked to [[organizations/taiwan-center||Taiwan Center]] Taiwan School coordination
 4. Certification services relevant to Taiwanese-American identity documentation
 
 ## Related Pages
 
-- [[organizations/overseas-community-affairs-council|Overseas Community Affairs Council]]
-- [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]]
-- [[people/ken-wu|Ken Wu (吳兆峯)]]
-- [[people/hsu-hsin-hung|Hsu Hsin-hung (許信宏)]]
+- [[organizations/overseas-community-affairs-council||Overseas Community Affairs Council]]
+- [[organizations/taiwan-center||Taiwan Center Foundation of the Greater Los Angeles]]
+- [[people/ken-wu||Ken Wu (吳兆峯)]]
+- [[people/hsu-hsin-hung||Hsu Hsin-hung (許信宏)]]

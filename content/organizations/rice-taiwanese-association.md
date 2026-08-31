@@ -22,5 +22,5 @@ The Rice Taiwanese Association (RTA) is a non-partisan cultural and social organ
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/rice-taiwanese-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

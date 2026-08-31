@@ -49,18 +49,18 @@ Pages that link to **lin-qiong-xian** (lin-qiong-xian):
 
 ### People (2)
 
-1. [[people/guo-shu-qing|guo-shu-qing]]
-2. [[people/liao-ji-chun|liao-ji-chun]]
+1. [[people/guo-shu-qing||guo-shu-qing]]
+2. [[people/liao-ji-chun||liao-ji-chun]]
 
 ## Source Notes and Confidence
 
 - **Content priority A:** 2017 TAHS Publication 生命的執著 (The Persistence of Life) — Liao Shu-zong profile, Part 2, mentions of mother
-- **Content priority A:** Memorial by [[people/yang-jia-you|楊嘉猷]] (Charles Yang), Part 2, L22–23 — mentions 林瓊仙 as from 清水 (Qingshui), same hometown as Yang family
-- **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
+- **Content priority A:** Memorial by [[people/yang-jia-you||楊嘉猷]] (Charles Yang), Part 2, L22–23 — mentions 林瓊仙 as from 清水 (Qingshui), same hometown as Yang family
+- **Hub:** [[sources/2017-tahs-publication||2017 TAHS Publication]]
 
 ## Related Pages
 
-- [[people/liao-shu-zong|廖述宗 (Liao Shu-zong) — son, biochemist]]
-- [[people/liao-ji-chun|廖繼春 (Liao Jichun) — husband, painter]]
-- [[people/guo-shu-qing|郭淑卿 (Guo Shu-qing) — daughter-in-law]]
-- [[sources/2017-tahs-publication|2017 TAHS Publication]]
+- [[people/liao-shu-zong||廖述宗 (Liao Shu-zong) — son, biochemist]]
+- [[people/liao-ji-chun||廖繼春 (Liao Jichun) — husband, painter]]
+- [[people/guo-shu-qing||郭淑卿 (Guo Shu-qing) — daughter-in-law]]
+- [[sources/2017-tahs-publication||2017 TAHS Publication]]

@@ -45,8 +45,8 @@ Accomplishment
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rev-james-chang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## Network
-- [[organizations/presbyterian-church-in-taiwan|PCT]] — TAH Who’s Who
+- [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who

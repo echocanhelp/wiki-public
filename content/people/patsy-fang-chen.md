@@ -49,5 +49,5 @@ Patsy Fang Chen was born in Taipei, Taiwan, graduated with the highest honor fro
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/patsy-fang-chen/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

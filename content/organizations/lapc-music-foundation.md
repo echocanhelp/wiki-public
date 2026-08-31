@@ -22,5 +22,5 @@ LAPC Music Foundation is an arts and cultural organization based in Garden Grove
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/lapc-music-foundation/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

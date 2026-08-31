@@ -22,5 +22,5 @@ The Arizona Taiwanese Student Association (ATSA) is a registered student organiz
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/arizona-taiwanese-student-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

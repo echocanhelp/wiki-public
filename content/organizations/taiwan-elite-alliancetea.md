@@ -22,5 +22,5 @@ Taiwan Elite Alliance (TEA) is a California-based nonprofit organization establi
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwan-elite-alliancetea/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

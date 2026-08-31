@@ -32,7 +32,7 @@ Accomplishment
 
 ## Family
 
-- **Husband:** [[people/k-d-wang|王康德]]
+- **Husband:** [[people/k-d-wang||王康德]]
 
 
 ## Sources
@@ -41,5 +41,5 @@ Accomplishment
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/helen-wang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

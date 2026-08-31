@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/the-hsu-nami-performs-at-stairway-to-the-dream-stage-11|The Hsu-nami Performs at &#8220;Stairway to the Dream &#8211; Stage 11&#8221;]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/the-hsu-nami-performs-at-stairway-to-the-dream-stage-11||The Hsu-nami Performs at &#8220;Stairway to the Dream &#8211; Stage 11&#8221;]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

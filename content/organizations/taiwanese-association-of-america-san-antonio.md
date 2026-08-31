@@ -22,5 +22,5 @@ The Taiwanese Association of America San Antonio (TAASA) is a chapter of the Tai
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-san-antonio/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

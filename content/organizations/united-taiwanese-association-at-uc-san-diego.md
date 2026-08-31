@@ -22,5 +22,5 @@ The United Taiwanese Association (UTA) at UC San Diego â€” known in Chinese as å
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/united-taiwanese-association-at-uc-san-diego/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

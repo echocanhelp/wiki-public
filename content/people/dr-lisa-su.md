@@ -31,8 +31,8 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Husband:** [[people/daniel-lin|Daniel Lin]]
-- **Father:** [[people/su-chun-huai|蘇春槐]]
+- **Husband:** [[people/daniel-lin||Daniel Lin]]
+- **Father:** [[people/su-chun-huai||蘇春槐]]
 - **Mother:** 羅淑雅
 
 
@@ -43,5 +43,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-lisa-su/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

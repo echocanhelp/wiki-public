@@ -41,5 +41,5 @@ Chun Long (Jerry) Tsung 曾俊隆 – History of Taiwanese American (T.A. Archiv
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chun-long-jerry-tsung/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

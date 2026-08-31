@@ -32,7 +32,7 @@ Amanda H.M. Chen (Conductor). Amanda Chen holds a BS degree in Political Science
 
 ## Family
 
-- **Husband:** [[people/frank-c-h-chen|陳治煌]]
+- **Husband:** [[people/frank-c-h-chen||陳治煌]]
 - **Daughter:** 3
 
 
@@ -42,5 +42,5 @@ Amanda H.M. Chen (Conductor). Amanda Chen holds a BS degree in Political Science
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/amanda-hsu/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

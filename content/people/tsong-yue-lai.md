@@ -39,7 +39,7 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Wife:** [[people/shu-lai|賴淑遠]]
+- **Wife:** [[people/shu-lai||賴淑遠]]
 - **Daughter:** Sharon Lai
 - **Son:** Irving Lai
 
@@ -48,5 +48,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tsong-yue-lai/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

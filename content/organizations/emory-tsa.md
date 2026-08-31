@@ -22,5 +22,5 @@ Emory TSA (台灣學生會, Taiwanese Student Association) is a student organiza
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/emory-tsa/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

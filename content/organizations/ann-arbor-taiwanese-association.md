@@ -22,5 +22,5 @@ The Ann Arbor Taiwanese Association (AATA) is a community organization serving T
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/ann-arbor-taiwanese-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

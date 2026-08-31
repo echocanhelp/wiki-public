@@ -14,7 +14,7 @@ last_reviewed: 2026-07-17
 ---
 # Dr. Yunching Yeh Davis (葉芸青)
 
-**Dr. Yunching Yeh Davis (葉芸青)** is **主席** of the [[organizations/national-taiwanese-presbyterian-council|NTPC]] 執委會 for **2025/26** (西南區代表; [ntpc-usa.org](https://www.ntpc-usa.org/)). She authored the NTPC foreword **"Half a Century of Faith and Mission"** for the 2025 republication of [[people/albert-s-lai|Dr. Albert S. Lai]]'s 1971 dissertation [[sources/toward-a-community-of-hope|Toward A Community of Hope]]. She also serves as **NTPW 書記** (Secretary) for 2025. Earlier site letters list her as 書記 / 會計 / 婦女事工 in prior years — same person, successive offices.
+**Dr. Yunching Yeh Davis (葉芸青)** is **主席** of the [[organizations/national-taiwanese-presbyterian-council||NTPC]] 執委會 for **2025/26** (西南區代表; [ntpc-usa.org](https://www.ntpc-usa.org/)). She authored the NTPC foreword **"Half a Century of Faith and Mission"** for the 2025 republication of [[people/albert-s-lai||Dr. Albert S. Lai]]'s 1971 dissertation [[sources/toward-a-community-of-hope||Toward A Community of Hope]]. She also serves as **NTPW 書記** (Secretary) for 2025. Earlier site letters list her as 書記 / 會計 / 婦女事工 in prior years — same person, successive offices.
 
 ## Identity Snapshot
 
@@ -26,10 +26,10 @@ last_reviewed: 2026-07-17
 
 ## Role in the 2025 Republication
 
-> **Primary work page:** [[sources/toward-a-community-of-hope|Toward A Community of Hope (work & sources)]]  
+> **Primary work page:** [[sources/toward-a-community-of-hope||Toward A Community of Hope (work & sources)]]  
 > **Full text (GitHub):** [complete extract](https://github.com/echocanhelp/wiki-public/blob/gh-pages/knowledge/web-archives/albert-lai-toward-community-of-hope.md)
 
-In the NTPC foreword, Dr. Yeh Davis framed Lai's work as both theological and prophetic: at a time when Taiwanese immigrant churches in North America were still in their infancy—especially [[organizations/formosan-presbyterian-church-in-los-angeles|FPCLA]], the first of its kind on the continent—Lai called the church to become a **missional community**, not merely a haven for immigrants.
+In the NTPC foreword, Dr. Yeh Davis framed Lai's work as both theological and prophetic: at a time when Taiwanese immigrant churches in North America were still in their infancy—especially [[organizations/formosan-presbyterian-church-in-los-angeles||FPCLA]], the first of its kind on the continent—Lai called the church to become a **missional community**, not merely a haven for immigrants.
 
 Key themes:
 
@@ -45,7 +45,7 @@ Key themes:
 
 ### Title Mentions (1 article)
 
-1. **2025** — [[sources/toward-a-community-of-hope|Toward A Community of Hope (2025 NTPC Foreword)]] — NTPC Moderator; foreword author
+1. **2025** — [[sources/toward-a-community-of-hope||Toward A Community of Hope (2025 NTPC Foreword)]] — NTPC Moderator; foreword author
 
 ## Publications
 
@@ -69,22 +69,22 @@ Pages that link to **yunching-yeh-davis** (yunching-yeh-davis):
 
 ### People (7)
 
-1. [[people/albert-s-lai|albert-s-lai]]
-2. [[people/albert-s-lai|albert-s-lai]]
-3. [[people/ching-fang-chen|ching-fang-chen]]
-4. [[people/en-sheng-pan|en-sheng-pan]]
-5. [[people/index|index]]
-6. [[organizations/national-taiwanese-presbyterian-council|ntpc]]
-7. [[people/pinghsi-liu|pinghsi-liu]]
+1. [[people/albert-s-lai||albert-s-lai]]
+2. [[people/albert-s-lai||albert-s-lai]]
+3. [[people/ching-fang-chen||ching-fang-chen]]
+4. [[people/en-sheng-pan||en-sheng-pan]]
+5. [[people/index||index]]
+6. [[organizations/national-taiwanese-presbyterian-council||ntpc]]
+7. [[people/pinghsi-liu||pinghsi-liu]]
 
 ### Organizations (2)
 
-1. [[organizations/national-taiwanese-presbyterian-council|national-taiwanese-presbyterian-council]]
-2. [[organizations/national-taiwanese-presbyterian-council|national-taiwanese-presbyterian-council]]
+1. [[organizations/national-taiwanese-presbyterian-council||national-taiwanese-presbyterian-council]]
+2. [[organizations/national-taiwanese-presbyterian-council||national-taiwanese-presbyterian-council]]
 
 ### Sources (1)
 
-1. [[sources/toward-a-community-of-hope|toward-a-community-of-hope]]
+1. [[sources/toward-a-community-of-hope||toward-a-community-of-hope]]
 
 ## Source Notes and Confidence
 
@@ -97,10 +97,10 @@ Pages that link to **yunching-yeh-davis** (yunching-yeh-davis):
 
 ## Related Pages
 
-- [[sources/toward-a-community-of-hope|Toward A Community of Hope]]
-- [[organizations/national-taiwanese-presbyterian-council|National Taiwanese Presbyterian Council (NTPC)]]
-- [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
-- [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
-- [[people/ching-fang-chen|Rev. Ching Fang Chen (陳清芳)]]
-- [[people/en-sheng-pan|Rev. En Sheng Pan (潘恩盛)]]
-- [[people/mingyuan-hsu|Rev. Mingyuan Hsu (許明遠)]]
+- [[sources/toward-a-community-of-hope||Toward A Community of Hope]]
+- [[organizations/national-taiwanese-presbyterian-council||National Taiwanese Presbyterian Council (NTPC)]]
+- [[people/albert-s-lai||Dr. Albert S. Lai (賴信雄)]]
+- [[organizations/formosan-presbyterian-church-in-los-angeles||Formosan Presbyterian Church in Los Angeles (FPCLA)]]
+- [[people/ching-fang-chen||Rev. Ching Fang Chen (陳清芳)]]
+- [[people/en-sheng-pan||Rev. En Sheng Pan (潘恩盛)]]
+- [[people/mingyuan-hsu||Rev. Mingyuan Hsu (許明遠)]]

@@ -22,5 +22,5 @@ The Taiwanese American Association East San Gabriel Valley (洛杉磯聖東台�
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-association-east-san-gabriel-valley/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

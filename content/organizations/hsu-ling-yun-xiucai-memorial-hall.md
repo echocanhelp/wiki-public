@@ -14,14 +14,14 @@ last_reviewed: 2026-08-16
 
 # Hsu Ling-yun Xiucai Memorial Hall (許凌雲秀才紀念館)
 
-The **Hsu Ling-yun Xiucai Memorial Hall** (許凌雲秀才紀念館; also 存養軒書房) is the former home and village school of [[people/hsu-ling-yun|Hsu Ling-yun (許凌雲)]], a Qing *xiucai* and early Penghu Presbyterian educator. It stands at **Watong Village No. 51, Baisha Township, Penghu** (884). Penghu County registered it as a **commemorative building** (紀念性建築) in 2022.
+The **Hsu Ling-yun Xiucai Memorial Hall** (許凌雲秀才紀念館; also 存養軒書房) is the former home and village school of [[people/hsu-ling-yun||Hsu Ling-yun (許凌雲)]], a Qing *xiucai* and early Penghu Presbyterian educator. It stands at **Watong Village No. 51, Baisha Township, Penghu** (884). Penghu County registered it as a **commemorative building** (紀念性建築) in 2022.
 
 ## Identity Snapshot
 
 - **Type:** Historic house / commemorative building / former *sishu*
 - **Address:** 884 澎湖縣白沙鄉瓦硐村51號 (Japanese-era 瓦硐港鄉47番戶)
 - **Maps:** [Google Maps pin](https://maps.app.goo.gl/zr7ehjcTyUvK9pd69)
-- **Person commemorated:** [[people/hsu-ling-yun|Hsu Ling-yun (許凌雲, 1862–1944)]]
+- **Person commemorated:** [[people/hsu-ling-yun||Hsu Ling-yun (許凌雲, 1862–1944)]]
 - **Heritage:** Penghu County commemorative building (announced 5 Mar 2022; later listed on the national cultural-assets overview)
 
 ## Building
@@ -34,8 +34,8 @@ Descendant Hsu Ya-chin (許雅琴) led the heritage application (reviewed Mar 20
 
 ## Related Pages
 
-- [[people/hsu-ling-yun|Hsu Ling-yun (許凌雲)]]
-- [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]]
+- [[people/hsu-ling-yun||Hsu Ling-yun (許凌雲)]]
+- [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan]]
 
 ## Sources
 

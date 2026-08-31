@@ -22,5 +22,5 @@ The Columbia University Taiwanese Student Association (CUTSA / 哥倫比亞大�
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/columbia-university-taiwanese-student-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

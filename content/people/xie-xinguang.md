@@ -12,7 +12,7 @@ last_reviewed: 2026-08-19
 ---
 # Rev. Xie Xinguang (謝信光)
 
-**Rev. Xie Xinguang (謝信光)** is a Taiwanese-American ordained minister serving as **書記** (Clerk) of the [[organizations/national-taiwanese-presbyterian-council|NTPC]] 執委會 for **2025/26** (西南區主席). He is also the TPC (Taiwanese Presbyterian Church) chair for the Southwest District. Site contact email: frankhsieh7@gmail.com.
+**Rev. Xie Xinguang (謝信光)** is a Taiwanese-American ordained minister serving as **書記** (Clerk) of the [[organizations/national-taiwanese-presbyterian-council||NTPC]] 執委會 for **2025/26** (西南區主席). He is also the TPC (Taiwanese Presbyterian Church) chair for the Southwest District. Site contact email: frankhsieh7@gmail.com.
 
 ## Identity Snapshot
 
@@ -38,9 +38,9 @@ He is the receiving point for church reports submitted to the Annual Meeting. Th
 
 ## Related Pages
 
-- [[organizations/national-taiwanese-presbyterian-council|National Taiwanese Presbyterian Council (NTPC)]]
-- [[people/yunching-yeh-davis|Dr. Yunching Yeh Davis (葉芸青)]]
-- [[people/chen-hui-chen|Chen Hui-Chen (陳慧貞)]]
-- [[people/zhang-aihui|Zhang Ai-Hui (張愛惠)]]
-- [[people/lin-yushu|Lin Yu-Shu (林育武)]]
-- [[sources/ntpc-usa-org|NTPC USA source hub]]
+- [[organizations/national-taiwanese-presbyterian-council||National Taiwanese Presbyterian Council (NTPC)]]
+- [[people/yunching-yeh-davis||Dr. Yunching Yeh Davis (葉芸青)]]
+- [[people/chen-hui-chen||Chen Hui-Chen (陳慧貞)]]
+- [[people/zhang-aihui||Zhang Ai-Hui (張愛惠)]]
+- [[people/lin-yushu||Lin Yu-Shu (林育武)]]
+- [[sources/ntpc-usa-org||NTPC USA source hub]]

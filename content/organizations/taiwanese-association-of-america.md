@@ -22,5 +22,5 @@ The Taiwanese Association of America (TAA, 全美台灣同鄉會) is a national 
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

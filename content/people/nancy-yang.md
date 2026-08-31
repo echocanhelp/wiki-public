@@ -40,5 +40,5 @@ Nancy Yang graduated from the University of California, Berkeley, with a Masterâ
 - [TAH Whoâ€™s Who](https://taiwaneseamericanhistory.org/person/nancy-yang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

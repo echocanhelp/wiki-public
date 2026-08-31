@@ -33,7 +33,7 @@ Rosalyne Formosa Shieh 謝泊欣 – History of Taiwanese American (T.A. Archive
 
 ## Family
 
-- **Father:** [[people/ching-sze-hsieh|謝清志博士]]
+- **Father:** [[people/ching-sze-hsieh||謝清志博士]]
 - **Mother:** 蔡淑敏
 
 
@@ -42,5 +42,5 @@ Rosalyne Formosa Shieh 謝泊欣 – History of Taiwanese American (T.A. Archive
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rosalyne-formosa-shieh/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

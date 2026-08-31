@@ -41,5 +41,5 @@ A native of Taiwan, Daphne Tsao began her musical training on piano at age of 3,
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/daphne-tsao/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

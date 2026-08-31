@@ -43,5 +43,5 @@ The Atlanta Symphony’s Assistant Concertmaster since 1988, Jun-Ching Lin was c
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jun-ching-lin/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

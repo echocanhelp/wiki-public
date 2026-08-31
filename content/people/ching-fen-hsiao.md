@@ -31,7 +31,7 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Wife:** [[people/peggy-cooley|Peggy Cooley]]
+- **Wife:** [[people/peggy-cooley||Peggy Cooley]]
 - **Daughter:** Bi-Khim蕭美琴
 - **Son:** 蕭啟仁
 - **Daughter:** 蕭美瑟
@@ -42,8 +42,8 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ching-fen-hsiao/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## Network
-- [[organizations/presbyterian-church-in-taiwan|PCT]] — TAH Who’s Who
+- [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who

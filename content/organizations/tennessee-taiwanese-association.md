@@ -22,5 +22,5 @@ The Tennessee Taiwanese Association (田納西州大納許維爾台灣同鄉會)
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/tennessee-taiwanese-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

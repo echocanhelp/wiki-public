@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/movie-night-you-are-the-apple-of-my-eye-with-tap-ny|Movie Night &#8220;You are the Apple of my Eye&#8221; with TAP-NY]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/movie-night-you-are-the-apple-of-my-eye-with-tap-ny||Movie Night &#8220;You are the Apple of my Eye&#8221; with TAP-NY]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

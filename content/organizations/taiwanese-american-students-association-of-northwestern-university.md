@@ -22,5 +22,5 @@ The Taiwanese American Students Association (TASA) at Northwestern University is
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-students-association-of-northwestern-university/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

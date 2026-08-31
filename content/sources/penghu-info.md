@@ -31,9 +31,9 @@ last_reviewed: 2026-08-30
 - 瓦硐許姓 `OB9B088F09F89D8B7F9E` (Xuu clan, 始祖 1618)
 
 ## Linked pages
-- [[people/hsu-ling-yun|Hsu Ling-yun (許凌雲)]]
-- [[people/hsu-ching-chun|Hsu Ching-chun (許景淳)]] — 靖樂 11 世 (clan note only)
-- [[organizations/hsu-ling-yun-xiucai-memorial-hall|Hsu Ling-yun Xiucai Memorial Hall]]
+- [[people/hsu-ling-yun||Hsu Ling-yun (許凌雲)]]
+- [[people/hsu-ching-chun||Hsu Ching-chun (許景淳)]] — 靖樂 11 世 (clan note only)
+- [[organizations/hsu-ling-yun-xiucai-memorial-hall||Hsu Ling-yun Xiucai Memorial Hall]]
 
 ## Facts for enrichment
 - **Historical anchors cited on Tier1:** 許凌雲 (秀才, 1862–1944), 凌雲秀才紀念館 / 存養軒書房, 瓦硐 (白沙島), 許凌雲秀才 紀念建築 (2022 澎湖縣), 靖樂 lineage.

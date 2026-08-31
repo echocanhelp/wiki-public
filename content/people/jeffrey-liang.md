@@ -33,12 +33,12 @@ A native of Taiwan, conductor and trombonist Dr. Jeffrey Liang received his musi
 
 ## Family
 
-- **Wife:** [[people/joyce-lin|Joyce Lin]]
+- **Wife:** [[people/joyce-lin||Joyce Lin]]
 
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jeffrey-liang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

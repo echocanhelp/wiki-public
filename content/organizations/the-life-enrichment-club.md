@@ -22,5 +22,5 @@ The Life Enrichment Club is a discussion group organized on June 22, 2009, by Su
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/the-life-enrichment-club/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

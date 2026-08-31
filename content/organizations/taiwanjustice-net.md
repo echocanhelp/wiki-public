@@ -12,7 +12,7 @@ last_reviewed: 2026-07-28
 ---
 # taiwanjustice.net (台灣公義網)
 
-**taiwanjustice.net** (台灣公義網) is a Taiwanese-American news and opinion publication founded and published by [[people/freeman-huang|Freeman Huang (黃樹人)]]. The site covers Taiwan-related social and political issues, with content spanning international news, Taiwan domestic affairs, U.S. politics, opinion columns, and video series. It was archived via the Wayback Machine (59,422 unique URLs) and ingested into Echopedia as a full-domain source.
+**taiwanjustice.net** (台灣公義網) is a Taiwanese-American news and opinion publication founded and published by [[people/freeman-huang||Freeman Huang (黃樹人)]]. The site covers Taiwan-related social and political issues, with content spanning international news, Taiwan domestic affairs, U.S. politics, opinion columns, and video series. It was archived via the Wayback Machine (59,422 unique URLs) and ingested into Echopedia as a full-domain source.
 
 ## Identity Snapshot
 
@@ -20,7 +20,7 @@ last_reviewed: 2026-07-28
 - **English:** taiwanjustice.net
 - **Type:** News/opinion website
 - **Founded:** 2015
-- **Publisher:** [[people/freeman-huang|Freeman Huang (黃樹人)]]
+- **Publisher:** [[people/freeman-huang||Freeman Huang (黃樹人)]]
 - **Geography:** Southern California / Taiwan-focused content
 - **Language:** 99.7% Traditional Chinese (zh-Hant), 185 English files
 - **Archive:** Wayback Machine `id_` captures → 29,103 markdown files (143.1 MB)
@@ -77,42 +77,42 @@ The archive contains **29,103 markdown files** (81.8 MB of text) organized by ye
 
 The site features a regular column section with contributions from 21 writers. Thin people pages have been created for each:
 
-- [[people/chen-po-kong|Chen Po-kong (陳破空)]] — 463 articles
-- [[people/chen-maoxiong|Chen Mao-xiong (陳茂雄)]] — 475 articles
-- [[people/chen-zhaonan|Chen Chao-nan (陳昭南)]] — 398 articles
-- [[people/lin-baohua|Lin Bao-hua (林保華)]] — 241 articles
-- [[people/yu-jie|Yu Chieh (余杰)]] — 99 articles
-- [[people/fan-jiang-ti-ang|Fan Chiang Tsiang (范姜提昂)]] — 66 articles
-- [[people/yang-ziqing|Yang Zi-qing (楊子清)]] — 65 articles
-- [[people/huang-diyin|Huang Di-ying (黃帝穎)]] — 57 articles
-- [[people/he-qingxuan|He Qinglian (何清漣)]] — 50 articles
-- [[people/liao-qingshan|Liao Qing-shan (廖清山)]] — 37 articles
-- [[people/jin-hegui|Chin Heng-wei (金恆煒)]] — 9 articles
-- [[people/ian-easton|Ian Easton (易思安)]] — 3 articles
-- [[people/richard-d-fisher|Richard D. Fisher (費學禮)]] — 2 articles
-- [[people/john-j-tkacik|John J. Tkacik (譚慎格)]] — 1 article
-- [[people/ryan-hass|Ryan Hass (何瑞恩)]] — 2 articles
-- [[people/hong-ya|Hong Ya (洪雅)]] — 4 articles
-- [[people/zeng-daoxiong|Zeng Dao-xiong (曾道雄)]] — 6 articles
-- [[people/li-jian|Li Jian (李堅)]] — 10 articles
-- [[people/du-ao-cunfu|Du Ao Cunfu (獨傲村夫)]]
-- [[people/jiang-bai-xian|Jiang Bai-xian (江百顯)]]
-- [[people/gong-sun-le|Gong Sun-le (公孫樂)]]
+- [[people/chen-po-kong||Chen Po-kong (陳破空)]] — 463 articles
+- [[people/chen-maoxiong||Chen Mao-xiong (陳茂雄)]] — 475 articles
+- [[people/chen-zhaonan||Chen Chao-nan (陳昭南)]] — 398 articles
+- [[people/lin-baohua||Lin Bao-hua (林保華)]] — 241 articles
+- [[people/yu-jie||Yu Chieh (余杰)]] — 99 articles
+- [[people/fan-jiang-ti-ang||Fan Chiang Tsiang (范姜提昂)]] — 66 articles
+- [[people/yang-ziqing||Yang Zi-qing (楊子清)]] — 65 articles
+- [[people/huang-diyin||Huang Di-ying (黃帝穎)]] — 57 articles
+- [[people/he-qingxuan||He Qinglian (何清漣)]] — 50 articles
+- [[people/liao-qingshan||Liao Qing-shan (廖清山)]] — 37 articles
+- [[people/jin-hegui||Chin Heng-wei (金恆煒)]] — 9 articles
+- [[people/ian-easton||Ian Easton (易思安)]] — 3 articles
+- [[people/richard-d-fisher||Richard D. Fisher (費學禮)]] — 2 articles
+- [[people/john-j-tkacik||John J. Tkacik (譚慎格)]] — 1 article
+- [[people/ryan-hass||Ryan Hass (何瑞恩)]] — 2 articles
+- [[people/hong-ya||Hong Ya (洪雅)]] — 4 articles
+- [[people/zeng-daoxiong||Zeng Dao-xiong (曾道雄)]] — 6 articles
+- [[people/li-jian||Li Jian (李堅)]] — 10 articles
+- [[people/du-ao-cunfu||Du Ao Cunfu (獨傲村夫)]]
+- [[people/jiang-bai-xian||Jiang Bai-xian (江百顯)]]
+- [[people/gong-sun-le||Gong Sun-le (公孫樂)]]
 
 ### Political Figures
 
 The site covers Taiwanese politics extensively. Where Echopedia already has pages for these figures, wikilinks are used:
 
-- [[people/tsai-ing-wen|Tsai Ing-wen (蔡英文)]] — 222 articles (President 2016–2024)
-- [[people/lai-ching-te|Lai Ching-te (賴清德)]] — 211 articles (President 2024–)
-- [[people/ke-wenze|Ke Wenze (柯文哲)]] — 167 articles (Mayor Taipei / TPP)
-- [[people/han-guoyu|Han Guoyu (韓國瑜)]] — 124 articles (Kaohsiung Mayor / KMT)
-- [[people/ma-yingjeou|Ma Yingjeou (馬英九)]] — 109 articles (President 2008–2016)
-- [[people/hou-yu-ih|Hou Youyi (侯友宜)]] — 84 articles (Mayor Taichung / KMT)
-- [[people/lin-jialong|Lin Jialong (林佳龍)]] — 68 articles (Mayor Tainan)
-- [[people/wang-jinping|Wang Jinping (王金平)]] — 24 articles
-- [[people/frank-hsieh|Frank Hsieh (謝長廷)]] — 22 articles (Legislative Speaker)
-- [[people/chen-shuibian|Chen Shuibian (陳水扁)]] — 14 articles (President 2000–2008)
+- [[people/tsai-ing-wen||Tsai Ing-wen (蔡英文)]] — 222 articles (President 2016–2024)
+- [[people/lai-ching-te||Lai Ching-te (賴清德)]] — 211 articles (President 2024–)
+- [[people/ke-wenze||Ke Wenze (柯文哲)]] — 167 articles (Mayor Taipei / TPP)
+- [[people/han-guoyu||Han Guoyu (韓國瑜)]] — 124 articles (Kaohsiung Mayor / KMT)
+- [[people/ma-yingjeou||Ma Yingjeou (馬英九)]] — 109 articles (President 2008–2016)
+- [[people/hou-yu-ih||Hou Youyi (侯友宜)]] — 84 articles (Mayor Taichung / KMT)
+- [[people/lin-jialong||Lin Jialong (林佳龍)]] — 68 articles (Mayor Tainan)
+- [[people/wang-jinping||Wang Jinping (王金平)]] — 24 articles
+- [[people/frank-hsieh||Frank Hsieh (謝長廷)]] — 22 articles (Legislative Speaker)
+- [[people/chen-shuibian||Chen Shuibian (陳水扁)]] — 14 articles (President 2000–2008)
 
 ### Video Series
 
@@ -146,34 +146,34 @@ A systematic privacy gate scan was run on all 29,103 Tier 2 files. Content is sa
 - **Content priority A:** Publisher identity (Freeman Huang), article counts, date range — from `knowledge/research/taiwanjustice-net-entities.md`
 - **Content priority B:** Column author names and article counts — from Tier 2 title extraction
 - **Content priority C:** Video series names and article counts — from Tier 2 category extraction
-- **Hub:** [[sources/taiwanjustice-net|taiwanjustice.net source hub]]
-- **Article Archive:** [[articles/taiwanjustice-net/index|taiwanjustice.net Article Archive]] — 29,103 articles browseable by year and category
+- **Hub:** [[sources/taiwanjustice-net||taiwanjustice.net source hub]]
+- **Article Archive:** [[articles/taiwanjustice-net/index||taiwanjustice.net Article Archive]] — 29,103 articles browseable by year and category
 - **GitHub archive:** [Tier 2 files](https://github.com/echocanhelp/wiki-public/tree/gh-pages/knowledge/web-archives/taiwanjustice-net/tier2/)
 
 ## Related Pages
 
-- [[sources/taiwanjustice-net|taiwanjustice.net source hub]]
-- [[articles/taiwanjustice-net/index|taiwanjustice.net Article Archive]]
-- [[people/freeman-huang|Freeman Huang (黃樹人)]]
-- [[people/chen-po-kong|Chen Po-kong (陳破空)]]
-- [[people/chen-maoxiong|Chen Mao-xiong (陳茂雄)]]
-- [[people/chen-zhaonan|Chen Chao-nan (陳昭南)]]
-- [[people/lin-baohua|Lin Bao-hua (林保華)]]
-- [[people/yu-jie|Yu Chieh (余杰)]]
-- [[people/fan-jiang-ti-ang|Fan Chiang Tsiang (范姜提昂)]]
-- [[people/yang-ziqing|Yang Zi-qing (楊子清)]]
-- [[people/huang-diyin|Huang Di-ying (黃帝穎)]]
-- [[people/he-qingxuan|He Qinglian (何清漣)]]
-- [[people/liao-qingshan|Liao Qing-shan (廖清山)]]
-- [[people/jin-hegui|Chin Heng-wei (金恆煒)]]
-- [[people/ian-easton|Ian Easton (易思安)]]
-- [[people/richard-d-fisher|Richard D. Fisher (費學禮)]]
-- [[people/john-j-tkacik|John J. Tkacik (譚慎格)]]
-- [[people/ryan-hass|Ryan Hass (何瑞恩)]]
-- [[people/hong-ya|Hong Ya (洪雅)]]
-- [[people/zeng-daoxiong|Zeng Dao-xiong (曾道雄)]]
-- [[people/li-jian|Li Jian (李堅)]]
-- [[people/du-ao-cunfu|Du Ao Cunfu (獨傲村夫)]]
-- [[people/jiang-bai-xian|Jiang Bai-xian (江百顯)]]
-- [[people/gong-sun-le|Gong Sun-le (公孫樂)]]
-- [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
+- [[sources/taiwanjustice-net||taiwanjustice.net source hub]]
+- [[articles/taiwanjustice-net/index||taiwanjustice.net Article Archive]]
+- [[people/freeman-huang||Freeman Huang (黃樹人)]]
+- [[people/chen-po-kong||Chen Po-kong (陳破空)]]
+- [[people/chen-maoxiong||Chen Mao-xiong (陳茂雄)]]
+- [[people/chen-zhaonan||Chen Chao-nan (陳昭南)]]
+- [[people/lin-baohua||Lin Bao-hua (林保華)]]
+- [[people/yu-jie||Yu Chieh (余杰)]]
+- [[people/fan-jiang-ti-ang||Fan Chiang Tsiang (范姜提昂)]]
+- [[people/yang-ziqing||Yang Zi-qing (楊子清)]]
+- [[people/huang-diyin||Huang Di-ying (黃帝穎)]]
+- [[people/he-qingxuan||He Qinglian (何清漣)]]
+- [[people/liao-qingshan||Liao Qing-shan (廖清山)]]
+- [[people/jin-hegui||Chin Heng-wei (金恆煒)]]
+- [[people/ian-easton||Ian Easton (易思安)]]
+- [[people/richard-d-fisher||Richard D. Fisher (費學禮)]]
+- [[people/john-j-tkacik||John J. Tkacik (譚慎格)]]
+- [[people/ryan-hass||Ryan Hass (何瑞恩)]]
+- [[people/hong-ya||Hong Ya (洪雅)]]
+- [[people/zeng-daoxiong||Zeng Dao-xiong (曾道雄)]]
+- [[people/li-jian||Li Jian (李堅)]]
+- [[people/du-ao-cunfu||Du Ao Cunfu (獨傲村夫)]]
+- [[people/jiang-bai-xian||Jiang Bai-xian (江百顯)]]
+- [[people/gong-sun-le||Gong Sun-le (公孫樂)]]
+- [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society (TAHS)]]

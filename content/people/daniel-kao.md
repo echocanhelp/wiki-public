@@ -12,7 +12,7 @@ last_reviewed: 2026-07-15
 ---
 # Dr. Daniel Kao (高光民)
 
-**Dr. Daniel Kao (高光民)** and his wife are named by [[people/albert-s-lai|Dr. Albert S. Lai]] among the enthusiastic believers who **co-founded** the [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]] / Formosan Christian Church in the 1970 founding generation.
+**Dr. Daniel Kao (高光民)** and his wife are named by [[people/albert-s-lai||Dr. Albert S. Lai]] among the enthusiastic believers who **co-founded** the [[organizations/formosan-presbyterian-church-in-los-angeles||Formosan Presbyterian Church in Los Angeles (FPCLA)]] / Formosan Christian Church in the 1970 founding generation.
 
 ## Identity Snapshot
 
@@ -24,9 +24,9 @@ last_reviewed: 2026-07-15
 
 ## Role in FPCLA
 
-In the 2025 Self-Preface to [[sources/toward-a-community-of-hope|Toward A Community of Hope]], Dr. Lai lists **Dr. & Mrs. Daniel Kao (高光民夫婦)** among the core co-founding families who, together with UPCUSA pastors and elders, organized the first Taiwanese Presbyterian church in North America.
+In the 2025 Self-Preface to [[sources/toward-a-community-of-hope||Toward A Community of Hope]], Dr. Lai lists **Dr. & Mrs. Daniel Kao (高光民夫婦)** among the core co-founding families who, together with UPCUSA pastors and elders, organized the first Taiwanese Presbyterian church in North America.
 
-**Disambiguation:** Not the same person as [[people/chaolong-kao|Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)]], who was called as **organizing minister** by the Presbytery of Los Angeles Southwest in September 1971.
+**Disambiguation:** Not the same person as [[people/chaolong-kao||Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)]], who was called as **organizing minister** by the Presbytery of Los Angeles Southwest in September 1971.
 
 
 ## Timeline
@@ -41,7 +41,7 @@ In the 2025 Self-Preface to [[sources/toward-a-community-of-hope|Toward A Commun
 
 ### Title Mentions (1 article)
 
-1. **2025** — [[sources/toward-a-community-of-hope|Toward A Community of Hope (2025 Self-Preface)]] — co-founder listing
+1. **2025** — [[sources/toward-a-community-of-hope||Toward A Community of Hope (2025 Self-Preface)]] — co-founder listing
 
 ## Publications
 
@@ -60,22 +60,22 @@ Pages that link to **daniel-kao** (daniel-kao):
 
 ### People (6)
 
-1. [[people/albert-s-lai|albert-s-lai]]
-2. [[people/albert-s-lai|albert-s-lai]]
-3. [[people/c-c-chen|c-c-chen]]
-4. [[people/c-c-chen|c-c-chen]]
-5. [[people/chaolong-kao|chaolong-kao]]
-6. [[people/chaolong-kao|chaolong-kao]]
+1. [[people/albert-s-lai||albert-s-lai]]
+2. [[people/albert-s-lai||albert-s-lai]]
+3. [[people/c-c-chen||c-c-chen]]
+4. [[people/c-c-chen||c-c-chen]]
+5. [[people/chaolong-kao||chaolong-kao]]
+6. [[people/chaolong-kao||chaolong-kao]]
 
 ### Organizations (3)
 
-1. [[organizations/formosan-presbyterian-church-in-los-angeles|formosan-presbyterian-church-in-los-angeles]]
-2. [[organizations/formosan-presbyterian-church-in-los-angeles|formosan-presbyterian-church-in-los-angeles]]
-3. [[organizations/formosan-presbyterian-church-in-los-angeles|formosan-presbyterian-church-in-los-angeles]]
+1. [[organizations/formosan-presbyterian-church-in-los-angeles||formosan-presbyterian-church-in-los-angeles]]
+2. [[organizations/formosan-presbyterian-church-in-los-angeles||formosan-presbyterian-church-in-los-angeles]]
+3. [[organizations/formosan-presbyterian-church-in-los-angeles||formosan-presbyterian-church-in-los-angeles]]
 
 ### Sources (1)
 
-1. [[sources/toward-a-community-of-hope|toward-a-community-of-hope]]
+1. [[sources/toward-a-community-of-hope||toward-a-community-of-hope]]
 
 ## Source Notes and Confidence
 
@@ -90,9 +90,9 @@ Pages that link to **daniel-kao** (daniel-kao):
 
 ## Related Pages
 
-- [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
-- [[sources/toward-a-community-of-hope|Toward A Community of Hope]]
-- [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
-- [[people/chaolong-kao|Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)]]
-- [[people/c-c-chen|Dr. C.C. Chen (陳昭俊)]]
-- [[people/jonah-chang|Rev. Jonah Chang (張瑞雄)]]
+- [[organizations/formosan-presbyterian-church-in-los-angeles||Formosan Presbyterian Church in Los Angeles (FPCLA)]]
+- [[sources/toward-a-community-of-hope||Toward A Community of Hope]]
+- [[people/albert-s-lai||Dr. Albert S. Lai (賴信雄)]]
+- [[people/chaolong-kao||Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)]]
+- [[people/c-c-chen||Dr. C.C. Chen (陳昭俊)]]
+- [[people/jonah-chang||Rev. Jonah Chang (張瑞雄)]]

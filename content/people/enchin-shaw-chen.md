@@ -48,5 +48,5 @@ Family History Book : 蕭安居牧師生平及家譜 Life And Family History Of 
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/enchin-shaw-chen/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

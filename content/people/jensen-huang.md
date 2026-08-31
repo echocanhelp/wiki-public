@@ -41,5 +41,5 @@ Jensen Huang founded NVIDIA in 1993 and has served since its inception as presid
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jensen-huang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

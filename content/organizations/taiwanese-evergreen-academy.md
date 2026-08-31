@@ -22,5 +22,5 @@ The Taiwanese Evergreen Academy is a federally and state-registered nonprofit ed
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-evergreen-academy/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -48,5 +48,5 @@ Dr. T.F. Chen — a painter, art historian, writer, philosopher, visionary, and 
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-tsing-fang-chen/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

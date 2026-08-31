@@ -22,5 +22,5 @@ The North American Taiwan Literature Research Association was founded on October
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/%e5%8c%97%e7%be%8e%e6%b4%b2%e8%87%ba%e7%81%a3%e6%96%87%e5%ad%b8%e7%a0%94%e7%a9%b6%e6%9c%83/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

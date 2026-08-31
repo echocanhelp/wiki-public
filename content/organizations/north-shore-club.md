@@ -22,5 +22,5 @@ The North Shore Club is a rotating savings and social organization (標會) foun
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/north-shore-club/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

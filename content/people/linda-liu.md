@@ -15,19 +15,19 @@ sources:
 ---
 # Linda Liu (劉玲華)
 
-**Linda Liu (劉玲華)** is **副董事長** (Vice Chair) of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles (大洛杉磯台灣會館)]] board, as listed on the official Taiwan Center website.
+**Linda Liu (劉玲華)** is **副董事長** (Vice Chair) of the [[organizations/taiwan-center||Taiwan Center Foundation of the Greater Los Angeles (大洛杉磯台灣會館)]] board, as listed on the official Taiwan Center website.
 
 ## Identity Snapshot
 
 - **English:** Linda Liu
 - **Chinese:** 劉玲華
 - **Role:** 副董事長 (Vice Chair), Taiwan Center board
-- **Organization:** [[organizations/taiwan-center|Taiwan Center (TWCLA)]]
+- **Organization:** [[organizations/taiwan-center||Taiwan Center (TWCLA)]]
 - **LINE linkage state:** Owner-verified in TAHS core LINE group; private LINE user ID captured and not published
 
 ## Introduction Context
 
-On 2026-07-25, [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]] directed Echopedia to verify the LINE display name **Linda** as this person page. Group member profile confirmed display name Linda. This page is the canonical public record for identity confirmation and future biography expansion.
+On 2026-07-25, [[people/leonard-hsu-jr||Leonard Hsu Jr. (許景鴻)]] directed Echopedia to verify the LINE display name **Linda** as this person page. Group member profile confirmed display name Linda. This page is the canonical public record for identity confirmation and future biography expansion.
 
 ## Professional / Community Context
 
@@ -61,17 +61,17 @@ On 2026-07-25, [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]] directed Ec
 
 ## Works
 
-**linda-liu** — **0** title hits, **7** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
+**linda-liu** — **0** title hits, **7** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
 
 ### Body mentions (7)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2020/20201118162555_2018_06_27_大洛杉磯台灣會館會訊_2018-年六月-_大洛杉磯台灣_79291dad808ef7f7|大洛杉磯台灣會館會訊，2018 年六月 ◎大洛杉磯台灣會館 2018-06-27]]
-2. [[articles/taiwanjustice-net/2024/20240721101942_root_04f32b14d8cf8f12|台灣會館會訊 #11, 2016-12-17]]
-3. [[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74|台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元]]
-4. [[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66|2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2日舉行]]
-5. [[articles/taiwanjustice-net/2024/20240613093234_root_1d72b2ae61640747|海外小英後援會10月13日洛杉磯造勢大會，林飛帆、何博文助陣]]
+1. [[articles/taiwanjustice-net/2020/20201118162555_2018_06_27_大洛杉磯台灣會館會訊_2018-年六月-_大洛杉磯台灣_79291dad808ef7f7||大洛杉磯台灣會館會訊，2018 年六月 ◎大洛杉磯台灣會館 2018-06-27]]
+2. [[articles/taiwanjustice-net/2024/20240721101942_root_04f32b14d8cf8f12||台灣會館會訊 #11, 2016-12-17]]
+3. [[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74||台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元]]
+4. [[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66||2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2日舉行]]
+5. [[articles/taiwanjustice-net/2024/20240613093234_root_1d72b2ae61640747||海外小英後援會10月13日洛杉磯造勢大會，林飛帆、何博文助陣]]
 
 
 ## Timeline
@@ -145,50 +145,50 @@ Notable quotes and mentions of **劉玲華** in Taiwan Justice articles:
 | LINE display Linda | High | Owner verify + group member profile |
 | Full biography | Low | Not yet provided |
 
-- **Hub:** [[sources/taiwancenter-org|taiwancenter.org]]
-- **Primary org:** [[organizations/taiwan-center|Taiwan Center]]
+- **Hub:** [[sources/taiwancenter-org||taiwancenter.org]]
+- **Primary org:** [[organizations/taiwan-center||Taiwan Center]]
 
 ## Related Pages
 
-- [[organizations/taiwan-center|Taiwan Center Foundation of Greater Los Angeles]]
-- [[sources/taiwancenter-org|taiwancenter.org source]]
-- [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
-- [[people/alan-thian|Alan Thian (田詒鴻)]]
-- [[people/ken-wu|Ken Wu (吳兆峯)]]
-- [[people/simon-lin|Simon Lin (林榮松)]]
-- [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]]
-- [[people/alan-thian|Alan Thian (田詒鴻)]]
-- [[people/simon-lin|Simon Lin (林榮松)]]
-- [[people/roger-tsai|Roger Tsai (蔡漢成)]]
-- [[people/jolie-chenn|Jolie Chenn (陳芃佑)]]
-- [[people/shu-lai|Shu Lai (賴淑遠)]]
-- [[people/tony-lee|Tony Lee (李賢群)]]
-- [[people/ken-wu|Ken Wu (吳兆峯)]]
-- [[people/ray-jan|Ray Jan (冉瑞宜)]]
-- [[people/lisa-liu|Lisa Liu (劉雅薇)]]
-- [[people/paul-chen|Paul Chen (陳柏宇)]]
-- [[people/meifeng-tsai|Meifeng Tsai (王梅鳳)]]
-- [[people/april-lin|April Lin (林淑卿)]]
-- [[people/sharon-huang|Sharon Huang (黃馨瑤)]]
-- [[people/shawn-yeh|Shawn Yeh (葉上毅)]]
-- [[people/danny-chen|Danny Chen (陳啟耕)]]
-- [[people/james-yang|James Yang (楊榮勝)]]
-- [[people/joe-hu|Joe Hu (胡永全)]]
-- [[people/peter-lin|Peter Lin (林冠豪)]]
-- [[people/samantha-yu|Samantha Yu (游蕙綾)]]
-- [[people/vera-yang|Vera Yang (楊悅英)]]
-- [[people/shirley-yu|Shirley Yu (張欣珠)]]
-- [[people/joyce-yeh|Joyce Yeh (葉怡蘭)]]
-- [[people/josephine-pan|Josephine Pan (潘掬慧)]]
-- [[people/joseph-teng|Joseph Teng (曾英銘)]]
-- [[people/steven-wu|Steven Wu (吳尚誠)]]
-- [[people/lisa-hou|Lisa Hou (侯乃文)]]
-- [[people/april-lin|April Lin (林淑卿)]]
-- [[people/shi-yuli|Shi Yuli (施郁麗)]]
-- [[people/he-sumei|He Sumei (何素美)]]
-- [[people/wei-boji|Wei Boji (魏博基)]]
-- [[people/xu-shitan|Xu Shitan (徐士坦)]]
-- [[people/wang-rongyi|Wang Rongyi (王榮義)]]
+- [[organizations/taiwan-center||Taiwan Center Foundation of Greater Los Angeles]]
+- [[sources/taiwancenter-org||taiwancenter.org source]]
+- [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society (TAHS)]]
+- [[people/alan-thian||Alan Thian (田詒鴻)]]
+- [[people/ken-wu||Ken Wu (吳兆峯)]]
+- [[people/simon-lin||Simon Lin (林榮松)]]
+- [[people/leonard-hsu-jr||Leonard Hsu Jr. (許景鴻)]]
+- [[people/alan-thian||Alan Thian (田詒鴻)]]
+- [[people/simon-lin||Simon Lin (林榮松)]]
+- [[people/roger-tsai||Roger Tsai (蔡漢成)]]
+- [[people/jolie-chenn||Jolie Chenn (陳芃佑)]]
+- [[people/shu-lai||Shu Lai (賴淑遠)]]
+- [[people/tony-lee||Tony Lee (李賢群)]]
+- [[people/ken-wu||Ken Wu (吳兆峯)]]
+- [[people/ray-jan||Ray Jan (冉瑞宜)]]
+- [[people/lisa-liu||Lisa Liu (劉雅薇)]]
+- [[people/paul-chen||Paul Chen (陳柏宇)]]
+- [[people/meifeng-tsai||Meifeng Tsai (王梅鳳)]]
+- [[people/april-lin||April Lin (林淑卿)]]
+- [[people/sharon-huang||Sharon Huang (黃馨瑤)]]
+- [[people/shawn-yeh||Shawn Yeh (葉上毅)]]
+- [[people/danny-chen||Danny Chen (陳啟耕)]]
+- [[people/james-yang||James Yang (楊榮勝)]]
+- [[people/joe-hu||Joe Hu (胡永全)]]
+- [[people/peter-lin||Peter Lin (林冠豪)]]
+- [[people/samantha-yu||Samantha Yu (游蕙綾)]]
+- [[people/vera-yang||Vera Yang (楊悅英)]]
+- [[people/shirley-yu||Shirley Yu (張欣珠)]]
+- [[people/joyce-yeh||Joyce Yeh (葉怡蘭)]]
+- [[people/josephine-pan||Josephine Pan (潘掬慧)]]
+- [[people/joseph-teng||Joseph Teng (曾英銘)]]
+- [[people/steven-wu||Steven Wu (吳尚誠)]]
+- [[people/lisa-hou||Lisa Hou (侯乃文)]]
+- [[people/april-lin||April Lin (林淑卿)]]
+- [[people/shi-yuli||Shi Yuli (施郁麗)]]
+- [[people/he-sumei||He Sumei (何素美)]]
+- [[people/wei-boji||Wei Boji (魏博基)]]
+- [[people/xu-shitan||Xu Shitan (徐士坦)]]
+- [[people/wang-rongyi||Wang Rongyi (王榮義)]]
 ## Taiwan Justice (台灣公義網) Citations
 
 - **2024-10-04** — *2024大洛杉磮台灣會館第26周年年會晚宴暨募款活動11月2日舉行* (score 690)

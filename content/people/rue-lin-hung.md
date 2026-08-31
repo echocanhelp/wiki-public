@@ -34,7 +34,7 @@ last_reviewed: 2026-08-17
 ## Family
 
 - **Son:** 洪鈞雄
-- **Son:** [[people/sam-hung|洪南山]]
+- **Son:** [[people/sam-hung||洪南山]]
 - **Daughter:** 洪白雪
 - **Daughter:** 洪梅紅
 
@@ -45,5 +45,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rue-lin-hung/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -15,14 +15,14 @@ source_note: "TAHS 2025 org chart + LINE display Yi Lee + handwritten Yi-Sen Lee
 ---
 # Yi Sen Lee (李意盛)
 
-**Yi Sen Lee** (李意盛) serves as **特別助理 (Special assistant), TAHS 2025** of the [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS / 台美人歷史協會)]].
+**Yi Sen Lee** (李意盛) serves as **特別助理 (Special assistant), TAHS 2025** of the [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society (TAHS / 台美人歷史協會)]].
 
 ## Identity Snapshot
 - **English (preferred):** Yi Sen Lee (also written Yi-Sen Lee)
 - **Chinese:** 李意盛
 - **LINE displayName:** `Yi Lee`
 - **Core role (2025):** 特別助理 (Special assistant)
-- **Organization:** [[organizations/taiwanese-american-historical-society|TAHS]]
+- **Organization:** [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Overview
 
@@ -43,7 +43,7 @@ Private phones and LINE U-ids are **not** published here.
 ## Former slug
 
 - Previous provisional: `li-yisheng` / "Li Yi-sheng" → canonical `yi-sen-lee`
-- Redirect stub: [[people/li-yisheng]]
+- Redirect stub: [[people/li-yisheng]]]]
 
 ## Taiwan Justice (台灣公義網) Citations
 
@@ -56,13 +56,13 @@ Private phones and LINE U-ids are **not** published here.
 
 ## Works
 
-**yi-sen-lee** — **0** title hits, **1** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
+**yi-sen-lee** — **0** title hits, **1** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
 
 ### Body mentions (1)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74|台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元]]
+1. [[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74||台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元]]
 
 
 ## Timeline
@@ -86,18 +86,18 @@ Notable quotes and mentions of **李意盛** in Taiwan Justice articles:
 
 ## Network
 
-- [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
-- [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]] — President (會長), 2025–
-- [[people/yang-jia-you|Charles Yang (楊嘉猷)]] — Founding president (創會會長)
-- [[people/roger-tsai|Roger Tsai (蔡漢成)]] — Vice president
-- [[people/freeman-huang|Freeman Huang (黃樹人)]] — Secretary-general (秘書長)
-- [[people/linda-liu|Linda Liu (劉玲華)]] — Advisor
-- [[people/john-yang|John Yang (楊錦忠)]] — Special assistant
-- [[people/sunu-tsai|Sunu Tsai (蔡淑女)]]
-- [[people/tzetsai-eric-shen|Eric Shen (沈梓在)]]
+- [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society (TAHS)]]
+- [[people/leonard-hsu-jr||Leonard Hsu Jr. (許景鴻)]] — President (會長), 2025–
+- [[people/yang-jia-you||Charles Yang (楊嘉猷)]] — Founding president (創會會長)
+- [[people/roger-tsai||Roger Tsai (蔡漢成)]] — Vice president
+- [[people/freeman-huang||Freeman Huang (黃樹人)]] — Secretary-general (秘書長)
+- [[people/linda-liu||Linda Liu (劉玲華)]] — Advisor
+- [[people/john-yang||John Yang (楊錦忠)]] — Special assistant
+- [[people/sunu-tsai||Sunu Tsai (蔡淑女)]]
+- [[people/tzetsai-eric-shen||Eric Shen (沈梓在)]]
 
 ## Related Pages
 
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[people/john-yang|John Yang (楊錦忠)]] (fellow 特別助理)
-- [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[people/john-yang||John Yang (楊錦忠)]] (fellow 特別助理)
+- [[people/leonard-hsu-jr||Leonard Hsu Jr. (許景鴻)]]

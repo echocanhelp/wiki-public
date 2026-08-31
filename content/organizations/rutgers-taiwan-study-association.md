@@ -22,5 +22,5 @@ Rutgers Taiwan Study Association is a student and youth-run nonprofit organizati
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/rutgers-taiwan-study-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -22,5 +22,5 @@ The Texas College Station Taiwan Study Club is a student organization based in C
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/texas-college-station-taiwan-study-club/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

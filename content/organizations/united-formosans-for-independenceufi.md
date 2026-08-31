@@ -22,5 +22,5 @@ World United Formosans for Independence (WUFI) is a global advocacy organization
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/united-formosans-for-independenceufi/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -22,5 +22,5 @@ The Harvard Taiwanese Cultural Society (TCS) is a student-run organization at Ha
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/harvard-taiwanese-cultural-society/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -22,5 +22,5 @@ The Taiwanese-American Elite Foundation (台美智庫基金會) is an organizati
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-elite-foundation/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

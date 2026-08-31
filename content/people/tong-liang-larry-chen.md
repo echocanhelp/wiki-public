@@ -43,5 +43,5 @@ Tong-Liang (Larry) Chen 陳東亮 – History of Taiwanese American (T.A. Archiv
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tong-liang-larry-chen/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

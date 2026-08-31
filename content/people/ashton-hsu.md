@@ -21,7 +21,7 @@ sources:
 ---
 # Ashton Hsu (許思敦)
 
-**Ashton Hsu** (許思敦) is a Taiwanese American software engineer based in Brooklyn, New York. He is a **member** of the Taiwanese American Historical Society ([[organizations/taiwanese-american-historical-society|TAHS]]) and **Director of Echo System Engineering**, with owner-authorized full Echopedia / Echo System edit permissions.
+**Ashton Hsu** (許思敦) is a Taiwanese American software engineer based in Brooklyn, New York. He is a **member** of the Taiwanese American Historical Society ([[organizations/taiwanese-american-historical-society||TAHS]]) and **Director of Echo System Engineering**, with owner-authorized full Echopedia / Echo System edit permissions.
 
 ## Identity Snapshot
 
@@ -38,8 +38,8 @@ sources:
 - Chinese: 許思敦 (思敦) — confirmed from family memo pad header "Memo from TENG-LUNG HSU, M.D." (2026-07-26)
 - LinkedIn vanity: `ashton-hsu-99593674`
 - Public portfolio handle: `ashtonhsu20` (GitHub Pages)
-- Cousin of [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]] — Henry Hsu is Leonard's cousin; Ashton is Henry's son (Leonard's first cousin once removed). Teng-Lung Hsu, M.D. is Henry's father, not Leonard's grandfather.
-- Not the same person as [[people/mingyuan-hsu|Rev. Mingyuan Hsu (許明遠)]] or [[people/hsu-hsin-hung|Hsu Hsin-hung (徐新宏)]]
+- Cousin of [[people/leonard-hsu-jr||Leonard Hsu Jr. (許景鴻)]] — Henry Hsu is Leonard's cousin; Ashton is Henry's son (Leonard's first cousin once removed). Teng-Lung Hsu, M.D. is Henry's father, not Leonard's grandfather.
+- Not the same person as [[people/mingyuan-hsu||Rev. Mingyuan Hsu (許明遠)]] or [[people/hsu-hsin-hung||Hsu Hsin-hung (徐新宏)]]
 - Unrelated open-web "Ashton Hsu" hits (e.g. youth sports) must not be merged here
 
 ## TAHS / Echo System Membership Assignment
@@ -126,10 +126,10 @@ _(Optional — paste a short first-person intro anytime via LINE @Echo許.)_
 
 ## Related Pages
 
-- [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
-- [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]]
-- [[people/david-lee|David Lee (李東璞)]] — TAHS CTO peer role context
-- [[people/index|People Index]]
+- [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society (TAHS)]]
+- [[people/leonard-hsu-jr||Leonard Hsu Jr. (許景鴻)]]
+- [[people/david-lee||David Lee (李東璞)]] — TAHS CTO peer role context
+- [[people/index||People Index]]
 
 ## Revision History
 

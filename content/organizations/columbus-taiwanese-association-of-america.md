@@ -22,5 +22,5 @@ The Columbus Taiwanese Association of America (TAACOLS), also known in Chinese a
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/columbus-taiwanese-association-of-america/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

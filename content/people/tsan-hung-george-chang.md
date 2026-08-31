@@ -40,7 +40,7 @@ Tsan-hung George Chang 張燦鍙 – History of Taiwanese American (T.A. Archive
 
 ## Family
 
-- **Wife:** [[people/tina-chang|張丁蘭]]
+- **Wife:** [[people/tina-chang||張丁蘭]]
 - **Daughter:** 張惠琳
 - **Daughter:** 張惠君
 
@@ -50,5 +50,5 @@ Tsan-hung George Chang 張燦鍙 – History of Taiwanese American (T.A. Archive
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tsan-hung-george-chang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

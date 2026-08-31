@@ -22,5 +22,5 @@ The Taiwanese Association of Greater Kansas City (TAKC), also known in Chinese a
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-greater-kansas-city-takc/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

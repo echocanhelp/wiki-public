@@ -32,7 +32,7 @@ last_reviewed: 2026-08-17
 ## Family
 
 - **Wife:** 邵維平
-- **Daughter:** [[people/irene-lin|林晃宇]]
+- **Daughter:** [[people/irene-lin||林晃宇]]
 - **Son:** 林晃旭
 
 
@@ -40,5 +40,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jer-shung-lin/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

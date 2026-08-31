@@ -22,5 +22,5 @@ The NYU Taiwanese American Student Society (TASS) is a student organization at N
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/nyu-taiwanese-american-student-society/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

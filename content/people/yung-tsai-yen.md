@@ -43,5 +43,5 @@ http://blog.xuite.net/ysyang0102/twblog/145974084-%E7%9F%BD%E8%B0%B7%E4%B9%8B%E5
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yung-tsai-yen/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

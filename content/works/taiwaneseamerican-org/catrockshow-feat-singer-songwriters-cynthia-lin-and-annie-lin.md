@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/catrockshow-feat-singer-songwriters-cynthia-lin-and-annie-lin|CATROCKSHOW Feat. Singer-songwriters Cynthia Lin and Annie Lin]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/catrockshow-feat-singer-songwriters-cynthia-lin-and-annie-lin||CATROCKSHOW Feat. Singer-songwriters Cynthia Lin and Annie Lin]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

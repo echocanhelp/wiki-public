@@ -15,13 +15,13 @@ last_reviewed: 2026-07-15
 # Toward A Community of Hope
 
 **Full title:** *Toward A Community Of Hope — A Mission to Formosan Community in Los Angeles*  
-**Author:** [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]  
+**Author:** [[people/albert-s-lai||Dr. Albert S. Lai (賴信雄)]]  
 **Type:** Doctor of Ministry dissertation (San Francisco Theological Seminary), **December 1971**  
 **Republication:** 2025 (50th anniversary), Taiwan Church Press + NTPC + Tainan East Gate Barclay History Education Promotion
 
 ## Identity Snapshot
 
-> **Primary work page:** [[sources/toward-a-community-of-hope|Toward A Community of Hope (work & sources)]]  
+> **Primary work page:** [[sources/toward-a-community-of-hope||Toward A Community of Hope (work & sources)]]  
 > **Full text (GitHub):** [complete extract](https://github.com/echocanhelp/wiki-public/blob/gh-pages/knowledge/web-archives/albert-lai-toward-community-of-hope.md)
 
 - Era: Written 1971; rediscovered/translated 2022–2025; reprinted 2025
@@ -29,7 +29,7 @@ last_reviewed: 2026-07-15
 - Core roles: Primary source on FPCLA founding; theology of “community of hope”
 
 ## Why it matters
-This is the foundational written account of the first Taiwanese Presbyterian church in North America ([[organizations/formosan-presbyterian-church-in-los-angeles|FPCLA]]) and a theological vision of the church as a **hopeful / missional community**, not only an ethnic haven.
+This is the foundational written account of the first Taiwanese Presbyterian church in North America ([[organizations/formosan-presbyterian-church-in-los-angeles||FPCLA]]) and a theological vision of the church as a **hopeful / missional community**, not only an ethnic haven.
 
 ## Structure (1971 dissertation)
 1. Formosan in Formosa Yesterday  
@@ -41,14 +41,14 @@ This is the foundational written account of the first Taiwanese Presbyterian chu
 - Conclusion · Recall the Story · The Missing 50 Years · Postscript (2025 materials)
 
 ## Key people & orgs in Echopedia
-- [[people/albert-s-lai|Dr. Albert S. Lai]] — author  
-- [[organizations/formosan-presbyterian-church-in-los-angeles|FPCLA]] — case study  
-- [[people/jonah-chang|Rev. Jonah Chang]] — Aug 1970 experimental worship  
-- [[people/chaolong-kao|Dr. Charles C.L. Kao / Chaolong Kao]] — organizing minister (Sep 1971)  
-- [[people/daniel-kao|Dr. Daniel Kao]] · [[people/c-c-chen|Dr. C.C. Chen]] — co-founders  
-- [[organizations/national-taiwanese-presbyterian-council|NTPC]] · [[people/yunching-yeh-davis|Dr. Yunching Yeh Davis]] — 2025 republication  
-- [[people/mingyuan-hsu|Rev. Mingyuan Hsu]] · [[people/pinghsi-liu|Rev. Pinghsi Liu]] · [[people/en-sheng-pan|Rev. En Sheng Pan]] · [[people/ching-fang-chen|Rev. Ching Fang Chen]] — forewords / publication network  
-- [[people/pingtung-lai|Pastor Pingtung Lai]] — family / heritage preface material  
+- [[people/albert-s-lai||Dr. Albert S. Lai]] — author  
+- [[organizations/formosan-presbyterian-church-in-los-angeles||FPCLA]] — case study  
+- [[people/jonah-chang||Rev. Jonah Chang]] — Aug 1970 experimental worship  
+- [[people/chaolong-kao||Dr. Charles C.L. Kao / Chaolong Kao]] — organizing minister (Sep 1971)  
+- [[people/daniel-kao||Dr. Daniel Kao]] · [[people/c-c-chen||Dr. C.C. Chen]] — co-founders  
+- [[organizations/national-taiwanese-presbyterian-council||NTPC]] · [[people/yunching-yeh-davis||Dr. Yunching Yeh Davis]] — 2025 republication  
+- [[people/mingyuan-hsu||Rev. Mingyuan Hsu]] · [[people/pinghsi-liu||Rev. Pinghsi Liu]] · [[people/en-sheng-pan||Rev. En Sheng Pan]] · [[people/ching-fang-chen||Rev. Ching Fang Chen]] — forewords / publication network  
+- [[people/pingtung-lai||Pastor Pingtung Lai]] — family / heritage preface material  
 
 ## Full text (archive)
 Tier‑2 full extract lives in the wiki-public repo (not rendered as Quartz HTML). Use GitHub for the complete text:
@@ -67,8 +67,8 @@ Original user PDF path on host (not public web): `~/.hermes/cache/documents/doc_
 
 ## Related Pages
 
-- [[sources/toward-a-community-of-hope|Toward A Community of Hope]]
-- [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
-- [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
-- [[organizations/national-taiwanese-presbyterian-council|National Taiwanese Presbyterian Council (NTPC)]]
-- [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]]
+- [[sources/toward-a-community-of-hope||Toward A Community of Hope]]
+- [[people/albert-s-lai||Dr. Albert S. Lai (賴信雄)]]
+- [[organizations/formosan-presbyterian-church-in-los-angeles||Formosan Presbyterian Church in Los Angeles (FPCLA)]]
+- [[organizations/national-taiwanese-presbyterian-council||National Taiwanese Presbyterian Council (NTPC)]]
+- [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan]]

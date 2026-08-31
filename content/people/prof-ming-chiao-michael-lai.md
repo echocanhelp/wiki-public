@@ -42,5 +42,5 @@ Prof. Ming-Chiao (Michael) Lai 賴明詔教授 – History of Taiwanese American
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-ming-chiao-michael-lai/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

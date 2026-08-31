@@ -10,6 +10,6 @@ last_reviewed: 2026-08-16
 
 # Moved
 
-Canonical page: **[[people/gene-tsai|Gene Tsai (蔡錦榮)]]**.
+Canonical page: **[[people/gene-tsai||Gene Tsai (蔡錦榮)]]**.
 
 Former provisional slug: `cai-jinrong`.

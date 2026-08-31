@@ -22,5 +22,5 @@ The Taiwanese Association of America – Houston Chapter (TAA-HC, 休士頓台�
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-houston-chapter/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -13,7 +13,7 @@ last_reviewed: 2026-07-23
 ---
 # Wang Taihe (王泰和)
 
-**Wang Taihe** (王泰和) is a Taiwanese American artist and cultural figure. His profile, written by [[people/zheng-bing-quan|Zheng Bingquan]], highlights his contributions to the arts and the Taiwanese American community in the San Francisco Bay Area.
+**Wang Taihe** (王泰和) is a Taiwanese American artist and cultural figure. His profile, written by [[people/zheng-bing-quan||Zheng Bingquan]], highlights his contributions to the arts and the Taiwanese American community in the San Francisco Bay Area.
 
 ## Identity Snapshot
 
@@ -21,7 +21,7 @@ last_reviewed: 2026-07-23
 - **Chinese:** 王泰和
 - **Core roles:** Artist, cultural figure
 - **Geography:** San Francisco Bay Area
-- **Related to:** [[people/zheng-bing-quan|Zheng Bingquan]] — fellow community member
+- **Related to:** [[people/zheng-bing-quan||Zheng Bingquan]] — fellow community member
 
 ## Overview
 
@@ -38,13 +38,13 @@ Through his art and community involvement, Wang has helped to preserve and share
 ## Source Notes and Confidence
 
 - **Content priority A:** 2023 TAHS Publication (profile, Section 1, ~649 lines), written by 鄭炳全
-- **Hub:** [[sources/2023-tahs-publication|2023 TAHS Publication]]
+- **Hub:** [[sources/2023-tahs-publication||2023 TAHS Publication]]
 - **Archive:** `knowledge/web-archives/2023-tahs-publication-part1.md`
 - **Note:** The profile includes details about his artistic and cultural contributions.
 
 ## Related Pages
 
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/2023-tahs-publication|2023 TAHS Publication]]
-- [[people/zheng-bing-quan|Zheng Bingquan (鄭炳全)]]
-- [[sources/2017-tahs-publication|2017 TAHS Publication]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/2023-tahs-publication||2023 TAHS Publication]]
+- [[people/zheng-bing-quan||Zheng Bingquan (鄭炳全)]]
+- [[sources/2017-tahs-publication||2017 TAHS Publication]]

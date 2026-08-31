@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/su-bengs-2011-us-tour-reconnecting-with-taiwanese-america|Su Beng&#8217;s 2011 US Tour: Reconnecting with Taiwanese America]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/su-bengs-2011-us-tour-reconnecting-with-taiwanese-america||Su Beng&#8217;s 2011 US Tour: Reconnecting with Taiwanese America]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

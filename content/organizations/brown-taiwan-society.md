@@ -22,5 +22,5 @@ The Brown Taiwan Society (BTS) is a student organization at Brown University in 
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/brown-taiwan-society/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

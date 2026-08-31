@@ -26,10 +26,10 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/join-taiwanese-american-professionals-for-happy-hour-in-chicago|Join Taiwanese American Professionals for Happy Hour in Chicago]]
-- [[works/taiwaneseamerican-org/happy-hour-in-chicago|Happy Hour in Chicago]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/join-taiwanese-american-professionals-for-happy-hour-in-chicago||Join Taiwanese American Professionals for Happy Hour in Chicago]]
+- [[works/taiwaneseamerican-org/happy-hour-in-chicago||Happy Hour in Chicago]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

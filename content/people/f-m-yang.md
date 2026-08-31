@@ -23,7 +23,7 @@ F. M. Yang (楊豐明) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 ## Family
 
-- **Daughter:** [[people/r-r-yang|楊蓉蓉]]
+- **Daughter:** [[people/r-r-yang||楊蓉蓉]]
 
 
 ## Sources
@@ -31,5 +31,5 @@ F. M. Yang (楊豐明) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/f-m-yang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

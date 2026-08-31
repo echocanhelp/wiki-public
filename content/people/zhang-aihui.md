@@ -12,7 +12,7 @@ last_reviewed: 2026-08-19
 ---
 # Zhang Ai-Hui (張愛惠)
 
-**Zhang Ai-Hui (張愛惠)** is a Taiwanese-American Presbyterian leader serving as **會計** (Treasurer) of the [[organizations/national-taiwanese-presbyterian-council|NTPC]] 執委會 for **2025/26** (西南區). She is also **NTPW 會長** (President) for 2025.
+**Zhang Ai-Hui (張愛惠)** is a Taiwanese-American Presbyterian leader serving as **會計** (Treasurer) of the [[organizations/national-taiwanese-presbyterian-council||NTPC]] 執委會 for **2025/26** (西南區). She is also **NTPW 會長** (President) for 2025.
 
 ## Identity Snapshot
 
@@ -38,9 +38,9 @@ Per ntpc-usa.org/ntpw/ (2025):
 
 ## Related Pages
 
-- [[organizations/national-taiwanese-presbyterian-council|National Taiwanese Presbyterian Council (NTPC)]]
-- [[people/yunching-yeh-davis|Dr. Yunching Yeh Davis (葉芸青)]]
-- [[people/xie-xinguang|Rev. Xie Xinguang (謝信光)]]
-- [[people/chen-hui-chen|Chen Hui-Chen (陳慧貞)]]
-- [[people/lin-yushu|Lin Yu-Shu (林育武)]]
-- [[sources/ntpc-usa-org|NTPC USA source hub]]
+- [[organizations/national-taiwanese-presbyterian-council||National Taiwanese Presbyterian Council (NTPC)]]
+- [[people/yunching-yeh-davis||Dr. Yunching Yeh Davis (葉芸青)]]
+- [[people/xie-xinguang||Rev. Xie Xinguang (謝信光)]]
+- [[people/chen-hui-chen||Chen Hui-Chen (陳慧貞)]]
+- [[people/lin-yushu||Lin Yu-Shu (林育武)]]
+- [[sources/ntpc-usa-org||NTPC USA source hub]]

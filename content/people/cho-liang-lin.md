@@ -46,5 +46,5 @@ Violinist Cho-Liang Lin is lauded the world over for the eloquence of his playin
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/cho-liang-lin/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

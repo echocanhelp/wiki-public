@@ -22,5 +22,5 @@ The Greater Sacramento Taiwanese Association (GSTA, 大沙加緬度台灣同鄉�
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/greater-sacramento-taiwanese-association-gsta/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

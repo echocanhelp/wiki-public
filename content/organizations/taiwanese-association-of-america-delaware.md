@@ -22,5 +22,5 @@ The Taiwanese Association of America Delaware (德拉瓦州 台灣同鄉會) is 
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-delaware/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

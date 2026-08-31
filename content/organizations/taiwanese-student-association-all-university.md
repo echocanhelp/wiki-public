@@ -22,5 +22,5 @@ The Taiwanese Student Association – All-University (NYU TSA) is a student orga
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-student-association-all-university/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

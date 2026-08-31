@@ -22,5 +22,5 @@ The Taiwanese American Association Baltimore (巴爾地摩 台灣同鄉會) is a
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-association-baltimore/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

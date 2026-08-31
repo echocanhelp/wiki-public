@@ -36,5 +36,5 @@ Prof. Y. C. (Eric) Shen 沈耀初教授 – History of Taiwanese American (T.A. 
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-y-c-eric-shen/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

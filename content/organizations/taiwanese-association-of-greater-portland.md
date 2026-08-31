@@ -22,5 +22,5 @@ The Taiwanese Association of Greater Portland (TAGP) is a chapter of the Taiwane
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-greater-portland/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

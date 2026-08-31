@@ -36,7 +36,7 @@ last_reviewed: 2026-08-17
 
 ## Link we actually have
 
-**Strong:** people and books — [[people/david-huang|黃德利]] at 台灣神學院; seven Presbyterian Church in Taiwan pastors at the Good Shepherd plant; [[people/pinghsi-liu|劉炳熹]] / East Gate Barclay; [[people/en-sheng-pan|潘恩盛]] (Presbyterian Church in Taiwan moderator) on the Lai reprint; STM Taiwan (short-term mission); sister tie with 台北重新教會.
+**Strong:** people and books — [[people/david-huang||黃德利]] at 台灣神學院; seven Presbyterian Church in Taiwan pastors at the Good Shepherd plant; [[people/pinghsi-liu||劉炳熹]] / East Gate Barclay; [[people/en-sheng-pan||潘恩盛]] (Presbyterian Church in Taiwan moderator) on the Lai reprint; STM Taiwan (short-term mission); sister tie with 台北重新教會.
 
 **Weak:** **no shared polity.** U.S. churches are Presbyterian Church (U.S.A.). Do not write “Good Shepherd is a Presbyterian Church in Taiwan congregation.”
 
@@ -49,12 +49,12 @@ So: **same people, new layer.** PCT is origin (training, 漢名, liturgy). TPC i
 **Do not flatten:** 台福 / EFC hires (e.g. 劉富理) are **not** this pipeline.
 
 ## Related Pages
-- [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan (PCT)]]
-- [[organizations/national-taiwanese-presbyterian-council|National Taiwanese Presbyterian Council (NTPC)]]
-- [[organizations/ntpc|NTPC (disambiguation — not New Taipei City)]]
-- [[organizations/good-shepherd-taiwanese-presbyterian-church|Good Shepherd Taiwanese Presbyterian Church (GSTPC)]]
-- [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
-- [[organizations/irvine-taiwanese-presbyterian-church|Irvine Taiwanese Presbyterian Church (ITPC)]]
+- [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan (PCT)]]
+- [[organizations/national-taiwanese-presbyterian-council||National Taiwanese Presbyterian Council (NTPC)]]
+- [[organizations/ntpc||NTPC (disambiguation — not New Taipei City)]]
+- [[organizations/good-shepherd-taiwanese-presbyterian-church||Good Shepherd Taiwanese Presbyterian Church (GSTPC)]]
+- [[organizations/formosan-presbyterian-church-in-los-angeles||Formosan Presbyterian Church in Los Angeles (FPCLA)]]
+- [[organizations/irvine-taiwanese-presbyterian-church||Irvine Taiwanese Presbyterian Church (ITPC)]]
 
 ## Sister Churches
 

@@ -22,5 +22,5 @@ The Taiwanese American Professional Society (TAPS) is a Seattle-area organizatio
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-professional-society-taps/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

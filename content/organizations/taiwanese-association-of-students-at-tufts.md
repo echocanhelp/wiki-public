@@ -22,5 +22,5 @@ The Taiwanese Association of Students at Tufts (TAST) is a culture-oriented stud
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-students-at-tufts/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

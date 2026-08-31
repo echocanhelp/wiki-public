@@ -26,10 +26,10 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/taiwaneseamerican-org-co-presents-au-revoir-taipei-at-san-jose-summer-showcase|TaiwaneseAmerican.org Co-presents &#8220;Au Revoir Taipei&#8221; at San Jose Summer Showcase]]
-- [[organizations/taiwaneseamerican-org|TaiwaneseAmerican.org]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/taiwaneseamerican-org-co-presents-au-revoir-taipei-at-san-jose-summer-showcase||TaiwaneseAmerican.org Co-presents &#8220;Au Revoir Taipei&#8221; at San Jose Summer Showcase]]
+- [[organizations/taiwaneseamerican-org||TaiwaneseAmerican.org]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

@@ -43,5 +43,5 @@ Rev. Ming Huei Phillip Liu 劉銘輝牧師 – History of Taiwanese American (T.
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rev-ming-huei-phillip-liu/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

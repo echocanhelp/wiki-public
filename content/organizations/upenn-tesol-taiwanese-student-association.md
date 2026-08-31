@@ -22,5 +22,5 @@ The UPenn TESOL Taiwanese Student Association (UTTSA) is a Taiwanese student org
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/upenn-tesol-taiwanese-student-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

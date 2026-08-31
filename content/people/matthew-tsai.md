@@ -47,5 +47,5 @@ Publications: 信仰之路 (2005), 忠心管家 (2006), 活出真愛 (2007), 與
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/matthew-tsai/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

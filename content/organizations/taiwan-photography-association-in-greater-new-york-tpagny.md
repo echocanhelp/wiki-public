@@ -22,5 +22,5 @@ The Taiwan Photography Association in Greater New York (TPAGNY) was founded in 2
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwan-photography-association-in-greater-new-york-tpagny/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

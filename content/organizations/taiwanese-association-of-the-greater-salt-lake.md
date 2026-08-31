@@ -22,5 +22,5 @@ The Taiwanese Association of the Greater Salt Lake (TAGSL) is a chapter of the T
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-the-greater-salt-lake/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

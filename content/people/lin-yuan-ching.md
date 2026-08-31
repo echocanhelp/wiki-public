@@ -159,23 +159,23 @@ Pages that link to **lin-yuan-ching** (lin-yuan-ching):
 
 ### People (1)
 
-1. [[people/hsu-hsin-hung|hsu-hsin-hung]]
+1. [[people/hsu-hsin-hung||hsu-hsin-hung]]
 
 ### Sources (1)
 
-1. [[sources/2017-tahs-publication|2017-tahs-publication]]
+1. [[sources/2017-tahs-publication||2017-tahs-publication]]
 
 ## Source Notes and Confidence
 
 - **Content priority A:** 2017 TAHS Publication 集集小孩力爭上游 林元清醫師專訪, Part 1, L1585–1878 (~293 lines), compiled by TAHS, text by Edda Huang
 - **Content priority A:** Contains extensive biographical narrative including family history (father's escape from Xiamen), medical training, Johns Hopkins orthopedic residency, practice challenges, and personal anecdotes
-- **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
+- **Hub:** [[sources/2017-tahs-publication||2017 TAHS Publication]]
 - **Note:** This is a long interview-style profile. The full text contains detailed biographical information including family background, education, military service, residency training, and practice building.
 
 ## Related Pages
 
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/2017-tahs-publication|2017 TAHS Publication]]
-- [[people/yang-jia-you|Charles Yang (楊嘉猷)]]
-- [[people/wang-gui-rong|Wang Gui-rong (王桂榮) — fellow first-gen success story]]
-- [[people/hsu-hsin-hung|Hsu Hsin-hung (徐新宏) — fellow 菁英錄 subject]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/2017-tahs-publication||2017 TAHS Publication]]
+- [[people/yang-jia-you||Charles Yang (楊嘉猷)]]
+- [[people/wang-gui-rong||Wang Gui-rong (王桂榮) — fellow first-gen success story]]
+- [[people/hsu-hsin-hung||Hsu Hsin-hung (徐新宏) — fellow 菁英錄 subject]]

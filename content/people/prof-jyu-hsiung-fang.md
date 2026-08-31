@@ -32,7 +32,7 @@ Prof. Jyu-Hsiung Fang 方菊雄教授 – History of Taiwanese American (T.A. Ar
 
 ## Family
 
-- **Wife:** [[people/jean-j-fang|黃靜枝]]
+- **Wife:** [[people/jean-j-fang||黃靜枝]]
 
 
 ## Sources
@@ -41,5 +41,5 @@ Prof. Jyu-Hsiung Fang 方菊雄教授 – History of Taiwanese American (T.A. Ar
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-jyu-hsiung-fang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

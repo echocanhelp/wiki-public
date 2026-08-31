@@ -22,5 +22,5 @@ The Miss Taiwanese American (MTA) Pageant is an annual competition held by the T
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/miss-taiwanese-american-foundation/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

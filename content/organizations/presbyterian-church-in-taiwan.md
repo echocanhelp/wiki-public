@@ -110,18 +110,18 @@ Official related-institution page also names **Taiwan Church Press** and **Mass 
 
 ### Related Organizations
 
-- [[organizations/good-shepherd-taiwanese-presbyterian-church|GSTPC]] — SoCal TPC / PC(USA); PCT **heritage**, not a PCT congregation
-- [[organizations/irvine-taiwanese-presbyterian-church|ITPC]] — same pattern
-- [[organizations/formosan-presbyterian-church-in-los-angeles|FPCLA]] — first NA Taiwanese Presbyterian (1970), UPCUSA/PC(USA)
-- [[organizations/tpc|TPC]] — NA/SoCal fellowship label; **not** an alias of PCT
-- [[organizations/tainan-east-gate-barclay-memorial-church|東門巴克禮紀念教會]] — PCT 台南中會 (this *is* PCT)
-- [[organizations/chunglun-presbyterian-church|中崙教會]] — PCT 七星中會
+- [[organizations/good-shepherd-taiwanese-presbyterian-church||GSTPC]] — SoCal TPC / PC(USA); PCT **heritage**, not a PCT congregation
+- [[organizations/irvine-taiwanese-presbyterian-church||ITPC]] — same pattern
+- [[organizations/formosan-presbyterian-church-in-los-angeles||FPCLA]] — first NA Taiwanese Presbyterian (1970), UPCUSA/PC(USA)
+- [[organizations/tpc||TPC]] — NA/SoCal fellowship label; **not** an alias of PCT
+- [[organizations/tainan-east-gate-barclay-memorial-church||東門巴克禮紀念教會]] — PCT 台南中會 (this *is* PCT)
+- [[organizations/chunglun-presbyterian-church||中崙教會]] — PCT 七星中會
 
 ### Key Figures
 
-- [[people/james-laidlaw-maxwell|James Laidlaw Maxwell (馬雅各)]] — Scottish; southern mission (1865)
-- [[people/george-leslie-mackay|George Leslie Mackay (馬偕)]] — Canadian; northern mission (1872)
-- [[people/thomas-barclay|Thomas Barclay (巴克禮)]] — Scottish; Tainan / TTCS (1875–1935)
+- [[people/james-laidlaw-maxwell||James Laidlaw Maxwell (馬雅各)]] — Scottish; southern mission (1865)
+- [[people/george-leslie-mackay||George Leslie Mackay (馬偕)]] — Canadian; northern mission (1872)
+- [[people/thomas-barclay||Thomas Barclay (巴克禮)]] — Scottish; Tainan / TTCS (1875–1935)
 - **William Campbell** — English missionary; reinforced southern work (1871)
 - **Kao Chun-ming** — General Secretary; imprisoned 1980 for sheltering dissidents
 - **Rev. Chen Hsin-liang** — General Secretary (recent)
@@ -275,12 +275,12 @@ English listing (older / ILT-focused): [enNews_pct.aspx](https://english.pct.org
 
 ## Related Pages
 
-- [[organizations/good-shepherd-taiwanese-presbyterian-church|Good Shepherd Taiwanese Presbyterian Church]]
-- [[organizations/irvine-taiwanese-presbyterian-church|Irvine Taiwanese Presbyterian Church]]
-- [[people/kao-chun-ming|Kao Chun-ming (高俊明)]]
-- [[people/index|People Index]]
-- [[organizations/elder-john-lai-archives|賴永祥長老史料庫]]
-- [[people/john-lai|Elder John Lai]]
+- [[organizations/good-shepherd-taiwanese-presbyterian-church||Good Shepherd Taiwanese Presbyterian Church]]
+- [[organizations/irvine-taiwanese-presbyterian-church||Irvine Taiwanese Presbyterian Church]]
+- [[people/kao-chun-ming||Kao Chun-ming (高俊明)]]
+- [[people/index||People Index]]
+- [[organizations/elder-john-lai-archives||賴永祥長老史料庫]]
+- [[people/john-lai||Elder John Lai]]
 
 ## Sources
 
@@ -298,54 +298,54 @@ Secondary:
 
 8. Wikipedia: [Presbyterian Church in Taiwan](https://en.wikipedia.org/wiki/Presbyterian_Church_in_Taiwan)
 9. World Council of Churches: [PCT member page](https://www.oikoumene.org/members/partner-groups/presbyterian-church-in-taiwan)
-- [[people/tah-p-b256f6296d|賴鴻毅]]
-- [[people/bach-ying-chun-wu|Bach Ying-Chun Wu (吳英俊)]]
-- [[people/zhang-xuanxin|Billy Chang 張宣信]]
-- [[people/c-l-hong|C. L. Hong (洪健棣牧師)]]
-- [[people/c-y-hsu|C.Y. Hsu (許贊育)]]
-- [[people/chi-yi-chen|Chi Yi Chen (陳志宐)]]
-- [[people/ching-fen-hsiao|Ching-Fen Hsiao (蕭清芬)]]
-- [[people/choan-seng-song|Dr. Choan-Seng Song (宋泉盛)]]
-- [[people/christina-lai|Christina Lai (賴李煦煦)]]
-- [[people/david-s-chen|David S. Chen (陳皙宗牧師)]]
-- [[people/dr-joseph-kho|Dr. Joseph Kho (許隼夫博士)]]
-- [[people/felix-liu|Felix Liu (劉富理牧師)]]
-- [[people/hsiu-fang-susan-liu|Hsiu-Fang Susan Liu (陳秀芳)]]
-- [[people/j-m-chiang|J. M. Chiang (江榮茂)]]
-- [[people/janet-tsai|Shu-Hui Janet Tsai (蔡淑慧博士)]]
-- [[people/jen-hao-lee|Jen-Hao Lee (李仁豪牧師)]]
-- [[people/john-chang|John Chang (張景祥牧師)]]
-- [[people/john-chin-jung-cheng|John Chin-Jung Cheng (鄭錦榮牧師)]]
-- [[people/jolan-hsieh|Jolan Hsieh (謝若蘭)]]
-- [[people/m-y-wu|M. Y. Wu (吳美雲)]]
-- [[people/mao-sheng-chen|Mao-Sheng Chen (陳茂生)]]
-- [[people/mark-thelin|Mark Thelin (練馬可博士)]]
-- [[people/mei-li-chen|Mei-Li Chen (陳玫麗)]]
-- [[people/milo-thornberry|Milo Thornberry (唐培禮牧師)]]
-- [[people/peggy-cooley|Peggy Cooley (邱碧玉)]]
-- [[people/prof-tian-min-lin|Prof. Tian-Min Lin (林天民教授)]]
-- [[people/prof-yang-en-cheng|Prof. Yang-En Cheng (鄭仰恩教授)]]
-- [[people/rev-c-l-tong|Rev. C. L. Tong (董俊蘭牧師)]]
-- [[people/rev-c-y-huang|Rev. C. Y. Huang (黃主義牧師)]]
-- [[people/rev-dave-alexander|Rev. Dave Alexander (亞大偉牧師)]]
-- [[people/david-huang|Rev. David Huang (黃德利)]]
-- [[people/rev-h-d-chen|Rev. H. D. Chen (陳浩德牧師)]]
-- [[people/rev-j-m-hsu|Rev. J. M. Hsu (許錦銘牧師)]]
-- [[people/rev-james-chang|Rev. James Chang (張拯民牧師)]]
-- [[people/rev-james-i-cheng|Rev. James I. Cheng (鄭義勇牧師)]]
-- [[people/rev-martin-c-wang|Rev. Martin C. Wang (王成章牧師)]]
-- [[people/rev-r-h-chang|Rev. R. H. Chang (張瑞雄牧師)]]
-- [[people/rev-rui-long-lin|Rev. Rui-Long Lin (林瑞隆牧師)]]
-- [[people/rev-s-y-lin|Rev. S. Y. Lin (林皙陽牧師)]]
-- [[people/rev-sheng-to-shih|Rev. Sheng-To Shih (施聖導牧師)]]
-- [[people/rev-thomas-h-chen|Rev. Thomas H. Chen (陳宏文牧師)]]
-- [[people/rong-hu-lu|Rong-hu Lu (盧榮富)]]
-- [[people/samuel-wu|Samuel Wu (吳德聖牧師)]]
-- [[people/si-zhi-chen|Si Zhi Chen (陳泗治)]]
-- [[people/sonia-lee|Sonia Lee (王淑女)]]
-- [[people/susan-chou|Susan Chou (周淑慧牧師)]]
-- [[people/tina-shih|Tina Shih (施雅婷)]]
-- [[people/wudong-huang|Rev. Wudong Huang (黃武東牧師)]]
-- [[people/yin-yin-huang|Yin Yin Huang (黄煐媖)]]
-- [[people/zai-xing-wang|Zai-Xing Wang (王再興)]]
-- [[organizations/national-taiwanese-presbyterian-council|NTPC]] — US council in the FPCLA / PC(USA) line
+- [[people/tah-p-b256f6296d||賴鴻毅]]
+- [[people/bach-ying-chun-wu||Bach Ying-Chun Wu (吳英俊)]]
+- [[people/zhang-xuanxin||Billy Chang 張宣信]]
+- [[people/c-l-hong||C. L. Hong (洪健棣牧師)]]
+- [[people/c-y-hsu||C.Y. Hsu (許贊育)]]
+- [[people/chi-yi-chen||Chi Yi Chen (陳志宐)]]
+- [[people/ching-fen-hsiao||Ching-Fen Hsiao (蕭清芬)]]
+- [[people/choan-seng-song||Dr. Choan-Seng Song (宋泉盛)]]
+- [[people/christina-lai||Christina Lai (賴李煦煦)]]
+- [[people/david-s-chen||David S. Chen (陳皙宗牧師)]]
+- [[people/dr-joseph-kho||Dr. Joseph Kho (許隼夫博士)]]
+- [[people/felix-liu||Felix Liu (劉富理牧師)]]
+- [[people/hsiu-fang-susan-liu||Hsiu-Fang Susan Liu (陳秀芳)]]
+- [[people/j-m-chiang||J. M. Chiang (江榮茂)]]
+- [[people/janet-tsai||Shu-Hui Janet Tsai (蔡淑慧博士)]]
+- [[people/jen-hao-lee||Jen-Hao Lee (李仁豪牧師)]]
+- [[people/john-chang||John Chang (張景祥牧師)]]
+- [[people/john-chin-jung-cheng||John Chin-Jung Cheng (鄭錦榮牧師)]]
+- [[people/jolan-hsieh||Jolan Hsieh (謝若蘭)]]
+- [[people/m-y-wu||M. Y. Wu (吳美雲)]]
+- [[people/mao-sheng-chen||Mao-Sheng Chen (陳茂生)]]
+- [[people/mark-thelin||Mark Thelin (練馬可博士)]]
+- [[people/mei-li-chen||Mei-Li Chen (陳玫麗)]]
+- [[people/milo-thornberry||Milo Thornberry (唐培禮牧師)]]
+- [[people/peggy-cooley||Peggy Cooley (邱碧玉)]]
+- [[people/prof-tian-min-lin||Prof. Tian-Min Lin (林天民教授)]]
+- [[people/prof-yang-en-cheng||Prof. Yang-En Cheng (鄭仰恩教授)]]
+- [[people/rev-c-l-tong||Rev. C. L. Tong (董俊蘭牧師)]]
+- [[people/rev-c-y-huang||Rev. C. Y. Huang (黃主義牧師)]]
+- [[people/rev-dave-alexander||Rev. Dave Alexander (亞大偉牧師)]]
+- [[people/david-huang||Rev. David Huang (黃德利)]]
+- [[people/rev-h-d-chen||Rev. H. D. Chen (陳浩德牧師)]]
+- [[people/rev-j-m-hsu||Rev. J. M. Hsu (許錦銘牧師)]]
+- [[people/rev-james-chang||Rev. James Chang (張拯民牧師)]]
+- [[people/rev-james-i-cheng||Rev. James I. Cheng (鄭義勇牧師)]]
+- [[people/rev-martin-c-wang||Rev. Martin C. Wang (王成章牧師)]]
+- [[people/rev-r-h-chang||Rev. R. H. Chang (張瑞雄牧師)]]
+- [[people/rev-rui-long-lin||Rev. Rui-Long Lin (林瑞隆牧師)]]
+- [[people/rev-s-y-lin||Rev. S. Y. Lin (林皙陽牧師)]]
+- [[people/rev-sheng-to-shih||Rev. Sheng-To Shih (施聖導牧師)]]
+- [[people/rev-thomas-h-chen||Rev. Thomas H. Chen (陳宏文牧師)]]
+- [[people/rong-hu-lu||Rong-hu Lu (盧榮富)]]
+- [[people/samuel-wu||Samuel Wu (吳德聖牧師)]]
+- [[people/si-zhi-chen||Si Zhi Chen (陳泗治)]]
+- [[people/sonia-lee||Sonia Lee (王淑女)]]
+- [[people/susan-chou||Susan Chou (周淑慧牧師)]]
+- [[people/tina-shih||Tina Shih (施雅婷)]]
+- [[people/wudong-huang||Rev. Wudong Huang (黃武東牧師)]]
+- [[people/yin-yin-huang||Yin Yin Huang (黄煐媖)]]
+- [[people/zai-xing-wang||Zai-Xing Wang (王再興)]]
+- [[organizations/national-taiwanese-presbyterian-council||NTPC]] — US council in the FPCLA / PC(USA) line

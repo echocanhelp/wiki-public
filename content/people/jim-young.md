@@ -44,5 +44,5 @@ For more bio information, please click link in Who’s Who: 971. Cheng-I (Jim) Y
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jim-young/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -36,7 +36,7 @@ last_reviewed: 2026-08-17
 ## Family
 
 - **Wife:** 蕭美完
-- **Son:** [[people/nobu-lu|呂信也]]
+- **Son:** [[people/nobu-lu||呂信也]]
 - **Son:** 呂惠也
 - **Daughter:** 呂玲兒
 
@@ -47,5 +47,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chuang-shien-lu/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

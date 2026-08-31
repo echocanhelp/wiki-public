@@ -39,5 +39,5 @@ Rachel Lin began her violin lessons when she was 8 years old with Dr. Lee Tai Hs
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rachel-lin/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

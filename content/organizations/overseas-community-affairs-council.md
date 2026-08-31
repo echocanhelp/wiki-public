@@ -17,7 +17,7 @@ last_reviewed: 2026-07-22
 
 The **Overseas Community Affairs Council** (**OCAC**; Chinese: 僑務委員會; pinyin: _Qiáo Wù Wěiyuánhuì_) is a **cabinet-level council of the Executive Yuan of the Republic of China (Taiwan)**. Founded in **1926** in Guangzhou, its primary mission is to manage cultural, educational, economic, and informational exchanges between Taiwan and overseas Taiwanese and Chinese-descended communities worldwide.
 
-**Official site:** [www.ocac.gov.tw](https://www.ocac.gov.tw/OCAC/Eng/) · **English site:** [OCAC Eng](https://www.ocac.gov.tw/OCAC/Eng/) · **Source hub:** [[sources/ocac-gov-tw|ocac.gov.tw]]
+**Official site:** [www.ocac.gov.tw](https://www.ocac.gov.tw/OCAC/Eng/) · **English site:** [OCAC Eng](https://www.ocac.gov.tw/OCAC/Eng/) · **Source hub:** [[sources/ocac-gov-tw||ocac.gov.tw]]
 
 ## Identity Snapshot
 
@@ -40,7 +40,7 @@ OCAC has undergone several name changes reflecting Taiwan's evolving political l
 | Name | Period | Notes |
 |------|--------|-------|
 | Overseas Chinese Affairs Commission | October 1926 – April 2006 | Original name |
-| Overseas Compatriot Affairs Commission | April 2006 – 1 September 2012 | Renamed under [[people/chen-shuibian|Chen Shui-bian]] to "avoid being confused as a governmental body of the PRC" |
+| Overseas Compatriot Affairs Commission | April 2006 – 1 September 2012 | Renamed under [[people/chen-shuibian||Chen Shui-bian]] to "avoid being confused as a governmental body of the PRC" |
 | Overseas Chinese Affairs Commission | 1 September 2012 – 12 November 2012 | Brief interim |
 | Overseas Community Affairs Council | Since 12 November 2012 | Current name; reverted under KMT after 2012 election |
 
@@ -117,7 +117,7 @@ OCAC offices may serve in addition to the **Taipei Economic and Cultural Represe
 
 OCAC plays a significant role in the **Taiwanese-American experience** in Southern California and beyond:
 
-- **Funding and support** for Taiwanese-American cultural organizations such as [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]]
+- **Funding and support** for Taiwanese-American cultural organizations such as [[organizations/taiwan-center||Taiwan Center Foundation of the Greater Los Angeles]]
 - **Cultural delegation sponsorship** — e.g., the Heritage Week Cultural Delegation hosted by Taiwan Center (2024, 2025)
 - **Education program coordination** — Taiwan School courses, teacher training, textbook distribution
 - **Certification services** — identity certificates, document authentication for Taiwanese-Americans
@@ -125,15 +125,15 @@ OCAC plays a significant role in the **Taiwanese-American experience** in Southe
 
 ### Notable Interactions
 
-- **[[people/ken-wu|Ken Wu (吳兆峯)]]** served as an **advisor** to OCAC for the Los Angeles area
-- **[[people/hsu-hsin-hung|Hsu Hsin-hung (許信宏)]]** raised concerns at OCAC meetings about cross-strait terminology, advocating for "two countries" framing over "mainland" language
+- **[[people/ken-wu||Ken Wu (吳兆峯)]]** served as an **advisor** to OCAC for the Los Angeles area
+- **[[people/hsu-hsin-hung||Hsu Hsin-hung (許信宏)]]** raised concerns at OCAC meetings about cross-strait terminology, advocating for "two countries" framing over "mainland" language
 - OCAC's **Los Angeles Service Center** (http://ocac.gov.tw/OCAC/SubSites/Home.aspx?site=96775ef4-842d-4e5b-9491-abf5119661d1) provides localized services for Southern California's Taiwanese-American community
 
 ## Current Leadership
 
 | Position | Name | Party | Term |
 |----------|------|-------|------|
-| Minister | Hsu Chia-ching (徐佳青) | [[organizations/democratic-progressive-party|DPP]] | Jan 2023 – present |
+| Minister | Hsu Chia-ching (徐佳青) | [[organizations/democratic-progressive-party||DPP]] | Jan 2023 – present |
 | Vice Minister | Roy Leu (呂欣彥) | — | — |
 
 ### Historical Ministers (selected)
@@ -163,9 +163,9 @@ OCAC plays a significant role in the **Taiwanese-American experience** in Southe
 
 ## Related Pages
 
-- [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]]
-- [[people/ken-wu|Ken Wu (吳兆峯)]]
-- [[people/hsu-hsin-hung|Hsu Hsin-hung (許信宏)]]
-- [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
-- [[organizations/fapa-los-angeles|FAPA Los Angeles]]
-- [[sources/ocac-gov-tw|ocac.gov.tw (source hub)]]
+- [[organizations/taiwan-center||Taiwan Center Foundation of the Greater Los Angeles]]
+- [[people/ken-wu||Ken Wu (吳兆峯)]]
+- [[people/hsu-hsin-hung||Hsu Hsin-hung (許信宏)]]
+- [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society (TAHS)]]
+- [[organizations/fapa-los-angeles||FAPA Los Angeles]]
+- [[sources/ocac-gov-tw||ocac.gov.tw (source hub)]]

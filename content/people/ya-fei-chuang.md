@@ -44,5 +44,5 @@ Acclaimed by critics in the United States and abroad for performances of stunnin
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ya-fei-chuang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -45,5 +45,5 @@ Ching-Tse Lee, Ph.D., Professor Emeritus of Psychology at the City University of
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-ching-tse-lee/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

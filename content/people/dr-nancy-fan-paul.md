@@ -33,7 +33,7 @@ last_reviewed: 2026-08-17
 ## Family
 
 - **Husband:** 蒲仲強
-- **Father:** [[people/fon-may-fan|樊豐美]]
+- **Father:** [[people/fon-may-fan||樊豐美]]
 - **Mother:** 吳玉美
 
 
@@ -42,5 +42,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-nancy-fan-paul/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

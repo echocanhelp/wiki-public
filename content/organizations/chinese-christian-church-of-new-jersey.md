@@ -22,5 +22,5 @@ The Chinese Christian Church of New Jersey (CCCNJ) is a multi-congregation Chris
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/chinese-christian-church-of-new-jersey/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

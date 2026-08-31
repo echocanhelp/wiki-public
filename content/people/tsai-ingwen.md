@@ -10,7 +10,7 @@ last_reviewed: 2026-08-18
 
 # Moved
 
-Canonical page: **[[people/tsai-ing-wen|Tsai Ing Wen]]**.
+Canonical page: **[[people/tsai-ing-wen||Tsai Ing Wen]]**.
 
 Former provisional slug: `tsai-ingwen`.
 

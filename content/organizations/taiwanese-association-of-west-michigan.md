@@ -22,5 +22,5 @@ The Taiwanese Association of West Michigan (西密西根台灣同鄉會) is a re
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-west-michigan/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -23,7 +23,7 @@ C. B. Ku (辜澄彬) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 
 ## Family
 
-- **Wife:** [[people/f-m-huang|黃富美]]
+- **Wife:** [[people/f-m-huang||黃富美]]
 
 
 ## Sources
@@ -31,5 +31,5 @@ C. B. Ku (辜澄彬) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-b-ku/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

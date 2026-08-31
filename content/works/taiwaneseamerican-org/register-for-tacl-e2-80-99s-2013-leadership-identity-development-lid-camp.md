@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/register-for-tacl-e2-80-99s-2013-leadership-identity-development-lid-camp|Register for TACL’s 2013 Leadership Identity Development (LID) Camp]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/register-for-tacl-e2-80-99s-2013-leadership-identity-development-lid-camp||Register for TACL’s 2013 Leadership Identity Development (LID) Camp]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

@@ -32,7 +32,7 @@ Source from 美洲台灣日報http://taiwandaily.net/gp2.aspx?_p=kSF1c9zU9HS21FC
 
 ## Family
 
-- **Husband:** [[people/wang-yao-ting-xie-xiulan|王耀廷]]
+- **Husband:** [[people/wang-yao-ting-xie-xiulan||王耀廷]]
 - **Son:** Wilson (王唯昇)
 
 
@@ -41,5 +41,5 @@ Source from 美洲台灣日報http://taiwandaily.net/gp2.aspx?_p=kSF1c9zU9HS21FC
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/juliar-wang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

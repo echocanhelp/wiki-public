@@ -22,5 +22,5 @@ The Living Well Club of New Jersey is a Taiwanese American senior social organiz
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/living-well-club-of-new-jersey/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

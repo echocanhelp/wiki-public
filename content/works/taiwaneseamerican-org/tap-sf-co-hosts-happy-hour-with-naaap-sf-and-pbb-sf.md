@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/tap-sf-co-hosts-happy-hour-with-naaap-sf-and-pbb-sf|TAP-SF Co-hosts happy hour with NAAAP-SF and PbB SF]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/tap-sf-co-hosts-happy-hour-with-naaap-sf-and-pbb-sf||TAP-SF Co-hosts happy hour with NAAAP-SF and PbB SF]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

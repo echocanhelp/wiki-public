@@ -22,5 +22,5 @@ Taiwanese American Professionals Seattle (TAP-Seattle) is a chapter of the Taiwa
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-professionals-seattle/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

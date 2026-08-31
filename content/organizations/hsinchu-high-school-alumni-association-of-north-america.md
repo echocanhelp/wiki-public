@@ -22,5 +22,5 @@ Hsinchu High School Alumni Association of North America is an alumni organizatio
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/hsinchu-high-school-alumni-association-of-north-america/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

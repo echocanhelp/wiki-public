@@ -162,19 +162,19 @@ Pages that link to **yang-xin** (yang-xin):
 
 ### People (3)
 
-1. [[people/john-chiang|john-chiang]]
-2. [[people/liao-shu-zong|liao-shu-zong]]
-3. [[people/shawna-yang-ryan|shawna-yang-ryan]]
+1. [[people/john-chiang||john-chiang]]
+2. [[people/liao-shu-zong||liao-shu-zong]]
+3. [[people/shawna-yang-ryan||shawna-yang-ryan]]
 
 ### Sources (1)
 
-1. [[sources/2017-tahs-publication|2017-tahs-publication]]
+1. [[sources/2017-tahs-publication||2017-tahs-publication]]
 
 ## Source Notes and Confidence
 
 - **Content priority A:** 2017 TAHS Publication 行政院政務顧問楊信的創業故事 (The Entrepreneurship Story of State Advisor Yang Hsin), Part 1, L290–884 (~594 lines), written by 黃樹人
 - **Content priority A:** Contains extensive biographical narrative from birth through Seville Classics, chamber of commerce leadership, and TPP advocacy
-- **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
+- **Hub:** [[sources/2017-tahs-publication||2017 TAHS Publication]]
 - **Note:** The full text includes detailed biographical information including family background, early work experiences, seat cushion invention, business growth, chamber of commerce activities, and community leadership.
 
 ## Family
@@ -182,11 +182,11 @@ Pages that link to **yang-xin** (yang-xin):
 - **Wife:** 何巧玲
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
+- [[organizations/tah-foundation||TAH Foundation]]
 
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/2017-tahs-publication|2017 TAHS Publication]]
-- [[people/wang-gui-rong|Wang Gui-rong (王桂榮) — fellow community leader]]
-- [[people/franklin-ping-cheng|Franklin Ping Cheng (程炳成) — TAHS president]]
-- [[people/huang-gen-shen|Huang Gen-shen (黃根深) — founding-era member]]
-- [[people/liao-shu-zong|Liao Shu-zong (廖述宗) — NATPA founder]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/2017-tahs-publication||2017 TAHS Publication]]
+- [[people/wang-gui-rong||Wang Gui-rong (王桂榮) — fellow community leader]]
+- [[people/franklin-ping-cheng||Franklin Ping Cheng (程炳成) — TAHS president]]
+- [[people/huang-gen-shen||Huang Gen-shen (黃根深) — founding-era member]]
+- [[people/liao-shu-zong||Liao Shu-zong (廖述宗) — NATPA founder]]

@@ -23,7 +23,7 @@ Miaw Shang Su Lin (林蘇妙香) is listed in the TAH Foundation Who’s Who Tai
 
 ## Family
 
-- **Husband:** [[people/adrian-lin|林宣緒]]
+- **Husband:** [[people/adrian-lin||林宣緒]]
 
 
 ## Sources
@@ -32,5 +32,5 @@ Miaw Shang Su Lin (林蘇妙香) is listed in the TAH Foundation Who’s Who Tai
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/miaw-shang-su-lin/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

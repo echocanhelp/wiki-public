@@ -32,7 +32,7 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Wife:** [[people/ring-lin-hsu|許林碖]]
+- **Wife:** [[people/ring-lin-hsu||許林碖]]
 - **Daughter:** Melissa (許純真)
 - **Son:** 許照信, 許照義
 
@@ -45,5 +45,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-hong-yen-hsu/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

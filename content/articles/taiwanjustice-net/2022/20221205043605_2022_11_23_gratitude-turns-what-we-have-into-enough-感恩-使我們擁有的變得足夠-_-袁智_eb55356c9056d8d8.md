@@ -17,7 +17,7 @@ categories:
 - taiwaneseamerican
 - world-culture
 authors:
-  - [[people/yuan-zhihui|袁志輝]]
+  - [[people/yuan-zhihui||袁志輝]]
 ---
 
 The less the expectation, the more the surprise 期待越少，驚喜越多

@@ -11,7 +11,7 @@ last_reviewed: 2026-08-18
 ---
 # Elder John Lai's Archives (laijohn.com)
 
-Static archive of **[[people/john-lai|Elder John Lai 賴永祥]]** — 台灣教會史（尤其 PCT）史料庫。
+Static archive of **[[people/john-lai||Elder John Lai 賴永祥]]** — 台灣教會史（尤其 PCT）史料庫。
 
 - **Live:** http://www.laijohn.com/ (`Index.htm`)
 - **English:** http://www.laijohn.com/English/Home.htm
@@ -37,6 +37,6 @@ Static archive of **[[people/john-lai|Elder John Lai 賴永祥]]** — 台灣教
 - **Watch:** Sunday continuity `laijohn-com` — seeds = official Who + TOC. AUTO last_reviewed + tier2 only. **Never** About rewrite / 本土信徒 / 史話 bodies.
 
 ## Related Pages
-- [[organizations/elder-john-lai-archives|賴永祥長老史料庫]]
-- [[people/john-lai|Elder John Lai 賴永祥]]
-- [[organizations/presbyterian-church-in-taiwan|PCT]]
+- [[organizations/elder-john-lai-archives||賴永祥長老史料庫]]
+- [[people/john-lai||Elder John Lai 賴永祥]]
+- [[organizations/presbyterian-church-in-taiwan||PCT]]

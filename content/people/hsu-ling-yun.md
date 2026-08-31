@@ -17,7 +17,7 @@ last_reviewed: 2026-08-16
 
 # Hsu Ling-yun (許凌雲)
 
-**Hsu Ling-yun** (許凌雲; Tâi-lô: **Khóo Lîng-hûn**; given name 漢厚, courtesy name 凌雲 — he is known by the courtesy name — style 卓夫; 1862 – 14 September 1944) was a Qing *shengyuan* (秀才) from **下瓦硐** (瓦硐港下社), Baisha, Penghu; a Han-learning teacher; and an early Presbyterian elder. Locals call him the **Watong xiucai** (瓦硐秀才). The *續修澎湖縣志* treats him as **Penghu’s last Qing xiucai**. His former home at Watong Village No. 51 is the [[organizations/hsu-ling-yun-xiucai-memorial-hall|Hsu Ling-yun Xiucai Memorial Hall]].
+**Hsu Ling-yun** (許凌雲; Tâi-lô: **Khóo Lîng-hûn**; given name 漢厚, courtesy name 凌雲 — he is known by the courtesy name — style 卓夫; 1862 – 14 September 1944) was a Qing *shengyuan* (秀才) from **下瓦硐** (瓦硐港下社), Baisha, Penghu; a Han-learning teacher; and an early Presbyterian elder. Locals call him the **Watong xiucai** (瓦硐秀才). The *續修澎湖縣志* treats him as **Penghu’s last Qing xiucai**. His former home at Watong Village No. 51 is the [[organizations/hsu-ling-yun-xiucai-memorial-hall||Hsu Ling-yun Xiucai Memorial Hall]].
 
 Yang Shih-yang’s *信仰偉人列傳* once listed him as a *jinshi* in 1891; later work (Hsu Yu-ho, using Hsu’s own 1897 gentry-badge résumé) treats that as an error — he was a *shengyuan*, not a metropolitan graduate.
 
@@ -47,7 +47,7 @@ Gazetteer: strong in *baguwen*, recited *Zhouyi* and *Maoshi*; did not dabble in
 
 ## Timeline
 
-- **Chongzhen (clan)** — Watong Hsu from Jinmen Zhupu (珠浦). Village founders include 許靖奕 (1618–1698), 許靖博, 許靖樂, 許靖六. Singer [[people/hsu-ching-chun|Hsu Ching-chun (許景淳)]] is recorded as 靖樂 11th-generation — **same village clan, not shown as Ling-yun’s child line**.
+- **Chongzhen (clan)** — Watong Hsu from Jinmen Zhupu (珠浦). Village founders include 許靖奕 (1618–1698), 許靖博, 許靖樂, 許靖六. Singer [[people/hsu-ching-chun||Hsu Ching-chun (許景淳)]] is recorded as 靖樂 11th-generation — **same village clan, not shown as Ling-yun’s child line**.
 - **1862** — Born, lunar 6/29, 下瓦硐. Japanese-era household: 瓦硐港鄉47番戶.
 - **1880 (GX6)** — Penghu *ting* exam, rank 32 (age 19). Then Tongliang with Chen Xi-ming.
 - **1883 (GX9)** — With elder brother at Ruihe cloth firm (瑞和), Tainan 岩後／內宮後. Gazetteer: poor at the ledger, tore a page, scolded by his brother, **went home to study for the exams**.
@@ -131,7 +131,7 @@ What *does* exist is Taiwan/Penghu/PCT only:
 
 **Oral / social (the only NY sentence):**
 
-Singer [[people/hsu-ching-chun|許景淳]] posted a Watong “家族記憶行走” at the hall ([Facebook / christineccmusic](https://www.facebook.com/christineccmusic/posts/3145046432317614)). Public snippet: she is led through the lane by **「自紐約回來的雅琴姑婆」**, who talks about how her grandfather named her.
+Singer [[people/hsu-ching-chun||許景淳]] posted a Watong “家族記憶行走” at the hall ([Facebook / christineccmusic](https://www.facebook.com/christineccmusic/posts/3145046432317614)). Public snippet: she is led through the lane by **「自紐約回來的雅琴姑婆」**, who talks about how her grandfather named her.
 
 Treat as **family oral on a personal post**, not a TAA/NYT/gazetteer fact. It does imply (a) 許雅琴 spent time in New York, (b) 許景淳 addresses her as *gupo* (father’s sister / same-generation aunt) — i.e. 許景淳 is claiming **kinship**, not only same-village surname.
 
@@ -140,7 +140,7 @@ Still missing: a TAA roster, a U.S. address, or 許雅琴’s own statement.
 ### 3. Pupil Lin Mosei (林茂生) — teacher–pupil, then TA 228 memory
 
 - **Teacher–pupil (Penghu gazetteer):** 臺南名士林燕臣、**林茂生**即其得意門生 — [penghu.info〈許凌雲〉](https://penghu.info/OB8D7D9C164FCF102ED7); repeated on [澎湖通訊社](https://www.phnes.net/%E6%BE%8E%E6%B9%96%E6%96%87%E5%8C%96%E8%B3%87%E7%94%A2%E6%96%B0%E6%93%9A%E9%BB%9E-%E7%99%BD%E6%B2%99%E7%93%A6%E7%A1%90%E8%A8%B1%E5%87%8C%E9%9B%B2%E7%A7%80%E6%89%8D%E7%B4%80%E5%BF%B5%E9%A4%A8%E7%94%B3).
-- **228 victim** named in U.S. Taiwanese community ritual: 2025-02-22 台灣會館「228追思紀念大會」, 24 groups; **TAHS 會長楊嘉猷** present; 林榮松 names 林茂生、湯德章、施江南. Source: 林蓮華 / 楊嘉猷, [台灣公論報](https://taiwanjustice.net/%E5%A4%A7%E6%B4%9B%E6%9D%89%E7%A3%AF%E5%8F%B0%E7%81%A3%E6%9C%83%E9%A4%A8%E7%AD%8924%E5%80%8B%E5%8F%B0%E7%BE%8E%E7%A4%BE%E5%9C%98%E8%88%89%E8%88%89%E8%A1%8C228%E8%BF%BD%E6%80%9D%E7%B4%80%E5%BF%B5/) · vault [[articles/taiwanjustice-net/2025/20250320212940_大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念_c62f5c50846fe267]].
+- **228 victim** named in U.S. Taiwanese community ritual: 2025-02-22 台灣會館「228追思紀念大會」, 24 groups; **TAHS 會長楊嘉猷** present; 林榮松 names 林茂生、湯德章、施江南. Source: 林蓮華 / 楊嘉猷, [台灣公論報](https://taiwanjustice.net/%E5%A4%A7%E6%B4%9B%E6%9D%89%E7%A3%AF%E5%8F%B0%E7%81%A3%E6%9C%83%E9%A4%A8%E7%AD%8924%E5%80%8B%E5%8F%B0%E7%BE%8E%E7%A4%BE%E5%9C%98%E8%88%89%E8%88%89%E8%A1%8C228%E8%BF%BD%E6%80%9D%E7%B4%80%E5%BF%B5/) · vault [[articles/taiwanjustice-net/2025/20250320212940_大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念_c62f5c50846fe267]]]].
 
 This is **commemoration of a student**, not Hsu family in America.
 
@@ -170,8 +170,8 @@ Need one of: 許雅琴 in a TAA/NY church directory; her own bio with borough/ye
 - Lin Yen-chen, Lin Mosei; Fang Ssu-wen and three other village heirs
 - Lin Lieh-tang / Lin Chui-chu / Lin Hsien-tang; Cai Peihuo
 - Dr. Kao Tsai-chu; Rev. Kao Chin-sheng
-- [[organizations/hsu-ling-yun-xiucai-memorial-hall|Hsu Ling-yun Xiucai Memorial Hall]]
-- [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]]
+- [[organizations/hsu-ling-yun-xiucai-memorial-hall||Hsu Ling-yun Xiucai Memorial Hall]]
+- [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan]]
 
 ## Quotes
 
@@ -185,10 +185,10 @@ Hall couplet: 「聖道教人時雨化」／「福音牖世春風生」.
 
 ## Related Pages
 
-- [[organizations/hsu-ling-yun-xiucai-memorial-hall|Hsu Ling-yun Xiucai Memorial Hall]]
-- [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]]
-- [[people/hsu-ching-chun|Hsu Ching-chun (許景淳)]] — Watong Hsu / 靖樂 line (clan, not proven direct descent)
-- [[organizations/elder-john-lai-archives|賴永祥長老史料庫]] — 史話 321 + 許凌雲秀才檔
+- [[organizations/hsu-ling-yun-xiucai-memorial-hall||Hsu Ling-yun Xiucai Memorial Hall]]
+- [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan]]
+- [[people/hsu-ching-chun||Hsu Ching-chun (許景淳)]] — Watong Hsu / 靖樂 line (clan, not proven direct descent)
+- [[organizations/elder-john-lai-archives||賴永祥長老史料庫]] — 史話 321 + 許凌雲秀才檔
 
 ## Sources
 

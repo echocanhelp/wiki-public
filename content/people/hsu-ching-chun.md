@@ -22,9 +22,9 @@ last_reviewed: 2026-08-17
 
 **Hsu Ching-chun** (許景淳; English stage name **Christine Hsu**; nicknames 阿淳、耶莉雅; b. 21 November 1963, Wufeng, Taichung County) is a Taiwanese singer, songwriter, musical-theatre performer, radio producer/host, and teacher. She studied Western music at Taipei Hwa Kang Arts School and was a student of Li Tai-hsiang (李泰祥). Active from 1984. Wikipedia lists her faith as **Christian**.
 
-She was raised in a **[[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan (PCT / 台灣基督長老教會)]] household**. The church connection is not only a faith label: hymn-singing, a Christian children’s choir, her father’s church-music posts (ORTV / 天韻; later 台福 choir), and SoCal church-consortium concerts are the documented mechanisms.
+She was raised in a **[[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan (PCT / 台灣基督長老教會)]] household**. The church connection is not only a faith label: hymn-singing, a Christian children’s choir, her father’s church-music posts (ORTV / 天韻; later 台福 choir), and SoCal church-consortium concerts are the documented mechanisms.
 
-She is recorded on Penghu’s clan note as an 11th-generation descendant of Watong Hsu ancestor **許靖樂**. That is **the same village Hsu clan** as [[people/hsu-ling-yun|Hsu Ling-yun (許凌雲)]], not a published pedigree that she is the *xiucai*’s granddaughter.
+She is recorded on Penghu’s clan note as an 11th-generation descendant of Watong Hsu ancestor **許靖樂**. That is **the same village Hsu clan** as [[people/hsu-ling-yun||Hsu Ling-yun (許凌雲)]], not a published pedigree that she is the *xiucai*’s granddaughter.
 
 ## Identity Snapshot
 
@@ -52,7 +52,7 @@ The published trail is **household + father’s church-music offices + hymn circ
 | Diaspora church (father) | At founding of **台福教會 (Evangelical Formosan Church / EFC)** he was hired as choir conductor; later “mysterious guest” at **傳揚雜誌** 30th anniversary, singing hymns on stage with 許景淳 (TAH #258). TJ title matches: 「許丕龍與許景淳父女＿傳陽雜誌30週年(abt.2008)演唱會片段」 | Do **not** collapse 台福 into FPCLA (Formosan Presbyterian Church in LA) — different denomination |
 | SoCal church-consortium concert | Oct 1982: 蕭泰然 + 許丕龍 / 台灣音樂社, first SoCal **感恩節音樂會** at **水晶大教堂 (Crystal Cathedral)**, with 同鄉會 + **十個南加州教會團體**; ~3,000 in hall (TAH #258) | Named list of the ten churches |
 | Hymn / gospel product | PCT 斗南教會 (2011-09-11 weekly): 蕭月瑕愛牧基金會 sold **許景淳福音詩歌 CD** at a 設教60週年 concert for the building fund | Album title / label of that CD not given in the bulletin |
-| PCT political-music line (father) | After hearing [[people/kao-chun-ming]], 許丕龍 + 蕭泰然 wrote 〈蕃薯不驚落土爛〉 — still a SoCal 台美社團 staple (TAH #258) | 許景淳 as co-writer — **not claimed** |
+| PCT political-music line (father) | After hearing [[people/kao-chun-ming]]]], 許丕龍 + 蕭泰然 wrote 〈蕃薯不驚落土爛〉 — still a SoCal 台美社團 staple (TAH #258) | 許景淳 as co-writer — **not claimed** |
 
 **Read the 2008 台福 stage and the later “no contact” remarks as different years.** TAH #258 (2015, reprinting 美洲台灣日報) describes father and daughter singing hymns together at the 傳揚 30th. 民報 (2020) quotes her TV remarks that the two households “因故脫離關係” and had not been in contact for years. Both can be true across time; do not flatten.
 
@@ -69,14 +69,14 @@ Younger years: after her father left, she helped her mother raise three younger 
 
 | Relation | Name | Notes |
 |----------|------|--------|
-| Father | Hsu Pi-lung 許丕龍 | Chemical engineer; church choir director; **ORTV / 天韻** music-department head; later 台福 choir conductor. DPP: 中評會主委, 第二屆國大, ran for **Penghu county magistrate** (lost; TAH #258: ~5,000 votes shy). 1982 Crystal Cathedral Thanksgiving concert with 蕭泰然. Later relationship with 蔡瀛如; the couple went to the **United States**. 民報 (church sources): aide to Hsu Hsin-liang (許信良). Seen at Tsai Ing-wen’s 2015 U.S. overseas-Taiwanese banquet and 2016 inauguration. TAH #258 groups him in 民主運動南加幫 with 謝清志、鍾金江、江昭儀、[[people/yang-jia-you]]、[[people/chen-zhaonan]]. |
+| Father | Hsu Pi-lung 許丕龍 | Chemical engineer; church choir director; **ORTV / 天韻** music-department head; later 台福 choir conductor. DPP: 中評會主委, 第二屆國大, ran for **Penghu county magistrate** (lost; TAH #258: ~5,000 votes shy). 1982 Crystal Cathedral Thanksgiving concert with 蕭泰然. Later relationship with 蔡瀛如; the couple went to the **United States**. 民報 (church sources): aide to Hsu Hsin-liang (許信良). Seen at Tsai Ing-wen’s 2015 U.S. overseas-Taiwanese banquet and 2016 inauguration. TAH #258 groups him in 民主運動南加幫 with 謝清志、鍾金江、江昭儀、[[people/yang-jia-you]]]]、[[people/chen-zhaonan]]]]. |
 | Mother | (not named on Wikipedia) | Raised the four daughters after the split |
-| Father’s later spouse | Tsai Ying-ju 蔡瀛如 | Sister of [[people/tsai-ing-wen|Tsai Ing-wen (蔡英文)]]. Met in church choir. |
+| Father’s later spouse | Tsai Ying-ju 蔡瀛如 | Sister of [[people/tsai-ing-wen||Tsai Ing-wen (蔡英文)]]. Met in church choir. |
 | 許景淳 on the split | — | Has said publicly she was “abandoned” at **age 11**; later the two households “因故脫離關係,” years without contact (民報 summarizing her TV remarks). TAH #258 independently: he left for the U.S. when she was 11. |
 | Sister | Lin Ching-ying 林景瀅 | Former singer |
 | Son | Lin Tzu-hsuan 林子軒 | Married dancer Wang Chien-yi (王芊懿); daughter born Aug 2022 — Hsu became a grandmother |
 
-**Watong / 許凌雲:** [蔡光庭〈瓦硐許姓〉](https://penghu.info/OB9B088F09F89D8B7F9E) — 許景淳 = 靖樂 11 世. Her own Facebook “家族記憶行走” at [[organizations/hsu-ling-yun-xiucai-memorial-hall|許凌雲秀才紀念館]] walks the lane with **雅琴姑婆** (oral: back from New York). That is **her** kinship claim; gazetteer does not print 許凌雲 → 許景淳.
+**Watong / 許凌雲:** [蔡光庭〈瓦硐許姓〉](https://penghu.info/OB9B088F09F89D8B7F9E) — 許景淳 = 靖樂 11 世. Her own Facebook “家族記憶行走” at [[organizations/hsu-ling-yun-xiucai-memorial-hall||許凌雲秀才紀念館]] walks the lane with **雅琴姑婆** (oral: back from New York). That is **her** kinship claim; gazetteer does not print 許凌雲 → 許景淳.
 
 ## Timeline (career)
 
@@ -156,11 +156,11 @@ TAH #196 (not in the Wikipedia table): 金鼎獎最佳演唱 **1987, 1992, 1993*
 
 - **Church-music (hers):** 台北基督教兒童合唱團 / 林福裕; 金韻獎 四小合唱團 (黃韻玲 et al.)
 - **Church-music (father’s offices, her childhood air):** ORTV 天韻; 台福 choir; 1982 Crystal Cathedral consortium
-- **PCT political-music (father):** [[people/kao-chun-ming|高俊明]] → 〈蕃薯不驚落土爛〉 with 蕭泰然
-- **SoCal 民主運動南加幫 (father):** [[people/yang-jia-you|楊嘉猷]], [[people/chen-zhaonan|陳昭南]] (TAH #258 list)
+- **PCT political-music (father):** [[people/kao-chun-ming||高俊明]] → 〈蕃薯不驚落土爛〉 with 蕭泰然
+- **SoCal 民主運動南加幫 (father):** [[people/yang-jia-you||楊嘉猷]], [[people/chen-zhaonan||陳昭南]] (TAH #258 list)
 - **Pop/art music:** 李泰祥, 張弘毅, 陳揚, 陳明章, 潘芳烈
-- **Clan:** [[people/hsu-ling-yun|許凌雲]] / [[organizations/hsu-ling-yun-xiucai-memorial-hall|秀才館]] — same Watong Hsu, not proven granddaughter
-- **Archive:** [[organizations/taiwanese-american-historical-society|TAHS / TAH]] #196 + #258
+- **Clan:** [[people/hsu-ling-yun||許凌雲]] / [[organizations/hsu-ling-yun-xiucai-memorial-hall||秀才館]] — same Watong Hsu, not proven granddaughter
+- **Archive:** [[organizations/taiwanese-american-historical-society||TAHS / TAH]] #196 + #258
 
 ## Quotes
 
@@ -183,14 +183,14 @@ Do not write her as a Taiwanese American biography. The U.S. nodes are **(1) TAH
 
 ## Related Pages
 
-- [[people/hsu-ling-yun|Hsu Ling-yun (許凌雲)]] — same Watong Hsu clan (靖樂 line); not proven direct descent
-- [[organizations/hsu-ling-yun-xiucai-memorial-hall|Hsu Ling-yun Xiucai Memorial Hall]]
-- [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]] — household denomination; gospel-CD circulation (斗南)
-- [[people/kao-chun-ming|Rev. Kao Chun-ming (高俊明)]] — father’s post-sermon hymn with 蕭泰然 (not her office)
-- [[people/yang-jia-you|Charles Yang (楊嘉猷)]] — named with 許丕龍 in TAH #258 南加幫 list
-- [[people/chen-zhaonan|Chen Chao-nan (陳昭南)]] — same list
-- [[people/tsai-ing-wen|Tsai Ing-wen (蔡英文)]] — father’s later sister-in-law (sourced; not 許景淳’s own office)
-- [[organizations/taiwanese-american-historical-society|TAHS]] — TAH #196 / #258
+- [[people/hsu-ling-yun||Hsu Ling-yun (許凌雲)]] — same Watong Hsu clan (靖樂 line); not proven direct descent
+- [[organizations/hsu-ling-yun-xiucai-memorial-hall||Hsu Ling-yun Xiucai Memorial Hall]]
+- [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan]] — household denomination; gospel-CD circulation (斗南)
+- [[people/kao-chun-ming||Rev. Kao Chun-ming (高俊明)]] — father’s post-sermon hymn with 蕭泰然 (not her office)
+- [[people/yang-jia-you||Charles Yang (楊嘉猷)]] — named with 許丕龍 in TAH #258 南加幫 list
+- [[people/chen-zhaonan||Chen Chao-nan (陳昭南)]] — same list
+- [[people/tsai-ing-wen||Tsai Ing-wen (蔡英文)]] — father’s later sister-in-law (sourced; not 許景淳’s own office)
+- [[organizations/taiwanese-american-historical-society||TAHS]] — TAH #196 / #258
 
 ## Sources
 - [TAH #196 encyclopedia: 196. Christine Hsu許景淳, Singer/2015/05](https://taiwaneseamericanhistory.org/196-christine-hsu%e8%a8%b1%e6%99%af%e6%b7%b3-singer201505/)

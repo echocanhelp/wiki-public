@@ -10,6 +10,6 @@ last_reviewed: 2026-08-16
 
 # Moved
 
-Canonical page: **[[people/frank-hsieh|Frank Hsieh (謝長廷)]]**.
+Canonical page: **[[people/frank-hsieh||Frank Hsieh (謝長廷)]]**.
 
 Former provisional slug: `xie-changting`.

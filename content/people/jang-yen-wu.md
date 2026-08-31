@@ -46,5 +46,5 @@ Assistant, Associate, Senior Scientist and Section Head
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jang-yen-wu/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

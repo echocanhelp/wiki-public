@@ -34,7 +34,7 @@ last_reviewed: 2026-08-17
 
 - **Wife:** May Chiu (邱鈺琳)
 - **Father:** 林靜竹
-- **Mother:** [[people/shih-chen-hsu|許世真]]
+- **Mother:** [[people/shih-chen-hsu||許世真]]
 
 
 ## Sources
@@ -42,5 +42,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-jim-lin/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

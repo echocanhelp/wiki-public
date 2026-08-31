@@ -10,6 +10,6 @@ last_reviewed: 2026-08-10
 
 # Moved
 
-Canonical page: **[[people/yi-sen-lee|Yi Sen Lee (李意盛)]]**.
+Canonical page: **[[people/yi-sen-lee||Yi Sen Lee (李意盛)]]**.
 
 Former provisional slug: `li-yisheng`.

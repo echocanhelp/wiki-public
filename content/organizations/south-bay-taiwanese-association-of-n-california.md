@@ -22,5 +22,5 @@ The South Bay Taiwanese Association of N. California (北加州 南灣台灣同�
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/south-bay-taiwanese-association-of-n-california/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

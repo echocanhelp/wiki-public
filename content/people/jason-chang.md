@@ -47,5 +47,5 @@ Jason Chang, President of North America Pastel Artists Association, board member
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jason-chang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

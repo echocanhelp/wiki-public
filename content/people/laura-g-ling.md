@@ -41,5 +41,5 @@ Co-author, Somewhere Inside: One Sister's Captivity in North Korea and the Other
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/laura-g-ling/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

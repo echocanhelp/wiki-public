@@ -47,5 +47,5 @@ President of Taiwanese Association of West Germany and Taiwanese Association of 
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chao-yuh-yang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -43,5 +43,5 @@ Vice President of The National Taiwan University Alumni Association in the Washi
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/j-w-huang-lee/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

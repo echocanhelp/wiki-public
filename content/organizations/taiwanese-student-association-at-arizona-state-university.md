@@ -22,5 +22,5 @@ The Taiwanese Student Association at Arizona State University (TSA @ ASU) is a s
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-student-association-at-arizona-state-university/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

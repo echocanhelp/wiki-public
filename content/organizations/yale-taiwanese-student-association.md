@@ -22,5 +22,5 @@ The Yale Taiwanese Student Association (YTSA, 耶魯臺灣同學會) is a gradua
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/yale-taiwanese-student-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

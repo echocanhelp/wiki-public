@@ -22,13 +22,13 @@ last_reviewed: 2026-08-17
 - **Source:** TAH Foundation Who’s Who
 - **Official listing:** [Grace H. Yeh 張信惠](https://taiwaneseamericanhistory.org/person/grace-h-yeh/)
 
-TAH lists her as the first appointed organist of [[organizations/formosan-presbyterian-church-in-los-angeles|FPCLA]], 1971–74. Same 漢名 as the musician on the couple page [[people/ye-siya-zhang-xinhui|葉思雅、張信惠]]; husband listing: [[people/prof-sze-ya-yeh|Prof. Sze-ya Yeh]].
+TAH lists her as the first appointed organist of [[organizations/formosan-presbyterian-church-in-los-angeles||FPCLA]], 1971–74. Same 漢名 as the musician on the couple page [[people/ye-siya-zhang-xinhui||葉思雅、張信惠]]; husband listing: [[people/prof-sze-ya-yeh||Prof. Sze-ya Yeh]].
 
 ## Network
-- [[organizations/formosan-presbyterian-church-in-los-angeles|FPCLA]] — TAH: first appointed organist, 1971–74
-- [[people/ye-siya-zhang-xinhui|Ye Siya & Zhang Xinhui]]
-- [[people/prof-sze-ya-yeh|Prof. Sze-ya Yeh (葉思雅教授)]]
+- [[organizations/formosan-presbyterian-church-in-los-angeles||FPCLA]] — TAH: first appointed organist, 1971–74
+- [[people/ye-siya-zhang-xinhui||Ye Siya & Zhang Xinhui]]
+- [[people/prof-sze-ya-yeh||Prof. Sze-ya Yeh (葉思雅教授)]]
 
 ## Sources
 - [Grace H. Yeh 張信惠](https://taiwaneseamericanhistory.org/person/grace-h-yeh/)
-- [[sources/taiwaneseamericanhistory-org|TAH Foundation Who’s Who]]
+- [[sources/taiwaneseamericanhistory-org||TAH Foundation Who’s Who]]

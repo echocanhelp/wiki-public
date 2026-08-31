@@ -43,5 +43,5 @@ Prof. Tsan-Iang Chuang 莊燦陽教授 – History of Taiwanese American (T.A. A
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-tsan-iang-chuang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

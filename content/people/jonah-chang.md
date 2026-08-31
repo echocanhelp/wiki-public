@@ -17,7 +17,7 @@ last_reviewed: 2026-08-17
 
 ## Identity Snapshot
 
-> **Primary work page:** [[sources/toward-a-community-of-hope|Toward A Community of Hope (work & sources)]]  
+> **Primary work page:** [[sources/toward-a-community-of-hope||Toward A Community of Hope (work & sources)]]  
 > **Full text (GitHub):** [complete extract](https://github.com/echocanhelp/wiki-public/blob/gh-pages/knowledge/web-archives/albert-lai-toward-community-of-hope.md)
 
 
@@ -65,7 +65,7 @@ Later republication materials and wiki narrative also associate Chang with an ea
 
 ### Body Mentions (1 article)
 
-1. **2025** — [[sources/toward-a-community-of-hope|Toward A Community of Hope (2025 reprint)]] — August 1970 experimental church, first worship attendance, catalyst for permanent organization
+1. **2025** — [[sources/toward-a-community-of-hope||Toward A Community of Hope (2025 reprint)]] — August 1970 experimental church, first worship attendance, catalyst for permanent organization
 
 ## Publications
 
@@ -93,21 +93,21 @@ Pages that link to **jonah-chang** (jonah-chang):
 
 ### People (5)
 
-1. [[people/albert-s-lai|albert-s-lai]]
-2. [[people/albert-s-lai|albert-s-lai]]
-3. [[people/c-c-chen|c-c-chen]]
-4. [[people/chaolong-kao|chaolong-kao]]
-5. [[people/daniel-kao|daniel-kao]]
+1. [[people/albert-s-lai||albert-s-lai]]
+2. [[people/albert-s-lai||albert-s-lai]]
+3. [[people/c-c-chen||c-c-chen]]
+4. [[people/chaolong-kao||chaolong-kao]]
+5. [[people/daniel-kao||daniel-kao]]
 
 ### Organizations (3)
 
-1. [[organizations/formosan-presbyterian-church-in-los-angeles|formosan-presbyterian-church-in-los-angeles]]
-2. [[organizations/formosan-presbyterian-church-in-los-angeles|formosan-presbyterian-church-in-los-angeles]]
-3. [[organizations/formosan-presbyterian-church-in-los-angeles|formosan-presbyterian-church-in-los-angeles]]
+1. [[organizations/formosan-presbyterian-church-in-los-angeles||formosan-presbyterian-church-in-los-angeles]]
+2. [[organizations/formosan-presbyterian-church-in-los-angeles||formosan-presbyterian-church-in-los-angeles]]
+3. [[organizations/formosan-presbyterian-church-in-los-angeles||formosan-presbyterian-church-in-los-angeles]]
 
 ### Sources (1)
 
-1. [[sources/toward-a-community-of-hope|toward-a-community-of-hope]]
+1. [[sources/toward-a-community-of-hope||toward-a-community-of-hope]]
 
 ## Source Notes and Confidence
 
@@ -122,8 +122,8 @@ Pages that link to **jonah-chang** (jonah-chang):
 
 ## Related Pages
 
-- [[sources/toward-a-community-of-hope|Toward A Community of Hope]]
+- [[sources/toward-a-community-of-hope||Toward A Community of Hope]]
 
-- [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
-- [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
-- [[people/chaolong-kao|Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)]]
+- [[organizations/formosan-presbyterian-church-in-los-angeles||Formosan Presbyterian Church in Los Angeles (FPCLA)]]
+- [[people/albert-s-lai||Dr. Albert S. Lai (賴信雄)]]
+- [[people/chaolong-kao||Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)]]

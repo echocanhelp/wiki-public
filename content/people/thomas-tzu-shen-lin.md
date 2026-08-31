@@ -48,5 +48,5 @@ Research Associate
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/thomas-tzu-shen-lin/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

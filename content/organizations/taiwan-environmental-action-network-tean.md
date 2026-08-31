@@ -22,5 +22,5 @@ Taiwan Environmental Action Network (TEAN) is an action-oriented environmental a
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwan-environmental-action-network-tean/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

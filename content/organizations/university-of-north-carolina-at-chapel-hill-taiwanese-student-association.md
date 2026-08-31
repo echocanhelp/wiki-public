@@ -22,5 +22,5 @@ The University of North Carolina at Chapel Hill Taiwanese Student Association (U
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/university-of-north-carolina-at-chapel-hill-taiwanese-student-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

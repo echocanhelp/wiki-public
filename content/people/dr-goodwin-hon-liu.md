@@ -36,7 +36,7 @@ last_reviewed: 2026-08-17
 - **Wife:** Ann O’Leary
 - **Daughter:** Violet O’Leary-Liu
 - **Son:** Emmett O’Leary-Liu
-- **Father:** [[people/w-b-liu|劉文彬]]
+- **Father:** [[people/w-b-liu||劉文彬]]
 - **Mother:** 蔡洋清
 
 
@@ -46,5 +46,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-goodwin-hon-liu/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

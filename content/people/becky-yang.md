@@ -14,7 +14,7 @@ last_reviewed: 2026-08-02
 
 # Becky Yang
 
-**Becky Yang** is a Taiwanese American community participant in [[organizations/taiwanese-american-historical-society|TAHS]] LINE circles. Per owner verification (2026-08-02), she is the spouse of [[people/yang-jia-you|Charles Yang (楊嘉猷 / Chia you)]], founding president of the Taiwanese American Historical Society, and a grandmother of [[people/yang-zhengxiang|Ethan Yang (楊正光)]].
+**Becky Yang** is a Taiwanese American community participant in [[organizations/taiwanese-american-historical-society||TAHS]] LINE circles. Per owner verification (2026-08-02), she is the spouse of [[people/yang-jia-you||Charles Yang (楊嘉猷 / Chia you)]], founding president of the Taiwanese American Historical Society, and a grandmother of [[people/yang-zhengxiang||Ethan Yang (楊正光)]].
 
 ## Identity Snapshot
 
@@ -35,8 +35,8 @@ last_reviewed: 2026-08-02
 
 ## Family
 
-- Spouse: [[people/yang-jia-you|Charles Yang (楊嘉猷)]] — TAHS founding president
-- Grandson: [[people/yang-zhengxiang|Ethan Yang (楊正光)]] — third-generation Taiwanese American profiled in 2023 TAHS publication
+- Spouse: [[people/yang-jia-you||Charles Yang (楊嘉猷)]] — TAHS founding president
+- Grandson: [[people/yang-zhengxiang||Ethan Yang (楊正光)]] — third-generation Taiwanese American profiled in 2023 TAHS publication
 
 ## Introduction Context
 
@@ -77,10 +77,10 @@ Becky has also shared community reading material in the LINE group (e.g. a long-
 
 ## Related Pages
 
-- [[people/yang-jia-you|Charles Yang (楊嘉猷)]]
-- [[people/yang-zhengxiang|Ethan Yang (楊正光)]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]]
+- [[people/yang-jia-you||Charles Yang (楊嘉猷)]]
+- [[people/yang-zhengxiang||Ethan Yang (楊正光)]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[people/leonard-hsu-jr||Leonard Hsu Jr. (許景鴻)]]
 - 2017 / 2023 TAHS Publication source hubs (restore pending if missing locally)
 
 ## Revision History

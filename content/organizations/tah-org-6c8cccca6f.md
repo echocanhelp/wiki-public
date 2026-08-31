@@ -22,5 +22,5 @@ The Greater Kansas Acupuncture and Oriental Medicine Association is a community 
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/%e5%a4%a7%e5%a0%aa%e8%96%a9%e6%96%af%e9%87%9d%e7%81%b8%e5%8f%8a%e6%9d%b1%e6%96%b9%e9%86%ab%e5%ad%b8%e5%ad%b8%e6%9c%83/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

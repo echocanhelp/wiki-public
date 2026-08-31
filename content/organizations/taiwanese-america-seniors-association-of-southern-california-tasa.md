@@ -22,5 +22,5 @@ The Taiwanese-America Seniors Association of Southern California (TASA) is a com
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-america-seniors-association-of-southern-california-tasa/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

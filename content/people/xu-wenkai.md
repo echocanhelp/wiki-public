@@ -31,4 +31,4 @@ Elder Xu appears in church bulletin records and is recognized as a community eld
 - Romanized: Xu Wenkai / Xu Wenkai
 
 ## Related Pages
-- [[people/index|People Index]]
+- [[people/index||People Index]]

@@ -33,7 +33,7 @@ Born in Taipei in 1943, Komi Chen grew up in an art painting family and was infl
 ## Family
 
 - **Husband:** 陳根地
-- **Father:** [[people/hsueh-hu-kuo|郭雪湖]]
+- **Father:** [[people/hsueh-hu-kuo||郭雪湖]]
 - **Mother:** 林阿琴
 
 
@@ -43,5 +43,5 @@ Born in Taipei in 1943, Komi Chen grew up in an art painting family and was infl
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/komi-chen/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

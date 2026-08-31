@@ -27,11 +27,11 @@ last_reviewed: 2026-07-23
 
 ## TAHS Founding
 
-Zheng Bingquan was the first convener of the Taiwanese American Historical Society, beginning the process in June 2013 by convening community leaders, notably 楊嘉猷 (Charles Yang). He was one of the key founders alongside Yang (founding president), 周威霖 (secretary), and 王耀廷 (vice president). He also served as an interviewer for the 2017 TAHS Publication, conducting the profile interview of [[people/anne-shih|Anne Shih]] (施劉秀枝).
+Zheng Bingquan was the first convener of the Taiwanese American Historical Society, beginning the process in June 2013 by convening community leaders, notably 楊嘉猷 (Charles Yang). He was one of the key founders alongside Yang (founding president), 周威霖 (secretary), and 王耀廷 (vice president). He also served as an interviewer for the 2017 TAHS Publication, conducting the profile interview of [[people/anne-shih||Anne Shih]] (施劉秀枝).
 
 ## Editorial Work
 
-Zheng was listed as an editor/compiler of the 2017 TAHS Publication, alongside [[people/zhou-wei-liang|周威廉]], 周威霖, Edda Huang, 楊文顯, 楊遠薰, and [[people/stella-chen|陳婉真]].
+Zheng was listed as an editor/compiler of the 2017 TAHS Publication, alongside [[people/zhou-wei-liang||周威廉]], 周威霖, Edda Huang, 楊文顯, 楊遠薰, and [[people/stella-chen||陳婉真]].
 
 
 ## Network
@@ -41,16 +41,16 @@ Pages that link to **zheng-bing-quan** (zheng-bing-quan):
 
 ### People (1)
 
-1. [[people/wang-yao-ting|wang-yao-ting]]
+1. [[people/wang-yao-ting||wang-yao-ting]]
 
 ### Organizations (1)
 
-1. [[organizations/taiwanese-american-historical-society|taiwanese-american-historical-society]]
+1. [[organizations/taiwanese-american-historical-society||taiwanese-american-historical-society]]
 
 ## Source Notes and Confidence
 
 - **Content priority B:** 2017 TAHS Publication (editor credits, founding narrative by 周威霖)
-- **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
+- **Hub:** [[sources/2017-tahs-publication||2017 TAHS Publication]]
 - **Status:** Stub — needs expanded biographical details
 
 ## Name Variants / Disambiguation
@@ -60,8 +60,8 @@ Pages that link to **zheng-bing-quan** (zheng-bing-quan):
 
 ## Related Pages
 
-- [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
-- [[sources/2017-tahs-publication|2017 TAHS Publication]]
-- [[people/yang-jia-you|楊嘉猷 (Charles Yang)]]
-- [[people/zhou-wei-lin|周威霖 (Zhou Wei-lin)]]
-- [[people/wang-yao-ting|王耀廷 (Wang Yao-ting)]]
+- [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society (TAHS)]]
+- [[sources/2017-tahs-publication||2017 TAHS Publication]]
+- [[people/yang-jia-you||楊嘉猷 (Charles Yang)]]
+- [[people/zhou-wei-lin||周威霖 (Zhou Wei-lin)]]
+- [[people/wang-yao-ting||王耀廷 (Wang Yao-ting)]]

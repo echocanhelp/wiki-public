@@ -14,7 +14,7 @@ last_reviewed: 2026-07-19
 ---
 # Martha VanDriel (Martha S.H. VanDriel)
 
-**Colonel Martha S.H. VanDriel** (née Hsu, [[people/ho-rui-hsu|許和瑞]]'s daughter) is a retired U.S. Army officer who served for over 26 years. She is the **first Taiwanese-American woman to graduate from the U.S. Military Academy at West Point** (1991), graduating in the top 10% of her class. She retired in September 2017 from the Office of the Secretary of Defense.
+**Colonel Martha S.H. VanDriel** (née Hsu, [[people/ho-rui-hsu||許和瑞]]'s daughter) is a retired U.S. Army officer who served for over 26 years. She is the **first Taiwanese-American woman to graduate from the U.S. Military Academy at West Point** (1991), graduating in the top 10% of her class. She retired in September 2017 from the Office of the Secretary of Defense.
 
 ## Identity Snapshot
 
@@ -89,12 +89,12 @@ Martha VanDriel's story is remarkable for several reasons:
 
 - **Content priority A:** 2017 TAHS Publication (profile Part 2, ~150 lines), self-authored profile with editor's note
 - **Content priority A:** Contains detailed biographical narrative including early life, West Point, military career, and retirement
-- **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
+- **Hub:** [[sources/2017-tahs-publication||2017 TAHS Publication]]
 - **Note:** The full text includes detailed biographical information including family background, education, and military career.
 
 ## Related Pages
 
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/2017-tahs-publication|2017 TAHS Publication]]
-- [[people/franklin-ping-cheng|Franklin Ping Cheng (程炳成) — TAHS president]]
-- [[people/yang-jia-you|Charles Yang (楊嘉猷) — TAHS founding president]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/2017-tahs-publication||2017 TAHS Publication]]
+- [[people/franklin-ping-cheng||Franklin Ping Cheng (程炳成) — TAHS president]]
+- [[people/yang-jia-you||Charles Yang (楊嘉猷) — TAHS founding president]]

@@ -22,5 +22,5 @@ The Taiwan Student Association (TWSA) at the University of Michigan is an underg
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwan-student-association-at-the-university-of-michigan/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

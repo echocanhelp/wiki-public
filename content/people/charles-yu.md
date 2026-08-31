@@ -33,7 +33,7 @@ Charles Yu (游朝凱) is a novelist, short story writer, and screenwriter born 
 ## Family
 
 - **Wife:** Michelle
-- **Father:** [[people/jin-chyuan-yu|游銘泉]]
+- **Father:** [[people/jin-chyuan-yu||游銘泉]]
 - **Mother:** 林玲娟
 
 
@@ -43,5 +43,5 @@ Charles Yu (游朝凱) is a novelist, short story writer, and screenwriter born 
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/charles-yu/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

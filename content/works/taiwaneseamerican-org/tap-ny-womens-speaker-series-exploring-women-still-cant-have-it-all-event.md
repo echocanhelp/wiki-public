@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/tap-ny-womens-speaker-series-exploring-women-still-cant-have-it-all-event|TAP-NY Women&#8217;s Speaker Series: Exploring &#8220;Women Still Can&#8217;t Have It All&#8221; Event]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/tap-ny-womens-speaker-series-exploring-women-still-cant-have-it-all-event||TAP-NY Women&#8217;s Speaker Series: Exploring &#8220;Women Still Can&#8217;t Have It All&#8221; Event]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

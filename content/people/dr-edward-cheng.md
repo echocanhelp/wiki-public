@@ -33,7 +33,7 @@ Accomplishment
 
 ## Family
 
-- **Wife:** [[people/shu-ching-cheng|賴淑卿]]
+- **Wife:** [[people/shu-ching-cheng||賴淑卿]]
 - **Daughter:** Wendy(鄭昕)
 - **Son:** Eric(鄭晧)
 
@@ -44,5 +44,5 @@ Accomplishment
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-edward-cheng/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

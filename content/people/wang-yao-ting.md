@@ -36,16 +36,16 @@ Pages that link to **wang-yao-ting** (wang-yao-ting):
 
 ### People (1)
 
-1. [[people/zheng-bing-quan|zheng-bing-quan]]
+1. [[people/zheng-bing-quan||zheng-bing-quan]]
 
 ### Organizations (1)
 
-1. [[organizations/taiwanese-american-historical-society|taiwanese-american-historical-society]]
+1. [[organizations/taiwanese-american-historical-society||taiwanese-american-historical-society]]
 
 ## Source Notes and Confidence
 
 - **Content priority B:** 2017 TAHS Publication (founding narrative by 周威霖, Part 1)
-- **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
+- **Hub:** [[sources/2017-tahs-publication||2017 TAHS Publication]]
 - **Status:** Stub — needs expanded biographical details
 
 ## Name Variants / Disambiguation
@@ -55,8 +55,8 @@ Pages that link to **wang-yao-ting** (wang-yao-ting):
 
 ## Related Pages
 
-- [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
-- [[sources/2017-tahs-publication|2017 TAHS Publication]]
-- [[people/yang-jia-you|楊嘉猷 (Charles Yang)]]
-- [[people/zheng-bing-quan|鄭炳全 (Zheng Bingquan)]]
-- [[people/zhou-wei-lin|周威霖 (Zhou Wei-lin)]]
+- [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society (TAHS)]]
+- [[sources/2017-tahs-publication||2017 TAHS Publication]]
+- [[people/yang-jia-you||楊嘉猷 (Charles Yang)]]
+- [[people/zheng-bing-quan||鄭炳全 (Zheng Bingquan)]]
+- [[people/zhou-wei-lin||周威霖 (Zhou Wei-lin)]]

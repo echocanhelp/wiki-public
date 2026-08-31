@@ -16,7 +16,7 @@ echo: scratch
 
 ## Identity Snapshot
 
-> **Primary work page:** [[sources/toward-a-community-of-hope|Toward A Community of Hope (work & sources)]]  
+> **Primary work page:** [[sources/toward-a-community-of-hope||Toward A Community of Hope (work & sources)]]  
 > **Full text (GitHub):** [complete extract](https://github.com/echocanhelp/wiki-public/blob/gh-pages/knowledge/web-archives/albert-lai-toward-community-of-hope.md)
 
 
@@ -37,7 +37,7 @@ echo: scratch
 | Text | Speak-layer ligature fixes only; frozen AMT bodies unchanged |
 | Role | Review/scratch timing — not commercial AI retail without platform+consent path |
 
-Ch.1 detail page: [[people/albert-chapter1-en-review|Chapter I EN review]]
+Ch.1 detail page: [[people/albert-chapter1-en-review||Chapter I EN review]]
 
 ## Track list & players
 
@@ -57,7 +57,7 @@ Use headphones. Preload is metadata-only so the page stays light.
   <source src="../media/albert-ch01-en-christopher-v1-scratch.mp3" type="audio/mpeg">
 </audio>
 
-- [Download](../media/albert-ch01-en-christopher-v1-scratch.mp3) · [[people/albert-chapter1-en-review|full Ch.1 review notes]]
+- [Download](../media/albert-ch01-en-christopher-v1-scratch.mp3) · [[people/albert-chapter1-en-review||full Ch.1 review notes]]
 
 ### Chapter II — Formosan in Formosa Today (part 1) · ~35 min
 
@@ -144,10 +144,10 @@ Same CLI settings as approved Ch.1. Some later tracks measure slower WPM (text d
 
 ## Related
 
-- [[people/albert-s-lai|Albert S. Lai]]
-- [[people/albert-chapter1-en-review|Ch.1 EN review]]
-- [[people/albert-chapter1-audiobook-taiwanese-female|Prior Taiwanese-female pilot (different experiment)]]
+- [[people/albert-s-lai||Albert S. Lai]]
+- [[people/albert-chapter1-en-review||Ch.1 EN review]]
+- [[people/albert-chapter1-audiobook-taiwanese-female||Prior Taiwanese-female pilot (different experiment)]]
 
 ## Related Pages
 
-- [[people/albert-s-lai|Dr. Albert S. Lai]]
+- [[people/albert-s-lai||Dr. Albert S. Lai]]

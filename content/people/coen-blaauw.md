@@ -31,7 +31,7 @@ For more information, please click link :My Stories >>>464. 爲何我在FAPA ? /
 
 ## Family
 
-- **Wife:** [[people/iris-ho|何燕青]]
+- **Wife:** [[people/iris-ho||何燕青]]
 
 
 ## Sources
@@ -39,5 +39,5 @@ For more information, please click link :My Stories >>>464. 爲何我在FAPA ? /
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/coen-blaauw/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

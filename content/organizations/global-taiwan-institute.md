@@ -22,5 +22,5 @@ The Global Taiwan Institute (GTI) is a think tank dedicated to strengthening US-
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/global-taiwan-institute/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

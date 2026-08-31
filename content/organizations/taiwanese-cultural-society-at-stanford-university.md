@@ -22,5 +22,5 @@ The Taiwanese Cultural Society at Stanford University (TCS) is an undergraduate 
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-cultural-society-at-stanford-university/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

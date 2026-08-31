@@ -33,5 +33,5 @@ Brother Wang appears in GSTPC bulletin records. This is a provisional stub pendi
 - Romanized: Wang / Wang
 
 ## Related Pages
-- [[people/index|People Index]]
-- [[organizations/good-shepherd-taiwanese-presbyterian-church|Good Shepherd Taiwanese Presbyterian Church]]
+- [[people/index||People Index]]
+- [[organizations/good-shepherd-taiwanese-presbyterian-church||Good Shepherd Taiwanese Presbyterian Church]]

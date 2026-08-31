@@ -23,7 +23,7 @@ D. L. Yang (楊東龍) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 ## Family
 
-- **Wife:** [[people/h-f-josephine-huang|黃河芬]]
+- **Wife:** [[people/h-f-josephine-huang||黃河芬]]
 
 
 ## Sources
@@ -31,5 +31,5 @@ D. L. Yang (楊東龍) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/d-l-yang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -44,5 +44,5 @@ Publication(Non-professional)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-lung-fong-chen/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

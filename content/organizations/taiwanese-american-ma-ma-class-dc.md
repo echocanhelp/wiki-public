@@ -22,5 +22,5 @@ Taiwanese American Ma Ma Class is a Washington DC-area organization founded by T
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-ma-ma-class-dc/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

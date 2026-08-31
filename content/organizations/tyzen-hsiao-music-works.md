@@ -22,6 +22,6 @@ Tyzen Hsiao Music Works (蕭泰然音樂基金會) is a foundation dedicated to 
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/tyzen-hsiao-music-works/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[people/tyzen-hsiao|Tyzen Hsiao (蕭泰然)]]
-- [[organizations/tyzen-hsiao-foundation|Tyzen Hsiao Foundation]] — TAH lists a second org; not merged
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[people/tyzen-hsiao||Tyzen Hsiao (蕭泰然)]]
+- [[organizations/tyzen-hsiao-foundation||Tyzen Hsiao Foundation]] — TAH lists a second org; not merged

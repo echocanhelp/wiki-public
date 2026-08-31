@@ -22,5 +22,5 @@ The Chicago Taiwanese Cuisine and Culture Association promotes Taiwanese traditi
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/chicago-taiwanese-cuisine-and-culture-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

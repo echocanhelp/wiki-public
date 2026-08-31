@@ -22,5 +22,5 @@ The Wellbrook Foundation is a charitable foundation established in the United St
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/wellbrook-foundation/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

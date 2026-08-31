@@ -22,5 +22,5 @@ The Oxford Taiwanese American Student Association (Oxford TASA) is a student org
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/oxford-taiwanese-american-student-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

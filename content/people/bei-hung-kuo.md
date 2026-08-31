@@ -29,12 +29,12 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Wife:** [[people/s-h-chang|張舜華]]
+- **Wife:** [[people/s-h-chang||張舜華]]
 
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/bei-hung-kuo/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

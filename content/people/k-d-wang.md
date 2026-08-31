@@ -23,7 +23,7 @@ K. D. Wang (王康德) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 ## Family
 
-- **Wife:** [[people/helen-wang|方惠音]]
+- **Wife:** [[people/helen-wang||方惠音]]
 
 
 ## Sources
@@ -31,5 +31,5 @@ K. D. Wang (王康德) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/k-d-wang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

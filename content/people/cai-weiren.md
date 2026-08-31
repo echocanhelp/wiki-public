@@ -14,13 +14,13 @@ last_reviewed: 2026-08-17
 ---
 # Rev. Tsai Weiren (蔡維仁)
 
-**蔡維仁牧師** (display **Tsai**, slug `cai-weiren`) grew up in [[organizations/good-shepherd-taiwanese-presbyterian-church|GSTPC]] (youth counselor / deacon **1981–1986**), then returned as 神學生、傳道、牧師 **2004–2016** and **第二任牧師 2006–2016**. GSTPC40 essay:「數算恩典邁步前行」. **Not** a PCT congregation pastor — GSTPC is TPC / PC(USA). Seminary named in his essay is **正道福音神學院** (Logos; 台福 lineage), not 台神.
+**蔡維仁牧師** (display **Tsai**, slug `cai-weiren`) grew up in [[organizations/good-shepherd-taiwanese-presbyterian-church||GSTPC]] (youth counselor / deacon **1981–1986**), then returned as 神學生、傳道、牧師 **2004–2016** and **第二任牧師 2006–2016**. GSTPC40 essay:「數算恩典邁步前行」. **Not** a PCT congregation pastor — GSTPC is TPC / PC(USA). Seminary named in his essay is **正道福音神學院** (Logos; 台福 lineage), not 台神.
 
 ## Identity Snapshot
 - **English:** Rev. Tsai Weiren (older files: Cai Weiren)
 - **Chinese:** 蔡維仁
 - **Wife:** 純雅 (GSTPC40; 16 years of GSTPC service; no surname given)
-- **GSTPC:** one of seven founding-era youth counselors ([[people/david-huang|黃德利]] 40th); later 第二任牧師
+- **GSTPC:** one of seven founding-era youth counselors ([[people/david-huang||黃德利]] 40th); later 第二任牧師
 - **Polity:** U.S. TPC pulpit. Do not tag as PCT-employed.
 
 ## Timeline
@@ -49,27 +49,27 @@ Pages that link to **cai-weiren** (cai-weiren):
 
 ### People (2)
 
-1. [[people/index|index]]
-2. [[people/index|index]]
+1. [[people/index||index]]
+2. [[people/index||index]]
 
 ### Organizations (2)
 
-1. [[organizations/good-shepherd-taiwanese-presbyterian-church|good-shepherd-taiwanese-presbyterian-church]]
-2. [[organizations/index|index]]
+1. [[organizations/good-shepherd-taiwanese-presbyterian-church||good-shepherd-taiwanese-presbyterian-church]]
+2. [[organizations/index||index]]
 
 ### Sources (1)
 
-1. [[sources/irvine-taiwanese-presbyterian-church|irvine-taiwanese-presbyterian-church]]
+1. [[sources/irvine-taiwanese-presbyterian-church||irvine-taiwanese-presbyterian-church]]
 
 ## Related Pages
 
-- [[organizations/good-shepherd-taiwanese-presbyterian-church]]
-- [[people/index]]
-- [[organizations/index]]
-- [[sources/irvine-taiwanese-presbyterian-church]]
+- [[organizations/good-shepherd-taiwanese-presbyterian-church]]]]
+- [[people/index]]]]
+- [[organizations/index]]]]
+- [[sources/irvine-taiwanese-presbyterian-church]]]]
 
 ## Sources
 1. GSTPC40「數算恩典邁步前行」([ebook](https://gstpc.org/home/gstpc40/ebook/))
 2. GSTPC40 黃德利「那些人，那些事」— seven counselors
 3. GSTPC40 潘淑姃 — first call committee hired 蔡維仁
-4. [[organizations/good-shepherd-taiwanese-presbyterian-church|GSTPC]]
+4. [[organizations/good-shepherd-taiwanese-presbyterian-church||GSTPC]]

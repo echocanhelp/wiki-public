@@ -23,7 +23,7 @@ Sam Hung (洪南山) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 
 ## Family
 
-- **Father:** [[people/rue-lin-hung|洪瑞麟]]
+- **Father:** [[people/rue-lin-hung||洪瑞麟]]
 
 
 ## Sources
@@ -31,5 +31,5 @@ Sam Hung (洪南山) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sam-hung/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -22,5 +22,5 @@ The Taiwanese American Senior Society (TASS) of Greater Washington DC was offici
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-senior-society-tass-of-greater-washington-dc/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

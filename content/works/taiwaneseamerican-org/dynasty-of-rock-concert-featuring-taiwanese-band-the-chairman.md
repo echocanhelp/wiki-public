@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/dynasty-of-rock-concert-featuring-taiwanese-band-the-chairman|Dynasty of Rock Concert Featuring Taiwanese Band &#8220;The Chairman&#8221;]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/dynasty-of-rock-concert-featuring-taiwanese-band-the-chairman||Dynasty of Rock Concert Featuring Taiwanese Band &#8220;The Chairman&#8221;]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

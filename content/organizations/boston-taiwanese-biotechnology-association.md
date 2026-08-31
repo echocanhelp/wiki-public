@@ -22,5 +22,5 @@ The Boston Taiwanese Biotechnology Association (BTBA) is an organization founded
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/boston-taiwanese-biotechnology-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

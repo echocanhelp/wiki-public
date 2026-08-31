@@ -22,5 +22,5 @@ The Senior Taiwanese Association of Northern California is a nonprofit service o
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/senior-taiwanese-association-of-northern-california/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

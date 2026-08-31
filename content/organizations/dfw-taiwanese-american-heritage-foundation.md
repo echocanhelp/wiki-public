@@ -22,5 +22,5 @@ The Taiwanese American Heritage Foundation (TAHF) is a community organization ba
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/dfw-taiwanese-american-heritage-foundation/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

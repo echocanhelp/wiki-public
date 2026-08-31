@@ -22,5 +22,5 @@ Taiwanese American Professionals New York (TAP-NY) is a chapter of the Taiwanese
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-professionals-new-york/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

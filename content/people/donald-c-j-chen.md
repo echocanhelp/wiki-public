@@ -33,10 +33,10 @@ Organized D.C. Area Taiwanese Association (同鄉會) in 1972, independent from 
 
 ## Family
 
-- **Wife:** [[people/enchin-shaw-chen|蕭永真]]
+- **Wife:** [[people/enchin-shaw-chen||蕭永真]]
 - **Son:** 陳安哲
-- **Son:** [[people/shante-shawsean-chen|陳善哲]]
-- **Daughter:** [[people/michellee-shaw-chen|陳美真理]]
+- **Son:** [[people/shante-shawsean-chen||陳善哲]]
+- **Daughter:** [[people/michellee-shaw-chen||陳美真理]]
 - **Daughter:** 陳安仁理
 
 
@@ -45,5 +45,5 @@ Organized D.C. Area Taiwanese Association (同鄉會) in 1972, independent from 
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/donald-c-j-chen/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

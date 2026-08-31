@@ -10,7 +10,7 @@ last_reviewed: 2026-08-21
 ---
 # He Qinglian (何清漣)
 
-**He Qinglian** (何清漣) is a commentator whose columns are preserved on [[sources/taiwanjustice-net|taiwanjustice.net (台灣公義網)]], with 50 articles archived from the site's column section.
+**He Qinglian** (何清漣) is a commentator whose columns are preserved on [[sources/taiwanjustice-net||taiwanjustice.net (台灣公義網)]], with 50 articles archived from the site's column section.
 
 Echopedia lists this writer as a **voice in that archive** — work Taiwanese American readers kept.
 
@@ -29,76 +29,76 @@ Echopedia lists this writer as a **voice in that archive** — work Taiwanese Am
 
 Top 10 articles from taiwanjustice.net mentioning he-qingxuan:
 
-1. **2017-11-13** — [[articles/taiwanjustice-net/2024/20240221113229_root_17825a06f4cdbb6f|林保華專欄]]
+1. **2017-11-13** — [[articles/taiwanjustice-net/2024/20240221113229_root_17825a06f4cdbb6f||林保華專欄]]
    - *November 13, 2017...*
    - Score: 825
-2. **2022-07-10** — [[articles/taiwanjustice-net/2024/20240425084829_root_b5c9f6bb0360ed23|陳茂雄專欄]]
+2. **2022-07-10** — [[articles/taiwanjustice-net/2024/20240425084829_root_b5c9f6bb0360ed23||陳茂雄專欄]]
    - *高雄的民主水準居冠 ◎ 陳茂雄...*
    - Score: 825
-3. **2017-03-07** — [[articles/taiwanjustice-net/2024/20240715140333_root_de6de376c47e0ff9|余杰專欄]]
+3. **2017-03-07** — [[articles/taiwanjustice-net/2024/20240715140333_root_de6de376c47e0ff9||余杰專欄]]
    - *March 7, 2017...*
    - Score: 825
-4. **2017-11-22** — [[articles/taiwanjustice-net/2024/20240221105045_root_4b96e7a2f9d76692|專欄]]
+4. **2017-11-22** — [[articles/taiwanjustice-net/2024/20240221105045_root_4b96e7a2f9d76692||專欄]]
    - *監察權的謬誤 ◎ 陳茂雄 2017-11-22...*
    - Score: 820
-5. **2022-08-22** — [[articles/taiwanjustice-net/2024/20240619175142_root_e903f760568c0883|余杰專欄]]
+5. **2022-08-22** — [[articles/taiwanjustice-net/2024/20240619175142_root_e903f760568c0883||余杰專欄]]
    - *跟習近平聊天是雞同鴨講-范疇《與習近平聊聊台灣和中國》◎ 余傑...*
    - Score: 810
-6. **2017-01-30** — [[articles/taiwanjustice-net/2024/20240616123010_root_e9a4d38b79b420ee|余杰專欄]]
+6. **2017-01-30** — [[articles/taiwanjustice-net/2024/20240616123010_root_e9a4d38b79b420ee||余杰專欄]]
    - *January 30, 2017...*
    - Score: 805
-7. **2024-04-24** — [[articles/taiwanjustice-net/2024/20240425072010_root_e39ecec0fdeb18d2|台灣頭條]]
+7. **2024-04-24** — [[articles/taiwanjustice-net/2024/20240425072010_root_e39ecec0fdeb18d2||台灣頭條]]
    - *April 24, 2024...*
    - Score: 800
-8. **2023-07-30** — [[articles/taiwanjustice-net/2024/20240425083432_root_99aaa4abcb78ff6d|台美人台加人]]
+8. **2023-07-30** — [[articles/taiwanjustice-net/2024/20240425083432_root_99aaa4abcb78ff6d||台美人台加人]]
    - *July 30, 2023...*
    - Score: 800
-9. **2023-08-12** — [[articles/taiwanjustice-net/2024/20240719130745_root_c122ab4d6dc8d2cf|2012大選]]
+9. **2023-08-12** — [[articles/taiwanjustice-net/2024/20240719130745_root_c122ab4d6dc8d2cf||2012大選]]
    - *August 12, 2023...*
    - Score: 800
-10. **2018-01-04** — [[articles/taiwanjustice-net/2024/20240224183824_root_3a00a14a809ec2ca|大洛杉磯台灣會館]]
+10. **2018-01-04** — [[articles/taiwanjustice-net/2024/20240224183824_root_3a00a14a809ec2ca||大洛杉磯台灣會館]]
    - *January 4, 2018...*
    - Score: 795
 
 
 ## Works
 
-**何清漣** — **41** title hits, **1152** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
+**何清漣** — **41** title hits, **1152** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
 
 ### 2025 (1)
 
-1. [[articles/taiwanjustice-net/2025/20251207071445_中國失去對美經濟依賴-風光難再-_-何清漣_7f4dcb3eb8082330|中國失去對美經濟依賴 風光難再  ◎ 何清漣]]
+1. [[articles/taiwanjustice-net/2025/20251207071445_中國失去對美經濟依賴-風光難再-_-何清漣_7f4dcb3eb8082330||中國失去對美經濟依賴 風光難再  ◎ 何清漣]]
 
 ### 2024 (34)
 
-1. [[articles/taiwanjustice-net/2024/20240721111815_root_894a0c25b5d23d69|何清漣：中國經濟逼近懸崖/ VOA/ 2015-02-14]]
-2. [[articles/taiwanjustice-net/2024/20240719222314_root_4d4a2786a3ebcc07|東南亞各國歷史教科書折射的政治焦慮(一)/何清漣/VOA/2012-10-04]]
-3. [[articles/taiwanjustice-net/2024/20240520030306_root_4f41d862e0d03482|何清漣:「習近平認可度居首」背後隱藏的秘密 ◎VOA 12-22-2014]]
-4. [[articles/taiwanjustice-net/2024/20240425114150_root_8fab522597d207df|是誰當年力主200海里經濟專屬區？◎何清漣/VOA 07-22-2016]]
-5. [[articles/taiwanjustice-net/2024/20240425112518_root_ac5eb8f00fe5f6b7|何清漣：政府採購棄洋就土，中國企業能否爭氣？◎VOA 02-27-2015]]
-6. [[articles/taiwanjustice-net/2024/20240425103408_root_54d2eeb18a06b762|何清漣：大自然的報復：武漢淹城 ◎VOA 07-11-2016]]
-7. [[articles/taiwanjustice-net/2024/20240425102201_root_4f0d5e21c1898724|何清漣:2014中國政治關鍵詞：狠 / VOA/ 2014-12-17]]
-8. [[articles/taiwanjustice-net/2024/20240425084344_root_eef4d37d2db59047|何清漣專欄]]
+1. [[articles/taiwanjustice-net/2024/20240721111815_root_894a0c25b5d23d69||何清漣：中國經濟逼近懸崖/ VOA/ 2015-02-14]]
+2. [[articles/taiwanjustice-net/2024/20240719222314_root_4d4a2786a3ebcc07||東南亞各國歷史教科書折射的政治焦慮(一)/何清漣/VOA/2012-10-04]]
+3. [[articles/taiwanjustice-net/2024/20240520030306_root_4f41d862e0d03482||何清漣:「習近平認可度居首」背後隱藏的秘密 ◎VOA 12-22-2014]]
+4. [[articles/taiwanjustice-net/2024/20240425114150_root_8fab522597d207df||是誰當年力主200海里經濟專屬區？◎何清漣/VOA 07-22-2016]]
+5. [[articles/taiwanjustice-net/2024/20240425112518_root_ac5eb8f00fe5f6b7||何清漣：政府採購棄洋就土，中國企業能否爭氣？◎VOA 02-27-2015]]
+6. [[articles/taiwanjustice-net/2024/20240425103408_root_54d2eeb18a06b762||何清漣：大自然的報復：武漢淹城 ◎VOA 07-11-2016]]
+7. [[articles/taiwanjustice-net/2024/20240425102201_root_4f0d5e21c1898724||何清漣:2014中國政治關鍵詞：狠 / VOA/ 2014-12-17]]
+8. [[articles/taiwanjustice-net/2024/20240425084344_root_eef4d37d2db59047||何清漣專欄]]
 - … 26 more this year
 
 ### 2023 (6)
 
-1. [[articles/taiwanjustice-net/2023/20231208135054_root_b5e06dc98d763d79|何清漣專欄]]
-2. [[articles/taiwanjustice-net/2023/20230922215825_2016_09_20_何清漣_全球化背景下的各國青年失業潮-voa-09-21-2016_500029413a73a8cb|何清漣：全球化背景下的各國青年失業潮 /VOA 09-21-2016]]
-3. [[articles/taiwanjustice-net/2023/20230922215232_2016_11_25_何清漣_中國會勇扛全球化領軍大旗嗎_voa-2016-11-24_ae71c7aea25ba575|何清漣：中國會勇扛全球化領軍大旗嗎？◎VOA 2016-11-24]]
-4. [[articles/taiwanjustice-net/2023/20230922211202_2016_10_11_何清漣_世界對全球化的愛與恨-_voa-10-11-2016_cb719dccafdaa42e|何清漣：世界對全球化的愛與恨 ◎VOA 10-11-2016]]
-5. [[articles/taiwanjustice-net/2023/20230601062649_2016_07_10_何清漣_大自然的報復_武漢淹城-_voa-07-11-2016_64697121a012becc|何清漣：大自然的報復：武漢淹城 ◎VOA 07-11-2016]]
-6. [[articles/taiwanjustice-net/2023/20230326064129_2017_02_01_何清漣亂_全球化大潮遇到回水灣-_voa-2017-02-01_fa11bed911add2a9|何清漣:亂：全球化大潮遇到回水灣 ◎VOA 2017-02-01]]
+1. [[articles/taiwanjustice-net/2023/20231208135054_root_b5e06dc98d763d79||何清漣專欄]]
+2. [[articles/taiwanjustice-net/2023/20230922215825_2016_09_20_何清漣_全球化背景下的各國青年失業潮-voa-09-21-2016_500029413a73a8cb||何清漣：全球化背景下的各國青年失業潮 /VOA 09-21-2016]]
+3. [[articles/taiwanjustice-net/2023/20230922215232_2016_11_25_何清漣_中國會勇扛全球化領軍大旗嗎_voa-2016-11-24_ae71c7aea25ba575||何清漣：中國會勇扛全球化領軍大旗嗎？◎VOA 2016-11-24]]
+4. [[articles/taiwanjustice-net/2023/20230922211202_2016_10_11_何清漣_世界對全球化的愛與恨-_voa-10-11-2016_cb719dccafdaa42e||何清漣：世界對全球化的愛與恨 ◎VOA 10-11-2016]]
+5. [[articles/taiwanjustice-net/2023/20230601062649_2016_07_10_何清漣_大自然的報復_武漢淹城-_voa-07-11-2016_64697121a012becc||何清漣：大自然的報復：武漢淹城 ◎VOA 07-11-2016]]
+6. [[articles/taiwanjustice-net/2023/20230326064129_2017_02_01_何清漣亂_全球化大潮遇到回水灣-_voa-2017-02-01_fa11bed911add2a9||何清漣:亂：全球化大潮遇到回水灣 ◎VOA 2017-02-01]]
 
 ### Body mentions (1152)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2024/20240520034013_root_6f2b431c9cb0cca9|台美人台加人]]
-2. [[articles/taiwanjustice-net/2024/20240421185358_root_09926246802abc6a|台美人台加人]]
-3. [[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea|台美人台加人]]
-4. [[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3|台美人台加人]]
-5. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596|台美人台加人]]
+1. [[articles/taiwanjustice-net/2024/20240520034013_root_6f2b431c9cb0cca9||台美人台加人]]
+2. [[articles/taiwanjustice-net/2024/20240421185358_root_09926246802abc6a||台美人台加人]]
+3. [[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea||台美人台加人]]
+4. [[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3||台美人台加人]]
+5. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596||台美人台加人]]
 
 
 ## Timeline
@@ -11139,7 +11139,7 @@ Notable quotes and mentions of **何清漣** in Taiwan Justice articles:
 
 ### Unknown (1 quotes)
 
-1. "g-diyin|Huang Di-ying (黃帝穎)]] — 57 articles - [[people/he-qingxuan|He Qinglian (何清漣)]] — 50 articles - [[people/liao-qingshan|Liao Qing-shan (廖清山)]] — 37 articles"
+1. "g-diyin|Huang Di-ying (黃帝穎)]] — 57 articles - [[people/he-qingxuan||He Qinglian (何清漣)]] — 50 articles - [[people/liao-qingshan||Liao Qing-shan (廖清山)]] — 37 articles"
    — "taiwanjustice.net Article Archive" (unknown)
 
 ### 2025 (6 quotes)
@@ -11336,11 +11336,11 @@ Notable quotes and mentions of **何清漣** in Taiwan Justice articles:
 
 - **Content priority A:** Article count (50) from Tier 2 title extraction
 - **Content priority B:** Column author listing from `knowledge/research/taiwanjustice-net-entities.md`
-- **Hub:** [[sources/taiwanjustice-net|taiwanjustice.net source hub]]
+- **Hub:** [[sources/taiwanjustice-net||taiwanjustice.net source hub]]
 - **Archive:** [Column articles](https://github.com/echocanhelp/wiki-public/tree/gh-pages/knowledge/web-archives/taiwanjustice-net/tier2/)
 
 ## Related Pages
 
-- [[sources/taiwanjustice-net|taiwanjustice.net source hub]]
-- [[organizations/taiwanjustice-net|taiwanjustice.net (台灣公義網)]]
-- [[people/freeman-huang|Freeman Huang (黃樹人)]]
+- [[sources/taiwanjustice-net||taiwanjustice.net source hub]]
+- [[organizations/taiwanjustice-net||taiwanjustice.net (台灣公義網)]]
+- [[people/freeman-huang||Freeman Huang (黃樹人)]]

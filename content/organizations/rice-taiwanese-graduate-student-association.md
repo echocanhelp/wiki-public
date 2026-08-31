@@ -22,5 +22,5 @@ The Rice Taiwanese Graduate Student Association (RTGSA) is a student organizatio
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/rice-taiwanese-graduate-student-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

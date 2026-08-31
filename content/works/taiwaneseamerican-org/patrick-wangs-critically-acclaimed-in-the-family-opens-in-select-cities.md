@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/patrick-wangs-critically-acclaimed-in-the-family-opens-in-select-cities|Patrick Wang&#8217;s Critically-acclaimed &#8220;In the Family&#8221; Opens in Select Cities]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/patrick-wangs-critically-acclaimed-in-the-family-opens-in-select-cities||Patrick Wang&#8217;s Critically-acclaimed &#8220;In the Family&#8221; Opens in Select Cities]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

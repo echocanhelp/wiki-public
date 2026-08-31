@@ -26,10 +26,10 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/register-for-the-taiwanese-american-foundation-taf-2012-summer-conference|Register for the Taiwanese American Foundation (TAF) 2012 Summer Conference]]
-- [[organizations/taiwan-american-foundation|Taiwanese American Foundation (TAF)]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/register-for-the-taiwanese-american-foundation-taf-2012-summer-conference||Register for the Taiwanese American Foundation (TAF) 2012 Summer Conference]]
+- [[organizations/taiwan-american-foundation||Taiwanese American Foundation (TAF)]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

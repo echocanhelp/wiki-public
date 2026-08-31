@@ -31,5 +31,5 @@ Elder Xiao appears in church bulletin records and is recognized as a community e
 - Romanized: Xiao Xien / Xiao Xien
 
 ## Related Pages
-- [[people/index|People Index]]
-- [[organizations/good-shepherd-taiwanese-presbyterian-church|Good Shepherd Taiwanese Presbyterian Church]]
+- [[people/index||People Index]]
+- [[organizations/good-shepherd-taiwanese-presbyterian-church||Good Shepherd Taiwanese Presbyterian Church]]

@@ -42,7 +42,7 @@ Yang Huiqiao's dedication to Taiwan independence has inspired generations of Tai
 ## Source Notes and Confidence
 
 - **Content priority B:** 2023 TAHS Publication (profile, Section 3, ~2720 lines)
-- **Hub:** [[sources/2023-tahs-publication|2023 TAHS Publication]]
+- **Hub:** [[sources/2023-tahs-publication||2023 TAHS Publication]]
 - **Archive:** `knowledge/web-archives/2023-tahs-publication-part2.md`
 
 ## Sources
@@ -65,8 +65,8 @@ Yang Huiqiao's dedication to Taiwan independence has inspired generations of Tai
 - **Son:** 鄭丁榮
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
+- [[organizations/tah-foundation||TAH Foundation]]
 
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/2023-tahs-publication|2023 TAHS Publication]]
-- [[people/zheng-bing-quan|Zheng Bingquan (鄭炳全)]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/2023-tahs-publication||2023 TAHS Publication]]
+- [[people/zheng-bing-quan||Zheng Bingquan (鄭炳全)]]

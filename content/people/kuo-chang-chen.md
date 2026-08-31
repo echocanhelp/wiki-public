@@ -36,7 +36,7 @@ Accomplishment
 
 - **Wife:** 林芳慧
 - **Daughter:** 陳安玲
-- **Son:** [[people/tong-liang-larry-chen|陳東亮]]
+- **Son:** [[people/tong-liang-larry-chen||陳東亮]]
 
 
 ## Sources
@@ -46,5 +46,5 @@ Accomplishment
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kuo-chang-chen/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

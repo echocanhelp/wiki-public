@@ -12,7 +12,7 @@ last_reviewed: 2026-08-22
 ---
 # eastgatebarclay.org — Tainan East Gate Barclay Memorial Church
 
-Official website of the **[[organizations/tainan-east-gate-barclay-memorial-church|Tainan East Gate Barclay Memorial Church (東門巴克禮紀念教會)]]**, a [[organizations/presbyterian-church-in-taiwan|PCT]] congregation in the Tainan presbytery (台南中會).
+Official website of the **[[organizations/tainan-east-gate-barclay-memorial-church||Tainan East Gate Barclay Memorial Church (東門巴克禮紀念教會)]]**, a [[organizations/presbyterian-church-in-taiwan||PCT]] congregation in the Tainan presbytery (台南中會).
 
 **This is the PCT church in Taiwan — NOT a U.S. TPC.** Hanzi only; site in Chinese.
 
@@ -49,8 +49,8 @@ The domain hosts **739 sermon posts** (`/2021/…` through `/2026/…`). These a
 
 ## Related Pages
 
-- [[organizations/tainan-east-gate-barclay-memorial-church|Tainan East Gate Barclay Memorial Church]]
-- [[people/thomas-barclay|Thomas Barclay (巴克禮)]]
-- [[people/pinghsi-liu|劉炳熹]]
-- [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan (PCT)]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/tainan-east-gate-barclay-memorial-church||Tainan East Gate Barclay Memorial Church]]
+- [[people/thomas-barclay||Thomas Barclay (巴克禮)]]
+- [[people/pinghsi-liu||劉炳熹]]
+- [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan (PCT)]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]

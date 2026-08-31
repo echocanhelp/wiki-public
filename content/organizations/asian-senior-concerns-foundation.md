@@ -22,5 +22,5 @@ The Asian Senior Concerns Foundation is a nonprofit organization established in 
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/asian-senior-concerns-foundation/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

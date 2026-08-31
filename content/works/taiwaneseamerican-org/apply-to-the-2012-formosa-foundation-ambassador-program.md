@@ -26,10 +26,10 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/apply-to-the-2012-formosa-foundation-ambassador-program|Apply to the 2012 Formosa Foundation Ambassador Program]]
-- [[organizations/formosa-foundation|Formosa Foundation]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/apply-to-the-2012-formosa-foundation-ambassador-program||Apply to the 2012 Formosa Foundation Ambassador Program]]
+- [[organizations/formosa-foundation||Formosa Foundation]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

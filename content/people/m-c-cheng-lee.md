@@ -28,7 +28,7 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Husband:** [[people/long-lee|李隆吉]]
+- **Husband:** [[people/long-lee||李隆吉]]
 - **Daughter:** Gloria李雅莉
 - **Son:** Thomas李冬明
 
@@ -38,5 +38,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/m-c-cheng-lee/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

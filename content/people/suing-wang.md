@@ -34,7 +34,7 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Husband:** [[people/ming-ten-dan-tsai|蔡明殿]]
+- **Husband:** [[people/ming-ten-dan-tsai||蔡明殿]]
 
 
 ## Sources
@@ -43,5 +43,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/suing-wang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

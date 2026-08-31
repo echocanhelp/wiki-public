@@ -22,5 +22,5 @@ The Austin Taiwanese Association (ATA) is a regional chapter of the Taiwanese As
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/austin-taiwanese-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

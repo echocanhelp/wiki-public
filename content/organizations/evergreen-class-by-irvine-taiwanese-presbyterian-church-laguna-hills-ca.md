@@ -22,5 +22,5 @@ The Evergreen Class is a free community education program sponsored by the Irvin
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

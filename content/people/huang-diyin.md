@@ -10,7 +10,7 @@ last_reviewed: 2026-08-20
 ---
 # Huang Di-ying (黃帝穎)
 
-**Huang Di-ying** (黃帝穎) is a columnist for [[sources/taiwanjustice-net|taiwanjustice.net (台灣公義網)]], with 57 articles archived from the site's column section.
+**Huang Di-ying** (黃帝穎) is a columnist for [[sources/taiwanjustice-net||taiwanjustice.net (台灣公義網)]], with 57 articles archived from the site's column section.
 
 ## Identity Snapshot
 
@@ -26,76 +26,76 @@ last_reviewed: 2026-08-20
 
 Top 10 articles from taiwanjustice.net mentioning huang-diyin:
 
-1. **2017-11-13** — [[articles/taiwanjustice-net/2024/20240221113229_root_17825a06f4cdbb6f|林保華專欄]]
+1. **2017-11-13** — [[articles/taiwanjustice-net/2024/20240221113229_root_17825a06f4cdbb6f||林保華專欄]]
    - *November 13, 2017...*
    - Score: 825
-2. **2022-07-10** — [[articles/taiwanjustice-net/2024/20240425084829_root_b5c9f6bb0360ed23|陳茂雄專欄]]
+2. **2022-07-10** — [[articles/taiwanjustice-net/2024/20240425084829_root_b5c9f6bb0360ed23||陳茂雄專欄]]
    - *高雄的民主水準居冠 ◎ 陳茂雄...*
    - Score: 825
-3. **2017-03-07** — [[articles/taiwanjustice-net/2024/20240715140333_root_de6de376c47e0ff9|余杰專欄]]
+3. **2017-03-07** — [[articles/taiwanjustice-net/2024/20240715140333_root_de6de376c47e0ff9||余杰專欄]]
    - *March 7, 2017...*
    - Score: 825
-4. **2017-11-22** — [[articles/taiwanjustice-net/2024/20240221105045_root_4b96e7a2f9d76692|專欄]]
+4. **2017-11-22** — [[articles/taiwanjustice-net/2024/20240221105045_root_4b96e7a2f9d76692||專欄]]
    - *監察權的謬誤 ◎ 陳茂雄 2017-11-22...*
    - Score: 820
-5. **2022-08-22** — [[articles/taiwanjustice-net/2024/20240619175142_root_e903f760568c0883|余杰專欄]]
+5. **2022-08-22** — [[articles/taiwanjustice-net/2024/20240619175142_root_e903f760568c0883||余杰專欄]]
    - *跟習近平聊天是雞同鴨講-范疇《與習近平聊聊台灣和中國》◎ 余傑...*
    - Score: 810
-6. **2017-01-30** — [[articles/taiwanjustice-net/2024/20240616123010_root_e9a4d38b79b420ee|余杰專欄]]
+6. **2017-01-30** — [[articles/taiwanjustice-net/2024/20240616123010_root_e9a4d38b79b420ee||余杰專欄]]
    - *January 30, 2017...*
    - Score: 805
-7. **2024-04-24** — [[articles/taiwanjustice-net/2024/20240425072010_root_e39ecec0fdeb18d2|台灣頭條]]
+7. **2024-04-24** — [[articles/taiwanjustice-net/2024/20240425072010_root_e39ecec0fdeb18d2||台灣頭條]]
    - *April 24, 2024...*
    - Score: 800
-8. **2023-07-30** — [[articles/taiwanjustice-net/2024/20240425083432_root_99aaa4abcb78ff6d|台美人台加人]]
+8. **2023-07-30** — [[articles/taiwanjustice-net/2024/20240425083432_root_99aaa4abcb78ff6d||台美人台加人]]
    - *July 30, 2023...*
    - Score: 800
-9. **2023-08-12** — [[articles/taiwanjustice-net/2024/20240719130745_root_c122ab4d6dc8d2cf|2012大選]]
+9. **2023-08-12** — [[articles/taiwanjustice-net/2024/20240719130745_root_c122ab4d6dc8d2cf||2012大選]]
    - *August 12, 2023...*
    - Score: 800
-10. **2018-01-04** — [[articles/taiwanjustice-net/2024/20240224183824_root_3a00a14a809ec2ca|大洛杉磯台灣會館]]
+10. **2018-01-04** — [[articles/taiwanjustice-net/2024/20240224183824_root_3a00a14a809ec2ca||大洛杉磯台灣會館]]
    - *January 4, 2018...*
    - Score: 795
 
 
 ## Works
 
-**黃帝穎** — **50** title hits, **1167** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
+**黃帝穎** — **50** title hits, **1167** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
 
 ### 2024 (43)
 
-1. [[articles/taiwanjustice-net/2024/20240716124207_root_73dfece35c15cfd2|台美人消息︰鄭文龍律師、民進黨發言人黃帝穎及太陽花學運青年小組精英法律系學生參訪團7月3日拜訪灣區]]
-2. [[articles/taiwanjustice-net/2024/20240522041755_root_397f9370c43d132a|黃帝穎專欄]]
-3. [[articles/taiwanjustice-net/2024/20240520033047_root_1172c9ce81a20249|(台灣) 侮辱「國旗」罪 牴觸大法官釋憲意旨 ◎黃帝穎律師/ 極光電子報/ 2017-3-28]]
-4. [[articles/taiwanjustice-net/2024/20240520031244_root_e059117954a8e994|追查大巨蛋 檢廉加油 ◎黃帝穎律師/ 極光電子報/ 2017-07-11]]
-5. [[articles/taiwanjustice-net/2024/20240520031217_root_1035a3db5bb4b780|(台灣)兆豐(銀行)通黨產 全民買單 ◎黃帝穎律師/ 極光電子報/ 2016-8-30]]
-6. [[articles/taiwanjustice-net/2024/20240520030622_root_d1f84afd808ffd58|死抱黨產國民黨會很慘 ◎ 黃帝穎 律師/ 自由時報/ 2015-12-25]]
-7. [[articles/taiwanjustice-net/2024/20240520030005_root_f8ed16c323235318|彈劾馬前總統 確立權力分立原則 ◎黃帝穎律師/ 極光電子報/ 2016-11-29]]
-8. [[articles/taiwanjustice-net/2024/20240520024012_root_0a3e0d914a82dc6a|請關注法官評鑑制度改革的司改決議 ◎黃帝穎律師/ 極光電子報/ 2017-06-13]]
+1. [[articles/taiwanjustice-net/2024/20240716124207_root_73dfece35c15cfd2||台美人消息︰鄭文龍律師、民進黨發言人黃帝穎及太陽花學運青年小組精英法律系學生參訪團7月3日拜訪灣區]]
+2. [[articles/taiwanjustice-net/2024/20240522041755_root_397f9370c43d132a||黃帝穎專欄]]
+3. [[articles/taiwanjustice-net/2024/20240520033047_root_1172c9ce81a20249||(台灣) 侮辱「國旗」罪 牴觸大法官釋憲意旨 ◎黃帝穎律師/ 極光電子報/ 2017-3-28]]
+4. [[articles/taiwanjustice-net/2024/20240520031244_root_e059117954a8e994||追查大巨蛋 檢廉加油 ◎黃帝穎律師/ 極光電子報/ 2017-07-11]]
+5. [[articles/taiwanjustice-net/2024/20240520031217_root_1035a3db5bb4b780||(台灣)兆豐(銀行)通黨產 全民買單 ◎黃帝穎律師/ 極光電子報/ 2016-8-30]]
+6. [[articles/taiwanjustice-net/2024/20240520030622_root_d1f84afd808ffd58||死抱黨產國民黨會很慘 ◎ 黃帝穎 律師/ 自由時報/ 2015-12-25]]
+7. [[articles/taiwanjustice-net/2024/20240520030005_root_f8ed16c323235318||彈劾馬前總統 確立權力分立原則 ◎黃帝穎律師/ 極光電子報/ 2016-11-29]]
+8. [[articles/taiwanjustice-net/2024/20240520024012_root_0a3e0d914a82dc6a||請關注法官評鑑制度改革的司改決議 ◎黃帝穎律師/ 極光電子報/ 2017-06-13]]
 - … 35 more this year
 
 ### 2023 (1)
 
-1. [[articles/taiwanjustice-net/2023/20231208123632_root_d9b0679336836e92|黃帝穎專欄]]
+1. [[articles/taiwanjustice-net/2023/20231208123632_root_d9b0679336836e92||黃帝穎專欄]]
 
 ### 2017 (6)
 
-1. [[articles/taiwanjustice-net/2017/20171231181133_2017_08_22_難得為馬英九辯護-_黃帝穎律師-轉載自綠色逗陣_f64445e3b6468e91|難得為馬英九辯護 ◎黃帝穎律師/ 轉載自[綠色逗陣]/ 民報/ 2017-08-22]]
-2. [[articles/taiwanjustice-net/2017/20171220124337_2017_10_06_與美國台僑談司改與國民法官-_-黃帝穎-律師-2017-10-06_ea65ec4658441621|與美國台僑談司改與國民法官  ◎ 黃帝穎 律師  2017-10-06]]
-3. [[articles/taiwanjustice-net/2017/20171220120632_2017_08_15_台灣-司改總結-淘汰不適任才能重建信任-_-黃帝穎_ffda94a03a6b8fd5|(台灣) 司改總結 淘汰不適任才能重建信任 ◎ 黃帝穎律師/ 民報/ 2017-08-12]]
-4. [[articles/taiwanjustice-net/2017/20171220115741_2017_10_19_護馬_大_法官-戕害民主憲政-_-黃帝穎律師-極光_cceba4faaad8462c|護馬「大」法官 戕害民主憲政 ◎ 黃帝穎律師/ 極光電子報/ 2017-10-17]]
-5. [[articles/taiwanjustice-net/2017/20171220114601_2017_08_30_馬洩密無罪-重傷台灣民主憲政-_-黃帝穎律師-民報-20_746157b989f6f525|馬洩密無罪 重傷(台灣)民主憲政 ◎ 黃帝穎律師/ 民報/ 2017-08-30]]
-6. [[articles/taiwanjustice-net/2017/20171216042824_2017_12_14_對台灣民主有信心-黃國昌_罷免案99不會通過獨派_fc3313e0f74c605b|對台灣民主有信心 黃國昌：罷免案99%不會通過+獨派團體挺昌！ 黃帝穎：罷免案考驗選民智慧 ◎新頭殼newtalk+民報 2017-12-14]]
+1. [[articles/taiwanjustice-net/2017/20171231181133_2017_08_22_難得為馬英九辯護-_黃帝穎律師-轉載自綠色逗陣_f64445e3b6468e91||難得為馬英九辯護 ◎黃帝穎律師/ 轉載自[綠色逗陣]/ 民報/ 2017-08-22]]
+2. [[articles/taiwanjustice-net/2017/20171220124337_2017_10_06_與美國台僑談司改與國民法官-_-黃帝穎-律師-2017-10-06_ea65ec4658441621||與美國台僑談司改與國民法官  ◎ 黃帝穎 律師  2017-10-06]]
+3. [[articles/taiwanjustice-net/2017/20171220120632_2017_08_15_台灣-司改總結-淘汰不適任才能重建信任-_-黃帝穎_ffda94a03a6b8fd5||(台灣) 司改總結 淘汰不適任才能重建信任 ◎ 黃帝穎律師/ 民報/ 2017-08-12]]
+4. [[articles/taiwanjustice-net/2017/20171220115741_2017_10_19_護馬_大_法官-戕害民主憲政-_-黃帝穎律師-極光_cceba4faaad8462c||護馬「大」法官 戕害民主憲政 ◎ 黃帝穎律師/ 極光電子報/ 2017-10-17]]
+5. [[articles/taiwanjustice-net/2017/20171220114601_2017_08_30_馬洩密無罪-重傷台灣民主憲政-_-黃帝穎律師-民報-20_746157b989f6f525||馬洩密無罪 重傷(台灣)民主憲政 ◎ 黃帝穎律師/ 民報/ 2017-08-30]]
+6. [[articles/taiwanjustice-net/2017/20171216042824_2017_12_14_對台灣民主有信心-黃國昌_罷免案99不會通過獨派_fc3313e0f74c605b||對台灣民主有信心 黃國昌：罷免案99%不會通過+獨派團體挺昌！ 黃帝穎：罷免案考驗選民智慧 ◎新頭殼newtalk+民報 2017-12-14]]
 
 ### Body mentions (1167)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2024/20240520034013_root_6f2b431c9cb0cca9|台美人台加人]]
-2. [[articles/taiwanjustice-net/2024/20240421185358_root_09926246802abc6a|台美人台加人]]
-3. [[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea|台美人台加人]]
-4. [[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3|台美人台加人]]
-5. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596|台美人台加人]]
+1. [[articles/taiwanjustice-net/2024/20240520034013_root_6f2b431c9cb0cca9||台美人台加人]]
+2. [[articles/taiwanjustice-net/2024/20240421185358_root_09926246802abc6a||台美人台加人]]
+3. [[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea||台美人台加人]]
+4. [[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3||台美人台加人]]
+5. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596||台美人台加人]]
 
 
 ## Timeline
@@ -11155,7 +11155,7 @@ Notable quotes and mentions of **黃帝穎** in Taiwan Justice articles:
 
 ### Unknown (1 quotes)
 
-1. "ziqing|Yang Zi-qing (楊子清)]] — 65 articles - [[people/huang-diyin|Huang Di-ying (黃帝穎)]] — 57 articles - [[people/he-qingxuan|He Qinglian (何清漣)]] — 50 articles - [[p"
+1. "ziqing|Yang Zi-qing (楊子清)]] — 65 articles - [[people/huang-diyin||Huang Di-ying (黃帝穎)]] — 57 articles - [[people/he-qingxuan||He Qinglian (何清漣)]] — 50 articles - [[p"
    — "taiwanjustice.net Article Archive" (unknown)
 
 ### 2025 (6 quotes)
@@ -11400,11 +11400,11 @@ Notable quotes and mentions of **黃帝穎** in Taiwan Justice articles:
 
 - **Content priority A:** Article count (57) from Tier 2 title extraction
 - **Content priority B:** Column author listing from `knowledge/research/taiwanjustice-net-entities.md`
-- **Hub:** [[sources/taiwanjustice-net|taiwanjustice.net source hub]]
+- **Hub:** [[sources/taiwanjustice-net||taiwanjustice.net source hub]]
 - **Archive:** [Column articles](https://github.com/echocanhelp/wiki-public/tree/gh-pages/knowledge/web-archives/taiwanjustice-net/tier2/)
 
 ## Related Pages
 
-- [[sources/taiwanjustice-net|taiwanjustice.net source hub]]
-- [[organizations/taiwanjustice-net|taiwanjustice.net (台灣公義網)]]
-- [[people/freeman-huang|Freeman Huang (黃樹人)]]
+- [[sources/taiwanjustice-net||taiwanjustice.net source hub]]
+- [[organizations/taiwanjustice-net||taiwanjustice.net (台灣公義網)]]
+- [[people/freeman-huang||Freeman Huang (黃樹人)]]

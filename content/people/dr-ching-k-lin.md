@@ -45,8 +45,8 @@ Accomplishment
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-ching-k-lin/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## Network
-- [[organizations/irvine-taiwanese-presbyterian-church|ITPC]] — TAH Who’s Who
+- [[organizations/irvine-taiwanese-presbyterian-church||ITPC]] — TAH Who’s Who

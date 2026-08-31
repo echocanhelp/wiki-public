@@ -22,5 +22,5 @@ The Taiwanese Graduate Student Association (TGSA) at UC Irvine is a graduate stu
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-graduate-student-association-at-uc-irvine/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

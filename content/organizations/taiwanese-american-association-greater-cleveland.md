@@ -22,5 +22,5 @@ The Taiwanese American Association Greater Cleveland (克里夫蘭 台灣同鄉�
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-association-greater-cleveland/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

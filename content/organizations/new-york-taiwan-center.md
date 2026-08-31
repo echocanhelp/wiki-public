@@ -22,5 +22,5 @@ New York Taiwan Center (紐約台灣會館) is a non-profit 501(c)(3) organizati
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/new-york-taiwan-center/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

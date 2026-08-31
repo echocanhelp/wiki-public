@@ -36,11 +36,11 @@ last_reviewed: 2026-08-17
 ## Family
 
 - **Wife:** 張柯鶴
-- **Daughter:** [[people/tah-p-4e2cc68fdc|張肅]]
+- **Daughter:** [[people/tah-p-4e2cc68fdc||張肅]]
 - **Daughter:** 張照
 - **Daughter:** 張郁彬
 - **Daughter:** 張豐
-- **Daughter:** [[people/anna-chang|張月英]]
+- **Daughter:** [[people/anna-chang||張月英]]
 - **Son:** 張雲程
 - **Daughter:** 張薰丹
 - **Son:** 張雲彥
@@ -51,5 +51,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dew-chin-ghi-chang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

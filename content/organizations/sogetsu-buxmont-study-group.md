@@ -22,5 +22,5 @@ The Sogetsu BuxMont Study Group is a community of Sogetsu Ikebana teachers and s
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/sogetsu-buxmont-study-group/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

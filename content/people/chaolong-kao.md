@@ -14,7 +14,7 @@ last_reviewed: 2026-07-15
 ---
 # Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)
 
-**Dr. Charles C.L. Kao (Chaolong Kao, 高昭龍)** was the **organizing minister** of the [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]], called by the Presbytery of Los Angeles Southwest in September 1971 on behalf of the Formosan congregation.
+**Dr. Charles C.L. Kao (Chaolong Kao, 高昭龍)** was the **organizing minister** of the [[organizations/formosan-presbyterian-church-in-los-angeles||Formosan Presbyterian Church in Los Angeles (FPCLA)]], called by the Presbytery of Los Angeles Southwest in September 1971 on behalf of the Formosan congregation.
 
 ## Identity Snapshot
 
@@ -26,13 +26,13 @@ last_reviewed: 2026-07-15
 
 ## Ministry and FPCLA
 
-According to [[people/albert-s-lai|Dr. Albert S. Lai]]'s 1971 dissertation [[sources/toward-a-community-of-hope|Toward A Community of Hope]]:
+According to [[people/albert-s-lai||Dr. Albert S. Lai]]'s 1971 dissertation [[sources/toward-a-community-of-hope||Toward A Community of Hope]]:
 
 - With financial assistance from the Synod Office of Southern California and National Missions, **Rev. Dr. Charles C.L. Kao** was called in **September 1971** by the Presbytery of Los Angeles Southwest as the Formosan congregation's organizing minister.
 - He was a **native Formosan**, former **Assistant Professor at Tainan Theological College**, and before accepting the call was a **Visiting Scholar at Harvard University**.
 - Related secondary narrative on the Albert S. Lai page also connects him to TTCS training under the era of President Shoki Coe and to teaching at TTCS while Lai was a student — treat detailed TTCS biography as **content priority B** pending additional primary sources.
 
-**Disambiguation:** Co-founder [[people/daniel-kao|Dr. Daniel Kao (高光民)]] is a different person. Do not merge Charles C.L. Kao with Daniel Kao.
+**Disambiguation:** Co-founder [[people/daniel-kao||Dr. Daniel Kao (高光民)]] is a different person. Do not merge Charles C.L. Kao with Daniel Kao.
 
 
 ## Education
@@ -60,8 +60,8 @@ According to [[people/albert-s-lai|Dr. Albert S. Lai]]'s 1971 dissertation [[sou
 
 ### Body Mentions (2 articles)
 
-1. **2025** — [[sources/toward-a-community-of-hope|Toward A Community of Hope (2025 reprint)]] — organizing minister call, Harvard Visiting Scholar, TTCS faculty
-2. **2025** — [[sources/toward-a-community-of-hope|Toward A Community of Hope (Self-Preface)]] — wedding officiant, graduation ceremony attendance
+1. **2025** — [[sources/toward-a-community-of-hope||Toward A Community of Hope (2025 reprint)]] — organizing minister call, Harvard Visiting Scholar, TTCS faculty
+2. **2025** — [[sources/toward-a-community-of-hope||Toward A Community of Hope (Self-Preface)]] — wedding officiant, graduation ceremony attendance
 
 ## Publications
 
@@ -92,21 +92,21 @@ Pages that link to **chaolong-kao** (chaolong-kao):
 
 ### People (6)
 
-1. [[people/albert-s-lai|albert-s-lai]]
-2. [[people/albert-s-lai|albert-s-lai]]
-3. [[people/c-c-chen|c-c-chen]]
-4. [[people/daniel-kao|daniel-kao]]
-5. [[people/daniel-kao|daniel-kao]]
-6. [[people/jonah-chang|jonah-chang]]
+1. [[people/albert-s-lai||albert-s-lai]]
+2. [[people/albert-s-lai||albert-s-lai]]
+3. [[people/c-c-chen||c-c-chen]]
+4. [[people/daniel-kao||daniel-kao]]
+5. [[people/daniel-kao||daniel-kao]]
+6. [[people/jonah-chang||jonah-chang]]
 
 ### Organizations (2)
 
-1. [[organizations/formosan-presbyterian-church-in-los-angeles|formosan-presbyterian-church-in-los-angeles]]
-2. [[organizations/formosan-presbyterian-church-in-los-angeles|formosan-presbyterian-church-in-los-angeles]]
+1. [[organizations/formosan-presbyterian-church-in-los-angeles||formosan-presbyterian-church-in-los-angeles]]
+2. [[organizations/formosan-presbyterian-church-in-los-angeles||formosan-presbyterian-church-in-los-angeles]]
 
 ### Sources (1)
 
-1. [[sources/toward-a-community-of-hope|toward-a-community-of-hope]]
+1. [[sources/toward-a-community-of-hope||toward-a-community-of-hope]]
 
 ## Source Notes and Confidence
 
@@ -123,10 +123,10 @@ Pages that link to **chaolong-kao** (chaolong-kao):
 
 ## Related Pages
 
-- [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
-- [[sources/toward-a-community-of-hope|Toward A Community of Hope]]
-- [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
-- [[people/daniel-kao|Dr. Daniel Kao (高光民)]]
-- [[people/jonah-chang|Rev. Jonah Chang (張瑞雄)]]
-- [[people/shoki-coe|Dr. Shoki Coe]]
-- [[organizations/national-taiwanese-presbyterian-council|National Taiwanese Presbyterian Council (NTPC)]]
+- [[organizations/formosan-presbyterian-church-in-los-angeles||Formosan Presbyterian Church in Los Angeles (FPCLA)]]
+- [[sources/toward-a-community-of-hope||Toward A Community of Hope]]
+- [[people/albert-s-lai||Dr. Albert S. Lai (賴信雄)]]
+- [[people/daniel-kao||Dr. Daniel Kao (高光民)]]
+- [[people/jonah-chang||Rev. Jonah Chang (張瑞雄)]]
+- [[people/shoki-coe||Dr. Shoki Coe]]
+- [[organizations/national-taiwanese-presbyterian-council||National Taiwanese Presbyterian Council (NTPC)]]

@@ -27,7 +27,7 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Wife:** [[people/marian-miaw-ju-chen|陳林妙珠]]
+- **Wife:** [[people/marian-miaw-ju-chen||陳林妙珠]]
 - **Son:** Joseph陳約瑟
 - **Son:** Samuel陳恩亮
 
@@ -38,5 +38,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-j-chen/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

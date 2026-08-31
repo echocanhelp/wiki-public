@@ -40,7 +40,7 @@ sources:
 
 ## Introduction Context
 
-This page was created from LINE-first onboarding to establish canonical identity and governance linkage for David Lee (李東璞) within the Taiwanese American Historical Society ([[organizations/taiwanese-american-historical-society|台美人歷史學會 (TAHS)]]).
+This page was created from LINE-first onboarding to establish canonical identity and governance linkage for David Lee (李東璞) within the Taiwanese American Historical Society ([[organizations/taiwanese-american-historical-society||台美人歷史學會 (TAHS)]]).
 
 ## Summary
 
@@ -187,17 +187,17 @@ Pages that link to **李東璞** (david-lee):
 
 ### People (3)
 
-1. [[people/index|index]]
-2. [[people/ken-wu|ken-wu]]
-3. [[people/rex-chen|rex-chen]]
+1. [[people/index||index]]
+2. [[people/ken-wu||ken-wu]]
+3. [[people/rex-chen||rex-chen]]
 
 ## Related Pages
 
-- [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
-- [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]]
-- [[people/ken-wu|Ken Wu (吳兆峯)]]
-- [[people/rex-chen|Rex Chen (陳乃光)]]
-- [[people/tahs-member-onboarding|TAHS member onboarding]]
+- [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society (TAHS)]]
+- [[people/leonard-hsu-jr||Leonard Hsu Jr. (許景鴻)]]
+- [[people/ken-wu||Ken Wu (吳兆峯)]]
+- [[people/rex-chen||Rex Chen (陳乃光)]]
+- [[people/tahs-member-onboarding||TAHS member onboarding]]
 
 ## Sources
 

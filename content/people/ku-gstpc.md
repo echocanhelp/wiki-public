@@ -33,5 +33,5 @@ Brother Ku appears in GSTPC bulletin records. This is a provisional stub pending
 - Romanized: Ku / Ku
 
 ## Related Pages
-- [[people/index|People Index]]
-- [[organizations/good-shepherd-taiwanese-presbyterian-church|Good Shepherd Taiwanese Presbyterian Church]]
+- [[people/index||People Index]]
+- [[organizations/good-shepherd-taiwanese-presbyterian-church||Good Shepherd Taiwanese Presbyterian Church]]

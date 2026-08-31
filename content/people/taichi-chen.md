@@ -41,5 +41,5 @@ Taichi Chen began his violin studies in his native country Taiwan when he was 7 
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/taichi-chen/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

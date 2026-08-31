@@ -43,5 +43,5 @@ Mr. Wu came to New York and studied voice with C. Segrera, and A. Lavanne and at
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/philip-wu/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

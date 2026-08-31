@@ -21,31 +21,31 @@ Related: [Taiwanese American Historical Society](/organizations/taiwanese-americ
 
 Top 4 articles from taiwanjustice.net mentioning huang-yongcheng:
 
-1. **2017-12-14** — [[articles/taiwanjustice-net/2017/20171216082049_2017_12_14_新聞挖挖哇-20171214-何守正_沒小三_若有一頭撞死_89d540a3539fedbe|新聞挖挖哇 20171214 何守正：沒小三，若有一頭撞死]]
+1. **2017-12-14** — [[articles/taiwanjustice-net/2017/20171216082049_2017_12_14_新聞挖挖哇-20171214-何守正_沒小三_若有一頭撞死_89d540a3539fedbe||新聞挖挖哇 20171214 何守正：沒小三，若有一頭撞死]]
    - *December 14, 2017...*
    - Score: 560
-2. **2017-12-12** — [[articles/taiwanjustice-net/2017/20171216082817_2017_12_12_新聞挖挖哇-20171212-酒錢誰來付_d166377070d5311f|新聞挖挖哇 20171212 酒錢誰來付]]
+2. **2017-12-12** — [[articles/taiwanjustice-net/2017/20171216082817_2017_12_12_新聞挖挖哇-20171212-酒錢誰來付_d166377070d5311f||新聞挖挖哇 20171212 酒錢誰來付]]
    - *December 12, 2017...*
    - Score: 560
-3. **2017-12-12** — [[articles/taiwanjustice-net/2017/20171216084958_2017_12_12_政經看民視-20171212-大鳥籠公投法強渡關山-籠子加大裡面_be24efade6cd2aaa|政經看民視 20171212 大鳥籠公投法強渡關山 籠子加大裡面沒有鳥?]]
+3. **2017-12-12** — [[articles/taiwanjustice-net/2017/20171216084958_2017_12_12_政經看民視-20171212-大鳥籠公投法強渡關山-籠子加大裡面_be24efade6cd2aaa||政經看民視 20171212 大鳥籠公投法強渡關山 籠子加大裡面沒有鳥?]]
    - *December 12, 2017...*
    - Score: 560
-4. **2017-12-12** — [[articles/taiwanjustice-net/2017/20171216085013_2017_12_12_新台灣加油-20171212-川普急開戰有因_北韓生化戰劑技術_4e494fc2ca09634b|新台灣加油 20171212 川普急開戰有因？北韓生化戰劑技術成熟　美國軍演必戴「防毒面具」掌握情資？！]]
+4. **2017-12-12** — [[articles/taiwanjustice-net/2017/20171216085013_2017_12_12_新台灣加油-20171212-川普急開戰有因_北韓生化戰劑技術_4e494fc2ca09634b||新台灣加油 20171212 川普急開戰有因？北韓生化戰劑技術成熟　美國軍演必戴「防毒面具」掌握情資？！]]
    - *December 12, 2017...*
    - Score: 560
 
 ## Works
 
-**黃永成** — **0** title hits, **4** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
+**黃永成** — **0** title hits, **4** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
 
 ### Body mentions (4)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2017/20171216082049_2017_12_14_新聞挖挖哇-20171214-何守正_沒小三_若有一頭撞死_89d540a3539fedbe|新聞挖挖哇 20171214 何守正：沒小三，若有一頭撞死]]
-2. [[articles/taiwanjustice-net/2017/20171216082817_2017_12_12_新聞挖挖哇-20171212-酒錢誰來付_d166377070d5311f|新聞挖挖哇 20171212 酒錢誰來付]]
-3. [[articles/taiwanjustice-net/2017/20171216084958_2017_12_12_政經看民視-20171212-大鳥籠公投法強渡關山-籠子加大裡面_be24efade6cd2aaa|政經看民視 20171212 大鳥籠公投法強渡關山 籠子加大裡面沒有鳥?]]
-4. [[articles/taiwanjustice-net/2017/20171216085013_2017_12_12_新台灣加油-20171212-川普急開戰有因_北韓生化戰劑技術_4e494fc2ca09634b|新台灣加油 20171212 川普急開戰有因？北韓生化戰劑技術成熟　美國軍演必戴「防毒面具」掌握情資？！]]
+1. [[articles/taiwanjustice-net/2017/20171216082049_2017_12_14_新聞挖挖哇-20171214-何守正_沒小三_若有一頭撞死_89d540a3539fedbe||新聞挖挖哇 20171214 何守正：沒小三，若有一頭撞死]]
+2. [[articles/taiwanjustice-net/2017/20171216082817_2017_12_12_新聞挖挖哇-20171212-酒錢誰來付_d166377070d5311f||新聞挖挖哇 20171212 酒錢誰來付]]
+3. [[articles/taiwanjustice-net/2017/20171216084958_2017_12_12_政經看民視-20171212-大鳥籠公投法強渡關山-籠子加大裡面_be24efade6cd2aaa||政經看民視 20171212 大鳥籠公投法強渡關山 籠子加大裡面沒有鳥?]]
+4. [[articles/taiwanjustice-net/2017/20171216085013_2017_12_12_新台灣加油-20171212-川普急開戰有因_北韓生化戰劑技術_4e494fc2ca09634b||新台灣加油 20171212 川普急開戰有因？北韓生化戰劑技術成熟　美國軍演必戴「防毒面具」掌握情資？！]]
 
 
 ## Timeline
@@ -72,4 +72,4 @@ Notable quotes and mentions of **黃永成** in Taiwan Justice articles:
 
 ## Related Pages
 
-- [[people/albert-s-lai|Dr. Albert S. Lai]]
+- [[people/albert-s-lai||Dr. Albert S. Lai]]

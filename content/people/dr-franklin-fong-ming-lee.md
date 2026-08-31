@@ -42,5 +42,5 @@ Dr. Franklin Fong-Ming Lee 李豐明博士 – History of Taiwanese American (T.
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-franklin-fong-ming-lee/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

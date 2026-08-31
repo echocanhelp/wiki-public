@@ -22,5 +22,5 @@ Taiwan Student Association at Syracuse University is a cultural organization of 
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-student-association-at-syracuse-university/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

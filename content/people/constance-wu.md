@@ -40,5 +40,5 @@ Constance Wu is an American actress born on March 22, 1982, in Richmond, Virgini
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/constance-wu/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

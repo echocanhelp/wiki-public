@@ -22,5 +22,5 @@ The NYS Orange County Taiwanese Association (紐約橙縣台灣同鄉會) is a r
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/nys-orange-county-taiwanese-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -42,5 +42,5 @@ Clinical Professor; Director of the Dual Diagnosis Treatment Program
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-john-tsuang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

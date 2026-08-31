@@ -22,5 +22,5 @@ Taiwan Care Inc. is a Taiwanese American nonprofit organization rooted in the Ne
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwan-care-inc/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

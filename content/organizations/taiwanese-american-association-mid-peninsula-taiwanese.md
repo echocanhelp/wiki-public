@@ -22,5 +22,5 @@ The Taiwanese American Association Mid-Peninsula Taiwanese (北加州 中半島�
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-association-mid-peninsula-taiwanese/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

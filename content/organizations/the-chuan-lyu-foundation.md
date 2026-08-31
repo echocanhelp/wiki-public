@@ -22,5 +22,5 @@ The Chuan Lyu Foundation is a private philanthropy dedicated to preserving the c
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/the-chuan-lyu-foundation/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

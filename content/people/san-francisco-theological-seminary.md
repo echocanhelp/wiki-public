@@ -8,11 +8,11 @@ last_reviewed: 2026-07-08
 ---
 # San Francisco Theological Seminary
 
-**San Francisco Theological Seminary** is the institution where [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]] completed his Doctor of Ministry dissertation in 1971: Toward A Community of Hope.
+**San Francisco Theological Seminary** is the institution where [[people/albert-s-lai||Dr. Albert S. Lai (賴信雄)]] completed his Doctor of Ministry dissertation in 1971: Toward A Community of Hope.
 
 ## Significance in Taiwanese American Church History
 
-> **Primary work page:** [[sources/toward-a-community-of-hope|Toward A Community of Hope (work & sources)]]  
+> **Primary work page:** [[sources/toward-a-community-of-hope||Toward A Community of Hope (work & sources)]]  
 > **Full text (GitHub):** [complete extract](https://github.com/echocanhelp/wiki-public/blob/gh-pages/knowledge/web-archives/albert-lai-toward-community-of-hope.md)
 
 
@@ -25,8 +25,8 @@ Through leaders trained there, the seminary is connected to early theological in
 
 ## Related Pages
 
-- [[sources/toward-a-community-of-hope|Toward A Community of Hope]]
+- [[sources/toward-a-community-of-hope||Toward A Community of Hope]]
 
-- [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
+- [[people/albert-s-lai||Dr. Albert S. Lai (賴信雄)]]
 - Toward A Community of Hope
 - Tainan Theological College and Seminary (台南神學院)

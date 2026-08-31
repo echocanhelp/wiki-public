@@ -22,5 +22,5 @@ The Taiwanese Students Association (TSA) at Carnegie Mellon University is a stud
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-students-association/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

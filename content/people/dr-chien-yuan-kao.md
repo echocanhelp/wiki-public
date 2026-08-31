@@ -29,7 +29,7 @@ Accomplishment
 
 ## Family
 
-- **Wife:** [[people/ching-fen-lin-2|林青棻]]
+- **Wife:** [[people/ching-fen-lin-2||林青棻]]
 - **Son:** Eric, Jesse
 
 
@@ -38,5 +38,5 @@ Accomplishment
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-chien-yuan-kao/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -41,5 +41,5 @@ Fan Rong K Chung Graham 金芳蓉 – History of Taiwanese American (T.A. Archiv
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/fan-rong-k-chung-graham/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

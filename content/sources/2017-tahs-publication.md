@@ -14,10 +14,10 @@ last_reviewed: 2026-07-17
 
 ## Identity Snapshot
 - Type: Community yearbook / elite profiles publication (台美菁英錄)
-- Publisher: Taiwanese American Historical Society ([[organizations/taiwanese-american-irvines-eagle-brotherhood-group-irvine|台美人]]歷史協會, TAHS)
+- Publisher: Taiwanese American Historical Society ([[organizations/taiwanese-american-irvines-eagle-brotherhood-group-irvine||台美人]]歷史協會, TAHS)
 - Year: 2017
 - Pages: 1–118 (bilingual Chinese/English)
-- Editors/Compilers: [[people/zhou-wei-liang|周威廉]], [[people/zhou-wei-lin|周威霖]], Edda Huang, 楊文顯, 楊遠薰, [[people/stella-chen|陳婉真]], [[people/zheng-bing-quan|鄭炳全]], etc.
+- Editors/Compilers: [[people/zhou-wei-liang||周威廉]], [[people/zhou-wei-lin||周威霖]], Edda Huang, 楊文顯, 楊遠薰, [[people/stella-chen||陳婉真]], [[people/zheng-bing-quan||鄭炳全]], etc.
 
 ## Overview
 Primary Tier-2/Tier-1 source for 2017 TAHS profiles of first- and second-generation Taiwanese Americans, plus founding essays, activity summary, and donor lists. Published by TAHS to document the community's history and celebrate prominent members.
@@ -25,38 +25,38 @@ Primary Tier-2/Tier-1 source for 2017 TAHS profiles of first- and second-generat
 ## Coverage
 
 ### Priority A people (pages)
-- [[people/yang-jia-you|楊嘉猷 (Charles Yang)]] — Founding President, TAHS
-- [[people/liao-shu-zong|廖述宗]] — Biochemist, NATPA founder, UC Chicago professor
-- [[people/yang-xin|楊信]] — Former government advisor, entrepreneur
-- [[people/alan-thian|田詒鴻 (Alan Thian)]] — 皇佳銀行總裁; expanded from existing page
-- [[people/lisa-su|蘇姿丰 (Lisa T. Su)]] — AMD CEO
-- [[people/john-chiang|江俊輝 (John Chiang)]] — California State Controller
-- [[people/franklin-ping-cheng|Franklin Ping Cheng]] — TAHS President 2014–2017
+- [[people/yang-jia-you||楊嘉猷 (Charles Yang)]] — Founding President, TAHS
+- [[people/liao-shu-zong||廖述宗]] — Biochemist, NATPA founder, UC Chicago professor
+- [[people/yang-xin||楊信]] — Former government advisor, entrepreneur
+- [[people/alan-thian||田詒鴻 (Alan Thian)]] — 皇佳銀行總裁; expanded from existing page
+- [[people/lisa-su||蘇姿丰 (Lisa T. Su)]] — AMD CEO
+- [[people/john-chiang||江俊輝 (John Chiang)]] — California State Controller
+- [[people/franklin-ping-cheng||Franklin Ping Cheng]] — TAHS President 2014–2017
 
 ### Priority B people (pages)
-- [[people/lin-fu-kun|林福坤 (Lin Fu-kun)]] — Biotech entrepreneur (Amgen, EPO/Epogen)
-- [[people/hsu-hsin-hung|徐新宏 (Hsu Hsin-hung)]] — 加州佳和企業集團董事長兼總裁
-- [[people/lin-yuan-ching|林元清 (Lin Yuan-qing)]] — Physician, 集集小孩
-- [[people/wang-gui-rong|王桂榮 (Wang Gui-rong)]] — Entrepreneur, philanthropist
-- [[people/anne-shih|施劉秀枝 (Anne Shih)]] — Bowers Museum Chairman
-- [[people/wang-neng-xiang|王能祥 (Wang Neng-xiang)]] — Religious elder, Taiwan democracy lobbyist
-- [[people/su-chun-huai|蘇春槐 (Su Chun-huai)]] — Father of Lisa Su
-- [[people/sam-chang|張善良 (Sam Chang)]] — Hotel developer, 紐約台裔
-- [[people/ho-chie-tsai|蔡和杰 (Dr. Ho Chie Tsai)]] — [[organizations/taiwaneseamerican-org|TaiwaneseAmerican.org]] founder
-- [[people/martha-vandriel|瑪莎·范德瑞爾 (Martha VanDriel)]] — Colonel, U.S. Army
-- [[people/jack-j-chen|陳宏傑 (Jack J. Chen)]] — Clinical Pharmacist PhD
-- [[people/katherine-huang|黃愷怡 (Katherine Huang)]] — Attorney
-- [[people/bob-j-wu|吳瑞椿 (Bob J. Wu)]] — General surgeon
-- [[people/tiffany-huang|黃咏婷 (Tiffany Huang)]] — Filmmaker
-- [[people/shawna-yang-ryan|楊小娜 (Shawna Yang Ryan)]] — Novelist, 2017 American Book Awards
+- [[people/lin-fu-kun||林福坤 (Lin Fu-kun)]] — Biotech entrepreneur (Amgen, EPO/Epogen)
+- [[people/hsu-hsin-hung||徐新宏 (Hsu Hsin-hung)]] — 加州佳和企業集團董事長兼總裁
+- [[people/lin-yuan-ching||林元清 (Lin Yuan-qing)]] — Physician, 集集小孩
+- [[people/wang-gui-rong||王桂榮 (Wang Gui-rong)]] — Entrepreneur, philanthropist
+- [[people/anne-shih||施劉秀枝 (Anne Shih)]] — Bowers Museum Chairman
+- [[people/wang-neng-xiang||王能祥 (Wang Neng-xiang)]] — Religious elder, Taiwan democracy lobbyist
+- [[people/su-chun-huai||蘇春槐 (Su Chun-huai)]] — Father of Lisa Su
+- [[people/sam-chang||張善良 (Sam Chang)]] — Hotel developer, 紐約台裔
+- [[people/ho-chie-tsai||蔡和杰 (Dr. Ho Chie Tsai)]] — [[organizations/taiwaneseamerican-org||TaiwaneseAmerican.org]] founder
+- [[people/martha-vandriel||瑪莎·范德瑞爾 (Martha VanDriel)]] — Colonel, U.S. Army
+- [[people/jack-j-chen||陳宏傑 (Jack J. Chen)]] — Clinical Pharmacist PhD
+- [[people/katherine-huang||黃愷怡 (Katherine Huang)]] — Attorney
+- [[people/bob-j-wu||吳瑞椿 (Bob J. Wu)]] — General surgeon
+- [[people/tiffany-huang||黃咏婷 (Tiffany Huang)]] — Filmmaker
+- [[people/shawna-yang-ryan||楊小娜 (Shawna Yang Ryan)]] — Novelist, 2017 American Book Awards
 
 ### Priority C / bylines (no page)
-[[people/freeman-huang|黃樹人]], [[people/liao-qingshan|廖清山]], 周威廉, 周威霖, 楊文顯, Edda Huang, 鄭炳全, 楊遠薰, 陳婉真, [[people/henry-tseng|曾恆利]], [[people/hui-na-lin|賴慧娜]], 台美人歷史協會 整理
+[[people/freeman-huang||黃樹人]], [[people/liao-qingshan||廖清山]], 周威廉, 周威霖, 楊文顯, Edda Huang, 鄭炳全, 楊遠薰, 陳婉真, [[people/henry-tseng||曾恆利]], [[people/hui-na-lin||賴慧娜]], 台美人歷史協會 整理
 
 ### Institutions mentioned
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 - NATPA (北美洲台灣人教授協會) — founded 1980 by 廖述宗 (disambiguate: national org, not SC chapter)
-- [[organizations/taiwanese-american-historical-society|TAHS]] founding context from 緣起與展望 essay
+- [[organizations/taiwanese-american-historical-society||TAHS]] founding context from 緣起與展望 essay
 
 ## Archives
 - PDF pp.1–57: `knowledge/web-archives/2017-tahs-publication-p001-057.pdf`
@@ -80,10 +80,10 @@ This publication's 22 profiles have been migrated into **Echopedia** as living p
 
 **Profiles migrated:** All 22 people profiles are now living pages in Echopedia, with depth-floor-compliant facts and hyperlinked connections to organizations, sources, and related people.
 
-**Next step:** The [[sources/2023-tahs-publication|2023 TAHS Publication]] will follow the same migration path when ingested.
+**Next step:** The [[sources/2023-tahs-publication||2023 TAHS Publication]] will follow the same migration path when ingested.
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society (TAHS)]]
-- [[echopedia|Echopedia — Community Knowledge Hub]]
-- [[people/yang-jia-you|楊嘉猷 (Charles Yang)]]
-- [[people/liao-shu-zong|廖述宗]]
+- [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society (TAHS)]]
+- [[echopedia||Echopedia — Community Knowledge Hub]]
+- [[people/yang-jia-you||楊嘉猷 (Charles Yang)]]
+- [[people/liao-shu-zong||廖述宗]]

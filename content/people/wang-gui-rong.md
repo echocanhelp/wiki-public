@@ -109,30 +109,30 @@ Pages that link to **wang-gui-rong** (wang-gui-rong):
 
 ### People (10)
 
-1. [[people/franklin-ping-cheng|franklin-ping-cheng]]
-2. [[people/hsu-hsin-hung|hsu-hsin-hung]]
-3. [[people/liao-shu-zong|liao-shu-zong]]
-4. [[people/lin-fu-kun|lin-fu-kun]]
-5. [[people/lin-yuan-ching|lin-yuan-ching]]
-6. [[people/sam-chang|sam-chang]]
-7. [[people/yang-jia-you|yang-jia-you]]
-8. [[people/yang-xin|yang-xin]]
-9. [[people/zhou-wei-lin|zhou-wei-lin]]
-10. [[people/zhou-wei-lin|zhou-wei-lin]]
+1. [[people/franklin-ping-cheng||franklin-ping-cheng]]
+2. [[people/hsu-hsin-hung||hsu-hsin-hung]]
+3. [[people/liao-shu-zong||liao-shu-zong]]
+4. [[people/lin-fu-kun||lin-fu-kun]]
+5. [[people/lin-yuan-ching||lin-yuan-ching]]
+6. [[people/sam-chang||sam-chang]]
+7. [[people/yang-jia-you||yang-jia-you]]
+8. [[people/yang-xin||yang-xin]]
+9. [[people/zhou-wei-lin||zhou-wei-lin]]
+10. [[people/zhou-wei-lin||zhou-wei-lin]]
 
 ### Organizations (1)
 
-1. [[organizations/taiwan-american-foundation|taiwan-american-foundation]]
+1. [[organizations/taiwan-american-foundation||taiwan-american-foundation]]
 
 ### Sources (1)
 
-1. [[sources/2017-tahs-publication|2017-tahs-publication]]
+1. [[sources/2017-tahs-publication||2017-tahs-publication]]
 
 ## Source Notes and Confidence
 
 - **Content priority A:** 2017 TAHS Publication 王桂榮傳略 (Biography of Wang Gui-rong), Part 1, L1879–2396 (~518 lines), compiled by 周威霖
 - **Content priority A:** Contains six chapters covering immigration, business, American experience, philanthropy, political participation, and legacy
-- **Hub:** [[sources/2017-tahs-publication|2017 TAHS Publication]]
+- **Hub:** [[sources/2017-tahs-publication||2017 TAHS Publication]]
 - **Note:** This is the longest profile in Part 1 of the publication. The full text contains extensive biographical detail including dates, organizations, and specific achievements.
 
 ## Family
@@ -141,14 +141,14 @@ Pages that link to **wang-gui-rong** (wang-gui-rong):
 - **Son:** 王政仁, 王政中, 王政煌
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
+- [[organizations/tah-foundation||TAH Foundation]]
 
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/2017-tahs-publication|2017 TAHS Publication]]
-- [[people/yang-jia-you|Charles Yang (楊嘉猷)]]
-- [[people/liao-shu-zong|Liao Shu-zong (廖述宗) — TAF laureate]]
-- [[people/wang-neng-xiang|Wang Neng-xiang (王能祥)]]
-- [[people/huang-gen-shen|Huang Gen-shen (黃根深)]]
-- [[organizations/taiwan-american-foundation|Taiwanese American Foundation (TAF)]]
-- [[organizations/taiwan-center|LA Taiwan Center]]
-- [[people/franklin-ping-cheng|Franklin Ping Cheng (程炳成) — 2017 TAHS president]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/2017-tahs-publication||2017 TAHS Publication]]
+- [[people/yang-jia-you||Charles Yang (楊嘉猷)]]
+- [[people/liao-shu-zong||Liao Shu-zong (廖述宗) — TAF laureate]]
+- [[people/wang-neng-xiang||Wang Neng-xiang (王能祥)]]
+- [[people/huang-gen-shen||Huang Gen-shen (黃根深)]]
+- [[organizations/taiwan-american-foundation||Taiwanese American Foundation (TAF)]]
+- [[organizations/taiwan-center||LA Taiwan Center]]
+- [[people/franklin-ping-cheng||Franklin Ping Cheng (程炳成) — 2017 TAHS president]]

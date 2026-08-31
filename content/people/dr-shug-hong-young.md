@@ -34,7 +34,7 @@ Accomplishment
 
 ## Family
 
-- **Wife:** [[people/julie-su-young|蘇秋莉]]
+- **Wife:** [[people/julie-su-young||蘇秋莉]]
 
 
 ## Sources
@@ -42,5 +42,5 @@ Accomplishment
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-shug-hong-young/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

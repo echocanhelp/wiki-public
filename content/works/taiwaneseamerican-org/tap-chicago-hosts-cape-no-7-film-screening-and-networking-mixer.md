@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/tap-chicago-hosts-cape-no-7-film-screening-and-networking-mixer|TAP Chicago Hosts &#8220;Cape No. 7&#8221; Film Screening and Networking Mixer]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/tap-chicago-hosts-cape-no-7-film-screening-and-networking-mixer||TAP Chicago Hosts &#8220;Cape No. 7&#8221; Film Screening and Networking Mixer]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

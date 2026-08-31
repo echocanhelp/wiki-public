@@ -34,7 +34,7 @@ last_reviewed: 2026-08-17
 ## Family
 
 - **Daughter:** Lisa Yang
-- **Son:** [[people/james-yang|James Yang]]
+- **Son:** [[people/james-yang||James Yang]]
 
 
 ## Sources
@@ -44,5 +44,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/nami-yang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

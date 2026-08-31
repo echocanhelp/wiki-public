@@ -34,12 +34,12 @@ Accomplishment
 
 - **Husband:** Stephen Colman
 - **Father:** 林富文
-- **Mother:** [[people/elena-ling|黃美惠]]
+- **Mother:** [[people/elena-ling||黃美惠]]
 
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/alvina-ling/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -31,7 +31,7 @@ Prof. Leona Yi-Fan Su 蘇怡帆教授 – History of Taiwanese American (T.A. Ar
 
 ## Family
 
-- **Husband:** [[people/yi-cheng-wang|Yi-Cheng Wang]]
+- **Husband:** [[people/yi-cheng-wang||Yi-Cheng Wang]]
 
 
 ## Sources
@@ -39,5 +39,5 @@ Prof. Leona Yi-Fan Su 蘇怡帆教授 – History of Taiwanese American (T.A. Ar
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-leona-yi-fan-su/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -22,5 +22,5 @@ The Sacramento Taiwanese Culture Foundation is a nonprofit organization based in
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/sacramento-taiwanese-culture-foundation/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

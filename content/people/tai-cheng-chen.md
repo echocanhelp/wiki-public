@@ -42,5 +42,5 @@ A native of Taiwan, Tai-Cheng Chen began playing the piano at the age of six; by
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tai-cheng-chen/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

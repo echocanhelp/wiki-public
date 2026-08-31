@@ -65,11 +65,11 @@ True vault facts only. We add no biography the page does not hold.
 - **Go-line family music for Leonard Hsu Jr. / 許景鴻** → TAHS, Echopedia,
   SoCal, Phoenix, Lennix, Leon. EN vocal, acoustic / warm. No Tyzen skew unless
   the page actually links 蕭泰然.
-- **A page that wikilinks [[people/tyzen-hsiao|蕭泰然]]** → piano / neo-romantic /
+- **A page that wikilinks [[people/tyzen-hsiao||蕭泰然]]** → piano / neo-romantic /
   sacred + homeland **guidance** — still not "we composed 台灣翠青."
 - **A page tagged pastor / minister** → hymn / choir / piano defaults, then age or
   era **only if cited**.
-- **A page tagged singer** (e.g. [[people/hsu-ching-chun|許景淳]]) → vocal-forward
+- **A page tagged singer** (e.g. [[people/hsu-ching-chun||許景淳]]) → vocal-forward
   ballad; a church household is the *mechanism*, not a clergy office.
 
 ## What we will not do

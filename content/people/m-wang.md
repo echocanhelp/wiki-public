@@ -27,7 +27,7 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Wife:** [[people/sing-nan-wang|王幸男]]
+- **Wife:** [[people/sing-nan-wang||王幸男]]
 - **Son:** Leon Wang王良正
 - **Daughter:** Emelia王怡芬
 - **Daughter:** Eugenia王怡芳
@@ -38,5 +38,5 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/m-wang/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

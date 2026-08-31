@@ -31,12 +31,12 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Father:** [[people/chun-long-jerry-tsung|曾俊隆]]
+- **Father:** [[people/chun-long-jerry-tsung||曾俊隆]]
 
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/patricia-anne-tsung/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

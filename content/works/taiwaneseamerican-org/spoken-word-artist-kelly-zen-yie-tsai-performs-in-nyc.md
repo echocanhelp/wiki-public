@@ -26,9 +26,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 
 
 ## Subjects
-- [[works/taiwaneseamerican-org/spoken-word-artist-kelly-zen-yie-tsai-performs-in-nyc|Spoken Word Artist Kelly Zen-Yie Tsai Performs in NYC]]
-- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[works/taiwaneseamerican-org/spoken-word-artist-kelly-zen-yie-tsai-performs-in-nyc||Spoken Word Artist Kelly Zen-Yie Tsai Performs in NYC]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Related Pages
-- [[organizations/taiwanese-american-historical-society|TAHS]]
-- [[sources/taiwaneseamerican-org|Source hub]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamerican-org||Source hub]]

@@ -22,5 +22,5 @@ The Student Association of Taiwan (SAT) at the University of Wisconsin–Madison
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/student-association-of-taiwan-uw-madison/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -42,5 +42,5 @@ A native of Taiwan, Assistant Concertmaster Huei-Sheng Kao started violin studie
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/huei-sheng-kao/)
 
 ## Related Pages
-- [[organizations/tah-foundation|TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
