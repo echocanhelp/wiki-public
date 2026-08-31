@@ -31,6 +31,7 @@ from pathlib import Path
 VAULT = Path("/home/leedt/echo-system")
 PEOPLE = VAULT / "content" / "people"
 ORGS = VAULT / "content" / "organizations"
+EVENTS = VAULT / "content" / "events"
 OPS = VAULT / "knowledge" / "operational"
 GAP_QUEUE = OPS / "echopedia-gap-queue.jsonl"
 GAP_STATE = OPS / "echopedia-gap-queue-state.json"
@@ -118,7 +119,7 @@ def page_role_line(body: str, meta: dict) -> str:
 def load_name_index() -> list[dict]:
     """Build lightweight index of people + orgs."""
     idx = []
-    for folder, kind in ((PEOPLE, "person"), (ORGS, "organization")):
+    for folder, kind in ((PEOPLE, "person"), (ORGS, "organization"), (EVENTS, "event")):
         if not folder.is_dir():
             continue
         for path in folder.glob("*.md"):
@@ -207,6 +208,8 @@ def format_answer(entry: dict) -> str:
         bits.append(role.rstrip("."))
     if kind == "organization":
         bits.append("Echopedia org page.")
+    elif kind == "event":
+        bits.append("Echopedia event page.")
     else:
         bits.append("Echopedia person page.")
     if status and status not in {"published", "owner_verified", ""}:
@@ -285,7 +288,7 @@ def answer(query: str, source: str = "cli", no_gap: bool = False) -> dict:
     candidates = []
     idx = load_name_index()
     # exact path fast path
-    for folder in (PEOPLE, ORGS):
+    for folder in (PEOPLE, ORGS, EVENTS):
         p = folder / f"{slugify(name)}.md"
         if p.exists():
             raw = p.read_text(encoding="utf-8", errors="replace")
@@ -352,8 +355,10 @@ def answer(query: str, source: str = "cli", no_gap: bool = False) -> dict:
 def answer_from_path(path: Path, query: str, source: str) -> dict:
     raw = path.read_text(encoding="utf-8", errors="replace")
     meta, body = parse_frontmatter(raw)
+    s = str(path)
+    kind = "person" if "/people/" in s else "event" if "/events/" in s else "organization"
     entry = {
-        "kind": "person" if "/people/" in str(path) else "organization",
+        "kind": kind,
         "slug": path.stem,
         "path": str(path),
         "title": meta.get("title") or path.stem,
@@ -368,11 +373,13 @@ def answer_from_path(path: Path, query: str, source: str) -> dict:
 
 
 def hit_result(entry: dict, query: str, source: str) -> dict:
+    hint = thin_page_hint(entry["body"])
     return {
         "status": "hit",
         "query": extract_query_name(query),
         "raw_query": query,
         "answer": format_answer(entry),
+        "hint": hint,
         "source_path": entry["path"],
         "slug": entry["slug"],
         "kind": entry["kind"],
@@ -380,6 +387,26 @@ def hit_result(entry: dict, query: str, source: str) -> dict:
         "name_zh": entry.get("name_zh"),
         "gap": None,
     }
+
+
+MISSING_LABELS = (
+    ("name_zh_hanzi", "漢語名"),
+    ("name_en", "English name"),
+    ("era", "era"),
+    ("geography", "geography"),
+    ("roles", "roles"),
+)
+
+
+def thin_page_hint(body: str) -> str:
+    """One-line 'what's missing' for reply tails; '' when page is complete."""
+    meta, _ = parse_frontmatter(body)
+    missing = [label for key, label in MISSING_LABELS if not str(meta.get(key) or "").strip()]
+    if "[[" not in body and "Related Pages" not in body:
+        missing.append("related orgs")
+    if not missing:
+        return ""
+    return "Could use: " + ", ".join(missing[:4]) + "."
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -413,7 +440,7 @@ def main(argv: list[str] | None = None) -> int:
         return 0 if ok else 1
 
     if args.slug:
-        for folder in (PEOPLE, ORGS):
+        for folder in (PEOPLE, ORGS, EVENTS):
             p = folder / f"{args.slug}.md"
             if p.exists():
                 res = answer_from_path(p, args.slug, args.source)
