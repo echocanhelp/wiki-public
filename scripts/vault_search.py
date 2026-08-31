@@ -367,45 +367,71 @@ def _resolve_wikilink(link, pages, _lookup=None):
 
 
 # ─── Vector search ──────────────────────────────────────────────────────
+_VEC_CACHE = None  # (paths, tiers, titles, types, matrix, norms)
+
+
+def _vec_cache():
+    """Load embeddings once — 5k rows; do not reread SQLite every query."""
+    global _VEC_CACHE
+    if _VEC_CACHE is not None:
+        return _VEC_CACHE
+    import numpy as np
+
+    conn = get_db()
+    c = conn.cursor()
+    c.execute("SELECT path, tier, title, page_type, embedding FROM vault_embeddings")
+    rows = c.fetchall()
+    if not rows:
+        _VEC_CACHE = []
+        return _VEC_CACHE
+    paths, tiers, titles, types, vecs = [], [], [], [], []
+    buckets: dict[int, list] = {}
+    for row in rows:
+        emb = np.frombuffer(row["embedding"], dtype=np.float32).copy()
+        buckets.setdefault(emb.shape[0], []).append((row, emb))
+    # Prefer the MiniLM-L6 dim (384); else the largest bucket.
+    dim = 384 if 384 in buckets else max(buckets, key=lambda d: len(buckets[d]))
+    for row, emb in buckets[dim]:
+        paths.append(row["path"])
+        tiers.append(row["tier"])
+        titles.append(row["title"])
+        types.append(row["page_type"])
+        vecs.append(emb)
+    mat = np.vstack(vecs)
+    norms = np.linalg.norm(mat, axis=1) + 1e-8
+    _VEC_CACHE = (paths, tiers, titles, types, mat, norms)
+    return _VEC_CACHE
+
+
 def vector_search(query, top_k=10):
     """Semantic search using embeddings."""
     embedder = get_embedder()
     if not embedder:
         return []
-
-    conn = get_db()
-    c = conn.cursor()
-
-    # Get all embeddings
-    c.execute("SELECT path, tier, title, page_type, embedding FROM vault_embeddings")
-    rows = c.fetchall()
-
-    if not rows:
+    cache = _vec_cache()
+    if not cache:
         return []
-
-    # Encode query
-    query_emb = embedder.encode(query)
-
-    # Compute cosine similarity
     import numpy as np
-    results = []
-    for row in rows:
-        emb = np.frombuffer(row["embedding"], dtype=np.float32)
-        if emb.shape[0] != query_emb.shape[0]:
-            continue
-        # Cosine similarity
-        sim = float(np.dot(query_emb, emb) / (np.linalg.norm(query_emb) * np.linalg.norm(emb) + 1e-8))
-        results.append({
-            "path": row["path"],
-            "tier": row["tier"],
-            "title": row["title"],
-            "type": row["page_type"],
-            "score": sim,
-            "source": "vector",
-        })
 
-    results.sort(key=lambda r: r["score"], reverse=True)
-    return results[:top_k]
+    paths, tiers, titles, types, mat, norms = cache
+    q = np.asarray(embedder.encode(query), dtype=np.float32).reshape(-1)
+    if q.shape[0] != mat.shape[1]:
+        return []
+    qn = float(np.linalg.norm(q) + 1e-8)
+    sims = (mat @ q) / (norms * qn)
+    idx = np.argpartition(-sims, min(top_k, len(sims) - 1))[:top_k]
+    idx = idx[np.argsort(-sims[idx])]
+    return [
+        {
+            "path": paths[i],
+            "tier": tiers[i],
+            "title": titles[i],
+            "type": types[i],
+            "score": float(sims[i]),
+            "source": "vector",
+        }
+        for i in idx
+    ]
 
 
 # ─── Graph traversal ────────────────────────────────────────────────────
@@ -496,8 +522,11 @@ def hybrid_search(query, top_k=10):
     # 1. Keyword search (existing logic)
     keyword_results = _keyword_search(query, top_k * 3)
 
-    # 2. Vector search
-    vector_results = vector_search(query, top_k * 3)
+    # 2. Vector search (skip if embed dim mismatch)
+    try:
+        vector_results = vector_search(query, top_k * 3)
+    except Exception:
+        vector_results = []
 
     # 3. Graph expansion: for top keyword results, find related pages
     graph_results = {}
@@ -551,72 +580,260 @@ def hybrid_search(query, top_k=10):
 
     # Sort and return
     results = list(merged.values())
+    for r in results:
+        path = r.get("path") or ""
+        ptype = r.get("type") or ""
+        if path.startswith("organizations/") or ptype == "organization":
+            r["score"] *= 1.3
+        elif path.startswith("people/") or ptype == "person":
+            r["score"] *= 1.15
+        elif path.startswith("sources/"):
+            r["score"] *= 0.65
     results.sort(key=lambda r: r["score"], reverse=True)
     return results[:top_k]
 
 
+_REG_ALIAS = None
+_REG_PATH = ECHOPEDIA_DIR / "echopedia" / "identity" / "identity_registry.json"
+
+
+def registry_slug_aliases() -> dict:
+    """LINE display names → person slugs. Never includes U-ids."""
+    global _REG_ALIAS
+    if _REG_ALIAS is not None:
+        return _REG_ALIAS
+    out: dict[str, str] = {}
+    try:
+        data = json.loads(_REG_PATH.read_text(encoding="utf-8"))
+    except Exception:
+        _REG_ALIAS = {}
+        return _REG_ALIAS
+    for link in data.get("links") or []:
+        if link.get("state") not in ("verified", "owner_verified"):
+            continue
+        slug = (link.get("person_slug") or "").strip()
+        if not slug:
+            continue
+        names = [
+            link.get("display_name_en") or "",
+            link.get("display_name_zh") or "",
+            slug.replace("-", " "),
+        ]
+        extra = []
+        for n in names:
+            n = (n or "").strip()
+            if not n:
+                continue
+            extra.append(n)
+            extra.append(re.sub(r"\bjr\.?\b", "junior", n, flags=re.I))
+            extra.append(re.sub(r"\bjunior\b", "jr", n, flags=re.I))
+        for n in extra:
+            key = n.strip()
+            if len(key) < 2:
+                continue
+            out[key.lower()] = slug
+            out[key] = slug
+    _REG_ALIAS = out
+    return out
+
+
+_STOP = {
+    "the", "me", "my", "a", "an", "in", "on", "of", "to", "for", "and", "or",
+    "tell", "about", "who", "is", "what", "info", "please", "this", "that",
+    "with", "from", "you", "your", "are", "was", "were", "be", "been", "it",
+    "its", "at", "by", "as", "not", "no", "i", "we", "they", "he", "she",
+}
+
+_PLACE_CACHE = None
+
+
+def _place_cache() -> dict:
+    """City/place → org paths. Built once from org pages; no query-time rglob."""
+    global _PLACE_CACHE
+    if _PLACE_CACHE is not None:
+        return _PLACE_CACHE
+    cache_path = ECHOPEDIA_DIR / "cache" / "org_places.json"
+    orgs = CONTENT_DIR / "organizations"
+    mtime = orgs.stat().st_mtime if orgs.is_dir() else 0.0
+    if cache_path.is_file():
+        try:
+            data = json.loads(cache_path.read_text(encoding="utf-8"))
+            if abs(float(data.get("mtime") or 0) - mtime) < 1:
+                _PLACE_CACHE = data.get("places") or {
+                    k: v for k, v in data.items() if k != "mtime" and isinstance(v, list)
+                }
+                return _PLACE_CACHE
+        except Exception:
+            pass
+    mapping: dict[str, list[str]] = {}
+    loc_line = re.compile(r"(?im)^(?:\*\*location:\*\*|location:|地址[:：]).+$")
+    city_rx = re.compile(
+        r"\b([A-Z][a-zA-Z]+(?: [A-Z][a-zA-Z]+)+),?\s*"
+        r"(?:CA|California|NY|TX|NJ|MD|VA|WA|IL|PA|GA|FL)\b"
+    )
+    yaml_item = re.compile(r"(?m)^  - ([A-Z][A-Za-z .'-]{3,40})$")
+    if orgs.is_dir():
+        for p in orgs.glob("*.md"):
+            try:
+                text = p.read_text(encoding="utf-8", errors="replace")[:3000]
+            except OSError:
+                continue
+            rel = f"organizations/{p.name}"
+            cities: set[str] = set()
+            for line in loc_line.findall(text):
+                cities.update(city_rx.findall(line))
+            cities.update(city_rx.findall(text[:1500]))
+            for item in yaml_item.findall(text[:600]):
+                if 1 <= item.strip().count(" ") <= 3:
+                    cities.add(item.strip())
+            for city in cities:
+                key = city.lower().strip()
+                if len(key) < 5:
+                    continue
+                mapping.setdefault(key, []).append(rel)
+    try:
+        payload = {"mtime": mtime, "places": mapping}
+        cache_path.parent.mkdir(parents=True, exist_ok=True)
+        cache_path.write_text(json.dumps(payload, ensure_ascii=False), encoding="utf-8")
+    except OSError:
+        pass
+    _PLACE_CACHE = mapping
+    return mapping
+
+
+def _keyword_tokens(query: str) -> list[str]:
+    words = []
+    for w in _expand_query_tokens(query):
+        wl = w.lower().strip()
+        if not wl:
+            continue
+        if " " in wl:
+            words.append(w)
+            continue
+        if wl in _STOP or len(wl) < 3:
+            continue
+        words.append(w)
+    return words
+
+
+def _expand_query_tokens(query: str) -> list[str]:
+    """Add alias expansions (GSTPC → church slug/title) without disk walk."""
+    tokens = [w for w in re.split(r"\s+", (query or "").strip()) if len(w) >= 2]
+    q_l = (query or "").lower()
+    q_raw = query or ""
+    try:
+        alias_path = Path(__file__).resolve().parent / "ee_card_aliases.json"
+        aliases = json.loads(alias_path.read_text(encoding="utf-8"))
+        slugs = aliases.get("slug_aliases") or {}
+        key = q_l.strip()
+        if key in slugs:
+            slug = slugs[key]
+            tokens.append(slug.replace("-", " "))
+            tokens.extend(slug.split("-"))
+        for k, slug in slugs.items():
+            if k and (k in q_l or k in q_raw):
+                tokens.append(slug.replace("-", " "))
+    except Exception:
+        pass
+    try:
+        for k, slug in registry_slug_aliases().items():
+            if not k or len(k) < 3:
+                continue
+            if k in q_l or k in q_raw:
+                tokens.append(slug.replace("-", " "))
+                tokens.extend([p for p in slug.split("-") if len(p) >= 3])
+    except Exception:
+        pass
+    seen = set()
+    out = []
+    for t in tokens:
+        tl = t.lower()
+        if tl not in seen:
+            seen.add(tl)
+            out.append(t)
+    return out
+
+
 def _keyword_search(query, top_k=10):
-    """Existing keyword search logic from knowledge_qa.py."""
-    query_lower = query.lower()
-    query_words = set(query_lower.split())
-
-    results = []
-
-    # Tier 1: content/
-    for md_file in CONTENT_DIR.rglob("*.md"):
-        rel = md_file.relative_to(CONTENT_DIR)
-        if rel.name.startswith(".") or "index" in str(rel):
-            continue
-        content = md_file.read_text()
-        fm = extract_frontmatter(content)
-        body = extract_body(content)
-        page_type = fm.get("type", "")
-        if page_type not in ("person", "organization"):
-            continue
-        title = fm.get("title", md_file.stem)
+    """Title/path/place keyword search over the SQLite index (no rglob)."""
+    words = _keyword_tokens(query)
+    if not words:
+        return []
+    conn = get_db()
+    c = conn.cursor()
+    clauses, params = [], []
+    for w in words[:12]:
+        clauses.append("(lower(title) LIKE ? OR lower(path) LIKE ? OR lower(ifnull(tags,'')) LIKE ?)")
+        pat = f"%{w.lower()}%"
+        params.extend([pat, pat, pat])
+    sql = (
+        "SELECT path, tier, title, page_type FROM vault_embeddings WHERE "
+        + " OR ".join(clauses)
+    )
+    try:
+        rows = c.execute(sql, params).fetchall()
+    except Exception:
+        return []
+    by_path = {}
+    q_l = (query or "").lower()
+    for row in rows:
+        path = row["path"] or ""
+        title = row["title"] or ""
+        ptype = row["page_type"] or ""
+        title_l = title.lower()
+        path_l = path.lower().replace("-", " ")
         score = 0
-        for word in query_words:
-            if word in title.lower():
-                score += 10
-            if word in body.lower():
-                score += 1
-        wikilinks = extract_wikilinks(body)
-        for link in wikilinks:
-            for word in query_words:
-                if word in link.lower():
-                    score += 3
+        for w in words:
+            wl = w.lower()
+            if " " in wl:
+                if wl in title_l or wl in path_l:
+                    score += 22
+                continue
+            if wl == title_l or title_l.startswith(wl + " "):
+                score += 12
+            elif re.search(rf"\b{re.escape(wl)}\b", title_l):
+                score += 8
+            elif wl in title_l:
+                score += 2
+            if re.search(rf"\b{re.escape(wl)}\b", path_l):
+                score += 4
+        if ptype in ("person", "organization") or path.startswith(
+            ("people/", "organizations/")
+        ):
+            score += 8
+        if path.startswith(("knowledge/", "works/", "articles/", "sources/", "events/")):
+            score -= 6
+        if q_l and q_l in title_l:
+            score += 10
         if score > 0:
-            results.append({
-                "title": title, "path": str(rel), "type": f"wiki/{page_type}",
-                "tier": 1, "score": score,
-                "verification": fm.get("verification_status", "unknown"),
-                "source": "public_wiki",
-            })
-
-    # Tier 2: knowledge/
-    for md_file in KNOWLEDGE_DIR.rglob("*.md"):
-        rel = md_file.relative_to(ECHOPEDIA_DIR)
-        if rel.name.startswith("."):
-            continue
-        content = md_file.read_text()
-        fm = extract_frontmatter(content)
-        body = extract_body(content)
-        title = fm.get("title", md_file.stem)
-        category = fm.get("category", "knowledge")
-        score = 0
-        for word in query_words:
-            if word in title.lower():
-                score += 10
-            if word in body.lower():
-                score += 1
-        if score > 0:
-            results.append({
-                "title": title, "path": str(rel), "type": f"knowledge/{category}",
-                "tier": 2, "score": score,
-                "verification": fm.get("verification_status", "raw"),
-                "source": category,
-            })
-
+            by_path[path] = {
+                "path": path,
+                "tier": row["tier"],
+                "title": title,
+                "type": ptype,
+                "score": score,
+                "source": "keyword",
+            }
+    try:
+        for place, paths in _place_cache().items():
+            if place not in q_l:
+                continue
+            for path in paths:
+                rec = by_path.get(path)
+                if rec:
+                    rec["score"] += 18
+                    continue
+                by_path[path] = {
+                    "path": path,
+                    "tier": 1,
+                    "title": Path(path).stem.replace("-", " "),
+                    "type": "organization",
+                    "score": 18,
+                    "source": "place",
+                }
+    except Exception:
+        pass
+    results = list(by_path.values())
     results.sort(key=lambda r: r["score"], reverse=True)
     return results[:top_k]
 
@@ -821,11 +1038,11 @@ def main():
         print("  [info] No index found, building...")
         index_vault()
 
-    # Hybrid search
+    # Hybrid search (SQL keyword + cached vectors). LLM rerank is opt-in —
+    # default path must stay <1s so the 2nd brain can run on every turn.
     results = hybrid_search(query, top_k=10)
-
-    # LLM rerank
-    results = llm_rerank(query, results, top_k=10)
+    if "--rerank" in args:
+        results = llm_rerank(query, results, top_k=10)
 
     # Format output
     print(f"## Vault Search: \"{query}\"")

@@ -73,6 +73,39 @@ def load_identity_pending() -> list[dict]:
     return out
 
 
+def load_learnings_pending(limit: int = 3) -> list[dict]:
+    """Parse the Learnings Ledger and return [HELD] corrections as NEED YOU items.
+
+    The ledger (knowledge/operational/intelligence/learnings.md) records
+    corrections by layer. Only items not yet applied live under the [HELD]
+    section — those are owner judgment, same shape as unfinished threads.
+    """
+    if not INTEL.exists():
+        return []
+    try:
+        text = (INTEL / "learnings.md").read_text(encoding="utf-8")
+    except OSError:
+        return []
+    held: list[dict] = []
+    in_held = False
+    for line in text.splitlines():
+        stripped = line.strip()
+        if stripped.startswith("## [HELD]"):
+            in_held = True
+            continue
+        if stripped.startswith("## [") and in_held:
+            break
+        if in_held and stripped.startswith("- ") and stripped != "- (none)":
+            held.append({"raw": stripped[2:].strip()})
+    out: list[dict] = []
+    for h in held[:limit]:
+        # Split on the first "·" separator (date · source) for the title.
+        body = h["raw"]
+        title = body.split("·", 1)[1].strip() if "·" in body else body
+        out.append({"title": title[:120], "raw": body})
+    return out
+
+
 def load_unfinished() -> dict:
     path = INTEL / "unfinished-threads.json"
     if not path.exists():
@@ -145,6 +178,21 @@ def build(max_items: int = 5) -> dict:
                 }
             )
 
+    for h in load_learnings_pending(3):
+        if len(items) >= max_items:
+            break
+        items.append(
+            {
+                "id": f"learn_{len(items)}",
+                "priority": 4,
+                "kind": "learnings",
+                "title": f"Correction: {h['title']}",
+                "action": "Review + route to its layer (see learnings.md)",
+                "source": "learnings-ledger",
+                "ts": None,
+            }
+        )
+
     return {
         "generated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "max": max_items,
@@ -162,7 +210,10 @@ def render_md(data: dict) -> str:
         lines.append("")
         return "\n".join(lines)
     for i, it in enumerate(data["items"], 1):
-        lines.append(f"{i}. **{it['title']}**")
+        label = it["title"]
+        if it.get("kind") == "learnings" and "Correction:" in it["title"]:
+            label = "Correction from ledger"
+        lines.append(f"{i}. **{label}**")
         lines.append(f"   → {it['action']}")
         if it.get("source"):
             lines.append(f"   _{it['source']}_")

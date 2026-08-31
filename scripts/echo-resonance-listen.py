@@ -2,9 +2,11 @@
 """Gold 朗讀 from 萌典 official clips + coverage report.
 
 Teacher = moedict.tw (教育部 via g0v), never HeartMuLa / Whisper / TTS.
+Spoken picker (白/替, not 文) lives in moedict-ssot.py — keep this file a fetcher.
 """
 from __future__ import annotations
 
+import importlib.util
 import json
 import re
 import subprocess
@@ -13,9 +15,15 @@ import urllib.parse
 import urllib.request
 from pathlib import Path
 
-UA = "Echopedia-listen/1.0 (TAHS; +https://echocanhelp.github.io/wiki-public/)"
+UA = "Echopedia-listen/1.1 (TAHS; +https://echocanhelp.github.io/wiki-public/)"
 ASSET = "https://r2-assets.moedict.tw/audio/{lang}/{aid}.mp3"
 API = "https://www.moedict.tw/{lang}/{word}.json"
+
+_SSOT = Path(__file__).with_name("moedict-ssot.py")
+_spec = importlib.util.spec_from_file_location("moedict_ssot", _SSOT)
+_ssot = importlib.util.module_from_spec(_spec)
+assert _spec and _spec.loader
+_spec.loader.exec_module(_ssot)
 
 
 def fetch_json(url: str) -> dict | None:
@@ -66,9 +74,6 @@ def audio_ids(entry: dict) -> list[str]:
 
 
 def lookup(word: str, lang: str) -> dict:
-    q = urllib.parse.quote(word)
-    url = API.format(lang=lang, word=q)
-    d = fetch_json(url)
     rec = {
         "word": word,
         "lang": lang,
@@ -77,7 +82,18 @@ def lookup(word: str, lang: str) -> dict:
         "audio_id": None,
         "audio_path": None,
         "hold": False,
+        "spoken": None,
     }
+    if lang == "t":
+        got = _ssot.lookup_word(word)
+        rec["reading"] = got.get("tailo")
+        rec["audio_id"] = got.get("audio_id")
+        rec["spoken"] = got.get("spoken")
+        rec["note"] = got.get("note")
+        # still fetch entry so audio_ids() can try padded / sibling ids
+        rec["_entry"] = fetch_json(API.format(lang=lang, word=urllib.parse.quote(word)))
+        return rec
+    d = fetch_json(API.format(lang=lang, word=urllib.parse.quote(word)))
     if not d:
         return rec
     hs = d.get("h") or []
@@ -106,20 +122,35 @@ def main() -> int:
     rows = []
     clips = []
     for w in words:
-        rec = {"word": w, "lang": args.lang, "ok": False, "reading": None, "audio_id": None, "hold": w in holds}
+        rec = {
+            "word": w,
+            "lang": args.lang,
+            "ok": False,
+            "reading": None,
+            "audio_id": None,
+            "hold": w in holds,
+            "spoken": None,
+        }
         if w in holds:
             rec["note"] = "name/HOLD — person or TAH is authority, not 萌典"
             rows.append(rec)
             continue
         got = lookup(w, args.lang)
         rec["reading"] = got.get("reading")
+        rec["spoken"] = got.get("spoken")
         entry = got.get("_entry")
         if not entry:
-            rec["note"] = "no moedict entry"
+            rec["note"] = got.get("note") or "no moedict entry"
             rows.append(rec)
             continue
         ok = False
-        for aid in audio_ids(entry):
+        preferred = []
+        if got.get("audio_id"):
+            aid0 = str(got["audio_id"])
+            preferred.append(aid0)
+            if aid0.isdigit() and len(aid0) < 5:
+                preferred.append(aid0.zfill(5))
+        for aid in preferred + [a for a in audio_ids(entry) if a not in preferred]:
             dest = work / f"{args.lang}-{aid}-{re.sub(r'[^0-9A-Za-z一-龥]+', '', w) or 'x'}.mp3"
             url = ASSET.format(lang=args.lang, aid=aid)
             if fetch_mp3(url, dest):
@@ -152,6 +183,7 @@ def main() -> int:
     report = {
         "slug": args.slug,
         "authority": "moedict.tw (教育部 via g0v 萌典 official clips)",
+        "picker": "白>替>audio>unlabeled>文",
         "lang": "taigi" if args.lang == "t" else "zh-TW",
         "coverage_pct": round(coverage, 1),
         "n_words": len(words),

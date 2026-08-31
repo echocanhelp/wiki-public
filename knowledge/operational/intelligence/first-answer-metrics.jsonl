@@ -645,3 +645,9 @@
 {"ts": "2026-08-29T05:29:28Z", "status": "miss", "query": "hybrid routing", "slug": null, "source": "brain", "kind": null}
 {"ts": "2026-08-29T05:40:33Z", "status": "hit", "query": "hybrid routing, I used up all my grok credits today and I think it needs reprogramming", "slug": "taiwanese-student-association-all-university", "source": "brain", "kind": "organization"}
 {"ts": "2026-08-29T07:36:55Z", "status": "hit", "query": "the correct prompt to use the universal script and what about transitions from worker model to media model", "slug": "universal-door-foundation", "source": "brain", "kind": "organization"}
+{"ts": "2026-08-30T22:16:18Z", "status": "hit", "query": "[Hsuperman] Review echopedia for improvements and efficiencies", "slug": "albert-chapter1-zh-review-v2", "source": "brain", "kind": "person"}
+{"ts": "2026-08-30T23:15:26Z", "status": "miss", "query": "[Hsuperman] What is the next ingest recommendation", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-31T01:28:18Z", "status": "miss", "query": "Which areas were more concerning, compare those answers with our echopedia first look answers, how would they compare", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-08-31T01:29:07Z", "status": "hit", "query": "How do different sources describe the June 1989 Beijing events", "slug": "june-lin", "source": "cli", "kind": "person"}
+{"ts": "2026-08-31T01:33:24Z", "status": "hit", "query": "TAH Foundation", "slug": "tah-foundation", "source": "cli", "kind": "organization"}
+{"ts": "2026-08-31T02:00:47Z", "status": "hit", "query": "to confirm, i'm not trying to improve the benchmark, i'm trying to improve the echopedia system and serving the community.  does this change your analysis", "slug": "taiwan-hakka-language-system", "source": "brain", "kind": "organization"}

@@ -6,6 +6,7 @@ echopedia/logs/
 
 # Runtime / private Tier 2 captures (not for Pages)
 knowledge/interactions/
+knowledge/oral-stories/
 knowledge/web-archives/
 knowledge/research/*/units.jsonl
 knowledge/research/*/posts-index.json

@@ -1,4 +1,4 @@
-TAHS · Echopedia morning brief — 2026-08-29
+TAHS · Echopedia morning brief — 2026-08-30
 No owner judgment needed — overnight loop ran clean.
 
 🔴 NEED YOU (your judgment only)
@@ -9,7 +9,10 @@ No owner judgment needed — overnight loop ran clean.
 🟡 QUEUE Charles Yang: soft pending aged out: capture_line_user_id_on_first_sender_message
 
 🟡 SOURCE CONTINUITY (live sites)
-🟡 QUEUE presbyterian-church-in-taiwan: +0 new / 2 changed (see disk)
+✅ AUTO  taiwancenter-org: +0 new / 1 changed; applied 4
+✅ AUTO  good-shepherd-taiwanese-presbyterian-church: +1 new / 1 changed; applied 4
+✅ AUTO  presbyterian-church-in-taiwan: +2 new / 2 changed; applied 6
+✅ AUTO  penghu-info: +0 new / 5 changed; applied 7
 
 🟡 NEXT INGEST (≤2, advisory — not started)
 🟡 QUEUE ntumcaa-na.org — external host on 3 Tier1 pages; not watched
@@ -21,7 +24,7 @@ No owner judgment needed — overnight loop ran clean.
 🟡 QUEUE 11 pages WIP/incomplete
 
 🟡 QUEUE / link suggestions (disk)
-ℹ️  INFO  top tips below · full pairs on disk (~7127 scored)
+ℹ️  INFO  top tips below · full pairs on disk (~7129 scored)
 
 🟡 QUEUE / optional link tips (≤5, not NEED YOU)
 🟡 QUEUE 1. Link tip: organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/american-citizens-for-taiwan.md
@@ -31,7 +34,7 @@ No owner judgment needed — overnight loop ran clean.
 🟡 QUEUE 5. Link tip: organizations/alumni-association-of-chia-yi-high-school-worldwide.md ↔ organizations/formosa-senior-association.md
 
 ℹ️ SITE (wiki visits; operator self-traffic excluded)
-ℹ️  INFO  wiki 3 visits since cutoff · yday 2026-08-28 = 0 · / 2, /people/albert-chapter1-zh-hsiaochen-full-review 1
+ℹ️  INFO  wiki 3 visits since cutoff · yday 2026-08-29 = 0 · / 2, /people/albert-chapter1-zh-hsiaochen-full-review 1
 
 ✅ AUTO (overnight — evidence)
 ✅ AUTO analyzer scanned 2853 queued 0 suppressed 1766

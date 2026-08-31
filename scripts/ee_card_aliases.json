@@ -1,0 +1,25 @@
+{
+  "slug_aliases": {
+    "gstpc": "good-shepherd-taiwanese-presbyterian-church",
+    "好牧者": "good-shepherd-taiwanese-presbyterian-church",
+    "好牧者台灣基督長老教會": "good-shepherd-taiwanese-presbyterian-church",
+    "好牧者臺灣基督長老教會": "good-shepherd-taiwanese-presbyterian-church",
+    "tahs": "taiwanese-american-historical-society",
+    "台美人歷史協會": "taiwanese-american-historical-society",
+    "taiwanese american historical society": "taiwanese-american-historical-society",
+    "church in monterey park": "good-shepherd-taiwanese-presbyterian-church",
+    "monterey park church": "good-shepherd-taiwanese-presbyterian-church",
+    "monterey park 教會": "good-shepherd-taiwanese-presbyterian-church"
+  },
+  "disambiguations": {
+    "牧谷": {
+      "title": "牧谷長老教會 (Shepherd of the Valley)",
+      "kind": "org",
+      "slug": "",
+      "url": "https://echocanhelp.github.io/wiki-public/organizations/national-taiwanese-presbyterian-council",
+      "hanzi": "牧谷長老教會",
+      "one_liner": "Hacienda Heights（牧谷 / Shepherds of the Valley）。不是 Monterey Park 的 GSTPC 好牧者。NTPC 2024 年會在這裡。Echopedia 還沒有獨立牧谷頁。",
+      "also": ["牧谷長老教會", "shepherd of the valley", "shepherds of the valley", "牧谷基督長老教會"]
+    }
+  }
+}

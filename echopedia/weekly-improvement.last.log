@@ -17,3 +17,11 @@ See "git help gc" for manual housekeeping.
  create mode 100644 public/tags/taiwancenter-org.html
  create mode 100644 tags/taiwancenter-org.html
 CI: committed heal
+[gh-pages 358f46b6bc] ci-heal: L3 green publish (2026-08-30)
+ 1041 files changed, 1086 insertions(+), 1075 deletions(-)
+To https://github.com/echocanhelp/wiki-public.git
+   9332ce4c30..358f46b6bc  gh-pages -> gh-pages
+CI: L3 pushed 358f46b6bc
+CI: post-push CDN verify CDN_LAG
+CI_SUMMARY: green=1 ops=WARN drift=OK smoke=OK
+CI_STATUS: GREEN
