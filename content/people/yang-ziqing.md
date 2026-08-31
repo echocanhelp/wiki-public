@@ -10870,7 +10870,7 @@ Notable quotes and mentions of **楊子清** in Taiwan Justice articles:
 
 ### Unknown (1 quotes)
 
-1. "g|Fan Chiang Tsiang (范姜提昂)]] — 66 articles - [[people/yang-ziqing||Yang Zi-qing (楊子清)]] — 65 articles - [[people/huang-diyin||Huang Di-ying (黃帝穎)]] — 57 articles - ["
+1. "|Fan Chiang Tsiang (范姜提昂)]] — 66 articles - [[people/yang-ziqing||Yang Zi-qing (楊子清)]] — 65 articles - [[people/huang-diyin||Huang Di-ying (黃帝穎)]] — 57 articles -"
    — "taiwanjustice.net Article Archive" (unknown)
 
 ### 2024 (26 quotes)

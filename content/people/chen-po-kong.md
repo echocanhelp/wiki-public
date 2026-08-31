@@ -11485,7 +11485,7 @@ Notable quotes and mentions of **陳破空** in Taiwan Justice articles:
 
 ### Unknown (1 quotes)
 
-1. "ts | ## Key Entities ### Column Authors - [[people/chen-po-kong||Chen Po-kong (陳破空)]] — 463 articles - [[people/chen-maoxiong||Chen Mao-xiong (陳茂雄)]] — 475 article"
+1. "s | ## Key Entities ### Column Authors - [[people/chen-po-kong||Chen Po-kong (陳破空)]] — 463 articles - [[people/chen-maoxiong||Chen Mao-xiong (陳茂雄)]] — 475 articl"
    — "taiwanjustice.net Article Archive" (unknown)
 
 ### 2025 (6 quotes)

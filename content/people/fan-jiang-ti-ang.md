@@ -11158,7 +11158,7 @@ Notable quotes and mentions of **范姜提昂** in Taiwan Justice articles:
 
 ### Unknown (1 quotes)
 
-1. "ie|Yu Chieh (余杰)]] — 99 articles - [[people/fan-jiang-ti-ang||Fan Chiang Tsiang (范姜提昂)]] — 66 articles - [[people/yang-ziqing||Yang Zi-qing (楊子清)]] — 65 articles - [["
+1. "||Yu Chieh (余杰)]] — 99 articles - [[people/fan-jiang-ti-ang||Fan Chiang Tsiang (范姜提昂)]] — 66 articles - [[people/yang-ziqing||Yang Zi-qing (楊子清)]] — 65 articles - ["
    — "taiwanjustice.net Article Archive" (unknown)
 
 ### 2025 (2 quotes)

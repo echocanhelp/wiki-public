@@ -11139,7 +11139,7 @@ Notable quotes and mentions of **何清漣** in Taiwan Justice articles:
 
 ### Unknown (1 quotes)
 
-1. "g-diyin|Huang Di-ying (黃帝穎)]] — 57 articles - [[people/he-qingxuan||He Qinglian (何清漣)]] — 50 articles - [[people/liao-qingshan||Liao Qing-shan (廖清山)]] — 37 articles"
+1. "diyin||Huang Di-ying (黃帝穎)]] — 57 articles - [[people/he-qingxuan||He Qinglian (何清漣)]] — 50 articles - [[people/liao-qingshan||Liao Qing-shan (廖清山)]] — 37 articles"
    — "taiwanjustice.net Article Archive" (unknown)
 
 ### 2025 (6 quotes)

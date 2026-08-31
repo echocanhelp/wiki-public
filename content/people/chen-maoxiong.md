@@ -11518,7 +11518,7 @@ Notable quotes and mentions of **陳茂雄** in Taiwan Justice articles:
 
 ### Unknown (1 quotes)
 
-1. "ng|Chen Po-kong (陳破空)]] — 463 articles - [[people/chen-maoxiong||Chen Mao-xiong (陳茂雄)]] — 475 articles - [[people/chen-zhaonan||Chen Chao-nan (陳昭南)]] — 398 articles"
+1. "||Chen Po-kong (陳破空)]] — 463 articles - [[people/chen-maoxiong||Chen Mao-xiong (陳茂雄)]] — 475 articles - [[people/chen-zhaonan||Chen Chao-nan (陳昭南)]] — 398 articles"
    — "taiwanjustice.net Article Archive" (unknown)
 
 ### 2025 (74 quotes)

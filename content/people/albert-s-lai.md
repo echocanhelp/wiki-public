@@ -322,87 +322,87 @@ Notable quotes and mentions of **賴信雄** in Taiwan Justice articles:
 
 ### Unknown (1 quotes)
 
-1. "acks done/skipped/fail per file. ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
+1. "cks done/skipped/fail per file. ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — PILOT_NOTES (unknown)
 
 ### 2022 (16 quotes)
 
-1. "恐讓川普再次競選情勢變得更加困難。（譯者：紀錦玲/核稿：劉文瑜） ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
+1. "讓川普再次競選情勢變得更加困難。（譯者：紀錦玲/核稿：劉文瑜） ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 曼哈頓地區檢察官請辭，川普刑事調查案再掀波瀾 (2022-02-23)
-2. "10225 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
+2. "0225 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 美媒：華府估基輔4天內淪陷，烏克蘭領導層約一週垮台 (2022-02-24)
-3. "規武器及相關用品、技術的出口為主。（編輯：潘羿菁）1110225 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
+3. "武器及相關用品、技術的出口為主。（編輯：潘羿菁）1110225 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 總統府：譴責俄羅斯軍事行動，台灣參與對俄經濟制裁 (2022-02-24)
-4. "區紀念特展，由江榮森親自導覽解說。（編輯：戴光育）1110225 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
+4. "紀念特展，由江榮森親自導覽解說。（編輯：戴光育）1110225 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 嘉市228追思 受難家屬籲拆中正紀念堂蔣介石銅像 (2022-02-25)
-5. "10226 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
+5. "0226 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 連2天同台出席 外界解讀盧秀燕蔡其昌互相較勁 (2022-02-26)
-6. "10227 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
+6. "0227 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 賴清德：卑躬屈膝無法停止侵略，全民一心守護國家 (2022-02-27)
-7. "，當他讓裝甲車碾壓烏克蘭土地的時候，他自己使這一切變得毫無可能。 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
+7. "當他讓裝甲車碾壓烏克蘭土地的時候，他自己使這一切變得毫無可能。 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 淪為如金正恩一樣的“國際棄兒”，普丁何以發起准自殺行動 (2022-03-01)
-8. "中央社製圖） 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
+8. "央社製圖） 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 俄羅斯4架戰機進入瑞典領空 (2022-03-02)
-9. "社論，呼籲蒲亭「請停止這場戰爭」。（編輯：高照芬）1110303 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
+9. "論，呼籲蒲亭「請停止這場戰爭」。（編輯：高照芬）1110303 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 好萊塢體壇商界聲援烏克蘭，全球名流紛紛表態反戰 (2022-03-03)
-10. "10304 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
+10. "0304 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 加入制裁行列，英特爾、Airbnb及IKEA暫停在俄國及白俄業務 (2022-03-04)
 
 ### 2021 (18 quotes)
 
-1. "00121 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
+1. "0121 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 拜登就職上演慶祝行情，美股再創新高 (2021-01-20)
-2. "00130 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
+2. "0130 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 拜登政府檢視前朝國安措施，美中貿易協議也算 (2021-01-29)
-3. "衝突，「我不認為這會是曇花一現」。（譯者：陳亦偉）1100130 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
+3. "突，「我不認為這會是曇花一現」。（譯者：陳亦偉）1100130 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 看懂美國GameStop股價逆襲事件，散戶起義打垮對沖基金 (2021-01-30)
-4. "姬則將被禁止參選。」（譯者：張正芊/核稿：陳政一）1100201 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
+4. "則將被禁止參選。」（譯者：張正芊/核稿：陳政一）1100201 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 緬甸軍隊總司令敏昂萊發動政變 暴露政治野心 (2021-02-01)
-5. "00203 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
+5. "0203 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 同性戀入閣第一人，美國參院確認布塔朱吉（Pete Buttigieg）掌運輸部 (2021-02-03)
-6. "見效甚微。 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
+6. "效甚微。 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 加州已有近140萬人簽名罷免州長紐森 (2021-02-05)
-7. "有1260萬人已經接種第一劑疫苗。（編輯：黃自強）1100210 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
+7. "1260萬人已經接種第一劑疫苗。（編輯：黃自強）1100210 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 英國防疫祭重典，入境隱瞞旅遊史可重判10年 (2021-02-09)
-8. "政府美國和中國近期內將仍然維持在全球貿易和技術方面的競爭地位。” ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
+8. "府美國和中國近期內將仍然維持在全球貿易和技術方面的競爭地位。” ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 路透調查：美國復甦步入正軌，就業增長尚需時日 (2021-02-14)
-9. "機率偏高，可望為台股提供資金活水。（編輯：張良知）1100216 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
+9. "率偏高，可望為台股提供資金活水。（編輯：張良知）1100216 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 台股新春開紅盤 近15年呈現逐步走高格局 (2021-02-15)
-10. "00220 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
+10. "0220 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 白宮證實 美致函台灣盼解決汽車晶片問題，感謝台灣出力協助解決 (2021-02-19)
 
 ### 2020 (62 quotes)
 
-1. "事情是，在《港澳條例》裡面，維持政府在剛剛所提到的這種模糊認定。 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
+1. "情是，在《港澳條例》裡面，維持政府在剛剛所提到的這種模糊認定。 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 林靜儀專訪:在中共不放棄武力犯台下，主張統一是對主權的威脅，也會對國家安全造成危害 (2020-01-02)
-2. "90108 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
+2. "0108 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 釐清狙殺伊朗將領決策，眾院外委會邀蓬佩奧作證 (2020-01-07)
-3. "國民黨總統候選人韓國瑜，成功連任。（編輯：劉學源）1090112 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
+3. "民黨總統候選人韓國瑜，成功連任。（編輯：劉學源）1090112 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 蔡英文高票連任， 法國英國議會友台小組祝賀 (2020-01-11)
-4. "興訟敗訴，法官：黨產會處分合法 January 16, 2020 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
+4. "訟敗訴，法官：黨產會處分合法 January 16, 2020 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 'Tag: 黨產會處分合法' (2020-01-16)
-5. "作出貢獻。 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
+5. "出貢獻。 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 徐斯儉會晤美國退伍軍人部長，討論台美深化合作 (2020-01-20)
-6. "09年加強重要節日安全維護工作」。（編輯：洪學廣）1090120 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
+6. "9年加強重要節日安全維護工作」。（編輯：洪學廣）1090120 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 陳柏惟：挺罷免票讓韓國瑜自由，願助高市府募款 (2020-01-20)
-7. "90123 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
+7. "0123 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 武漢肺炎疫情擴散，法國議員籲WHO讓台灣參與 (2020-01-22)
-8. "利的資格。 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
+8. "的資格。 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 最高法院允許川普政府執行嚴格的綠卡審議政策 (2020-01-27)
-9. "檢疫隔離。 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
+9. "疫隔離。 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 美接回鑽石公主號公民，14人對武漢肺炎呈陽性反應 (2020-02-17)
-10. "宣揚中國極權主義的價值觀，幫助中國政府影響各國政治。 記者：韓潔 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
+10. "揚中國極權主義的價值觀，幫助中國政府影響各國政治。 記者：韓潔 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 做了壞事又要立牌坊! 澳洲中資搜刮醫療物資運回國再搞捐贈， 北京大外宣演很大 (2020-04-02)
 
 ### 2019 (4 quotes)
 
-1. "許任何有特定立場的團體造謠帶風向。（編輯：張良知）1081223 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
+1. "任何有特定立場的團體造謠帶風向。（編輯：張良知）1081223 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 陳菊：與慶富弊案無任何關係，各界勿再錯誤連結 (2019-12-23)
-2. "81226 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
+2. "1226 本報24/7隨時更新 歡迎定閱newsletter ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 陸委會：紅色滲透媒體須另檢討，反滲透法不涉及 (2019-12-26)
-3. "訪者受不了舊金山的交通和停車問題。（編輯：陳惠珍）1081227 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
+3. "者受不了舊金山的交通和停車問題。（編輯：陳惠珍）1081227 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 便便危機蒙羞，舊金山市苦於屎都形象 (2019-12-27)
-4. "全美國每4個遊民就有一人住在加州。（編輯：陳惠珍）1081228 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
+4. "美國每4個遊民就有一人住在加州。（編輯：陳惠珍）1081228 ## Related Pages - [[people/albert-s-lai||Dr. Albert S. Lai]]"
    — 露營車成舊金山流動屋，州長為遊民槓上川普 (2019-12-28)
 
 *...and 91 more quotes*

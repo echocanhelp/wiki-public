@@ -11506,7 +11506,7 @@ Notable quotes and mentions of **陳昭南** in Taiwan Justice articles:
 
 ### Unknown (1 quotes)
 
-1. "ng|Chen Mao-xiong (陳茂雄)]] — 475 articles - [[people/chen-zhaonan||Chen Chao-nan (陳昭南)]] — 398 articles - [[people/lin-baohua||Lin Bao-hua (林保華)]] — 241 articles - [["
+1. "||Chen Mao-xiong (陳茂雄)]] — 475 articles - [[people/chen-zhaonan||Chen Chao-nan (陳昭南)]] — 398 articles - [[people/lin-baohua||Lin Bao-hua (林保華)]] — 241 articles - ["
    — "taiwanjustice.net Article Archive" (unknown)
 
 ### 2025 (4 quotes)

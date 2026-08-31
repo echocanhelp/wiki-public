@@ -295,7 +295,7 @@ Notable quotes and mentions of **余杰** in Taiwan Justice articles:
 
 ### Unknown (1 quotes)
 
-1. "eople/lin-baohua|Lin Bao-hua (林保華)]] — 241 articles - [[people/yu-jie||Yu Chieh (余杰)]] — 99 articles - [[people/fan-jiang-ti-ang||Fan Chiang Tsiang (范姜提昂)]] — 66 ar"
+1. "ple/lin-baohua||Lin Bao-hua (林保華)]] — 241 articles - [[people/yu-jie||Yu Chieh (余杰)]] — 99 articles - [[people/fan-jiang-ti-ang||Fan Chiang Tsiang (范姜提昂)]] — 66 a"
    — "taiwanjustice.net Article Archive" (unknown)
 
 ### 2024 (4 quotes)
