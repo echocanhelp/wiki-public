@@ -11,7 +11,7 @@ tags:
   - 228
 verification_status: pending
 featured: true
-last_reviewed: 2026-08-20
+last_reviewed: 2026-08-30
 ---
 # Huang Gen-shen (黃根深)
 
@@ -41,23 +41,23 @@ last_reviewed: 2026-08-20
 
 ## Works
 
-**黃根深** — **2** title hits, **3** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
+**黃根深** — **2** title hits, **3** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
 ### 2024 (1)
 
-1. [[articles/taiwanjustice-net/2024/20240719003614_root_36738f1d5cef98e1||Taiwanese are Taiwanese-Please sign the petition for Census US – 2020 ◎黃根深(Ken]]
+1. [[articles/taiwanjustice-net/2024/20240719003614_root_36738f1d5cef98e1|Taiwanese are Taiwanese-Please sign the petition for Census US – 2020 ◎黃根深(Ken]]
 
 ### 2017 (1)
 
-1. [[articles/taiwanjustice-net/2017/20171220125053_2017_11_29_全美台灣人權協會年會暨鄭南榕紀念獎_王康陸人_c4d413fd5efb8a9c||全美台灣人權協會年會暨鄭南榕紀念獎、王康陸人權獎頒獎典禮 12/09 聖地牙哥舉行(得獎人鄭文龍、王泰和、黃根深)]]
+1. [[articles/taiwanjustice-net/2017/20171220125053_2017_11_29_全美台灣人權協會年會暨鄭南榕紀念獎_王康陸人_c4d413fd5efb8a9c|全美台灣人權協會年會暨鄭南榕紀念獎、王康陸人權獎頒獎典禮 12/09 聖地牙哥舉行(得獎人鄭文龍、王泰和、黃根深)]]
 
 ### Body mentions (3)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3||旅美五十周年 ◎ 鄭炳全]]
-2. [[articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16||旅美五十周年 ◎ 鄭炳全]]
-3. [[articles/taiwanjustice-net/2024/20240520023218_root_89e6683c93156205||台美人台加人]]
+1. [[articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3|旅美五十周年 ◎ 鄭炳全]]
+2. [[articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16|旅美五十周年 ◎ 鄭炳全]]
+3. [[articles/taiwanjustice-net/2024/20240520023218_root_89e6683c93156205|台美人台加人]]
 
 
 ## Timeline
@@ -85,16 +85,16 @@ Pages that link to **黃根深** (huang-gen-shen):
 
 ### People (6)
 
-1. [[people/franklin-ping-cheng||franklin-ping-cheng]]
-2. [[people/liao-shu-zong||liao-shu-zong]]
-3. [[people/lin-fu-kun||lin-fu-kun]]
-4. [[people/wang-gui-rong||wang-gui-rong]]
-5. [[people/yang-jia-you||yang-jia-you]]
-6. [[people/yang-xin||yang-xin]]
+1. [[people/franklin-ping-cheng|franklin-ping-cheng]]
+2. [[people/liao-shu-zong|liao-shu-zong]]
+3. [[people/lin-fu-kun|lin-fu-kun]]
+4. [[people/wang-gui-rong|wang-gui-rong]]
+5. [[people/yang-jia-you|yang-jia-you]]
+6. [[people/yang-xin|yang-xin]]
 
 ### Organizations (1)
 
-1. [[organizations/taiwanese-american-historical-society||taiwanese-american-historical-society]]
+1. [[organizations/taiwanese-american-historical-society|taiwanese-american-historical-society]]
 
 ## Quotes
 

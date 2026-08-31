@@ -36,11 +36,11 @@ Pages that link to **wang-yao-ting** (wang-yao-ting):
 
 ### People (1)
 
-1. [[people/zheng-bing-quan||zheng-bing-quan]]
+1. [[people/zheng-bing-quan|zheng-bing-quan]]
 
 ### Organizations (1)
 
-1. [[organizations/taiwanese-american-historical-society||taiwanese-american-historical-society]]
+1. [[organizations/taiwanese-american-historical-society|taiwanese-american-historical-society]]
 
 ## Source Notes and Confidence
 

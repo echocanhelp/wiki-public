@@ -72,22 +72,22 @@ Pages that link to **pinghsi-liu** (pinghsi-liu):
 
 ### People (7)
 
-1. [[people/albert-s-lai||albert-s-lai]]
-2. [[people/albert-s-lai||albert-s-lai]]
-3. [[people/ching-fang-chen||ching-fang-chen]]
-4. [[people/en-sheng-pan||en-sheng-pan]]
-5. [[people/index||index]]
-6. [[organizations/national-taiwanese-presbyterian-council||ntpc]]
-7. [[people/pingtung-lai||pingtung-lai]]
+1. [[people/albert-s-lai|albert-s-lai]]
+2. [[people/albert-s-lai|albert-s-lai]]
+3. [[people/ching-fang-chen|ching-fang-chen]]
+4. [[people/en-sheng-pan|en-sheng-pan]]
+5. [[people/index|index]]
+6. [[people/ntpc|ntpc]]
+7. [[people/pingtung-lai|pingtung-lai]]
 
 ### Organizations (2)
 
-1. [[organizations/national-taiwanese-presbyterian-council||national-taiwanese-presbyterian-council]]
-2. [[organizations/national-taiwanese-presbyterian-council||national-taiwanese-presbyterian-council]]
+1. [[organizations/national-taiwanese-presbyterian-council|national-taiwanese-presbyterian-council]]
+2. [[organizations/national-taiwanese-presbyterian-council|national-taiwanese-presbyterian-council]]
 
 ### Sources (1)
 
-1. [[sources/toward-a-community-of-hope||toward-a-community-of-hope]]
+1. [[sources/toward-a-community-of-hope|toward-a-community-of-hope]]
 
 ## Source Notes and Confidence
 

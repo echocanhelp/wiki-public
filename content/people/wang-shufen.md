@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-20
+last_reviewed: 2026-08-30
 ---
 
 # Wang Shu-fen / 王淑芬
@@ -54,35 +54,35 @@ Top 10 articles from taiwanjustice.net mentioning wang-shufen:
 
 ## Works
 
-**王淑芬** — **9** title hits, **51** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
+**王淑芬** — **9** title hits, **51** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
 ### 2025 (3)
 
-1. [[articles/taiwanjustice-net/2025/20250512062256_回家_好難-_-王淑芬_1a4e0748a60a78a4||回家，好難 ◎ 王淑芬]]
-2. [[articles/taiwanjustice-net/2025/20250512060926_回台住自己家-_-王淑芬_ddffa8f6c7db0dbf||回台住自己家 ◎ 王淑芬]]
-3. [[articles/taiwanjustice-net/2025/20250321223125_留在華沙的那顆心-_王淑芬_8931879637326dab||留在華沙的那顆心 ◎王淑芬]]
+1. [[articles/taiwanjustice-net/2025/20250512062256_回家_好難-_-王淑芬_1a4e0748a60a78a4|回家，好難 ◎ 王淑芬]]
+2. [[articles/taiwanjustice-net/2025/20250512060926_回台住自己家-_-王淑芬_ddffa8f6c7db0dbf|回台住自己家 ◎ 王淑芬]]
+3. [[articles/taiwanjustice-net/2025/20250321223125_留在華沙的那顆心-_王淑芬_8931879637326dab|留在華沙的那顆心 ◎王淑芬]]
 
 ### 2023 (2)
 
-1. [[articles/taiwanjustice-net/2023/20231208125116_root_a34d5afb351ffdd6||留在華沙的那顆心 ◎王淑芬]]
-2. [[articles/taiwanjustice-net/2023/20230923040117_2023_09_11_come-from-away-重回gander-憶911-_王淑芬_f730265b2ec61427||Come from away…重回Gander 憶911 ◎王淑芬]]
+1. [[articles/taiwanjustice-net/2023/20231208125116_root_a34d5afb351ffdd6|留在華沙的那顆心 ◎王淑芬]]
+2. [[articles/taiwanjustice-net/2023/20230923040117_2023_09_11_come-from-away-重回gander-憶911-_王淑芬_f730265b2ec61427|Come from away…重回Gander 憶911 ◎王淑芬]]
 
 ### 2022 (4)
 
-1. [[articles/taiwanjustice-net/2022/20221127063405_2022_04_11_黃昏的故鄉-_-王淑芬_c9c0a1f75954a910||黃昏的故鄉 ◎ 王淑芬]]
-2. [[articles/taiwanjustice-net/2022/20220519125824_2022_03_09_回台住自己家-_-王淑芬_30d6d3a92e583272||回台住自己家 ◎ 王淑芬]]
-3. [[articles/taiwanjustice-net/2022/20220517053449_2021_12_26_台美人筆會會長交接_賴慧娜交棒王淑芬_70a8a32d4cc3ca7a||台美人筆會會長交接，賴慧娜交棒王淑芬]]
-4. [[articles/taiwanjustice-net/2022/20220127023112_2022_01_09_回家_好難-_-王淑芬_d26807f04426a0e8||回家，好難 ◎ 王淑芬]]
+1. [[articles/taiwanjustice-net/2022/20221127063405_2022_04_11_黃昏的故鄉-_-王淑芬_c9c0a1f75954a910|黃昏的故鄉 ◎ 王淑芬]]
+2. [[articles/taiwanjustice-net/2022/20220519125824_2022_03_09_回台住自己家-_-王淑芬_30d6d3a92e583272|回台住自己家 ◎ 王淑芬]]
+3. [[articles/taiwanjustice-net/2022/20220517053449_2021_12_26_台美人筆會會長交接_賴慧娜交棒王淑芬_70a8a32d4cc3ca7a|台美人筆會會長交接，賴慧娜交棒王淑芬]]
+4. [[articles/taiwanjustice-net/2022/20220127023112_2022_01_09_回家_好難-_-王淑芬_d26807f04426a0e8|回家，好難 ◎ 王淑芬]]
 
 ### Body mentions (51)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2023/20231201230251_root_3ab5b8dfba8018b5||藝文]]
-2. [[articles/taiwanjustice-net/2023/20231201225623_root_41b304eda05fa545||Covid-19 浩劫餘生錄]]
-3. [[articles/taiwanjustice-net/2025/20251108180838_榮獲廖述宗教授紀念獎_罷韓四君子_是肯定每個_d2e6e5b19ab4b452||榮獲廖述宗教授紀念獎，罷韓四君子：是肯定每個夥伴]]
-4. [[articles/taiwanjustice-net/2025/20250515102312_高雄市長補選15日登場-雙鐵出現返鄉人潮_21a5534ecfeaf505||高雄市長補選15日登場 雙鐵出現返鄉人潮]]
-5. [[articles/taiwanjustice-net/2020/20200623235826_2020_06_21_拚高市長補選-陳其邁_競總團隊22日公布_趙天麟_c3caed5fc249caa4||拚高市長補選，陳其邁競總團隊主委許立明出任，總幹事為立委趙天麟]]
+1. [[articles/taiwanjustice-net/2023/20231201230251_root_3ab5b8dfba8018b5|藝文]]
+2. [[articles/taiwanjustice-net/2023/20231201225623_root_41b304eda05fa545|Covid-19 浩劫餘生錄]]
+3. [[articles/taiwanjustice-net/2025/20251108180838_榮獲廖述宗教授紀念獎_罷韓四君子_是肯定每個_d2e6e5b19ab4b452|榮獲廖述宗教授紀念獎，罷韓四君子：是肯定每個夥伴]]
+4. [[articles/taiwanjustice-net/2025/20250515102312_高雄市長補選15日登場-雙鐵出現返鄉人潮_21a5534ecfeaf505|高雄市長補選15日登場 雙鐵出現返鄉人潮]]
+5. [[articles/taiwanjustice-net/2020/20200623235826_2020_06_21_拚高市長補選-陳其邁_競總團隊22日公布_趙天麟_c3caed5fc249caa4|拚高市長補選，陳其邁競總團隊主委許立明出任，總幹事為立委趙天麟]]
 
 
 ## Timeline

@@ -20,5 +20,5 @@ Pages that link to **alexander-macdonald** (alexander-macdonald):
 
 ### Organizations (2)
 
-1. [[organizations/good-shepherd-taiwanese-presbyterian-church||good-shepherd-taiwanese-presbyterian-church]]
-2. [[organizations/good-shepherd-taiwanese-presbyterian-church||good-shepherd-taiwanese-presbyterian-church]]
+1. [[organizations/good-shepherd-taiwanese-presbyterian-church|good-shepherd-taiwanese-presbyterian-church]]
+2. [[organizations/good-shepherd-taiwanese-presbyterian-church|good-shepherd-taiwanese-presbyterian-church]]

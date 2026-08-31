@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-20
+last_reviewed: 2026-08-30
 ---
 
 # Yeh Ssu-ya / 葉思雅
@@ -48,29 +48,29 @@ Top 8 articles from taiwanjustice.net mentioning ye-siya:
 
 ## Works
 
-**葉思雅** — **3** title hits, **5** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
+**葉思雅** — **3** title hits, **5** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
 ### 2023 (1)
 
-1. [[articles/taiwanjustice-net/2023/20230326063153_2016_10_04_大洛杉磯台灣會館十月音樂欣賞課月9日舉行-_葉思_a50c4cd295a0586b||大洛杉磯台灣會館十月音樂欣賞課月9日舉行 ◎葉思雅、張信惠 主持]]
+1. [[articles/taiwanjustice-net/2023/20230326063153_2016_10_04_大洛杉磯台灣會館十月音樂欣賞課月9日舉行-_葉思_a50c4cd295a0586b|大洛杉磯台灣會館十月音樂欣賞課月9日舉行 ◎葉思雅、張信惠 主持]]
 
 ### 2022 (1)
 
-1. [[articles/taiwanjustice-net/2022/20220127025846_2022_01_10_圓滿的100-慶賀葉思雅_張信惠_週末漫談音樂_專_a1be6b822ac7cdcd||圓滿的100- 慶賀葉思雅、張信惠「週末漫談音樂」專欄里程碑]]
+1. [[articles/taiwanjustice-net/2022/20220127025846_2022_01_10_圓滿的100-慶賀葉思雅_張信惠_週末漫談音樂_專_a1be6b822ac7cdcd|圓滿的100- 慶賀葉思雅、張信惠「週末漫談音樂」專欄里程碑]]
 
 ### 2021 (1)
 
-1. [[articles/taiwanjustice-net/2021/20211207113948_2021_10_15_台南許石音樂圖書館信雅古典音樂珍藏專區啟用_4e3b2180b83318fa||台南許石音樂圖書館信雅古典音樂珍藏專區啟用，黃偉哲感謝葉思雅賢伉儷捐贈多年音樂收藏]]
+1. [[articles/taiwanjustice-net/2021/20211207113948_2021_10_15_台南許石音樂圖書館信雅古典音樂珍藏專區啟用_4e3b2180b83318fa|台南許石音樂圖書館信雅古典音樂珍藏專區啟用，黃偉哲感謝葉思雅賢伉儷捐贈多年音樂收藏]]
 
 ### Body mentions (5)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2024/20240425083432_root_99aaa4abcb78ff6d||台美人台加人]]
-2. [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38||抗議 南加州台大校友會邀管中閔來年會做專題演講 ◎國立台灣大學校友 2018-07-19]]
-3. [[articles/taiwanjustice-net/2023/20230129123134_2016_06_06_大洛杉磯台灣會館台灣學校_古典音樂欣賞_-六月_a244776e9eb57979||大洛杉磯台灣會館台灣學校「古典音樂欣賞」 六月十二日介紹海頓 ◎ 洛杉磯台灣學校]]
-4. [[articles/taiwanjustice-net/2024/20240522054349_root_b4e27e98036e15d0||大洛杉磯台灣會館台灣學校「古典音樂欣賞」 六月十二日介紹海頓 ◎ 洛杉磯台灣學校]]
-5. [[articles/taiwanjustice-net/2023/20230205142855_2016_04_05_大洛杉磯台灣會館_古典音樂課_四月十日介紹韓_2a25cc1b37f01e00||大洛杉磯台灣會館「古典音樂課」四月十日介紹韓德爾]]
+1. [[articles/taiwanjustice-net/2024/20240425083432_root_99aaa4abcb78ff6d|台美人台加人]]
+2. [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|抗議 南加州台大校友會邀管中閔來年會做專題演講 ◎國立台灣大學校友 2018-07-19]]
+3. [[articles/taiwanjustice-net/2023/20230129123134_2016_06_06_大洛杉磯台灣會館台灣學校_古典音樂欣賞_-六月_a244776e9eb57979|大洛杉磯台灣會館台灣學校「古典音樂欣賞」 六月十二日介紹海頓 ◎ 洛杉磯台灣學校]]
+4. [[articles/taiwanjustice-net/2024/20240522054349_root_b4e27e98036e15d0|大洛杉磯台灣會館台灣學校「古典音樂欣賞」 六月十二日介紹海頓 ◎ 洛杉磯台灣學校]]
+5. [[articles/taiwanjustice-net/2023/20230205142855_2016_04_05_大洛杉磯台灣會館_古典音樂課_四月十日介紹韓_2a25cc1b37f01e00|大洛杉磯台灣會館「古典音樂課」四月十日介紹韓德爾]]
 
 
 ## Timeline

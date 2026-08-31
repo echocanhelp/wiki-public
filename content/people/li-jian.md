@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-20
+last_reviewed: 2026-08-30
 ---
 # Li Jian (李堅)
 
@@ -60,31 +60,31 @@ Top 10 articles from taiwanjustice.net mentioning li-jian:
 
 ## Works
 
-**李堅** — **8** title hits, **1154** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
+**李堅** — **8** title hits, **1154** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
 ### 2024 (7)
 
-1. [[articles/taiwanjustice-net/2024/20240527034609_root_1c081f3c860e64d9||李堅專欄]]
-2. [[articles/taiwanjustice-net/2024/20240527025931_root_9615f8126bfa90fb||貪腐的政治經濟文化學之五- 台灣人愛錢嗎？──後藤新平的詛咒？◎李堅 08-08-2015]]
-3. [[articles/taiwanjustice-net/2024/20240523001401_root_681a5c6a87af8ff4||審視宋楚瑜‧解剖宋楚瑜 ◎李堅 08-03-2015]]
-4. [[articles/taiwanjustice-net/2024/20240522235729_root_8b461083af7f6a86||李堅專欄]]
-5. [[articles/taiwanjustice-net/2024/20240522233919_root_1ae93a5c2d864e81||李堅專欄]]
-6. [[articles/taiwanjustice-net/2024/20240522233444_root_ac2b51fc9273bd19||李堅專欄]]
-7. [[articles/taiwanjustice-net/2024/20240522232231_root_18d9cfe0b2c655f0||李堅專欄]]
+1. [[articles/taiwanjustice-net/2024/20240527034609_root_1c081f3c860e64d9|李堅專欄]]
+2. [[articles/taiwanjustice-net/2024/20240527025931_root_9615f8126bfa90fb|貪腐的政治經濟文化學之五- 台灣人愛錢嗎？──後藤新平的詛咒？◎李堅 08-08-2015]]
+3. [[articles/taiwanjustice-net/2024/20240523001401_root_681a5c6a87af8ff4|審視宋楚瑜‧解剖宋楚瑜 ◎李堅 08-03-2015]]
+4. [[articles/taiwanjustice-net/2024/20240522235729_root_8b461083af7f6a86|李堅專欄]]
+5. [[articles/taiwanjustice-net/2024/20240522233919_root_1ae93a5c2d864e81|李堅專欄]]
+6. [[articles/taiwanjustice-net/2024/20240522233444_root_ac2b51fc9273bd19|李堅專欄]]
+7. [[articles/taiwanjustice-net/2024/20240522232231_root_18d9cfe0b2c655f0|李堅專欄]]
 
 ### 2023 (1)
 
-1. [[articles/taiwanjustice-net/2023/20231201233728_root_cdaf8454892b3148||李堅專欄]]
+1. [[articles/taiwanjustice-net/2023/20231201233728_root_cdaf8454892b3148|李堅專欄]]
 
 ### Body mentions (1154)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2024/20240520034013_root_6f2b431c9cb0cca9||台美人台加人]]
-2. [[articles/taiwanjustice-net/2024/20240421185358_root_09926246802abc6a||台美人台加人]]
-3. [[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea||台美人台加人]]
-4. [[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3||台美人台加人]]
-5. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596||台美人台加人]]
+1. [[articles/taiwanjustice-net/2024/20240520034013_root_6f2b431c9cb0cca9|台美人台加人]]
+2. [[articles/taiwanjustice-net/2024/20240421185358_root_09926246802abc6a|台美人台加人]]
+3. [[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea|台美人台加人]]
+4. [[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3|台美人台加人]]
+5. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596|台美人台加人]]
 
 
 ## Timeline

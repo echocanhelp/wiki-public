@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-20
+last_reviewed: 2026-08-30
 ---
 
 # Nanfang Shuo / 南方朔
@@ -48,23 +48,23 @@ Top 8 articles from taiwanjustice.net mentioning nanfang-shuo:
 
 ## Works
 
-**南方朔** — **4** title hits, **4** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
+**南方朔** — **4** title hits, **4** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
 ### 2024 (4)
 
-1. [[articles/taiwanjustice-net/2024/20240724235325_root_5cd1258f59d0251c||他們為甚麼不自殺？ ◎南方朔 / 民報 08-15-2014]]
-2. [[articles/taiwanjustice-net/2024/20240719125045_root_32c4204ea4c13f44||馬英九的新外號是 [馬惠帝] ! ◎南方朔/2012-5-14]]
-3. [[articles/taiwanjustice-net/2024/20240713171008_root_d42005bf379d04c4||擋住民粹！荷、法、德將是民主的功臣 ◎南方朔/民報 2017-03-24]]
-4. [[articles/taiwanjustice-net/2024/20240619173250_root_bae9a02a5a98b67c||立法院對兩岸政策出現大反彈！◎南方朔 01-13-2014]]
+1. [[articles/taiwanjustice-net/2024/20240724235325_root_5cd1258f59d0251c|他們為甚麼不自殺？ ◎南方朔 / 民報 08-15-2014]]
+2. [[articles/taiwanjustice-net/2024/20240719125045_root_32c4204ea4c13f44|馬英九的新外號是 [馬惠帝] ! ◎南方朔/2012-5-14]]
+3. [[articles/taiwanjustice-net/2024/20240713171008_root_d42005bf379d04c4|擋住民粹！荷、法、德將是民主的功臣 ◎南方朔/民報 2017-03-24]]
+4. [[articles/taiwanjustice-net/2024/20240619173250_root_bae9a02a5a98b67c|立法院對兩岸政策出現大反彈！◎南方朔 01-13-2014]]
 
 ### Body mentions (4)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2024/20240719130745_root_c122ab4d6dc8d2cf||2012大選]]
-2. [[articles/taiwanjustice-net/2024/20240425071604_root_7dc2555b77fd028d||專欄]]
-3. [[articles/taiwanjustice-net/2024/20240520020609_root_49bbba86f2299b6d||兩岸關係]]
-4. [[articles/taiwanjustice-net/2024/20240616082309_root_b06407961c998198||馬惠帝]]
+1. [[articles/taiwanjustice-net/2024/20240719130745_root_c122ab4d6dc8d2cf|2012大選]]
+2. [[articles/taiwanjustice-net/2024/20240425071604_root_7dc2555b77fd028d|專欄]]
+3. [[articles/taiwanjustice-net/2024/20240520020609_root_49bbba86f2299b6d|兩岸關係]]
+4. [[articles/taiwanjustice-net/2024/20240616082309_root_b06407961c998198|馬惠帝]]
 
 
 ## Timeline

@@ -8,7 +8,7 @@ tags:
   - FAPA
   - community leader
 verification_status: pending
-last_reviewed: 2026-08-20
+last_reviewed: 2026-08-30
 sources:
   - https://en.wikipedia.org/wiki/Ken_Wu
   - https://www.taiwancenter.org/
@@ -100,21 +100,21 @@ A business card shared during onboarding identifies Ken Wu (吳兆峯) as Secret
 
 ## Works
 
-**ken-wu** — **1** title hits, **28** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
+**ken-wu** — **1** title hits, **28** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
 ### 2024 (1)
 
-1. [[articles/taiwanjustice-net/2024/20240520031837_root_1cfb902d3288728c||FAPA洛杉磯分會長吳兆峯提7疑點：合理懷疑彭文正國際記者會不存在]]
+1. [[articles/taiwanjustice-net/2024/20240520031837_root_1cfb902d3288728c|FAPA洛杉磯分會長吳兆峯提7疑點：合理懷疑彭文正國際記者會不存在]]
 
 ### Body mentions (28)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2024/20240421184918_root_9a66943e68f1e0ef||台美人台加人]]
-2. [[articles/taiwanjustice-net/2020/20201118162555_2018_06_27_大洛杉磯台灣會館會訊_2018-年六月-_大洛杉磯台灣_79291dad808ef7f7||大洛杉磯台灣會館會訊，2018 年六月 ◎大洛杉磯台灣會館 2018-06-27]]
-3. [[articles/taiwanjustice-net/2024/20240721101942_root_04f32b14d8cf8f12||台灣會館會訊 #11, 2016-12-17]]
-4. [[articles/taiwanjustice-net/2025/20250320212940_大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念_c62f5c50846fe267||大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念大會]]
-5. [[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66||2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2日舉行]]
+1. [[articles/taiwanjustice-net/2024/20240421184918_root_9a66943e68f1e0ef|台美人台加人]]
+2. [[articles/taiwanjustice-net/2020/20201118162555_2018_06_27_大洛杉磯台灣會館會訊_2018-年六月-_大洛杉磯台灣_79291dad808ef7f7|大洛杉磯台灣會館會訊，2018 年六月 ◎大洛杉磯台灣會館 2018-06-27]]
+3. [[articles/taiwanjustice-net/2024/20240721101942_root_04f32b14d8cf8f12|台灣會館會訊 #11, 2016-12-17]]
+4. [[articles/taiwanjustice-net/2025/20250320212940_大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念_c62f5c50846fe267|大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念大會]]
+5. [[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66|2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2日舉行]]
 
 
 ## Timeline
@@ -185,25 +185,25 @@ Pages that link to **吳兆峯** (ken-wu):
 
 ### People (3)
 
-1. [[people/david-lee||david-lee]]
-2. [[people/index||index]]
-3. [[people/rex-chen||rex-chen]]
+1. [[people/david-lee|david-lee]]
+2. [[people/index|index]]
+3. [[people/rex-chen|rex-chen]]
 
 ### Organizations (6)
 
-1. [[organizations/democratic-progressive-party||democratic-progressive-party]]
-2. [[organizations/democratic-progressive-party||democratic-progressive-party]]
-3. [[organizations/democratic-progressive-party||democratic-progressive-party]]
-4. [[organizations/overseas-community-affairs-council||overseas-community-affairs-council]]
-5. [[organizations/overseas-community-affairs-council||overseas-community-affairs-council]]
-6. [[organizations/taiwan-center||taiwan-center]]
+1. [[organizations/democratic-progressive-party|democratic-progressive-party]]
+2. [[organizations/democratic-progressive-party|democratic-progressive-party]]
+3. [[organizations/democratic-progressive-party|democratic-progressive-party]]
+4. [[organizations/overseas-community-affairs-council|overseas-community-affairs-council]]
+5. [[organizations/overseas-community-affairs-council|overseas-community-affairs-council]]
+6. [[organizations/taiwan-center|taiwan-center]]
 
 ### Sources (4)
 
-1. [[sources/ocac-gov-tw||ocac-gov-tw]]
-2. [[sources/taiwancenter-org||taiwancenter-org]]
-3. [[sources/wikipedia-democratic-progressive-party||wikipedia-democratic-progressive-party]]
-4. [[sources/wikipedia-democratic-progressive-party||wikipedia-democratic-progressive-party]]
+1. [[sources/ocac-gov-tw|ocac-gov-tw]]
+2. [[sources/taiwancenter-org|taiwancenter-org]]
+3. [[sources/wikipedia-democratic-progressive-party|wikipedia-democratic-progressive-party]]
+4. [[sources/wikipedia-democratic-progressive-party|wikipedia-democratic-progressive-party]]
 
 ## Quotes
 

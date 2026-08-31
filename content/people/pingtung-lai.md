@@ -76,15 +76,15 @@ Pages that link to **pingtung-lai** (pingtung-lai):
 
 ### People (1)
 
-1. [[people/albert-s-lai||albert-s-lai]]
+1. [[people/albert-s-lai|albert-s-lai]]
 
 ### Organizations (1)
 
-1. [[organizations/formosan-presbyterian-church-in-los-angeles||formosan-presbyterian-church-in-los-angeles]]
+1. [[organizations/formosan-presbyterian-church-in-los-angeles|formosan-presbyterian-church-in-los-angeles]]
 
 ### Sources (1)
 
-1. [[sources/toward-a-community-of-hope||toward-a-community-of-hope]]
+1. [[sources/toward-a-community-of-hope|toward-a-community-of-hope]]
 
 ## Source Notes and Confidence
 

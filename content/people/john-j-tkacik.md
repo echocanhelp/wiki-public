@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-21
+last_reviewed: 2026-08-30
 ---
 # John J. Tkacik (譚慎格)
 
@@ -48,20 +48,20 @@ Top 5 articles from taiwanjustice.net mentioning john-j-tkacik:
 
 ## Works
 
-**譚慎格** — **1** title hits, **4** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
+**譚慎格** — **1** title hits, **4** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
 ### 2026 (1)
 
-1. [[articles/taiwanjustice-net/2026/20260211101639_台灣_烏克蘭與七十五週年-_譚慎格_ded2259fed416a9d||台灣、烏克蘭與七十五週年 ◎譚慎格]]
+1. [[articles/taiwanjustice-net/2026/20260211101639_台灣_烏克蘭與七十五週年-_譚慎格_ded2259fed416a9d|台灣、烏克蘭與七十五週年 ◎譚慎格]]
 
 ### Body mentions (4)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2024/20240224194137_root_b1e144ecc18e460f||English Pages]]
-2. [[articles/taiwanjustice-net/2024/20240301084218_root_2eea1835f9769141||彈劾馬的司法暗樁 ◎ 黃帝穎律師/ 北社評論/ 2018-04-10]]
-3. [[articles/taiwanjustice-net/2024/20240715145556_root_185fdc80c7d5764b||VOA專訪游錫堃：美國“新一中政策”形成，台美建交一定會實現]]
-4. [[articles/taiwanjustice-net/2020/20200822225548_2020_08_16_不必經過修憲_以什麼國名走向國際-_-王克雄_042f16251f8871bf||不必經過修憲：以什麼國名走向國際 ◎ 王克雄]]
+1. [[articles/taiwanjustice-net/2024/20240224194137_root_b1e144ecc18e460f|English Pages]]
+2. [[articles/taiwanjustice-net/2024/20240301084218_root_2eea1835f9769141|彈劾馬的司法暗樁 ◎ 黃帝穎律師/ 北社評論/ 2018-04-10]]
+3. [[articles/taiwanjustice-net/2024/20240715145556_root_185fdc80c7d5764b|VOA專訪游錫堃：美國“新一中政策”形成，台美建交一定會實現]]
+4. [[articles/taiwanjustice-net/2020/20200822225548_2020_08_16_不必經過修憲_以什麼國名走向國際-_-王克雄_042f16251f8871bf|不必經過修憲：以什麼國名走向國際 ◎ 王克雄]]
 
 
 ## Source Notes

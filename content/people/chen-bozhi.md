@@ -4,7 +4,7 @@ type: person
 tags:
   - 
 verification_status: pending
-last_reviewed: 2026-08-20
+last_reviewed: 2026-08-30
 ---
 # Rev. Chen Bozhi (陳柏志牧師)
 
@@ -29,22 +29,22 @@ His preaching during the early pandemic period contributed to maintaining worshi
 
 ## Works
 
-**chen-bozhi** — **2** title hits, **5** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
+**chen-bozhi** — **2** title hits, **5** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
 ### 2025 (2)
 
-1. [[articles/taiwanjustice-net/2025/20250318111948_川普貿易戰-陳博志_對等關稅策略威嚇成分高_專_90d5beaf0377538c||川普貿易戰 陳博志：對等關稅策略威嚇成分高【專訪】]]
-2. [[articles/taiwanjustice-net/2025/20250318105440_陳博志指川普誤解搶晶片說-強調_有台灣美國才贏_ab88acaa18015a84||陳博志指川普誤解搶晶片說 強調「有台灣美國才贏」【專訪】]]
+1. [[articles/taiwanjustice-net/2025/20250318111948_川普貿易戰-陳博志_對等關稅策略威嚇成分高_專_90d5beaf0377538c|川普貿易戰 陳博志：對等關稅策略威嚇成分高【專訪】]]
+2. [[articles/taiwanjustice-net/2025/20250318105440_陳博志指川普誤解搶晶片說-強調_有台灣美國才贏_ab88acaa18015a84|陳博志指川普誤解搶晶片說 強調「有台灣美國才贏」【專訪】]]
 
 ### Body mentions (5)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2021/20210619030836_2021_05_08_總統_淨零排放國家整體轉型_規劃未來30年願景_147b8a4c9bdf1bdc||總統：淨零排放國家整體轉型，規劃未來30年願景＋總統拋30年願景，鄭麗君領青平台找尋台灣下一步]]
-2. [[articles/taiwanjustice-net/2025/20251108180706_總統_淨零排放國家整體轉型_規劃未來30年願景_3c24f4e4b2104cd9||總統：淨零排放國家整體轉型，規劃未來30年願景＋總統拋30年願景，鄭麗君領青平台找尋台灣下一步]]
-3. [[articles/taiwanjustice-net/2021/20210303211034_2021_02_22_鄭麗君推青平台轉型_林飛帆吳怡農任基金會董事_4ff1da3d6099b2e3||鄭麗君推青平台轉型，林飛帆吳怡農任基金會董事]]
-4. [[articles/taiwanjustice-net/2025/20251013095227_總統府公布遴聘及新聘資政27人國策顧問70人名單_fa7c957f552d76e9||總統府公布遴聘及新聘資政27人國策顧問70人名單]]
-5. [[articles/taiwanjustice-net/2025/20251107030138_鄭麗君創青平台-民主治理學院推跨領域共學_首都_d299126c048c579d||鄭麗君創青平台 民主治理學院推跨領域共學＋首都之戰沒鬆口，鄭麗君下一步從城中出發]]
+1. [[articles/taiwanjustice-net/2021/20210619030836_2021_05_08_總統_淨零排放國家整體轉型_規劃未來30年願景_147b8a4c9bdf1bdc|總統：淨零排放國家整體轉型，規劃未來30年願景＋總統拋30年願景，鄭麗君領青平台找尋台灣下一步]]
+2. [[articles/taiwanjustice-net/2025/20251108180706_總統_淨零排放國家整體轉型_規劃未來30年願景_3c24f4e4b2104cd9|總統：淨零排放國家整體轉型，規劃未來30年願景＋總統拋30年願景，鄭麗君領青平台找尋台灣下一步]]
+3. [[articles/taiwanjustice-net/2021/20210303211034_2021_02_22_鄭麗君推青平台轉型_林飛帆吳怡農任基金會董事_4ff1da3d6099b2e3|鄭麗君推青平台轉型，林飛帆吳怡農任基金會董事]]
+4. [[articles/taiwanjustice-net/2025/20251013095227_總統府公布遴聘及新聘資政27人國策顧問70人名單_fa7c957f552d76e9|總統府公布遴聘及新聘資政27人國策顧問70人名單]]
+5. [[articles/taiwanjustice-net/2025/20251107030138_鄭麗君創青平台-民主治理學院推跨領域共學_首都_d299126c048c579d|鄭麗君創青平台 民主治理學院推跨領域共學＋首都之戰沒鬆口，鄭麗君下一步從城中出發]]
 
 
 ## Timeline
@@ -78,12 +78,12 @@ Pages that link to **陳博志** (chen-bozhi):
 
 ### People (1)
 
-1. [[people/index||index]]
+1. [[people/index|index]]
 
 ### Organizations (2)
 
-1. [[organizations/good-shepherd-taiwanese-presbyterian-church||good-shepherd-taiwanese-presbyterian-church]]
-2. [[organizations/index||index]]
+1. [[organizations/good-shepherd-taiwanese-presbyterian-church|good-shepherd-taiwanese-presbyterian-church]]
+2. [[organizations/index|index]]
 
 ## Quotes
 

@@ -109,24 +109,24 @@ Pages that link to **wang-gui-rong** (wang-gui-rong):
 
 ### People (10)
 
-1. [[people/franklin-ping-cheng||franklin-ping-cheng]]
-2. [[people/hsu-hsin-hung||hsu-hsin-hung]]
-3. [[people/liao-shu-zong||liao-shu-zong]]
-4. [[people/lin-fu-kun||lin-fu-kun]]
-5. [[people/lin-yuan-ching||lin-yuan-ching]]
-6. [[people/sam-chang||sam-chang]]
-7. [[people/yang-jia-you||yang-jia-you]]
-8. [[people/yang-xin||yang-xin]]
-9. [[people/zhou-wei-lin||zhou-wei-lin]]
-10. [[people/zhou-wei-lin||zhou-wei-lin]]
+1. [[people/franklin-ping-cheng|franklin-ping-cheng]]
+2. [[people/hsu-hsin-hung|hsu-hsin-hung]]
+3. [[people/liao-shu-zong|liao-shu-zong]]
+4. [[people/lin-fu-kun|lin-fu-kun]]
+5. [[people/lin-yuan-ching|lin-yuan-ching]]
+6. [[people/sam-chang|sam-chang]]
+7. [[people/yang-jia-you|yang-jia-you]]
+8. [[people/yang-xin|yang-xin]]
+9. [[people/zhou-wei-lin|zhou-wei-lin]]
+10. [[people/zhou-wei-lin|zhou-wei-lin]]
 
 ### Organizations (1)
 
-1. [[organizations/taiwan-american-foundation||taiwan-american-foundation]]
+1. [[organizations/taiwan-american-foundation|taiwan-american-foundation]]
 
 ### Sources (1)
 
-1. [[sources/2017-tahs-publication||2017-tahs-publication]]
+1. [[sources/2017-tahs-publication|2017-tahs-publication]]
 
 ## Source Notes and Confidence
 

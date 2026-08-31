@@ -41,11 +41,11 @@ Pages that link to **zheng-bing-quan** (zheng-bing-quan):
 
 ### People (1)
 
-1. [[people/wang-yao-ting||wang-yao-ting]]
+1. [[people/wang-yao-ting|wang-yao-ting]]
 
 ### Organizations (1)
 
-1. [[organizations/taiwanese-american-historical-society||taiwanese-american-historical-society]]
+1. [[organizations/taiwanese-american-historical-society|taiwanese-american-historical-society]]
 
 ## Source Notes and Confidence
 

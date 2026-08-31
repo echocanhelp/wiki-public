@@ -9,7 +9,7 @@ tags:
   - TAHS
   - tahs-leadership
 verification_status: published
-last_reviewed: 2026-08-20
+last_reviewed: 2026-08-30
 name_en: Freeman Huang
 name_zh_hanzi: 黃樹人
 ---
@@ -38,17 +38,17 @@ Public wiki pages must **not** include private LINE IDs or non-public contact de
 
 ## Works
 
-**freeman-huang** — **0** title hits, **9** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
+**freeman-huang** — **0** title hits, **9** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
 ### Body mentions (9)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3||旅美五十周年 ◎ 鄭炳全]]
-2. [[articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16||旅美五十周年 ◎ 鄭炳全]]
-3. [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38||抗議 南加州台大校友會邀管中閔來年會做專題演講 ◎國立台灣大學校友 2018-07-19]]
-4. [[articles/taiwanjustice-net/2025/20250811013132_化作千風_懷念台美人的人權鬥士_台獨先鋒王泰_31b7081a5d37939f||化作千風－懷念台美人的人權鬥士、台獨先鋒王泰和 [追思會影音]]]
-5. [[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74||台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元]]
+1. [[articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3|旅美五十周年 ◎ 鄭炳全]]
+2. [[articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16|旅美五十周年 ◎ 鄭炳全]]
+3. [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|抗議 南加州台大校友會邀管中閔來年會做專題演講 ◎國立台灣大學校友 2018-07-19]]
+4. [[articles/taiwanjustice-net/2025/20250811013132_化作千風_懷念台美人的人權鬥士_台獨先鋒王泰_31b7081a5d37939f|化作千風－懷念台美人的人權鬥士、台獨先鋒王泰和 [追思會影音]]]
+5. [[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74|台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元]]
 
 
 ## Timeline
@@ -89,13 +89,13 @@ Notable quotes and mentions of **黃樹人** in Taiwan Justice articles:
 
 ### Unknown (4 quotes)
 
-1. "-American news and opinion publication by [[people/freeman-huang||Freeman Huang (黃樹人)]]. ## Archive Overview - **29,103 articles** archived from the Wayback Machi"
+1. "American news and opinion publication by [[people/freeman-huang||Freeman Huang (黃樹人)]]. ## Archive Overview - **29,103 articles** archived from the Wayback Machi"
    — "taiwanjustice.net Article Archive" (unknown)
-2. "s/taiwanjustice-net|Organization page]] - [[people/freeman-huang||Freeman Huang (黃樹人)]] — publisher - Priority absorb plan: `knowledge/research/taiwanjustice-net-me"
+2. "taiwanjustice-net||Organization page]] - [[people/freeman-huang||Freeman Huang (黃樹人)]] — publisher - Priority absorb plan: `knowledge/research/taiwanjustice-net-me"
    — "taiwanjustice.net Article Archive" (unknown)
-3. "]], a Taiwanese-American news and opinion publication by [[people/freeman-huang||Freeman Huang (黃樹人)]]. ## Archive Overview - **29,103 articles** archived from the Wayback"
+3. "], a Taiwanese-American news and opinion publication by [[people/freeman-huang||Freeman Huang (黃樹人)]]. ## Archive Overview - **29,103 articles** archived from the Wayback"
    — "taiwanjustice.net Article Archive" (unknown)
-4. "[[organizations/taiwanjustice-net||Organization page]] - [[people/freeman-huang||Freeman Huang (黃樹人)]] — publisher - Priority absorb plan: `knowledge/research/taiwanjustice-n"
+4. "[organizations/taiwanjustice-net||Organization page]] - [[people/freeman-huang||Freeman Huang (黃樹人)]] — publisher - Priority absorb plan: `knowledge/research/taiwanjustice-n"
    — "taiwanjustice.net Article Archive" (unknown)
 
 ### 2025 (1 quotes)

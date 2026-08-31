@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-20
+last_reviewed: 2026-08-30
 ---
 
 # Xia Ming / 夏明
@@ -45,25 +45,25 @@ Top 7 articles from taiwanjustice.net mentioning xia-ming:
 
 ## Works
 
-**小明** — **2** title hits, **5** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
+**小明** — **2** title hits, **5** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
 ### 2024 (1)
 
-1. [[articles/taiwanjustice-net/2024/20240528125913_root_e878dc04fcf89dab||安倍晉三美國會演講一箭三雕 ◎ 夏明/BBC 2015-4-30]]
+1. [[articles/taiwanjustice-net/2024/20240528125913_root_e878dc04fcf89dab|安倍晉三美國會演講一箭三雕 ◎ 夏明/BBC 2015-4-30]]
 
 ### 2023 (1)
 
-1. [[articles/taiwanjustice-net/2023/20230204021237_2015_04_11_恐懼之海中渡己渡人-讀陳破空_不受歡迎的中_f63c99f7cf1f8e72||恐懼之海中渡己渡人 —— 讀陳破空《不受歡迎的中國人》◎夏明]]
+1. [[articles/taiwanjustice-net/2023/20230204021237_2015_04_11_恐懼之海中渡己渡人-讀陳破空_不受歡迎的中_f63c99f7cf1f8e72|恐懼之海中渡己渡人 —— 讀陳破空《不受歡迎的中國人》◎夏明]]
 
 ### Body mentions (5)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2025/20250719151725_中國科學家_公鼠懷孕_引發倫理爭議_論文作者_2e1f86fae52b47cf||「公鼠懷孕」引發倫理爭議，論文作者撤稿，中國科研人員的底線在哪兒？]]
-2. [[articles/taiwanjustice-net/2026/20260210062455_烏克蘭戰火連天_中俄威脅再成美國中期選舉焦點_20c1f9a32904d47e||烏克蘭戰火連天，中俄威脅再成美國中期選舉焦點]]
-3. [[articles/taiwanjustice-net/2021/20211025205305_2021_06_18_中共國安高層董經緯現身破叛逃傳聞美專家說此_b8dbc7d70bddf189||中共國安高層董經緯”現身”破叛逃傳聞?美專家說此舉“很有意思”]]
-4. [[articles/taiwanjustice-net/2022/20220705124219_2022_05_18_中央辦公廳發文禁止離休領導妄議中央_中共_0add6d71f272a1c0||中央辦公廳發文禁止離休領導“妄議中央”，中共高層權鬥白熱化？]]
-5. [[articles/taiwanjustice-net/2025/20251010063915_上海再次全球招募五千名博士後-引人質疑是變相_fce0670c4e4126d0||上海再次全球招募五千名博士後 引人質疑是變相”千人計劃”]]
+1. [[articles/taiwanjustice-net/2025/20250719151725_中國科學家_公鼠懷孕_引發倫理爭議_論文作者_2e1f86fae52b47cf|「公鼠懷孕」引發倫理爭議，論文作者撤稿，中國科研人員的底線在哪兒？]]
+2. [[articles/taiwanjustice-net/2026/20260210062455_烏克蘭戰火連天_中俄威脅再成美國中期選舉焦點_20c1f9a32904d47e|烏克蘭戰火連天，中俄威脅再成美國中期選舉焦點]]
+3. [[articles/taiwanjustice-net/2021/20211025205305_2021_06_18_中共國安高層董經緯現身破叛逃傳聞美專家說此_b8dbc7d70bddf189|中共國安高層董經緯”現身”破叛逃傳聞?美專家說此舉“很有意思”]]
+4. [[articles/taiwanjustice-net/2022/20220705124219_2022_05_18_中央辦公廳發文禁止離休領導妄議中央_中共_0add6d71f272a1c0|中央辦公廳發文禁止離休領導“妄議中央”，中共高層權鬥白熱化？]]
+5. [[articles/taiwanjustice-net/2025/20251010063915_上海再次全球招募五千名博士後-引人質疑是變相_fce0670c4e4126d0|上海再次全球招募五千名博士後 引人質疑是變相”千人計劃”]]
 
 
 ## Timeline

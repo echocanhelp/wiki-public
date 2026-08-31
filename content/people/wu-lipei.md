@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-20
+last_reviewed: 2026-08-30
 ---
 
 # Wu Li-pei / 吳澧培
@@ -54,26 +54,26 @@ Top 10 articles from taiwanjustice.net mentioning wu-lipei:
 
 ## Works
 
-**吳立埔** — **3** title hits, **10** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
+**吳立埔** — **3** title hits, **10** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
 ### 2024 (2)
 
-1. [[articles/taiwanjustice-net/2024/20240620181046_root_14fc155f974c6638||吳澧培再開砲 直指張盛和謊話連篇 ◎自由時報 08-30-2016]]
-2. [[articles/taiwanjustice-net/2024/20240425080646_root_9a39a754d2a3b236||我的人生︰一個堅持和無數的巧合 ◎吳澧培/吳澧培回憶錄前言 10-12-2015]]
+1. [[articles/taiwanjustice-net/2024/20240620181046_root_14fc155f974c6638|吳澧培再開砲 直指張盛和謊話連篇 ◎自由時報 08-30-2016]]
+2. [[articles/taiwanjustice-net/2024/20240425080646_root_9a39a754d2a3b236|我的人生︰一個堅持和無數的巧合 ◎吳澧培/吳澧培回憶錄前言 10-12-2015]]
 
 ### 2021 (1)
 
-1. [[articles/taiwanjustice-net/2021/20210620125731_2013_04_23_新台灣加油_2013-04-23_從阿扁的遭遇看馬政府下的台灣_05b61a14ea38cb50||《新台灣加油》2013.04.23_從阿扁的遭遇看馬政府下的台灣獄政+綠營吳澧培等五大案，告檢濫訴]]
+1. [[articles/taiwanjustice-net/2021/20210620125731_2013_04_23_新台灣加油_2013-04-23_從阿扁的遭遇看馬政府下的台灣_05b61a14ea38cb50|《新台灣加油》2013.04.23_從阿扁的遭遇看馬政府下的台灣獄政+綠營吳澧培等五大案，告檢濫訴]]
 
 ### Body mentions (10)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2024/20240301081358_root_b3dc60c35a8ef225||專欄]]
-2. [[articles/taiwanjustice-net/2023/20230603183449_2012_08_05_台灣的危機與轉機1-吳澧培先生專題演講-08052012-大洛杉_screenhunter_14-aug-05-22-40_3e86920c6c28fcbb||ScreenHunter_14 Aug. 05 22.40]]
-3. [[articles/taiwanjustice-net/2024/20240520034910_root_4facf0eb156eac2c||有話好說]]
-4. [[articles/taiwanjustice-net/2020/20200622034426_2020_06_16_給台美人學生的-tasf-covid-19-疫情紓困獎學金接受申請_162effa713237818||給台美人學生的 TASF COVID-19 疫情紓困獎學金接受申請]]
-5. [[articles/taiwanjustice-net/2025/20251209223029_賴清德應邀赴華府-出席全美祈禱早餐會_3bde1bcb0bb0e10b||賴清德應邀赴華府 出席全美祈禱早餐會， 將拜會國際事務智庫僑界]]
+1. [[articles/taiwanjustice-net/2024/20240301081358_root_b3dc60c35a8ef225|專欄]]
+2. [[articles/taiwanjustice-net/2023/20230603183449_2012_08_05_台灣的危機與轉機1-吳澧培先生專題演講-08052012-大洛杉_screenhunter_14-aug-05-22-40_3e86920c6c28fcbb|ScreenHunter_14 Aug. 05 22.40]]
+3. [[articles/taiwanjustice-net/2024/20240520034910_root_4facf0eb156eac2c|有話好說]]
+4. [[articles/taiwanjustice-net/2020/20200622034426_2020_06_16_給台美人學生的-tasf-covid-19-疫情紓困獎學金接受申請_162effa713237818|給台美人學生的 TASF COVID-19 疫情紓困獎學金接受申請]]
+5. [[articles/taiwanjustice-net/2025/20251209223029_賴清德應邀赴華府-出席全美祈禱早餐會_3bde1bcb0bb0e10b|賴清德應邀赴華府 出席全美祈禱早餐會， 將拜會國際事務智庫僑界]]
 
 
 ## Timeline

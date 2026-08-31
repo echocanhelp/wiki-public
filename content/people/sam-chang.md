@@ -46,11 +46,11 @@ Pages that link to **sam-chang** (sam-chang):
 
 ### People (1)
 
-1. [[people/zhou-wei-liang||zhou-wei-liang]]
+1. [[people/zhou-wei-liang|zhou-wei-liang]]
 
 ### Sources (1)
 
-1. [[sources/2017-tahs-publication||2017-tahs-publication]]
+1. [[sources/2017-tahs-publication|2017-tahs-publication]]
 
 ## Source Notes and Confidence
 

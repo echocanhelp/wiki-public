@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-21
+last_reviewed: 2026-08-30
 ---
 # Yu Chieh (余杰)
 
@@ -63,54 +63,54 @@ Top 10 articles from taiwanjustice.net mentioning yu-jie:
 
 ## Works
 
-**余杰** — **85** title hits, **18** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
+**余杰** — **85** title hits, **18** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
 ### 2026 (5)
 
-1. [[articles/taiwanjustice-net/2026/20260121010058_周庭在中國和日本遭遇冰火兩重天-_-余杰_cdbccd7bfd47de93||周庭在中國和日本遭遇冰火兩重天  ◎ 余杰]]
-2. [[articles/taiwanjustice-net/2026/20260118113910_美國外交戰略即將迎來大轉型_麥可_曼德爾邦_042f5fe90d369bce||美國外交戰略即將迎來大轉型－－麥可·曼德爾邦《美國如何丟掉世界：後冷戰時代美國外交政策的致命錯誤》◎余杰]]
-3. [[articles/taiwanjustice-net/2026/20260115083233_川普敲響了伊朗獨裁政權的喪鐘-_-余杰_802c832b8d392a0c||川普敲響了伊朗獨裁政權的喪鐘  ◎ 余杰]]
-4. [[articles/taiwanjustice-net/2026/20260112171134_國共內戰中_中共從蘇俄那裡得到多少武器裝備_e737b6a310a00fb5||國共內戰中，中共從蘇俄那裡得到多少武器裝備？◎ 余杰]]
-5. [[articles/taiwanjustice-net/2026/20260112164335_謊言治國的習近平_結局直追海珊-_-余杰_34a25c8495f240f1||謊言治國的習近平，結局直追海珊  ◎ 余杰]]
+1. [[articles/taiwanjustice-net/2026/20260121010058_周庭在中國和日本遭遇冰火兩重天-_-余杰_cdbccd7bfd47de93|周庭在中國和日本遭遇冰火兩重天  ◎ 余杰]]
+2. [[articles/taiwanjustice-net/2026/20260118113910_美國外交戰略即將迎來大轉型_麥可_曼德爾邦_042f5fe90d369bce|美國外交戰略即將迎來大轉型－－麥可·曼德爾邦《美國如何丟掉世界：後冷戰時代美國外交政策的致命錯誤》◎余杰]]
+3. [[articles/taiwanjustice-net/2026/20260115083233_川普敲響了伊朗獨裁政權的喪鐘-_-余杰_802c832b8d392a0c|川普敲響了伊朗獨裁政權的喪鐘  ◎ 余杰]]
+4. [[articles/taiwanjustice-net/2026/20260112171134_國共內戰中_中共從蘇俄那裡得到多少武器裝備_e737b6a310a00fb5|國共內戰中，中共從蘇俄那裡得到多少武器裝備？◎ 余杰]]
+5. [[articles/taiwanjustice-net/2026/20260112164335_謊言治國的習近平_結局直追海珊-_-余杰_34a25c8495f240f1|謊言治國的習近平，結局直追海珊  ◎ 余杰]]
 
 ### 2025 (14)
 
-1. [[articles/taiwanjustice-net/2025/20251214084029_永遠不要得罪中國_因為中國是大紅龍_-_-余杰_2003e56bbf83ec8e||永遠不要得罪中國，因為中國是大紅龍？ ◎ 余杰]]
-2. [[articles/taiwanjustice-net/2025/20251207074642_種更多的樹_愛更多的人_純園種-_-余杰_7be9fd4f4d89bd70||種更多的樹，愛更多的人－－純園種  ◎ 余杰]]
-3. [[articles/taiwanjustice-net/2025/20251115145635_武漢肺炎測試出習近平政權的無能與高效-_-余杰_d601aa35f40982e0||武漢肺炎測試出習近平政權的無能與高效 ◎ 余杰]]
-4. [[articles/taiwanjustice-net/2025/20250814175631_譚德塞與世界衛生組織是殺人兇手-_-余杰_00405da441bce931||譚德塞與世界衛生組織是殺人兇手 ◎ 余杰]]
-5. [[articles/taiwanjustice-net/2025/20250617080509_川普宛如_皇帝的新裝_中說出真相的孩子_美國_5a1a48a87539a010||川普宛如《皇帝的新裝》中說出真相的孩子：美國需要經貿正義  ◎ 余杰]]
-6. [[articles/taiwanjustice-net/2025/20250614203144_美國另起爐灶_普林斯頓版本的_新聯合國_隱然_b1d22ae62e32488b||美國另起爐灶，普林斯頓版本的「新聯合國」隱然可見  ◎ 余杰]]
-7. [[articles/taiwanjustice-net/2025/20250517161343_御用文人的惡是一種什麼樣的惡_-余杰_dc31deae96c0f913||御用文人的惡是一種什麼樣的惡？◎ 余杰]]
-8. [[articles/taiwanjustice-net/2025/20250517160841_警惕海外華人教會成為共產黨統戰獵物-_-余杰_196ffe383b09a91f||警惕海外華人教會成為共產黨統戰獵物  ◎ 余杰]]
+1. [[articles/taiwanjustice-net/2025/20251214084029_永遠不要得罪中國_因為中國是大紅龍_-_-余杰_2003e56bbf83ec8e|永遠不要得罪中國，因為中國是大紅龍？ ◎ 余杰]]
+2. [[articles/taiwanjustice-net/2025/20251207074642_種更多的樹_愛更多的人_純園種-_-余杰_7be9fd4f4d89bd70|種更多的樹，愛更多的人－－純園種  ◎ 余杰]]
+3. [[articles/taiwanjustice-net/2025/20251115145635_武漢肺炎測試出習近平政權的無能與高效-_-余杰_d601aa35f40982e0|武漢肺炎測試出習近平政權的無能與高效 ◎ 余杰]]
+4. [[articles/taiwanjustice-net/2025/20250814175631_譚德塞與世界衛生組織是殺人兇手-_-余杰_00405da441bce931|譚德塞與世界衛生組織是殺人兇手 ◎ 余杰]]
+5. [[articles/taiwanjustice-net/2025/20250617080509_川普宛如_皇帝的新裝_中說出真相的孩子_美國_5a1a48a87539a010|川普宛如《皇帝的新裝》中說出真相的孩子：美國需要經貿正義  ◎ 余杰]]
+6. [[articles/taiwanjustice-net/2025/20250614203144_美國另起爐灶_普林斯頓版本的_新聯合國_隱然_b1d22ae62e32488b|美國另起爐灶，普林斯頓版本的「新聯合國」隱然可見  ◎ 余杰]]
+7. [[articles/taiwanjustice-net/2025/20250517161343_御用文人的惡是一種什麼樣的惡_-余杰_dc31deae96c0f913|御用文人的惡是一種什麼樣的惡？◎ 余杰]]
+8. [[articles/taiwanjustice-net/2025/20250517160841_警惕海外華人教會成為共產黨統戰獵物-_-余杰_196ffe383b09a91f|警惕海外華人教會成為共產黨統戰獵物  ◎ 余杰]]
 - … 6 more this year
 
 ### 2024 (29)
 
-1. [[articles/taiwanjustice-net/2024/20240909050827_root_c0baf5056127c859||在台灣展示五星紅旗不是言論自由，而是反人類罪  ◎ 余杰]]
-2. [[articles/taiwanjustice-net/2024/20240719004117_root_fb92e743bcac07dd||柯文哲的道路，陳昇的道路，哪一個才是台灣的道路？◎ 余杰 【六都春秋】2018-09-05]]
-3. [[articles/taiwanjustice-net/2024/20240719002959_root_fe366a23e31590a9||習近平的中國夢，包含一個「內亞帝國」夢  ◎ 余杰 2018-09-01]]
-4. [[articles/taiwanjustice-net/2024/20240719002149_root_ae2e9f43e95b0fd9||誰與哀哭者同哀哭？(下) ——旅日紀錄片導演班忠義訪談 ◎ 余杰/ 2017-09-23]]
-5. [[articles/taiwanjustice-net/2024/20240719001505_root_89db6bba45a191a3||余杰觀點》「上書中央」是中國公知退出歷史舞臺的標誌 ◎新頭殼newtalk 2017-11-29]]
-6. [[articles/taiwanjustice-net/2024/20240718232251_root_09f139a7b0b58dcd||袁世凱中華民國國父？——讀怎樣的歷史 成就怎樣的人 ◎余杰]]
-7. [[articles/taiwanjustice-net/2024/20240718231958_root_92c90508234d83e7||DV是捍衛自由和人權的武器, 文海《放逐的凝視——見證中國獨立紀錄片》◎余杰/ 新頭殼newtalk/ 2017-3-04]]
-8. [[articles/taiwanjustice-net/2024/20240718231623_root_8e86bd421e714726||余杰專欄]]
+1. [[articles/taiwanjustice-net/2024/20240909050827_root_c0baf5056127c859|在台灣展示五星紅旗不是言論自由，而是反人類罪  ◎ 余杰]]
+2. [[articles/taiwanjustice-net/2024/20240719004117_root_fb92e743bcac07dd|柯文哲的道路，陳昇的道路，哪一個才是台灣的道路？◎ 余杰 【六都春秋】2018-09-05]]
+3. [[articles/taiwanjustice-net/2024/20240719002959_root_fe366a23e31590a9|習近平的中國夢，包含一個「內亞帝國」夢  ◎ 余杰 2018-09-01]]
+4. [[articles/taiwanjustice-net/2024/20240719002149_root_ae2e9f43e95b0fd9|誰與哀哭者同哀哭？(下) ——旅日紀錄片導演班忠義訪談 ◎ 余杰/ 2017-09-23]]
+5. [[articles/taiwanjustice-net/2024/20240719001505_root_89db6bba45a191a3|余杰觀點》「上書中央」是中國公知退出歷史舞臺的標誌 ◎新頭殼newtalk 2017-11-29]]
+6. [[articles/taiwanjustice-net/2024/20240718232251_root_09f139a7b0b58dcd|袁世凱中華民國國父？——讀怎樣的歷史 成就怎樣的人 ◎余杰]]
+7. [[articles/taiwanjustice-net/2024/20240718231958_root_92c90508234d83e7|DV是捍衛自由和人權的武器, 文海《放逐的凝視——見證中國獨立紀錄片》◎余杰/ 新頭殼newtalk/ 2017-3-04]]
+8. [[articles/taiwanjustice-net/2024/20240718231623_root_8e86bd421e714726|余杰專欄]]
 - … 21 more this year
 
 ### 2023 (1)
 
-1. [[articles/taiwanjustice-net/2023/20230204021000_2017_10_18_一個-_半文盲_-的文學素養上-評析_習近平_20d3a7326685df06||一個 「半文盲」 的文學素養(上) ——評析《習近平: 我的文學情緣》◎ 余杰/ 民報/ 2017-10-18]]
+1. [[articles/taiwanjustice-net/2023/20230204021000_2017_10_18_一個-_半文盲_-的文學素養上-評析_習近平_20d3a7326685df06|一個 「半文盲」 的文學素養(上) ——評析《習近平: 我的文學情緣》◎ 余杰/ 民報/ 2017-10-18]]
 
 ### 2022 (17)
 
-1. [[articles/taiwanjustice-net/2022/20221129015342_2017_10_09_余杰專欄_中國有資格爲拉斯維加斯槍擊案幸災樂_7b33b7fa91d005ab||余杰專欄：中國有資格爲拉斯維加斯槍擊案幸災樂禍嗎? ◎ 風傳媒/ 2017-10-10]]
-2. [[articles/taiwanjustice-net/2022/20221129011337_2017_11_09_被凌辱的中國女兒的救贖之路-讀巫一毛_暴風雨_032355cadae4b10d||被凌辱的中國女兒的救贖之路  —讀巫一毛《暴風雨中一羽毛》/余杰 2017-11-08]]
-3. [[articles/taiwanjustice-net/2022/20221129005132_2018_06_22_只反酷吏不反皇帝-_余杰-2018-06-22_785d3c21039cde48||只反酷吏不反皇帝 ◎余杰 2018-06-22]]
-4. [[articles/taiwanjustice-net/2022/20221129004750_2017_12_07_不要將孩子們當作_杜鵑_和_精衛_-從溫家_d7058f2594c14cd9||不要將孩子們當作「杜鵑」和「精衛」 ——從溫家寶給香港學生的題詞說起 ◎ 余杰/民報 2017-12-07]]
-5. [[articles/taiwanjustice-net/2022/20221129003344_2017_09_05_余杰觀點_魯迅傳人跪下去_納粹先鋒站起來_9e35695a280c205e||余杰觀點》魯迅傳人跪下去，納粹先鋒站起來——評摩羅《中國站起來》及當下中國的國家主義逆流◎新頭殼newtalk 2017-09-05]]
-6. [[articles/taiwanjustice-net/2022/20221129003201_2017_11_12_開放_筆耕半甲子_反左_豈只是中國的鬥爭_e1cc21eea2876134||《開放》筆耕半甲子：「反左」豈只是中國的鬥爭  ◎余杰/ 上報/ 2017-11-12]]
-7. [[articles/taiwanjustice-net/2022/20221129002711_2017_11_17_余杰專欄_中國有資格爲拉斯維加斯槍擊案幸災樂-2_26f94d58898ab005||余杰專欄：中國有資格爲拉斯維加斯槍擊案幸災樂禍嗎？◎ 世界民意網/ 2017-11-12]]
-8. [[articles/taiwanjustice-net/2022/20221129001034_2016_07_05_對中國人權律師來說_被逮捕居然是好消息_-_余_4bf0433ea3808306||對中國人權律師來說，被逮捕居然是好消息！ ◎余杰/新頭殼newtalk 2016.07.06]]
+1. [[articles/taiwanjustice-net/2022/20221129015342_2017_10_09_余杰專欄_中國有資格爲拉斯維加斯槍擊案幸災樂_7b33b7fa91d005ab|余杰專欄：中國有資格爲拉斯維加斯槍擊案幸災樂禍嗎? ◎ 風傳媒/ 2017-10-10]]
+2. [[articles/taiwanjustice-net/2022/20221129011337_2017_11_09_被凌辱的中國女兒的救贖之路-讀巫一毛_暴風雨_032355cadae4b10d|被凌辱的中國女兒的救贖之路  —讀巫一毛《暴風雨中一羽毛》/余杰 2017-11-08]]
+3. [[articles/taiwanjustice-net/2022/20221129005132_2018_06_22_只反酷吏不反皇帝-_余杰-2018-06-22_785d3c21039cde48|只反酷吏不反皇帝 ◎余杰 2018-06-22]]
+4. [[articles/taiwanjustice-net/2022/20221129004750_2017_12_07_不要將孩子們當作_杜鵑_和_精衛_-從溫家_d7058f2594c14cd9|不要將孩子們當作「杜鵑」和「精衛」 ——從溫家寶給香港學生的題詞說起 ◎ 余杰/民報 2017-12-07]]
+5. [[articles/taiwanjustice-net/2022/20221129003344_2017_09_05_余杰觀點_魯迅傳人跪下去_納粹先鋒站起來_9e35695a280c205e|余杰觀點》魯迅傳人跪下去，納粹先鋒站起來——評摩羅《中國站起來》及當下中國的國家主義逆流◎新頭殼newtalk 2017-09-05]]
+6. [[articles/taiwanjustice-net/2022/20221129003201_2017_11_12_開放_筆耕半甲子_反左_豈只是中國的鬥爭_e1cc21eea2876134|《開放》筆耕半甲子：「反左」豈只是中國的鬥爭  ◎余杰/ 上報/ 2017-11-12]]
+7. [[articles/taiwanjustice-net/2022/20221129002711_2017_11_17_余杰專欄_中國有資格爲拉斯維加斯槍擊案幸災樂-2_26f94d58898ab005|余杰專欄：中國有資格爲拉斯維加斯槍擊案幸災樂禍嗎？◎ 世界民意網/ 2017-11-12]]
+8. [[articles/taiwanjustice-net/2022/20221129001034_2016_07_05_對中國人權律師來說_被逮捕居然是好消息_-_余_4bf0433ea3808306|對中國人權律師來說，被逮捕居然是好消息！ ◎余杰/新頭殼newtalk 2016.07.06]]
 - … 9 more this year
 
 Earlier years: **19** additional title hits (not listed).
@@ -119,11 +119,11 @@ Earlier years: **19** additional title hits (not listed).
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2024/20240221105045_root_4b96e7a2f9d76692||專欄]]
-2. [[articles/taiwanjustice-net/2024/20240228160808_root_f1972734edb3c446||我的肥皂箱]]
-3. [[articles/taiwanjustice-net/2024/20240228164745_root_9f228c87d97e1d2f||歷史必讀]]
-4. [[articles/taiwanjustice-net/2024/20240225021412_root_5f5e92cabb77078c||國際要聞]]
-5. [[articles/taiwanjustice-net/2024/20240225024102_root_007591e506ba808a||中國史地]]
+1. [[articles/taiwanjustice-net/2024/20240221105045_root_4b96e7a2f9d76692|專欄]]
+2. [[articles/taiwanjustice-net/2024/20240228160808_root_f1972734edb3c446|我的肥皂箱]]
+3. [[articles/taiwanjustice-net/2024/20240228164745_root_9f228c87d97e1d2f|歷史必讀]]
+4. [[articles/taiwanjustice-net/2024/20240225021412_root_5f5e92cabb77078c|國際要聞]]
+5. [[articles/taiwanjustice-net/2024/20240225024102_root_007591e506ba808a|中國史地]]
 
 
 ## Timeline

@@ -74,18 +74,18 @@ Pages that link to **david-huang** (david-huang):
 
 ### People (3)
 
-1. [[people/ching-fang-chen||ching-fang-chen]]
-2. [[people/ching-fang-chen||ching-fang-chen]]
-3. [[people/index||index]]
+1. [[people/ching-fang-chen|ching-fang-chen]]
+2. [[people/ching-fang-chen|ching-fang-chen]]
+3. [[people/index|index]]
 
 ### Organizations (2)
 
-1. [[organizations/good-shepherd-taiwanese-presbyterian-church||good-shepherd-taiwanese-presbyterian-church]]
-2. [[organizations/good-shepherd-taiwanese-presbyterian-church||good-shepherd-taiwanese-presbyterian-church]]
+1. [[organizations/good-shepherd-taiwanese-presbyterian-church|good-shepherd-taiwanese-presbyterian-church]]
+2. [[organizations/good-shepherd-taiwanese-presbyterian-church|good-shepherd-taiwanese-presbyterian-church]]
 
 ### Sources (1)
 
-1. [[sources/good-shepherd-taiwanese-presbyterian-church||good-shepherd-taiwanese-presbyterian-church]]
+1. [[sources/good-shepherd-taiwanese-presbyterian-church|good-shepherd-taiwanese-presbyterian-church]]
 
 ## Sources
 1. [TAH Who’s Who — Rev. David Huang](https://taiwaneseamericanhistory.org/person/rev-david-huang/)

@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-20
+last_reviewed: 2026-08-30
 ---
 
 # Kuan Jen-chien / 管仁健
@@ -54,30 +54,30 @@ Top 10 articles from taiwanjustice.net mentioning guan-renjian:
 
 ## Works
 
-**管仁健** — **4** title hits, **8** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
+**管仁健** — **4** title hits, **8** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
 ### 2025 (1)
 
-1. [[articles/taiwanjustice-net/2025/20250617074121_救總影劇票附勸達15億_管仁健_正當性不足_錢怎_f4764df5291f20f7||救總影劇票附勸達15億，管仁健：正當性不足、錢怎麼用不清不楚]]
+1. [[articles/taiwanjustice-net/2025/20250617074121_救總影劇票附勸達15億_管仁健_正當性不足_錢怎_f4764df5291f20f7|救總影劇票附勸達15億，管仁健：正當性不足、錢怎麼用不清不楚]]
 
 ### 2023 (2)
 
-1. [[articles/taiwanjustice-net/2023/20230408022015_2014_03_14_鄭成功為何要屠殺荷蘭牧師_-_管仁健世界民意網_e1c05d6e27c778a1||鄭成功為何要屠殺荷蘭牧師？ ◎管仁健/世界民意網/ 2014-03-11]]
-2. [[articles/taiwanjustice-net/2023/20230408021914_2014_03_14_鄭成功為何要屠殺荷蘭牧師_-_管仁健世界民意網_6e6932f63d68f87f||鄭成功為何要屠殺荷蘭牧師？ ◎管仁健/世界民意網/ 2014-03-11]]
+1. [[articles/taiwanjustice-net/2023/20230408022015_2014_03_14_鄭成功為何要屠殺荷蘭牧師_-_管仁健世界民意網_e1c05d6e27c778a1|鄭成功為何要屠殺荷蘭牧師？ ◎管仁健/世界民意網/ 2014-03-11]]
+2. [[articles/taiwanjustice-net/2023/20230408021914_2014_03_14_鄭成功為何要屠殺荷蘭牧師_-_管仁健世界民意網_6e6932f63d68f87f|鄭成功為何要屠殺荷蘭牧師？ ◎管仁健/世界民意網/ 2014-03-11]]
 
 ### 2022 (1)
 
-1. [[articles/taiwanjustice-net/2022/20221024173630_2012_07_20_走過那_我不說方言_的荒謬時代_管仁健_著_e3bed10f2f76a3bc||走過那「我不說方言」的荒謬時代（管仁健／著）]]
+1. [[articles/taiwanjustice-net/2022/20221024173630_2012_07_20_走過那_我不說方言_的荒謬時代_管仁健_著_e3bed10f2f76a3bc|走過那「我不說方言」的荒謬時代（管仁健／著）]]
 
 ### Body mentions (8)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2021/20210616083828_2021_06_06_陳昭南專欄_中共企圖_以疫謀統_必先打壓_b619ab019933f6a6||【陳昭南專欄】中共企圖「以疫謀統」，必先打壓台灣「國產疫苗」！]]
-2. [[articles/taiwanjustice-net/2025/20250719151610_陳昭南專欄_中共企圖_以疫謀統_必先打壓_40d20603c1aec828||【陳昭南專欄】中共企圖「以疫謀統」，必先打壓台灣「國產疫苗」！]]
-3. [[articles/taiwanjustice-net/2023/20230508175256_2023_03_23_活在上個世紀的_學者們_習氏中國軍國法西斯_bd35caf1509726d7||活在上個世紀的「學者們」●習氏中國=軍國法西斯  ◎ 陳昭南]]
-4. [[articles/taiwanjustice-net/2022/20220518154903_2022_01_22_陳昭南專欄_支持媒體人趙少康競選台灣總統_0672391ba773ff01||【陳昭南專欄】支持媒體人趙少康競選台灣總統，反對女丑方芳教唆殺人！]]
-5. [[articles/taiwanjustice-net/2025/20250428230552_有力氣打人_還需要讓座給他嗎_-_-林保華_74181ad12376591d||有力氣打人，還需要讓座給他嗎？ ◎ 林保華]]
+1. [[articles/taiwanjustice-net/2021/20210616083828_2021_06_06_陳昭南專欄_中共企圖_以疫謀統_必先打壓_b619ab019933f6a6|【陳昭南專欄】中共企圖「以疫謀統」，必先打壓台灣「國產疫苗」！]]
+2. [[articles/taiwanjustice-net/2025/20250719151610_陳昭南專欄_中共企圖_以疫謀統_必先打壓_40d20603c1aec828|【陳昭南專欄】中共企圖「以疫謀統」，必先打壓台灣「國產疫苗」！]]
+3. [[articles/taiwanjustice-net/2023/20230508175256_2023_03_23_活在上個世紀的_學者們_習氏中國軍國法西斯_bd35caf1509726d7|活在上個世紀的「學者們」●習氏中國=軍國法西斯  ◎ 陳昭南]]
+4. [[articles/taiwanjustice-net/2022/20220518154903_2022_01_22_陳昭南專欄_支持媒體人趙少康競選台灣總統_0672391ba773ff01|【陳昭南專欄】支持媒體人趙少康競選台灣總統，反對女丑方芳教唆殺人！]]
+5. [[articles/taiwanjustice-net/2025/20250428230552_有力氣打人_還需要讓座給他嗎_-_-林保華_74181ad12376591d|有力氣打人，還需要讓座給他嗎？ ◎ 林保華]]
 
 
 ## Timeline

@@ -162,13 +162,13 @@ Pages that link to **yang-xin** (yang-xin):
 
 ### People (3)
 
-1. [[people/john-chiang||john-chiang]]
-2. [[people/liao-shu-zong||liao-shu-zong]]
-3. [[people/shawna-yang-ryan||shawna-yang-ryan]]
+1. [[people/john-chiang|john-chiang]]
+2. [[people/liao-shu-zong|liao-shu-zong]]
+3. [[people/shawna-yang-ryan|shawna-yang-ryan]]
 
 ### Sources (1)
 
-1. [[sources/2017-tahs-publication||2017-tahs-publication]]
+1. [[sources/2017-tahs-publication|2017-tahs-publication]]
 
 ## Source Notes and Confidence
 

@@ -30,16 +30,16 @@ Pages that link to **april-lin** (april-lin):
 
 ### People (5)
 
-1. [[people/he-sumei||he-sumei]]
-2. [[people/shi-yuli||shi-yuli]]
-3. [[people/wang-rongyi||wang-rongyi]]
-4. [[people/wei-boji||wei-boji]]
-5. [[people/xu-shitan||xu-shitan]]
+1. [[people/he-sumei|he-sumei]]
+2. [[people/shi-yuli|shi-yuli]]
+3. [[people/wang-rongyi|wang-rongyi]]
+4. [[people/wei-boji|wei-boji]]
+5. [[people/xu-shitan|xu-shitan]]
 
 ### Organizations (2)
 
-1. [[organizations/taiwan-center||taiwan-center]]
-2. [[organizations/taiwan-center||taiwan-center]]
+1. [[organizations/taiwan-center|taiwan-center]]
+2. [[organizations/taiwan-center|taiwan-center]]
 
 ## Source Notes and Confidence
 

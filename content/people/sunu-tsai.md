@@ -8,7 +8,7 @@ tags:
 name_en: "Sunu Tsai"
 name_zh_hanzi: "蔡淑女"
 verification_status: pending
-last_reviewed: 2026-08-20
+last_reviewed: 2026-08-30
 source_note: "TAHS 2025 organization chart + LINE displayName preferred EN"
 title: "Sunu Tsai (蔡淑女)"
 ---
@@ -46,13 +46,13 @@ This page is an **A-tier thin record** for graph linking and member-priority sco
 
 ## Works
 
-**sunu-tsai** — **0** title hits, **1** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
+**sunu-tsai** — **0** title hits, **1** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
 ### Body mentions (1)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74||台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元]]
+1. [[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74|台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元]]
 
 
 ## Timeline

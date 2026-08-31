@@ -48,11 +48,11 @@ Pages that link to **lien-hwa-chow** (lien-hwa-chow):
 
 ### People (1)
 
-1. [[people/index||index]]
+1. [[people/index|index]]
 
 ### Organizations (1)
 
-1. [[organizations/index||index]]
+1. [[organizations/index|index]]
 
 ## Source Notes and Confidence
 

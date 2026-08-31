@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-20
+last_reviewed: 2026-08-30
 ---
 # Zeng Dao-xiong (曾道雄)
 
@@ -57,30 +57,30 @@ Top 9 articles from taiwanjustice.net mentioning zeng-daoxiong:
 
 ## Works
 
-**曾道雄** — **6** title hits, **3** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
+**曾道雄** — **6** title hits, **3** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
 ### 2025 (3)
 
-1. [[articles/taiwanjustice-net/2025/20250615234929_楊子清老師音樂短講第-19-集_曾道雄老師的老師-楊_c4df307b026e4e27||楊子清老師音樂短講第 19 集：曾道雄老師的老師 – 楊_波柏博士 Dr. Jan Popper]]
-2. [[articles/taiwanjustice-net/2025/20250524193846_楊子清老師音樂短講第-18-集_曾道雄老師的老師們_c2531934bcb3416d||楊子清老師音樂短講第 18 集：曾道雄老師的老師們]]
-3. [[articles/taiwanjustice-net/2025/20250425154204_81歲導演曾道雄不撤演_法雅歌劇為藝文界打氣_5d8629dce62d9a9e||81歲導演曾道雄不撤演，法雅歌劇為藝文界打氣]]
+1. [[articles/taiwanjustice-net/2025/20250615234929_楊子清老師音樂短講第-19-集_曾道雄老師的老師-楊_c4df307b026e4e27|楊子清老師音樂短講第 19 集：曾道雄老師的老師 – 楊_波柏博士 Dr. Jan Popper]]
+2. [[articles/taiwanjustice-net/2025/20250524193846_楊子清老師音樂短講第-18-集_曾道雄老師的老師們_c2531934bcb3416d|楊子清老師音樂短講第 18 集：曾道雄老師的老師們]]
+3. [[articles/taiwanjustice-net/2025/20250425154204_81歲導演曾道雄不撤演_法雅歌劇為藝文界打氣_5d8629dce62d9a9e|81歲導演曾道雄不撤演，法雅歌劇為藝文界打氣]]
 
 ### 2024 (1)
 
-1. [[articles/taiwanjustice-net/2024/20240425115639_root_6d310a75f20d3fe5||千楓新聞_曾道雄領唱_美麗台灣我可愛故鄉 11-05-2013]]
+1. [[articles/taiwanjustice-net/2024/20240425115639_root_6d310a75f20d3fe5|千楓新聞_曾道雄領唱_美麗台灣我可愛故鄉 11-05-2013]]
 
 ### 2021 (2)
 
-1. [[articles/taiwanjustice-net/2021/20210415115540_2021_03_30_楊子清老師音樂短講第-18-集_曾道雄老師的老師們_1765840b16227f20||楊子清老師音樂短講第 18 集：曾道雄老師的老師們]]
-2. [[articles/taiwanjustice-net/2021/20210415105108_2021_03_30_楊子清老師音樂短講第-19-集_曾道雄老師的老師-楊_e9674016ca2e33b4||楊子清老師音樂短講第 19 集：曾道雄老師的老師 – 楊_波柏博士 Dr. Jan Popper]]
+1. [[articles/taiwanjustice-net/2021/20210415115540_2021_03_30_楊子清老師音樂短講第-18-集_曾道雄老師的老師們_1765840b16227f20|楊子清老師音樂短講第 18 集：曾道雄老師的老師們]]
+2. [[articles/taiwanjustice-net/2021/20210415105108_2021_03_30_楊子清老師音樂短講第-19-集_曾道雄老師的老師-楊_e9674016ca2e33b4|楊子清老師音樂短講第 19 集：曾道雄老師的老師 – 楊_波柏博士 Dr. Jan Popper]]
 
 ### Body mentions (3)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2024/20240224201842_root_f7c07fcb0b8856e5||台美人台加人]]
-2. [[articles/taiwanjustice-net/2025/20251013095227_總統府公布遴聘及新聘資政27人國策顧問70人名單_fa7c957f552d76e9||總統府公布遴聘及新聘資政27人國策顧問70人名單]]
-3. [[articles/taiwanjustice-net/2025/20250618184758_199287_5916b4e992bb6156||Taiwan Justice | 台灣公義報]]
+1. [[articles/taiwanjustice-net/2024/20240224201842_root_f7c07fcb0b8856e5|台美人台加人]]
+2. [[articles/taiwanjustice-net/2025/20251013095227_總統府公布遴聘及新聘資政27人國策顧問70人名單_fa7c957f552d76e9|總統府公布遴聘及新聘資政27人國策顧問70人名單]]
+3. [[articles/taiwanjustice-net/2025/20250618184758_199287_5916b4e992bb6156|Taiwan Justice | 台灣公義報]]
 
 
 ## Source Notes

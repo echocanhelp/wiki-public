@@ -36,18 +36,18 @@ Pages that link to **chen-meihui** (chen-meihui):
 
 ### People (3)
 
-1. [[people/index||index]]
-2. [[people/li-furen||li-furen]]
-3. [[people/li-furen||li-furen]]
+1. [[people/index|index]]
+2. [[people/li-furen|li-furen]]
+3. [[people/li-furen|li-furen]]
 
 ### Organizations (2)
 
-1. [[organizations/good-shepherd-taiwanese-presbyterian-church||good-shepherd-taiwanese-presbyterian-church]]
-2. [[organizations/irvine-taiwanese-presbyterian-church||irvine-taiwanese-presbyterian-church]]
+1. [[organizations/good-shepherd-taiwanese-presbyterian-church|good-shepherd-taiwanese-presbyterian-church]]
+2. [[organizations/irvine-taiwanese-presbyterian-church|irvine-taiwanese-presbyterian-church]]
 
 ### Sources (1)
 
-1. [[sources/irvine-taiwanese-presbyterian-church||irvine-taiwanese-presbyterian-church]]
+1. [[sources/irvine-taiwanese-presbyterian-church|irvine-taiwanese-presbyterian-church]]
 
 ## Source Notes and Confidence
 

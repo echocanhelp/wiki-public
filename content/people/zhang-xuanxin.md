@@ -34,19 +34,19 @@ Pages that link to **zhang-xuanxin** (zhang-xuanxin):
 
 ### People (5)
 
-1. [[people/chen-meihui||chen-meihui]]
-2. [[people/chen-meihui||chen-meihui]]
-3. [[people/index||index]]
-4. [[people/li-furen||li-furen]]
-5. [[people/li-furen||li-furen]]
+1. [[people/chen-meihui|chen-meihui]]
+2. [[people/chen-meihui|chen-meihui]]
+3. [[people/index|index]]
+4. [[people/li-furen|li-furen]]
+5. [[people/li-furen|li-furen]]
 
 ### Organizations (1)
 
-1. [[organizations/irvine-taiwanese-presbyterian-church||irvine-taiwanese-presbyterian-church]]
+1. [[organizations/irvine-taiwanese-presbyterian-church|irvine-taiwanese-presbyterian-church]]
 
 ### Sources (1)
 
-1. [[sources/irvine-taiwanese-presbyterian-church||irvine-taiwanese-presbyterian-church]]
+1. [[sources/irvine-taiwanese-presbyterian-church|irvine-taiwanese-presbyterian-church]]
 
 ## Source Notes and Confidence
 - Needs verification: expanded biographical details

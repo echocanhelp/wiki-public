@@ -34,8 +34,8 @@ Pages that link to **li-furen** (li-furen):
 
 ### People (2)
 
-1. [[people/chen-meihui||chen-meihui]]
-2. [[people/index||index]]
+1. [[people/chen-meihui|chen-meihui]]
+2. [[people/index|index]]
 
 ## Source Notes and Confidence
 - Primary source: ITPC official website (https://www.itpc.org.tw/), pastor/leadership page listing 李輔仁牧師 as current pastor (2025–2026).

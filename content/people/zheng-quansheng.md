@@ -30,9 +30,9 @@ Pages that link to **zheng-quansheng** (zheng-quansheng):
 
 ### People (3)
 
-1. [[people/guo-yingyan||guo-yingyan]]
-2. [[people/guo-yingyan||guo-yingyan]]
-3. [[people/index||index]]
+1. [[people/guo-yingyan|guo-yingyan]]
+2. [[people/guo-yingyan|guo-yingyan]]
+3. [[people/index|index]]
 
 ## Source Notes and Confidence
 - Needs verification: expanded biographical details

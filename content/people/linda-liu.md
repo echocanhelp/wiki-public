@@ -8,7 +8,7 @@ tags:
   - board
   - TAHS
 verification_status: owner_verified
-last_reviewed: 2026-08-20
+last_reviewed: 2026-08-30
 sources:
   - https://www.taiwancenter.org/board
   - https://www.taiwancenter.org/
@@ -61,17 +61,17 @@ On 2026-07-25, [[people/leonard-hsu-jr||Leonard Hsu Jr. (許景鴻)]] directed E
 
 ## Works
 
-**linda-liu** — **0** title hits, **7** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
+**linda-liu** — **0** title hits, **7** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
 ### Body mentions (7)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2020/20201118162555_2018_06_27_大洛杉磯台灣會館會訊_2018-年六月-_大洛杉磯台灣_79291dad808ef7f7||大洛杉磯台灣會館會訊，2018 年六月 ◎大洛杉磯台灣會館 2018-06-27]]
-2. [[articles/taiwanjustice-net/2024/20240721101942_root_04f32b14d8cf8f12||台灣會館會訊 #11, 2016-12-17]]
-3. [[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74||台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元]]
-4. [[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66||2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2日舉行]]
-5. [[articles/taiwanjustice-net/2024/20240613093234_root_1d72b2ae61640747||海外小英後援會10月13日洛杉磯造勢大會，林飛帆、何博文助陣]]
+1. [[articles/taiwanjustice-net/2020/20201118162555_2018_06_27_大洛杉磯台灣會館會訊_2018-年六月-_大洛杉磯台灣_79291dad808ef7f7|大洛杉磯台灣會館會訊，2018 年六月 ◎大洛杉磯台灣會館 2018-06-27]]
+2. [[articles/taiwanjustice-net/2024/20240721101942_root_04f32b14d8cf8f12|台灣會館會訊 #11, 2016-12-17]]
+3. [[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74|台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元]]
+4. [[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66|2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2日舉行]]
+5. [[articles/taiwanjustice-net/2024/20240613093234_root_1d72b2ae61640747|海外小英後援會10月13日洛杉磯造勢大會，林飛帆、何博文助陣]]
 
 
 ## Timeline

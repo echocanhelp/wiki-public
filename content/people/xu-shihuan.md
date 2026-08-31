@@ -5,7 +5,7 @@ redirect_to: hsu-shih-huan
 tags:
   - redirect
 verification_status: redirect
-last_reviewed: 2026-08-20
+last_reviewed: 2026-08-30
 ---
 
 # Moved
@@ -16,13 +16,13 @@ Former provisional slug: `xu-shihuan`.
 
 ## Works
 
-**xu-shihuan** — **0** title hits, **1** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
+**xu-shihuan** — **0** title hits, **1** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
 ### Body mentions (1)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38||抗議 南加州台大校友會邀管中閔來年會做專題演講 ◎國立台灣大學校友 2018-07-19]]
+1. [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|抗議 南加州台大校友會邀管中閔來年會做專題演講 ◎國立台灣大學校友 2018-07-19]]
 
 
 ## Quotes

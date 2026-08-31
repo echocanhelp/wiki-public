@@ -68,11 +68,11 @@ Pages that link to **lisa-su** (lisa-su):
 
 ### People (1)
 
-1. [[people/su-chun-huai||su-chun-huai]]
+1. [[people/su-chun-huai|su-chun-huai]]
 
 ### Sources (1)
 
-1. [[sources/2017-tahs-publication||2017-tahs-publication]]
+1. [[sources/2017-tahs-publication|2017-tahs-publication]]
 
 ## Source Notes and Confidence
 

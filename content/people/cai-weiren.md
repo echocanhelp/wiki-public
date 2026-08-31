@@ -49,17 +49,17 @@ Pages that link to **cai-weiren** (cai-weiren):
 
 ### People (2)
 
-1. [[people/index||index]]
-2. [[people/index||index]]
+1. [[people/index|index]]
+2. [[people/index|index]]
 
 ### Organizations (2)
 
-1. [[organizations/good-shepherd-taiwanese-presbyterian-church||good-shepherd-taiwanese-presbyterian-church]]
-2. [[organizations/index||index]]
+1. [[organizations/good-shepherd-taiwanese-presbyterian-church|good-shepherd-taiwanese-presbyterian-church]]
+2. [[organizations/index|index]]
 
 ### Sources (1)
 
-1. [[sources/irvine-taiwanese-presbyterian-church||irvine-taiwanese-presbyterian-church]]
+1. [[sources/irvine-taiwanese-presbyterian-church|irvine-taiwanese-presbyterian-church]]
 
 ## Related Pages
 

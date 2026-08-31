@@ -28,15 +28,15 @@ Pages that link to **simon-lin** (simon-lin):
 
 ### People (1)
 
-1. [[people/ken-wu||ken-wu]]
+1. [[people/ken-wu|ken-wu]]
 
 ### Organizations (1)
 
-1. [[organizations/taiwan-center||taiwan-center]]
+1. [[organizations/taiwan-center|taiwan-center]]
 
 ### Sources (1)
 
-1. [[sources/taiwancenter-org||taiwancenter-org]]
+1. [[sources/taiwancenter-org|taiwancenter-org]]
 
 ## Source Notes and Confidence
 

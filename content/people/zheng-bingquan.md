@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-20
+last_reviewed: 2026-08-30
 ---
 
 # Zheng Bing-quan / 鄭炳全
@@ -57,40 +57,40 @@ Top 10 articles from taiwanjustice.net mentioning zheng-bingquan:
 
 ## Works
 
-**鄭炳全** — **11** title hits, **1101** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
+**鄭炳全** — **11** title hits, **1101** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
 ### 2025 (3)
 
-1. [[articles/taiwanjustice-net/2025/20250518221601_2020-父親節省思-_-鄭炳全_9e40a0c476bdcb3e||2020 父親節省思 ◎ 鄭炳全]]
-2. [[articles/taiwanjustice-net/2025/20250422123615_白目-_-鄭炳全_ec0a3a7d2ca44bd8||白目 ◎ 鄭炳全]]
-3. [[articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16||旅美五十周年 ◎ 鄭炳全]]
+1. [[articles/taiwanjustice-net/2025/20250518221601_2020-父親節省思-_-鄭炳全_9e40a0c476bdcb3e|2020 父親節省思 ◎ 鄭炳全]]
+2. [[articles/taiwanjustice-net/2025/20250422123615_白目-_-鄭炳全_ec0a3a7d2ca44bd8|白目 ◎ 鄭炳全]]
+3. [[articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16|旅美五十周年 ◎ 鄭炳全]]
 
 ### 2024 (6)
 
-1. [[articles/taiwanjustice-net/2024/20240302045006_root_d28fb8cc7aa276a9||鄭炳全專欄]]
-2. [[articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3||旅美五十周年 ◎ 鄭炳全]]
-3. [[articles/taiwanjustice-net/2024/20240302032630_root_bab8519c6175a23d||鄭炳全專欄]]
-4. [[articles/taiwanjustice-net/2024/20240302031437_root_94462e51786e65a9||鄭炳全專欄]]
-5. [[articles/taiwanjustice-net/2024/20240302030103_root_84679a504636036c||鄭炳全專欄]]
-6. [[articles/taiwanjustice-net/2024/20240225150548_root_7f860f63a5da50fc||鄭炳全專欄]]
+1. [[articles/taiwanjustice-net/2024/20240302045006_root_d28fb8cc7aa276a9|鄭炳全專欄]]
+2. [[articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3|旅美五十周年 ◎ 鄭炳全]]
+3. [[articles/taiwanjustice-net/2024/20240302032630_root_bab8519c6175a23d|鄭炳全專欄]]
+4. [[articles/taiwanjustice-net/2024/20240302031437_root_94462e51786e65a9|鄭炳全專欄]]
+5. [[articles/taiwanjustice-net/2024/20240302030103_root_84679a504636036c|鄭炳全專欄]]
+6. [[articles/taiwanjustice-net/2024/20240225150548_root_7f860f63a5da50fc|鄭炳全專欄]]
 
 ### 2023 (1)
 
-1. [[articles/taiwanjustice-net/2023/20231208115508_root_424807cb69255dea||鄭炳全專欄]]
+1. [[articles/taiwanjustice-net/2023/20231208115508_root_424807cb69255dea|鄭炳全專欄]]
 
 ### 2021 (1)
 
-1. [[articles/taiwanjustice-net/2021/20210415104102_2021_03_30_白目-_-鄭炳全_5c6be7cd75f23adf||白目 ◎ 鄭炳全]]
+1. [[articles/taiwanjustice-net/2021/20210415104102_2021_03_30_白目-_-鄭炳全_5c6be7cd75f23adf|白目 ◎ 鄭炳全]]
 
 ### Body mentions (1101)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2024/20240520034013_root_6f2b431c9cb0cca9||台美人台加人]]
-2. [[articles/taiwanjustice-net/2024/20240421185358_root_09926246802abc6a||台美人台加人]]
-3. [[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea||台美人台加人]]
-4. [[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3||台美人台加人]]
-5. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596||台美人台加人]]
+1. [[articles/taiwanjustice-net/2024/20240520034013_root_6f2b431c9cb0cca9|台美人台加人]]
+2. [[articles/taiwanjustice-net/2024/20240421185358_root_09926246802abc6a|台美人台加人]]
+3. [[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea|台美人台加人]]
+4. [[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3|台美人台加人]]
+5. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596|台美人台加人]]
 
 
 ## Timeline

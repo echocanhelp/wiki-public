@@ -8,7 +8,7 @@ tags:
   - leadership
 verification_status: published
 featured: true
-last_reviewed: 2026-08-20
+last_reviewed: 2026-08-30
 ---
 # Leonard Hsu Jr. (許景鴻 / Hsu Ching-Hung)
 
@@ -80,11 +80,11 @@ Primary architect and maintainer of Echopedia, the community knowledge base for 
 
 ## Works
 
-**許景鴻** — **1** title hits, **0** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
+**許景鴻** — **1** title hits, **0** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
 ### 2025 (1)
 
-1. [[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74||台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元]]
+1. [[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74|台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元]]
 
 
 ## Timeline
@@ -103,12 +103,12 @@ Pages that link to **許景鴻** (leonard-hsu-jr):
 
 ### People (6)
 
-1. [[people/david-lee||david-lee]]
-2. [[people/index||index]]
-3. [[people/ken-wu||ken-wu]]
-4. [[people/ken-wu||ken-wu]]
-5. [[people/rex-chen||rex-chen]]
-6. [[people/rex-chen||rex-chen]]
+1. [[people/david-lee|david-lee]]
+2. [[people/index|index]]
+3. [[people/ken-wu|ken-wu]]
+4. [[people/ken-wu|ken-wu]]
+5. [[people/rex-chen|rex-chen]]
+6. [[people/rex-chen|rex-chen]]
 
 ## Quotes
 

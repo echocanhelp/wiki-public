@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-20
+last_reviewed: 2026-08-30
 ---
 # Chin Heng-wei (金恆煒)
 
@@ -60,21 +60,21 @@ Top 10 articles from taiwanjustice.net mentioning jin-hegui:
 
 ## Works
 
-**金恆煒** — **1** title hits, **1167** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
+**金恆煒** — **1** title hits, **1167** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
 ### 2023 (1)
 
-1. [[articles/taiwanjustice-net/2023/20231201232330_root_5983f6745fe29abb||金恆煒專欄]]
+1. [[articles/taiwanjustice-net/2023/20231201232330_root_5983f6745fe29abb|金恆煒專欄]]
 
 ### Body mentions (1167)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2024/20240520034013_root_6f2b431c9cb0cca9||台美人台加人]]
-2. [[articles/taiwanjustice-net/2024/20240421185358_root_09926246802abc6a||台美人台加人]]
-3. [[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea||台美人台加人]]
-4. [[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3||台美人台加人]]
-5. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596||台美人台加人]]
+1. [[articles/taiwanjustice-net/2024/20240520034013_root_6f2b431c9cb0cca9|台美人台加人]]
+2. [[articles/taiwanjustice-net/2024/20240421185358_root_09926246802abc6a|台美人台加人]]
+3. [[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea|台美人台加人]]
+4. [[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3|台美人台加人]]
+5. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596|台美人台加人]]
 
 
 ## Timeline

@@ -46,8 +46,8 @@ Pages that link to **liao-ji-chun** (liao-ji-chun):
 
 ### People (2)
 
-1. [[people/guo-shu-qing||guo-shu-qing]]
-2. [[people/lin-qiong-xian||lin-qiong-xian]]
+1. [[people/guo-shu-qing|guo-shu-qing]]
+2. [[people/lin-qiong-xian|lin-qiong-xian]]
 
 ## Source Notes and Confidence
 

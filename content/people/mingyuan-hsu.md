@@ -85,31 +85,31 @@ Pages that link to **mingyuan-hsu** (mingyuan-hsu):
 
 ### People (12)
 
-1. [[people/albert-s-lai||albert-s-lai]]
-2. [[people/albert-s-lai||albert-s-lai]]
-3. [[people/alexander-macdonald||alexander-macdonald]]
-4. [[people/alexander-macdonald||alexander-macdonald]]
-5. [[people/ching-fang-chen||ching-fang-chen]]
-6. [[people/en-sheng-pan||en-sheng-pan]]
-7. [[people/index||index]]
-8. [[organizations/national-taiwanese-presbyterian-council||ntpc]]
-9. [[people/pinghsi-liu||pinghsi-liu]]
-10. [[people/pinghsi-liu||pinghsi-liu]]
-11. [[people/pingtung-lai||pingtung-lai]]
-12. [[people/yunching-yeh-davis||yunching-yeh-davis]]
+1. [[people/albert-s-lai|albert-s-lai]]
+2. [[people/albert-s-lai|albert-s-lai]]
+3. [[people/alexander-macdonald|alexander-macdonald]]
+4. [[people/alexander-macdonald|alexander-macdonald]]
+5. [[people/ching-fang-chen|ching-fang-chen]]
+6. [[people/en-sheng-pan|en-sheng-pan]]
+7. [[people/index|index]]
+8. [[people/ntpc|ntpc]]
+9. [[people/pinghsi-liu|pinghsi-liu]]
+10. [[people/pinghsi-liu|pinghsi-liu]]
+11. [[people/pingtung-lai|pingtung-lai]]
+12. [[people/yunching-yeh-davis|yunching-yeh-davis]]
 
 ### Organizations (6)
 
-1. [[organizations/good-shepherd-taiwanese-presbyterian-church||good-shepherd-taiwanese-presbyterian-church]]
-2. [[organizations/good-shepherd-taiwanese-presbyterian-church||good-shepherd-taiwanese-presbyterian-church]]
-3. [[organizations/good-shepherd-taiwanese-presbyterian-church||good-shepherd-taiwanese-presbyterian-church]]
-4. [[organizations/good-shepherd-taiwanese-presbyterian-church||good-shepherd-taiwanese-presbyterian-church]]
-5. [[organizations/national-taiwanese-presbyterian-council||national-taiwanese-presbyterian-council]]
-6. [[organizations/national-taiwanese-presbyterian-council||national-taiwanese-presbyterian-council]]
+1. [[organizations/good-shepherd-taiwanese-presbyterian-church|good-shepherd-taiwanese-presbyterian-church]]
+2. [[organizations/good-shepherd-taiwanese-presbyterian-church|good-shepherd-taiwanese-presbyterian-church]]
+3. [[organizations/good-shepherd-taiwanese-presbyterian-church|good-shepherd-taiwanese-presbyterian-church]]
+4. [[organizations/good-shepherd-taiwanese-presbyterian-church|good-shepherd-taiwanese-presbyterian-church]]
+5. [[organizations/national-taiwanese-presbyterian-council|national-taiwanese-presbyterian-council]]
+6. [[organizations/national-taiwanese-presbyterian-council|national-taiwanese-presbyterian-council]]
 
 ### Sources (1)
 
-1. [[sources/toward-a-community-of-hope||toward-a-community-of-hope]]
+1. [[sources/toward-a-community-of-hope|toward-a-community-of-hope]]
 
 ## Related Pages
 

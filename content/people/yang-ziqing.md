@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-20
+last_reviewed: 2026-08-30
 ---
 # Yang Zi-qing (楊子清)
 
@@ -64,51 +64,51 @@ Top 10 articles from taiwanjustice.net mentioning yang-ziqing:
 
 ## Works
 
-**楊子清** — **46** title hits, **1133** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
+**楊子清** — **46** title hits, **1133** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
 ### 2025 (13)
 
-1. [[articles/taiwanjustice-net/2025/20250615234929_楊子清老師音樂短講第-19-集_曾道雄老師的老師-楊_c4df307b026e4e27||楊子清老師音樂短講第 19 集：曾道雄老師的老師 – 楊_波柏博士 Dr. Jan Popper]]
-2. [[articles/taiwanjustice-net/2025/20250614235502_楊子清老師音樂短講第-20-集_子音的唱法_e884b37b14d47041||楊子清老師音樂短講第 20 集：子音的唱法]]
-3. [[articles/taiwanjustice-net/2025/20250524193846_楊子清老師音樂短講第-18-集_曾道雄老師的老師們_c2531934bcb3416d||楊子清老師音樂短講第 18 集：曾道雄老師的老師們]]
-4. [[articles/taiwanjustice-net/2025/20250515102717_楊子清老師音樂短講第4集_從法蘭克辛納屈談唱歌_e78223416703d9ad||楊子清老師音樂短講第4集：從法蘭克辛納屈談唱歌的姿勢和呼吸]]
-5. [[articles/taiwanjustice-net/2025/20250514020655_楊子清老師音樂短講第6集-_科學音名_及_聲音-2_24cfabd686f1d63e||楊子清老師音樂短講第6集: 「科學音名」及「聲音分類」]]
-6. [[articles/taiwanjustice-net/2025/20250328161538_楊子清老師音樂短講第-24-集_vibrato-振音_顫音_c97ba8d2dc4c101b||楊子清老師音樂短講第 24 集：VIBRATO (振音，顫音）]]
-7. [[articles/taiwanjustice-net/2025/20250328023822_楊老師音樂短講第11集_美聲唱法的技巧_5_舞台_4e5188746ae69b5e||楊子清老師音樂短講第11集：美聲唱法的技巧（5）舞台焦慮 Performance anxiety 如何影響 appoggio （聲音的支持）]]
-8. [[articles/taiwanjustice-net/2025/20250327205857_楊子清老師音樂短講第13集_美聲唱法的技巧-7-快速_4119cffe264101c6||楊子清老師音樂短講第13集：美聲唱法的技巧 (7) – 快速音 Agilita]]
+1. [[articles/taiwanjustice-net/2025/20250615234929_楊子清老師音樂短講第-19-集_曾道雄老師的老師-楊_c4df307b026e4e27|楊子清老師音樂短講第 19 集：曾道雄老師的老師 – 楊_波柏博士 Dr. Jan Popper]]
+2. [[articles/taiwanjustice-net/2025/20250614235502_楊子清老師音樂短講第-20-集_子音的唱法_e884b37b14d47041|楊子清老師音樂短講第 20 集：子音的唱法]]
+3. [[articles/taiwanjustice-net/2025/20250524193846_楊子清老師音樂短講第-18-集_曾道雄老師的老師們_c2531934bcb3416d|楊子清老師音樂短講第 18 集：曾道雄老師的老師們]]
+4. [[articles/taiwanjustice-net/2025/20250515102717_楊子清老師音樂短講第4集_從法蘭克辛納屈談唱歌_e78223416703d9ad|楊子清老師音樂短講第4集：從法蘭克辛納屈談唱歌的姿勢和呼吸]]
+5. [[articles/taiwanjustice-net/2025/20250514020655_楊子清老師音樂短講第6集-_科學音名_及_聲音-2_24cfabd686f1d63e|楊子清老師音樂短講第6集: 「科學音名」及「聲音分類」]]
+6. [[articles/taiwanjustice-net/2025/20250328161538_楊子清老師音樂短講第-24-集_vibrato-振音_顫音_c97ba8d2dc4c101b|楊子清老師音樂短講第 24 集：VIBRATO (振音，顫音）]]
+7. [[articles/taiwanjustice-net/2025/20250328023822_楊老師音樂短講第11集_美聲唱法的技巧_5_舞台_4e5188746ae69b5e|楊子清老師音樂短講第11集：美聲唱法的技巧（5）舞台焦慮 Performance anxiety 如何影響 appoggio （聲音的支持）]]
+8. [[articles/taiwanjustice-net/2025/20250327205857_楊子清老師音樂短講第13集_美聲唱法的技巧-7-快速_4119cffe264101c6|楊子清老師音樂短講第13集：美聲唱法的技巧 (7) – 快速音 Agilita]]
 - … 5 more this year
 
 ### 2024 (20)
 
-1. [[articles/taiwanjustice-net/2024/20240620180413_root_f8d74b0d3433a7da||楊子清老師音樂短講第5集：聲區與轉變點 Registers & Passaggio]]
-2. [[articles/taiwanjustice-net/2024/20240520035521_root_ebf851fd932db114||楊子清 Cliff Yang 音樂教室]]
-3. [[articles/taiwanjustice-net/2024/20240520035138_root_5ecf554261e91317||楊子清老師音樂短講第11集：美聲唱法的技巧（5）舞台焦慮 Performance anxiety 如何影響 appoggio （聲音的支持）]]
-4. [[articles/taiwanjustice-net/2024/20240520032857_root_52e81637dd2f5acc||楊子清老師音樂短講第6集: 「科學音名」及「聲音分類」]]
-5. [[articles/taiwanjustice-net/2024/20240520032202_root_71757af70f5003cd||楊子清 Cliff Yang 音樂教室]]
-6. [[articles/taiwanjustice-net/2024/20240520031310_root_cdb00218834ece8d||楊子清老師音樂短講第 16 集：美聲唱法的技巧（10）messa di voce, 「漸強漸弱」suoni filato「長音」的技巧]]
-7. [[articles/taiwanjustice-net/2024/20240520025929_root_85e61e2f8484264c||楊子清老師音樂短講第6集: 「科學音名」及「聲音分類」]]
-8. [[articles/taiwanjustice-net/2024/20240520024922_root_018e7c815f2d9529||楊子清老師音樂短講第12集：美聲唱法的技巧 (6) 呼吸練習 Breathing Exercises]]
+1. [[articles/taiwanjustice-net/2024/20240620180413_root_f8d74b0d3433a7da|楊子清老師音樂短講第5集：聲區與轉變點 Registers & Passaggio]]
+2. [[articles/taiwanjustice-net/2024/20240520035521_root_ebf851fd932db114|楊子清 Cliff Yang 音樂教室]]
+3. [[articles/taiwanjustice-net/2024/20240520035138_root_5ecf554261e91317|楊子清老師音樂短講第11集：美聲唱法的技巧（5）舞台焦慮 Performance anxiety 如何影響 appoggio （聲音的支持）]]
+4. [[articles/taiwanjustice-net/2024/20240520032857_root_52e81637dd2f5acc|楊子清老師音樂短講第6集: 「科學音名」及「聲音分類」]]
+5. [[articles/taiwanjustice-net/2024/20240520032202_root_71757af70f5003cd|楊子清 Cliff Yang 音樂教室]]
+6. [[articles/taiwanjustice-net/2024/20240520031310_root_cdb00218834ece8d|楊子清老師音樂短講第 16 集：美聲唱法的技巧（10）messa di voce, 「漸強漸弱」suoni filato「長音」的技巧]]
+7. [[articles/taiwanjustice-net/2024/20240520025929_root_85e61e2f8484264c|楊子清老師音樂短講第6集: 「科學音名」及「聲音分類」]]
+8. [[articles/taiwanjustice-net/2024/20240520024922_root_018e7c815f2d9529|楊子清老師音樂短講第12集：美聲唱法的技巧 (6) 呼吸練習 Breathing Exercises]]
 - … 12 more this year
 
 ### 2023 (1)
 
-1. [[articles/taiwanjustice-net/2023/20231208135418_root_9295254ae421b0ad||楊子清 Cliff Yang 音樂教室]]
+1. [[articles/taiwanjustice-net/2023/20231208135418_root_9295254ae421b0ad|楊子清 Cliff Yang 音樂教室]]
 
 ### 2021 (10)
 
-1. [[articles/taiwanjustice-net/2021/20210724181700_2021_07_09_楊子清老師音樂短講第-23-集_聲樂上_平衡_的重_c3bf18a70550825b||楊子清老師音樂短講第 23 集：聲樂上「平衡」的重要性]]
-2. [[articles/taiwanjustice-net/2021/20210415115540_2021_03_30_楊子清老師音樂短講第-18-集_曾道雄老師的老師們_1765840b16227f20||楊子清老師音樂短講第 18 集：曾道雄老師的老師們]]
-3. [[articles/taiwanjustice-net/2021/20210415110711_2021_03_30_楊子清老師音樂短講第-20-集_子音的唱法_28c409e86c2f8aa1||楊子清老師音樂短講第 20 集：子音的唱法]]
-4. [[articles/taiwanjustice-net/2021/20210415105108_2021_03_30_楊子清老師音樂短講第-19-集_曾道雄老師的老師-楊_e9674016ca2e33b4||楊子清老師音樂短講第 19 集：曾道雄老師的老師 – 楊_波柏博士 Dr. Jan Popper]]
-5. [[articles/taiwanjustice-net/2021/20210303210055_2021_01_17_楊子清老師音樂短講第-15-集_美聲唱法的技巧_9_9e21c11a25f25781||楊子清老師音樂短講第 15 集：美聲唱法的技巧（9）換氣 fiato，休止 pausa 與節奏 ritmo]]
-6. [[articles/taiwanjustice-net/2021/20210225170809_2021_01_17_楊子清老師音樂短講第-16-集_美聲唱法的技巧_10_messa_2856f28688e5274a||楊子清老師音樂短講第 16 集：美聲唱法的技巧（10）messa di voce, 「漸強漸弱」suoni filato「長音」的技巧]]
-7. [[articles/taiwanjustice-net/2021/20210225155115_2021_01_17_楊子清老師音樂短講第-14-集_美聲唱法的技巧_8_f6b19e71e1cca965||楊子清老師音樂短講第 14 集：美聲唱法的技巧（8）快速音 Agilita]]
-8. [[articles/taiwanjustice-net/2021/20210128090128_2020_12_13_楊老師音樂短講第11集_美聲唱法的技巧_5_舞台_7f0e6003d6bcb060||楊子清老師音樂短講第11集：美聲唱法的技巧（5）舞台焦慮 Performance anxiety 如何影響 appoggio （聲音的支持）]]
+1. [[articles/taiwanjustice-net/2021/20210724181700_2021_07_09_楊子清老師音樂短講第-23-集_聲樂上_平衡_的重_c3bf18a70550825b|楊子清老師音樂短講第 23 集：聲樂上「平衡」的重要性]]
+2. [[articles/taiwanjustice-net/2021/20210415115540_2021_03_30_楊子清老師音樂短講第-18-集_曾道雄老師的老師們_1765840b16227f20|楊子清老師音樂短講第 18 集：曾道雄老師的老師們]]
+3. [[articles/taiwanjustice-net/2021/20210415110711_2021_03_30_楊子清老師音樂短講第-20-集_子音的唱法_28c409e86c2f8aa1|楊子清老師音樂短講第 20 集：子音的唱法]]
+4. [[articles/taiwanjustice-net/2021/20210415105108_2021_03_30_楊子清老師音樂短講第-19-集_曾道雄老師的老師-楊_e9674016ca2e33b4|楊子清老師音樂短講第 19 集：曾道雄老師的老師 – 楊_波柏博士 Dr. Jan Popper]]
+5. [[articles/taiwanjustice-net/2021/20210303210055_2021_01_17_楊子清老師音樂短講第-15-集_美聲唱法的技巧_9_9e21c11a25f25781|楊子清老師音樂短講第 15 集：美聲唱法的技巧（9）換氣 fiato，休止 pausa 與節奏 ritmo]]
+6. [[articles/taiwanjustice-net/2021/20210225170809_2021_01_17_楊子清老師音樂短講第-16-集_美聲唱法的技巧_10_messa_2856f28688e5274a|楊子清老師音樂短講第 16 集：美聲唱法的技巧（10）messa di voce, 「漸強漸弱」suoni filato「長音」的技巧]]
+7. [[articles/taiwanjustice-net/2021/20210225155115_2021_01_17_楊子清老師音樂短講第-14-集_美聲唱法的技巧_8_f6b19e71e1cca965|楊子清老師音樂短講第 14 集：美聲唱法的技巧（8）快速音 Agilita]]
+8. [[articles/taiwanjustice-net/2021/20210128090128_2020_12_13_楊老師音樂短講第11集_美聲唱法的技巧_5_舞台_7f0e6003d6bcb060|楊子清老師音樂短講第11集：美聲唱法的技巧（5）舞台焦慮 Performance anxiety 如何影響 appoggio （聲音的支持）]]
 - … 2 more this year
 
 ### 2020 (1)
 
-1. [[articles/taiwanjustice-net/2020/20201126143332_2020_10_26_楊子清老師音樂短講第-10-集_美聲唱法技巧_4_appoggio_ac7d3b460cc6fdca||楊子清老師音樂短講第 10 集：美聲唱法技巧（4）Appoggio (支持)]]
+1. [[articles/taiwanjustice-net/2020/20201126143332_2020_10_26_楊子清老師音樂短講第-10-集_美聲唱法技巧_4_appoggio_ac7d3b460cc6fdca|楊子清老師音樂短講第 10 集：美聲唱法技巧（4）Appoggio (支持)]]
 
 Earlier years: **1** additional title hits (not listed).
 
@@ -116,11 +116,11 @@ Earlier years: **1** additional title hits (not listed).
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2024/20240520034013_root_6f2b431c9cb0cca9||台美人台加人]]
-2. [[articles/taiwanjustice-net/2024/20240421185358_root_09926246802abc6a||台美人台加人]]
-3. [[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea||台美人台加人]]
-4. [[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3||台美人台加人]]
-5. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596||台美人台加人]]
+1. [[articles/taiwanjustice-net/2024/20240520034013_root_6f2b431c9cb0cca9|台美人台加人]]
+2. [[articles/taiwanjustice-net/2024/20240421185358_root_09926246802abc6a|台美人台加人]]
+3. [[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea|台美人台加人]]
+4. [[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3|台美人台加人]]
+5. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596|台美人台加人]]
 
 
 ## Timeline

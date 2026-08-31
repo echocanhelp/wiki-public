@@ -59,23 +59,23 @@ Pages that link to **ching-fang-chen** (ching-fang-chen):
 
 ### People (7)
 
-1. [[people/albert-s-lai||albert-s-lai]]
-2. [[people/albert-s-lai||albert-s-lai]]
-3. [[people/en-sheng-pan||en-sheng-pan]]
-4. [[people/index||index]]
-5. [[organizations/national-taiwanese-presbyterian-council||ntpc]]
-6. [[people/pinghsi-liu||pinghsi-liu]]
-7. [[people/yunching-yeh-davis||yunching-yeh-davis]]
+1. [[people/albert-s-lai|albert-s-lai]]
+2. [[people/albert-s-lai|albert-s-lai]]
+3. [[people/en-sheng-pan|en-sheng-pan]]
+4. [[people/index|index]]
+5. [[people/ntpc|ntpc]]
+6. [[people/pinghsi-liu|pinghsi-liu]]
+7. [[people/yunching-yeh-davis|yunching-yeh-davis]]
 
 ### Organizations (3)
 
-1. [[organizations/national-taiwanese-presbyterian-council||national-taiwanese-presbyterian-council]]
-2. [[organizations/national-taiwanese-presbyterian-council||national-taiwanese-presbyterian-council]]
-3. [[organizations/national-taiwanese-presbyterian-council||national-taiwanese-presbyterian-council]]
+1. [[organizations/national-taiwanese-presbyterian-council|national-taiwanese-presbyterian-council]]
+2. [[organizations/national-taiwanese-presbyterian-council|national-taiwanese-presbyterian-council]]
+3. [[organizations/national-taiwanese-presbyterian-council|national-taiwanese-presbyterian-council]]
 
 ### Sources (1)
 
-1. [[sources/toward-a-community-of-hope||toward-a-community-of-hope]]
+1. [[sources/toward-a-community-of-hope|toward-a-community-of-hope]]
 
 ## Source Notes and Confidence
 

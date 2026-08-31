@@ -9,7 +9,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-21
+last_reviewed: 2026-08-30
 birthdate: 1953-12-26
 birth_year: 1953
 hometown: 黑龍江省北安市
@@ -86,25 +86,25 @@ Top 10 articles from taiwanjustice.net mentioning cao-changqing:
 
 ## Works
 
-**曹長青** — **2** title hits, **8** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
+**曹長青** — **2** title hits, **8** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
 ### 2024 (1)
 
-1. [[articles/taiwanjustice-net/2024/20240723031812_root_1c8797085340c22e||南海仲裁下的台灣錯亂 ◎曹長青/ 自由亞洲電台/ 2016-7-13]]
+1. [[articles/taiwanjustice-net/2024/20240723031812_root_1c8797085340c22e|南海仲裁下的台灣錯亂 ◎曹長青/ 自由亞洲電台/ 2016-7-13]]
 
 ### 2023 (1)
 
-1. [[articles/taiwanjustice-net/2023/20230530144628_2014_05_25_中國-五四運動是文革的前奏-_曹長青-自由亞洲電_c35692b8983d628e||(中國) 五四運動是文革的前奏 ◎曹長青/ 自由亞洲電台/ 2014-5-21]]
+1. [[articles/taiwanjustice-net/2023/20230530144628_2014_05_25_中國-五四運動是文革的前奏-_曹長青-自由亞洲電_c35692b8983d628e|(中國) 五四運動是文革的前奏 ◎曹長青/ 自由亞洲電台/ 2014-5-21]]
 
 ### Body mentions (8)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2024/20240715140333_root_de6de376c47e0ff9||余杰專欄]]
-2. [[articles/taiwanjustice-net/2024/20240225024102_root_007591e506ba808a||中國史地]]
-3. [[articles/taiwanjustice-net/2024/20240225025037_root_699f2233935f825a||政黨輪替與轉型正義]]
-4. [[articles/taiwanjustice-net/2024/20240520034714_root_ccf151b93949c861||國安局應徹查愛國同心會 ◎范姜提昂/自由時報 2016-12-21]]
-5. [[articles/taiwanjustice-net/2017/20171220122506_2017_10_09_金恒煒專欄_斬斷_綁票_政治學-自由時報-2017-10-10_60534cb81c5fb307||《金恒煒專欄》斬斷「綁票」政治學/ 自由時報/ 2017-10-10]]
+1. [[articles/taiwanjustice-net/2024/20240715140333_root_de6de376c47e0ff9|余杰專欄]]
+2. [[articles/taiwanjustice-net/2024/20240225024102_root_007591e506ba808a|中國史地]]
+3. [[articles/taiwanjustice-net/2024/20240225025037_root_699f2233935f825a|政黨輪替與轉型正義]]
+4. [[articles/taiwanjustice-net/2024/20240520034714_root_ccf151b93949c861|國安局應徹查愛國同心會 ◎范姜提昂/自由時報 2016-12-21]]
+5. [[articles/taiwanjustice-net/2017/20171220122506_2017_10_09_金恒煒專欄_斬斷_綁票_政治學-自由時報-2017-10-10_60534cb81c5fb307|《金恒煒專欄》斬斷「綁票」政治學/ 自由時報/ 2017-10-10]]
 
 
 ## Timeline

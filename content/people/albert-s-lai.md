@@ -13,7 +13,7 @@ tags:
   - 2025-republication
 verification_status: published
 featured: true
-last_reviewed: 2026-08-20
+last_reviewed: 2026-08-30
 ---
 # Dr. Albert S. Lai (賴信雄)
 
@@ -249,17 +249,17 @@ Dr. Lai's dissertation, written in 1971, is described as "not only a profound de
 
 ## Works
 
-**albert-s-lai** — **0** title hits, **92** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
+**albert-s-lai** — **0** title hits, **92** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
 ### Body mentions (92)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2026/20260210173508_2021大洛杉磯台灣會館228事件線上追思紀念會與系列活_ac0c255ef64908a5||2021大洛杉磯台灣會館228事件線上追思紀念會與系列活動]]
-2. [[articles/taiwanjustice-net/2026/20260125131405_第五屆國際醫療典範獎頒獎典禮_在台灣舉行_a8bd530e85c30548||「第五屆國際醫療典範獎頒獎典禮」在台灣舉行．北美洲臺灣人醫師協會義診團及沈裕明醫師報雙喜]]
-3. [[articles/taiwanjustice-net/2026/20260118105817_國台辦訓斥國民黨_馬英九就立刻表態效忠-_陳昭_44fcb678ea0c3f42||國台辦訓斥國民黨　馬英九就立刻表態效忠  ◎陳昭南]]
-4. [[articles/taiwanjustice-net/2026/20260121005456_史達偉_美台經濟對話為三公報及台灣關係法允許_c09409335151d4ee||史達偉：美台經濟對話為三公報及台灣關係法允許，北京不應有激烈反應]]
-5. [[articles/taiwanjustice-net/2026/20260125054313_美亞太助卿_破壞穩定行為來自北京_非台北或華_eb53870fed17d6a1||美亞太助卿：破壞穩定行為來自北京，非台北或華府]]
+1. [[articles/taiwanjustice-net/2026/20260210173508_2021大洛杉磯台灣會館228事件線上追思紀念會與系列活_ac0c255ef64908a5|2021大洛杉磯台灣會館228事件線上追思紀念會與系列活動]]
+2. [[articles/taiwanjustice-net/2026/20260125131405_第五屆國際醫療典範獎頒獎典禮_在台灣舉行_a8bd530e85c30548|「第五屆國際醫療典範獎頒獎典禮」在台灣舉行．北美洲臺灣人醫師協會義診團及沈裕明醫師報雙喜]]
+3. [[articles/taiwanjustice-net/2026/20260118105817_國台辦訓斥國民黨_馬英九就立刻表態效忠-_陳昭_44fcb678ea0c3f42|國台辦訓斥國民黨　馬英九就立刻表態效忠  ◎陳昭南]]
+4. [[articles/taiwanjustice-net/2026/20260121005456_史達偉_美台經濟對話為三公報及台灣關係法允許_c09409335151d4ee|史達偉：美台經濟對話為三公報及台灣關係法允許，北京不應有激烈反應]]
+5. [[articles/taiwanjustice-net/2026/20260125054313_美亞太助卿_破壞穩定行為來自北京_非台北或華_eb53870fed17d6a1|美亞太助卿：破壞穩定行為來自北京，非台北或華府]]
 
 
 ## Network
@@ -269,51 +269,51 @@ Pages that link to **賴信雄** (albert-s-lai):
 
 ### People (26)
 
-1. [[people/albert-chapter1-audiobook-consent-and-recording-kit||albert-chapter1-audiobook-consent-and-recording-kit]]
-2. [[people/albert-chapter1-audiobook-taiwanese-female||albert-chapter1-audiobook-taiwanese-female]]
-3. [[people/c-c-chen||c-c-chen]]
-4. [[people/c-c-chen||c-c-chen]]
-5. [[people/chaolong-kao||chaolong-kao]]
-6. [[people/chaolong-kao||chaolong-kao]]
-7. [[people/ching-fang-chen||ching-fang-chen]]
-8. [[people/ching-fang-chen||ching-fang-chen]]
-9. [[people/daniel-kao||daniel-kao]]
-10. [[people/daniel-kao||daniel-kao]]
-11. [[people/en-sheng-pan||en-sheng-pan]]
-12. [[people/en-sheng-pan||en-sheng-pan]]
-13. [[people/fpcla||fpcla]]
-14. [[people/index||index]]
-15. [[people/jonah-chang||jonah-chang]]
-16. [[people/mingyuan-hsu||mingyuan-hsu]]
-17. [[organizations/national-taiwanese-presbyterian-council||ntpc]]
-18. [[people/pinghsi-liu||pinghsi-liu]]
-19. [[people/pinghsi-liu||pinghsi-liu]]
-20. [[people/pingtung-lai||pingtung-lai]]
-21. [[people/pingtung-lai||pingtung-lai]]
-22. [[people/san-francisco-theological-seminary||san-francisco-theological-seminary]]
-23. [[people/yunching-yeh-davis||yunching-yeh-davis]]
-24. [[people/yunching-yeh-davis||yunching-yeh-davis]]
-25. [[people/zhou-wei-liang||zhou-wei-liang]]
-26. [[people/zhou-wei-lin||zhou-wei-lin]]
+1. [[people/albert-chapter1-audiobook-consent-and-recording-kit|albert-chapter1-audiobook-consent-and-recording-kit]]
+2. [[people/albert-chapter1-audiobook-taiwanese-female|albert-chapter1-audiobook-taiwanese-female]]
+3. [[people/c-c-chen|c-c-chen]]
+4. [[people/c-c-chen|c-c-chen]]
+5. [[people/chaolong-kao|chaolong-kao]]
+6. [[people/chaolong-kao|chaolong-kao]]
+7. [[people/ching-fang-chen|ching-fang-chen]]
+8. [[people/ching-fang-chen|ching-fang-chen]]
+9. [[people/daniel-kao|daniel-kao]]
+10. [[people/daniel-kao|daniel-kao]]
+11. [[people/en-sheng-pan|en-sheng-pan]]
+12. [[people/en-sheng-pan|en-sheng-pan]]
+13. [[people/fpcla|fpcla]]
+14. [[people/index|index]]
+15. [[people/jonah-chang|jonah-chang]]
+16. [[people/mingyuan-hsu|mingyuan-hsu]]
+17. [[people/ntpc|ntpc]]
+18. [[people/pinghsi-liu|pinghsi-liu]]
+19. [[people/pinghsi-liu|pinghsi-liu]]
+20. [[people/pingtung-lai|pingtung-lai]]
+21. [[people/pingtung-lai|pingtung-lai]]
+22. [[people/san-francisco-theological-seminary|san-francisco-theological-seminary]]
+23. [[people/yunching-yeh-davis|yunching-yeh-davis]]
+24. [[people/yunching-yeh-davis|yunching-yeh-davis]]
+25. [[people/zhou-wei-liang|zhou-wei-liang]]
+26. [[people/zhou-wei-lin|zhou-wei-lin]]
 
 ### Organizations (8)
 
-1. [[organizations/democratic-progressive-party||democratic-progressive-party]]
-2. [[organizations/democratic-progressive-party||democratic-progressive-party]]
-3. [[organizations/formosan-presbyterian-church-in-los-angeles||formosan-presbyterian-church-in-los-angeles]]
-4. [[organizations/formosan-presbyterian-church-in-los-angeles||formosan-presbyterian-church-in-los-angeles]]
-5. [[organizations/index||index]]
-6. [[organizations/national-taiwanese-presbyterian-council||national-taiwanese-presbyterian-council]]
-7. [[organizations/national-taiwanese-presbyterian-council||national-taiwanese-presbyterian-council]]
-8. [[organizations/national-taiwanese-presbyterian-council||national-taiwanese-presbyterian-council]]
+1. [[organizations/democratic-progressive-party|democratic-progressive-party]]
+2. [[organizations/democratic-progressive-party|democratic-progressive-party]]
+3. [[organizations/formosan-presbyterian-church-in-los-angeles|formosan-presbyterian-church-in-los-angeles]]
+4. [[organizations/formosan-presbyterian-church-in-los-angeles|formosan-presbyterian-church-in-los-angeles]]
+5. [[organizations/index|index]]
+6. [[organizations/national-taiwanese-presbyterian-council|national-taiwanese-presbyterian-council]]
+7. [[organizations/national-taiwanese-presbyterian-council|national-taiwanese-presbyterian-council]]
+8. [[organizations/national-taiwanese-presbyterian-council|national-taiwanese-presbyterian-council]]
 
 ### Sources (5)
 
-1. [[sources/toward-a-community-of-hope||toward-a-community-of-hope]]
-2. [[sources/toward-a-community-of-hope||toward-a-community-of-hope]]
-3. [[sources/toward-a-community-of-hope||toward-a-community-of-hope]]
-4. [[sources/wikipedia-democratic-progressive-party||wikipedia-democratic-progressive-party]]
-5. [[sources/wikipedia-democratic-progressive-party||wikipedia-democratic-progressive-party]]
+1. [[sources/toward-a-community-of-hope|toward-a-community-of-hope]]
+2. [[sources/toward-a-community-of-hope|toward-a-community-of-hope]]
+3. [[sources/toward-a-community-of-hope|toward-a-community-of-hope]]
+4. [[sources/wikipedia-democratic-progressive-party|wikipedia-democratic-progressive-party]]
+5. [[sources/wikipedia-democratic-progressive-party|wikipedia-democratic-progressive-party]]
 
 ## Quotes
 

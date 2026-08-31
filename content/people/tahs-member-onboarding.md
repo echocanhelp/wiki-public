@@ -51,8 +51,8 @@ Pages that link to **tahs-member-onboarding** (tahs-member-onboarding):
 
 ### People (2)
 
-1. [[people/david-lee||david-lee]]
-2. [[people/index||index]]
+1. [[people/david-lee|david-lee]]
+2. [[people/index|index]]
 
 ## Related Pages
 

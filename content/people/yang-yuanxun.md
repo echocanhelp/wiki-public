@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-20
+last_reviewed: 2026-08-30
 ---
 
 # Yang Yuan-xun / 楊遠薰
@@ -57,55 +57,55 @@ Top 10 articles from taiwanjustice.net mentioning yang-yuanxun:
 
 ## Works
 
-**楊遠薰** — **32** title hits, **1100** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
+**楊遠薰** — **32** title hits, **1100** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
 ### 2025 (6)
 
-1. [[articles/taiwanjustice-net/2025/20250323083527_鄒族的人權軼史2-談高一生_湯守仁及其後代們_0a802dbb2b6b82be||鄒族的人權軼史(2)—談高一生、湯守仁及其後代們的故事  ◎楊遠薰]]
-2. [[articles/taiwanjustice-net/2025/20250323083207_卓甫良與taf的故事-_-楊遠薰_e7aad53f3e593fde||卓甫良與TAF的故事   ◎ 楊遠薰]]
-3. [[articles/taiwanjustice-net/2025/20250323073344_台灣鄒族的人權軼史1-談高一生_湯守仁及其後_e37f7dec742a70a0||台灣鄒族的人權軼史(1)—談高一生、湯守仁及其後代們的故事  ◎ 楊遠薰]]
-4. [[articles/taiwanjustice-net/2025/20250323073306_懷念彭昕醫師-_-楊遠薰_80e2a87a17215263||懷念彭昕醫師  ◎ 楊遠薰]]
-5. [[articles/taiwanjustice-net/2025/20250321225637_鄒族的人權軼史3-談高一生_湯守仁及其後代們_173b9920e3c76153||鄒族的人權軼史(3)—談高一生、湯守仁及其後代們的故事 ◎楊遠薰]]
-6. [[articles/taiwanjustice-net/2025/20250317182314_50年薪火相傳_台美人何去何從-_台美人的形成和_a6c4bac5e0007d86||*50年薪火相傳，台美人何去何從* 【台美人的形成和延續】/ 7/ 17 楊遠薰主講]]
+1. [[articles/taiwanjustice-net/2025/20250323083527_鄒族的人權軼史2-談高一生_湯守仁及其後代們_0a802dbb2b6b82be|鄒族的人權軼史(2)—談高一生、湯守仁及其後代們的故事  ◎楊遠薰]]
+2. [[articles/taiwanjustice-net/2025/20250323083207_卓甫良與taf的故事-_-楊遠薰_e7aad53f3e593fde|卓甫良與TAF的故事   ◎ 楊遠薰]]
+3. [[articles/taiwanjustice-net/2025/20250323073344_台灣鄒族的人權軼史1-談高一生_湯守仁及其後_e37f7dec742a70a0|台灣鄒族的人權軼史(1)—談高一生、湯守仁及其後代們的故事  ◎ 楊遠薰]]
+4. [[articles/taiwanjustice-net/2025/20250323073306_懷念彭昕醫師-_-楊遠薰_80e2a87a17215263|懷念彭昕醫師  ◎ 楊遠薰]]
+5. [[articles/taiwanjustice-net/2025/20250321225637_鄒族的人權軼史3-談高一生_湯守仁及其後代們_173b9920e3c76153|鄒族的人權軼史(3)—談高一生、湯守仁及其後代們的故事 ◎楊遠薰]]
+6. [[articles/taiwanjustice-net/2025/20250317182314_50年薪火相傳_台美人何去何從-_台美人的形成和_a6c4bac5e0007d86|*50年薪火相傳，台美人何去何從* 【台美人的形成和延續】/ 7/ 17 楊遠薰主講]]
 
 ### 2024 (15)
 
-1. [[articles/taiwanjustice-net/2024/20240723022135_root_d3c8399729f03df5||亂世奇緣  ◎ 楊遠薰]]
-2. [[articles/taiwanjustice-net/2024/20240527043449_root_2c122cd9a2bbcda7||台美人的未來(上)  ◎ 楊遠薰 2017-09-16]]
-3. [[articles/taiwanjustice-net/2024/20240527042331_root_479870e6ff7a000a||台美人的未來(下)  ◎  楊遠薰 2017-09-16]]
-4. [[articles/taiwanjustice-net/2024/20240523010214_root_3260cd0bdf2f84d7||海台青與黑客松 ◎ 楊遠薰 2017-07-24]]
-5. [[articles/taiwanjustice-net/2024/20240523002141_root_55800f68d391f8b3||*50年薪火相傳，台美人何去何從* 【台美人的形成和延續】/ 7/ 17 楊遠薰主講]]
-6. [[articles/taiwanjustice-net/2024/20240522235843_root_d2dbfe220e437602||2017年美東台灣人夏令會 ◎ 楊遠薰 報導 2017-07-09]]
-7. [[articles/taiwanjustice-net/2024/20240302044449_root_774f949138376cfe||鄒族的人權軼史(2)—談高一生、湯守仁及其後代們的故事  ◎楊遠薰]]
-8. [[articles/taiwanjustice-net/2024/20240302043638_root_ce801dced77a5434||楊遠薰專欄]]
+1. [[articles/taiwanjustice-net/2024/20240723022135_root_d3c8399729f03df5|亂世奇緣  ◎ 楊遠薰]]
+2. [[articles/taiwanjustice-net/2024/20240527043449_root_2c122cd9a2bbcda7|台美人的未來(上)  ◎ 楊遠薰 2017-09-16]]
+3. [[articles/taiwanjustice-net/2024/20240527042331_root_479870e6ff7a000a|台美人的未來(下)  ◎  楊遠薰 2017-09-16]]
+4. [[articles/taiwanjustice-net/2024/20240523010214_root_3260cd0bdf2f84d7|海台青與黑客松 ◎ 楊遠薰 2017-07-24]]
+5. [[articles/taiwanjustice-net/2024/20240523002141_root_55800f68d391f8b3|*50年薪火相傳，台美人何去何從* 【台美人的形成和延續】/ 7/ 17 楊遠薰主講]]
+6. [[articles/taiwanjustice-net/2024/20240522235843_root_d2dbfe220e437602|2017年美東台灣人夏令會 ◎ 楊遠薰 報導 2017-07-09]]
+7. [[articles/taiwanjustice-net/2024/20240302044449_root_774f949138376cfe|鄒族的人權軼史(2)—談高一生、湯守仁及其後代們的故事  ◎楊遠薰]]
+8. [[articles/taiwanjustice-net/2024/20240302043638_root_ce801dced77a5434|楊遠薰專欄]]
 - … 7 more this year
 
 ### 2023 (2)
 
-1. [[articles/taiwanjustice-net/2023/20231208132712_root_664948386d74676d||楊遠薰專欄]]
-2. [[articles/taiwanjustice-net/2023/20230326051734_2020_09_01_台灣鄒族的人權軼史1-談高一生_湯守仁及其後_39053e8619209356||台灣鄒族的人權軼史(1)—談高一生、湯守仁及其後代們的故事  ◎ 楊遠薰]]
+1. [[articles/taiwanjustice-net/2023/20231208132712_root_664948386d74676d|楊遠薰專欄]]
+2. [[articles/taiwanjustice-net/2023/20230326051734_2020_09_01_台灣鄒族的人權軼史1-談高一生_湯守仁及其後_39053e8619209356|台灣鄒族的人權軼史(1)—談高一生、湯守仁及其後代們的故事  ◎ 楊遠薰]]
 
 ### 2021 (9)
 
-1. [[articles/taiwanjustice-net/2021/20211207130826_2021_07_02_50年薪火相傳_台美人何去何從-_台美人的形成和_3f43018d1e63a212||*50年薪火相傳，台美人何去何從* 【台美人的形成和延續】/ 7/ 17 楊遠薰主講]]
-2. [[articles/taiwanjustice-net/2021/20211207123518_2017_07_24_海台青與黑客松-_-楊遠薰-2017-07-24_2c9cb76838702dd7||海台青與黑客松 ◎ 楊遠薰 2017-07-24]]
-3. [[articles/taiwanjustice-net/2021/20211205054150_2017_07_10_2017年美東台灣人夏令會-_-楊遠薰-報導-2017-07-09_29faf54b8c9e2d10||2017年美東台灣人夏令會 ◎ 楊遠薰 報導 2017-07-09]]
-4. [[articles/taiwanjustice-net/2021/20211205053227_2020_09_02_鄒族的人權軼史2-談高一生_湯守仁及其後代們_970edcc33bd0b1c0||鄒族的人權軼史(2)—談高一生、湯守仁及其後代們的故事 ◎楊遠薰]]
-5. [[articles/taiwanjustice-net/2021/20211205045601_2020_09_04_鄒族的人權軼史3-談高一生_湯守仁及其後代們_18197d1bd3ced300||鄒族的人權軼史(3)—談高一生、湯守仁及其後代們的故事 ◎楊遠薰]]
-6. [[articles/taiwanjustice-net/2021/20211205044940_2017_09_16_台美人的未來下-_-楊遠薰-2017-09-16_74e3a048f3caeb26||台美人的未來(下) ◎ 楊遠薰 2017-09-16]]
-7. [[articles/taiwanjustice-net/2021/20211205043442_2017_09_16_台美人的未來上-_-楊遠薰-2017-09-16_2ea7bed1b6d2e2ce||台美人的未來(上) ◎ 楊遠薰 2017-09-16]]
-8. [[articles/taiwanjustice-net/2021/20211205041636_2021_06_22_卓甫良與taf的故事-_-楊遠薰_f06677a469620539||卓甫良與TAF的故事 ◎ 楊遠薰]]
+1. [[articles/taiwanjustice-net/2021/20211207130826_2021_07_02_50年薪火相傳_台美人何去何從-_台美人的形成和_3f43018d1e63a212|*50年薪火相傳，台美人何去何從* 【台美人的形成和延續】/ 7/ 17 楊遠薰主講]]
+2. [[articles/taiwanjustice-net/2021/20211207123518_2017_07_24_海台青與黑客松-_-楊遠薰-2017-07-24_2c9cb76838702dd7|海台青與黑客松 ◎ 楊遠薰 2017-07-24]]
+3. [[articles/taiwanjustice-net/2021/20211205054150_2017_07_10_2017年美東台灣人夏令會-_-楊遠薰-報導-2017-07-09_29faf54b8c9e2d10|2017年美東台灣人夏令會 ◎ 楊遠薰 報導 2017-07-09]]
+4. [[articles/taiwanjustice-net/2021/20211205053227_2020_09_02_鄒族的人權軼史2-談高一生_湯守仁及其後代們_970edcc33bd0b1c0|鄒族的人權軼史(2)—談高一生、湯守仁及其後代們的故事 ◎楊遠薰]]
+5. [[articles/taiwanjustice-net/2021/20211205045601_2020_09_04_鄒族的人權軼史3-談高一生_湯守仁及其後代們_18197d1bd3ced300|鄒族的人權軼史(3)—談高一生、湯守仁及其後代們的故事 ◎楊遠薰]]
+6. [[articles/taiwanjustice-net/2021/20211205044940_2017_09_16_台美人的未來下-_-楊遠薰-2017-09-16_74e3a048f3caeb26|台美人的未來(下) ◎ 楊遠薰 2017-09-16]]
+7. [[articles/taiwanjustice-net/2021/20211205043442_2017_09_16_台美人的未來上-_-楊遠薰-2017-09-16_2ea7bed1b6d2e2ce|台美人的未來(上) ◎ 楊遠薰 2017-09-16]]
+8. [[articles/taiwanjustice-net/2021/20211205041636_2021_06_22_卓甫良與taf的故事-_-楊遠薰_f06677a469620539|卓甫良與TAF的故事 ◎ 楊遠薰]]
 - … 1 more this year
 
 ### Body mentions (1100)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2024/20240520034013_root_6f2b431c9cb0cca9||台美人台加人]]
-2. [[articles/taiwanjustice-net/2024/20240421185358_root_09926246802abc6a||台美人台加人]]
-3. [[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea||台美人台加人]]
-4. [[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3||台美人台加人]]
-5. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596||台美人台加人]]
+1. [[articles/taiwanjustice-net/2024/20240520034013_root_6f2b431c9cb0cca9|台美人台加人]]
+2. [[articles/taiwanjustice-net/2024/20240421185358_root_09926246802abc6a|台美人台加人]]
+3. [[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea|台美人台加人]]
+4. [[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3|台美人台加人]]
+5. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596|台美人台加人]]
 
 
 ## Timeline

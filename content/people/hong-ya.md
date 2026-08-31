@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-20
+last_reviewed: 2026-08-30
 ---
 # Hong Ya (洪雅)
 
@@ -60,27 +60,27 @@ Top 10 articles from taiwanjustice.net mentioning hong-ya:
 
 ## Works
 
-**洪雅** — **4** title hits, **47** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
+**洪雅** — **4** title hits, **47** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
 ### 2025 (3)
 
-1. [[articles/taiwanjustice-net/2025/20251206003830_股市亮點-_125-_-chgg-chegg-inc-_扶丁-洪雅_3bb4af14472374ea||股市亮點 （125 ） CHGG ( Chegg, Inc. )  ◎扶丁 洪雅]]
-2. [[articles/taiwanjustice-net/2025/20250518220302_股市亮點-_128-_-crl-charles-river-labs-_扶丁-洪雅_b4f19344a84628b2||股市亮點 （128 ） CRL ( Charles River Labs. )◎扶丁 洪雅]]
-3. [[articles/taiwanjustice-net/2025/20250515200440_股市亮點-_121_ter-teradyne-_扶丁-洪雅_2bd54d77171e7730||股市亮點 （121）TER ( Teradyne ) ◎扶丁 洪雅]]
+1. [[articles/taiwanjustice-net/2025/20251206003830_股市亮點-_125-_-chgg-chegg-inc-_扶丁-洪雅_3bb4af14472374ea|股市亮點 （125 ） CHGG ( Chegg, Inc. )  ◎扶丁 洪雅]]
+2. [[articles/taiwanjustice-net/2025/20250518220302_股市亮點-_128-_-crl-charles-river-labs-_扶丁-洪雅_b4f19344a84628b2|股市亮點 （128 ） CRL ( Charles River Labs. )◎扶丁 洪雅]]
+3. [[articles/taiwanjustice-net/2025/20250515200440_股市亮點-_121_ter-teradyne-_扶丁-洪雅_2bd54d77171e7730|股市亮點 （121）TER ( Teradyne ) ◎扶丁 洪雅]]
 
 ### 2020 (1)
 
-1. [[articles/taiwanjustice-net/2020/20200623154326_2020_06_21_股市亮點-_121_ter-teradyne-_扶丁-洪雅_aaa3f7a20747f3a4||股市亮點 （121）TER ( Teradyne ) ◎扶丁 洪雅]]
+1. [[articles/taiwanjustice-net/2020/20200623154326_2020_06_21_股市亮點-_121_ter-teradyne-_扶丁-洪雅_aaa3f7a20747f3a4|股市亮點 （121）TER ( Teradyne ) ◎扶丁 洪雅]]
 
 ### Body mentions (47)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2024/20240225010015_root_98c2db4fe9f79102||股市亮點]]
-2. [[articles/taiwanjustice-net/2020/20201220100700_2020_12_02_股市亮點_167-amd-advanced-micro-devices_6f0896677c9e2c1e||股市亮點（167) AMD ( Advanced Micro Devices )]]
-3. [[articles/taiwanjustice-net/2020/20201022173605_2020_10_01_股市亮點-_137_podd-insulet-corp_79129d9f40928e43||股市亮點 （137）PODD ( Insulet Corp. )]]
-4. [[articles/taiwanjustice-net/2023/20230530150718_2020_12_24_股市亮點_174_-gbtc-grayscale-bitcoin-trust-otc_b7bc3b2fa691f6bd||股市亮點（174） GBTC ( Grayscale Bitcoin Trust, OTC )]]
-5. [[articles/taiwanjustice-net/2020/20201219211915_2020_12_11_股市亮點_172_grmn-garmin-ltd_bf49664a03ffdcd0||股市亮點（172）GRMN ( Garmin Ltd. )]]
+1. [[articles/taiwanjustice-net/2024/20240225010015_root_98c2db4fe9f79102|股市亮點]]
+2. [[articles/taiwanjustice-net/2020/20201220100700_2020_12_02_股市亮點_167-amd-advanced-micro-devices_6f0896677c9e2c1e|股市亮點（167) AMD ( Advanced Micro Devices )]]
+3. [[articles/taiwanjustice-net/2020/20201022173605_2020_10_01_股市亮點-_137_podd-insulet-corp_79129d9f40928e43|股市亮點 （137）PODD ( Insulet Corp. )]]
+4. [[articles/taiwanjustice-net/2023/20230530150718_2020_12_24_股市亮點_174_-gbtc-grayscale-bitcoin-trust-otc_b7bc3b2fa691f6bd|股市亮點（174） GBTC ( Grayscale Bitcoin Trust, OTC )]]
+5. [[articles/taiwanjustice-net/2020/20201219211915_2020_12_11_股市亮點_172_grmn-garmin-ltd_bf49664a03ffdcd0|股市亮點（172）GRMN ( Garmin Ltd. )]]
 
 
 ## Source Notes

@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-20
+last_reviewed: 2026-08-30
 ---
 
 # Li Hsiao-feng / 李筱峰
@@ -57,30 +57,30 @@ Top 10 articles from taiwanjustice.net mentioning li-xiaofeng:
 
 ## Works
 
-**李筱峰** — **4** title hits, **1170** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
+**李筱峰** — **4** title hits, **1170** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
 ### 2025 (1)
 
-1. [[articles/taiwanjustice-net/2025/20251013095458_論文爭議-綠質疑國民黨雙重標準_藍_尊重各大學_fc0d002e81c66dfb||論文爭議 綠質疑國民黨雙重標準，藍：尊重各大學認定，李筱峰開酸KMT]]
+1. [[articles/taiwanjustice-net/2025/20251013095458_論文爭議-綠質疑國民黨雙重標準_藍_尊重各大學_fc0d002e81c66dfb|論文爭議 綠質疑國民黨雙重標準，藍：尊重各大學認定，李筱峰開酸KMT]]
 
 ### 2023 (1)
 
-1. [[articles/taiwanjustice-net/2023/20231208135952_root_d85b93a314e0ac96||台灣地方自古不屬中國/李筱峰/系列;1-5]]
+1. [[articles/taiwanjustice-net/2023/20231208135952_root_d85b93a314e0ac96|台灣地方自古不屬中國/李筱峰/系列;1-5]]
 
 ### 2017 (2)
 
-1. [[articles/taiwanjustice-net/2017/20171109042223_台灣文化_台灣地方自古不屬中國李筱峰系列1-5_6cab943cc303723c||台灣地方自古不屬中國/李筱峰/系列;1-5]]
-2. [[articles/taiwanjustice-net/2017/20171107225307_2017_11_05_賤民罵人賤民-_李筱峰-民報-2017-11-05_87cfa9d1a8156142||賤民罵人賤民 ◎李筱峰 / 民報 2017-11-05]]
+1. [[articles/taiwanjustice-net/2017/20171109042223_台灣文化_台灣地方自古不屬中國李筱峰系列1-5_6cab943cc303723c|台灣地方自古不屬中國/李筱峰/系列;1-5]]
+2. [[articles/taiwanjustice-net/2017/20171107225307_2017_11_05_賤民罵人賤民-_李筱峰-民報-2017-11-05_87cfa9d1a8156142|賤民罵人賤民 ◎李筱峰 / 民報 2017-11-05]]
 
 ### Body mentions (1170)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2024/20240520034013_root_6f2b431c9cb0cca9||台美人台加人]]
-2. [[articles/taiwanjustice-net/2024/20240421185358_root_09926246802abc6a||台美人台加人]]
-3. [[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea||台美人台加人]]
-4. [[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3||台美人台加人]]
-5. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596||台美人台加人]]
+1. [[articles/taiwanjustice-net/2024/20240520034013_root_6f2b431c9cb0cca9|台美人台加人]]
+2. [[articles/taiwanjustice-net/2024/20240421185358_root_09926246802abc6a|台美人台加人]]
+3. [[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea|台美人台加人]]
+4. [[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3|台美人台加人]]
+5. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596|台美人台加人]]
 
 
 ## Timeline

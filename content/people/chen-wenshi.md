@@ -11,7 +11,7 @@ tags:
   - entrepreneur
   - painter
 verification_status: pending
-last_reviewed: 2026-08-20
+last_reviewed: 2026-08-30
 ---
 # Stone Chen (陳文石)
 
@@ -138,25 +138,25 @@ Education **conflict, keep both:** 2023 TAHS pub: 1960 成大外文, 1964 gradua
 
 ## Works
 
-**chen-wenshi** — **2** title hits, **5** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
+**chen-wenshi** — **2** title hits, **5** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
 ### 2025 (1)
 
-1. [[articles/taiwanjustice-net/2025/20251205211626_看寶石激發創作靈感_陳文石相隔28年返台展畫_4036955fa8493ebc||看寶石激發創作靈感，陳文石相隔28年返台展畫]]
+1. [[articles/taiwanjustice-net/2025/20251205211626_看寶石激發創作靈感_陳文石相隔28年返台展畫_4036955fa8493ebc|看寶石激發創作靈感，陳文石相隔28年返台展畫]]
 
 ### 2024 (1)
 
-1. [[articles/taiwanjustice-net/2024/20240225151323_root_622221d578f3cb3e||蘇奕榮．陳文石藝壇雙傑 台南台江文化中心跨年展[影]]]
+1. [[articles/taiwanjustice-net/2024/20240225151323_root_622221d578f3cb3e|蘇奕榮．陳文石藝壇雙傑 台南台江文化中心跨年展[影]]]
 
 ### Body mentions (5)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b||2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]]
-2. [[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6||2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]]
-3. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596||台美人台加人]]
-4. [[articles/taiwanjustice-net/2024/20240224182938_root_c998eeb8ae0eb037||台灣人文藝術]]
-5. [[articles/taiwanjustice-net/2024/20240724234326_root_cd2062fe6528223c||The Beauty of Taiwan-Heart of Asia Exhibition & Art Talk 台灣之美‧亞洲之心國際巡迴展 4/1~2,]]
+1. [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]]
+2. [[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6|2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]]
+3. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596|台美人台加人]]
+4. [[articles/taiwanjustice-net/2024/20240224182938_root_c998eeb8ae0eb037|台灣人文藝術]]
+5. [[articles/taiwanjustice-net/2024/20240724234326_root_cd2062fe6528223c|The Beauty of Taiwan-Heart of Asia Exhibition & Art Talk 台灣之美‧亞洲之心國際巡迴展 4/1~2,]]
 
 
 ## Timeline

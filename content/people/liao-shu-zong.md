@@ -10,7 +10,7 @@ tags:
   - democratic-activist
 verification_status: pending
 featured: true
-last_reviewed: 2026-08-20
+last_reviewed: 2026-08-30
 ---
 # Liao Shu-zong (廖述宗)
 
@@ -278,28 +278,28 @@ He passed away in 2017. A memorial tribute was written by 楊嘉猷 (Charles Yan
 
 ## Works
 
-**liao-shu-zong** — **4** title hits, **3** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
+**liao-shu-zong** — **4** title hits, **3** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
 ### 2025 (2)
 
-1. [[articles/taiwanjustice-net/2025/20251108180838_榮獲廖述宗教授紀念獎_罷韓四君子_是肯定每個_d2e6e5b19ab4b452||榮獲廖述宗教授紀念獎，罷韓四君子：是肯定每個夥伴]]
-2. [[articles/taiwanjustice-net/2025/20250328063830_2020年第6屆_natpa-廖述宗教授紀念獎_接受推薦_c74aa78d01af7084||2020年第6屆「NATPA 廖述宗教授紀念獎」接受推薦]]
+1. [[articles/taiwanjustice-net/2025/20251108180838_榮獲廖述宗教授紀念獎_罷韓四君子_是肯定每個_d2e6e5b19ab4b452|榮獲廖述宗教授紀念獎，罷韓四君子：是肯定每個夥伴]]
+2. [[articles/taiwanjustice-net/2025/20250328063830_2020年第6屆_natpa-廖述宗教授紀念獎_接受推薦_c74aa78d01af7084|2020年第6屆「NATPA 廖述宗教授紀念獎」接受推薦]]
 
 ### 2024 (1)
 
-1. [[articles/taiwanjustice-net/2024/20240528135924_root_357eb029de9402e8||2015年第一屆「NATPA 廖述宗教授紀念獎」記者會 ◎台灣公義網攝錄]]
+1. [[articles/taiwanjustice-net/2024/20240528135924_root_357eb029de9402e8|2015年第一屆「NATPA 廖述宗教授紀念獎」記者會 ◎台灣公義網攝錄]]
 
 ### 2023 (1)
 
-1. [[articles/taiwanjustice-net/2023/20230130104507_2018_08_06_獲廖述宗紀念獎肯定-林昶佐_繼續全力以赴打拚-_9e34883dc9bc8948||獲廖述宗紀念獎肯定 林昶佐：繼續全力以赴打拚 ◎中央社 2018-08-06]]
+1. [[articles/taiwanjustice-net/2023/20230130104507_2018_08_06_獲廖述宗紀念獎肯定-林昶佐_繼續全力以赴打拚-_9e34883dc9bc8948|獲廖述宗紀念獎肯定 林昶佐：繼續全力以赴打拚 ◎中央社 2018-08-06]]
 
 ### Body mentions (3)
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2022/20220927144814_2022_06_27_唐山打人事件顯示中國已淪為_蠅國_-余杰_982bb72dd4fe3353||唐山打人事件顯示中國已淪為「蠅國」◎ 余杰]]
-2. [[articles/taiwanjustice-net/2024/20240619172639_root_9c55093535c7aca4||唐山打人事件顯示中國已淪為「蠅國」◎ 余杰]]
-3. [[articles/taiwanjustice-net/2025/20250213033003_唐山打人事件顯示中國已淪為_蠅國_-余杰_ae7f270f52c6cf8f||唐山打人事件顯示中國已淪為「蠅國」◎ 余杰]]
+1. [[articles/taiwanjustice-net/2022/20220927144814_2022_06_27_唐山打人事件顯示中國已淪為_蠅國_-余杰_982bb72dd4fe3353|唐山打人事件顯示中國已淪為「蠅國」◎ 余杰]]
+2. [[articles/taiwanjustice-net/2024/20240619172639_root_9c55093535c7aca4|唐山打人事件顯示中國已淪為「蠅國」◎ 余杰]]
+3. [[articles/taiwanjustice-net/2025/20250213033003_唐山打人事件顯示中國已淪為_蠅國_-余杰_ae7f270f52c6cf8f|唐山打人事件顯示中國已淪為「蠅國」◎ 余杰]]
 
 
 ## Timeline
@@ -335,23 +335,23 @@ Pages that link to **廖述宗** (liao-shu-zong):
 
 ### People (8)
 
-1. [[people/guo-shu-qing||guo-shu-qing]]
-2. [[people/liao-ji-chun||liao-ji-chun]]
-3. [[people/lin-chao-chi||lin-chao-chi]]
-4. [[people/lin-chao-quan||lin-chao-quan]]
-5. [[people/lin-qiong-xian||lin-qiong-xian]]
-6. [[people/wang-gui-rong||wang-gui-rong]]
-7. [[people/wang-neng-xiang||wang-neng-xiang]]
-8. [[people/yang-xin||yang-xin]]
+1. [[people/guo-shu-qing|guo-shu-qing]]
+2. [[people/liao-ji-chun|liao-ji-chun]]
+3. [[people/lin-chao-chi|lin-chao-chi]]
+4. [[people/lin-chao-quan|lin-chao-quan]]
+5. [[people/lin-qiong-xian|lin-qiong-xian]]
+6. [[people/wang-gui-rong|wang-gui-rong]]
+7. [[people/wang-neng-xiang|wang-neng-xiang]]
+8. [[people/yang-xin|yang-xin]]
 
 ### Organizations (1)
 
-1. [[organizations/taiwanese-american-historical-society||taiwanese-american-historical-society]]
+1. [[organizations/taiwanese-american-historical-society|taiwanese-american-historical-society]]
 
 ### Sources (2)
 
-1. [[sources/2017-tahs-publication||2017-tahs-publication]]
-2. [[sources/2017-tahs-publication||2017-tahs-publication]]
+1. [[sources/2017-tahs-publication|2017-tahs-publication]]
+2. [[sources/2017-tahs-publication|2017-tahs-publication]]
 
 ## Quotes
 

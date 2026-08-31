@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-20
+last_reviewed: 2026-08-30
 birthdate: 1942-12-11
 birth_year: 1942
 hometown: 台北市
@@ -64,66 +64,66 @@ Top 10 articles from taiwanjustice.net mentioning chen-zhaonan:
 
 ## Works
 
-**陳昭南** — **378** title hits, **1178** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net||taiwanjustice.net]].
+**陳昭南** — **378** title hits, **1178** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
 
 ### 2026 (35)
 
-1. [[articles/taiwanjustice-net/2026/20260211101947_習維尼不敢賭_只要敢犯台_中共必定會倒台-_b157f5743d371903||習維尼不敢賭　只要敢犯台，中共必定會倒台  ◎ 陳昭南]]
-2. [[articles/taiwanjustice-net/2026/20260211094059_躍上世界的台灣_美日專機在松山機場交會-_-陳_f3b20e5993045d94||躍上世界的台灣　美日專機在松山機場交會  ◎ 陳昭南]]
-3. [[articles/taiwanjustice-net/2026/20260210185326_普京入侵烏克蘭_國民黨還在唱和中共_思念一紙_ea5adbd77aebe256||普京入侵烏克蘭，國民黨還在唱和中共，思念一紙「和平協議」！◎ 陳昭南]]
-4. [[articles/taiwanjustice-net/2026/20260209114033_美國家安全顧問_要讓中共為他們的所為承擔後果_c1b749db4976c98d||美國家安全顧問：要讓中共為他們的所為承擔後果 ◎ 陳昭南]]
-5. [[articles/taiwanjustice-net/2026/20260209104102_國民黨的草包們_羅明才何以不敢譴責入侵者_-_c8bcfe02d4e87a1c||國民黨的草包們●羅明才何以不敢譴責入侵者？ ◎ 陳昭南]]
-6. [[articles/taiwanjustice-net/2026/20260208201656_呷飽換夭_草包韓又一次破功敗退_-陳昭南_f6c4af9c02826be2||呷飽換夭　草包韓又一次破功敗退！◎ 陳昭南]]
-7. [[articles/taiwanjustice-net/2026/20260125130832_台灣喜迎美國次卿訪台_馬曉光又語無倫次了_-2_98e230eaaaca9791||台灣喜迎美國次卿訪台　馬曉光又語無倫次了！◎ 陳昭南]]
-8. [[articles/taiwanjustice-net/2026/20260125120444_習近平找不到朋友_只剩馬英九甘當中共代言人_ac3434889ced3ead||習近平找不到朋友　只剩馬英九甘當中共代言人！◎ 陳昭南]]
+1. [[articles/taiwanjustice-net/2026/20260211101947_習維尼不敢賭_只要敢犯台_中共必定會倒台-_b157f5743d371903|習維尼不敢賭　只要敢犯台，中共必定會倒台  ◎ 陳昭南]]
+2. [[articles/taiwanjustice-net/2026/20260211094059_躍上世界的台灣_美日專機在松山機場交會-_-陳_f3b20e5993045d94|躍上世界的台灣　美日專機在松山機場交會  ◎ 陳昭南]]
+3. [[articles/taiwanjustice-net/2026/20260210185326_普京入侵烏克蘭_國民黨還在唱和中共_思念一紙_ea5adbd77aebe256|普京入侵烏克蘭，國民黨還在唱和中共，思念一紙「和平協議」！◎ 陳昭南]]
+4. [[articles/taiwanjustice-net/2026/20260209114033_美國家安全顧問_要讓中共為他們的所為承擔後果_c1b749db4976c98d|美國家安全顧問：要讓中共為他們的所為承擔後果 ◎ 陳昭南]]
+5. [[articles/taiwanjustice-net/2026/20260209104102_國民黨的草包們_羅明才何以不敢譴責入侵者_-_c8bcfe02d4e87a1c|國民黨的草包們●羅明才何以不敢譴責入侵者？ ◎ 陳昭南]]
+6. [[articles/taiwanjustice-net/2026/20260208201656_呷飽換夭_草包韓又一次破功敗退_-陳昭南_f6c4af9c02826be2|呷飽換夭　草包韓又一次破功敗退！◎ 陳昭南]]
+7. [[articles/taiwanjustice-net/2026/20260125130832_台灣喜迎美國次卿訪台_馬曉光又語無倫次了_-2_98e230eaaaca9791|台灣喜迎美國次卿訪台　馬曉光又語無倫次了！◎ 陳昭南]]
+8. [[articles/taiwanjustice-net/2026/20260125120444_習近平找不到朋友_只剩馬英九甘當中共代言人_ac3434889ced3ead|習近平找不到朋友　只剩馬英九甘當中共代言人！◎ 陳昭南]]
 - … 27 more this year
 
 ### 2025 (152)
 
-1. [[articles/taiwanjustice-net/2025/20251214081848_習維尼受困窮中戰略_中共權貴_沉船計畫_曝光_698876de714809e1||習維尼受困窮中戰略　中共權貴「沉船計畫」曝光 ◎ 陳昭南]]
-2. [[articles/taiwanjustice-net/2025/20251214073730_厲害了_我的國_凡犯我中華帝國者雖遠必誅_1efe1036a2cb37e0||「厲害了，我的國」凡犯我中華帝國者雖遠必誅！◎ 陳昭南]]
-3. [[articles/taiwanjustice-net/2025/20251214072637_川普下令逐_匪諜_-中共宣布自美_撤僑_-陳_b0bfbc714694dfe6||川普下令逐「匪諜」    中共宣布自美「撤僑」◎ 陳昭南]]
-4. [[articles/taiwanjustice-net/2025/20251211214403_國民黨兩難_白賊和唬爛兩人pk_誰厲害_-_-陳昭_521adf12b1ddedab||國民黨兩難：白賊和唬爛兩人PK，誰厲害？ ◎ 陳昭南]]
-5. [[articles/taiwanjustice-net/2025/20251211213125_柯p會宣布支持草包韓_眾小黨砲轟之-_陳昭南_0e5e88a7da8d42cf||柯P會宣布支持草包韓　眾小黨砲轟之  ◎陳昭南]]
-6. [[articles/taiwanjustice-net/2025/20251211210836_北約轉移對抗焦點_共同圍堵中國軍力擴張-_-陳_5eb67476c00b4c95||北約轉移對抗焦點，共同圍堵中國軍力擴張  ◎ 陳昭南]]
-7. [[articles/taiwanjustice-net/2025/20251210214658_駭客攻陷了總統府-鬼見愁一上任就是一場震撼-_fc45cdef8f69b1f8||駭客攻陷了總統府    鬼見愁一上任就是一場震撼  ◎ 陳昭南]]
-8. [[articles/taiwanjustice-net/2025/20251210213401_英國內閣考慮台英建交_罷韓割草加溫中_-_-陳昭_7bb922980f5e8446||英國內閣考慮台英建交　罷韓割草加溫中！ ◎ 陳昭南]]
+1. [[articles/taiwanjustice-net/2025/20251214081848_習維尼受困窮中戰略_中共權貴_沉船計畫_曝光_698876de714809e1|習維尼受困窮中戰略　中共權貴「沉船計畫」曝光 ◎ 陳昭南]]
+2. [[articles/taiwanjustice-net/2025/20251214073730_厲害了_我的國_凡犯我中華帝國者雖遠必誅_1efe1036a2cb37e0|「厲害了，我的國」凡犯我中華帝國者雖遠必誅！◎ 陳昭南]]
+3. [[articles/taiwanjustice-net/2025/20251214072637_川普下令逐_匪諜_-中共宣布自美_撤僑_-陳_b0bfbc714694dfe6|川普下令逐「匪諜」    中共宣布自美「撤僑」◎ 陳昭南]]
+4. [[articles/taiwanjustice-net/2025/20251211214403_國民黨兩難_白賊和唬爛兩人pk_誰厲害_-_-陳昭_521adf12b1ddedab|國民黨兩難：白賊和唬爛兩人PK，誰厲害？ ◎ 陳昭南]]
+5. [[articles/taiwanjustice-net/2025/20251211213125_柯p會宣布支持草包韓_眾小黨砲轟之-_陳昭南_0e5e88a7da8d42cf|柯P會宣布支持草包韓　眾小黨砲轟之  ◎陳昭南]]
+6. [[articles/taiwanjustice-net/2025/20251211210836_北約轉移對抗焦點_共同圍堵中國軍力擴張-_-陳_5eb67476c00b4c95|北約轉移對抗焦點，共同圍堵中國軍力擴張  ◎ 陳昭南]]
+7. [[articles/taiwanjustice-net/2025/20251210214658_駭客攻陷了總統府-鬼見愁一上任就是一場震撼-_fc45cdef8f69b1f8|駭客攻陷了總統府    鬼見愁一上任就是一場震撼  ◎ 陳昭南]]
+8. [[articles/taiwanjustice-net/2025/20251210213401_英國內閣考慮台英建交_罷韓割草加溫中_-_-陳昭_7bb922980f5e8446|英國內閣考慮台英建交　罷韓割草加溫中！ ◎ 陳昭南]]
 - … 144 more this year
 
 ### 2024 (16)
 
-1. [[articles/taiwanjustice-net/2024/20240721105421_root_4ad1b085af081aab||敗選反省   綠委提：從「外造」改造為「內造」！◎ 陳昭南  《六都春秋》2018-12-03]]
-2. [[articles/taiwanjustice-net/2024/20240719115405_root_0ccda808cde1ab46||習天子認輸了●美中貿易大戰勝負已定 ◎ 陳昭南  《六都春秋》2018-05-14]]
-3. [[articles/taiwanjustice-net/2024/20240716124951_root_96ef8c3b6d147992||中共威脅要抓美國人．台灣人，還敢去匪區嗎？◎ 陳昭南]]
-4. [[articles/taiwanjustice-net/2024/20240716124242_root_27f9bda9de574161||天網啟動，中共將全面實施「公民等級計分」◎ 陳昭南【六都春秋】2018-05-11]]
-5. [[articles/taiwanjustice-net/2024/20240716115612_root_b90278205666591f||好戲上場：菲共打中共；菲國民兵打中共民兵 ◎ 陳昭南]]
-6. [[articles/taiwanjustice-net/2024/20240716114856_root_ff0b086166d18bbc||【陳昭南專欄】國民黨的末日時刻即臨●柯P坐等接收戰果]]
-7. [[articles/taiwanjustice-net/2024/20240713174435_root_304cd151c0a96f74||戴資穎球場衛冕封后●林淑芬國會仗義嗆官 ◎陳昭南【六都春秋】2018-05-01]]
-8. [[articles/taiwanjustice-net/2024/20240620192554_root_fd77ca90e9a1dbec||未經「北京同意」，國民黨敢改「92共識」？  ◎ 陳昭南]]
+1. [[articles/taiwanjustice-net/2024/20240721105421_root_4ad1b085af081aab|敗選反省   綠委提：從「外造」改造為「內造」！◎ 陳昭南  《六都春秋》2018-12-03]]
+2. [[articles/taiwanjustice-net/2024/20240719115405_root_0ccda808cde1ab46|習天子認輸了●美中貿易大戰勝負已定 ◎ 陳昭南  《六都春秋》2018-05-14]]
+3. [[articles/taiwanjustice-net/2024/20240716124951_root_96ef8c3b6d147992|中共威脅要抓美國人．台灣人，還敢去匪區嗎？◎ 陳昭南]]
+4. [[articles/taiwanjustice-net/2024/20240716124242_root_27f9bda9de574161|天網啟動，中共將全面實施「公民等級計分」◎ 陳昭南【六都春秋】2018-05-11]]
+5. [[articles/taiwanjustice-net/2024/20240716115612_root_b90278205666591f|好戲上場：菲共打中共；菲國民兵打中共民兵 ◎ 陳昭南]]
+6. [[articles/taiwanjustice-net/2024/20240716114856_root_ff0b086166d18bbc|【陳昭南專欄】國民黨的末日時刻即臨●柯P坐等接收戰果]]
+7. [[articles/taiwanjustice-net/2024/20240713174435_root_304cd151c0a96f74|戴資穎球場衛冕封后●林淑芬國會仗義嗆官 ◎陳昭南【六都春秋】2018-05-01]]
+8. [[articles/taiwanjustice-net/2024/20240620192554_root_fd77ca90e9a1dbec|未經「北京同意」，國民黨敢改「92共識」？  ◎ 陳昭南]]
 - … 8 more this year
 
 ### 2023 (21)
 
-1. [[articles/taiwanjustice-net/2023/20231201225920_root_3b2ce0e0274e5349||陳昭南觀點]]
-2. [[articles/taiwanjustice-net/2023/20231001015558_2023_05_13_岸田企圖使日成為軍事強國_北約將在東京設_辦_061cacf82bd62f46||岸田企圖使日成為軍事強國，北約將在東京設「辦事處」！◎ 陳昭南]]
-3. [[articles/taiwanjustice-net/2023/20230923044138_2023_06_25_習近平要柯文哲選總統_請先問問台灣人同意嗎_e1d005a146f2150e||習近平要柯文哲選總統，請先問問台灣人同意嗎？ ◎陳昭南]]
-4. [[articles/taiwanjustice-net/2023/20230923035611_2023_06_18_美簽署_台美貿易倡議_將促使台灣經濟_脫中入_6b3bb78ff521c915||美簽署「台美貿易倡議」將促使台灣經濟「脫中入美」！  ◎ 陳昭南]]
-5. [[articles/taiwanjustice-net/2023/20230923035356_2023_06_15_民進黨推苗博雅參選北市大安立委_對戰國民黨羅_0507e17c575d9dd5||民進黨推苗博雅參選北市大安立委●對戰國民黨羅智強 ◎ 陳昭南]]
-6. [[articles/taiwanjustice-net/2023/20230923033121_2023_06_08_柯文哲大嗆美國智庫_美中_等距外交_破功了_e6c2be8df417cf5b||柯文哲大嗆美國智庫●美中「等距外交」破功了！ ◎ 陳昭南]]
-7. [[articles/taiwanjustice-net/2023/20230923032802_2023_06_04_習選_是_毛語錄_的翻版_文革2-0將步上高潮_bdc622f9d6007bf0||「習選」是「毛語錄」的翻版，文革2.0將步上高潮 ◎ 陳昭南]]
-8. [[articles/taiwanjustice-net/2023/20230922223040_2023_06_06_這種吃相的政治人物要選總統_台灣人丟不丟臉_b4a02ae1f2b1c4f8||這種吃相的政治人物要選總統？●台灣人丟不丟臉？ ◎陳昭南]]
+1. [[articles/taiwanjustice-net/2023/20231201225920_root_3b2ce0e0274e5349|陳昭南觀點]]
+2. [[articles/taiwanjustice-net/2023/20231001015558_2023_05_13_岸田企圖使日成為軍事強國_北約將在東京設_辦_061cacf82bd62f46|岸田企圖使日成為軍事強國，北約將在東京設「辦事處」！◎ 陳昭南]]
+3. [[articles/taiwanjustice-net/2023/20230923044138_2023_06_25_習近平要柯文哲選總統_請先問問台灣人同意嗎_e1d005a146f2150e|習近平要柯文哲選總統，請先問問台灣人同意嗎？ ◎陳昭南]]
+4. [[articles/taiwanjustice-net/2023/20230923035611_2023_06_18_美簽署_台美貿易倡議_將促使台灣經濟_脫中入_6b3bb78ff521c915|美簽署「台美貿易倡議」將促使台灣經濟「脫中入美」！  ◎ 陳昭南]]
+5. [[articles/taiwanjustice-net/2023/20230923035356_2023_06_15_民進黨推苗博雅參選北市大安立委_對戰國民黨羅_0507e17c575d9dd5|民進黨推苗博雅參選北市大安立委●對戰國民黨羅智強 ◎ 陳昭南]]
+6. [[articles/taiwanjustice-net/2023/20230923033121_2023_06_08_柯文哲大嗆美國智庫_美中_等距外交_破功了_e6c2be8df417cf5b|柯文哲大嗆美國智庫●美中「等距外交」破功了！ ◎ 陳昭南]]
+7. [[articles/taiwanjustice-net/2023/20230923032802_2023_06_04_習選_是_毛語錄_的翻版_文革2-0將步上高潮_bdc622f9d6007bf0|「習選」是「毛語錄」的翻版，文革2.0將步上高潮 ◎ 陳昭南]]
+8. [[articles/taiwanjustice-net/2023/20230922223040_2023_06_06_這種吃相的政治人物要選總統_台灣人丟不丟臉_b4a02ae1f2b1c4f8|這種吃相的政治人物要選總統？●台灣人丟不丟臉？ ◎陳昭南]]
 - … 13 more this year
 
 ### 2022 (56)
 
-1. [[articles/taiwanjustice-net/2022/20221205054216_2022_11_14_郭台銘切割高虹安_馬英九又發表_歧視_謬論-_5803ffad07a3c22b||郭台銘切割高虹安●馬英九又發表「歧視」謬論 ◎ 陳昭南]]
-2. [[articles/taiwanjustice-net/2022/20221205053106_2022_11_21_曹興誠_台灣與中共互不隸屬_應團結備戰-_陳昭_bff638ea1a03adae||曹興誠：台灣與中共互不隸屬●應團結備戰 ◎陳昭南]]
-3. [[articles/taiwanjustice-net/2022/20221205052747_2022_11_17_人一貪就面目可憎_難怪高虹安的面相都變了形_53b745b567d01be0||人一貪就面目可憎●難怪高虹安的面相都變了形！ ◎ 陳昭南]]
-4. [[articles/taiwanjustice-net/2022/20221205051742_2022_11_10_高虹安何以能離開醫院_疫情期間住院不能請假_80bf8028de40b887||高虹安何以能離開醫院？●疫情期間住院不能請假 ◎陳昭南]]
-5. [[articles/taiwanjustice-net/2022/20221205051351_2022_09_26_陳時中和邱吉爾比一比_誰在發動人格毀滅戰_-_50a2ffc92c1a03ac||陳時中和邱吉爾比一比●誰在發動人格毀滅戰？ ◎ 陳昭南]]
-6. [[articles/taiwanjustice-net/2022/20221205043849_2022_09_24_曹興誠再出招_生產100萬架攻擊無人機殲滅來犯共_0a8ddb9990a8809f||曹興誠再出招─生產100萬架攻擊無人機殲滅來犯共軍 ◎ 陳昭南]]
-7. [[articles/taiwanjustice-net/2022/20221205041138_2022_11_08_阿中_我只是個平凡人_我想要保護全台灣每一個_2fd97e9499255578||阿中：我只是個平凡人●我想要保護全台灣每一個人 ◎ 陳昭南]]
-8. [[articles/taiwanjustice-net/2022/20221204214537_2020_10_06_來自紅色天朝的密令_柯馬已達成魔鬼交易-_陳昭_95a834017fea1606||來自紅色天朝的密令　柯馬已達成魔鬼交易 ◎陳昭南]]
+1. [[articles/taiwanjustice-net/2022/20221205054216_2022_11_14_郭台銘切割高虹安_馬英九又發表_歧視_謬論-_5803ffad07a3c22b|郭台銘切割高虹安●馬英九又發表「歧視」謬論 ◎ 陳昭南]]
+2. [[articles/taiwanjustice-net/2022/20221205053106_2022_11_21_曹興誠_台灣與中共互不隸屬_應團結備戰-_陳昭_bff638ea1a03adae|曹興誠：台灣與中共互不隸屬●應團結備戰 ◎陳昭南]]
+3. [[articles/taiwanjustice-net/2022/20221205052747_2022_11_17_人一貪就面目可憎_難怪高虹安的面相都變了形_53b745b567d01be0|人一貪就面目可憎●難怪高虹安的面相都變了形！ ◎ 陳昭南]]
+4. [[articles/taiwanjustice-net/2022/20221205051742_2022_11_10_高虹安何以能離開醫院_疫情期間住院不能請假_80bf8028de40b887|高虹安何以能離開醫院？●疫情期間住院不能請假 ◎陳昭南]]
+5. [[articles/taiwanjustice-net/2022/20221205051351_2022_09_26_陳時中和邱吉爾比一比_誰在發動人格毀滅戰_-_50a2ffc92c1a03ac|陳時中和邱吉爾比一比●誰在發動人格毀滅戰？ ◎ 陳昭南]]
+6. [[articles/taiwanjustice-net/2022/20221205043849_2022_09_24_曹興誠再出招_生產100萬架攻擊無人機殲滅來犯共_0a8ddb9990a8809f|曹興誠再出招─生產100萬架攻擊無人機殲滅來犯共軍 ◎ 陳昭南]]
+7. [[articles/taiwanjustice-net/2022/20221205041138_2022_11_08_阿中_我只是個平凡人_我想要保護全台灣每一個_2fd97e9499255578|阿中：我只是個平凡人●我想要保護全台灣每一個人 ◎ 陳昭南]]
+8. [[articles/taiwanjustice-net/2022/20221204214537_2020_10_06_來自紅色天朝的密令_柯馬已達成魔鬼交易-_陳昭_95a834017fea1606|來自紅色天朝的密令　柯馬已達成魔鬼交易 ◎陳昭南]]
 - … 48 more this year
 
 Earlier years: **98** additional title hits (not listed).
@@ -132,11 +132,11 @@ Earlier years: **98** additional title hits (not listed).
 
 See the source hub. Top mentions:
 
-1. [[articles/taiwanjustice-net/2024/20240520034013_root_6f2b431c9cb0cca9||台美人台加人]]
-2. [[articles/taiwanjustice-net/2024/20240421185358_root_09926246802abc6a||台美人台加人]]
-3. [[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea||台美人台加人]]
-4. [[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3||台美人台加人]]
-5. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596||台美人台加人]]
+1. [[articles/taiwanjustice-net/2024/20240520034013_root_6f2b431c9cb0cca9|台美人台加人]]
+2. [[articles/taiwanjustice-net/2024/20240421185358_root_09926246802abc6a|台美人台加人]]
+3. [[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea|台美人台加人]]
+4. [[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3|台美人台加人]]
+5. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596|台美人台加人]]
 
 
 ## Timeline
