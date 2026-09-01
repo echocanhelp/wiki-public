@@ -1,24 +1,29 @@
-## Echopedia Content Analysis — 2026-08-31
+## Echopedia Content Analysis — 2026-09-01
 - Standards v10
-- Pages scanned: **14** with findings
-- Auto-queued for remediation: **2** (score ≥ 3)
-- Wall time: 3.96s
+- Pages scanned: **19** with findings
+- Auto-queued for remediation: **7** (score ≥ 3)
+- Wall time: 5.08s
 
 ### Top 10 pages needing attention:
-- `people/du-ao-cunfu.md` score=9 ⚠️ DESC_TOO_SHORT — DESC_TOO_SHORT, FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_TYPE
+- `people/chen-po-kong.md` score=9 ⚠️ DESC_TOO_SHORT — DESC_TOO_SHORT, FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_TYPE
+- `people/lin-baohua.md` score=9 ⚠️ DESC_TOO_SHORT — DESC_TOO_SHORT, FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_TYPE
+- `people/fan-jiang-ti-ang.md` score=8 ⚠️ DESC_NO_TITLE_MENTION — DESC_NO_TITLE_MENTION, FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
+- `people/du-ao-cunfu.md` score=7 — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
+- `people/yang-yueqing.md` score=6 ⚠️ DESC_TOO_SHORT — DESC_TOO_SHORT, FRESHNESS_NO_REVIEW_DATE, LINKS_NO_RELATED, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
 - `events/ev-lunar-new-year-banquet.md` score=4 ⚠️ DESC_NO_TITLE_MENTION — DESC_NO_TITLE_MENTION, FRESHNESS_NO_REVIEW_DATE, STRUCT_NO_REVIEW_DATE
+- `people/guan-renjian.md` score=4 — FRESHNESS_NO_REVIEW_DATE, LINKS_NO_RELATED, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
 - `events/ev-3265d6f262.md` score=2 — FRESHNESS_NO_REVIEW_DATE, STRUCT_NO_REVIEW_DATE
 - `events/ev-4de195c6a5.md` score=2 — FRESHNESS_NO_REVIEW_DATE, STRUCT_NO_REVIEW_DATE
 - `events/ev-77317ce689.md` score=2 — FRESHNESS_NO_REVIEW_DATE, STRUCT_NO_REVIEW_DATE
-- `events/ev-824a2204ea.md` score=2 — FRESHNESS_NO_REVIEW_DATE, STRUCT_NO_REVIEW_DATE
-- `events/ev-87fe1881b2.md` score=2 — FRESHNESS_NO_REVIEW_DATE, STRUCT_NO_REVIEW_DATE
-- `events/ev-91e8cdad65.md` score=2 — FRESHNESS_NO_REVIEW_DATE, STRUCT_NO_REVIEW_DATE
-- `events/ev-c3e523ceea.md` score=2 — FRESHNESS_NO_REVIEW_DATE, STRUCT_NO_REVIEW_DATE
-- `events/ev-c3f5d15344.md` score=2 — FRESHNESS_NO_REVIEW_DATE, STRUCT_NO_REVIEW_DATE
 
 ### Auto-queued for P13 remediation:
 - `events/ev-lunar-new-year-banquet.md` (medium) — DESC_NO_TITLE_MENTION, FRESHNESS_NO_REVIEW_DATE, STRUCT_NO_REVIEW_DATE
-- `people/du-ao-cunfu.md` (high) — DESC_TOO_SHORT, FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_TYPE
+- `people/chen-po-kong.md` (high) — DESC_TOO_SHORT, FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_TYPE
+- `people/du-ao-cunfu.md` (high) — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
+- `people/fan-jiang-ti-ang.md` (high) — DESC_NO_TITLE_MENTION, FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
+- `people/guan-renjian.md` (medium) — FRESHNESS_NO_REVIEW_DATE, LINKS_NO_RELATED, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
+- `people/lin-baohua.md` (high) — DESC_TOO_SHORT, FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_TYPE
+- `people/yang-yueqing.md` (high) — DESC_TOO_SHORT, FRESHNESS_NO_REVIEW_DATE, LINKS_NO_RELATED, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
 
-- Log: `knowledge/operational/content-analysis/2026-08-31.jsonl`
+- Log: `knowledge/operational/content-analysis/2026-09-01.jsonl`
 - Queue: `echopedia/content-analysis-queue.json`

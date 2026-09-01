@@ -1,9 +1,9 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "standards_version": 10,
   "total_pages_scanned": 2866,
-  "pages_with_findings": 14,
-  "auto_queued": 2,
+  "pages_with_findings": 19,
+  "auto_queued": 7,
   "queue": [
     {
       "path": "events/ev-lunar-new-year-banquet.md",
@@ -21,9 +21,28 @@
       ]
     },
     {
-      "path": "people/du-ao-cunfu.md",
+      "path": "people/chen-po-kong.md",
       "findings": [
         "DESC_TOO_SHORT",
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_TYPE",
+        "STRUCT_NO_REVIEW_DATE",
+        "READABILITY_LONG_SENTENCES_73wps",
+        "READABILITY_MANY_LONG_SENTENCES_224"
+      ],
+      "priority": "high",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/du-ao-cunfu.md",
+      "findings": [
         "FRESHNESS_NO_REVIEW_DATE",
         "LINKS_LOW_DENSITY",
         "LINKS_NO_RELATED",
@@ -39,8 +58,80 @@
         "Update last_reviewed after fixes",
         "Commit only (no publish)"
       ]
+    },
+    {
+      "path": "people/fan-jiang-ti-ang.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_LOW_DENSITY",
+        "STRUCT_NO_TYPE",
+        "STRUCT_NO_REVIEW_DATE",
+        "READABILITY_LONG_SENTENCES_98wps",
+        "READABILITY_MANY_LONG_SENTENCES_208"
+      ],
+      "priority": "high",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/guan-renjian.md",
+      "findings": [
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_TYPE",
+        "STRUCT_NO_REVIEW_DATE"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/lin-baohua.md",
+      "findings": [
+        "DESC_TOO_SHORT",
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_TYPE",
+        "STRUCT_NO_REVIEW_DATE",
+        "READABILITY_LONG_SENTENCES_78wps",
+        "READABILITY_MANY_LONG_SENTENCES_214"
+      ],
+      "priority": "high",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/yang-yueqing.md",
+      "findings": [
+        "DESC_TOO_SHORT",
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_TYPE",
+        "STRUCT_NO_REVIEW_DATE"
+      ],
+      "priority": "high",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
     }
   ],
-  "suppressed_findings": 1763,
-  "fp_history_entries": 1812
+  "suppressed_findings": 1754,
+  "fp_history_entries": 1841
 }
