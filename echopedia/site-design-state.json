@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-09-01T04:27:54",
+  "last_run": "2026-09-01T04:30:37",
   "status": "ACTION",
   "stats": {
     "md": 5284,
@@ -70,22 +70,6 @@
   ],
   "heals": [],
   "history": [
-    {
-      "at": "2026-09-01T02:44:06",
-      "status": "ACTION",
-      "critical": 0,
-      "high": 1,
-      "medium": 1,
-      "finding_count": 4
-    },
-    {
-      "at": "2026-09-01T02:44:42",
-      "status": "ACTION",
-      "critical": 0,
-      "high": 1,
-      "medium": 1,
-      "finding_count": 4
-    },
     {
       "at": "2026-09-01T02:45:12",
       "status": "ACTION",
@@ -304,6 +288,22 @@
     },
     {
       "at": "2026-09-01T04:27:54",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 1,
+      "medium": 1,
+      "finding_count": 4
+    },
+    {
+      "at": "2026-09-01T04:30:18",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 1,
+      "medium": 1,
+      "finding_count": 4
+    },
+    {
+      "at": "2026-09-01T04:30:37",
       "status": "ACTION",
       "critical": 0,
       "high": 1,
