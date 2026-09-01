@@ -1,10 +1,46 @@
 {
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "standards_version": 10,
-  "total_pages_scanned": 2853,
-  "pages_with_findings": 0,
-  "auto_queued": 0,
-  "queue": [],
-  "suppressed_findings": 1766,
-  "fp_history_entries": 1776
+  "total_pages_scanned": 2866,
+  "pages_with_findings": 14,
+  "auto_queued": 2,
+  "queue": [
+    {
+      "path": "events/ev-lunar-new-year-banquet.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "FRESHNESS_NO_REVIEW_DATE",
+        "STRUCT_NO_REVIEW_DATE"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/du-ao-cunfu.md",
+      "findings": [
+        "DESC_TOO_SHORT",
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_TYPE",
+        "STRUCT_NO_REVIEW_DATE",
+        "READABILITY_LONG_SENTENCES_104wps",
+        "READABILITY_MANY_LONG_SENTENCES_207"
+      ],
+      "priority": "high",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    }
+  ],
+  "suppressed_findings": 1763,
+  "fp_history_entries": 1812
 }

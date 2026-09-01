@@ -1,27 +1,3 @@
 === weekly improvement 2026-08-30 ===
 IMPROVE_BRIEF: /home/leedt/echo-system/echopedia/improvement-brief.md
 IMPROVE_STATUS: OK
-CI: ops-check WARN
-CI: queue-drain done
-CI: publishing to heal drift
-CI: site-design ACTION
-CI: smoke OK
-Auto packing the repository in background for optimum performance.
-See "git help gc" for manual housekeeping.
-[gh-pages f608aca4f6] ci-heal: L2 auto-heal (2026-08-30)
- 8815 files changed, 18206 insertions(+), 17265 deletions(-)
- create mode 100644 content/events/sc-taiwancenter-org-event-2026-tai-wan-hui-guan-nian-hui.md
- create mode 100644 events/sc-taiwancenter-org-event-2026-tai-wan-hui-guan-nian-hui.html
- create mode 100644 knowledge/operational/janitor-log/site-design-20260830.log
- create mode 100644 public/events/sc-taiwancenter-org-event-2026-tai-wan-hui-guan-nian-hui.html
- create mode 100644 public/tags/taiwancenter-org.html
- create mode 100644 tags/taiwancenter-org.html
-CI: committed heal
-[gh-pages 358f46b6bc] ci-heal: L3 green publish (2026-08-30)
- 1041 files changed, 1086 insertions(+), 1075 deletions(-)
-To https://github.com/echocanhelp/wiki-public.git
-   9332ce4c30..358f46b6bc  gh-pages -> gh-pages
-CI: L3 pushed 358f46b6bc
-CI: post-push CDN verify CDN_LAG
-CI_SUMMARY: green=1 ops=WARN drift=OK smoke=OK
-CI_STATUS: GREEN

@@ -1,0 +1,136 @@
+{
+  "date": "2026-08-31",
+  "total_cards": 11,
+  "evaluated_file": "/home/leedt/echo-system/knowledge/operational/evaluated/2026-08-31.json",
+  "priority_counts": {
+    "high": 8,
+    "low": 3
+  },
+  "playbook_counts": {
+    "P8": 9,
+    "P3": 2
+  },
+  "cards": [
+    {
+      "card_id": "echo-gen-2026-08-31-0001",
+      "title": "[HIGH] du-ao-cunfu: Add type: to frontmatter",
+      "body": "## Task: [HIGH] du-ao-cunfu: Add type: to frontmatter\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/du-ao-cunfu.md`\n**Finding:** `STRUCT_NO_TYPE`\n**Score:** 43751.25 (inbound links: 11667)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/du-ao-cunfu.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-08-31 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add type: to frontmatter\n**Detail:** Add type: person, type: organization, or type: source to the page frontmatter.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_TYPE\nPage type: people\nType weight: 1.5\nFinding weight: 2.5",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/du-ao-cunfu.md",
+      "finding": "STRUCT_NO_TYPE",
+      "score": 43751.25,
+      "target_path": "/home/leedt/echo-system/content/people/du-ao-cunfu.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-31-0002",
+      "title": "[HIGH] du-ao-cunfu: Add ## Related Pages section",
+      "body": "## Task: [HIGH] du-ao-cunfu: Add ## Related Pages section\n\n**Priority:** high\n**Playbook:** P3\n**Page:** `people/du-ao-cunfu.md`\n**Finding:** `LINKS_NO_RELATED`\n**Score:** 35001.0 (inbound links: 11667)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/du-ao-cunfu.md\n3. Find broken wikilinks and repair or redirect\n4. Commit only (no publish)\n\n### Specific Fix\n**Action:** Add ## Related Pages section\n**Detail:** Add a Related Pages section with wikilinks to connected people, organizations, and sources.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: LINKS_NO_RELATED\nPage type: people\nType weight: 1.5\nFinding weight: 2.0",
+      "priority": "high",
+      "playbook": "P3",
+      "page": "people/du-ao-cunfu.md",
+      "finding": "LINKS_NO_RELATED",
+      "score": 35001.0,
+      "target_path": "/home/leedt/echo-system/content/people/du-ao-cunfu.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-31-0003",
+      "title": "[HIGH] du-ao-cunfu: Expand the first paragraph to provide a meaningful summary of the page",
+      "body": "## Task: [HIGH] du-ao-cunfu: Expand the first paragraph to provide a meaningful summary of the page\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/du-ao-cunfu.md`\n**Finding:** `DESC_TOO_SHORT`\n**Score:** 26250.75 (inbound links: 11667)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/du-ao-cunfu.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-08-31 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Expand the first paragraph to provide a meaningful summary of the page\n**Detail:** First paragraph should be 50+ characters and mention the page subject. Add 1-2 sentences summarizing who/what this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_TOO_SHORT\nPage type: people\nType weight: 1.5\nFinding weight: 1.5",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/du-ao-cunfu.md",
+      "finding": "DESC_TOO_SHORT",
+      "score": 26250.75,
+      "target_path": "/home/leedt/echo-system/content/people/du-ao-cunfu.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-31-0004",
+      "title": "[HIGH] du-ao-cunfu: Add more wikilinks to related pages",
+      "body": "## Task: [HIGH] du-ao-cunfu: Add more wikilinks to related pages\n\n**Priority:** high\n**Playbook:** P3\n**Page:** `people/du-ao-cunfu.md`\n**Finding:** `LINKS_LOW_DENSITY`\n**Score:** 26250.75 (inbound links: 11667)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/du-ao-cunfu.md\n3. Find broken wikilinks and repair or redirect\n4. Commit only (no publish)\n\n### Specific Fix\n**Action:** Add more wikilinks to related pages\n**Detail:** This page has low wikilink density. Add [[wikilinks]] to people, organizations, and sources mentioned in the text.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: LINKS_LOW_DENSITY\nPage type: people\nType weight: 1.5\nFinding weight: 1.5",
+      "priority": "high",
+      "playbook": "P3",
+      "page": "people/du-ao-cunfu.md",
+      "finding": "LINKS_LOW_DENSITY",
+      "score": 26250.75,
+      "target_path": "/home/leedt/echo-system/content/people/du-ao-cunfu.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-31-0005",
+      "title": "[HIGH] du-ao-cunfu: Add last_reviewed: YYYY-MM-DD to frontmatter",
+      "body": "## Task: [HIGH] du-ao-cunfu: Add last_reviewed: YYYY-MM-DD to frontmatter\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/du-ao-cunfu.md`\n**Finding:** `FRESHNESS_NO_REVIEW_DATE`\n**Score:** 17500.5 (inbound links: 11667)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/du-ao-cunfu.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-08-31 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add last_reviewed: YYYY-MM-DD to frontmatter\n**Detail:** Add a last_reviewed date to the page frontmatter.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: FRESHNESS_NO_REVIEW_DATE\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/du-ao-cunfu.md",
+      "finding": "FRESHNESS_NO_REVIEW_DATE",
+      "score": 17500.5,
+      "target_path": "/home/leedt/echo-system/content/people/du-ao-cunfu.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-31-0006",
+      "title": "[HIGH] du-ao-cunfu: Add last_reviewed: YYYY-MM-DD to frontmatter",
+      "body": "## Task: [HIGH] du-ao-cunfu: Add last_reviewed: YYYY-MM-DD to frontmatter\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/du-ao-cunfu.md`\n**Finding:** `STRUCT_NO_REVIEW_DATE`\n**Score:** 17500.5 (inbound links: 11667)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/du-ao-cunfu.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-08-31 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add last_reviewed: YYYY-MM-DD to frontmatter\n**Detail:** Add a last_reviewed date to the page frontmatter so the freshness checker can track it.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_REVIEW_DATE\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/du-ao-cunfu.md",
+      "finding": "STRUCT_NO_REVIEW_DATE",
+      "score": 17500.5,
+      "target_path": "/home/leedt/echo-system/content/people/du-ao-cunfu.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-31-0007",
+      "title": "[HIGH] du-ao-cunfu: Break up long sentences",
+      "body": "## Task: [HIGH] du-ao-cunfu: Break up long sentences\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/du-ao-cunfu.md`\n**Finding:** `READABILITY_LONG_SENTENCES_104wps`\n**Score:** 8750.25 (inbound links: 11667)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/du-ao-cunfu.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-08-31 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Average words per sentence exceeds 30. Break up long sentences for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_LONG_SENTENCES\nPage type: people\nType weight: 1.5\nFinding weight: 0.5",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/du-ao-cunfu.md",
+      "finding": "READABILITY_LONG_SENTENCES_104wps",
+      "score": 8750.25,
+      "target_path": "/home/leedt/echo-system/content/people/du-ao-cunfu.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-31-0008",
+      "title": "[HIGH] du-ao-cunfu: Break up long sentences",
+      "body": "## Task: [HIGH] du-ao-cunfu: Break up long sentences\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/du-ao-cunfu.md`\n**Finding:** `READABILITY_MANY_LONG_SENTENCES_207`\n**Score:** 8750.25 (inbound links: 11667)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/du-ao-cunfu.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-08-31 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Multiple sentences exceed 50 words. Break them up for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_MANY_LONG_SENTENCES\nPage type: people\nType weight: 1.5\nFinding weight: 0.5",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/du-ao-cunfu.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_207",
+      "score": 8750.25,
+      "target_path": "/home/leedt/echo-system/content/people/du-ao-cunfu.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-31-0009",
+      "title": "[LOW] ev-lunar-new-year-banquet: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [LOW] ev-lunar-new-year-banquet: Ensure the first paragraph mentions the page subject\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `events/ev-lunar-new-year-banquet.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 0.0 (inbound links: 0)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/events/ev-lunar-new-year-banquet.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-08-31 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: events\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "events/ev-lunar-new-year-banquet.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 0.0,
+      "target_path": "/home/leedt/echo-system/content/events/ev-lunar-new-year-banquet.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-31-0010",
+      "title": "[LOW] ev-lunar-new-year-banquet: Add last_reviewed: YYYY-MM-DD to frontmatter",
+      "body": "## Task: [LOW] ev-lunar-new-year-banquet: Add last_reviewed: YYYY-MM-DD to frontmatter\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `events/ev-lunar-new-year-banquet.md`\n**Finding:** `FRESHNESS_NO_REVIEW_DATE`\n**Score:** 0.0 (inbound links: 0)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/events/ev-lunar-new-year-banquet.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-08-31 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add last_reviewed: YYYY-MM-DD to frontmatter\n**Detail:** Add a last_reviewed date to the page frontmatter.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: FRESHNESS_NO_REVIEW_DATE\nPage type: events\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "events/ev-lunar-new-year-banquet.md",
+      "finding": "FRESHNESS_NO_REVIEW_DATE",
+      "score": 0.0,
+      "target_path": "/home/leedt/echo-system/content/events/ev-lunar-new-year-banquet.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-31-0011",
+      "title": "[LOW] ev-lunar-new-year-banquet: Add last_reviewed: YYYY-MM-DD to frontmatter",
+      "body": "## Task: [LOW] ev-lunar-new-year-banquet: Add last_reviewed: YYYY-MM-DD to frontmatter\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `events/ev-lunar-new-year-banquet.md`\n**Finding:** `STRUCT_NO_REVIEW_DATE`\n**Score:** 0.0 (inbound links: 0)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/events/ev-lunar-new-year-banquet.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-08-31 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add last_reviewed: YYYY-MM-DD to frontmatter\n**Detail:** Add a last_reviewed date to the page frontmatter so the freshness checker can track it.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_REVIEW_DATE\nPage type: events\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "events/ev-lunar-new-year-banquet.md",
+      "finding": "STRUCT_NO_REVIEW_DATE",
+      "score": 0.0,
+      "target_path": "/home/leedt/echo-system/content/events/ev-lunar-new-year-banquet.md"
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-30T08:15:14.392548",
-  "pages_scanned": 2860,
+  "generated_at": "2026-08-31T21:03:56.938521",
+  "pages_scanned": 2872,
   "capped": true,
   "cap_top_n": 80,
   "summary": {
-    "co_citation_count": 1104,
-    "co_mention_count": 6025,
+    "co_citation_count": 1110,
+    "co_mention_count": 6105,
     "shared_tags_count": 0,
     "orphan_folder_count": 2,
     "kept_co_citation": 80,
@@ -14,6 +14,24 @@
   },
   "suggestions": {
     "co_citation": [
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/taiwanese-american-association-of-los-angeles-east-san-gabriel-valley.md",
+        "page2": "sources/taiwaneseamericanhistory-org.md",
+        "shared_target": "organizations/taiwanese-american-association-east-san-gabriel-valley",
+        "page1_title": "Taiwanese American Association of Los Angeles-East San Gabriel Valley(TAA-ESGV)",
+        "page2_title": "taiwaneseamericanhistory.org (TAH Foundation)",
+        "shared_targets_count": 3
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/taiwan-center.md",
+        "page2": "people/zhou-wei-lin.md",
+        "shared_target": "organizations/taiwanese-american-association-of-los-angeles-east-san-gabriel-valley",
+        "page1_title": "Taiwan Center Foundation of the Greater Los Angeles (大洛杉磯台灣會館)",
+        "page2_title": "Zhou Weilin (周威霖)",
+        "shared_targets_count": 4
+      },
       {
         "type": "CO-CITATION",
         "page1": "organizations/aj-wang-foundation-scholarship-fund.md",
@@ -129,7 +147,7 @@
         "shared_target": "organizations/presbyterian-church-in-taiwan",
         "page1_title": "Chunglun Presbyterian Church (中崙教會)",
         "page2_title": "Elder John Lai's Archives (賴永祥長老史料庫)",
-        "shared_targets_count": 107
+        "shared_targets_count": 108
       },
       {
         "type": "CO-CITATION",
@@ -138,7 +156,7 @@
         "shared_target": "organizations/presbyterian-church-in-taiwan",
         "page1_title": "Chunglun Presbyterian Church (中崙教會)",
         "page2_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "shared_targets_count": 107
+        "shared_targets_count": 108
       },
       {
         "type": "CO-CITATION",
@@ -147,7 +165,25 @@
         "shared_target": "organizations/presbyterian-church-in-taiwan",
         "page1_title": "Chunglun Presbyterian Church (中崙教會)",
         "page2_title": "Good Shepherd Taiwanese Presbyterian Church",
-        "shared_targets_count": 107
+        "shared_targets_count": 108
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/chunglun-presbyterian-church.md",
+        "page2": "organizations/presbyterian-church-in-taiwan.md",
+        "shared_target": "people/thomas-barclay",
+        "page1_title": "Chunglun Presbyterian Church (中崙教會)",
+        "page2_title": "Presbyterian Church in Taiwan (PCT)",
+        "shared_targets_count": 12
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/chunglun-presbyterian-church.md",
+        "page2": "organizations/tainan-east-gate-barclay-memorial-church.md",
+        "shared_target": "people/thomas-barclay",
+        "page1_title": "Chunglun Presbyterian Church (中崙教會)",
+        "page2_title": "Tainan East Gate Barclay Memorial Church (東門巴克禮紀念教會)",
+        "shared_targets_count": 12
       },
       {
         "type": "CO-CITATION",
@@ -156,16 +192,7 @@
         "shared_target": "people/pinghsi-liu",
         "page1_title": "Chunglun Presbyterian Church (中崙教會)",
         "page2_title": "National Taiwanese Presbyterian Council (NTPC)",
-        "shared_targets_count": 28
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/chunglun-presbyterian-church.md",
-        "page2": "organizations/tainan-east-gate-barclay-memorial-church.md",
-        "shared_target": "people/pinghsi-liu",
-        "page1_title": "Chunglun Presbyterian Church (中崙教會)",
-        "page2_title": "Tainan East Gate Barclay Memorial Church (東門巴克禮紀念教會)",
-        "shared_targets_count": 28
+        "shared_targets_count": 29
       },
       {
         "type": "CO-CITATION",
@@ -174,16 +201,7 @@
         "shared_target": "people/pinghsi-liu",
         "page1_title": "Chunglun Presbyterian Church (中崙教會)",
         "page2_title": "TPC — Taiwanese Presbyterian Churches (not PCT)",
-        "shared_targets_count": 28
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/chunglun-presbyterian-church.md",
-        "page2": "organizations/presbyterian-church-in-taiwan.md",
-        "shared_target": "organizations/tainan-east-gate-barclay-memorial-church",
-        "page1_title": "Chunglun Presbyterian Church (中崙教會)",
-        "page2_title": "Presbyterian Church in Taiwan (PCT)",
-        "shared_targets_count": 9
+        "shared_targets_count": 29
       },
       {
         "type": "CO-CITATION",
@@ -192,7 +210,7 @@
         "shared_target": "organizations/tainan-east-gate-barclay-memorial-church",
         "page1_title": "Chunglun Presbyterian Church (中崙教會)",
         "page2_title": "Rev. Pinghsi Liu (劉炳熹)",
-        "shared_targets_count": 9
+        "shared_targets_count": 10
       },
       {
         "type": "CO-CITATION",
@@ -201,7 +219,7 @@
         "shared_target": "organizations/tainan-east-gate-barclay-memorial-church",
         "page1_title": "Chunglun Presbyterian Church (中崙教會)",
         "page2_title": "Thomas Barclay (巴克禮)",
-        "shared_targets_count": 9
+        "shared_targets_count": 10
       },
       {
         "type": "CO-CITATION",
@@ -237,7 +255,7 @@
         "shared_target": "people/peng-ming-min",
         "page1_title": "Democratic Progressive Party (民主進步黨)",
         "page2_title": "Taiwanese American Foundation (TAF)",
-        "shared_targets_count": 8
+        "shared_targets_count": 9
       },
       {
         "type": "CO-CITATION",
@@ -246,7 +264,7 @@
         "shared_target": "people/peng-ming-min",
         "page1_title": "Democratic Progressive Party (民主進步黨)",
         "page2_title": "Rev. Kao Chun-ming (高俊明)",
-        "shared_targets_count": 8
+        "shared_targets_count": 9
       },
       {
         "type": "CO-CITATION",
@@ -255,7 +273,7 @@
         "shared_target": "people/peng-ming-min",
         "page1_title": "Democratic Progressive Party (民主進步黨)",
         "page2_title": "Lin Chao-quan (林朝權)",
-        "shared_targets_count": 8
+        "shared_targets_count": 9
       },
       {
         "type": "CO-CITATION",
@@ -372,7 +390,7 @@
         "shared_target": "people/albert-s-lai",
         "page1_title": "Democratic Progressive Party (民主進步黨)",
         "page2_title": "Albert ch.1 audiobook consent kit",
-        "shared_targets_count": 129
+        "shared_targets_count": 130
       },
       {
         "type": "CO-CITATION",
@@ -435,15 +453,6 @@
         "shared_target": "people/james-laidlaw-maxwell",
         "page1_title": "Elder John Lai's Archives (賴永祥長老史料庫)",
         "page2_title": "Tsan Yu Hsu (許贊育)",
-        "shared_targets_count": 11
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/elder-john-lai-archives.md",
-        "page2": "organizations/tainan-east-gate-barclay-memorial-church.md",
-        "shared_target": "people/thomas-barclay",
-        "page1_title": "Elder John Lai's Archives (賴永祥長老史料庫)",
-        "page2_title": "Tainan East Gate Barclay Memorial Church (東門巴克禮紀念教會)",
         "shared_targets_count": 11
       },
       {
@@ -724,15 +733,6 @@
         "page1_title": "Grace H. Yeh (張信惠)",
         "page2_title": "taiwaneseamericanhistory.org (TAH Foundation)",
         "shared_targets_count": 4
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
-        "page2": "people/david-huang.md",
-        "shared_target": "people/rev-j-m-hsu",
-        "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "page2_title": "Rev. David Huang (黃德利)",
-        "shared_targets_count": 6
       }
     ],
     "co_mention": [

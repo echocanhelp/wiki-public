@@ -1,10 +1,56 @@
 {
   "date": "2026-08-30",
-  "total_actions": 0,
+  "total_actions": 3,
   "priorities": {
     "high": 0,
     "medium": 0,
-    "low": 0
+    "low": 3
   },
-  "evaluated": []
+  "evaluated": [
+    {
+      "page": "events/ev-lunar-new-year-banquet.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "page_type": "events",
+      "inbound_links": 0,
+      "type_weight": 1.0,
+      "finding_weight": 1.0,
+      "score": 0.0,
+      "priority": "low",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "events/ev-lunar-new-year-banquet.md",
+      "finding": "FRESHNESS_NO_REVIEW_DATE",
+      "finding_prefix": "FRESHNESS_NO_REVIEW_DATE",
+      "action": "Add last_reviewed: YYYY-MM-DD to frontmatter",
+      "detail": "Add a last_reviewed date to the page frontmatter.",
+      "playbook": "P8",
+      "page_type": "events",
+      "inbound_links": 0,
+      "type_weight": 1.0,
+      "finding_weight": 1.0,
+      "score": 0.0,
+      "priority": "low",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "events/ev-lunar-new-year-banquet.md",
+      "finding": "STRUCT_NO_REVIEW_DATE",
+      "finding_prefix": "STRUCT_NO_REVIEW_DATE",
+      "action": "Add last_reviewed: YYYY-MM-DD to frontmatter",
+      "detail": "Add a last_reviewed date to the page frontmatter so the freshness checker can track it.",
+      "playbook": "P8",
+      "page_type": "events",
+      "inbound_links": 0,
+      "type_weight": 1.0,
+      "finding_weight": 1.0,
+      "score": 0.0,
+      "priority": "low",
+      "source": "content-analysis-queue"
+    }
+  ]
 }

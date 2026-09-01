@@ -1,10 +1,10 @@
 {
-  "at": "2026-08-30T14:20:34.328270+00:00",
+  "at": "2026-09-01T04:18:07.069493+00:00",
   "status": "WARN",
   "fail": 0,
   "warn": 1,
   "ok": 14,
-  "cron_count": 27,
+  "cron_count": 26,
   "agent_crons": 1,
   "bad_deliver": 0,
   "link_missing": 0,

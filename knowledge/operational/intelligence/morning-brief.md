@@ -1,8 +1,9 @@
-TAHS · Echopedia morning brief — 2026-08-30
-No owner judgment needed — overnight loop ran clean.
+TAHS · Echopedia morning brief — 2026-08-31
+1 NEED YOU item(s) below; the rest is auto-handled.
 
 🔴 NEED YOU (your judgment only)
-✅ AUTO  none — no owner judgment required
+🔴 NEED YOU  1. Echopedia miss: “ev-lunar-new-year-banquet”
+     → Confirm identity / approve thin page / or dismiss
 
 🟡 QUEUE / identity (soft — no reply required)
 🟡 QUEUE Becky Yang: soft pending aged out: chinese_name
@@ -24,20 +25,20 @@ No owner judgment needed — overnight loop ran clean.
 🟡 QUEUE 11 pages WIP/incomplete
 
 🟡 QUEUE / link suggestions (disk)
-ℹ️  INFO  top tips below · full pairs on disk (~7129 scored)
+ℹ️  INFO  top tips below · full pairs on disk (~7215 scored)
 
 🟡 QUEUE / optional link tips (≤5, not NEED YOU)
-🟡 QUEUE 1. Link tip: organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/american-citizens-for-taiwan.md
-🟡 QUEUE 2. Link tip: organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/american-citizens-of-taiwan-origin-acto.md
-🟡 QUEUE 3. Link tip: organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/ann-arbor-taiwanese-association.md
-🟡 QUEUE 4. Link tip: organizations/alumni-association-of-chia-yi-high-school-worldwide.md ↔ organizations/chang-jung-girls-high-school-alumni-association-southern-california.md
-🟡 QUEUE 5. Link tip: organizations/alumni-association-of-chia-yi-high-school-worldwide.md ↔ organizations/formosa-senior-association.md
+🟡 QUEUE 1. Link tip: organizations/taiwanese-american-association-of-los-angeles-east-san-gabriel-valley.md ↔ sources/taiwaneseamericanhistory-org.md
+🟡 QUEUE 2. Link tip: organizations/taiwan-center.md ↔ people/zhou-wei-lin.md
+🟡 QUEUE 3. Link tip: organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/american-citizens-for-taiwan.md
+🟡 QUEUE 4. Link tip: organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/american-citizens-of-taiwan-origin-acto.md
+🟡 QUEUE 5. Link tip: organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/ann-arbor-taiwanese-association.md
 
 ℹ️ SITE (wiki visits; operator self-traffic excluded)
-ℹ️  INFO  wiki 3 visits since cutoff · yday 2026-08-29 = 0 · / 2, /people/albert-chapter1-zh-hsiaochen-full-review 1
+ℹ️  INFO  wiki 3 visits since cutoff · yday 2026-08-30 = 0 · / 2, /people/albert-chapter1-zh-hsiaochen-full-review 1
 
 ✅ AUTO (overnight — evidence)
-✅ AUTO analyzer scanned 2853 queued 0 suppressed 1766
+✅ AUTO analyzer scanned 2866 queued 2 suppressed 1763
 🟡 QUEUE janitor HOLD leftover 40
 🟡 QUEUE kanban blocked 60
 ℹ️  INFO  only 🔴 NEED YOU requires your reply

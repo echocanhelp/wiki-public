@@ -1,6 +1,6 @@
-## Site design audit — 2026-08-30 07:19
+## Site design audit — 2026-08-31 21:17
 
-- pages_md=5272
+- pages_md=5284
 - critical=0 high=1 medium=1
 - heals_suggested=none
 
@@ -19,24 +19,23 @@
   - `people/franklin-ping-cheng.md`
 
 ### MEDIUM (1)
-- **F4** people/index.html is 1491824 bytes — heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break.
+- **F4** people/index.html is 1491558 bytes — heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break.
 
 ### LOW (1)
-- **C1** spelling signals (sample): 4 `[AGENT_SUGGESTED]`
-  - `penghu-info.md: ?ching`
-  - `presbyterian-church-in-taiwan.md: teh→the`
-  - `yang-ziqing.md: ?ziqing`
+- **C1** spelling signals (sample): 2 `[AGENT_SUGGESTED]`
   - `yang-yueqing.md: ?yueqing`
+  - `yang-ziqing.md: ?ziqing`
 
 ### INFO (1)
-- **B1** person/org touched ≤7d (rely on recency featured window): 7
+- **B1** person/org touched ≤7d (rely on recency featured window): 69
+  - `people/alan-thian.md`
+  - `people/bai-peiyu.md`
   - `people/bai-weiwei.md`
-  - `people/shante-shawsean-chen.md`
-  - `organizations/good-shepherd-taiwanese-presbyterian-church.md`
-  - `organizations/penghu-info.md`
-  - `organizations/presbyterian-church-in-taiwan.md`
-  - `organizations/taiwan-center.md`
-  - `organizations/taiwaneseamerican-org.md`
+  - `people/cai-shunyu.md`
+  - `people/cao-changqing.md`
+  - `people/chao-sile.md`
+  - `people/chen-bozhi.md`
+  - `people/chen-maoxiong.md`
 
 ### Programmable heals
 - (none)

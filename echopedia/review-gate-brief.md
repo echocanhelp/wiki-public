@@ -1,9 +1,9 @@
 ### Review gate: generated cards
-- Generated cards: 3 (from /home/leedt/echo-system/knowledge/operational/evaluated/2026-08-25.json)
-- Priorities: {'medium': 1, 'low': 2}
-- Playbooks: {'P8': 1, 'P3': 2}
+- Generated cards: 3 (from /home/leedt/echo-system/knowledge/operational/evaluated/2026-08-30.json)
+- Priorities: {'low': 3}
+- Playbooks: {'P8': 3}
 
-  [MEDIUM] [MEDIUM] penghu-info: Add ## History section
-  [LOW] [LOW] penghu-info: Add ## Related Pages section
-  [LOW] [LOW] penghu-info: Add ## Related Pages section
+  [LOW] [LOW] ev-lunar-new-year-banquet: Ensure the first paragraph mentions the page subject
+  [LOW] [LOW] ev-lunar-new-year-banquet: Add last_reviewed: YYYY-MM-DD to frontmatter
+  [LOW] [LOW] ev-lunar-new-year-banquet: Add last_reviewed: YYYY-MM-DD to frontmatter
 

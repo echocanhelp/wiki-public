@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "standards_version": 10,
   "auto_apply_agent": false,
   "nodes": {
@@ -11,9 +11,9 @@
       "n": 0
     },
     "analyzer": {
-      "scanned": 2853,
-      "queued": 0,
-      "suppressed": 1766
+      "scanned": 2866,
+      "queued": 2,
+      "suppressed": 1763
     },
     "enrichment_writes": {
       "n": 0,
@@ -39,7 +39,7 @@
     "cron.fail": []
   },
   "telegram_auto_lines": [
-    "✅ AUTO analyzer scanned 2853 queued 0 suppressed 1766",
+    "✅ AUTO analyzer scanned 2866 queued 2 suppressed 1763",
     "🟡 QUEUE janitor HOLD leftover 40",
     "🟡 QUEUE kanban blocked 60"
   ],

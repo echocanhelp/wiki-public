@@ -1,0 +1,46 @@
+{
+  "date": "2026-08-30",
+  "total_cards": 3,
+  "evaluated_file": "/home/leedt/echo-system/knowledge/operational/evaluated/2026-08-30.json",
+  "priority_counts": {
+    "low": 3
+  },
+  "playbook_counts": {
+    "P8": 3
+  },
+  "cards": [
+    {
+      "card_id": "echo-gen-2026-08-30-0001",
+      "title": "[LOW] ev-lunar-new-year-banquet: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [LOW] ev-lunar-new-year-banquet: Ensure the first paragraph mentions the page subject\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `events/ev-lunar-new-year-banquet.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 0.0 (inbound links: 0)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/events/ev-lunar-new-year-banquet.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-08-30 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: events\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "events/ev-lunar-new-year-banquet.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 0.0,
+      "target_path": "/home/leedt/echo-system/content/events/ev-lunar-new-year-banquet.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-30-0002",
+      "title": "[LOW] ev-lunar-new-year-banquet: Add last_reviewed: YYYY-MM-DD to frontmatter",
+      "body": "## Task: [LOW] ev-lunar-new-year-banquet: Add last_reviewed: YYYY-MM-DD to frontmatter\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `events/ev-lunar-new-year-banquet.md`\n**Finding:** `FRESHNESS_NO_REVIEW_DATE`\n**Score:** 0.0 (inbound links: 0)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/events/ev-lunar-new-year-banquet.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-08-30 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add last_reviewed: YYYY-MM-DD to frontmatter\n**Detail:** Add a last_reviewed date to the page frontmatter.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: FRESHNESS_NO_REVIEW_DATE\nPage type: events\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "events/ev-lunar-new-year-banquet.md",
+      "finding": "FRESHNESS_NO_REVIEW_DATE",
+      "score": 0.0,
+      "target_path": "/home/leedt/echo-system/content/events/ev-lunar-new-year-banquet.md"
+    },
+    {
+      "card_id": "echo-gen-2026-08-30-0003",
+      "title": "[LOW] ev-lunar-new-year-banquet: Add last_reviewed: YYYY-MM-DD to frontmatter",
+      "body": "## Task: [LOW] ev-lunar-new-year-banquet: Add last_reviewed: YYYY-MM-DD to frontmatter\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `events/ev-lunar-new-year-banquet.md`\n**Finding:** `STRUCT_NO_REVIEW_DATE`\n**Score:** 0.0 (inbound links: 0)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/events/ev-lunar-new-year-banquet.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-08-30 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add last_reviewed: YYYY-MM-DD to frontmatter\n**Detail:** Add a last_reviewed date to the page frontmatter so the freshness checker can track it.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_REVIEW_DATE\nPage type: events\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "events/ev-lunar-new-year-banquet.md",
+      "finding": "STRUCT_NO_REVIEW_DATE",
+      "score": 0.0,
+      "target_path": "/home/leedt/echo-system/content/events/ev-lunar-new-year-banquet.md"
+    }
+  ]
+}

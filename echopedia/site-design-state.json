@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "last_run": "2026-08-30T07:19:34",
+  "last_run": "2026-08-31T21:17:58",
   "status": "ACTION",
   "stats": {
-    "md": 5272,
+    "md": 5284,
     "critical": 0,
     "high": 1,
     "medium": 1,
@@ -14,7 +14,7 @@
     {
       "id": "F4",
       "sev": "MEDIUM",
-      "msg": "people/index.html is 1491824 bytes \u2014 heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break."
+      "msg": "people/index.html is 1491558 bytes \u2014 heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break."
     },
     {
       "id": "B2",
@@ -38,26 +38,32 @@
     {
       "id": "B1",
       "sev": "INFO",
-      "msg": "person/org touched \u22647d (rely on recency featured window): 7",
+      "msg": "person/org touched \u22647d (rely on recency featured window): 69",
       "examples": [
+        "people/alan-thian.md",
+        "people/bai-peiyu.md",
         "people/bai-weiwei.md",
-        "people/shante-shawsean-chen.md",
-        "organizations/good-shepherd-taiwanese-presbyterian-church.md",
-        "organizations/penghu-info.md",
-        "organizations/presbyterian-church-in-taiwan.md",
-        "organizations/taiwan-center.md",
-        "organizations/taiwaneseamerican-org.md"
+        "people/cai-shunyu.md",
+        "people/cao-changqing.md",
+        "people/chao-sile.md",
+        "people/chen-bozhi.md",
+        "people/chen-maoxiong.md",
+        "people/chen-po-kong.md",
+        "people/chen-wenshi.md",
+        "people/chen-zhaonan.md",
+        "people/du-ao-cunfu.md",
+        "people/fan-jiang-ti-ang.md",
+        "people/freeman-huang.md",
+        "people/gong-sun-le.md"
       ]
     },
     {
       "id": "C1",
       "sev": "LOW",
-      "msg": "spelling signals (sample): 4",
+      "msg": "spelling signals (sample): 2",
       "examples": [
-        "penghu-info.md: ?ching",
-        "presbyterian-church-in-taiwan.md: teh\u2192the",
-        "yang-ziqing.md: ?ziqing",
-        "yang-yueqing.md: ?yueqing"
+        "yang-yueqing.md: ?yueqing",
+        "yang-ziqing.md: ?ziqing"
       ],
       "agent": true
     }
@@ -65,7 +71,7 @@
   "heals": [],
   "history": [
     {
-      "at": "2026-08-25T23:24:00",
+      "at": "2026-08-31T02:57:07",
       "status": "ACTION",
       "critical": 0,
       "high": 1,
@@ -73,31 +79,7 @@
       "finding_count": 4
     },
     {
-      "at": "2026-08-26T02:43:00",
-      "status": "ACTION",
-      "critical": 0,
-      "high": 1,
-      "medium": 1,
-      "finding_count": 4
-    },
-    {
-      "at": "2026-08-26T02:48:55",
-      "status": "ACTION",
-      "critical": 0,
-      "high": 1,
-      "medium": 1,
-      "finding_count": 4
-    },
-    {
-      "at": "2026-08-26T02:52:27",
-      "status": "ACTION",
-      "critical": 0,
-      "high": 1,
-      "medium": 1,
-      "finding_count": 4
-    },
-    {
-      "at": "2026-08-26T02:53:20",
+      "at": "2026-08-31T02:57:39",
       "status": "ACTION",
       "critical": 0,
       "high": 1,
@@ -105,7 +87,7 @@
       "finding_count": 3
     },
     {
-      "at": "2026-08-26T03:31:24",
+      "at": "2026-08-31T02:58:11",
       "status": "ACTION",
       "critical": 0,
       "high": 1,
@@ -113,7 +95,31 @@
       "finding_count": 4
     },
     {
-      "at": "2026-08-26T03:32:49",
+      "at": "2026-08-31T02:58:44",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 1,
+      "medium": 1,
+      "finding_count": 3
+    },
+    {
+      "at": "2026-08-31T02:59:16",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 1,
+      "medium": 1,
+      "finding_count": 3
+    },
+    {
+      "at": "2026-08-31T02:59:48",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 1,
+      "medium": 1,
+      "finding_count": 3
+    },
+    {
+      "at": "2026-08-31T21:03:18",
       "status": "ACTION",
       "critical": 0,
       "high": 1,
@@ -121,7 +127,7 @@
       "finding_count": 4
     },
     {
-      "at": "2026-08-26T03:45:04",
+      "at": "2026-08-31T21:03:41",
       "status": "ACTION",
       "critical": 0,
       "high": 1,
@@ -129,7 +135,39 @@
       "finding_count": 4
     },
     {
-      "at": "2026-08-26T06:40:26",
+      "at": "2026-08-31T21:04:19",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 1,
+      "medium": 1,
+      "finding_count": 3
+    },
+    {
+      "at": "2026-08-31T21:04:56",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 1,
+      "medium": 1,
+      "finding_count": 3
+    },
+    {
+      "at": "2026-08-31T21:05:36",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 1,
+      "medium": 1,
+      "finding_count": 3
+    },
+    {
+      "at": "2026-08-31T21:06:19",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 1,
+      "medium": 1,
+      "finding_count": 3
+    },
+    {
+      "at": "2026-08-31T21:06:57",
       "status": "ACTION",
       "critical": 0,
       "high": 1,
@@ -137,7 +175,23 @@
       "finding_count": 4
     },
     {
-      "at": "2026-08-27T03:31:25",
+      "at": "2026-08-31T21:07:38",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 1,
+      "medium": 1,
+      "finding_count": 3
+    },
+    {
+      "at": "2026-08-31T21:08:18",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 1,
+      "medium": 1,
+      "finding_count": 3
+    },
+    {
+      "at": "2026-08-31T21:08:59",
       "status": "ACTION",
       "critical": 0,
       "high": 1,
@@ -145,7 +199,7 @@
       "finding_count": 4
     },
     {
-      "at": "2026-08-27T03:32:56",
+      "at": "2026-08-31T21:09:38",
       "status": "ACTION",
       "critical": 0,
       "high": 1,
@@ -153,7 +207,7 @@
       "finding_count": 4
     },
     {
-      "at": "2026-08-27T03:45:03",
+      "at": "2026-08-31T21:10:18",
       "status": "ACTION",
       "critical": 0,
       "high": 1,
@@ -161,7 +215,7 @@
       "finding_count": 4
     },
     {
-      "at": "2026-08-27T06:40:22",
+      "at": "2026-08-31T21:11:00",
       "status": "ACTION",
       "critical": 0,
       "high": 1,
@@ -169,7 +223,15 @@
       "finding_count": 4
     },
     {
-      "at": "2026-08-27T10:07:20",
+      "at": "2026-08-31T21:11:40",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 1,
+      "medium": 1,
+      "finding_count": 3
+    },
+    {
+      "at": "2026-08-31T21:12:22",
       "status": "ACTION",
       "critical": 0,
       "high": 1,
@@ -177,7 +239,39 @@
       "finding_count": 4
     },
     {
-      "at": "2026-08-27T10:10:26",
+      "at": "2026-08-31T21:13:07",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 1,
+      "medium": 1,
+      "finding_count": 3
+    },
+    {
+      "at": "2026-08-31T21:13:47",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 1,
+      "medium": 1,
+      "finding_count": 3
+    },
+    {
+      "at": "2026-08-31T21:14:28",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 1,
+      "medium": 1,
+      "finding_count": 3
+    },
+    {
+      "at": "2026-08-31T21:14:30",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 1,
+      "medium": 1,
+      "finding_count": 3
+    },
+    {
+      "at": "2026-08-31T21:15:11",
       "status": "ACTION",
       "critical": 0,
       "high": 1,
@@ -185,7 +279,7 @@
       "finding_count": 4
     },
     {
-      "at": "2026-08-27T10:25:08",
+      "at": "2026-08-31T21:15:55",
       "status": "ACTION",
       "critical": 0,
       "high": 1,
@@ -193,7 +287,7 @@
       "finding_count": 4
     },
     {
-      "at": "2026-08-28T03:31:24",
+      "at": "2026-08-31T21:16:35",
       "status": "ACTION",
       "critical": 0,
       "high": 1,
@@ -201,7 +295,7 @@
       "finding_count": 4
     },
     {
-      "at": "2026-08-28T03:32:52",
+      "at": "2026-08-31T21:17:17",
       "status": "ACTION",
       "critical": 0,
       "high": 1,
@@ -209,95 +303,7 @@
       "finding_count": 4
     },
     {
-      "at": "2026-08-28T03:45:03",
-      "status": "ACTION",
-      "critical": 0,
-      "high": 1,
-      "medium": 1,
-      "finding_count": 4
-    },
-    {
-      "at": "2026-08-28T06:40:27",
-      "status": "ACTION",
-      "critical": 0,
-      "high": 1,
-      "medium": 1,
-      "finding_count": 4
-    },
-    {
-      "at": "2026-08-29T03:31:27",
-      "status": "ACTION",
-      "critical": 0,
-      "high": 1,
-      "medium": 1,
-      "finding_count": 4
-    },
-    {
-      "at": "2026-08-29T03:32:54",
-      "status": "ACTION",
-      "critical": 0,
-      "high": 1,
-      "medium": 1,
-      "finding_count": 4
-    },
-    {
-      "at": "2026-08-29T03:45:03",
-      "status": "ACTION",
-      "critical": 0,
-      "high": 1,
-      "medium": 1,
-      "finding_count": 4
-    },
-    {
-      "at": "2026-08-29T06:40:21",
-      "status": "ACTION",
-      "critical": 0,
-      "high": 1,
-      "medium": 1,
-      "finding_count": 4
-    },
-    {
-      "at": "2026-08-30T03:32:16",
-      "status": "ACTION",
-      "critical": 0,
-      "high": 1,
-      "medium": 1,
-      "finding_count": 4
-    },
-    {
-      "at": "2026-08-30T03:33:47",
-      "status": "ACTION",
-      "critical": 0,
-      "high": 1,
-      "medium": 1,
-      "finding_count": 4
-    },
-    {
-      "at": "2026-08-30T03:45:55",
-      "status": "ACTION",
-      "critical": 0,
-      "high": 1,
-      "medium": 1,
-      "finding_count": 4
-    },
-    {
-      "at": "2026-08-30T06:41:18",
-      "status": "ACTION",
-      "critical": 0,
-      "high": 1,
-      "medium": 1,
-      "finding_count": 4
-    },
-    {
-      "at": "2026-08-30T07:18:04",
-      "status": "ACTION",
-      "critical": 0,
-      "high": 1,
-      "medium": 1,
-      "finding_count": 4
-    },
-    {
-      "at": "2026-08-30T07:19:34",
+      "at": "2026-08-31T21:17:58",
       "status": "ACTION",
       "critical": 0,
       "high": 1,

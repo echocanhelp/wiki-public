@@ -1,12 +1,12 @@
 {
-  "updated": "2026-08-30T08:15:14",
+  "updated": "2026-08-31T21:03:59",
   "nodes": [
     {
       "id": "cron.crons",
       "enabled": true,
       "human": false,
       "ssot": "pinto cron/jobs.json",
-      "count": 27
+      "count": 26
     },
     {
       "id": "janitor.first_mention",
@@ -93,21 +93,21 @@
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-30T03:15:53.763719-07:00"
+      "last_run_at": "2026-08-31T21:03:14.328923-07:00"
     },
     {
       "name": "vault-morning-brief",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-29T08:15:25.887103-07:00"
+      "last_run_at": "2026-08-30T08:15:18.868802-07:00"
     },
     {
       "name": "vllm-thermal-scaler",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-30T08:14:02.421123-07:00"
+      "last_run_at": "2026-08-31T21:03:19.517263-07:00"
     },
     {
       "name": "Echopedia content analysis",
@@ -120,22 +120,22 @@
       "name": "unified-watchdog",
       "enabled": true,
       "no_agent": true,
-      "last_status": "error",
-      "last_run_at": "2026-08-30T07:48:01.343072-07:00"
+      "last_status": "ok",
+      "last_run_at": "2026-08-31T02:41:50.508493-07:00"
     },
     {
       "name": "echopedia-digest",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-30T06:20:59.427523-07:00"
+      "last_run_at": "2026-08-31T21:03:16.196645-07:00"
     },
     {
       "name": "memory-audit",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-30T06:30:58.581259-07:00"
+      "last_run_at": "2026-08-31T21:03:14.295911-07:00"
     },
     {
       "name": "echopedia-nightly-audit",
@@ -170,7 +170,7 @@
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-30T03:45:56.249681-07:00"
+      "last_run_at": "2026-08-31T21:03:19.841921-07:00"
     },
     {
       "name": "vault-search-index-rebuild",
@@ -191,42 +191,42 @@
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-30T02:00:32.019482-07:00"
+      "last_run_at": "2026-08-31T01:35:43.393051-07:00"
     },
     {
       "name": "echopedia-evaluate-actions",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-30T02:10:40.132911-07:00"
+      "last_run_at": "2026-08-31T21:03:24.285421-07:00"
     },
     {
       "name": "echopedia-generate-cards",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-30T02:20:46.977122-07:00"
+      "last_run_at": "2026-08-31T21:03:21.143291-07:00"
     },
     {
       "name": "echopedia-docs-sync",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-30T06:10:59.031593-07:00"
+      "last_run_at": "2026-08-31T21:03:15.530426-07:00"
     },
     {
       "name": "echopedia-person-works-linker",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-30T02:30:16.228978-07:00"
+      "last_run_at": "2026-08-31T21:03:16.170567-07:00"
     },
     {
       "name": "cron-audit",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-30T06:00:57.703173-07:00"
+      "last_run_at": "2026-08-30T21:42:45.076480-07:00"
     },
     {
       "name": "echopedia-timeline-builder",
@@ -247,14 +247,7 @@
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-30T01:50:31.848159-07:00"
-    },
-    {
-      "name": "cron-self-audit",
-      "enabled": true,
-      "no_agent": true,
-      "last_status": "ok",
-      "last_run_at": "2026-08-30T06:41:37.394790-07:00"
+      "last_run_at": "2026-08-31T01:50:43.121080-07:00"
     },
     {
       "name": "echopedia-source-continuity",
@@ -268,7 +261,7 @@
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-30T07:50:00.361213-07:00"
+      "last_run_at": "2026-08-31T21:03:14.991153-07:00"
     },
     {
       "name": "go-router-monthly-audit",
