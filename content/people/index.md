@@ -696,7 +696,7 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 [[people/yuan-tseh-lee|Dr. Yuan-Tseh Lee (李遠哲博士)]]
 [[people/yunching-yeh-davis|Dr. Yunching Yeh Davis (葉芸青)]]
 [[people/dr-yung-san-liang|Dr. Yung-San Liang (梁永三博士)]]
-[[people/du-ao-cunfu|Du Ao Cunfu (獨傲村夫)]]
+[[people/du-ao-cunfu|du-ao-cunfu]]
 
 ### E {#e}
 
