@@ -1,66 +1,290 @@
----
-title: "Fan Chiang Tsiang (范姜提昂)"
-type: person
-tags:
-  - person
-  - columnist
-  - taiwanjustice-net
-verification_status: pending
-last_reviewed: 2026-08-30
----
-# Fan Chiang Tsiang (范姜提昂)
-
-**Fan Chiang Tsiang** (范姜提昂) is a columnist for [[sources/taiwanjustice-net||taiwanjustice.net (台灣公義網)]], with 66 articles archived from the site's column section.
-
-## Identity Snapshot
-
-- **English:** Fan Chiang Tsiang
-- **Chinese:** 范姜提昂
-- **Role:** Columnist
-- **Source:** taiwanjustice.net column category
-- **Articles:** 66
-
-## Disambiguation
-
-**范姣提昆 may be the same person as 范姜提昂** — needs verification. The entities sheet notes this potential name variant.
 
 
+## Quotes
 
-## TJ Citations
+Notable quotes and mentions of **范姜提昂** in Taiwan Justice articles:
 
-Top 10 articles from taiwanjustice.net mentioning fan-jiang-ti-ang:
 
-1. **2017-11-13** — [[articles/taiwanjustice-net/2024/20240221113229_root_17825a06f4cdbb6f||林保華專欄]]
-   - *November 13, 2017...*
-   - Score: 825
-2. **2022-07-10** — [[articles/taiwanjustice-net/2024/20240425084829_root_b5c9f6bb0360ed23||陳茂雄專欄]]
-   - *高雄的民主水準居冠 ◎ 陳茂雄...*
-   - Score: 825
-3. **2017-03-07** — [[articles/taiwanjustice-net/2024/20240715140333_root_de6de376c47e0ff9||余杰專欄]]
-   - *March 7, 2017...*
-   - Score: 825
-4. **2017-11-22** — [[articles/taiwanjustice-net/2024/20240221105045_root_4b96e7a2f9d76692||專欄]]
-   - *監察權的謬誤 ◎ 陳茂雄 2017-11-22...*
-   - Score: 820
-5. **2022-08-22** — [[articles/taiwanjustice-net/2024/20240619175142_root_e903f760568c0883||余杰專欄]]
-   - *跟習近平聊天是雞同鴨講-范疇《與習近平聊聊台灣和中國》◎ 余傑...*
-   - Score: 810
-6. **2017-01-30** — [[articles/taiwanjustice-net/2024/20240616123010_root_e9a4d38b79b420ee||余杰專欄]]
-   - *January 30, 2017...*
-   - Score: 805
-7. **2024-04-24** — [[articles/taiwanjustice-net/2024/20240425072010_root_e39ecec0fdeb18d2||台灣頭條]]
-   - *April 24, 2024...*
-   - Score: 800
-8. **2023-07-30** — [[articles/taiwanjustice-net/2024/20240425083432_root_99aaa4abcb78ff6d||台美人台加人]]
-   - *July 30, 2023...*
-   - Score: 800
-9. **2023-08-12** — [[articles/taiwanjustice-net/2024/20240719130745_root_c122ab4d6dc8d2cf||2012大選]]
-   - *August 12, 2023...*
-   - Score: 800
-10. **2018-01-04** — [[articles/taiwanjustice-net/2024/20240224183824_root_3a00a14a809ec2ca||大洛杉磯台灣會館]]
-   - *January 4, 2018...*
-   - Score: 795
+### Unknown (1 quotes)
 
+1. "||Yu Chieh (余杰)]] — 99 articles - [[people/fan-jiang-ti-ang||Fan Chiang Tsiang (范姜提昂)]] — 66 articles - [[people/yang-ziqing||Yang Zi-qing (楊子清)]] — 65 articles - ["
+   — "taiwanjustice.net Article Archive" (unknown)
+
+### 2025 (2 quotes)
+
+1. "台美人影音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home 專欄 范姜提昂專欄 范姜提昂專欄 By review score Latest Featured posts Most popular 7 days popular By r"
+   — 范姜提昂專欄 (2025-03-23)
+2. "浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home 專欄 范姜提昂專欄 范姜提昂專欄 By review score Latest Featured posts Most popular 7 days popular By review s"
+   — 范姜提昂專欄 (2025-03-23)
+
+### 2024 (4 quotes)
+
+1. "會訊 台美人影音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home 專欄 范姜提昂專欄 范姜提昂專欄 By review score Latest Featured posts Most popular 7 days popular By r"
+   — 范姜提昂專欄 (2024-02-21)
+2. "音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home 專欄 范姜提昂專欄 范姜提昂專欄 By review score Latest Featured posts Most popular 7 days popular By review s"
+   — 范姜提昂專欄 (2024-02-21)
+3. "會訊 台美人影音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home 專欄 范姜提昂專欄 范姜提昂專欄 7 days popular Latest Featured posts Most popular 7 days popular By re"
+   — 范姜提昂專欄 (2024-02-28)
+4. "音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home 專欄 范姜提昂專欄 范姜提昂專欄 7 days popular Latest Featured posts Most popular 7 days popular By review sc"
+   — 范姜提昂專欄 (2024-02-28)
+
+### 2022 (1 quotes)
+
+1. "輯 中國新聞 中國史地 English Pages 世界史地 義論 專欄 陳茂雄專欄 陳昭南觀點 何清漣專欄 獨傲村夫專欄 廖清山專欄 陳破空專欄 黃帝穎專欄 范姜提昂專欄 李堅專欄 金恆煒專欄 林保華專欄 動畫 影音 楊子清 Cliff Yang 音樂教室 焦點影音 關鍵時刻 鄭 知道了 新台灣加油 前進新台灣 新聞面對面"
+   — 'Tag: McConnell' (2022-08-03)
+
+### 2021 (1 quotes)
+
+1. "輯 中國新聞 中國史地 English Pages 世界史地 義論 專欄 陳茂雄專欄 陳昭南觀點 何清漣專欄 獨傲村夫專欄 廖清山專欄 陳破空專欄 黃帝穎專欄 范姜提昂專欄 李堅專欄 金恆煒專欄 林保華專欄 動畫 影音 楊子清 Cliff Yang 音樂教室 焦點影音 關鍵時刻 鄭 知道了 新台灣加油 前進新台灣 新聞大解讀"
+   — 'Tag: 加拿大總理及國會力挺HFX論壇' (2021-04-14)
+
+### 2020 (181 quotes)
+
+1. "2020-03-08 自由時報《自由廣場》 ◎ 范姜提昂 中國共產黨「侵台攻略」很清楚，先利用馬執政，成為國民黨親中舔共加盟系統的加盟店，再利用台灣民主環境，成功建構中共在台直營系統。而馬英九、柯文哲等爭先恐後，起乩"
+   — 親中表態？ 小心老共垮台  ◎ 范姜提昂 (2020-03-08)
+2. "台美人影音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home 專欄 范姜提昂專欄 范姜提昂專欄 Most popular Latest Featured posts Most popular 7 days popular By revi"
+   — 范姜提昂專欄 (2020-03-08)
+3. "浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home 專欄 范姜提昂專欄 范姜提昂專欄 Most popular Latest Featured posts Most popular 7 days popular By review scor"
+   — 范姜提昂專欄 (2020-03-08)
+4. "eatured posts Most popular 7 days popular By review score Random 親中表態？ 小心老共垮台 ◎ 范姜提昂 March 8, 2020 修憲？過不了「公民複決」！◎ 范姜提昂 舔共，台灣必成美軍頭號箭靶 ◎ 范姜提昂 小英應該制止修憲鬧劇 ◎ 范姜提昂"
+   — 范姜提昂專欄 (2020-03-08)
+5. "popular By review score Random 親中表態？ 小心老共垮台 ◎ 范姜提昂 March 8, 2020 修憲？過不了「公民複決」！◎ 范姜提昂 舔共，台灣必成美軍頭號箭靶 ◎ 范姜提昂 小英應該制止修憲鬧劇 ◎ 范姜提昂"
+   — 范姜提昂專欄 (2020-03-08)
+6. "re Random 親中表態？ 小心老共垮台 ◎ 范姜提昂 March 8, 2020 修憲？過不了「公民複決」！◎ 范姜提昂 舔共，台灣必成美軍頭號箭靶 ◎ 范姜提昂 小英應該制止修憲鬧劇 ◎ 范姜提昂"
+   — 范姜提昂專欄 (2020-03-08)
+7. "老共垮台 ◎ 范姜提昂 March 8, 2020 修憲？過不了「公民複決」！◎ 范姜提昂 舔共，台灣必成美軍頭號箭靶 ◎ 范姜提昂 小英應該制止修憲鬧劇 ◎ 范姜提昂"
+   — 范姜提昂專欄 (2020-03-08)
+8. "餘生錄 美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home Tags 小心老共垮台 Tag: 小心老共垮台 我的肥皂箱 親中表態？ 小心老共垮台 ◎ 范姜提昂 March 8, 2020"
+   — 'Tag: 小心老共垮台' (2020-03-08)
+9. "唐培理唐秋詩致敬 歷史必讀 保健 園藝 大洛杉磯台灣會館 台灣會館會訊 台美人影音頻道 浮世繪 我的肥皂箱 股市亮點 記者真心話 週末漫談音樂 Home 專欄 范姜提昂專欄 Page 3 范姜提昂專欄 Latest Latest Featured posts Most popular 7 days popular By rev"
+   — 范姜提昂專欄 (2020-03-08)
+10. "保健 園藝 大洛杉磯台灣會館 台灣會館會訊 台美人影音頻道 浮世繪 我的肥皂箱 股市亮點 記者真心話 週末漫談音樂 Home 專欄 范姜提昂專欄 Page 3 范姜提昂專欄 Latest Latest Featured posts Most popular 7 days popular By review score Rand"
+   — 范姜提昂專欄 (2020-03-08)
+
+### 2019 (6 quotes)
+
+1. "2019-04-08 ◎ 范姜提昂 站在中共立場，韓國瑜就是宣揚「親共傾中必有賞」的活見證。冷靜想：中共是我國「陸海空軍刑法」第十條所定義的敵人，能讓敵人公開寵愛有加，任誰都能看破必有緣故。 韓"
+   — 韓粉之殘暴與幻影 (2019-04-08)
+2. "2019-06-11 自由時報 國際局勢發展 台灣已經必須選邊站 ◎ 范姜提昂 美中衝突並非始自貿易大戰，而是歷史宿命：第一、意識形態互不相容。第二、近代中國「百年國恥」之恨深植人心，中國「超英趕美」之急切根本不擇手段。 眼下情勢，美國頻"
+   — 台灣2020大選定調：親美或親中公投 (2019-06-10)
+3. "時代 世界史地 世界人文 科技新聞 賈伯斯專輯 中國新聞 中國史地 專欄 陳茂雄專欄 陳昭南觀點 何清漣專欄 獨傲村夫專欄 廖清山專欄 陳破空專欄 黃帝穎專欄 范姜提昂專欄 李堅專欄 金恆煒專欄 林保華專欄 動畫 影音 焦點影音 鄭 知道了 新台灣加油 前進新台灣 新聞大解讀 台灣新世紀文教基金會 新聞面對面 驚爆新聞線 關鍵"
+   — 鄭 知道了 (2019-07-22)
+4. "輯 中國新聞 中國史地 English Pages 世界史地 義論 專欄 陳茂雄專欄 陳昭南觀點 何清漣專欄 獨傲村夫專欄 廖清山專欄 陳破空專欄 黃帝穎專欄 范姜提昂專欄 李堅專欄 金恆煒專欄 林保華專欄 動畫 影音 焦點影音 關鍵時刻 鄭 知道了 新台灣加油 前進新台灣 新聞大解讀 新聞面對面 台灣新世紀文教基金會 驚爆新"
+   — 54新觀點 (2019-08-09)
+5. "Times English Pages April 6, 2017 反滲透 先整頓通敵相關法律(Issues amending espionage laws)◎范姜提昂/自由時報+ TAIPEI TIMES/ 2017-3-26 English Pages March 28, 2017 Formosan UMC in San"
+   — English Pages (2019-09-04)
+6. "2019-10-24 自由時報 ◎ 范姜提昂 對選民來說，明年總統及立委大選，票該投給誰，才能概念清楚的向國際傳達台灣主流民意，爭取國際支持，是現在就該想好的問題；而答案，並不難。 首先，就客觀現實而言，"
+   — 「不投匪」就對啦 ◎ 范姜提昂 (2019-10-23)
+
+### 2018 (2 quotes)
+
+1. "時代 世界史地 世界人文 科技新聞 賈伯斯專輯 中國新聞 中國史地 專欄 陳茂雄專欄 陳昭南觀點 何清漣專欄 獨傲村夫專欄 廖清山專欄 陳破空專欄 黃帝穎專欄 范姜提昂專欄 李堅專欄 金恆煒專欄 林保華專欄 動畫 影音 鄭 知道了 政經看民視 新台灣加油 前進新台灣 新聞大解讀 台灣新世紀文教基金會 新聞面對面 驚爆新聞線 關"
+   — 'Daily Archives: June 15, 2018' (2018-06-15)
+2. "時代 世界史地 世界人文 科技新聞 賈伯斯專輯 中國新聞 中國史地 專欄 陳茂雄專欄 陳昭南觀點 何清漣專欄 獨傲村夫專欄 廖清山專欄 陳破空專欄 黃帝穎專欄 范姜提昂專欄 李堅專欄 金恆煒專欄 林保華專欄 動畫 影音 焦點影音 鄭 知道了 政經看民視 新台灣加油 前進新台灣 新聞大解讀 台灣新世紀文教基金會 新聞面對面 驚爆"
+   — 蓬萊島雜誌 (2018-11-02)
+
+### 2017 (176 quotes)
+
+1. "Chiang hall should remain empty By Christian Fan Jiang 范姜提昂 The final point of transitional justice is the question of how to repurpose the"
+   — Chiang hall should remain empty 拆除(蔣廟)？不如順勢重新定位 ◎范姜提昂/Taipei Times+蘋果日報 2017-03-06 (2017-03-06)
+2. "s a member of the Northern Taiwan Society. Translated by Eddy Chang 拆除？不如順勢重新定位（范姜提昂） 2017年03月01日 中正紀念堂轉型正義的終點在：蔣介石銅像移除後，紀念堂這個建築如何重新定位？有人主張從「紀念獨裁者的空間」轉變成「民主象徵的國會」；換"
+   — Chiang hall should remain empty 拆除(蔣廟)？不如順勢重新定位 ◎范姜提昂/Taipei Times+蘋果日報 2017-03-06 (2017-03-06)
+3. "范姜提昂（作者為資深電子媒體工作者） 司法上，台海兩國困境相同：雙方憲法都不承認對方是外國，因此，起訴通敵叛國者所引據之法律，若明訂其通敵對象為外國，會牴觸憲法。 目前"
+   — 反滲透 先整頓通敵相關法律(Issues amending espionage laws)◎范姜提昂/自由時報+ TAIPEI TIMES/ 2017-3-26 (2017-03-28)
+4. "會訊 台美人影音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home 專欄 范姜提昂專欄 范姜提昂專欄 Random Latest Featured posts Most popular 7 days popular By review sco"
+   — 范姜提昂專欄 (2017-03-28)
+5. "音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home 專欄 范姜提昂專欄 范姜提昂專欄 Random Latest Featured posts Most popular 7 days popular By review score Rand"
+   — 范姜提昂專欄 (2017-03-28)
+6. "ys popular By review score Random 反滲透 先整頓通敵相關法律(Issues amending espionage laws)◎范姜提昂/自由時報+ TAIPEI TIMES/ 2017-3-26 March 28, 2017 回顧《熱淚盈眶的感動—他們永不起立，不鼓掌！》◎范姜提昂 20150"
+   — 范姜提昂專欄 (2017-03-28)
+7. "laws)◎范姜提昂/自由時報+ TAIPEI TIMES/ 2017-3-26 March 28, 2017 回顧《熱淚盈眶的感動—他們永不起立，不鼓掌！》◎范姜提昂 20150127 共產黨玩宗教 隨時變臉 ◎范姜提昂/自由時報 12-08-2015 總統民調談小英「強管理弱領導」◎ 范姜提昂 2017-05-01 不赦扁"
+   — 范姜提昂專欄 (2017-03-28)
+8. "ES/ 2017-3-26 March 28, 2017 回顧《熱淚盈眶的感動—他們永不起立，不鼓掌！》◎范姜提昂 20150127 共產黨玩宗教 隨時變臉 ◎范姜提昂/自由時報 12-08-2015 總統民調談小英「強管理弱領導」◎ 范姜提昂 2017-05-01 不赦扁的三個不通 ◎ 范姜提昂 /民報 2017-09-19"
+   — 范姜提昂專欄 (2017-03-28)
+9. "動—他們永不起立，不鼓掌！》◎范姜提昂 20150127 共產黨玩宗教 隨時變臉 ◎范姜提昂/自由時報 12-08-2015 總統民調談小英「強管理弱領導」◎ 范姜提昂 2017-05-01 不赦扁的三個不通 ◎ 范姜提昂 /民報 2017-09-19 自由開講》憲法不能叫憲法，也要同表？◎范姜提昂 07-21-2015 范姜"
+   — 范姜提昂專欄 (2017-03-28)
+10. "7 共產黨玩宗教 隨時變臉 ◎范姜提昂/自由時報 12-08-2015 總統民調談小英「強管理弱領導」◎ 范姜提昂 2017-05-01 不赦扁的三個不通 ◎ 范姜提昂 /民報 2017-09-19 自由開講》憲法不能叫憲法，也要同表？◎范姜提昂 07-21-2015 范姜提昂專欄 July 21, 2015 叛國爽領九萬 阿"
+   — 范姜提昂專欄 (2017-03-28)
+
+### 2016 (6 quotes)
+
+1. "草?! December 11, 2015 Uncategorized 社論》經國先生最大的錯誤？/自由時報/ 2015-05-20 May 20, 2015 范姜提昂專欄 〈自由廣場〉兩黨修憲算計 莫違國家利益(KMT, DPP must work together for the country) ◎ 范姜提昂... De"
+   — 'Tag: KMT' (2016-01-04)
+2. "2015 范姜提昂專欄 〈自由廣場〉兩黨修憲算計 莫違國家利益(KMT, DPP must work together for the country) ◎ 范姜提昂... December 19, 2014 English Pages A country will fail when general public allo"
+   — 'Tag: KMT' (2016-01-04)
+3. "2016-07-20 ◎ 范姜提昂 由於藝人知名度穿透各行業，又容易在年輕社群發酵，對中共而言，很划算！電影殺青才發作的戴立忍事件，是否涉及中共內部鬥爭，待驗證；但對台灣人來說，如同身受，一種脖"
+   — 自由廣場》慟「台灣電影的現實」◎ 范姜提昂/自由時報 2016-07-20 (2016-07-20)
+4. "Global Press Freedom, 2017–2018 ◎VOA+Freedom House 2018-04-26 當直選的統派總統發飆(中英文版)/ 范姜提昂/ Taipei Times/ 2015-3-10 English Pages March 11, 2015 反滲透 先整頓通敵相關法律(Issues amen"
+   — English Pages (2016-08-30)
+5. "3-10 English Pages March 11, 2015 反滲透 先整頓通敵相關法律(Issues amending espionage laws)◎范姜提昂/自由時報+ TAIPEI TIMES/ 2017-3-26 English Pages March 28, 2017 Home care better for"
+   — English Pages (2016-08-30)
+6. "ish Pages January 16, 2018 台灣課綱 中國直營(Unification through a change of identity)◎ 范姜提昂/自由時報+Taipei Times 06-14-2015 English Pages June 14, 2015 自由之家：全球新聞下降 中俄影響外伸 Fre"
+   — English Pages (2016-08-30)
+
+### 2015 (6 quotes)
+
+1. "當直選的統派總統發飆 范姜提昂（作者為台灣北社法政組副召集人） 春節前馬受訪，便已按耐不住，他火冒三丈！挑明說： 實權總統一人統天下，講究術，何謂術？韓非子：「術者， 一一二九以來可喜的是，"
+   — 當直選的統派總統發飆(中英文版)/ 范姜提昂/ Taipei Times/ 2015-3-10 (2015-03-11)
+2. "統，事實證明無法成為國家團結象徵；當國政紛爭， Torn apart by presidential power By Christian Fan Jiang 范姜提昂 Prior to the Lunar New Year holiday, President Ma Ying-jeou (馬英九) could no long"
+   — 當直選的統派總統發飆(中英文版)/ 范姜提昂/ Taipei Times/ 2015-3-10 (2015-03-11)
+3. "ust ◎Mark Kao 高龍榮/Taipei Time... English Pages March 27, 2015 當直選的統派總統發飆(中英文版)/ 范姜提昂/ Taipei Times/ 2015-3-10 English Pages March 11, 2015 「人權先生」籲馬認錯 莫對媒體施壓 ◎新頭殼new"
+   — English Pages (2015-07-20)
+4. "———————————– Curriculum chaos defies the law of the land By Christian Fan Jiang 范姜提昂 The Educational Fundamental Act (教育基本法) is the legislation governing the creati"
+   — 台灣教育部長強暴教育基本法(漢英對照) ◎ 范姜提昂/自由時報+Taipei Times/ 2015-07-23 (2015-07-25)
+5. "Tags 天安門 Tag: 天安門 精闢專論 謝雪紅、連戰和天安門閱兵台◎ 廖建超/ 自由時報/ 2015-09-10 September 10, 2015 范姜提昂專欄 自由廣場》（北社論壇）天安門叛黨叛國？連戰自取其辱！◎ 范姜提昂/自由時報 09-03-2015 September 2, 2015 中國新聞 北京稱將用"
+   — 'Tag: 天安門' (2015-09-10)
+6. "兵台◎ 廖建超/ 自由時報/ 2015-09-10 September 10, 2015 范姜提昂專欄 自由廣場》（北社論壇）天安門叛黨叛國？連戰自取其辱！◎ 范姜提昂/自由時報 09-03-2015 September 2, 2015 中國新聞 北京稱將用霹靂手段 不容忍香港成為橋頭堡 ◎VOA 09-02-2014 Sep"
+   — 'Tag: 天安門' (2015-09-10)
+
+### 2014 (1 quotes)
+
+1. "ay 15, 2015 哪來「兩岸兄弟」？◎陳茂雄 12-25-2012 精闢專論 December 25, 2012 一個2015年修憲運動樂觀者的反省 ◎ 范姜提昂/自由時報 2017-02-20 專欄 February 20, 2017 維基解密揭露台灣政壇內鬥 ◎林楠森 BBC -09-07-2011 精闢專論 Sep"
+   — 專欄 (2014-05-02)
+
+*...and 377 more quotes*
+
+## Quotes
+
+Notable quotes and mentions of **范姜提昂** in Taiwan Justice articles:
+
+
+### Unknown (1 quotes)
+
+1. "||Yu Chieh (余杰)]] — 99 articles - [[people/fan-jiang-ti-ang||Fan Chiang Tsiang (范姜提昂)]] — 66 articles - [[people/yang-ziqing||Yang Zi-qing (楊子清)]] — 65 articles - ["
+   — "taiwanjustice.net Article Archive" (unknown)
+
+### 2025 (2 quotes)
+
+1. "台美人影音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home 專欄 范姜提昂專欄 范姜提昂專欄 By review score Latest Featured posts Most popular 7 days popular By r"
+   — 范姜提昂專欄 (2025-03-23)
+2. "浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home 專欄 范姜提昂專欄 范姜提昂專欄 By review score Latest Featured posts Most popular 7 days popular By review s"
+   — 范姜提昂專欄 (2025-03-23)
+
+### 2024 (4 quotes)
+
+1. "會訊 台美人影音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home 專欄 范姜提昂專欄 范姜提昂專欄 By review score Latest Featured posts Most popular 7 days popular By r"
+   — 范姜提昂專欄 (2024-02-21)
+2. "音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home 專欄 范姜提昂專欄 范姜提昂專欄 By review score Latest Featured posts Most popular 7 days popular By review s"
+   — 范姜提昂專欄 (2024-02-21)
+3. "會訊 台美人影音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home 專欄 范姜提昂專欄 范姜提昂專欄 7 days popular Latest Featured posts Most popular 7 days popular By re"
+   — 范姜提昂專欄 (2024-02-28)
+4. "音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home 專欄 范姜提昂專欄 范姜提昂專欄 7 days popular Latest Featured posts Most popular 7 days popular By review sc"
+   — 范姜提昂專欄 (2024-02-28)
+
+### 2022 (1 quotes)
+
+1. "輯 中國新聞 中國史地 English Pages 世界史地 義論 專欄 陳茂雄專欄 陳昭南觀點 何清漣專欄 獨傲村夫專欄 廖清山專欄 陳破空專欄 黃帝穎專欄 范姜提昂專欄 李堅專欄 金恆煒專欄 林保華專欄 動畫 影音 楊子清 Cliff Yang 音樂教室 焦點影音 關鍵時刻 鄭 知道了 新台灣加油 前進新台灣 新聞面對面"
+   — 'Tag: McConnell' (2022-08-03)
+
+### 2021 (1 quotes)
+
+1. "輯 中國新聞 中國史地 English Pages 世界史地 義論 專欄 陳茂雄專欄 陳昭南觀點 何清漣專欄 獨傲村夫專欄 廖清山專欄 陳破空專欄 黃帝穎專欄 范姜提昂專欄 李堅專欄 金恆煒專欄 林保華專欄 動畫 影音 楊子清 Cliff Yang 音樂教室 焦點影音 關鍵時刻 鄭 知道了 新台灣加油 前進新台灣 新聞大解讀"
+   — 'Tag: 加拿大總理及國會力挺HFX論壇' (2021-04-14)
+
+### 2020 (181 quotes)
+
+1. "2020-03-08 自由時報《自由廣場》 ◎ 范姜提昂 中國共產黨「侵台攻略」很清楚，先利用馬執政，成為國民黨親中舔共加盟系統的加盟店，再利用台灣民主環境，成功建構中共在台直營系統。而馬英九、柯文哲等爭先恐後，起乩"
+   — 親中表態？ 小心老共垮台  ◎ 范姜提昂 (2020-03-08)
+2. "台美人影音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home 專欄 范姜提昂專欄 范姜提昂專欄 Most popular Latest Featured posts Most popular 7 days popular By revi"
+   — 范姜提昂專欄 (2020-03-08)
+3. "浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home 專欄 范姜提昂專欄 范姜提昂專欄 Most popular Latest Featured posts Most popular 7 days popular By review scor"
+   — 范姜提昂專欄 (2020-03-08)
+4. "eatured posts Most popular 7 days popular By review score Random 親中表態？ 小心老共垮台 ◎ 范姜提昂 March 8, 2020 修憲？過不了「公民複決」！◎ 范姜提昂 舔共，台灣必成美軍頭號箭靶 ◎ 范姜提昂 小英應該制止修憲鬧劇 ◎ 范姜提昂"
+   — 范姜提昂專欄 (2020-03-08)
+5. "popular By review score Random 親中表態？ 小心老共垮台 ◎ 范姜提昂 March 8, 2020 修憲？過不了「公民複決」！◎ 范姜提昂 舔共，台灣必成美軍頭號箭靶 ◎ 范姜提昂 小英應該制止修憲鬧劇 ◎ 范姜提昂"
+   — 范姜提昂專欄 (2020-03-08)
+6. "re Random 親中表態？ 小心老共垮台 ◎ 范姜提昂 March 8, 2020 修憲？過不了「公民複決」！◎ 范姜提昂 舔共，台灣必成美軍頭號箭靶 ◎ 范姜提昂 小英應該制止修憲鬧劇 ◎ 范姜提昂"
+   — 范姜提昂專欄 (2020-03-08)
+7. "老共垮台 ◎ 范姜提昂 March 8, 2020 修憲？過不了「公民複決」！◎ 范姜提昂 舔共，台灣必成美軍頭號箭靶 ◎ 范姜提昂 小英應該制止修憲鬧劇 ◎ 范姜提昂"
+   — 范姜提昂專欄 (2020-03-08)
+8. "餘生錄 美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home Tags 小心老共垮台 Tag: 小心老共垮台 我的肥皂箱 親中表態？ 小心老共垮台 ◎ 范姜提昂 March 8, 2020"
+   — 'Tag: 小心老共垮台' (2020-03-08)
+9. "唐培理唐秋詩致敬 歷史必讀 保健 園藝 大洛杉磯台灣會館 台灣會館會訊 台美人影音頻道 浮世繪 我的肥皂箱 股市亮點 記者真心話 週末漫談音樂 Home 專欄 范姜提昂專欄 Page 3 范姜提昂專欄 Latest Latest Featured posts Most popular 7 days popular By rev"
+   — 范姜提昂專欄 (2020-03-08)
+10. "保健 園藝 大洛杉磯台灣會館 台灣會館會訊 台美人影音頻道 浮世繪 我的肥皂箱 股市亮點 記者真心話 週末漫談音樂 Home 專欄 范姜提昂專欄 Page 3 范姜提昂專欄 Latest Latest Featured posts Most popular 7 days popular By review score Rand"
+   — 范姜提昂專欄 (2020-03-08)
+
+### 2019 (6 quotes)
+
+1. "2019-04-08 ◎ 范姜提昂 站在中共立場，韓國瑜就是宣揚「親共傾中必有賞」的活見證。冷靜想：中共是我國「陸海空軍刑法」第十條所定義的敵人，能讓敵人公開寵愛有加，任誰都能看破必有緣故。 韓"
+   — 韓粉之殘暴與幻影 (2019-04-08)
+2. "2019-06-11 自由時報 國際局勢發展 台灣已經必須選邊站 ◎ 范姜提昂 美中衝突並非始自貿易大戰，而是歷史宿命：第一、意識形態互不相容。第二、近代中國「百年國恥」之恨深植人心，中國「超英趕美」之急切根本不擇手段。 眼下情勢，美國頻"
+   — 台灣2020大選定調：親美或親中公投 (2019-06-10)
+3. "時代 世界史地 世界人文 科技新聞 賈伯斯專輯 中國新聞 中國史地 專欄 陳茂雄專欄 陳昭南觀點 何清漣專欄 獨傲村夫專欄 廖清山專欄 陳破空專欄 黃帝穎專欄 范姜提昂專欄 李堅專欄 金恆煒專欄 林保華專欄 動畫 影音 焦點影音 鄭 知道了 新台灣加油 前進新台灣 新聞大解讀 台灣新世紀文教基金會 新聞面對面 驚爆新聞線 關鍵"
+   — 鄭 知道了 (2019-07-22)
+4. "輯 中國新聞 中國史地 English Pages 世界史地 義論 專欄 陳茂雄專欄 陳昭南觀點 何清漣專欄 獨傲村夫專欄 廖清山專欄 陳破空專欄 黃帝穎專欄 范姜提昂專欄 李堅專欄 金恆煒專欄 林保華專欄 動畫 影音 焦點影音 關鍵時刻 鄭 知道了 新台灣加油 前進新台灣 新聞大解讀 新聞面對面 台灣新世紀文教基金會 驚爆新"
+   — 54新觀點 (2019-08-09)
+5. "Times English Pages April 6, 2017 反滲透 先整頓通敵相關法律(Issues amending espionage laws)◎范姜提昂/自由時報+ TAIPEI TIMES/ 2017-3-26 English Pages March 28, 2017 Formosan UMC in San"
+   — English Pages (2019-09-04)
+6. "2019-10-24 自由時報 ◎ 范姜提昂 對選民來說，明年總統及立委大選，票該投給誰，才能概念清楚的向國際傳達台灣主流民意，爭取國際支持，是現在就該想好的問題；而答案，並不難。 首先，就客觀現實而言，"
+   — 「不投匪」就對啦 ◎ 范姜提昂 (2019-10-23)
+
+### 2018 (2 quotes)
+
+1. "時代 世界史地 世界人文 科技新聞 賈伯斯專輯 中國新聞 中國史地 專欄 陳茂雄專欄 陳昭南觀點 何清漣專欄 獨傲村夫專欄 廖清山專欄 陳破空專欄 黃帝穎專欄 范姜提昂專欄 李堅專欄 金恆煒專欄 林保華專欄 動畫 影音 鄭 知道了 政經看民視 新台灣加油 前進新台灣 新聞大解讀 台灣新世紀文教基金會 新聞面對面 驚爆新聞線 關"
+   — 'Daily Archives: June 15, 2018' (2018-06-15)
+2. "時代 世界史地 世界人文 科技新聞 賈伯斯專輯 中國新聞 中國史地 專欄 陳茂雄專欄 陳昭南觀點 何清漣專欄 獨傲村夫專欄 廖清山專欄 陳破空專欄 黃帝穎專欄 范姜提昂專欄 李堅專欄 金恆煒專欄 林保華專欄 動畫 影音 焦點影音 鄭 知道了 政經看民視 新台灣加油 前進新台灣 新聞大解讀 台灣新世紀文教基金會 新聞面對面 驚爆"
+   — 蓬萊島雜誌 (2018-11-02)
+
+### 2017 (176 quotes)
+
+1. "Chiang hall should remain empty By Christian Fan Jiang 范姜提昂 The final point of transitional justice is the question of how to repurpose the"
+   — Chiang hall should remain empty 拆除(蔣廟)？不如順勢重新定位 ◎范姜提昂/Taipei Times+蘋果日報 2017-03-06 (2017-03-06)
+2. "s a member of the Northern Taiwan Society. Translated by Eddy Chang 拆除？不如順勢重新定位（范姜提昂） 2017年03月01日 中正紀念堂轉型正義的終點在：蔣介石銅像移除後，紀念堂這個建築如何重新定位？有人主張從「紀念獨裁者的空間」轉變成「民主象徵的國會」；換"
+   — Chiang hall should remain empty 拆除(蔣廟)？不如順勢重新定位 ◎范姜提昂/Taipei Times+蘋果日報 2017-03-06 (2017-03-06)
+3. "范姜提昂（作者為資深電子媒體工作者） 司法上，台海兩國困境相同：雙方憲法都不承認對方是外國，因此，起訴通敵叛國者所引據之法律，若明訂其通敵對象為外國，會牴觸憲法。 目前"
+   — 反滲透 先整頓通敵相關法律(Issues amending espionage laws)◎范姜提昂/自由時報+ TAIPEI TIMES/ 2017-3-26 (2017-03-28)
+4. "會訊 台美人影音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home 專欄 范姜提昂專欄 范姜提昂專欄 Random Latest Featured posts Most popular 7 days popular By review sco"
+   — 范姜提昂專欄 (2017-03-28)
+5. "音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home 專欄 范姜提昂專欄 范姜提昂專欄 Random Latest Featured posts Most popular 7 days popular By review score Rand"
+   — 范姜提昂專欄 (2017-03-28)
+6. "ys popular By review score Random 反滲透 先整頓通敵相關法律(Issues amending espionage laws)◎范姜提昂/自由時報+ TAIPEI TIMES/ 2017-3-26 March 28, 2017 回顧《熱淚盈眶的感動—他們永不起立，不鼓掌！》◎范姜提昂 20150"
+   — 范姜提昂專欄 (2017-03-28)
+7. "laws)◎范姜提昂/自由時報+ TAIPEI TIMES/ 2017-3-26 March 28, 2017 回顧《熱淚盈眶的感動—他們永不起立，不鼓掌！》◎范姜提昂 20150127 共產黨玩宗教 隨時變臉 ◎范姜提昂/自由時報 12-08-2015 總統民調談小英「強管理弱領導」◎ 范姜提昂 2017-05-01 不赦扁"
+   — 范姜提昂專欄 (2017-03-28)
+8. "ES/ 2017-3-26 March 28, 2017 回顧《熱淚盈眶的感動—他們永不起立，不鼓掌！》◎范姜提昂 20150127 共產黨玩宗教 隨時變臉 ◎范姜提昂/自由時報 12-08-2015 總統民調談小英「強管理弱領導」◎ 范姜提昂 2017-05-01 不赦扁的三個不通 ◎ 范姜提昂 /民報 2017-09-19"
+   — 范姜提昂專欄 (2017-03-28)
+9. "動—他們永不起立，不鼓掌！》◎范姜提昂 20150127 共產黨玩宗教 隨時變臉 ◎范姜提昂/自由時報 12-08-2015 總統民調談小英「強管理弱領導」◎ 范姜提昂 2017-05-01 不赦扁的三個不通 ◎ 范姜提昂 /民報 2017-09-19 自由開講》憲法不能叫憲法，也要同表？◎范姜提昂 07-21-2015 范姜"
+   — 范姜提昂專欄 (2017-03-28)
+10. "7 共產黨玩宗教 隨時變臉 ◎范姜提昂/自由時報 12-08-2015 總統民調談小英「強管理弱領導」◎ 范姜提昂 2017-05-01 不赦扁的三個不通 ◎ 范姜提昂 /民報 2017-09-19 自由開講》憲法不能叫憲法，也要同表？◎范姜提昂 07-21-2015 范姜提昂專欄 July 21, 2015 叛國爽領九萬 阿"
+   — 范姜提昂專欄 (2017-03-28)
+
+### 2016 (6 quotes)
+
+1. "草?! December 11, 2015 Uncategorized 社論》經國先生最大的錯誤？/自由時報/ 2015-05-20 May 20, 2015 范姜提昂專欄 〈自由廣場〉兩黨修憲算計 莫違國家利益(KMT, DPP must work together for the country) ◎ 范姜提昂... De"
+   — 'Tag: KMT' (2016-01-04)
+2. "2015 范姜提昂專欄 〈自由廣場〉兩黨修憲算計 莫違國家利益(KMT, DPP must work together for the country) ◎ 范姜提昂... December 19, 2014 English Pages A country will fail when general public allo"
+   — 'Tag: KMT' (2016-01-04)
+3. "2016-07-20 ◎ 范姜提昂 由於藝人知名度穿透各行業，又容易在年輕社群發酵，對中共而言，很划算！電影殺青才發作的戴立忍事件，是否涉及中共內部鬥爭，待驗證；但對台灣人來說，如同身受，一種脖"
+   — 自由廣場》慟「台灣電影的現實」◎ 范姜提昂/自由時報 2016-07-20 (2016-07-20)
+4. "Global Press Freedom, 2017–2018 ◎VOA+Freedom House 2018-04-26 當直選的統派總統發飆(中英文版)/ 范姜提昂/ Taipei Times/ 2015-3-10 English Pages March 11, 2015 反滲透 先整頓通敵相關法律(Issues amen"
+   — English Pages (2016-08-30)
+5. "3-10 English Pages March 11, 2015 反滲透 先整頓通敵相關法律(Issues amending espionage laws)◎范姜提昂/自由時報+ TAIPEI TIMES/ 2017-3-26 English Pages March 28, 2017 Home care better for"
+   — English Pages (2016-08-30)
+6. "ish Pages January 16, 2018 台灣課綱 中國直營(Unification through a change of identity)◎ 范姜提昂/自由時報+Taipei Times 06-14-2015 English Pages June 14, 2015 自由之家：全球新聞下降 中俄影響外伸 Fre"
+   — English Pages (2016-08-30)
+
+### 2015 (6 quotes)
+
+1. "當直選的統派總統發飆 范姜提昂（作者為台灣北社法政組副召集人） 春節前馬受訪，便已按耐不住，他火冒三丈！挑明說： 實權總統一人統天下，講究術，何謂術？韓非子：「術者， 一一二九以來可喜的是，"
+   — 當直選的統派總統發飆(中英文版)/ 范姜提昂/ Taipei Times/ 2015-3-10 (2015-03-11)
+2. "統，事實證明無法成為國家團結象徵；當國政紛爭， Torn apart by presidential power By Christian Fan Jiang 范姜提昂 Prior to the Lunar New Year holiday, President Ma Ying-jeou (馬英九) could no long"
+   — 當直選的統派總統發飆(中英文版)/ 范姜提昂/ Taipei Times/ 2015-3-10 (2015-03-11)
+3. "ust ◎Mark Kao 高龍榮/Taipei Time... English Pages March 27, 2015 當直選的統派總統發飆(中英文版)/ 范姜提昂/ Taipei Times/ 2015-3-10 English Pages March 11, 2015 「人權先生」籲馬認錯 莫對媒體施壓 ◎新頭殼new"
+   — English Pages (2015-07-20)
+4. "———————————– Curriculum chaos defies the law of the land By Christian Fan Jiang 范姜提昂 The Educational Fundamental Act (教育基本法) is the legislation governing the creati"
+   — 台灣教育部長強暴教育基本法(漢英對照) ◎ 范姜提昂/自由時報+Taipei Times/ 2015-07-23 (2015-07-25)
+5. "Tags 天安門 Tag: 天安門 精闢專論 謝雪紅、連戰和天安門閱兵台◎ 廖建超/ 自由時報/ 2015-09-10 September 10, 2015 范姜提昂專欄 自由廣場》（北社論壇）天安門叛黨叛國？連戰自取其辱！◎ 范姜提昂/自由時報 09-03-2015 September 2, 2015 中國新聞 北京稱將用"
+   — 'Tag: 天安門' (2015-09-10)
+6. "兵台◎ 廖建超/ 自由時報/ 2015-09-10 September 10, 2015 范姜提昂專欄 自由廣場》（北社論壇）天安門叛黨叛國？連戰自取其辱！◎ 范姜提昂/自由時報 09-03-2015 September 2, 2015 中國新聞 北京稱將用霹靂手段 不容忍香港成為橋頭堡 ◎VOA 09-02-2014 Sep"
+   — 'Tag: 天安門' (2015-09-10)
+
+### 2014 (1 quotes)
+
+1. "ay 15, 2015 哪來「兩岸兄弟」？◎陳茂雄 12-25-2012 精闢專論 December 25, 2012 一個2015年修憲運動樂觀者的反省 ◎ 范姜提昂/自由時報 2017-02-20 專欄 February 20, 2017 維基解密揭露台灣政壇內鬥 ◎林楠森 BBC -09-07-2011 精闢專論 Sep"
+   — 專欄 (2014-05-02)
+
+*...and 377 more quotes*
 
 ## Works
 
@@ -112,6 +336,7 @@ See the source hub. Top mentions:
 3. [[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea|台美人台加人]]
 4. [[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3|台美人台加人]]
 5. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596|台美人台加人]]
+
 
 
 ## Timeline
@@ -11150,149 +11375,6 @@ Chronological events for **范姜提昂**:
 - **2011-10-12** 📰 'Tag: Apple Computer'
 - **2011-11-09** 🎤 兩岸關係
 - **2011-11-25** 🎤 中國新聞
-
-## Quotes
-
-Notable quotes and mentions of **范姜提昂** in Taiwan Justice articles:
-
-
-### Unknown (1 quotes)
-
-1. "||Yu Chieh (余杰)]] — 99 articles - [[people/fan-jiang-ti-ang||Fan Chiang Tsiang (范姜提昂)]] — 66 articles - [[people/yang-ziqing||Yang Zi-qing (楊子清)]] — 65 articles - ["
-   — "taiwanjustice.net Article Archive" (unknown)
-
-### 2025 (2 quotes)
-
-1. "台美人影音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home 專欄 范姜提昂專欄 范姜提昂專欄 By review score Latest Featured posts Most popular 7 days popular By r"
-   — 范姜提昂專欄 (2025-03-23)
-2. "浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home 專欄 范姜提昂專欄 范姜提昂專欄 By review score Latest Featured posts Most popular 7 days popular By review s"
-   — 范姜提昂專欄 (2025-03-23)
-
-### 2024 (4 quotes)
-
-1. "會訊 台美人影音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home 專欄 范姜提昂專欄 范姜提昂專欄 By review score Latest Featured posts Most popular 7 days popular By r"
-   — 范姜提昂專欄 (2024-02-21)
-2. "音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home 專欄 范姜提昂專欄 范姜提昂專欄 By review score Latest Featured posts Most popular 7 days popular By review s"
-   — 范姜提昂專欄 (2024-02-21)
-3. "會訊 台美人影音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home 專欄 范姜提昂專欄 范姜提昂專欄 7 days popular Latest Featured posts Most popular 7 days popular By re"
-   — 范姜提昂專欄 (2024-02-28)
-4. "音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home 專欄 范姜提昂專欄 范姜提昂專欄 7 days popular Latest Featured posts Most popular 7 days popular By review sc"
-   — 范姜提昂專欄 (2024-02-28)
-
-### 2022 (1 quotes)
-
-1. "輯 中國新聞 中國史地 English Pages 世界史地 義論 專欄 陳茂雄專欄 陳昭南觀點 何清漣專欄 獨傲村夫專欄 廖清山專欄 陳破空專欄 黃帝穎專欄 范姜提昂專欄 李堅專欄 金恆煒專欄 林保華專欄 動畫 影音 楊子清 Cliff Yang 音樂教室 焦點影音 關鍵時刻 鄭 知道了 新台灣加油 前進新台灣 新聞面對面"
-   — 'Tag: McConnell' (2022-08-03)
-
-### 2021 (1 quotes)
-
-1. "輯 中國新聞 中國史地 English Pages 世界史地 義論 專欄 陳茂雄專欄 陳昭南觀點 何清漣專欄 獨傲村夫專欄 廖清山專欄 陳破空專欄 黃帝穎專欄 范姜提昂專欄 李堅專欄 金恆煒專欄 林保華專欄 動畫 影音 楊子清 Cliff Yang 音樂教室 焦點影音 關鍵時刻 鄭 知道了 新台灣加油 前進新台灣 新聞大解讀"
-   — 'Tag: 加拿大總理及國會力挺HFX論壇' (2021-04-14)
-
-### 2020 (181 quotes)
-
-1. "2020-03-08 自由時報《自由廣場》 ◎ 范姜提昂 中國共產黨「侵台攻略」很清楚，先利用馬執政，成為國民黨親中舔共加盟系統的加盟店，再利用台灣民主環境，成功建構中共在台直營系統。而馬英九、柯文哲等爭先恐後，起乩"
-   — 親中表態？ 小心老共垮台  ◎ 范姜提昂 (2020-03-08)
-2. "台美人影音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home 專欄 范姜提昂專欄 范姜提昂專欄 Most popular Latest Featured posts Most popular 7 days popular By revi"
-   — 范姜提昂專欄 (2020-03-08)
-3. "浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home 專欄 范姜提昂專欄 范姜提昂專欄 Most popular Latest Featured posts Most popular 7 days popular By review scor"
-   — 范姜提昂專欄 (2020-03-08)
-4. "eatured posts Most popular 7 days popular By review score Random 親中表態？ 小心老共垮台 ◎ 范姜提昂 March 8, 2020 修憲？過不了「公民複決」！◎ 范姜提昂 舔共，台灣必成美軍頭號箭靶 ◎ 范姜提昂 小英應該制止修憲鬧劇 ◎ 范姜提昂"
-   — 范姜提昂專欄 (2020-03-08)
-5. "popular By review score Random 親中表態？ 小心老共垮台 ◎ 范姜提昂 March 8, 2020 修憲？過不了「公民複決」！◎ 范姜提昂 舔共，台灣必成美軍頭號箭靶 ◎ 范姜提昂 小英應該制止修憲鬧劇 ◎ 范姜提昂"
-   — 范姜提昂專欄 (2020-03-08)
-6. "re Random 親中表態？ 小心老共垮台 ◎ 范姜提昂 March 8, 2020 修憲？過不了「公民複決」！◎ 范姜提昂 舔共，台灣必成美軍頭號箭靶 ◎ 范姜提昂 小英應該制止修憲鬧劇 ◎ 范姜提昂"
-   — 范姜提昂專欄 (2020-03-08)
-7. "老共垮台 ◎ 范姜提昂 March 8, 2020 修憲？過不了「公民複決」！◎ 范姜提昂 舔共，台灣必成美軍頭號箭靶 ◎ 范姜提昂 小英應該制止修憲鬧劇 ◎ 范姜提昂"
-   — 范姜提昂專欄 (2020-03-08)
-8. "餘生錄 美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home Tags 小心老共垮台 Tag: 小心老共垮台 我的肥皂箱 親中表態？ 小心老共垮台 ◎ 范姜提昂 March 8, 2020"
-   — 'Tag: 小心老共垮台' (2020-03-08)
-9. "唐培理唐秋詩致敬 歷史必讀 保健 園藝 大洛杉磯台灣會館 台灣會館會訊 台美人影音頻道 浮世繪 我的肥皂箱 股市亮點 記者真心話 週末漫談音樂 Home 專欄 范姜提昂專欄 Page 3 范姜提昂專欄 Latest Latest Featured posts Most popular 7 days popular By rev"
-   — 范姜提昂專欄 (2020-03-08)
-10. "保健 園藝 大洛杉磯台灣會館 台灣會館會訊 台美人影音頻道 浮世繪 我的肥皂箱 股市亮點 記者真心話 週末漫談音樂 Home 專欄 范姜提昂專欄 Page 3 范姜提昂專欄 Latest Latest Featured posts Most popular 7 days popular By review score Rand"
-   — 范姜提昂專欄 (2020-03-08)
-
-### 2019 (6 quotes)
-
-1. "2019-04-08 ◎ 范姜提昂 站在中共立場，韓國瑜就是宣揚「親共傾中必有賞」的活見證。冷靜想：中共是我國「陸海空軍刑法」第十條所定義的敵人，能讓敵人公開寵愛有加，任誰都能看破必有緣故。 韓"
-   — 韓粉之殘暴與幻影 (2019-04-08)
-2. "2019-06-11 自由時報 國際局勢發展 台灣已經必須選邊站 ◎ 范姜提昂 美中衝突並非始自貿易大戰，而是歷史宿命：第一、意識形態互不相容。第二、近代中國「百年國恥」之恨深植人心，中國「超英趕美」之急切根本不擇手段。 眼下情勢，美國頻"
-   — 台灣2020大選定調：親美或親中公投 (2019-06-10)
-3. "時代 世界史地 世界人文 科技新聞 賈伯斯專輯 中國新聞 中國史地 專欄 陳茂雄專欄 陳昭南觀點 何清漣專欄 獨傲村夫專欄 廖清山專欄 陳破空專欄 黃帝穎專欄 范姜提昂專欄 李堅專欄 金恆煒專欄 林保華專欄 動畫 影音 焦點影音 鄭 知道了 新台灣加油 前進新台灣 新聞大解讀 台灣新世紀文教基金會 新聞面對面 驚爆新聞線 關鍵"
-   — 鄭 知道了 (2019-07-22)
-4. "輯 中國新聞 中國史地 English Pages 世界史地 義論 專欄 陳茂雄專欄 陳昭南觀點 何清漣專欄 獨傲村夫專欄 廖清山專欄 陳破空專欄 黃帝穎專欄 范姜提昂專欄 李堅專欄 金恆煒專欄 林保華專欄 動畫 影音 焦點影音 關鍵時刻 鄭 知道了 新台灣加油 前進新台灣 新聞大解讀 新聞面對面 台灣新世紀文教基金會 驚爆新"
-   — 54新觀點 (2019-08-09)
-5. "Times English Pages April 6, 2017 反滲透 先整頓通敵相關法律(Issues amending espionage laws)◎范姜提昂/自由時報+ TAIPEI TIMES/ 2017-3-26 English Pages March 28, 2017 Formosan UMC in San"
-   — English Pages (2019-09-04)
-6. "2019-10-24 自由時報 ◎ 范姜提昂 對選民來說，明年總統及立委大選，票該投給誰，才能概念清楚的向國際傳達台灣主流民意，爭取國際支持，是現在就該想好的問題；而答案，並不難。 首先，就客觀現實而言，"
-   — 「不投匪」就對啦 ◎ 范姜提昂 (2019-10-23)
-
-### 2018 (2 quotes)
-
-1. "時代 世界史地 世界人文 科技新聞 賈伯斯專輯 中國新聞 中國史地 專欄 陳茂雄專欄 陳昭南觀點 何清漣專欄 獨傲村夫專欄 廖清山專欄 陳破空專欄 黃帝穎專欄 范姜提昂專欄 李堅專欄 金恆煒專欄 林保華專欄 動畫 影音 鄭 知道了 政經看民視 新台灣加油 前進新台灣 新聞大解讀 台灣新世紀文教基金會 新聞面對面 驚爆新聞線 關"
-   — 'Daily Archives: June 15, 2018' (2018-06-15)
-2. "時代 世界史地 世界人文 科技新聞 賈伯斯專輯 中國新聞 中國史地 專欄 陳茂雄專欄 陳昭南觀點 何清漣專欄 獨傲村夫專欄 廖清山專欄 陳破空專欄 黃帝穎專欄 范姜提昂專欄 李堅專欄 金恆煒專欄 林保華專欄 動畫 影音 焦點影音 鄭 知道了 政經看民視 新台灣加油 前進新台灣 新聞大解讀 台灣新世紀文教基金會 新聞面對面 驚爆"
-   — 蓬萊島雜誌 (2018-11-02)
-
-### 2017 (176 quotes)
-
-1. "Chiang hall should remain empty By Christian Fan Jiang 范姜提昂 The final point of transitional justice is the question of how to repurpose the"
-   — Chiang hall should remain empty 拆除(蔣廟)？不如順勢重新定位 ◎范姜提昂/Taipei Times+蘋果日報 2017-03-06 (2017-03-06)
-2. "s a member of the Northern Taiwan Society. Translated by Eddy Chang 拆除？不如順勢重新定位（范姜提昂） 2017年03月01日 中正紀念堂轉型正義的終點在：蔣介石銅像移除後，紀念堂這個建築如何重新定位？有人主張從「紀念獨裁者的空間」轉變成「民主象徵的國會」；換"
-   — Chiang hall should remain empty 拆除(蔣廟)？不如順勢重新定位 ◎范姜提昂/Taipei Times+蘋果日報 2017-03-06 (2017-03-06)
-3. "范姜提昂（作者為資深電子媒體工作者） 司法上，台海兩國困境相同：雙方憲法都不承認對方是外國，因此，起訴通敵叛國者所引據之法律，若明訂其通敵對象為外國，會牴觸憲法。 目前"
-   — 反滲透 先整頓通敵相關法律(Issues amending espionage laws)◎范姜提昂/自由時報+ TAIPEI TIMES/ 2017-3-26 (2017-03-28)
-4. "會訊 台美人影音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home 專欄 范姜提昂專欄 范姜提昂專欄 Random Latest Featured posts Most popular 7 days popular By review sco"
-   — 范姜提昂專欄 (2017-03-28)
-5. "音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home 專欄 范姜提昂專欄 范姜提昂專欄 Random Latest Featured posts Most popular 7 days popular By review score Rand"
-   — 范姜提昂專欄 (2017-03-28)
-6. "ys popular By review score Random 反滲透 先整頓通敵相關法律(Issues amending espionage laws)◎范姜提昂/自由時報+ TAIPEI TIMES/ 2017-3-26 March 28, 2017 回顧《熱淚盈眶的感動—他們永不起立，不鼓掌！》◎范姜提昂 20150"
-   — 范姜提昂專欄 (2017-03-28)
-7. "laws)◎范姜提昂/自由時報+ TAIPEI TIMES/ 2017-3-26 March 28, 2017 回顧《熱淚盈眶的感動—他們永不起立，不鼓掌！》◎范姜提昂 20150127 共產黨玩宗教 隨時變臉 ◎范姜提昂/自由時報 12-08-2015 總統民調談小英「強管理弱領導」◎ 范姜提昂 2017-05-01 不赦扁"
-   — 范姜提昂專欄 (2017-03-28)
-8. "ES/ 2017-3-26 March 28, 2017 回顧《熱淚盈眶的感動—他們永不起立，不鼓掌！》◎范姜提昂 20150127 共產黨玩宗教 隨時變臉 ◎范姜提昂/自由時報 12-08-2015 總統民調談小英「強管理弱領導」◎ 范姜提昂 2017-05-01 不赦扁的三個不通 ◎ 范姜提昂 /民報 2017-09-19"
-   — 范姜提昂專欄 (2017-03-28)
-9. "動—他們永不起立，不鼓掌！》◎范姜提昂 20150127 共產黨玩宗教 隨時變臉 ◎范姜提昂/自由時報 12-08-2015 總統民調談小英「強管理弱領導」◎ 范姜提昂 2017-05-01 不赦扁的三個不通 ◎ 范姜提昂 /民報 2017-09-19 自由開講》憲法不能叫憲法，也要同表？◎范姜提昂 07-21-2015 范姜"
-   — 范姜提昂專欄 (2017-03-28)
-10. "7 共產黨玩宗教 隨時變臉 ◎范姜提昂/自由時報 12-08-2015 總統民調談小英「強管理弱領導」◎ 范姜提昂 2017-05-01 不赦扁的三個不通 ◎ 范姜提昂 /民報 2017-09-19 自由開講》憲法不能叫憲法，也要同表？◎范姜提昂 07-21-2015 范姜提昂專欄 July 21, 2015 叛國爽領九萬 阿"
-   — 范姜提昂專欄 (2017-03-28)
-
-### 2016 (6 quotes)
-
-1. "草?! December 11, 2015 Uncategorized 社論》經國先生最大的錯誤？/自由時報/ 2015-05-20 May 20, 2015 范姜提昂專欄 〈自由廣場〉兩黨修憲算計 莫違國家利益(KMT, DPP must work together for the country) ◎ 范姜提昂... De"
-   — 'Tag: KMT' (2016-01-04)
-2. "2015 范姜提昂專欄 〈自由廣場〉兩黨修憲算計 莫違國家利益(KMT, DPP must work together for the country) ◎ 范姜提昂... December 19, 2014 English Pages A country will fail when general public allo"
-   — 'Tag: KMT' (2016-01-04)
-3. "2016-07-20 ◎ 范姜提昂 由於藝人知名度穿透各行業，又容易在年輕社群發酵，對中共而言，很划算！電影殺青才發作的戴立忍事件，是否涉及中共內部鬥爭，待驗證；但對台灣人來說，如同身受，一種脖"
-   — 自由廣場》慟「台灣電影的現實」◎ 范姜提昂/自由時報 2016-07-20 (2016-07-20)
-4. "Global Press Freedom, 2017–2018 ◎VOA+Freedom House 2018-04-26 當直選的統派總統發飆(中英文版)/ 范姜提昂/ Taipei Times/ 2015-3-10 English Pages March 11, 2015 反滲透 先整頓通敵相關法律(Issues amen"
-   — English Pages (2016-08-30)
-5. "3-10 English Pages March 11, 2015 反滲透 先整頓通敵相關法律(Issues amending espionage laws)◎范姜提昂/自由時報+ TAIPEI TIMES/ 2017-3-26 English Pages March 28, 2017 Home care better for"
-   — English Pages (2016-08-30)
-6. "ish Pages January 16, 2018 台灣課綱 中國直營(Unification through a change of identity)◎ 范姜提昂/自由時報+Taipei Times 06-14-2015 English Pages June 14, 2015 自由之家：全球新聞下降 中俄影響外伸 Fre"
-   — English Pages (2016-08-30)
-
-### 2015 (6 quotes)
-
-1. "當直選的統派總統發飆 范姜提昂（作者為台灣北社法政組副召集人） 春節前馬受訪，便已按耐不住，他火冒三丈！挑明說： 實權總統一人統天下，講究術，何謂術？韓非子：「術者， 一一二九以來可喜的是，"
-   — 當直選的統派總統發飆(中英文版)/ 范姜提昂/ Taipei Times/ 2015-3-10 (2015-03-11)
-2. "統，事實證明無法成為國家團結象徵；當國政紛爭， Torn apart by presidential power By Christian Fan Jiang 范姜提昂 Prior to the Lunar New Year holiday, President Ma Ying-jeou (馬英九) could no long"
-   — 當直選的統派總統發飆(中英文版)/ 范姜提昂/ Taipei Times/ 2015-3-10 (2015-03-11)
-3. "ust ◎Mark Kao 高龍榮/Taipei Time... English Pages March 27, 2015 當直選的統派總統發飆(中英文版)/ 范姜提昂/ Taipei Times/ 2015-3-10 English Pages March 11, 2015 「人權先生」籲馬認錯 莫對媒體施壓 ◎新頭殼new"
-   — English Pages (2015-07-20)
-4. "———————————– Curriculum chaos defies the law of the land By Christian Fan Jiang 范姜提昂 The Educational Fundamental Act (教育基本法) is the legislation governing the creati"
-   — 台灣教育部長強暴教育基本法(漢英對照) ◎ 范姜提昂/自由時報+Taipei Times/ 2015-07-23 (2015-07-25)
-5. "Tags 天安門 Tag: 天安門 精闢專論 謝雪紅、連戰和天安門閱兵台◎ 廖建超/ 自由時報/ 2015-09-10 September 10, 2015 范姜提昂專欄 自由廣場》（北社論壇）天安門叛黨叛國？連戰自取其辱！◎ 范姜提昂/自由時報 09-03-2015 September 2, 2015 中國新聞 北京稱將用"
-   — 'Tag: 天安門' (2015-09-10)
-6. "兵台◎ 廖建超/ 自由時報/ 2015-09-10 September 10, 2015 范姜提昂專欄 自由廣場》（北社論壇）天安門叛黨叛國？連戰自取其辱！◎ 范姜提昂/自由時報 09-03-2015 September 2, 2015 中國新聞 北京稱將用霹靂手段 不容忍香港成為橋頭堡 ◎VOA 09-02-2014 Sep"
-   — 'Tag: 天安門' (2015-09-10)
-
-### 2014 (1 quotes)
-
-1. "ay 15, 2015 哪來「兩岸兄弟」？◎陳茂雄 12-25-2012 精闢專論 December 25, 2012 一個2015年修憲運動樂觀者的反省 ◎ 范姜提昂/自由時報 2017-02-20 專欄 February 20, 2017 維基解密揭露台灣政壇內鬥 ◎林楠森 BBC -09-07-2011 精闢專論 Sep"
-   — 專欄 (2014-05-02)
-
-*...and 377 more quotes*
 
 ## Source Notes
 
