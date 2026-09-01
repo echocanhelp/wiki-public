@@ -1,82 +1,3 @@
----
-type: person
-title: Yang Yue-qing / 楊月清
-name_en: Yang Yue-qing
-name_zh_hanzi: 楊月清
-tags:
-  - TAHS
-  - taiwanjustice
-  - publication-contributor
-verification_status: pending
-last_reviewed: 2026-08-30
----
-
-# Yang Yue-qing / 楊月清
-
-Mentioned as a contributor or subject in 2017/2023 [taiwanjustice.net](/organizations/taiwanjustice-net) publications. Added to the TAHS L1 priority roster for community engagement and archive scoring.
-
-Related: [Taiwanese American Historical Society](/organizations/taiwanese-american-historical-society)
-
-## TJ Citations
-
-Top 10 articles from taiwanjustice.net mentioning yang-yueqing:
-
-1. **2017-11-13** — [[articles/taiwanjustice-net/2024/20240221113229_root_17825a06f4cdbb6f||林保華專欄]]
-   - *November 13, 2017...*
-   - Score: 825
-2. **2017-11-22** — [[articles/taiwanjustice-net/2024/20240221105045_root_4b96e7a2f9d76692||專欄]]
-   - *監察權的謬誤 ◎ 陳茂雄 2017-11-22...*
-   - Score: 820
-3. **undated** — [[articles/taiwanjustice-net/2023/20230328171355_2011_10_28_與王丹父母台北城再續前緣-_楊月清20111028_attachment_7_5dc101c47e71cf6b||7]]
-   - *美國頭條...*
-   - Score: 740
-4. **undated** — [[articles/taiwanjustice-net/2023/20230328171530_2011_10_28_與王丹父母台北城再續前緣-_楊月清20111028_attachment_2_8be10472c6f25b8b||2]]
-   - *美國頭條...*
-   - Score: 740
-5. **undated** — [[articles/taiwanjustice-net/2023/20230328173909_2011_10_28_與王丹父母台北城再續前緣-_楊月清20111028_attachment_5_6939cfd9ec85cbd1||5]]
-   - *美國頭條...*
-   - Score: 740
-6. **undated** — [[articles/taiwanjustice-net/2023/20230328181222_2011_10_28_與王丹父母台北城再續前緣-_楊月清20111028_attachment_3_5f95c168d145718f||3]]
-   - *美國頭條...*
-   - Score: 740
-7. **undated** — [[articles/taiwanjustice-net/2023/20230328184203_2011_10_28_與王丹父母台北城再續前緣-_楊月清20111028_attachment_1_bfe5435302fa48fa||1]]
-   - *美國頭條...*
-   - Score: 740
-8. **undated** — [[articles/taiwanjustice-net/2023/20230328190749_2011_10_28_與王丹父母台北城再續前緣-_楊月清20111028_attachment_4_4538e9b388773fff||4]]
-   - *美國頭條...*
-   - Score: 740
-9. **2024-04-22** — [[articles/taiwanjustice-net/2024/20240425081352_root_3ba4ca2e3a4c9504||我的肥皂箱]]
-   - *朱立倫加油！◎ 陳茂雄...*
-   - Score: 740
-10. **2011-10-28** — [[articles/taiwanjustice-net/2023/20230129123523_2011_10_28_與王丹父母台北城再續前緣-_楊月清20111028_fb32487390262d90||與王丹父母台北城再續前緣 ◎楊月清2011/10/28]]
-   - *1.王丹父母探訪好友林保華(楊月清攝)2011-10-27...*
-   - Score: 240
-
-## Works
-
-**楊月清** — **3** title hits, **12** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
-
-### 2023 (1)
-
-1. [[articles/taiwanjustice-net/2023/20230129123523_2011_10_28_與王丹父母台北城再續前緣-_楊月清20111028_fb32487390262d90|與王丹父母台北城再續前緣 ◎楊月清2011/10/28]]
-
-### 2022 (1)
-
-1. [[articles/taiwanjustice-net/2022/20220626171651_2019_02_05_楊月清痛述支持台灣的反共文人任由中共欺凌_政_43d5ca57167b70d6|楊月清痛述支持台灣的反共文人任由中共欺凌，政府未盡保護責任[影音]]]
-
-### 2017 (1)
-
-1. [[articles/taiwanjustice-net/2017/20171231190212_2017_11_30_由香港英勇中學生談港獨-_楊月清-2017-11-30_8590e6fd33d97c24|由香港英勇中學生談港獨 ◎楊月清 2017-11-30]]
-
-### Body mentions (12)
-
-See the source hub. Top mentions:
-
-1. [[articles/taiwanjustice-net/2024/20240221105045_root_4b96e7a2f9d76692|專欄]]
-2. [[articles/taiwanjustice-net/2024/20240221113229_root_17825a06f4cdbb6f|林保華專欄]]
-3. [[articles/taiwanjustice-net/2023/20230328171355_2011_10_28_與王丹父母台北城再續前緣-_楊月清20111028_attachment_7_5dc101c47e71cf6b|7]]
-4. [[articles/taiwanjustice-net/2023/20230328171530_2011_10_28_與王丹父母台北城再續前緣-_楊月清20111028_attachment_2_8be10472c6f25b8b|2]]
-5. [[articles/taiwanjustice-net/2023/20230328173909_2011_10_28_與王丹父母台北城再續前緣-_楊月清20111028_attachment_5_6939cfd9ec85cbd1|5]]
 
 
 ## Timeline
@@ -134,6 +55,32 @@ Chronological events for **楊月清**:
 ### 2011 (1 events)
 
 - **2011-10-28** 🕯️ 與王丹父母台北城再續前緣 ◎楊月清2011/10/28
+
+## Works
+
+**楊月清** — **3** title hits, **12** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
+
+### 2023 (1)
+
+1. [[articles/taiwanjustice-net/2023/20230129123523_2011_10_28_與王丹父母台北城再續前緣-_楊月清20111028_fb32487390262d90|與王丹父母台北城再續前緣 ◎楊月清2011/10/28]]
+
+### 2022 (1)
+
+1. [[articles/taiwanjustice-net/2022/20220626171651_2019_02_05_楊月清痛述支持台灣的反共文人任由中共欺凌_政_43d5ca57167b70d6|楊月清痛述支持台灣的反共文人任由中共欺凌，政府未盡保護責任[影音]]]
+
+### 2017 (1)
+
+1. [[articles/taiwanjustice-net/2017/20171231190212_2017_11_30_由香港英勇中學生談港獨-_楊月清-2017-11-30_8590e6fd33d97c24|由香港英勇中學生談港獨 ◎楊月清 2017-11-30]]
+
+### Body mentions (12)
+
+See the source hub. Top mentions:
+
+1. [[articles/taiwanjustice-net/2024/20240221105045_root_4b96e7a2f9d76692|專欄]]
+2. [[articles/taiwanjustice-net/2024/20240221113229_root_17825a06f4cdbb6f|林保華專欄]]
+3. [[articles/taiwanjustice-net/2023/20230328171355_2011_10_28_與王丹父母台北城再續前緣-_楊月清20111028_attachment_7_5dc101c47e71cf6b|7]]
+4. [[articles/taiwanjustice-net/2023/20230328171530_2011_10_28_與王丹父母台北城再續前緣-_楊月清20111028_attachment_2_8be10472c6f25b8b|2]]
+5. [[articles/taiwanjustice-net/2023/20230328173909_2011_10_28_與王丹父母台北城再續前緣-_楊月清20111028_attachment_5_6939cfd9ec85cbd1|5]]
 
 ## Quotes
 
@@ -253,7 +200,3 @@ Notable quotes and mentions of **楊月清** in Taiwan Justice articles:
    — 與王丹父母台北城再續前緣 ◎楊月清2011/10/28 (2011-10-28)
 
 *...and 34 more quotes*
-
-## Related Pages
-
-- [[people/albert-s-lai||Dr. Albert S. Lai]]
