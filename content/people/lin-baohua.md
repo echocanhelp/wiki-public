@@ -1,133 +1,3 @@
----
-title: "Lin Bao-hua (林保華)"
-type: person
-tags:
-  - person
-  - columnist
-  - taiwanjustice-net
-verification_status: pending
-last_reviewed: 2026-08-30
----
-# Lin Bao-hua (林保華)
-
-**Lin Bao-hua** (林保華) is a commentator whose columns are preserved on [[sources/taiwanjustice-net||taiwanjustice.net (台灣公義網)]], with 241 articles archived from the site's column section.
-
-Echopedia lists this writer as a **voice in that archive** — work Taiwanese American readers kept.
-
-## Identity Snapshot
-
-- **English:** Lin Bao-hua
-- **Chinese:** 林保華
-- **Role:** Commentator (columns in the taiwanjustice.net archive)
-- **How we list this writer:** Ally / contributor in a Taiwanese American media archive
-- **Source:** taiwanjustice.net column category
-- **Articles:** 241
-
-
-
-## TJ Citations
-
-Top 10 articles from taiwanjustice.net mentioning lin-baohua:
-
-1. **2017-11-13** — [[articles/taiwanjustice-net/2024/20240221113229_root_17825a06f4cdbb6f||林保華專欄]]
-   - *November 13, 2017...*
-   - Score: 825
-2. **2022-07-10** — [[articles/taiwanjustice-net/2024/20240425084829_root_b5c9f6bb0360ed23||陳茂雄專欄]]
-   - *高雄的民主水準居冠 ◎ 陳茂雄...*
-   - Score: 825
-3. **2017-03-07** — [[articles/taiwanjustice-net/2024/20240715140333_root_de6de376c47e0ff9||余杰專欄]]
-   - *March 7, 2017...*
-   - Score: 825
-4. **2017-11-22** — [[articles/taiwanjustice-net/2024/20240221105045_root_4b96e7a2f9d76692||專欄]]
-   - *監察權的謬誤 ◎ 陳茂雄 2017-11-22...*
-   - Score: 820
-5. **2022-08-22** — [[articles/taiwanjustice-net/2024/20240619175142_root_e903f760568c0883||余杰專欄]]
-   - *跟習近平聊天是雞同鴨講-范疇《與習近平聊聊台灣和中國》◎ 余傑...*
-   - Score: 810
-6. **2017-01-30** — [[articles/taiwanjustice-net/2024/20240616123010_root_e9a4d38b79b420ee||余杰專欄]]
-   - *January 30, 2017...*
-   - Score: 805
-7. **2024-04-24** — [[articles/taiwanjustice-net/2024/20240425072010_root_e39ecec0fdeb18d2||台灣頭條]]
-   - *April 24, 2024...*
-   - Score: 800
-8. **2023-07-30** — [[articles/taiwanjustice-net/2024/20240425083432_root_99aaa4abcb78ff6d||台美人台加人]]
-   - *July 30, 2023...*
-   - Score: 800
-9. **2023-08-12** — [[articles/taiwanjustice-net/2024/20240719130745_root_c122ab4d6dc8d2cf||2012大選]]
-   - *August 12, 2023...*
-   - Score: 800
-10. **2018-01-04** — [[articles/taiwanjustice-net/2024/20240224183824_root_3a00a14a809ec2ca||大洛杉磯台灣會館]]
-   - *January 4, 2018...*
-   - Score: 795
-
-
-## Works
-
-**林保華** — **212** title hits, **1159** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
-
-### 2026 (1)
-
-1. [[articles/taiwanjustice-net/2026/20260209110543_藍營眼中陳時中的黑白集-_-林保華_023cb0875f036c1d|藍營眼中陳時中的黑白集 ◎ 林保華]]
-
-### 2025 (65)
-
-1. [[articles/taiwanjustice-net/2025/20251116061014_校正回歸_與台灣防疫基本態勢-_-林保華_08e69481e7ee5147|「校正回歸」與台灣防疫基本態勢  ◎ 林保華]]
-2. [[articles/taiwanjustice-net/2025/20251110165037_刁近平臨陣脫逃又要沽名釣譽-_-林保華_c1902eb5b0201013|刁近平臨陣脫逃又要沽名釣譽 ◎ 林保華]]
-3. [[articles/taiwanjustice-net/2025/20251108192229_從台積電回溯中共對企業的掠奪-_-林保華_143888c406c2bb9a|從台積電回溯中共對企業的掠奪 ◎ 林保華]]
-4. [[articles/taiwanjustice-net/2025/20251016214348_國務院督查組與中紀委巡視組的兩條路線_-林保_4a0fbbe5cc747597|國務院督查組與中紀委巡視組的兩條路線？◎ 林保華]]
-5. [[articles/taiwanjustice-net/2025/20251013102501_習近平騎_胡_難下-_-林保華_a0050680b20155a7|習近平騎「胡」難下 ◎ 林保華]]
-6. [[articles/taiwanjustice-net/2025/20251010064113_歡迎雷根號官兵來高雄度假-_-林保華_4aeb1180be2e4f0e|歡迎雷根號官兵來高雄度假 ◎ 林保華]]
-7. [[articles/taiwanjustice-net/2025/20250917075539_習近平的骨子裡是什麼_-林保華_c2403a952040d070|習近平的骨子裡是什麼？◎ 林保華]]
-8. [[articles/taiwanjustice-net/2025/20250914124708_疫情反覆與嘴巴反覆-_-林保華_3b4a15e202217bdd|疫情反覆與嘴巴反覆  ◎ 林保華]]
-- … 57 more this year
-
-### 2024 (45)
-
-1. [[articles/taiwanjustice-net/2024/20240719221425_root_b4fa375d9d14d62f|是bumbler，還是利益輸送？—-對馬英九出售 “三中” 的疑問 ◎林保華/極光電子報2013.1.7]]
-2. [[articles/taiwanjustice-net/2024/20240715083847_root_9e7da2f2893b7b40|國民黨就是自肥 民眾黨要找出路 ◎ 林保華]]
-3. [[articles/taiwanjustice-net/2024/20240715074518_root_41f2e3d969964fca|堂堂正正偷盜 道道地地買辦 ◎林保華]]
-4. [[articles/taiwanjustice-net/2024/20240715073808_root_bce6ceb7f8e141f0|台海：粉身碎骨 VS.地獄景象 ◎林保華]]
-5. [[articles/taiwanjustice-net/2024/20240713174327_root_04a1b1d59c68bf53|用鮮血和謊言寫下的百年中共黨史（十之十）中國社會帝國主義的世紀大賭博（2011～2020）◎ 林保華]]
-6. [[articles/taiwanjustice-net/2024/20240620175022_root_5db928f3707537ca|匯聚民意洪流 目標解散國會 ◎林保華]]
-7. [[articles/taiwanjustice-net/2024/20240614150810_root_23d7daca8d400231|《林保華專欄》吸收僑生 緩解台灣人口人才問題/ 自由時報/ 2017-11-15]]
-8. [[articles/taiwanjustice-net/2024/20240530133536_root_ba278bd1ec4bc177|節流更須開源，追求公義不是平均主義 ◎林保華/ 極光電子報/ 2017-07-11]]
-- … 37 more this year
-
-### 2023 (21)
-
-1. [[articles/taiwanjustice-net/2023/20231208135857_root_98d189395e24bb6c|香港夜繽紛 難解金融困 ◎ 林保華]]
-2. [[articles/taiwanjustice-net/2023/20231208123148_root_610dc8caeca2281e|藍白兩黨離不開中國  ◎ 林保華]]
-3. [[articles/taiwanjustice-net/2023/20231208122057_root_547914d61302f27d|李克強之死的懸疑與解惑 ◎林保華]]
-4. [[articles/taiwanjustice-net/2023/20231208121200_root_b860086b11f6abd5|林保華專欄]]
-5. [[articles/taiwanjustice-net/2023/20231208120423_root_b7dbadd3a03f491d|天災人禍 黑雨洗劫香港  ◎ 林保華]]
-6. [[articles/taiwanjustice-net/2023/20230923045717_2023_09_12_習近平不懂經濟_救面子更重要-_-林保華_2926843f0090b92e|習近平不懂經濟，救面子更重要  ◎ 林保華]]
-7. [[articles/taiwanjustice-net/2023/20230923044258_2023_08_16_北戴河會議陷入經濟泥淖-_-林保華_819d862fcaca88f3|北戴河會議陷入經濟泥淖  ◎ 林保華]]
-8. [[articles/taiwanjustice-net/2023/20230923042820_2023_08_23_中共高層異象-對台陷於混亂-_-林保華_7e80d001d0605370|中共高層異象 對台陷於混亂  ◎ 林保華]]
-- … 13 more this year
-
-### 2022 (43)
-
-1. [[articles/taiwanjustice-net/2022/20221205054615_2022_10_30_中國的公安幹警也躺平_-林保華_7054cb001df93bce|中國的公安幹警也躺平？◎ 林保華]]
-2. [[articles/taiwanjustice-net/2022/20221205052559_2022_09_26_習近平鬼祟挺俄_北京政局有變_-_-林保華_604d269e8428e771|習近平鬼祟挺俄，北京政局有變？ ◎ 林保華]]
-3. [[articles/taiwanjustice-net/2022/20221205045949_2022_11_03_習近平要繼承延安什麼樣傳統_-_-林保華_431b834d7ca2d267|習近平要繼承延安什麼樣傳統？ ◎ 林保華]]
-4. [[articles/taiwanjustice-net/2022/20221205045749_2022_10_26_中國變局和台灣風險-_-林保華_d97236e019e59335|中國變局和台灣風險 ◎ 林保華]]
-5. [[articles/taiwanjustice-net/2022/20221205043715_2022_10_23_二十大似是一場政變_習狠手辣不輸毛澤東-_-林保_ac3e60f8c51d7514|二十大似是一場政變，習狠手辣不輸毛澤東 ◎ 林保華]]
-6. [[articles/taiwanjustice-net/2022/20221205033916_2022_11_15_清零孕育變態社會_糾偏鬆綁美其名優化-_-林_fdf044a1491281f9|清零孕育變態社會，糾偏鬆綁美其名“優化” ◎ 林保華]]
-7. [[articles/taiwanjustice-net/2022/20221127053446_2018_01_22_中國過氣_國母_宋祖英被查-_林保華-2018-01-22_62d03149303a6910|中國過氣「國母」宋祖英被查 ◎林保華 2018-01-22]]
-8. [[articles/taiwanjustice-net/2022/20221002100527_2022_08_07_習近平夢遊_一港兩制_-林保華_97f6e39a2853f521|習近平夢遊「一港兩制」◎ 林保華]]
-- … 35 more this year
-
-Earlier years: **37** additional title hits (not listed).
-
-### Body mentions (1159)
-
-See the source hub. Top mentions:
-
-1. [[articles/taiwanjustice-net/2024/20240520034013_root_6f2b431c9cb0cca9|台美人台加人]]
-2. [[articles/taiwanjustice-net/2024/20240421185358_root_09926246802abc6a|台美人台加人]]
-3. [[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea|台美人台加人]]
-4. [[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3|台美人台加人]]
-5. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596|台美人台加人]]
 
 
 ## Timeline
@@ -11306,6 +11176,74 @@ Chronological events for **林保華**:
 - **2011-11-09** 🎤 兩岸關係
 - **2011-11-25** 🎤 中國新聞
 
+## Works
+
+**林保華** — **212** title hits, **1159** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
+
+### 2026 (1)
+
+1. [[articles/taiwanjustice-net/2026/20260209110543_藍營眼中陳時中的黑白集-_-林保華_023cb0875f036c1d|藍營眼中陳時中的黑白集 ◎ 林保華]]
+
+### 2025 (65)
+
+1. [[articles/taiwanjustice-net/2025/20251116061014_校正回歸_與台灣防疫基本態勢-_-林保華_08e69481e7ee5147|「校正回歸」與台灣防疫基本態勢  ◎ 林保華]]
+2. [[articles/taiwanjustice-net/2025/20251110165037_刁近平臨陣脫逃又要沽名釣譽-_-林保華_c1902eb5b0201013|刁近平臨陣脫逃又要沽名釣譽 ◎ 林保華]]
+3. [[articles/taiwanjustice-net/2025/20251108192229_從台積電回溯中共對企業的掠奪-_-林保華_143888c406c2bb9a|從台積電回溯中共對企業的掠奪 ◎ 林保華]]
+4. [[articles/taiwanjustice-net/2025/20251016214348_國務院督查組與中紀委巡視組的兩條路線_-林保_4a0fbbe5cc747597|國務院督查組與中紀委巡視組的兩條路線？◎ 林保華]]
+5. [[articles/taiwanjustice-net/2025/20251013102501_習近平騎_胡_難下-_-林保華_a0050680b20155a7|習近平騎「胡」難下 ◎ 林保華]]
+6. [[articles/taiwanjustice-net/2025/20251010064113_歡迎雷根號官兵來高雄度假-_-林保華_4aeb1180be2e4f0e|歡迎雷根號官兵來高雄度假 ◎ 林保華]]
+7. [[articles/taiwanjustice-net/2025/20250917075539_習近平的骨子裡是什麼_-林保華_c2403a952040d070|習近平的骨子裡是什麼？◎ 林保華]]
+8. [[articles/taiwanjustice-net/2025/20250914124708_疫情反覆與嘴巴反覆-_-林保華_3b4a15e202217bdd|疫情反覆與嘴巴反覆  ◎ 林保華]]
+- … 57 more this year
+
+### 2024 (45)
+
+1. [[articles/taiwanjustice-net/2024/20240719221425_root_b4fa375d9d14d62f|是bumbler，還是利益輸送？—-對馬英九出售 “三中” 的疑問 ◎林保華/極光電子報2013.1.7]]
+2. [[articles/taiwanjustice-net/2024/20240715083847_root_9e7da2f2893b7b40|國民黨就是自肥 民眾黨要找出路 ◎ 林保華]]
+3. [[articles/taiwanjustice-net/2024/20240715074518_root_41f2e3d969964fca|堂堂正正偷盜 道道地地買辦 ◎林保華]]
+4. [[articles/taiwanjustice-net/2024/20240715073808_root_bce6ceb7f8e141f0|台海：粉身碎骨 VS.地獄景象 ◎林保華]]
+5. [[articles/taiwanjustice-net/2024/20240713174327_root_04a1b1d59c68bf53|用鮮血和謊言寫下的百年中共黨史（十之十）中國社會帝國主義的世紀大賭博（2011～2020）◎ 林保華]]
+6. [[articles/taiwanjustice-net/2024/20240620175022_root_5db928f3707537ca|匯聚民意洪流 目標解散國會 ◎林保華]]
+7. [[articles/taiwanjustice-net/2024/20240614150810_root_23d7daca8d400231|《林保華專欄》吸收僑生 緩解台灣人口人才問題/ 自由時報/ 2017-11-15]]
+8. [[articles/taiwanjustice-net/2024/20240530133536_root_ba278bd1ec4bc177|節流更須開源，追求公義不是平均主義 ◎林保華/ 極光電子報/ 2017-07-11]]
+- … 37 more this year
+
+### 2023 (21)
+
+1. [[articles/taiwanjustice-net/2023/20231208135857_root_98d189395e24bb6c|香港夜繽紛 難解金融困 ◎ 林保華]]
+2. [[articles/taiwanjustice-net/2023/20231208123148_root_610dc8caeca2281e|藍白兩黨離不開中國  ◎ 林保華]]
+3. [[articles/taiwanjustice-net/2023/20231208122057_root_547914d61302f27d|李克強之死的懸疑與解惑 ◎林保華]]
+4. [[articles/taiwanjustice-net/2023/20231208121200_root_b860086b11f6abd5|林保華專欄]]
+5. [[articles/taiwanjustice-net/2023/20231208120423_root_b7dbadd3a03f491d|天災人禍 黑雨洗劫香港  ◎ 林保華]]
+6. [[articles/taiwanjustice-net/2023/20230923045717_2023_09_12_習近平不懂經濟_救面子更重要-_-林保華_2926843f0090b92e|習近平不懂經濟，救面子更重要  ◎ 林保華]]
+7. [[articles/taiwanjustice-net/2023/20230923044258_2023_08_16_北戴河會議陷入經濟泥淖-_-林保華_819d862fcaca88f3|北戴河會議陷入經濟泥淖  ◎ 林保華]]
+8. [[articles/taiwanjustice-net/2023/20230923042820_2023_08_23_中共高層異象-對台陷於混亂-_-林保華_7e80d001d0605370|中共高層異象 對台陷於混亂  ◎ 林保華]]
+- … 13 more this year
+
+### 2022 (43)
+
+1. [[articles/taiwanjustice-net/2022/20221205054615_2022_10_30_中國的公安幹警也躺平_-林保華_7054cb001df93bce|中國的公安幹警也躺平？◎ 林保華]]
+2. [[articles/taiwanjustice-net/2022/20221205052559_2022_09_26_習近平鬼祟挺俄_北京政局有變_-_-林保華_604d269e8428e771|習近平鬼祟挺俄，北京政局有變？ ◎ 林保華]]
+3. [[articles/taiwanjustice-net/2022/20221205045949_2022_11_03_習近平要繼承延安什麼樣傳統_-_-林保華_431b834d7ca2d267|習近平要繼承延安什麼樣傳統？ ◎ 林保華]]
+4. [[articles/taiwanjustice-net/2022/20221205045749_2022_10_26_中國變局和台灣風險-_-林保華_d97236e019e59335|中國變局和台灣風險 ◎ 林保華]]
+5. [[articles/taiwanjustice-net/2022/20221205043715_2022_10_23_二十大似是一場政變_習狠手辣不輸毛澤東-_-林保_ac3e60f8c51d7514|二十大似是一場政變，習狠手辣不輸毛澤東 ◎ 林保華]]
+6. [[articles/taiwanjustice-net/2022/20221205033916_2022_11_15_清零孕育變態社會_糾偏鬆綁美其名優化-_-林_fdf044a1491281f9|清零孕育變態社會，糾偏鬆綁美其名“優化” ◎ 林保華]]
+7. [[articles/taiwanjustice-net/2022/20221127053446_2018_01_22_中國過氣_國母_宋祖英被查-_林保華-2018-01-22_62d03149303a6910|中國過氣「國母」宋祖英被查 ◎林保華 2018-01-22]]
+8. [[articles/taiwanjustice-net/2022/20221002100527_2022_08_07_習近平夢遊_一港兩制_-林保華_97f6e39a2853f521|習近平夢遊「一港兩制」◎ 林保華]]
+- … 35 more this year
+
+Earlier years: **37** additional title hits (not listed).
+
+### Body mentions (1159)
+
+See the source hub. Top mentions:
+
+1. [[articles/taiwanjustice-net/2024/20240520034013_root_6f2b431c9cb0cca9|台美人台加人]]
+2. [[articles/taiwanjustice-net/2024/20240421185358_root_09926246802abc6a|台美人台加人]]
+3. [[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea|台美人台加人]]
+4. [[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3|台美人台加人]]
+5. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596|台美人台加人]]
+
 ## Quotes
 
 Notable quotes and mentions of **林保華** in Taiwan Justice articles:
@@ -11634,16 +11572,3 @@ Notable quotes and mentions of **林保華** in Taiwan Justice articles:
    — 與王丹父母台北城再續前緣 ◎楊月清2011/10/28 (2011-10-28)
 
 *...and 698 more quotes*
-
-## Source Notes
-
-- **Content priority A:** Article count (241) from Tier 2 title extraction
-- **Content priority B:** Column author listing from `knowledge/research/taiwanjustice-net-entities.md`
-- **Hub:** [[sources/taiwanjustice-net||taiwanjustice.net source hub]]
-- **Archive:** [Column articles](https://github.com/echocanhelp/wiki-public/tree/gh-pages/knowledge/web-archives/taiwanjustice-net/tier2/)
-
-## Related Pages
-
-- [[sources/taiwanjustice-net||taiwanjustice.net source hub]]
-- [[organizations/taiwanjustice-net||taiwanjustice.net (台灣公義網)]]
-- [[people/freeman-huang||Freeman Huang (黃樹人)]]
