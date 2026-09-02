@@ -39,11 +39,11 @@ All stages **`no_agent`** (no LLM in overnight path):
 4. **Scout** (01:40) — live site UX  
 5. **Extract → Evaluate → Generate** (02:00 / 02:10 / 02:20) — same-day files only  
 6. **Deepen** (01:50–03:00) — backlink / quotes / timeline (content AUTO writes)  
-7. **Publish** (03:30) — ci-heal L2/L3 (only nightly pusher)  
+7. **Publish** (04:25) — ci-heal L2/L3 (only nightly pusher)  
 8. **Review** (Sun 07:15) — weekly-improvement pack + review gate  
 
-**Human surface (last content brief):** `vault-morning-brief` **08:15** — NEED YOU ≤5 first; AUTO strip from `autonomy-ledger.json`.  
-**Cron self-heal:** `cron-audit` 06:00 · `cron-self-audit` 06:40 (schedule restore + missed-run guards).
+**Human surface (last content brief):** `vault-morning-brief` **07:00** — NEED YOU ≤5 first; AUTO strip from `autonomy-ledger.json`.  
+**Cron self-heal:** `cron-audit` 04:45 merged (schedule restore + missed-run guards).
 
 **Folded (paused as Telegram):** `vault-unfinished-threads`, `vault-connector-suggestions`, `vault-intelligence-digest` — collectors still run **via morning-brief** (disk), not separate spam.
 
@@ -67,21 +67,21 @@ SSOT times: `hermes cron list` / SYSTEM_STATUS generated table. Narrative summar
 | **02:00** | **extract-actions** | Findings → actionable cards (pipeline) |
 | 02:10 | evaluate-actions | Score by impact (pipeline) |
 | 02:20 | generate-cards | Build remediation task cards (pipeline) |
-| **02:30** | **person-works-linker** | Link people ↔ works (AUTO) |
-| 02:40 | quote-extractor | Quote mining (AUTO) |
-| **03:00** | **timeline-builder** | Deepen timelines (AUTO) |
+| **03:00** | **person-works-linker** | Link people ↔ works (AUTO) |
+| 03:15 | quote-extractor | Quote mining (AUTO) |
+| **03:30** | **timeline-builder** | Deepen timelines (AUTO) |
 | 03:15 | output-rotate | Log/output hygiene |
-| **03:30** | **ci-heal** | **Only nightly pusher** (L2 heal + L3 green) |
-| **03:45** | **site-design** | **Audit-only after ci-heal push** |
-| **06:00** | **cron-audit** | Empty-schedule / missed-run / deliver guards |
+| **04:25** | **ci-heal** | **Only nightly pusher** (L2 heal + L3 green) |
+| **04:30** | **site-design** | **Audit-only after ci-heal push** |
+| **04:45** | **cron-audit** | Empty-schedule / missed-run / deliver guards |
 | 06:10 | docs-sync | Doc OS sense + cron inventory regen |
 | **06:20** | **digest** | System dashboard (tagged) |
-| 06:30 | memory-audit | Silent unless MEMORY/USER issues |
-| **06:40** | **cron-self-audit** | Schedule integrity + sequence |
-| **Sun 05:30** | **vault-search-index-rebuild** | Search index rebuild |
-| **Sun 07:00** | **source-continuity** | **Live-site watch (TC/GSTPC/ITPC/PCT) → delta AUTO → next-ingest tips** |
-| Sun 07:15 | weekly-improvement | Review gate + pack |
-| **08:15** | **vault-morning-brief** | **Primary human surface** (+ SOURCE CONTINUITY / NEXT INGEST) |
+| 04:50 | memory-audit | Silent unless MEMORY/USER issues |
+| 06:30 | tier1-sweep | Last content-touching nightly step |
+| **Sun 05:00** | **vault-search-index-rebuild** | Search index rebuild |
+| **Sun 05:30** | **source-continuity** | **Live-site watch (TC/GSTPC/ITPC/PCT) → delta AUTO → next-ingest tips** |
+| Sun 06:00 | weekly-improvement | Review gate + pack |
+| **07:00** | **vault-morning-brief** | **Primary human surface** (+ SOURCE CONTINUITY / NEXT INGEST) |
 | `knowledge/operational/incidents/` | Failures |
 
 ---

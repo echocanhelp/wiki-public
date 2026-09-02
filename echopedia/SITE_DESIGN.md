@@ -19,7 +19,7 @@ Keep the site **usable on phone + desktop**, **structurally correct after every 
 
 | Tier | Engine | When | What |
 |------|--------|------|------|
-| **L0 Sense** | `echopedia-site-design-audit.py` | Nightly **08:15** + P13 | Collect findings → brief + state JSON |
+| **L0 Sense** | `echopedia-site-design-audit.py` | Nightly **04:30** + P13 | Collect findings → brief + state JSON |
 | **L1 Heal** | `echopedia-site-design-heal.sh` | After L0 if flags on | Programmable fixes only (featured, parity, publish) |
 | **L2 Gate** | Optional in heal / ci-heal | If `l2_site_design_blocks_green` | Critical site issues → no silent “all good” |
 | **L3 Agent** | Local worker **P13** only | Human or rare manual | Bounded fixes from brief — **no CSS redesign** |
@@ -32,18 +32,18 @@ Keep the site **usable on phone + desktop**, **structurally correct after every 
 ## Nightly slot (one pipeline family)
 
 ```
-03:05–05:30  sense / scout / extract-eval-gen / deepen   (no_agent)
-01:10–03:45  01:10 content-analysis · 01:15 nightly-audit · 01:30 janitor · 01:40 scout · 01:50 backlink · 02:00 extract · 02:10 evaluate · 02:20 generate-cards · 02:30 person-link · 02:40 quote · 03:00 timeline · 03:15 rotate · 03:30 ci-heal · 03:45 site-design
-03:30        ci-heal                    (act + SINGLE push gate)
+01:10–04:30  sense / scout / extract-eval-gen / deepen   (no_agent)
+01:10–04:30  01:10 content-analysis · 01:15 nightly-audit · 01:30 janitor · 01:40 scout · 01:50 backlink · 02:00 extract · 02:20 evaluate · 02:40 generate-cards · 03:00 person-link · 03:15 quote · 03:30 timeline · 03:15 rotate · 04:25 ci-heal · 04:30 site-design
+04:25        ci-heal                    (act + SINGLE push gate)
                ├─ ops / drain
                ├─ drift → publish
                ├─ site-design L1 heal   ← featured/parity BEFORE push
                ├─ smoke
                └─ L3 push when green    ← only nightly pusher
-03:45        echopedia-site-design      (audit-only AFTER push — no second push)
+04:30        echopedia-site-design      (audit-only AFTER push — no second push)
 06:20        digest                     (tagged dashboard)
-08:15        vault-morning-brief        (🔴 NEED YOU first)
-06:40        cron-self-audit
+07:00        vault-morning-brief        (🔴 NEED YOU first)
+04:45        cron-audit (merged)
 Sun 07:15    echopedia-weekly-improvement  (pack + review gate — not a redesign cron)
 Sun 05:30    vault-search-index-rebuild   (Sun only)
 Sun 07:00    echopedia-source-continuity  (Sun only)

@@ -174,7 +174,7 @@ Look at the **janitor queue** (depth is in SYSTEM_STATUS.md). Typical first task
    No publish. Report. STOP.
    ```
 4. **Commit** your change (P10 if you need help).
-5. **Ask for a publish** (P2) or let ci-heal pick it up at **03:30** local.
+5. **Ask for a publish** (P2) or let ci-heal pick it up at **04:25** local.
 
 **Goal:** You've made one verified edit that follows the standards in `standards.json`.
 
@@ -182,7 +182,7 @@ Look at the **janitor queue** (depth is in SYSTEM_STATUS.md). Typical first task
 
 - **Every morning ~07:55** — read **vault-morning-brief** (System). Act only on **🔴 NEED YOU**. Tags: [cron-notify-labels.md](../knowledge/operational/cron-notify-labels.md).
 - **~07:20** — digest health strip (optional). ✅ AUTO / 🟡 QUEUE are not owner homework.
-- **Sun ~07:05** — weekly improvement pack; review briefs only if 🔴 FAIL.
+- **Sun ~06:00** — weekly improvement pack; review briefs only if 🔴 FAIL.
 - **When stuck** — check SYSTEM_STATUS.md → pick a playbook from the troubleshooting table.
 - **When adding a feature** — follow FEATURE_ADD.md (Google, Twilio, media, tools, crons).
 
@@ -426,7 +426,7 @@ Workers never “reason through” cron prompts — only run scripts or P5/P11.
 
 Turn off all auto-push: P6 `l3_auto_push_on_green=false`.
 
-**Local wall clock (pinto):** 01:10–03:00 sense/deepen · **03:30 ci-heal** (only nightly push) · 06:20 digest · **08:15 morning-brief** · 06:40 cron-self-audit · Sun weekly-improvement · + infra watchdogs.  
+**Local wall clock (pinto):** 01:10–04:30 sense/deepen · **04:25 ci-heal** (only nightly push) · 06:20 digest · **07:00 morning-brief** · 04:45 cron-audit · Sun weekly-improvement · + infra watchdogs. Batch window unthrottled 01:00–07:30.  
 Telegram tags: ✅ AUTO · 🟡 QUEUE · 🔴 NEED YOU — see `knowledge/operational/cron-notify-labels.md`.
 
 
@@ -448,11 +448,11 @@ The system runs a nightly pipeline that discovers content quality gaps on the li
 | Scout | 01:40 | `echopedia-scout-live.sh` | `knowledge/operational/scout/latest.json` |
 | Filter | 01:10 | `echopedia-content-analyzer.py` | `echopedia/content-analysis-queue.json` |
 | Extract | 02:00 | `echopedia-extract-actions.py` | `knowledge/operational/extracted/<date>.json` |
-| Evaluate | 02:10 | `echopedia-evaluate-actions.py` | `knowledge/operational/evaluated/<date>.json` |
-| Generate | 02:20 | `echopedia-generate-cards.py` | `knowledge/operational/generated/<date>.json` (same-day evaluate only) |
-| Review | **Sun 07:15** | `weekly-improvement.sh` | `improvement-brief.md` |
+| Evaluate | 02:20 | `echopedia-evaluate-actions.py` | `knowledge/operational/evaluated/<date>.json` |
+| Generate | 02:40 | `echopedia-generate-cards.py` | `knowledge/operational/generated/<date>.json` (same-day evaluate only) |
+| Review | **Sun 06:00** | `weekly-improvement.sh` | `improvement-brief.md` |
 | Remediate | 01:30 | `echopedia-janitor` | janitor queue (P8/P3/P9) |
-| Publish | **03:30** | `echopedia-ci-heal` | gh-pages deploy |
+| Publish | **04:25** | `echopedia-ci-heal` | gh-pages deploy |
 
 **Flow:** Scout monitors the live site for 404s/slow loads → Filter applies deterministic rules to find actionable gaps → Extract maps findings to specific actions → Evaluate scores by user impact (inbound wikilinks × page type × finding severity) → Generate creates kanban task cards → Review gate summarizes for human approval → Remediate applies fixes → Publish deploys.
 
@@ -464,7 +464,7 @@ The system runs a nightly pipeline that discovers content quality gaps on the li
 
 ## When to intervene (decision matrix)
 
-The system runs 24/7 (local): sense/deepen overnight · **03:30 ci-heal** · 06:20 digest · **08:15 morning-brief**. **You only intervene on 🔴 NEED YOU** (or true smoke/site FAIL). Each row maps a signal to a concrete action (or "do nothing").
+The system runs 24/7 (local): sense/deepen overnight · **04:25 ci-heal** · 06:20 digest · **07:00 morning-brief**. **You only intervene on 🔴 NEED YOU** (or true smoke/site FAIL). Each row maps a signal to a concrete action (or "do nothing").
 
 | Situation | Matrix trigger | Your action |
 |-----------|---------------|-------------|
@@ -497,7 +497,7 @@ The system runs 24/7 (local): sense/deepen overnight · **03:30 ci-heal** · 06:
 
 ## Key metrics to watch
 
-SYSTEM_STATUS.md (auto, 04:15) and the 09:00 digest surface these. Know what each means and when to act.
+SYSTEM_STATUS.md (auto) and the 06:20 digest surface these. Know what each means and when to act.
 
 ### Content health
 || Metric | Green | Yellow | Red | Source |
@@ -730,7 +730,7 @@ The homepage shows **Featured people** and **Featured organizations** cards. The
 
 ## Site designer / layout manager (nightly)
 
-**Canon:** [SITE_DESIGN.md](SITE_DESIGN.md) · **Worker:** WORKER **P13** · **Cron:** 03:45 audit-only (after push) · **Heal:** inside 03:30 ci-heal before L3 push
+**Canon:** [SITE_DESIGN.md](SITE_DESIGN.md) · **Worker:** WORKER **P13** · **Cron:** 04:30 audit-only (after push) · **Heal:** inside 04:25 ci-heal before L3 push
 
 Keeps the live site usable after content changes:
 
@@ -738,7 +738,7 @@ Keeps the live site usable after content changes:
 |-------|------|
 | L0 audit | MD↔HTML parity, `#echo-recent` inject, viewport/mobile signals, stub sample, spelling sample |
 | L1 heal | runs **inside ci-heal** before the single nightly push (featured root+public, parity publish) |
-| L2 verify | **08:15** audit-only after push — alert if still CRITICAL/HIGH |
+| L2 verify | **07:00** audit-only after push — alert if still CRITICAL/HIGH |
 | L3 agent | Only via P13 + brief `AGENT_SUGGESTED` — **no freeform redesign** |
 
 **Push rule:** heal yes → push yes, but **one pusher** (`ci-heal` L3). Site-design never pushes alone.
@@ -767,7 +767,7 @@ Morning digest includes the site-design brief head.
 | **drift** | The condition where a source Markdown file in `content/` is newer than its deployed HTML tree (stale HTML). Measured by `echopedia-deploy-drift.sh` via mtime comparison. Drift triggers the L2 publish step in `ci-heal`. |
 | **smoke** | A post-deploy liveness check that curls the `smoke_urls` from `standards.json` and verifies HTTP 200 + minimum byte count. Run by `echopedia-smoke-test.sh`. A smoke failure blocks L3 auto-push even when ops and drift are green. |
 | **heal** | The L1/L2 remediation step in `ci-heal` that resolves drift (publish), runs site-design fixes (featured inject, parity), and commits results. Heal is programmable (`no_agent`) — never a freeform LLM rewrite. |
-| **ci-heal** | The **03:30 local** nightly orchestrator (`echopedia-ci-heal.sh`) that runs ops-check → optional drain → drift→publish → site-design L1 heal → broken-link gate → smoke → L3 green-push. It is the **only** nightly pusher. |
+| **ci-heal** | The **04:25 local** nightly orchestrator (`echopedia-ci-heal.sh`) that runs ops-check → optional drain → drift→publish → site-design L1 heal → broken-link gate → smoke → L3 green-push. It is the **only** nightly pusher. |
 | **L0** | Sense layer. Audit-only: collects findings into a brief + state JSON. Examples: `echopedia-site-design-audit.py` (L0 site-design), `echopedia-nightly-audit` (structural). No writes. |
 | **L1** | Heal layer. Programmable, deterministic fixes driven by L0 findings. Examples: `echopedia-site-design-heal.sh` (featured-regen, parity publish), `echopedia-publish.sh`. No LLM reasoning. |
 | **L2** | Gate/commit layer. Decides whether to commit heal artifacts and whether site-design issues should block green. Flags: `l2_auto_commit_on_heal`, `l2_site_design_blocks_green`. |
@@ -1077,7 +1077,7 @@ ls ~/echo-system/knowledge/operational/incidents/      # all incidents
 | Script | Path | When to run | Owner |
 |--------|------|-------------|-------|
 | `publish.sh` | `~/.hermes/scripts/echopedia-publish.sh` | Build HTML trees + tree-copy; `--commit` / `--push` / `--check` | Worker P2/P5 |
-| `ci-heal.sh` | `~/.hermes/scripts/echopedia-ci-heal.sh` | Nightly L2/L3 heal + push (04:15); `--dry-run` / `--no-drain` | Worker P5 |
+| `ci-heal.sh` | `~/.hermes/scripts/echopedia-ci-heal.sh` | Nightly L2/L3 heal + push (04:25); `--dry-run` / `--no-drain` | Worker P5 |
 | `ops-check.sh` | `~/.hermes/scripts/echopedia-ops-check.sh` | Health check; exit 0 OK, 1 FAIL | Worker P1/P11 |
 | `link-hygiene.py` | `~/.hermes/scripts/echopedia-link-hygiene.py` | Link quality audit; `--path <slug>` for single page | Worker P3 |
 

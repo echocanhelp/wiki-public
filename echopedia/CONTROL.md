@@ -202,7 +202,7 @@ Then run `bash ~/.hermes/scripts/echopedia-docs-sync.sh`. Do **not** hand-edit t
 
 ### 4.6 Publish / push
 
-- Prefer **ci-heal 03:30 local** (only nightly pusher). Late Tier1 drift after that is `echopedia-tier1-sweep` 07:50.  
+- Prefer **ci-heal 04:25 local** (only nightly pusher). Late Tier1 drift after that is `echopedia-tier1-sweep` 06:30.  
 - Manual: WORKER **P2** / `echopedia-publish.sh` path only — not ad-hoc `git push` of partial trees.  
 - After push: CDN status file / smoke — not vibes.
 
@@ -301,13 +301,13 @@ After cron edits: run docs-sync (or wait for system-status/ci-heal). Optional: s
 | When (local) | System does | You do |
 |--------------|-------------|--------|
 | Continuous | Watchdog, thermal | Nothing if silent |
-|| 01:10–03:45 | Sense → deepen → queue | Sleep |
+|| 01:10–04:30 | Sense → deepen → queue | Sleep |
 || **Sun 07:00** | **source-continuity** (live sites) | Nothing if silent |
-|| **03:30** | **ci-heal** (only nightly push) | Sleep |
+|| **04:25** | **ci-heal** (only nightly push) | Sleep |
 || 06:20 | Digest (tagged) | Optional skim |
-|| **08:15** | **Morning brief** | **Only 🔴 NEED YOU** |
-|| 06:40 | Cron self-audit | Nothing if silent |
-|| Sun 07:15 | Weekly improvement | Nothing unless 🔴 FAIL |
+|| **07:00** | **Morning brief** | **Only 🔴 NEED YOU** |
+|| 04:45 | Cron audit (merged) | Nothing if silent |
+|| Sun 06:00 | Weekly improvement | Nothing unless 🔴 FAIL |
 | Ad hoc | — | Commands / one playbook / one plan epic |
 
 **Intervention rule:**  

@@ -23,7 +23,7 @@
     "content_analysis_quality"
   ],
   "janitor": {
-    "window_local": "03:50-05:30",
+    "window_local": "01:00-07:30",
     "max_pages_per_night": 40,
     "max_wall_seconds": 5400,
     "model_provider": "custom:pinto",
