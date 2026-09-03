@@ -1,4 +1,4 @@
-## Queue drain — 2026-09-01
+## Queue drain — 2026-09-03
 - Items: **40**
 
 - `people/chen-meihui.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
@@ -36,10 +36,10 @@
 - `sources/2023-tahs-publication.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/wang-yao-ting.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/zheng-bing-quan.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `organizations/taiwanjustice-net.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `sources/taiwanjustice-net.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/becky-yang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `organizations/tyzen-hsiao-foundation.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `organizations/tyzen-hsiao-music-works.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/guan-renjian.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/huang-diyin.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/li-jian.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/lin-baohua.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/yang-yueqing.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 
 Fail-closed first-mention is AUTO (janitor). HOLD leftover ≠ human body-link batch.

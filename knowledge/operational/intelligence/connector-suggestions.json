@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-31T21:03:56.938521",
+  "generated_at": "2026-09-02T07:00:23.346521",
   "pages_scanned": 2872,
   "capped": true,
   "cap_top_n": 80,
   "summary": {
-    "co_citation_count": 1110,
-    "co_mention_count": 6105,
+    "co_citation_count": 1112,
+    "co_mention_count": 6103,
     "shared_tags_count": 0,
     "orphan_folder_count": 2,
     "kept_co_citation": 80,
@@ -255,7 +255,16 @@
         "shared_target": "people/peng-ming-min",
         "page1_title": "Democratic Progressive Party (民主進步黨)",
         "page2_title": "Taiwanese American Foundation (TAF)",
-        "shared_targets_count": 9
+        "shared_targets_count": 12
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/democratic-progressive-party.md",
+        "page2": "people/huang-diyin.md",
+        "shared_target": "people/peng-ming-min",
+        "page1_title": "Democratic Progressive Party (民主進步黨)",
+        "page2_title": "huang-diyin",
+        "shared_targets_count": 12
       },
       {
         "type": "CO-CITATION",
@@ -264,16 +273,7 @@
         "shared_target": "people/peng-ming-min",
         "page1_title": "Democratic Progressive Party (民主進步黨)",
         "page2_title": "Rev. Kao Chun-ming (高俊明)",
-        "shared_targets_count": 9
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/democratic-progressive-party.md",
-        "page2": "people/lin-chao-quan.md",
-        "shared_target": "people/peng-ming-min",
-        "page1_title": "Democratic Progressive Party (民主進步黨)",
-        "page2_title": "Lin Chao-quan (林朝權)",
-        "shared_targets_count": 9
+        "shared_targets_count": 12
       },
       {
         "type": "CO-CITATION",
@@ -390,7 +390,7 @@
         "shared_target": "people/albert-s-lai",
         "page1_title": "Democratic Progressive Party (民主進步黨)",
         "page2_title": "Albert ch.1 audiobook consent kit",
-        "shared_targets_count": 130
+        "shared_targets_count": 126
       },
       {
         "type": "CO-CITATION",
@@ -542,7 +542,7 @@
         "page2": "people/chen-po-kong.md",
         "shared_target": "people/chen-maoxiong",
         "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "page2_title": "Chen Po-kong (陳破空)",
+        "page2_title": "chen-po-kong",
         "shared_targets_count": 6
       },
       {
@@ -579,7 +579,7 @@
         "shared_target": "organizations/good-shepherd-taiwanese-presbyterian-church",
         "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
         "page2_title": "National Taiwanese Presbyterian Council (NTPC)",
-        "shared_targets_count": 54
+        "shared_targets_count": 53
       },
       {
         "type": "CO-CITATION",
@@ -588,7 +588,7 @@
         "shared_target": "organizations/good-shepherd-taiwanese-presbyterian-church",
         "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
         "page2_title": "Presbyterian Church in Taiwan (PCT)",
-        "shared_targets_count": 54
+        "shared_targets_count": 53
       },
       {
         "type": "CO-CITATION",
@@ -597,7 +597,7 @@
         "shared_target": "organizations/irvine-taiwanese-presbyterian-church",
         "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
         "page2_title": "Good Shepherd Taiwanese Presbyterian Church",
-        "shared_targets_count": 24
+        "shared_targets_count": 27
       },
       {
         "type": "CO-CITATION",

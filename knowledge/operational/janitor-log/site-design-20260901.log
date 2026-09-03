@@ -10,7 +10,7 @@ SITE_DESIGN_STATUS: ACTION
 SITE_DESIGN_SUMMARY: critical=0 high=1 medium=1 md=5284 heals=none
 HIGH: [B2] pinned featured pages: 47 (cap 6 people + 3 orgs; overflow hides recency)
 SITE_DESIGN_BRIEF: /home/leedt/echo-system/echopedia/site-design-brief.md
-## Site design audit — 2026-09-01 04:30
+## Site design audit — 2026-09-01 10:17
 
 - pages_md=5284
 - critical=0 high=1 medium=1
@@ -34,9 +34,8 @@ SITE_DESIGN_BRIEF: /home/leedt/echo-system/echopedia/site-design-brief.md
 - **F4** people/index.html is 1490229 bytes — heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break.
 
 ### LOW (1)
-- **C1** spelling signals (sample): 2 `[AGENT_SUGGESTED]`
-  - `yang-ziqing.md: ?ziqing`
-  - `wang-qiaoling.md: ?qiaoling`
+- **C1** spelling signals (sample): 1 `[AGENT_SUGGESTED]`
+  - `tahs-member-onboarding.md: ?onboarding`
 
 ### INFO (1)
 - **B1** person/org touched ≤7d (rely on recency featured window): 68

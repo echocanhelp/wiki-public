@@ -189,11 +189,11 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 [[people/chang-kuo-hsin|Chang Kuo-hsin (張國鑫博士)]]
 [[people/chang-i-tsai|Chang-I Tsai (蔡正一)]]
 [[people/chang-yong-tsao|Chang-Yong Tsao (曹昌榮)]]
-[[people/chao-sile|Chao Sile / 趙思樂]]
 [[people/chao-w-chen|Chao W Chen (陳昭文)]]
 [[people/chao-hsiung-hsu|Chao-Hsiung Hsu (許昭雄醫師)]]
 [[people/chao-huei-jeffrey-wang|Chao-Huei Jeffrey Wang (王肇輝)]]
 [[people/chao-nan-liu|Chao-Nan Liu (劉照男)]]
+[[people/chao-sile|chao-sile]]
 [[people/chao-yuh-yang|Chao-Yuh Yang (楊朝諭)]]
 [[people/charlene-bos-alexander|Charlene Bos Alexander (莫霞琳)]]
 [[people/charlene-chen|Charlene Chen (陳怡林)]]
@@ -944,9 +944,9 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 [[people/hua-san-chi|Hua-San Chi (紀華山)]]
 [[people/huai-shion-tsai|Huai Shion Tsai (蔡蕙香)]]
 [[people/huai-en-tsai|Huai-En Tsai (蔡懷恩)]]
-[[people/huang-diyin|Huang Di-ying (黃帝穎)]]
 [[people/huang-gen-shen|Huang Gen-shen (黃根深)]]
 [[people/huang-yongcheng|Huang Yung-cheng / 黃永成]]
+[[people/huang-diyin|huang-diyin]]
 [[people/huei-pei-kuo|Huei Pei Kuo (郭惠沛博士)]]
 [[people/huei-mei-jhou|Huei-mei Jhou (周惠美博士)]]
 [[people/huei-sheng-kao|Huei-Sheng Kao (高慧生)]]
@@ -1318,8 +1318,8 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 [[people/li-furen|Li Fu-Jen (李輔仁)]]
 [[people/li-gui-chen|Li Gui Chen (陳麗貴)]]
 [[people/li-xiaofeng|Li Hsiao-feng / 李筱峰]]
-[[people/li-jian|Li Jian (李堅)]]
 [[people/li-chan-chen-maxham|Li-Chan Chen-Maxham (陳麗嬋)]]
+[[people/li-jian|li-jian]]
 [[people/li-lin-cheng|Li-Lin Cheng (鄭麗伶)]]
 [[people/li-shan-chang|Li-Shan Chang (張力山)]]
 [[people/li-shan-hung|Li-Shan Hung (洪儷珊)]]
@@ -2358,12 +2358,12 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 [[people/yu-sui-hung|Yu-Sui Hung (洪育穗)]]
 [[people/yu-wen-chen|Yu-Wen Chen (陳郁雯)]]
 [[people/yu-wen-wu|Yu-Wen Wu]]
-[[people/yuan-zhihui|Yuan Chih-hui / 袁智慧]]
 [[people/yuan-chuan-lee|Yuan Chuan Lee (李遠川)]]
 [[people/yuan-zong-lai|Yuan Zong Lai (賴元榮)]]
 [[people/yuan-chen-li|Yuan-Chen Li (李元貞)]]
 [[people/yuan-shuh-lii|Yuan-Shuh Lii (李元恕)]]
 [[people/yuan-tsong-chen|Yuan-Tsong Chen (陳垣崇博士)]]
+[[people/yuan-zhihui|yuan-zhihui]]
 [[people/yue-juan-joanne-guo|Yue-Juan Joanne Guo (郭玥娟)]]
 [[people/yuhan-su|Yuhan Su (蘇郁涵)]]
 [[people/yuhsuan-liu-aldridge|Yuhsuan Liu Aldridge (劉于瑄)]]
@@ -2488,34 +2488,3 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 [[people/tah-p-b5dfddaa1e|黃蔡瑞雲]]
 [[people/tah-p-73e6156ed8|黃邱淑惠]]
 [[people/tah-p-aed84f7112|黃開榮]]
-
-## Network
-
-Pages that link to **index** (index):
-
-
-### People (17)
-
-1. [[people/alexander-macdonald|alexander-macdonald]]
-2. [[people/hu-gstpc|hu-gstpc]]
-3. [[people/ku-gstpc|ku-gstpc]]
-4. [[people/leonard-hsu-jr|leonard-hsu-jr]]
-5. [[people/qiu-yunen|qiu-yunen]]
-6. [[people/shoki-coe|shoki-coe]]
-7. [[people/wang-gstpc|wang-gstpc]]
-8. [[people/wang-xinxin|wang-xinxin]]
-9. [[people/willy-pan|willy-pan]]
-10. [[people/xiao-xien|xiao-xien]]
-11. [[people/xie-dali|xie-dali]]
-12. [[people/xie-xinguang|xie-xinguang]]
-13. [[people/xie-xinzhong|xie-xinzhong]]
-14. [[people/xu-wenkai|xu-wenkai]]
-15. [[people/zhang-xuanxin|zhang-xuanxin]]
-16. [[people/zheng-quansheng|zheng-quansheng]]
-17. [[people/zhuang-xinde|zhuang-xinde]]
-
-### Organizations (3)
-
-1. [[organizations/ntpc|ntpc]]
-2. [[organizations/presbyterian-church-in-taiwan|presbyterian-church-in-taiwan]]
-3. [[organizations/taiwan-formosa|taiwan-formosa]]

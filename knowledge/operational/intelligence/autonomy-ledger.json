@@ -1,19 +1,19 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-02",
   "standards_version": 10,
   "auto_apply_agent": false,
   "nodes": {
     "janitor.first_mention": {
-      "n": 0,
+      "n": 5,
       "enabled": true
     },
     "janitor.related": {
-      "n": 0
+      "n": 5
     },
     "analyzer": {
       "scanned": 2866,
-      "queued": 2,
-      "suppressed": 1763
+      "queued": 11,
+      "suppressed": 1748
     },
     "enrichment_writes": {
       "n": 0,
@@ -39,7 +39,9 @@
     "cron.fail": []
   },
   "telegram_auto_lines": [
-    "✅ AUTO analyzer scanned 2866 queued 2 suppressed 1763",
+    "✅ AUTO first-mention 5 page(s)",
+    "✅ AUTO related-pages 5",
+    "✅ AUTO analyzer scanned 2866 queued 11 suppressed 1748",
     "🟡 QUEUE janitor HOLD leftover 40",
     "🟡 QUEUE kanban blocked 60"
   ],

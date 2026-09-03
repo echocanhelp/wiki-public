@@ -1,9 +1,9 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "standards_version": 10,
   "total_pages_scanned": 2866,
-  "pages_with_findings": 19,
-  "auto_queued": 7,
+  "pages_with_findings": 23,
+  "auto_queued": 11,
   "queue": [
     {
       "path": "events/ev-lunar-new-year-banquet.md",
@@ -13,6 +13,23 @@
         "STRUCT_NO_REVIEW_DATE"
       ],
       "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/chao-sile.md",
+      "findings": [
+        "DESC_TOO_SHORT",
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_TYPE",
+        "STRUCT_NO_REVIEW_DATE"
+      ],
+      "priority": "high",
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol",
         "Fix ONLY listed findings — no inventing biography",
@@ -82,11 +99,47 @@
       "path": "people/guan-renjian.md",
       "findings": [
         "FRESHNESS_NO_REVIEW_DATE",
-        "LINKS_NO_RELATED",
         "STRUCT_NO_TYPE",
         "STRUCT_NO_REVIEW_DATE"
       ],
       "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/huang-diyin.md",
+      "findings": [
+        "DESC_TOO_SHORT",
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_LOW_DENSITY",
+        "STRUCT_NO_TYPE",
+        "STRUCT_NO_REVIEW_DATE",
+        "READABILITY_LONG_SENTENCES_103wps",
+        "READABILITY_MANY_LONG_SENTENCES_200"
+      ],
+      "priority": "high",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/li-jian.md",
+      "findings": [
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_LOW_DENSITY",
+        "STRUCT_NO_TYPE",
+        "STRUCT_NO_REVIEW_DATE",
+        "READABILITY_LONG_SENTENCES_128wps",
+        "READABILITY_MANY_LONG_SENTENCES_201"
+      ],
+      "priority": "high",
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol",
         "Fix ONLY listed findings — no inventing biography",
@@ -100,11 +153,10 @@
         "DESC_TOO_SHORT",
         "FRESHNESS_NO_REVIEW_DATE",
         "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED",
         "STRUCT_NO_TYPE",
         "STRUCT_NO_REVIEW_DATE",
         "READABILITY_LONG_SENTENCES_78wps",
-        "READABILITY_MANY_LONG_SENTENCES_214"
+        "READABILITY_MANY_LONG_SENTENCES_215"
       ],
       "priority": "high",
       "instructions": [
@@ -119,7 +171,6 @@
       "findings": [
         "DESC_TOO_SHORT",
         "FRESHNESS_NO_REVIEW_DATE",
-        "LINKS_NO_RELATED",
         "STRUCT_NO_TYPE",
         "STRUCT_NO_REVIEW_DATE"
       ],
@@ -130,8 +181,24 @@
         "Update last_reviewed after fixes",
         "Commit only (no publish)"
       ]
+    },
+    {
+      "path": "people/yuan-zhihui.md",
+      "findings": [
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_TYPE",
+        "STRUCT_NO_REVIEW_DATE"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
     }
   ],
-  "suppressed_findings": 1754,
-  "fp_history_entries": 1841
+  "suppressed_findings": 1748,
+  "fp_history_entries": 1865
 }
