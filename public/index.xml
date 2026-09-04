@@ -6,6 +6,30 @@
       <description>Last 10 notes on Echopedia</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Stories &amp; historical works</title>
+    <link>https://echocanhelp.github.io/wiki-public/works/</link>
+    <guid>https://echocanhelp.github.io/wiki-public/works/</guid>
+    <description><![CDATA[ Stories &amp; historical works Interviews, oral history, and named-subject features absorbed as Echopedia work pages. ]]></description>
+    <pubDate>Fri, 04 Sep 2026 11:26:57 GMT</pubDate>
+  </item><item>
+    <title>People</title>
+    <link>https://echocanhelp.github.io/wiki-public/people/</link>
+    <guid>https://echocanhelp.github.io/wiki-public/people/</guid>
+    <description><![CDATA[ People Person records in Echopedia. ]]></description>
+    <pubDate>Fri, 04 Sep 2026 11:26:57 GMT</pubDate>
+  </item><item>
+    <title>Organizations</title>
+    <link>https://echocanhelp.github.io/wiki-public/organizations/</link>
+    <guid>https://echocanhelp.github.io/wiki-public/organizations/</guid>
+    <description><![CDATA[ Organizations Organization records in Echopedia — churches, cultural centers, historical societies, and related institutions. ]]></description>
+    <pubDate>Fri, 04 Sep 2026 11:26:57 GMT</pubDate>
+  </item><item>
+    <title>Echo Resonance — Media</title>
+    <link>https://echocanhelp.github.io/wiki-public/media/</link>
+    <guid>https://echocanhelp.github.io/wiki-public/media/</guid>
+    <description><![CDATA[ Echo Resonance · 歲月有聲 Sound recordings from the Echo Resonance / 歲月有聲 pipeline. ]]></description>
+    <pubDate>Fri, 04 Sep 2026 11:26:57 GMT</pubDate>
+  </item><item>
     <title>Zhou Weiliang (周威廉)</title>
     <link>https://echocanhelp.github.io/wiki-public/people/zhou-wei-liang</link>
     <guid>https://echocanhelp.github.io/wiki-public/people/zhou-wei-liang</guid>
@@ -16,12 +40,6 @@
     <link>https://echocanhelp.github.io/wiki-public/people/zhou-wei-lin</link>
     <guid>https://echocanhelp.github.io/wiki-public/people/zhou-wei-lin</guid>
     <description><![CDATA[ Zhou Weilin (周威霖) Zhou Weilin (周威霖) is a Taiwanese American community figure who served as Secretary General (秘書長) of the Taiwanese American Historical Society (TAHS) and contributed multiple profiles to the 2017 TAHS Publication (台美菁英錄). ]]></description>
-    <pubDate>Fri, 04 Sep 2026 11:25:24 GMT</pubDate>
-  </item><item>
-    <title>Stories &amp; historical works</title>
-    <link>https://echocanhelp.github.io/wiki-public/works/</link>
-    <guid>https://echocanhelp.github.io/wiki-public/works/</guid>
-    <description><![CDATA[ Stories &amp; historical works Interviews, oral history, and named-subject features absorbed as Echopedia work pages. ]]></description>
     <pubDate>Fri, 04 Sep 2026 11:25:24 GMT</pubDate>
   </item><item>
     <title>Dr. Shoki Coe (黃彰輝)</title>
@@ -46,24 +64,6 @@
     <link>https://echocanhelp.github.io/wiki-public/people/tahs-member-onboarding</link>
     <guid>https://echocanhelp.github.io/wiki-public/people/tahs-member-onboarding</guid>
     <description><![CDATA[ TAHS Member Onboarding TAHS Member Onboarding is the lightweight induction pathway for people who are being introduced into the Taiwanese American Historical Society (|台美人歷史協會 (TAHS)) and the Echopedia historical-record workflow. ]]></description>
-    <pubDate>Fri, 04 Sep 2026 11:25:24 GMT</pubDate>
-  </item><item>
-    <title>Wang Gui-rong (王桂榮)</title>
-    <link>https://echocanhelp.github.io/wiki-public/people/wang-gui-rong</link>
-    <guid>https://echocanhelp.github.io/wiki-public/people/wang-gui-rong</guid>
-    <description><![CDATA[ Wang Gui-rong (王桂榮) Wang Gui-rong (1931–2012), also known in English as Kenjohn Wang, was a Taiwanese American entrepreneur, philanthropist, and community leader. ]]></description>
-    <pubDate>Fri, 04 Sep 2026 11:25:24 GMT</pubDate>
-  </item><item>
-    <title>Wang Neng-xiang (王能祥)</title>
-    <link>https://echocanhelp.github.io/wiki-public/people/wang-neng-xiang</link>
-    <guid>https://echocanhelp.github.io/wiki-public/people/wang-neng-xiang</guid>
-    <description><![CDATA[ Wang Neng-xiang (王能祥) Wang Neng-xiang (王能祥, 1933–) is a Taiwanese American CPA, Taiwan democracy lobbyist, and community leader based in Washington, D.C. ]]></description>
-    <pubDate>Fri, 04 Sep 2026 11:25:24 GMT</pubDate>
-  </item><item>
-    <title>Wang Yao-ting (王耀廷)</title>
-    <link>https://echocanhelp.github.io/wiki-public/people/wang-yao-ting</link>
-    <guid>https://echocanhelp.github.io/wiki-public/people/wang-yao-ting</guid>
-    <description><![CDATA[ Wang Yao-ting (王耀廷) Wang Yao-ting (王耀廷) is a Taiwanese American community leader and founding member of the Taiwanese American Historical Society (TAHS). ]]></description>
     <pubDate>Fri, 04 Sep 2026 11:25:24 GMT</pubDate>
   </item>
     </channel>
