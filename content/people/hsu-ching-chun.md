@@ -15,7 +15,7 @@ tags:
   - radio
   - tahs-archive
 verification_status: verified
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-04
 ---
 
 # Hsu Ching-chun (許景淳)
@@ -37,6 +37,7 @@ She is recorded on Penghu’s clan note as an 11th-generation descendant of Wato
 - **Labels:** 全美 (1987–93); 音樂田／滾石 (1994–97); 種子之歌音樂文化工作坊 (2004–)
 - **Geography:** Taichung origin; career Taipei / Taiwan national; **Watong ancestral memory**; father later in the U.S. (see Family)
 - **TAH archive:** [#196 singer profile](https://taiwaneseamericanhistory.org/196-christine-hsu%E8%A8%B1%E6%99%AF%E6%B7%B3-singer201505/) and [#258 father–daughter](https://taiwaneseamericanhistory.org/258-%E8%A8%B1%E4%B8%95%E9%BE%8D%E8%88%87%E8%A8%B1%E6%99%AF%E6%B7%B3-%E5%85%A9%E4%BB%A3%E9%9F%B3%E6%A8%82%E5%82%B3%E5%A5%87%E6%9E%97%E8%93%AE%E8%8F%AF201505/) (2015/05; #258 excerpted from 美洲台灣日報 / 林蓮華)
+- **LINE identity:** owner-verified as 許景淳 / Christine Hsu (2026-09-04; LINE user id not yet captured — pending first sender message)
 
 ## Faith / Church
 
@@ -167,6 +168,7 @@ TAH #196 (not in the Wikipedia table): 金鼎獎最佳演唱 **1987, 1992, 1993*
 - Critics, as printed on TAH #196 and #258: 「跨世紀臺灣最美麗的聲音。」 / 「聽見她，猶如看見臺灣美麗的山水。」
 - TAH #258 on how SoCal first heard of her: 「許丕龍的女兒做歌星了和阿爸同款，唱歌有夠好聽。」
 - 民報 summarizing her TV remarks on the family split: 「因故脫離關係。」
+- LINE note (2026-09-04; owner-verified identity; recorded in group by Leonard Hsu Jr.): 🌹「這是我父親的一生、蕭泰然的一生、我的一生，也是臺灣從不能唱，到可以自由唱的這一段歷史。」 有些人用文字保存一個時代，有些人用影像保存一個時代，我們用聲音與生命保存了臺灣成為台灣和世界的一部份
 
 ## Taiwanese American / Penghu
 
@@ -210,3 +212,4 @@ Do not write her as a Taiwanese American biography. The U.S. nodes are **(1) TAH
 
 - 2026-08-16: Initial page from zh.wikipedia + 民報 + 瓦硐許姓
 - 2026-08-16: Deepen — TAH #196/#258, Fount 2021, PCT 斗南 bulletin; Faith/Church mechanism table; full discography + GMA table; TA honesty updated (TAH listing ≠ residence)
+- 2026-09-04: Owner-verified LINE identity (@許景淳Christine Hsu); recorded LINE note quote (father / Tyzen Hsiao / Taiwan from cannot-sing to free-to-sing)
