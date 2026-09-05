@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-09-04 04:30 PDT*
+*Generated: 2026-09-05 04:27 PDT*
 
 ## Orientation
 - **Entry:** go <plain language> via go-router (auto-route) · **Control:** [CONTROL.md](CONTROL.md)
@@ -14,14 +14,14 @@
 - **Level:** L3
 - **L2 auto-publish on drift:** True
 - **L3 auto-push when green:** True
-- **Last good deploy:** `208efa6e73`
-- **Last night (ledger):** analyzer scanned 2866 queued 11 suppressed 1748 · 🟡 QUEUE janitor HOLD leftover 40 · 🟡 QUEUE kanban blocked 60
+- **Last good deploy:** `5bdea3394b`
+- **Last night (ledger):** analyzer scanned 2866 queued 11 suppressed 1748 · 🟡 QUEUE janitor HOLD leftover 40 · 🟡 QUEUE kanban blocked 11
 - **Track SSOT:** `knowledge/operational/intelligence/autonomy-ledger.json`
 
 ## Content
 |- **Tier1 pages:** 2848 (people 2402 / orgs 429 / sources 17) · Tier2 archive: 29103
-|- **Janitor queue depth:** 46
-|- **Uncommitted files:** 1517
+|- **Janitor queue depth:** 47
+|- **Uncommitted files:** 1707
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 || Stage | Script | Last run | Output |
@@ -30,7 +30,7 @@
 || Filter | echopedia-content-analysis | 03:05 local | 2866 scanned, 11 queued |
 || Extract | echopedia-extract-actions | 04:15 local | knowledge/operational/extracted/ |
 || Evaluate | echopedia-evaluate-actions | 04:20 local | knowledge/operational/evaluated/ |
-|| Generate | echopedia-generate-cards | 04:25 local | no data |
+|| Generate | echopedia-generate-cards | 04:25 local | 40 cards |
 || Review | weekly-improvement | Sun 07:05 local | improvement-brief.md |
 || Human | vault-morning-brief | 07:55 local | NEED YOU ≤5 |
 
@@ -55,37 +55,37 @@ Load skill **echopedia-ops** first for any wiki work.
 ```
     Name:      cron-output-rotate
     Schedule:  15 3 * * *
-    Last run:  2026-09-04T03:15:08.168842-07:00  ok
+    Last run:  2026-09-05T03:15:56.709474-07:00  ok
     Name:      vault-morning-brief
     Schedule:  0 7 * * *
-    Last run:  2026-09-03T07:00:27.598063-07:00  ok
+    Last run:  2026-09-04T07:00:25.684008-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-09-04T04:29:15.764656-07:00  ok
+    Last run:  2026-09-05T04:26:58.570210-07:00  ok
     Name:      Echopedia content analysis
     Schedule:  10 1 * * *
-    Last run:  2026-09-04T01:10:39.258636-07:00  ok
+    Last run:  2026-09-05T01:10:22.251714-07:00  ok
     Name:      unified-watchdog
     Schedule:  every 30m
-    Last run:  2026-09-04T04:12:14.232259-07:00  ok
+    Last run:  2026-09-05T04:18:57.096140-07:00  ok
     Name:      echopedia-digest
     Schedule:  20 6 * * *
-    Last run:  2026-09-03T06:20:15.015616-07:00  ok
+    Last run:  2026-09-04T06:20:16.845839-07:00  ok
     Name:      memory-audit
     Schedule:  50 4 * * *
-    Last run:  2026-09-03T04:50:09.949803-07:00  ok
+    Last run:  2026-09-04T09:06:42.407678-07:00  ok
     Name:      echopedia-nightly-audit
     Schedule:  15 1 * * *
-    Last run:  2026-09-04T01:15:39.301715-07:00  ok
+    Last run:  2026-09-05T01:26:40.505587-07:00  ok
     Name:      echopedia-janitor
     Schedule:  30 1 * * *
-    Last run:  2026-09-04T01:30:39.517066-07:00  ok
+    Last run:  2026-09-05T01:37:26.604500-07:00  ok
     Name:      echopedia-weekly-improvement
     Schedule:  0 6 * * 0
     Last run:  2026-08-30T07:20:35.576451-07:00  ok
     Name:      echopedia-ci-heal
     Schedule:  25 4 * * *
-    Last run:  2026-09-03T04:28:29.512920-07:00  ok
+    Last run:  2026-09-04T04:30:57.019652-07:00  ok
     Name:      echopedia-site-design
     Schedule:  30 4 * * *
     Last run:  2026-09-04T04:30:15.834583-07:00  ok

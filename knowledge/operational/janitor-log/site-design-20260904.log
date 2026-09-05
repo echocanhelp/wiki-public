@@ -10,7 +10,7 @@ SITE_DESIGN_STATUS: ACTION
 SITE_DESIGN_SUMMARY: critical=0 high=1 medium=1 md=5284 heals=none
 HIGH: [B2] pinned featured pages: 47 (cap 6 people + 3 orgs; overflow hides recency)
 SITE_DESIGN_BRIEF: /home/leedt/echo-system/echopedia/site-design-brief.md
-## Site design audit — 2026-09-04 04:30
+## Site design audit — 2026-09-04 04:45
 
 - pages_md=5284
 - critical=0 high=1 medium=1

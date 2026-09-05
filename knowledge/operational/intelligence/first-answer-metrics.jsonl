@@ -654,3 +654,7 @@
 {"ts": "2026-09-02T15:10:37Z", "status": "hit", "query": "t p one shard from", "slug": "chen-wenshi", "source": "brain", "kind": "person"}
 {"ts": "2026-09-02T15:33:32Z", "status": "hit", "query": "echopedia page visit stats", "slug": "fpcla", "source": "brain", "kind": "person"}
 {"ts": "2026-09-02T16:45:24Z", "status": "miss", "query": "Morn8ng", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-09-04T14:36:10Z", "status": "hit", "query": "Christine hsu", "slug": "hsu-ling-yun", "source": "line", "kind": "person"}
+{"ts": "2026-09-04T14:37:18Z", "status": "hit", "query": "許景淳", "slug": "hsu-ching-chun", "source": "line", "kind": "person"}
+{"ts": "2026-09-04T14:38:05Z", "status": "hit", "query": "@Echo許 AI助理 tell me about 許景淳 in zhtw and provide echopedia link", "slug": "hsu-ching-chun", "source": "brain", "kind": "person"}
+{"ts": "2026-09-04T14:58:43Z", "status": "hit", "query": "@Echo許 AI助理 introduce yourself to my sister, @許景淳Christine Hsu in zhtw", "slug": "hsu-ching-chun", "source": "brain", "kind": "person"}

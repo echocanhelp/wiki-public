@@ -1,4 +1,4 @@
-## Site design audit — 2026-09-04 04:30
+## Site design audit — 2026-09-05 04:27
 
 - pages_md=5284
 - critical=0 high=1 medium=1
@@ -26,7 +26,7 @@
   - `tahs-member-onboarding.md: ?onboarding`
 
 ### INFO (1)
-- **B1** person/org touched ≤7d (rely on recency featured window): 67
+- **B1** person/org touched ≤7d (rely on recency featured window): 68
   - `people/alan-thian.md`
   - `people/bai-peiyu.md`
   - `people/cai-shunyu.md`

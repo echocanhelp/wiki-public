@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-02",
+  "date": "2026-09-05",
   "standards_version": 10,
   "total_pages_scanned": 2866,
   "pages_with_findings": 23,
@@ -25,7 +25,6 @@
       "findings": [
         "DESC_TOO_SHORT",
         "FRESHNESS_NO_REVIEW_DATE",
-        "LINKS_NO_RELATED",
         "STRUCT_NO_TYPE",
         "STRUCT_NO_REVIEW_DATE"
       ],
@@ -43,11 +42,10 @@
         "DESC_TOO_SHORT",
         "FRESHNESS_NO_REVIEW_DATE",
         "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED",
         "STRUCT_NO_TYPE",
         "STRUCT_NO_REVIEW_DATE",
         "READABILITY_LONG_SENTENCES_73wps",
-        "READABILITY_MANY_LONG_SENTENCES_224"
+        "READABILITY_MANY_LONG_SENTENCES_225"
       ],
       "priority": "high",
       "instructions": [
@@ -62,11 +60,10 @@
       "findings": [
         "FRESHNESS_NO_REVIEW_DATE",
         "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED",
         "STRUCT_NO_TYPE",
         "STRUCT_NO_REVIEW_DATE",
         "READABILITY_LONG_SENTENCES_104wps",
-        "READABILITY_MANY_LONG_SENTENCES_207"
+        "READABILITY_MANY_LONG_SENTENCES_208"
       ],
       "priority": "high",
       "instructions": [
@@ -186,7 +183,6 @@
       "path": "people/yuan-zhihui.md",
       "findings": [
         "FRESHNESS_NO_REVIEW_DATE",
-        "LINKS_NO_RELATED",
         "STRUCT_NO_TYPE",
         "STRUCT_NO_REVIEW_DATE"
       ],

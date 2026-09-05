@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "standards_version": 10,
   "auto_apply_agent": false,
   "nodes": {
@@ -23,7 +23,7 @@
       "n": 40
     },
     "kanban.blocked": {
-      "n": 60
+      "n": 11
     },
     "kanban.auto_go": {
       "enabled": false
@@ -41,7 +41,7 @@
   "telegram_auto_lines": [
     "✅ AUTO analyzer scanned 2866 queued 11 suppressed 1748",
     "🟡 QUEUE janitor HOLD leftover 40",
-    "🟡 QUEUE kanban blocked 60"
+    "🟡 QUEUE kanban blocked 11"
   ],
   "cron_fail_names": []
 }
