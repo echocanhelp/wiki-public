@@ -4,19 +4,14 @@ type: person
 tags:
   - 
 verification_status: pending
-last_reviewed: 2026-07-08
+last_reviewed: 2026-09-05
 ---
 # Chen Meihui (陳美蕙)
 
 ## Identity Snapshot
 - Era: 2020–2025
 - Geography: Irvine, California
-- Core roles: pastor, ordained minister, [[sources/irvine-taiwanese-presbyterterian-church||Irvine Taiwanese Presbyterian Church]] pastoral leader
-
-## Related Pages
-- [[organizations/irvine-taiwanese-presbyterian-church||Irvine Taiwanese Presbyterian Church]]
-- [[people/zhang-xuanxin||Zhang Xuanxin (張宣信)]]
-- [[people/li-furen||Li Fu-Jen (李輔仁)]]
+- Core roles: pastor, ordained minister, [[organizations/irvine-taiwanese-presbyterian-church||Irvine Taiwanese Presbyterian Church]] pastoral leader
 
 The official [[organizations/irvine-taiwanese-presbyterian-church||Irvine Taiwanese Presbyterian Church (ITPC)]] history states that 張宣信牧師 left ITPC in June 2020 after twenty-one years of service and that 陳美蕙牧師 was called immediately afterward to continue pastoral ministry without interruption. The document describes her as having substantial ability and experience, while giving no extended biography in the extracted text.
 
@@ -60,5 +55,8 @@ Pages that link to **chen-meihui** (chen-meihui):
 
 - [[organizations/irvine-taiwanese-presbyterian-church||Irvine Taiwanese Presbyterian Church]]
 - [[people/zhang-xuanxin||Zhang Xuanxin (張宣信)]]
+- [[people/li-furen||Li Fu-Jen (李輔仁)]]
+- [[people/zheng-quansheng||Zheng Quansheng (鄭泉聲)]]
 - [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan]]
+- [[sources/irvine-taiwanese-presbyterian-church||ITPC Official Website (source)]]
 - Echopedia Community Contributions Hub

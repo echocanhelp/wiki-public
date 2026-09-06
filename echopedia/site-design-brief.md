@@ -1,22 +1,11 @@
-## Site design audit — 2026-09-05 04:28
+## Site design audit — 2026-09-06 04:27
 
 - pages_md=5284
-- critical=0 high=1 medium=1
+- critical=0 high=0 medium=1
 - heals_suggested=none
 
 ### Summary
-- **SITE_DESIGN_STATUS: ACTION**
-
-### HIGH (1)
-- **B2** pinned featured pages: 47 (cap 6 people + 3 orgs; overflow hides recency)
-  - `people/albert-s-lai.md`
-  - `people/anne-shih.md`
-  - `people/bob-j-wu.md`
-  - `people/chen-wenxue.md`
-  - `people/chen-zhefu-xu-chunhui.md`
-  - `people/choan-seng-song.md`
-  - `people/fan-qingliang.md`
-  - `people/franklin-ping-cheng.md`
+- **SITE_DESIGN_STATUS: WARN**
 
 ### MEDIUM (1)
 - **F4** people/index.html is 1489173 bytes — heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break.
@@ -25,8 +14,15 @@
 - **C1** spelling signals (sample): 1 `[AGENT_SUGGESTED]`
   - `tahs-member-onboarding.md: ?onboarding`
 
-### INFO (1)
-- **B1** person/org touched ≤7d (rely on recency featured window): 68
+### INFO (2)
+- **B2** pinned featured pages: 6 (cap 6 people + 3 orgs; overflow hides recency)
+  - `people/albert-s-lai.md`
+  - `people/liao-shu-zong.md`
+  - `people/lin-fu-kun.md`
+  - `people/lin-yuan-ching.md`
+  - `people/yang-jia-you.md`
+  - `people/yang-xin.md`
+- **B1** person/org touched ≤7d (rely on recency featured window): 72
   - `people/alan-thian.md`
   - `people/bai-peiyu.md`
   - `people/cai-shunyu.md`
@@ -34,7 +30,7 @@
   - `people/chao-sile.md`
   - `people/chen-bozhi.md`
   - `people/chen-maoxiong.md`
-  - `people/chen-po-kong.md`
+  - `people/chen-meihui.md`
 
 ### Programmable heals
 - (none)

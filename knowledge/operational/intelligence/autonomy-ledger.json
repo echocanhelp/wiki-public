@@ -1,14 +1,14 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "standards_version": 10,
   "auto_apply_agent": false,
   "nodes": {
     "janitor.first_mention": {
-      "n": 0,
+      "n": 4,
       "enabled": true
     },
     "janitor.related": {
-      "n": 0
+      "n": 4
     },
     "analyzer": {
       "scanned": 2866,
@@ -39,6 +39,8 @@
     "cron.fail": []
   },
   "telegram_auto_lines": [
+    "✅ AUTO first-mention 4 page(s)",
+    "✅ AUTO related-pages 4",
     "✅ AUTO analyzer scanned 2866 queued 11 suppressed 1748",
     "🟡 QUEUE janitor HOLD leftover 40",
     "🟡 QUEUE kanban blocked 11"

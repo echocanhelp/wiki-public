@@ -1,8 +1,8 @@
-## Echopedia Content Analysis — 2026-09-05
+## Echopedia Content Analysis — 2026-09-06
 - Standards v10
 - Pages scanned: **23** with findings
 - Auto-queued for remediation: **11** (score ≥ 3)
-- Wall time: 1.16s
+- Wall time: 1.45s
 
 ### Top 10 pages needing attention:
 - `people/chen-po-kong.md` score=8 ⚠️ DESC_TOO_SHORT — DESC_TOO_SHORT, FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
@@ -28,5 +28,5 @@
 - `people/lin-baohua.md` (high) — DESC_TOO_SHORT, FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
 - `people/yang-yueqing.md` (high) — DESC_TOO_SHORT, FRESHNESS_NO_REVIEW_DATE, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
 
-- Log: `knowledge/operational/content-analysis/2026-09-05.jsonl`
+- Log: `knowledge/operational/content-analysis/2026-09-06.jsonl`
 - Queue: `echopedia/content-analysis-queue.json`

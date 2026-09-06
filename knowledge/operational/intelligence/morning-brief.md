@@ -1,4 +1,4 @@
-TAHS · Echopedia morning brief — 2026-09-04
+TAHS · Echopedia morning brief — 2026-09-05
 1 NEED YOU item(s) below; the rest is auto-handled.
 
 🔴 NEED YOU (your judgment only)
@@ -25,7 +25,7 @@ TAHS · Echopedia morning brief — 2026-09-04
 🟡 QUEUE 11 pages WIP/incomplete
 
 🟡 QUEUE / link suggestions (disk)
-ℹ️  INFO  top tips below · full pairs on disk (~7215 scored)
+ℹ️  INFO  top tips below · full pairs on disk (~7229 scored)
 
 🟡 QUEUE / optional link tips (≤5, not NEED YOU)
 🟡 QUEUE 1. Link tip: organizations/taiwanese-american-association-of-los-angeles-east-san-gabriel-valley.md ↔ sources/taiwaneseamericanhistory-org.md
@@ -35,9 +35,11 @@ TAHS · Echopedia morning brief — 2026-09-04
 🟡 QUEUE 5. Link tip: organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/ann-arbor-taiwanese-association.md
 
 ℹ️ SITE (wiki visits; operator self-traffic excluded)
-ℹ️  INFO  wiki 4 visits since cutoff · yday 2026-09-03 = 1 · / 2, /people/david-huang 1, /people/albert-chapter1-zh-hsiaochen-full-review 1
+ℹ️  INFO  wiki 7 visits since cutoff · yday 2026-09-04 = 3 · /people/hsu-ching-chun 2, / 2, /people/hsu-ling-yun 1
 
 ✅ AUTO (overnight — evidence)
+✅ AUTO first-mention 4 page(s)
+✅ AUTO related-pages 4
 ✅ AUTO analyzer scanned 2866 queued 11 suppressed 1748
 🟡 QUEUE janitor HOLD leftover 40
 🟡 QUEUE kanban blocked 11

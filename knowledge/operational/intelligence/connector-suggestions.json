@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-04T04:45:43.246166",
+  "generated_at": "2026-09-05T04:46:23.774949",
   "pages_scanned": 2872,
   "capped": true,
   "cap_top_n": 80,
   "summary": {
-    "co_citation_count": 1112,
-    "co_mention_count": 6103,
+    "co_citation_count": 1113,
+    "co_mention_count": 6116,
     "shared_tags_count": 0,
     "orphan_folder_count": 2,
     "kept_co_citation": 80,
@@ -255,25 +255,25 @@
         "shared_target": "people/peng-ming-min",
         "page1_title": "Democratic Progressive Party (民主進步黨)",
         "page2_title": "Taiwanese American Foundation (TAF)",
-        "shared_targets_count": 12
+        "shared_targets_count": 14
       },
       {
         "type": "CO-CITATION",
         "page1": "organizations/democratic-progressive-party.md",
-        "page2": "people/huang-diyin.md",
+        "page2": "people/chen-po-kong.md",
         "shared_target": "people/peng-ming-min",
         "page1_title": "Democratic Progressive Party (民主進步黨)",
-        "page2_title": "huang-diyin",
-        "shared_targets_count": 12
+        "page2_title": "chen-po-kong",
+        "shared_targets_count": 14
       },
       {
         "type": "CO-CITATION",
         "page1": "organizations/democratic-progressive-party.md",
-        "page2": "people/kao-chun-ming.md",
+        "page2": "people/du-ao-cunfu.md",
         "shared_target": "people/peng-ming-min",
         "page1_title": "Democratic Progressive Party (民主進步黨)",
-        "page2_title": "Rev. Kao Chun-ming (高俊明)",
-        "shared_targets_count": 12
+        "page2_title": "du-ao-cunfu",
+        "shared_targets_count": 14
       },
       {
         "type": "CO-CITATION",
@@ -597,7 +597,7 @@
         "shared_target": "organizations/irvine-taiwanese-presbyterian-church",
         "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
         "page2_title": "Good Shepherd Taiwanese Presbyterian Church",
-        "shared_targets_count": 27
+        "shared_targets_count": 29
       },
       {
         "type": "CO-CITATION",

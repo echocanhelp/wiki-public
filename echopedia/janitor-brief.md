@@ -1,48 +1,48 @@
-## Echopedia Janitor — 2026-09-05
+## Echopedia Janitor — 2026-09-06
 - Standards v10
 - Pages with findings: **5111**
 - Queued tonight (max 40): **40**
 - Queue:
-  - `people/chen-meihui.md` age≈59.4d · LINK_BODY_SPARSE, LINK_UNLINKED_ENTITY
-  - `people/guo-yingyan.md` age≈59.4d · LINK_UNLINKED_ENTITY
-  - `people/tahs-member-onboarding.md` age≈59.4d · LINK_UNLINKED_ENTITY
-  - `people/li-furen.md` age≈54.4d · LINK_UNLINKED_ENTITY
-  - `organizations/formosan-presbyterian-church-in-los-angeles.md` age≈52.4d · LINK_UNLINKED_ENTITY
-  - `organizations/irvine-taiwanese-presbyterian-church.md` age≈52.4d · LINK_UNLINKED_ENTITY
-  - `sources/toward-a-community-of-hope.md` age≈52.4d · LINK_UNLINKED_ENTITY
-  - `people/chaolong-kao.md` age≈52.4d · LINK_UNLINKED_ENTITY
-  - `people/daniel-kao.md` age≈52.4d · LINK_UNLINKED_ENTITY
-  - `people/pingtung-lai.md` age≈52.4d · LINK_UNLINKED_ENTITY
-  - `organizations/taiwanese-american-foundation-of-san-diego.md` age≈51.4d · LINK_UNLINKED_ENTITY
-  - `organizations/institute-for-taiwanese-studies.md` age≈51.4d · LINK_UNLINKED_ENTITY
-  - `organizations/orange-county-taiwanese-association.md` age≈51.4d · LINK_UNLINKED_ENTITY
-  - `organizations/taiwanese-association-of-northwest-los-angeles.md` age≈51.4d · LINK_UNLINKED_ENTITY
-  - `organizations/taiwanese-american-photographers-association.md` age≈51.4d · LINK_UNLINKED_ENTITY
-  - `organizations/taiwanese-united-fund.md` age≈51.4d · LINK_UNLINKED_ENTITY
-  - `organizations/formosa-foundation.md` age≈51.4d · LINK_UNLINKED_ENTITY
-  - `organizations/san-gabriel-taiwanese-lions-club.md` age≈51.4d · LINK_UNLINKED_ENTITY
-  - `organizations/taiwanese-american-foundation.md` age≈51.4d · LINK_UNLINKED_ENTITY
-  - `sources/irvine-taiwanese-presbyterian-church.md` age≈51.4d · LINK_BODY_SPARSE
-  - `sources/2017-tahs-publication.md` age≈50.4d · LINK_UNLINKED_ENTITY
-  - `organizations/taiwan-american-foundation.md` age≈47.4d · LINK_UNLINKED_ENTITY
-  - `people/lin-chao-quan.md` age≈47.4d · LINK_UNLINKED_ENTITY
-  - `people/ku-gstpc.md` age≈47.4d · LINK_UNLINKED_ENTITY
-  - `people/hu-gstpc.md` age≈47.4d · LINK_UNLINKED_ENTITY
-  - `people/wang-gstpc.md` age≈47.4d · LINK_UNLINKED_ENTITY
-  - `people/lin-chao-chi.md` age≈47.4d · LINK_UNLINKED_ENTITY
-  - `people/guo-shu-qing.md` age≈47.4d · LINK_UNLINKED_ENTITY
-  - `people/liao-ji-chun.md` age≈47.4d · LINK_UNLINKED_ENTITY
-  - `people/lin-qiong-xian.md` age≈47.4d · LINK_UNLINKED_ENTITY
-  - `people/david-lee.md` age≈46.4d · LINK_UNLINKED_ENTITY
-  - `organizations/democratic-progressive-party.md` age≈45.4d · LINK_UNLINKED_ENTITY
-  - `sources/2023-tahs-publication.md` age≈44.4d · LINK_UNLINKED_ENTITY
-  - `people/wang-yao-ting.md` age≈44.4d · LINK_UNLINKED_ENTITY
-  - `people/zheng-bing-quan.md` age≈44.4d · LINK_UNLINKED_ENTITY
-  - `people/yuan-zhihui.md` age≈3.6d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
-  - `people/chao-sile.md` age≈3.6d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/chen-po-kong.md` age≈3.6d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
-  - `people/du-ao-cunfu.md` age≈3.6d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
-  - `organizations/taiwanjustice-net.md` age≈39.4d · LINK_UNLINKED_ENTITY
-- Log: `knowledge/operational/janitor-log/2026-09-05.jsonl`
+  - `people/guo-yingyan.md` age≈60.4d · LINK_UNLINKED_ENTITY
+  - `people/tahs-member-onboarding.md` age≈60.4d · LINK_UNLINKED_ENTITY
+  - `people/li-furen.md` age≈55.4d · LINK_UNLINKED_ENTITY
+  - `organizations/formosan-presbyterian-church-in-los-angeles.md` age≈53.4d · LINK_UNLINKED_ENTITY
+  - `organizations/irvine-taiwanese-presbyterian-church.md` age≈53.4d · LINK_UNLINKED_ENTITY
+  - `sources/toward-a-community-of-hope.md` age≈53.4d · LINK_UNLINKED_ENTITY
+  - `people/chaolong-kao.md` age≈53.4d · LINK_UNLINKED_ENTITY
+  - `people/daniel-kao.md` age≈53.4d · LINK_UNLINKED_ENTITY
+  - `people/pingtung-lai.md` age≈53.4d · LINK_UNLINKED_ENTITY
+  - `organizations/taiwanese-american-foundation-of-san-diego.md` age≈52.4d · LINK_UNLINKED_ENTITY
+  - `organizations/institute-for-taiwanese-studies.md` age≈52.4d · LINK_UNLINKED_ENTITY
+  - `organizations/orange-county-taiwanese-association.md` age≈52.4d · LINK_UNLINKED_ENTITY
+  - `organizations/taiwanese-association-of-northwest-los-angeles.md` age≈52.4d · LINK_UNLINKED_ENTITY
+  - `organizations/taiwanese-american-photographers-association.md` age≈52.4d · LINK_UNLINKED_ENTITY
+  - `organizations/taiwanese-united-fund.md` age≈52.4d · LINK_UNLINKED_ENTITY
+  - `organizations/formosa-foundation.md` age≈52.4d · LINK_UNLINKED_ENTITY
+  - `organizations/san-gabriel-taiwanese-lions-club.md` age≈52.4d · LINK_UNLINKED_ENTITY
+  - `organizations/taiwanese-american-foundation.md` age≈52.4d · LINK_UNLINKED_ENTITY
+  - `sources/irvine-taiwanese-presbyterian-church.md` age≈52.4d · LINK_BODY_SPARSE
+  - `sources/2017-tahs-publication.md` age≈51.4d · LINK_UNLINKED_ENTITY
+  - `organizations/taiwan-american-foundation.md` age≈48.4d · LINK_UNLINKED_ENTITY
+  - `people/lin-chao-quan.md` age≈48.4d · LINK_UNLINKED_ENTITY
+  - `people/ku-gstpc.md` age≈48.4d · LINK_UNLINKED_ENTITY
+  - `people/hu-gstpc.md` age≈48.4d · LINK_UNLINKED_ENTITY
+  - `people/wang-gstpc.md` age≈48.4d · LINK_UNLINKED_ENTITY
+  - `people/lin-chao-chi.md` age≈48.4d · LINK_UNLINKED_ENTITY
+  - `people/guo-shu-qing.md` age≈48.4d · LINK_UNLINKED_ENTITY
+  - `people/liao-ji-chun.md` age≈48.4d · LINK_UNLINKED_ENTITY
+  - `people/lin-qiong-xian.md` age≈48.4d · LINK_UNLINKED_ENTITY
+  - `people/david-lee.md` age≈47.4d · LINK_UNLINKED_ENTITY
+  - `organizations/democratic-progressive-party.md` age≈46.4d · LINK_UNLINKED_ENTITY
+  - `sources/2023-tahs-publication.md` age≈45.4d · LINK_UNLINKED_ENTITY
+  - `people/wang-yao-ting.md` age≈45.4d · LINK_UNLINKED_ENTITY
+  - `people/zheng-bing-quan.md` age≈45.4d · LINK_UNLINKED_ENTITY
+  - `organizations/taiwanjustice-net.md` age≈40.4d · LINK_UNLINKED_ENTITY
+  - `sources/taiwanjustice-net.md` age≈40.4d · LINK_UNLINKED_ENTITY
+  - `people/becky-yang.md` age≈35.4d · LINK_UNLINKED_ENTITY
+  - `people/fan-jiang-ti-ang.md` age≈4.6d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
+  - `people/huang-diyin.md` age≈4.0d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
+  - `people/li-jian.md` age≈4.0d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED, LINK_UNLINKED_ENTITY
+- Log: `knowledge/operational/janitor-log/2026-09-06.jsonl`
 - Agent auto-apply: **False** (local pin only if enabled)
-- First-mention AUTO: **4**
+- First-mention AUTO: **3**

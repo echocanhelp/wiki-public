@@ -1,15 +1,8 @@
 {
   "version": 1,
-  "last_run": "2026-09-05",
+  "last_run": "2026-09-06",
   "standards_version_seen": 10,
   "runs": [
-    {
-      "date": "2026-08-02",
-      "candidates": 29189,
-      "selected": 5,
-      "standards_version": 8,
-      "standards_bumped": false
-    },
     {
       "date": "2026-08-03",
       "candidates": 29207,
@@ -212,27 +205,16 @@
       "selected": 40,
       "standards_version": 10,
       "standards_bumped": false
+    },
+    {
+      "date": "2026-09-06",
+      "candidates": 5111,
+      "selected": 40,
+      "standards_version": 10,
+      "standards_bumped": false
     }
   ],
   "queue": [
-    {
-      "path": "people/chen-meihui.md",
-      "findings": [
-        "LINK_BODY_SPARSE",
-        "LINK_UNLINKED_ENTITY"
-      ],
-      "hygiene": [
-        "LINK_BODY_SPARSE: people/chen-meihui.md (body_wikis=1 related=7)",
-        "LINK_UNLINKED_ENTITY: people/chen-meihui.md → organizations/irvine-taiwanese-presbyterian-church"
-      ],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
     {
       "path": "people/guo-yingyan.md",
       "findings": [
@@ -794,109 +776,6 @@
       ]
     },
     {
-      "path": "people/yuan-zhihui.md",
-      "findings": [
-        "NO_TYPE",
-        "NO_IDENTITY_SNAPSHOT",
-        "NO_LAST_REVIEWED",
-        "LINK_UNLINKED_ENTITY"
-      ],
-      "hygiene": [
-        "LINK_UNLINKED_ENTITY: people/yuan-zhihui.md → people/lin-baohua",
-        "LINK_UNLINKED_ENTITY: people/yuan-zhihui.md → organizations/taiwanjustice-net",
-        "LINK_UNLINKED_ENTITY: people/yuan-zhihui.md → people/hui-na-lin",
-        "LINK_UNLINKED_ENTITY: people/yuan-zhihui.md → organizations/east-bay-taiwanese-association",
-        "LINK_UNLINKED_ENTITY: people/yuan-zhihui.md → organizations/san-francisco-taiwanese-association",
-        "LINK_UNLINKED_ENTITY: people/yuan-zhihui.md → organizations/silicon-valley-taiwanese-american-association",
-        "LINK_UNLINKED_ENTITY: people/yuan-zhihui.md → organizations/south-bay-taiwanese-association-of-n-california",
-        "LINK_UNLINKED_ENTITY: people/yuan-zhihui.md → organizations/southeast-bay-taiwanese-association-sebta",
-        "LINK_UNLINKED_ENTITY: people/yuan-zhihui.md → organizations/taiwanese-american-association-mid-peninsula-taiwanese",
-        "LINK_UNLINKED_ENTITY: people/yuan-zhihui.md → organizations/taiwanese-american-federation-of-n-california"
-      ],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "people/chao-sile.md",
-      "findings": [
-        "NO_TYPE",
-        "NO_IDENTITY_SNAPSHOT",
-        "NO_LAST_REVIEWED"
-      ],
-      "hygiene": [
-        "LINK_UNLINKED_ENTITY: people/chao-sile.md → people/yu-jie",
-        "LINK_UNLINKED_ENTITY: people/chao-sile.md → organizations/taiwanjustice-net"
-      ],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "people/chen-po-kong.md",
-      "findings": [
-        "NO_TYPE",
-        "NO_IDENTITY_SNAPSHOT",
-        "NO_LAST_REVIEWED",
-        "LINK_UNLINKED_ENTITY"
-      ],
-      "hygiene": [
-        "LINK_UNLINKED_ENTITY: people/chen-po-kong.md → organizations/irvine-taiwanese-presbyterian-church",
-        "LINK_UNLINKED_ENTITY: people/chen-po-kong.md → people/alan-thian",
-        "LINK_UNLINKED_ENTITY: people/chen-po-kong.md → people/huang-gen-shen",
-        "LINK_UNLINKED_ENTITY: people/chen-po-kong.md → people/liao-shu-zong",
-        "LINK_UNLINKED_ENTITY: people/chen-po-kong.md → people/simon-lin",
-        "LINK_UNLINKED_ENTITY: people/chen-po-kong.md → people/yang-xin",
-        "LINK_UNLINKED_ENTITY: people/chen-po-kong.md → people/peng-ming-min",
-        "LINK_UNLINKED_ENTITY: people/chen-po-kong.md → people/wang-taihe",
-        "LINK_UNLINKED_ENTITY: people/chen-po-kong.md → people/ye-siya-zhang-xinhui",
-        "LINK_UNLINKED_ENTITY: people/chen-po-kong.md → people/zheng-bing-quan"
-      ],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "people/du-ao-cunfu.md",
-      "findings": [
-        "NO_TYPE",
-        "NO_IDENTITY_SNAPSHOT",
-        "NO_LAST_REVIEWED",
-        "LINK_UNLINKED_ENTITY"
-      ],
-      "hygiene": [
-        "LINK_UNLINKED_ENTITY: people/du-ao-cunfu.md → organizations/irvine-taiwanese-presbyterian-church",
-        "LINK_UNLINKED_ENTITY: people/du-ao-cunfu.md → people/alan-thian",
-        "LINK_UNLINKED_ENTITY: people/du-ao-cunfu.md → people/huang-gen-shen",
-        "LINK_UNLINKED_ENTITY: people/du-ao-cunfu.md → people/liao-shu-zong",
-        "LINK_UNLINKED_ENTITY: people/du-ao-cunfu.md → people/simon-lin",
-        "LINK_UNLINKED_ENTITY: people/du-ao-cunfu.md → people/yang-xin",
-        "LINK_UNLINKED_ENTITY: people/du-ao-cunfu.md → people/peng-ming-min",
-        "LINK_UNLINKED_ENTITY: people/du-ao-cunfu.md → people/wang-taihe",
-        "LINK_UNLINKED_ENTITY: people/du-ao-cunfu.md → people/ye-siya-zhang-xinhui",
-        "LINK_UNLINKED_ENTITY: people/du-ao-cunfu.md → people/zheng-bing-quan"
-      ],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
       "path": "organizations/taiwanjustice-net.md",
       "findings": [
         "LINK_UNLINKED_ENTITY"
@@ -906,6 +785,131 @@
         "LINK_UNLINKED_ENTITY: organizations/taiwanjustice-net.md → people/hou-youyi",
         "LINK_UNLINKED_ENTITY: organizations/taiwanjustice-net.md → people/lai-qingde",
         "LINK_UNLINKED_ENTITY: organizations/taiwanjustice-net.md → people/xie-changting"
+      ],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "sources/taiwanjustice-net.md",
+      "findings": [
+        "LINK_UNLINKED_ENTITY"
+      ],
+      "hygiene": [
+        "LINK_UNLINKED_ENTITY: sources/taiwanjustice-net.md → people/chen-maoxiong",
+        "LINK_UNLINKED_ENTITY: sources/taiwanjustice-net.md → people/chen-po-kong",
+        "LINK_UNLINKED_ENTITY: sources/taiwanjustice-net.md → people/chen-zhaonan",
+        "LINK_UNLINKED_ENTITY: sources/taiwanjustice-net.md → people/du-ao-cunfu",
+        "LINK_UNLINKED_ENTITY: sources/taiwanjustice-net.md → people/fan-jiang-ti-ang",
+        "LINK_UNLINKED_ENTITY: sources/taiwanjustice-net.md → people/gong-sun-le",
+        "LINK_UNLINKED_ENTITY: sources/taiwanjustice-net.md → people/he-qingxuan",
+        "LINK_UNLINKED_ENTITY: sources/taiwanjustice-net.md → people/hong-ya",
+        "LINK_UNLINKED_ENTITY: sources/taiwanjustice-net.md → people/huang-diyin",
+        "LINK_UNLINKED_ENTITY: sources/taiwanjustice-net.md → people/ian-easton"
+      ],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "people/becky-yang.md",
+      "findings": [
+        "LINK_UNLINKED_ENTITY"
+      ],
+      "hygiene": [
+        "LINK_UNLINKED_ENTITY: people/becky-yang.md → people/leonard-hsu-jr"
+      ],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "people/fan-jiang-ti-ang.md",
+      "findings": [
+        "NO_TYPE",
+        "NO_IDENTITY_SNAPSHOT",
+        "NO_LAST_REVIEWED",
+        "LINK_UNLINKED_ENTITY"
+      ],
+      "hygiene": [
+        "LINK_UNLINKED_ENTITY: people/fan-jiang-ti-ang.md → organizations/irvine-taiwanese-presbyterian-church",
+        "LINK_UNLINKED_ENTITY: people/fan-jiang-ti-ang.md → people/alan-thian",
+        "LINK_UNLINKED_ENTITY: people/fan-jiang-ti-ang.md → people/huang-gen-shen",
+        "LINK_UNLINKED_ENTITY: people/fan-jiang-ti-ang.md → people/liao-shu-zong",
+        "LINK_UNLINKED_ENTITY: people/fan-jiang-ti-ang.md → people/simon-lin",
+        "LINK_UNLINKED_ENTITY: people/fan-jiang-ti-ang.md → people/yang-xin",
+        "LINK_UNLINKED_ENTITY: people/fan-jiang-ti-ang.md → people/peng-ming-min",
+        "LINK_UNLINKED_ENTITY: people/fan-jiang-ti-ang.md → people/wang-taihe",
+        "LINK_UNLINKED_ENTITY: people/fan-jiang-ti-ang.md → people/ye-siya-zhang-xinhui",
+        "LINK_UNLINKED_ENTITY: people/fan-jiang-ti-ang.md → people/zheng-bing-quan"
+      ],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "people/huang-diyin.md",
+      "findings": [
+        "NO_TYPE",
+        "NO_IDENTITY_SNAPSHOT",
+        "NO_LAST_REVIEWED",
+        "LINK_UNLINKED_ENTITY"
+      ],
+      "hygiene": [
+        "LINK_UNLINKED_ENTITY: people/huang-diyin.md → people/ye-siya-zhang-xinhui",
+        "LINK_UNLINKED_ENTITY: people/huang-diyin.md → people/zheng-bing-quan",
+        "LINK_UNLINKED_ENTITY: people/huang-diyin.md → organizations/democratic-progressive-party",
+        "LINK_UNLINKED_ENTITY: people/huang-diyin.md → people/tsai-ing-wen",
+        "LINK_UNLINKED_ENTITY: people/huang-diyin.md → people/chen-maoxiong",
+        "LINK_UNLINKED_ENTITY: people/huang-diyin.md → people/chen-po-kong",
+        "LINK_UNLINKED_ENTITY: people/huang-diyin.md → people/chen-shuibian",
+        "LINK_UNLINKED_ENTITY: people/huang-diyin.md → people/chen-zhaonan",
+        "LINK_UNLINKED_ENTITY: people/huang-diyin.md → people/du-ao-cunfu",
+        "LINK_UNLINKED_ENTITY: people/huang-diyin.md → people/fan-jiang-ti-ang"
+      ],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "people/li-jian.md",
+      "findings": [
+        "NO_TYPE",
+        "NO_IDENTITY_SNAPSHOT",
+        "NO_LAST_REVIEWED",
+        "LINK_UNLINKED_ENTITY"
+      ],
+      "hygiene": [
+        "LINK_UNLINKED_ENTITY: people/li-jian.md → people/ye-siya-zhang-xinhui",
+        "LINK_UNLINKED_ENTITY: people/li-jian.md → people/zheng-bing-quan",
+        "LINK_UNLINKED_ENTITY: people/li-jian.md → organizations/democratic-progressive-party",
+        "LINK_UNLINKED_ENTITY: people/li-jian.md → people/tsai-ing-wen",
+        "LINK_UNLINKED_ENTITY: people/li-jian.md → people/chen-maoxiong",
+        "LINK_UNLINKED_ENTITY: people/li-jian.md → people/chen-po-kong",
+        "LINK_UNLINKED_ENTITY: people/li-jian.md → people/chen-shuibian",
+        "LINK_UNLINKED_ENTITY: people/li-jian.md → people/chen-zhaonan",
+        "LINK_UNLINKED_ENTITY: people/li-jian.md → people/du-ao-cunfu",
+        "LINK_UNLINKED_ENTITY: people/li-jian.md → people/fan-jiang-ti-ang"
       ],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
@@ -933,14 +937,52 @@
       "priority": "medium"
     },
     {
-      "path": "people/fan-jiang-ti-ang.md",
+      "path": "people/chao-sile.md",
       "findings": [
-        "DESC_NO_TITLE_MENTION",
+        "DESC_TOO_SHORT",
+        "FRESHNESS_NO_REVIEW_DATE",
+        "STRUCT_NO_TYPE",
+        "STRUCT_NO_REVIEW_DATE"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ],
+      "source": "content-analyzer",
+      "priority": "high"
+    },
+    {
+      "path": "people/chen-po-kong.md",
+      "findings": [
+        "DESC_TOO_SHORT",
         "FRESHNESS_NO_REVIEW_DATE",
         "LINKS_LOW_DENSITY",
         "STRUCT_NO_TYPE",
         "STRUCT_NO_REVIEW_DATE",
-        "READABILITY_LONG_SENTENCES_98wps",
+        "READABILITY_LONG_SENTENCES_73wps",
+        "READABILITY_MANY_LONG_SENTENCES_225"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ],
+      "source": "content-analyzer",
+      "priority": "high"
+    },
+    {
+      "path": "people/du-ao-cunfu.md",
+      "findings": [
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_LOW_DENSITY",
+        "STRUCT_NO_TYPE",
+        "STRUCT_NO_REVIEW_DATE",
+        "READABILITY_LONG_SENTENCES_104wps",
         "READABILITY_MANY_LONG_SENTENCES_208"
       ],
       "hygiene": [],
@@ -969,47 +1011,6 @@
       ],
       "source": "content-analyzer",
       "priority": "medium"
-    },
-    {
-      "path": "people/huang-diyin.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "FRESHNESS_NO_REVIEW_DATE",
-        "LINKS_LOW_DENSITY",
-        "STRUCT_NO_TYPE",
-        "STRUCT_NO_REVIEW_DATE",
-        "READABILITY_LONG_SENTENCES_103wps",
-        "READABILITY_MANY_LONG_SENTENCES_200"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "people/li-jian.md",
-      "findings": [
-        "FRESHNESS_NO_REVIEW_DATE",
-        "LINKS_LOW_DENSITY",
-        "STRUCT_NO_TYPE",
-        "STRUCT_NO_REVIEW_DATE",
-        "READABILITY_LONG_SENTENCES_128wps",
-        "READABILITY_MANY_LONG_SENTENCES_201"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
     },
     {
       "path": "people/lin-baohua.md",
@@ -1049,11 +1050,27 @@
       ],
       "source": "content-analyzer",
       "priority": "high"
+    },
+    {
+      "path": "people/yuan-zhihui.md",
+      "findings": [
+        "FRESHNESS_NO_REVIEW_DATE",
+        "STRUCT_NO_TYPE",
+        "STRUCT_NO_REVIEW_DATE"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ],
+      "source": "content-analyzer",
+      "priority": "medium"
     }
   ],
   "last_candidates": 5111,
   "last_selected": [
-    "people/chen-meihui.md",
     "people/guo-yingyan.md",
     "people/tahs-member-onboarding.md",
     "people/li-furen.md",
@@ -1088,10 +1105,11 @@
     "sources/2023-tahs-publication.md",
     "people/wang-yao-ting.md",
     "people/zheng-bing-quan.md",
-    "people/yuan-zhihui.md",
-    "people/chao-sile.md",
-    "people/chen-po-kong.md",
-    "people/du-ao-cunfu.md",
-    "organizations/taiwanjustice-net.md"
+    "organizations/taiwanjustice-net.md",
+    "sources/taiwanjustice-net.md",
+    "people/becky-yang.md",
+    "people/fan-jiang-ti-ang.md",
+    "people/huang-diyin.md",
+    "people/li-jian.md"
   ]
 }

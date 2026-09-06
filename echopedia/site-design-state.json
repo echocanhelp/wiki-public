@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "last_run": "2026-09-05T04:28:40",
-  "status": "ACTION",
+  "last_run": "2026-09-06T04:27:25",
+  "status": "WARN",
   "stats": {
     "md": 5284,
     "critical": 0,
-    "high": 1,
+    "high": 0,
     "medium": 1,
     "heals": "none",
-    "status": "ACTION"
+    "status": "WARN"
   },
   "findings": [
     {
@@ -18,27 +18,21 @@
     },
     {
       "id": "B2",
-      "sev": "HIGH",
-      "msg": "pinned featured pages: 47 (cap 6 people + 3 orgs; overflow hides recency)",
+      "sev": "INFO",
+      "msg": "pinned featured pages: 6 (cap 6 people + 3 orgs; overflow hides recency)",
       "examples": [
         "people/albert-s-lai.md",
-        "people/anne-shih.md",
-        "people/bob-j-wu.md",
-        "people/chen-wenxue.md",
-        "people/chen-zhefu-xu-chunhui.md",
-        "people/choan-seng-song.md",
-        "people/fan-qingliang.md",
-        "people/franklin-ping-cheng.md",
-        "people/gene-tsai.md",
-        "people/ho-chie-tsai.md",
-        "people/hsu-hsin-hung.md",
-        "people/huang-gen-shen.md"
+        "people/liao-shu-zong.md",
+        "people/lin-fu-kun.md",
+        "people/lin-yuan-ching.md",
+        "people/yang-jia-you.md",
+        "people/yang-xin.md"
       ]
     },
     {
       "id": "B1",
       "sev": "INFO",
-      "msg": "person/org touched \u22647d (rely on recency featured window): 68",
+      "msg": "person/org touched \u22647d (rely on recency featured window): 72",
       "examples": [
         "people/alan-thian.md",
         "people/bai-peiyu.md",
@@ -47,14 +41,14 @@
         "people/chao-sile.md",
         "people/chen-bozhi.md",
         "people/chen-maoxiong.md",
+        "people/chen-meihui.md",
         "people/chen-po-kong.md",
         "people/chen-wenshi.md",
         "people/chen-zhaonan.md",
         "people/du-ao-cunfu.md",
         "people/fan-jiang-ti-ang.md",
         "people/freeman-huang.md",
-        "people/gong-sun-le.md",
-        "people/guan-renjian.md"
+        "people/gene-tsai.md"
       ]
     },
     {
@@ -69,38 +63,6 @@
   ],
   "heals": [],
   "history": [
-    {
-      "at": "2026-09-01T10:11:04",
-      "status": "ACTION",
-      "critical": 0,
-      "high": 1,
-      "medium": 1,
-      "finding_count": 3
-    },
-    {
-      "at": "2026-09-01T10:11:40",
-      "status": "ACTION",
-      "critical": 0,
-      "high": 1,
-      "medium": 1,
-      "finding_count": 3
-    },
-    {
-      "at": "2026-09-01T10:12:16",
-      "status": "ACTION",
-      "critical": 0,
-      "high": 1,
-      "medium": 1,
-      "finding_count": 3
-    },
-    {
-      "at": "2026-09-01T10:12:52",
-      "status": "ACTION",
-      "critical": 0,
-      "high": 1,
-      "medium": 1,
-      "finding_count": 3
-    },
     {
       "at": "2026-09-01T10:13:29",
       "status": "ACTION",
@@ -306,6 +268,38 @@
       "status": "ACTION",
       "critical": 0,
       "high": 1,
+      "medium": 1,
+      "finding_count": 4
+    },
+    {
+      "at": "2026-09-05T04:30:57",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 1,
+      "medium": 1,
+      "finding_count": 4
+    },
+    {
+      "at": "2026-09-05T04:46:06",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 1,
+      "medium": 1,
+      "finding_count": 4
+    },
+    {
+      "at": "2026-09-05T23:10:34",
+      "status": "WARN",
+      "critical": 0,
+      "high": 0,
+      "medium": 1,
+      "finding_count": 3
+    },
+    {
+      "at": "2026-09-06T04:27:25",
+      "status": "WARN",
+      "critical": 0,
+      "high": 0,
       "medium": 1,
       "finding_count": 4
     }

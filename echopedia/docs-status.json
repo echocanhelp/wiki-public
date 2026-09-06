@@ -1,5 +1,5 @@
 {
-  "at": "2026-09-05T11:28:46.332219+00:00",
+  "at": "2026-09-06T11:27:32.468243+00:00",
   "status": "WARN",
   "fail": 0,
   "warn": 2,
@@ -10,6 +10,6 @@
   "link_missing": 0,
   "issues": [
     "WARN: agent crons present: 1 (prefer no_agent)",
-    "WARN: WHERE_WE_ARE last_reviewed 2026-08-21 is 15d old (>14d)"
+    "WARN: WHERE_WE_ARE last_reviewed 2026-08-21 is 16d old (>14d)"
   ]
 }

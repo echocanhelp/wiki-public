@@ -1,15 +1,25 @@
 {
-  "at": "2026-09-04T14:00:21Z",
+  "at": "2026-09-05T18:56:31Z",
   "cutoff": "2026-08-21T19:22:14Z",
   "ok": true,
-  "visits_since_cutoff": 4,
-  "yesterday_pdt": "2026-09-03",
-  "yesterday_visits": 1,
+  "visits_since_cutoff": 7,
+  "yesterday_pdt": "2026-09-04",
+  "yesterday_visits": 3,
   "top": [
+    {
+      "count": 2,
+      "path": "/wiki-public/people/hsu-ching-chun",
+      "title": "Hsu Ching-chun (\u8a31\u666f\u6df3)"
+    },
     {
       "count": 2,
       "path": "/wiki-public",
       "title": "Echopedia"
+    },
+    {
+      "count": 1,
+      "path": "/wiki-public/people/hsu-ling-yun",
+      "title": "Hsu Ling-yun (\u8a31\u51cc\u96f2)"
     },
     {
       "count": 1,
