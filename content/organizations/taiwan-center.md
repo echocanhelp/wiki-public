@@ -10,7 +10,7 @@ tags:
   - Taiwan-School
   - Alhambra
 verification_status: published
-last_reviewed: 2026-08-30
+last_reviewed: 2026-09-06
 ---
 # Taiwan Center Foundation of the Greater Los Angeles (大洛杉磯台灣會館)
 

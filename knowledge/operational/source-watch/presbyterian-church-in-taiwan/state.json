@@ -152,8 +152,8 @@
       "baseline": false
     },
     "https://www.pct.org.tw/news_focus.aspx": {
-      "hash": "d8534a583df39b5ea65becf0524f3269",
-      "len": 31310,
+      "hash": "2282076efbdf8b9d18fc4f849d6863a7",
+      "len": 59845,
       "code": 200,
       "baseline": false
     },
@@ -278,6 +278,6 @@
       "baseline": false
     }
   },
-  "last_poll": "2026-08-30T14:06:08Z",
+  "last_poll": "2026-09-06T12:34:13Z",
   "baseline_at": null
 }

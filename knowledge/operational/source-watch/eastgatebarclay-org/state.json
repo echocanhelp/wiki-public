@@ -600,8 +600,20 @@
       "len": 37104,
       "code": 200,
       "baseline": false
+    },
+    "https://eastgatebarclay.org/2026/09/05/2026-08-30%ef%bc%8e%e3%80%8c%e4%bb%a5%e5%88%a9%e4%ba%9e%e3%80%8d/": {
+      "hash": "8902af899c250a2e342264c83e159d50",
+      "len": 36224,
+      "code": 200,
+      "baseline": false
+    },
+    "https://eastgatebarclay.org/2026/09/05/2026-08-23%ef%bc%8e%e3%80%8c%e5%8b%87%e6%95%a2%e7%82%ba%e4%b8%bb%e5%81%9a%e8%a6%8b%e8%ad%89%e3%80%8d/": {
+      "hash": "b278d938a47d42fa81e3aa9b2e6d8bbd",
+      "len": 38849,
+      "code": 200,
+      "baseline": false
     }
   },
-  "last_poll": "2026-08-30T14:08:50Z",
+  "last_poll": "2026-09-06T12:36:50Z",
   "baseline_at": "2026-08-22T18:08:58Z"
 }

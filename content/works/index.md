@@ -15,6 +15,7 @@ Interviews, oral history, and named-subject features absorbed as Echopedia **wor
 <!-- works-index-start -->
 ## Featured stories
 
+- [[works/taiwaneseamerican-org/eric-sze-taiwanese-cookbook|Taiwanese Chef Eric Sze Brings Honesty & “Intentional Fusion” to His First Cookbook]] — 2026-09-03 · taiwaneseamerican-org
 - [[works/taiwaneseamerican-org/beneath-the-same-round-moon-jasmine-fang|“Beneath the Same Round Moon”: Q&A with Debut Author Jasmine Fang]] — 2026-08-20 · taiwaneseamerican-org
 - [[works/taiwaneseamerican-org/leaving-the-united-states-made-me-feel-more-taiwanese-american|Leaving the United States Made Me Feel More Taiwanese American]] — 2026-05-04 · taiwaneseamerican-org
 - [[works/taiwaneseamerican-org/a-little-bit-sweet-doc|A Little Bit Sweet: A Taiwanese American Documentary About Grief, Family, and Hot Sauce]] — 2026-04-18 · taiwaneseamerican-org
@@ -26,7 +27,6 @@ Interviews, oral history, and named-subject features absorbed as Echopedia **wor
 - [[works/taiwaneseamerican-org/kaila-yus-fetishized-community-discussion-guide|Kaila Yu’s FETISHIZED: Community Discussion Guide]] — 2026-01-23 · taiwaneseamerican-org
 - [[works/taiwaneseamerican-org/taiwan-is-not-up-to-xi-vickie-wang|It Is Not Up to Xi. And It Is Not Complicated.]] — 2026-01-19 · taiwaneseamerican-org
 - [[works/taiwaneseamerican-org/yahu-beauty-inteview|Skincare & Sourcing from Taiwan’s Natural Richness: In Conversation with Yahu Beauty Founder Brittaney Hu]] — 2026-01-12 · taiwaneseamerican-org
-- [[works/taiwaneseamerican-org/taiwan-plus-possible-invasion-taiwan|A Beginner’s Guide to Understanding a Possible Invasion of Taiwan]] — 2025-12-11 · taiwaneseamerican-org
 
 [→ All sources below](#by-source)
 
@@ -34,8 +34,9 @@ Interviews, oral history, and named-subject features absorbed as Echopedia **wor
 
 ### taiwaneseamerican-org
 
-A 553 · B 1781 · C 78 · total 2412 — full list, never truncated.
+A 554 · B 1781 · C 78 · total 2413 — full list, never truncated.
 
+- [[works/taiwaneseamerican-org/eric-sze-taiwanese-cookbook|Taiwanese Chef Eric Sze Brings Honesty & “Intentional Fusion” to His First Cookbook]] — 2026-09-03 · A
 - [[works/taiwaneseamerican-org/beneath-the-same-round-moon-jasmine-fang|“Beneath the Same Round Moon”: Q&A with Debut Author Jasmine Fang]] — 2026-08-20 · A
 - [[works/taiwaneseamerican-org/inner-voices-of-the-fog-a-reflection-on-a-foggy-tale|Inner Voices of the Fog: A Reflection on A Foggy Tale]] — 2026-05-26 · B
 - [[works/taiwaneseamerican-org/a-pilgrimage-creative-nonfiction-by-cindy-cheng|A Pilgrimage: Creative Nonfiction by Cindy Cheng]] — 2026-05-21 · C

@@ -1,14 +1,14 @@
 {
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "standards_version": 10,
   "auto_apply_agent": false,
   "nodes": {
     "janitor.first_mention": {
-      "n": 4,
+      "n": 3,
       "enabled": true
     },
     "janitor.related": {
-      "n": 4
+      "n": 0
     },
     "analyzer": {
       "scanned": 2866,
@@ -23,7 +23,7 @@
       "n": 40
     },
     "kanban.blocked": {
-      "n": 11
+      "n": 12
     },
     "kanban.auto_go": {
       "enabled": false
@@ -39,11 +39,10 @@
     "cron.fail": []
   },
   "telegram_auto_lines": [
-    "✅ AUTO first-mention 4 page(s)",
-    "✅ AUTO related-pages 4",
+    "✅ AUTO first-mention 3 page(s)",
     "✅ AUTO analyzer scanned 2866 queued 11 suppressed 1748",
     "🟡 QUEUE janitor HOLD leftover 40",
-    "🟡 QUEUE kanban blocked 11"
+    "🟡 QUEUE kanban blocked 12"
   ],
   "cron_fail_names": []
 }

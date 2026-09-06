@@ -1,18 +1,94 @@
 {
-  "at": "2026-08-30T14:09:05Z",
+  "at": "2026-09-06T12:37:02Z",
   "dry_run": false,
   "sources": [
     {
       "id": "taiwancenter-org",
-      "new": [],
+      "new": [
+        "https://www.taiwancenter.org/event/calendar",
+        "https://www.taiwancenter.org/event/she-li-guo-cheng-zhao-pian",
+        "https://www.taiwancenter.org/event/xin-guan-shi-nei-she-ji-kong-jian-yu-gui-hua"
+      ],
       "changed": [
-        "https://www.taiwancenter.org/event/2026-tai-wan-hui-guan-nian-hui"
+        "https://www.taiwancenter.org",
+        "https://www.taiwancenter.org/introduction",
+        "https://www.taiwancenter.org/bylaws",
+        "https://www.taiwancenter.org/board",
+        "https://www.taiwancenter.org/about-taiwan-school",
+        "https://www.taiwancenter.org/class-information",
+        "https://www.taiwancenter.org/latest-events",
+        "https://www.taiwancenter.org/facility",
+        "https://www.taiwancenter.org/statement",
+        "https://www.taiwancenter.org/en/introduction",
+        "https://www.taiwancenter.org/en/home",
+        "https://www.taiwancenter.org/en/bylaws",
+        "https://www.taiwancenter.org/en/board",
+        "https://www.taiwancenter.org/en/about-taiwan-school",
+        "https://www.taiwancenter.org/en/class-information",
+        "https://www.taiwancenter.org/en/event-archive",
+        "https://www.taiwancenter.org/en/facility",
+        "https://www.taiwancenter.org/en/statement",
+        "https://www.taiwancenter.org/en/latest-events",
+        "https://www.taiwancenter.org/en/newsletter",
+        "https://www.taiwancenter.org/event/2025-annual-gala-fundraising-dinner",
+        "https://www.taiwancenter.org/event/2025-miss-taiwan-usa-news",
+        "https://www.taiwancenter.org/event/2025-traditional-week",
+        "https://www.taiwancenter.org/event/2026-luo-shan-ji-tai-mei-ren-chuan-tong-zhou",
+        "https://www.taiwancenter.org/event/2026-tai-wan-hui-guan-nian-hui",
+        "https://www.taiwancenter.org/event/228-memorial-commemoration-ceremony",
+        "https://www.taiwancenter.org/event/construction-progress-of-the-building",
+        "https://www.taiwancenter.org/event/groundbreaking-ceremony",
+        "https://www.taiwancenter.org/event/taiwan-joining-who",
+        "https://www.taiwancenter.org/event/thanksgiving-dinner"
       ],
       "gone_sample": [],
       "errors": [],
       "applied": [
-        "tier2:taiwancenter-org-delta-2026-08-30-event-2026-tai-wan-hui-guan-nian-hui.md",
-        "event:sc-taiwancenter-org-event-2026-tai-wan-hui-guan-nian-hui.md",
+        "tier2:taiwancenter-org-delta-2026-09-06-home.md",
+        "tier2:taiwancenter-org-delta-2026-09-06-introduction.md",
+        "tier2:taiwancenter-org-delta-2026-09-06-bylaws.md",
+        "tier2:taiwancenter-org-delta-2026-09-06-board.md",
+        "tier2:taiwancenter-org-delta-2026-09-06-about-taiwan-school.md",
+        "tier2:taiwancenter-org-delta-2026-09-06-class-information.md",
+        "tier2:taiwancenter-org-delta-2026-09-06-latest-events.md",
+        "tier2:taiwancenter-org-delta-2026-09-06-facility.md",
+        "tier2:taiwancenter-org-delta-2026-09-06-statement.md",
+        "tier2:taiwancenter-org-delta-2026-09-06-en-introduction.md",
+        "tier2:taiwancenter-org-delta-2026-09-06-en-home.md",
+        "tier2:taiwancenter-org-delta-2026-09-06-en-bylaws.md",
+        "tier2:taiwancenter-org-delta-2026-09-06-en-board.md",
+        "tier2:taiwancenter-org-delta-2026-09-06-en-about-taiwan-school.md",
+        "tier2:taiwancenter-org-delta-2026-09-06-en-class-information.md",
+        "tier2:taiwancenter-org-delta-2026-09-06-en-event-archive.md",
+        "tier2:taiwancenter-org-delta-2026-09-06-en-facility.md",
+        "tier2:taiwancenter-org-delta-2026-09-06-en-statement.md",
+        "tier2:taiwancenter-org-delta-2026-09-06-en-latest-events.md",
+        "tier2:taiwancenter-org-delta-2026-09-06-en-newsletter.md",
+        "tier2:taiwancenter-org-delta-2026-09-06-event-2025-annual-gala-fundraising-dinner.md",
+        "event:sc-taiwancenter-org-event-2025-annual-gala-fundraising-dinner.md",
+        "tier2:taiwancenter-org-delta-2026-09-06-event-2025-miss-taiwan-usa-news.md",
+        "event:sc-taiwancenter-org-event-2025-miss-taiwan-usa-news.md",
+        "tier2:taiwancenter-org-delta-2026-09-06-event-2025-traditional-week.md",
+        "event:sc-taiwancenter-org-event-2025-traditional-week.md",
+        "tier2:taiwancenter-org-delta-2026-09-06-event-2026-luo-shan-ji-tai-mei-ren-chuan-tong-zhou.md",
+        "event:sc-taiwancenter-org-event-2026-luo-shan-ji-tai-mei-ren-chuan-tong-zhou.md",
+        "tier2:taiwancenter-org-delta-2026-09-06-event-2026-tai-wan-hui-guan-nian-hui.md",
+        "tier2:taiwancenter-org-delta-2026-09-06-event-228-memorial-commemoration-ceremony.md",
+        "event:sc-taiwancenter-org-event-228-memorial-commemoration-ceremony.md",
+        "tier2:taiwancenter-org-delta-2026-09-06-event-calendar.md",
+        "event:sc-taiwancenter-org-event-calendar.md",
+        "tier2:taiwancenter-org-delta-2026-09-06-event-construction-progress-of-the-building.md",
+        "event:sc-taiwancenter-org-event-construction-progress-of-the-building.md",
+        "tier2:taiwancenter-org-delta-2026-09-06-event-groundbreaking-ceremony.md",
+        "event:sc-taiwancenter-org-event-groundbreaking-ceremony.md",
+        "tier2:taiwancenter-org-delta-2026-09-06-event-she-li-guo-cheng-zhao-pian.md",
+        "event:sc-taiwancenter-org-event-she-li-guo-cheng-zhao-pian.md",
+        "tier2:taiwancenter-org-delta-2026-09-06-event-taiwan-joining-who.md",
+        "event:sc-taiwancenter-org-event-taiwan-joining-who.md",
+        "tier2:taiwancenter-org-delta-2026-09-06-event-thanksgiving-dinner.md",
+        "event:sc-taiwancenter-org-event-thanksgiving-dinner.md",
+        "tier2:taiwancenter-org-delta-2026-09-06-event-xin-guan-shi-nei-she-ji-kong-jian-yu-gui-hua.md",
+        "event:sc-taiwancenter-org-event-xin-guan-shi-nei-she-ji-kong-jian-yu-gui-hua.md",
         "last_reviewed:hub",
         "last_reviewed:taiwan-center.md"
       ],
@@ -23,10 +99,13 @@
     {
       "id": "good-shepherd-taiwanese-presbyterian-church",
       "new": [
-        "https://gstpc.org/home/08-30-2026-sunday-bulletin/"
+        "https://gstpc.org/home/09-06-2026-sunday-bulletin/"
       ],
       "changed": [
-        "https://gstpc.org/home/feed/"
+        "https://gstpc.org/home/feed/",
+        "https://gstpc.org/home/category/bulletin/",
+        "https://gstpc.org/home/tag/bulletin-2/",
+        "https://gstpc.org/home/tag/%e9%80%b1%e5%a0%b1/"
       ],
       "gone_sample": [],
       "errors": [
@@ -34,8 +113,11 @@
         "https://gstpc.org/home/wprhe_qrcode_style.css  HTTP 404"
       ],
       "applied": [
-        "tier2:good-shepherd-taiwanese-presbyterian-church-delta-2026-08-30-home-feed.md",
-        "tier2:good-shepherd-taiwanese-presbyterian-church-delta-2026-08-30-home-08-30-2026-sunday-bulletin.md",
+        "tier2:good-shepherd-taiwanese-presbyterian-church-delta-2026-09-06-home-feed.md",
+        "tier2:good-shepherd-taiwanese-presbyterian-church-delta-2026-09-06-home-09-06-2026-sunday-bulletin.md",
+        "tier2:good-shepherd-taiwanese-presbyterian-church-delta-2026-09-06-home-category-bulletin.md",
+        "tier2:good-shepherd-taiwanese-presbyterian-church-delta-2026-09-06-home-tag-bulletin-2.md",
+        "tier2:good-shepherd-taiwanese-presbyterian-church-delta-2026-09-06-home-tag--e9-80-b1-e5-a0-b1.md",
         "last_reviewed:hub",
         "last_reviewed:good-shepherd-taiwanese-presbyterian-church.md"
       ],
@@ -58,23 +140,14 @@
     },
     {
       "id": "presbyterian-church-in-taiwan",
-      "new": [
-        "https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&amp;strContentID=C2026082800006&amp;strDesc=Y",
-        "https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&amp;strContentID=C2026082600001&amp;strDesc=Y"
-      ],
+      "new": [],
       "changed": [
-        "https://www.pct.org.tw/news_focus.aspx",
-        "https://www.pct.org.tw/news_focus.aspx?strSiteID=S001&amp;strContentid=C2026031600001"
+        "https://www.pct.org.tw/news_focus.aspx"
       ],
       "gone_sample": [],
-      "errors": [
-        "https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&amp;strContentID=C2026080700001&amp;strDesc=Y"
-      ],
+      "errors": [],
       "applied": [
-        "tier2:presbyterian-church-in-taiwan-delta-2026-08-30-news_focus.aspx.md",
-        "tier2:presbyterian-church-in-taiwan-delta-2026-08-30-news_focus.aspx.md",
-        "tier2:presbyterian-church-in-taiwan-delta-2026-08-30-news_pct.aspx.md",
-        "tier2:presbyterian-church-in-taiwan-delta-2026-08-30-news_pct.aspx.md",
+        "tier2:presbyterian-church-in-taiwan-delta-2026-09-06-news_focus.aspx.md",
         "last_reviewed:hub",
         "last_reviewed:presbyterian-church-in-taiwan.md"
       ],
@@ -95,13 +168,48 @@
     },
     {
       "id": "taiwaneseamerican-org",
-      "new": [],
-      "changed": [],
+      "new": [
+        "https://www.taiwaneseamerican.org/2026/09/eric-sze-taiwanese-cookbook/"
+      ],
+      "changed": [
+        "https://www.taiwaneseamerican.org/",
+        "https://www.taiwaneseamerican.org/2026/04/a-little-bit-sweet-doc/",
+        "https://www.taiwaneseamerican.org/2026/02/2026-creative-writing-prize/",
+        "https://www.taiwaneseamerican.org/2026/02/228-reflection-2026/",
+        "https://www.taiwaneseamerican.org/2026/02/stefany-valentine-interview/",
+        "https://www.taiwaneseamerican.org/2026/02/in-grief-returning-to-my-roots/",
+        "https://www.taiwaneseamerican.org/2026/02/national-treasure-taiwanese-identity/"
+      ],
       "gone_sample": [],
       "errors": [],
-      "applied": [],
+      "applied": [
+        "tier2:taiwaneseamerican-org-delta-2026-09-06-home.md",
+        "tier2:taiwaneseamerican-org-delta-2026-09-06-2026-09-eric-sze-taiwanese-cookbook.md",
+        "work:eric-sze-taiwanese-cookbook.md",
+        "tier2:taiwaneseamerican-org-delta-2026-09-06-2026-04-a-little-bit-sweet-doc.md",
+        "work:a-little-bit-sweet-doc.md",
+        "tier2:taiwaneseamerican-org-delta-2026-09-06-2026-02-2026-creative-writing-prize.md",
+        "work:2026-creative-writing-prize.md",
+        "tier2:taiwaneseamerican-org-delta-2026-09-06-2026-02-228-reflection-2026.md",
+        "work:228-reflection-2026.md",
+        "tier2:taiwaneseamerican-org-delta-2026-09-06-2026-02-stefany-valentine-interview.md",
+        "work:stefany-valentine-interview.md",
+        "tier2:taiwaneseamerican-org-delta-2026-09-06-2026-02-in-grief-returning-to-my-roots.md",
+        "work:in-grief-returning-to-my-roots.md",
+        "tier2:taiwaneseamerican-org-delta-2026-09-06-2026-02-national-treasure-taiwanese-identity.md",
+        "work:national-treasure-taiwanese-identity.md",
+        "last_reviewed:hub",
+        "last_reviewed:taiwaneseamerican-org.md"
+      ],
       "parked": false,
-      "a_band": [],
+      "a_band": [
+        "taiwaneseamerican-org: Taiwanese Chef Eric Sze Brings Honesty &#038; &#8220;Intentional Fusion&#8221; to His First Cookbook",
+        "taiwaneseamerican-org: A Little Bit Sweet: A Taiwanese American Documentary About Grief, Family, and Hot Sauce",
+        "taiwaneseamerican-org: A Reflection on 228, from Taiwanese America in 2026",
+        "taiwaneseamerican-org: Crying in the Taipei 101 Food Court: Two Transpacific Adoptees Talk (Re-)Learning Mandarin in Taiwan",
+        "taiwaneseamerican-org: In Grief, Returning to my Roots in Search of my Father’s Childhood",
+        "taiwaneseamerican-org: Finding the Treasure: How National Treasure Helped Me Rediscover My Taiwanese American Story"
+      ],
       "advisory": []
     },
     {
@@ -128,11 +236,19 @@
     },
     {
       "id": "eastgatebarclay-org",
-      "new": [],
+      "new": [
+        "https://eastgatebarclay.org/2026/09/05/2026-08-30%ef%bc%8e%e3%80%8c%e4%bb%a5%e5%88%a9%e4%ba%9e%e3%80%8d/",
+        "https://eastgatebarclay.org/2026/09/05/2026-08-23%ef%bc%8e%e3%80%8c%e5%8b%87%e6%95%a2%e7%82%ba%e4%b8%bb%e5%81%9a%e8%a6%8b%e8%ad%89%e3%80%8d/"
+      ],
       "changed": [],
       "gone_sample": [],
       "errors": [],
-      "applied": [],
+      "applied": [
+        "tier2:eastgatebarclay-org-delta-2026-09-06-2026-09-05-2026-08-30-ef-bc-8e-e3-80-8c-e4-bb-a5-e5-88-a9-e4-ba-9e-e3-80-8d.md",
+        "tier2:eastgatebarclay-org-delta-2026-09-06-2026-09-05-2026-08-23-ef-bc-8e-e3-80-8c-e5-8b-87-e6-95-a2-e7-82-ba-e4-b8-bb-e5-8.md",
+        "last_reviewed:hub",
+        "last_reviewed:tainan-east-gate-barclay-memorial-church.md"
+      ],
       "parked": false,
       "a_band": [],
       "advisory": []
@@ -141,20 +257,18 @@
       "id": "penghu-info",
       "new": [],
       "changed": [
-        "https://penghu.info/OB0CB9D97C7D16435617",
-        "https://penghu.info/OB23C512046DFE3D988E",
-        "https://penghu.info/OB3BAC46B986E5DBC51B",
-        "https://penghu.info/OB2C73E27C74756946C9",
-        "https://penghu.info/OBC70EF284CBE5C8FB3C"
+        "https://penghu.info/OB1F10AF08C936E984B5",
+        "https://penghu.info/OB78143B240A367EE7F3",
+        "https://penghu.info/OB838BA9677DFF314042",
+        "https://penghu.info/OB8566DA837B0C048C40"
       ],
       "gone_sample": [],
       "errors": [],
       "applied": [
-        "tier2:penghu-info-delta-2026-08-30-ob0cb9d97c7d16435617.md",
-        "tier2:penghu-info-delta-2026-08-30-ob23c512046dfe3d988e.md",
-        "tier2:penghu-info-delta-2026-08-30-ob3bac46b986e5dbc51b.md",
-        "tier2:penghu-info-delta-2026-08-30-ob2c73e27c74756946c9.md",
-        "tier2:penghu-info-delta-2026-08-30-obc70ef284cbe5c8fb3c.md",
+        "tier2:penghu-info-delta-2026-09-06-ob1f10af08c936e984b5.md",
+        "tier2:penghu-info-delta-2026-09-06-ob78143b240a367ee7f3.md",
+        "tier2:penghu-info-delta-2026-09-06-ob838ba9677dff314042.md",
+        "tier2:penghu-info-delta-2026-09-06-ob8566da837b0c048c40.md",
         "last_reviewed:hub",
         "last_reviewed:penghu-info.md"
       ],
@@ -185,11 +299,20 @@
   ],
   "need_you": [],
   "auto_lines": [
-    "taiwancenter-org: +0 new / 1 changed; applied 4",
-    "good-shepherd-taiwanese-presbyterian-church: +1 new / 1 changed; applied 4",
-    "presbyterian-church-in-taiwan: +2 new / 2 changed; applied 6",
-    "penghu-info: +0 new / 5 changed; applied 7"
+    "taiwancenter-org: +3 new / 30 changed; applied 47",
+    "good-shepherd-taiwanese-presbyterian-church: +1 new / 4 changed; applied 7",
+    "presbyterian-church-in-taiwan: +0 new / 1 changed; applied 3",
+    "taiwaneseamerican-org: +1 new / 7 changed; applied 17",
+    "eastgatebarclay-org: +2 new / 0 changed; applied 4",
+    "penghu-info: +0 new / 4 changed; applied 6"
   ],
   "queue_lines": [],
-  "a_band": []
+  "a_band": [
+    "taiwaneseamerican-org: Taiwanese Chef Eric Sze Brings Honesty &#038; &#8220;Intentional Fusion&#8221; to His First Cookbook",
+    "taiwaneseamerican-org: A Little Bit Sweet: A Taiwanese American Documentary About Grief, Family, and Hot Sauce",
+    "taiwaneseamerican-org: A Reflection on 228, from Taiwanese America in 2026",
+    "taiwaneseamerican-org: Crying in the Taipei 101 Food Court: Two Transpacific Adoptees Talk (Re-)Learning Mandarin in Taiwan",
+    "taiwaneseamerican-org: In Grief, Returning to my Roots in Search of my Father’s Childhood",
+    "taiwaneseamerican-org: Finding the Treasure: How National Treasure Helped Me Rediscover My Taiwanese American Story"
+  ]
 }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-05T04:46:23.774949",
+  "generated_at": "2026-09-06T04:46:29.897408",
   "pages_scanned": 2872,
   "capped": true,
   "cap_top_n": 80,
   "summary": {
-    "co_citation_count": 1113,
-    "co_mention_count": 6116,
+    "co_citation_count": 1115,
+    "co_mention_count": 6129,
     "shared_tags_count": 0,
     "orphan_folder_count": 2,
     "kept_co_citation": 80,
@@ -255,7 +255,7 @@
         "shared_target": "people/peng-ming-min",
         "page1_title": "Democratic Progressive Party (民主進步黨)",
         "page2_title": "Taiwanese American Foundation (TAF)",
-        "shared_targets_count": 14
+        "shared_targets_count": 15
       },
       {
         "type": "CO-CITATION",
@@ -264,7 +264,7 @@
         "shared_target": "people/peng-ming-min",
         "page1_title": "Democratic Progressive Party (民主進步黨)",
         "page2_title": "chen-po-kong",
-        "shared_targets_count": 14
+        "shared_targets_count": 15
       },
       {
         "type": "CO-CITATION",
@@ -273,7 +273,7 @@
         "shared_target": "people/peng-ming-min",
         "page1_title": "Democratic Progressive Party (民主進步黨)",
         "page2_title": "du-ao-cunfu",
-        "shared_targets_count": 14
+        "shared_targets_count": 15
       },
       {
         "type": "CO-CITATION",
@@ -309,7 +309,7 @@
         "shared_target": "people/chen-shuibian",
         "page1_title": "Democratic Progressive Party (民主進步黨)",
         "page2_title": "Overseas Community Affairs Council (僑務委員會)",
-        "shared_targets_count": 8
+        "shared_targets_count": 10
       },
       {
         "type": "CO-CITATION",
@@ -318,7 +318,7 @@
         "shared_target": "people/chen-shuibian",
         "page1_title": "Democratic Progressive Party (民主進步黨)",
         "page2_title": "Hsu Hsin-hung (徐新宏)",
-        "shared_targets_count": 8
+        "shared_targets_count": 10
       },
       {
         "type": "CO-CITATION",
@@ -417,7 +417,7 @@
         "shared_target": "people/tsai-ing-wen",
         "page1_title": "Democratic Progressive Party (民主進步黨)",
         "page2_title": "Redirect → Tsai Ing-wen (蔡英文)",
-        "shared_targets_count": 8
+        "shared_targets_count": 10
       },
       {
         "type": "CO-CITATION",
@@ -426,7 +426,7 @@
         "shared_target": "people/tsai-ing-wen",
         "page1_title": "Democratic Progressive Party (民主進步黨)",
         "page2_title": "Hsu Ching-chun (許景淳)",
-        "shared_targets_count": 8
+        "shared_targets_count": 10
       },
       {
         "type": "CO-CITATION",
@@ -525,7 +525,7 @@
         "shared_target": "people/chen-maoxiong",
         "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
         "page2_title": "taiwanjustice.net (台灣公義網)",
-        "shared_targets_count": 6
+        "shared_targets_count": 8
       },
       {
         "type": "CO-CITATION",
@@ -534,7 +534,7 @@
         "shared_target": "people/chen-maoxiong",
         "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
         "page2_title": "Chen Mao-xiong (陳茂雄)",
-        "shared_targets_count": 6
+        "shared_targets_count": 8
       },
       {
         "type": "CO-CITATION",
@@ -543,7 +543,7 @@
         "shared_target": "people/chen-maoxiong",
         "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
         "page2_title": "chen-po-kong",
-        "shared_targets_count": 6
+        "shared_targets_count": 8
       },
       {
         "type": "CO-CITATION",
@@ -597,7 +597,7 @@
         "shared_target": "organizations/irvine-taiwanese-presbyterian-church",
         "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
         "page2_title": "Good Shepherd Taiwanese Presbyterian Church",
-        "shared_targets_count": 29
+        "shared_targets_count": 30
       },
       {
         "type": "CO-CITATION",
@@ -606,7 +606,7 @@
         "shared_target": "organizations/democratic-progressive-party",
         "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
         "page2_title": "Overseas Community Affairs Council (僑務委員會)",
-        "shared_targets_count": 17
+        "shared_targets_count": 19
       },
       {
         "type": "CO-CITATION",
@@ -615,7 +615,7 @@
         "shared_target": "organizations/democratic-progressive-party",
         "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
         "page2_title": "Stone Chen (陳文石)",
-        "shared_targets_count": 17
+        "shared_targets_count": 19
       },
       {
         "type": "CO-CITATION",

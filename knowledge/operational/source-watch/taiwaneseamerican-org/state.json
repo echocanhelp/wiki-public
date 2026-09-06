@@ -2,8 +2,8 @@
   "id": "taiwaneseamerican-org",
   "urls": {
     "https://www.taiwaneseamerican.org/": {
-      "hash": "b35f5718f8a58c2e1399c81c4bfac4ef",
-      "len": 57534,
+      "hash": "3174fdeebcd30ee5f74ee2429c20492c",
+      "len": 59385,
       "code": 200,
       "baseline": false
     },
@@ -68,38 +68,38 @@
       "baseline": false
     },
     "https://www.taiwaneseamerican.org/2026/04/a-little-bit-sweet-doc/": {
-      "hash": "d3e9c3c1e53dfde323a2f8a09a15029b",
-      "len": 69496,
+      "hash": "35785c8e57f9669757f7e1f67a1ebeea",
+      "len": 71309,
       "code": 200,
       "baseline": false
     },
     "https://www.taiwaneseamerican.org/2026/02/2026-creative-writing-prize/": {
-      "hash": "235597d4cfa3a3e43689eaf52a449d65",
-      "len": 67859,
+      "hash": "15b228879e6cb7ae6f4c1c884adefb6d",
+      "len": 69672,
       "code": 200,
       "baseline": false
     },
     "https://www.taiwaneseamerican.org/2026/02/228-reflection-2026/": {
-      "hash": "d929b2d610ce92bd4da6e069f1dfa156",
-      "len": 64024,
+      "hash": "d50e71c31af137f8cb2142b3e973ce71",
+      "len": 65837,
       "code": 200,
       "baseline": false
     },
     "https://www.taiwaneseamerican.org/2026/02/stefany-valentine-interview/": {
-      "hash": "958e2a1686a87cf41dd66c92377734c2",
-      "len": 73939,
+      "hash": "70e8c15d33910e2a21e563b4d5c756e6",
+      "len": 75780,
       "code": 200,
       "baseline": false
     },
     "https://www.taiwaneseamerican.org/2026/02/in-grief-returning-to-my-roots/": {
-      "hash": "de9030cf780e222635267280ee888f0f",
-      "len": 63438,
+      "hash": "1da3113aeacb3d448abba3b3d8f08ad4",
+      "len": 65251,
       "code": 200,
       "baseline": false
     },
     "https://www.taiwaneseamerican.org/2026/02/national-treasure-taiwanese-identity/": {
-      "hash": "3642d183fd04d24942a6a1cd48ac25d3",
-      "len": 63459,
+      "hash": "23b857ac0fe6ad2eb8b18941cc6207dc",
+      "len": 65272,
       "code": 200,
       "baseline": false
     },
@@ -126,8 +126,14 @@
       "len": 61639,
       "code": 200,
       "baseline": false
+    },
+    "https://www.taiwaneseamerican.org/2026/09/eric-sze-taiwanese-cookbook/": {
+      "hash": "9b9f0a044f01497139752c82b3b40696",
+      "len": 72425,
+      "code": 200,
+      "baseline": false
     }
   },
-  "last_poll": "2026-08-30T14:06:41Z",
+  "last_poll": "2026-09-06T12:34:46Z",
   "baseline_at": "2026-08-21T01:37:21Z"
 }
