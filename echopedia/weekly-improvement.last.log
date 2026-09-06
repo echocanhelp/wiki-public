@@ -6,3 +6,47 @@ CI: queue-drain done
 CI: publishing to heal drift
 CI: site-design OK
 CI: smoke OK
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+[gh-pages 02f70ada26] ci-heal: L2 auto-heal (2026-09-06)
+ 8791 files changed, 21353 insertions(+), 17566 deletions(-)
+ create mode 100644 content/events/sc-taiwancenter-org-event-2025-annual-gala-fundraising-dinner.md
+ create mode 100644 content/events/sc-taiwancenter-org-event-2025-miss-taiwan-usa-news.md
+ create mode 100644 content/events/sc-taiwancenter-org-event-2025-traditional-week.md
+ create mode 100644 content/events/sc-taiwancenter-org-event-2026-luo-shan-ji-tai-mei-ren-chuan-tong-zhou.md
+ create mode 100644 content/events/sc-taiwancenter-org-event-228-memorial-commemoration-ceremony.md
+ create mode 100644 content/events/sc-taiwancenter-org-event-calendar.md
+ create mode 100644 content/events/sc-taiwancenter-org-event-construction-progress-of-the-building.md
+ create mode 100644 content/events/sc-taiwancenter-org-event-groundbreaking-ceremony.md
+ create mode 100644 content/events/sc-taiwancenter-org-event-she-li-guo-cheng-zhao-pian.md
+ create mode 100644 content/events/sc-taiwancenter-org-event-taiwan-joining-who.md
+ create mode 100644 content/events/sc-taiwancenter-org-event-thanksgiving-dinner.md
+ create mode 100644 content/events/sc-taiwancenter-org-event-xin-guan-shi-nei-she-ji-kong-jian-yu-gui-hua.md
+ create mode 100644 content/works/taiwaneseamerican-org/eric-sze-taiwanese-cookbook.md
+ create mode 100644 events/sc-taiwancenter-org-event-2025-annual-gala-fundraising-dinner.html
+ create mode 100644 events/sc-taiwancenter-org-event-2025-miss-taiwan-usa-news.html
+ create mode 100644 events/sc-taiwancenter-org-event-2025-traditional-week.html
+ create mode 100644 events/sc-taiwancenter-org-event-2026-luo-shan-ji-tai-mei-ren-chuan-tong-zhou.html
+ create mode 100644 events/sc-taiwancenter-org-event-228-memorial-commemoration-ceremony.html
+ create mode 100644 events/sc-taiwancenter-org-event-calendar.html
+ create mode 100644 events/sc-taiwancenter-org-event-construction-progress-of-the-building.html
+ create mode 100644 events/sc-taiwancenter-org-event-groundbreaking-ceremony.html
+ create mode 100644 events/sc-taiwancenter-org-event-she-li-guo-cheng-zhao-pian.html
+ create mode 100644 events/sc-taiwancenter-org-event-taiwan-joining-who.html
+ create mode 100644 events/sc-taiwancenter-org-event-thanksgiving-dinner.html
+ create mode 100644 events/sc-taiwancenter-org-event-xin-guan-shi-nei-she-ji-kong-jian-yu-gui-hua.html
+ create mode 100644 knowledge/operational/janitor-log/site-design-20260906.log
+ create mode 100644 public/events/sc-taiwancenter-org-event-2025-annual-gala-fundraising-dinner.html
+ create mode 100644 public/events/sc-taiwancenter-org-event-2025-miss-taiwan-usa-news.html
+ create mode 100644 public/events/sc-taiwancenter-org-event-2025-traditional-week.html
+ create mode 100644 public/events/sc-taiwancenter-org-event-2026-luo-shan-ji-tai-mei-ren-chuan-tong-zhou.html
+ create mode 100644 public/events/sc-taiwancenter-org-event-228-memorial-commemoration-ceremony.html
+ create mode 100644 public/events/sc-taiwancenter-org-event-calendar.html
+ create mode 100644 public/events/sc-taiwancenter-org-event-construction-progress-of-the-building.html
+ create mode 100644 public/events/sc-taiwancenter-org-event-groundbreaking-ceremony.html
+ create mode 100644 public/events/sc-taiwancenter-org-event-she-li-guo-cheng-zhao-pian.html
+ create mode 100644 public/events/sc-taiwancenter-org-event-taiwan-joining-who.html
+ create mode 100644 public/events/sc-taiwancenter-org-event-thanksgiving-dinner.html
+ create mode 100644 public/events/sc-taiwancenter-org-event-xin-guan-shi-nei-she-ji-kong-jian-yu-gui-hua.html
+ create mode 100644 public/works/taiwaneseamerican-org/eric-sze-taiwanese-cookbook.html
+CI: committed heal
