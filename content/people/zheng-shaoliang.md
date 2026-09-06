@@ -8,7 +8,6 @@ tags:
   - pharmacist
   - radio-host
 verification_status: pending
-featured: true
 last_reviewed: 2026-08-17
 ---
 # Zheng Shaoliang (鄭紹良)

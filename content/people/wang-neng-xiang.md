@@ -9,7 +9,6 @@ tags:
   - taiwan-democracy
   - cpa
 verification_status: pending
-featured: true
 last_reviewed: 2026-08-17
 ---
 # Wang Neng-xiang (王能祥)

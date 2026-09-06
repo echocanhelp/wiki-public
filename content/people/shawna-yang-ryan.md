@@ -8,7 +8,6 @@ tags:
   - novelist
   - literature
 verification_status: pending
-featured: true
 last_reviewed: 2026-08-17
 ---
 # Shawna Yang Ryan (楊小娜)

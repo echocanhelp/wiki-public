@@ -9,7 +9,6 @@ tags:
   - couple
   - community-leader
 verification_status: pending
-featured: true
 last_reviewed: 2026-08-17
 ---
 # Wang Yao-ting & Xie Xiulan (王耀廷、謝秀緞)

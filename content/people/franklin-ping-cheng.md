@@ -7,7 +7,6 @@ tags:
   - tahs-publication-2017
   - tahs-leadership
 verification_status: pending
-featured: true
 last_reviewed: 2026-07-19
 ---
 # Franklin Ping Cheng (程炳成)

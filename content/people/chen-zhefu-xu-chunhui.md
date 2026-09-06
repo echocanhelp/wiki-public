@@ -9,7 +9,6 @@ tags:
   - hotel-industry
   - community-leadership
 verification_status: pending
-featured: true
 last_reviewed: 2026-08-17
 ---
 # Chen Zhefu & Xu Chunhui (陳哲夫、許春惠)

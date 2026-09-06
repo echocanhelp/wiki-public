@@ -9,7 +9,6 @@ tags:
   - politician
   - dpp-founder
 verification_status: pending
-featured: true
 last_reviewed: 2026-08-17
 ---
 # Peng Ming-min (彭明敏)

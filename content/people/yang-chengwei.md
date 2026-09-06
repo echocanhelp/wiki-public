@@ -9,7 +9,6 @@ tags:
   - musical-theater
   - actor
 verification_status: pending
-featured: true
 last_reviewed: 2026-07-23
 ---
 # Yang Chengwei (楊呵偉)

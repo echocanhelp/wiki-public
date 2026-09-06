@@ -8,7 +8,6 @@ tags:
   - taiwan-independence
   - activist
 verification_status: pending
-featured: true
 last_reviewed: 2026-08-17
 ---
 # Yang Huiqiao (楊惠喬)

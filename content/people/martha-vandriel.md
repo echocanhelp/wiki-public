@@ -9,7 +9,6 @@ tags:
   - cyber
   - army
 verification_status: pending
-featured: true
 last_reviewed: 2026-07-19
 ---
 # Martha VanDriel (Martha S.H. VanDriel)

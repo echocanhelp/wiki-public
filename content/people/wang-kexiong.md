@@ -9,7 +9,6 @@ tags:
   - human-rights-advocate
   - 228-survivor
 verification_status: pending
-featured: true
 last_reviewed: 2026-08-17
 ---
 # 王克雄 (Wang Kexiong)

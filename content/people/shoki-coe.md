@@ -4,7 +4,6 @@ type: person
 tags:
   - 
 verification_status: published
-featured: true
 last_reviewed: 2026-08-17
 ---
 # Dr. Shoki Coe (黃彰輝)

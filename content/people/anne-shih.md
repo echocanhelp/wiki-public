@@ -9,7 +9,6 @@ tags:
   - arts
   - volunteer
 verification_status: pending
-featured: true
 last_reviewed: 2026-07-19
 ---
 # Anne Shih (施劉秀枝)

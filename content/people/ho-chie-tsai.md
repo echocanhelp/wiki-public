@@ -9,7 +9,6 @@ tags:
   - media
   - taiwanese-american-org
 verification_status: pending
-featured: true
 last_reviewed: 2026-08-17
 ---
 # Ho Chie Tsai (蔡和杰)

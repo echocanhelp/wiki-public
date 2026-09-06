@@ -8,7 +8,6 @@ tags:
   - entrepreneur
   - biotech
 verification_status: pending
-featured: true
 last_reviewed: 2026-07-19
 ---
 # Hsu Hsin-hung (徐新宏)

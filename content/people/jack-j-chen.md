@@ -8,7 +8,6 @@ tags:
   - pharmacist
   - neurology
 verification_status: pending
-featured: true
 last_reviewed: 2026-07-19
 ---
 # Jack J. Chen (陳宏傑)

@@ -8,7 +8,6 @@ tags:
   - father
   - amd
 verification_status: pending
-featured: true
 last_reviewed: 2026-08-17
 ---
 # Su Chun-huai (蘇春槐)

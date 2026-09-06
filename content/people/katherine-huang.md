@@ -8,7 +8,6 @@ tags:
   - attorney
   - litigation
 verification_status: pending
-featured: true
 last_reviewed: 2026-08-17
 ---
 # Katherine Huang (黃愷怡)

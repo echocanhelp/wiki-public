@@ -9,7 +9,6 @@ tags:
   - real-estate
   - hotel
 verification_status: pending
-featured: true
 last_reviewed: 2026-07-19
 ---
 # Sam Chang (張善良)

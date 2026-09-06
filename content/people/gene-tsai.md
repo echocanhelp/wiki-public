@@ -9,7 +9,6 @@ tags:
 name_en: "Gene Tsai"
 name_zh_hanzi: "蔡錦榮"
 verification_status: pending
-featured: true
 last_reviewed: 2026-08-30
 source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
 ---

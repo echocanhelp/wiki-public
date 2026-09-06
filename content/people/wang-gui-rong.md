@@ -8,7 +8,6 @@ tags:
   - tahs-leadership
   - entrepreneur
 verification_status: pending
-featured: true
 last_reviewed: 2026-08-17
 ---
 # Wang Gui-rong (王桂榮)

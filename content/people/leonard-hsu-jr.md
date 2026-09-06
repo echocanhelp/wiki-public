@@ -7,7 +7,6 @@ tags:
   - Echopedia
   - leadership
 verification_status: published
-featured: true
 last_reviewed: 2026-08-30
 ---
 # Leonard Hsu Jr. (許景鴻 / Hsu Ching-Hung)

@@ -8,7 +8,6 @@ tags:
   - surgeon
   - physician
 verification_status: pending
-featured: true
 last_reviewed: 2026-07-19
 ---
 # Bob J. Wu (吳瑞椿)

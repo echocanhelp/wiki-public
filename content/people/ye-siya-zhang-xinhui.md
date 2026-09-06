@@ -9,7 +9,6 @@ tags:
   - physician
   - musician
 verification_status: pending
-featured: true
 last_reviewed: 2026-07-23
 ---
 # Ye Siya & Zhang Xinhui (葉思雅、[[people/grace-h-yeh||張信惠]])

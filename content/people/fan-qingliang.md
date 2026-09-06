@@ -8,7 +8,6 @@ tags:
   - biotech
   - entrepreneur
 verification_status: pending
-featured: true
 last_reviewed: 2026-07-23
 ---
 # Fan Qingliang (范清亮)

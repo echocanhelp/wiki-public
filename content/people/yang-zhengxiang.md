@@ -9,7 +9,6 @@ tags:
   - political-scientist
   - economist
 verification_status: pending
-featured: true
 last_reviewed: 2026-08-02
 ---
 
