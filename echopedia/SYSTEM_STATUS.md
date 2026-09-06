@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-09-06 04:27 PDT*
+*Generated: 2026-09-06 04:28 PDT*
 
 ## Orientation
 - **Entry:** go <plain language> via go-router (auto-route) · **Control:** [CONTROL.md](CONTROL.md)
@@ -21,7 +21,7 @@
 ## Content
 |- **Tier1 pages:** 2848 (people 2402 / orgs 429 / sources 17) · Tier2 archive: 29103
 |- **Janitor queue depth:** 48
-|- **Uncommitted files:** 1587
+|- **Uncommitted files:** 1020
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 || Stage | Script | Last run | Output |
