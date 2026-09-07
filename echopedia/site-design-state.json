@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-09-07T04:26:32",
+  "last_run": "2026-09-07T04:27:58",
   "status": "WARN",
   "stats": {
     "md": 5297,
@@ -14,7 +14,7 @@
     {
       "id": "F4",
       "sev": "MEDIUM",
-      "msg": "people/index.html is 1489173 bytes \u2014 heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break."
+      "msg": "people/index.html is 1489175 bytes \u2014 heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break."
     },
     {
       "id": "B2",
@@ -63,14 +63,6 @@
   ],
   "heals": [],
   "history": [
-    {
-      "at": "2026-09-01T10:17:00",
-      "status": "ACTION",
-      "critical": 0,
-      "high": 1,
-      "medium": 1,
-      "finding_count": 4
-    },
     {
       "at": "2026-09-01T10:17:34",
       "status": "ACTION",
@@ -297,6 +289,14 @@
     },
     {
       "at": "2026-09-07T04:26:32",
+      "status": "WARN",
+      "critical": 0,
+      "high": 0,
+      "medium": 1,
+      "finding_count": 4
+    },
+    {
+      "at": "2026-09-07T04:27:58",
       "status": "WARN",
       "critical": 0,
       "high": 0,
