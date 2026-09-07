@@ -2,8 +2,8 @@
 
 *Living snapshot of the vibe-coded Echopedia system. Update when autonomy level, major crons, or mission status changes. Not a second copy of procedures — those live in skills / jobs.json.*
 
-**Last reviewed:** 2026-08-21  
-**Standards:** v10 · **Autonomy:** L3 · **Overnight crons:** all `no_agent` (agent=0)  
+**Last reviewed:** 2026-09-06  
+**Standards:** v10 · **Autonomy:** L3 · **Overnight crons:** all `no_agent` (agent=1 intentional: go-router-monthly-audit)  
 **Start here:** [USER_MANUAL.md](USER_MANUAL.md) · [CONTROL.md](CONTROL.md) · workers: [WORKER.md](WORKER.md)  
 **Entry:** `go <plain language>` → skill `go-router`  
 **Hub skill:** `echopedia-ops` · **Cron SSOT:** pinto `cron/jobs.json` (see generated inventory in SYSTEM_STATUS)

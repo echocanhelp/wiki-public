@@ -1,15 +1,12 @@
 {
-  "at": "2026-09-06T13:03:42.647163+00:00",
-  "status": "WARN",
+  "at": "2026-09-07T11:26:39.201858+00:00",
+  "status": "OK",
   "fail": 0,
-  "warn": 2,
-  "ok": 13,
+  "warn": 0,
+  "ok": 14,
   "cron_count": 27,
-  "agent_crons": 1,
+  "agent_crons": 0,
   "bad_deliver": 0,
   "link_missing": 0,
-  "issues": [
-    "WARN: agent crons present: 1 (prefer no_agent)",
-    "WARN: WHERE_WE_ARE last_reviewed 2026-08-21 is 16d old (>14d)"
-  ]
+  "issues": []
 }

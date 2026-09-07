@@ -50,3 +50,11 @@ See "git help gc" for manual housekeeping.
  create mode 100644 public/events/sc-taiwancenter-org-event-xin-guan-shi-nei-she-ji-kong-jian-yu-gui-hua.html
  create mode 100644 public/works/taiwaneseamerican-org/eric-sze-taiwanese-cookbook.html
 CI: committed heal
+[gh-pages 937cd47ea3] ci-heal: L3 green publish (2026-09-06)
+ 1194 files changed, 1272 insertions(+), 1228 deletions(-)
+To https://github.com/echocanhelp/wiki-public.git
+   6959a05189..937cd47ea3  gh-pages -> gh-pages
+CI: L3 pushed 937cd47ea3
+CI: post-push CDN verify CDN_LAG
+CI_SUMMARY: green=1 ops=WARN drift=OK smoke=OK
+CI_STATUS: GREEN

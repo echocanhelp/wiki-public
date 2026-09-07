@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T04:46:30",
+  "updated": "2026-09-06T07:00:10",
   "nodes": [
     {
       "id": "cron.crons",
@@ -107,7 +107,7 @@
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-09-06T04:45:01.383246-07:00"
+      "last_run_at": "2026-09-06T06:59:06.934490-07:00"
     },
     {
       "name": "Echopedia content analysis",
@@ -121,21 +121,21 @@
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-09-06T04:40:59.817264-07:00"
+      "last_run_at": "2026-09-06T06:41:05.181292-07:00"
     },
     {
       "name": "echopedia-digest",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-09-05T06:21:00.610704-07:00"
+      "last_run_at": "2026-09-06T06:20:05.200688-07:00"
     },
     {
       "name": "memory-audit",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-09-05T04:50:57.426727-07:00"
+      "last_run_at": "2026-09-06T04:50:00.718773-07:00"
     },
     {
       "name": "echopedia-nightly-audit",
@@ -156,7 +156,7 @@
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-30T07:20:35.576451-07:00"
+      "last_run_at": "2026-09-06T06:04:40.787408-07:00"
     },
     {
       "name": "echopedia-ci-heal",
@@ -177,7 +177,7 @@
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-30T05:31:04.146593-07:00"
+      "last_run_at": "2026-09-06T05:00:01.003873-07:00"
     },
     {
       "name": "echopedia-scout-live",
@@ -212,7 +212,7 @@
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-09-05T06:11:00.291568-07:00"
+      "last_run_at": "2026-09-06T06:10:04.860374-07:00"
     },
     {
       "name": "echopedia-person-works-linker",
@@ -254,14 +254,14 @@
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-08-30T07:09:06.118455-07:00"
+      "last_run_at": "2026-09-06T05:37:03.264013-07:00"
     },
     {
       "name": "echopedia-tier1-sweep",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-09-05T06:31:00.017568-07:00"
+      "last_run_at": "2026-09-06T06:30:04.690873-07:00"
     },
     {
       "name": "go-router-monthly-audit",
@@ -275,7 +275,7 @@
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-09-06T04:00:57.455059-07:00"
+      "last_run_at": "2026-09-06T07:00:05.439884-07:00"
     }
   ]
 }

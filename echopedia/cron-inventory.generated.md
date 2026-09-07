@@ -1,4 +1,4 @@
-<!-- cron-inventory-meta: count=27 agent=1 bad_deliver=0 -->
+<!-- cron-inventory-meta: count=27 agent=0 bad_deliver=0 -->
 | Schedule | Job | Mode | En | Last | Script |
 |----------|-----|------|----|------|--------|
 | 0 * * * * | `echopedia-window-freeze` | no_agent | on | ok | `echopedia-window-freeze.sh` |

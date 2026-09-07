@@ -1,8 +1,8 @@
-## Echopedia Content Analysis — 2026-09-06
+## Echopedia Content Analysis — 2026-09-07
 - Standards v10
-- Pages scanned: **23** with findings
-- Auto-queued for remediation: **11** (score ≥ 3)
-- Wall time: 1.45s
+- Pages scanned: **35** with findings
+- Auto-queued for remediation: **12** (score ≥ 3)
+- Wall time: 1.49s
 
 ### Top 10 pages needing attention:
 - `people/chen-po-kong.md` score=8 ⚠️ DESC_TOO_SHORT — DESC_TOO_SHORT, FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
@@ -14,10 +14,11 @@
 - `people/chao-sile.md` score=5 ⚠️ DESC_TOO_SHORT — DESC_TOO_SHORT, FRESHNESS_NO_REVIEW_DATE, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
 - `people/yang-yueqing.md` score=5 ⚠️ DESC_TOO_SHORT — DESC_TOO_SHORT, FRESHNESS_NO_REVIEW_DATE, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
 - `events/ev-lunar-new-year-banquet.md` score=4 ⚠️ DESC_NO_TITLE_MENTION — DESC_NO_TITLE_MENTION, FRESHNESS_NO_REVIEW_DATE, STRUCT_NO_REVIEW_DATE
-- `people/guan-renjian.md` score=3 — FRESHNESS_NO_REVIEW_DATE, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
+- `events/sc-taiwancenter-org-event-groundbreaking-ceremony.md` score=3 ⚠️ DESC_NO_TITLE_MENTION — DESC_NO_TITLE_MENTION, LINKS_NO_RELATED
 
 ### Auto-queued for P13 remediation:
 - `events/ev-lunar-new-year-banquet.md` (medium) — DESC_NO_TITLE_MENTION, FRESHNESS_NO_REVIEW_DATE, STRUCT_NO_REVIEW_DATE
+- `events/sc-taiwancenter-org-event-groundbreaking-ceremony.md` (medium) — DESC_NO_TITLE_MENTION, LINKS_NO_RELATED
 - `people/chao-sile.md` (high) — DESC_TOO_SHORT, FRESHNESS_NO_REVIEW_DATE, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
 - `people/chen-po-kong.md` (high) — DESC_TOO_SHORT, FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
 - `people/du-ao-cunfu.md` (high) — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE, READABILITY_LONG_SENTENCES_104wps
@@ -26,7 +27,6 @@
 - `people/huang-diyin.md` (high) — DESC_TOO_SHORT, FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
 - `people/li-jian.md` (high) — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE, READABILITY_LONG_SENTENCES_128wps
 - `people/lin-baohua.md` (high) — DESC_TOO_SHORT, FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
-- `people/yang-yueqing.md` (high) — DESC_TOO_SHORT, FRESHNESS_NO_REVIEW_DATE, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
 
-- Log: `knowledge/operational/content-analysis/2026-09-06.jsonl`
+- Log: `knowledge/operational/content-analysis/2026-09-07.jsonl`
 - Queue: `echopedia/content-analysis-queue.json`

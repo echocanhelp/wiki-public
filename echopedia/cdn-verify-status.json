@@ -1,13 +1,24 @@
 {
-  "at": "2026-09-06T11:29:14.152295+00:00",
-  "status": "OK",
+  "at": "2026-09-06T13:04:38.715081+00:00",
+  "status": "CDN_LAG",
   "homepage": "200",
   "total": 50,
-  "ok": 50,
-  "cdn_lag": 0,
+  "ok": 38,
+  "cdn_lag": 12,
   "missing": 0,
   "other": 0,
   "base_url": "https://echocanhelp.github.io/wiki-public",
   "missing_samples": [],
-  "lag_samples": []
+  "lag_samples": [
+    "https://echocanhelp.github.io/wiki-public/events/sc-taiwancenter-org-event-2025-annual-gala-fundraising-dinner",
+    "https://echocanhelp.github.io/wiki-public/events/sc-taiwancenter-org-event-2025-miss-taiwan-usa-news",
+    "https://echocanhelp.github.io/wiki-public/events/sc-taiwancenter-org-event-2025-traditional-week",
+    "https://echocanhelp.github.io/wiki-public/events/sc-taiwancenter-org-event-2026-luo-shan-ji-tai-mei-ren-chuan-tong-zhou",
+    "https://echocanhelp.github.io/wiki-public/events/sc-taiwancenter-org-event-228-memorial-commemoration-ceremony",
+    "https://echocanhelp.github.io/wiki-public/events/sc-taiwancenter-org-event-calendar",
+    "https://echocanhelp.github.io/wiki-public/events/sc-taiwancenter-org-event-construction-progress-of-the-building",
+    "https://echocanhelp.github.io/wiki-public/events/sc-taiwancenter-org-event-groundbreaking-ceremony",
+    "https://echocanhelp.github.io/wiki-public/events/sc-taiwancenter-org-event-she-li-guo-cheng-zhao-pian",
+    "https://echocanhelp.github.io/wiki-public/events/sc-taiwancenter-org-event-taiwan-joining-who"
+  ]
 }
