@@ -55,7 +55,17 @@ Translated from 75. 台灣人權協會的開始與現況 / 張丁蘭 / 2014/12
 - 2014-12-21 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/chun-yung-lin||Chun-Yung Lin]]
+- [[people/edward-j-s-lin||Edward J. S. Lin]]
+- [[people/h-l-hung||H. L. Hung]]
+- [[people/henry-lee||Henry Lee]]
+- [[people/tai-lin||Tai Lin]]
+- [[people/tina-chang||Tina Chang]]
+- [[people/ting-yee-wang||Ting Yee Wang]]
+- [[people/tony-lee||Tony Lee]]
+- [[people/tina-chang||張丁蘭]]
+- [[organizations/formosan-association-for-human-rights||Formosan Association For Human Rights]]
+- [[organizations/taiwan-human-rights-and-culture-association||Taiwan Human Rights Culture Association]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

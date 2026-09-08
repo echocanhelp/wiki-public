@@ -75,7 +75,13 @@ Excerpt from the 10th Anniversary Special Issue of New York Taiwan Center July, 
 - 2014-09-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/dr-tu-chen||Dr. Tu Chen]]
+- [[people/martin-tsai||Martin Tsai]]
+- [[people/maurice-hsu||Maurice Hsu]]
+- [[people/morisan-lu||Morisan Lu]]
+- [[people/patrick-huang||Patrick Huang]]
+- [[organizations/new-york-taiwan-center||New York Taiwan Center]]
+- [[organizations/taiwanese-american-council||Taiwanese American Council]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

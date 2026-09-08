@@ -126,7 +126,11 @@ Source from 南加州台灣會館
 - 2014-09-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/thomas-ming-chien-wu||吳明杰]]
+- [[people/jau-ching-lai||賴昭晴]]
+- [[people/an-su-gao-lai||賴高安賜]]
+- [[people/quei-lih-chen||陳瑰麗]]
+- [[people/san-john-huang||黃三榮]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

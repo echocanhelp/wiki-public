@@ -91,7 +91,12 @@ Translated from 85. 自由的號角-3F之起源/盧主義/2015/01
 - 2015-01-09 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/echo-lin||Echo Lin]]
+- [[people/edward-chen||Edward Chen]]
+- [[people/john-lin||John Lin]]
+- [[people/tom-yang||Tom Yang]]
+- [[people/tsu-yi-jay-loo||Tsu-Yi Jay Loo]]
+- [[people/tsu-yi-jay-loo||盧主義]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -75,7 +75,10 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2014-11-03 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/george-k-liu||劉寬平]]
+- [[people/ming-che-lin||林明哲]]
+- [[people/jin-sheng-jian||簡金生]]
+- [[people/philip-s-chen||陳伸夫]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

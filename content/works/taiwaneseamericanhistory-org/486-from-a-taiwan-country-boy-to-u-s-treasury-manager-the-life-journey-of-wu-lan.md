@@ -45,7 +45,7 @@ From a Taiwan Country Boy to U.S. Treasury Manager – The Life Journey of Wu-La
 - 2015-01-16 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/wu-lang-lee||Wu-Lang Lee]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

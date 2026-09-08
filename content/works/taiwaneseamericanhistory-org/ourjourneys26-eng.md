@@ -83,7 +83,9 @@ Translated from 26. 聖地牙哥台灣中心的前半生與轉型/黃正源/2014
 - 2014-09-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/dr-chiu-shan-chen||Dr. Chiu-Shan Chen]]
+- [[people/j-p-lee||J. P. Lee]]
+- [[organizations/taiwanese-association-of-america||Taiwanese Association Of America]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

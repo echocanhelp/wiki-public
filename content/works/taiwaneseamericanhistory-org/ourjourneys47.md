@@ -139,7 +139,16 @@ NATPA堅持台灣主權獨立的主張也與後來李登輝總統兩國論和陳
 - 2014-10-19 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/arthur-h-wu||吳漢南]]
+- [[people/wen-yih-sun||商文義]]
+- [[people/kenneth-chang||張學賢]]
+- [[people/parris-hsu-cheng-chang||張旭成]]
+- [[people/t-k-lin||林宗光]]
+- [[people/s-j-lin||林宣繼]]
+- [[people/c-y-tsai||蔡嘉寅]]
+- [[people/sin-i-hsiao||蕭欣義]]
+- [[people/alan-t-chen||陳清風]]
+- [[people/george-leslie-mackay||馬偕]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

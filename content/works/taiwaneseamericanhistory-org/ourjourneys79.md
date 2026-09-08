@@ -117,7 +117,14 @@ NATWA婦女信箱 P.O.BOX 257 HOPEDALE, MA 01747 (1991. 3. 18)
 - 2014-12-25 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/mei-fun-tsai||吳美芬]]
+- [[people/tina-chang||張丁蘭]]
+- [[people/s-y-chang||張信義]]
+- [[people/jeffrey-lee||李友禮]]
+- [[people/j-z-lee||李錦容]]
+- [[people/chihmei-lin-chen||林智美]]
+- [[people/s-s-huang||黃申生]]
+- [[people/jean-j-fang||黃靜枝]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

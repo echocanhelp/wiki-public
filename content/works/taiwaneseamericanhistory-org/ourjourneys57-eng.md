@@ -65,7 +65,8 @@ Excerpt from From Taiwan and Back: A Memoir of Ambassador Fu-chen Lo, by Fu-ch
 - 2014-11-02 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/powen-wang||王博文]]
+- [[people/james-chin-chun-su||蘇金春]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

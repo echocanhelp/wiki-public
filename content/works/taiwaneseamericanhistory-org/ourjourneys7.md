@@ -63,7 +63,9 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2014-08-11 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/tsung-ming-hsieh||謝聰敏]]
+- [[people/frank-lai||賴文雄]]
+- [[people/ron-chen||陳榮成]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

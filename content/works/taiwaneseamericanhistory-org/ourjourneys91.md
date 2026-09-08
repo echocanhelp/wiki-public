@@ -55,7 +55,8 @@ Posted in 01/2015
 - 2015-01-22 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/agnes-wu||姜瑞香]]
+- [[people/kin-ko||柯金寅]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

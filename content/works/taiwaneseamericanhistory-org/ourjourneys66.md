@@ -81,7 +81,9 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2014-11-23 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/maysing-huang||楊黃美幸]]
+- [[people/charles-chiang||江昭儀]]
+- [[people/y-c-hsu-2||許英智]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

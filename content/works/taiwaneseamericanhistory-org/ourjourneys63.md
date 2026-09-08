@@ -107,7 +107,14 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2014-11-11 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/allen-chang||張伯寬]]
+- [[people/dr-cary-s-hung||洪哲勝博士]]
+- [[people/kang-lu-wang||王康陸博士]]
+- [[people/dr-fu-chen-lo||羅福全博士]]
+- [[people/strong-chuang||莊秋雄]]
+- [[people/dr-wu-hsiung-tsai||蔡武雄博士]]
+- [[people/sin-i-hsiao||蕭欣義]]
+- [[people/wen_chen-chen||陳文成教授]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -47,7 +47,14 @@ The front view of the first Center with the board members and office volunteers.
 - 2014-09-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/shun-hua-yu||余舜華]]
+- [[people/ye-ming-wu||吳怡明]]
+- [[people/dr-henry-y-wu||吳銀鏤醫師]]
+- [[people/dr-shinn-sheng-chang||張信行醫師]]
+- [[people/dr-long-song-simon-lin||林榮松醫師]]
+- [[people/david-weng||翁嘉盛]]
+- [[people/chun-chiu||邱俊邦]]
+- [[people/may-sing-chang||黃美星]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -223,7 +223,22 @@ The Committee of Directory Of Formosans in North America Post Office Box 149 Mad
 - 2014-11-02 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/ron-chen||Ron Chen]]
+- [[people/j-y-lin||林哲也]]
+- [[people/dean-liang||梁基典]]
+- [[people/clyde-kiang||江運貴]]
+- [[people/tah-p-6d8ba3d584||王人紀]]
+- [[people/powen-wang||王博文]]
+- [[people/strong-chuang||莊秋雄]]
+- [[people/sin-i-hsiao||蕭欣義]]
+- [[people/dr-fu-yuan-hsu||許富淵]]
+- [[people/frank-lai||賴文雄]]
+- [[people/martha-wang||鄞美珠]]
+- [[people/tzutsai-cheng||鄭自才]]
+- [[people/h-y-chen||陳弘毅]]
+- [[people/ron-chen||陳榮成]]
+- [[people/elena-ling||黃美惠]]
+- [[people/jean-j-fang||黃靜枝]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

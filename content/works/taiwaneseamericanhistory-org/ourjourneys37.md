@@ -95,7 +95,15 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2014-09-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/john-pang-yu||余金榜]]
+- [[people/parris-hsu-cheng-chang||張旭成]]
+- [[people/leon-chang||張村樑]]
+- [[people/liang-chuan-peng||彭兩泉]]
+- [[people/t-k-lin||林宗光]]
+- [[people/maysing-huang||楊黃美幸]]
+- [[people/dr-tu-chen||陳都博士]]
+- [[people/john-j-y-huang||黃仲義]]
+- [[organizations/taiwanese-alliance-for-interculture-southern-california||Taiwanese Alliance For Interculture]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

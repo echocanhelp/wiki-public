@@ -85,7 +85,8 @@ Translated from 31. 休士頓台灣人活動中心簡介/2014/09
 - 2014-09-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwanese-association-of-america-houston-chapter||Taiwanese Association Of America Houston Chapter]]
+- [[organizations/taiwanese-heritage-society-of-houston||Taiwanese Heritage Society Of Houston]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

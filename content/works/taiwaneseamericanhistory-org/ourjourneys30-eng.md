@@ -77,7 +77,9 @@ Translated from 30. 西雅圖台灣會館 / 王虹妮 /2014/09
 - 2014-09-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/clara-chen||Clara Chen]]
+- [[people/martin-tsai||Martin Tsai]]
+- [[organizations/taiwan-american-foundation||Taiwanese American Foundation]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

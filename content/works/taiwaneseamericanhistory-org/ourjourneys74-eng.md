@@ -133,7 +133,18 @@ Translated from 74. 1983至1990的北美洲台灣人醫師協會 / 周烒明撰�
 - 2014-12-21 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/c-s-huang||C. S. Huang]]
+- [[people/dr-kun-t-liao||Dr. Kun T. Liao]]
+- [[people/edward-chen||Edward Chen]]
+- [[people/ih-foo-lin||Ih Foo Lin]]
+- [[people/mei-fun-tsai||Mei Fun Tsai]]
+- [[people/parris-hsu-cheng-chang||Parris Hsu-Cheng Chang]]
+- [[people/philip-lin||Philip Lin]]
+- [[people/s-y-chang||S. Y. Chang]]
+- [[people/t-k-lin||T. K. Lin]]
+- [[people/y-t-yan||Y. T. Yan]]
+- [[people/mei-fun-tsai||吳美芬]]
+- [[organizations/democratic-progressive-party||Democratic Progressive Party]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

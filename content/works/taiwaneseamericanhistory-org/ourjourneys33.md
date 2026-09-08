@@ -141,7 +141,21 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2014-09-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/allen-chang||張伯寬]]
+- [[people/anna-chang||張月英]]
+- [[people/dew-chin-ghi-chang||張清祺]]
+- [[people/tah-p-4e2cc68fdc||張肅]]
+- [[people/john-lin||林榮勳]]
+- [[people/tom-yang||楊東傑]]
+- [[people/tah-p-6d8ba3d584||王人紀]]
+- [[people/powen-wang||王博文]]
+- [[people/tsu-yi-jay-loo||盧主義]]
+- [[people/prof-liang-tseng-fan||范良政教授]]
+- [[people/strong-chuang||莊秋雄]]
+- [[people/george-h-kerr||葛超智]]
+- [[people/tsung-ming-hsieh||謝聰敏]]
+- [[people/ron-chen||陳榮成]]
+- [[people/wenhsiung-luke-huang||黃文雄]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

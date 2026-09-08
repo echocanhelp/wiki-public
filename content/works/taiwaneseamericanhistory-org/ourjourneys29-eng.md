@@ -103,7 +103,12 @@ Translated from 29. 南加州台灣會館開創的史料/黃樹人編輯/2014/09
 - 2014-09-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/freeman-huang||Freeman Huang]]
+- [[people/san-john-huang||San John Huang]]
+- [[people/simon-lin||Simon Lin]]
+- [[organizations/overseas-community-affairs-council||Overseas Community Affairs Council]]
+- [[organizations/taiwan-american-foundation||Taiwanese American Foundation]]
+- [[organizations/taiwanese-american-lawyers-association||Taiwanese American Lawyers Association]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

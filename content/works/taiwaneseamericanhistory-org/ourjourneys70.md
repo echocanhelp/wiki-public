@@ -165,7 +165,13 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2014-12-02 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/raymond-wu||吳瑞信]]
+- [[people/tyzen-hsiao||蕭泰然]]
+- [[people/ahhee-hsu||許丕龍]]
+- [[people/li-fa-xie||謝里法]]
+- [[people/lung-chen||陳隆]]
+- [[people/joyce-weng||黃娟]]
+- [[people/wenhsiung-luke-huang||黃文雄]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

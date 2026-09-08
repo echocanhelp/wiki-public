@@ -75,7 +75,8 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2014-10-21 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/anna-chang||張月英]]
+- [[people/tah-p-e00ace0a3a||毛清芬]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

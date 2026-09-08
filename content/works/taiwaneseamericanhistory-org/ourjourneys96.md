@@ -53,7 +53,7 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2015-02-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/cheng-yan-kao||高成炎]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -48,7 +48,7 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/our-journ
 - 2000-10-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/rev-martin-c-wang||王成章牧師]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

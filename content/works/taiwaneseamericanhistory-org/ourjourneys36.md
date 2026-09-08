@@ -103,7 +103,10 @@ J.K.那時正與另一個同事合夥，忙著開創屬於兩人的科技工程�
 - 2014-09-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/dr-ya-yen-lee||李雅彥醫師]]
+- [[people/gin-ru-yeh||葉錦如]]
+- [[people/shu-yuan-susan-tsay||蔡淑媛]]
+- [[people/chi-shun-hwang||黃智舜]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

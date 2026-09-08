@@ -143,7 +143,7 @@ FON主辦當局一再強調，看守展覽攤子解說員的重要性：他們�
 - 2014-09-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/hsiu-fang-susan-liu||陳秀芳]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

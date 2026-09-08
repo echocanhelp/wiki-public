@@ -103,7 +103,21 @@ Translated by T.A. Archives, from 8. 陳文成教授紀念基金會成立經過/
 - 2014-09-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/cheng-long-tsai||Cheng Long Tsai]]
+- [[people/fang-ming-chen||Fang-Ming Chen]]
+- [[people/kim-lai-huang||Kim Lai Huang]]
+- [[people/maysing-huang||Maysing Huang]]
+- [[people/stephen-lin||Stephen Lin]]
+- [[people/yung-hwa-hsu||Yung Hwa Hsu]]
+- [[people/stephen-lin||林俊提]]
+- [[people/f-s-shen||沈富雄]]
+- [[people/dr-fu-yuan-hsu||許富淵]]
+- [[people/yung-hwa-hsu||許永華]]
+- [[people/tah-p-9a69693e1e||賴金德]]
+- [[people/wen_chen-chen||陳文成教授]]
+- [[people/kim-lai-huang||黃金來]]
+- [[people/jean-j-fang||黃靜枝]]
+- [[organizations/professor-chen-wen-chen-memorial-foundation||Professor Chen Wen-Chen Memorial Foundation]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

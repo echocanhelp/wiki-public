@@ -73,7 +73,10 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2014-10-27 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/charles-ting||丁昭昇]]
+- [[people/an-su-gao-lai||賴高安賜]]
+- [[people/m-l-chen||陳夢蘭]]
+- [[people/c-j-chen||陳銓仁]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

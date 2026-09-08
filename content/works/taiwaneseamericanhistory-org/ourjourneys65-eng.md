@@ -77,7 +77,10 @@ Translated from 65. FAPA的誕生 / 蔡同榮/2014/11
 - 2014-11-23 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/charles-ting||Charles Ting]]
+- [[people/ming-che-lin||Ming-Che Lin]]
+- [[people/tsan-hung-george-chang||Tsan-Hung George Chang]]
+- [[organizations/taiwanese-association-of-america||Taiwanese Association Of America]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

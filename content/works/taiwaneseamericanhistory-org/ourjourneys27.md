@@ -61,7 +61,9 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2014-09-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/fon-may-fan||樊豐美]]
+- [[people/lung-chen||陳隆]]
+- [[people/patrick-huang||黃再添]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

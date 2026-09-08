@@ -69,7 +69,13 @@ Sourced from Eating Fruit, Worshipping the Tree – Memories from Shutsung Liao�
 - 2014-12-01 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/c-y-tsai||C. Y. Tsai]]
+- [[people/kim-lai-huang||Kim Lai Huang]]
+- [[people/parris-hsu-cheng-chang||Parris Hsu-Cheng Chang]]
+- [[people/wen-yih-sun||Wen-Yih Sun]]
+- [[organizations/democratic-progressive-party||Democratic Progressive Party]]
+- [[organizations/overseas-community-affairs-council||Overseas Community Affairs Council]]
+- [[organizations/taiwanese-association-of-america||Taiwanese Association Of America]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

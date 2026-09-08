@@ -1,0 +1,28 @@
+{
+  "date": "2026-09-08",
+  "standards_version": 10,
+  "total_findings": 2,
+  "total_pages": 1,
+  "actions": [
+    {
+      "page": "events/sc-taiwancenter-org-event-groundbreaking-ceremony.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "events/sc-taiwancenter-org-event-groundbreaking-ceremony.md",
+      "finding": "LINKS_NO_RELATED",
+      "finding_prefix": "LINKS_NO_RELATED",
+      "action": "Add ## Related Pages section",
+      "detail": "Add a Related Pages section with wikilinks to connected people, organizations, and sources.",
+      "playbook": "P3",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    }
+  ]
+}

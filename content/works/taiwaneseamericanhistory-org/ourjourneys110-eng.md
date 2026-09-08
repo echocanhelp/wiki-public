@@ -186,7 +186,11 @@ Translated from 110. 話說 美洲台灣客家社團/王興富/2015/02
 - 2015-02-25 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/c-c-chung||C. C. Chung]]
+- [[people/james-liang||James Liang]]
+- [[people/w-d-lee||W. D. Lee]]
+- [[organizations/taiwan-hakka-association-for-public-affairs-in-north-america||Taiwan Hakka Association For Public Affairs In North America]]
+- [[organizations/taiwanese-hakka-association-of-the-world||Taiwanese Hakka Association Of The World]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

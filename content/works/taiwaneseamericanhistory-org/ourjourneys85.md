@@ -107,7 +107,12 @@ Formosans’ Free Formosa 1956.1
 - 2015-01-09 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/echo-lin||Echo Lin]]
+- [[people/edward-chen||Edward Chen]]
+- [[people/john-lin||John Lin]]
+- [[people/john-lin||林榮勳]]
+- [[people/tom-yang||楊東傑]]
+- [[people/tsu-yi-jay-loo||盧主義]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

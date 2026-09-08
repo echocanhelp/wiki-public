@@ -77,7 +77,8 @@ The mission of the Taiwanese-American Religious Study Association Southern Calif
 - 2014-11-09 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/prof-tian-min-lin||林天民教授]]
+- [[people/dr-che-yang-huang||黃哲陽醫師]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -137,7 +137,14 @@ NATMA第三任會長廖坤塗於1988年11月2日組織第二次回國訪問團�
 - 2014-12-21 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/mei-fun-tsai||吳美芬]]
+- [[people/s-y-chang||張信義]]
+- [[people/parris-hsu-cheng-chang||張旭成]]
+- [[people/t-k-lin||林宗光]]
+- [[people/philip-lin||林水泉]]
+- [[people/y-t-yan||顏裕庭]]
+- [[people/george-leslie-mackay||馬偕]]
+- [[people/prof-chao-yuan-huang||黃昭淵教授]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

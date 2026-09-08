@@ -147,7 +147,16 @@ Most of these entrepreneurs found success within the high technology industry, i
 - 2014-09-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/david-lee||David Lee]]
+- [[people/frank-lin||Frank Lin]]
+- [[people/cpaul-huang||Paul Huang]]
+- [[people/stephen-lin||Stephen Lin]]
+- [[people/w-c-lin||林文釗]]
+- [[people/j-h-liang||梁見後]]
+- [[people/sandy-yen||莊和子]]
+- [[people/chun-chiu||邱俊邦]]
+- [[people/tah-p-8b5bcc4bca||黃世惠]]
+- [[people/y-s-huang||黃炎松]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

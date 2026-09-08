@@ -155,7 +155,12 @@ It has been 30 years. The journey of TAFPC has been long and winding. It had its
 - 2014-09-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/kenneth-liu||Kenneth Liu]]
+- [[people/mou-chinlin||林茂清]]
+- [[people/rev-martin-c-wang||王成章牧師]]
+- [[people/rev-c-l-tong||董俊蘭牧師]]
+- [[people/rev-ben-m-c-hsieh||謝敏川牧師]]
+- [[people/wudong-huang||黃武東牧師]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

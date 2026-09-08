@@ -75,7 +75,17 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2014-08-06 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/k-c-liao||廖國仲]]
+- [[people/morgan-chang||張富雄]]
+- [[people/prof-h-c-lee||李弘祺教授]]
+- [[people/stephen-lin||林俊提]]
+- [[people/eileen-chang||楊宜宜]]
+- [[people/martin-tsai||蔡明峰]]
+- [[people/ahhee-hsu||許丕龍]]
+- [[people/rui-feng-hsu||許瑞峰]]
+- [[people/dr-teng-lung-hsu||許登龍醫師]]
+- [[people/frank-lai||賴文雄]]
+- [[people/stella-chen||陳婉真]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

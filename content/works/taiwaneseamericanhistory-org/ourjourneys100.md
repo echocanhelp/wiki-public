@@ -37,7 +37,7 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2015-02-15 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/ming-liang-lee||李明亮]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

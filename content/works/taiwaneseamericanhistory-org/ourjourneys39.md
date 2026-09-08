@@ -59,7 +59,7 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2014-10-16 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/john-pang-yu||余金榜]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

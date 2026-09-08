@@ -59,7 +59,10 @@ Translated from 27. 紐約台灣會館: 在困境中更新/鄭家隆/2014/09
 - 2014-09-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/dr-lung-fong-chen||Dr. Lung-Fong Chen]]
+- [[people/fon-may-fan||Fon-May Fan]]
+- [[people/patrick-huang||Patrick Huang]]
+- [[organizations/new-york-taiwan-center||New York Taiwan Center]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-08",
+  "total_cards": 2,
+  "evaluated_file": "/home/leedt/echo-system/knowledge/operational/evaluated/2026-09-08.json",
+  "priority_counts": {
+    "low": 2
+  },
+  "playbook_counts": {
+    "P8": 1,
+    "P3": 1
+  },
+  "cards": [
+    {
+      "card_id": "echo-gen-2026-09-08-0001",
+      "title": "[LOW] sc-taiwancenter-org-event-groundbreaking-ceremony: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [LOW] sc-taiwancenter-org-event-groundbreaking-ceremony: Ensure the first paragraph mentions the page subject\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `events/sc-taiwancenter-org-event-groundbreaking-ceremony.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 0.0 (inbound links: 0)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/events/sc-taiwancenter-org-event-groundbreaking-ceremony.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-08 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: events\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "events/sc-taiwancenter-org-event-groundbreaking-ceremony.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 0.0,
+      "target_path": "/home/leedt/echo-system/content/events/sc-taiwancenter-org-event-groundbreaking-ceremony.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-08-0002",
+      "title": "[LOW] sc-taiwancenter-org-event-groundbreaking-ceremony: Add ## Related Pages section",
+      "body": "## Task: [LOW] sc-taiwancenter-org-event-groundbreaking-ceremony: Add ## Related Pages section\n\n**Priority:** low\n**Playbook:** P3\n**Page:** `events/sc-taiwancenter-org-event-groundbreaking-ceremony.md`\n**Finding:** `LINKS_NO_RELATED`\n**Score:** 0.0 (inbound links: 0)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/events/sc-taiwancenter-org-event-groundbreaking-ceremony.md\n3. Find broken wikilinks and repair or redirect\n4. Commit only (no publish)\n\n### Specific Fix\n**Action:** Add ## Related Pages section\n**Detail:** Add a Related Pages section with wikilinks to connected people, organizations, and sources.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: LINKS_NO_RELATED\nPage type: events\nType weight: 1.0\nFinding weight: 2.0",
+      "priority": "low",
+      "playbook": "P3",
+      "page": "events/sc-taiwancenter-org-event-groundbreaking-ceremony.md",
+      "finding": "LINKS_NO_RELATED",
+      "score": 0.0,
+      "target_path": "/home/leedt/echo-system/content/events/sc-taiwancenter-org-event-groundbreaking-ceremony.md"
+    }
+  ]
+}

@@ -49,7 +49,17 @@ Translated from 24. 北加州台灣會館的誕生/黃美星/2014/09
 - 2014-09-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/chen-shuibian||Chen Shui-Bian]]
+- [[people/chun-chiu||Chun Chiu]]
+- [[people/david-weng||David Weng]]
+- [[people/dr-henry-y-wu||Dr. Henry Y. Wu]]
+- [[people/dr-shinn-sheng-chang||Dr. Shinn-Sheng Chang]]
+- [[people/may-sing-chang||May-Sing Chang]]
+- [[people/shun-hua-yu||Shun Hua Yu]]
+- [[people/simon-lin||Simon Lin]]
+- [[people/ye-ming-wu||Ye-Ming Wu]]
+- [[people/may-sing-chang||黃美星]]
+- [[organizations/taiwanese-american-center-of-northern-california||Taiwanese American Center Of Northern California]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -79,7 +79,10 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2014-09-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/clara-chen||劉真真]]
+- [[people/erh-lin||林二]]
+- [[people/martin-tsai||蔡明峰]]
+- [[people/agnes-hsiao||黃美琇]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

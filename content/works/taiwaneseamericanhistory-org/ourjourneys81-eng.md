@@ -241,7 +241,25 @@ Translated from 81.早期(1960〜1970年)威斯康新大學 台灣學生在台�
 - 2014-12-29 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/c-c-yang||C. C. Yang]]
+- [[people/chiu-sen-wang||Chiu-Sen Wang]]
+- [[people/dr-grace-wu||Dr. Grace Wu]]
+- [[people/edward-chen||Edward Chen]]
+- [[people/frank-lai||Frank Lai]]
+- [[people/ho-rui-hsu||Ho Rui Hsu]]
+- [[people/james-chin-chun-su||James Chin-Chun Su]]
+- [[people/jin-sheng-jian||Jin-Sheng Jian]]
+- [[people/liang-shing-fan||Liang-Shing Fan]]
+- [[people/mei-fun-tsai||Mei Fun Tsai]]
+- [[people/michael-s-k-chen||Michael S. K. Chen]]
+- [[people/powen-wang||Powen Wang]]
+- [[people/ron-chen||Ron Chen]]
+- [[people/sin-i-hsiao||Sin-I Hsiao]]
+- [[people/strong-chuang||Strong Chuang]]
+- [[people/tsung-ming-hsieh||Tsung Ming Hsieh]]
+- [[people/tzutsai-cheng||Tzutsai Cheng]]
+- [[people/wen-chi-chang||Wen Chi Chang]]
+- [[people/mei-fun-tsai||吳美芬]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -51,7 +51,8 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2014-08-07 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/dr-hong-tien-lai||賴弘典醫師]]
+- [[people/fang-yuh-rita-chen||陳芳玉]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

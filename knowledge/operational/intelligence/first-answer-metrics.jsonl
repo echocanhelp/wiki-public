@@ -658,3 +658,9 @@
 {"ts": "2026-09-04T14:37:18Z", "status": "hit", "query": "許景淳", "slug": "hsu-ching-chun", "source": "line", "kind": "person"}
 {"ts": "2026-09-04T14:38:05Z", "status": "hit", "query": "@Echo許 AI助理 tell me about 許景淳 in zhtw and provide echopedia link", "slug": "hsu-ching-chun", "source": "brain", "kind": "person"}
 {"ts": "2026-09-04T14:58:43Z", "status": "hit", "query": "@Echo許 AI助理 introduce yourself to my sister, @許景淳Christine Hsu in zhtw", "slug": "hsu-ching-chun", "source": "brain", "kind": "person"}
+{"ts": "2026-09-07T20:27:46Z", "status": "miss", "query": "你是誰", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-09-07T20:32:31Z", "status": "miss", "query": "你好 你是誰？", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-09-07T20:34:07Z", "status": "miss", "query": "你好 你是誰？", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-09-07T20:40:54Z", "status": "miss", "query": "你好 你是誰？", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-09-07T20:50:08Z", "status": "hit", "query": "/new", "slug": "new-world-art-center", "source": "brain", "kind": "organization"}
+{"ts": "2026-09-07T20:50:23Z", "status": "hit", "query": "Who are you", "slug": "yang-jia-you", "source": "brain", "kind": "person"}

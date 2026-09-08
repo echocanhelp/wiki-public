@@ -191,7 +191,25 @@ Mendel教授當時正撰寫「The Politics of Formosan Nationalism台灣民族�
 - 2014-12-29 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/dr-grace-wu||吳秀惠醫師]]
+- [[people/mei-fun-tsai||吳美芬]]
+- [[people/wen-chi-chang||張文祺]]
+- [[people/tah-p-6d8ba3d584||王人紀]]
+- [[people/powen-wang||王博文]]
+- [[people/jin-sheng-jian||簡金生]]
+- [[people/liang-shing-fan||范良信]]
+- [[people/strong-chuang||莊秋雄]]
+- [[people/sin-i-hsiao||蕭欣義]]
+- [[people/james-chin-chun-su||蘇金春]]
+- [[people/ho-rui-hsu||許和瑞]]
+- [[people/dr-fu-yuan-hsu||許富淵]]
+- [[people/tsung-ming-hsieh||謝聰敏]]
+- [[people/frank-lai||賴文雄]]
+- [[people/tah-p-9a69693e1e||賴金德]]
+- [[people/tzutsai-cheng||鄭自才]]
+- [[people/ron-chen||陳榮成]]
+- [[people/ching-chih-chen||陳清池]]
+- [[people/lung-chen||陳隆]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

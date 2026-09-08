@@ -1,32 +1,23 @@
-## Echopedia Content Analysis — 2026-09-07
+## Echopedia Content Analysis — 2026-09-08
 - Standards v10
-- Pages scanned: **35** with findings
-- Auto-queued for remediation: **12** (score ≥ 3)
-- Wall time: 1.49s
+- Pages scanned: **13** with findings
+- Auto-queued for remediation: **1** (score ≥ 3)
+- Wall time: 1.6s
 
 ### Top 10 pages needing attention:
-- `people/chen-po-kong.md` score=8 ⚠️ DESC_TOO_SHORT — DESC_TOO_SHORT, FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
-- `people/fan-jiang-ti-ang.md` score=8 ⚠️ DESC_NO_TITLE_MENTION — DESC_NO_TITLE_MENTION, FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
-- `people/huang-diyin.md` score=8 ⚠️ DESC_TOO_SHORT — DESC_TOO_SHORT, FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
-- `people/lin-baohua.md` score=8 ⚠️ DESC_TOO_SHORT — DESC_TOO_SHORT, FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
-- `people/du-ao-cunfu.md` score=6 — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE, READABILITY_LONG_SENTENCES_104wps
-- `people/li-jian.md` score=6 — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE, READABILITY_LONG_SENTENCES_128wps
-- `people/chao-sile.md` score=5 ⚠️ DESC_TOO_SHORT — DESC_TOO_SHORT, FRESHNESS_NO_REVIEW_DATE, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
-- `people/yang-yueqing.md` score=5 ⚠️ DESC_TOO_SHORT — DESC_TOO_SHORT, FRESHNESS_NO_REVIEW_DATE, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
-- `events/ev-lunar-new-year-banquet.md` score=4 ⚠️ DESC_NO_TITLE_MENTION — DESC_NO_TITLE_MENTION, FRESHNESS_NO_REVIEW_DATE, STRUCT_NO_REVIEW_DATE
 - `events/sc-taiwancenter-org-event-groundbreaking-ceremony.md` score=3 ⚠️ DESC_NO_TITLE_MENTION — DESC_NO_TITLE_MENTION, LINKS_NO_RELATED
+- `events/sc-taiwancenter-org-event-2025-annual-gala-fundraising-dinner.md` score=1 — LINKS_NO_RELATED
+- `events/sc-taiwancenter-org-event-2025-miss-taiwan-usa-news.md` score=1 — LINKS_NO_RELATED
+- `events/sc-taiwancenter-org-event-2025-traditional-week.md` score=1 — LINKS_NO_RELATED
+- `events/sc-taiwancenter-org-event-2026-luo-shan-ji-tai-mei-ren-chuan-tong-zhou.md` score=1 — LINKS_NO_RELATED
+- `events/sc-taiwancenter-org-event-228-memorial-commemoration-ceremony.md` score=1 — LINKS_NO_RELATED
+- `events/sc-taiwancenter-org-event-calendar.md` score=1 — LINKS_NO_RELATED
+- `events/sc-taiwancenter-org-event-construction-progress-of-the-building.md` score=1 — LINKS_NO_RELATED
+- `events/sc-taiwancenter-org-event-she-li-guo-cheng-zhao-pian.md` score=1 — LINKS_NO_RELATED
+- `events/sc-taiwancenter-org-event-taiwan-joining-who.md` score=1 — LINKS_NO_RELATED
 
 ### Auto-queued for P13 remediation:
-- `events/ev-lunar-new-year-banquet.md` (medium) — DESC_NO_TITLE_MENTION, FRESHNESS_NO_REVIEW_DATE, STRUCT_NO_REVIEW_DATE
 - `events/sc-taiwancenter-org-event-groundbreaking-ceremony.md` (medium) — DESC_NO_TITLE_MENTION, LINKS_NO_RELATED
-- `people/chao-sile.md` (high) — DESC_TOO_SHORT, FRESHNESS_NO_REVIEW_DATE, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
-- `people/chen-po-kong.md` (high) — DESC_TOO_SHORT, FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
-- `people/du-ao-cunfu.md` (high) — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE, READABILITY_LONG_SENTENCES_104wps
-- `people/fan-jiang-ti-ang.md` (high) — DESC_NO_TITLE_MENTION, FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
-- `people/guan-renjian.md` (medium) — FRESHNESS_NO_REVIEW_DATE, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
-- `people/huang-diyin.md` (high) — DESC_TOO_SHORT, FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
-- `people/li-jian.md` (high) — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE, READABILITY_LONG_SENTENCES_128wps
-- `people/lin-baohua.md` (high) — DESC_TOO_SHORT, FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
 
-- Log: `knowledge/operational/content-analysis/2026-09-07.jsonl`
+- Log: `knowledge/operational/content-analysis/2026-09-08.jsonl`
 - Queue: `echopedia/content-analysis-queue.json`

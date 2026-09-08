@@ -157,7 +157,22 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2015-02-19 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/shun-hua-yu||余舜華]]
+- [[people/leon-chang||張村樑]]
+- [[people/tah-p-4e2cc68fdc||張肅]]
+- [[people/j-z-lee||李錦容]]
+- [[people/c-c-yang||楊朝諄]]
+- [[people/chao-yuh-yang||楊朝諭]]
+- [[people/j-s-chien||簡忠松]]
+- [[people/jien-hua-charles-chuang||莊峻華]]
+- [[people/cheng-y-chuang||莊承業]]
+- [[people/cheng-long-tsai||蔡正隆博士]]
+- [[people/doris-hsieh||謝必行]]
+- [[people/dr-john-chieu||邱忠男博士]]
+- [[people/dr-mike-kuo||郭正光博士]]
+- [[people/tah-p-04e87d0c6a||郭雨新]]
+- [[people/cheng-yan-kao||高成炎]]
+- [[people/john-j-y-huang||黃仲義]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

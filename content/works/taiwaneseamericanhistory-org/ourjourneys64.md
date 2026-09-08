@@ -47,7 +47,7 @@ Posted in 11/2014
 - 2014-11-23 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- (無具名人物/團體) — absorb 2026-09-07
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

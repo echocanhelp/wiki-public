@@ -205,7 +205,18 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2014-12-21 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/raymond-wu||吳瑞信]]
+- [[people/morgan-chang||張富雄]]
+- [[people/j-y-lin||林哲也]]
+- [[people/ming-che-lin||林明哲]]
+- [[people/jim-young||楊正義]]
+- [[people/cheng-y-chuang||莊承業]]
+- [[people/minlu-chai||蔡銘祿]]
+- [[people/ho-rui-hsu||許和瑞]]
+- [[people/yi-ho-cheng||鄭義和]]
+- [[people/tony-chen||陳國洸]]
+- [[people/lung-chen||陳隆]]
+- [[people/chi-chin-huang||黃際鑫]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

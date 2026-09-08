@@ -83,7 +83,14 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2014-09-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/stephen-lin||林俊提]]
+- [[people/maysing-huang||楊黃美幸]]
+- [[people/f-s-shen||沈富雄]]
+- [[people/dr-fu-yuan-hsu||許富淵]]
+- [[people/yung-hwa-hsu||許永華]]
+- [[people/wen_chen-chen||陳文成教授]]
+- [[people/elena-ling||黃美惠]]
+- [[people/kim-lai-huang||黃金來]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -61,7 +61,14 @@ Translated from 60. 咱的故事—NATWA的歷史 / 吳秀惠、黃美惠合寫/
 - 2014-11-09 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/helen-wang||Helen Wang]]
+- [[people/maysing-huang||Maysing Huang]]
+- [[people/mei-fun-tsai||Mei Fun Tsai]]
+- [[people/mei-li-yang||Mei-Li Yang]]
+- [[people/stella-chen||Stella Chen]]
+- [[people/elena-ling||黃美惠]]
+- [[organizations/north-america-taiwanese-womens-association||North America Taiwanese Women S Association]]
+- [[organizations/taiwanese-association-of-america||Taiwanese Association Of America]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -323,7 +323,24 @@ Irvine 台灣基督長老教會免費提供
 - 2015-02-20 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/prof-ju-shey-ho||何汝諧教授]]
+- [[people/william-cho||卓甫良]]
+- [[people/li-ying-shang||商麗鶯]]
+- [[people/andy-chang||張繼昭博士]]
+- [[people/nai-shin-chu||朱迺欣]]
+- [[people/isaiah-lee||李宗派教授]]
+- [[people/ken-lee||李彥禎]]
+- [[people/nami-yang||李淑櫻]]
+- [[people/prof-tian-min-lin||林天民教授]]
+- [[people/paul-lin||林水波教授]]
+- [[people/fong-jen-lin||林豐仁]]
+- [[people/clyde-kiang||江運貴]]
+- [[people/jennifer-hung||洪錦鈺]]
+- [[people/james-hu||胡宏仁]]
+- [[people/c-y-tsai||蔡嘉寅]]
+- [[people/c-n-chen||陳建南]]
+- [[people/dr-tong-y-chen||陳東榮醫師]]
+- [[people/ching-chih-chen||陳清池]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

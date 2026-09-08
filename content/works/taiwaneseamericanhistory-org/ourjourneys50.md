@@ -119,7 +119,9 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2014-10-26 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/an-su-gao-lai||賴高安賜]]
+- [[people/m-l-chen||陳夢蘭]]
+- [[people/tah-p-b5dfddaa1e||黃蔡瑞雲]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

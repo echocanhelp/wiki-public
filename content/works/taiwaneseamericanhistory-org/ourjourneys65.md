@@ -77,7 +77,11 @@ Posted in 11/2014
 - 2014-11-23 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/charles-ting||丁昭昇]]
+- [[people/ming-che-lin||林明哲]]
+- [[people/tah-p-04e87d0c6a||郭雨新]]
+- [[people/philip-s-chen||陳伸夫]]
+- [[people/ron-chen||陳榮成]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

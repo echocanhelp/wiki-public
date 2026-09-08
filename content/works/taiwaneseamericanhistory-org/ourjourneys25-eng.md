@@ -89,7 +89,7 @@ Translated from 25. 華府台灣文化中心簡介/ 黃泰郎 /2014/09
 - 2014-09-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwanese-association-of-america||Taiwanese Association Of America]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

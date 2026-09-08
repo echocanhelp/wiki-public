@@ -53,7 +53,13 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2014-10-27 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/jason-wu||Jason Wu]]
+- [[people/may-sing-chang||May-Sing Chang]]
+- [[people/ye-ming-wu||吳怡明]]
+- [[people/david-weng||翁嘉盛]]
+- [[people/chun-chiu||邱俊邦]]
+- [[people/l-j-chen||陳柳江]]
+- [[people/may-sing-chang||黃美星]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

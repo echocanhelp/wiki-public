@@ -97,7 +97,18 @@ Translated from 37. 台灣協志會成立與大事記/紀哲嘉/2014/09
 - 2014-09-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/dr-ching-c-shir||Dr. Ching C. Shir]]
+- [[people/dr-tu-chen||Dr. Tu Chen]]
+- [[people/fang-ming-chen||Fang-Ming Chen]]
+- [[people/john-pang-yu||John Pang Yu]]
+- [[people/liang-chuan-peng||Liang Chuan Peng]]
+- [[people/maysing-huang||Maysing Huang]]
+- [[people/yu-tsai||Yu Tsai]]
+- [[organizations/democratic-progressive-party||Democratic Progressive Party]]
+- [[organizations/formosan-association-for-human-rights||Formosan Association For Human Rights]]
+- [[organizations/taiwanese-alliance-for-interculture-southern-california||Taiwanese Alliance For Interculture]]
+- [[organizations/taiwanese-american-citizens-league||Taiwanese American Citizens League]]
+- [[organizations/taiwanese-association-of-america||Taiwanese Association Of America]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

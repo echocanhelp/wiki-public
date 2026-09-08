@@ -57,7 +57,7 @@ We will introduce eight Taiwanese contemporary composers in this musical perform
 - 2014-11-10 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/elizabeth-s-chen||李秀麗]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

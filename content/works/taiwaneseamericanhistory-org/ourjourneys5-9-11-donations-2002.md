@@ -47,7 +47,8 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2014-08-09 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/john-liu||John Liu]]
+- [[people/john-chun-liu||劉醇逸]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

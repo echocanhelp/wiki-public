@@ -221,7 +221,23 @@ Translated from 38. 北加州台灣同鄉聯合會三十年回顧/石清正/2014
 - 2014-10-16 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/chen-shuibian||Chen Shui-Bian]]
+- [[people/david-weng||David Weng]]
+- [[people/john-hsieh||John Hsieh]]
+- [[people/liang-chuan-peng||Liang Chuan Peng]]
+- [[people/may-sing-chang||May-Sing Chang]]
+- [[people/philip-wu||Philip Wu]]
+- [[people/rung-fang-chen||Rung-Fang Chen]]
+- [[people/shun-hua-yu||Shun Hua Yu]]
+- [[people/tyzen-hsiao||Tyzen Hsiao]]
+- [[organizations/democratic-progressive-party||Democratic Progressive Party]]
+- [[organizations/east-bay-taiwanese-association||East Bay Taiwanese Association]]
+- [[organizations/formosan-association-for-human-rights||Formosan Association For Human Rights]]
+- [[organizations/north-america-taiwanese-womens-association||North America Taiwanese Women S Association]]
+- [[organizations/senior-taiwanese-association-of-northern-california||Senior Taiwanese Association Of Northern California]]
+- [[organizations/taiwanese-alliance-for-interculture-southern-california||Taiwanese Alliance For Interculture]]
+- [[organizations/taiwanese-american-center-of-northern-california||Taiwanese American Center Of Northern California]]
+- [[organizations/taiwanese-association-of-america||Taiwanese Association Of America]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

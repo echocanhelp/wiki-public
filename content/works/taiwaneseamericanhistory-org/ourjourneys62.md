@@ -72,7 +72,10 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2014-11-09 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/dean-chang||張怡仁]]
+- [[people/frank-lai||賴文雄]]
+- [[people/tzutsai-cheng||鄭自才]]
+- [[people/lung-chen||陳隆]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

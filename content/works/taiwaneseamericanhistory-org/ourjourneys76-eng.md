@@ -209,7 +209,20 @@ Translated from 76. 全美台灣同鄉會/吳木盛/12/2014
 - 2014-12-21 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/cheng-shen-fang||Cheng-Shen Fang]]
+- [[people/chi-chin-huang||Chi-Chin Huang]]
+- [[people/chiu-sen-wang||Chiu-Sen Wang]]
+- [[people/chun-san-lee||Chun San Lee]]
+- [[people/fang-ming-chen||Fang-Ming Chen]]
+- [[people/ho-rui-hsu||Ho Rui Hsu]]
+- [[people/jim-young||Jim Young]]
+- [[people/maysing-huang||Maysing Huang]]
+- [[people/ming-che-lin||Ming-Che Lin]]
+- [[people/minlu-chai||Minlu Chai]]
+- [[people/morgan-chang||Morgan Chang]]
+- [[people/tony-chen||Tony Chen]]
+- [[people/yi-ho-cheng||Yi-Ho Cheng]]
+- [[organizations/taiwanese-association-of-america||Taiwanese Association Of America]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

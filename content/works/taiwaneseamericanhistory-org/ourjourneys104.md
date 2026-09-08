@@ -125,7 +125,7 @@ The Movement of UN membership for Taiwan
 - 2015-02-17 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- (無具名人物/團體) — absorb 2026-09-07
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

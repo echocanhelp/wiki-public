@@ -53,7 +53,16 @@ Formosan Association For Human Rights
 - 2014-12-21 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/tina-chang||張丁蘭]]
+- [[people/henry-lee||李豐隆]]
+- [[people/edward-j-s-lin||林敬賢]]
+- [[people/tai-lin||林泰]]
+- [[people/chun-yung-lin||林純容]]
+- [[people/b-michael-yeun||楊明昊]]
+- [[people/h-l-hung||洪榮隆]]
+- [[people/ting-yee-wang||王廷宜]]
+- [[people/tah-p-d699884bcd||鄭德和]]
+- [[organizations/formosan-association-for-human-rights||Formosan Association For Human Rights]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -59,7 +59,11 @@ Posted in 02/2015
 - 2015-02-15 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/min-mei-chen||吳明美]]
+- [[people/prof-helen-lee||李雪玟教授]]
+- [[people/maysing-huang||楊黃美幸]]
+- [[people/dr-b-c-wen||溫碧謙醫師]]
+- [[people/cheng-yan-kao||高成炎]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

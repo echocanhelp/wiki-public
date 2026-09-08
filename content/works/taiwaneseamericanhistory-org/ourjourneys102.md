@@ -61,7 +61,7 @@ Posted in 09/2017
 - 2015-02-15 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/jinwun-winston-lue||呂錦文]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

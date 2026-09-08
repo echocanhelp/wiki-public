@@ -69,7 +69,11 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2014-12-01 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/wen-yih-sun||商文義]]
+- [[people/parris-hsu-cheng-chang||張旭成]]
+- [[people/judy-lin-linton||林奐均]]
+- [[people/c-y-tsai||蔡嘉寅]]
+- [[people/kim-lai-huang||黃金來]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

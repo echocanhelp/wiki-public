@@ -71,7 +71,16 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2014-09-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/morisan-lu||呂明森]]
+- [[people/morgan-chang||張富雄]]
+- [[people/eileen-chang||楊宜宜]]
+- [[people/martin-tsai||蔡明峰]]
+- [[people/maurice-hsu||許盛男醫師]]
+- [[people/dr-hong-tien-lai||賴弘典醫師]]
+- [[people/c-b-ku||辜澄彬]]
+- [[people/lung-chen||陳隆]]
+- [[people/patrick-huang||黃再添]]
+- [[people/wudong-huang||黃武東牧師]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

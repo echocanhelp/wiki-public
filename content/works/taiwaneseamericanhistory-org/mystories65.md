@@ -75,7 +75,8 @@ A question arises after I observe more the subtlety of similarity and difference
 - 2014-09-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/shwu-lih-lin||Shwu Lih Lin]]
+- [[people/shwu-lih-lin||林淑麗]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

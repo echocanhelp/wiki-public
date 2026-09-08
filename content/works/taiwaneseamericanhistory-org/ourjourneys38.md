@@ -219,7 +219,17 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2014-10-16 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/shun-hua-yu||余舜華]]
+- [[people/philip-wu||吳庭和]]
+- [[people/leon-chang||張村樑]]
+- [[people/liang-chuan-peng||彭兩泉]]
+- [[people/david-weng||翁嘉盛]]
+- [[people/nai-yuan-hu||胡乃元]]
+- [[people/linda-gail-arrigo||艾琳達]]
+- [[people/tyzen-hsiao||蕭泰然]]
+- [[people/john-hsieh||謝鎮寬]]
+- [[people/wen_chen-chen||陳文成教授]]
+- [[people/may-sing-chang||黃美星]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

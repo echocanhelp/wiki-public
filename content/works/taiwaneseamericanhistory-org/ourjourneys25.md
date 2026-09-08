@@ -85,7 +85,7 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2014-09-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- (無具名人物/團體) — absorb 2026-09-07
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

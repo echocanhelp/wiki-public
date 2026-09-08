@@ -95,7 +95,23 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2014-09-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/kin-ko||Kin Ko]]
+- [[people/huey-j-lee||李惠仁醫師]]
+- [[people/richard-lee||李正三]]
+- [[people/prof-chen-chong-lin||林建中教授]]
+- [[people/shwu-lih-lin||林淑麗]]
+- [[people/heng-liong-lin||林興隆]]
+- [[people/thomas-tzu-shen-lin||林資深博士]]
+- [[people/j-y-jackson-ko||柯哲洋]]
+- [[people/kin-ko||柯金寅]]
+- [[people/alexander-k-young||楊慶安教授]]
+- [[people/martin-tsai||蔡明峰]]
+- [[people/dr-jung-t-tsai||蔡榮聰醫師]]
+- [[people/ted-kuo||郭來哲博士]]
+- [[people/k-k-chen||陳國坤]]
+- [[people/chin-ming-chen||陳欽明醫師]]
+- [[people/patrick-huang||黃再添]]
+- [[people/dr-jacob-huang||黃正雅醫師]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -87,7 +87,10 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2014-09-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/j-p-lee||李金波]]
+- [[people/dr-chris-fan||范清亮博士]]
+- [[people/shu-ching-cheng||賴淑卿]]
+- [[people/dr-chiu-shan-chen||陳秋山博士]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

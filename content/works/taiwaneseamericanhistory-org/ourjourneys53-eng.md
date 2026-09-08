@@ -53,7 +53,14 @@ Translated from 53. 台灣會館美夢成真 / 黃美星
 - 2014-10-27 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/chun-chiu||Chun Chiu]]
+- [[people/david-weng||David Weng]]
+- [[people/jason-wu||Jason Wu]]
+- [[people/l-j-chen||L. J. Chen]]
+- [[people/may-sing-chang||May-Sing Chang]]
+- [[people/ye-ming-wu||Ye-Ming Wu]]
+- [[people/may-sing-chang||黃美星]]
+- [[organizations/taiwanese-american-center-of-northern-california||Taiwanese American Center Of Northern California]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

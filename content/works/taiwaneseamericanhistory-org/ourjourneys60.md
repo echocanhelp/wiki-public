@@ -59,7 +59,17 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2014-11-09 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/mei-fun-tsai||吳美芬]]
+- [[people/helen-wang||方惠音]]
+- [[people/ingrid-tseng||曾暎貴]]
+- [[people/vivian-y-g-fu||林郁子]]
+- [[people/t-y-ko||柯翠園]]
+- [[people/mei-li-yang||楊美麗]]
+- [[people/maysing-huang||楊黃美幸]]
+- [[people/susan-y-j-chang||程韻如]]
+- [[people/gin-ru-yeh||葉錦如]]
+- [[people/stella-landauer||陳翠玉]]
+- [[people/elena-ling||黃美惠]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

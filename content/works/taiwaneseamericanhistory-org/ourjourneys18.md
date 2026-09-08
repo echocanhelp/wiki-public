@@ -81,7 +81,8 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2014-09-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/shih-chen-hsu||許世真]]
+- [[people/fang-yuh-rita-chen||陳芳玉]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

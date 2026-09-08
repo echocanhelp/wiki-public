@@ -73,7 +73,9 @@ YouTube   —   http://www.youtube.com/user/ntuche/
 - 2015-01-25 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/li-ying-shang||Li-Ying Shang]]
+- [[people/li-ying-shang||商麗鶯]]
+- [[organizations/irvine-taiwanese-presbyterian-church||Irvine Taiwanese Presbyterian Church]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

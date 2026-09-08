@@ -85,7 +85,11 @@ The Front View of Shogun 27, Kendall Park, NJ, 2017 (將軍27的前門)
 - 2014-09-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/morisan-lu||呂明森]]
+- [[people/richard-lee||李正三]]
+- [[people/dr-ju-cheng-lee||李汝城醫師]]
+- [[people/tah-p-3bba902925||林忠勝]]
+- [[people/ted-kuo||郭來哲博士]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

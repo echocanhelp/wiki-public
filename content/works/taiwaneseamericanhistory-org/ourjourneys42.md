@@ -59,7 +59,9 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2014-10-16 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/kin-ko||柯金寅]]
+- [[people/martin-tsai||蔡明峰]]
+- [[people/dr-jung-t-tsai||蔡榮聰醫師]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

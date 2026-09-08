@@ -85,7 +85,17 @@ Catherine Tsai has been the Clerk of the Ses¬sion for many years. Driving 2 hou
 - 2014-10-16 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/ralph-su||Ralph Su]]
+- [[people/chao-nan-liu||劉照男]]
+- [[people/keng-chi-wu||吳耿志]]
+- [[people/wen-h-chang||張文旭]]
+- [[people/irene-lee||李智惠]]
+- [[people/c-l-hong||洪健棣牧師]]
+- [[people/rev-martin-c-wang||王成章牧師]]
+- [[people/rev-c-l-tong||董俊蘭牧師]]
+- [[people/charles-tsai||蔡其芳]]
+- [[people/rev-ben-m-c-hsieh||謝敏川牧師]]
+- [[people/tong-liang-larry-chen||陳東亮]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
