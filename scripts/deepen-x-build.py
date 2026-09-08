@@ -7,8 +7,11 @@ from pathlib import Path
 
 REPO = Path('/home/leedt/echo-system')
 OUT = REPO / 'knowledge/operational'
-SLICE = 6
-NCARDS = 12
+# 2026-09-08 audit: at conc-10 agg ~110 tok/s => ~7-10 tok/s/worker. 6-page
+# cards needed ~20 min; 900s wall killed 9/10 mid-page. 4 pages fits 1500s
+# with 60% margin; iteration budget (30) still comfortable at <=2 calls/page.
+SLICE = 4
+NCARDS = 16
 
 rows = []
 for pat in ('content/people/*.md', 'content/organizations/*.md'):
@@ -63,18 +66,20 @@ for i in range(NCARDS):
         "kanban_complete counts as a crash. Do NOT publish."
     )
     r = subprocess.run(['hermes', 'kanban', 'create',
-                        f'DEEPEN-X{i+1}: deepen {len(chunk)} thin pages (protocol-fixed)',
+                        title,
                         '--assignee', 'pinto', '--body', 'pending',
-                        '--max-runtime', '900'],
+                        '--max-runtime', '1500'],
                        capture_output=True, text=True)
     tid = re.search(r't_[0-9a-f]+', r.stdout)
     if tid:
-        # bake the real task id into the mandated complete command
-        subprocess.run(
-            ['sqlite3', str(Path.home() / '.hermes/kanban.db'),
-             "update tasks set body=? where id=?",
-             body_tpl.replace('__TASKID__', tid.group(0)), tid.group(0)],
-            capture_output=True)
+        # bake the real task id into the mandated complete command.
+        # NOTE: sqlite3 CLI does not bind `?` args — the old call silently
+        # left bodies at 'pending' (un-baked twins, 2026-09-08). Use Python.
+        kc = sqlite3.connect(str(Path.home() / '.hermes/kanban.db'))
+        kc.execute("update tasks set body=? where id=?",
+                   (body_tpl.replace('__TASKID__', tid.group(0)), tid.group(0)))
+        kc.commit()
+        kc.close()
         subprocess.run(['hermes', 'kanban', 'promote', tid.group(0)],
                        capture_output=True)
         made += 1

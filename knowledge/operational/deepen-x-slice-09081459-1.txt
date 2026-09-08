@@ -1,0 +1,4 @@
+organizations/elder-john-lai-archives.md
+people/shante-shawsean-chen.md
+people/gene-tsai.md
+people/tzetsai-eric-shen.md
