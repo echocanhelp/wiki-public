@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-07T04:45:33.618770",
-  "pages_scanned": 2884,
+  "generated_at": "2026-09-08T04:45:34.132406",
+  "pages_scanned": 2885,
   "capped": true,
   "cap_top_n": 80,
   "summary": {
     "co_citation_count": 1115,
-    "co_mention_count": 6172,
+    "co_mention_count": 6175,
     "shared_tags_count": 0,
     "orphan_folder_count": 2,
     "kept_co_citation": 80,
@@ -39,7 +39,7 @@
         "shared_target": "organizations/tah-foundation",
         "page1_title": "AJ WANG FOUNDATION – SCHOLARSHIP FUND",
         "page2_title": "American Citizens for Taiwan (西雅圖美台會)",
-        "shared_targets_count": 2549
+        "shared_targets_count": 2550
       },
       {
         "type": "CO-CITATION",
@@ -48,7 +48,7 @@
         "shared_target": "organizations/tah-foundation",
         "page1_title": "AJ WANG FOUNDATION – SCHOLARSHIP FUND",
         "page2_title": "American Citizens of Taiwan Origin ACTO (美台公民協會)",
-        "shared_targets_count": 2549
+        "shared_targets_count": 2550
       },
       {
         "type": "CO-CITATION",
@@ -57,7 +57,7 @@
         "shared_target": "organizations/tah-foundation",
         "page1_title": "AJ WANG FOUNDATION – SCHOLARSHIP FUND",
         "page2_title": "Ann Arbor Taiwanese Association (安雅堡)",
-        "shared_targets_count": 2549
+        "shared_targets_count": 2550
       },
       {
         "type": "CO-CITATION",
@@ -147,7 +147,7 @@
         "shared_target": "organizations/presbyterian-church-in-taiwan",
         "page1_title": "Chunglun Presbyterian Church (中崙教會)",
         "page2_title": "Elder John Lai's Archives (賴永祥長老史料庫)",
-        "shared_targets_count": 108
+        "shared_targets_count": 109
       },
       {
         "type": "CO-CITATION",
@@ -156,7 +156,7 @@
         "shared_target": "organizations/presbyterian-church-in-taiwan",
         "page1_title": "Chunglun Presbyterian Church (中崙教會)",
         "page2_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "shared_targets_count": 108
+        "shared_targets_count": 109
       },
       {
         "type": "CO-CITATION",
@@ -165,7 +165,7 @@
         "shared_target": "organizations/presbyterian-church-in-taiwan",
         "page1_title": "Chunglun Presbyterian Church (中崙教會)",
         "page2_title": "Good Shepherd Taiwanese Presbyterian Church",
-        "shared_targets_count": 108
+        "shared_targets_count": 109
       },
       {
         "type": "CO-CITATION",
@@ -399,7 +399,7 @@
         "shared_target": "organizations/formosan-presbyterian-church-in-los-angeles",
         "page1_title": "Democratic Progressive Party (民主進步黨)",
         "page2_title": "Good Shepherd Taiwanese Presbyterian Church",
-        "shared_targets_count": 61
+        "shared_targets_count": 63
       },
       {
         "type": "CO-CITATION",
@@ -408,7 +408,7 @@
         "shared_target": "organizations/formosan-presbyterian-church-in-los-angeles",
         "page1_title": "Democratic Progressive Party (民主進步黨)",
         "page2_title": "Irvine Taiwanese Presbyterian Church (爾灣台灣基督長老教會 (ITPC))",
-        "shared_targets_count": 61
+        "shared_targets_count": 63
       },
       {
         "type": "CO-CITATION",
@@ -579,7 +579,7 @@
         "shared_target": "organizations/good-shepherd-taiwanese-presbyterian-church",
         "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
         "page2_title": "National Taiwanese Presbyterian Council (NTPC)",
-        "shared_targets_count": 53
+        "shared_targets_count": 54
       },
       {
         "type": "CO-CITATION",
@@ -588,7 +588,7 @@
         "shared_target": "organizations/good-shepherd-taiwanese-presbyterian-church",
         "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
         "page2_title": "Presbyterian Church in Taiwan (PCT)",
-        "shared_targets_count": 53
+        "shared_targets_count": 54
       },
       {
         "type": "CO-CITATION",
@@ -723,7 +723,7 @@
         "shared_target": "people/prof-sze-ya-yeh",
         "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
         "page2_title": "Grace H. Yeh (張信惠)",
-        "shared_targets_count": 4
+        "shared_targets_count": 5
       },
       {
         "type": "CO-CITATION",
@@ -732,7 +732,7 @@
         "shared_target": "people/prof-sze-ya-yeh",
         "page1_title": "Grace H. Yeh (張信惠)",
         "page2_title": "taiwaneseamericanhistory.org (TAH Foundation)",
-        "shared_targets_count": 4
+        "shared_targets_count": 5
       }
     ],
     "co_mention": [

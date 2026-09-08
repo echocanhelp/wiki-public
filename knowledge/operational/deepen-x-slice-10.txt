@@ -1,0 +1,6 @@
+people/james-laidlaw-maxwell.md
+people/meifeng-tsai.md
+people/samantha-yu.md
+people/joseph-teng.md
+people/jolie-chenn.md
+people/danny-chen.md

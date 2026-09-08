@@ -1,0 +1,6 @@
+people/vera-yang.md
+people/shawn-yeh.md
+people/peter-lin.md
+people/joyce-yeh.md
+people/phoenix-ko.md
+people/he-sumei.md

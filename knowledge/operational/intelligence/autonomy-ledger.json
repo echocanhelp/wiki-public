@@ -1,19 +1,19 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "standards_version": 10,
   "auto_apply_agent": false,
   "nodes": {
     "janitor.first_mention": {
-      "n": 3,
+      "n": 0,
       "enabled": true
     },
     "janitor.related": {
-      "n": 0
+      "n": 4
     },
     "analyzer": {
-      "scanned": 2878,
-      "queued": 12,
-      "suppressed": 1748
+      "scanned": 2879,
+      "queued": 1,
+      "suppressed": 1828
     },
     "enrichment_writes": {
       "n": 0,
@@ -23,7 +23,7 @@
       "n": 40
     },
     "kanban.blocked": {
-      "n": 12
+      "n": 21
     },
     "kanban.auto_go": {
       "enabled": false
@@ -39,10 +39,10 @@
     "cron.fail": []
   },
   "telegram_auto_lines": [
-    "✅ AUTO first-mention 3 page(s)",
-    "✅ AUTO analyzer scanned 2878 queued 12 suppressed 1748",
+    "✅ AUTO related-pages 4",
+    "✅ AUTO analyzer scanned 2879 queued 1 suppressed 1828",
     "🟡 QUEUE janitor HOLD leftover 40",
-    "🟡 QUEUE kanban blocked 12"
+    "🟡 QUEUE kanban blocked 21"
   ],
   "cron_fail_names": []
 }
