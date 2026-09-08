@@ -10,7 +10,7 @@ tags:
   - PCT
   - Taiwan
 verification_status: pending
-last_reviewed: 2026-08-18
+last_reviewed: 2026-09-08
 ---
 # James Laidlaw Maxwell (馬雅各)
 
@@ -47,6 +47,15 @@ Laijohn TOC v2 — bodies not archived:
 2. [維基百科：馬雅各](https://zh.wikipedia.org/wiki/馬雅各)
 3. [[organizations/presbyterian-church-in-taiwan||PCT]] — 1865 founding date
 4. [[sources/laijohn-com||laijohn.com]] — 史話 titles
+
+## Medical mission (vault-sourced)
+- TAH Our Journeys essay [[works/taiwaneseamericanhistory-org/ourjourneys291||ourjourneys291]]: 1865 年由長老教會派來的蘇格蘭醫師馬雅各 in 台南 and 高雄 醫療傳道 — "種下第一顆西醫的種子"; northern mission later led by [[people/george-leslie-mackay||馬偕]]
+- [[organizations/presbyterian-church-in-taiwan||PCT]] page: arrived **Kaohsiung 1865**; first congregation **Tainan, 1865-06-16**; **Sin-lâu Hospital** recorded there as Taiwan's first modern Western-style medical facility
+- [[people/george-leslie-mackay||Mackay]] page: 1872 — Maxwell, already in the south, advised Mackay to begin near Tamsui
+
+## Vault mentions
+- [[organizations/presbyterian-church-in-taiwan||PCT 教會史]] — clock 1865 Maxwell / 1872 Mackay
+- [[people/john-lai||John Lai]] and [[organizations/elder-john-lai-archives||Elder John Lai Archives]] — 教會史話 trail (201 名醫神技, 301 馬雅各紀念教會史)
 
 ## Related Pages
 - [[people/george-leslie-mackay||馬偕]]

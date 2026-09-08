@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-08
 ---
 # Chen-Ming Wang (王建民)
 
@@ -34,6 +34,19 @@ Accomplishment
 
 - **Wife:** 吳嘉姈
 - **Son:** Justin Jesse Wang(王鵬硯), Wellington Wang(王照升)
+
+## Timeline
+- 1980 — born in Tainan, Taiwan; 台北市立體育學院 (Taipei City Sports College)
+- 2005–2009 — New York Yankees, professional pitcher
+- 2011–2012 — Washington Nationals; 2013 — Toronto Blue Jays; 2016 — Kansas City Royals
+- 2018– — Chinese Professional Baseball League, pitcher coach
+- 2018 — documentary 《後勁：王建民》(*Late Life: The Chien-Ming Wang Story*) nominated for 金馬 Golden Horse Best Documentary
+
+## References in vault
+- [[works/taiwaneseamericanhistory-org/late-life-the-chien-ming-wang-story||紀錄片「後勁-王建民」]]
+- [[works/taiwaneseamericanhistory-org/127-late-life||127. LATE LIFE: THE CHIEN-MING WANG STORY | 後勁：王建民 | OFFICIAL TEASER]]
+- [[works/taiwaneseamericanhistory-org/videos114||114. Chen-Min Wang【台灣演義】台灣之光．王建民 06/14/2013]]
+- [[works/taiwaneseamericanhistory-org/ourjourneys162||162. 聖地牙哥台灣中心開幕典禮與慶祝音樂會/2015/08]]
 
 
 ## Sources

@@ -32,7 +32,7 @@ Violinist Paul Pai-Shih Lee, a Taiwan born Taiwanese-American, started his music
 
 ## Family
 
-- **Wife:** Ching-Ming Cheng 鄭靜旻
+- **Wife:** [[people/ching-ming-cheng||Ching-Ming Cheng 鄭靜旻]]
 
 
 ## Sources

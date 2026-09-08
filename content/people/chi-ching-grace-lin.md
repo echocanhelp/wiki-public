@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-08
 ---
 # Chi-Ching Grace Lin (林季靜)
 
@@ -32,6 +32,18 @@ Taiwanese percussionist Chi-Ching Grace Lin maintains a varied chamber music and
 ## Family
 
 _No filled family fields on the TAH profile._
+## Timeline
+- Chamber/orchestra career in the New York City area: Dicapo Opera, Metropolitan Opera Orchestra, Teatro Grattacielo Opera, National Choral, Binghamton Philharmonic, Riverside Symphony, New York Asian Symphony Orchestra, New Amsterdam Orchestra, West Field Symphony, Colonial Symphony, Park Chamber Symphony, Centre Symphony, Metro Chamber Orchestra — at Lincoln Center, Carnegie Hall, Merkin Hall, and venues in Philadelphia, Washington DC, New Jersey, Hong Kong, China and Japan
+- 2001, 2002 — marimba soloist, Day of Percussion Festival NYC (excellent performance of chamber ensemble award)
+- 2008 — premiered Andrew Beall's percussion concerto at Lincoln Center with CYCNY; appears on Beall's solo percussion album *Deliverance*
+- Chamber groups: Talujon Percussion, Tam Dun Percussion, 20th Century Contemporary Ensemble
+- M.S. 打擊演奏 (Percussion Performance), 紐約市立大學 (CUNY)
+
+## References in vault
+- [[works/taiwaneseamericanhistory-org/408-chi-ching-grace-lin-e6-9e-97-e5-ad-a3-e9-9d-9c-201505||408. Chi-Ching Grace Lin 林季靜 / 2015/05]] — TAH encyclopedia #408
+- [[works/taiwaneseamericanhistory-org/93-chi-ching-grace-lin-e6-9e-97-e5-ad-a3-e9-9d-9c-percussionist||93. Chi-Ching Grace Lin 林季靜, Percussionist/2014/12]] — TAH encyclopedia #93
+- [[works/taiwaneseamericanhistory-org/ourjourneys306||306. 紐約幼獅青少年管弦樂團的簡介 / 方秀蓉 /08/2017]]
+
 
 ## Sources
 - [TAH #408 encyclopedia: 408. Chi-Ching Grace Lin 林季靜 / 2015/05](https://taiwaneseamericanhistory.org/408-chi-ching-grace-lin-%e6%9e%97%e5%ad%a3%e9%9d%9c-201505/)

@@ -25,6 +25,10 @@ last_reviewed: 2026-07-16
 - **Content priority A:** Named on Taiwan Center class-information page (`taiwancenter-org-class-information.md`)
 - **Hub:** [[sources/taiwancenter-org||taiwancenter.org]]
 - **Content priority C:** Full biography not published on site
+## Teaching
+
+- Co-instructor, 華文 (Chinese) class at [[organizations/taiwan-center||Taiwan Center Taiwan School]] — Saturday 15:00–16:00, $40/session, taught jointly with [[people/april-lin||April Lin (林淑卿)]] and [[people/he-sumei||He Sumei (何素美)]] (published course schedule mirrored on the Taiwan Center page)
+
 
 ## Related Pages
 
@@ -43,7 +47,6 @@ last_reviewed: 2026-07-16
 - [[people/lisa-liu||Lisa Liu (劉雅薇)]]
 - [[people/paul-chen||Paul Chen (陳柏宇)]]
 - [[people/meifeng-tsai||Meifeng Tsai (王梅鳳)]]
-- [[people/april-lin||April Lin (林淑卿)]]
 - [[people/sharon-huang||Sharon Huang (黃馨瑤)]]
 - [[people/shawn-yeh||Shawn Yeh (葉上毅)]]
 - [[people/danny-chen||Danny Chen (陳啟耕)]]
@@ -58,7 +61,6 @@ last_reviewed: 2026-07-16
 - [[people/joseph-teng||Joseph Teng (曾英銘)]]
 - [[people/steven-wu||Steven Wu (吳尚誠)]]
 - [[people/lisa-hou||Lisa Hou (侯乃文)]]
-- [[people/april-lin||April Lin (林淑卿)]]
 - [[people/he-sumei||He Sumei (何素美)]]
 - [[people/wei-boji||Wei Boji (魏博基)]]
 - [[people/xu-shitan||Xu Shitan (徐士坦)]]

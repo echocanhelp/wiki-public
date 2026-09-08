@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-07-16
+last_reviewed: 2026-09-08
 ---
 # Joseph Teng (曾英銘)
 
@@ -25,6 +25,11 @@ last_reviewed: 2026-07-16
 - **Content priority A:** Name and role on https://www.taiwancenter.org/board (archived `taiwancenter-org-board.md`)
 - **Hub:** [[sources/taiwancenter-org||taiwancenter.org]]
 - **Content priority C:** Full biography not in this source set
+
+## Board record (vault-sourced)
+- **團體董事** seat confirmed only on the archived taiwancenter.org/board snapshot; the sponsoring organization is **not stated** on the board page — do not guess it
+- **Not** among the ten 團體董事 named in the 2018 第11屆 會訊 (`20201118162555…`), so this seat post-dates 2018 or sits in a later cycle
+- Board archive snapshot: `knowledge/web-archives/taiwancenter-org-board.md`
 
 ## Related Pages
 

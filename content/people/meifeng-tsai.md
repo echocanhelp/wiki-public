@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-07-16
+last_reviewed: 2026-09-08
 ---
 # Meifeng Tsai (王梅鳳)
 
@@ -25,6 +25,14 @@ last_reviewed: 2026-07-16
 - **Content priority A:** Name and role on https://www.taiwancenter.org/board (archived `taiwancenter-org-board.md`)
 - **Hub:** [[sources/taiwancenter-org||taiwancenter.org]]
 - **Content priority C:** Full biography not in this source set
+
+## Board record (vault-sourced)
+- **2018** — elected 個人董事 at the 第11屆 會員大會 (會訊 2018-06, TJ archive `20201118162555…`): 20 個人董事, 13 新任 — the largest board turnover in 會館 history
+- **2021-05** — co-initiator, 南加州僑界支持台灣參與WHA聯合聲明 (listed as 王梅鳯)
+- **2025** — thanked as **僑務委員** among 台美人傳統週 sponsors (TJ archive `20250518185808…`)
+
+- **2024-11** — named among the **38位董事** in the 第26周年年會晚宴 announcement (TJ archive `20250420093345…`)
+- Board archive snapshot: `knowledge/web-archives/taiwancenter-org-board.md`
 
 ## Related Pages
 

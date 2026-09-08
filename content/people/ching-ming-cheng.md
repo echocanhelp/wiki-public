@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-08
 ---
 # Ching-Ming Cheng (鄭靜旻)
 
@@ -38,7 +38,16 @@ Pianist Dr. Ching-Ming Cheng, a native of Taiwan. Dr. Cheng holds a bachelor’s
 
 ## Family
 
-- **Husband:** Paul Pai-Shih Lee 李百仕
+- **Husband:** [[people/paul-pai-shih-lee||Paul Pai-Shih Lee (李百仕)]] — violinist, also profiled in the TAH Who's Who
+
+## Performances & Recognition
+- Silver medal, 2013 International Keyboard Odyssiad Piano Competition (Colorado)
+- Performances at Cal. State San Marcos, North American Taiwanese Professor Association retreats, the Taiwan Center in San Diego, and concert series in Taiwan
+- Active member: Music Teacher Association of California, Music Teacher National Association, California Association of Professional Music Teachers; frequent competition adjudicator
+
+## References in vault
+- [[works/taiwaneseamericanhistory-org/85-ching-ming-cheng-e9-84-ad-e9-9d-9c-e6-97-bb||85. Ching-Ming Cheng 鄭靜旻]] — TAH encyclopedia #85
+- [[works/taiwaneseamericanhistory-org/49-ching-ming-cheng-e9-84-ad-e9-9d-9c-e6-97-bb-piano||49. Ching-Ming Cheng 鄭靜旻, Pianist/2014/10]] — TAH encyclopedia #49
 
 
 ## Sources

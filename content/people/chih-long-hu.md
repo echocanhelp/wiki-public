@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-08
 ---
 # Chih-Long Hu (胡志龍)
 
@@ -34,6 +34,17 @@ A native a Taiwan, Chih-Long Hu’s performance career began to take off after r
 ## Family
 
 _No filled family fields on the TAH profile._
+## Timeline
+- 1998 — B.S. Civil Engineering, 台灣大學; later B.M., 國立台北藝術大學; Ph.D. (Performance), 密西根大學
+- Career awards: Taipei National Concert Hall Arising Star; Chi-Mei Artist Award; prizes at the Mauro Monopoli International Piano Competition (Italy), Concurs Internacional de Piano d'Escaldes-Engordany (Andorra), Takamatsu International Piano Competition (Japan), Russian Music International Piano Competition (San Jose)
+- Broadcast on NPR "Performance Today"; televised in Taiwan, China and Japan
+- 2009 — CD *Formosa Caprices* nominated for 金曲 Golden Melody "Best Crossover Album"; Hu nominated "Best Performer"
+- Current: 東田納西州立大學 (East Tennessee State University) 音樂系助理教授
+
+## References in vault
+- [[works/taiwaneseamericanhistory-org/15109||444. Chih-Long Hu 胡志龍 / 2015/06]] — TAH encyclopedia #444
+- [[works/taiwaneseamericanhistory-org/210-hsin-yun-huang-e9-bb-84-e5-bf-83-e8-8a-b8-viola-201506||210. Chih-Long Hu 胡志龍, Pianist  / 2015/06]] — TAH encyclopedia #210 (source-site URL slug points at the 黃心芸 entry — site labeling error)
+
 
 ## Sources
 - [TAH #444 encyclopedia: 444. Chih-Long Hu 胡志龍 / 2015/06](https://taiwaneseamericanhistory.org/444/)
