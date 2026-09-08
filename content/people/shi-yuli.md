@@ -25,6 +25,7 @@ last_reviewed: 2026-07-16
 - **Content priority A:** Named on Taiwan Center class-information page (`taiwancenter-org-class-information.md`)
 - **Hub:** [[sources/taiwancenter-org||taiwancenter.org]]
 - **Content priority C:** Full biography not published on site
+
 ## Teaching
 
 - Co-instructor, 華文 (Chinese) class at [[organizations/taiwan-center||Taiwan Center Taiwan School]] — Saturday 15:00–16:00, $40/session, taught jointly with [[people/april-lin||April Lin (林淑卿)]] and [[people/he-sumei||He Sumei (何素美)]] (published course schedule mirrored on the Taiwan Center page)
