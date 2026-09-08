@@ -8,7 +8,7 @@ tags:
   - hotelier
   - farmer
 verification_status: pending
-last_reviewed: 2026-07-23
+last_reviewed: 2026-09-08
 ---
 # 陳文學 (Chen Wenxue)
 

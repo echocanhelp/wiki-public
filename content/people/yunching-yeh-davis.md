@@ -9,7 +9,7 @@ tags:
   - foreword-author
   - 2025-republication
 verification_status: published
-last_reviewed: 2026-07-17
+last_reviewed: 2026-09-08
 ---
 # Dr. Yunching Yeh Davis (葉芸青)
 

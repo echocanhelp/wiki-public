@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-24
+last_reviewed: 2026-09-08
 ---
 # Shante Shaw Sean Chen (陳善哲)
 

@@ -8,11 +8,11 @@ tags:
   - tahs-publication-2017
   - changhua-girls-normal
 verification_status: pending
-last_reviewed: 2026-07-20
+last_reviewed: 2026-09-08
 ---
 # Lin Qiong-xian (林瓊仙)
 
-**Lin Qiong-xian** (林瓊仙) was a prominent member of the Fengyuan family and the mother of biochemist 廖述宗 (Liao Shu-zong). She was known for her热心公益 (enthusiasm for public welfare), matchmaking skills, and dedication to her family.
+**Lin Qiong-xian** (林瓊仙) was a prominent member of the Fengyuan family and the mother of biochemist [[people/liao-shu-zong||廖述宗 (Liao Shu-zong)]]. She was known for her热心公益 (enthusiasm for public welfare), matchmaking skills, and dedication to her family.
 
 ## Identity Snapshot
 
@@ -31,11 +31,11 @@ Lin Qiong-xian came from a prominent family in 豐原 (Fengyuan), Taiwan. She gr
 
 ## Public Service and Community Work
 
-She was known for being 热心公益 (enthusiastically involved in public welfare causes). Beyond her community work, she also taught art at a school in Tainan, following in the artistic spirit of her husband 廖繼春.
+She was known for being 热心公益 (enthusiastically involved in public welfare causes). Beyond her community work, she also taught art at a school in Tainan, following in the artistic spirit of her husband [[people/liao-ji-chun||廖繼春]].
 
 ## Matchmaking and Family
 
-Lin Qiong-xian was skilled at matchmaking. When her son 廖述宗 received his PhD from the US without a wife, she took matters into her own hands. She arranged a meeting with a fellow townsman's daughter who was coming to Chicago for graduate studies — resulting in the marriage of 廖述宗 to 郭淑卿 (Guo Shu-qing) in 1960.
+Lin Qiong-xian was skilled at matchmaking. When her son 廖述宗 received his PhD from the US without a wife, she took matters into her own hands. She arranged a meeting with a fellow townsman's daughter who was coming to Chicago for graduate studies — resulting in the marriage of [[people/liao-shu-zong||廖述宗]] to [[people/guo-shu-qing||郭淑卿 (Guo Shu-qing)]] in 1960.
 
 ## Family Life
 

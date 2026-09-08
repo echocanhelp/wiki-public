@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-08
 ---
 # Dr. Fu-Chen Lo (羅福全博士)
 
@@ -19,7 +19,7 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-3. President of Taiwanese Association of America / Greater Philadelphia Chapter (大費城台灣同鄉會會長) 1964
+3. President of [[organizations/taiwanese-association-of-america||Taiwanese Association of America]] / Greater Philadelphia Chapter (大費城台灣同鄉會會長) 1964
 
 <!-- tah-tables:start -->
 ## Education
