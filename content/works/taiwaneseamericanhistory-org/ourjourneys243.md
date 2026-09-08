@@ -52,7 +52,8 @@ Posted in 08/2016
 - 2016-08-26 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/karen-lin]]
+- [[people/pearl-pi-chu-yang-wu]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -105,7 +105,8 @@ Posted in 06/2017
 - 2017-06-12 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/dr-taitzer-wang]]
+- [[people/m-k-wei]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

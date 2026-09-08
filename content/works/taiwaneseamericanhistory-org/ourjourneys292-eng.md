@@ -197,7 +197,11 @@ Translated from 292. 早年匹茲堡台灣同鄉會簡介與歷屆會長考證 /
 - 2017-06-12 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwanese-association-of-america]]
+- [[people/cheng-long-tsai]]
+- [[people/daniel-ko]]
+- [[people/dr-binsiong-ou]]
+- [[people/tony-chen]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

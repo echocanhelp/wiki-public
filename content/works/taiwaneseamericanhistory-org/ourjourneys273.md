@@ -105,7 +105,7 @@ Posted in 01/2017
 - 2017-01-23 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwanese-association-of-america]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

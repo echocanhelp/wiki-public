@@ -153,7 +153,8 @@ Posted in 08/2016
 - 2016-08-09 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/cherng-jia-huang]]
+- [[people/yang-yuanxun]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

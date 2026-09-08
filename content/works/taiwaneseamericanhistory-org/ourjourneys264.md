@@ -41,7 +41,8 @@ Posted in 11/2016
 - 2016-11-14 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/ken-lee]]
+- [[people/wang-shufen]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

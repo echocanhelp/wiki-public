@@ -47,7 +47,7 @@ Posted in 09/2016
 - 2016-09-21 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/yung-hwa-hsu]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

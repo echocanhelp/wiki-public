@@ -51,7 +51,7 @@ Posted in 07/2017
 - 2017-07-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/ho-chie-tsai]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -149,7 +149,20 @@ Posted in 05/2017
 - 2017-05-18 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwan-hakka-association-for-public-affairs-in-north-america]]
+- [[people/c-c-chung]]
+- [[people/cai-yingwen]]
+- [[people/clyde-kiang]]
+- [[people/dr-chanchi-lee]]
+- [[people/dr-jen-yih-chu]]
+- [[people/frank-m-hsu]]
+- [[people/joyce-weng]]
+- [[people/kwei-yang-ben-chang]]
+- [[people/lindayi-fang-yau]]
+- [[people/prof-w-s-william-wei]]
+- [[people/tah-p-8c33cb949b]]
+- [[people/thomas-shu]]
+- [[people/tsai-ing-wen]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

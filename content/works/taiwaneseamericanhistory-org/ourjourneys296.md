@@ -212,7 +212,13 @@ Lin, C.D. 林啓東
 - 2017-06-20 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/bob-in-yu-yang]]
+- [[people/dr-kun-t-liao]]
+- [[people/h-n-tong]]
+- [[people/jing-wen-yang]]
+- [[people/mark-jong]]
+- [[people/min-kao]]
+- [[people/paul-lin]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

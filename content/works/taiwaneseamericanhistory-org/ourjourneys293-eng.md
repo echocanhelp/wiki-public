@@ -107,7 +107,9 @@ Taiwanese Association of Cincinnati Taiwan Center, Cincinnati, OH/1995 (provided
 - 2017-06-12 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwanese-association-of-cincinnati]]
+- [[people/dr-s-t-cheng]]
+- [[people/m-k-wei]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

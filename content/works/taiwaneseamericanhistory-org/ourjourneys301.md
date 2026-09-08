@@ -143,7 +143,18 @@ Posted in 07/2017
 - 2017-07-10 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/chien-an-chen]]
+- [[people/fang-ming-chen]]
+- [[people/ing-hui-lai]]
+- [[people/ingrid-chun]]
+- [[people/joli-wu]]
+- [[people/li-chan-chen-maxham]]
+- [[people/li-fa-xie]]
+- [[people/si-zhi-chen]]
+- [[people/symeon-woo]]
+- [[people/wu-lipei]]
+- [[people/yang-ziqing]]
+- [[people/zoe-huang]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

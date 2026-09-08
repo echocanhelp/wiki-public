@@ -51,7 +51,8 @@ Posted in 10/2016
 - 2016-10-25 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/chen-wenshi]]
+- [[people/stone-chen]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

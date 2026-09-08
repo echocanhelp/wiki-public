@@ -73,7 +73,14 @@ Translated from 304. 心心念念一間厝 紐約台灣會館起家 / 黃兆平 
 - 2017-07-21 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/democratic-progressive-party]]
+- [[organizations/new-york-taiwan-center]]
+- [[organizations/overseas-community-affairs-council]]
+- [[people/chen-shuibian]]
+- [[people/fon-may-fan]]
+- [[people/frank-hsieh]]
+- [[people/patrick-huang]]
+- [[people/tsai-ing-wen]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

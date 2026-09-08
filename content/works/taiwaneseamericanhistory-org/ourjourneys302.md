@@ -55,7 +55,8 @@ Posted in 07/2017
 - 2017-07-11 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/kang-lu-wang]]
+- [[people/tsan-hung-george-chang]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

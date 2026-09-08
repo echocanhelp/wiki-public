@@ -659,7 +659,25 @@ Posted in 10/2016
 - 2016-10-10 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/alan-t-chen]]
+- [[people/andre-yang]]
+- [[people/c-c-lin]]
+- [[people/dr-bernard-tsai]]
+- [[people/dr-fu-tong-hsu]]
+- [[people/dr-jia-rhon-chen]]
+- [[people/dr-tan-sun-mark-chen]]
+- [[people/dr-wayne-lung-wang]]
+- [[people/dr-yeongchi-wu]]
+- [[people/gou-chung-chi]]
+- [[people/heng-liong-lin]]
+- [[people/huang-gen-shen]]
+- [[people/maysing-huang]]
+- [[people/patrick-huang]]
+- [[people/prof-ken-s-huang]]
+- [[people/prof-shiou-ping-liao]]
+- [[people/rue-lin-hung]]
+- [[people/sim-ti-lim]]
+- [[people/strong-chuang]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

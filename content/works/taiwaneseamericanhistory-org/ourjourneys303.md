@@ -89,7 +89,9 @@ Posted in 07/2017
 - 2017-07-19 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/north-america-taiwanese-womens-association]]
+- [[organizations/north-america-taiwanese-womens-association-kansas-chapter]]
+- [[organizations/taiwanese-heritage-society-of-houston]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

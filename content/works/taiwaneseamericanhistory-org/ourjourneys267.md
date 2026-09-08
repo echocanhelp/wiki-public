@@ -178,7 +178,7 @@ Posted in 11/2016
 - 2016-11-21 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/wudong-huang]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

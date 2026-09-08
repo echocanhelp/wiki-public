@@ -116,7 +116,8 @@ Posted in 08/2017
 - 2017-08-15 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/hsiu-fang-susan-liu]]
+- [[people/yang-yuanxun]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

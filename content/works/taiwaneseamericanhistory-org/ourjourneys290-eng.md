@@ -69,7 +69,12 @@ Translated from 290. 北美臺灣客家公共事務協會
 - 2017-05-18 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwan-hakka-association-for-public-affairs-in-north-america]]
+- [[people/chen-shuibian]]
+- [[people/clyde-kiang]]
+- [[people/frank-m-hsu]]
+- [[people/joyce-weng]]
+- [[people/tsai-ing-wen]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

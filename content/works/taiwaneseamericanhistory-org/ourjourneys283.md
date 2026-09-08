@@ -115,7 +115,9 @@ Posted in 04/2017
 - 2017-04-28 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/dr-mu-sheng-wu]]
+- [[people/peter-chiu]]
+- [[people/wenhsiung-luke-huang]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

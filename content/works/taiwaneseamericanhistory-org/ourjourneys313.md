@@ -53,7 +53,8 @@ Posted in 09/2017
 - 2017-09-27 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/min-kao]]
+- [[people/yea-hwang-uang]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

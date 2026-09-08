@@ -63,7 +63,9 @@ Posted in 03/2017
 - 2017-03-21 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/united-formosans-for-independenceufi]]
+- [[people/bei-hung-kuo]]
+- [[people/lung-chen]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

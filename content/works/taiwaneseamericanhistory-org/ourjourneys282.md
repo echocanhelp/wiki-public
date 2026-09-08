@@ -53,7 +53,8 @@ Posted in 04/2017
 - 2017-04-12 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/frank-t-shu]]
+- [[people/professor-schuman-s-tu]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

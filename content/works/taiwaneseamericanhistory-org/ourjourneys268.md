@@ -95,7 +95,23 @@ Posted in 11/2016
 - 2016-11-23 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/cheryl-lin-hong]]
+- [[people/ching-fen-hsiao]]
+- [[people/chiung-hsiung-ou]]
+- [[people/dr-amy-h-kuo]]
+- [[people/dr-franklin-fong-ming-lee]]
+- [[people/dr-teng-lung-hsu]]
+- [[people/elizabeth-s-chen]]
+- [[people/guang-xiong-ling]]
+- [[people/hui-mei-lin]]
+- [[people/morgan-chang]]
+- [[people/powen-wang]]
+- [[people/prof-chin-chu-lin-m-d]]
+- [[people/rev-j-m-hsu]]
+- [[people/rev-james-i-cheng]]
+- [[people/rev-martin-c-wang]]
+- [[people/sung-peng-hsu]]
+- [[people/w-s-lee]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

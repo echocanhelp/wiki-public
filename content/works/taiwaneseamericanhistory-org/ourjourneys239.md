@@ -71,7 +71,7 @@ Posted in 08/2016
 - 2016-08-17 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/ken-lee]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -59,7 +59,11 @@ Posted in 08/2017
 - 2017-08-08 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/youth-orchestra-cycny]]
+- [[people/chi-ching-grace-lin]]
+- [[people/grace-lin]]
+- [[people/lovell-park-chang]]
+- [[people/patsy-fang-chen]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

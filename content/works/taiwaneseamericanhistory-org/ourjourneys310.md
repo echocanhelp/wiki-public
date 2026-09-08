@@ -67,7 +67,8 @@ Posted in 08/2017
 - 2017-08-25 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/c-k-lee]]
+- [[people/ting-kuei-tsay]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

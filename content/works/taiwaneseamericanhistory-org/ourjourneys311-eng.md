@@ -71,7 +71,11 @@ Translated from 311. 紐約首府區台灣同鄉會及台美文化促進會簡�
 - 2017-09-06 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwanese-american-cultural-society-of-the-capital-district]]
+- [[people/chungchin-chen]]
+- [[people/david-taka-yo]]
+- [[people/joyce-weng]]
+- [[people/william-h-lee]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

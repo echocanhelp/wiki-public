@@ -304,7 +304,15 @@ Posted in 06/2017
 - 2017-06-12 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/daniel-ko]]
+- [[people/dr-binsiong-ou]]
+- [[people/dr-edward-t-s-huang]]
+- [[people/hui-na-lin]]
+- [[people/kao-chun-ming]]
+- [[people/prof-chen-s-tsai]]
+- [[people/prof-chin-c-lee]]
+- [[people/prof-mingchi-wu]]
+- [[people/tah-p-9a69693e1e]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

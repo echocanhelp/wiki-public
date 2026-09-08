@@ -47,7 +47,7 @@ Posted in 06/2017
 - 2017-06-21 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/houston-taiwan-institute-for-senior-citizens]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

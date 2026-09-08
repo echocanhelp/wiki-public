@@ -69,7 +69,7 @@ Translated from 300. 大紐約區台灣同鄕會沿革 / 大紐約區台灣同�
 - 2017-07-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwanese-association-of-america]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

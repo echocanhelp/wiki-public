@@ -73,7 +73,10 @@ Posted in 08/2016
 - 2016-08-10 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/united-formosans-for-independenceufi]]
+- [[people/dr-cary-s-hung]]
+- [[people/dr-ying-yuan-lee]]
+- [[people/ted-lau]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

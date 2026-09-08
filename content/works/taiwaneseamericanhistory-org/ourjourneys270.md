@@ -155,7 +155,12 @@ Posted in 12/2016
 - 2016-12-27 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/april-lin]]
+- [[people/dr-jen-yih-chu]]
+- [[people/enchin-shaw-chen]]
+- [[people/j-z-lee]]
+- [[people/s-y-liu]]
+- [[people/stella-landauer]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

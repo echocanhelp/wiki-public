@@ -51,7 +51,7 @@ Posted in 03/2017
 - 2017-03-08 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/chen-chao-wang]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

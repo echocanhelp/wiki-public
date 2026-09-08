@@ -389,7 +389,10 @@ Posted in 11/2016
 - 2016-11-18 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/formosan-association-for-human-rights]]
+- [[organizations/taiwanese-alliance-for-interculture-southern-california]]
+- [[organizations/taiwanese-association-of-america]]
+- [[people/wudong-huang]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

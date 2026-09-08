@@ -83,7 +83,7 @@ Posted in 06/2017
 - 2017-06-23 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/senior-taiwanese-association-of-northern-california]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -49,7 +49,7 @@ Posted in 06/2017
 - 2017-06-20 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwanese-evergreen-academy]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

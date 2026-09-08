@@ -143,7 +143,18 @@ Posted in 08/2016
 - 2016-08-18 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/ching-sze-hsieh]]
+- [[people/chiu-sen-wang]]
+- [[people/freeman-huang]]
+- [[people/huang-gen-shen]]
+- [[people/li-mutong]]
+- [[people/lung-chen]]
+- [[people/prof-ken-s-huang]]
+- [[people/prof-trong-rong-tsai]]
+- [[people/thomas-liu]]
+- [[people/tom-lee]]
+- [[people/tsan-hung-george-chang]]
+- [[people/xie-qingzhi-xie-poyi]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

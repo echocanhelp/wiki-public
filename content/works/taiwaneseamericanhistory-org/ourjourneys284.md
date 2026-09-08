@@ -51,7 +51,9 @@ Posted in 05/2017
 - 2017-05-01 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/dr-tsing-fang-chen]]
+- [[people/li-fa-xie]]
+- [[people/prof-shiou-ping-liao]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -43,7 +43,8 @@ Posted in 08/2017
 - 2017-08-11 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/cheng-y-chuang]]
+- [[people/dr-ming-cheng-liau]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

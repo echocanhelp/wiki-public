@@ -87,7 +87,9 @@ Posted in 08/2017
 - 2017-08-09 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/cheng-y-chuang]]
+- [[people/dr-cary-s-hung]]
+- [[people/thomas-tzu-shen-lin]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -91,7 +91,18 @@ Posted in 09/2016
 - 2016-09-30 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwanese-american-citizens-league]]
+- [[people/charles-chiang]]
+- [[people/ching-sze-hsieh]]
+- [[people/dr-robert-y-lai]]
+- [[people/jin-chyuan-yu]]
+- [[people/lung-chen]]
+- [[people/minlu-chai]]
+- [[people/raymond-wu]]
+- [[people/s-y-huang]]
+- [[people/wu-lipei]]
+- [[people/xie-qingzhi-xie-poyi]]
+- [[people/yang-huiqiao]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

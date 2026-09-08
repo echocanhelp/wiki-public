@@ -57,7 +57,14 @@ Posted in 05/2017
 - 2017-05-15 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/charles-c-hsu]]
+- [[people/dr-edward-t-s-huang]]
+- [[people/gwhyneth-chen]]
+- [[people/li-chan-chen-maxham]]
+- [[people/lung-chen]]
+- [[people/nai-yuan-hu]]
+- [[people/tai-cheng-chen]]
+- [[people/xu-zongbang]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

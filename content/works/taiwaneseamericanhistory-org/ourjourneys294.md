@@ -47,7 +47,11 @@ Posted in 06/2017
 - 2017-06-13 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/felix-fan]]
+- [[people/gwhyneth-chen]]
+- [[people/robert-chen]]
+- [[people/simon-cheng]]
+- [[people/yuan-tseh-lee]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

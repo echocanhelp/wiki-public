@@ -69,7 +69,8 @@ Translated from 310. 伊薩卡臺灣同鄉會的簡介 / 程美希 /08/2017
 - 2017-08-25 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwanese-association-of-america]]
+- [[people/joseph-h-chen]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

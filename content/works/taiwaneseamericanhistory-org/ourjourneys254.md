@@ -53,7 +53,8 @@ Posted in 10/2016
 - 2016-10-03 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/center-for-taiwan-international-relations-ctir]]
+- [[organizations/taiwanese-association-of-america]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

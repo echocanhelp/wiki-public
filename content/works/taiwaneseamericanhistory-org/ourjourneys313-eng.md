@@ -51,7 +51,8 @@ Translated from 313. 東田納西台灣同鄉會成立簡史 / 張惠雄 /09/201
 - 2017-09-27 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwanese-association-of-america]]
+- [[people/yea-hwang-uang]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

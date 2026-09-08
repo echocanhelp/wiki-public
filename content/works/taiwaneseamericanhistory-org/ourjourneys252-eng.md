@@ -77,7 +77,12 @@ Translated from 252. 續談美洲台灣客家聯合會並簡介北美台灣客�
 - 2016-09-28 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwan-hakka-association-for-public-affairs-in-north-america]]
+- [[people/clyde-kiang]]
+- [[people/edward-j-s-lin]]
+- [[people/frank-m-hsu]]
+- [[people/joyce-weng]]
+- [[people/prof-w-s-william-wei]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

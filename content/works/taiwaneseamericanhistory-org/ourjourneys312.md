@@ -205,7 +205,7 @@ Posted in 09/2017
 - 2017-09-07 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/tah-foundation]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

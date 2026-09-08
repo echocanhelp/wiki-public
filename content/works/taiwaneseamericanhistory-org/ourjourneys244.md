@@ -121,7 +121,19 @@ Posted in 08/2016
 - 2016-08-30 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/andre-yang]]
+- [[people/c-j-chen]]
+- [[people/ching-sze-hsieh]]
+- [[people/dr-guei-yun-yang]]
+- [[people/fei-kuang-tseng]]
+- [[people/julius-shu-05]]
+- [[people/m-l-chen]]
+- [[people/peter-su]]
+- [[people/san-john-huang]]
+- [[people/ting-yee-wang]]
+- [[people/wang-gui-rong]]
+- [[people/xie-qingzhi-xie-poyi]]
+- [[people/yang-jia-you]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

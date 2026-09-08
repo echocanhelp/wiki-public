@@ -41,7 +41,9 @@ Translated from 308. 記休士頓台灣同鄉會起源 / 廖明徵 /08/2017
 - 2017-08-11 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwanese-association-of-america]]
+- [[organizations/taiwanese-heritage-society-of-houston]]
+- [[people/dr-ming-cheng-liau]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

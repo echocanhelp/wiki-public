@@ -55,7 +55,7 @@ Posted in 05/2017
 - 2017-05-09 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/hsiu-fang-susan-liu]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

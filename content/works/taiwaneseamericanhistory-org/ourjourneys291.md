@@ -111,7 +111,17 @@ Posted in 05/2017
 - 2017-05-19 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/ching-yung-lee]]
+- [[people/dr-che-yang-huang]]
+- [[people/dr-chi-cheng-huang]]
+- [[people/dr-chi-wan-lai]]
+- [[people/dr-jen-yih-chu]]
+- [[people/dr-peter-huang]]
+- [[people/dr-tong-y-chen]]
+- [[people/jeffrey-tsung]]
+- [[people/lekki-chua]]
+- [[people/ming-liang-lee]]
+- [[people/prof-gwo-jaw-wang]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

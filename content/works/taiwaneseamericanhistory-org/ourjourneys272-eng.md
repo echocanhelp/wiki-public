@@ -89,7 +89,17 @@ Translated from 272. 台美公民協會的成長：從孕育到發芽 / 周實 /
 - 2017-01-20 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwanese-american-citizens-league]]
+- [[people/ahhee-hsu]]
+- [[people/c-b-chien]]
+- [[people/ho-rui-hsu]]
+- [[people/jer-shung-lin]]
+- [[people/jin-sheng-jian]]
+- [[people/mao-ching-david-huang]]
+- [[people/san-john-huang]]
+- [[people/symeon-woo]]
+- [[people/y-c-hsu]]
+- [[people/y-c-hsu-2]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

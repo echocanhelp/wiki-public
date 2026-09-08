@@ -73,7 +73,7 @@ Posted in 05/2017
 - 2017-05-17 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/yi-ming-liu]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

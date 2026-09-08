@@ -87,7 +87,7 @@ Posted in 10/2016
 - 2016-10-26 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/william-cho]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

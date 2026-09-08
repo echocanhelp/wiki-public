@@ -83,7 +83,7 @@ Posted in 12/2016
 - 2016-12-27 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/dr-khang-loon-ho]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

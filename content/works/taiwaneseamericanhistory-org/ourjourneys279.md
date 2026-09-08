@@ -99,7 +99,7 @@ Posted in 03/2017
 - 2017-03-09 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/wu-lipei]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -57,7 +57,7 @@ Posted in 05/2017
 - 2017-05-04 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/dr-peter-huang]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

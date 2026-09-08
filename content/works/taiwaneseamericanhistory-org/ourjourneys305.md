@@ -145,7 +145,13 @@ Posted in 07/2017
 - 2017-07-28 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/presbyterian-church-in-taiwan]]
+- [[people/charles-tsai]]
+- [[people/dr-lii-mei-beverly-chang]]
+- [[people/joyce-lin]]
+- [[people/ming-shian-kao]]
+- [[people/show-ya-wang]]
+- [[people/tina-chang]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

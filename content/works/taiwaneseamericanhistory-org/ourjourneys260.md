@@ -93,7 +93,8 @@ Posted in 10/2016
 - 2016-10-24 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/helen-loo]]
+- [[people/tsu-yi-jay-loo]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

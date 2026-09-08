@@ -65,7 +65,10 @@ Posted in 10/2016
 - 2016-10-24 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/dr-suy-ming-sam-chou]]
+- [[people/dr-ying-yuan-lee]]
+- [[people/irwin-chu]]
+- [[people/prof-mingchi-wu]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

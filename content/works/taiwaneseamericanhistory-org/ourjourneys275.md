@@ -67,7 +67,9 @@ Posted in 01/2017
 - 2017-01-24 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/christine-l-yang]]
+- [[people/dr-robert-y-lai]]
+- [[people/walter-m-yang]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -111,7 +111,29 @@ Posted in 09/2016
 - 2016-09-02 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/c-k-kuo]]
+- [[people/carol-kuo]]
+- [[people/chen-maoxiong]]
+- [[people/cheng-shen-fang]]
+- [[people/clyde-kiang]]
+- [[people/elena-ling]]
+- [[people/fu-mei-chang]]
+- [[people/henry-lee]]
+- [[people/joyce-weng]]
+- [[people/julie-wong]]
+- [[people/kocheng-kent-liu]]
+- [[people/linda-gail-arrigo]]
+- [[people/long-rong-mark-kao]]
+- [[people/prof-lung-chi-chen]]
+- [[people/rev-burton-tan]]
+- [[people/t-y-ko]]
+- [[people/ting-kuei-tsay]]
+- [[people/tsan-hung-george-chang]]
+- [[people/wen_chen-chen]]
+- [[people/y-j-chung]]
+- [[people/y-l-lin]]
+- [[people/y-t-lin]]
+- [[people/yung-hwa-hsu]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

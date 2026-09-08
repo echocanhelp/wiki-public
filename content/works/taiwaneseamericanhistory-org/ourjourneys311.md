@@ -113,7 +113,17 @@ Posted in 09/2017
 - 2017-09-06 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwanese-american-cultural-society-of-the-capital-district]]
+- [[people/c-b-chien]]
+- [[people/ching-fang-chen]]
+- [[people/ching-yung-lee]]
+- [[people/chungchin-chen]]
+- [[people/david-taka-yo]]
+- [[people/jaw-sy-chen]]
+- [[people/joyce-weng]]
+- [[people/tah-p-6f52d6733e]]
+- [[people/william-h-lee]]
+- [[people/yang-yuanxun]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

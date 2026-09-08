@@ -213,7 +213,17 @@ Posted in 11/2016
 - 2016-11-14 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/agnes-hsiao]]
+- [[people/chun-long-jerry-tsung]]
+- [[people/daniel-lin]]
+- [[people/darice-lee]]
+- [[people/dr-jui-yuan-raymond-cheng]]
+- [[people/huang-gen-shen]]
+- [[people/hui-na-lin]]
+- [[people/jennifer-hung]]
+- [[people/prof-ken-s-huang]]
+- [[people/prof-young-chang-chen]]
+- [[people/wang-taihe]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

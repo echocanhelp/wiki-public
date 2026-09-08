@@ -61,7 +61,8 @@ Posted in 04/2017
 - 2017-04-03 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/asian-senior-concerns-foundation]]
+- [[people/i-jen-chen]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

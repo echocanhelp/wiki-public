@@ -407,7 +407,8 @@ EXPLORE
 - 2017-05-09 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/north-america-taiwanese-womens-association]]
+- [[organizations/tah-foundation]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -77,7 +77,7 @@ Posted in 07/2017
 - 2017-07-21 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/new-york-taiwan-center]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

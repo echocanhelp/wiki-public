@@ -53,7 +53,7 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2017-06-15 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwan-hotel-motel-association-of-southern-california]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

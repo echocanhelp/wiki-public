@@ -65,7 +65,8 @@ Posted in 01/2017
 - 2017-01-19 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwanese-association-of-america]]
+- [[people/david-lee]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

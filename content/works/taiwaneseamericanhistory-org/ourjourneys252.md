@@ -85,7 +85,14 @@ Posted in 09/2016
 - 2016-09-28 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwan-hakka-association-for-public-affairs-in-north-america]]
+- [[people/clyde-kiang]]
+- [[people/dr-chanchi-lee]]
+- [[people/dr-jen-yih-chu]]
+- [[people/joyce-weng]]
+- [[people/prof-w-s-william-wei]]
+- [[people/tah-p-8c33cb949b]]
+- [[people/tah-p-aed84f7112]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

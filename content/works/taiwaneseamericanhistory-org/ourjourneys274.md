@@ -63,7 +63,8 @@ Posted in 01/2017
 - 2017-01-23 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/charles-c-hsu]]
+- [[people/xu-zongbang]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

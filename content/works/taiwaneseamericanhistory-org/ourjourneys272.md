@@ -87,7 +87,21 @@ Posted in 01/2017
 - 2017-01-20 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwanese-american-citizens-league]]
+- [[people/c-b-chien]]
+- [[people/dr-jeffrey-tsai]]
+- [[people/ho-rui-hsu]]
+- [[people/jin-sheng-jian]]
+- [[people/li-mutong]]
+- [[people/mao-ching-david-huang]]
+- [[people/san-john-huang]]
+- [[people/symeon-woo]]
+- [[people/tah-p-d699884bcd]]
+- [[people/tom-lee]]
+- [[people/wu-lipei]]
+- [[people/yang-huiqiao]]
+- [[people/yang-jia-you]]
+- [[people/yang-ziqing]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
