@@ -45,7 +45,7 @@ Posted in 10/2017
 - 2017-10-19 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/cheng-y-chuang|莊承業]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -67,7 +67,9 @@ Posted  on 10/11/2021
 - 2021-10-11 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwan-american-foundation|Taiwanese American Foundation]]
+- [[people/christine-l-yang|林壽英]]
+- [[people/ho-chie-tsai|Ho Chie Tsai]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

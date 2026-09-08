@@ -67,7 +67,9 @@ This article was published as part of a series on Taiwanese Americans.
 - 2021-06-24 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/overseas-community-affairs-council|僑務委員會]]
+- [[people/chen-shuibian|Chen Shui-bian]]
+- [[people/wendy-cheng|Wendy Cheng]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

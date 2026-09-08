@@ -67,7 +67,11 @@ Posted in 12/2020
 - 2020-12-28 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/democratic-progressive-party|Democratic Progressive Party]]
+- [[people/frank-lai|賴文雄]]
+- [[people/linda-gail-arrigo|Linda Gail Arrigo]]
+- [[people/philip-lin|林水泉]]
+- [[people/tsung-ming-hsieh|謝聰敏]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

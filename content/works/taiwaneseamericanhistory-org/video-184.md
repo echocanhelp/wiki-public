@@ -39,7 +39,9 @@ Posted on 8/1/25
 - 2025-08-01 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwan-american-foundation|Taiwanese American Foundation]]
+- [[organizations/taiwanese-american-foundation-of-san-diego|Taiwanese American Foundation of San Diego]]
+- [[people/carol-ou-lin|歐春美]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

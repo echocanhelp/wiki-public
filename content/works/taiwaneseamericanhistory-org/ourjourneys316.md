@@ -69,7 +69,8 @@ Posted in 10/2017
 - 2017-10-13 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwanese-senior-citizen-center|Taiwanese Senior Citizen Center]]
+- [[people/martin-tsai|蔡明峰]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

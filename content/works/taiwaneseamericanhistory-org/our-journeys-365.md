@@ -69,7 +69,7 @@ Posted in 01/2021
 - 2021-01-04 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/debra-liu|謝金朱]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

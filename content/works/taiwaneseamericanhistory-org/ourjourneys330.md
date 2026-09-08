@@ -49,7 +49,7 @@ Posted in 02/2018
 - 2018-02-28 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/tzutsai-cheng|鄭自才]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

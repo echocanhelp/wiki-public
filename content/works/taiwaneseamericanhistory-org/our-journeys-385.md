@@ -49,7 +49,7 @@ Posted on 05/12/2023
 - 2023-05-12 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/dr-chiu-shan-chen|Dr. Chiu-Shan Chen]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

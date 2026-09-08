@@ -231,7 +231,10 @@ Posted on 12/13/2023
 - 2023-12-13 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwanese-association-of-indiana|印州台灣同鄉會]]
+- [[people/bang-h-hwang|黃邦雄]]
+- [[people/john-pang-yu|余金榜]]
+- [[people/marisa-lin|陳麗雲]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -39,7 +39,7 @@ Posted on 08/06/2026
 - 2026-08-06 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/tah-foundation|TAH Foundation]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

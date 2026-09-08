@@ -73,7 +73,11 @@ This article was published as part of a special issue on Taiwanese Americans.
 - 2021-06-24 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/fri-philo|哲學星期五]]
+- [[organizations/overseas-taiwanese-for-democracy|Overseas Taiwanese for Democracy]]
+- [[people/brian-hioe|Brian Hioe]]
+- [[people/hsin-cheng-hsiao|蕭新晟]]
+- [[people/leland-lee|李柏毅]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

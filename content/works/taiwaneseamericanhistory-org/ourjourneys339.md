@@ -99,7 +99,9 @@ Posted in 08/2018
 - 2018-08-16 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwanese-united-fund|TUF]]
+- [[people/gwhyneth-chen|陳毓襄]]
+- [[people/li-chan-chen-maxham|陳麗嬋]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

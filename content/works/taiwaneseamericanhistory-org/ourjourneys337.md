@@ -49,7 +49,7 @@ Posted in 07/2018
 - 2018-07-16 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/san-diego-taiwanese-cultural-association|San Diego Taiwanese Cultural Association]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

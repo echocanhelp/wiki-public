@@ -39,7 +39,7 @@ posted on 7/31/2025
 - 2025-07-31 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwanese-heritage-society-of-houston|Taiwanese Heritage Society of Houston]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

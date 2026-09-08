@@ -47,7 +47,7 @@ Posted in 08/2020
 - 2020-08-31 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/ken-lee|李彥禎]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

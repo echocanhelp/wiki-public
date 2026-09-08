@@ -55,7 +55,7 @@ Posted in 06/2020
 - 2020-06-07 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/pearl-pi-chu-yang-wu|楊碧珠]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

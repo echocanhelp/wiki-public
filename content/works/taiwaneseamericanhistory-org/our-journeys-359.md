@@ -55,7 +55,7 @@ Posted in 09/2020
 - 2020-09-01 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/li-shun-lu|呂理順]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

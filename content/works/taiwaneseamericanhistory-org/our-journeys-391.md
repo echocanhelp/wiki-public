@@ -79,7 +79,11 @@ Posted on 06/14/2024
 - 2024-06-14 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwanese-american-cultural-society-of-the-capital-district|Taiwanese American Cultural Society of the Capital District]]
+- [[people/ching-yung-lee|李慶榮]]
+- [[people/chungchin-chen|陳仲欽]]
+- [[people/david-taka-yo|楊兆隆]]
+- [[people/tah-p-6f52d6733e|劉永斌]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

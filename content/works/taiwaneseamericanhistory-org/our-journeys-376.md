@@ -113,7 +113,7 @@ Posted on 08/30/2021
 - 2021-08-30 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwan-american-foundation|TAF]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

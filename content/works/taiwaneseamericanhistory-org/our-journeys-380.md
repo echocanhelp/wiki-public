@@ -128,7 +128,9 @@ Post on 05/18/2022
 - 2022-05-18 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/irvine-taiwanese-presbyterian-church|Irvine Taiwanese Presbyterian Church]]
+- [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]]
+- [[people/peggy-huang|Peggy Huang]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -103,7 +103,8 @@ Posted in 07/2019
 - 2019-07-02 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/winston-t-dang|陳重信]]
+- [[people/yi-ming-liu|劉怡明]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

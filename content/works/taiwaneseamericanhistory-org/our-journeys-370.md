@@ -195,7 +195,9 @@ Posted in 04/2021
 - 2021-04-27 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/hanna-huang|Hanna Huang]]
+- [[people/john-hsieh|John Hsieh]]
+- [[people/pearl-pi-chu-yang-wu|楊碧珠]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

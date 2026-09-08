@@ -73,7 +73,9 @@ Posted on 12/23/2022
 - 2022-12-23 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/jean-cheng|Jean Cheng]]
+- [[people/ming-tsuang|Ming Tsuang]]
+- [[people/tony-hsieh|Tony Hsieh]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

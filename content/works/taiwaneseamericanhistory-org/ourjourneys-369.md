@@ -97,7 +97,7 @@ Posted on 03/25/2021
 - 2021-03-25 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/amy-hsu|蘇惠美]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

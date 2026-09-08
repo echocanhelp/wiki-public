@@ -83,7 +83,9 @@ Posted in 01/2020
 - 2020-01-28 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/bob-in-yu-yang|楊英育]]
+- [[people/h-n-tong|童海南]]
+- [[people/mark-jong|鍾茂萃]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

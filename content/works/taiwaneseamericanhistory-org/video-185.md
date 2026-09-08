@@ -39,7 +39,7 @@ Posted on 8/1/2025
 - 2025-08-01 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwanese-association-of-america|Taiwanese Association of America]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

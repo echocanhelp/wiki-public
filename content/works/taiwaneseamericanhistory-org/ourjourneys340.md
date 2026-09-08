@@ -67,7 +67,7 @@ Posted in 08/2018
 - 2018-08-20 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/ahhee-hsu|許丕龍]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

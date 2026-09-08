@@ -97,7 +97,7 @@ Posted in 12/2020
 - 2020-12-07 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/clara-chen|Clara Chen]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

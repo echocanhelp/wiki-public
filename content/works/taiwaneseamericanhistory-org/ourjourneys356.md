@@ -140,7 +140,15 @@ FAPA分會，推動民間外交活動，跟當地的美國國會議員及政要�
 - 2020-08-03 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/living-well-club-of-new-jersey|紐澤西州]]
+- [[organizations/tah-foundation|台美史料中心]]
+- [[organizations/taiwan-care-inc|關懷台灣基金會]]
+- [[organizations/taiwanese-american-association-of-pharmaceutics|Taiwanese American Association of Pharmaceutics]]
+- [[organizations/taiwanese-american-council|Taiwanese American Council]]
+- [[organizations/taiwanese-american-student-association|Taiwanese American Student Association]]
+- [[organizations/taiwanese-sporting-association-new-jersey|紐澤西台灣人運動協會]]
+- [[organizations/taiwanese-students-association|Taiwanese Students Association]]
+- [[people/maurice-hsu|許盛男醫師]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -49,7 +49,8 @@ Posted in 11/2017
 - 2017-11-29 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/tah-foundation|台美史料中心]]
+- [[people/jason-chang|張哲雄]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

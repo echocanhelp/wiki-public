@@ -665,7 +665,12 @@ Posted in 08/2020
 - 2020-08-25 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/formosan-association-for-human-rights|Formosan Association for Human Rights]]
+- [[organizations/overseas-community-affairs-council|僑務委員會]]
+- [[organizations/taiwanese-alliance-for-interculture-southern-california|Taiwanese Alliance for Interculture]]
+- [[organizations/taiwanese-american-citizens-league|Taiwanese American Citizens League]]
+- [[organizations/taiwanese-association-of-america|Taiwanese Association of America]]
+- [[people/wendy-cheng|Wendy Cheng]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

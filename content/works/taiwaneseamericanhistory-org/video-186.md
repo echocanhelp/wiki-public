@@ -39,7 +39,7 @@ Posted on 8/1/2025
 - 2025-08-01 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/simon-lin|林榮松]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

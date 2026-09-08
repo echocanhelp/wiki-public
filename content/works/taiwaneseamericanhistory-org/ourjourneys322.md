@@ -53,7 +53,7 @@ Posted in 11/2017
 - 2017-11-27 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/chin-hsin-jason-liu|劉進興]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

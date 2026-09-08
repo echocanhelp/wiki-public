@@ -51,7 +51,15 @@ Posted in 03/2020
 - 2020-03-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/daniel-ko|Daniel Ko]]
+- [[people/darice-lee|Darice Lee (洪珠美)]]
+- [[people/huang-gen-shen|黃根深]]
+- [[people/jan-yung-lin|Jan-Yung Lin]]
+- [[people/ken-wu|Ken Wu]]
+- [[people/stephen-lin|林俊提]]
+- [[people/tah-p-3496456ca5|周昭亮]]
+- [[people/tony-lee|Tony Lee (李賢群)]]
+- [[people/wang-kexiong|王克雄]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

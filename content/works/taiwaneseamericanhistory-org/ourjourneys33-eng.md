@@ -127,7 +127,19 @@ Posted in 12/2017
 - 2017-12-18 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwan-american-foundation|Taiwanese American Foundation (TAF)]]
+- [[people/carol-cho|Carol Cho]]
+- [[people/charles-huang|Charles Huang]]
+- [[people/cheryl-lin-hong|林千千]]
+- [[people/choan-seng-song|宋泉盛]]
+- [[people/matthias-c-h-lu|盧志華]]
+- [[people/mei-lu|Mei Lu]]
+- [[people/mike-lin|Mike Lin]]
+- [[people/s-y-chang|張信義]]
+- [[people/spencer-chen|Spencer Chen]]
+- [[people/sue-chen|Sue Chen]]
+- [[people/william-cho|卓甫良]]
+- [[people/yang-jia-you|Charles Yang]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

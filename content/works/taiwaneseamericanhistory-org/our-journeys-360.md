@@ -109,7 +109,9 @@ Posted in 09/2020
 - 2020-09-17 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/overseas-community-affairs-council|Overseas Community Affairs Council]]
+- [[people/patsy-fang-chen|Patsy Fang Chen]]
+- [[people/tsai-ing-wen|Tsai Ing-wen]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -79,7 +79,12 @@ Translated from 321. 由陳文成紀念基金會的創立談起 / 許永華 /11/
 - 2017-11-20 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/ann-arbor-taiwanese-association|Ann Arbor Taiwanese Association]]
+- [[organizations/formosan-association-for-human-rights|Formosan Association for Human Rights]]
+- [[organizations/professor-chen-wen-chen-memorial-foundation|Professor Chen Wen-Chen Memorial Foundation]]
+- [[organizations/taiwanese-association-of-america|Taiwanese Association of America]]
+- [[people/elena-ling|Elena Ling]]
+- [[people/yung-hwa-hsu|Yung Hwa Hsu]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

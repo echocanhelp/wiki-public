@@ -39,7 +39,8 @@ Posted on 8/5/2025
 - 2025-08-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwanese-association-of-america|Taiwanese Association of America]]
+- [[people/powen-wang|Powen Wang]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

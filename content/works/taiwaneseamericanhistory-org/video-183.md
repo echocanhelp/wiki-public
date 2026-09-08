@@ -39,7 +39,8 @@ Posted on 8/1/2025
 - 2025-08-01 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/new-york-taiwan-center|New York Taiwan Center]]
+- [[people/su-chun-huai|蘇春槐]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

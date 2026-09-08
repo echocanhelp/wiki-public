@@ -75,7 +75,7 @@ Posted on 12/30/2020
 - 2020-12-30 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/yi-ming-liu|劉怡明]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -49,7 +49,7 @@ Posted in 07/2018
 - 2018-07-02 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/christine-l-yang|林壽英]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -197,7 +197,7 @@ Posted in 11/2019
 - 2019-11-11 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/jonah-chang|張瑞雄]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

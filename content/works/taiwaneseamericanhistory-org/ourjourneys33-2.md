@@ -125,7 +125,12 @@ TAF持續發掘第三代多元種族台美人的需求，並拓展活動以解�
 - 2017-12-18 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwan-american-foundation|TAF]]
+- [[people/bob-lin|林志文]]
+- [[people/carol-cho|Carol Cho]]
+- [[people/mei-lu|Mei Lu]]
+- [[people/mike-lin|Mike Lin]]
+- [[people/sue-chen|Sue Chen]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

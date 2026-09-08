@@ -97,7 +97,7 @@ Posted on 06/28/2023
 - 2023-06-28 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/jensen-huang|Jensen Huang]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -103,7 +103,8 @@ Posted in 11/2017
 - 2017-11-20 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/linda-gail-arrigo|艾琳達]]
+- [[people/yung-hwa-hsu|許永華]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

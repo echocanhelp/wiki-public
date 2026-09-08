@@ -99,7 +99,13 @@ Posted in 02/2019
 - 2019-02-04 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/austin-taiwanese-association|Austin Taiwanese Association]]
+- [[organizations/taiwanese-association-of-america|Taiwanese Association of America]]
+- [[people/dr-john-chieu|Dr. John Chieu]]
+- [[people/dr-mu-sheng-wu|Dr. Mu-Sheng Wu]]
+- [[people/j-s-chien|簡忠松]]
+- [[people/kevin-lin|Kevin Lin]]
+- [[people/pearl-pi-chu-yang-wu|楊碧珠]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

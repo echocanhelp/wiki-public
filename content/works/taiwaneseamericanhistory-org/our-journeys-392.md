@@ -131,7 +131,7 @@ Posted on 07/31/2024
 - 2024-07-31 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/rev-martin-c-wang|王成章牧師]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -63,7 +63,8 @@ Updated on 12/29/2023
 - 2023-12-23 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/dr-hwalin-lee|Dr. Hwalin Lee]]
+- [[people/wendy-cheng|Wendy Cheng]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

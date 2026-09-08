@@ -91,7 +91,12 @@ Posted 0n 10/19/2021
 - 2021-10-19 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/edward-j-s-lin|林敬賢]]
+- [[people/jeffrey-lee|李友禮]]
+- [[people/jim-young|楊正義]]
+- [[people/jin-sheng-jian|簡金生]]
+- [[people/ming-che-lin|林明哲]]
+- [[people/s-j-lin|林宣繼]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

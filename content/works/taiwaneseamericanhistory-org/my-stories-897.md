@@ -210,7 +210,11 @@ Posted on 01/30/2024
 - 2024-01-30 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/formosan-association-for-human-rights|Formosan Association for Human Rights]]
+- [[people/echo-lin|Echo Lin]]
+- [[people/edward-chen|Edward Chen]]
+- [[people/john-lin|John Lin]]
+- [[people/tom-yang|Tom Yang]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
