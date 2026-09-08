@@ -45,7 +45,10 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2015-06-15 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/dr-shinn-sheng-chang|張信行醫師]]
+- [[people/john-hsieh|謝鎮寬]]
+- [[people/joseph-hong|洪茂澤]]
+- [[people/linda-gail-arrigo|艾琳達]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

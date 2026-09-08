@@ -49,7 +49,10 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2015-07-23 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/chungchin-chen|陳仲欽]]
+- [[people/joyce-weng|黃娟]]
+- [[people/peng-ming-min|Peng Ming-min (彭明敏)]]
+- [[people/prof-ming-min-peng|彭明敏教授]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

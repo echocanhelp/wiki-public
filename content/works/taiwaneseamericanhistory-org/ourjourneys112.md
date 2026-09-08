@@ -55,7 +55,9 @@ Posted in 04/2018
 - 2015-03-08 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/tah-foundation|TAH Foundation (台美史料中心)]]
+- [[people/gin-ru-yeh|葉錦如]]
+- [[people/h-f-josephine-huang|黃河芬]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

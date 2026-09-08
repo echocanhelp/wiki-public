@@ -45,7 +45,8 @@ Posted in 04/2016
 - 2016-04-20 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/chen-shuibian|Chen Shui-bian (陳水扁)]]
+- [[people/tsai-ing-wen|Tsai Ing-wen]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

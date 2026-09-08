@@ -53,7 +53,7 @@ Posted in 04/2016
 - 2016-04-04 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/wang-kexiong|王克雄 (Wang Kexiong)]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

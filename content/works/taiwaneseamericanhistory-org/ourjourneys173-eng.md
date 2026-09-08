@@ -57,7 +57,10 @@ Translated from 173. 台美人移民史的首座里程碑 / 曾輝光 /2015/09
 - 2015-09-21 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwanese-american-seniors-association-of-southern-california|Taiwanese American Seniors Association of Southern California]]
+- [[people/an-su-gao-lai|賴高安賜]]
+- [[people/charles-ting|丁昭昇]]
+- [[people/symeon-woo|吳西面]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

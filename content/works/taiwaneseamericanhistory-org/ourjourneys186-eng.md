@@ -117,7 +117,29 @@ Translated from 186. 台美公民協會簡介 / 台美公民協會籌備委員�
 - 2015-11-24 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwanese-american-citizens-league|Taiwanese American Citizens League]]
+- [[people/ahhee-hsu|許丕龍]]
+- [[people/c-b-chien|簡錦標]]
+- [[people/charles-chiang|江昭儀]]
+- [[people/charles-ting|丁昭昇]]
+- [[people/daniel-lin|林嘉仁]]
+- [[people/david-yang|楊熾勳]]
+- [[people/dew-chin-ghi-chang|張清祺]]
+- [[people/huey-lin|林惠洲]]
+- [[people/isaiah-lee|李宗派教授]]
+- [[people/james-liang|梁政吉]]
+- [[people/jer-shung-lin|林衡哲本名林哲雄]]
+- [[people/minlu-chai|蔡銘祿]]
+- [[people/peter-su|蘇國雄]]
+- [[people/r-c-chen|陳瑞珠]]
+- [[people/raymond-wu|吳瑞信]]
+- [[people/s-y-huang|黃森元]]
+- [[people/san-john-huang|黃三榮]]
+- [[people/symeon-woo|吳西面]]
+- [[people/thomas-liu|劉天良]]
+- [[people/tyzen-hsiao|蕭泰然]]
+- [[people/y-c-hsu|許耀慶]]
+- [[people/y-t-yan|顏裕庭]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

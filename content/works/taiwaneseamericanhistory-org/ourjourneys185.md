@@ -131,7 +131,7 @@ Posted in 11/2015
 - 2015-11-20 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/houston-taiwanese-golden-club|Houston Taiwanese Golden Club 樂部 (休士頓台灣清閒俱)]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

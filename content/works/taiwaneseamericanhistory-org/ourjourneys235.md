@@ -69,7 +69,7 @@ Posted in 08/2016
 - 2016-08-03 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/peter-chen|陳正義]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

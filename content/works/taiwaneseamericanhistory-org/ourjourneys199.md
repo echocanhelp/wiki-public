@@ -61,7 +61,7 @@ Posted in 03/2016
 - 2016-03-02 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/tah-p-8b5bcc4bca|黃世惠]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

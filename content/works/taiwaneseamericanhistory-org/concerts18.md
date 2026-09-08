@@ -405,7 +405,8 @@ EXPLORE
 - 2015-07-28 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/north-america-taiwanese-womens-association|North America Taiwanese Women’s Association (北美洲臺灣婦女會)]]
+- [[organizations/tah-foundation|TAH Foundation (台美史料中心)]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

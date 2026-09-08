@@ -61,7 +61,7 @@ Posted in 03/2016
 - 2016-03-09 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/dr-ju-cheng-lee|李汝城醫師]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

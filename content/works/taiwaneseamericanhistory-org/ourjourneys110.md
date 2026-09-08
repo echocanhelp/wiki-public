@@ -265,7 +265,11 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2015-02-25 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/c-c-chung|鍾振乾]]
+- [[people/james-liang|梁政吉]]
+- [[people/tah-p-0f50cf1291|吳月美]]
+- [[people/tah-p-6f52d6733e|劉永斌]]
+- [[people/w-d-lee|李武達]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

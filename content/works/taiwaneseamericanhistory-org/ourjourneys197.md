@@ -61,7 +61,7 @@ Posted in 02/2016
 - 2016-02-24 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/john-chen|陳榮儒]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

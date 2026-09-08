@@ -43,7 +43,7 @@ Posted in 03/2016
 - 2016-03-16 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwanese-association-of-america|Taiwanese Association of America (全美台灣同鄉會)]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

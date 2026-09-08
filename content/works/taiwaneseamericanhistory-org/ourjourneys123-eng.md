@@ -553,7 +553,24 @@ Sourced from Chi-Ming Tseng
 - 2015-03-30 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/overseas-community-affairs-council|Overseas Community Affairs Council (僑務委員會)]]
+- [[organizations/taiwanese-association-of-america|Taiwanese Association of America (全美台灣同鄉會)]]
+- [[people/adrian-lin|林宣緒]]
+- [[people/amy-hsu|蘇惠美]]
+- [[people/bei-hung-kuo|郭倍宏博士]]
+- [[people/charles-chiang|江昭儀]]
+- [[people/chin-hsin-jason-liu|劉進興]]
+- [[people/fang-ming-chen|陳芳明博士]]
+- [[people/iris-ho|何燕青]]
+- [[people/john-chen|陳榮儒]]
+- [[people/liang-shing-fan|范良信]]
+- [[people/michael-fonte|彭光理]]
+- [[people/rui-mu-lee|李瑞木]]
+- [[people/sing-nan-wang|王幸男]]
+- [[people/sung-peng-hsu|徐頌鵬博士]]
+- [[people/tyzen-hsiao|蕭泰然]]
+- [[people/wei-shou-hu|胡維碩]]
+- [[people/wen-yen-chen|陳文彥教授]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

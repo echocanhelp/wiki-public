@@ -14,6 +14,10 @@ last_reviewed: 2026-08-16
 - **Captured by:** source-continuity delta
 - **Source hub:** [[sources/good-shepherd-taiwanese-presbyterian-church||source]]
 
+## Related Pages
+
+- [[sources/good-shepherd-taiwanese-presbyterian-church]]
+
 ## Notes
 
 Auto stub from live-site watch. Expand only with cited facts.

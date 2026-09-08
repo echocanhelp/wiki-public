@@ -345,7 +345,18 @@ Posted in 07/2016
 - 2016-07-28 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwanese-heritage-society-of-houston|Taiwanese Heritage Society of Houston (台灣人傳統基金會)]]
+- [[people/c-c-yang|楊朝諄]]
+- [[people/chao-yuh-yang|楊朝諭]]
+- [[people/cheng-y-chuang|莊承業]]
+- [[people/ching-nan-ou|歐清南]]
+- [[people/dr-ya-yen-lee|李雅彥醫師]]
+- [[people/gin-ru-yeh|葉錦如]]
+- [[people/j-s-chien|簡忠松]]
+- [[people/jien-hua-charles-chuang|莊峻華]]
+- [[people/li-fa-xie|謝里法]]
+- [[people/robert-lee|李席舟]]
+- [[people/shu-yuan-susan-tsay|蔡淑媛]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

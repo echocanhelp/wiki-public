@@ -71,7 +71,10 @@ Posted in 07/2016
 - 2016-07-18 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwanese-american-outreach-association|Taiwanese American Outreach Association (台美人交流協會)]]
+- [[organizations/taiwanese-association-of-america-greater-washington|Taiwanese Association of America Greater Washington (華府台灣同鄉會)]]
+- [[people/sam-huang|黃興貫]]
+- [[people/wang-neng-xiang|Wang Neng-xiang (王能祥)]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

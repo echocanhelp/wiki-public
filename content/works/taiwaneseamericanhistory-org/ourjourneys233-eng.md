@@ -243,7 +243,19 @@ Translated from 233. 回顧休士頓台灣人活動中心的成立 / 莊承業 /
 - 2016-07-28 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/houston-formosan-evergreen-association|Houston Formosan Evergreen Association (休士頓台灣長春會)]]
+- [[organizations/taiwanese-american-citizens-league|Taiwanese American Citizens League]]
+- [[organizations/taiwanese-association-of-america|Taiwanese Association of America (全美台灣同鄉會)]]
+- [[organizations/taiwanese-association-of-america-houston-chapter|Taiwanese Association of America – Houston Chapter (休士頓台灣同鄉會)]]
+- [[organizations/taiwanese-heritage-society-of-houston|Taiwanese Heritage Society of Houston (台灣人傳統基金會)]]
+- [[people/chao-yuh-yang|楊朝諭]]
+- [[people/cheng-wu|吳錦城]]
+- [[people/cheng-y-chuang|莊承業]]
+- [[people/ching-nan-ou|歐清南]]
+- [[people/gin-ru-yeh|葉錦如]]
+- [[people/j-s-chien|簡忠松]]
+- [[people/jien-hua-charles-chuang|莊峻華]]
+- [[people/s-j-chen|陳松楨]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

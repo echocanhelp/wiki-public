@@ -173,7 +173,25 @@ Posted in 08/2016
 - 2016-08-02 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/united-formosans-for-independenceufi|United Formosans for Independence UFI (台獨聯盟)]]
+- [[people/bob-in-yu-yang|楊英育]]
+- [[people/dr-fu-yuan-hsu|許富淵]]
+- [[people/frank-lai|賴文雄]]
+- [[people/jin-sheng-jian|簡金生]]
+- [[people/liang-shing-fan|范良信]]
+- [[people/lung-chen|陳隆]]
+- [[people/peng-ming-min|Peng Ming-min (彭明敏)]]
+- [[people/philip-s-chen|陳伸夫]]
+- [[people/ron-chen|陳榮成]]
+- [[people/sin-i-hsiao|蕭欣義]]
+- [[people/strong-chuang|莊秋雄]]
+- [[people/tah-p-6d8ba3d584|王人紀]]
+- [[people/tah-p-9a69693e1e|賴金德]]
+- [[people/tah-p-b172331fd9|張信堂]]
+- [[people/ted-lau|劉重義]]
+- [[people/tzutsai-cheng|鄭自才]]
+- [[people/wang-neng-xiang|Wang Neng-xiang (王能祥)]]
+- [[people/zheng-shaoliang|Zheng Shaoliang (鄭紹良)]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

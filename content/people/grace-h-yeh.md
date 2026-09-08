@@ -29,6 +29,12 @@ TAH lists her as the first appointed organist of [[organizations/formosan-presby
 - [[people/ye-siya-zhang-xinhui||Ye Siya & Zhang Xinhui]]
 - [[people/prof-sze-ya-yeh||Prof. Sze-ya Yeh (葉思雅教授)]]
 
+## Related Pages
+
+- [[organizations/formosan-presbyterian-church-in-los-angeles]]
+- [[people/ye-siya-zhang-xinhui]]
+- [[people/prof-sze-ya-yeh]]
+
 ## Sources
 - [Grace H. Yeh 張信惠](https://taiwaneseamericanhistory.org/person/grace-h-yeh/)
 - [[sources/taiwaneseamericanhistory-org||TAH Foundation Who’s Who]]

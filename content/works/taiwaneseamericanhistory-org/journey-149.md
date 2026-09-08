@@ -43,7 +43,7 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/journey-1
 - 2015-07-06 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/tsai-ing-wen|Tsai Ing-wen]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

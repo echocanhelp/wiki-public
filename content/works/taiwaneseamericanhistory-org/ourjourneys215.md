@@ -55,7 +55,7 @@ Posted in 04/2016
 - 2016-04-18 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/tah-p-e8a9f7b57c|蕭樂善]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

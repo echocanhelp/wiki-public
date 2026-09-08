@@ -69,7 +69,7 @@ Posted in 03/2016
 - 2016-03-16 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/wen_chen-chen|陳文成教授]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -103,7 +103,16 @@ Posted in 06/2016
 - 2016-06-13 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/united-formosans-for-independenceufi|United Formosans for Independence UFI (台獨聯盟)]]
+- [[people/chen-zhaonan|Chen Chao-nan (陳昭南)]]
+- [[people/minlu-chai|蔡銘祿]]
+- [[people/peng-ming-min|Peng Ming-min (彭明敏)]]
+- [[people/philip-lin|林水泉]]
+- [[people/stella-chen|陳婉真]]
+- [[people/stella-landauer|陳翠玉]]
+- [[people/strong-chuang|莊秋雄]]
+- [[people/tina-chang|張丁蘭]]
+- [[people/tsung-ming-hsieh|謝聰敏]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

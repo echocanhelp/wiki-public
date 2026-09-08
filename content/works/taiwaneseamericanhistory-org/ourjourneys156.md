@@ -50,7 +50,7 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2015-08-04 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/united-formosans-for-independenceufi|United Formosans for Independence UFI (台獨聯盟)]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

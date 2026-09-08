@@ -83,7 +83,7 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2015-05-27 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/li-shun-lu|呂理順]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

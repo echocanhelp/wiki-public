@@ -71,7 +71,8 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2015-08-12 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/david-chiu|邱信福]]
+- [[people/prof-chin-chu-lin-m-d|林靜竹教授]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

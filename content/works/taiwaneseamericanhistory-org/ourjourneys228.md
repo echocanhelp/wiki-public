@@ -137,7 +137,20 @@ Posted in 05/2016
 - 2016-05-25 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/bob-in-yu-yang|楊英育]]
+- [[people/c-t-lee|李青泰]]
+- [[people/chiao-jung-wang|王巧蓉]]
+- [[people/coen-blaauw|昆布勞]]
+- [[people/eileen-lin|Eileen Lin]]
+- [[people/fong-chung-fan|樊豐忠]]
+- [[people/john-chen|陳榮儒]]
+- [[people/long-rong-mark-kao|高龍榮]]
+- [[people/ma-yingjeou|Ma Ying-jeou (馬英九)]]
+- [[people/masao-s-yu|游祥修醫師]]
+- [[people/peter-chen|陳正義]]
+- [[people/tsai-ing-wen|Tsai Ing-wen]]
+- [[people/wang-gui-rong|Wang Gui-rong (王桂榮)]]
+- [[people/yang-yuanxun|Yang Yuan-xun]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

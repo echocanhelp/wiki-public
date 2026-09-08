@@ -101,7 +101,11 @@ Houston張仁裕先生報告在Houston是先有台語學校，由台語學校才
 - 2015-07-30 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwanese-heritage-society-of-houston|Taiwanese Heritage Society of Houston (台灣人傳統基金會)]]
+- [[people/lung-chen|陳隆]]
+- [[people/prof-wen-chan|詹文聲教授]]
+- [[people/qun-tsai|蔡昆]]
+- [[people/tah-p-e842a7cf22|楊金文]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

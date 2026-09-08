@@ -61,7 +61,7 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2015-07-16 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwanese-association-of-america-greater-washington|Taiwanese Association of America Greater Washington (華府台灣同鄉會)]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

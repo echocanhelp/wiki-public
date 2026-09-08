@@ -43,7 +43,9 @@ Excerpt from San Diego Taiwanese American Foundation and Taiwan Center YAM Quart
 - 2015-08-10 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwan-american-foundation|Taiwanese American Foundation (TAF)]]
+- [[people/irene-lee|李智惠]]
+- [[people/julie-wong|翁致理]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

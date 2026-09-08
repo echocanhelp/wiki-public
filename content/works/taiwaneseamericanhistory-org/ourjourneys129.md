@@ -77,7 +77,8 @@ Email Address: jechin.han@gmail.com
 - 2015-04-22 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/liao-shu-zong|Liao Shu-zong (廖述宗)]]
+- [[people/prof-shutsung-liao|廖述宗教授]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

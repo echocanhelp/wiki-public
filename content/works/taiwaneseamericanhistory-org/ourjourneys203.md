@@ -85,7 +85,9 @@ Posted in 03/2016
 - 2016-03-09 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/lin-rongsong|Lin Jung-sung]]
+- [[people/peng-ming-min|Peng Ming-min (彭明敏)]]
+- [[people/simon-lin|Simon Lin (林榮松)]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

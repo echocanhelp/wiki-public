@@ -119,7 +119,30 @@ B義務：毎年樂捐。
 - 2015-11-24 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/ahhee-hsu|許丕龍]]
+- [[people/c-b-chien|簡錦標]]
+- [[people/charles-chiang|江昭儀]]
+- [[people/charles-ting|丁昭昇]]
+- [[people/chen-zhefu-xu-chunhui|Chen Zhefu & Xu Chunhui (陳哲夫、許春惠)]]
+- [[people/daniel-lin|林嘉仁]]
+- [[people/david-yang|楊熾勳]]
+- [[people/huey-lin|林惠洲]]
+- [[people/james-liang|梁政吉]]
+- [[people/minlu-chai|蔡銘祿]]
+- [[people/peter-su|蘇國雄]]
+- [[people/r-c-chen|陳瑞珠]]
+- [[people/raymond-wu|吳瑞信]]
+- [[people/rev-j-m-hsu|許錦銘]]
+- [[people/s-y-huang|黃森元]]
+- [[people/san-john-huang|黃三榮]]
+- [[people/symeon-woo|吳西面]]
+- [[people/tah-p-d699884bcd|鄭德和]]
+- [[people/thomas-liu|劉天良]]
+- [[people/tyzen-hsiao|蕭泰然]]
+- [[people/wang-gui-rong|Wang Gui-rong (王桂榮)]]
+- [[people/wu-lipei|Wu Li-pei]]
+- [[people/y-c-hsu-2|許英智]]
+- [[people/y-t-yan|顏裕庭]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

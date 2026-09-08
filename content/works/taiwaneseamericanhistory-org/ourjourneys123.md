@@ -503,7 +503,35 @@ Posted in 11/2016
 - 2015-03-30 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwanese-association-of-america|Taiwanese Association of America (全美台灣同鄉會)]]
+- [[people/adrian-lin|林宣緒]]
+- [[people/ang-lee|李安]]
+- [[people/ang-lee-2|李安]]
+- [[people/chen-maoxiong|Chen Mao-xiong (陳茂雄)]]
+- [[people/chen-shuibian|Chen Shui-bian (陳水扁)]]
+- [[people/chin-hsin-jason-liu|劉進興]]
+- [[people/chung-chen-paul-hsu|許忠政]]
+- [[people/coen-blaauw|昆布勞]]
+- [[people/h-m-chen|陳惠民]]
+- [[people/hsiu-fang-susan-liu|陳秀芳]]
+- [[people/hui-mei-lin|林慧美]]
+- [[people/iris-ho|何燕青]]
+- [[people/john-chen|陳榮儒]]
+- [[people/josephine-pan|Josephine Pan (潘掬慧)]]
+- [[people/karen-lin|林璇雯]]
+- [[people/liang-shing-fan|范良信]]
+- [[people/lung-chen|陳隆]]
+- [[people/michael-fonte|彭光理]]
+- [[people/nellie-gephardt-amondson|納莉]]
+- [[people/peng-ming-min|Peng Ming-min (彭明敏)]]
+- [[people/prof-felix-t-hong|洪正幸教授]]
+- [[people/rui-mu-lee|李瑞木]]
+- [[people/sing-nan-wang|王幸男]]
+- [[people/tah-p-1c92380779|陳樂群]]
+- [[people/thomas-shu|許正龍]]
+- [[people/tsung-ming-hsieh|謝聰敏]]
+- [[people/tyzen-hsiao|蕭泰然]]
+- [[people/wei-shou-hu|胡維碩]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

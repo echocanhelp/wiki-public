@@ -53,7 +53,9 @@ Posted in 03/2016
 - 2016-03-21 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwanese-association-of-america|Taiwanese Association of America (全美台灣同鄉會)]]
+- [[people/joseph-hong|洪茂澤]]
+- [[people/lung-chen|陳隆]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

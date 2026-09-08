@@ -63,7 +63,28 @@ Posted in 03/2016
 - 2016-03-30 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/charles-chiang|江昭儀]]
+- [[people/chih-cheng-wang|王志成]]
+- [[people/elaine-liu|黃久香]]
+- [[people/eric-wu|吳爾融]]
+- [[people/f-s-shen|沈富雄]]
+- [[people/ho-rui-hsu|許和瑞]]
+- [[people/huang-gen-shen|Huang Gen-shen (黃根深)]]
+- [[people/hui-na-lin|賴慧娜]]
+- [[people/jin-chyuan-yu|游銘泉]]
+- [[people/julius-shu-05|許清煌]]
+- [[people/li-mutong|李木通 (Li Mutong)]]
+- [[people/long-lee|李隆吉]]
+- [[people/mao-ching-david-huang|黃茂清]]
+- [[people/minlu-chai|蔡銘祿]]
+- [[people/nick-wu|吳仲輝]]
+- [[people/peter-su|蘇國雄]]
+- [[people/s-y-huang|黃森元]]
+- [[people/shu-lai|Shu Lai (賴淑遠)]]
+- [[people/simon-cheng|鄭良光]]
+- [[people/thomas-liu|劉天良]]
+- [[people/ting-yee-wang|王廷宜]]
+- [[people/xie-qingzhi-xie-poyi|Xie Qingzhi & Xie Poyi (謝清志、謝泊怡)]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

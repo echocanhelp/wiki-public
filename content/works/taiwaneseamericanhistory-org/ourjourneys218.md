@@ -83,7 +83,8 @@ Posted in 04/2016
 - 2016-04-20 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/hsiu-fang-susan-liu|陳秀芳]]
+- [[people/te-chiang-bacco-liu|劉德強]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

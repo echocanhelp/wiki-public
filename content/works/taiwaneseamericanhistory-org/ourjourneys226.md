@@ -65,7 +65,7 @@ Posted in 05/2016
 - 2016-05-17 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/wang-shufen|Wang Shu-fen]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

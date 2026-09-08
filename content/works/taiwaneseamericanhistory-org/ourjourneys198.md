@@ -81,7 +81,7 @@ Posted in 02/2016
 - 2016-02-24 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/shu-yuan-susan-tsay|蔡淑媛]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -69,7 +69,10 @@ Posted in 04/2016
 - 2016-04-20 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/c-n-chen|陳建南]]
+- [[people/d-y-liu|劉德勇]]
+- [[people/guang-xiong-ling|凌光雄]]
+- [[people/wang-neng-xiang|Wang Neng-xiang (王能祥)]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -53,7 +53,15 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2015-09-21 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwanese-america-seniors-association-of-southern-california-tasa|Taiwanese-America Seniors Association of Southern California TASA (南加州台灣人長輩會)]]
+- [[people/an-su-gao-lai|賴高安賜]]
+- [[people/charles-ting|丁昭昇]]
+- [[people/mao-ching-david-huang|黃茂清]]
+- [[people/raymond-wu|吳瑞信]]
+- [[people/roger-tsai|Roger Tsai]]
+- [[people/symeon-woo|吳西面]]
+- [[people/wang-gui-rong|Wang Gui-rong (王桂榮)]]
+- [[people/yang-jia-you|Charles Yang (楊嘉猷)]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

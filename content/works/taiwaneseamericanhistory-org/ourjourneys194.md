@@ -197,7 +197,8 @@ Posted in 2016/01
 - 2016-01-31 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/peng-ming-min|Peng Ming-min (彭明敏)]]
+- [[people/prof-ming-min-peng|彭明敏教授]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

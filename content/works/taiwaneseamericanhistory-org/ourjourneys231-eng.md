@@ -101,7 +101,22 @@ Posted on 12/2020
 - 2016-07-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
+- [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan (PCT)]]
+- [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]]
+- [[people/c-c-chen|Dr. C.C. Chen (陳昭俊)]]
+- [[people/chaolong-kao|Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)]]
+- [[people/daniel-kao|Dr. Daniel Kao (高光民)]]
+- [[people/david-huang|黃德利]]
+- [[people/jang-yen-wu|吳政彥]]
+- [[people/jen-hao-lee|李仁豪牧師]]
+- [[people/jonah-chang|Rev. Jonah Chang (張瑞雄)]]
+- [[people/nami-yang|李淑櫻]]
+- [[people/rev-edward-bin-tanng|陳黃義敏牧師]]
+- [[people/rev-j-m-hsu|許錦銘]]
+- [[people/rev-r-h-chang|張瑞雄牧師]]
+- [[people/ye-siya|Yeh Ssu-ya]]
+- [[people/ye-siya-zhang-xinhui|Ye Siya & Zhang Xinhui (葉思雅、張信惠)]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

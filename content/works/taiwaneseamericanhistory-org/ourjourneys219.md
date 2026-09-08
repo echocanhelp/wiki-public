@@ -55,7 +55,8 @@ Posted in 04/2016
 - 2016-04-25 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/kin-ko|柯金寅]]
+- [[people/nien-tzu-kuo|郭念慈]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

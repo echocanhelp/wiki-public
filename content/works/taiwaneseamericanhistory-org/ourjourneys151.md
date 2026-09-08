@@ -59,7 +59,7 @@ Taiwan’s Food Stand 台灣美食攤, 2013
 - 2015-07-17 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/chungchin-chen|陳仲欽]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

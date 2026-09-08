@@ -51,7 +51,13 @@ Logo of NATWA 點心擔
 - 2015-07-29 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/north-america-taiwanese-womens-association|North America Taiwanese Women’s Association (北美洲臺灣婦女會)]]
+- [[people/agnes-wu|姜瑞香]]
+- [[people/anna-chang|張月英]]
+- [[people/carol-ou-lin|歐春美]]
+- [[people/mei-lu|陳香梅]]
+- [[people/sue-chiu|黃雪香]]
+- [[people/t-y-ko|柯翠園]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

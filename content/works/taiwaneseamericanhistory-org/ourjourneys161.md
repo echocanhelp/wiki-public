@@ -67,7 +67,15 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2015-08-07 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/cheryl-lin-hong|林千千]]
+- [[people/debra-liu|謝金朱]]
+- [[people/gin-ru-yeh|葉錦如]]
+- [[people/hui-na-lin|賴慧娜]]
+- [[people/ingrid-tseng|曾暎貴]]
+- [[people/julan-jau|趙珠蘭]]
+- [[people/mei-fun-tsai|吳美芬]]
+- [[people/t-y-ko|柯翠園]]
+- [[people/yang-yuanxun|Yang Yuan-xun]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -115,7 +115,9 @@ Posted in 05/2016
 - 2016-05-09 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwanese-association-of-america|Taiwanese Association of America (全美台灣同鄉會)]]
+- [[people/chung-nan-shih|施忠男]]
+- [[people/tsung-ming-hsieh|謝聰敏]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

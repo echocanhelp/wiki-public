@@ -109,7 +109,7 @@ Posted in 05/2016
 - 2016-05-11 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/sing-nan-wang|王幸男]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

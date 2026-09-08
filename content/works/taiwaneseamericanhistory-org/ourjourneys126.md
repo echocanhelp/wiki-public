@@ -173,7 +173,13 @@ UFI的文宣《ILHA FORMOSA》（美麗島）
 - 2015-04-14 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/democratic-progressive-party|Democratic Progressive Party (民主進步黨)]]
+- [[organizations/taiwanese-association-of-america|Taiwanese Association of America (全美台灣同鄉會)]]
+- [[organizations/united-formosans-for-independenceufi|United Formosans for Independence UFI (台獨聯盟)]]
+- [[people/peng-ming-min|Peng Ming-min (彭明敏)]]
+- [[people/richard-lee|李正三]]
+- [[people/tah-p-e00ace0a3a|毛清芬]]
+- [[people/tsu-yi-jay-loo|盧主義]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

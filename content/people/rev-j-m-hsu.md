@@ -48,6 +48,15 @@ last_reviewed: 2026-08-17
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — **origin** (台神), not U.S. employer
 - [[people/david-huang||黃德利]] — 北美宣道會 1983; GSTPC40 seven-pastor list
 
+## Related Pages
+
+- [[organizations/formosan-presbyterian-church-in-los-angeles]]
+- [[people/chaolong-kao]]
+- [[people/david-huang]]
+- [[organizations/good-shepherd-taiwanese-presbyterian-church]]
+- [[organizations/tpc]]
+- [[organizations/presbyterian-church-in-taiwan]]
+
 ## Sources
 1. [TAH Who’s Who: Rev. J. M. Hsu](https://taiwaneseamericanhistory.org/person/rev-j-m-hsu/)
 2. [TAH #2131](https://taiwaneseamericanhistory.org/whos-who-2131-j-m-hsu/)

@@ -61,7 +61,9 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2015-08-26 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/jennie-wang|林靜娥]]
+- [[people/liao-shu-zong|Liao Shu-zong (廖述宗)]]
+- [[people/shitien-yang|楊錫鈿]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

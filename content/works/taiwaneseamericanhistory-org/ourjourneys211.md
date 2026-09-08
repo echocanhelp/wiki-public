@@ -55,7 +55,7 @@ Posted in 03/2016
 - 2016-03-25 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/symeon-woo|吳西面]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

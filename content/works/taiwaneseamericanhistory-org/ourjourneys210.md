@@ -147,7 +147,14 @@ Posted in 03/2016
 - 2016-03-23 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/chen-shuibian|Chen Shui-bian (陳水扁)]]
+- [[people/clara-chen|劉真真]]
+- [[people/frank-hsieh|Frank Hsieh]]
+- [[people/j-z-lee|李錦容]]
+- [[people/kao-chun-ming|Rev. Kao Chun-ming (高俊明)]]
+- [[people/sing-nan-wang|王幸男]]
+- [[people/stella-landauer|陳翠玉]]
+- [[people/tina-chang|張丁蘭]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

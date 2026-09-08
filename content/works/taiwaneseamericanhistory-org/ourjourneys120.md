@@ -55,7 +55,7 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2015-03-23 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/w-y-chou|周婉窈]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

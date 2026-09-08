@@ -47,7 +47,7 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2016-01-11 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/ken-lee|李彥禎]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

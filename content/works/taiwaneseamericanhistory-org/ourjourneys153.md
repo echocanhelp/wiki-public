@@ -60,7 +60,8 @@ Taiwanese American 2nd Generation 台美人第二代在美東夏令營 (TANG at 
 - 2015-07-24 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/chao-nan-liu|劉照男]]
+- [[people/kin-ko|柯金寅]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

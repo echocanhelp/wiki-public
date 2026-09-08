@@ -69,7 +69,15 @@ Inside the center, people toured the facility and enjoyed sumptuous food. At 3:3
 - 2015-08-10 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles (大洛杉磯台灣會館)]]
+- [[people/carol-ou-lin|歐春美]]
+- [[people/chen-ming-wang|王建民]]
+- [[people/irene-lee|李智惠]]
+- [[people/jinwun-winston-lue|呂錦文]]
+- [[people/julie-wong|翁致理]]
+- [[people/m-s-wu|吳銘賢博士]]
+- [[people/si-zhi-chen|陳泗治]]
+- [[people/tyzen-hsiao|蕭泰然]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

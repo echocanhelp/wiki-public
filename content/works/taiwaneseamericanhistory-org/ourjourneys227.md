@@ -51,7 +51,7 @@ Posted in 05/2016
 - 2016-05-18 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/chi-shun-hwang|黃智舜]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -63,7 +63,7 @@ Translated from 18. 威郡台灣婦女會 /2014/09
 - 2015-08-27 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/westchester-taiwanese-womens-associationwtwa|Westchester Taiwanese Women’s Association WTWA (威郡台灣婦女會)]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

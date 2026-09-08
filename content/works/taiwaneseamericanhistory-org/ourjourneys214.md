@@ -67,7 +67,8 @@ Posted in 04/2016
 - 2016-04-06 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwanese-american-perspectives|Taiwanese American Perspectives]]
+- [[people/thomas-liu|劉天良]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

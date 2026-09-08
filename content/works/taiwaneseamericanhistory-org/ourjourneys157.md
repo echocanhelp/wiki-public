@@ -73,7 +73,9 @@ Posted in 01/2017
 - 2015-08-05 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/taiwanese-american-student-association|Taiwanese American Student Association]]
+- [[people/sibyl-chen|陳世樸]]
+- [[people/wang-shufen|Wang Shu-fen]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

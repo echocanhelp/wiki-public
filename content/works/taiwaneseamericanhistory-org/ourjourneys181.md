@@ -79,7 +79,9 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2015-10-19 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/new-york-taiwan-center|New York Taiwan Center (紐約台灣會館)]]
+- [[people/dou-hwei-su-liu|劉蘇多惠]]
+- [[people/lai-ching-te|Lai Ching-te]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

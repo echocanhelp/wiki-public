@@ -61,7 +61,12 @@ Posted in 04/2015
 - 2015-04-22 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/bianca-liang|梁沁茵]]
+- [[people/julia-huang|黃馨儀]]
+- [[people/karen-lin|林璇雯]]
+- [[people/te-chiang-bacco-liu|劉德強]]
+- [[people/tyzen-hsiao|蕭泰然]]
+- [[people/yi-ming-chen|陳怡名]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

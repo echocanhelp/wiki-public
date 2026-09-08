@@ -41,7 +41,7 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2016-01-10 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/christine-l-yang|林壽英]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

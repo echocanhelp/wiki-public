@@ -51,7 +51,8 @@ Posted in 05/2016
 - 2016-05-01 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/north-shore-club|North Shore Club (北濱會)]]
+- [[people/christine-l-yang|林壽英]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

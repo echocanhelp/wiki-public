@@ -49,7 +49,7 @@ Posted in 04/2016
 - 2016-04-29 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/shoki-coe|Dr. Shoki Coe (黃彰輝)]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

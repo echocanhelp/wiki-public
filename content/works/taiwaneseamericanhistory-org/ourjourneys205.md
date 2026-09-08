@@ -63,7 +63,7 @@ Posted in 03/2016
 - 2016-03-15 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/li-lin-cheng|鄭麗伶]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

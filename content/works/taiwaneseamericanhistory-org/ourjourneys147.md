@@ -53,7 +53,8 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - 2015-07-02 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/amy-hsu|蘇惠美]]
+- [[people/yung-hwa-hsu|許永華]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

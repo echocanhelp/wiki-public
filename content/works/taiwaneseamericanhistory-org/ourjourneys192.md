@@ -91,7 +91,11 @@ Source from Los Angeles Times 01/13/2016
 - 2016-01-14 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/democratic-progressive-party|Democratic Progressive Party (民主進步黨)]]
+- [[people/kenneth-wang|王克雄博士]]
+- [[people/lai-ching-te|Lai Ching-te]]
+- [[people/simon-lin|Simon Lin (林榮松)]]
+- [[people/tsai-ing-wen|Tsai Ing-wen]]
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
