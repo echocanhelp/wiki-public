@@ -4,7 +4,7 @@ type: person
 tags:
   - 
 verification_status: pending
-last_reviewed: 2026-07-08
+last_reviewed: 2026-09-08
 ---
 # Elder Deng Shuzhen (鄧淑貞長老)
 
@@ -78,4 +78,5 @@ Use Echopedia Community Contributions Hub and include:
 - GSTPC Tier-A Person Wikification Queue (第一優先人物建頁佇列)
 - GSTPC Bulletin Person Wikification Candidates (週報人物頁候選清單)
 - [[organizations/good-shepherd-taiwanese-presbyterian-church||Good Shepherd Taiwanese Presbyterian Church (好牧者臺灣基督長老教會)]]
+- [[sources/good-shepherd-taiwanese-presbyterian-church||GSTPC Official Website (source)]] — bulletin archive backing the 86-page mention corpus
 - GSTPC Fiduciary Extraction Ledger

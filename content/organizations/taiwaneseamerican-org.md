@@ -11,7 +11,7 @@ tags:
   - story-corpus
 website: https://www.taiwaneseamerican.org/
 verification_status: pending
-last_reviewed: 2026-09-06
+last_reviewed: 2026-09-08
 ---
 # TaiwaneseAmerican.org
 
@@ -45,7 +45,7 @@ Official About: **To connect, inform and promote** the people, events and organi
 | Social Media Director (founding) | Eric Kao | ITASA; TAF |
 | Executive Director (founding) | Erica Ling | UCSD; Loyola Law; ITASA West |
 | Logistics & Operations | Margaret Chen | ITASA, TANG, TAF |
-| Finance Director | Carol Lee | listed title only |
+| Finance Director | [[people/carol-lee||Carol Lee]] | listed title only |
 | Legal Counsel | Nicholas Huang | Indianapolis attorney — **not merged** with [[people/nicholas-c-huang||Nicholas C. Huang (黄文郁)]] until 漢名+bio HIT |
 | Administrative Assistant to the Board | Grace Liang | TAP Atlanta; Georgia Tech |
 | Administrative Director | Kristina Lin | ITASA; NATWA II; GLO |
@@ -53,7 +53,7 @@ Official About: **To connect, inform and promote** the people, events and organi
 
 ## Works
 
-Story-corpus on Echopedia: [[works/index||Historical works]] · `content/works/taiwaneseamerican-org/` (A/B/C units). Full firehose stays in the vault.
+Story-corpus on Echopedia: [[works/index||Historical works]] · `content/works/taiwaneseamerican-org/` — 2,413 harvested story pages as of the 0908 crawl (A/B/C units). Full firehose stays in the vault. Cross-corpus sibling: [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]].
 
 ## Related Pages
 - [[sources/taiwaneseamerican-org||Source hub]]

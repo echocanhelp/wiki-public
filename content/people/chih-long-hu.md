@@ -43,7 +43,7 @@ _No filled family fields on the TAH profile._
 
 ## References in vault
 - [[works/taiwaneseamericanhistory-org/15109||444. Chih-Long Hu 胡志龍 / 2015/06]] — TAH encyclopedia #444
-- [[works/taiwaneseamericanhistory-org/210-hsin-yun-huang-e9-bb-84-e5-bf-83-e8-8a-b8-viola-201506||210. Chih-Long Hu 胡志龍, Pianist  / 2015/06]] — TAH encyclopedia #210 (source-site URL slug points at the 黃心芸 entry — site labeling error)
+- [[works/taiwaneseamericanhistory-org/210-hsin-yun-huang-e9-bb-84-e5-bf-83-e8-8a-b8-viola-201506||210. Chih-Long Hu 胡志龍, Pianist  / 2015/06]] — TAH encyclopedia #210 (source-site URL slug points at the [[people/hsin-yun-huang||Hsin-Yun Huang (黃心芸)]] entry — site labeling error)
 
 
 ## Sources

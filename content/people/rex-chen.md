@@ -3,7 +3,7 @@ title: "Rex Chen (陳乃光)"
 type: person
 tags: []
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-08
 ---
 # Rex Chen (陳乃光 / Chen Nai-Guang)
 
@@ -59,7 +59,7 @@ A business card shared during onboarding identifies Rex Chen as First Vice Presi
 
 - 2026-06-15: Created Echopedia onboarding page for Rex Chen following Leonard Hsu Jr.'s LINE group introduction and membership instruction.
 - 2026-06-16: Corrected attribution after triple-check: assigned 陳乃光 to Rex Chen, restored Leonard Hsu Jr. to 許景鴻, and linked Rex's LINE sender account as owner-confirmed.
-- 2026-08-17: Owner: TAH `/person/rex-chen/` is 陳財元 (d. 2003), not this member. Unmerged TAH tables/family to [[people/chen-caiyuan||陳財元]].
+- 2026-08-17: Owner: TAH `/person/rex-chen/` (see [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]], [[organizations/tah-foundation||TAH Foundation]]) is 陳財元 (d. 2003), not this member. Unmerged TAH tables/family to [[people/chen-caiyuan||陳財元]].
 
 ## Disambiguation
 - [[people/chen-caiyuan||Rex Chen (陳財元)]] — TAH Who’s Who, 1949–2003, Oklahoma. Different person.
