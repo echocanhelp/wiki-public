@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-08
 ---
 # Jason Chang (張哲雄)
 
@@ -19,7 +19,7 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, artist, educator
 - **Source:** TAH Foundation Who’s Who
 
-Jason Chang, President of North America Pastel Artists Association, board member of Allied Artists of America and Audubon Artists Society. An elected Master Pastelist & Friend of Pastel Honoree of PSA. He had taught in National Taiwan Arts University, College of New Rochelle, St. John’s University, School of Pastel/National Arts Club and etc. He has been appointed to do live demonstrations and conduct lectures in universities, museums, and art organizations in Taiwan, China, Europe and the US. He had exhibited his artwork worldwide, and he’s been introduced in various magazine articles in America, Asia and Europe. And he’s also listed in “Who’s Who in America Arts”. He assisted in organizing and sponsoring “International Pastelists Invitational Exhibition” for National Taiwan Arts Education Center (NTAEC), and acted as the lecturer of “Pastel Art Teachers Workshop” in NTAEC once to twice a year. He also has an agent/art dealer “99 Degree Art Center” in Taipei, Taiwan & “Hwang’s Art Gallery” in New York.
+Jason Chang, President of [[organizations/north-america-pastel-artist-association|North America Pastel Artists Association]], board member of Allied Artists of America and Audubon Artists Society. An elected Master Pastelist & Friend of Pastel Honoree of PSA. He had taught in National Taiwan Arts University, College of New Rochelle, St. John’s University, School of Pastel/National Arts Club and etc. He has been appointed to do live demonstrations and conduct lectures in universities, museums, and art organizations in Taiwan, China, Europe and the US. He had exhibited his artwork worldwide, and he’s been introduced in various magazine articles in America, Asia and Europe. And he’s also listed in “Who’s Who in America Arts”. He assisted in organizing and sponsoring “International Pastelists Invitational Exhibition” for National Taiwan Arts Education Center (NTAEC), and acted as the lecturer of “Pastel Art Teachers Workshop” in NTAEC once to twice a year. He also has an agent/art dealer “99 Degree Art Center” in Taipei, Taiwan & “Hwang’s Art Gallery” in New York.
 
 <!-- tah-tables:start -->
 ## Education
@@ -49,3 +49,4 @@ Jason Chang, President of North America Pastel Artists Association, board member
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[organizations/north-america-pastel-artist-association||North America Pastel Artists Association]]

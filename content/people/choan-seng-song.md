@@ -4,7 +4,7 @@ type: person
 tags:
   - 
 verification_status: published
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-08
 ---
 # Dr. Choan-Seng Song (宋泉盛)
 
@@ -97,6 +97,6 @@ Use the shared intake process at Echopedia Community Contributions Hub and inclu
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
-- toward-a-community-of-hope
+- [[sources/toward-a-community-of-hope|Toward a Community of Hope]]
 - [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan (台灣基督長老教會)]]
-- Echopedia Person Recordation Framework
+- [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]

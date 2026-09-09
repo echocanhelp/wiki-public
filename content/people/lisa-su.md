@@ -9,7 +9,7 @@ tags:
   - semiconductor
   - ceo
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-08
 ---
 # Lisa T. Su (蘇姿丰)
 
@@ -24,7 +24,7 @@ last_reviewed: 2026-08-17
 - **Role:** CEO and President, AMD (Advanced Micro Devices)
 - **Geography:** Sunnyvale, California / Silicon Valley
 - **Heritage:** Second-generation Taiwanese American
-- **Family:** Father 蘇春槐 (Su Chun-huai) profiled in 2017 TAHS Publication
+- **Family:** Father [[people/su-chun-huai|蘇春槐 (Su Chun-huai)]] profiled in [[sources/2017-tahs-publication|2017 TAHS Publication]]
 
 ## Education
 

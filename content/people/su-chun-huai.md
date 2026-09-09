@@ -8,7 +8,7 @@ tags:
   - father
   - amd
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-08
 ---
 # Su Chun-huai (蘇春槐)
 
@@ -26,7 +26,7 @@ last_reviewed: 2026-08-17
 
 ## Background
 
-Su Chun-huai is a community leader who has been actively involved in Taiwanese American organizations. He is a founding director (創會理事) of the New York Taiwan Association (紐約台灣會館), an organization that serves Taiwanese Americans in the New York metropolitan area.
+Su Chun-huai is a community leader who has been actively involved in Taiwanese American organizations. He is a founding director (創會理事) of the [[organizations/new-york-taiwan-center|New York Taiwan Center (紐約台灣會館)]], an organization that serves Taiwanese Americans in the New York metropolitan area.
 
 His profile in the 2017 TAHS Publication was notable for its focus on his pride in his daughter Lisa's achievements as CEO of AMD. The profile highlighted his role as a father who raised a daughter who would go on to become one of the most powerful women in the technology industry.
 
@@ -39,7 +39,7 @@ The profile emphasized Su Chun-huai's role in helping his daughter learn about o
 ## Community Involvement
 
 Su Chun-huai has been involved in various Taiwanese American community organizations, including:
-- Founding director, New York Taiwan Association (紐約台灣會館)
+- Founding director, [[organizations/new-york-taiwan-center|New York Taiwan Center (紐約台灣會館)]]
 - Active participant in Taiwanese American community affairs
 
 
@@ -81,3 +81,4 @@ Pages that link to **su-chun-huai** (su-chun-huai):
 - [[sources/2017-tahs-publication||2017 TAHS Publication]]
 - [[people/lisa-su||Lisa T. Su (蘇姿丰) — daughter, AMD CEO]]
 - [[people/franklin-ping-cheng||Franklin Ping Cheng (程炳成) — TAHS president]]
+- [[organizations/new-york-taiwan-center||New York Taiwan Center (紐約台灣會館)]]
