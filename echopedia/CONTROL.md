@@ -38,6 +38,12 @@ Bare messages without `go` on this system are treated the same as `go <message>`
 
 Full classifier: skill **`go-router`**.
 
+**LINE topology (2026-09-06):** ngrok → **Caddy `:8600`** path-split → three webhook units, each health-checked at its own path:
+- `/line/*` → **`:8646` global unit** (`HERMES_HOME` default profile) = **Echo許**. Toolsets fixed 2026-09-06 — docs ops work here now.
+- `/ee/*` → **`:8647`** profile `stories` = **EE story collector**.
+- `/aiko/*` → **`:8648`** profile `aiko` = **Aiko**.
+- Health: `curl :8646/line/webhook/health` · `curl :8647/ee/line/webhook/health` · `curl :8648/aiko/line/webhook/health` (all via Caddy too: `:8600/<same paths>`). Ngrok tunnel `addr` is **`8600`** (Caddy), never a unit port directly.
+
 **LLM (pinto media-stack):** Always-on brain is **whatever `:8888` currently serves** (`custom:pinto`). Pin by **port**, not by stack name. Live id = `curl -sf :8888/v1/models` first `data[0].id` (also in `~/.hermes/cache/pinto-llm-mode.json` `served_model`). **Never** hardcode `ornith-1.5-35b-a3b-nvfp4` / `deepseek-v4-flash-0731` / Laguna in Hermes config, kanban `--model`, cron, or `auxiliary.goal_judge` — those 404 after a mode swap. After `swap-llm-stack.sh *`, run (or let the swap script run) `~/.hermes/scripts/retarget-lan-hermes.sh` so `model.default` / `custom_providers` / `delegation` / `compression` / `goal_judge` follow the live id. Today that is DSV4 (`vllm-dsv4.service`). Hard media = stop `:8888` (agent off). Reboot `force_up_on_reboot`. Never dual vLLM. LINE = Grok-primary + LAN fallback (live id). Ornith revert: `swap-llm-stack.sh ornith-primary` (retargets Hermes).
 
 **STT (one door, all channels):** `~/ai-services/media-stack/orchestrator/stt.sh` — tape stays; sidecar `.stt.txt`. Default **Breeze-ASR-25** CT2 int8 CPU (`language=zh`, 台灣華語). `--engine taigi` = Breeze-ASR-26 (華語漢字, not 台羅). Fallback zh = faster-whisper `base`. **pinto + stories + global** (`~/.hermes/config.yaml`, Echo許) all `stt.provider: pinto_stt` → this door. HeartMuLa fidelity same. 萌典 is spelling SSOT, not ASR. STT config via `hermes config set` only (global: `env -u HERMES_HOME`).
@@ -370,7 +376,8 @@ prefer delete/dedupe/generate over new essays
 9. **Generated status files are not hand SSOT.**  
 10. **One lesson → one place.**
 11. **Names:** title + slug = preferred English + 漢名 (`romanization-lexicon.json`). **Not** Hanyu Pinyin (`蔡`=Tsai). **Taigi default = Tâi-lô.** Verify words with 萌典 `https://www.moedict.tw/t/<詞>.json` via `scripts/moedict-ssot.py` — **spoken picker** (白 > 替 > audio > unlabeled > 文; never first-wins `h[0]`), **longest-match** on `/t/index.json`, and **sense overrides** (`echopedia/taigi-sense-overrides.json`: `長`=`tn̂g` not `tiúnn`; `到`=`kàu` not `tàu`). Saying “Taigi” without a scheme means Tâi-lô. **POJ only** when the named source is church / PCT / hymn / 教會公報 / other historical religious text — quote it, label **POJ:**. One system per page; never mix; never into the slug; never mass-fill TAH stubs from a converter. Person names HOLD (family/TAH/person), not 萌典. **Echo Resonance Taigi:** write a native 台語歌 — HeartMuLa sings **漢字**; wiki/audit = Tâi-lô interlinear (`audit-pack`). Never translate English lyrics; never sing romanization. Sung 腔口 is **not** a 萌典 problem.
-12. **Echopedia is the 2nd brain.** Person / org / church / community facts: look in the vault first (`echopedia-first-answer.py` → title/alias retrieve). Cite the page. Web, news, and session_search only after a vault miss. Never invent a bio that contradicts the page.
+12. **LINE per-profile guard state.** `line_public_guard` / `line_security` resolve `data/line_verified_users.yaml` from each profile's HERMES_HOME. **Every profile serving LINE must own its file** with its owner uid in `admin_users` — a missing profile file makes the owner a *public* user → override `["echopedia"]` → 0 native tools (looks exactly like the #38798 stale-toolset symptom; config+restart fixes cannot touch it). Aiko seeded 2026-09-08.
+13. **Echopedia is the 2nd brain.** Person / org / church / community facts: look in the vault first (`echopedia-first-answer.py` → title/alias retrieve). Cite the page. Web, news, and session_search only after a vault miss. Never invent a bio that contradicts the page.
 
 ---
 

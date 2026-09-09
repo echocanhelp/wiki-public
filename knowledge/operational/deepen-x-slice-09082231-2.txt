@@ -1,0 +1,4 @@
+people/winnie-cheng-wen-lai.md
+people/tahs-member-onboarding.md
+people/samantha-yu.md
+people/amanda-hsu.md

@@ -1,8 +1,8 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "standards_version": 10,
   "total_pages_scanned": 2879,
-  "pages_with_findings": 13,
+  "pages_with_findings": 17,
   "auto_queued": 1,
   "queue": [
     {
@@ -21,5 +21,5 @@
     }
   ],
   "suppressed_findings": 1828,
-  "fp_history_entries": 1879
+  "fp_history_entries": 1883
 }

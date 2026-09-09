@@ -27,7 +27,7 @@
 | 50 1 * * * | `echopedia-backlink-auditor` | no_agent | on | ok | `echopedia-backlink-auditor-cron.sh` |
 | 50 4 * * * | `memory-audit` | no_agent | on | ok | `memory-audit.sh` |
 | every 1m | `vllm-thermal-scaler` | no_agent | on | ok | `vllm-thermal-scaler.sh` |
-| every 30m | `unified-watchdog` | no_agent | on | ok | `unified-watchdog.sh` |
+| every 30m | `unified-watchdog` | no_agent | on | error | `unified-watchdog.sh` |
 | once at 2026-09-08 02:45 | `tah-gate-0245` | no_agent | OFF | ok | `tah-gate-0245.sh` |
 | once at 2026-09-08 03:10 | `tah-resume-0310` | no_agent | OFF | ok | `tah-resume-0310.sh` |
 

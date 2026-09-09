@@ -664,3 +664,4 @@
 {"ts": "2026-09-07T20:40:54Z", "status": "miss", "query": "你好 你是誰？", "slug": null, "source": "brain", "kind": null}
 {"ts": "2026-09-07T20:50:08Z", "status": "hit", "query": "/new", "slug": "new-world-art-center", "source": "brain", "kind": "organization"}
 {"ts": "2026-09-07T20:50:23Z", "status": "hit", "query": "Who are you", "slug": "yang-jia-you", "source": "brain", "kind": "person"}
+{"ts": "2026-09-09T00:22:52Z", "status": "hit", "query": "/new", "slug": "new-world-art-center", "source": "brain", "kind": "organization"}

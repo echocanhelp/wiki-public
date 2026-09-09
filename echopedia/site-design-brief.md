@@ -1,4 +1,4 @@
-## Site design audit — 2026-09-08 04:36
+## Site design audit — 2026-09-09 04:30
 
 - pages_md=15035
 - critical=0 high=0 medium=1
@@ -8,12 +8,11 @@
 - **SITE_DESIGN_STATUS: WARN**
 
 ### MEDIUM (1)
-- **F4** people/index.html is 1489175 bytes — heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break.
+- **F4** people/index.html is 1489563 bytes — heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break.
 
 ### LOW (1)
-- **C1** spelling signals (sample): 2 `[AGENT_SUGGESTED]`
-  - `ourjourneys8.md: ?maysing`
-  - `ourjourneys8-eng.md: teh→the`
+- **C1** spelling signals (sample): 1 `[AGENT_SUGGESTED]`
+  - `tahs-member-onboarding.md: ?onboarding`
 
 ### INFO (2)
 - **B2** pinned featured pages: 6 (cap 6 people + 3 orgs; overflow hides recency)
@@ -23,15 +22,15 @@
   - `people/lin-yuan-ching.md`
   - `people/yang-jia-you.md`
   - `people/yang-xin.md`
-- **B1** person/org touched ≤7d (rely on recency featured window): 18
+- **B1** person/org touched ≤7d (rely on recency featured window): 66
+  - `people/albert-chapter1-audiobook-consent-and-recording-kit.md`
+  - `people/albert-chapter1-en-review.md`
+  - `people/albert-chapter1-zh-hsiaochen-full-review.md`
+  - `people/becky-yang.md`
   - `people/chao-sile.md`
   - `people/chen-meihui.md`
+  - `people/chen-ming-wang.md`
   - `people/chen-po-kong.md`
-  - `people/du-ao-cunfu.md`
-  - `people/fan-jiang-ti-ang.md`
-  - `people/guan-renjian.md`
-  - `people/hsu-ching-chun.md`
-  - `people/huang-diyin.md`
 
 ### Programmable heals
 - (none)

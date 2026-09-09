@@ -1,0 +1,4 @@
+people/hannah-hsu-wang.md
+people/richard-chang.md
+people/george-leslie-mackay.md
+people/quei-lih-chen.md

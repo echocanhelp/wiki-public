@@ -1,15 +1,8 @@
 {
   "version": 1,
-  "last_run": "2026-09-08",
+  "last_run": "2026-09-09",
   "standards_version_seen": 10,
   "runs": [
-    {
-      "date": "2026-08-05",
-      "candidates": 29220,
-      "selected": 5,
-      "standards_version": 8,
-      "standards_bumped": false
-    },
     {
       "date": "2026-08-06",
       "candidates": 29220,
@@ -212,33 +205,16 @@
       "selected": 40,
       "standards_version": 10,
       "standards_bumped": false
+    },
+    {
+      "date": "2026-09-09",
+      "candidates": 115,
+      "selected": 40,
+      "standards_version": 10,
+      "standards_bumped": false
     }
   ],
   "queue": [
-    {
-      "path": "events/sc-good-shepherd-taiwan-home-tag-bulletin-2.md",
-      "findings": [],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "events/sc-good-shepherd-taiwan-home-category-bulletin.md",
-      "findings": [],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
     {
       "path": "people/chen-po-kong.md",
       "findings": [
@@ -392,18 +368,6 @@
       "findings": [
         "LINK_BODY_SPARSE"
       ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "people/rev-j-m-hsu.md",
-      "findings": [],
       "hygiene": [],
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
@@ -680,18 +644,6 @@
       ]
     },
     {
-      "path": "people/grace-h-yeh.md",
-      "findings": [],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
       "path": "people/samuel-wu.md",
       "findings": [
         "LINK_BODY_SPARSE"
@@ -776,6 +728,62 @@
       ]
     },
     {
+      "path": "people/rong-hu-lu.md",
+      "findings": [
+        "LINK_BODY_SPARSE"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "people/dr-ching-k-lin.md",
+      "findings": [
+        "LINK_BODY_SPARSE"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "people/chi-yi-chen.md",
+      "findings": [
+        "LINK_BODY_SPARSE"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "people/janet-tsai.md",
+      "findings": [
+        "LINK_BODY_SPARSE"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
       "path": "events/sc-taiwancenter-org-event-groundbreaking-ceremony.md",
       "findings": [
         "DESC_NO_TITLE_MENTION",
@@ -792,10 +800,8 @@
       "priority": "medium"
     }
   ],
-  "last_candidates": 119,
+  "last_candidates": 115,
   "last_selected": [
-    "events/sc-good-shepherd-taiwan-home-tag-bulletin-2.md",
-    "events/sc-good-shepherd-taiwan-home-category-bulletin.md",
     "people/chen-po-kong.md",
     "people/du-ao-cunfu.md",
     "people/yuan-zhihui.md",
@@ -807,7 +813,6 @@
     "people/john-chin-jung-cheng.md",
     "people/zai-xing-wang.md",
     "people/rev-edward-bin-tanng.md",
-    "people/rev-j-m-hsu.md",
     "people/rev-sheng-to-shih.md",
     "people/tina-shih.md",
     "people/rev-r-h-chang.md",
@@ -827,12 +832,15 @@
     "people/prof-yang-en-cheng.md",
     "people/milo-thornberry.md",
     "people/wudong-huang.md",
-    "people/grace-h-yeh.md",
     "people/samuel-wu.md",
     "people/sam-wei-chih-sun.md",
     "people/rev-james-chang.md",
     "people/felix-liu.md",
     "people/rev-h-d-chen.md",
-    "people/yin-yin-huang.md"
+    "people/yin-yin-huang.md",
+    "people/rong-hu-lu.md",
+    "people/dr-ching-k-lin.md",
+    "people/chi-yi-chen.md",
+    "people/janet-tsai.md"
   ]
 }

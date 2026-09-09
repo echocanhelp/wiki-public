@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-09-08 04:36 PDT*
+*Generated: 2026-09-09 04:29 PDT*
 
 ## Orientation
 - **Entry:** go <plain language> via go-router (auto-route) · **Control:** [CONTROL.md](CONTROL.md)
@@ -14,14 +14,14 @@
 - **Level:** L3
 - **L2 auto-publish on drift:** True
 - **L3 auto-push when green:** True
-- **Last good deploy:** `767b020192`
-- **Last night (ledger):** first-mention 3 page(s) · analyzer scanned 2878 queued 12 suppressed 1748 · 🟡 QUEUE janitor HOLD leftover 40 · 🟡 QUEUE kanban blocked 12
+- **Last good deploy:** `4135a108dd`
+- **Last night (ledger):** related-pages 4 · analyzer scanned 2879 queued 1 suppressed 1828 · 🟡 QUEUE janitor HOLD leftover 40 · 🟡 QUEUE kanban blocked 21
 - **Track SSOT:** `knowledge/operational/intelligence/autonomy-ledger.json`
 
 ## Content
 |- **Tier1 pages:** 2849 (people 2402 / orgs 429 / sources 18) · Tier2 archive: 29103
 |- **Janitor queue depth:** 41
-|- **Uncommitted files:** 3784
+|- **Uncommitted files:** 20939
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 || Stage | Script | Last run | Output |
@@ -55,44 +55,44 @@ Load skill **echopedia-ops** first for any wiki work.
 ```
     Name:      cron-output-rotate
     Schedule:  15 3 * * *
-    Last run:  2026-09-08T03:15:04.160184-07:00  ok
+    Last run:  2026-09-09T03:15:57.411102-07:00  ok
     Name:      vault-morning-brief
     Schedule:  0 7 * * *
-    Last run:  2026-09-07T07:00:19.197167-07:00  ok
+    Last run:  2026-09-08T07:00:18.959693-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-09-08T04:35:07.082738-07:00  ok
+    Last run:  2026-09-09T04:27:58.089833-07:00  ok
     Name:      Echopedia content analysis
     Schedule:  10 1 * * *
-    Last run:  2026-09-08T01:10:45.578816-07:00  ok
+    Last run:  2026-09-09T01:11:21.670024-07:00  ok
     Name:      unified-watchdog
     Schedule:  every 30m
-    Last run:  2026-09-08T04:25:05.486043-07:00  ok
+    Last run:  2026-09-09T04:10:01.513442-07:00  error: Script exited with code 2
+/home/leedt/.hermes/profiles/pinto/scripts/unified-watchdog.sh: line 190: syntax error near unexpected token `('
+/home/leedt/.hermes/profiles/pinto/scripts/unified-watchdog.sh: line 191: syntax error near unexpected token `fi'
     Name:      echopedia-digest
     Schedule:  20 6 * * *
-    Last run:  2026-09-07T06:20:10.152198-07:00  ok
+    Last run:  2026-09-08T06:20:08.759661-07:00  ok
     Name:      memory-audit
     Schedule:  50 4 * * *
-    Last run:  2026-09-07T04:50:07.328368-07:00  ok
+    Last run:  2026-09-08T04:50:06.502315-07:00  ok
     Name:      echopedia-nightly-audit
     Schedule:  15 1 * * *
-    Last run:  2026-09-08T01:49:51.739545-07:00  ok
+    Last run:  2026-09-09T01:47:27.554916-07:00  ok
     Name:      echopedia-janitor
     Schedule:  30 1 * * *
-    Last run:  2026-09-08T01:40:49.150744-07:00  ok
+    Last run:  2026-09-09T01:41:26.232804-07:00  ok
     Name:      echopedia-weekly-improvement
     Schedule:  0 6 * * 0
     Last run:  2026-09-06T06:04:40.787408-07:00  ok
     Name:      echopedia-ci-heal
     Schedule:  25 4 * * *
-    Last run:  2026-09-07T04:28:58.852657-07:00  ok
+    Last run:  2026-09-08T04:37:27.668007-07:00  ok
     Name:      echopedia-site-design
     Schedule:  30 4 * * *
     Last run:  2026-09-08T04:30:07.413460-07:00  ok
     Name:      vault-search-index-rebuild
     Schedule:  0 5 * * 0
-    Last run:  2026-09-06T05:00:01.003873-07:00  ok
-    Name:      echopedia-scout-live
 ```
 
 ## Briefs
@@ -131,7 +131,7 @@ Load skill **echopedia-ops** first for any wiki work.
 | 50 1 * * * | `echopedia-backlink-auditor` | no_agent | on | ok | `echopedia-backlink-auditor-cron.sh` |
 | 50 4 * * * | `memory-audit` | no_agent | on | ok | `memory-audit.sh` |
 | every 1m | `vllm-thermal-scaler` | no_agent | on | ok | `vllm-thermal-scaler.sh` |
-| every 30m | `unified-watchdog` | no_agent | on | ok | `unified-watchdog.sh` |
+| every 30m | `unified-watchdog` | no_agent | on | error | `unified-watchdog.sh` |
 | once at 2026-09-08 02:45 | `tah-gate-0245` | no_agent | OFF | ok | `tah-gate-0245.sh` |
 | once at 2026-09-08 03:10 | `tah-resume-0310` | no_agent | OFF | ok | `tah-resume-0310.sh` |
 

@@ -1,0 +1,4 @@
+people/prof-yu-chong-tai.md
+people/gloria-chien.md
+organizations/tainan-east-gate-barclay-memorial-church.md
+people/gwhyneth-chen.md
