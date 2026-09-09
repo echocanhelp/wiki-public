@@ -8,7 +8,7 @@ tags:
   - filmmaker
   - director
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-08
 ---
 # Tiffany Huang (黃咏婷)
 
@@ -78,8 +78,10 @@ Before "Moment," Tiffany had previously created work for church/missionary group
 
 ## Family
 
-- **Father:** 黃介峰
-- **Mother:** 張瑞菊
+- **Father:** 黃介峰 (passed away June 2016; his memory inspired the film "Moment")
+- **Mother:** 張瑞菊 — played the mother (supporting role) in "Moment"
+
+Cross-reference: her profile appears in the [[sources/2017-tahs-publication||2017 TAHS Publication]] Who's Who corpus maintained by the [[organizations/tah-foundation||TAH Foundation]].
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

@@ -7,7 +7,7 @@ tags:
   - review
   - zh-TW
 verification_status: pending
-last_reviewed: 2026-08-02
+last_reviewed: 2026-09-08
 echo: scratch
 ---
 
@@ -23,7 +23,7 @@ echo: scratch
 
 ## Identity Snapshot
 
-- Work: Chapter I, *Toward A Community of Hope* (zh-TW AMT v1.0 full body)
+- Work: Chapter I, *Toward A Community of Hope* (zh-TW AMT v1.0 full body) — see [[sources/toward-a-community-of-hope||Toward A Community of Hope]]; Ch.I covers the Formosan church movement documented on [[organizations/formosan-presbyterian-church-in-los-angeles||FPCLA]]
 - Voice lock: `zh-TW-HsiaoChenNeural` · rate `+0%` · pitch `+0Hz`
 - Loudness: loudnorm target **−16 LUFS / −1.5 dBTP** (measured output_i ≈ −16.2, TP −1.50 on 192k master)
 - Duration: **~35.7 min** (full chapter; bake-off opening was ~5.8 min)

@@ -8,7 +8,7 @@ tags:
   - co-founder
   - Los-Angeles
 verification_status: published
-last_reviewed: 2026-07-15
+last_reviewed: 2026-09-08
 ---
 # Dr. Daniel Kao (高光民)
 
@@ -76,6 +76,10 @@ Pages that link to **daniel-kao** (daniel-kao):
 ### Sources (1)
 
 1. [[sources/toward-a-community-of-hope|toward-a-community-of-hope]]
+
+## Context: the 1970 founding generation
+
+The Kao household is named in the same Self-Preface listing as [[people/c-c-chen||Dr. C.C. Chen (陳昭俊)]] and the other founding families; the ordained leadership called by the Presbytery of Los Angeles Southwest was [[people/chaolong-kao||Dr. Charles C.L. Kao (高昭龍)]], who served the congregation as organizing minister from September 1971. FPCLA became the first Taiwanese Presbyterian church in North America, within the UPCUSA system.
 
 ## Source Notes and Confidence
 
