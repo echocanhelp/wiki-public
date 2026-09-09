@@ -8,7 +8,7 @@ tags:
 name_en: "Sunu Tsai"
 name_zh_hanzi: "蔡淑女"
 verification_status: pending
-last_reviewed: 2026-08-30
+last_reviewed: 2026-09-08
 source_note: "TAHS 2025 organization chart + LINE displayName preferred EN"
 title: "Sunu Tsai (蔡淑女)"
 ---
@@ -33,6 +33,10 @@ This page is an **A-tier thin record** for graph linking and member-priority sco
 
 - General affairs (總務)
 
+## Board activity (2025)
+
+Per the cited Taiwan Justice report (2025-09-05), 蔡淑女 attended the first board meeting after President Leonard Hsu's installation. The meeting revised the society's charter — the president's term is now one three-year term, with officer terms synchronized to the president's — and advisor 劉玲華 raised constructive proposals amid lively discussion. Attendees included founding president [[people/yang-jia-you|Charles Yang (楊嘉猷)]], President [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]], [[people/roger-tsai|Roger Tsai (蔡漢成)]], advisor [[people/linda-liu|Linda Liu (劉玲華)]], [[people/yi-sen-lee|Yi Sen Lee (李意盛)]], [[people/john-yang|John Yang (楊錦忠)]], [[people/tzetsai-eric-shen|Eric Shen (沈梓在)]] and [[people/freeman-huang|Freeman Huang (黃樹人)]].
+
 ## LINE
 
 - LINE displayName: `Sunu Tsai` (group member list 2026-08-03)
@@ -41,7 +45,7 @@ This page is an **A-tier thin record** for graph linking and member-priority sco
 ## Former slug
 
 - Previous provisional slug: `cai-shunyu` → canonical `sunu-tsai`
-- Redirect stub remains at [[people/cai-shunyu]]]]
+- Redirect stub remains at [[people/cai-shunyu]]
 
 
 ## Works

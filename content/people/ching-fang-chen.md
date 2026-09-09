@@ -9,7 +9,7 @@ tags:
   - Taiwanese-American
   - 2025-republication
 verification_status: published
-last_reviewed: 2026-07-15
+last_reviewed: 2026-09-08
 ---
 # Rev. Ching Fang Chen (陳清芳)
 
@@ -96,3 +96,4 @@ Pages that link to **ching-fang-chen** (ching-fang-chen):
 - [[people/pinghsi-liu||Rev. Pinghsi Liu (劉炳熹)]]
 - [[people/david-huang||Rev. David Huang (黃德利)]]
 - [[people/yunching-yeh-davis||Dr. Yunching Yeh Davis (葉芸青)]]
+- [[people/albert-chapter1-en-review||Albert Ch.1 EN audiobook review build]] — TAHS English audiobook adaptation of the dissertation he foregrounded

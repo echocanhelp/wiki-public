@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-08
 ---
 # Grace Chung (鍾曉青博士)
 
@@ -31,6 +31,28 @@ last_reviewed: 2026-08-17
 - 美國紐澤西州立大學音樂系 — Teaching
 - 茱麗亞音樂學院 — 專屬伴奏
 <!-- tah-tables:end -->
+
+## Timeline
+
+Digested from the TAH Who's Who biography text above (vault-internal; no new sources).
+
+- Began piano at age 5; first teachers 鄭翠瑩 and 陳秋媛; also studied under 董學渝 and 郭素 before going abroad
+- 1989 — First prize, junior division, 全國鋼琴比賽; qualified for Ministry of Education gifted-student overseas-study eligibility
+- Age 14 — Moved to the United States to study; New England Conservatory preparatory division, then Curtis Institute of Music (B.M.), then Juilliard (M.M. piano performance plus Performer's Diploma)
+- First-prize winner at the Boston Chinese Arts Association, Clark University Commonwealth, New England Music Teachers Association, Harry Dubbs Memorial, Juilliard Concerto, and Rutgers Concerto competitions
+- 1998 — First prize and best-performance-of-required-piece award, 7th International Chinese Chopin Piano Competition
+- 1999 — First prize, Yamaha / 功學社 young-talent piano competition
+- Performed at Jordan Hall (Boston), Gardner Museum, Weill Hall (Carnegie), Merkin Hall, Alice Tully Hall (Lincoln Center), and Nicholas Music Center (NJ), as well as in Canada, Japan, and Malaysia
+- 2000 — Selected as a rising star by the National Concert Hall (Taipei); gave repeated solo recitals at the National Recital Hall
+- 2003 — Doctor of Musical Arts, Rutgers University (紐澤西州立大學)
+- 2004 — Chamber-music tour with violinist 胡乃元 in Taipei, Tainan, and Kaohsiung; joined the Taiwan Connection music season that December as part of the ensemble founded by 胡乃元
+- 2004–2005 — Concert collaborations with French trumpeter Eric Aubier
+- 2006 — Invited collaborator at the 玄音國際音樂節 concerts organized by violinist 曾耿元
+- Concerto collaborations include the Philadelphia Orchestra, Boston Philharmonic (BPO), New England Conservatory Youth Orchestra, Old York Road Chamber Orchestra (PA), Curtis Orchestra, Juilliard Orchestra, Rutgers Orchestra, and Taipei Symphony Orchestra
+- Piano accompanist in masterclasses of Yo-Yo Ma, Itzhak Perlman, Pinchas Zukerman, Lynn Harrell, Mstislav Rostropovich, Dorothy Delay, and 曾耿元
+- 2013 — Piano faculty, chamber coach, and performer at the InterHarmony International Music Festival, Italy
+- Praised by Boston Globe chief critic Richard Dyer for dynamics, timbre, rhythmic freedom, and near-perfect handling of melody–harmony interplay
+- Career posts: teaching faculty, Rutgers University music department; staff accompanist, Juilliard School
 
 ## Family
 

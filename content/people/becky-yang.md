@@ -9,7 +9,7 @@ tags:
   - community
 verification_status: owner_verified
 status: published
-last_reviewed: 2026-08-02
+last_reviewed: 2026-09-08
 ---
 
 # Becky Yang
@@ -81,7 +81,8 @@ Becky has also shared community reading material in the LINE group (e.g. a long-
 - [[people/yang-zhengxiang||Ethan Yang (楊正光)]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]
 - [[people/leonard-hsu-jr||Leonard Hsu Jr. (許景鴻)]]
-- 2017 / 2023 TAHS Publication source hubs (restore pending if missing locally)
+- [[sources/2017-tahs-publication||2017 TAHS Publication]] — founding-era publication citing Charles Yang
+- [[sources/2023-tahs-publication||2023 TAHS Publication]] — profiles grandson Ethan Yang
 
 ## Revision History
 

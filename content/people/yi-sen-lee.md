@@ -10,7 +10,7 @@ tags:
 name_en: "Yi Sen Lee"
 name_zh_hanzi: "李意盛"
 verification_status: pending
-last_reviewed: 2026-08-30
+last_reviewed: 2026-09-08
 source_note: "TAHS 2025 org chart + LINE display Yi Lee + handwritten Yi-Sen Lee on chart (owner 2026-08-03)"
 ---
 # Yi Sen Lee (李意盛)
@@ -43,7 +43,11 @@ Private phones and LINE U-ids are **not** published here.
 ## Former slug
 
 - Previous provisional: `li-yisheng` / "Li Yi-sheng" → canonical `yi-sen-lee`
-- Redirect stub: [[people/li-yisheng]]]]
+- Redirect stub: [[people/li-yisheng]]
+
+## Board activity (2025)
+
+Per the cited Taiwan Justice report (2025-09-05), 李意盛 attended the first board meeting convened immediately after President Leonard Hsu took office. The meeting revised the society's charter so the president serves a single three-year term with related officer terms synchronized; attendees included founding president [[people/yang-jia-you|Charles Yang (楊嘉猷)]], President [[people/leonard-hsu-jr|Leonard Hsu Jr. (許景鴻)]], [[people/roger-tsai|Roger Tsai (蔡漢成)]], advisor [[people/linda-liu|Linda Liu (劉玲華)]], [[people/john-yang|John Yang (楊錦忠)]], [[people/tzetsai-eric-shen|Eric Shen (沈梓在)]], [[people/sunu-tsai|Sunu Tsai (蔡淑女)]] and [[people/freeman-huang|Freeman Huang (黃樹人)]].
 
 ## Taiwan Justice (台灣公義網) Citations
 

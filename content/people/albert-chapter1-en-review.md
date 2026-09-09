@@ -6,7 +6,7 @@ tags:
   - albert-lai
   - review
 verification_status: pending
-last_reviewed: 2026-07-09
+last_reviewed: 2026-09-08
 echo: scratch
 ---
 
@@ -95,6 +95,10 @@ Pages that link to **albert-chapter1-en-review** (albert-chapter1-en-review):
 
 1. [[people/albert-s-lai|albert-s-lai]]
 2. [[people/index|index]]
+
+## About the work
+
+The narrated text is Dr. Albert S. Lai's 1971 dissertation [[sources/toward-a-community-of-hope|Toward A Community of Hope]], republished in 2025 by the [[organizations/national-taiwanese-presbyterian-council|NTPC]] Historical Committee (its first publication) with a foreword by [[people/ching-fang-chen|Rev. Ching Fang Chen (陳清芳)]], who rediscovered the sealed dissertation during a 2022-06-09 visit to Lai.
 
 ## Related Pages
 

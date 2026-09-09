@@ -53,6 +53,7 @@ Prof. Chen-Chong Lin 林建中教授 – History of Taiwanese American (T.A. Arc
 - [[works/taiwaneseamericanhistory-org/21-prof-chen-chong-lin||21. Prof. Chen-Chong Lin 林建中教授]] — TAH encyclopedia #21
 - [[works/taiwaneseamericanhistory-org/publications1167||1167. 聖經現代釋義 / 林建中 /01/2005/Religion/宗教]]
 - [[works/taiwaneseamericanhistory-org/publications1169||1169. The Rationality of Christian Doctrines / Kent C. Lin 林建中 /-/2009/Religion/宗教]]
+- [[works/taiwaneseamericanhistory-org/whos-who-1987-chen-chong-lin||TAH Who's Who 1987 entry — Prof. Chen-Chong Lin 林建中教授 (local vault copy)]]
 
 
 ## Sources
