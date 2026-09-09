@@ -19,7 +19,7 @@ last_reviewed: 2026-09-08
 - **Core roles:** artist
 - **Source:** TAH Foundation Who's Who
 
-Shante Shaw(Sean) Chen 陳善哲 – History of Taiwanese American (T.A. Archives) 台美史料中心
+Industrial-design trained artist (Carnegie-Mellon B.S. 1990) working in Washington D.C.; comic-book penciller and illustrator for Valiant Comics and Marvel (Iron Man, Nova series; Marvel Creative Services Division). Documented in the TAH Foundation Who's Who and artist encyclopedia entries (#61, #870) — see [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]].
 
 <!-- tah-tables:start -->
 ## Education

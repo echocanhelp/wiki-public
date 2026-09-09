@@ -56,7 +56,7 @@ Wiki-linked titles (not a dump of 628):
 - [[people/james-laidlaw-maxwell||馬雅各]] — 25, 105, 108, 114, 122, 124, **201**, **301** 馬雅各紀念教會史
 - [[people/thomas-barclay||巴克禮]] — 18–20, 30, 435, 439
 - [[people/hsu-ling-yun||許凌雲]] cites **321** [府城教會高耀長老](http://www.laijohn.com/book4/321.htm)
-- 馬偕 — 51 title hits (not listed)
+- [[people/george-leslie-mackay||馬偕]] — 51 title hits (not listed)
 
 **374** on this TOC is 〈埤頭草店尾人林乾〉 — not 蕭泰然.
 

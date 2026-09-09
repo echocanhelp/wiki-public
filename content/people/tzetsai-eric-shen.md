@@ -46,7 +46,7 @@ This page is an **A-tier thin record** for graph linking and member-priority sco
 ## Former slug
 
 - Previous provisional slug: `shen-zizai` → canonical `tzetsai-eric-shen`
-- Redirect stub remains at [[people/shen-zizai]]]]
+- Redirect stub remains at [[people/shen-zizai]]
 
 
 ## Works

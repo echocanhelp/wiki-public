@@ -30,7 +30,7 @@ Same person as the 2023 TAHS publication profile formerly filed under provisiona
 
 ## Overview
 
-Listed on the TAHS 2025 organization chart as an advisor (顧問).
+Listed on the TAHS 2025 organization chart as an advisor (顧問). Per the 2023-03-20 Taiwan Justice notice he is an entrepreneur (企業家) who published the autobiography 「我的奮鬥人生及美國夢」, and he spoke at the association's 「如何寫回憶錄(自傳)座談會」 alongside 國策顧問[[people/xie-qingzhi-xie-poyi||謝清志]] and 會長[[people/yang-jia-you||楊嘉猷]].
 
 This page is an **A-tier thin record** for graph linking and member-priority scoring. Biographical depth should be expanded only from public sources or member-approved notes. Private phone numbers and LINE IDs from internal charts are **not** published here.
 
