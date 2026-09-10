@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # J. S. Liu (劉佳欣)
 
@@ -29,6 +29,19 @@ last_reviewed: 2026-08-17
 ## Employment
 - Music Teachers Association of California (MTAC) — Member — Associated Board of the Royal Schools of Music (ABRSM) — Member — Community — MTAC (加州音樂教師協會) — 會員 — ABRSM (英國皇家音樂協會) — 會員 — 洛杉磯心悅合唱團 (Los Angeles Xinyue Chorus) — Participant/Pianist
 <!-- tah-tables:end -->
+
+## Timeline
+
+- Born in Changhua (彰化), Taiwan
+- studied piano at Taipei National University of the Arts (國立台北藝術大學)
+- 1997 — co-recital 「彈琴弄弦彰化情」 with violinist 劉慧婷 at Changhua County central venue
+- 1998 — piano recital 「聆情品音共賞欣」 with Taipei Ten-Fang Ensemble (十方樂集) and at TNUA dance hall
+- 2001 — M.A., Taipei National University of the Arts; thesis on the role of German writer E.T.A. Hoffmann in Romantic-era music
+- 2002 — moved to the United States; piano studies at California State University, Los Angeles
+- 2004 — piano performance degree, Cal State LA
+- Member of Music Teachers Association of California (MTAC) and the Associated Board of the Royal Schools of Music (ABRSM); pianist/participant of 洛杉磯心悅合唱團 (Los Angeles Xinyue Chorus)
+
+Source corpus hub: [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]; publisher: [[organizations/tah-foundation||TAH Foundation]].
 
 ## Family
 

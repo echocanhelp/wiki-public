@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Dr. Vincent Chuang (莊伯祥醫師)
 
@@ -30,6 +30,20 @@ last_reviewed: 2026-08-17
 ## Employment
 - Univ. of Texas, M.D. Anderson Cancer Center, Houston, TX — Professor, Dept. of Diagnostic Radiology — (1978-1983) — Emory Univ. Hospital, Atlanta, GA — Professor, Dept. of Radiology; Director, Section of Angiography — (1983-1987) — Emory Univ. Hospital, Atlanta, GA — Clinical Professor, Dept. of Radiology — (1988-1990) — Univ. of Texas, M.D. Anderson Cancer Center, Houston, TX — Professor, Dept. of Diagnostic Radiology — (1990-1996) — Koo Foundation Sun Yat-Sen Cancer Center, Taiwan — Chief, Section of Interventional Radiology, Dept. of Radiology — (1996-) — Koo Foundation Sun Yat-Sen Cancer Center, Taiwan — Vice President — (1996-)
 <!-- tah-tables:end -->
+
+## Timeline
+
+- From Tainan, Taiwan
+- 1958–1965 — M.D., National Taiwan University College of Medicine
+- 1967–1968 — General Practice Residency, Lower Bucks Hospital, Bristol, PA
+- 1968–1971 — Diagnostic Radiology Residency, Medical College of Virginia Hospital, Virginia Commonwealth Univ., Richmond, VA
+- 1978–1983 — Professor, Dept. of Diagnostic Radiology, Univ. of Texas M.D. Anderson Cancer Center, Houston
+- 1983–1987 — Professor, Dept. of Radiology and Director, Section of Angiography, Emory Univ. Hospital, Atlanta
+- 1988–1990 — Clinical Professor, Dept. of Radiology, Emory Univ. Hospital
+- 1990–1996 — returned as Professor, Dept. of Diagnostic Radiology, M.D. Anderson Cancer Center
+- 1996– — Chief, Section of Interventional Radiology and Vice President, Koo Foundation Sun Yat-Sen Cancer Center, Taiwan
+
+Publisher of source profile: [[organizations/tah-foundation||TAH Foundation]].
 
 ## Family
 
