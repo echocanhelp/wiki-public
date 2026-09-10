@@ -30,6 +30,8 @@ Min Yen Chien is one of the foremost and first generation of Taiwanese internati
 - 國立台北藝術大學音樂系 — present — 專任副教授
 <!-- tah-tables:end -->
 
+簡名彥 is counted among the first generation of Taiwanese international violinists; his TAH encyclopedia entries ([[works/taiwaneseamericanhistory-org/128-min-yen-chien-e7-b0-a1-e5-90-8d-e5-bd-a5-violinist-201502|TAH #128]] and [[works/taiwaneseamericanhistory-org/241-min-yen-chien-e7-b0-a1-e5-90-8d-e5-bd-a5-201502|TAH #241]], both 2015/02) record the Juilliard years and the current appointment as 專任副教授 at 國立台北藝術大學音樂系.
+
 ## Family
 
 _No filled family fields on the TAH profile._

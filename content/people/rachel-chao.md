@@ -40,7 +40,7 @@ _Compiled from facts already on this page — no new facts._
 
 **Training and current posts.** She holds a B.S. in Music from Arizona State University and both an M.S. and Ph.D. in Piano performance from Northwestern University. She is presently staff pianist at Rice University, piano faculty at New Heart Music Ministries in Houston, and pianist/accompanist for the Houston Grand Opera Studio's Young Artists Vocal Academy.
 
-Her TAH encyclopedia entries are archived at [[works/taiwaneseamericanhistory-org/270-yi-chiu-rachel-chao-e8-b6-99-e4-ba-a6-e7-a7-8b-pianist-201508|TAH #270]] and [[works/taiwaneseamericanhistory-org/541-rachel-chao-e8-b6-99-e4-ba-a6-e7-a7-8b-201508|TAH #541]].
+Her TAH encyclopedia entries are archived at [[works/taiwaneseamericanhistory-org/270-yi-chiu-rachel-chao-e8-b6-99-e4-ba-a6-e7-a7-8b-pianist-201508||TAH #270]] and [[works/taiwaneseamericanhistory-org/541-rachel-chao-e8-b6-99-e4-ba-a6-e7-a7-8b-201508||TAH #541]].
 
 ## Family
 

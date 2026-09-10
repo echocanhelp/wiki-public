@@ -31,6 +31,17 @@ Yien-hwei (Franklin) Lee 李彥輝 – History of Taiwanese American (T.A. Archi
 - Abbott Lab — 1972 — Section Head, Gastroenterology — 3. — 1976 — Internist/Hematologist/ — Oncologist
 <!-- tah-tables:end -->
 
+## Community Leadership
+
+Absorbed from vault-internal TAH encyclopedia records (no web):
+
+- **First president**, Hakka Association of Washington Metropolitan Area (per [[works/taiwaneseamericanhistory-org/229-dr-franklin-lee-e6-9d-8e-e5-bd-a5-e8-bc-9d-e9-86-ab-e5-b8-ab-the-first-presi]], record dated 5/21/1983)
+- **First president**, National Taiwan University Alumni Association in Greater Philadelphia (per [[works/taiwaneseamericanhistory-org/230-dr-franklin-lee-e6-9d-8e-e5-bd-a5-e8-bc-9d-e9-86-ab-e5-b8-ab-the-first-presi]], 1986/04)
+- **First president**, Hsinchu High School Alumni Association – Greater Philadelphia (per [[works/taiwaneseamericanhistory-org/232-dr-franklin-lee-e6-9d-8e-e5-bd-a5-e8-bc-9d-e9-86-ab-e5-b8-ab-the-first-presi]], 5/1/1993)
+- **Founding president**, [[organizations/hsinchu-high-school-alumni-association-of-north-america|Hsinchu High School Alumni Association of North America]] — formally established June 12, 2004 in Cincinnati, Ohio under his leadership (Class of 1956); see also [[works/taiwaneseamericanhistory-org/231-dr-franklin-lee-e6-9d-8e-e5-bd-a5-e8-bc-9d-e9-86-ab-e5-b8-ab-the-first-presi]]
+
+He also contributed personal essays to the TAH story corpus: 我的留學生活 ([[works/taiwaneseamericanhistory-org/mystories287]], 2015/06), 行醫之無奈 ([[works/taiwaneseamericanhistory-org/mystories480]], 11/2016), and 救援黃鄭兩氏呼喚書 ([[works/taiwaneseamericanhistory-org/144-e6-95-91-e6-8f-b4-e9-bb-83-e9-84-ad-e5-85-a9-e6-b0-8f-e5-91-bc-e5-96-9a-e6-9]], 2015/06).
+
 ## Family
 
 _No filled family fields on the TAH profile._

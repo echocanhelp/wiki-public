@@ -37,9 +37,9 @@ _Compiled from facts already on this page — no new facts._
 
 **Engineering and business career.** Educated at Taipei Institute of Technology (台北工專, Civil Engineering, 1964), Kansas State Univ. (M.S. Civil Engineering, 1970) and New York Polytechnic Univ. (E.D. Civil Engineering, 1976), he worked as an engineer for the City of New York Board of Education (1971–1976), Rockwell International (1976–1978) and Southern California Edison (1978–1985), then as CEO of Investors Realty Services Company (1985–2020).
 
-**Human-rights and community leadership.** Co-founder of the [[organizations/taiwan-human-rights-and-culture-association|Taiwan Human Rights & Culture Association (台灣人權及文化協會)]] and founder of Voice of Taiwan Independence (台獨之聲). President of the [[organizations/formosan-association-for-human-rights|Formosan Association for Human Rights (台灣人權協會)]] in 1980, 1992–1993 and 1993–1995; founder (1998) and President (2015–2018) of [[organizations/friends-of-taiwan|Friends of Taiwan]]. He received the 2017 Wang Kong-Lu Human Rights Awards (王康陸人權獎) from FAHTR.
+**Human-rights and community leadership.** Co-founder of the [[organizations/taiwan-human-rights-and-culture-association||Taiwan Human Rights & Culture Association (台灣人權及文化協會)]] and founder of Voice of Taiwan Independence (台獨之聲). President of the [[organizations/formosan-association-for-human-rights||Formosan Association for Human Rights (台灣人權協會)]] in 1980, 1992–1993 and 1993–1995; founder (1998) and President (2015–2018) of [[organizations/friends-of-taiwan||Friends of Taiwan]]. He received the 2017 Wang Kong-Lu Human Rights Awards (王康陸人權獎) from FAHTR.
 
-His papers and collection are held by TAH — see [[works/taiwaneseamericanhistory-org/collection-of-mr-tingyee-wang|TAH #57, Collection of Mr. TingYee Wang]] and encyclopedia entry [[works/taiwaneseamericanhistory-org/75-tingyee-wang|TAH #75]].
+His papers and collection are held by TAH — see [[works/taiwaneseamericanhistory-org/collection-of-mr-tingyee-wang||TAH #57, Collection of Mr. TingYee Wang]] and encyclopedia entry [[works/taiwaneseamericanhistory-org/75-tingyee-wang||TAH #75]].
 
 ## Family
 

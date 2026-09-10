@@ -33,7 +33,7 @@ Karen Hsiao Savage is Associate Professor at Washington State University School 
 ## Family
 
 - **Husband:** Jeffrey Savage
-- **Father:** [[people/sin-i-hsiao||蕭欣義]]
+- **Father:** [[people/sin-i-hsiao||蕭欣義]] — professor of intellectual history (Harvard Ph.D.) who chaired the Asia-Pacific studies department at the University of Victoria; Karen's B.S. in piano performance from the University of Victoria aligns with the family's residence in Victoria, Canada
 - **Mother:** 李惠惠
 
 

@@ -32,6 +32,10 @@ Pianist Pin-Huey Wang received her Doctor of Musical Arts degree in the collabor
 - 馬里蘭歌劇工作坊 — 1998-2003 — 專任伴奏
 <!-- tah-tables:end -->
 
+## Notable Students and Network
+
+- [[people/eric-teng-kuan-huang||Eric Teng-Kuan Huang]] lists private piano instruction with Dr. Pin-Huey Wang among his music education (per his vault page).
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -34,9 +34,9 @@ _Compiled from facts already on this page — no new facts._
 
 **Music training and teaching.** A native of 台中 Taichung, she graduated from 實踐家政學院 (Shih-Chien Home Economics College) in 1994 with a B.A. in Music, studying piano under Professor Robert Scholz and Professor Pan-Ann Chen. In Taiwan she pursued a career as a piano teacher at the Yamaha Music Institute for 10 years.
 
-**Community roles.** Appointed Master of Ceremony at the annual Taiwanese Culture Nights in 1994, receiving high recognition; later elected vice chairperson of the [[organizations/taiwanese-united-fund|Taiwanese United Foundation (台灣人聯合基金會)]], devoting herself to community outreach promoting Taiwanese culture and performing arts. She manages her husband's Radiology Clinic and serves as deaconess and choir director at Grace Taiwanese Presbyterian Church in Temple City — a [[organizations/tpc|TPC]]-lineage Taiwanese church in the U.S., consistent with her 台灣基督長老教會 執事及聖歌隊指揮 appointment (present).
+**Community roles.** Appointed Master of Ceremony at the annual Taiwanese Culture Nights in 1994, receiving high recognition; later elected vice chairperson of the [[organizations/taiwanese-united-fund||Taiwanese United Foundation (台灣人聯合基金會)]], devoting herself to community outreach promoting Taiwanese culture and performing arts. She manages her husband's Radiology Clinic and serves as deaconess and choir director at Grace Taiwanese Presbyterian Church in Temple City — a [[organizations/tpc||TPC]]-lineage Taiwanese church in the U.S., consistent with her 台灣基督長老教會 執事及聖歌隊指揮 appointment (present).
 
-Her TAH encyclopedia entries are archived at [[works/taiwaneseamericanhistory-org/257-bonnie-yang-e9-99-b3-e4-bd-b3-e8-8a-ac-201502|TAH #257]] and [[works/taiwaneseamericanhistory-org/141-bonnie-yang-e9-99-b3-e4-bd-b3-e8-8a-ac-pianist-201502|TAH #141]].
+Her TAH encyclopedia entries are archived at [[works/taiwaneseamericanhistory-org/257-bonnie-yang-e9-99-b3-e4-bd-b3-e8-8a-ac-201502||TAH #257]] and [[works/taiwaneseamericanhistory-org/141-bonnie-yang-e9-99-b3-e4-bd-b3-e8-8a-ac-pianist-201502||TAH #141]].
 
 ## Family
 
