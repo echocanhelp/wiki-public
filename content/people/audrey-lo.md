@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Audrey Lo
 
@@ -29,6 +29,17 @@ Born in Tainan City, Taiwan, Ms. Lo grew up studying both piano and violin. At t
 ## Employment
 - Albany Symphony — Teaching violin
 <!-- tah-tables:end -->
+
+## Timeline
+- **Childhood (Tainan)** — Studied both piano and violin; discovered orchestral playing at age 10; won her first competition at 11 in Tainan and was a semi-finalist at the national competition.
+- **1991 (spring)** — The Lo family immigrated to New York City; enrolled at the Pre-College Division of the Manhattan School of Music to continue violin.
+- **1992** — Accepted to the Fiorella H. LaGuardia High School of Music & Art and Performing Arts.
+- **1994 (spring)** — Won her first competition to solo with the Manhattan Pre-College Orchestra, performing Wieniawski's Violin Concerto No. 2; joined the InterSchool Orchestra in her junior year of high school.
+- **Later** — B.S. in Music, SUNY Purchase; M.S. in Music, Mannes College (2008); teaching violin at Albany Symphony.
+
+## Network
+- Born in 台灣台南; described orchestra sound as "a rainbow after the rain."
+- Listed in the [[organizations/tah-foundation||TAH Foundation]] Who's Who.
 
 ## Family
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Harmony Yang (楊心新)
 
@@ -32,6 +32,17 @@ Dr. Harmony Yang, Pianist, was born in Buffalo, NY, raised in Taiwan, was a Fulb
 - Northwood High School — Teaching
 - Montgomery College — Teaching
 <!-- tah-tables:end -->
+
+## Timeline
+- **2009** — Performed Grieg's Piano Concerto in A Minor with Taiwan's Taipei Sun Philharmonic Orchestra.
+- **2011** — Performed Bartók's Piano Concerto No. 3 with the University of Maryland Repertory Orchestra.
+- **2013** — Fulbright Award finalist.
+- **2016** — Ph.D. in piano, University of Maryland (earlier M.S., College Conservatory of Music, University of Cincinnati).
+- **Career** — Music director at Taiwanese Presbyterian Church of Washington; faculty at Suitland High School, Woods Academy, Northwood High School, and Montgomery College. Students earned scholarships to Towson University, Shenandoah University, Oberlin Conservatory, Roosevelt University, and University of Maryland.
+
+## Network
+- Born in Buffalo, NY; raised in Taiwan; resides in Maryland with her husband and twin sons.
+- Listed in the [[organizations/tah-foundation||TAH Foundation]] Who's Who (entries #1635 and #396).
 
 ## Family
 
