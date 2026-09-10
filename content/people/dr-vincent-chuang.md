@@ -49,6 +49,10 @@ Publisher of source profile: [[organizations/tah-foundation||TAH Foundation]].
 
 _No filled family fields on the TAH profile._
 
+## Vault Holdings
+TAH encyclopedia records held in this vault:
+- [[works/taiwaneseamericanhistory-org/whos-who-2095-vincent-chuang|TAH #2095 — Dr. Vincent Chuang 莊伯祥醫師 (2018/04)]]
+
 ## Sources
 - [TAH #2095 encyclopedia: 2095. Dr. Vincent Chuang 莊伯祥醫師](https://taiwaneseamericanhistory.org/whos-who-2095-vincent-chuang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-vincent-chuang/)

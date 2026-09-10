@@ -48,6 +48,11 @@ Dr. Harmony Yang, Pianist, was born in Buffalo, NY, raised in Taiwan, was a Fulb
 
 _No filled family fields on the TAH profile._
 
+## Vault Holdings
+TAH encyclopedia records held in this vault:
+- [[works/taiwaneseamericanhistory-org/whoswho1635|TAH #1635 — Harmony Yang 楊心新 (2017/05)]]
+- [[works/taiwaneseamericanhistory-org/musician396|TAH #396 — Harmony Yang 楊心新, Pianist (2017/05)]]
+
 ## Sources
 - [TAH #1635 encyclopedia: 1635. Harmony Yang 楊心新/ 2017/05](https://taiwaneseamericanhistory.org/whoswho1635/)
 - [TAH #396 encyclopedia: 396. Harmony Yang 楊心新, Pianist / 2017/05](https://taiwaneseamericanhistory.org/musician396/)

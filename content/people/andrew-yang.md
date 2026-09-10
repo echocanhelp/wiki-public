@@ -51,6 +51,12 @@ Andrew Yang is an American entrepreneur, author, and politician born on January 
 - Married to Evelyn Yang; father 楊界雄; mother [[people/nancy-yang||陳玲銖]].
 - Listed in the [[organizations/tah-foundation||TAH Foundation]] Who's Who (entries #219 and #2058).
 
+## Vault Holdings
+TAH records held in this vault:
+- [[works/taiwaneseamericanhistory-org/whos-who-2058-andrew-yang|TAH #2058 — Andrew Yang 楊安澤 (2018/03)]]
+- [[works/taiwaneseamericanhistory-org/andrew-yang|Andrew Yang 楊安澤 in S. CA (2020/06)]]
+- [[works/taiwaneseamericanhistory-org/4-donate-money-to-mr-andrew-yang-to-be-on-the-debate-stage-for-thepresidential-c|一人一元送楊安澤上辯論台 (2019/02)]]
+
 ## Sources
 - [TAH #219 encyclopedia: 219. Andrew Yang 楊安澤](https://taiwaneseamericanhistory.org/ota-219/)
 - [TAH #2058 encyclopedia: 2058. Andrew Yang 楊安澤](https://taiwaneseamericanhistory.org/whos-who-2058-andrew-yang/)
