@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Jung Lin (林容光)
 
@@ -29,6 +29,9 @@ Pianist Jung Lin has been acclaimed for her poetic and virtuosic pianism. A nati
 - Alice Tully Hall — Pianist — (2004-2004) — Naxos — Recording Artist — WQXR — Featured Performer — (2004-2004)
 <!-- tah-tables:end -->
 
+## Notability
+TAH encyclopedia #400 profiles her as pianist and composer: child prodigy who conducted her own orchestral works at 12, premiered her symphonic poem "The Black Wedding" with the Juilliard Symphony at 16, counted among the outstanding Chopin pianists of her generation (Gala Chopin recital at Alice Tully Hall, 1999, alongside 25 world-renowned pianists), and champion of Nikolai Medtner (complete Tales for Naxos).
+
 ## Family
 
 _No filled family fields on the TAH profile._
@@ -41,3 +44,6 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/musician400||400. Jung Lin 林容光, Pianist & Composer / 05/2017]] — TAH encyclopedia #400
+- [[works/taiwaneseamericanhistory-org/whos-who-1664-jung-lin||1664. Jung Lin 林容光]] — TAH Who's Who #1664
+- Disambiguation: not to be confused with violinist Anita Chia Jung Lin 林佳蕙 ([[people/anita-chia-jung-lin|Anita Chia Jung Lin]]) or [[people/prof-pei-jung-lin|Prof. Pei-Jung Lin]].

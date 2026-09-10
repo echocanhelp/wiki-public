@@ -54,6 +54,7 @@ Pages that link to **zheng-bing-quan** (zheng-bing-quan):
 
 - **Content priority B:** 2017 TAHS Publication (editor credits, founding narrative by 周威霖)
 - **Hub:** [[sources/2017-tahs-publication||2017 TAHS Publication]]
+- **Archive cross-ref:** `knowledge/web-archives/2023-tahs-publication-part1.md` carries a profile of 鄭炳全 as pharmacist and self-taught woodcarver (retired 2009; carved 「富蘭克林」 and 「女神」, exhibited at TAHS art shows). Attribution there conflicts with [[people/zheng-dazhi||鄭達志]], which credits the same two works to 鄭達志 — HOLD pending source check.
 - **Status:** Stub — needs expanded biographical details
 
 ## Name Variants / Disambiguation

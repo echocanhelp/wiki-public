@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Kuan Cheng Lu (盧冠呈)
 
@@ -32,9 +32,12 @@ Violinist Kuan Cheng Lu joined the New York Philharmonic at the start of the 200
 - 奧柏林交響樂團小提琴 — 首席小提琴
 <!-- tah-tables:end -->
 
+## Notability
+TAH's encyclopedia entries #233 and #483 profile him as the first Taiwanese classical musician to earn a seat in the New York Philharmonic in its 170-year history (2004–05 season), the son and pupil of violin pedagogue Chung Chih Lu.
+
 ## Family
 
-_No filled family fields on the TAH profile._
+- **Father:** Chung Chih Lu, violin teacher (per his own TAH profile biography)
 
 ## Sources
 - [TAH #233 encyclopedia: 233.  Kuan Cheng Lu 盧冠呈,Violinist 2015/07](https://taiwaneseamericanhistory.org/233-kuan-cheng-lu-%e7%9b%a7%e5%86%a0%e5%91%88violinist-201507/)
@@ -44,3 +47,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/233-kuan-cheng-lu-e7-9b-a7-e5-86-a0-e5-91-88violinist-201507||233. Kuan Cheng Lu 盧冠呈, Violinist 2015/07]] — TAH encyclopedia #233
+- [[works/taiwaneseamericanhistory-org/483-kuan-cheng-lu-e7-9b-a7-e5-86-a0-e5-91-88-201507||483. Kuan Cheng Lu 盧冠呈 / 2015/07]] — TAH encyclopedia #483
