@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Yin Yin Huang (黄煐媖)
 
@@ -29,6 +29,16 @@ Yin Yin Huang, pianist, born in Taiwan, began her piano lessons at the age of 8 
 ## Employment
 - Acevedo Music & Art Education Foundation — Artistic Director — (2005-) — California State University of Los Angeles — Music Teacher — (2000-) — Taiwan Theological College (臺南神學院) — Assistant Professor — International Taiwan Chamber Music Concert — Faculty/Performer — (1988-) — International Chamber Music Concert (Poziotano, Italy) — Faculty/Performer — (1998-2007) — International Chamber Music Professors Association — Faculty — (2000-) — Tainan Women's College of Arts and Technology (台南女子技術學院) — Music Instructor — (2000-) — California State University, Los Angeles, Department of Music — Faculty — Acevedo Music Education Foundation (惜台社) — President and Artistic Director — Southern California Youth Chamber Music — Teacher — Community — Acevedo Music Education Foundation (惜台社) — President and Artistic Director — Music Teachers National Association (美國音樂教授協會) — Member/Participant
 <!-- tah-tables:end -->
+
+## Career (from cited TAH tables)
+- **臺南神學院** — Assistant Professor, before emigrating to the U.S.
+- **1988-** — International Taiwan Chamber Music Concert — Faculty/Performer
+- **1998-2007** — International Chamber Music Concert (Poziotano, Italy) — Faculty/Performer
+- **2000-** — California State University, Los Angeles, Dept. of Music — Faculty / Music Teacher
+- **2000-** — International Chamber Music Professors Association — Faculty
+- **2000-** — Tainan Women's College of Arts and Technology (台南女子技術學院) — Music Instructor
+- **2005-** — [[organizations/acevedo-music-and-art-education-foundation-inc||Acevedo Music Education Foundation (惜台社)]] — President and Artistic Director
+- **Southern California Youth Chamber Music** — Teacher; **Music Teachers National Association (美國音樂教授協會)** — Member
 
 ## Family
 

@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-07-16
+last_reviewed: 2026-09-10
 ---
 # April Lin (林淑卿)
 
@@ -20,7 +20,7 @@ last_reviewed: 2026-07-16
 - **Role:** 個人董事
 - **Organization:** [[organizations/taiwan-center||Taiwan Center (TWCLA)]]
 
-Also named as a senior **Chinese (華文班)** instructor at the Taiwan Center Taiwan School (師大中文; 10+ years overseas teaching).
+Also named as a senior **Chinese (華文班)** instructor at the Taiwan Center Taiwan School (師大中文; 10+ years overseas teaching). Per the published school schedule on [[organizations/taiwan-center||Taiwan Center]]: 華文班, Sat 15:00–16:00, $40 — co-listed with [[people/shi-yuli||施郁麗 Shi Yuli]] and [[people/he-sumei||何素美 He Sumei]].
 
 
 ## Network

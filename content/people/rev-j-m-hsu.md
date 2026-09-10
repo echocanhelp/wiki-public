@@ -10,7 +10,7 @@ tags:
   - TPC
   - Presbyterian
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Rev. J. M. Hsu (許錦銘)
 
@@ -32,7 +32,7 @@ last_reviewed: 2026-08-17
 - **1965** — 台神 (PCT seminary, Taiwan)
 - **1972–1973** — Pastor, Presbyterian Church in the United States (TAH wording)
 - **1973–1979** — TAH: **First Pastor**, FPCLA. FPCLA page also names [[people/chaolong-kao||高昭龍]] organizing pastor 1971 — keep both; do not flatten
-- **1980** — Helped GSTPC plant (黃德利 40th; one of seven)
+- **1980-12-07** — Helped GSTPC plant in Monterey Park ([[organizations/good-shepherd-taiwanese-presbyterian-church||GSTPC]] 設教; per [[people/david-huang||黃德利]] 40th-anniversary essay, one of seven PCT-trained pastors then in SoCal who helped the plant)
 - **1983** — Co-founder and first president, Formosan Outreach Mission (北美宣道會), with [[people/david-huang||黃德利]] (TAH)
 - **1985** — Reformed Church in America, pioneer (TAH)
 - **1986–1988** — First pastor, Fair Lawn Community Church (新澤西台灣歸正教會)
