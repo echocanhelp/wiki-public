@@ -44,3 +44,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/128-min-yen-chien-e7-b0-a1-e5-90-8d-e5-bd-a5-violinist-201502||TAH #128 — 簡名彥, Violinist]]
+- [[works/taiwaneseamericanhistory-org/241-min-yen-chien-e7-b0-a1-e5-90-8d-e5-bd-a5-201502||TAH #241 — 簡名彥]]

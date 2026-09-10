@@ -56,3 +56,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[organizations/hsinchu-high-school-alumni-association-of-north-america||北美新竹中學校友會]]
+- [[works/taiwaneseamericanhistory-org/mystories287||我的留學生活 — 李彥輝]]

@@ -43,3 +43,6 @@ Karen Hsiao Savage is Associate Professor at Washington State University School 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/musician429||TAH #429 — Karen Hsiao Savage, Pianist (05/2018)]]
+- [[works/taiwaneseamericanhistory-org/whos-who-2108-karen-hsiao-savage||TAH #2108 — Dr. Karen Hsiao Savage]]
+- [[people/sin-i-hsiao||蕭欣義 (父親)]]
