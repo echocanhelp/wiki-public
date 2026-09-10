@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Felicia Tang (唐千畬)
 
@@ -43,3 +43,8 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/whoswho1872|TAH #1872 encyclopedia entry]]
+- [[works/taiwaneseamericanhistory-org/musician425|TAH #425 — piano entry]]
+
+## Network
+- [[organizations/new-york-taiwan-center||New York Taiwan Center]] — NYC-based pianist/teacher (per bio: performs and teaches in New York)

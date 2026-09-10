@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # SHIH CHIEH HUANG (黃世傑)
 
@@ -40,3 +40,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Network
+- [[organizations/united-taiwanese-association-at-uc-san-diego||UTASD UC San Diego]] — UC San Diego BFA (1998), per Education table
+- [[organizations/brooklyn-artists-studio||Brooklyn Artists Studio]] — NYC art-community connection (New Museum, Art Omi residencies per bio)

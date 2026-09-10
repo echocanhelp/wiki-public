@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Ju-Ying Song (宋如音)
 
@@ -44,3 +44,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Network
+- [[organizations/stanford-taiwanese-student-association||Stanford TSA]] — Stanford BS 1991, per Education table
+- [[organizations/taiwanese-cultural-society-at-stanford-university||Taiwanese Cultural Society at Stanford]] — same Stanford years (1991 B.S.)
