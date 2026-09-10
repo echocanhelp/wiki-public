@@ -9,7 +9,7 @@ tags:
   - semiconductor
   - ceo
 verification_status: pending
-last_reviewed: 2026-09-08
+last_reviewed: 2026-09-09
 ---
 # Lisa T. Su (蘇姿丰)
 
@@ -72,6 +72,15 @@ Pages that link to **lisa-su** (lisa-su):
 ### Sources (1)
 
 1. [[sources/2017-tahs-publication|2017-tahs-publication]]
+
+## Honors and milestones (from the TAH story corpus)
+
+- **2014/09** — Appointed AMD President & COO; TAH coverage highlights her as a 台美人第二代 leader — [[works/taiwaneseamericanhistory-org/mystories84-dr-lisa-t-su|TAH #84 (曾恆利)]] (confidence B).
+- **2015/12** — TAH profile: youngest-ever MIT EE Ph.D. (age 25) — [[works/taiwaneseamericanhistory-org/113-dr-lisa-su|TAH #113]] (confidence B).
+- **2018/12/06** — Dr. Morris Chang Exemplary Leadership Award, Global Semiconductor Alliance — [[works/taiwaneseamericanhistory-org/71-dr-morris-chang-exemplary-leadership-award-dr-lisa-su|TAH #71]] (confidence B).
+- **2020** — Robert N. Noyce Award, Semiconductor Industry Association — [[works/taiwaneseamericanhistory-org/award-76|TAH award #76]] (confidence B); corpus coverage frames her as the second ethnic-Chinese laureate after 張忠謀 ([[articles/taiwanjustice-net/2026/20260121003520_蘇姿丰獲美半導體協會大獎_張忠謀後華裔第2人_4779b4e7bc06941e|Taiwan Justice net report]]).
+- **2022/05** — MIT 納米大樓 named after her as a distinguished alumna — [[works/taiwaneseamericanhistory-org/my-stories-838|TAH #838]] (confidence B); see also [[works/taiwaneseamericanhistory-org/whos-who-43-lisa-su|TAH Who's Who #43]] and [[works/taiwaneseamericanhistory-org/53-dr-lisa-su|TAH #53]].
+- Same-person cross-page: [[people/dr-lisa-su||Dr. Lisa Su (蘇姿豐博士)]] carries the TAH encyclopedia record (name variant 蘇姿豐 vs 蘇姿丰); pages deliberately not merged yet.
 
 ## Source Notes and Confidence
 

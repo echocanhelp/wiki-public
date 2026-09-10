@@ -4,7 +4,7 @@ type: person
 tags:
   - 
 verification_status: published
-last_reviewed: 2026-09-08
+last_reviewed: 2026-09-09
 ---
 # Dr. Choan-Seng Song (宋泉盛)
 
@@ -38,6 +38,14 @@ Within this cluster, Dr. Song is treated as an intellectual reference rather tha
 1. Offers a contextual-theological lens for diaspora identity and mission debates. — Source: cluster interpretation (C)
 2. Supports cross-linking between Taiwanese theology and North American church-history memory work. — Source: cluster synthesis (C)
 
+
+## Diaspora & Movement Record (absorbed from vault corpus)
+
+- **Formosans for Self-Determination (台灣人民自決運動).** Co-initiated the movement with Rev. 黃彰輝 (Chang-hui Huang), Rev. 黃武東 (Wudong Huang) and Prof. 林宗義 (Tsung-yi Lin) in response to the PCT's 1971 〈對國是的聲明與建議〉; during the 1973 Little League protest campaign he and 方菊雄 of the Taiwanese Association of New York sent letters to Williamsport citizens and newspapers. — Source: [[works/taiwaneseamericanhistory-org/ourjourneys76|Our Journeys #76]], [[works/taiwaneseamericanhistory-org/our-journeys-357|Our Journeys #357]] (confidence B)
+- **Editor of the movement record.** Main person responsible for the journal 《出頭天》(first issue Mar 1973, appendix Jan 1980) and editor of the source anthology 《出頭天：台灣人民自決運動史料》(台南: 人光出版社, 1988). — Source: [[works/taiwaneseamericanhistory-org/our-journeys-350|Our Journeys #350]] (confidence B)
+- **Bay Area ministry and teaching.** Theology professor at Pacific School of Religion / Graduate Theological Union (Berkeley); appointed pastor of the Bay Area 灣區教會 in 1997, after which church–community cooperation in Northern California intensified; invited speaker 「台灣人民面臨抉擇的時刻」at the 北加州台灣同鄉聯合會 30th-anniversary event (2003-01-25). — Source: [[works/taiwaneseamericanhistory-org/our-journeys-350|Our Journeys #350]] (confidence B)
+- **Education network.** A 台大哲學系 senior of the author of [[works/taiwaneseamericanhistory-org/ourjourneys268|Our Journeys #268]]; moved in the 1960s East-Coast seminary circle (紐約: 周神耀、駱維道 et al.). — Source confidence B
+- Corpus encyclopedia entry: [[works/taiwaneseamericanhistory-org/800-choan-seng-song-e5-ae-8b-e6-b3-89-e7-9b-9b-201602|TAH #800: Choan-Seng Song 宋泉盛 (2016/02)]].
 
 ## Network
 

@@ -11,7 +11,7 @@ tags:
   - story-corpus
 website: https://www.taiwaneseamerican.org/
 verification_status: pending
-last_reviewed: 2026-09-08
+last_reviewed: 2026-09-09
 ---
 # TaiwaneseAmerican.org
 
@@ -54,6 +54,12 @@ Official About: **To connect, inform and promote** the people, events and organi
 ## Works
 
 Story-corpus on Echopedia: [[works/index||Historical works]] · `content/works/taiwaneseamerican-org/` — 2,413 harvested story pages as of the 0908 crawl (A/B/C units). Full firehose stays in the vault. Cross-corpus sibling: [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]].
+
+## Coverage in the vault
+
+- Story corpus: 2,413 harvested story pages under `content/works/taiwaneseamerican-org/` as of the 0908 crawl (A/B/C confidence units), indexed at [[works/index||Historical works index]].
+- Person coverage: 5 of the 14 masthead staff listed above have Echopedia pages — [[people/ho-chie-tsai||Ho Chie Tsai]], [[people/leona-chen||Leona Chen]], [[people/pamela-hung||Pamela Hung]], [[people/carol-lee||Carol Lee]] and [[people/nicholas-c-huang||Nicholas C. Huang (黄文郁)]] (Legal Counsel — merge still pending 漢名+bio confirmation).
+- Site disambiguation is mirrored on the source hub [[sources/taiwaneseamerican-org||TaiwaneseAmerican.org source hub]]; the story-corpus twin on the TAH side is [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]].
 
 ## Related Pages
 - [[sources/taiwaneseamerican-org||Source hub]]

@@ -31,7 +31,14 @@ Ching-Jang Yao (姚慶章), born September 16, 1941 in Taichung, Taiwan. Graduat
 
 ## Family
 
-_No filled family fields on the TAH profile._
+- **Spouse:** [[people/ho-chu-yao||姚張和珠]] — listed as husband on her vault page.
+- **Children:** Su Lin Yao, King Han Yao (per [[people/ho-chu-yao]]).
+
+## Career & Memorial
+
+- Listed as a representative super-realist in *Photorealism* (New York: Harry N. Abrams, 1994).
+- Key exhibitions: first solo show at the Art Gallery of National Taiwan Arts Center, Taipei; Honorary Award, 5th International Youth Artist Exhibition, Tokyo (1969); 10th Saint Paul International Art Exhibition (1970, Brazil); 'Taipei-New York: Confrontation of Modernism', Taipei Fine Arts Museum (1991); 15th National Art Exhibition, Taiwan (1999); final solo show of the 'Circle' and 'Diamond' series at Longmen Gallery (2000).
+- Memorial exhibition: 姚慶章紀念畫展, 國立歷史博物館, 2001/09 — [[works/taiwaneseamericanhistory-org/publications566|TAH #566: 姚慶章紀念畫展]].
 
 ## Sources
 - [TAH #997 encyclopedia: 997. Ching-Jang Yao  姚慶章](https://taiwaneseamericanhistory.org/whoswho907/)

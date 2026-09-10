@@ -3,7 +3,7 @@ title: "Rex Chen (陳乃光)"
 type: person
 tags: []
 verification_status: pending
-last_reviewed: 2026-09-08
+last_reviewed: 2026-09-09
 ---
 # Rex Chen (陳乃光 / Chen Nai-Guang)
 
@@ -75,6 +75,11 @@ Pages that link to **陳乃光** (rex-chen):
 1. [[people/david-lee|david-lee]]
 2. [[people/index|index]]
 3. [[people/ken-wu|ken-wu]]
+
+## Cross-references in the vault
+
+- Backlink graph (2026-09-09): this member is referenced on the pages of fellow TAHS members [[people/david-lee||David Lee]] and [[people/ken-wu||Ken Wu (吳兆峯)]].
+- The TAH Who's Who `/person/rex-chen/` record belongs to the earlier Rex Chen [[people/chen-caiyuan||陳財元 (1949–2003, Oklahoma)]] and is deliberately kept as a separate record from this member (owner note 2026-08-17).
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society (TAHS)]]
