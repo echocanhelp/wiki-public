@@ -46,6 +46,9 @@ Prof. Bay-Mao (Bill) Wu 吳倍茂教授 – History of Taiwanese American (T.A. 
 
 _No filled family fields on the TAH profile._
 
+## Vault records
+- [[works/taiwaneseamericanhistory-org/whos-who-1760-bay-mao-wu||TAH #1760 encyclopedia: Prof. Bay-Mao (Bill) Wu 吳倍茂教授]]
+
 ## Sources
 - [TAH #1760 encyclopedia: 1760. Prof. Bay-Mao (Bill) Wu 吳倍茂教授](https://taiwaneseamericanhistory.org/whos-who-1760-bay-mao-wu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-bay-mao-bill-wu/)

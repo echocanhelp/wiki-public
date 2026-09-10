@@ -60,3 +60,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+## Connected in the Vault（deepen pass 2026-09-10）
+
+- TAH 百科條目頁：[[works/taiwaneseamericanhistory-org/457-butteryfly-chong-e5-bc-b5-e7-bf-a0-e8-9d-b6-201506||TAH #457 Butteryfly Chong 張翠蝶 (2015/06)]]（與上方口述歷史 #36 同為本頁敘述來源）。
+- publisher／語料庫：[[organizations/tah-foundation||TAH Foundation]]、[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。

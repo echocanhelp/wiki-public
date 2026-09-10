@@ -44,6 +44,9 @@ Accomplishment
 
 _No filled family fields on the TAH profile._
 
+## Vault records
+- [[works/taiwaneseamericanhistory-org/40-will-tiao-e5-88-81-e6-af-93-e8-83-bd-the-first-movie-producer-formosa-betraye||TAH #40: Will Tiao 刁毓能 — first movie producer, "Formosa Betrayed" (2009)]]
+
 ## Sources
 - [TAH #233 encyclopedia: 233. Will Tiao 刁毓能](https://taiwaneseamericanhistory.org/ota-233/)
 - [TAH #40 encyclopedia: 40. Will Tiao 刁毓能 / The first movie producer / “Formosa Betrayed” / 2009](https://taiwaneseamericanhistory.org/40-will-tiao-%e5%88%81%e6%af%93%e8%83%bd-the-first-movie-producer-formosa-betrayed-2009/)

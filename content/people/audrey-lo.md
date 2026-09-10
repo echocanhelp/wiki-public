@@ -51,3 +51,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+## Connected in the Vault（deepen pass 2026-09-10）
+
+- 本頁傳記之 TAH 出處頁：[[works/taiwaneseamericanhistory-org/235-audrey-lo-violin-201507||TAH #235 Audrey Lo, Violin (2015/07)]]、[[works/taiwaneseamericanhistory-org/16868||TAH #490 Audrey Lo (2015/07)]]。
+- publisher／語料庫：[[organizations/tah-foundation||TAH Foundation]]、[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
