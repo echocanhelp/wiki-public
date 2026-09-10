@@ -41,6 +41,19 @@ _No filled family fields on the TAH profile._
 - [TAH #113 encyclopedia: 113. Joli Wu 吳昭麗, Violinist/ 2015/01](https://taiwaneseamericanhistory.org/musician113/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/joli-wu/)
 
+## Timeline
+*(absorbed from this page's own biography text and TAH tables; no external sources added)*
+- 出生於美國加州洛杉磯；13 歲起隨 Louis Kievman 學習中提琴
+- Juilliard School — 學士（中提琴演奏，師承 William Lincer）；曾任 Juilliard 交響樂團首席中提琴手
+- 耶魯大學 — 碩士；任駐校弦樂四重奏團（Quartet-in-Residence）成員，隨 Tokyo String Quartet 學習；New Haven Symphony Orchestra 團員；曾任 Tanglewood Music Center 交響樂團首席中提琴手
+- 畢業後移居麻州劍橋 — Harvard University Currier House  resident tutor 五年；頻繁與 Boston Pops Esplanade Orchestra 及 Boston Symphony Orchestra 合作
+- 任教於 Georgia Academy of Music（小提琴教學）
+- Atlanta Ballet Orchestra 首席中提琴手；Atlanta Opera Orchestra 團員
+- 2008–09 樂季 — Atlanta Opera 代理首席中提琴手
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
+- [[organizations/taiwanese-american-society-at-yale||Taiwanese American Society at Yale]]
+- [[organizations/yale-taiwanese-student-association||Yale TSA]]
+- [[organizations/taiwanese-american-association-atlanta||TAA Atlanta]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

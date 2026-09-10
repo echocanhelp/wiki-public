@@ -48,6 +48,20 @@ Wen S. (Charlie) Chern 陳文雄 – History of Taiwanese American (T.A. Archive
 - [TAH #267 encyclopedia: 267. 陳文雄博士 Dr. Winston H. Chen / The First T.A. boarded on Air Force One with Pr](https://taiwaneseamericanhistory.org/267-%e9%99%b3%e6%96%87%e9%9b%84%e5%8d%9a%e5%a3%ab-dr-winston-h-chen-the-first-t-a-boarded-on-air-force-one-with-president-george-w-bush-12301991/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/wen-s-charlie-chern/)
 
+## Timeline
+*(absorbed from this page's own Identity Snapshot and TAH tables; no external sources added)*
+- 1941 — 出生於台灣彰化田尾
+- 1969 — M.S., Agricultural Economics, Univ. of Florida
+- 1973–1974 — Economist, Florida Department of Citrus
+- 1974–1981 — Economist and Group Leader, Oak Ridge National Laboratory
+- 1975 — Ph.D., Agricultural Economics, UC Berkeley
+- 1981–1983 — Senior Economist and Planner, Lawrence Livermore National Laboratory
+- 1983–1987 — Associate Professor and Professor, University of Maryland
+- 1987–2007 — Professor, The Ohio State University
+- 2007–2013 — Distinguished Research Professor, 中正大學
+- Family — 妻 李麗芳；女 Annabelle；子 Wenson
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
+- [[organizations/taiwanese-american-historical-society||TAH 台美史料協會]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Dr. Su-Mei Kao (林素梅博士)
 
@@ -19,10 +19,21 @@ last_reviewed: 2026-08-17
 - **Core roles:** scientist, educator
 - **Source:** TAH Foundation Who’s Who
 
-Accomplishment
+## Accomplishment
 1. Chairperson of Taiwanese American Community Scholarship Project / Windsor Area 2006
 
-<!-- tah-tables:start -->
+## Career Notes
+*(absorbed from the page's own TAH tables — no external sourcing)*
+
+Dr. Su-Mei Kao worked in the pharmaceutical industry and in teaching: Wyeth Pharmaceuticals (Taiwan), CIBA-GEIGY, and public/private schools in New Jersey — West Windsor Public School, North Hunterdon Public School, North Brunswick Public School, and Pennington School; her academic path ran through North Carolina State University and the University of Missouri at Kansas City.
+
+Community leadership in New Jersey's Taiwanese American community:
+- Chairperson, Taiwanese American Community Scholarship Project / Windsor Area
+- President, Windsor Area Taiwanese American Association
+- President, NATWA – New Jersey Chapter (北美洲台灣婦女會紐澤西分會)
+- President, TAA / New Jersey Chapter (紐澤西台灣同鄉會)
+- Coordinator, Taiwanese American Conference / East Coast (美東台灣人夏令會); later Chairwoman, TAC-EC
+
 ## Education
 - National Chung Hsing Univ. (中興大學) — 1971-1975 — B.S.
 - North Carolina State Univ. — 1981-1983 — M.S.
@@ -30,7 +41,6 @@ Accomplishment
 
 ## Employment
 - Wyeth Pharmaceuticals (Taiwan) — North Carolina State University — University of Missouri at Kansas City — CIBA-GEIGY — West Windsor Public School — North Hunterdon Public School — North Brunswick Public School — Pennington School — Community — Taiwanese American Community Scholarship Project / Windsor Area — Chairperson — Windsor Area Taiwanese American Association — President — NATWA - New Jersey Chapter (北美洲台灣婦女會紐澤西分會) — President — TAA / New Jersey Chapter (紐澤西台灣同鄉會) — President — Taiwanese American Conference / East Coast (美東台灣人夏令會) — Coordinator — TAC-EC (美東台灣人夏令會) — Chairwoman
-<!-- tah-tables:end -->
 
 ## Family
 
@@ -46,3 +56,6 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[organizations/north-america-taiwanese-womens-association||North America Taiwanese Women's Association]] — she led its New Jersey Chapter
+- [[works/taiwaneseamericanhistory-org/natwa-new-jersey-chapter||NATWA New Jersey Chapter]] — chapter coverage
+- [[works/taiwaneseamerican-org/taiwanese-american-community-scholarship-awards||Taiwanese American Community Scholarship Awards]] — the scholarship project she chaired
