@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Yvonne Yifang Wang (王亦凡博士)
 
@@ -30,6 +30,16 @@ Dr. Yvonne Yifang Wang, violinist born in Taoyuan, Taiwan, grew up in music as b
 ## Employment
 - Rhapsody School of Music — 弦樂總監
 <!-- tah-tables:end -->
+
+## Source-Internal Discrepancy (HOLD)
+
+- The Who's Who narrative says she "entered top music department at Soochou University in 1996", while the profile's own Education table lists **東海大學 (Tunghai University) — 2000 — B.S. Music**. Recorded as-is from the source; not resolved.
+
+## Vault Records
+
+- [[works/taiwaneseamericanhistory-org/18-yvonne-yifang-wang-e7-8e-8b-e4-ba-a6-e5-87-a1-violin||TAH story #18 — Yvonne Yifang Wang, Violinist (2014-10)]]
+- [[works/taiwaneseamericanhistory-org/487-yvonne-yifang-wang-e7-8e-8b-e4-ba-a6-e5-87-a1-201507||TAH story #487 — Yvonne Yifang Wang (2015-07)]]
+- Both are bibliographic records; full text stays in the vault (see [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]).
 
 ## Family
 

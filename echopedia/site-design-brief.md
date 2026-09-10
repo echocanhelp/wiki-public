@@ -1,4 +1,4 @@
-## Site design audit — 2026-09-10 04:30
+## Site design audit — 2026-09-10 04:45
 
 - pages_md=15035
 - critical=0 high=0 medium=1
@@ -12,7 +12,7 @@
 
 ### LOW (1)
 - **C1** spelling signals (sample): 1 `[AGENT_SUGGESTED]`
-  - `fan-qingliang.md: ?ching`
+  - `sheng-ching-angel-hsu.md: ?ching`
 
 ### INFO (2)
 - **B2** pinned featured pages: 6 (cap 6 people + 3 orgs; overflow hides recency)
@@ -22,7 +22,7 @@
   - `people/lin-yuan-ching.md`
   - `people/yang-jia-you.md`
   - `people/yang-xin.md`
-- **B1** person/org touched ≤7d (rely on recency featured window): 247
+- **B1** person/org touched ≤7d (rely on recency featured window): 270
   - `people/agnes-hsu.md`
   - `people/albert-chapter1-audiobook-consent-and-recording-kit.md`
   - `people/albert-chapter1-en-review.md`

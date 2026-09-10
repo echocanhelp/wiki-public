@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-07-16
+last_reviewed: 2026-09-10
 ---
 # Peter Lin (林冠豪)
 
@@ -19,6 +19,14 @@ last_reviewed: 2026-07-16
 - **Chinese:** 林冠豪
 - **Role:** 個人董事
 - **Organization:** [[organizations/taiwan-center||Taiwan Center (TWCLA)]]
+
+## Career Notes (vault-sourced)
+
+- 林冠豪 appears among the 38 Taiwan Center 董事 (directors) who co-hosted the foundation's **2024 Annual Gala and Fundraising Banquet** (2024-11-02, Pacific Palms Resort; keynote: Yih-Chuan Wang, Taiwan Brain Trust) — see the vault article on the 2024 TWCLA 周年年會晚宴暨募款活動 (taiwanjustice-net, 2025-04). Board role consistent with the 個人董事 listing above; chair 田詒鴻 ([[people/alan-thian||Alan Thian]]) and co-directors 陳柏宇 ([[people/paul-chen||Paul Chen]]), 林榮松 ([[people/simon-lin||Simon Lin]]), 蔡漢成 ([[people/roger-tsai||Roger Tsai]]), 劉玲華 ([[people/linda-liu||Linda Liu]]) appear in the same roster.
+
+## Possible-namesake records (identity not established)
+
+- The vault holds two interviews with a Taiwanese-American jazz trombonist **Peter Lin** (bandleader of "The Lintet", Rutgers jazz-studies graduate, NJ/NY area): [[works/taiwaneseamerican-org/the-lintet-jazz-band||The Lintet (2016)]] and [[works/taiwaneseamerican-org/new-age-old-ways-peter-lin-crosses-artistic-mediums-and-cultures-through-taiwane||New Age, Old Ways (2019)]]. No source in this set confirms this Peter Lin is the Taiwan Center director 林冠豪; held separate pending evidence.
 
 ## Source Notes and Confidence
 

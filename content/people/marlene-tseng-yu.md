@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Marlene Tseng Yu (虞曾富美)
 
@@ -30,6 +30,16 @@ Marlene Tseng Yu was born in Taiwan in 1937 and came to the U.S. in 1963. From 1
 - Denver Univ. in Colorado — 1967-68 — Teacher
 - Open a studio — 1969
 <!-- tah-tables:end -->
+
+## Vault Records
+
+- [[works/taiwaneseamericanhistory-org/861-marlene-tseng-yu||TAH story #861 — Marlene Tseng Yu 虞曾富美 (2016-02)]]
+- [[works/taiwaneseamericanhistory-org/artist58-marlene-tseng-yu||TAH story #58 — 虞曾富美 Marlene Tseng Yu (2016-02)]]
+- Both are bibliographic records; full text stays in the vault (see [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]).
+
+## Notes
+
+- Education table entry "Univ. of ColoradoBoulder" is a source typo for University of Colorado at Boulder (M.A. Art, 1967), consistent with the narrative and with her teaching post at Denver University 1967-68.
 
 ## Family
 

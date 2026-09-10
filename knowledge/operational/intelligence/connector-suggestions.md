@@ -1,12 +1,13 @@
 # Connector suggestions (capped top 80)
 
-- co_citation total=1132 kept=80
-- co_mention total=6189 kept=40
+- co_citation total=1375 kept=80
+- co_mention total=6454 kept=40
 - shared_tags total=0 kept=0
 
 ## Top co-citation
 - organizations/taiwanese-american-association-of-los-angeles-east-san-gabriel-valley.md ↔ sources/taiwaneseamericanhistory-org.md
 - organizations/taiwan-center.md ↔ people/zhou-wei-lin.md
+- people/en-sheng-pan.md ↔ people/lien-hwa-chow.md
 - organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/american-citizens-for-taiwan.md
 - organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/american-citizens-of-taiwan-origin-acto.md
 - organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/ann-arbor-taiwanese-association.md
@@ -29,4 +30,3 @@
 - organizations/chunglun-presbyterian-church.md ↔ people/pinghsi-liu.md
 - organizations/chunglun-presbyterian-church.md ↔ people/thomas-barclay.md
 - organizations/democratic-progressive-party.md ↔ people/albert-s-lai.md
-- organizations/democratic-progressive-party.md ↔ people/ken-wu.md
