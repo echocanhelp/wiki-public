@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Prof. Tender Lin (林天德教授)
 
@@ -45,6 +45,9 @@ Absorbed from the TAH profile above:
 
 - His own TAH encyclopedia entries are harvested in the vault: [[works/taiwaneseamericanhistory-org/74-prof-tender-lin||TAH #74 entry]] and [[works/taiwaneseamericanhistory-org/whos-who-169-tender-lin||TAH #169 Who's Who entry]], alongside a [[works/taiwaneseamericanhistory-org/collection-of-prof-tender-lin||collection of his writings]].
 - His center is cross-linked from [[organizations/east-bay-taiwanese-americans-community-service-center-ebtacsc||the EBTACSC organization page]]; the Garden Club he originated has no vault page yet.
+- His own essays in the TAH corpus are harvested as vault works: [[works/taiwaneseamericanhistory-org/publications438||438. 台灣人, 別再隨緣認命 (1994)]], [[works/taiwaneseamericanhistory-org/publications439||439. 你我都贏才是贏 (1995)]], [[works/taiwaneseamericanhistory-org/publications440||440. 變態心理學 (1998)]], [[works/taiwaneseamericanhistory-org/publications441||441. 聊療心：它的理論與應用 (2000)]], [[works/taiwaneseamericanhistory-org/mystories438||438. 台灣十年教學有感 (2016)]], and [[works/taiwaneseamericanhistory-org/mystories560||560. 恩澤滋潤無常人生 (2017)]].
+- [[works/taiwaneseamericanhistory-org/mystories199||199. 迷失在競爭學路上 Got Lost in Competitive Schooling (2015)]] — education critique from his counseling background.
+- [[works/taiwaneseamericanhistory-org/on-my-ten-year-span-of-teaching-in-taiwan||18. 林天德教授返台任教 (1989)]] — covers his return to teach in Taiwan, matching the 1989–1990 teachers-college posts above.
 
 ## Family
 

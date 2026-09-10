@@ -60,6 +60,8 @@ Story-corpus on Echopedia: [[works/index||Historical works]] · `content/works/t
 - Story corpus: 2,413 harvested story pages under `content/works/taiwaneseamerican-org/` as of the 0908 crawl (A/B/C confidence units), indexed at [[works/index||Historical works index]].
 - Person coverage: 5 of the 14 masthead staff listed above have Echopedia pages — [[people/ho-chie-tsai||Ho Chie Tsai]], [[people/leona-chen||Leona Chen]], [[people/pamela-hung||Pamela Hung]], [[people/carol-lee||Carol Lee]] and [[people/nicholas-c-huang||Nicholas C. Huang (黄文郁)]] (Legal Counsel — merge still pending 漢名+bio confirmation).
 - Site disambiguation is mirrored on the source hub [[sources/taiwaneseamerican-org||TaiwaneseAmerican.org source hub]]; the story-corpus twin on the TAH side is [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]].
+- Founder coverage inside the harvested corpus: [[works/taiwaneseamerican-org/taiwaneseamerican-org-ho-chie-tsai-featured-on-taiwan543-net||Ho Chie Tsai featured on Taiwan543.net]] — a story page documenting the site's own founder being profiled by a sister Taiwanese-American outlet.
+- Organizational cross-reference: TAHS [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society]] shares the community-archiving mission stated in the About values above.
 
 ## Related Pages
 - [[sources/taiwaneseamerican-org||Source hub]]

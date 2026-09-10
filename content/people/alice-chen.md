@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Alice Chen (陳祐慈)
 
@@ -57,3 +57,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/taiwanese-american-historical-society||TAHS]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/432-cellist-alice-chen||TAH #432: Alice Chen, Cellist]]
+- [[people/janet-tsai||Janet Tsai]] — the vault's Tsai page notes she took organ lessons "with Alice Chen at the college"; identity with this cellist is unverified, flagged here only as a possible lead.

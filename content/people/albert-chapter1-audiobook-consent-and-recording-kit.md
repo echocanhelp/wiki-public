@@ -99,3 +99,6 @@ Do **not** upload signed consents, personal phone numbers, or raw session WAVs t
 - Echopedia Community Contributions Hub — page pending; no wikilink until it exists
 - [[people/albert-chapter1-audiobook-taiwanese-female||Albert Chapter 1 Audiobook（第一章有聲版）]]
 - [[people/albert-s-lai||Dr. Albert S. Lai (賴信雄)]]
+- [[organizations/formosan-presbyterian-church-in-los-angeles||Formosan Presbyterian Church in Los Angeles (FPCLA)]] — the church movement Chapter I documents
+- [[media/index||Media index]] — vault media library hosting the published chapter audio
+- [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society (TAHS)]] — community-history partner for archival audio use

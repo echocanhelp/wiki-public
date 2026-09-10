@@ -97,7 +97,9 @@ Pages that link to **en-sheng-pan** (en-sheng-pan):
 - [[sources/toward-a-community-of-hope||Toward A Community of Hope]]
 - [[people/albert-s-lai||Dr. Albert S. Lai (賴信雄)]]
 - [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan (PCT)]]
+- [[sources/presbyterian-church-in-taiwan||PCT official-site source hub]] — where the 70th GA Moderator announcement layer is archived
 - [[organizations/national-taiwanese-presbyterian-council||National Taiwanese Presbyterian Council (NTPC)]]
+- [[organizations/formosan-presbyterian-church-in-los-angeles||Formosan Presbyterian Church in Los Angeles (FPCLA)]] — the LA Formosan church movement the foreworded book documents
 - [[people/yunching-yeh-davis||Dr. Yunching Yeh Davis (葉芸青)]]
 - [[people/mingyuan-hsu||Rev. Mingyuan Hsu (許明遠)]]
 - [[people/pinghsi-liu||Rev. Pinghsi Liu (劉炳熹)]]

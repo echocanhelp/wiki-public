@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Nobu Lu (呂信也)
 
@@ -56,6 +56,7 @@ last_reviewed: 2026-09-09
 - [[works/taiwaneseamericanhistory-org/whos339-nobu-lu|339. Nobu Lu 呂信也 / 2015/03]]
 - [[works/taiwaneseamericanhistory-org/nobu-lu-e5-91-82-e4-bf-a1-e4-b9-9f-conductor-201503|168. Nobu Lu 呂信也, Violinist & Conductor / 2015/03]]
 - Father's page: [[people/chuang-shien-lu||呂泉生 (Chuang-Shien Lu)]]
+- His 1997 painter side: [[works/taiwaneseamericanhistory-org/nobu-lu-art-show-1997|10. 音樂家呂信也畫展 1997]] — the TAH bio also identifies him as a 畫家 (painter); this is the vault record of his 1997 art exhibition.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

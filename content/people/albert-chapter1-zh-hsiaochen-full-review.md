@@ -92,3 +92,5 @@ EN Ch.I Christopher was ~29 min @ ~149 wpm. ZH full Ch.I is longer in wall-clock
 - [[people/albert-en-sku-a-scratch-review||EN SKU A full hub]]
 - [[people/albert-chapter1-zh-review-v2||Ch.1 ZH bake-off review v2]]
 - [[people/albert-chapter1-audiobook-consent-and-recording-kit||Audiobook consent & recording kit]] — the platform+consent path referenced in the method-lock gate
+- [[media/index||Media index]] — vault media library; master file `albert-ch01-zh-hsiaochen-v1-full-scratch.mp3`
+- [[organizations/taiwanese-american-historical-society||TAHS]] — community-history partner for the republication project

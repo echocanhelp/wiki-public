@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Po-Wei Lai (賴伯瑋)
 
@@ -59,3 +59,7 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/293-po-wei-lai-e8-b3-b4-e4-bc-af-e7-91-8b-violinconductor-201509||TAH #293: Po-Wei Lai, Violin/Conductor]]
 - [[works/taiwaneseamericanhistory-org/631-po-wei-lai-e8-b3-b4-e4-bc-af-e7-91-8b-201509||TAH #631: Po-Wei Lai]]
+
+## Connected in the Vault
+- His own TAH encyclopedia entries are harvested in the vault: [[works/taiwaneseamericanhistory-org/293-po-wei-lai-e8-b3-b4-e4-bc-af-e7-91-8b-violinconductor-201509||TAH #293]] and [[works/taiwaneseamericanhistory-org/631-po-wei-lai-e8-b3-b4-e4-bc-af-e7-91-8b-201509||TAH #631]].
+- No vault pages exist yet for the ensembles he is tied to (BAYMS San Jose, Gwung-Fu Orchestra, Double-Ten Orchestra); no new pages created per deepen protocol.
