@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Vera Hui-pin Hsu (許惠品)
 
@@ -31,6 +31,17 @@ Dr. Vera Hui-pin Hsu is a pianist/conductor and the winner of the 2009 Internati
 ## Employment
 - Year
 <!-- tah-tables:end -->
+
+## Career & performances (vault-sourced)
+
+Structured from her TAH encyclopedia entries (#312, #154, both 2015/02):
+
+- **2009** — Winner, International Conductors Workshop and Competition (Georgia, U.S.A.)
+- **2012** — Israel tour with the **Haifa Symphony Orchestra**
+- **2013** — Doctor of Musical Arts in piano performance, Graduate Center of the **City University of New York**, studying under **Martin Canin**
+- **2015/01** — **Artist in Residence, Haifa University (Israel)**; concerts and masterclasses in Jerusalem and Tel Aviv
+- **Performance range** — recitals and lecture concerts in Germany, Austria, the U.S. and Taiwan
+- **Recording** — soloist in **Sung-jen Hsu's piano concerto “Pounding Rain”** with **Taiwan Philharmonic**; issued by Taiwan's National CKS Cultural Center in the **Voice of Taiwan** series
 
 ## Family
 

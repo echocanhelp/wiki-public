@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # David Loong-Hsing Wen (溫隆信)
 
@@ -30,6 +30,21 @@ last_reviewed: 2026-08-17
 - 創辦柝之響室內樂團
 <!-- tah-tables:end -->
 
+## Career & works (vault-sourced)
+
+Structured from his TAH encyclopedia entries (#197, #420, both 2015/05):
+
+- **Violinist from age 7**; despite his father's objection, studied music under **楊蔭芳** from age 15 with his mother's support; also took up painting at 13.
+- **1964** — entered 國立藝專音樂科 (今國立臺灣藝術大學音樂系), majoring in violin; began composition studies — 「同儕公認的狂熱創作者」.
+- **1968** — joined **「向日葵樂會」**, the modern-music society founded by composer **陳懋良**.
+- **Early published works** — 《室內詩》(為七件樂器的複協奏曲, 1968); three 室內詩 《酢醬草》《夕》《夜的枯萎》(1968); 《為小提琴與鋼琴的奏鳴曲》(1971).
+- **NYU (紐約大學)** — composer-in-residence (駐校作曲家).
+- **Founded 柝之響室內樂團** (chamber ensemble).
+
+## Connected in the Vault
+
+- Composer **Chihchun Chi-sun Lee**, whose TAH biography names Wen among her composition teachers (alongside William Albright, William Bolcom, and Bright Sheng), has a reciprocal vault page: [[people/chihchun-chi-sun-lee||Chihchun Chi-sun Lee (李智美)]].
+
 ## Family
 
 _No filled family fields on the TAH profile._
@@ -42,3 +57,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[people/chihchun-chi-sun-lee||Chihchun Chi-sun Lee (李智美)]]

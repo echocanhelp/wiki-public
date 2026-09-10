@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Dr. Ya Yen Lee (李雅彥醫師)
 
@@ -30,6 +30,16 @@ Accomplishment
 - Baltimore General Hospital — Intern — Washington County Hospital — Radiologist — The State Univ. of New York at Rogersida — Doctor of Neuroradiology — Univ. of Texas Medical Center — Professor — (1979-) — Maryland Anderson Hospital — Professor of Oncology — Community — Houston Taiwan Community Center Establishing Committee — Committee Member — North America Taiwanese Professors' Association — President — Taiwanese Association of America / Houston Chapter — President — Taiwanese Heritage Society of Houston — President
 <!-- tah-tables:end -->
 
+## Community leadership (vault-sourced)
+
+From his own TAH employment table and encyclopedia entries (#149, #128, #21):
+
+- **President, North America Taiwanese Professors' Association (NATPA)** — national presidency of the professors' association (a NATPA chapter page exists in the vault: [[organizations/north-america-taiwanese-professors-sc||NATPA Southern California]]).
+- **President, [[organizations/taiwanese-association-of-america-houston-chapter||Taiwanese Association of America — Houston Chapter]]**
+- **President, [[organizations/taiwanese-heritage-society-of-houston||Taiwanese Heritage Society of Houston]]**
+- **成立委員會委員 (1992)** — founding committee member of the 休士頓台灣人活動中心 (Houston Taiwan Community Center)
+- TAH encyclopedia #128 additionally records him as **Founder of Taiwan Center/Houston**.
+
 ## Family
 
 - **Wife:** [[people/gin-ru-yeh||葉錦如]]
@@ -46,3 +56,5 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[organizations/taiwanese-association-of-america-houston-chapter||TAA Houston Chapter]]
+- [[organizations/taiwanese-heritage-society-of-houston||Taiwanese Heritage Society of Houston]]
