@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Prof. Eva Y.H. P. Lee (潘玉華教授)
 
@@ -30,6 +30,17 @@ Prof. Eva Y.H. P. Lee 潘玉華教授 – History of Taiwanese American (T.A. Ar
 - University of California, San Diego — Assistant Professor in Residence, Dept. of Pathology — (1988-1991) — University of Texas Health Science Center at San Antonio — Associate Professor, Institute of Biotechnology/Center for Molecular Medicine — (1991-1996) — University of Texas Health Science Center at San Antonio — Professor, Dept. of Molecular Medicine/Institute of Biotechnology — (1996-2002) — University of California, Irvine — Chancellor Professor, Dept. of Biological Chemistry and Developmental & Cell Biology — (2002-2011) — National Taiwan Normal University (國立臺灣師範大學) — Professor, School of Life Science
 <!-- tah-tables:end -->
 
+## Timeline
+- 1968–1972 — B.S., Biology, National Taiwan Normal University (國立臺灣師範大學)
+- 1976–1979 — M.S., Biology, National Taiwan Normal University
+- 1981–1984 — Ph.D., Cellular and Molecular Biology, Univ. of California, Berkeley
+- 1988–1991 — Assistant Professor in Residence, Dept. of Pathology, University of California, San Diego
+- 1991–1996 — Associate Professor, Institute of Biotechnology/Center for Molecular Medicine, University of Texas Health Science Center at San Antonio
+- 1996–2002 — Professor, Dept. of Molecular Medicine/Institute of Biotechnology, University of Texas Health Science Center at San Antonio
+- 2002–2011 — Chancellor Professor, Dept. of Biological Chemistry and Developmental & Cell Biology, University of California, Irvine
+- Professor, School of Life Science, National Taiwan Normal University
+- Associated with the Taiwanese American (T.A.) Archives 台美史料中心 — see [[works/taiwaneseamericanhistory-org/introduction-of-the-ta-archives||Introduction of the T.A. Archives]]
+
 ## Family
 
 - **Husband:** 李文華
@@ -42,3 +53,4 @@ Prof. Eva Y.H. P. Lee 潘玉華教授 – History of Taiwanese American (T.A. Ar
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/introduction-of-the-ta-archives||T.A. Archives (台美史料中心)]]

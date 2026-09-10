@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Jecoliah Wang (王欣慈)
 
@@ -29,6 +29,15 @@ Jecoliah Wang started playing violin at age of six. At fourteen she performed as
 - 密州交響樂團 — 首席小提琴
 - 聖路易交響樂圑青少年樂團 — 首席小提琴
 <!-- tah-tables:end -->
+
+## Timeline
+- Began playing violin at age six
+- Age fourteen — Concertmaster of the St. Louis Symphony Youth Orchestra (聖路易交響樂團青少年樂團) for two seasons
+- 2010 — Won the Youth Orchestra's Concerto Competition
+- 2011 — St. Louis Symphony debut at age sixteen; began attending the Aspen Music Festival (two fellowships won)
+- Attended the Innsbrook Institute and the New York String Orchestra Seminar
+- Since 2014 — Fellowship resident artist, Amelia Island Chamber Music Festival
+- Received B.M. from the Robert McDuffie Center for Strings; first violin (首席小提琴) of 密州交響樂團 per TAH table; third-time artist at the RCMF
 
 ## Family
 

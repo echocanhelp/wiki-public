@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Nami Yang (李淑櫻)
 
@@ -31,6 +31,16 @@ last_reviewed: 2026-08-17
 - Art Column of the Pacific Times Newspaper — Writer and Editor — (1994-2004) — Neo Art League — Founder and First President — (2006-2009) — Community — Taiwanese Pen Club in L.A. (台美人筆會) — President 2016-2017 — North America Taiwanese Women's Association (NATWA) S. CA Chapter (北美洲台灣婦女會南加分會) — President 2010; District Board Member 2014-2016 — Taiwanese American Arts Association (TAAA) (台美藝術協會) — President 2004-2005 — LATWTTV Fineart Art Platform (千楓藝術台) — Host of Educational Program
 <!-- tah-tables:end -->
 
+## Timeline
+- 1966 — B.S., Arts, National Taiwan Univ. of Arts; later studied at Art Center College of Design and California State Univ. Northridge
+- 1994–2004 — Writer and editor, art column, Pacific Times Newspaper
+- 2004–2005 — President, [[organizations/taiwanese-american-arts-association||Taiwanese American Arts Association (TAAA) 台美藝術協會]]
+- 2006–2009 — Founder and first president, Neo Art League
+- 2010 — President, [[organizations/natwa-southern-california||NATWA S. CA Chapter (北美洲台灣婦女會南加分會)]]
+- 2014–2016 — District board member, NATWA
+- 2016–2017 — President, [[organizations/taiwanese-american-pen-club-la||Taiwanese Pen Club in L.A. (台美人筆會)]]
+- Host of educational program, LATWTTV Fineart Art Platform (千楓藝術台)
+
 ## Family
 
 - **Daughter:** Lisa Yang
@@ -46,3 +56,6 @@ last_reviewed: 2026-08-17
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[organizations/natwa-southern-california||NATWA Southern California]]
+- [[organizations/taiwanese-american-arts-association||Taiwanese American Arts Association]]
+- [[organizations/taiwanese-american-pen-club-la||Taiwanese American Pen Club LA]]

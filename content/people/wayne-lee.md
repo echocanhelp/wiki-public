@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Wayne Lee (李家瑋)
 
@@ -30,6 +30,13 @@ Wayne Lee, a violinist originally from San Francisco, is an active chamber music
 - 茱麗亞音樂院 — Present — 助教
 - 康乃爾大學, Covenant College, Hillsdale College, Iowa State University, SUNY Fredonia — Present — Teaching
 <!-- tah-tables:end -->
+
+## Timeline
+- Trained at the Juilliard School (茱麗亞音樂院) — B.S. and M.S., Music
+- 2012 — Joined the Formosa Quartet, the Taiwanese-American ensemble later awarded First Prize at the London International String Quartet Competition
+- Ensemble-in-residence, The Art of Élan (San Diego); faculty string quartet-in-residence, National Youth Orchestra of Canada
+- Co-founder and faculty, annual Formosa Chamber Music Festival, Hualien, Taiwan
+- Present — Teaching assistant at the Juilliard School; teaching appointments at Cornell University (康乃爾大學), Covenant College, Hillsdale College, Iowa State University, and SUNY Fredonia
 
 ## Family
 
