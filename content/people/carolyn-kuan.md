@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Carolyn Kuan (關琦安)
 
@@ -29,6 +29,12 @@ With her appointment as the 10th Music Director of the Hartford Symphony Orchest
 - Seattle Symphony Orchestra, — Associate Conductor — New York City Ballet — Artist-in-Residence — Baltimore Opera Company — Assistant Conductor — Hartford Symphony Orchestra — 2011-present — Music Director
 <!-- tah-tables:end -->
 
+## Career notes
+- Appointed the 10th Music Director of the Hartford Symphony Orchestra beginning in the 2011/12 season, serving from 2011 onward.
+- Earlier posts: Associate Conductor of the Seattle Symphony Orchestra, Assistant Conductor of the Baltimore Opera Company, and Artist-in-Residence with New York City Ballet.
+- Educated at Smith College, the University of Illinois (Master of Music), and the Peabody Conservatory (Performance Diploma).
+- Known for commitment to contemporary music and world premieres, working as a guest conductor with orchestras, opera companies, ballet companies, and festivals worldwide.
+
 ## Family
 
 _No filled family fields on the TAH profile._
@@ -41,3 +47,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/105-carolyn-kuan-e9-97-9c-e7-90-a6-e5-ae-89-conductor||TAH #105 profile (Conductor, 2014/12)]]
+- [[works/taiwaneseamericanhistory-org/151-carolyn-kuan-e9-97-9c-e7-90-a6-e5-ae-89||TAH #151 profile]]

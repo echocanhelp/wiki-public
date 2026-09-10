@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # An-Su Gao Lai (賴高安賜)
 
@@ -20,7 +20,8 @@ last_reviewed: 2026-08-17
 - **Source:** TAH Foundation Who’s Who
 
 Accomplishment
-1. 3rd President of Taiwanese America Seniors Association of Southern California (TASA) (南加州台灣人長輩會) 1983-1988
+1. 3rd President of [[organizations/taiwanese-american-seniors-association-of-southern-california||Taiwanese America Seniors Association of Southern California (TASA)]] (南加州台灣人長輩會) 1983-1988
+2. Selected in the first nationwide 模範阿婆 (Model Grandma) selection as the only Asian-American awardee, 1994/09 (per TAH #283).
 
 <!-- tah-tables:start -->
 ## Education
@@ -30,6 +31,11 @@ Accomplishment
 ## Employment
 - Kaohsiung Girls' Senior High School (高雄女中) — Teaching Music — (1945-1948) — Chang Jung Girls' High School (長榮女中) — Teaching Bible & Music; Dormitory Superintendent (長榮女中舍監) — Community — Taiwanese America Seniors Association of Southern California (TASA) (南加州台灣人長輩會) — 3rd President (1983-1988) — Chang Jung Girls' High School Alumni Association (台南長榮女中南加州校友會) — Founding Member
 <!-- tah-tables:end -->
+
+## Community roles
+- Taught music at Kaohsiung Girls' Senior High School (高雄女中), 1945–1948; later taught Bible & music and served as dormitory superintendent (舍監) at her alma mater Chang Jung Girls' High School (長榮女中).
+- 3rd President of the Taiwanese America Seniors Association of Southern California (TASA), 1983–1988.
+- Founding member of the [[organizations/chang-jung-girls-high-school-alumni-association-southern-california||Chang Jung Girls' High School Alumni Association of Southern California]] (台南長榮女中南加州校友會).
 
 ## Family
 
@@ -47,4 +53,10 @@ Accomplishment
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
+- [[organizations/taiwanese-american-seniors-association-of-southern-california||TASA 南加州台灣人長輩會]]
+- [[organizations/chang-jung-girls-high-school-alumni-association-southern-california||長榮女中南加州校友會]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/senior-taiwanese-american-31||TAH #31 senior profile]]
+- [[works/taiwaneseamericanhistory-org/whos-who-2211-an-su-gao-lai||TAH #2211 profile]]
+- [[works/taiwaneseamericanhistory-org/ota-266||TAH #266 profile]]
+- [[works/taiwaneseamericanhistory-org/ff283||TAH #283 模範阿婆 1994/09]]
