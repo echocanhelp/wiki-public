@@ -4,7 +4,7 @@ type: person
 tags:
   - 
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Guo Yingyan (郭應言)
 
@@ -37,3 +37,7 @@ The ITPC history document states that after 鄭泉聲牧師 returned to Japan, t
 - [[sources/irvine-taiwanese-presbyterterian-church||ITPC history document (cited source)]]
 - [[sources/irvine-taiwanese-presbyterian-church||ITPC source hub]]
 - Echopedia Community Contributions Hub
+
+## Place in the ITPC pastoral succession
+
+The [[organizations/irvine-taiwanese-presbyterian-church||Irvine Taiwanese Presbyterian Church]] pastoral chronology continues after his one-year tenure: later pastors documented in the vault include [[people/chen-meihui||陳美蕙牧師 (Rev. Chen Meihui)]] and [[people/zhang-xuanxin||張宣信牧師 (Rev. Zhang Xuanxin)]], followed by the current pastor [[people/li-furen||李輔仁牧師 (Rev. Li Fu-Jen)]] from August 2025. 郭應言牧師's service therefore sits between founding-stage pastor [[people/zheng-quansheng||鄭泉聲牧師]] and the congregation's later settled pastorates.

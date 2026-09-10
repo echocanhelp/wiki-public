@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Prof. Yu-Chong Tai (戴聿昌教授)
 
@@ -43,3 +43,19 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus hub]]
+
+## Connected in the Vault
+
+- **Vault record:** [[works/taiwaneseamericanhistory-org/whos-who-2022-yu-chong-ta||TAH #2022 encyclopedia record]] (published 2018-02-12) in the [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]].
+- **Berkeley context:** the vault holds [[organizations/taiwanese-american-student-association-at-uc-berkeley||Taiwanese American Student Association at UC Berkeley]] as community context for his graduate years (M.S. 1986, Ph.D. 1989).
+
+## Career timeline (from cited TAH profile)
+
+- 1981 — B.S. Electrical Engineering, National Taiwan University
+- 1986 / 1989 — M.S. / Ph.D. Electrical Engineering, UC Berkeley
+- 1989–1995 — Assistant Professor of EE, Caltech
+- 1995–2000 — Associate Professor of EE, Caltech
+- 2000–2002 — Professor of EE; 2002–2005 — Professor of EE and Bioengineering; EE Option Representative (Vice Chair) 2002–2005
+- 2005–2008 — EE Executive Officer (Chairman); 2005–2016 — Professor of EE and Mechanical Engineering
+- 2013– — Executive Officer of Medical Engineering
+- 2016– — Professor of Electrical Engineering and Medical Engineering, Caltech

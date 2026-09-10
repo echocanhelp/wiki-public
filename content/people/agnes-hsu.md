@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Agnes Hsu (許芝榕)
 
@@ -46,3 +46,17 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/whoswho1447||TAH #1447: Agnes Hsu 許芝榕 (2016/12)]]
 - [[works/taiwaneseamericanhistory-org/musician378||TAH #378: Agnes Hsu 許芝榕, violinist (2016/12)]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]
+
+## Connected in the Vault
+
+- **TAH encyclopedia records:** [[works/taiwaneseamericanhistory-org/whoswho1447||TAH #1447]] and [[works/taiwaneseamericanhistory-org/musician378||TAH #378]], both published 2016-12-26 in the [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]].
+- **Johns Hopkins context:** the vault holds [[organizations/johns-hopkins-university-taiwanese-student-association||Johns Hopkins Taiwanese student association]] as community context at her doctoral institution (Peabody Conservatory).
+
+## Timeline (from cited TAH profile)
+
+- 1998 — youngest in Taiwan selected for the Jeunesses Musicales World Orchestra Asia Tour (Japan, Korea, Taiwan, the Philippines), as soloist and concertmaster
+- 2006–2008 — PONT member (Portes Ouvertes aux Nouveaux Talents), Fondation des États-Unis, while pursuing her performance diploma at the Paris music conservatory
+- 2009 — D.M.A., Peabody Conservatory of Music (B.M. and M.M. also Peabody; studied with Victor Danchenko and Martin Beaver)
+- 2010 — Career Development Grant, Peabody Institute
+- Chamber milestones — Pablo Casals Festival; collaborations with Vladimir Mendelssohn and Gerard Poulet
+- Present — teaching at Jou Music Institute
