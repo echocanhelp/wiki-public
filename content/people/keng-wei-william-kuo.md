@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Keng-Wei William Kuo (郭耿維)
 
@@ -46,3 +46,6 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/introduction-of-the-ta-archives||Introduction of the T.A. Archives 台美史料中心]]
 - [[works/taiwaneseamericanhistory-org/musician-439||TAH #439 encyclopedia profile (02/2021)]]
 - [[works/taiwaneseamericanhistory-org/whos-who-2315-keng-wei-kuo||TAH #2315 encyclopedia profile]]
+
+## Connected in the Vault
+- [[people/mei-en-chou||Mei-En Chou (周媺恩)]] — fellow TAH musician-profile subject; her TAH record also places her graduate study at the University of North Texas (Denton, TX), the same institution as his orchestral-conducting study above

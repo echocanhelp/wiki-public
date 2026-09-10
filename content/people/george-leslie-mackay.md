@@ -10,7 +10,7 @@ tags:
   - PCT
   - Taiwan
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # George Leslie Mackay (馬偕)
 
@@ -37,6 +37,11 @@ last_reviewed: 2026-09-09
 
 ## Family
 - Son: **偕叡廉** — appears as 《教會史話》entry 501 (per the [[sources/laijohn-com||laijohn.com]] TOC noted below)
+
+## Deeper vault record
+- **1871** — left Canada at age 27, first reaching Kaohsiung, then landed at Tamsui on **1872-03-09** (per [[works/taiwaneseamericanhistory-org/ourjourneys274|TAH Our Journeys #274]])
+- Descendant: 馬偕第四代孫 柯威霖 (train engineer → NASA scientist), obituary profile [[works/taiwaneseamericanhistory-org/my-stories-830|TAH #830, 04/2022]]
+- Institutions tracing to him (per the [[organizations/presbyterian-church-in-taiwan||PCT]] page): Oxford College (1882) → **Aletheia University**; **Mackay Medical College** · **Mackay Nursing School** · Mackay Memorial Hospital branches across northern Taiwan
 
 ## 《教會史話》 (titles only)
 Laijohn TOC: **51** 馬偕-title hits (not listed). Son **偕叡廉** = 史話 501. Bodies not archived. Site also has `/Mackay/` scrap cluster (not v2).

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Mei-En Chou (周媺恩)
 
@@ -38,6 +38,10 @@ _No filled family fields on the TAH profile._
 - [TAH #190 encyclopedia: 190. Mei-En Chou 周媺恩, Pianist / 2015/04](https://taiwaneseamericanhistory.org/190-mei-en-chou-%e5%91%a8%e5%aa%ba%e6%81%a9-piano-201504/)
 - [TAH #359 encyclopedia: 359. Mei-En Chou 周媺恩/2015/04](https://taiwaneseamericanhistory.org/359-mei-en-chou-%e5%91%a8%e5%aa%ba%e6%81%a9201504/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mei-en-chou/)
+
+## Connected in the Vault
+- Not to be confused: [[people/grace-mei-en-ho||Grace Mei-En Ho (何美恩)]] — a different TAH musician-profile subject (cellist, TAH #415 / #1758) with a similar romanized given name
+- [[people/keng-wei-william-kuo||Keng-Wei William Kuo (郭耿維)]] — fellow TAH musician-profile subject; his record likewise places graduate study at the University of North Texas
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
