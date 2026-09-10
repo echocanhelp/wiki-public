@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Fang-Yuh Rita Chen (陳芳玉)
 
@@ -40,6 +40,11 @@ Absorbed from the TAH profile above:
 - Taught at the School of Musical Education from 1967 and appeared with the Brooklyn Philharmonic Orchestra.
 - Co-founder of the [[organizations/westchester-taiwanese-womens-associationwtwa||Westchester Taiwanese Women's Association]] (威郡台灣婦女會), a chapter affiliate of the [[organizations/north-america-taiwanese-womens-association||North America Taiwanese Women's Association]]; founder of the Global Harmony Ensemble.
 - Married to 郭季彥; two sons.
+
+## Connected in the Vault
+- 2020 — received the **Outstanding Alumni Award** from the School of Pharmacy, National Taiwan University ([[works/taiwaneseamericanhistory-org/73-rita-fang-yuh-chen-received-outstanding-alumni-award-2020||TAH #73]], 2020-06-12).
+- Her personal papers and photographs are held as a private collection: [[works/taiwaneseamericanhistory-org/private-collection-96-fang-yuh-rita-chen||TAH #96 — Collection of the Fang-Yuh Rita Chen 陳芳玉的收藏]] (2020-05-11).
+- Encyclopedia records in the vault: [[works/taiwaneseamericanhistory-org/5-fang-yuh-rita-chen||TAH #5]], [[works/taiwaneseamericanhistory-org/181-rita-chen-e9-99-b3-e8-8a-b3-e7-8e-89new-york-e7-ac-ac-e4-b8-80-e4-bd-8d-e5-8||TAH #181 — 第一位台美鋼琴演奏家]], [[works/taiwaneseamericanhistory-org/41-rita-chen-e9-99-b3-e8-8a-b3-e7-8e-89-piano||TAH #41 — Pianist]], [[works/taiwaneseamericanhistory-org/whos-who-15-fang-yuh-chen||TAH Who's Who #15]].
 
 ## Family
 

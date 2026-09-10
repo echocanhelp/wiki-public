@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - Taiwan-School
 verification_status: published
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Wang Rongyi (王榮義)
 
@@ -25,6 +25,10 @@ last_reviewed: 2026-09-09
 - **Content priority A:** Named on Taiwan Center class-information page (`taiwancenter-org-class-information.md`)
 - **Hub:** [[sources/taiwancenter-org||taiwancenter.org]]
 - **Content priority C:** Full biography not published on site
+
+## Connected in the Vault
+- Taiwan Center event records in the vault (context for the Saturday choir program he teaches): [[events/sc-taiwancenter-org-event-228-memorial-commemoration-ceremony|228 Memorial Commemoration]] · [[events/sc-taiwancenter-org-event-thanksgiving-dinner|Thanksgiving Dinner]] · [[events/sc-taiwancenter-org-event-2025-annual-gala-fundraising-dinner|2025 Annual Gala Fundraising Dinner]]
+- Source hub: [[sources/taiwancenter-org|taiwancenter.org]]
 
 ## Related Pages
 

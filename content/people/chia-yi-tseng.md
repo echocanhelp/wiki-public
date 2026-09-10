@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Prof. Chia-Yi Tseng (曾加宜教授)
 
@@ -35,9 +35,18 @@ last_reviewed: 2026-09-09
 
 _No filled family fields on the TAH profile._
 
+## Timeline
+- 1994–1996 — 團員, 亞洲青少年管弦樂團 (Asian Youth Orchestra)
+- 1999-06 — Age 20: awarded highest-performance cello diploma (Diplôme Supérieur), Ecole normale de musique de Paris; that November studied under Mstislav Rostropovich at Salle Cortot
+- 2017-07-12 — TAH #1759 and #416 profiles published
+
 ## Sources
 - [TAH #1759 encyclopedia: 1759. Prof. Chia-Yi Tseng 曾加宜教授](https://taiwaneseamericanhistory.org/whos-who-1759-chia-yi-tseng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chia-yi-tseng/)
+
+## Connected in the Vault
+- Archival profiles: [[works/taiwaneseamericanhistory-org/whos-who-1759-chia-yi-tseng|TAH #1759: Prof. Chia-Yi Tseng]] · [[works/taiwaneseamericanhistory-org/musician416|TAH #416: Chia-Yi Tseng 曾加宜, Cellist (07/2017)]]
+- Community hub: [[sources/taiwaneseamericanhistory-org-story-corpus|TAH story corpus hub]]
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

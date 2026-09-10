@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Gwhyneth Chen (陳毓襄)
 
@@ -44,6 +44,9 @@ _No filled family fields on the TAH profile._
 
 ## Notes from cited sources
 - Per TAH #367 (2017): one of ten global representatives for the Steinway SPIRIO system, and the only Taiwanese-American pianist among them.
+- Per TAH #258 (2016): the first pianist to win BOTH the junior-high and senior-high divisions of the 50-state piano competition hosted by the Music Teachers National Association (美教師協會) — [[works/taiwaneseamericanhistory-org/258-e9-99-b3-e6-af-93-e8-a5-84-e7-ac-ac-e4-b8-80-e4-bd-8d-e5-90-8c-e6-99-82-e7-8||TAH #258]].
+- Her 1993 victory is recorded in the vault: [[works/taiwaneseamericanhistory-org/ivo-pogorelich-international-piano-competition-gwhyneth-chen-1993||TAH #66 — Ivo Pogorelich International Piano Competition 波哥雷里奇鋼琴大賽冠軍]] ($100,000 first prize, then the biggest cash prize in piano-competition history; she was the youngest contestant at 23, and the result was broadcast on CNN).
+- Further encyclopedia records: [[works/taiwaneseamericanhistory-org/54-gwhyneth-chen||TAH #54]], [[works/taiwaneseamericanhistory-org/gwhyneth-chen-pianist||TAH #74 — Pianist]] (2014/11), [[works/taiwaneseamericanhistory-org/whos-who-668-gwhyneth-chen||TAH #668]].
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

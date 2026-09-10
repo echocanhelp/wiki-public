@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Gloria Chien (簡佩盈)
 
@@ -39,6 +39,10 @@ Pianist Gloria Chien has been picked by the Boston Globe as one of the Superior 
 - [TAH #241 encyclopedia: 241. Gloria Chien 簡佩盈, Pianist / 2015/07](https://taiwaneseamericanhistory.org/241-gloria-chien-%e7%b0%a1%e4%bd%a9%e7%9b%88-pianist-201507/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/gloria-chien/)
 - Vault records: [[works/taiwaneseamericanhistory-org/498-gloria-chien-e7-b0-a1-e4-bd-a9-e7-9b-88-201507||TAH #498 (2015-07)]], [[works/taiwaneseamericanhistory-org/241-gloria-chien-e7-b0-a1-e4-bd-a9-e7-9b-88-pianist-201507||TAH #241, Pianist (2015-07)]]
+
+## Connected in the Vault
+- Archival profiles: [[works/taiwaneseamericanhistory-org/498-gloria-chien-e7-b0-a1-e4-bd-a9-e7-9b-88-201507|TAH #498 (2015-07)]] · [[works/taiwaneseamericanhistory-org/241-gloria-chien-e7-b0-a1-e4-bd-a9-e7-9b-88-pianist-201507|TAH #241, Pianist (2015-07)]] — both published 2015-07-18
+- Community hub: [[sources/taiwaneseamericanhistory-org-story-corpus|TAH story corpus hub]]
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Dr. Jane H. Hsiao (許照惠博士)
 
@@ -37,6 +37,12 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jane-h-hsiao/)
 - Vault record: [[works/taiwaneseamericanhistory-org/whos-who-1465-jane-h-hsiao||1465. Dr. Jane H. Hsiao 許照惠博士 (2017)]]
 - Vault record: [[works/taiwaneseamericanhistory-org/85-dr-jane-h-hsiao||85. Dr. Jane H. Hsiao]]
+
+## Connected in the Vault
+- Encyclopedia records: [[works/taiwaneseamericanhistory-org/whos-who-1465-jane-h-hsiao||TAH #1465]] (2017-01-18) and [[works/taiwaneseamericanhistory-org/85-dr-jane-h-hsiao||TAH #85]] (2018-09-10).
+- A second TAH Who's Who entry exists in the vault: [[people/dr-jane-h-hsiao-2||Dr. Jane H. Hsiao (duplicate profile)]] — same person (born 1947, Changhua; NTU B.S. Pharmacy 1969; University of Illinois Ph.D. Pharmaceutical Chemistry & Medicinal Chemistry 1973; MBA, Nova Southeastern University).
+- Career chain recorded in the TAH tables: founded Innotech Laboratory (1981) → co-founded IVAX (1986–2006; also Chairman/CEO/President of IVAX Animal Health 1998–2006, Vice Chairman-Technical Affairs 1995–Jan 2006) → OPKO Health (Vice-Chairman & CTO from May 2007, director from Feb 2007, later interim CEO) → chairman and founder of RH Biopharma.
+- Board roles from the cited profile: chairman of Non-Invasive Monitoring Systems, Inc. (from Oct 2008; interim CEO Feb 2012); director of TransEnterix, Neovasc, and Cocrystal Pharma (formerly Biozone Pharmaceuticals); previously a director of Sorrento Therapeutics and of PROLOR Biotech prior to its acquisition by OPKO Health.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

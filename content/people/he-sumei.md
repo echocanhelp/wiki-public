@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - Taiwan-School
 verification_status: published
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # He Sumei (何素美)
 
@@ -29,6 +29,7 @@ Per the [[organizations/taiwan-center||Taiwan Center]] course table, He Sumei (�
 - **Content priority A:** Named on Taiwan Center class-information page (`taiwancenter-org-class-information.md`)
 - **Hub:** [[sources/taiwancenter-org||taiwancenter.org]]
 - **Content priority C:** Full biography not published on site
+- **Archive coverage:** the class-information page is part of the taiwancenter.org Tier-2 web archive (School cluster: about-taiwan-school, class-information) held in `knowledge/web-archives/` and indexed via the hub [[sources/taiwancenter-org||taiwancenter.org]]; the founding body is [[organizations/taiwan-center-foundation-of-greater-los-angeles||Taiwan Center Foundation of Greater Los Angeles]].
 
 ## Related Pages
 
