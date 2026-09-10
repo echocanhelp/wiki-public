@@ -83,6 +83,7 @@ Pages that link to **陳乃光** (rex-chen):
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society (TAHS)]]
+- [[people/tahs-member-onboarding||TAHS member onboarding]] — the process under which this membership was recorded
 - [[people/leonard-hsu-jr||Leonard Hsu Jr. (許景鴻)]]
 - [[people/ken-wu||Ken Wu (吳兆峯)]]
 - [[people/david-lee||David Lee]]

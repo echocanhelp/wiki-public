@@ -45,7 +45,8 @@ last_reviewed: 2026-09-09
 
 - **银行业：** 1984年起任佛州政府监理职务；1989–1991年任 HTX International（Kansas）Associate Controller；1991年起先后任 General Bank / Cathay Bank（加州）AVP、SVP、EVP，2016年起任 Cathay Bank EVP 兼 Chief Lending Officer。
 - **台湾会馆：** 1998年起任 [[organizations/taiwan-center||Taiwan Center（大洛杉磯台灣會館）]] 董事，2014年起任副董事长（副董事長）。
-- **社团：** 北美台湾妇女会洛杉矶分会（NATWA LA）会长（1997–1998）；Miss Taiwanese American Pageant 主委（2011、2012、2016、2017）；台湾裔美国商会（TACC）董事（2015年起）；FAPA 董事（1994、1995）；嘉义女中校友会长（1995）。
+- **社團：** 北美台湾妇女会洛杉矶分会（NATWA LA）会长（1997–1998，見 [[organizations/natwa-southern-california||NATWA-SC]]）；[[organizations/miss-taiwanese-american-pageant||Miss Taiwanese American Pageant]] 主委（2011、2012、2016、2017）；[[organizations/taiwanese-american-chamber-la||台湾裔美国商会（TACC LA）]] 董事（2015年起）；[[organizations/fapa-los-angeles||FAPA]] 董事（1994、1995）；嘉义女中校友会长（1995）。
+- **教育：** 國立臺灣大學會計系（1974 學士）；State Univ. of New York at Buffalo（1979 企管碩士，財務與會計）。
 
 ## Family
 

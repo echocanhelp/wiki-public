@@ -50,6 +50,9 @@ Using a decidedly contemporary language of diverse harmonic color, inventive tim
 
 _No filled family fields on the TAH profile._
 
+## Connected in the Vault
+The two TAH encyclopedia entries cited above are held in the vault as bibliographic records — [[works/taiwaneseamericanhistory-org/301-yu-hui-chang-e5-bc-b5-e7-8e-89-e6-85-a7-composer-201510||TAH #301: Yu-Hui Chang, Composer]] and [[works/taiwaneseamericanhistory-org/652-yu-hui-chang-e5-bc-b5-e7-8e-89-e6-85-a7-201510||TAH #652: Yu-Hui Chang]] (both 2015/10), part of the [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]. Per the Education table, she studied at 台灣師範大學 (Taiwan's former teachers college / normal university lineage, see [[organizations/joint-alumni-association-of-taiwan-teachers-college-and-normal-univers||the joint NTNU/TC alumni association]]) before Boston University and Brandeis.
+
 ## Sources
 - [TAH #652 encyclopedia: 652. Yu-Hui Chang 張玉慧 / 2015/10](https://taiwaneseamericanhistory.org/652-yu-hui-chang-%e5%bc%b5%e7%8e%89%e6%85%a7-201510/)
 - [TAH #301 encyclopedia: 301. Yu-Hui Chang 張玉慧, Composer / 2015/10](https://taiwaneseamericanhistory.org/301-yu-hui-chang-%e5%bc%b5%e7%8e%89%e6%85%a7-composer-201510/)

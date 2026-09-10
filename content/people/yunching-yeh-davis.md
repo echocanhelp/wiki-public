@@ -88,6 +88,12 @@ Pages that link to **yunching-yeh-davis** (yunching-yeh-davis):
 - **Content priority A:** NTPC Moderator role; foreword authorship and themes
 - **Content priority C:** Expanded personal biography
 
+## Office Timeline（自本頁及 NTPC 網站來文既有記載整理）
+
+- 早年來文（site letters）：歷任 [[organizations/national-taiwanese-presbyterian-council||NTPC]] 書記、會計、婦女事工等職——同人歷任歷屆職務。
+- **2025** — 任 NTPW 書記（Secretary）。
+- **2025/26** — 任 NTPC 執委會主席（西南區代表），並為 [[people/albert-s-lai||Dr. Albert S. Lai]]《Toward A Community of Hope》2025 年五十週年再版撰寫序言〈Half a Century of Faith and Mission〉。
+
 ## Name Variants / Disambiguation
 
 - Yunching Yeh Davis · 葉芸青 · Ye Yunqing

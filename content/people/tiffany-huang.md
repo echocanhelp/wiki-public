@@ -84,6 +84,13 @@ Before "Moment," Tiffany had previously created work for church/missionary group
 
 Cross-reference: her profile appears in the [[sources/2017-tahs-publication||2017 TAHS Publication]] Who's Who corpus maintained by the [[organizations/tah-foundation||TAH Foundation]].
 
+## Vault Connections
+
+- 本頁所記人物另有專訪文章存於 vault：[[works/taiwaneseamerican-org/hello-from-taiwan-qa-with-filmmaker-tiffany-frances|Hello from Taiwan — Q&A with filmmaker Tiffany Frances Huang]]。
+- 2009年起任自由導演／剪輯，2010年起與伙伴共同經營 Flaure TV（見本頁 TAH 表格檔案）。
+- 「Moment」製作細節（本頁既有事實彙整）：從 National Geographic 百餘件投稿中脫穎而出；以 Einstein 名言「DEATH IS NOT AN END IF WE HAVE LIVED ON OUR CHILDREN」為題；預算 15,000 美元、片長限 6 分鐘內、僅三週完成前置拍攝剪輯；攝影 Jeremy Lundborg（Juilliard 舞蹈畢業），女主角 Chloe Crade（Juilliard 舞蹈畢業，具電視與百老匯經驗），母親張瑞菊本色演出母親一角。成片於 NatGeo Facebook 獲百萬以上瀏覽，並獲選為報導頭圖。
+- 求學前後曾為教會／宣教團體製作影片；以其在非洲與教會佈團合作之拍攝成果申請 Art Center College of Design 碩士班。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 

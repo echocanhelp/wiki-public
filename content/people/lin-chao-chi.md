@@ -39,7 +39,7 @@ As the third uncle (三舅) of 廖述宗, Lin Chao-chi was part of the extended 
 - Elder brother **林朝權** (see [[people/lin-chao-quan||林朝權]]) went to China after the war; younger brother **林朝業** was a dentist.
 - Held a professorship in the **geology department of National Taiwan University (台大地質系)**.
 - In their hometown, 林朝棨, 張炳松, and 廖五湖 were known as the **「豐原三傑」** (Three Worthies of Fengyuan); 廖五湖 later served as principal of 員林中學校.
-- Painter **廖繼春's wife was 林朝棨's sister**; their son is [[people/liao-shu-zong||廖述宗 (Liao Shu-zong)]], founding president of the North American Taiwanese Professors Association — making Lin the third maternal uncle (三舅) on his mother [[people/lin-qiong-xian||林瓊仙]]'s side.
+- Painter [[people/liao-ji-chun||廖繼春 (Liao Ji-chun)]]'s wife was 林朝棨's sister; their son is [[people/liao-shu-zong||廖述宗 (Liao Shu-zong)]], founding president of the North American Taiwanese Professors Association — making Lin the third maternal uncle (三舅) on his mother [[people/lin-qiong-xian||林瓊仙]]'s side.
 
 ## Source Notes and Confidence
 

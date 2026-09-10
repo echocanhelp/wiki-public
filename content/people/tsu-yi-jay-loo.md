@@ -47,6 +47,12 @@ Facts absorbed from the TAH encyclopedia entries already cited on this page:
 - Coordinator of TAC/EC (美東台灣人夏令會), the East Coast summer conference line of the [[organizations/taiwanese-american-council||Taiwanese American Council]].
 - Profession: actuary — member of the American Academy of Actuaries (1969-), owner of JL Actuarial Consulting Co.
 
+## Connected in the Vault
+
+- He authored the Our Journeys essay 「自由的號角 — 3F之起源 / The Call of Freedom — The Origin of 3F」 on the founding of 3F — held in the vault at [[works/taiwaneseamericanhistory-org/ourjourneys85||Our Journeys #85 (Chinese)]] and [[works/taiwaneseamericanhistory-org/ourjourneys85-eng||Our Journeys #85 (English)]]. The essay records the "Philadelphia Five" founders (Tom Yang, John Lin, Edward Chen, Echo Lin, Tsu-Yi Jay Loo), his Tainan upbringing, his father 盧慕東 (Mu-tung Loo), a longtime elder at KSK Church, and his studies at Macalester College, Temple Medical School, and Princeton.
+- As TAC/EC coordinator he is named on-site in [[works/taiwaneseamericanhistory-org/ourjourneys159||Our Journeys #159: 2014 美東夏令會觀感 (劉照男)]], which describes him and [[people/helen-loo||Helen]] running registration at the 2014 East Coast camp.
+- His Foreign Affairs article 《中國死巷》 is archived at [[works/taiwaneseamericanhistory-org/ff208||TAH Encyclopedia #208]]; his own profile entry at [[works/taiwaneseamericanhistory-org/senior-taiwanese-american-28||TAH Encyclopedia #28]].
+
 ## Sources
 - [TAH #28 encyclopedia: 28. Tsu-Yi Jay Loo (盧主義)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-28/)
 - [TAH #166 encyclopedia: 166. Tsu-Yi Jay Loo 盧主義](https://taiwaneseamericanhistory.org/166-tsu-yi-jay-loo/)

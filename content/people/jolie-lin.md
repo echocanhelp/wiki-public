@@ -52,6 +52,10 @@ _No filled family fields on the TAH profile._
 - [TAH #211 encyclopedia: 211. Jolie Lin 林姝秀, Pianist / 2015/06](https://taiwaneseamericanhistory.org/211-%e6%9e%97%e5%a7%9d%e7%a7%80-pianist-201506/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jolie-lin/)
 
+## Connected in the Vault
+Her TAH encyclopedia entries are held in the vault as community historical record: [[works/taiwaneseamericanhistory-org/211-e6-9e-97-e5-a7-9d-e7-a7-80-pianist-201506||TAH Encyclopedia #211: Jolie Lin 林姝秀, Pianist]] and [[works/taiwaneseamericanhistory-org/440-e6-9e-97-e5-a7-9d-e7-a7-80-pianist-201506||TAH Encyclopedia #440: Jolie Lin 林姝秀, Pianist]] (both 2015/06).
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

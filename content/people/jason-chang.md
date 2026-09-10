@@ -52,6 +52,15 @@ Jason Chang, President of [[organizations/north-america-pastel-artist-associatio
 - [TAH #1 encyclopedia: 1. 張哲雄 Jason Chang](https://taiwaneseamericanhistory.org/artist1-jason-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jason-chang/)
 
+## 藝術生涯（自本頁既有事實整理，無新增來源）
+
+- 1997年起創辦並擔任 [[organizations/north-america-pastel-artist-association|北美粉畫協會（NAPAA）]] 創會長。
+- 2005年當選 Pastel Society of America（PSA）Master Pastelist，為該協會首位華人 Master Pastelist（見 TAH #118 紀錄）；亦為 Friend of Pastel 榮譽得主。
+- 教學歷歷：國立臺灣藝術大學（1968年起）、College of New Rochelle、St. John's University（1984年起）、National Arts Club（2008年起）、國立台灣藝術教育館（NTAEC）客座教授（2010年起），並定期於 NTAEC 主持「粉畫教師研習营」。
+- 協助 NTAEC 組織贊助「國際粉畫名家邀請展」；作品於台、中、歐、美展出，並由台北99度藝術中心及紐約 Hwang's Art Gallery 代理。
+- 1999年8月參與林肯中心聯展（見 TAH #18 展覽紀錄）；曾任 Allied Artists of America 及 Audubon Artists Society 董事兼評審。
+- 教育：國立臺灣大學（1966 圖畫系學士）、School of Visual Arts（1990）、College of New Rochelle（1993 美術碩士）。條目見「Who's Who in America Arts」。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
