@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Prof. Chia-Yi Tseng (曾加宜教授)
 
@@ -42,3 +42,6 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/whos-who-1759-chia-yi-tseng||TAH #1759: Prof. Chia-Yi Tseng 曾加宜教授]]
+- [[works/taiwaneseamericanhistory-org/musician416||TAH #416: Chia-Yi Tseng 曾加宜, Cellist (07/2017)]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]

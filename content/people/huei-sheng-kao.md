@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Huei-Sheng Kao (高慧生)
 
@@ -44,3 +44,6 @@ A native of Taiwan, Assistant Concertmaster Huei-Sheng Kao started violin studie
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/129-huei-sheng-kao-e9-ab-98-e6-85-a7-e7-94-9f-violinist-201502||TAH #129: Huei-Sheng Kao, Violinist (2015/02)]]
+- [[works/taiwaneseamericanhistory-org/242-huei-sheng-kao-e9-ab-98-e6-85-a7-e7-94-9f-201502||TAH #242: Huei-Sheng Kao 高慧生 (2015/02)]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]

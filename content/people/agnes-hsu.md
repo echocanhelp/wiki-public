@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Agnes Hsu (許芝榕)
 
@@ -43,3 +43,6 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/whoswho1447||TAH #1447: Agnes Hsu 許芝榕 (2016/12)]]
+- [[works/taiwaneseamericanhistory-org/musician378||TAH #378: Agnes Hsu 許芝榕, violinist (2016/12)]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]

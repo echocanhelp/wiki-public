@@ -4,7 +4,7 @@ type: person
 tags:
   - 
 verification_status: pending
-last_reviewed: 2026-07-08
+last_reviewed: 2026-09-09
 ---
 # Guo Yingyan (郭應言)
 
@@ -34,4 +34,6 @@ The ITPC history document states that after 鄭泉聲牧師 returned to Japan, t
 - [[organizations/irvine-taiwanese-presbyterian-church||Irvine Taiwanese Presbyterian Church]]
 - [[people/zheng-quansheng||Zheng Quansheng (鄭泉聲)]]
 - [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan]]
+- [[sources/irvine-taiwanese-presbyterterian-church||ITPC history document (cited source)]]
+- [[sources/irvine-taiwanese-presbyterian-church||ITPC source hub]]
 - Echopedia Community Contributions Hub
