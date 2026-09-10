@@ -26,6 +26,10 @@ last_reviewed: 2026-09-10
 - **Profile author:** Compiled the Sam Chang 張善良 profile (Part 2, L1413–1644)
 - **Editor/Compiler:** Listed among the publication's editorial team for the [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society (TAHS)]], alongside first convener [[people/zheng-bing-quan||鄭炳全 (Zheng Bingquan)]]
 
+## Timeline
+
+- **2017** — Contributed to the [[organizations/taiwanese-american-historical-society||TAHS]] 2017 publication 台美菁英錄: authored the 緣起與展望 founding essay (Part 1, L162–289), compiled the [[people/sam-chang||Sam Chang 張善良]] profile (Part 2, L1413–1644), and was listed among the editorial team alongside first convener [[people/zheng-bing-quan||鄭炳全 (Zheng Bingquan)]] and [[people/zhou-wei-lin||周威霖 (Zhou Weilin)]].
+
 ## Notes
 - Listed separately from 周威霖 (Zhou Weilin), who also served as an editor/compiler and TAHS Secretary General. Both names appear in the 2017 publication's editor list; they are distinct individuals.
 - 周威霖 now has a standalone page: [[people/zhou-wei-lin||周威霖 (Zhou Weilin)]], founding TAHS Secretary General.

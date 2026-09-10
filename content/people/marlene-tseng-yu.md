@@ -31,6 +31,22 @@ Marlene Tseng Yu was born in Taiwan in 1937 and came to the U.S. in 1963. From 1
 - Open a studio — 1969
 <!-- tah-tables:end -->
 
+## Timeline
+
+Absorbed from the on-page TAH biography and Education/Employment tables.
+
+- **1937** — Born in 花蓮, Taiwan
+- **1960** — B.A. in Art, 國立台灣師範大學 (Taipei)
+- **1963** — Came to the U.S.
+- **1967** — M.A. in Art, University of Colorado at Boulder
+- **1967–68** — Taught art at Denver University, Colorado
+- **1969** — Opened a studio in SoHo, New York City; lived and worked there 38 years (through 2007)
+- **1994–** — Advisory Committee, Fine Arts Department, University of Colorado at Boulder
+- **1995–** — Curated exhibitions for the new art movement "Forces of Nature"
+- **2001–** — Founder and Curator, Rain Forest Art Foundation
+- **2008** — Opened a studio in Long Island City
+- **2014** — Established her own museum, the Marlene Yu Museum, in Shreveport, Louisiana
+
 ## Vault Records
 
 - [[works/taiwaneseamericanhistory-org/861-marlene-tseng-yu||TAH story #861 — Marlene Tseng Yu 虞曾富美 (2016-02)]]

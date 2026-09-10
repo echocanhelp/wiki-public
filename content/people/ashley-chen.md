@@ -29,6 +29,19 @@ last_reviewed: 2026-09-10
 - 龍星音樂中心 (New York) — Piano and String Faculty; Administrative Manager — 臺北市立交響樂團 (Taipei Symphony Orchestra) — Collaborative Performer (piano, harpsichord, viola) — 世紀交響樂團 (Century Symphony Orchestra) — Collaborative Performer — 臺北市立交響樂團 (Taipei Symphony Orchestra) — Administrative Assistant — 新北市鷺江國 (Lujiang Elementary School, New Taipei City) — String Music After-School Instructor — 康橋雙語學校 (Kang Chiao Bilingual School) — Individual Music Instructor — A' Art Studio — Founder — (2016-)
 <!-- tah-tables:end -->
 
+## Timeline
+
+Absorbed from the on-page TAH biography and Education/Employment tables.
+
+- 高中就讀復興高中 — 鋼琴師事葉孟儒、謝琦雯，中提琴師事王璽禎
+- 畢業於國立臺灣藝術大學音樂系 — 鋼琴師事周佳臻，中提琴師事蕭雨沛
+- 曾擔任臺北市立交響樂團附設團團協演、世紀交響樂團協演（鋼琴、大鍵琴、中提琴），並不定期舉行個人及室內樂音樂會
+- 曾任臺北市立交響樂團行政助理
+- 曾任新北市鷺江國弦樂課後才藝課程老師、康橋雙語學校一人一才藝個別課老師
+- **2016** — 成立 A' Art Studio，致力於推廣音樂
+- **2017** — 參與臺北藝穗節自製音樂推廣節目『聽，電影!』，並以此節目獲臺北市社教館藝文沙龍補助
+- 現任紐約龍星音樂中心鋼琴及弦樂師資及行政經理
+
 ## Family
 
 _No filled family fields on the TAH profile._
