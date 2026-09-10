@@ -37,9 +37,9 @@ Patsy Fang Chen was born in Taipei, Taiwan, graduated with the highest honor fro
 
 ## Family
 
-- **Husband:** Wen Jer Chen陳文哲
-- **Daughter:** Wendy Fang Chen
-- **Daughter:** Justine F. Chen
+- **Husband:** [[people/wen-jer-chen||Wen Jer Chen 陳文哲]]
+- **Daughter:** [[people/wendy-fang-chen-tilp||Wendy Fang Chen (陳丹蘋)]]
+- **Daughter:** [[people/dr-justine-fang-chen||Justine F. Chen (陳潔思)]]
 
 
 ## Sources

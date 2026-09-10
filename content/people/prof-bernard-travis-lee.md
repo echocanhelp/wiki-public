@@ -35,11 +35,11 @@ Prof. Bernard Travis Lee 李伯寧教授 – History of Taiwanese American (T.A.
 - **Wife:** 李必寧
 - **Son:** 李博德
 - **Father:** 李清澤
-- **Mother:** 李林榮峰
+- **Mother:** [[people/emily-lin-lee||李林榮峰]] — the artist 林榮峰 / Emily Lee, who authored his TAH encyclopedia entry #33
 
 
 ## Archival & Editorial Career
-- Chief, Division of Plastic and Reconstructive Surgery, Beth Israel Deaconess Medical Center / [[organizations/harvard-taiwanese-cultural-society||Harvard]] Medical School (2014–).
+- Chief, Division of Plastic and Reconstructive Surgery, Beth Israel Deaconess Medical Center / Harvard Medical School (2014–).
 - Harvard Alumni Association — Appointed Graduate School Director, Board of Directors (2017–2020).
 - Harvard T.H. Chan School of Public Health Alumni Association — Deputy Chair, Awards Committee.
 - Chair, Plastic Surgery Executive Committee, Harvard Plastic Surgery Residency Training Program.
