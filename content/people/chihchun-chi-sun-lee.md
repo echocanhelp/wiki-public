@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Chihchun Chi-sun Lee (李志純)
 
@@ -47,6 +47,10 @@ _No filled family fields on the TAH profile._
 Her TAH encyclopedia entries are archived in the vault:
 - [[works/taiwaneseamericanhistory-org/107-chihchun-chi-sun-lee-e6-9d-8e-e5-bf-97-e7-b4-94-composer||TAH #107 — Chihchun Chi-sun Lee 李志純, Composer (2014/12)]]
 - [[works/taiwaneseamericanhistory-org/186-chihchun-chi-sun-lee-e6-9d-8e-e5-bf-97-e7-b4-94||TAH #186 — Chihchun Chi-sun Lee 李志純]]
+
+## Connected in the Vault
+
+- Her composition teacher **Loong-Hsing Wen (溫隆信)**, named in her TAH biography alongside William Albright, William Bolcom, and Bright Sheng, has a vault page: [[people/david-loong-hsing-wen||David Loong-Hsing Wen (溫隆信)]].
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

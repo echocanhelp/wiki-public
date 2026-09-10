@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Yu-Ru Huang 䈎 (郁如)
 
@@ -44,6 +44,10 @@ Yu-Ru is a multimedia artist, artist teacher, art director, and curator. She rec
 ## In-vault source pages
 Her TAH encyclopedia entries are archived in the vault:
 - [[works/taiwaneseamericanhistory-org/artist52-yu-ru-huang||TAH #52 — 䈎郁如 Yu-Ru Huang, artist (2015/07)]]
+- [[works/taiwaneseamericanhistory-org/whos-yu-ru-huang||TAH #539 — Yu-Ru Huang 䈎郁如 (2015/08)]]
+- [[works/taiwaneseamericanhistory-org/25-citizen-of-the-year-award-astc-2016-houston-tx-yu-ru-huang||TAH #25 — Citizen of the Year award, Houston City Hall (2016); her name appears as 葉郁如 on that record]]
+
+Her Houston community also has vault pages: [[organizations/taiwanese-heritage-society-of-houston||Taiwanese Heritage Society of Houston]] and [[organizations/taiwanese-association-of-america-houston-chapter||Taiwanese Association of America, Houston chapter]] (context only — membership is not stated in her TAH profile).
 
 Community institutions named in her profile (Asia Society Houston development committee, TFAA public-art collaboration, city of Houston Citizenship Month committee) do not have dedicated vault pages yet.
 

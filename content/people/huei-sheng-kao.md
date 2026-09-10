@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Huei-Sheng Kao (高慧生)
 
@@ -40,6 +40,10 @@ A native of Taiwan, Assistant Concertmaster Huei-Sheng Kao started violin studie
 - [TAH #129 encyclopedia: 129. Huei-Sheng Kao 高慧生, Violinist / 2015/02](https://taiwaneseamericanhistory.org/129-huei-sheng-kao-%e9%ab%98%e6%85%a7%e7%94%9f-violinist-201502/)
 - [TAH #242 encyclopedia: 242. Huei-Sheng Kao高慧生 / 2015/02](https://taiwaneseamericanhistory.org/242-huei-sheng-kao%e9%ab%98%e6%85%a7%e7%94%9f-201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/huei-sheng-kao/)
+
+## Connected in the Vault
+
+- Mr. Kao has been based in Pittsburgh since joining the Pittsburgh Symphony in 1977; the vault holds a page for that city's Taiwanese-American community organization, [[organizations/taiwanese-association-of-america-pittsburgh||Taiwanese Association of America, Pittsburgh]] (context only — membership is not stated in his TAH profile).
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
