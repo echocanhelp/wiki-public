@@ -4,7 +4,7 @@ type: person
 tags:
   -
 verification_status: pending
-last_reviewed: 2026-07-13
+last_reviewed: 2026-09-10
 ---
 # Li Fu-Jen (李輔仁)
 
@@ -22,6 +22,8 @@ Li succeeded [[people/zhang-xuanxin||Zhang Xuanxin (張宣信)]], who left ITPC 
 
 ## Related Pages
 - [[people/chen-meihui||Chen Meihui (陳美蕙)]]
+- [[people/guo-yingyan||Guo Yingyan (郭應言)]]
+- [[people/zheng-quansheng||Zheng Quansheng (鄭泉聲)]]
 - [[people/zhang-xuanxin||Zhang Xuanxin (張宣信)]]
 - [[organizations/irvine-taiwanese-presbyterian-church||Irvine Taiwanese Presbyterian Church (ITPC)]]
 - [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan]]
@@ -42,3 +44,7 @@ Pages that link to **li-furen** (li-furen):
 - Supporting context: Chen Meihui page references Li Fu-Jen as "current ITPC pastor per official site."
 - Source confidence: medium — the ITPC site is not currently accessible from this environment for independent verification; information is based on prior crawl data and cross-references in existing Echopedia content.
 - Romanization note: "Li Fu-Jen" follows Mandarin pinyin conventions; church contexts also use "Rev. Fu-Jen Li."
+
+## Vault Cross-References
+- **August 2025 succession:** the ITPC pastoral chronology recorded on [[people/guo-yingyan||Guo Yingyan (郭應言)]] names Li Fu-Jen as the congregation's current pastor from August 2025, after the founding-stage pastorate of [[people/zheng-quansheng||Zheng Quansheng (鄭泉聲)]] and the later pastorates of Zhang Xuanxin and Chen Meihui.
+- **May 2022 ITPC shooting:** the TAH report ([[works/taiwaneseamericanhistory-org/our-journeys-380||TAH #380, 2022/05]]) records that Rev. 李輔仁 had been covering [[people/chen-meihui||Chen Meihui (陳美蕙)]]'s Sunday service duties at a neighboring church while she recovered from surgery — which is why he and visiting former pastor [[people/zhang-xuanxin||Zhang Xuanxin (張宣信)]] were the clergy on site that day.

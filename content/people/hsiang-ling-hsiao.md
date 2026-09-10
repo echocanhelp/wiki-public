@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Hsiang-Ling Hsiao (蕭湘舲)
 
@@ -42,3 +42,11 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault Cross-References
+- TAH encyclopedia records for this profile exist in the vault: [[works/taiwaneseamericanhistory-org/34-hsiang-ling-hsiao-e8-95-ad-e6-b9-98-e8-88-b2-piano|TAH #34 蕭湘舲 (Piano), 2014/10]] and [[works/taiwaneseamericanhistory-org/515-hsiang-ling-hsiao-e8-95-ad-e6-b9-98-e8-88-b2-201507|TAH #515 蕭湘舲, 2015/07]].
+
+## Career Notes
+- Collaborative-pianist training under Professor Rita Sloan at the University of Maryland; opera and art-song experience through Maryland Opera Studio productions.
+- Won third prize in the 2011 UMD Concerto Competition and performed Rachmaninoff's First Piano Concerto with the University of Maryland Repertory Orchestra.
+- Pianist at 聖經教會樂道堂.

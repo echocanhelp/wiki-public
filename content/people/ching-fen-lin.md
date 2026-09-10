@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Ching-Fen Lin (張靜芬)
 
@@ -45,3 +45,12 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault Cross-References
+- The encyclopedia articles behind this profile are held in the vault as work records: [[works/taiwaneseamericanhistory-org/524-ching-fen-lin-e5-bc-b5-e9-9d-9c-e8-8a-ac-201508|TAH #524 張靜芬, 2015/08]] and [[works/taiwaneseamericanhistory-org/255-e5-bc-b5-e9-9d-9c-e8-8a-ac-ching-fen-lin-vocal-201508|TAH #255 張靜芬 (Vocal), 2015/08]].
+- **Disambiguation:** a distinct person from [[people/ching-fen-lin-2|Ching Fen Lin (林青棻)]] (different Chinese name) and from [[people/ivy-yang|Ivy Yang (楊靜芬)]].
+
+## Career Notes
+- Trained at 東海大學 (B.S. 音樂系) and 西德州農工大學 (M.S. 聲樂); voice study under William Zimerman, 陳盤安, 李靜美, Elsa Porter, Elena Nickolaidi, and Laurel Miller, conducting under Hugh Sanders and Henry Gibbons.
+- Conducted the Taiwanese-American choruses 華聲 (Dallas), 悅友 (Minnesota), 狂飆 (Houston), and 東海大學民謠合唱團; led the 四季合唱團 on Taiwan tours in 1995 and 1999.
+- Engaged as a contracted soloist with the Arlington and Fort Worth opera companies; currently a high-school voice teacher and the artistic director/conductor of the 四季合唱團, and a member of NATS.
