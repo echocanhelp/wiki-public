@@ -3,7 +3,7 @@ title: "Rex Chen (陳乃光)"
 type: person
 tags: []
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Rex Chen (陳乃光 / Chen Nai-Guang)
 
@@ -88,3 +88,10 @@ Pages that link to **陳乃光** (rex-chen):
 - [[people/ken-wu||Ken Wu (吳兆峯)]]
 - [[people/david-lee||David Lee]]
 - [[people/chen-caiyuan||Rex Chen (陳財元)]] — TAH (not this member)
+
+## Connected in the Vault (deepen pass 2026-09-10)
+
+- Reciprocal cross-links: fellow TAHS members [[people/ken-wu||Ken Wu (吳兆峯)]] and [[people/david-lee||David Lee]] each list this member on their own pages — a confirmed same-community membership circle.
+- [[people/david-lee||David Lee (李東璞)]] serves as TAHS CTO per the Echo System leadership listing on the [[organizations/taiwanese-american-historical-society||TAHS]] page.
+- Onboarding was recorded under the [[people/tahs-member-onboarding||TAHS member onboarding]] process; employer context (EverTrust Bank, an O-Bank subsidiary) remains per the onboarding business card, pending Rex's own confirmation.
+- Revision note 2026-09-10: vault-internal deepen pass only (reciprocal backlinks + process links); no new biographical claims added.

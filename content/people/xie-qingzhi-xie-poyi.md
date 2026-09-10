@@ -9,7 +9,7 @@ tags:
   - medical
   - family
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Xie Qingzhi & Xie Poyi (謝清志、謝泊怡)
 

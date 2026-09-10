@@ -7,7 +7,7 @@ tags:
   - TAHS
   - historical-preservation
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 
 # Taiwanese American Historical Society (TAHS)
@@ -58,6 +58,12 @@ Not on the 2025 paper org chart. Owner-confirmed for public leadership listing (
 |------|--------|
 | Chief Technology Officer (CTO) | [[people/david-lee||David Lee (李東璞)]] |
 | Director of Echo System Engineering | [[people/ashton-hsu||Ashton Hsu (許思敦)]] |
+
+## Member records cross-linked in the vault (deepen pass 2026-09-10)
+
+- Onboarding process page: [[people/tahs-member-onboarding||TAHS member onboarding]] (owner-confirmed LINE introductions, membership recorded with appointment basis).
+- Recorded individual members cross-linked from this page's community include [[people/rex-chen||Rex Chen (陳乃光)]] (member since 2026-06-15, introduced by [[people/leonard-hsu-jr||Leonard Hsu Jr.]]) and [[people/ken-wu||Ken Wu (吳兆峯)]].
+- 2023 TAHS Publication 专访家庭: [[people/xie-qingzhi-xie-poyi||謝清志、謝泊怡]] — interview held at the TAHS office, October 2022（源見 [[sources/2023-tahs-publication||2023 TAHS Publication]]）.
 
 ## Related archives
 - [[organizations/tah-foundation||TAH Foundation (台美史料中心)]] — sibling organization; runs [taiwaneseamericanhistory.org](https://taiwaneseamericanhistory.org/). Not TAHS and not the 2017/2023 TAHS yearbooks（见 [[sources/2023-tahs-publication||2023 TAHS Publication]]）.

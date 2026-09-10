@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Chi-Ching Grace Lin (林季靜)
 
@@ -37,7 +37,7 @@ _No filled family fields on the TAH profile._
 ## Timeline
 - Chamber/orchestra career in the New York City area: Dicapo Opera, Metropolitan Opera Orchestra, Teatro Grattacielo Opera, National Choral, Binghamton Philharmonic, Riverside Symphony, New York Asian Symphony Orchestra, New Amsterdam Orchestra, West Field Symphony, Colonial Symphony, Park Chamber Symphony, Centre Symphony, Metro Chamber Orchestra — at Lincoln Center, Carnegie Hall, Merkin Hall, and venues in Philadelphia, Washington DC, New Jersey, Hong Kong, China and Japan
 - 2001, 2002 — marimba soloist, Day of Percussion Festival NYC (excellent performance of chamber ensemble award)
-- 2008 — premiered Andrew Beall's percussion concerto at Lincoln Center with CYCNY; appears on Beall's solo percussion album *Deliverance*
+- 2008 — premiered Andrew Beall's percussion concerto at Lincoln Center with [[organizations/youth-orchestra-cycny||CYCNY 紐約幼獅青少年管弦樂團]]; appears on Beall's solo percussion album *Deliverance*
 - Chamber groups: Talujon Percussion, Tam Dun Percussion, 20th Century Contemporary Ensemble
 - M.S. 打擊演奏 (Percussion Performance), 紐約市立大學 (CUNY)
 
