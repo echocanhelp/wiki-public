@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Chih-Long Hu (胡志龍)
 
@@ -40,6 +40,7 @@ _No filled family fields on the TAH profile._
 - Broadcast on NPR "Performance Today"; televised in Taiwan, China and Japan
 - 2009 — CD *Formosa Caprices* nominated for 金曲 Golden Melody "Best Crossover Album"; Hu nominated "Best Performer"
 - Current: 東田納西州立大學 (East Tennessee State University) 音樂系助理教授
+- Recording: performs on the Amillita Entertaining Group release *Formosa: 24 Caprices for solo piano*, which includes the piano solo "To An Isolated Island" by [[people/ke-chia-chen||Ke-Chia Chen]]
 
 ## References in vault
 - [[works/taiwaneseamericanhistory-org/15109||444. Chih-Long Hu 胡志龍 / 2015/06]] — TAH encyclopedia #444
@@ -52,5 +53,10 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chih-long-hu/)
 
 ## Related Pages
+- [[organizations/taiwanese-association-of-america-east-tennessee||Taiwanese Association of America East Tennessee (東田納西)]] — regional TA community context for his current post in East Tennessee
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Connected in the Vault
+- [[people/ke-chia-chen||Ke-Chia Chen]] — reciprocal link: Ke-Chia Chen's page credits Chih-Long Hu as the performer of his piano solo "To An Isolated Island" on *Formosa: 24 Caprices for solo piano*.
+- [[works/taiwaneseamericanhistory-org/15109||444. Chih-Long Hu 胡志龍 / 2015/06]] and [[works/taiwaneseamericanhistory-org/210-hsin-yun-huang-e9-bb-84-e5-bf-83-e8-8a-b8-viola-201506||210. Chih-Long Hu 胡志龍, Pianist / 2015/06]] — the two encyclopedia entries behind this page.

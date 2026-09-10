@@ -48,6 +48,11 @@ Absorbed from the TAH profile tables above:
 - **Son:** Phillip(君柏)
 
 
+## Connected in the Vault
+
+- Her TAH encyclopedia entries are harvested in the vault: [[works/taiwaneseamericanhistory-org/31-dr-lii-mei-beverly-chang||TAH #31 entry]] and [[works/taiwaneseamericanhistory-org/whos-who-964-lii-mei-chang||TAH #964 Who's Who entry]].
+- Her St. Louis community leadership (NATMA STL president 1997; TAA/STL president 2014–2015) is documented on the existing org pages [[organizations/north-american-taiwanese-medical-association-foundation||NATMA Foundation]] and [[organizations/taiwanese-association-of-america-in-greater-st-louis||TAA in Greater St. Louis]].
+
 ## Sources
 - [TAH #31 encyclopedia: 31. Dr. Lii Mei (Beverly) Chang 張理美醫師](https://taiwaneseamericanhistory.org/31-dr-lii-mei-beverly-chang/)
 - [TAH #964 encyclopedia: 964. Dr. Lii Mei (Beverly) Chang 張理美醫師](https://taiwaneseamericanhistory.org/whos-who-964-lii-mei-chang/)

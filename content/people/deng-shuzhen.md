@@ -4,7 +4,7 @@ type: person
 tags:
   - 
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Elder Deng Shuzhen (鄧淑貞長老)
 
@@ -80,3 +80,10 @@ Use Echopedia Community Contributions Hub and include:
 - [[organizations/good-shepherd-taiwanese-presbyterian-church||Good Shepherd Taiwanese Presbyterian Church (好牧者臺灣基督長老教會)]]
 - [[sources/good-shepherd-taiwanese-presbyterian-church||GSTPC Official Website (source)]] — bulletin archive backing the 86-page mention corpus
 - GSTPC Fiduciary Extraction Ledger
+
+## Connected in the Vault
+- [[organizations/good-shepherd-taiwanese-presbyterian-church||Good Shepherd Taiwanese Presbyterian Church (好牧者臺灣基督長老教會)]] — the congregation whose 86-page bulletin corpus (2020–2025) is the entire evidence base for this page.
+- [[sources/good-shepherd-taiwanese-presbyterian-church||GSTPC Official Website (source)]] — archive holding every dated bulletin cited above (2020-02-16, 2020-03-01, 2020-07-12, 2020-08-23, 2023-10-29, 2024-12-29, 2025-06-01).
+
+## Cross-Reference Status (2026-09-10 sweep)
+No other Tier1 person, organization, or work page in the vault currently names 鄧淑貞長老; the individual GSTPC bulletins cited above are not yet ingested as work pages. Further wikilinks therefore depend on bulletin ingestion, not on biography inference, so no new claims were added in this pass.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Si-Fei Cheng (鄭希暉)
 
@@ -34,6 +34,20 @@ Born in Taiwan and raised in California, violist Sifei Cheng joined the Minnesot
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Timeline (from the TAH profile above)
+- Born in Taiwan, raised in California; 台灣台北
+- 1994 — B.S. Music, Curtis Institute of Music (also studied at the Juilliard School, New York)
+- 1995–present — Section viola, Minnesota Orchestra
+- Principal viola: Charleston Symphony, New World Symphony, Pacific Music Festival Orchestra; 紐約弦樂團 首席中提琴
+- Led sections under Michael Tilson Thomas, Alexander Schneider, Eiji Oue, Christoph Eschenbach
+- Festival/chamber activity: Ravinia, Caramoor, Taos Chamber Music Festival, Pacific Music Festival, New York String Seminar
+- Teachers/coaches: Karen Tuttle, Michael Tree, William Kennedy, Miriam Fried, Paul Biss, Alan de Veritch, Tokyo String Quartet, American String Quartet
+- Chamber colleagues include Joshua Bell, Pamela Frank, Alicia de Larrocha, Shanghai String Quartet
+
+## References in vault
+- [[works/taiwaneseamericanhistory-org/whoswho1270||1270. Si-Fei Cheng 鄭希暉 / 09/2016]]
+- [[works/taiwaneseamericanhistory-org/musician361||361. Sifei Cheng 鄭希暉, Violist / 09/2016]]
 
 ## Sources
 - [TAH #1270 encyclopedia: 1270. Si-Fei Cheng 鄭希暉/ 09/2016](https://taiwaneseamericanhistory.org/whoswho1270/)

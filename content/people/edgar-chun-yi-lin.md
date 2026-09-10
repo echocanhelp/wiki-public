@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Prof. Jun-Yi Lin (林俊義教授)
 
@@ -39,6 +39,27 @@ Accomplishment
 - **Daughter:** 西湘
 - **Son:** 西濤, 西洛
 
+
+## Timeline (from the TAH employment record above)
+- 1938 — born; Taipei, Taiwan
+- 1964 — B.A. Foreign Language, National Taiwan Univ.; 1967 — B.A. Biology, Goshen College; later M.S. and Ph.D. in Biology, Indiana Univ.
+- 1975–1978 — Associate Professor of Biology, Tunghai Univ.; 1978–2000 — Professor of Biology, Tunghai Univ.
+- 1992–1995 — Representative, National Assembly of R.O.C.
+- 1995–1998 — Director, Government Environmental Protection of Taipei City
+- 2000–2001 — Director, Environmental Protection Administration, Executive Yuan (also listed as Minister of the EPA, 2000–2001; TAH #255 titles him 台灣環保之父)
+- 2001–2004 — Ambassador Extraordinary and Plenipotentiary, ROC to the Republic of Gambia
+- 2004–2007 — Special Representative Plenipotentiary, ROC in the UK
+- 2007–2008 — Chairman, North American Coordinating Committee
+- 2014/10 — memoir 活出淋漓盡致的生命 published
+- Family: wife Kathleen Yoder; daughter 西湘; sons 西濤, 西洛
+
+## Names in the record
+The TAH archive carries this person under both romanizations — Edgar (TAH #174, and the Who's Who slug `edgar-chun-yi-lin`) and Jun-Yi (TAH #123, #255) — for the same 林俊義教授.
+
+## References in vault
+- [[works/taiwaneseamericanhistory-org/whos-who-123-jun-yi-lin||123. Prof. Jun-Yi Lin 林俊義教授]]
+- [[works/taiwaneseamericanhistory-org/174-prof-edgar-lin||174. Prof. Edgar Lin 林俊義教授]]
+- [[works/taiwaneseamericanhistory-org/publication-501||501. 活出淋漓盡致的生命 林俊義回憶錄 / 2014/10 / Biography]] — his own memoir as filed in the TAH archive
 
 ## Sources
 - [TAH #174 encyclopedia: 174. Prof. Edgar Lin 林俊義教授](https://taiwaneseamericanhistory.org/174-prof-edgar-lin/)

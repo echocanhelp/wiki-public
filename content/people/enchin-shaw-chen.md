@@ -44,6 +44,11 @@ Family History Book : 蕭安居牧師生平及家譜 Life And Family History Of 
 - **Son:** 陳安哲&陳善哲
 
 
+## Connected in the Vault
+
+- Her TAH encyclopedia entries are harvested in the vault: [[works/taiwaneseamericanhistory-org/senior-taiwanese-american-3||TAH #3]], [[works/taiwaneseamericanhistory-org/ff343||TAH #343 — first female Taiwanese student studying in the U.S.]], [[works/taiwaneseamericanhistory-org/ff292||TAH #292 — founding member, Formosan Club of Washington D.C.]], [[works/taiwaneseamericanhistory-org/ff291||TAH #291 — founding member, Taiwanese Presbyterian Church of Washington D.C.]], and [[works/taiwaneseamericanhistory-org/whos-who-473-enchin-shaw-chen||TAH #473 Who's Who entry]].
+- Her family history book 《蕭安居牧師生平及家譜》 preserves Rev. An-Ku Shaw's record in the [[organizations/presbyterian-church-in-taiwan||PCT]] milieu.
+
 ## Sources
 - [TAH #3 encyclopedia: 3. Enchin Shaw Chen (蕭永真)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-3/)
 - [TAH #7 encyclopedia: 7. Enchin Shaw Chen 蕭永真](https://taiwaneseamericanhistory.org/7-enchin-shaw-chen/)
