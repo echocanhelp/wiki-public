@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-30
+last_reviewed: 2026-09-09
 ---
 # John J. Tkacik (譚慎格)
 
@@ -63,6 +63,10 @@ See the source hub. Top mentions:
 3. [[articles/taiwanjustice-net/2024/20240715145556_root_185fdc80c7d5764b|VOA專訪游錫堃：美國“新一中政策”形成，台美建交一定會實現]]
 4. [[articles/taiwanjustice-net/2020/20200822225548_2020_08_16_不必經過修憲_以什麼國名走向國際-_-王克雄_042f16251f8871bf|不必經過修憲：以什麼國名走向國際 ◎ 王克雄]]
 
+
+## Archived column focus
+
+The one title-authored column preserved in the harvest — *台灣、烏克蘭與七十五週年* (2022-03-05) — compares Taiwan's situation to Ukraine's on a 75-year anniversary framing, an example of Tkacik's recurring theme as a Taipei-based commentator on Taiwan's international standing. His name also surfaces in body text of archive pieces on the Chen Shui-bian prosecution ([[people/chen-shuibian||Chen Shui-bian (陳水扁)]]'s forced court appearance, 2013), the 2018 impeachment-of-Ma judicial controversy by attorney [[people/huang-diyin||Huang Di-yin (黃帝穎)]], and Lee Teng-hui commemoration essays — placing him within the same Taiwanese-American media commentary circle preserved by [[organizations/taiwanjustice-net||taiwanjustice.net (台灣公義網)]].
 
 ## Source Notes
 
