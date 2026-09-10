@@ -47,6 +47,10 @@ Synthesized from the TAH profile text above (no external sourcing). Huang Shih-t
 - [TAH #254 encyclopedia: 254. 黃詩婷,Violinist / 2015/08](https://taiwaneseamericanhistory.org/254-%e9%bb%83%e8%a9%a9%e5%a9%b7violinist-201508/)
 - [TAH Who's Who](https://taiwaneseamericanhistory.org/person/shih-ting-huang/)
 
+## Archival Record (vault-internal)
+- Her TAH encyclopedia profiles exist as work pages: [[works/taiwaneseamericanhistory-org/523-shih-ting-huang-e9-bb-83-e8-a9-a9-e5-a9-b7-201508|TAH #523, Shih-Ting Huang 黃詩婷 (2015/08)]] and [[works/taiwaneseamericanhistory-org/254-e9-bb-83-e8-a9-a9-e5-a9-b7violinist-201508|TAH #254, 黃詩婷, Violinist (2015/08)]].
+- The senior-institute where she has taught 音樂欣賞 since 2003 has its own vault pages: [[organizations/houston-taiwan-institute-for-senior-citizens|休士頓台灣松年學院]] and its archival work record [[works/taiwaneseamericanhistory-org/houston-taiwan-institute-for-senior-citizens|HTISC (TAH archive)]].
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[organizations/houston-taiwan-institute-for-senior-citizens||Houston Taiwan Institute for Senior Citizens (休士頓台灣松年學院)]]
