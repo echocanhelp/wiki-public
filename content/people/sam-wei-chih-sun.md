@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Sam Wei-Chih Sun (孫偉志)
 
@@ -46,4 +46,8 @@ Sam Wei-Chih Sun is a pianist, an accompanist and a music educator from Taiwan. 
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## Network
-- [[organizations/good-shepherd-taiwanese-presbyterian-church||GSTPC]] — TAH Who’s Who
+- [[organizations/good-shepherd-taiwanese-presbyterian-church||GSTPC]] — TAH Who’s Who; he is the church's music director per the GSTPC page
+
+## Vault Source Record
+
+The vault holds three TAH story-corpus records on Sun as a conductor and music educator: the 2015/01 profile 「孫偉志 音樂教師的故事」 by 陳美伶 ([[works/taiwaneseamericanhistory-org/183-e5-ad-ab-e5-81-89-e5-bf-97-e9-9f-b3-e6-a8-82-e6-95-99-e5-b8-ab-e7-9a-84-e6-9||TAH #183]]), the 2015/01 conductor profile ([[works/taiwaneseamericanhistory-org/111-sam-wei-chih-sun-e5-ad-ab-e5-81-89-e5-bf-97conductor-201501||TAH #111]]), and a later Who's Who entry ([[works/taiwaneseamericanhistory-org/157-sam-wei-chih-sun-e5-ad-ab-e5-81-89-e5-bf-97||TAH #157]]). All three are bibliographic records; full text stays in the vault.

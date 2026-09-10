@@ -8,7 +8,7 @@ tags:
   - taiwan-independence
   - activist
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Yang Huiqiao (楊惠喬)
 
@@ -33,6 +33,12 @@ Yang Huiqiao was educated in Taiwan, attending Taiwan Nanmen High School. During
 ## Career and Activism
 
 After teaching for four years at Beimen Middle School in Tainan County, Yang decided to travel abroad. In 1971, through a friend's introduction, she met Zheng Dehe, a Tokyo University graduate specializing in urban planning. They married and both became active in the Taiwan independence movement.
+
+## Community Record in Vault Sources
+
+Her husband 鄭德和 has his own TAH story-corpus record ([[works/taiwaneseamericanhistory-org/718-e9-84-ad-e5-be-b7-e5-92-8c-201512||TAH #718: 鄭德和, 2015/12]]). A SCTAI/TACL founding memoir recalls 楊惠喬 as one of twelve attendees at the December 1, 1984座谈会 that revived the Taiwan American Citizens League (TACL) organizing effort in Los Angeles ([[works/taiwaneseamericanhistory-org/ourjourneys272||Our Journeys 272]]). Two Who's Who entries exist in the corpus ([[works/taiwaneseamericanhistory-org/169-catherine-yang||TAH #169]], [[works/taiwaneseamericanhistory-org/whos-who-609-catherine-yang||TAH #609]]); both are bibliographic records.
+
+Note: the TAH employment table lists her secondary school as National Tainan Girl's Senior High School, while the 2023 TAHS profile text says Taiwan Nanmen High School — the discrepancy is left unresolved. Her later institutional roles (台灣公論報 president from 1996, 南加州人權會 president, 台美基金會 annual journal editor — see [[organizations/taiwanese-american-foundation||台美基金會]]) come from the same TAH table.
 
 ## Legacy
 

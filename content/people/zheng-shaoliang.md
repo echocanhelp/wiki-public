@@ -8,7 +8,7 @@ tags:
   - pharmacist
   - radio-host
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Zheng Shaoliang (鄭紹良)
 
@@ -35,6 +35,12 @@ Zheng hosted a two-hour radio program where he discussed life philosophy with hi
 ## Philosophy on Disability
 
 Despite his physical challenges, Zheng approached life with optimism. He reflected: "Fortunately, because of my physical condition, most of the time is spent on things I love — literature, music. Otherwise, with my lively personality and decent looks, I probably wouldn't be able to live a steady life."
+
+## Taiwan Independence Movement Record
+
+TAH story-corpus memoirs in the vault describe a **鄭紹良** as a leader of the overseas Taiwan independence movement: in 1971, when Tsai Thomas (蔡同榮) resigned as chair, the third general assembly elected 鄭紹良 as chairman of the U.S. headquarters of the World United Formosans for Independence (WUFI), with 陳希寬 and 洪哲勝 as vice-chairmen ([[works/taiwaneseamericanhistory-org/ourjourneys33||Our Journeys 33]]). The same memoir lineage lists him on the organization's central committee ([[works/taiwaneseamericanhistory-org/ourjourneys81||Our Journeys 81]]), and another memoir recalls him as the host of a 1,200-person Taiwanese People's Conference at the New York Hilton in 1972 ([[works/taiwaneseamericanhistory-org/ourjourneys70||Our Journeys 70]]). Dr. Lin Heng-che (林衡哲) wrote a biographical memoir, 「學養深厚的台獨運動人格者—鄭紹良博士」 (2019/08), held at [[works/taiwaneseamericanhistory-org/my-stories-692||My Stories 692]].
+
+**Conflation flag:** the WUFI chairman and the engineer employment table above (Boeing / Rockwell / McDonnell Douglas) are consistent with a single engineering figure, while the 2023 TAHS profile describes a San Francisco pharmacist and radio host. Whether these are one person with multiple careers or two namesakes is unresolved in the vault; no biography has been invented here.
 
 ## Source Notes and Confidence
 

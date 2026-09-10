@@ -4,7 +4,7 @@ type: person
 tags:
   - 
 verification_status: pending
-last_reviewed: 2026-09-08
+last_reviewed: 2026-09-10
 ---
 # Chen Meihui (陳美蕙)
 
@@ -18,6 +18,12 @@ The official [[organizations/irvine-taiwanese-presbyterian-church||Irvine Taiwan
 ## Wider Source Signals
 
 [[organizations/good-shepherd-taiwanese-presbyterian-church||GSTPC]] bulletin ingestion also captured 陳美蕙牧師 / Pastor Chen as a sermon speaker in a 2020 Taiwanese Presbyterian bulletin context. This supports her presence in regional Taiwanese Presbyterian church-source material, though it should not be treated as a full biography.
+
+## Additional Vault Mentions
+
+- **May 2022 ITPC shooting:** the TAH/LTC report ([[works/taiwaneseamericanhistory-org/our-journeys-380||TAH #380, 2022/05]]) records that on the day of the shooting Chen was recovering from surgery — Rev. 李輔仁 had been covering her Sunday service duties at a neighboring church, which is why he and visiting former pastor 張宣信 were the clergy on site. This places her as the serving ITPC pastor as of May 2022.
+- **NTPC:** 陳美蕙 was a panelist at the [[organizations/national-taiwanese-presbyterian-council||NTPC]] 51st Annual Conference (May 2025, Houston), per the 台灣教會公報 2025-05-09 note on that page.
+- **GSTPC:** the GSTPC speaker roster (2009–2026) lists Rev. 陳美蕙 among notable preachers, consistent with the bulletin-ingestion signal above.
 
 ## Current-Leadership Note
 
