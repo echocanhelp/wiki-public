@@ -39,6 +39,12 @@ Julia Tai, Doctor of Musical Arts in Orchestral Conducting / Master of Music in 
 
 _No filled family fields on the TAH profile._
 
+## Career Notes
+- 4 歲學小提琴、8 歲學鋼琴；曾在澳、奧、比、法、德、西、美、日、台多地巡演
+- 1998 年赴美；獲南加大 Thornton 音樂學院聲樂藝術學士與合唱指揮碩士，獲「Outstanding Graduate of 2004」系獎
+- 華盛頓大學管絃樂指揮音樂藝術博士（DMA），師承 Peter Eros 學指揮、Ronald Patterson 學小提琴
+- 現任西北愛樂（Philharmonia Northwest）、Magnolia Chorale、Magnolia UCC 音樂總監，及西雅圖現代樂團共同藝術總監；曾任 Westside Symphonette 指揮、Rainier Symphony 副指揮 — see [[works/taiwaneseamericanhistory-org/239-julia-tai-e6-88-b4-e5-ae-87-e9-9f-b3-conductor-201507|TAH #239]]
+
 ## Sources
 - [TAH #239 encyclopedia: 239. Julia Tai戴宇音, Conductor / 2015/07](https://taiwaneseamericanhistory.org/239-julia-tai%e6%88%b4%e5%ae%87%e9%9f%b3-conductor-201507/)
 - [TAH #494 encyclopedia: 494. Julia Tai 戴宇音 / 2015/07](https://taiwaneseamericanhistory.org/494-julia-tai-%e6%88%b4%e5%ae%87%e9%9f%b3-201507/)

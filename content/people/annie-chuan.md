@@ -37,6 +37,12 @@ Annie Chuan, cellist, has received her Doctor of Musical Arts degree from the Un
 
 _No filled family fields on the TAH profile._
 
+## Career Notes
+- 2008 年獲馬里蘭大學學院市分校音樂藝術博士（DMA）
+- 早期獲全台灣大學院校大提琴與弦樂四重奏比賽首獎；2001 年入選國際音樂青年世界樂團（JMWO）歐洲巡演
+- 曾隨 Formosa Youth Symphony Orchestra 在紐約 Lincoln Center 演出；受邀與 Maryland Symphony、Concert Artists of Baltimore、Alexandria 與 Fairfax Symphony 等樂團合作
+- 教學：Montgomery College 管弦樂團、District Metropolitan Youth Orchestra 大提琴教師；現為 Kentlands Music Studio 共同創辦人暨大提琴首席教師、MTNA 會員 — see [[works/taiwaneseamericanhistory-org/521-annie-chuan-e6-ac-8a-e9-9b-8b-e6-96-87-201507|TAH #521]]
+
 ## Sources
 - [TAH #521 encyclopedia: 521. Annie Chuan 權雋文  / 2015/07](https://taiwaneseamericanhistory.org/521-annie-chuan-%e6%ac%8a%e9%9b%8b%e6%96%87-201507/)
 - [TAH #15 encyclopedia: 15. Annie Chuan 權雋文, Cellist/2014/10](https://taiwaneseamericanhistory.org/15-annie-chuan-%e6%ac%8a%e9%9b%8b%e6%96%87-cello/)

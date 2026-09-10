@@ -37,6 +37,12 @@ Prof. Trong-Rong Tsai 蔡同榮教授 – History of Taiwanese American (T.A. Ar
 - **Daughter:** 蔡令怡, 蔡怡君
 
 
+## Career Notes
+- 世界台灣獨立建國聯盟（WUFI）首任總裁（1970–1971）— see [[works/taiwaneseamericanhistory-org/205-e8-94-a1-e5-90-8c-e6-a6-ae-e5-8d-9a-e5-a3-ab-the-first-president-of-world-un|TAH #205]]
+- 台灣公共事務協會（FAPA）創會理事長 — see [[works/taiwaneseamericanhistory-org/6-prof-tron-rong-tsai-e8-94-a1-e5-90-8c-e6-a6-ae-e6-95-99-e6-8e-88-the-first-pre|TAH #6]]
+- 民間全民電視公司（民視）創辦人；撰文〈民視與我〉（2003/08）— see [[works/taiwaneseamericanhistory-org/623-e6-b0-91-e8-a6-96-e8-88-87-e6-88-91-e8-94-a1-e5-90-8c-e6-a6-ae200308politics|TAH #623]]
+- 立法委員（1993–2012）；曾任職 St. Francis College（1969–1978）與 NYC 市立學院政治系終身教授（1978–1993）
+
 ## Sources
 - [TAH #173 encyclopedia: 173. Prof. Tron-Rong Tsai 蔡同榮教授](https://taiwaneseamericanhistory.org/173-prof-tron-rong-tsai/)
 - [TAH #18 encyclopedia: 18. Prof. Tron-Rong Tsai 蔡同榮教授](https://taiwaneseamericanhistory.org/18-prof-tron-rong-tsai/)
