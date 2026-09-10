@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Tsu-Yi Jay Loo (盧主義)
 
@@ -37,6 +37,15 @@ Accomplishment
 
 - **Wife:** [[people/helen-loo||Helen Loo]]
 
+## Diaspora & Movement
+
+Facts absorbed from the TAH encyclopedia entries already cited on this page:
+
+- One of the co-founders of Formosans' Free Formosa (3F, 台灣人的自由台灣); founding record at [[works/taiwaneseamericanhistory-org/111956-3f-formosans-free-formosa-was-established-in-philadelphia||3F established in Philadelphia (1956)]].
+- First president of United Formosans for Independence (UFI, 1958) — see [[organizations/united-formosans-for-independenceufi||UFI]], the [[works/taiwaneseamericanhistory-org/history-of-united-formosans-in-american-for-independence||history of UFI]], and UFI's publication [[works/taiwaneseamericanhistory-org/ilha-fofmosa-by-united-formosans-for-independence||Ilha Formosa]].
+- Wrote 《中國死巷—台灣人的觀點》 (The China Impasse — A Formosan View) under the pen name 李天福, recorded in TAH #208 ([[works/taiwaneseamericanhistory-org/ff208|TAH Encyclopedia #208]]) as the first Taiwan-independence article published in *Foreign Affairs* (1958/04).
+- Coordinator of TAC/EC (美東台灣人夏令會), the East Coast summer conference line of the [[organizations/taiwanese-american-council||Taiwanese American Council]].
+- Profession: actuary — member of the American Academy of Actuaries (1969-), owner of JL Actuarial Consulting Co.
 
 ## Sources
 - [TAH #28 encyclopedia: 28. Tsu-Yi Jay Loo (盧主義)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-28/)
@@ -49,3 +58,4 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/166-tsu-yi-jay-loo||TAH Encyclopedia #166: Tsu-Yi Jay Loo 盧主義]]

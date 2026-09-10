@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Anita Chia-Jung Lin (林佳蓉)
 
@@ -34,6 +34,15 @@ Born in Tainan, Taiwan, Anita Lin began to learn violin at the age of seven. In 
 
 _No filled family fields on the TAH profile._
 
+## Notes & Community Context
+
+Facts already present in the TAH profile text cited on this page: began violin at age seven in Tainan; B.M. Music, 台南藝術大學 (2006); M.M. violin performance, Southern Illinois University Edwardsville (2010); violin teacher at 聖路易音樂學校 (St. Louis School of Music) with an emphasis on the Suzuki method; two years of theater experience in Taipei; SIUE opera/musical roles — Lucy in The Telephone (2009), Casilda in The Gondoliers (2010), Mrs. Mayor in The Seussical (2010); 2008 NATS musical-theater first prize, 2009 SIUE Aria/Concerto Competition winner, 2010 NATS vocal second prize.
+
+She lives and teaches in the greater-St. Louis Taiwanese American community, where these organizations have pages:
+
+- [[organizations/taiwanese-association-of-america-in-greater-st-louis||TAA Greater St. Louis]]
+- [[organizations/taiwanese-scholar-association-in-st-louis-tsa-stl||TSA St. Louis]]
+
 ## Sources
 - [TAH #277 encyclopedia: 277. Anita Chia- Jung Lin 林佳蓉, Violinist / 2015/08](https://taiwaneseamericanhistory.org/277-anita-chia-jung-lin-%e6%9e%97%e4%bd%b3%e8%93%89-violinist-201508/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/anita-chia-jung-lin/)
@@ -41,3 +50,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/277-anita-chia-jung-lin-e6-9e-97-e4-bd-b3-e8-93-89-violinist-201508||TAH Encyclopedia #277: 林佳蓉, Violinist (2015/08)]]
+- [[works/taiwaneseamericanhistory-org/550-anita-chia-jung-lin-e6-9e-97-e4-bd-b3-e8-93-89-201508||TAH Encyclopedia #550: 林佳蓉 (2015/08)]]

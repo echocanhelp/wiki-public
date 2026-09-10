@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Dr. Mei-Ann Chen (陳美安博士)
 
@@ -39,6 +39,16 @@ _No filled family fields on the TAH profile._
 - [TAH #651 encyclopedia: 651. Dr. Mei-Ann Chen 陳美安博士](https://taiwaneseamericanhistory.org/whos-who-651-mei-ann-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-mei-ann-chen/)
 
+## Archival Records in the TAH Corpus
+Four entries for Mei-Ann Chen are held in the vault's TAH story corpus:
+- [[works/taiwaneseamericanhistory-org/48-dr-mei-ann-chen||TAH #48 — Dr. Mei-Ann Chen 陳美安博士]] — published 2018-08-24
+- [[works/taiwaneseamericanhistory-org/whos-who-651-mei-ann-chen||TAH #651 — Dr. Mei-Ann Chen 陳美安博士]] — published 2015-10-03
+- [[works/taiwaneseamericanhistory-org/300-mei-ann-chen-e9-99-b3-e7-be-8e-e5-ae-89-conductor-201510||TAH #300 — Mei-Ann Chen 陳美安, Conductor]] — published 2015-10-03
+- [[works/taiwaneseamericanhistory-org/manhattan-school-of-music-appoints-acclaimed-conductor-mei-ann-chen-as-incoming-||Manhattan School of Music appoints Mei-Ann Chen]] — appointment notice
+
+All are band-B bibliographic records; full text stays in the source archive.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[sources/taiwaneseamericanhistory-org-story-corpus||TAH Story Corpus (source hub)]]

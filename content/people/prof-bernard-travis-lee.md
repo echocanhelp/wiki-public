@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Prof. Bernard Travis Lee (李伯寧教授)
 
@@ -37,6 +37,13 @@ Prof. Bernard Travis Lee 李伯寧教授 – History of Taiwanese American (T.A.
 - **Father:** 李清澤
 - **Mother:** 李林榮峰
 
+
+## Archival & Editorial Career
+- Chief, Division of Plastic and Reconstructive Surgery, Beth Israel Deaconess Medical Center / [[organizations/harvard-taiwanese-cultural-society||Harvard]] Medical School (2014–).
+- Harvard Alumni Association — Appointed Graduate School Director, Board of Directors (2017–2020).
+- Harvard T.H. Chan School of Public Health Alumni Association — Deputy Chair, Awards Committee.
+- Chair, Plastic Surgery Executive Committee, Harvard Plastic Surgery Residency Training Program.
+- Editor-in-Chief, *Journal of Reconstructive Microsurgery* (2013–); Editorial Board, *Archives of Plastic Surgery* (2017–).
 
 ## Sources
 - [TAH #33 encyclopedia: 33. Prof. Bernard Travis Lee 李伯寧教授 by Artist 林榮峰 Emily Lee/09/2020](https://taiwaneseamericanhistory.org/footsteps-33/)

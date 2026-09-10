@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Chih-Chen Wei (魏志真)
 
@@ -34,6 +34,12 @@ Chih-Chen Wei is an active composer. Her recent compositions has been played by 
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Compositions & Recordings
+- Performed by the Taipei Philharmonic Youth Orchestra, the Dharma Drum Mountain choir, and members of the Los Angeles Percussion Quartet (Nick Terry); collaborators include soprano Stacey Fraser, tenor Andrew Crane, violist Hsiaopei Lee, flutist [[people/chia-ling-chien||Glendy Chien 簡嘉琳]], and pianists Slawomir P. Dobrzanski, Chialin Hsieh, Charleen Liu, Kelly Anderson, and Jocelyn Hua-Chen Chang.
+- "Between Stream and Hills V – Odyssey" is collected on the album *Viola Works By American Female Composers*, recorded by violist Prof. Hsiaopei Lee and pianist Dr. Chialing Hsieh and released by Centaur in 2014.
+- Resident composer: Los Angeles Chamber Singers (2002), 4th Annual Thailand International Composition Festival (2008), National Taiwan Symphony Orchestra (2010).
+- Music education: NTNU (B.S.), [[organizations/taiwanese-student-association-at-ucla||UCLA]] (M.S.), USC (Ph.D., Music Art).
 
 ## Sources
 - [TAH #402 encyclopedia: 402. Chih-Chen Wei 魏志真 / 2015/05](https://taiwaneseamericanhistory.org/402-chih-chen-wei-%e9%ad%8f%e5%bf%97%e7%9c%9f-201505/)

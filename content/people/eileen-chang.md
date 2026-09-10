@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Eileen Chang (楊宜宜)
 
@@ -34,6 +34,14 @@ last_reviewed: 2026-08-17
 - **Husband:** Morgan Chang(張富雄)
 - **Daughter:** Yin Yin
 
+## Ministry & Diaspora Notes
+
+Facts absorbed from the TAH encyclopedia entries already cited on this page:
+
+- First president of Taiwan Mission (台灣宣教基金會), which she founded (TAH #213).
+- Co-founder of Voice of Taiwan (台灣之音); the couple's involvement with 台灣之音 is recorded for 1977-1982 in TAH #144.
+- Editor-in-chief of Oversea Taiwanese Christian Newsletter (海外台灣基督徒聯合通訊), recorded in TAH #143 as the first global newsletter of overseas Taiwanese Christians, covering 1973-1996.
+- Educated at National Taiwan University (B.S., Foreign Languages) and Bethel Theological Seminary (Ph.D., Educational Pastor / 教牧).
 
 ## Sources
 - [TAH #2202 encyclopedia: 2202. Eileen Chang 楊宜宜](https://taiwaneseamericanhistory.org/whos-who-2202-eileen-chang/)
@@ -46,3 +54,4 @@ last_reviewed: 2026-08-17
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/213-mrs-yi-yi-yang-e6-a5-8a-e5-ae-9c-e5-ae-9c-the-first-president-of-taiwan-miss||TAH Encyclopedia #213: Mrs. Yi Yi Yang 楊宜宜 — first president of Taiwan Mission]]

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Eiji Urata (謝榮慶)
 
@@ -34,6 +34,15 @@ last_reviewed: 2026-08-17
 
 _No filled family fields on the TAH profile._
 
+## Diaspora & Career Notes
+
+Facts absorbed from the TAH profile text already cited on this page:
+
+- Born 1944 in Tainan; B.S. 美術, 文化大學; works awarded at 華崗美展, 台北市美展, and 全國美展, collected by 台灣國立藝術館.
+- Early career in design at 台灣廣告股份有限公司; the 電通-advertised Japanese art designer 織田博哉 (sent to Taiwan for technical guidance) and professor 蘇茂生 encouraged his study in Tokyo.
+- Studied at 國立東京教育大學 and 多摩美術大學 (M.S. Graphic Design); while studying worked part-time at 報宣廣告株式會社, gaining practice he could apply directly.
+- At 多摩美術大學 he was influenced by senior student 三宅一生 to move into fashion, joining 大同經編株式會社, where he handled designs for the MUNSING WEAR〈企鵝牌〉, RAIKA, and PLAYBOY labels — one of the very few Chinese fashion designers in Japan at the time.
+
 ## Sources
 - [TAH #1001 encyclopedia: 1001.  Eiji Urata 謝榮慶 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1001/)
 - [TAH #54 encyclopedia: 54. 謝榮慶 Eiji Urata /2015/09](https://taiwaneseamericanhistory.org/54-%e8%ac%9d%e6%a6%ae%e6%85%b6-eiji-urata/)
@@ -42,3 +51,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/54-e8-ac-9d-e6-a6-ae-e6-85-b6-eiji-urata||TAH Encyclopedia #54: 謝榮慶 Eiji Urata (2015/09)]]
