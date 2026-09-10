@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Dr. Bob Cheng (鄭寶鼎博士)
 
@@ -30,6 +30,12 @@ Dr. Bob Cheng (鄭寶鼎博士) was a Taiwanese American chemist, entrepreneur, 
 - Colgate Palmolive — Researcher — (1969-1980) — FEMA Electronics — CEO — (1980-2020) — Community — Taiwanese American Archives / TaiwaneseAmericanHistory.org — Founder — TAA-NJ (台灣同鄉會紐澤西分會) — Co-founder and supporter — Taiwanese American Conference (台美族群研討會) — Founder and sponsor — Windsor Area Taiwanese American Association (溫莎區台美協會) — Founder and supporter
 <!-- tah-tables:end -->
 
+## Career & Community
+- **Science & business** — Researcher, Colgate-Palmolive (1969–1980); founder and CEO, FEMA Electronics (1980–2020), the electronics company whose success funded his later philanthropy
+- **Education** — National Taiwan University B.S. Chemical Engineering (1959–1963); Syracuse University M.S. & Ph.D. Chemical Engineering (1965–1969)
+- **Community legacy** — Founder, Taiwanese American Archives / TaiwaneseAmericanHistory.org (T.A.H. Archives Center, Irvine, CA); co-founder and supporter, [[organizations/taiwanese-association-of-america-new-jersey|TAA-NJ 台灣同鄉會紐澤西分會]]; founder and sponsor, Taiwanese American Conference 台美族群研討會; founder and supporter, Windsor Area Taiwanese American Association 溫莎區台美協會
+- **Memorial** — Died 2020; commemorated in TAH encyclopedia #749 (追思, by 黃啟仁, 2020/09) and #300 (1940–2020); portraits by artists [[people/hsiu-fang-susan-liu|Hsiu-Fang Susan Liu 陳秀芳]] (#35) and [[people/dr-chao-min-liu|Dr. Chao-Min Liu 劉兆民]] (#34)
+
 ## Family
 
 - **Wife:** Jean
@@ -46,4 +52,7 @@ Dr. Bob Cheng (鄭寶鼎博士) was a Taiwanese American chemist, entrepreneur, 
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
+- [[organizations/taiwanese-association-of-america-new-jersey||TAA-NJ 台灣同鄉會紐澤西分會]]
+- [[people/hsiu-fang-susan-liu||陳秀芳 Hsiu-Fang Susan Liu（畫像 #35）]]
+- [[people/dr-chao-min-liu||劉兆民 Dr. Chao-Min Liu（畫像 #34）]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Che-Yen Chen (陳則言)
 
@@ -19,7 +19,7 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, artist, educator
 - **Source:** TAH Foundation Who’s Who
 
-Taiwanese-American violist Che-Yen Chen, Professor of Viola at the USC Thornton School of Music, has established himself as an active performer and educator. He is a founding member of the Formosa Quartet, recipient of the First-Prize and the Amadeus Prize winner of the 10th London International String Quartet Competition. Since winning the First-Prize in the 2003 William Primrose International Viola Competition and the “President Prize” of the Lionel Tertis International Viola Competition, Chen has been described by the Strad Magazine as a musician whose “tonal distinction and essential musicality produced an auspicious impression” and by San Diego Union Tribune as an artist whose “most impressive aspect of his playing was his ability to find not just the subtle emotion, but the humanity hidden in the music.” Principal violist of the San Diego Symphony and Mainly Mozart Festival Orchestra, Chen has appeared as guest principal violist with Los Angeles Philharmonic, San Francisco Symphony, Cincinnati Symphony Orchestra and Canada’s National Arts Centre Orchestra. A former member of Lincoln Center Chamber Music Society Two and participant of the Marlboro Music Festival, he is a membe
+Taiwanese-American violist Che-Yen Chen, Professor of Viola at the USC Thornton School of Music, has established himself as an active performer and educator. He is a founding member of the Formosa Quartet, recipient of the First-Prize and the Amadeus Prize winner of the 10th London International String Quartet Competition. Since winning the First-Prize in the 2003 William Primrose International Viola Competition and the “President Prize” of the Lionel Tertis International Viola Competition, Chen has been described by the Strad Magazine as a musician whose “tonal distinction and essential musicality produced an auspicious impression” and by San Diego Union Tribune as an artist whose “most impressive aspect of his playing was his ability to find not just the subtle emotion, but the humanity hidden in the music.” Principal violist of the San Diego Symphony and Mainly Mozart Festival Orchestra, Chen has appeared as guest principal violist with Los Angeles Philharmonic, San Francisco Symphony, Cincinnati Symphony Orchestra and Canada’s National Arts Centre Orchestra. A former member of Lincoln Center Chamber Music Society Two and participant of the Marlboro Music Festival.
 
 <!-- tah-tables:start -->
 ## Education
@@ -33,6 +33,13 @@ Taiwanese-American violist Che-Yen Chen, Professor of Viola at the USC Thornton 
 - 南加州大學 — Present — Teaching
 <!-- tah-tables:end -->
 
+## Career & Community
+- **Performing** — Professor of Viola, USC Thornton School of Music; principal violist, San Diego Symphony 聖地牙哥交響樂團 and Mainly Mozart Festival Orchestra; guest principal violist with the Los Angeles Philharmonic, San Francisco Symphony, Cincinnati Symphony Orchestra, and Canada's National Arts Centre Orchestra
+- **Chamber music** — Founding member of the Formosa Quartet (First-Prize and Amadeus Prize, 10th London International String Quartet Competition); former member, Lincoln Center Chamber Music Society Two; Marlboro Music Festival participant; fellow Formosa Quartet members on Echopedia: [[people/wayne-lee|Wayne Lee 李家瑋]] and [[people/powen-wang|Powen Wang 王博文]]
+- **Competition prizes** — First-Prize, 2003 William Primrose International Viola Competition; "President Prize", Lionel Tertis International Viola Competition
+- **Teaching** — USC 南加州大學 and Cal State Fullerton 加州州立大學富爾頓分校 (present)
+- **Education** — Curtis Institute of Music (B.S. Viola), Juilliard School (M.S. Music), 耶魯大學 Yale (Ph.D. Music; see [[organizations/taiwanese-american-society-at-yale|Yale Taiwanese American Society]])
+
 ## Family
 
 _No filled family fields on the TAH profile._
@@ -44,4 +51,6 @@ _No filled family fields on the TAH profile._
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
+- [[people/wayne-lee||Wayne Lee 李家瑋（Formosa Quartet）]]
+- [[people/powen-wang||Powen Wang 王博文（Formosa Quartet）]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

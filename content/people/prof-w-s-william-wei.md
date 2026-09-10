@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Prof. W.S. William Wei (魏武雄教授)
 
@@ -31,6 +31,12 @@ Prof. W.S. (William) Wei 魏武雄教授 – History of Taiwanese American (T.A.
 - Temple University — Chair of Statistics Department — (1982-1987) — Temple University — Professor of Statistics — (1974-) — Temple University — Director of Statistics Graduate Programs — (2015-2016) — Nankai University (南開大學) — Visiting Professor — (1988-1989) — National Chiao Tung University — Visiting Professor — (2010-2011) — National Taiwan University — Visiting Professor — (2010-2011) — Community — Upper Dublin School District Education Advisory Committee — Member (1993, 1994) — Taiwanese Hakka Association of Greater Philadelphia — Founding President (1999) — Taiwanese Association of America - Greater Philadelphia Chapter (TAAGP) — President (2001) — Pennsylvania Branch of Taiwanese Association for Public Affairs — President (2002, 2003) — TAAGP High School Scholarship Committee — Chair (2003, 2004) — Taiwanese Hakka Association - East Coast — President (2004, 2005) — Taiwanese Hakka Association for Public Affairs in North America — President (2005, 2006) — North America Taiwanese Professors' Association — Board Member (2006, 2007) — Taiwanese Hakka Associations of America — President (2014, 2015)
 <!-- tah-tables:end -->
 
+## Career & Community
+- **Academia** — Temple University: Professor of Statistics (1974–), Chair of Statistics Department (1982–1987), Director of Statistics Graduate Programs (2015–2016); visiting professor at Nankai University 南開大學 (1988–1989), National Chiao Tung University (2010–2011), and National Taiwan University (2010–2011)
+- **Education** — NTU B.A. Economics (1966); Univ. of Oregon B.A. Mathematics (1969); Univ. of Wisconsin M.S. Statistics (1972), Ph.D. Statistics (1974)
+- **Civic leadership** — Founding president, Taiwanese Hakka Association of Greater Philadelphia (1999); president, [[organizations/taiwanese-association-of-america-greater-philadelphia|TAAGP 大費城台美協會]] (2001); president, Pennsylvania Branch of Taiwanese Association for Public Affairs (2002–2003); chair, TAAGP High School Scholarship Committee (2003–2004); president, Taiwanese Hakka Association – East Coast (2004–2005); president, [[organizations/taiwan-hakka-association-for-public-affairs-in-north-america|Taiwan Hakka Association for Public Affairs in North America]] (2005–2006); board member, North America Taiwanese Professors' Association (2006–2007); president, Taiwanese Hakka Associations of America (2014–2015)
+- **Local education** — Member, Upper Dublin School District Education Advisory Committee (1993, 1994)
+
 ## Family
 
 - **Wife:** Susanna Wei
@@ -45,4 +51,6 @@ Prof. W.S. (William) Wei 魏武雄教授 – History of Taiwanese American (T.A.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
+- [[organizations/taiwanese-association-of-america-greater-philadelphia||TAAGP 大費城台美協會]]
+- [[organizations/taiwan-hakka-association-for-public-affairs-in-north-america||北美台灣客家公共事務協會]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
