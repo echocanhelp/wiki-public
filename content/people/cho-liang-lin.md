@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Cho-Liang Lin (林昭亮)
 
@@ -29,6 +29,13 @@ Violinist Cho-Liang Lin is lauded the world over for the eloquence of his playin
 - The Juilliard School — Instructor — (1991-) — Rice University Shepherd School of Music — Instructor — La Jolla Music Society SummerFest — (2001-) — La Jolla Music Society's SummerFest — Music Director — (2001-) — Hong Kong International Chamber Music Festival — Artistic Director — National Taiwan Symphony Orchestra's Youth Music Summer Camp — Artistic Director — Community — Chamber Music Society of Lincoln Center — Performer — Aspen Music Festival — Performer — Santa Fe Chamber Music Festival — Performer — Beijing Music Festival — Performer
 <!-- tah-tables:end -->
 
+## Notable Performances
+
+Absorbed from vault-internal works (no web):
+
+- **1992-11-13** — World premiere of [[people/tyzen-hsiao||Tyzen Hsiao (蕭泰然)]]'s Violin Concerto in D at the San Diego symphony hall; Lin wrote afterward that the concert "was the realization of a personal dream" (per [[works/taiwaneseamericanhistory-org/ourjourneys269]]).
+- **2001-02-10** — Performed the same concerto with the Akron Symphony Orchestra (conductor Ya-Hui Wang 王雅蕙) at E. J. Thomas Performing Arts Hall, Akron, Ohio, before 400+ Taiwanese audience members — described by 林衡哲 as the first overseas concert where conductor, soloist, and composer were all Taiwanese. See [[works/taiwaneseamericanhistory-org/concert-by-akron-symphony-orchestra-and-violent-cho-liang-lin-akron-oh-on-021120]] and [[works/taiwaneseamericanhistory-org/ourjourneys269]].
+
 ## Family
 
 - **Wife:** 何瑞燕
@@ -48,3 +55,5 @@ Violinist Cho-Liang Lin is lauded the world over for the eloquence of his playin
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[people/tyzen-hsiao||Tyzen Hsiao (蕭泰然)]]
+- [[works/taiwaneseamericanhistory-org/ourjourneys269||Our Journeys 269 — Akron 音樂會見證]]

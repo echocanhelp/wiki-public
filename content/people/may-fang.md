@@ -30,6 +30,10 @@ May Fang earned a master of music in piano performance and a master of music in 
 - San Francisco Conservatory of Music — Piano Accompanist — (-2005) — Skyline College Concert Choir — Piano Accompanist — (-2005) — Taiwanese American Center of Northern California — Piano Instructor — (-2005) — Occidental College — Piano Accompanist — (2005-) — Half Step Choir — Piano Accompanist — (2005-) — Taiwanese Presbyterian Conference Master Chorale — Piano Accompanist — (2005-) — Formosan Presbyterian Church, Los Angeles — Piano Accompanist — (2005-) — Community — Taiwanese Student Association (San Francisco Bay Area) — President — Taiwanese American Center of Northern California — Piano Instructor
 <!-- tah-tables:end -->
 
+## Career Notes
+
+From the TAH Who's Who profile above (vault-internal, no new facts added): May Fang's Bay Area career centered on the [[organizations/taiwanese-american-center-of-northern-california||Taiwanese American Center of Northern California]] (piano instructor) and the Taiwanese Student Association of the San Francisco Bay Area (president); after her 2005 move to Los Angeles she continued keyboard-collaborative-arts study at USC on merit scholarship and accompanied at [[organizations/formosan-presbyterian-church-in-los-angeles||Formosan Presbyterian Church in Los Angeles]], Occidental College, Half Step Choir, and the Taiwanese Presbyterian Conference Master Chorale.
+
 ## Family
 
 _No filled family fields on the TAH profile._
@@ -45,3 +49,4 @@ _No filled family fields on the TAH profile._
 
 ## Network
 - [[organizations/formosan-presbyterian-church-in-los-angeles||FPCLA]] — TAH Who’s Who
+- [[organizations/taiwanese-american-center-of-northern-california||TACNC]] — Piano instructor, pre-2005 (TAH Who’s Who)

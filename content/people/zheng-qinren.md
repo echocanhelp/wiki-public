@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-30
+last_reviewed: 2026-09-10
 ---
 
 # Cheng Chin-jen / 鄭欽仁
@@ -17,6 +17,13 @@ Mentioned as a contributor or subject in 2017/2023 [taiwanjustice.net](/organiza
 
 Related: [Taiwanese American Historical Society](/organizations/taiwanese-american-historical-society)
 
+## Career & Community Roles
+
+Facts absorbed from vault-internal sources only (no web):
+
+- **台灣教授協會前會長** — listed as a former president of the Taiwan Professor Association among the guests of the 國史館 symposium on 廖文毅 (2023-03-18), per the 陳儀深 article cited below.
+- **現代學術研究基金會會長** — in December 1989, during his term as NATPA president, the association's organizer visited him in this role to negotiate co-hosting academic sessions for NATPA's tenth annual conference — the first held back in Taiwan (March 1990, 馬偕紀念醫院 conference center) — and discussions continued when 賴義雄 returned to Taiwan that month. See [[works/taiwaneseamericanhistory-org/ourjourneys47]].
+- **Opinion writer** — contributed the column 島嶼戰略與台．日同盟 (published via 民報, re-listed by Taiwan Justice on 2017-11-08; see the body mentions below).
 
 ## Works
 
@@ -37,6 +44,10 @@ Chronological events for **鄭欽仁**:
 ### 2023 (1 events)
 
 - **2023-03-18** 🏛️ 陳儀深：台獨非異端，是歷史長河所提前途選項
+
+### 1990 (1 events)
+
+- **1990-03** 🏛️ NATPA 十週年年會首度回台召開；鄭欽仁（現代學術研究基金會會長）參與協商學術研討會合辦（from [[works/taiwaneseamericanhistory-org/ourjourneys47]]）
 
 ### 2017 (2 events)
 
@@ -63,3 +74,4 @@ Notable quotes and mentions of **鄭欽仁** in Taiwan Justice articles:
 ## Related Pages
 
 - [[people/albert-s-lai||Dr. Albert S. Lai]]
+- [[works/taiwaneseamericanhistory-org/ourjourneys47||47. 北美洲台灣人教授協會首度回台召開年會]]
