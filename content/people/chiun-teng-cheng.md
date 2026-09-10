@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Chiun-Teng Cheng (鄭俊騰)
 
@@ -53,6 +53,11 @@ _No filled family fields on the TAH profile._
 - [TAH #130 encyclopedia: 130. Chiun-Teng Cheng 鄭俊騰, Violinist / 2015/02](https://taiwaneseamericanhistory.org/130-chiun-teng-cheng-%e9%84%ad%e4%bf%8a%e9%a8%b0-violinist-201502/)
 - [TAH #243 encyclopedia: 243. Chiun-Teng Cheng 鄭俊騰 /2015/02](https://taiwaneseamericanhistory.org/243/)
 - [TAH Who's Who](https://taiwaneseamericanhistory.org/person/chiun-teng-cheng/)
+
+## Connected in the Vault
+- Based in Cincinnati since winning his orchestra position in 1993; the local TA community is documented at [[organizations/taiwanese-association-of-cincinnati||Taiwanese Association of Cincinnati]].
+- Alumni-network link for his B.A. (國立師範大學 音樂系): [[organizations/joint-alumni-association-of-taiwan-teachers-college-and-normal-univers||Joint Alumni Association of Taiwan Teachers College and Normal University (JTTAA)]].
+- His Who's Who profile is archived in-vault as [[works/taiwaneseamericanhistory-org/130-chiun-teng-cheng-e9-84-ad-e4-bf-8a-e9-a8-b0-violinist-201502|TAH #130]].
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

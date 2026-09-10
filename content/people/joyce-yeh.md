@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Joyce Yeh (葉怡蘭)
 
@@ -24,6 +24,9 @@ last_reviewed: 2026-09-09
 
 - **2025 — 228追思紀念活動**: 葉怡蘭 appears in the attendance list for the 228 memorial held by [[organizations/taiwan-center||大洛杉磯台灣會館]] together with 24 台美社團 (coverage also names TAHS founding president [[people/yang-jia-you||楊嘉猷]]): [[articles/taiwanjustice-net/2025/20250320212940_大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念_c62f5c50846fe267||taiwanjustice.net report, 2025-03-20]]
 - **2024 — Taiwan Center 第26周年年會晚宴暨募款活動**: listed alongside fellow board members [[people/samantha-yu||Samantha Yu (游蕙綾)]], [[people/joe-hu||Joe Hu (胡永全)]], [[people/shirley-yu||Shirley Yu (張欣珠)]], [[people/sharon-huang||Sharon Huang (黃馨瑤)]], [[people/vera-yang||Vera Yang (楊悅英)]] and [[people/james-yang||James Yang (楊榮勝)]]: [[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66||taiwanjustice.net report, 2025-04-20]]
+
+## Connected in the Vault
+- Her 團體董事 role is recorded on the board roster of [[organizations/taiwan-center||Taiwan Center]], alongside the fellow directors linked below. The two activity reports cited above — [[articles/taiwanjustice-net/2025/20250320212940_大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念_c62f5c50846fe267|the 2025-03-20 228 memorial]] (co-held by 24 TA groups, with [[organizations/taiwanese-american-historical-society|TAHS]]) and [[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66|the 2024 anniversary dinner]] — are the vault's evidence for her tenure.
 
 ## Source Notes and Confidence
 
@@ -61,7 +64,6 @@ last_reviewed: 2026-09-09
 - [[people/joseph-teng||Joseph Teng (曾英銘)]]
 - [[people/steven-wu||Steven Wu (吳尚誠)]]
 - [[people/lisa-hou||Lisa Hou (侯乃文)]]
-- [[people/april-lin||April Lin (林淑卿)]]
 - [[people/shi-yuli||Shi Yuli (施郁麗)]]
 - [[people/he-sumei||He Sumei (何素美)]]
 - [[people/wei-boji||Wei Boji (魏博基)]]

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Dr. Tong Y. Chen (陳東榮醫師)
 
@@ -42,6 +42,12 @@ His material culture of the diaspora is itself a historical source: TAH encyclop
 - **Wife:** 李芬芬
 - **Daughter:** 3
 
+
+## Letters and community in the vault
+- His essay 從一首舊詩回首1990年代的台灣 (2021-09-25) is archived in-vault: [[articles/taiwanjustice-net/2021/20211020133044_2021_09_25_從一首舊詩回首1990年代的台灣-_-陳東榮_6149d9f7303e152a||taiwanjustice.net, 2021-10-20]]; further tagged writings at [[articles/taiwanjustice-net/2021/20211207111543_tag_陳東榮_17bb901b1b1edba6||陳東榮 tag archive]] — primary-source evidence of the letters-side career he took up after retiring in 2008.
+- Co-founder of the Taiwanese American Association of Charlotte (1992); chapter activity is recorded at [[works/taiwaneseamericanhistory-org/activities-of-taa-nc||TAA/NC activities]].
+- Career trail absorbed from the TAH Who's Who tables above: Kaohsiung Medical University M.D. 1968 → surgical training Taipei Veterans General Hospital (1969), Lloyd Noland Hospital Alabama (1972), University of Rochester (1973) → Temple University 1974-1978 → Presbyterian Anesthesia Associates and chair of anesthesia, Presbyterian Matthews Hospital, Charlotte 1978-2008.
+- He appears in the in-vault lecture/contributor roster of [[organizations/irvine-taiwanese-presbyterian-church||Irvine Taiwanese Presbyterian Church]] (Dr. 陳東榮, including a talk titled 瀕死經驗); treat as a name match pending confirmation of identity.
 
 ## Sources
 - [TAH #255 encyclopedia: 255. Dr. Tong Y. Chen 陳東榮醫師](https://taiwaneseamericanhistory.org/ota-255/)
