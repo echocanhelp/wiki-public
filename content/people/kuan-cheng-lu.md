@@ -39,6 +39,14 @@ TAH's encyclopedia entries #233 and #483 profile him as the first Taiwanese clas
 
 - **Father:** Chung Chih Lu, violin teacher (per his own TAH profile biography)
 
+## Timeline (from cited TAH profile)
+
+- 2004–05 season — joined the New York Philharmonic as violinist, the first Taiwanese classical musician to earn a seat in the orchestra in its 170-year history
+- Education — B.S. Music, Oberlin College (奧柏林音樂學院大學部); M.S. Music, Manhattan School of Music (哈坦音樂學院); D.M.A., CUNY Graduate Center (per profile biography)
+- Competition awards — top prize, Taiwan National Violin Competition; first prize, ASTA string competition; Raphael Bronstein Award; Chi-Mei Corporation Outstanding Young Artist award
+- Teaching lineage — first teacher his father, violin pedagogue Chung Chih Lu; later studied with Glenn Dicterow, Lisa Kim, Yoko Takebe, Roland and Almita Vamos, Daniel Phillips, Julia Bushkova
+- Ensembles — Music Academy of the West alumnus (now a New York Philharmonic Global Academy partner); concertmaster roles in the Manhattan and Oberlin orchestras per his profile tables
+
 ## Sources
 - [TAH #233 encyclopedia: 233.  Kuan Cheng Lu 盧冠呈,Violinist 2015/07](https://taiwaneseamericanhistory.org/233-kuan-cheng-lu-%e7%9b%a7%e5%86%a0%e5%91%88violinist-201507/)
 - [TAH #483 encyclopedia: 483. Kuan Cheng Lu 盧冠呈 / 2015/07](https://taiwaneseamericanhistory.org/483-kuan-cheng-lu-%e7%9b%a7%e5%86%a0%e5%91%88-201507/)
