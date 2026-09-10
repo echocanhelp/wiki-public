@@ -51,6 +51,11 @@ Prof. Bernard Travis Lee 李伯寧教授 – History of Taiwanese American (T.A.
 - [TAH #592 encyclopedia: 592. Prof. Bernard Travis Lee 李伯寧教授](https://taiwaneseamericanhistory.org/whos-who-592/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-bernard-travis-lee/)
 
+## Connected in the Vault
+
+- His three TAH encyclopedia profiles are held in the vault: [[works/taiwaneseamericanhistory-org/footsteps-33||TAH #33 (by 林榮峰 Emily Lee, 2020-09)]], [[works/taiwaneseamericanhistory-org/ota-285||TAH #285]], and [[works/taiwaneseamericanhistory-org/whos-who-592||TAH #592]].
+- His mother Emily Lin Lee has her own vault record: [[works/taiwaneseamericanhistory-org/whos564-emily-lin-lee||TAH #564 — Emily Lin Lee 林榮峰 (2015-08)]].
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

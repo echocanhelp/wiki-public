@@ -48,6 +48,11 @@ Patsy Fang Chen was born in Taipei, Taiwan, graduated with the highest honor fro
 - Career spans medical-education administration in Chicago, piano instruction, arts management as president of KYVAS Arts Management Inc. (1989–1993), concert promotion/tour production (1986–), and community liaison for the Queens Symphony Orchestra (1993–2003).
 - Artistic Director of the [[organizations/youth-orchestra-cycny||Youth Orchestra, CYCNY]] (1998–present).
 
+## Connected in the Vault (vault-internal)
+- Her personal papers form an archival holding in the TAH corpus: [[works/taiwaneseamericanhistory-org/collection-of-mrs-patsy-chen|TAH #36, Collection of Mrs. Patsy Chen 方秀蓉女士的收藏]] (2017).
+- Daughters are both TAH-archived musicians: [[people/wendy-fang-chen-tilp||Wendy Fang Chen Tilp 陳丹蘋]] (pianist, Juilliard faculty) and [[people/dr-justine-fang-chen||Dr. Justine Fang Chen 陳潔思]] (violinist and composer). Husband: [[people/wen-jer-chen||Wen Jer Chen 陳文哲]].
+- Her own TAH encyclopedia records: [[works/taiwaneseamericanhistory-org/14-patsy-fang-chen|TAH #14]] · [[works/taiwaneseamericanhistory-org/249-patsy-fang-chen-e6-96-b9-e7-a7-80-e8-93-89201502|TAH #249]] · [[works/taiwaneseamericanhistory-org/67-patsy-fang-chen-e6-96-b9-e7-a7-80-e8-93-89|TAH #67, Artistic Director]] · [[works/taiwaneseamericanhistory-org/57-patsy-chen-e6-96-b9-e7-a7-80-e8-93-89|TAH #57]].
+
 ## Sources
 - [TAH #14 encyclopedia: 14. Patsy Fang Chen 方秀蓉](https://taiwaneseamericanhistory.org/14-patsy-fang-chen/)
 - [TAH #249 encyclopedia: 249. Patsy Fang Chen 方秀蓉/2015/02](https://taiwaneseamericanhistory.org/249-patsy-fang-chen-%e6%96%b9%e7%a7%80%e8%93%89201502/)

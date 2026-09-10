@@ -49,5 +49,6 @@ A versatile artist, cellist Carol Ou is known for her “fiery, marvelous” and
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-- [[people/ya-fei-chuang||Ya-Fei Chuang]]
+- [[people/ya-fei-chuang||Ya-Fei Chuang]] — fellow duo partner of her husband James Buswell
 - [[people/carol-ou-lin||Carol Ou Lin (歐春美) — different person]]
+- Archival records in the vault: [[works/taiwaneseamericanhistory-org/12-prof-carol-ou|TAH #12]] · [[works/taiwaneseamericanhistory-org/whos-who-570-carol-ou|TAH #570]] · [[works/taiwaneseamericanhistory-org/musician58-carol-ou|TAH #58, Cellist]]

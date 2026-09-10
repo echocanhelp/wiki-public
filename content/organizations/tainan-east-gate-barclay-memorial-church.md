@@ -46,6 +46,7 @@ A [[organizations/presbyterian-church-in-taiwan||PCT]] congregation in **台南�
 
 ## Vault coverage
 - Source hub: [[sources/eastgatebarclay-org||eastgatebarclay.org]] — full-domain Tier 2 archive (home, 教會歷史, 部會事工, English history) under `knowledge/web-archives/eastgatebarclay-org/`; entity/fact index at `knowledge/research/eastgatebarclay-org-entities.md`; watched live-small via source-continuity registry `id=eastgatebarclay-org`.
+- Successor note: tenth pastor [[people/pinghsi-liu||劉炳熹]] later became fifth senior pastor of [[organizations/chunglun-presbyterian-church||Chunglun Presbyterian Church (中崙教會)]] in 2026 — the two vault pages deliberately disambiguate each other.
 
 ## Sources
 1. [關於本會](https://eastgatebarclay.org/aboutme/)

@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Archival records in the vault: [[works/taiwaneseamericanhistory-org/whoswho1757|TAH #1757]] · [[works/taiwaneseamericanhistory-org/musician414|TAH #414, Bassist]]

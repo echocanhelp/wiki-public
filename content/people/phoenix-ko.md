@@ -57,6 +57,10 @@ Private phones and LINE U-ids are **not** published here.
 - [[people/john-yang||John Yang (楊錦忠)]] — Special assistant
 - [[people/paul-chen||Paul Chen (陳柏宇)]] — Finance guidance chair (會務指導會 / 會計)
 
+## Connected in the Vault
+
+- Her 2025 TAHS role is mirrored on the org-chart page itself: [[organizations/taiwanese-american-historical-society||TAHS 2025 org chart]] lists 財務 = Phoenix Ko (柯貝昀), cross-linked both directions.
+
 ## Related Pages
 
 - [[organizations/taiwanese-american-historical-society||TAHS]]

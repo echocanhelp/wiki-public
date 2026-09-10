@@ -48,6 +48,10 @@ Two entries for Tao Yu are held in the vault's TAH story corpus:
 
 Both are band-B bibliographic records; full text stays in the source archive.
 
+## Connected in the Vault
+
+- Institution context in the vault: he studied at Johns Hopkins/Peabody and has taught at the University of Maryland since 2003; the vault holds pages for the community student associations at both campuses — [[organizations/johns-hopkins-university-taiwanese-student-association||JHU Taiwanese Student Association]] and [[organizations/university-of-maryland-taiwanese-student-association||University of Maryland Taiwanese Student Association]] (context links only; no membership is asserted).
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
