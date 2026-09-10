@@ -14,7 +14,7 @@ last_reviewed: 2026-09-10
 
 # Yang Zhengxiang (Ethan Yang)
 
-**Ethan Yang** (楊正光) is a third-generation Taiwanese American political scientist and economist based in Washington, D.C. He is a research fellow at the American Institute for Economic Research (AIER) and is pursuing a PhD at George Mason University's Antonin Scalia Law School.
+**Ethan Yang** (楊正光) is a third-generation Taiwanese American political scientist and economist based in Washington, D.C. He is a research fellow at the American Institute for Economic Research (AIER) and is pursuing a law degree (JD) at George Mason University's Antonin Scalia Law School.
 
 ## Identity Snapshot
 
@@ -37,8 +37,8 @@ Ethan Yang represents the third generation of Taiwanese Americans profiled in th
 
 ## Education and Career
 
-- **Trinity College, Hartford:** BA in Political Science, with minors in Legal Studies and Formal Organizations
-- **George Mason University:** PhD candidate at the Antonin Scalia Law School
+- **Trinity College, Hartford:** BA in Political Science, majoring in International Relations, with minors in Legal Studies and Formal Organizations
+- **George Mason University:** JD candidate at the Antonin Scalia Law School (antitrust/competition law focus)
 - **Research Fellow:** American Institute for Economic Research (AIER), managing the AIER Standard blog
 - **Director:** Mark Leffinger Human Freedom Research Center at Trinity College
 - **Previous roles:** Research positions at Cato Institute, Connecticut State Senate, Cause of Action Institute, and other organizations
@@ -50,6 +50,16 @@ Ethan's research focuses on diplomatic policy, free markets versus socialism, an
 ## Community Engagement
 
 Beyond his academic work, Ethan is active in Washington D.C.'s workshops and seminars. He participates in Students for Liberty and was one of the co-chairs of the East Coast Asian American Coalition. He encourages Asian Americans to participate in political summer camps, not necessarily for political career development, but for networking and personal growth.
+
+## Timeline & Milestones
+
+- **Childhood:** Grew up hearing his grandfather [[people/yang-jia-you||Charles Yang (楊嘉猷)]] discuss cross-strait relations, business, and history; Ethan cites his grandfather as the person who influenced him most.
+- **Trinity College, Hartford:** BA in Political Science, majoring in International Relations (主修國際關係), with minors in Legal Studies and Formal Organizations; Professor Ed Stringham's course on alternative economic systems sparked his interest in comparing free and unfree societies; directed the Mark Leffinger Human Freedom Research Center and joined Students for Liberty. After graduating he helped launch a speaker series on entrepreneurship, good government, and economics.
+- **2012:** Summer visit to Taiwan — night markets, natural scenery; reflects with pride on his Taiwanese heritage as "Asia's beacon of a free society."
+- **2018:** Attended the Charles Koch Institute two-month summer camp in Washington, D.C. (umbrella body of ~150 libertarian organizations); admitted via essay and interview as one of 4 Asian Americans among 100 participants; trained on FOIA compliance audits and private-rights cases, plus coursework on free markets, tolerance, and free speech.
+- **AIER:** Joined through the editorial team writing and planning articles, then transitioned to a research role; founded the *AIER Standard* podcast to fill an institute gap, combining research, public speaking, and promotion. Research focus: China, foreign relations, political economy.
+- **George Mason University:** JD candidate at the Antonin Scalia Law School, concentrating on antitrust/competition law — protecting market competition and consumer welfare.
+- **2023:** 13th Annual International Vernon Smith Prize (Austrian Economics Center, Vienna); one of the East Coast Asian American Coalition's co-chairs.
 
 ## Awards
 
@@ -83,3 +93,4 @@ As a third-generation Taiwanese American, Ethan represents the evolving identity
 
 - 2026-07-23: Initial page from 2023 TAHS publication
 - 2026-08-02: Restored content MD; family links to Charles Yang and Becky Yang (owner-stated grandparents)
+- 2026-09-10: Deepened from the cited Tier-2 full text (2023 TAHS Publication part2, Ethan Yang profile, pp.127–129): Koch Institute camp, Ed Stringham influence, AIER editorial→research path, AIER Standard podcast founding, JD/antitrust focus, 2012 Taiwan visit

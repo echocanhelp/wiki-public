@@ -22,7 +22,7 @@ last_reviewed: 2026-09-10
 - **Business:** 十全藥局 (Shiquan Pharmacy), San Francisco
 - **Years active:** 30 years
 - **Geography:** San Francisco, California
-- **Related to:** [[people/zheng-bing-quan||Zheng Bingquan]] — fellow community member
+- **Related to:** [[people/zheng-bing-quan||Zheng Bingquan]] — author of his 2023 TAHS profile
 
 ## Pharmacy Career
 
@@ -41,6 +41,16 @@ Despite his physical challenges, Zheng approached life with optimism. He reflect
 TAH story-corpus memoirs in the vault describe a **鄭紹良** as a leader of the overseas Taiwan independence movement: in 1971, when Tsai Thomas (蔡同榮) resigned as chair, the third general assembly elected 鄭紹良 as chairman of the U.S. headquarters of the World United Formosans for Independence (WUFI), with 陳希寬 and 洪哲勝 as vice-chairmen ([[works/taiwaneseamericanhistory-org/ourjourneys33||Our Journeys 33]]). The same memoir lineage lists him on the organization's central committee ([[works/taiwaneseamericanhistory-org/ourjourneys81||Our Journeys 81]]), and another memoir recalls him as the host of a 1,200-person Taiwanese People's Conference at the New York Hilton in 1972 ([[works/taiwaneseamericanhistory-org/ourjourneys70||Our Journeys 70]]). Dr. Lin Heng-che (林衡哲) wrote a biographical memoir, 「學養深厚的台獨運動人格者—鄭紹良博士」 (2019/08), held at [[works/taiwaneseamericanhistory-org/my-stories-692||My Stories 692]].
 
 **Conflation flag:** the WUFI chairman and the engineer employment table above (Boeing / Rockwell / McDonnell Douglas) are consistent with a single engineering figure, while the 2023 TAHS profile describes a San Francisco pharmacist and radio host. Whether these are one person with multiple careers or two namesakes is unresolved in the vault; no biography has been invented here.
+
+## Timeline & Milestones (per 林衡哲 memoir)
+
+林衡哲's biographical memoir 「學養深厚的台獨運動人格者—鄭紹良博士」 (reprinted in the [[sources/2023-tahs-publication||2023 TAHS Publication]] p.16; vault copy at [[works/taiwaneseamericanhistory-org/my-stories-692||My Stories 692]]) records the independence-movement career in outline:
+
+- Natively from Penghu; emigrated to the U.S. in **1960**; M.S. civil engineering, West Virginia University; Ph.D. aeronautical/mechanical engineering, University of Washington, Seattle. *(The memoir's degree record differs from the Who's Who education table below — recorded, not reconciled.)*
+- Founded the Seattle Taiwanese Students Association (西雅圖台灣同鄉會); his circle there included 沈富雄, 陳芳明, and 孫慶餘. During the 1979 美麗島 incident his behind-the-scenes organizing made the Seattle protest one of the most successful.
+- **1971** — Elected chairman of the U.S. headquarters of [[organizations/united-formosans-for-independenceufi||台獨聯盟 (UFI)]], averting a split after 蔡同榮's resignation ([[works/taiwaneseamericanhistory-org/ourjourneys33||Our Journeys 33]]). On the opening day of the UN General Assembly he organized the famous chained-link (鎖鏈) demonstration before the UN building, covered with photo reports by the *New York Times* and other U.S. media.
+- **1972** — As chairman, hosted the 1,200-person **彭明敏民眾大會** at the Madison Square Garden Hilton in New York ([[works/taiwaneseamericanhistory-org/ourjourneys70||Our Journeys 70]]): personally escorted [[people/peng-ming-min||彭明敏]] into the hall, introduced him, then led nearly 1,000 marchers to the UN plaza demanding Taiwan join the UN.
+- **Early 1980s, Southern California** — After moving there, introduced 吳澧培 to 林衡哲 as a "Taiwan cultural comrade-in-arms"; helped coordinate the Chinese translation of 彭明敏's *The Taste of Freedom 自由的滋味* (translated by 莊瑞穂 under the pen-name 林美惠) and co-nurtured the 台灣出版社, which made the book a bestseller.
 
 ## Source Notes and Confidence
 

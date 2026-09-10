@@ -9,7 +9,7 @@ tags:
   - tahs-leadership
   - founding-member
 verification_status: pending
-last_reviewed: 2026-07-23
+last_reviewed: 2026-09-10
 ---
 # Wang Yao-ting (王耀廷)
 
@@ -26,6 +26,12 @@ last_reviewed: 2026-07-23
 ## TAHS Founding
 
 Wang Yao-ting was one of the key founders of the Taiwanese American Historical Society, serving as vice president alongside founding president 楊嘉猷 (Charles Yang), first convener 鄭炳全, and secretary 周威霖. He was also listed among the initial preparatory members who attended the first preparatory meeting on August 28, 2013, in Fullerton, CA.
+
+## Timeline
+
+- 2013-08-28 — attended the first TAHS preparatory meeting in Fullerton, CA as an initial preparatory member
+- Founding era — served as Vice President of [[organizations/taiwanese-american-historical-society||TAHS]] alongside president [[people/yang-jia-you||楊嘉猷 (Charles Yang)]], first convener [[people/zheng-bing-quan||鄭炳全]], and secretary [[people/zhou-wei-lin||周威霖]]
+- Recorded in the founding narrative (Part 1, by 周威霖) in the [[sources/2017-tahs-publication||2017 TAHS Publication]]; also tagged in the [[sources/2023-tahs-publication||2023 TAHS Publication]]
 
 
 ## Network

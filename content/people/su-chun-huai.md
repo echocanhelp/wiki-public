@@ -43,6 +43,19 @@ Su Chun-huai has been involved in various Taiwanese American community organizat
 - Active participant in Taiwanese American community affairs
 
 
+## Education & Career (TAH Who's Who #2117)
+
+- **Born:** Tainan, Taiwan. **Arrived in the U.S.:** 1969, New York.
+- **Education:** National Tsing Hua University, B.S. Mathematics; Columbia University, Ph.D. Statistics. *(A 2022 press account instead lists 國立台灣師範大學 plus 清華大學研究所 — recorded, not reconciled.)*
+- **Employment:** Policy Economic Researcher, New York City Charter; President, Engross Inc. (present).
+- **Community:** Founding director, [[organizations/new-york-taiwan-center||New York Taiwan Center (紐約台灣會館)]]; President, The Union of Taiwan Universities and Colleges Alumni Association of Greater New York (大紐約區臺灣大專院校校友會聯合會會長).
+
+## Timeline & Milestones
+
+- **1969** — Arrived in the United States (New York).
+- **2022-05-14** — Attended the MIT.nano Building 12 naming ceremony as 蘇姿丰's father — the first MIT building named for an alumnus who donated to it. Su recalled his daughter's habit of dismantling toys ("she liked to study the structure inside") and stressed that Taiwanese students should give back to the community ([[works/taiwaneseamericanhistory-org/my-stories-838||TAH #838, 2022/05]]).
+- **2024–2025** — Served as President (理事長) of the [[organizations/new-york-taiwan-center||New York Taiwan Center]]; leadership interview recorded for the TAH Oral History Project ([[works/taiwaneseamericanhistory-org/video-183||Oral History #183, published 2025/08]]).
+
 ## Network
 
 Pages that link to **su-chun-huai** (su-chun-huai):
