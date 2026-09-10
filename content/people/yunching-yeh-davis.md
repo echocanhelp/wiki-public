@@ -66,18 +66,20 @@ Dr. Yeh Davis has **1** sourced work where she appears in the title and **0** ad
 Pages that link to **yunching-yeh-davis** (yunching-yeh-davis):
 
 
-### People (6)
+### People (7)
 
 1. [[people/albert-s-lai|albert-s-lai]]
-2. [[people/ching-fang-chen|ching-fang-chen]]
-3. [[people/en-sheng-pan|en-sheng-pan]]
-4. [[people/index|index]]
-5. [[people/ntpc|ntpc]]
-6. [[people/pinghsi-liu|pinghsi-liu]]
+2. [[people/albert-s-lai|albert-s-lai]]
+3. [[people/ching-fang-chen|ching-fang-chen]]
+4. [[people/en-sheng-pan|en-sheng-pan]]
+5. [[people/index|index]]
+6. [[people/ntpc|ntpc]]
+7. [[people/pinghsi-liu|pinghsi-liu]]
 
-### Organizations (1)
+### Organizations (2)
 
 1. [[organizations/national-taiwanese-presbyterian-council|national-taiwanese-presbyterian-council]]
+2. [[organizations/national-taiwanese-presbyterian-council|national-taiwanese-presbyterian-council]]
 
 ### Sources (1)
 

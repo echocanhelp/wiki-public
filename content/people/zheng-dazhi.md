@@ -8,7 +8,7 @@ tags:
   - artist
   - sculptor
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Zheng Dazhi (鄭達志)
 
@@ -21,7 +21,7 @@ last_reviewed: 2026-09-09
 - **Core roles:** Artist, sculptor
 - **Notable works:** "智者" (The Wise), "富蘭克林" (Franklin)
 - **Geography:** San Francisco Bay Area
-- **Related to:** [[people/zheng-bing-quan||Zheng Bingquan]] — fellow community member
+- **Related to:** [[people/zheng-bing-quan||Zheng Bingquan]] — fellow community member and author of his 2023 TAHS profile
 
 ## Overview
 
@@ -33,7 +33,7 @@ Zheng Dazhi is an artist whose primary medium is wood sculpture. His works "智�
 
 ## The Laguna Woods shooting, 2022-05-15
 
-Zheng was not a member of the Geneva Presbyterian Church congregation in Laguna Woods (used by the local Taiwanese Presbyterian community, all services in Taiwanese); he attended that day to accompany his widowed mother in place of his father, who had died about three months earlier. When the gunman (周文偉, David Wenwei Chou) opened fire at the post-service lunch, Zheng rushed him and took three bullets, physically blocking further shots; the gun then jammed, allowing pastor [[people/zhang-xuanxin||張宣信 (Billy Chang)]] to strike the gunman with a chair while others subdued him. Zheng, 52, died; he is survived by his wife and two children (his son was about to enter UCLA pre-med). CNN and other media covered him as the "hero physician" of the shooting — see also [[organizations/irvine-taiwanese-presbyterian-church||Irvine Taiwanese Presbyterian Church]] (張宣信's church) and [[organizations/laguna-woods-village-taiwanese-club||Laguna Woods Village Taiwanese Club]].
+Zheng was not a member of the Geneva Presbyterian Church congregation in Laguna Woods (used by the local Taiwanese Presbyterian community, all services in Taiwanese); he attended that day to accompany his widowed mother in place of his father, who had died about three months earlier. When the gunman (周文偉, David Wenwei Chou) opened fire at the post-service lunch, Zheng rushed him and took three bullets, physically blocking further shots; the gun then jammed, allowing pastor [[people/zhang-xuanxin||張宣信 (Billy Chang)]] to strike the gunman with a chair while others subdued him. Zheng, 52, died; he is survived by his wife and two children (his son was about to enter UCLA pre-med). CNN and other media covered him as the "hero physician" of the shooting — see also [[works/taiwaneseamerican-org/laguna-woods-taiwanese-church-shooting||Laguna Woods Taiwanese Church shooting]], [[organizations/irvine-taiwanese-presbyterian-church||Irvine Taiwanese Presbyterian Church]] (張宣信's church) and [[organizations/laguna-woods-village-taiwanese-club||Laguna Woods Village Taiwanese Club]].
 
 ## Source Notes and Confidence
 
@@ -41,10 +41,15 @@ Zheng was not a member of the Geneva Presbyterian Church congregation in Laguna 
 - **Hub:** [[sources/2023-tahs-publication||2023 TAHS Publication]]
 - **Archive:** `knowledge/web-archives/2023-tahs-publication-part1.md`
 - **Note:** The profile includes details about his artistic work and community contributions.
+- **Attribution conflict (HOLD):** the same archive also carries a profile of [[people/zheng-bing-quan||鄭炳全]] as a self-taught woodcarver credited with 「富蘭克林」 and 「女神」 — unresolved overlap with the works credited here.
 
 ## Related Pages
 
 - [[organizations/taiwanese-american-historical-society||TAHS]]
 - [[sources/2023-tahs-publication||2023 TAHS Publication]]
 - [[people/zheng-bing-quan||Zheng Bingquan (鄭炳全)]]
+- [[people/zhang-xuanxin||張宣信 (Billy Chang)]]
+- [[organizations/irvine-taiwanese-presbyterian-church||Irvine Taiwanese Presbyterian Church]]
+- [[organizations/laguna-woods-village-taiwanese-club||Laguna Woods Village Taiwanese Club]]
+- [[works/taiwaneseamerican-org/laguna-woods-taiwanese-church-shooting||Laguna Woods Taiwanese Church shooting]]
 - [[sources/2017-tahs-publication||2017 TAHS Publication]]

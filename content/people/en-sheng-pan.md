@@ -67,16 +67,18 @@ Rev. Pan has **1** sourced work where he appears in the title and **0** addition
 Pages that link to **en-sheng-pan** (en-sheng-pan):
 
 
-### People (4)
+### People (5)
 
 1. [[people/albert-s-lai|albert-s-lai]]
-2. [[people/index|index]]
-3. [[people/pinghsi-liu|pinghsi-liu]]
-4. [[people/yunching-yeh-davis|yunching-yeh-davis]]
+2. [[people/albert-s-lai|albert-s-lai]]
+3. [[people/index|index]]
+4. [[people/pinghsi-liu|pinghsi-liu]]
+5. [[people/yunching-yeh-davis|yunching-yeh-davis]]
 
-### Organizations (1)
+### Organizations (2)
 
 1. [[organizations/national-taiwanese-presbyterian-council|national-taiwanese-presbyterian-council]]
+2. [[organizations/national-taiwanese-presbyterian-council|national-taiwanese-presbyterian-council]]
 
 ### Sources (1)
 
