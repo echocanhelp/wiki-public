@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Charles Yu (游朝凱)
 
@@ -41,6 +41,10 @@ Charles Yu (游朝凱) is a novelist, short story writer, and screenwriter born 
 - [TAH #768 encyclopedia: 768. 台美人之光!! 游朝凱（Charles Yu）榮獲美國最高榮譽的國家圖書奬/11/2020](https://taiwaneseamericanhistory.org/my-stories-768/)
 - [TAH #264 encyclopedia: 264. Charles Yu 游朝凱](https://taiwaneseamericanhistory.org/whos-who264-charles-yu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/charles-yu/)
+
+## Connected in the Vault
+- Vault records about him: [[works/taiwaneseamericanhistory-org/my-stories-768|768. 台美人之光!! 游朝凱（Charles Yu）榮獲國家圖書奬]] · [[works/taiwaneseamericanhistory-org/whos-who264-charles-yu|264. Charles Yu 游朝凱]]
+- Family: father [[people/jin-chyuan-yu|游銘泉]] (see his page for the family record)
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

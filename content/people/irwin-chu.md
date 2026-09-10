@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Prof. Irwin Chu (朱耀源博士)
 
@@ -41,6 +41,10 @@ last_reviewed: 2026-08-17
 - [TAH #284 encyclopedia: 284. 朱耀源博士-前瞻未來 , 專欄寫作 / 吳瑞惠 / 2015/06](https://taiwaneseamericanhistory.org/284-%e9%95%b7%e9%9d%92%e6%95%99%e5%ae%a4%e5%bf%83%e5%be%97%e5%a0%b1%e5%91%8a-%e5%89%8d%e7%9e%bb%e6%9c%aa%e4%be%86%ef%bc%8c%e5%b0%88%e6%ac%84%e5%af%ab%e4%bd%9c-%e5%90%b3%e7%91%9e%e6%83%a0/)
 - [TAH #99 encyclopedia: 99. Dr. Irwin Chu 朱耀源博士](https://taiwaneseamericanhistory.org/whos-who-99-irwin-chu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/irwin-chu/)
+
+## Connected in the Vault
+- Vault records about him: [[works/taiwaneseamericanhistory-org/17-prof-irwin-chu|17. Prof. Irwin Chu 朱耀源教授]] · [[works/taiwaneseamericanhistory-org/whos-who-99-irwin-chu|99. Dr. Irwin Chu 朱耀源博士]] · [[works/taiwaneseamericanhistory-org/collection-of-dr-irwin-chu|67. Collection of Prof. Irwin Chu 朱耀源教授的收藏]]
+- Community ties in the vault: [[organizations/taiwanese-association-of-indiana|Taiwanese Association of Indiana]] — the Indiana chapter network where he is listed as a founding member
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
