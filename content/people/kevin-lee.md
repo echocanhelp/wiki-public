@@ -9,7 +9,7 @@ tags:
   - line-group
   - Taiwanese-American
 verification_status: pending
-last_reviewed: 2026-08-10
+last_reviewed: 2026-09-10
 source_note: "LINE group displayName Kevin Lee; ZH pending; distinct from David Lee / 李東璞 and Yi Sen Lee / 李意盛"
 ---
 
@@ -46,6 +46,7 @@ Do **not** conflate with:
 ## Timeline
 
 - **2026-08** — Listed on TAHS LINE L1 roster as Kevin Lee (ZH pending).
+- **2026-09** — Roster entry re-reviewed; identity remains LINE-membership-only, no biography asserted.
 
 ## Sources
 

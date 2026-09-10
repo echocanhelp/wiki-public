@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Prof. Ting-Kuo Lee (李定國教授)
 
@@ -33,6 +33,17 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Timeline
+
+- **1967–1971** — B.S., Physics, National Taiwan Univ.
+- **1972–1975** — Ph.D., Physics, Brown Univ.
+- **1982–1997** — Assistant/Associate/Full Professor, Dept. of Physics, Virginia Polytechnic Institute and State University.
+- **2001–** — Adjunct Professor, Dept. of Physics, National Tsing-hua University.
+- **2004–2006** — Co-Executive Director, National Science and Technology Program for Nanoscience and Nanotechnology, Taiwan.
+- **2007–2012** — Director, Academic Affairs Office; **2008–2012** Executive Secretary, Central Academic Advisory Committee, Academia Sinica.
+- **2012–2018** — Director, Institute of Physics, Academia Sinica.
+- **2019–** — Research Chair Professor, Dept. of Physics, National Sun Yat-sen University.
 
 ## Sources
 - [TAH #1789 encyclopedia: 1789. Prof. Ting-Kuo Lee 李定國教授](https://taiwaneseamericanhistory.org/whos-who-1789-ting-kuo-lee/)

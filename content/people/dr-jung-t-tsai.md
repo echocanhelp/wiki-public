@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Dr. Jung T. Tsai (蔡榮聰醫師)
 
@@ -36,6 +36,14 @@ Accomplishment
 - **Daughter:** 蔡華珊
 
 
+## Timeline
+
+- **1971** — M.D., China Medical Univ.
+- **1996** — Associate Professor of Clinical Surgery, Seton Hall Univ.
+- **2000** — Director of Surgery, RWJ Univ. Hospital Rahway.
+- **2005** — President, Clinical Society of Trinitas Hospital; founder and first president, Pen Club in Greater New York.
+- **2008** — President (總會長), North American Taiwanese Medical Association.
+
 ## Sources
 - [TAH #183 encyclopedia: 183. Dr. Jung T. Tsai 蔡榮聰醫師](https://taiwaneseamericanhistory.org/183-dr-jung-t-tsai/)
 - [TAH #215 encyclopedia: 215. Dr. Long Tsung Tsai 蔡榮聰醫師 / The first president of Great New York Pen Club ](https://taiwaneseamericanhistory.org/215-dr-long-tsung-tsai-%e8%94%a1%e6%a6%ae%e8%81%b0%e9%86%ab%e5%b8%ab-the-first-president-of-great-new-york-pen-club-2005/)
@@ -45,3 +53,5 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[organizations/north-america-taiwanese-medical-association-foundation||North American Taiwanese Medical Association (NATMA)]]
+- [[organizations/the-great-new-york-region-oversea-taiwanese-pen-club||The Great New York Region Oversea Taiwanese Pen Club]]
