@@ -44,6 +44,10 @@ Accomplishment
 - Led Taiwanese American associations in several cities as president — Greater Philadelphia, New Haven, Baton Rouge, and the Northern California Chapter of the North American Taiwanese Professors' Association — plus Secretary of the Connecticut Chapter, American Statistical Association, and Secretary/Board Member of [[organizations/east-bay-taiwanese-association||East Bay Taiwanese Association]].
 - Vault cross-reference for his Philadelphia community: [[organizations/taiwanese-association-of-america-greater-philadelphia||TAA Greater Philadelphia chapter]].
 
+## Connected in the Vault
+
+His biographical entry is [[works/taiwaneseamericanhistory-org/whos-who-2306-ray-wang||TAH #2306 (published 2021-01-18)]], held in [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]] and published by the [[organizations/taiwaneseamericanhistory-org|TAH encyclopedia project]]. His Professors'-Association leadership is documented in the vault at [[organizations/north-america-taiwanese-professors-sc||North America Taiwanese Professors' Association Southern California]] (the association's vault record for its chapter structure).
+
 ## Sources
 - [TAH #2306 encyclopedia: 2306. Dr. Ray Wang 王瑞華博士](https://taiwaneseamericanhistory.org/whos-who-2306-ray-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-ray-wang/)

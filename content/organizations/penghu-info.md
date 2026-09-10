@@ -44,3 +44,12 @@ this record captures only the historically-anchored subset linked from Tier1.
 ## Sources
 - Hub: [[sources/penghu-info||penghu.info 平台]]
 - [[people/hsu-ling-yun||Hsu Ling-yun]] · [[people/hsu-ching-chun||Hsu Ching-chun]] · [[organizations/hsu-ling-yun-xiucai-memorial-hall||凌雲秀才紀念館]]
+
+## Connected in the Vault（deepen pass 2026-09-10）
+
+本平台在 vault 內的引用關係（雙向均已存在，此處彙整）：
+
+- [[people/hsu-ling-yun||許凌雲（1862–1944）]] 頁以本平台為清領時期傳記的權威來源（引文已列於該頁）。
+- [[people/hsu-ching-chun||許景淳]] 頁以本平台佐證瓦硐許姓血緣脈絡。
+- [[organizations/hsu-ling-yun-xiucai-memorial-hall||許凌雲秀才紀念館／存養軒書房]] 為本平台收錄的紀念建物條目對應頁。
+- 完整語料（8,946 則）之抓取歸檔置於 `knowledge/web-archives/penghu-info/`（路徑，非頁面連結）；本記錄僅含 Tier1 互引的歷史錨定子集。

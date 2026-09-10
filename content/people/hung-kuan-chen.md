@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Hung-Kuan Chen (陳宏寬)
 
@@ -45,6 +45,9 @@ _No filled family fields on the TAH profile._
 - **Masterclass mentor:** named among the masters who taught [[people/kerina-chang||Kerina Chang 張庭瑄]].
 - **Chamber colleague:** named alongside violinist [[people/cho-liang-lin||Cho-Liang Lin (林昭亮)]] as a collaborator in his TAH profile text.
 - **Archival record:** [[works/taiwaneseamericanhistory-org/576-hung-kuan-chen-e9-99-b3-e5-ae-8f-e5-af-ac-201509|TAH #576 encyclopedia]] · [[works/taiwaneseamericanhistory-org/292-hung-kuan-chen-e9-99-b3-e5-ae-8f-e5-af-ac-pianist-201509|TAH #292 encyclopedia, Pianist, 2015/09]]
+
+## Reciprocal Vault Links
+- **Reciprocal link:** [[people/sean-chen||Sean Chen]]'s page names Hung-Kuan Chen as his teacher at the Yale School of Music.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

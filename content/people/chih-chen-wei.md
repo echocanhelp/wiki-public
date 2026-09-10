@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Chih-Chen Wei (魏志真)
 
@@ -45,6 +45,10 @@ _No filled family fields on the TAH profile._
 - [TAH #402 encyclopedia: 402. Chih-Chen Wei 魏志真 / 2015/05](https://taiwaneseamericanhistory.org/402-chih-chen-wei-%e9%ad%8f%e5%bf%97%e7%9c%9f-201505/)
 - [TAH #51 encyclopedia: 51. Chih-Chen Wei 魏志真, Composer/2014/10](https://taiwaneseamericanhistory.org/52-chih-chen-wei-%e9%ad%8f%e5%bf%97%e7%9c%9f-composer/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chih-chen-wei/)
+
+## Connected in the Vault
+- **Collaborator:** flutist [[people/chia-ling-chien||Glendy Chien 簡嘉琳]] has performed her works (linked above).
+- **Archival record:** [[works/taiwaneseamericanhistory-org/402-chih-chen-wei-e9-ad-8f-e5-bf-97-e7-9c-9f-201505|TAH #402 encyclopedia, 2015/05]] · [[works/taiwaneseamericanhistory-org/52-chih-chen-wei-e9-ad-8f-e5-bf-97-e7-9c-9f-composer|TAH #52 encyclopedia, Composer, 2014/10]]
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

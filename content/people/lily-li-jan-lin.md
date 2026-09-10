@@ -46,3 +46,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/177-e6-9e-97-e9-ba-97-e8-b2-9e-conductor-201503||TAH #177 conductor profile (2015/03)]] — primary encyclopedia record
+- [[organizations/joint-alumni-association-of-taiwan-teachers-college-and-normal-univers||Joint Alumni Association of Taiwan Teachers College and Normal Universities]] — NTNU/Teachers College alumni network behind her 1982–1987 training

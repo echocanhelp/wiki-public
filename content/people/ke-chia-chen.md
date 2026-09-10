@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Ke Chia Chen (陳可嘉)
 
@@ -50,6 +50,10 @@ _No filled family fields on the TAH profile._
 - [TAH #1059 encyclopedia: 1059. Ke Chia Chen 陳可嘉  / 2015/06](https://taiwaneseamericanhistory.org/whoswho1059/)
 - [TAH #20 encyclopedia: 20. Ke-Chia Chen 陳可嘉, Composer/2014/10](https://taiwaneseamericanhistory.org/20-ke-chia-chen-%e9%99%b3%e5%8f%af%e5%98%89-composer/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ke-chia-chen/)
+
+## Connected in the Vault
+- **Reciprocal link:** [[people/chih-long-hu||Chih-Long Hu]]'s page confirms he performed her piano solo "To An Isolated Island" on *Formosa: 24 Caprices for solo piano*.
+- **Archival record:** [[works/taiwaneseamericanhistory-org/20-ke-chia-chen-e9-99-b3-e5-8f-af-e5-98-89-composer|TAH #20 encyclopedia, Composer, 2014/10]]
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

@@ -40,4 +40,14 @@ _No filled family fields on the TAH profile._
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
+- [[organizations/taiwanese-american-historical-society||TAHS（台美人歷史協會）]] — 姊妹組織，共同維基百科式知識庫
+- [[works/taiwaneseamericanhistory-org/126-judy-kang-e5-ba-b7-e7-91-8b-e5-80-ab-cellist-and-pianist-201501||TAH #126：JUDY KANG 康瑋倫, Cellist and Pianist]] — 原始百科條目（已引用於 Sources）
+- [[works/taiwaneseamericanhistory-org/233-judy-kang-e5-ba-b7-e7-91-8b-e5-80-ab-201501||TAH #233：JUDY KANG 康瑋倫]] — 第二則百科條目（已引用於 Sources）
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Connected in the Vault（deepen pass 2026-09-10）
+
+以下連結僅重組本頁既有事實並連至 vault 內已存在頁面，未新增傳記內容：
+
+- 文中所述 **Yo-Yo Ma 世界大師巡迴訪台**（她生涯首演契機）、**南加大雙主修大提琴／鋼琴第一人**、**Celine Dion 駐團大提琴家**、**指揮 John Williams** 等人名，vault 內尚無專屬頁面，故此處不建連結（避免新建頁）。
+- 兩則 TAH 百科條目（#126、#233）已如上連結，與 Who's Who 人物檔互為佐證。

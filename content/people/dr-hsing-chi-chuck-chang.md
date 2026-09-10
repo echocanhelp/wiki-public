@@ -44,4 +44,14 @@ Dr. Hsing-Chi (Chuck) Chang 張幸吉博士 – History of Taiwanese American (T
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
+- [[organizations/taiwanese-american-historical-society||TAHS（台美人歷史協會）]] — 姊妹組織，共同維基百科式知識庫
+- [[works/taiwaneseamericanhistory-org/whos-who-2198-hsing-chi-chang||TAH Who's Who #2198：張幸吉博士]] — 原始條目（已引用於 Sources）
+- [[works/taiwaneseamericanhistory-org/158-dr-hsing-chi-chang||TAH #158：Dr. Hsing-Chi (Chuck) Chang 張幸吉博士]] — 百科條目（已引用於 Sources）
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Connected in the Vault（deepen pass 2026-09-10）
+
+以下連結僅重組本頁既有事實並連至 vault 內已存在頁面，未新增傳記內容：
+
+- 正文所稱 **台美史料中心（T.A. Archives）** 與任職／社團紀錄中的 FAPA NJ、Formosa Credit Union NJ 等單位，vault 內暫無專屬頁面，不建連結以免新建頁。
+- 其美國東岸社團軌跡（Windsor Area TAA 創會長、TA Association NJ 會長）與 vault 內各地 TAA 頁面為同類型組織，但無 NJ 分頁，故僅註記不連結。
