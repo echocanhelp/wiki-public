@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Shiuho Lin (林秀合)
 
@@ -39,6 +39,8 @@ Accomplishment
 - **Son:** Eric
 
 
+According to the TAH Our Journeys memoir (#316), the New York Taiwanese American Center (紐約台灣會館) formed a senior-center management committee at the end of 2003 with 林秀合 as 執行長 coordinating activities among the associations — consistent with her role as Executive Director of the NY Taiwanese American Senior Center.
+
 ## Sources
 - [TAH #80 encyclopedia: 80. Shiuho Lin 林秀合](https://taiwaneseamericanhistory.org/80-shiuho-lin/)
 - [TAH #1495 encyclopedia: 1495. Shiuho Lin 林秀合](https://taiwaneseamericanhistory.org/whos-who-1495-shiuho-lin/)
@@ -47,3 +49,8 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/80-shiuho-lin||TAH #80 encyclopedia: Shiuho Lin 林秀合]]
+- [[works/taiwaneseamericanhistory-org/whos-who-1495-shiuho-lin||TAH Who's Who #1495 encyclopedia: Shiuho Lin 林秀合]]
+- [[works/taiwaneseamericanhistory-org/ourjourneys316||TAH Our Journeys #316 — 會館老人中心管理委員會（2003年底成立，林秀合任執行長總籌活動）]]
+- [[works/taiwaneseamericanhistory-org/ourjourneys6||TAH Our Journeys #6 — 林秀合 contact listing]]
+- [[organizations/taiwanese-american-association-new-york||TAA New York Chapter 紐約台灣同鄉會（曾任會長）]]

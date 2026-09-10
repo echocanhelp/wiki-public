@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Prof. Cheng-Few Lee (李正福教授)
 
@@ -39,6 +39,8 @@ last_reviewed: 2026-08-17
 - **Son:** 李嘉恩
 
 
+Authored the 2017 autobiography *From East to West: Memoirs of a Finance Professor on Academia, Practice, and Policy* (TAH Publications #1109); earlier memoir 李正福自述兼談台灣與亞太地區經濟前景 appears as TAH #276, and 美台40年教學研究及主持會議之經驗 as My Stories #557.
+
 ## Sources
 - [TAH #70 encyclopedia: 70. Prof. Cheng-Few Lee 李正福教授](https://taiwaneseamericanhistory.org/70-prof-cheng-few-lee/)
 - [TAH #557 encyclopedia: 557. 李正福教授　美台40年教學研究及主持會議之經驗 / 李正福 /07/2017](https://taiwaneseamericanhistory.org/mystories557/)
@@ -48,3 +50,8 @@ last_reviewed: 2026-08-17
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/70-prof-cheng-few-lee||TAH #70 encyclopedia: Prof. Cheng-Few Lee 李正福教授]]
+- [[works/taiwaneseamericanhistory-org/whos-who-131-cheng-few-lee||TAH Who's Who #131 encyclopedia: Prof. Cheng-Few Lee 李正福教授]]
+- [[works/taiwaneseamericanhistory-org/mystories557||TAH My Stories #557: 李正福教授 美台40年教學研究及主持會議之經驗]]
+- [[works/taiwaneseamericanhistory-org/publications1109||TAH Publications #1109: From East to West — Memoirs of a Finance Professor (自傳, 2017/01)]]
+- [[works/taiwaneseamericanhistory-org/276-e6-9d-8e-e6-ad-a3-e7-a6-8f-e8-87-aa-e8-bf-b0-e5-85-bc-e8-ab-87-e5-8f-b0-e7-8||TAH #276: 李正福自述兼談台灣與亞太地區經濟前景]]

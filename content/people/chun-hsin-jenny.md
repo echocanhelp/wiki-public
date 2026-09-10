@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Chun Hsin Jenny (伍君心)
 
@@ -42,3 +42,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/whoswho1082||TAH #1082 encyclopedia: Chun Hsin Jenny 伍君心]]
+- [[works/taiwaneseamericanhistory-org/musician4||TAH #4 musician profile: Chun Hsin Jenny Wu 伍君心, Violinist]]

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Dr. Min-Chin Mary Lee (李敏琴醫師)
 
@@ -42,3 +42,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/whos-who-2192-min-chin-lee||TAH #2192 encyclopedia: Dr. Min-Chin Mary Lee 李敏琴醫師]]
+- [[works/taiwaneseamericanhistory-org/222-2||TAH #222 encyclopedia: Dr. Min-chin Mary Lee 李敏琴醫師]]
