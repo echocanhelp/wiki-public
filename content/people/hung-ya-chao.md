@@ -42,6 +42,18 @@ last_reviewed: 2026-09-10
 - [TAH #183 encyclopedia: 183.怪力亂神的民間信仰 – 趙弘雅 – 2003.03 – 宗教](https://taiwaneseamericanhistory.org/183-%e6%80%aa%e5%8a%9b%e4%ba%82%e7%a5%9e%e7%9a%84%e6%b0%91%e9%96%93%e4%bf%a1%e4%bb%b0-%e8%b6%99%e5%bc%98%e9%9b%85-2003-03-%e5%ae%97%e6%95%99/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hung-ya-chao/)
 
+## Timeline
+*(absorbed from this page's own TAH tables; no external sources added)*
+- 台灣大學 — B.S. 化學
+- Polytechnic University — Ph.D. 化學
+- 1974–1992 — Moore Corp — 資深科技研究員
+- 1992–1999 — Webcraft Technologies Inc — 技術經理
+- 出生於台灣雲林；妻：素慧
+- 於 TAH 發表宗教／民間信仰系列文章（西方天界大搜密 2010/08、揭開漢人天界之謎 2010/05、怪力亂神的民間信仰 2003/03）
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault Cross-References
+- TAH Who's Who 記錄存於 vault：[[works/taiwaneseamericanhistory-org/whoswho1352|TAH #1352 Hung Ya Chao 趙弘雅, 2016/10]]。
