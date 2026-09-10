@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Te-Chiang Bacco Liu (劉德強)
 
@@ -32,6 +32,19 @@ Violinist Te-Chiang (Bacco) Liu, is a native of Taiwan. Mr. Liu started the viol
 - Minnesota Orchestra — Present — 替補小提琴手
 - Southwest Minnesota State University — Present — Violin/Viola Faculty
 <!-- tah-tables:end -->
+
+## Career & Training
+
+Structured from the TAH Who's Who biography and tables already mirrored on this page ([[organizations/tah-foundation||TAH Foundation]] source; entities without vault pages are named, not linked):
+
+- Native of Taiwan; began violin at age four; top prize, Youth Division, Taiwan National Violin Competition (1996)
+- Accepted by the Queensland Conservatorium, Australia, to study with Carmel Kaine; won all violin prizes two consecutive years
+- B.S. in Violin Performance (小提琴表演), 實踐大學 (Shih-Chien University), with honors
+- Concertmaster, National Defense Symphony Orchestra — performed at several state banquets for the President of Taiwan
+- Full scholarship to the Boston Conservatory; M.M. in Violin Performance (2009) under Prof. Lynn Chang; concertmaster at numerous orchestra and chamber concerts there
+- Collaborative performance with Yo-Yo Ma and Lynn Chang; selected to lead the Hememway String Chamber Ensemble (2009)
+- Doctorate, 明尼蘇達大學 (University of Minnesota), Music Department
+- Present: substitute violinist, Saint Paul Chamber Orchestra and Minnesota Orchestra; Violin/Viola faculty, Southwest Minnesota State University
 
 ## Family
 

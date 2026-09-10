@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Prof. Helen Lee (李雪玟教授)
 
@@ -36,6 +36,23 @@ Helen Lee 李雪玟, Soprano, is a faculty member in the Music Department at the
 - **Daughter:** Eileen Lee世芳
 - **Son:** Felix Lee 世揚
 
+
+## Career & Recognition
+
+Structured from the TAH Who's Who biography and tables already mirrored on this page ([[organizations/tah-foundation||TAH Foundation]] source; entities without vault pages are named, not linked):
+
+- Faculty member, Music Department, University of Nevada, Reno; Dean's Award for Excellence in Teaching (May 2006)
+- President of the university's international faculty honor society; special recognition at its World Congress in Montreal, Canada
+- Frequently invited to sing the American national anthem at events in Nevada and California, representing Taiwanese Americans
+- Performed several times at Carnegie Hall and Lincoln Center, New York City
+- Invited by the Suzuki Music Association of Japan to tour Japan; interviewed and performed on Japanese television
+- Exchange professor (short-term), National Taiwan Normal University
+- Award recipient, performer, and conference speaker — North American Taiwanese Professors' Association (NATPA); performer at Formosan Association for Public Affairs (FAPA) 25th Anniversary Conference, Taipei
+- Guest artist, Taipei Philharmonic Foundation National Concert Hall concert
+- Speaker, Nevada State Senate Committee — Taiwan's WHO application and Taiwan/US Free Trade Agreement
+- Fundraising concert performer, San Diego Taiwan Center (raised US $100,000)
+
+Education (per TAH encyclopedia tables): B.A. Music, Chinese Culture University; M.A. Music, Brigham Young University. Family (per TAH profile): husband 李明義; daughter Eileen Lee 世芳; son Felix Lee 世揚.
 
 ## Sources
 - [TAH #16 encyclopedia: 16. Prof. Helen Lee 李雪玟教授](https://taiwaneseamericanhistory.org/16-prof-helen-lee/)
