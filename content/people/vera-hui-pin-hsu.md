@@ -41,7 +41,7 @@ Structured from her TAH encyclopedia entries (#312, #154, both 2015/02):
 - **2013** — Doctor of Musical Arts in piano performance, Graduate Center of the **City University of New York**, studying under **Martin Canin**
 - **2015/01** — **Artist in Residence, Haifa University (Israel)**; concerts and masterclasses in Jerusalem and Tel Aviv
 - **Performance range** — recitals and lecture concerts in Germany, Austria, the U.S. and Taiwan
-- **Recording** — soloist in **Sung-jen Hsu's piano concerto “Pounding Rain”** with **Taiwan Philharmonic**; issued by Taiwan's National CKS Cultural Center in the **Voice of Taiwan** series
+- **Recording** — soloist in **Sung-jen Hsu's piano concerto “Pounding Rain”** [[works/taiwaneseamericanhistory-org/3-atlanta-taiwanese-philharmonic-chorus|(related: Taiwan Philharmonic/chorus record)]] with **Taiwan Philharmonic**; issued by Taiwan's National CKS Cultural Center in the **Voice of Taiwan** series
 
 ## Family
 
