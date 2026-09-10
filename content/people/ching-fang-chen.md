@@ -9,7 +9,7 @@ tags:
   - Taiwanese-American
   - 2025-republication
 verification_status: published
-last_reviewed: 2026-09-08
+last_reviewed: 2026-09-09
 ---
 # Rev. Ching Fang Chen (陳清芳)
 
@@ -30,6 +30,10 @@ Following the NTPC's 50th anniversary conference (2024; [[people/david-huang||�
 > **Full text (GitHub):** [complete extract](https://github.com/echocanhelp/wiki-public/blob/gh-pages/knowledge/web-archives/albert-lai-toward-community-of-hope.md)
 
 His June 2025 foreword stressed urgency of preservation, history as theological encounter, and Lai's 1971 dissertation as a cornerstone resource for understanding the founding of the first Taiwanese Presbyterian church in Southern California ([[organizations/formosan-presbyterian-church-in-los-angeles||FPCLA]] lineage).
+
+## The book he foregrounded (per work page)
+
+Per [[sources/toward-a-community-of-hope||Toward A Community of Hope]]: Dr. Albert S. Lai's Doctor of Ministry dissertation (**San Francisco Theological Seminary, December 1971**), rediscovered in 2022 and republished in 2025 for the 50th anniversary by **Taiwan Church Press + NTPC + Tainan East Gate Barclay History Education Promotion** — the first publication of the NTPC Historical Committee Chen chairs. The republication network Chen sits in alongside [[people/mingyuan-hsu||Rev. Mingyuan Hsu]], [[people/pinghsi-liu||Rev. Pinghsi Liu]], [[people/en-sheng-pan||Rev. En Sheng Pan]], [[people/yunching-yeh-davis||Dr. Yunching Yeh Davis]], and [[people/pingtung-lai||Pastor Pingtung Lai]] (family/heritage preface material). The dissertation itself documents the FPCLA founding story involving [[people/jonah-chang||Rev. Jonah Chang]] (Aug 1970 experimental worship), [[people/chaolong-kao||Dr. Charles C.L. Kao]] (organizing minister, Sep 1971), and co-founders [[people/daniel-kao||Dr. Daniel Kao]] and [[people/c-c-chen||Dr. C.C. Chen]].
 
 
 ## Works

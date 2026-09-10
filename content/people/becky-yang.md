@@ -9,7 +9,7 @@ tags:
   - community
 verification_status: owner_verified
 status: published
-last_reviewed: 2026-09-08
+last_reviewed: 2026-09-09
 ---
 
 # Becky Yang
@@ -37,6 +37,8 @@ last_reviewed: 2026-09-08
 
 - Spouse: [[people/yang-jia-you||Charles Yang (楊嘉猷)]] — TAHS founding president
 - Grandson: [[people/yang-zhengxiang||Ethan Yang (楊正光)]] — third-generation Taiwanese American profiled in 2023 TAHS publication
+- Reciprocal links: Charles Yang's page (owner-stated family block, 2026-08-02) confirms the couple as grandparents of Ethan Yang, closing the family triangle on all three pages.
+- Spouse's public voice in the community: Charles Yang authored the 「咱的故鄉 咱的故事」 identity-history column in the taiwanjustice.net harvest — see [[articles/taiwanjustice-net/2022/20220122114800_2021_02_01_咱的故鄉-咱的故事-台美人追尋自我identity的人生-_-楊_f2a6026ae071fa32|台美人追尋自我(Identity)的人生]] and [[articles/taiwanjustice-net/2026/20260209111911_咱的故鄉-咱的故事-台美人追尋自我identity的人生-_-楊_b7a181b116206c11|咱的故鄉 咱的故事（taiwanjustice.net 專欄）]]. He publicly handed the presidency to 許景鴻 on 2025-09-03 (see [[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74|新任會長許景鴻接椽]]), the 世代傳承 context of the family circle Becky belongs to.
 
 ## Introduction Context
 

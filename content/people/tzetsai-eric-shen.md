@@ -8,7 +8,7 @@ tags:
 name_en: "Eric Shen"
 name_zh_hanzi: "沈梓在"
 verification_status: pending
-last_reviewed: 2026-09-08
+last_reviewed: 2026-09-09
 source_note: "TAHS 2025 organization chart + LINE displayName preferred EN"
 title: "Eric Shen (沈梓在)"
 ---
@@ -35,13 +35,12 @@ This page is an **A-tier thin record** for graph linking and member-priority sco
 
 ## LINE
 
-- Full LINE displayName also seen as `Tzetsai Eric Shen`
+- Full LINE displayName also seen as `Tzetsai Eric Shen`; group member list 2026-08-03 shows `Eric Shen`
 - Preferred short EN on chart handwriting: **Eric Shen**
 
-## LINE
+## 2025 board meeting attendance
 
-- LINE displayName: `Eric Shen` (group member list 2026-08-03)
-- Preferred English spelling: **Eric Shen**
+Per the cited taiwanjustice.net report (published by [[people/freeman-huang||Freeman Huang 黃樹人]], 2025-09-05): the installation ceremony and board meeting were held **2025-09-03** at the 台美人長輩會辦公室. The board resolved to set the president's term at **three years**, with officer (幹部) terms synchronized to the president's term. 沈梓在 attended among 創會會長楊嘉猷、會長許景鴻、蔡漢成、劉玲華、李意盛、楊錦忠、蔡淑女、黃樹人. At the same meeting 創會會長楊嘉猷 stated the society has entered a new stage of 世代傳承, focusing on collecting, interviewing, and publishing records of second- and third-generation Taiwanese Americans.
 
 ## Former slug
 
