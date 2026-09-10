@@ -34,6 +34,7 @@ last_reviewed: 2026-09-10
 - **Hub:** [[sources/taiwancenter-org||taiwancenter.org]]
 - **Content priority C:** Full biography not in this source set
 - **Coverage hub:** both activity records above are reported by [[sources/taiwanjustice-net||taiwanjustice.net]], the vault's news hub for 台美社團 coverage; her board seat itself is priority-A from the archived taiwancenter.org board roster
+- **2026-09-10 (DEEPEN-X11):** re-check — the two activity reports and the board roster were re-read; no additional vault-internal facts (團體董事 affiliation organization, biography) appear in the current source set
 
 ## Related Pages
 

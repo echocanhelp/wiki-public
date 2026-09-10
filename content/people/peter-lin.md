@@ -28,6 +28,7 @@ last_reviewed: 2026-09-10
 
 - Listed as 個人董事 on the [[organizations/taiwan-center||Taiwan Center]] board (taiwancenter.org/board, archived `taiwancenter-org-board.md`)
 - 2024-11-02 — among the 38 Taiwan Center 董事 who co-hosted the 2024 Annual Gala and Fundraising Banquet at Pacific Palms Resort (keynote: Yih-Chuan Wang, Taiwan Brain Trust), alongside chair 田詒鴻 ([[people/alan-thian||Alan Thian]]) and co-directors 陳柏宇 ([[people/paul-chen||Paul Chen]]), 林榮松 ([[people/simon-lin||Simon Lin]]), 蔡漢成 ([[people/roger-tsai||Roger Tsai]]), 劉玲華 ([[people/linda-liu||Linda Liu]])
+- **2026-09-10** — DEEPEN-X11 pass: page carries the full board-roster and 2024 gala context already on-page; namesake jazz-musician records held separate pending evidence.
 
 ## Possible-namesake records (identity not established)
 

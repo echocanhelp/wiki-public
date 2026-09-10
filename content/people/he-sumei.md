@@ -28,6 +28,7 @@ Per the [[organizations/taiwan-center||Taiwan Center]] course table, He Sumei (�
 
 - **Saturday 15:00–16:00 block:** co-teaches 華文 with [[people/april-lin||April Lin (林淑卿)]] and [[people/shi-yuli||Shi Yuli (施郁麗)]]; the concurrent 合唱 (choir) class is taught by [[people/wang-rongyi||Wang Rongyi (王榮義)]].
 - **Archive coverage:** her course listing sits in the taiwancenter.org Tier-2 web archive (School cluster: about-taiwan-school, class-information) in `knowledge/web-archives/`, indexed via [[sources/taiwancenter-org||taiwancenter.org]]; the school is operated by [[organizations/taiwan-center-foundation-of-greater-los-angeles||Taiwan Center Foundation of Greater Los Angeles]].
+- **2026-09-10 (DEEPEN-X11):** verification re-check — the class table and the Tier-2 archive index remain the vault's only records for her; biography (education beyond "linguistics background", occupation history, family) still unpublished.
 
 ## Source Notes
 

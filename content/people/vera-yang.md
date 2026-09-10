@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-09-08
+last_reviewed: 2026-09-10
 ---
 # Vera Yang (楊悅英)
 
@@ -39,6 +39,7 @@ In [[articles/taiwanjustice-net/2023/20231129212123_root_2635d99f22399c17|Taiwan
 - **November 2024** — [[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66|TJ coverage of the 會館 26th-anniversary gala]] names 楊悅英 among the foundation's directors (article lists **38位董事**).
 - **2026-07-16** — site board archive lists her as **個人董事** (27 named directors on the current site table).
 - **2026-09-08** — page deepened from stub; no unsourced biography added.
+- **2026-09-10** — DEEPEN-X11 re-check: cited board archive, 2023 pageant report, and 2024 gala coverage re-read; no new vault-internal facts; the recorded gaps below remain accurate.
 
 Note the roster-size difference (site: 27 named; TJ 2024: 38 listed) is reported as printed, not reconciled.
 

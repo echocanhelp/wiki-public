@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Shawn Yeh (葉上毅)
 
@@ -38,6 +38,7 @@ The board page's institutional copy (not attributed to Yeh) presents the directo
 - **2026-07-16** — site board archive lists him as **個人董事** (27 named directors on the current site table).
 - **2026-09-08** — page deepened from stub; no unsourced biography added.
 - **2026-09-09** — deepening pass over the cited board archive and 2024 TJ gala coverage: no new vault-internal facts beyond the roster already recorded; deliberately no invented biography added.
+- **2026-09-10** — DEEPEN-X11 re-check: board archive and gala roster re-read; the Yearbook2024 photograph remains the only visual record; no new facts, no invented biography.
 
 The roster-size difference (site: 27 named; TJ 2024: 38 listed) is reported as printed, not reconciled.
 

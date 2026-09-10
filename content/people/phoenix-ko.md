@@ -45,6 +45,7 @@ Private phones and LINE U-ids are **not** published here.
 ## Timeline
 
 - **2025** — Serves as **財務 (Finance)** on the TAHS 2025 organization chart (柯貝昀); owner confirmed LINE display **Phoenix Ko** (2026-08-03).
+- **2026-09-10** — DEEPEN-X11 re-check against [[organizations/taiwanese-american-historical-society||the TAHS 2025 org-chart page]]: cross-links verified both directions; no further vault-internal facts (education, occupation, prior terms absent from the source set).
 
 ## Network
 
