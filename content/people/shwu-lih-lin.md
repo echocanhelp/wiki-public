@@ -49,6 +49,8 @@ Accomplishment
 - Co-founder and former director of the [[organizations/the-great-new-york-region-oversea-taiwanese-pen-club||Greater New York Region Overseas Taiwanese Pen Club]]
 - Former president, NATEA (北美台灣工程師協會) Greater New York Chapter — see [[works/taiwaneseamericanhistory-org/activities-of-natea||Activities of NATEA]] for in-vault NATEA history (chapter page: [[organizations/natea-southern-california||NATEA]]).
 
+Founding detail absorbed from [[works/taiwaneseamericanhistory-org/ourjourneys12||TAH #12, 大紐約區海外台灣人筆會十週年 / 柯金寅 (2014-09)]]: the pen club was initiated by four writing enthusiasts including 林淑麗 and formally founded 2003-11-29, with 蔡榮聦醫師 as first president; the founding convention was held at 佳壇台語教會 and covered by the major Chinese-language papers on the US East Coast. 林淑麗 later translated the club constitution into English at the president's request (revised and expanded 2008 by board member 黃正雅醫師).
+
 Her TAH encyclopedia entries are archived in the vault:
 - [[works/taiwaneseamericanhistory-org/79-ms-sue-lin-e6-9e-97-e6-b7-91-e9-ba-97-the-first-speech-on-becoming-american-t||TAH #79 — first speech on becoming American, Cranbury NJ Woman Club (2002)]]
 - [[works/taiwaneseamericanhistory-org/78-ms-sue-lin-e6-9e-97-e6-b7-91-e9-ba-97-the-first-seminar-of-taiwanese-literatu||TAH #78 — first seminar of Taiwanese literature, English edition (2002)]]
@@ -57,6 +59,7 @@ Her TAH encyclopedia entries are archived in the vault:
 ## Writing (in-vault)
 - Author of two TAH literature entries under the pen name Sue Lin: [[works/taiwaneseamericanhistory-org/63-e6-99-ae-e6-9e-97-e6-96-af-e9-a0-93-e6-95-a3-e8-a8-98-e6-9e-97-e6-b7-91-e9-ba||TAH #63, 普林斯頓散記 (2007-07)]] and [[works/taiwaneseamericanhistory-org/67-nylon-panty-hose-journey-sue-shwu-lih-lin-e5-b0-bc-e9-be-8d-e7-b5-b2-e8-a5-aa||TAH #67, 尼龍絲襪之旅 / Nylon Panty Hose Journey]] — consistent with her pen-club co-founding role and with the 2002 Taiwanese-literature seminar and book-donation entries above.
 - Her Who's Who entry is archived in-vault: [[works/taiwaneseamericanhistory-org/whos-who-7-shwu-lih-lin||TAH Who's Who #7]].
+- Further in-vault writings under her name: [[works/taiwaneseamericanhistory-org/mystories65||TAH #65, My Journey across Two Cultures — the Cranbury Woman's Club talk text]], [[works/taiwaneseamericanhistory-org/my-stories-68||TAH #68, 也是失聲的一代? (2019-09)]] and [[works/taiwaneseamericanhistory-org/50298||TAH #655, 希望小城 (2018-10)]].
 
 ## Organizing (in-vault activity records)
 - Chapter record for her NATEA presidency: [[works/taiwaneseamericanhistory-org/natea-greater-new-york-chapter||NATEA Greater New York Chapter]]; her pen club's own activity record: [[works/taiwaneseamericanhistory-org/activities-of-the-greater-new-york-region-overseas-taiwanese-pen-club||activities of the Greater New York Region Overseas Taiwanese Pen Club]].

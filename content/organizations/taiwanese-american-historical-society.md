@@ -65,6 +65,12 @@ Not on the 2025 paper org chart. Owner-confirmed for public leadership listing (
 - Recorded individual members cross-linked from this page's community include [[people/rex-chen||Rex Chen (陳乃光)]] (member since 2026-06-15, introduced by [[people/leonard-hsu-jr||Leonard Hsu Jr.]]) and [[people/ken-wu||Ken Wu (吳兆峯)]].
 - 2023 TAHS Publication 专访家庭: [[people/xie-qingzhi-xie-poyi||謝清志、謝泊怡]] — interview held at the TAHS office, October 2022（源見 [[sources/2023-tahs-publication||2023 TAHS Publication]]）.
 
+## History & public activity (in-vault records)
+
+- 2016-02-24 — the society is listed in the TAH encyclopedia as 「台美人歷史協會 / Taiwanese American History Society」 with its original site http://www.tahistory.org/ : [[works/taiwaneseamericanhistory-org/3-taiwanese-american-history-society||TAH #3]].
+- 2015-12 — the 「台美人的腳跡」/ Taiwanese American Journey to the West autobiography-collection project is recorded in the vault at [[works/taiwaneseamericanhistory-org/pub-928||TAH #928]] — context for TAHS's memoir-documentation mission.
+- 2023-03-25 — TAHS 舉辦「如何寫回憶錄(自傳)座談會」 at 大洛杉磯台灣會館第五教室; 講員: 國策顧問、前國科會副主委 [[people/xie-qingzhi-xie-poyi||謝清志]]（回憶錄《生命的震動》）, 顧問 [[people/gene-tsai||蔡錦榮 Gene Tsai]]（自傳《我的奮鬥人生及美國夢》）, and 會長 [[people/yang-jia-you||楊嘉猷 Charles Yang]]（《咱的故鄉咱的故事》）— report archived at [[articles/taiwanjustice-net/2023/20230601053743_2023_03_20_台美人歷史協會3-25舉辦_如何寫回憶錄自傳座談會_e0c8343cf2888d43||taiwanjustice.net, 2023-06-01]].
+
 ## Related archives
 - [[organizations/tah-foundation||TAH Foundation (台美史料中心)]] — sibling organization; runs [taiwaneseamericanhistory.org](https://taiwaneseamericanhistory.org/). Not TAHS and not the 2017/2023 TAHS yearbooks（见 [[sources/2023-tahs-publication||2023 TAHS Publication]]）.
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org source hub]]

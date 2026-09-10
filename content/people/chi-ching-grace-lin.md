@@ -40,6 +40,8 @@ _No filled family fields on the TAH profile._
 - 2008 — premiered Andrew Beall's percussion concerto at Lincoln Center with [[organizations/youth-orchestra-cycny||CYCNY 紐約幼獅青少年管弦樂團]]; appears on Beall's solo percussion album *Deliverance*
 - Chamber groups: Talujon Percussion, Tam Dun Percussion, 20th Century Contemporary Ensemble
 - M.S. 打擊演奏 (Percussion Performance), 紐約市立大學 (CUNY)
+- 2014-12-11 — TAH encyclopedia biography published, archived in-vault as [[works/taiwaneseamericanhistory-org/93-chi-ching-grace-lin-e6-9e-97-e5-ad-a3-e9-9d-9c-percussionist||TAH #93, Chi-Ching Grace Lin 林季靜, Percussionist]]
+- 2015-05-10 — updated TAH encyclopedia biography published, archived in-vault as [[works/taiwaneseamericanhistory-org/408-chi-ching-grace-lin-e6-9e-97-e5-ad-a3-e9-9d-9c-201505||TAH #408, Chi-Ching Grace Lin 林季靜]] — both held as community historical record
 
 ## References in vault
 - [[works/taiwaneseamericanhistory-org/408-chi-ching-grace-lin-e6-9e-97-e5-ad-a3-e9-9d-9c-201505||408. Chi-Ching Grace Lin 林季靜 / 2015/05]] — TAH encyclopedia #408
