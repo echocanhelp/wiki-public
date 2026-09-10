@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Will Tiao (刁毓能)
 
@@ -31,6 +31,15 @@ Accomplishment
 - Clinton Administration — Presidential Management Fellow — George W. Bush Administration — International Economist — Formosa Entertainment — Co-Founder — (2010-) — Tiao Properties — Owner — (2012-) — Community — Formosan Association for Public Affairs — Employee — U.S. House of Representatives, Committee on Ways and Means — Legislative Fellow — Senate Foreign Relations Committee (Senator Nancy Kassebaum) — Staffer
 <!-- tah-tables:end -->
 
+## Timeline
+- Studied International Relations at Tufts Univ. (B.A.), then International Affairs at Columbia Univ. (M.A.)
+- Worked in Congress: Legislative Fellow, U.S. House Committee on Ways and Means; Staffer, Senate Foreign Relations Committee (Senator Nancy Kassebaum)
+- Presidential Management Fellow under the Clinton Administration; International Economist under the George W. Bush Administration
+- Employee of the Formosan Association for Public Affairs
+- Writer, actor, and producer of the movie “Formosa Betrayed” (per TAH #40, 2009); starred in and produced the award-winning short films “A Starbucks Story” and “Stan”
+- 2010– Co-Founder, Formosa Entertainment
+- 2012– Owner, Tiao Properties
+
 ## Family
 
 _No filled family fields on the TAH profile._
@@ -44,3 +53,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/whos-who-167-will-tiao||TAH Who's Who #167: Will Tiao 刁毓能]]
+- [[works/taiwaneseamerican-org/introducing-will-tiao||Introducing Will Tiao (2006)]]
