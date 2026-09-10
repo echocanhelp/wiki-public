@@ -26,6 +26,12 @@ last_reviewed: 2026-09-10
 - Serves as a **個人董事 (individual director)** of the [[organizations/taiwan-center||Taiwan Center]], appearing on the published board roster alongside fellow directors such as [[people/alan-thian||Alan Thian (田詒鴻)]], [[people/vera-yang||Vera Yang (楊悅英)]], and [[people/shirley-yu||Shirley Yu (張欣珠)]].
 - Connected to the broader Taiwanese American institutional network through the [[organizations/tah-foundation||TAH Foundation]] Who's Who record.
 
+## Timeline
+
+- **Education** — Major in Illustration (per employment/education tables).
+- **2011–2014** — Art Instructor at an art studio with private teaching (per TAH Who's Who employment record).
+- **Board service** — 個人董事 (individual director) of the [[organizations/taiwan-center||Taiwan Center]].
+
 ## Source Notes and Confidence
 
 - **Content priority A:** Name and role on https://www.taiwancenter.org/board (archived `taiwancenter-org-board.md`)

@@ -43,6 +43,17 @@ Prof. Trong-Rong Tsai 蔡同榮教授 – History of Taiwanese American (T.A. Ar
 - 民間全民電視公司（民視）創辦人；撰文〈民視與我〉（2003/08）— see [[works/taiwaneseamericanhistory-org/623-e6-b0-91-e8-a6-96-e8-88-87-e6-88-91-e8-94-a1-e5-90-8c-e6-a6-ae200308politics|TAH #623]]
 - 立法委員（1993–2012）；曾任職 St. Francis College（1969–1978）與 NYC 市立學院政治系終身教授（1978–1993）
 
+## Timeline
+
+- **1958** — B.S., Law, National Taiwan Univ.
+- **1962** — M.S., Politics, Univ. of Tennessee.
+- **1969** — Ph.D., Politics, Univ. of Southern California; Assistant Professor, St. Francis College (1969–1978).
+- **1970–1971** — First President, World United Formosans for Independence — see also vault page [[organizations/united-formosans-for-independenceufi||United Formosans for Independence UFI (台獨聯盟)]].
+- **1978–1993** — Tenured Professor, Political Department, The City University of New York (St. Francis College).
+- **1993–2012** — Member of the Legislative Yuan (立法委員).
+- **Also** — First President of Formosan Association for Public Affairs (FAPA; its LA chapter: [[organizations/fapa-los-angeles||FAPA-LA]]); Founder of Formosa Television (民視); Founder and Advocator, Association for A Plebiscite in Taiwan.
+- **2014** — Died (era 1935–2014, per Identity Snapshot).
+
 ## Sources
 - [TAH #173 encyclopedia: 173. Prof. Tron-Rong Tsai 蔡同榮教授](https://taiwaneseamericanhistory.org/173-prof-tron-rong-tsai/)
 - [TAH #18 encyclopedia: 18. Prof. Tron-Rong Tsai 蔡同榮教授](https://taiwaneseamericanhistory.org/18-prof-tron-rong-tsai/)

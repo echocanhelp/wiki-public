@@ -43,8 +43,6 @@ Liao was known as a quiet, gentle man whose passion was expressed entirely throu
 
 Liao's creative spirit and artistic vision extended beyond his own work. His son [[people/liao-shu-zong||廖述宗]] described his father's influence as "无形而深远" (formless but profound), stating: "My creativity and discoveries in science came from his imagination and expression in art."
 
-The family also ran a stationery shop called "文藝社" (Wenyi She) at home, which served as a cultural gathering place in their community.
-
 
 ## Network
 

@@ -38,6 +38,14 @@ Acclaimed by critics in the United States and abroad for performances of stunnin
 - **Father:** , Mother:
 
 
+## Timeline
+
+- **Education** — B.S. Music, Cologne Conservatory; M.S. Music, New England Conservatory.
+- **Performance career** — Appeared at the Beethoven Festival in Warsaw (with Christoph Eschenbach), Bach Festival in Leipzig, European Music Festival (Stuttgart), Schleswig-Holstein, Ravinia, Sarasota, Gilmore, Tanglewood, the Celebrity Series in Boston, and the Oregon Bach Festival; venues include the Cologne and Berlin Philharmonic Halls, Schauspielhaus Berlin, and Gewandhaus Leipzig (per on-page biography).
+- **May 2007** — Solo recital at the Ruhr Piano Festival, released on CD by the festival and distributed as a premium by music magazine *Fono Forum*.
+- **Duo work** — Performed with Kim Kashkashian, Robert Levin, Steven Isserlis, and James Buswell — Buswell is husband of [[people/prof-carol-ou||Prof. Carol Ou (歐逸青)]].
+- **Present** — Professor at 波士頓音樂學院; CE piano masterclass director at 新英格蘭音樂學院; pianist, 莫札特音樂院暑期國際大師班.
+
 ## Sources
 - [TAH #693 encyclopedia: 693. Ya-Fei Chuang 莊雅斐 / 2015/11](https://taiwaneseamericanhistory.org/693-ya-fei-chuang-%e8%8e%8a%e9%9b%85%e6%96%90-201511/)
 - [TAH #316 encyclopedia: 316. Ya-Fei Chuang 莊雅斐,  Pianist / 2015/11](https://taiwaneseamericanhistory.org/316-ya-fei-chuang-%e8%8e%8a%e9%9b%85%e6%96%90-pianist/)
