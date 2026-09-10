@@ -53,3 +53,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/379-wei-chin-lin-e6-9e-97-e5-a8-81-e9-9c-87-201504||TAH encyclopedia: 379. Wei-Chin Lin 林威震 (2015/04)]]
+- [[works/taiwaneseamericanhistory-org/186-wei-chen-lin-e6-9e-97-e5-a8-81-e9-9c-87-percussionist-201503||TAH encyclopedia: 186. Wei-Chen Lin 林威震, Percussionist (2015/03)]]
