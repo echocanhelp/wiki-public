@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Susan Shu-Ai Tsai (蔡淑愛)
 
@@ -20,6 +20,13 @@ last_reviewed: 2026-08-17
 - **Source:** TAH Foundation Who’s Who
 
 Pianist Susan Shu-Ai Tsai is the pianist of Good Shepherd Taiwanese Presbyterian Church, Merry Singers Women’s Chorus, Eunice Chou Vocal Studio, and a frequent piano accompanist of the chorale of the Taiwanese Presbyterian Conference.
+
+Alongside her music career she worked in the sciences as a Senior Research Associate in Molecular Biology at the California Institute of Technology (Caltech), and is a member of the Music Teacher Association of California.
+
+## Timeline
+- Born in 嘉義 (Chiayi), Taiwan.
+- Senior Research Associate, Molecular Biology — California Institute of Technology (Caltech).
+- Pianist / accompanist in the Southern California Taiwanese Presbyterian community: [[organizations/good-shepherd-taiwanese-presbyterian-church||Good Shepherd Taiwanese Presbyterian Church]], Merry Singers Women’s Chorus (美聲歌唱協會 采韻女聲合唱團), Eunice Chou Vocal Studio, 綠萍樂坊, and the Taiwanese Presbyterian Conference Chorale and the GSTPC Faith, Hope, Love Chorale.
 
 <!-- tah-tables:start -->
 ## Employment
@@ -38,6 +45,8 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/183-susan-shu-ai-tsai-e8-94-a1-e6-b7-91-e6-84-9b-pianist-201503||TAH encyclopedia #183: Susan Shu-Ai Tsai, Pianist]]
+- [[works/taiwaneseamericanhistory-org/357-susan-shu-ai-tsai||TAH encyclopedia #357: Susan Shu-Ai Tsai]]
 
 ## Network
-- [[organizations/good-shepherd-taiwanese-presbyterian-church||GSTPC]] — TAH Who’s Who
+- [[organizations/good-shepherd-taiwanese-presbyterian-church||GSTPC]] — TAH Who’s Who — Pianist / accompanist, including the Faith, Hope, Love Chorale

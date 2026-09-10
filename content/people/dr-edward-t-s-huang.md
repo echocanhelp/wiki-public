@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Dr. Edward T. S. Huang (黃東昇博士)
 
@@ -20,6 +20,23 @@ last_reviewed: 2026-08-17
 - **Source:** TAH Foundation Who’s Who
 
 Dr. Edward T. S. Huang 黃東昇博士 – History of Taiwanese American (T.A. Archives) 台美史料中心
+
+A chemical engineer born in Tainan in 1936, Dr. Huang built a four-decade career in oil-field and supercritical-fluid research across the United States and Taiwan, and served the Taiwanese American community as President of the North American Taiwanese Professors' Association (NATPA), Coordinator of the Taiwanese American Conference/West Coast, and President of the Taiwanese American Senior Society-East Bay.
+
+## Career & Timeline
+- 1958 — B.S. Chemical Engineering, National Cheng Kung Univ.
+- 1962 — M.S. Chemical Engineering, Univ. of Kansas
+- 1966 — Ph.D. Chemical Engineering, Univ. of Kansas; oil-mining research, Cities Service Oil Company, Tulsa, OK
+- 1969 — Oil-mining research, Gulf R&D Company, Pittsburgh, PA
+- 1979 — Prudhoe Bay Oil Field exploitation, Sohio Petroleum Company, San Francisco
+- 1985 — Oil-mining research, Unocal Company, Brea, CA
+- 1995–2000 — Supercritical fluid technology, National Cheng Kung University, Taiwan
+- 2000–2004 — Drug micronization research, University of Colorado, Boulder, CO
+
+## Community Leadership
+- President — North American Taiwanese Professors' Association (NATPA)
+- Coordinator — [[organizations/the-board-of-taiwanese-american-conferences-west-coast-tac-wc||Taiwanese American Conference/West Coast]]
+- President — [[organizations/tass-eb||Taiwanese American Senior Society-East Bay (TASS-EB)]]
 
 <!-- tah-tables:start -->
 ## Education
@@ -44,3 +61,10 @@ Dr. Edward T. S. Huang 黃東昇博士 – History of Taiwanese American (T.A. A
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/ota-56||TAH encyclopedia #56: Dr. Edward T. S. Huang]]
+- [[works/taiwaneseamericanhistory-org/whos-who-1018-edward-t-s-huang||TAH Who's Who #1018: Dr. Edward T. S. Huang]]
+- [[works/taiwaneseamericanhistory-org/natpa||NATPA (TAH archives)]]
+
+## Network
+- [[organizations/the-board-of-taiwanese-american-conferences-west-coast-tac-wc||TAC/West Coast]] — Coordinator — TAH Who's Who
+- [[organizations/tass-eb||TASS-EB]] — President — TAH Who's Who

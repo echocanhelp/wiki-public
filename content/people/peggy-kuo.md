@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Peggy Kuo (郭佩宇)
 
@@ -16,20 +16,33 @@ last_reviewed: 2026-08-17
 - **Chinese:** 郭佩宇
 - **Era:** --
 - **Geography:** Tainan, Taiwan
-- **Core roles:** lawyer
+- **Core roles:** lawyer, judge
 - **Source:** TAH Foundation Who’s Who
 
-Accomplishment
+## Accomplishment
 1. First Taiwan Born U.S. Judge as the Magistrate Judge for the Eastern District of New York
 
-<!-- tah-tables:start -->
+## Career Notes
+*(absorbed from the page's own TAH tables — no external sourcing)*
+
+Peggy Kuo's career moved through federal prosecution, international criminal law, and administrative adjudication before the bench:
+
+- Assistant District Attorney, U.S. Attorney's Office, District of Columbia (1989–1993)
+- Acting Deputy Chief / Trial Attorney, Criminal Section, U.S. Department of Justice Civil Rights Division (1994–1998)
+- Prosecutor, United Nations International Criminal Tribunal, The Hague (1998–2002)
+- Counsel, WilmerHale, LLP (2002–2005)
+- Chief Hearing Officer, New York Stock Exchange (2005–2011)
+- Deputy Commissioner and General Counsel, New York City Office of Administrative Trials and Hearings (2011–2015)
+- U.S. Magistrate Judge, Eastern District of New York (2015–) — the first Taiwan-born U.S. judge
+
+Community leadership: former President, Federal Bar Council American Inn of Court; former Vice-Chair, Manhattan Legal Services.
+
 ## Education
 - Yale Univ. — 1985 — B.S., Summa Cum Laude
 - Harvard Law School — 1988 — J.D., Cum Laude
 
 ## Employment
 - U.S. Attorney's Office, District of Columbia — Assistant District Attorney — (1989-1993) — Criminal Section, U.S. Department of Justice, Civil Rights Division — Acting Deputy Chief/Trial Attorney — (1994-1998) — United Nations International Criminal Tribunal Court in Hague — Prosecutor — (1998-2002) — WilmerHale, LLP — Counsel — (2002-2005) — New York Stock Exchange — Chief Hearing Officer — (2005-2011) — New York City Office of Administrative Trials and Hearings — Deputy Commissioner and General Counsel — (2011-2015) — Eastern District of New York — U.S. Magistrate Judge — (2015-) — Community — Federal Bar Council American Inn of Court — Former President — Manhattan Legal Services — Former Vice-Chair
-<!-- tah-tables:end -->
 
 ## Family
 
@@ -46,3 +59,4 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[organizations/taiwanese-american-lawyers-association||Taiwanese American Lawyers Association]] — peer TA lawyers' org in the same field
