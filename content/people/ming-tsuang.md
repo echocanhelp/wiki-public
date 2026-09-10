@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Ming Tsuang (莊明哲教授)
 
@@ -35,6 +35,16 @@ last_reviewed: 2026-08-17
 - 美國加州大學總校教授及聖地牙哥分校 — Present — 行為基因體研究所所長
 <!-- tah-tables:end -->
 
+## Timeline
+
+- 1930 — born in 台南市, 台灣
+- 1957 — B.A. 醫科, 台灣大學醫學院
+- 1965 — 精神遺傳學科學博士, 倫敦大學醫學院
+- Professor at 台灣大學醫學院, then 聖路易華盛頓大學, 愛荷華大學, 布朗大學
+- Dean of 精神流行病及精神遺傳研究所, 哈佛大學
+- 1980 — 創會會長 of 台美協進會 (per TAH #161)
+- Present — University of California 總校教授 (University Professor) and Behavioral Genomics Endowed Chair; 所長, 行為基因體研究所, UC San Diego
+
 ## Family
 
 - **Wife:** 柯惠香
@@ -42,7 +52,7 @@ last_reviewed: 2026-08-17
 
 ## Sources
 - [TAH #16 encyclopedia: 16. Prof. Ming Tsuang (莊明哲教授)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-16/)
-- [TAH #82 encyclopedia: 82. Prof. Ming Tsuang 莊明哲教授](https://taiwaneseamericanhistory.org/82-prof-ming-tsuang/)
+- [TAH #82 encyclopedia: 82. Prof. Ming Tsuang 莊明哲教授](https://taiwaneseamericanhistory.org/82-prof-ming-t-tsuang/)
 - [TAH #14 encyclopedia: 14. Prof. Ming T. Tsuang 莊明哲教授](https://taiwaneseamericanhistory.org/pride-prof-ming-t-tsuang/)
 - [TAH #161 encyclopedia: 161. 莊明哲教授 / 台美協進會創會會長 / 1980](https://taiwaneseamericanhistory.org/ff161/)
 - [TAH #398 encyclopedia: 398. Ming Tsuang莊明哲教授 / 2015/05](https://taiwaneseamericanhistory.org/whos-ming-tsuang/)

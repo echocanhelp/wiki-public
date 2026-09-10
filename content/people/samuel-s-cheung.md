@@ -35,6 +35,15 @@ Samuel S. Cheung has performed as an accompanist in recitals at Carnegie Hall, M
 - **Daughter:** ?-
 
 
+## Timeline
+
+- 曼哈坦音樂院（Manhattan School of Music）— 伴奏碩士；紐約大學巴魯克學院 — 行政管理碩士
+- 曾隨大師伴奏 Thomas Grubb，及聲樂家 Uta Graf、Helen Vanni、Cynthia Hoffmann、Ellen Rapp，弦樂家 Erick Friedman、Lillian Fuchs、Francis Tursi、Bernard Greenhouse 受教
+- 應已故鋼琴家 Eugene List 與已故小提琴家 Carroll Glenn 之邀，演出南佛蒙特室內音樂節
+- 於德拉瓦州 Wilmington Grand Opera House 落成開幕音樂會演出
+- 以伴奏家身分登台 Carnegie Hall、Merkin Recital Hall、Avery Fisher Hall（Lincoln Center）、Rice University、UBC Chan Centre、Benaroya Hall（西雅圖）
+- 2015/01、2016/06 兩度入選 [[organizations/tah-foundation|TAH Foundation]] Who's Who（encyclopedia #109、#1120）
+
 ## Sources
 - [TAH #1120 encyclopedia: 1120. Samuel S. Cheung 張詩賢 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1120/)
 - [TAH #109 encyclopedia: 109. Samuel S. Cheung張詩賢,  pianist, Accompanist / 2015/01](https://taiwaneseamericanhistory.org/musician109/)

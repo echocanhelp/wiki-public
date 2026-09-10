@@ -39,6 +39,18 @@ Accomplishment
 - **Son:** John, Paul
 
 
+## Timeline
+
+- 1932 出生，台灣台中
+- 1957 畢業於台南神學院
+- 1962 太平洋神學院（Pacific School of Religion）
+- 1967 舊金山神學院（San Francisco Theological Seminary）；協助建立 [[organizations/formosan-presbyterian-church-in-los-angeles|洛杉磯台教會 FPCLA]]
+- 1967–1971 Fresno Methodist Church 牧師
+- 1973–1985 Methodist Asian Church 事工總監
+- 1985–1991 Berkeley Methodist Church 主任牧師
+- 1991–1999 日本 Tokyo Christian Education 宣教士
+- 2019 逝世；TAH encyclopedia #142 刊紀念專輯《生命的禮讚》
+
 ## Sources
 - [TAH #142 encyclopedia: 142. In Memory of Rev. R. H. Chang, 張瑞雄牧師 生命的禮讚](https://taiwaneseamericanhistory.org/photo-albums-activities-142/)
 - [TAH #2227 encyclopedia: 2227. Rev. R. H. Chang 張瑞雄牧師](https://taiwaneseamericanhistory.org/whos-who-2227-r-h-chang/)

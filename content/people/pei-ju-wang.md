@@ -32,6 +32,16 @@ Pei-Ju was born in Taipei, Taiwan in 1980. After graduated from “Dun-Hwa” mu
 
 _No filled family fields on the TAH profile._
 
+## Timeline
+
+- 1980 出生於台北市
+- 八歲畢業於敦化音樂國小，後續讀南門國中、台灣師大附中（HSNU）
+- 1998 高中畢業後赴美學習西方音樂
+- 佛羅里達國際大學（FIU）學士 — 全額獎學金，師承 Robert Davidavich、Ivan Chan
+- 2000 獲 FIU 協奏曲比賽首獎
+- FIU 碩士（TA 獎學金）；密蘇里大學堪薩斯城分校（UMKC）音樂博士（全額獎學金）
+- 2015/08 入選 [[organizations/tah-foundation|TAH Foundation]] Who's Who（encyclopedia #265、#531）
+
 ## Sources
 - [TAH #531 encyclopedia: 531. Pei-Ju Wang 王培儒 / 2015/08](https://taiwaneseamericanhistory.org/531-pei-ju-wang-%e7%8e%8b%e5%9f%b9%e5%84%92-201508/)
 - [TAH #265 encyclopedia: 265. Pei-Ju Wang 王培儒, Violinist / 2015/08](https://taiwaneseamericanhistory.org/265-pei-ju-wang-%e7%8e%8b%e5%9f%b9%e5%84%92-violinist-201508/)

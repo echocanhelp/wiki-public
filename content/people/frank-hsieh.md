@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 name_en: "Frank Hsieh"
 ---
 # Frank Hsieh (謝長廷)

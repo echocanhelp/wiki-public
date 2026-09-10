@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Paul C. Tsai (蔡正驊)
 
@@ -16,7 +16,7 @@ last_reviewed: 2026-08-17
 - **Chinese:** 蔡正驊
 - **Era:** Birth Place
 - **Geography:** 台灣台北
-- **Core roles:** professor, artist, educator
+- **Core roles:** baritone, professor, artist, educator
 - **Source:** TAH Foundation Who’s Who
 
 Paul C. Tsai is a graduate of Chinese Culture University in Taiwan. He was educated at the Conservatory of Music in Milano, Italy and has been featured soloist in many opera/cantata performances including: The Marriage of Figaro, La Traviata. In 1989, 1990, and 1991, he was invited to join a concert tour in North America. He has performed throughout Taiwan, mainland China, and Hong-Kong. Currently, he is the music director of the Houston Chinese Children’s Choir, Youth Orchestra, and the Houston Chinese Christian Chorus.
@@ -33,6 +33,15 @@ Paul C. Tsai is a graduate of Chinese Culture University in Taiwan. He was educa
 - 文化大學 — 教師
 - 中華福音神學院 — 教師
 <!-- tah-tables:end -->
+
+## Timeline
+- Graduated from 文化大學 (Chinese Culture University), 音樂系 (B.A.).
+- 1983 — earned his performer's diploma (演唱家文憑) at the Conservatory of Music in Milano, Italy.
+- Featured baritone soloist in opera and cantata performances including *The Marriage of Figaro* and *La Traviata*.
+- 1989, 1990, 1991 — invited to join concert tours in North America.
+- Performed throughout Taiwan, mainland China, and Hong Kong.
+- Taught at 台灣浸信會神學院, 台北中華福音神學院, 文化大學, and 中華福音神學院.
+- Currently 拓展部主任兼聖樂教授 at 北美中華福音神學院 (North American Chinese Evangelical Graduate School of Theology), and music director of the Houston Chinese Children's Choir, Houston Chinese Youth Orchestra, and the Houston Chinese Christian Chorus.
 
 ## Family
 

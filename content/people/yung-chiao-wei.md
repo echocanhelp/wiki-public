@@ -34,6 +34,15 @@ last_reviewed: 2026-09-10
 
 _No filled family fields on the TAH profile._
 
+## Timeline
+
+- 出身台灣高雄；早年以鋼琴競賽獲獎，後轉攻低音提琴（Miami Herald 評為「鋼琴家轉低音提琴演奏家」的雙面天才）
+- 伊士曼音樂院（Eastman School of Music）— B.S. 演奏
+- 新英格蘭音樂院 — 碩士
+- Carnegie Hall 獨奏會首演，獲 New York Concert Review 讚譽，與 Gary Karr、Eugene Levinson 並列
+- 現任路易斯安納州立大學音樂系低音提琴教授
+- 2015/05 入選 [[organizations/tah-foundation|TAH Foundation]] Who's Who（encyclopedia #198、#422）
+
 ## Sources
 - [TAH #198 encyclopedia: 198. Yung-Chiao Wei 魏詠蕎, Bassist / 2015/05](https://taiwaneseamericanhistory.org/198-yung-chiao-wei%e9%ad%8f%e8%a9%a0%e8%95%8e-bassist-201505/)
 - [TAH #422 encyclopedia: 422. Yung-Chiao Wei 魏詠蕎 / 2015/05](https://taiwaneseamericanhistory.org/422-yung-chiao-wei-%e9%ad%8f%e8%a9%a0%e8%95%8e-201505/)
