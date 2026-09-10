@@ -9,7 +9,7 @@ tags:
   - 2025-republication
   - foreword-author
 verification_status: published
-last_reviewed: 2026-07-15
+last_reviewed: 2026-09-09
 ---
 # Rev. En Sheng Pan (潘恩盛)
 
@@ -41,7 +41,7 @@ Key themes:
 
 ## Works
 
-**albert-s-lai** has **1** article where they appear in the title and **0** additional articles that mention them in the body.
+Rev. Pan has **1** sourced work where he appears in the title and **0** additional vault articles that mention him in the body.
 
 ### Title Mentions (1 article)
 
@@ -67,18 +67,16 @@ Key themes:
 Pages that link to **en-sheng-pan** (en-sheng-pan):
 
 
-### People (5)
+### People (4)
 
 1. [[people/albert-s-lai|albert-s-lai]]
-2. [[people/albert-s-lai|albert-s-lai]]
-3. [[people/index|index]]
-4. [[people/pinghsi-liu|pinghsi-liu]]
-5. [[people/yunching-yeh-davis|yunching-yeh-davis]]
+2. [[people/index|index]]
+3. [[people/pinghsi-liu|pinghsi-liu]]
+4. [[people/yunching-yeh-davis|yunching-yeh-davis]]
 
-### Organizations (2)
+### Organizations (1)
 
 1. [[organizations/national-taiwanese-presbyterian-council|national-taiwanese-presbyterian-council]]
-2. [[organizations/national-taiwanese-presbyterian-council|national-taiwanese-presbyterian-council]]
 
 ### Sources (1)
 

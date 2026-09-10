@@ -9,7 +9,7 @@ tags:
   - foreword-author
   - 2025-republication
 verification_status: published
-last_reviewed: 2026-09-08
+last_reviewed: 2026-09-09
 ---
 # Dr. Yunching Yeh Davis (葉芸青)
 
@@ -40,7 +40,7 @@ Key themes:
 
 ## Works
 
-**albert-s-lai** has **1** article where they appear in the title and **0** additional articles that mention them in the body.
+Dr. Yeh Davis has **1** sourced work where she appears in the title and **0** additional vault articles that mention her in the body.
 
 ### Title Mentions (1 article)
 
@@ -66,20 +66,18 @@ Key themes:
 Pages that link to **yunching-yeh-davis** (yunching-yeh-davis):
 
 
-### People (7)
+### People (6)
 
 1. [[people/albert-s-lai|albert-s-lai]]
-2. [[people/albert-s-lai|albert-s-lai]]
-3. [[people/ching-fang-chen|ching-fang-chen]]
-4. [[people/en-sheng-pan|en-sheng-pan]]
-5. [[people/index|index]]
-6. [[people/ntpc|ntpc]]
-7. [[people/pinghsi-liu|pinghsi-liu]]
+2. [[people/ching-fang-chen|ching-fang-chen]]
+3. [[people/en-sheng-pan|en-sheng-pan]]
+4. [[people/index|index]]
+5. [[people/ntpc|ntpc]]
+6. [[people/pinghsi-liu|pinghsi-liu]]
 
-### Organizations (2)
+### Organizations (1)
 
 1. [[organizations/national-taiwanese-presbyterian-council|national-taiwanese-presbyterian-council]]
-2. [[organizations/national-taiwanese-presbyterian-council|national-taiwanese-presbyterian-council]]
 
 ### Sources (1)
 
@@ -100,6 +98,7 @@ Pages that link to **yunching-yeh-davis** (yunching-yeh-davis):
 - [[organizations/national-taiwanese-presbyterian-council||National Taiwanese Presbyterian Council (NTPC)]]
 - [[people/albert-s-lai||Dr. Albert S. Lai (賴信雄)]]
 - [[organizations/formosan-presbyterian-church-in-los-angeles||Formosan Presbyterian Church in Los Angeles (FPCLA)]]
+- [[people/pinghsi-liu||Rev. Pinghsi Liu (劉炳熹)]]
 - [[people/ching-fang-chen||Rev. Ching Fang Chen (陳清芳)]]
 - [[people/en-sheng-pan||Rev. En Sheng Pan (潘恩盛)]]
 - [[people/mingyuan-hsu||Rev. Mingyuan Hsu (許明遠)]]

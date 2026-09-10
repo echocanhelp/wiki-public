@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-09-08
+last_reviewed: 2026-09-09
 ---
 # Shawn Yeh (葉上毅)
 
@@ -36,6 +36,7 @@ The board page's institutional copy (not attributed to Yeh) presents the directo
 - **November 2024** — [[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66|TJ coverage of the 會館 26th-anniversary gala]] lists 葉上毅 among the foundation's directors (article: **共計38位董事**).
 - **2026-07-16** — site board archive lists him as **個人董事** (27 named directors on the current site table).
 - **2026-09-08** — page deepened from stub; no unsourced biography added.
+- **2026-09-09** — deepening pass over the cited board archive and 2024 TJ gala coverage: no new vault-internal facts beyond the roster already recorded; deliberately no invented biography added.
 
 The roster-size difference (site: 27 named; TJ 2024: 38 listed) is reported as printed, not reconciled.
 

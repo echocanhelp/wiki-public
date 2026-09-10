@@ -8,7 +8,7 @@ tags:
   - hotelier
   - farmer
 verification_status: pending
-last_reviewed: 2026-09-08
+last_reviewed: 2026-09-09
 ---
 # 陳文學 (Chen Wenxue)
 
@@ -21,13 +21,13 @@ last_reviewed: 2026-09-08
 
 ## Overview
 
-**Chen Wenxue** (陳文學) is a Taiwanese American who built a dual career in hospitality and agriculture. After establishing a successful hotel business in Southern California, he expanded into almond farming in California's Central Valley, becoming an advocate for sustainable agriculture and community health.
+**Chen Wenxue** (陳文學) is a Taiwanese American who built a dual career in hospitality and agriculture. His profile was recorded through a [[organizations/taiwanese-american-historical-society||TAHS]] interview (「陳文學先生接受台美人歷史協會專訪」), published in the 2023 TAHS publication's 台美人菁英錄 第二輯 series. After establishing a successful hotel business in Southern California, he expanded into almond farming in California's Central Valley, becoming an advocate for sustainable agriculture and community health.
 
 ### Early Life & Education
-1. Born in Tainan County (now Tainan City), raised in a farming family with five brothers in the Shihun area.
-2. His father, Chen Zhangpei, was a skilled plasterer whose business flourished during Taiwan's early economic development; his father opposed Chen entering farming, believing one child should leave the countryside.
+1. Born in Xuejia, Tainan County (now Tainan City), raised in a farming family with five brothers in the Shihun area. The family's roughly one-jia plot was divided into nine shares at inheritance — a smallholder economy he later contrasted with the large-scale agriculture he found in the United States. The clan traces its ancestry to settlers who migrated from Zhangzhou, Fujian. He moved to Fengshan during high school.
+2. His father, Chen Zhangpei, was a skilled plasterer whose business flourished during Taiwan's early economic development and later expanded into a company registered in Taipei with its factory in Daxi; his father opposed Chen entering farming, believing one child should leave the countryside.
 3. Graduated from Tainan First High School in 1956; his father's connections in construction helped him gain practical experience in civil engineering and construction.
-4. In 1972, moved to the United States with the help of a National Trade Council introduction letter from Minister Xiao Wanchang, who encouraged Taiwanese entrepreneurs to expand internationally.
+4. In 1972, moved to the United States with the help of a National Trade Council introduction letter from Minister Xiao Wanchang, who encouraged Taiwanese entrepreneurs to expand internationally. In 1979 he again used a National Trade Council (國貿局) introduction letter to tour Central and South America before committing to the hotel business that year.
 
 ## Career / Legacy
 
@@ -61,6 +61,7 @@ last_reviewed: 2026-09-08
 ## Source Notes and Confidence
 - **Content priority A:** 2023 TAHS Publication (profile, "奠基‧傳承" section, ~2720 lines)
 - **Hub:** [[sources/2023-tahs-publication||2023 TAHS Publication]]
+- The profile is part of the 台美人菁英錄 第二輯 (Taiwan-American Elite Records, second series) block of the 2023 publication; the early-life and farm-comparison facts above were absorbed from that section dump.
 - **Archive:** Section dump at `knowledge/research/tahs-2023-section-dumps/ye-siya-zhang-xinhui-xu-zongbang-li-mutong-chen-wenxue-wang-kexiong-...txt` (lines 2159–2449)
 - Layout-limited extraction; not a full translation
 
