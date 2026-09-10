@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Melvin Chen (陳意超)
 
@@ -29,6 +29,15 @@ A native of Tennessee, pianist Melvin Chen 陳意超 has received acclaim for pe
 - Bard College Conservatory of Music — Piano Faculty and Associate Director — Hotchkiss Summer Portals — Artistic Director, Chamber Music Program — Yale School of Music — Associate Professor (Adjunct) of Piano, Deputy Dean, and Director of the Yale Summer School of Music/Norfolk Chamber Music Festival — (2012-)
 <!-- tah-tables:end -->
 
+## Timeline
+- — B.S., Chemistry and Physics, Yale University
+- — Double master's degree, Piano and Violin, The Juilliard School
+- — Doctorate in Chemistry, Harvard University
+- — Soloist and chamber musician: Carnegie Hall, Alice Tully Hall, Merkin Concert Hall, Weill Recital Hall, Kennedy Center, Jordan Hall (Boston); appearances across the U.S., Canada, and Asia
+- — Piano Faculty and Associate Director, Bard College Conservatory of Music
+- — Artistic Director, Chamber Music Program, Hotchkiss Summer Portals
+- 2012– — Yale School of Music: Associate Professor (Adjunct) of Piano, Deputy Dean, and Director of the Yale Summer School of Music/Norfolk Chamber Music Festival
+
 ## Family
 
 _No filled family fields on the TAH profile._
@@ -40,3 +49,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[organizations/taiwanese-american-society-at-yale||Taiwanese American Society at Yale]]

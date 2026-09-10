@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Esther Shieh (謝逸詩)
 
@@ -23,13 +23,20 @@ last_reviewed: 2026-08-17
 
 <!-- tah-tables:start -->
 ## Education
-- 紐約州羅徹斯特大學伊士曼音樂學院 — 2011 — B.S. 音樂系
+- 紐約州羅徹斯特大學伊士曼音樂學院 — 2011 — B.S. 音樂系
 - 曼哈頓音樂學院 — 2012 — M.S. 音樂系
 
 ## Employment
 - Ross Stores, Inc. — Present — Senior Assistant Buyer
 - Manhattan School of Music/Precollege — 2011-2012 — Opera Workshop Assistant and Accompanist
 <!-- tah-tables:end -->
+
+## Timeline
+- — Attended Eastman School of Music (University of Rochester, New York) on scholarship; earned Associateship-level credentials: ARCT (highest-honors artist's diploma, Royal Conservatory of Music, Toronto), FLCM and LLCM (London College of Music)
+- 2011 — B.S., Music, Eastman School of Music (紐約州羅徹斯特大學伊士曼音樂學院)
+- 2011–2012 — Opera Workshop Assistant and Accompanist, Manhattan School of Music/Precollege
+- 2012 — M.S., Music, Manhattan School of Music (曼哈頓音樂學院)
+- Present — Senior Assistant Buyer, Ross Stores, Inc.
 
 ## Family
 

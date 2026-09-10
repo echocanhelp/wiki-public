@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Prof. C.-T. James Huang (黃正德教授)
 
@@ -30,6 +30,17 @@ Prof. C.-T. (James) Huang 黃正德教授 – History of Taiwanese American (T.A
 - University of Hawaii, Honolulu — Assistant Professor of Chinese — (1982-1983) — National Tsing Hua University (清華大學) — Associate Professor of Linguistics — (1983-1985) — Cornell University — Assistant Professor of Linguistics (1985-1988); Associate Professor (1988-1991) — (1985-1991) — University of California, Irvine — Professor of Linguistics; Dept. Chair (1994-99; 2000-2001); UCI Chancellor's Professor (2000-2002) — (1989-2002) — Harvard University — Professor of Linguistics; Director of Graduate Studies (2002-present); Acting Chair (2006) — (2001-)
 <!-- tah-tables:end -->
 
+## Timeline
+- 1971 — B.A., Liberal Arts, National Taiwan Normal University (臺灣師範大學)
+- 1974 — M.A., Liberal Arts, National Taiwan Normal University
+- 1982 — Ph.D., Linguistics, Massachusetts Institute of Technology
+- 1982–1983 — Assistant Professor of Chinese, University of Hawaii, Honolulu
+- 1983–1985 — Associate Professor of Linguistics, National Tsing Hua University (清華大學)
+- 1985–1988 — Assistant Professor of Linguistics, Cornell University
+- 1988–1991 — Associate Professor of Linguistics, Cornell University
+- 1989–2002 — Professor of Linguistics, University of California, Irvine; Department Chair 1994–1999 and 2000–2001; UCI Chancellor's Professor 2000–2002
+- 2001– — Professor of Linguistics, Harvard University; Director of Graduate Studies from 2002; Acting Chair 2006
+
 ## Family
 
 _No filled family fields on the TAH profile._
@@ -41,3 +52,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[organizations/association-of-taiwanese-students-at-mit||Association of Taiwanese Students at MIT]]
+- [[organizations/cornell-taiwanese-student-association||Cornell Taiwanese Student Association]]
+- [[organizations/taiwanese-student-association-at-uc-irvine||Taiwanese Student Association at UC Irvine]]
+- [[organizations/harvard-taiwanese-cultural-society||Harvard Taiwanese Cultural Society]]

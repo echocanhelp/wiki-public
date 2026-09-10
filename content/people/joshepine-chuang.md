@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Joshepine Chuang (莊靜怡)
 
@@ -33,6 +33,14 @@ Joshepine Chuang is a graduate of Fu-Jen Catholic University in Taiwan, majoring
 - 智慧中文學校
 <!-- tah-tables:end -->
 
+## Timeline
+- Since high school — Vocal study under Professor C. Kim and Professor Y.C. Lin
+- Fu-Jen Catholic University (輔仁大學) — B.A., Vocal, minor in Piano
+- 1993 — Master's degree in education, USC (南加大)
+- — Featured soloist with several chorales in Los Angeles
+- — Music teacher, 恩惠兒童合唱團 and 北橙縣兒童合唱團 (Grace Taiwanese Presbyterian Church children's choir, North Orange County)
+- — Music teacher, 南灣台美學校 (Taiwanese American School in South Bay); 智慧中文學校
+
 ## Family
 
 _No filled family fields on the TAH profile._
@@ -45,3 +53,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/grace-taiwanese-presbyterian-church||Grace Taiwanese Presbyterian Church]]

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Dr. Jack J. Chen (陳宏傑教授)
 
@@ -37,7 +37,7 @@ last_reviewed: 2026-08-17
 - **Wife:** Gina
 - **Daughter:** Faith, Sophia
 - **Father:** Jeff Chen (陳哲夫)
-- **Mother:** Julie H. Chen (許春惠)
+- **Mother:** [[people/julie-chen||Julie H. Chen 許春惠]] — TAH 紀錄：1941 年生、台南市、國立臺灣師範大學家政系、企業家；詳見該頁
 
 
 ## Sources

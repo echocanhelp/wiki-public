@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Chien-An Chen (陳建安)
 
@@ -32,6 +32,15 @@ A native of Taiwan, Chien-an Chen began cello lessons at the age of seven. His t
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Timeline
+
+- 7 歲 — 開始學習大提琴，因才華受邀為時任總統蔣中正演出（本頁敘述文字記載）
+- 12 歲 — 移居日本，隨 Hideo Saito 與 Juro Aoki 就讀日本桐朋音樂大學（大提琴演奏）
+- 其後 — Peabody Institute（Johns Hopkins University）隨 Stephen Kates；Shepherd School of Music（Rice University）隨 Shirley Trepel；University of Southern California 隨 Gabor Rejto
+- 另曾隨 Mstislav Rostropovich、Janos Starker、Lynn Harrell、Zara Nelsova、Laszlo Varga 學習
+- 1986 — University of Southern California 助教
+- 2000 — 交通大學音樂研究所
 
 ## Sources
 - [TAH #86 encyclopedia: 86. Chien-An Chen 陳建安, Cellist/2014/12](https://taiwaneseamericanhistory.org/musician86/)
