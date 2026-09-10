@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Kuo Chang Chen (陳國昌)
 
@@ -46,6 +46,11 @@ Accomplishment
 - President, Formosa Student Association of the University of Kansas — 1979.
 - Owns and leads KC Chen CPA Firm since 1991 (previously staff accountant at Solomon & Ross, CPAs, 1984–1991).
 - Son: [[people/tong-liang-larry-chen||陳東亮 (Tong-Liang Larry Chen)]].
+
+## Connected in the Vault
+- President of [[organizations/taiwanese-american-cpa-association-tacpa||TACPA (台美會計師協會)]] 2019–2020; the association's own vault page records its founding in 1992 in Los Angeles by Charles Chiang and its cross-state tax-forum mission.
+- Kansas years (Univ. of Kansas M.A. 1980; president, Formosa Student Association of the University of Kansas, 1979): the vault separately records the [[organizations/taiwanese-association-of-greater-kansas-city-takc||Taiwanese Association of Greater Kansas City (TAKC)]]; no personal membership in TAKC is documented.
+- Wife 林芳慧 and daughter 陳安玲 are named in the TAH family record; neither has a vault page yet. Son: [[people/tong-liang-larry-chen||陳東亮 (Tong-Liang Larry Chen)]].
 
 ## Sources
 - [TAH #249 encyclopedia: 249. Kuo Chang Chen 陳國昌](https://taiwaneseamericanhistory.org/ota-249/)

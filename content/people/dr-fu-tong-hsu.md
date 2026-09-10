@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Dr. Fu-Tong Hsu (徐福棟博士)
 
@@ -44,6 +44,11 @@ last_reviewed: 2026-09-09
 - **Wife:** [[people/yunn-mei-lin||林詠梅]]
 - **Son:** Eric
 
+
+## Connected in the Vault
+- Timeline assembled from his own vault record: NTU B.S. Civil Eng. 1959 → Univ. of Oklahoma M.S. 1961–1962 → first president, TAA/New York → Case Institute of Technology M.S. 1968 → assistant professor, Wayne State University (1970–) → Kansas State Univ. Ph.D. Industrial Eng./Management Science 1971 → senior management consultant, Union Carbide Corp. (1973–) → White House economic advisor for President Clinton (1994–1996) → vice president, Changjung Christian University (1996–2002) → chairman, Lin Mao-sheng Cultural Foundation (1997–) → president, Vision Youth Action Network (2003–2009).
+- As organizer/founder of the Board of the Taiwanese American Conference/East Coast he mirrors the West Coast board held in the vault: [[organizations/the-board-of-taiwanese-american-conferences-west-coast-tac-wc||Board of Taiwanese American Conferences, West Coast (TAC/WC)]].
+- Wife [[people/yunn-mei-lin||林詠梅 (Yunn-Mei Lin)]]'s own vault page lists her as an NTU 外文 graduate and lists him as 徐福棟; son Eric is named in both records but has no page yet.
 
 ## Sources
 - [TAH #251 encyclopedia: 251. Dr. Fu-Tong Hsu 徐福棟博士](https://taiwaneseamericanhistory.org/ota-251/)

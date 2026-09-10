@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Dr. Y. C. Simon Liu (劉耀經博士)
 
@@ -43,6 +43,12 @@ Dr. Y. C. (Simon) Liu 劉耀經博士 – History of Taiwanese American (T.A. Ar
 - Five degrees spanning mathematics, computing, and administration: Chung Yuan Christian Univ. (B.S. Mathematics), Indiana Univ. (M.S. Computer), Johns Hopkins Univ. (M.S. Government Administration), Univ. of Maryland (M.S. Corporate Management), Univ. of Washington (Ph.D. Computer Science & Higher Education).
 - Community: Coordinator, Taiwanese American Conference, East Coast (2007); President, Greater Washington DC Chapter, North American Taiwanese Professors' Association.
 - His life record is held by 台美史料中心 (T.A. Archives), per the TAH encyclopedia entry cited above.
+
+## Connected in the Vault
+- His presidency of the Greater Washington DC chapter sits under the North American Taiwanese Professors' Association; the vault's NATPA record is its Southern California chapter page: [[organizations/north-america-taiwanese-professors-sc||北美洲台灣人教授協會南加分會]].
+- The Taiwanese American Conference/East Coast he coordinated in 2007 is the East Coast counterpart of the conference board held in the vault: [[organizations/the-board-of-taiwanese-american-conferences-west-coast-tac-wc||Board of Taiwanese American Conferences, West Coast (TAC/WC)]].
+- The vault holds pages for Taiwanese student associations at three of his graduate campuses — [[organizations/johns-hopkins-university-taiwanese-student-association||JHU]], [[organizations/university-of-maryland-taiwanese-student-association||Maryland]], and [[organizations/taiwanese-overseas-student-association-at-the-university-of-washington||Washington]] — but records no personal involvement with any of them.
+- Wife 柯淑靜 is named in the TAH family record; no vault page yet.
 
 ## Sources
 - [TAH #250 encyclopedia: 250. Dr. Y. C. Simon Liu 劉耀經博士](https://taiwaneseamericanhistory.org/ota-250/)
