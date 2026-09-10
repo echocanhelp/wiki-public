@@ -2,9 +2,9 @@
 title: "Willy Pan (潘建宇)"
 type: person
 tags:
-  - 
+  - person
 verification_status: pending
-last_reviewed: 2026-08-30
+last_reviewed: 2026-09-10
 ---
 # Willy Pan (潘建宇)
 
@@ -14,6 +14,7 @@ last_reviewed: 2026-08-30
 - Era: Contemporary
 - Geography: United States
 - Core roles: Community member, historical society participant
+- Board service: 董事 (board director) of the [[organizations/taiwan-center||大洛杉磯台灣會館 / Taiwan Center Foundation of Greater Los Angeles]] — listed among the 38 directors in the 2024-10-04 Taiwan Justice report on the 26th-anniversary annual dinner & fundraising gala
 
 ## Historical Context
 Willy Pan is recognized as a member of the Taiwanese American historical and community network.
@@ -21,6 +22,7 @@ Willy Pan is recognized as a member of the Taiwanese American historical and com
 ## Contributions and Legacy
 1. Active participation in Taiwanese American community activities
 2. Engagement with historical preservation efforts
+3. Board director (董事), Taiwan Center Foundation of Greater Los Angeles (per 2024 gala reporting)
 
 
 ## Works
@@ -41,7 +43,7 @@ Chronological events for **潘建宇**:
 
 ### 2024 (1 events)
 
-- **2024-10-04** 📰 2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2日舉行
+- **2024-10-04** 📰 2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2日舉行 — listed among 38 board directors (董事) of Taiwan Center Foundation of Greater Los Angeles
 
 ## Quotes
 
@@ -63,13 +65,15 @@ Notable quotes and mentions of **潘建宇** in Taiwan Justice articles:
 
 ## Taiwan Justice (台灣公義網) Citations
 
-- **2024-10-04** — *2024大洛杉磮台灣會館第26周年年會晚宴暨募款活動11月2日舉行* (score 690)
-  - Article: [articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磮台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66.html](https://echocanhelp.github.io/wiki-public/articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磮台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66.html)
+- **2024-10-04** — *2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2日舉行* (score 690)
+  - Article: [articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66.html](https://echocanhelp.github.io/wiki-public/articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66.html)
   - Role: Listed as board director (董事) of Taiwan Center; listed among 38 directors for the 2024 fundraising gala.
   - Publisher: Freeman Huang (黃樹人); categories: `usa`, `taiwaneseamerican`, `taiwan-center`
-  - Live URL: [2024台灣會館26周年晚宴](https://echocanhelp.github.io/wiki-public/articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磮台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66.html)
+  - Live URL: [2024台灣會館26周年晚宴](https://echocanhelp.github.io/wiki-public/articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66.html)
 
 ## Related Pages
+- [[organizations/taiwan-center||大洛杉磯台灣會館 / Taiwan Center]]
+- [[sources/taiwanjustice-net||taiwanjustice.net]]
 - [[people/index||People Index]]
 
 ## LINE
@@ -77,4 +81,3 @@ Notable quotes and mentions of **潘建宇** in Taiwan Justice articles:
 - LINE displayName: `Will`
 - Preferred English spelling: **Willy Pan**
 - Chinese: 潘建宇
-

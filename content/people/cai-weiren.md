@@ -10,7 +10,7 @@ tags:
   - TPC
   - Presbyterian
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Rev. Tsai Weiren (蔡維仁)
 
@@ -44,29 +44,17 @@ Essay headings he used: 高舉基督福音；分享豐盛生命；教導全備�
 
 ## Network
 
-Pages that link to **cai-weiren** (cai-weiren):
+Pages that link to **cai-weiren**:
 
-
-### People (2)
-
-1. [[people/index|index]]
-2. [[people/index|index]]
-
-### Organizations (2)
-
-1. [[organizations/good-shepherd-taiwanese-presbyterian-church|good-shepherd-taiwanese-presbyterian-church]]
-2. [[organizations/index|index]]
-
-### Sources (1)
-
-1. [[sources/irvine-taiwanese-presbyterian-church|irvine-taiwanese-presbyterian-church]]
+- [[people/david-huang|黃德利]] — GSTPC40 co-contributor, names Cai among the first seven youth counselors
+- [[organizations/good-shepherd-taiwanese-presbyterian-church|GSTPC]] — home congregation, 第二任牧師
+- [[sources/irvine-taiwanese-presbyterian-church|Irvine Taiwanese Presbyterian Church]] — linked in source records
 
 ## Related Pages
 
-- [[organizations/good-shepherd-taiwanese-presbyterian-church]]]]
-- [[people/index]]]]
-- [[organizations/index]]]]
-- [[sources/irvine-taiwanese-presbyterian-church]]]]
+- [[organizations/good-shepherd-taiwanese-presbyterian-church||GSTPC]]
+- [[people/david-huang||黃德利]]
+- [[sources/irvine-taiwanese-presbyterian-church||Irvine Taiwanese Presbyterian Church]]
 
 ## Sources
 1. GSTPC40「數算恩典邁步前行」([ebook](https://gstpc.org/home/gstpc40/ebook/))
