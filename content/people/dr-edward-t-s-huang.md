@@ -34,7 +34,7 @@ A chemical engineer born in Tainan in 1936, Dr. Huang built a four-decade career
 - 2000–2004 — Drug micronization research, University of Colorado, Boulder, CO
 
 ## Community Leadership
-- President — North American Taiwanese Professors' Association (NATPA)
+- President — [[works/taiwaneseamericanhistory-org/natpa|North American Taiwanese Professors' Association (NATPA)]]
 - Coordinator — [[organizations/the-board-of-taiwanese-american-conferences-west-coast-tac-wc||Taiwanese American Conference/West Coast]]
 - President — [[organizations/tass-eb||Taiwanese American Senior Society-East Bay (TASS-EB)]]
 
