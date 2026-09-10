@@ -31,6 +31,20 @@ last_reviewed: 2026-09-10
 - Oklahoma市交響樂團 — Present — 首席小提琴
 <!-- tah-tables:end -->
 
+## Timeline
+
+Chronology absorbed from the TAH profile biography above (no external sources):
+
+- **Birth** — Born in Sydney (雪梨), Australia; also known as Dr. Gregory Lee
+- **Age 11** — Entered the junior stream of the Queensland Conservatorium, majoring in violin under Kerry Smith
+- **Age 16** — Entered the university division under Carmel Kaine; two years later moved to New York's Julliard School (B.S. Violin)
+- **1997–2000** — Repeatedly invited as concertmaster: Ann Arbor Opera, McComb Symphony, Aspen Sinfonia, Lansing Symphony, Queensland Conservatorium Soloists
+- **2000** — Second violin principal, Schleswig-Holstein Orchestra (Germany); toured German and Dutch cities; also invited into the Australian Chamber Orchestra for a five-city Australian tour
+- **2001** — Honour prize, Michael Hill International Violin Competition (also Geelong Advertiser first prize, two University of Michigan concerto competition first prizes, Gertrude Langer chamber-music first prize)
+- **2002** — Ph.D. Violin, University of Michigan
+- **2002–2004** — California period: regular engagements with LA Opera, Pacific Symphony Orchestra, Long Beach Symphony Orchestra; film-music work for Fox, Sony, Warner Bros, Paramount
+- **Present** — Assistant professor of violin, University of Oklahoma; concertmaster, Oklahoma City Symphony
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Huai Shion Tsai (蔡蕙香)
 
@@ -20,6 +20,16 @@ last_reviewed: 2026-08-17
 - **Source:** TAH Foundation Who’s Who
 
 Huai-Shion Tsai was born in Tainan, Taiwan in 1947. She graduated from the National Taiwan Academy of Arts in 1968. She also studied Fine Arts at the University of California at Irvine. Huai-Shion has had numerous solo exhibitions, including exhibitions at the Taipei Fine Art Museum, Taiwan Museum of Art, J. P. Art Center, American Cultural Center and Tainan Cultural Center. Her paintings have also been shown in numerous group exhibitions in the United States, Japan and Taiwan.
+
+## Career & Exhibitions
+- Trained in the Fine Arts (美工科) program at 台灣國立藝專 (National Taiwan Academy of Arts), graduating 1968; later studied Fine Arts at the University of California, Irvine (1984) and at Irvine Valley College.
+- Working artist since 1983.
+- Solo exhibitions include the Taipei Fine Art Museum, Taiwan Museum of Art, J. P. Art Center, American Cultural Center, and Tainan Cultural Center.
+- Group exhibitions in the United States, Japan, and Taiwan.
+
+## Network
+- **Spouse:** [[people/henty-chen||陳華山 Henty Chen]] — fellow TAH Who's Who figure; they raised four sons (Jack, Steve, Mike, Jimmy).
+- Exhibited within the Southern California / Taiwan artist networks documented across TAH encyclopedia entries #19, #163, #164, and #460.
 
 <!-- tah-tables:start -->
 ## Education

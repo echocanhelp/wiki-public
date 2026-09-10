@@ -49,6 +49,22 @@ Absorbed from the TAH profile above:
 - [[works/taiwaneseamericanhistory-org/mystories199||199. 迷失在競爭學路上 Got Lost in Competitive Schooling (2015)]] — education critique from his counseling background.
 - [[works/taiwaneseamericanhistory-org/on-my-ten-year-span-of-teaching-in-taiwan||18. 林天德教授返台任教 (1989)]] — covers his return to teach in Taiwan, matching the 1989–1990 teachers-college posts above.
 
+## Timeline
+
+Chronology absorbed from the TAH profile and tah-tables above (no external sources):
+
+- **1939** — Born in Pingtung, Taiwan
+- **1962** — B.S. Education, National Normal Univ.
+- **1966** — M.S. Guidance, Northeast State Univ. of Missouri
+- **1970** — Ph.D. Counseling Psychology, UCLA
+- **1971–** — Assistant professor, Miami Dade Junior College, FL
+- **1973–1989** — Research director and clinical psychologist, South Carolina Dept. of Mental Health
+- **1989–** — Guest associate, Dept. of Elementary Education, Tainan Teachers College — his return to teach in Taiwan is covered in [[works/taiwaneseamericanhistory-org/on-my-ten-year-span-of-teaching-in-taiwan||18. 林天德教授返台任教 (1989)]]
+- **1990–** — Guest associate, Dept. of Elementary Education, Taipei City Teachers College
+- **1991–2000** — Adjunct associate professor, National Chengchi Univ. Institute of Education; essay [[works/taiwaneseamericanhistory-org/publications438||438. 台灣人, 別再隨緣認命 (1994)]] falls in this period
+- **2001–** — Psychologist and director, [[organizations/east-bay-taiwanese-americans-community-service-center-ebtacsc||EBTACSC]] (center founded 2002)
+- Originator of the East Bay Taiwanese Americans Community Garden Club
+
 ## Family
 
 - **Wife:** 平井征子
