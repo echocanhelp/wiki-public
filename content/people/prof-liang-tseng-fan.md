@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Prof. Liang-Tseng Fan (范良政教授)
 
@@ -37,6 +37,12 @@ Prof. Liang-Tseng Fan 范良政教授 – History of Taiwanese American (T.A. Ar
 - **Daughter:** Judith Fan
 - **Son:** Tso Yee Fan
 
+
+## Connected in the Vault（deepen pass 2026-09-10）
+
+- 本頁三篇 TAH 傳記之 vault 內出處頁：[[works/taiwaneseamericanhistory-org/senior-taiwanese-american-22||TAH #22 范良政教授]]、[[works/taiwaneseamericanhistory-org/whos-who-59-liang-tseng-fan||TAH #59 范良政教授]]、[[works/taiwaneseamericanhistory-org/130-prof-liang-tseng-fan||TAH #130 范良政教授]]。
+- 子 Tso Yee Fan 見 [[people/dr-tso-yee-fan||Dr. Tso-Yee Fan 范佐怡博士]]（工程師、科學家）。
+- 指導师生关系：陳希寬回憶錄 [[works/taiwaneseamericanhistory-org/ourjourneys33||TAH #33 一家人做伙來打拼]]（張炎憲，2014）記其 1964 年入堪薩斯州立大學、由范良政教授指導。
 
 ## Sources
 - [TAH #22 encyclopedia: 22. Prof. Liang-tseng Fan (范良政教授)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-22/)

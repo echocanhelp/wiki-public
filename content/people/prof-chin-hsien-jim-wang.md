@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Prof. Chin-Hsien Jim Wang (王進賢教授)
 
@@ -37,6 +37,12 @@ Prof. Chin-Hsien (Jim) Wang 王進賢教授 – History of Taiwanese American (T
 - **Daughter:** Nancy, Jeanny, Elaine
 - **Son:** Wilson
 
+
+## Connected in the Vault（deepen pass 2026-09-10）
+
+- 本頁兩篇 TAH 傳記之 vault 內出處頁：[[works/taiwaneseamericanhistory-org/ota-244||TAH #244 王進賢教授]]、[[works/taiwaneseamericanhistory-org/whos-who-418-chin-hsien-wang||TAH #418 王進賢教授]]。
+- 其任 TAC-WC 協調人之會史見 [[works/taiwaneseamericanhistory-org/ourjourneys352||TAH #352 TAC-WC 會史]]（黃東昇，2020）；總組織頁 [[organizations/the-board-of-taiwanese-american-conferences-west-coast-tac-wc||TAC-WC]]。
+- 家庭連結：妻子 [[people/lirong-wang||黃麗蓉]] 有頁。
 
 ## Sources
 - [TAH #244 encyclopedia: 244. Prof. Chin-Hsien (Jim) Wang 王進賢教授](https://taiwaneseamericanhistory.org/ota-244/)

@@ -52,6 +52,12 @@ last_reviewed: 2026-09-10
 - **Son:** 楊元平
 
 
+## Connected in the Vault（deepen pass 2026-09-10）
+
+- 本頁 TAH 傳記之 vault 內出處頁：[[works/taiwaneseamericanhistory-org/104-dr-ding-i-yang-e6-a5-8a-e5-ae-9a-e4-b8-80-e5-8d-9a-e5-a3-ab-youngest-ph-d-ho||TAH #104 年21獲洛克菲勒大學生化博士]]、[[works/taiwaneseamericanhistory-org/105-dr-ding-i-yang-e6-a5-8a-e5-ae-9a-e4-b8-80-e5-8d-9a-e5-a3-ab-the-youngest-cha||TAH #105 年27出任該校史上最年輕講座主任]]。
+- 其著作《真原醫—21世紀最完整的預防醫學》（2012）見 [[works/taiwaneseamericanhistory-org/421-primordia-medicine||TAH #421 真原醫]]。
+- 出版者／語料庫：[[organizations/tah-foundation||TAH Foundation]]、[[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]。
+
 ## Sources
 - [TAH #105 encyclopedia: 105. Dr. Ding-I Yang 楊定一博士 / The youngest chairman of  a department at Rockefell](https://taiwaneseamericanhistory.org/105-dr-ding-i-yang-%e6%a5%8a%e5%ae%9a%e4%b8%80%e5%8d%9a%e5%a3%ab-the-youngest-chairman-of-a-department-at-rockefeller-university-new-york-at-age-of-27/)
 - [TAH #104 encyclopedia: 104. Dr. Ding-I Yang 楊定一博士 / Youngest Ph. D. holder : Biochemistry and Medical S](https://taiwaneseamericanhistory.org/104-dr-ding-i-yang-%e6%a5%8a%e5%ae%9a%e4%b8%80%e5%8d%9a%e5%a3%ab-youngest-ph-d-holder-biochemistry-and-medical-science-from-rockefeller-university-new-york-at-age-of-21/)
