@@ -41,7 +41,7 @@ _No filled family fields on the TAH profile._
 
 ## Vault records（deepen pass 2026-09-10）
 - 本頁傳記之 TAH 出處頁：[[works/taiwaneseamericanhistory-org/whoswho1208||TAH #1208 Yu-Han Yeh 葉宇涵 (2016/08)]]、[[works/taiwaneseamericanhistory-org/musician354||TAH #354 Yu-Han Yeh 葉宇涵, Pianist (2016/08)]]。
-- 求學時期Guidance：高中音樂班導師之一 [[people/grace-chung||Grace Chung]]（TAH #354 傳記所載）。
+- 傳記所載高中導師 Grace Chung、I-Ting Chen（台南女中音樂班）：Vault 尚無對應頁面，未建連結以免誤配。
 - publisher／語料庫：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
 
 ## Related Pages

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Dr. Franklin Fong-Ming Lee (李豐明博士)
 
@@ -36,6 +36,19 @@ Dr. Franklin Fong-Ming Lee 李豐明博士 – History of Taiwanese American (T.
 - **Wife:** Martha
 - **Daughter:** Judy
 
+
+## Timeline
+- 1957 — 國立台灣大學機械工程學士
+- 1963 — 北卡州立大學冶金工程碩士
+- 1967 — 史丹佛大學材料工程博士
+- 歷任 IBM 顧問工程師、Litton Industries 資深研究員、工業技術研究院（工研院）顧問
+- 曾任義守大學教授；1997— 任中國文化大學工學院院長
+- 社群 — 創辦台灣語言中心（Taiwan Language Center）；任第五屆美東台灣人夏令會（TAC/EC）召集人
+- 2005 — 卒（Era 欄 -2005）
+- 家庭 — 妻 Martha；女 Judy
+
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/whos-who-1780-franklin-fong-ming-lee|TAH #1780 Who's Who]]
 
 ## Sources
 - [TAH #1780 encyclopedia: 1780. Dr. Franklin Fong-Ming Lee 李豐明博士](https://taiwaneseamericanhistory.org/whos-who-1780-franklin-fong-ming-lee/)
