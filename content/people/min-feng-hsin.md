@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Min Feng Hsin (辛明峰)
 
@@ -39,6 +39,18 @@ _No filled family fields on the TAH profile._
 - [TAH #185 encyclopedia: 185.  Ming Feng Hsin 辛明峰, Violinist & Conductor / 2015/03](https://taiwaneseamericanhistory.org/185-ming-feng-hsin-%e8%be%9b%e6%98%8e%e5%b3%b0-violinist-conductor-201503/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/min-feng-hsin/)
 
+## Career Snapshot (from the TAH profile text already on this page)
+- **c. age 15** — won the Glasgow International Violin Competition; subsequently soloed with the Scottish National Orchestra and the BBC Orchestra; the Scotsman called him "destined to be one of the giants of the next generation."
+- Protégé of Yehudi Menuhin; performed as soloist and chamber musician throughout Europe, America and Asia.
+- **Conducting** — conducting degree from Juilliard under Otto Werner Mueller (TAH table also lists Rice University, M.S. 指揮); has led productions of Aida, the Flying Dutchman, La Bohème and Un ballo in maschera.
+- **Past 18 years (2015 snapshot)** — first violin section, Metropolitan Opera Orchestra.
+- **Family** — married to his Metropolitan Opera Orchestra colleague Wen Qian; two children, Thomas (6) and Olivia (4), as of the 2015 profile.
+
+## Archival Record (vault-internal)
+- [[works/taiwaneseamericanhistory-org/380-min-feng-hsin-e8-be-9b-e6-98-8e-e5-b3-b0|TAH #380 encyclopedia]] · [[works/taiwaneseamericanhistory-org/185-ming-feng-hsin-e8-be-9b-e6-98-8e-e5-b3-b0-violinist-conductor-201503|TAH #185 encyclopedia, Violinist & Conductor, 2015/03]]
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/380-min-feng-hsin-e8-be-9b-e6-98-8e-e5-b3-b0|TAH #380 encyclopedia]]
+- [[works/taiwaneseamericanhistory-org/185-ming-feng-hsin-e8-be-9b-e6-98-8e-e5-b3-b0-violinist-conductor-201503|TAH #185 encyclopedia]]

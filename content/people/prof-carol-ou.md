@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Prof. Carol Ou (歐逸青教授)
 
@@ -41,6 +41,13 @@ A versatile artist, cellist Carol Ou is known for her “fiery, marvelous” and
 - [TAH #570 encyclopedia: 570. Prof. Carol Ou 歐逸青教授](https://taiwaneseamericanhistory.org/whos-who-570-carol-ou/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-carol-ou/)
 
+## Network & Distinction (vault-internal)
+- **Husband:** James Buswell; the Buswell–Ou Duo pairs her with her husband — violist James Buswell is also named as a duo partner of [[people/ya-fei-chuang||Ya-Fei Chuang]] on that page. Children: Anna and William Buswell.
+- **Distinct from:** [[people/carol-ou-lin||Carol Ou Lin (歐春美)]], a different person — NATWA president (2014–15), TAH #847.
+- **Archival record:** [[works/taiwaneseamericanhistory-org/12-prof-carol-ou|TAH #12 encyclopedia]] · [[works/taiwaneseamericanhistory-org/whos-who-570-carol-ou|TAH #570 encyclopedia]] · [[works/taiwaneseamericanhistory-org/musician58-carol-ou|TAH musician58, Carol Ou]]
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[people/ya-fei-chuang||Ya-Fei Chuang]]
+- [[people/carol-ou-lin||Carol Ou Lin (歐春美) — different person]]

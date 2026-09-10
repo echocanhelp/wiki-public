@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Dr. Ching-Tsang Hou (侯景滄博士)
 
@@ -42,6 +42,13 @@ last_reviewed: 2026-08-17
 - [TAH #1837 encyclopedia: 1837. Dr. Ching-Tsang Hou 侯景滄博士](https://taiwaneseamericanhistory.org/whos-who-1837-ching-tsang-hou/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-ching-tsang-hou/)
 
+## Honours & Archival Record (vault-internal)
+- **2000** — American Oil Chemists Society, Biotechnology Lifetime Achievement Award — recorded in the vault: [[works/taiwaneseamericanhistory-org/american-oil-chemists-society-biotechnology-lifetime-achievement-award-ching-tsa|TAH #60, AOCS Biotechnology Lifetime Achievement Award]]
+- Personal papers held in the TAH story corpus: [[works/taiwaneseamericanhistory-org/collection-of-dr-ching-tsang-hou|TAH #58, Collection of Dr. Ching-Tsang Hou 侯景滄博士的收藏]]
+- Encyclopedia entries: [[works/taiwaneseamericanhistory-org/58-dr-ching-tsang-hou|TAH #58 encyclopedia]] · [[works/taiwaneseamericanhistory-org/whos-who-1837-ching-tsang-hou|TAH #1837 encyclopedia]]
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/american-oil-chemists-society-biotechnology-lifetime-achievement-award-ching-tsa|TAH #60 — AOCS award record]]
+- [[works/taiwaneseamericanhistory-org/collection-of-dr-ching-tsang-hou|TAH #58 — collection record]]
