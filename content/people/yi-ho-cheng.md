@@ -49,6 +49,11 @@ His TAH encyclopedia entries are archived in the vault:
 - [[works/taiwaneseamericanhistory-org/whos-who-2204-yi-ho-cheng||TAH Who's Who #2204 — Yi-Ho Cheng 鄭義和]]
 - [[works/taiwaneseamericanhistory-org/192-yi-ho-cheng||TAH #192 — Yi-Ho Cheng 鄭義和]]
 
+## Honours (vault-internal)
+- **2018-07** — Lifetime Achievement Award by Taiwanese Association of America — recorded in the vault: [[works/taiwaneseamericanhistory-org/lifetime-achievement-award-yi-ho-cheng|TAH #68, TAA Lifetime Achievement Award]], conferred by [[organizations/taiwanese-association-of-america||Taiwanese Association of America]].
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
+- [[organizations/taiwanese-association-of-america||Taiwanese Association of America]]
+- [[people/peng-ming-min||彭明敏 Peng Ming-min]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
