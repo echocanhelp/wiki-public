@@ -44,6 +44,13 @@ Synthesized from the TAH profile tables above (no external sourcing). Liao Shiou
 - [TAH #358 encyclopedia: 358. Prof. Shiou-Ping Liao 廖修平教授](https://taiwaneseamericanhistory.org/whos-who-358-shiou-ping-liao/)
 - [TAH Who's Who](https://taiwaneseamericanhistory.org/person/prof-shiou-ping-liao/)
 
+## Connected in the Vault
+
+Cross-links to records of this person already in the vault:
+
+- His TAH encyclopedia profiles are in the vault: [[works/taiwaneseamericanhistory-org/47-prof-shiou-ping-liao||TAH #47]] and [[works/taiwaneseamericanhistory-org/whos-who-358-shiou-ping-liao||TAH #358]]; a dedicated artist feature exists at [[works/taiwaneseamericanhistory-org/artist40-liao-shiou-ping||Artist #40: 廖修平 Liao Shiou-ping]].
+- As a 1955–1959 NTNU art alumnus he falls within the reach of the [[organizations/joint-alumni-association-of-taiwan-teachers-college-and-normal-univers||Joint Alumni Association of Taiwan Teachers College and Normal Universities]].
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

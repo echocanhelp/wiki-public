@@ -54,3 +54,6 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/5-richard-chang-e5-bc-b5-e7-ab-8b-e4-bb-81-violin||TAH #5: Richard Chang 張立仁, Violinist (2014/10)]]
+- [[works/taiwaneseamericanhistory-org/563-richard-chang-e5-bc-b5-e7-ab-8b-e4-bb-81-201508||TAH #563: Richard Chang 張立仁 (2015/08)]]
+- [[organizations/formosan-society-for-performing-arts-inc-fospa||FOSPA — Taiwanese-American performing-arts community in DC, near his Kennedy Center Opera House Orchestra base]]

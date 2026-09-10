@@ -43,6 +43,11 @@ Facts absorbed from the TAH profile text already cited on this page:
 - Studied at 國立東京教育大學 and 多摩美術大學 (M.S. Graphic Design); while studying worked part-time at 報宣廣告株式會社, gaining practice he could apply directly.
 - At 多摩美術大學 he was influenced by senior student 三宅一生 to move into fashion, joining 大同經編株式會社, where he handled designs for the MUNSING WEAR〈企鵝牌〉, RAIKA, and PLAYBOY labels — one of the very few Chinese fashion designers in Japan at the time.
 
+## Connected in the Vault
+
+- His 2016/05 TAH Who's Who record is in the vault: [[works/taiwaneseamericanhistory-org/whoswho1001||TAH #1001: Eiji Urata 謝榮慶]] (see also [[works/taiwaneseamericanhistory-org/projects1001||TAH projects #1001]]).
+- Alongside [[works/taiwaneseamericanhistory-org/54-e8-ac-9d-e6-a6-ae-e6-85-b6-eiji-urata||TAH #54 (2015/09)]], these records document the same arc: 文化大學 → 台灣廣告 → Tokyo (國立東京教育大學, 多摩美術大學) → 大同經編株式會社 fashion design for MUNSING WEAR, RAIKA, PLAYBOY.
+
 ## Sources
 - [TAH #1001 encyclopedia: 1001.  Eiji Urata 謝榮慶 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1001/)
 - [TAH #54 encyclopedia: 54. 謝榮慶 Eiji Urata /2015/09](https://taiwaneseamericanhistory.org/54-%e8%ac%9d%e6%a6%ae%e6%85%b6-eiji-urata/)
