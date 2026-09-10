@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Gwhyneth Chen (陳毓襄)
 
@@ -40,7 +40,12 @@ _No filled family fields on the TAH profile._
 - [TAH #668 encyclopedia: 668. Gwhyneth Chen 陳毓襄](https://taiwaneseamericanhistory.org/whos-who-668-gwhyneth-chen/)
 - [TAH #74 encyclopedia: 74. Gwhyneth Chen 陳毓襄, Pianist/2014/11](https://taiwaneseamericanhistory.org/gwhyneth-chen-pianist/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/gwhyneth-chen/)
+- Vault records: [[works/taiwaneseamericanhistory-org/54-gwhyneth-chen||TAH #54]], [[works/taiwaneseamericanhistory-org/gwhyneth-chen-spirio||TAH #367 — Steinway SPIRIO (2017)]], [[works/taiwaneseamericanhistory-org/whos-who-668-gwhyneth-chen||TAH #668]]
+
+## Notes from cited sources
+- Per TAH #367 (2017): one of ten global representatives for the Steinway SPIRIO system, and the only Taiwanese-American pianist among them.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus hub]]
