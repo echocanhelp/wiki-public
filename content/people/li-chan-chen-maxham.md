@@ -43,6 +43,16 @@ Soprano Li-Chan Chen was the leading soprano of the ensemble of the Pfalztheater
 
 _No filled family fields on the TAH profile._
 
+## Career Timeline (from page bio)
+
+- 國立台灣師範大學學士 → 曼哈頓音樂學院（Manhattan School of Music）碩士（聲樂）
+- 德國 Kaiserslautern 市立 Pfalztheater 連續六季首席女高音；客席演出：德國 Gelsenkirchen、瑞士 St. Gallen 劇院
+- 舊金山歌劇院 Adler Fellow（Merola Program 學員）：主舞台演出《費加羅的婚禮》《Jenufa》《Manon》《玫瑰騎士》，並於《Medium》《Falstaff》領唱
+- 領唱歌劇院：Hawaii Opera Theater、Michigan Opera Theater、Dayton Opera Theater、紐約 Center for Contemporary Opera
+- 2002 年起 — Rutgers University（Newark）音樂教師；亦曾任教台北華岡藝校、台灣浸信會神學院、中華基督教拜樂學院（CCCMIW）教學藝術／聲樂工作坊指揮
+- 獲獎：巴黎國際聲樂比賽（Concours de Chant de Paris）女子組二等獎
+- 音樂會女高音獨唱曲目：韓德爾《Messiah》、Vivaldi《Gloria》、巴赫《約翰受難曲》《B 小調彌撒》、海頓《四季》《Pauken Messe》、《布蘭詩歌》、馬勒《第四交響曲》、門德爾松《仲夏夜之夢》、Pergolesi《Stabat Mater》、Rutter《Magnificat》
+
 ## Sources
 - [TAH #71 encyclopedia: 71. Li-Chan Chen-Maxham 陳麗嬋](https://taiwaneseamericanhistory.org/71-li-chan-chen/)
 - [TAH #1114 encyclopedia: 1114. Li-Chan Chen-Maxham 陳麗嬋](https://taiwaneseamericanhistory.org/whos-who-1114-li-chan-chen-maxham/)

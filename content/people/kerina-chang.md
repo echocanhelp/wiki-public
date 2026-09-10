@@ -44,6 +44,14 @@ last_reviewed: 2026-09-10
 
 _No filled family fields on the TAH profile._
 
+## Masterclasses, Competitions & Festivals (from page bio)
+
+- 師承：陳美富（福星國小音樂班）、胡小萍（師大附中音樂班）、王杰珍（國立台灣師範大學）、安寧（「鋼琴詩人」，Lee University）、Christina Dahl（Stony Brook University 博士班）
+- 大師班指導：Ruth Slenczynska、Oxana Yablonskaya、Ivo Pogorelich、Jon Nakamatsu、Francois Killian、Leslie Howard、Gwhyneth Chen、杜泰航、殷承宗、陳必先、陳宏寬、劉孟捷
+- 比賽：Southern Adventist University 協奏曲比賽（2010 年與該校樂團合作演出協奏曲）、Ackerman 室內樂比賽、Czerny-Stefanska 國際鋼琴比賽
+- 音樂節：Pianofest in the Hamptons、Interharmony International Music Festival、Stony Brook Chamber Music Festival
+- 教學：紐約州立大學（Stony Brook）音樂系、田納西州李大學（Lee University）音樂系鋼琴教學助理
+
 ## Sources
 - [TAH #500 encyclopedia: 500. Kerina Chang 張庭瑄 / 2015/07](https://taiwaneseamericanhistory.org/500-kerina-chang-%e5%bc%b5%e5%ba%ad%e7%91%84-201507/)
 - [TAH #243 encyclopedia: 243. Kerina Chang 張庭瑄, Pianist / 2015/07](https://taiwaneseamericanhistory.org/243-kerina-chang-%e5%bc%b5%e5%ba%ad%e7%91%84-pianist-201507/)

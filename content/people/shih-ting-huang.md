@@ -41,6 +41,14 @@ Synthesized from the TAH profile text above (no external sourcing). Huang Shih-t
 
 - **Husband:** Christopher Bennett
 
+## Timeline (from page bio)
+
+- 15 歲 — 參加國立台灣交響樂團附屬青少年管弦樂團，展開演出生涯
+- 大學期間 — 台北市立教育大學樂團首席；國立實驗合唱團女中音，跨世紀音樂會與多明哥（Plácido Domingo）、卡列拉斯（José Carreras）同台
+- 音樂節／音樂營 — 波士頓胡桃山音樂營、亞斯本音樂節（Aspen Music Festival）、德州音樂節
+- 協奏演出 — 國家音樂廳交響樂團、OrchestraX、明湖交響樂團、休士頓大歌劇院、休士頓芭蕾樂團
+- 2003–現任 — [[organizations/houston-taiwan-institute-for-senior-citizens|休士頓台灣松年學院]] 創院起任教「音樂欣賞」，課程材料公布於學院網頁（www.htisc.com）
+- 現任 — Cy-Fair Lonestar 社區大學講師；德州中文台節目主持
 
 ## Sources
 - [TAH #523 encyclopedia: 523. Shih-Ting Huang 黃詩婷 /2015/08](https://taiwaneseamericanhistory.org/523-shih-ting-huang-%e9%bb%83%e8%a9%a9%e5%a9%b7-201508/)

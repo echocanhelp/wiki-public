@@ -29,7 +29,7 @@ last_reviewed: 2026-09-10
 - Community: President of the Detroit chapter of the Taiwanese Association of America — Detroit TAGD (底特律台灣人同鄉會) in 1984, 2008, and 2019; Midwest-region coordinator of the Taiwanese Summer Conference (1984).
 
 ## Network
-- **Community org:** [[organizations/taiwanese-association-of-america-detroit-tagd||底特律台灣人同鄉會 TAGD]] — three-term chapter president.
+- **Community org:** [[organizations/taiwanese-association-of-america-detroit-tagd||底特律台灣同鄉會 TAGD]] — three-term chapter president.
 
 <!-- tah-tables:start -->
 ## Education
