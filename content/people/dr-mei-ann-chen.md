@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Dr. Mei-Ann Chen (陳美安博士)
 
@@ -33,6 +33,17 @@ Music director of the Memphis Symphony Orchestra, Mei-Ann Chen is one of America
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Career & Appointments
+
+Absorbed from the profile and tables above (vault-internal only):
+
+- Music Director of the **Memphis Symphony Orchestra** (2010–2016) and of the **Chicago Sinfonietta** (2011–).
+- Assistant Conductor of the **Atlanta Symphony Orchestra** and, for one year, of the **Baltimore Symphony**; concluded the Atlanta tenure as a conducting fellow sponsored by the **League of American Orchestras**.
+- Music Director of the **Portland Youth Philharmonic**.
+- Guest conductor in North America with the symphonies of Alabama, Atlanta, Colorado, Fort Worth, Honolulu, Oregon, Seattle and Toronto, plus the Chicago Sinfonietta, Florida Orchestra and Rochester Philharmonic.
+- Educated at the **New England Conservatory of Music** (B.S. and M.S., Conducting and Violin) and the **University of Michigan** (Ph.D., Music Art).
+- The vault additionally holds a Manhattan School of Music appointment notice (see Archival Records below).
 
 ## Sources
 - [TAH #48 encyclopedia: 48. Dr. Mei-Ann Chen 陳美安博士](https://taiwaneseamericanhistory.org/48-dr-mei-ann-chen/)

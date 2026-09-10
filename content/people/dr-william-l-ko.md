@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Dr. William L. Ko (柯威霖博士)
 
@@ -50,6 +50,10 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/whos-who-360-william-l-ko|TAH Who's Who #360 — Dr. William L. Ko 柯威霖博士]]
 - [[works/taiwaneseamericanhistory-org/collection-of-dr-william-leslie-ko|TAH #3 — Collection of Dr. William Leslie Ko 柯威霖博士的收藏]]
 - [[works/taiwaneseamericanhistory-org/mystories119-william-ko-railroad|TAH My Stories #119 — 柯威霖博士的鐵道故事畫集 (李淑櫻, 2014/10)]]
+- [[works/taiwaneseamericanhistory-org/15-dr-william-l-ko|TAH #15 — Dr. William L. Ko 柯威霖博士]]
+- [[works/taiwaneseamericanhistory-org/art20-william-l-ko|TAH art #20 — 柯威霖 William L. Ko (watercolor feature)]]
+- [[works/taiwaneseamericanhistory-org/dr-william-l-ko-the-oldest-professional-employee-still-working-at-age-of-90-for-|TAH #349 — The Oldest Professional Employee, still working at 90 for Dryden Flight Research Center NASA, Edwards, CA]]
+- [[works/taiwaneseamericanhistory-org/mystories-399-dr-william-ko|TAH My Stories #399 — Pride of Taiwanese American: The Story of Dr. William Ko (NASA Tech Briefs, 02/2016)]]
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

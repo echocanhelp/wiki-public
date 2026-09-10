@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Dr. Tai-Cheng Chen (陳泰成博士)
 
@@ -50,6 +50,11 @@ Absorbed from the TAH profile above:
 - [TAH #99 encyclopedia: 99. Dr. Tai-Cheng Chen 陳泰成博士](https://taiwaneseamericanhistory.org/99-dr-tai-cheng-chen/)
 - [TAH #111 encyclopedia: 111. Dr. Tai Chin Chen 陳泰成博士 / The First Ph. D. Holder in Music from Julian Scho](https://taiwaneseamericanhistory.org/111-dr-tai-chin-chen-%e9%99%b3%e6%b3%b0%e6%88%90%e5%8d%9a%e5%a3%ab-the-first-ph-d-holder-in-music-from-julian-school-1984/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tai-cheng-chen/)
+
+## Vault Holdings
+Two further TAH story-corpus entries exist in the vault:
+- [[works/taiwaneseamericanhistory-org/76-tai-cheng-chen-e9-99-b3-e6-b3-b0-e6-88-90-pianist||TAH #76 — Tai-Cheng Chen 陳泰成, Pianist]] (2014/11)
+- [[works/taiwaneseamericanhistory-org/ourjourneys287||Our Journeys #287 — 台南善友樂團之後代首次在夏令會聚會]] lists 陳泰成 among the musicians present.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

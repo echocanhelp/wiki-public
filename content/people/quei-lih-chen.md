@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Quei-Lih Chen (陳瑰麗)
 
@@ -50,3 +50,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Reciprocal mention in the vault: [[works/taiwaneseamericanhistory-org/ourjourneys29||Our Journeys #29 — 南加州台灣會館開創的史料]] lists 陳瑰麗 among the TAHS-related figures.
+- Peabody Conservatory years sit in the Johns Hopkins orbit: see [[organizations/johns-hopkins-university-taiwanese-student-association||JHU Taiwanese Student Association]].
