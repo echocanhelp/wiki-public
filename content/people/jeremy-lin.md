@@ -44,6 +44,12 @@ Growing up, Jeremy realized that teammates on his basketball team all came from 
 - [TAH #53 encyclopedia: 53. Jeremy Lin 林書豪](https://taiwaneseamericanhistory.org/whos-who-530-jeremy-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jeremy-lin/)
 
+## Career notes (vault-internal)
+- **First TA professional basketball player** (TAH #21); **first recruited by an NBA team — Golden State Warriors, 7/16/2010** (TAH #195); “Linsanity” era with the New York Knicks (2011–2012) per tah-tables
+- **Founder:** Jeremy Lin Foundation (tah-tables Community entry)
+- **NBA teams (tah-tables):** Warriors · Knicks · Rockets · Lakers · Hornets · Nets · Hawks · Raptors; later New Taipei Kings (2023–2025)
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Archival records in the vault: [[works/taiwaneseamericanhistory-org/11-jeremy-lin|TAH #11]] · [[works/taiwaneseamericanhistory-org/21-jeremy-lin-e6-9e-97-e6-9b-b8-e8-b1-aa-the-first-t-a-professional-basketball-p|TAH #21]] · [[works/taiwaneseamericanhistory-org/195-e6-9e-97-e6-9b-b8-e8-b1-aa-jeremy-lin-the-first-person-to-be-recruited-by-nb|TAH #195]] · [[works/taiwaneseamericanhistory-org/11509|TAH #203 台美人的榮耀]] · [[works/taiwaneseamericanhistory-org/videos113|TAH #113 台灣演義影片]] · [[works/taiwaneseamericanhistory-org/whos-who-530-jeremy-lin|TAH Who's Who #53]]

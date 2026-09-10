@@ -43,6 +43,13 @@ Acclaimed by critics in the United States and abroad for performances of stunnin
 - [TAH #316 encyclopedia: 316. Ya-Fei Chuang 莊雅斐,  Pianist / 2015/11](https://taiwaneseamericanhistory.org/316-ya-fei-chuang-%e8%8e%8a%e9%9b%85%e6%96%90-pianist/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ya-fei-chuang/)
 
+## Network (vault-internal)
+- **Husband:** Robert Levin — also a named duo partner of hers (page Family/Introduction)
+- **Duo partners:** Kim Kashkashian, Robert Levin, Steven Isserlis, James Buswell — Buswell is husband of [[people/prof-carol-ou|Prof. Carol Ou]]; the Buswell–Ou Duo cross-references this page
+- **Post (per tah-tables):** 波士頓音樂學院 教授 · 新英格蘭音樂學院 CE鋼琴大師班主任 · 莫札特音樂院暑期國際大師班 Pianist
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[people/prof-carol-ou||Prof. Carol Ou (歐逸青)]] — fellow duo partner of James Buswell
+- Archival records in the vault: [[works/taiwaneseamericanhistory-org/316-ya-fei-chuang-e8-8e-8a-e9-9b-85-e6-96-90-pianist|TAH #316]] · [[works/taiwaneseamericanhistory-org/693-ya-fei-chuang-e8-8e-8a-e9-9b-85-e6-96-90-201511|TAH #693]]

@@ -44,6 +44,13 @@ A citation accompanying Shih-Hui Chen’s Goddard Lieberson Fellowship from the 
 - [TAH #393 encyclopedia: 393. Shih-Hui Chen 陳士惠 / 2015/05](https://taiwaneseamericanhistory.org/393-shih-hui-chen-%e9%99%b3%e5%a3%ab%e6%83%a0-201505/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shih-hui-chen/)
 
+## Distinctions & Works (vault-internal)
+- **2023 — Goddard Lieberson Fellowship**, American Academy of Arts and Letters: reported in [[works/taiwaneseamericanhistory-org/my-stories-870|TAH #870 台裔作曲家陳士惠獲頒美國藝術文學院音樂獎 (03/2023)]]
+- **Other honors (per TAH #191):** Koussevitzky Music Foundation Commission · Guggenheim Fellowship · American Academy in Rome Prize
+- **Recordings:** *66 Times* (Albany Records — New Music Box: “…completely blurs the line between traditional Chinese music and contemporary American composition”) · *Returning Souls* (New World — Wire Magazine: “deep musical intelligence”)
+- **Career:** professor, Rice University Shepherd School of Music (2000–present); also Longy School of Music, Bunting Institute of Harvard University, Boston University Tanglewood Institute (作曲總監)
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Archival records in the vault: [[works/taiwaneseamericanhistory-org/191-shih-hui-chen-composer|TAH #191]] · [[works/taiwaneseamericanhistory-org/393-shih-hui-chen-e9-99-b3-e5-a3-ab-e6-83-a0-201505|TAH #393]] · [[works/taiwaneseamericanhistory-org/my-stories-870|TAH #870]]
