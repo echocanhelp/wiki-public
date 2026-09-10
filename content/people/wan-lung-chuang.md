@@ -40,6 +40,7 @@ Absorbed from the TAH profile above:
 - Began her professional orchestral career at age 19, performing with the Taipei Symphony and Taipei Philharmonic in Taiwan, as well as the Orchestra of the Southern Finger Lakes, Binghamton Philharmonic, Orchestra of the Northern New York, and Cayuga Chamber Orchestra.
 - Plays solo and chamber music extensively; founder of the Chanson Strings quartet, which has taken part in international festivals such as the Fringe Festival at Rochester 2016.
 - Currently on faculty at the State University of New York at Geneseo and the Hochstein School of Music and Dance in Rochester, and serves as principal bass of the Orchestra of the Southern Finger Lakes at Corning, NY.
+- Her TAH encyclopedia records in the vault: [[works/taiwaneseamericanhistory-org/whoswho1757|TAH #1757]] and [[works/taiwaneseamericanhistory-org/musician414|TAH #414, Bassist]].
 
 ## Timeline
 
