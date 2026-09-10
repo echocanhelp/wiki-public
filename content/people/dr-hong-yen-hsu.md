@@ -19,6 +19,16 @@ last_reviewed: 2026-09-10
 - **Core roles:** entrepreneur, scientist, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
+## Timeline
+(from his TAH profile — no external sources)
+- 1917–1991; from Changhua, Taiwan
+- 1937 — B.S., Pharmacy — Meiji Pharmaceutical Univ. (明治藥科大學); 1941 — M.S., Pharmacy — Tokyo Univ.; 1959 — Ph.D., Pharmacy — Kyoto Univ.
+- 1946 — founded Sun Ten Pharmaceutical Co.; 1951 — Director, Taiwan Hygiene Laboratory
+- 1955 — Professor, Taipei Medical Univ.; 1971 — Director, Taiwan Ministry of Health and Welfare
+- Founded the American Hanfang Medical Research Institute; founded [[organizations/sun-ten-museum||Sun Ten Museum]] as a collector of Taiwanese art (see [[works/taiwaneseamericanhistory-org/history-of-sun-ten-museum||museum history]])
+- Wife [[people/ring-lin-hsu||許林碖]]; children 許純真 (Melissa), 許照信, 許照義
+- Profiled in [[works/taiwaneseamericanhistory-org/senior-taiwanese-american-7||TAH senior profile #7]], [[works/taiwaneseamericanhistory-org/91-dr-hong-yen-hsu||TAH #91]]; autobiography in [[works/taiwaneseamericanhistory-org/1266-autobiography||TAH #1266]]
+
 
 <!-- tah-tables:start -->
 ## Education

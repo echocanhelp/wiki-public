@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Ching Ching Chen (鄭青青)
 
@@ -28,6 +28,16 @@ Exploring identities and cultures in scientific, psychological conditions are Ch
 ## Employment
 - Artist
 <!-- tah-tables:end -->
+
+
+## Timeline
+
+- **2009** — 帕薩迪納藝術中心學院（Art Center College of Design）美術學士
+- **職業** — 藝術家；以混合媒材與現成物從事繪畫、雕塑與裝置創作
+
+## Name Variants
+
+TAH 檔案同時以 **Ching Ching Chen** 與 **Ching Ching Cheng** 兩種拼寫出現（見下方兩筆來源標題）；漢名以「鄭青青」為準。
 
 ## Family
 

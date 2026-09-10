@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Prof. Kun-Yen Huang (黃崑巖教授)
 
@@ -31,10 +31,23 @@ Accomplishment
 - Naval Medical Research Institute — Researcher — (1963-1968) — George Washington Univ. Medical School — Professor — (1968-1984) — National Cheng Kung Univ. — Executive Secretary & President — (1982-1995) — Project HOPE — Consultant — (1996-1999) — National Health Research Institutes, Taiwan — Director — (1998-) — TMAC (臺灣醫評會) — Director of Committee member — (2000-2010)
 <!-- tah-tables:end -->
 
+## Timeline
+
+- 1933 — born in Hsinchu, Taiwan
+- 1952 — M.D., National Taiwan University
+- 1963–1968 — Researcher, Naval Medical Research Institute
+- 1966 — Ph.D. in Microbiology, George Washington Univ. Medical School
+- 1968–1984 — Professor, George Washington Univ. Medical School; internationally renowned microbiology scholar specializing in interferon and infection immunity
+- 1982–1995 — Executive Secretary & President, National Cheng Kung University
+- 1996–1999 — Consultant, Project HOPE
+- 1998– — Director, National Health Research Institutes, Taiwan
+- 2000–2010 — Director / Committee member, TMAC (臺灣醫評會)
+- 2012 — died
+
 ## Family
 
 - **Wife:** [[people/hwei-mei-amyhuang||謝惠美]]
-- **Daughter:** 黃岫清, 黃岫安, 黃岫寧
+- **Daughters:** 黃岫清, 黃岫安, 黃岫寧
 
 
 ## Sources

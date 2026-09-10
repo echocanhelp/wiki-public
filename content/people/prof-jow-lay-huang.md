@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Prof. Jow-Lay Huang (黃肇端教授)
 
@@ -30,6 +30,18 @@ Accomplishment
 ## Employment
 - Ceramatec Inc. — Research Scientist — (1983-1985) — Champion (美國香檳火星塞公司) — Staff Research Engineer — (1985-1989) — National Cheng Kung University (成功大學) — Professor, Dept. of Materials Science — (1994-) — National Cheng Kung University (成功大學) — Associate Dean, Dept. of Engineering — (2000-2002) — National Cheng Kung University (成功大學) — Vice President for Research and Development — (2002-2007) — National Cheng Kung University (成功大學) — Director of Micro Nano Technology Research Center — (2011-2012) — National University of Kaohsiung (國立高雄大學) — President — (2016-)
 <!-- tah-tables:end -->
+
+
+## Timeline
+
+- **1954** — 出生；台灣台北市（per TAH Who's Who snapshot）
+- **學士** — 國立清華大學材料科學與工程學系
+- **1983** — 猶他大學材料科學與工程博士
+- **1983–1985** — Ceramatec Inc.，研究科學家
+- **1985–1989** — Champion（美國香檳火星塞公司），研究工程人員
+- **1994–** — 國立成功大學材料科學系教授；歷任工程學院副院長（2000–2002）、研究發展長（2002–2007）、微奈米科技研發中心主任（2011–2012）
+- **2016–** — 國立高雄大學校長
+- **其他** — 台灣鍍膜科技協會理事長
 
 ## Family
 
