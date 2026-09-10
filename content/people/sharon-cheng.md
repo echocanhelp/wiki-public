@@ -40,6 +40,7 @@ A native of Taiwan, Sharon Cheng made her US professional debut with New Jersey 
 - 2009 — first prize, Taiwan National Theater Concert Hall Young Star Audition
 - First prizes at the Liszt International Competition, NTD International Vocal Competition, and Civic Morning Musicals Vocal Competition; also received the Chimei Arts Award
 - Starred in two sold-out performances of Lucia di Lammermoor for Baltimore Concert Opera
+- Operatic repertoire includes La Musica/Proserpina (L'Orfeo), Atalanta (Serse), Alcina, Konstanze (Die Entführung aus dem Serail), Fiordiligi (Così fan tutte), Königin der Nacht (Die Zauberflöte), Servilia (La clemenza di Tito), Rosina (Il barbiere di Siviglia), Adina (L'elisir d'amore), Gilda (Rigoletto), Olympia (Les contes d'Hoffmann), Sandman/Dew Fairy (Hansel and Gretel), La Fée (Cendrillon) and Lucy (The Telephone); praised for "comic talent and dazzling high notes" (Taminophile, 2011) and an "exciting and securely produced voice" (New York Concert Review)
 
 ## Family
 
