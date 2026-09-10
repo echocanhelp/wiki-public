@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Eileen Lo (丁志清)
 
@@ -30,6 +30,15 @@ Eileen Lo (Accompanist). Ms. Eileen Lo, a graduate of the Chinese Culture Univer
 - 美國核能審核委員會 — Present
 - 臺大校友合唱團和童心合唱團 — 鋼琴伴奏
 <!-- tah-tables:end -->
+
+## Timeline
+- 文化大學 (Chinese Culture University, Taipei) — B.S. 音樂系
+- Studied piano with Dr. Scholz and Prof. Fujita; served as piano accompanist for the Music Department Chorus
+- 密西西比女子州立大學 (Mississippi University for Women) — M.S. 音樂教育, piano pedagogy
+- Studied piano performance with Prof. Leo Steffen at the University of Wisconsin–Madison
+- Taught private piano lessons; member of the Music Teachers National Association and the National Guild of Piano Teachers
+- 鋼琴伴奏 for the NTUA-DC (臺大校友合唱團 DC) Chorus and the 童心 (Tung-Hsin) Chorus — alongside conductors [[people/frank-c-h-chen||陳治煌 Frank C.H. Chen]] and [[people/amanda-hsu||許惠敏 Amanda Hsu]]
+- Present — works for the US Nuclear Regulatory Commission (美國核能審核委員會)
 
 ## Family
 

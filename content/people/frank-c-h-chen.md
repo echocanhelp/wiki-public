@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Frank C.H. Chen (陳治煌)
 
@@ -29,6 +29,14 @@ Frank C.H. Chen (Conductor). Frank C.H. Chen holds a BS and MS degrees in Electr
 ## Employment
 - Freddie Mac — Senior Engineer
 <!-- tah-tables:end -->
+
+## Timeline
+- 台灣大學 — B.S. Electrical Engineering
+- While an NTU student: conductor and music teacher of the National Taiwan University Chorus (NTUC) for three years; directed, conducted and produced the first NTUC public opera performance, Gilbert & Sullivan's "Yeomen of the Guard"
+- University of California at Santa Barbara — M.S. Electrical Engineering
+- After moving to Maryland: co-founded the Haitien Chorus and served as conductor for nine terms
+- 2012–present — NTUAC-DC (臺大校友合唱團 DC) Chorus conductor together with his wife [[people/amanda-hsu||許惠敏 Amanda Hsu]]; accompanist on the same podium: [[people/eileen-lo||丁志清 Eileen Lo]]
+- Freddie Mac — Senior Engineer
 
 ## Family
 

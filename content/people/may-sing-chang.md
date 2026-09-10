@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # May-Sing Chang (黃美星)
 
@@ -20,6 +20,16 @@ last_reviewed: 2026-08-17
 - **Source:** TAH Foundation Who’s Who
 
 May-Sing studied music in college, and had a lot of concert experience since graduation. After moving to the States in 1982, she continued to study music and earned her master degree in opera from Oklahoma City University. May-Sing has been invited to perform at NATWA convention several times.
+
+## Timeline
+(from her TAH profile — no external sources)
+- B.S., Music — National Taiwan Normal Univ.; active as a concert performer after graduation
+- Member of the Taiwan Provincial Symphony Orchestra; music teacher at Taipei First Girls' High School (北一女); later Director of the Taiwan Center, N. CA
+- 1982 — emigrated to the United States; continued music studies
+- 1987 — M.S., Opera — Oklahoma City University; [[organizations/taiwanese-association-of-oklahoma||Taiwanese Association of Oklahoma]] active in the local Taiwanese community
+- Invited performer several times at [[organizations/north-america-taiwanese-womens-association||NATWA]] conventions
+- Married to 張信行; both were key promoters of the Taiwan Center (TAH #21, 楊寧茵, 2014/09)
+- Profiled in [[works/taiwaneseamericanhistory-org/195-may-sing-chang||TAH encyclopedia #195]]
 
 <!-- tah-tables:start -->
 ## Education

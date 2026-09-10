@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Cindy Chen (陳欣意)
 
@@ -31,6 +31,14 @@ German Philosopher once said, “Life without music is a mistake” I am glad th
 - National Taiwan University for the Arts — present — professor
 - 彩霞基金會 — present — 執行長
 <!-- tah-tables:end -->
+
+## Timeline
+- About age 5: began weekly piano lessons at a private home (per her own TAH profile narrative)
+- After a few years of study, passed the entrance exam of a specialized music school; three years of classical training there as a piano major
+- School rule required piano majors to minor a second instrument — she chose the harp and soon double-majored in piano and harp
+- Indiana University, Bloomington — B.S. music
+- University of Southern California — M.S. music education; later Ph.D. (豎琴 / harp)
+- Present — professor at National Taiwan University of the Arts ([[organizations/tah-foundation||TAH Foundation]] Who's Who profile); 執行長 of 彩霞基金會
 
 ## Family
 

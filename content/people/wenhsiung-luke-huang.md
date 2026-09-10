@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Wenhsiung Luke Huang (黃文雄)
 
@@ -30,6 +30,16 @@ Wenhsiung (Luke) Huang 黃文雄 – History of Taiwanese American (T.A. Archive
 - New York Medical College - Metropolitan Hospital Center — Residency
 - Our Lady of Mercy Medical Center — Residency
 <!-- tah-tables:end -->
+
+## Timeline
+- 高雄醫學院 — B.S.
+- Residency — New York Medical College / Metropolitan Hospital Center
+- Residency — Our Lady of Mercy Medical Center (New York)
+- 小兒科專科醫師 (pediatric specialist), New York area
+- Per the on-page TAH caption, associated with History of Taiwanese American (T.A. Archives) 台美史料中心
+
+## Notes on sources
+- Cited TAH photo entries #142, #19 and #89 depict the 4/24/1970 刺蔣事件 (assassination attempt on C.K. Chiang at the Plaza Hotel, N.Y.) involving a 黃文雄, and TAH #468 is titled "Peter Huang 黃文雄". Whether these refer to the same person as this pediatrician profile is unverified — `verification_status` left pending.
 
 ## Family
 
