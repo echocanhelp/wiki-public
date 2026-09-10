@@ -9,7 +9,7 @@ tags:
 name_en: "John Yang"
 name_zh_hanzi: "楊錦忠"
 verification_status: pending
-last_reviewed: 2026-08-30
+last_reviewed: 2026-09-09
 source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
 ---
 # John Yang (楊錦忠)
@@ -73,6 +73,10 @@ Notable quotes and mentions of **楊錦忠** in Taiwan Justice articles:
 
 1. "即召開理事會，討論修改章程及會務。會長任期修改為一任三年，相關幹部任期也與會長任期同步。 當天與會的人員包括創會會長楊嘉猷、會長許景鴻、蔡漢成、劉玲華、李意盛、楊錦忠、沈梓在、蔡淑女、黃樹人等。 顧問劉玲華等都提出極具建設性的建議，會務討論極為熱烈。"
    — 台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元 (2025-09-05)
+
+## 2025 installation ceremony attendance
+
+Per the taiwanjustice.net report of 2025-09-05, John Yang (楊錦忠) attended Leonard Hsu Jr.'s (許景鴻) installation as TAHS president, where a board meeting resolved to revise the charter so that the president serves one three-year term with officer terms synchronized. Attendees named in the report: founding president [[people/yang-jia-you||Charles Yang (楊嘉猷)]], president [[people/leonard-hsu-jr||Leonard Hsu Jr. (許景鴻)]], 蔡漢成, 劉玲華, [[people/yi-sen-lee||Yi-Sen Lee (李意盛)]], 楊錦忠, [[people/shen-zizai||Eric Shen (沈梓在)]], [[people/cai-shunyu||Sunu Tsai (蔡淑女)]], and [[people/freeman-huang||Freeman Huang (黃樹人)]].
 
 ## Source Notes and Confidence
 

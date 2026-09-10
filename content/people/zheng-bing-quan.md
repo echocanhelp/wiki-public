@@ -10,7 +10,7 @@ tags:
   - founding-member
   - editor
 verification_status: pending
-last_reviewed: 2026-07-23
+last_reviewed: 2026-09-09
 ---
 # Zheng Bingquan (鄑炳全)
 
@@ -30,7 +30,11 @@ Zheng Bingquan was the first convener of the Taiwanese American Historical Socie
 
 ## Editorial Work
 
-Zheng was listed as an editor/compiler of the 2017 TAHS Publication, alongside [[people/zhou-wei-liang||周威廉]], 周威霖, Edda Huang, 楊文顯, 楊遠薰, and [[people/stella-chen||陳婉真]].
+Zheng was listed as an editor/compiler of the 2017 TAHS Publication, alongside [[people/zhou-wei-liang||周威廉]], 周威霖, Edda Huang, 楊文顯, [[people/yang-yuanxun||楊遠薰]], and [[people/stella-chen||陳婉真]].
+
+## Later Work
+
+Zheng also authored the profile of [[people/zheng-dazhi||鄭達志 (Zheng Dazhi)]] in the 2023 TAHS Publication (*台美人菁英錄 第二輯*), Section 1 — the hero physician killed at the Geneva Presbyterian Church shooting in Laguna Woods on 2022-05-15.
 
 
 ## Network

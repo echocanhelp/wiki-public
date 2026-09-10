@@ -7,7 +7,7 @@ tags:
   - TAHS
   - historical-preservation
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 
 # Taiwanese American Historical Society (TAHS)
@@ -48,7 +48,7 @@ Notes:
 - LINE L1 (not chart officer): [[people/kevin-lee||Kevin Lee]] (ZH pending); [[people/willy-pan||Willy Pan]] (LINE: Will).
 - Chart title uses **會務指導會主席** (not separate 財務指導主席). 陳柏宇 is labeled **會計** under that block.
 - **財務** on chart is [[people/phoenix-ko||Phoenix Ko / 柯貝昀]] — not Charles Yang.
-- Charles Yang is **創會會長** on this chart (also historically founding president). Franklin Ping Cheng (程炳成) served as president ~2014–2017.
+- Charles Yang is **創會會長** on this chart (also historically founding president). [[people/franklin-ping-cheng||Franklin Ping Cheng (程炳成)]] served as president ~2014–2017.
 
 ## Echo System / digital leadership (owner-appointed)
 
@@ -60,11 +60,13 @@ Not on the 2025 paper org chart. Owner-confirmed for public leadership listing (
 | Director of Echo System Engineering | [[people/ashton-hsu||Ashton Hsu (許思敦)]] |
 
 ## Related archives
-- [[organizations/tah-foundation||TAH Foundation (台美史料中心)]] — sibling organization; runs [taiwaneseamericanhistory.org](https://taiwaneseamericanhistory.org/). Not TAHS and not the 2017/2023 TAHS yearbooks.
+- [[organizations/tah-foundation||TAH Foundation (台美史料中心)]] — sibling organization; runs [taiwaneseamericanhistory.org](https://taiwaneseamericanhistory.org/). Not TAHS and not the 2017/2023 TAHS yearbooks（见 [[sources/2023-tahs-publication||2023 TAHS Publication]]）.
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org source hub]]
 
 ## Related Pages
 - [[people/leonard-hsu-jr||Leonard Hsu Jr. (許景鴻)]]
+- [[people/xie-qingzhi-xie-poyi||Xie Qingzhi & Xie Poyi (謝清志、謝泊怡)]] — 2023 TAHS Publication 专访家庭
+- [[people/shu-lai||Shu Lai (賴淑遠)]] — TAH 百科人物（#159、#389），台湾会馆副董事长
 - [[people/yang-jia-you||Charles Yang (楊嘉猷)]]
 - [[people/freeman-huang||Freeman Huang (黃樹人)]]
 - [[people/david-lee||David Lee (李東璞)]]

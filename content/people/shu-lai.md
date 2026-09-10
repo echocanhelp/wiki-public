@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Shu Lai (賴淑遠)
 
@@ -39,6 +39,13 @@ last_reviewed: 2026-08-17
 ## Employment
 - Florida State Government — Regulator — (1984-) — HTX International, KS — Associate Controller — (1989-1991) — General Bank / Cathay Bank, CA — AVP, SVP, EVP — (1991-) — Cathay Bank — EVP and Chief Lending Officer — (2016-) — Community — Miss Taiwanese American Pageant Committee — Chairwoman (2011, 2012, 2016, 2017) — Taiwan Center — Board of Director (since 1998); Vice Chairman (2014 to present) — Taiwanese American Chamber of Commerce — Board of Director (2015 to present) — North America Taiwanese Women's Association, Los Angeles — President (1997-1998) — Chia-Yi Girls' High School Alumni Association — President (1995) — FAPA (Formosan Association for Public Affairs) — Board of Director (1994, 1995)
 <!-- tah-tables:end -->
+
+## Career and community service
+（以下事实已见于本页 TAH 表格档案，无新增来源）
+
+- **银行业：** 1984年起任佛州政府监理职务；1989–1991年任 HTX International（Kansas）Associate Controller；1991年起先后任 General Bank / Cathay Bank（加州）AVP、SVP、EVP，2016年起任 Cathay Bank EVP 兼 Chief Lending Officer。
+- **台湾会馆：** 1998年起任 [[organizations/taiwan-center||Taiwan Center（大洛杉磯台灣會館）]] 董事，2014年起任副董事长（副董事長）。
+- **社团：** 北美台湾妇女会洛杉矶分会（NATWA LA）会长（1997–1998）；Miss Taiwanese American Pageant 主委（2011、2012、2016、2017）；台湾裔美国商会（TACC）董事（2015年起）；FAPA 董事（1994、1995）；嘉义女中校友会长（1995）。
 
 ## Family
 

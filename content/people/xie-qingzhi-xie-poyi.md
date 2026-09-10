@@ -9,7 +9,7 @@ tags:
   - medical
   - family
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Xie Qingzhi & Xie Poyi (謝清志、謝泊怡)
 
@@ -23,6 +23,7 @@ last_reviewed: 2026-08-17
 - **Born:** 1942 (Xie Qingzhi), Tainan, Taiwan
 - **Geography:** Southern California / Taiwan
 - **Core roles:** Aerospace engineer, medical doctor, family
+- **又见：** [[people/ching-sze-hsieh||Ching Sze Hsieh（謝清志）]] — 同名人物页（TAH 百科 #108 即本条目）
 
 ## Overview
 
@@ -41,7 +42,7 @@ The Xie family represents three generations of professional achievement and unwa
 
 ### Xie Poyi
 - Medical doctor specializing in muscle and nerve medicine
-- Accepted an interview at the TAHS office in October 2022
+- Accepted an interview at the [[organizations/taiwanese-american-historical-society||TAHS]] office in October 2022
 
 ## Legacy
 

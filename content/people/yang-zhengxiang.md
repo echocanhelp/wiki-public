@@ -9,7 +9,7 @@ tags:
   - political-scientist
   - economist
 verification_status: pending
-last_reviewed: 2026-08-02
+last_reviewed: 2026-09-09
 ---
 
 # Yang Zhengxiang (Ethan Yang)
@@ -71,8 +71,8 @@ As a third-generation Taiwanese American, Ethan represents the evolving identity
 - [[people/yang-jia-you||Charles Yang (楊嘉猷) — grandfather]]
 - [[people/becky-yang||Becky Yang — grandmother]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]
-- 2023 TAHS Publication (source hub pending restore on disk)
-- Zheng Bingquan (鄭炳全) (page pending restore)
+- [[sources/2023-tahs-publication||2023 TAHS Publication]] — source hub (restored on disk)
+- [[people/zheng-bingquan||Zheng Bingquan (鄭炳全)]] — profiled in the same 2023 publication cohort
 
 ## Revision History
 
