@@ -43,6 +43,14 @@ Facts absorbed from the TAH encyclopedia entries already cited on this page:
 - Editor-in-chief of Oversea Taiwanese Christian Newsletter (海外台灣基督徒聯合通訊), recorded in TAH #143 as the first global newsletter of overseas Taiwanese Christians, covering 1973-1996.
 - Educated at National Taiwan University (B.S., Foreign Languages) and Bethel Theological Seminary (Ph.D., Educational Pastor / 教牧).
 
+## Timeline (from facts on this page)
+
+- Educated at National Taiwan University (B.S., Foreign Languages), then Bethel Theological Seminary (Ph.D., Educational Pastor / 教牧)
+- 1973–1996 — Editor-in-chief, Oversea Taiwanese Christian Newsletter (海外台灣基督徒聯合通訊), the first global newsletter of overseas Taiwanese Christians (TAH #143)
+- 1977–1982 — involvement with Voice of Taiwan (台灣之音) recorded in TAH #144; per Our Journeys #2 the New York hotline she co-founded with husband [[people/morgan-chang|張富雄]] was already on air a year and 8 months by the 1978 US–Taiwan severance
+- 1983 — as 張楊宜宜, entrusted with full planning of the Taiwanese American House (台灣會館) purchase; presented purchase proposals at the fundraising dinner (Our Journeys #9)
+- 2007– — Founder and first president, Taiwan Mission (台灣宣教基金會) (TAH #213)
+
 ## Sources
 - [TAH #2202 encyclopedia: 2202. Eileen Chang 楊宜宜](https://taiwaneseamericanhistory.org/whos-who-2202-eileen-chang/)
 - [TAH #197 encyclopedia: 197. Eileen Chang 楊宜宜](https://taiwaneseamericanhistory.org/197-eileen-chang/)

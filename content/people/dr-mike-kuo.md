@@ -33,6 +33,15 @@ last_reviewed: 2026-09-10
 ## Community leadership
 Per his TAH Who's Who profile, Dr. Kuo led both the community and advocacy sides of Houston's Taiwanese community: president of [[organizations/taiwanese-association-of-america-houston-chapter|TAA/Houston (休士頓台灣同鄉會)]] and of the FAPA South Texas Chapter, later FAPA president (2018). His TAH encyclopedia entry #250 records him as the first to experience weightless free-float (無重力狀態飄浮空中); entry #249 notes him as the first chef (郭大廚) holding a food-nutrition doctorate (1980).
 
+## Timeline (from facts on this page)
+
+- 1949 — born in Hsinchu, Taiwan
+- 1971 — B.S. Agronomy, National Taiwan University
+- 1980 — Ph.D. Food Science and Technology, Texas A&M; recorded by TAH #249 as the first chef (郭大廚) to hold a food-nutrition doctorate; joined NASA Houston Johnson Space Center (space food manufacturing and quality control)
+- Date n.d. — TAH #250 records him as the first to experience weightless free-float
+- 2002–2012 — Professor, ACAOM 休士頓華美中醫學院
+- 2018 — President, Formosan Association for Public Affairs (FAPA); also president of the FAPA South Texas Chapter and of [[organizations/taiwanese-association-of-america-houston-chapter|TAA/Houston]]
+
 ## Family
 
 - **Wife:** 曾秀華

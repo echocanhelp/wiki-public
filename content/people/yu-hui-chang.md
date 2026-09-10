@@ -44,6 +44,7 @@ Using a decidedly contemporary language of diverse harmonic color, inventive tim
 ## Timeline
 - 1970 — born, Taichung, Taiwan
 - 2010 — became Artistic Director of Dinosaur Annex
+- present — Chair and Associate Professor, Department of Music, Brandeis University (per Who's Who employment table); also taught at UC Davis and directed the Empyrean contemporary chamber ensemble
 - 2015 — profiled in the TAH encyclopedia ([#301](https://taiwaneseamericanhistory.org/301-yu-hui-chang-%e5%bc%b5%e7%8e%89%e6%85%a7-composer-201510/), [#652](https://taiwaneseamericanhistory.org/652-yu-hui-chang-%e5%bc%b5%e7%8e%89%e6%85%a7-201510/))
 
 ## Family

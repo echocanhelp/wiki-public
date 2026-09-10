@@ -35,6 +35,15 @@ Zheng Dazhi is an artist whose primary medium is wood sculpture. His works "智�
 
 Zheng was not a member of the Geneva Presbyterian Church congregation in Laguna Woods (used by the local Taiwanese Presbyterian community, all services in Taiwanese); he attended that day to accompany his widowed mother in place of his father, who had died about three months earlier. When the gunman (周文偉, David Wenwei Chou) opened fire at the post-service lunch, Zheng rushed him and took three bullets, physically blocking further shots; the gun then jammed, allowing pastor [[people/zhang-xuanxin||張宣信 (Billy Chang)]] to strike the gunman with a chair while others subdued him. Zheng, 52, died; he is survived by his wife and two children (his son was about to enter UCLA pre-med). CNN and other media covered him as the "hero physician" of the shooting — see also [[works/taiwaneseamerican-org/laguna-woods-taiwanese-church-shooting||Laguna Woods Taiwanese Church shooting]], [[organizations/irvine-taiwanese-presbyterian-church||Irvine Taiwanese Presbyterian Church]] (張宣信's church) and [[organizations/laguna-woods-village-taiwanese-club||Laguna Woods Village Taiwanese Club]].
 
+## Timeline (from facts on this page)
+
+- 1969 — born in Taiwan; immigrated to the US with his parents at age one, grew up in a small town in East Texas
+- Medical degree, Texas Tech School of Medicine; residency and research training in family and sports medicine with UCLA and Kaiser
+- Joined South Coast Medical Group, Aliso Viejo — focus on nutrition and sports-medicine care; team physician for Aliso Niguel High School football (~400 student athletes examined)
+- Recognised in the 2023 TAHS Publication profile by [[people/zheng-bing-quan|鄭炳全]] for his wood carvings 「智者」 and 「富蘭克林」 (see attribution HOLD below)
+- 2022-02 (~3 months before) — father died; Zheng began accompanying his widowed mother to services
+- 2022-05-15 — killed at age 52 rushing the gunman at the [[works/taiwaneseamerican-org/laguna-woods-taiwanese-church-shooting|Laguna Woods church shooting]]; survived by his wife and two children
+
 ## Source Notes and Confidence
 
 - **Content priority A:** 2023 TAHS Publication (profile, Section 1, ~649 lines), written by 鄭炳全
