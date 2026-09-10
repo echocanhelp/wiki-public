@@ -42,6 +42,12 @@ Patsy Fang Chen was born in Taipei, Taiwan, graduated with the highest honor fro
 - **Daughter:** [[people/dr-justine-fang-chen||Justine F. Chen (陳潔思)]]
 
 
+## Career Notes
+- Graduated with highest honor from 國立台灣藝術專科學校 (now 國立台灣藝術大學), majoring in Piano Performance; named Outstanding Alumna of NTUA in 1997.
+- M.S. Music Education, New York University (1980) — see also [[organizations/nyu-taiwanese-american-student-society||NYU Taiwanese American Student Society]].
+- Career spans medical-education administration in Chicago, piano instruction, arts management as president of KYVAS Arts Management Inc. (1989–1993), concert promotion/tour production (1986–), and community liaison for the Queens Symphony Orchestra (1993–2003).
+- Artistic Director of the [[organizations/youth-orchestra-cycny||Youth Orchestra, CYCNY]] (1998–present).
+
 ## Sources
 - [TAH #14 encyclopedia: 14. Patsy Fang Chen 方秀蓉](https://taiwaneseamericanhistory.org/14-patsy-fang-chen/)
 - [TAH #249 encyclopedia: 249. Patsy Fang Chen 方秀蓉/2015/02](https://taiwaneseamericanhistory.org/249-patsy-fang-chen-%e6%96%b9%e7%a7%80%e8%93%89201502/)
