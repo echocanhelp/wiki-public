@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Olive WuJen Chen (吳箴)
 
@@ -34,7 +34,16 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-_No filled family fields on the TAH profile._
+- **Brother:** 吳泓 (violinist)
+- **Sister:** 吳涵 (pianist)
+
+## Career Notes
+- Born into a musical family in Taiwan: her parents were music lovers, her elder brother 吳泓 a violinist and her elder sister 吳涵 a pianist, with Olive on cello — the household was filled with music.
+- Entered the Guangren (光仁) music class in kindergarten, majoring in piano and cello. After high school she was recommended admission (保送) to her first-choice 東吳大學 (Soochow University) on academic merit, and became a prized student of teachers 曾素芝, 司徒興城 and 張寬容; she won the Taipei City and national cello competitions multiple times.
+- After university she served as a cellist with the Taipei Municipal Symphony Orchestra (台北市立交響樂團).
+- Moved to the United States in 1990 for further study: studied with David Finkel at the Aspen Music Festival, then took a scholarship to Rice University, where she earned a master's degree studying under Shirley Trepel, former concertmaster of the Houston Symphony.
+- Active in the Houston area as a teacher and principal cellist: teaches at Houston Community College, is principal cellist of Opera on the Heights and the Woodland Symphony, and principal cellist of the Formosa String Quartet and Keynote Chamber Players.
+- Documented in TAH Foundation encyclopedia entries #323 and #747 (both 2015/12): [[works/taiwaneseamericanhistory-org/323-olive-wujen-chen-e5-90-b3-e7-ae-b4-cellist||TAH #323: Olive WuJen Chen 吳箴, Cellist]] and [[works/taiwaneseamericanhistory-org/747-olive-wujen-chen-e5-90-b3-e7-ae-b4-201512||TAH #747: Olive WuJen Chen 吳箴]].
 
 ## Sources
 - [TAH #747 encyclopedia: 747. Olive WuJen Chen  吳箴 / 2015/12](https://taiwaneseamericanhistory.org/747-olive-wujen-chen-%e5%90%b3%e7%ae%b4-201512/)

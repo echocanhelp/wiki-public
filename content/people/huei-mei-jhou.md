@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Huei-mei Jhou (周惠美博士)
 
@@ -33,6 +33,13 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Career Notes
+- Flutist from Taipei, Taiwan. Master of Music, Univ. of Miami (2007); Doctor of Musical Arts, Univ. of Minnesota (2012), studying under flute professor Immanuel Davis.
+- Has taught flute master classes in North Dakota and Minnesota, including the Minnesota All-State Band and the International Music Camp; flute faculty at the International Music Camp (2012) and instrumental instructor at Princeton High School (2015).
+- Doctoral research: *Pedagogy of Influential Selected Works by Marcel Moyse: A Modern Perspective* — specializing in flute pedagogy and the works of French flute master Marcel Moyse, and how to combine modern flute aids (breathing bag, breathing builder, finger breath) with Moyse's method.
+- Invited to present at seminars of the Minnesota Music Education Association and the Minnesota Music Teacher Association, on pairing breathing-bag use with flute pedagogy and performance technique; also invited to the paper competition at the 42nd National Flute Association convention in Chicago hosted by the Marcel Moyse Society.
+- Documented in the TAH Foundation encyclopedia: [[works/taiwaneseamericanhistory-org/318-huei-mei-jhou-e5-91-a8-e6-83-a0-e7-be-8e||TAH #318: Huei-mei Jhou 周惠美]].
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/huei-mei-jhou/)

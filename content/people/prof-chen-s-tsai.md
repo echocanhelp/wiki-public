@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Prof. Chen S. Tsai (蔡振水教授)
 
@@ -37,6 +37,13 @@ last_reviewed: 2026-08-17
 - **Daughter:** Jeanne L.(蔡珍玲)
 - **Son:** Larry W. (蔡金勳)
 
+## Career Notes
+- Born 1935 in Miaoli, Taiwan. Electrical engineer and scientist; B.S. National Taiwan Univ. (1957), M.S. Utah State Univ. (1961), Ph.D. Stanford Univ. (1965).
+- Career path: Assistant Professor at California State University, San Jose and Research Scientist at Lockheed Palo Alto Research Center (1966–1969); Chair Professor at Carnegie-Mellon University (1969–1980); Distinguished Professor at the University of California, Irvine (1980–2007), elevated to Chancellor's Professor from 2008.
+- Returned to Taiwan as Founding Director and Distinguished Research Fellow of the Institute of Applied Science and Engineering, Academia Sinica (1999–2002).
+- Elected Member (Academician) of Academia Sinica in 2000; Foreign Member of the Russian Academy of Applied Science in 2001.
+- Married to [[people/prof-shirley-cheng-tsai||Prof. Shirley Cheng Tsai (鄭秀蘭)]] — the two are a distinguished engineering/science couple, both from Miaoli and both with Academia Sinica appointments; children Jeanne L. (蔡珍玲) and Larry W. (蔡金勳).
+- Covered in three TAH Foundation encyclopedia entries (#27, #15 "Pride", #368): [[works/taiwaneseamericanhistory-org/27-prof-chen-s-tsai||TAH #27: Prof. Chen S. Tsai 蔡振水教授]].
 
 ## Sources
 - [TAH #27 encyclopedia: 27. Prof. Chen S. Tsai 蔡振水教授](https://taiwaneseamericanhistory.org/27-prof-chen-s-tsai/)
