@@ -35,6 +35,14 @@ B.M. and M.M. in piano performance, The Juilliard School; B.S. in computer scien
 
 _No filled family fields on the TAH profile._
 
+## Timeline
+- Born in Kaohsiung City, Taiwan.
+- 1982 — Officially recognized by the R.O.C. Ministry of Education as a "Gifted Child in the Performing Arts"; subsequently came to the U.S. for musical studies.
+- Degrees: B.M. & M.M. piano performance, The Juilliard School (under Kathrine Parker and Martin Canin); B.S. computer science, Columbia University; M.S. media technology, MIT. Also studied zheng under master WANG Changyuan.
+- Prizes: Gerald Tracy Competition; McDonald Prize.
+- 1997 — Joined Drum Spirit of China as member and composer-in-residence.
+- Currently teaches at the Renaissance Music and Arts School (紐約「小亞歷音樂美術學院」), New York — see geographic context [[organizations/taiwanese-american-association-new-york||Taiwanese American Association New York]] and [[organizations/new-york-taiwan-center||New York Taiwan Center]].
+
 ## Sources
 - [TAH #1871 encyclopedia: 1871. Charles W. Tang 唐瑋廷 / 09/2017](https://taiwaneseamericanhistory.org/whoswho1871/)
 - [TAH #424 encyclopedia: 424. Charles W. Tang 唐瑋廷, piano / 09/2017](https://taiwaneseamericanhistory.org/musician424/)

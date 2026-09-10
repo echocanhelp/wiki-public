@@ -46,7 +46,7 @@ Senior Research fellow and Suborbital science experiment program manager
 
 ## Timeline
 
-- B.S. Aeronautical Engineering, [[organizations/dan-hsien-taiwan-state-university||淡江大學]]; M.S. and Ph.D. in Aerospace Engineering, University of Kansas
+- B.S. Aeronautical Engineering, 淡江大學; M.S. and Ph.D. in Aerospace Engineering, University of Kansas
 - **1990–1995** — Adjunct Professor, Mechanical Engineering Department, University of Alabama
 - **1991–2005** — President and chief technical officer, ESI
 - **1991–1998** — Senior staff scientist, SECA, Inc., Huntsville, Alabama *(listed 1998-1991 on the TAH profile; range shown reversed)*
