@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Philip Wu (吳庭和)
 
@@ -42,6 +42,18 @@ Mr. Wu came to New York and studied voice with C. Segrera, and A. Lavanne and at
 - [TAH #124 encyclopedia: 124. Philip Wu 吳庭和, Tenor/ 2015/01](https://taiwaneseamericanhistory.org/124-phi-lip-wu-%e5%90%b3%e5%ba%ad%e5%92%8c-tenor-201501/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/philip-wu/)
 
+## Career & Community
+Absorbed from the profile text, Employment table, and cited TAH encyclopedia entries:
+- Known also as Tien Ho Wu; celebrated as a famous male Taiwanese folk song singer (台灣民謠男歌唱家, TAH #29) and tenor (TAH #124).
+- Came to New York and studied voice with C. Segrera and A. Lavanne, and at The Juilliard School (after a 1967 B.S. in Zoology at National Taiwan University).
+- Performer with the Richmond Theater Collection and the Brooklyn Lyric Opera.
+- Community leadership — president of the [[organizations/formosan-association-for-human-rights|Formosan Association For Human Rights (台灣人權協會)]], of the [[organizations/taiwanese-american-federation-of-n-california|Taiwanese American Federation of Northern California (北加州台灣同鄉聯合會)]], and of the [[organizations/east-bay-taiwanese-association|East Bay Taiwanese Association (北加州東灣台灣同鄉會)]]; also president of the Taiwanese American Association/USA (全美台灣同鄉會).
+- Wife: 王秀蓉.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/29-tien-ho-wu-e5-90-b3-e5-ba-ad-e5-92-8c-famous-male-taiwanese-folk-song-singer-||TAH #29: Tien Ho Wu 吳庭和, Taiwanese Folk Song Singer]]
+- [[works/taiwaneseamericanhistory-org/124-phi-lip-wu-e5-90-b3-e5-ba-ad-e5-92-8c-tenor-201501||TAH #124: Philip Wu, Tenor]]
+- [[works/taiwaneseamericanhistory-org/whos-who-238-philip-wu||TAH #238: Philip Wu 吳庭和]]
+- [[works/taiwaneseamericanhistory-org/ota-252||TAH #252: Philip Wu 吳庭和]]

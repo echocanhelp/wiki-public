@@ -31,6 +31,14 @@ Keng-Wei (William) Kuo 郭耿維 – History of Taiwanese American (T.A. Archive
 - Taiwan Formosa Chamber Ensemble (台灣福爾摩沙室內樂團) — Founder — (2010-) — Shen Yun Performing Arts (神韻交響樂團) — Conductor — (2012-2019) — FTAA-MT (飛天藝術學院) — Associate Professor — Shen Yun Performing Arts / Shen Yun Symphony Orchestra — Conductor — (2012-2019) — Fei Tian Academy of the Arts, New York — Adjunct Associate Professor — (2012-2019) — Taiwan Formosa Chamber Ensemble — Founder/Conductor — (2010-) — Taiwan Yangqin Orchestra — Guest Conductor — (2002-2012) — Tainan City Chinese Orchestra — Guest Conductor — (2002-2012) — Taipei Chinese Orchestra — Guest Conductor — (2002-2012) — Dallas Asian American Youth Symphony — Guest Conductor — (2002-2012)
 <!-- tah-tables:end -->
 
+## Timeline (absorbed from on-page TAH record)
+
+- **1995** — B.A., Music Dept. of Chinese Music, 中國文化大學 (Chinese Culture University)
+- **2005** — M.A., Music Orchestra Conducting, 輔仁大學 (Fu Jen Catholic University); orchestral-conducting study later at the Univ. of North Texas (cf. [[people/mei-en-chou||Mei-En Chou]], same institution)
+- **2002–2012** — guest conductor: Taiwan Yangqin Orchestra, Tainan City Chinese Orchestra, Taipei Chinese Orchestra, Dallas Asian American Youth Symphony
+- **2010–** — founder/conductor, Taiwan Formosa Chamber Ensemble (台灣福爾摩沙室內樂團)
+- **2012–2019** — conductor, Shen Yun Symphony Orchestra (神韻交響樂團); simultaneously adjunct associate professor, Fei Tian Academy of the Arts, New York (飛天藝術學院)
+
 ## Family
 
 _No filled family fields on the TAH profile._
