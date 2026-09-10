@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Dr. Sam Shee (施哲三醫師)
 
@@ -34,6 +34,11 @@ last_reviewed: 2026-08-17
 
 - **Wife:** 陳維琳
 
+
+## Connected in the Vault
+- Career spanned medicine and the arts: pathology leadership at Meriter Hospital (Madison, Wisconsin), a University of Wisconsin Medical School visiting professorship, founding of Vital Med Laboratories (Northbrook, Illinois, 1984–1989), and the Musée Highland (施哲三海嵐美術館) museum he founded in Highland Park, Illinois (1998–) with a Taipei branch (2014–).
+- Awarded Young Investigator in Research by the Society of Nuclear Medicine; permanent member of the Doctors Mayo Society; exhibiting artist at the North American Taiwanese Physicians Association annual meeting.
+- **Karen Shee (施卿柔)**, an artist in the same TAH Who's Who vault, is a likely family connection — relationship not documented in vault sources: [[people/karen-shee||Karen Shee 施卿柔]].
 
 ## Sources
 - [TAH #79 encyclopedia: 79. Dr. Sam Shee 施哲三醫師](https://taiwaneseamericanhistory.org/79-dr-sam-shee/)

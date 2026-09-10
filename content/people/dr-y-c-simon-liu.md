@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Dr. Y. C. Simon Liu (劉耀經博士)
 
@@ -37,6 +37,12 @@ Dr. Y. C. (Simon) Liu 劉耀經博士 – History of Taiwanese American (T.A. Ar
 
 - **Wife:** 柯淑靜
 
+
+## Career & Community (from vault record)
+- Federal science-administration career: Director at USDA Agriculture Research Service (ARS) from 2000; Director of the National Agricultural Library (USDA) from 2010; earlier Information Manager at NASA.
+- Five degrees spanning mathematics, computing, and administration: Chung Yuan Christian Univ. (B.S. Mathematics), Indiana Univ. (M.S. Computer), Johns Hopkins Univ. (M.S. Government Administration), Univ. of Maryland (M.S. Corporate Management), Univ. of Washington (Ph.D. Computer Science & Higher Education).
+- Community: Coordinator, Taiwanese American Conference, East Coast (2007); President, Greater Washington DC Chapter, North American Taiwanese Professors' Association.
+- His life record is held by 台美史料中心 (T.A. Archives), per the TAH encyclopedia entry cited above.
 
 ## Sources
 - [TAH #250 encyclopedia: 250. Dr. Y. C. Simon Liu 劉耀經博士](https://taiwaneseamericanhistory.org/ota-250/)

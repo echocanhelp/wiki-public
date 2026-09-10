@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Kuo Chang Chen (陳國昌)
 
@@ -38,6 +38,14 @@ Accomplishment
 - **Daughter:** 陳安玲
 - **Son:** [[people/tong-liang-larry-chen||陳東亮]]
 
+
+## Community Leadership (from vault record)
+- President, [[organizations/taiwanese-american-cpa-association-tacpa||Taiwanese American CPA Association (台美會計師協會)]] — 2019–2020.
+- President, [[organizations/fapa-los-angeles||FAPA Los Angeles Chapter (台灣人公共事務會洛杉磯分會)]] — 2003–2006; member of the FAPA/USA central Executive Committee, 2003–2006.
+- President, [[organizations/taiwanese-association-of-northwest-los-angeles||Taiwanese Association of Northwest Los Angeles (洛杉磯西北區同鄉會)]] — 2001–2002.
+- President, Formosa Student Association of the University of Kansas — 1979.
+- Owns and leads KC Chen CPA Firm since 1991 (previously staff accountant at Solomon & Ross, CPAs, 1984–1991).
+- Son: [[people/tong-liang-larry-chen||陳東亮 (Tong-Liang Larry Chen)]].
 
 ## Sources
 - [TAH #249 encyclopedia: 249. Kuo Chang Chen 陳國昌](https://taiwaneseamericanhistory.org/ota-249/)

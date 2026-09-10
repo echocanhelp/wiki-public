@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Dr. Ray Wang (王瑞華博士)
 
@@ -37,6 +37,12 @@ Accomplishment
 - **Daughter:** Leslie
 - **Son:** Grant
 
+
+## Career & Community (from vault record)
+- Statistician / data scientist career: OLIN — Principal Consulting Statistician (1987–1999); GSK — Assistant Director/Manager (1999–2003); Chevron — Senior Staff Statistician (2003–2010); Dept. of Veterans Affairs — Senior Statistician (2010–2012); GAP — Senior Data Scientist / Senior Manager (2012–).
+- Earned M.S. (Chemical Engineering), M.S. (Statistics), and Ph.D. (Chemical Engineering) at Kansas State University after a B.S. in Chemical Engineering at National Taiwan University.
+- Led Taiwanese American associations in several cities as president — Greater Philadelphia, New Haven, Baton Rouge, and the Northern California Chapter of the North American Taiwanese Professors' Association — plus Secretary of the Connecticut Chapter, American Statistical Association, and Secretary/Board Member of [[organizations/east-bay-taiwanese-association||East Bay Taiwanese Association]].
+- Vault cross-reference for his Philadelphia community: [[organizations/taiwanese-association-of-america-greater-philadelphia||TAA Greater Philadelphia chapter]].
 
 ## Sources
 - [TAH #2306 encyclopedia: 2306. Dr. Ray Wang 王瑞華博士](https://taiwaneseamericanhistory.org/whos-who-2306-ray-wang/)
