@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Dean Chang (張怡仁)
 
@@ -30,6 +30,13 @@ Accomplishment
 ## Employment
 - United States Army — Colonel (Retired) — (1984-) — United States Department of State — Foreign Service Officer (Diplomatic Corps) — (2010-)
 <!-- tah-tables:end -->
+
+## Timeline
+- 1962 — born; Kaohsiung, Taiwan
+- 1984 — B.S., The United States Military Academy, West Point — the first Taiwanese-American graduate of West Point; presented the West Point yearbook to President Reagan
+- 1984– — United States Army, retired at Colonel (Retired)
+- (post-Army) — MBA, Columbia Univ. Graduate School of Business
+- 2010– — Foreign Service Officer (Diplomatic Corps), United States Department of State
 
 ## Family
 

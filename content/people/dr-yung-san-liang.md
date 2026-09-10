@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Dr. Yung-San Liang (梁永三博士)
 
@@ -17,7 +17,7 @@ last_reviewed: 2026-08-17
 - **Era:** 1931-2018
 - **Geography:** Tamsui, Taiwan
 - **Core roles:** scientist
-- **Source:** TAH Foundation Who’s Who
+- **Source:** TAH Foundation Who's Who
 
 Accomplishment
 1. Well-Known Chef for Taiwanese Dishes and Snack Foods and Voluntarily Supply Those Taiwanese Foods to T.A. Community in Great D.C. Areas During His Retirement Years
@@ -31,6 +31,16 @@ Accomplishment
 - Univ. of Lowell — Research Foundation Biochemist — (1976-1995) — Biomedical Research Institute — Biochemist Researcher — (1995-2012) — Community — Taiwanese American Association of Great D.C. Areas — Board of Directors (2002-2003) — Washington D.C. Taiwan School — Volunteer Teacher of Japanese Language — Taiwan Youth Art Foundation in D.C. Area — Outstanding Service Award recipient (2002-2003)
 <!-- tah-tables:end -->
 
+## Timeline
+- **1931** — Born in Tamsui, Taiwan.
+- **1967** — M.S., Public Health, Univ. of Michigan.
+- **1972** — Ph.D., Epidemiological Science, Univ. of Michigan.
+- **1976–1995** — Biochemist, Univ. of Lowell Research Foundation.
+- **1995–2012** — Biochemist Researcher, Biomedical Research Institute.
+- **2002–2003** — Board of Directors, Taiwanese American Association of Great D.C. Areas; recipient of the Outstanding Service Award from the Taiwan Youth Art Foundation in D.C. Area.
+- **Retirement years** — Volunteer teacher of Japanese language at Washington D.C. Taiwan School; known for preparing Taiwanese dishes and snack foods voluntarily supplied to the Taiwanese American community in the Greater D.C. area.
+- **2018** — Passed away.
+
 ## Family
 
 - **Wife:** 溫素娥
@@ -40,7 +50,7 @@ Accomplishment
 - [TAH #30 encyclopedia: 30. Dr. Yung-San Liang (梁永三博士)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-30/)
 - [TAH #254 encyclopedia: 254. Dr. Yung-San Liang 梁永三博士](https://taiwaneseamericanhistory.org/ota-254/)
 - [TAH #2172 encyclopedia: 2172. Dr. Yung-San Liang 梁永三博士](https://taiwaneseamericanhistory.org/whos-who-2172-yung-san-liang/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-yung-san-liang/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/dr-yung-san-liang/)
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

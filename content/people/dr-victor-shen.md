@@ -44,6 +44,17 @@ Victor Shen, a native of Taiwan, began studying music theory and voice at the ag
 - **Father:** 沈哲哉
 
 
+## Timeline (absorbed 2026-09-10 from the education/employment tables on this page)
+- Age 14 — began studying music theory and voice; later won first prizes in Taiwan music competitions
+- B.A. Music Voice, Chinese Culture University, Taiwan
+- M.A. Music Choral Conducting, Westminster Choir College, Princeton NJ
+- 1992– — faculty, Dept. of Music, Tunghai University; later faculty, Kaohsiung Normal University (National Kaohsiung Normal University), Professor
+- 1996–1998 — DMA candidate in choral conducting, University of Maryland (also Assistant Commander, University of Maryland Chorus)
+- 1997 — guest conductor and lecturer, Beijing Conservatory of Music
+- Founder / music director, New Era Group (台中新世紀合唱文教中心), Taichung; music director, Bel Canto Opera Company & Chorus, New York; program host, Taichung Classical Radio Station (choral music)
+- 2003 — guest professor, Dickinson University Blue Mountain Music Summer Camp
+- 2004– — conductor/faculty, Trenton Children's Chorus; also musical director Vox Nova (NJ) and conductor of numerous choruses in Taiwan and the US (per employment table)
+
 ## Sources
 - [TAH #2242 encyclopedia: 2242. Dr. Victor Shen 沈新欽博士](https://taiwaneseamericanhistory.org/whos-who-2242-victor-shen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-victor-shen/)

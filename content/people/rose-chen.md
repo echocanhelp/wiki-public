@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Rose Chen (陳慧如)
 
@@ -33,6 +33,14 @@ An accomplished pianist and chamber musician, Rose was born and raised in Taipei
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Timeline
+- age 6 — began attending schools specializing in music in Taipei
+- age 12 — invited to perform in the National Concert Hall of Taiwan; also won first prize in the Kawai Piano Competition for Young Artists
+- 1997 — moved to the United States
+- B.A. Piano, England Conservatory
+- M.S. Music, San Francisco Conservatory
+- Teaching, Biola University
 
 ## Sources
 - [TAH #1094 encyclopedia: 1094. Hui-Ju Chen 陳慧如 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1094/)
