@@ -36,6 +36,16 @@ Absorbed from vault-internal works (no web):
 - **1992-11-13** — World premiere of [[people/tyzen-hsiao||Tyzen Hsiao (蕭泰然)]]'s Violin Concerto in D at the San Diego symphony hall; Lin wrote afterward that the concert "was the realization of a personal dream" (per [[works/taiwaneseamericanhistory-org/ourjourneys269]]).
 - **2001-02-10** — Performed the same concerto with the Akron Symphony Orchestra (conductor Ya-Hui Wang 王雅蕙) at E. J. Thomas Performing Arts Hall, Akron, Ohio, before 400+ Taiwanese audience members — described by 林衡哲 as the first overseas concert where conductor, soloist, and composer were all Taiwanese. See [[works/taiwaneseamericanhistory-org/concert-by-akron-symphony-orchestra-and-violent-cho-liang-lin-akron-oh-on-021120]] and [[works/taiwaneseamericanhistory-org/ourjourneys269]].
 
+## Timeline
+- 1960 — 出生於新竹 (born Hsinchu, Taiwan)
+- 1975 — The Juilliard School — Violin
+- 1991– — Instructor, The Juilliard School
+- 1992-11-13 — World premiere of [[people/tyzen-hsiao|Tyzen Hsiao (蕭泰然)]]'s Violin Concerto in D, San Diego symphony hall
+- 2001– — Music Director, La Jolla Music Society SummerFest
+- Artistic Director — Hong Kong International Chamber Music Festival; National Taiwan Symphony Orchestra's Youth Music Summer Camp
+- Performer — Chamber Music Society of Lincoln Center, Aspen Music Festival, Santa Fe Chamber Music Festival, Beijing Music Festival
+- 2001-02-10 — Akron Symphony Orchestra performance of the Hsiao concerto (conductor Ya-Hui Wang 王雅蕙), per [[works/taiwaneseamericanhistory-org/ourjourneys269|Our Journeys 269]]
+
 ## Family
 
 - **Wife:** 何瑞燕

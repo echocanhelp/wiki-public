@@ -44,6 +44,15 @@ Professor of Electrical and Computer Dept., Director of Materials and Manufactur
 - Married to Li C. Hsieh; two daughters (Bernice, Amanda) and one son (Mike).
 - TAH Foundation encyclopedia entries #57 and #1245 document his profile: [[works/taiwaneseamericanhistory-org/57-prof-chin-c-lee||TAH #57: Prof. Chin C. Lee 李金忠教授]].
 
+## Timeline
+- **1948** — Born in Taitung, Taiwan
+- **1970** — B.S., Electronic Engineering, National Chiao Tung Univ.
+- **1973** — M.S., Electronic Engineering, National Chiao Tung Univ.
+- **1979** — Ph.D., Electronic Engineering, Carnegie Mellon Univ. (Pittsburgh years: president, [[organizations/taiwanese-association-of-america-pittsburgh||Taiwanese Association of America / Pittsburgh Chapter]])
+- **1980–** — University of California, Irvine: Professor of Electrical and Computer Engineering; Director, Materials and Manufacturing Technology Research Institute
+- **Community leadership (Pittsburgh & Orange County years)** — President of the [[organizations/taiwanese-american-cultural-association||Taiwanese American Cultural Association (美國台灣文化協會)]], the [[organizations/orange-county-taiwanese-association||Orange County Taiwanese Association (OCTA)]], Southern California Taitonese Association (南加州台東同鄉會), and Taiwanese American Federation of South California (南加州台灣同鄉會聯合會)
+- **Documented in** TAH Foundation encyclopedia entries #57 and #1245 ([[works/taiwaneseamericanhistory-org/57-prof-chin-c-lee||TAH #57]])
+
 ## Sources
 - [TAH #57 encyclopedia: 57. Prof. Chin C. Lee 李金忠教授](https://taiwaneseamericanhistory.org/57-prof-chin-c-lee/)
 - [TAH #1245 encyclopedia: 1245. Prof. Chin C. Lee 李金忠教授](https://taiwaneseamericanhistory.org/whos-who-1245-chin-c-lee/)

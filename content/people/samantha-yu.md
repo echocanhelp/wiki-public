@@ -33,6 +33,11 @@ last_reviewed: 2026-09-10
 - **2024-11** — named among the **38位董事** in the 第26周年年會晚宴 announcement; the vault-harvested Taiwan Justice report carries the full 38-director roster including 游蕙綾 ([[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66||TJ 2025-04-20 report]]). Co-signed directors on that roster who have vault pages include [[people/willy-pan||Willy Pan (潘建宇)]], [[people/danny-chen||Danny Chen (陳啟耕)]], [[people/lisa-liu||Lisa Liu (劉雅薇)]], [[people/joyce-yeh||Joyce Yeh (葉怡蘭)]].
 - Board archive snapshot: `knowledge/web-archives/taiwancenter-org-board.md`
 
+## Timeline
+- **2018** — Elected 個人董事 at the [[organizations/taiwan-center||Taiwan Center]] 第11屆會員大會 (會訊 2018-06): 20 個人董事, 13 新任 — the largest board turnover in 會館 history
+- **2024-11** — Named among the **38位董事** in the 第26周年年會晚宴 announcement ([[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66||TJ 2025-04-20 report]]); co-signed directors with vault pages include [[people/willy-pan||Willy Pan (潘建宇)]], [[people/danny-chen||Danny Chen (陳啟耕)]], [[people/lisa-liu||Lisa Liu (劉雅薇)]], [[people/joyce-yeh||Joyce Yeh (葉怡蘭)]]
+- **Current** — Listed as 個人董事 on the official board of the [[organizations/taiwan-center||Taiwan Center Foundation of the Greater Los Angeles]] (board archive: `knowledge/web-archives/taiwancenter-org-board.md`); biography still undocumented in this source set
+
 ## Related Pages
 
 - [[organizations/taiwan-center||Taiwan Center]]

@@ -34,6 +34,17 @@ A citation accompanying Shih-Hui Chen’s Goddard Lieberson Fellowship from the 
 - Rice University Shepherd School of Music — 2000-present — 專任副教授
 <!-- tah-tables:end -->
 
+## Timeline
+- 1962 — 出生於台北 (born Taipei)
+- 國立藝術 (now 國立臺北藝術大學) — B.S. Music
+- 1982 — Moved to the United States
+- 1985 — M.S. Music, Northern Illinois University
+- 1993 — Ph.D. Music, Boston University
+- Also taught/attached: Longy School of Music · Bunting Institute of Harvard University · Boston University Tanglewood Institute (作曲總監)
+- 2000–present — 專任副教授, Rice University Shepherd School of Music ([[organizations/rice-taiwanese-association|Rice Taiwanese community]])
+- Honors: Koussevitzky Music Foundation Commission · Guggenheim Fellowship · American Academy in Rome Prize
+- 2023 — Goddard Lieberson Fellowship, American Academy of Arts and Letters (per [[works/taiwaneseamericanhistory-org/my-stories-870|TAH #870]])
+
 ## Family
 
 - **Son:** ???

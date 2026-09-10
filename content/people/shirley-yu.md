@@ -50,6 +50,14 @@ She is recorded in the TAH Who's Who encyclopedia (#306, 2015/02) and on the [[s
 - CareNet Health System — 1997 — CEO
 <!-- tah-tables:end -->
 
+## Timeline
+- 1970 — B.A. Social Work, National Taiwan Univ.
+- 1976 — M.S.W., Wayne State Univ.
+- 1996 — CEO, Kindness-Care Home Health
+- 1997 — CEO, CareNet Health System; M.B.A., USC
+- 2002 — CEO, CareNet Medical
+- 團體董事 (board director), [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]]
+
 ## Family
 
 - **Husband:** 游弘

@@ -43,6 +43,16 @@ Accomplishment
 - 主導興建全國首座跨多縣市青少年安全拘留中心 — see [[works/taiwaneseamericanhistory-org/196-e9-99-b3-e4-bb-b2-e6-ac-bd-built-the-first-in-the-nation-a-multi-county-juve|TAH #196]]
 - 任 Capital District Regional Planning Commission（Albany, NY）執行長 33 年（1970–2003）；僑務委員會顧問 — see [[organizations/overseas-community-affairs-council|OCAC 僑務委員會]]
 
+## Timeline
+- **1935** — Born in Hsinchu, Taiwan (台灣新竹)
+- **1959** — B.A., Political Science, National Cheng-Chi Univ.
+- **1965** — M.S., City & Regional Planning, UC Berkeley — the first Taiwanese American to earn a master's in city planning ([[works/taiwaneseamericanhistory-org/241-e9-99-b3-e4-bb-b2-e6-ac-bd-e7-ac-ac-e4-b8-80-e4-bd-8d-e5-be-97-e5-88-b0-e9-8|TAH #241]])
+- **1965–1967** — Assistant Planner, City Planning Dept., Kansas City, MO
+- **1967–1969** — Senior Planner, Metro-Planning Department, Indianapolis, IN
+- **1970–2003** — Executive Director, Capital District Regional Planning Commission, Albany, NY (33 years): directed staff in preparing the Long-Range Regional Development Plan and various community and regional analyses; built the first multi-county juvenile secure detention facility in the nation ([[works/taiwaneseamericanhistory-org/196-e9-99-b3-e4-bb-b2-e6-ac-bd-built-the-first-in-the-nation-a-multi-county-juve|TAH #196]])
+- **Career span 1965–2003 (38 years)** — earliest and longest-serving Taiwanese American urban/regional planning professional ([[works/taiwaneseamericanhistory-org/242-e9-99-b3-e4-bb-b2-e6-ac-bd-e6-9c-80-e6-97-a9-e5-8f-8a-e6-9c-80-e4-b9-85-e5-b|TAH #242]])
+- **Community service** — Advisor, Overseas Compatriot Affairs Council (僑務委員會) ([[organizations/overseas-community-affairs-council|OCAC]])
+
 ## Sources
 - [TAH #43 encyclopedia: 43. Chungchin Chen 陳仲欽](https://taiwaneseamericanhistory.org/43-chungchin-chen/)
 - [TAH #242 encyclopedia: 242. 陳仲欽 / 最早及最久從事都市及區域計畫專業的台美人 / 1965-2003(38年)](https://taiwaneseamericanhistory.org/242-%e9%99%b3%e4%bb%b2%e6%ac%bd-%e6%9c%80%e6%97%a9%e5%8f%8a%e6%9c%80%e4%b9%85%e5%be%9e%e4%ba%8b%e9%83%bd%e5%b8%82%e5%8f%8a%e5%8d%80%e5%9f%9f%e8%a8%88%e7%95%ab%e5%b0%88%e6%a5%ad%e7%9a%84%e5%8f%b0/)

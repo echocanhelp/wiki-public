@@ -35,6 +35,13 @@ Absorbed from the archived taiwancenter.org pages (`knowledge/web-archives/taiwa
 - Course runs **Sunday 14:00–15:30, $60**, with **two teaching assistants** supporting students
 - Curriculum: starts from basic pronunciation (基礎發音), covering reading, grammar, conversation, and dictation (閱讀、文法、會話、聽寫) — marketed for travel to Japan, communicating with older family members, and understanding Japan's close ties to Taiwan
 
+## Timeline (from on-page source facts)
+
+- Graduated from Tokyo University of Education (東京教育大學)
+- Taught Japanese in Taiwan for 10 years
+- Taught Japanese at US community colleges for 13 years (20+ years total experience)
+- Currently teaches the 日文班 (Japanese class) at [[organizations/taiwan-center||Taiwan Center]] Taiwan School — Sundays 14:00–15:30, $60, with two teaching assistants; curriculum from basic pronunciation through reading, grammar, conversation, and dictation
+
 ## Related Pages
 
 - [[organizations/taiwan-center||Taiwan Center]]
