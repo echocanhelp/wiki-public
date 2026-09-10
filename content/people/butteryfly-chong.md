@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Butteryfly Chong (張翠蝶)
 
@@ -30,6 +30,20 @@ Born in Malaysia, Choral Conductor Butterfly Chong 張翠蝶 moved to Taipei, Ta
 - Taiwanese-American and Tonghua choirs — Director
 - Gloria Star children’s choir — Director
 <!-- tah-tables:end -->
+
+## Timeline
+- 出生於馬來西亞，後移居台北
+- 國立台灣師範大學音樂學士（聲樂）；畢業後在台北任教高中音樂八年
+- 1992 — 移居德州 Huntsville，於 Sam Houston State University 取得 Kodály 證書與合唱指揮碩士
+- 1998 — 移居維吉尼亞州 Fairfax，加入 Fairfax Choral Society 合唱團
+- 2000 — 指揮 Haitien 合唱團兩年
+- 2008 — 任 Fairfax Choral Society 兒童合唱團指揮及樂理教師（三年）
+- 2009 — 任 Liren 合唱團指揮；後歷任台美人（Taiwanese-American）合唱團、Tonghua 合唱團及 Gloria Star 兒童合唱團指揮
+
+私人在家開設鋼琴與聲樂工作室，為美國合唱指揮協會（ACDA）及音樂教師全國協會（MTNA）會員。
+
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/36-butterfly-chong-e5-bc-b5-e7-bf-a0-e8-9d-b6-choral-conductor|TAH #36 口述歷史：Butterfly Chong 張翠蝶, Choral Conductor (2014)]] — 本頁敘述全文來源
 
 ## Family
 

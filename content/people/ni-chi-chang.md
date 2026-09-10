@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Ni-Chi Chang (張倪綺)
 
@@ -29,6 +29,18 @@ Ni-Chi Chang (張倪綺) was born in Taichung, Taiwan. She graduated from Taipei
 ## Employment
 - Taipei National University of the Arts Choir — Vocalist — Taiwan's National Opera Workshop — Choir Member — (2010-) — Member / Performer
 <!-- tah-tables:end -->
+
+## Timeline
+- 生於台中市
+- 2003 — 參加維也納 Theodor Leschetizky 大師班及夏令營
+- 2006 — 隨台北藝術大學合唱團參加加拿大 Powell River Kathaumixw 國際合唱節
+- 2008 — 於國家音樂廳及澳門在 Helmuth Rilling 指揮下演唱巴赫 b小調彌撒
+- 2009 — 畢業於國立臺北藝術大學（TNUA）音樂學系
+- 2010 — 加入國家歌劇院工作坊（National Opera Workshop），演出《Too Many Sopranos》中 Ms. Pompous 一角
+- 2011 — Temple University 音樂碩士（師從 Dr. Phillip Cho）
+
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/musician421|TAH #421：Ni-Chi Chang 張倪綺, Soprano (2017)]] — 本頁敘述來源 · [[works/taiwaneseamericanhistory-org/whos-who-1813-ni-chi-chang|TAH #1813 Who's Who]]
 
 ## Family
 

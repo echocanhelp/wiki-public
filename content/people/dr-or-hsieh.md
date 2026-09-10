@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Dr. Or. Hsieh (謝娥醫師)
 
@@ -28,6 +28,18 @@ last_reviewed: 2026-08-17
 ## Employment
 - Legislature, Taiwan — Legislator — (1948-) — Oregon State Hospital — (1967-) — Albany Regional Office, NY — Director — (1973-)
 <!-- tah-tables:end -->
+
+## Timeline
+- 1918 — 生於台北（1918–1995）
+- 1935–1940 — 東京女子醫學專門學校（Tokyo Women's Medical Univ.）醫學博士
+- 1948 — 當選台灣立法委員
+- 1949 — 離台移民美國，為第一位台美人女醫師（TAH #4、#26）
+- 1952 — Columbia University 公共衛生博士，台美人第一位公衛博士（TAH #311）
+- 1967 — Oregon State Hospital
+- 1973 — 紐約州 Albany Regional Office 主任
+
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/1949-dr-or-hsieh|TAH：1949 Dr. Or Hsieh]] · [[works/taiwaneseamericanhistory-org/78-dr-or-hsieh|TAH #78]] · [[works/taiwaneseamericanhistory-org/ff311|TAH #311：第一位公衛博士]] · [[works/taiwaneseamericanhistory-org/mystories96|TAH #96（朱真一：第一位女士台美人）]] · [[works/taiwaneseamericanhistory-org/whos-who-1845-or-hsieh|TAH #1845 Who's Who]]
 
 ## Family
 

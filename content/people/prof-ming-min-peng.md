@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Prof. Ming Min Peng (彭明敏教授)
 
@@ -31,6 +31,22 @@ Accomplishment
 ## Employment
 - Dept. of Politics, National Taiwan Univ. — Professor and Director — (1957-1961) — Ministry of Science and Technology (中華民國科技部) — Chair Professor — Community — United Formosans for Independence (台灣獨立建國聯盟) — President — Formosan Association for Public Affairs (FAPA) (台灣人公共事務會) — President
 <!-- tah-tables:end -->
+
+## Timeline
+- 1948 — 國立台灣大學政治學系畢業
+- 1953 — 加拿大 McGill University 法學碩士；1954 — 法國巴黎大學太空法
+- 1957–1961 — 國立台灣大學政治學系主任
+- 1964 — 與學生謝聰敏、魏廷朝起草「台灣自救運動宣言」，遭逮捕（詳見 [[people/peng-ming-min|彭明敏]] 人物頁）
+- 1970 — 突破監控逃至瑞典，經底特律入境美國（見 [[works/taiwaneseamericanhistory-org/9291970-prof-peng-ming-min-arrived-at-detroit-mi|TAH 照片album：1970 抵底特律]]）
+- 1972 — 任台灣獨立建國聯盟（UFI）主席
+- 1986 — 民主進步黨創黨黨主席（見 [[people/peng-ming-min|彭明敏]]）
+- 曾任台灣人公共事務會（FAPA）會長；2000 年代表 DPP 參選總統
+
+## Vault Holdings
+- [[people/peng-ming-min|Peng Ming-min (彭明敏)]] — 本會詳細人物頁（1919–2022；TAH Who's Who 記 1923，兩說並存待核）
+- [[organizations/united-formosans-for-independenceufi|UFI 台灣獨立建國聯盟]]
+- [[works/taiwaneseamericanhistory-org/whos-who-285-ming-min-peng|TAH #285 Who's Who]] · [[works/taiwaneseamericanhistory-org/ourfootsteps-25|TAH #25（陳秀芳訪談）]] · [[works/taiwaneseamericanhistory-org/128-prof-ming-min-peng|TAH #128]] · [[works/taiwaneseamericanhistory-org/senior-taiwanese-american-10|TAH #10]]
+- [[people/hsiu-fang-susan-liu|陳秀芳 Susan Hsiu-fang Liu]] — TAH #25 訪談作者
 
 ## Family
 

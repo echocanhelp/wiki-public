@@ -31,6 +31,18 @@ last_reviewed: 2026-09-10
 - 徹斯特愛鄉合唱團 (TCSR) — 女高音獨唱及聲樂指導
 <!-- tah-tables:end -->
 
+## Timeline（deepen pass 2026-09-10；僅重组本页正文既有事实）
+
+- **童年（台北）** — 参加华新儿童合唱团、福尔摩沙合唱团
+- **声乐启蒙** — 詹怡嘉老师；后师事罗惠真、徐以琳博士、Kathryn Cowdrick、Barbara Paver；现师事女高音 Diana Soviero
+- **国立艺术大学** — B.S. 音乐系
+- **Eastman School of Music** — 声乐演唱硕士；辛辛那提大学音乐学院 — 歌剧艺术家文凭
+- **2013** — 开始歌剧演唱事业
+- **2014 夏** — 考进旧金山歌剧院梅若拉训练班（Merola Program），饰《唐乔望尼》艾为拉女士（Donna Elvira）
+- **2015 年 5 月**（条目「今年五月」，据来源日期 2015/07）— 佛州圣彼德堡歌剧公司（St. Petersburg Opera Company）《杜兰朵》饰柳儿（Liu）
+- **曾任** — 中广儿童合唱团助教；士林长老教会儿童音乐剧团声乐指导；罗彻斯特爱乡合唱团（TCSR）女高音独唱及声乐指导
+- **现职** — 纽约福尔摩沙合唱团声乐指导
+
 ## Family
 
 _No filled family fields on the TAH profile._
