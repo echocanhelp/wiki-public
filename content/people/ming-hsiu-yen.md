@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Ming-Hsiu Yen (顏名秀)
 
@@ -32,6 +32,20 @@ last_reviewed: 2026-08-17
 - Taiwanese Choral Society of Rochester — Piano Accompanist
 - Community Education Division, Eastman School of Music — Piano Accompanist
 <!-- tah-tables:end -->
+
+## Career & Recognition
+
+Structured from the TAH Who's Who biography and tables already mirrored on this page ([[organizations/tah-foundation||TAH Foundation]] source; ensembles and conductors without vault pages are named, not linked):
+
+- Born in **臺中市 (Taichung)**; active as a **composer and pianist**, with works performed across the Americas, Asia, and Europe
+- Conductors collaborated with: Osmo Vänskä, **呂紹嘉**, Alexander Drčar, Adrian Schneider
+- Ensembles collaborated with: Minnesota Orchestra (美國明尼蘇達管絃樂團), **台灣國家交響樂團 (NSO)**, 台灣音契合唱管絃樂團, PRISM薩克斯風四重奏, Brave New Works, OSSIA現代音樂團
+- Awards: 亞洲作曲聯盟**入野義朗紀念獎**; Heckscher Composition Award (US); American Composer League composition award; 台灣教育部文藝創作獎; 中國三川獎
+- Commissioned by: 台灣國家交響樂團, Hansen American Music Association, 音契合唱管絃樂團, New Sounds Music (US), New Music Project, Northern California Chinese Music Teachers Association, Asian flute workshops, and individual performers
+- Education (per TAH tables): B.S. Music, **Eastman School of Music** (2003); M.S. Music + Ph.D. Musical Arts, **University of Michigan** (2005, 2010)
+- Employment (per TAH tables): **University of Michigan** — music theory faculty; **Taiwanese Choral Society of Rochester** and Eastman Community Education Division — piano accompanist
+
+Vault works citing her: [[works/taiwaneseamericanhistory-org/whoswho1087||TAH #1087 (2016/06)]] · [[works/taiwaneseamericanhistory-org/571-ming-hsiu-yen-e9-a1-8f-e5-90-8d-e7-a7-80-201509||TAH #571 (2015/09)]] · [[works/taiwaneseamericanhistory-org/musician287||TAH #287 (Composer & Pianist, 2015/09)]]
 
 ## Family
 
