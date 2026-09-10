@@ -33,6 +33,16 @@ Sean Y. Wang is a violinist, musicologist, and conductor. A violin graduate of t
 - 泛德堡大學 — 小提琴教授
 <!-- tah-tables:end -->
 
+## Timeline
+- Born in 台灣高雄.
+- Violin graduate (B.S.), Curtis Institute of Music.
+- Performances at Weill Recital Hall (Carnegie Hall), Merkin Hall, and Jordan Hall; festivals include OK Mozart International Festival (Oklahoma), Thy Chamber Music Festival (Denmark), Schleswig-Holstein Musik Festival (Germany), and Evian Festival (France).
+- Featured musician on National Public Television of Taiwan and Nashville Public Television; heard on WGBH (Boston), WFLN (Philadelphia), and DM2 (Denmark).
+- 1996–1998 — Violinist-in-residence, Guild of Composers, Inc., New York City; premiered numerous contemporary compositions and gave his NYC debut recital with an all-twentieth-century program.
+- M.S. in orchestral conducting (交響樂指揮), The Juilliard School.
+- Ph.D. in music and humanities, Stanford University.
+- Faculty posts: 休士頓大學 violin professor (present); 史丹佛大學 professor of music history and theory; 泛德堡大學 violin professor.
+
 ## Family
 
 _No filled family fields on the TAH profile._

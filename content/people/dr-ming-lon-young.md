@@ -30,6 +30,17 @@ last_reviewed: 2026-09-10
 - University of Iowa — Assistant Professor of Pediatrics — (1986-1988) — University of Miami — Associate Professor of Clinical Pediatrics — (1991-1996) — University of Miami — Professor of Clinical Pediatrics — (1996-1998) — University of Miami — Professor of Pediatrics — (1998-) — Joe DiMaggio Children's Hospital, Hollywood, Florida — Director of Cardiac Electrophysiology — (2010-) — Community — TAA/South Florida Chapter — President — TAA/South Florida Chapter — Editor-in-Chief of Monthly Newsletter — Project Haiti Heart: A Medical Mission to Haiti — Co-Founder
 <!-- tah-tables:end -->
 
+## Timeline
+- 1976 — M.D., National Taiwan University.
+- 1979 — M.S. in Hygiene and Public Health, Johns Hopkins University.
+- 1986–1988 — Assistant Professor of Pediatrics, University of Iowa.
+- 1991–1996 — Associate Professor of Clinical Pediatrics, University of Miami.
+- 1996–1998 — Professor of Clinical Pediatrics, University of Miami.
+- 1998– — Professor of Pediatrics, University of Miami.
+- 2010– — Director of Cardiac Electrophysiology, Joe DiMaggio Children's Hospital, Hollywood, Florida.
+- Community: President and Editor-in-Chief of the Monthly Newsletter, TAA/South Florida Chapter ([[organizations/taiwanese-association-of-south-florida||Taiwanese Association of South Florida]]).
+- Co-founder, Project Haiti Heart: A Medical Mission to Haiti.
+
 ## Family
 
 - **Wife:** 林素芬

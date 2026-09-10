@@ -32,6 +32,15 @@ last_reviewed: 2026-09-10
 - 德國Sulzbuch-Rosenburg International Musice Festival — 2011- — Professor
 <!-- tah-tables:end -->
 
+## Timeline
+- Born in 台灣台南市.
+- Admitted to 台灣師範大學音樂系 by 保送 (recommended admission), majoring in violin performance (B.S.).
+- Moved to the US on a full scholarship; M.S. in piano performance, Eastman School of Music.
+- Ph.D. in violin performance, USC.
+- Performed alongside masters including Itzhak Perlman, Yo-Yo Ma, and Midori; solo and chamber recitals across Taiwan, Japan, the US, Canada, and Germany.
+- 2009– — Teaching faculty, Biola University.
+- 2011– — Invited professor, 德國 Sulzbuch-Rosenburg International Music Festival.
+
 ## Family
 
 _No filled family fields on the TAH profile._
