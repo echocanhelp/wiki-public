@@ -8,7 +8,7 @@ tags:
   - filmmaker
   - director
 verification_status: pending
-last_reviewed: 2026-09-08
+last_reviewed: 2026-09-09
 ---
 # Tiffany Huang (黃咏婷)
 
@@ -66,6 +66,7 @@ Before "Moment," Tiffany had previously created work for church/missionary group
 ## Sources
 - [TAH #1761 encyclopedia: 1761. Tiffany Frances Huang 黃咏婷](https://taiwaneseamericanhistory.org/whos-who-1761-tiffany-frances-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tiffany-frances-huang/)
+- In-vault copy of the encyclopedia entry: [[works/taiwaneseamericanhistory-org/whos-who-1761-tiffany-frances-huang||TAHS Who's Who #1761 — Tiffany Frances Huang 黃咏婷]]
 
 <!-- tah-tables:start -->
 ## Education

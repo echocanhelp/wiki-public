@@ -8,7 +8,7 @@ tags:
   - co-founder
   - Los-Angeles
 verification_status: published
-last_reviewed: 2026-09-08
+last_reviewed: 2026-09-09
 ---
 # Dr. Daniel Kao (高光民)
 
@@ -46,7 +46,7 @@ In the 2025 Self-Preface to [[sources/toward-a-community-of-hope||Toward A Commu
 ## Publications
 
 - **1971** — Named as a co-founder in Dr. Albert S. Lai's dissertation *Toward A Community of Hope — A Mission to Formosan Community in Los Angeles* (San Francisco Theological Seminary).
-- **2025** — Named as a co-founder in the 50th anniversary republication of *Toward A Community of Hope*.
+- **2025** — Named as a co-founder in the 50th anniversary republication of *Toward A Community of Hope*, published through the [[organizations/national-taiwanese-presbyterian-council||National Taiwanese Presbyterian Council (NTPC)]] together with [[people/yunching-yeh-davis||Dr. Yunching Yeh Davis]] (per the [[sources/toward-a-community-of-hope||source hub]] publication network).
 
 ## Quotes
 

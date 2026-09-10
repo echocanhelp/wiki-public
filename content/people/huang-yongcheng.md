@@ -8,14 +8,14 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-09-08
+last_reviewed: 2026-09-09
 ---
 
 # Huang Yung-cheng / 黃永成
 
-Mentioned as a contributor or subject in 2017/2023 [taiwanjustice.net](/organizations/taiwanjustice-net) publications. Added to the TAHS L1 priority roster for community engagement and archive scoring.
+Mentioned as a contributor or subject in 2017/2023 [[organizations/taiwanjustice-net|taiwanjustice.net]] publications. Added to the TAHS L1 priority roster for community engagement and archive scoring.
 
-Related: [Taiwanese American Historical Society](/organizations/taiwanese-american-historical-society) · source hub: [[sources/taiwanjustice-net|taiwanjustice.net]]
+Related: [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society]] · source hub: [[sources/taiwanjustice-net|taiwanjustice.net]]
 
 The harvest's own citation shows 黃永成 credited as **藥師 (pharmacist)**, author of the health-education piece 「氣喘病人基本認知的衛教」 published in 民報 on 2017-12-14 — i.e. media activity as a commentator/columnist, consistent with the TAHS publication-contributor tag.
 

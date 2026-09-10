@@ -7,7 +7,7 @@ tags:
   - review
   - zh-TW
 verification_status: pending
-last_reviewed: 2026-09-08
+last_reviewed: 2026-09-09
 echo: scratch
 ---
 
@@ -90,3 +90,5 @@ EN Ch.I Christopher was ~29 min @ ~149 wpm. ZH full Ch.I is longer in wall-clock
 - [[people/albert-chapter1-zh-review||Bake-off (three voices, openings)]]
 - [[people/albert-chapter1-en-review||EN Ch.1]]
 - [[people/albert-en-sku-a-scratch-review||EN SKU A full hub]]
+- [[people/albert-chapter1-zh-review-v2||Ch.1 ZH bake-off review v2]]
+- [[people/albert-chapter1-audiobook-consent-and-recording-kit||Audiobook consent & recording kit]] — the platform+consent path referenced in the method-lock gate
