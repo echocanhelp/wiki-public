@@ -45,7 +45,7 @@ Ching-Jang Yao (姚慶章), born September 16, 1941 in Taichung, Taiwan. Graduat
 Absorbed from the on-page biography (no external sources):
 
 - 1941-09-16 — born in Taichung, Taiwan (台灣台中).
-- 1965 — graduated, Fine Arts Department, 台灣師範大學 (B.S. 美術).
+- 1965 — graduated, Fine Arts Department, 台灣師範大學 (B.S. 美術; see [[organizations/joint-alumni-association-of-taiwan-teachers-college-and-normal-univers||the joint NTNU/TC alumni association]]).
 - 1969 — Honorary Award, 5th International Youth Artist Exhibition, Tokyo.
 - 1970 — 10th Saint Paul International Art Exhibition, Brazil; then emigrated to the USA with his family.
 - 1991 — 'Taipei-New York: Confrontation of Modernism', Taipei Fine Arts Museum.
