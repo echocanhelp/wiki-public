@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Jerry Jean (簡子翕)
 
@@ -30,6 +30,17 @@ Jerry draws from an eclectic mix of progressive pop, electronic, rock, and class
 - Self — 2010-present — Songwriter/musician
 - New York University, Tisch School of the Arts — 2005-2010 — Music director; Vocal coach; Music theory instructor
 <!-- tah-tables:end -->
+
+## Timeline
+_Sourced from the TAH Who's Who profile above; no external material added._
+
+- 2004 — Bachelor of Music, New York University.
+- 2005–2010 — Music director, vocal coach, and music theory instructor at New York University, Tisch School of the Arts.
+- 2008 — Masters of Education, Columbia University.
+- 2010–present — Independent songwriter/musician (self-employed).
+- Self-produced, independently released EP *Fighting for You* entered the iTunes Top Albums chart upon release.
+- 2014 — Title track of second EP, *Your Love*, won the International Songwriting Competition (selected from 18,000+ songs from 100+ countries).
+- 2016 — *Enough*, written in response to racial profiling, became a Global Peace Song Awards Finalist.
 
 ## Family
 

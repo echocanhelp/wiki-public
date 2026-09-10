@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Prof. Chung-Yi Hsu (許重義教授)
 
@@ -34,6 +34,17 @@ Accomplishment
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Timeline
+(absorbed from the on-page TAH tables; no external sources added)
+- 1970 — M.D., National Taiwan University
+- 1975 — Ph.D., Pharmacology, Virginia School of Medicine
+- 1981–1989 — Assistant & Associate Professor, Brain Neurology, Medical Univ. of South Carolina
+- 1983–1997 — Chairman, National Institutes of Health review boards
+- 1989–1993 — Associate Professor, Brain Neurology, Baylor College of Medicine
+- 1993– — Professor, Brain Neurology, Washington Univ. in St. Louis
+- 2002– — Principal, Taipei Medical Univ.
+- Community roles — President, North American Taiwanese Professors' Association; Chairman, American Heart Association Bouguer Stroke Research Award Review Board
 
 ## Sources
 - [TAH #298 encyclopedia: 298. Prof. Chung Y. Hsu 許重義教授](https://taiwaneseamericanhistory.org/ota-298/)

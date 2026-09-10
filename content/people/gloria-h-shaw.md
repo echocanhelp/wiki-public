@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Gloria H. Shaw (李雪芬)
 
@@ -31,6 +31,20 @@ Accomplishment
 ## Employment
 - Clinical Pathology of Western Pennsylvania — Medical Lab Technician — (1972-1974) — World Book Educational Products — Area Marketing Manager — (1989-1996) — The American Image Marketing, Inc. — Director — (1990-) — Agape Healthy Living consulting — Founder — (1996-) — Community — Formosan Christian Church of Dallas (Texas) — Founding Member — National Republican Congressional Committee — Honor Chair of Business Advisory
 <!-- tah-tables:end -->
+
+## Timeline
+_Sourced from the TAH Who's Who profile above; no external material added._
+
+- 1948 — Born in Pingtung, Taiwan.
+- 1970 — B.S., Accounting, Shih Chien Univ.
+- 1972 — Medical Laboratory Technology, Gradwohl School of Laboratory Technique.
+- 1972–1974 — Medical Lab Technician, Clinical Pathology of Western Pennsylvania.
+- 1978 — Founding Member of Formosan Christian Church of Dallas (Texas).
+- 1988–2001 — Univ. of Texas at Dallas: B.S., Business Administration; MPA Candidate, Public Affairs.
+- 1989–1996 — Area Marketing Manager, World Book Educational Products.
+- 1990– — Director, The American Image Marketing, Inc.
+- 1996– — Founder, Agape Healthy Living consulting.
+- Community service: Honor Chair of Business Advisory, National Republican Congressional Committee.
 
 ## Family
 

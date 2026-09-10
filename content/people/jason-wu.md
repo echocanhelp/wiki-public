@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Jason Wu (吳季剛)
 
@@ -28,6 +28,20 @@ last_reviewed: 2026-08-17
 ## Employment
 - Integrity Toys — Doll Clothing Designer and Creative Director — Hugo Boss — Art Director — (2013-)
 <!-- tah-tables:end -->
+
+## Timeline
+- **1982** — Born (era) in Taipei, Taiwan
+- Studied at Parsons The New School for Design (B.A.)
+- Early career — Doll Clothing Designer and Creative Director, Integrity Toys
+- **July 2008** — Finalist, CFDA/Vogue Fashion Fund
+- **2010** — Swarovski Award for Womenswear, CFDA Fashion Awards
+- **2011** — CFDA/Swarovski Award for Accessory Design
+- **2013–** — Art Director, Hugo Boss
+- **2015** — Fashion Star Award, Fashion Group International Night of Stars
+- **2016** — International Designer of the Year, Canadian Arts & Fashion Awards
+- **Carnegie-era accolades note:** recognized among the "Pride of Taiwanese Americans" story collection (TAH #225)
+
+*Source: on-page TAH Who's Who profile ([TAH #172](https://taiwaneseamericanhistory.org/whos-who-172-jason-wu/)).*
 
 ## Family
 
