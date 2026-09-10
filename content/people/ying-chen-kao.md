@@ -30,6 +30,16 @@ Ying-Chen Kao 高盈真 (b.1981) has received various commissions and performanc
 - 美國約翰霍普金斯大學琵琶第音樂學院作曲系 — Present — 助教
 <!-- tah-tables:end -->
 
+## Commissions, Performances & Visual Art
+
+From her TAH profile (absorbed from the cited encyclopedia entries #21 / #518):
+
+- Commissions and performances by the Peabody Children's Chorus, Peabody Preparatory Dance Department, cellist Michael Kannen, pianist [[people/jenny-lin||Jenny Lin]], organist Donald Sutherland, jazz saxophonist Gary Thomas, REDSHIFT ensemble, guitarists Benjamin Beirs and Tracy Anne Smith, duo Pictures on Silence, AM/PM Saxophone Quartet, and the Summer Trombone Workshop 2008 (Taiwan).
+- With the Peabody Preparatory Dance Department she contributed to *Collidescope*, a ballet and video piece for the 150th anniversary of the Peabody Institute, overseen by theatre artist and choreographer Martha Clarke.
+- December 2008: her solo guitar piece was released on Tracy Anne Smith's solo album *Lilac.Star.Bird*.
+- As a graphic artist, her work *Constellation of Voice* appeared on the cover of Carnegie Hall's October playbill in August 2006.
+- Education: 邁阿密大學音樂學院 B.S. 作曲/鋼琴 (2004); 琵琶第音樂學院 M.S. Music. Teaching: Johns Hopkins Peabody Conservatory composition department, teaching assistant (present).
+
 ## Family
 
 _No filled family fields on the TAH profile._
@@ -41,4 +51,7 @@ _No filled family fields on the TAH profile._
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
+- [[organizations/johns-hopkins-university-taiwanese-student-association||JHU Taiwanese Student Association]]
+- [[works/taiwaneseamericanhistory-org/518-ying-chen-kao-e9-ab-98-e7-9b-88-e7-9c-9f-201507||TAH #518: Ying-Chen Kao 高盈真]]
+- [[works/taiwaneseamericanhistory-org/21-ying-chen-kao-e9-ab-98-e7-9b-88-e7-9c-9f-composer||TAH #21: Ying-Chen Kao, Composer]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

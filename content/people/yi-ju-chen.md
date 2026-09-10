@@ -31,6 +31,16 @@ Dr. Yi-Ju Chen 陳怡如, section violist of the Winston-Salem Symphony Orchestr
 - Winston-Salem Symphony Orchestra — violist
 <!-- tah-tables:end -->
 
+## Performance & Training Record
+
+From her TAH profile (absorbed from encyclopedia entries #33 / #1108):
+
+- Section violist of the Winston-Salem Symphony Orchestra; before moving to the U.S. she was a member of the National Taiwan Symphony Orchestra, collaborating with world-renowned conductors and touring extensively throughout Asia.
+- Concert tours to France, Austria, Hungary, and Romania.
+- Summer festivals: Aspen Music Festival (Colorado), Kent/Blossom Music Festival (Ohio), Great Mountains Music Festival (South Korea), and the Conservatoire Américain des Ecoles d'Art Américaines in Fontainebleau, France; orchestra scholar at the Eastern Music Festival (Greensboro, NC) in 2012.
+- Principal teachers: Tsuna Sakamoto, Victoria Chiang, and Chung-Chen Chen.
+- Degrees: B.A. Soochow University; M.M. Peabody Conservatory; D.M.A. Catholic University of America.
+
 ## Family
 
 _No filled family fields on the TAH profile._
@@ -42,4 +52,6 @@ _No filled family fields on the TAH profile._
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
+- [[works/taiwaneseamericanhistory-org/whoswho1108||TAH #1108: Yi-Ju Chen 陳怡如]]
+- [[works/taiwaneseamericanhistory-org/musician33||TAH #33: Yi-Ju Chen 陳怡如, Violinist]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

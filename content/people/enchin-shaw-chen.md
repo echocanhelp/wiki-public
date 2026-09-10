@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Enchin Shaw Chen (蕭永真)
 
@@ -30,6 +30,12 @@ Family History Book : 蕭安居牧師生平及家譜 Life And Family History Of 
 ## Employment
 - Springfield Psychiatric Hospital — Director of Social Service — (1957-1964) — Edgemeade School — Director of Social Service — (1964-1968) — Rongshing Children's Choir — Founding Head — (1996-1999) — Community — Taiwan Presbyterian Church in Washington — Founder — Rongshing Children's Choir — Founder
 <!-- tah-tables:end -->
+
+## Pioneer Record & Community Founding
+- The TAH encyclopedia entry #343 records her as **the first female Taiwanese student studying in the U.S.**; entries #292 and #291 additionally record her as one of the founding members of both the **Formosan Club of Washington** and the **Taiwanese Presbyterian Church in Washington** — consistent with her employment record as founder of the Washington church.
+- Career in social work and mental health in the U.S.: Director of Social Service at Springfield Psychiatric Hospital (1957–1964) and at Edgemeade School (1964–1968), after a B.S. in Psychology at San Diego State College (1957) and an M.S. in Social Work at the University of Pennsylvania (1960).
+- Founding Head of the Rongshing Children's Choir (1996–1999), extending her service from social work into children's musical formation.
+- Author of the family history book 《蕭安居牧師生平及家譜》 *Life And Family History Of Rev. An-Ku Shaw* (03/2008), preserving the record of the next generation's ministerial lineage in the [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan]] milieu.
 
 ## Family
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Mao-Sheng Chen (陳茂生)
 
@@ -30,6 +30,12 @@ Chen Mao-sheng, born in 1942 in Hsinchu, Taiwan, is a church musician and organi
 - Miller Pipe Organ — 2006- — 管風琴諮詢顧問
 - 台灣神學院 — 1976- — 音樂系系主任
 <!-- tah-tables:end -->
+
+## Sacred Music Contributions
+- Trained in the church-music milieu of Hsinchu and studied piano under Hsu Sung-jen before engineering studies at 中原理工學院 (1967, B.S. 土木工程).
+- Postgraduate study at the Southern Baptist Theological Seminary School of Church Music (1975, M.S. Music): M.A. in Religion and M.A. in Church Music, majoring in organ, with strength in choral conducting.
+- As Director of the Department of Music at 台灣神學院 (from 1976), led numerous organ classes and proactive arranging/translation of sacred choral music worldwide; the resulting Glory Music and Grace Music series of **100+ volumes of choral music** is cited by the TAH encyclopedia (#567, #284) as an outstanding contribution to organ and Christian sacred music in Taiwan — [[organizations/presbyterian-church-in-taiwan||PCT]].
+- Organ consultant for Miller Pipe Organ (2006–), bridging instrument building and church-music practice.
 
 ## Family
 
