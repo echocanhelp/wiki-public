@@ -35,6 +35,12 @@ With her appointment as the 10th Music Director of the Hartford Symphony Orchest
 - Educated at Smith College, the University of Illinois (Master of Music), and the Peabody Conservatory (Performance Diploma).
 - Known for commitment to contemporary music and world premieres, working as a guest conductor with orchestras, opera companies, ballet companies, and festivals worldwide.
 
+## Timeline
+- 教育 — Smith College 學士 → University of Illinois 音樂碩士 → Peabody Conservatory 演奏文憑
+- 早年 — 任西雅圖交響樂團助理指揮、巴爾的摩歌劇院助理指揮、紐約城市芭蕾舞團駐團藝術家
+- 2011 — 出任哈特福德交響樂團（Hartford Symphony Orchestra）第 10 任音樂總監（2011/12 樂季起，2011 至今）
+- 持續 — 以當代音樂與世界首演著稱，客座指挥全球頂尖樂團、歌劇院、芭蕾舞團與音樂節
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -31,6 +31,23 @@ Dr. Hsing-Chi (Chuck) Chang 張幸吉博士 – History of Taiwanese American (T
 - Taiwan Provincial Health Government — Environmental Engineer/Industrial Hygienist — (1965-1968) — Illinois State Univ. — Assistant Professor — (1972-1975) — Bechtel Corporation — Sr. Environmental/Noise Control Engineer — (1975-1977) — Mobil Oil Corporation — Sr. Regional and Corporate Industrial Hygiene and Safety Consultant — (1977-2000) — ExxonMobil Corporation — Sr. Corporate Environmental, Health, and Safety Consultant — (2000-2006) — Community — Windsor Area Taiwanese American Association — First President (1993-94) — Taiwanese American Association / New Jersey Chapter — President (1997) — FAPA / NJ Chapter — President (2007-2008) — Formosa Credit Union, NJ — Chairman of Credit Committee and Board of Directors (20+ years) — West Windsor Township Planning Board — Member (19 years)
 <!-- tah-tables:end -->
 
+## Timeline（deepen pass 2026-09-10；僅重组本页 Education／Employment 既有事实）
+
+- **1937** — 生于台北北投（Peitou）
+- **1960** — 国立台湾大学 — B.S. 土木工程
+- **1965** — Univ. of Pittsburgh — M.S. 公共卫生与工业卫生（WHO 奖学金）
+- **1965–1968** — 台湾省政府卫生处 — 环境工程师／工业卫生师
+- **1972** — Northwestern Univ. — Ph.D. 环境健康工程
+- **1972–1975** — Illinois State Univ. — 助理教授
+- **1975–1977** — Bechtel Corporation — 资深环境／噪音控制工程师
+- **1977–2000** — Mobil Oil Corporation — 资深区域及企业工业卫生与安全顾问
+- **2000–2006** — ExxonMobil Corporation — 资深企业环境、健康与安全顾问
+- **1993–1994** — Windsor Area Taiwanese American Association — 创会长
+- **1997** — Taiwanese American Association / New Jersey Chapter — 会长
+- **2007–2008** — FAPA / NJ Chapter — 会长
+- **20+ 年** — Formosa Credit Union, NJ — 信贷委员会主席暨董事会成员
+- **19 年** — West Windsor Township Planning Board — 委员
+
 ## Family
 
 - **Wife:** Soo-Ching

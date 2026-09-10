@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Prof. Young-Chang Chen (陳榮昌教授)
 
@@ -38,6 +38,18 @@ Prof. Young-Chang Chen 陳榮昌教授 – History of Taiwanese American (T.A. A
 - **Daughter:** Karen F. Chen
 - **Son:** Kris I. Chen
 
+
+## Timeline
+- 1935–2017 — 生卒年；_geography: 新竹_
+- 1957 — 中興大學農業化學（生物化學）學士
+- 1964 — 東京大學農藝化學（發酵化學）碩士
+- 1968 — 猶他大學臨床微生物學碩士
+- 1973 — 南加州大學（USC）細胞與分子生物學博士
+- 1976–1983 — 北德州大學生物科學系助理教授
+- 1984–1988 — 普渡大學韋恩堡分校生物科學系副教授
+- 1988–1992 — 舊金山州立大學臨床科學系副教授兼訪問教授
+- 社群 — 曾任 [[organizations/north-america-taiwanese-professors-sc||北台教授協會南加分會]] 會長、TAA 聖地牙哥分會長；創辦北美台灣研究（NATSA 一系學研網絡，見 [[organizations/north-american-taiwan-studies-associationnatsa||NATSA]]）
+- 家庭 — 妻廖幸蕙；女 Karen F. Chen；子 Kris I. Chen
 
 ## Sources
 - [TAH #125 encyclopedia: 125. Prof. Young-Chang Chen 陳榮昌教授](https://taiwaneseamericanhistory.org/125-prof-young-chang-chen/)
