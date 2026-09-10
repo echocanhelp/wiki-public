@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Kerina Chang (張庭瑄)
 
@@ -31,6 +31,14 @@ last_reviewed: 2026-08-17
 - 紐約州立大學音樂系 — Teaching
 - 田納西州李大學音樂系 — 鋼琴教學助理
 <!-- tah-tables:end -->
+
+## Timeline (from TAH profile)
+- 1995 — 以第一志願考進福星國小音樂班，師事陳美富教授；以第一名畢業，獲市長獎
+- 師大附中國中部／高中部音樂班 — 學術科皆第一名，獲台北市優良學生、市長獎（放棄北一女中直升）
+- 2005 — 大學音樂系所聯合甄試全國鋼琴組榜首；國立臺灣師範大學音樂系、國立台北藝術大學音樂系皆獲鋼琴組榜首
+- 2009 — 國立台灣師範大學音樂系鋼琴組第一名畢業（師事王杰珍教授）；獲美國 Lee University 全額獎學金，師事「鋼琴詩人」安寧
+- 2011 — 取得 Lee University 鋼琴演奏碩士；轉入紐約州立大學 Stony Brook University 博士班（獲獎學金，師事 Christina Dahl）
+- 任教 — 紐約州立大學音樂系、田納西州李大學（Lee University）音樂系鋼琴教學助理
 
 ## Family
 

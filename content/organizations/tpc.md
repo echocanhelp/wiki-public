@@ -7,7 +7,7 @@ tags:
   - TPC
   - Presbyterian
 verification_status: published
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # TPC — Taiwanese Presbyterian Churches (U.S., not PCT)
 
@@ -22,13 +22,13 @@ last_reviewed: 2026-08-17
 
 | Initials | Read as | Where |
 |---|---|---|
-| **PCT** | **P**resbyterian **C**hurch in **T**aiwan | Taiwan |
+| **PCT** | [[organizations/presbyterian-church-in-taiwan\|\|Presbyterian Church in Taiwan]] | Taiwan |
 | **PC(USA)** | **P**resbyterian **C**hurch **(U.S.A.)** | United States |
 | **TPC** | **T**aiwanese **P**resbyterian **C**hurches | United States (fellowship) |
-| **NTPC** | **N**ational **T**aiwanese **P**resbyterian **C**ouncil | United States (PC(USA) council) |
-| **GSTPC** | **G**ood **S**hepherd **T**aiwanese **P**resbyterian **C**hurch | Monterey Park, U.S. |
-| **ITPC** | **I**rvine **T**aiwanese **P**resbyterian **C**hurch | Orange County, U.S. |
-| **FPCLA** | **F**ormosan **P**resbyterian **C**hurch in **L**os **A**ngeles | Los Angeles, U.S. (1970 first) |
+| **NTPC** | [[organizations/national-taiwanese-presbyterian-council\|\|National Taiwanese Presbyterian Council]] | United States (PC(USA) council) |
+| **GSTPC** | [[organizations/good-shepherd-taiwanese-presbyterian-church\|\|Good Shepherd TPC]] | Monterey Park, U.S. |
+| **ITPC** | [[organizations/irvine-taiwanese-presbyterian-church\|\|Irvine TPC]] | Orange County, U.S. |
+| **FPCLA** | [[organizations/formosan-presbyterian-church-in-los-angeles\|\|Formosan Presbyterian Church in Los Angeles]] | Los Angeles, U.S. (1970 first) |
 
 **TPC 50週年 (2020)** = fifty years of Taiwanese Presbyterian Churches **in North America** (from FPCLA 1970). Not fifty years of the Presbyterian Church in Taiwan (1865 / 1951).
 
@@ -58,8 +58,4 @@ So: **same people, new layer.** PCT is origin (training, 漢名, liturgy). TPC i
 
 ## Sister Churches
 
-- [台北新教](content/people/willy-pan.md)
-
-## Review Partners
-
-- extra note
+- [[people/willy-pan||台北新教 (Willy Pan)]]

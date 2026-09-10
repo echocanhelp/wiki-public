@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Li-Chan Chen-Maxham (陳麗嬋)
 
@@ -29,6 +29,15 @@ Soprano Li-Chan Chen was the leading soprano of the ensemble of the Pfalztheater
 ## Employment
 - Taipei Hwa Kang Arts School — Teaching Vocal — Taiwan Baptist Theological Seminary — Teaching Vocal — Chinese Christian Church Music Institute for Worship (CCCMIW) — Teacher — Rutgers University Newark — Teaching Vocal — (2002-) — Pfalztheater, Kaiserslautern, Germany — Leading Soprano — San Francisco Opera (Adler Fellow) — Adler Fellow / Principal Artist — San Francisco Opera Merola Opera Program — Participant — Rutgers, the State University of New Jersey — Music Faculty — (2002-) — Community — Chinese Christian Church Music Institute of Worship — Teaching Artist / Vocal Workshop Conductor
 <!-- tah-tables:end -->
+
+## Career Highlights (from TAH profile)
+- 德國 Kaiserslautern 市立 Pfalztheater 首席女高音連續六季：Pamina、Lauretta、Nannetta、Norina、Adina、Susanna、Eurydice、Oscar、Dalinda、Valencienne
+- 客座演出：德國 Gelsenkirchen、瑞士 St. Gallen 劇院
+- 舊金山歌劇院 Adler Fellow：主舞台演出《費加羅的婚禮》《Jenufa》《Manon》《玫瑰騎士》；《Medium》《Falstaff》領唱；Merola Program 學員
+- 領唱：Hawaii / Michigan / Dayton Opera Theater、紐約 Center for Contemporary Opera
+- 音樂會獨唱： Messiah、Vivaldi《Gloria》、《約翰受難曲》、《B 小調彌撒》、海頓《四季》、《布蘭詩歌》、馬勒第四、門德爾松《仲夏夜之夢》、Pergolesi《Stabat Mater》、Rutter《Magnificat》
+- 巴黎國際聲樂比賽（Concours de Chant de Paris）女子組二等獎
+- 教職：台北華岡藝校、台灣浸信會神學院、華神中華基督教拜樂學院（CCCMIW）、Rutgers University Newark（2002-）
 
 ## Family
 

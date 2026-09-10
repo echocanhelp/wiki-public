@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Dr. Ching-Tse Lee (李清澤博士)
 
@@ -38,6 +38,16 @@ Ching-Tse Lee, Ph.D., Professor Emeritus of Psychology at the City University of
 - **Son:** Bernard, Travis(李伯寧)
 
 
+## Community Leadership (from TAH profile)
+- Brooklyn College (CUNY) 心理系 — 系主任 9 年；任教近 40 年，榮休教授
+- [[organizations/golden-eagle-institute\|\|Golden Eagle Institute]] — 現任總裁；銀髮服務創辦人兼總裁（1991-2007, 2013）
+- Tao and Zen Research Institute — 主任；World Zen Art Center 名譽總裁（2012）
+- North America Taiwanese Professors Association / New York Chapter — 會長（1984-1985, 2001-2002）
+- [[organizations/taiwan-photography-association-in-greater-new-york-tpagny\|\|Taiwan Photography Association in Greater New York]] — 創辦人兼會長（2005-2012, 2015）
+- National Taiwan University Alumni Association / New York Chapter — 會長（1997-1999）
+- Taiwan Christian Church Council of North America — 期刊總編輯（1975-1976）
+- 攝影展三次（APA 年會、St. Francis College Callahan Center、Soho Photo Gallery）
+
 ## Sources
 - [TAH #32 encyclopedia: 32.  Dr. Ching-Tse Lee 李清澤博士 by Artist 林榮峰 Emily Lee/09/2020](https://taiwaneseamericanhistory.org/footsteps-32/)
 - [TAH #167 encyclopedia: 167. Dr. Ching-Tse Lee 李清澤博士](https://taiwaneseamericanhistory.org/167-dr-ching-tse-lee/)
@@ -47,3 +57,5 @@ Ching-Tse Lee, Ph.D., Professor Emeritus of Psychology at the City University of
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[organizations/golden-eagle-institute||Golden Eagle Institute]]
+- [[organizations/taiwan-photography-association-in-greater-new-york-tpagny||Taiwan Photography Association in Greater New York (TPAGNY)]]
