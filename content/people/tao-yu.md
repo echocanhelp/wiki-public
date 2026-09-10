@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Tao Yu (余道昌)
 
@@ -41,6 +41,14 @@ _No filled family fields on the TAH profile._
 - [TAH #6 encyclopedia: 6. Tao Yu 余道昌, Violinist/2014/10](https://taiwaneseamericanhistory.org/6-tao-yu-%e4%bd%99%e9%81%93%e6%98%8c-violin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tao-yu/)
 
+## Archival Record in the TAH Corpus
+Two entries for Tao Yu are held in the vault's TAH story corpus:
+- [[works/taiwaneseamericanhistory-org/6-tao-yu-e4-bd-99-e9-81-93-e6-98-8c-violin||TAH #6 — Tao Yu 余道昌, Violinist]] — published 2014-10-11
+- [[works/taiwaneseamericanhistory-org/677-tao-yu-e4-bd-99-e9-81-93-e6-98-8c-201510||TAH #677 — Tao Yu 余道昌]] — published 2015-10-31
+
+Both are band-B bibliographic records; full text stays in the source archive.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[sources/taiwaneseamericanhistory-org-story-corpus||TAH Story Corpus (source hub)]]

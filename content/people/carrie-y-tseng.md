@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Carrie Y. Tseng (曾郁庭博士)
 
@@ -32,6 +32,14 @@ Dr. Carrie Y. Tseng is an active internationally-acclaimed cellist. Born in Taiw
 - Canon Music and Ale's Music School — 2002-2013 — teaching
 - Silicon Valley Youth Symphony — 2011-2013 — Cellist
 <!-- tah-tables:end -->
+
+## Career & Training (absorbed from TAH profile tables)
+
+Dr. Tseng's documented trajectory links Taiwan, New York, and Arizona music institutions. She earned her B.M. at Shih-Chien University, her M.M. at Mannes College of Music (2009), and her D.M.A. at Arizona State University (2016) on full scholarship, additionally receiving the Talent scholarship and the Anna Rosenzweig Fellowship. Her teaching career is documented continuously from 2002: faculty at Canon Music and Ale's Music School (2002–2013), faculty at Jou Music Institute (2007–present), and cellist with the Silicon Valley Youth Symphony (2011–2013), where she also instructs. Her performing career additionally includes touring the United States with the band The Brilliance.
+
+## Community Context
+
+- Her Arizona doctoral years coincided with an active Taiwanese student community at ASU — see [[organizations/asu-taiwanese-international-student-association||ASU Taiwanese International Student Association]] and [[organizations/taiwanese-student-association-at-arizona-state-university||Taiwanese Student Association at Arizona State University]].
 
 ## Family
 

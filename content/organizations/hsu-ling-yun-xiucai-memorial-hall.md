@@ -9,7 +9,7 @@ tags:
   - memorial
   - cultural-heritage
 verification_status: verified
-last_reviewed: 2026-08-16
+last_reviewed: 2026-09-09
 ---
 
 # Hsu Ling-yun Xiucai Memorial Hall (許凌雲秀才紀念館)
@@ -24,6 +24,10 @@ The **Hsu Ling-yun Xiucai Memorial Hall** (許凌雲秀才紀念館; also 存養
 - **Person commemorated:** [[people/hsu-ling-yun||Hsu Ling-yun (許凌雲, 1862–1944)]]
 - **Heritage:** Penghu County commemorative building (announced 5 Mar 2022; later listed on the national cultural-assets overview)
 
+## The Commemorated Person
+
+Per his vault page, [[people/hsu-ling-yun||Hsu Ling-yun]] (名漢厚，字凌雲，號卓夫; 1862–1944) is treated in the *續修澎湖縣志* as **Penghu's last Qing xiucai** (top of the Penghu *ting* list in 1893). He taught at village *sishu* in Watong, Dachikan and Magong, then served roughly **18 years as a Han-learning teacher for the Tainan Presbyterian Church** ([[organizations/presbyterian-church-in-taiwan||PCT]]), having embraced Christianity together with his brother 許漢墩 in 1892. The house therefore documents both his Confucian and Presbyterian layers — the door couplet 上聯「聖道教人時雨化」／下聯「福音牖世春風生」 fuses 聖道 and 福音 in one line. Surviving academy essays from his 1894 Magong teaching period (first-place 〈乘桴浮于海〉 and others) are quoted on his person page. Singer [[people/hsu-ching-chun||Hsu Ching-chun (許景淳)]] is recorded as 靖樂-lineage 11th generation of the same Watong Hsu clan, but is **not** shown as Ling-yun's child line.
+
 ## Building
 
 Door tablet: 「許凌雲秀才紀念館」「存養軒書房」. Couplet: 上聯「聖道教人時雨化」／下聯「福音牖世春風生」.
@@ -35,6 +39,7 @@ Descendant Hsu Ya-chin (許雅琴) led the heritage application (reviewed Mar 20
 ## Related Pages
 
 - [[people/hsu-ling-yun||Hsu Ling-yun (許凌雲)]]
+- [[people/hsu-ching-chun||Hsu Ching-chun (許景淳)]] — same Watong Hsu clan, 靖樂 line
 - [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan]]
 
 ## Sources
