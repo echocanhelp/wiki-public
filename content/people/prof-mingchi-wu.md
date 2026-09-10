@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Prof. Mingchi Wu (吳明基教授)
 
@@ -29,6 +29,14 @@ last_reviewed: 2026-08-17
 ## Employment
 - Dept. of Molecular Biology and Immunology, Health Science Research Center, Univ. of North Texas — Professor — (1982-) — Dept. of Internal Medicine, Univ. of Miami — Professor — Community — Formosan Association for Public Affairs (FAPA) — President (2001-2003) — Formosan Association for Public Affairs (FAPA) / Dallas Chapter — President — Taiwanese Association of America / Dallas/Fort Worth Chapter — President — Taiwanese Association of America / Pittsburgh Chapter — President (1972) — Taiwanese Association of America / South Florida Chapter — President — Southeast Taiwanese American Association (SETAA) — Chairman of the Board
 <!-- tah-tables:end -->
+
+## Timeline
+- 1963 — B.S., Agriculture Chemistry, National Taiwan Univ.
+- 1970 — Ph.D., Biochemistry, Univ. of Wisconsin
+- 1972 — President, [[organizations/taiwanese-association-of-america-pittsburgh||TAA Pittsburgh Chapter]]
+- 1982– — Professor, Dept. of Molecular Biology and Immunology, Health Science Research Center, Univ. of North Texas; also Professor, Dept. of Internal Medicine, Univ. of Miami
+- — President, Formosan Association for Public Affairs (FAPA) Dallas Chapter; President, [[organizations/taiwanese-association-of-america-dallas-fort-worth||TAA Dallas/Fort Worth Chapter]]; President, [[organizations/taiwanese-association-of-south-florida||TAA South Florida Chapter]]; Chairman of the Board, Southeast Taiwanese American Association (SETAA)
+- 2001–2003 — President, Formosan Association for Public Affairs (FAPA)
 
 ## Family
 

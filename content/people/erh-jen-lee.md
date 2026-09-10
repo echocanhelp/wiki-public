@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Erh-Jen Lee (李爾仁)
 
@@ -28,6 +28,15 @@ Dr. Erh-Jen Lee 李爾仁 enjoys her versatile music journey as a pianist, obois
 ## Employment
 - American Dance Institute — Rehearsal Artist / Accompanist — (2011-) — Washington Ballet — Rehearsal Artist and School Accompanist
 <!-- tah-tables:end -->
+
+## Timeline
+- Age 5 — began piano lessons
+- Age 10 — won the Kawai Piano Competition Taiwan with a Mozart piano sonata 3rd movement
+- Age 13 — won first prize three times in the National Oboe Competition in Taiwan
+- — won the International Chopin Piano Competition of Taipei; offered scholarship to study with Constance Keene at the Manhattan School of Music; also studied at the Juilliard School
+- 2001–2003 — winner, "The National Outstanding Artist Achievement Award", Chi-Mei Cultural Arts Foundation
+- 2011– — Rehearsal Artist / Accompanist, American Dance Institute; also Rehearsal Artist and School Accompanist, Washington Ballet
+- 2013 — Doctoral degree, Catholic University of America
 
 ## Family
 

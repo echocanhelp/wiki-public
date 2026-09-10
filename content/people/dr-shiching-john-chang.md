@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Dr. Shiching John Chang (張錫清博士)
 
@@ -30,6 +30,16 @@ Dr. Shiching (John) Chang 張錫清博士 – History of Taiwanese American (T.A
 ## Employment
 - PCR Specialty Chemicals — Senior Chemist — (1982-1986) — Midwest Research Institute — Scientist — (1986-1990) — Micro Distribution Center Of Kansas, Inc. — President — (1990-) — Community — Taiwanese Association of Florida (Gainesville) — President — Taiwanese Association of Kansas — President — City of Tainan Sister Cities of Kansas City, Missouri — Chairman — Asian American Chamber of Commerce — Founding Board Member — Taiwan Independence Cup annual Softball Tournament — Organizer
 <!-- tah-tables:end -->
+
+## Timeline
+- 1947 — born in Changhua, Taiwan (台灣彰化)
+- 1970 — B.S., Chemistry, National Cheng Kung Univ.
+- 1975 — M.S., Chemistry, Mississippi State Univ.
+- 1982 — Ph.D., Chemistry, Kansas State Univ.; Senior Chemist, PCR Specialty Chemicals (1982–1986)
+- 1986–1990 — Scientist, Midwest Research Institute
+- 1990– — President, Micro Distribution Center Of Kansas, Inc.
+- Community — President, Taiwanese Association of Florida (Gainesville); President, Taiwanese Association of Kansas; Chairman, City of Tainan Sister Cities of Kansas City, Missouri; Founding Board Member, Asian American Chamber of Commerce; Organizer, Taiwan Independence Cup annual Softball Tournament
+- — associated with 台美史料中心 (T.A. Archives), see [[organizations/taiwanese-american-historical-society||TAHS]]
 
 ## Family
 

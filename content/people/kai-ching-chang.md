@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Kai-Ching Chang (張凱晶博士)
 
@@ -31,6 +31,16 @@ A native of Taiwan, pianist Dr. Kai-Ching Chang 張凱晶 began her piano studie
 - 華府國際歌劇院 — Present — 鋼琴伴奏
 - Rider 大學 Westminster Choir 學院 — 2009-2011 — Teaching
 <!-- tah-tables:end -->
+
+## Timeline
+- Age 7 — began piano studies
+- 2000 — B.S. 音樂系, 台灣師範大學 (Taipei)
+- 2003 — Master of Music with Academic Honors, New England Conservatory (Boston), scholarship student of Patricia Zander; graduate diploma 2004
+- 2005 — recipient, Homer Ulrich Award in piano performance (Maryland)
+- 2007 — third prize, University of Maryland School of Music Concerto Competition
+- 2009 — Doctor of Musical Arts in piano performance, University of Maryland (student of Santiago Rodriguez)
+- 2009–2011 — Teaching, Rider 大學 Westminster Choir 學院
+- Present — 鋼琴伴奏, 華府國際歌劇院; has appeared as recitalist and chamber musician at Jordan Hall, Strathmore Hall and Carnegie Hall
 
 ## Family
 

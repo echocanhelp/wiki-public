@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Elizabeth S. Chen (李秀麗)
 
@@ -31,10 +31,22 @@ Elizabeth S. Chen was born in Kaohsiung, Taiwan in 1944. She was graduated from 
 - 教會詩班指揮
 <!-- tah-tables:end -->
 
+## Timeline
+- **1944** — Born in Kaohsiung, Taiwan (台灣高雄)
+- **1966** — Graduated from the Music Department, 師範大學 (NTNU); vocal major, piano minor; studied under Mrs. Su-fen Lai and Mrs. Chiu-gin Lin
+- **1966–1968** — Taught music at a Kaohsiung middle school for two years
+- **1971** — M.A. in Art (M.S. Art), SUNY Binghamton, New York State University; thesis “The Analysis in Music of Taiwan Aboriginal A-mei” under Dr. Chianis
+- **Career** — Children's music education (兒童音樂教育); church choir conductor (教會詩班指揮)
+- **1998-02-28** — Joint concert 乘著歌聲的翅膀 with 賴美芬, Santa Ana, CA (TAH #61 encyclopedia)
+
 ## Family
 
 - **Husband:** Josephen Chen
 
+
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/61-elizabeth-s-chen-e6-9d-8e-e7-a7-80-e9-ba-97-vocalist||TAH #61 encyclopedia, Vocalist / 2014-10]]
+- [[works/taiwaneseamericanhistory-org/278-elizabeth-s-chen-e6-9d-8e-e7-a7-80-e9-ba-97-201502||TAH #278 encyclopedia / 2015-02]]
 
 ## Sources
 - [TAH #61 encyclopedia: 61. 乘著歌聲的翅膀 李秀麗，賴美芬聯合音樂會 by 李秀麗，賴美芬, Santa Ana, CA on 02/28/1998](https://taiwaneseamericanhistory.org/concerts61/)
