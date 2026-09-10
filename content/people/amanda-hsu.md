@@ -51,6 +51,8 @@ Amanda H.M. Chen (Conductor). Amanda Chen holds a BS degree in Political Science
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/amanda-hsu/)
 
 ## Related Pages
+- [[works/taiwaneseamericanhistory-org/whos-who-1707-amanda-hsu||TAH #1707 encyclopedia]]
+- [[works/taiwaneseamericanhistory-org/musician407||TAH #407 encyclopedia, conductor, 06/2017]]
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[organizations/greater-washington-taiwan-culture-center||Greater Washington Taiwanese community]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

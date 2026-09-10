@@ -52,6 +52,8 @@ Yin Yin Huang, pianist, born in Taiwan, began her piano lessons at the age of 8 
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yin-yin-huang/)
 
 ## Related Pages
+- [[works/taiwaneseamericanhistory-org/whos-who-433-yin-yin-huang||TAH #433 encyclopedia]]
+- [[works/taiwaneseamericanhistory-org/202-yin-yin-huang-e9-bb-84-e7-85-90-e5-aa-96-pianist-201505||TAH #202 encyclopedia, pianist, 2015/05]]
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
