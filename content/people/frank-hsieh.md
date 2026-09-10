@@ -28,6 +28,7 @@ name_en: "Frank Hsieh"
 - **Hub:** [[sources/taiwanjustice-net||taiwanjustice.net source hub]]
 - **Primary org:** [[organizations/taiwanjustice-net||taiwanjustice.net (台灣公義網)]]
 - **Do not invent:** No birth data, family, or private contact on this page
+- **⚠ Disambiguation flag (2026-09-10):** the Education/Employment block below (國立藝術學院 B.S., Arizona State Univ. M.S. 鋼琴演奏, USC Thornton Ph.D. 鋼琴演奏, 交通大學音樂研究所教授) comes from the TAH Who's Who "Frank Hsieh" profile and describes a **pianist/music professor**, not the DPP politician 謝長廷. Likely a wrong merge of two people onto this slug — needs a split decision, not absorbment. See also [[organizations/taiwanese-student-association-at-arizona-state-university||ASU Taiwanese Student Association]] and [[organizations/taiwanese-student-association-at-the-university-of-southern-california||USC Taiwanese Student Association]] as candidate link targets once resolved.
 
 <!-- tah-tables:start -->
 ## Education
