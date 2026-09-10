@@ -29,6 +29,10 @@ Wendy Fang Chen, pianist and composer born in Brooklyn of Taiwanese descent earn
 - The Juilliard School — Associate Director of Career Development — (1999-2003) — The Juilliard School — College Faculty in Career Skills — (2000-2002) — The Juilliard School, Career Planning and Development Department — Associate Director
 <!-- tah-tables:end -->
 
+## Career & Community Note
+
+A pianist and composer born in Brooklyn of Taiwanese descent, she earned her B.M. (1994) and M.M. (1996) in Piano and Composition at The Juilliard School. Her performing career took her with the London Philharmonic, Brooklyn Philharmonic, Bolshoi Theater Orchestra, Central Philharmonic of China, and Taipei Municipal Symphony Orchestra, in venues including Carnegie Hall, Lincoln Center, the Tchaikovsky Grand Concert Hall, and the Kennedy Center; she made her theatrical debut in 1994 as the pianist Clara Schumann in the play *Virtuosa*, and her 1990 recording of Grieg/Schumann piano concertos is held in the TAH corpus ([[works/taiwaneseamericanhistory-org/520-grieg-schumann-piano-concertoswendy-fang-chen1990-music-e9-9f-b3-e6-a8-82cd|TAH #520]]). From 1999 she moved from the stage into mentorship at her alma mater — Associate Director of Juilliard's Career Planning and Development Department (1999–2003) and College Faculty in Career Skills (2000–2002). The family's performing-arts network in the vault spans Taiwan and New York: mother [[people/patsy-fang-chen||Patsy Fang Chen 方秀蓉]] is Artistic Director of the [[organizations/youth-orchestra-cycny||Youth Orchestra, CYCNY]], and sister [[people/dr-justine-fang-chen||Dr. Justine Fang Chen 陳潔思]] is a violinist and composer.
+
 ## Family
 
 - **Husband:** Robert Tilp

@@ -38,7 +38,7 @@ Zheng also authored the profile of [[people/zheng-dazhi||鄭達志 (Zheng Dazhi)
 
 ## Archival Record (from the 2023 TAHS Publication archive)
 
-`knowledge/web-archives/2023-tahs-publication-part1.md` carries a profile of 鄭炳全 as a **pharmacist** and **self-taught woodcarver**: retired from pharmacy in 2009, he took up carving and produced the works 「富蘭克林」 and 「女神」, both exhibited at TAHS art shows.
+`knowledge/web-archives/2023-tahs-publication-part1.md` carries a profile of 鄭炳全 titled 「藥學專業、左手寫作右手雕刻的鄭炳全博士」. Per the editor's note there, the pharmacy doctor was an active civic figure in the Southern California Taiwanese-American community: he served as **社長 of 太平洋時報 (Pacific Times)**, **會長 of 台美人筆會 (Taiwanese-American Pen Association)**, and **會長 of 台美人歷史協會 (TAHS)**. Beyond his pharmacy practice he authored the book 「實用天然藥物」 as well as many essays and novels across multiple published works. After retiring from pharmacy in 2009 he took up woodcarving and produced the works 「富蘭克林」 and 「女神」, both exhibited at TAHS art shows.
 
 > **Attribution conflict (HOLD):** the same two carved works are credited to [[people/zheng-dazhi||鄭達志]] on that page. The archive does not resolve whether the carver-profiled-as-pharmacist and the physician-sculptor are the same person or two different Zhengs — HOLD pending source check.
 
