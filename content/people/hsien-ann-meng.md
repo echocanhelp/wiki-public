@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Hsien-Ann Meng (孟憲安博士)
 
@@ -30,6 +30,13 @@ Hsien-Ann Meng 孟憲安, an active piano teacher and a member of the MTNA, MSMT
 ## Employment
 - Howard Community College — Piano Teacher — Octtava Piano Duo — Member — (2001-) — Community — MTNA — Member — MSMTA — Member — Friday Morning Music Club — Member
 <!-- tah-tables:end -->
+
+## Career & Teaching Record
+- Bachelor of Music and Master of Music, Peabody Conservatory of Music; Doctor of Musical Arts, University of Maryland in College Park.
+- Studied with Bradford Gowen, Raymond Hanson, Anne Koscielny, Yoheved Kaplinsky, and Marian Hahn; chamber coaching from Samuel Sanders; master class participant under Misha Dichter.
+- Piano teacher at Howard Community College; member of the Octtava Piano Duo since 2001; frequent performer in the Washington metropolitan area.
+- Guest speaker for Columbia Orchestra and Candlelight Concert Series pre-concert talks; frequent invited speaker for SASI at Howard Community College and OASIS in Bethesda; Spring 2008 guest speaker, HCC Women's Studies / Arts & Humanities Speaker Series.
+- Member of MTNA, MSMTA, and Friday Morning Music Club.
 
 ## Family
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Cheryl Lin Hong (林千千)
 
@@ -29,6 +29,13 @@ Ms. Cheryl Lin Hong started her piano lesson at 5, and was fascinated by music s
 ## Employment
 - Detroit Little Philharmonic Choir (愛樂小集) — Conductor — NATWA Detroit Chapter — Chapter President — NATWA / NATMA — Member — (1988-) — Community — NATWA Detroit分會 — 會長 (1998) — Detroit 愛樂小集 — 指揮 — NATWA Detroit Chapter — Editor, 聯誼通訊 and 婦女信箱 — NATWA — Coordinator of sponsorship activity for Akron Symphony Orchestra concert featuring Cho-Liang Lin and Ya-Hui Wang
 <!-- tah-tables:end -->
+
+## Music & Community Record
+- Began piano lessons at 5; B.S. 營養系 (Nutrition), 輔仁大學 (Fu-Jen University); M.S. 音樂史學 (music history and musicology), Columbia University.
+- Conductor of Detroit 愛樂小集 (Detroit Little Philharmonic Choir), a group of Taiwanese music lovers performing Taiwanese folk songs.
+- Chapter President (1998), [[organizations/north-america-taiwanese-womens-association-detroit-chapter||NATWA Detroit Chapter]]; editor of 聯誼通訊 and 婦女信箱; member of [[organizations/north-america-taiwanese-womens-association||NATWA]] / NATMA since 1988.
+- Coordinated NATWA sponsorship of the Akron Symphony Orchestra concert (February 10) featuring Taiwanese American violinist [[people/cho-liang-lin||Cho-Liang Lin]] and conductor [[people/ya-hui-wang||Ya-Hui Wang]].
+- Husband: 洪正幸.
 
 ## Family
 

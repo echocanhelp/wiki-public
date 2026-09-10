@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Dr. Kun T. Liao (廖坤塗醫師)
 
@@ -29,6 +29,14 @@ Accomplishment
 ## Employment
 - National Taiwan Univ. Hospital, Taiwan — Physician — (1960-) — Johns Hopkins Univ. School of Medicine-Baltimore City Hospitals — Physician — (1963-) — Wilmington Medical Center, Wilmington, Delaware — Physician — (1964-) — Washington Univ. Medical School, St. Louis, MO — Academic Medicine — (1969-) — Community — North American Taiwanese Association (北美洲台灣人醫師協會) — President 1988-1990 — Taiwanese Medical Society of Greater St. Louis (大聖路易地區台灣醫學會) — First President 1975 — TAA/Greater St. Louis (聖路易台灣同鄉會) — President 1974 — Plains Region Fall Camp (平原區秋令會) — Coordinator 1989 — North America Taiwanese Professors' Association (NATPA)/St. Louis Chapter (北美洲台灣人教授協會聖路易分會) — President
 <!-- tah-tables:end -->
+
+## Career & Community Record
+- Born 1933 in Yunlin, Taiwan; died 2016. M.D., National Taiwan University, 1958.
+- Physician at National Taiwan Univ. Hospital (1960-); Johns Hopkins Univ. School of Medicine / Baltimore City Hospitals (1963-); Wilmington Medical Center, Wilmington, Delaware (1964-); academic medicine at Washington Univ. Medical School, St. Louis, MO (1969-).
+- First President, Taiwanese Medical Society of Greater St. Louis (大聖路易地區台灣醫學會), 1975.
+- President, [[organizations/taiwanese-association-of-america-in-greater-st-louis||Taiwanese Association of America in Greater St. Louis]], 1974 (see also [[organizations/taiwanese-association-of-america||Taiwanese Association of America]]).
+- President, North American Taiwanese Association (北美洲台灣人醫師協會), 1988-1990; Coordinator, Plains Region Fall Camp (平原區秋令會), 1989; President, North America Taiwanese Professors' Association (NATPA) St. Louis Chapter.
+- Family: wife Grace Yasin (顏雅幸); daughters Angela and Marjorie; son Jimmy.
 
 ## Family
 
