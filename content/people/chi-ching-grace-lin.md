@@ -54,5 +54,7 @@ _No filled family fields on the TAH profile._
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
+- [[organizations/youth-orchestra-cycny||CYCNY 紐約幼獅青少年管弦樂團]] — the ensemble for her 2008 Lincoln Center concerto premiere (deepen pass 2026-09-10; cross-link only, no new biographical claims)
+- [[works/taiwaneseamericanhistory-org/ourjourneys306||TAH #306 方秀蓉 / 紐約幼獅青少年管弦樂團簡介]] — corroborating encyclopedia entry also citing CYCNY
 - [[organizations/taiwanese-american-historical-society||TAHS（台美人歷史協會）]] — 姊妹組織，共同維基百科式知識庫
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

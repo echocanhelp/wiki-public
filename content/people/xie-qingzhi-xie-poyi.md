@@ -76,3 +76,8 @@ The Xie family's story demonstrates the depth of commitment to Taiwan among over
 - [[organizations/taiwanese-american-historical-society||TAHS]]
 - [[sources/2023-tahs-publication||2023 TAHS Publication]]
 - [[people/zheng-bing-quan||Zheng Bingquan (鄭炳全)]]
+- [[people/chen-shuibian||Chen Shui-bian (陳水扁)]] — publicly called Xie Qingzhi「護台神山」at the 2024 國史館《陳水扁總統訪談錄》launch（coverage in the [[sources/taiwanjustice-net||taiwanjustice.net archive]] above）
+
+## Deepen pass 2026-09-10
+
+- Cross-links above point only to existing vault pages; the「護台神山」/「功在南科」events were already stated in Career and are now linked to [[people/chen-shuibian||陳水扁]] and the [[sources/taiwanjustice-net||taiwanjustice.net archive]] hub. No new biographical claims added.
