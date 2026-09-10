@@ -49,5 +49,6 @@ _No filled family fields on the TAH profile._
 
 ## Related Pages
 - [[people/amanda-hsu||Amanda Hsu]] — fellow Glorystar Children's Chorus（華府榮星兒童合唱團）faculty member; co-founder and conductor of the Haitien Chorus（海天合唱團）, which Jeng also conducted for many seasons
+- [[people/frank-c-h-chen||Frank C. H. Chen（陳信宏）]] — per his page, accompanied Haitien Chorus（海天合唱團）performances alongside [[people/amanda-hsu||Amanda Hsu]]; same DC-area Chinese choral circle Jeng moved in
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
