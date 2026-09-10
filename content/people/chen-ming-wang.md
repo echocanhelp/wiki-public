@@ -42,6 +42,14 @@ Accomplishment
 - 2018– — Chinese Professional Baseball League, pitcher coach
 - 2018 — documentary 《後勁：王建民》(*Late Life: The Chien-Ming Wang Story*) nominated for 金馬 Golden Horse Best Documentary
 
+## Career notes (from cited TAH Who's Who facts)
+
+- Born 1980 台南 (Tainan); trained at 台北市立體育學院 (Taipei City Sports College)
+- MLB pitcher: New York Yankees 2005–2009, Washington Nationals 2011–2012, Toronto Blue Jays 2013, Kansas City Royals 2016
+- 2018– CPBL pitcher coach
+- Documentary [[works/taiwaneseamericanhistory-org/late-life-the-chien-ming-wang-story||《後勁：王建民》Late Life]] nominated for 金馬 (Golden Horse) Best Documentary, per TAH encyclopedia #124
+- Family: wife 吳嘉姈; sons Justin Jesse Wang (王鵬硯) and Wellington Wang (王照升) — recorded in the [[organizations/tah-foundation||TAH Foundation]] Who's Who profile
+
 ## References in vault
 - [[works/taiwaneseamericanhistory-org/late-life-the-chien-ming-wang-story||紀錄片「後勁-王建民」]]
 - [[works/taiwaneseamericanhistory-org/127-late-life||127. LATE LIFE: THE CHIEN-MING WANG STORY | 後勁：王建民 | OFFICIAL TEASER]]
