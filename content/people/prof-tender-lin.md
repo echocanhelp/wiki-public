@@ -41,6 +41,11 @@ Absorbed from the TAH profile above:
 - Career path: assistant professor at Miami Dade Junior College, FL (1971-); research director and clinical psychologist, South Carolina Dept. of Mental Health (1973–1989); guest associate in the departments of elementary education at Tainan Teachers College (1989-) and Taipei City Teachers College (1990-); adjunct associate professor, National Chengchi Univ. Institute of Education (1991–2000); psychologist and director, EBTACSC (2001-).
 - Trained at National Normal Univ. (B.S. Education 1962), Northeast State Univ. of Missouri (M.S. Guidance 1966), and UCLA (Ph.D. Counseling Psychology 1970).
 
+## Connected in the Vault
+
+- His own TAH encyclopedia entries are harvested in the vault: [[works/taiwaneseamericanhistory-org/74-prof-tender-lin||TAH #74 entry]] and [[works/taiwaneseamericanhistory-org/whos-who-169-tender-lin||TAH #169 Who's Who entry]], alongside a [[works/taiwaneseamericanhistory-org/collection-of-prof-tender-lin||collection of his writings]].
+- His center is cross-linked from [[organizations/east-bay-taiwanese-americans-community-service-center-ebtacsc||the EBTACSC organization page]]; the Garden Club he originated has no vault page yet.
+
 ## Family
 
 - **Wife:** 平井征子

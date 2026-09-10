@@ -46,6 +46,11 @@ Absorbed from the TAH profile text above:
 
 _No filled family fields on the TAH profile._
 
+## Connected in the Vault
+
+- Her own TAH encyclopedia entries are harvested in the vault: [[works/taiwaneseamericanhistory-org/whos434-wei-jane-chir||TAH #434 Who's Who entry]] and [[works/taiwaneseamericanhistory-org/artist47-wei-jane-chir||TAH #47 artist entry]].
+- The 2003 documentary she directed, 《葉蕾蕾傳奇》, profiles 葉蕾蕾; no separate vault page for 葉蕾蕾 exists yet.
+
 ## Sources
 - [TAH #434 encyclopedia: 434. Wei Jane Chir 池農深/2015/06](https://taiwaneseamericanhistory.org/whos434-wei-jane-chir/)
 - [TAH #47 encyclopedia: 47. 池農深Wei Jane Chir/2015/06](https://taiwaneseamericanhistory.org/artist47-wei-jane-chir/)
