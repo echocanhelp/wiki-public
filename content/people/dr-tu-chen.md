@@ -62,3 +62,6 @@ Accomplishment
 - [[works/taiwaneseamericanhistory-org/25-dr-tu-chen||TAH #25 profile]]
 - [[works/taiwaneseamericanhistory-org/107-dr-tu-chen-e9-99-b3-e9-83-bd-e5-8d-9a-e5-a3-ab-famous-enterpriser-in-compute||TAH #107 profile (San Jose enterpriser)]]
 - [[works/taiwaneseamericanhistory-org/whos-who-17-chen-tu-chen||TAH #17 profile]]
+- [[works/taiwaneseamericanhistory-org/92-dr-tu-chen-dr-c-c-shir-and-dr-c-s-huang-e9-99-b3-e9-83-bd-e3-80-81-e7-9f-b3-e||TAH #92 百科條目（Dr. Tu Chen 等三人）]] — vault 內另一則含本人之條目
+
+<!-- deepen-note: 2026-09-10 — 僅重組本頁既有事實並補上 vault 內已存在之作品頁連結；未新增傳記內容。FAPA 目前 vault 僅有 [[organizations/fapa-los-angeles||洛杉磯分會]] 與 [[organizations/fapa-orange-county||橙縣分會]] 頁面，本頁所載為 FAPA 全國董事會，故未連至分會頁。 -->

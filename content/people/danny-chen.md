@@ -35,6 +35,13 @@ last_reviewed: 2026-09-10
 - A 2025 TJ report names a **陳啟耕** as 世台基金會副執行長兼發言人 — same name; identity **not confirmed** against this lawyer's record
 - Board archive snapshot: `knowledge/web-archives/taiwancenter-org-board.md`
 
+## Timeline（自上方 Board record 既有日期彙整，deepen 2026-09-10）
+- **2018-06** — 第11屆董事會以台美律師會名義出任團體董事
+- **2020-04-25** — 主講會館首場線上活動（移民講座，與 Career Taiwan USA Association 合辦，逾百人參加）
+- **2021-05** — 共同發起南加州僑界支持台灣參與 WHA 聯合聲明
+- **2021-10** — 獲總統提及，列為海外十大傑出青年（長期在加州服務海外台灣人）
+- **2024-11** — 列名會館第26周年年會晚宴公告之38位董事
+
 ## Related Pages
 
 - [[organizations/taiwan-center||Taiwan Center]]

@@ -37,6 +37,16 @@ Accomplishment
 - 3rd President of the Taiwanese America Seniors Association of Southern California (TASA), 1983–1988.
 - Founding member of the [[organizations/chang-jung-girls-high-school-alumni-association-southern-california||Chang Jung Girls' High School Alumni Association of Southern California]] (台南長榮女中南加州校友會).
 
+## Timeline（自本頁既有記載彙整，deepen 2026-09-10）
+- 1908 — 出生於高雄（Era 1908–2011）
+- 1926 — 自長榮女中畢業
+- 1926–1928 — 就讀日本東京青山學院神學部
+- 1945–1948 — 任職高雄女中，教授音樂
+- 其後 — 回母校長榮女中教授聖經與音樂，並任舍監
+- 1983–1988 — 任第三屆南加州台灣人長輩會（TASA）會長
+- 1994/09 — 首屆全美模範阿婆選拔，為唯一亞裔得獎人（TAH #283）
+- 2011 — 逝世（Era 記載）
+
 ## Family
 
 - **Husband:** 賴聰獻
