@@ -33,6 +33,20 @@ last_reviewed: 2026-09-10
 - 東吳大學音樂學系 — present — 副教授
 <!-- tah-tables:end -->
 
+## Timeline
+
+- 出生於台北；就讀光仁小學及中學音樂班，師事潘鵬、蔡純明、柯尼希（Wolfram König）及顏丁科
+- 1973 — 赴奧地利進修，入國立維也納音樂學院小提琴演奏科，師事 Eduard Melkus 及 Ernst Kovacic
+- 1982 — 自維也納音樂學院畢業，成為該院第一位獲得小提琴演奏科文憑之台灣人
+- 1982–1984 — 參加當代大師 Nathan Milstein 於瑞士蘇黎士親自指導之 Master class，獲全額獎學金
+- 1983 — 赴美師事名教授 Dorothy DeLay；同年榮獲 Aspen 舉行之 Dorothy Starling 小提琴國際公開賽冠軍，並獲 Cincinnati 大學音樂研究所四年獎學金及獎金
+- 1985–1992 — 任美國哥倫布交響樂團（Columbus Symphony Orchestra）協理首席（Associate Concertmaster）
+- 1989 起 — 國家交響樂團首席及台灣絃樂四重奏第一小提琴
+- 1995-07-29 — 應 TUF 台灣名家演奏系列邀請赴洛杉磯演出（詳見 Connected in the Vault）
+- 1995-09-29 — 列名《台灣民謠之夜》（Luckman Hall, CSULA）演出名單
+- 1987 — 畢業於美國，獲得藝術家文憑（Cincinnati 大學音樂研究所）
+- 現任 — 台北市立交響樂團團長；東吳大學音樂學系副教授
+
 ## Family
 
 _No filled family fields on the TAH profile._
