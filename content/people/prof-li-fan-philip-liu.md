@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Prof. Li-Fan Philip Liu (劉立方教授)
 
@@ -38,6 +38,11 @@ _No filled family fields on the TAH profile._
 - [TAH #2021 encyclopedia: 2021. Prof. Li-Fan (Philip) Liu  劉立方教授](https://taiwaneseamericanhistory.org/whos-who-2021-li-fan-liu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-li-fan-philip-liu/)
 
+## Connected in the Vault
+- Vault records about them: [[works/taiwaneseamericanhistory-org/whos-who-2021-li-fan-liu|2021. Prof. Li-Fan (Philip) Liu  劉立方教授]]
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[organizations/cornell-taiwanese-american-society||Cornell Taiwanese American Society]]
+- [[organizations/association-of-taiwanese-students-at-mit||Association of Taiwanese Students at MIT]]

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Tzuying Huang (黃姿穎)
 
@@ -39,6 +39,9 @@ _No filled family fields on the TAH profile._
 - [TAH #341 encyclopedia: 341. Tzuying Huang 黃姿穎, Bass Clarinetist / 2016/06](https://taiwaneseamericanhistory.org/musician341/)
 - [TAH #1056 encyclopedia: 1056. Tzuying Huang 黃姿穎 / 2016/06](https://taiwaneseamericanhistory.org/1056-tzuying-huang-%e9%bb%83%e5%a7%bf%e7%a9%8e-201605/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tzuying-huang/)
+
+## Connected in the Vault
+- Vault records about them: [[works/taiwaneseamericanhistory-org/musician341|341. Tzuying Huang 黃姿穎, Bass Clarinetist / 2016/06]] · [[works/taiwaneseamericanhistory-org/1056-tzuying-huang-e9-bb-83-e5-a7-bf-e7-a9-8e-201605|1056. Tzuying Huang 黃姿穎 / 2016/06]]
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
