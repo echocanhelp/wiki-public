@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Min Feng Hsin (辛明峰)
 
@@ -32,7 +32,8 @@ A native of Taiwan, Ming Feng Hsin’s musical career began as a violin soloist 
 
 ## Family
 
-_No filled family fields on the TAH profile._
+- **Spouse** — Wen Qian, his colleague in the Metropolitan Opera Orchestra (per the TAH profile text above)
+- **Children** — Thomas (6) and Olivia (4) as of the 2015 TAH profile snapshot
 
 ## Sources
 - [TAH #380 encyclopedia: 380. Min Feng Hsin 辛明峰 /2015/04](https://taiwaneseamericanhistory.org/380-min-feng-hsin-%e8%be%9b%e6%98%8e%e5%b3%b0/)

@@ -8,7 +8,7 @@ tags:
   - co-founder
   - Los-Angeles
 verification_status: published
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Dr. C.C. Chen (陳昭俊)
 
@@ -80,6 +80,13 @@ Pages that link to **c-c-chen** (c-c-chen):
 
 - C.C. Chen / C. C. Chen
 - 陳昭俊
+
+## Founding network (from the cited source hub [[sources/toward-a-community-of-hope||Toward A Community of Hope]])
+
+- [[people/jonah-chang||Rev. Jonah Chang]] — led the August 1970 experimental worship that preceded the church's founding
+- [[people/chaolong-kao||Dr. Charles C.L. Kao / Chaolong Kao]] — organizing minister (September 1971)
+- The Chen household is listed among the co-founder generation alongside the [[people/daniel-kao||Dr. Daniel Kao]] family
+- **2025 republication** — carried by [[organizations/national-taiwanese-presbyterian-council||NTPC]] with [[people/yunching-yeh-davis||Dr. Yunching Yeh Davis]]; C.C. Chen's co-founder listing is preserved in the 50th-anniversary edition
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

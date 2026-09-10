@@ -10,7 +10,7 @@ tags:
   - PCT
   - Taiwan
 verification_status: pending
-last_reviewed: 2026-09-08
+last_reviewed: 2026-09-10
 ---
 # James Laidlaw Maxwell (馬雅各)
 
@@ -56,6 +56,7 @@ Laijohn TOC v2 — bodies not archived:
 ## Vault mentions
 - [[organizations/presbyterian-church-in-taiwan||PCT 教會史]] — clock 1865 Maxwell / 1872 Mackay
 - [[people/john-lai||John Lai]] and [[organizations/elder-john-lai-archives||Elder John Lai Archives]] — 教會史話 trail (201 名醫神技, 301 馬雅各紀念教會史)
+- [[organizations/good-shepherd-taiwanese-presbyterian-church||Good Shepherd Taiwanese Presbyterian Church]] — 該教會頁將 Maxwell（與 [[people/george-leslie-mackay||馬偕]]）列為台灣長老教會宣教起源人物
 
 ## Related Pages
 - [[people/george-leslie-mackay||馬偕]]

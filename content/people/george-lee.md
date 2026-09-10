@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # George Lee (李東亨)
 
@@ -35,11 +35,22 @@ last_reviewed: 2026-08-17
 
 _No filled family fields on the TAH profile._
 
+## Career (from TAH profile)
+- **教職** — Oklahoma州立大學小提琴助理教授；Oklahoma市交響樂團首席小提琴
+- **獎項** — 2001 Michael Hill國際小提琴比賽榮誉獎；Geelong Advertiser樂器比賽首獎；兩度密西根大學提琴協奏曲比賽首獎；Gertrude Langer室內樂首獎；另獲 Corpus Christi、Dorcas McClean、Wenkart Orchestral 等獎項
+- **室內樂** — Rossells Quartet第一小提手（3年）；創組Orpheus Trio；近年定期參與 Holmberg Quartet、Bright Music Ensemble、Oklahoma Chamber Players
+- **樂團經歷** — 2000 德國Schleswig-Holstein Orchestra第二小提琴首座（德、荷巡迴）；2002 Australian Chamber Orchestra澳洲五大城市巡迴；曾任 Ann Arbor Opera、McComb Symphony、Aspen Sinfonia、Lansing Symphony、Queensland Conservatorium Soloists 等樂團首席
+- **2002–04加州時期** — LA Opera、Pacific Symphony Orchestra、Long Beach Symphony Orchestra固定演出；並與 San Francisco Symphony、Santa Barbara Chamber Orchestra合奏
+- **電影音樂** — 參與 Fox、Sony、Warner Bros、Paramount 影片音樂製作
+- **廣播** — 應邀 Australian Broadcasting Corporation 獨奏演出並實況轉播
+
 ## Sources
 - [TAH #240 encyclopedia: 240. George Lee李東亨, Violinist / 2015/07](https://taiwaneseamericanhistory.org/240-george-lee%e6%9d%8e%e6%9d%b1%e4%ba%a8-violinist-201507/)
 - [TAH #497 encyclopedia: 497. George Lee 李東亨 / 2015/07](https://taiwaneseamericanhistory.org/497-george-lee-%e6%9d%8e%e6%9d%b1%e4%ba%a8-201507/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/george-lee/)
 
 ## Related Pages
+- [[works/taiwaneseamericanhistory-org/240-george-lee-e6-9d-8e-e6-9d-b1-e4-ba-a8-violinist-201507||240. George Lee李東亨, Violinist / 2015-07]]
+- [[works/taiwaneseamericanhistory-org/497-george-lee-e6-9d-8e-e6-9d-b1-e4-ba-a8-201507||497. George Lee 李東亨 / 2015-07]]
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

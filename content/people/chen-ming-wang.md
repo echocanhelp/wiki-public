@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-08
+last_reviewed: 2026-09-10
 ---
 # Chen-Ming Wang (王建民)
 
@@ -59,5 +59,9 @@ Accomplishment
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chen-ming-wang/)
 
 ## Related Pages
+- [[works/taiwaneseamericanhistory-org/late-life-the-chien-ming-wang-story||紀錄片《後勁：王建民》Late Life]]
+- [[works/taiwaneseamericanhistory-org/127-late-life||127. LATE LIFE: THE CHIEN-MING WANG STORY]]
+- [[works/taiwaneseamericanhistory-org/videos114||114.【台灣演義】台灣之光．王建民 2013-06-14]]
+- [[works/taiwaneseamericanhistory-org/ourjourneys162||162. 聖地牙哥台灣中心開幕典禮與慶祝音樂會 2015-08]]
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
