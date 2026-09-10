@@ -50,6 +50,11 @@ _No filled family fields on the TAH profile._
 - [TAH #33 encyclopedia: 33. Yi-Ju Chen 陳怡如, Violinist/2014/10](https://taiwaneseamericanhistory.org/musician33/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yi-ju-chen/)
 
+## Connected in the Vault
+
+- Corpus hub: [[sources/taiwaneseamericanhistory-org-story-corpus|TAH story corpus hub]] — her two encyclopedia entries (#33, 2014-10, as Violinist; #1108, 2016-06, as violist) are part of the TAH story corpus.
+- Her two vault records: [[works/taiwaneseamericanhistory-org/musician33|TAH #33]] and [[works/taiwaneseamericanhistory-org/whoswho1108|TAH #1108]]. No vault records yet exist for her principal teachers (Tsuna Sakamoto, Victoria Chiang, Chung-Chen Chen) or for the orchestras she has played in (Winston-Salem Symphony, National Taiwan Symphony Orchestra).
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[works/taiwaneseamericanhistory-org/whoswho1108||TAH #1108: Yi-Ju Chen 陳怡如]]

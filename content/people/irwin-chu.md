@@ -35,6 +35,16 @@ last_reviewed: 2026-09-10
 - **Wife:** 張純枝
 - **Son:** 朱隆英, 朱仲英
 
+## Career Notes
+
+Absorbed from his TAH records (#17, #87, #99, #284) already in the vault:
+
+- Born 1937 in Hiroshima, Japan; educated at National Chung Hsing Univ. (B.S.) and the University of Tokyo (Doctor of Agriculture).
+- In 1986 he was the first president (not owner) of Twylord Plant Laboratories, Ventura, CA — per TAH #87, which frames him as the first president of a business enterprise founded by Taiwanese Americans.
+- Career in horticulture and biotech: Vice President of Ball Horticulture Inc.; President of Twyford International Inc.; founder and president of Taiwan Flower Biotechnology Co., LTD (台灣花卉生物技術股份有限公司) and of A-Turn Biotech Company (艾騰生技股份有限公司).
+- Community: founding member of the Taiwanese American Association / Indiana Chapter — the network held in the vault as [[organizations/taiwanese-association-of-indiana|Taiwanese Association of Indiana]].
+- TAH #284 records his forward-looking column writing (前瞻未來, 專欄寫作, by 吳瑞惠, 2015-06).
+
 
 ## Timeline
 - 1986 — First president (not owner) of Twylord Plant Laboratories, Ventura, CA — [[works/taiwaneseamericanhistory-org/87-dr-irwin-chu-e6-9c-b1-e8-80-80-e6-ba-90-e5-8d-9a-e5-a3-ab-first-president-not|TAH #87]]

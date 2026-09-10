@@ -33,6 +33,12 @@ Taiwanese-born Shih Chieh Huang has exhibited his sculptures and installations a
 
 _No filled family fields on the TAH profile._
 
+## Timeline
+- Born Taipei, Taiwan (era 1975); BFA, University of California San Diego (1998); MFA, School of Visual Arts, Manhattan; studied at Skowhegan School of Painting and Sculpture, Maine.
+- Exhibited at the 52nd Venice Biennial Taiwan Pavilion and the 55th Venice Biennial Collateral Event, Experimenta Biennial of Media Art Melbourne, Busan Biennial, Aichi Triennial, Biennial Zero1 San Jose, Biennial Cuvée (Austria), and ARC Biennial Australia.
+- Showed at the New Museum of Contemporary Art (New York) and MOCA Shanghai; solo exhibitions at Smithsonian National Museum of Natural History, Yerba Buena Center for the Arts, RISD Museum of Art, Beall Center for Art and Technology, and MOCA Taipei.
+- Awards: TED2014 fellowship, Smithsonian Artist Research Fellowship, Creative Capital Grant, Rockefeller Foundation New Media Arts Fellowship, Joan Mitchell Foundation Sculpture Award, three NYFA Fellowships; residencies at Art Omi, Skowhegan, and The Marie Walsh Sharpe Art Foundation.
+
 ## Sources
 - [TAH #34 encyclopedia: 34. 黃世傑 SHIH CHIEH HUANG /2015/03](https://taiwaneseamericanhistory.org/34-%e9%bb%83%e4%b8%96%e5%82%91-shih-chieh-huang-201503/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shih-chieh-huang/)

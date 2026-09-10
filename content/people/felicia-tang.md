@@ -35,6 +35,14 @@ Tang, Chien-Yuh 唐千畬, B.M., M.M. in piano performance, The Juilliard School
 
 _No filled family fields on the TAH profile._
 
+## Timeline
+- Born in Kaohsiung City, Taiwan.
+- 1981 — Recognized by the R.O.C. Ministry of Education as a "Gifted Child in the Performing Arts"; came to the U.S. the same year.
+- Studied at The Juilliard School (B.M./B.S., M.M./M.S. piano) under Martin Canin and Kathrine Parker; won numerous music competitions and awards.
+- Performed with the Philadelphia Orchestra, Queens Symphony Orchestra, Lansdowne Symphony Orchestra, and NYCCC Dance Company; venues include Avery Fisher Hall (Lincoln Center), The Juilliard Theater, Mann Music Center, Tribeca Theater, and the United Nations.
+- Profiled by ABC News, CBS News, television show Vision, Courier Post, and World Journal.
+- Taught piano at Superbrain; teaches at the Renaissance Music and Arts School in New York (listed in her TAH table as 紐約「小亞歷音樂美術學院」).
+
 ## Sources
 - [TAH #1872 encyclopedia: 1872. Felicia Tang 唐千畬 / 09/2017](https://taiwaneseamericanhistory.org/whoswho1872/)
 - [TAH #425 encyclopedia: 425. Chien-Yuh Tang 唐千畬, piano / 09/2017](https://taiwaneseamericanhistory.org/musician425/)

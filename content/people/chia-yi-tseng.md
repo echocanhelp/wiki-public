@@ -35,6 +35,16 @@ last_reviewed: 2026-09-10
 
 _No filled family fields on the TAH profile._
 
+## Performance & Teaching Career
+
+Absorbed from her TAH records (#1759, #416) already in the vault:
+
+- Member (團員) of the Asian Youth Orchestra 亞洲青少年管弦樂團, 1994–1996.
+- June 1999, at age 20, she earned the cello's highest performance diploma (Diplôme Supérieur de Musique) — the highest degree of the Ecole normale de musique de Paris; that November, at the invitation of director Pierre Petit, she performed Tchaikovsky/Rococo Variations at the Salle Cortot recital hall and received coaching from the late cello master Mstislav Rostropovich.
+- Chamber-music distinction (Diplome Superieur de Musique de Chambre, 2001), then M.A. in Music at Yale (2003) and Ph.D. in Musical Arts at the University of Maryland (2007).
+- Teaching and adjudication in the U.S.: cello instructor and juror for the D.C. Youth Orchestra (2004–), string-audition cello juror for the Maryland State Music Teacher Association (2005–), and cello teacher/juror for the GMC Youth Orchestra, Wheaton (2005–).
+- Back in Taiwan: assistant professor of cello at Fu Jen Catholic University, National Taichung University of Education, and National Pingtung University.
+
 ## Timeline
 - 1994–1996 — 團員, 亞洲青少年管弦樂團 (Asian Youth Orchestra)
 - 1999-06 — Age 20: awarded highest-performance cello diploma (Diplôme Supérieur), Ecole normale de musique de Paris; that November studied under Mstislav Rostropovich at Salle Cortot

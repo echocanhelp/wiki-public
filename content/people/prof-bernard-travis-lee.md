@@ -45,6 +45,12 @@ Prof. Bernard Travis Lee 李伯寧教授 – History of Taiwanese American (T.A.
 - Chair, Plastic Surgery Executive Committee, Harvard Plastic Surgery Residency Training Program.
 - Editor-in-Chief, *Journal of Reconstructive Microsurgery* (2013–); Editorial Board, *Archives of Plastic Surgery* (2017–).
 
+## Notes
+
+- Born 1971 in Austin, Texas; medical degrees from Tufts Univ. and Albert Einstein College of Medicine (per his TAH tables).
+- His TAH #33 entry (2020-09) is unusual in the corpus: it was authored by his mother, the artist 林榮峰 / Emily Lee — see [[people/emily-lin-lee||李林榮峰]].
+- His TAH presence spans three encyclopedia records: #33 (footsteps series), #285 (OTA series), and #592 (Who's Who series); all three are held in the vault above.
+
 ## Sources
 - [TAH #33 encyclopedia: 33. Prof. Bernard Travis Lee 李伯寧教授 by Artist 林榮峰 Emily Lee/09/2020](https://taiwaneseamericanhistory.org/footsteps-33/)
 - [TAH #285 encyclopedia: 285. Prof. Bernard Travis Lee 李伯寧教授](https://taiwaneseamericanhistory.org/ota-285/)
