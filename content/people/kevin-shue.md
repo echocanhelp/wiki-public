@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Kevin Shue (許愷洋)
 
@@ -41,3 +41,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/152-kevin-shue-e8-a8-b1-e6-84-b7-e6-b4-8b201502||TAH #152 encyclopedia profile (2015/02)]]
+- [[works/taiwaneseamericanhistory-org/382-kevin-shue-e8-a8-b1-e6-84-b7-e6-b4-8b-201504||TAH #382 encyclopedia profile (2015/04)]]

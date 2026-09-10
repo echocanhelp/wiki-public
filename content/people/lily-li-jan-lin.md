@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Lily Li-Jan Lin (林麗貞)
 
@@ -28,6 +28,12 @@ last_reviewed: 2026-08-17
 ## Employment
 - 師範學院音樂系 (Teachers College, Music Department) — Faculty — 爾灣青少年合唱團 (Irvine Youth Chorus) — Conductor — 南橙縣婦女合唱團 (South Orange County Women's Chorus) — Conductor — 爾灣中文學校合唱團 (Irvine Chinese School Chorus) — Conductor — 師範學院音樂系 (Teachers College Music Department) — Music Faculty — 爾灣青少年合唱團 (Irvine Youth Choir) — Conductor
 <!-- tah-tables:end -->
+
+## Career (absorbed from TAH profile)
+
+林麗貞 graduated from the Department of Music at National Taiwan Normal University (NTNU) in 1982, majoring in vocal performance with a piano minor, and entered NTNU's Graduate Institute of Music Education in 1987 — her alma mater's alumni network is documented at [[organizations/joint-alumni-association-of-taiwan-teachers-college-and-normal-univers||Joint Alumni Association of Taiwan Teachers College and Normal Universities]]. She then devoted 14 years to music education and teacher training as faculty in a teachers-college music department.
+
+In 1990 she emigrated to the United States and settled in Fountain Valley, Orange County, California, where she gave repeatedly acclaimed solo vocal recitals and built a second career as a choral conductor — leading the Irvine Youth Chorus, the South Orange County Women's Chorus, and the Irvine Chinese School Chorus. Her conductor profile was recorded in TAH encyclopedia entry [[works/taiwaneseamericanhistory-org/177-e6-9e-97-e9-ba-97-e8-b2-9e-conductor-201503||TAH #177 (2015/03)]].
 
 ## Family
 

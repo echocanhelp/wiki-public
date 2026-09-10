@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Shih-Yin Chen (陳詩音)
 
@@ -33,6 +33,12 @@ Shih-Yin Chen 陳詩音, conductor, received both bachelor’s and master’s de
 - 紐約立人學院 — 2005-2006 — 兒童合唱團指揮
 - 紐約高低音無伴奏室內合唱團(Treble & Bass Vocal Ensemble) — 2003-2006 — 音樂總監
 <!-- tah-tables:end -->
+
+## Career (absorbed from TAH profiles)
+
+Chen's New York years (documented 2003–2007) established her conducting credentials: she led the children's chorus at 紐約立人學院 (Liren Academy, 2005–2006) and served as music director of the 紐約高低音無伴奏室內合唱團 (Treble & Bass a cappella Vocal Ensemble, 2003–2006), while performing in and occasionally conducting the award-winning vocal group Cantori New York. She holds both a B.S. (2005) and M.S. (2007) in choral conducting from Mannes College The New School for Music, where she studied with Dr. Mark Shapiro on scholarship.
+
+After her master's she returned to Taiwan to join local efforts to build choral groups of world-class caliber: conductor of the Taiwan Chorus, music teacher at Hwa Kang High School, conductor of Dai Chi Junior High School's chorus, conducting professor at Dao Shen Sacred Music College, and music director of Wesly Methodist Church. Her work is recorded in TAH encyclopedia entries [[works/taiwaneseamericanhistory-org/musician23||TAH #23 (2014/10)]] and [[works/taiwaneseamericanhistory-org/whoswho1090||TAH #1090 (2016/06)]].
 
 ## Family
 

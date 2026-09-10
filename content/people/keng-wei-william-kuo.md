@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Keng-Wei William Kuo (郭耿維)
 
@@ -43,3 +43,6 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/introduction-of-the-ta-archives||Introduction of the T.A. Archives 台美史料中心]]
+- [[works/taiwaneseamericanhistory-org/musician-439||TAH #439 encyclopedia profile (02/2021)]]
+- [[works/taiwaneseamericanhistory-org/whos-who-2315-keng-wei-kuo||TAH #2315 encyclopedia profile]]
