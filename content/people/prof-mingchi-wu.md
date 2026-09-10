@@ -38,6 +38,9 @@ last_reviewed: 2026-09-10
 - — President, Formosan Association for Public Affairs (FAPA) Dallas Chapter; President, [[organizations/taiwanese-association-of-america-dallas-fort-worth||TAA Dallas/Fort Worth Chapter]]; President, [[organizations/taiwanese-association-of-south-florida||TAA South Florida Chapter]]; Chairman of the Board, Southeast Taiwanese American Association (SETAA)
 - 2001–2003 — President, Formosan Association for Public Affairs (FAPA)
 
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/203-prof-mingchi-wu|TAH #203]] · [[works/taiwaneseamericanhistory-org/whos-who-975-mingchi-wu|TAH #975 Who's Who]]
+
 ## Family
 
 - **Wife:** 許富美

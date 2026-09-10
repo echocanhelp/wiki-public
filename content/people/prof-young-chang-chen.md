@@ -51,6 +51,9 @@ Prof. Young-Chang Chen 陳榮昌教授 – History of Taiwanese American (T.A. A
 - 社群 — 曾任 [[organizations/north-america-taiwanese-professors-sc||北台教授協會南加分會]] 會長、TAA 聖地牙哥分會長；創辦北美台灣研究（NATSA 一系學研網絡，見 [[organizations/north-american-taiwan-studies-associationnatsa||NATSA]]）
 - 家庭 — 妻廖幸蕙；女 Karen F. Chen；子 Kris I. Chen
 
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/125-prof-young-chang-chen|TAH #125]] · [[works/taiwaneseamericanhistory-org/whos-who-745-young-chang-chen|TAH #745 Who's Who]]
+
 ## Sources
 - [TAH #125 encyclopedia: 125. Prof. Young-Chang Chen 陳榮昌教授](https://taiwaneseamericanhistory.org/125-prof-young-chang-chen/)
 - [TAH #745 encyclopedia: 745. Prof. Young-Chang Chen 陳榮昌教授](https://taiwaneseamericanhistory.org/whos-who-745-young-chang-chen/)

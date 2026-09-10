@@ -44,6 +44,9 @@ Accomplishment
 - 2013– — Distinguished Research Fellow, Genomics Research Center, Academia Sinica
 - 2014–2019 — Chancellor & Distinguished Professor, University of California, Irvine; from 2014 also Principal, China Medical University
 
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/whos-who-1795-wen-hwa-lee|TAH #1795 Who's Who]]
+
 ## Family
 
 - **Wife:** 潘玉華

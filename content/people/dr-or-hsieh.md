@@ -58,3 +58,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[people/dr-jen-yih-chu||Dr. Jen-Yih Chu（朱真一，TAH #96 記述者）]]
