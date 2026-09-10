@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Dr. Song-Ping Lee (李嵩斌醫師)
 
@@ -35,7 +35,7 @@ Accomplishment
 
 ## Recognition & Community Service (absorbed from vault corpus)
 
-From 1972 Dr. Lee kept a private otolaryngology practice in Topeka, Kansas, becoming a fellow of both the American Academy of Ophthalmology and Otolaryngology and the American College of Surgeons (F.A.C.S.), and a fixture of Kansas community life — founding the Kansas Chapter and lifetime member of the North American Taiwanese Medical Association [[organizations/north-america-taiwanese-medical-association-foundation||NATMA]], board member of the [[organizations/taiwanese-united-fund||Taiwanese United Fund]] and of FAPA [[organizations/fapa-los-angeles||FAPA Los Angeles chapter record]], and a supporter and volunteer of the Marian Clinic. His humanitarian recognition was recorded in the TAH encyclopedia: [[works/taiwaneseamericanhistory-org/award-78||TAH #78, 2012 Heart of St. Francis Award (published 2021-02-17)]]. Broader Taiwanese Kansas community activity appears at [[organizations/taiwanese-association-of-greater-kansas-city-takc||TAKC]]. His biographical entry is [[works/taiwaneseamericanhistory-org/whos-who-2311-song-ping-lee||TAH #2311]].
+From 1972 Dr. Lee kept a private otolaryngology practice in Topeka, Kansas, becoming a fellow of both the American Academy of Ophthalmology and Otolaryngology and the American College of Surgeons (F.A.C.S.), and a fixture of Kansas community life — founding the Kansas Chapter and lifetime member of the North American Taiwanese Medical Association [[organizations/north-american-taiwanese-medical-association-foundation||NATMA]], board member of the [[organizations/taiwanese-united-fund||Taiwanese United Fund]] and of FAPA [[organizations/fapa-los-angeles||FAPA Los Angeles chapter record]], and a supporter and volunteer of the Marian Clinic. His humanitarian recognition was recorded in the TAH encyclopedia: [[works/taiwaneseamericanhistory-org/award-78||TAH #78, 2012 Heart of St. Francis Award (published 2021-02-17)]]. Broader Taiwanese Kansas community activity appears at [[organizations/taiwanese-association-of-greater-kansas-city-takc||TAKC]]. His biographical entry is [[works/taiwaneseamericanhistory-org/whos-who-2311-song-ping-lee||TAH #2311]].
 
 ## Family
 

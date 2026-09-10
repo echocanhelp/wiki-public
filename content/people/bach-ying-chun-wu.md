@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Bach Ying-Chun Wu (吳英俊)
 
@@ -59,5 +59,13 @@ The preface quoted above was written by [[people/tyzen-hsiao||Tyzen Hsiao (蕭�
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
+## Connected in the Vault
+
+- His four held compositions and both encyclopedia entries are work pages in the TAH corpus (see Works above), all reachable from [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]].
+- The preface author [[people/tyzen-hsiao||Tyzen Hsiao (蕭泰然)]] is a separate person page in the vault; his own profile cross-references the same [[organizations/presbyterian-church-in-taiwan||PCT]] church-music tradition that trained Wu at 台灣神學院音樂系.
+- Employment listed in the TAH harvest tables (香柏樹樂坊 music director, 洛杉磯之聲 choral conductor, 聖達福音教會 music director) have no vault pages yet — no wikilinks invented.
+
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
+- [[people/tyzen-hsiao||Tyzen Hsiao (蕭泰然)]] — wrote the preface quoted above
+- [[works/taiwaneseamericanhistory-org/whoswho1476||TAH #1476]] / [[works/taiwaneseamericanhistory-org/musician383||TAH #383]] — published profile pages

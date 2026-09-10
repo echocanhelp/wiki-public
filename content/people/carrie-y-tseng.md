@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Carrie Y. Tseng (曾郁庭博士)
 
@@ -47,6 +47,10 @@ _No filled family fields on the TAH profile._
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/carrie-y-tseng/)
+
+## Connected in the Vault
+- Vault records about her: [[works/taiwaneseamericanhistory-org/musician379|379. Carrie Y. Tseng 曾郁庭, Cellist / 2016/12]] · [[works/taiwaneseamericanhistory-org/whoswho1448|1448. Carrie Y. Tseng 曾郁庭 / 2016/12]]
+- Her Arizona doctoral years (D.M.A., 2016) sit inside the vault's ASU Taiwanese student-community record — see [[organizations/asu-taiwanese-international-student-association||ASU Taiwanese International Student Association]] and [[organizations/arizona-taiwanese-student-association||Arizona Taiwanese Student Association]].
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

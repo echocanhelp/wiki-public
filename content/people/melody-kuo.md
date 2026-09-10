@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Melody Kuo (郭雋律)
 
@@ -41,6 +41,11 @@ _No filled family fields on the TAH profile._
 - [TAH #229 encyclopedia: 229. Melody Kuo 郭雋律 / 2015/01](https://taiwaneseamericanhistory.org/229-melody-kuo-%e9%83%ad%e9%9b%8b%e5%be%8b-pianist-201501/)
 - [TAH #119 encyclopedia: 119. Melody Kuo 郭雋律,  Pianist / 2015/01](https://taiwaneseamericanhistory.org/119-melody-kuo-%e9%83%ad%e9%9b%8b%e5%be%8b-piano-accompanist/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/melody-kuo/)
+
+## Family & Vault Connections (deepened 2026-09-10, vault-internal)
+- Mother: [[people/l-m-chen||L. M. Chen (陳麗美)]], an educator (B.A. Music, National Taiwan Normal University; teacher at Guangren Catholic Elementary School, Taipei, and Taipei Municipal Zhong Shan Girls High School). Per her vault page, Melody (郭雋律) is listed as a daughter, alongside her sister Ingrid (郭雋音); father: 郭順良.
+- Career facts already on this page, absorbed from TAH #229 / #119: DMA and M.M. in Piano Performance, University of Southern California (1993 DMA per the education table), with studies in Accompanying and Church Music; scholarships from the Dr. Ewart Williams and Helen Bailey Schiavo foundations.
+- Current posts per the employment table: accompanist for the Chinese Christian Chorale of Los Angeles (洛杉磯華人聖樂團 / 洛杉磯華人合唱), and music teacher at 台福神學院 (Logos Evangelical Seminary) and 真道神學院 (Truth Theological Seminary); adjudicator for the Southwestern Youth Music Festival and MTAC Certificate of Merit exams; Pi Kappa Lambda member; Vice President, MTAC Los Angeles Branch.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # I-Ting Huang (黄怡婷)
 
@@ -41,6 +41,10 @@ _No filled family fields on the TAH profile._
 ## Sources
 - [TAH #472 encyclopedia: 472. I-Ting Huang 黄怡婷/2015/06](https://taiwaneseamericanhistory.org/whos472-i-ting-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/i-ting-huang/)
+
+## Connected in the Vault
+- Vault records about her: [[works/taiwaneseamericanhistory-org/whos472-i-ting-huang|472. I-Ting Huang 黄怡婷]] · [[works/taiwaneseamericanhistory-org/201-i-ting-huang-e9-bb-83-e6-80-a1-e5-a9-b7-violist-201505|201. I-Ting Huang 黃怡婷, Violist / 2015/05]]
+- Her Mannes training (M.M. 2004, P.S.D. 2006, LCU Foundation–sponsored full scholarship) is recorded in the vault alongside mentor [[people/hsin-yun-huang|Hsin-Yun Huang]]; her UMKC D.M.A. (2013) connects to co-teacher [[people/scott-lee|Scott Lee]]. Her orchestral staff posts (Santa Barbara Chamber Orchestra, San Bernardino Symphony assistant principal) place her in the vault's Southern California network.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

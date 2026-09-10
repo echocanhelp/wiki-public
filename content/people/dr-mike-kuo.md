@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Dr. Mike Kuo (郭正光博士)
 
@@ -46,6 +46,10 @@ Per his TAH Who's Who profile, Dr. Kuo led both the community and advocacy sides
 - [TAH #249 encyclopedia: 249. 郭正光博士 Dr. Mike Kuo / 第一位廚師(郭大廚)擁有食品營養學博士 / 1980](https://taiwaneseamericanhistory.org/249-%e9%83%ad%e6%ad%a3%e5%85%89%e5%8d%9a%e5%a3%ab-dr-mike-kuo-%e7%ac%ac%e4%b8%80%e4%bd%8d%e5%bb%a6%e5%b8%ab%e9%83%ad%e5%a4%a7%e5%bb%9a%e6%93%81%e6%9c%89%e9%a3%9f%e5%93%81%e7%87%9f%e9%a4%a1/)
 - [TAH #538 encyclopedia: 538. Dr. Mike Kuo 郭正光博士](https://taiwaneseamericanhistory.org/whos-who-538-mike-kuo/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-mike-kuo/)
+
+## Connected in the Vault
+- Vault records about him: [[works/taiwaneseamericanhistory-org/157-dr-mike-kuo|157. Dr. Mike Kuo 郭正光博士]] · [[works/taiwaneseamericanhistory-org/whos-who-538-mike-kuo|538. Dr. Mike Kuo 郭正光博士]] · [[works/taiwaneseamericanhistory-org/249-e9-83-ad-e6-ad-a3-e5-85-89-e5-8d-9a-e5-a3-ab-dr-mike-kuo-e7-ac-ac-e4-b8-80-e|249. 郭正光博士 / 第一位廚師(郭大廚)擁有食品營養學博士 / 1980]] · [[works/taiwaneseamericanhistory-org/250-e9-83-ad-e6-ad-a3-e5-85-89-e5-8d-9a-e5-a3-ab-dr-mike-kuo-e7-ac-ac-e4-b8-80-e|250. 郭正光博士 / 第一位經歷無重力狀態飄浮空中的滋味]]
+- His own memoir in the story corpus: [[works/taiwaneseamericanhistory-org/mystories319|319. 從椰林大道到休士頓太空中心 / 郭正光 / 2015/08]]; his FAPA chapter presidency is recorded in the FAPA chapter chronicle [[works/taiwaneseamericanhistory-org/our-journeys-370|370. FAPA TX-C中徳州分會記事 2018- / Pearl Wu]].
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

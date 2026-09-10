@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - Taiwan-School
 verification_status: published
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Xu Shitan (徐士坦)
 
@@ -31,6 +31,12 @@ No further biography is published on the site; no details are invented here.
 - **Content priority A:** Named on Taiwan Center class-information page (`taiwancenter-org-class-information.md`)
 - **Hub:** [[sources/taiwancenter-org||taiwancenter.org]]
 - **Content priority C:** Full biography not published on site
+
+## Connected in the Vault
+
+- Listed in the Taiwan School courses & teachers table on [[organizations/taiwan-center||Taiwan Center]] (電腦 class, weekend · $40) — the only vault record of Xu beyond the source page itself.
+- Instructor-cohort pages that cross-link back here (mutual wikilinks): [[people/april-lin||April Lin (林淑卿)]], [[people/wang-rongyi||王榮義]], [[people/joyce-yeh||Joyce Yeh (葉怡蘭)]], [[people/joseph-teng||Joseph Teng (曾英銘)]], [[people/samantha-yu||Samantha Yu (游蕙綾)]], [[people/joe-hu||Joe Hu (胡永全)]], [[people/simon-lin||Simon Lin (林榮松)]], [[people/he-sumei||He Sumei (何素美)]], [[people/lisa-liu||Lisa Liu (劉雅薇)]], [[people/wei-boji||Wei Boji (魏博基)]].
+- No biography, workplace, or education facts exist in any vault source — none invented here.
 
 ## Related Pages
 

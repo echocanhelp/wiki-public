@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Hwa-Chow Oliver Hsu (許華洲)
 
@@ -42,6 +42,14 @@ Born and raised in Vienna, Austria, Hwa-Chow Oliver Hsu began studying cello at 
 - [TAH #366 encyclopedia: 366. Hwa-Chow Oliver Hsu 許華洲/2015/04](https://taiwaneseamericanhistory.org/366-hwa-chow-oliver-hsu-%e8%a8%b1%e8%8f%af%e6%b4%b2201504/)
 - [TAH #151 encyclopedia: 151. Hwa-Chow Oliver Hsu 許華洲, Cellist /2015/02](https://taiwaneseamericanhistory.org/151-hwa-chow-oliver-hsu-%e8%a8%b1%e8%8f%af%e6%b4%b2201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hwa-chow-oliver-hsu/)
+
+## Career & Musical Lineage (deepened 2026-09-10, vault-internal)
+Absorbed from this page's TAH encyclopedia entries (#366, #151) and the TAH tables above:
+- Musical training began in Vienna: cello at age 5, piano at age 10; national "Jugend Musiziert" laureate on both instruments.
+- Cello teachers: Martin Hornstein (Vienna Schubert Trio / Altenberg Trio), Vivian Barton, Deborah Reeder, Paul Tobias; formative theory study with Carl Schachter and pianism with Marcantonio Barone.
+- Swarthmore College (B.A. Computer Science, minor in Music, 2003): Garrigues Music Scholarship recipient; co-winner, 2002 Swarthmore Concerto Competition.
+- Mannes College of Music (M.M. 2007, double major Cello Performance & Music Theory).
+- Dual career: software engineer at Tradeweb (2007–present) alongside cello & theory teaching at Bryn Mawr Conservatory (2003–2011).
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

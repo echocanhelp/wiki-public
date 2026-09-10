@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Dr. Kun T. Liao (廖坤塗醫師)
 
@@ -50,6 +50,10 @@ Accomplishment
 - [TAH #165 encyclopedia: 165. Dr. Kun T. Liao 廖坤塗醫師](https://taiwaneseamericanhistory.org/165-dr-kun-t-liao/)
 - [TAH #672 encyclopedia: 672. Dr. Kun T. Liao 廖坤塗醫師](https://taiwaneseamericanhistory.org/whos-who-672-kun-t-liao/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-kun-t-liao/)
+
+## Connected in the Vault
+- Vault records about him: [[works/taiwaneseamericanhistory-org/senior-taiwanese-american-27|27. Dr. Kun T. Liao (廖坤塗醫師)]] · [[works/taiwaneseamericanhistory-org/165-dr-kun-t-liao|165. Dr. Kun T. Liao 廖坤塗醫師]] · [[works/taiwaneseamericanhistory-org/whos-who-672-kun-t-liao|672. Dr. Kun T. Liao 廖坤塗醫師]] · [[works/taiwaneseamericanhistory-org/mystories413|413. 廖坤塗醫師簡介 / 朱真一 / 2016/03]]
+- He appears in [[works/taiwaneseamericanhistory-org/ourjourneys74|74. 1983至1990的北美洲台灣人醫師協會 / 周烒明撰•吳美芬整理 / 2014/12]] as president (1988–1990) of the 北美洲台灣人醫師協會, the association documented in [[organizations/north-american-taiwanese-medical-association-foundation||North American Taiwanese Medical Association Foundation]].
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
