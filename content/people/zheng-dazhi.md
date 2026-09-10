@@ -27,13 +27,13 @@ last_reviewed: 2026-09-09
 
 Zheng Dazhi is an artist whose primary medium is wood sculpture. His works "智者" (The Wise) and "富蘭克林" (Franklin) demonstrate his skill in carving and his engagement with philosophical themes. The profile, written by [[people/zheng-bing-quan||Zheng Bingquan]], includes details about his childhood, his approach to art, and his impact on the local Taiwanese American community.
 
-## Career
+## Life (from the 2023 TAHS Publication archive)
 
-Zheng's artistic career spans decades of wood carving, during which he has created sculptures that explore themes of wisdom, perseverance, and the human condition. His works are characterized by careful attention to detail and a deep understanding of the material properties of wood.
+鄭達志 (John Cheng) was born in Taiwan in 1969 and immigrated to the United States with his parents at age one, growing up in a small town in East Texas. His father, a small-town physician, inspired him to enter medicine. He earned his medical degree at Texas Tech School of Medicine, completed residency and research training in family and sports medicine with UCLA and Kaiser, and joined South Coast Medical Group in Aliso Viejo, focusing on nutrition and sports-medicine care. He served as team physician for the Aliso Niguel High School football team and led medical examinations for its ~400 student athletes, and trained in traditional martial arts (七星螳螂拳, per his coach's shirt in photos cited by the *Tyler Morning Telegraph*).
 
-## Legacy
+## The Laguna Woods shooting, 2022-05-15
 
-Zheng's sculptures "智者" and "富蘭克林" have been exhibited in local Taiwanese American art shows, where they have been praised for their craftsmanship and philosophical depth. His approach to art — combining technical skill with philosophical reflection — has inspired other community artists.
+Zheng was not a member of the Geneva Presbyterian Church congregation in Laguna Woods (used by the local Taiwanese Presbyterian community, all services in Taiwanese); he attended that day to accompany his widowed mother in place of his father, who had died about three months earlier. When the gunman (周文偉, David Wenwei Chou) opened fire at the post-service lunch, Zheng rushed him and took three bullets, physically blocking further shots; the gun then jammed, allowing pastor [[people/zhang-xuanxin||張宣信 (Billy Chang)]] to strike the gunman with a chair while others subdued him. Zheng, 52, died; he is survived by his wife and two children (his son was about to enter UCLA pre-med). CNN and other media covered him as the "hero physician" of the shooting — see also [[organizations/irvine-taiwanese-presbyterian-church||Irvine Taiwanese Presbyterian Church]] (張宣信's church) and [[organizations/laguna-woods-village-taiwanese-club||Laguna Woods Village Taiwanese Club]].
 
 ## Source Notes and Confidence
 

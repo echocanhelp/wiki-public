@@ -10,7 +10,7 @@ tags:
   - PCT
   - Tainan
 verification_status: pending
-last_reviewed: 2026-09-06
+last_reviewed: 2026-09-09
 website: https://eastgatebarclay.org/
 ---
 # Tainan East Gate Barclay Memorial Church (東門巴克禮紀念教會)
@@ -43,6 +43,9 @@ A [[organizations/presbyterian-church-in-taiwan||PCT]] congregation in **台南�
 - [[people/shoki-coe||黃彰輝]]
 - [[organizations/presbyterian-church-in-taiwan||PCT]]
 - 社團法人臺南市東門巴克禮歷史教育推廣協會 (on church site)
+
+## Vault coverage
+- Source hub: [[sources/eastgatebarclay-org||eastgatebarclay.org]] — full-domain Tier 2 archive (home, 教會歷史, 部會事工, English history) under `knowledge/web-archives/eastgatebarclay-org/`; entity/fact index at `knowledge/research/eastgatebarclay-org-entities.md`; watched live-small via source-continuity registry `id=eastgatebarclay-org`.
 
 ## Sources
 1. [關於本會](https://eastgatebarclay.org/aboutme/)

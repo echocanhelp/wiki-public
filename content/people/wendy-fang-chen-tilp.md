@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Wendy Fang Chen Tilp (陳丹蘋)
 
@@ -36,6 +36,7 @@ Wendy Fang Chen, pianist and composer born in Brooklyn of Taiwanese descent earn
 - **Son:** Brandon Chen Tilp
 - **Father:** [[people/wen-jer-chen||Wen Jer Chen]]
 - **Mother:** [[people/patsy-fang-chen||Patsy Fang Chen]]
+- **Sister:** [[people/dr-justine-fang-chen||Dr. Justine Fang Chen]] (陳潔思, per father [[people/wen-jer-chen||Wen Jer Chen]]'s TAH profile)
 
 
 ## Sources
@@ -47,3 +48,6 @@ Wendy Fang Chen, pianist and composer born in Brooklyn of Taiwanese descent earn
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/520-grieg-schumann-piano-concertoswendy-fang-chen1990-music-e9-9f-b3-e6-a8-82cd||520. Grieg Schumann Piano Concertos / Wendy Fang Chen / 1990 / 音樂CD]] — her 1990 recording held in the TAH corpus
+- [[works/taiwaneseamericanhistory-org/whos-who-355-wendy-fang-chen-tilp||TAH #355 Who's Who entry]]
+- [[works/taiwaneseamericanhistory-org/182-wendy-fang-chen-e9-99-b3-e4-b8-b9-e8-98-8b-pianist||TAH #182: Wendy Fang Chen 陳丹蘋, Pianist]]

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # San-Nan Chen (陳珊喃)
 
@@ -43,3 +43,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/215-san-nan-chen-e9-99-b3-e7-8f-8a-e5-96-83-pianist201506||TAH #215: San-Nan Chen 陳珊喃, Pianist (2015/06)]]
+- [[works/taiwaneseamericanhistory-org/451-san-nan-chen-e9-99-b3-e7-8f-8a-e5-96-83-201506||TAH #451: San-Nan Chen 陳珊喃 (2015/06)]]
+
+Born and raised in 台灣台南 (Tainan); teaching at Intercultural Montessori Language School since 2009 with Montessori certification for ages 3–6, and M.S. in Piano Performance from Chicago College of Performing Arts, Roosevelt University (2010).

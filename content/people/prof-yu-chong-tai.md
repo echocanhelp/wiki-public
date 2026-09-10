@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Prof. Yu-Chong Tai (戴聿昌教授)
 
@@ -37,7 +37,9 @@ _No filled family fields on the TAH profile._
 ## Sources
 - [TAH #2022 encyclopedia: 2022. Prof. Yu-Chong Tai 戴聿昌教授](https://taiwaneseamericanhistory.org/whos-who-2022-yu-chong-ta/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-yu-chong-tai/)
+- Vault record: [[works/taiwaneseamericanhistory-org/whos-who-2022-yu-chong-ta||TAH #2022 encyclopedia record (published 2018-02-12)]]
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus hub]]

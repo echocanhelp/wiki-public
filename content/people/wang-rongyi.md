@@ -7,11 +7,11 @@ tags:
   - Taiwan-Center
   - Taiwan-School
 verification_status: published
-last_reviewed: 2026-07-16
+last_reviewed: 2026-09-09
 ---
 # Wang Rongyi (王榮義)
 
-**Wang Rongyi (王榮義)** — Choir (合唱團) instructor at Taiwan Center.
+**Wang Rongyi (王榮義)** — Choir (合唱團) instructor at Taiwan Center. Per the Taiwan Center class listing, he leads the 合唱 class (Taiwan Center Choir) on Saturdays 15:00–16:00 ($20), alongside language and cultural classes taught by [[people/joyce-yeh||Joyce Yeh (葉怡蘭)]], [[people/joseph-teng||Joseph Teng (曾英銘)]], and [[people/samantha-yu||Samantha Yu (游蕙綾)]].
 
 ## Identity Snapshot
 

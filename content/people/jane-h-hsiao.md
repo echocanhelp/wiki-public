@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Dr. Jane H. Hsiao (許照惠博士)
 
@@ -35,7 +35,10 @@ _No filled family fields on the TAH profile._
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jane-h-hsiao/)
+- Vault record: [[works/taiwaneseamericanhistory-org/whos-who-1465-jane-h-hsiao||1465. Dr. Jane H. Hsiao 許照惠博士 (2017)]]
+- Vault record: [[works/taiwaneseamericanhistory-org/85-dr-jane-h-hsiao||85. Dr. Jane H. Hsiao]]
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[people/dr-jane-h-hsiao-2||Dr. Jane H. Hsiao (duplicate TAH profile)]] — second TAH Who's Who entry for the same person (born 1947, Changhua; NTU B.S. Pharmacy 1969; Univ. of Illinois Ph.D. 1973; founder of Innotech Laboratory 1981 and co-founder of IVAX 1986)
