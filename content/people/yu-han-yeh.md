@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Yu-Han Yeh (葉宇涵)
 
@@ -38,6 +38,11 @@ _No filled family fields on the TAH profile._
 - [TAH #1208 encyclopedia: 1208. Yu-Han Yeh 葉宇涵 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1208/)
 - [TAH #354 encyclopedia: 354. Yu-Han Yeh 葉宇涵, Pianist / 2016/08](https://taiwaneseamericanhistory.org/musician354/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yu-han-yeh/)
+
+## Vault records（deepen pass 2026-09-10）
+- 本頁傳記之 TAH 出處頁：[[works/taiwaneseamericanhistory-org/whoswho1208||TAH #1208 Yu-Han Yeh 葉宇涵 (2016/08)]]、[[works/taiwaneseamericanhistory-org/musician354||TAH #354 Yu-Han Yeh 葉宇涵, Pianist (2016/08)]]。
+- 求學時期Guidance：高中音樂班導師之一 [[people/grace-chung||Grace Chung]]（TAH #354 傳記所載）。
+- publisher／語料庫：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

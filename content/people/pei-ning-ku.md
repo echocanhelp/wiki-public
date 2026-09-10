@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Pei-Ning Ku (顧蓓寧)
 
@@ -41,6 +41,10 @@ _No filled family fields on the TAH profile._
 - [TAH #202 encyclopedia: 202. Pei-Ning Ku 顧蓓寧 / 2015/01](https://taiwaneseamericanhistory.org/202-jonathan-h-wu-%e5%90%b3%e9%a1%af%e6%98%8e-201501/)
 - [TAH #114 encyclopedia: 114. Pei-Ning Ku 顧蓓寧, Soprano / 2015/01](https://taiwaneseamericanhistory.org/114-pei-ning-ku-%e9%a1%a7%e8%93%93%e5%af%a7-vocalist-201501/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/pei-ning-ku/)
+
+## Vault records（deepen pass 2026-09-10）
+- 本頁傳記之 TAH 出處頁：[[works/taiwaneseamericanhistory-org/114-pei-ning-ku-e9-a1-a7-e8-93-93-e5-af-a7-vocalist-201501||TAH #114 Pei-Ning Ku 顧蓓寧, Soprano (2015/01)]]、[[works/taiwaneseamericanhistory-org/88-pei-ning-ku-e9-a1-a7-e8-93-93-e5-af-a7||TAH #88 Pei-Ning Ku 顧蓓寧]]。
+- publisher／語料庫：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

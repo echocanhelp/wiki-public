@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Meng-Chieh Liu (劉孟捷)
 
@@ -40,6 +40,10 @@ _No filled family fields on the TAH profile._
 - [TAH #80 encyclopedia: 80. Meng-Chieh Liu 劉孟捷, Pianist/2014/11](https://taiwaneseamericanhistory.org/80-meng-chieh-liu-%e5%8a%89%e5%ad%9f%e6%8d%b7-pianist/)
 - [TAH #103 encyclopedia: 103. Meng-Chieh Liu 劉孟捷](https://taiwaneseamericanhistory.org/103-meng-chieh-liu-%e5%8a%89%e5%ad%9f%e6%8d%b7/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/meng-chieh-liu/)
+
+## Vault records（deepen pass 2026-09-10）
+- 本頁傳記之 TAH 出處頁：[[works/taiwaneseamericanhistory-org/80-meng-chieh-liu-e5-8a-89-e5-ad-9f-e6-8d-b7-pianist||TAH #80 Meng-Chieh Liu, Pianist (2014/11)]]、[[works/taiwaneseamericanhistory-org/103-meng-chieh-liu-e5-8a-89-e5-ad-9f-e6-8d-b7||TAH #103 Meng-Chieh Liu]]。
+- publisher／語料庫：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]、[[organizations/tah-foundation||TAH Foundation]]。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

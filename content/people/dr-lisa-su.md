@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Dr. Lisa Su (蘇姿豐博士)
 
@@ -35,6 +35,14 @@ last_reviewed: 2026-08-17
 - **Father:** [[people/su-chun-huai||蘇春槐]]
 - **Mother:** 羅淑雅
 
+
+## Community Context (deepened 2026-09-10)
+All three degrees — B.S. EE 1990, M.S. 1991, Ph.D. 1994 — were earned at MIT, whose Taiwanese student
+network is documented at [[organizations/association-of-taiwanese-students-at-mit||AIT/MIT]]. Named to MIT
+Technology Review's "Top 100 Young Innovators" in 2002. Career path per the tables above: Texas Instruments
+technical staff → IBM VP of SRDC → Freescale Sr. VP & GM Networking & Multimedia → AMD Sr. VP & GM Global
+Business Units (2007) → COO (2012) → CEO & President (2014). Family: husband [[people/daniel-lin||Daniel Lin]],
+father [[people/su-chun-huai||蘇春槐]]; mother 羅淑雅 (no page yet).
 
 ## Sources
 - [TAH #53 encyclopedia: 53. Dr. Lisa Su 蘇姿豐博士](https://taiwaneseamericanhistory.org/53-dr-lisa-su/)

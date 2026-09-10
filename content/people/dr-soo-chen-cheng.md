@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Dr. Soo-Chen Cheng (鄭淑珍博士)
 
@@ -33,6 +33,14 @@ Deputy Director (2006-08); Director (2013-2016)Institute of Molecular Biology; D
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Community Context (deepened 2026-09-10)
+Per the tables above, Cheng's research career is centered at Academia Sinica: B.S. Chemistry, National Taiwan
+Univ. 1977; Ph.D. Biochemistry, Duke Univ. 1983; Deputy Director (2006–2008) and Director (2013–2016) of the
+Institute of Molecular Biology; Distinguished Research Fellow at the Genomics Research Center from 2004;
+adjunct appointments at National Yang-Ming Univ. (1989–2013) and Professor in NTU's Genome and Systems Biology
+Degree Program (2013–). Profiled in TAH Who's Who encyclopedia #1840
+([[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]).
 
 ## Sources
 - [TAH #1840 encyclopedia: 1840. Dr. Soo-Chen Cheng 鄭淑珍博士](https://taiwaneseamericanhistory.org/whos-who-1840-soo-chen-cheng/)

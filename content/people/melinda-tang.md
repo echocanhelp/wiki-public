@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Melinda Tang (陳方俐)
 
@@ -34,6 +34,14 @@ Melinda is a graduate of Northwestern University School of Music, where she rece
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Community Context (deepened 2026-09-10)
+At Northwestern University School of Music (B.M. Piano Performance 1991; M.M. Piano Performance & Pedagogy
+1993) she moved in the same campus circle as [[organizations/taiwanese-american-students-association-of-northwestern-university||TASA at Northwestern]].
+Teachers per the profile above: Laurence Davis, Bernardo Segall, Sylvia Wang; master classes with Jean Barr
+and Claude Frank; accompanying with Davis, choral conducting with Robert Harris. She teaches at Colima山葉音樂學校
+in Rowland Heights and directs/acompanies at 恩惠台灣基督長老敎會 — in the Presbyterian tradition of Taiwan
+([[organizations/presbyterian-church-in-taiwan||台灣基督長老教會]]).
 
 ## Sources
 - [TAH #1117 encyclopedia: 1117. Melinda Tang 陳方俐 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1117/)
