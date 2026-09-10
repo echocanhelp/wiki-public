@@ -9,7 +9,7 @@ tags:
   - musical-theater
   - actor
 verification_status: pending
-last_reviewed: 2026-07-23
+last_reviewed: 2026-09-09
 ---
 # Yang Chengwei (楊呵偉)
 
@@ -58,7 +58,8 @@ Yang Chengwei's story represents the bridge between Taiwanese American families 
 
 ## Source Notes and Confidence
 
-- **Content priority B:** 2023 TAHS Publication (profile, Section 3, page 109)
+- **Content priority B:** 2023 TAHS Publication (profile #17 of 19 in the TOC dump, page 109)
+- The 2023 publication carries 19 profiles total; its Priority-A subjects are Peng Ming-min and [[people/zheng-bing-quan||Zheng Bingquan (鄭炳全)]], who also appears in the 2017 菁英錄
 - **Hub:** [[sources/2023-tahs-publication||2023 TAHS Publication]]
 - **Archive:** `knowledge/web-archives/2023-tahs-publication-part2.md`
 
@@ -67,3 +68,5 @@ Yang Chengwei's story represents the bridge between Taiwanese American families 
 - [[organizations/taiwanese-american-historical-society||TAHS]]
 - [[sources/2023-tahs-publication||2023 TAHS Publication]]
 - [[people/zheng-bing-quan||Zheng Bingquan (鄭炳全)]]
+- [[people/yang-jia-you||Charles Yang (楊嘉猷) — TAHS founding president]]
+- [[people/fan-qingliang||Fan Qingliang (范清亮)]] — adjacent profile #18, p. 116

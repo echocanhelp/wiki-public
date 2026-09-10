@@ -1,7 +1,7 @@
 # Connector suggestions (capped top 80)
 
-- co_citation total=1115 kept=80
-- co_mention total=6175 kept=40
+- co_citation total=1132 kept=80
+- co_mention total=6189 kept=40
 - shared_tags total=0 kept=0
 
 ## Top co-citation
@@ -15,7 +15,7 @@
 - organizations/alumni-association-of-chia-yi-high-school-worldwide.md ↔ organizations/joint-alumni-association-of-taiwan-teachers-college-and-normal-univers.md
 - organizations/boston-taiwanese-christian-church.md ↔ organizations/elder-john-lai-archives.md
 - organizations/boston-taiwanese-christian-church.md ↔ organizations/presbyterian-church-in-taiwan.md
-- organizations/boston-taiwanese-christian-church.md ↔ people/thomas-barclay.md
+- organizations/boston-taiwanese-christian-church.md ↔ people/james-laidlaw-maxwell.md
 - organizations/boston-taiwanese-christian-church.md ↔ people/ahhee-hsu.md
 - organizations/boston-taiwanese-christian-church.md ↔ people/c-y-hsu.md
 - organizations/boston-taiwanese-christian-church.md ↔ people/george-leslie-mackay.md

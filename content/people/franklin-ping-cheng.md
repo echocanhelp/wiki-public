@@ -7,7 +7,7 @@ tags:
   - tahs-publication-2017
   - tahs-leadership
 verification_status: pending
-last_reviewed: 2026-07-19
+last_reviewed: 2026-09-09
 ---
 # Franklin Ping Cheng (程炳成)
 
@@ -31,7 +31,7 @@ Under his presidency, the Society emphasized several key initiatives:
 - **Senior member interviews:** Prioritized recording oral histories from senior community members before memory loss could erase their stories
 - **Lectures and forums:** Organized community educational programming
 - **Video outreach:** Published content on YouTube and the Society's website
-- **2017 yearbook:** Supported founding president Yang's vision to publish a special yearbook introducing community profiles — the 台美菁英錄 (Taiwanese American Elite Record) — which introduced four prominent TA entrepreneurs and outstanding second-generation leaders
+- **2017 yearbook:** Supported founding president Yang's vision to publish a special yearbook introducing community profiles — the 台美菁英錄 (Taiwanese American Elite Record) — which introduced four prominent TA entrepreneurs and outstanding second-generation leaders — among them [[people/sam-chang||Sam Chang]], [[people/katherine-huang||Katherine Huang]], [[people/lisa-su||Lisa Su]] and [[people/shawna-yang-ryan||Shawna Yang Ryan]]
 
 In his November 2017 會長謝詞 (President's Gratitude) in the yearbook, Franklin expressed hope that future publications could include many more community members, and invited recommendations for future profile subjects. He also noted his satisfaction that Yang was well enough to lead the Society again the following year to complete his term.
 
@@ -86,3 +86,8 @@ Pages that link to **程炳成** (franklin-ping-cheng):
 - [[people/yang-jia-you||Charles Yang (楊嘉猷) — founding president]]
 - [[people/huang-gen-shen||Huang Gen-shen — UFAI activist, TAHS founding-era member]]
 - [[people/wang-gui-rong||Wang Gui-rong — TAHS founding-era member]]
+- [[people/katherine-huang||Katherine Huang (黃愷怡) — 2017 菁英錄 profile]]
+- [[people/tiffany-huang||Tiffany Huang — 2017 菁英錄 profile]]
+- [[people/sam-chang||Sam Chang — 2017 菁英錄 profile]]
+- [[people/shawna-yang-ryan||Shawna Yang Ryan — 2017 菁英錄 profile]]
+- [[people/lisa-su||Lisa Su — 2017 菁英錄 profile]]

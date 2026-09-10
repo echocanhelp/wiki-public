@@ -8,7 +8,7 @@ tags:
   - attorney
   - litigation
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Katherine Huang (黃愷怡)
 
@@ -31,7 +31,7 @@ Huang was born in Taiwan and immigrated to the United States at age 5. She excel
 
 - **Harvard University** (A.B. Chemistry, summa cum laude, 1996)
 - **Yale Law School** (J.D., 2000)
-- Editor, The Yale Symposium on Law & Technology
+- Editor-in-chief (總編輯), The Yale Symposium on Law & Technology (2017 TAHS 編按)
 
 Her academic achievements were exceptional, particularly as someone who arrived in the US as a young child and navigated the American education system.
 
@@ -39,21 +39,21 @@ Her academic achievements were exceptional, particularly as someone who arrived 
 
 ### Law Clerk
 
-After law school, Huang served as a law clerk to **Judge Samuel A. Alito, Jr.**, then on the United States Court of Appeals for the Third Circuit. Alito was later elevated to the United States Supreme Court.
+After law school, Huang served as a law clerk to **Judge Samuel A. Alito, Jr.**, then on the United States Court of Appeals for the Third Circuit. Alito was elevated to the United States Supreme Court in 2006 (2017 TAHS 編按).
 
 ### Munger Tolles & Olson
 
-Huang joined the nationally recognized firm of **Munger Tolles & Olson LLP** as a partner, where she handled complex commercial litigation matters.
+Huang joined the nationally recognized firm of **Munger Tolles & Olson LLP** as a partner, where she defended corporations against fraud, tortious interference, and other claims with hundreds of millions of dollars at stake (2017 TAHS profile).
 
 ### Huang Ybarra Singer & May LLP
 
-Huang founded her own firm, **Huang Ybarra Singer & May LLP**, specializing in commercial litigation. The firm handles matters ranging from two-party contract disputes to complex, multi-party litigation across the high-tech, energy, financial and legal services, media and entertainment, and manufacturing sectors.
+Huang founded her own firm, **Huang Ybarra Singer & May LLP**, specializing in commercial litigation; the firm later garnered a spot on the Daily Journal's list of top litigation boutiques. The firm handles matters ranging from two-party contract disputes to complex, multi-party litigation across the high-tech, energy, financial and legal services, media and entertainment, and manufacturing sectors.
 
 ## Notable Cases
 
 ### TASA Lawsuit (2015)
 
-In 2015, Huang represented the **Taiwanese American Seniors Association (TASA)** in a dispute with certain former directors who had wrongfully taken the organization's funds for their own use. After a month-long trial, the court ordered the former directors to return all of the funds to TASA and pay punitive damages. This case was significant for the Taiwanese American community, as it recovered misappropriated funds and held the former directors accountable.
+In 2015, Huang represented the **南加州台灣人長輩會 Taiwanese American Seniors Association (TASA)** — [[organizations/taiwanese-america-seniors-association-of-southern-california-tasa||TASA]] — in a dispute with certain former directors who had wrongfully taken the organization's funds for their own use. After a month-long trial, the court ordered the former directors to return all of the funds to TASA and pay punitive damages. This case was significant for the Taiwanese American community, as it recovered misappropriated funds and held the former directors accountable; the 2017 TAHS 編按 notes the win restored the association's normal operations (「讓它的會務與運作得以恢復正常」).
 
 ## Recognition
 
@@ -66,7 +66,7 @@ In 2015, Huang represented the **Taiwanese American Seniors Association (TASA)**
 
 Huang serves on the board of directors of the **Westside Infant-Family Network**, an award-winning nonprofit organization that provides mental health therapy to young children and their families.
 
-She is proficient in Taiwanese, Mandarin, and Spanish, and has taught creative writing and language skills to elementary and middle school students.
+She is proficient in Taiwanese, Mandarin, and Spanish, and has taught creative writing and language skills to elementary and middle school students, and has trained and mentored numerous new attorneys (2017 TAHS profile). She has said she particularly appreciates the colorful turns of phrase uniquely possible in Taiwanese.
 
 ## Source Notes and Confidence
 
@@ -96,3 +96,4 @@ She is proficient in Taiwanese, Mandarin, and Spanish, and has taught creative w
 - [[sources/2017-tahs-publication||2017 TAHS Publication]]
 - [[people/franklin-ping-cheng||Franklin Ping Cheng (程炳成) — TAHS president]]
 - [[people/yang-jia-you||Charles Yang (楊嘉猷) — TAHS founding president]]
+- [[organizations/taiwanese-america-seniors-association-of-southern-california-tasa||Taiwanese America Seniors Association of Southern California (TASA)]]

@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "standards_version": 10,
   "auto_apply_agent": false,
   "nodes": {
@@ -8,7 +8,7 @@
       "enabled": true
     },
     "janitor.related": {
-      "n": 4
+      "n": 0
     },
     "analyzer": {
       "scanned": 2879,
@@ -23,7 +23,7 @@
       "n": 40
     },
     "kanban.blocked": {
-      "n": 21
+      "n": 33
     },
     "kanban.auto_go": {
       "enabled": false
@@ -39,10 +39,9 @@
     "cron.fail": []
   },
   "telegram_auto_lines": [
-    "✅ AUTO related-pages 4",
     "✅ AUTO analyzer scanned 2879 queued 1 suppressed 1828",
     "🟡 QUEUE janitor HOLD leftover 40",
-    "🟡 QUEUE kanban blocked 21"
+    "🟡 QUEUE kanban blocked 33"
   ],
   "cron_fail_names": []
 }

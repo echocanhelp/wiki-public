@@ -11,7 +11,7 @@ tags:
   - tah-whos-who
   - Presbyterian
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Rev. David Huang (黃德利)
 
@@ -43,7 +43,7 @@ Current GSTPC pastor is [[people/mingyuan-hsu||Rev. Mingyuan Hsu (許明遠)]], 
 - **1965** — 台灣神學院, M.S. Theology
 - **1970–** — CCIUSA director (TAH)
 - **1978** — First arrival in the U.S.: Los Angeles
-- **1980-12-07** — GSTPC 設教 (GSTPC40)
+- **1980-12-07** — GSTPC 設教 (GSTPC40). Per 黃德利's own 40th-anniversary essay: planted in Monterey Park for 台語 worship during the 1980s immigrant wave; the first year grew from **three families and seven youth** to 70+ in worship and 37 youth. Seven PCT pastors then in Southern California helped the plant (among them [[people/rev-j-m-hsu||許錦銘]]; 邱以正、許文將、余裕義 later deceased; 陳獻平 later in Taiwan).
 - **1980–** — GSTPC plant; TAH lists senior pastor through 2002
 - **1985** — 就任首任牧師 at fifth anniversary (GSTPC40 潘淑姃)
 - **1988** — congregation bought Monterey Park building (GSTPC40)
@@ -55,6 +55,12 @@ Current GSTPC pastor is [[people/mingyuan-hsu||Rev. Mingyuan Hsu (許明遠)]], 
 - **2024** — NTPC 50th 紀念特刊 總編輯 (invitation PDF; book **not** on the public web)
 - **2025-05** — NTPC 51st panel, Houston 恩惠 (TCNN)
 - **2025** — Named in the [[sources/toward-a-community-of-hope||Toward A Community of Hope]] republication preface cluster
+
+## GSTPC40 essay《那些人，那些事》(2021)
+
+黃德利's own account names the youth-counselor core that built the church: 廖芳誼、蔡維仁、黃授正、黃惠琦、謝敏慧、謝明敏、林尚嫻 — 黃授正、蔡維仁 later became pastors, as did 林雍迪.
+
+In the GSTPC *TPC 50 週年特別節目* (2020) he framed 50 years of North American Taiwanese Presbyterian work as beginning at [[organizations/formosan-presbyterian-church-in-los-angeles||FPCLA]] (1970), not PCT's 1865/1951 clock.
 
 ## Works
 - GSTPC40《那些人，那些事》(2021)
