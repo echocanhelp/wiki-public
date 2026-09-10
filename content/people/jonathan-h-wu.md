@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Jonathan H. Wu (吳顯明)
 
@@ -16,10 +16,18 @@ last_reviewed: 2026-08-17
 - **Chinese:** 吳顯明
 - **Era:** 1946
 - **Geography:** Taiwan/Hualien City
-- **Core roles:** professor
+- **Core roles:** professor, opera baritone
 - **Source:** TAH Foundation Who’s Who
 
 An accomplished opera baritone, Mr. Jonathan Wu graduated from the Chinese Cultural University in Taiwan, where he studied under the direction of Professor Kwan Lin, a famous vocalist. In December of 1970, he joined the YMCA choir singing the Messiah as a baritone soloist. The following year, in the first opera “Marriage of Figaro” at Chinese Cultural University, he played the roles of both Broadcasting Company chorus. Later that year, he had his own successful concert before leaving Taiwan for Bayreuth Music College in Germany on a full scholarship, where he studied vocals under the direction of Professor Julius Raum. Additionally, he participated in the Southern Germany music tour sponsored by the school, performing solos as well as singing as part of the choir.
+
+## Timeline
+- 1946 — born in Hualien City, Taiwan.
+- Dec 1970 — baritone soloist (Messiah) with the YMCA choir in Taiwan.
+- 1971 — B.A. 聲樂 (vocals), 文化大學 (Chinese Cultural University); appeared in its first opera, *Marriage of Figaro*; held his own concert before leaving Taiwan.
+- Left Taiwan for Bayreuth Music College, Germany, on a full scholarship; studied vocals under Professor Julius Raum and joined the school's Southern Germany music tour.
+- 2010 — conductor, 台福柑縣教會詩班.
+- Present — 特約歌唱家, 牧星合唱團.
 
 <!-- tah-tables:start -->
 ## Education
@@ -46,3 +54,5 @@ An accomplished opera baritone, Mr. Jonathan Wu graduated from the Chinese Cultu
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/110-jonathan-h-wu-e5-90-b3-e9-a1-af-e6-98-8e-baritone-201501||TAH encyclopedia #110: Jonathan H. Wu, Baritone]]
+- [[works/taiwaneseamericanhistory-org/201-jonathan-h-wu-e5-90-b3-e9-a1-af-e6-98-8e-201501||TAH encyclopedia #201: Jonathan H. Wu]]
