@@ -38,6 +38,15 @@ TAH encyclopedia #472 (#201 in the story corpus) profiles her as a Tainan-born v
 
 _No filled family fields on the TAH profile._
 
+## Timeline
+- Native of Tainan; began piano around age 3, switched to viola at 17.
+- Top winner of all instrumental concerto competitions at Taipei National University of the Arts; also National Taiwan Viola and Chamber Music competitions.
+- 2001 — B.M. Viola, Taipei National University of the Arts (turned down a New England Conservatory audition to attend).
+- 2004–2006 — M.M. and P.S.D. Viola, Mannes School of Music — LCU Foundation–sponsored full scholarship, following [[people/hsin-yun-huang|Hsin-Yun Huang]].
+- 2013 — D.M.A. Viola, University of Missouri–Kansas City Conservatory, under Benny Kim and [[people/scott-lee|Scott Lee]].
+- Performed at Carnegie, Alice Tully, Merkin, Ukrainian Institute of America, Konzerthaus-Berlin, Smetana Hall, National Taiwan Concert Hall; festivals incl. Schleswig-Holstein, Prague Spring, Pacific Music Festival, Kneisel Hall, Moscow Conservatory Summer School.
+- Violist, Santa Barbara Chamber Orchestra; Assistant Principal, San Bernardino Symphony.
+
 ## Sources
 - [TAH #472 encyclopedia: 472. I-Ting Huang 黄怡婷/2015/06](https://taiwaneseamericanhistory.org/whos472-i-ting-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/i-ting-huang/)

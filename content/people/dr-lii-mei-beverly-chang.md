@@ -53,6 +53,18 @@ Absorbed from the TAH profile tables above:
 - Her TAH encyclopedia entries are harvested in the vault: [[works/taiwaneseamericanhistory-org/31-dr-lii-mei-beverly-chang||TAH #31 entry]] and [[works/taiwaneseamericanhistory-org/whos-who-964-lii-mei-chang||TAH #964 Who's Who entry]].
 - Her St. Louis community leadership (NATMA STL president 1997; TAA/STL president 2014–2015) is documented on the existing org pages [[organizations/north-american-taiwanese-medical-association-foundation||NATMA Foundation]] and [[organizations/taiwanese-association-of-america-in-greater-st-louis||TAA in Greater St. Louis]].
 
+## Timeline
+- 1943 — Born (era per TAH profile); from Tainan, Taiwan.
+- 1969 — M.D., Kaohsiung Medical Univ.
+- 1971–1972 — Pathology training, Univ. of Alabama in Birmingham.
+- 1972–1975 — Pathology training, Washington Univ., St. Louis.
+- 1975–1982 — Assistant Professor of Pathology and Hematology, Saint Louis Univ.; 1981–1982 further pathology training at St. Louis Univ.
+- 1982–1991 — General Pathology and Forensic, SIMBA Pathology Services Corporation (southern Illinois).
+- 1991–2006 — Pathologist, SSM Health St. Joseph Hospital.
+- 2006–2008 — Pathologist in Urology Pathology, Metropolitan Urological Specialists.
+- 1997 — President, St. Louis Branch, [[organizations/north-american-taiwanese-medical-association-foundation||NATMA]]; 2014–2015 — President, [[organizations/taiwanese-association-of-america-in-greater-st-louis||TAA/STL]]; Elder, Taiwanese Presbyterian Church in Greater STL.
+- Family: husband Cheng C. Tsai; daughter Christina (君青); son Phillip (君柏).
+
 ## Sources
 - [TAH #31 encyclopedia: 31. Dr. Lii Mei (Beverly) Chang 張理美醫師](https://taiwaneseamericanhistory.org/31-dr-lii-mei-beverly-chang/)
 - [TAH #964 encyclopedia: 964. Dr. Lii Mei (Beverly) Chang 張理美醫師](https://taiwaneseamericanhistory.org/whos-who-964-lii-mei-chang/)
