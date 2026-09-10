@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Symeon Woo (吳西面)
 
@@ -46,3 +46,10 @@ last_reviewed: 2026-08-17
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+## Connected in the Vault（deepen pass 2026-09-10）
+
+- 太平洋時報創辦人／首任發行人：[[works/taiwaneseamericanhistory-org/project-09-pacific-times||TAH project 太平洋時報 Pacific Times]]、[[works/taiwaneseamericanhistory-org/31-sei-mi-wu-e5-90-b3-e8-a5-bf-e9-9d-a2-the-first-publisher-of-pacific-times-e5-||TAH #31 The first publisher of Pacific Times 創辦人 / 1987/06]]；本人論報社歷劫：[[works/taiwaneseamericanhistory-org/ourjourneys211||TAH #211 太平洋時報的崎嶇前途 / 2016/03]]。所任命的首任社長鄭炳全：[[people/zheng-bingquan||鄭炳全]]（其頁存 1986 年創刊回憶）。
+- 首任南加州台灣人聯合基金會（TUF）會長（1985）：[[organizations/taiwanese-united-fund||台灣人聯合基金會 TUF]]、[[works/taiwaneseamericanhistory-org/270-e5-90-b3-e8-a5-bf-e9-9d-a2-sei-mi-wu-e7-ac-ac-e4-b8-80-e4-bb-bb-e5-8d-97-e5-||TAH #270 第一任南加州台灣人聯合基金會會長 / 1985]]；南加 TUF 成立與 1986 年首屆《台灣文化之夜》（催生太平洋時報創刊因緣）見 [[works/taiwaneseamericanhistory-org/ourjourneys301||TAH #301]]。
+- 參與建台安老中心／Flamingo Garden 高齡住宅（El Monte，1988 啟用）：[[organizations/taiwanese-america-seniors-association-of-southern-california-tasa||南台美南加州協會 TASA]]、[[works/taiwaneseamericanhistory-org/ourjourneys173-eng||TAH #173]]（該頁已反向收錄本頁）。
+- TAH 記錄與追思：[[works/taiwaneseamericanhistory-org/824-symeon-woo-e5-90-b3-e8-a5-bf-e9-9d-a2-201602||TAH #824 Symeon Woo 吳西面 / 2016/02]]、[[works/taiwaneseamericanhistory-org/mystories132||TAH #132 想念大哥_吳西面 / 吳瑞惠]]、[[works/taiwaneseamericanhistory-org/photo-albums-activities-31||TAH #31 In memory of Symeon Woo 吳西面先生生命的禮讚]]。
+- publisher／語料庫：[[organizations/tah-foundation||TAH Foundation]]、[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Dr. Guei-Yun Yang (楊貴運博士)
 
@@ -29,12 +29,15 @@ Accomplishment
 - U.C. Santa Barbara — Ph.D., Chemistry
 
 ## Employment
-- Mobile Petrochemical Company — Research Director — Community — Taiwanese Hakka Association of California — Founder and First President — Taiwanese Hakka Association of U.S.A. — Founder and First President — Taiwanese Hakka Association of the World (THAW) — Founder and First President
+- Mobile Petrochemical Company — Research Director — Community — Taiwanese Hakka Association of California — Founder and First President — Taiwanese Hakka Association of U.S.A. — Founder and First President — [[organizations/taiwanese-hakka-association-of-the-world|Taiwanese Hakka Association of the World (THAW)]] — Founder and First President
 <!-- tah-tables:end -->
 
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Vault records (deepen pass 2026-09-10)
+The umbrella bodies he founded or led appear in the TAH corpus at [[works/taiwaneseamericanhistory-org/taiwanese-hakka-associations-of-america|Taiwanese Hakka Associations of America 美洲台灣客家聯合會 / 全美臺灣客家會]] and [[works/taiwaneseamericanhistory-org/ushakka|全美台灣客家聯誼會]]; the world body's LA-area federation membership is recorded on [[organizations/taiwanese-hakka-association-of-the-world|THAW]]. His 1970 founding of the Taiwanese Hakka Association of California predates the wave of regional Hakka chapters catalogued across the corpus.
 
 ## Sources
 - [TAH #25 encyclopedia: 25. Dr. Guei-Yun Yang (楊貴運博士)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-25/)

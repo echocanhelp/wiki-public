@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Winnie Chiu (藍月卿)
 
@@ -46,4 +46,7 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## Network
-- [[organizations/formosan-presbyterian-church-in-los-angeles||FPCLA]] — TAH Who’s Who
+- [[organizations/formosan-presbyterian-church-in-los-angeles||FPCLA]] — TAH Who’s Who (1984 accompanist; 2012–2014 choir & children's ensemble conductor)
+
+## Vault records (deepen pass 2026-09-10)
+Her 1987–1995 St. Louis service as pianist sits alongside the vault's church-press record [[works/taiwaneseamericanhistory-org/newsletter-of-taiwanese-presbyterian-church-of-greater-st-louis|Newsletter of Taiwanese Presbyterian Church of Greater St. Louis]]; her Los Angeles engagements are held on [[organizations/formosan-presbyterian-church-in-los-angeles|FPCLA]].

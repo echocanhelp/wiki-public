@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Rue-Lin Hung (洪瑞麟)
 
@@ -47,3 +47,10 @@ last_reviewed: 2026-08-17
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+## Connected in the Vault（deepen pass 2026-09-10）
+
+- TAH 傳記記錄：[[works/taiwaneseamericanhistory-org/whos868-rue-lin-hung||TAH #868 Rue-Lin Hung 洪瑞麟 / 2016/03]]、[[works/taiwaneseamericanhistory-org/artist10-jui-lin-hung||TAH #10 洪瑞麟 Jui-Lin Hung]]。
+- 逝後回顧展：[[works/taiwaneseamericanhistory-org/art-show-9||TAH #9 洪瑞麟回顧展 1997]]（對應本页 1912–1996）。
+- 子、同為畫家：[[people/sam-hung||洪南山 (Sam Hung)]]（sam-hung 頁已反向記載父為洪瑞麟）。
+- 回憶錄中提及：[[works/taiwaneseamericanhistory-org/ourjourneys256||TAH #256]]——記者在台時曾與洪瑞麟等會友創《紀美美術會》，並為台陽畫會會員（與本页「退出台陽美協」記載互證）。
+- publisher／語料庫：[[organizations/tah-foundation||TAH Foundation]]、[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。

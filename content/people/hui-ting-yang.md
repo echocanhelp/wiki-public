@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Hui-Ting Yang (楊惠婷)
 
@@ -44,3 +44,8 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+## Connected in the Vault（deepen pass 2026-09-10）
+
+- TAH 傳記記錄：[[works/taiwaneseamericanhistory-org/692-hui-ting-yang-e6-a5-8a-e6-83-a0-e5-a9-b7-201511||TAH #692 Hui-Ting Yang 楊惠婷 / 2015/11]]、[[works/taiwaneseamericanhistory-org/315-hui-ting-yang-e6-a5-8a-e6-83-a0-e5-a9-b7-pianist-201511||TAH #315 楊惠婷, Pianist / 2015/11]]（兩頁均為書目記錄，全文仍在 TAH）。
+- 同語料庫 TAH 鋼琴家頁可互參：[[people/j-s-liu||J. S. Liu (劉佳欣)]]。
+- publisher／語料庫：[[organizations/tah-foundation||TAH Foundation]]、[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
