@@ -46,6 +46,18 @@ _No filled family fields on the TAH profile._
 - [TAH #532 encyclopedia: 532. Ya-Hui Wang 王雅惠](https://taiwaneseamericanhistory.org/whos-who-532-ya-hui-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ya-hui-wang/)
 
+## Timeline (absorbed 2026-09-10 from the biography text and tables on this page)
+- 1968 — born in Taipei; moved to Singapore at age 5; moved to the US at 18
+- B.S. / M.S. in Piano and Conducting, Peabody Institute of The Johns Hopkins University (supported by the Evergreen Group Chang Jung-fa Foundation scholarship)
+- 1993 — graduated Curtis Institute of Music, conducting (studied with Otto-Werner Mueller); also studied under Daniel Barenboim and Neeme Järvi
+- Early career — apprentice conductor, Chicago Symphony Orchestra; deputy conductor, Detroit Symphony Orchestra
+- 1999 — first opera performance, «Salome» at the Royal Danish Theatre
+- 2000–01 — 16 performances with the Royal Danish Theatre & Ballet
+- 2000-03 — reported as the first female conductor of an orchestra in Akron, OH (TAH #355)
+- 2002 — 22 performances of «Madama Butterfly» at the Royal Danish Theatre
+- Present — Music Director and Conductor, Akron Symphony Orchestra (Ohio); Music Director and Conductor, Evergreen Symphony Orchestra (長榮交響樂團)
+- Guest conducting across the US, Asia, and Scandinavia per the profile narrative (Baltimore SO, Naples/Lexington/Erie philharmonics, Singapore SO, Malaysia Philharmonic, National Symphony Orchestra of Taiwan, Tampere Philharmonic, Danish radio/orchestral ensembles)
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
