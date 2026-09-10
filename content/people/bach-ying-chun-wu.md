@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Bach Ying-Chun Wu (吳英俊)
 
@@ -36,6 +36,19 @@ last_reviewed: 2026-08-17
 
 - **Wife:** 梁淑玲
 
+
+## Works in the TAH corpus
+
+Four of Wu's published compositions are held as work pages in the TAH Foundation record:
+
+- [[works/taiwaneseamericanhistory-org/publication1309||晨曦歌詠 Praise at Dawn]] (1994)
+- [[works/taiwaneseamericanhistory-org/publication1310||千萬個祝福 Abundant Blessings]] (2008)
+- [[works/taiwaneseamericanhistory-org/publication1311||台灣最美英俊心弦 Ying Chun Wu Taiwanese Contemporary Vocal Works]] (2009)
+- [[works/taiwaneseamericanhistory-org/publication1312||使我成為眾人祝福 Make Me a Blessing]] (2011)
+
+His profile was published twice in the TAH encyclopedia — [[works/taiwaneseamericanhistory-org/whoswho1476||TAH #1476]] and [[works/taiwaneseamericanhistory-org/musician383||TAH #383 (Conductor/Composer)]].
+
+The preface quoted above was written by [[people/tyzen-hsiao||Tyzen Hsiao (蕭泰然)]], who notes Wu's training at the [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan]] seminary music department (台灣神學院音樂系) as the foundation of his church-music career; Wu's output spans piano works, Taiwanese modern-art pieces, Taigi solo and choral, and string/small-ensemble writing, accumulated alongside his teaching and church service.
 
 ## Sources
 - [TAH #1476 encyclopedia: 1476. Bach Ying-Chun Wu 吳英俊/ 2017/01](https://taiwaneseamericanhistory.org/whoswho1476/)

@@ -10,6 +10,9 @@ import argparse
 import json
 import re
 import sys
+import os
+if os.path.exists("/tmp/pinto-cpu-freeze"):
+    sys.exit(0)
 from datetime import date
 from pathlib import Path
 from urllib.parse import urlparse

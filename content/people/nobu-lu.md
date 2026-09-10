@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Nobu Lu (呂信也)
 
@@ -33,6 +33,8 @@ last_reviewed: 2026-08-17
 
 ## Family
 
+- **Father:** [[people/chuang-shien-lu||呂泉生 (Chuang-Shien Lu)]] — noted Taiwanese musician
+- **Mother:** 蕭美霓 — first piano teacher
 - **Wife:** Tamara Trykar
 
 
@@ -40,6 +42,20 @@ last_reviewed: 2026-08-17
 - [TAH #339 encyclopedia: 339. Nobu Lu 呂信也 / 2015/03](https://taiwaneseamericanhistory.org/whos339-nobu-lu/)
 - [TAH #168 encyclopedia: 168. Nobu Lu 呂信也, Violinist & Conductor / 2015/03](https://taiwaneseamericanhistory.org/nobu-lu-%e5%91%82%e4%bf%a1%e4%b9%9f-conductor-201503/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/nobu-lu/)
+
+## Musical Career
+- Born Taoyuan, Taiwan (1945) into a musical family; studied piano under his mother 蕭美霓, music theory under his father 呂泉生, and violin under 楊春火.
+- Entered the institution now known as 國立藝術學院 in 1960 under 鄧昌國's guidance; B.S. Music 1964.
+- First prize, first violin competition hosted by the International Women's Association (1964).
+- Full scholarship to 琵琶地音樂院 (Peabody), U.S. (1966); M.S. Music 1970. Later full scholarships to the U.S. Catholic University doctoral program and the Santa Barbara Music Academy of the West Summer School.
+- Joined the national ballet symphony orchestra (1970); a year later became first violinist at the Sonady Arts Center opera symphony, beginning a 25-year performing career (National Ballet Orchestra at the Kenneth Center for the Performing Arts, Washington D.C., 1971-96).
+- Conductor of the [[organizations/taiwan-center-choir||Taiwan Center Choir]] at the [[organizations/taiwan-center||大洛杉磯台灣會館 (Taiwan Center)]].
+- Currently resides in Los Angeles, California, dedicated to violin teaching and nurturing the next generation of musicians.
+
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/whos339-nobu-lu|339. Nobu Lu 呂信也 / 2015/03]]
+- [[works/taiwaneseamericanhistory-org/nobu-lu-e5-91-82-e4-bf-a1-e4-b9-9f-conductor-201503|168. Nobu Lu 呂信也, Violinist & Conductor / 2015/03]]
+- Father's page: [[people/chuang-shien-lu||呂泉生 (Chuang-Shien Lu)]]
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

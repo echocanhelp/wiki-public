@@ -11,12 +11,13 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import re
 from datetime import datetime, timezone
 from pathlib import Path
 
 VAULT = Path("/home/leedt/echo-system")
-OUT_DIR = VAULT / "knowledge" / "interactions" / "line"
+OUT_DIR = VAULT / "knowledge" / "interactions" / os.environ.get("TIER2_SUBDIR", "line")
 
 
 def sanitize(s: str, max_len: int = 8000) -> str:

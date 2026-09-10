@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Dr. William L. Ko (柯威霖博士)
 
@@ -40,6 +40,16 @@ _No filled family fields on the TAH profile._
 - [TAH #15 encyclopedia: 15. Dr. William L. Ko 柯威霖博士](https://taiwaneseamericanhistory.org/15-dr-william-l-ko/)
 - [TAH #360 encyclopedia: 360. Dr. William L. Ko 柯威霖博士](https://taiwaneseamericanhistory.org/whos-who-360-william-l-ko/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-william-l-ko/)
+
+## Creative & Archival Record
+- Watercolor **LBJ Ranch in Spring Time** (1975) — permanent collection, Lyndon Baines Johnson Library.
+- Watercolor **At a Mossy Well** (21 x 29).
+- Early career driving CT250 steam trains for the Taiwan Railways Administration (1941-1954); later founder of the Ko Watercolor Research Center and juror for the Texas Art Association.
+
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/whos-who-360-william-l-ko|TAH Who's Who #360 — Dr. William L. Ko 柯威霖博士]]
+- [[works/taiwaneseamericanhistory-org/collection-of-dr-william-leslie-ko|TAH #3 — Collection of Dr. William Leslie Ko 柯威霖博士的收藏]]
+- [[works/taiwaneseamericanhistory-org/mystories119-william-ko-railroad|TAH My Stories #119 — 柯威霖博士的鐵道故事畫集 (李淑櫻, 2014/10)]]
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

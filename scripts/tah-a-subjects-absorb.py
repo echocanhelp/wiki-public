@@ -185,19 +185,24 @@ def main():
             lines, status = absorb_unit(path, en_map, zh_map)
             if status == "NO-ARTICLE":
                 stats["no_body"] += 1
-                sf.write(json.dumps({"unit_id": uid, "outcome": "NO-ARTICLE"}) + "\n")
+                if not args.dry:
+                    sf.write(json.dumps({"unit_id": uid, "outcome": "NO-ARTICLE"}) + "\n")
                 continue
             if not args.dry:
                 text = path.read_text(encoding="utf-8", errors="replace")
                 new = apply_subjects(text, lines)
                 if new is None:
-                    sf.write(json.dumps({"unit_id": uid, "outcome": "NO-SUBJECTS-SECTION"}) + "\n")
+                    if not args.dry:
+                        sf.write(json.dumps({"unit_id": uid, "outcome": "NO-SUBJECTS-SECTION"}) + "\n")
                     continue
                 path.write_text(new, encoding="utf-8")
-            outcome = "ABSORBED" if lines else "NONE"
-            stats["absorbed" if lines else "none"] += 1
-            sf.write(json.dumps({"unit_id": uid, "outcome": outcome,
-                                 "subjects": [l.split("||")[0][3:] for l in lines]}) + "\n")
+                outcome = "ABSORBED" if lines else "NONE"
+                stats["absorbed" if lines else "none"] += 1
+                sf.write(json.dumps({"unit_id": uid, "outcome": outcome,
+                                     "subjects": [l.split("||")[0][3:] for l in lines]}) + "\n")
+            else:
+                outcome = "DRY-ABSORBED" if lines else "DRY-NONE"
+                stats["absorbed" if lines else "none"] += 1
     print(json.dumps(stats))
 
 

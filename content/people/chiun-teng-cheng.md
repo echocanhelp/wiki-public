@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Chiun-Teng Cheng (鄭俊騰)
 
@@ -16,10 +16,10 @@ last_reviewed: 2026-08-17
 - **Chinese:** 鄭俊騰
 - **Era:** Birth Place
 - **Geography:** First year, first city and state in the U.S.
-- **Core roles:** Taiwanese American (TAH Who’s Who)
-- **Source:** TAH Foundation Who’s Who
+- **Core roles:** Taiwanese American (TAH Who's Who)
+- **Source:** TAH Foundation Who's Who
 
-Chiun-Teng Cheng was born in Taiwan and went to the United States in 1986 and was recognized as a vigorous and gifted player. He pursued his Master’s degree as a pupil of legendary pedagogy Dorothy DeLay, Eric Rosenblith, and Matsuko Ushioda at the New England Conservatory. His chamber music teachers included Leonard Shure, Eugene Lehner, and Louis Krasner. Cheng began violin studies when he was quite little. He earned his Bachelor’s degree from National Taiwan Normal University while studying with Prof. Shu-Te Sylvia Lee. He won the position of the Cincinnati Symphony Orchestra in 1993 and has been a tutti violinist in the orchestra since then. Besides, being a professional musician, he has also a great love of collecting rare violins and bows. He had the privilege to study string instrument identification under the famous connoisseur Jacques Francais in 1990s.
+Chiun-Teng Cheng was born in Taiwan and went to the United States in 1986 and was recognized as a vigorous and gifted player. He pursued his Master's degree as a pupil of legendary pedagogy Dorothy DeLay, Eric Rosenblith, and Matsuko Ushioda at the New England Conservatory. His chamber music teachers included Leonard Shure, Eugene Lehner, and Louis Krasner. Cheng began violin studies when he was quite little. He earned his Bachelor's degree from National Taiwan Normal University while studying with Prof. Shu-Te Sylvia Lee. He won the position of the Cincinnati Symphony Orchestra in 1993 and has been a tutti violinist in the orchestra since then. Besides, being a professional musician, he has also a great love of collecting rare violins and bows. He had the privilege to study string instrument identification under the famous connoisseur Jacques Francais in 1990s.
 
 <!-- tah-tables:start -->
 ## Education
@@ -31,6 +31,20 @@ Chiun-Teng Cheng was born in Taiwan and went to the United States in 1986 and wa
 - 新英格蘭音樂學院 — 交響樂團首席之一
 <!-- tah-tables:end -->
 
+## Career Notes (absorbed from TAH bio)
+- Teachers (violin): Dorothy DeLay, Eric Rosenblith, Matsuko Ushioda (New England Conservatory); undergrad studies with Prof. Shu-Te Sylvia Lee at National Taiwan Normal University
+- Chamber music teachers: Leonard Shure, Eugene Lehner, Louis Krasner
+- Principal/lead roles: concertmaster of the New England Conservatory Symphony Orchestra (per employment table)
+- Cincinnati Symphony Orchestra: won the position in 1993; tutti violinist since
+- String connoisseurship: studied rare violin and bow identification under Jacques Francais in the 1990s; collector of rare violins and bows
+
+## Timeline
+- Born in Taiwan; began violin studies in early childhood
+- 1986 — moved to the United States
+- 1990s — studied string instrument identification with Jacques Francais
+- 1993 — won a position in the Cincinnati Symphony Orchestra
+- 2015 — profiled in the TAH encyclopedia ([#130](https://taiwaneseamericanhistory.org/130-chiun-teng-cheng-%e9%84%ad%e4%bf%8a%e9%a8%b0-violinist-201502/), [#243](https://taiwaneseamericanhistory.org/243/))
+
 ## Family
 
 _No filled family fields on the TAH profile._
@@ -38,8 +52,10 @@ _No filled family fields on the TAH profile._
 ## Sources
 - [TAH #130 encyclopedia: 130. Chiun-Teng Cheng 鄭俊騰, Violinist / 2015/02](https://taiwaneseamericanhistory.org/130-chiun-teng-cheng-%e9%84%ad%e4%bf%8a%e9%a8%b0-violinist-201502/)
 - [TAH #243 encyclopedia: 243. Chiun-Teng Cheng 鄭俊騰 /2015/02](https://taiwaneseamericanhistory.org/243/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chiun-teng-cheng/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/chiun-teng-cheng/)
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/130-chiun-teng-cheng-e9-84-ad-e4-bf-8a-e9-a8-b0-violinist-201502||TAH #130: Chiun-Teng Cheng, Violinist]]

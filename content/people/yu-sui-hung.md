@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Yu-Sui Hung (洪育穗)
 
@@ -39,6 +39,17 @@ _No filled family fields on the TAH profile._
 - [TAH #452 encyclopedia: 452. Yu-Sui Hung 洪育穗   / 2015/06](https://taiwaneseamericanhistory.org/452-yu-sui-hung-%e6%b4%aa%e8%82%b2%e7%a9%97-201506/)
 - [TAH #216 encyclopedia: 216. Yu-Sui Hung 洪育穗, Pianist / 2015/06](https://taiwaneseamericanhistory.org/216-yu-sui-hung%e6%b4%aa%e8%82%b2%e7%a9%97-pianist-201506/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yu-sui-hung/)
+
+## Teaching & Performance Record
+- Faculty, VanderCook College of Music (2006-present) — piano teaching.
+- Previously taught piano, theory, and musicianship at the University of Cincinnati and Temple University.
+- Degrees: B.F.A. piano & clarinet, National Taiwan Normal University; M.M. piano performance, Temple University (2002); DMA piano & theory, University of Cincinnati College-Conservatory of Music (2006).
+- Chamber music enthusiast: performs as solo, collaborative, and orchestral pianist in major U.S. and Taiwan venues, collaborating with members of the Philadelphia Orchestra, Cincinnati Symphony, and Cincinnati Chamber Orchestra.
+- Active member of the Music Teachers National Association (and regional chapters) and Pi Kappa Lambda National Music Honor Society.
+
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/452-yu-sui-hung-e6-b4-aa-e8-82-b2-e7-a9-97-201506|TAH #452 — Yu-Sui Hung 洪育穗 (2015/06)]]
+- [[works/taiwaneseamericanhistory-org/216-yu-sui-hung-e6-b4-aa-e8-82-b2-e7-a9-97-pianist-201506|TAH #216 — Yu-Sui Hung 洪育穗, Pianist (2015/06)]]
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

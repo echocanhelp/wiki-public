@@ -9,6 +9,10 @@ Usage:
   python3 echopedia-timeline-builder.py --person yang-jia-you
   python3 echopedia-timeline-builder.py --person yang-jia-you --dry-run
 """
+import os
+import sys
+if os.path.exists("/tmp/pinto-cpu-freeze"):
+    sys.exit(0)
 import json
 import re
 import argparse

@@ -2,6 +2,7 @@
 # echopedia-quote-extractor-all.sh — Run quote extractor for all TAHS members
 # Runs daily at 04:15 after timeline builder
 set -uo pipefail
+[[ -f /tmp/pinto-cpu-freeze ]] && exit 0
 
 SCRIPT_DIR="$HOME/echo-system/scripts"
 PYTHON="python3"
@@ -26,11 +27,17 @@ SLUGS=(
     zheng-bingquan
 )
 
-echo "=== Quote Extractor: All TAHS Members ==="
+PAR="$("$SCRIPT_DIR/echopedia-guard.sh" 2>/dev/null || echo 0)"
+if ! [[ "$PAR" =~ ^[1-9][0-9]*$ ]]; then
+    echo "=== Quote Extractor: skip (peak-hour/freeze par=${PAR:-0}) ==="
+    exit 0
+fi
+export PYTHON SCRIPT_DIR
+export OMP_NUM_THREADS=1 MKL_NUM_THREADS=1 OPENBLAS_NUM_THREADS=1
+echo "=== Quote Extractor: All TAHS Members (par=$PAR) ==="
 echo "Processing ${#SLUGS[@]} members..."
 
-for slug in "${SLUGS[@]}"; do
-    $PYTHON "$SCRIPT_DIR/echopedia-quote-extractor.py" --person "$slug" 2>&1
-done
+printf '%s\n' "${SLUGS[@]}" | xargs -P "$PAR" -I{} \
+    $PYTHON "$SCRIPT_DIR/echopedia-quote-extractor.py" --person {}
 
 echo "=== Done ==="

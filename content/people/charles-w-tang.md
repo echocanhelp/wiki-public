@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Charles W. Tang (唐瑋廷)
 
@@ -39,6 +39,18 @@ _No filled family fields on the TAH profile._
 - [TAH #1871 encyclopedia: 1871. Charles W. Tang 唐瑋廷 / 09/2017](https://taiwaneseamericanhistory.org/whoswho1871/)
 - [TAH #424 encyclopedia: 424. Charles W. Tang 唐瑋廷, piano / 09/2017](https://taiwaneseamericanhistory.org/musician424/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/charles-w-tang/)
+
+## Musical Career
+- Born in Kaohsiung, Taiwan. In 1982 officially recognized by the R.O.C. Ministry of Education as a "Gifted Child in the Performing Arts," then came to the U.S. for further musical studies.
+- Degrees: B.M. & M.M. piano performance, The Juilliard School (studied under Kathrine Parker and Martin Canin); B.S. computer science, Columbia University; M.S. media technology, MIT.
+- Studied zheng (Chinese zither) under the world-renowned zheng master WANG Changyuan.
+- Competition prizes include the Gerald Tracy Competition and the McDonald Prize.
+- Lectured and performed on piano, zheng, and koto at The Juilliard Theater, Lincoln Center, Merkin Hall, Japan Society, Shea Stadium, Yale University, Columbia University, and many other venues.
+- Teaches at the Renaissance Music and Arts School (紐約「小亞歷音樂美術學院」) in New York; member and composer-in-residence of Drum Spirit of China since 1997.
+
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/whoswho1871|TAH #1871 — Charles W. Tang 唐瑋廷 (09/2017)]]
+- [[works/taiwaneseamericanhistory-org/musician424|TAH #424 — Charles W. Tang 唐瑋廷, piano (09/2017)]]
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

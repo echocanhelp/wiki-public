@@ -898,10 +898,13 @@ def _call_llm(prompt):
         req = urllib.request.Request(
             "http://127.0.0.1:8888/v1/chat/completions",
             data=json.dumps({
-                "model": "poolside/Laguna-S-2.1-NVFP4",
+                "model": "universal",
                 "messages": [{"role": "user", "content": prompt}],
                 "max_tokens": 1024,
                 "temperature": 0.1,
+                # Extraction/rerank task — thinking costs ~40-4.8k hidden tokens
+                # per call (measured 2026-09-05, MiaAI single-Spark write-up agrees)
+                "chat_template_kwargs": {"enable_thinking": False},
             }).encode(),
             headers={"Content-Type": "application/json"},
         )

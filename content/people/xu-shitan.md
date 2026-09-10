@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - Taiwan-School
 verification_status: published
-last_reviewed: 2026-07-16
+last_reviewed: 2026-09-09
 ---
 # Xu Shitan (徐士坦)
 
@@ -19,6 +19,12 @@ last_reviewed: 2026-07-16
 - **Chinese:** 徐士坦
 - **Organization:** [[organizations/taiwan-center||Taiwan Center Taiwan School]]
 - **Source:** https://www.taiwancenter.org/class-information
+
+## Teaching at Taiwan Center
+
+Xu Shitan is listed on Taiwan Center's class-information page as the instructor of the school's computer class (電腦). The course runs on weekends at a published fee of $40, alongside the school's 華文, 日文, 合唱, and other adult/community classes (see [[organizations/taiwan-center||Taiwan Center]] — Taiwan School courses & teachers table). He is one of the school's named instructor cohort, alongside [[people/april-lin||林淑卿 April Lin]] and [[people/wang-rongyi||王榮義]].
+
+No further biography is published on the site; no details are invented here.
 
 ## Source Notes
 
