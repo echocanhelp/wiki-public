@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Kevin Shue (許愷洋)
 
@@ -37,6 +37,10 @@ _No filled family fields on the TAH profile._
 - [TAH #382 encyclopedia: 382. Kevin Shue 許愷洋 /2015/04](https://taiwaneseamericanhistory.org/382-kevin-shue-%e8%a8%b1%e6%84%b7%e6%b4%8b-201504/)
 - [TAH #152 encyclopedia: 152. Kevin Shue許愷洋,Violinist/2015/02](https://taiwaneseamericanhistory.org/152-kevin-shue%e8%a8%b1%e6%84%b7%e6%b4%8b201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kevin-shue/)
+
+## Connected in the Vault
+- Vault records about him: [[works/taiwaneseamericanhistory-org/152-kevin-shue-e8-a8-b1-e6-84-b7-e6-b4-8b201502|152. Kevin Shue 許愷洋, Violinist]] (published 2015-02-16) · [[works/taiwaneseamericanhistory-org/382-kevin-shue-e8-a8-b1-e6-84-b7-e6-b4-8b-201504|382. Kevin Shue 許愷洋]] (published 2015/04)
+- Both records sit in the [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]] corpus under the [[organizations/tah-foundation|TAH Foundation]] Who's Who program.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

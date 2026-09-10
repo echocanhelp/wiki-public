@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Wei Ming Hwang (黃維明)
 
@@ -44,6 +44,8 @@ _No filled family fields on the TAH profile._
 
 ## Connected in the Vault
 - Vault records about him: [[works/taiwaneseamericanhistory-org/whoswho1279|1279. Wei Ming Hwang 黃維明]] · [[works/taiwaneseamericanhistory-org/musician363|363. Wei Ming Hwang 黃維明, Violinist]]
+- 1995-07-29：應台灣人聯合基金會（TUF）台灣名家演奏系列邀請赴洛杉磯演出，與蘇顯達、[[people/joli-wu|吳昭麗（Joli Wu）]]、[[people/chien-an-chen|陳建安（Chien-An Chen）]]、鋼琴葉綠娜同台聲援聲樂家[[people/zoe-huang|黃瑞芬（Zoe Huang）]] — 見[[articles/taiwanjustice-net/2022/20220519130616_2022_01_29_台灣女聲樂家_資深古典音樂節目主持人黃瑞芬過_bfc5f319a036a339|黃瑞芬紀錄（taiwanjustice-net, 2022）]]
+- 1995-09-29：列名《台灣民謠之夜》（Luckman Hall，加州州立大學洛杉磯分校）演出名單，同台含葉綠娜、蘇顯達、陳建安、黃瑞芬、Joli Wu — 見[[works/taiwaneseamericanhistory-org/ourjourneys301|Our Journeys #301]]
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

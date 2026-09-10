@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Amy Hsieh (謝孟容)
 
@@ -37,6 +37,12 @@ Cellist Amy Hsieh made her New York debut recital at Carnegie’s Weill Recital 
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Timeline
+- 2000 — B.M., The Juilliard School
+- 2002 — M.M., Manhattan School of Music；同年以 Artists International New York Debut Award 得主身分於 Carnegie 的 Weill Recital Hall 舉行紐約首演
+- 2007 — D.M.A., Boston University
+- 現居加州 Sunnyvale，任教於 Jou Music Institute、Encore Music and Arts，並為 Nuance Chamber Ensemble 與 C'est Bon Chamber Music Academy 共同創辦人
 
 ## Sources
 - [TAH #376 encyclopedia: 376. Amy Hsieh謝孟容, Cellist / 2016/12](https://taiwaneseamericanhistory.org/musician376/)

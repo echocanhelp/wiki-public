@@ -7,7 +7,7 @@ tags:
   - review
   - zh-TW
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 echo: scratch
 ---
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Ching-Wen Hsiao (蕭晴文)
 
@@ -32,6 +32,16 @@ Taiwanese-American pianist, Dr. Ching-Wen Hsiao 蕭晴文, has performed as a so
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Connected in the Vault
+- Vault records about her: [[works/taiwaneseamericanhistory-org/ching-wen-hsiao-pianist|401. Ching-Wen Hsiao 蕭晴文, Pianist]] (published 2017-06-05)
+- 收錄於 [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]] source hub 人物索引。
+
+## Timeline
+- 16 歲於菲律賓與 Cebu Youth Symphony 四度演出柴可夫斯基第一號鋼琴協奏曲，完成協奏曲首演
+- The Juilliard School — 鋼琴演奏學士、碩士、博士
+- 曾與 New Amsterdam Symphony Orchestra、New York Youth Symphony、Arts Viva Orchestra（伊利諾）、Du Page County Youth Symphony、Yi-Qi Orchestra、Evergreen Symphony Orchestra（台灣）合作
+- 教職：West Virginia University、Southeastern University 鋼琴助理教授；Juilliard Pre-College Division 教師；紐約 Geneva Conservatory of Music 執行長；Aspen Music Festival、Viana do Castelo 國際音樂節（葡萄牙）、U.S.-China Piano Festival（中國新疆）師資
 
 ## Sources
 - [TAH #401 encyclopedia: 401. Ching-Wen Hsiao 蕭晴文, Pianist /06/2017](https://taiwaneseamericanhistory.org/ching-wen-hsiao-pianist/)
