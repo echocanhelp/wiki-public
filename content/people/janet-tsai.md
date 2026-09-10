@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Shu-Hui Janet Tsai (蔡淑慧博士)
 
@@ -35,6 +35,18 @@ Janet Tsai earned her Bachelor of Arts degree in Church Music from Taiwan Th
 - Buechel Park Baptist Church — 2006-2007 — Organist
 - St. Mary’s Catholic Church — 2005-2006 — Organist
 <!-- tah-tables:end -->
+
+## Timeline
+- 2001–2002 — First-prize winner, organ scholarship competition (Taiwan Theological College & Seminary); began organ lessons with Alice Chen as a junior
+- 2002 — B.S. Art (Church Music), Taiwan Theological College & Seminary
+- 2005–2006 — Organist, St. Mary's Catholic Church
+- 2006–2007 — Organist, Buechel Park Baptist Church
+- 2007 — M.S. Music, University of Louisville
+- 2009–2010 — Music Director / Organist / Pianist, Church by the Woods
+- 2010–2011 — Organist, Monfort Heights United Methodist Church
+- 2011–2013 — Handbell Choir Director, Taiwanese Presbyterian Church in Greater Chicago
+- 2014 — Ph.D. Musical Arts, University of Cincinnati College-Conservatory of Music
+- Present — Organist, Westminster Presbyterian Church (IL)
 
 ## Family
 

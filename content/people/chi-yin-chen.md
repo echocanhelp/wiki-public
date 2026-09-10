@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Chi-Yin Chen
 
@@ -29,6 +29,13 @@ Award-winning violinist Chi-Yin Chen has performed internationally in a wide ran
 ## Employment
 - Youth Summer Orchestra of National Taiwan Symphony Orchestra — Concertmaster — (2007-2007) — Philharmonia Moment Musical — Orchestral Violinist — (2008-) — Taiwan Pro Arte Orchestra — Orchestral Violinist — (2011-2011) — Baltimore Concerto Orchestra — Concertmaster — (2012-2012)
 <!-- tah-tables:end -->
+
+## Timeline
+- 2007 — Concertmaster, Youth Summer Orchestra of National Taiwan Symphony Orchestra
+- 2008 — Orchestral violinist, Philharmonia Moment Musical at the Young Euro Classic Festival, Berlin, Germany
+- 2011 — B.S. Music, National Taiwan Normal University; orchestral violinist, Taiwan Pro Arte Orchestra at the Music Carnival, Taipei Arena
+- 2012 — Concertmaster, Baltimore Concerto Orchestra (Baltimore, MD); fellow, Aspen Music Festival
+- 2013 — M.S. Music, Peabody Institute of The Johns Hopkins University
 
 ## Family
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Yu-An Chang (張宇安)
 
@@ -34,6 +34,14 @@ Born in Penghu, Taiwan, conductor Yu-An Chang was awarded first prize at the 201
 
 - **Wife:** Kai-Chuan Chang
 
+## Timeline
+(absorbed from the on-page TAH tables/bio; no external sources added)
+- 2008 — B.S., Music, National Taiwan Normal Univ.
+- 2009–2013 — Founder and Conductor, Youth Sinfonietta of Taipei
+- 2016 — Conducting, Hochschule für Musik Hanns Eisler Berlin; first prize, International Conducting Competition Jeunesses Musicales, Bucharest, Romania
+- 2016– — Music Director and Chief Conductor, Asia Nova Symphony Orchestra
+- 2018 — Conducting Fellow, Tanglewood Music Center
+- 2019– — Assistant Conductor, Boston Symphony Orchestra
 
 ## Sources
 - [TAH #2238 encyclopedia: 2238. Yu-An Chang 張宇安](https://taiwaneseamericanhistory.org/whos-who-2238-yu-an-chang/)

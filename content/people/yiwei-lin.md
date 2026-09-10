@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Yiwei Lin (林怡薇)
 
@@ -29,6 +29,13 @@ Ms. Lin is from Nantou County, Taiwan. She is a Piano Teacher in St. Louis, MO a
 ## Employment
 - Nangang Junior High School — Certified Music Teacher — (-2002) — Private Studio — Piano Teacher
 <!-- tah-tables:end -->
+
+## Timeline
+- 1998 — Winner, Nantou County Piano Competition
+- — B.S. and M.S. Piano Performance, Tunghai University (Taichung, Taiwan)
+- Until 2002 — Certified music teacher, Nangang Junior High School, Nantou County, Taiwan
+- 2002 — Emigrated to the US
+- 2002–present — Private studio piano teacher (performance & music theory, 15+ years), St. Louis, MO; specializes in Impressionist style music
 
 ## Family
 

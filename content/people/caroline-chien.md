@@ -34,8 +34,13 @@ Accomplishment
 
 ## Family
 
-- **Husband:** William P. Tseng (曾伯聰)
+- **Husband:** [[people/dr-william-p-tseng|William P. Tseng (曾伯聰)]]
 
+## Timeline
+(absorbed from the on-page TAH tables; no external sources added)
+- 1970 — B.S., Chemistry, Providence Univ. (靜宜大學); later art study at Columbia Univ. and American Art Schools
+- Teaching career — Instructor, ink & oil painting: Morris County Art Association, Verona Community Center, Montclair Art Museum School of Art, Union County and Raritan County Community Colleges
+- Community leadership — President, Lions Clubs International New Jersey Chapter (美國新澤西州獅子會); President, New Jersey Art Foundation (美國新澤西藝術基金會); Founding Convener, Providence University Alumni Association East Coast (靜宜大學美東校友會)
 
 ## Sources
 - [TAH #1863 encyclopedia: 1863. Caroline Chien 簡淑津](https://taiwaneseamericanhistory.org/whos-who-1863-caroline-chien/)

@@ -39,7 +39,7 @@ last_reviewed: 2026-09-10
 - **2013–** — Art Director, Hugo Boss
 - **2015** — Fashion Star Award, Fashion Group International Night of Stars
 - **2016** — International Designer of the Year, Canadian Arts & Fashion Awards
-- **Carnegie-era accolades note:** recognized among the "Pride of Taiwanese Americans" story collection (TAH #225)
+- Featured in the TAH "Pride of Taiwanese Americans" story collection (TAH #225)
 
 *Source: on-page TAH Who's Who profile ([TAH #172](https://taiwaneseamericanhistory.org/whos-who-172-jason-wu/)).*
 
