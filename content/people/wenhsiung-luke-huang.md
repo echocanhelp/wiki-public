@@ -36,7 +36,7 @@ Wenhsiung (Luke) Huang 黃文雄 – History of Taiwanese American (T.A. Archive
 - Residency — New York Medical College / Metropolitan Hospital Center
 - Residency — Our Lady of Mercy Medical Center (New York)
 - 小兒科專科醫師 (pediatric specialist), New York area
-- Per the on-page TAH caption, associated with History of Taiwanese American (T.A. Archives) 台美史料中心
+- Per the on-page TAH caption, associated with History of Taiwanese American (T.A. Archives) 台美史料中心 — see [[sources/taiwaneseamericanhistory-org|TAH Foundation / 台美史料中心]]
 
 ## Notes on sources
 - Cited TAH photo entries #142, #19 and #89 depict the 4/24/1970 刺蔣事件 (assassination attempt on C.K. Chiang at the Plaza Hotel, N.Y.) involving a 黃文雄, and TAH #468 is titled "Peter Huang 黃文雄". Whether these refer to the same person as this pediatrician profile is unverified — `verification_status` left pending.
@@ -56,3 +56,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/videos-160||《刺蔣》紀錄片(典藏版)]]
+- [[works/taiwaneseamericanhistory-org/publications1264||1970四二四刺蔣案內情再公開 / 陳榮成、吳富美]]
