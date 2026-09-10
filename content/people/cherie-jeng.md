@@ -29,6 +29,17 @@ Mrs. Jeng is one of the founders and takes on the leading responsibility in teac
 - Taipei Rong-Shing Children's Chorus — Accompanist and Instructor of Musicianship — Glorystar Children's Chorus — Founder and Artistic Director — Our Lady of China Pastoral Mission — Choir Director — Hai-Tien Chorus — Conductor — McDaniel College, Westminster, Maryland — Guest Conductor — Community — American Choral Directors Association — Member — Music Teachers National Association — Member
 <!-- tah-tables:end -->
 
+## Timeline
+- Born in Taiwan; piano major at Shih-Chien College
+- Accompanist and instructor of musicianship, Taipei Rong-Shing Children's Chorus; studied music education and choral training with Professor Chuang-Shien Lu
+- Bachelor of Music in Piano Performance, San Francisco Conservatory of Music
+- 1987 — moved to the Washington, D.C. area; active in the local music community since
+- Choir director of Our Lady of China Pastoral Mission for ten years; conducted the Hai-Tien Chorus for many seasons
+- One of the founders of Glorystar Children's Chorus, taking the leading responsibility in teaching music
+- Studied choral conducting with Dr. Jerry Blackstone and Rod Eichenberger; guest conductor at McDaniel College, Westminster, Maryland
+- 2009 — nominated for the County Executive's Awards for Excellence in the Arts and Humanities
+- Active member of the American Choral Directors Association and the Music Teachers National Association
+
 ## Family
 
 _No filled family fields on the TAH profile._
@@ -37,5 +48,6 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/cherie-jeng/)
 
 ## Related Pages
+- [[people/amanda-hsu||Amanda Hsu]] — fellow Glorystar Children's Chorus（華府榮星兒童合唱團）faculty member; co-founder and conductor of the Haitien Chorus（海天合唱團）, which Jeng also conducted for many seasons
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

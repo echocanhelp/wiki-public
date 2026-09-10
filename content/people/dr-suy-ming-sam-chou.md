@@ -30,6 +30,18 @@ Dr. Suy Ming (Sam) Chou 周烒明博士 – History of Taiwanese American (T.A. 
 - Univ. of Virginia School of Medicine — Resident physician, teaching assistant — (1963-) — Cleveland Clinic — Director of Psychopathology — (1981-) — Community — North American Taiwanese Medical Doctor Association (NATMA) 北美洲台灣人醫師協會 — First President — United Formosans in America for Independence 全美台灣獨立聯盟 — Co-Founder — Taiwanese American Parkinson Association 台美人柏金森互助會 — Co-Founder — American Neuropathological Society — Deputy Chairman
 <!-- tah-tables:end -->
 
+## Timeline
+- 1930 — born in Tokyo, Japan (era range 1930-2018)
+- 1957 — M.D., National Taiwan University College of Medicine
+- Ph.D., University of Wisconsin-Madison
+- 1963- — resident physician / teaching assistant, University of Virginia School of Medicine
+- 1981- — Director of Psychopathology, Cleveland Clinic
+- First President, North American Taiwanese Medical Doctor Association (NATMDA, 北美洲台灣人醫師協會)
+- Co-founder, United Formosans in America for Independence (UFI, 全美台灣獨立聯盟)
+- Co-founder, Taiwanese American Parkinson Association (台美人柏金森互助會)
+- Deputy Chairman, American Neuropathological Society
+- 2018 — TAH encyclopedia #121 published "Remembering Dr. Suy-Ming Chou 周烒明博士"
+
 ## Family
 
 - **Wife:** 吳秀惠
@@ -44,5 +56,8 @@ Dr. Suy Ming (Sam) Chou 周烒明博士 – History of Taiwanese American (T.A. 
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-suy-ming-sam-chou/)
 
 ## Related Pages
+- [[organizations/north-american-taiwanese-medical-association-foundation||NATMA Foundation]] — he was the first president of NATMA, the association behind the NATMA Foundation
+- [[organizations/natma-southern-california||NATMA - Southern California Chapter]]
+- [[organizations/united-formosans-for-independenceufi||United Formosans for Independence (UFI)]] — co-founder
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

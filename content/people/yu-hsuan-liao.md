@@ -31,6 +31,15 @@ Yu-Hsuan Liao serves as Associate Professor of Piano and Coordinator of Keyboard
 - Shepherd University — 2011- — Associate Professor of Music
 <!-- tah-tables:end -->
 
+## Timeline
+- Native of Taipei, Taiwan
+- B.F.A. in Music, Tung-Hai University (initial studies under Thomas Linde)
+- M.M. and D.M.A. in Piano Performance, University of Texas at Austin (under Danielle Martin, Dariusz Pawlas, Gregory Allen)
+- Worked with the American Repertory Ensemble performing piano solo, chamber, and vocal accompaniment
+- 2008-2009 — solo performance with A.R.E. ("Valses Poeticos", Passion at Play) nominated for best instrumentalist, Austin Critics Table Award
+- 2009 — published book "Manuel de Falla's Cuatro Piezas Espanoles: Combinations and Transformations of the Spanish Folk Modes"; gave accompanying piano lecture-recital
+- 2011- — Shepherd University (West Virginia), Associate Professor of Music — Piano, Coordinator of Keyboard Studies
+
 ## Family
 
 _No filled family fields on the TAH profile._

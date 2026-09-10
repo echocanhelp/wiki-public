@@ -1,4 +1,4 @@
-## Queue drain — 2026-09-09
+## Queue drain — 2026-09-10
 - Items: **40**
 
 - `people/chen-po-kong.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
@@ -25,9 +25,7 @@
 - `people/j-m-chiang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/leona-chen.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/jolan-hsieh.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/sonia-lee.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/ralph-su.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/bach-ying-chun-wu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/prof-yang-en-cheng.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/milo-thornberry.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/wudong-huang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
@@ -41,5 +39,7 @@
 - `people/dr-ching-k-lin.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/chi-yi-chen.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/janet-tsai.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/john-chang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/prof-sze-ya-yeh.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 
 Fail-closed first-mention is AUTO (janitor). HOLD leftover ≠ human body-link batch.

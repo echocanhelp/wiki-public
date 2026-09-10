@@ -1,0 +1,4 @@
+people/albert-chapter1-zh-hsiaochen-full-review.md
+people/huang-yongcheng.md
+people/prof-tender-lin.md
+people/george-lee.md

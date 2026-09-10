@@ -1,0 +1,4 @@
+organizations/tainan-east-gate-barclay-memorial-church.md
+people/chihchun-chi-sun-lee.md
+people/mei-en-chou.md
+people/keng-wei-william-kuo.md

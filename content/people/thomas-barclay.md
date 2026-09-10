@@ -10,7 +10,7 @@ tags:
   - PCT
   - Taiwan
 verification_status: pending
-last_reviewed: 2026-08-18
+last_reviewed: 2026-09-10
 ---
 # Thomas Barclay (巴克禮)
 

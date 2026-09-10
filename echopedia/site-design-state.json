@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-09-09T04:46:06",
+  "last_run": "2026-09-10T04:30:08",
   "status": "WARN",
   "stats": {
     "md": 15035,
@@ -14,7 +14,7 @@
     {
       "id": "F4",
       "sev": "MEDIUM",
-      "msg": "people/index.html is 1489563 bytes \u2014 heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break."
+      "msg": "people/index.html is 1489783 bytes \u2014 heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break."
     },
     {
       "id": "B2",
@@ -32,23 +32,23 @@
     {
       "id": "B1",
       "sev": "INFO",
-      "msg": "person/org touched \u22647d (rely on recency featured window): 66",
+      "msg": "person/org touched \u22647d (rely on recency featured window): 247",
       "examples": [
+        "people/agnes-hsu.md",
         "people/albert-chapter1-audiobook-consent-and-recording-kit.md",
         "people/albert-chapter1-en-review.md",
         "people/albert-chapter1-zh-hsiaochen-full-review.md",
-        "people/becky-yang.md",
-        "people/chao-sile.md",
-        "people/chen-meihui.md",
-        "people/chen-ming-wang.md",
-        "people/chen-po-kong.md",
-        "people/chen-wenxue.md",
-        "people/chi-ching-grace-lin.md",
-        "people/chih-long-hu.md",
-        "people/ching-fang-chen.md",
-        "people/ching-ming-cheng.md",
-        "people/choan-seng-song.md",
-        "people/daniel-kao.md"
+        "people/alice-chen.md",
+        "people/amanda-hsu.md",
+        "people/amy-hsieh.md",
+        "people/an-su-gao-lai.md",
+        "people/anita-chia-jung-lin.md",
+        "people/anita-wen-shin-chang.md",
+        "people/annie-chuan.md",
+        "people/april-lin.md",
+        "people/bach-ying-chun-wu.md",
+        "people/bai-weiwei.md",
+        "people/becky-yang.md"
       ]
     },
     {
@@ -56,29 +56,13 @@
       "sev": "LOW",
       "msg": "spelling signals (sample): 1",
       "examples": [
-        "tahs-member-onboarding.md: ?onboarding"
+        "fan-qingliang.md: ?ching"
       ],
       "agent": true
     }
   ],
   "heals": [],
   "history": [
-    {
-      "at": "2026-09-03T04:30:09",
-      "status": "ACTION",
-      "critical": 0,
-      "high": 1,
-      "medium": 1,
-      "finding_count": 4
-    },
-    {
-      "at": "2026-09-03T04:45:18",
-      "status": "ACTION",
-      "critical": 0,
-      "high": 1,
-      "medium": 1,
-      "finding_count": 4
-    },
     {
       "at": "2026-09-04T04:26:35",
       "status": "ACTION",
@@ -297,6 +281,22 @@
     },
     {
       "at": "2026-09-09T04:46:06",
+      "status": "WARN",
+      "critical": 0,
+      "high": 0,
+      "medium": 1,
+      "finding_count": 4
+    },
+    {
+      "at": "2026-09-10T04:29:46",
+      "status": "WARN",
+      "critical": 0,
+      "high": 0,
+      "medium": 1,
+      "finding_count": 4
+    },
+    {
+      "at": "2026-09-10T04:30:08",
       "status": "WARN",
       "critical": 0,
       "high": 0,

@@ -1,0 +1,4 @@
+people/prof-mingchi-wu.md
+people/erh-jen-lee.md
+people/dr-shiching-john-chang.md
+people/kai-ching-chang.md

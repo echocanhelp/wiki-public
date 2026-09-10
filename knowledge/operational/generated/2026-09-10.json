@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-10",
+  "total_cards": 2,
+  "evaluated_file": "/home/leedt/echo-system/knowledge/operational/evaluated/2026-09-10.json",
+  "priority_counts": {
+    "medium": 2
+  },
+  "playbook_counts": {
+    "P3": 1,
+    "P8": 1
+  },
+  "cards": [
+    {
+      "card_id": "echo-gen-2026-09-10-0001",
+      "title": "[MEDIUM] grace-chung: Add more wikilinks to related pages",
+      "body": "## Task: [MEDIUM] grace-chung: Add more wikilinks to related pages\n\n**Priority:** medium\n**Playbook:** P3\n**Page:** `people/grace-chung.md`\n**Finding:** `LINKS_LOW_DENSITY`\n**Score:** 4.5 (inbound links: 2)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/grace-chung.md\n3. Find broken wikilinks and repair or redirect\n4. Commit only (no publish)\n\n### Specific Fix\n**Action:** Add more wikilinks to related pages\n**Detail:** This page has low wikilink density. Add [[wikilinks]] to people, organizations, and sources mentioned in the text.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: LINKS_LOW_DENSITY\nPage type: people\nType weight: 1.5\nFinding weight: 1.5",
+      "priority": "medium",
+      "playbook": "P3",
+      "page": "people/grace-chung.md",
+      "finding": "LINKS_LOW_DENSITY",
+      "score": 4.5,
+      "target_path": "/home/leedt/echo-system/content/people/grace-chung.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-10-0002",
+      "title": "[MEDIUM] grace-chung: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [MEDIUM] grace-chung: Ensure the first paragraph mentions the page subject\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/grace-chung.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 3.0 (inbound links: 2)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/grace-chung.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-10 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/grace-chung.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 3.0,
+      "target_path": "/home/leedt/echo-system/content/people/grace-chung.md"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+organizations/taiwanese-american-industrial-technology-association-taita-east-coast.md
+people/harmony-yang.md
+people/andrew-yang.md
+people/audrey-lo.md
