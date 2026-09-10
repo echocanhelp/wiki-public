@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Prof. Wen-Hwa Lee (李文華教授)
 
@@ -31,6 +31,18 @@ Accomplishment
 ## Employment
 - University of California, San Diego — Assistant Professor & Associate Professor; Professor — (1984-1991) — University of Texas Health Science Center at San Antonio — Alice P. McDermott Distinguished University Chair and Director — (1991-2003) — University of Texas Health Science Center at San Antonio — Professor and Chairman, Department of Molecular Medicine — (1996-2003) — University of California, Irvine — Donald Bren Professor of Biomedicine — (2003-2014) — University of California, Irvine — Chancellor & Distinguished Professor — (2014-2019) — Genomics Research Center, Academia Sinica — Distinguished Research Fellow — (2013-) — China Medical University — Principal — (2014-)
 <!-- tah-tables:end -->
+
+## Timeline
+- 1950 — born in Penghu, Taiwan
+- 1972 — B.S., Biology, National Taiwan Normal Univ. (師範大學)
+- 1977 — M.S., Biochemistry, National Taiwan Univ.
+- 1981 — Ph.D., Molecular Biology, Univ. of California, Berkeley
+- 1984–1991 — Assistant / Associate / Full Professor, University of California, San Diego
+- 1986 — Discovered the first human tumor suppressor gene "RB gene"
+- 1991–2003 — Alice P. McDermott Distinguished University Chair and Director, University of Texas Health Science Center at San Antonio; from 1996 also Professor and Chairman, Department of Molecular Medicine
+- 2003–2014 — Donald Bren Professor of Biomedicine, University of California, Irvine
+- 2013– — Distinguished Research Fellow, Genomics Research Center, Academia Sinica
+- 2014–2019 — Chancellor & Distinguished Professor, University of California, Irvine; from 2014 also Principal, China Medical University
 
 ## Family
 

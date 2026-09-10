@@ -30,6 +30,16 @@ Upon graduation from the National Art Academy in Taiwan, Zoe Huang entered the J
 - Juilliard Orchestra / Lincoln Center — Vocalist / Soloist — Musica Sacra — Soloist
 <!-- tah-tables:end -->
 
+## Timeline
+
+- Graduated from the National Art Academy (台灣)
+- Entered the Juilliard School — Bachelor's, Master's, and vocalist diploma; four diplomas from the American Opera Center
+- Student years: three vocalist awards; performed several concerts with the Juilliard Orchestra at Lincoln Center
+- 1988 — third prize, International Belgium Queen Elizabeth Vocalists Competition
+- Later — vocalist award, Aspen Music Festival
+- Invited performer: Taipei Music Festival, Belgium International Art Festival, Monte Carlo Spring Festival, and others
+- Employments per TAH table: Juilliard Orchestra / Lincoln Center vocalist; Musica Sacra soloist
+
 ## Family
 
 _No filled family fields on the TAH profile._

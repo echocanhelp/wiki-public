@@ -21,6 +21,14 @@ last_reviewed: 2026-09-10
 
 Professor of Pathology, Oncology, Obstetrics and Gynecology, and Molecular Microbiology and Immunology
 
+## Timeline
+(from his TAH profile — no external sources)
+- 1975–82 — M.D., National Taiwan Univ., College of Medicine
+- 1984–85 — M.P.H., Epidemiology — Johns Hopkins School of Hygiene and Public Health; 1985–89 — Ph.D., Molecular Virology (Hopkins)
+- 1995 — Pathologist, The Johns Hopkins Hospital, Surgical Pathology; assistant (1995–97) then associate professor (1997–2003) at the Johns Hopkins School of Medicine / School of Hygiene and Public Health
+- 2003–now — Professor at Johns Hopkins Medical Institutions across Pathology, Oncology, Obstetrics and Gynecology, and Molecular Microbiology and Immunology
+- Profiled in [[works/taiwaneseamericanhistory-org/622-tzyy-choou-wu-e5-90-b3-e5-ad-90-e4-b8-91-201509||TAH encyclopedia #622]]
+
 <!-- tah-tables:start -->
 ## Education
 - National Taiwan Univ., College of Medicine — 1975-82 — M.D.

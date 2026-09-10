@@ -28,6 +28,14 @@ Esther C. Lin is a versatile Taiwanese American artist. President of Taiwan Cent
 - 紐約頌音合唱團 — 指揮
 <!-- tah-tables:end -->
 
+## Timeline
+
+- President of the [[organizations/taiwan-center|Taiwan Center]]
+- Conductor/director roles per TAH table: 台灣醫學院合唱團 指揮; 台北教師合唱團 指導; 紐約頌音合唱團 指揮
+- Awards: New York State Governor's Arts Award; Lions Club Lifetime Achievement Award
+- Pastel artist guided into the medium by Jason Chang, President of the North American Pastel Artists Association; works frequently exhibited, noted for bright color and simple construction expressing truth, kindness and beauty
+- Devoted to music education and music evangelicalism; vocal art, piano performance, choir conducting
+
 ## Family
 
 - **Husband:** 林光榮

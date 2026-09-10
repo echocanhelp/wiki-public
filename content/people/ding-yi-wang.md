@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Ding Yi Wang (楊定一博士)
 
@@ -35,6 +35,14 @@ last_reviewed: 2026-08-17
 - 真原新科學及醫學研究中心 — 創辦人
 - 美國洛克菲勒大學分子免疫及細胞生物學 — 兼任教授
 <!-- tah-tables:end -->
+
+## Timeline
+- 1958 — 出生
+- 年21 — 獲洛克菲勒大學生化博士，為該校史上最年輕博士學位獲得者之一（TAH #104）
+- 教育 — B.A.醫學系（巴西大學）；Ph.D.醫學（康乃爾大學）
+- 年27 — 出任美國洛克菲勒大學史上最年輕的講座主任（分子免疫及細胞生物學；TAH #105），後任兼任教授
+- 創辦人 — 真原新科學及醫學研究中心
+- 現任 — 長庚大學、明志科技大學、長庚科技大學、長庚生物科技、美國Inteplast Group 董事長
 
 ## Family
 
