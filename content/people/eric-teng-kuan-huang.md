@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Eric Teng-Kuan Huang (黃騰寬)
 
@@ -32,6 +32,13 @@ Eric (Teng-Kuan) Huang 黃騰寬 – History of Taiwanese American (T.A. Archive
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Timeline
+(absorbed from the on-page TAH tables; no external sources added)
+- From age 11 — Pianist, church Sunday worship
+- 8th grade — Accompanist, school choir / music festival
+- Training — Private piano study with Ms. Hsin-Yi Chen (Director, Neo-Classic Chamber Ensemble) and Dr. Pin-Huey Wang
+- Ongoing — Piano accompanist: Greater Washington Taiwanese-American Chorus (GWTAC), Lingling Vocal Studio, Lingling Choir Class; pianist, Taiwanese Presbyterian Church of Washington
 
 ## Sources
 - [TAH #405 encyclopedia: 405. Eric (Teng-Kuan) Huang 黃騰寬, Pianist /06/2017](https://taiwaneseamericanhistory.org/eric-teng-kuan-huang-pianist/)

@@ -29,6 +29,19 @@ Beginning violin studies in her native Taiwan at the age of ten, violinist Dr. Y
 - Soochow University Orchestra — Principal — University of Maryland Symphony — Principal — Maryland Sinfonietta — Principal — National Christian Choir Orchestra — Associate Concertmaster — Music Institute of Howard Community College — Faculty — Summerkeys Music Festival — Faculty — Community — D.C. Youth Orchestra — Juror
 <!-- tah-tables:end -->
 
+## Timeline
+- Began violin studies in native Taiwan at age ten; won Second Prize in the Northern Taipei Teen Violin Competition
+- B.M., Soochow University — later Principal, Soochow University Orchestra
+- M.M., Peabody Institute of the Johns Hopkins University
+- D.M.A., University of Maryland, College Park
+- Principal chairs — University of Maryland Symphony; Maryland Sinfonietta
+- Associate Concertmaster, National Christian Choir Orchestra
+- Faculty — Music Institute of Howard Community College; Summerkeys Music Festival
+- Juror, D.C. Youth Orchestra competitions
+- Carnegie Hall debut at Weill Recital Hall, New York — praised by the New York Concert Review for projecting her sound "with solidity, warmth and elegance"
+
+*Source: on-page TAH profile ([TAH #402](https://taiwaneseamericanhistory.org/yi-hsin-lin-violinist/), 06/2017).*
+
 ## Family
 
 _No filled family fields on the TAH profile._

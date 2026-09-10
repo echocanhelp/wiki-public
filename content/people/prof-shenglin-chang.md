@@ -31,6 +31,20 @@ Prof. Shenglin Chang 張聖琳教授 – History of Taiwanese American (T.A. Arc
 - Univ. of Maryland — Assistant Professor; Associate Professor — (2000-2008) — Chung Yuan Christian Univ. (中原大學) — Adjunct Associate Professor — (2008-2010) — National Taiwan Univ., Graduate Institute of Building and Planning — Associate Professor; Professor; Director — (2008-2017) — Univ. of Birmingham, Institute of Advance Studies — Distinguished Research Fellow — (2017-2018) — Hyogo Univ., Awaji Campus — Visiting Professor — (2018-2019)
 <!-- tah-tables:end -->
 
+## Timeline
+- **1986** — B.S. in Horticulture and Landscape Architecture, National Taiwan University
+- **1989** — M.S. in Civil Engineering, National Taiwan University
+- **1993** — M.S. in Landscape Architecture, Cornell University
+- **2000** — Ph.D. in Landscape and Environmental Planning, UC Berkeley
+- **2000–2008** — University of Maryland — Assistant Professor, then Associate Professor
+- **2008–2010** — Chung Yuan Christian University (中原大學) — Adjunct Associate Professor
+- **2008–2017** — National Taiwan University, Graduate Institute of Building and Planning — Associate Professor, Professor, and Director
+- **2017–2018** — University of Birmingham, Institute of Advanced Studies — Distinguished Research Fellow
+- **2018–2019** — Hyogo University, Awaji Campus — Visiting Professor
+- Associated with the History of Taiwanese American (T.A. Archives) 台美史料中心 record-keeping effort
+
+*Source: on-page TAH Who's Who profile ([TAH #1767](https://taiwaneseamericanhistory.org/whos-who-1767-shenglin-chang/)).*
+
 ## Family
 
 _No filled family fields on the TAH profile._
