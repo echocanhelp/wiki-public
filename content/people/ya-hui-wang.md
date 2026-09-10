@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-08
+last_reviewed: 2026-09-10
 ---
 # Ya-Hui Wang (王雅惠)
 
@@ -34,6 +34,12 @@ last_reviewed: 2026-09-08
 
 _No filled family fields on the TAH profile._
 
+## Community Record Trail (vault-sourced)
+- **2000-03** — TAH record #355 reports her as the **first female conductor** of an orchestra in Akron, OH ([[works/taiwaneseamericanhistory-org/ff355||TAH #355]]).
+- **Akron concert memory** — Our Journeys #269 recalls a concert at E. J. Thomas Performing Arts Hall (Akron, OH) with **王雅蕙 conducting** the Akron Symphony in 蕭泰然's 〈D調小提琴協奏曲〉, violin solo by [[people/cho-liang-lin||Cho-Liang Lin (林昭亮)]], before 400+ Taiwanese expatriates ([[works/taiwaneseamericanhistory-org/ourjourneys269||Our Journeys #269]]).
+- **First-person essay** — 「音樂與生活」 attributed to 王雅惠 in the TAH story corpus ([[works/taiwaneseamericanhistory-org/mystories26||My Stories #26]]).
+- **Name spelling note** — TAH records carry both **王雅惠** (#229, #266, #532) and **王雅蕙** (#355, Our Journeys #269); treated as the same person, spelling held unresolved pending owner confirmation.
+
 ## Sources
 - [TAH #229 encyclopedia: 229. Ya-Hui Wang 王雅惠](https://taiwaneseamericanhistory.org/ota-229/)
 - [TAH #266 encyclopedia: 266. Ya-Hui Wang 王雅惠, Conductor / 2015/08](https://taiwaneseamericanhistory.org/ya-hui-wang-conductor/)
@@ -43,3 +49,6 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]
+- Records: [[works/taiwaneseamericanhistory-org/ota-229||TAH #229]] · [[works/taiwaneseamericanhistory-org/ya-hui-wang-conductor||TAH #266]] · [[works/taiwaneseamericanhistory-org/whos-who-532-ya-hui-wang||TAH #532]]
+- [[people/cho-liang-lin||Cho-Liang Lin (林昭亮)]]

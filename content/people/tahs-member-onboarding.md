@@ -4,7 +4,7 @@ type: person
 tags:
   - 
 verification_status: pending
-last_reviewed: 2026-09-08
+last_reviewed: 2026-09-10
 ---
 # TAHS Member Onboarding
 
@@ -49,14 +49,15 @@ TAHS onboarding should help a new member understand:
 Pages that link to **tahs-member-onboarding** (tahs-member-onboarding):
 
 
-### People (2)
+### People (3)
 
 1. [[people/david-lee|david-lee]]
-2. [[people/index|index]]
+2. [[people/rex-chen|rex-chen]]
+3. [[people/index|index]]
 
 ## Related Pages
 
 - [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society (台美人歷史協會)]]
-- Echopedia Community Contributions Hub
+- Contributions & corrections entry point: [[index||Contribute & correct]]
 - LINE ↔ Echopedia Identity Linking — Decision Tree
 - LINE ↔ Echopedia Identity Linking v1 Schema

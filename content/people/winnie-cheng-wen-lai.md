@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-08
+last_reviewed: 2026-09-10
 ---
 # Winnie Cheng-Wen Lai (賴政雯)
 
@@ -33,6 +33,10 @@ New York-based Oboist Chengwen Winnie Lai maintains a varied chamber music and o
 
 _No filled family fields on the TAH profile._
 
+## Record Trail (vault-sourced)
+- Cited as **TAH #98, Winnie Cheng-Wen Lai 賴政雯, Woodwind** in the TAH Who's Who story corpus; record published **2014-12-13** ([[works/taiwaneseamericanhistory-org/98-winnie-cheng-wen-lai-e8-b3-b4-e6-94-bf-e9-9b-af||TAH #98 record]]).
+- **Source-text gap** — the TAH biography snapshot on this page is truncated mid-sentence at her teaching list ("taught at chamber music conference at …"). Beyond 華新青少年國樂團 (Chinese Youth Orchestra of New York) woodwind faculty (2003–) and Weill Music Institute teaching artist, her teaching positions remain undocumented in this source set.
+
 ## Sources
 - [TAH #98 encyclopedia: 98. Winnie Cheng-Wen Lai 賴政雯, Woodwind/2014/12](https://taiwaneseamericanhistory.org/98-winnie-cheng-wen-lai-%e8%b3%b4%e6%94%bf%e9%9b%af/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/winnie-cheng-wen-lai/)
@@ -40,3 +44,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]
+- [[works/taiwaneseamericanhistory-org/98-winnie-cheng-wen-lai-e8-b3-b4-e6-94-bf-e9-9b-af||TAH #98 record]]
