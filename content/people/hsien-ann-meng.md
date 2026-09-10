@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Hsien-Ann Meng (孟憲安博士)
 
@@ -48,3 +48,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Connected in the Vault
+- Howard Community College, where Dr. Meng teaches piano, recurs as a teaching hub in this corpus: [[people/yi-hsin-lin|Yi-Hsin Lin]] is recorded on its Music Institute faculty and [[people/i-ling-chen|I-Ling Chen]] on its former piano faculty.
+- The University of Maryland in College Park (her DMA) is likewise shared with [[people/i-ling-chen|I-Ling Chen]] (DMA, 2002) and with [[people/yi-hsin-lin|Yi-Hsin Lin]] (principal of the University of Maryland Symphony) per their TAH profiles.

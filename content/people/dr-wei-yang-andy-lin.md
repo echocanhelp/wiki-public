@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Dr. Wei-Yang Andy Lin (林維洋博士)
 
@@ -50,3 +50,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Connected in the Vault
+- His profile line records his connection to the History of Taiwanese American (T.A. Archives) 台美史料中心; the vault holds the founding account [[works/taiwaneseamericanhistory-org/introduction-of-the-ta-archives|TAH #27: Brief History of the Taiwanese American Archives 台美史料中心的介紹]].
+- No separate Echopedia pages exist yet for his ensembles (Amphion String Quartet, New Asia Chamber Music Society 新亞室內樂協會, International Sejong Soloists, Quartet 131), his schools (Juilliard, Stony Brook) or the Taiwanese Junior Chamber of Commerce of New York; the cited TAH #218 / #504 encyclopedia URLs remain the anchors.

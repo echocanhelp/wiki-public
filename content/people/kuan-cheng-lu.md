@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Kuan Cheng Lu (盧冠呈)
 
@@ -49,3 +49,8 @@ TAH's encyclopedia entries #233 and #483 profile him as the first Taiwanese clas
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/233-kuan-cheng-lu-e7-9b-a7-e5-86-a0-e5-91-88violinist-201507||233. Kuan Cheng Lu 盧冠呈, Violinist 2015/07]] — TAH encyclopedia #233
 - [[works/taiwaneseamericanhistory-org/483-kuan-cheng-lu-e7-9b-a7-e5-86-a0-e5-91-88-201507||483. Kuan Cheng Lu 盧冠呈 / 2015/07]] — TAH encyclopedia #483
+
+## Connected in the Vault
+- The TAH encyclopedia records profiling him are held in the vault: [[works/taiwaneseamericanhistory-org/233-kuan-cheng-lu-e7-9b-a7-e5-86-a0-e5-91-88violinist-201507|TAH #233: Kuan Cheng Lu, Violinist (2015/07)]] and [[works/taiwaneseamericanhistory-org/483-kuan-cheng-lu-e7-9b-a7-e5-86-a0-e5-91-88-201507|TAH #483 (2015/07)]].
+- Per his profile biography, his father and first teacher, the violin pedagogue Chung Chih Lu, and his New York Philharmonic teachers Glenn Dicterow, Lisa Kim and Yoko Takebe are recorded only inside these entries — no separate Echopedia pages exist for them yet.
+- His schools (Oberlin College, Manhattan School of Music, CUNY Graduate Center) and ensembles likewise have no separate vault pages yet; the two encyclopedia works above remain the primary anchors.

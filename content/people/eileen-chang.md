@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Eileen Chang (楊宜宜)
 
@@ -31,7 +31,7 @@ last_reviewed: 2026-09-09
 
 ## Family
 
-- **Husband:** Morgan Chang(張富雄)
+- **Husband:** [[people/morgan-chang|Morgan Chang 張富雄]]
 - **Daughter:** Yin Yin
 
 ## Ministry & Diaspora Notes
@@ -55,3 +55,9 @@ Facts absorbed from the TAH encyclopedia entries already cited on this page:
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/213-mrs-yi-yi-yang-e6-a5-8a-e5-ae-9c-e5-ae-9c-the-first-president-of-taiwan-miss||TAH Encyclopedia #213: Mrs. Yi Yi Yang 楊宜宜 — first president of Taiwan Mission]]
+
+## Connected in the Vault
+- Husband and Voice-of-Taiwan co-founder [[people/morgan-chang|Morgan Chang (張富雄)]] shares the TAH #144 and #143 encyclopedia entries cited above (台灣之音 hotline; 海外台灣基督徒聯合通訊).
+- The memoir [[works/taiwaneseamericanhistory-org/ourjourneys09|Our Journeys #9]] records that in 1983, then working in real estate as 張楊宜宜, she was entrusted with full planning of the purchase of the Taiwanese American House (台灣會館) and presented the purchase proposals at the fundraising dinner.
+- [[works/taiwaneseamericanhistory-org/ourjourneys2|Our Journeys #2]] cites the couple's founding of the New York 「台灣之音」 hot line and corrects its founding date relative to the 1978 US–Taiwan severance (the hotline had already been broadcasting a year and 8 months by then).
+- Bibliographic records held in the vault: [[works/taiwaneseamericanhistory-org/197-eileen-chang|TAH #197]], [[works/taiwaneseamericanhistory-org/whos-who-2202-eileen-chang|TAH #2202]], [[works/taiwaneseamericanhistory-org/218-voice-of-taiwan-e5-8f-b0-e7-81-a3-e4-b9-8b-e9-9f-b3-first-hot-line-1977|TAH #218: Voice of Taiwan first hot line, 1977]].
