@@ -45,6 +45,18 @@ Accomplishment
 - **Son:** Jimmy
 
 
+## Timeline (absorbed from profile record)
+- 1933 — born in Yunlin, Taiwan
+- 1958 — M.D., National Taiwan University
+- 1960 — physician, National Taiwan Univ. Hospital
+- 1963 — physician, Johns Hopkins Univ. School of Medicine / Baltimore City Hospitals
+- 1964 — physician, Wilmington Medical Center, Wilmington, Delaware
+- 1969 — academic medicine, Washington Univ. Medical School, St. Louis, MO
+- 1974 — President, [[organizations/taiwanese-association-of-america-in-greater-st-louis|Taiwanese Association of America in Greater St. Louis]]
+- 1975 — First President, Taiwanese Medical Society of Greater St. Louis (大聖路易地區台灣醫學會)
+- 1988–1990 — President, 北美洲台灣人醫師協會 (see [[organizations/north-american-taiwanese-medical-association-foundation|NATMA Foundation]]); 1989 — Coordinator, Plains Region Fall Camp (平原區秋令會)
+- 2016 — died; memorial profile 413. 廖坤塗醫師簡介 (朱真一, 2016/03) archived in-vault as [[works/taiwaneseamericanhistory-org/mystories413|TAH #413]]
+
 ## Sources
 - [TAH #27 encyclopedia: 27. Dr. Kun T. Liao (廖坤塗醫師)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-27/)
 - [TAH #165 encyclopedia: 165. Dr. Kun T. Liao 廖坤塗醫師](https://taiwaneseamericanhistory.org/165-dr-kun-t-liao/)

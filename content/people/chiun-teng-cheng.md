@@ -43,7 +43,7 @@ Chiun-Teng Cheng was born in Taiwan and went to the United States in 1986 and wa
 - 1986 — moved to the United States
 - 1990s — studied string instrument identification with Jacques Francais
 - 1993 — won a position in the Cincinnati Symphony Orchestra
-- 2015 — profiled in the TAH encyclopedia ([#130](https://taiwaneseamericanhistory.org/130-chiun-teng-cheng-%e9%84%ad%e4%bf%8a%e9%a8%b0-violinist-201502/), [#243](https://taiwaneseamericanhistory.org/243/))
+- 2015 — profiled in the TAH encyclopedia: [[works/taiwaneseamericanhistory-org/130-chiun-teng-cheng-e9-84-ad-e4-bf-8a-e9-a8-b0-violinist-201502|#130, Violinist / 2015/02]] and #243 ([external](https://taiwaneseamericanhistory.org/243/))
 
 ## Family
 

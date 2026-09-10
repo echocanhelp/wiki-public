@@ -33,6 +33,7 @@ last_reviewed: 2026-09-10
 - **Content priority A:** Name and role on https://www.taiwancenter.org/board (archived `taiwancenter-org-board.md`)
 - **Hub:** [[sources/taiwancenter-org||taiwancenter.org]]
 - **Content priority C:** Full biography not in this source set
+- **Coverage hub:** both activity records above are reported by [[sources/taiwanjustice-net||taiwanjustice.net]], the vault's news hub for 台美社團 coverage; her board seat itself is priority-A from the archived taiwancenter.org board roster
 
 ## Related Pages
 

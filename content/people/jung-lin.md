@@ -32,6 +32,13 @@ Pianist Jung Lin has been acclaimed for her poetic and virtuosic pianism. A nati
 ## Notability
 TAH encyclopedia #400 profiles her as pianist and composer: child prodigy who conducted her own orchestral works at 12, premiered her symphonic poem "The Black Wedding" with the Juilliard Symphony at 16, counted among the outstanding Chopin pianists of her generation (Gala Chopin recital at Alice Tully Hall, 1999, alongside 25 world-renowned pianists), and champion of Nikolai Medtner (complete Tales for Naxos).
 
+## Timeline (absorbed from profile bio)
+- Age 12 — conducted her own orchestral works in Taiwan; featured on the major news program "90 minutes"
+- Age 16 — symphonic poem "The Black Wedding" premiered by the Juilliard Symphony under Miguel Harth-Bedoya
+- Juilliard years — composition with David Diamond; piano with Martin Canin for six years (B.A. Piano Performance & Composition, M.A. Piano Performance)
+- 1999 (150th anniversary of Chopin's death) — all-Chopin engagements at the International Keyboard Institute and Festival, the Summit Festival, and the Kosciuszko Polish Foundation; October: Gala Chopin recital at Alice Tully Hall alongside 25 world-renowned pianists
+- 2004 — three invited recitals at radio station WQXR; Naxos recording artist, complete Medtner Tales project
+
 ## Connected in the Vault
 
 Jung Lin's record enters the vault through the [[organizations/tah-foundation||TAH Foundation]]'s encyclopedia project: the detailed 2017 profile [[works/taiwaneseamericanhistory-org/musician400||TAH #400, Pianist & Composer]] documents her Juilliard composition study with David Diamond and six years of piano study with Martin Canin, the 1999 Gala Chopin recital at Alice Tully Hall with 25 world-renowned pianists, and her complete Medtner Tales recording project for Naxos; the Who's Who card [[works/taiwaneseamericanhistory-org/whos-who-1664-jung-lin||TAH #1664]] carries her biographical snapshot. Both derive from [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]. In this vault she is distinct from [[people/anita-chia-jung-lin|violinist Anita Chia Jung Lin]] and [[people/prof-pei-jung-lin|Prof. Pei-Jung Lin]].
