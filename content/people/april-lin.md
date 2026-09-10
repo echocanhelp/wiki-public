@@ -46,6 +46,8 @@ Pages that link to **april-lin** (april-lin):
 - **Content priority A:** Name and role on https://www.taiwancenter.org/board (archived `taiwancenter-org-board.md`)
 - **Hub:** [[sources/taiwancenter-org||taiwancenter.org]]
 - **Content priority C:** Full biography not in this source set
+- **Content priority B (vault corroboration):** the archived 2024 Taiwan Center annual-gala announcement names 林淑卿 among the 38 董事 ticketing the event — corroborates current director status: [[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66|2024 年會晚宴公告]]
+- **Disambiguation (do not merge):** [[works/taiwaneseamericanhistory-org/ourjourneys270|Our Journeys #270]] mentions an early-1950s 林淑卿 (married Rev. 陳皙宗 1954; Toronto Royal Conservatory → Union Seminary School of Sacred Music, M.A. 1966) — a different generation; no evidence of identity with this director
 
 ## Related Pages
 

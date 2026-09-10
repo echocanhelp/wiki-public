@@ -42,7 +42,9 @@ Accomplishment
 
 ## Network
 - Founding president of NATPA; association records he helped launch continue in the vault: [[works/taiwaneseamericanhistory-org/natpa-forum-by-north-america-taiwanese-professors-association-natpa|NATPA Forum]] and [[works/taiwaneseamericanhistory-org/newsletters-of-north-america-taiwanese-professors-association|NATPA newsletters]].
-- Chapter page in vault: [[organizations/north-america-taiwanese-professors-sc|NATPA Southern California]].
+- Chapter pages in vault: [[organizations/north-america-taiwanese-professors-sc|NATPA Southern California]], [[works/taiwaneseamericanhistory-org/natpa-michigan-chapter|NATPA Michigan]], [[works/taiwaneseamericanhistory-org/natpa-new-england-chapter|NATPA New England]].
+- **Same person, deeper page:** [[people/liao-shu-zong|Liao Shu-zong 廖述宗]] (from the TAHS 2017 publication) — parents painter [[people/liao-ji-chun|廖繼春]] and [[people/lin-qiong-xian|林瓊仙]]; spouse 郭淑卿; Ben May Department of Molecular Biology, Univ. of Chicago (5-alpha-reductase/DHT discovery).
+- **Date conflict held (no merge):** this TAH record gives 1931–2015 and NTU B.S. 1953; the 2017 TAHS bio gives death 2017 and B.S. 1954.
 
 ## Family
 

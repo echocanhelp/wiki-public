@@ -20,7 +20,7 @@ last_reviewed: 2026-09-10
 - **Source:** TAH Foundation Who’s Who
 
 Accomplishment
-1. President of Taiwanese American Association/ Ann Arbor Chapter(密西根州安雅堡台灣同鄉會會長)1977
+1. President of Taiwanese American Association/ Ann Arbor Chapter(密西根州安雅堡台灣同鄉會會長)1977 — chapter page: [[organizations/ann-arbor-taiwanese-association||Ann Arbor Taiwanese Association]]
 
 <!-- tah-tables:start -->
 ## Education
@@ -43,7 +43,7 @@ Accomplishment
 
 ## Family
 
-- **Wife:** Amy
+- **Wife:** [[people/amy-hsu||Amy Hsu 蘇惠美]] (TAH #508)
 - **Son:** Edward (許怡達)
 
 

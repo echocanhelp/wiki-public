@@ -50,6 +50,7 @@ last_reviewed: 2026-09-10
 
 ## Related Pages
 
+- [[works/taiwaneseamericanhistory-org/whos-who-2131-j-m-hsu|TAH #2131 record in vault]] (bibliographic mirror of source 2; full text stays in vault)
 - [[organizations/formosan-presbyterian-church-in-los-angeles]]
 - [[people/chaolong-kao]]
 - [[people/david-huang]]
