@@ -29,6 +29,15 @@ Gwhyneth Chen (陳毓襄) is a Taiwanese-American pianist who in 1993, won the b
 - Miami Symphony — Guest Soloist
 <!-- tah-tables:end -->
 
+## Timeline (deepened 2026-09-10, vault-internal)
+
+- **1970** — Born in Taiwan.
+- **Juilliard School** — B.S. and M.S. Music.
+- **1993** — Won the Ivo Pogorelich International Piano Competition — youngest contestant at 23; the $100,000 first prize was then the biggest cash prize in piano-competition history; the victory was broadcast internationally on CNN: [[works/taiwaneseamericanhistory-org/ivo-pogorelich-international-piano-competition-gwhyneth-chen-1993||TAH #66]].
+- **Post-1993** — Guest soloist with the Miami Symphony; subsequent joint concerts with Ivo Pogorelich in Switzerland and in Taiwan.
+- **Recorded 2016 (TAH #258)** — First pianist to win BOTH the junior-high and senior-high divisions of the Music Teachers National Association 50-state piano competition: [[works/taiwaneseamericanhistory-org/258-e9-99-b3-e6-af-93-e8-a5-84-e7-ac-ac-e4-b8-80-e4-bd-8d-e5-90-8c-e6-99-92-e7-8||TAH #258]].
+- **2017** — Named one of ten global representatives for the Steinway SPIRIO system, the only Taiwanese-American pianist among them: [[works/taiwaneseamericanhistory-org/gwhyneth-chen-spirio||TAH #367]].
+
 ## Family
 
 _No filled family fields on the TAH profile._

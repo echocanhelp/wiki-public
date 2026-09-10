@@ -31,6 +31,17 @@ Dr. Hung joined the faculty at Vander Cook in 2006 after teaching piano, theory,
 - VanderCook College of Music — Present — Teaching Piano
 <!-- tah-tables:end -->
 
+## Timeline (deepened 2026-09-10, vault-internal)
+
+- **National Taiwan Normal University** — B.F.A. piano & clarinet (tah-table: B.S. Music).
+- **2002** — M.M. piano performance, Temple University.
+- **2006** — DMA piano & theory, University of Cincinnati College-Conservatory of Music (tah-table: Ph.D.).
+- **Before 2006** — Taught piano, theory, and musicianship at the University of Cincinnati and Temple University.
+- **2006–present** — Faculty (piano), VanderCook College of Music, Chicago.
+- **Performance** — Solo, collaborative, and orchestral pianist in major U.S. and Taiwan venues; has collaborated with members of the Philadelphia Orchestra, Cincinnati Symphony, and Cincinnati Chamber Orchestra. Active member of the Music Teachers National Association (and regional chapters) and Pi Kappa Lambda National Music Honor Society.
+
+Records held in the vault: [[works/taiwaneseamericanhistory-org/452-yu-sui-hung-e6-b4-aa-e8-82-b2-e7-a9-97-201506|TAH #452]], [[works/taiwaneseamericanhistory-org/216-yu-sui-hung-e6-b4-aa-e8-82-b2-e7-a9-97-pianist-201506|TAH #216]].
+
 ## Family
 
 _No filled family fields on the TAH profile._

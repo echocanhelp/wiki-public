@@ -30,6 +30,19 @@ Prof. Shiou-Ping Liao 廖修平教授 – History of Taiwanese American (T.A. Ar
 - Seton Hall Univ. — Professor of Printmaking — (1979-1992) — National Taiwan Normal Univ. — Professor of Fine Arts Dept. — (2009-) — Taiwan Academy of Fine Arts — President — (2009-) — National Taiwan Normal University — Instructor of Printmaking — (1973-1976) — Chinese Culture University (文化大學) — Instructor of Printmaking — (1973-1976) — Tsukuba University, Japan — Instructor / Studio Founder — (1977-1979) — Seton Hall University — Adjunct Professor of Art — Community — Society of American Graphic Artists — Member — 中華民國版畫學會 (Print Association of R.O.C.) — 理事 (Board Member) — Société du Salon d'Automne, Paris (Print Section) — Member — Taipei International Biennial Prints Exhibition — Adjudicator — National Taiwan Fine Arts Exhibition (Print Section) — Adjudicator
 <!-- tah-tables:end -->
 
+## Timeline (deepened 2026-09-10, vault-internal)
+
+- **1936** — Born in Taipei, Taiwan.
+- **1955–1959** — B.A. Art, National Taiwan Normal University.
+- **1962–1964** — Dept. of Painting, Tokyo National University of Education.
+- **1973–1976** — Instructor of printmaking, National Taiwan Normal University and Chinese Culture University (文化大學).
+- **1977–1979** — Instructor and studio founder, Tsukuba University, Japan.
+- **1979–1992** — Professor of Printmaking, Seton Hall University (also Adjunct Professor of Art there).
+- **2009–** — Professor, NTNU Fine Arts Department; President, Taiwan Academy of Fine Arts.
+- **Community roles** — Member, Society of American Graphic Artists and Société du Salon d'Automne, Paris (Print Section); 理事 (board member), 中華民國版畫學會 Print Association of the R.O.C.; adjudicator, Taipei International Biennial Prints Exhibition and National Taiwan Fine Arts Exhibition (Print Section).
+
+Career records held in the vault: [[works/taiwaneseamericanhistory-org/47-prof-shiou-ping-liao||TAH #47]], [[works/taiwaneseamericanhistory-org/whos-who-358-shiou-ping-liao||TAH #358]], [[works/taiwaneseamericanhistory-org/artist40-liao-shiou-ping||Artist #40: 廖修平]].
+
 ## Career Record
 
 Synthesized from the TAH profile tables above (no external sourcing). Liao Shiou-ping (b. 1936, Taipei) trained in art at **National Taiwan Normal University** (B.A. Art, 1955–1959) and the **Tokyo National University of Education** painting department (1962–1964). His teaching career spans both sides of the Pacific: instructor of printmaking at NTNU and at Chinese Culture University (1973–1976); instructor and studio founder at Tsukuba University, Japan (1977–1979); **Professor of Printmaking at Seton Hall University (1979–1992)**; then from 2009 professor in NTNU's Fine Arts Department and President of the Taiwan Academy of Fine Arts. As a community figure he is a member of the Society of American Graphic Artists and of the Print Section of Paris's Société du Salon d'Automne, a board member (理事) of the Print Association of the R.O.C. (中華民國版畫學會), and an adjudicator for both the Taipei International Biennial Prints Exhibition and the National Taiwan Fine Arts Exhibition (Print Section).
