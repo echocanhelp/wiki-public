@@ -8,7 +8,7 @@ tags:
   - tahs-publication-2017
   - anti-kmt
 verification_status: pending
-last_reviewed: 2026-07-20
+last_reviewed: 2026-09-10
 ---
 # Lin Chao-quan (林朝權)
 
@@ -38,6 +38,18 @@ After World War II (終戰), Lin Chao-quan became a leading figure in Taiwan's s
 ## 1984 LA Olympics Visit
 
 In 1984, during the Los Angeles Olympics, Lin Chao-quan visited Los Angeles. He was visited by 楊嘉猷 (Charles Yang), who brought him three books: "江文也傳" (Biography of Wen-yeh Chiang), [[people/peng-ming-min||彭明敏]]'s "自由的滋味" (The Taste of Freedom), and 吳濁流's "無花果" (Figless Fruit), hoping to help him reconnect with his Taiwanese identity.
+
+## Life Timeline
+
+From the 楊嘉猷 memorial account (Part 2) in the [[sources/2017-tahs-publication||2017 TAHS Publication]]:
+
+- Born in 清水 (Qingshui), Taiwan — same hometown as the 楊 family.
+- Witnessed the 二二八 Incident and the Nationalist government's massacre of Taiwanese people → anti-KMT stance; believed Taiwanese should forge their own path rather than 認中國為祖國.
+- Chose not to flee to Japan; went to Hong Kong, then entered China.
+- Arrested by the Communist government for advocating Taiwan independence; imprisoned 25 years.
+- Post-war (終戰): became a leading figure in Taiwan's sports community; served as 國民大會代表, later disillusioned by KMT corruption.
+- 1984 (LA Olympics): visited Los Angeles; 楊嘉猷 (Charles Yang) visited him with three books — 「江文也傳」, [[people/peng-ming-min||彭明敏]]'s 「自由的滋味」, and 吳濁流's 「無花果」 — to help him reconnect with his Taiwanese identity.
+- Died in the 1980s; relations: 二舅/二叔 of [[people/liao-shu-zong||廖述宗 (Liao Shu-zong)]].
 
 ## Source Notes and Confidence
 

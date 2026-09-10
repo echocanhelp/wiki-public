@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Wei-Chin Lin (林威震)
 
@@ -30,6 +30,16 @@ Percussionist Wei-Chen Lin is a top prize winner in competitions worldwide, incl
 ## Employment
 - Taipei Percussion — Percussionist — (2002-2006) — National Taiwan Symphony Orchestra — Principal Timpanist — (2010-2011) — Tanglewood Music Center — Fellow (Timpanist/Percussionist) — (2008-2008) — Boston Civic Symphony — Percussionist — Hai-Dao Contemporary Ensemble — Percussionist
 <!-- tah-tables:end -->
+
+## Career & Competitions
+
+Structured from the TAH profile text and tables above:
+
+- Competition record: Laureate, First Classical Music International Internet-Festival, Moscow (2013); winner, Taiwan Young Star Series (2013); Silver Medal, Houston Symphony Ima Hogg Concerto Competition (2012); Third Prize, Atlantic Symphony Orchestra Concerto Competition (2012); Honorable Mention / 2nd place, Southern California Marimba Competition (2011); First Prize, CML International Marimba Artist Competition (2008); Second Prize, PASIC Marimba Solo Competition (2007); First Prize, PAS International Percussion Competition, Fermo, Italy (2007); winner, Boston University Soloists' Competition (2007).
+- Honors: Boston University Honors Award (2008, 2013); PASIC Val and Eddy's Scholarship; lifelong membership, National Music Honor Society Pi Kappa Lambda.
+- Concerto debut (2007): Keiko Abe's "Prism Rhapsody" with the Boston University Symphony Orchestra; June 2012: Alan Hovhaness's "Fantasy on Japanese Wood Print Op. 211" with the Houston Symphony.
+- Ensembles / posts: Taipei Percussion (2002–2006); Principal Timpanist, National Taiwan Symphony Orchestra (2010–2011); Fellow (Timpanist/Percussionist), Tanglewood Music Center (2008); Boston Civic Symphony; Hai-Dao Contemporary Ensemble.
+- Education: 台灣台北藝術大學 B.A. 音樂系; 波士頓大學 M.S. 打擊樂 (2008), Ph.D. 音樂藝術 (2014).
 
 ## Family
 
