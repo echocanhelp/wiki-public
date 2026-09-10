@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Steven Lin (林易)
 
@@ -33,6 +33,14 @@ A victory at the 2012 CAG Victor Elmaleh Competition is the latest in a growing 
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Timeline
+
+- **Juilliard** — B.S. Music, then M.S. Music
+- **2012** — Won the CAG Victor Elmaleh Competition
+- **2013** — Festival performer, Aspen Chamber Music Workshop
+- **2013** — Competed at the Van Cliburn International Piano Competition; awarded the John Giordano Jury Chairman Discretionary Award; praised by the Ft. Worth Star-Telegram as "…thoroughly enjoyable both as music and as a performance"
+- **c. 2015** — Soloist in Rachmaninoff's Rhapsody on a Theme of Paganini with the Baltimore Symphony; The Baltimore Sun called the performance "elegantly refined"
 
 ## Sources
 - [TAH #291 encyclopedia: 291. Steven Lin 林易, Pianist / 2015/09](https://taiwaneseamericanhistory.org/291-steven-lin-%e6%9e%97%e6%98%93-pianist-201509/)

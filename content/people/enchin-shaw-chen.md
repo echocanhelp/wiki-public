@@ -44,6 +44,19 @@ Family History Book : 蕭安居牧師生平及家譜 Life And Family History Of 
 - **Son:** 陳安哲&陳善哲
 
 
+## Timeline
+
+Absorbed from on-page records (TAH #343, #292, #291, #473; no external sources):
+
+- 1953-11-01 — recorded as the first female Taiwanese student studying in the U.S. ([TAH #343](https://taiwaneseamericanhistory.org/ff343/)).
+- 1957 — B.S. Psychology, San Diego State College; began as Director of Social Service, Springfield Psychiatric Hospital (1957–1964).
+- 1960 — M.S. Social Work, University of Pennsylvania.
+- 1964–1968 — Director of Social Service, Edgemeade School.
+- 1966 — printed the first directory of the Formosan Club of Washington D.C., of which she was a founding member ([[works/taiwaneseamericanhistory-org/ff292|TAH #292]]).
+- 1972 — Taiwanese Presbyterian Church of Washington D.C. started at her house; she was a founding member ([[works/taiwaneseamericanhistory-org/ff291|TAH #291]]).
+- 1996–1999 — Founding Head, Rongshing Children's Choir.
+- 2008-03 — published the family history book 《蕭安居牧師生平及家譜》 *Life And Family History Of Rev. An-Ku Shaw*, preserving the record of the [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]] milieu.
+
 ## Connected in the Vault
 
 - Her TAH encyclopedia entries are harvested in the vault: [[works/taiwaneseamericanhistory-org/senior-taiwanese-american-3||TAH #3]], [[works/taiwaneseamericanhistory-org/ff343||TAH #343 — first female Taiwanese student studying in the U.S.]], [[works/taiwaneseamericanhistory-org/ff292||TAH #292 — founding member, Formosan Club of Washington D.C.]], [[works/taiwaneseamericanhistory-org/ff291||TAH #291 — founding member, Taiwanese Presbyterian Church of Washington D.C.]], and [[works/taiwaneseamericanhistory-org/whos-who-473-enchin-shaw-chen||TAH #473 Who's Who entry]].

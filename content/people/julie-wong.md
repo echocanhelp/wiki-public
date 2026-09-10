@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Julie Wong (翁致理)
 
@@ -32,6 +32,16 @@ A native of Taiwan, pianist Julie Wong has taken the spotlight in the internatio
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Timeline
+
+- A native of Tainan, Taiwan
+- Bachelor of Music and Master of Music, The Juilliard School
+- **1999** — Doctor of Musical Arts, Rutgers University
+- Performed at Carnegie Hall, Lincoln Center, Merkin Concert Hall, Columbia University, Rockefeller University, and other major US venues; recital tours in Europe and Asia
+- Faculty member at Rutgers University, Seton Hall University, Montclair University, and the Music Department of Truth Theological Seminary
+- Volunteer performer at hospitals, medical centers, and nursing homes
+- **Recent** — Ninth tour of recitals and master classes in Taiwan
 
 ## Sources
 - [TAH #46 encyclopedia: 46. Julie Wong 翁致理, Pianist/2014/10](https://taiwaneseamericanhistory.org/46-julie-wong-%e7%bf%81%e8%87%b4%e7%90%86-piano/)

@@ -50,6 +50,15 @@ Dr. Y. C. (Simon) Liu 劉耀經博士 – History of Taiwanese American (T.A. Ar
 - The vault holds pages for Taiwanese student associations at three of his graduate campuses — [[organizations/johns-hopkins-university-taiwanese-student-association||JHU]], [[organizations/university-of-maryland-taiwanese-student-association||Maryland]], and [[organizations/taiwanese-overseas-student-association-at-the-university-of-washington||Washington]] — but records no personal involvement with any of them.
 - Wife 柯淑靜 is named in the TAH family record; no vault page yet.
 
+## Timeline
+- Five degrees: Chung Yuan Christian Univ. (B.S. Mathematics) → Indiana Univ. (M.S. Computer) → Johns Hopkins Univ. (M.S. Government Administration) → Univ. of Maryland (M.S. Corporate Management) → Univ. of Washington (Ph.D. Computer Science & Higher Education).
+- NASA — Information Manager (date not recorded).
+- 2000 — Appointed Director, Agriculture Research Service (ARS), USDA.
+- 2007 — Coordinator, Taiwanese American Conference, East Coast.
+- 2010 — Appointed Director, National Agricultural Library, USDA.
+- President, Greater Washington DC Chapter, [[organizations/north-america-taiwanese-professors-sc||北美洲台灣人教授協會]].
+- Family: wife 柯淑靜 (no vault page yet).
+
 ## Sources
 - [TAH #250 encyclopedia: 250. Dr. Y. C. Simon Liu 劉耀經博士](https://taiwaneseamericanhistory.org/ota-250/)
 - [TAH #1238 encyclopedia: 1238. Dr. Y. C. (Simon) Liu 劉耀經博士](https://taiwaneseamericanhistory.org/whos-who-1238-y-c-liu/)

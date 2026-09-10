@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Yen-Sen Chen (陳彥升)
 
@@ -43,6 +43,19 @@ Senior Research fellow and Suborbital science experiment program manager
 
 - **Wife:** [[people/t-y-ko||柯翠園]]
 
+
+## Timeline
+
+- B.S. Aeronautical Engineering, [[organizations/dan-hsien-taiwan-state-university||淡江大學]]; M.S. and Ph.D. in Aerospace Engineering, University of Kansas
+- **1990–1995** — Adjunct Professor, Mechanical Engineering Department, University of Alabama
+- **1991–2005** — President and chief technical officer, ESI
+- **1991–1998** — Senior staff scientist, SECA, Inc., Huntsville, Alabama *(listed 1998-1991 on the TAH profile; range shown reversed)*
+- **2005–present** — Senior Research fellow and Suborbital science experiment program manager, NSPO (國家太空中心)
+- **2006–2010** — Systems Engineering division director, NSPO
+- **2015–present** — Adjunct professor, Department of Mechanical Engineering, National Chiao Tung University
+- **2017** — Profiled in TAH story #512 as 火箭王子 ("Rocket Prince"), 棄高薪回台發展
+
+Married to [[people/t-y-ko||柯翠園]].
 
 ## Sources
 - [TAH #512 encyclopedia: 512. 火箭王子 陳彥升 棄高薪回台發展 / 林修卉 /02/2017](https://taiwaneseamericanhistory.org/mystories512/)
