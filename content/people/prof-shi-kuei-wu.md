@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Prof. Shi-Kuei Wu (吳錫圭教授)
 
@@ -20,6 +20,16 @@ last_reviewed: 2026-08-17
 - **Source:** TAH Foundation Who’s Who
 
 2. Curator Emeritus of Zoology, Univ. of Colorado Museum, Univ. of Colorado at Boulder (科羅拉多大學波德博物館動物館館長) 1973-1999
+
+## Career & Community
+- Educated in biology at National Taiwan Normal University (B.S.) and at the University of Michigan (M.D., Ph.D.).
+- Curator of the Zoological Hall and Professor at the University of Colorado Museum, University of Colorado Boulder (1973–1999); Professor Emeritus from 1973 onward.
+- Served on the Academic Advisory Committee of the Institute of Zoology, Academia Sinica (1991–2000).
+- Community leadership: President of the North America Taiwanese Professors' Association (NATPA, 北美洲台灣人教授協會); Founding President of the Colorado Taiwanese community association; Principal of the Taiwanese School run by that association in Denver; Coordinator of the 3rd Plains Fall Conference in Estes Park, Colorado; President of the FAPA Colorado chapter.
+
+## Network
+- **Professionals' association:** led the [[organizations/north-america-taiwanese-professors-sc||北美洲台灣人教授協會 NATPA]] movement; the association's publications are held in the TAH archive ([[works/taiwaneseamericanhistory-org/newsletters-of-north-america-taiwanese-professors-association||NATPA newsletters]]).
+- **Community association:** founding president of the Colorado chapter network behind the [[organizations/taiwanese-association-of-america-colorado||Colorado Taiwanese association]].
 
 <!-- tah-tables:start -->
 ## Education
