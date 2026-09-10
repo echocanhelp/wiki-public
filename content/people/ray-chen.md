@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Ray Chen (陳銳)
 
@@ -19,7 +19,7 @@ last_reviewed: 2026-08-17
 - **Core roles:** professor, artist
 - **Source:** TAH Foundation Who’s Who
 
-Ray Chen began learning violin at the age of four. Within five years he completed all 10 levels of the Suzuki Music Education (Suzuki method) in Queensland, Australia. Chen was invited to play solo with the Queensland Philharmonic Orchestra at the age of eight. He was also invited to perform at the opening celebration concert of the 1998 Winter Olympics in Nagano, Japan.
+Ray Chen began learning violin at the age of four. Within five years he completed all 10 levels of the Suzuki Music Education (Suzuki method) in Queensland, Australia. Chen was invited to play solo with the Queensland Philharmonic Orchestra at the age of eight. He was also invited to perform at the opening celebration concert of the 1998 Winter Olympics in Nagano, Japan. According to the TAH encyclopedia entry #244 (2012/12), he was the first person to perform at the Nobel Prize banquet concert (第一位參加諾貝爾獎音樂會演出).
 
 <!-- tah-tables:start -->
 ## Education
@@ -29,6 +29,15 @@ Ray Chen began learning violin at the age of four. Within five years he complete
 ## Employment
 - Sony Classical — Recording Artist — (2010-)
 <!-- tah-tables:end -->
+
+## Timeline
+- **1989** — 生於台灣台北市。
+- **age 4** — 開始學習小提琴。
+- **age 9 (within 5 years)** — 在澳洲昆士蘭完成 Suzuki 音樂教育全部 10 級。
+- **age 8** — 受邀與昆士蘭愛樂管弦樂團（Queensland Philharmonic Orchestra）協奏獨奏。
+- **1998** — 受邀於日本長野冬季奧運開幕慶祝音樂會演出。
+- **2010-** — 成為 Sony Classical 錄音藝術家（Recording Artist）。
+- **2012** — TAH 百科 #244 記載其為第一位參加諾貝爾獎音樂會演出的音樂家。
 
 ## Family
 

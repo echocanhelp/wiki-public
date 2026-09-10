@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Dr. Rex Yu (余忠村博士)
 
@@ -37,6 +37,16 @@ Accomplishment
 - **Wife:** Tammy Yu. (李月英)
 - **Son:** Winston, Benjamin
 
+## Timeline
+- **1939** — 生於台灣台北北投。
+- **1963 / 1966** — 中興大學（National Chung Hsing Univ.）學士、碩士（土地經濟）。
+- **1967** — 美國Utah State Univ.（景觀建築與都市計畫）。
+- **1971 / 1976** — Michigan State Univ. 資源開發碩士、資源經濟學博士。
+- **1972–1975** — 密西根州政府天然資源部（Dept. of Natural Resources）助理規劃與經濟分析師。
+- **1976–1998** — Teakwood Gallery of Beverly Hills（LA）合夥人兼執行長、室內設計師。
+- **1998–2010** — Rexon Interior Designs（Monterey Park, CA）負責人兼室內設計師。
+- **2003–2014** — 洛杉磯縣就業投資委員會（LA County Workforce Investment Board）委員。
+- **2010** — 當選 [[organizations/san-gabriel-taiwanese-lions-club||美國台灣人獅子會]] 會長。
 
 ## Sources
 - [TAH #19 encyclopedia: 19. Dr. Rex Yu 余忠村博士](https://taiwaneseamericanhistory.org/19-dr-rex-yu/)
