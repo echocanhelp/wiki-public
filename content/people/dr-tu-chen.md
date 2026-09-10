@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Dr. Tu Chen (陳都博士)
 
@@ -20,7 +20,7 @@ last_reviewed: 2026-08-17
 - **Source:** TAH Foundation Who’s Who
 
 Accomplishment
-1. President of Taiwanese Association of America (TAA) (全美台灣同鄉會會長) 1983~1984
+1. President of [[organizations/taiwanese-association-of-america||Taiwanese Association of America (TAA)]] (全美台灣同鄉會會長) 1983~1984
 
 <!-- tah-tables:start -->
 ## Education
@@ -31,6 +31,17 @@ Accomplishment
 ## Employment
 - Northrop — Senior Scientist — (1968-) — Xerox Palo Alto Research Center (PARC) — Researcher — (1971-) — Komag Inc. — Co-founder and Chairman — (1983-1999) — Headway Corporation — Co-founder and Vice Chairman — (1996-2001) — Community — Taiwanese Association of America (TAA) — President (1983-1984) — World Federation of Taiwanese Associations (WFTA) — President (1983-1987) — Formosan Association for Public Affairs (FAPA) — Board of Director (1982-1986, 2003-2007)
 <!-- tah-tables:end -->
+
+## Career notes
+- Born 1935 in Yilan, Taiwan.
+- B.S. in Metallurgical Engineering from National Cheng Kung University (1958); M.S. (1964) and Ph.D. (1967), both in Metallurgical Engineering, from the University of Minnesota.
+- Senior Scientist at Northrop from 1968; researcher at Xerox Palo Alto Research Center (PARC) from 1971.
+- Co-founder and Chairman of Komag Inc. (1983–1999); described by TAH as a famous computer-business enterpriser in San Jose, CA. Co-founder and Vice Chairman of Headway Corporation (1996–2001).
+
+## Community roles
+- President of the [[organizations/taiwanese-association-of-america||Taiwanese Association of America (TAA)]], 1983–1984.
+- President of the World Federation of Taiwanese Associations (WFTA), 1983–1987.
+- Board of Director, Formosan Association for Public Affairs (FAPA), 1982–1986 and 2003–2007.
 
 ## Family
 
@@ -46,4 +57,8 @@ Accomplishment
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
+- [[organizations/taiwanese-association-of-america||Taiwanese Association of America (TAA)]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/25-dr-tu-chen||TAH #25 profile]]
+- [[works/taiwaneseamericanhistory-org/107-dr-tu-chen-e9-99-b3-e9-83-bd-e5-8d-9a-e5-a3-ab-famous-enterpriser-in-compute||TAH #107 profile (San Jose enterpriser)]]
+- [[works/taiwaneseamericanhistory-org/whos-who-17-chen-tu-chen||TAH #17 profile]]
