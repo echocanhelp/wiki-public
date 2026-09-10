@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Rev. James I. Cheng (鄭義勇牧師)
 
@@ -38,9 +38,22 @@ _No filled family fields on the TAH profile._
 - [TAH #1691 encyclopedia: 1691. Rev. James I. Cheng 鄭義勇牧師](https://taiwaneseamericanhistory.org/whos-who-1691-james-i-cheng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rev-james-i-cheng/)
 
+## Timeline
+- 1937 — Born in Chiayi, Taiwan
+- 1963 — B. Th., Tainan Theological College & Seminary (台南神學院)
+- 1967 — M. Div., Yale Divinity School; 1968 — S.T.M.
+- Pastor, New Orleans Chinese Presbyterian Church (紐奧良華人長老會)
+- Pastor, Taiwanese United Church in Toronto (多倫多台灣聯合教會)
+- Pastor, Taiwanese Presbyterian Church of Washington (華府台灣基督長老教會), 2006–2009
+- Founding President, FAPA/Pennsylvania Chapter
+- Convener of the Program Group, Taiwanese American Conference-East Coast (美東台灣人夏令會節目組召集人)
+- Honorary Retired Minister, National Capital Presbytery, Presbyterian Church (USA)
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/whos-who-1691-james-i-cheng||TAH Who's Who #1691: Rev. James I. Cheng 鄭義勇牧師]]
+- [[organizations/yale-taiwanese-student-association||Yale Taiwanese Student Association]] — affiliated Yale page
 
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Janice Wong (王正怡)
 
@@ -39,6 +39,18 @@ _No filled family fields on the TAH profile._
 - [TAH #272 encyclopedia: 272. Janice Wong 王正怡, Pianist / 2015/08](https://taiwaneseamericanhistory.org/272-%e7%8e%8b%e6%ad%a3%e6%80%a1janice-wong-pianist-201508/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/janice-wong/)
 
+## Timeline
+- 1977 — Born in Taiwan
+- Age 4 — Began studying music
+- High school — Studied under William and Keiko Ransom of Emory University
+- Peabody Music Conservatory, Johns Hopkins University — B.S. Music, M.S. Music (under Boris Slutsky)
+- Salzburg, Austria — Full scholarship, International Sommerakademie Mozarteum (under Andrzej Jasinski and Sergio Perticarloli)
+- 2000 — Piano faculty, Emory University
+- Ongoing — Refining musicianship under Zalina Guervich and Oleg Barsov
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/543-janice-wong-e7-8e-8b-e6-ad-a3-e6-80-a1-201508||TAH Encyclopedia #543: Janice Wong 王正怡]]
+- [[works/taiwaneseamericanhistory-org/272-e7-8e-8b-e6-ad-a3-e6-80-a1janice-wong-pianist-201508||TAH Encyclopedia #272: Janice Wong, Pianist]]
+- [[organizations/johns-hopkins-university-taiwanese-student-association||JHU Taiwanese Student Association]] — affiliated JHU page

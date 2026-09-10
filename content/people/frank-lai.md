@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Frank Lai (賴文雄)
 
@@ -43,6 +43,18 @@ _No filled family fields on the TAH profile._
 - [TAH #1014 encyclopedia: 1014. Frank Lai 賴文雄/ 2016/05](https://taiwaneseamericanhistory.org/1014-frank-lai-%e8%b3%b4%e6%96%87%e9%9b%84-201605/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/frank-lai/)
 
+## Timeline
+- 1926 — Born in 台中, Taiwan
+- 台灣大學 — B.S., M.S.
+- 1966 — Took part in "The first long journey across the U.S.A" (oral history TAH #53 with 張燦鍙 George Chang and 陳榮成 Long-Chen Chen)
+- EF Hutton證券公司 — 副總裁
+- 美國WynLife公司 — 總監
+- 台灣政治大學 — 講師
+- 2012 — Died
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/53-george-chang-long-chen-chen-wen-hsong-lai-e5-bc-b5-e7-87-a6-e9-9d-99-e9-99-b3||TAH #53 oral history: George Chang, Long-Chen Chen & Wen Hsong Lai]]
+- [[works/taiwaneseamericanhistory-org/1014-frank-lai-e8-b3-b4-e6-96-87-e9-9b-84-201605||TAH Encyclopedia #1014: Frank Lai 賴文雄]]
+- [[people/tsan-hung-george-chang||張燦鍙 (George Chang)]] — co-interviewee, TAH #53

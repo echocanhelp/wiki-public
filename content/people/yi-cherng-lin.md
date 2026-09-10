@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Yi-Cherng Lin (林宜誠)
 
@@ -42,6 +42,19 @@ _No filled family fields on the TAH profile._
 - [TAH #14 encyclopedia: 14. Yi-Cherng Lin 林宜誠, Baritone/2014/10](https://taiwaneseamericanhistory.org/14-yi-cherng-lin-%e6%9e%97%e5%ae%9c%e8%aa%a0-baritone/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yi-cherng-lin/)
 
+## Timeline
+- Born in Taiwan
+- 中山大學 — B.S. Music
+- Performs Taiwanese folksongs in concerts across the United States, incl. the Taiwan sound concert series
+- 2006-04 — Created, directed and performed the Taiwanese musical *Eternal Hope* in Rockville, Maryland
+- 2006-06 — Doctor of Musical Arts in Voice Performance (opera concentration), University of Maryland, College Park
+- 2007-01 — Performed the Taiwanese musical *Bygone Years* in Rockville, Maryland
+- 執行長, 華府台灣文化中心; 指揮 of 馬里蘭州海天合唱團, 維吉尼亞州立人合唱團, and 華府台灣合唱團
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/458-yi-cherng-lin-e6-9e-97-e5-ae-9c-e8-aa-a0-201506||TAH Encyclopedia #458: Yi-Cherng Lin 林宜誠]]
+- [[works/taiwaneseamericanhistory-org/14-yi-cherng-lin-e6-9e-97-e5-ae-9c-e8-aa-a0-baritone||TAH Encyclopedia #14: Yi-Cherng Lin, Baritone]]
+- [[organizations/greater-washington-taiwan-culture-center||Greater Washington Taiwan Culture Center (華府台灣文化中心)]] — 執行長
+- [[organizations/university-of-maryland-taiwanese-student-association||University of Maryland Taiwanese Student Association]] — affiliated UMD page
