@@ -64,3 +64,11 @@ For more bio information, please click link in Who's Who: 890. Hsueh-Hu Kuo 郭�
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/senior-taiwanese-american-9||TAH encyclopedia: 9. Hsueh-Hu Kuo 郭雪湖]]
+- [[works/taiwaneseamericanhistory-org/127-hsueh-hu-kuo||TAH encyclopedia: 127. Hsueh-Hu Kuo 郭雪湖]]
+- [[works/taiwaneseamericanhistory-org/videos36||TAH encyclopedia: 36. 郭雪湖 (公視新聞)]]
+- [[works/taiwaneseamericanhistory-org/artist59-hsueh-hu-kuo||TAH encyclopedia: 59. 郭雪湖 Hsueh-Hu Kuo (2016/03)]]
+- [[works/taiwaneseamericanhistory-org/mystories417||TAH encyclopedia: 417. 走過一百年 用台灣人的眼睛畫世界：郭雪湖 (張肇烜, 2016/03)]]
+
+## Family & Vault Connections (deepened 2026-09-10, vault-internal)
+- Wife: 林阿琴 — no vault page yet; the six encyclopedia entries wikilinked above (#9, #36, #59, #127, #417, and #890 Who's Who) are the vault's documentary corpus for his life and the 台灣畫派/雪湖派 legacy described above.

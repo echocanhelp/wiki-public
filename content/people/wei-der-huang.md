@@ -33,6 +33,15 @@ Wei-Der Huang 黃瑋德, began her piano playing in her young age. Huang earned 
 - Greenbelt Community Church in Greenbelt — Music Director and Organist
 <!-- tah-tables:end -->
 
+## Timeline (absorbed from on-page TAH biography)
+
+- Began piano at a young age; first prize, Taipei City Piano Competition
+- **B.M. Fu-Jen Catholic University**, Taiwan — students of Hsuan Lee and Kuo-Shang Kao
+- **M.M. + Professional Study Diploma, Manhattan School of Music** (NYC) — students of Solomon Mikowsky and Marc Silverman; while in New York, Music Director and Organist at [[works/taiwaneseamericanhistory-org/grace-lutheran-church||Grace Lutheran Church, Astoria]]
+- **Doctor of Musical Arts, [[organizations/taiwanese-american-student-association-at-the-university-of-maryland-college-park||University of Maryland at College Park]]** — studied with Anne Koscielny and Raymond Hanson
+- **Current (per TAH profile)** — piano faculty, Howard Community College (Maryland); Music Director and Organist, Greenbelt Community Church, Greenbelt MD
+- Active member: Music Teachers National Association, Maryland State Music Teachers Association, Friday Morning Music Club; recitals at Hubbard Recital Hall, Homer Ulrich Recital Hall, NIH Masur Auditorium, Montgomery College Concert Hall, Strathmore Hall
+
 ## Family
 
 _No filled family fields on the TAH profile._

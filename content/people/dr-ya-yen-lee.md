@@ -40,6 +40,15 @@ From his own TAH employment table and encyclopedia entries (#149, #128, #21):
 - **成立委員會委員 (1992)** — founding committee member of the 休士頓台灣人活動中心 (Houston Taiwan Community Center)
 - TAH encyclopedia #128 additionally records him as **Founder of Taiwan Center/Houston**.
 
+## Timeline (absorbed from on-page TAH tables/encyclopedia entries)
+
+- **1970** — M.D., Taipei Medical Univ.
+- **Early career (per TAH employment table)** — Intern, Baltimore General Hospital; Washington County Hospital; Radiologist; Doctor of Neuroradiology, The State Univ. of New York at Rogersida
+- **1979-** — Professor, Univ. of Texas Medical Center; later Professor of Oncology, Maryland Anderson Hospital
+- **1992** — Committee member, establishing committee of the 休士頓台灣人活動中心 (Houston Taiwan Community Center); TAH #128 additionally records him as Founder of Taiwan Center/Houston
+- **National service** — President, [[organizations/north-america-taiwanese-professors-sc||NATPA]] (national presidency; chapter page in vault)
+- **Houston leadership** — President, [[organizations/taiwanese-association-of-america-houston-chapter||TAA Houston Chapter]] and [[organizations/taiwanese-heritage-society-of-houston||Taiwanese Heritage Society of Houston]]
+
 ## Family
 
 - **Wife:** [[people/gin-ru-yeh||葉錦如]]
