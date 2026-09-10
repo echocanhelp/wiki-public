@@ -10,7 +10,7 @@ tags:
   - church
   - PCT
 verification_status: pending
-last_reviewed: 2026-09-08
+last_reviewed: 2026-09-09
 ---
 # Elder John Lai's Archives (賴永祥長老史料庫)
 
@@ -69,6 +69,15 @@ Wiki-linked titles (not a dump of 628):
 | 宣教師 / 馬偕 / 原住民 / 日人 | `/archives/pm` `pt` `pg` `pj` `/Mackay/` |
 | PCT cluster | `/PCT/` `/PCTC/` `/PCT-W/` |
 | Around John | `/life/biog.htm` `/works/` `/interview/` `/Loas/` `/Laus/` |
+
+## Archive coverage (v1 + v2, per source hub)
+
+Per [[sources/laijohn-com||laijohn.com source hub]] (harvested 2026-08-18):
+
+- **v1:** official Who/識 + 生平 (`/life/biog.htm`) + 著作目錄 TOC + 1998 lecture
+- **v2:** 《教會史話》 **628 titles** (nos. 1–674), machine index `knowledge/research/laijohn-com-suoe-index.json`; **article bodies not archived**
+- **Not archived:** 本土信徒 (`/archives/pc-contents.htm`, firehose) / 日人 / 原住民 / 宣教師 bodies; the 史話 article firehose; off-site `taigi.fhl.net`
+- Site is HTTP-only, **no sitemap.xml**, on-site search via Google CSE; English home: http://www.laijohn.com/English/Home.htm
 
 ## Related Pages
 - [[people/john-lai||Elder John Lai 賴永祥]]

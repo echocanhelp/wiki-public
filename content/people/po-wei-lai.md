@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Po-Wei Lai (賴伯瑋)
 
@@ -17,7 +17,7 @@ last_reviewed: 2026-08-17
 - **Era:** Birth Place
 - **Geography:** 台灣
 - **Core roles:** educator
-- **Source:** TAH Foundation Who’s Who
+- **Source:** TAH Foundation Who's Who
 
 Po-Wei Lai, a native of Taiwan, began his violin studies at the age of six. He has also studied piano, Chinese violin and Chinese viola. At the age of 11, he became a soloist with the Gwung-Fu Orchestra, and several orchestras, he also performed in many major cities around the world, such as Melbourne, Sydney in Australia, Toronto in Canada, he was a soloist with the Gwung-Fu Orchestra, and at the age of 14, he was a soloist with the Double-Ten Orchestra in Taichung, Taiwan. In the same year, he performed in Alice Tully Hall at Lincoln Center in New York, as a concertmaster with the Double-Ten Orchestra. Mr. Lai completed his undergraduate and graduate violin studies with merit scholarships at the Peabody Conservatory of Music at Johns Hopkins University, and has won first prize in various competitions, including the Taiwan National Competition and the String Competition of Niagara International Chamber Music Festival. Now he teaches violin at his own studio and conducts at BAYMS in San Jose.
 
@@ -30,6 +30,20 @@ Po-Wei Lai, a native of Taiwan, began his violin studies at the age of six. He h
 - BAYMS at San Jose — Present — Teaching Violin
 <!-- tah-tables:end -->
 
+## Career Notes (absorbed from TAH bio)
+- Studies: violin from age six; also piano, Chinese violin (中國小提琴) and Chinese viola (中胡)
+- Child soloist: soloist with the Gwung-Fu Orchestra at age 11; soloist with the Double-Ten Orchestra (台中) at age 14
+- Performed as concertmaster with the Double-Ten Orchestra in Alice Tully Hall, Lincoln Center, New York (age 14); guest soloist in Melbourne and Sydney (Australia) and Toronto (Canada)
+- Competitions: first prize, Taiwan National Competition; first prize, String Competition of the Niagara International Chamber Music Festival
+- Peabody Conservatory of Music (Johns Hopkins University): undergraduate and graduate violin studies on merit scholarships
+- Now teaches violin at his own studio and conducts at BAYMS (Bay Area Youth Music Society), San Jose
+
+## Timeline
+- Age 6 — began violin studies
+- Age 11 — soloist with the Gwung-Fu Orchestra
+- Age 14 — soloist with the Double-Ten Orchestra, Taichung; concertmaster appearance at Alice Tully Hall, Lincoln Center
+- 2015 — profiled in the TAH encyclopedia ([#293](https://taiwaneseamericanhistory.org/293-po-wei-lai%e8%b3%b4%e4%bc%af%e7%91%8b-violinconductor-201509/), [#631](https://taiwaneseamericanhistory.org/631-po-wei-lai-%e8%b3%b4%e4%bc%af%e7%91%8b-201509/))
+
 ## Family
 
 _No filled family fields on the TAH profile._
@@ -37,8 +51,11 @@ _No filled family fields on the TAH profile._
 ## Sources
 - [TAH #631 encyclopedia: 631. Po-Wei Lai 賴伯瑋 / 2015/09](https://taiwaneseamericanhistory.org/631-po-wei-lai-%e8%b3%b4%e4%bc%af%e7%91%8b-201509/)
 - [TAH #293 encyclopedia: 293. Po-Wei Lai賴伯瑋, Violin/Conductor / 2015/09](https://taiwaneseamericanhistory.org/293-po-wei-lai%e8%b3%b4%e4%bc%af%e7%91%8b-violinconductor-201509/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/po-wei-lai/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/po-wei-lai/)
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/293-po-wei-lai-e8-b3-b4-e4-bc-af-e7-91-8b-violinconductor-201509||TAH #293: Po-Wei Lai, Violin/Conductor]]
+- [[works/taiwaneseamericanhistory-org/631-po-wei-lai-e8-b3-b4-e4-bc-af-e7-91-8b-201509||TAH #631: Po-Wei Lai]]
