@@ -42,6 +42,15 @@ From the TAH Who's Who profile text and tables above:
 - "Arts for Humanity World Tour 2005–2015": world tour promoting art education and a global culture of peace.
 - Community service: Secretary-General, World Federation of Taiwanese Associations.
 
+## Timeline
+- 1936 — 出生於台南 (born Tainan)
+- National Taiwan Univ. — B.A., Foreign Languages
+- Univ. de Paris — M.A. Literature; 1970 — Ph.D. Art history (per TAH #102, the first Oriental Ph.D. holder in Art from Paris)
+- Founder — T.F. Chen Cultural Center, SoHo, NYC; Arts for Humanity Foundation, SoHo; [[organizations/new-world-art-center|陳錦芳文化基金會 / NEW WORLD ART CENTER]], Taiwan
+- Community leader — Secretary-General, World Federation of Taiwanese Associations
+- 2001 — Global Tolerance Award, United Nations; designated Cultural Ambassador for Tolerance and Peace (UN / Friends of the United Nations)
+- 2005–2015 — "Arts for Humanity World Tour": world tour promoting art education and a global culture of peace
+
 ## Family
 
 - **Wife:** 侯幸君
