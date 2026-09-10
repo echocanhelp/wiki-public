@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Henry Huan Bi Cheng (鄭煥璧)
 
@@ -32,6 +32,13 @@ With his passion and enthusiasm in music, he studied vocal music and choir condu
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Timeline
+- Studied vocal music and choir conducting under Professor Lu Chuan-Hsin, which drew him into a career in music
+- 1958–1976 — Conductor / teacher, Rong Xing Children's Choir (榮星兒童合唱團)
+- 1976– — Founder and conductor, Rui Sheng Choir (瑞聲合唱團)
+- Over half a century as conductor for many choirs in the Southern California Taiwanese/Chinese community
+- In recent years devoted to composing: published four volumes of choir music, one volume of solo music, and one volume of church music
 
 ## Sources
 - [TAH #175 encyclopedia: 175. Henry Huan Bi Cheng 鄭煥璧, conductor/2015/03](https://taiwaneseamericanhistory.org/175-henry-huan-bi-cheng-%e9%84%ad%e7%85%a5%e7%92%a7-201503/)

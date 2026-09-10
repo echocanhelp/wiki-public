@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Dr. Chung Chiu (邱強博士)
 
@@ -35,7 +35,17 @@ Accomplishment
 
 _No filled family fields on the TAH profile._
 
+## Timeline
+- 1951 — Born in Taipei, Taiwan
+- 1974 — B.S. Nuclear Engineering, National Tsing Hua University (清華大學)
+- M.S. and Ph.D. in Nuclear Science and Engineering, Massachusetts Institute of Technology
+- Vice President, Southern California Edison
+- 1987– — Founder and first president, Performance Improvement International (risk management company)
+- 1991 — Assisted the US government in the Persian Gulf War ("Desert Storm"): pre-analysis and cracking of crisis data helped the US military victory
+- Founder, Error-Free
+
 ## Sources
+- [[works/taiwaneseamericanhistory-org/whos-who-1910-chung-chiu||TAH Who's Who #1910]] — source profile
 - [TAH #1910 encyclopedia: 1910. Dr. Chung Chiu 邱強博士](https://taiwaneseamericanhistory.org/whos-who-1910-chung-chiu/)
 - [TAH #585 encyclopedia: 585. 危機化解大師-邱強博士 /-/10/2017](https://taiwaneseamericanhistory.org/mystories585/)
 - [TAH #100 encyclopedia: 100. Dr. Chong Chiu 邱強博士 / First President and founder of a risk management comp](https://taiwaneseamericanhistory.org/100-dr-chong-chiu-%e9%82%b1%e5%bc%b7%e5%8d%9a%e5%a3%ab-first-president-and-founder-of-a-risk-management-company-performance-improvement-international-1987/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Prof. Ping-Hui Liao (廖炳惠教授)
 
@@ -36,7 +36,20 @@ Accomplishment
 
 _No filled family fields on the TAH profile._
 
+## Timeline
+- 1954 — Born in Yunlin, Taiwan
+- 1972–1976 — B.A. Foreign Languages, Tunghai University (東海大學)
+- 1979–1982 — M.A. Foreign Languages, National Taiwan University
+- 1982–1983 — Assistant Professor, Dept. of Foreign Languages, National Taiwan University
+- 1983–1987 — Ph.D. Institute of Literature, University of California; simultaneously Assistant Professor, Dept. of Literature
+- 1987–1991 — Associate Professor, Dept. of Foreign Languages, National Tsing Hua University (清華大學)
+- 1991– — Professor, Dept. of Foreign Languages, National Tsing Hua University
+- 1991–1992 — Visiting Researcher, Dept. of East Asia, Princeton University
+- 1996– — Visiting Researcher, Dept. of Foreign Languages, Harvard University
+- Chairman, Society of Comparative Literature of the Republic of China
+
 ## Sources
+- [[works/taiwaneseamericanhistory-org/whos-who-1632-ping-hui-liao||TAH Who's Who #1632]] — source profile
 - [TAH #1632 encyclopedia: 1632. Prof. Ping-Hui Liao 廖炳惠教授](https://taiwaneseamericanhistory.org/whos-who-1632-ping-hui-liao/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-ping-hui-liao/)
 

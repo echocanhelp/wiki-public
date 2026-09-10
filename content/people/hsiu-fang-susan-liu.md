@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Hsiu-Fang Susan Liu (陳秀芳)
 
@@ -38,6 +38,18 @@ Accomplishment
 - **Son:** Benjamin
 
 
+## Timeline
+- 1948 — Born in Tainan, Taiwan
+- 1970 — BA Sociology, Tunghai University (東海大學)
+- 1970–1973 — Social worker, CCF (基督教兒童基金會), Tainan
+- 1973–1974 — Teaching assistant, Tainan Theological College and Seminary (台南神學院)
+- 1976 — MS Social Work, Washington University, St. Louis
+- 1981– — Computer programmer, Blue Cross and Blue Shield
+- 1982 — Computer Science studies, DePaul University, Chicago
+- 1984–2006 — Computer programmer / analyst, St. Paul Companies / Travelers
+- 1987–2019 — Key member, "Festivals of Nations" Committee, Taiwanese American Association, Minnesota Chapter (St. Paul, MN)
+- Co-founder and active member, Taiwanese American Archives (Articles, Outstanding Taiwanese American & Website Management Committees)
+
 ## Sources
 - [TAH #83 encyclopedia: 83. Hsiu-Fang (Susan) Liu 陳秀芳](https://taiwaneseamericanhistory.org/whos-who-83-hsiu-fang-liu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hsiu-fang-susan-liu/)
@@ -48,3 +60,6 @@ Accomplishment
 
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
+- [[works/taiwaneseamericanhistory-org/history-of-taiwanese-association-of-america-minnesota-chapter||History of TAA Minnesota Chapter]] — Festivals of Nations committee context
+- [[works/taiwaneseamericanhistory-org/10-participation-of-festival-of-nations-by-taa-minnesota-chapter-in-st-paul-mn-m||TAA Minnesota participation in Festival of Nations]] — documented committee involvement
+- [[works/taiwaneseamericanhistory-org/whos-who-83-hsiu-fang-liu||TAH Who's Who #83]] — source profile
