@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Komi Chen (郭香美)
 
@@ -20,6 +20,14 @@ last_reviewed: 2026-08-17
 - **Source:** TAH Foundation Who’s Who
 
 Born in Taipei in 1943, Komi Chen grew up in an art painting family and was influenced by her father Kuo Hsueh Hu, mother A Chin Kuo and eldest sister Ann Kuo. She studied and explored as she grew up. Moreover, Komi Chen entered National Taiwan Normal University School of Fine Arts in order to receive formal art education. This period has laid down a solid foundation of her painting.
+
+## Timeline
+- **1943** — Born in Taipei into an art-painting family; father [[people/hsueh-hu-kuo||郭雪湖 (Kuo Hsueh-Hu)]], mother 林阿琴 (A Chin Kuo), eldest sister Ann Kuo
+- **1966** — B.A., Fine Arts, National Taiwan Normal University (國立臺灣師範大學)
+- **1966–1968** — Fine Arts Teacher, Taipei Municipal Jinhua Junior High School (台北金華國中)
+- **—** — M.A., Library Science, University of Pittsburgh
+- **1978–1981** — Chinese Painting Teacher, Pittsburgh Community College; later Instructor of Chinese Painting, Monroeville Community College
+- **1991** — Solo Exhibiting Artist, East Gallery (東之畫廊), Taipei
 
 <!-- tah-tables:start -->
 ## Education

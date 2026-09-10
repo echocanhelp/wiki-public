@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Shu-ching Cheng (賴淑卿)
 
@@ -22,6 +22,14 @@ last_reviewed: 2026-08-17
 Accomplishment
 1. Chairman of the Tsunah Foundation(美國慈林基金會董事長) 1998-2005& 2010- 2018
 
+## Timeline
+- **1972** — B.S., Physics, National Tsing Hua University
+- **1975** — M.S., Physiology, University of Wisconsin
+- **1982–** — Deputy Vice Director, Pacific Biotech
+- **1994–** — Co-founder, Wyntek Diagnostics; later Vice President of Operations, Genzyme Diagnostics San Diego (formerly Wyntek Diagnostics, Inc.)
+- **1998–2005 & 2010–2018** — Chairman, [[organizations/tsunah-foundation||Tsunah Foundation (美國慈林基金會)]]
+- **Community** — Co-founder, Taiwanese American Foundation of San Diego; Co-founder, Taiwan Center in San Diego; Board Member, San Diego County CLERB (Citizens' Law Enforcement Review Board); President, NATWA/Greater San Diego Chapter (北美洲台灣婦女會聖地牙哥分會)
+
 <!-- tah-tables:start -->
 ## Education
 - National Tsing Hua Univ. — 1972 — B.S., Physic
@@ -33,7 +41,7 @@ Accomplishment
 
 ## Family
 
-- **Husband:** Edward Cheng(鄭德昌)
+- **Husband:** [[people/dr-edward-cheng||Edward Cheng (鄭德昌)]]
 - **Daughter:** Wendy(鄭昕)
 - **Son:** Eric(鄭晧)
 

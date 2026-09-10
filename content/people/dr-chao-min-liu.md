@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Dr. Chao-Min Liu (劉兆民博士)
 
@@ -30,6 +30,19 @@ last_reviewed: 2026-08-17
 - Taipei Medical College, Taiwan — Instructor of Biochemistry — (1962-1963) — Waksman Institute of Microbiology, NJ — Post-Doctoral Research Associate — (1970-1972) — Hoffmann-La Roche Inc., Nutley, NJ — Distinguished Research Leader — (1972-2011) — Inst. of Biochemistry, Academia Sinica, Taiwan — Visiting Professor — (2011-2012) — Art Students League of New York — Life Member — West Essex Art Association, NJ — Member — Community — Art Students League of New York — Life Member — West Essex Art Association (WEAA), NJ — Member
 <!-- tah-tables:end -->
 
+## Timeline
+
+_Facts absorbed from this page's own TAH tables and encyclopedia entry; no new sources._
+
+- 1954–1960 — National Taiwan Univ.: B.S., M.S., Plant Pathology
+- 1962–1963 — Instructor of Biochemistry, Taipei Medical College, Taiwan
+- 1963–1969 — Univ. of Wisconsin, Madison: M.S., Ph.D., Biochemistry
+- 1970–1972 — Post-Doctoral Research Associate, Waksman Institute of Microbiology, NJ
+- 1972–2011 — Distinguished Research Leader, Hoffmann-La Roche Inc., Nutley, NJ
+- 1982–1985 — Art Students League of New York, studios of H. Dinnerstein, H. Holms, D. Dickerson; later Life Member
+- 2011–2012 — Visiting Professor, Inst. of Biochemistry, Academia Sinica, Taiwan
+- Community — Member, West Essex Art Association (WEAA), NJ
+
 ## Family
 
 - **Wife:** Sharon
@@ -44,3 +57,4 @@ last_reviewed: 2026-08-17
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/artist2-chaomin-liu||TAH artist profile: Chao-Min Liu]]

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Prof. Jen Chin Wang (王政卿教授)
 
@@ -21,6 +21,13 @@ last_reviewed: 2026-08-17
 
 Accomplishment
 1. President of North American Taiwanese Medical Association ( NATMA 北美洲台灣人醫師協會總會會長) 2002-2003
+
+## Timeline
+- **1941** — Born in Taiwan
+- **—** — B.S., National Taiwan University College of Medicine; Residency, Brookdale Univ. Hosp & Med Ctr
+- **—** — Professor of Medicine, New York Medical College
+- **2002–2003** — President, North American Taiwanese Medical Association (NATMA); also President, NATMA-New York Chapter; Chairman, NATMA Foundation
+- **Community** — Co-Founder, [[organizations/global-taiwan-institute||Global Taiwan Institute (GTI)]]; Member of the Board of Directors, Taiwan Center/New York; Lifetime CEO, Taiwanese Golf Association
 
 <!-- tah-tables:start -->
 ## Education
