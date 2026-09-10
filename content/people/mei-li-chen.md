@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Mei-Li Chen (陳玫麗)
 
@@ -31,6 +31,14 @@ Ms. Chen earned her Master degree in Choral Conducting and Church Music from Wes
 - 紐澤西South Plainfield衛理公會聖歌隊 — 指揮及管風琴師
 - 台美團契長老教會 — 手風琴師及手鐘團指揮
 <!-- tah-tables:end -->
+
+## Timeline
+- 東海大學 音樂系鋼琴 學士
+- 紐澤西普林斯頓西敏寺合唱學院（Westminster Choir College）— 合唱指揮及教會音樂，師承 Dr. J. Flummerfelt
+- 1989 — 接任拾音合唱團（Chime-In Chorus）指揮，專責台灣民謠演唱，至今
+- 紐澤西 South Plainfield 衛理公會 — 聖歌隊指揮及管風琴師
+- 台美團契長老教會 — 手風琴師及手鐘團指揮
+- 現任 — First Reformed Church（New Brunswick, NJ）管風琴師及詩班指揮
 
 ## Family
 

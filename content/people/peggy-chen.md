@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Peggy Chen (張佩仙)
 
@@ -33,6 +33,15 @@ Peggy Chen, a soprano vocalist, received her Bachelor of Arts from Tunghai Unive
 - Irvine台灣基督長老敎會 — 聖歌隊指揮
 - Laguna Woods Village台灣合唱團指揮 — 合唱團指揮
 <!-- tah-tables:end -->
+
+## Timeline
+- 東海大學 音樂系 學士（聲樂）
+- 日本武蔵野音樂大學（Musashino Academy of Music）— 音樂碩士
+- 台中市雙十國中音樂班 — 聲樂老師
+- 東京高田馬場台灣基督長老敎會 — 聖歌隊指揮
+- 洛杉磯福爾摩沙聖樂團 — 助理指揮
+- [[organizations/irvine-taiwanese-presbyterian-church||Irvine台灣基督長老敎會]] — 聖歌隊指揮
+- Laguna Woods Village台灣合唱團 — 指揮
 
 ## Family
 

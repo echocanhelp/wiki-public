@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Prof. Ju-Shey Ho (何汝諧教授)
 
@@ -31,6 +31,14 @@ Accomplishment
 ## Employment
 - CSULB — Professor — (1970-) — World Association of Copepodologists — President — (1993-1999) — North America Taiwanese Professors' Association / South California Chapter — President — (1985-1986) — Community — World Association of Copepodologists — President — North America Taiwanese Professors' Association / South California Chapter — President
 <!-- tah-tables:end -->
+
+## Timeline
+- 1958 — B.A., Zoology, National Taiwan Univ.
+- 1965 — M.S., Biology, Boston Univ.
+- 1969 — Ph.D., Marine Biology, Boston Univ.
+- 1970– — Professor, CSULB
+- 1985–1986 — President, North America Taiwanese Professors' Association / South California Chapter — [[organizations/north-america-taiwanese-professors-sc|NATPA South California]]
+- 1993–1999 — President, World Association of Copepodologists — the first president of a world-wide professional organization from the Taiwanese American community
 
 ## Family
 
