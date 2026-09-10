@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Jolie Lin (林姝秀)
 
@@ -31,6 +31,17 @@ Pianist Jolie Lin is a performer, lecturer, and pedagogue of Western classical m
 - 琶第音樂院預校 — Teacher
 - 巴爾地摩藝術學校 — Teacher
 <!-- tah-tables:end -->
+
+## Career
+
+Absorbed from the TAH profile text above:
+
+- Performer, lecturer, and pedagogue of Western classical music; musical activities have spanned four continents, from the Americas to Europe and Asia.
+- Presented lectures in Singapore and Spain under the auspices of the Presser Award, supported by multiple career grants from the Peabody Conservatory (the Peabody Institute network in the vault also includes [[people/ying-chen-kao||Ying-Chen Kao]] and [[people/amy-chun-ting-chao||Amy Chun-Ting Chao]]).
+- Toured South America with the Youth Orchestra of the Americas; participated in European festivals including Rencontres musicales en Lorraine, Sommerklavierkurs in Fellbach, and the International Chamber Music Course in Positano.
+- Solo appearances with orchestra include the Los Angeles Bach Festival Orchestra, Conejo Youth Symphony Orchestra, UC Berkeley Symphony Orchestra, Crowden School Orchestra, Lviv Chamber Orchestra, and the Metropolitan Orchestra of Washington, D.C.
+- Education per the TAH table: B.S. from UC Berkeley (加州柏克萊大學); M.M. in piano performance and musicology and DMA (音樂藝術博士) from the Peabody Conservatory (琵琶第音樂學院).
+- Teaching posts per the TAH table: Northern Virginia Community College (北維州社區大學), the Peabody Conservatory Preparatory Division (琵琶第音樂院預校), and the Baltimore School for the Arts (巴爾地摩藝術學校).
 
 ## Family
 

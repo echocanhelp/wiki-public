@@ -31,6 +31,16 @@ Born in Taiwan, Youming Chen is an active chamber and orchestral violist residin
 - Ann Arbor交響樂團 — 客任首席
 <!-- tah-tables:end -->
 
+## Career
+
+Absorbed from the TAH profile text above:
+
+- Active chamber and orchestral violist residing in New York City; won the Rutgers Symphony Orchestra concerto competition, scheduled to perform the revised edition of the Bartók viola concerto with orchestra in November 2006.
+- Founding member of the Fader Piano Quartet at The Juilliard School; former violist of the Gustave Rosseels Quartet at the University of Michigan.
+- At the 58th Coleman Chamber Ensemble Competition (California), the Fader Quartet won the Saunderson Award; also appeared with the Michigan Chamber Players and at Ann Arbor Chamber Fest 2002.
+- Doctor of Musical Arts candidate at Rutgers University under Paul Neubauer and Toby Appel; Master's degree with Hsin-Yun Huang at the Juilliard School (see also fellow Juilliard-trained TA musician [[people/anne-ku-2||Anne Ku]]); Bachelor's degree from the University of Michigan with Yizhak Schotten.
+- Per the employment table: concertmaster (副首席) of the Flint Symphony Orchestra and principal guest (客任首席) of the Ann Arbor Symphony Orchestra.
+
 ## Family
 
 _No filled family fields on the TAH profile._
