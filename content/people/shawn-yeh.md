@@ -33,7 +33,8 @@ The board page's institutional copy (not attributed to Yeh) presents the directo
 ## Timeline
 
 - **1998-06-12** — 南加州台灣會館基金會 formed (org history; Yeh is not named in the founding sentence).
-- **November 2024** — [[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66|TJ coverage of the 會館 26th-anniversary gala]] lists 葉上毅 among the foundation's directors (article: **共計38位董事**).
+- **2024-11-02** — [[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66|TJ coverage of the 會館 26th-anniversary gala]] (Pacific Palms Resort) lists 葉上毅 last among the **共計38位董事** named as ticket-sale contacts for the $20M rebuild fundraising; the gala's keynote was Yih-Chuan Wang, CSO of the Taiwan Brain Trust (no vault page yet).
+- **2024** — the archived board page attaches a 2024 yearbook photograph (Yearbook2024.pdf) to Shawn Yeh's 個人董事 entry, the only visual record of him in the vault.
 - **2026-07-16** — site board archive lists him as **個人董事** (27 named directors on the current site table).
 - **2026-09-08** — page deepened from stub; no unsourced biography added.
 - **2026-09-09** — deepening pass over the cited board archive and 2024 TJ gala coverage: no new vault-internal facts beyond the roster already recorded; deliberately no invented biography added.

@@ -39,6 +39,18 @@ The Xie family represents three generations of professional achievement and unwa
 - 1976-1979: Engineer at Rockwell International (navigation control and positioning analysis)
 - 1979-1995: Engineer at Aerospace Corporation in California
 - 1995: Returned to Taiwan to work for the National Science Council, sacrificing a stable career with retirement benefits
+- Served as 國科會副主任委員 (Vice Chair, NSC); as such he led the 南科高鐵減振專案 that let TSMC's southern science-park fabs proceed
+- 2006: Indicted over the 南科減振案; detained 59 days before bail (首次偵訊即被收押 2006-05-24，交保 2006-07-21)
+- 2011-07: Acquittal finalized (無罪定讞) after first trial and retrial — all defendants cleared
+- 2024: Chen Shui-bian publicly called him「護台神山」at the 國史館《陳水扁總統訪談錄》launch; 陳建仁 hosted a dinner and presented a「功在南科」memorial plaque
+
+## Connected in the Vault
+
+- Same-person page: [[people/ching-sze-hsieh||Ching Sze Hsieh（謝清志博士）]] — TAH 百科 #108
+- Church affiliation: [[organizations/irvine-taiwanese-presbyterian-church||ITPC 南加州台灣長老教會 Irvine]] — listed as Dr. 謝清志 among the congregation's professional members
+- First-person account of the vindication: [[articles/taiwanjustice-net/2024/20240526115051_root_d2323986bedeec27||這一次，政府頒贈我們一枚勳章 ◎ 謝清志]]
+- News coverage: [[articles/taiwanjustice-net/2024/20240527024858_root_6009f99171fd76d6||陳建仁替謝清志平反，頒「功在南科」紀念牌]] and [[articles/taiwanjustice-net/2024/20240527035213_root_99797f063bbaac51||「護台神山」是他：阿扁為前國科會副主委謝清志喊冤]]
+- Earlier TAH essays by him: [[works/taiwaneseamericanhistory-org/ourjourneys66|66. 南加州同鄉會組團回台 – 1984突破黑名單 / 謝清志]]
 
 ### Xie Poyi
 - Medical doctor specializing in muscle and nerve medicine

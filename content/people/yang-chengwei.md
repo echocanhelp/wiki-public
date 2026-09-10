@@ -63,9 +63,14 @@ Yang Chengwei's story represents the bridge between Taiwanese American families 
 - **Hub:** [[sources/2023-tahs-publication||2023 TAHS Publication]]
 - **Archive:** `knowledge/web-archives/2023-tahs-publication-part2.md`
 
+## Connected in the Vault
+
+Yang's profile lives in the same 2023 TAHS Publication as its Priority-A subjects [[people/peng-ming-min||Peng Ming-min]] and [[people/zheng-bing-quan||Zheng Bingquan (鄭炳全)]]; the publication hub [[sources/2023-tahs-publication||2023 TAHS Publication]] indexes all 19 profiles, with [[people/fan-qingliang||Fan Qingliang (范清亮)]] printed adjacent (p. 116). No standalone vault page yet exists for his "Second Generation" theater company, his wife Dina Morishita, or his mother Yang Huangmei; those names are deliberately left unlinked rather than pointed at wrong slugs.
+
 ## Related Pages
 
 - [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[people/peng-ming-min||Peng Ming-min]] — Priority-A subject of the same 2023 publication
 - [[sources/2023-tahs-publication||2023 TAHS Publication]]
 - [[people/zheng-bing-quan||Zheng Bingquan (鄭炳全)]]
 - [[people/yang-jia-you||Charles Yang (楊嘉猷) — TAHS founding president]]

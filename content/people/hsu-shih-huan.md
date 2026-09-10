@@ -34,6 +34,7 @@ This page is an **A-tier thin record** for graph linking and member-priority sco
 - **Title:** 顧問 (Advisor (顧問), TAHS 2025)
 - **Source:** TAHS 2025 organization chart (台美人歷史協會組織表), Tax ID 46-4005384
 - **Roster:** `knowledge/operational/tahs-priority-roster.md` (L1)
+- **Collected advisors:** the society's own page lists 許世環 on the 顧問 line together with [[people/gene-tsai||Gene Tsai (蔡錦榮)]] and [[people/linda-liu||Linda Liu (劉玲華)]] *(handwritten on chart)*, under 會務指導會 chaired by [[people/alan-thian||Alan Thian (田詒鴻)]]; the 2018 NTU 園藝 signatory cohort above is, so far, his only pre-TAHS documented affiliation.
 
 
 ## Works

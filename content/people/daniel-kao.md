@@ -26,6 +26,8 @@ last_reviewed: 2026-09-09
 
 In the 2025 Self-Preface to [[sources/toward-a-community-of-hope||Toward A Community of Hope]], Dr. Lai lists **Dr. & Mrs. Daniel Kao (高光民夫婦)** among the core co-founding families who, together with UPCUSA pastors and elders, organized the first Taiwanese Presbyterian church in North America.
 
+The FPCLA org page names the full founding cohort of Taiwanese believer households alongside the Kaos: Dr. & Mrs. C. C. Chen (陳昭俊), Mr. & Mrs. Norman Hsu (許彬), Dr. & Mrs. Isiah Lee (李宗派), Dr. & Mrs. Joseph T. C. Lu (盧俊哲), Mr. & Mrs. Morris Chen ([[people/chen-maoxiong||陳茂雄]]), Mr. & Mrs. George Chen (陳進琛), Dr. & Mrs. Sze-Ya Yeh (葉思雅), Mr. & Mrs. Wang Chun Hsiung (王春雄), Dr. & Mrs. Jang Yan Wu ([[people/jang-yen-wu||吳政彥]]), Dr. Wen-Cho Yang (楊哲), Dr. & Mrs. Justin Chen (陳有義), Meiling Lai (賴美玲), and Michael Chen (陳明章). Most of these names have no vault page yet and stay unlinked.
+
 **Disambiguation:** Not the same person as [[people/chaolong-kao||Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)]], who was called as **organizing minister** by the Presbytery of Los Angeles Southwest in September 1971.
 
 
