@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Josephine Pan (潘掬慧)
 
@@ -19,6 +19,10 @@ last_reviewed: 2026-08-17
 - **Chinese:** 潘掬慧
 - **Role:** 團體董事
 - **Organization:** [[organizations/taiwan-center||Taiwan Center (TWCLA)]]
+
+## Public activity (vault-sourced)
+
+- **228 追思紀念大會主持人** — at the 2025 追思紀念大會 hosted by 大洛杉磯台灣會館 with 24 台美社團 (2025-02-24, Taiwan Justice Net report preserved in the quote archive of [[people/roger-tsai||Roger Tsai (蔡漢成)]]), 董事潘掬慧 and 228系列活動召集人 [[people/tony-lee||Tony Lee (李賢群)]] presided over the ceremony.
 
 ## Source Notes and Confidence
 
@@ -37,20 +41,21 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Husband:** Thomas Shu 許正龍
+- **Husband:** [[people/thomas-shu||Thomas Shu 許正龍]] — per his own page he is 台灣大學經濟系, and Vice President and Marketing Director of **JT & Tea Inc.**, the same company where Pan is CEO and Managing Director; he is recorded in TAH as 「The first Ambassador of Taiwan Tea 第一任台灣茶葉大使」 (TAH #68).
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org source]]
+- [[people/thomas-shu||Thomas Shu (許正龍)]]
+- [[people/tony-lee||Tony Lee (李賢群)]]
+- [[people/roger-tsai||Roger Tsai (蔡漢成)]]
 - [[people/alan-thian||Alan Thian (田詒鴻)]]
 - [[people/simon-lin||Simon Lin (林榮松)]]
-- [[people/roger-tsai||Roger Tsai (蔡漢成)]]
 - [[people/linda-liu||Linda Liu (劉玲華)]]
 - [[people/jolie-chenn||Jolie Chenn (陳芃佑)]]
 - [[people/shu-lai||Shu Lai (賴淑遠)]]
-- [[people/tony-lee||Tony Lee (李賢群)]]
 - [[people/ken-wu||Ken Wu (吳兆峯)]]
 - [[people/ray-jan||Ray Jan (冉瑞宜)]]
 - [[people/lisa-liu||Lisa Liu (劉雅薇)]]

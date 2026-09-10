@@ -2,13 +2,14 @@
 title: "Dr. Lien-Hwa Chow (周聯華)"
 type: person
 tags:
-  - 
+  - person
+  - theologian
 verification_status: published
-last_reviewed: 2026-07-17
+last_reviewed: 2026-09-10
 ---
 # Dr. Lien-Hwa Chow (周聯華)
 
-**Dr. Lien-Hwa Chow (周聯華, Chow Lien-hwa)** appears in republication-linked reference networks around toward-a-community-of-hope, representing theological and pastoral influence lines.
+**Dr. Lien-Hwa Chow (周聯華, Chow Lien-hwa)** appears in republication-linked reference networks around [[sources/toward-a-community-of-hope||Toward a Community of Hope]], representing theological and pastoral influence lines.
 
 ## Identity Snapshot
 - Era: late 20th-century theological influence; 2025 reference context
@@ -33,7 +34,7 @@ His inclusion suggests intergenerational reliance on influential theological voi
 - Source confidence C
 
 ## Historical Context
-In this cluster, Dr. Chow functions as a reference point in theological lineage rather than as a primary narrator of [[organizations/national-taiwanese-presbyterian-council||NTPC]] institutional events.
+In this cluster, Dr. Chow functions as a reference point in theological lineage rather than as a primary narrator of [[organizations/national-taiwanese-presbyterian-council||NTPC]] institutional events. Within the [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan (台灣基督長老教會)]] milieu he is remembered as a prominent Chinese-language pastoral voice whose recommendation lent standing to the republication.
 
 ## Contributions and Legacy
 1. Serves as a theological reference anchor for migration-era church interpretation. — Source: cluster contextual layer (C)
@@ -77,7 +78,7 @@ Use the shared intake process at Echopedia Community Contributions Hub and inclu
 - Source type and permission status
 
 ## Related Pages
-- toward-a-community-of-hope
+- [[sources/toward-a-community-of-hope||Toward a Community of Hope]]
 - [[organizations/national-taiwanese-presbyterian-council||NTPC]]
 - [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan (台灣基督長老教會)]]
-- Echopedia Person Recordation Framework
+- [[sources/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan source]]

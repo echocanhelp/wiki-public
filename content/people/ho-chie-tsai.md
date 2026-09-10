@@ -9,7 +9,7 @@ tags:
   - media
   - taiwanese-american-org
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Ho Chie Tsai (蔡和杰)
 
@@ -34,7 +34,9 @@ The website has become an important tool for the Taiwanese American Historical S
 
 ## Professional Career
 
-Ho Chie is a **board-certified pediatrician** on staff at the **UCSF Benioff Children's Hospital**. He has served the medical community in the San Francisco Bay Area for many years.
+Ho Chie earned his M.D. at the University of Illinois at Chicago and practiced as a **board-certified pediatrician** in the Oakland area, on staff at Children's Hospital Oakland and the Research Center of Oakland, and affiliated with the **UCSF Benioff Children's Hospital**. He has served the medical community of the San Francisco Bay Area for many years.
+
+Community-organizing activity around his founding of Taiwanese American Professionals in San Francisco is documented in the community record, e.g. [[works/taiwaneseamerican-org/community-service-event-with-tap-at-ucsf||a TAP community-service event at UCSF]].
 
 ## Community Involvement
 
@@ -64,7 +66,7 @@ Ho Chie is a **board-certified pediatrician** on staff at the **UCSF Benioff Chi
 
 ## Related Pages
 - [[organizations/taiwaneseamerican-org||TaiwaneseAmerican.org]]
-- [[sources/taiwaneseamerican-org]]]]
+- [[sources/taiwaneseamerican-org||TaiwaneseAmerican.org source]]
 - [[organizations/tah-foundation||TAH Foundation]]
 
 - [[organizations/taiwanese-american-historical-society||TAHS]]

@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Tony Lee (李賢群)
 
@@ -19,6 +19,11 @@ last_reviewed: 2026-08-17
 - **Chinese:** 李賢群
 - **Role:** 副董事長
 - **Organization:** [[organizations/taiwan-center||Taiwan Center (TWCLA)]]
+
+## Public activity (vault-sourced)
+
+- **228系列活動召集人** — at the 2025 追思紀念大會 hosted by 大洛杉磯台灣會館 together with 24 台美社團 (2025-02-24, Taiwan Justice Net report preserved in the quote archive of [[people/roger-tsai||Roger Tsai (蔡漢成)]]), 李賢群 served as convener of the 228 series events and, with 董事 [[people/josephine-pan||Josephine Pan (潘掬慧)]], presided over the memorial ceremony.
+- **WHA 聯合聲明的共同發起人** — named among the 共同發起人 of the 2021 南加州僑界支持台灣參與世界衛生大會 (WHA) 聯合聲明 (Taiwan Justice Net, 2021-05-17, preserved in the vault article archive).
 
 ## Source Notes and Confidence
 
@@ -44,9 +49,10 @@ last_reviewed: 2026-08-17
 
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org source]]
+- [[people/roger-tsai||Roger Tsai (蔡漢成)]]
+- [[people/josephine-pan||Josephine Pan (潘掬慧)]]
 - [[people/alan-thian||Alan Thian (田詒鴻)]]
 - [[people/simon-lin||Simon Lin (林榮松)]]
-- [[people/roger-tsai||Roger Tsai (蔡漢成)]]
 - [[people/linda-liu||Linda Liu (劉玲華)]]
 - [[people/jolie-chenn||Jolie Chenn (陳芃佑)]]
 - [[people/shu-lai||Shu Lai (賴淑遠)]]
@@ -66,7 +72,6 @@ last_reviewed: 2026-08-17
 - [[people/vera-yang||Vera Yang (楊悅英)]]
 - [[people/shirley-yu||Shirley Yu (張欣珠)]]
 - [[people/joyce-yeh||Joyce Yeh (葉怡蘭)]]
-- [[people/josephine-pan||Josephine Pan (潘掬慧)]]
 - [[people/joseph-teng||Joseph Teng (曾英銘)]]
 - [[people/steven-wu||Steven Wu (吳尚誠)]]
 - [[people/lisa-hou||Lisa Hou (侯乃文)]]

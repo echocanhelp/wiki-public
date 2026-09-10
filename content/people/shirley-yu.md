@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Shirley Yu (張欣珠)
 
@@ -19,6 +19,14 @@ last_reviewed: 2026-08-17
 - **Chinese:** 張欣珠
 - **Role:** 團體董事
 - **Organization:** [[organizations/taiwan-center||Taiwan Center (TWCLA)]]
+
+## Life and Career
+
+Shirley Yu (張欣珠) studied social work, earning a B.A. in Social Work from National Taiwan University in 1970 and an M.S.W. from Wayne State University in 1976, later adding an M.B.A. from USC in 1997. She moved into healthcare leadership, serving as CEO of Kindness-Care Home Health (from 1996), CareNet Health System (from 1997), and CareNet Medical (from 2002).
+
+She is recorded in the TAH Who's Who encyclopedia (#306, 2015/02) and on the [[sources/taiwancenter-org||taiwancenter.org]] board listing.
+
+**Family:** husband 游弘; daughters 游世寧 and 游依寧; son 游世傑. See also [[people/samantha-yu||Samantha Yu (游蕙綾)]].
 
 ## Source Notes and Confidence
 
