@@ -11,7 +11,7 @@ OUT = REPO / 'knowledge/operational'
 # cards needed ~20 min; 900s wall killed 9/10 mid-page. 4 pages fits 1500s
 # with 60% margin; iteration budget (30) still comfortable at <=2 calls/page.
 SLICE = 4
-NCARDS = 16
+NCARDS = 32
 
 rows = []
 for pat in ('content/people/*.md', 'content/organizations/*.md'):
