@@ -72,6 +72,12 @@ Notable quotes and mentions of **黃永成** in Taiwan Justice articles:
 1. "IES 川普時代 共和黨議員承諾不跑票 美稅改案年底前將過關 ◎上報 2017-12-16 December 15, 2017 保健 氣喘病人基本認知的衛教 ◎黃永成（藥師）/民報 2017-12-14 December 15, 2017 陳茂雄專欄 專論: 法理台獨及實質台獨 ◎ 陳茂雄/ 高雄台灣時報/ 2017-12-"
    — 新聞挖挖哇 20171212 酒錢誰來付 (2017-12-12)
 
+## Connected in the Vault
+
+- The 2017-12-15 taiwanjustice.net digest that credits 黃永成's 民報 health column 「氣喘病人基本認知的衛教」 also carries a column by [[people/chen-maoxiong|陳茂雄 Chen Mao-xiong]] (法理台獨及實質台獨) — both appear in the same harvest digest body-mention cluster.
+- Media footprint in the vault: 4 body mentions, 0 title hits, all December 2017 ([[sources/taiwanjustice-net|taiwanjustice.net]]).
+
 ## Related Pages
 
 - [[people/albert-s-lai||Dr. Albert S. Lai]]
+- [[people/chen-maoxiong||Chen Mao-xiong (陳茂雄)]] — TJ columnist, co-cited in the same digest

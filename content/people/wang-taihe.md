@@ -44,6 +44,12 @@ Through his art and community involvement, Wang has helped to preserve and share
 - In 2017 he received the 王康陸人權獎 from the association's then-president 李賢奇 — the award honours [[people/kang-lu-wang||王康陸 (Kang-lu Wang)]], the Kansas Taiwanese student leader who first sheltered Wang when he arrived in the US.
 - Married 1971; one son and one daughter.
 
+## Connected in the Vault
+
+- FAPA activity (1990s central committee member; 1993 WAHRT presidency era): vault record [[works/taiwaneseamericanhistory-org/formosan-association-for-human-rights-s-california||TAH — FAPA Southern California]].
+- 台獨之聲 phone-line colleague 盧千惠 and 許世楷 are not yet vault pages; the 台獨聯盟, FAPA ([[organizations/formosan-association-for-human-rights||FAPA]]) and 王康陸 ([[people/kang-lu-wang||Kang-lu Wang]]) links above are the live cross-references.
+- Educated path 建國中學 → 台北工專 → Kansas State → NYU; teaching post at the PCT-founded school ([[organizations/presbyterian-church-in-taiwan||PCT]]).
+
 ## Source Notes and Confidence
 
 - **Content priority A:** 2023 TAHS Publication (profile, Section 1, ~649 lines), written by 鄭炳全; full text in `knowledge/web-archives/2023-tahs-publication-part1.md` (「畢生致力人權與台獨運動的王泰和先生」)
