@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Tai Lin (林泰)
 
@@ -46,3 +46,19 @@ Dr. Tai Lin was born in Taipei, Taiwan and graduated from Taiwan National Tsing 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/552-tai-lin-e6-9e-97-e6-b3-b0-conductor-201508||TAH encyclopedia: Tai Lin 林泰, Conductor (2015/08)]]
+- [[works/taiwaneseamericanhistory-org/553-tai-lin-e6-9e-97-e6-b3-b0-201508||TAH encyclopedia: Tai Lin 林泰 (2015/08)]]
+
+## Timeline (absorbed 2026-09-10 from profile text on this page)
+- age 10 — began private piano lessons; picked up flute in high school band; took up vocal/choir music at Tsing Hua University
+- 1980–81 — conductor, Tsing Hua University Choir
+- 1983 — B.S. Physics, National (Tsing Hua) University, Hsinchu
+- 1987 — began graduate study at Washington University in St. Louis
+- 1993 — founded Ariel Premium Supply, Inc. (promotional products industry) with his wife Dr. Yuhling Lu; the firm won industry awards and made a St. Louis top-50 list
+- 1994 — Doctor of Science in Electrical Engineering, Washington University in St. Louis (dissertation on cochlear physiology)
+- 1996 — NIH fellowship at Harvard/MIT to continue cochlear-physiology research; then joined his former dissertation advisor applying that research to innovative hearing-aid designs, holding both European and USA patents
+
+## Family & Vault Connections (deepened 2026-09-10, vault-internal)
+- Wife: Dr. Yuhling Lu — co-founder of Ariel Premium Supply (no vault page yet).
+- Conductor posts per the employment table: 台北金穗合唱團, 唯歌小集, St. Louis Taiwanese Youth Chamber Orchestra.
+- Listed as a 理事 of 全美台灣人權協會's 2014 board (as 林泰) per vault page [[works/taiwaneseamericanhistory-org/ourjourneys75||Our Journeys #75]], which already wikilinks this page.
