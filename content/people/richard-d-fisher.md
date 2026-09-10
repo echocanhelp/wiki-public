@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-30
+last_reviewed: 2026-09-10
 ---
 # Richard D. Fisher (費學禮)
 
@@ -62,6 +62,11 @@ See the source hub. Top mentions:
 1. [[articles/taiwanjustice-net/2021/20211212130710_2021_12_11_90443dc51fdfb3b0|Daily Archives: December 11, 2021]]
 2. [[articles/taiwanjustice-net/2025/20250617073241_中國首艘自製航母入列_目標是造十五艘_1c6dd391765ef67a|中國首艘自製航母入列，目標是造十五艘？]]
 
+
+## Column focus (absorbed from the archived titles above)
+
+- **Beat:** defense & military affairs — Taiwan's air-superiority options (asymmetric and symmetric force, 2024), China's first domestically built aircraft carrier and its 15-carrier plan (2019), and the return of strategic artillery (2025).
+- **Byline variants in the archive:** 費學禮 / Richard D. Fisher, Jr. (registry alias 費學禮 → fei-xue-li, Columnist, 2 title hits — `knowledge/research/taiwanjustice-net-entities.md`).
 
 ## Source Notes
 

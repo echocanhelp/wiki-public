@@ -9,7 +9,7 @@ tags:
 name_en: "Wei Wei Bai"
 name_zh_hanzi: "白偉瑋"
 verification_status: pending
-last_reviewed: 2026-08-25
+last_reviewed: 2026-09-10
 source_note: "TAHS 2025 organization chart (roles only; no private contacts); 2023 oral-history interviewer credit (Tier2)"
 ---
 # Wei Wei Bai (白偉瑋)
@@ -32,6 +32,8 @@ This page is an **A-tier thin record** for graph linking and member-priority sco
 ## Interview / oral history
 
 - In 《台名人菁英錄》第二輯 (May 2023, p. 108), 白偉瑋, together with 黃樹人 (Freeman Huang), conducted the oral-history interview of **謝泊欣 (Rosalyne Shieh)** — architect and architecture professor at [[people/rosalyne-formosa-shieh||MIT]], daughter of [[people/ching-sze-hsieh||謝清志博士]]. Edda Huang compiled and edited the piece; photos provided by 謝清志 and 謝泊欣.
+- **Interview scope (absorbed from the archive text, p. 108):** the interview covered 謝泊欣's method of treating 社會、人文、歷史 and 建築 as one whole — 祖厝 spatial/social structure (神位, 灶腳, son/daughter placement), her father 謝清志's own oral testimony, 1940s–50s rural hygiene and folk-medicine practice, the family's 台南鄉下→高雄 migration for a doctor, and a critique of the foreign-architect new 高雄火車站 vs. the old station's usefulness.
+- **Credit line as printed:** 「白偉瑋、黃樹人採訪，Edda黃整理，黃樹人改寫編輯。圖片由謝清志、謝泊欣提供，特此致謝」.
 - This is his only attested community activity so far; it does not change his L1 roster classification.
 
 ## TAHS role (2025)
