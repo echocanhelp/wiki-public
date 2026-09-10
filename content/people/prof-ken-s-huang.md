@@ -43,6 +43,16 @@ Master of Arts (MA), Drawing, School of Art and Art History, University of Iowa,
 - [TAH #857 encyclopedia: 857. Prof. Ken S. Huang 黃根深教授](https://taiwaneseamericanhistory.org/whos-who-857-ken-s-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-ken-s-huang/)
 
+## Connected in the Vault
+- The formal TAC-WC organizational structure was proposed by Ken S. Huang in 2012 — see [[organizations/the-board-of-taiwanese-american-conferences-west-coast-tac-wc||TAC-WC Board]].
+- Per the 2017 TAHS Publication profile of 黃根深 ([[people/huang-gen-shen||Huang Gen-shen]] — same person), he designed the TAHS logo, was a founding member of UFI/UFAI, and received the 王康陸人權獎 at the 2017 Formosan Association for Human Rights annual meeting.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[people/huang-gen-shen||Huang Gen-shen 黃根深 (TAHS publication profile)]]
+- [[organizations/the-board-of-taiwanese-american-conferences-west-coast-tac-wc||TAC-WC Board]]
+- [[organizations/north-america-taiwanese-professors-sc||NATPA Southern California]]
+- [[works/taiwaneseamericanhistory-org/162-prof-ken-s-huang||TAH #162 encyclopedia profile]]
+- [[works/taiwaneseamericanhistory-org/ff308||TAH #308 — first art professor in U.S. universities]]
+- [[works/taiwaneseamericanhistory-org/whos-who-857-ken-s-huang||TAH #857 encyclopedia profile]]

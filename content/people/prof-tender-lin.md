@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Prof. Tender Lin (林天德教授)
 
@@ -31,6 +31,15 @@ Accomplishment
 ## Employment
 - Miami Dade Junior College, FL — Assistant Professor — (1971-) — South Carolina Dept. of Mental Health — Research Director and Clinical Psychologist — (1973-1989) — Tainan Teachers College (台南師範學院) — Guest Associate in Dept. of Elementary Education — (1989-) — Taipei City Teachers College (台北市立師範學院) — Guest Associate in Dept. of Elementary Education — (1990-) — National Chengchi Univ., Institute of Education — Adjunct Associate Professor — (1991-2000) — EBTACSC (東灣台美人社區服務中心) — Psychologist and Director — (2001-) — Community — East Bay Taiwanese Americans Community Service Center — Coordinator/Director — East Bay Taiwanese Americans Community Garden Club — Originator
 <!-- tah-tables:end -->
+
+## Community Service
+
+Absorbed from the TAH profile above:
+
+- Coordinator/Director of the [[organizations/east-bay-taiwanese-americans-community-service-center-ebtacsc||East Bay Taiwanese Americans Community Service Center (EBTACSC)]] — the nonprofit center founded in 2002 in the San Francisco East Bay; see also the TAH encyclopedia entry [[works/taiwaneseamericanhistory-org/senior-ebtacsc|20. EBTACSC 東灣台美人社區服務中心]].
+- Originator of the East Bay Taiwanese Americans Community Garden Club.
+- Career path: assistant professor at Miami Dade Junior College, FL (1971-); research director and clinical psychologist, South Carolina Dept. of Mental Health (1973–1989); guest associate in the departments of elementary education at Tainan Teachers College (1989-) and Taipei City Teachers College (1990-); adjunct associate professor, National Chengchi Univ. Institute of Education (1991–2000); psychologist and director, EBTACSC (2001-).
+- Trained at National Normal Univ. (B.S. Education 1962), Northeast State Univ. of Missouri (M.S. Guidance 1966), and UCLA (Ph.D. Counseling Psychology 1970).
 
 ## Family
 
