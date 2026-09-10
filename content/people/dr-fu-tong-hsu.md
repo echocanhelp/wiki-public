@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Dr. Fu-Tong Hsu (徐福棟博士)
 
@@ -31,6 +31,13 @@ last_reviewed: 2026-08-17
 ## Employment
 - Wayne State University — Assistant Professor — (1970-) — Union Carbide Corp. — Senior Management Consultant — (1973-) — Lin Mao-sheng Cultural Foundation — Chairman — (1997-) — Changjung Christian University — Vice President — (1996-2002) — Vision Youth Action Network — President — (2003-2009) — White House — Economic Advisor for President Clinton — (1994-1996) — Community — TAA/New Jersey Chapter (紐澤西台灣同鄉會) — President — TAA/New York Chapter (大紐約區台灣同鄉會) — First President — Taiwanese American Conference/East Coast (美東台灣人夏令會理事會) — Organizer/Founder
 <!-- tah-tables:end -->
+
+## Community Leadership
+- First President, TAA/New York Chapter (大紐約區台灣同鄉會) — per TAH #224, from the 1964 founding generation of the chapter — [[organizations/taiwanese-american-association-new-york|TAA New York]]
+- President, TAA/New Jersey Chapter (紐澤西台灣同鄉會)
+- Organizer/Founder, Board of the Taiwanese American Conference/East Coast (創立美東台灣人夏令會理事會)
+- Chairman, Lin Mao-sheng Cultural Foundation (1997–); Vice President, Changjung Christian University (1996–2002); President, Vision Youth Action Network (2003–2009)
+- Economic Advisor for President Clinton, White House (1994–1996)
 
 ## Family
 

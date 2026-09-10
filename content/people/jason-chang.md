@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-08
+last_reviewed: 2026-09-09
 ---
 # Jason Chang (張哲雄)
 
@@ -31,6 +31,12 @@ Jason Chang, President of [[organizations/north-america-pastel-artist-associatio
 ## Employment
 - National Taiwan University of Arts — Art Instructor — (1968-) — St. John's University — Art Instructor — (1984-) — National Arts Club — Art Instructor — (2008-) — National Taiwan Arts Education Center — Visiting Professor — (2010-) — North America Pastel Artists Association — President — Allied Artists of America — Board Member / Juror — Audubon Artists Society — Board Member / Juror — Pastel Society of America — Elected Master Pastelist — National Taiwan Arts University — Instructor — College of New Rochelle — Instructor — School of Pastel / National Arts Club — Instructor — National Taiwan Arts Education Center (NTAEC) — Lecturer, Pastel Art Teachers Workshop; Organizer, International Pastelists Invitational Exhibition — 99 Degree Art Center, Taipei — Represented Artist — Hwang's Art Gallery, New York — Represented Artist / Juror Consultant — Community — North America Pastel Artists Association — Founder and President (since 1997) — Pastel Society of America — Master Pastel Artist (elected 2005) — National Taiwan Arts Education Center (NTAEC) — Organizer and sponsor of International Pastelists Invitational Exhibition
 <!-- tah-tables:end -->
+
+## Encyclopedia & Exhibition Record
+
+- 百科條目：[[works/taiwaneseamericanhistory-org/30-jason-chang|TAH Encyclopedia #30 Jason Chang 張哲雄]]、[[works/taiwaneseamericanhistory-org/whos-who-180-jason-chang|Who's Who #180]]、[[works/taiwaneseamericanhistory-org/artist1-jason-chang|Artist profile #1]]
+- 展覽紀錄：[[works/taiwaneseamericanhistory-org/art-show-18|林肯中心聯展（1999/08）]]、[[works/taiwaneseamericanhistory-org/35-pastel-exhibition-jason-chang-2019|Pastel Exhibition（2019）]]
+- PSA 首位華人 Master Pastelist 紀錄：[[works/taiwaneseamericanhistory-org/118-mr-jason-chang-e5-bc-b5-e5-93-b2-e9-9b-84-e5-85-88-e7-94-9f-first-master-of-|TAH #118]]；NAPAA 創辦人紀錄：[[works/taiwaneseamericanhistory-org/141-mr-jason-chang-e5-bc-b5-e5-93-b2-e9-9b-84-e5-85-88-e7-94-9f-founder-and-firs|TAH #141]]
 
 ## Family
 

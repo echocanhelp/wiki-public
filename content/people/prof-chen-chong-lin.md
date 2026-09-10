@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-08
+last_reviewed: 2026-09-09
 ---
 # Prof. Chen-Chong Lin (林建中教授)
 
@@ -62,6 +62,13 @@ Prof. Chen-Chong Lin 林建中教授 – History of Taiwanese American (T.A. Arc
 - [TAH #20 encyclopedia: 20. Prof. Chen-Chong Lin 林建中教授](https://taiwaneseamericanhistory.org/pride20/)
 - [TAH #1987 encyclopedia: 1987. Prof. Chen-Chong Lin 林建中教授](https://taiwaneseamericanhistory.org/whos-who-1987-chen-chong-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-chen-chong-lin/)
+
+## Archival & Encyclopedia Record
+
+- **Archival collection:** [[works/taiwaneseamericanhistory-org/collection-of-prof-chen-chong-lin||Collection of Prof. Chen-Chong Lin 林建中教授的收藏]] — 他捐贈給 TAH 的檔案收藏
+- **Encyclopedia entries:** [[works/taiwaneseamericanhistory-org/21-prof-chen-chong-lin||TAH encyclopedia #21]]、本地 Who's Who 副本 [[works/taiwaneseamericanhistory-org/whos-who-1987-chen-chong-lin||TAH Who's Who 1987]]
+- **著作（宗教信仰線）：** [[works/taiwaneseamericanhistory-org/publications1167||聖經現代釋義 (2005)]]、[[works/taiwaneseamericanhistory-org/publications1169||The Rationality of Christian Doctrines (2009)]]
+- **Career arc（自本頁 Employment 摘要）：** 台大化工系主任（1968–1981）→ 慕尼黑工業大學、LSU 訪問教授 → NJIT 化工與化學教授（1982–1988）→ 交大應用化學與材料科學教授（1988–1995）
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

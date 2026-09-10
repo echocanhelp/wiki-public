@@ -8,7 +8,7 @@ tags:
   - father
   - amd
 verification_status: pending
-last_reviewed: 2026-09-08
+last_reviewed: 2026-09-09
 ---
 # Su Chun-huai (蘇春槐)
 
@@ -68,6 +68,12 @@ Pages that link to **su-chun-huai** (su-chun-huai):
 - **Content priority A:** Contains biographical narrative including community involvement and father-daughter relationship
 - **Hub:** [[sources/2017-tahs-publication||2017 TAHS Publication]]
 - **Note:** The full text includes detailed biographical information including family background and community involvement.
+
+## Vault Record
+
+- 口述歷史：[[works/taiwaneseamericanhistory-org/video-183||TAH Oral History #183 — President of NYTC：蘇春槐 Chun-Hwai Su's Journey]]
+- Who's Who：[[works/taiwaneseamericanhistory-org/whos-who-2117-c-h-su||TAH Who's Who 2117 — C. H. Su 蘇春槐]]
+- 「虎爸談虎女」profile 作者：[[people/hui-na-lin||賴慧娜 Hui Na Lin]]
 
 ## Family
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Chia-Ling Chien (簡嘉琳)
 
@@ -31,6 +31,14 @@ last_reviewed: 2026-08-17
 - Idyllwild Arts Academy Chamber Orchestra&The Cleveland Institute of Music — 首席大提琴
 - The Cleveland Institute of Music — － — 首席大提琴
 <!-- tah-tables:end -->
+
+## Artistic Record
+- Began piano at age six; entered Kuting Elementary School music class (Taipei) at nine, studying cello the same year; later passed the audition for the music class of National Taiwan Normal University's affiliated junior high, then the Tainan National University of the Arts seven-year integrated music program.
+- National competition record includes four consecutive Taipei City Music Competition cello first prizes, three consecutive Taipei City Music Competition piano first prizes, second prize in the 7th Taipei International Chopin Piano Competition, and second prize in the Taiwan Provincial Music Competition cello division.
+- Piano teachers: 黃麗英, 黎國媛, 陳俐慧; cello teachers: 陳哲民 and Russian cellist 徐必樂.
+- 2000: scholarship to Idyllwild Arts Academy (California), studying with cellist John Waltz; won two consecutive school solo-recital prizes and performed Tchaikovsky's Variations on a Rococo Theme with the Idyllwild Arts Academy Chamber Orchestra.
+- Cleveland Institute of Music (2009, M.S.), where she served as principal cellist; since 2008, assistant principal cello of the San Diego Symphony (副首席大提琴).
+- Recorded in the TAH encyclopedia both as a person entry (#1582) and in the TAH musician series (#391, "Jia-Lin Jian 簡嘉琳, Cellist") — [[organizations/tah-foundation|TAH Foundation]].
 
 ## Family
 

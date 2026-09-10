@@ -4,7 +4,7 @@ type: person
 tags:
   - 
 verification_status: pending
-last_reviewed: 2026-09-08
+last_reviewed: 2026-09-09
 ---
 # Albert Chapter 1 Audiobook — Consent & Recording Kit
 
@@ -64,6 +64,14 @@ Status update:
 - Type: Production kit / consent documentation
 - Geography: North America
 - Core roles: audiobook production, consent management, archival
+
+## Review & Production Record (vault)
+
+Chapter 1 production artifacts already in the vault:
+
+- 已發布有聲版：[[people/albert-chapter1-audiobook-taiwanese-female||Albert Chapter 1 Audiobook（第一章有聲版）]]
+- 審校記錄：[[people/albert-chapter1-en-review||EN review]]、[[people/albert-chapter1-zh-review||zh review]]、[[people/albert-chapter1-zh-review-v2||zh review v2]]、[[people/albert-chapter1-zh-hsiaochen-full-review||Hsiaochen full review]]
+- 文本來源：[[sources/toward-a-community-of-hope||Toward A Community of Hope]]；voice 來源人：[[people/albert-s-lai||Dr. Albert S. Lai (賴信雄)]]
 
 ## 7) Publication Metadata (required on page)
 
