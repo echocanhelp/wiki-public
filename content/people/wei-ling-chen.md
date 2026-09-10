@@ -56,3 +56,6 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[organizations/houston-taiwan-institute-for-senior-citizens||Houston Taiwan Institute for Senior Citizens]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault Cross-References
+- TAH encyclopedia records for this profile exist in the vault: [[works/taiwaneseamericanhistory-org/22-wei-ling-chen-e9-99-b3-e7-82-ba-e4-bc-b6-composer|TAH #22 陳為伶 (Composer), 2014/10]] and [[works/taiwaneseamericanhistory-org/517-wei-ling-chen-e9-99-b3-e7-82-ba-e4-bc-b6-201507|TAH #517 陳為伶, 2015/07]].

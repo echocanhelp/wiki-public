@@ -48,3 +48,6 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault Cross-References
+- TAH encyclopedia records for this profile exist in the vault: [[works/taiwaneseamericanhistory-org/156-bianca-liang-e6-a2-81-e6-b2-81-e8-8c-b5-pianist201502|TAH #156 梁沁茵 (Pianist), 2015/02]] and [[works/taiwaneseamericanhistory-org/317-bianca-liang-e6-a2-81-e6-b2-81-e8-8c-b5201503|TAH #317 梁沁茵, 2015/03]].
