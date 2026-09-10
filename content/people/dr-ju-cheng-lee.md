@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Dr. Ju-Cheng Lee (李汝城醫師)
 
@@ -29,6 +29,17 @@ last_reviewed: 2026-08-17
 - Jersey City Medical Center — Intern — (1962-) — Newark Hospital — Otolaryngology Resident — New Jersey Medical School — Surgical Lecturer — (1967-) — Community — Taiwan Center/NY (紐約台灣會館) — CEO — Ghee-Lan Association of USA (美國宜蘭同鄉會) — Founder and First President — North Taiwanese American Medical Association New York Chapter (北美洲台灣人醫師協會紐約分會) — President
 <!-- tah-tables:end -->
 
+## Timeline
+- 出身: 台灣宜蘭
+- 1960: 國立台灣大學 M.D.
+- 1962-: Jersey City Medical Center 實習 (Intern)
+- 其後: Newark Hospital 耳鼻喉科住院醫師 (Otolaryngology Resident)
+- 1967-: New Jersey Medical School 外科講師 (Surgical Lecturer)
+- 創會並任創會會長: 美國宜蘭同鄉會 (Ghee-Lan Association of USA)
+- 曾任執行長 (CEO): 紐約台灣會館 (Taiwan Center/NY)
+- 1987: 北美洲台灣人醫師協會紐約分會 (NATMA NY Chapter) 會長
+- Family: 子 Alex Lee
+
 ## Family
 
 - **Son:** Alex Lee
@@ -43,3 +54,6 @@ last_reviewed: 2026-08-17
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- [[organizations/new-york-taiwan-center||New York Taiwan Center]] (紐約台灣會館)
+- [[organizations/north-american-taiwanese-medical-association-foundation||NATMA Foundation]] (北美洲台灣人醫師協會)

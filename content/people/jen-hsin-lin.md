@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # JEN HSIN LIN (林人信)
 
@@ -33,6 +33,14 @@ Jen Hsin Lin is a Taiwanese American visual artist based in Orange County, Calif
 - Orange County Center for Contemporary Art — Member — Community — Orange County Center for Contemporary Art — Member
 <!-- tah-tables:end -->
 
+## Timeline
+- 1947: 出生於台灣高雄
+- Education: 實踐家專 → Golden West College / Saddleback College / Irvine Valley College / Orange Coast Community College
+- 創作媒材: 油畫布、油彩石膏底紙 (oil on gessoed paper)
+- 美國展演: Golden West College、Saddleback College、Irvine Valley College、Bistango、Irvine Fine Arts Center、Orange County Center for Contemporary Art(會員)
+- 台灣展演: 台北市立美術館、高雄中正文化中心、台南市立文化中心
+- 巡迴展: 林人信現代藝術巡迴展
+
 ## Family
 
 _No filled family fields on the TAH profile._
@@ -45,3 +53,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- [[organizations/irvine-taiwanese-presbyterian-church||Irvine Taiwanese Presbyterian Church]] (Orange County 台僑社區脈絡)
