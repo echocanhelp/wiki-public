@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Kuo-Hsiung Lee (李國雄教授)
 
@@ -45,5 +45,6 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kuo-hsiung-lee/)
 
 ## Related Pages
+- [[works/taiwaneseamericanhistory-org/371-kuo-hsiung-lee-e6-9d-8e-e5-9c-8b-e9-9b-84201504||TAH Who's Who entry 371 — Kuo-Hsiung Lee 李國雄 (2015-04)]]
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

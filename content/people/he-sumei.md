@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - Taiwan-School
 verification_status: published
-last_reviewed: 2026-07-16
+last_reviewed: 2026-09-09
 ---
 # He Sumei (何素美)
 
@@ -19,6 +19,10 @@ last_reviewed: 2026-07-16
 - **Chinese:** 何素美
 - **Organization:** [[organizations/taiwan-center||Taiwan Center Taiwan School]]
 - **Source:** https://www.taiwancenter.org/class-information
+
+## Teaching (as published on the Taiwan Center page)
+
+Per the [[organizations/taiwan-center||Taiwan Center]] course table, He Sumei (何素美) co-teaches the **華文 (Chinese)** class — Saturdays 15:00–16:00, $40 — alongside [[people/april-lin||April Lin (林淑卿)]] and [[people/shi-yuli||Shi Yuli (施郁麗)]].
 
 ## Source Notes
 

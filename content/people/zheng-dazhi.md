@@ -8,7 +8,7 @@ tags:
   - artist
   - sculptor
 verification_status: pending
-last_reviewed: 2026-07-23
+last_reviewed: 2026-09-09
 ---
 # Zheng Dazhi (鄭達志)
 

@@ -10,7 +10,7 @@ tags:
 name_en: "Phoenix Ko"
 name_zh_hanzi: "柯貝昀"
 verification_status: pending
-last_reviewed: 2026-08-10
+last_reviewed: 2026-09-09
 source_note: "TAHS 2025 org chart 財務 柯貝昀; owner confirmed = Phoenix Ko (2026-08-03)"
 ---
 # Phoenix Ko (柯貝昀)
@@ -27,6 +27,8 @@ source_note: "TAHS 2025 org chart 財務 柯貝昀; owner confirmed = Phoenix Ko
 ## Overview
 
 Named on the TAHS 2025 organization chart under **財務**. Owner confirmed chart name 柯貝昀 = LINE **Phoenix Ko** (2026-08-03).
+
+Per [[organizations/taiwanese-american-historical-society||the TAHS 2025 org-chart page]]: the chart's **財務** entry is Phoenix Ko — **not** founding president [[people/yang-jia-you||Charles Yang (楊嘉猷)]], who is listed there as 創會會長. The chart uses a single **會務指導會主席** title (not a separate 財務指導主席) with [[people/paul-chen||Paul Chen (陳柏宇)]] labeled **會計** under that block.
 
 Private phones and LINE U-ids are **not** published here.
 

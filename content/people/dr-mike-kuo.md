@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Dr. Mike Kuo (郭正光博士)
 
@@ -27,8 +27,11 @@ last_reviewed: 2026-08-17
 - Texas A&M Univ. — 1980 — Ph.D., Food Science and Technology
 
 ## Employment
-- NASA Houston Johnson Space Center — Space Food Manufacturing and Quality Control — (1980-) — ACAOM (休士頓華美中醫學院) — Professor — (2002-2012) — Community — Formosan Association for Public Affairs (FAPA) — President (2018) — Formosan Association for Public Affairs (FAPA) / South Texas Chapter — President — TAA/Houston (休士頓台灣同鄉會) — President
+- NASA Houston Johnson Space Center — Space Food Manufacturing and Quality Control — (1980-) — ACAOM (休士頓華美中醫學院) — Professor — (2002-2012) — Community — Formosan Association for Public Affairs (FAPA) — President (2018) — Formosan Association for Public Affairs (FAPA) / South Texas Chapter — President — [[organizations/taiwanese-association-of-america-houston-chapter||TAA/Houston (休士頓台灣同鄉會)]] — President
 <!-- tah-tables:end -->
+
+## Community leadership
+Per his TAH Who's Who profile, Dr. Kuo led both the community and advocacy sides of Houston's Taiwanese community: president of [[organizations/taiwanese-association-of-america-houston-chapter|TAA/Houston (休士頓台灣同鄉會)]] and of the FAPA South Texas Chapter, later FAPA president (2018). His TAH encyclopedia entry #250 records him as the first to experience weightless free-float (無重力狀態飄浮空中); entry #249 notes him as the first chef (郭大廚) holding a food-nutrition doctorate (1980).
 
 ## Family
 
@@ -40,10 +43,12 @@ last_reviewed: 2026-08-17
 ## Sources
 - [TAH #157 encyclopedia: 157. Dr. Mike Kuo 郭正光博士](https://taiwaneseamericanhistory.org/157-dr-mike-kuo/)
 - [TAH #250 encyclopedia: 250. 郭正光博士 Dr. Mike Kuo / 第一位經歷無重力狀態飄浮空中的滋味](https://taiwaneseamericanhistory.org/250-%e9%83%ad%e6%ad%a3%e5%85%89%e5%8d%9a%e5%a3%ab-dr-mike-kuo-%e7%ac%ac%e4%b8%80%e4%bd%8d%e7%b6%93%e6%ad%b7%e7%84%a1%e9%87%8d%e5%8a%9b%e7%8b%80%e6%85%8b%e9%a3%84%e6%b5%ae%e7%a9%ba%e4%b8%ad/)
-- [TAH #249 encyclopedia: 249. 郭正光博士 Dr. Mike Kuo / 第一位廚師(郭大廚)擁有食品營養學博士 / 1980](https://taiwaneseamericanhistory.org/249-%e9%83%ad%e6%ad%a3%e5%85%89%e5%8d%9a%e5%a3%ab-dr-mike-kuo-%e7%ac%ac%e4%b8%80%e4%bd%8d%e5%bb%9a%e5%b8%ab%e9%83%ad%e5%a4%a7%e5%bb%9a%e6%93%81%e6%9c%89%e9%a3%9f%e5%93%81%e7%87%9f%e9%a4%8a/)
+- [TAH #249 encyclopedia: 249. 郭正光博士 Dr. Mike Kuo / 第一位廚師(郭大廚)擁有食品營養學博士 / 1980](https://taiwaneseamericanhistory.org/249-%e9%83%ad%e6%ad%a3%e5%85%89%e5%8d%9a%e5%a3%ab-dr-mike-kuo-%e7%ac%ac%e4%b8%80%e4%bd%8d%e5%bb%a6%e5%b8%ab%e9%83%ad%e5%a4%a7%e5%bb%9a%e6%93%81%e6%9c%89%e9%a3%9f%e5%93%81%e7%87%9f%e9%a4%a1/)
 - [TAH #538 encyclopedia: 538. Dr. Mike Kuo 郭正光博士](https://taiwaneseamericanhistory.org/whos-who-538-mike-kuo/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-mike-kuo/)
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/157-dr-mike-kuo||157. Dr. Mike Kuo 郭正光博士]] — TAH encyclopedia #157 (2018)
+- [[works/taiwaneseamericanhistory-org/whos-who-538-mike-kuo||538. Dr. Mike Kuo 郭正光博士]] — TAH Who's Who #538 (2015)
