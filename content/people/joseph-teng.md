@@ -30,6 +30,7 @@ last_reviewed: 2026-09-10
 - **團體董事** seat confirmed only on the archived taiwancenter.org/board snapshot; the sponsoring organization is **not stated** on the board page — do not guess it
 - **Not** among the ten 團體董事 named in the 2018 第11屆 會訊 (`20201118162555…`), so this seat post-dates 2018 or sits in a later cycle
 - Board archive snapshot: `knowledge/web-archives/taiwancenter-org-board.md`
+- **Same board, 團體董事 cohort** (per the same archived snapshot, cross-confirmed on [[people/lisa-hou||Lisa Hou (侯乃文)]]): [[people/shirley-yu||Shirley Yu (張欣珠)]], [[people/joyce-yeh||Joyce Yeh (葉怡蘭)]], [[people/josephine-pan||Josephine Pan (潘掬慧)]], [[people/steven-wu||Steven Wu (吳尚誠)]], Lisa Hou (侯乃文)
 
 ## Related Pages
 
