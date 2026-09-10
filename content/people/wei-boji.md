@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - Taiwan-School
 verification_status: published
-last_reviewed: 2026-07-16
+last_reviewed: 2026-09-10
 ---
 # Wei Boji (魏博基)
 
@@ -25,6 +25,15 @@ last_reviewed: 2026-07-16
 - **Content priority A:** Named on Taiwan Center class-information page (`taiwancenter-org-class-information.md`)
 - **Hub:** [[sources/taiwancenter-org||taiwancenter.org]]
 - **Content priority C:** Full biography not published on site
+
+## Teaching at Taiwan School (from vault archive)
+
+Absorbed from the archived taiwancenter.org pages (`knowledge/web-archives/taiwancenter-org-about-taiwan-school.md`, `taiwancenter-org-class-information.md`; schedule per [[organizations/taiwan-center||Taiwan Center]] class table):
+
+- Teaches the Taiwan School **日文班 (Japanese class)** at [[organizations/taiwan-center||Taiwan Center]], alongside the 華文班 teachers [[people/april-lin||April Lin (林淑卿)]], [[people/shi-yuli||Shi Yuli (施郁麗)]] and [[people/he-sumei||He Sumei (何素美)]], and the 電腦班 teacher [[people/xu-shitan||Xu Shitan (徐士坦)]]
+- Graduated from **Tokyo University of Education (東京教育大學)**; accumulated **20+ years** of Japanese-teaching experience split between Taiwan (10 yrs) and US community colleges (13 yrs)
+- Course runs **Sunday 14:00–15:30, $60**, with **two teaching assistants** supporting students
+- Curriculum: starts from basic pronunciation (基礎發音), covering reading, grammar, conversation, and dictation (閱讀、文法、會話、聽寫) — marketed for travel to Japan, communicating with older family members, and understanding Japan's close ties to Taiwan
 
 ## Related Pages
 

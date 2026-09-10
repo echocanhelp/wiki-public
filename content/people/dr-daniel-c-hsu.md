@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Dr. Daniel C. Hsu (許正雄醫師)
 
@@ -46,3 +46,10 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[organizations/natma-southern-california||NATMA Southern California Chapter]] — President 2004; Foundation President 2010-2018
+- [[organizations/north-american-taiwanese-medical-association-foundation||NATMA Foundation]] — President 2008-2009
+- [[organizations/taiwanese-chambers-of-commerce-of-orange-county||Taiwanese Chambers of Commerce of Orange County]] — President 1993
+- [[works/taiwaneseamericanhistory-org/67-dr-daniel-c-hsu||TAH Encyclopedia #67: Dr. Daniel C. Hsu]]
+- [[works/taiwaneseamericanhistory-org/323-e8-a8-b1-e6-ad-a3-e9-9b-84-e7-89-99-e9-86-ab-e5-b8-ab-e7-9a-84-e6-95-85-e4-b||323. 許正雄牙醫師的故事 / 林蓮華]]
+- [[works/taiwaneseamericanhistory-org/videos88||TAH #88: Daniel Hsu, D.M.D (NATMA SCC convention video)]]
+- [[works/taiwaneseamericanhistory-org/whos-who-726-daniel-c-hsu||TAH Who's Who #726: Dr. Daniel C. Hsu]]

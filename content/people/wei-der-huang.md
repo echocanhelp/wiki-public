@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Wei-Der Huang (黃瑋德)
 
@@ -45,3 +45,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/whoswho1084||TAH Encyclopedia #1084: 黃瑋德]]
+- [[works/taiwaneseamericanhistory-org/muscian8||TAH Encyclopedia #8: 黃瑋德, Pianist]]
+- [[organizations/taiwanese-american-student-association-at-the-university-of-maryland-college-park||Taiwanese American Student Association at UMD]] — Taiwanese student community at College Park, where Huang earned her DMA
+- [[works/taiwaneseamericanhistory-org/grace-lutheran-church||Grace Lutheran Church (record in TAH corpus)]] — Huang served as Music Director and Organist at Grace Lutheran Church, Astoria NY
