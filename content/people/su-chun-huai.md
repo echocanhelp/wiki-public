@@ -78,7 +78,8 @@ Pages that link to **su-chun-huai** (su-chun-huai):
 ## Family
 
 - **Wife:** 羅淑雅
-- **Daughter:** 蘇姿豐
+- **Daughter:** [[people/lisa-su||蘇姿豐 Lisa T. Su]] — AMD CEO; see also [[people/dr-lisa-su||dr-lisa-su]] variant page
+- The 虎爸談虎女 profile itself is a Tier-2 record of the [[sources/2017-tahs-publication||2017 TAHS Publication]] (author [[people/hui-na-lin||賴慧娜]]); Su's NYTC role is documented in [[organizations/new-york-taiwan-center||New York Taiwan Center]].
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

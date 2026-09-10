@@ -66,6 +66,11 @@ As a third-generation Taiwanese American, Ethan represents the evolving identity
 - **Archive:** knowledge/web-archives/2023-tahs-publication-part2.md (Tier-2)
 - **Family link:** Owner statement LINE 2026-08-02 (grandparents Charles + Becky Yang) — high confidence for relationship label; not from 2023 profile text alone
 
+## Connected in the Vault
+
+- Grandfather Charles Yang (楊嘉猷), TAHS founding president: [[people/yang-jia-you||Charles Yang]] — grandmother [[people/becky-yang||Becky Yang]]. Ethan is profiled in the same 2023 cohort as [[people/zheng-bingquan||Zheng Bingquan (鄭炳全)]].
+- Source hub [[sources/2023-tahs-publication||2023 TAHS Publication]] is present on disk (the older "pending restore" note is obsolete); Tier-2 full text: `knowledge/web-archives/2023-tahs-publication-part2.md`.
+
 ## Related Pages
 
 - [[people/yang-jia-you||Charles Yang (楊嘉猷) — grandfather]]
