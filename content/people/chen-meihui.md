@@ -25,6 +25,13 @@ The official [[organizations/irvine-taiwanese-presbyterian-church||Irvine Taiwan
 - **NTPC:** 陳美蕙 was a panelist at the [[organizations/national-taiwanese-presbyterian-council||NTPC]] 51st Annual Conference (May 2025, Houston), per the 台灣教會公報 2025-05-09 note on that page.
 - **GSTPC:** the GSTPC speaker roster (2009–2026) lists Rev. 陳美蕙 among notable preachers, consistent with the bulletin-ingestion signal above.
 
+## Timeline
+
+- **2009–2026** — Rev. 陳美蕙 appears among notable preachers on the [[organizations/good-shepherd-taiwanese-presbyterian-church||GSTPC]] speaker roster (2009–2026), matching the bulletin-ingestion sermon-speaker signal.
+- **2020-06** — Called by [[organizations/irvine-taiwanese-presbyterian-church||ITPC]] immediately after [[people/zhang-xuanxin||張宣信牧師]] left following twenty-one years of service; pastoral ministry continued without interruption. The official history describes her as having substantial ability and experience.
+- **2022-05** — Recorded as the serving ITPC pastor at the time of the shooting covered in [[works/taiwaneseamericanhistory-org/our-journeys-380||TAH #380, 2022/05]]: she was recovering from surgery that day, which is why [[people/li-furen||李輔仁牧師]] — covering her Sunday service duties at a neighboring church — and visiting former pastor 張宣信 were the clergy on site.
+- **2025-05** — Panelist at the [[organizations/national-taiwanese-presbyterian-council||NTPC]] 51st Annual Conference (Houston), per the 台灣教會公報 2025-05-09 note on the NTPC page.
+
 ## Current-Leadership Note
 
 The ITPC official site's 2025–2026 pastor page lists 李輔仁牧師 (Rev. Fu-Jen Li) as current pastor. For that reason, this page records 陳美蕙牧師 as a historical ITPC pastoral leader rather than the current pastor.

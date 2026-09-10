@@ -38,6 +38,10 @@ Eleanor Heartney, a contributing editor to Art in America and author of Critical
 - Veterans' Administration Medical Center, Brooklyn, NY — Neurologist — (1973-2010) — SUNY Downstate Medical Center University Hospital — Associate Professor — Formosa Chamber Music Society, Inc. — Chairman of the Board of Directors — (1991-2015) — National Taiwan University Alumni Association, Greater New York Chapter — President — (1995-1997) — National Taiwan University Medical College Alumni Association, Greater New York Chapter — President (2001-2003) — National Taiwan University Medical College Alumni Association of North America — Chairman of the Board of Directors (2003-2005) — Community — Formosa Chamber Music Society, Inc. — Chairman of the Board of Directors (1991-2015) — National Taiwan University Alumni Association, Greater New York Chapter — President (1995-1997) — National Taiwan University Medical College Alumni Association, Greater New York Chapter — President (2001-2003) — National Taiwan University Medical College Alumni Association of North America — Chairman of the Board of Directors (2003-2005)
 <!-- tah-tables:end -->
 
+## Vault records
+
+His TAH encyclopedia entries are harvested in the vault: [[works/taiwaneseamericanhistory-org/59-dr-jia-rhon-chen||TAH #59]], [[works/taiwaneseamericanhistory-org/273-e9-99-b3-e5-ae-b6-e6-a6-ae-e9-86-ab-e5-b8-ab-dr-jia-rhon-chen-first-chairman||TAH #273 (life story, 陳黃春英, 2015/10)]], [[works/taiwaneseamericanhistory-org/355-the-life-story-of-dr-jia-rhon-chen-e9-99-b3-e5-ae-b6-e6-a6-ae-e9-86-ab-e5-b8||TAH #355]], and [[works/taiwaneseamericanhistory-org/whos-who-707-jia-rhon-chen||TAH #707]]. His chairmanship tenure and the society's founding year are corroborated on the [[works/taiwaneseamericanhistory-org/39-formosa-chamber-music-society||Formosa Chamber Music Society]] page. Wife 黃春英 appears in the #355 life-story title (陳黃春英).
+
 ## Family
 
 - **Wife:** 黃春英

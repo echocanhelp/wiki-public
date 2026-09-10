@@ -35,6 +35,16 @@ Sam Wei-Chih Sun is a pianist, an accompanist and a music educator from Taiwan. 
 - **Mother:** 陳紫雲
 
 
+## Career Timeline
+
+- **Education** — BA in music education, piano performance with a minor in cello and vocal performance, from 台北市立師範學院 (Taipei Municipal Teachers College).
+- **2004–** — Music director at 好牧者台灣基督長老敎會 (Monterey Park) — [[organizations/good-shepherd-taiwanese-presbyterian-church||GSTPC]].
+- **2005-05** — Master's degree in (choral) conducting, Azusa Pacific University.
+- **2006** — Awarded the "Chinese Overseas Outstanding Youth Award"; conductor of 南加州台港客家合唱團 (Southern California Taiwanese Hakka Chorus) from 2006.
+- **Conducting posts** — Also conductor of 雅音合唱團 (Arcadia Chinese Chorus), 美國台灣基督長老敎會聖樂團 (Southern California TPC Master Chorale), New Orange County Children's Choir (NOCCC), and 爾灣華裔合唱團 (Irvine Chinese Chorus); vocal director and accompanist for 台福聖樂團. He conducts many concerts and collaborates with professional soloists.
+- **Teaching** — Adjunct professor of music at Azusa Pacific University and Citrus Community College (piano) and at 中華歸主神學院 (Calvin Chao Theological Seminary, music theory and choral conducting); member of the Music Teacher's Association of California (MTAC).
+- **Family / coverage** — Father 孫武夫, mother 陳紫雲; profiled in the TAH story corpus by writer 陳美伶 ([[works/taiwaneseamericanhistory-org/183-e5-ad-ab-e5-81-89-e5-bf-97-e9-9f-b3-e6-a8-82-e6-95-99-e5-b8-ab-e7-9a-84-e6-9|TAH #183]]).
+
 ## Sources
 - [TAH #181 encyclopedia: 181. 孫偉志 音樂教師的故事/陳美伶/2015/01](https://taiwaneseamericanhistory.org/183-%e5%ad%ab%e5%81%89%e5%bf%97-%e9%9f%b3%e6%a8%82%e6%95%99%e5%b8%ab%e7%9a%84%e6%95%85%e4%ba%8b%e9%99%b3%e7%be%8e%e4%bc%b6201501/)
 - [TAH #111 encyclopedia: 111. Sam Wei-Chih Sun孫偉志,Conductor / 2015/01](https://taiwaneseamericanhistory.org/111-sam-wei-chih-sun%e5%ad%ab%e5%81%89%e5%bf%97conductor-201501/)
