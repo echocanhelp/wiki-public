@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Sharon Huang (黃馨瑤)
 
@@ -19,6 +19,12 @@ last_reviewed: 2026-08-17
 - **Chinese:** 黃馨瑤
 - **Role:** 個人董事
 - **Organization:** [[organizations/taiwan-center||Taiwan Center (TWCLA)]]
+
+## Career & Community
+
+- Studied Illustration as her major; worked as an **art instructor** in an art-studio setting with private teaching (2011–2014), per her TAH Who's Who entry.
+- Serves as a **個人董事 (individual director)** of the [[organizations/taiwan-center||Taiwan Center]], appearing on the published board roster alongside fellow directors such as [[people/alan-thian||Alan Thian (田詒鴻)]], [[people/vera-yang||Vera Yang (楊悅英)]], and [[people/shirley-yu||Shirley Yu (張欣珠)]].
+- Connected to the broader Taiwanese American institutional network through the [[organizations/tah-foundation||TAH Foundation]] Who's Who record.
 
 ## Source Notes and Confidence
 
@@ -35,7 +41,7 @@ last_reviewed: 2026-08-17
 <!-- tah-tables:end -->
 
 ## Sources
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sharon-huang/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/sharon-huang/)
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

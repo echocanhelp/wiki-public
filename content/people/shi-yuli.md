@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - Taiwan-School
 verification_status: published
-last_reviewed: 2026-09-08
+last_reviewed: 2026-09-10
 ---
 # Shi Yuli (施郁麗)
 
@@ -30,6 +30,10 @@ last_reviewed: 2026-09-08
 
 - Co-instructor, 華文 (Chinese) class at [[organizations/taiwan-center||Taiwan Center Taiwan School]] — Saturday 15:00–16:00, $40/session, taught jointly with [[people/april-lin||April Lin (林淑卿)]] and [[people/he-sumei||He Sumei (何素美)]] (published course schedule mirrored on the Taiwan Center page)
 
+
+## Co-Teaching Network
+
+At [[organizations/taiwan-center||Taiwan Center Taiwan School]] she appears in the published class-information source alongside fellow instructors [[people/april-lin||April Lin (林淑卿)]] and [[people/he-sumei||He Sumei (何素美)]] (joint 華文 class) and the wider instructor/board roster mirrored on the [[sources/taiwancenter-org||taiwancenter.org]] site, including [[people/simon-lin||Simon Lin (林榮松)]], the foundation's 執行長. No full biography is published in the vault source set.
 
 ## Related Pages
 

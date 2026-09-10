@@ -9,7 +9,7 @@ tags:
   - real-estate
   - hotel
 verification_status: pending
-last_reviewed: 2026-07-19
+last_reviewed: 2026-09-10
 ---
 # Sam Chang (張善良)
 
@@ -37,6 +37,12 @@ Chang was born in Taiwan in 1960 and came to the United States, initially spendi
 
 His profile in the 2017 TAHS publication (菁英錄) was compiled by [[people/zhou-wei-liang||周威廉 (Zhou Weiliang)]], presenting him as a model of Taiwanese American entrepreneurial success on the East Coast.
 
+## Timeline
+
+- **1960** — Born in Taiwan.
+- **Early career** — Left Taiwan, spent time in Japan, then settled in New York and entered real estate development.
+- **McSam era** — Built McSam Hotel Group into a hotel development, construction, management, and investment firm; completed **25 hotels** across New York City's five boroughs, including properties associated with major brands and **Trump Entertainment Resorts** links.
+- **2017** — Profiled in the [[sources/2017-tahs-publication||2017 TAHS Publication]] (菁英錄) as the "旅館開發大王" of the New York Taiwanese American community.
 
 ## Network
 

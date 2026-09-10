@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Hsueh-Hu Kuo (郭雪湖)
 
@@ -17,9 +17,26 @@ last_reviewed: 2026-08-17
 - **Era:** 1908-2012
 - **Geography:** Taipei, Taiwan
 - **Core roles:** entrepreneur, artist, educator
-- **Source:** TAH Foundation Who’s Who
+- **Source:** TAH Foundation Who's Who
 
-For more bio information, please click link in Who’s Who: 890. Hsueh-Hu Kuo 郭雪湖. External reference: http://vr.theatre.ntu.edu.tw/fineart/painter-tw/kuohsuehhu/kuohsuehhu.htm
+For more bio information, please click link in Who's Who: 890. Hsueh-Hu Kuo 郭雪湖. External reference: http://vr.theatre.ntu.edu.tw/fineart/painter-tw/kuohsuehhu/kuohsuehhu.htm
+
+## Timeline
+
+- **1908** — Born; lived to 2012 (era 1908–2012 per TAH records).
+- **1917–1923** — Taipei Rixin Public School (台北日新公學校).
+- **1923–1924** — Taipei Industrial School, Civil Engineering (台北州立工業學校土木科).
+- **From 1927** — Participating artist of the 臺灣美術展覽會 (Taiwan Fine Arts Exhibition / 臺展); later attained 免審推薦級畫家 (juror-exempt recommended painter) status.
+- **From 1930** — Member of 栴檀社 (Chandana Society).
+- **From 1946** — Co-founder and juror of the Chinese Painting Division of the 臺灣省全省美術展覽會 (Taiwan Provincial Fine Arts Exhibition).
+- **From 1959** — Founder and director of 雪湖美術教室 (Hsueh-Hu Art Studio).
+- **From 1964** — Residency in Japan as artist-in-residence / independent researcher.
+
+## Artistic Legacy
+
+- Pioneer and founding influence of the **台灣畫派** (Taiwan School of Painting); originator of the **雪湖派** style.
+- Key advocate and innovator of **臺灣膠彩畫** (Taiwanese glue-color / Nihonga painting tradition); developed the **重彩淡墨鉤勒法** technique.
+- His life and work are documented across multiple [[organizations/tah-foundation||TAH Foundation]] encyclopedia entries (#9, #36, #59, #127, #417, #890) in the [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]] corpus.
 
 <!-- tah-tables:start -->
 ## Education
@@ -42,7 +59,7 @@ For more bio information, please click link in Who’s Who: 890. Hsueh-Hu Kuo �
 - [TAH #890 encyclopedia: 890. Hsueh-Hu Kuo 郭雪湖](https://taiwaneseamericanhistory.org/whos-who-890-hsueh-hu-kuo/)
 - [TAH #417 encyclopedia: 417. 【人心人術】 走過一百年 用台灣人的眼睛畫世界：郭雪湖  / 張肇烜 /03/2016](https://taiwaneseamericanhistory.org/mystories417/)
 - [TAH #59 encyclopedia: 59. 郭雪湖 Hsueh-Hu Kuo /03/2016](https://taiwaneseamericanhistory.org/artist59-hsueh-hu-kuo/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hsueh-hu-kuo/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/hsueh-hu-kuo/)
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

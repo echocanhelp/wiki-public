@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-07-16
+last_reviewed: 2026-09-10
 ---
 # Simon Lin (林榮松)
 
@@ -17,8 +17,10 @@ last_reviewed: 2026-07-16
 
 - **English:** Simon Lin
 - **Chinese:** 林榮松
-- **Role:** 執行長
+- **Role:** 執行長 (Executive Director)
 - **Organization:** [[organizations/taiwan-center||Taiwan Center (TWCLA)]]
+
+The archived board source (`taiwancenter-org-board.md`, mirrored under [[sources/taiwancenter-org||taiwancenter.org]]) is the sole vault source for this role; board colleagues documented in the same source set include [[people/alan-thian||Alan Thian (田詒鴻)]], [[people/ken-wu||Ken Wu (吳兆峯)]] and [[people/linda-liu||Linda Liu (劉玲華)]]. No further biography is published in the vault source set.
 
 
 ## Network
