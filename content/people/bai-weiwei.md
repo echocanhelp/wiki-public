@@ -42,6 +42,8 @@ This page is an **A-tier thin record** for graph linking and member-priority sco
 - **Source:** TAHS 2025 organization chart (台美人歷史協會組織表 2025), Tax ID 46-4005384
 - **Roster:** `knowledge/operational/tahs-priority-roster.md` (L1)
 - **Interviewer of 謝泊欣 (Rosalyne Shieh):** 《台名人菁英錄》第二輯, 2023-05, p.108 (`knowledge/web-archives/2023-tahs-publication-part2.md`)
+- **Vault source page:** [[sources/2023-tahs-publication||2023 TAHS Publication —《台名人菁英錄》第二輯]] (19 profiles; interview credit as printed p.108)
+- **Co-interviewer:** [[people/freeman-huang||Freeman Huang (黃樹人)]] — also TAHS 秘書 (2025)
 
 ## Source Notes and Confidence
 

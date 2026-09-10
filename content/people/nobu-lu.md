@@ -38,6 +38,16 @@ last_reviewed: 2026-09-10
 - **Wife:** Tamara Trykar
 
 
+## Timeline
+- 1945 — born Taoyuan, Taiwan 台灣桃園, into a musical family (father [[people/chuang-shien-lu||呂泉生]], mother/piano teacher 蕭美霓)
+- 1960 — entered the institution now known as 國立藝術學院 under 鄧昌國's guidance; B.S. Music 1964
+- 1964 — first prize, inaugural violin competition hosted by the International Women's Association
+- 1966 — full scholarship to 琵琶地音樂院 (Peabody), U.S.; M.S. Music 1970
+- 1970 — joined the national ballet symphony orchestra; 1971 — first violinist, Sonady Arts Center opera symphony
+- 1971–1996 — National Ballet Orchestra, Kenneth Center for the Performing Arts, Washington D.C. (25-year performing career)
+- 1997 — 音樂家呂信也畫展 (painter side; see [[works/taiwaneseamericanhistory-org/nobu-lu-art-show-1997|vault record]])
+- Later — conductor, [[organizations/taiwan-center-choir||Taiwan Center Choir]] at [[organizations/taiwan-center||大洛杉磯台灣會館]]; resides in Los Angeles, dedicated to violin teaching
+
 ## Sources
 - [TAH #339 encyclopedia: 339. Nobu Lu 呂信也 / 2015/03](https://taiwaneseamericanhistory.org/whos339-nobu-lu/)
 - [TAH #168 encyclopedia: 168. Nobu Lu 呂信也, Violinist & Conductor / 2015/03](https://taiwaneseamericanhistory.org/nobu-lu-%e5%91%82%e4%bf%a1%e4%b9%9f-conductor-201503/)

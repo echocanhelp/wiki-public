@@ -46,6 +46,14 @@ last_reviewed: 2026-09-10
 - **Son:** 羅澤行, 羅澤言
 
 
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/92-dr-fu-chen-lo|TAH #92: Dr. Fu-Chen Lo 羅福全博士]]
+- [[works/taiwaneseamericanhistory-org/ff364|TAH #364: 第一位在美國國會參議院為台灣前途作證 (1983-11-09)]]
+- [[works/taiwaneseamericanhistory-org/whos-who-9-fu-chen-lo|TAH Who's Who #9: Dr. Fu-Chen Lo]]
+- [[works/taiwaneseamericanhistory-org/dr-fu-chen-lo|TAH Who's Who profile: Dr. Fu-Chen Lo]]
+- [[works/taiwaneseamericanhistory-org/183-dr-fu-chen-lo-e7-be-85-e7-a6-8f-e5-85-a8|TAH record #183: 羅福全博士]]
+- [[works/taiwaneseamericanhistory-org/collection-of-dr-fu-chen-lo|Collection of Dr. Fu-Chen Lo papers]]
+
 ## Sources
 - [TAH #92 encyclopedia: 92. Dr. Fu-Chen Lo 羅福全博士](https://taiwaneseamericanhistory.org/92-dr-fu-chen-lo/)
 - [TAH #364 encyclopedia: 364. Dr. Fu-Chen Lo 羅福全博士 / 第一位在美國國會參議院為台灣前途作證 / 11/09/1983](https://taiwaneseamericanhistory.org/ff364/)
