@@ -41,6 +41,17 @@ Absorbed from the TAH profile above:
 - Plays solo and chamber music extensively; founder of the Chanson Strings quartet, which has taken part in international festivals such as the Fringe Festival at Rochester 2016.
 - Currently on faculty at the State University of New York at Geneseo and the Hochstein School of Music and Dance in Rochester, and serves as principal bass of the Orchestra of the Southern Finger Lakes at Corning, NY.
 
+## Timeline
+
+Absorbed from the on-page Career section (no external sources):
+
+- Age 19 — began her professional orchestral career, performing with the Taipei Symphony and Taipei Philharmonic in Taiwan.
+- Eastman School of Music — master's and doctoral degrees.
+- 2016 — Chanson Strings quartet (founder) performed at the Fringe Festival at Rochester.
+- Present — faculty, State University of New York at Geneseo and Hochstein School of Music and Dance, Rochester; principal bass, Orchestra of the Southern Finger Lakes at Corning, NY; has also performed with the Binghamton Philharmonic, Orchestra of the Northern New York, and Cayuga Chamber Orchestra.
+
+_Note: the on-page profile spells her name both "Wan-Lung" (title/TAH table) and "Wan-Ling" (bio paragraph); recorded as-is, unresolved._
+
 ## Family
 
 _No filled family fields on the TAH profile._

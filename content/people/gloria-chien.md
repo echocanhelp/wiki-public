@@ -29,6 +29,18 @@ Pianist Gloria Chien has been picked by the Boston Globe as one of the Superior 
 - 美國田納西州Lee University — Teaching
 <!-- tah-tables:end -->
 
+## Timeline
+
+Absorbed from the on-page biography and tables (no external sources):
+
+- Age 16 — orchestral debut with the Boston Symphony Orchestra.
+- Prize winner: World Piano Competition; Harvard Musical Association Award; San Antonio International Piano Competition (plus Best Performance of the Commissioned Work prize).
+- Named a Superior Pianist of the year by the Boston Globe ("… who appears to excel in everything" — Richard Dyer).
+- Soloist under Sergiu Comissiona, Keith Lockhart, Thomas Dausgaard, Irwin Hoffman, Benjamin Zander, and Robert Bernhardt; recitals at the Isabella Stewart Gardner Museum, Harvard Musical Association, Sanibel and Caramoor Musical Festivals, Salle Cortot (Paris), and the National Concert Hall (Taiwan).
+- 2004 — Ph.D. Music, 新英格蘭音樂院 (New England Conservatory).
+- 2012– — joined the roster of Chamber Music Society Two, Lincoln Center.
+- Teaching — Lee University, Tennessee.
+
 ## Family
 
 - **Husband:** 安寧

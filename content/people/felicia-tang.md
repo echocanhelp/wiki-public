@@ -53,6 +53,7 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/whoswho1872|TAH #1872 encyclopedia entry]]
 - [[works/taiwaneseamericanhistory-org/musician425|TAH #425 — piano entry]]
+- [[organizations/taiwanese-american-historical-society||TAHS]] — source community for the TAH Who's Who project
 
 ## Network
 - [[organizations/new-york-taiwan-center||New York Taiwan Center]] — NYC-based pianist/teacher (per bio: performs and teaches in New York)

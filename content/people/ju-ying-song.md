@@ -36,6 +36,15 @@ last_reviewed: 2026-09-10
 
 _No filled family fields on the TAH profile._
 
+## Timeline
+- 1991 — B.S. 音樂及微生物免疫, 史丹福大學 (Stanford).
+- 茱莉亞音樂學院 (Juilliard) — M.S. 音樂; Ph.D. 鋼琴.
+- 1994 — Won the Pro Piano Annual Artist Grand Prize among 70 international young pianists; Pro Piano issued four CDs over the following seven years. First CD — Debussy «十二首練習曲» — earned top ratings incl. International Piano Quarterly (Spring 1998).
+- 1996 — Champion, Palm Beach International Invitation Competition; New York debut at Lincoln Center to critical acclaim.
+- 1998 — 5th prize, 巴考爾國際鋼琴大賽; 2000 — Christel Award, 美國鋼琴家協會.
+- 2001 — Released「江文也日本時代鋼琴作品集」incl. world premiere recordings such as「五月的組曲」, drawing worldwide attention.
+- Present — Teaches at Mannes School of Music (紐約曼尼斯音樂學院); Artistic Director, Classic Abroad Paris Piano Program.
+
 ## Sources
 - [TAH #339 encyclopedia: 339. Ju-Ying Song 宋如音, Pianist / 2016/05](https://taiwaneseamericanhistory.org/musician339/)
 - [TAH #969 encyclopedia: 969.  Ju-Ying Song 宋如音 / 2016/05](https://taiwaneseamericanhistory.org/whoswho969/)
@@ -44,6 +53,9 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/musician339|TAH #339 — pianist entry]]
+- [[works/taiwaneseamericanhistory-org/whoswho969|TAH #969 encyclopedia entry]]
+- [[organizations/taiwanese-american-historical-society||TAHS]] — source community for the TAH Who's Who project
 
 ## Network
 - [[organizations/stanford-taiwanese-student-association||Stanford TSA]] — Stanford BS 1991, per Education table

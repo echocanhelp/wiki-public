@@ -40,6 +40,24 @@ Ching-Jang Yao (姚慶章), born September 16, 1941 in Taichung, Taiwan. Graduat
 - Key exhibitions: first solo show at the Art Gallery of National Taiwan Arts Center, Taipei; Honorary Award, 5th International Youth Artist Exhibition, Tokyo (1969); 10th Saint Paul International Art Exhibition (1970, Brazil); 'Taipei-New York: Confrontation of Modernism', Taipei Fine Arts Museum (1991); 15th National Art Exhibition, Taiwan (1999); final solo show of the 'Circle' and 'Diamond' series at Longmen Gallery (2000).
 - Memorial exhibition: 姚慶章紀念畫展, 國立歷史博物館, 2001/09 — [[works/taiwaneseamericanhistory-org/publications566|TAH #566: 姚慶章紀念畫展]].
 
+## Timeline
+
+Absorbed from the on-page biography (no external sources):
+
+- 1941-09-16 — born in Taichung, Taiwan (台灣台中).
+- 1965 — graduated, Fine Arts Department, 台灣師範大學 (B.S. 美術).
+- 1969 — Honorary Award, 5th International Youth Artist Exhibition, Tokyo.
+- 1970 — 10th Saint Paul International Art Exhibition, Brazil; then emigrated to the USA with his family.
+- 1991 — 'Taipei-New York: Confrontation of Modernism', Taipei Fine Arts Museum.
+- 1994 — Overseas Painter Contribution Award, ROC Art Gallery Variety Exhibition; listed as a representative super-realist in *Photorealism* (Harry N. Abrams).
+- 1998 — exhibitions at Ping Tung, Miaoli, and Tai Nan Cultural Centers and Guam University.
+- 1999 — 15th National Art Exhibition (Taiwan); invited solo exhibition, Hsin Chu Hsien Cultural Center.
+- 2000 — final solo exhibition ('Circle' and 'Diamond' series), Longmen Gallery; died suddenly.
+- 2001/09 — 姚慶章紀念畫展, 國立歷史博物館 — [[works/taiwaneseamericanhistory-org/publications566|TAH #566]].
+
+## Archival records
+- [[works/taiwaneseamericanhistory-org/whoswho907|TAH Who's Who #997]] · [[works/taiwaneseamericanhistory-org/41-e5-a7-9a-e6-85-b6-e7-ab-a0-ching-jang-yao201504|TAH #41 (2015/04)]]
+
 ## Sources
 - [TAH #997 encyclopedia: 997. Ching-Jang Yao  姚慶章](https://taiwaneseamericanhistory.org/whoswho907/)
 - [TAH #41 encyclopedia: 41. 姚慶章 Ching-Jang Yao/2015/04](https://taiwaneseamericanhistory.org/41-%e5%a7%9a%e6%85%b6%e7%ab%a0-ching-jang-yao201504/)

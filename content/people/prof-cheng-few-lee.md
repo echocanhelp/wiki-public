@@ -32,6 +32,20 @@ last_reviewed: 2026-09-10
 - Dept. of Finance, Univ. of Illinois Champaign Urbana — Professor — (1978-1982) — Dept. of Finance, Univ. of Illinois — IBE Distinguished Professor of Finance — (1982-1988) — Dept. of Finance, Rutgers Univ. — Distinguished Professor of Finance — (1988-) — Community — Annual Conference on Pacific Basin Finance, Economics, Accounting, and Management — Director — Financial Economics and Accounting Conference — Founding Father
 <!-- tah-tables:end -->
 
+## Timeline
+
+Absorbed from the on-page record (no external sources):
+
+- 1939 — born in Taoyuan, Taiwan.
+- 1962 / 1966 — B.A. (Economics and Accounting) and M.A. (Economics), National Taiwan Univ.
+- 1970 — M.S. Statistics, West Virginia Univ.
+- 1973 — Ph.D. Economics and Finance, State Univ. of New York at Buffalo.
+- 1978–1982 — Professor, Dept. of Finance, Univ. of Illinois Champaign Urbana.
+- 1982–1988 — IBE Distinguished Professor of Finance, Univ. of Illinois.
+- 1988– — Distinguished Professor of Finance, Rutgers Univ.
+- 1993–present — Director, Annual Conference on Pacific Basin Finance, Economics, Accounting, and Management; founding father of the Financial Economics and Accounting Conference.
+- 2017 — published autobiography *From East to West: Memoirs of a Finance Professor* — [[works/taiwaneseamericanhistory-org/publications1109|TAH Publications #1109]]; earlier memoir [[works/taiwaneseamericanhistory-org/276-e6-9d-8e-e6-ad-a3-e7-a6-8f-e8-87-aa-e8-bf-b0-e5-85-bc-e8-ab-87-e5-8f-b0-e7-8|TAH #276]] and [[works/taiwaneseamericanhistory-org/mystories557|My Stories #557]].
+
 ## Family
 
 - **Wife:** 曾純純

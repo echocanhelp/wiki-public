@@ -48,9 +48,20 @@ Her TAH encyclopedia entries are archived in the vault:
 - [[works/taiwaneseamericanhistory-org/107-chihchun-chi-sun-lee-e6-9d-8e-e5-bf-97-e7-b4-94-composer||TAH #107 — Chihchun Chi-sun Lee 李志純, Composer (2014/12)]]
 - [[works/taiwaneseamericanhistory-org/186-chihchun-chi-sun-lee-e6-9d-8e-e5-bf-97-e7-b4-94||TAH #186 — Chihchun Chi-sun Lee 李志純]]
 
+## Timeline (absorbed from on-page TAH biography)
+
+- **B.M.** Soochow University, Taiwan
+- **M.M. ×2** Ohio University — double master's in composition and arts
+- **Ph.D.** University of Michigan — composition; teachers included William Albright, William Bolcom, Bright Sheng, and [[people/david-loong-hsing-wen||Loong-Hsing Wen (溫隆信)]]
+- **1st prize** Brandenburg Biennial Composers Competition (inaugural winner)
+- **2009** — nominated "best composer" at the Golden Melody Awards for debut CD *Elegance* — only the fourth woman ever nominated in that category
+- **2009–2011** — composer-in-residence, Chai Found Music Workshop (funded by the Taiwan National Culture and Arts Foundation)
+- **Current (at TAH profile date)** — board member, Korea-China Art Association; professor at Ewha Womans University and SangMyung University, Seoul, Korea
+
 ## Connected in the Vault
 
 - Her composition teacher **Loong-Hsing Wen (溫隆信)**, named in her TAH biography alongside William Albright, William Bolcom, and Bright Sheng, has a vault page: [[people/david-loong-hsing-wen||David Loong-Hsing Wen (溫隆信)]].
+- Her 2009–2011 residency ensemble **Chai Found Music Workshop** appears in the vault: [[works/taiwaneseamerican-org/chai-found-music-workshop-in-wilmington-de||Chai Found Music Workshop in Wilmington, DE]]
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

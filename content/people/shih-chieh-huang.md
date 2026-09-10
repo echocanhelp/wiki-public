@@ -46,6 +46,8 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/34-e9-bb-83-e4-b8-96-e5-82-91-shih-chieh-huang-201503|TAH #34 encyclopedia entry]]
+- [[organizations/taiwanese-american-historical-society||TAHS]] — source community for the TAH Who's Who project
 
 ## Network
 - [[organizations/united-taiwanese-association-at-uc-san-diego||UTASD UC San Diego]] — UC San Diego BFA (1998), per Education table

@@ -30,6 +30,14 @@ A native of Taiwan, Ms. Mei-En Chou began her piano studies at the age of four, 
 - 路易斯安那學院 — 2008 — 鋼琴助理教授及駐校演奏家
 <!-- tah-tables:end -->
 
+## Timeline (absorbed from on-page TAH biography)
+
+- **age 4** — began piano studies; **age 9** — took up trumpet, winning several outstanding-achievement awards through her school years
+- **2003** — B.A. in trumpet performance, 國立台灣師範大學 (NTNU); certified as a high school music instructor by the Ministry of Education, R.O.C.
+- **2008** — B.S. in piano performance, 北德州大學 (University of North Texas), under Dr. Pamela Mia Paul; in Denton, TX she was an active collaborative pianist and piano/continuo player in large ensembles
+- **Denton years** — taught privately and at the School of Creative Art; conducted and directed the choir of North Texas Chinese Church; participated in the UNT Wind Studies Conductor's Collegium
+- **2008** — piano assistant professor and artist-in-residence, 路易斯安那學院 (Louisiana College)
+
 ## Family
 
 _No filled family fields on the TAH profile._

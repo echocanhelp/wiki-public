@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Yali Chen (陳雅莉)
 
@@ -42,6 +42,16 @@ _No filled family fields on the TAH profile._
 - [TAH #843 encyclopedia: 843. Yali Chen 陳雅莉 / 2016/02](https://taiwaneseamericanhistory.org/843-yali-chen-%e9%99%b3%e9%9b%85%e8%8e%89-201602/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yali-chen/)
 
+## Career & Milestones
+Absorbed from the profile text and cited TAH encyclopedia entries:
+- Began on piano; moved to music theory, Solfege training, then oboe performance at 台灣師範大學 (NTNU), B.S. Music.
+- Principal oboist of the NTNU University Symphony Orchestra; won the university concerto competition and performed Haydn's Oboe Concerto with the Orchestra; numerous solo and chamber concerts.
+- Studied under Professor Pierre W. Feit during a visit to Vienna and Graz, Austria; won Third Prize at the Wiener International Summer Camp.
+- Returned to Taiwan to teach oboe while serving as principal oboist of the [[organizations/tah-foundation|National Symphony Orchestra in Taiwan]]-era national music scene; later guest oboist with orchestras at the Disney Concert Hall, Segerstrom Hall (Anaheim), and Riverside County (per Employment table).
+- 2005 — M.S. Fine Art, UCI Claire (Claire Trevor) 音樂學院.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/330-yali-chen-e9-99-b3-e9-9b-85-e8-8e-89-oboist-conductor-201602||TAH #330: Yali Chen, Oboist & Conductor]]
+- [[works/taiwaneseamericanhistory-org/843-yali-chen-e9-99-b3-e9-9b-85-e8-8e-89-201602||TAH #843: Yali Chen]]

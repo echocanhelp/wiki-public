@@ -53,6 +53,8 @@ Prof. Frank S. T. Hsiao 蕭聖鐵教授 – History of Taiwanese American (T.A. 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/whos-who-1558-frank-s-t-hsiao|TAH #1558 encyclopedia entry]]
+- [[organizations/taiwanese-american-historical-society||TAHS]] — source community for the TAH Who's Who project
 
 ## Network
 - [[organizations/taiwanese-association-of-america-colorado||TAA Colorado]] — Colorado-based (UCCB professor 1966–2007), per Employment table
