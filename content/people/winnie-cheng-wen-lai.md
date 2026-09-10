@@ -29,6 +29,20 @@ New York-based Oboist Chengwen Winnie Lai maintains a varied chamber music and o
 - Seattle Symphony Orchestra — Oboist — Jupiter Symphony Chamber Players — Oboist — IRIS Chamber Orchestra — Oboist — Metropolitan Opera Orchestra — Substitute Principal Oboe — Chinese Youth Orchestra of New York — Woodwind Faculty — (2003-) — Weill Music Institute at Carnegie Hall — Teaching Artist — Ensemble ACJW (Academy - Carnegie Hall / Juilliard / Weill Music Institute) — Charter Member / Performer — New Jersey Symphony — Oboist — San Diego Symphony Summer Pop — Guest Principal Oboe — Ensemble ACJW (Academy - Carnegie Hall, Juilliard, Weill Music Institute) — Charter Member / Chamber Musician — Community — Chinese Youth Orchestra of New York — Woodwind Faculty
 <!-- tah-tables:end -->
 
+## Timeline (vault-sourced)
+
+Absorbed from the TAH #98 biography and tah-tables already mirrored on this page (no web; entities without vault pages named, not linked):
+
+- B.M. and M.M., The Juilliard School.
+- **2003–** Woodwind faculty, Chinese Youth Orchestra of New York (華新青少年國樂團); later Teaching Artist, Weill Music Institute at Carnegie Hall.
+- Charter member of the Academy (a program of Carnegie Hall, The Juilliard School and the Weill Music Institute): performed chamber music extensively in Carnegie Hall with Ensemble ACJW.
+- Oboist / substitute principal: Jupiter Symphony Chamber Players, IRIS Chamber Orchestra (Memphis), Metropolitan Opera Orchestra (substitute principal on the 2011 Japan Tour), New Jersey Symphony; Guest Principal, San Diego Symphony Summer Pop.
+- Chamber music: Chamber Music Society of Lincoln Center Family Concert, Argento Chamber Ensemble, Bargemusic, the Declassified.
+- Festivals: Marlboro, Aspen, National Repertory Orchestra, Pacific Music Festival Orchestra, Music Academy of the West.
+- Collaborated with recording artist Bjork on "Drawing Restraint 9".
+- **2011** Recorded Sonata for oboe and piano for James Cohn's album *A Grecian Festival* (MSR label).
+- Record published **2014-12-13** as TAH #98 ([[works/taiwaneseamericanhistory-org/98-winnie-cheng-wen-lai-e8-b3-b4-e6-94-bf-e9-9b-af||TAH #98 record]]); source text truncated mid-teaching-list (see Record Trail gap note).
+
 ## Family
 
 _No filled family fields on the TAH profile._

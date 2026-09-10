@@ -20,6 +20,14 @@ last_reviewed: 2026-09-10
 - **Role:** 團體董事
 - **Organization:** [[organizations/taiwan-center||Taiwan Center (TWCLA)]]
 
+## Timeline (vault-sourced)
+
+Facts absorbed from records already mirrored on this page (no new sources):
+
+- Board snapshot (archived `taiwancenter-org-board.md`, no date in source): listed as **團體董事** of [[organizations/taiwan-center||Taiwan Center]] alongside cohort [[people/lisa-hou||Lisa Hou (侯乃文)]], [[people/shirley-yu||Shirley Yu (張欣珠)]], [[people/joyce-yeh||Joyce Yeh (葉怡蘭)]], [[people/josephine-pan||Josephine Pan (潘掬慧)]], [[people/joseph-teng||Joseph Teng (曾英銘)]] — see [[sources/taiwancenter-org||taiwancenter.org]].
+- **Possibly a second Steven Wu (巫石增) — NOT merged into this bio:** born 台灣, arrived US **1966**; career at NASA Johnson/Stennis/Marshall centers, Huntsville AL; 首任會長 FAPA 阿拉巴馬州分會 (**1994**); 會長 Huntsville 台灣同鄉會 (**1995**) — TAH encyclopedia post 1619, 台灣公論報第1626期 02/1998.
+- Education (巫石增 record, tah-tables below): 台北工專 B.S.; University of Kansas Ph.D. 電機工程; Kansas Black & Votech Consulting Firm.
+
 ## Source Notes and Confidence
 
 - **Content priority A:** Name and role on https://www.taiwancenter.org/board (archived `taiwancenter-org-board.md`)
