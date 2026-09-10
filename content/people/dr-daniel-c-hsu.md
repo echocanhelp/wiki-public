@@ -31,6 +31,23 @@ Accomplishment
 - New Jersey Dr. Herman's Dental Clinic — Dentist — (1978-1980) — Daniel C. Hsu Dental Clinic — Dentist/Owner — (1981-) — Community — NATMA Foundation / S. CA Chapter (北美洲台灣人醫師協會基金會南加分會) — President (董事長) 2010-2018 — North American Taiwanese Medical Association Foundation (北美洲台灣人醫師協會基金會) — President (董事長) 2008-2009 — North American Taiwanese Medical Association (NATMA) (北美洲台灣人醫師協會) — President (總會長) 2006-2007 — NATMA / S. CA Chapter (北美洲台灣人醫師協會南加分會) — President 2004 — Chinese American Dental Society of Southern California — President 1999 — Chung Shan Medical University Alumni Association — President 1996 — Taiwanese Chamber of Commerce of Orange County (柑縣台美商會) — President (會長) 1993 — Taiwanese Medical & Dental Association of Orange County (柑縣台灣醫師及牙醫師公會) — President (會長) 1988
 <!-- tah-tables:end -->
 
+## Timeline
+
+Facts absorbed from this page's own TAH tables and accomplishment entry (no external sources).
+
+- **1943** — Born in Changhua, Taiwan.
+- **1967** — D.D.S., Chung Shan Medical Univ.
+- **1978** — D.M.D., School of Dental Medicine, Tufts Univ. (Boston); dentist at Dr. Herman's Dental Clinic, New Jersey (1978–1980).
+- **1981–** — Own practice: Daniel C. Hsu Dental Clinic.
+- **1988** — President, Taiwanese Medical & Dental Association of Orange County (柑縣台灣醫師及牙醫師公會).
+- **1993** — President, Taiwanese Chamber of Commerce of Orange County (柑縣台美商會) — [[organizations/taiwanese-chambers-of-commerce-of-orange-county||Taiwanese Chambers of Commerce of Orange County]].
+- **1996** — President, Chung Shan Medical University Alumni Association.
+- **1999** — President, Chinese American Dental Society of Southern California.
+- **2004** — President, [[organizations/natma-southern-california||NATMA Southern California Chapter]].
+- **2006–2007** — President (總會長), North American Taiwanese Medical Association (NATMA).
+- **2008–2009** — President, [[organizations/north-american-taiwanese-medical-association-foundation||NATMA Foundation]].
+- **2010–2018** — President (董事長), NATMA Foundation / S. CA Chapter.
+
 ## Family
 
 - **Wife:** 劉淑娟
