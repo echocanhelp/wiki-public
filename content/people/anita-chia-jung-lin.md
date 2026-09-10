@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Anita Chia-Jung Lin (林佳蓉)
 
@@ -42,6 +42,10 @@ She lives and teaches in the greater-St. Louis Taiwanese American community, whe
 
 - [[organizations/taiwanese-association-of-america-in-greater-st-louis||TAA Greater St. Louis]]
 - [[organizations/taiwanese-scholar-association-in-st-louis-tsa-stl||TSA St. Louis]]
+- [[organizations/friends-of-taiwan-greater-st-louis||Friends of Taiwan Greater St. Louis]]
+- [[organizations/north-america-taiwanese-womens-association-st-louis-chapter||NATWA St. Louis Chapter]]
+
+(Community-presence context for her greater-St. Louis residence and teaching base; membership not asserted.)
 
 ## Sources
 - [TAH #277 encyclopedia: 277. Anita Chia- Jung Lin 林佳蓉, Violinist / 2015/08](https://taiwaneseamericanhistory.org/277-anita-chia-jung-lin-%e6%9e%97%e4%bd%b3%e8%93%89-violinist-201508/)

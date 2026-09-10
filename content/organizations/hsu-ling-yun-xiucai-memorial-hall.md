@@ -9,7 +9,7 @@ tags:
   - memorial
   - cultural-heritage
 verification_status: verified
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 
 # Hsu Ling-yun Xiucai Memorial Hall (許凌雲秀才紀念館)
@@ -39,6 +39,7 @@ Descendant Hsu Ya-chin (許雅琴) led the heritage application (reviewed Mar 20
 ## Related Pages
 
 - [[people/hsu-ling-yun||Hsu Ling-yun (許凌雲)]]
+- [[organizations/penghu-info||Penghu.info 澎湖知識服務平台]] — publisher of source 1 below
 - [[people/hsu-ching-chun||Hsu Ching-chun (許景淳)]] — same Watong Hsu clan, 靖樂 line
 - [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan]]
 

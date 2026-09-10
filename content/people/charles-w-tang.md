@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Charles W. Tang (唐瑋廷)
 
@@ -51,6 +51,14 @@ _No filled family fields on the TAH profile._
 ## Vault Holdings
 - [[works/taiwaneseamericanhistory-org/whoswho1871|TAH #1871 — Charles W. Tang 唐瑋廷 (09/2017)]]
 - [[works/taiwaneseamericanhistory-org/musician424|TAH #424 — Charles W. Tang 唐瑋廷, piano (09/2017)]]
+
+## Connected in the Vault
+Per the TAH profile above, Mr. Tang came to the U.S. for musical study and has lived, taught, and performed in New York City. Geographic community context only (membership not asserted) — these New York-area organizations have vault pages:
+
+- [[organizations/taiwanese-american-association-new-york||Taiwanese American Association New York]]
+- [[organizations/new-york-taiwan-center||New York Taiwan Center]]
+
+His zheng study under WANG Changyuan and his composer-in-residence role with Drum Spirit of China are recorded only in the cited TAH encyclopedia entries (#1871, #424) held in the vault.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Yu-Sui Hung (洪育穗)
 
@@ -50,6 +50,13 @@ _No filled family fields on the TAH profile._
 ## Vault Holdings
 - [[works/taiwaneseamericanhistory-org/452-yu-sui-hung-e6-b4-aa-e8-82-b2-e7-a9-97-201506|TAH #452 — Yu-Sui Hung 洪育穗 (2015/06)]]
 - [[works/taiwaneseamericanhistory-org/216-yu-sui-hung-e6-b4-aa-e8-82-b2-e7-a9-97-pianist-201506|TAH #216 — Yu-Sui Hung 洪育穗, Pianist (2015/06)]]
+
+## Connected in the Vault
+Per the TAH profile above, Dr. Hung has been on the VanderCook College of Music faculty (Chicago) since 2006. Geographic community context only (membership not asserted):
+
+- [[organizations/taiwanese-association-of-america-the-greater-chicago||TA the Greater Chicago]]
+
+Her B.F.A. in piano and clarinet from National Taiwan Normal University connects her to the NTNU alumni-association records held in the vault (e.g. [[works/taiwaneseamericanhistory-org/ea-national-taiwan-normal-university-alumni-association|師大美東校友會]]).
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
