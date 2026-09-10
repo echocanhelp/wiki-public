@@ -46,6 +46,17 @@ Pianist Dr. Ching-Ming Cheng, a native of Taiwan. Dr. Cheng holds a bachelor’s
 - Active member: Music Teacher Association of California, Music Teacher National Association, California Association of Professional Music Teachers; frequent competition adjudicator
 - Teaching career (per TAH tables): Barry University, Humboldt State University, University of Miami, National Taiwan Normal University, Fu-Jen Catholic University; currently assistant professor of music, California State University San Marcos
 
+## Timeline (from on-page cited facts)
+
+- B.A. Piano Performance, National Taiwan Normal University
+- M.A. Music Business, then doctoral degree Piano Accompanying, University of Miami — honors, full scholarship
+- Teaching posts: Barry University, Humboldt State University, University of Miami, National Taiwan Normal University, Fu-Jen Catholic University
+- 2013 — Silver medal, International Keyboard Odyssiad Piano Competition (Colorado)
+- 2014-10 — Profiled in TAH encyclopedia #49 as pianist
+- Performances at Cal. State San Marcos, [[organizations/north-america-taiwanese-professors-sc||NATPA]] retreats, Taiwan Center in San Diego, concert series in Taiwan
+- Current — assistant professor of music, California State University San Marcos; frequent competition adjudicator
+- Married violinist [[people/paul-pai-shih-lee||Paul Pai-Shih Lee (李百仕)]]
+
 ## References in vault
 - [[works/taiwaneseamericanhistory-org/85-ching-ming-cheng-e9-84-ad-e9-9d-9c-e6-97-bb||85. Ching-Ming Cheng 鄭靜旻]] — TAH encyclopedia #85
 - [[works/taiwaneseamericanhistory-org/49-ching-ming-cheng-e9-84-ad-e9-9d-9c-e6-97-bb-piano||49. Ching-Ming Cheng 鄭靜旻, Pianist/2014/10]] — TAH encyclopedia #49
