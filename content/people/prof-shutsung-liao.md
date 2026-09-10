@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Prof. Shutsung Liao (廖述宗教授)
 
@@ -31,6 +31,18 @@ Accomplishment
 ## Employment
 - Institute of Biochemistry and Molecular Biology, Univ. of Chicago — Professor — (1961-) — Community — North America Taiwanese Professor Association — Founding President
 <!-- tah-tables:end -->
+
+## Timeline
+- **1931** — Born in Tainan, Taiwan.
+- **1953** — B.S., Agricultural Chemistry, National Taiwan Univ.
+- **1956** — M.S., Agricultural Chemistry, National Taiwan Univ.
+- **1961** — Ph.D., Biochemistry & Molecular Biology, Univ. of Chicago; joined the Institute of Biochemistry and Molecular Biology there as Professor.
+- **1980** — Founding President, North America Taiwanese Professors' Association (北美洲台灣人教授協會).
+- **2015** — Died. NATPA later established the [[works/taiwaneseamericanhistory-org/12-natpa-professor-liao-shutsung-memorial-award|Professor Liao Shutsung Memorial Award]] in his honor.
+
+## Network
+- Founding president of NATPA; association records he helped launch continue in the vault: [[works/taiwaneseamericanhistory-org/natpa-forum-by-north-america-taiwanese-professors-association-natpa|NATPA Forum]] and [[works/taiwaneseamericanhistory-org/newsletters-of-north-america-taiwanese-professors-association|NATPA newsletters]].
+- Chapter page in vault: [[organizations/north-america-taiwanese-professors-sc|NATPA Southern California]].
 
 ## Family
 

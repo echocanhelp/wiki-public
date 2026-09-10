@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Chin-Yi Lee (李琹怡)
 
@@ -29,6 +29,18 @@ Born in Taiwan, Chin-Yi Lee 李琹怡 began studying the piano at the age of fiv
 - Peabody Preparatory and Towson University — Accompanist
 - Roland Park Country School — 2006 — Faculty
 <!-- tah-tables:end -->
+
+## Timeline
+- **—** — Born in Taiwan; began piano study at age five.
+- **—** — KAWAI Music Foundation scholarship; Bachelor of Music in Taiwan.
+- **1999** — Finalist, YAMAHA Young Pianist Competition (Taiwan).
+- **2000** — Came to the United States; M.S., Peabody Conservatory (studied with Boris Slutsky).
+- **—** — Selected for Leon Fleisher's chamber music master class at Peabody Conservatory; accompanist for Hampden Baptist Church, the Children's Chorus of Maryland, Peabody Preparatory, and Towson University.
+- **2006** — Joined the piano faculty, Roland Park Country School.
+- **Current** — Teaches private piano lessons in Baltimore.
+
+## Network
+- Teachers/mentors named in the TAH profile: Boris Slutsky (Peabody) and Leon Fleisher (chamber master class); no vault pages for them yet.
 
 ## Family
 

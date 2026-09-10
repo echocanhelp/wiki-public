@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Weiyin Chen (陳偉茵)
 
@@ -29,6 +29,15 @@ In a time of promising young virtuosos from all over the world the Taiwanese-Ame
 ## Employment
 - Hong Kong Philharmonic Orchestra — Guest Soloist — (2008-) — China National Symphony Orchestra — Guest Soloist
 <!-- tah-tables:end -->
+
+## Timeline
+- **1983** — Born in 台北市, Taiwan.
+- **2005** — B.S. Music, 茱莉亞音樂學院 (Juilliard).
+- **2008-** — Guest soloist with the Hong Kong Philharmonic Orchestra and the China National Symphony Orchestra.
+- **2010** — M.S. Music, 約翰霍普金斯大學琵琶第音樂學院 (Peabody, Johns Hopkins).
+
+## Network
+- Studied extensively with conductor-pianist Leon Fleisher and pianists Richard Goode and Claude Frank (named in the TAH profile text; no vault pages for them yet).
 
 ## Family
 
