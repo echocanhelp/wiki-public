@@ -8,7 +8,7 @@ tags:
   - tahs-publication-2017
   - changhua-girls-normal
 verification_status: pending
-last_reviewed: 2026-09-08
+last_reviewed: 2026-09-10
 ---
 # Lin Qiong-xian (林瓊仙)
 
@@ -41,6 +41,15 @@ Lin Qiong-xian was skilled at matchmaking. When her son 廖述宗 received his P
 
 The family ran a stationery shop called "文藝社" (Wenyi She) at home. Lin Qiong-xian raised eight children with great dedication, managing household affairs, the family shop, and supporting her husband's artistic career.
 
+
+## Timeline (from cited sources)
+
+- Graduated 彰化高女 2nd class — a notable achievement for women of her era
+- Married painter [[people/liao-ji-chun||廖繼春]]; ran the family stationery shop 「文藝社」 from home in 豐原
+- Taught art at a school in Tainan, in the artistic spirit of her husband
+- 1960 — arranged and matched the Chicago marriage of son [[people/liao-shu-zong||廖述宗]] to [[people/guo-shu-qing||郭淑卿]], a fellow townsman's daughter coming for graduate studies
+- Later life in Chicago; remembered for 热心公益 public-welfare work and for raising 8 children while supporting her husband's artistic career
+- Yang Jia-you's memorial recalls her as from 清水 (Qingshui), the same hometown as the Yang family — see [[people/yang-jia-you||楊嘉猷 (Charles Yang)]]
 
 ## Network
 

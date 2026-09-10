@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-09-08
+last_reviewed: 2026-09-10
 ---
 # Jolie Chenn (陳芃佑)
 
@@ -32,6 +32,12 @@ last_reviewed: 2026-09-08
 
 - **2024-11** — named among the **38位董事** in the 第26周年年會晚宴 announcement (TJ archive `20250420093345…`)
 - Board archive snapshot: `knowledge/web-archives/taiwancenter-org-board.md`
+
+## Leadership record (vault-sourced)
+
+- Serves as 副董事長 of [[organizations/taiwan-center||Taiwan Center]], one of five 副董事長 alongside [[people/roger-tsai||蔡漢成 (Roger Tsai)]], [[people/linda-liu||劉玲華 (Linda Liu)]], [[people/shu-lai||賴淑遠 (Shu Lai)]], and [[people/tony-lee||李賢群 (Tony Lee)]]
+- First entered the board as 個人董事 at the 第11屆 會員大會 in 2018 (20 個人董事, 13 新任 — the largest turnover in 會館 history), then rose to 副董事長
+- Remains among the 38位董事 named in the 第26周年年會晚宴 announcement, 2024-11
 
 ## Related Pages
 

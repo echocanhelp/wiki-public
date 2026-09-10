@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-08
+last_reviewed: 2026-09-10
 ---
 # Dr. Fu-Chen Lo (羅福全博士)
 
@@ -30,6 +30,15 @@ last_reviewed: 2026-09-08
 ## Employment
 - Consad Research Co. — Researcher — (1968-) — United Nations Centre for Regional Development — Director — (1973-) — United Nations Development Programme (聯合國開發計劃署) — Economic Consultant — (1975-1978) — United Nations University — Chief Academic Review Officer, Senior Academic Reviewer, Deputy Director of Institute of Advanced Studies, Honorary Professor — Taipei Economic and Cultural Representative Office in Japan (台北駐日經濟文化代表處) — Ambassador — (2000-2004) — Taiwan-Japan Relations Association (臺灣日本關係協會) — President — (2004-2007) — Community — Taiwanese Association of America / Greater Philadelphia Chapter (大費城台灣同鄉會) — President (1964) — United Formosans in America for Independence — Co-Founder (1966) — Taiwan Tribune (台灣公論報) — First Publisher (1981)
 <!-- tah-tables:end -->
+
+## Notable Firsts and Career (absorbed from cited TAH sources)
+
+- First person to testify for Taiwan's future before the U.S. Congress Senate, 1983-11-09 (TAH #364)
+- First publisher of Taiwan Tribune 台灣公論報, 1981 (TAH #1); first holder of a visa issued by the United Nations (TAH #2)
+- Co-founder, United Formosans in America for Independence, 1966 — [[organizations/united-formosans-for-independenceufi||UFAI]]
+- President, [[organizations/taiwanese-association-of-america-greater-philadelphia||TAA Greater Philadelphia Chapter 大費城台灣同鄉會]], 1964
+- UN career: Consad Research Co. researcher (1968–), Director of United Nations Centre for Regional Development (1973–), UNDP 聯合國開發計劃署 Economic Consultant (1975–1978), United Nations University — Chief Academic Review Officer, Senior Academic Reviewer, Deputy Director of Institute of Advanced Studies, Honorary Professor
+- Ambassador, Taipei Economic and Cultural Representative Office in Japan 台北駐日經濟文化代表處 (2000–2004); President, Taiwan-Japan Relations Association 臺灣日本關係協會 (2004–2007)
 
 ## Family
 

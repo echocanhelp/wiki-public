@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-09-08
+last_reviewed: 2026-09-10
 ---
 # Meifeng Tsai (王梅鳳)
 
@@ -33,6 +33,11 @@ last_reviewed: 2026-09-08
 
 - **2024-11** — named among the **38位董事** in the 第26周年年會晚宴 announcement (TJ archive `20250420093345…`)
 - Board archive snapshot: `knowledge/web-archives/taiwancenter-org-board.md`
+
+## Public roles beyond the board (vault-sourced)
+
+- 2021-05 — co-initiator of the 南加州僑界支持台灣參與WHA聯合聲明 (recorded with name variant 王梅鳯) — an overseas-Taiwanese campaign for World Health Assembly participation
+- 2025 — thanked as 僑務委員 (overseas Taiwanese-affairs commissioner) among sponsors of 台美人傳統週 — see [[events/tc-event-2025-traditional-week||2025 台美人傳統週]]
 
 ## Related Pages
 
