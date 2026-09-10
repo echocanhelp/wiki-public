@@ -37,6 +37,10 @@ last_reviewed: 2026-09-10
 - Member of Advisory Board for numerous institutions in Taiwan, Hong Kong & U.S.A. — Editorial Advisory Board of 25 scientific journals
 <!-- tah-tables:end -->
 
+## Career & Community Note
+
+Lee Kuo-hsiung's research career is one of the longest academic trajectories in the TAH Who's Who corpus: from a B.S. in Pharmacy at Kaohsiung Medical University (1961) through Kyoto University (1965) and a Ph.D. in Medicinal Chemistry at the University of Minnesota (1968), he spent over fifty years on the faculty of the Eshelman School of Pharmacy at the University of North Carolina at Chapel Hill — rising from Assistant Professor (1970) to Kenan Distinguished Professor (1992–), Division Chairman (1998–1999), and Director of the Natural Products Research Laboratories (1983–). His public service bridged the two coasts: he chaired the Ministry of Economic Affairs' Committee for the Promotion of Chinese Herbal Medicine Industry and Technology (2000–2005) and held chair/honorary professorships at China Medical University and Hospital (2010–) and Kaohsiung Medical University's College of Pharmacy (2011–). His documented student-years institutions — Chapel Hill and Minnesota — each have their own Taiwanese student community pages in the vault ([[organizations/university-of-north-carolina-at-chapel-hill-taiwanese-student-association||UNC Chapel Hill TSA]], [[organizations/university-of-minnesota-taiwanese-student-association||University of Minnesota TSA]]).
+
 ## Family
 
 _No filled family fields on the TAH profile._
