@@ -49,11 +49,10 @@ TAHS onboarding should help a new member understand:
 Pages that link to **tahs-member-onboarding** (tahs-member-onboarding):
 
 
-### People (3)
+### People (2)
 
 1. [[people/david-lee|david-lee]]
-2. [[people/rex-chen|rex-chen]]
-3. [[people/index|index]]
+2. [[people/index|index]]
 
 ## Related Pages
 

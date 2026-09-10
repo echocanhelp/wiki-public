@@ -44,11 +44,22 @@ Essay headings he used: 高舉基督福音；分享豐盛生命；教導全備�
 
 ## Network
 
-Pages that link to **cai-weiren**:
+Pages that link to **cai-weiren** (cai-weiren):
 
-- [[people/david-huang|黃德利]] — GSTPC40 co-contributor, names Cai among the first seven youth counselors
-- [[organizations/good-shepherd-taiwanese-presbyterian-church|GSTPC]] — home congregation, 第二任牧師
-- [[sources/irvine-taiwanese-presbyterian-church|Irvine Taiwanese Presbyterian Church]] — linked in source records
+
+### People (2)
+
+1. [[people/index|index]]
+2. [[people/index|index]]
+
+### Organizations (2)
+
+1. [[organizations/good-shepherd-taiwanese-presbyterian-church|good-shepherd-taiwanese-presbyterian-church]]
+2. [[organizations/index|index]]
+
+### Sources (1)
+
+1. [[sources/irvine-taiwanese-presbyterian-church|irvine-taiwanese-presbyterian-church]]
 
 ## Related Pages
 
