@@ -58,9 +58,15 @@ Laijohn TOC v2 — bodies not archived:
 - [[people/john-lai||John Lai]] and [[organizations/elder-john-lai-archives||Elder John Lai Archives]] — 教會史話 trail (201 名醫神技, 301 馬雅各紀念教會史)
 - [[organizations/good-shepherd-taiwanese-presbyterian-church||Good Shepherd Taiwanese Presbyterian Church]] — 該教會頁將 Maxwell（與 [[people/george-leslie-mackay||馬偕]]）列為台灣長老教會宣教起源人物
 
+## Legacy (vault-sourced)
+- The 1865-06-16 Tainan congregation is the clock the [[organizations/presbyterian-church-in-taiwan||PCT]] still marks as its anniversary; [[organizations/good-shepherd-taiwanese-presbyterian-church||GSTPC]] likewise lists Maxwell (with [[people/george-leslie-mackay||馬偕]]) as an origin figure of the Presbyterian mission in Taiwan
+- The 教會史話 trail (201 名醫神技, 301 馬雅各紀念教會史) is preserved via [[people/john-lai||John Lai]] in the [[organizations/elder-john-lai-archives||Elder John Lai Archives]]
+
 ## Related Pages
 - [[people/george-leslie-mackay||馬偕]]
 - [[people/thomas-barclay||巴克禮]]
+- [[people/john-lai||John Lai]]
 - [[organizations/presbyterian-church-in-taiwan||PCT]]
+- [[organizations/good-shepherd-taiwanese-presbyterian-church||GSTPC]]
 - [[organizations/elder-john-lai-archives||史料庫]]
 - [[sources/laijohn-com||laijohn.com]]

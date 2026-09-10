@@ -26,6 +26,11 @@ last_reviewed: 2026-09-10
 - **Hub:** [[sources/taiwancenter-org||taiwancenter.org]]
 - **Content priority C:** Full biography not in this source set
 
+## Timeline
+- **2018** — elected 個人董事 at the 第11屆 會員大會 (largest board turnover in 會館 history)
+- **2024-11** — named among the 38位董事 in the 第26周年年會晚宴 announcement
+- **current snapshot** — serving as 副董事長 of [[organizations/taiwan-center||Taiwan Center]]
+
 ## Board record (vault-sourced)
 - **2018** — elected 個人董事 at the 第11屆 會員大會 (會訊 2018-06, TJ archive `20201118162555…`): 20 個人董事, 13 新任 — the largest board turnover in 會館 history
 - **Current site snapshot** — **副董事長** on the archived taiwancenter.org/board page (one of five 副董事長 alongside 蔡漢成, 劉玲華, 賴淑遠, 李賢群)

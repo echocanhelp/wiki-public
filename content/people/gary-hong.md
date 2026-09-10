@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Gary Hong (洪逸凡)
 
@@ -29,6 +29,19 @@ last_reviewed: 2026-08-17
 - Sandstone Gallery, Laguna Beach, CA — Exhibiting Artist — (2007-2007) — Bluebird Art Gallery, Whittier, CA — Exhibiting Artist — (2007-2007) — Agora Gallery, New York, NY — Exhibiting Artist — (2010-2011) — Neoart League — Member/Exhibiting Artist — (2008-2013) — Community — Orange County Taiwanese American Heritage Week Art Exhibition — Participating Artist — Taiwanese American Community Center, San Diego, CA — Solo Exhibiting Artist
 <!-- tah-tables:end -->
 
+## Timeline
+
+Absorbed from the on-page biography and tables (no external sources):
+
+- Born 1953 in 苗栗 (Miaoli), Taiwan; abstract painter.
+- Graduate studies at 東海大學美術研究所 (Tunghai University Graduate Institute of Fine Arts); continuing studies at Pasadena City College and Art Center College of Design (2010), studying the composition of abstract painting.
+- Multiple selections into the French Salon d'Automne (法國秋季沙龍) and the Salon des Artistes Français (法國藝術家沙龍).
+- 2007 — exhibiting artist at Sandstone Gallery (Laguna Beach, CA) and Bluebird Art Gallery (Whittier, CA).
+- 2008–2013 — member / exhibiting artist, Neoart League.
+- 2010–2011 — exhibiting artist at Agora Gallery, New York, NY.
+- Solo exhibiting artist at the Taiwanese American Community Center (San Diego, CA); participating artist, Orange County Taiwanese American Heritage Week Art Exhibition.
+- Aesthetics: pure color and inner world expressing emotion and life; vigorous lines creating an ethereal mood; recent mixed-media works add luminous color and three-dimensional depth.
+
 ## Family
 
 _No filled family fields on the TAH profile._
@@ -37,6 +50,13 @@ _No filled family fields on the TAH profile._
 - [TAH #3 encyclopedia: 3. 洪逸凡 Gary Hong](https://taiwaneseamericanhistory.org/artist3-gary-hong/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/gary-hong/)
 
+- Vault records: [[works/taiwaneseamericanhistory-org/artist3-gary-hong||TAH #3, 洪逸凡 Gary Hong]]
+
+## Connected in the Vault
+- Archival profile: [[works/taiwaneseamericanhistory-org/artist3-gary-hong|TAH #3 (artist profile)]]
+- Community hub: [[sources/taiwaneseamericanhistory-org-story-corpus|TAH story corpus hub]]
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus hub]]

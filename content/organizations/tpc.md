@@ -56,6 +56,10 @@ So: **same people, new layer.** PCT is origin (training, 漢名, liturgy). TPC i
 - [[organizations/formosan-presbyterian-church-in-los-angeles||Formosan Presbyterian Church in Los Angeles (FPCLA)]]
 - [[organizations/irvine-taiwanese-presbyterian-church||Irvine Taiwanese Presbyterian Church (ITPC)]]
 
+## Timeline anchor
+- **1970** — [[organizations/formosan-presbyterian-church-in-los-angeles||FPCLA]], first of the U.S. Taiwanese Presbyterian churches
+- **2020** — TPC 50週年: fifty years of the U.S. fellowship counted from FPCLA, **not** from PCT (1865 / 1951)
+
 ## Sister Churches
 
 - [[people/willy-pan||台北新教 (Willy Pan)]]

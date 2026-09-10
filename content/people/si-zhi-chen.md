@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Si Zhi Chen (陳泗治)
 
@@ -31,6 +31,20 @@ Si-Zhi CHEN was born in Shilin, Taipei in 1911. He attended Tamsui Senior High S
 - 啟師
 <!-- tah-tables:end -->
 
+## Timeline
+
+Absorbed from the on-page biography and tables (no external sources):
+
+- 1911 — born in Shilin (士林), Taipei.
+- Educated at Tamsui Senior High School; 台灣神學院 (Taiwan Theological College and Seminary) 1930–1934; studied piano with Minister Wu Wei-Lian and Ms. De Ming-Li.
+- 1934 — traveled to Japan to study composition at Tokyo Union Theological Seminary.
+- Returned to Taiwan; headmaster of 淡江中學 (Tamkang Senior High School), credited on-page with 25 years (table entry: 1952–1954, 校長).
+- 1955–1980 — headmaster of 純德女子學校.
+- Compositions noted for patriotism, nationalistic fervor, and rural characteristics; called "a master of all masters" by the renowned Taiwanese composer 呂泉生 (Lü Quan-Sheng).
+- 1992 — passed away in the US.
+
+Note: the on-page narrative ("25 years" at Tamkang) and the employment table (1952–1954) disagree; both retained as-is pending verification.
+
 ## Family
 
 - **Wife:** 劉淡梅
@@ -42,9 +56,15 @@ Si-Zhi CHEN was born in Shilin, Taipei in 1911. He attended Tamsui Senior High S
 - [TAH #371 encyclopedia: 371.台灣音樂哲人-陳泗治/卓甫見/2001/09/Biography/傳記](https://taiwaneseamericanhistory.org/publications371/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/si-zhi-chen/)
 
+- Vault records: [[works/taiwaneseamericanhistory-org/musician357||TAH #357, Composer & Educator (2016-08)]], [[works/taiwaneseamericanhistory-org/whoswho1252||TAH #1252]], [[works/taiwaneseamericanhistory-org/publications371||TAH #371, 台灣音樂哲人傳記 by 卓甫見 (2001-09)]]
+
+## Connected in the Vault
+- Archival profiles: [[works/taiwaneseamericanhistory-org/musician357|TAH #357 (Composer & Educator)]] · [[works/taiwaneseamericanhistory-org/whoswho1252|TAH #1252]] · [[works/taiwaneseamericanhistory-org/publications371|TAH #371 (2001-09 biography)]]
+- Community hub: [[sources/taiwaneseamericanhistory-org-story-corpus|TAH story corpus hub]]
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-
+- [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus hub]]
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who

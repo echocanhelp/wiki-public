@@ -26,6 +26,12 @@ last_reviewed: 2026-09-10
 - **Hub:** [[sources/taiwancenter-org||taiwancenter.org]]
 - **Content priority C:** Full biography not in this source set
 
+## Timeline
+- **2018** — elected 個人董事 at the 第11屆 會員大會 (largest board turnover in 會館 history)
+- **2021-05** — co-initiator of the 南加州僑界支持台灣參與WHA聯合聲明
+- **2024-11** — named among the 38位董事 in the 第26周年年會晚宴 announcement
+- **2025** — thanked as 僑務委員 among 台美人傳統週 sponsors ([[events/tc-event-2025-traditional-week||2025 台美人傳統週]])
+
 ## Board record (vault-sourced)
 - **2018** — elected 個人董事 at the 第11屆 會員大會 (會訊 2018-06, TJ archive `20201118162555…`): 20 個人董事, 13 新任 — the largest board turnover in 會館 history
 - **2021-05** — co-initiator, 南加州僑界支持台灣參與WHA聯合聲明 (listed as 王梅鳯)
