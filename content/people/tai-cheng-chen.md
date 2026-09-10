@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Dr. Tai-Cheng Chen (陳泰成博士)
 
@@ -29,6 +29,16 @@ A native of Taiwan, Tai-Cheng Chen began playing the piano at the age of six; by
 ## Employment
 - 國立台北藝術大學 (Taipei National University of the Arts) — 1987-2012 — 教授
 <!-- tah-tables:end -->
+
+## Career & Honors
+
+Absorbed from the TAH profile above:
+
+- Began piano at age six; won his first piano competition in Taipei at nine; within the next two years placed first in a national Taiwanese piano competition and performed a Mozart piano concerto with the Taiwan Symphony Orchestra.
+- Moved to Austria at fifteen to attend the Vienna Musikhochschule (演奏家文憑, 1971); at nineteen won its internal piano competition and completed the Concert Artist program with the school's highest honor, Unanimous Distinction.
+- The following year won the prestigious Vienna International Music Festival Competition in a performance televised worldwide.
+- Earned his D.M.A. at the Juilliard School (茱麗亞學院, 1987) — described in the TAH encyclopedia as the first Ph.D. holder in music from the Juilliard School; professor at 國立台北藝術大學 (Taipei National University of the Arts), 1987–2012.
+- Family: wife 葉毓真; three daughters.
 
 ## Family
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Fang-Yuh Rita Chen (陳芳玉)
 
@@ -31,6 +31,15 @@ Accomplishment
 ## Employment
 - School of Musical Education — Teacher — (1967-) — Brooklyn Philharmonic Orchestra — Community — Westchester Taiwanese Women's Association (威郡台灣婦女會) — Co-Founder — Global Harmony Ensemble — Founder
 <!-- tah-tables:end -->
+
+## Career & Community
+
+Absorbed from the TAH profile above:
+
+- The first Taiwanese American to graduate from the Juilliard School of Music — Diploma in Piano (1967) and Post-Graduate Diploma in Piano (1968) — after a B.S. in Pharmacy at National Taiwan Univ. (1964).
+- Taught at the School of Musical Education from 1967 and appeared with the Brooklyn Philharmonic Orchestra.
+- Co-founder of the [[organizations/westchester-taiwanese-womens-associationwtwa||Westchester Taiwanese Women's Association]] (威郡台灣婦女會), a chapter affiliate of the [[organizations/north-america-taiwanese-womens-association||North America Taiwanese Women's Association]]; founder of the Global Harmony Ensemble.
+- Married to 郭季彥; two sons.
 
 ## Family
 

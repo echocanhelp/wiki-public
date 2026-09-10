@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Dr. Lii Mei Beverly Chang (張理美醫師)
 
@@ -31,6 +31,15 @@ Dr. Lii Mei (Beverly) Chang 張理美醫師 – History of Taiwanese American (T
 ## Employment
 - Saint Louis Univ. — Assistant Professor of Pathology and Hematology — (1975-1982) — SIMBA Pathology Services Corporation (南伊利諾州) — General Pathology and Forensic — (1982-1991) — SSM Health St. Joseph Hospital (聖喬瑟夫醫院) — Pathologist — (1991-2006) — Metropolitan Urological Specialists — Pathologist in Urology Pathology — (2006-2008) — Community — St. Louis Branch of North American Taiwanese Medical Association (美台灣醫師協會聖路易分會) — President (1997) — TAA/STL (聖路易台灣同鄉會) — President (2014 & 2015) — Taiwanese Presbyterian Church in Greater STL — Elder
 <!-- tah-tables:end -->
+
+## Career & Community
+
+Absorbed from the TAH profile tables above:
+
+- Earned her M.D. at Kaohsiung Medical Univ. (1969), followed by pathology training at the Univ. of Alabama in Birmingham (1971–1972), Washington Univ. in St. Louis (1972–1975), and St. Louis Univ. (1981–1982).
+- Assistant Professor of Pathology and Hematology at Saint Louis Univ. (1975–1982); General Pathology and Forensic pathology at SIMBA Pathology Services Corporation, southern Illinois (1982–1991); Pathologist at SSM Health St. Joseph Hospital (1991–2006); Pathologist in Urology Pathology at Metropolitan Urological Specialists (2006–2008).
+- Community leadership in the St. Louis Taiwanese community: President of the St. Louis Branch of the North American Taiwanese Medical Association ([[organizations/north-american-taiwanese-medical-association-foundation||NATMA]], 美台灣醫師協會聖路易分會) in 1997; President of TAA/STL (聖路易台灣同鄉會) in 2014 and 2015 — see [[organizations/taiwanese-association-of-america-in-greater-st-louis||TAA in Greater St. Louis]]; Elder at the Taiwanese Presbyterian Church in Greater STL.
+- Family: husband Cheng C. Tsai; daughter Christina (君青); son Phillip (君柏).
 
 ## Family
 
