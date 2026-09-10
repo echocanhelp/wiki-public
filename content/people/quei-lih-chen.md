@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Quei-Lih Chen (陳瑰麗)
 
@@ -34,6 +34,13 @@ Pianist Quei-Lih Chen, a native of Tainan, Taiwan, made her first public appeara
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Career Record
+- **Debut at 13** — Tainan Junior Symphony Orchestra, Mozart Piano Concerto no. 23, K488, conductor Chao-Ming Cheng
+- Peabody Conservatory of the Johns Hopkins University — B.M./M.M.; five years there, incl. chamber-music exposure with Samuel Sanders
+- First prizewinner, Elizabeth Davis Piano Competition (Washington D.C.); consequently invited to the Friday Morning Club as a performing member
+- Full scholarship to the University of Southern California, studies with Daniel Pollack; **2001** — Doctor of Musical Arts in Piano Performance with minors in Instrumental Conducting and Piano Accompanying
+- TAH encyclopedia entries in vault: [[works/taiwaneseamericanhistory-org/419-quei-lih-chen-e9-99-b3-e7-91-b0-e9-ba-97-201505||#419]] · [[works/taiwaneseamericanhistory-org/54-quei-lih-chen-e9-99-b3-e7-91-b0-e9-ba-97-piano||#54, Pianist]]
 
 ## Sources
 - [TAH #419 encyclopedia: 419. Quei-Lih Chen 陳瑰麗 / 2015/05](https://taiwaneseamericanhistory.org/419-quei-lih-chen-%e9%99%b3%e7%91%b0%e9%ba%97-201505/)

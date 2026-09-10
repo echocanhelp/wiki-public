@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Yu-Ru Huang 䈎 (郁如)
 
@@ -40,6 +40,12 @@ Yu-Ru is a multimedia artist, artist teacher, art director, and curator. She rec
 - [TAH #539 encyclopedia: 539. Yu-Ru Huang 䈎郁如 /2015/08](https://taiwaneseamericanhistory.org/whos-yu-ru-huang/)
 - [TAH #52 encyclopedia: 52. 䈎郁如 Yu-Ru Huang/2015/07](https://taiwaneseamericanhistory.org/artist52-yu-ru-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yu-ru-huang/)
+
+## In-vault source pages
+Her TAH encyclopedia entries are archived in the vault:
+- [[works/taiwaneseamericanhistory-org/artist52-yu-ru-huang||TAH #52 — 䈎郁如 Yu-Ru Huang, artist (2015/07)]]
+
+Community institutions named in her profile (Asia Society Houston development committee, TFAA public-art collaboration, city of Houston Citizenship Month committee) do not have dedicated vault pages yet.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

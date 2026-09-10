@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Yi-Ho Cheng (鄭義和)
 
@@ -40,6 +40,14 @@ _No filled family fields on the TAH profile._
 - [TAH #192 encyclopedia: 192. Yi-Ho Cheng 鄭義和](https://taiwaneseamericanhistory.org/192-yi-ho-cheng/)
 - [TAH #5 encyclopedia: 5. Yi-Ho Cheng 鄭義和 / The First president of Formosa Club of America 全美台灣同鄉會 / 19](https://taiwaneseamericanhistory.org/ff5/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yi-ho-cheng/)
+
+## Community activity (in-vault detail)
+- President of the [[organizations/taiwanese-american-association-new-york||大紐約台灣同鄉會 Taiwanese American Association of New York]] (1970); also first president of Formosa Club of America (全美台灣同鄉會總會 — no dedicated vault page yet).
+- Long association with [[people/peng-ming-min||彭明敏 Peng Ming-min]]: director of his office (1992–), campaign chief of staff (彭明敏競選總部 執幕僚長), and initiator/managing director and later chairman of the Peng MingMin Foundation (財團法人彭明敏文教基金會).
+
+His TAH encyclopedia entries are archived in the vault:
+- [[works/taiwaneseamericanhistory-org/whos-who-2204-yi-ho-cheng||TAH Who's Who #2204 — Yi-Ho Cheng 鄭義和]]
+- [[works/taiwaneseamericanhistory-org/192-yi-ho-cheng||TAH #192 — Yi-Ho Cheng 鄭義和]]
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

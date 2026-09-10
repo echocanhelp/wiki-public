@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Shwu Lih Lin (林淑麗)
 
@@ -44,6 +44,15 @@ Accomplishment
 - [TAH #77 encyclopedia: 77. Ms. Sue Lin 林淑麗 / The first book donation of Taiwanese Literature (English e](https://taiwaneseamericanhistory.org/77-ms-sue-lin-%e6%9e%97%e6%b7%91%e9%ba%97-the-first-book-donation-of-taiwanese-literature-english-edition-to-public-libraries-2002/)
 - [TAH #7 encyclopedia: 7. Shwu Lih Lin 林淑麗](https://taiwaneseamericanhistory.org/whos-who-7-shwu-lih-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shwu-lih-lin/)
+
+## Community activity (in-vault detail)
+- Co-founder and former director of the [[organizations/the-great-new-york-region-oversea-taiwanese-pen-club||Greater New York Region Overseas Taiwanese Pen Club]]
+- Former president, NATEA (北美台灣工程師協會) Greater New York Chapter — see [[works/taiwaneseamericanhistory-org/activities-of-natea||Activities of NATEA]] for in-vault NATEA history (chapter page: [[organizations/natea-southern-california||NATEA]]).
+
+Her TAH encyclopedia entries are archived in the vault:
+- [[works/taiwaneseamericanhistory-org/79-ms-sue-lin-e6-9e-97-e6-b7-91-e9-ba-97-the-first-speech-on-becoming-american-t||TAH #79 — first speech on becoming American, Cranbury NJ Woman Club (2002)]]
+- [[works/taiwaneseamericanhistory-org/78-ms-sue-lin-e6-9e-97-e6-b7-91-e9-ba-97-the-first-seminar-of-taiwanese-literatu||TAH #78 — first seminar of Taiwanese literature, English edition (2002)]]
+- [[works/taiwaneseamericanhistory-org/77-ms-sue-lin-e6-9e-97-e6-b7-91-e9-ba-97-the-first-book-donation-of-taiwanese-li||TAH #77 — first book donation of Taiwanese literature to public libraries (2002)]]
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

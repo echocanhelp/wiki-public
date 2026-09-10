@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Chihchun Chi-sun Lee (李志純)
 
@@ -42,6 +42,11 @@ _No filled family fields on the TAH profile._
 - [TAH #107 encyclopedia: 107. Chihchun Chi-sun Lee 李志純, Composer/2014/12](https://taiwaneseamericanhistory.org/107-chihchun-chi-sun-lee-%e6%9d%8e%e5%bf%97%e7%b4%94-composer/)
 - [TAH #186 encyclopedia: 186. Chihchun Chi-sun Lee 李志純](https://taiwaneseamericanhistory.org/186-chihchun-chi-sun-lee-%e6%9d%8e%e5%bf%97%e7%b4%94/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chihchun-chi-sun-lee/)
+
+## In-vault source pages
+Her TAH encyclopedia entries are archived in the vault:
+- [[works/taiwaneseamericanhistory-org/107-chihchun-chi-sun-lee-e6-9d-8e-e5-bf-97-e7-b4-94-composer||TAH #107 — Chihchun Chi-sun Lee 李志純, Composer (2014/12)]]
+- [[works/taiwaneseamericanhistory-org/186-chihchun-chi-sun-lee-e6-9d-8e-e5-bf-97-e7-b4-94||TAH #186 — Chihchun Chi-sun Lee 李志純]]
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
