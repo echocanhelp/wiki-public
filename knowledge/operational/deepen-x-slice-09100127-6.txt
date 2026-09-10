@@ -1,0 +1,4 @@
+people/chen-ming-wang.md
+people/james-laidlaw-maxwell.md
+people/danny-chen.md
+people/george-lee.md

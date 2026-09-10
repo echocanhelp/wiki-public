@@ -68,7 +68,7 @@ for i in range(NCARDS):
     r = subprocess.run(['hermes', 'kanban', 'create',
                         title,
                         '--assignee', 'pinto', '--body', 'pending',
-                        '--max-runtime', '1500'],
+                        '--max-runtime', '2400'],
                        capture_output=True, text=True)
     tid = re.search(r't_[0-9a-f]+', r.stdout)
     if tid:

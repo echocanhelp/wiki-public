@@ -1,15 +1,8 @@
 {
   "version": 1,
-  "last_run": "2026-09-09",
+  "last_run": "2026-09-10",
   "standards_version_seen": 10,
   "runs": [
-    {
-      "date": "2026-08-06",
-      "candidates": 29220,
-      "selected": 5,
-      "standards_version": 8,
-      "standards_bumped": false
-    },
     {
       "date": "2026-08-07",
       "candidates": 29219,
@@ -209,6 +202,13 @@
     {
       "date": "2026-09-09",
       "candidates": 115,
+      "selected": 40,
+      "standards_version": 10,
+      "standards_bumped": false
+    },
+    {
+      "date": "2026-09-10",
+      "candidates": 128,
       "selected": 40,
       "standards_version": 10,
       "standards_bumped": false
@@ -560,35 +560,7 @@
       ]
     },
     {
-      "path": "people/sonia-lee.md",
-      "findings": [
-        "LINK_BODY_SPARSE"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
       "path": "people/ralph-su.md",
-      "findings": [
-        "LINK_BODY_SPARSE"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "people/bach-ying-chun-wu.md",
       "findings": [
         "LINK_BODY_SPARSE"
       ],
@@ -784,10 +756,38 @@
       ]
     },
     {
-      "path": "events/sc-taiwancenter-org-event-groundbreaking-ceremony.md",
+      "path": "people/john-chang.md",
+      "findings": [
+        "LINK_BODY_SPARSE"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "people/prof-sze-ya-yeh.md",
+      "findings": [
+        "LINK_BODY_SPARSE"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "people/grace-chung.md",
       "findings": [
         "DESC_NO_TITLE_MENTION",
-        "LINKS_NO_RELATED"
+        "LINKS_LOW_DENSITY"
       ],
       "hygiene": [],
       "instructions": [
@@ -800,7 +800,7 @@
       "priority": "medium"
     }
   ],
-  "last_candidates": 115,
+  "last_candidates": 128,
   "last_selected": [
     "people/chen-po-kong.md",
     "people/du-ao-cunfu.md",
@@ -826,9 +826,7 @@
     "people/j-m-chiang.md",
     "people/leona-chen.md",
     "people/jolan-hsieh.md",
-    "people/sonia-lee.md",
     "people/ralph-su.md",
-    "people/bach-ying-chun-wu.md",
     "people/prof-yang-en-cheng.md",
     "people/milo-thornberry.md",
     "people/wudong-huang.md",
@@ -841,6 +839,8 @@
     "people/rong-hu-lu.md",
     "people/dr-ching-k-lin.md",
     "people/chi-yi-chen.md",
-    "people/janet-tsai.md"
+    "people/janet-tsai.md",
+    "people/john-chang.md",
+    "people/prof-sze-ya-yeh.md"
   ]
 }

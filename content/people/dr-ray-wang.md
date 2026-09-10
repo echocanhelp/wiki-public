@@ -46,7 +46,7 @@ Accomplishment
 
 ## Connected in the Vault
 
-His biographical entry is [[works/taiwaneseamericanhistory-org/whos-who-2306-ray-wang||TAH #2306 (published 2021-01-18)]], held in [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]] and published by the [[organizations/taiwaneseamericanhistory-org|TAH encyclopedia project]]. His Professors'-Association leadership is documented in the vault at [[organizations/north-america-taiwanese-professors-sc||North America Taiwanese Professors' Association Southern California]] (the association's vault record for its chapter structure).
+His biographical entry is [[works/taiwaneseamericanhistory-org/whos-who-2306-ray-wang||TAH #2306 (published 2021-01-18)]], held in [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]. His Professors'-Association leadership is documented in the vault at [[organizations/north-america-taiwanese-professors-sc||North America Taiwanese Professors' Association Southern California]] (the association's vault record for its chapter structure).
 
 ## Sources
 - [TAH #2306 encyclopedia: 2306. Dr. Ray Wang 王瑞華博士](https://taiwaneseamericanhistory.org/whos-who-2306-ray-wang/)
