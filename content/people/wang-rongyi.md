@@ -13,6 +13,14 @@ last_reviewed: 2026-09-10
 
 **Wang Rongyi (王榮義)** — Choir (合唱團) instructor at Taiwan Center. Per the Taiwan Center class listing, he leads the 合唱 class (Taiwan Center Choir) on Saturdays 15:00–16:00 ($20), alongside language and cultural classes taught by [[people/joyce-yeh||Joyce Yeh (葉怡蘭)]], [[people/joseph-teng||Joseph Teng (曾英銘)]], and [[people/samantha-yu||Samantha Yu (游蕙綾)]].
 
+## Teaching at Taiwan Center (deepened 2026-09-10, vault-internal)
+
+Absorbed from the cited class-listing source (`taiwancenter-org-class-information.md`):
+
+- **Class:** 合唱 (Taiwan Center Choir) — Saturdays 15:00–16:00, $20.
+- **Same Saturday 15:00–16:00 block:** the 華文 (Chinese) class co-taught by [[people/he-sumei||He Sumei (何素美)]] and [[people/shi-yuli||Shi Yuli (施郁麗)]]; language and cultural classes by [[people/joyce-yeh||Joyce Yeh (葉怡蘭)]], [[people/joseph-teng||Joseph Teng (曾英銘)]], and [[people/samantha-yu||Samantha Yu (游蕙綾)]].
+- **Operating body:** the school is run by [[organizations/taiwan-center-foundation-of-greater-los-angeles||Taiwan Center Foundation of Greater Los Angeles]].
+
 ## Identity Snapshot
 
 - **English:** Wang Rongyi

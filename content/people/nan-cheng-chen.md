@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Nan-Cheng Chen (陳南呈)
 
@@ -38,6 +38,16 @@ _No filled family fields on the TAH profile._
 - [TAH #32 encyclopedia: 32. Nan-Cheng Chen 陳南呈, Cellist/2014/10](https://taiwaneseamericanhistory.org/32-nan-cheng-chen-%e9%99%b3%e5%8d%97%e5%91%88-cello/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/nan-cheng-chen/)
 
+## Career & Milestones
+Absorbed from the profile text, Employment table, and cited TAH encyclopedia entries:
+- Award-winning cellist trained at The Juilliard School (B.S. Music).
+- Praised for his "Beautiful Tone" by New York Concert Reviews (2011); Worcester Telegram and Gazette reviewed a performance as "the kind of performance one might hear live only once a decade."
+- Founded the New Asia Chamber Music Society (NACMS) at age 25 and serves as its executive director.
+- Member of Sonic Escape (2013–) and the Chen Trio, among other active NYC music ensembles.
+- Active soloist: has collaborated with the Simon Bolivar Orchestra, Queens Symphony Orchestra, Metro-West Symphony, Quincy Symphony, and Symphony Pro Musica.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/516-nan-cheng-chen-e9-99-b3-e5-8d-97-e5-91-88||TAH #516: Nan-Cheng Chen 陳南呈]]
+- [[works/taiwaneseamericanhistory-org/32-nan-cheng-chen-e9-99-b3-e5-8d-97-e5-91-88-cello||TAH #32: Nan-Cheng Chen, Cellist]]

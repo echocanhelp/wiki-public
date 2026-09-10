@@ -2,7 +2,10 @@
 title: "Guo Yingyan (郭應言)"
 type: person
 tags:
-  - 
+  - person
+  - clergy
+  - ITPC
+  - Taiwanese-American
 verification_status: pending
 last_reviewed: 2026-09-10
 ---

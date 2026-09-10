@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Ruth Yeh (葉李麗貞)
 
@@ -43,6 +43,21 @@ last_reviewed: 2026-08-17
 - [TAH #85 encyclopedia: 85. Mrs. Ruth Yeh 葉李麗貞 / First nurse / 1956](https://taiwaneseamericanhistory.org/85-mrs-ruth-yeh-%e8%91%89%e6%9d%8e%e9%ba%97%e8%b2%9e-first-nurse-1956/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ruth-yeh/)
 
+## Career & Milestones
+Absorbed from the profile text, Employment table, and cited TAH encyclopedia entries:
+- Born 1932 in 基隆, Taiwan; educated at 台北護理學校.
+- Pioneering "firsts" recorded in the TAH encyclopedia: first nurse (TAH #85, 1956), first Marriage and Family Therapist 第一位婚姻與家庭治療師 (TAH #86, 1985), and first family and marriage clinic (TAH #99, 1986).
+- President of a Family and Marriage Clinic; psychotherapist (心理治療師) at the Family Enrichment Center.
+- Received the Lifetime Achievement Award from the Texas Association for Marriage and Family Therapy (2020).
+- Writer: columnist for the 路德信箱 column in 台灣公論報, author of 成功的溝通—從家庭開始 (2010); her life story is told in 楊遠薰's 人生若夢─心理治療家葉李麗貞的故事.
+- Husband: 葉國勢.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/72-ruths-award-from-tamft||TAH #72: Ruth Yeh — Lifetime Achievement Award from TAMFT]]
+- [[works/taiwaneseamericanhistory-org/85-mrs-ruth-yeh-e8-91-89-e6-9d-8e-e9-ba-97-e8-b2-9e-first-nurse-1956||TAH #85: Ruth Yeh, First nurse / 1956]]
+- [[works/taiwaneseamericanhistory-org/86-mrs-ruth-yeh-e8-91-89-e6-9d-8e-e9-ba-97-e8-b2-9e-first-marriage-and-family-th||TAH #86: Ruth Yeh, First Marriage and Family Therapist / 1985]]
+- [[works/taiwaneseamericanhistory-org/99-mrs-ruth-yeh-e8-91-89-e6-9d-8e-e9-ba-97-e8-b2-9e-first-family-and-marriage-cl||TAH #99: Ruth Yeh, First family and marriage clinic / 1986]]
+- [[works/taiwaneseamericanhistory-org/ruth-mail-box||Ruth Mail Box 路德信箱 (台灣公論報)]]
+- [[works/taiwaneseamericanhistory-org/mystories243||人生若夢─心理治療家葉李麗貞的故事 / 楊遠薰]]

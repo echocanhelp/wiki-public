@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Prof. Fong-Yong Tsai (蔡芳洋教授)
 
@@ -17,7 +17,7 @@ last_reviewed: 2026-08-17
 - **Era:** 1941
 - **Geography:** Taipei, Taiwan
 - **Core roles:** physician, professor, educator
-- **Source:** TAH Foundation Who’s Who
+- **Source:** TAH Foundation Who's Who
 
 Prof. Fong-Yong Tsai 蔡芳洋教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
@@ -29,6 +29,21 @@ Prof. Fong-Yong Tsai 蔡芳洋教授 – History of Taiwanese American (T.A. Arc
 - University of California, Irvine, School of Medicine — Professor and Chairman — (2000-2006) — University of California, Irvine, School of Medicine — Professor — (2007-2011) — Allegheny/Hahnemann University — Professor and Chairman — (1995-2000) — University of Missouri, Kansas City — Professor and Chairman — (1983-1994) — Keck School of Medicine of USC — Associate Professor — (1977-1983) — Albany Medical Center — Assistant Professor — (1973-1977) — Thomas Jefferson University Medical Center — Resident — (1969-1973) — Community — Taiwan Association of Kansas City (堪薩斯台灣同鄉會) — President (1988) — NATPA Southern California Chapter (北美洲台灣人教授協會南加州分會) — President (2007-2008)
 <!-- tah-tables:end -->
 
+## Timeline
+- **1941** — Born; associated with Taipei, Taiwan.
+- **1966** — M.D., Taipei Medical Univ.
+- **1969–1973** — Resident, Thomas Jefferson University Medical Center.
+- **1973–1977** — Assistant Professor, Albany Medical Center.
+- **1977–1983** — Associate Professor, Keck School of Medicine of USC.
+- **1983–1994** — Professor and Chairman, University of Missouri, Kansas City; during this Kansas City period served as President of the Taiwan Association of Kansas City (堪薩斯台灣同鄉會) in 1988.
+- **1995–2000** — Professor and Chairman, Allegheny/Hahnemann University.
+- **2000–2006** — Professor and Chairman, University of California, Irvine, School of Medicine.
+- **2007–2011** — Professor, University of California, Irvine, School of Medicine; President of the NATPA Southern California Chapter (北美洲台灣人教授協會南加州分會), 2007–2008.
+
+## Professional & Community Network
+- Academic medicine chain across the U.S. East and West coasts: Thomas Jefferson, Albany, USC Keck, UMKC, Allegheny/Hahnemann, and UC Irvine, rising from resident to chair of two departments.
+- Community leadership in the Taiwanese American movement: President of the Taiwan Association of Kansas City (1988) and of the NATPA Southern California Chapter (2007–2008).
+
 ## Family
 
 - **Wife:** Jean C. (鄭靜子)
@@ -39,7 +54,7 @@ Prof. Fong-Yong Tsai 蔡芳洋教授 – History of Taiwanese American (T.A. Arc
 ## Sources
 - [TAH #69 encyclopedia: 69. Prof. Fong-Yong Tsai 蔡芳洋教授](https://taiwaneseamericanhistory.org/69-prof-fong-yong-tsai/)
 - [TAH #602 encyclopedia: 602. Prof. Fong-Yong Tsai 蔡芳洋教授](https://taiwaneseamericanhistory.org/whos-who-602-fong-yong-tsai/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-fong-yong-tsai/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/prof-fong-yong-tsai/)
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

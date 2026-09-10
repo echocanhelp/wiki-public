@@ -21,6 +21,21 @@ last_reviewed: 2026-09-10
 
 A native of Taiwan, Assistant Concertmaster Huei-Sheng Kao started violin studies at age six with private lessons and played in the BBC Children’s Orchestra in Taiwan for several years. He made his first public appearance at eight, and at the age of eleven won a national violin competition which brought him a solo appearance in the Mendelssohn Violin Concerto with the Chinese Youth Orchestra. He spent a summer at Interlochen, where he played the Wieniawski Violin Concerto. From 1971 to 1977 Mr. Kao attended the Curtis Institute of Music in Philadelphia, where he studied with Ivan Galamian and Jaime Laredo. After earning his diploma in 1977 he joined the Pittsburgh Symphony and was appointed Assistant Concertmaster in the 1979-80 season. In the spring of 1980 he appeared with the Orchestra as a subscription-concert soloist in Vivaldi’s Concerto for Four Violins. In November 1989 he performed Sibelius’ Violin Concerto with the Capetown Symphony Orchestra. Mr. Kao teaches privately. He and his wife Monica have two young children, Alexander and Caroline.
 
+## Timeline
+
+Built from the on-page TAH bio (sources below; no new facts added):
+
+- **Childhood, Taiwan** — Began violin at age six with private lessons; played several years in the BBC Children's Orchestra in Taiwan
+- **Age 8** — First public appearance
+- **Age 11** — Won a national violin competition; solo appearance in the Mendelssohn Violin Concerto with the Chinese Youth Orchestra
+- **Summer (pre-Curtis)** — Attended Interlochen, played the Wieniawski Violin Concerto
+- **1971–1977** — Curtis Institute of Music, Philadelphia; studied with Ivan Galamian and Jaime Laredo; diploma 1977
+- **1977** — Joined the [[organizations/taiwanese-association-of-america-pittsburgh|Pittsburgh]]-based Pittsburgh Symphony
+- **1979–80 season** — Appointed Assistant Concertmaster of the Pittsburgh Symphony
+- **Spring 1980** — Subscription-concert soloist with the Orchestra in Vivaldi's Concerto for Four Violins
+- **November 1989** — Performed Sibelius' Violin Concerto with the Capetown Symphony Orchestra
+- **Since** — Teaches privately; family: wife Monica, children Alexander and Caroline
+
 <!-- tah-tables:start -->
 ## Education
 - Curtis Institute of Music — 1977 — Musice
