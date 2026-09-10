@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Prof. Hsing-Jien Kung (龔行健教授)
 
@@ -39,5 +39,9 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-hsing-jien-kung/)
 
 ## Related Pages
+- [[organizations/taiwanese-american-organization-at-uc-davis|Taiwanese American Organization at UC Davis]] — 任教科室所在地學生社團 (UC Davis, 1998–2012)
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Deepen pass (2026-09-10)
+- NHRI、Taipei Medical University 無 vault 頁面；UC Davis 社團連結為地域關聯，非本人成員事實。

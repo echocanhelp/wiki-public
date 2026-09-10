@@ -7,19 +7,29 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Ching-Yun Hu (胡瀞云)
 
 ## Identity Snapshot
 - **English:** Ching-Yun Hu
 - **Chinese:** 胡瀞云
-- **Era:** Birth Place
-- **Geography:** 台灣台北
-- **Core roles:** professor, artist, educator
+- **Born:** 台灣台北
+- **Geography:** Taiwan (Taipei) → United States
+- **Core roles:** pianist, professor, artist, educator
 - **Source:** TAH Foundation Who’s Who
 
 Ching-Yun Hu was named a winner of the 2009 Concert Artists Guild International Competition. In 2008, she captured the top prize and the Audience Favorite Prize at the 12th Arthur Rubinstein International Piano Master Competition in Tel Aviv, resulting in a seven-city tour across Israel and a special invitation from the Israel Philharmonic Orchestra to perform Beethoven’s Piano Concerto #4 on only a week’s notice. Subsequently, her career has flourished with a host of engagements on five continents.
+
+## Absorbed Facts (from TAH cites, 2026-09-10)
+- Born in 台北, Taiwan
+- Piano training at 茱莉亞音樂學院 (The Juilliard School), earning both B.S. and M.S. in Music
+- Teaches at the Esther Boyer College of Music of Temple University (美國費城天普大學)
+- Career engagements span five continents
+
+## Timeline
+- **2008** — won the top prize and the Audience Favorite Prize at the 12th Arthur Rubinstein International Piano Master Competition (Tel Aviv); seven-city tour of Israel followed, plus a special invitation from the Israel Philharmonic Orchestra to perform Beethoven's Piano Concerto #4 on one week's notice
+- **2009** — named a winner of the Concert Artists Guild International Competition
 
 <!-- tah-tables:start -->
 ## Education

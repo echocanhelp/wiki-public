@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Prof. Tien‐Sung Tom Lin (林天送教授)
 
@@ -43,5 +43,9 @@ Prof. Tien‐Sung (Tom) Lin 林天送教授 – History of Taiwanese American (T
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-tien-sung-tom-lin/)
 
 ## Related Pages
+- [[organizations/taiwanese-student-association-at-syracuse-university|Taiwanese Student Association at Syracuse University]] — 同校留學脈絡 (Syracuse M.S., 1966)
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Deepen pass (2026-09-10)
+- Washington University、Argonne National Laboratory 無 vault 頁面，未加連結。

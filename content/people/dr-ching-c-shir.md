@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Dr. Ching C. Shir (石清正博士)
 
@@ -43,5 +43,10 @@ Accomplishment
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-ching-c-shir/)
 
 ## Related Pages
+- [[organizations/taiwan-center|Taiwan Center]] — 北加州共同創辦人 (per employment record)
+- [[organizations/taiwanese-american-federation-of-n-california|Taiwanese American Federation of N. California]] — 共同創辦人 (per employment record)
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Deepen pass (2026-09-10)
+- TAH #61/#296 記錄之 TAI(北加州)、Paradise Culture Associates 目前無對應 vault 頁面，未加連結。

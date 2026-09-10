@@ -30,6 +30,7 @@ last_reviewed: 2026-09-10
 - **20th Golden Melody Awards** — won 傳統藝術類「最佳演唱」獎
 - **2011-10** — received the Knowledge of the World Award from Johns Hopkins University as a 傑出校友 (first Taiwanese recipient)
 
+<!-- tah-tables:start -->
 ## Education
 - Peabody Conservatory of Johns Hopkins — B.S. 聲樂演唱 & 早期音樂 (dual major, 研究所)
 - Shenandoah Conservatory — Ph.D. 聲樂演唱
@@ -41,6 +42,7 @@ last_reviewed: 2026-09-10
 
 ## Employment
 - Shenandoah Conservatory — 大學部聲樂科任老師
+<!-- tah-tables:end -->
 
 ## Family
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Prof. Jyu-Hsiung Fang (方菊雄教授)
 
@@ -20,6 +20,23 @@ last_reviewed: 2026-08-17
 - **Source:** TAH Foundation Who’s Who
 
 Prof. Jyu-Hsiung Fang 方菊雄教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
+
+## Absorbed Facts (from TAH cites, 2026-09-10)
+- Born **1938** in Kaohsiung, Taiwan
+- Biology/botany scientist who moved from academic medicine (Columbia) to medical-education leadership at Tzu Chi University (慈濟大學) — first as Director of the Institute of Human Genetics, then as University President
+- Community leadership: President of the TAA/New York Chapter (大紐約區台灣同鄉會), Coordinator of the Taiwanese American Conference/East Coast (美東台灣人夏令會), and President of the [[organizations/professor-chen-wen-chen-memorial-foundation||Professor Chen Wen-Chen Memorial Foundation]]
+
+## Timeline
+- **1962** — B.S. Botany, National Taiwan Univ.
+- **Ph.D.** — Biology, Kansas State Univ.
+- **1972–1992** — Assistant Professor, Columbia Univ. College of Physicians and Surgeons
+- **2000–** — Director of the Institute of Human Genetics, Tzu Chi Univ.
+- **2002–2005** — President, Tzu Chi Univ.
+
+## Community roles
+- President — TAA/New York Chapter (大紐約區台灣同鄉會)
+- Coordinator — Taiwanese American Conference/East Coast (美東台灣人夏令會)
+- President — Professor Chen Wen-Chen Memorial Foundation (陳文成基金會)
 
 <!-- tah-tables:start -->
 ## Education

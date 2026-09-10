@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Taiwanese Student Association for Public Affairs (台灣公共事務學生會華大分會)
 
@@ -22,5 +22,9 @@ TSAPA is the University of Washington chapter of the Taiwanese Student Associati
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-student-association-for-public-affairs/)
 
 ## Related Pages
+- [[organizations/taiwanese-student-association-at-university-of-washington|Taiwanese Student Association at University of Washington]] — 同校台裔學生組織
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Deepen pass (2026-09-10)
+- 2003 SARS 創會背景與 228 活動已載於 directory 來源，本次未新增外部事實。
