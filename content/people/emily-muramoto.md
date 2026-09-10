@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Emily Muramoto (蔡蕙宇)
 
@@ -40,3 +40,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault records（deepen pass 2026-09-10）
+- 本頁傳記之 TAH 出處頁：[[works/taiwaneseamericanhistory-org/331-emily-muramoto-vocalist-201602||TAH #331 Emily Muramoto, Vocalist (2016/02)]]。
+- publisher／語料庫：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。

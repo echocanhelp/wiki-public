@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Joel Fan (范景德)
 
@@ -43,3 +43,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault records（deepen pass 2026-09-10）
+- 本頁傳記之 TAH 出處頁：[[works/taiwaneseamericanhistory-org/290-e8-8c-83-e6-99-af-e5-be-b7-joel-fan-pianist-201509||TAH #290 Joel Fan 范景德, Pianist (2015/09)]]、[[works/taiwaneseamericanhistory-org/574-joel-fan-e8-8c-83-e6-99-af-e5-be-b7-pianist-201509||TAH #574 Joel Fan 范景德, Pianist (2015/09)]]。
+- publisher／語料庫：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Prof. Ming-Shian Kao (高銘憲教授)
 
@@ -49,3 +49,7 @@ For more information, please clickProjects >>>14. Pride of T. A. >>>6. 全美最
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault records（deepen pass 2026-09-10）
+- 本頁傳記之 TAH 出處頁：[[works/taiwaneseamericanhistory-org/88-prof-ming-shian-kao||TAH #88 Prof. Ming-Shian Kao 高銘憲教授]]（含「Pride of T.A.」系列記載：Best Doctor、Best Oncologist、華盛頓大學婦產科醫院傑出教授榮譽紀念獎）。
+- publisher／語料庫：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Prof. Kang-Lung Wang (王康隆教授)
 
@@ -43,3 +43,8 @@ Prof. Kang-Lung Wang 王康隆教授 – History of Taiwanese American (T.A. Arc
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault records（deepen pass 2026-09-10）
+- 本頁傳記之 TAH 出處頁：[[works/taiwaneseamericanhistory-org/whos-who-1787-kang-lung-wang||TAH #1787 Prof. Kang-Lung Wang 王康隆教授]]。
+- 求學時期對應的台美學生組織頁：[[organizations/association-of-taiwanese-students-at-mit||Association of Taiwanese Students at MIT]]（1966–1970 MIT 在讀期間之同期台美學生社團）。
+- publisher／語料庫：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
