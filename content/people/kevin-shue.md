@@ -29,6 +29,14 @@ Taiwanese-American violinist Kevin Shue, hailed by Anthony Tommassini of the New
 - Stony Brook University Orchestra — Concertmaster — New Asia Chamber Music Society — Founding Member and Director of Education and Community Engagement — Children's Orchestra Society — Faculty — Great Neck Conservatory of Music — Faculty — Community — New Asia Chamber Music Society — Founding Member
 <!-- tah-tables:end -->
 
+## Timeline
+- 1984 — 出生於台灣台北
+- 5 歲 — 開始學習小提琴
+- 2006 — 獲 Stony Brook University 小提琴演奏學士（師承 Pamela Frank、Ani Kavafian），曾任 Stony Brook University Orchestra 首席
+- 2008-05 — 獲 Mannes College of Music 小提琴演奏碩士（師承 Hiroko Yajima）
+- 曾任/現任 — New Asia Chamber Music Society 共同創辦人兼教育與社區推廣總監；Children's Orchestra Society 與 Great Neck Conservatory of Music 教師
+- 《紐約時報》樂評 Anthony Tommassini 讚其為「富有潛力、音色飽滿、音樂感真摯且技巧紮實的小提琴家」
+
 ## Family
 
 _No filled family fields on the TAH profile._

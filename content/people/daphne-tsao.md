@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Daphne Tsao (曹恩菱)
 
@@ -34,6 +34,18 @@ A native of Taiwan, Daphne Tsao began her musical training on piano at age of 3,
 
 - **Husband:** David Ginsberg
 
+
+## Timeline
+- Age 3 — began piano training; age 7 — began violin
+- Age 9 — television debut as defending champion violinist on 「五燈獎 Star Search」 (Taiwan)
+- 1998–2002 — Manhattan School of Music, BM Violin Performance
+- 2002–2004 — New York University, MM Violin Performance
+- 2004–2005 — violinist with Madison, Fox Valley, Dubuque and Rockford Symphony Orchestras
+- Later engagements with Dana Point Symphony, Manhattan Chamber Orchestra, Uruek Symphony Orchestra, Green Bay and Oshkosh Symphony Orchestras, Water City Chamber Orchestra; tours with orchestras throughout Japan, Singapore, Australia, the USA and Europe
+
+## Vault records
+- [[works/taiwaneseamericanhistory-org/whos-who-2032-daphne-tsao||TAH #2032 encyclopedia: Daphne Tsao 曹恩菱]]
+- [[works/taiwaneseamericanhistory-org/daphne-tsao-violin||TAH #426: Daphne Tsao 曹恩菱, Violin]]
 
 ## Sources
 - [TAH #2032 encyclopedia: 2032. Daphne Tsao 曹恩菱](https://taiwaneseamericanhistory.org/whos-who-2032-daphne-tsao/)

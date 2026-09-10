@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Pauline Huey-Fen Hsu (徐彗芬)
 
@@ -32,6 +32,15 @@ Pauline Huey-Fen Hsu 徐彗芬 is a Taiwanese soprano. She has received the titl
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Timeline
+- Honored as "New Voice Rising Star" by the Association of Vocal Artists of Taiwan; solo recital at the National Concert Hall, Taipei
+- Prizes: National Taiwan Student Music Competition, Taichung Student Music Competition, Nanhai Rotary Scholarship Awards Competition in Vocal Music, Tunghai University Concerto Competition
+- Tunghai University; The Peabody Institute of Johns Hopkins University — graduate studies in Vocal Performance and Pedagogy
+- Soprano soloist: Tunghai Opera Theatre, Peabody Opera, Peabody Symphony Orchestra, Tunghai University Luce Chapel Choir, Taipei Chinsui Chorus, Kaohsiung Natus Cantorum, Vox Nova Singers, National Taiwan Symphony Orchestra
+
+## Vault records
+- [[works/taiwaneseamericanhistory-org/435-soprano-pauline-huey-fen-hsu-e5-be-90-e5-bd-97-e8-8a-ac-06-2019||TAH #435: Pauline Huey-Fen Hsu 徐彗芬, Soprano (06/2019)]]
 
 ## Sources
 - [TAH #435 encyclopedia: 435. Pauline Huey-Fen Hsu 徐彗芬, Soprano /06/2019](https://taiwaneseamericanhistory.org/435-soprano-pauline-huey-fen-hsu-%e5%be%90%e5%bd%97%e8%8a%ac-06-2019/)

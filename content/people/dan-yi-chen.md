@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Dan-Yi Chen (陳丹怡)
 
@@ -33,6 +33,17 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Timeline
+- 國立台北藝術大學 — 音樂系及音樂系研究所
+- 2006 — became music director of the Dolce jazz chamber ensemble (Dolce 爵士室內樂團)
+- Taught at 國立新店高中、台北市立復興高中、新北市立三和國中、新北市厚德國小 music programs; guest/rehearsal pianist for 台北市立交響樂團、台北愛樂管弦樂團、長榮交響樂團、海峽愛樂樂團 and other ensembles; accompanist for 台北愛樂合唱團、台大合唱團 and other choirs
+- 2010 — joined 台灣國家交響樂團 (NSO)
+- 2013-07 — moved to the United States; member of MTAC (California Music Teachers Association), performing with Westlake Village Symphony, In-Harmony Chorus Group and other local ensembles
+
+## Vault records
+- [[works/taiwaneseamericanhistory-org/130-dan-yi-chen-e9-99-b3-e4-b8-b9-e6-80-a1||TAH #130 encyclopedia: Dan-Yi Chen 陳丹怡]]
+- [[works/taiwaneseamericanhistory-org/69-dan-yi-chen-e9-99-b3-e4-b8-b9-e6-80-a1-piano||TAH #69: Dan Yi Chen 陳丹怡, Pianist (2014/10)]]
 
 ## Sources
 - [TAH #130 encyclopedia: 130. Dan-Yi Chen 陳丹怡](https://taiwaneseamericanhistory.org/130-dan-yi-chen-%e9%99%b3%e4%b8%b9%e6%80%a1/)

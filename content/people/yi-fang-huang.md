@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-10
 ---
 # Yi-Fang Huang (黃亦芳)
 
@@ -34,6 +34,18 @@ Pianist Yi-Fang Huang 黃亦芳, a native of Taiwan, received both Bachelor and 
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Timeline
+- Juilliard School — B.M. and M.M., pupil of Martin Canin
+- Rutgers University — Doctor of Musical Arts, with Susan Starr
+- Soloist, chamber musician and collaborative pianist at Walt Disney Concert Hall, Alice Tully Hall, Weill Recital Hall at Carnegie Hall, Merkin Hall, Louvre Museum, Grenoble Museum and National Concert Hall (Taiwan)
+- Festival appearances: OK Mozart, International Viola Congress, New York Philharmonic Insights Series, Interlochen Viola Institute, Great Mountains Festival, Sarasota Music Festival, Bowdoin Summer Music Festival, Music Academy of the West
+- Premiered works by Somei Sato, Stuart Smith and Alessandro Solbiati
+- 2011–Present — Juilliard School Pre-College faculty
+
+## Vault records
+- [[works/taiwaneseamericanhistory-org/whoswho1109||TAH #1109 encyclopedia: Yi-Fang Huang 黃亦芳 (2016/06)]]
+- [[works/taiwaneseamericanhistory-org/musician39||TAH #39: Yi-Fang Huang 黃亦芳, Pianist (2014/10)]]
 
 ## Sources
 - [TAH #1109 encyclopedia: 1109. Yi-Fang Huang 黃亦芳 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1109/)
