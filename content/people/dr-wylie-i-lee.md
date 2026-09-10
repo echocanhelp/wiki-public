@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-09
 ---
 # Dr. Wylie I. Lee (李英偉博士)
 
@@ -30,6 +30,12 @@ last_reviewed: 2026-08-17
 ## Employment
 - Syva Company — Senior Research Physicist — (1984-1987) — Baxter Healthcare — Department Manager — (1987-1991) — Technology Consultant — (1992-) — Community — TAA Northwest Chapter (西北區台灣同鄉會) — President — Seattle Taiwanese Foundation (西雅圖台灣基金會) — President — Taiwanese Alliance for Interculture, N. CA (灣區協志會) — President — S. CA Chapter of NATPA (北美洲台灣人教授協會南加分會) — President — SCAL Tribune, NATPA Tribune, and Taiwan Inquiry — Editor-in-Chief — First Taiwanese American Heritage Week / Los Angeles Celebration — Preparatory Chairman — Taiwanese American Foundation (台美基金會) — President
 <!-- tah-tables:end -->
+
+## Community Leadership (absorbed from TAH Who's Who)
+
+A physicist by training (NTNU 1964, UMass Ph.D. 1970) who moved from industrial research (Syva, Baxter) to full-time technology consulting in 1992, Lee devoted much of his career to institution-building in the Taiwanese American community: president of the TAA Northwest Chapter, the Seattle Taiwanese Foundation, the Taiwanese Alliance for Interculture N. CA, the NATPA Southern California Chapter, and finally the Taiwanese American Foundation [[organizations/taiwanese-american-foundation||台美基金會]]. As Preparatory Chairman he launched the first Taiwanese American Heritage Week celebration in Los Angeles.
+
+His editorial work for the scholarly association — Editor-in-Chief of the SCAL Tribune, NATPA Tribune, and *Taiwan Inquiry 探討台灣* — is documented in the TAH magazine corpus: [[works/taiwaneseamericanhistory-org/916-taiwan-inquiry-e6-8e-a2-e8-a8-8e-e5-8f-b0-e7-81-a3-natpa-200604magazines-e9-||TAH #916, Taiwan Inquiry / NATPA (2006/04)]] and [[works/taiwaneseamericanhistory-org/927-2015-natpa-scal-30th-pearl-anniversary-natpa-scal-201512magazines-e9-9b-9c-e||TAH #927, NATPA SCAL 30th Pearl Anniversary (2015/12)]]; the association's archival record appears at [[works/taiwaneseamericanhistory-org/2-natpa-record-ta-history||NATPA Record TA history]]. His personal profile was recorded twice in the TAH encyclopedia, [[works/taiwaneseamericanhistory-org/73-dr-wylie-i-lee||TAH #73 (published 2018-09-04, the year of his death)]] and [[works/taiwaneseamericanhistory-org/whos-who-765-wylie-i-lee||TAH #765]].
 
 ## Family
 
