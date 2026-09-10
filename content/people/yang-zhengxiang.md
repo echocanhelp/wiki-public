@@ -9,7 +9,7 @@ tags:
   - political-scientist
   - economist
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 
 # Yang Zhengxiang (Ethan Yang)

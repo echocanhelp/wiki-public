@@ -9,7 +9,7 @@ tags:
   - 2025-republication
   - foreword-author
 verification_status: published
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-10
 ---
 # Rev. En Sheng Pan (潘恩盛)
 
