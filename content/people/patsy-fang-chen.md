@@ -53,6 +53,21 @@ Patsy Fang Chen was born in Taipei, Taiwan, graduated with the highest honor fro
 - Daughters are both TAH-archived musicians: [[people/wendy-fang-chen-tilp||Wendy Fang Chen Tilp 陳丹蘋]] (pianist, Juilliard faculty) and [[people/dr-justine-fang-chen||Dr. Justine Fang Chen 陳潔思]] (violinist and composer). Husband: [[people/wen-jer-chen||Wen Jer Chen 陳文哲]].
 - Her own TAH encyclopedia records: [[works/taiwaneseamericanhistory-org/14-patsy-fang-chen|TAH #14]] · [[works/taiwaneseamericanhistory-org/249-patsy-fang-chen-e6-96-b9-e7-a7-80-e8-93-89201502|TAH #249]] · [[works/taiwaneseamericanhistory-org/67-patsy-fang-chen-e6-96-b9-e7-a7-80-e8-93-89|TAH #67, Artistic Director]] · [[works/taiwaneseamericanhistory-org/57-patsy-chen-e6-96-b9-e7-a7-80-e8-93-89|TAH #57]].
 
+## Timeline
+
+Absorbed from the on-page bio and tah-tables (no external sources):
+
+- 1948 — born in Taipei, Taiwan.
+- 1968 — graduated with the highest honor from 國立台灣藝術專科學校 (now 國立台灣藝術大學), Piano Performance.
+- 1968–1970 — Secretary, Medical Education Department, Norwegian-American Hospital, Chicago, Illinois.
+- 1978–present — piano instructor.
+- 1980 — M.S., Music Education, New York University — see also [[organizations/nyu-taiwanese-american-student-society||NYU Taiwanese American Student Society]].
+- 1986–present — concert management, promotion, and tour production coordinator.
+- 1989–1993 — President, KYVAS Arts Management Inc.
+- 1993–2003 — Community Liaison, Queens Symphony Orchestra.
+- 1997 — named Outstanding Alumna of NTUA.
+- 1998–present — Artistic Director, [[organizations/youth-orchestra-cycny||Youth Orchestra, CYCNY]].
+
 ## Sources
 - [TAH #14 encyclopedia: 14. Patsy Fang Chen 方秀蓉](https://taiwaneseamericanhistory.org/14-patsy-fang-chen/)
 - [TAH #249 encyclopedia: 249. Patsy Fang Chen 方秀蓉/2015/02](https://taiwaneseamericanhistory.org/249-patsy-fang-chen-%e6%96%b9%e7%a7%80%e8%93%89201502/)

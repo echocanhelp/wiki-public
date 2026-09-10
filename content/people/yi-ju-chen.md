@@ -45,6 +45,17 @@ From her TAH profile (absorbed from encyclopedia entries #33 / #1108):
 
 _No filled family fields on the TAH profile._
 
+## Timeline
+
+Absorbed from the on-page bio and tah-tables (no external sources):
+
+- Born in Changhua, Taiwan; earned her B.A. at Soochow University.
+- Before emigrating to the U.S. — member of the National Taiwan Symphony Orchestra, collaborating with world-renowned conductors and touring extensively throughout Asia.
+- Summer training — Aspen Music Festival (CO), Kent/Blossom Music Festival (OH), Great Mountains Music Festival (South Korea), Conservatoire Américain in Fontainebleau, France.
+- 2012 — orchestra scholar, Eastern Music Festival, Greensboro, NC.
+- Graduate study — M.M., Peabody Conservatory; D.M.A., Catholic University of America (principal teachers Tsuna Sakamoto, Victoria Chiang, Chung-Chen Chen).
+- Career — section violist, Winston-Salem Symphony Orchestra; concert tours to France, Austria, Hungary, and Romania.
+
 ## Sources
 - [TAH #1108 encyclopedia: 1108. Yi-Ju Chen 陳怡如 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1108/)
 - [TAH #33 encyclopedia: 33. Yi-Ju Chen 陳怡如, Violinist/2014/10](https://taiwaneseamericanhistory.org/musician33/)
