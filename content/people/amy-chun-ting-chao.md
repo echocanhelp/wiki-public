@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-11
 ---
 # Amy Chun-Ting Chao (趙君婷)
 
@@ -34,6 +34,10 @@ Amy Chun-Ting Chao, soprano, a native of Taiwan, is a recent Graduate of the Pea
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/218-amy-chun-ting-chao-e8-b6-99-e5-90-9b-e5-a9-b7-soprano-201606|TAH #218 百科：Amy Chun-Ting Chao 趙君婷, Soprano]]
+- [[works/taiwaneseamericanhistory-org/454-amy-chun-ting-chao-e8-b6-99-e5-90-9b-e5-a9-b7-201506|TAH #454 百科：Amy Chun-Ting Chao 趙君婷]]
 
 ## Sources
 - [TAH #218 encyclopedia: 218. Amy Chun-Ting Chao趙君婷, Soprano / 2016/06](https://taiwaneseamericanhistory.org/218-amy-chun-ting-chao%e8%b6%99%e5%90%9b%e5%a9%b7-soprano-201606/)

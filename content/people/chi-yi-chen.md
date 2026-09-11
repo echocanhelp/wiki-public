@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-11
 ---
 # Chi Yi Chen (陳志宐)
 
@@ -34,6 +34,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/whoswho1704|TAH #1704 百科：Chi Yi Chen 陳志宐]]
+- [[works/taiwaneseamericanhistory-org/musician406|TAH #406 百科：Chi Yi Chen 陳志宐, conductor]]
 
 ## Sources
 - [TAH #1704 encyclopedia: 1704.  Chi Yi Chen 陳志宐 / 06/2017](https://taiwaneseamericanhistory.org/whoswho1704/)

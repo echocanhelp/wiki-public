@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-11
 ---
 # Prof. M. S. Wang (王孟心教授)
 
@@ -36,6 +36,9 @@ Full-time Assistant Professor, Dept. of Counselling
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/whos-who-1902-m-s-wang|TAH #1902 百科：Prof. M. S. Wang 王孟心教授]]
 
 ## Sources
 - [TAH #1902 encyclopedia: 1902. Prof. M. S. Wang 王孟心教授](https://taiwaneseamericanhistory.org/whos-who-1902-m-s-wang/)

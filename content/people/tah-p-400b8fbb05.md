@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-11
 ---
 # 施彥伃博士
 
@@ -33,6 +33,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/269-e6-96-bd-e5-bd-a5-e4-bc-83soprano-201508|TAH #269 百科：Yan-Yu Shih 施彥伃, Soprano]]
+- [[works/taiwaneseamericanhistory-org/540-e6-96-bd-e5-bd-a5-e4-bc-83-201508|TAH #540 百科：施彥伃]]
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e6%96%bd%e5%bd%a5%e4%bc%83/)
