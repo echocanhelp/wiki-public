@@ -55,3 +55,7 @@ _No filled family fields on the TAH profile._
 
 - [[organizations/columbia-university-taiwanese-student-association||Columbia University Taiwanese Student Association]] (哥倫比亞大學就學脈絡)
 - [[organizations/formosan-society-for-performing-arts-inc-fospa||FOSPA]] (台裔表演藝術社團脈絡)
+
+## Vault records (deepen pass 2026-09-10)
+- 本人 TAH 百科條目的 vault 工作頁：[[works/taiwaneseamericanhistory-org/690-joanne-chang-e5-bc-b5-e7-93-8a-e6-96-87-201511|TAH #690 條目（2015/11）]]、[[works/taiwaneseamericanhistory-org/313-joanne-chang-e5-bc-b5-e7-93-8a-e6-96-87-pianist-201511|TAH #313 條目（2015/11）]]。
+- 求學脈絡（哥倫比亞大學 Ph.D.，本頁既有記載）：[[organizations/columbia-university-taiwanese-student-association|哥倫比亞大學台美同學會]]。

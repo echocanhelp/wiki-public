@@ -49,6 +49,12 @@ Currently a freelance musician in Washington D.C area, trombonist Huai-En Tsai �
 - [TAH #28 encyclopedia: 28. Huai-En Tsai 蔡懷恩, Trombonist/2014/10](https://taiwaneseamericanhistory.org/28-huai-en-tsai-%e8%94%a1%e6%87%b7%e6%81%a9-trombonist/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/huai-en-tsai/)
 
+## Vault records (deepen pass 2026-09-10)
+
+- The vault preserves his TAH encyclopedia profile as [[works/taiwaneseamericanhistory-org/421-huai-en-tsai-e8-94-a1-e6-87-b7-e6-81-a9-201505||TAH #421: Huai-En Tsai 蔡懷恩 / 2015-05]] — the record behind this page's Peabody (Johns Hopkins) training, the 2006 Baltimore Music Club Competition win, and his Asia Trombone Seminar directorship since 2007.
+- His Washington D.C.-area activity situates him in the same region as the vault's [[organizations/taiwanese-american-association-greater-washington||Taiwanese Association of America Greater Washington]] community network (no direct membership recorded).
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/421-huai-en-tsai-e8-94-a1-e6-87-b7-e6-81-a9-201505||TAH #421: Huai-En Tsai 蔡懷恩 / 2015-05]]

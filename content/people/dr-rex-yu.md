@@ -56,3 +56,7 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault records (deepen pass 2026-09-10)
+- 本人 TAH 百科條目的 vault 工作頁：[[works/taiwaneseamericanhistory-org/19-dr-rex-yu|TAH #19 條目]]、[[works/taiwaneseamericanhistory-org/whos-who-970-rex-yu|TAH #970 條目]]。
+- 社團記錄：2010 年任 [[organizations/san-gabriel-taiwanese-lions-club|美國台灣人獅子會]] 會長（本頁既有記載）。

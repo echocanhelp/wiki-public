@@ -53,6 +53,13 @@ Paul C. Tsai is a graduate of Chinese Culture University in Taiwan. He was educa
 - [TAH #139 encyclopedia: 139. Paul C. Tsai蔡正驊, Baritone / 2015/02](https://taiwaneseamericanhistory.org/139-paul-c-tsai%e8%94%a1%e6%ad%a3%e9%a9%8a-baritone-201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/paul-c-tsai/)
 
+## Vault records (deepen pass 2026-09-10)
+
+- Two TAH encyclopedia entries for him are preserved in the vault: [[works/taiwaneseamericanhistory-org/253-paul-c-tsai-e8-94-a1-e6-ad-a3-e9-a9-8a-201502||TAH #253: Paul C. Tsai 蔡正驊 / 2015-02]] and [[works/taiwaneseamericanhistory-org/139-paul-c-tsai-e8-94-a1-e6-ad-a3-e9-a9-8a-baritone-201502||TAH #139: Paul C. Tsai 蔡正驊, Baritone / 2015-02]] — the records behind his Milano conservatory diploma (1983), opera/cantata solo career, 1989–1991 North America concert tours, and current Houston choral posts.
+- His Houston base overlaps the vault's [[organizations/taiwanese-association-of-america-houston-chapter||Taiwanese Association of America Houston Chapter]] regional community (no direct membership recorded).
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/253-paul-c-tsai-e8-94-a1-e6-ad-a3-e9-a9-8a-201502||TAH #253: Paul C. Tsai 蔡正驊]]
+- [[works/taiwaneseamericanhistory-org/139-paul-c-tsai-e8-94-a1-e6-ad-a3-e9-a9-8a-baritone-201502||TAH #139: Paul C. Tsai, Baritone]]

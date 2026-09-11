@@ -52,6 +52,13 @@ _No filled family fields on the TAH profile._
 - [TAH #1797 encyclopedia: 1797. Prof. Kuo-Nan Liou 廖國男教授](https://taiwaneseamericanhistory.org/whos-who-1797-kuo-nan-liou/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-kuo-nan-liou/)
 
+## Vault records (deepen pass 2026-09-10)
+
+- The vault preserves his TAH encyclopedia entry as [[works/taiwaneseamericanhistory-org/whos-who-1797-kuo-nan-liou||TAH #1797: Prof. Kuo-Nan Liou 廖國男教授]].
+- A vault work page records his two highest honors in atmospheric science: the American Meteorological Society's **Carl-Gustaf Rossby Research Medal (2018)** and the **Roger Revelle Medal (2013)** — see [[works/taiwaneseamericanhistory-org/carl-gustaf-rossby-research-medal-2018-roger-revelle-medal-2013-kuo-nan-liou||Rossby & Revelle Medals / Kuo-Nan Liou (廖國男)]].
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/whos-who-1797-kuo-nan-liou||TAH #1797: Prof. Kuo-Nan Liou 廖國男教授]]
+- [[works/taiwaneseamericanhistory-org/carl-gustaf-rossby-research-medal-2018-roger-revelle-medal-2013-kuo-nan-liou||Rossby & Revelle Medals / Kuo-Nan Liou (廖國男)]]
