@@ -47,6 +47,12 @@ Accomplishment
 - 1994/09 — 首屆全美模範阿婆選拔，為唯一亞裔得獎人（TAH #283）
 - 2011 — 逝世（Era 記載）
 
+## Other vault records（deepen 2026-09-10，僅彙整 vault 內既有記載）
+- [[works/taiwaneseamericanhistory-org/ourjourneys54-eng||Our Journeys #54（TASA 長輩會回憶錄）]]：本人任內協會會員逾 600 人；主推長者公寓計畫，1985 年募款並购地，1987 年於 El Monte 動工興建 Flamingo Garden 長者公寓，1988 年完工落成（03/05 舉行開幕典禮）；回憶錄稱其為將該大樓轉為台灣人自有長者公寓的最大貢獻者之一。
+- [[works/taiwaneseamericanhistory-org/winners15||TAH winners #15 首屆全美模範阿婆（1994）]]：與 FF #283 對應之模範阿婆選拔紀錄頁。
+- [[works/taiwaneseamericanhistory-org/126-e8-b3-b4-e9-ab-98-e5-ae-89-e8-b3-9c-e5-a5-b3-e5-a3-ab-the-famous-senior-taiw||TAH #126：賴高安賜女士，102 歲]]（2015 年條目）
+- [[works/taiwaneseamericanhistory-org/136-e8-b3-b4-e9-ab-98-e5-ae-89-e8-b3-9c-e7-9a-84-e6-95-85-e4-ba-8b-ef-bc-9a-e6-8||TAH #136：感謝／賴高安賜的故事]]
+
 ## Family
 
 - **Husband:** 賴聰獻

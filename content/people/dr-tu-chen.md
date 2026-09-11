@@ -43,6 +43,11 @@ Accomplishment
 - President of the World Federation of Taiwanese Associations (WFTA), 1983–1987.
 - Board of Director, Formosan Association for Public Affairs (FAPA), 1982–1986 and 2003–2007.
 
+## Other vault records（deepen 2026-09-10，僅彙整 vault 內既有記載）
+- [[works/taiwaneseamericanhistory-org/outstanding-achievement-award-umn-tu-chen||TAH #5：明尼蘇達大學傑出校友獎]] — 2015-11-16 獲 Outstanding Achievement Award by University of Minnesota。
+- [[works/taiwaneseamericanhistory-org/ourjourneys65||Our Journeys #65]]：1982 年初 FAPA 籌組會議（1/13–14，十五人與會）記載時任全美會會長陳都負責組織，並於 1982 年 6 月西海岸巡迴時同行奔走。
+- [[works/taiwaneseamericanhistory-org/ourjourneys9-eng||Our Journeys #9]]：1983-11-12 紐約台灣會館購館募款宴，以世台會（WFTA）理事長身份到场聲援。
+
 ## Family
 
 - **Wife:** Pi-Fang Nancy
