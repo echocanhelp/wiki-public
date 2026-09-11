@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Eric Teng-Kuan Huang (黃騰寬)
 
@@ -48,3 +48,8 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault records（deepen pass 2026-09-11）
+- 本页传记之 TAH 出处页：[[works/taiwaneseamericanhistory-org/eric-teng-kuan-huang-pianist||TAH #405 Eric (Teng-Kuan) Huang 黃騰寬, Pianist (06/2017)]]、[[works/taiwaneseamericanhistory-org/music398||TAH #398 Eric (Teng-Kuan) Huang 黃騰寬, pianist (2017/05)]]。
+- 本页所载伴奏／钢琴服务对应之 Vault 页：[[works/taiwaneseamericanhistory-org/taiwanese-presbyterian-church-of-washington||Washington 台美人长老教会记录页]]、[[works/taiwaneseamericanhistory-org/1-the-greater-washington-taiwanese-american-chorus-e8-8f-af-e5-ba-9c-e5-8f-b0-e7||TAH #1 The Greater Washington Taiwanese-American Chorus (GWTAC)]]。
+- publisher／語料庫：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
