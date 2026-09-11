@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Dr. Min-Chin Mary Lee (李敏琴醫師)
 
@@ -61,3 +61,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/whos-who-2192-min-chin-lee||TAH #2192 encyclopedia: Dr. Min-Chin Mary Lee 李敏琴醫師]]
 - [[works/taiwaneseamericanhistory-org/222-2||TAH #222 encyclopedia: Dr. Min-chin Mary Lee 李敏琴醫師]]
+- [[organizations/taiwanese-association-of-america-greater-philadelphia||TAA Greater Philadelphia]] — community near her Philadelphia-area base (Sidney Kimmel Medical College, Nemours) from 2018; membership not asserted.
