@@ -40,6 +40,10 @@ _No filled family fields on the TAH profile._
 - [TAH #1791 encyclopedia: 1791. Prof. Chien-Te Chen 陳建德教授](https://taiwaneseamericanhistory.org/whos-who-1791-chien-te-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-chien-te-chen/)
 
+## Vault Holdings
+His TAH Who's Who record is held in the vault as community historical record:
+- [[works/taiwaneseamericanhistory-org/whos-who-1791-chien-te-chen|TAH #1791 — Prof. Chien-Te Chen 陳建德教授]]
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-11
 ---
 # 陳炳衡
 
@@ -32,6 +32,11 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Vault Holdings（deepen pass 2026-09-11）
+
+- TAH 傳記記錄：[[works/taiwaneseamericanhistory-org/562-e9-99-b3-e7-82-b3-e8-a1-a1-201508||TAH #562 陳炳衡／2015-08]]、[[works/taiwaneseamericanhistory-org/283-e9-99-b3-e7-82-b3-e8-a1-a1-conductor-201508||TAH #283 BING-HENG CHEN 陳炳衡, Conductor／2015-08]]（書目記錄，全文在 TAH）。
+- 文中所述「紐約台灣會館」合唱團義工經歷對應：[[organizations/new-york-taiwan-center||New York Taiwan Center 紐約台灣會館]]。
 
 ## Sources
 - [TAH #562 encyclopedia: 562. 陳炳衡 / 2015/08](https://taiwaneseamericanhistory.org/562-%e9%99%b3%e7%82%b3%e8%a1%a1-201508/)

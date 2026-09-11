@@ -40,6 +40,11 @@ _No filled family fields on the TAH profile._
 - [TAH #384 encyclopedia: 384. Gloria Chuang 莊邑文, Pianist / 2017/02](https://taiwaneseamericanhistory.org/musician384/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/gloria-chuang/)
 
+## Vault Holdings
+Her TAH encyclopedia records are held in the vault as community historical record:
+- [[works/taiwaneseamericanhistory-org/musician384|TAH #384 — Gloria Chuang 莊邑文, Pianist (2017/02)]]
+- [[works/taiwaneseamericanhistory-org/whoswho1508|TAH #1508 — Gloria Chuang 莊邑文 (2017/02)]]
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-11
 ---
 # Taiwan Hakka Association for Public Affairs in North America (北美臺灣客家公共事務協會)
 
@@ -17,6 +17,12 @@ last_reviewed: 2026-08-17
 - **Core roles:** Community organization (TAH directory)
 
 Taiwan Hakka Association for Public Affairs in North America (HAPA-NA) is the first Hakka Taiwanese organization in North America with explicit political advocacy goals. Founded in 1991, it was established to support the Hakka movement in Taiwan by championing mother-tongue liberation, cultural revitalization, democratic participation, and grassroots civic engagement. The organization has actively supported Hakka-language education, Hakka-language broadcast media rights, and political candidates who advocate for Hakka interests, including involvement in events such as the Dapu Incident. HAPA-NA has published periodicals including 《台灣客協會訊》, 《新個客家人》, and 《台灣客家人新論》. It continues to serve as a strong overseas advocate for Taiwanese Hakka communities and the broader cause of Taiwan’s normalization as a nation.
+
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/taiwan-hakka-association-for-public-affairs-in-north-america|TAH — HAPA-NA organization directory entry]]
+
+## Related Hakka pages
+HAPA-NA's advocacy sits alongside sister Hakka groups documented in the vault, including the umbrella [[organizations/taiwanese-hakka-associations-of-southern-california||Taiwanese Hakka Associations of Southern California]], the [[organizations/global-hakka-un-ngo-applying-committee-un-ngo||Global Hakka UN NGO Applying Committee]], and [[works/taiwaneseamericanhistory-org/taiwanese-hakka-associations-of-america|TAH — Taiwanese Hakka Associations of America]].
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwan-hakka-association-for-public-affairs-in-north-america/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-11
 ---
 # Prof. Jing-Hsiung James Ou (歐競雄教授)
 
@@ -33,6 +33,11 @@ Prof. Jing-Hsiung (James) Ou 歐競雄教授 – History of Taiwanese American (
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Vault Holdings（deepen pass 2026-09-11）
+
+- TAH 傳記記錄：[[works/taiwaneseamericanhistory-org/whos-who-2018-jing-hsiung-ou||TAH #2018 Prof. Jing-Hsiung (James) Ou 歐競雄教授]]（書目記錄，全文在 TAH）。
+- 人物頁來源：[[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org Who's Who]]。
 
 ## Sources
 - [TAH #2018 encyclopedia: 2018. Prof. Jing-Hsiung (James) Ou 歐競雄教授](https://taiwaneseamericanhistory.org/whos-who-2018-jing-hsiung-ou/)

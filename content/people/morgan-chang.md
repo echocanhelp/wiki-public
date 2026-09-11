@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-11
 ---
 # Morgan Chang (張富雄)
 
@@ -35,6 +35,12 @@ Accomplishment
 - **Wife:** 張楊宜宜
 - **Daughter:** Yin Yin
 
+
+## Vault Holdings（deepen pass 2026-09-11）
+
+- TAH 傳記記錄：[[works/taiwaneseamericanhistory-org/whos-who-2195-morgan-chang||TAH #2195 Morgan Chang 張富雄]]、[[works/taiwaneseamericanhistory-org/200-morgan-chang||TAH #200 Morgan Chang 張富雄]]（書目記錄，全文在 TAH）。
+- 台灣之音紀錄：[[works/taiwaneseamericanhistory-org/144-e6-a5-8a-e5-ae-9c-e5-ae-9c-e5-bc-b5-e5-af-8c-e9-9b-84-e5-8f-b0-e7-81-a3-e4-b||TAH #144 楊宜宜 張富雄／台灣之音／1977-1982]]。
+- 配偶楊宜宜（張楊宜宜）另有傳記頁，夫名張富雄相符：[[people/eileen-chang||Eileen Chang 楊宜宜]]。
 
 ## Sources
 - [TAH #2195 encyclopedia: 2195. Morgan Chang 張富雄](https://taiwaneseamericanhistory.org/whos-who-2195-morgan-chang/)

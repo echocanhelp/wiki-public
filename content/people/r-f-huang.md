@@ -38,6 +38,11 @@ _No filled family fields on the TAH profile._
 - [TAH #1710 encyclopedia: 1710.  R. F. Huang 許黃瑞鳳 / 07/2017](https://taiwaneseamericanhistory.org/whoswho1710/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/r-f-huang/)
 
+## Vault Holdings
+Her TAH encyclopedia records are held in the vault as community historical record:
+- [[works/taiwaneseamericanhistory-org/musician409|TAH #409 — R. F. Huang 許黃瑞鳳, conductor (07/2017)]]
+- [[works/taiwaneseamericanhistory-org/whoswho1710|TAH #1710 — R. F. Huang 許黃瑞鳳 (07/2017)]]
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

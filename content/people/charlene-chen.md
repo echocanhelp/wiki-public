@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-11
 ---
 # Charlene Chen (陳怡林)
 
@@ -41,6 +41,11 @@ Accomplishment
 - [TAH #2205 encyclopedia: 2205. Charlene Chen 陳怡林](https://taiwaneseamericanhistory.org/whos-who-2205-charlene-chen/)
 - [TAH #210 encyclopedia: 210. Charlene Chen 陳怡林](https://taiwaneseamericanhistory.org/210/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/charlene-chen/)
+
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/whos-who-2205-charlene-chen|TAH Who's Who #2205 — Charlene Chen 陳怡林]]
+
+Her community role at the [[organizations/taiwanese-american-foundation||Taiwanese American Foundation]] (Director 2007-2008, later youth-programs adviser) is documented in the TAH profile above.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

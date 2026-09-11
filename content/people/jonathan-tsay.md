@@ -40,6 +40,11 @@ _No filled family fields on the TAH profile._
 - [TAH #1413 encyclopedia: 1413. Jonathan Tsay 蔡宇明 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1413/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jonathan-tsay/)
 
+## Vault Holdings
+His TAH encyclopedia records are held in the vault as community historical record:
+- [[works/taiwaneseamericanhistory-org/musician375|TAH #375 — Jonathan Tsay 蔡宇明, Pianist (2016/11)]]
+- [[works/taiwaneseamericanhistory-org/whoswho1413|TAH #1413 — Jonathan Tsay 蔡宇明 (2016/11)]]
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
