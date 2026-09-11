@@ -52,3 +52,4 @@ Frank C.H. Chen (Conductor). Frank C.H. Chen holds a BS and MS degrees in Electr
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Vault records of the cited entries: [[works/taiwaneseamericanhistory-org/musician408||TAH #408 musician entry]], [[works/taiwaneseamericanhistory-org/whoswho1706||Who's Who #1706]], [[works/taiwaneseamericanhistory-org/whoswho1708||Who's Who #1708]]

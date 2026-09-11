@@ -67,3 +67,4 @@ Tsan-hung George Chang 張燦鍙 – History of Taiwanese American (T.A. Archive
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Vault records of the cited entries: [[works/taiwaneseamericanhistory-org/56-professor-george-chang-the-longest-president-of-world-united-formosans||TAH #56 encyclopedia]], [[works/taiwaneseamericanhistory-org/whos-tsan-hung-george-chang||Who's Who entry]]

@@ -54,3 +54,4 @@ last_reviewed: 2026-09-11
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Vault records of the cited entries: [[works/taiwaneseamericanhistory-org/ota-279||TAH #279 encyclopedia]], [[works/taiwaneseamericanhistory-org/whos-who-1299-ming-lon-young||Who's Who #1299]], [[works/taiwaneseamericanhistory-org/80-collection-of-dr-ming-lon-young||TAH #80 collection]]

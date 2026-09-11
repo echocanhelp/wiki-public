@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[organizations/taiwanese-american-society-at-yale||Taiwanese American Society at Yale]]
+- Vault records of the cited entries: [[works/taiwaneseamericanhistory-org/434-pianist-sharon-how||TAH #434 encyclopedia]], [[works/taiwaneseamericanhistory-org/mystories434||TAH mystories #434]]

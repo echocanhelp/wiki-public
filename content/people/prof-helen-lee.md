@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Prof. Helen Lee (李雪玟教授)
 
@@ -64,3 +64,4 @@ Education (per TAH encyclopedia tables): B.A. Music, Chinese Culture University;
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/16-prof-helen-lee||TAH encyclopedia #16: Prof. Helen Lee 李雪玟教授]]
 - [[works/taiwaneseamericanhistory-org/whos-who1313-helen-lee||TAH encyclopedia #1313: Prof. Helen Lee 李雪玟教授]]
+- [[works/taiwaneseamericanhistory-org/collection-of-prof-helen-lee||TAH collection: Prof. Helen Lee 李雪玟]]
