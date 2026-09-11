@@ -71,9 +71,27 @@ Notable quotes and mentions of **潘建宇** in Taiwan Justice articles:
   - Publisher: Freeman Huang (黃樹人); categories: `usa`, `taiwaneseamerican`, `taiwan-center`
   - Live URL: [2024台灣會館26周年晚宴](https://echocanhelp.github.io/wiki-public/articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66.html)
 
+## Board cohort (deepen pass 2026-09-10)
+
+From the same 2024-10-04 台灣公義網 announcement listing the 38位董事, the following fellow directors already have Echopedia pages:
+
+- [[people/april-lin||林淑卿 (April Lin)]]
+- [[people/peter-lin||林冠豪 (Peter Lin)]]
+- [[people/lisa-liu||劉雅薇 (Lisa Liu)]]
+- [[people/samantha-yu||游蕙綾 (Samantha Yu)]]
+- [[people/joe-hu||胡永全 (Joe Hu)]]
+- [[people/shirley-yu||張欣珠 (Shirley Yu)]]
+- [[people/sharon-huang||黃馨瑤 (Sharon Huang)]]
+- [[people/vera-yang||楊悅英 (Vera Yang)]]
+- [[people/james-yang||楊榮勝 (James Yang)]]
+- [[people/tony-lee||李賢群 (Tony Lee)]]
+- [[people/joyce-yeh||葉怡蘭 (Joyce Yeh)]]
+- [[people/shawn-yeh||葉上毅 (Shawn Yeh)]]
+
 ## Related Pages
 - [[organizations/taiwan-center||大洛杉磯台灣會館 / Taiwan Center]]
 - [[sources/taiwanjustice-net||taiwanjustice.net]]
+- [[people/jolie-chenn||Jolie Chenn (陳芃佑) — 副董事長, same 會館 board]]
 - [[people/index||People Index]]
 
 ## LINE

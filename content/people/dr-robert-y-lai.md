@@ -56,6 +56,10 @@ _No filled family fields on the TAH profile._
 - Taiwanese American Association, Milwaukee Chapter — 會長
 - 2018 — 逝世（Era 1940–2018）
 
+## Vault Cross-References
+- TAH encyclopedia records for this profile exist in the vault: [[works/taiwaneseamericanhistory-org/ota-276|TAH #276 賴義雄博士]] and [[works/taiwaneseamericanhistory-org/whos-who-759-robert-y-lai|TAH #759 Who's Who: Dr. Robert Y. Lai]].
+- GTI 董事長（2016–2018）任期見 [[organizations/global-taiwan-institute||Global Taiwan Institute]]。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[organizations/global-taiwan-institute||Global Taiwan Institute]]
