@@ -49,6 +49,18 @@ _No filled family fields on the TAH profile._
 ## Vault records
 - [[works/taiwaneseamericanhistory-org/whos-who-1760-bay-mao-wu||TAH #1760 encyclopedia: Prof. Bay-Mao (Bill) Wu 吳倍茂教授]]
 
+## Network (absorbed 2026-09-10 from this page's own TAH tables)
+- [[organizations/taiwanese-association-of-america-greater-washington||TAA Greater Washington]] — President, 1994–1995
+- [[organizations/taiwanese-american-science-and-technology-association-tasta||TASTA]] — President, Washington D.C. chapter, 2013
+- [[works/taiwaneseamerican-org/dc-taiwan-school-annual-winter-solstice-and-christmas-party||DC Taiwan School annual winter-solstice/Christmas party]] — he served as Principal of the Washington DC Taiwan School, 1995–1996
+- FAPA — Board of Director, 2004 (no national FAPA page yet; founding record: [[works/taiwaneseamericanhistory-org/formosan-association-for-public-affair-was-established-in-los-angeles-02-1982|FAPA founded in Los Angeles, 02/1982]])
+
+## Vault cross-references (2026-09-10)
+- TAH holds an oral-history entry on him: [[works/taiwaneseamericanhistory-org/ota-289|TAH #289: Dr. Bay-Mao Bill Wu 吳倍茂博士]]
+- He appears as the 1994 總協調人 (TAA DC-area) in the chapter history [[works/taiwaneseamericanhistory-org/ourjourneys-138|TAH #138: 華府與巴城TAA的誕生 / 陳淮崇]]
+- His 2013 presidency matches [[organizations/taiwanese-american-science-and-technology-association-tasta||TASTA 華府台灣產業科技協會]] (founded 2002, Greater D.C.)
+- His TAA DC-area presidency ties to [[organizations/taiwanese-association-of-america-greater-washington||TAA Greater Washington]] via parent body [[organizations/taiwanese-association-of-america||TAA]]
+
 ## Sources
 - [TAH #1760 encyclopedia: 1760. Prof. Bay-Mao (Bill) Wu 吳倍茂教授](https://taiwaneseamericanhistory.org/whos-who-1760-bay-mao-wu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-bay-mao-bill-wu/)

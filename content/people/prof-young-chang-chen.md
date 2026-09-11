@@ -51,8 +51,15 @@ Prof. Young-Chang Chen 陳榮昌教授 – History of Taiwanese American (T.A. A
 - 社群 — 曾任 [[organizations/north-america-taiwanese-professors-sc||北台教授協會南加分會]] 會長、TAA 聖地牙哥分會長；創辦北美台灣研究（NATSA 一系學研網絡，見 [[organizations/north-american-taiwan-studies-associationnatsa||NATSA]]）
 - 家庭 — 妻廖幸蕙；女 Karen F. Chen；子 Kris I. Chen
 
-## Vault Holdings
+## Vault records
 - [[works/taiwaneseamericanhistory-org/125-prof-young-chang-chen|TAH #125]] · [[works/taiwaneseamericanhistory-org/whos-who-745-young-chang-chen|TAH #745 Who's Who]]
+- TAA San Diego 分會長（本頁 TAH 表格自載）— 母組織頁：[[organizations/taiwanese-association-of-america||Taiwanese Association of America]]（分會單獨頁尚未建立）（absorbed 2026-09-10）
+
+## Vault cross-references (2026-09-10)
+- A TAH award is named for him: [[works/taiwaneseamericanhistory-org/awards79|TAH #79: Prof. Young Chang Chen Memorial Scholarship 陳榮昌教授紀念獎學金]]
+- His own prize essay is in-vault: [[works/taiwaneseamericanhistory-org/mystories142|TAH #142: 歸巢 — 受寵若驚的得獎感言 / 陳榮昌]]
+- He is named among the San Diego/Camino recruiters of the 美西夏令會 movement in [[works/taiwaneseamericanhistory-org/ourjourneys265|TAH #265: 2011年美西夏令會的回顧 / 黃根深]]
+- Encyclopedia records in-vault: [[works/taiwaneseamericanhistory-org/125-prof-young-chang-chen|TAH #125]] · [[works/taiwaneseamericanhistory-org/whos-who-745-young-chang-chen|TAH #745]]
 
 ## Sources
 - [TAH #125 encyclopedia: 125. Prof. Young-Chang Chen 陳榮昌教授](https://taiwaneseamericanhistory.org/125-prof-young-chang-chen/)

@@ -42,6 +42,17 @@ She represented Michigan House District 6 as State Representative for two terms 
 - **Mother:** [[people/sarolina-chang||沈麗華]]
 
 
+## Vault records (absorbed 2026-09-10; all four are this page's own cited works)
+- [[works/taiwaneseamericanhistory-org/196-stephanie-chang|TAH #196 encyclopedia: Stephanie Chang 張理]]
+- [[works/taiwaneseamericanhistory-org/whos-who-102-stephanie-chang|TAH #102 Who's Who encyclopedia: Stephanie Chang 張理]]
+- [[works/taiwaneseamericanhistory-org/stephanie-chang|TAH vault: Stephanie Chang]]
+- [[works/taiwaneseamerican-org/stephanie-chang-representing-detroit|TaiwaneseAmerican.org: Stephanie Chang representing Detroit]]
+- Detroit-area network page in vault: [[organizations/taiwanese-association-of-america-detroit-tagd||TAG Detroit]] (her community-organizing geography; relationship not stated in the TAH profile)
+
+## Vault cross-references (2026-09-10)
+- Her own TAH encyclopedia records are held in-vault: [[works/taiwaneseamericanhistory-org/196-stephanie-chang|TAH #196]] · [[works/taiwaneseamericanhistory-org/whos-who-102-stephanie-chang|TAH #102 Who's Who]]
+- Mother [[people/sarolina-chang||沈麗華]]'s page cross-lists her; Detroit community work ties to the chapter network [[organizations/taiwanese-association-of-america-detroit-tagd||TAA Detroit TAGD]]
+
 ## Sources
 - [TAH #196 encyclopedia: 196. Stephanie Chang 張理](https://taiwaneseamericanhistory.org/196-stephanie-chang/)
 - [TAH #102 encyclopedia: 102. Stephanie Chang 張理](https://taiwaneseamericanhistory.org/whos-who-102-stephanie-chang/)
