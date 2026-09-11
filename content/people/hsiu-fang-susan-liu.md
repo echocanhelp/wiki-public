@@ -63,3 +63,8 @@ Accomplishment
 - [[works/taiwaneseamericanhistory-org/history-of-taiwanese-association-of-america-minnesota-chapter||History of TAA Minnesota Chapter]] — Festivals of Nations committee context
 - [[works/taiwaneseamericanhistory-org/10-participation-of-festival-of-nations-by-taa-minnesota-chapter-in-st-paul-mn-m||TAA Minnesota participation in Festival of Nations]] — documented committee involvement
 - [[works/taiwaneseamericanhistory-org/whos-who-83-hsiu-fang-liu||TAH Who's Who #83]] — source profile
+
+## Vault records (deepen pass 2026-09-10)
+
+- **Oral-history interviewer** — author of the TAH #25 彭明敏 Prof. Ming Min Peng interview, cross-confirmed on [[people/prof-ming-min-peng||Prof. Ming Min Peng]]'s page: [[works/taiwaneseamericanhistory-org/ourfootsteps-25||TAH #25 (陳秀芳訪談)]]
+- **Portrait artist** — painted portrait #35 of [[people/bob-cheng||Bob Cheng]], commemorated in TAH encyclopedia #749 (追思) and #300, per Bob Cheng's vault page

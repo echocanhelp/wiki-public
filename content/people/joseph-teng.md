@@ -68,3 +68,8 @@ last_reviewed: 2026-09-10
 - [[people/wei-boji||Wei Boji (魏博基)]]
 - [[people/xu-shitan||Xu Shitan (徐士坦)]]
 - [[people/wang-rongyi||Wang Rongyi (王榮義)]]
+
+## Vault cross-references (deepen pass 2026-09-10)
+
+- The [[organizations/taiwan-center||Taiwan Center]] organization page's board section independently lists him in a six-seat 團體董事 cohort together with [[people/shirley-yu||Shirley Yu (張欣珠)]], [[people/joyce-yeh||Joyce Yeh (葉怡蘭)]], [[people/josephine-pan||Josephine Pan (潘掬慧)]], [[people/steven-wu||Steven Wu (吳尚誠)]], and [[people/lisa-hou||Lisa Hou (侯乃文)]]; the sponsoring organization is likewise not stated there.
+- He is reciprocally linked from class-instructor pages of the same mirrored roster, e.g. [[people/shi-yuli||Shi Yuli (施郁麗)]].
