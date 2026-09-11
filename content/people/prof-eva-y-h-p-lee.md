@@ -43,7 +43,7 @@ Prof. Eva Y.H. P. Lee 潘玉華教授 – History of Taiwanese American (T.A. Ar
 
 ## Family
 
-- **Husband:** 李文華 — [[people/prof-wen-hwa-lee||Prof. Wen-Hwa Lee (李文華教授)]]. His own vault page reciprocally lists "Wife: 潘玉華", confirming the link; his parallel TAH encyclopedia entry: [[works/taiwaneseamericanhistory-org/whos-who-1795-wen-hwa-lee||TAH #1795: Prof. Wen-Hwa Lee 李文華教授]] (adjacent #1796 to Eva Lee's #1796 entry).
+- **Husband:** 李文華 — [[people/prof-wen-hwa-lee||Prof. Wen-Hwa Lee (李文華教授)]]. His own vault page reciprocally lists "Wife: 潘玉華", confirming the link; his parallel TAH encyclopedia entry: [[works/taiwaneseamericanhistory-org/whos-who-1795-wen-hwa-lee||TAH #1795: Prof. Wen-Hwa Lee 李文華教授]] (adjacent entry to Eva Lee's #1796).
 
 
 ## Sources
