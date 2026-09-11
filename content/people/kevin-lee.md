@@ -50,7 +50,7 @@ Do **not** conflate with:
 
 ## Sources
 
-- `knowledge/operational/tahs-priority-roster.md` — L1 LINE block
+- `knowledge/operational/tahs-priority-roster.md` — L1 LINE block (file lives at echo-system repo root, outside content/)
 - Owner/roster policy: never publish LINE U-ids
 
 ## Related Pages

@@ -45,6 +45,10 @@ last_reviewed: 2026-09-10
 - [TAH #642 encyclopedia: 642. Dr. Jack J. Chen 陳宏傑教授](https://taiwaneseamericanhistory.org/whos-who-642-jack-j-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-jack-j-chen/)
 
+## Vault Holdings
+- Duplicate person page: [[people/jack-j-chen||Jack J. Chen]]
+- TAH encyclopedia work pages: [[works/taiwaneseamericanhistory-org/whos-who-642-jack-j-chen||TAH Who's Who #642]], [[works/taiwaneseamericanhistory-org/862-parkinsons-disease-jack-j-chen-199710life-e7-94-9f-e6-b4-bb||TAH #862 — Parkinson's disease article (1997)]]
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
