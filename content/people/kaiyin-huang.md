@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-11
 ---
 # Kaiyin Huang (黃凱盈)
 
@@ -44,3 +44,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault records（deepen pass 2026-09-11）
+- 本頁 TAH 出處之 Vault 頁面：[[works/taiwaneseamericanhistory-org/musician356||TAH 356. Kaiyin Huang 黃凱盈, Pianist / 2016/08]]、[[works/taiwaneseamericanhistory-org/whoswho1251||TAH 1251. Kaiyin Huang 黃凱盈 / 2016/08]]。
+- publisher／語料庫：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。

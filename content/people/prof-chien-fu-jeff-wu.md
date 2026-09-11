@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-11
 ---
 # Prof. Chien-Fu Jeff Wu (吳建福教授)
 
@@ -37,6 +37,10 @@ _No filled family fields on the TAH profile._
 ## Sources
 - [TAH #1792 encyclopedia: 1792. Prof. Chien-Fu (Jeff) Wu 吳建福教授](https://taiwaneseamericanhistory.org/whos-who-1792-chien-fu-wu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-chien-fu-jeff-wu/)
+
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/whos-who-1792-chien-fu-wu||TAH #1792 Who's Who entry 吳建福教授]]
+- [[sources/taiwaneseamericanhistory-org-story-corpus||台美史料中心 story corpus]]
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

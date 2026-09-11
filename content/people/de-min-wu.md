@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-11
 ---
 # Prof. De-Min Wu (吳得民教授)
 
@@ -45,6 +45,14 @@ last_reviewed: 2026-08-17
 - [TAH #24 encyclopedia: 24. Prof. De-Min Wu (吳得民教授)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-24/)
 - [TAH #135 encyclopedia: 135. Prof. De-Min Wu 吳得民教授](https://taiwaneseamericanhistory.org/135-prof-de-min-wu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/de-min-wu/)
+
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/senior-taiwanese-american-24||TAH #24 Senior Taiwanese American entry]]
+- [[works/taiwaneseamericanhistory-org/135-prof-de-min-wu||TAH #135 百科 entry]]
+- [[works/taiwaneseamericanhistory-org/384-de-min-wu-e5-90-b3-e5-be-97-e6-b0-91201504||TAH #384 吳得民 (2015/04)]]
+- [[works/taiwaneseamericanhistory-org/ourjourneys47||Our Journeys #47 (mentions 吳得民)]]
+- [[works/taiwaneseamericanhistory-org/ourjourneys69||Our Journeys #69 (mentions 吳得民)]]
+- [[works/taiwaneseamericanhistory-org/ourjourneys205||Our Journeys #205 (mentions 吳得民)]]
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

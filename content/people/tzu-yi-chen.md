@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-11
 ---
 # Tzu-Yi Chen (陳孜怡)
 
@@ -41,6 +41,10 @@ _No filled family fields on the TAH profile._
 - [TAH #106 encyclopedia: 106. Tzu-yi Chen 陳孜怡, Pianist/2014/12](https://taiwaneseamericanhistory.org/106-tzu-yi-chen-pianist/)
 - [TAH #184 encyclopedia: 184. Tzu-Yi Chen 陳孜怡](https://taiwaneseamericanhistory.org/184-tzu-yi-chen-%e9%99%b3%e5%ad%9c%e6%80%a1/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tzu-yi-chen/)
+
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/106-tzu-yi-chen-pianist||TAH #106 Pianist 陳孜怡 (2014/12)]]
+- [[works/taiwaneseamericanhistory-org/184-tzu-yi-chen-e9-99-b3-e5-ad-9c-e6-80-a1||TAH #184 Who's Who entry]]
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
