@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-11
 ---
 # Dr. Mu-Sheng Wu (吳木盛博士)
 
@@ -39,6 +39,12 @@ Accomplishment
 - **Son:** Ben
 
 
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/44-dr-mu-sheng-wu|TAH #44 百科：Dr. Mu-Sheng Wu 吳木盛博士]]
+- [[works/taiwaneseamericanhistory-org/whos-who-36-mu-sheng-wu|TAH #36 百科：Dr. Mu-Sheng Wu 吳木盛博士]]
+- [[works/taiwaneseamericanhistory-org/ff74|TAH #74：Dr. Mu-Sheng Wu／The first retiree from his professional career (1989)]]
+- [[works/taiwaneseamericanhistory-org/collection-of-dr-mu-sheng-wu|TAH #13：Collection of Dr. Mu-Sheng Wu 吳木盛博士的收藏]]
+
 ## Sources
 - [TAH #14 encyclopedia: 14. Dr. Mu-Sheng Wu (吳木盛博士)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-14/)
 - [TAH #74 encyclopedia: 74. Dr. Mu-Sheng Wu 吳木盛博士 / The first retiree from his professional career / 198](https://taiwaneseamericanhistory.org/ff74/)
@@ -48,3 +54,5 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[organizations/taiwanese-association-of-america||Taiwanese Association of America]]
+- [[organizations/austin-taiwanese-association||Austin Taiwanese Association]]

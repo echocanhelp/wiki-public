@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-11
 ---
 # Chia Wei Lee (李佳蔚)
 
@@ -35,6 +35,10 @@ Chia-wei Lee (DMA, Ohio State University) is quickly establishing himself as one
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/527-chia-wei-lee-e6-9d-8e-e4-bd-b3-e8-94-9a-201508|TAH #527 百科：Chia Wei Lee 李佳蔚]]
+- [[works/taiwaneseamericanhistory-org/258-chia-wei-lee-e6-9d-8e-e4-bd-b3-e8-94-9a-vocal-201508|TAH #258 百科：Chia Wei Lee 李佳蔚, Vocal]]
 
 ## Sources
 - [TAH #527 encyclopedia: 527.  Chia Wei Lee 李佳蔚 / 2015/08](https://taiwaneseamericanhistory.org/527-chia-wei-lee-%e6%9d%8e%e4%bd%b3%e8%94%9a-201508/)

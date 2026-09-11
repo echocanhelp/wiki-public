@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-11
 ---
 # Shih-han Erika Chiu (邱詩涵)
 
@@ -36,6 +36,10 @@ Shih-han ( Erika ) Chiu邱詩涵 – History of Taiwanese American (T.A. Archive
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/502-shih-han-erika-chiu-e9-82-b1-e8-a9-a9-e6-b6-b5-201507|TAH #502 百科：Shih-han (Erika) Chiu 邱詩涵]]
+- [[works/taiwaneseamericanhistory-org/245-shih-han-erika-chiu-e9-82-b1-e8-a9-a9-e6-b6-b5-basson-201507|TAH #245 百科：Shih-han (Erika) Chiu 邱詩涵, Bassoon]]
 
 ## Sources
 - [TAH #502 encyclopedia: 502. Shih-han ( Erika ) Chiu邱詩涵 / 2015/07](https://taiwaneseamericanhistory.org/502-shih-han-erika-chiu%e9%82%b1%e8%a9%a9%e6%b6%b5-201507/)

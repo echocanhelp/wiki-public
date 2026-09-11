@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-11
 ---
 # Prof. Tuan-Hua David Ho (賀端華教授)
 
@@ -33,6 +33,9 @@ Prof. Tuan-Hua (David) Ho 賀端華教授 – History of Taiwanese American (T.A
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/whos-who-1794-tuan-hua-ho|TAH #1794 百科：Prof. Tuan-Hua (David) Ho 賀端華教授]]
 
 ## Sources
 - [TAH #1794 encyclopedia: 1794. Prof. Tuan-Hua (David) Ho 賀端華教授](https://taiwaneseamericanhistory.org/whos-who-1794-tuan-hua-ho/)
