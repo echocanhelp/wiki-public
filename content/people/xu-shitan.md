@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - Taiwan-School
 verification_status: published
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Xu Shitan (徐士坦)
 
@@ -75,3 +75,6 @@ No further biography is published on the site; no details are invented here.
 - [[people/he-sumei||He Sumei (何素美)]]
 - [[people/wei-boji||Wei Boji (魏博基)]]
 - [[people/wang-rongyi||Wang Rongyi (王榮義)]]
+
+## Deepen re-verification 2026-09-11 (vault-only)
+All cited sources and wikilink targets verified present in the vault (Taiwan Center hub, instructor cohort pages). No further unpublished vault facts found; none invented.
