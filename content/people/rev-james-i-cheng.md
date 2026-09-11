@@ -57,3 +57,12 @@ _No filled family fields on the TAH profile._
 
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
+
+## Deepen — 2026-09-10 (vault-only pass)
+
+Absorbed from this page's own cited TAH tables; no new external facts:
+
+- Trained at Tainan Theological College & Seminary (B.Th., 1963) and Yale Divinity School (M.Div. 1967, S.T.M. 1968); his Yale years connect to the affiliated vault page [[organizations/yale-taiwanese-student-association||Yale Taiwanese Student Association]].
+- Pastoral ministry spanned three cities: New Orleans (紐奧良華人長老會), Toronto (多倫多台灣聯合教會), and the Washington DC area (華府台灣基督長老教會, 2006–2009); honorary retired minister, National Capital Presbytery, PC(USA).
+- Founding President, FAPA/Pennsylvania Chapter — the vault documents other FAPA chapters such as [[organizations/fapa-los-angeles||FAPA Los Angeles]] and [[organizations/fapa-orange-county||FAPA Orange County]]; also Convener of the Program Group, 美東台灣人夏令會.
+- Ordained ministry rooted in the [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan]] tradition.

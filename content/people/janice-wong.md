@@ -54,3 +54,11 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/543-janice-wong-e7-8e-8b-e6-ad-a3-e6-80-a1-201508||TAH Encyclopedia #543: Janice Wong 王正怡]]
 - [[works/taiwaneseamericanhistory-org/272-e7-8e-8b-e6-ad-a3-e6-80-a1janice-wong-pianist-201508||TAH Encyclopedia #272: Janice Wong, Pianist]]
 - [[organizations/johns-hopkins-university-taiwanese-student-association||JHU Taiwanese Student Association]] — affiliated JHU page
+
+## Deepen — 2026-09-10 (vault-only pass)
+
+Absorbed from this page's own cited TAH encyclopedia records (#543, #272); no new external facts:
+
+- Piano faculty at Emory University from 2000 — Emory's Taiwanese American community is documented in the vault at [[organizations/taiwanese-american-student-association-at-emory-university||Taiwanese American Student Association at Emory University]] (see also [[organizations/emory-tsa||Emory TSA]]); her high-school teachers William and Keiko Ransom were also Emory-affiliated.
+- Peabody / Johns Hopkins years sit in the same institutional lineage as [[organizations/taiwanese-american-students-association-at-johns-hopkins-university||Taiwanese American Students Association at JHU]].
+- Both cited TAH encyclopedia records exist as vault works: [[works/taiwaneseamericanhistory-org/543-janice-wong-e7-8e-8b-e6-ad-a3-e6-80-a1-201508||#543: Janice Wong 王正怡]] and [[works/taiwaneseamericanhistory-org/272-e7-8e-8b-e6-ad-a3-e6-80-a1janice-wong-pianist-201508||#272: Janice Wong, Pianist]].

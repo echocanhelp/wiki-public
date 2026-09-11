@@ -33,3 +33,7 @@ _Absorbed from the directory description above; no external material added._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Deepen — 2026-09-10 (vault-only pass)
+
+Vault context only, no new external facts: the committee's chairperson is drawn from the World Taiwanese Hakka Federation, whose closest vault page is [[organizations/taiwanese-hakka-association-of-the-world||世界台灣客家會 (Taiwanese Hakka Association of the World)]]. Fellow Hakka bodies documented in the vault include [[organizations/taiwanese-hakka-associations-of-southern-california||Taiwanese Hakka Associations of Southern California]], [[organizations/taiwan-hakka-association-for-public-affairs-in-north-america||Taiwan Hakka Association for Public Affairs in North America]], and [[organizations/hakka-foundation||Hakka Foundation]] — examples of the regional Hakka federations the committee's vice-chair structure (Americas, Europe, Asia, Africa) mirrors.
