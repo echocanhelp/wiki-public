@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Dr. Ching K. Lin (林清貴博士)
 
@@ -56,6 +56,8 @@ Recorded on the page of [[organizations/irvine-taiwanese-presbyterian-church||Ir
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[organizations/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca||Evergreen Class (長青教室) by ITPC]]
+- [[works/taiwaneseamericanhistory-org/ota-248||TAH Encyclopedia #248: Dr. & Mrs. Ching K Lin 林清貴博士、夫人]]
+- [[works/taiwaneseamericanhistory-org/whos-who-886-ching-k-lin||TAH Who's Who #886: Dr. Ching K. Lin 林清貴博士]]
 
 ## Network
 - [[organizations/irvine-taiwanese-presbyterian-church||ITPC]] — TAH Who’s Who; instructor & speaker roster
