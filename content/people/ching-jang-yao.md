@@ -58,6 +58,11 @@ Absorbed from the on-page biography (no external sources):
 ## Archival records
 - [[works/taiwaneseamericanhistory-org/whoswho907|TAH Who's Who #997]] · [[works/taiwaneseamericanhistory-org/41-e5-a7-9a-e6-85-b6-e7-ab-a0-ching-jang-yao201504|TAH #41 (2015/04)]]
 
+## Vault records (deepen pass 2026-09-10)
+
+- His Who's Who vault record is bibliographic only; full text stays in the vault: [[works/taiwaneseamericanhistory-org/whoswho907|TAH Who's Who #997]] (published 2016-05-20).
+- Wife [[people/ho-chu-yao|姚張和珠]] is herself an artist and entrepreneur in the vault record: 台灣師範大學 B.A. Art (1963), broker/owner of Top Year Read Estate Management Inc., and senior director at Noevir Skincare — see [[works/taiwaneseamericanhistory-org/304-ho-chu-yao-e5-a7-9a-e5-bc-b5-e5-92-8c-e7-8f-a0201502|TAH #304 姚張和珠]]. Both were NTNU art students (she graduated 1963, he 1965) and emigrated to the USA together in 1970.
+
 ## Sources
 - [TAH #997 encyclopedia: 997. Ching-Jang Yao  姚慶章](https://taiwaneseamericanhistory.org/whoswho907/)
 - [TAH #41 encyclopedia: 41. 姚慶章 Ching-Jang Yao/2015/04](https://taiwaneseamericanhistory.org/41-%e5%a7%9a%e6%85%b6%e7%ab%a0-ching-jang-yao201504/)

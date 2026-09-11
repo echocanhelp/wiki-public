@@ -67,6 +67,20 @@ From the TAH Who's Who profile text and tables above:
 - [TAH #277 encyclopedia: 277. Dr. Tsing Fang Chen 陳錦芳博士](https://taiwaneseamericanhistory.org/whos-who-277-tsing-fang-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-tsing-fang-chen/)
 
+## Vault records (deepen pass 2026-09-10)
+
+TAH vault pages for Dr. Chen already held in the vault (bibliographic records; full text stays in the vault):
+
+- [[works/taiwaneseamericanhistory-org/artist6-tsing-fang-chen|TAH artist #6 — 陳錦芳 Tsing-Fang Chen]] (published 2014-09-05)
+- [[works/taiwaneseamericanhistory-org/whos-who-277-tsing-fang-chen|TAH Who's Who #277 — Dr. Tsing Fang Chen 陳錦芳博士]] (2015-02-08)
+- [[works/taiwaneseamericanhistory-org/ff12|TAH #12 — Dr. Chin-fan Chen 陳錦芳博士, Famous artist]] (2015-12-03)
+- [[works/taiwaneseamericanhistory-org/ff101|TAH #101 — First Culture Ambassador of Tolerance and Peace of the United Nations / 2001]] (2015-12-10)
+- [[works/taiwaneseamericanhistory-org/ff102|TAH #102 — First orient Ph.D. holder of the Art from Paris University, France / 1970]] (2015-12-10)
+- [[works/taiwaneseamericanhistory-org/dr-tsing-fang-chen|TAH #16 — Dr. Tsing-Fang Chen 陳錦芳博士]] (2017-11-28)
+- [[works/taiwaneseamericanhistory-org/collection-of-dr-tsing-fang-chen|TAH #63 — Collection of Dr. Tsing-Fang Chen 陳錦芳博士的收藏]] (2018-04-03)
+- [[works/taiwaneseamericanhistory-org/41-tsing-fang-chen-e9-99-b3-e9-8c-a6-e8-8a-b3|TAH #41 — Dr. Tsing Fang Chen 陳錦芳博士]] (2018-08-22)
+- Community role as Secretary-General of the World Federation of Taiwanese Associations: see the vault's [[works/taiwaneseamericanhistory-org/world-federation-of-taiwanese-associations-annual-conference|WFTA annual conference record]].
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

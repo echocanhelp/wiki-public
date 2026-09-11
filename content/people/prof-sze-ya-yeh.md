@@ -65,4 +65,16 @@ Accomplishment
 - 2009–present — Founder and President, TARSA-SC
 
 ## Family & Vault Connections (deepened 2026-09-10, vault-internal)
-- Wife: Grace (張信惠); Daughter: Carol (葉明宜); Son: Michael (葉明青) — no vault pages for them yet.
+- Wife: Grace (張信惠); Daughter: Carol (葉明宜); Son: Michael (葉明青) — see [[people/grace-h-yeh|Grace H. Yeh (張信惠)]].
+
+## Vault records (deepen pass 2026-09-10)
+
+Absorbed from the vault couple page [[people/ye-siya-zhang-xinhui|Ye Siya & Zhang Xinhui (葉思雅、張信惠)]] and the taiwanjustice.net harvest pages [[people/ye-siya|Yeh Ssu-ya / 葉思雅]] and [[people/zhang-xinhui|Chang Hsin-hui / 張信惠]] (no new sources):
+
+- Born 1937 in Taipei to a three-generation physician family; his father, an internist, died in World War II when Ye was seven. Married 1964 to [[people/grace-h-yeh|張信惠 (Grace)]] — the couple met in the YMCA sacred-song choir directed by Pastor Zhang Fengchang.
+- 1967 — Joined Yale's OB/GYN department for research training; participated in developing the first fetal heartbeat monitor, enabling prenatal detection of fetal distress. 1969 — Transferred to USC under Dr. Edward H. Hon and Dr. Edward J. Quilligan, continuing fetal-monitoring research and settling in Arcadia, CA.
+- 1974–1976 — Clinical residency at the Hospital of the University of Pennsylvania (accelerated two-year program under Prof. Luigi Mastroianni); 1976–1978 — Columbia University faculty; 1979–1990 — USC Associate Professor of OB/GYN; chair of OB/GYN at Einstein Healthcare Network, Philadelphia (recorded in the vault couple page as 1990–2002). Over 100 published papers; guest lectures worldwide.
+- **1981** — First Taiwanese obstetrician invited by the WHO to visit and lecture in China, speaking for Taiwan's medical community. Retired from clinical medicine in 2002.
+- Co-founded TARSA in 2009 with Lin Tianmin, Huang Zhiyang, Huang Youcheng and others ([[organizations/taiwanese-american-religious-study-association-southern-california-tarsa-sc|TARSA-SC]]); monthly interfaith study sessions at the Taiwan Community Center — the vault couple page records the association's dissolution in 2020.
+- With his wife established the classical-music appreciation program at the San Gabriel Valley Taiwanese Community Center (2015–2020); their joint 「週末漫談音樂」 column in 台灣公義報 reached its 100th issue in January 2022 ([[articles/taiwanjustice-net/2022/20220127025846_2022_01_10_圓滿的100-慶賀葉思雅_張信惠_週末漫談音樂_專_a1be6b822ac7cdcd|TJ milestone report]]).
+- 2021-10-15 — The 信雅古典音樂珍藏專區 opened at Tainan's 許石音樂圖書館, built from the couple's donated 10,000+ classical CD/vinyl collection ([[articles/taiwanjustice-net/2021/20211207113948_2021_10_15_台南許石音樂圖書館信雅古典音樂珍藏專區啟用_4e3b2180b83318fa|TJ report]]).

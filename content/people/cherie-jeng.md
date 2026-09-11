@@ -31,7 +31,7 @@ Mrs. Jeng is one of the founders and takes on the leading responsibility in teac
 
 ## Timeline
 - Born in Taiwan; piano major at Shih-Chien College
-- Accompanist and instructor of musicianship, Taipei Rong-Shing Children's Chorus; studied music education and choral training with Professor Chuang-Shien Lu
+- Accompanist and instructor of musicianship, Taipei Rong-Shing Children's Chorus; studied music education and choral training with Professor [[people/chuang-shien-lu||Chuang-Shien Lu (呂泉生)]]
 - Bachelor of Music in Piano Performance, San Francisco Conservatory of Music
 - 1987 — moved to the Washington, D.C. area; active in the local music community since
 - Choir director of Our Lady of China Pastoral Mission for ten years; conducted the Hai-Tien Chorus for many seasons

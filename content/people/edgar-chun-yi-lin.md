@@ -60,6 +60,8 @@ The TAH archive carries this person under both romanizations — Edgar (TAH #174
 - [[works/taiwaneseamericanhistory-org/whos-who-123-jun-yi-lin||123. Prof. Jun-Yi Lin 林俊義教授]]
 - [[works/taiwaneseamericanhistory-org/174-prof-edgar-lin||174. Prof. Edgar Lin 林俊義教授]]
 - [[works/taiwaneseamericanhistory-org/publication-501||501. 活出淋漓盡致的生命 林俊義回憶錄 / 2014/10 / Biography]] — his own memoir as filed in the TAH archive
+- Environmental-movement context in the vault: [[organizations/taiwan-environmental-action-network-tean||Taiwan Environmental Action Network (TEAN)]].
+- Graduate-school context: [[organizations/taiwanese-association-of-indiana||Taiwanese Association of Indiana]] as community context at Indiana Univ., where he took his M.S. and Ph.D. in Biology.
 
 ## Sources
 - [TAH #174 encyclopedia: 174. Prof. Edgar Lin 林俊義教授](https://taiwaneseamericanhistory.org/174-prof-edgar-lin/)

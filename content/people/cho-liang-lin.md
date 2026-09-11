@@ -62,6 +62,17 @@ Absorbed from vault-internal works (no web):
 - [TAH #70 encyclopedia: 70. 林昭亮-天籟的傳釋者 – 晨曦 編著 – 1999.09 – 音樂](https://taiwaneseamericanhistory.org/70-%e6%9e%97%e6%98%ad%e4%ba%ae-%e5%a4%a9%e7%b1%9f%e7%9a%84%e5%82%b3%e9%87%8b%e8%80%85-%e6%99%a8%e6%9b%a6-%e7%b7%a8%e8%91%97-1999-09-%e9%9f%b3%e6%a8%82/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/cho-liang-lin/)
 
+## Vault records (deepen pass 2026-09-10)
+
+Facts already present in vault pages citing Cho-Liang Lin (no new sources):
+
+- **1977** — Won the Spanish Queen Sofia International Violin Competition (西班牙索菲亞皇后小提琴國際大賽), per [[works/taiwaneseamericanhistory-org/winners27|TAH #27]].
+- **Childhood training** — Trained as a child in the 3B Youth Orchestra, founded in Tainan by 鄭昭明 after the 善友管弦樂團 (dissolved 1960) disbanded; [[people/nai-yuan-hu|胡乃元]] also trained there, per [[works/taiwaneseamericanhistory-org/ourjourneys287|Our Journeys #287 (黃東昇, 2017-05)]].
+- **1992–1993** — Performed in the 「台灣名家演奏系列」 concerts in Los Angeles, organized by Dr. 林衡哲's committee to introduce Taiwanese musicians and composers (works by 蕭泰然、許常惠) to US mainstream audiences, per [[works/taiwaneseamericanhistory-org/ourjourneys287|Our Journeys #287]].
+- **2016-12-12** — Concert with the Taiwanese National Symphony Orchestra sponsored by the Taiwan Center / LA in Costa Mesa, CA, per [[works/taiwaneseamericanhistory-org/important2016-37|TAH #37]].
+- **Chamber collaboration** — Cited as a collaborator in pianist 王佩瑤's TAH biography ([[people/tah-p-0c2b755a64|王佩瑤]]).
+- The 2001-02-10 Akron performance was conducted by [[people/ya-hui-wang|Ya-Hui Wang (王雅惠)]].
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -36,7 +36,7 @@ last_reviewed: 2026-09-10
 
 
 ## Connected in the Vault
-- Career spanned medicine and the arts: pathology leadership at Meriter Hospital (Madison, Wisconsin), a University of Wisconsin Medical School visiting professorship, founding of Vital Med Laboratories (Northbrook, Illinois, 1984–1989), and the Musée Highland (施哲三海嵐美術館) museum he founded in Highland Park, Illinois (1998–) with a Taipei branch (2014–).
+- Career spanned medicine and the arts: pathology leadership at Meriter Hospital (Madison, Wisconsin), a University of Wisconsin Medical School visiting professorship, founding of Vital Med Laboratories (Northbrook, Illinois, 1984–1989), and the [[organizations/shee-highland-musee-in-il||Musée Highland (施哲三海嵐美術館)]] museum he founded in Highland Park, Illinois (1998–) with a Taipei branch (2014–).
 - Awarded Young Investigator in Research by the Society of Nuclear Medicine; permanent member of the Doctors Mayo Society; exhibiting artist at the North American Taiwanese Physicians Association annual meeting.
 - **Karen Shee (施卿柔)**, an artist in the same TAH Who's Who vault, is a likely family connection — relationship not documented in vault sources: [[people/karen-shee||Karen Shee 施卿柔]].
 
