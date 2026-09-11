@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Prof. Fong-Yong Tsai (蔡芳洋教授)
 
@@ -42,7 +42,7 @@ Prof. Fong-Yong Tsai 蔡芳洋教授 – History of Taiwanese American (T.A. Arc
 
 ## Professional & Community Network
 - Academic medicine chain across the U.S. East and West coasts: Thomas Jefferson, Albany, USC Keck, UMKC, Allegheny/Hahnemann, and UC Irvine, rising from resident to chair of two departments.
-- Community leadership in the Taiwanese American movement: President of the Taiwan Association of Kansas City (1988) and of the NATPA Southern California Chapter (2007–2008).
+- Community leadership in the Taiwanese American movement: President of the [[organizations/taiwanese-association-of-greater-kansas-city-takc||Taiwan Association of Greater Kansas City (堪薩斯台灣同鄉會)]] (1988) and of the [[organizations/north-america-taiwanese-professors-sc||NATPA Southern California Chapter (北美洲台灣人教授協會南加州分會)]] (2007–2008).
 
 ## Family
 

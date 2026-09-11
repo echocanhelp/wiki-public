@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Prof. Frank S. T. Hsiao (蕭聖鐵教授)
 
@@ -43,7 +43,7 @@ Prof. Frank S. T. Hsiao 蕭聖鐵教授 – History of Taiwanese American (T.A. 
 - 1966–1967 — Visiting Assistant Professor, Dept. of Economics, University of Colorado Boulder; 1967–1975 Assistant/Associate Professor; 1975–2007 Professor; 2007– Professor Emeritus.
 - 1991–2007 — Senior Editor, Journal of Asian Economics (Elsevier); 2007–2020 Associate Editor.
 - American Committee of Asian Economic Studies (ACAES): member; Executive Board Member 2002–2006; Advisory Council 2020–.
-- Married to Mei-Chu Wang Hsiao; one daughter and one son.
+- Married to [[people/prof-mei-chu-wang-hsiao||Prof. Mei-Chu Wang Hsiao (王美珠教授)]]; one daughter and one son.
 - Chronicler of Taiwanese American history via T.A. Archives (台美史料中心), Colorado.
 
 ## Sources
