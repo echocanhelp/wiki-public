@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Ray Chen (陳銳)
 
@@ -48,6 +48,12 @@ _No filled family fields on the TAH profile._
 - [TAH #505 encyclopedia: 505. Ray Chen 陳銳 / 2015/07](https://taiwaneseamericanhistory.org/505-ray-chen-%e9%99%b3%e9%8a%b3-201507/)
 - [TAH #247 encyclopedia: 247. Ray Chen 陳銳, Violinist / 2015/07](https://taiwaneseamericanhistory.org/247-ray-chen-%e9%99%b3%e9%8a%b3-violinist-201507/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ray-chen/)
+
+## Vault Holdings
+
+- [[works/taiwaneseamericanhistory-org/244-e9-99-b3-e9-8a-b3-ray-chen-e7-ac-ac-e4-b8-80-e4-bd-8d-e5-8f-83-e5-8a-a0-e8-a|TAH #244]] — 陳銳 Ray Chen／第一位參加諾貝爾獎音樂會演出（2016-02-10 刊）
+- [[works/taiwaneseamericanhistory-org/247-ray-chen-e9-99-b3-e9-8a-b3-violinist-201507|TAH #247]] — Ray Chen 陳銳, Violinist（2015-07-18 刊）
+- [[works/taiwaneseamericanhistory-org/505-ray-chen-e9-99-b3-e9-8a-b3-201507|TAH #505]] — Ray Chen 陳銳（2015-07-18 刊）
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

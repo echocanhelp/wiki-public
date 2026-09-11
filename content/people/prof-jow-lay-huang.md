@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Prof. Jow-Lay Huang (黃肇端教授)
 
@@ -50,6 +50,10 @@ _No filled family fields on the TAH profile._
 ## Sources
 - [TAH #1790 encyclopedia: 1790. Prof. Jow-Lay Huang 黃肇端教授](https://taiwaneseamericanhistory.org/whos-who-1790-jow-lay-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-jow-lay-huang/)
+
+## Vault Holdings
+
+- [[works/taiwaneseamericanhistory-org/whos-who-1790-jow-lay-huang|TAH Who's Who #1790]] — Prof. Jow-Lay Huang 黃肇端教授（2017-07-27 刊）
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

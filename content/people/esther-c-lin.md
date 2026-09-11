@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Esther C. Lin (林陳春蘭)
 
@@ -34,6 +34,7 @@ Esther C. Lin is a versatile Taiwanese American artist. President of Taiwan Cent
 - Conductor/director roles per TAH table: 台灣醫學院合唱團 指揮; 台北教師合唱團 指導; 紐約頌音合唱團 指揮
 - Awards: New York State Governor's Arts Award; Lions Club Lifetime Achievement Award
 - Pastel artist guided into the medium by Jason Chang, President of the North American Pastel Artists Association; works frequently exhibited, noted for bright color and simple construction expressing truth, kindness and beauty
+- **1986-12-14** — 於紐約 Flushing 舉辦「林陳春蘭師生音樂演奏會」（TAH concerts #17 紀錄）
 - Devoted to music education and music evangelicalism; vocal art, piano performance, choir conducting
 
 ## Family
@@ -47,6 +48,15 @@ Esther C. Lin is a versatile Taiwanese American artist. President of Taiwan Cent
 - [TAH #925 encyclopedia: 925. Esther C. Lin  林陳春蘭/ 2016/04](https://taiwaneseamericanhistory.org/whoswho925/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/esther-c-lin/)
 
+## Vault Holdings
+
+- [[works/taiwaneseamericanhistory-org/musician337|TAH musician #337]] — Esther C. Lin 林陳春蘭, Soprano（2016-04-03 刊）
+- [[works/taiwaneseamericanhistory-org/whoswho925|TAH Who's Who #925]] — Esther C. Lin 林陳春蘭（2016-04-03 刊）
+- [[works/taiwaneseamericanhistory-org/concerts17|TAH concerts #17]] — 林陳春蘭師生音樂演奏會，Flushing, NY，1986-12-14
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
+- [[people/jason-chang|Jason Chang]] — 北美粉彩畫家協會總裁，引她進入粉彩創作
+- [[organizations/north-america-pastel-artist-association|North America Pastel Artist Association（北美粉彩畫家協會）]]
+- [[organizations/taiwan-center-choir|Taiwan Center Choir]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
