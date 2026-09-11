@@ -15,7 +15,7 @@ last_reviewed: 2026-09-11
 
 ## ITPC Role
 
-The ITPC history document states that after 鄭泉聲牧師 returned to Japan, the congregation invited nearby pastors to help with pastoral care until 郭應言牧師 was called approximately a year later. It describes 郭應言牧師 as previously serving at a "House of Christ" church context and notes that he resigned after about one year because he was not accustomed to the Presbyterian church system.
+The ITPC history document states that after 鄭泉聲牧師 returned to Japan, the congregation invited nearby pastors to help with pastoral care until 郭應言牧師 was called approximately a year later. It describes 郭應言牧師 as previously serving at a "House of Christ" church context and notes that he resigned after about one year because he was not accustomed to the Presbyterian church system. His call and short tenure fall within the pastoral chronology of the [[organizations/irvine-taiwanese-presbyterian-church||Irvine Taiwanese Presbyterian Church]] congregation.
 
 ## Historical Significance
 
