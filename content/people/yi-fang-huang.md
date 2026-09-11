@@ -44,8 +44,12 @@ _No filled family fields on the TAH profile._
 - 2011–Present — Juilliard School Pre-College faculty
 
 ## Vault records
-- [[works/taiwaneseamericanhistory-org/whoswho1109||TAH #1109 encyclopedia: Yi-Fang Huang 黃亦芳 (2016/06)]]
-- [[works/taiwaneseamericanhistory-org/musician39||TAH #39: Yi-Fang Huang 黃亦芳, Pianist (2014/10)]]
+- [[works/taiwaneseamericanhistory-org/whoswho1109||TAH #1109 encyclopedia: Yi-Fang Huang 黃亦芳 (published 2016-06-25)]]
+- [[works/taiwaneseamericanhistory-org/musician39||TAH #39: Yi-Fang Huang 黃亦芳, Pianist (published 2014-10-11)]]
+- Both vault records are bibliographic stubs ("full text stays in the vault"); no additional biography is absorbable from them beyond the dates above.
+
+## Name Variants / Disambiguation
+- Do not confuse with **Linda (Yi-Fang) Yau 劉義芳** — a different TAH Who's Who subject ([[works/taiwaneseamericanhistory-org/whos-lindayi-fang-yau|TAH #1566, 2017-03-20]]; page [[people/lindayi-fang-yau|Linda(Yi-Fang) Yau]], spouse page [[people/william-yau|William Yau]]). The shared romanized given name "Yi-Fang" has caused cross-linking errors.
 
 ## Sources
 - [TAH #1109 encyclopedia: 1109. Yi-Fang Huang 黃亦芳 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1109/)

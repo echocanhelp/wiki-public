@@ -47,9 +47,14 @@ Prof. Jyu-Hsiung Fang 方菊雄教授 – History of Taiwanese American (T.A. Ar
 - Columbia Univ. College of Physicians and Surgeons — Assistant Professor — (1972-1992) — Tzu Chi Univ. — Director of the Institute of Human Genetics — (2000-) — Tzu Chi Univ. — President — (2002-2005) — Community — TAA/New York Chapter (大紐約區台灣同鄉會) — President — Taiwanese American Conference/East Coast (美東台灣人夏令會) — Coordinator — Professor Chen Wen-Chen Memorial Foundation (陳文成基金會) — President
 <!-- tah-tables:end -->
 
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/186-prof-jyu-hsiung-fang|TAH #186 Who's Who]] (published 2018-11-06)
+- [[works/taiwaneseamericanhistory-org/whos-who-714-jyu-hsiung-fan|TAH #714 Who's Who]] (published 2015-11-27)
+- [[works/taiwaneseamericanhistory-org/371-e5-a6-99-e5-8d-9a-e5-a3-ab-e6-96-b9-e8-8f-8a-e9-9b-84-e4-bb-a5-e6-a0-a1-e7-8|TAH #371 — 妙博士方菊雄 以校為家 永不畢業 (陳美羿, 2015/11)]] — feature profile, published 2015-11-30
+
 ## Family
 
-- **Wife:** [[people/jean-j-fang||黃靜枝]]
+- **Wife:** [[people/jean-j-fang||黃靜枝]] — artist and educator (TAH #163 / #827); President of the [[organizations/north-america-taiwanese-womens-association|North America Taiwanese Women's Association (NATWA)]] 1999–2000, and like Fang a leader in the TAA/New York Chapter and the 美東台灣人夏令會
 
 
 ## Vault Holdings

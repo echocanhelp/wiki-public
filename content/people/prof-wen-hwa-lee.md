@@ -45,11 +45,12 @@ Accomplishment
 - 2014–2019 — Chancellor & Distinguished Professor, University of California, Irvine; from 2014 also Principal, China Medical University
 
 ## Vault Holdings
-- [[works/taiwaneseamericanhistory-org/whos-who-1795-wen-hwa-lee|TAH #1795 Who's Who]]
+- [[works/taiwaneseamericanhistory-org/whos-who-1795-wen-hwa-lee|TAH #1795 Who's Who]] (published 2017-07-29)
 
 ## Family
 
 - **Wife:** 潘玉華
+- **Spouse discrepancy (HOLD):** the adjacent TAH encyclopedia entry [[works/taiwaneseamericanhistory-org/whos-who-1796-eva-y-h-p-lee|TAH #1796 — Prof. Eva Y. H. P. Lee 李葉錦蓮]] and her page [[people/prof-eva-y-h-p-lee||Prof. Eva Y. H. P. Lee]] list Wen-Hwa Lee as *husband*; this page's TAH record lists 潘玉華. Two spouse names across parallel TAH records — held unresolved pending owner verification, no merge.
 
 
 ## Vault Cross-References

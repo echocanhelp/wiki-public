@@ -30,6 +30,11 @@ Karen Hsiao Savage is Associate Professor at Washington State University School 
 - Washington State University School of Music — Associate Professor — University of Missouri - Kansas City — Associate Professor of Collaborative Piano — (2019-) — Community — 88SQUARED (piano duo) — Co-performer with husband Jeffrey Savage
 <!-- tah-tables:end -->
 
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/musician429|TAH #429 — Karen Hsiao Savage, Pianist]] (published 2018-05-08)
+- [[works/taiwaneseamericanhistory-org/whos-who-2108-karen-hsiao-savage|TAH #2108 Who's Who]] (published 2018-05-08)
+- Father's record: [[works/taiwaneseamericanhistory-org/whoswho1013|TAH #1013 — Sin-I Hsiao 蕭欣義]] (published 2016/05) — his table lists 東海大學 B.S. and Harvard Ph.D. in intellectual history, and Victoria大學 亞太學系主任, which matches this page's Victoria, Canada geography.
+
 ## Family
 
 - **Husband:** Jeffrey Savage
