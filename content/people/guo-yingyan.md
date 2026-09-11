@@ -7,7 +7,7 @@ tags:
   - ITPC
   - Taiwanese-American
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Guo Yingyan (郭應言)
 

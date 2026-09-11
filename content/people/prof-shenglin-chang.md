@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Prof. Shenglin Chang (張聖琳教授)
 
@@ -41,7 +41,7 @@ Prof. Shenglin Chang 張聖琳教授 – History of Taiwanese American (T.A. Arc
 - **2008–2017** — National Taiwan University, Graduate Institute of Building and Planning — Associate Professor, Professor, and Director
 - **2017–2018** — University of Birmingham, Institute of Advanced Studies — Distinguished Research Fellow
 - **2018–2019** — Hyogo University, Awaji Campus — Visiting Professor
-- Associated with the History of Taiwanese American (T.A. Archives) 台美史料中心 record-keeping effort
+- Associated with the History of Taiwanese American (T.A. Archives) 台美史料中心 record-keeping effort (see [[organizations/taiwanese-american-historical-society||台灣美國歷史協會 TAHS]])
 
 *Source: on-page TAH Who's Who profile ([TAH #1767](https://taiwaneseamericanhistory.org/whos-who-1767-shenglin-chang/)).*
 

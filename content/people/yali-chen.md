@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Yali Chen (陳雅莉)
 
@@ -44,7 +44,7 @@ _No filled family fields on the TAH profile._
 
 ## Career & Milestones
 Absorbed from the profile text and cited TAH encyclopedia entries:
-- Began on piano; moved to music theory, Solfege training, then oboe performance at 台灣師範大學 (NTNU), B.S. Music.
+- Began on piano; moved to music theory, Solfege training, then oboe performance at [[organizations/joint-alumni-association-of-taiwan-teachers-college-and-normal-univers|台灣師範大學]] (NTNU), B.S. Music.
 - Principal oboist of the NTNU University Symphony Orchestra; won the university concerto competition and performed Haydn's Oboe Concerto with the Orchestra; numerous solo and chamber concerts.
 - Studied under Professor Pierre W. Feit during a visit to Vienna and Graz, Austria; won Third Prize at the Wiener International Summer Camp.
 - Returned to Taiwan to teach oboe while serving as principal oboist of the [[organizations/tah-foundation|National Symphony Orchestra in Taiwan]]-era national music scene; later guest oboist with orchestras at the Disney Concert Hall, Segerstrom Hall (Anaheim), and Riverside County (per Employment table).

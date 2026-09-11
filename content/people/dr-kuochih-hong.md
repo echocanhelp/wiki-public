@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Dr. Kuochih Hong (洪國治博士)
 
@@ -52,6 +52,11 @@ last_reviewed: 2026-09-10
 - [TAH #258 encyclopedia: 258. Dr. Kuochih Hong 洪國治博士](https://taiwaneseamericanhistory.org/ota-258/)
 - [TAH #171 encyclopedia: 171. Dr. Kuochih Hong 洪國治博士](https://taiwaneseamericanhistory.org/whos-who-171-kuochih-hong/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-kuochih-hong/)
+
+## Vault Holdings
+TAH encyclopedia records held in this vault:
+- [[works/taiwaneseamericanhistory-org/ota-258||TAH #258 — Dr. Kuochih Hong 洪國治博士]]
+- [[works/taiwaneseamericanhistory-org/whos-who-171-kuochih-hong||TAH #171 — Dr. Kuochih Hong 洪國治博士]]
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
