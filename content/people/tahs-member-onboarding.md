@@ -60,3 +60,8 @@ Pages that link to **tahs-member-onboarding** (tahs-member-onboarding):
 - Contributions & corrections entry point: [[index||Contribute & correct]]
 - LINE ↔ Echopedia Identity Linking — Decision Tree
 - LINE ↔ Echopedia Identity Linking v1 Schema
+
+## Vault records (deepen pass 2026-09-10)
+
+- The society page [[organizations/taiwanese-american-historical-society||TAHS]] documents this pathway as **owner-confirmed LINE introductions, membership recorded with appointment basis** — the consent-boundary rule above in practice.
+- Officers recorded through this pathway are listed on the society page, including CTO [[people/david-lee||David Lee (李東璞)]], one of the two people pages that link back here.

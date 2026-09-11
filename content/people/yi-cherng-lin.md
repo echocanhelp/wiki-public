@@ -58,3 +58,7 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/14-yi-cherng-lin-e6-9e-97-e5-ae-9c-e8-aa-a0-baritone||TAH Encyclopedia #14: Yi-Cherng Lin, Baritone]]
 - [[organizations/greater-washington-taiwan-culture-center||Greater Washington Taiwan Culture Center (華府台灣文化中心)]] — 執行長
 - [[organizations/university-of-maryland-taiwanese-student-association||University of Maryland Taiwanese Student Association]] — affiliated UMD page
+
+## Vault records (deepen pass 2026-09-10)
+
+- [[people/pin-huey-wang||Pin-Huey Wang]] — pianist (also a University of Maryland College Park DMA graduate, 2008). Her vault-recorded TAH profile notes **a concert with baritone Yi-Cherng Lin at the Taiwanese Culture Center in San Diego**, the reciprocal record of this performance.

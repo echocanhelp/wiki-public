@@ -35,3 +35,11 @@ The Senior Taiwanese Association of Northern California is a nonprofit service o
 - [[organizations/greater-sacramento-taiwanese-association-gsta||Greater Sacramento Taiwanese Association (GSTA)]]
 - [[organizations/taiwanese-american-center-of-northern-california||Taiwanese American Center of Northern California]]
 - [[organizations/taiwanese-american-senior-society-tass-of-greater-washington-dc||Taiwanese American Senior Society (TASS) of Greater Washington D.C.]] — peer senior org
+
+## Vault records (deepen pass 2026-09-10)
+
+The vault already holds this association's own publication record and member directory:
+
+- [[works/taiwaneseamericanhistory-org/3-senior-taiwanese-association-of-northern-california||TAH directory record #3: 北加州台灣長輩會]] — the source directory entry behind this page.
+- [[works/taiwaneseamericanhistory-org/newsletters-of-senior-taiwanese-association-of-northern-california||Newsletters 北加州臺灣長輩會通訊]] — record of the monthly newsletter noted above.
+- 35 member-biography records from the association's senior directory are held at `works/taiwaneseamericanhistory-org/senior-taiwanese-american-2` … `senior-taiwanese-american-36` (e.g. Prof. T. Anthony Tu 杜祖健教授).

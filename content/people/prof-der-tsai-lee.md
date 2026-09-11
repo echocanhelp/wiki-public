@@ -53,3 +53,10 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/whos-who-1798-der-tsai-lee||TAH Encyclopedia #1798: Prof. Der-Tsai Lee 李德財教授]]
+
+## Vault records (deepen pass 2026-09-10)
+
+Facts already present in cited vault pages, absorbed here:
+
+- [[works/taiwaneseamericanhistory-org/ourjourneys123||Our Journeys #123]] — records 李德財 as **Director of the Institute of Information Science, Academia Sinica**, leading a National Digital Archives Program (國家數位典藏計畫) delegation of over ten people (with Deputy Director 曾志朗) to the 博物館電腦網路 annual meeting and demonstrating program results.
+- [[articles/taiwanjustice-net/2022/20221205042705_2022_11_14_黃春明施崇棠獲台大名譽博士-翁啟惠獲傑出校友_6463ca4f49f172e9||Taiwan Justice Net, 2022-11-14]] — 李德財 among ten recipients of National Taiwan University's **Outstanding Alumni Award (傑出校友)**, 2022 (NTU being his 1971 B.S. alma mater above).
