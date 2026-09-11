@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # May-Sing Chang (黃美星)
 
@@ -49,6 +49,7 @@ May-Sing studied music in college, and had a lot of concert experience since gra
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/195-may-sing-chang||TAH Encyclopedia #195: May-Sing Chang 黃美星]]
 - [[works/taiwaneseamericanhistory-org/263-may-sing-huang-e9-bb-83-e7-be-8e-e6-98-9f-vocalist-201508||TAH Encyclopedia #263: May-Sing Chang 黃美星, Vocalist (2015-08)]]
+- [[works/taiwaneseamericanhistory-org/whos-who-558-may-sing-huang||TAH Encyclopedia #558: May-Sing Chang 黃美星]]
 - [[organizations/north-america-taiwanese-womens-association||NATWA]]
 - [[organizations/taiwanese-association-of-oklahoma||Taiwanese Association of Oklahoma]]
 

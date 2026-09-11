@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Wei-Ling Chen (陳為伶)
 
@@ -60,6 +60,7 @@ _No filled family fields on the TAH profile._
 ## Vault Cross-References
 - TAH encyclopedia records for this profile exist in the vault: [[works/taiwaneseamericanhistory-org/22-wei-ling-chen-e9-99-b3-e7-82-ba-e4-bc-b6-composer|TAH #22 陳為伶 (Composer), 2014/10]] and [[works/taiwaneseamericanhistory-org/517-wei-ling-chen-e9-99-b3-e7-82-ba-e4-bc-b6-201507|TAH #517 陳為伶, 2015/07]].
 
-## Vault records (deepen pass 2026-09-10)
+## Vault records (deepen pass 2026-09-11)
 - **Archival records (dated):** TAH #22（Composer）published 2014-10-11; TAH #517 published 2015-07-25 — see the work records linked in the Vault Cross-References section on this page.
 - **Affiliation pages verified in vault:** music-instructor post at [[organizations/houston-taiwan-institute-for-senior-citizens||Houston Taiwan Institute for Senior Citizens]] (per this page's TAH employment table).
+- **Commissioned composer/arranger for Grace Taiwan Presbyterian Church** — her Houston-period church matches the vault record [[works/taiwaneseamericanhistory-org/grace-taiwan-presbyterian-church-in-houston||Grace Taiwan Presbyterian Church in Houston]]; no vault page yet for Musique 21 (Michigan State University new-music ensemble) or a Taiwanese Association in America page under that exact name.

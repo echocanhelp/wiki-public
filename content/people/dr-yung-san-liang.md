@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Dr. Yung-San Liang (梁永三博士)
 
@@ -56,7 +56,8 @@ Accomplishment
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
-## Vault records (deepen pass 2026-09-10)
-- Encyclopedia records in vault: [[works/taiwaneseamericanhistory-org/ota-254||TAH #254 Dr. Yung-San Liang 梁永三博士]], [[works/taiwaneseamericanhistory-org/whos-who-2172-yung-san-liang||TAH #2172 Dr. Yung-San Liang 梁永三博士]] (no vault work page yet for #30).
+## Vault records (deepen pass 2026-09-11)
+- Encyclopedia records in vault: [[works/taiwaneseamericanhistory-org/senior-taiwanese-american-30||TAH #30 Dr. Yung-San Liang (梁永三博士)]], [[works/taiwaneseamericanhistory-org/ota-254||TAH #254 Dr. Yung-San Liang 梁永三博士]], [[works/taiwaneseamericanhistory-org/whos-who-2172-yung-san-liang||TAH #2172 Dr. Yung-San Liang 梁永三博士]].
+- Washington D.C. Taiwan School — volunteer teacher of Japanese language per the on-page employment table; vault record: [[works/taiwaneseamericanhistory-org/enews-washington-dc-taiwanese-school||Washington DC Taiwanese School (華府台灣學校)]].
 - Award issuer present in vault: [[organizations/taiwanese-youth-arts-foundation-washington-dc||Taiwanese Youth Arts Foundation (Washington DC)]] — per the on-page table he received its Outstanding Service Award (2002–2003).
 - Greater-D.C. community cluster (context only, no documented membership): [[organizations/taiwanese-american-cultural-society-of-the-capital-district||Taiwanese American Cultural Society of the Capital District]], [[organizations/taiwanese-american-senior-society-tass-of-greater-washington-dc||TASS of Greater Washington DC]]. The "Taiwanese American Association of Great D.C. Areas" (Board 2002–2003 per on-page table) has no vault page under that exact name yet.

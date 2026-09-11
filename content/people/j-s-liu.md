@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # J. S. Liu (劉佳欣)
 
@@ -55,7 +55,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-## Connected in the Vault（deepen pass 2026-09-10）
+## Connected in the Vault（deepen pass 2026-09-11）
 
 - 本頁 TAH 傳記之出處頁：[[works/taiwaneseamericanhistory-org/whoswho1544||TAH #1544 J. S. Liu 劉佳欣]]、[[works/taiwaneseamericanhistory-org/musician389||TAH #389 劉佳欣, Pianist]]。
 - 任職鋼琴伴奏之洛杉磯心悅合唱團見 [[works/taiwaneseamericanhistory-org/los-angeles-melody-chorus||TAH #53 Los Angeles Melody Chorus 洛杉磯心悅合唱團]]（2016 演唱會紀錄另見 [[works/taiwaneseamericanhistory-org/concerts86||TAH #86]]）。
