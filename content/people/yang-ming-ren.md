@@ -39,6 +39,11 @@ UCLA B.S. Computer Science and Engineering (1994). TAH lists guest conducting th
 - [[organizations/formosan-presbyterian-church-in-los-angeles||FPCLA]] — TAH: guest conductor, joint choir
 - [[people/james-yang||Not 楊榮勝]]
 
+## Related Pages
+
+- [[people/james-yang]]
+- [[organizations/formosan-presbyterian-church-in-los-angeles]]
+
 ## Sources
 - [James Yang 楊明仁](https://taiwaneseamericanhistory.org/person/james-yang/)
 - [[sources/taiwaneseamericanhistory-org||TAH Foundation Who’s Who]]

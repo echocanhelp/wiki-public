@@ -1,10 +1,24 @@
 {
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "standards_version": 10,
   "total_pages_scanned": 2879,
-  "pages_with_findings": 11,
-  "auto_queued": 1,
+  "pages_with_findings": 43,
+  "auto_queued": 2,
   "queue": [
+    {
+      "path": "people/anita-wen-shin-chang.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "READABILITY_MANY_LONG_SENTENCES_4"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
     {
       "path": "people/grace-chung.md",
       "findings": [
@@ -20,6 +34,6 @@
       ]
     }
   ],
-  "suppressed_findings": 1840,
-  "fp_history_entries": 1890
+  "suppressed_findings": 1839,
+  "fp_history_entries": 1925
 }

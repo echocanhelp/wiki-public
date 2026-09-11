@@ -20,15 +20,15 @@
       "action": "Confirm preferred EN / slug (do not invent)"
     },
     {
-      "slug": "zhang-xuanxin",
-      "detail": "pinyin surname zhang title=Zhang Xuanxin (張宣信)",
-      "title": "Romanization: zhang-xuanxin",
-      "action": "Confirm preferred EN / slug (do not invent)"
-    },
-    {
       "slug": "zheng-bing-quan",
       "detail": "pinyin surname zheng title=Zheng Bingquan (鄭炳全)",
       "title": "Romanization: zheng-bing-quan",
+      "action": "Confirm preferred EN / slug (do not invent)"
+    },
+    {
+      "slug": "zheng-dazhi",
+      "detail": "pinyin surname zheng title=Zheng Dazhi (鄭達志)",
+      "title": "Romanization: zheng-dazhi",
       "action": "Confirm preferred EN / slug (do not invent)"
     }
   ]

@@ -1,0 +1,71 @@
+{
+  "date": "2026-09-11",
+  "total_actions": 4,
+  "priorities": {
+    "high": 0,
+    "medium": 3,
+    "low": 1
+  },
+  "evaluated": [
+    {
+      "page": "people/grace-chung.md",
+      "finding": "LINKS_LOW_DENSITY",
+      "finding_prefix": "LINKS_LOW_DENSITY",
+      "action": "Add more wikilinks to related pages",
+      "detail": "This page has low wikilink density. Add [[wikilinks]] to people, organizations, and sources mentioned in the text.",
+      "playbook": "P3",
+      "page_type": "people",
+      "inbound_links": 2,
+      "type_weight": 1.5,
+      "finding_weight": 1.5,
+      "score": 4.5,
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/anita-wen-shin-chang.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "page_type": "people",
+      "inbound_links": 2,
+      "type_weight": 1.5,
+      "finding_weight": 1.0,
+      "score": 3.0,
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/grace-chung.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "page_type": "people",
+      "inbound_links": 2,
+      "type_weight": 1.5,
+      "finding_weight": 1.0,
+      "score": 3.0,
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/anita-wen-shin-chang.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_4",
+      "finding_prefix": "READABILITY_MANY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Multiple sentences exceed 50 words. Break them up for readability.",
+      "playbook": "P8",
+      "page_type": "people",
+      "inbound_links": 2,
+      "type_weight": 1.5,
+      "finding_weight": 0.5,
+      "score": 1.5,
+      "priority": "low",
+      "source": "content-analysis-queue"
+    }
+  ]
+}

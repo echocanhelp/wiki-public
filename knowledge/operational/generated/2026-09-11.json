@@ -1,0 +1,59 @@
+{
+  "date": "2026-09-11",
+  "total_cards": 4,
+  "evaluated_file": "/home/leedt/echo-system/knowledge/operational/evaluated/2026-09-11.json",
+  "priority_counts": {
+    "medium": 3,
+    "low": 1
+  },
+  "playbook_counts": {
+    "P3": 1,
+    "P8": 3
+  },
+  "cards": [
+    {
+      "card_id": "echo-gen-2026-09-11-0001",
+      "title": "[MEDIUM] grace-chung: Add more wikilinks to related pages",
+      "body": "## Task: [MEDIUM] grace-chung: Add more wikilinks to related pages\n\n**Priority:** medium\n**Playbook:** P3\n**Page:** `people/grace-chung.md`\n**Finding:** `LINKS_LOW_DENSITY`\n**Score:** 4.5 (inbound links: 2)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/grace-chung.md\n3. Find broken wikilinks and repair or redirect\n4. Commit only (no publish)\n\n### Specific Fix\n**Action:** Add more wikilinks to related pages\n**Detail:** This page has low wikilink density. Add [[wikilinks]] to people, organizations, and sources mentioned in the text.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: LINKS_LOW_DENSITY\nPage type: people\nType weight: 1.5\nFinding weight: 1.5",
+      "priority": "medium",
+      "playbook": "P3",
+      "page": "people/grace-chung.md",
+      "finding": "LINKS_LOW_DENSITY",
+      "score": 4.5,
+      "target_path": "/home/leedt/echo-system/content/people/grace-chung.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-11-0002",
+      "title": "[MEDIUM] anita-wen-shin-chang: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [MEDIUM] anita-wen-shin-chang: Ensure the first paragraph mentions the page subject\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/anita-wen-shin-chang.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 3.0 (inbound links: 2)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/anita-wen-shin-chang.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-11 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/anita-wen-shin-chang.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 3.0,
+      "target_path": "/home/leedt/echo-system/content/people/anita-wen-shin-chang.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-11-0003",
+      "title": "[MEDIUM] grace-chung: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [MEDIUM] grace-chung: Ensure the first paragraph mentions the page subject\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/grace-chung.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 3.0 (inbound links: 2)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/grace-chung.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-11 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/grace-chung.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 3.0,
+      "target_path": "/home/leedt/echo-system/content/people/grace-chung.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-11-0004",
+      "title": "[LOW] anita-wen-shin-chang: Break up long sentences",
+      "body": "## Task: [LOW] anita-wen-shin-chang: Break up long sentences\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `people/anita-wen-shin-chang.md`\n**Finding:** `READABILITY_MANY_LONG_SENTENCES_4`\n**Score:** 1.5 (inbound links: 2)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/anita-wen-shin-chang.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-11 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Multiple sentences exceed 50 words. Break them up for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_MANY_LONG_SENTENCES\nPage type: people\nType weight: 1.5\nFinding weight: 0.5",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "people/anita-wen-shin-chang.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_4",
+      "score": 1.5,
+      "target_path": "/home/leedt/echo-system/content/people/anita-wen-shin-chang.md"
+    }
+  ]
+}

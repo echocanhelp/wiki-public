@@ -47,6 +47,12 @@ Huai-Shion Tsai was born in Tainan, Taiwan in 1947. She graduated from the Natio
 - **Son:** Jack, Steve, Mike, Jimmy
 
 
+## Vault records
+- [[works/taiwaneseamericanhistory-org/whos460-huai-shion-tsai||TAH #460: Huai Shion Tsai 蔡蕙香 (2015/06)]]
+- [[works/taiwaneseamericanhistory-org/artist19-huai-shion-tsai||TAH #19: 蔡蕙香 Huai-Shion Tsai, Artist]]
+- [[works/taiwaneseamericanhistory-org/163-e8-94-a1-e8-95-99-e9-a6-991988-e8-94-a1-e8-95-99-e9-a6-99198801art-e8-97-9d-||TAH #163: 蔡蕙香 1988/01 Art/藝術]]
+- [[works/taiwaneseamericanhistory-org/164-e8-94-a1-e8-95-99-e9-a6-991995-e8-94-a1-e8-95-99-e9-a6-99199501art-e8-97-9d-||TAH #164: 蔡蕙香 1995/01 Art/藝術]]
+
 ## Sources
 - [TAH #460 encyclopedia: 460. Huai Shion Tsai 蔡蕙香/2015/06](https://taiwaneseamericanhistory.org/whos460-huai-shion-tsai/)
 - [TAH #164 encyclopedia: 164.蔡蕙香1995/蔡蕙香/1995/01/Art/藝術](https://taiwaneseamericanhistory.org/164-%e8%94%a1%e8%95%99%e9%a6%991995%e8%94%a1%e8%95%99%e9%a6%99199501art%e8%97%9d%e8%a1%93/)
