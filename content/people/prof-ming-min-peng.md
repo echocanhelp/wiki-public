@@ -39,7 +39,7 @@ Accomplishment
 - 1964 — 與學生謝聰敏、魏廷朝起草「台灣自救運動宣言」，遭逮捕（詳見 [[people/peng-ming-min|彭明敏]] 人物頁）
 - 1970 — 突破監控逃至瑞典，經底特律入境美國（見 [[works/taiwaneseamericanhistory-org/9291970-prof-peng-ming-min-arrived-at-detroit-mi|TAH 照片album：1970 抵底特律]]）
 - 1972 — 任台灣獨立建國聯盟（UFI）主席
-- 1986 — 民主進步黨創黨黨主席（見 [[people/peng-ming-min|彭明敏]]）
+- 1986 — 民主進步黨創黨黨主席（見 [[organizations/democratic-progressive-party|民主進步黨]]、[[people/peng-ming-min|彭明敏]]）
 - 曾任台灣人公共事務會（FAPA）會長；2000 年代表 DPP 參選總統
 
 ## Vault Holdings

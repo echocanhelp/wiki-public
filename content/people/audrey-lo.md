@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Audrey Lo
 
@@ -55,3 +55,8 @@ _No filled family fields on the TAH profile._
 
 - 本頁傳記之 TAH 出處頁：[[works/taiwaneseamericanhistory-org/235-audrey-lo-violin-201507||TAH #235 Audrey Lo, Violin (2015/07)]]、[[works/taiwaneseamericanhistory-org/16868||TAH #490 Audrey Lo (2015/07)]]。
 - publisher／語料庫：[[organizations/tah-foundation||TAH Foundation]]、[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
+
+## deepen pass 2026-09-11（DEEPEN-X slice 09102200-29）
+
+核查本頁所有出處與連結：引用的 TAH 條目頁（works/taiwaneseamericanhistory-org/*）與組織／語料庫頁皆已存在於 vault，
+傳記事實已全部吸收自既有引用來源（vault-only，未上網、未新增傳記內容、未新建頁面）。本頁已為深化完成狀態。
