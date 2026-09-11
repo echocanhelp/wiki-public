@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Dr. Soo-Chen Cheng (鄭淑珍博士)
 
@@ -47,5 +47,6 @@ Degree Program (2013–). Profiled in TAH Who's Who encyclopedia #1840
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-soo-chen-cheng/)
 
 ## Related Pages
+- [[works/taiwaneseamericanhistory-org/whos-who-1840-soo-chen-cheng||TAH #1840 鄭淑珍博士傳記]]（2017-08-13 刊）
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

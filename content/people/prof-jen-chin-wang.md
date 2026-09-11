@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Prof. Jen Chin Wang (王政卿教授)
 
@@ -44,6 +44,11 @@ Accomplishment
 - **Daughter:** Anne, Sunny
 - **Son:** Winston
 
+
+## Vault Holdings（deepen pass 2026-09-11）
+
+- TAH 傳記記錄：[[works/taiwaneseamericanhistory-org/139-prof-jen-chin-wang-e7-8e-8b-e6-94-bf-e5-8d-bf-e6-95-99-e6-8e-88||TAH #139 Prof. Jen Chin Wang 王政卿教授]]（書目記錄，全文在 TAH）。
+- 任職／參與之既有組織頁：[[organizations/north-american-taiwanese-medical-association-foundation||NATMA Foundation 北美洲台灣人醫師協會基金會]]（時任董事長）、[[organizations/new-york-taiwan-center||New York Taiwan Center 紐約台灣會館]]（Taiwan Center/New York 董事）、[[organizations/global-taiwan-institute||Global Taiwan Institute (GTI)]]（共同創辦人，見上方 Timeline）。
 
 ## Sources
 - [TAH #139 encyclopedia: 139. Prof. Jen Chin Wang 王政卿教授](https://taiwaneseamericanhistory.org/139-prof-jen-chin-wang-%e7%8e%8b%e6%94%bf%e5%8d%bf%e6%95%99%e6%8e%88/)

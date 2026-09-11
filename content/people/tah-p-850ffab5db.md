@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # 周政忠
 
@@ -44,6 +44,7 @@ _No filled family fields on the TAH profile._
 
 ## Vault Holdings
 - [[works/taiwaneseamericanhistory-org/648-e5-91-a8-e6-94-bf-e5-bf-a0-201510|TAH #648]] · [[works/taiwaneseamericanhistory-org/297-jonathan-jou-e5-91-a8-e6-94-bf-e5-bf-a0-pinaist-201510|TAH #297 Jonathan Jou]]
+- 2026-09-11 複核：琴韻音樂學園（Piano Arts Music Academy）、北加州中國音樂教師協會、舊金山音樂學院、華盛頓大學皆尚未有 vault 頁；TAH #648／#297 均為書目記錄，無新增可吸收事實。
 
 ## Sources
 - [TAH #648 encyclopedia: 648. 周政忠 / 2015/10](https://taiwaneseamericanhistory.org/648-%e5%91%a8%e6%94%bf%e5%bf%a0-201510/)

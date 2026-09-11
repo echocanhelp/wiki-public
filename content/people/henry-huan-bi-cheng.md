@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Henry Huan Bi Cheng (鄭煥璧)
 
@@ -39,6 +39,12 @@ _No filled family fields on the TAH profile._
 - 1976– — Founder and conductor, Rui Sheng Choir (瑞聲合唱團)
 - Over half a century as conductor for many choirs in the Southern California Taiwanese/Chinese community
 - In recent years devoted to composing: published four volumes of choir music, one volume of solo music, and one volume of church music
+
+## Vault Holdings（deepen pass 2026-09-11）
+
+- TAH 傳記記錄：[[works/taiwaneseamericanhistory-org/175-henry-huan-bi-cheng-e9-84-ad-e7-85-a5-e7-92-a7-201503||TAH #175 Henry Huan Bi Cheng 鄭煥璧, conductor / 2015/03]]（書目記錄，全文在 TAH）。
+- 人物專訪：[[works/taiwaneseamericanhistory-org/604-e5-90-b9-e5-8f-a3-e5-93-a8-e3-80-81-e5-90-91-e5-89-8d-e8-a1-8c-e7-9a-84-e5-9||TAH #604 吹口哨、向前行的合唱音樂家鄭煥璧／孫芝君／2006/11]] — 孫芝君 2006 年撰寫之合唱指揮生涯專訪（書目記錄）。
+- publisher／語料庫：[[organizations/tah-foundation||TAH Foundation]]、[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
 
 ## Sources
 - [TAH #175 encyclopedia: 175. Henry Huan Bi Cheng 鄭煥璧, conductor/2015/03](https://taiwaneseamericanhistory.org/175-henry-huan-bi-cheng-%e9%84%ad%e7%85%a5%e7%92%a7-201503/)
