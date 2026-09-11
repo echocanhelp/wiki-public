@@ -45,6 +45,11 @@ last_reviewed: 2026-09-10
 - Married to [[people/prof-shirley-cheng-tsai||Prof. Shirley Cheng Tsai (鄭秀蘭)]] — the two are a distinguished engineering/science couple, both from Miaoli and both with Academia Sinica appointments; children Jeanne L. (蔡珍玲) and Larry W. (蔡金勳).
 - Covered in three TAH Foundation encyclopedia entries (#27, #15 "Pride", #368): [[works/taiwaneseamericanhistory-org/27-prof-chen-s-tsai||TAH #27: Prof. Chen S. Tsai 蔡振水教授]].
 
+## Vault records (deepen pass 2026-09-10)
+
+- The #15 "Pride" entry and the #368 Who's Who entry are both held in the vault as work pages: [[works/taiwaneseamericanhistory-org/pride-chen-s-tsai||TAH #15: Prof. Chen S. Tsai 蔡振水教授 (Pride)]] and [[works/taiwaneseamericanhistory-org/whos-who-368-chen-s-tsai||TAH #368: Prof. Chen S. Tsai 蔡振水教授]] — complementing the existing [[works/taiwaneseamericanhistory-org/27-prof-chen-s-tsai||TAH #27]] link.
+- Reciprocal cross-link verified on the spouse page [[people/prof-shirley-cheng-tsai||Prof. Shirley Cheng Tsai (鄭秀蘭)]], which names 蔡振水 and the same children.
+
 ## Sources
 - [TAH #27 encyclopedia: 27. Prof. Chen S. Tsai 蔡振水教授](https://taiwaneseamericanhistory.org/27-prof-chen-s-tsai/)
 - [TAH #15 encyclopedia: 15. Prof. Chen S. Tsai 蔡振水教授](https://taiwaneseamericanhistory.org/pride-chen-s-tsai/)

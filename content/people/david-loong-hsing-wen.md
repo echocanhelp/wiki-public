@@ -54,6 +54,10 @@ _No filled family fields on the TAH profile._
 - [TAH #420 encyclopedia: 420. David Loong-Hsing Wen 溫隆信 / 2015/05](https://taiwaneseamericanhistory.org/420-david-loong-hsing-wen-%e6%ba%ab%e9%9a%86%e4%bf%a1-201505/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/david-loong-hsing-wen/)
 
+## Vault records (deepen pass 2026-09-10)
+
+- Both of his TAH encyclopedia entries are held in the vault as work pages: [[works/taiwaneseamericanhistory-org/197-david-loong-hsing-wen-e6-ba-ab-e9-9a-86-e4-bf-a1-composer-violinist-artist-2||TAH #197: David Loong-Hsing Wen 溫隆信, Composer. Violinist, Artist]] and [[works/taiwaneseamericanhistory-org/420-david-loong-hsing-wen-e6-ba-ab-e9-9a-86-e4-bf-a1-201505||TAH #420: David Loong-Hsing Wen 溫隆信]] (both 2015/05). The 向日葵樂會 membership and early-work list above are documented there.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

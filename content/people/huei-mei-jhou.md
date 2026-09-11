@@ -41,6 +41,10 @@ _No filled family fields on the TAH profile._
 - Invited to present at seminars of the Minnesota Music Education Association and the Minnesota Music Teacher Association, on pairing breathing-bag use with flute pedagogy and performance technique; also invited to the paper competition at the 42nd National Flute Association convention in Chicago hosted by the Marcel Moyse Society.
 - Documented in the TAH Foundation encyclopedia: [[works/taiwaneseamericanhistory-org/318-huei-mei-jhou-e5-91-a8-e6-83-a0-e7-be-8e||TAH #318: Huei-mei Jhou 周惠美]].
 
+## Vault records (deepen pass 2026-09-10)
+
+- A second TAH encyclopedia entry, #157 (Flutist, published 2015-02-24), is held in the vault alongside #318: [[works/taiwaneseamericanhistory-org/157-huei-mei-chou-e5-91-a8-e6-83-a0-e7-be-8e-flutist201502||TAH #157: Huei-mei Jhou 周惠美, Flutist]].
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/huei-mei-jhou/)
 
