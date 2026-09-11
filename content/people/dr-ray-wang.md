@@ -55,3 +55,4 @@ His biographical entry is [[works/taiwaneseamericanhistory-org/whos-who-2306-ray
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/whos-who-2306-ray-wang||TAH #2306 Who's Who entry]]

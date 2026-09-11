@@ -60,6 +60,14 @@ Community-organizing activity around his founding of Taiwanese American Professi
 - Research Center of Oakland — ‎Pediatrician
 <!-- tah-tables:end -->
 
+## Vault records (deepen pass 2026-09-10)
+
+Facts already present in vault pages (no new sources):
+
+- TAH encyclopedia records about him are held in the vault: [[works/taiwaneseamericanhistory-org/43-dr-ho-chie-tsai-e8-94-a1-e5-92-8c-e6-9d-b0-e9-86-ab-e5-b8-ab-the-founder-of-w|TAH #43 — 蔡和杰醫師, founder of www.taiwaneseamerican.org]], [[works/taiwaneseamericanhistory-org/38-dr-ho-chie-tsai|TAH #38]], [[works/taiwaneseamericanhistory-org/whos-who-1607-ho-chie-tsai|TAH Who's Who #1607]] and the 2015-12 studio program [[works/taiwaneseamericanhistory-org/30-in-the-studio-with-actor-kelvin-yu-from-master-of-none-ho-chie-tsai-201512|TAH #30 (Kelvin Yu / Master of None)]].
+- His role at TaiwaneseAmerican.org is also recorded in the vault report [[works/taiwaneseamerican-org/taiwaneseamerican-org-ho-chie-tsai-featured-on-taiwan543-net|Ho Chie Tsai featured on Taiwan543.net]].
+- Organization page: [[organizations/taiwaneseamerican-org|TaiwaneseAmerican.org]].
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ho-chie-tsai/)
 - [TaiwaneseAmerican.org Staff](https://www.taiwaneseamerican.org/about/staff/) — Founder / founding board (2026-08-20)

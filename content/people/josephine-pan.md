@@ -30,6 +30,11 @@ last_reviewed: 2026-09-10
 - **Hub:** [[sources/taiwancenter-org||taiwancenter.org]]
 - **Content priority C:** Full biography not in this source set
 
+## Vault records (deepen pass 2026-09-10)
+
+- The TAH #113 encyclopedia entry cited above is held in the vault: [[works/taiwaneseamericanhistory-org/113-josephine-pan-e6-bd-98-e6-8e-ac-e6-85-a7|TAH #113 Josephine Pan 潘掬慧 (2014-11-25)]].
+- Per the tah-tables below she is CEO and Managing Director of JT & Tea Inc.; husband [[people/thomas-shu|Thomas Shu 許正龍]]'s page records him as VP and Marketing Director of the same company.
+
 ## Sources
 - [TAH #113 encyclopedia: 113. Josephine Pan 潘掬慧](https://taiwaneseamericanhistory.org/113-josephine-pan-%e6%bd%98%e6%8e%ac%e6%85%a7/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/josephine-pan/)

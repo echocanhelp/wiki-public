@@ -52,6 +52,13 @@ From the TAH Who's Who tables above:
 - [TAH #92 encyclopedia: 92. Chijen Christopher Chung 鍾啓仁, Cellist and Conductor/2014/12](https://taiwaneseamericanhistory.org/92-chijen-christopher-chung-%e9%8d%be%e5%95%93%e4%bb%81-cellist-and-conductor/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chi-jen-christopher-chung/)
 
+## Vault records (deepen pass 2026-09-10)
+
+Facts already present in vault pages (no new sources):
+
+- The three TAH encyclopedia entries cited above are held in the vault: [[works/taiwaneseamericanhistory-org/ota-241|TAH #241]], [[works/taiwaneseamericanhistory-org/whos-who-353-chi-jen-chung|TAH #353]] and [[works/taiwaneseamericanhistory-org/92-chijen-christopher-chung-e9-8d-be-e5-95-93-e4-bb-81-cellist-and-conductor|TAH #92 — Cellist and Conductor (2014-12)]].
+- His CYCNY posts per the tah-tables above (String Coach 2006–, String Faculty 2007–2013, Conductor 2011–, Music Director and Conductor 2013–) correspond to the org page [[organizations/youth-orchestra-cycny|Youth Orchestra, CYCNY (紐約幼獅青少年管弦樂團)]].
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

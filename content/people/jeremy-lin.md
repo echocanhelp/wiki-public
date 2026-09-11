@@ -49,6 +49,11 @@ Growing up, Jeremy realized that teammates on his basketball team all came from 
 - **Founder:** Jeremy Lin Foundation (tah-tables Community entry)
 - **NBA teams (tah-tables):** Warriors · Knicks · Rockets · Lakers · Hornets · Nets · Hawks · Raptors; later New Taipei Kings (2023–2025)
 
+## Vault records (deepen pass 2026-09-10)
+
+- All six TAH encyclopedia records cited above are held in the vault (see the works links under Related Pages), including [[works/taiwaneseamericanhistory-org/21-jeremy-lin-e6-9e-97-e6-9b-b8-e8-b1-aa-the-first-t-a-professional-basketball-p|TAH #21 — the first T.A. professional basketball player (2012)]] and [[works/taiwaneseamericanhistory-org/195-e6-9e-97-e6-9b-b8-e8-b1-aa-jeremy-lin-the-first-person-to-be-recruited-by-nb|TAH #195 — first recruited by an NBA team (Golden State Warriors, 7/16/2010)]].
+- The tah-tables above carry his full team sequence (Warriors 2010–2011 through Raptors 2019; New Taipei Kings 2023–2025), the Knicks "Linsanity" season (2011–2012), and his founding of the Jeremy Lin Foundation.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
