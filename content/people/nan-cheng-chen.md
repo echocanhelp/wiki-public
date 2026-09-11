@@ -46,6 +46,9 @@ Absorbed from the profile text, Employment table, and cited TAH encyclopedia ent
 - Member of Sonic Escape (2013–) and the Chen Trio, among other active NYC music ensembles.
 - Active soloist: has collaborated with the Simon Bolivar Orchestra, Queens Symphony Orchestra, Metro-West Symphony, Quincy Symphony, and Symphony Pro Musica.
 
+## Connected in the Vault
+- Absorbed 2026-09-10: the vault holds two fellow New Asia Chamber Music Society (NACMS) principals as person pages — [[people/dr-wei-yang-andy-lin||Dr. Wei-Yang Andy Lin 林威良]] (NACMS co-founder and Artistic Director) and [[people/kevin-shue||Kevin Shue]] (NACMS founding member and Director of Education and Community Engagement). No standalone organization page exists yet for NACMS 新亞室內樂協會; the cited TAH pages remain the anchors.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

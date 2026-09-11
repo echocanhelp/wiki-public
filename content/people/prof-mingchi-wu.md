@@ -41,6 +41,10 @@ last_reviewed: 2026-09-10
 ## Vault Holdings
 - [[works/taiwaneseamericanhistory-org/203-prof-mingchi-wu|TAH #203]] · [[works/taiwaneseamericanhistory-org/whos-who-975-mingchi-wu|TAH #975 Who's Who]]
 
+## Vault cross-checks (absorbed 2026-09-10)
+- 1973 — co-organized the first 美東台灣人夏令會 (July 19–22, 1973, Camp Taconic, NY) as the Pittsburgh 同鄉會 representative, per the TAA founding account [[works/taiwaneseamericanhistory-org/ourjourneys76|TAH #76: Our Journeys 美東夏令會起源]].
+- 2024-02 — signed the Taiwan-justice HK-support statement as 主席 of 臺灣獨立建國聯盟美國本部 (TAUEC US Headquarters), alongside NATPA and FAPA officers: [[articles/taiwanjustice-net/2024/20240221122756_root_53455d7e13136092|taiwanjustice.net statement (2024-02-21)]].
+
 ## Family
 
 - **Wife:** 許富美
