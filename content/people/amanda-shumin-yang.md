@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Amanda Shumin Yang (方書敏)
 
@@ -53,3 +53,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault Holdings (deepened 2026-09-11)
+- [[works/taiwaneseamericanhistory-org/556-amanda-shumin-yang-e6-96-b9-e6-9b-b8-e6-95-8f-201508||TAH #556: 方書敏]]
+- [[works/taiwaneseamericanhistory-org/556-amanda-shumin-yang-e6-96-b9-e6-9b-b8-e6-95-8f-violinist-201508||TAH #281: 方書敏, Violinist]]

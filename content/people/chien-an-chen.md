@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Chien-An Chen (陳建安)
 
@@ -50,3 +50,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault Holdings (deepened 2026-09-11)
+- [[works/taiwaneseamericanhistory-org/musician86||TAH musician #86: 陳建安, Cellist]]
+- [[works/taiwaneseamericanhistory-org/whoswho134||TAH Who's Who #134: 陳建安]]

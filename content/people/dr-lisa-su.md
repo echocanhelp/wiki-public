@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Dr. Lisa Su (蘇姿豐博士)
 
@@ -53,3 +53,9 @@ father [[people/su-chun-huai||蘇春槐]]; mother 羅淑雅 (no page yet).
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault Holdings (deepened 2026-09-11)
+- [[works/taiwaneseamericanhistory-org/53-dr-lisa-su||TAH #53: Dr. Lisa Su 蘇姿豐博士]]
+- [[works/taiwaneseamericanhistory-org/whos-who-43-lisa-su||TAH Who's Who #43: Dr. Lisa Su]]
+- [[works/taiwaneseamericanhistory-org/112-dr-lisa-su-amd-2014||TAH #112: Dr. Lisa Su, AMD (2014)]]
+- [[works/taiwaneseamericanhistory-org/71-dr-morris-chang-exemplary-leadership-award-dr-lisa-su||TAH #71: Dr. Morris Chang Exemplary Leadership Award — Dr. Lisa Su]]

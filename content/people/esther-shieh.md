@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Esther Shieh (謝逸詩)
 
@@ -50,3 +50,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault Holdings (deepened 2026-09-11)
+- [[works/taiwaneseamericanhistory-org/250-esther-shieh-e8-ac-9d-e9-80-b8-e8-a9-a9-pianist-201507||TAH #250: 謝逸詩, Pianist]]
+- [[works/taiwaneseamericanhistory-org/510-esther-shieh-e8-ac-9d-e9-80-b8-e8-a9-a9-201507||TAH #510: 謝逸詩 (鋼琴伴奏)]]

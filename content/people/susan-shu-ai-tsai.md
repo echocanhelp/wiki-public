@@ -50,4 +50,5 @@ _No filled family fields on the TAH profile._
 
 ## Network
 - [[organizations/good-shepherd-taiwanese-presbyterian-church||GSTPC]] — TAH Who’s Who — Pianist / accompanist, including the Faith, Hope, Love Chorale
+- Conference connection (deepen 2026-09-11): her accompanist work for the 南加州台灣人長老教會聯合會 chorale is corroborated by the vault's own records of that body — [[works/taiwaneseamericanhistory-org/southern-california-taiwanese-presbyterian-conference||Southern California Taiwanese Presbyterian Conference]] and [[works/taiwaneseamericanhistory-org/newsletter-of-southern-california-taiwanese-presbyterian-conference||its conference newsletter]].
 - 2026-09-10 cross-check: GSTPC's own vault source hub is [[sources/good-shepherd-taiwanese-presbyterian-church||here]]; Merry Singers Women's Chorus, Eunice Chou Vocal Studio, and 綠萍樂坊 have no vault pages yet, so they stay as plain text.
