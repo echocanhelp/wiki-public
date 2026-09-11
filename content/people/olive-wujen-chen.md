@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Olive WuJen Chen (吳箴)
 
@@ -52,6 +52,7 @@ last_reviewed: 2026-09-10
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
+- [[organizations/taiwanese-association-of-america-houston-chapter||Taiwanese Association of America Houston Chapter]] — Houston-area Taiwanese community context for her teaching and chamber work there
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/323-olive-wujen-chen-e5-90-b3-e7-ae-b4-cellist||TAH #323: Olive WuJen Chen 吳箴, Cellist]]
 - [[works/taiwaneseamericanhistory-org/747-olive-wujen-chen-e5-90-b3-e7-ae-b4-201512||TAH #747: Olive WuJen Chen 吳箴]]

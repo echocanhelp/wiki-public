@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Cherie Jeng
 
@@ -50,5 +50,6 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[people/amanda-hsu||Amanda Hsu]] — fellow Glorystar Children's Chorus（華府榮星兒童合唱團）faculty member; co-founder and conductor of the Haitien Chorus（海天合唱團）, which Jeng also conducted for many seasons
 - [[people/frank-c-h-chen||Frank C. H. Chen（陳信宏）]] — per his page, co-founder of the Haitien Chorus（海天合唱團）and its conductor for nine terms — the same chorus Jeng conducted for many seasons
+- [[organizations/taiwanese-youth-arts-foundation-washington-dc||Taiwanese Youth Arts Foundation (Washington DC)]] — DC-area Taiwanese arts-education context for her Glorystar children's-chorus work
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

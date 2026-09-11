@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Che-Yen Chen (陳則言)
 
@@ -51,6 +51,7 @@ _No filled family fields on the TAH profile._
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
+- [[organizations/taiwanese-american-foundation-of-san-diego||Taiwanese American Foundation of San Diego]] — Southern California context for his San Diego Symphony tenure
 - [[people/wayne-lee||Wayne Lee 李家瑋（Formosa Quartet）]]
 - [[people/powen-wang||Powen Wang 王博文（Formosa Quartet）]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Josephine Pan (潘掬慧)
 
@@ -50,6 +50,7 @@ last_reviewed: 2026-09-10
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
+- [[works/taiwaneseamericanhistory-org/113-josephine-pan-e6-bd-98-e6-8e-ac-e6-85-a7||TAH #113 Who's Who entry — Josephine Pan 潘掬慧]]
 
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org source]]

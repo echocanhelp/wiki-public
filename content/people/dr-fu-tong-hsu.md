@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Dr. Fu-Tong Hsu (徐福棟博士)
 
@@ -38,6 +38,7 @@ last_reviewed: 2026-09-10
 - Organizer/Founder, Board of the Taiwanese American Conference/East Coast (創立美東台灣人夏令會理事會)
 - Chairman, Lin Mao-sheng Cultural Foundation (1997–); Vice President, Changjung Christian University (1996–2002); President, Vision Youth Action Network (2003–2009)
 - Economic Advisor for President Clinton, White House (1994–1996)
+- President, TAA/New Jersey Chapter — the chapter's own vault page: [[organizations/taiwanese-association-of-america-new-jersey||TAA New Jersey (紐澤西台灣同鄉會)]]; his Oklahoma M.S. years (1961–1962) coincide with the [[organizations/taiwanese-association-of-oklahoma||Taiwanese Association of Oklahoma]] era, though no personal membership is documented.
 
 ## Family
 
@@ -56,6 +57,11 @@ last_reviewed: 2026-09-10
 - [TAH #192 encyclopedia: 192. Dr. Fu-Tong Hsu 徐福棟博士](https://taiwaneseamericanhistory.org/whos-who-192-fu-tong-hsu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-fu-tong-hsu/)
 
+- President, TAA/New Jersey Chapter — the chapter's own vault page: [[organizations/taiwanese-association-of-america-new-jersey||TAA New Jersey (紐澤西台灣同鄉會)]]; his Oklahoma M.S. years (1961–1962) coincide with the [[organizations/taiwanese-association-of-oklahoma||Taiwanese Association of Oklahoma]] era, though no personal membership is documented.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/ota-251||TAH #251 encyclopedia — Dr. Fu-Tong Hsu 徐福棟博士]]
+- [[works/taiwaneseamericanhistory-org/ff224||TAH #224 — first president of TAA/NY, 1964]]
+- [[works/taiwaneseamericanhistory-org/whos-who-192-fu-tong-hsu||TAH #192 Who's Who entry — Dr. Fu-Tong Hsu]]

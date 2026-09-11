@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Sheng-Ching Angel Hsu (徐升晴)
 
@@ -56,3 +56,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/237-sheng-ching-angel-hsu-e5-be-90-e5-8d-87-e6-99-b4-violin-201507||TAH #237 — Sheng-Ching Angel Hsu 徐升晴, Violin (2015/07)]]
+- [[works/taiwaneseamericanhistory-org/492-sheng-ching-angel-hsu-e5-be-90-e5-8d-87-e6-99-b4-201507||TAH #492 — Sheng-Ching Angel Hsu 徐升晴 (2015/07)]]
