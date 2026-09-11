@@ -64,3 +64,7 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault Holdings
+- His own encyclopedia records are held in the vault: [[works/taiwaneseamericanhistory-org/43-chungchin-chen|TAH #43: Chungchin Chen 陳仲欽]] and [[works/taiwaneseamericanhistory-org/whos-who-378-chungchin-chen|TAH #378 (Who's Who)]], alongside the milestone entries #242, #241 and #196 already linked above.
+- Capital District, NY Taiwanese community records exist in the vault ([[organizations/taiwanese-american-association-of-capital-district-new-york|TA Association of Capital District NY]], [[organizations/taiwanese-american-cultural-society-of-the-capital-district|TA Cultural Society of the Capital District]]); his TAH profile does not record personal membership.

@@ -68,3 +68,7 @@ Dr. Y. C. (Simon) Liu 劉耀經博士 – History of Taiwanese American (T.A. Ar
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault Holdings
+- His own encyclopedia records are held in the vault: [[works/taiwaneseamericanhistory-org/ota-250|TAH #250: Dr. Y. C. Simon Liu 劉耀經博士]], [[works/taiwaneseamericanhistory-org/whos-who-1238-y-c-liu|TAH #1238 (Who's Who)]] and the "Pride of Taiwanese Americans" profile [[works/taiwaneseamericanhistory-org/226-e5-8f-b0-e7-be-8e-e4-ba-ba-e7-9a-84-e6-a6-ae-e8-80-80-pride-of-taiwanese-ame|TAH #226 (2015/04)]].
+- His 2010 appointment at the National Agricultural Library falls in the Washington-area Taiwanese community documented in the vault: [[organizations/greater-washington-taiwan-culture-center|Greater Washington Taiwan Culture Center]]; his TAH profile does not record personal membership.

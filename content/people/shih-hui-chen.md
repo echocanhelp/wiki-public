@@ -65,4 +65,5 @@ A citation accompanying Shih-Hui Chen’s Goddard Lieberson Fellowship from the 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-- Archival records in the vault: [[works/taiwaneseamericanhistory-org/191-shih-hui-chen-composer|TAH #191]] · [[works/taiwaneseamericanhistory-org/393-shih-hui-chen-e9-99-b3-e5-a3-ab-e6-83-a0-201505|TAH #393]] · [[works/taiwaneseamericanhistory-org/my-stories-870|TAH #870]]
+- Archival records in the vault: [[works/taiwaneseamericanhistory-org/191-shih-hui-chen-composer|TAH #191]] · [[works/taiwaneseamericanhistory-org/393-shih-hui-chen-e9-99-b3-e5-a3-ab-e6-83-a0-201505|TAH #393]] · [[works/taiwaneseamericanhistory-org/my-stories-870|TAH #870]] · [[works/taiwaneseamericanhistory-org/musical-concerts-155|TAH #155 (1999 Formosan Chamber Music Society concert of her new music)]]
+- Her Boston University years (Ph.D. 1993; later BU Tanglewood Institute 作曲總監) postdate the vault's Taiwanese student-association records for Boston ([[organizations/boston-university-taiwanese-student-association|BU TSA]]); the vault records no personal involvement with them.
