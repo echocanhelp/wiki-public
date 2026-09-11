@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Taiwanese American Senior Society TASS of Greater Washington DC (大華府台美人長樂會)
 
@@ -30,3 +30,4 @@ Sister chapter [[organizations/tass-eb|TASS-EB]] (founded Oct 2014, Walnut Creek
 - [[works/taiwaneseamericanhistory-org/taiwanese-american-senior-society-tass||TAH record: Taiwanese American Senior Society (TASS)]]
 - [[works/taiwaneseamericanhistory-org/newsletter-of-tass||Newsletter of TASS]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[organizations/taiwanese-association-of-america-greater-washington||TAA Greater Washington]] — regional TAA chapter in the same DC-area community

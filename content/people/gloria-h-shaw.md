@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Gloria H. Shaw (李雪芬)
 
@@ -60,3 +60,5 @@ _Sourced from the TAH Who's Who profile above; no external material added._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/whos-who-2196-gloria-h-shaw||TAH encyclopedia #2196: Gloria H. Shaw 李雪芬]]
+- [[works/taiwaneseamericanhistory-org/198-gloria-h-shaw||TAH encyclopedia #198: Gloria H. Shaw 李雪芬]]

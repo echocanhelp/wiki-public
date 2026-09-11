@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Kocheng Kent Liu (劉格正)
 
@@ -59,3 +59,4 @@ _Facts absorbed from this page's own TAH tables and accomplishment note; no new 
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[works/taiwaneseamericanhistory-org/ota-97||TAH encyclopedia #97: Kocheng (Kent) Liu]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/whos-who-1906-kocheng-liu||TAH encyclopedia #1906: Kocheng (Kent) Liu 劉格正]]
