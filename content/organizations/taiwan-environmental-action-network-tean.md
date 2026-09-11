@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Taiwan Environmental Action Network TEAN (台灣環境行動網)
 

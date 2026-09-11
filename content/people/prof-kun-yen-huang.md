@@ -58,4 +58,7 @@ Accomplishment
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
+- [[works/taiwaneseamericanhistory-org/senior-taiwanese-american-12||TAH Encyclopedia #12: Prof. Kun-Yen Huang 黃崑巖教授]]
+- [[works/taiwaneseamericanhistory-org/ota-294||TAH Encyclopedia #294: Prof. Kun-Yen Huang 黃崑巖教授]]
+- [[works/taiwaneseamericanhistory-org/whos-who-828-kun-yen-huang||TAH Who's Who #828: Prof. Kun-Yen Huang 黃崑巖教授]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Yu-Fang Chang (張玉芳)
 
@@ -53,4 +53,5 @@ _No filled family fields on the TAH profile._
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
+- [[organizations/boston-university-taiwanese-student-association||Boston University Taiwanese Student Association]] — Chang earned her M.M. and D.M.A. at Boston University
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
