@@ -9,7 +9,7 @@ tags:
   - tahs-leadership
   - founding-member
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Wang Yao-ting (王耀廷)
 
