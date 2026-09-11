@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Yvonne Yifang Wang (王亦凡博士)
 
@@ -62,3 +62,6 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault re-check 2026-09-11 (deepen-x slice 9, vault-only)
+All wikilink targets on this page verified to exist in the vault; all cited-source facts were already absorbed in the prior deepen pass. No new vault facts found, no web used, no new pages created, nothing published.

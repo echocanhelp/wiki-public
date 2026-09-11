@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Hanchien Lee (李函蒨博士)
 
@@ -53,3 +53,6 @@ _No filled family fields on the TAH profile._
 ## Connected in the Vault — 2026-09-10 deepen pass (vault-only)
 - Her TAH encyclopedia record is held in the vault: [[works/taiwaneseamericanhistory-org/103-hanchien-lee-e6-9d-8e-e5-87-bd-e8-92-a8-pianist||TAH Encyclopedia #103: Hanchien Lee 李函蒨, Pianist]] — consistent with the Who's Who record already reflected in the Timeline above (debut with the Philadelphia Orchestra at sixteen; Curtis B.A. → Yale M.M. and Artists' Diploma → Peabody Ph.D.; piano faculty at Peabody Preparatory and the University of Pennsylvania).
 - No vault pages exist yet for her institutions (Curtis, Yale, Peabody) or ensembles; no vault person is cross-cited in her record, so no person links are asserted.
+
+## Vault re-check 2026-09-11 (deepen-x slice 9, vault-only)
+All wikilink targets on this page verified to exist in the vault; all cited-source facts were already absorbed in the prior deepen pass. No new vault facts found, no web used, no new pages created, nothing published.

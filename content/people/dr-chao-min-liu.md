@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Dr. Chao-Min Liu (劉兆民博士)
 
@@ -68,3 +68,6 @@ _Facts absorbed from this page's own TAH tables and encyclopedia entry; no new s
 - [[works/taiwaneseamericanhistory-org/mystories376||先父劉新祿的繪畫創作理念及人生觀]]
 - [[works/taiwaneseamericanhistory-org/ourfootsteps-28||Nature Is My Studio / 劉兆民]]
 - [[works/taiwaneseamericanhistory-org/publications864||劉兆民 八十回顧展油畫集]]
+
+## Vault re-check 2026-09-11 (deepen-x slice 9, vault-only)
+All wikilink targets on this page verified to exist in the vault; all cited-source facts were already absorbed in the prior deepen pass. No new vault facts found, no web used, no new pages created, nothing published.
