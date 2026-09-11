@@ -22,7 +22,7 @@ last_reviewed: 2026-09-10
 
 ## Career Notes (vault-sourced)
 
-- 林冠豪 appears among the 38 Taiwan Center 董事 (directors) who co-hosted the foundation's **2024 Annual Gala and Fundraising Banquet** (2024-11-02, Pacific Palms Resort; keynote: Yih-Chuan Wang, Taiwan Brain Trust) — see the vault article on the 2024 TWCLA 周年年會晚宴暨募款活動 (taiwanjustice-net, 2025-04). Board role consistent with the 個人董事 listing above; chair 田詒鴻 ([[people/alan-thian||Alan Thian]]) and co-directors 陳柏宇 ([[people/paul-chen||Paul Chen]]), 林榮松 ([[people/simon-lin||Simon Lin]]), 蔡漢成 ([[people/roger-tsai||Roger Tsai]]), 劉玲華 ([[people/linda-liu||Linda Liu]]) appear in the same roster.
+- 林冠豪 appears among the 38 Taiwan Center 董事 (directors) who co-hosted the foundation's **2024 Annual Gala and Fundraising Banquet** (2024-11-02, Pacific Palms Resort; keynote: Yih-Chuan Wang, Taiwan Brain Trust) — see [[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66||TJ 2025-04-20 report on the 2024 TWCLA 周年年會晚宴暨募款活動]]. Board role consistent with the 個人董事 listing above; chair 田詒鴻 ([[people/alan-thian||Alan Thian]]) and co-directors 陳柏宇 ([[people/paul-chen||Paul Chen]]), 林榮松 ([[people/simon-lin||Simon Lin]]), 蔡漢成 ([[people/roger-tsai||Roger Tsai]]), 劉玲華 ([[people/linda-liu||Linda Liu]]) appear in the same roster.
 
 ## Timeline (from on-page source facts)
 
