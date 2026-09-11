@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Wei-Shuan Yu (尤韋琁)
 
@@ -55,3 +55,5 @@ TAH encyclopedia records held in this vault:
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]] — hub for the encyclopedia records above
+- [[organizations/taiwanese-association-of-cincinnati||Taiwanese Association of Cincinnati]] — Greater Cincinnati community where she performs

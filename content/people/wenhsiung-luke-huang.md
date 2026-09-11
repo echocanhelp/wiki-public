@@ -41,6 +41,12 @@ Wenhsiung (Luke) Huang 黃文雄 – History of Taiwanese American (T.A. Archive
 ## Notes on sources
 - Cited TAH photo entries #142, #19 and #89 depict the 4/24/1970 刺蔣事件 (assassination attempt on C.K. Chiang at the Plaza Hotel, N.Y.) involving a 黃文雄, and TAH #468 is titled "Peter Huang 黃文雄". Whether these refer to the same person as this pediatrician profile is unverified — `verification_status` left pending.
 
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/whoswho1324|TAH #1324 Who's Who：Wenhsiung (Luke) Huang 黃文雄]]
+- [[works/taiwaneseamericanhistory-org/142-e9-bb-83-e6-96-87-e9-9b-84-first-assassination-attempt-to-mr-c-k-chiang-at-p|TAH #142：424刺蔣事件照片（人物是否同一人，未驗證）]]
+- [[works/taiwaneseamericanhistory-org/89-e9-bb-83-e6-96-87-e9-9b-84-e5-88-ba-e8-94-a3-e4-ba-8b-e4-bb-b6at-hotel-new-yo|TAH #89：刺蔣事件at hotel New York（人物是否同一人，未驗證）]]
+- [[works/taiwaneseamericanhistory-org/468-peter-huang-e9-bb-83-e6-96-87-e9-9b-84-201506|TAH #468：Peter Huang 黃文雄（人物是否同一人，未驗證）]]
+
 ## Family
 
 _No filled family fields on the TAH profile._

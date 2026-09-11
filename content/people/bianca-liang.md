@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Bianca Liang (梁沁茵)
 
@@ -50,4 +50,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## Vault Cross-References
-- TAH encyclopedia records for this profile exist in the vault: [[works/taiwaneseamericanhistory-org/156-bianca-liang-e6-a2-81-e6-b2-81-e8-8c-b5-pianist201502|TAH #156 梁沁茵 (Pianist), 2015/02]] and [[works/taiwaneseamericanhistory-org/317-bianca-liang-e6-a2-81-e6-b2-81-e8-8c-b5201503|TAH #317 梁沁茵, 2015/03]].
+- TAH encyclopedia records for this profile exist in the vault: [[works/taiwaneseamericanhistory-org/156-bianca-liang-e6-a2-81-e6-b2-81-e8-8c-b5-pianist201502|TAH #156 梁沁茵 (Pianist), 2015/02]] and [[works/taiwaneseamericanhistory-org/317-bianca-liang-e6-a2-81-e6-b2-81-e8-8c-b5201503|TAH #317 梁沁茵, 2015/03]]; both sit in the [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]].

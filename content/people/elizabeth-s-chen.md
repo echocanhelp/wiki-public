@@ -57,3 +57,4 @@ Elizabeth S. Chen was born in Kaohsiung, Taiwan in 1944. She was graduated from 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[organizations/joint-alumni-association-of-taiwan-teachers-college-and-normal-univers||Joint Alumni Association of Taiwan Teachers College and Normal University (JTTAA) — 師範體系校友會；本人為師範大學音樂系校友]]
