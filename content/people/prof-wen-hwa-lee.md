@@ -52,6 +52,9 @@ Accomplishment
 - **Wife:** 潘玉華
 
 
+## Vault Cross-References
+- **Spouse discrepancy (HOLD):** [[people/prof-eva-y-h-p-lee||Prof. Eva Y. H. P. Lee]] lists him as her husband (her TAH #1796 is the adjacent encyclopedia entry to his [[works/taiwaneseamericanhistory-org/whos-who-1795-wen-hwa-lee|#1795]]), while his own TAH record above lists his wife as 潘玉華. Both vault pages kept as-is pending owner verification — no merge applied.
+
 ## Sources
 - [TAH #1795 encyclopedia: 1795. Prof. Wen-Hwa Lee 李文華教授](https://taiwaneseamericanhistory.org/whos-who-1795-wen-hwa-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-wen-hwa-lee/)

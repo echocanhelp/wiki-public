@@ -37,6 +37,11 @@ Karen Hsiao Savage is Associate Professor at Washington State University School 
 - **Mother:** 李惠惠
 
 
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/musician429|TAH #429 (05/2018)]] — artist profile predating her Washington State University appointment, when she was still based in the Victoria/Canada region noted in the Identity Snapshot.
+- [[works/taiwaneseamericanhistory-org/whos-who-2108-karen-hsiao-savage|TAH #2108 Who's Who entry]] — the record the tables above are harvested from.
+- Father [[people/sin-i-hsiao||蕭欣義]]'s page ([[works/taiwaneseamericanhistory-org/whoswho1013|TAH #1013]]) independently documents the family's Victoria residence during her Univ. of Victoria bachelor's degree.
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-karen-hsiao-savage/)
 
