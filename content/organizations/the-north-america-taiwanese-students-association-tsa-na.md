@@ -21,6 +21,10 @@ The North America Taiwanese Students’ Association (TSA-NA) is a non-profit org
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/the-north-america-taiwanese-students-association-tsa-na/)
 
+## Vault records（deepen pass 2026-09-11）
+- 同類台灣學生社團參照：[[organizations/taiwanese-student-association-tsa||Taiwanese Student Association TSA（UCSC 臺灣同學會）]]、[[organizations/emory-tsa||Emory TSA]]、[[organizations/university-of-north-carolina-at-chapel-hill-taiwanese-student-association||UNC Chapel Hill Taiwanese Student Association]]（2008 重組會長 Chung-ping Wang 即就讀該校 MBA）。
+- publisher／語料庫：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
+
 ## Vault records（deepen pass 2026-09-10）
 - 2008 年重組時當選新任會長的 Chung-ping Wang 就讀 UNC MBA（本頁 directory 傳記所載）；Vault 內相關章節頁面：[[organizations/university-of-north-carolina-at-chapel-hill-taiwanese-student-association||UNC Chapel Hill Taiwanese Student Association]]。
 - 同類留美台灣學生社團參照：[[organizations/emory-tsa||Emory TSA]]。
