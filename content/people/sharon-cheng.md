@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Sharon Cheng (鄭怡君)
 
@@ -34,8 +34,8 @@ A native of Taiwan, Sharon Cheng made her US professional debut with New Jersey 
 ## Timeline
 - Native of Taiwan
 - B.S. in Public Administration（行政管理）, Chinese Culture University（文化大學）
-- M.S. in Public Administration（公共行政）, Penn State University（賓州州立大學）
-- M.S. in Musical Performance（音樂表演）, Syracuse University（紐約州雪城大學）
+- M.S. in Public Administration（公共行政）, Penn State University（賓州州立大學） — [[organizations/taiwanese-american-student-association-at-penn-state|TAASA Penn State]]
+- M.S. in Musical Performance（音樂表演）, Syracuse University（紐約州雪城大學） — [[organizations/taiwanese-student-association-at-syracuse-university|TSA Syracuse]]
 - 2009 — US professional debut as soprano soloist in Beethoven's Symphony No. 9 with the New Jersey Symphony Orchestra
 - 2009 — first prize, Taiwan National Theater Concert Hall Young Star Audition
 - First prizes at the Liszt International Competition, NTD International Vocal Competition, and Civic Morning Musicals Vocal Competition; also received the Chimei Arts Award

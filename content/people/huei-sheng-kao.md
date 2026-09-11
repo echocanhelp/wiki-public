@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Huei-Sheng Kao (高慧生)
 
@@ -29,7 +29,7 @@ Built from the on-page TAH bio (sources below; no new facts added):
 - **Age 8** — First public appearance
 - **Age 11** — Won a national violin competition; solo appearance in the Mendelssohn Violin Concerto with the Chinese Youth Orchestra
 - **Summer (pre-Curtis)** — Attended Interlochen, played the Wieniawski Violin Concerto
-- **1971–1977** — Curtis Institute of Music, Philadelphia; studied with Ivan Galamian and Jaime Laredo; diploma 1977
+- **1971–1977** — Curtis Institute of Music, Philadelphia; studied with Ivan Galamian and Jaime Laredo; diploma 1977. Philadelphia Taiwanese student ties: [[organizations/penn-taiwanese-student-association|Penn Taiwanese Student Association]]
 - **1977** — Joined the [[organizations/taiwanese-association-of-america-pittsburgh|Pittsburgh]]-based Pittsburgh Symphony
 - **1979–80 season** — Appointed Assistant Concertmaster of the Pittsburgh Symphony
 - **Spring 1980** — Subscription-concert soloist with the Orchestra in Vivaldi's Concerto for Four Violins

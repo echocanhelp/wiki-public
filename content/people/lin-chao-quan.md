@@ -8,7 +8,7 @@ tags:
   - tahs-publication-2017
   - anti-kmt
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Lin Chao-quan (林朝權)
 
