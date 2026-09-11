@@ -44,6 +44,11 @@ Yu-Hsuan Liao serves as Associate Professor of Piano and Coordinator of Keyboard
 
 _No filled family fields on the TAH profile._
 
+## Vault records (deepen pass 2026-09-10)
+- Two TAH encyclopedia entries for her are held in the vault: [[works/taiwaneseamericanhistory-org/musician-35|TAH #35 (2014, Pianist)]] and [[works/taiwaneseamericanhistory-org/whoswho-441|TAH #441 (2015)]].
+- Per the TAH record already on this page: B.F.A. in Music, Tung-Hai University (initial studies under Thomas Linde); M.M. and D.M.A. in Piano Performance, University of Texas at Austin (under Danielle Martin, Dariusz Pawlas, Gregory Allen); from 2011 Associate Professor of Music and Coordinator of Keyboard Studies at Shepherd University, West Virginia.
+- 2008–2009: solo performance with the American Repertory Ensemble ("Valses Poéticos", *Passion at Play*) nominated for best instrumentalist, Austin Critics Table Award; 2009: published book on Manuel de Falla's *Cuatro Piezas Españoles* with accompanying lecture-recital.
+
 ## Sources
 - [TAH #441 encyclopedia: 441. Yu-Hsuan Liao 廖又萱 / 2015/06](https://taiwaneseamericanhistory.org/whoswho-441/)
 - [TAH #35 encyclopedia: 35. Yu-Hsuan Liao 廖又萱, Pianist/2014/10](https://taiwaneseamericanhistory.org/musician-35/)

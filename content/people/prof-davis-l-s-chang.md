@@ -45,6 +45,11 @@ _Sourced from the TAH Who's Who profile above; no external material added._
 
 _No filled family fields on the TAH profile._
 
+## Vault records (deepen pass 2026-09-10)
+- Source record held in the vault: [[works/taiwaneseamericanhistory-org/whos-who-1873-davis-l-s-chang|TAH #1873 (Who's Who)]].
+- Per the TAH record already on this page: B.A. Business, National Taiwan Univ.; M.S., Bowling Green State Univ.; Ph.D. Business, Univ. of Pittsburgh. Academic posts: Assistant Professor at State Univ. of New York at Buffalo, then Professor in the Accounting Dept. at San Jose State Univ.; public-accounting practice at Coope & LyBrand (senior auditor), Charles Metcaf, and as Principal of Chang & Lin Accountancy Corp. from 1981.
+- Community leadership: President of [[organizations/taiwanese-american-cpa-association-tacpa|TACPA (台美會計師協會)]], 2001–2002; President of the 全美台灣客家同鄉會 — the association is documented in the vault at [[works/taiwaneseamericanhistory-org/taiwanese-hakka-associations-of-america|TAH: Taiwanese Hakka Associations of America]]; Vice President of [[organizations/taiwanese-hakka-association-of-the-world|Taiwanese Hakka Associations of the World]]; President of [[organizations/taiwanese-american-federation-of-n-california|TAFNC (北加州台灣同鄉會)]].
+
 ## Sources
 - [TAH #1873 encyclopedia: 1873. Prof. Davis L. S. Chang 張祿生教授](https://taiwaneseamericanhistory.org/whos-who-1873-davis-l-s-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-davis-l-s-chang/)

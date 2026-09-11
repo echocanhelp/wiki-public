@@ -43,6 +43,11 @@ _No filled family fields on the TAH profile._
 - 曾隨 Formosa Youth Symphony Orchestra 在紐約 Lincoln Center 演出；受邀與 Maryland Symphony、Concert Artists of Baltimore、Alexandria 與 Fairfax Symphony 等樂團合作
 - 教學：Montgomery College 管弦樂團、District Metropolitan Youth Orchestra 大提琴教師；現為 Kentlands Music Studio 共同創辦人暨大提琴首席教師、MTNA 會員 — see [[works/taiwaneseamericanhistory-org/521-annie-chuan-e6-ac-8a-e9-9b-8b-e6-96-87-201507|TAH #521]]
 
+## Vault records (deepen pass 2026-09-10)
+- Two TAH encyclopedia entries for her are held in the vault: [[works/taiwaneseamericanhistory-org/15-annie-chuan-e6-ac-8a-e9-9b-8b-e6-96-87-cello|TAH #15 (2014, Cellist)]] and [[works/taiwaneseamericanhistory-org/521-annie-chuan-e6-ac-8a-e9-9b-8b-e6-96-87-201507|TAH #521 (2015)]].
+- From the TAH profile tables already on this page: B.S. Music, 輔仁大學; DMA, 馬里蘭大學 (2008); cello instructor of the Montgomery College Orchestra and of the District Metropolitan Youth Orchestra Program.
+- Community music roles in the greater D.C. area: music director of the children's musical at the 美國大華府地區台灣文化中心 (2009) and conductor of the 大華府地區客家會青年管弦樂團 (2010).
+
 ## Sources
 - [TAH #521 encyclopedia: 521. Annie Chuan 權雋文  / 2015/07](https://taiwaneseamericanhistory.org/521-annie-chuan-%e6%ac%8a%e9%9b%8b%e6%96%87-201507/)
 - [TAH #15 encyclopedia: 15. Annie Chuan 權雋文, Cellist/2014/10](https://taiwaneseamericanhistory.org/15-annie-chuan-%e6%ac%8a%e9%9b%8b%e6%96%87-cello/)

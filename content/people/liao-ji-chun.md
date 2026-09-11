@@ -44,6 +44,13 @@ Liao was known as a quiet, gentle man whose passion was expressed entirely throu
 Liao's creative spirit and artistic vision extended beyond his own work. His son [[people/liao-shu-zong||廖述宗]] described his father's influence as "无形而深远" (formless but profound), stating: "My creativity and discoveries in science came from his imagination and expression in art."
 
 
+## Vault records (deepen pass 2026-09-10)
+
+- **228 and political awakening** (from son [[people/liao-shu-zong||廖述宗]]'s profile): teaching at 台中師範學校 during the 228 Incident, 廖繼春 witnessed the KMT government's corruption and the massacre's atrocities firsthand, developed anti-KMT and Taiwan-independence views, and went to Hong Kong and then mainland China rather than fleeing to Japan. Because of his independence advocacy he was imprisoned by the CCP for twenty-five years.
+- **Marriage network:** wife [[people/lin-qiong-xian||林瓊仙]] was a sister of 台大 geology professor [[people/lin-chao-chi||林朝棨]] — one of the 「豐原三傑」 — per the 何義麟 essay in [[works/taiwaneseamericanhistory-org/our-journeys-350|TAH #350]]; the family's 文藝社 stationery shop and 林瓊仙's own art-teaching post in Tainan are recorded there and in the son's page.
+- **Memorial link:** the TAHS 2017 memorial's author [[people/yang-jia-you||楊嘉猷]] notes his mother worked with 廖繼春 at 台中師範學校; the Yang and Liao families were long acquainted through shared 清水 (Fengyuan) roots.
+- His son is separately recorded in the TAH Who's Who layer as [[people/prof-shutsung-liao|Prof. Shutsung Liao]] (date conflict held, no merge: death 2015 vs 2017).
+
 ## Network
 
 Pages that link to **liao-ji-chun** (liao-ji-chun):
