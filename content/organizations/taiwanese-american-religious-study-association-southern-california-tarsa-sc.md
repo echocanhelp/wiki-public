@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Taiwanese-American Religious Study Association Southern California TARSA-SC (台美人信仰與人文研習會)
 
