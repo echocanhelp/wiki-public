@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Prof. Chen S. Tsai (蔡振水教授)
 
@@ -49,6 +49,10 @@ last_reviewed: 2026-09-10
 
 - The #15 "Pride" entry and the #368 Who's Who entry are both held in the vault as work pages: [[works/taiwaneseamericanhistory-org/pride-chen-s-tsai||TAH #15: Prof. Chen S. Tsai 蔡振水教授 (Pride)]] and [[works/taiwaneseamericanhistory-org/whos-who-368-chen-s-tsai||TAH #368: Prof. Chen S. Tsai 蔡振水教授]] — complementing the existing [[works/taiwaneseamericanhistory-org/27-prof-chen-s-tsai||TAH #27]] link.
 - Reciprocal cross-link verified on the spouse page [[people/prof-shirley-cheng-tsai||Prof. Shirley Cheng Tsai (鄭秀蘭)]], which names 蔡振水 and the same children.
+
+## Vault records (deepen pass 2026-09-11)
+
+- **Campus community context:** the vault holds [[organizations/stanford-taiwanese-student-association||Stanford Taiwanese Student Association]] and [[organizations/taiwanese-cultural-society-at-stanford-university||Taiwanese Cultural Society at Stanford]] from his doctoral institution, and [[organizations/taiwanese-american-organization-at-uc-irvine||Taiwanese American Organization at UC Irvine]], [[organizations/taiwanese-student-association-at-uc-irvine||TSA at UC Irvine]], and [[organizations/taiwanese-graduate-student-association-at-uc-irvine||TGSA at UC Irvine]] from the campus where he held the Distinguished/Chancellor's Professorship (1980–).
 
 ## Sources
 - [TAH #27 encyclopedia: 27. Prof. Chen S. Tsai 蔡振水教授](https://taiwaneseamericanhistory.org/27-prof-chen-s-tsai/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Yvonne Cheng (鄭瑜英)
 
@@ -42,6 +42,9 @@ Yvonne Cheng graduated with a degree in music from the Shih Chien University in 
 - **Daughter:** Jessica Letizia
 - **Son:** none
 
+
+## Connected in the Vault
+Her TAH encyclopedia entries are held in the vault as community historical record: [[works/taiwaneseamericanhistory-org/90-yvonne-cheng-e9-84-ad-e7-91-9c-e8-8b-b1-soprano||TAH Encyclopedia #90: Yvonne Cheng 鄭瑜英, Soprano]] (2014/12) and [[works/taiwaneseamericanhistory-org/140-yvonne-cheng-e9-84-ad-e7-91-9c-e8-8b-b1||TAH Encyclopedia #140: Yvonne Cheng 鄭瑜英]].
 
 ## Sources
 - [TAH #90 encyclopedia: 90.Yvonne Cheng 鄭瑜英, Soprano/2014/12](https://taiwaneseamericanhistory.org/90-yvonne-cheng-%e9%84%ad%e7%91%9c%e8%8b%b1-soprano/)
