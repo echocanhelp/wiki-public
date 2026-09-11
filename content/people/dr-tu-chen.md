@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Dr. Tu Chen (陳都博士)
 
@@ -69,4 +69,5 @@ Accomplishment
 - [[works/taiwaneseamericanhistory-org/whos-who-17-chen-tu-chen||TAH #17 profile]]
 - [[works/taiwaneseamericanhistory-org/92-dr-tu-chen-dr-c-c-shir-and-dr-c-s-huang-e9-99-b3-e9-83-bd-e3-80-81-e7-9f-b3-e||TAH #92 百科條目（Dr. Tu Chen 等三人）]] — vault 內另一則含本人之條目
 
+<!-- deepen-note: 2026-09-11 re-review — page already carries the full absorb of its cited TAH records (#25/#107/#17/#92) plus the UMN award and Our Journeys #65/#9 records; no further vault-only facts remain. -->
 <!-- deepen-note: 2026-09-10 — 僅重組本頁既有事實並補上 vault 內已存在之作品頁連結；未新增傳記內容。FAPA 目前 vault 僅有 [[organizations/fapa-los-angeles||洛杉磯分會]] 與 [[organizations/fapa-orange-county||橙縣分會]] 頁面，本頁所載為 FAPA 全國董事會，故未連至分會頁。 -->
