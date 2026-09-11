@@ -44,6 +44,15 @@ last_reviewed: 2026-09-10
 - First entered the board as 個人董事 at the 第11屆 會員大會 in 2018 (20 個人董事, 13 新任 — the largest turnover in 會館 history), then rose to 副董事長
 - Remains among the 38位董事 named in the 第26周年年會晚宴 announcement, 2024-11
 
+## Cohort deepening (deepen pass 2026-09-10)
+
+Fellow 38位董事 named in the same 2024-11 announcement who have their own pages — the pool from which the 2024-12 內部會議 elected officers (president, secretary, treasurer) [[sources/taiwancenter-org]]:
+
+- [[people/willy-pan||Willy Pan (潘建宇)]] — 董事, same cohort
+- [[people/alan-thian||田詒鴻 (Alan Thian)]] · [[people/simon-lin||林榮松 (Simon Lin)]] — chairman / vice chairman of the 第11屆 board elected 2018
+- [[people/paul-chen||陳柏宇 (Paul Chen)]] · [[people/meifeng-tsai||王梅鳳 (Meifeng Tsai)]] — 監事 pair in the 2018-06 第11屆 常務董事名單 (會館 組織章程 amendment passed at the same meeting)
+- [[people/ray-jan||冉瑞宜 (Ray Jan)]] · [[people/ken-wu||吳兆峯 (Ken Wu)]] — consecutive president / 副董事長 in the same leadership lineage
+
 ## Related Pages
 
 - [[organizations/taiwan-center||Taiwan Center]]

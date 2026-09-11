@@ -8,6 +8,7 @@ tags:
   - tah-whos-who
 verification_status: pending
 last_reviewed: 2026-09-10
+absorb_note: 2026-09-10 deep pass — sole cited work record 34-e9-bb-83 dated 2015-03-06; no other vault page mentions him
 ---
 # SHIH CHIEH HUANG (黃世傑)
 

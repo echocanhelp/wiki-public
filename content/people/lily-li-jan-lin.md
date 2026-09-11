@@ -35,6 +35,10 @@ last_reviewed: 2026-09-10
 
 In 1990 she emigrated to the United States and settled in Fountain Valley, Orange County, California, where she gave repeatedly acclaimed solo vocal recitals and built a second career as a choral conductor — leading the Irvine Youth Chorus, the South Orange County Women's Chorus, and the Irvine Chinese School Chorus. Her conductor profile was recorded in TAH encyclopedia entry [[works/taiwaneseamericanhistory-org/177-e6-9e-97-e9-ba-97-e8-b2-9e-conductor-201503||TAH #177 (2015/03)]].
 
+## Vault Cross-check (deepen pass 2026-09-10)
+- Her cited encyclopedia record [[works/taiwaneseamericanhistory-org/177-e6-9e-97-e9-ba-97-e8-b2-9e-conductor-201503|TAH #177]] was published 2015-03-22.
+- 許丕龍's account of the 2018 蕭泰然音樂節 (Disney Concert Hall, Los Angeles, with NTSO) records that she directed the 福爾摩莎之愛 choir section among the 216 singers rehearsed in five regions for the 2018-08-09 festival: [[works/taiwaneseamericanhistory-org/ourjourneys340|TAH #340 寫在泰然音樂節前夕, 2018-08]].
+
 ## Family
 
 _No filled family fields on the TAH profile._

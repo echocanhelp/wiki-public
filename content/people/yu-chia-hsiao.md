@@ -45,6 +45,11 @@ Yu-Chia Hsiao, currently join the Virginia Symphony Orchestra for the 2014-15 se
 - **Son:** ???
 
 
+## Vault Holdings
+本頁所引 TAH 故事紀錄已入庫：
+- [[works/taiwaneseamericanhistory-org/226-yu-chia-hsiao-violinist-201506|TAH #226 — Yu-Chia Hsiao, Violinist（2015/06）]]
+- [[works/taiwaneseamericanhistory-org/466-yu-chia-hsiao-201506|TAH #466 — Yu-Chia Hsiao（2015/06）]]
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yu-chia-hsiao/)
 

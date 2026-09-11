@@ -45,6 +45,9 @@ Chun Hsin Jenny Wu started playing the violin at age four in Kao-Hsiung, Taiwan.
 - Competition circuit: Southern California Young Musicians Competition, Fort Collins Symphony Orchestra, Jefferson Symphony Orchestra, MTNA Young Artist Competition.
 - Chamber music: Piove Trio; Outstanding Chamber Music Honors at the University of Colorado.
 
+## Vault Cross-check (deepen pass 2026-09-10)
+- Her two cited TAH encyclopedia records carry publication dates: [[works/taiwaneseamericanhistory-org/musician4|TAH #4, Violinist]] (2014-10-11) and [[works/taiwaneseamericanhistory-org/whoswho1082|TAH #1082]] (2016-06-18). No other vault page records additional facts about her.
+
 ## Family
 
 _No filled family fields on the TAH profile._
