@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-11
 ---
 # R. F. Huang (許黃瑞鳳)
 
@@ -30,8 +30,7 @@ last_reviewed: 2026-08-17
 <!-- tah-tables:end -->
 
 ## Family
-
-_No filled family fields on the TAH profile._
+- **Mother:** 柯明珠 — 三十年代留日聲樂家 (per TAH #409 biography above)
 
 ## Sources
 - [TAH #409 encyclopedia: 409. R. F. Huang許黃瑞鳳, conductor / 07/2017](https://taiwaneseamericanhistory.org/musician409/)
