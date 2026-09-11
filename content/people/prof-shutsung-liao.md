@@ -46,6 +46,13 @@ Accomplishment
 - **Same person, deeper page:** [[people/liao-shu-zong|Liao Shu-zong 廖述宗]] (from the TAHS 2017 publication) — parents painter [[people/liao-ji-chun|廖繼春]] and [[people/lin-qiong-xian|林瓊仙]]; spouse 郭淑卿; Ben May Department of Molecular Biology, Univ. of Chicago (5-alpha-reductase/DHT discovery).
 - **Date conflict held (no merge):** this TAH record gives 1931–2015 and NTU B.S. 1953; the 2017 TAHS bio gives death 2017 and B.S. 1954.
 
+## Vault Cross-check (deepen pass 2026-09-10)
+- A second NATPA award in his name predates the Memorial Award: [[works/taiwaneseamericanhistory-org/natpa-professor-liao-shutsung-research-award|NATPA Professor Liao Shutsung Research Award]] (vault record dated 2015-07-21).
+- His personal archival holdings are themselves a vault work: [[works/taiwaneseamericanhistory-org/collection-of-prof-shutsung-liao|Collection of Prof. Shutsung Liao 廖述宗教授的收藏]] (2017-05-19).
+- TAHS memoirs place him in the family network: [[works/taiwaneseamericanhistory-org/our-journeys-350|Our Journeys #350]] records him as the son of painter [[people/liao-ji-chun|廖繼春]].
+- [[works/taiwaneseamericanhistory-org/ourjourneys318|Our Journeys #318]] records him as a speaker (with 黃彰輝, 陳南天) at the first 美南台灣人夏令會, Sam Houston State University — an early community-organizing role alongside his NATPA founding.
+- Duplicate encyclopedia entries in-vault: [[works/taiwaneseamericanhistory-org/9-prof-shutsung-liao|#9]], [[works/taiwaneseamericanhistory-org/100-prof-shutsung-liao|#100]], [[works/taiwaneseamericanhistory-org/whos-who-174-shutsung-liao|#174]].
+
 ## Family
 
 - **Wife:** 郭淑卿

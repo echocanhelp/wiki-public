@@ -61,6 +61,11 @@ Note: the on-page narrative ("25 years" at Tamkang) and the employment table (19
 ## Connected in the Vault
 - Archival profiles: [[works/taiwaneseamericanhistory-org/musician357|TAH #357 (Composer & Educator)]] · [[works/taiwaneseamericanhistory-org/whoswho1252|TAH #1252]] · [[works/taiwaneseamericanhistory-org/publications371|TAH #371 (2001-09 biography)]]
 - Community hub: [[sources/taiwaneseamericanhistory-org-story-corpus|TAH story corpus hub]]
+- Vault Cross-check (deepen pass 2026-09-10):
+  - Concert record: [[works/taiwaneseamericanhistory-org/concerts36|舊情綿綿憶淡水 — 陳泗治作曲發表暨洪榮宏演唱會]], presented by the 南加州淡江中學校友會 at Anaheim 基督長老教會, Artesia, CA, 1998-09-19 — his alma-mater network (淡江中學) kept performing his works in the US.
+  - Personal memoir: [[works/taiwaneseamericanhistory-org/mystories40|感懷陳泗治牧師 / 徐玫玲]] — remembers him as a 牧師 (minister), consistent with his theological training at 台灣神學院.
+  - Performance history: [[works/taiwaneseamericanhistory-org/ourjourneys301|Our Journeys #301]] records his pieces on the LA 台灣文化之夜 stages — pianist 陳毓襄 played two of his works (1991) and 陳芳玉 played 「龍舞與回憶」.
+  - The composer quoted on-page ("a master of all masters") is [[people/chuang-shien-lu|呂泉生 (Chuang-Shien Lu)]], who has his own vault page.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

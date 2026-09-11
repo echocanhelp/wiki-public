@@ -51,6 +51,14 @@ The family ran a stationery shop called "文藝社" (Wenyi She) at home. Lin Qio
 - Later life in Chicago; remembered for 热心公益 public-welfare work and for raising 8 children while supporting her husband's artistic career
 - Yang Jia-you's memorial recalls her as from 清水 (Qingshui), the same hometown as the Yang family — see [[people/yang-jia-you||楊嘉猷 (Charles Yang)]]
 
+## Deepen pass 2026-09-10 (vault-only)
+
+Cross-links from the same cited source set (2017 TAHS Publication + TAH Who's Who records in the vault):
+
+- Son [[people/liao-shu-zong||廖述宗]] has a second, TAH-sourced page [[people/prof-shutsung-liao||Prof. Shutsung Liao]]: Univ. of Chicago Ph.D. 1961 (Biochemistry & Molecular Biology), professor at the Institute of Biochemistry and Molecular Biology there, **1980 founding president of the North America Taiwanese Professors' Association (NATPA)**. The TAH record there holds a date conflict (1931–2015 vs the TAHS bio's death 2017) — deliberately unmerged.
+- Daughter-in-law [[people/guo-shu-qing||郭淑卿]] also appears in TAH Who's Who as [[people/shuching-liao||Shuching Liao (廖郭淑卿)]] (TAH #478, 1934–2015, 東京神學院 B.S., 芝加哥大學神學院 M.S., 台灣台中) — the 1960 Chicago marriage Lin Qiong-xian arranged produced four daughters: 廖慈瑛, 廖慈芬, 廖慈明, 廖慈卿.
+- The matchmaking target was a fellow townsman's daughter coming to Chicago for graduate studies — consistent with her own theological training in Tokyo and Chicago.
+
 ## Network
 
 Pages that link to **lin-qiong-xian** (lin-qiong-xian):
