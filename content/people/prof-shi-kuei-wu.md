@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Prof. Shi-Kuei Wu (吳錫圭教授)
 
@@ -18,8 +18,6 @@ last_reviewed: 2026-09-10
 - **Geography:** Tainan, Taiwan
 - **Core roles:** scientist, physician, professor, educator
 - **Source:** TAH Foundation Who’s Who
-
-2. Curator Emeritus of Zoology, Univ. of Colorado Museum, Univ. of Colorado at Boulder (科羅拉多大學波德博物館動物館館長) 1973-1999
 
 ## Career & Community
 - Educated in biology at National Taiwan Normal University (B.S.) and at the University of Michigan (M.D., Ph.D.).

@@ -10,7 +10,7 @@ tags:
   - TPC
   - Presbyterian
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Rev. Tsai Weiren (蔡維仁)
 
@@ -25,7 +25,7 @@ last_reviewed: 2026-09-10
 
 ## Timeline
 - **1981–1986** — GSTPC 青、少年輔導 / 執事 (own essay: part of **十八年**)
-- **2003 mid** — From Massachusetts back to SoCal; 就讀正道福音神學院; resumed GSTPC worship (essay p.9)
+- **2003 mid** — From Massachusetts back to SoCal; 就讀 [[works/taiwaneseamericanhistory-org/logos-evangelical-seminary||正道福音神學院]]; resumed GSTPC worship (essay p.9)
 - **2004–2016** — 神學生、傳道、牧師 at GSTPC
 - **2006–2016** — 第二任牧師 (essay byline). Call committee named in 潘淑姃 40th
 - **2008–** — 純雅 led youth STM to rural Taiwan; **eight** bilingual camps; **seven** Taiwan host churches (essay)
