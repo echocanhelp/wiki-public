@@ -54,3 +54,10 @@ _No filled family fields on the TAH profile._
 ## Connected in the Vault
 - His profile line records his connection to the History of Taiwanese American (T.A. Archives) 台美史料中心; the vault holds the founding account [[works/taiwaneseamericanhistory-org/introduction-of-the-ta-archives|TAH #27: Brief History of the Taiwanese American Archives 台美史料中心的介紹]].
 - No separate Echopedia pages exist yet for his ensembles (Amphion String Quartet, New Asia Chamber Music Society 新亞室內樂協會, International Sejong Soloists, Quartet 131), his schools (Juilliard, Stony Brook) or the Taiwanese Junior Chamber of Commerce of New York; the cited TAH #218 / #504 encyclopedia URLs remain the anchors.
+
+## Vault Cross-check (deepen pass 2026-09-10, vault-only)
+- A third TAH encyclopedia record is held in the vault: **#248 "Andy Lin 林維洋, Viola"**, published **2015-07-18** (same day as the #504 profile; both Band-B bibliographic records) — [[works/taiwaneseamericanhistory-org/248-andy-lin-e6-9e-97-e7-b6-ad-e6-b4-8b-viola-201507|TAH #248 (viola profile, 2015/07)]].
+- His #218 profile is archived in the vault story corpus as [[works/taiwaneseamericanhistory-org/53017|TAH #218 (vault copy, published 2019-01-10)]].
+- Two in-vault news articles record his New York performances beyond the TAH profile:
+  - **2022-06-19** — erhu performance at TaiwanFest, New York (first post-pandemic Taiwan market) — [[articles/taiwanjustice-net/2022/20220705123945_2022_06_19_睽違3年-紐約重現台灣市集人潮絡繹不絕_d7b960d1fafbdf9e|Taiwan Justice report, 2022-07-05]].
+  - **2025-10-10** — as 旅美音樂家, performed the US national anthem pre-game at NY Mets Taiwan Day (中職彭政閔開球場次) — [[articles/taiwanjustice-net/2025/20251010055223_彭政閔穿兄弟23號黃衫開球-嗨翻紐約大都會台灣日_f320577df2a77e4d|Taiwan Justice report, 2025-10-10]].

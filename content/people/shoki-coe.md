@@ -61,4 +61,4 @@ From [[works/taiwaneseamericanhistory-org/our-journeys-350|張瑞雄牧師口述
 
 ## Related Pages
 - [[people/index||People Index]]
-- [[organizations/good-shepherd-taiwanese-presbyterian-church||Good Shepherd Taiwanese Presbyterian Church]]
+- [[sources/good-shepherd-taiwanese-presbyterian-church||Good Shepherd Taiwanese Presbyterian Church]]

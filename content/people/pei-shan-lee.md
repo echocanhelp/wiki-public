@@ -47,6 +47,7 @@ _No filled family fields on the TAH profile._
 
 ## Vault Cross-References
 - TAH encyclopedia records for this profile exist in the vault: [[works/taiwaneseamericanhistory-org/304-pei-shan-lee-e6-9d-8e-e8-93-93-e7-8f-8a-pianist-201510|TAH #304 Pei-Shan Lee (Pianist), 2015/10]] and [[works/taiwaneseamericanhistory-org/21407|TAH #674 PEI-SHAN LEE, 2015/10]].
+- 2026-09-10 cross-check: the vault also holds a distinct TAH pianist record, [[works/taiwaneseamericanhistory-org/103-hanchien-lee-e6-9d-8e-e5-87-bd-e8-92-a8-pianist|TAH #103 Hanchien Lee (Pianist)]] — a different person, kept here only as a name-disambiguation pointer.
 
 ## Career Notes
 - Concert venues include the Kennedy Center, Lincoln Center's Avery Fisher and Alice Tully Halls, Carnegie Hall's Weill Recital Hall, Boston's Jordan Hall, Cleveland's Severance Hall, and Taiwan's National Concert Hall, plus tours of France, Germany, Belgium, and Israel.

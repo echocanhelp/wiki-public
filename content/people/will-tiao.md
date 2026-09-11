@@ -47,6 +47,15 @@ _No filled family fields on the TAH profile._
 ## Vault records
 - [[works/taiwaneseamericanhistory-org/40-will-tiao-e5-88-81-e6-af-93-e8-83-bd-the-first-movie-producer-formosa-betraye||TAH #40: Will Tiao 刁毓能 — first movie producer, "Formosa Betrayed" (2009)]]
 
+## Vault records (deepen pass 2026-09-10)
+Additional records about this person already held in the vault (taiwaneseamerican.org harvest):
+- [[works/taiwaneseamerican-org/a-message-from-will-tiao-producer-of-formosa-betrayed||A message from Will Tiao, producer of Formosa Betrayed]]
+- [[works/taiwaneseamerican-org/an-open-letter-from-producer-will-tiao-to-the-fans-of-formosa-betrayed||An open letter from producer Will Tiao to the fans of Formosa Betrayed]]
+- [[works/taiwaneseamerican-org/meet-formosa-betrayeds-will-tiao-and-adam-kane-at-northwestern-university||Meet Formosa Betrayed's Will Tiao and Adam Kane at Northwestern University]]
+- [[works/taiwaneseamerican-org/will-tiao-speaking-at-emory-university-422||Will Tiao speaking at Emory University 4/22 (2010)]]
+- [[works/taiwaneseamericanhistory-org/10-formosa-betrayed-e8-a2-ab-e5-87-ba-e8-b3-a3-e7-9a-84-e5-8f-b0-e7-81-a3||TAH #10 — Formosa Betrayed (film record)]]
+- TAHS campus-network pages: [[organizations/taiwanese-association-of-students-at-tufts||Taiwanese Association of Students at Tufts]], [[organizations/columbia-university-taiwanese-student-association||Columbia University Taiwanese Student Association]]
+
 ## Sources
 - [TAH #233 encyclopedia: 233. Will Tiao 刁毓能](https://taiwaneseamericanhistory.org/ota-233/)
 - [TAH #40 encyclopedia: 40. Will Tiao 刁毓能 / The first movie producer / “Formosa Betrayed” / 2009](https://taiwaneseamericanhistory.org/40-will-tiao-%e5%88%81%e6%af%93%e8%83%bd-the-first-movie-producer-formosa-betrayed-2009/)

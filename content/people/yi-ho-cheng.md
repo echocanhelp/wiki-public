@@ -52,6 +52,14 @@ His TAH encyclopedia entries are archived in the vault:
 ## Honours (vault-internal)
 - **2018-07** — Lifetime Achievement Award by Taiwanese Association of America — recorded in the vault: [[works/taiwaneseamericanhistory-org/lifetime-achievement-award-yi-ho-cheng|TAH #68, TAA Lifetime Achievement Award]], conferred by [[organizations/taiwanese-association-of-america||Taiwanese Association of America]].
 
+## First-presidency detail (deepen pass 2026-09-10, absorbed from in-vault 全美會 histories)
+From [[works/taiwaneseamericanhistory-org/ourjourneys76|TAH #76 — 全美台灣同鄉會 (吳木盛, 2014/12)]], [[works/taiwaneseamericanhistory-org/our-journeys-357|Our Journeys #357]] and [[works/taiwaneseamericanhistory-org/22033|TAH #5 — The First president of Formosa Club of America (1970)]]:
+- **1970-01-28** — jointly proposed a national federation with 許和瑞 (Los Angeles 同鄉會, [[people/ho-rui-hsu|ho-rui-hsu]]) and 林錦弘 (Chicago 同鄉會), circular sent to all local clubs.
+- **1970-07-01** — 全美台灣同鄉會 founded in New York with 28 charter chapters; 鄭義和 elected **first president**, 許和瑞 vice president, 陳隆豐 ([[people/dr-lung-fong-chen|dr-lung-fong-chen]]) secretary, 吳錫賢 treasurer; term 1970-07-01 → 1972-06-30.
+- During his term 6 further chapters joined (Minneapolis, Baton Rouge, Dallas, Lawrence, Buffalo, Rochester) — 34 chapters at handover.
+- **1971-08-13** — incorporated as The Formosan Club of America, Inc. in Washington, D.C.; directors 黃際鑫, 鄭義和, 陳隆豐.
+- **2022-10-24** — as 全美會創會會長暨彭明敏文教基金會董事長, hosted the 全美會 return-visit banquet in Taipei (with 1986 全美會會長楊黃美幸 accompanying); Vice President 賴清德 made a surprise visit. Photo record also shows current 全美會會長 陳桂鈴 ([[people/kuei-ling-chen|kuei-ling-chen]]) — [[works/taiwaneseamericanhistory-org/our-journeys-382|Our Journeys #382 — 2022年全美會回台參訪記 (2022/11)]].
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[organizations/taiwanese-association-of-america||Taiwanese Association of America]]

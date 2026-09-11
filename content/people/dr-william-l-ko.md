@@ -55,6 +55,13 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/dr-william-l-ko-the-oldest-professional-employee-still-working-at-age-of-90-for-|TAH #349 — The Oldest Professional Employee, still working at 90 for Dryden Flight Research Center NASA, Edwards, CA]]
 - [[works/taiwaneseamericanhistory-org/mystories-399-dr-william-ko|TAH My Stories #399 — Pride of Taiwanese American: The Story of Dr. William Ko (NASA Tech Briefs, 02/2016)]]
 
+## Honours & Later Record (deepen pass 2026-09-10, vault-only)
+- **40-year NASA employment record** — the vault's TAH #383 records him as the scientist with the longest employment record at NASA: forty years, 1978–2018 — [[works/taiwaneseamericanhistory-org/383-dr-william-kuo|TAH #383 — The Scientist with the Longest Employment Record in NASA]]; corroborated by NASA's own feature [[works/taiwaneseamericanhistory-org/mystories607|TAH My Stories #607 — "With 40 Years at the Center, Dr. William Ko Is Still Going Strong" (NASA, 2017/11)]] and by [[works/taiwaneseamericanhistory-org/photo-albums-activities-115|TAH photo album #115 — Life Story of Dr. William Ko]].
+- **NASA Distinguished Service Medal (2015)** — NASA's highest honor — [[works/taiwaneseamericanhistory-org/winners14|TAH winners #14]].
+- **Honorary Citizenship of the Republic of Texas (1968)** — [[works/taiwaneseamericanhistory-org/winners16|TAH winners #16]].
+- **Pioneer record** — the vault holds him as the first Ph.D. holder in aerospace engineering — [[works/taiwaneseamericanhistory-org/ff119|TAH #119 — William Leslie Ko 柯威霖 / First Ph. D. Holder in Aerospace Engineering]].
+- Railroad art & literature: 鐵道短篇小說及鐵道美術畫集 (2008–) — [[works/taiwaneseamericanhistory-org/pub436-railroad-short-stories|TAH pub #436 — 鐵道短篇小說及鐵道美術畫集 (柯威霖)]].
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

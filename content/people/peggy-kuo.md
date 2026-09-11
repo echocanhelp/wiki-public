@@ -50,6 +50,9 @@ Community leadership: former President, Federal Bar Council American Inn of Cour
 - **Mother:** 蔡玉枝
 
 
+## Vault Holdings
+- 2026-09-10 cross-check: the four cited TAH records are all held in the vault as bibliographic works — [[works/taiwaneseamericanhistory-org/ota-226|TAH #226 Magistrate Judge Peggy Kuo, 2019/01]], [[works/taiwaneseamericanhistory-org/ff357|TAH #357 First Magistrate Judge, 2015/10]], [[works/taiwaneseamericanhistory-org/whos-who-1992-peggy-kuo|TAH #1992 Who's Who, 2018/01]] and [[works/taiwaneseamericanhistory-org/peggy-kuo|Peggy Kuo in New York, 2020/06]].
+
 ## Sources
 - [TAH #226 encyclopedia: 226. Magistrate Judge Peggy Kuo 郭佩宇](https://taiwaneseamericanhistory.org/ota-226/)
 - [TAH #357 encyclopedia: 357. Peggy Kuo 郭佩宇 / First Magistrate Judge / 10/2015](https://taiwaneseamericanhistory.org/ff357/)
