@@ -57,8 +57,6 @@ last_reviewed: 2026-09-11
 - [TAH #192 encyclopedia: 192. Dr. Fu-Tong Hsu 徐福棟博士](https://taiwaneseamericanhistory.org/whos-who-192-fu-tong-hsu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-fu-tong-hsu/)
 
-- President, TAA/New Jersey Chapter — the chapter's own vault page: [[organizations/taiwanese-association-of-america-new-jersey||TAA New Jersey (紐澤西台灣同鄉會)]]; his Oklahoma M.S. years (1961–1962) coincide with the [[organizations/taiwanese-association-of-oklahoma||Taiwanese Association of Oklahoma]] era, though no personal membership is documented.
-
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
